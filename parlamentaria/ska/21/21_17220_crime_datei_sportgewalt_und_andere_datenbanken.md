@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 18
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7639"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66791"
@@ -89,13 +90,13 @@ Die Kriterien zur Speicherung einer Person in der Datei unterscheiden sich je na
 
 Im Folgenden werden die in der Errichtungsanordnung genannten Personenrollen mit den jeweiligen Speicherkriterien aufgelistet:
 
- Beschuldigte/Verdächtige
+– Beschuldigte/Verdächtige
 
 „Personen, gegen die ein strafrechtliches Ermittlungsverfahren eingeleitet worden ist (§ 16 Abs. 2 S. 3 PolDVG), um die Täterschaft festzustellen. Voraussetzung ist, dass eine Negativprognose hinsichtlich der Begehung weiterer Straftaten im Sinne der Zweckbestimmung dieser Datei gestellt wird.“
 
- Störer/Verantwortlicher für eine Gefahr „Personen, die für eine Gefahr im Sinne der Zweckbindung dieser Datei verantwortlich sind und gegen die kein strafrechtliches Ermittlungsverfahren im Sinne des § 16 Abs. 2 S. 3 PolDVG eingeleitet worden ist, deren Speicherung zur Aufgabenerfüllung gemäß § 16 Abs. 1 PolDVG jedoch erforderlich ist.“
+– Störer/Verantwortlicher für eine Gefahr „Personen, die für eine Gefahr im Sinne der Zweckbindung dieser Datei verantwortlich sind und gegen die kein strafrechtliches Ermittlungsverfahren im Sinne des § 16 Abs. 2 S. 3 PolDVG eingeleitet worden ist, deren Speicherung zur Aufgabenerfüllung gemäß § 16 Abs. 1 PolDVG jedoch erforderlich ist.“
 
- Kontakt- und Begleitpersonen „Kontakt- oder Begleitpersonen gemäß § 1 Abs. 6 PolDVG im Sinne dieser Errichtungsanordnung sind Personen, die mit einer Person, von der tatsächliche Anhaltspunkte die Annahme rechtfertigen, dass diese Person Straftaten begehen wird, in einer Weise in Verbindung stehen, die die Erhebung ihrer personenbezogenen Daten zur vorbeugenden Bekämpfung dieser Straftaten erfordert.“
+– Kontakt- und Begleitpersonen „Kontakt- oder Begleitpersonen gemäß § 1 Abs. 6 PolDVG im Sinne dieser Errichtungsanordnung sind Personen, die mit einer Person, von der tatsächliche Anhaltspunkte die Annahme rechtfertigen, dass diese Person Straftaten begehen wird, in einer Weise in Verbindung stehen, die die Erhebung ihrer personenbezogenen Daten zur vorbeugenden Bekämpfung dieser Straftaten erfordert.“
 
 ### Frage 5
 
@@ -105,39 +106,39 @@ Welche Daten einer Person (zum Beispiel Anschrift, Telefonnummer, Auffälligkeit
 
 Folgende Daten zu einer in der Datei „Sportgewalt“ eingetragenen Person werden gespeichert:
 
- Name
+– Name
 
- Vorname
+– Vorname
 
- Geburtsdaten
+– Geburtsdaten
 
- Nationalität/Staatsangehörigkeit
+– Nationalität/Staatsangehörigkeit
 
- Geschlecht
+– Geschlecht
 
- Sonstiger Name
+– Sonstiger Name
 
- Spitzname
+– Spitzname
 
- erstmaliges Auftreten im Zusammenhang mit Sportgewalt
+– erstmaliges Auftreten im Zusammenhang mit Sportgewalt
 
- Fan-Kategorie
+– Fan-Kategorie
 
- Gruppenzugehörigkeit
+– Gruppenzugehörigkeit
 
- Vereinszugehörigkeit
+– Vereinszugehörigkeit
 
- Auswärtsfahrer
+– Auswärtsfahrer
 
- Beruf / Tätigkeit
+– Beruf / Tätigkeit
 
- Straftaten und Ordnungswidrigkeiten mit Sportbezug (bundesweit)
+– Straftaten und Ordnungswidrigkeiten mit Sportbezug (bundesweit)
 
- Verfahrensausgänge
+– Verfahrensausgänge
 
- präventiv-polizeiliche Maßnahmen (bundesweit)
+– präventiv-polizeiliche Maßnahmen (bundesweit)
 
- Negativprognose
+– Negativprognose
 
 ### Frage 6
 
@@ -147,11 +148,11 @@ Welche Prüf- und Löschfristen gelten für die Datei „Sportgewalt“?
 
 In der Datei gelten folgende Aussonderungsprüffristen:
 
- Fünf Jahre für Beschuldigte
+– Fünf Jahre für Beschuldigte
 
- drei Jahre für Störer/Verantwortliche für eine Gefahr,
+– drei Jahre für Störer/Verantwortliche für eine Gefahr,
 
- ein Jahr für Kontakt- und Begleitpersonen.
+– ein Jahr für Kontakt- und Begleitpersonen.
 
 Spätestens nach Ablauf der Frist wird geprüft, ob die Speicherung der Person in der Datei weiterhin erforderlich ist. Kann eine Erforderlichkeit nicht festgestellt werden, werden die Daten der Person gelöscht. Für Kontakt- und Begleitpersonen gilt eine Höchstspeicherdauer von drei Jahren.
 

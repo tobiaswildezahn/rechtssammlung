@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67689"
@@ -53,7 +54,7 @@ Wie viele Kinder und Jugendliche im schulpflichtigen Alter mit Fluchthintergrund
 
 Wie viele von ihnen wurden mit Beginn des Schuljahres 2019/2020 in Basis- beziehungsweise IV-Klassen beschult? Bitte differenziert für Basis- und IV-Klassen darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Angaben zu den sprachlichen und schriftlichen Vorkenntnissen in arabischen Schriftzeichen werden von der für Bildung zuständigen Behörde nicht zentral erfasst. Der Behörde für Inneres und Sport liegen diesbezüglich ebenfalls keine Erkenntnisse vor, Angaben zur Fragestellung werden im ausländerrechtlichen Fachverfahren nicht erfasst und stellen kein Auswertungsmerkmal dar.
 
@@ -111,7 +112,7 @@ Warum werden Heranwachsende, die weder die deutsche Sprache noch die arabischen 
 
 Wo und in welcher Form werden die Kinder und Jugendlichen stattdessen auf die Regelbeschulung vorbereitet?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Entfällt, siehe Vorbemerkung.
 

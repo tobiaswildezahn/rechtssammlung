@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 22
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1282", "19/3179", "21/809"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49536"
@@ -153,31 +154,31 @@ An welchen Schulen ist eine Schulinspektion im kommenden Schuljahr 2015/2016 zu 
 
 Insgesamt werden voraussichtlich 53 Schulen im Schuljahr 2015/2016 inspiziert. Folgende Schulen sind über den Schulbesuch bereits informiert:
 
- Charlotte-Paulsen-Gymnasium (KW 37)
+– Charlotte-Paulsen-Gymnasium (KW 37)
 
- Gymnasium Osterbek (KW 37)
+– Gymnasium Osterbek (KW 37)
 
- Schule Speckenreye (KW 37)
+– Schule Speckenreye (KW 37)
 
- Helmut-Schmidt-Gymnasium (KW 37)
+– Helmut-Schmidt-Gymnasium (KW 37)
 
- Gymnasium Eppendorf (KW 38)
+– Gymnasium Eppendorf (KW 38)
 
- Immanuel-Kant-Gymnasium (KW 38)
+– Immanuel-Kant-Gymnasium (KW 38)
 
- Stadtteilschule Eppendorf (KW 41)
+– Stadtteilschule Eppendorf (KW 41)
 
- Stadtteilschule Am Heidberg (KW 41)
+– Stadtteilschule Am Heidberg (KW 41)
 
- Staatliche Handelsschule Holstenwall (H 14) (KW 41)
+– Staatliche Handelsschule Holstenwall (H 14) (KW 41)
 
- Nelson-Mandela-Schule (KW 41)
+– Nelson-Mandela-Schule (KW 41)
 
- Gymnasium Oldenfelde (KW 42)
+– Gymnasium Oldenfelde (KW 42)
 
- Schule am See (KW 42)
+– Schule am See (KW 42)
 
- Staatliche Handelsschule Berliner Tor (H 18) (KW 47)
+– Staatliche Handelsschule Berliner Tor (H 18) (KW 47)
 
 Im Übrigen sind die Planungen für das weitere Schuljahr, auch aufgrund der Abstimmung mit den Schulen, noch nicht abgeschlossen (zum Verfahren siehe Drs. 19/3179).
 

@@ -14,6 +14,7 @@ fragen: 29
 einzelfragen: 38
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61715"
@@ -101,7 +102,7 @@ Welche weiteren Flächen werden im Zusammenhang mit dem geplanten Hotelneubau an
 
 Seit wann ist den weiteren Mietern beziehungsweise Pächtern das Ende der Vertragslaufzeit bekannt und zu wann wurden beziehungsweise werden entsprechende Nachbarflächen geräumt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Den zuständigen Behörden liegen hierzu keine Informationen vor. Im Übrigen siehe Antwort zu 4.
 
@@ -113,7 +114,7 @@ Gehört es zum Empfehlungsrepertoire der Hamburger Wirtschaftsförderung beziehu
 
 Welche weiteren Hilfen, außer der unter Frage 9. erwähnten, wurden durch die HWF beziehungsweise Hamburg Invest der Firma Fische Faerber bei der Suche nach einer Ersatzbelegenheit entgegengebracht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Vorbemerkung.
 
@@ -247,7 +248,7 @@ Wie hoch war der durchschnittliche finanzielle Einsatz der HWF beziehungsweise v
 
 Wie verteilt sich der Aufwand der HWF beziehungsweise von Hamburg Invest auf die Größenklassen Kleinunternehmen (wie Fische Faerber), KMU und Großunternehmen hinsichtlich der Faktoren Zeit- beziehungsweise Arbeitseinsatz durch die jeweiligen Mitarbeiter und erbrachte Fördermittel in den Jahren 2012 bis Ende 2017?
 
-#### Antwort zu Fragen 26 bis 27
+#### Antwort zu Fragen 26 und 27
 
 Die Betreuung aller anfragenden Unternehmen durch die HIW erfolgt unabhängig von ihrer Unternehmensgröße. Der Aufwand der Betreuung richtet sich nicht nach der Unternehmensgröße, sondern nach der Komplexität der Aufgabenstellung. Eine Zeiterfassung hinsichtlich der Betreuung einzelner Unternehmen erfolgt nicht. Die HIW ist bemüht, allen anfragenden Unternehmen konkrete Hilfestellung zu leisten.
 

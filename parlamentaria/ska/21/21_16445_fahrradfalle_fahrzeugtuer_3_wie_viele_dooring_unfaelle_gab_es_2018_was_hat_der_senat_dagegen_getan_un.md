@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16341", "21/9402", "21/14017", "21/9564"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65956"
@@ -82,7 +83,7 @@ Auf wie vielen Straßenkilometern in Hamburg sind aktuell Radfahr- oder Schutzst
 
 Auf wie vielen Straßenkilometern wurden seit 2011 in Hamburg Radfahroder Schutzstreifen aufmarkiert? Bitte jahresweise inklusive des laufenden Jahres aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Für die Längen der Straßenkilometer, auf denen Schutz- und Radfahrstreifen eingerichtet wurden, siehe nachstehende Tabelle:
 

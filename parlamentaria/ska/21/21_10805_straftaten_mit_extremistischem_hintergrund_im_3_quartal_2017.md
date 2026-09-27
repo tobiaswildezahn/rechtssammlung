@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3165"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59713"
@@ -65,7 +66,7 @@ Welche linksextremistisch motivierten Straftaten gab es im 3. Quartal 2017? Bitt
 
 Wie viele Tatverdächtige wurden im 3. Quartal 2017 wegen linksextremistisch motivierter Straftaten festgenommen? Bitte nach Geschlecht aufschlüsseln und die zugrundeliegende Straftat nennen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Festnahmen werden statistisch nicht erfasst. Die in anderen Fällen übliche Handauswertung von Akten war vorliegend angesichts der hohen Zahl von Ermittlungsverfahren in diesem Quartal (Anlage 2) in der für die Beantwortung einer Parlamentarischen
 
@@ -89,7 +90,7 @@ Welche rechtsextremistisch motivierten Straftaten gab es im 3. Quartal 2017? Bit
 
 Wie viele Tatverdächtige wurden im 3. Quartal 2017 wegen rechtsextremistisch motivierter Straftaten festgenommen? Bitte nach Geschlecht aufschlüsseln und die zugrundeliegende Straftat nennen.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Anlage 3. Tatverdächtige wurden nicht festgenommen. Im Übrigen siehe Vorbemerkung.
 

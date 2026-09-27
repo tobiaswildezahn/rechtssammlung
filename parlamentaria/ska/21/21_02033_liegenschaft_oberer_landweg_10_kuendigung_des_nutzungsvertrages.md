@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50281"
@@ -59,7 +60,7 @@ Wurden den Nutzern/-innen, darunter dem AKD e.V., anderweitige Nutzungsmöglichk
 
 Wie gewährleistet der Senat, dass die vielfältige Arbeit, unter anderem die Frauen- und Kinder- und Jugendarbeit der Nutzer/-innen fortgesetzt werden kann?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Mit dem AKD e.V. wurden am 2. Juni, 9. Juni und 15. Oktober 2015 Gespräche geführt und alternative Nutzungsmöglichkeiten erörtert. Derzeit besteht seitens des Bezirksamtes das Angebot, Räume im Haus der Jugend Lichtwarkhaus/Adventurepark sowie im Haus der Jugend Heckkaten mit zu nutzen. Darüber hinaus wurden dem AKD e.V. Räume von der ARGE Bergedorf-West im P5 zur Mitnutzung angeboten. Der AKD e.V. kann sein Angebot durch die unentgeltliche Mitnutzung der oben genannten Räume weiterführen. Mit dem Spieliothek e.V. erfolgte seit Mai 2015 ein
 

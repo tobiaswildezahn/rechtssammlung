@@ -14,6 +14,7 @@ fragen: 33
 einzelfragen: 46
 antwortbloecke: 29
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10761", "21/11376", "21/10362", "21/10173", "20/4525", "21/11443", "20/518", "20/3529", "20/11181", "21/2761", "21/5236", "21/6840", "21/11428", "19/2428", "21/2177"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61050"
@@ -64,7 +65,7 @@ Vor dem Hintergrund der verschiedenen Zahlen zu den Kosten aus den Drs. 21/10761
 
 Wie kommen aus Sicht der Behörde beziehungsweise des Senates diese unterschiedlichen Zahlen zustande?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -430,7 +431,7 @@ Was ist der durchschnittliche Förderbetrag bei den jeweiligen Förderungswegen?
 
 Was ist der durchschnittliche Förderbetrag aller geförderten Fachschüler/-innen?
 
-#### Antwort zu Fragen 25 bis 26
+#### Antwort zu Fragen 25 und 26
 
 Da in der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit keine Auswertung aller geförderter Fachschüler/-innen möglich war, wurde stichprobenartig (n=50; einschlägige Förderfälle im Dezember 2017) ein Mittelwert berechnet. Der AFBG-Förderbetrag für geförderte Fachschüler/-innen beträgt demnach durchschnittlich 765 Euro/Monat. Im Übrigen siehe Antwort zu 22.
 

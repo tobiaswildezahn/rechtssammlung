@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52070"
@@ -47,7 +48,7 @@ Unter welchen Umständen ist beim Ausbau beziehungsweise Neubau einer Verbindung
 
 Warum hat die mit der Planung beauftragte AKN keine Umweltverträglichkeitsprüfung vorgenommen beziehungsweise vornehmen lassen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Pflicht einer Umweltverträglichkeitsprüfung (UVP) für ein schienengebundenes ÖPNV-Projekt richtet sich nach dem Umweltverträglichkeitsprüfungsgesetz (UVPG). In der Regel ist für Vorhaben wie die Elektrifizierung der AKN-Strecke A1/S21 zunächst die sogenannte Einzelfallprüfung nach dem UVPG vorzunehmen, in der bei den Planfeststellungsbehörden die UVP-Pflicht geprüft wird.
 
@@ -135,6 +136,6 @@ Welchen Einfluss hat die Umweltverträglichkeitsprüfung auf das Ergebnis der st
 
 Besteht die Gefahr, dass die standardisierte Bewertung nunmehr so ausfällt, dass eine Förderung durch den Bund ausgeschlossen ist?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Da die Ausgleichsbedarfe bereits bei der Erstellung der Landschaftspflegerischen Begleitpläne ermittelt wurden, erwartet der Vorhabensträger derzeit keine Einflüsse aus der UVS beziehungsweise der UVP auf die Ergebnisse der standardisierten Bewertung.

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 23
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/11736", "21/7685", "18/10739"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57357"
@@ -97,7 +98,7 @@ Ergreifen der Senat beziehungsweise die zuständigen Behörden Maßnahmen, um di
 
 Ergreifen der Senat beziehungsweise die zuständigen Behörden Maßnahmen, um künftig die Quellen direkt oder indirekt von einer zukünftigen Tätigkeit als Informant für den türkischen Geheimdienst abzuhalten? Wenn ja, welche? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Vorbemerkung.
 
@@ -125,6 +126,6 @@ Hat die Liste Auswirkungen auf die Zahl der Beobachtungsobjekte des LfV? Wenn ja
 
 Gibt es Personen oder Institutionen, die bereits Beobachtungsobjekt des LfV sind, die mit der Liste in Verbindung gebracht werden? Wenn ja, wie viele und welche? War oder ist das Bündnis der Islamischen Gemeinden in Norddeutschland e.V. (BIG) darunter?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Vorbemerkung.

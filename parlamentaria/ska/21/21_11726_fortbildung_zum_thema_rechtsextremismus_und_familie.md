@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9849"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60978"
@@ -41,33 +42,33 @@ Und weiter:
 
 ## Einleitung für die Antworten des Senats
 
- Kompetenzen entwickeln, Problemlagen im Kontext rechtsextremer Ideo-
+– Kompetenzen entwickeln, Problemlagen im Kontext rechtsextremer Ideo-
 
 logie und Subkultur zu erkennen und darauf aufbauend ihr „Handwerkszeug“ der Gesprächsführung und Beratung verfeinern,
 
- Informationen über Strukturen und Arbeitsweisen rechter (Jugend-)
+– Informationen über Strukturen und Arbeitsweisen rechter (Jugend-)
 
 Organisationen einordnen und bewerten können,
 
- sich mit der Funktion von Familien im Zusammenhang mit der Herausbil-
+– sich mit der Funktion von Familien im Zusammenhang mit der Herausbil-
 
 dung rechtsextremer Denk- und Verhaltensweisen auseinandersetzen,
 
- sich vertiefend mit dem Zusammenhang von Gender und Rechtsextre-
+– sich vertiefend mit dem Zusammenhang von Gender und Rechtsextre-
 
 mismus auseinandersetzen,
 
- Überblick über die rechtlichen Bestimmungen im Zusammenhang von
+– Überblick über die rechtlichen Bestimmungen im Zusammenhang von
 
 Familie und Rechtsextremismus erhalten,
 
- Fundiertes Wissen über den Zusammenhang von medialen Lebenswel-
+– Fundiertes Wissen über den Zusammenhang von medialen Lebenswel-
 
 ten Jugendlicher und rechten Szenen erhalten,
 
- arbeitsfeldübergreifend Erfahrungen austauschen und
+– arbeitsfeldübergreifend Erfahrungen austauschen und
 
- sich für den eigenen Beratungskontext sowie die Entwicklung eines
+– sich für den eigenen Beratungskontext sowie die Entwicklung eines
 
 Kooperationsnetzwerkes weiterqualifizieren.“
 

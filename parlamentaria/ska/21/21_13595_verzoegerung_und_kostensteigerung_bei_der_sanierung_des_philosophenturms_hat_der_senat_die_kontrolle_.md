@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 19
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62962"
@@ -63,7 +64,7 @@ Welchen Zeitpunkt der Fertigstellung nimmt der Senat oder die zuständige Behör
 
 Wann wird der Philosophenturm nach Ansicht des Senats oder der zuständigen Behörde wieder für den universitären Betrieb genutzt werden können?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Zeitplanung für das Projekt wird nach dem Abschluss der Mietvertragsverhandlungen von dem Realisierungsträger entwickelt. Im Übrigen siehe Vorbemerkung.
 
@@ -93,7 +94,7 @@ Wie beurteilt der Senat oder die zuständige Behörde die Kostensteigerung in Be
 
 Wie beurteilt der Senat oder die zuständige Behörde die Kostensteigerung in Bezug auf die Umsetzung der Sanierung des Philosophenturms im Mieter-Vermieter-Modell?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Wirtschaftlichkeitsprüfung der zuständigen Behörde kommt auch unter Einbeziehung der Kostenentwicklung zu einem positiven Ergebnis für die Sanierung. Die Kostenentwicklung hat bauliche Ursachen (siehe Antwort zu 7.)
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 20
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3173", "21/3348"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53072"
@@ -59,11 +60,11 @@ Bisher geht der Senat von voraussichtlich 26.400 Euro netto für Beratungsleistu
 
 Die federführende HWF Hamburgische Gesellschaft für Wirtschaftsförderung mbH (HWF) hat die ghh consult GmbH gemeinsam mit der Hamburg Tourismus GmbH (HHT) am 27. Oktober 2015 für die Erstellung folgender Leistungen beauftragt:
 
- Systematisierung der zusätzlichen Hotelkapazitäten nach Themenwelten, Ziel-
+– Systematisierung der zusätzlichen Hotelkapazitäten nach Themenwelten, Ziel-
 
 gruppen und Zielmärkten sowie darauf basierend die Ableitung und Quantifizierung der erforderlichen Hoteltypen,
 
- auf Basis der definierten Hoteltypen und der Systematisierung aus dem oben
+– auf Basis der definierten Hoteltypen und der Systematisierung aus dem oben
 
 genannten Punkt sollen des Weiteren für die Hoteltypen die jeweiligen Anforderungsprofile erarbeitet und Hotelmarken definiert/abgeleitet werden.
 

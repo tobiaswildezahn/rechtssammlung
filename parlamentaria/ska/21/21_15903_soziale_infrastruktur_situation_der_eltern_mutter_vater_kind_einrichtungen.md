@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 35
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6629", "21/14054"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65402"
@@ -169,9 +170,9 @@ Die (Verweil-)Dauer umfasst den Zeitraum vom Beginndatum einer Hilfeleistung bis
 In der nachfolgenden Übersicht wird die minimale und maximale Dauer der beendeten Hilfeleistungen nach dem § 19 SGB VIII angegeben, die sich als Differenz aus dem in JUS-IT je Hilfe angegebenen Beginn- und Enddatum ergibt. Zeiten vor dem
 01.07.2012 können aus dem dargestellten Grund nicht berücksichtigt werden.
 
- Minimum:  
+– Minimum:  
 2 Tage  
- Maximum:  
+– Maximum:  
 2 069 Tage
 
 ### Frage 10
@@ -335,7 +336,7 @@ Welche anderen (ambulanten) Angebote zur Vermeidung der Herausnahme von Kindern 
 
 Vernetzung und Kooperation erhöhen die Qualität der Arbeit. Mit welchen anderen Einrichtungen und Bereichen kooperieren die Eltern-Kind- Einrichtungen?
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Siehe Vorbemerkung sowie Drs. 21/6629.
 

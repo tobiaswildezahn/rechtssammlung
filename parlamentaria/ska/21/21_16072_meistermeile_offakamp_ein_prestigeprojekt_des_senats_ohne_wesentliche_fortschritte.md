@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11559", "21/4849", "21/11240"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65577"
@@ -53,7 +54,7 @@ Wie ist der aktuelle Stand bezüglich des Handwerker- und Gewerbehofs am Offakam
 
 Auf der Internetseite der Meistermeile Hamburg heißt es, dass Anfang 2019 die Handwerksbetriebe die Räumlichkeiten beziehen sollen. a. Inwieweit ist diese Frist eingehalten beziehungsweise kann diese Frist eingehalten werden? b. Wenn nein, warum nicht und wann ist der neue Bezugstermin?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Neubau befindet sich im Zeit- und Kostenplan. Die Übergabe der Flächen an die Handwerksbetriebe wird wie geplant am 1. März 2019 beginnen. Es gibt keine weiteren Abweichungen zu den ursprünglichen Planungen.
 

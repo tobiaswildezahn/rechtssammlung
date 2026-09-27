@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/8772"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57829"
@@ -91,7 +92,7 @@ Inwiefern sind die Hamburgischen Behörden vor dem Hintergrund der seitens des I
 
 Inwiefern sind die Hamburgischen Behörden nach Ansicht des Senats beziehungsweise der zuständigen Behörde vor dem Hintergrund der seitens des Innensenators ausgemaltem Szenarios zum Schutz der Bürger/-innen und Bürger rechtlich verpflichtet, bei rechtswidrigen Maßnahmen ausländischer Sicherheitsbehörden unmittelbar Maßnahmen gegen diese zu ergreifen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Nach den Kriterien geltenden Rechts.
 
@@ -125,7 +126,7 @@ Wie und wann wird kenntlich gemacht, dass eine gesperrte Straße während des G2
 
 Führen Protokollstrecken auch durch Wohngebiete? Falls ja, wie und wann werden Anwohner/-innen informiert, dass die jeweilige Straße während des G20-Gipfels eine Protokollstrecke ist?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Protokollstrecken führen auch durch Wohngebiete. Die Streckenverläufe werden in jedem Fall unmittelbar in Abwägung zur Lage festgelegt. Eine vorherige Bekanntgabe ist aus einsatztaktischen Gründen von der Polizei nicht vorgesehen.
 

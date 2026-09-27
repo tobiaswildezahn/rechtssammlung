@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 17
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15407"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65520"
@@ -187,6 +188,6 @@ Welche Ausbaumöglichkeiten beziehungsweise zusätzliche Räumlichkeiten in welc
 
 Inwiefern wurde von welcher Stelle eine Verlagerung des Abrigado mit gegebenenfalls welchem Ergebnis geprüft?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Die Einrichtung Abrigado wurde 2013 erweitert. Im Übrigen findet eine diesbezügliche Prüfung derzeit im Rahmen der Umsetzung der Drs. 21/15407 statt.

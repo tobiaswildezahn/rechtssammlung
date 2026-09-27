@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16215", "21/17584", "21/17835"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67856"
@@ -73,7 +74,7 @@ Ist eine Ausweitung des Konzeptes über die Pilotphase hinaus geplant?
 
 Wenn ja, in wie vielen und in welchen Sportstätten soll eine erweiterte Nutzung erfolgen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Diesbezügliche Entscheidungen werden nach Auswertung des Pilotvorhabens getroffen.
 

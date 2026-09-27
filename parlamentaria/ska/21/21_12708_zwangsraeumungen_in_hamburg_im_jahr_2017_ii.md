@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12004"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62013"
@@ -53,7 +54,7 @@ Wie erklärt sich der Senat die rückgängige Anzahl der Hausbesuche durch die F
 
 Wie schätzt der Senat die Wirkung von Hausbesuchen bei drohender Zwangsräumung ein?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Hausbesuche erhöhen die Chancen, einen Kontakt zu betroffenen Haushalten herzustellen, sie bei der Bewältigung der Notlage zu unterstützen und den Wohnraum zu sichern (siehe auch: http://www.hamburg.de/basfi/fa-wohnungslosenhilfe/).
 
@@ -67,7 +68,7 @@ Wie erklärt sich der Senat, dass die Eigeninitiative der von Zwangsräumungen b
 
 Was versteht der Senat in diesem Zusammenhang unter Eigeninitiative?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Fachstellen klären gemeinsam mit den Betroffenen deren persönliche und finanzielle Selbsthilfemöglichkeiten, damit diese nach eigenen Kräften an der Beseitigung der Notlage mitarbeiten können. Bestehende Selbsthilfepotenziale werden aktiviert und vorrangig zur Beseitigung der Notlage eingesetzt. Der Begriff Eigeninitiative
 

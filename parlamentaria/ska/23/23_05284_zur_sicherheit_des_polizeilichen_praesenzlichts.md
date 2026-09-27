@@ -8,12 +8,13 @@ datum_anfrage: "2026-09-08"
 datum_drucksache: "2026-09-15"
 urheber: ["Robert Risch"]
 fraktionen: ["fraktionslos"]
-vorgang: null
+vorgang: 89148
 seiten: 3
 fragen: 10
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105188"

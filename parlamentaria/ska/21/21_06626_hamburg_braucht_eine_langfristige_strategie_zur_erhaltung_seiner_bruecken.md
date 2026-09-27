@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5922"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55169"
@@ -43,7 +44,7 @@ Warum ist dieser Bericht bis heute nicht erfolgt?
 
 Falls er der Diskontinuität zum Opfer fiel: Was hat der Senat unternommen, um die im Antrag geforderten Maßnahmen darzustellen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Landesbetrieb Straßen, Brücken und Gewässer (LSBG) baut ein strategisches Erhaltungsmanagement für konstruktive Ingenieurbauwerke auf, das die technischen mit den finanziellen Anforderungen verknüpft (siehe Drs. 21/5922). Nach betriebswirtschaftlichen Grundsätzen wird eine langfristige Investitionsplanung entwickelt, die alle Brücken und Ingenieurbauwerke in den Blick nimmt und die planvolle Sanierung und deren dauerhafte Erhaltung mit einem angemessenen Aufwand sicherstellt.
 

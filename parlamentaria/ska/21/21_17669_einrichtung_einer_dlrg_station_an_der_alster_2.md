@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/173", "21/6801", "21/13963"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67264"
@@ -54,7 +55,7 @@ Aus welchen Gründen ist trotz Ankündigung der Zurverfügungstellung von Planun
 
 Wie erklärt sich der Senat die Verzögerungen bei der Einrichtung der Station?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die notwendigen Vorgespräche und umfangreichen weiteren Abstimmungen in diversen Themenbereichen zum Bauvorhaben (zum Beispiel Anforderungen an einzelne Räume, die Ausführung zur Slipanlage, Liegeplätze, Steganlage, et cetera) mit allen an der Wasserrettung beteiligten Hilfsorganisationen und Behörden führten zu zeitlichen Verschiebungen bei dem Bauprojekt.
 

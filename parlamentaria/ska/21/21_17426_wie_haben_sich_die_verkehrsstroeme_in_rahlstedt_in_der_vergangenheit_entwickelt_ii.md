@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9786", "21/9322", "21/13604"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67009"
@@ -90,7 +91,7 @@ Welche unmittelbaren Maßnahmen haben der Senat beziehungsweise die zuständigen
 
 Welche unmittelbaren Maßnahmen haben der Senat beziehungsweise die zuständigen Behörden aus der mit den Fragen 1. und 2. erfragten Entwicklung der Einwohnerzahl und der Zahl der gemeldeten Pkws in Rahlstedt abgeleitet und für die nächsten fünf Jahre konkret geplant?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Angebotsmaßnahmen im öffentlichen Personennahverkehr (ÖPNV) werden im Wesentlichen durch die tatsächliche Nachfrage bestimmt, die unter anderem durch die Einwohnerentwicklung bestimmt wird. Im Übrigen siehe Antworten zu 7. bis 9. und Drs. 21/9322. Die Planungen zu künftigen Maßnahmen sind noch nicht abgeschlossen.
 
@@ -102,7 +103,7 @@ Wie haben sich die Unfallhäufungspunkte im Stadtteil Rahlstedt seit 2017 entwic
 
 Welche neuen Maßnahmen wurden seit der Vorgängeranfrage (Drs. 21/9786) zur Entschärfung der Unfallhäufungspunkte in Rahlstedt ergriffen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Unfallhäufungsstellen im Stadtteil Rahlstedt der Jahre 2017 und 2018 sowie die jeweils an den Unfallhäufungsstellen getroffenen Maßnahmen sind in den nachfolgenden Tabellen aufgeführt:
 
@@ -664,7 +665,7 @@ Wie hat sich die Zahl der Verkehrsunfälle in Rahlstedt seit 2017 entwickelt? Bi
 
 Wie hat sich die Zahl der bei Verkehrsunfällen in Rahlstedt seit 2017 verunglückten Personen entwickelt? Bitte jahresweise nach leicht verletzten, schwer verletzten und getöteten Personen aufschlüsseln.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die Unfallzahlen wurden durch eine Auswertung der Datenbank „Elektronische Unfalltypensteckkarte“ (EUSka) vom 4. Juni 2019 ermittelt.
 

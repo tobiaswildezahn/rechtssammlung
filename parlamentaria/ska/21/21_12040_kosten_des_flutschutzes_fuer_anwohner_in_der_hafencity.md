@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 18
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10843"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61299"
@@ -132,7 +133,7 @@ Wer trägt die laufenden Betriebs- und Unterhaltungskosten für bauliche Sicheru
 
 Wer trägt die Kosten für die Durchführung von Sicherungsmaßnahmen gegen Hochwasser und Sturmflut, wie etwa das Schließen und Öffnen von Flutschutztoren, und wie hoch waren diese Kosten je Kalenderjahr seit 2010?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die laufenden Betriebs- und Unterhaltungskosten für bauliche Sicherungsmaßnahmen an Gebäuden sowie die Kosten für die Durchführung von Sicherungsmaßnahmen an Gebäuden tragen die jeweiligen Grundstückseigentümer. Über die Höhe der Kosten liegen dem Senat keine Erkenntnisse vor. Die Kosten werden für im Eigentum der Freien und Hansestadt Hamburg stehende Gebäude nicht separat erfasst.
 
@@ -160,6 +161,6 @@ Werden bezüglich Fragen 1. bis 10. auch Kosten auf private Grundeigentümer ode
 
 Sofern bezüglich Fragen 1. bis 10. Kosten auf private Grundeigentümer oder Mieter umgelegt werden: Mit welchen Betriebskosten für die Mieter rechnet der Senat durch den notwendigen Flutschutz? Hat der Senat Kenntnis darüber, wie hoch die Betriebskosten sind, die beispielsweise die SAGA dazu kalkuliert?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die individuellen Kosten zum Schutz der Objekte tragen ausschließlich die Grundeigentümer. Zur Umlegung der Betriebskosten auf Mieterinnen und Mieter liegen dem Senat keine Erkenntnisse vor.

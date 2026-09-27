@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3383"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57718"
@@ -47,7 +48,7 @@ Wie stellt sich der aktuelle Planungs- und Verfahrensstand für diesen Abschnitt
 
 Für wann wird die Schlussverschickung der Planung angestrebt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Schlussverschickung erfolgt im Juni des Jahres 2017. Die Leitungsarbeiten beginnen unmittelbar danach.
 

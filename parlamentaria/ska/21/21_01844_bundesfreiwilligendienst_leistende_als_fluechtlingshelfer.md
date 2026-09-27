@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 4
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/913", "20/6436", "20/12430"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50060"
@@ -51,7 +52,7 @@ Haben sich inzwischen Hamburger Betreiber von Flüchtlingsunterkünften beim Bun
 
 Gibt es bereits Planungen, in welchem Umfang und in welcher Art und Weise BFD-Leistende bei der Flüchtlingshilfe eingesetzt werden sollen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für f & w ist eine Registrierung entbehrlich, da in Kooperation mit dem bereits beim Bundesamt für Familie und zivilgesellschaftliche Aufgaben BAFzA registrierten Internationalen Jugendgemeinschaftsdiensten (ijgd) die Möglichkeit zum Einsatz als Bundesfreiwilligendienst-Leistende bestünde. Der Einsatz selbst würde dann bei f & w stattfinden, die übergeordnete pädagogische Betreuung durch den ijgd.
 

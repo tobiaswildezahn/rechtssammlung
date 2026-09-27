@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 15
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12883"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62234"
@@ -43,7 +44,7 @@ Wenn dem Senat Hinweise auf einen mutmaßlichen Missbrauch der Arbeitszeit für 
 
 Wie hat der Senat den Gebrauch von Dienstrechnern für private Nutzungen im Allgemeinen und für private Nutzungen im Rahmen der Arbeitszeit geregelt? Unterscheidet sich die Regelung in der Gesundheitsbehörde hierbei von den Regelungen anderer Behörden, Dienststellen oder Tochtergesellschaften der Freien und Hansestadt Hamburg? Wenn ja, inwiefern?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für alle Behörden und Ämter einheitlich und für alle ihre Beschäftigten einschließlich der Mitglieder von Interessenvertretungen gilt die zwischen den Spitzenorganisationen der Gewerkschaften und dem Personalamt im Jahr 2001 abgeschlossene Vereinbarung nach § 94 HmbPersVG (alter Fassung) über den Prozess zur Einführung und Nutzung allgemeiner automatisierter Bürofunktionen und multimedialer Technik (Bürokommunikation) und zur Entwicklung von E-Government (im Folgenden: §-94- Vereinbarung), insbesondere deren Ziffern 4 (Auswertung von gespeicherten Verbindungs- beziehungsweise Nutzungsdaten bei Verdacht eines Dienstvergehens oder
 
@@ -57,33 +58,33 @@ Wie viele Hinweise auf Missbrauch der Arbeitszeit für die Erledigung privater A
 
 Wie viele Hinweise auf Missbrauch der Arbeitszeit für die Erledigung privater Angelegenheiten hat der Senat behörden- und dienstellenübergreifend beziehungsweise im Hinblick auf die Tochtergesellschaften der Freien und Hansestadt Hamburg erhalten? Wie vielen dieser Hinweise ist er nachgegangen? Wie viele Fälle von Sicherung und Auswertung der Daten von Mitarbeiter-Computern, E-Mail-Accounts et cetera hat es in sämtlichen Behörden, Dienststellen und öffentlichen Unternehmen gegeben? In wie vielen Fällen haben diese behördeninternen Ermittlungen zu arbeitsrechtlichen Konsequenzen geführt? (Bitte jährlich aufschlüsseln ab dem Jahr 2010 und differenziert angeben nach Behörde, Dienststelle, Tochtergesellschaft der Freien und Hansestadt Hamburg.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Entsprechenden Hinweisen gehen die Behörden und Ämter jeweils fallangemessen nach, Statistiken über die Hinweise sowie die ihnen gegebenenfalls zugeordneten arbeitsrechtlichen Konsequenzen werden nicht geführt. Zu seit 2010 dokumentierten Einzelfällen – darunter auch mit einer Sicherung und Auswertung von Dateien im Sinne der §-94-Vereinbarungen verbundene – sind folgende Rückmeldungen eingegangen:
 
- BGV: über den in der Anfrage in Bezug genommen Fall hinaus: Fehlanzeige.
+– BGV: über den in der Anfrage in Bezug genommen Fall hinaus: Fehlanzeige.
 
- JB: ein Hinweis auf Missbrauch der Arbeitszeit mit arbeitsrechtlichen Konsequen-
+– JB: ein Hinweis auf Missbrauch der Arbeitszeit mit arbeitsrechtlichen Konsequen-
 
 zen und Datenauswertung (2016).
 
- BSB: ein Hinweis auf Missbrauch der Arbeitszeit mit arbeitsrechtlichen Konse-
+– BSB: ein Hinweis auf Missbrauch der Arbeitszeit mit arbeitsrechtlichen Konse-
 
 quenzen (2012).
 
- Bezirksamt Altona: vier Hinweise auf Missbrauch der Arbeitszeit, keine arbeits-
+– Bezirksamt Altona: vier Hinweise auf Missbrauch der Arbeitszeit, keine arbeits-
 
 rechtlichen Konsequenzen.
 
- BIS (ohne Polizei, dort liegen keine statistischen Daten vor): drei Fälle des Miss-
+– BIS (ohne Polizei, dort liegen keine statistischen Daten vor): drei Fälle des Miss-
 
 brauch der Arbeitszeit, davon zwei mit arbeitsrechtlichen Konsequenzen und Datenauswertung, ein Fall wird noch geprüft (2011, 2013 und 2017).
 
- BWVI: 2013 bis 2015 drei Hinweise, 2013 in einem Fall Datenauswertung sowie
+– BWVI: 2013 bis 2015 drei Hinweise, 2013 in einem Fall Datenauswertung sowie
 
 arbeitsrechtliche Konsequenzen, 2014 in einem Fall arbeitsrechtliche Konsequenzen.
 
- Unternehmen und Hochschulen:
+– Unternehmen und Hochschulen:
 
 - HafenCity Universität (HCU): zwei Hinweise auf Missbrauch der Arbeitszeit für
 

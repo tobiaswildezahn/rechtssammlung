@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2990", "20/13705"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51669"
@@ -43,7 +44,7 @@ Werden in eine bestehende IVK laufend neue Schüler zugeschult und andere abgesc
 
 Findet der Wechsel von einer IVK in eine Regelklasse zu bestimmten Zeitpunkten (zum Beispiel zu Beginn eines Schulhalbjahres) statt oder auch im laufenden Schulhalbjahr?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In eine bestehende IVK werden laufend neue Schülerinnen und Schüler zugeschult und andere abgeschult. Der Wechsel von einer IVK in eine Regelklasse findet auch im laufenden Schulhalbjahr statt.
 
@@ -116,7 +117,7 @@ Kommt es nach Kenntnis der BSB in der Praxis zu Fällen von Nichtzulassung von F
 
 Sieht die BSB Möglichkeiten, pragmatische Lösungen ohne Absenkung von Leistungsstandards in diesen Fällen zu finden? a. Ist es beispielsweise denkbar, die notwendige Anzahl an Fremdsprachen-Unterrichtseinheiten zusätzlich nachzuholen, um auf das Äquivalent von notwendigen belegten Jahren zu kommen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Entsprechende Hinweise liegen der zuständigen Behörde nicht vor. Grundsätzlich sind alle im Kontext der Beschulung von Flüchtlingskindern auftretenden Fragestellungen mit Blick auf pragmatische Lösungen einerseits und verbindliche Vorgaben der KMK beziehungsweise der einschlägigen hamburgischen Regelungen andererseits zu lösen.
 

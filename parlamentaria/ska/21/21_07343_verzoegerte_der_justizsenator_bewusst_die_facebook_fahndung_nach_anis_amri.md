@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55949"
@@ -53,7 +54,7 @@ Ist es richtig, dass der Justizsenator die Bitte um Fahndung nach Anis Amri auf 
 
 Ist es richtig, dass der Justizsenator später eine Ausnahmegenehmigung erteilt hat? Falls ja, wann konkret hat er dies aus welchen Gründen und auf welcher rechtlichen Grundlage entschieden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nein. Im Übrigen siehe Vorbemerkung.
 

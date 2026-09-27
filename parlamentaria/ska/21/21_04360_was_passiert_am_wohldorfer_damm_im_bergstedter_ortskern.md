@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52761"
@@ -43,17 +44,17 @@ Welche Planungen sind bezüglich der weiteren Nutzung der genannten Grundstücke
 
 Wann wurden für diese Grundstücke jeweils Bauvoranfragen oder Vorbescheidsanträge mit welchem Inhalt gestellt? Wann wurden jeweils welche baurechtlichen Genehmigungen mit welchem Inhalt für die genannten Grundstücke erteilt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für die Grundstücke Wohldorfer Damm 1 und 1 a wurden durch das Bezirksamt Wandsbek folgende Anträge genehmigt, aber noch nicht beschieden:
 
-• Vorbescheid zur Errichtung eines Wohn- und Geschäftshauses: am 31. Mai 2011 eingereicht, am 17. Oktober 2011 genehmigt.
+– Vorbescheid zur Errichtung eines Wohn- und Geschäftshauses: am 31. Mai 2011 eingereicht, am 17. Oktober 2011 genehmigt.
 
-• Genehmigung zum Abbruch von zwei Einfamilienhäusern: am 7. September 2012 eingereicht, am 8. Oktober 2012 genehmigt.
+– Genehmigung zum Abbruch von zwei Einfamilienhäusern: am 7. September 2012 eingereicht, am 8. Oktober 2012 genehmigt.
 
-• Genehmigung für ein Wohn- und Geschäftshaus mit fünf Wohneinheiten, zwei Büros und Laden, mit Tiefgarage für zehn Stellplätze und offener Stellplatzanlage für zwölf Stellplätze: am 10. September 2012 eingereicht, am 15. Januar 2013 genehmigt.
+– Genehmigung für ein Wohn- und Geschäftshaus mit fünf Wohneinheiten, zwei Büros und Laden, mit Tiefgarage für zehn Stellplätze und offener Stellplatzanlage für zwölf Stellplätze: am 10. September 2012 eingereicht, am 15. Januar 2013 genehmigt.
 
-• Antrag auf Verlängerung dieser Baugenehmigung: am 7. Dezember 2015 eingereicht, am 28. Dezember 2015 genehmigt.
+– Antrag auf Verlängerung dieser Baugenehmigung: am 7. Dezember 2015 eingereicht, am 28. Dezember 2015 genehmigt.
 
 Am 15. Februar 2016 wurde zudem ein Antrag zur Genehmigung einer Verkaufsfläche für einen Drogeriemarkt beim Bezirksamt Wandsbek eingereicht, aber noch nicht genehmigt und nicht beschieden.
 

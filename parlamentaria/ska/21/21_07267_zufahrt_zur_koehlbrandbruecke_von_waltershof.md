@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55894"
@@ -97,11 +98,11 @@ In welchem Zustand befinden sich die Straßen in diesem Bereich nach der Bewertu
 
 Der Großteil des Straßenbereiches befindet sich nach der Bewertung gemäß des Erhaltungsmanagementsystems für Hamburgs Straßen (EMS-HH) in einem guten Zustand, davon:
 
- circa 60 Prozent mit einem Gesamtwert von 1,5 – 3,49,
+– circa 60 Prozent mit einem Gesamtwert von 1,5 – 3,49,
 
- circa 10 Prozent mit einem Gesamtwert von 3,5 – 4,49 und
+– circa 10 Prozent mit einem Gesamtwert von 3,5 – 4,49 und
 
- circa 25 Prozent mit einem Gesamtwert von 4,5 – 5,0.
+– circa 25 Prozent mit einem Gesamtwert von 4,5 – 5,0.
 
 Aufgrund des Straßenzustands sind mittelfristig keine Grundinstandsetzungen in diesen Straßenbereichen erforderlich.
 

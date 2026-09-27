@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8410"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57296"
@@ -51,7 +52,7 @@ Wie lang sind die Verfahrensdauern bei Betreuungssachen in Hamburg (bitte bezoge
 
 Wie hat sich die Dauer der Betreuungsverfahren in den Jahren 2011 bis 2017 entwickelt (bitte nach Jahren und jeweiligen Abteilungen für Betreuungssachen der Amtsgerichte angeben)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Da Betreuungsverfahren nicht durch einen förmlichen prozessleitenden Antrag initiiert werden, ist schon der Beginn des Verfahrens oft nicht eindeutig zu datieren. Ähnliches
 
@@ -65,7 +66,7 @@ Was sind die Hauptgründe aus Sicht des Senats beziehungsweise der zuständigen 
 
 Welche Maßnahmen könnten zu einer Entlastung der Betreuungsgerichte und zu einer Verkürzung der Verfahrensdauern führen? Welche Vorschläge wurden dazu von der zuständigen Behörde seit 2015 wie umgesetzt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 15
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58710"
@@ -41,27 +42,27 @@ Ziel ist es, dabei festzustellen, ob der Systemwechsel in der Eingliederungshilf
 
 Zu den wesentlichen Bereichen, die durch die Förderrichtlinien von der modellhaften Erprobung umfasst sind, gehören:
 
- die Einkommens- und Vermögensanrechnung (§ 135 fortfolgende des Neunten
+– die Einkommens- und Vermögensanrechnung (§ 135 fortfolgende des Neunten
 
 Buches Sozialgesetzbuch – SGB IX),
 
- die Assistenzleistungen in der sozialen Teilhabe, insbesondere Assistenzleistungen
+– die Assistenzleistungen in der sozialen Teilhabe, insbesondere Assistenzleistungen
 
 für Personen, die ein Ehrenamt ausüben (§ 78 in Verbindung mit § 113 SGB IX),
 
- die Umsetzung des Rangverhältnisses von Leistungen der Eingliederungshilfe und
+– die Umsetzung des Rangverhältnisses von Leistungen der Eingliederungshilfe und
 
 Leistungen der Pflege (§ 91 Absatz 3 und § 103 SGB IX),
 
- die Prüfung der Zumutbarkeit und Angemessenheit (§ 104 SGB IX),
+– die Prüfung der Zumutbarkeit und Angemessenheit (§ 104 SGB IX),
 
- die Möglichkeit der gemeinschaftlichen Leistungserbringung (§ 116 SGB IX),
+– die Möglichkeit der gemeinschaftlichen Leistungserbringung (§ 116 SGB IX),
 
- die Abgrenzung der neuen Leistungen der Eingliederungshilfe nach Artikel 1 Teil 2
+– die Abgrenzung der neuen Leistungen der Eingliederungshilfe nach Artikel 1 Teil 2
 
 von den Leistungen nach dem 4. Kapitel des Zwölften Buches Sozialgesetzbuch (existenzsichernde Leistungen) und
 
- die Bezüge zu anderen Leistungen der sozialen Sicherung, insbesondere soweit
+– die Bezüge zu anderen Leistungen der sozialen Sicherung, insbesondere soweit
 
 sie Gegenstand des Gesamtplanverfahrens sind.
 

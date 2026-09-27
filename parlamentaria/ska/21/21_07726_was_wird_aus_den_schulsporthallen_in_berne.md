@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56356"
@@ -69,6 +70,6 @@ Welche möglichen Trägerschaften gibt es, um die Hallen für den Vereinssport z
 
 Hat der Senat bereits Gespräche mit den Nutzern der Sporthallen aufgenommen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Zum Standort Lienaustraße 32 haben Gespräche mit den Nutzern stattgefunden. Im Übrigen siehe Antwort zu 1.

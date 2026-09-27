@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/576", "20/11387"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49213"
@@ -235,15 +236,15 @@ Wie viele Wohnheimplätze für Auszubildende und Studierende sollen bis zum Ende
 
 Folgende öffentlich geförderte Neubauplanungen des Studierendenwerkes Hamburg von Wohnheimen für Studierende stehen gegenwärtig bereits fest:
 
- In Allermöhe II sind circa 260 Plätze geplant. Mit der Fertigstellung ist voraussicht-
+– In Allermöhe II sind circa 260 Plätze geplant. Mit der Fertigstellung ist voraussicht-
 
 lich Ende 2016/Anfang 2017 zu rechnen.
 
- In der HafenCity wird es circa 130 Plätze geben. Hier wird die Fertigstellung
+– In der HafenCity wird es circa 130 Plätze geben. Hier wird die Fertigstellung
 
 voraussichtlich Ende 2017 erfolgen.
 
- In Wilhelmsburg soll ebenfalls ein Studierendenwohnheim entstehen. Planungs-
+– In Wilhelmsburg soll ebenfalls ein Studierendenwohnheim entstehen. Planungs-
 
 start ist 2018, die Fertigstellung ist voraussichtlich für 2020 geplant.
 

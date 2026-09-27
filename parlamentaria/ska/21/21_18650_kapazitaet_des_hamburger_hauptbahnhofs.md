@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/4021"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68322"
@@ -77,35 +78,35 @@ Welche weiteren Akteure sind zu dieser Fragestellung zu beteiligen?
 
 An der Untersuchung werden folgende Akteurinnen und Akteure beteiligt:
 
- Behörde für Wirtschaft, Verkehr und Innovation (BWVI),
+– Behörde für Wirtschaft, Verkehr und Innovation (BWVI),
 
- Hamburger Verkehrsverbund GmbH (HVV),
+– Hamburger Verkehrsverbund GmbH (HVV),
 
- Hamburg Port Authority AöR (HPA),
+– Hamburg Port Authority AöR (HPA),
 
- Schleswig-Holstein, Ministerium für Wirtschaft, Verkehr, Arbeit, Technologie und
+– Schleswig-Holstein, Ministerium für Wirtschaft, Verkehr, Arbeit, Technologie und
 
 Tourismus (MWVATT),
 
- Nahverkehrsverbund Schleswig-Holstein GmbH (Nah.SH),
+– Nahverkehrsverbund Schleswig-Holstein GmbH (Nah.SH),
 
- Niedersachsisches Ministerium für Wirtschaft, Arbeit, Verkehr und Digitalisierung,
+– Niedersachsisches Ministerium für Wirtschaft, Arbeit, Verkehr und Digitalisierung,
 
- Landesnahverkehrsgesellschaft Niedersachsen mbH (LNVG),
+– Landesnahverkehrsgesellschaft Niedersachsen mbH (LNVG),
 
- Mecklenburg-Vorpommern, Ministerium für Energie, Infrastruktur und Digitalisie-
+– Mecklenburg-Vorpommern, Ministerium für Energie, Infrastruktur und Digitalisie-
 
 rung,
 
- Verkehrsgesellschaft Mecklenburg-Vorpommern mbH (VMV),
+– Verkehrsgesellschaft Mecklenburg-Vorpommern mbH (VMV),
 
- Hansestadt Bremen, Senatorin für Klimaschutz, Umwelt, Mobilität, Stadtentwick-
+– Hansestadt Bremen, Senatorin für Klimaschutz, Umwelt, Mobilität, Stadtentwick-
 
 lung und Wohnungsbau (SUBV),
 
- DB Netz AG,
+– DB Netz AG,
 
- DB Station & Service AG.
+– DB Station & Service AG.
 
 ### Frage 4
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10110", "21/10571", "21/4443"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65615"
@@ -109,6 +110,6 @@ Hat der Senat als Alternative zum RDZ der Nordländer eine Beteiligung am gemein
 
 Wurde vom Senat mit den am Staatsvertrag beteiligten Landesregierungen eine Beteiligung am gemeinsamen Abhörzentrum der Bundesbehörden als Alternative thematisiert und wurden Möglichkeiten für ein Ausstiegsszenario aus dem aktuellen Staatsvertrag erörtert? Wenn ja wann und mit welchem Ergebnis, wenn, nein, warum nicht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Eine Beteiligung am gemeinsamen Abhörzentrum der Bundesbehörden wurde im September mit den beteiligten Landesregierungen thematisiert. Das gemeinsame Abhörzentrum der Bundesbehörden stellt auf Grundlage gegenwärtig vorliegender Informationen keine Alternative zum Rechen- und Dienstleistungszentrum (RDZ) dar.

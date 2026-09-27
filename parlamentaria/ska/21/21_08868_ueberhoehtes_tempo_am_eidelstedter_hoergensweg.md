@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8356"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57633"
@@ -75,6 +76,6 @@ Sind derzeit weitere Geschwindigkeitsmessungen in diesem Bereich vorgesehen? Wen
 
 Welche zusätzlichen beziehungsweise neuen Maßnahmen plant die zuständige Behörde, um die Einhaltung der zulässigen Höchstgeschwindigkeit durch die Verkehrsteilnehmer im Hörgensweg zu verbessern?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Konkrete Planungen bestehen zurzeit nicht. Die Polizei führt im Hörgensweg zu unregelmäßigen Zeiten Geschwindigkeitskontrollen durch. Zur Planung von Geschwindigkeitskontrollen siehe Drs. 21/8356.

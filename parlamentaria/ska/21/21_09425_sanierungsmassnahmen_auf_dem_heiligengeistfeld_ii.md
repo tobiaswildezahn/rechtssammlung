@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8777"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58192"
@@ -79,7 +80,7 @@ Welche Maßnahmen wären erforderlich, um für die beantragten Kundgebungen am 0
 
 Welche Maßnahmen wären erforderlich, um nur für die beantragte Kundgebung am 08. Juli 2017 die Bauarbeiten zu unterbrechen und die Fläche für die Veranstaltung zur Verfügung zu stellen? Für welchen Zeitraum müssten die Arbeiten unterbrochen werden? Mit welchen Kosten wäre dies insgesamt verbunden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Hiermit hat sich der Senat nicht befasst. Im Übrigen siehe Drs. 21/8777.
 

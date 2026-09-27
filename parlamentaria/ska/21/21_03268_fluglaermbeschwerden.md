@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 29
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1282", "20/12906", "20/11143"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51631"
@@ -177,7 +178,7 @@ Welche Flugrouten gibt es in Hamburg und seit wann sind diese festgelegt? Bitte 
 
 Wann sind Flugrouten verändert worden? Bitte geben Sie auch Daten zur Ausdehnung an und fügen Sie Originaltexte bei.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Eine aktuelle grafische Darstellung der derzeit gültigen Flugrouten ist der Anlage 1 zu entnehmen. Das älteste vorliegende Dokument zur Festlegung von An- und Abflugverfahren am Hamburger Flughafen ist die 87. Durchführungsverordnung zur Luftverkehrsordnung vom 28. August 1981 (siehe Anlage 2). Die älteste grafische Darstellung von Flugrouten am Hamburger Flughafen befindet sich in Anlage 3. Die letzte bedeutende Änderung der Abflugverfahren (Einführung RAMAR) wurde am
 5.Oktober 2010 im Bundeanzeiger veröffentlicht (siehe Anlage 4).
@@ -244,7 +245,7 @@ Wie verteilten sich die Anflüge und Landungen jeweils auf welche Stunden am Tag
 
 Wie viele Anflüge und Landungen erfolgten insbesondere zwischen 6 Uhr und 7 Uhr und zwischen 22 und 23 Uhr? Bitte die Zahlen für Eidelstedt, Lurup, Osdorf, Iserbrook, Klein Flottbek und Nienstedten getrennt ausweisen.
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Die genannten Stadtteile liegen unter dem Landegleitpfad 05. Die folgende Tabelle zeigt die Anflüge (Landungen) der letzten fünf Jahre. Die Daten werden in erfragter Form nicht erfasst. Eine über die Fragestellung hinausgehende Auswertung und stündliche Darstellung von jährlich bis zu 26.632 (2015) Starts war in der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

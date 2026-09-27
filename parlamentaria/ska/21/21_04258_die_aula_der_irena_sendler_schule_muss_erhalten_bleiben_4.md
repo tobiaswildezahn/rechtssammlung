@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4098", "21/2765", "21/2882"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52653"
@@ -41,6 +42,6 @@ Welche vermeintlichen baulichen Mängel der Aula sind dem Senat aktuell bekannt 
 
 Wie hoch wären die Kosten für die Instandsetzung der einzelnen Mängel (bitte einzeln und detailliert auflisten)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/2765 und 21/2882.

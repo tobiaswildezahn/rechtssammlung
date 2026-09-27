@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61504"
@@ -59,7 +60,7 @@ Wie viele Anträge wurden im Jahr 2017 gestellt? Bitte die Gesamtzahl nennen und
 
 Wird bei der Entscheidung über die Anerkennung von Trägern in der Freien eine Kategorisierung der antragstellenden Institutionen vorgenommen? Wenn ja, bitte Kategorien erläutern sowie die Anträge des Jahres 2017 ebenfalls nach Kategorien und innerhalb der Kategorien nach positiv und negativ beschiedenen Anträgen sortiert tabellarisch darstellen. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage.
 

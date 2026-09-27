@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9867"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68100"
@@ -47,7 +48,7 @@ Auf welchen Linien der S-, U- und AKN-Bahnen, Busse und Fähren in Hamburg wird 
 
 Wie viele der S-, U- und AKN-Bahnen, Busse und Fähren in Hamburg sind aktuell mit WLAN ausgestattet? Bitte für S-, U- und AKN-Bahnen, Busse und Fähren einzeln in absoluten Zahlen und Prozenten angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es wird in allen 1 024 Bussen und damit auf allen Buslinien der HOCHBAHN sowie in allen U-Bahn-Haltestellen der Linien U1, U2, U3 und U4 WLAN angeboten. U-Bahn- Fahrzeuge sind nicht mit WLAN ausgestattet. Die Stationen aller Linien der AKN (A1, A2 und A3) sind mit WLAN ausgestattet. In den Fahrzeugen der AKN selbst wird kein WLAN angeboten. Alle 48 Busse der VHH, die auf den Linien 3 und 31 eingesetzt werden, sind mit WLAN ausgestattet. Dies entspricht einem Anteil von 8,6 Prozent der Busse der VHH. Die S-Bahn Hamburg bietet derzeit an 45 von 62 S-Bahnstationen WLAN an, was 66,2 Prozent der S-Bahn-Stationen entspricht. Die restlichen Stationen sollen bis auf wenige baubedingte Ausnahmen bis Ende 2019 ausgestattet sein. Die S-Bahn-Fahrzeuge selbst sind nicht mit WLAN ausgestattet. Auf Fähren der HADAG gibt es kein WLAN. Im Übrigen siehe Drs. 21/9867.
 
@@ -67,7 +68,7 @@ Auf welchen weiteren Linien der S-, U- und AKN-Bahnen, Busse und Fähren in Hamb
 
 Wann werden voraussichtlich alle Busse, Bahnen und Fähren in Hamburg mit WLAN ausgestattet sein? Welche Linien werden dieses Jahr noch mit WLAN ausgestattet werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Es wird sowohl in allen neuen Bussen als auch in allen neuen U-Bahn-Haltestellen der HOCHBAHN bei Inbetriebnahme WLAN angeboten werden. Derzeit führen die AKN und die NAH.SH GmbH (NAH.SH) Gespräche darüber, ob die AKN-Fahrzeuge des Typs LINT 54 mit WLAN ausgestattet werden. Bei der S-Bahn Hamburg sollen bis Ende des Jahres 2019, bis auf wenige baubedingte Ausnahmen, verbleibende S- Bahn-Stationen mit WLAN ausgestattet werden. Im Übrigen ist derzeit keine weitere Ausstattung geplant.
 

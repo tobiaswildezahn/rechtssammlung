@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 33
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9468", "21/4655", "21/5684", "21/7919", "21/3405", "21/8799"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59468"
@@ -78,7 +79,7 @@ Wie viele der in Frage 1. angegebenen Lehrkräfte mit einem sachgrundlos befrist
 Wie viele der seit 2014/2015 in AvM-Dual beschäftigten Lehrkräfte mit einer sachgrundlos befristeten Anstellung befinden sich seit 2016 in einer unbefristeten Beschäftigung im Programm und/oder im Schuldienst? (Bitte für jedes Schuljahr einzeln in absoluten Zahlen und in Prozent in einer Excel-Tabelle angeben.) a. Welche Qualifikationen besitzen diese Lehrkräfte jeweils? (Bitte entsprechend nach ausgebildeten Lehrern/-innen, Fachkräften ohne pädagogische Ausbildung, DAZ-Lehrern/-innen und sonstigen, unterschieden in absoluten Zahlen und in Prozent, in der Tabelle zu
 4. angeben.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Wie in der Antwort zu 1. bis 1. b. dargestellt, können keine direkten Zuordnungen und Zahlenangaben befristet eingestellter Lehrkräfte im Bildungsgang AvM-Dual vorgenommen werden.
 
@@ -124,7 +125,7 @@ Bei wie vielen der in Frage 1. angegebenen Lehrkräfte mit einem sachgrundlos be
 8. angeben.) a. Wie vielen dieser Lehrkräfte wird voraussichtlich eine erneute sachgrundlos befristete Beschäftigung im Programm angeboten? (Bitte entsprechend in absoluten Zahlen und in Prozent in der Tabelle zu
 9. angeben.) b. Wie vielen dieser Lehrkräfte wird voraussichtlich eine unbefristete Beschäftigung im Programm und/oder im Schuldienst angeboten? (Bitte entsprechend in absoluten Zahlen und in Prozent in der Tabelle zu 9. angeben.) c. Wie vielen dieser Lehrkräfte wird voraussichtlich eine Honorarbeschäftigung angeboten? (Bitte entsprechend in absoluten Zahlen und in Prozent in der Tabelle zu 9. angeben.)
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Antwort zu 1. bis 1. b.
 

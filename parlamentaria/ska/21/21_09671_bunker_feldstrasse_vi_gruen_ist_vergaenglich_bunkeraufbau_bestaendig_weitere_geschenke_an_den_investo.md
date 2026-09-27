@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 17
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9579", "21/9477", "21/9172", "21/9203", "21/9499"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58470"
@@ -35,17 +36,17 @@ Bereits jetzt ist jedoch klar, dass zum Beispiel
 
 ## Einleitung für die Antworten des Senats
 
- 744.000 Euro ohne Gegenleistung dem Investor geschenkt werden,
+– 744.000 Euro ohne Gegenleistung dem Investor geschenkt werden,
 
- 30 Prozent Abschlag auf den Bodenwert dem Investor geschenkt
+– 30 Prozent Abschlag auf den Bodenwert dem Investor geschenkt
 
 werden,
 
- nur 50,1 Prozent der Nutzungstage der Sport- und Freizeithalle für
+– nur 50,1 Prozent der Nutzungstage der Sport- und Freizeithalle für
 
 den Breitensport gesichert sind (Bericht Haushaltsausschuss, Drs. 21/9579, Seite 6),
 
- der Stadtteil keine Garantie für eine bezahlbare Nutzung der Sport-
+– der Stadtteil keine Garantie für eine bezahlbare Nutzung der Sport-
 
 und Freizeithalle hat (Bericht Haushaltsausschuss, Drs. 21/9579, Seite 7).
 

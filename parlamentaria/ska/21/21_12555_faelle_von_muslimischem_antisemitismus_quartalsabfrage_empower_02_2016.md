@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10076"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61858"
@@ -55,6 +56,6 @@ Wie viele neue Vorfälle antisemitischer Gewalt, Bedrohung oder Einschüchterung
 
 Wie viele dieser antisemitischen Vorfälle gingen von muslimischen Personen beziehungsweise von Personen mit einem Migrationshintergrund eines muslimisch geprägten Landes aus? Bitte auch die Art des antisemitischen Vorfalls kurz erläutern.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Beratungsstelle wurde im 2. Quartal 2016 mit einem antisemitischen Vorfall befasst. Im Übrigen siehe Drs. 21/10076.

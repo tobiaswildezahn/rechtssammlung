@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 19
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1492", "21/1719", "21/1848"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50239"
@@ -112,30 +113,30 @@ In Drs. 21/1492 antwortet der Senat unter Punkt 10., ihm sei nicht bekannt, inwi
 
 September 2015 welche politischen Gremien über weitere geplante Flüchtlingsunterkünfte im Bezirk Eimsbüttel informiert?
 
-#### Antwort zu Fragen 5, 7
+#### Antwort zu Fragen 5 und 7
 
 Über die in Drs. 21/1492 unter 1. genannten Flächen wurden die bezirklichen Gremien wie folgt informiert:
 
- Vogt-Kölln-Straße (Stellingen): Mündliche Mitteilung im Hauptausschuss am
+– Vogt-Kölln-Straße (Stellingen): Mündliche Mitteilung im Hauptausschuss am
 
 13. August 2015. Mündliche Mitteilung im Regionalausschuss Stellingen am
 31. August 2015. Schriftliche Mitteilung der Verwaltung im Ausschuss für Soziales, Arbeit, Gleichstellung und Gesundheit (SAGG) am 8. September 2015.
 
- Flagentwiet (Schnelsen): Mündliche Mitteilung im Hauptausschuss am 13. August
+– Flagentwiet (Schnelsen): Mündliche Mitteilung im Hauptausschuss am 13. August
 
 2015. Schriftliche Mitteilung der Verwaltung im Ausschuss für Soziales, Arbeit, Gleichstellung und Gesundheit (SAGG) am 8. September 2015. Mündliche Mitteilung im Regionalausschuss Lokstedt am 14. September 2015.
 
- Große Bahnstraße 50 (Stellingen): Anhörung der Bezirksversammlung nach § 28
+– Große Bahnstraße 50 (Stellingen): Anhörung der Bezirksversammlung nach § 28
 
 BezVG durch die Behörde für Arbeit, Soziales, Familie und Integration mit Schreiben vom 12. Mai 2015; Stellungnahme der Bezirksversammlung am 28. Mai 2015.
 
 Darüber hinaus wurden die bezirklichen Gremien seit dem 7. September 2015 wie folgt informiert:
 
- Über die Überlegungen der Behörde für Stadtentwicklung und Wohnen, Flächen
+– Über die Überlegungen der Behörde für Stadtentwicklung und Wohnen, Flächen
 
 für Wohnungsbau zu entwickeln, wurden die Mitglieder der Bezirksversammlung im Hauptausschuss am 10. September 2015 informiert.
 
- Der Stadtplanungsausschuss wurde am 13. Oktober 2015 über die Senatsent-
+– Der Stadtplanungsausschuss wurde am 13. Oktober 2015 über die Senatsent-
 
 scheidung vom 6. Oktober 2015 informiert, in der die Eimsbütteler Flächen Duvenacker (Eidelstedt) und Ellerbeker Weg (Schnelsen) genannt werden.
 

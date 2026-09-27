@@ -14,6 +14,7 @@ fragen: 30
 einzelfragen: 36
 antwortbloecke: 29
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11912", "21/16148"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65947"
@@ -55,7 +56,7 @@ Welche mit Wasserstoff betriebenen Busse befanden sich zum 1. Januar 2019 im Bet
 
 Welche mit Wasserstoff betriebenen Busse befinden sich gegenwärtig noch im Betrieb der HOCHBAHN?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Zwei Batterie-Gelenkbusse mit Brennstoffzelle als Range-Extender des Herstellers Solaris.
 

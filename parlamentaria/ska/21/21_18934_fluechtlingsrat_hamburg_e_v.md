@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68619"
@@ -67,7 +68,7 @@ Welchen Jahresetat hatte beziehungsweise hat der Flüchtlingsrat Hamburg e.V.? (
 
 In welcher Höhe erhielt beziehungsweise erhält der Flüchtlingsrat Hamburg e.V. Zuwendungen aus dem Landeshaushalt? (Bitte aufgeschlüsselt nach den Jahren 2015, 2016, 2017, 2018 und 2019 und mit Nennung der jeweiligen Haushaltstitel.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 

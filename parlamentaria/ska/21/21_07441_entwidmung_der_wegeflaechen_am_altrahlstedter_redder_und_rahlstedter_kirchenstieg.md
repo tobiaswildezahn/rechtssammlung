@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56045"
@@ -79,7 +80,7 @@ Welche Konsequenzen hat die Entwidmung für die Nutzer des Altrahlstedter Redder
 
 Welche Nutzer sind der zuständigen Behörde bekannt und wie kann eine weitere Nutzung erfolgen beziehungsweise genehmigt werden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 
@@ -255,6 +256,6 @@ Wie viele und bei welcher Entwidmung wurden Einsprüche eingereicht?
 
 Welche Entwidmungen wurden aufgrund welcher Einsprüche zurückgenommen?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Bis zum Zeitpunkt der Beantwortung der Schriftlichen Kleine Anfrage gab es keine Widerspruchsverfahren.

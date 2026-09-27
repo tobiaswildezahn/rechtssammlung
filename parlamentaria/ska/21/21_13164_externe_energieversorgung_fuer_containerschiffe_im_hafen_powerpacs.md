@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62503"
@@ -95,6 +96,6 @@ Können PowerPacs und Landstromanlagen am selben Terminal betrieben werden?
 
 Inwiefern ergänzen sich die beiden Technologien? Warum ist die Installation von Landstromanlagen sinnvoll, auch wenn PowerPacs bereits zur Verfügung stehen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 PowerPacs können derzeit 1,5 Megawatt (MW) produzieren, maximal können zwei PowerPacs zusammengeschlossen werden und entsprechend drei MW produzieren. Eine feste Landstromanlage kann bis zu sechs MW versorgen. Containerschiffe mit mehr als 10.000 TEU benötigen in Abhängigkeit zu der Anzahl der an Bord befindlichen Kühlcontainer zum Teil deutlich über drei MW. Die feste Landstromanlage und die PowerPacs können als komplementäre Lösungen für alle Schiffsgrößen nebeneinander an einem Terminal betrieben werden.

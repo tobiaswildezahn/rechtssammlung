@@ -14,6 +14,7 @@ fragen: 45
 einzelfragen: 61
 antwortbloecke: 44
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9758", "21/4919", "21/10677", "21/11001", "21/6544", "21/15811", "21/15673", "21/12482", "21/11934", "21/12038", "21/131"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65800"
@@ -934,7 +935,7 @@ Wie viele Asylsuchende haben im Januar 2019 in der zentralen Testund Meldestelle
 
 Welche Einstufungen und Überweisung in jeweils welche Kurse (Alphabetisierungskurs, regulärer Integrationskurs und so weiter) ergaben sich aus den Tests im Januar 2019?
 
-#### Antwort zu Fragen 38 bis 39
+#### Antwort zu Fragen 38 und 39
 
 Siehe Antwort zu 36.
 

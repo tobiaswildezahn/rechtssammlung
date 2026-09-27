@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10828"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59762"
@@ -53,7 +54,7 @@ Wie hoch sind die Fallzahlen bezogen auf Eingänge, Bestände und Erledigungen b
 
 Wie lange dauern durchschnittlich Verfahren am Hanseatischen Oberlandesgericht (bitte nach Strafsachen, Zivilsachen insbesondere Berufungen gegen Urteile in Einstweiligen Verfügungsverfahren sowie den Senaten gliedern und für den Zeitraum 2015 bis September 2017 darstellen)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Daten über Berufungen gegen Urteile in Einstweiligen Verfügungsverfahren liegen in der Justizstatistik nicht vor. Eine händische Auswertung aller Zivilsachen ist in der für die Beantwortung Parlamentarischer Anfragen zur Verfügung stehenden Zeit nicht möglich. Im Übrigen siehe Drs. 21/10828.
 

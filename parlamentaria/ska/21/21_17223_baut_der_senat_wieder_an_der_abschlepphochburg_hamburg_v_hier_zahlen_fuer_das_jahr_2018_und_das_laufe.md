@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 16
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13309", "21/9504"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66794"
@@ -320,15 +321,15 @@ Welche Unternehmen sind aktuell in Hamburg mit dem Abschleppen von Fahrzeugen be
 
 Es sind folgende Unternehmen beauftragt:
 
- Abschleppdienst Stephan GmbH,
+– Abschleppdienst Stephan GmbH,
 
- Hans-Jürgen Clasen KFZ-Abschlepp- und Transportdienst GmbH
+– Hans-Jürgen Clasen KFZ-Abschlepp- und Transportdienst GmbH
 
- Reinsch GmbH,
+– Reinsch GmbH,
 
- Abschlepp- Bergungs- Pannenservice Schröder Hamburg GmbH,
+– Abschlepp- Bergungs- Pannenservice Schröder Hamburg GmbH,
 
- Peter Henseleit GmbH.
+– Peter Henseleit GmbH.
 
 Zum jeweiligen Zuständigkeitsbereich siehe nachfolgende Tabelle.
 

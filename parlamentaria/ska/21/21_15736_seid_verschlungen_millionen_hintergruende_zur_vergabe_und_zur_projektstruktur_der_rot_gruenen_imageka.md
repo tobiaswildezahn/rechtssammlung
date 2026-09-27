@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15111", "21/15557", "21/3312", "21/1502", "21/15546"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65230"
@@ -77,7 +78,7 @@ b) Sachmittel in welcher Höhe sind im Jahr 2019 für die Abteilung beziehungswe
 
 Die Gesamtprojektleitung für beide Teilkampagnen obliegt der ebenfalls im Amt für Verkehr und Straßenwesen angesiedelten „Arbeitsstelle Radverkehr“. Wie lautet der Ist-Stand der Stellen, Beschäftigten, VZÄ und Vakanzen dieser Arbeitsstelle?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Radverkehrskoordinatorin wurde von Beginn an als Stabsstelle im Amt Verkehr und Straßenwesen angesiedelt. Die Arbeitsstelle Radverkehr ist der Radverkehrskoordinatorin direkt zugeordnet und umfasst fünf Stellen. Zwei Stellen sind zurzeit vakant. Auf den übrigen drei Stellen arbeiten zurzeit 2,9 Vollzeitäquivalente (VZÄ). Für die Stabsstelle der Radverkehrskoordinatorin einschließlich der Arbeitsstelle Radver-
 

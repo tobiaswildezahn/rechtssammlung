@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5789"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55348"
@@ -40,13 +41,13 @@ Das Umweltbundesamt hat unter anderem dazu im November 2012 eine Fachtagung „T
 
 ## Einleitung für die Antworten des Senats
 
- keine Verkehrsverlagerungen in andere Straßen und keine signifikanten
+– keine Verkehrsverlagerungen in andere Straßen und keine signifikanten
 
 Verschlechterungen des Verkehrsflusses,
 
- Anwohnerbefragungen zeigen überwiegend positive Reaktionen,
+– Anwohnerbefragungen zeigen überwiegend positive Reaktionen,
 
- neutrale bis positive Tendenz bei der Verkehrssicherheit
+– neutrale bis positive Tendenz bei der Verkehrssicherheit
 
 (vergleiche http://www.umweltbundesamt.de/sites/default/files/medien/377/ dokumente/heinrichs-veroeffentlichung.pdf).
 

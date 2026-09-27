@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 41
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11532", "21/2065", "21/4659"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56528"
@@ -41,23 +42,23 @@ Grundsätzlich kann davon ausgegangen werden, dass circa 15 Prozent der Schüler
 
 Mit dem Aktionsprogramm zur Begabtenförderung (siehe Drs. 21/4659) wurden Schritte eingeleitet, um in allen Schulen die Rahmenbedingungen zu schaffen, passgenaue Unterrichtsangebote und Förderkonzepte für Schülerinnen und Schüler mit unterschiedlichen Begabungen anbieten zu können. Dazu zählen unter anderem folgende Bausteine:
 
- Alle Stadtteilschulen und Gymnasien haben seit September 2014 die Lehrkräfte
+– Alle Stadtteilschulen und Gymnasien haben seit September 2014 die Lehrkräfte
 
 benannt, die an den Schulen die Funktion einer Fachkraft für Begabtenförderung (FBF) übernommen haben. Alle Fachkräfte für Begabtenförderung müssen an einer obligatorischen Qualifizierung am Landesinstitut für Lehrerbildung und Schulentwicklung (LI) teilnehmen. Die FBF sollen in ihrer Schule Ansprechpartner und -partnerinnen für Eltern und Lehrkräfte im Themenbereich Begabtenförderung sein und darüber hinaus in Zusammenarbeit mit der Beratungsstelle besondere Begabungen (BbB) Maßnahmen zur Begabtenförderung für die eigene Schule entwickeln.
 
- Im Rahmen dieser Qualifizierung wurden die FBF dazu angeleitet, schulspezifische
+– Im Rahmen dieser Qualifizierung wurden die FBF dazu angeleitet, schulspezifische
 
 Förderkonzepte zur Begabtenförderung zu entwickeln und zu verschriftlichen.
 
- Für Grundschulen ist eine vergleichbare Funktion sowie Teilnahme an der Qualifi-
+– Für Grundschulen ist eine vergleichbare Funktion sowie Teilnahme an der Qualifi-
 
 zierung am LI optional. Das LI bietet daher den Grundschulen auf freiwilliger Basis eine vergleichbare Qualifizierung „Multiplikatorin bzw. Multiplikator für Begabtenförderung an der Grundschule (MfB)“ an. Derzeit bildet die BbB in zwei Ausbildungsgruppen 52 MfB-Fachkräfte an 46 Grundschulen aus.
 
- Darüber hinaus hat jede Grund- und Stadtteilschule ein individuelles integriertes
+– Darüber hinaus hat jede Grund- und Stadtteilschule ein individuelles integriertes
 
 Förderkonzept entwickelt, in dem die Förderbereiche „Sprachförderung“, „sonderpädagogische Förderung“, „Lernförderung“ und „besondere Begabungen“ dargestellt werden. Dieses integrierte Förderkonzept wird durch die Förderkoordinatorin beziehungsweise den Förderkoordinator mit den pädagogischen Fachkräften der Schule entwickelt und im Rahmen der Zertifizierung am LI vorgelegt.
 
- Bei der Entwicklung der Förderkonzepte zur Begabtenförderung orientieren sich
+– Bei der Entwicklung der Förderkonzepte zur Begabtenförderung orientieren sich
 
 die FBF und MfB an einheitlichen Vorgaben, die während der Qualifizierungen besprochen werden und in der Handreichung zur Erstellung des schulischen Förderkonzeptes zur Begabtenförderung enthalten sind siehe: http://li.hamburg.de/ materialien-lehrkraefte/. Zusätzliche Orientierung für alle Förderbereiche bietet die „Handreichung integrierte Förderkonzepte“, siehe http://www.hamburg.de/ contentblob/4353876/data/foerderkonzept.pdf.
 
@@ -89,7 +90,7 @@ Welche weiterführenden Schulen haben noch keine Fachkraft für Begabtenförderu
 
 Wie viele weiterführende Schulen haben die Aufgaben der Fachkraft für Begabtenförderung integriert in die Aufgaben anderer Fachkräfte?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung. Alle weiterführenden Schulen verfügen derzeit über eine Fachkraft für Begabtenförderung. Diese üben zeitgleich auch andere Funktionen an der Schule aus.
 
@@ -101,7 +102,7 @@ Welche Grundschulen haben noch keinen Förderkoordinator für Begabtenförderung
 
 Wie viele Grundschulen haben die Aufgaben des Förderkoordinators für Begabtenförderung integriert in die Aufgaben anderer Fachkräfte?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Jede Grundschule verfügt über eine Förderkoordinatorin beziehungsweise einen Förderkoordinator. Die Förderkoordinatoren an Hamburger Grundschulen sind verant-
 
@@ -115,7 +116,7 @@ Wie viele Beratungsfälle hatte die „Beratungsstelle besondere Begabungen“ i
 
 Wie viele dieser Fälle betrafen Jungs und wie viele Mädchen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Im Schuljahr 2015/2016 wurden in der Beratungsstelle besondere Begabungen 186 neue Beratungsfälle aufgenommen (davon 131 Jungen und 41 Mädchen, 14 allgemeine Beratungen), im ersten Halbjahr des Schuljahres 2016/2017 wurden 121 neue Beratungsfälle aufgenommen (davon 82 Jungen und 36 Mädchen, drei allgemeine Beratungen).
 
@@ -157,39 +158,39 @@ Die zuständige Fachstelle Beratungsstelle besondere Begabungen ist mit den übe
 
 In den letzten drei Jahren wurden folgende Aktivitäten wahrgenommen:
 
- März 2013: Teilnahme am Landesthementag Enrichment, IQSH-Kiel
+– März 2013: Teilnahme am Landesthementag Enrichment, IQSH-Kiel
 
- März 2014: Treffen des Netzwerkes der Beratungsstellen, KARG-Stiftung, Berlin
+– März 2014: Treffen des Netzwerkes der Beratungsstellen, KARG-Stiftung, Berlin
 
- Mai 2014: Teilnahme an der Fachtagung „Perspektive Begabung: Nachhaltig För-
+– Mai 2014: Teilnahme an der Fachtagung „Perspektive Begabung: Nachhaltig För-
 
 dern“, Bonn
 
- Juni 2014: Teilnahme am Fachgespräch zur Begabtenförderung im Rahmen der
+– Juni 2014: Teilnahme am Fachgespräch zur Begabtenförderung im Rahmen der
 
 KMK, Berlin
 
- November 2014: Teilnahme am Bundeskongress Schulpsychologie „Neue Schul-
+– November 2014: Teilnahme am Bundeskongress Schulpsychologie „Neue Schul-
 
 welten Herausforderungen für die Schulpsychologie“, Landshut
 
- Mai 2015: Teilnahme an der Fachtagung „Perspektive Begabung: Potenziale im
+– Mai 2015: Teilnahme an der Fachtagung „Perspektive Begabung: Potenziale im
 
 Blick“ in Bonn,
 
- September 2015: Teilnahme am 5. Münsteraner Bildungskongress, Münster
+– September 2015: Teilnahme am 5. Münsteraner Bildungskongress, Münster
 
- Februar 2016: Teilnahme an der Fachtagung der Länderinitiative zur Förderung
+– Februar 2016: Teilnahme an der Fachtagung der Länderinitiative zur Förderung
 
 leistungsstarker und besonders leitungsfähiger Kinder und Jugendlicher „Begabung als Chance nutzen“, Mainz
 
- Mai 2016: Teilnahme an der Fachtagung „Perspektive Begabung: Diversität als
+– Mai 2016: Teilnahme an der Fachtagung „Perspektive Begabung: Diversität als
 
 Chance“ in Köln
 
- September 2016: Teilnahme am Bundeskongress Schulpsychologie, Berlin
+– September 2016: Teilnahme am Bundeskongress Schulpsychologie, Berlin
 
- Seit März 2016: Teilnahme an länderübergreifenden Austauschgruppe der Landes-
+– Seit März 2016: Teilnahme an länderübergreifenden Austauschgruppe der Landes-
 
 institute aus Hamburg, Schleswig-Holstein und Bremen
 
@@ -227,19 +228,19 @@ In welchem Umfang wurden die Weiterbildungsangebote im Bereich Hochbegabtenförd
 
 Im Schuljahr 2015/2016 wurden insgesamt 84 Fortbildungsveranstaltungen in einem Zeitumfang von 258 Stunden mit insgesamt 1.484 Teilnehmerinnen und Teilnehmern durchgeführt:
 
- Zentrale Fortbildungen am LI, offen für alle Lehrkräfte: 26 Veranstaltungen im
+– Zentrale Fortbildungen am LI, offen für alle Lehrkräfte: 26 Veranstaltungen im
 
 Umfang von 97 Stunden mit 347 Teilnehmerinnen und Teilnehmern,
 
- Schulinterne Fortbildungen (auf Nachfrage): 24 Veranstaltungen im Umfang von 73
+– Schulinterne Fortbildungen (auf Nachfrage): 24 Veranstaltungen im Umfang von 73
 
 Stunden mit 594 Teilnehmerinnen und Teilnehmern,
 
- FBF-Qualifizierung: 30 Veranstaltungen im Umfang von 72 Stunden mit 435 Teil-
+– FBF-Qualifizierung: 30 Veranstaltungen im Umfang von 72 Stunden mit 435 Teil-
 
 nehmerinnen und Teilnehmern,
 
- MfB-Qualifizierung: vier Veranstaltungen im Umfang von 16 Stunden mit 108 Teil-
+– MfB-Qualifizierung: vier Veranstaltungen im Umfang von 16 Stunden mit 108 Teil-
 
 nehmerinnen und Teilnehmern.
 
@@ -285,7 +286,7 @@ Wie viele und welche Grundschulen haben derzeit kein Konzept zur Hochbegabtenfö
 
 Wie viele Grundschulen haben ihr Konzept zur Hochbegabtenförderung in andere Konzepte integriert, also kein eigenständiges Hochbegabtenförderungskonzept?
 
-#### Antwort zu Fragen 20 bis 21
+#### Antwort zu Fragen 20 und 21
 
 Siehe Antworten zu 4. und 5. sowie zu 19.
 

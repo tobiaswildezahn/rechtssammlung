@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 18
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5237", "21/5231", "21/2550", "21/5860"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54340"
@@ -103,6 +104,6 @@ Auch sollen laut Konsens Angebote und Initiativen, die privaten Wohnraum an Flü
 
 Hat der Senat oder haben seine Behörden bereits Pläne, Mittel aus dem Integrationsfonds für bestimmte Projekte einzusetzen? Wenn ja, für welche Projekte mit welchem Ziel in welcher Höhe zu wann?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Antwort zu 2. bis 5.

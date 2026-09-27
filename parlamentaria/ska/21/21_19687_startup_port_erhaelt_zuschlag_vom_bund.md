@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69408"
@@ -53,23 +54,23 @@ Der Verbund Startup Port verfolgt drei Ziele. Die Steigerung der Zahl wissensbas
 
 Die hinzugewonnenen Bundesmittel werden für folgende Maßnahmen verwendet, die zur Erreichung der obigen Ziele geplant sind:
 
- Es werden drei neue hochschulübergreifende Formate implementiert: Startup Port
+– Es werden drei neue hochschulübergreifende Formate implementiert: Startup Port
 
 ACADEMY, Startup Port MATES, Startup Port BUSINESS. Die Startup Port ACADEMY setzt den Fokus auf Qualifizierung in Form eines hochschulübergreifenden Zertifikatsprogramms für Studierende und Wissenschaftlerinnen und Wissenschaftler sowie auf Qualifizierungsangebote für (angehende) Gründe-
 
 rinnen und Gründer und Gründungsberaterinnen und Gründungsberater. Startup Port MATES schafft interdisziplinäre Vernetzungsmöglichkeiten zwischen Gründungsakteurinnen und Gründungsakteuren aller Hochschulen und Forschungseinrichtungen der Metropolregion Hamburg. Im Programm Startup Port BUSINESS werden Start-ups mit der etablierten Wirtschaft verbunden, um den jungen Unternehmen Zugänge zu Märkten und Finanzierung zu schaffen und umgekehrt einen Wissenstransfer von den Start-ups in die etablierte Wirtschaft zu fördern. Alle drei Formate sind eine Ergänzung der Angebote an den einzelnen Hochschulen und Einrichtungen.
 
- Bestehende Ausbildungsangebote und Förderformate der einzelnen Verbundpart-
+– Bestehende Ausbildungsangebote und Förderformate der einzelnen Verbundpart-
 
 nerinnen und Verbundpartner werden für alle Studierenden und Wissenschaftlerinnen und Wissenschaftler geöffnet.
 
- Das Teilen von Wissen und das Lernen voneinander werden strukturell verankert.
+– Das Teilen von Wissen und das Lernen voneinander werden strukturell verankert.
 
- Der Verbund wird zu einer regionalen Startup Port COMMUNITY weiterentwickelt,
+– Der Verbund wird zu einer regionalen Startup Port COMMUNITY weiterentwickelt,
 
 in der ein reger Austausch zwischen den Stakeholdern aus Wissenschaft, Wirtschaft und Politik erfolgt und bedarfsgerechte neue Formate entwickelt werden.
 
- Es wird eine regionale Marke „Startup Port“ entwickelt.
+– Es wird eine regionale Marke „Startup Port“ entwickelt.
 
 ### Frage 2
 

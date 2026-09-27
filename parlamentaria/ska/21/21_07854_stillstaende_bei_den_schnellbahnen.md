@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56481"
@@ -47,7 +48,7 @@ Wie viele technisch bedingte Betriebsstörungen gab es bei der S-Bahn in den Jah
 
 Wie viele technisch bedingte Betriebsstörungen gab es bei der HOCH- BAHN in den Jahren 2011 – 2016? Bitte nach Jahren aufschlüsseln und in Prozent der durchgeführten Fahrten angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Anzahl der technisch bedingten Betriebsstörungen wird statistisch nicht erfasst. Auch wird die Anzahl der durch technische Betriebsstörungen beeinflussten Zugfahrten nicht erfasst, da sich insbesondere auf langen Linien oder bei Auftreten größerer Störungen mehrere Einflussfaktoren überlagern und eine eindeutige Zuordnung der Verspätung zu einer bestimmten Ursache häufig nicht valide möglich ist. Eine derartige Statistik bietet daher keinen Mehrwert. Oftmals treffen mehrere Gründe für eine Störungssituation zusammen. Einzelne Verspätungen für den Zeitraum von fünf Jahren zu klassifizieren und bestimmten Ursachenkategorien zuzuordnen, sowie diese in Relation zu der Anzahl planmäßiger Fahrten zu setzen, ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

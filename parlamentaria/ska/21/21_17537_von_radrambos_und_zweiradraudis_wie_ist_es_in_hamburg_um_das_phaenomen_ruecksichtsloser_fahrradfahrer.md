@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 15
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10603", "21/13827"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67130"
@@ -223,7 +224,7 @@ Wie hat sich die Zahl der abgeschlossenen Ordnungswidrigkeitsverfahren aufgrund 
 
 Welche Arten von Verkehrsverstößen lagen den im Jahr 2017, 2018 und im laufenden Jahr 2019 abgeschlossenen Ordnungswidrigkeitsverfahren in welcher Häufigkeit zugrunde? Bitte jahresweise aufschlüsseln und jeweils die Häufigkeit der verschiedenen Arten von Verstößen angeben.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Drs. 21/10603.
 

@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 26
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2108"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53327"
@@ -53,7 +54,7 @@ Ist der Bezug der Flüchtlingsunterkunft inzwischen abgeschlossen? Wenn ja, zu w
 
 Wie viele Personen sind hier zurzeit untergebracht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -223,6 +224,6 @@ Welche Angebote werden den Flüchtlingen gemacht (Bildung, Freizeitgestaltung)?
 
 Wie viele Ehrenamtliche sind eingesetzt und wie helfen sie? Wenn noch kein Einsatz von Ehrenamtlichen erfolgt ist, ab wann wird der erfolgen?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Siehe Vorbemerkung.

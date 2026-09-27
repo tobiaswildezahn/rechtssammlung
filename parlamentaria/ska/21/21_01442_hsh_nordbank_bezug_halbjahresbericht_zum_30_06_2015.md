@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/573", "21/4"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49651"
@@ -59,7 +60,7 @@ Seit wann ist dem Senat bekannt, dass die HSH Nordbank ihre aktuellen Risiken ni
 
 Seit wann ist dem HSH-Vorstand bekannt und klar, dass die HSH Nordbank ihre aktuellen Risiken nicht allein bewältigen kann?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Erkenntnis hat sich schrittweise im Zuge der Verschlechterung der Schifffahrtsprognosen, der Entwicklung des US-Dollar-Euro-Wechselkurses und der Ergebnisse des Comprehensive Assessments der Europäischen Zentralbank (EZB) beziehungsweise der steigenden bankaufsichtsrechtlichen Vorgaben ergeben und hat sich mit Aufstellung des Jahresabschlusses 2014 der HSH Nordbank (HSH) bestätigt (siehe http://www.hsh-nordbank.de/de/investorrelations/investorrelations.jsp).
 

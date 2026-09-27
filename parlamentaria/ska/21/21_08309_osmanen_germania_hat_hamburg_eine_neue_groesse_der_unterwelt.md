@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 20
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6663"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57007"
@@ -81,7 +82,7 @@ Liegen den zuständigen Behörden Informationen darüber vor, welche Verbindunge
 
 Welche Maßnahmen haben die zuständigen Behörden in Bezug auf diesen Club ergriffen? Steht/stand die Gruppierung unter gesonderter Beobachtung? Falls ja, durch wen und in welchem Ausmaß?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Soweit die Beantwortung von Fragen Rückschlüsse auf das polizeitaktische Vorgehen zulässt und die Wirksamkeit polizeilichen Handelns berührt ist, steht einer Beantwortung der Fragen die Aufrechterhaltung der Funktionsfähigkeit der Polizei als Strafverfolgungs- und Gefahrenabwehrbehörde nach Artikel 30 der Hamburgischen Verfassung und damit dem Staatswohl entgegen, sodass von einer Beantwortung der Fragen abgesehen wird.
 

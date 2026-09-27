@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51511"
@@ -53,11 +54,11 @@ Welche Drohnen benötigen eine Aufstiegsgenehmigung nach §20 Absatz 3 LuftVO un
 
 Die folgenden unbemannten Fluggeräte bedürfen zur Nutzung des Luftraums der Erteilung einer Aufstiegserlaubnis:
 
- unbemannte Luftfahrtsysteme – UAS (unmanned aircraft system), das heißt
+– unbemannte Luftfahrtsysteme – UAS (unmanned aircraft system), das heißt
 
 unbemannte Fluggeräte, die nicht zu Zwecken des Sports oder der Freizeitgestaltung betrieben werden und
 
- Flugmodelle,
+– Flugmodelle,
 
 o mit mehr als fünf Kilogramm Gesamtmasse,
 

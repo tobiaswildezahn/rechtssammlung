@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63602"
@@ -43,7 +44,7 @@ Welche Begründung gab/gibt es für die Änderung der Geschwindigkeitsregelung i
 
 Ist diese Regelung auf Dauer angelegt oder wird kurzfristig wieder zu Tempo 120 zurückgekehrt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Derzeit finden noch Restarbeiten an den Fahrzeugrückhaltesystemen statt. Nach Abschluss der Arbeiten wird die befristete Temporeduzierung von 120 km/h auf 80 km/h wieder aufgehoben.
 
@@ -55,6 +56,6 @@ Wurde im Rahmen der Renovierung der A 24 „Flüsterasphalt“ verwendet?
 
 Wenn nicht, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Im Rahmen einer Lärmsanierung an der A24 wurden im Jahr 2007 Lärmschutzwände und -wälle errichtet, um die Anwohnerinnen und Anwohner zu schützen. Die Verkehrszahlen und die Lkw-Belastung haben sich seitdem nur wenig verändert. Die zugrunde liegenden Prognosen zur Dimensionierung des Lärmschutzes werden weiterhin deutlich unterschritten, sodass der Lärmschutz ausreichend gegeben ist. Es erfolgt keine Verwendung von offenporigem Asphalt. Eine wesentliche bauliche Änderung, die ebenfalls Veranlassung für eine Nachbesserung des Lärmschutzes geben würde, liegt nicht vor.

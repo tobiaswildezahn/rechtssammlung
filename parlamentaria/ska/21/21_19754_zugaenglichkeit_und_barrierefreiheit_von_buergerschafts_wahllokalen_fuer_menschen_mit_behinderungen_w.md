@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 18
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14150", "21/16645", "21/15998"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69478"
@@ -131,7 +132,7 @@ Wie viele Wahllokale bieten in welchem Wahlkreis auf Anfrage Gebärdensprachübe
 
 Wie erfahren Menschen, die auf Gebärdensprache angewiesen sind, von der Möglichkeit Gebärdensprachdolmetschung in Anspruch zu nehmen, um die Wahlen durchführen zu können?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 In den 1 283 Wahllokalen werden keine Gebärdensprachdolmetscher eingesetzt.
 
@@ -151,7 +152,7 @@ Werden die Wahlbenachrichtigungen auch unaufgefordert in Leichter Sprache an all
 
 Wie viele Wahlbenachrichtigungen werden aufgrund welcher Umstände auch in Brailleschrift versendet?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Wahlbenachrichtigung für die rund 1,3 Millionen Wahlberechtigten ist einheitlich gefasst und sprachlich möglichst einfach gehalten. Gesonderte Fassungen in Leichter Sprache oder in Braille-Schrift gibt es nicht.
 
@@ -179,7 +180,7 @@ Wie steht es um die Beschilderung in und zu den Wahllokalen, wird hier das Zwei-
 
 Wenn ja, in wie vielen Wahllokalen ist das der Fall? Bitte insgesamt und nach Wahlkreisen aufschlüsseln.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Nein.
 

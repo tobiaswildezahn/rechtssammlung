@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5832", "20/4195", "21/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54882"
@@ -183,21 +184,21 @@ Von den zwei VZÄ-Stellen des HIBB ist jeweils eine Stelle Teamleitung und eine 
 
 Die Teamleitungen des HIBB erfüllen folgende Aufgaben:
 
- Steuerungs- und Controllingaufgaben
+– Steuerungs- und Controllingaufgaben
 
- Konzeptionelle und entwickelnde Aufgaben
+– Konzeptionelle und entwickelnde Aufgaben
 
- Qualifizierende Aufgaben
+– Qualifizierende Aufgaben
 
- Koordinierende Aufgaben im Bereich der Schulen des Bezirks
+– Koordinierende Aufgaben im Bereich der Schulen des Bezirks
 
- Beratung und Betreuung von Jugendlichen im regionalen Standort der JBA
+– Beratung und Betreuung von Jugendlichen im regionalen Standort der JBA
 
 Die Berater des HIBB erfüllen folgende Aufgaben:
 
- Beratung und Betreuung von Jugendlichen im regionalen Standort der JBA
+– Beratung und Betreuung von Jugendlichen im regionalen Standort der JBA
 
- Koordinierende Aufgaben im Bereich der Schulen des Bezirks
+– Koordinierende Aufgaben im Bereich der Schulen des Bezirks
 
 Arbeitsschwerpunkt der bezirklichen Mitarbeiterinnen und Mitarbeiter in den JBA ist die sozialpädagogische Situationsklärung und (Erst-)Beratung von Jugendlichen und Jungerwachsenen zu Ausbildungs- und Förderangeboten. Zu den Aufgaben zählt ferner die Beratung bei persönlichen Schwierigkeiten (Sucht, Wohnungsprobleme, Probleme in der Familie und andere) zur Stabilisierung der Lebenslage und die Vermittlung und Begleitung zu allen bezirklichen Dienststellen wie ASD, Fachstelle für Wohnungssicherung, Kindertagesbetreuung und andere und zu allen Angeboten der Jugendhilfe im Bezirk sowie allen überbezirklichen Beratungs- und Fachdiensten (zum Beispiel Suchthilfe).
 

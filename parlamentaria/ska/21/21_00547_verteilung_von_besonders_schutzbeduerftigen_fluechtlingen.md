@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 26
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/441"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48695"
@@ -109,7 +110,7 @@ Wurde ihre Schwangerschaft nach den Blutungen und nach dem Krankenhausaufenthalt
 
 Hatten die zuständigen Stellen Kenntnis von ihrem Krankenhausaufenthalt? a. Wenn ja, warum wurde sie trotzdem verteilt? b. Wenn nein, warum nicht? c. Welche waren die zuständigen Stellen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antwort zu 6.
 
@@ -137,7 +138,7 @@ Inwiefern trifft es zu, dass Strafanzeige gegen die zuständigen Behörden ersta
 
 Liegen in diesem Zusammenhang Vorwürfe gegen Hamburger Behörden vor? a. Wenn ja, welche?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Eine Strafanzeige liegt der Staatsanwaltschaft Hamburg nicht vor. Allerdings hat die Staatsanwaltschaft Siegen von Amts wegen ein Unbekannt-Verfahren eingeleitet, das von der Staatsanwaltschaft Hamburg übernommen wurde. Konkrete Vorwürfe wurden bislang nicht benannt, vielmehr werden zunächst strafrechtliche Verantwortlichkeiten für die in Siegen eingetretene Fehlgeburt geklärt. Geprüft wird insbesondere auch, ob zureichende tatsächliche Anhaltspunkte einer Straftat der für die medizinische Behandlung oder für die Überstellung der Kindsmutter nach Dortmund Verantwortlichen vorliegen.
 

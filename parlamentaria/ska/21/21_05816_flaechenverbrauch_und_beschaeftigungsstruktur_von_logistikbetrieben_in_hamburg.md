@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54322"
@@ -65,7 +66,7 @@ Welche Arbeitsbereiche werden von diesen Betrieben innerhalb Hamburgs vorgehalte
 Wie viele Beschäftigte haben die in Hamburg vertretenen Logistikbetriebe? Bitte, soweit möglich, nach Kategorien (bis zu 100, 101 – 500, 500 –
 1.000, mehr als 1.000 Beschäftigte) aufteilen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Für das Jahr 2014 errechnet sich nach der Methodik der Fraunhofer Arbeitsgruppe für Supply Chain Services für die Freie und Hansestadt Hamburg (FHH) eine Gesamtbeschäftigungszahl von 127.603 von direkten und indirekten Logistikbeschäftigten. Eine Kategorisierung nach Betriebsgrößen ist nicht möglich. Im Übrigen siehe Vorbemerkung.
 
@@ -117,7 +118,7 @@ Wie viel Fläche wird von Logistikbetrieben in Hamburg genutzt? Bitte bezirkswei
 
 Wie groß ist der Anteil an Lager- und Distributionsflächen mit Nebenflächen an den vorgenannten Flächen? Bitte für die letzten zehn Jahre aufführen.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Zu dem Umfang der von Logistikbetrieben in Anspruch genommenen Flächen in Hamburg liegen der zuständigen Behörde keine entsprechenden Daten vor.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56541"
@@ -57,11 +58,11 @@ Die Polizei erfasst den Diebstahl eines ordnungsgemäß gegen Diebstahl gesicher
 
 Darin enthalten sind die Straftatenschlüssel:
 
- 4403 in/aus Boden-, Kellerräumen, Waschküchen
+– 4403 in/aus Boden-, Kellerräumen, Waschküchen
 
- 4103 Fahrrädern in/aus Büro-, Dienst-, Fabrikations-, Werkstatt- und Lagerräumen
+– 4103 Fahrrädern in/aus Büro-, Dienst-, Fabrikations-, Werkstatt- und Lagerräumen
 
- 4253 in/aus Kiosken, Warenhäusern, Verkaufsräumen, Selbstbedienungsläden,
+– 4253 in/aus Kiosken, Warenhäusern, Verkaufsräumen, Selbstbedienungsläden,
 
 Schaufenstern, Schaukästen und Vitrinen von Fahrrädern
 

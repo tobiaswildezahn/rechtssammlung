@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4284", "21/5565", "21/7633", "21/11206"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66150"
@@ -43,7 +44,7 @@ Ist dem Senat oder der zuständigen Behörde bekannt, wie viele allgemeinbildend
 
 Ist dem Senat oder der zuständigen Behörde bekannt, wie viele allgemeinbildende und berufsbildende Schulen ihren Lehrkräften entsprechend gesicherte Endgeräte zur Verfügung stellen? Wenn ja, bitte Schulen, unter Nennung der jeweils zur Verfügung stehenden Anzahl der Endgeräte darstellen. Bitte ebenfalls darstellen, unter welchen Bedingungen und Voraussetzungen die Geräte für Lehrkräfte zugänglich sind. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 An den allgemeinbildenden und den berufsbildenden Schulen erhalten in der Regel die Lehrkräfte Basis-IT-Arbeitsplätze, die als Funktionsträger die Rollen Schulleitung, stellvertretene Schulleitung, Stunden- und Vertretungsplanung bekleiden.
 
@@ -95,6 +96,6 @@ Welche Maßnahmen bestehen vonseiten des Senats und der Behörde, die das Ziel h
 
 Bestehen vonseiten des Senats oder der zuständigen Behörde Pläne für weitere Maßnahmen, die das Ziel haben, die Schulen und Lehrer bei einer sicheren und unter den Maßgaben des Datenschutzes adäquaten Organisation des Schulalltags zu unterstützen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Schulleitungen werden in Datenschutzfragen anlassbezogen und auf Dienstbesprechungen durch den behördlichen Datenschutzbeauftragten sowie den Informationssicherheitsbeauftragten beraten, siehe auch Antwort zu 4. Als weitere Maßnahmen in den Handlungsfeldern sind unter anderem nach bereits erfolgter Anpassung der bereichsspezifischen Datenschutzvorschriften des HmbSG im September 2018 (vergleiche §§ 98 fortfolgende HmbSG) die Überarbeitung der Rechtsverordnungen sowie der sonstigen Verwaltungsvorschriften geplant. Ferner unterstützt die für Bildung zuständige Behörde die Schulen und Lehrkräfte, siehe Antwort zu 3.

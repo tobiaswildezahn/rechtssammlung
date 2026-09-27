@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59465"
@@ -71,7 +72,7 @@ An welchen Standorten von Windenergieanlagen wurden durch Behörden Schallmessun
 
 Wurden neben Schallmessungen am Tage auch in den Nachtstunden, in denen geringere Grenzwerte im Bereich der Wohnbebauung einzuhalten sind, Messungen durchgeführt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 In den immissionsschutzrechtlichen Genehmigungsbescheiden von WKA sind in der Regel Auflagen verfügt, welche den Betreiber verpflichten, nach Errichtung der Anlagen Geräuschmessungen durch nach dem BImSchG anerkannte Messstellen durchführen zu lassen. Solche Messungen werden daher im Regelfall nicht von den Behörden durchgeführt.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60626"
@@ -78,7 +79,7 @@ Welche dieser Anfragen oder Anliegen konnten zur allseitigen Zufriedenheit in we
 
 Welchen Anfragen und Anliegen konnte aus welchen Gründen nicht abgeholfen werden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Durch die Einbeziehung der zuständigen Stellen wie zum Beispiel Behörden oder Betreibern von Unterkünften und die Vermittlung und Klärung von Sachverhalten zwischen diesen beteiligten Stellen konnten Einzelfälle geklärt und Möglichkeiten der Kommunikation mit den Betroffenen aufgezeigt werden.
 

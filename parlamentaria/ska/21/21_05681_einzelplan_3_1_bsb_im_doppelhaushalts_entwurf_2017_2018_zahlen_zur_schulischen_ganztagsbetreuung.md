@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4866", "21/5236", "21/5000", "21/1395", "21/4472"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54177"
@@ -71,7 +72,7 @@ An wie vielen und welchen Schulstandorten wurden gemäß der Einigung zur Umsetz
 
 Wurden/werden für die Einrichtung und Arbeit dieser Gremien zusätzliche Haushaltsmittel benötigt? Wenn ja, in welcher finanziellen Höhe aus welchen Haushaltsbereichen stammten/stammen diese gegebenenfalls jeweils? Bitte jeweilige Anteile nach Zusatz- oder Bestandsmitteln mit Nennung der Aufgabenbereiche und Produktgruppen, aus denen sie gegebenenfalls stammen, in absoluten Zahlen je für die Jahre 2016, 2017 und 2018 angeben.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Gemäß Beschlussfassung der Hamburgischen Bürgerschaft vom 15.06.2016 setzt die Schulkonferenz einer Schule den Ganztagsausschuss gemäß § 56 a Hamburgisches Schulgesetz (HmbSG) ein. Schulkonferenzen treten regelhaft zu Beginn eines Schuljahres zusammen, sodass angesichts der laufenden Sommerferien noch keine neuen Ausschüsse eingerichtet werden konnten. Das von der Hamburgischen Bürgerschaft beschlossene Maßnahmenpaket zur Verbesserung des Ganztagsangebots an den Hamburger Schulen setzt teilweise auf Prozessen auf, die an Schulen bereits in unterschiedlicher Ausprägung laufen und die es nun zu intensivieren gilt. Dieses geschieht im Rahmen der den Schulen zur Verfügung stehenden Mittel.
 

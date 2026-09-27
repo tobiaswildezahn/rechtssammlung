@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58716"
@@ -51,7 +52,7 @@ Welche Differenzen führten dazu, dass sich die Verhandlungen so lange hinzogen 
 
 In welchen Punkten unterscheidet sich der Bertreibervertag mit f & w von den Verträgen mit den anderen Trägern? Bitte Unterschiede aufzeigen und begründen, warum dem so ist.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Auftragnehmerin ist als Anstalt öffentlichen Rechts gemäß § 2 Absatz 1 des Gesetzes über die Anstalt öffentlichen Rechts f & w fördern und wohnen AöR unter anderem mit dem Betrieb von Einrichtungen zur Unterbringung von Asylbewerbern und Duldungsantragstellern betraut. In diesem Rahmen betreibt die Auftragnehmerin
 
@@ -61,26 +62,26 @@ f & w wurde, anders als die Hilfsorganisationen (HIORG), speziell zur Erfüllung
 
 Den sich daraus ergebenden Besonderheiten wurde mit der Neugestaltung des Auftrags und der Anpassung der Leistungsbeschreibung Rechnung getragen:
 
- So wurde der Auftrag mit f & w um eine Präambel ergänzt. Die Ergänzung verdeut-
+– So wurde der Auftrag mit f & w um eine Präambel ergänzt. Die Ergänzung verdeut-
 
 licht den Unterschied zwischen Auftragserteilung und Vertragsabschluss.
 
- Einer Regelung zur Kooperation hinsichtlich der Belegungssteuerung bedurfte es
+– Einer Regelung zur Kooperation hinsichtlich der Belegungssteuerung bedurfte es
 
 nicht, da f & w die Belegungssteuerung für Erstaufnahmeeinrichtungen und öffentlich rechtliche Unterkünfte vornimmt.
 
- Für f & w gilt der Tarifvertrag der Arbeitsrechtlichen Vereinbarung e.V. (TV-AVH), da
+– Für f & w gilt der Tarifvertrag der Arbeitsrechtlichen Vereinbarung e.V. (TV-AVH), da
 
 es sich um eine Anstalt öffentlichen Rechts handelt. Insofern erfolgt die Erstattung der Personalkosten auf Basis der Ist-Kosten. Im Vertrag mit den Betreibern wurde eine Erstattungsobergrenze in Anlehnung an den TV-AVH vereinbart. Die Erstattung der Personalkosten erfolgt hier auf Basis der gültigen Personalkostenverrechnungssätze oder auf Basis der Ist-Kosten.
 
- Ein Gemeinkostenzuschlag zur Finanzierung der Verwaltungskosten wurde für
+– Ein Gemeinkostenzuschlag zur Finanzierung der Verwaltungskosten wurde für
 
 f & w nur in Höhe von 10 Prozent, für die HIORG in Höhe von 12,5 Prozent vereinbart. Hier wurde berücksichtigt, dass die HIORG aufgrund der im Verhältnis zu den Gesamtkosten im Vergleich zu f & w anfallenden höheren sogenannten Overhead- Kosten bei einem 10-prozentigen Gemeinkostenzuschlag benachteiligt gewesen wäre.
 
- Die HIORG wurden verpflichtet, eine Haftpflichtversicherung für Personen-, Sach-
+– Die HIORG wurden verpflichtet, eine Haftpflichtversicherung für Personen-, Sach-
 
 und Vermögensschäden abzuschließen. Dies entfällt bei f & w als Anstalt öffentlichen Rechts.
 
- Der Auftrag mit f & w zum Betrieb einer Erstaufnahmeeinrichtung für Asylbewerber
+– Der Auftrag mit f & w zum Betrieb einer Erstaufnahmeeinrichtung für Asylbewerber
 
 und Duldungsantragsteller wurde unbefristet erteilt, die Laufzeit der Einrichtung der Betreiber endet frühestens zwei Jahre nach Beginn der Inbetriebnahme. Regelungen zur Kündigung, Standortschließungen und Belegungsrückgang sind insofern unterschiedlich gefasst.

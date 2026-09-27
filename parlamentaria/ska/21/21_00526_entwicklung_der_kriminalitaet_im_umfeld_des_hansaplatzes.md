@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48677"
@@ -85,7 +86,7 @@ Welche Arten der Kontrolle beziehungsweise Überwachung einer eventuell vorhande
 
 Wird das Anbahnungsverbot im oben genannten Bereich derzeit durchgesetzt und wenn ja, wie? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Polizei führte und führt regelhaft lageabhängig operative Maßnahmen im Bereich des Hansaplatzes durch, sowohl uniformiert als auch in Zivil. Diese Maßnahmen werden im Rahmen der Handlungsanweisung „Bekämpfung der öffentlich wahrnehmbaren Rauschgiftkriminalität und deren Auswirkungen“, der Kontaktverbots- und Sperrgebietsverordnung sowie im Rahmen eines Auftragsbefehls zur Kriminalitätsbekämpfung am Hansaplatz durchgeführt. Hierbei handelt es sich im Wesentlichen um Überprüfungen, die Erteilung von Platzverweisen und Aufenthaltsverboten, die Durchführung von Ingewahrsamnahmen und die Einleitung von Straf- und Ordnungswidrigkeitenverfahren.
 

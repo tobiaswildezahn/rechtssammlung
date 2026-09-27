@@ -14,6 +14,7 @@ fragen: 28
 einzelfragen: 33
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17186", "21/17354", "21/17355", "21/17356", "21/17357", "21/17358", "21/17360", "21/17361", "21/17362"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66934"
@@ -73,7 +74,7 @@ Wie hat der Senat diese Moscheen in ideologischer Hinsicht eingeschätzt?
 
 Welche Aktivitäten haben dabei im Einzelnen zu einer Beobachtung geführt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Moschee entwickelte sich zunehmend zu einem Sammelpunkt von Angehörigen der salafistischen Szene. Der Vereinsvorstand hatte dies zunächst nicht unterbunden. Im Laufe der Zeit hat sich die Besucherklientel aber stark verändert. Im Januar 2017 wurde der Verein „El-Iman e.V.“ aus der Beobachtung entlassen, da keine islamistischen Bestrebungen mehr erkennbar waren.
 
@@ -85,7 +86,7 @@ Wie groß schätzt der Senat das Personenpotenzial des Islamischen Vereins El-Im
 
 Inwiefern hat sich dieses Personenpotenzial seit der erstmaligen beziehungsweise letztmaligen Beobachtung durch das Hamburger Landesamt für Verfassungsschutz verändert? Ist es gewachsen oder geschrumpft?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Verein ist seit 2017 kein Beobachtungsobjekt mehr, siehe Antwort zu 3. und 4. Eine Beantwortung der Frage ist der zuständigen Behörde daher nicht möglich.
 
@@ -173,7 +174,7 @@ Wie schätzt der Senat etwaige Verbindungen des Islamischen Vereins El-Iman e.V.
 
 Wie schätzt der Senat etwaige Verbindungen des Islamischen Vereins El-Iman e.V. zu kriminellen Gruppierungen ein?
 
-#### Antwort zu Fragen 23 bis 24
+#### Antwort zu Fragen 23 und 24
 
 Es liegen keine belastbaren Informationen im Sinne der Fragestellung vor.
 

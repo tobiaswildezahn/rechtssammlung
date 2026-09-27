@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 4
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8288", "21/6087", "21/9187"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59078"
@@ -123,11 +124,11 @@ Wie viele Inobhutnahmen in den Jahren 2011 bis 2016 hatten eine Dauer von
 
 #### Antwort zu Frage 4
 
- mehr als sechs Monaten,
+– mehr als sechs Monaten,
 
- mehr als neun Monaten,
+– mehr als neun Monaten,
 
- mehr als zwölf Monaten?
+– mehr als zwölf Monaten?
 
 Die Dauer der Inobhutnahmen, die länger als 15 Tage andauern, wird in der Bundesstatistik nicht gesondert statistisch erfasst.
 
@@ -139,11 +140,11 @@ Wie hat sich die Dauer der Inanspruchnahme der verschiedenen Arten von Hilfen zu
 
 #### Antwort zu Frage 5
 
- Dauer einer durchschnittlichen ambulanten Erziehungshilfe pro Fall,
+– Dauer einer durchschnittlichen ambulanten Erziehungshilfe pro Fall,
 
- Dauer einer durchschnittlichen Vollzeitpflege pro Fall,
+– Dauer einer durchschnittlichen Vollzeitpflege pro Fall,
 
- Dauer einer durchschnittlichen Heimerziehung pro Fall?
+– Dauer einer durchschnittlichen Heimerziehung pro Fall?
 
 Siehe Anlage 2.
 
@@ -153,11 +154,11 @@ Wie hat sich der Anteil an Hilfen zur Erziehung in den verschiedenen Hilfearten 
 
 #### Antwort zu Frage 6
 
- Anteil der ungeplant beendeten ambulanten Erziehungshilfen
+– Anteil der ungeplant beendeten ambulanten Erziehungshilfen
 
- Anteil der ungeplant beendeten Hilfen in Vollzeitpflege
+– Anteil der ungeplant beendeten Hilfen in Vollzeitpflege
 
- Anteil der ungeplant beendeten Hilfen in Heimen
+– Anteil der ungeplant beendeten Hilfen in Heimen
 
 Siehe Anlage 3.
 

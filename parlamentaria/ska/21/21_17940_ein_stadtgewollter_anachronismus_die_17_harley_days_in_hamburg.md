@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 24
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17939"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67548"
@@ -158,7 +159,7 @@ Welche weiteren Faktoren (neben den Klimafaktoren) fließen in den ökologischen
 
 Ist der ökologische Gesamtabdruck des Tourismus in Hamburg an die Klimaziele der Freien und Hansestadt Hamburg gekoppelt, das heißt ist angestrebt, den CO-Ausstoss durch Tourismus bis 2030 um 40 Prozent zu reduzieren? a. Wenn ja, mit welchen Maßnahmen? b. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Angesichts der äußerst heterogenen Struktur der Tourismusbranche, die neben dem reinen Gastgewerbe auch in unterschiedlichem Ausmaß das Transportgewerbe, den Einzelhandel, die Kultur- und Freizeitangebote Hamburgs sowie weitere Wirtschaftssegmente umfasst, ist die Bezifferung des „ökologischen Gesamtabdruckes des Tourismus“ nicht möglich. Die Maßnahmen zur Umsetzung der Klimaziele der Freien und Hansestadt Hamburg (FHH) betreffen naturgemäß auch den Tourismus, siehe hierzu das Nachhaltigkeitskonzept der Hamburg Tourismus GmbH, https://www.hamburgtourism.de/fileadmin/redaktion/5_Footer/2_Business_Medien/Newsroom/ Medieninformation/Nachhaltigkeitsstrategie_der_Hamburg_Tourismus_GmbH_- _2018.pdf.
 

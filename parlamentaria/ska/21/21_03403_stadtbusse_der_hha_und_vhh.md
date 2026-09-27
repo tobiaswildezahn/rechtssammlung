@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 16
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51740"
@@ -51,7 +52,7 @@ Stellen die Hamburger Busunternehmen hinsichtlich Design, Fahrkomfort und Sicher
 
 Inwieweit werden Komfort und Sicherheit der Fahrgäste bei Fahrzeugbestellungen beziehungsweise Ausschreibungen berücksichtigt beziehungsweise vorgegeben?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die grundlegenden Ausstattungsmerkmale für die im HVV eingesetzten Fahrzeuge ergeben sich aus den Qualitätsstandards des HVV, in denen auch die Komfort- und Sicherheitsmerkmale berücksichtigt werden. Auf dieser Grundlage erfolgt die Fahrzeugkonfiguration im Rahmen der von den Herstellern angebotenen Ausstattungsmerkmale, wobei auch individuelle Anforderungen zum Beispiel Nutzwert aus Kun-
 
@@ -105,7 +106,7 @@ Warum wird seitens der Hamburger Busunternehmen beim Innen- und Außendesign kei
 
 Warum werden offensichtlich überhaupt keine Anforderungen an eine formale und farbliche Gestaltung der Busse gestellt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Busse sind im Corporate Design der Verkehrsunternehmen gestaltet. Die Identifizierung eines Busses als HVV-Verkehrsmittel ist jederzeit und problemlos durch einen Folienaufkleber möglich. Dabei erfolgt die Kennzeichnung von Fahrzeugen mit dem HVV-Logo nach einem festgelegten Schema, indem auf der Front das Logo oberhalb
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10858", "21/5093"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62315"
@@ -59,7 +60,7 @@ Warum konnte das Freibad Rahlstedt nicht gemeinsam mit anderen Freibädern am 5.
 
 Inwieweit hängt die Schließung mit dem Brand im Freibad Rahlstedt zusammen und wann wurden oder werden die Schäden behoben?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Ein Brand im Februar 2018 und die anschließenden Maßnahmen zur Ursachenforschung und Schadensprüfung haben die üblichen Saisonvorbereitungsmaßnahmen verzögert.
 

@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49207"
@@ -72,7 +73,7 @@ Sind diese Verspätungen durch den Einsatz von mehr Bussen auf dieser Linie oder
 
 Gibt es andere Möglichkeiten, die Pünktlichkeit der Linie 191 wieder zu verbessern? Wenn ja, warum wurden diese bislang nicht ergriffen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Verspätungen sind insbesondere auf einzelne Verkehrsstörungen zum Beispiel im Bereich Schnelsen oder im Umfeld des Krohnstiegtunnels zurückzuführen. Da diese nicht vorhersehbar sind, können die dadurch entstehenden Verspätungen nicht durch zusätzliche Fahrzeuge oder eine geänderte Streckenführung verringert werden. Viel-
 

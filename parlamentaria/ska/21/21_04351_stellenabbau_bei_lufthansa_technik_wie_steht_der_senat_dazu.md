@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52753"
@@ -71,13 +72,13 @@ Welche staatliche Förderung hat das Unternehmen in den letzten 30 Jahren in Ans
 
 Für die Aufbewahrung von Belegen gilt für die Verwaltung gemäß den Verwaltungsvorschriften für Zahlungen, Buchführung und Rechnungslegung eine Frist von zehn Jahren. Angaben zu den letzten 30 Jahren sind somit nicht möglich. Die Lufthansa Technik Gruppe hat in den letzten zehn Jahren folgende Zuwendungen erhalten:
 
-• für Qualifizierungsmaßnahmen in Höhe von 373.692 Euro,
+– für Qualifizierungsmaßnahmen in Höhe von 373.692 Euro,
 
-• für die berufsorientierte Ausbildungsvorbereitung 935.965 Euro,
+– für die berufsorientierte Ausbildungsvorbereitung 935.965 Euro,
 
-• für energetische Baumaßnahmen 355.314 Euro und
+– für energetische Baumaßnahmen 355.314 Euro und
 
-• für die angewandte Luftfahrtforschung 5.418.255 Euro.
+– für die angewandte Luftfahrtforschung 5.418.255 Euro.
 
 Dabei handelt es sich teilweise um mehrjährige Förderungen.
 

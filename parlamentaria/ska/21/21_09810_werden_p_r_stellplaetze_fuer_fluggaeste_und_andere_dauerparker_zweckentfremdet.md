@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 19
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58620"
@@ -84,7 +85,7 @@ Wie genau wird die Einhaltung der für Tageskarten, 30-Tage-Karten und Jahreskar
 
 Wie wird die Überschreitung der für Tageskarten, 30-Tage-Karten und Jahreskarten geltenden Höchstparkdauer von maximal 24 Stunden je Parkvorgang im Falle der Feststellung der Überschreitung sanktioniert?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Sofern sich für die P+R Anhaltspunkte für die Überschreitung der Höchstparkdauer von 24 Stunden ergeben, werden die entsprechenden Fahrzeuge gemäß Benutzungsordnung erfasst und mit einem entsprechenden Hinweiszettel an den Fahrzeugführer versehen. Weitere Maßnahmen ergeben sich aus Nummer 5 der Benutzungsordnung unter Beachtung des auch im Privatrecht geltenden Übermaßverbots.
 

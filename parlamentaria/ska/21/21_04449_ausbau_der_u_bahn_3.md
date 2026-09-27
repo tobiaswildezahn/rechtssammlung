@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 18
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52851"
@@ -44,19 +45,19 @@ Im Rahmen der Planungen zum Bauabschnitt U5 Ost (Bramfeld – Sengelmannstraße
 
 Die U5 Ost erreicht alle identifizierten Potenzialgebiete im Nordosten Hamburgs. Nach dem realisierten Anschluss von Bramfeld, Steilshoop und Barmbek-Nord soll die U5 weiter in Richtung Rübenkamp und Sengelmannstraße geführt werden. Dies hat folgende Vorteile:
 
- Der Übergang zur S-Bahn am Rübenkamp ermöglicht schnelle Anschlussverbin-
+– Der Übergang zur S-Bahn am Rübenkamp ermöglicht schnelle Anschlussverbin-
 
 dungen Richtung Flughafen, Wandsbek und zur Innenstadt.
 
- Der Übergang zur U1 an der Sengelmannstraße bietet bereits nach Inbetriebnah-
+– Der Übergang zur U1 an der Sengelmannstraße bietet bereits nach Inbetriebnah-
 
 me des ersten Abschnittes der U5 eine zusätzliche Möglichkeit zur Weiterfahrt in Richtung Innenstadt. Da der Übergang immer bahnsteig- und zeitgleich möglich ist (wie beispielsweise beim Umstieg am Berliner Tor), erhalten alle Fahrgäste sofort einen schnellen und bequemen Anschluss an die U1 Richtung Kellinghusenstraße und weiter Richtung Innenstadt.
 
- Im 2. Bauabschnitt der U5 entsteht an der Sengelmannstraße eine weitere Um-
+– Im 2. Bauabschnitt der U5 entsteht an der Sengelmannstraße eine weitere Um-
 
 steigebeziehung aus Richtung Norderstedt (U1) Richtung Winterhude/Uhlenhorst (U5).
 
- Die vorläufige Endhaltestelle in der City Nord schafft zum einen die Voraussetzun-
+– Die vorläufige Endhaltestelle in der City Nord schafft zum einen die Voraussetzun-
 
 gen für einen Weiterbau der U5 in Richtung Winterhude/Uhlenhorst in Tunnelbauweise. Denn vom Bahnsteig der Sengelmannstraße muss die Trasse zunächst abgesenkt werden, um die notwendige Tiefenlage zu erreichen. Zum anderen wird die City Nord mit der vorgesehenen Haltestelle in zentraler Lage an das Schnellbahnnetz angeschlossen.
 
@@ -163,7 +164,7 @@ s) Alfred-Mahlau-Weg – U-Wandsbek Markt?
 
 Wie sehen die entsprechenden Daten für die genannten Verbindungen im Bestand aus?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Durch den Bau einer neuen Schnellbahnlinie können nicht alle Reisezeiten im Gesamtnetz verkürzt werden. Ziel der Planungen ist es, für aufkommensstarke Relationen spürbare Verbesserungen zu erreichen. Darüber hinaus bietet eine Schnellbahn eine zuverlässige, sichere, stabile, schnelle und auch in den Hauptverkehrszeiten meist pünktliche Mobilität. Die Qualität der Anbindung kann daher nicht nur anhand von geplanten Fahrzeiten verglichen werden. Detaillierte Angaben können für die aufgelisteten Verbindungen derzeit noch nicht gemacht werden. Die nachfolgende Tabelle zeigt beispielhaft einige vorläufige Reisezeitveränderungen entsprechend der Konzeptstudie zur Hauptverkehrszeit im Schnellbahnnetz auf. Im Übrigen siehe Vorbemerkung.
 

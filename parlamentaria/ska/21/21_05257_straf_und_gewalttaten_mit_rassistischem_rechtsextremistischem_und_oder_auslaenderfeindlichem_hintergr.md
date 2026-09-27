@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3165"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53736"
@@ -92,7 +93,7 @@ Zu welchen konkreten in Fragen 5. a) und b) abgefragten Taten konnten mutmaßlic
 a) In welchen Fällen kam es zur Eröffnung eines Strafverfahrens, gegebenenfalls mit welchem Ausgang?
 b) In welchen wurden die Ermittlungen eingestellt und mit welcher Begründung jeweils? Bitte auflisten.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Anlage 3; die Polizei hat in allen drei Fällen Strafverfahren eingeleitet. Das erste Verfahren der Liste zu Anlage 3 wurde von der Staatsanwaltschaft eingestellt; es konnte kein Täter ermittelt werden. In den beiden anderen Verfahren dauern die polizeilichen Ermittlungen an.
 

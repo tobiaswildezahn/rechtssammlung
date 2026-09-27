@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 21
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56301"
@@ -124,7 +125,7 @@ Gibt es Planungen, xxxxxxxxxxxxxxxx – wie bei anderen Aussteigern auch – gez
 
 Gibt es nach Kenntnis des Senats beziehungsweise der zuständigen Fachbehörde weitere (ehemalige) Rechtsextremisten/-innen, welche als Lehrer/-innen in Hamburg arbeiten? Wenn ja, wie viele sind das zum heutigen Zeitpunkt?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Antwort zu 1.
 

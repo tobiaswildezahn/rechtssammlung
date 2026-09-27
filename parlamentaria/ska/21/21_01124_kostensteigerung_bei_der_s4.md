@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10332", "20/6208", "21/1077"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49304"
@@ -59,7 +60,7 @@ Welche weiteren Untersuchungen haben Hamburger und Schleswig- Holsteiner Behörd
 
 Wann erhielten der Senat, die zuständige Fachbehörde oder andere Hamburger Behörden oder Landesbetriebe Informationen, dass der Kostenrahmen 630 Millionen Euro +/− 30 Prozent überschritten wird?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/1077.
 

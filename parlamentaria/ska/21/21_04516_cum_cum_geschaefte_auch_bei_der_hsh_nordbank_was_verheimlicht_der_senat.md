@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4329"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52921"
@@ -79,7 +80,7 @@ Seit wann ist der Senat über die Cum-Cum-Geschäfte der HSH Nordbank informiert
 
 Hätte das Bundesland Hamburg bereits vor der Änderung des Investmentsteuerreformgesetzes als Eigentümerin auf die Nicht-Durchführung von Cum-Cum-Geschäften drängen können? a. Wenn ja, ist dies geschehen? b. Wenn ja, welches Ergebnis hat dies zur Folge gehabt? c. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/4329.
 

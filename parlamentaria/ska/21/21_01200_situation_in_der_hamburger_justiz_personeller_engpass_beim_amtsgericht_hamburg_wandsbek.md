@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49390"
@@ -43,7 +44,7 @@ Ist der Justizbehörde bekannt, dass beim Amtsgericht Hamburg-Wandsbek ein perso
 
 Welche Maßnahmen wird die Justizbehörde wann umsetzen, um einen Geschäftsbetrieb ohne zeitliche Verzögerungen in den Geschäftsstellen der Zivilabteilungen beim Amtsgericht Wandsbek zu gewährleisten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der zuständigen Behörde ist bekannt, dass die Servicebereiche der Amtsgerichte stark belastet sind. Gemeinsam mit den Gerichten wird deshalb mit der Ausbildungsinitiative 2015 und 2016 der Herausforderung, weiterhin ausreichendes und qualifiziertes Personal im nichtrichterlichen Bereich zu gewinnen, Rechnung getragen. Konkrete Informationen über personelle Engpässe beim Amtsgericht Hamburg-Wandsbek lagen der zuständigen Behörde nicht vor. Auf Nachfrage hat das Amtsgericht Hamburg dargelegt, dass beim Amtsgericht Hamburg-Wandsbek in den Zivilabteilungen eine besondere temporäre personelle Unterbesetzung entstanden sei, die auf die Kumulation von Krankheit, Ruhestandsabgängen und Elternzeit zurückzuführen sei. Das Amtsgericht Hamburg hat bereits Stützungsmaßnahmen zur Überbrückung ergriffen. Im August und September wird voraussichtlich eine dauerhafte Nachbesetzung erfolgen.
 
@@ -57,7 +58,7 @@ Wie viele Vollzeitstellen sind in den Geschäftsstellen der Zivilabteilungen bei
 
 Wie viele tatsächliche Vollzeitäquivalente und wie viele notwendig zu besetzenden Vollzeitstellen gibt es in den Geschäftsstellen der Abteilungen beim a. Amtsgericht Hamburg-Mitte, b. Amtsgericht Hamburg-Altona, c. Amtsgericht Hamburg-St. Georg, d. Amtsgericht Hamburg-Barmbek, e. Amtsgericht Hamburg-Bergedorf, f. Amtsgericht Hamburg-Blankenese, g. Amtsgericht Hamburg-Harburg, h. Landgericht Hamburg?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Das Amtsgericht Hamburg weist das ihm zur Verfügung stehende Personal den Stadtteilgerichten und Segmenten nicht nach Planstellen, sondern nach einem eigenen Steuerungssystem bedarfsgerecht zu. Dieses Steuerungssystem ermittelt die jeweiligen Bedarfe fortlaufend nach den aktuellen Eingangsentwicklungen und den für jedes Verfahren entwickelten Bemessungszahlen (Pro-Kopf-Belastung) und weist das zur Verfügung stehende Personal den Bereichen entsprechend zu. Ein detailliertes Berichtswesen gibt Aufschluss über akute Notlagen, ein Pool sogenannter Feuerwehrkräfte (derzeit etwa fünf Servicekräfte) wird besonders belasteten Bereichen zur Stützung zugewiesen.
 
@@ -169,7 +170,7 @@ Wie hoch ist der Krankenstand bezogen auf die Vollzeitäquivalente und die Teilz
 
 Wie hoch ist der Krankenstand bezogen auf die Vollzeitäquivalente und die Teilzeitstellen bei den folgenden Gerichten: a. Amtsgericht Hamburg-Mitte, b. Amtsgericht Hamburg-Altona, c. Amtsgericht Hamburg-St. Georg, d. Amtsgericht Hamburg-Barmbek, e. Amtsgericht Hamburg-Bergedorf, f. Amtsgericht Hamburg-Blankenese, g. Amtsgericht Hamburg-Harburg, h. Landgericht Hamburg (bitte die tatsächlichen Zahlen und in Prozenten darstellen)?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Bei den Amtsgerichten wird der Krankenstand in den Zivilabteilungen jedoch nicht gesondert statistisch erfasst, sodass sich die Daten insoweit auf alle Geschäftsstellenmitarbeiterinnen und -mitarbeiter beziehen. Auch wird insoweit statistisch nicht zwischen Voll- und Teilzeitkräften differenziert. Eine rückwirkende Erhebung dieser Daten ist nicht möglich.
 
@@ -566,6 +567,6 @@ f. Amtsgericht Hamburg-Blankenese,
 g. Amtsgericht Hamburg-Harburg,  
 h. Landgericht Hamburg?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Trotz hoher Arbeitsbelastung ist die Aufrechterhaltung des Geschäftsbetriebes der Amtsgerichte und des Landgerichts gewährleistet.

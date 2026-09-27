@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 7
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/276", "21/358", "21/5544", "21/7245", "21/10391", "21/12121"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65571"
@@ -817,7 +818,7 @@ Welche konkreten Änderungen hat es in der Praxis seit Inkrafttreten des Hamburg
 
 In § 15 des Hamburgischen Justizvollzugsdatenschutzgesetz ist geregelt: (1) Zum Zwecke der Aufrechterhaltung der Sicherheit und Ordnung der Anstalt, zur Abwendung von Gefahren hierfür und zur Abwendung von Gefahren für das Vollzugsziel prüfen die Justizvollzugsbehörden, ob sicherheitsrelevante Erkenntnisse über Gefangene und Personen, die in der Anstalt tätig werden wollen und die zu der Anstalt nicht in einem Dienst- oder Arbeitsverhältnis stehen und nicht im Auftrag einer anderen Behörde Zugang begehren (anstaltsfremde Personen), vorliegen. (2) Sicherheitsrelevant sind Erkenntnisse über extremistische, insbesondere gewaltorientierte Einstellungen oder Kontakte zu extremistischen, insbesondere gewaltorientierten Organisationen, Gruppierungen oder Personen in Kenntnis ihrer extremistischen Ausrichtung. Namentlich wenn anstaltsfremde Personen an der Behandlung von Gefangenen mitwirken, können auch Erkenntnisse über erhebliche strafrechtliche Verurteilungen, eine bestehende Suchtproblematik oder andere für die Beurteilung der Zuverlässigkeit der betroffenen Personen erhebliche Umstände sicherheitsrelevant sein. a. Wie viele Sicherheitsanfragen über anstaltsfremde Personen wurden seit Inkrafttreten des Gesetzes durchgeführt? b. Zu welchen Auswirkungen führt diese Regelung im Hinblick auf die Kontrolle externer Dienstleister, die auf das Anstaltsgelände kommen beziehungsweise fahren, zur Verhinderung des Einbringens illegaler Substanzen oder Gegenstände?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Justizvollzugsanstalt Anzahl der Anfragen gem. §§ 33 und 34 HmbSÜGG
 

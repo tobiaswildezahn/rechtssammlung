@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 29
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10677", "21/2108", "21/10137", "21/11867", "21/11183", "21/9358", "21/12201", "21/10819"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61838"
@@ -43,7 +44,7 @@ Wie viele Personen waren in der EA Fiersbarg Ende März untergebracht?
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Geschlecht  
 Kinder & Jugendliche  
@@ -102,7 +103,7 @@ Aus welchen Unterkünften kommen sie jeweils?
 
 Wie viele sind Neuankömmlinge und kamen im März direkt aus dem Ankunftszentrum?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Im März 2018 wurden 26 Personen aus dem Ankunftszentrum Rahlstedt, eine Person vom Standort Neuer Höltigbaum und fünf Personen aus Nostorf-Horst aufgenommen.
 
@@ -260,7 +261,7 @@ c) Sicherheit?
 
 Wie viele davon tagsüber (7 – 18 Uhr), wie viele davon abends und nachts (18 – 7 Uhr)? Wenn es abweichende Dienstzeiten gibt, bitte diese nennen und die Aufschlüsselung hiernach geben.
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Drs. 21/11867.
 

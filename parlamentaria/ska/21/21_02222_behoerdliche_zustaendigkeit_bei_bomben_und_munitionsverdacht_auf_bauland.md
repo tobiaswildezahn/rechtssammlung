@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50489"
@@ -45,7 +46,7 @@ Welche Behörde ist für die sachkundige Überprüfung eines Baugeländes auf Ka
 
 Ist das Abschlussgutachten einer Behörde Voraussetzung für eine Baugenehmigung oder kann dieses Gutachten auch von einem privaten Unternehmen abgegeben werden? Kommt einem behördlichen Gutachten in der Regel eine größere Aussagekraft zu?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nach der Verordnung zur Verhütung von Schäden durch Kampfmittel (Kampfmittelverordnung KampfmittelVO), zuletzt geändert am 1. Oktober 2014, sind die Grundstückseigentümerin oder der Grundstückseigentümer verpflichtet, vor Beginn baulicher Maßnahmen, die mit Eingriffen in den Baugrund verbunden sind, bei der zuständigen Behörde eine Auskunft einzuholen, ob für den betroffenen Baubereich ein konkreter Verdacht auf Kampfmittel besteht. Ist der betroffene Baubereich danach als Verdachtsfläche eingestuft, ist die Grundstückseigentümerin beziehungsweise der Grundstückseigentümer des Eingriffs in den Baugrund verpflichtet, geeignete Maßnahmen zur Verhinderung von Gefahren und Schäden durch Kampfmittel bei der Durchführung der Bauarbeiten zu treffen (siehe § 6 KampfmittelVO). Solche Maßnahmen dürfen nur von nach dem Sprengstoffgesetz für den Umgang mit Sprengstoffen Berechtigten durchgeführt werden. Die Aufgaben der staatlichen Stellen, insbesondere des Kampfmittelräumdienstes, beschränken sich auf die Identifizierung von Verdachtsflächen durch Luftbildauswertung sowie die unmittelbare Gefahrenabwehr durch Entschärfung beziehungsweise Sprengung, Bergung, Abtransport und Entsorgung von Kampfmitteln.
 

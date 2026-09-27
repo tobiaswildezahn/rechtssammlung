@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11268", "21/11680", "21/12096"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64903"
@@ -111,7 +112,7 @@ a) bisher im Jahr 2018,
 b) im Gesamtjahr 2017,
 c) im Gesamtjahr 2016 in welchen Straßen in Hamburg aufgrund von Straßenschäden über welchen Zeitraum aufgestellt werden? Bitte nach Bezirken aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage. Im Übrigen siehe Drs. 21/11268, 21/11680 und 21/12096.
 

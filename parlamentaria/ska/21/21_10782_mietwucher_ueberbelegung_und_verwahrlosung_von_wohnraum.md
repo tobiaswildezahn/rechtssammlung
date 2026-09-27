@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59691"
@@ -112,7 +113,7 @@ In wie vielen Fällen hat f & w fördern und wohnen AöR in den letzten fünf Ja
 
 In wie vielen Fällen ist durch f & w fördern und wohnen AöR tatsächlich eine Mietminderungen durchgeführt worden? Wenn nicht, weshalb nicht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Nach Auskunft von f & w erfolgt durch das Unternehmen im Zusammenhang mit der Anmietung von Immobilien zum Zwecke der öffentlich-rechtlichen Unterbringung keine statistische Erfassung von Problemen wegen nicht erbrachter Reparatur- und Sanierungsbedarfe. Konkrete Angaben hierzu ließen sich nur durch eine manuelle Auswertung von circa tausend Schriftsätzen ermitteln. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

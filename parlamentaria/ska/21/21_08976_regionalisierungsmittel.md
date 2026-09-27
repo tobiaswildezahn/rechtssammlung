@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8759"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57719"
@@ -120,11 +121,11 @@ Für Tarifausgleiche sind derzeit keine Zahlungen vereinbart.
 
 Der Bereich Sonstiges enthält sowohl Maßnahmen im Zusammenhang mit Leistungsbestellungen (insbesondere Sicherheitsleistungen im Bereich von U- und S-Bahn) als auch Maßnahmen im Zusammenhang mit Investitionen in Verkehrsanlagen (insbesondere Planungsleistungen, die nicht als investiv zu werten sind).
 
- Für die derzeit vereinbarten Maßnahmen im Zusammenhang mit Leistungsbestel-
+– Für die derzeit vereinbarten Maßnahmen im Zusammenhang mit Leistungsbestel-
 
 lungen werden jährlich bis 2027 in Preisen von 2017 circa 10,2 Millionen Euro aufzuwenden sein.
 
- Für Maßnahmen im Zusammenhang mit Investitionen in Verkehrsanlagen geben
+– Für Maßnahmen im Zusammenhang mit Investitionen in Verkehrsanlagen geben
 
 die derzeit erlassenen Bescheide den Zuwendungsempfängern Zusagen über bis zu 107 Millionen Euro.
 

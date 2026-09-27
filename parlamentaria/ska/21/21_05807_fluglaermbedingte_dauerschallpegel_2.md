@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5610"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54308"
@@ -75,7 +76,7 @@ Wer hat das numerische Modell erstellt?
 
 Wie und von wem wurde das numerische Modell parametrisiert?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Das DES wurde entsprechend den Vorgaben der VBUF-DES von der Flughafen Hamburg GmbH und der DFS Deutsche Flugsicherung GmbH erstellt sowie von der Behörde für Umwelt und Energie geprüft.
 

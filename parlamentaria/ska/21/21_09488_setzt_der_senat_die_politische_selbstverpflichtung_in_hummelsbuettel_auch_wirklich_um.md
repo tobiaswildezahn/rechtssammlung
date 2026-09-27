@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 28
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8855", "21/8982", "21/5231", "21/3652", "21/3894", "21/8132", "21/7876", "21/9197", "21/8210", "21/5073", "20/14584"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58257"
@@ -64,7 +65,7 @@ Wann wurde das zugesagte B-Plan-Verfahren für den 1. Bauabschnitt gestartet und
 
 Liegt für den zweiten Bauabschnitt inzwischen eine Baugenehmigung vor beziehungsweise wann ist in etwa mit dieser zu rechnen? Wann soll die Vorweggehemigungsreife vorliegen? Wie viele Gebäude mit wie vielen Wohnungen welcher Art (Sozialwohnung, freie Vermietung, Eigentum) sind hiernach nun vorgesehen? Wird die Zusage der Selbstverpflichtung mit maximal 182 Wohnungen, die zudem frei finanziert sein sollen, eingehalten?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Planungsausschuss der Bezirksversammlung hat am 12. Januar 2016 die Einleitung des Bebauungsplan-Verfahrens Hummelsbüttel 28 beschlossen. Der Verlauf eines Bebauungsplan-Verfahrens wird grundsätzlich auch von Art und Umfang der Belange beeinflusst, die von beteiligten Behörden und der Öffentlichkeit vorgebracht werden und im Rahmen des Verfahrens bearbeitet werden müssen. Ein bestimmter Zeitpunkt für den Abschluss des Verfahrens kann daher noch nicht belastbar angegeben werden. Die Vorweggenehmigungsreife wird für den Jahreswechsel 2017/2018 angestrebt. Voraussetzung hierfür ist die Zustimmung der Bezirksversammlung zur Feststellung des Bebauungsplans und die Änderung von Flächennutzungsplan und Landschaftsprogramm.
 

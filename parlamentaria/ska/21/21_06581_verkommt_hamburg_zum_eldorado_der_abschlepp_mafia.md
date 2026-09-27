@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 14
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5596"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55140"
@@ -85,21 +86,21 @@ Wie viele und welche Abschleppunternehmen gibt es aktuell insgesamt in Hamburg?
 
 Eine spezielle Erlaubnispflicht zum Betrieb eines Abschleppunternehmens besteht nicht, diese gewerbliche Tätigkeit ist mit einer generellen deutschen güterkraftverkehrsrechtlichen Erlaubnis beziehungsweise einer EU-Lizenz möglich. Eine Genehmigung kann zurückgenommen werden, wenn die Voraussetzungen für ihre Erteilung wegfallen oder Feststellungen getroffen werden, dass sie von Beginn an nicht vorlagen. Maßgeblich ist hier neben der finanziellen Leistungsfähigkeit insbesondere die Zuverlässigkeit des Unternehmens beziehungsweise der für das Unternehmen handelnden Personen. Die Betätigung des Abschleppunternehmens für private Grundeigentümer stellt für sich, selbst in Verbindung mit hohen Preisen, diese Zuverlässigkeit grundsätzlich nicht infrage. Ungeachtet dessen bieten nach Kenntnis der Genehmigungsbehörde gegenwärtig die folgenden acht Unternehmen diese Dienstleistung auf Grund einer entsprechenden Genehmigung an:
 
- Abschleppdienst Stephan GmbH
+– Abschleppdienst Stephan GmbH
 
- Hans-Jürgen Clasen KFZ-Abschlepp- und Transportdienst GmbH
+– Hans-Jürgen Clasen KFZ-Abschlepp- und Transportdienst GmbH
 
- Struck-Hamburg Pannen- und Bergungsdienst e.K.
+– Struck-Hamburg Pannen- und Bergungsdienst e.K.
 
- Marlies Buchholz GmbH
+– Marlies Buchholz GmbH
 
- Reinsch GmbH
+– Reinsch GmbH
 
- Reifen Börse Riemschneider GmbH
+– Reifen Börse Riemschneider GmbH
 
- Peter Henseleit GmbH
+– Peter Henseleit GmbH
 
- Abschlepp- Bergungs- Pannenservice Schröder Hamburg GmbH
+– Abschlepp- Bergungs- Pannenservice Schröder Hamburg GmbH
 
 ### Frage 5
 

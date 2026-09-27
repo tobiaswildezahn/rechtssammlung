@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 44934
 seiten: 2
 fragen: 9
-einzelfragen: 12
-antwortbloecke: 9
+einzelfragen: 13
+antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12317", "20/13205"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49001"
@@ -102,12 +103,19 @@ Bei einer positiven Entscheidung soll das Vorhaben mit der Sprinkenhof GmbH als 
 ### Frage 9
 
 In der Drs. 20/12317 hatte der Senat ausgeführt, dass die Bürgerschaft im ersten Halbjahr 2015 mit einer entsprechenden Drucksache befasst werden soll.
-9.1. Wann soll die Drucksache der Bürgerschaft zugeleitet werden?
 
-#### Antwort zu Frage 9
+### Frage 9.1
+
+Wann soll die Drucksache der Bürgerschaft zugeleitet werden?
+
+#### Antwort zu Fragen 9 und 9.1
 
 1. Quartal 2016. Auf Grundlage dieser Drucksache kann die Bürgerschaft bei positiver Beschlussfassung der GWK zum Förderantrag HARBOR zügig über die Komplementärfinanzierung entscheiden.
 
-9.2. Was sind im Einzelnen die Gründe für die zeitliche Verzögerung gegenüber der ursprünglichen Planung?
+### Frage 9.2
+
+Was sind im Einzelnen die Gründe für die zeitliche Verzögerung gegenüber der ursprünglichen Planung?
+
+#### Antwort zu Frage 9.2
 
 Voraussetzung für die Befassung der Bürgerschaft ist die Vorlage eines Mietangebots des Realisierungsträgers, das auch die angestrebte Mitfinanzierung durch den Bund berücksichtigt. Sicherheit über eine Förderung als Forschungsbau wird erst durch die Förderempfehlung des Wissenschaftsrates und den Förderbeschluss der GWK im Jahr 2016 erreicht.

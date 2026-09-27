@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49475"
@@ -56,9 +57,12 @@ Die im Eigentum der BImA stehenden Gebäude 1/7, 2/1, 2/2, 2/4 und 2/5 werden na
 ### Frage 2
 
 Wann genau wurde der Vertrag mit der HSU und mit welcher Laufzeit geschlossen?
-2.1. Ist eine mögliche Laufzeitverlängerung vertraglich vorgesehen?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Ist eine mögliche Laufzeitverlängerung vertraglich vorgesehen?
+
+#### Antwort zu Fragen 2 und 2.1
 
 Im Rahmen des einheitlichen Liegenschaftsmanagements des Bundes (ELM) wurde nach Auskunft des BImA zum 01.04.2011 ein ELM-Mietvertrag zwischen der BImA und dem Bundeswehr-Dienstleistungszentrum Hamburg zur weiteren dienstlichen Nutzung durch die HSU geschlossen. Die auf unbestimmte Zeit geschlossenen Verträge können laut Angabe des BImA nur durch den dienstlichen Nutzer gekündigt werden. Aussagen zu möglichen Laufzeitverlängerungen erübrigen sich somit.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56870"
@@ -69,7 +70,7 @@ Sind für diese Verteilungen jeweils Nutzungserlaubnisse notwendig? Wenn ja, auf
 
 Liegen für alle unter Frage 1. benannten Verteilungen solche Nutzungserlaubnisse vor? Wenn nein, bei wem nicht und warum?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Das Lebensmittelrecht schreibt für die hier genannten Einrichtungen keine Nutzungserlaubnis vor. Soweit eine Nutzung öffentlich gewidmeter Wegeflächen nach § 19 beziehungsweise öffentlich zugänglich gemachter Privatflächen über den Allgemeingebrauch hinaus stattfindet, zum Beispiel durch den Aufbau von Ständen, ist eine Sondernutzungserlaubnis nach dem Hamburgischen Wegegesetz (HWG) erforderlich. Diese wird erteilt, wenn die in § 19 Absatz 1 HWG festgelegten Voraussetzungen gegeben sind, in der Regel werden die Verteilungen jedoch auch in Fällen, in denen keine Sondernutzungserlaubnisse beantragt wurden, geduldet. Weitergehende Nutzungserlaubnisse sind nicht erforderlich.
 

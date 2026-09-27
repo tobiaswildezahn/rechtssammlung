@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 18
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/910", "21/1981"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50501"
@@ -57,7 +58,7 @@ Wie viele Klagen von welchen Hafenunternehmen gibt es zu den Mindertiefen, die d
 
 Welche Klagen sind bisher mit welchem Ergebnis entschieden worden? Welchen Verfahrensstand haben die übrigen Klagen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Das genannte Hafenunternehmen hat die HPA Ende Oktober 2015 auf Herstellung von Wassertiefen verklagt. Das Hafenunternehmen hatte vorab im Spätsommer ein
 
@@ -95,7 +96,7 @@ Wie viele Schiffe mussten bereits in andere Häfen umgeleitet werden, weil die S
 
 Wie viele Schiffe mussten vor Anlaufen des Hamburger Hafens geleichtert werden, weil die Solltiefen durch fehlende Baggerarbeiten und Sedimentablagerungen nicht eingehalten werden konnten?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Es liegen keine Informationen vor, ob dem Hamburger Hafen Ladung verloren gegangen ist.
 

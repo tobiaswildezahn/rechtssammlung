@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14250"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65491"
@@ -76,7 +77,7 @@ Beurteilt der Senat die durchgeführten Fahrverbote vor dem Hinblick dieser Entw
 
 Welche Konsequenzen gedenkt der Senat aus den nun vorliegenden Ergebnissen zu ziehen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Senat hat mit der 2. Fortschreibung des Luftreinhalteplans (LRP) einen Plan vorgelegt, der die erforderlichen Maßnahmen zur schnellstmöglichen Einhaltung des über ein Kalenderjahr gemittelten Immissionswertes für NO2 von 40 µg/m³ enthält.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8495", "20/12697", "20/14059", "21/235"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48589"
@@ -183,7 +184,7 @@ Wie stellen sich die Verhältnisse für die Haushaltsjahre 2015 und 2016 dar? Bi
 
 Offensichtlich werden auch in diesem Jahr die vorgesehenen Mittel nicht ausreichen. Bitte Angaben machen zum Haushaltsverlauf für die laufenden Kosten und Investitionen pro Monat für die Bereiche:
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 - Unterbringung
 

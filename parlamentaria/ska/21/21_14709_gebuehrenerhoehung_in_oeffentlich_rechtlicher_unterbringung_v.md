@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14055", "21/11542", "21/7422", "21/12534"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64181"
@@ -49,9 +50,9 @@ Wie stellen sich die in der Drs. 21/11542 dargestellten Kosten für Folgeunterk�
 
 Soweit in der Kosten- und Leistungsrechnung eine standortbezogene Zuordnung im Rahmen des Betriebskostencontrollings erfolgt, werden die entstandenen Kosten entsprechend differenziert dargestellt. Die Kosten werden gemäß der Darstellung in der Drs. 21/11542 angegeben. Für 2017 sind folgende Kosten entstanden:
 
- Basis-, Leistungskostensatz, Tagessätze (Betrieb Dritte): Siehe Anlage 1.
+– Basis-, Leistungskostensatz, Tagessätze (Betrieb Dritte): Siehe Anlage 1.
 
- Verwaltungskosten:  
+– Verwaltungskosten:  
 Die  
 Verwaltungskosten  
 werden  
@@ -60,27 +61,27 @@ standortbezogen
 gebucht. f & w wurden für 2017 Verwaltungskosten in Höhe von 16.750.000 Euro  
 erstattet.
 
- Aufwandsfinanzierung: Diese Position setzt sich aus Kosten für den Einsatz von
+– Aufwandsfinanzierung: Diese Position setzt sich aus Kosten für den Einsatz von
 
 Wachdiensten, dem Personalaufwand, Sachaufwand und sonstigen Kosten (unter anderem schiffspezifische Kosten Transit) zusammen. Siehe Anlagen 2 bis 5.
 
- Finanzierungskostensatz: Die Abrechnung der vereinbarten Finanzierungskos-
+– Finanzierungskostensatz: Die Abrechnung der vereinbarten Finanzierungskos-
 
 tensätze erfolgt standortbezogen. Die Spitzabrechnung am Ende eines Jahres wird summarisch im Jahresabschluss berücksichtigt, sodass insgesamt der Aufwand aus den Finanzierungskostensatzvereinbarungen korrekt dargestellt wird, siehe Anlage 6. Im Übrigen siehe auch Drs. 21/7422.
 
- Abschreibungen: Diese Kosten entstehen grundsätzlich für die Abschreibung von
+– Abschreibungen: Diese Kosten entstehen grundsätzlich für die Abschreibung von
 
 geleisteten Zuschüssen an f & w (Abschreibung von immateriellen Vermögensgegenständen). Im Rahmen des Betriebskostencontrollings werden diese Kosten summarisch gebucht und nicht einzelnen Standorten zugeordnet. Die Abschreibungen 2017 betrugen 26.357.000 Euro.
 
- Weitere Betriebskosten: Diese Position setzt sich aus dem Unterbelegungsaus-
+– Weitere Betriebskosten: Diese Position setzt sich aus dem Unterbelegungsaus-
 
 gleich, den Ausbau- und Abbaukosten und den Gebührenausfällen zusammen. Siehe Anlage 7.
 
- Rückbaukosten: Die Rückbaukosten einer Periode ergeben sich aus dem Saldo
+– Rückbaukosten: Die Rückbaukosten einer Periode ergeben sich aus dem Saldo
 
 von Zuführung, Verbräuchen, Auflösungen und gegebenenfalls nicht durch Rückstellungen gedeckten tatsächlichen Rückbaukosten. Grundsätzlich sollen die Rückbaukosten im Betriebskostencontrolling standortbezogen erfasst werden. Für 2017 wurde ein Teil der Kosten bereits standortbezogen erfasst (siehe Anlage 8). Insgesamt sind Kosten für den Rückbau in Höhe von 7.509.000 Euro angefallen.
 
- Sonstiges: Als Sonstiges werden verschiedene Positionen zusammengefasst, die
+– Sonstiges: Als Sonstiges werden verschiedene Positionen zusammengefasst, die
 
 im Rahmen des Betriebskostencontrollings keinem eigenen Bewirtschaftungssachverhalt zugeordnet werden. Siehe Anlage 9.
 
@@ -234,7 +235,7 @@ Wie viele Selbstzahler/-innen mit ermäßigter Gebühr gibt es aktuell (Stand 22
 
 Wie viele Selbstzahler/-innen mit voller Gebühr sind dem Senat beziehungsweise der zuständigen Behörde bekannt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Bis zum 30.09.2018 waren 2.392 Personen mit der ermäßigten Gebühr belastet worden. Die tatsächliche Anzahl der darunter befindlichen Selbstzahler ist nicht ermittelbar, da hierzu circa 16.000 Gebühreneingänge händisch überprüft werden müssten. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

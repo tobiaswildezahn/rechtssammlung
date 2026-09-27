@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4153", "21/4150", "21/1838"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52667"
@@ -248,29 +249,29 @@ angeben.
 
 Bei folgenden Standorten läuft zurzeit ein Bebauungsplanverfahren:
 
- Haferblöcken, östlich
+– Haferblöcken, östlich
 
- Große Brunnenstraße/Hohenzollernring
+– Große Brunnenstraße/Hohenzollernring
 
- Duvenacker
+– Duvenacker
 
- Hörgensweg
+– Hörgensweg
 
- Ohkamp/Flughafenstraße
+– Ohkamp/Flughafenstraße
 
- Am Rehagen
+– Am Rehagen
 
- Ohlendieck/Poppenbütteler Berg
+– Ohlendieck/Poppenbütteler Berg
 
 Bei folgenden Standorten wird ein Bebauungsplanverfahren angestrebt:
 
- Baurstraße
+– Baurstraße
 
- Gaußstraße
+– Gaußstraße
 
- Osterfeldstraße
+– Osterfeldstraße
 
- Mittlerer Landweg/Gleisdreieck
+– Mittlerer Landweg/Gleisdreieck
 
 Darüber hinaus sind die Planungen der zuständigen Behörden noch nicht abgeschlossen.
 
@@ -282,29 +283,29 @@ Für den Bereich der öffentlich rechtlichen Unterbringung und der Zentralen Ers
 
 Für die Unterkünfte mit der Perspektive Wohnen gibt es an folgenden Standorten eine Baugenehmigung:
 
- Ohlendieck/Poppenbütteler Berg
+– Ohlendieck/Poppenbütteler Berg
 
- Elfsaal
+– Elfsaal
 
- Mittlerer Landweg/Gleisdreieck
+– Mittlerer Landweg/Gleisdreieck
 
 3. Welche Standorte sind auf Basis §246 BauGB errichtet? Bitte jeweilige Rechtsgrundlage genau angeben.
 
 Bei folgenden Standorten findet der § 246 BauGB Anwendung:
 
- Björnsonweg
+– Björnsonweg
 
- Große Bahnstraße 50
+– Große Bahnstraße 50
 
- Hagendeel
+– Hagendeel
 
- Am Anzuchtgarten
+– Am Anzuchtgarten
 
- Fiersbarg
+– Fiersbarg
 
- Mittlerer Landweg/Gleisdreieck
+– Mittlerer Landweg/Gleisdreieck
 
- Auf dem Sülzbrack
+– Auf dem Sülzbrack
 
 4. Welche Standorte wurden ursprünglich auf Basis des „Gesetzes zum Schutz der öffentlichen Sicherheit und Ordnung“ (SOG) errichtet? Für welche von diesen wurden nachträglich Baugenehmigungen erteilt? Für welche laufen Baugenehmigungsverfahren? Für welche ist geplant, noch Baugenehmigungsverfahren durchzuführen?
 

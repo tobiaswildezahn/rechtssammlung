@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 2
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10544", "21/7277"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66278"
@@ -65,7 +66,7 @@ c. nicht genehmigt
 wie Firmen und Interessengemeinschaften, BIDs, Verbänden/Vereinen  
 darstellen)?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Für die Übersicht der bis dato bekannten Veranstaltungsanregungen als Anlass für eine Sonntagsöffnung gemäß § 8 Absatz 1 HmbLÖffG siehe Anlage. Zum Zeitpunkt der Beantwortung der Anfrage sind noch nicht alle Verordnungsverfahren abgeschlossen. Zudem stehen die Veröffentlichungen einiger bezirklicher Verordnungen, insbesondere für die Termine Ende des Jahres 2019, noch aus.
 

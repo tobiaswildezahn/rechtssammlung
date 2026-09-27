@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15810", "21/15833"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65603"
@@ -84,7 +85,7 @@ Wie hat sich die Sterblichkeitsrate der Mutter in der Geburtshilfe der HELIOS Ma
 
 Sind schwangere Patientinnen im Zeitraum von 28. Januar bis 5. Februar in der HELIOS Mariahilf Klinik verstorben? Wenn ja, was war die Todesursache? (Bitte gegebenenfalls den genauen Zeitpunkt angeben.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Sterbefälle hat es in der HELIOS Mariahilf Klinik Hamburg in der Geburtshilfe in den Jahren 2016, 2017 und 2018 keine gegeben.
 
@@ -162,7 +163,7 @@ Hat die Gesundheitsbehörde bereits mit der Klinikleitung gesprochen? Was sind d
 
 Welche Maßnahmen ergreift die Gesundheitsbehörde, um eine hohe Patientensicherheit und gute Versorgung dauerhaft (365 Tage/24 Stunden im Jahr) in der einzigen Geburtsklinik südlich der Elbe sicherzustellen?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Die zuständige Behörde befindet sich im laufenden Austausch mit der Leitung der HELIOS Mariahilf Klinik Hamburg. Sie hat sich davon überzeigt, dass das Krankenhaus nachdrücklich daran arbeitet, die personelle Besetzung im ärztlichen Bereich der Geburtshilfe nach dem Ausscheiden der Ärztinnen und Ärzte Mitte 2019 sicherzustellen.
 

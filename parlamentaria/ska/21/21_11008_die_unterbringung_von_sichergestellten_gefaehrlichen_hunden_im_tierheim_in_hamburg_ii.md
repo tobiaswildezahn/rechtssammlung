@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6499"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59987"
@@ -49,7 +50,7 @@ Wie viele der nach dem Hundegesetz oder der Durchführungsverordnung zum Hundege
 
 Wie viele dieser Tiere sind aufgrund einer Ordnungsverfügung welcher Behörde sichergestellt worden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nach dem Hundegesetz werden derzeit* 23 gefährliche Hunde im HTV im Auftrag der zuständigen Behörden verwahrt. (*Stand: 20.11.2017.)
 

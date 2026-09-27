@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67959"
@@ -43,35 +44,35 @@ Die Einstufung der Straßenabschnitte erfolgt hamburgweit anhand eines festgeleg
 
 Örtliche Besonderheiten in Form konkreter Lagevor- und -nachteile, die in der allgemeinen Einstufung nicht berücksichtigt sind, können über die ausgewiesene Spanne des jeweiligen Mietenspiegelfeldes berücksichtigt werden. Insbesondere folgende Kriterien können im Einzelfall herangezogen werden:
 
- Lage des Wohnquartiers innerhalb des Stadtgebietes (Zentralität),
+– Lage des Wohnquartiers innerhalb des Stadtgebietes (Zentralität),
 
- Erreichbarkeit und Auswahl unter anderem kultureller und gastronomischer Ange-
+– Erreichbarkeit und Auswahl unter anderem kultureller und gastronomischer Ange-
 
 bote, auch verbunden mit einer Mischung von Wohnen, Kultur, Handel und eingestreutem Gewerbe (Urbanität),
 
- umgebende Nutzung,
+– umgebende Nutzung,
 
- Bauweise und Bauform der Gebäude,
+– Bauweise und Bauform der Gebäude,
 
- baulicher Zustand,
+– baulicher Zustand,
 
- Naherholungsmöglichkeiten,
+– Naherholungsmöglichkeiten,
 
- landschaftlicher Charakter,
+– landschaftlicher Charakter,
 
- Beeinträchtigung durch Staub, Geruch (Immissionen),
+– Beeinträchtigung durch Staub, Geruch (Immissionen),
 
- Lärmbeeinträchtigungen durch Kleingewebe (zum Beispiel im Hinterhof, in den
+– Lärmbeeinträchtigungen durch Kleingewebe (zum Beispiel im Hinterhof, in den
 
 Erdgeschosszonen),
 
- Versorgung mit kleinen Läden, Kindertagesstätten, Schulen, Sportstätten und
+– Versorgung mit kleinen Läden, Kindertagesstätten, Schulen, Sportstätten und
 
 sonstigen Infrastruktureinrichtungen,
 
- gepflegtes Straßenbild („Anmutung der Straße“),
+– gepflegtes Straßenbild („Anmutung der Straße“),
 
- straßenbildprägendes Grün/Straßenbäume.
+– straßenbildprägendes Grün/Straßenbäume.
 
 Die Wohnlagenbewertung der Kategorien „normal“ und „gut“ schließt nicht aus, dass im Einzelfall Vermieter, Mieter oder Gerichte, zum Beispiel unter Hinzuziehung eines öffentlich bestellten oder vereidigten Sachverständigen, zu einem anderen Ergebnis kommen.
 
@@ -89,7 +90,7 @@ Welche inhaltlichen Veränderungen gab es bei der Erstellung des Hamburger Miete
 
 Warum wurden diese Veränderungen vorgenommen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Einstufung der Wohnlagen erfolgte seit der letzten größeren methodischen Aktualisierung im Jahre 1995 auf Basis eines mathematisch-statistischen Verfahrens, das subjektive Faktoren bei der Wohnlagenbewertung ausschließen und die Zuordnung auf objektiv mess- und überprüfbare Merkmale gründen sollte. Insgesamt beruhte die Einstufung auf sechs Indikatoren, von denen sich einzelne wiederum aus mehreren Merkmalen zusammensetzten. Die Daten für drei Indikatoren wurden dabei durch Begehungen erhoben (Verdichtung, Belastung durch Lärmquellen, Verkehrsbelastung).
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64385"
@@ -43,7 +44,7 @@ Sind die vorläufig festgenommenen Personen bereits strafrechtlich in Erscheinun
 
 Wenn ja, sind sie bereits einschlägig Vorbestraft?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Hinblick auf das Persönlichkeitsrecht der Betroffenen und die gesetzlichen Wertungen des Bundeszentralregistergesetzes sieht der Senat davon ab, etwaige Ermittlungsverfahren mitzuteilen, die durch einen Freispruch oder eine Einstellung beendet worden sind. Dasselbe gilt für Ermittlungsverfahren, die zu einem Abschluss geführt haben, der entweder nicht in ein Führungszeugnis aufzunehmen oder nach den Tilgungsvorschriften des Bundeszentralregistergesetzes nicht mehr zu berücksichtigen ist. Darauf basierend sind von den fünf vorläufig festgenommenen Personen zwei der Beschuldigten ausweislich der Bundeszentralregisterauszüge bereits strafrechtlich in Erscheinung getreten, einer davon ist einschlägig vorbestraft.
 

@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 19
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2612", "21/4385"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61453"
@@ -61,7 +62,7 @@ Inwiefern befasst sich der Senat beziehungsweise die zuständige Behörde mit de
 
 Wie bewertet der Senat beziehungsweise die zuständige Behörde das Urteil des Oberverwaltungsgerichts der Freien Hansestadt Bremen (Az.: 2 LC 139/17) und die möglichen Konsequenzen eines bestätigenden Bundesverwaltungsgerichtsurteils für die Sportstadt beziehungsweise den Sportstandort Hamburg?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -87,7 +88,7 @@ Wird sich der Senat beziehungsweise die zuständige Behörde – im Falle eines 
 
 Garantiert der Senat beziehungsweise die zuständige Behörde im Einklang mit der bisherigen Haltung Hamburgs auch für die Zukunft, dass es selbst im Falle eines bestätigenden Bundesverwaltungsgerichtsurteils unter seiner beziehungsweise ihrer Ägide keine Beteiligung der Sportvereine und der Sportverbände in Hamburg sowie der DFL oder anderer an den Sicherheitskosten der Polizeieinsätze bei Risikoveranstaltungen im Sport in Hamburg geben wird? a. Wenn nein, welche Vereine und/oder Verbände wird diese Beteiligung bezüglich welcher Veranstaltungsarten betreffen? b. Wie wird die jeweilige Beteiligung konkret ausgestaltet sein?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 

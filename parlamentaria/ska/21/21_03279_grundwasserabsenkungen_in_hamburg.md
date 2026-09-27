@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2358"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51642"
@@ -43,7 +44,7 @@ Wie viele Genehmigungen für die dauerhafte Grundwasserabsenkung gibt es aktuell
 
 Wie viele Genehmigungen für die dauerhafte Grundwasserabsenkung wurden in den vergangenen zehn Jahren in Hamburg beantragt? Wie viele davon wurden jeweils genehmigt? Bitte nach Jahren sowie den Ortsteilen und Stadtteilen gesondert auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 

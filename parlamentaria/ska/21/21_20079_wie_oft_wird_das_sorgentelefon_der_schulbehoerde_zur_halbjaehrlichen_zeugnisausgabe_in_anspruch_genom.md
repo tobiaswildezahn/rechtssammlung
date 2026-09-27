@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69843"
@@ -89,7 +90,7 @@ Seit wann bietet die Schulbehörde ein „Sorgentelefon“ zur Zeugnisausgabe an
 
 Welche Sorgen werden von Anrufern vorgetragen? Bitte die häufigsten Sorgen allgemein erläutern.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Schülerinnen und Schüler haben beispielsweise Angst vor der Reaktion ihrer Eltern auf schlechte Schulnoten. Sie erkundigen sich nach Versetzungsmöglichkeiten trotz schlechter Schulnoten und Möglichkeiten zur Verbesserung schulischer Leistungen.
 

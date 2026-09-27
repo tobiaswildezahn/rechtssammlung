@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64945"
@@ -81,6 +82,6 @@ Warum ist die Freie und Hansestadt Hamburg aus der Länderrundfunkkommission aus
 
 Welche Pläne zur Beitragsfinanzierung werden in der „AG Auftrag“ thematisiert und wie bewertet der Senat diese Pläne?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die AG Auftrag und Strukturoptimierung ist eine AG der Rundfunkkommission der Länder. Die Freie und Hansestadt Hamburg ist nicht aus der Rundfunkkommission der Länder ausgeschert, sondern hat vielmehr gemeinsam mit anderen Ländern vertieft an einer Novellierung von Auftrag und Struktur des öffentlich-rechtlichen Rundfunks mitgearbeitet. Elemente der Arbeit sind in die Überlegungen zur Novellierung des Auftrags sowie zur Budgetierung und Indexierung der Beitragsmittel eingeflossen. Die Meinungsbildung hierzu ist noch nicht abgeschlossen.

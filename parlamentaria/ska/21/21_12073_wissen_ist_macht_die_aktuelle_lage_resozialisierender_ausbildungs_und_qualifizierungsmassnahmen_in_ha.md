@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10983"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61332"
@@ -1492,8 +1493,7 @@ Tischler
 Gesellenbrief  
 -
 
-Tischlerei modulare Quali-  
-z. Zt. keine  
+Tischlerei modulare Qualiz. Zt. keine  
 -  
 -  
 -  
@@ -1646,7 +1646,7 @@ Tischler
 Gesellenbrief  
 -
 
-Tischlerei modulare Quali- z. Zt. keine Qualifi- -
+Tischlerei modulare Qualiz. Zt. keine Qualifi- -
 
 fikation zierung, Ausbilder fehlt
 

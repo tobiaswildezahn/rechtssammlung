@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 17
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9410"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59759"
@@ -51,7 +52,7 @@ Wie hoch sind die Fallzahlen bezogen auf Eingänge, Bestände und Erledigungen b
 
 Wie lange dauern durchschnittlich Verfahren am Landgericht (bitte nach Strafkammern, Zivilkammern insbesondere Verfahren Baukammern, Verfahren Schwurgerichtskammer, Verfahren Wirtschaftsstrafkammern und Verfahren Untersuchungshaft sowie weitere eilbedürftige Verfahren für den Zeitraum 2016 bis September 2017 darstellen)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Nichthaftsachen werden nicht über eine standardisierte Statistik abgebildet. Vielmehr wird seit 2013 eine Handliste beim Landgericht ausschließlich für die großen Strafkammern (ohne Strafvollstreckungskammern, nur erstinstanzliche Verfahren) geführt, aus der ein tagesaktueller Stand abgelesen werden kann. Die Haftsachen (Differenz von Bestand und Nichthaftsachen) sind Untersuchungshaftsachen oder Fälle einstweiliger Unterbringung und können im Falle der Untersuchungshaftsachen auch solche sein, bei denen der/die Betroffene außerdem eine Haftstrafe in anderer Sache verbüßt.
 

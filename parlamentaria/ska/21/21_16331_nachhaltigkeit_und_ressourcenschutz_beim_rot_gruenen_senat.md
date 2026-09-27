@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 19
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65859"
@@ -51,7 +52,7 @@ Wie viel Papier verbrauchen die Fachbehörden jeweils jährlich?
 
 Wie viel Papier wurde in den Jahren seit 2015 insgesamt im Hamburger Senat (Präsidialabteilungen) und in den Fachbehörden verwendet?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Für den Papieratlas der Initiative Pro Recyclingpapier (www.papieratlas.de) hat die Freie und Hansestadt Hamburg für die Jahre seit 2015 folgende Zahlen für die Verwaltung (ohne Schulen) gemeldet.
 
@@ -91,7 +92,7 @@ b) Wie viel plant der rot-grüne Senat von dem identifizierten Einsparpotenzial 
 
 Wie viel Papier wird benötigt, um Dokumente zu verteilen, die auch elektronisch übermittelt werden können?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Es werden keine Aufzeichnungen darüber geführt, wie viel Papier für die Kommunikation zwischen den Fachbehörden benötigt wird. Dazu wären repräsentative Postzählungen und eine Erhebung in allen Poststellen aller Fachbehörden erforderlich. Dies ist in der für die Beantwortung einer Parlamentarischen Antwort zur Verfügung stehenden Zeit nicht möglich.
 

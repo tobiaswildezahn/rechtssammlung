@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5973", "21/3769", "21/5780", "21/7435"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56141"
@@ -49,7 +50,7 @@ Wie ist der aktuelle Stand der Prüfungen in Bezug auf eine Verlegung des Jugend
 
 Was haben die bisherigen Prüfungen der Justizbehörde zur Alternative Billwerder bezogen auf den Jugendstrafvollzug ergeben? a. Welche Vorteile und welche Nachteile gibt es aus Sicht des Senats? b. Welche Planungen und Prüfungen zu welchen Grundstücken in Billwerder beziehungsweise in der Nachbarschaft der JVA Billwerder liegen bisher vor?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -105,6 +106,6 @@ Wann werden nun die Kostenplanungen in welchem Zeitrahmen veröffentlicht? Wer b
 
 Wann wird ein Endbericht erstellt beziehungsweise zu wann ist die Erstellung geplant?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung.

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6732"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61405"
@@ -62,8 +63,14 @@ Eine unmittelbare Beteiligung der Stadt bei der Vereinsgründung bestand nicht. 
 ### Frage 2
 
 Wie kam es zur Zusammensetzung des Vorstands?
-2.1. Warum sind keine Frauen im Vorstand vertreten?
-2.2. Warum sind keine Vertreter der Start-up-Szene im Vorstand vertreten?
+
+### Frage 2.1
+
+Warum sind keine Frauen im Vorstand vertreten?
+
+### Frage 2.2
+
+Warum sind keine Vertreter der Start-up-Szene im Vorstand vertreten?
 
 ### Frage 3
 
@@ -73,7 +80,7 @@ Welche Unternehmen oder Institutionen gehören dem Verein noch an beziehungsweis
 
 Der Vorsitzende des Vereins ist Angestellter der Stadt Hamburg und hauptamtlich für die Hamburg Port Authority sowie laut eines Interviews von Senator Horch mit 20 Prozent seiner Arbeitszeit als Chief Digital Officer der Wirtschaftsbehörde tätig. Gehört die Vereinsgründung- und Führung zu einem Projekt im Rahmen der Arbeitszeit bei einem der zwei Arbeitgeber?
 
-#### Antwort zu Fragen 2 bis 4
+#### Antwort zu Fragen 2, 2.1, 2.2, 3 und 4
 
 Siehe Vorbemerkung.
 

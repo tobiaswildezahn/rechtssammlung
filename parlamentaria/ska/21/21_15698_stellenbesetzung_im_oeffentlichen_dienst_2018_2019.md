@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2862"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65192"
@@ -82,11 +83,20 @@ Im Jahr 2018 hat der für das Personalamt zuständige Staatsrat in 296 Fällen m
 ### Frage 6
 
 Die Stellenanordnung ist derzeit bis zum 31. Dezember 2019 befristet. Gleichzeitig gab es in den letzten Jahren eine steigende Zahl von Ausnahmen von der Stellenanordnung für einzelne Bereiche der Verwaltung oder einzelne Berufsgruppen.
-6.1. Welche Überlegungen gibt es derzeit bezüglich einer Verlängerung oder einer Veränderung der Stellenanordnung im Einzelnen über den 31. Dezember 2019 hinaus?
-6.2. Welche Stellen sind derzeit in welcher Form an den Überlegungen zur Festlegung der Regeln für Stellenausschreibungs- und Stellenbesetzungsverfahrens nach dem 31. Dezember 2019 befasst?
-6.3. Wann wird der Senat voraussichtlich eine Entscheidung dazu beschließen?
 
-#### Antwort zu Frage 6
+### Frage 6.1
+
+Welche Überlegungen gibt es derzeit bezüglich einer Verlängerung oder einer Veränderung der Stellenanordnung im Einzelnen über den 31. Dezember 2019 hinaus?
+
+### Frage 6.2
+
+Welche Stellen sind derzeit in welcher Form an den Überlegungen zur Festlegung der Regeln für Stellenausschreibungs- und Stellenbesetzungsverfahrens nach dem 31. Dezember 2019 befasst?
+
+### Frage 6.3
+
+Wann wird der Senat voraussichtlich eine Entscheidung dazu beschließen?
+
+#### Antwort zu Fragen 6, 6.1, 6.2 und 6.3
 
 Das Personalamt überprüft laufend die Instrumente und Regeln der Stellenanordnung. Hierunter fällt auch die Prüfung, ob und inwieweit sich Änderungsbedarfe ergeben. Der Senat hat sich mit einer Verlängerung oder Veränderung der Stellenanordnung über den 31. Dezember 2019 hinaus noch nicht befasst.
 

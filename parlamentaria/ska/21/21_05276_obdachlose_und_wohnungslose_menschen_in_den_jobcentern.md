@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 27
 antwortbloecke: 22
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53747"
@@ -231,7 +232,7 @@ Wie viele Bezieher/-innen nach dem SGB II haben ihre Wohnung durch Vollsanktione
 
 Wie bewertet der Senat, dass durch sogenannte Vollsanktionen nach §31,32 SGB II Zwangsräumungen und damit der Verlust einer Wohnung möglich ist? Bitte ausführlich begründen.
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Durch den Statistik-Service der Bundesagentur für Arbeit erfolgt keine Auswertung im Sinne der Fragestellung.
 
@@ -272,13 +273,13 @@ Welche gemeinsamen Handlungsanweisungen von Jobcenter t.a.h. und den jeweiligen 
 
 Es gibt keine gemeinsamen Handlungsanweisungen von Jobcenter und weiteren Behörden Hamburgs zu den kommunalen Eingliederungsleistungen nach § 16a SGB II. Es bestehen Kooperationsvereinbarungen zu den flankierenden Leistungen (§ 16a SGB II) der
 
- Behörde für Gesundheit und Verbraucherschutz (BGV):
+– Behörde für Gesundheit und Verbraucherschutz (BGV):
 
 o Suchtberatung zwischen Jobcenter, BGV, Agentur für Arbeit Hamburg und den
 
 Trägern Diakonisches Werk Hamburg-West/Südholstein, Jugendhilfe e.V., Jugend hilft Jugend e.V., Martha-Stiftung, Therapiehilfe e.V., Gemeindepsychiatrische Dienste Hamburg-Nordost GmbH
 
- Behörde für Arbeit, Soziales, Familie und Integration (BASFI):
+– Behörde für Arbeit, Soziales, Familie und Integration (BASFI):
 
 o Lebenslagenberatung zwischen Jobcenter, BASFI und den Trägern Arbeitslo-
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/3906"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49432"
@@ -57,7 +58,7 @@ Weshalb hat der Senat beziehungsweise die zuständige Behörde die Mellingburger
 
 Ist eine Sanierung der Mellingburger Schleuse in der Zukunft geplant? Wenn ja, wann, in welcher Form und zu welchen Kosten soll die Mellingburger Schleuse saniert werden? Bitte die Kosten im Detail aufgliedern und angeben, wer diese trägt. Wenn nein, warum nicht und wie rechtfertigt der Senat den weiteren Verfall?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Eine Grundinstandsetzung der Mellingburger Schleuse erfolgte bereits in den Jahren 1998 – 2000 (Wehrklappe mit Stahlbetonsohle und verklinkerten Seitenwänden aus Stahlbeton am Unterhaupt, Brücken am Ober- und Unterhaupt, Herstellung des neuen Umlaufgrabens, Holzgeländer am Becken).
 

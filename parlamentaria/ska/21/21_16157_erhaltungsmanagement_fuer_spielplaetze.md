@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11673", "21/13592"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65711"
@@ -91,6 +92,6 @@ In welcher Höhe wurden für die im Haushalt bereitgestellten Mittel zur Verbess
 
 In welcher Höhe wurden die unter 7. genannten Mittel als Ermächtigungsüberträge in das nachfolgende Haushaltsjahr übertragen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Das zentrale Investitionsprogramm „ZP EMS Grünanlagen u. Spielplätze“ wurde im Haushaltsplan 2019/2020 erstmals veranschlagt. Insofern gibt es keine Erfahrungswerte über einen Mittelabruf in den Jahren 2016 bis 2018, und es ist es bisher nicht zu Ermächtigungsüberträgen in das nachfolgende Haushaltsjahr gekommen.

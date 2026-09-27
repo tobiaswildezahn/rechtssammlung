@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11428", "21/14448", "21/1448", "21/14147"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64020"
@@ -47,7 +48,7 @@ In welchem Stellenumfang waren zum Schuljahresbeginn 2018/2019 (16.8.2018) jewei
 
 In welchem Stellenumfang waren zum Stichtag 15.9.2018 Physiotherapeuten, Ergotherapeuten und Sozialpädagogische Assistenz jeweils an den in der oben genannten Anlage genannten einzelnen allgemeinen Schulen tätig?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Wie mit der Volksinitiative „Gute Inklusion“ verhandelt, wurde die neue Förderung zu Beginn des Schuljahres 2018/2019 eingeführt, siehe Drs. 21/11428.
 

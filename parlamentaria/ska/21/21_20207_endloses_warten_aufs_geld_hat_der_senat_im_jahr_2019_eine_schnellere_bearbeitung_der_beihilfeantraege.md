@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 27
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17774", "21/18203", "21/13260", "21/6236", "21/7553", "21/11550", "21/14233", "21/15658", "21/18023", "21/20067"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69983"
@@ -51,7 +52,7 @@ Wie viele Beihilfeanträge sind im Jahr 2019 neu eingereicht worden? Bitte nach 
 
 Wie hoch waren die durchschnittliche und maximale Bearbeitungsdauer von Beihilfeanträgen im Jahr 2019? Bitte nach Monaten aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

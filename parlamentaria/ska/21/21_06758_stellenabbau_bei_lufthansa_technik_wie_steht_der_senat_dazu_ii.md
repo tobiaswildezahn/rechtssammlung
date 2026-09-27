@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4351"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55319"
@@ -73,7 +74,7 @@ Welches ist aus der Sicht des Senats und der BWVI die Kompetenz des Luftfahrtsta
 
 Wie entwickelt sich das formulierte Cluster Hamburg Aviation? Wie sieht der Entwicklungsplan konkret aus? Welche Institutionen, Branchen sowie Arbeits- und Forschungsfelder sind beteiligt? Welche neuen Bereiche sollen etabliert werden? Wie sieht der Business-Plan aus?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Das Luftfahrtcluster Hamburg Aviation ist das einzige norddeutsche Spitzencluster und das einzige Spitzencluster der Luftfahrtindustrie in Deutschland. Die Freie und Hansestadt Hamburg (FHH) ist Mitglied des Clusters, das als Privat Public Partnership organisiert ist und seit 2011 sehr erfolgreich unter der Dachmarke Hamburg Aviation firmiert. An der Formulierung der gemeinsamen Ziele und Strategie hat die Stadt mitgewirkt. Nach erfolgreichem Abschluss der ersten Spitzenclusterperiode (2008 – 2013), in der eine Vielzahl von vor allem kooperativen Forschungsprojekten zwischen Wirtschaft und Wissenschaft durchgeführt worden ist, wurde eine Fortschreibung der Strategie erforderlich, um das Cluster an verschiedene veränderte Rahmenbedingungen anzupassen und für die weitere Zukunft auszurichten. Im Rahmen dieses Prozesses hat Hamburg Aviation seine Kompetenzfelder weiter profiliert und erweitert. Hamburg Aviation ist damit gut für die weitere Entwicklung der Luftfahrtindustrie in Hamburg aufgestellt und wird den Standort Hamburg weiterhin insbesondere in den Bereichen Innovation, Wertschöpfung und Beschäftigung stärken.
 
@@ -96,31 +97,31 @@ Generelles Ziel der Projektförderungen im Rahmen des Hamburger Luftfahrtforschu
 
 Die Lufthansa Technik hat im Rahmen des Hamburger Luftfahrtforschungsprogramms Zuwendungen für Luftfahrtforschungsprojekte, mit Laufzeiten zwischen dem 11. Juli 2007 bis zum 29. Februar 2016, erhalten. In den Projekten werden folgende Ziele verfolgt:
 
- Effizienzsteigerung der Triebwerkswartung durch Lean Produktion,
+– Effizienzsteigerung der Triebwerkswartung durch Lean Produktion,
 
- Fernwartung von Kabinensystemen/Remote Maintenance,
+– Fernwartung von Kabinensystemen/Remote Maintenance,
 
- Erstellung eines Berechnungsmodells zur Optimierung des Akustikkomforts in
+– Erstellung eines Berechnungsmodells zur Optimierung des Akustikkomforts in
 
 Flugzeugkabinen,
 
- Drahtlose und digitale Übertragung von Unterhaltungs- und Kommunikationsdaten
+– Drahtlose und digitale Übertragung von Unterhaltungs- und Kommunikationsdaten
 
 in Geschäftsflugzeugkabinen auf Basis des IEEE 802.11 Standards,
 
- Weiterentwicklung eines Kommunikationsrouter für GSM-Nutzung in Luftfahrzeu-
+– Weiterentwicklung eines Kommunikationsrouter für GSM-Nutzung in Luftfahrzeu-
 
 gen,
 
- Verbesserung der Beinfreiheit in der Economyclass in Langstreckenflugzeugen,
+– Verbesserung der Beinfreiheit in der Economyclass in Langstreckenflugzeugen,
 
- RFID-Technologie zur permanenten Kennzeichnung von Flugzeugersatzteilen,
+– RFID-Technologie zur permanenten Kennzeichnung von Flugzeugersatzteilen,
 
- Entwicklung eines neuartigen, modularen Sitzkonzepts für VIP und First-Class-
+– Entwicklung eines neuartigen, modularen Sitzkonzepts für VIP und First-Class-
 
 Flugzeugsitze aus Faserverbund-Werkstoffen,
 
- Bewertung von Automatisierungspotentialen in Flugzeugwartungs- und Überho-
+– Bewertung von Automatisierungspotentialen in Flugzeugwartungs- und Überho-
 
 lungsprozessen; Entwicklung eines mobilen, flexiblen Roboters zur Unterstützung der Flugzeugwartung und -Überholung.
 

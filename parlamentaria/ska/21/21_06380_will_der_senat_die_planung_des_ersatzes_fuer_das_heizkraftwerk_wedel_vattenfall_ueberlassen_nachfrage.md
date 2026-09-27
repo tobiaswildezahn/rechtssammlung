@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 19
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6098", "21/5758"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54896"
@@ -47,7 +48,7 @@ Nach Drs. 21/5758, Anlage 1, speiste die Müllverwertungsanlage Rugenberger Damm
 
 Ist in einem oder mehreren dieser drei Szenarien ein Ausbau der MVR vorgesehen, um weiterhin Dampf in nennenswertem Umfang ins Industriegebiet Neuhof abgegeben zu können? Wenn ja: In welcher Form und Menge und welche Investitionskosten werden hierfür zugrunde gelegt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die vorgestellten Szenarien sehen eine Leistung von 80 MW thermisch aus der Müllverwertungsanlage Rugenberger Damm (MVR) als Beitrag für die Nachfolgelösung Wedel vor. In diesen Szenarien muss für die Versorgung des Industriegebietes Neuhof eine Ersatzversorgung zur Verfügung gestellt werden. Ein Ausbau der MVR wurde in keinem der vorgestellten Szenarien betrachtet.
 

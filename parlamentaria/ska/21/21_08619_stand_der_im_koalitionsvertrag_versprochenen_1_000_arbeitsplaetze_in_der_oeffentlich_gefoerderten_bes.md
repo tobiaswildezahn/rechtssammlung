@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7483"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57339"
@@ -122,14 +123,14 @@ https://statistik.arbeitsagentur.de/Statistikdaten/Detail/201703/iiia5/abrechnun
 
 Für den Anteil der Bundesförderung an den Programmen siehe die jeweiligen Förderrichtlinien:
 
- Für das Programm Soziale Teilhabe am Arbeitsmarkt:
+– Für das Programm Soziale Teilhabe am Arbeitsmarkt:
 
 http://www.bva.bund.de/DE/Organisation/Abteilungen/Abteilung_ZMV/Zuwendung_ Themen/Themenbereich_Arbeit_Soziales/SozialeTeilhabe/ SozialeTeilhabe_node.html;jsessionid= DCC64E251DBC1263551F5D374B8E6ABB.1_cid383
 
- Für das Programm STAFFEL:
+– Für das Programm STAFFEL:
 
 http://www.bmas.de/DE/Themen/Arbeitsmarkt/Modellprogramme/soziale-teilhabedurch-arbeit-fuer-junge-erwachsene.html
 
- Für das Bundes-ESF-Programm zum Abbau von Langzeitarbeitslosigkeit:
+– Für das Bundes-ESF-Programm zum Abbau von Langzeitarbeitslosigkeit:
 
 https://www.esf.de/portal/SharedDocs/Meldungen/DE/2017/2017_02_02_neue_rl_ lza.html;jsessionid=E36FEF21F7AD29FF662DA89CACE8F909

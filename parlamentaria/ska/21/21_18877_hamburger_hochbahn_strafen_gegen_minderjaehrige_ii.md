@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18715"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68563"
@@ -72,6 +73,6 @@ Ist der Hamburger Hochbahn/dem HVV bewusst, dass die Geltendmachung einer rechtl
 
 Ich frage noch einmal: Beabsichtigt die Hamburger Hochbahn/der HVV, die rechtlich – zurückhaltend formuliert – zweifelhafte Geschäftspolitik des erhöhten Beförderungsentgelts im Falle von Minderjährigen zu ändern?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/18715.

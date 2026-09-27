@@ -14,6 +14,7 @@ fragen: 26
 einzelfragen: 36
 antwortbloecke: 25
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4130", "21/3915", "21/681", "21/1271", "21/1568", "21/1906", "21/2232", "21/2599", "21/2837", "21/3227", "21/3646"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52708"
@@ -85,7 +86,7 @@ Wie viele Personen aus welchen Herkunftsländern stellten im April 2016 in Hambu
 
 Wie viele Asylverfahren Hamburger Antragsteller wurden im April 2016 mit welchem Ergebnis beschieden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 

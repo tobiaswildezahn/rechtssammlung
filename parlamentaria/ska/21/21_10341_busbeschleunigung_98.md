@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10184"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59178"
@@ -51,23 +52,23 @@ Welche Maßnahmen an den Linien 2 und 6 fehlen noch?
 
 Linie 2:
 
- Knotenpunkt Luruper Hauptstraße/Elbgaustraße
+– Knotenpunkt Luruper Hauptstraße/Elbgaustraße
 
- Knotenpunkt Luruper Chaussee/Ebertallee
+– Knotenpunkt Luruper Chaussee/Ebertallee
 
- Haltestelle Große Rainstraße, stadteinwärts
+– Haltestelle Große Rainstraße, stadteinwärts
 
- Haltestellen S-Ottensen
+– Haltestellen S-Ottensen
 
- Lichtsignalanlagen im Celsiusweg und Bahrenfelder Straße/Barnerstraße
+– Lichtsignalanlagen im Celsiusweg und Bahrenfelder Straße/Barnerstraße
 
 Linie 6:
 
- Haltestelle U-Borgweg
+– Haltestelle U-Borgweg
 
- Haltestellen Semperstraße
+– Haltestellen Semperstraße
 
- Lichtsignalanlagen zwischen Rödingsmarkt und Feldstraße sowie zwischen Berg-
+– Lichtsignalanlagen zwischen Rödingsmarkt und Feldstraße sowie zwischen Berg-
 
 straße und Auf dem Sande
 

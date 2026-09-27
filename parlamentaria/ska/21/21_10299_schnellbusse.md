@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/186"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59146"
@@ -85,7 +86,7 @@ Auf den Schnellbuslinien werden derzeit unterschiedliche Fahrzeuge eingesetzt, f
 
 Warum wurden die einstigen Komfortmerkmale des Schnellbusses (Anordnung aller Sitze in Fahrtrichtung, komfortable Sitzpolsterung, sitzplatzoptimierte Fahrzeugeinrichtung, besondere Beleuchtung, besondere Lackierung und so weiter) aufgegeben?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die auf den Schnellbuslinien eingesetzten Fahrzeuge erfüllen weiterhin die Qualitätsanforderungen. Neben besonderen Komfortsitzen verfügen die Busse über mindestens drei weitere Komfortausstattungen, zum Beispiel verstärkte Innenbeleuchtung, spezielle Seitenwandverkleidung, Gepäckablagen und Kleiderhaken. Das Angebot der Schnellbuslinien ist so dimensioniert, dass im Regelbetrieb für jeden Fahrgast ein Sitzplatz zur Verfügung steht. Die Einführung der Niederflurtechnik und rechtliche Vorgaben, insbesondere zur Herstellung der Barrierefreiheit im öffentlichen Personennahverkehr (ÖPNV) und zur Mitnahme von Rollstühlen, haben in den vergangenen Jahren dazu geführt, dass sich die Aufteilung und Gestaltung der Innenräume der
 
@@ -115,6 +116,6 @@ Waren derartige Analysen Bestandteil der jetzt vom Wirtschaftssenator durchgefü
 
 Wie stellt sich der Senat die Zukunft des Schnellbussystems vor?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Vorbemerkung.

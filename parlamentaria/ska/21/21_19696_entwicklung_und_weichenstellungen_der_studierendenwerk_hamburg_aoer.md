@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 53
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18515", "21/11661", "21/12009", "21/4416", "21/5020", "21/5567", "21/8659", "21/9010", "21/10143"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69454"
@@ -561,7 +562,7 @@ Welche konkreten Änderungen an Rechtsnormen oder Vereinbarungen haben dazu gef�
 
 Welche konkreten Projekte wurden und werden im Rahmen der eingangs erwähnten, plötzlichen Umstellung der Zuwendungsart im Jahr 2016 auf eine (regelmäßige) „zweckgebundene Projektförderung“ finanziert? a. Wann haben diese Projekte jeweils begonnen und wann sollen sie jeweils enden? Welche Erfolgskontrollen fanden und finden diesbezüglich durch jeweils wen jeweils wann statt? b. Wie können nach Auffassung des Senats beziehungsweise von BWFG und FB regelmäßige Betriebskostenzuschüsse für Erbbauzinsen und Kapitalkosten als Projektmittel gelten?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Eine Förderung des StW über die Zuwendungsart „Institutionelle Förderung“ erfolgte zu keinem Zeitpunkt. Änderungen erfolgten lediglich bei der jeweiligen Finanzierungart in der Projektförderung. Der Erlass von Zuwendungen ist kein statischer, sondern ein dynamischer Prozess, in dem die unterjährigen Erfahrungen der erlassenden Behörde und Änderungen von Vorgaben mit einfließen. Das StW erhält in Anwendung der VV zu § 46 LHO seit vielen Jahren für die Förderung einzelner abgrenzbarer Aufgaben eine Projektförderung. Dazu zählt die Bewilligung einer Förderung von Personalkosten in der Hochschulgastronomie, für die Betreuung der Wohnheimträger und von Tutorinnen und Tutoren, einen Zuschuss zur Pacht zum Wohnheim Berliner Tor sowie Triftstraße sowie die Förderung eines Mietkostenanteils für die Beratungszentren des StW. Die Förderung kann dabei, wie zum Beispiel bei den Erbbauzinsen und Kapitalkosten, auf einen längeren Zeitraum angelegt sein (Ziffer 2.1 der VV zu § 46 LHO). Die Erfolgskontrolle wird im Bewilligungsbescheid definiert und bei der Prüfung des Verwendungsnachweises durch den Prüfbereich der zuständigen Behörde mit geprüft.
 

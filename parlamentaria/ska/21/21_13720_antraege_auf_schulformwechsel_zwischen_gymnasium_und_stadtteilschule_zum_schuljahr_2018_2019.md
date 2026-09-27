@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 30
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13030"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63097"
@@ -75,7 +76,7 @@ Wie viele Schüler/-innen haben Ende der Klasse 6 im Schuljahr 2017/ 2018 den er
 Bezogen auf Frage 1.: Wie gestalteten sich diese Zahlen von Schulformwechseln nach Klasse 6 vom Gymnasium zur Stadtteilschule zum Schuljahr 2017/2018 nach Sozialindexklasse (KESS 1-6) und wie gestalten sich diese Zahlen nach gegenwärtiger Kenntnis von Senat beziehungsweise zuständiger Fachbehörde zum Schuljahr 2018/2019 (Stand
 5.7.2018)? (Bitte mit Sozialindex, Bezirk in absoluten Zahlen und in Prozent zur Gesamtschüler-/-innenschaft des gymnasialen Jahrgangs.) a. Wie viele dieser Schüler/-innen waren/sind jeweils weiblich? (Bitte in absoluten Zahlen und in Prozent in der Tabelle zu 2. angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung sowie Drs. 21/13030.
 
@@ -87,7 +88,7 @@ Für wie viele Schüler/-innen wurden Ende 2016/2017 Anträge auf Schulformwechs
 
 Bezogen auf Frage 3.: Wie gestalteten sich diese Zahlen von Schulformwechselanträgen beziehungsweise Schulformwechseln nach Klasse 6 von der Stadtteilschule zum Gymnasium zum Schuljahr 2017/2018 nach Sozialindexklasse (KESS 1-6) und wie gestalten sich diese Zahlen nach gegenwärtiger Kenntnis von Senat beziehungsweise zuständiger Fachbehörde zum Schuljahr 2018/2019? (Bitte mit Sozialindex, Bezirk in absoluten Zahlen und in Prozent zur Gesamtschüler-/-innenschaft des gymnasialen Jahrgangs.) a. Wie viele dieser Schüler/-innen waren/sind jeweils weiblich? (Bitte in absoluten Zahlen und in Prozent in der Tabelle zu 4. angeben.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlagen 1 und 2 sowie Drs. 21/13030. Im Übrigen siehe Vorbemerkung.
 
@@ -115,7 +116,7 @@ Für viele Schüler/-innen wurden Ende 2016/2017 Anträge auf Schulformwechsel j
 
 Bezogen auf Frage 7.: Wie gestalteten sich diese Zahlen von Schulformwechselanträgen beziehungsweise Schulformwechseln jeweils nach Klasse 5, 7, 8 und 9 von der Stadtteilschule ans Gymnasium zum Schuljahr 2017/2018 nach Sozialindexklasse (KESS 1-6) und wie gestalten sich diese Zahlen nach gegenwärtiger Kenntnis von Senat beziehungsweise zuständiger Fachbehörde zum Schuljahr 2018/2019? (Bitte mit Sozialindex, Bezirk in absoluten Zahlen und in Prozent zur Gesamtschüler-/-innenschaft des Stadtteilschul-Jahrgangs.) a. Wie viele dieser Schüler/-innen waren/sind jeweils weiblich? (Bitte in absoluten Zahlen und in Prozent in der Tabelle zu 8. angeben.)
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Anlage 3 sowie Drs. 21/13030. Im Übrigen siehe Vorbemerkung. Für das Schuljahr 2018/2019 sind in der Behörde zum Stichtag keine entsprechenden Anträge für den Schulformwechsel erfasst. Endgültige Daten können daher erst mit der Schuljahresstatistik berichtet werden.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3228"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52214"
@@ -67,7 +68,7 @@ Wie viele Erstwünsche bei der Anmeldung für die erste Klasse konnten jeweils a
 
 Wie viele Erstwünsche bei der Anmeldung für die erste Klasse konnten jeweils an den einzelnen Grundschulen nicht erfüllt werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Schule  
 Anzahl  
@@ -180,7 +181,7 @@ Wie viele Schüler werden nach dem derzeitigen Planungsstand für die fünfte Kl
 
 Wie viele fünfte Klassen sollen an den einzelnen Schulen im Wahlkreis Alstertal-Walddörfer zum Schuljahr 2016/2017 eingerichtet werden?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Drs. 21/3228. Das Verfahren der Schulorganisation der fünften Klassen ist noch nicht abgeschlossen.
 

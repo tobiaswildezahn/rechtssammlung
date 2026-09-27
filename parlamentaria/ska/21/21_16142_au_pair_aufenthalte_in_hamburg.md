@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 15
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65661"
@@ -45,7 +46,7 @@ Wie viele Personen haben nach Kenntnis der zuständigen Behörden im Jahr 2018 e
 
 Wie viele dieser Personen stammen aus der Europäischen Union beziehungsweise aus Drittstaaten? Bitte nach Geschlecht und Herkunftsstaat aufgliedern.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Angehörige von EU-Mitgliedstaaten sind gemäß § 2 Freizügigkeitsgesetz/EU freizügigkeitsberechtigt und benötigen für ihren Aufenthalt als Au-Pair keinen Aufenthaltstitel. Eine Auswertung dieser Angaben ist daher nicht möglich.
 
@@ -199,7 +200,7 @@ Wie viele Anträge auf Erteilung einer Aufenthaltserlaubnis zum Zweck der Besch�
 
 Wie viele der Personen, deren Antrag auf Erteilung einer Aufenthaltserlaubnis zum Zweck der Beschäftigung als Au-pair abgelehnt wurde, haben einen Aufenthaltstitel zu welchem anderen Zweck (zum Beispiel aus familiären Gründen nach Eheschließung oder nach einer Geburt eines deutschen Kindes) erhalten, sind freiwillig ausgereist beziehungsweise wurden abgeschoben? Bitte nach bezirklichen Ausländerdienststellen und Geschlecht der Antragsteller aufgliedern.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Im ausländerrechtlichen Fachverfahren besteht systemseitig keine Verknüpfung der erfassten Aufenthaltserlaubnis-Ablehnungen zu den Inhalten der jeweiligen Anträge. Es kann daher nicht angegeben werden, welche der Ablehnungen sich auf einen Au-pair-Antrag bezogen haben. Die erfragten Angaben könnten nur durch Auswertung aller Arten der Versagung von Aufenthaltstiteln durch Einsichtnahme in die jeweiligen Bescheide ermittelt werden. Dieses kann innerhalb der für eine Beantwortung von Parlamentarischen Anfragen zur Verfügung stehenden Zeit nicht geleistet werden.
 
@@ -242,7 +243,7 @@ Welche Anlaufstellen haben an Au-pairs interessierte Familien in Hamburg?
 
 Welche Vermittlungsagenturen und -stellen für Au-pairs in Hamburg sind den zuständigen Behörden bekannt und unter welchen gesetzlichen und weiteren Voraussetzungen dürfen diese Au-pairs vermitteln?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Das Jugendinformationszentrum bietet auf seinem Onlineportal jugendserver-hh.de eine Auswahl an Ansprechpartnerinnen und Ansprechpartnern für interessierte Hamburger Jugendliche, die einen Auslandsaufenthalt mit einer Au-pair-Tätigkeit verbinden wollen (http://www.jugendserver-hamburg.de/?tid=70).
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51190"
@@ -95,7 +96,7 @@ Wie hoch ist die Gesamtverfahrensdauer je Baugenehmigung in den einzelnen Bezirk
 
 Wie hoch war in den Jahren 2013, 2014 und 2015 die Quote der negativ beschiedenen Baugenehmigungen je Gebäudetypologie? Bitte nach Bezirken differenziert angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage 1.
 
@@ -107,7 +108,7 @@ Wie viele Mitarbeiter und Vollzeitäquivalente sind aktuell in den jeweiligen Fa
 
 Wie viele Stellen in welchem Tätigkeitsbereich und welcher Wertigkeit sind in den jeweiligen Fachämtern für Bauprüfung der einzelnen Bezirke aktuell unbesetzt? Bitte zusätzlich für die Jahre 2013, 2014 und 2015 angeben.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Anlage 2.
 

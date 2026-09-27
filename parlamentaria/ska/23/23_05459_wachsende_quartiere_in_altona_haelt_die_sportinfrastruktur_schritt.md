@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 23
 antwortbloecke: 0
 beantwortet: false
+status: "unbeantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105366"
@@ -27,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage und Antwort des Senats · Drucksache vom 23.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105366) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105366/23_05459_wachsende_quartiere_in_altona_haelt_die_sportinfrastruktur_schritt)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

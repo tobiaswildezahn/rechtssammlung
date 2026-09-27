@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 21
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2379", "21/1570", "21/3204", "21/3542", "21/3745", "21/3649", "21/3638"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52357"
@@ -163,7 +164,7 @@ Auf einer Pressekonferenz bestätigte der Chef der Johanniter, Harald Halpick, d
 
 Wird das Projekt über den Hamburger Haushalt mitfinanziert? Wenn ja, in welcher Höhe und aus welchem Haushaltstitel? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 
@@ -175,7 +176,7 @@ Verfügt das Projekt über eigene Mitarbeiter/-innen? a. Wenn ja, wie viele? Mit
 
 Nach welchen Kriterien werden die Mitarbeiter/-innen des Projekts ausgesucht, was qualifiziert sie für den Umgang mit Minderjährigen? a. Von wem werden sie worin geschult? b. Gibt es regelmäßige Qualifizierungsmaßnahmen wie zum Beispiel Fortbildungen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Das Projekt ist bei der Geschäftsführung von Plan International Deutschland angesiedelt. Die Projektmitarbeiter/-innen verfügen aufgrund ihrer Berufshistorie über Erfahrungen in humanitärer Hilfe und präventivem Kinderschutz.
 
@@ -191,7 +192,7 @@ Das Bundesfamilienministerium und UNICEF haben angekündigt, in bundesweit 100 F
 
 Welche weiteren Maßnahmen werden ergriffen, um Minderjährige vor Missbrauch zu schützen? Bitte genau beschreiben.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Zur Verbesserung des Schutzes in den Unterbringungen werden in Umsetzung des Beschlusses der Bürgerschaft, geflüchtete Frauen und Mädchen besser vor Gewalt zu schützen (Drs. 21/2379) einrichtungsspezifische Gewaltschutzkonzepte erarbeitet. Dabei werden bereits bestehende Verfahren zum Kinderschutz und Vorstellungen des Bundes (siehe auch www.bmfsfj.de/BMFSFJ/kinder-und-jugend,did=223926.html) verbindlich berücksichtigt. Die Umsetzung ist noch nicht abgeschlossen.
 

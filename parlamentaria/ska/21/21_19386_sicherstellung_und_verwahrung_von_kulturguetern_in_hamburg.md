@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 26
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69099"
@@ -113,7 +114,7 @@ Wie hoch sind die durch die Sicherstellung und Verwahrung gemäß §§ 33 fortfo
 
 Hat der Senat Kenntnis über die Höhe der entstehenden Kosten für die Sicherstellung und Verwahrung von Kulturgütern gemäß §§ 33 fortfolgende KGSG? Wenn ja, wie hoch sind diese?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Es werden vorhandene Ressourcen genutzt. Eine Aufschlüsselung nach Kosten für die Sicherstellung und Verwahrung von Kulturgütern erfolgt dabei nicht.
 
@@ -125,6 +126,6 @@ Wie verfahren die zuständigen Behörden mit sichergestellten (vermeintlich ille
 
 Wie verfahren die zuständigen Behörden mit sichergestellten (vermeintlich illegalen) Kulturgütern, deren Herkunftsländer die Kulturgüter nicht zurückerhalten wollen? a. Wie lange werden solche Kulturgüter in den Depots der zuständigen Behörden verwahrt? b. Werden diese Kulturgüter an andere Empfänger als das Herkunftsland zurückgegeben? Wenn ja, an wen? c. Werden diese Kulturgüter bei Polizeiauktionen versteigert? Wenn ja, wie hoch ist der Erlös durch versteigerte Kulturgüter bei solchen Polizeiauktionen in Hamburg?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Das Verfahren mit sichergestelltem Kulturgut erfolgt gemäß §§ 35 bis 37 KSGG, die insoweit abschließende Regelungen enthalten. Versteigerungen sind dabei nicht vorgesehen. Im Übrigen siehe Antwort zu 7.

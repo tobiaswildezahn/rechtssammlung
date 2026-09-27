@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 20
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7150", "21/79", "21/5693", "21/9516"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58532"
@@ -95,7 +96,7 @@ Auf welcher Datengrundlage wurde der erhöhte Reinigungsbedarf von Straßen, Fah
 
 Wie wurde der zusätzliche Personal- und Materialaufwand aus dem unter 6. genannten Reinigungsbedarf konkret ermittelt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/7150.
 
@@ -107,7 +108,7 @@ Wie definiert die SRH beziehungsweise der Senat das konkrete Ziel, das er mit de
 
 Durch welche Kennzahlen wird die Zielerreichung objektiv messbar gemacht? Sofern noch keine Kennzahlen feststehen: Wann beabsichtigt die SRH/der Senat entsprechende Kennzahlen auszubringen? Sofern keine Kennzahlen geplant sind: Wie will der Senat die Zielerreichung objektiv messbar machen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Der Senat verfolgt das Ziel einer wesentlichen und dauerhaften Verbesserung des Erscheinungsbildes öffentlicher Räume durch Intensivierung von Reinigungs- und Pflegeleistungen auf öffentlichen Wegen und in Grün- und Erholungsanlagen.
 

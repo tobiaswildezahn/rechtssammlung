@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18872", "20/8882"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70084"
@@ -61,7 +62,7 @@ Wird bei der Sanierung bestehender Schulgebäude beziehungsweise dem Neubau von 
 
 Wird bei der Gestaltung der neuen Grundschule „Schule am Park“ die Barrierefreiheit umgesetzt und wenn ja, inwiefern? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -73,7 +74,7 @@ Welche Schulen (Grundschulen, Stadtteilschulen, Gymnasien) gelten in Hamburg akt
 
 Sind bei den unter Ziffer 3. genannten Schulen Baumaßnahmen mit dem Ziel der Barrierefreiheit geplant? Wenn ja, an welchen Schulen und wann sollen die Baumaßnahmen abgeschlossen sein?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die in den vergangenen Jahren durchgeführten Baumaßnahmen wurden entsprechend den in der Vorbemerkung dargestellten Richtlinien umgesetzt. Im Zuge der weiteren Neubau- und Sanierungsplanungen sollen schrittweise sämtliche Schulen einen barrierefreien Standard erreichen.
 
@@ -89,7 +90,7 @@ b) die Regionalen Bildungs- und Beratungszentren (ReBBZ) und deren Entwicklung n
 
 Wo und wann wird die Entwicklung der Sonderschulen und der ReBBZ geplant und transparent dargestellt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 

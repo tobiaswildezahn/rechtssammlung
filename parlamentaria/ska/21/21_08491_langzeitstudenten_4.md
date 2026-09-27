@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57224"
@@ -109,21 +110,21 @@ An der TUHH wurden die Studiengänge „Information and Media Technologies“ un
 
 In den nachstehenden Studiengängen der UHH wurde die Prüfungsordnung unter Berücksichtigung der vorgesehenen Mindestfrist von zwei Jahren seit Einstellung des Lehrbetriebs aufgehoben. Die Anzahl der noch immatrikulierten Studierenden ist der Anlage 9 zu entnehmen.
 
- Diplomstudiengang Wirtschaftsingenieurwesen
+– Diplomstudiengang Wirtschaftsingenieurwesen
 
- Diplomstudiengang Betriebswirtschaftslehre
+– Diplomstudiengang Betriebswirtschaftslehre
 
- Diplomstudiengang Volkswirtschaftslehre
+– Diplomstudiengang Volkswirtschaftslehre
 
- Diplomstudiengang Politische Wissenschaft
+– Diplomstudiengang Politische Wissenschaft
 
- Diplomstudiengang Soziologie
+– Diplomstudiengang Soziologie
 
- Diplomstudiengang Kriminologie
+– Diplomstudiengang Kriminologie
 
- Diplomstudiengang Psychologie
+– Diplomstudiengang Psychologie
 
- Diplomstudiengang Sportwissenschaft
+– Diplomstudiengang Sportwissenschaft
 
 Aktuell besteht keine konkrete Planung für weitere Aufhebungen.
 
@@ -161,19 +162,19 @@ Die HAW hat den bereits bestehenden und Langzeitstudierende betreffenden § 10 A
 
 Es wurden keine Anträge zur persönlichen Härte gestellt, demnach mussten auch keine Anträge von der Hochschule akzeptiert werden. Unterstützende Maßnahmen, um den Studienabschluss zu fördern, sind wie folgt zu kategorisieren:
 
- Studienfachberatung, um derartige Situationen möglichst zu vermeiden. Bei Prob-
+– Studienfachberatung, um derartige Situationen möglichst zu vermeiden. Bei Prob-
 
 lemfällen kann diese auch sehr umfassend sein (und zum Teil mit Verweis auf andere Beratungsstellen). In den neueren Prüfungsordnungen beziehungsweise der Allgemeinen Prüfungsordnung der HAW wird bei Überschreitung einer gewissen Studiendauer die Studienfachberatung zur Pflicht.
 
- Studierende, die die Regelstudienzeit überschritten haben, müssen innerhalb von
+– Studierende, die die Regelstudienzeit überschritten haben, müssen innerhalb von
 
 zwei Semestern nach dem Ende der Regelstudienzeit an einer Studienfachberatung teilnehmen, wenn sie sich nicht bis zum Ende dieses Zeitraums zur Abschlussprüfung gemeldet haben (§ 51 Absatz 2 Satz 2 HmbHG). Nehmen sie an der Studienfachberatung nicht teil, werden sie exmatrikuliert (§ 42 Absatz 2 Nummer 7 HmbHG).
 
- Individuelle Ansprache und Betreuung einzelner Studierender zu den Themen-
+– Individuelle Ansprache und Betreuung einzelner Studierender zu den Themen-
 
 komplexen, wie und in welchem Zeitrahmen das Studium zu einem Abschluss geführt werden kann. Dies setzt immer den Wunsch des Studierenden oder der Studierenden voraus, das Studium abschließen zu wollen. Die weiteren Studienfortschritte werden regelmäßig überprüft. Wenn von den Langzeitstudierenden eine ungenügende Rückmeldung erfolgt oder die vereinbarten Studienfortschritte nicht erreicht werden, wird die zentrale Studienberatung informiert.
 
- Die Prüfungsausschussvorsitzenden erhalten in den ersten Wochen der neuen
+– Die Prüfungsausschussvorsitzenden erhalten in den ersten Wochen der neuen
 
 Semester jeweils Listen von den Fakultätsservicebüros, in denen die Studierenden aufgeführt sind, bei denen die letzte erbrachte Leistung vier und mehr Semester her ist. Bei einigen Studierenden sind wegen der Kontakte der Lehrenden zu den Studierenden Gründe bekannt, die anderen Studierenden werden mit dem Hinweis auf mögliche Exmatrikulation angeschrieben und um Rücksprache gebeten.
 

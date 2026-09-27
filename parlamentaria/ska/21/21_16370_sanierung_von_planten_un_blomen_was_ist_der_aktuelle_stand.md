@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65895"
@@ -53,15 +54,15 @@ Welche Maßnahmen waren bezüglich der Sanierung der Schaugewächshäuser mit de
 
 Warum sind bis zum heutigen Tag keine Sanierungsmaßnahmen umgesetzt worden? Falls doch Maßnahmen umgesetzt wurden, bitte im Detail erläutern.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es wurden bereits vonseiten der UHH folgende Maßnahmen durchgeführt:
 
-• Ertüchtigung der Stromversorgung
+– Ertüchtigung der Stromversorgung
 
-• Erneuerung Druckwasserkessel und Schornsteinsockel
+– Erneuerung Druckwasserkessel und Schornsteinsockel
 
-• Erneuerung und Austausch schadhafter Fenster- und Dachgläser nebst Austausch automatischer Öffnungsgetriebe
+– Erneuerung und Austausch schadhafter Fenster- und Dachgläser nebst Austausch automatischer Öffnungsgetriebe
 
 Mit Stand 2016 waren die Sanierung der Stahl-Glas-Konstruktion der Wände und des Daches, die Sanierung der Fundamente sowie Erneuerungen der Gebäudetechnik vorgesehen.
 
@@ -89,6 +90,6 @@ Wie ist der aktuelle Planungsstand in Bezug auf die Sanierung der Gewächshäuse
 
 Wann werden die Schaugewächshäuser aller Wahrscheinlichkeit nach wieder für die Öffentlichkeit zugänglich sein?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Kurzfristig wird das Ausschreibungsverfahren für die Planung der Sanierung (VgV- Verfahren) eingeleitet, hiernach wird die Planung bis zur Leistungsphase 3 (Haushaltsunterlage Bau) durchgeführt. Im Zuge der Planung wird der Sanierungsumfang umfänglich geprüft. In Abhängigkeit von den notwendigen Maßnahmen den Baubeginn zu terminieren, die Bauzeit beträgt circa drei bis vier Jahre, da die Sanierung nur in den Sommermonaten möglich ist. Im Übrigen siehe Antworten zu 1. und 2. und Vorbemerkung.

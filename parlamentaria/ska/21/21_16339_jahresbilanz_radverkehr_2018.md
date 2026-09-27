@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65867"
@@ -171,53 +172,53 @@ Es ist geplant, die ersten 20 Lasten-Pedelecs an den folgenden vorhandenen beson
 
 Hamburg-Mitte
 
- Lange Reihe/Lohmühlenpark
+– Lange Reihe/Lohmühlenpark
 
- U Überseequartier/Grasbrookpark
+– U Überseequartier/Grasbrookpark
 
- Großneumarkt/Thielbek
+– Großneumarkt/Thielbek
 
- U Feldstraße/Marktstraße
+– U Feldstraße/Marktstraße
 
- Veringstraße/Mannesallee
+– Veringstraße/Mannesallee
 
 Altona
 
- S Königstraße/Struenseestraße
+– S Königstraße/Struenseestraße
 
- Bahnhof Altona West/Ottenser Hauptstraße
+– Bahnhof Altona West/Ottenser Hauptstraße
 
- Bleickenallee/Fischers Allee
+– Bleickenallee/Fischers Allee
 
- Hohenzollernring/Friedensallee
+– Hohenzollernring/Friedensallee
 
 Eimsbüttel
 
- Lappenbergsallee/Bei der Apostelkirche
+– Lappenbergsallee/Bei der Apostelkirche
 
- U Osterstraße/Heußweg
+– U Osterstraße/Heußweg
 
- U Christuskirche
+– U Christuskirche
 
- Eppendorfer Weg/Hoheluftchaussee
+– Eppendorfer Weg/Hoheluftchaussee
 
- U Hoheluftbrücke
+– U Hoheluftbrücke
 
 Hamburg-Nord
 
- Goldbekplatz/Semperstraße
+– Goldbekplatz/Semperstraße
 
- Fuhlsbüttler Straße/Hartzloh
+– Fuhlsbüttler Straße/Hartzloh
 
- Fuhlsbüttler Straße/Piazzetta-Ralph-Giordano
+– Fuhlsbüttler Straße/Piazzetta-Ralph-Giordano
 
- U Mundsburg
+– U Mundsburg
 
- Lortzingstraße/Friedrichsberger Straße
+– Lortzingstraße/Friedrichsberger Straße
 
 Wandsbek
 
- U Ritterstraße
+– U Ritterstraße
 
 Nach einer mehrmonatigen Pilotphase, für die besonders verdichtete Stadtteile ausgesucht wurden, soll das Nutzungsverhalten bezüglich der Lasten-Pedelecs analysiert und bewertet werden. Bei positiven Ergebnissen ist eine Ausdehnung des Einsatzgebietes der Lasten-Pedelecs in alle Bezirke vorgesehen.
 

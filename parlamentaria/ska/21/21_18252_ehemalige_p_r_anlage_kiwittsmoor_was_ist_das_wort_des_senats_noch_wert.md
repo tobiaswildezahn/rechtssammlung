@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67878"
@@ -52,7 +53,7 @@ Ist dem Senat bekannt, ob die Bezirksamtsleitung Hamburg-Nord weiterhin beabsich
 
 Wie viele Abstimmungsgespräche zwischen Bezirksamtsleitung und Senat haben seit dem Beschluss der Drs. 20-6833 durch die Bezirksversammlung Hamburg-Nord in der Sache stattgefunden? Wann haben diese Gespräche stattgefunden und welche Argumente haben die jeweiligen Teilnehmer dabei vorgetragen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Bezirksamtsleitung hat zu keinem Zeitpunkt beabsichtigt, die P+R-Anlage nicht wiederherzustellen.
 

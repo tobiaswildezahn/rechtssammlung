@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2839"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51728"
@@ -64,7 +65,7 @@ b) Mit welchen jährlichen Mindereinnahmen kalkuliert der Senat dazu ab August 2
 
 a) Welche zusätzlichen Einnahmen sind gegenüber der Ausgangsplanung kalkuliert, um diese Einnahmelücke zu schließen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Eine Betriebsvariante, in der – wie vom Fragesteller unterstellt – auf eine Vorbuchungsgebühr gänzlich verzichtet werden sollte, war zu keinem Zeitpunkt Gegenstand der Planungen der zuständigen Behörde.
 

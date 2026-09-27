@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9509"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51658"
@@ -43,7 +44,7 @@ Wie ist der aktuelle Stand, wie viele Straßen in der Freien und Hansestadt Hamb
 
 Welche Straßen sollen in 2016/2017 erstmalig endgültig hergestellt und schlussgerechnet werden? (Bitte nach Bezirken differenziert angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 

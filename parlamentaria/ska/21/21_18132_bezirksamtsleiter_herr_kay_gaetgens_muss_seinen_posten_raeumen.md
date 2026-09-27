@@ -10,12 +10,13 @@ urheber: ["Dirk Nockemann"]
 fraktionen: ["AfD"]
 vorgang: 61836
 seiten: 1
-fragen: 0
-einzelfragen: 0
-antwortbloecke: 0
+fragen: 1
+einzelfragen: 1
+antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67749"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/67749/21_18132_bezirksamtsleiter_herr_kay_gaetgens_muss_seinen_posten_raeumen"
 abgerufen: "2026-09-25"
@@ -27,9 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Dirk Nockemann (AfD) vom 26.08.19 und Antwort des Senats · Drucksache vom 03.09.2019  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/67749) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/67749/21_18132_bezirksamtsleiter_herr_kay_gaetgens_muss_seinen_posten_raeumen)
 
-## Volltext
-
-Bezirksamtsleiter Herr Kay Gätgens muss seinen Posten räumen
+## Einleitung für die Fragen
 
 In seiner Ausgabe vom 21.08.2019 teilte das „Niendorfer Wochenblatt“ mit, dass die Koalition zwischen den GRÜNEN und der SPD beendet sei. Zukünftig wollen die GRÜNEN mit der CDU zusammenarbeiten.
 
@@ -41,6 +40,12 @@ Absehbar ist allerdings, dass Herr Kay Gätgens seinen Posten nur unter Fortsetz
 
 Vor diesem Hintergrund frage ich den Senat:
 
+## Fragen und Antworten
+
+### Frage 1
+
 Welche Kosten kommen durch die Freistellung des Herrn Kay Gätgens auf den Steuerzahler zu?
+
+#### Antwort zu Frage 1
 
 Die beamtenrechtliche Stellung von Bezirksamtsleitungen ergibt sich aus § 7 Hamburgisches Beamtengesetz. Im Übrigen nimmt der Senat zu hypothetischen Fragen keine Stellung.

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8397"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58640"
@@ -134,23 +135,23 @@ Es waren in der Nebenstelle des Amtsgerichts Hamburg vom 29. Juni bis 9. Juli in
 
 In einem Drei-Schicht-Betrieb waren im Zeitraum 29. Juni bis 8. Juli insgesamt pro Schicht
 
- acht Richterinnen und Richter eingeteilt,
+– acht Richterinnen und Richter eingeteilt,
 
- drei Geschäftsstellenmitarbeiterinnen und -mitarbeiter vor Ort,
+– drei Geschäftsstellenmitarbeiterinnen und -mitarbeiter vor Ort,
 
- acht Protokollkräfte vor Ort
+– acht Protokollkräfte vor Ort
 
- sowie jeweils ein Geschäftsleiter beziehungsweise eine Geschäftsleiterin vor Ort.
+– sowie jeweils ein Geschäftsleiter beziehungsweise eine Geschäftsleiterin vor Ort.
 
 Am 9. Juli waren noch die 1. und 2. Schicht besetzt. In der 1. Schicht (7 bis 15 Uhr) und in der 2. Schicht (ab 15 Uhr, Antragsende 18 Uhr) waren
 
- acht Richterinnen und Richter,
+– acht Richterinnen und Richter,
 
- drei Geschäftsstellenmitarbeiterinnen und Mitarbeiter,
+– drei Geschäftsstellenmitarbeiterinnen und Mitarbeiter,
 
- acht Protokollkräfte sowie
+– acht Protokollkräfte sowie
 
- ein Geschäftsleiter (1. Schicht) beziehungsweise zwei Geschäftsleiter bezie-
+– ein Geschäftsleiter (1. Schicht) beziehungsweise zwei Geschäftsleiter bezie-
 
 hungsweise Geschäftsleiterinnen (2. Schicht) vor Ort tätig.
 
@@ -195,15 +196,15 @@ e. Wie viele Personen sind dann in die Untersuchungshaft gelangt?
 
 Es wurden insgesamt 51 Haftbefehle erlassen. Davon sind 50 Personen in Untersuchungshaft gelangt. Die Haftbefehle verteilen sich auf die einzelnen Tage wie folgt:
 
- 5. Juli: Ein Haftbefehl
+– 5. Juli: Ein Haftbefehl
 
- 6. Juli: Zwei Haftbefehle
+– 6. Juli: Zwei Haftbefehle
 
- 7. Juli: 15 Haftbefehle
+– 7. Juli: 15 Haftbefehle
 
- 8. Juli: 19 Haftbefehle
+– 8. Juli: 19 Haftbefehle
 
- 9. Juli: 14 Haftbefehle
+– 9. Juli: 14 Haftbefehle
 
 f. Wie viele Personen sind bisher einem Amtsrichter vorgeführt worden beziehungsweise werden einem Amtsrichter vorgeführt?
 
@@ -241,7 +242,7 @@ Wer beziehungsweise welche zuständige Behörde hatte die Federführung bei der 
 
 Hat der Präses der Justizbehörde die Freie und Hansestadt Hamburg in den gerichtlichen Verfahren vor dem Verwaltungsgericht und Oberverwaltungsgericht sowie vor dem Bundesverfassungsgericht vertreten? (Bitte nach denen in der Frage 5. aufgeführten Verfahren insbesondere im einstweiligen Rechtsschutz darstellen.) a. Wenn nein, warum nicht und wer hat die Vertretung der Freien und Hansestadt Hamburg in den jeweiligen Verfahren übernommen? b. Hat die Freie und Hansestadt Hamburg anwaltliche Hilfe in Anspruch genommen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Nein. Für Verfahren vor dem Verwaltungsgericht und dem Oberverwaltungsgericht besteht nach der Anordnung über Prozessführung (Anhang D 25.2 zur Geschäftsordnung des Senats) keine Vertretungsbefugnis der Justizbehörde. Die gerichtliche Vertretung der Freien und Hansestadt Hamburg liegt insoweit bei der Behörde für Inneres und Sport, die sie mittels Einschaltung des Justitiariats der Polizei auch wahrgenommen hat. In dem Eilverfahren vor dem Bundesverfassungsgericht (Az. 1 BvR 1387/17 betreffend das G20-Protestcamp im Stadtpark) hat sich das Gericht unmittelbar an die Polizei gewandt und dort lediglich Informationen erbeten, nicht aber eine rechtliche Stellungnahme. Die Justizbehörde hat dieses Verfahren fachlich begleitet. Mangels weiterer Verfahren vor dem Bundesverfassungsgericht bedurfte es vonseiten der Justizbehörde nicht der Inanspruchnahme bereitstehender anwaltlicher Unterstützung.
 

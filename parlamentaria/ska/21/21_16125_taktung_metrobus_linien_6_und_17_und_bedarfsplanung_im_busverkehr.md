@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 27
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14782", "21/12397"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65632"
@@ -79,7 +80,7 @@ Wie viele Fahrgäste haben seit dem 9.12.2018 im Durchschnitt täglich an Werkta
 
 Wie viele Fahrgäste haben seit dem 9.12.2018 im Durchschnitt täglich an Werktagen zu den genannten Hauptverkehrszeiten die MetroBus- Linie 17 genutzt? Wie viele Fahrgäste sind dabei durchschnittlich auf der Strecke Semperstraße – Rathausmarkt gefahren?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 2).
 

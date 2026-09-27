@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 25
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5124"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60165"
@@ -183,27 +184,27 @@ Für welche weiteren Waldflächen im Wahlkreis Alstertal/Walddörfer wurden werd
 
 Folgende Anträge auf Rodung und Umwandlung von Wald nach § 4 Landeswaldgesetz wurden gestellt:
 
- Flurstück 3951 teilweise, Gemarkung Volksdorf, für den Neubau eines Brunnens,
+– Flurstück 3951 teilweise, Gemarkung Volksdorf, für den Neubau eines Brunnens,
 
 genehmigt am 3. September 2013
 
- Flurstück 1407, Gemarkung Bergstedt, für ein Wohnbauvorhaben, abgelehnt am
+– Flurstück 1407, Gemarkung Bergstedt, für ein Wohnbauvorhaben, abgelehnt am
 
 18. Dezember 2015
 
- Flurstück 9030, Gemarkung Sasel, für die Erweiterung einer Tennisanlage, abge-
+– Flurstück 9030, Gemarkung Sasel, für die Erweiterung einer Tennisanlage, abge-
 
 lehnt am 12. Juli 2016
 
- Flurstück 7886 Gemarkung Volksdorf, für eine temporäre Baustraße, abgelehnt am
+– Flurstück 7886 Gemarkung Volksdorf, für eine temporäre Baustraße, abgelehnt am
 
 23. August 2016
 
- Flurstück 487, Gemarkung Lemsahl-Mellingstedt, für den Neubau eines Doppel-
+– Flurstück 487, Gemarkung Lemsahl-Mellingstedt, für den Neubau eines Doppel-
 
 hauses, genehmigt am 7. Oktober 2016
 
- Flurstück 6533 teilweise, Gemarkung Volksdorf, für den Neubau eines Brunnens,
+– Flurstück 6533 teilweise, Gemarkung Volksdorf, für den Neubau eines Brunnens,
 
 genehmigt am 14. September 2017
 

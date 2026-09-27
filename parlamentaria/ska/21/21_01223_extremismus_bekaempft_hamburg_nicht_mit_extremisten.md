@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 18
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/2169", "20/9849", "21/1064", "20/2008"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49415"
@@ -73,7 +74,7 @@ Sind unter diesen Gruppen Vereine/Verbände oder Institutionen, die in Hamburg o
 
 Sind unter diesen Gruppen Vereine/Verbände oder Institutionen, die mit extremistischen oder/und radikalen Gruppen sympathisieren?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Senat unterstützt und fördert Vereine/Verbände und Institutionen in ihrem Engagement gegen Rechtsextremismus und Fremdenfeindlichkeit. Mit Fördermitteln werden Aktivitäten gegen Rechtsextremismus und Fremdenfeindlichkeit unterstützt.
 

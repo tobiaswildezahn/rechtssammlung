@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 7
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5733", "21/5902", "21/5875", "21/5783", "21/4991", "21/6105", "21/5765"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54622"
@@ -123,6 +124,6 @@ Welche aus den einzelnen Bürgerverträgen resultierenden Vereinbarungen hat der
 
 Welche aus den einzelnen Bürgerverträgen resultierenden Vereinbarungen wird der Senat nach aktuellen Erkenntnissen nicht umsetzen? (Bitte nach einzelnem Bürgervertrag der Reihe nach aufschlüsseln.) a. Aus welchen Gründen werden diese Klauseln nicht umgesetzt werden können? b. Gibt es alternative Angebote seitens des Senats beziehungsweise der zuständigen Behörden für die nach aktuellen Erkenntnissen nicht umsetzbaren Klauseln der Bürgerverträge?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/5733 und Vorbemerkung.

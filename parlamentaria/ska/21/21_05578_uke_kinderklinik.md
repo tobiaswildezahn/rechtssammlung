@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5319", "21/5142", "20/10334"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54073"
@@ -71,6 +72,6 @@ Werden der Bau beziehungsweise die Einrichtung der UKE-Kinderklinik gestoppt, we
 
 Wird der Senat die Bürgerschaft um eine höhere Kostenbeteiligung der Stadt Hamburg bitten?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nein. Im Übrigen siehe Drs. 20/10334.

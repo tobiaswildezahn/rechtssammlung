@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57578"
@@ -43,7 +44,7 @@ In welchem Stadium befindet sich die Planfeststellung betreffend die A26-Ost?
 
 Ist der Zeitrahmen zur Erhebung von Einwendungen abgelaufen? Wenn nein: Wann läuft er ab?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die A 26 Ost wird in drei Abschnitten geplant. Der Plan für den ersten Bauabschnitt lag im März des Jahres 2017 zur Einsicht aus, die Frist für die Erhebung von Einwendungen endete am 18. April 2017. Die beiden weiteren Abschnitte befinden sich im Planungsstadium, Anträge auf Planfeststellung sind insoweit noch nicht gestellt.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48415"
@@ -69,7 +70,7 @@ Wie viele private Wohnungen beziehungsweise Zimmer, bei denen die Eigentümer be
 
 Gibt es Erkenntnisse darüber, wie viele Flüchtlinge gerne in einer privaten Unterkunft wohnen würden, aber derzeit keine freie Unterkunft zur Verfügung finden? Gibt es also eine Art „Warteliste“?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 In den bezirklichen Fachstellen für Wohnungsnotfälle, der zuständigen Fachbehörde und bei f&w melden sich Privatpersonen, Unternehmen und Makler, um Flüchtlinge aufzunehmen beziehungsweise Unterkünfte anzubieten. Die Zahl der gemeldeten Wohnungen beziehungsweise Zimmer wird nicht erfasst. Im Übrigen siehe Vorbemerkung.
 

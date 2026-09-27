@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 34
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7832", "20/12412", "21/1316", "21/5911"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56593"
@@ -35,11 +36,11 @@ generator: "ska_archiv 1.0"
 
 Im Bereich der Schulbegleitung sind erheblich mehr Mittel ausgegeben worden. Auch die Zahl der Schulbegleitungen ist von 214 Fällen im Schuljahr 2010/2011 auf mittlerweile 1.464 Fälle im Schuljahr 2016/2017 deutlich angestiegen. Die gegenwärtig geltenden Verfahren zur Steuerung des Einsatzes von Schulbegleitungen wurden in den Jahren 2014 und 2015 schrittweise eingeführt und seitdem erfolgreich umgesetzt. Der Verfahrensablauf ist in den Drs. 20/12412, Drs. 21/1316, Drs. 21/5911 eingehend erläutert worden und wird auch durch die beiden nachfolgend genannten Dienstanweisungen umfassend beschrieben:
 
- Dienstanweisung zum Einsatz von Schulbegleitungen für Schülerinnen und Schü-
+– Dienstanweisung zum Einsatz von Schulbegleitungen für Schülerinnen und Schü-
 
 ler mit erheblichem Betreuungs- und Unterstützungsbedarf aufgrund einer Behinderung (vom 01.03.2015),
 
- Dienstanweisung zum Einsatz von Schulbegleitungen für Schülerinnen und Schü-
+– Dienstanweisung zum Einsatz von Schulbegleitungen für Schülerinnen und Schü-
 
 ler mit erheblichem Betreuungs- und Unterstützungsbedarf aufgrund einer komplexen psychosozialen Beeinträchtigung (vom 25.03.2014).
 
@@ -154,7 +155,7 @@ In wie vielen Fällen wurden seit 2014/2015 bis heute (Stand Februar 2017) Antr�
 
 In wie vielen Fällen wurden seit 2014/2015 bis heute (Stand Februar 2017) Anträge für Schüler/-innen, deren Schulbegleitungsbedarf im vorherigen Bewilligungszeitraum von den zuständigen ReBBZ bestätigt wurde, im Folgebewilligungszeitraum in der Qualifikation der Schulbegleitung niedriger als zuvor eingestuft? (Bitte für jedes Schuljahr gesondert, jeweils nach Förderbedarf und Schulformen mit Nennung der Qualifikationsstufe vor und nach Absenkung aufgeschlüsselt in absoluten Zahlen und in Prozent in einer Excel-Tabelle angeben.) a. Mit welchen Begründungen geschah diese Absenkung jeweils? (Bitte entsprechend in der Tabelle zu 8. angeben.) b. In wie vielen dieser Fälle wurde die betreffende Absenkung zur nächstmöglichen Antragsfrist zurückgenommen? (Bitte entsprechend in der Tabelle zu 8. angeben.)
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die erfragten Daten liegen nicht vor, da entsprechende Längsschnittauswertungen auf Basis der Datenerfassungsverfahren nicht möglich sind.
 
@@ -166,7 +167,7 @@ Auf welcher Rechtsgrundlage geschieht die Ablehnung eines vorliegenden Schulbegl
 
 Auf welcher fachlichen und sachlichen Grundlage vollzieht sich die Ablehnung eines vorliegenden Schulbegleitungsantrags seitens der ReBBZ ohne Prüfung und Beurteilung der betreffenden Schüler/-innen? (Bitte Stellung nehmen.) a. Inwiefern ist diese Praxis angesichts der pädagogischen Leitlinie des Senats zur Umsetzung der schulischen Inklusion im Koalitionsvertrag zu rechtfertigen? (Bitte erläutern.)
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Antwort zu 6. bis 6. b.
 
@@ -197,7 +198,7 @@ angeben.)
 15. Wie viele Widersprüche und wie viele juristische Klagen gegen die Herabsetzung der Qualifikation von Schulbegleitungsanträgen durch Sorgeberechtigte gab/gibt es seit 2014/2015 bis heute (Stand Februar 2017)? (Bitte pro Schuljahr gesondert nach Förderbedarf, Schulform, Stadtteil und Bezirk der betreffenden Beantragung in absoluten Zahlen und in Prozent zu den insgesamt gestellten Anträgen in einer Excel-Tabelle angeben.) a. Welche Ergebnisse ergaben sich aus diesen Widersprüchen und juristischen Klagen jeweils? (Bitte entsprechend in der Tabelle zu
 15. angeben.)
 
-#### Antwort zu Fragen 13, 16
+#### Antwort zu Fragen 13 und 16
 
 Anzahl der Widersprüche und juristischen Klagen in den Schuljahren 2014/2015 bis 2016/2017:
 

@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6361"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55082"
@@ -43,7 +44,7 @@ Laut Antwort des Senats in Drs. 21/6361 sind in einer Tabelle zu den Hilfen zur 
 
 Erhalten minderjährige unbegleitete Flüchtlinge Hilfen aus den für die Volljährigenhilfe zur Verfügung stehenden finanziellen Mitteln? Wenn ja, mit welcher Begründung?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Alle Angaben in der Drs. 21/6361 beziehen sich auf junge Volljährige. Der ergänzende Hinweis bedeutet, dass in diesen Zahlen auch Volljährige enthalten sind, die zuvor minderjährig und unbegleitet eingereist sind, mittlerweile aber Leistungen der Jugendhilfe in Form einer Volljährigenhilfe erhalten.
 

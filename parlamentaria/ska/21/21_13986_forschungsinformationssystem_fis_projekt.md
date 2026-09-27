@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63373"
@@ -49,7 +50,7 @@ Welche Forschungsaktivitäten werden gegenwärtig durch das FIS-Projekt betreut?
 
 Worin hat sich die angestrebte Arbeitserleichterung bislang manifestiert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Forschungsinformationssystem (FIS) der Universität Hamburg (UHH) befindet sich derzeit noch im geschlossenen Probebetrieb, aktuell werden noch keine For-
 

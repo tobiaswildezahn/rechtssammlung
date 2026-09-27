@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66545"
@@ -112,7 +113,7 @@ Welche europäischen Austauschprogramme bestehen aktuell für Schüler in Hambur
 
 Ist dem Senat und der zuständigen Behörde bekannt, wie die unter Punkt 4. aufgeführten Austauschprogramme von den Schülern angenommen werden? a. Wenn ja: Bitte die Inanspruchnahme der bestehenden Austauschprogramme unter möglichst spezifisch und unter Nennung konkreter Zahlen darstellen. b. Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Über die zentral angebotenen Austauschprogramme hinaus gibt es eine Vielzahl von Schüleraustauschen von Hamburger Schulen mit Partnerschulen in diversen europäischen Ländern, die von der für Bildung zuständigen Behörde nicht zentral erfasst werden. Unter bestimmten Umständen und insbesondere, wenn neue Partnerschaften mit Schulen in einer Hamburger Partnerstadt begründet werden sollen, können die Schulen bei der für Bildung zuständigen Behörde eine finanzielle Unterstützung als Zuschuss zu den Projektkosten beantragen. Im Übrigen siehe Anlage 2.
 

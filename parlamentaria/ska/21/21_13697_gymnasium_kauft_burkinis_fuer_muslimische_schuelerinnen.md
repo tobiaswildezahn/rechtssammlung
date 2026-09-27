@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4507", "21/3668"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63077"
@@ -79,7 +80,7 @@ Wie viele Fälle sind dem Senat bekannt, in denen muslimische Schüler die Teiln
 
 Wie haben die zuständigen Lehrer und Schulleitungen jeweils reagiert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung und Drs. 21/3668.
 
@@ -99,7 +100,7 @@ In wie vielen Fällen hat die Schulleitung in der Vergangenheit der Verweigerung
 
 In wie vielen Fällen wurde die gesetzliche Teilnahmepflicht gegen den Willen muslimischer Schüler durchgesetzt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung und Drs. 21/3668.
 
@@ -119,7 +120,7 @@ Hat es in Hamburg bereits Fälle wie denjenigen aus Herne gegeben, bei denen ein
 
 In welchem Rahmen darf eine Schule darüber verfügen, ob beziehungsweise inwieweit sie unterrichtsrelevante Kleidungsstücke für ihre Schüler anschafft?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung.
 

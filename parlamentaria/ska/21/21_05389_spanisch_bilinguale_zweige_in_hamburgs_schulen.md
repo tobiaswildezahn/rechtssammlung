@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 18
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53878"
@@ -43,7 +44,7 @@ An welchen Schulen in Hamburg (staatlich und privat) gibt es spanischbilinguale 
 
 Seit wann sind diese Zweige jeweils eingerichtet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 An den folgenden staatlichen Schulen ist im Schuljahr 2015/2016 ein bilingualer deutsch-spanischer Zweig eingerichtet:
 

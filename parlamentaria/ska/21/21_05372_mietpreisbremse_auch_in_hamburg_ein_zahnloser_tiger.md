@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 15
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/860"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53853"
@@ -45,7 +46,7 @@ Welche Erkenntnisse über die Wirkung der sog. Mietpreisbremse hat der Senat ein
 
 Wie hat der Senat die Mietpreisentwicklung seit Juli 2015 erfasst und ausgewertet? a. Wie viele Mietpreisangebote (Zeitung, Internetprotale et cetera) wurden, gegebenenfalls auch stichprobenartig, zu welchen Stichtagen erfasst? b. Wie wurden die unter a. genannten Angebote bewertet? c. Wie wird überprüft, ob die angebotenen Mietpreise den Regelungen der sogenannten Mietpreisbremse entsprechen? d. Falls es keine Erfassungen und Auswertungen gegeben hat: weshalb nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/860.
 

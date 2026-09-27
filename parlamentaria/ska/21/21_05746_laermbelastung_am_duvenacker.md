@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 20
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54238"
@@ -109,7 +110,7 @@ Liegt dem Senat ein Gutachten vor, das die Dezibel-Werte beinhaltet, die nach de
 
 Wenn nicht, plant der Senat, ein Gutachten zur Notwendigkeit von Lärmschutzmaßnahmen am Duvenacker in Auftrag zu geben beziehungsweise muss im Baugenehmigungsverfahren ein solches Gutachten erstellt werden?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Nein, solche Gutachten werden im Rahmen des Baugenehmigungsverfahrens nicht erstellt.
 

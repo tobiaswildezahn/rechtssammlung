@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57350"
@@ -47,7 +48,7 @@ Wie hoch war der Bewerbungs- und Einstellungsanteil junger Menschen mit Migratio
 
 Wie hoch war er im letzten Jahr (2016)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Bewerbungsanteil wurde erstmals in 2007 statistisch erfasst und betrug 10,0 Prozent. In 2016 erreichte der Bewerbungsanteil den bislang höchsten Wert von 21,4 Prozent. Der Einstellungsanteil betrug in 2006 5,2 Prozent, in 2016 wurde ein Einstellungsanteil von 17,2 Prozent erzielt.
 

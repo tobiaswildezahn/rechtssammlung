@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1121"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59239"
@@ -51,7 +52,7 @@ Wie viele mit dem Begriff MITA bezeichnete Asylbewerber gibt es zum Stichtag 31.
 
 Wie viele der in Hamburg registrierten MITAs sind derzeit inhaftiert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

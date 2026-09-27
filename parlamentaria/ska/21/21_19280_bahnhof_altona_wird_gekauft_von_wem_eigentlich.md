@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68978"
@@ -63,7 +64,7 @@ Wie sind die Eigentumsverhältnisse des gesamten Bahnhofsgebäudes und der zum B
 
 Welche Bereiche genau will die Stadt durch Ausübung des Vorkaufsrechts erwerben?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage. Aus datenschutzrechtlichen Gründen wird nur zwischen privatem und öffentlichem Eigentum (Allgemeines Grundvermögen; Allgemeines Grundvermögen vergeben im Erbbaurecht; Straßenverkehrsflächen) unterschieden.
 
@@ -77,7 +78,7 @@ Was bezweckt die Stadt mit der Ausübung des Vorkaufsrechts?
 
 Wird die Stadt ihr Vorkaufsrecht ausüben unabhängig davon, ob der Fern- und Regionalbahnhof Altona verlegt wird?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 

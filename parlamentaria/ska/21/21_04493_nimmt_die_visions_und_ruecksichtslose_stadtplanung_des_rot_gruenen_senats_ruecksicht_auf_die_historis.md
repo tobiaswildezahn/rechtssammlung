@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 19
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4364", "21/4456"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52896"
@@ -43,7 +44,7 @@ Welche Gründe bewegen den Senat, dem Bezirk die Planungshoheit abzunehmen und d
 
 Hat der Senat bezüglich seiner Überlegungen nach Änderung von Baustufenplänen im gesamten Stadtgebiet die betroffenen Bezirke, insbesondere die Bezirkspolitik, einbezogen? Wenn ja, in welcher Weise, und welche eventuellen Einwände gibt es seitens der Bezirke? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/4364.
 

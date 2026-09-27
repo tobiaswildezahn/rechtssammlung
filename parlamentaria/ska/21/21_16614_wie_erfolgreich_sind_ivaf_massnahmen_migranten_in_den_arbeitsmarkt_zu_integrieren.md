@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 28
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66148"
@@ -35,13 +36,13 @@ Neben diversen Maßnahmen werden auch gezielt Maßnahmen nach § 45 SGB III sowi
 
 ## Einleitung für die Antworten des Senats
 
- Perspektiven für junge Flüchtlinge – PerjuF. Dieses Projekt richtet sich an Migranten unter 25 Jahren, die perspektivisch eine berufliche Ausbildung anstreben. Ziel der Maßnahme ist die Orientierung im deutschen Ausbildungs- und Beschäftigungssystem. Es handelt sich um eine Maßnahme nach § 45 SGB III, die sich über einen vier bis sechs-monatigen Zeitraum erstreckt.
+– Perspektiven für junge Flüchtlinge – PerjuF. Dieses Projekt richtet sich an Migranten unter 25 Jahren, die perspektivisch eine berufliche Ausbildung anstreben. Ziel der Maßnahme ist die Orientierung im deutschen Ausbildungs- und Beschäftigungssystem. Es handelt sich um eine Maßnahme nach § 45 SGB III, die sich über einen vier bis sechs-monatigen Zeitraum erstreckt.
 
- Perspektiven für junge Flüchtlinge im Handwerk – PerjuF-H. Hier wird Migranten eine Orientierung in mindestens drei verschiedenen handwerklichen Berufsfeldern ermöglicht. Die verschiedenen, im Handwerk eingesetzten Materialien sollen praktisch erlebt und die erworbenen Kenntnisse im Rahmen einer Praxisphase im Betrieb vertieft werden. Das Programm hat eine individuelle Laufzeit von vier bis sechs Monaten.
+– Perspektiven für junge Flüchtlinge im Handwerk – PerjuF-H. Hier wird Migranten eine Orientierung in mindestens drei verschiedenen handwerklichen Berufsfeldern ermöglicht. Die verschiedenen, im Handwerk eingesetzten Materialien sollen praktisch erlebt und die erworbenen Kenntnisse im Rahmen einer Praxisphase im Betrieb vertieft werden. Das Programm hat eine individuelle Laufzeit von vier bis sechs Monaten.
 
- Perspektiven für Flüchtlinge – PerF. Dieses Projekt dient der Feststellung beruflicher Kompetenzen durch Maßnahmeteile im sogenannten Echtbetrieb – in der Regel bei Arbeitgebern – und umfasst Beratung zu Arbeitsbedingungen auf dem deutschen Arbeitsmarkt sowie Informationen über die Möglichkeit der Anerkennung im Ausland erworbener Abschlüsse. Während der gesamten Maßnahmedauer werden berufsbezogene Sprachkenntnisse vermittelt beziehungsweise vertieft. Es handelt sich um eine zwölfwöchige Maßnahme nach § 45 SGB II.
+– Perspektiven für Flüchtlinge – PerF. Dieses Projekt dient der Feststellung beruflicher Kompetenzen durch Maßnahmeteile im sogenannten Echtbetrieb – in der Regel bei Arbeitgebern – und umfasst Beratung zu Arbeitsbedingungen auf dem deutschen Arbeitsmarkt sowie Informationen über die Möglichkeit der Anerkennung im Ausland erworbener Abschlüsse. Während der gesamten Maßnahmedauer werden berufsbezogene Sprachkenntnisse vermittelt beziehungsweise vertieft. Es handelt sich um eine zwölfwöchige Maßnahme nach § 45 SGB II.
 
- KompAS – Kompetenzfeststellung, frühzeitige Aktivierung und Spracherwerb. Hier werden Integrationskurse mit Maßnahmen zur Kompetenzfeststellung und zur frühzeitigen Aktivierung nach § 45 SGB III kombiniert. Dazu gehören unter anderem Bewerbungstraining, ergänzende berufsbezogene Sprachförderung und Jobcoaching. Die Dauer der Maßnahme liegt zwischen sechs und acht Monaten.
+– KompAS – Kompetenzfeststellung, frühzeitige Aktivierung und Spracherwerb. Hier werden Integrationskurse mit Maßnahmen zur Kompetenzfeststellung und zur frühzeitigen Aktivierung nach § 45 SGB III kombiniert. Dazu gehören unter anderem Bewerbungstraining, ergänzende berufsbezogene Sprachförderung und Jobcoaching. Die Dauer der Maßnahme liegt zwischen sechs und acht Monaten.
 
 Vor diesem Hintergrund frage ich den Senat:
 
@@ -84,7 +85,7 @@ a) Um welche konkreten Maßnahmen und welche Zeiträume handelt es sich hierbei?
 b) Wo werden berufsbezogene Sprachkenntnisse vermittelt und ist die Teilnahme hieran verpflichtend? Wenn ja, wie wird das überprüft?
 c) Wie viele Migranten haben PerjuF abgebrochen, wie viele mit welchem Erfolg beendet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In Hamburg erfolgt in der aktuellen Förderperiode (01.07.2015 – 30.06.2019) über die Netzwerk-Förderrichtlinie des Bundesministeriums für Arbeit und Soziales (BMAS) „Integration von Asylbewerberinnen, Asylbewerbern und Flüchtlingen“ (IvAF) dieFörderung des Projektverbundes „FLUCHTort
 5.0“. (https://www.esf.de/portal/ SharedDocs/Vorhaben/a/6/b/a6b4102d-220a-4724-b637-f1c46a50ef54.html).
@@ -126,7 +127,7 @@ b) Durch wen finden wo Beratung zu Arbeitsbedingungen auf dem deutschen Arbeitsm
 c) Sind die berufsbezogenen Sprachkenntnisse während dieser Maßnahme verpflichtend und wer führt sie wo durch?
 d) Wie häufig und welche im Ausland erworbenen Kenntnisse und/oder Ausbildungen wurden im Zuge dieser Maßnahme anerkannt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die für die Beantwortung benötigten Daten werden statistisch nicht erfasst. Im Übrigen siehe Vorbemerkung.
 

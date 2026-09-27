@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49980"
@@ -43,7 +44,7 @@ Unter welchen Voraussetzungen dürfen Privatleute zu privaten oder kommerziellen
 
 Inwiefern ist der Einsatz von Drohnen und anderen unbemannten Flugobjekten im Umfeld des Hamburger Flughafens oder des Flugfelds bei Airbus in Hamburg-Finkenwerder reglementiert beziehungsweise gestattet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Entsprechend § 1 Luftverkehrsgesetz (LuftVG in der aktuellen Fassung vom
 31.08.2015) werden Drohnen in „Flugmodelle“ und „unbemannte Luftfahrtsysteme“ (unmanned aerial vehicles = UAV) unterschieden. Die Abgrenzung erfolgt im Sinne von § 1 Absatz 2 S. 1 Nummer 9 und S. 3 LuftVG ausschließlich über den Zweck der Nutzung:
@@ -88,7 +89,7 @@ Auf welche Weise wurde ordnungswidrigen oder strafbaren Zwischenfällen mit Droh
 
 Wie hoch ist die Aufklärungsquote von Zwischenfällen mit Drohnen und anderen unbemannten Flugobjekten?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die in der Antwort zu 4. aufgeführten Systemausfälle stellten keine Ordnungswidrigkeiten dar. Die Verursacher der strafbaren Zwischenfälle konnten polizeilich bislang nicht ermittelt werden.
 
@@ -108,6 +109,6 @@ Auf welche Weise sollen künftig Zwischenfälle mit Drohnen oder unbemannten Flu
 
 Inwiefern wird die Hamburger Bevölkerung auf die Voraussetzungen und Gesetzesverstöße im Zusammenhang mit dem Einsatz von Drohnen und unbemannten Flugobjekten hingewiesen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Öffentlichkeit wird über die Risiken des Einsatzes von Drohnen und die oben genannten Regelungen informiert. Verstöße werden im Rahmen von Straf- beziehungsweise Ordnungswidrigkeitenverfahren geahndet. Umfassende Informationen werden im Internet auf der Seite www.hamburg.de/bwvi/drohnen/ veröffentlicht. Darüber hinaus wurden und werden den Medien (insbesondere den lokalen Printmedien) regelmäßig Informationen zu dieser Thematik zur Verfügung gestellt.

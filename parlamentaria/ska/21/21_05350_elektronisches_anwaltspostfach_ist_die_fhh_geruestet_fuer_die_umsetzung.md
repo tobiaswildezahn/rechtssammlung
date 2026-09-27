@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53840"
@@ -71,19 +72,19 @@ Gemäß der Verordnung über den elektronischen Rechtsverkehr in Hamburg vom 28.
 
 - In allen Verfahrensbereichen:
 
- Finanzgericht Hamburg
+– Finanzgericht Hamburg
 
- Verwaltungsgericht Hamburg
+– Verwaltungsgericht Hamburg
 
- Hamburgisches Oberverwaltungsgericht
+– Hamburgisches Oberverwaltungsgericht
 
- Arbeitsgericht Hamburg
+– Arbeitsgericht Hamburg
 
- Landesarbeitsgericht Hamburg
+– Landesarbeitsgericht Hamburg
 
- Hamburgisches Berufsgericht für die Heilberufe
+– Hamburgisches Berufsgericht für die Heilberufe
 
- Hamburgischer Berufsgerichtshof für die Heilberufe
+– Hamburgischer Berufsgerichtshof für die Heilberufe
 
 - Sozialgericht Hamburg und Landessozialgericht Hamburg: Verfahren betreffend Erziehungs- beziehungsweise Elterngeld und Betreuungsgeld sowie Verfahren betreffend Leistungen nach dem Zwölften Buch Sozialgesetzbuch und dem Asylbewerberleistungsgesetz
 

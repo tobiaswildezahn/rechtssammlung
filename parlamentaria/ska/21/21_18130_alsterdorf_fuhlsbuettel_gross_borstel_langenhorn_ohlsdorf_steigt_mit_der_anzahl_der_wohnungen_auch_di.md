@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16924", "21/14434"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67747"
@@ -53,7 +54,7 @@ e. Kiwittsmoor (Langenhorn)?
 
 Wann werden diese Neubaugebiete voraussichtlich jeweils fertiggestellt sein?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die nachstehenden Angaben der Bewohnerzahl in den genannten Neubaugebieten beruhen auf einer Schätzung des mit der Planung beauftragten zuständigen Bezirk-
 
@@ -86,7 +87,7 @@ Wie beurteilt die zuständige Behörde aktuell das Sportangebot in den Stadtteil
 
 Von welchem zusätzlichen Bedarf geht sie infolge der steigenden Bevölkerungszahl aus?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 In Bezug auf die Nutzung öffentlicher Sportanlagen ist es zurzeit möglich, alle Anfragen von Vereinen zu befriedigen beziehungsweise Angebote zu machen. Auf einzelnen Anlagen gibt es noch freie Nutzungszeiten.
 

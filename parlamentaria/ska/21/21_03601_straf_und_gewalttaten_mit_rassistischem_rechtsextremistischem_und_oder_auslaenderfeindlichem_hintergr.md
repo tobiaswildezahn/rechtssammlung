@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3165", "21/2628", "20/10471", "20/11400", "21/2517", "21/1986"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51957"
@@ -59,7 +60,7 @@ Wie viele Tatverdächtige wurden wegen rechtsextremistischer, rassistischer und/
 
 In wie vielen der in 2. genannten Fälle wurde Untersuchungshaft verhängt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Statistiken im Sinne der Fragestellung werden bei der Polizei nicht geführt. Für die Beantwortung der Frage wäre eine Durchsicht aller dem Bereich „PMK rechts“ zuzuordnenden Ermittlungsvorgänge des erfragten Zeitraums erforderlich. Die manuelle Auswertung aller 172 Vorgänge ist in der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

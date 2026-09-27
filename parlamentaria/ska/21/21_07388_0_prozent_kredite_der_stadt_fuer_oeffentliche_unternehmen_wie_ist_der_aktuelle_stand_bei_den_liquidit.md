@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 51263
 seiten: 4
 fragen: 3
-einzelfragen: 7
-antwortbloecke: 3
+einzelfragen: 8
+antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4081", "21/6224", "20/13852", "21/218", "21/5102", "21/5668"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56010"
@@ -44,25 +45,44 @@ Der Senat beantwortet die Fragen teilweise auf Grundlage von Auskünften der HGV
 ### Frage 1
 
 Nutzung der Liquiditätshilfen:
-1.1. Welchen der im jeweiligen Haushaltsbeschluss genannten Unternehmen und Einrichtungen hat der Senat beziehungsweise die zuständige Behörde wann und warum im Zeitraum Oktober bis Dezember 2016 Liquiditätshilfen zur Verfügung gestellt?
-1.2. In welcher Höhe wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte jeweils zum Monatsende angeben.
-1.3. Wie lange und zu welchem Zins wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte keinen Durchschnittszins über alle Unternehmen wie in Drs. 20/13852 angeben.
-1.4. Woran orientiert sich jeweils die Höhe des Zinssatzes beziehungsweise wie wird sie ermittelt?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Welchen der im jeweiligen Haushaltsbeschluss genannten Unternehmen und Einrichtungen hat der Senat beziehungsweise die zuständige Behörde wann und warum im Zeitraum Oktober bis Dezember 2016 Liquiditätshilfen zur Verfügung gestellt?
+
+### Frage 1.2
+
+In welcher Höhe wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte jeweils zum Monatsende angeben.
+
+### Frage 1.3
+
+Wie lange und zu welchem Zins wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte keinen Durchschnittszins über alle Unternehmen wie in Drs. 20/13852 angeben.
+
+### Frage 1.4
+
+Woran orientiert sich jeweils die Höhe des Zinssatzes beziehungsweise wie wird sie ermittelt?
+
+#### Antwort zu Fragen 1, 1.1, 1.2, 1.3 und 1.4
 
 Siehe Anlage 1. Der Zinssatz betrug einheitlich 0,0 Prozent. Im Übrigen siehe Drs. 21/218, 21/4081, 21/5102 und 21/6224.
 
 ### Frage 2
 
 Limite für die Liquiditätshilfen:
-2.1. Welche Veränderungen der für die Liquiditätshilfen festgelegten Limite hat es jeweils wann und aus welchen Gründen seit der Beantwortung der Schriftlichen Kleinen Anfrage in Drs. 21/6224 gegeben?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Welche Veränderungen der für die Liquiditätshilfen festgelegten Limite hat es jeweils wann und aus welchen Gründen seit der Beantwortung der Schriftlichen Kleinen Anfrage in Drs. 21/6224 gegeben?
+
+#### Antwort zu Fragen 2 und 2.1
 
 Das Limit für das Betriebsmittelkonto der Hamburg Port Authority AöR (HPA) wurde ab Oktober 2016 befristet bis zum 30. Juni 2017 von 50 auf 70 Millionen Euro erhöht, um die in dieser Zeit zu erwartenden kurzfristigen Liquiditätsbedarfe der HPA zu decken. Limitreduzierungen erfolgten zum 1. Januar 2017 beim Universitätsklinikum Hamburg-Eppendorf von 97 auf 27 Millionen Euro sowie für die Bereiche Landesbetrieb Schulbau und Sondervermögen Schulimmobilien von insgesamt 285 auf 185 Millionen Euro. Im Übrigen siehe Drs. 21/6224.
 
-2.2. Wie häufig, aus welchen Gründen und für jeweils welchen Zeitraum gab es im 4. Quartal 2016 bei welchen einzelnen Unternehmen und Einrichtungen Überschreitungen der Limite?
+### Frage 2.2
+
+Wie häufig, aus welchen Gründen und für jeweils welchen Zeitraum gab es im 4. Quartal 2016 bei welchen einzelnen Unternehmen und Einrichtungen Überschreitungen der Limite?
+
+#### Antwort zu Frage 2.2
 
 Einmal beim Landesbetrieb Planetarium in der Zeit vom 23. November bis zum
 5. Dezember 2016, da erst der Beschluss der Bürgerschaft über die Drs. 21/5668 vom

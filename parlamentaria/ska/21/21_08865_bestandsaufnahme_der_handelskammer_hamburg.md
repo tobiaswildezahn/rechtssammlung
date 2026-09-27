@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 19
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57630"
@@ -67,21 +68,21 @@ Wie viele Mitarbeiterinnen und Mitarbeiter sind aktuell bei der Handelskammer Ha
 
 #### Antwort zu Frage 2
 
-• In der Handelskammer Hamburg Körperschaft des öffentlichen Rechts: 300 Mitarbeiterinnen und Mitarbeiter, davon 65 in Teilzeit (277,7 Vollzeit-Äquivalente (VZÄ), davon 16 Aushilfen für Projekte und Ähnliches) gemäß vorläufigen Jahresabschluss 2016. Hinzu kamen 13 Auszubildende, 13 Mitarbeiterinnen und Mitarbeiter in Mutterschutz/Elternzeit, drei Praktikanten und vier geringfügig Beschäftigte.
+– In der Handelskammer Hamburg Körperschaft des öffentlichen Rechts: 300 Mitarbeiterinnen und Mitarbeiter, davon 65 in Teilzeit (277,7 Vollzeit-Äquivalente (VZÄ), davon 16 Aushilfen für Projekte und Ähnliches) gemäß vorläufigen Jahresabschluss 2016. Hinzu kamen 13 Auszubildende, 13 Mitarbeiterinnen und Mitarbeiter in Mutterschutz/Elternzeit, drei Praktikanten und vier geringfügig Beschäftigte.
 
 In 100-prozentigen Tochterunternehmen der Handelskammer Hamburg:
 
-• Handelskammer Hamburg Service GmbH: 23 Mitarbeiterinnen und Mitarbeiter (20 VZÄ)
+– Handelskammer Hamburg Service GmbH: 23 Mitarbeiterinnen und Mitarbeiter (20 VZÄ)
 
-• Handelskammer Hamburg Bildungs-Service gGmbH (HKBiS): 17 Mitarbeiterinnen und Mitarbeiter (14 VZÄ)
+– Handelskammer Hamburg Bildungs-Service gGmbH (HKBiS): 17 Mitarbeiterinnen und Mitarbeiter (14 VZÄ)
 
-• HSBA Hamburg School of Business Administration: 68 Mitarbeiterinnen und Mitarbeiter (davon fünf Doktoranden) (52,1 VZÄ)
+– HSBA Hamburg School of Business Administration: 68 Mitarbeiterinnen und Mitarbeiter (davon fünf Doktoranden) (52,1 VZÄ)
 
-• Hamburgische WeltWirtschaftsInstitut HWWI (gGmbH): 23 Mitarbeiterinnen und Mitarbeiter (15 VZÄ)
+– Hamburgische WeltWirtschaftsInstitut HWWI (gGmbH): 23 Mitarbeiterinnen und Mitarbeiter (15 VZÄ)
 
 In 50-prozentigen Tochterunternehmen der Handelskammer Hamburg:
 
-• Gesundheitswirtschaft Hamburg GmbH: sieben Mitarbeiterinnen und Mitarbeiter (5,3 VZÄ)
+– Gesundheitswirtschaft Hamburg GmbH: sieben Mitarbeiterinnen und Mitarbeiter (5,3 VZÄ)
 
 ### Frage 3
 
@@ -93,15 +94,15 @@ Für die Ressorts siehe: „Bericht zum Stand der gesetzlichen Aufgabenerfüllun
 
 Die Mitarbeiterinnen und Mitarbeiter teilen sich wie folgt auf die drei gesetzlichen Aufgabenbereiche der Handelskammer auf:
 
- Unabhängige Gesamtinteressenvertretung: circa 61,0 VZÄ Handelskammer Ham-
+– Unabhängige Gesamtinteressenvertretung: circa 61,0 VZÄ Handelskammer Ham-
 
 burg Körperschaft des öffentlichen Rechts
 
- Allgemeine Wirtschaftsförderung: circa 112,6 VZÄ Handelskammer Hamburg Kör-
+– Allgemeine Wirtschaftsförderung: circa 112,6 VZÄ Handelskammer Hamburg Kör-
 
 perschaft des öffentlichen Rechts
 
- Spezialgesetzliche Einzelaufgaben: circa 104,2 VZÄ Handelskammer Hamburg
+– Spezialgesetzliche Einzelaufgaben: circa 104,2 VZÄ Handelskammer Hamburg
 
 Körperschaft des öffentlichen Rechts
 

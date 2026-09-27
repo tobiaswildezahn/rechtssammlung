@@ -14,6 +14,7 @@ fragen: 45
 einzelfragen: 51
 antwortbloecke: 39
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14606", "21/3358", "21/7404"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57068"
@@ -45,7 +46,7 @@ Wie viele stationäre GÜA gibt es zurzeit wo genau in Hamburg und um welchen Ge
 
 Wie haben sich die Fallzahlen der mittels der stationären GÜA gemessenen Geschwindigkeitsüberschreitungen im Jahr 2016 entwickelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In Hamburg sind aktuell 24 stationäre Geschwindigkeitsüberwachungsanlagen (GÜA) installiert; im Übrigen siehe folgende Tabelle:
 
@@ -348,7 +349,7 @@ Wie viele stationäre RÜA gibt es zurzeit wo genau in Hamburg und um welchen Ge
 
 Wie haben sich die Fallzahlen der mittels der stationären RÜA gemessenen Rotlichtverstöße im Jahr 2016 entwickelt?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Derzeit verfügt Hamburg über elf stationäre Rotlichtüberwachungsanlagen (RÜA); im Übrigen siehe folgende Tabelle:
 
@@ -533,7 +534,7 @@ Wie viele Messeinheiten der mobilen Geschwindigkeitsmessung wurden 2016 in Hambu
 
 Wie viele Messeinheiten der mobilen Geschwindigkeitsmessung wurden von 2011 bis einschließlich 2015 durchgeführt? (Bitte jahresweise aufschlüsseln.)
 
-#### Antwort zu Fragen 26 bis 27
+#### Antwort zu Fragen 26 und 27
 
 Die Einsätze der Polizei finden mit den zur Verfügung stehenden personellen und technischen Ressourcen täglich rund um die Uhr statt und sind stark von der jeweiligen Lage geprägt, sodass derartige Planzahlen nicht sinnvoll sind.
 
@@ -588,7 +589,7 @@ Wie viele Rotlichtkontrollen wurden von der Polizei Hamburg 2016 durchgeführt u
 
 Wie hat sich die Zahl der von der Polizei Hamburg durchgeführten Rotlichtkontrollen von 2011 bis einschließlich 2015 entwickelt?
 
-#### Antwort zu Fragen 31 bis 32
+#### Antwort zu Fragen 31 und 32
 
 Die Anzahl der von der Polizei durchgeführten Rotlichtkontrollen ist in der folgenden Tabelle dargestellt; Kontrollen der PK werden erst seit dem Jahr 2015 statistisch ausgewertet:
 
@@ -636,7 +637,7 @@ Wie viele Einsätze mit den Videonachfahrsystemen (ProViDa) wurden von der Poliz
 
 Wie viele Einsätze mit den Videonachfahrsystemen (ProViDa) wurden von der Polizei Hamburg von 2011 bis einschließlich 2015 zur Vermeidung von Aggressions- und Geschwindigkeitsdelikten durchgeführt? (Bitte jahresweise aufschlüsseln.)
 
-#### Antwort zu Fragen 36 bis 37
+#### Antwort zu Fragen 36 und 37
 
 Die Anzahl der von der Polizei durchgeführten Einsätze mit dem Videonachfahrsystem ProViDa ist in der folgenden Tabelle dargestellt:
 
@@ -729,7 +730,7 @@ Wie stellt sich der Personalbestand bei der mobilen Verkehrsüberwachung in Hamb
 Wie hat sich der Personalbestand bei der mobilen Verkehrsüberwachung in Hamburg seit 2011 entwickelt? (Bitte jahresweise aufschlüsseln und jeweils die Stellenzahl, die Beschäftigtenzahl, die VZÄ und die Zahl unbesetzter Stellen zu den Stichtagen 1.1. und
 1.7. angeben.)
 
-#### Antwort zu Fragen 44 bis 45
+#### Antwort zu Fragen 44 und 45
 
 Die mobile Verkehrsüberwachung wird sowohl von der Verkehrsdirektion (VD) als auch den örtlichen PKs durchgeführt. Der Personalbestand kann nur bezogen auf die VD mitgeteilt werden. Darüber hinaus ist die Verkehrsüberwachung grundsätzlich Aufgabenbestandteil aller Vollzugskräfte der Polizei. Im Übrigen siehe Drs. 21/7404.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68433"
@@ -75,7 +76,7 @@ Welche Stelle ist für die Vergabe von Räumlichkeiten sowie die Genehmigung der
 
 Ist Politikern der Auftritt an der Universität Hamburg versagt worden? Wenn ja, welchen und warum?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die zahlreichen Anträge für die Überlassung von Räumen (jährlich ungefähr 1 500 Anfragen) wird durch eine Verwaltungsstelle bearbeitet („Tagungsmanagement und Hörsaalplanung“) auf der Grundlage der Raumvergabebestimmungen vom 1. Mai 2019, die von dieser Verwaltungsstelle angewendet werden. Im Übrigen siehe Vorbemerkung.
 

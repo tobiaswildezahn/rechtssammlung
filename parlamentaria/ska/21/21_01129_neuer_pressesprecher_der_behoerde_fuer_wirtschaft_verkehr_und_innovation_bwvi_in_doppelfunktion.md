@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49310"
@@ -83,17 +84,17 @@ Welche weiteren Aufträge mit jeweils welchem Volumen erhielt die Kommunikations
 
 Folgende Aufträge wurden seit 2007 erteilt:
 
- Auftraggeberin: Erneuerbare Energien Hamburg Clusteragentur GmbH:
+– Auftraggeberin: Erneuerbare Energien Hamburg Clusteragentur GmbH:
 
 2012: Textarbeiten, Honorar: 1.800 Euro zuzüglich Mehrwertsteuer
 
 2013 bis 2015: Lektoratsarbeiten, Honorar : 490 Euro p.a. zuzüglich Mehrwertsteuer
 
- Auftraggeberin: BSU:
+– Auftraggeberin: BSU:
 
 2014: Textarbeiten, Honorar: 1.950 Euro zuzüglich Mehrwertsteuer
 
- Auftraggeberin: Hamburg Tourismus GmbH:
+– Auftraggeberin: Hamburg Tourismus GmbH:
 
 2015: Textarbeiten, Honorar: 490 Euro zuzüglich Mehrwertsteuer
 

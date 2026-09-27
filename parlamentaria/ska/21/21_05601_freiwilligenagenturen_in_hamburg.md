@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12430"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54092"
@@ -63,7 +64,7 @@ Wie entwickelten sich die Zuweisungen durch die Freie und Hansestadt Hamburg an 
 
 Wie entwickelte sich der Personalstamm der Freiwilligenagenturen in den Jahren 2014, 2015 und 2016?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Behörde für Arbeit, Soziales, Familie und Integration (BASFI) fördert fünf Freiwilligenagenturen mit Zuwendungen (Festbetrags- beziehungsweise Fehlbedarfsfinanzierung):
 
@@ -129,7 +130,7 @@ Warum wurde die Zielkennzahl auf 450 Beratungen nahezu verdoppelt?
 
 Durch welche Maßnahmen wollen der Senat beziehungsweise die zuständigen Behörden es schaffen, die Zahl der Beratungen nahezu zu verdoppeln?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 

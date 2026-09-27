@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1149"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49729"
@@ -69,7 +70,7 @@ Wann soll die Handreichung an den Schulen verteilt werden?
 
 An welchen Schulen soll die Handreichung in welcher Auflage verteilt werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Handreichung wird rechtzeitig allen staatlichen und nichtstaatlichen allgemeinbildenden Schulen der Sekundarstufe sowie allen berufsbildenden Schulen zunächst elektronisch und anschließend als Druckfassung zur Verfügung gestellt.
 

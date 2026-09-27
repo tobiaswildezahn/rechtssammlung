@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10280", "21/5235", "21/12466", "21/7993", "21/5163", "21/1354", "21/10870", "21/3692", "21/8969", "21/6976", "21/5237", "21/13679", "21/6473", "21/13101", "21/11471", "21/12244", "21/8434", "21/14000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65729"
@@ -55,37 +56,37 @@ Im Übrigen siehe Vorbemerkung.
 
 Darüber hinaus sind für 2018 noch Kosten für folgende Projekte entstanden:
 
- Für die Beratung des Flüchtlingszentrums und die im Rahmen des Asyl-, Migrati-
+– Für die Beratung des Flüchtlingszentrums und die im Rahmen des Asyl-, Migrati-
 
 ons- und
 
- Integrationsfonds (AMIF) geförderten Integrationsprojekte insgesamt rund 1,3 Milli-
+– Integrationsfonds (AMIF) geförderten Integrationsprojekte insgesamt rund 1,3 Milli-
 
 onen Euro.
 
- Im Bereich Opferschutz rund 617 000 Euro für Projekte mit Flüchtlingsbezug.
+– Im Bereich Opferschutz rund 617 000 Euro für Projekte mit Flüchtlingsbezug.
 
- Für Transferleistungen in der Prävention von Rechtsextremismus rund 128 000
+– Für Transferleistungen in der Prävention von Rechtsextremismus rund 128 000
 
 Euro im Zuge der Kofinanzierung von Aufstockungen im Bundesprogramm „Demokratie leben!“ im Kontext der Zuwanderung Geflüchteter.
 
- Für die Freiwilligenkoordination und die Stärkung des freiwilligen Engagements in
+– Für die Freiwilligenkoordination und die Stärkung des freiwilligen Engagements in
 
 der Flüchtlingshilfe rund 886 000 Euro.
 
- Die Stabsstelle Gleichstellung und geschlechtliche Vielfalt hat den Trägern Mag-
+– Die Stabsstelle Gleichstellung und geschlechtliche Vielfalt hat den Trägern Mag-
 
 nus-Hirschfeld-Centrum e.V. und Intervention e.V. für die Jahre 2017/2018 die in Drs. 21/7993 angegebenen Mittel für die Förderung der Arbeit mit zugewanderten LSBTI* zur Verfügung gestellt.
 
- Im Rahmen der Umweltbildung 124 900 Euro; ergänzend rund 26 230,00 Euro für
+– Im Rahmen der Umweltbildung 124 900 Euro; ergänzend rund 26 230,00 Euro für
 
 Geflüchtete im Freiwilligen Ökologischem Jahr und 1 359,47 Euro für Gärtnern mit Geflüchteten.
 
- Für die Förderung interkultureller Projekte in 2017 und 2018 269 000 Euro.
+– Für die Förderung interkultureller Projekte in 2017 und 2018 269 000 Euro.
 
- Für interkulturelle Projekte 175 000 Euro aus der Kultur- und Tourismustaxe.
+– Für interkulturelle Projekte 175 000 Euro aus der Kultur- und Tourismustaxe.
 
- Für Flüchtlingsseminare 17 600 Euro bei der Landeszentrale für Politische Bildung.
+– Für Flüchtlingsseminare 17 600 Euro bei der Landeszentrale für Politische Bildung.
 
 Für die Beschulung in Internationalen Vorbereitungsklassen (IVK), Basisklassen und Lerngruppen in der Erstaufnahme sowie für die Anschlussförderung nach dem Besuch einer IVK und für die Direktbeschulung von Schülerinnen und Schülern ohne Deutschkenntnisse in Regelklassen der Klassenstufe 1 oder 2 wurden in 2018 Personalkosten in Höhe von rund 39,4 Millionen Euro aufgewendet.
 
@@ -177,11 +178,11 @@ In welcher Höhe flossen in den Jahren 2017 und 2018 Mittel vom Bund an Hamburg 
 
 Für die folgenden Projekte sind Mittel vom Bund geflossen:
 
- Deutschen Akademischen Auslandsdienstes (DAAD) an die Hochschulen im Rah-
+– Deutschen Akademischen Auslandsdienstes (DAAD) an die Hochschulen im Rah-
 
 men der Programme „Integra“ und „Welcome“.
 
- „Wege in Ausbildung und Arbeit für bildungsbenachteiligte junge Geflüchtete (Ü18)
+– „Wege in Ausbildung und Arbeit für bildungsbenachteiligte junge Geflüchtete (Ü18)
 
 - WAA“ (Maßnahme für nicht mehr schulpflichtige Jugendliche/über-18-Jährige) hat das HIBB in 2018 50 000 Euro von der Agentur für Arbeit erhalten.
 

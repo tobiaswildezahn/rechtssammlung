@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4781"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61432"
@@ -64,7 +65,7 @@ Wie viele Mitglieder hat Scientology gegenwärtig nach Kenntnis des Senats?
 
 Wie hat sich die Mitgliederzahl seit dem 1. Januar 2016 nach Kenntnis des Senats entwickelt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Verfassungsschutzbericht 2016, http://www.hamburg.de/contentblob/8873924/ 38b7f14ba1da5dd3693b6b1a833d9c43/data/verfassungsschutzbericht-2016-lfvhh.pdf. Die dort dargestellten Erkenntnisse in Bezug auf die Fragestellung sind weiterhin aktuell.
 
@@ -101,7 +102,7 @@ Inwiefern hat sich der Bedarf nach einer Ausstiegsberatung seit dem
 
 Wie viele von ihnen sind nach Kenntnis des Senats bei Scientology ausgestiegen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Neben der klassischen Ausstiegsberatung erfolgen punktuelle Beratungen für Angehörige von Scientologen sowie Personen, die aus Scientology-nahen Firmen ausscheiden wollen. Teilweise wird lediglich Unterstützung an einem bestimmten Zeitpunkt des Distanzierungsprozesses nachgefragt. Das LfV Hamburg erfasst alle Fälle statistisch, differenziert dabei aber nicht nach Ansatz oder Ergebnis der Beratungen. Inwieweit die Beratung tatsächlich zu einem Ausstieg führt, wird dem LfV Hamburg nicht in allen Fällen bekannt. Längerfristige Aussteigerbetreuungen kommen nur vereinzelt vor.
 
@@ -122,7 +123,7 @@ Wie viele verschiedene Informationsbroschüren hat Scientology seit dem
 
 Um welche Themen ging es dabei?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Dem LfV Hamburg liegen Erkenntnisse über die Verteilung der Broschüren der Scientology-Unterorganisationen „Sag Nein zu Drogen – Sag Ja zum Leben e.V.“, „Kommission für Verstöße der Psychiatrie gegen die Menschenrechte“ und „Der Weg zum Glücklichsein“ – eine Anleitung zur „Lebensverbesserung“ in Hamburg vor.
 

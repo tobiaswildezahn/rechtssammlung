@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 20
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15083"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68007"
@@ -65,17 +66,17 @@ Wie viele Mitarbeiter aus jeweils welchen Gewerken soll das Handwerkerteam von f
 
 Das Handwerkerteam soll folgende Gewerke und Beschäftigte umfassen:
 
- Leitung: eine Bereichsleitung
+– Leitung: eine Bereichsleitung
 
- Elektro/DGUV V3-Prüfung: eine Teamleitung, zehn Beschäftigte,
+– Elektro/DGUV V3-Prüfung: eine Teamleitung, zehn Beschäftigte,
 
 drei Auszubildende
 
- Maler: eine Teamleitung, zehn Beschäftigte, zwei Auszubildende
+– Maler: eine Teamleitung, zehn Beschäftigte, zwei Auszubildende
 
- Bautechnik: eine Teamleitung, sechs Beschäftigte (zwei Sanitär, drei Tischler, ein Fliesenleger)
+– Bautechnik: eine Teamleitung, sechs Beschäftigte (zwei Sanitär, drei Tischler, ein Fliesenleger)
 
- Kaufleute: eine Teamleitung, drei Beschäftigte
+– Kaufleute: eine Teamleitung, drei Beschäftigte
 
 ### Frage 3
 
@@ -85,15 +86,15 @@ Wie viele Mitarbeiter aus jeweils welchen Gewerken sind derzeit im Handwerkertea
 
 Es sind zurzeit folgende Gewerke und Beschäftigte vorhanden:
 
- Leitung: eine Bereichsleitung und zwei kaufmännische Mitarbeitende (1VZ, 1TZ)
+– Leitung: eine Bereichsleitung und zwei kaufmännische Mitarbeitende (1VZ, 1TZ)
 
- Elektro/DGUV V3-Prüfung: eine Teamleitung, sechs Beschäftigte,
+– Elektro/DGUV V3-Prüfung: eine Teamleitung, sechs Beschäftigte,
 
 eine Auszubildende
 
- Maler: eine Teamleitung, sechs Beschäftigte, vier Arbeitnehmerüberlassung, ein Auszubildender
+– Maler: eine Teamleitung, sechs Beschäftigte, vier Arbeitnehmerüberlassung, ein Auszubildender
 
- Bautechnik: eine Teamleitung, vier Mitarbeitende (zwei Sanitär, zwei Tischler)
+– Bautechnik: eine Teamleitung, vier Mitarbeitende (zwei Sanitär, zwei Tischler)
 
 ### Frage 4
 
@@ -120,25 +121,25 @@ Wie viele Auftragsvergaben haben bei f & w in den Jahren 2018 und 2019 jeweils f
 
 Im Jahr 2018 erfolgten insgesamt 178 Auftragsvergaben aus Vergabeverfahren für Bauleistungen. Die Anzahl der Aufträge unterteilt sich wie folgt:
 
- < 25 000 Euro:
+– < 25 000 Euro:
 
- 25 000 – 50 000 Euro:
+– 25 000 – 50 000 Euro:
 
- 50 000 – 150 000 Euro:
+– 50 000 – 150 000 Euro:
 
- > 150 000 Euro:
+– > 150 000 Euro:
 
 Aus Rahmenverträgen erfolgten insgesamt 6 735 Auftragsvergaben für Handwerkerleistungen.
 
 Im Jahr 2019 erfolgten insgesamt 158 Aufträge aus Vergabeverfahren für Bauleistungen. Die Anzahl der Aufträge unterteilt sich wie folgt:
 
- < 25 000 Euro:
+– < 25 000 Euro:
 
- 25 000 – 50 000 Euro:
+– 25 000 – 50 000 Euro:
 
- 50 000 – 150 000 Euro:
+– 50 000 – 150 000 Euro:
 
- > 150 000 Euro: zehn
+– > 150 000 Euro: zehn
 
 Aus Rahmenverträgen erfolgten insgesamt 4 552 Auftragsvergaben für Handwerkerleistungen.
 
@@ -150,7 +151,7 @@ Wie viele Auftragsvergaben konnten aufgrund der Kapazitäten im Bau-/ Handwerker
 
 Wie hat sich die durchschnittliche Anzahl der Angebote bei Ausschreibungen für Bau- und Handwerkerdienstleistungen von f & w in den einzelnen Jahren seit 2016 entwickelt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Aufgrund fehlender oder unwirtschaftlicher Angebote erfolgte im Jahr 2018 die Aufhebung von dreizehn Ausschreibungen, im Jahr 2019 die Aufhebung von elf Ausschreibungen. Betroffen waren die Gewerke Elektroinstallationsarbeiten, Klempnerarbeiten, Malerarbeiten, Zimmer- und Holzarbeiten Trockenbauarbeiten, Erdarbeiten, Gerüstbauarbeiten, Metallbau- und Schmiedearbeiten, Mauerarbeiten und Dachdeckerarbeiten. Zudem kam es in etlichen Fällen zu einer Nicht-Annahme von Rahmenvertragspartnern, Kleinaufträge aus den bestehenden Rahmenverträgen anzunehmen. Im Übrigen werden die Daten statistisch nicht erfasst.
 

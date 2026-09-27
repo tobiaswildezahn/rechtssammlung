@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2063", "21/10056"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61254"
@@ -56,6 +57,6 @@ Welche konkreten Schritte hat der Senat bisher unternommen, um die BAföG-Lücke
 
 Welche konkreten Schritte plant der Senat noch bis wann, um die BAföG-Lücke zu schließen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Auf Initiative der zuständigen Behörde wird das Thema auf Bundesebene seit geraumer Zeit sowohl auf politischer als auch auf fachlicher Ebene diskutiert. Ein Antrag Hamburgs zur Änderung des Bundesausbildungsförderungsgesetzes wurde auf der Konferenz der Justizministerinnen und Justizminister im November 2017 von den übrigen Ländern nicht unterstützt. Deswegen wirbt Hamburg im Ausschuss der Konferenz der Justizministerinnen und Justizminister zur Koordinierung der Juristenausbildung (Koordinierungsausschuss) intensiv für eine Überprüfung der Regelstudienzeit. Während die Reaktionen der anderen Länder zu Beginn dieses Diskussionsprozesses noch eher zurückhaltend ausfielen, wurde Hamburg auf der letzten Sitzung des Koordinierungsausschusses gebeten, das Thema für die nächste Sitzung im Herbst 2018 vorzubereiten. Die zuständige Behörde strebt eine Überprüfung der Regelstudienzeit für den Examensstudiengang Rechtswissenschaft im kommenden Jahr an. Dieser Zeithorizont erscheint schon deshalb sinnvoll, weil zunächst das Ergebnis der Harmonisierungsbestrebungen in der Juristenausbildung abgewartet werden musste. Eine Beschlussempfehlung zur Überprüfung der Regelstudienzeit soll möglichst für die Konferenz der Justizministerinnen und Justizminister im Frühjahr 2019 und im Einvernehmen mit den Mitgliedern des Koordinierungsausschusses erarbeitet werden.

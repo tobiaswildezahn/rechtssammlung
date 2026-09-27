@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 41
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2248", "21/2467", "21/2561", "21/1801"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51562"
@@ -185,7 +186,7 @@ Wann und mit welcher Begründung wurde das Kind obduziert? Wann lag das Obduktio
 
 Welche Todesursache hat die Obduktion ergeben?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Das Kind wurde am 8. Februar 2016 auf Anordnung des Amtsgerichts Hamburg obduziert. Die Anordnung wurde von der Staatsanwaltschaft beantragt, weil ein ärztlicher Behandlungsfehler nicht von vornherein auszuschließen war. Als Todesursache wurde ein Multiorganversagen festgestellt. Die Ursache hierfür ist noch nicht geklärt. Ein schriftliches Sektionsgutachten liegt noch nicht vor.
 

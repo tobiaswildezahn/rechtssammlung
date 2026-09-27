@@ -14,6 +14,7 @@ fragen: 37
 einzelfragen: 42
 antwortbloecke: 35
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6729", "21/6572"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56092"
@@ -229,7 +230,7 @@ a) in den morgendlichen Hauptverkehrszeiten,
 b) in den Verkehrszeiten tagsüber,
 c) durchschnittlich über den gesamten Werktag?
 
-#### Antwort zu Fragen 21 bis 22
+#### Antwort zu Fragen 21 und 22
 
 Im Qualitätssteuerungsverfahren des HVV ist dieser Wert für den Busverkehr nicht definiert. Die Qualität der Pünktlichkeit im Busverkehr wird mittels Kundenbefragungen ermittelt.
 
@@ -368,7 +369,7 @@ b) anteiliger Abnutzung,
 c) anteiliger Wartung und Reparaturen sowie
 d) Personalkosten.
 
-#### Antwort zu Fragen 36 bis 37
+#### Antwort zu Fragen 36 und 37
 
 Die hier gewünschten Angaben zu den aufzuschlüsselnden Betriebskosten sind Betriebs- und Geschäftsgeheimnisse der ATG Alster-Touristik GmbH (ATG), die vertraulich zu behandeln sind und deshalb nicht veröffentlicht werden können. Die Offenlegung der Informationen wäre geeignet, bei der ATG vorhandenes kaufmännisches Wissen, insbesondere die eigenen Kalkulationsansätze, Marktkonkurrenten zugänglich zu machen und so die Wettbewerbsposition des Unternehmens nachteilig zu beeinflussen.
 

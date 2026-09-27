@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 11
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2839"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51727"
@@ -57,7 +58,7 @@ d) wer stellt dieses Personal und wer trägt dafür die Kosten?
 e) inwieweit erfüllt das Verkehrskonzept die Zusage des Senats gegenüber den Anwohnern am Kaiserkai, deren Lärm- und Luftschadstoffbelastung durch Besucherverkehre und wartende Fahrzeuge zu minimieren?
 f) kann das Konzept der Drucksache beigefügt werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Elbphilharmonie wird durch die Schnellbahnlinien U3 und U4 sowie eine Bus- und eine Fährlinie erschlossen. Im Gebäude selbst finden sich öffentlich zugängliche Stellplätze für den motorisierten Individualverkehr. Weitere Parkhausanlagen finden sich in der HafenCity. Abstellmöglichkeiten für Touristenbusse sind in der Speicherstadt vorgesehen. Die genaue Lage der Taxenstandplätze und der Fahrradabstellmöglichkeiten ist noch in der Abstimmung und wird unter Berücksichtigung der Interessen des Veranstaltungsbetriebs und der Anwohnerinnen und Anwohner festgelegt werden.
 

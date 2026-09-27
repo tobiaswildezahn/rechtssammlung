@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2242", "21/1002", "21/1271", "21/1568", "21/1906", "21/2232", "21/2599", "21/2837", "21/3227", "21/3646", "21/3915", "21/4293", "21/4734"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53360"
@@ -43,15 +44,15 @@ Auf welchen P+R-Anlagen sind aktuell Flüchtlingsunterkünfte eingerichtet und w
 
 Auf P+R-Anlagen befinden sich derzeit folgende Einrichtungen der öffentlich-rechtlichen Flüchtlingsunterbringung:
 
- Hagenbecks Tierpark/Lokstedter Höhe (166 Stellplätze, seit September 2013),
+– Hagenbecks Tierpark/Lokstedter Höhe (166 Stellplätze, seit September 2013),
 
- Nettelnburg/Friedrich-Frank-Bogen (234 Stellplätze, seit Dezember 2014),
+– Nettelnburg/Friedrich-Frank-Bogen (234 Stellplätze, seit Dezember 2014),
 
- Kiwittsmoor (309 Stellplätze, seit Oktober 2015),
+– Kiwittsmoor (309 Stellplätze, seit Oktober 2015),
 
- Niendorf-Markt (114 Stellplätze, seit November 2015) und
+– Niendorf-Markt (114 Stellplätze, seit November 2015) und
 
- Mittlerer Landweg (92 Stellplätze, seit November 2015).
+– Mittlerer Landweg (92 Stellplätze, seit November 2015).
 
 ### Frage 2
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 21
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4847", "21/8958"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60415"
@@ -60,7 +61,7 @@ Ist die Ausschreibung der Stelle des Geschäftsführers (E 15), die in der Antwo
 
 Wenn die finale Konzeptualisierung der Stellenmatrix erst nach Einstellung eines/r Geschäftsführers/-in möglich ist: Liegt diese finale Stellenmatrix bereits vor? Und welchen Inhalt hat diese? Wenn nein: warum nicht? Und wann soll diese vorliegen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Das Ausschreibungsverfahren für die Stelle der Geschäftsführung endete im August 2017. Die Stelle wurde zum 1. Dezember 2017 besetzt. Daher liegt noch keine finale Stellenmatrix vor.
 

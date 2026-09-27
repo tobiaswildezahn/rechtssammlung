@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5081"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55314"
@@ -123,13 +124,13 @@ Welche Maßnahmen und Instrumente hat der Senat zur Erhöhung der Erwerbsbeteili
 
 Im Rahmen der Hamburger Fachkräftestrategie und des gemeinsamen Arbeitsmarktprogramms verfolgt der Senat das Ziel, die Erwerbsbeteiligung von Frauen mit/ohne Migrationshintergrund zu steigern. Zur Zielerreichung hat der Senat verschiedene Maßnahmen ergriffen:
 
- Der Senat fördert seit dem 1.7.2015 das Projekt „Fachkräftesicherung bei KMU“.
+– Der Senat fördert seit dem 1.7.2015 das Projekt „Fachkräftesicherung bei KMU“.
 
- Insbesondere für Geflüchtete wird derzeit an der Konzeptionierung eines Pro-
+– Insbesondere für Geflüchtete wird derzeit an der Konzeptionierung eines Pro-
 
 gramms gearbeitet, dass Frauen mit Fluchterfahrung auf den deutschen Arbeitsmarkt vorbereitet.
 
- Im Rahmen des Bundesprogramms BIWAQ (Bildung, Wirtschaft, Arbeit im Quar-
+– Im Rahmen des Bundesprogramms BIWAQ (Bildung, Wirtschaft, Arbeit im Quar-
 
 tier) und mit Kofinanzierungsmitteln der Behörde für Arbeit, Soziales, Familie und Integration wird in den Hamburger Bezirken Bergedorf und Harburg das „Lern- und Trainingszentrum für Frauen aus aller Welt“ (LuTZi) gefördert.
 
@@ -167,19 +168,19 @@ In den berufsbildenden Schulen des Hamburger Instituts für Berufliche Bildung (
 
 Folgende Angebote wenden sind ausschließlich an junge Menschen mit Migrationshintergrund. Sie werden vorrangig von Mädchen und jungen Frauen mit Migrationshintergrund angenommen:
 
- die Berufliche Weiterbildung für Einwanderer und Einwanderinnen zur staatlich
+– die Berufliche Weiterbildung für Einwanderer und Einwanderinnen zur staatlich
 
 anerkannten Erzieherin beziehungsweise zum staatlich anerkannten Erzieher an der Staatlichen Fachschule für Sozialpädagogik Altona
 
- die vollqualifizierende Berufsfachschule für Sozialpädagogische Assistenz für Mig-
+– die vollqualifizierende Berufsfachschule für Sozialpädagogische Assistenz für Mig-
 
 rantinnen und Migranten an der Staatlichen Fachschule für Sozialpädagogik Altona
 
- die Qualifizierungsmaßnahme zur „Staatlich anerkannten Erzieherin“/zum „Staat-
+– die Qualifizierungsmaßnahme zur „Staatlich anerkannten Erzieherin“/zum „Staat-
 
 lich anerkannten Erzieher“ für pädagogisch vorgebildete Migrantinnen und Migranten an der Staatlichen Fachschule für Sozialpädagogik Wagnerstraße
 
- die Qualifizierungsmaßnahme zur „Sozialpädagogischen Assistentin“/zum „Sozial-
+– die Qualifizierungsmaßnahme zur „Sozialpädagogischen Assistentin“/zum „Sozial-
 
 pädagogischen Assistenten“ für pädagogisch vorgebildete Migrantinnen und Migranten an der Staatlichen Fachschule für Sozialpädagogik Wagnerstraße
 

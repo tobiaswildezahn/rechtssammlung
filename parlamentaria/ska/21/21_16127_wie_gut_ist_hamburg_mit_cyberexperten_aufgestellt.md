@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65634"
@@ -53,9 +54,9 @@ Wie wird sich Cyberkriminalität aus Sicht des Cyber-Experten beim LKA in den n�
 
 Die Polizei erfasst Straftaten gemäß dem Straftatenkatalog der Richtlinien für die Erfassung und Verarbeitung der Daten in der Polizeilichen Kriminalstatistik (PKS). Das Kriminalitätsphänomen Cyberkriminalität wird in der PKS ab 2019 in zwei Kategorien als
 
-• Cyberkriminalität im engeren Sinne (Straftaten, die sich gegen das Internet, weitere Datennetze, informationstechnische Systeme oder deren Daten richten) und
+– Cyberkriminalität im engeren Sinne (Straftaten, die sich gegen das Internet, weitere Datennetze, informationstechnische Systeme oder deren Daten richten) und
 
-• Cyberkriminalität als Tatmittel (Straftaten, die mittels dieser Informationstechnik begangen werden)
+– Cyberkriminalität als Tatmittel (Straftaten, die mittels dieser Informationstechnik begangen werden)
 
 erfasst.
 
@@ -104,7 +105,7 @@ Ist die Schaffung spezieller Laufbahnen für IT-Kriminalisten nach Vorbild der L
 
 Gibt es konkrete Überlegungen für speziell auf solche Spezialisten Laufbahnen zugeschnittene Besoldungs- und Beförderungsperspektiven, die für geeignete Bewerber im angespannten Arbeitsmarkt Attraktivität versprechen würden? Wenn ja, wann ist hier mit konkreten Maßnahmen zu rechnen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Ja. Die Überlegungen hierzu sind noch nicht abgeschlossen.
 

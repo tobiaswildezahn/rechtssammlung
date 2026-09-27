@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5867", "21/5147"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54511"
@@ -75,7 +76,7 @@ Unterkünften andere Platzzahlen berechnet?
 Wenn ja, welche?  
 Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Fachbehörde berechnet Platzbedarfe für neue Wohnungsbauprojekte aufgrund der geplanten Wohneinheiten, die für Familien ausgelegt sind. Circa 20 Prozent dieser Wohneinheiten werden als Orientierung für Kita-Platzbedarfe zugrunde gelegt.
 
@@ -89,7 +90,7 @@ Für welche der zehn neuen Einrichtungen liegen bereits Vereinbarungen mit Träg
 
 Für welche der zehn neuen Einrichtungen wurden bereits Anfragen bei Trägern vorgenommen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Im Rahmen eines Interessenbekundungsverfahrens der IBA ist die Entscheidung getroffen worden, für die Kita Vogelkamp einen Mietvertrag mit dem DRK Kreisverband Harburg abzuschließen. Für acht Planungen sind noch keine Entscheidungen getroffen worden. Bei einer Planung handelt es sich um eine neue Kita des Trägers Weltwissen-Kitas gGmbH.
 

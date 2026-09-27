@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65355"
@@ -71,41 +72,43 @@ fördernde Institution
 
 2015
 
-  
+–  
 20 Personen erhielten  
 Leistungen vom  
 Jobcenter/Agentur für Arbeit  
-  
+–  
 2 BaföG  
 2016
 
-  
+–  
 27 Personen erhielten  
 Leistungen vom  
 Jobcenter/Agentur für Arbeit  
-  
+–  
 4 BaföG  
 2017
 
-  
+–  
 26 Personen erhalten  
 Leistungen vom  
 Jobcenter/Agentur für Arbeit  
-  
+–  
 1 Person erhält Leistungen vom  
 Berufsförderungsdienst  
-  
+–  
 5 BaföG  
-  
+–  
 1 Leistungen aus  
 Rentenversicherung  
 2018
 
- 22 Personen erhalten
+– 22 Personen erhalten
 
-Leistungen vom Jobcenter/ Agentur für Arbeit  2 Leistungen aus
+Leistungen vom Jobcenter/ Agentur für Arbeit
+– 2 Leistungen aus
 
-Rentenversicherung  3 BaföG
+Rentenversicherung
+– 3 BaföG
 
 ### Frage 3
 

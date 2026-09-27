@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10551"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56313"
@@ -57,7 +58,7 @@ Welche weiteren Untersuchungen oder Prüfungen des Grundstücks des Hallenbades 
 
 Welche weiteren Untersuchungen oder Prüfungen des Grundstücks des Hallenbades sowie der umliegenden Grundstücke sollen vorgenommen werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Keine.
 

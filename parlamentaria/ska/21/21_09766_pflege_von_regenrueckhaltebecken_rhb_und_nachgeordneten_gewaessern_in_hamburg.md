@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 22
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58572"
@@ -152,7 +153,7 @@ Wer ist zuständig für die Pflege und Wartung der nachgeordneten abfließenden 
 Liegt der Zuständigkeitsbereich zur Pflege der nachgeordneten Gewässer in der Hand von verschiedenen Akteuren (zum Beispiel Stadt, Bezirke, Umweltverbände, private Dienstleister, sonstige)?
 a) Wenn ja, wie sind diese miteinander verknüpft und wer koordiniert die Arbeit?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Antworten zu 5. und 6.
 

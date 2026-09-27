@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 20
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5141"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58890"
@@ -80,7 +81,7 @@ Wie hoch werden dem Senat zufolge künftig die Kosten für die hälftige Beteili
 
 Inwiefern und in welcher Höhe entstehen durch die Wahlmöglichkeit dauerhaft Mehrkosten für die Freie und Hansestadt Hamburg?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Kosten für die bereits jetzt freiwillig in der gesetzlichen Krankenversicherung versicherten Beamtinnen und Beamten werden auf 5,8 Millionen Euro jährlich geschätzt. Weitere nicht prognostizierbare Mehraufwendungen sind von der Entscheidung neu eingestellter Beamtinnen und Beamten abhängig, eine Krankenvollversicherung abzuschließen und eine pauschale Beihilfe in Anspruch zu nehmen. Diese Aufwendungen werden durch die ansonsten zu gewährenden individuell berechneten Beihilfen gemindert.
 

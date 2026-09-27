@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10652"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60483"
@@ -88,7 +89,7 @@ Wie viele Klassen AvM-Dual gibt es derzeit in Hamburg? Wie viele Klassen wurden 
 
 Wie viele Schülerinnen und Schülern wurden AvM-Dual seit Juni 2017 insgesamt neu zugewiesen? Bitte nach Monaten aufschlüsseln.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Zum Stichtag 18. Dezember 2017 gibt es152 AvM-Dual Klassen in Hamburg. Für die Anzahl neu eingerichteter AvM-Dual Klassen im Jahr 2017 und seit Juni 2017 zugewiesener Schülerinnen und Schüler in AvM-Dual siehe folgende Tabellen:
 

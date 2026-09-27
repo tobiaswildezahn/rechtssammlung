@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 4
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2550", "21/1838"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60584"
@@ -51,7 +52,7 @@ Plant der Senat kurzfristig eine bessere Anbindung der UPW Duvenacker an den ÖP
 
 Welche Mehrkosten würde es verursachen, die Linie 181 regelhaft sowohl unter der Woche als auch am Wochenende bis zur Haltestelle Eidelstedt Zentrum fahren zu lassen, wo eine Anbindung unter anderem an die AKN bestünde?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die HOCHBAHN prüft derzeit in Abstimmung mit der Hamburger Verkehrsverbund GmbH (HVV) und der zuständigen Behörde die verkehrlichen und wirtschaftlichen Voraussetzungen einer Ausweitung des Angebotes der Stadtbuslinie 181.
 

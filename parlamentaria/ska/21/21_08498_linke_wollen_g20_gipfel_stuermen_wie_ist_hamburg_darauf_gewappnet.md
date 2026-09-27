@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 28
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7164", "21/8416", "21/5171", "21/8276"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57228"
@@ -59,7 +60,7 @@ Am 17. März 2017 brannten zwei Polizeiwagen aus. Ein Bekennerschreiben lag vor.
 
 In der Nacht zum 27. März 2017 brannten erneut sechs Polizeitransporter aus. Welche Erkenntnisse liegen der zuständigen Behörde zum Hintergrund der Brandstiftung sowie zu den mutmaßlichen Tätern vor?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bei diesen Brandstiftungen ist von politisch motivierten Taten im Zusammenhang mit Bezug zum G20-Gipfel auszugehen. Die Staatsschutzabteilung des Landeskriminalamtes (LKA) 7 hat die Ermittlungen übernommen. Entsprechende sogenannte Bekennerschreiben der kriminellen Täter liegen vor.
 
@@ -205,7 +206,7 @@ Ab wann soll die zentrale Gefangenensammelstelle in Betrieb genommen werden?
 
 Wie viel Personal (VZÄ) ist für den Betrieb der zentralen Gefangenensammelstelle vor Ort erforderlich und mit welchem Personal wird diese besetzt? Bitte unter Angabe von Polizei einschließlich Sparte und/oder Justizvollzug, Hamburg und/oder andere Bundesländer nennen.
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Die Gefangenensammelstelle wird zeitgerecht vor dem eigentlichen Gipfel den Betrieb aufnehmen. Darüber hinaus betreffen die Fragen die Einsatztaktik der Polizei und Sicherheitsfragen, zu denen der Senat aus grundsätzlichen Erwägungen keine Angaben macht.
 

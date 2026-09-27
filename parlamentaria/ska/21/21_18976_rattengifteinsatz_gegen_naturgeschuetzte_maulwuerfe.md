@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 24
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68661"
@@ -132,7 +133,7 @@ Ist das gemäß Ziffer 7. eingesetzte Gift schädlich für die Maulwürfe, Eichh
 
 Wie stellt der Senat sicher, dass die auf dem Gelände beheimateten Tiere und insbesondere die vorhandene Maulwurfpopulation durch das eingesetzte Rattengift keinen Schaden nehmen? Bitte detailliert erläutern.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Rattengift ist vor allem bei oraler Aufnahme auch für andere Säugetiere giftig. Ein kurzes Berühren oder Riechen hat keine Vergiftungserscheinungen zur Folge. Dem Rattengift ist immer ein Bitterstoff (Denatonium) beigefügt. Diesen Bitterstoff können Ratten nicht wahrnehmen, andere Tiere aber schon.
 

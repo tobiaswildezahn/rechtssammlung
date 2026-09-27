@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65323"
@@ -59,7 +60,7 @@ Nach welchen Kriterien werden die Hamburger Spitzenpolitiker als Interviewpartne
 
 Gehört es zum Konzept der Sendereihe, über einen längeren Zeitraum wenigstens einzelne Hamburger Spitzenpolitiker aller in der Bürgerschaft, im Bundestag oder im EU-Parlament vertretenen Parteien zu interviewen und dadurch die Vielfalt der wichtigsten Hamburger Parteien/ Strömungen abzubilden? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Auswahl erfolgt nach journalistischen Kriterien. Entsprechend dem Thema der Sendung werden Gesprächspartnerinnen und Gesprächspartner eingeladen, die politische Verantwortung für das jeweilige Fachgebiet tragen.
 

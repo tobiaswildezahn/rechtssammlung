@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12780", "21/13267"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63628"
@@ -47,7 +48,7 @@ Bezüglich der Mietpreise, zu denen die Appartements in der Walddörfer Straße 
 
 Bezüglich der Bedarfsgemeinschaften nach dem SGB heißt es in Drs. 21/13267, eine erste Auswertung habe ergeben, dass die durch den Außendienst von Jobcenter ermittelten Wohnungsgrößen in mindestens vier Fällen zulasten der leistungsberechtigten Personen von den Angaben in den Mietverträgen abweichen. Die Prüfungen von Jobcenter seien noch nicht abgeschlossen. Auf welchem Stand befinden sich die Prüfungen und wann ist mit abschließenden Auswertungen und Ergebnissen zu rechnen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Hinsichtlich des Aktionstages in Wandsbek am 19.04.2018 erfolgte eine Mietkostenüberprüfung bei Beziehern von Sozialleistungen nach dem SGB II und SGB XII.
 
@@ -55,11 +56,11 @@ Bezüglich der beiden Bezieher von Grundsicherungsleistungen nach dem SGB XII si
 
 Die Prüfungen von Jobcenter team.arbeit.hamburg sind inzwischen abgeschlossen:
 
- Es wurden 13 Fälle (Bedarfsgemeinschaften) ermittelt, in denen die tatsächliche
+– Es wurden 13 Fälle (Bedarfsgemeinschaften) ermittelt, in denen die tatsächliche
 
 Miete die ortsübliche Miete um mehr als 50 Prozent überschreitet (Verdacht auf Mietwucher).
 
- In zwei der 13 vorgenannten Fälle weichen zudem die tatsächlichen Wohnungs-
+– In zwei der 13 vorgenannten Fälle weichen zudem die tatsächlichen Wohnungs-
 
 größen um mehr als 10 Prozent zulasten der leistungsberechtigten Personen von den mietvertraglichen Angaben ab. Nach der Rechtsprechung bleiben diejenigen Wohnungen unberücksichtigt, bei denen die Abweichung unter 10 Prozent liegt (BGH v. 24.03.2004, NZM 2004, 456).
 
@@ -81,33 +82,33 @@ Ist seitens des Eigentümers bereits ein Gutachten über den festgestellten Schi
 
 Es ist dem Bezirksamt ein Sanierungskonzept nach Leitfaden (2017) der Innenlufthygiene-Kommission des Umweltbundesamtes unter weitestgehendem Verzicht auf Biozide und Bauchemie vorgelegt worden. Die Sanierung der 25 von Schimmel befallenen Wohnungen sieht vor:
 
- Ausräumen der Wohnung, Einlagerung des Inventars sowie Errichtung einer
+– Ausräumen der Wohnung, Einlagerung des Inventars sowie Errichtung einer
 
 Staubschleuse zum Treppenraum
 
- Entfernung oberflächlicher Sporenkörper durch Abwaschen mit Ethanollösung 70
+– Entfernung oberflächlicher Sporenkörper durch Abwaschen mit Ethanollösung 70
 
 Prozent
 
- Entfernung von Tapete und Reinigung von anderen haftungsstörenden Substan-
+– Entfernung von Tapete und Reinigung von anderen haftungsstörenden Substan-
 
 zen an befallenen Wänden/Decken sowie fachgerechter Entsorgung
 
- Stark mit Schimmel befallenen oder maroden Wandputz abschlagen und entsor-
+– Stark mit Schimmel befallenen oder maroden Wandputz abschlagen und entsor-
 
 gen. Die freigelegten Mauerwerksflächen restlos säubern.
 
- Wohnung komplett mit Industriesauger absaugen, Oberflächen mit Ethanollösung
+– Wohnung komplett mit Industriesauger absaugen, Oberflächen mit Ethanollösung
 
 \> 70 Prozent abwischen.
 
- Aufbringen von Wasserstoffperoxidlösung > 10 Prozent auf freigelegtes Mauerwerk
+– Aufbringen von Wasserstoffperoxidlösung > 10 Prozent auf freigelegtes Mauerwerk
 
- Putzausbesserung mit Baumit Kalkin Kalkputz KP 36 W
+– Putzausbesserung mit Baumit Kalkin Kalkputz KP 36 W
 
- Wandanstrich mit Brillux Silikat-Innenfarbe ELF 1806 weiß
+– Wandanstrich mit Brillux Silikat-Innenfarbe ELF 1806 weiß
 
- Reinigung und Rückverbringung des Inventars
+– Reinigung und Rückverbringung des Inventars
 
 Die Sanierung wird voraussichtlich im September beginnen und Ende Oktober 2018 beendet sein.
 

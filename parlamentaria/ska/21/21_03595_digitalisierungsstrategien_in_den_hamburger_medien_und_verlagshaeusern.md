@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51951"
@@ -55,19 +56,19 @@ Welche Beratungs- und Serviceleistungen hinsichtlich der digitalen Transformatio
 
 Die DJI wurde im Sommer 2015 ins Leben gerufen und ist das jüngste Angebot der Hamburg Media School (HMS) zur Unterstützung der Digitalisierungsaktivitäten in Medien- und Verlagshäusern. Ziel der Initiative ist, den digitalen Qualitätsjournalismus zu stärken und im Schulterschluss mit der Hamburger Medienwirtschaft und institutionellen Partnern Lösungen und Handlungsoptionen in Bezug auf die digitale Transformation zu entwickeln – zum Beispiel bei der praktischen Vermittlung von Innovationswissen, beim handwerklichen Know-how-Transfer, bei berufs- und medienethischen Fragestellungen oder bei der Entwicklung digitaler Geschäftsmodelle. Initiator der DJI ist der Masterstudiengang „Digital Journalismus“. Zu den konkreten Maßnahmen der DJI gehören bisher:
 
- Aufbau eines Talent- und Förderstipendiensystems für Nachwuchsjournalisten
+– Aufbau eines Talent- und Förderstipendiensystems für Nachwuchsjournalisten
 
- Workshop-Angebot zur inner- und außerbetrieblichen journalistischen Weiterbil-
+– Workshop-Angebot zur inner- und außerbetrieblichen journalistischen Weiterbil-
 
 dung
 
- Veranstaltungen (zum Beispiel Innovationskonferenzen, Hackathons und Messe-
+– Veranstaltungen (zum Beispiel Innovationskonferenzen, Hackathons und Messe-
 
 Events)
 
- Umsetzung von Exkursionen und Studienreisen für Redakteure und Journalisten
+– Umsetzung von Exkursionen und Studienreisen für Redakteure und Journalisten
 
- Praxis- und Projektpartnerschaften mit Medien- und Verlagshäusern
+– Praxis- und Projektpartnerschaften mit Medien- und Verlagshäusern
 
 Darüber hinaus bildet die HMS derzeit in fünf Studiengängen Nachwuchs für die (digitale) Medienwirtschaft aus: Digital Media (B.A.), MBA in Media Management (unter anderem mit einem Online-Marketing-Track), EMBA in Media Management (berufsbegleitend), Digital Journalism (EMAJ, berufsbegleitend), Film (M.A.). Themen der Digitalisierung gewinnen in allen Studiengängen zunehmend an Bedeutung. In Praxisprojekten erarbeiten Studierende für die kooperierenden Medien- und Verlagsunternehmen Konzepte zu aktuellen, oft digitalisierungsbezogenen Fragestellungen.
 

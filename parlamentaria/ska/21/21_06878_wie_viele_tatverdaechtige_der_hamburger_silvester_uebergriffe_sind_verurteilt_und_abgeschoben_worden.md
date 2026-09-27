@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5836", "21/5459", "21/6685"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55461"
@@ -63,7 +64,7 @@ Wie viele der Verurteilten wurden inzwischen abgeschoben?
 
 Aus welchen Gründen sind Abschiebungen verurteilter Sexualtäter bislang nicht vollzogen worden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Entfällt, siehe Antwort zu 1. Bei den zunächst tatverdächtigen Personen in ausländerbehördlicher Zuständigkeit Hamburgs liegen die Voraussetzungen einer Abschiebung nach § 58 Aufenthaltsgesetz (AufenthG) beziehungsweise § 72 Absatz 4 AufenthG derzeit nicht vor. Eine der zunächst tatverdächtigen Personen reiste freiwillig aus. Bei einer Person ist der zuständigen Behörde nicht bekannt, ob sich die Person noch im Bundesgebiet aufhält. Ihr Aufenthaltsort ist unbekannt. Eine Person befindet sich aktuell wegen anderweitiger Tatvorwürfe in Haft und soll anschließend abgeschoben werden.
 

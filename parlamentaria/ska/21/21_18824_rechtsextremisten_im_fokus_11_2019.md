@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68506"
@@ -55,7 +56,7 @@ d) Geschlecht beziehungsweise Geschlechterverhältnis.
 
 Wie viele von diesen Personen (Frage 2.) verfügen über die doppelte Staatsbürgerschaft? Bitte nach den Phänomenbereichen „Rechtsextremismus“ und „Sicherheitsgefährdende und extremistische Bestrebungen von Gruppierungen mit Auslandsbezug“ aufschlüsseln.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die angefragte Kombination der genannten Parameter ist in der gemeinsamen Datenbank des Verfassungsschutzverbundes so nicht hinterlegt. Zur Beantwortung der Fragekonstellationen hätten Datensätze im vierstelligen Bereich händisch durchgesehen und ausgewertet werden müssen. Dies ist in der für die Beantwortung einer Parlamen-
 

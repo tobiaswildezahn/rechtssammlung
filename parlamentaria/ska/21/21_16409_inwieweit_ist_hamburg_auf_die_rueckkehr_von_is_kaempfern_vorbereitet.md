@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 28
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15845", "21/16295", "21/14037", "20/13460", "21/15550", "21/15598", "21/16311", "21/12086", "21/5039", "21/10592", "21/5331", "21/5711", "21/8162", "21/11627", "21/11759", "21/9538"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65913"
@@ -88,7 +89,7 @@ Verfassungsschutzgesetzes
 gemacht, die Rot-Grün in der Bürgerschaft allerdings abgelehnt hat. Aus  
 welchen Gründen hält der Senat diese Vorschläge für nicht sinnvoll?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Behörden und beteiligten Stellen arbeiten in diesem Aufgabenbereich wie in anderen Aufgabenbereichen im Rahmen der jeweiligen allgemeinen und der spezialgesetzlichen Bestimmungen zusammen, die auch Fragen der Datenerhebung, der Datenverarbeitung und der Datenübermittlung umfassen. Hierbei können sich aus den unterschiedlichen Zweckbestimmungen der Datenerhebung und Datenverarbeitung
 
@@ -318,49 +319,49 @@ Für eine Schulung sind 180 Minuten angesetzt. Die Kernthemen derselben lauten w
 
 Basiswissen Islam
 
- Unterschiede Islam und Islamismus
+– Unterschiede Islam und Islamismus
 
- Zentrale Elemente des Islam
+– Zentrale Elemente des Islam
 
- Islam in Deutschland und international
+– Islam in Deutschland und international
 
 Radikalisierung
 
- Prozesshaftigkeit der Radikalisierung
+– Prozesshaftigkeit der Radikalisierung
 
- Ursachen, Faktoren und Merkmale für Radikalisierung
+– Ursachen, Faktoren und Merkmale für Radikalisierung
 
- Umgang mit Stereotypen
+– Umgang mit Stereotypen
 
- Kommunikation und Bindung als Gegenmittel
+– Kommunikation und Bindung als Gegenmittel
 
 Radikalisierung in Haft
 
- Einordnung des Phänomens, Zahlen, Beispiele
+– Einordnung des Phänomens, Zahlen, Beispiele
 
- Spezifische Gründe für Radikalisierung in Haft
+– Spezifische Gründe für Radikalisierung in Haft
 
- Handlungsempfehlungen zum Umgang mit Radikalisierung
+– Handlungsempfehlungen zum Umgang mit Radikalisierung
 
 Salafismus als Jugendkultur
 
- Attraktivität der salafistischen Szene für junge Menschen
+– Attraktivität der salafistischen Szene für junge Menschen
 
- Propagandamaterialien salafistischer Gruppen
+– Propagandamaterialien salafistischer Gruppen
 
- Strömungen innerhalb der Bewegung
+– Strömungen innerhalb der Bewegung
 
 Praxisbezogene Fallarbeit
 
- Erarbeitung möglicher Verhaltensweisen gegenüber Radikalisierten
+– Erarbeitung möglicher Verhaltensweisen gegenüber Radikalisierten
 
- Umgang mit konflikthaften religiösen Situationen
+– Umgang mit konflikthaften religiösen Situationen
 
 Vorstellen der Arbeit von Legato in der JVA
 
- Beschreibung des Angebots
+– Beschreibung des Angebots
 
- Mit welchen Anliegen können und sollen sich Beamtinnen und Beamte an Legato
+– Mit welchen Anliegen können und sollen sich Beamtinnen und Beamte an Legato
 
 wenden?
 
@@ -413,7 +414,7 @@ c) Mittel in welcher Höhe wofür stehen im Jahr 2019 aus jeweils welcher Quelle
 
 Welche inhaltlichen Anpassungen sind im Bereich der Salafismus- Prävention für das Jahr 2019 geplant? Welche finanziellen und personellen Auswirkungen bei jeweils welchen Stellen sind damit verbunden?
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Die in Drs. 21/14037 beschriebenen Schwerpunkte sind weiterhin aktuell. Das Controllingverfahren für 2018 ist noch nicht abgeschlossen. Für die Haushaltsjahre 2019/ 2020 haben die beteiligten Fachbehörden ihre Ressourcenplanungen (Personal- und Sachkosten) verstetigt und in den Haushaltsplan-Entwurf 2019/2020 im bisherigen
 

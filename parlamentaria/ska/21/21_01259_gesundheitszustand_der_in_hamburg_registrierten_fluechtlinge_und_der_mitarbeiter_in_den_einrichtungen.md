@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 27
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1116", "21/1132", "21/548", "21/947", "21/759"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49451"
@@ -159,7 +160,7 @@ Sind alle Sozial- und weiteren Mitarbeiter für den Umgang mit meldepflichtig kr
 
 Werden die Sozial- und weiteren Mitarbeiter über potenzielle Gesundheitsrisiken informiert? Wenn ja, wie, wenn nein, warum nicht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Antwort zu 6.
 

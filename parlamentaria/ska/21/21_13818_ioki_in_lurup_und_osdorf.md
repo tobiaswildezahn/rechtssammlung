@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 21
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13503"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63203"
@@ -69,7 +70,7 @@ Wie viele und welche Fahrzeuge sind zunächst an welchen Tagen und zu welchen Ze
 
 Welcher Personenkreis erprobt das Angebot in der Testphase? Wie wurde beziehungsweise wird dieser Personenkreis ausgewählt? Ab wann soll das Angebot der Öffentlichkeit zur Verfügung stehen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Zum Start des Verkehrs am 18. Juli 2018 wurden zunächst fünf Fahrzeuge eingesetzt. Das Angebot ist für jeden zugänglich und die aktuellen Betriebszeiten sind Montag- Freitag 04.00 Uhr bis 01.00 Uhr. Sonnabend und Sonntag findet derzeit kein Verkehr statt. Ausgehend von der Fahrgastnachfrage wird das System im Rahmen der Verfügbarkeit um die optimal benötigte Fahrzeugmenge ergänzt. Alternativ kann sich die Wartezeit für die Kundinnen und Kunden erhöhen. Nach circa 100 Tagen soll durch Erfahrungswerte der optimale Bemessungsgrad bestimmt werden. Darüber hinaus ist ab dem 08. August 2018 auch ein 24-Stunden-Betrieb vorgesehen.
 

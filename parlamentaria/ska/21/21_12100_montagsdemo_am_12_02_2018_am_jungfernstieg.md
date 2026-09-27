@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61361"
@@ -53,7 +54,7 @@ Welche Definition liegt der Formulierung „rechtes Spektrum“ im Polizeiberich
 
 Welche den Teilnehmern der Montagsdemonstration zuzuordnenden Merkmale ließen die Polizei davon ausgehen, dass die Teilnehmer dem „rechten Spektrum“ angehören?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zu den Erkenntnissen des Landesamts für Verfassungsschutz Hamburg siehe: http://www.hamburg.de/innenbehoerde/schlagzeilen/10531018/montagsversammlungen-in-der-hamburger-city/.
 
@@ -116,19 +117,19 @@ Welche Straftaten wurden festgestellt, wurden Ermittlungen aufgenommen? Wenn ja,
 
 Die Polizei hat insgesamt sechs Ermittlungsverfahren wegen Verdachts folgender Straftatbestände eingeleitet:
 
- Verstoß gegen das Versammlungsgesetz,
+– Verstoß gegen das Versammlungsgesetz,
 
- Körperverletzung,
+– Körperverletzung,
 
- gefährliche Körperverletzung,
+– gefährliche Körperverletzung,
 
- Beleidigung,
+– Beleidigung,
 
- Nötigung,
+– Nötigung,
 
- Widerstand gegen Vollstreckungsbeamte und
+– Widerstand gegen Vollstreckungsbeamte und
 
- Verstoß gegen das Waffengesetz.
+– Verstoß gegen das Waffengesetz.
 
 ### Frage 9
 

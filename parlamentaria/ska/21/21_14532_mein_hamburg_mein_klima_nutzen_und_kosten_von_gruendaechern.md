@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64012"
@@ -49,7 +50,7 @@ Wie viele begrünte Dächer gibt es mittlerweile in Hamburg und wie groß ist di
 
 Wie verteilen sich Dächer (Zahl) und Fläche auf Wohn- und Gewerbebauten und wie in den Bezirken?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In Hamburg gibt es 5.764 begrünte Dächer mit insgesamt 138,3 ha (Datenbasis Luftbildaufnahmen im Jahre 2013 und anschließende Kundenbefragung im Jahre 2016 durch HW). Die Zahlen basieren auf den Flächendaten aus dem Projekt Gebührensplitting der Abwassergebühr. Die Daten umfassen nicht die gesamte Stadtfläche, sondern das sogenannte Sieleinzugsgebiet, das heißt kanalisierte Stadtbereiche, in denen HW die Entwässerungsaufgabe übernimmt. In der gesamten Stadt ist die oben genannte Fläche der Gründächer daher höher, jedoch liegt ein Monitoring der Flächen außerhalb des Sieleinzugsgebietes nicht vor.
 

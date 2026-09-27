@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3877", "21/3222", "21/5121"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54738"
@@ -486,7 +487,7 @@ Wie haben sich Belegungsfähigkeit und tatsächliche Belegung im Frauenvollzug d
 
 Wie haben sich Belegungsfähigkeit und tatsächliche Belegung im Jugendvollzug in der JVA Neumünster sowie in der JVA Schleswig einschließlich Sozialtherapie monatlich seit April 2016 entwickelt? Bitte jeweils zum Monatsersten als Stichtag, differenziert nach Strafhaft, Sozialtherapie, Untersuchungshaft und offenem Vollzug darstellen.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Informationen, die andere Länder betreffen, liegen außerhalb des Verantwortungsbereichs des Senats und der parlamentarischen Kontrolle der Bürgerschaft und werden daher vom parlamentarischen Fragerecht nicht erfasst.
 

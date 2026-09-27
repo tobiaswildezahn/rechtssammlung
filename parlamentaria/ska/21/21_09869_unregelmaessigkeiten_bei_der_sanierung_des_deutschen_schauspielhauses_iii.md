@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 19
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/51", "21/2992"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58682"
@@ -49,7 +50,7 @@ Wie hoch waren die Kosten gemäß ursprünglicher Planung?
 
 Wie hoch sind nach aktuellem Stand die tatsächlichen Kosten? Welche Budgetanpassungen ergaben sich aus jeweils welchen Gründen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/2992.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54120"
@@ -88,6 +89,6 @@ Welche Priorität hat der Sport für den Senat und die zuständige Fachbehörde 
 
 Wächst die Sportinfrastruktur in gleichem Maße wie neue Wohneinheiten in Hamburg entstehen? Wenn ja, woran macht der Senat dieses fest? Wenn nein, warum nicht und hält der Senat dies für klug?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Hamburg ist eine attraktive, lebenswerte und wachsende Stadt. Ein wichtiger Faktor für die Lebensqualität in der Stadt ist eine angemessene Sportinfrastruktur. Die Entwicklung der Städte führt zu neuen Herausforderungen, die einen Interessenausgleich zwischen den verschiedenen Nutzungen und eine Abwägung im Einzelfall erfordern.

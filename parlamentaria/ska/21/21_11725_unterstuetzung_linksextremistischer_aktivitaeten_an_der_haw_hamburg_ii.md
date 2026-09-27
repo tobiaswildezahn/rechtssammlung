@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11236"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60959"
@@ -49,7 +50,7 @@ Wer ist der/sind die Betreiber der „Kontrabar“ und welche Verflechtungen des
 
 Wer referierte während der Veranstaltung? Bitte Namen und Hochschulstatus der Referentin angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/11236.
 
@@ -69,7 +70,7 @@ Welche Personen werden verdächtigt, bei den Attacken gegen Polizeibeamte und Af
 
 Sehen der Senat und die Hochschulleitung der HAW auch nunmehr, nachdem es zu Straftaten gegen Polizisten und AfD-Bundestagsdelegierte kam, keine Veranlassung, zu überprüfen, welche Inhalte in der Veranstaltung referiert wurden und welche Konsequenzen für zukünftige Veranstaltungen in der Kontrabar daraus abgeleitet werden könnten? Wenn nein, warum nicht? Wenn ja, wann findet eine Überprüfung statt beziehungsweise welche Ergebnisse hat eine Überprüfung bereits ergeben?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Polizei Hamburg wird im Zusammenhang mit Straftaten in anderen Ländern nur tätig, wenn entsprechende Ermittlungsersuchen an sie gerichtet werden. Ansonsten liegt die Zuständigkeit bei den dortigen Polizeien beziehungsweise Staatsanwaltschaften. Im Zusammenhang mit den Ereignissen in Hannover liegt ein entsprechendes Ersuchen nicht vor. Im Übrigen siehe Drs. 21/11236.
 

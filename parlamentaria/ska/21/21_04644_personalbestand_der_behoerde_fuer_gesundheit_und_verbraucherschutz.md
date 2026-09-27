@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53065"
@@ -49,7 +50,7 @@ Welchen Stellenbestand hatte die Behörde für Gesundheit und Verbraucherschutz 
 
 Welchen Stellenbestand hatte die Behörde für Gesundheit und Verbraucherschutz am 30. Juni 2015, am 31. Dezember 2015 und derzeit? Bitte aufschlüsseln nach der Leitungsebene und sonstige Abteilungen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die nachstehenden Daten beziehen sich auf den 31.12. des jeweiligen Jahres, nur der Wert für 2016 bezieht sich auf den Stichtag 31.03.
 

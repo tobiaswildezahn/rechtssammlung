@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14502"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65212"
@@ -67,7 +68,7 @@ Gibt es stadteilgenaue Statistiken über zugelassene Elektrofahrzeuge? Falls ja,
 
 Falls entsprechende Statistiken noch nicht vorliegen, bis wann wird es soweit sein?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage. Die dort aufgeführten Daten beziehen sich nur auf die als reine Batterieelektrofahrzeuge betriebenen Pkw gemäß § 2 Nummer 2 Elektromobilitätsgesetz (EmoG). Eine darüber hinausgehende Auswertung wird beim Statistikamt Nord nicht geführt. Eine stadtteilgenaue Statistik zur Ladeinfrastruktur wird nicht geführt.
 

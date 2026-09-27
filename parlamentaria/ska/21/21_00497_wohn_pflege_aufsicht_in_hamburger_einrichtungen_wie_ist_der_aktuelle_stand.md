@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 20
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14261", "20/8281"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48644"
@@ -226,7 +227,7 @@ Welche Veränderungen plant der Senat für die Jahre 2015 und 2016 durch die Pro
 
 Welche Konsequenzen zieht der Senat aus der Zentralisierung von regionalen Wohn-Pflege-Aufsichten (bitte genau begründen und die Auswirkungen der Zentralisierung darstellen)?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Der Senat hat sich mit der Umsetzung der angesprochen Zielsetzung aus dem Koalitionsvertrag vom 15. April 2015 noch nicht befasst.
 

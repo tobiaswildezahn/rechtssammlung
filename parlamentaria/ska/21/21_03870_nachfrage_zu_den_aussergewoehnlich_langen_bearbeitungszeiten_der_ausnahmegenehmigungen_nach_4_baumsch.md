@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3498"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52235"
@@ -43,7 +44,7 @@ Warum wird die absolute und durchschnittliche Bearbeitungsdauer der Anträge auf
 
 Warum wird im Bezirk Wandsbek die Anzahl der erteilten oder verweigerten Genehmigungen nach § 4 Baumschutzverordnung nicht erfasst?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Weil hierzu keine entsprechenden rechtlichen Vorgaben bestehen, eine entsprechende Dokumentation fachlich nicht für erforderlich gehalten wird und diese im Hinblick auf die Wirtschaftlichkeit des Verwaltungshandelns insofern als nicht sinnvoll angesehen wird.
 
@@ -63,7 +64,7 @@ Wie hat sich die Personalsituation der in den Bezirksämtern mit Anträgen auf A
 
 Wie ist die dazu entsprechende Personalsituation in den in Drs. 21/3498 zu Frage 8. genannten beteiligten Fachbehörden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage.
 

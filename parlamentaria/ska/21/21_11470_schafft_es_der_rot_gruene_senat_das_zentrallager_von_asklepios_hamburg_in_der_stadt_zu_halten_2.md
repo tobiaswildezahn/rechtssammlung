@@ -5,7 +5,7 @@ wahlperiode: 21
 id: 60588
 titel: "Schafft es der rot-grüne Senat, das Zentrallager von Asklepios Hamburg in der Stadt zu halten? (2)"
 datum_anfrage: "2017-12-28"
-datum_drucksache: null
+datum_drucksache: "2018-01-05"
 urheber: ["Thilo Kleibauer"]
 fraktionen: ["CDU"]
 vorgang: 55284
@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10860"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60588"
@@ -24,7 +25,7 @@ generator: "ska_archiv 1.0"
 
 # Drs. 21/11470: Schafft es der rot-grüne Senat, das Zentrallager von Asklepios Hamburg in der Stadt zu halten? (2)
 
-> Schriftliche Kleine Anfrage und Antwort des Senats  
+> Schriftliche Kleine Anfrage des Abgeordneten Thilo Kleibauer (CDU) vom 28.12.17 und Antwort des Senats · Drucksache vom 05.01.2018  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/60588) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/60588/21_11470_schafft_es_der_rot_gruene_senat_das_zentrallager_von_asklepios_hamburg_in_der_stadt_zu_halten_2)
 
 ## Einleitung für die Fragen
@@ -47,7 +48,7 @@ Wie sind der genaue Sachstand und der Zeitplan zur Errichtung eines neuen Zentra
 
 Wurde inzwischen ein geeignetes Grundstück für das Zentrallager von Asklepios Hamburg gefunden? Wenn ja, an welcher Stelle? Wenn nein, warum nicht und wie ist der genaue Stand der Grundstückssuche?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Asklepios Kliniken Hamburg GmbH wurden von der Freien und Hansestadt Hamburg mehrere Grundstücksangebote unterbreitet, im Übrigen siehe Drs. 21/10860. Derzeit befinden sich vier Standorte in Hamburg in der Prüfung durch Asklepios Hamburg, davon zwei Standorte in Wandsbek, ein Standort in Hamburg-Bergedorf und eine private Immobilie in Hamburg-Mitte. Eine Entscheidung wurde seitens des Unternehmens noch nicht getroffen.
 

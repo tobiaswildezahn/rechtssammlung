@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58918"
@@ -41,17 +42,17 @@ Im Rahmen der PEQ-Geburt-Befragung werden die Versicherten frühestens sechs Woc
 
 Der Fragebogen enthält Fragen zur
 
- behandlungsrelevanten Ausstattung,
+– behandlungsrelevanten Ausstattung,
 
- Zufriedenheit mit der ärztlichen Versorgung,
+– Zufriedenheit mit der ärztlichen Versorgung,
 
- Zufriedenheit mit der Betreuung durch Hebammen,
+– Zufriedenheit mit der Betreuung durch Hebammen,
 
- Zufriedenheit mit der pflegerischeren Betreuung,
+– Zufriedenheit mit der pflegerischeren Betreuung,
 
- Zufriedenheit mit der Organisation,
+– Zufriedenheit mit der Organisation,
 
- Patientensicherheit und Hygiene.
+– Patientensicherheit und Hygiene.
 
 Erfragt wird auch, ob die Geburtshilfe im jeweiligen Krankenhaus weiterempfohlen wird. Die Weiterempfehlungsquote liegt bei den sechs dokumentierten Hamburger Geburtshilfen zwischen 75 und 89 Prozent.
 
@@ -130,28 +131,28 @@ Gibt es andere Untersuchungen zum gleichen Thema? Wenn ja: Zu welchen Ergebnisse
 
 Vergleichbare Informationen sind über Kliniksuchmaschinen abrufbar. Hier einige ausgewählte Beispiele:
 
- www.aok.de/krankenhausnavigator der AOK,
+– www.aok.de/krankenhausnavigator der AOK,
 
- www.krankenhausnavi.barmer.de der BARMER,
+– www.krankenhausnavi.barmer.de der BARMER,
 
- beide Portale leiten zur www.weisse-liste.de der Bertelsmann Stiftung weiter,
+– beide Portale leiten zur www.weisse-liste.de der Bertelsmann Stiftung weiter,
 
- www.bkk-klinikfinder.de der Betriebskassen,
+– www.bkk-klinikfinder.de der Betriebskassen,
 
- www.vdek-kliniklotse.de des Verbandes der Ersatzkassen e.V. (vdek),
+– www.vdek-kliniklotse.de des Verbandes der Ersatzkassen e.V. (vdek),
 
- www.tk.de/klinikfuehrer der Techniker Krankenkassen,
+– www.tk.de/klinikfuehrer der Techniker Krankenkassen,
 
- www.derprivatpatient.de/services/krankenhaussuche der privaten Krankenversi-
+– www.derprivatpatient.de/services/krankenhaussuche der privaten Krankenversi-
 
 cherer,
 
- www.deutsches-krankenhaus-verzeichnis.de der Deutschen Krankenhausgesell-
+– www.deutsches-krankenhaus-verzeichnis.de der Deutschen Krankenhausgesell-
 
 schaft und der Landeskrankenhausgesellschaften,
 
- www.hamburger-krankenhausspiegel.de
+– www.hamburger-krankenhausspiegel.de
 
- sowie jährliche Qualitätsberichte der Krankenhäuser.
+– sowie jährliche Qualitätsberichte der Krankenhäuser.
 
 Darüber hinaus führen die Krankenhäuser selbst Befragungen im Rahmen ihres Beschwerdemanagements durch. Dort werden inhaltliche Mängel bzw. Beschwerden bearbeitet.

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53231"
@@ -43,7 +44,7 @@ Wie viele Widersprüche wurden im Anmeldeverfahren für das Schuljahr 2016/2017 
 
 Wie viele der Widersprüche im Anmeldeverfahren für das Schuljahr 2016/2017 gegen die Zuweisung zu einer Grundschule wurden bisher jeweils wie beschieden und wie viele wurden noch nicht abschließend bearbeitet? Bitte für jeden Fall angeben, wann der jeweilige Widerspruch eingegangen ist und wann er gegebenenfalls beschieden wurde.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 
@@ -55,7 +56,7 @@ Wie viele Widersprüche wurden im Anmeldeverfahren für das Schuljahr 2016/2017 
 
 Wie viele der Widersprüche im Anmeldeverfahren für das Schuljahr 2016/2017 gegen die Zuweisung zu einer Stadtteilschule wurden bisher jeweils wie beschieden und wie viele wurden noch nicht abschließend bearbeitet? Bitte für jeden Fall angeben, wann der jeweilige Widerspruch eingegangen ist und wann er gegebenenfalls beschieden wurde.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage 2.
 
@@ -67,7 +68,7 @@ Wie viele Widersprüche wurden im Anmeldeverfahren für das Schuljahr 2016/2017 
 
 Wie viele der Widersprüche im Anmeldeverfahren für das Schuljahr 2016/2017 gegen die Zuweisung zu einem Gymnasium wurden bisher jeweils wie beschieden und wie viele wurden noch nicht abschließend bearbeitet? Bitte für jeden Fall angeben, wann der jeweilige Widerspruch eingegangen ist und wann er gegebenenfalls beschieden wurde.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Anlage 3.
 

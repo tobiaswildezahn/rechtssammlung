@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 31
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13794", "21/2108", "21/13261", "21/14073", "21/14071", "21/14379"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66232"
@@ -49,7 +50,7 @@ Wie viele Personen waren in der örU Am Rehagen Ende März 2019 untergebracht?
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Geschlecht Kinder und Jugendliche
 
@@ -240,7 +241,7 @@ Wenn nein, wie viele warum nicht?
 
 Wie viele frei finanzierte Wohnungen wurden in dem Quartier neu erstellt und sind inzwischen alle vermietet? Wenn ja, seit wann? Wenn nein, wie viele warum nicht?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Anzahl  
 Vermietungsstand  
@@ -306,7 +307,7 @@ Welche Angebote werden den Flüchtlingen zu jeweils welchen Zeiten in welchen R�
 
 Wie viele Ehrenamtliche sind eingesetzt und wie helfen sie?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Neben den Angeboten im naheliegenden Quartier Tegelsbarg finden in den Gruppenräumen vor Ort derzeit folgende Angebote montags bis freitags ab 15 Uhr bis spätestens 19 Uhr statt:
 

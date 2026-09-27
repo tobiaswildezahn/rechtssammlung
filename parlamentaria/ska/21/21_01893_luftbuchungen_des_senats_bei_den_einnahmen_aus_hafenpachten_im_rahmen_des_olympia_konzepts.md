@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 16
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5550"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50131"
@@ -91,6 +92,6 @@ Wann werden genauere Zahlen für die Planungen der Olympischen Spiele im Hafen v
 
 Welche weiteren Varianten für Erlöserwartungen prüfen der Senat oder die zuständige Behörde derzeit zur Steigerung des Eigenwertanteils der Investitionen? Wann werden dazu die Untersuchungen abgeschlossen sein und ein Ergebnis der Bürgerschaft vorliegen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die HPA wird im Zuge der stetig fortschreitenden Planungen die Kosten weiter konkretisieren. Der Eigenanteil wird unter anderem über die mittel- und langfristige Entwicklung des mittleren Freihafens bestimmt. Ein Zeitpunkt, zu dem die Planungen im Detail vorliegen, kann derzeit nicht genannt werden. Im Übrigen siehe Finanzreport http://www.hamburg.de/contentblob/4612940/data/pdf-finanzreport.pdf. Im Finanzreport zu Olympischen und Paralympischen Spielen im Jahr 2024 in Hamburg sind Hinweise zur Systematik und Methodik der Kostenermittlung gegeben.

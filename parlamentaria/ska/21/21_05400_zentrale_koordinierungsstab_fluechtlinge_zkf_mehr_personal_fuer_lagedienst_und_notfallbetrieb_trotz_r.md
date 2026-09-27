@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5023", "21/3665", "21/1838"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53889"
@@ -105,7 +106,7 @@ Wie ist der in der Behörde für Stadtentwicklung und Wohnen eingerichtete „Ko
 
 Falls der Koordinator Wohnungsbau für Flüchtlinge nicht organisatorisch in den ZKF eingegliedert ist, warum nicht? Ist eine strukturelle Einbindung in den ZKF in Planung?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Behörde für Stadtentwicklung und Wohnen (BSW) ist für die Koordinierung der Umsetzung des Senatsprogramms zur Errichtung von „Flüchtlingsunterkünfte mit der Perspektive Wohnen“ zuständig, siehe auch Drs. 21/1838. Daher ist der Koordinator Wohnungsbau für Flüchtlinge (KWF) organisatorisch bei der BSW angebunden. Eine Änderung der Struktur ist nicht geplant.
 

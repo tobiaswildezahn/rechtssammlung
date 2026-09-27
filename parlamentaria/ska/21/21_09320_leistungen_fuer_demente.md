@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58080"
@@ -59,7 +60,7 @@ Welche Leistungen erhalten Demente seit 1. Januar 2017?
 
 Falls es in 2017 eine Änderung gegenüber dem Vorjahr gegeben hat: Woran liegt das?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Seit dem 01.01.2017 werden aufgrund des 2. Pflegestärkungsgesetzes geistige und psychische Einschränkungen, wie zum Beispiel aufgrund demenzieller Erkrankungen, bei der Ermittlung der Pflegegrade gleichermaßen neben körperlichen Einschränkungen berücksichtigt. Dazu wurden ein neues Begutachtungsverfahren zur Ermittlung des Grades der Selbstständigkeit und ein neuer Pflegebedürftigkeitsbegriff (vergleiche § 14 SGB XI) eingeführt.
 

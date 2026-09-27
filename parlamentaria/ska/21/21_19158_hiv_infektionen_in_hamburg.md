@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68857"
@@ -49,7 +50,7 @@ Wie viele HIV-Neuinfektionen gab es in Hamburg jeweils seit 2016? (Bitte jahresw
 
 Wie entwickelte sich die Zahl der HIV-Infizierten seit dem Jahr 2016 in Hamburg? (Bitte jahresweise aufschlüsseln.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 2016  
 2017  

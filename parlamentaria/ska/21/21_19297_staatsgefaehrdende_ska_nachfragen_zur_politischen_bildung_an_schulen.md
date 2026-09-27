@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 6
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19119", "21/13734"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69006"
@@ -68,7 +69,7 @@ Wie bewertet der Senat/die zuständige Behörde den Entschluss der Kultusministe
 
 Wie bewertet der Senat/die zuständige Behörde die Einschätzung der KMK, dass hinsichtlich des Kontroversitätsgebots der politischen Bildung, „Meinung des Andersdenkenden (…) jedoch nicht Beliebigkeit und Neutralität (bedeutet). Kinder und Jugendliche sollen die Vorzüge, Leistungen und Chancen der rechtsstaatlich verfassten Demokratie erfahren und erkennen, dass demokratische Grundwerte wie Freiheit, Gerechtigkeit, Solidarität und Toleranz niemals zur Disposition stehen dürfen.“
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Bezugsnorm zur Auswahl legitimer Positionen in Lernprozessen politischer Bildung bildet die aus den Bestimmungen des Grundgesetzes ableitbare freiheitlichdemokratische Grundordnung. Werden im Diskurs die Grenzen der freiheitlich-demokratischen Grundordnung, so zum Beispiel der Menschenwürde, überschritten, sind Lehrkräfte angehalten, Position für Menschenwürde und die Grundrechte zu beziehen sowie mögliche Menschenverachtung und Demokratiefeindlichkeit entsprechend zu markieren. Siehe hierzu auch http://www.bpb.de/gesellschaft/bildung/politischebildung/193225/kontroversitaet.
 

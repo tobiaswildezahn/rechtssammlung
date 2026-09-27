@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17223"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67752"
@@ -43,7 +44,7 @@ Wie viele Parkverstöße wurden seit Einrichtung der neuen Bewohnerparkzonen N10
 
 Wie viele Anzeigen aufgrund von Ordnungswidrigkeiten wurden durch Mitarbeiter des LBV seit Einrichtung der neuen Bewohnerparkzonen N101-N105 gefertigt? Bitte pro Bewohnerparkzone angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Übersicht der durch den Landesbetrieb Verkehr (LBV) erfassten Ordnungswidrigkeiten in den Bewohnerparkgebieten N101-N105 (Zeitraum: 17.06.2019 (Inkrafttreten des Bewohnerparkens) bis 31.07.2019)
 
@@ -156,7 +157,7 @@ Welche Erkenntnisse liegen der zuständigen Behörde darüber vor, ob die Einric
 
 Gab es Beschwerden/Anregungen von Anwohnern oder Gewerbetreibenden zu den neuen Bewohnerparkzonen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Den LBV haben auf unterschiedlichem Weg Beschwerden von unterschiedlichen Verkehrsteilnehmern erreicht, welche mündlich und/oder schriftlich beantwortet wurden. Die Anzahl wird statistisch nicht erfasst. Ergänzend gab es Beschwerden beziehungsweise Anregungen seitens der Bewohnerinnen und Bewohner bezüglich der Art der Beschilderung sowie zu nicht abgeschleppten Dauerparkern.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59890"
@@ -104,11 +105,11 @@ Begründet wird in den Ausschreibungen der „Neubau einer Köhlbrandquerung in 
 
 #### Antwort zu Frage 4
 
- dem baulichen Zustand,
+– dem baulichen Zustand,
 
- der geringen Durchfahrtshöhe,
+– der geringen Durchfahrtshöhe,
 
- dem erhöhten verkehrstechnischen Bedarf.
+– dem erhöhten verkehrstechnischen Bedarf.
 
 In der aktuellen Ausschreibung heißt es: „Nach der aktuellen Zustands-
 

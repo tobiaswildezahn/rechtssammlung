@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15075"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65015"
@@ -81,7 +82,7 @@ Zuständig ist die zentrale Ausländerbehörde. Im Übrigen siehe Drs. 21/15075.
 
 Gibt es Fälle, bei denen nachts Abschiebungen durchgeführt werden sollten, aber die abzuschiebende Person trotz Auflage nicht anzutreffen war? Wenn ja, wie oft geschah dies bisher im Jahr 2018?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Grundlage zum Erteilen der Auflage ist die bevorstehende Abschiebung, deren Durchführung durch den Aufenthalt der Person zu den festgelegten Zeiten unterstützt werden soll. Soweit bei den Terminen zur Vollstreckung der Abschiebung die Personen trotz Auflage nicht angetroffen werden und damit ein Verstoß gegen die Auflage festgestellt wird, stellt dies einen Anlass zur Stellung eines Antrages auf Abschiebehaft beim zuständigen Gericht dar. In wie vielen Fällen diese Konstellation eingetreten ist, wird statistisch nicht erfasst.
 

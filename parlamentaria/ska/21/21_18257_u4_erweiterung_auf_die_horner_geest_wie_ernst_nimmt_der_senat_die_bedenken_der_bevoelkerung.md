@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 61953
 seiten: 4
 fragen: 9
-einzelfragen: 15
-antwortbloecke: 9
+einzelfragen: 17
+antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9022", "21/16649"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67895"
@@ -39,15 +40,15 @@ Vor diesem Hintergrund fragen wir den Senat:
 
 Die Planungen zur Verlängerung der U-Bahn-Linie U4 auf die Horner Geest wurde von einem umfangreichen öffentlichen Beteiligungsverfahren begleitet: Seit Juli des Jahres 2016 konnten sich alle Interessierten und insbesondere Bürgerinnen und Bürger der betroffenen Stadtteile über die Planungen informieren und aktiv daran beteiligen sowie Verbesserungsvorschläge anbringen. Hierzu fand eine Vielzahl an Beteiligungsveranstaltungen statt:
 
- fünf öffentliche Veranstaltungen,
+– fünf öffentliche Veranstaltungen,
 
- 85 schriftliche Bürgeranfragen (Stand: 27. August 2019),
+– 85 schriftliche Bürgeranfragen (Stand: 27. August 2019),
 
- mehr als 100 Vorträge, Teilnahmen an Beiräten, persönliche Gespräche, Sprech-
+– mehr als 100 Vorträge, Teilnahmen an Beiräten, persönliche Gespräche, Sprech-
 
 stunden sowie
 
- die Beantwortung diverser telefonischer Anfragen.
+– die Beantwortung diverser telefonischer Anfragen.
 
 Dieses Angebot, aktiv am Planungsprozess mitzuwirken, geht weit über die gesetzlichen Vorschriften zur Beteiligung an solchen Vorhaben hinaus.
 
@@ -69,7 +70,11 @@ Wie bewertet der Senat beziehungsweise die zuständige Fachbehörde die Fällung
 
 Entlang der Manshardtstraße stehen viele nichtheimische Platanen. Diese Bäume wurden in der Vergangenheit entlang von Straßen angepflanzt, weil sie resistenter gegen die durch den Individualverkehr induzierte Luftverschmutzung sind als andere Bäume. Platanen sind für die heimische Tierwelt ein untergeordneter Lebensraum und haben demnach keine hohe ökologische Funktion. Nach Beendigung der Baustelle sollen in der Manshardtstraße einheimische Bäume gepflanzt werden, sodass eine höhere ökologische Güte erreicht wird. Darüber hinaus wurde vereinbart, dass die anzupflanzenden Bäume größer und älter sind, als es normalerweise bei Neupflanzungen der Fall ist, damit sich die positiven Funktionen der Bäume schneller entfalten können.
 
-1.1. Da marginale Ersatzpflanzungen keinen Ausgleich für den Bestandsverlust darstellen, wird die HOCHBAHN an die BEU Zahlungen leisten, damit die BEU hamburgweit bis zu 1 766 Bäume neu pflanzen kann. Wann wird dies der Fall sein, um welche Summe handelt es sich und nach welchen Kriterien wird der Betrag ermittelt?
+### Frage 1.1
+
+Da marginale Ersatzpflanzungen keinen Ausgleich für den Bestandsverlust darstellen, wird die HOCHBAHN an die BEU Zahlungen leisten, damit die BEU hamburgweit bis zu 1 766 Bäume neu pflanzen kann. Wann wird dies der Fall sein, um welche Summe handelt es sich und nach welchen Kriterien wird der Betrag ermittelt?
+
+#### Antwort zu Frage 1.1
 
 Es ist vorgesehen, die Zahlung vor der Durchführung des Eingriffs zu leisten, wie es gemäß § 15 Absatz 6 BNatSchG geregelt ist. Die Neupflanzungen werden auf Veran-
 
@@ -123,7 +128,11 @@ Zu welcher Einschätzung kommt die zuständige Fachbehörde hinsichtlich der zu 
 
 Da für die Baumaßnahme keine Hauptverkehrsstraße längerfristig gesperrt werden soll, sind bauzeitlich lediglich der Erschließungsverkehr sowie der Durchgangsverkehr in der Manshardtstraße betroffen. Durch das abschnittsweise Baukonzept kann dessen Abwicklung jederzeit sichergestellt werden.
 
-7.1. Welche Stelle ist verantwortlich für verkehrsleitende und verkehrslenkende Maßnahmen im Zuge der avisierten Bauarbeiten und was wird unternommen, um die Beeinträchtigungen abzumildern und eine kluge Verkehrsführung während der Bauphasen zu realisieren?
+### Frage 7.1
+
+Welche Stelle ist verantwortlich für verkehrsleitende und verkehrslenkende Maßnahmen im Zuge der avisierten Bauarbeiten und was wird unternommen, um die Beeinträchtigungen abzumildern und eine kluge Verkehrsführung während der Bauphasen zu realisieren?
+
+#### Antwort zu Frage 7.1
 
 Alle im Zuge der Baumaßnahme erforderlichen verkehrslenkenden Maßnahmen werden durch die Vorhabenträgerin mit allen zuständigen Stellen (Landesbetrieb Straßen Brücken und Gewässer (LSBG), Koordinierungsstelle für Straßenverkehr (KOST), Verkehrsdirektion, Polizei) abgestimmt. Im Übrigen siehe Vorbemerkung.
 

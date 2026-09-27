@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15828", "21/16232"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67401"
@@ -47,7 +48,7 @@ Wie viele Beschwerden gegen Fluglärm sind bei den zuständigen Fachbehörden un
 
 Wie viele sogenannte anonyme Beschwerden gegen Fluglärm sind bei den zuständigen Fachbehörden und dem Flughafen im ersten Halbjahr 2019 eingegangen? Bitte nach Monaten unterteilt auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 2019  
 Januar  
@@ -231,7 +232,7 @@ Wie viele An- und Abflüge gab es im ersten Halbjahr 2019 insgesamt am Hamburger
 
 Wie viele An- und Abflüge gab es im ersten Halbjahr 2019 insgesamt am Hamburger Flughafen und wie haben sich diese auf die einzelnen Startund Landebahnen verteilt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Starts  
 Start- und Landebahnen*  
@@ -445,13 +446,13 @@ Wie viele Landungen fanden im ersten Halbjahr 2019 über die Landebahn RWY23 sta
 
 #### Antwort zu Frage 11
 
- 7 bis 22 Uhr,
+– 7 bis 22 Uhr,
 
- 22 bis 23 Uhr,
+– 22 bis 23 Uhr,
 
- 23 bis 6 Uhr,
+– 23 bis 6 Uhr,
 
- 6 bis 7 Uhr.
+– 6 bis 7 Uhr.
 
 Landungen RWY 23  
 Januar  

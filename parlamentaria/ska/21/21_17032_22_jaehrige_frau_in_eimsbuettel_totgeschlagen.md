@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 22
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66600"
@@ -121,6 +122,6 @@ Hat der Senat Informationen über die Hintergründe der Tat, wie zum Beispiel ei
 
 Wie viele Zeugenaussagen sind bislang bei der Polizei eingegangen?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Siehe Antwort zu 1. bis 6.

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5212"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55406"
@@ -54,7 +55,7 @@ Wann wurden die oben genannten Schilder von wem aus welchem Grund aufgestellt? a
 
 Gibt es Vereinbarungen mit dem Betreiber des Riverbusses oder anderen Beteiligten für eine Nutzung der Slipanlage in Entenwerder? Wenn ja, welche und wann wurden diese getroffen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bei der Slipanlage handelt es sich um eine öffentliche Anlage. Weil der Betreiber des Amphibienfahrzeugs die bauliche Herrichtung der Rampe finanziert hat und sich an der Instandhaltung beteiligt, ist ihm genehmigt worden, die Rampe bei Bedarf bevorzugt zu nutzen. Da es sich hierbei nur um Intervalle im Minutenbereich handelt, ist die allgemeine Nutzbarkeit grundsätzlich weiterhin gegeben. Zudem profitieren alle Nutzerinnen und Nutzer von der baulichen Verbesserung der Rampe.
 

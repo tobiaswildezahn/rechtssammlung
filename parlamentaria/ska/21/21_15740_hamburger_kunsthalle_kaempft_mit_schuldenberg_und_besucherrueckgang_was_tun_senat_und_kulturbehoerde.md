@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65234"
@@ -61,7 +62,7 @@ Welche Maßnahmen mit dem Ziel der Attraktivitätssteigerung und auch besseren B
 
 Bestehen vonseiten des Senats und der zuständigen Behörde Pläne für weitere Maßnahmen, die eine Attraktivitätssteigerung und bessere Bewerbung des Angebots der Hamburger Kunsthalle erreichen sollen? a. Wenn ja, bitte die Maßnahmen konkret benennen und inklusive der im Rahmen der Planungen erwarteten Wirkung im Detail darstellen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nachdem sich die Hamburger Kunsthalle in den Jahren der Modernisierung (2014 bis 2016) in ihrer Außenkommunikation stark auf Hamburg und seine Metropolregion fokussiert hat, soll der 2018 zusätzlich wieder aufgenommene Fokus auf touristische Besucherinnen und Besucher 2019 weiter ausgebaut werden. Diese Tourismus- Offensive umfasst eine ganze Reihe von Maßnahmen. Sie reichen von kleineren Maßnahmen wie 2:1-Coupons auf Elbphilharmonie-Plazatickets, Anzeigen in touristischen Publikationen wie Stadtplänen oder B-to-B-Magazinen über Kooperationen mit Online-Ticket-Anbietern bis hin zur zielgenauen Ansprache von Reiseveranstaltern. In Zusammenarbeit mit der Hamburg Tourismus GmbH wird die Hamburger Kunsthalle 2019 zudem erstmals mit einem eigenen Counter am Hamburg Stand auf der Tourismusmesse ITB in Berlin präsent sein. Auch das 150-jährige Jubiläum der Kunsthalle 2019 unter dem Motto FÜR UNS ALLE soll genutzt werden, um die traditionsreiche Geschichte des Hauses, seinen offenen, einladenden Charakter und die herausragende Sammlung national und regional weiter in das öffentliche Bewusstsein zu bringen.
 
@@ -79,7 +80,7 @@ Welche Maßnahmen mit dem Ziel des Schuldenabbaus befinden sich vonseiten des Se
 
 Bestehen vonseiten des Senats und der zuständigen Behörde Pläne für weitere Maßnahmen, die einen Schuldenabbau der Hamburger Kunsthalle erreichen sollen? a. Wenn ja, bitte die Maßnahmen konkret benennen und inklusive der im Rahmen der Planungen erwarteten Wirkung (als Beschreibung und in Zahlen) im Detail darstellen. b. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die zuständige Behörde wird erforderliche Maßnahmen konkretisieren, sobald das geprüfte Jahresergebnis für 2018 vorliegt. Im Übrigen sind die Planungen noch nicht abgeschlossen.
 

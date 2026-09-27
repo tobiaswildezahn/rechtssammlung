@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51954"
@@ -43,7 +44,7 @@ Die Lichtzeichenanlage Seevestraße/Hannoversche Straße ist noch nicht alt. Sei
 
 Warum wurde eine neue Lichtzeichenanlage am Ende der Seevestraße/ Hannoversche Straße installiert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Aufgrund der Verlegung der Hauptverkehrsstraßenführung vom Veritaskai zur Seevestraße und um die durch verschiedene Baumaßnahmen verursachten zusätzlichen Verkehre abzuwickeln zu können, wurde die Signalisierung der Einmündung Hannoversche Straße/Seevestraße notwendig. Die Lichtsignalanlage (LSA) wurde am
 9. Juni 2013 von der Straßenverkehrsbehörde angeordnet und am 26. September 2013 errichtet.

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69735"
@@ -43,7 +44,7 @@ Wie viele Firmeninsolvenzen gab es in Hamburg im Jahr 2019?
 
 Wie hat sich die Zahl der Firmeninsolvenzen in Hamburg in den letzten fünf Jahren entwickelt? Bitte für jedes Jahr einzeln angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Unternehmensinsolvenzen in Hamburg 2014 bis 2018
 
@@ -76,7 +77,7 @@ Wie hoch war die Restbefriedigungsquote bei Insolvenzen in Hamburg im Jahr 2019?
 
 Wie hat sich die Restbefriedigungsquote bei Insolvenzen in Hamburg in den letzten fünf Jahren entwickelt? Bitte für jedes Jahr einzeln angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Eine Beantwortung im Sinne der Fragestellungen ist nicht möglich, da der Begriff Restbefriedigungsquote in den Erhebungen der Insolvenzstatistik nicht verwendet wird.
 

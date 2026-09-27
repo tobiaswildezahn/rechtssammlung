@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48223"
@@ -81,7 +82,7 @@ Wie ist die Eingruppierung der Lohngruppen nach TV-L im Versorgungsamt? Bitte au
 
 Wie ist die Eingruppierung der Besoldungsgruppen nach dem Hamburgischen Besoldungsgesetz im Versorgungsamt? Bitte aufteilen nach Abteilungen: a. Entschädigungsleistungen b. Referat Schwerbehindertenrecht c. Beratung und Entschädigung für ehemalige Heimkinder
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Im Bereich „Entschädigungsleistungen“ ergeben die Stellenbewertungen folgende tarifliche Eingruppierungen: E 5, E 6, E 8, E 9, E 10, E 11, E 12 und E 15. Die Dienstposten sind nach A 9, A 10, A 11 und A 12 bewertet.
 
@@ -97,7 +98,7 @@ Wie ist die Eingruppierung der Lohngruppen nach TV-L im Integrationsamt? Bitte a
 
 Wie ist die Eingruppierung der Besoldungsgruppen nach dem Hamburgischen Besoldungsgesetz im Integrationsamt? Bitte aufteilen nach Abteilungen: a. Technische Beratung b. Kündigungsschutz, Begleitende Hilfe, Widerspruchsverfahren c. Erhebung und Verwendung der Ausgleichsabgabe, individuelle Förderung, Service-Leitung d. Erhebung der Ausgleichsabgabe e. Psychosozialer Dienst
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Im Bereich „Technischen Beratung“ ergibt die Stellenbewertung folgende tarifliche Eingruppierung: E 11. Es liegt kein bewerteter Dienstposten vor.
 

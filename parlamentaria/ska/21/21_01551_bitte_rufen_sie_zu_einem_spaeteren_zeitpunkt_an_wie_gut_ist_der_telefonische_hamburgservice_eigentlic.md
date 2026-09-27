@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/624", "21/1282"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49758"
@@ -83,7 +84,7 @@ Wie bewertet der Senat die telefonische Erreichbarkeit sowie die personelle Auss
 
 Welche einzelnen Maßnahmen zur Verbesserung der telefonischen Erreichbarkeit des HS sind seit Anfang 2015 geprüft oder umgesetzt worden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die zuständige Behörde hat aufgrund der Entwicklung Verbesserungen eingeleitet. Insbesondere wurde der Stellenbestand von 102,5 Stellen zum 31. Dezember 2014 auf 117,8 Stellen zum Stichtag 14. September 2015 erhöht. Aufgrund der sechsmonatigen Ausbildung wirkt sich der Personalzuwachs erst mit einer zeitlichen Verzögerung auf die telefonische Erreichbarkeit aus.
 

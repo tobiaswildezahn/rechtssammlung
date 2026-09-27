@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 33
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11389", "21/10281", "21/10523", "21/6055", "21/10179", "21/12703", "21/6724", "21/6914", "21/11471"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62092"
@@ -101,7 +102,7 @@ Welche Stelle informiert jene Flüchtlinge, die bereits in regulären Wohnraum g
 
 Welche Art von Betreuung erhalten Flüchtlinge, die in regulären Wohnraum gezogen sind?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 

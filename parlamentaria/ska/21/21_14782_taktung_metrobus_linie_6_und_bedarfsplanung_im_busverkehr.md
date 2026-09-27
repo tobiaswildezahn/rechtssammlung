@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 21
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12397"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64223"
@@ -85,15 +86,15 @@ Welche Maßnahmen ergreift die HOCHBAHN, um auf solche Hinweise ihrer Kunden zu 
 
 Nach den Standards im HVV ist eine Kapazitätsanpassung erforderlich, wenn die festgelegten Kapazitäten regelmäßig bei aufeinanderfolgenden Fahrten überschritten werden. Abhängig von der konkreten Nachfragesituation werden folgende Maßnahmen ergriffen:
 
- Einsatz von gezielten Verstärkerfahrten (bei punktuellen Nachfragespitzen),
+– Einsatz von gezielten Verstärkerfahrten (bei punktuellen Nachfragespitzen),
 
- Taktverdichtungen (bei zeitlich ausgeprägter Nachfragespitze),
+– Taktverdichtungen (bei zeitlich ausgeprägter Nachfragespitze),
 
- Einsatz größerer Fahrzeuge (bei zeitlich ausgeprägter Nachfragespitze und geeig-
+– Einsatz größerer Fahrzeuge (bei zeitlich ausgeprägter Nachfragespitze und geeig-
 
 neter Infrastruktur),
 
- Planung von Entlastungslinien (im Sonderfall, wenn sich dies aus übergeordneter
+– Planung von Entlastungslinien (im Sonderfall, wenn sich dies aus übergeordneter
 
 Betrachtung anbietet).
 
@@ -115,17 +116,17 @@ Welche Möglichkeiten sieht der Senat beziehungsweise die HOCH- BAHN, um auf erh
 
 Der HVV und die Verkehrsunternehmen beobachten regelmäßig die Nachfrageentwicklung auf den einzelnen Linien anhand folgender Daten:
 
- Automatisches Fahrgastzählsystem,
+– Automatisches Fahrgastzählsystem,
 
- Linienweise Vollerhebung des HVV,
+– Linienweise Vollerhebung des HVV,
 
- Kundenzufriedenheitsanalyse,
+– Kundenzufriedenheitsanalyse,
 
- Auswertung der Kundenrückmeldungen,
+– Auswertung der Kundenrückmeldungen,
 
- Auswertung der Besetztmeldungen,
+– Auswertung der Besetztmeldungen,
 
- Auswertung von Betriebsmeldungen.
+– Auswertung von Betriebsmeldungen.
 
 Sofern eine Anpassung des Angebotes an die geänderte Nachfrage erforderlich wird, ergreifen die Verkehrsunternehmen in Abstimmung zwischen der zuständigen Behörde und dem HVV die erforderlichen Maßnahmen (siehe Antwort zu 5)). Darüber hinaus nehmen die zuständige Behörde, der HVV und die Verkehrsunternehmen frühzeitig Einfluss auf Planungen zum Beispiel in der Stadtentwicklung, um die Voraussetzungen für ein attraktives und leistungsfähiges Nahverkehrsangebot zu schaffen (zum Beispiel Einrichtung von Haltestellen oder ausreichende Straßeninfrastruktur).
 

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15533", "20/10333", "21/1254"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66345"
@@ -196,7 +197,7 @@ Welche Radwegsanierungen werden zurzeit in Lokstedt, Niendorf und Schnelsen durc
 
 Welche zukünftigen Radwegsanierungen sind in den vorgenannten Stadtteilen bereits geplant und für wann? Bitte aufschlüsseln nach Stadtteil und Straßen-/Radwegname.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Derzeit sind bezirkliche Radwegesanierungsmaßnahmen in Niendorf in der Kollaustraße von Niendorferstraße bis Niendorfer Kirchenweg und in Schnelsen in der Halstenbekerstraße von der Bundesautobahn (A 7) bis Wogenmannsburg geplant. In Bezug auf HVS siehe Antwort zu 4.
 

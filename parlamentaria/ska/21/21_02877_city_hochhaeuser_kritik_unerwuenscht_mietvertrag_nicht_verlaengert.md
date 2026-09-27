@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 27
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51191"
@@ -57,7 +58,7 @@ Wie viele gewerbliche Mietverhältnisse bestehen aktuell in der City-Hof- Passag
 
 Wie viele der, in Punkt 2. genannten, befristeten Mietverträge liefen im 4. Quartal 2015 aus? Wie viele werden im 1. Quartal 2016 auslaufen? Wie viele Mieter haben ein Interesse an einer Vertragsverlängerung geäußert? Wie vielen wurde eine Vertragsverlängerung eingeräumt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Es bestehen derzeit 24 gewerbliche, ausschließlich unbefristete Mietverhältnisse. Im Übrigen: entfällt.
 
@@ -125,7 +126,7 @@ Welchen konkreten Eigenbedarf macht die Sprinkenhof GmbH für das betroffene Lad
 
 Aus welchen Gründen ist eine Nutzung des konkreten Ladengeschäftes durch die Sprinkenhof GmbH erforderlich?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Vorbemerkung.
 

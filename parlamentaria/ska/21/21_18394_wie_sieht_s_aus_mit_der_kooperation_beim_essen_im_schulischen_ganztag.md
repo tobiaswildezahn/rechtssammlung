@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 33
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17523"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68113"
@@ -122,7 +123,7 @@ Was hält der Senat beziehungsweise die Fachbehörde von der Verwendung von regi
 
 Welche Auswirkungen auf die Kosten- und Preisstrukturen hat diese Verwendung aus Sicht der Fachbehörde beziehungsweise des Senates? Teilt der Senat die Auffassung, dass die Schulessenversorgung nur dann das regionale Versorgungskonzept des Senates umsetzen helfen kann, wenn diese Versorgung auch entsprechend angemessen mit Mitteln ausgestattet wird?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Vernetzungsstelle „Schulverpflegung Hamburg“ unterstützt Schulen zum Einsatz von ökologisch erzeugten Lebensmitteln in der Schulverpflegung. Dieser Prozess wird durch das Landesinstitut für Lehrerbildung und Schulentwicklung begleitet.
 

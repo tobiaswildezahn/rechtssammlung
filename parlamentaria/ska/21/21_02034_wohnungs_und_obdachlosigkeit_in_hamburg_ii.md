@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1862"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50282"
@@ -45,7 +46,7 @@ Welche Öffnungszeiten haben die Tagesaufenthaltsstätten, die in der Anlage Drs
 
 Wie stark werden die einzelnen Tagesaufenthaltsstätten in den Öffnungszeiten frequentiert? Bitte die Anzahl der Besucherinnen und Besucher, wenn bekannt, nach Wochentagen und Geschlecht auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit haben die hier aufgeführten Einrichtungen der zuständigen Behörde auf Nachfrage nachfolgende Daten mitgeteilt:
 

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4815"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53431"
@@ -88,7 +89,7 @@ In welcher Höhe erhält die Kunsthalle Zuschüsse der Freien und Hansestadt Ham
 
 Wie stellt sich der Zuschuss der FHH pro Besucher in der Kunsthalle dar? Bitte seit 2010 angeben.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Zuwendungen in T€ IST 2010 2011 2012 2013 2014 2015
 

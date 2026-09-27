@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7442", "21/6619"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56259"
@@ -68,7 +69,7 @@ Ist es zutreffend, dass die eingangs geschilderte Differenz von 48 Millionen Eur
 
 Warum und in welcher konkreten Hinsicht hat eine solche Nutzung ungeplanter Mehrerlöse zur Finanzierung der Mehrkosten für Zinsen ein wirtschaftliches Verhalten gefördert oder war mit welcher konkreten Begründung anderweitig geboten, zumal die Mehrkosten letztlich erst durch Übertragung von Zinskostenansätzen auf andere Produktgruppen mit Drs. 21/6619 entstanden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der betragsmäßige Unterschied zwischen Kosten und Auszahlungen führt zu keinen Finanzierungsbedarfen (siehe auch Antwort zu 1.e.
 

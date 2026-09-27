@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65256"
@@ -79,7 +80,7 @@ Wann wurde zuletzt eine Geschwindigkeitsmessung im Halstenbeker Weg durchgeführ
 
 Zu welchen Tageszeiten fanden diese Messungen statt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Polizei hat im Halstenbeker Weg zuletzt am 21. September 2017 zwischen 11.50 Uhr und 12.45 Uhr eine Geschwindigkeitsmessung durchgeführt, Geschwindigkeitsverstöße wurden dabei nicht festgestellt.
 

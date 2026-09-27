@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6471", "21/7422", "21/5231", "21/2905"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56321"
@@ -75,7 +76,7 @@ Laut dem Gesetz über die Anstalt öffentlichen Rechts f & w fördern und wohnen
 
 Juli 2014, wird f & w ermächtigt, „Behinderteneinrichtungen, Wohnheime, Wohnungen, Unterkünfte für Wohnungslose und andere auf öffentliche Unterbringung Angewiesene sowie sonstige Einrichtungen zu betreiben.“ a. Welche Tätigkeiten von f & w sind nach Auffassung des Senats durch den Begriff „betreiben“ durch oben genanntes Gesetz gedeckt? b. Auf welcher (rechtlichen) Grundlage hat f & w in der Vergangenheit Wohnungen erworbenen, errichtet, angemietet und vermietet? Bitte konkreten Wortlaut aus dem Gesetz angeben. c. Aus welchen Gründen ist die gesetzliche Klarstellung erforderlich, obwohl f & w bereits in der Vergangenheit Wohnungen erworbenen, errichtet, angemietet und vermietet hat?
 
-#### Antwort zu Fragen 6, 8
+#### Antwort zu Fragen 6 und 8
 
 f & w vermietet bereits jetzt 838 Wohneinheiten; siehe Drs. 21/7422. Nach Auffassung der zuständigen Behörde ist die Vermietung beziehungsweise der vorangegangene Erwerb der Immobilien beziehungsweise der Bau von Einrichtungen und Wohnungen zu diesem Zweck nach dem derzeitigen Anstaltserrichtungsgesetz gedeckt, da sich diese Tätigkeiten allein auf den in § 2 genannte Personenkreis bezieht.
 

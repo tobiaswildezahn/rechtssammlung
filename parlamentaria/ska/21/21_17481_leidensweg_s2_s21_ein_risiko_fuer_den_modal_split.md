@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 19
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15948", "21/16231"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67064"
@@ -153,33 +154,33 @@ Alternative Fahrtmöglichkeiten bieten an den angefragten Haltestellen folgende 
 
 Bf. Nettelnburg
 
- MetroBus 12 (Richtung Bf. Bergedorf - U Mümmelmannsberg - U Billstedt), alle 20
+– MetroBus 12 (Richtung Bf. Bergedorf - U Mümmelmannsberg - U Billstedt), alle 20
 
 Minuten mit Gelenkbus,
 
- StadtBus 234 (Richtung Lohbrügge – Bf. Bergedorf), alle zehn Minuten mit
+– StadtBus 234 (Richtung Lohbrügge – Bf. Bergedorf), alle zehn Minuten mit
 
 Gelenkbus,
 
- StadtBus 235 (Richtung Bf. Bergedorf), alle 20 Minuten mit Standardbus.
+– StadtBus 235 (Richtung Bf. Bergedorf), alle 20 Minuten mit Standardbus.
 
 Bf. Allermöhe
 
- MetroBus 12 (Richtung Bf. Bergedorf - U Mümmelmannsberg - U Billstedt), alle 20
+– MetroBus 12 (Richtung Bf. Bergedorf - U Mümmelmannsberg - U Billstedt), alle 20
 
 Minuten mit Gelenkbus.
 
 Bf. Mittlerer Landweg
 
- StadtBus 230 (Richtung U Billstedt), alle 20 Minuten mit Standardbus,
+– StadtBus 230 (Richtung U Billstedt), alle 20 Minuten mit Standardbus,
 
- StadtBus 330 (Richtung U Billstedt), alle 60 Minuten mit Standardbus.
+– StadtBus 330 (Richtung U Billstedt), alle 60 Minuten mit Standardbus.
 
 Bf. Billwerder-Moorfleet
 
- StadtBus 230 (Richtung U Billstedt), alle 20 Minuten mit Standardbus,
+– StadtBus 230 (Richtung U Billstedt), alle 20 Minuten mit Standardbus,
 
- StadtBus 432 (Richtung U Billstedt), alle 30 Minuten mit Standardbus.
+– StadtBus 432 (Richtung U Billstedt), alle 30 Minuten mit Standardbus.
 
 Die Angaben beziehen sich auf den Zeitraum von montags bis freitags zwischen 6 und 19 Uhr. Außerhalb davon kann ein geringeres Leistungsangebot vorhanden sein.
 

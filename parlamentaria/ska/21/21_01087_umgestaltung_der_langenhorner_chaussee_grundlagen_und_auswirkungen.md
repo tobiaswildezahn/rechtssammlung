@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49264"
@@ -78,7 +79,7 @@ m. Alsterkrugchaussee
 
 Wie hat sich das Verkehrsaufkommen an diesen Straßen jeweils seit dem Jahr 1995 entwickelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlagen 1 bis 3.
 
@@ -88,7 +89,7 @@ Für wann sind welche konkreten Umbaumaßnahmen im Bereich der Langenhorner Chau
 
 #### Antwort zu Frage 3
 
- Umbau Langenhorner Chaussee:
+– Umbau Langenhorner Chaussee:
 
 Die Ertüchtigung der mit baulichen Mängeln behafteten Nebenflächen der Langenhorner Chaussee und ihr Ausbau, damit sie von Fußgängern und Radfahrenden gleichermaßen benutzt werden können, sind ausgelöst worden durch das am 19. September 2014 ergangene Urteil des Verwaltungsgerichts. Das Gericht hat, neben anderen Abwägungstatbeständen, bei Grundsanierung und Neuaufteilung der Nebenflächen in 2015/2016 einen zumindest zeitweiligen Fortbestand der Radwegebenutzungspflicht an der Langenhorner Chaussee aus Gründen der Verkehrssicherheit im Radverkehr als notwendig erachtet. Im Zuge der geplanten Umgestaltung der Langenhorner Chaussee ist ohnehin eine Sanierung und in Abschnitten auch eine Verbreiterung der bisherigen Gehwegflächen vorgesehen. Mit dem Bau wurde am 13. Juli 2015 begonnen. Die Fertigstellung ist für November 2015 geplant.
 
@@ -100,7 +101,7 @@ Da die Verkehrsmenge auf der Langenhorner Chaussee entlang der gesamten Strecke 
 
 Vor dem Hintergrund der Ergebnisse wird entschieden werden, wie und in welchen Abschnitten gegebenenfalls prioritär die Planungen zur Umgestaltung der Langenhorner Chaussee weiter durchgeführt werden. Ein Zeitplan für die Baudurchführung liegt noch nicht vor.
 
- Erschließung Autohaus:
+– Erschließung Autohaus:
 
 Das Autohaus wird vom Stockflethweg erschlossen. Dafür sind Umbauten des öffentlichen Straßenraumes im Stockflethweg, in der Langenhorner Chaussee und am lichtsignalgeregelten Knoten Langenhorner Chaussee erforderlich. Um die zusätzlichen Verkehre aufzunehmen, ist aus Richtung Norden kommend in der Langenhorner Chaussee ein zusätzlicher Linksabbiegefahrstreifen sowie die Aufweitung der vorhandenen Fahrstreifen auf regelgerechte Breiten geplant. Im Schutz des oben genannten Linksabbiegefahrstreifens wird ein weiterer Linksabbiegefahrstreifen aus Richtung Süden kommend in die Straße Bärenhof gebaut. Die Fußgängerlichtsignalanlage nördlich der Einmündung Bärenhof und die Lichtsignalanlage an der Einmündung Stockflethweg werden an die Planung angepasst. Dabei wird auch die erforderliche zweite Fußgänger- und Radfahrerfurt über die Langenhorner Chaussee vorgesehen.
 
@@ -110,11 +111,11 @@ Die Erschließung berücksichtigt auch den prognostizierten Verkehr für die wei
 
 a. Wie viele Bäume werden den Umbaumaßnahmen zum Opfer fallen? Bitte unter Angabe des Standortes nennen.
 
- Umbau Langenhorner Chaussee:
+– Umbau Langenhorner Chaussee:
 
 Der derzeitige Planungsstand lässt hierzu noch keine Aussagen zu. Für die Herrichtung der Nebenflächen werden keine Bäume gefällt werden.
 
- Erschließung Autohaus:
+– Erschließung Autohaus:
 
 An der Westseite der Langenhorner Chaussee wurden im Vorjahr vier Straßenbäume gefällt. Zwei Bäume zwischen dem Wäldchen und der HASPA stehen im zukünftigen Gehwegbereich und müssen gefällt werden. Laut Aussage des Bezirks ist einer davon krank und daher nicht mehr standsicher. Sechs Bäume vor den beiden Gebäuden (HASPA und Restaurant) im Süden (Flurstücke 1296 und 11251) könnten aus Sicht der Verkehrsplanung stehen bleiben. Es handelt sich hierbei um eine Birke vor der HASPA und fünf Kopflinden vor dem Restaurant. Allerdings hat der Bezirk mitgeteilt, dass die ursprünglich privaten Bäume für eine Übernahme als – öffentliche – Straßenbäume nicht geeignet sind; sie werden deshalb gefällt. Östlich der Fahrbahn werden nördlich der Einmündung Stockflethweg vier Straßenbäume gefällt.
 
@@ -122,21 +123,21 @@ Es werden acht bis zehn Bäume neu gepflanzt. Sämtliche Bäume des sogenannten 
 
 b. Welche Auswirkungen werden diese Umbaumaßahmen auf die Anwohner in den an die Langenhorner Chaussee angrenzenden Wohnstraßen haben?
 
- Umbau Langenhorner Chaussee:
+– Umbau Langenhorner Chaussee:
 
 Der derzeitige Planungsstand lässt hier noch keine Aussagen zu.
 
- Erschließung Autohaus:
+– Erschließung Autohaus:
 
 Im Stockflethweg erhöht sich die Verkehrsmenge um die Nutzer und Besucher des Autohauses.
 
 c. Welche Kosten entstehen für die Umbaumaßnahmen jeweils? Bitte pro Maßnahme darstellen.
 
- Umbau Langenhorner Chaussee:
+– Umbau Langenhorner Chaussee:
 
 In der Ausführungsunterlage Bau gemäß § 54 Landeshaushaltsordnung sind für die Herrichtung der Nebenflächen der gesamten 4.950 m langen Strecke Baukosten in Höhe von 2,69 Millionen Euro veranschlagt, davon rund 0,83 Millionen Euro für den Schutz des vorhandenen Baumbestandes.
 
- Erschließung Autohaus:
+– Erschließung Autohaus:
 
 Die Kosten liegen noch nicht vor.
 
@@ -148,23 +149,23 @@ Welche Bedenken werden von der Bürgerinitiative gegen die Umbaupläne vorgebrac
 
 Die Bedenken der Bürgerinitiative sind im Bürgerbegehren substantiiert (siehe „Amtlicher Anzeiger“ 93/2014, S. 2257):
 
- Erhalt des „Wäldchens“ auf der Westseite der Langenhorner Chaussee.
+– Erhalt des „Wäldchens“ auf der Westseite der Langenhorner Chaussee.
 
 Dem wird entsprochen, es wurde entsprechend umgeplant.
 
- Für die Langenhorner Chaussee maximal drei Fahrspuren plus Radwege/
+– Für die Langenhorner Chaussee maximal drei Fahrspuren plus Radwege/
 
 Radfahrstreifen in Regelbreite.
 
 Im Kreuzungsbereich Langenhorner Chaussee/Stockflethweg sind fünf Fahrspuren erforderlich, um die Leistungsfähigkeit der Straßen aufrechtzuerhalten; dem Wunsch nach Radfahrstreifen in Regelbreite wird entsprochen.
 
- Eine direkte Anbindung des Neubauvorhabens Autohaus/P+R-Anlage über die
+– Eine direkte Anbindung des Neubauvorhabens Autohaus/P+R-Anlage über die
 
 Langenhorner Chaussee.
 
 Dem wird aufgrund der Verkehrsstärke in der Langenhorner Chaussee und der zur Verfügung stehenden Flächen nicht entsprochen.
 
- Zu weiteren Forderungen stehen der Bezirk Hamburg-Nord und die Initiative noch
+– Zu weiteren Forderungen stehen der Bezirk Hamburg-Nord und die Initiative noch
 
 in Gesprächen.
 

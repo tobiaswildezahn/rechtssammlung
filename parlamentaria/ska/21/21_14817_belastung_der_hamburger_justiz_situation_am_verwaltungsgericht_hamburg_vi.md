@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12994", "21/14750"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64259"
@@ -198,7 +199,7 @@ Welche krankheitsbedingte Fehlzeitenquote ist für das Verwaltungsgericht und da
 
 Wie hoch ist die krankheitsbedingte Fehlzeitenquote für Servicekräfte am Verwaltungsgericht? Wie bewertet der Senat beziehungsweise die zuständige Behörde die Belastungssituation am Verwaltungsgericht anhand der gestiegenen Komplexität der gerichtlichen Verfahren?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Fehlzeitenquote für das Jahr 2018 kann derzeit aus technischen Gründen nicht ermittelt werden.
 

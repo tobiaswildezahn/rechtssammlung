@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66725"
@@ -4184,7 +4185,7 @@ Rest:
 
 Signalverarbeitung für lntegrated Sensor-Arrays basierend auf dem
 
-Tunnel­Magnetoresistiven Effekt
+TunnelMagnetoresistiven Effekt
 
 für den Einsatz in der Automobilelektronik ISAR K-Z203-
 
@@ -4260,7 +4261,7 @@ SPACES-Verbundprojekt Ars
 
 Africae - Adaptive Resilienz
 
-südafrikani­ scher Ökosysteme - Teilprojekt 2:
+südafrikanischer Ökosysteme - Teilprojekt 2:
 
 Software-Architektur" - ARS
 
@@ -4777,7 +4778,7 @@ Monitoring-System für
 
 Pendelschlagwerke -
 
-Modellbildung und Sensor­datenfusion EMOPAK K-Z202-BM25
+Modellbildung und Sensordatenfusion EMOPAK K-Z202-BM25
 
 Mittelgeber: Bundesministerium für Wirtschaft und Energie
 
@@ -5184,7 +5185,7 @@ Auslegungsgrundlagen einer
 
 tubulären, mittels additiver
 
-Methoden und Extrusion gefertigten Elektrolysezelle - Teilvorhaben Zell­Entwicklung,
+Methoden und Extrusion gefertigten Elektrolysezelle - Teilvorhaben ZellEntwicklung,
 
 Systemintegration und Charakterisierung - Turbulyze K-
 

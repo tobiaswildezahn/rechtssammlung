@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49193"
@@ -41,23 +42,23 @@ Die Kommunale Gemeinschaftsstelle für Verwaltungsmanagement (KGSt) betreibt den
 
 Im Rahmen der Vergleichsringarbeit werden jährlich circa 360 Basisdaten von derzeit 14 Städten aus folgenden Themenblöcken erhoben:
 
- Allgemeine Grundzahlen
+– Allgemeine Grundzahlen
 
- Brandbekämpfung
+– Brandbekämpfung
 
- Technische Hilfeleistung
+– Technische Hilfeleistung
 
- Rettungsdienst
+– Rettungsdienst
 
- Leitstelle
+– Leitstelle
 
- Personal
+– Personal
 
- Finanzen
+– Finanzen
 
- Vorbeugender Brandschutz
+– Vorbeugender Brandschutz
 
- Aus- und Fortbildung
+– Aus- und Fortbildung
 
 Aus diesen Basisdaten werden im Vergleichsring Kennzahlen gebildet. Die Kennzahlen sollen Anhaltspunkte für eine Betrachtung der Entwicklungen in den einzelnen Feuerwehren geben. Direkte Leistungsvergleiche sind aus den einzelnen Kennzahlendaten aufgrund teilweise unterschiedlicher Gesamtstrukturen nicht oder nur eingeschränkt vorzunehmen.
 
@@ -81,7 +82,7 @@ Was sind die Hauptergebnisse des Vergleichs?
 
 Wie bewertet der Senat beziehungsweise die zuständige Behörde die Feuerwehr Hamburg vor dem Hintergrund des Vergleichs mit anderen Berufsfeuerwehren und wie möchte der Senat insbesondere die Effizienz der Feuerwehr steigern?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Feuerwehr Hamburg ist wesentlicher und leistungsfähiger Bestandteil der hamburgischen Sicherheitsarchitektur. Ein pauschaler Vergleich der Feuerwehr Hamburg (Berufsfeuerwehr und Freiwillige Feuerwehr) mit den Feuerwehren der anderen Teilnehmerstädte ist vor dem Hintergrund der unterschiedlichen Strukturen der Feuerwehren und Gegebenheiten in den jeweiligen Städten nicht möglich. Im Übrigen siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16657", "21/10714", "21/16148", "21/16716", "21/11129"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67404"
@@ -35,11 +36,11 @@ In der Drs. 21/16657 antwortet der Senat wie folgt auf Fragen 1. bis 1. b):
 
 ## Einleitung für die Antworten des Senats
 
- Es entstehen im Vergleich zu Alternativsystemen hohe Infrastrukturkosten für die Errichtung und Wartung eines solchen Systems.
+– Es entstehen im Vergleich zu Alternativsystemen hohe Infrastrukturkosten für die Errichtung und Wartung eines solchen Systems.
 
- Das System hat einen hohen Platzbedarf für die benötigte Infrastruktur in der Stadt. Eine Neuordnung des Straßenraumes wäre für dessen Einführung notwendig.
+– Das System hat einen hohen Platzbedarf für die benötigte Infrastruktur in der Stadt. Eine Neuordnung des Straßenraumes wäre für dessen Einführung notwendig.
 
- Das System ist mit geringer Flexibilität und mit hohen betrieblichen Einschränkungen insbesondere bei Umleitungen aufgrund von Baustellen, Unfällen et cetera verbunden und daher nicht für die Anwendung in Hamburg geeignet.“
+– Das System ist mit geringer Flexibilität und mit hohen betrieblichen Einschränkungen insbesondere bei Umleitungen aufgrund von Baustellen, Unfällen et cetera verbunden und daher nicht für die Anwendung in Hamburg geeignet.“
 
 In der Drs. 21/16657 antwortet der Senat wie folgt auf Fragen 2. bis 2. b):
 
@@ -67,11 +68,11 @@ Auf welcher Grundlage beruht ihre Antwort auf Frage 1. in Bezug auf die hohen In
 
 Bezogen auf die in der Tabelle 25 genannten Infrastrukturkosten der herangezogenen Studie „Potenziale des Hybrid-Oberleitungsbusses als effiziente Möglichkeit für die Nutzung erneuerbarer Energien im ÖPNV“ lassen sich bei Zugrundelegung eines vergleichbaren Bussystems wie dem der HOCHBAHN mit 113 Buslinien, circa 920 km Streckenlänge und circa 960 Bussen die kumulierten Gesamtkosten
 
- für ein Hybrid-Oberleitungsbussystem auf circa 360 Millionen Euro,
+– für ein Hybrid-Oberleitungsbussystem auf circa 360 Millionen Euro,
 
- für ein System mit Gelegenheitsladern auf circa 190 Millionen Euro und
+– für ein System mit Gelegenheitsladern auf circa 190 Millionen Euro und
 
- für ein System mit Übernachtladern auf circa 130 Millionen Euro abschätzen.
+– für ein System mit Übernachtladern auf circa 130 Millionen Euro abschätzen.
 
 Derzeit verfolgt die HOCHBAHN das Konzept des Depotladens. Dies ist in etwa vergleichbar mit Systemen, bei denen die Fahrzeuge über Nacht aufgeladen werden. Die hierfür notwendigen Batteriebusse stehen am Markt in Serienreife zur Verfügung und die benötigte Ladeinfrastruktur kann auf den Betriebshöfen der HOCHBAHN aufgebaut werde. Siehe auch Drs. 21/10714, Drs. 21/16148 und Drs. 21/16716.
 
@@ -101,7 +102,7 @@ Auf welcher Grundlage beruht ihre Antwort auf Frage 1. in Bezug auf die geringe 
 
 Auf welcher Grundlage beruht ihre Antwort auf Frage 2.? Es mutet wenig durchdacht an, wenn auf infrastrukturelle und betriebliche Nachteile von hybriden Obussen verwiesen wird und die viel größeren Nachteile der Batteriebusse mit ihrem hohen Gewicht und ihrer vor allem extrem begrenzten Reichweite gänzlich unerwähnt bleiben?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Oberleitungsbusse können beim Fahren unter Draht systembedingt nur in einem engen Rahmen von dem vorgegebenen Fahrweg abweichen: Während die Nutzung einer unmittelbar benachbarten Fahrspur in der Regel möglich ist, erfordern größere Querabweichungen grundsätzlich ein Ausdrahten und ein späteres Wiedereindrahten. Insofern führen Baustellen und Unfälle mit Sperrung von mehr als nur einer Fahrspur zu betrieblichen Einschränkungen eines Oberleitungsbus-Betriebes. Systembedingt ist ein gegenseitiges Überholen von Oberleitungsbussen im laufenden Betrieb, anders als bei oberleitungsunabhängigen Bussen, nicht möglich. Dies ist bei den dichten Takten und der vielfach gegebenen Überlagerung mehrerer Linien in Hamburg zwingend notwendig. Daraus ergeben sich weitere betriebliche Einschränkungen.
 

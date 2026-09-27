@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 3
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16370"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66015"
@@ -44,7 +45,7 @@ Warum sind bis zum heutigen Tag die ursprünglich geplanten umfassenden Sanierun
 
 Aus welchem Grund sind im Haushalt bisher lediglich 2 Millionen Euro für Planungsmittel veranschlagt? Inwiefern stehen weitere Mittel aus der zentralen Investitionsreserve zur Verfügung? Bitte in diesem Zusammenhang ebenfalls darstellen, welche Höhe der Hamburger Kofinanzierungsbeitrag zu den 13,15 Millionen Euro Bundesmitteln haben wird.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/16370.
 

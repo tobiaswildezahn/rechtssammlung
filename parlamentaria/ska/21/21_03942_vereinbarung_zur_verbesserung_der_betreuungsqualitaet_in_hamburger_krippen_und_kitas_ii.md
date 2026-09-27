@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/383", "20/14257", "20/12558", "21/3808", "21/2766", "20/11181", "21/1479"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52319"
@@ -67,7 +68,7 @@ Wie hoch waren die Betriebskostenbeteiligungen des Bundes für den Krippenausbau
 
 Wie hoch werden die Betriebskostenbeteiligungen des Bundes für den Krippenausbau nach aktuellem Kenntnisstand in den Jahren 2016 und 2017 sein?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Bundesbeteiligung an den Betriebskosten des Krippenausbaus fließt den Ländern im Rahmen der Umsatzsteuerverteilung zu. Die aus der Umsatzsteuerverteilung resultierenden Erlöse können nur rechnerisch ermittelt werden; eine gesonderte Abrechnung erfolgt hierzu nicht.
 

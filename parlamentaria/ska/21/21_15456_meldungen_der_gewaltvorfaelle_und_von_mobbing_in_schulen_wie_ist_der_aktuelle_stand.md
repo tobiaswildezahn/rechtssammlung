@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5677", "21/10344", "21/14576", "21/14809", "19/8174", "20/5972", "20/9444"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64992"
@@ -82,7 +83,7 @@ Wie werden Fälle von „Mobbing“ oder von „Stalking“ an Hamburger Schulen
 
 Wie viele Vorfälle wegen „Mobbings“ insbesondere „Cybermobbings“ und „Stalkings“ sind im Schuljahr 2017/2018 a. von welcher Schule, b. an welcher Schulform, c. in welchem Bezirk/Stadtteil gegenüber welcher zuständigen Stelle warum gemeldet worden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Polizei erfasst Straftaten gemäß dem Straftatenkatalog der Richtlinien für die Erfassung und Verarbeitung der Daten in der PKS. In der PKS werden Delikte fest definierten PKS-Schlüsselzahlen zugewiesen. Das Merkmal „Stalking“ wird als Nachstellung gemäß § 238 Strafgesetzbuch in der PKS seit 2008 unter der Schlüsselzahl 232400 erfasst. Das Phänomen „Mobbing“ ist kein eigener Straftatbestand und wird daher von der Polizei nicht gesondert erfasst. Infrage kommende Delikte wie Beleidigung, üble Nachrede oder Verleumdung werden in der PKS jeweils unter den ihnen zugewiesenen Schlüsselzahlen erfasst, ohne dass hierbei eine Zuordnung zu einem bestimmten Phänomenbereich wie „Mobbing“ erfolgt.
 
@@ -98,13 +99,13 @@ Bei der Schulaufsicht der für Bildung zuständigen Behörde lagen im Schuljahr 
 
 Die Beratungsstelle Gewaltprävention der für Bildung zuständigen Behörde berät Eltern, Vertreterinnen und Vertreter aus Schulen und auch externe Ratsuchende bei Fragen zum Thema Mobbingintervention. Die Beratung hat den Anspruch der Vertraulichkeit und der Lösungsorientierung. Ziel ist, dass unter Wahrung des Opferschutzes eine Handlungskette entwickelt wird, die dazu führt die Mobbingprozesse zu stoppen. Einige Anfragen beziehen sich auch auf den Verdacht auf Mobbing oder den Umgang mit komplexeren Konfliktstrukturen. Die Anfragen lassen sich für das Schuljahr 2017/2018 nach Schulformen wie folgt differenzieren:
 
-• Grundschule: 28,
+– Grundschule: 28,
 
-• Gymnasien: 32,
+– Gymnasien: 32,
 
-• Stadtteilschulen: 26,
+– Stadtteilschulen: 26,
 
-• Sonstige: fünf (anonyme Anfragen).
+– Sonstige: fünf (anonyme Anfragen).
 
 Meldungen zu Stalking lagen der Beratungsstelle Gewaltprävention im Schuljahr 2017/2018 nicht vor. Eine Zuordnung nach Bezirk/Stadtteil wird nicht erfasst (ergänzend siehe Antwort zu 8 a. bis c.). Im Übrigen siehe Drs. 21/14809.
 

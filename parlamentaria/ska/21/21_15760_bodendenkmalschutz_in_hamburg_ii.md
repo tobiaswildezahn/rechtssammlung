@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15556", "21/15604"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65263"
@@ -71,7 +72,7 @@ In der Drs. 21/15556 gibt der Senat an, dass seit 2013 jährlich rund 30 Genehmi
 
 Welche weiteren Auflagen kommen infrage?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die einzige bisher regelhaft erteilte Auflage erfolgt gemäß § 7 Absatz 5 DSchG und verpflichtet den Verursacher einer durch die Beantragung und Genehmigung erforderlichen bauvorgreifenden Ausgrabung zur Kostentragung im Rahmen des Zumutbaren für die Erhaltung und fachgerechte Instandsetzung, Bergung und wissenschaftliche Dokumentation des Denkmals. Die zuständige Stelle ermittelt anhand der eingereichten Planunterlagen und in enger Absprache mit dem Eigentümer die maximal möglichen Grabungskosten vorab. Sie hängen vom Befundtyp, der Befunderhaltung, der Befundausdehnung und der Befundtiefe ab. Die Spannbreite der Kosten liegt zwischen 5 000 und 300 000 Euro, abhängig von der Größe des Grundstücks und der archäologischen Befundlage. Auf die Einhaltung der im Vorwege kalkulierten maximal möglichen Kosten wird seitens der zuständigen Stelle genau geachtet. Eine detaillierte Überprüfung vor Ort, sei es durch eine Begehung oder Voruntersuchung, verschafft in den meisten Fällen Klarheit über die Befundsituation und macht eine Ausgrabung oft obsolet.
 

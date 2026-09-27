@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 22
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/3350", "19/3628"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63431"
@@ -97,7 +98,7 @@ Wie viele der auf den sogenannten Feindeslisten angeführten Personen aus Hambur
 
 Um welche Art Orte in Hamburg handelt es sich bei den auf den aufgefundenen Stadtkarten verzeichneten Orten (zum Beispiel Privatanschriften, Sitz von Organisationen, Synagogen, Moscheen et cetera)?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antworten zu 1., zu 2. und zu 3.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11806", "21/11357"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64561"
@@ -55,7 +56,7 @@ Welche Möglichkeiten sieht der Senat, den Mietern/-innen vom Reetwerder 3 ihr H
 
 Welche Möglichkeiten sieht der Senat, dafür zu sorgen, dass die Mieter/- innen vom Reetwerder 3 wieder in ihre Wohnungen zurückkehren können?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das zuständige Bezirksamt hat ein Verwaltungsverfahren zur Instandsetzung des Wohnraumes und damit zur Wiederherstellung der Bewohnbarkeit eingeleitet.
 
@@ -79,7 +80,7 @@ Wie „Hinz&Kunzt“ berichtet, hat das Bezirksamt die Eigentümerin des Hauses 
 
 Das Gesetz bietet Behörden die Möglichkeit, anstelle untätiger Hauseigentümer/-innen dafür zu sorgen, dass Wohnraum wieder bewohnbar gemacht wird und die Kosten dem/der Eigentümer/in dann in Rechnung gestellt werden („Ersatzvornahme“). Berichten zufolge hat das Bezirksamt Bergedorf dieses Mittel im Reetwerder 3 in der Vergangenheit bereits angewandt, etwa um eine defekte Heizung reparieren zu lassen. Was hindert das Bezirksamt, die Elektrik im Haus durch einen Fachbetrieb instand setzen zu lassen, damit die Mieter/-innen endlich in ihre Wohnungen zurückkehren können?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der Bescheid zur Instandsetzung der Elektroanlage ist Gegenstand eines laufenden Widerspruchsverfahrens. Über diesen Widerspruch konnte noch nicht abschließend entschieden werden.
 
@@ -97,7 +98,7 @@ Welche Kosten sind der Stadt durch die Evakuierung und die öffentliche Unterbri
 
 Von wem versucht die Freie und Hansestadt diese Kosten mit welchen Mitteln rückerstattet zu bekommen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Kosten des Einsatzes für die Evakuierung (Bezirksamt und Polizei) belaufen sich auf 48 762,42 Euro. Die öffentliche Unterbringung für Teile der Bewohnerschaft dauert derzeit noch an. Daher ist zum jetzigen Zeitpunkt keine abschließende Bezifferung der Kosten möglich.
 
@@ -111,7 +112,7 @@ Laut „Bergedorfer Zeitung“ hat sich im Reetwerder 3 Ungeziefer ausgebreitet,
 
 Hat das Bezirksamt Bergedorf die Kosten des Kammerjäger-Einsatzes und etwaiger anderer Maßnahmen der Hauseigentümerin in Rechnung gestellt? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Eigentümerin wurde aufgefordert, gemäß § 17 Absatz 2 und 3 des Infektionsschutzgesetzes einen Fachbetrieb damit zu beauftragen, im Haus und auf dem Grundstück Reetwerder 1-3 den Schädlingsbefall zu bekämpfen.
 

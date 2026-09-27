@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 26
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14124"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64887"
@@ -43,7 +44,7 @@ Wie viele russische Staatsbürger, bei denen es sich nach Kenntnis der Behörden
 
 Um was für Kriminalitätsphänomene handelt es sich dabei (bitte die zugrunde liegenden Delikte nennen)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Statistische Daten im Sinne der Fragestellungen werden bei der Polizei nicht erhoben. Die Polizei erfasst Straftaten gemäß dem Straftatenkatalog der Richtlinien für die Erfassung und Verarbeitung der Daten in der Polizeilichen Kriminalstatistik (PKS). Tatverdächtige werden in der PKS nach Nationalitäten erfasst; eine gesonderte Erfassung der zur Russischen Föderation gehörenden Volksgruppe der Tschetschenen erfolgt in der PKS nicht.
 
@@ -72,7 +73,7 @@ Wie viele russische Staatsbürger tschetschenischer Herkunft sind seit dem 1. Ja
 
 Wie viele dieser Personen haben daraufhin eine Haftstrafe angetreten?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 1 und 2.
 
@@ -108,7 +109,7 @@ In wie vielen Fällen wurden russische Staatsbürger tschetschenischer Herkunft 
 
 In wie vielen Fällen wurde eine bereits angeordnete Abschiebung russischer Staatsbürger tschetschenischer Herkunft abgebrochen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Antworten zu 3. und 8.
 
@@ -212,7 +213,7 @@ Wie häufig sind russische Staatsbürger tschetschenischer Herkunft seit dem 1. 
 
 Wie häufig ist es dabei zur Sicherstellung illegaler Schusswaffen gekommen?
 
-#### Antwort zu Fragen 22 bis 23
+#### Antwort zu Fragen 22 und 23
 
 Statistische Daten im Sinne der Fragestellungen werden bei der Polizei nicht erhoben.
 

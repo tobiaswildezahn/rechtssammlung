@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4602"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53187"
@@ -176,7 +177,7 @@ d. abgerechnet wurden?
 
 Wie hoch ist der prozentuale Anteil der tatsächlich abgerechneten Baggeraufträge in den Jahren 2014 und 2015, die nach a. bewerteter Laderaum-Kubikmeter, b. Leistungsstunden, c. anderen Abrechnungsgrundlagen abgerechnet wurden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Nach Auswertung der Gesamtanzahl der vergebenen Aufträge in den gefragten Jahren ergeben sich folgende prozentuale Anteile der Abrechnungsgrundlagen:
 

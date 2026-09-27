@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 25
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9203", "21/9477"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58268"
@@ -55,7 +56,7 @@ Wie wurden die Vorgaben des Bezirks zu Art, Größe und Anzahl der Veranstaltung
 
 Ist es richtig, dass außer den 38 Veranstaltungen pro Jahr als Vorgabe der Bezirksversammlung Hamburg-Mitte nur Breitensport in der Veranstaltungshalle erlaubt sein sollte? Falls nein: Was sollte erlaubt sein und wo ist das dokumentiert?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/9203 (Anlage 1, § 5 Städtebaulicher Vertrag).
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 25
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9269"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58038"
@@ -121,7 +122,7 @@ Ist es zulässig, Kinder in einer Kindertagesstätte mit Personen, die keine Erz
 
 Welche Aufgaben müssen in Hamburger Kindertagesstätten von Erziehern übernommen werden? Welche Aufgaben können von Erziehern auf Praktikanten übertragen werden und mit welchen Einschränkungen erfolgt dies? Wurden im vorliegenden Fall diese Regelungen eingehalten?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Erzieher unterstützen die Entwicklung der Kinder zu eigenverantwortlichen und gemeinschaftsfähigen Persönlichkeiten auf der Grundlage der Hamburger Bildungsempfehlungen.
 

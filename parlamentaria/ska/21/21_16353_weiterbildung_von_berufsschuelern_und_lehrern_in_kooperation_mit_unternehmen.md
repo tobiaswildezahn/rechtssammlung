@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 16
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65878"
@@ -89,7 +90,7 @@ Wie viel Prozent der Lehrkräfte an den 32 staatlichen berufsbildenden Schulen i
 
 Wie viel Prozent der Lehrkräfte an den 32 staatlichen berufsbildenden Schulen in Hamburg nehmen generell regelmäßig an Weiterbildungen teil, um ihre fachliche und auf die jeweilige Disziplin zugeschnittene Kompetenz stabil zu halten und zu erhöhen? Bitte tabellarisch seit 2015 nach berufsbildender Schule und Art der Weiterbildung aufschlüsseln. Bitte zusätzlich jährliche Anzahl der im Sinne der Fragestellung stattgefundenen Weiterbildungen seit 2015 angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 

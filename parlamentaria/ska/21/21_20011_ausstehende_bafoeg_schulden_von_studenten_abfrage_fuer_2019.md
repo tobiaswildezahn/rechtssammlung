@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69771"
@@ -43,7 +44,7 @@ Wie viele Studenten haben 2019 in Hamburg BAföG bezogen?
 
 Wie hoch belief sich 2019 die bewilligte Fördersumme für Studenten im Durchschnitt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Grundsätzlich bezieht sich der Senat in seiner Berichterstattung gegenüber der Hamburgischen Bürgerschaft auf die vom Statistischen Bundesamt veröffentlichten Daten (Fachserie11 – Reihe7), die erst im August des Folgejahres für das Vorjahr veröffentlicht werden (https://www.destatis.de/DE/Service/Bibliothek/_publikationenfachserienliste-11.html?nn=206136).
 
@@ -143,7 +144,7 @@ In wie vielen Fällen ist 2019 die Obergrenze von 10 000 Euro bei der Rückzahlu
 
 Welche Studienfächer waren hiervon 2019 betroffen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Verwaltung und der Einzug von Darlehen nach dem BAföG wird nach § 18 Absatz 1 BAföG in Verbindung mit § 39 Absatz 2 BAföG ausschließlich zentral vom Bundesverwaltungsamt (BVA) für alle Länder wahrgenommen. Dem Senat liegen keine einzelfallbezogenen statistischen Daten über Rückzahlungen von Darlehen nach dem BAföG bis zur Obergrenze und zur Differenzierung nach Studienfächern vor.
 

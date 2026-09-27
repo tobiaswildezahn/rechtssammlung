@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55171"
@@ -55,7 +56,7 @@ Ist dem Senat bekannt, dass der TÜV die verschiebbare Zwischenwand des Audimax 
 
 Was hat der Senat bislang unternommen, um hier Abhilfe zu schaffen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die UHH hat zur Untersuchung der defekten Mechanik der Trennwand einen Gutachter und eine Demontage beauftragt. Darüber hinaus hat sich der Senat damit nicht befasst.
 

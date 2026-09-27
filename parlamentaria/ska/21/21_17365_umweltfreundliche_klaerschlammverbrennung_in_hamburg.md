@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 17
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16534"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66951"
@@ -539,6 +540,6 @@ Gibt es Alternativen zu diesem Verfahren? Falls ja, welche und hat der Senat in 
 
 Kommen solche Alternativen aus Sicht des Senats grundsätzlich infrage? Die Antwort bitte ausführlich begründen.
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Nein, in Deutschland wird an zwanzig Standorten kommunaler Klärschlamm in Klärschlammverbrennungsanlagen verbrannt. Bis auf eine Anlage erfolgt dies in Wirbelschichtfeuerungsanlagen. Diese Technik hat sich seit vielen Jahrzehnten als die zuverlässigste und umweltschonendste Technologie etabliert.

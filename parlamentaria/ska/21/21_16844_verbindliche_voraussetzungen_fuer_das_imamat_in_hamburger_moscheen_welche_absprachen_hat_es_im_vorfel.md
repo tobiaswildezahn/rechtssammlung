@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 22
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16477", "21/10281"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66412"
@@ -138,7 +139,7 @@ Welche Maßnahmen will der Senat zur Umsetzung der Forderungen von Drs. 21/16477
 
 Zu welchem Zeitpunkt sollen die darauf aufbauenden Neuregelungen umgesetzt werden?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Die in Drs. 21/10281 dargelegten Sprachförderangebote des Bundes und der Freien und Hansestadt können auch von Religionsgelehrten genutzt werden, wenn sie die jeweiligen Zugangsvoraussetzungen erfüllen. Im Kursangebot der Hamburger Volkshochschule (VHS) werden Kurse in allen Niveaustufen angeboten, die keinen Zugangsvoraussetzungen unterliegen. Der Senat setzt sich ferner dafür ein, dass zugewanderte Religionsbedienstete regelhaft Zugang zu Sprachangeboten des Bundes und der Länder erhalten, ihnen das Angebot und die Möglichkeiten der Teilnahme hinreichend bekannt gemacht werden und bei entsprechender Nachfrage geeignete spezielle Kursformate geschaffen werden sollen. Die zuständige Senatorin hat deshalb bei der 14. Integrationsministerkonferenz am 11. und 12. April 2019 einen entsprechenden Antrag dazu eingebracht.
 

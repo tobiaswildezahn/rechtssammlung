@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12182"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62936"
@@ -55,7 +56,7 @@ Welche Projekte existieren beziehungsweise existierten in Hamburg seit wann zur 
 
 Wie viel Mittel der Stadt Hamburg wurden in den letzten zwölf Jahren in Projekte zur Erprobung der Wasserstofftechnologie investiert und aus welchen Haushaltstiteln finanziert? Bitte jeweils pro Jahr angeben, getrennt für den Kernhaushalt und die städtischen Unternehmen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 
@@ -117,87 +118,87 @@ Die UHH meldet die folgenden Veröffentlichungen:
 
 Aufgrund der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit kann hier nur eine unvollständige beispielhafte Auswahl an Publikationen (chronologisch sortiert) zum Thema Wasserstoff- und Brennstoffzellentechnologie dargestellt werden, die jedoch nicht ausschließlich aus den unter der Antwort zu 1. und 2. genannten Projekten entstammen.
 
- Analysis of ceramic layers for solid oxide fuel cells by laser ablation inductively
+– Analysis of ceramic layers for solid oxide fuel cells by laser ablation inductively
 
 coupled plasma mass spectroscopy; Jochen Th. Westheide, J. Sabine Becker, Ralf Jäger, Hans-Joachim Dietze, José A. C. Broekaert; Journal of Analytical Atomic Spectrometry 11, 661-666 (1996).
 
- Mechanistische Untersuchung und Modellierung der Kathodenreaktion in Kar-
+– Mechanistische Untersuchung und Modellierung der Kathodenreaktion in Kar-
 
 bonatbrennstoffzellen (MCFC), Marc Bednarz, Dissertation, Hamburg (2002), Betreuer: Horst Weller.
 
- Tuning the redox potentials of dinuclear tungsten oxo complexes [(Cp*W(4,4'-R,R-
+– Tuning the redox potentials of dinuclear tungsten oxo complexes [(Cp*W(4,4'-R,R-
 
 2,2'-bpy)(μ-O))2][PF6]2 toward photochemical water splitting; C. Cremer, P. Burger; Chemistry - A European Journal 9, 3583-3596 (2003).
 
- Chemie im Kontext: Zusammenarbeit im Schulset Berlin - Erstellung einer Unter-
+– Chemie im Kontext: Zusammenarbeit im Schulset Berlin - Erstellung einer Unter-
 
 richtseinheit zum Thema Brennstoffzelle, Jürgen Menthe, M. Winterhalter -/- Herausgeber: Anja Pitton, Chemie- und physikdidaktische Forschung und naturwissenschaftliche Bildung. Jahrestagung der GDCP in Berlin 2003, 132-134 (2004), ISBN 978-3-8258-7760-6; 3-8258-7760-4, Verlag: Lit Verlag, Berlin.
 
- Organic-inorganic hybrid membranes with heteropolyacids for DMFC applications;
+– Organic-inorganic hybrid membranes with heteropolyacids for DMFC applications;
 
 M. L. Ponce, Dissertation, Hamburg (2004), Betreuer: D. Paul, H.-U. Moritz.
 
- Polyetherketones for fuel cell application; Serge Vetter, Volker Abetz, Günter Goe-
+– Polyetherketones for fuel cell application; Serge Vetter, Volker Abetz, Günter Goe-
 
 rigk, Irmgard Buder, Suzana Pereira Nunes; Desalination 199, 289-290 (2006).
 
- Production of a functionalized polytriazole polymer for use as membranes in fuel
+– Production of a functionalized polytriazole polymer for use as membranes in fuel
 
 cells; Mariela Leticia Ponce, Dominique de Figueiredo Gomes, Suzana Pereira Nunes, Volker Abetz; Patent: US 7989579 (A1) 2008-07-31.
 
- Fuel cell membrane based on polymer electrolyte comprising coordination polymer;
+– Fuel cell membrane based on polymer electrolyte comprising coordination polymer;
 
 Dominique de Figueiredo Gomes, Suzana Pereira Nunes, Klaus-Viktor Peinemann, Stefan Kaskel, Volker Abetz -/- Anmelder: GKSS-Forschungszentrum Geesthacht GmbH, Technische Universität Dresden; Patent: WO 2007059815 (A1) 2007-05-31; DE 102005056564 (B4) 2009-11-12.
 
- Highly Porous Metal-Organic Framework Containing a Novel Organosilicon Linker -
+– Highly Porous Metal-Organic Framework Containing a Novel Organosilicon Linker -
 
 A Promising Material for Hydrogen Storage; Stephanie E. Wenzel, Michael Fischer, Frank Hoffmann, Michael Fröba; Inorganic Chemistry 48, 6559-6565 (2009).
 
- Platinum Complex Catalyzed Decomposition of Formic Acid; Timo Paul Rieckborn,
+– Platinum Complex Catalyzed Decomposition of Formic Acid; Timo Paul Rieckborn,
 
 Elvira Huber, Emine Karakoc, Marc-Heinrich Prosenc; European Journal of Inorganic Chemistry 4757-4761 (2010).
 
- Mikroporöse Anorganisch-Organische Hybridmaterialien. Synthese, Charakterisie-
+– Mikroporöse Anorganisch-Organische Hybridmaterialien. Synthese, Charakterisie-
 
 rung und Anwendung als Wasserstoffspeicher; Stephanie E. Wenzel, Dissertation, Hamburg (2010); Betreuer: Michael Fröba.
 
- An Interpenetrated Metal-Organic Framework and Its Gas Storage Behavior: Simu-
+– An Interpenetrated Metal-Organic Framework and Its Gas Storage Behavior: Simu-
 
 lation and Experiment; Daniela Frahm, Michael Fischer, Frank Hoffmann, Michael Fröba; Inorganic Chemistry 50, 11055-11063 (2011).
 
- Tuning metal-organic frameworks for hydrogen storage applications; Stephanie E.
+– Tuning metal-organic frameworks for hydrogen storage applications; Stephanie E.
 
 Wenzel, Daniela Frahm, Michael Fischer, Frank Hoffmann, Michael Fröba; Preprints of Symposia - American Chemical Society, Division of Fuel Chemistry 56 (2) 171-171 (2011).
 
- Synthese von Hydrido-Platin-Komplexen und deren Anwendung in der C1-Chemie,
+– Synthese von Hydrido-Platin-Komplexen und deren Anwendung in der C1-Chemie,
 
 Timo Paul Rieckborn, Dissertation, Hamburg (2011), Betreuer: Marc-Heinrich Prosenc.
 
- Molecular Simulations of Hydrogen Storage and Gas Separation in Metal-Organic
+– Molecular Simulations of Hydrogen Storage and Gas Separation in Metal-Organic
 
 Frameworks, Michael Fischer, Dissertation, Hamburg (2011), Betreuer: Michael Fröba.
 
- Large area Cl9+ irradiated PET membranes for hydrogen separation; Kamlendra
+– Large area Cl9+ irradiated PET membranes for hydrogen separation; Kamlendra
 
 Awasthi, Manfred Stamm, Volker Abetz, Yogesh K. Vijay; International Journal of Hydrogen Energy 36, 9374-9381 (2011).
 
- Metal-organic frameworks and related materials for hydrogen purification: Interplay
+– Metal-organic frameworks and related materials for hydrogen purification: Interplay
 
 of pore size and pore wall polarity; Michael Fischer, Frank Hoffmann, Michael Fröba; RSC Advances 2, 4382-4396 (2012).
 
- Synthese und Charakterisierung naoporöser organisch-anorganischer Hybridmate-
+– Synthese und Charakterisierung naoporöser organisch-anorganischer Hybridmate-
 
 rialien für den Einsatz in der Gasspeicherung, Daniela Frahm, Dissertation, Hamburg (2013), Betreuer: Michael Fröba.
 
- Aktueller Entwicklungsstand der Wasserstoff- und Brennstoffzellen-Technologie,
+– Aktueller Entwicklungsstand der Wasserstoff- und Brennstoffzellen-Technologie,
 
 Michael Fröba, Wasserstoff- und Brennstoffzellentechnologie für eine nachhaltige Zukunft. Kompendium zum 25-jährigen Jubiläum der Wasserstoff-Gesellschaft Hamburg e. V., 51-66 (2014), ISBN 978-3-937863-44-3, Verlag: Hydrogeit Verlag, Oberkrämer.
 
- PECVD-Synthese von Kohlenstoffnanostrukturen und ihre Verwendung als Kataly-
+– PECVD-Synthese von Kohlenstoffnanostrukturen und ihre Verwendung als Kataly-
 
 satorträgermaterial für Direkt-Ethanol-Brennstoffzellen; Michael Höltig, Dissertation, Hamburg (2015), ISBN 978-3-8439-2232-6, Verlag: Dr. Hut, München; Betreuer: Alf Mews.
 
- Highly Efficient Fuel Cell Electrodes from Few-Layer Graphene Sheets and Elec-
+– Highly Efficient Fuel Cell Electrodes from Few-Layer Graphene Sheets and Elec-
 
 trochemically Deposited Palladium Nanoparticles; Michael Höltig, Charlotte Ruhmlieb, Tobias Kipp, Alf Mews; Journal of Physical Chemistry C 120, 7476-7481 (2016).
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 27
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4500", "21/4902", "20/10333", "21/5922", "20/8997"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56958"
@@ -97,13 +98,13 @@ b) Inwiefern führt die zuständige Behörde ein eigenes Projekt durch, das dazu
 
 Der Landesbetrieb Straßen, Brücken und Gewässer führt aktuell einen Vergleich zwischen folgenden Systemen durch, die grundsätzlich nach dem Stand der Technik geeignet sind und eine systematische Erfassung und Bewertung der Radwege leisten könnten:
 
- GIS basierte Straßenkontrolle (Messergebnisse aus dem Pilotprojekt MovE liegen
+– GIS basierte Straßenkontrolle (Messergebnisse aus dem Pilotprojekt MovE liegen
 
 vor)
 
- Motorisiertes Kleinfahrzeug (Messergebnisse liegen vor)
+– Motorisiertes Kleinfahrzeug (Messergebnisse liegen vor)
 
- Meßfahrrad (es steht eine Rückmeldung des Anbieters noch aus)
+– Meßfahrrad (es steht eine Rückmeldung des Anbieters noch aus)
 
 Die Vergleichsuntersuchungen sind noch nicht abgeschlossen. Im weiteren Verfahren wird darüber entschieden werden. Im Übrigen siehe Drs. 20/10333, 21/5922, 21/4500 und 21/4902.
 

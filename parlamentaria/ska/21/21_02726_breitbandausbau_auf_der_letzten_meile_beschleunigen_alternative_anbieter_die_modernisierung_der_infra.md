@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1651"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51061"
@@ -53,7 +54,7 @@ Inwieweit hält der Senat regelmäßig mit Interessensgruppen Rücksprache, um d
 
 Gibt es eine zentrale Anlaufstelle für Unternehmen und Bürger, um sich über den Breitbandausbau in ihrem Quartier zu informieren beziehungsweise durch schlechte Erschließung entstehende Probleme zu melden? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Bürger, Unternehmen und Interessengruppen können sich jederzeit an die zuständige Behörde wenden und dort Vorschläge unterbreiten, Fragen stellen und Probleme mitteilen.
 

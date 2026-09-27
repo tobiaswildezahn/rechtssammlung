@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 24
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4566", "21/11155", "21/12038", "21/10281"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62082"
@@ -59,17 +60,17 @@ Zu den Maßnahmen des BAMF und gegebenenfalls ergänzenden Maßnahmen des Landes
 
 Der Landesbetrieb Hamburger Volkshochschule (VHS) betreibt ein Grundbildungszentrum und hält ein umfangreiches Angebot zur Alphabetisierung und Grundbildung vor. Zudem gibt es eine Reihe von Projekten und Maßnahmen, um Analphabetismus zu reduzieren. Im Einzelnen:
 
- VHS: Regelkurse für funktionale Analphabeten und Analphabetinnen
+– VHS: Regelkurse für funktionale Analphabeten und Analphabetinnen
 
- VHS: Standardkurse für primäre Analphabeten und Analphabetinnen
+– VHS: Standardkurse für primäre Analphabeten und Analphabetinnen
 
- VHS: Alphakurse für Langsamlernende für primäre Analphabeten und Analphabe-
+– VHS: Alphakurse für Langsamlernende für primäre Analphabeten und Analphabe-
 
 tinnen
 
- LmB: Alphakurse für Menschen mit Behinderung
+– LmB: Alphakurse für Menschen mit Behinderung
 
- KOM: Intensivkurse für deutschsprachige Analphabeten und Analphabetinnen
+– KOM: Intensivkurse für deutschsprachige Analphabeten und Analphabetinnen
 
 ### Frage 3
 
@@ -120,45 +121,45 @@ Wie hat sich die Projektlandschaft seit 2011 im Bereich der Grundbildung veränd
 
 Von der Freien und Hansestadt Hamburg (FHH) finanzierte oder kofinanzierte Projekte:
 
- Projekte zur Alphabetisierung und Grundbildung für deutschsprachige Analphabe-
+– Projekte zur Alphabetisierung und Grundbildung für deutschsprachige Analphabe-
 
 ten und Analphabetinnen sowie für Menschen mit Behinderung (siehe Antworten zu 2) und 3)) werden kontinuierlich gefördert.
 
- Hinzugekommen ist die Förderung zweier Selbstlernzentren in Langenhorn und
+– Hinzugekommen ist die Förderung zweier Selbstlernzentren in Langenhorn und
 
 Hohenhorst im Rahmen des Hamburger ESF-Programms in Verantwortung der VHS. Projektlaufzeit zunächst 2014 bis 2017; in 2017 wurde die Förderung für beide Selbstlernzentren bis 2020 verlängert.
 
- 2015 wurde das Projekt „Wege öffnen – ein Projekt zur Stärkung der integrationa-
+– 2015 wurde das Projekt „Wege öffnen – ein Projekt zur Stärkung der integrationa-
 
 len Bildungsorientierung in Roma-Familien“ aufgelegt. Es wird im Rahmen des Asyl-Migrations-Integrations-Fond (AMIF) gefördert und hat eine Laufzeit von Juni 2015 bis Mai 2018 (siehe Antwort zu 3))
 
- Ein Projekt zur trägerübergreifenden Qualifizierung von Kursleitenden (Alphabeti-
+– Ein Projekt zur trägerübergreifenden Qualifizierung von Kursleitenden (Alphabeti-
 
 sierungsarbeit kompakt) wurde im Frühjahr 2018 durchgeführt (siehe Antwort zu 3)).
 
 Vom Bund oder anderen Institutionen voll finanzierte Projekte am Standort Hamburg sind der FHH gegenüber nicht berichts- oder rechenschaftspflichtig, insofern erfolgt die nachfolgende Aufzählung nach aktuellem Kenntnisstand der zuständigen Fachbehörde:
 
- Das vom BMBF geförderte Projekt MENTO ist ein bundesweites Mentorenprojekt
+– Das vom BMBF geförderte Projekt MENTO ist ein bundesweites Mentorenprojekt
 
 mit einem Standort in Hamburg. Förderbeginn war 2013. Das Projekt wurde im Juli 2016 bis Juni 2021 verlängert.
 
- Das vom BMBF geförderte Projekt BasisKomPlus berät und informiert über Grund-
+– Das vom BMBF geförderte Projekt BasisKomPlus berät und informiert über Grund-
 
 bildungsformate am Arbeitsplatz und ist seit Februar 2016 mit einer Laufzeit bis November 2020 auch am Standort Hamburg vertreten.
 
- Das vom BMBF geförderte Projekt CurVe II zur Professionalisierung der finanziel-
+– Das vom BMBF geförderte Projekt CurVe II zur Professionalisierung der finanziel-
 
 len Grundbildung hat einen Verbundpartner in Hamburg. Es hat eine Laufzeit von Januar 2016 bis November 2020.
 
- Das vom BMBF geförderte Verbundprojekt „Offensive zur Implementierung und
+– Das vom BMBF geförderte Verbundprojekt „Offensive zur Implementierung und
 
 Verstetigung arbeitsplatznaher Grundbildung in Hamburger Unternehmen“ (kurz: Grund:Bildung und Wirtschaft) hatte eine Laufzeit von 2012 bis 2015.
 
- Seit dem 1. Januar 2018 haben alle Mehrgenerationenhäuser die Möglichkeit, sich
+– Seit dem 1. Januar 2018 haben alle Mehrgenerationenhäuser die Möglichkeit, sich
 
 im Rahmen eines fakultativen Sonderschwerpunkts an der Nationalen Dekade für Alphabetisierung und Grundbildung zu beteiligen. Hierfür werden vom BMBF bis 2020 jährlich Mittel zur Verfügung gestellt. In 2018 erhalten zwei Hamburger Mehrgenerationenhäuser eine Projektförderung.
 
- Das Ausschreibungsverfahren des BMBF zu lebensweltlich orientierten Innovati-
+– Das Ausschreibungsverfahren des BMBF zu lebensweltlich orientierten Innovati-
 
 onsvorhaben im Bereich der Alphabetisierung und Grundbildung Erwachsener ist noch nicht abgeschlossen; zwei Hamburger Projekte sind in der engeren Wahl.
 
@@ -329,7 +330,7 @@ c) Wie viele Weiterbildungsangebote wurden konzipiert?
 d) Wie viele Coachings fanden statt?
 e) Wie viele Informationsveranstaltungen gab es?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Die Fachstelle Grund:Bildung wurde im Rahmen eines vom BMBF geförderten Projekts eingerichtet. Das Projekt ist 2015 ausgelaufen. Der FHH liegen keine Kennzahlen zu diesem Bundesprojekt vor.
 

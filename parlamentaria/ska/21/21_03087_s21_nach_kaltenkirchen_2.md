@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/738", "21/2814", "21/756"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51416"
@@ -43,7 +44,7 @@ Trifft es zu, dass der Senat das in Drs. 21/756, Frage 9., gemachte Versprechen,
 
 Wenn ja: Auf welcher Grundlage soll dann die Bürgerschaft über die Freigabe entsprechender Mittel entscheiden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Standardisierte Bewertung liegt als Veröffentlichung vor (siehe Umdruck 18/4048 des Schleswig-Holsteinischen Landtags). Zur weiteren Umsetzung des Projekts wird die Bürgerschaft mit einer Drucksache voraussichtlich im Sommer des Jahres 2017 befasst werden. Auf dieser Basis wird über die Vergabe von Finanzierungsmitteln zu entscheiden sein. Im Übrigen siehe Schreiben an die Präsidentin der Bürgerschaft vom 28. Dezember 2015.
 
@@ -55,7 +56,7 @@ Wie ist es zu verstehen, dass mit 3.900 Fahrten nur 1.900 Fahrgäste transportie
 
 Wie ist es zu erklären, dass nun nur noch von einem Fahrgastgewinn von 1.900 Fahrgästen pro Tag die Rede ist, während es vor einem halben Jahr noch 2.600 waren (Drs. 21/756, Fragen 2. und 3: 23.900 Fahrgäste statt 21.300)?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Angaben widersprechen sich nicht. Die benannte Textstelle bezieht sich auf die Verkehrsverlagerung vom motorisierten Individual- zum öffentlichen Personennahverkehr. Da jede verlagerte Pkw-Fahrt in der Regel zwei Wegen entspricht (je Person eine Hin- und Rückfahrt), wird bei 3.900 Fahrten von rund 1.900 Fahrgästen ausgegangen. Diese Verlagerung macht den Großteil des Gesamt-Fahrgastzuwachses von
 2.600 Personen (23.900 prognostizierte Fahrgäste abzüglich der 21.300 in Drs. 21/756 genannten Fahrgäste) aus.

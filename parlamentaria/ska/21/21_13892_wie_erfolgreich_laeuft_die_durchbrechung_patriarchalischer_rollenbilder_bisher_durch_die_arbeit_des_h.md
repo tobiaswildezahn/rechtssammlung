@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 27
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4697", "21/8722", "21/10124", "21/12378"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63265"
@@ -71,7 +72,7 @@ d) Handelt es sich hier um die Ausbildung von Multiplikatoren? Wenn ja, wie lang
 
 In Drs. 21/10124 hieß es: „Geplant ist eine Kooperation mit der Nelson- Mandela-Schule, der Stadtteilschule Horn sowie ausgewählten Hamburger Berufsschulen. Weitere potenzielle Kooperationspartner sind Einrichtungen, die mit geflüchteten Jugendlichen arbeiten.“ Welche dieser Kooperationen wurden wann wie realisiert und welche weiteren Kooperationen wurden wann wie begonnen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/10124 und Drs. 21/12378. Im Übrigen siehe Vorbemerkung.
 

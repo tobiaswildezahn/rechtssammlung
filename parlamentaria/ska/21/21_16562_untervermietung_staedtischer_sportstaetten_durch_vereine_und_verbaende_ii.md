@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5024", "21/16185"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66091"
@@ -137,13 +138,13 @@ Schützengilde
 Wandsbek, Hammer  
 Straße 58
 
- Phönix Sportschießen Hamburg nutzt die Anlage für
+– Phönix Sportschießen Hamburg nutzt die Anlage für
 
 Kleinkaliber, da die eigene Anlage Neusurenland nur  
 für Luftgewehr zugelassen ist.  
 Harburg  
 Uwe-Seeler-Halle  
-  
+–  
 Regelhafte Abweichung aufgrund der Verwendung
 
 von RISE-Mitteln bei der Sanierung der Sporthalle  
@@ -151,7 +152,7 @@ und den daraus resultierenden Vorgaben des Bundesprogrammes.
 Hans-Dewitz-Ring-  
 Halle
 
- Regelhafte Abweichung aufgrund der ständigen Mit-
+– Regelhafte Abweichung aufgrund der ständigen Mit-
 
 benutzung durch Schulen.
 

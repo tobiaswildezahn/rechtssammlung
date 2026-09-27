@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11093"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67413"
@@ -84,7 +85,7 @@ Welche Möglichkeiten sieht der Senat, um die Errichtung von weiteren Taubenschl
 
 Welche Schlüsse zieht der Senat hinsichtlich der weiteren Errichtung von Taubenschlägen aus dem Urteil des VG Neustadt a.d. Weinstraße vom 16.09.2015 – 3 K 322/15.NW?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Errichtung von Taubenschlägen erfordert einen sehr hohen und vor allem personellen Aufwand, der auch nach Errichtung dauerhaft zu leisten wäre. Daher wird die Förderung weiterer Taubenschläge im Einzelfall nach Prüfung der jeweiligen Umstände und unter Berücksichtigung aller relevanten Aspekte entschieden.
 

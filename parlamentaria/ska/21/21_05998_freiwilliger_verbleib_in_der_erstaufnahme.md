@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 19
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5882"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54505"
@@ -69,7 +70,7 @@ Wie viele Bitten auf freiwilligen Verbleib in der Erstaufnahmeeinrichtung wurden
 
 Unter welchen Voraussetzungen/Konstellationen kann der Bitte auf freiwilligen Verbleib in der Erstaufnahmeeinrichtung gefolgt werden? a. Gibt es einen konkreten Kriterienkatalog, nach dem die Fälle entschieden werden? b. Welche Abstimmung hinsichtlich der Standortverteilung erfolgt mit den Bewohnern einer Erstaufnahmeeinrichtung, bevor sie in eine Folgeunterkunft verteilt werden? c. Wird auf die Standortwünsche bezüglich der Folgeunterbringung der Betroffenen Rücksicht genommen? Bitte begründen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

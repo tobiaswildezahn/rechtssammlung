@@ -14,6 +14,7 @@ fragen: 32
 einzelfragen: 26
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13739"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66774"
@@ -45,7 +46,7 @@ Wie lautete der durch die Verkehrsstation in der Max-Brauer-Allee gemessene Mitt
 
 Wie lauteten die durch die Verkehrsstation in der Max-Brauer-Allee gemessenen Mittelwerte für die Stickoxidkonzentration in den Jahren 2015-2017 jeweils? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Sowohl die an den verkehrsnahen Luftmessstationen erhobenen Luftqualitätsmesswerte des Hamburger Luftmessnetzes als auch die entsprechenden Jahresberichte werden nach abgeschlossener Datenvalidierung veröffentlicht und sind online abrufbar, siehe dazu: http://luft.hamburg.de.
 
@@ -57,7 +58,7 @@ Welcher Mittelwert für die Stickoxidkonzentration wurde auf der, aufgrund der f
 
 Welche Mittelwerte für die Stickoxidkonzentration wurden auf der, aufgrund der für die Max-Brauer-Allee verhängten Diesel-Durchfahrtsbeschränkung, vorgesehenen Ausweichroute in den Jahren 2015 – 2017 gemessen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 An den Ausweichrouten erfolgt keine Luftqualitätsmessung.
 
@@ -71,7 +72,7 @@ Wie lautete der durch die Verkehrsstation in der Stresemannstraße gemessene Mit
 
 Wie lauteten die durch die Verkehrsstation in der Stresemannstraße gemessenen Mittelwerte für die Stickoxidkonzentration in den Jahren 2015 – 2017? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antwort zu 1. und 2.
 
@@ -83,7 +84,7 @@ Welche Mittelwerte für die Stickoxidkonzentration wurden auf den, aufgrund der 
 
 Welche Mittelwerte für die Stickoxidkonzentration wurden auf den, aufgrund der für die Stresemannstraße verhängten Diesel-Durchfahrtsbeschränkung, vorgesehenen Ausweichrouten in den Jahren 2015 – 2017 gemessen? Bitte jahresweise aufschlüsseln und für jede der drei Ausweichrouten separat angeben.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antwort zu 3. und 4.
 

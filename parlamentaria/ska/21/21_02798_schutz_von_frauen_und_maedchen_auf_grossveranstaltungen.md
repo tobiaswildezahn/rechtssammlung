@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["16/4616", "20/10994", "21/2727", "21/2728", "21/2739"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51105"
@@ -101,7 +102,7 @@ Welche Maßnahmen wurden ergriffen, die betroffenen Frauen zu unterstützen?
 
 Auf welche Beratungsstellen wird in solchen Fällen verwiesen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Polizei informiert betroffene Frauen bei der Anzeigenaufnahme über ihre Rechte im Strafverfahren durch die Aushändigung des „Merkblatt über die Rechte von Verletzten und Geschädigten in Strafverfahren“. Darüber hinaus gibt die Polizei Hinweise auf das umfangreiche Hamburger Hilfenetz mit Opferhilfeeinrichtungen und Beratungsstellen für sexualisierte Gewalt sowie Straftaten im Allgemeinen. Bei der Polizei liegen entsprechende Broschüren mit den Erreichbarkeiten vor; diese werden im Bedarfsfall ausgehändigt.
 

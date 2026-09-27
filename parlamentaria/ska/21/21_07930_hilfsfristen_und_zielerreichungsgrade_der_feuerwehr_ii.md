@@ -10,12 +10,13 @@ urheber: ["Dennis Gladiator"]
 fraktionen: ["CDU"]
 vorgang: 51795
 seiten: 2
-fragen: 0
-einzelfragen: 0
-antwortbloecke: 0
+fragen: 1
+einzelfragen: 1
+antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7663", "21/3565"]
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56567"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/56567/21_07930_hilfsfristen_und_zielerreichungsgrade_der_feuerwehr_ii"
 abgerufen: "2026-09-26"
@@ -27,15 +28,19 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Dennis Gladiator (CDU) vom 10.02.17 und Antwort des Senats · Drucksache vom 17.02.2017  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/56567) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/56567/21_07930_hilfsfristen_und_zielerreichungsgrade_der_feuerwehr_ii)
 
-## Volltext
-
-Hilfsfristen und Zielerreichungsgrade der Feuerwehr (II)
+## Einleitung für die Fragen
 
 Auf meine Schriftliche Kleine Anfrage Drs. 21/7663 hin hat der Senat die Zielerreichungsgrade in Hamburg für das Jahr 2016 angegeben.
 
 Vor diesem Hintergrund frage ich den Senat:
 
+## Fragen und Antworten
+
+### Frage 1
+
 Welche Zielerreichungsgrade erfüllten die Hamburger Berufsfeuerwehr und Freiwilligen Feuerwehren 2016 in den einzelnen Bezirken, Stadtteilen und Feuer- und Rettungswachen? Bitte gesondert und für das gesamte Jahr sowie monatsweise angeben.
+
+#### Antwort zu Frage 1
 
 Eine Unterscheidung der Zielerreichungsgrade für die Hamburger Berufsfeuerwehr und die Freiwilligen Feuerwehren ist nicht möglich. Die Freiwilligen Feuerwehren verstärken und unterstützen die Kräfte der Berufsfeuerwehr. Berufsfeuerwehr und Freiwillige Feuerwehr bilden dabei gemeinsam die Einheit Feuerwehr Hamburg.
 
@@ -47,7 +52,108 @@ Die Werte für das Jahr 2016 der Feuer- und Rettungswachen sind in der nachfolge
 
 Feuer‐ und Rettungswache 1. Quartal 2. Quartal 3. Quartal 4. Quartal 2016 gesamt
 
-Innenstadt 88,4 % 95,7 % 87,7 % 89,1 % 90,0 % Altona 57,1 % 57,7 % 66,7 % 48,3 % 57,5 % Rotherbaum 83,0 % 78,7 % 80,3 % 72,1 % 78,0 % Osdorf 54,8 % 60,0 % 65,3 % 68,8 % 59,1 % Stellingen 76,1 % 72,7 % 57,1 % 58,0 % 65,9 % Alsterdorf 67,9 % 41,2 % 34,9 % 48,0 % 45,1 % Wandsbek 74,1 % 66,0 % 65,8 % 76,9 % 70,7 % Berliner Tor 86,0 % 87,5 % 87,3 % 85,1 % 86,4 % Barmbek 88,7 % 85,0 % 76,5 % 68,3 % 79,4 % Sasel 56,3 % 33,3 % 45,5 % 50,0 % 46,6 % Billstedt 79,4 % 75,0 % 81,3 % 75,9 % 77,8 % Bergedorf 66,7 % 87,5 % 81,8 % 60,7 % 74,1 % Harburg 50,0 % 36,4 % 23,8 % 46,7 % 40,0 % Veddel 30,0 % 83,3 % 50,0 % 30,0 % 50,0 % Wilhelmsburg 87,5 % 60,0 % 87,5 % 76,2 % 77,9 % Finkenwerder 20,0 % 40,0 % 42,9 % 66,7 % 40,0 % Süderelbe 45,5 % 68,4 % 40,0 % 29,7 % 46,7 %
+Innenstadt  
+88,4 %  
+95,7 %  
+87,7 %  
+89,1 %  
+90,0 %  
+Altona  
+57,1 %  
+57,7 %  
+66,7 %  
+48,3 %  
+57,5 %  
+Rotherbaum  
+83,0 %  
+78,7 %  
+80,3 %  
+72,1 %  
+78,0 %  
+Osdorf  
+54,8 %  
+60,0 %  
+65,3 %  
+68,8 %  
+59,1 %  
+Stellingen  
+76,1 %  
+72,7 %  
+57,1 %  
+58,0 %  
+65,9 %  
+Alsterdorf  
+67,9 %  
+41,2 %  
+34,9 %  
+48,0 %  
+45,1 %  
+Wandsbek  
+74,1 %  
+66,0 %  
+65,8 %  
+76,9 %  
+70,7 %  
+Berliner Tor  
+86,0 %  
+87,5 %  
+87,3 %  
+85,1 %  
+86,4 %  
+Barmbek  
+88,7 %  
+85,0 %  
+76,5 %  
+68,3 %  
+79,4 %  
+Sasel  
+56,3 %  
+33,3 %  
+45,5 %  
+50,0 %  
+46,6 %  
+Billstedt  
+79,4 %  
+75,0 %  
+81,3 %  
+75,9 %  
+77,8 %  
+Bergedorf  
+66,7 %  
+87,5 %  
+81,8 %  
+60,7 %  
+74,1 %  
+Harburg  
+50,0 %  
+36,4 %  
+23,8 %  
+46,7 %  
+40,0 %  
+Veddel  
+30,0 %  
+83,3 %  
+50,0 %  
+30,0 %  
+50,0 %  
+Wilhelmsburg  
+87,5 %  
+60,0 %  
+87,5 %  
+76,2 %  
+77,9 %  
+Finkenwerder  
+20,0 %  
+40,0 %  
+42,9 %  
+66,7 %  
+40,0 %  
+Süderelbe  
+45,5 %  
+68,4 %  
+40,0 %  
+29,7 %  
+46,7 %
 
 Stadtgebiet gesamt 69,6 %
 

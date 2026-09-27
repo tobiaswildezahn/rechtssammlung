@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 20
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15000", "21/15014", "21/16230"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65940"
@@ -104,12 +105,21 @@ Siehe Drs. 21/16230. Die einzelnen Abrechnungsarbeiten der Einzelpläne sind noc
 ### Frage 11
 
 Laut einer von der Finanzbehörde verbreiteten Stellungnahme des Finanzsenators liegen die Kosten des Tarifabschlusses für die gesamte Laufzeit von 33 Monaten bei rund 420 Millionen Euro. Gleichzeitig ist dort die Rede von einer eingeplanten Reserve im Doppelhaushalt 2019/2020 von 240 Millionen Euro.
-11.1. Wie setzt sich der Betrag von rund 420 Millionen Euro im Einzelnen zusammen? Wie unterteilt er sich in die unterschiedlichen zahlungswirksamen und zahlungsunwirksamen Personalkostenarten?
-11.2. Welcher Personalbestand wurde zur Ermittlung der rund 420 Millionen für die einzelnen Fachbehörden und Haushaltsjahre angenommen?
-11.3. Sind in dem Betrag von 420 Millionen Euro auch die Mehrkosten von Landesbetrieben und Hochschulen enthalten? Wenn nein, warum nicht?
+
+### Frage 11.1
+
+Wie setzt sich der Betrag von rund 420 Millionen Euro im Einzelnen zusammen? Wie unterteilt er sich in die unterschiedlichen zahlungswirksamen und zahlungsunwirksamen Personalkostenarten?
+
+### Frage 11.2
+
+Welcher Personalbestand wurde zur Ermittlung der rund 420 Millionen für die einzelnen Fachbehörden und Haushaltsjahre angenommen?
+
+### Frage 11.3
+
+Sind in dem Betrag von 420 Millionen Euro auch die Mehrkosten von Landesbetrieben und Hochschulen enthalten? Wenn nein, warum nicht?
 11.4 Wie wurde der genannte Betrag einer eingeplanten Reserve von 240 Millionen Euro im Einzelnen ermittelt?
 11.5 Wie unterteilt sich der Betrag von 240 Millionen Euro auf die jeweiligen Einzelpläne und Haushaltsjahre?
 
-#### Antwort zu Frage 11
+#### Antwort zu Fragen 11, 11.1, 11.2 und 11.3
 
 Die Darstellung der Werte von rund 420 Millionen Euro und rund 240 Millionen Euro bezieht sich auf einen überschlägig geschätzten Jahreswert nach Vollzug der letzte Anpassung der aktuellen tariflichen Einigung im Jahr 2021 unter Einbeziehung der fiktiven Wertgleichbehandlung auch der beamteten Beschäftigten für den Bereich der Kernverwaltung, Landesbetriebe und Hochschulen (Länderfinanzierung). Eine Detailaufgliederung dieses Betrages liegt nicht vor. Zu den Auswirkungen auf die Jahre 2019 und 2020 siehe Vorbemerkung.

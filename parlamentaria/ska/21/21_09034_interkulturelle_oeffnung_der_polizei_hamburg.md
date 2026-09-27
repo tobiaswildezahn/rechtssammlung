@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 21
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8630", "21/2630"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57780"
@@ -55,7 +56,7 @@ a) 2014,
 b) 2015 und
 c) 2016 und nach Geschlecht.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Jahr
 
@@ -106,7 +107,7 @@ a) 2014,
 b) 2015 und
 c) 2016 und nach Geschlecht.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Jahr
 
@@ -145,7 +146,7 @@ Werbekampagnen, unter anderem mit dem Profi-Fußballer Gideon Jung, oder die Ver
 
 Gibt es darüber hinaus Strategien, um den Anteil von Menschen mit Migrationshintergrund bei der Polizei weiter zu erhöhen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Polizei setzt sieben Mitarbeiterinnen und Mitarbeiter mit Migrationshintergrund gezielt für die Nachwuchsgewinnung, Betreuung von Bewerberinnen und Bewerbern mit Migrationshintergrund und die Bearbeitung ihrer Bewerbungen ein.
 
@@ -163,11 +164,11 @@ Weitere bereits durchgeführte beziehungsweise geplante Maßnahmen zur Steigerun
 
 ‐ Werben in Kulturkreisen und -häusern von Menschen mit Migrationshintergrund zum Beispiel durch
 
- Teilnahme an der Veranstaltung „Future of Ghana“.
+– Teilnahme an der Veranstaltung „Future of Ghana“.
 
- Informationsveranstaltungen in der russisch-orthodoxen Kirche.
+– Informationsveranstaltungen in der russisch-orthodoxen Kirche.
 
- Informationsveranstaltung auf einem türkischen Kinderfest.
+– Informationsveranstaltung auf einem türkischen Kinderfest.
 
 ‐ Informationsveranstaltungen an Schulen mit hohem Migrationsanteil.
 

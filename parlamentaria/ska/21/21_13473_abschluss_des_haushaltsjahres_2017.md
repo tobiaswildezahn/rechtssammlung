@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 57267
 seiten: 12
 fragen: 8
-einzelfragen: 14
-antwortbloecke: 4
+einzelfragen: 18
+antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62840"
@@ -47,7 +48,7 @@ Wie ist der derzeitige Stand der Abschlussbuchungen zum Haushaltsjahr 2017?
 
 Welche Buchungen stehen derzeit noch aus und bis wann sollen diese abgeschlossen werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Abschlussbuchungen zum Haushaltsjahr 2017 sind überwiegend zum 31. Mai 2018 abgeschlossen. Unter anderem stehen Haushaltsausgleichsbuchungen/Buchungen hinsichtlich der Ergebnisverwendung noch aus.
 
@@ -62,48 +63,88 @@ Wie sieht die doppische Gesamtfinanzrechnung 2017 nach dem derzeitigen Buchungss
 ### Frage 5
 
 Globale Minderkosten
-5.1. In welchen Einzelplänen konnten beziehungsweise können die 2017 veranschlagten globalen Minderkosten nicht durch die jeweilige Behörde erbracht werden?
-5.2. Wie wurden die im Haushaltsplan 2017 vorgesehenen globalen Minderkosten in den einzelnen Einzelplänen jeweils erbracht?
-5.3. Aus welchen einzelnen Kostenermächtigungen welcher Produktgruppen wurden die geplanten globalen Minderkosten in den Einzelplänen jeweils ausgeglichen?
+
+### Frage 5.1
+
+In welchen Einzelplänen konnten beziehungsweise können die 2017 veranschlagten globalen Minderkosten nicht durch die jeweilige Behörde erbracht werden?
+
+### Frage 5.2
+
+Wie wurden die im Haushaltsplan 2017 vorgesehenen globalen Minderkosten in den einzelnen Einzelplänen jeweils erbracht?
+
+### Frage 5.3
+
+Aus welchen einzelnen Kostenermächtigungen welcher Produktgruppen wurden die geplanten globalen Minderkosten in den Einzelplänen jeweils ausgeglichen?
 
 ### Frage 6
 
 Ermächtigungsüberträge
-6.1. In welcher Höhe wurde von den einzelnen Behörden für die jeweiligen Einzelpläne jeweils die Übertragung von Kostenermächtigungen auf das Haushaltsjahr 2017 beantragt?
 
-#### Antwort zu Fragen 3 bis 6
+### Frage 6.1
+
+In welcher Höhe wurde von den einzelnen Behörden für die jeweiligen Einzelpläne jeweils die Übertragung von Kostenermächtigungen auf das Haushaltsjahr 2017 beantragt?
+
+#### Antwort zu Fragen 3, 4, 5, 5.1, 5.2, 5.3, 6 und 6.1
 
 Siehe Vorbemerkung.
 
-6.2. In welcher Höhe wurde von den einzelnen Behörden für die jeweiligen Einzelpläne jeweils die Übertragung von Auszahlungsermächtigungen für Investitionen und Darlehen auf das Haushaltsjahr 2017 beantragt?
+### Frage 6.2
+
+In welcher Höhe wurde von den einzelnen Behörden für die jeweiligen Einzelpläne jeweils die Übertragung von Auszahlungsermächtigungen für Investitionen und Darlehen auf das Haushaltsjahr 2017 beantragt?
+
+#### Antwort zu Frage 6.2
 
 Zum vorläufigen Stand siehe Anlage 1. Im Übrigen siehe Vorbemerkung.
 
-6.3. Wie ist der Stand des Verfahrens der Übertragung von Ermächtigungen auf das Haushaltsjahr 2017?
+### Frage 6.3
 
-6.4. Welche beantragten Überträge wurden von der Finanzbehörde bereits genehmigt? Bei welchen Einzelplänen steht die Freigabe der Finanzbehörde noch aus?
+Wie ist der Stand des Verfahrens der Übertragung von Ermächtigungen auf das Haushaltsjahr 2017?
+
+### Frage 6.4
+
+Welche beantragten Überträge wurden von der Finanzbehörde bereits genehmigt? Bei welchen Einzelplänen steht die Freigabe der Finanzbehörde noch aus?
+
+#### Antwort zu Fragen 6.3 und 6.4
 
 Zu den bereits (vorweg) genehmigten Überträgen siehe Anlage 1. Im Übrigen siehe Vorbemerkung.
 
 ### Frage 7
 
 Fehlbeträge
-7.1. In welchen Einzelplänen sind aus welchen Gründen und in welchen Produktgruppen beziehungsweise Aufgabenbereichen im Haushaltsjahr 2017 Fehlbeträge entstanden, die nicht innerhalb der Einzelpläne ausgeglichen werden konnten beziehungsweise können?
-7.2. Wie und wann sollen diese Fehlbeträge ausgeglichen werden?
 
-#### Antwort zu Frage 7
+### Frage 7.1
+
+In welchen Einzelplänen sind aus welchen Gründen und in welchen Produktgruppen beziehungsweise Aufgabenbereichen im Haushaltsjahr 2017 Fehlbeträge entstanden, die nicht innerhalb der Einzelpläne ausgeglichen werden konnten beziehungsweise können?
+
+### Frage 7.2
+
+Wie und wann sollen diese Fehlbeträge ausgeglichen werden?
+
+#### Antwort zu Fragen 7, 7.1 und 7.2
 
 Siehe Vorbemerkung.
 
 ### Frage 8
 
 Finanzanlagen
-8.1. Wie ist der derzeitige Stand der Bewertung der Finanzanlagen für den Jahresabschluss 2017?
-8.2. Bei welchen Finanzanlagen gibt es im Haushaltsjahr 2017 Abschreibungen auf den Wertansatz in jeweils welcher Höhe?
-8.3. Bei welchen Finanzanlagen gibt es im Haushaltsjahr 2017 Zuschreibungen auf den Wertansatz in jeweils welcher Höhe?
-8.4. Bei welchen Finanzanlagen ist das Verfahren zur Bewertung im Jahresabschluss für 2017 noch nicht abgeschlossen?
 
-#### Antwort zu Frage 8
+### Frage 8.1
+
+Wie ist der derzeitige Stand der Bewertung der Finanzanlagen für den Jahresabschluss 2017?
+
+### Frage 8.2
+
+Bei welchen Finanzanlagen gibt es im Haushaltsjahr 2017 Abschreibungen auf den Wertansatz in jeweils welcher Höhe?
+
+### Frage 8.3
+
+Bei welchen Finanzanlagen gibt es im Haushaltsjahr 2017 Zuschreibungen auf den Wertansatz in jeweils welcher Höhe?
+
+### Frage 8.4
+
+Bei welchen Finanzanlagen ist das Verfahren zur Bewertung im Jahresabschluss für 2017 noch nicht abgeschlossen?
+
+#### Antwort zu Fragen 8, 8.1, 8.2, 8.3 und 8.4
 
 Siehe Anlage 2. Die Bewertung der Finanzanlagen für den Jahresabschluss 2017 ist zum 31. Mai 2018 abgeschlossen worden.
 

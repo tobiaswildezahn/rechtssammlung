@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67420"
@@ -62,7 +63,7 @@ Welche Erkenntnisse liegen der zuständigen Behörde vor, die zu dem Schluss gef
 
 Wieso wird der einstimmige Beschluss des Stellinger Regionalausschusses in diesem Fall nicht umgesetzt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der vorhandene Fußgängerüberweg kann auf Grundlage des Erlasses der obersten Landesbehörde vom 17. Juli 2019 aufgrund des Ergebnisses einer erneuten Prüfung
 

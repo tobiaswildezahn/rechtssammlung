@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/94", "20/14043", "18/3897", "20/11980", "17/3378", "20/12762", "20/12181"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49365"
@@ -582,7 +583,7 @@ Mit Drs. 20/14043 wurde unter anderem beschlossen, den Senat zu ersuchen, „bis
 
 Mit Drs. 20/12181 wurde unter anderem beschlossen, „einen Finanzierungs- und Realisierungsplan für die Umsetzung der Barrierefreiheit im ÖPNV aufzustellen“. Dieses Ersuchen an den Senat wurde allerdings in der 20. Wahlperiode nicht mehr beantwortet. Ist auch dieses Ersuchen an den Senat mit Ablauf der 20. Wahlperiode der Diskontinuität anheimgefallen? Wenn nein, wann ist mit der Beantwortung durch den Senat zu rechnen? Wenn ja, wann wird es einen Finanzierungs- und Realisierungsplan für die Umsetzung der Barrierefreiheit im ÖPNV in Hamburg geben?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Ungeachtet der Diskontinuität der angesprochenen Ersuchen (§73 Absatz 1 Geschäftsordnung der Hamburgischen Bürgerschaft) erfolgt die Umsetzung von Maßnahmen im Zusammenhang mit der Barrierefreiheit grundsätzlich auf Grundlage von fundierten Ermittlungen der voraussichtlichen Kosten. Hierbei werden die Kosten maßnahmenbezogen ermittelt, da diese häufig Bestandteil des jeweiligen Projekts sind (zum Beispiel Verlängerung U4, S4).
 

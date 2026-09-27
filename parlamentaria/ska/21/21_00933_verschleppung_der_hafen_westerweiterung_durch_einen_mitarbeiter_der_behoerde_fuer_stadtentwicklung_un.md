@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 20
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/919"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49100"
@@ -99,7 +100,7 @@ Mit welchen arbeitsrechtlichen Konsequenzen ist die BSU im Einzelnen gegen ihren
 
 Worin genau ist der Interessenskonflikt des Mitarbeiters der BSU laut des Senats und der zuständigen Behörde begründet, der gegebenenfalls zu einer Versetzung geführt hat?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Antwort zu 2.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52922"
@@ -55,7 +56,7 @@ Wann sind welche baulichen Sanierungsmaßnahmen bei der Alster- Schwimmhalle not
 
 Welche Einschätzungen und Entwicklungen haben im Einzelnen zu der geänderten Einschätzung bezüglich der Alster-Schwimmhalle im Risikobericht von Bäderland geführt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Mittelfristig können Betonsanierungsarbeiten erforderlich werden. Ein akuter Handlungsbedarf besteht jedoch nicht.
 

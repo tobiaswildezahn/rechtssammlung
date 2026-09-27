@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 18
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2711", "21/2683"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52658"
@@ -93,11 +94,11 @@ Welches der zuvor genannten Programme wurde in den letzten Jahren evaluiert? Wan
 
 Das Institut für Sozialforschung und Gesellschaftspolitik GmbH (ISG) und das Institut für Arbeitsmarkt- und Berufsforschung (IAB) stellen in Ihrem im Juli 2011 erstellten Evaluationsbericht (http://www.hamburg.de/contentblob/2987884/data/iabgutachten.pdf, ab Seite 164 fortfolgende) zu den Beschäftigung schaffenden Maßnahmen nach §16d und 16e SGB II in Hamburg fest:
 
-• „dass es sich bei den BEZ-geförderten um eine noch zu arbeitsmarktnahe Gruppe handelt, deren Beschäftigungschancen durch die BEZ-Förderung weiter reduziert wurden“.
+– „dass es sich bei den BEZ-geförderten um eine noch zu arbeitsmarktnahe Gruppe handelt, deren Beschäftigungschancen durch die BEZ-Förderung weiter reduziert wurden“.
 
-• „Der Einsatz von AGH sollte insgesamt reduziert werden.“
+– „Der Einsatz von AGH sollte insgesamt reduziert werden.“
 
-• „Die Dauer der Maßnahmen sollte begrenzt werden, um Lock-In-Effekte zu reduzieren.“
+– „Die Dauer der Maßnahmen sollte begrenzt werden, um Lock-In-Effekte zu reduzieren.“
 
 Die Erkenntnisse aus der Evaluation wurden berücksichtigt.
 
@@ -117,13 +118,13 @@ In Drs. 21/2711 bemerkt der Senat, dass es schwierig sei, die für das Jahr 2015
 
 Folgende öffentliche Arbeitgeber wurden besucht:
 
-• Stadtreinigung Hamburg (die ersten zwei Einstellungen erfolgten zum 01.05.2016)
+– Stadtreinigung Hamburg (die ersten zwei Einstellungen erfolgten zum 01.05.2016)
 
-• CHANCE Beschäftigungsgesellschaft mbH Hamburg
+– CHANCE Beschäftigungsgesellschaft mbH Hamburg
 
-• Stadtteilschule Wilhelmsburg
+– Stadtteilschule Wilhelmsburg
 
-• Stiftung Historische Museen Hamburg
+– Stiftung Historische Museen Hamburg
 
 Bei den letzten drei Arbeitgebern kam es zu keiner Zusammenarbeit. Derzeit sind keine weiteren Betriebsbesuche bei öffentlichen Arbeitgebern geplant.
 

@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4995", "19/4918", "18/7227", "19/4906", "20/11995", "20/1543", "20/670", "20/13399", "20/5314", "20/11568", "20/7928", "20/4848", "20/11183", "21/3101"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53617"
@@ -46,15 +47,15 @@ Stimmen der Erste Bürgermeister beziehungsweise die zuständige Behörde der Au
 
 #### Antwort zu Frage 1
 
- „die Gründung eines selbständigen Instituts spätestens fünf Jahre
+– „die Gründung eines selbständigen Instituts spätestens fünf Jahre
 
 nach Abschluss der Aufbauphase“,
 
- der „Beitritt Hamburgs zur Ausführungsvereinbarung der FhG über die
+– der „Beitritt Hamburgs zur Ausführungsvereinbarung der FhG über die
 
 gemeinsame Förderung der FhG durch den Bund und die Länder“ sowie
 
- die Weiterentwicklung des CML „zu einer dauerhaften, in der Satzung
+– die Weiterentwicklung des CML „zu einer dauerhaften, in der Satzung
 
 der FhG verankerten, Fraunhofer-Einrichtung“
 

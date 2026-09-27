@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6208", "21/11559", "21/14050", "21/10110", "21/5600", "21/1282", "20/12720", "20/8946"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63684"
@@ -39,27 +40,27 @@ Der Senat verfolgt seit 2012 das Ziel des Kostenstabilen Bauens, das der Bürger
 
 Für eine Bauzeitüberschreitung beziehungsweise Kosten über Plan sind neben den genannten projektspezifischen insbesondere die nachfolgend aufgeführten Gründe zu nennen:
 
- komplexe Baugenehmigungsverfahren aufgrund von fehlendem Baurecht in inner-
+– komplexe Baugenehmigungsverfahren aufgrund von fehlendem Baurecht in inner-
 
 städtischen Nachverdichtungsgebieten und in diesem Zusammenhang behördliche Vorgaben mit umfangreichem Klärungsbedarf (zum Beispiel Schallschutz, Naturschutz, Rettungswege),
 
- mehrfache Ausschreibung zwecks Kostenoptimierung oder fehlenden Angeboten,
+– mehrfache Ausschreibung zwecks Kostenoptimierung oder fehlenden Angeboten,
 
- aufwändige Abstimmung mit Nachbarschaften, schwierige Verhandlungen im Fall
+– aufwändige Abstimmung mit Nachbarschaften, schwierige Verhandlungen im Fall
 
 von Nachbarschaftsvereinbarungen bis hin zu rechtlichen Auseinandersetzungen mit Nachbarn,
 
- nicht vorhersehbare Schadstoff- und Bodenkontaminationen,
+– nicht vorhersehbare Schadstoff- und Bodenkontaminationen,
 
- erforderliche Kostensteigerungen in Bezug auf Umquartierungsmaßnahmen im Fall
+– erforderliche Kostensteigerungen in Bezug auf Umquartierungsmaßnahmen im Fall
 
 von Abriss/Neubau oder bei umfangreichen Modernisierungen,
 
- fehlende Firmenkapazitäten am Markt, dadurch unwirtschaftliche Angebote und
+– fehlende Firmenkapazitäten am Markt, dadurch unwirtschaftliche Angebote und
 
 Erfordernis wiederholter Ausschreibungsverfahren,
 
- witterungsbedingte Verzögerung der Arbeiten.
+– witterungsbedingte Verzögerung der Arbeiten.
 
 Eine weitere Ausdifferenzierung der Gründe für die Bauzeitenüberschreitung beziehungsweise Baukostenüberschreitung bezogen auf einzelne Objekte in der Anlage erfordert eine händische Auswertung einer Vielzahl von Aktenvorgängen und ist in der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht möglich. Die SAGA und die Flughafen Hamburg GmbH berufen sich darauf, dass eine Benennung weiterer Details bezogen auf einzelne Objekte in der Anlage Betriebs- und Geschäftsgeheimnisse der Unternehmen berühre und daher nicht erfolgen könne. Eine Offenlegung würde Rückschlüsse für Mitbewerber im Markt auf das Angebotsverhalten insbesondere im Verhältnis zu den tatsächlich entstandenen Kosten erlauben. Die Angaben erfolgen im Übrigen in dem Umfang beziehungsweise der Vollständigkeit, die in der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit möglich sind.
 

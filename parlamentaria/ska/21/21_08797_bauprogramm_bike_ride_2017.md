@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14485", "21/4353", "21/5997"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57536"
@@ -50,7 +51,7 @@ Bei bestehenden Anlagen: Wie viele Abstellplätze bestanden bisher?
 
 Wie viele B+R-Plätze werden jeweils neu errichtet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 An den in der nachfolgenden Tabelle aufgeführten Haltestellen wurden beziehungsweise werden im Jahr 2017 bauliche Maßnahmen zur Umsetzung des Bike+Ride- Entwicklungskonzepts (siehe Drs. 20/14485) durchgeführt. Neben dem Bau zusätzlicher Bike+Ride-Abstellplätze werden bestehende Abstellplätze im Rahmen von Sanierungsmaßnahmen neu gebaut und Flächen neu geordnet. Die Werte in der Tabelle geben den derzeitigen Planungsstand wieder.
 
@@ -119,7 +120,7 @@ Wie viele der neu errichteten Abstellplätze sind Mietplätze?
 
 Wie viele der neu errichteten Abstellplätze sind überdacht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Von den etwa 2.000 zusätzlich geschaffenen Plätzen entfallen circa 570 auf neue Mietplätze. Dies entspricht einer Mietplatzquote von nahezu 30 Prozent. Circa 1.350 der nach derzeitigem Planungsstand zusätzlich geschaffenen Plätze sind überdacht, dies sind mehr als zwei Drittel aller neuen Plätze.
 

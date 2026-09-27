@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56899"
@@ -43,7 +44,7 @@ In welchen Bezirken wird an Magistralengutachten gearbeitet beziehungsweise werd
 
 Um welche Magistralen geht es?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In den Bezirken Altona und Hamburg-Nord wird an Magistralengutachten gearbeitet beziehungsweise werden solche geplant.
 

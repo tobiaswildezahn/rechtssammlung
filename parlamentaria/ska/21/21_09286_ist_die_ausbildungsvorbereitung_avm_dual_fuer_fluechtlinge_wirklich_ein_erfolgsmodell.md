@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 26
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8933", "21/7872", "21/6660", "21/4383", "21/4655"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58045"
@@ -58,7 +59,7 @@ Wie viele Flüchtlinge haben oder werden in diesem Jahr wann insgesamt AvM-Dual 
 
 Wie viele Flüchtlinge werden im Jahr 2018 insgesamt AvM-Dual beenden? Bitte auch nach Monaten aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Davon ausgehend, dass auch die im Verlauf des Schulbesuchs volljährig werdenden Schülerinnen und Schüler (SuS) ihr Schulbesuchsrecht bis zum Ende der Bildungsgänge wahrnehmen, ist nach derzeitigem Stand zu erwarten, dass circa 600 Schülerinnen und Schüler (SuS) zum 31. Juli 2017 den Bildungsgang AvM-Dual beziehungsweise die zum Sommer auslaufenden Bildungsgänge VJ-M und BVJ-M verlassen werden und dass circa 700 SuS zum 31. Januar 2018 sowie circa 700 SuS zum
 31. Juli 2018 den Bildungsgang AvM-Dual verlassen werden.
@@ -206,7 +207,7 @@ Wie viele Lehrer wurden seit dem Jahr 2015 im Zuge der Ausweitung von AvM-Dual n
 
 Wie viele Lehrer aus dem „Altbestand“ werden derzeit für AvM-Dual eingesetzt?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Den Schulen werden entsprechend der Schülerzahlen bedarfsdeckend Personalressourcen zugewiesen. Der Einsatz der Lehrkräfte obliegt den jeweiligen Schulleitungen. Im Übrigen siehe Drs. 21/6660.
 

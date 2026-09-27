@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4169"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56099"
@@ -71,11 +72,11 @@ Werden inzwischen noch aktiv Akkreditierungen von Studiengängen vorgenommen? We
 
 Derzeit laufen die folgenden Akkreditierungsverfahren:
 
- Universität Hamburg (UHH): Die UHH führt derzeit eine Teilsystemakkreditierung
+– Universität Hamburg (UHH): Die UHH führt derzeit eine Teilsystemakkreditierung
 
 für die Lehramtsstudiengänge durch. Diese bezieht sich auf die in der Anlage genannten Studiengänge beziehungsweise Teilstudiengänge.
 
- Hochschule für Angewandte Wissenschaften Hamburg (HAW): Im Mai 2016 ist die
+– Hochschule für Angewandte Wissenschaften Hamburg (HAW): Im Mai 2016 ist die
 
 HAW zur Systemakkreditierung zugelassen worden. Im November hat die Hochschule ihre Selbstdokumentation abgegeben und Ende Januar/Anfang Februar 2017 erfolgt die erste Begehung. In diesem Rahmen steht die Akkreditierung der folgenden Studiengänge an:
 
@@ -97,7 +98,7 @@ o Public Management (B.A.)
 
 o Public Management (M.A.)
 
- HafenCity Universität Hamburg (HCU): Derzeit laufen die Reakkreditierungsverfah-
+– HafenCity Universität Hamburg (HCU): Derzeit laufen die Reakkreditierungsverfah-
 
 ren für die folgenden Studienprogramme:
 
@@ -115,7 +116,7 @@ o Stadtplanung (B.Sc., M.Sc.)
 
 o Urban Design (M.Sc.)
 
- Technische Universität Hamburg-Harburg (TUHH): Derzeit laufen Akkreditierungs-
+– Technische Universität Hamburg-Harburg (TUHH): Derzeit laufen Akkreditierungs-
 
 verfahren für die folgenden Studiengänge:
 

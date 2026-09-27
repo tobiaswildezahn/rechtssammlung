@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12931"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62427"
@@ -51,7 +52,7 @@ Weshalb hat der Senat weder die HIA noch die Stellungnahme von ICOMOS veröffent
 
 Gibt es Regelungen, die dem Senat eine Veröffentlichung der unter Nummer 1. genannten Dokumente verbieten? Wenn ja, welche?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Grundsätzlich sind sowohl das Heritage Impact Assessment (HIA) als auch die Stellungnahmen von ICOMOS Bestandteil eines üblichen Austausches auf Fachebene und somit eines laufenden Verwaltungsprozesses (siehe Drs. 21/12931). Der Senat sieht in diesen Fällen regelhaft von einer Veröffentlichung ab. Diesbezüglich gibt es weder Regelungen, die eine Veröffentlichung verbieten, noch solche, die diese gebieten. Aufgrund des besonderen öffentlichen Interesses hat die zuständige Behörde den
 

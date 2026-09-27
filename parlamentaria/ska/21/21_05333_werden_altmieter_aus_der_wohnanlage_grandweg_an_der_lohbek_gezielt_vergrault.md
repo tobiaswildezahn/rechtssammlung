@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53828"
@@ -99,22 +100,22 @@ Wie viele Flüchtlinge und Obdachlose leben derzeit jeweils in der Wohnanlage? W
 
 Mit Stand 30. Juni 2016 waren in der Unterkunft 212 Zuwanderer und 14 Wohnungslose untergebracht. Von den insgesamt 226 Bewohnern sind
 
- 30 Prozent afghanische Staatsangehörige,
+– 30 Prozent afghanische Staatsangehörige,
 
- 18 Prozent syrische Staatsangehörige,
+– 18 Prozent syrische Staatsangehörige,
 
- 6 Prozent montenegrinische Staatsangehörige,
+– 6 Prozent montenegrinische Staatsangehörige,
 
- 6 Prozent verfügen über eine Staatsbürgerschaft der Russischen Föderation und
+– 6 Prozent verfügen über eine Staatsbürgerschaft der Russischen Föderation und
 
- 6 Prozent sind serbische Staatsangehörige.
+– 6 Prozent sind serbische Staatsangehörige.
 
 Die übrigen 34 Prozent der Bewohner setzen sich aus Staatsangehörigen 15 weiterer Nationen zusammen. Aus Datenschutzgründen können diese nicht einzeln aufgeschlüsselt werden, um aufgrund der geringen Fallzahlen keine Rückschlüsse auf einzelne Personen zu ermöglichen.
 
 f & w hat zum Stichtag 30. Juni 2016 zu den untergebrachten Zuwanderern Statusinformationen erfasst:
 
- 91 Personen befanden sich noch im Asylverfahren,
+– 91 Personen befanden sich noch im Asylverfahren,
 
- 41 Personen waren in Besitz einer Duldung,
+– 41 Personen waren in Besitz einer Duldung,
 
- 80 Personen waren im Besitz einer Aufenthaltserlaubnis.
+– 80 Personen waren im Besitz einer Aufenthaltserlaubnis.

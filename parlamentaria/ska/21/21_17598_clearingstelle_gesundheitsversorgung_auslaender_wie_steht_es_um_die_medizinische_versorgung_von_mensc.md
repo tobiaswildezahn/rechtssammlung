@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 22
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67185"
@@ -102,7 +103,7 @@ In wie vielen Fällen haben die Hilfesuchenden ihren Rückreisewillen bekundet? 
 
 Mit welchen Erkrankungen oder Hilfebedarfen haben die genannten Personen vorgesprochen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die zur Beantwortung benötigten Daten werden nicht gesondert statistisch erfasst. Im Übrigen siehe Vorbemerkung.
 

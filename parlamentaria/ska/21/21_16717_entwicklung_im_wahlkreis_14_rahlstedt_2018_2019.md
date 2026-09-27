@@ -14,6 +14,7 @@ fragen: 99
 einzelfragen: 111
 antwortbloecke: 90
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12415", "21/11643", "21/15811", "21/16550", "21/4569", "21/14050", "20/37", "19/6272", "20/433", "21/8426", "21/11326", "21/11881", "21/3789", "21/16301", "21/15895", "21/16622", "21/8486", "21/8754", "21/14298", "21/16470", "21/16067", "20/13289", "21/16429", "21/15524"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66262"
@@ -710,15 +711,15 @@ Wie viele Personen welcher Religions- oder Kirchenzugehörigkeit leben im Wahlkr
 
 Im Melderegister werden nicht alle Religions- und Kirchenzugehörigkeiten gespeichert, sondern lediglich die nachfolgend genannten:
 
-• alt-katholisch
+– alt-katholisch
 
-• römisch-katholisch
+– römisch-katholisch
 
-• evangelisch-lutherisch
+– evangelisch-lutherisch
 
-• jüdisch
+– jüdisch
 
-• evangelisch-reformiert
+– evangelisch-reformiert
 
 Die Personen, deren Zugehörigkeit zu den unten genannten Religionsgesellschaften nicht im Melderegister gespeichert ist, gehören entweder sonstigen Religionsgesellschaften oder keiner Religionsgesellschaft an.
 
@@ -742,7 +743,7 @@ Wie viele Personen leben derzeit in öffentlicher Unterbringung (bitte aufgeteil
 
 Wie viele Flüchtlinge, Asylsuchende und geduldete Personen leben derzeit im Wahlkreis? Wie viele davon in welchen öffentlichen Unterkünften und wie viele in freiem Wohnraum (bitte jährlich im Vergleich der Jahre 2017 bis 2018 auch mit prozentualer Entwicklung angeben)?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Zur Belegung der Erstaufnahmeeinrichtungen im Dezember 2018 siehe das monatliche Lagebild Flüchtlinge unter https://www.hamburg.de/contentblob/12064974/ f61b7f2927f860a706c36159845f7ffc/data/lagebild-12-18.pdf und März 2019 siehe das monatliche Lagebild Flüchtlinge unter https://www.hamburg.de/contentblob/12324446/ a9decea7f247cbbf817992a43d256ab0/data/lagebild-02-19.pdf. Zur Belegung 2017 siehe Drs. 21/12415.
 
@@ -1032,7 +1033,7 @@ Wie viele Lehrkräfte unterrichten jeweils an den Schulen (bitte Anzahl der Pers
 
 Wie ist das prozentuale Verhältnis von weiblichen zu männlichen Lehrkräften an den einzelnen Schulen?
 
-#### Antwort zu Fragen 20 bis 21
+#### Antwort zu Fragen 20 und 21
 
 Die Anzahl der Lehrkräfte sowie die Aufteilung nach dem Geschlecht und das prozentuale Verhältnis an den einzelnen Schulen ist der Anlage 5 zu entnehmen.
 
@@ -1534,7 +1535,7 @@ Wie viele Feuerwehrleute welcher Besoldungsgruppe arbeiten derzeit an den Wachen
 
 Wie viele Stellen sind an den Wachen jeweils unbesetzt (bitte im Vergleich für die Jahre 2017 bis 2019 angeben)?
 
-#### Antwort zu Fragen 40 bis 41
+#### Antwort zu Fragen 40 und 41
 
 Eine Übersicht für die Wachen Wandsbek und Sasel zum Stichtag 30. März 2019 ergeben sich aus den nachfolgenden Übersichten:
 
@@ -2088,7 +2089,7 @@ Welche Sportplätze gibt es aktuell im Wahlkreis (bitte Adressen und nutzende Ve
 
 Welche Maßnahmen wurden zur Beseitigung von Mängeln an und zur Sanierung von Sportplätzen im Wahlkreis seit 2017 durchgeführt und zu welchen Kosten und aus welchen Haushaltstiteln (bitte jahresweise für die einzelnen Sportplätze gesondert angeben nach Mängeleintritt, Mängelbeseitigung und Kosten)?
 
-#### Antwort zu Fragen 61 bis 62
+#### Antwort zu Fragen 61 und 62
 
 Die erfragten Daten ergeben sich aus der nachfolgenden Übersicht:
 
@@ -2123,7 +2124,7 @@ Wie viele Parkbänke befinden sich im Wahlkreis 14 und wie hat sich diese Zahl s
 
 Wie viele dieser Parkbänke haben zu welchem Zeitpunkt welchen Erneuerungsbedarf?
 
-#### Antwort zu Fragen 63 bis 64
+#### Antwort zu Fragen 63 und 64
 
 Die erfragten Daten werden vom zuständigen Bezirksamt statistisch nicht erfasst. Die Erneuerung erfolgt jeweils nach Bedarf und Mittelverfügbarkeit.
 
@@ -2314,7 +2315,7 @@ Wie viele Abonnenten/-innen hat die Öffentliche Bücherhalle Rahlstedt aktuell?
 
 Wie hat sich diese Zahl seit 2015 entwickelt (bitte jahresweise gesondert angeben)?
 
-#### Antwort zu Fragen 72 bis 73
+#### Antwort zu Fragen 72 und 73
 
 Die Zahl der Abonnenteninnen und Abonnenten beziehungsweise Kundeninnen und Kunden der Bücherhalle Rahlstedt ist nicht ermittelbar.
 
@@ -2483,7 +2484,7 @@ Wie viele Hunde sind in Rahlstedt 2018 und laufend 2019 registriert?
 
 Wie hat sich die Anzahl der in Rahlstedt registrierten Hunde seit 2015 jährlich entwickelt?
 
-#### Antwort zu Fragen 80 bis 81
+#### Antwort zu Fragen 80 und 81
 
 Seit 2013 werden zum Anfang eines jeden Jahres regelhaft entsprechende Daten aus dem Hunderegister für die jährliche Beißstatistik ausgewertet. Es erfolgt eine Registrierung nach Bezirken, eine weitere Unterteilung nach Stadtteilen findet in diesem Zusammenhang nicht statt. Zu den Zahlen für den Bezirk Wandsbek siehe Drs. 21/16067
 
@@ -2565,11 +2566,11 @@ Im nächsten Schritt soll das bezirkliche Fahrradroutennetz weiter ausgebaut und
 
 Die Planungen für die Veloroutenabschnitte
 
-• Rahlstedter Bahnhofstraße (zwischen Wilhelm-Grimm-Straße bis Amtsstraße),
+– Rahlstedter Bahnhofstraße (zwischen Wilhelm-Grimm-Straße bis Amtsstraße),
 
-• Rahlstedter Straße (zwischen Rahlstedter Bahnhofstraße bis Wilhelm-Grimm- Straße) und
+– Rahlstedter Straße (zwischen Rahlstedter Bahnhofstraße bis Wilhelm-Grimm- Straße) und
 
-• Wilhelm-Grimm-Straße
+– Wilhelm-Grimm-Straße
 
 wurden begonnen beziehungsweise fortgeführt. Mit der Umsetzung ist in 2019/2020 zu rechnen.
 
@@ -2837,11 +2838,11 @@ Welche Notaufnahmen welcher Krankenhäuser sind für die Aufnahme von Notfallpat
 
 Im Einzugsgebiet des Wahlkreises 14 liegen folgende Plankrankenhäuser mit Zentralen Notaufnahmen:
 
-• Kath. Kinderkrankenhaus Wilhelmstift,
+– Kath. Kinderkrankenhaus Wilhelmstift,
 
-• Asklepios Klinik Wandsbek,
+– Asklepios Klinik Wandsbek,
 
-• Ev. Amalie Sieveking Krankenhaus.
+– Ev. Amalie Sieveking Krankenhaus.
 
 ### Frage 99
 

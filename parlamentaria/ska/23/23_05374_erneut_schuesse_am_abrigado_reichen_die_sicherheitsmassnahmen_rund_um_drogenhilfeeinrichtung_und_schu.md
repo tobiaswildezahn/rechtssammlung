@@ -14,6 +14,7 @@ fragen: 26
 einzelfragen: 28
 antwortbloecke: 0
 beantwortet: false
+status: "unbeantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105277"
@@ -27,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Dirk Nockemann (AfD) vom 16.09.26 und Antwort des Senats · Drucksache vom 16.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105277) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105277/23_05374_erneut_schuesse_am_abrigado_reichen_die_sicherheitsmassnahmen_rund_um_drogenhilfeeinrichtung_und_schulen_aus)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

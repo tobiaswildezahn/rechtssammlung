@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 20
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/286"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50219"
@@ -93,6 +94,6 @@ Die Ausländerbehörde ist nach der „Anordnung über Zuständigkeiten im Ausl�
 
 Inwiefern haben die Geflüchteten mit Konsequenzen zu rechnen, wenn sie die Auflage des „Wohnens“ in der Zentralen Erstaufnahme unterbrechen? a. Gilt dies auch, wenn die Unterbrechung nur nachts erfolgt und sie am Tag wieder vor Ort sind? b. Kommen die genannten Konsequenzen auch zum Tragen, wenn die in § 47 Absatz 4 AsylverfG genannte Belehrung über die Verpflichtung in der zuständigen Erstaufnahmestelle zu wohnen noch nicht erfolgt ist?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Wohnverpflichtung in einer ZEA bestimmt sich nach § 47 Absatz 1 AsylG. Aus ihr ergibt sich auch der Zweck, durch diese Verpflichtung die jederzeitige Erreichbarkeit für die zuständige Behörde zu gewährleisten. Bei einer Wohnsitznahme außerhalb der ZEA können Terminänderungen, Ladungen oder Bescheide im Rahmen des Asylverfahrens gegebenenfalls die Betroffenen nicht zeitgerecht erreichen, wodurch die Betroffenen gegebenenfalls ihren Mitwirkungspflichten (siehe § 15 AsylG) nicht rechtzeitig nachkommen und ihnen Rechtsnachteile entstehen können (zum Beispiel durch den Ablauf von Rechtsmittelfristen). Zudem verlieren Personen, die sich einige Nächte nicht in der Unterkunft aufhalten, ihren Unterbringungsplatz. Entsprechend der gesetzlichen Regelung sind Wohnsitznahmen außerhalb der ZEA durch Verpflichtete auch mit Zustimmung der zuständigen Behörde nicht möglich.

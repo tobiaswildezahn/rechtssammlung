@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64384"
@@ -47,7 +48,7 @@ Ist der vorläufig festgenommene 37-jährige Mann bereits strafrechtlich in Ersc
 
 Wenn ja, ist er bereits einschlägig Vorbestraft?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ja.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 20
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9861"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69592"
@@ -83,7 +84,7 @@ Ist in allen Straßentunneln (inklusive Autobahntunneln) in Hamburg der ununterb
 
 In welchen Straßentunneln (inklusive Autobahntunneln) in Hamburg können zwei oder mehr Rundfunksender empfangen werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 In allen unter der Antwort zu 1. angegebenen Tunneln ist der Empfang mindestens eines Senders möglich. Im Elbtunnel lassen sich 16 und im Wallringtunnel lassen sich zwei Rundfunksender empfangen. Im Tunnel Alsterkrugchaussee sind aufgrund der baulichen und technischen Gegebenheiten Empfangsunterbrechungen möglich. Rechtsgrundlage ist die Richtlinie für Ausstattung und Betrieb von Straßentunneln (RABT). Für den Alten Elbtunnel siehe Drs. 21/9861.
 

@@ -11,9 +11,10 @@ fraktionen: []
 vorgang: 49416
 seiten: 6
 fragen: 21
-einzelfragen: 21
-antwortbloecke: 18
+einzelfragen: 30
+antwortbloecke: 23
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3799"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54023"
@@ -81,7 +82,7 @@ Wie waren die Wahlergebnisse von SPD, GRÜNEN und LINKE in diesen Quartieren bei
 
 Wie waren die Wahlergebnisse von SPD, GRÜNEN und LINKE auf Landesebene bei den letzten Bürgerschaftswahlen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Ergebnisse der letzten Bürgerschaftswahlen stehen in keinerlei Zusammenhang mit der oben genannten Auswahlentscheidung.
 
@@ -172,27 +173,49 @@ Welche Rolle spielen bei dem Modellversuch DriveNow beziehungsweise die BMW Grou
 
 Die BMW Group hat den Impuls für den Modellversuch gegeben. Dennoch ist eine Bevorzugung von Fahrzeugen von DriveNow (BMW Group) nicht gegeben, da die Umsetzung des Modellversuchs über die bewährte Plattform „switchh“ erfolgen soll. Diese Plattform stellt den diskriminierungsfreien Zugang für alle bei „switchh“ angemeldeten Carsharing-Anbieter sicher.
 
-14.1. Welchen Teil der Kosten tragen sie?
+### Frage 14.1
+
+Welchen Teil der Kosten tragen sie?
+
+#### Antwort zu Frage 14.1
 
 Die Freie und Hansestadt Hamburg (FHH) und BMW teilen sich die Kosten.
 
-14.2. Welchen Einfluss haben sie auf die Auswahl der Quartiere gehabt?
+### Frage 14.2
+
+Welchen Einfluss haben sie auf die Auswahl der Quartiere gehabt?
+
+#### Antwort zu Frage 14.2
 
 Bei Besprechungen des Projektansatzes wurden die Quartiere zwischen BMW und Senatsvertretern abgestimmt. Im Übrigen siehe Antwort zu 2.
 
-14.3. Welchen Einfluss haben sie auf die Auswahl des den Modellversuch durchführenden Instituts KIT gehabt?
+### Frage 14.3
+
+Welchen Einfluss haben sie auf die Auswahl des den Modellversuch durchführenden Instituts KIT gehabt?
+
+#### Antwort zu Frage 14.3
 
 Das Karlsruher Institut für Technologie (KIT) hat zusammen mit Mobilitätsspezialisten von BMW den wissenschaftlichen Fragebogen entworfen. Aus diesem Grund wird das KIT die Auswertung der Daten vornehmen.
 
-14.4. Welche Leistungen haben sie im Vorfeld und zur Vorbereitung des Modellversuchs erbracht? Haben Sie die Pläne in Veranstaltungen vorgestellt, gegebenenfalls in welchen? Welche Bezahlung haben sie dafür erhalten?
+### Frage 14.4
 
-14.5. Wieso wurden diese und nicht andere Carsharing-Anbieter wie Greenwheels oder car2go ausgewählt? Gab es eine Ausschreibung?
+Welche Leistungen haben sie im Vorfeld und zur Vorbereitung des Modellversuchs erbracht? Haben Sie die Pläne in Veranstaltungen vorgestellt, gegebenenfalls in welchen? Welche Bezahlung haben sie dafür erhalten?
+
+### Frage 14.5
+
+Wieso wurden diese und nicht andere Carsharing-Anbieter wie Greenwheels oder car2go ausgewählt? Gab es eine Ausschreibung?
+
+#### Antwort zu Fragen 14.4 und 14.5
 
 BMW hat für Hamburg keine Leistungen im Vorfeld erbracht. Die Projektidee wurde von Senatsvertretern zusammen mit einem Vertreter von BMW im Kerngebietsausschuss Eimsbüttel sowie im Verkehrsausschuss Altona am 4. Juli 2016 präsentiert. Dafür und auch in einem anderen Zusammenhang in diesem Projekt hat BMW keine Bezahlung erhalten.
 
 Da die FHH keine Leistung bezieht oder einzelnen Unternehmen Privilegien eingeräumt hat, war eine Ausschreibung nicht erforderlich.
 
-14.6. Welche anderen Projekte führen Hamburger Behörden mit Drive- Now und BMW durch?
+### Frage 14.6
+
+Welche anderen Projekte führen Hamburger Behörden mit Drive- Now und BMW durch?
+
+#### Antwort zu Frage 14.6
 
 Die Hamburger Hochbahn ist Projektpartner in dem Bundesförderprojekt City2Share, in dem BMW ebenfalls Projektpartner ist.
 

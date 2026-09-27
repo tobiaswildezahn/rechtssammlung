@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7801", "21/7164"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56454"
@@ -68,7 +69,7 @@ Welche Informationen liegen dem Senat über die studentische Gruppe „AA/NO Arb
 
 Wie ist es möglich, dass eine Organisation die Erlaubnis zur Durchführung einer Veranstaltung an einer Hamburger Hochschule erhält, deren Mitglieder gegenüber der Presse erklären, dass das Strafgesetzbuch für sie kein Kriterium sei und darüber hinaus ein Treffen abhält, die unter einem Slogan stattfindet, der in unsäglicher Weise den Staat und dessen Beamte verhöhnt („Bullen, Verfassungsschutz und Spitzel, verpisst Euch!“)?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 

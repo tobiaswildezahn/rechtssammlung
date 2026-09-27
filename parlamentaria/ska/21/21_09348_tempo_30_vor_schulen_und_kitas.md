@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8364"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58121"
@@ -54,7 +55,7 @@ Seit wann ist die neue Verwaltungsvorschrift in Kraft?
 
 Welches ist der wesentliche Unterschied zur bisherigen Rechtslage?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

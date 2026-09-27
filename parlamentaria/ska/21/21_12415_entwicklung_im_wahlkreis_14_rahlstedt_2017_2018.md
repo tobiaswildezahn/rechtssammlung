@@ -14,6 +14,7 @@ fragen: 87
 einzelfragen: 97
 antwortbloecke: 79
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8754", "21/11643", "21/12359", "21/6607", "21/4569", "21/10110", "20/37", "19/6272", "20/433", "21/8426", "21/11326", "21/11881", "21/3789", "21/5000", "21/9255", "21/10947", "20/13289", "21/7740"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61717"
@@ -211,15 +212,15 @@ Wie viele Personen welcher Religions- oder Kirchenzugehörigkeit leben im Wahlkr
 
 Im Melderegister werden nicht alle Religions- und Kirchenzugehörigkeiten gespeichert, sondern lediglich die folgenden:
 
- alt-katholisch
+– alt-katholisch
 
- römisch-katholisch
+– römisch-katholisch
 
- evangelisch-lutherisch
+– evangelisch-lutherisch
 
- jüdisch
+– jüdisch
 
- evangelisch-reformiert
+– evangelisch-reformiert
 
 Die Personen, deren Zugehörigkeit zu den unten genannten Religionsgesellschaften nicht im Melderegister gespeichert ist, gehören entweder sonstigen Religionsgesellschaften oder keiner Religionsgesellschaft an.
 
@@ -243,7 +244,7 @@ Wie viele Personen leben derzeit in öffentlicher Unterbringung (bitte aufgeteil
 
 Wie viele Flüchtlinge, Asylsuchende und geduldete Personen leben derzeit im Wahlkreis? Wie viele davon in welchen öffentlichen Unterkünften und wie viele in freiem Wohnraum (bitte jährlich im Vergleich der Jahre 2013 bis 2017 angeben)?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Mit Stand: 22. März 2018 leben 2.277 Personen im Wahlkreis 14, die im Besitz einer Niederlassungs- oder Aufenthaltserlaubnis aus völkerrechtlichen, humanitären oder politischen Gründen sind. 776 Personen sind im Besitz einer Aufenthaltsgestattung und 289 Personen sind im Besitz einer Duldung. Eine rückwirkende Auswertung der vergangenen Jahre aus dem ausländerbehördlichen Fachverfahren ist aufgrund der erforderlichen aufwändigen händischen Nachbearbeitung der teilweise bereits archivierten Datensätze in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Eine Erfassung der Unterbringungsart im ausländerbehördlichen Fachverfahren erfolgt nicht.
 
@@ -471,7 +472,7 @@ Wie viele Lehrkräfte unterrichten jeweils an den Schulen (bitte Anzahl der Pers
 
 Wie ist das prozentuale Verhältnis von weiblichen zu männlichen Lehrkräften an den einzelnen Schulen?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Siehe Anlage 6.
 
@@ -807,7 +808,7 @@ Wie viele Feuerwehrleute welcher Besoldungsgruppe arbeiten derzeit an den Wachen
 
 Wie viele Stellen sind an den Wachen jeweils unbesetzt (bitte im Vergleich für die Jahre 2016 bis 2018 angeben)?
 
-#### Antwort zu Fragen 38 bis 39
+#### Antwort zu Fragen 38 und 39
 
 FuRw 21 Wandsbek  
 2018*  
@@ -879,7 +880,7 @@ Welche Unterstützung in Form von Ausrüstung et cetera haben diese Freiwilligen
 
 Bei welchen Häusern dieser Freiwilligen Feuerwehren besteht welcher Sanierungsbedarf (bitte im Vergleich zur Drs. 21/3789)?
 
-#### Antwort zu Fragen 41 bis 42
+#### Antwort zu Fragen 41 und 42
 
 Siehe Drs. 21/8754. Es haben sich zwischenzeitlich keine Veränderungen ergeben.
 
@@ -992,13 +993,13 @@ Die Daten des Berichtsjahres 2017 liegen dem Statistikamt Nord noch nicht vor, d
 
 Der nachfolgenden Tabelle sind die Angaben der staatlichen Sozialleistungen, die sich aus den Statistiken ergeben, zu entnehmen:
 
- Der Hilfe zum Lebensunterhalt außerhalb von Einrichtungen (Empfänger und
+– Der Hilfe zum Lebensunterhalt außerhalb von Einrichtungen (Empfänger und
 
 Haushalte)
 
- Der Empfänger von Asylbewerberregelleistungen (Empfänger und Haushalte)
+– Der Empfänger von Asylbewerberregelleistungen (Empfänger und Haushalte)
 
- Der Empfänger nach dem SGB II (Hartz IV) (nur Empfänger, keine Haushalte)
+– Der Empfänger nach dem SGB II (Hartz IV) (nur Empfänger, keine Haushalte)
 
 Die Statistik der „Empfänger von Grundsicherung im Alter und bei Erwerbsminderung“ ist nicht mehr enthalten. Ab dem Berichtsjahr 2015 hat sich diese Statistik methodisch geändert. Die Daten stehen seitdem nur auf Gemeindeebene zur Verfügung. Daher stehen für das Land Hamburg keine Stadtteilergebnisse zur Verfügung.
 
@@ -1387,7 +1388,7 @@ Welche Sportplätze gibt es aktuell im Wahlkreis (bitte Adressen und nutzende Ve
 
 Welche Maßnahmen wurden zur Beseitigung von Mängeln an und zur Sanierung von Sportplätzen im Wahlkreis seit 2016 durchgeführt und zu welchen Kosten und aus welchen Haushaltstiteln (bitte jahresweise für die einzelnen Sportplätze gesondert angeben nach Mängeleintritt, Mängelbeseitigung und Kosten)?
 
-#### Antwort zu Fragen 58 bis 59
+#### Antwort zu Fragen 58 und 59
 
 Im Wahlkreis Rahlstedt gibt es folgende öffentlichen Sportplätze:
 
@@ -1580,7 +1581,7 @@ Welche davon wurden 2017 und 2018 in welcher Form und in welcher Höhe (absolut 
 
 Über wie viele Stellen verfügten beziehungsweise verfügen die von der Stadt geförderten Kultureinrichtungen 2017 und 2018? Wie viele Stellen davon waren beziehungsweise sind unbesetzt?
 
-#### Antwort zu Fragen 65 bis 66
+#### Antwort zu Fragen 65 und 66
 
 Zu den Kultureinrichtungen im Wahlkreis 14 und der Anzahl ihrer Stellen siehe Drs. 21/8754, zum Kulturhaushalt 2017/2018 siehe Drs. 21/5000 und Drs. 21/9255, zur Höhe der Förderungen siehe http://suche.transparenz.hamburg.de/dataset/ zuwendungsvorgaenge-2017-quartal-4. Zu den Jahresberichten der Stiftung Hamburger Öffentliche Bücherhallen siehe https://www.buecherhallen.de/jahresberichte. Die Daten für 2018 liegen noch nicht vor.
 

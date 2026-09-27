@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 19
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838", "21/2550", "21/7486", "21/6666", "21/7529", "21/7722", "21/6719", "21/7280", "21/8403", "21/5851", "21/4917", "21/6800", "21/7473"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57113"
@@ -71,7 +72,7 @@ In welcher Form werden Migranten/-innen-Selbstorganisationen und/ oder Vertreter
 
 In welcher Form werden Migranten/-innen-Selbstorganisationen und/ oder Vertreter/-innen der Geflüchteten im Sinne des 25-Punkte-Antrags besonders gefördert?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 In die Prozesse der Ausgestaltung der Quartiere werden alle handelnden und betroffenen Akteure grundsätzlich miteinbezogen.
 

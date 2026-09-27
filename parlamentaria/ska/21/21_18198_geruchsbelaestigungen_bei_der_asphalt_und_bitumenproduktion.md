@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67827"
@@ -58,30 +59,30 @@ Regelhaft werden alle drei Jahre wiederkehrende Emissionsmessungen durchgeführt
 
 Aufgrund von Anwohnerbeschwerden wurden zusätzlich folgende Messungen veranlasst:
 
- diskontinuierliche Emissionsmessungen mit Bestimmung der Inhaltsstoffe an drei
+– diskontinuierliche Emissionsmessungen mit Bestimmung der Inhaltsstoffe an drei
 
 Quellen (Verladung Asphalt und Bitumen, Gaspendelanlage) (TÜV 2017),
 
- orientierende  
+– orientierende  
 Geruchsemissionsmessungen  
 mit  
 Immissionsprognose  
 (unter  
 Berücksichtigung aller geruchsrelevanter Quellen) (TÜV 2017),
 
- zwei einwöchige orientierende kontinuierliche Emissionsmessungen der organi-
+– zwei einwöchige orientierende kontinuierliche Emissionsmessungen der organi-
 
 schen Stoffe (Gesamt-C) am Kamin (Amt für Umweltuntersuchungen 2018),
 
- Geruchsemissionsmessungen mit Immissionsprognose (unter Berücksichtigung
+– Geruchsemissionsmessungen mit Immissionsprognose (unter Berücksichtigung
 
 aller geruchsrelevanter Quellen) (TÜV 2018),
 
- Gutachten über die Umsetzung des Stands der Geruchsminderungstechnik (Mül-
+– Gutachten über die Umsetzung des Stands der Geruchsminderungstechnik (Mül-
 
 lerBBM 2018/2019),
 
- Messungen der Berufsgenossenschaft -Arbeitnehmerschutz im Nahbereich der
+– Messungen der Berufsgenossenschaft -Arbeitnehmerschutz im Nahbereich der
 
 Anlage (2016).
 

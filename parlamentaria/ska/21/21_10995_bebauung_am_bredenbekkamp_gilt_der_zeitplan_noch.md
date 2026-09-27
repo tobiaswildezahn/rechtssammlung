@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8622"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59926"
@@ -59,7 +60,7 @@ Wie sind derzeit der genaue Sachstand und der Zeitplan für die Erschließung un
 
 Wie sind der genaue Sachstand und der Zeitplan zum Abschluss eines städtebaulichen Vertrages mit dem Vorhabenträger?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/8622.
 

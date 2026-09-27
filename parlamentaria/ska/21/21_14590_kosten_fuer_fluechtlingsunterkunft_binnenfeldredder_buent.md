@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 18
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64024"
@@ -113,7 +114,7 @@ Wie viele Plätze der Unterkunft sind aktuell belegt?
 
 Wie viele Familien beziehungsweise wie viele Alleinreisende leben in der Unterkunft? Wurde der beabsichtigte Schlüssel von 60 Prozent Familien zu 40 Prozent Alleinreisenden eingehalten?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Mit Stand 30.09.2018 leben 201 Personen in 23 Familien und 105 alleinstehende Personen an dem Standort. Von den Alleinstehenden leben auch Personen als volljährige Kinder im Familienverbund. Darüber hinaus befindet sich die Unterkunft noch im Belegungsaufbau. Im Übrigen siehe Vorbemerkung.
 
@@ -133,9 +134,9 @@ Welche haupt- oder ehrenamtlichen Integrations- und Betreuungsangebote werden in
 
 Es gibt folgende Angebote:
 
- Hauptamtlich: Sprechstunde Internationaler Bund
+– Hauptamtlich: Sprechstunde Internationaler Bund
 
- Ehrenamtlich: Mädchentreff, Jungentreff und Skat spielen
+– Ehrenamtlich: Mädchentreff, Jungentreff und Skat spielen
 
 ### Frage 12
 

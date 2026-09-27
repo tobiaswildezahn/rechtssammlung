@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8486", "20/6335"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61072"
@@ -59,7 +60,7 @@ In welcher Höhe wurden in den vergangen zehn Jahren Haushaltsmittel für die be
 
 Welche Haushaltsmittel wurden wann und wofür von welchem Bezirk abgerufen? Bitte für die letzten zehn Jahre darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Keine. Im Übrigen siehe Vorbemerkung.
 

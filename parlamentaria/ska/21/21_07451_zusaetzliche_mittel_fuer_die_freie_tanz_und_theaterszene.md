@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 13
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6990"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56056"
@@ -53,7 +54,7 @@ d) Wurden die 100.000 Euro für 2017 zur Gänze verteilt und was geschieht gegeb
 
 Welches Verteilungsverfahren bezüglich der zusätzlichen Mittel ist für das Haushaltsjahr 2018 vorgesehen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die zusätzlichen Haushaltsmittel werden dazu beitragen, die Anwendung der Honoraruntergrenze und die damit einhergehende höhere Antragssumme aufzufangen, die Entfaltungs- und Entwicklungsmöglichkeiten der Szene zu stärken und die freien Darstellenden Künste Hamburgs als kreativen, gesellschaftsrelevanten Faktor der Stadt zu unterstützen.
 
@@ -71,7 +72,7 @@ b) ist aus Sicht des Senats durch die Zuweisung der zusätzlichen Mittel die Wei
 
 Welche Maßnahmen werden außerdem unternommen, um dem DfdK die Verwaltung und Weitervermietung des Proberaums in der Wartenau 16 zu ermöglichen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Zusage der Mittel über zwei Jahre verschafft dem DfdK Planungssicherheit und die Möglichkeit, gegebenenfalls weitere Drittmittel einzuwerben. Zudem wird durch eine Förderung aus dem Zwischennutzungsfonds über die Hamburg Kreativ GmbH ein reduzierter Mietzins ermöglicht. Die zuständige Behörde geht davon aus, dass unter diesen Voraussetzungen die Weiterarbeit der DfdK-Geschäftsstelle gewährleistet ist und der Proberaum in der Wartenau weiterbetrieben werden kann. Das Zuwendungsverfahren ist eingeleitet.
 

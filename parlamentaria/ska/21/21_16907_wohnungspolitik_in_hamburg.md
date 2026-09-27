@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 19
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66454"
@@ -79,11 +80,11 @@ Gibt es überhaupt eine kohärente Wohneigentumsförderung in Hamburg?
 
 Ja. Es werden im Rahmen des IFB-Wohnraumförderungsprogramms folgende Programme für Eigenheime mit Einkommensgrenzen für die Antragsteller angeboten:
 
- Eigenheim,
+– Eigenheim,
 
- FamilienStartDarlehen,
+– FamilienStartDarlehen,
 
- barrierefreier Umbau von selbstgenutztem Wohneigentum.
+– barrierefreier Umbau von selbstgenutztem Wohneigentum.
 
 Die Förderrichtlinien mit Programmzielen, Zugangsbedingungen und Konditionen finden  
 sich  
@@ -567,11 +568,11 @@ Bewilligungen von Sozialmietwohnungen 2016 – 2018. Bitte nach Neubau, Modernis
 
 Anzahl der bewilligten geförderten Wohnungen von 2016 bis 2018 mit Mietpreis- und Belegungsbindung:
 
- Neubau: 9 611,
+– Neubau: 9 611,
 
- Modernisierung: 2 711,
+– Modernisierung: 2 711,
 
- Ankauf von Belegungsbindungen: 343.
+– Ankauf von Belegungsbindungen: 343.
 
 ### Frage 12
 
@@ -581,7 +582,7 @@ Welche Eigentumsprogramme werden innerhalb der sozialen Wohnraumförderung angeb
 
 Welche Art(en) von Eigentumsmaßnahmen werden innerhalb der sozialen Wohnraumförderung gefördert? Wenn möglich Untersetzung der Eigentumsmaßnahmen nach Eigentumswohnungen und Einfamilienhäusern.
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Antwort zu 2.
 
@@ -599,19 +600,19 @@ Gibt es Programme zur Förderung der Wohneigentumsbildung, die nicht unter die s
 
 #### Antwort zu Frage 15
 
-  
+–  
 Hamburger Gründachförderung  
-  
+–  
 Hamburg-Kredit Global Wohnimmobilien  
-  
+–  
 IFB-Ergänzungsdarlehen  
-  
+–  
 IFB-Konstantdarlehen  
-  
+–  
 IFB-Modernisierungsdarlehen  
-  
+–  
 IFB-WEGfinanz  
-  
+–  
 Wärmeschutz im Gebäudebestand
 
 Charakterisierungen der jeweiligen Programme geben die entsprechenden Förderrichtlinien, siehe www.ifbhh.de/downloads/download-foerderrichtlinien/.

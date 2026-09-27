@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11705", "21/12577"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63632"
@@ -63,6 +64,6 @@ Wer entscheidet über das weitere Vorgehen bezüglich der Köhlbrandbrücke bezi
 
 Wie ist der Zeitplan für eine Entscheidung?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Entscheidung über eine bauliche Vorzugsvariante für eine neue Köhlbrandquerung wird der Senat auf Grundlage von Vorarbeiten der HPA treffen. Im Übrigen siehe Drs. 21/11705 und 21/12577.

@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 29
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/439", "21/732", "21/1618", "21/1702"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50228"
@@ -43,7 +44,7 @@ Unter Rückbezug auf die bisher gegebenen Antworten des Senats: Wie hoch waren d
 
 Welche bautechnischen Maßnahmen wurden im Einzelnen zu welchen finanziellen Mitteln in 2011, 2012, 2013, 2014 und 2015 (bisheriger Kenntnisstand der Behörde an Schulsporthallenprojekten) umgesetzt? (Bitte tabellarisch mit Standort und Art der ausgeführten Baumaßnahme (Neubau, Sanierung, Erweiterung et cetera) angeben.) a. Was davon ist noch immer im Bau befindlich und wann wird es nach gegenwärtiger Planung fertiggestellt worden sein? (Bitte tabellarisch angeben mit Standort und Art der ausgeführten Baumaßnahme.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Ausgaben für Sporthallenprojekte betrugen 2011 rund 3,5 Millionen Euro, 2012 rund 21,5 Millionen Euro, 2013 rund 12,5 Millionen Euro, 2014 rund 19,5 Millionen Euro und 2015 rund 32,9 Millionen Euro. Im Übrigen siehe Anlage 1.
 

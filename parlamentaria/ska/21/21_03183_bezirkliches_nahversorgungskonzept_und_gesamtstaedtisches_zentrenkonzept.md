@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51516"
@@ -129,6 +130,6 @@ Wenn ja, teilen Senat beziehungsweise zuständige Behörden diese Zuordnung und 
 
 Ist es richtig, dass nach Auffassung der Verwaltung Bank- und Postfilialen nicht zu dem nahversorgungsrelevanten Sortiment zählen? Wenn ja, teilen Senat beziehungsweise zuständige Behörden diese Zuordnung und falls ja, aus welchen Gründen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Bank- und Postfilialen werden auf Grundlage der Baunutzungsverordnung (BauNVO) nicht als Einzelhandels- sondern als Dienstleistungsbetriebe behandelt. In der Hamburger Sortimentsliste, die ausschließlich der Steuerung von Einzelhandelsansiedlungen dient, tauchen sie daher nicht auf. Gleichwohl haben diese Dienstleistungsangebote eine hohe Bedeutung für lebendige Zentren, die auch bei der Aktualisierung des Zentrenkonzepts betrachtet wird. Im Rahmen des Gutachterauftrags zu den Nahversorgungskonzepten werden sie als ergänzende, zentrenprägende Nutzungen mit erfasst und bewertet.

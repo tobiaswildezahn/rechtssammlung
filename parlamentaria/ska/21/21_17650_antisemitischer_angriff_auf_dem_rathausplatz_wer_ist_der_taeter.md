@@ -14,6 +14,7 @@ fragen: 25
 einzelfragen: 37
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67244"
@@ -117,7 +118,7 @@ Wie lautet der aufenthaltsrechtliche Status des Täters?
 
 Wann beziehungsweise aus welchem Grund ist der Täter erstmals in die Bundesrepublik eingereist?
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Der Tatverdächtige ist nicht im Zuständigkeitsbereich der Ausländerbehörde Hamburg gemeldet. Er ist gemäß Auskunft aus dem Ausländerzentralregister im Besitz einer Niederlassungserlaubnis aus familiären Gründen. Die erstmalige Einreise erfolgte am
 17. September 2000 mit einem Visum zu touristischen Zwecken.

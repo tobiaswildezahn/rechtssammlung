@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67581"
@@ -43,7 +44,7 @@ Was ist seit der Verschiebung des Baubeginns passiert?
 
 Sind die Gründungsarbeiten für das ganze Projekt beauftragt beziehungsweise liegt der Stadt hierfür eine Bürgschaft oder Ähnliches vor?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für einen Teilbereich des Vorhabens liegt dem zuständigen Bezirksamt eine Baubeginnanzeige vor. Hier ist mit den Gründungsarbeiten begonnen worden. Weiterhin wurden Genehmigungen zur Sondernutzung von öffentlichem Grund, die in einem räumlichen und betrieblichen Zusammenhang zu dem Vorhaben stehen, erteilt.
 

@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 29
 antwortbloecke: 23
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8143", "21/5686"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57666"
@@ -141,7 +142,7 @@ Für welche Form von Freiheitsentziehungen ist das Gelände des ehemaligen Fegro
 
 Sollen dort lediglich Personen untergebracht werden, die während der Tage des G20 in Gewahrsam genommen werden, oder sollen dort auch alle Personen untergebracht werden, die vorläufig festgenommen werden, gegen die Untersuchungshaft beantragt werden soll oder die in Abschiebehaft genommen werden beziehungsweise werden sollen (bitte einzeln beantworten)?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 In der GeSa sollen Personen untergebracht werden, die im Zusammenhang mit dem G20-Gipfel in Gewahrsam oder vorläufig festgenommen wurden. Darüber hinaus werden in der GeSa ab 6. Juli 2017, einhergehend mit der Verlagerung des Haftgerichtes, kurzfristig alle Personen untergebracht, die dem Haftgericht zugeführt werden sollen.
 

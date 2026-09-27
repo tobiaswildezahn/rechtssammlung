@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2426", "21/9353", "21/13917", "21/19411"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69782"
@@ -43,7 +44,7 @@ Wie sind derzeit der genaue Sachstand sowie der Zeitplan für die Ausweisung ein
 
 Wurde bereits mit dem entsprechenden Verfahren begonnen? Wenn ja, wann und in welcher Form? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Wie bereits in Drs. 21/13917 ausgeführt, hat sich an der Schutzwürdigkeit und Schutzbedürftigkeit der Bergstedter Feldmark nichts geändert. Insofern hält die zuständige Behörde weiterhin an der Ausweisung eines Landschaftsschutzgebietes (LSG) in den vom Landschaftsprogramm dafür vorgesehenen Grenzen im Bereich der Bergstedter Feldmark fest.
 

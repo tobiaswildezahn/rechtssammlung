@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69341"
@@ -79,7 +80,7 @@ Wer entscheidet über die Kriterien zur Umbenennung von NS-belasteten Verkehrsfl
 
 Wer entscheidet über die Kriterien für „zukünftige Benennungsvorschläge“?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Senat.
 

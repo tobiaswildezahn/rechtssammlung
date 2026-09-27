@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 18
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48788"
@@ -67,7 +68,7 @@ Welche genaue Plangebietsabgrenzung soll für das Bebauungsplanverfahren festgel
 
 Auf welchen genauen Flächen sollen wann jeweils welche Ausgleichsmaßnahmen für die Bebauung am Bredenbekkamp durchgeführt werden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die genaue Abgrenzung des Plangebietes steht noch nicht fest. Die erforderlichen Ausgleichsmaßnahmen sollen in einem vorhabenbezogenen Bebauungsplanverfahren festgelegt werden.
 
@@ -87,7 +88,7 @@ Gemäß Wandsbeker Wohnungsbauprogramm soll die Liegenschaft am Bredenbekkamp �
 
 Welche unterschiedlichen Konzepte zur ökologisch ausgerichteten Realisierung der Bebauung wurden im Rahmen des Gebotsverfahrens jeweils vorgelegt und wie wurden diese bewertet? Welches Konzept soll davon realisiert werden?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Im Rahmen der Angebotsabgabe war auch die Darstellung eines ökologischen Konzepts gefordert. Die genauen Inhalte und deren Umsetzung sollen im Rahmen des angestrebten Bebauungsplanverfahrens festgelegt werden.
 
@@ -115,22 +116,22 @@ Wie sind der genaue Sachstand und der Zeitplan für die Umsetzung von verkehrsbe
 
 Die Maßnahmen „Tempo-30-Zonen“ sind im Arbeitsprogramm beim Fachamt Management des öffentlichen Raums des Bezirksamtes hochpriorisiert und sollen sobald wie möglich umgesetzt werden. Vorgesehen sind insbesondere bauliche Verkehrsberuhigungsmaßnahmen (Inseln, Fahrbahnmarkierungen, Stellplätze, Fahrbahneinengungen). Das sogenannte Paket 1 mit den folgenden Straßen beziehungsweise Maßnahmen soll am 2. Juli 2015 im Regionalausschuss Walddörfer vorgestellt werden:
 
-• Rügelsbarg (West) (Wohldorfer Damm bis Lottbeker Weg),
+– Rügelsbarg (West) (Wohldorfer Damm bis Lottbeker Weg),
 
-• Lottbeker Weg (Einmündungen Elersstieg und Heiddiek),
+– Lottbeker Weg (Einmündungen Elersstieg und Heiddiek),
 
-• Iloh (Rodenbeker Straße bis Rodenbekredder),
+– Iloh (Rodenbeker Straße bis Rodenbekredder),
 
-• Rodenbekredder (Wohldorfer Damm bis Krampstieg),
+– Rodenbekredder (Wohldorfer Damm bis Krampstieg),
 
-• Brunskrogweg (Sthamerstraße bis Alte Dorfstraße),
+– Brunskrogweg (Sthamerstraße bis Alte Dorfstraße),
 
-• Ohlstedter Platz (Einmündungen Hasselwisch und Ohlstedter Platz Hausnummern 7 – 13 a)
+– Ohlstedter Platz (Einmündungen Hasselwisch und Ohlstedter Platz Hausnummern 7 – 13 a)
 
 sowie
 
-• Mellenbergweg (Langfeld bis Künnekestraße),
+– Mellenbergweg (Langfeld bis Künnekestraße),
 
-• Schemmannstraße (Farmsener Landstraße bis Haselkamp),
+– Schemmannstraße (Farmsener Landstraße bis Haselkamp),
 
-• Sarenweg (Trillup bis Sarenweg Hausnummern 16 a/b).
+– Sarenweg (Trillup bis Sarenweg Hausnummern 16 a/b).

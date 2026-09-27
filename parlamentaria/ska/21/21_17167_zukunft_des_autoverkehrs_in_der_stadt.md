@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7748"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66737"
@@ -119,7 +120,7 @@ Welche konkreten Maßnahmen mit welchen Mitteleinsätzen und Zielvorgaben plant 
 
 Sind derzeit an U- und S-Bahn-Stationen neue P+R-Häuser geplant? Wenn ja, wo und mit welcher Kapazität? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Durch den Ausbau des Schienenpersonennahverkehrs sollen alternative Mobilitätsangebote gestärkt werden. Darüber hinaus wird das P+R-Konzept weiterentwickelt, um den Umstieg auf den ÖPNV attraktiver zu gestalten.
 

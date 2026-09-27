@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68283"
@@ -87,7 +88,7 @@ Inwieweit stand die Behörde für Schule und Berufsbildung mit den Jugendoffizie
 
 Wie bewertet die zuständige Behörde den beidseitigen Austausch sowie den Einsatz von Jugendoffizieren in Hamburg?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Zwischen der für Bildung zuständigen Behörde und den Jugendoffizieren bestehen keine institutionalisierten Kontakte; im Übrigen siehe Vorbemerkung und Antwort zu 2.
 
@@ -99,7 +100,7 @@ Wie hat sich die Zahl der haupt- und nebenamtlichen Jugendoffiziere der Bundeswe
 
 Wie sind diese Entwicklung und die Entwicklung der Angebotswahrnehmung durch die oben genannten Bildungseinrichtungen zu erklären?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Im Zeitraum 2015 bis zum 30. Juni 2019 sind grundsätzlich zwei hauptamtliche Jugendoffiziere und ein nebenamtlicher Jugendoffizier der Bundeswehr in Hamburg eingesetzt.
 
@@ -115,7 +116,7 @@ Wie soll sich die Kooperation von Jugendoffizieren der Bundeswehr in Hamburg und
 
 Welche Maßnahmen sind hierzu wann vorgesehen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die bestehende Praxis der direkten Kooperation hieran interessierter Schulen mit den Jugendoffizieren und ihren Angeboten hat sich aus Sicht der für Bildung zuständigen
 

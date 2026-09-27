@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57590"
@@ -43,7 +44,7 @@ Wie viele Polizeibeamte welcher Besoldungsgruppen haben 2016 und im 1. Quartal d
 
 Wie viele Polizeibeamte welcher Besoldungsgruppen haben 2016 und im 1. Quartal des Jahres 2017 jeweils welche Nebentätigkeit auf eigenen Wunsch ausgeübt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Statistische Daten im Sinne der Fragestellungen werden bei der Polizei nicht erhoben. Für die Beantwortung der Frage wäre eine Einzelfallauszählung der Personalakten der Beamtinnen und Beamten erforderlich, die eine Nebentätigkeit im erfragten Zeitraum ausgeübt haben beziehungsweise ausüben. Die Auswertung von etwa 2.000 Personalakten ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Unabhängig von konkreten Daten werden Nebentätigkeiten im dienstlichen Aufgabenbereich regelhaft nach Absprache und Abstimmung mit den Betroffenen übernommen.
 

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 24
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/5025", "21/10408"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64484"
@@ -51,7 +52,7 @@ Wie bewertet der Senat die aktuellen Beziehungen zwischen Deutschland und Latein
 
 Welche Bedeutung haben die Beziehungen zwischen Deutschland und Uruguay aus Sicht des Senats heute und in Zukunft für Hamburg?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für die auswärtigen Beziehungen der Bundesrepublik Deutschland ist die Bundesregierung zuständig. Der Senat hat sich damit nicht befasst.
 

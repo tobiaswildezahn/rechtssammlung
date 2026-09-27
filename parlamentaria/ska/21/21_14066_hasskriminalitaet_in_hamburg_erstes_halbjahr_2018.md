@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 3
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7631", "21/7467", "21/10621", "21/11620"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63462"
@@ -53,7 +54,7 @@ Wie haben sich insgesamt die Zahlen der Straftaten, die der Hasskriminalität zu
 
 Liegen die Zahlen für das Jahr 2017 mittlerweile vollständig vor beziehungsweise hat der Datenabgleich mit dem BKA stattgefunden? Wenn ja, bitte die vollständigen Zahlen angeben und die Unterthemen aufschlüsseln. Wenn nein, wann ist damit zu rechnen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Abgleich der Daten für 2017 mit dem Bundeskriminalamt ist abgeschlossen.
 

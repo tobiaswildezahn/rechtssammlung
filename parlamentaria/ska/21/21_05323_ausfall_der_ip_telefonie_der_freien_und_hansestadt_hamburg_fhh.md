@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 25
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53808"
@@ -71,7 +72,7 @@ Wann wurden diese Ausfälle zuerst an Dataport gemeldet? Mit welcher Dringlichke
 
 Wann wurde durch Dataport mit der Problembehebung begonnen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Fehlerbehebung erfolgte sofort mit höchster Priorität. Im Übrigen siehe Antwort zu
 1.

@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57551"
@@ -57,6 +58,6 @@ Laut Konzernbericht der gesamten HSH Nordbank betrug das Abschlussprüferhonorar
 
 Wie hoch war das Abschlussprüferhonorar der PwC für das Gesamtjahr 2016?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Kosten für die Prüfungsleistungen belaufen sich für das Geschäftsjahr 2016 auf voraussichtlich circa 3,2 Millionen Euro (netto). Davon entfallen circa 1,8 Millionen Euro auf die Kosten zur Prüfung der Aufstellung über das Kreditportfolio (Kaufpreisprüfung) und circa 1,4 Millionen Euro auf die Prüfung des Halbjahresabschlusses und des Jahresabschlusses. Die Prüfung des Jahresabschlusses ist noch nicht abgeschlossen, sodass zu diesem Auftrag noch keine Abschlussrechnung vorliegt. Weitere vergütungspflichtige Leistungen wurden nicht erbracht.

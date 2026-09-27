@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8256", "21/10524"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60733"
@@ -105,7 +106,7 @@ a) gegen die Hundeanleinpflicht;
 b) gegen das Fütterungsverbot von Wildtauben;
 c) gegen das Verbot illegaler Abfallentsorgung? (Bitte jeweils nach Bezirk und Jahr aufgliedern.)
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Anlagen 1 und 2.
 

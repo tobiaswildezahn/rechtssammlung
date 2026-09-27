@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10220"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59457"
@@ -43,7 +44,7 @@ Wie viele Lehrkräfte gab es im Schuljahr 2016/2017 insgesamt? Bitte Personenzah
 
 Wie viele Lehrkräfte gab es im Schuljahr 2016/2017 an welcher Schulform? Bitte Personenzahl und als Vollzeitäquivalente angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Lehrkräfte an staatlichen Schulen
 

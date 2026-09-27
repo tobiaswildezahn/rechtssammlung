@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56101"
@@ -55,13 +56,13 @@ Bei der Abwasserreinigung im Klärwerk Hamburg kommt es aufgrund der im Zulauf v
 
 In den Abwasserleitungen des Netzes teilen sich die Ursachen der Störungen wie folgt auf (Durchschnitt der Jahre 2011 – 2016):
 
- 55 Prozent Verstopfungen
+– 55 Prozent Verstopfungen
 
- 20 Prozent elektrische Defekte
+– 20 Prozent elektrische Defekte
 
- 15 Prozent andere Ursachen
+– 15 Prozent andere Ursachen
 
- 10 Prozent Netzausfall Stromversorger
+– 10 Prozent Netzausfall Stromversorger
 
 Die Störungen aufgrund von Verstopfungen haben über die Jahre zugenommen. Verzopfungen werden nicht gesondert erfasst.
 

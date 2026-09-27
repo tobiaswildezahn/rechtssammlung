@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52710"
@@ -77,7 +78,7 @@ Wie bewertet der Senat den Einsatz der genannten Arbeitsblätter hinsichtlich de
 
 Wie bewerten der Senat und die Behörde für Schule und Berufsbildung den Vorgang, dass Inhalte dieser Arbeitsblätter in Tests abgefragt und benotet wurden und werden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 
@@ -89,7 +90,7 @@ Sieht sich der Senat aufgrund des Einsatzes der genannten Arbeitsblätter im Ham
 
 Sieht sich der Senat aufgrund der nachweislich fehlerhaften und verzerrten inhaltlichen Aussagen in den genannten Arbeitsblättern über die Partei AfD dazu veranlasst, die Verwendung der genannten Arbeitsblätter im Hamburger PGW-Unterricht per Anordnung zu untersagen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antwort zu 1. bis 3. sowie Vorbemerkung. Im Übrigen hat sich der Senat damit nicht befasst.
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 18
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11530"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61572"
@@ -122,7 +123,7 @@ Streitet die DB ab, dass es oftmals und mit zunehmender Tendenz zu Diebstählen 
 
 Bestreitet die DB, dass es sich bei der Vorgehensweise um gezielte und gut organisierte Raubzüge handelt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die hoheitliche Aufgabenwahrnehmung der Strafermittlung und -verfolgung im Bahnhofsbereich obliegt der Bundespolizei. Das zuständige Bundesministerium des Inneren (BMI) wurde beteiligt, hat jedoch in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit keinen Beitrag übermittelt.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61843"
@@ -47,29 +48,29 @@ a) Bei welchen festen Veranstaltungsstätten in Hamburg sind Brandsicherheitswac
 
 Für die nachfolgenden festen Veranstaltungsstätten sind Brandsicherheitswachen vorgeschrieben:
 
- Hamburgische Staatsoper
+– Hamburgische Staatsoper
 
- Deutsches Schauspielhaus
+– Deutsches Schauspielhaus
 
- Stage Operettenhaus
+– Stage Operettenhaus
 
- Thalia Theater
+– Thalia Theater
 
- Theater an der Elbe
+– Theater an der Elbe
 
- Neue Flora
+– Neue Flora
 
- Ernst Deutsch Theater
+– Ernst Deutsch Theater
 
- Altonaer Theater
+– Altonaer Theater
 
- Hamburger Kammerspiele
+– Hamburger Kammerspiele
 
- Theater am Hafen
+– Theater am Hafen
 
- Mehr! Theater
+– Mehr! Theater
 
- St. Pauli Theater
+– St. Pauli Theater
 
 Die Kriterien über die Stellung von Brandsicherheitswachen ergeben sich aus § 17 und § 51 der Hamburgischen Bauordnung, § 7 des Feuerwehrgesetzes, § 41 der Verordnung über den Bau und Betrieb von Versammlungsstätten (Versammlungsstättenverordnung – VStättVO) und dem Gesetz über die öffentliche Sicherheit und Ordnung (SOG).
 

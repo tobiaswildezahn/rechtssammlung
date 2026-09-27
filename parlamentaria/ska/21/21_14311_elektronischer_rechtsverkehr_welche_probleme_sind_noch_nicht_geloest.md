@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5350", "21/6068", "21/7182", "21/11531"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63722"
@@ -79,15 +80,15 @@ Wenn nein, warum nicht?
 
 In allen Gerichten und bei den Staatsanwaltschaften wurden die jeweils betroffenen Beschäftigtengruppen individuell geschult, eingewiesen oder informiert
 
- bei der Eröffnung des elektronischen Rechtsverkehrs,
+– bei der Eröffnung des elektronischen Rechtsverkehrs,
 
- sofern der elektronische Rechtsverkehr zu diesem Zeitpunkt bereits zugelassen
+– sofern der elektronische Rechtsverkehr zu diesem Zeitpunkt bereits zugelassen
 
 war: bei der erstmaligen Bereitstellung des beAs,
 
- bei relevanten gesetzlichen Änderungen wie zum 01.01.2018,
+– bei relevanten gesetzlichen Änderungen wie zum 01.01.2018,
 
- bei der erfolgten Wiederaufnahme des beA-Betriebes.
+– bei der erfolgten Wiederaufnahme des beA-Betriebes.
 
 d. Warum sind die amtsgerichtlichen Eildienste nicht im Rahmen des elektronischen Rechtsverkehrs erreichbar?
 

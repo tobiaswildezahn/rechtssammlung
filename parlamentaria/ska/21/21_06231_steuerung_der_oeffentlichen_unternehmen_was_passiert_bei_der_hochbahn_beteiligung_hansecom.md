@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 17
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54758"
@@ -96,11 +97,11 @@ Aus welchen einzelnen Investitionsmaßnahmen setzen sich die im Jahresabschluss 
 
 Die Investitionen im Jahr 2015 betrafen:
 
- Einzahlung in die Kapitalrücklage der HOCHBAHN Beteiligungsgesellschaft in
+– Einzahlung in die Kapitalrücklage der HOCHBAHN Beteiligungsgesellschaft in
 
 Höhe von 8.850.000 Euro
 
- Einzahlung in die Kapitalrücklage der HanseCom in Höhe von 1.950.000 Euro
+– Einzahlung in die Kapitalrücklage der HanseCom in Höhe von 1.950.000 Euro
 
 ### Frage 7
 
@@ -110,7 +111,7 @@ Warum wird in der Anteilsaufstellung des HGV-Geschäftsberichts 2015 für HanseC
 
 Warum wird in der Anteilsaufstellung des HGV Geschäftsberichts 2015 für HanseCom beim Jahresergebnis nicht darauf hingewiesen, dass es sich um den Vorjahreswert handelt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Zum Zeitpunkt der Berichtslegung lag noch kein testierter Abschluss 2015 der HanseCom GmbH vor. In der Zulieferung der HOCHBAHN an die Hamburger Gesellschaft für Vermögens- und Beteiligungsmanagement mbH (HGV) wurde versehentlich nicht deutlich gemacht, dass es sich bei der HanseCom GmbH um einen Vorjahreswert handelt.
 

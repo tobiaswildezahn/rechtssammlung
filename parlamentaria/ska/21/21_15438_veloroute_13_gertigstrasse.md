@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64922"
@@ -91,7 +92,7 @@ Wie soll die Führung der Veloroute 13 zwischen Gertigstraße und Bachstraße im
 
 Für eine Diskussion über die Planung der Gertigstraße ist es nötig zu wissen, wie die Weiterführung der Trasse Richtung Bachstraße erfolgen wird. Wieso ist diese noch nicht einmal in einer groben Planung vor der Veranstaltung erstellt worden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Planungen für diesen Bereich wurden aufgenommen. Ein konkretes Ergebnis steht noch nicht fest.
 

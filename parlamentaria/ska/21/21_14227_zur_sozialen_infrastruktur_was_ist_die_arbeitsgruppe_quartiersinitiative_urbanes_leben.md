@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63633"
@@ -67,15 +68,15 @@ Falls nur Behördenmitarbeiter/-innen teilnehmen: Ist geplant, die Arbeitsgruppe
 
 Die Arbeitsgruppe (AG) wurde Ende 2017 von den Bezirksamtsleitungen eingesetzt. Sie hat den Auftrag, Vorschläge und Verfahren zur Gestaltung von Quartieren zu entwickeln, die dem Bevölkerungszuwachs und zunehmender Diversität gerecht werden und sozialräumlichen Leitorientierungen folgen. Die Federführung liegt beim Bezirksamt Hamburg-Nord. Alle Bezirksämter entsenden Vertreterinnen und Vertreter unterschiedlicher Dezernate und Fachämter. Darüber hinaus sind Vertreterinnen und Vertreter der Senatskanzlei sowie folgender Fachbehörden in der AG vertreten:
 
- Behörde für Arbeit, Soziales, Familie und Integration
+– Behörde für Arbeit, Soziales, Familie und Integration
 
- Behörde für Gesundheit und Verbraucherschutz
+– Behörde für Gesundheit und Verbraucherschutz
 
- Behörde für Stadtentwicklung und Wohnen
+– Behörde für Stadtentwicklung und Wohnen
 
- Behörde für Inneres und Sport
+– Behörde für Inneres und Sport
 
- Finanzbehörde
+– Finanzbehörde
 
 Bisher haben acht Treffen stattgefunden, in denen Anforderungen an integrierte und sozialräumlich ausgerichtete Fach- und Quartiersplanungen beraten wurden. Der Prozess und die Planungen sind im Übrigen noch nicht abgeschlossen.
 
@@ -87,6 +88,6 @@ Trifft es zu, dass die HCU die Arbeitsgruppe QuL unterstützt. Worin besteht die
 
 Wird diese vergütet? Wenn ja, in welcher Höhe und in welcher Form werden die Ergebnisse der Arbeit vorgelegt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die HafenCity Universität Hamburg (HCU) verfügt über einschlägige Kenntnisse der Erhebung, Abbildung und Nutzung quartiersbezogener Daten und hat diese Erkenntnisse in die Beratungen der AG eingebracht. Ihre Zusammenführung zu integrierten und sozialräumlich ausgerichteten Planungen wurde in der AG beispielhaft und in Bezug auf ausgewählte Quartiere vorgestellt. Zurzeit wird die Entwicklung eines digitalen Planungs- und Beteiligungstools als einer für alle Fachbehörden und Bezirksämter verfügbaren Datengrundlage geprüft. Im Übrigen sind die Planungen und Prüfungen hierzu noch nicht abgeschlossen.

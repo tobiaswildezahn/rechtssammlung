@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11876"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69071"
@@ -173,7 +174,7 @@ Welche rechtlichen oder sonstigen Möglichkeiten bestehen aus Sicht des Senats, 
 
 Für welche gesellschaftlichen Bereiche ist die Kostendeckungspflicht laut Gebührengesetz aufgehoben oder eingeschränkt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Nach der Rechtsprechung des Bundesverfassungsgerichts dürfen Gebühren nicht unabhängig von den Kosten der staatlichen Leistung festgesetzt werden. Im Rahmen des Gebührengesetzes gibt es keine definierten gesellschaftlichen Bereiche, vielmehr sind bestimmte Handlungen und Nutzungen in abstrakt-generellen Tatbeständen in § 10 Gebührengesetz (GebG) normiert, die bei Erfüllung der Tatbestandsvoraussetzungen die sachliche Gebührenfreiheit als Rechtsfolge herbeiführen können. Eine Abweichung vom Grundsatz der Kostendeckung ist neben der gesetzlichen Vorgabe, dass die Höhe der Gebühr nicht in einem Missverhältnis zu der Bedeutung, dem wirtschaftlichen Wert oder dem sonstigen Nutzen einer Amtshandlung oder Benutzung für den Gebührenpflichtigen stehen darf (§ 6 Absatz 1 Satz 3 GebG), auch aus sozialen Gründen möglich (§ 6 Absatz 3 Satz 1 GebG).
 

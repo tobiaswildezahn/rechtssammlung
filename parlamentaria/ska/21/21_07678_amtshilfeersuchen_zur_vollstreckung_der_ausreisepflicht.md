@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 17
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6772"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56303"
@@ -82,7 +83,7 @@ Wie viele Amtshilfeersuchen wurden im Zeitraum 01.01.2016 bis
 Wie viele Rückführungen im Rahmen der Amtshilfe wurden im Zeitraum
 01.01.2016 bis 31.12.2016 durch die Polizei vorgenommen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Mitarbeiterinnen und Mitarbeiter der Ausländerbehörde werden bei Abschiebungsmaßnahmen grundsätzlich von Polizeikräften begleitet, die nach § 71 Absatz 5 AufenthG neben der Ausländerbehörde originär zuständig sind. Eine statistische Erfassung der polizeilichen Unterstützung erfolgt dabei nicht. Die folgende Übersicht listet die Zahl der erfolgreichen sowie abgebrochenen Abschiebungsmaßnahmen auf, in denen grundsätzlich von einer Unterstützung durch die Polizei auszugehen ist. Zu beachten ist hierbei, dass sich die nachfolgende Übersicht auf Personen bezieht, wohingegen einzelne Abschiebungsmaßnahmen sich jeweils auch auf mehrere der Personen beziehen können:
 

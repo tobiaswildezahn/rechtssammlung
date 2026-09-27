@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 17
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11488"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67144"
@@ -65,7 +66,7 @@ Wodurch wird seitens der Stadt sichergestellt, dass in allen Fällen Gebührenbe
 
 Durch welche rechtlichen Maßnahmen wird seitens der Stadt sichergestellt, dass alle Gebührenbescheide bezahlt werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im Rahmen des Genehmigungsverfahrens für die Fällung von Bäumen nach der Baumschutzverordnung ergeht in sämtlichen Fällen ein Gebührenbescheid.
 
@@ -81,7 +82,7 @@ Wie viele Fälle liegen aus den Jahren 2014, 2015, 2016, 2017, 2018, 2019 vor, i
 
 Um welche Summen ging es dabei in den einzelnen Bezirken?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Im Bezirksamt Hamburg-Nord wurde in einem Fall eine Zahlungsforderung in Höhe von 28 000 Euro storniert. Im Bezirksamt Wandsbek kam es zu acht Rückzahlungen in Höhe von 13 000 Euro, 2 000 Euro, 10 000 Euro, 1 000 Euro, 9 000 Euro, 5 000 Euro, 2 000 Euro sowie 7 000 Euro.
 
@@ -95,7 +96,7 @@ Welche Kosten entstehen durch die Pflanzung eines neuen Straßenbaums? (Bitte du
 
 Welche Kosten entstehen durch die Pflanzung eines neuen Baumes in einer Grünanlage? (Bitte durchschnittliche Angaben und die spezifischen Kosten für die typischerweise in Hamburg gepflanzten Bäume in Grünanlagen.)
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Pflanzung eines Straßenbaums kostet unabhängig von der Baumart zwischen 1 500 Euro und 2 000 Euro. An Extremstandorten können Pflanzkosten bis zu 4 000 Euro pro Baum anfallen.
 
@@ -109,7 +110,7 @@ Wie viele zusätzliche Straßenbäume wurden aus den Mitteln der Ausgleichszahlu
 
 Wie viele zusätzliche Straßenbäume wurden aus den Mitteln der Ausgleichszahlungen in den Jahren 2014, 2015, 2016, 2017, 2018 und 2019 insgesamt und in den einzelnen Bezirken jeweils gepflanzt? (Bitte Gesamtangaben und je Bezirk.)
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 In den Bezirken Altona, Eimsbüttel, Hamburg-Nord und Wandsbek wurden im erfragten Zeitraum keine zusätzlichen Straßenbäume wurden aus den Mitteln der Ausgleichszahlungen gepflanzt. Im Bezirk Harburg wurden 2014 zusätzlich 72, in 2015 zusätzlich 15, in 2017 zusätzlich 82 und in 2018 zusätzlich 84 Straßenbäume gepflanzt. In 2016 und bislang in 2019 wurden auch im Bezirk Harburg keine zusätzlichen Straßenbäume aus Ausgleichszahlungen finanziert.
 
@@ -131,7 +132,7 @@ Welche Änderungen bezüglich der Ersatzpflanzung und der Ablöse von Ersatzpfla
 
 Welche Änderungen bezüglich der Ersatzpflanzung und einer möglichen „Ablöse“ von Ersatzpflanzungen von Straßen- und Parkbäumen in Hamburg ergeben sich durch die Übereinkunft der Stadt Hamburg mit der Volksinitiative „Hamburgs Grün erhalten“ und des Vertrages für Hamburgs Stadtgrün? Ab wann gelten diese Änderungen?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Aus der Übereinkunft der Stadt Hamburg mit der Volksinitiative „Hamburgs Grün erhalten“ und des Vertrages für Hamburgs Stadtgrün ergeben sich keine unmittelbaren Bezüge zu Änderungen bezüglich der Ersatzpflanzungen und der Ablöse von Ersatzpflanzungen für zugelassene Baumfällungen.
 

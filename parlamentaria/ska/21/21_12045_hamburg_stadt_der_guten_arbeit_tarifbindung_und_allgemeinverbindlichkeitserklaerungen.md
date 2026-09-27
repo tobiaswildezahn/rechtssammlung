@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61304"
@@ -94,52 +95,52 @@ Arbeitgebervertreter:
 
 Ordentliche Mitglieder
 
- Volker Hepke, AGA Norddeutscher Unternehmensverband Großhandel -
+– Volker Hepke, AGA Norddeutscher Unternehmensverband Großhandel -
 
 Außenhandel - Dienstleistung e.V. (bis 30.06.2019)
 
- Dr. Peter Schlaffke, NORDMETALL Verband der Metall- und Elektroindustrie
+– Dr. Peter Schlaffke, NORDMETALL Verband der Metall- und Elektroindustrie
 
 e.V. (bis 30.06.2019)
 
- Tobias Dierks, ChemieNord - Arbeitgeberverband für die Chemische Industrie
+– Tobias Dierks, ChemieNord - Arbeitgeberverband für die Chemische Industrie
 
 in Norddeutschland e.V. (bis 31.01.2021)
 
 Stellvertretende Mitglieder
 
- Michael Seitz; Bau-Innung Hamburg und Norddeutscher Baugewerbeverband
+– Michael Seitz; Bau-Innung Hamburg und Norddeutscher Baugewerbeverband
 
 e.V. (bis 30.06.2019)
 
- Berndt Röder, Zeitungsverlegerverband Hamburg e.V. – im Ruhestand (bis
+– Berndt Röder, Zeitungsverlegerverband Hamburg e.V. – im Ruhestand (bis
 
 30.06.2019)
 
- Thomas Wiese, Industrieverband Technische Gebäudeausrüstung und Ener-
+– Thomas Wiese, Industrieverband Technische Gebäudeausrüstung und Ener-
 
 gietechnik e.V. (bis 30.06.2019)
 
- Dierck Böckenholt, Einzelhandelsverband Nord e.V. (bis 30.06.2019)
+– Dierck Böckenholt, Einzelhandelsverband Nord e.V. (bis 30.06.2019)
 
 Arbeitnehmervertreter:
 
 Ordentliche Mitglieder
 
- André Grundmann, IG Bauen-Agrar-Umwelt; Landesverband Hamburg (bis
+– André Grundmann, IG Bauen-Agrar-Umwelt; Landesverband Hamburg (bis
 
 30.06.2019)
 
- Katja Karger, DGB Hamburg (bis 31.03.2018)
+– Katja Karger, DGB Hamburg (bis 31.03.2018)
 
- Henrike Rauber, IG Bergbau, Chemie, Energie (bis 30.06.2019)
+– Henrike Rauber, IG Bergbau, Chemie, Energie (bis 30.06.2019)
 
 Stellvertretende Mitglieder
 
- Jürgen Wolf, IG Metall Hamburg (bis 30.06.2019)
+– Jürgen Wolf, IG Metall Hamburg (bis 30.06.2019)
 
- Christa Theinert, Gewerkschaft Nahrung-Genuss-Gaststätten (bis 30.06.2019)
+– Christa Theinert, Gewerkschaft Nahrung-Genuss-Gaststätten (bis 30.06.2019)
 
- Friedhelm Ahrens, IG Metall (bis 30.06.2019)
+– Friedhelm Ahrens, IG Metall (bis 30.06.2019)
 
- Oliver Venzke, IG Bergbau, Chemie, Energie (bis 31.03.2018)
+– Oliver Venzke, IG Bergbau, Chemie, Energie (bis 31.03.2018)

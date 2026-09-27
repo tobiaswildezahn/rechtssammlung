@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3480"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52893"
@@ -49,7 +50,7 @@ Wie bewertet der Senat die oben geschilderte, von ihm geduldete Wettbewerbsverze
 
 Was wird der Senat im Laufe dieser Legislaturperiode unternehmen, um die Wettbewerbsverzerrung zulasten privater Hamburger Hochschulen zu mindern beziehungsweise abzuschaffen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

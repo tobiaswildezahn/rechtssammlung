@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 18
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1231", "20/6541", "20/9609", "20/10994", "21/1570", "21/2379"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50933"
@@ -106,7 +107,7 @@ Die Empfehlung des Europarates zugrunde gelegt: Wie viele Plätze in Frauenhäus
 
 Teilt der Senat die Empfehlung des Europarates? Wenn ja, wie und wann gedenkt er diese umzusetzen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Hamburg verfügt über eine ausreichende Anzahl von Schutzplätzen für von Gewalt betroffene oder bedrohte Frauen und Mädchen.
 

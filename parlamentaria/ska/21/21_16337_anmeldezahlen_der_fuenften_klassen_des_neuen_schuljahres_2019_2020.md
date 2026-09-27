@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16131", "21/11992", "21/12258"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65865"
@@ -43,7 +44,7 @@ Wie viele Schülerinnen und Schüler (SuS) haben sich nach dem gegenwärtigen Ke
 
 Wie viele von diesen SuS haben die GS, die sechsjährige PS, die STS und das Gym angewählt? (Bitte in einer Excel-Tabelle mit den entsprechenden Zahlen des Vorjahres vergleichen.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/16131, 21/11992, 21/12258 sowie Anlage 1 und Pressemitteilung der für Bildung zuständigen Behörde vom 25. Februar 2019 zu den vorläufigen Anmeldezahlen für die fünften Klassen (https://www.hamburg.de/bsb/pressemitteilungen/ 12225496/2019-02-25-bsb-anmeldezahlen-weiterfuehrende-schulen/).
 

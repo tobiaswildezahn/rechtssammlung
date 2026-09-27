@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65803"
@@ -78,7 +79,7 @@ Welchen Stellplatzschlüssel (Stellplatz pro Wohneinheit) gibt es aktuell in dem
 
 Wie bewertet der Senat die derzeitige Stellplatzsituation in dem Quartier?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Bei Wohnungen oder Wohnheimen entscheiden die Bauherrinnen und Bauherren in eigener Verantwortung über die Herstellung von Stellplätzen in angemessenem Umfang, wobei sie neben dem Stellplatzbedarf der Bewohnerinnen und Bewohner, den örtlichen Verkehrsverhältnissen, der Anbindung an den öffentlichen Nahverkehr insbesondere die Belange von Menschen mit Mobilitätseinschränkungen berücksichtigen sollen. Diese Regelung stellt lediglich einen Appell an Bauherrinnen und Bauherren dar, ist jedoch bauaufsichtlich weder erzwingbar noch durchsetzbar.
 

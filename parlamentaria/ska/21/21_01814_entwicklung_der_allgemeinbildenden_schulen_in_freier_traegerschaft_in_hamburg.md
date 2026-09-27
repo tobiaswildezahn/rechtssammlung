@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 18
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/3642"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50040"
@@ -54,7 +55,7 @@ c) In welchen Stadtteilen werden die jeweiligen Ersatzschulen betrieben? Bitte S
 
 Wie viele Schülerinnen und Schüler werden an den jeweiligen Ersatzschulen in Hamburg unterrichtet? Bitte Schulname und Schülerzahl angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In Hamburg werden derzeit 95 Ersatzschulen betrieben. Im Übrigen siehe Anlage 1.
 

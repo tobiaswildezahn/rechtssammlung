@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 33
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5976", "21/9187", "21/10362", "21/10761", "21/11443", "21/8854", "21/11714", "21/13231", "21/4866", "20/5792", "21/10173", "21/11160"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63034"
@@ -555,13 +556,17 @@ abgesprochen)
 
 ‐ Hamburger Bildungsempfehlungen (intern oder
 
-Nadjmabadi?)  Päd. Rahmenkonzept Elbkinder (P) und
+Nadjmabadi?)
+– Päd. Rahmenkonzept Elbkinder (P) und
 
-Qualitätsversprechen (QM)  Aufsichtspflicht (Z 3) und Kinderschutz
+Qualitätsversprechen (QM)
+– Aufsichtspflicht (Z 3) und Kinderschutz
 
-(Heptner, Kalvelage)  Entwicklungspsychologie kompakt: sozial-
+(Heptner, Kalvelage)
+– Entwicklungspsychologie kompakt: sozial-
 
-emotional, sinnlich, kognitiv, sprachlichkommunikativ, motorisch (  Inklusion
+emotional, sinnlich, kognitiv, sprachlichkommunikativ, motorisch (
+– Inklusion
 
 ‐ Beobachten und Kinder besser verstehen ‐ Herausforderndes Verhalten ‐ sozial emotionale Kompetenz als Schlüssel
 

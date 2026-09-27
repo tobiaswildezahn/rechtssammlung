@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11409", "21/10881", "21/14507"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68280"
@@ -325,7 +326,7 @@ Inwiefern plant der Senat beziehungsweise planen die zuständige Behörde Verän
 
 Inwiefern planen der HVV, die HOCHBAHN und/oder die S-Bahn Veränderungen an dem Konzept der fahrkartenpflichtigen Bereiche an Schnellbahnhaltestellen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/14507.
 
@@ -337,6 +338,6 @@ Inwiefern ist eine Veränderung des Tarifs für die HVV-Bahnsteigkarte geplant?
 
 Inwiefern und gegebenenfalls mit welchem Ergebnis wurde geprüft, die Bahnsteigkarte kostenlos auszugeben?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Der Preis der Bahnsteigkarte wird zum 15. Dezember 2019 von 30 Cent auf 10 Cent reduziert. Die Gültigkeit bleibt nach wie vor bei einer Stunde für die Haltestelle, an der sie gelöst wurde. Ein Verzicht auf die Gebührenerhebung wurde verworfen, weil Bahnsteige den Fahrgästen dienen, die sicher auf Züge warten sowie ein- und aussteigen wollen. Bahnsteige dienen dagegen nicht dem Aufenthalt zu sonstigen Zwecken. Ihre Benutzung ist daher Reisenden mit gültigem Fahrtausweis vorbehalten. Bahnsteigkarten ermöglichen es, Reisende zum Zug zu begleiten oder dort abzuholen. Die Entgeltlichkeit trägt dazu bei, eine zweckfremde Nutzung der Bahnsteige zu verhindern.

@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 23
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15480", "21/13217", "21/11304"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67738"
@@ -49,7 +50,7 @@ Wie ist im Einzelnen der Bearbeitungsstand der in Drs. 21/15480 aufgeführten Gu
 
 Welche zusätzlichen Gutachten wurden inzwischen aus welchen Gründen beauftragt oder stehen noch aus?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die in der Drs. 21/15480 genannte Kartierung/Bestandserhebung der Brutvögel ist – ergänzt um Fledermäuse und die Haselmaus – zwischenzeitlich abgeschlossen worden. Im Ergebnis stehen in Bezug auf die untersuchten Arten artenschutzrechtliche Hindernisse den bisherigen Planungszielen nicht entgegen. Die übrigen Gutachten befinden sich, sofern in der Drs. 21/15480 nicht anders angegeben, noch in der Bearbeitung beziehungsweise stehen vor dem Abschluss. Darüber hinaus wurden keine Gutachten beauftragt.
 
@@ -79,7 +80,7 @@ Welche Festsetzungen sind im geplanten Bebauungsplan Volksdorf 46 für die im Be
 
 Welche Festsetzungen bezüglich Größe des Baukörpers und baulicher Nutzung sind für die im Plangebiet angekündigte Dementen-Einrichtung vorgesehen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/13217.
 

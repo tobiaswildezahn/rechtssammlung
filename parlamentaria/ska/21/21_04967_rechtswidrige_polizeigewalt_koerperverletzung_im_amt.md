@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/644", "20/3279", "20/6501", "20/11572", "20/14500"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53408"
@@ -89,7 +90,7 @@ Wie viele Strafverfahren werden gegen Polizeibedienstete wegen Körperverletzung
 
 Wie viele Strafverfahren sind gegen Polizeibedienstete wegen Körperverletzung im Amt seit dem 28. Januar 2015 aufgrund welcher Sachverhalte mit welchen Verfahrensausgängen zu welchem Zeitpunkt abgeschlossen worden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Im Vorgangsbearbeitungs- und Vorgangsverwaltungssystem MESTA der Staatsanwaltschaft sind für die in der Antwort zu 4 aufgeführten 409 Beschuldigten folgende Verfahrensausgänge verzeichnet; wobei die Antwort ebenfalls unter dem Vorbehalt der zutreffenden und vollständigen Erfassung der Verfahren im Vorgangsbearbeitungs- und Vorgangsverwaltungssystem MESTA erfolgt:
 
@@ -118,23 +119,23 @@ Welchen Stand haben die vom Senat in der Antwort auf Frage 6. in Drs. 20/14500 (
 
 Hinsichtlich der in der Drs. 20/14500 genannten Beschuldigten, gegen die das Verfahren damals noch nicht abgeschlossen war, wird Folgendes mitgeteilt:
 
- Gegen drei Beschuldigte wurde ausweislich MESTA Anklage erhoben. In keinem
+– Gegen drei Beschuldigte wurde ausweislich MESTA Anklage erhoben. In keinem
 
 dieser drei Verfahren ist in MESTA bislang eine rechtskräftige Entscheidung verzeichnet. Hinsichtlich eines Betroffenen ist noch kein Hauptverhandlungstermin anberaumt. Im Hinblick auf das Persönlichkeitsrecht der anderen Betroffenen und die gesetzlichen Wertungen des Bundeszentralregistergesetzes sieht der Senat davon ab, noch nicht rechtskräftige Verfahrensabschlüsse mitzuteilen, da sie gegenwärtig nicht in ein Führungszeugnis aufzunehmen sind.
 
- Das Verfahren gegen zwei Beschuldigte ist weiterhin offen.
+– Das Verfahren gegen zwei Beschuldigte ist weiterhin offen.
 
- In vier Fällen erfolgten Verfahrensabtrennungen oder -verbindungen.
+– In vier Fällen erfolgten Verfahrensabtrennungen oder -verbindungen.
 
- Gegen zwei Beschuldigte wurde das Verfahren gemäß § 153a StPO gegen Aufla-
+– Gegen zwei Beschuldigte wurde das Verfahren gemäß § 153a StPO gegen Aufla-
 
 gen endgültig eingestellt.
 
- Gegen einen Beschuldigten wurde das Verfahren gemäß § 153a StPO vorläufig
+– Gegen einen Beschuldigten wurde das Verfahren gemäß § 153a StPO vorläufig
 
 eingestellt.
 
- Die weiteren Verfahren wurden mangels hinreichenden Tatverdachts gemäß § 170
+– Die weiteren Verfahren wurden mangels hinreichenden Tatverdachts gemäß § 170
 
 Absatz 2 StPO eingestellt.
 

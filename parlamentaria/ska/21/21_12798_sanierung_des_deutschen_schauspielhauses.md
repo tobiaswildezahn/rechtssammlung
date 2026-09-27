@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 17
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14486"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62108"
@@ -87,7 +88,7 @@ Seit wann stehen die Sanierungsarbeiten fest?
 
 Seit wann stehen die Kosten für die Sanierungsarbeiten fest? Wurden diese bereits einmal nach oben korrigiert? Falls ja, wann und in welchem Umfang?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Seit dem 4. April 2018 stehen die Planungen und die Kosten für die Sanierungsmaßnahmen fest. Bis dahin basierten alle Angaben auf Kostenschätzungen.
 

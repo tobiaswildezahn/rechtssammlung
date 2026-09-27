@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50437"
@@ -53,7 +54,7 @@ Wie hat die FHH aus welchen Gründen zum Antrag des Bundeslands Thüringen zur A
 
 Aus welchen Gründen hat die FHH selber keinen Antrag auf Anrufung des Vermittlungsausschusses gestellt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Bei dem vom Deutschen Bundestag am 16. Oktober 2015 verabschiedeten Gesetz zur Einführung einer Speicherpflicht und einer Höchstspeicherfrist handelt es sich um ein sogenanntes Einspruchsgesetz, das keiner Zustimmung des Bundesrates bedarf. Der Bundesrat hätte gemäß Artikel 77 Absatz 2 des Grundgesetzes den Vermittlungsausschuss anrufen können. Ein Antrag auf Anrufung des Vermittlungsausschusses hatte im federführenden Rechtsausschuss keine Mehrheit gefunden. Zu dem Plenarantrag des Landes Thüringen hat sich Hamburg in der Sitzung des Bundesrates am 6. November 2015 enthalten; für den Antrag stimmte neben dem antragstellenden Land lediglich ein weiteres Land.
 

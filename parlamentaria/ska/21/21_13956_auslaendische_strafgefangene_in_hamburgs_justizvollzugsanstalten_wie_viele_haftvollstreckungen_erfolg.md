@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63343"
@@ -67,7 +68,7 @@ Wie viele Ersuchen um Überstellung zur Vollstreckung einer in Deutschland ausge
 
 Wie viele Bewilligungen durch das Ausland gab es jährlich seit dem Jahre 2014?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Jahr  
 Ersuchen  

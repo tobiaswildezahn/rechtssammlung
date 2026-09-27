@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67794"
@@ -57,7 +58,7 @@ Welche Erkenntnisse liegen den zuständigen Behörden über Ralph van L. vor? Bi
 
 Von wann bis wann befand er sich wegen seiner letzten Verurteilung in Haft und in welchen JVA verbüßte er jeweils in welchem Zeitraum seine Strafe?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 L. wurde in Hamburg geboren und ist deutscher Staatsangehöriger.
 

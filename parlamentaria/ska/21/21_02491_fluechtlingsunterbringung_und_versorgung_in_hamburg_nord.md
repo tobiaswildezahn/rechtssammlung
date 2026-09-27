@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1716", "21/1532", "21/962", "21/2457"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50791"
@@ -70,37 +71,37 @@ Welche infrastrukturellen Einrichtungen für die Flüchtlinge gibt es in den Ers
 
 Nach Auskunft des für die ZEA-Standorte Sportallee und Grellkamp verantwortlichen Betreibers f & w gibt es folgende Angebote:
 
-• Kita für Drei- bis Fünfjährige und Schulunterricht für Kinder und Jugendliche von sechs bis 18 Jahren,
+– Kita für Drei- bis Fünfjährige und Schulunterricht für Kinder und Jugendliche von sechs bis 18 Jahren,
 
-• Gemeinschaftsräume,
+– Gemeinschaftsräume,
 
-• Bastel-, Spiel- und Lerngruppen,
+– Bastel-, Spiel- und Lerngruppen,
 
-• Deutschsprachkurse durch Ehrenamtliche an fünf Tagen die Woche (ohne externe Angebote),
+– Deutschsprachkurse durch Ehrenamtliche an fünf Tagen die Woche (ohne externe Angebote),
 
-• Ehrenamtliche bieten zusätzliche Angebote an, wie Begleitung zu sozialräumlichen Einrichtungen et cetera,
+– Ehrenamtliche bieten zusätzliche Angebote an, wie Begleitung zu sozialräumlichen Einrichtungen et cetera,
 
-• Sprachmittler und Dolmetscher unterstützen die Arbeit des Unterkunfts- und Sozialmanagements und die Bewohner bei Behördengängen,
+– Sprachmittler und Dolmetscher unterstützen die Arbeit des Unterkunfts- und Sozialmanagements und die Bewohner bei Behördengängen,
 
-• Bei Bedarf wird eine Trauma-Sprechstunde angeboten.
+– Bei Bedarf wird eine Trauma-Sprechstunde angeboten.
 
 Nach Auskunft des für den ZEA-Standort Wiesendamm verantwortlichen Betreibers Johanniter-Unfall-Hilfe e.V. Regionalverband gibt es folgende Angebote:
 
-• Kinderbetreuung,
+– Kinderbetreuung,
 
-• Sprachunterricht für Erwachsene,
+– Sprachunterricht für Erwachsene,
 
-• Beratung zu Unterkunft und anderen Angelegenheiten des täglichen Lebens,
+– Beratung zu Unterkunft und anderen Angelegenheiten des täglichen Lebens,
 
-• Aufenthalts- und Gemeinschaftsräume,
+– Aufenthalts- und Gemeinschaftsräume,
 
-• kulturelle Angebote und Angebote der Selbstorganisation von Flüchtlingen,
+– kulturelle Angebote und Angebote der Selbstorganisation von Flüchtlingen,
 
-• Deutsch Kurse, Deutsch-Unterricht für Männer, Deutsch-Unterricht für Frauen,
+– Deutsch Kurse, Deutsch-Unterricht für Männer, Deutsch-Unterricht für Frauen,
 
-• Mobile Teestube, Frauen Raum, Sofaecke, Sozialecke (Beratung/Betreuung), Tischkicker/Tischtennis, Klavier spielen,
+– Mobile Teestube, Frauen Raum, Sofaecke, Sozialecke (Beratung/Betreuung), Tischkicker/Tischtennis, Klavier spielen,
 
-• Beschulung ist in Planung.
+– Beschulung ist in Planung.
 
 In allen Erstaufnahmeeinrichtungen wurden allgemeinmedizinische und pädiatrische Sprechstunden eingerichtet. Zu den infrastrukturellen Einrichtungen hinsichtlich des Schulunterrichts siehe Drs. 21/1532.
 
@@ -114,17 +115,17 @@ Welche speziellen Maßnahmen gibt es in den Einrichtungen zur Unterstützung von
 
 Nach Auskunft von f & w gibt es für die Standorte Sportallee und Grellkamp folgende Angebote:
 
-• Das Unterkunfts- und Sozialmanagement ist für die Beratung der Frauen der erste Ansprechpartner. Es verweist unter anderem an entsprechende sozialräumliche Angebote, um die Integration zu fördern.
+– Das Unterkunfts- und Sozialmanagement ist für die Beratung der Frauen der erste Ansprechpartner. Es verweist unter anderem an entsprechende sozialräumliche Angebote, um die Integration zu fördern.
 
-• Im Standort Sportallee gibt es eine Frauengruppe. Der Sozialdienst katholischer Frauen besucht die Einrichtung regelmäßig. Geplant ist eine Tanzgruppe für Frauen.
+– Im Standort Sportallee gibt es eine Frauengruppe. Der Sozialdienst katholischer Frauen besucht die Einrichtung regelmäßig. Geplant ist eine Tanzgruppe für Frauen.
 
-• Im Standort Grellkamp richtet sich ein Deutschkurs explizit an Frauen. Eine Ökotrophologin leitet einen Kochkurs für Frauen an.
+– Im Standort Grellkamp richtet sich ein Deutschkurs explizit an Frauen. Eine Ökotrophologin leitet einen Kochkurs für Frauen an.
 
 Nach Auskunft der Joahnniter-Unfallhilfe gibt es folgende Angebote:
 
-• Es gibt einen Raum nur für Frauen.
+– Es gibt einen Raum nur für Frauen.
 
-• Außerdem gibt es die Gruppen: Stricken für Frauen, Deutschunterricht für Frauen, und Sport für Frauen.
+– Außerdem gibt es die Gruppen: Stricken für Frauen, Deutschunterricht für Frauen, und Sport für Frauen.
 
 Im Übrigen siehe Antwort zu 4.
 

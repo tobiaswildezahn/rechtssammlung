@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1025", "21/816", "21/2731"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51341"
@@ -66,6 +67,6 @@ c) für volljährig ohne Zweifel,
 d) für volljährig nach Klärung von Zweifeln durch Altersschätzungsverfahren und
 e) für volljährig aufgrund fehlender Mitwirkung beim Verfahren der Altersschätzung begutachtet? (Bitte nach Geschlecht aufschlüsseln.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der für die Inobhutnahme zuständige Fachdienst Flüchtlinge führt keine abrufbereite Statistik über vorgelegte Dokumente. Eine konkrete Auswertung entsprechend der Fragestellung würde die Durchsicht und Prüfung der Unterlagen von über 5.000 Personen erfordern. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Im Übrigen siehe Drs. 21/2731.

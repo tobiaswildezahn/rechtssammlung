@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 31
 antwortbloecke: 22
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15989", "21/4611", "21/13734", "21/16296"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66068"
@@ -281,7 +282,7 @@ Die Ida Ehre Schule schreibt in ihrem pädagogischen Leitbild, dass „Gewalt“
 
 Die Ida Ehre Schule wird auf der Internetseite des Bundesministeriums für Bildung und Forschung unter anderem aufgrund ihrer „Tradition der Demokratieerziehung“ als vorbildhaft gepriesen; Schulleiter Kevin Amberg schwärmt, dass er „noch nie ein fachlich und didaktisch so gut aufgestelltes Kollegium erlebt“ habe. Wie verträgt sich dieser Anspruch beziehungsweise diese Kompetenzselbstzuschreibung mit der monatelangen Duldung linksextremistischer Propaganda und diesbezüglicher politischer Aktivitäten an der Ida Ehre Schule durch die Gruppierung „Antifa Altona Ost“?
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Von einer Duldung kann nicht die Rede sein. Die Schulaufsicht und die Schulleitung werden nach den Ferien eine Befassung der Fachkonferenz „Politik, Gesellschaft, Wirtschaft“ und des Klassenkollegiums mit möglichen Inkonsequenzen bei der Einhaltung der gesetzlichen Vorgaben und des Beutelsbacher Konsenses sowie bei der Beachtung des schulischen Leitbildes einschließlich der schulischen Schwerpunktsetzung „Schule ohne Diskriminierung“ anordnen.
 
@@ -293,7 +294,7 @@ Welche unterrichtlichen oder außerunterrichtlichen Inhalte hat die Ida Ehre Sch
 
 Insbesondere: Inwieweit wurden typische Radikalisierungsverläufe von Jugendlichen des linken Spektrums thematisiert?
 
-#### Antwort zu Fragen 21 bis 22
+#### Antwort zu Fragen 21 und 22
 
 Für die Beantwortung dieser Frage wäre es erforderlich, sämtliche Klassenbücher und Kurshefte der Schule für die vergangenen zwei Jahre händisch auf die tatsächliche Vermittlung der genannten Inhalte durchzusehen und Inhalte und Umfang aufzulisten. Dies ist mit vertretbarem Verwaltungsaufwand in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht zu leisten. Im Übrigen wird auf den Bildungsplan für die Stadtteilschule Jahrgangsstufen 5 – 11 (dort insbesondere im Lernbereich Gesellschaftswissenschaften) und den Bildungsplan für die gymnasiale Oberstufe (dort insbesondere Politik/Gesellschaft/Wirtschaft) verwiesen.
 

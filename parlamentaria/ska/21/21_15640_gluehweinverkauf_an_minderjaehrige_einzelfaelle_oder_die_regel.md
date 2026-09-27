@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65126"
@@ -51,7 +52,7 @@ Wie viele Fälle von Alkoholverkauf an Jugendliche auf Hamburger Weihnachtsmärk
 
 Wie oft ist daraufhin ein Ordnungswidrigkeitsverfahren eingeleitet worden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Dem Bezirksamt Hamburg-Mitte sind fünf Fälle bekannt. In allen Fällen wurde ein Ordnungswidrigkeitenverfahren eingeleitet. In den übrigen Bezirken sind keine Fälle von unrechtmäßigen Alkoholverkäufen auf den Weihnachtsmärkten bekannt geworden.
 
@@ -96,6 +97,6 @@ Wie lässt sich sicherstellen, dass sich die Betreiber sowie das Personal von St
 
 Wie sehen diese Daten für das Jahr 2017 aus?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Betreiber von Ständen auf Weihnachtsmärkten und Volksfesten, die Alkoholika abgeben, werden im Rahmen der Abnahme dieser Veranstaltungen von den Mitarbeitenden der zuständigen bezirklichen Fachämter auf die Bestimmungen des Jugendschutzgesetzes hingewiesen. Der Aushang eines Auszugs aus dem Jugendschutzgesetz im Stand wird kontrolliert. Während der Dauer der Weihnachtsmärkte und Volksfeste werden regelhaft Kontrollen im Rahmen der Lebensmittelüberwachung durchgeführt, bei denen auch geprüft wird, ob die Bestimmungen des Jugendschutzgesetzes eingehalten werden. Eine gesonderte statistische Erfassung der Ergebnisse erfolgt nicht. Im Übrigen siehe Vorbemerkung.

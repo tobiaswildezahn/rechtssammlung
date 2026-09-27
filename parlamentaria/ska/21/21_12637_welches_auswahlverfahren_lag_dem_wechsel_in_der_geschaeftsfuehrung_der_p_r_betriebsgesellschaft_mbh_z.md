@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12289"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61942"
@@ -88,7 +89,7 @@ b) Wer hat wann genau entschieden, dass im vorliegenden Fall von dieser Soll-Vor
 c) Welchen Wert misst der Senat dieser Soll-Vorschrift grundsätzlich bei?
 d) Wie bewertet der Senat, dass bei der Bestellung von Herrn Krampe zum Geschäftsführer der P+R-Betriebsgesellschaft mbH offenkundig von dieser Soll-Vorschrift abgewichen wurde?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung und Antworten zu 1. bis 1. c) und zu 2.
 

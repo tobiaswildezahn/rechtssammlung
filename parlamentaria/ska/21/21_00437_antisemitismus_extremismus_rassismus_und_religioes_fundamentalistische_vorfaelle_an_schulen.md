@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 24
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/634", "20/10743", "20/11007", "20/12001", "20/12927", "20/13460", "20/9849", "20/13241"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48583"
@@ -100,7 +101,7 @@ Wie ist das Prozedere für die Meldung von rassistisch motivierten Gewaltvorfäl
 
 Für welche Vorfälle im vorgenannten Sinne ist regelhaft nur eine Meldung bei der Schulbehörde vorgesehen, ab wann und welcher Verdachts- beziehungsweise Gefährdungslage und bei welchen Deliktstypen sind die Schulen angehalten, die Polizei hinzuzuziehen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Meldung von Straftaten und Gewaltvorfällen ist in § 49 Absatz 1 Hamburgisches Schulgesetz (HmbSG) und der „Richtlinie zur Meldung und Bearbeitung von Gewaltvorfällen an Schulen“ (siehe unter: http://www.hamburg.de/contentblob/3854702/ data/richtlinie-meldung-von-gewaltvorfaellen.pdf) geregelt.
 
@@ -132,7 +133,7 @@ Wie sind die entsprechenden Meldeformulare für rassistisch motivierte Vorfälle
 
 Lassen die Formulare Raum für die eigenen, detaillierten Beschreibungen der jeweiligen Vorfälle und/oder halten dazu explizit an?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Antwort zu 9 und 10. sowie http://www.hamburg.de/contentblob/4079416/ data/meldebogen-fuer-gewaltvorfaelle-an-schulen-02-04-14.doc.
 

@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 5
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69347"
@@ -43,6 +44,6 @@ Gab oder gibt es Überlegungen beziehungsweise Anfragen bezüglich einer Bebauun
 
 Wurde oder wird die Zulässigkeit einer Bebauung dieser Fläche auf Basis des § 34 BauGB geprüft? Wenn ja, wann und mit welchem Ergebnis? Wenn nein, ist eine solche Prüfung geplant?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Jahr 2005 wurde ein Vorbescheidsantrag für die Errichtung von Reihenhäusern mit 18 Wohneinheiten auf der genannten Fläche (Flurstück 376) gestellt. Die Prüfung ergab, dass der genannte Bereich nach § 35 Baugesetzbuch (BauGB) zu bewerten und somit eine Bebauung nicht möglich ist. Der Antrag wurde daraufhin zurückgenommen. Aktuell gibt es keine Überlegungen oder Anfragen bezüglich einer Bebauung der genannten Fläche.

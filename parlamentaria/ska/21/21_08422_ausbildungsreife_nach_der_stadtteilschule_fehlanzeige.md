@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7483", "21/7734", "19/8472", "20/6934", "19/2928", "21/7514", "21/2788"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57135"
@@ -184,6 +185,6 @@ Worin bestehen die in Drs. 21/7483 genannten Vermittlungshemmnisse, die es offen
 
 Werden während der Schulzeit bereits Vorkehrungen getroffen, um die jeweiligen Vermittlungshemmnisse bis zum Ende der schulischen Ausbildung zu beheben? Wenn ja, bitte erläutern, wie diese Vorkehrungen aussehen. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung.

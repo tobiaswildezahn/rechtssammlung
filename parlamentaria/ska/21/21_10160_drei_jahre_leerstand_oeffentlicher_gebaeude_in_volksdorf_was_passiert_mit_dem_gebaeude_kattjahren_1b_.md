@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58992"
@@ -59,7 +60,7 @@ Wurde über eine Zwischennutzung des Gebäudes für örtliche Vereine, kulturell
 
 Wurde das Gebäude der Hamburg Kreativ GmbH für eine befristete Nutzung angeboten? Wenn ja, wann und mit welchem Ergebnis? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Im März 2017 hat eine temporäre Kunstausstellung in dem Objekt stattgefunden. Von weiteren Zwischennutzungen wurde vor dem Hintergrund von Vertragsgesprächen mit einem Mietinteressenten abgesehen.
 
@@ -87,7 +88,7 @@ Welche Umbau- und Sanierungsmaßnahmen sind am Gebäude vorgesehen und wer soll 
 
 Ist es weiterhin zutreffend, dass kein Verkauf des Objektes durch die Freie und Hansestadt Hamburg geplant ist? Wenn nein, welche Veränderungen sind beabsichtigt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Es sind Umbaumaßnahmen zur Herstellung einer Ladenfläche vorgesehen. Im Übrigen sind die Planungen und Überlegungen hierzu noch nicht abgeschlossen.
 

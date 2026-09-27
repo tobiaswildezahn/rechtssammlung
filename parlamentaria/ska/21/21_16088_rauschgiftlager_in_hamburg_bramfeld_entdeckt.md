@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65594"
@@ -67,19 +68,19 @@ Welche Maßnahmen hat die Polizei vor Ort ergriffen?
 
 Im Sinne der Fragestellung hat die Polizei folgende Maßnahmen ergriffen:
 
- Überprüfungen mutmaßlicher Betäubungsmittelerwerber,
+– Überprüfungen mutmaßlicher Betäubungsmittelerwerber,
 
- Erwirken eines richterlichen Durchsuchungsbeschlusses,
+– Erwirken eines richterlichen Durchsuchungsbeschlusses,
 
- Durchsuchung der Wohnung,
+– Durchsuchung der Wohnung,
 
- Sicherstellung von Beweismitteln,
+– Sicherstellung von Beweismitteln,
 
- Feststellung der Personalien der angetroffenen Personen,
+– Feststellung der Personalien der angetroffenen Personen,
 
- vorläufige Festnahme des Tatverdächtigen,
+– vorläufige Festnahme des Tatverdächtigen,
 
- Angebot rechtlichen Gehörs.
+– Angebot rechtlichen Gehörs.
 
 Darüber hinaus berührt die Fragestellung die Einsatztaktik der Polizei, zu der aus grundsätzlichen Erwägungen keine Angaben gemacht werden.
 
@@ -109,7 +110,7 @@ Ist der Tatverdächtige bereits in der Vergangenheit strafrechtlich aufgefallen?
 
 Hat es in diesem Zusammenhang bereits Verurteilungen gegeben? Falls ja, wann, und wie sahen diese aus?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Im Hinblick auf das Persönlichkeitsrecht des Betroffenen und die gesetzlichen Wertungen des Bundeszentralregistergesetzes sieht der Senat davon ab, etwaige Ermittlungsverfahren mitzuteilen, die durch einen Freispruch oder eine Einstellung beendet worden sind. Dasselbe gilt für Ermittlungsverfahren, die zu einem Abschluss geführt haben, der entweder nicht in ein Führungszeugnis aufzunehmen oder nach den Tilgungsvorschriften des Bundeszentralregistergesetzes nicht mehr zu berücksichtigen ist. Eine hier vorliegende Auskunft aus dem Bundeszentralregister vom 6. Februar 2019 zu dem Tatverdächtigen enthält keine mitteilungsfähigen Eintragungen.
 

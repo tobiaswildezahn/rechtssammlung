@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5762", "21/5763"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54341"
@@ -35,23 +36,23 @@ Im internationalen Vergleich wirken diese Initiativen jedoch recht mutlos. Insbe
 
 ## Einleitung für die Antworten des Senats
 
- Ein Justizportal informiert über Urteile und bietet Prozessbeteiligten die
+– Ein Justizportal informiert über Urteile und bietet Prozessbeteiligten die
 
 Möglichkeit, auf Gerichtsunterlagen zuzugreifen. Gerichte können Angeklagte und Zeugen auch über soziale Netzwerke vorladen.
 
- Die Polizei hat bei Fahrzeugkontrollen mobilen Zugriff auf alle relevanten
+– Die Polizei hat bei Fahrzeugkontrollen mobilen Zugriff auf alle relevanten
 
 Daten. So sind Vorstrafen, Versicherung und weitere personenbezogene Daten vorab bekannt. Dies beschleunigt die Kontrollen und erhöht auch die Sicherheit der Polizisten.
 
- Zur Unterrichtsorganisation wird flächendeckend auf eine Online-Platt-
+– Zur Unterrichtsorganisation wird flächendeckend auf eine Online-Platt-
 
 form zurückgegriffen. Hier können nicht nur Lehr- und Stundenpläne abgerufen werden, sondern auch Noten, Hausaufgaben und Fehlzeiten.
 
- Auch Gründern wird online das Leben leicht gemacht. Im Durchschnitt
+– Auch Gründern wird online das Leben leicht gemacht. Im Durchschnitt
 
 braucht man hierfür nur noch eine halbe Stunde. Das bedeutet mehr Zeit, um kreativ die Welt zu verändern.
 
- Auch allen anderen Unternehmen kommt die Digitalisierung zugute. Jah-
+– Auch allen anderen Unternehmen kommt die Digitalisierung zugute. Jah-
 
 resberichte, Registerauszüge und Grundbucheinträge können online erledigt werden, was Zeit und Geld spart.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 16
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49836"
@@ -43,7 +44,7 @@ Plant der Senat den oben genannten Antrag im Bundesrat zu unterstützen? Wenn ne
 
 Ist der Senat der Auffassung, dass eine Überarbeitung des Vergaberechts und der damit zusammenhängenden Vorschriften zu einer Beschleunigung der Verfahrensabläufe führen kann? a. Wenn ja, plant der Senat Veränderungen von landesrechtlichen Gesetzen, Verordnungen und Dienstanweisungen? Gegebenenfalls welche Änderungen plant der Senat? b. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat begrüßt grundsätzlich Maßnahmen, die zu einer Beschleunigung beziehungsweise Flexibilisierung von Vergabeverfahren beitragen. Dazu ist auch ein Vorschlag der Bundesregierung in Vorbereitung, der allerdings als abschließender Gesetzesentwurf noch nicht vorliegt. Vor diesem Hintergrund wird das endgültige Stimmverhalten der Freien und Hansestadt Hamburg damit erst unmittelbar vor der Sitzung des Bundesrats am 25. September im Lichte des dann vorliegenden Sachstandes festgelegt.
 

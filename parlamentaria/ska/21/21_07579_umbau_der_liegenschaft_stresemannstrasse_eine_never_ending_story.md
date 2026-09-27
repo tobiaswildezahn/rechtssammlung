@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56195"
@@ -85,7 +86,7 @@ Welche finanzielle Mehrbelastung ergibt sich für die Polizei aufgrund der verz�
 
 Wer trägt diese Kosten (zu Frage 5.)? Bitte einzeln aufführen.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Kosten lassen sich derzeit noch nicht abschließend beziffern. Im Übrigen sind die Gespräche mit dem Vermieter noch nicht abgeschlossen.
 
@@ -105,55 +106,55 @@ In welchem Umfang werden die einzelnen Etagen saniert? Bitte je Etage Angaben zu
 
 Grundsätzlich beziehen sich die genannten Maßnahmen auf alle Etagen:
 
- Anpassung der Raumgrößen nach Vorgaben der Nutzer,
+– Anpassung der Raumgrößen nach Vorgaben der Nutzer,
 
- Erneuerung der Fußböden,
+– Erneuerung der Fußböden,
 
- Sanierung beziehungsweise Erneuerung der Sanitäranlagen,
+– Sanierung beziehungsweise Erneuerung der Sanitäranlagen,
 
- Erneuerung der Beleuchtung,
+– Erneuerung der Beleuchtung,
 
- Einbau neuer Küchen,
+– Einbau neuer Küchen,
 
- Klimatisierung der Büros in Haus B, 3. Obergeschoss (OG),
+– Klimatisierung der Büros in Haus B, 3. Obergeschoss (OG),
 
- Fensterreparaturen,
+– Fensterreparaturen,
 
- Anbringung außenliegender Rollläden,
+– Anbringung außenliegender Rollläden,
 
- Ausstattung der Räume mit innenliegendem Blendschutz,
+– Ausstattung der Räume mit innenliegendem Blendschutz,
 
- Erneuerung der Unterverteilung und Niederspannungshauptverteilungen (NSHV)
+– Erneuerung der Unterverteilung und Niederspannungshauptverteilungen (NSHV)
 
 im Keller,
 
- Einbau eines Notstromaggregats im Keller,
+– Einbau eines Notstromaggregats im Keller,
 
- Erneuerungen und Installationen in Zusammenhang mit der Verlegung von
+– Erneuerungen und Installationen in Zusammenhang mit der Verlegung von
 
 Befehlsstellen (im 1. und 2. OG) inklusive zweier technischer Vorrüstungen (im 3. OG),
 
- Klimatisierung der Befehlsstellen,
+– Klimatisierung der Befehlsstellen,
 
- Erneuerung der Stromleitungen und Datentransferkabel,
+– Erneuerung der Stromleitungen und Datentransferkabel,
 
- Installation von LED-Außenbeleuchtungen an der Fassade,
+– Installation von LED-Außenbeleuchtungen an der Fassade,
 
- Dachsanierung,
+– Dachsanierung,
 
- Schaffung eines Schwarz-Weiß-Bereiches für die Brandermittler gemäß gesetzli-
+– Schaffung eines Schwarz-Weiß-Bereiches für die Brandermittler gemäß gesetzli-
 
 cher Vorgaben,
 
- Einbau neuer barrierefreier Aufzüge,
+– Einbau neuer barrierefreier Aufzüge,
 
- Sanierung der Sicherungswache im Erdgeschoss (EG),
+– Sanierung der Sicherungswache im Erdgeschoss (EG),
 
- Bühneneinrichtung und -aufbau für die Verkehrsprävention (Verkehrskasper) im
+– Bühneneinrichtung und -aufbau für die Verkehrsprävention (Verkehrskasper) im
 
 EG,
 
- Schaffung kindgerechter Sanitäreinrichtungen im Bereich der Verkehrsprävention
+– Schaffung kindgerechter Sanitäreinrichtungen im Bereich der Verkehrsprävention
 
 (Verkehrskasper) im EG.
 

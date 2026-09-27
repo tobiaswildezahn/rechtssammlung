@@ -5,7 +5,7 @@ wahlperiode: 21
 id: 65556
 titel: "Blockiert die Bürokratie in Hamburg die Drittmittelforschung an den Hochschulen? (II)"
 datum_anfrage: "2019-02-01"
-datum_drucksache: null
+datum_drucksache: "2019-02-08"
 urheber: ["Carsten Ovens"]
 fraktionen: ["CDU"]
 vorgang: 59738
@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65556"
@@ -24,7 +25,7 @@ generator: "ska_archiv 1.0"
 
 # Drs. 21/16046: Blockiert die Bürokratie in Hamburg die Drittmittelforschung an den Hochschulen? (II)
 
-> Schriftliche Kleine Anfrage und Antwort des Senats  
+> Schriftliche Kleine Anfrage des Abgeordneten Carsten Ovens (CDU) vom 01.02.19 und Antwort des Senats · Drucksache vom 08.02.2019  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/65556) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/65556/21_16046_blockiert_die_buerokratie_in_hamburg_die_drittmittelforschung_an_den_hochschulen_ii)
 
 ## Einleitung für die Fragen

@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 22
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1619", "20/10863"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49862"
@@ -100,7 +101,7 @@ Welche Vorzüge bietet der neue Verbraucherschutz-Pegel im Gegensatz zu dem Verb
 
 Welche Ziele verfolgt die Etablierung des Verbraucherschutz-Pegels?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Verbraucherschutz-Pegel hat den Vorteil, dass er mithilfe von regelmäßigen Befragungen und Veröffentlichungen der dabei erzielten Ergebnisse Erkenntnisse über die Probleme und die Zufriedenheit der Verbraucherinnen und Verbraucher liefert.
 

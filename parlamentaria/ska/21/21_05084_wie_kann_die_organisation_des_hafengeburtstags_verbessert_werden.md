@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/449", "21/4397"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53558"
@@ -47,15 +48,15 @@ Welche Beschwerden über den Ablauf und/oder die Organisation des diesjährigen 
 
 Im Vorwege der Veranstaltung sind der für die Organisation des Hafengeburtstags zuständigen Behörde folgende Beschwerden bekannt geworden:
 
- Die Schifffahrtsverbände kritisierten die Vollsperrung des Schiffverkehrs vor den
+– Die Schifffahrtsverbände kritisierten die Vollsperrung des Schiffverkehrs vor den
 
 Landungsbrücken zum Feuerwerk. Die zuständige Behörde hat die Verbände darüber informiert, dass aus Sicherheitsgründen eine Vollsperrung von der HPA erlassen wurde. Eine Alternative dazu besteht nicht.
 
- Die Schaustellerverbände kritisierten die durch die Baumaßnahmen eingeschränk-
+– Die Schaustellerverbände kritisierten die durch die Baumaßnahmen eingeschränk-
 
 te Veranstaltungsfläche zwischen Hafentor und Rundbunker. Der technische Koordinator befindet sich im ständigen Austausch mit der Baustellenleitung des Landesbetriebes für Straßen, Brücken und Gewässer (LSBG), um frühzeitig auf die Auswirkungen der Baumaßnahmen reagieren und diese minimieren zu können. So konnten zum Beispiel die Parkbuchten unter dem U-Bahn-Viadukt in Höhe Johannisbollwerk/Vorsetzen während des Hafengeburtstags genutzt werden, da der technische Koordinator mit der Baustellenleitung das stellenweise Herausnehmen von Betonleitwänden vereinbaren konnte. Vergleichbare Möglichkeiten sollen auch in Zukunft genutzt werden. Zudem sollen die Schaustellerverbände weiterhin bereits im Vorwege über die aktuelle Baustellensituation und die Planungen der zuständigen Behörde informiert werden, damit sie die Gelegenheit haben, rechtzeitig eigene Lösungsvorschläge zu machen.
 
- Seitens einiger Anwohnerinnen und Anwohner der Neustadt gab es bereits im
+– Seitens einiger Anwohnerinnen und Anwohner der Neustadt gab es bereits im
 
 Vorwege der Veranstaltung Bedenken hinsichtlich einer möglicherweise unzumut-
 
@@ -118,35 +119,35 @@ d. Geht der Senat davon aus, dass die Mehrheit der Anbieter beim Hafengeburtstag
 
 Ja. Bereits im Rahmen des Zulassungsverfahrens gemäß der Gewerbeordnung (in der Fassung der Bekanntmachung vom 22. Februar 1999, BGBl. I S. 202, zuletzt geändert durch Gesetz vom 11. März 2016 (BGBl. I S. 396) mit Wirkung vom 17. März 2016 beziehungsweise 21.März 2016) prüft der Veranstalter die Zuverlässigkeit der Bewerberinnen und Bewerber. Diese haben alle für das betreffende Geschäft erforderlichen Nachweise und Genehmigungen einzureichen sowie diesbezügliche Auflagen (zum Beispiel gewerberechtlicher, baurechtlicher, sicherheitstechnischer Art) zu erfüllen. Die für die Organisation des Hafengeburtstags zuständige Behörde überprüft während der Veranstaltung im Rahmen der Marktaufsicht und Zuständigkeit die Einhaltung der gesetzlichen Bestimmungen. Darüber hinaus informiert sie unter anderem
 
- das Finanzamt Hamburg-Hansa zur Wahrnehmung des gesetzlichen Auftrages zur
+– das Finanzamt Hamburg-Hansa zur Wahrnehmung des gesetzlichen Auftrages zur
 
 Sicherstellung der Gleichmäßigkeit der Besteuerung,
 
- die Berufsgenossenschaft Nahrungsmittel und Gaststätten (BGN) zur Wahrneh-
+– die Berufsgenossenschaft Nahrungsmittel und Gaststätten (BGN) zur Wahrneh-
 
 mung des gesetzlichen Auftrages als Unfallversicherungsträger,
 
- den TÜV Nord e.V. Anlagentechnik zum Zweck der Überprüfung sogenannter flie-
+– den TÜV Nord e.V. Anlagentechnik zum Zweck der Überprüfung sogenannter flie-
 
 gender Bauten,
 
- die zuständigen polizeilichen Überwachungsbehörden zum Zwecke der Gefahren-
+– die zuständigen polizeilichen Überwachungsbehörden zum Zwecke der Gefahren-
 
 abwehr sowie Straf- und Ordnungswidrigkeitenverfolgung im Bereich des Veranstaltungsgeländes,
 
- die zuständigen Feuer- und Rettungsdienststellen zum Zwecke der Brandbekämp-
+– die zuständigen Feuer- und Rettungsdienststellen zum Zwecke der Brandbekämp-
 
 fung und Durchführung von Rettungsmaßnahmen,
 
- die Bezirksämter Hamburg-Mitte und Altona (Bauprüfabteilung) und die Behörde
+– die Bezirksämter Hamburg-Mitte und Altona (Bauprüfabteilung) und die Behörde
 
 für Stadtentwicklung und Wohnen (BSW) zum Zwecke der Bauabnahme und -überwachung,
 
- die Behörde für Gesundheit und Verbraucherschutz (BGV) zum Zwecke der Prü-
+– die Behörde für Gesundheit und Verbraucherschutz (BGV) zum Zwecke der Prü-
 
 fung der Gasinstallationen und
 
- die Bezirksämter Hamburg-Mitte und Altona (Verbraucherschutz) zur Durchführung
+– die Bezirksämter Hamburg-Mitte und Altona (Verbraucherschutz) zur Durchführung
 
 der Lebensmittelüberwachung
 

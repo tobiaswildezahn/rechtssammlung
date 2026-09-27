@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56725"
@@ -57,7 +58,7 @@ In wessen Auftrag und wann wurden hier die oben angegebene Zackenleiste und der 
 
 Was haben diese Maßnahmen wen gekostet?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Hierzu liegen der zuständigen Behörde keine Kenntnisse vor. Im Übrigen siehe Antwort zu 1.
 
@@ -117,7 +118,7 @@ Was ist mit diesem Gitterzaun und der Mauer von welcher Seite geplant?
 
 Stehen die genannten Mauer-Maßnahmen in irgendeinem Zusammenhang mit dem im Herbst 2016 von Bezirksamtsleiter Falko Droßmann verkündeten Programm zur Umgestaltung der Hauptbahnhofumgebung, vor allem des östlichen Teils? Wenn ja, wie? Wenn nein, wie kann es dann zu den genannten jüngsten Maßnahmen kommen?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die Mauer soll im Rahmen einer Zwischenlösung entfernt werden, um den Platzbereich unter dem Verwaltungsgebäude auf dem Hachmannplatz übersichtlicher zu gestalten. Dadurch können die Fußgängerströme aus dem Kreuzungsbereich besser aufgenommen werden.
 

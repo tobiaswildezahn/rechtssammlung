@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51383"
@@ -44,7 +45,7 @@ Wie viele Schüler/-innen der vierten Klassen mit einem sonderpädagogischen Fö
 
 Welchem Prozentsatz entspricht diese Anzahl im Vergleich zur Gesamtanzahl der Schüler/-innen in den vierten Klassen aller Hamburger Grundschulen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bei der LUSD handelt es sich um ein Schulverwaltungsprogramm, in dem in den Schulen täglich Eingaben getätigt und bei Bedarf geändert werden. In der LUSD sind also sogenannte Bewegungsdaten enthalten. Eine valide Bildungsstatistik setzt jedoch feste Stichtage für die Berichterstattung voraus.
 

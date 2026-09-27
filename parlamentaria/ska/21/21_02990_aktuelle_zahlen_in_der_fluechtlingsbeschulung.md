@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2193", "20/13705", "21/1532", "21/2644"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51338"
@@ -51,7 +52,7 @@ Wie viele Flüchtlinge gibt es aktuell an den Regelschulen? Bitte aufschlüsseln
 
 Wie viele spezielle Klassen (Basisklassen und IVK) sind für diese Schülergruppe aktuell eingerichtet? Bitte aufschlüsseln nach Schule (dazu bitte jeweiligen KESS-Index angeben) und die jeweilige Klassengröße angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Angaben über die Anzahl von Flüchtlingskindern in den einzelnen Schulen liegen der zuständigen Behörde nicht vor. Das Merkmal „Flüchtling“ wird in der Schulstatistik nicht erhoben, da es kein relevantes Merkmal im Hinblick auf die Schulpflicht nach § 37 Hamburgisches Schulgesetz (HmbSG) darstellt beziehungsweise das Recht auf einen Schulplatz begründet. Zur Systematik der Beschulung von Flüchtlingen und anderen neu Zugewanderten in Hamburg siehe Drs. 20/13705, Drs. 21/1532 und Drs. 21/2644. Im Übrigen siehe Anlage.
 
@@ -63,7 +64,7 @@ Wie viele Lehrkräfte sind für den Unterricht dieser Klassen notwendig? Bitte i
 
 Wie viele Lehrkräfte sind hierfür zusätzlich eingestellt worden? Bitte in Vollzeitäquivalenten angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Für die Beschulung der IVK und Basisklassen sind 250,4 Lehrerstellen notwendig (Stand: 26.01.2016). Dieser Stellenbedarf steht den Schulen in vollem Umfang zur Verfügung, sodass die Einstellung in eigener Verantwortung entsprechend den Bedarfen vorgenommen werden kann. Eine systematische Erfassung darüber, welche Lehr-
 

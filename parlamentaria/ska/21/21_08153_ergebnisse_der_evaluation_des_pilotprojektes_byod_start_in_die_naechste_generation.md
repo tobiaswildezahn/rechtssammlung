@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 27
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56860"
@@ -229,7 +230,7 @@ Aktuelle wissenschaftliche Forschungen legen nahe, dass gerade die starke Strahl
 
 Den Informationen des BUND (Bund für Umwelt und Naturschutz) zufolge empfehlen sowohl das Bundesamt für Strahlenschutz, das Umweltbundesamt wie auch der zuständige Ausschuss des Europarates, aus gesundheitlichen Gründen in Schulen auf WLAN zu verzichten und kabelgebundene Lösungen zu wählen, was andere EU-Länder bereits konsequent umsetzen. Wie wurden diese Empfehlungen hinsichtlich des BYOD-Pilotprojektes seitens des Senats und der zuständigen Behörde berücksichtigt und bewertet? (Bitte nennen.) a. Auf Grundlage welcher eigenen wissenschaftlichen Datenlage beziehungsweise Expertise wurde die Entscheidung für das Projekt, trotz zwingender permanenter WLAN-Infrastruktur an den Schulen getroffen? (Bitte Entscheidungsgrundlage benennen und erklären.) b. Welche externen Experten/-innen und Organisationen wurden hinsichtlich der gesundheitlichen Unbedenklichkeitsberatung bei Planung und Umsetzung des Pilotprojektes an den Schulen wie einbezogen? (Bitte nennen und Beteiligung erläutern.)
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Voraussetzung für die Teilnahme in dem Projekt „Start in die nächste Generation“ war eine Zustimmung der Schulkonferenz, in der der Elternrat vertreten ist. Darüber hinaus wurden die Eltern der Pilotklassen über das Projekt und die eingesetzte Technik informiert und die Zustimmung zur Teilnahme ihrer Kinder eingeholt, siehe Antwort zu
 3.a.
@@ -246,7 +247,7 @@ Erfolgten projektvorbereitende beziehungsweise projektbegleitende Strahlungsmess
 
 Welche konkreten Konsequenzen und Maßnahmen ergriffen Senat und zuständige Fachbehörde hinsichtlich der in Fragen 10. – 12. genannten gesundheitlichen Aspekte in Vorfeld und bei Umsetzung des Pilotprojektes? (Bitte erläutern.) a. In welcher Weise werden die in Fragen 10. – 12. dargestellten Sachverhalte hinsichtlich des Schutzes der Gesundheit aller Schüler/-innen bei den beabsichtigten zukünftigen Erweiterungen der digitalen-Lern- und Bildungsstrukturen an den Hamburger Schulen berücksichtigt? (Bitte Maßnahmen benennen und Planungen erläutern.)
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Für die Überprüfung durch einen unabhängigen Sachverständigen wurde eine Referenzschule ausgewählt, die alle baulichen Besonderheiten, unter anderem Stahlbeton sowie sonstigen Besonderheiten erfüllt, um ein Ergebnis zu erhalten, das eine grundsätzliche Aussage zulässt. Im Übrigen siehe Antwort zu 10. und 11.
 

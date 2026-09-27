@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 17
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49285"
@@ -49,7 +50,7 @@ Welcher Ablauf war ursprünglich geplant? Insbesondere: Waren ursprünglich vier
 
 Inwieweit wurde dieser geplante Ablauf kurzfristig geändert? Insbesondere: Wurde ein fünfter Tisch eingerichtet? Mit welchem Thema hat sich der fünfte Tisch beschäftigt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nach zwei intensiven Workshops am 29. Juni und 14. Juli 2015 sind von 30 ausgewählten stimmberechtigten Vertretern/-innen verschiedene Vorschläge für Planungsvarianten zur „Nutzung des öffentlichen Raums im Bereich Papenhuder Straße/ Hofweg“ erarbeitet worden. Das 30er-Gremium besteht aus 15 Vertreterinnen und Vertretern der Initiativen „Runder Tisch Unsere Uhlenhorst“, „Bürgerinitiative Unsere Uhlenhorst“ und „Hohenfelder Bürgerverein von 1883 r.V.“ für die Stadtteile Hohenfelde/Uhlenhorst sowie 15 Mitgliedern des örtlich zuständigen Regionalausschusses Barmbek-Uhlenhorst-Hohenfelde-Dulsberg.
 

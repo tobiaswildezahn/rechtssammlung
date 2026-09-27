@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 15
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63308"
@@ -67,7 +68,7 @@ a) Master beziehungsweise Diplom
 b) Promotion  
 c) Habilitation
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Zu der Arbeitsgruppe gehören neben den Projektleitern drei Fachleute, die aus Mitteln des Exzellenzclusters finanziert werden. Darunter verfügt eine Person über die Qualifikation eines Masters und zwei Personen verfügen über eine Promotion.
 
@@ -120,7 +121,7 @@ Wie viele Mitglieder der Arbeitsgruppe von Prof. Drescher und Prof. Sengstock ko
 
 Aus welchen Ländern stammen diese Leute?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Alle Mitglieder der Arbeitsgruppe stammen aus Deutschland.
 

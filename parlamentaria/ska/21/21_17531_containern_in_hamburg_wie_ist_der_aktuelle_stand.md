@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 12
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67123"
@@ -43,7 +44,7 @@ Welche Vereine, Gruppen und Personen haben sich durch das sogenannte Containern 
 
 Wie viele Anzeigen gab es bisher, wegen strafbaren Verhaltens in Bezug auf das „Containern“? a. Welche Delikte wurden bisher konkret angezeigt? b. In welchen Stadtteilen wurden diese Delikte angezeigt? c. Welche Konsequenzen hat der Senat bisher daraus gezogen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Polizei erfasst Straftaten gemäß dem Straftatenkatalog der Richtlinien für die Erfassung und Verarbeitung der Daten in der Polizeilichen Kriminalstatistik (PKS). Das Containern wird in der PKS als Diebstahl erfasst, eine gesonderte Erfassung im Sinne der Fragestellungen erfolgt in der PKS nicht. Darüber hinaus werden Statistiken im Sinne der Fragestellungen bei der Polizei nicht geführt. Zur Beantwortung wäre eine Durchsicht aller Hand- und Ermittlungsakten bei der Polizei erforderlich. Die Auswertung von mehreren Hunderttausend Akten ist in der für die Beantwortung Parlamentarischer Anfragen zur Verfügung stehenden Zeit nicht möglich.
 

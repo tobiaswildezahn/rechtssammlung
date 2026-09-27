@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3101", "20/13400"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54378"
@@ -73,7 +74,7 @@ Wie hoch war die Zahl der insgesamt geförderten Unternehmen seit der Gründung 
 
 Wie hoch war die Zahl der geförderten Unternehmen seit der Gründung des Stipendiums auf Bundesebene im Jahr 2007 pro Jahr in den anderen Bundesländern, und wie hoch war das dortige Fördervolumen pro Jahr? Bitte differenziert nach Jahren 2007 bis 2016 sowie nach Bundesland darstellen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die zuständige Behörde sieht in gängiger Praxis davon ab, Daten aus anderen Ländern zu berichten.
 

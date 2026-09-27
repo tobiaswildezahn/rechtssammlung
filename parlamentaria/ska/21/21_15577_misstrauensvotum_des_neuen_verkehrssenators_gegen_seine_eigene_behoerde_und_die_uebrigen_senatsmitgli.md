@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 17
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65076"
@@ -122,6 +123,6 @@ a) Was hat der aktuelle Präses der BWVI hinsichtlich der Baustellenkoordinierun
 b) Was macht der Staatsrat für Verkehr in der BWVI seit dem Amtsantritt des aktuellen Präses der BWVI anders hinsichtlich der Baustellenkoordinierung?
 c) Was machen die übrigen zuständigen Senatoren seit dem Amtsantritt des aktuellen Präses der BWVI anders hinsichtlich der Baustellenkoordinierung?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Vorbemerkung.

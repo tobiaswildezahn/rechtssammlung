@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 29
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55189"
@@ -175,7 +176,7 @@ Wie viele und welche der gegenwärtigen Erstversorgungseinrichtungen (EVE) in Ha
 
 Bezogen auf Frage 6.: Welche konkreten jetzigen Angebote und Leistungen (Stand November 2016) in den jeweiligen Hamburger EVE für die dort untergebrachten unbegleiteten minderjährigen Flüchtlinge werden durch die Umwandlung in eine BEF teilweise oder ganz entfallen? (Bitte Angebots- und Leistungsveränderung für jeden einzelnen EVE-Standort samt Bezirk in einer Excel-Tabelle angeben.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Anlage. Im Übrigen siehe Vorbemerkung.
 

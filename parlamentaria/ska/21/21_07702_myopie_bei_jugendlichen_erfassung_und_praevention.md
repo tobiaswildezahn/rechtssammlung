@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56329"
@@ -67,7 +68,7 @@ Gibt es innerhalb Hamburger Schulen Konzepte bezüglich der Unterrichtsgestaltun
 
 Finden Unterrichtseinheiten außerhalb schulischer Gebäude statt? Wenn ja, welche Disziplinen und welcher Stundenansatz?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Schulen entscheiden im Rahmen ihrer einzelschulischen Selbstverantwortung und auf der Grundlage der geltenden Bildungspläne über die Gestaltung des Unterrichts und damit auch über die Orte (innerhalb oder außerhalb von Gebäuden), an denen dieser Unterricht stattfindet. Unterricht außerhalb schulischer oder anderer Gebäude ist mit Blick auf eine Fülle von Fächern möglich. Exemplarisch können Sportunterricht unter Nutzung von Außensportanlagen, Wasserflächen et cetera, Exkursionen, zum Beispiel im Stadtteil im Kontext der „Stolpersteine“, der Besuch von Freilichtmuseen, Gärten und Grünanlagen, Natur- beziehungsweise Tierparks, des Hafens, die Radfahrausbildung im Rahmen des Aufgabengebiets Verkehrserziehung, der Besuch von Denkmälern als Element des Geschichtsunterrichts und vieles mehr genannt werden (siehe hierzu exemplarisch die Handreichung „Außerschulische Lernorte – gesellschaftswissenschaftliche Fächer, siehe: http://li.hamburg.de/publikationen-2010/2819340/ ausserschulische-lernorte-gesellschaftswissenschaften/).
 

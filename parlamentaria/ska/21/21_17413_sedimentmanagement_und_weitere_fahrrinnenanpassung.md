@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15638"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66998"
@@ -65,7 +66,7 @@ In der Planunterlage H1c (Gutachten morphodynamische Prozesse) zur Fahrrinnenanp
 
 In den Abschnitten oberhalb von Nienstedten sollen laut Planunterlagen die Baggermengen in der Tendenz nach der Fahrrinnenanpassung abnehmen (H1 c, Seite 92). Voraussetzung dafür sei aber – so die BAW –, dass die Kreislaufbaggerei reduziert wird. Dies ist in den letzten Jahren erkennbar gerade nicht der Fall gewesen. Von welcher Steigerung der Baggermengen im Zuständigkeitsbereich der Stadt Hamburg geht daher der Senat aus, sollte die Fahrrinnenanpassung wie geplant durchgeführt werden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die jährlichen Unterhaltungsbaggermengen, und damit auch deren Kosten, schwanken in Abhängigkeit von natürlichen Rahmenbedingungen, insbesondere dem Oberwasserabfluss, stark. Daran wird sich auch künftig nichts ändern. Die HPA hat die Kreislaufbaggerungen in den vergangenen Jahren jedoch trotz der ungünstigen hydrologischen Randbedingungen (Trockenheit im Elbeeinzugsgebiet) durch den Austrag von Teilmengen des Baggerguts in die Nordsee bei Tonne E3 erfolgreich vermindert. Die HPA prüft und bereitet derzeit planerisch die Verbringung in die Ausschließliche Wirtschaftszone (AWZ) vor, wodurch sich weitere Austragsoptionen ergeben können. Insoweit hat der Senat keine Zweifel an den gutachterlichen Aussagen der Bundesanstalt für Wasserbau (BAW).
 
@@ -77,6 +78,6 @@ Ist es richtig, dass am 09.01.2018 beziehungsweise an einem anderen Termin zu Be
 
 Hat es gegebenenfalls zu einem anderen Zeitpunkt ein entsprechendes Treffen gegeben? Welche Ergebnisse liegen gegebenenfalls dazu vor?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die genannten Behörden stehen zu Fragen des Ausbaus und der Unterhaltung der Seewasserstrasse Elbe im kontinuierlichen Austausch. In diesem Rahmen hat auch das oben genannte Treffen stattgefunden, bei dem die BAW über die dynamischen Prozesse im Bereich der Elbmündung und der Tideelbe berichtet hat. Es wurde fachlich erörtert, welche Ableitungen hieraus für das Sedimentmanagement vorzunehmen sind. Dabei bestand Einigkeit, dass die Strategie des flexiblen und adaptiven Austrags von überschüssigem Feinsediment aus dem inneren Ästuar weiterverfolgt werden soll.

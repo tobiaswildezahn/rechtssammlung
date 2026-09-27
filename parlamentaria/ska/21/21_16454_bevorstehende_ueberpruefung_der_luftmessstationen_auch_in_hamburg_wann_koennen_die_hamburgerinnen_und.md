@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 38
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65969"
@@ -174,7 +175,7 @@ Gibt es Bedenken seitens des Senats und/oder der BUE zur Durchführung dieser Ü
 
 Hat es zu einem früheren Zeitpunkt Bedenken des Senats und/oder der BUE gegeben? Worin bestanden diese Bedenken?
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Nein.
 
@@ -219,6 +220,6 @@ Falls es zu Frage 20. und Frage 21. keine Maßnahmen oder Aktivitäten in Hambur
 
 Falls einzelne Fragen zum gegenwärtigen Zeitpunkt nicht beantwortet werden können: Bis wann kann mit einer Antwortfähigkeit des Senats gerechnet werden? Bitte zu jeder nicht zu beantwortenden Frage separat angeben.
 
-#### Antwort zu Fragen 22 bis 23
+#### Antwort zu Fragen 22 und 23
 
 Entfällt.

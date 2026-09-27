@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69607"
@@ -85,7 +86,7 @@ Welche Abschnitte der Straße werden in welcher Form gesperrt beziehungsweise au
 
 Welche Umleitungen sind für den Kfz-Verkehr genau geplant?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Grundsätzlich sieht die Planung vor, dass Anliegerinnen und Anlieger ihre Grundstücke während der Baumaßnahme erreichen können. Detaillierte Verkehrsführungspläne oder Umleitungspläne stehen noch nicht zur Verfügung, da die Planung noch nicht abgeschlossen ist. Mit den Straßen Brombeerweg und Alte Landstraße steht eine leistungsfähige Umleitungsstrecke zur Verfügung.
 

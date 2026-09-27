@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 20
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7290"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63842"
@@ -53,19 +54,19 @@ Welche Mindestanforderungen müssen Fachkräfte der Kinderschutzhäuser des LEB 
 
 Zu den Mindestanforderungen an die Tätigkeit in einem Kinderschutzhaus gehört eine abgeschlossene Berufsausbildung in einem für die Betreuung von Kindern einschlägigen Beruf. Hierzu gehören Erzieherinnen/Erzieher und Heilerziehungspflegerinnen/ Heilerziehungspfleger. Sie sollen über folgende fachliche Kenntnisse verfügen:
 
- Betreuung und Pflege von Säuglingen und Kleinkindern
+– Betreuung und Pflege von Säuglingen und Kleinkindern
 
- Kinder- und Jugendpsychologie, speziell der Entwicklungspsychologie und Bin-
+– Kinder- und Jugendpsychologie, speziell der Entwicklungspsychologie und Bin-
 
 dungstheorie
 
- Sozialisationsbedingungen von Kindern in verschiedenen Milieus
+– Sozialisationsbedingungen von Kindern in verschiedenen Milieus
 
- Systemischer Ansatzes in der Sozialarbeit
+– Systemischer Ansatzes in der Sozialarbeit
 
- Kinder- und Jugendhilferecht
+– Kinder- und Jugendhilferecht
 
- Relevante erzieherischen Methoden und Verfahren
+– Relevante erzieherischen Methoden und Verfahren
 
 Zu den persönlichen Voraussetzungen gehören insbesondere Teamfähigkeit und Schichtdiensttauglichkeit.
 
@@ -93,11 +94,11 @@ Die Leitungskraft führt mit neuen Fachkräften Reflektionsgespräche zum Einarb
 
 Alle neuen Fachkräfte werden umgehend zu folgenden Schulungen angemeldet:
 
- „Erste Hilfe am Kind“ und „Säuglingspflege“. Beide Kurse finden fortlaufend zwei-
+– „Erste Hilfe am Kind“ und „Säuglingspflege“. Beide Kurse finden fortlaufend zwei-
 
 bis dreimal jährlich statt.
 
- „Grundlagen des systemischen Arbeitens“. Diese Fortbildung findet fortlaufend
+– „Grundlagen des systemischen Arbeitens“. Diese Fortbildung findet fortlaufend
 
 zweimal jährlich statt.
 
@@ -115,15 +116,15 @@ Die Arbeit in Kinderschutzeinrichtungen ist durch den Schichtdienst, die individ
 
 Zu den Maßnahmen der Bindung von Fachkräften in den Kinderschutzhäusern gehören
 
- eine gute, in den letzten Jahren immer wieder verbesserte Personalausstattung,
+– eine gute, in den letzten Jahren immer wieder verbesserte Personalausstattung,
 
- ergonomisch gestaltete Arbeitsplätze,
+– ergonomisch gestaltete Arbeitsplätze,
 
- eine Eingruppierung in der höchsten Tarifstufe für Erzieher/-innen,
+– eine Eingruppierung in der höchsten Tarifstufe für Erzieher/-innen,
 
- eine Dienstplanung, die auch kurzfristigen Ausfall kalkulierbar regelt, sowie
+– eine Dienstplanung, die auch kurzfristigen Ausfall kalkulierbar regelt, sowie
 
- Supervision und weitere Beratung bei Bedarf.
+– Supervision und weitere Beratung bei Bedarf.
 
 Die Fachkräfte werden in die Überprüfung und Weiterentwicklung der Arbeitssituation einbezogen, unter anderem durch Fachveranstaltungen mit Workshops und die regelmäßig tagende „Kleinkinder-AG“.
 
@@ -237,17 +238,17 @@ Zu den Führungsleitlinien des LEB gehört ein Kontrollwesen, das ein Berichts- 
 
 Im Bereich der Kinderschutzeinrichtungen sind die unter Ziffer 7 dargestellten Maßnahmen von den Vorgesetzten umzusetzen, das heißt:
 
- Kontrolle der fachlichen Arbeit anlassbezogen und in regelmäßigen Abständen
+– Kontrolle der fachlichen Arbeit anlassbezogen und in regelmäßigen Abständen
 
- Feedback zu festgestellten Mängeln, Verbesserungsbedarfen, aber auch guten
+– Feedback zu festgestellten Mängeln, Verbesserungsbedarfen, aber auch guten
 
 Leistungen und Ergebnissen
 
- Delegation von Aufgaben zur Selbstregelung in das Betreuungsteam innerhalb
+– Delegation von Aufgaben zur Selbstregelung in das Betreuungsteam innerhalb
 
 eines vorgegebenen, fachlichen Rahmens
 
- Ermittlung von Ursachen und Verantwortlichkeit für Fehler und ihre Folgen und
+– Ermittlung von Ursachen und Verantwortlichkeit für Fehler und ihre Folgen und
 
 deren Bearbeitung in besonders gelagerten Einzelfällen
 
@@ -285,15 +286,15 @@ Trifft es zu, dass Geschwister getrennt in unterschiedlichen Kinderschutzeinrich
 
 Geschwister werden in der Regel gemeinsam in einer Einrichtung untergebracht, das heißt der gleichen Betreuungsgruppe oder einer anderen im gleichen Haus. Eine Unterbringung in getrennten Einrichtungen kann im Ausnahmefall folgende Gründe haben:
 
- Täter-Opfer Konstellationen im Geschwistersystem mit entsprechender Bitte um
+– Täter-Opfer Konstellationen im Geschwistersystem mit entsprechender Bitte um
 
 Trennung seitens des ASD
 
- Überschreitung von Altersgrenzen in den Gruppen, wenn das Alter der Geschwis-
+– Überschreitung von Altersgrenzen in den Gruppen, wenn das Alter der Geschwis-
 
 ter sehr weit auseinander liegt.
 
- Platzmangel oder große Geschwisterverbände, wobei eine schnellstmögliche
+– Platzmangel oder große Geschwisterverbände, wobei eine schnellstmögliche
 
 Zusammenlegung angestrebt wird. Es finden dann aber regelmäßige Geschwisterkontakte statt.
 

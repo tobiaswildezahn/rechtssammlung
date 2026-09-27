@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1389", "21/11923"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64428"
@@ -73,7 +74,7 @@ Welche neuen Schäden und Verschmutzungen sind seit Februar 2018 festzustellen u
 
 Inwieweit wirkt sich die anstehende Frostperiode auf das Denkmal und seine geplante Sanierung aus?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Augenscheinlich zu erkennen sind Rissbildungen sowie Abplatzungen von Fugenmaterial und Steinen, mögliche kleinere Veränderungen werden vom zuständigen Bezirksamt nicht erfasst. Neue Verschmutzungen sind nicht festzustellen.
 

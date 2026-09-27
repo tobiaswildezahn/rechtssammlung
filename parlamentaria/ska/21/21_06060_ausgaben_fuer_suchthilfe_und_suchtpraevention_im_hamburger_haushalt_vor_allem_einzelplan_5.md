@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 20
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7000", "21/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54557"
@@ -249,7 +250,7 @@ Wie hoch sind die Finanzmittel und Zuwendungen für die Träger, Einrichtungen u
 
 Wie haben sich die Zuwendungen an die Träger und Einrichtungen im Bereich der Suchthilfe und -beratung in den Jahren 2010 bis 2016 entwickelt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Antworten zu 1. und 2.
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 18
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55103"
@@ -147,27 +148,27 @@ Insgesamt waren vier Beamte des PK 15 in die Vorgangsfertigung eingebunden.
 
 Im Zusammenhang mit der bezeichneten Person sind vier Vorgänge erwachsen:
 
- eine Strafanzeige wegen des Verdachts der Beleidigung in Verbindung mit der
+– eine Strafanzeige wegen des Verdachts der Beleidigung in Verbindung mit der
 
 Störung einer Amtshandlung, inklusive Zusatzberichte sowie der dazugehörigen Strafanträge,
 
- eine Strafanzeige wegen des Verdachts des Besitzes von BtM,
+– eine Strafanzeige wegen des Verdachts des Besitzes von BtM,
 
- eine Ordnungswidrigkeitenanzeige wegen des Verdachts des Mitführens einer
+– eine Ordnungswidrigkeitenanzeige wegen des Verdachts des Mitführens einer
 
 Waffe (Messer) in der Waffenverbotszone und
 
- ein Bericht über das Aufenthaltsverbot für das Gefahrengebiet „BtM“ gemäß § 12 b
+– ein Bericht über das Aufenthaltsverbot für das Gefahrengebiet „BtM“ gemäß § 12 b
 
 Absatz 2 SOG.
 
 Daneben gibt es Protokolle/Verzeichnisse über:
 
- die Verwahrung der Person am PK 15 (Verwahrbogen),
+– die Verwahrung der Person am PK 15 (Verwahrbogen),
 
- die Aufstellung über ausgehändigte persönliche Sachen und
+– die Aufstellung über ausgehändigte persönliche Sachen und
 
- ein Verzeichnis über die Kontrollzeiten am PK 15 (während der Gewahrsamszeit).
+– ein Verzeichnis über die Kontrollzeiten am PK 15 (während der Gewahrsamszeit).
 
 Der bei der Durchsuchung aufgefundene Tascheninhalt ist im Elektronischen Verwahrbuch der Polizei registriert.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69257"
@@ -61,13 +62,13 @@ Immissionsschutzrecht:
 
 Nach dem Bundes-Immissionsschutzgesetz (BImSchG) und 4. BmSchV Ziffer 10.22 des Anhangs 1 zur Verordnung über genehmigungsbedürftige Anlagen (4. BImSchV) sind genehmigungsbedürftig
 
- die Errichtung und der Betrieb von Anlagen zur Begasung, Sterilisation oder Ent-
+– die Errichtung und der Betrieb von Anlagen zur Begasung, Sterilisation oder Ent-
 
 gasung mit einem Rauminhalt der Begasungs- oder Sterilisationskammer oder des
 
 zu begasenden Behälters von 1 Kubikmeter oder mehr, soweit Stoffe und Gemische der Gefahrenklassen „akute Toxizität“ der Kategorien 1, 2 oder 3 aufweisen, somit auch SF,
 
- die Durchführung von 40 Entgasungen oder mehr je Jahr gemäß der Technischen
+– die Durchführung von 40 Entgasungen oder mehr je Jahr gemäß der Technischen
 
 Richtlinie Gefahrstoffe „Begasungen“ (TRGS 512) Nummer 5.4.2 .
 
@@ -190,7 +191,7 @@ Wird Sulfurylfluorid auch von städtischen Firmen beziehungsweise von Firmen unt
 
 #### Antwort zu Frage 5
 
- Hamburger Hafen und Logistik AG (HHLA) als Holding mit Terminal-
+– Hamburger Hafen und Logistik AG (HHLA) als Holding mit Terminal-
 
 Gesellschaften:
 
@@ -198,7 +199,7 @@ o Container Terminal Altenwerder GmbH (CTA),
 
 o Container Terminal Burchardkai GmbH (CTB) und
 
- UNIKAI Lagerei- und Speditionsgesellschaft mbH.
+– UNIKAI Lagerei- und Speditionsgesellschaft mbH.
 
 ### Frage 6
 
@@ -240,27 +241,27 @@ a. Welche sind dies und welche Klimaauswirkungen und Giftigkeit im Vergleich zu 
 
 Neben der Begasung mit SF sind die unten aufgeführten Verfahren grundsätzlich zur Schädlingsbekämpfung geeignet. Um zu klären, inwieweit diese geeignet sind, SF zu ersetzen, sind Versuche zu Wirksamkeit, Praktikabilität, erforderlicher Dauer und Kosten der Einzelverfahren notwendig. Darüber hinaus ist die Akzeptanz in Importländern zu berücksichtigen.
 
- Begasung mit Phosphorwasserstoff, der giftig ist. Es liegt keine Zulassung für die
+– Begasung mit Phosphorwasserstoff, der giftig ist. Es liegt keine Zulassung für die
 
 Behandlung von Stammholz vor.
 
- Nutzung einer PEX-Anlage (Pressure Expansion): Die zu behandelnden Waren
+– Nutzung einer PEX-Anlage (Pressure Expansion): Die zu behandelnden Waren
 
 werden unter Zusatz von CO über zwei bis vier Stunden einem hohen Druck von bis zu 30 bar ausgesetzt. Durch das plötzliche Ablassen des Drucks werden sämtliche Vorratsschädlinge (zum Beispiel Käfer, Motten, Milben) und deren Larven und Eier vernichtet. Derzeit ist dieses Verfahren nur für Vorratsprodukte in der Verwendung. Anlage mit entsprechenden Kapazitäten für Stammholz müsste gebaut werden und den Empfangsländern (China, Indien) müssten Wirksamkeitsdaten übermittelt werden.
 
- Begasung mit Stickstoff: Ersatz des Sauerstoffs durch Stickstoff, Absenkung des
+– Begasung mit Stickstoff: Ersatz des Sauerstoffs durch Stickstoff, Absenkung des
 
 Sauerstoffgehalts, Restsauerstoffanteil von unter < 1 Prozent. Keine Zulassung für die Behandlung von Stammholz.
 
- Thermische Behandlung (Wärmeentwesung): Heizgerät erhöht die Raumtempera-
+– Thermische Behandlung (Wärmeentwesung): Heizgerät erhöht die Raumtempera-
 
 tur über mehrere Stunden auf über 42 Grad Celsius. Schädlinge werden aufgrund der Gerinnung des Eiweißes abgetötet. Sämtliches nach China exportiertes Schnittholz wird wärmebehandelt.
 
- Einsatz von Mikrowellen: Wassermoleküle geraten in Bewegung und setzen ihre
+– Einsatz von Mikrowellen: Wassermoleküle geraten in Bewegung und setzen ihre
 
 Energie in Reibung und Wärme um, das zu behandelnde Gut wird von innen heraus durchwärmt.
 
- CO-Begasung (mit Rückgewinnung): Innerhalb der EU ist der Einsatz von Koh-
+– CO-Begasung (mit Rückgewinnung): Innerhalb der EU ist der Einsatz von Koh-
 
 lendioxid für die Schädlingsbekämpfung durch die EU-Verordnung (Nr. 528/2012) zu Biozidprodukten verboten. Eine Zulassung als Pflanzenschutzmittel für die Begasung von Stammholz liegt nicht vor.
 

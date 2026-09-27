@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15560"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65197"
@@ -56,7 +57,7 @@ Wie viele Abschiebungsverfahren sind im Jahre 2018 eingeleitet worden?
 
 Wie viele Abschiebungsverfahren hiervon wurden im Jahre 2018 erfolgreich abgeschlossen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Im Jahr 2018 wurden insgesamt 1 695 Rückführungen vorbereitet. Davon konnten 1 076 Rückführungen vollzogen werden.
 

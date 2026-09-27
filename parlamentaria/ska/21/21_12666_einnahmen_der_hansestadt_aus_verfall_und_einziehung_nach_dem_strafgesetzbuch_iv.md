@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61970"
@@ -43,7 +44,7 @@ Wie viele Verfallsanordnungen sind im Jahr 2017 und im 1. Quartal 2018 jeweils l
 
 Wie viele Einziehungsentscheidungen sind im Jahr 2017 und im 1. Quartal 2018 jeweils laut MESTA rechtskräftig geworden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Am 1. Juli 2017 ist das Gesetz zur Reform der Vermögensabschöpfung in Kraft getreten. In Anlehnung an die in der EU gebräuchliche Begrifflichkeit (confiscation) wurde der Ausdruck „Verfall“ im Strafgesetzbuch (StGB) aufgegeben und durch „Einziehung“ von Taterträgen ersetzt.
 

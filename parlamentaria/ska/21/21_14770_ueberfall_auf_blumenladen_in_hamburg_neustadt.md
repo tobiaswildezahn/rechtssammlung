@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64211"
@@ -120,7 +121,7 @@ Wie viele Überfalle auf Geschäfte hat es im Stadtteil Neustadt während des er
 
 Wie hoch fällt dieser Wert für das Vorjahr aus?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 In den ersten Halbjahren 2017 und 2018 wurden in der Polizeilichen Kriminalstatistik (PKS) im Stadtteil Hamburg-Neustadt keine Taten im Sinne der Fragestellung registriert.
 

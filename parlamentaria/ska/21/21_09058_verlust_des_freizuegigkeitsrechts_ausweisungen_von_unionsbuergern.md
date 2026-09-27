@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57822"
@@ -102,7 +103,7 @@ Wie viele Unionsbürger kamen der Ausreisepflicht freiwillig nach? Bei wie viele
 
 Welche Staatsbürgerschaft hatten die jeweils betroffenen Unionsbürger? In welche Länder wurden sie abgeschoben? Bitte nach Ländern aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Anzahl der überwachten freiwilligen Ausreisen sowie der erfolgten Abschiebungen von Unionsbürgern, die im Zuge des Nichtbestands beziehungsweise Verlust der Freizügigkeit im Zeitraum Januar 2010 bis April 2017 erfasst wurden, sind der folgenden Übersicht zu entnehmen:
 

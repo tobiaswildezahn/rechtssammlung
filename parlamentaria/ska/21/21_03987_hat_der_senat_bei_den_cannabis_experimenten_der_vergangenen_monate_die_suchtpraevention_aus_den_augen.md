@@ -14,6 +14,7 @@ fragen: 25
 einzelfragen: 39
 antwortbloecke: 21
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2320", "20/12302", "21/35"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52365"
@@ -210,7 +211,7 @@ b) warum gibt es auch auf diesen Internetseiten der HLS wie auch ihren anderen k
 
 Wie erklärt der Senat beziehungsweise die zuständige Behörde den Eindruck, dass in diesem Portal seit seiner Einrichtung 2014 abgesehen von Informationen zur neuen Kampagne kaum etwas quantitativ und qualitativ verändert und weiterentwickelt wurde? Wie und wann wurde der ausdrückliche zuwendungsbezogene Aufgabenschwerpunkt der Überarbeitung, Aktualisierung und Pflege der Cannabis-Informationsseiten durch die HLS umgesetzt?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Das Portal wurde fortlaufend korrigiert, angepasst und aktualisiert. Diese Anpassungen werden unter qualitativen wie quantitativen Gesichtspunkten vorgenommen.
 
@@ -231,7 +232,7 @@ Welches sind auch vor dem Hintergrund der oben angegebenen Aussagen der Jugendli
 Warum betrachtet der Senat beziehungsweise die zuständige Behörde die von ihm in diesem Zusammenhang ebenfalls angeführten „rund
 6.000 Besucher“ des Internetauftritts im ersten halben Jahr nach Start der Kampagne als Erfolg und welche Vergleichszahlen ähnlicher oder anderer Kampagnen beziehungsweise Portale im Bereich Drogen und Sucht kann er dazu anführen?
 
-#### Antwort zu Fragen 21 bis 22
+#### Antwort zu Fragen 21 und 22
 
 Eine Bewertung der Wirkungen von Kampagnen und Internetauftritten unterliegt vor dem Hintergrund der jeweiligen Ausrichtung, der unterschiedlichen Zielgruppen und der geringen Vergleichsdaten bislang keiner gesicherten Empirie. Grundsätzlich ist
 

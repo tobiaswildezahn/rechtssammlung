@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53188"
@@ -53,7 +54,7 @@ Wie viele der fertiggestellten Wohnungen werden zum Preis des untersten Mittelwe
 
 Wie viele der in 2015 fertiggestellten Wohnungen sind Sozialwohnungen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Im Jahr 2015 sind 2.143 Wohnungen im ersten Förderweg und 42 Wohnungen im zweiten Förderweg fertiggestellt worden. Die Miete liegt jeweils unter 8,90 Euro/m². Die Miethöhe frei finanzierter Neubauwohnungen ist der zuständigen Behörde nicht bekannt.
 
@@ -99,6 +100,6 @@ Wie viele der in 2015 fertiggestellten 8.521 Wohnungen wurden von vordringlich W
 
 Wie viele der vordringlich Wohnungssuchenden, die eine der fertiggestellten Wohnungen bezogen haben, waren wohnungslos?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Im Jahr 2015 wurden insgesamt 3.114 vordringlich wohnungsuchende Haushalte, davon 1.468 wohnungslose beziehungsweise von Wohnungslosigkeit bedrohte Haushalte, mit Wohnraum versorgt. In den Versorgungsstatistiken werden die Baujahre der von vordringlich Wohnungsuchenden bezogenen Wohnungen statistisch nicht erfasst. Eine Einzelauswertung aller 3.114 Akten ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.

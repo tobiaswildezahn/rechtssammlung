@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 22
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18754"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68675"
@@ -144,7 +145,7 @@ Wer ist für den Betrieb und bei Betriebsstörungen für die Störungsbehebung p
 
 Wie viele Störungen nach Frage 12. sind in den Jahren 2015 bis 2019 gemeldet worden?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Antwort zu 10.
 
@@ -164,7 +165,7 @@ In welcher Stückzahl sind diese jeweils verbaut?
 
 Welche Kosten kommen auf private Betreiber für die Errichtung und den Betrieb zu?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Hierzu liegen der zuständigen Behörde keine Kenntnisse vor. Im Übrigen siehe Vorbemerkung.
 
@@ -192,6 +193,6 @@ In wie vielen Neubauten wurden in den Jahren 2015 bis 2019 jeweils Ladepunkte in
 
 Wie vielen Wohneinheiten pro Ladepunkt entspricht dies? Bitte für die Jahre 2015 bis 2019 getrennt angeben.
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Die Installation von Ladepunkten ist bauordnungsrechtlich verfahrensfrei, sodass diesbezügliche Angaben nicht vorliegen.

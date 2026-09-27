@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5661", "21/8662"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57509"
@@ -43,7 +44,7 @@ Seit wann werden auf dem Heiligengeistfeld Sanierungsmaßnahmen durchgeführt? B
 
 Welche Sanierungsmaßnahmen sind für das Jahr 2017 noch geplant? Bitte detailliert auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/780"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49455"
@@ -51,7 +52,7 @@ Wie viele der unter A. 1. genannten Wohnungen waren Sozialwohnungen (nach dem Wo
 
 Wie viele Wohnungen im Stadtteil Rahlstedt werden jeweils in welchem der nächsten zehn Jahre zum Jahresende aus der Sozial- und/oder Preisbindung fallen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/780.
 

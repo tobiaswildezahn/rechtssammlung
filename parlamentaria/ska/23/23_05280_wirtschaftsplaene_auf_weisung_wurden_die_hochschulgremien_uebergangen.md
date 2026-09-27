@@ -8,12 +8,13 @@ datum_anfrage: "2026-09-08"
 datum_drucksache: "2026-09-15"
 urheber: ["Anna-Elisabeth von Treuenfels-Frowein"]
 fraktionen: ["CDU"]
-vorgang: null
+vorgang: 89161
 seiten: 9
 fragen: 13
 einzelfragen: 28
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["23/5000", "23/5100"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105184"

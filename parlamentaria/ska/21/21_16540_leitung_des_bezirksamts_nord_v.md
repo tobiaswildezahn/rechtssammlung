@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 25
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15688"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66063"
@@ -47,7 +48,7 @@ Gegen wie viele ehemalige und aktuelle Mitglieder von Senat und Staatsrätekolle
 
 Gegen wie viele ehemalige, aktuelle oder designierte Amtsleitungen wurde oder wird derzeit von der Staatsanwaltschaft im Zusammenhang mit der „Rolling-Stones-Karten-Affäre“ ermittelt? a. Seit wann genau laufen diese Ermittlungsverfahren jeweils? b. Wie viele der Verfahren wurden auf jeweils welcher konkreten Rechtsgrundlage beziehungsweise aus welchen Gründen jeweils wann genau eingestellt? c. Wie hoch war die Summe der in diesem Zusammenhang gegebenenfalls erteilten Geldauflagen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/15688.
 
@@ -79,7 +80,7 @@ Beschwerde eingelegt?
 
 Wurde gegen die designierte Leiterin des Bezirksamts Nord zwischenzeitlich durch die Staatsanwaltschaft Anklage erhoben und die Eröffnung des Hauptverfahrens beantragt? a. Wenn ja, wann genau? Ist bereits ein Eröffnungsbeschluss durch das zuständige Gericht ergangen? Falls ja: wann genau und welche Taten beziehungsweise welche konkreten strafrechtlichen Normen liegen ihm zugrunde? b. Wenn nein, wurden die staatsanwaltschaftlichen Ermittlungen zwischenzeitlich eingestellt oder dauern sie noch an?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im Verfahren gegen die designierte Leiterin des Bezirksamtes Nord wurde am 22. Januar 2019 Anklage erhoben, wobei über die Eröffnung des Hauptverfahrens noch nicht entschieden wurde.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/768"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52543"
@@ -102,7 +103,7 @@ Wie stellt der Senat sicher, dass im Rahmen der Beratungspflicht nach § 14 SGB 
 
 Wie stellt der Senat sicher, dass die Rückzahlungsmodalitäten und die Verpflichtung im Rahmen der Beratungspflicht nach § 14 SGB I inhaltlich und sprachlich durch die Darlehensnehmer/-innen verstanden werden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Zur Beratungspflicht nach § 14 SGB I siehe Rz. 42a.11 „Tilgungsinformation“ der Fachlichen Weisungen SGB II der Bundesagentur für Arbeit zu § 42a SGB II – Darlehen (Stand 21.03.2016).
 

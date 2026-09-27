@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 26
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56132"
@@ -202,7 +203,7 @@ Hat der Senat beziehungsweise die HPA mittlerweile alternative Verbringungsoptio
 
 Inwieweit beabsichtigt der Senat, die Verbringung in den sogenannten Slufter in Betracht zu ziehen?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Bisher bestehen ausreichende Verbringungsoptionen. Gleichwohl prüft die HPA, ob sich weitere Möglichkeiten einer gesonderten Unterbringung von Baggergut erschließen lassen. Dazu gehört auch die Nutzung des subaquatischen Depots „De Slufter“ in der Nähe von Rotterdam. Zum jetzigen Zeitpunkt geht der Senat jedoch nicht davon aus, dass diese Option in Betracht gezogen werden muss.
 

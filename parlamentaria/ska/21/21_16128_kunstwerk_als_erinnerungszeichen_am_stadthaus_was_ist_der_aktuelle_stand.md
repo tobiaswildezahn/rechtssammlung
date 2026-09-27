@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15051"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65635"
@@ -43,7 +44,7 @@ Aus welchem Grund und mit welchen Argumenten kommen der Senat oder die zuständi
 
 Wie beurteilen der Senat und die zuständige Behörde das Argument, dass selbst bei einer größeren Zahl geeigneter und ungeeigneter Bewerbungen ein Verfahren hätte Anwendung finden müssen, dass diese Anzahl Bewerbungen bewältigen kann, wie es zum Beispiel in jedem Unternehmen oder bei jeder anderen öffentlichen Ausschreibung üblich ist? Bitte im Detail darlegen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Auslobung eines nicht offenen künstlerischen Wettbewerbs mit vorgeschaltetem Interessenbekundungsverfahren zur Realisierung eines Kunstwerks ist ein seit Jahrzehnten übliches Verfahren; so sind zum Beispiel folgende Mahnmal- beziehungswei-
 
@@ -59,11 +60,11 @@ se Denkmalprojekte aus dem Bereich der Erinnerungskultur aus nicht offenen Wettb
 
 Gründe für diese Praxis waren und sind im Wesentlichen:
 
- Durch die Wahl der Wettbewerbsform soll eine hohe Qualität des künstlerischen
+– Durch die Wahl der Wettbewerbsform soll eine hohe Qualität des künstlerischen
 
 Ergebnisses und der Lösung der Wettbewerbsaufgabe hergestellt werden und diese durch die ausschließliche Teilnahme von professionell ausgebildeten, erfahrenen und der Wettbewerbsaufgabe gewachsenen Künstlerinnen und Künstlern gewährleistet werden.
 
- Diese Wettbewerbsform ist gängige Praxis und wird bei Vorhaben wie diesem
+– Diese Wettbewerbsform ist gängige Praxis und wird bei Vorhaben wie diesem
 
 sowohl aus Sicht von Kunstexpertinnen und Kunstexperten als auch aus Sicht der Berufsverbände Bildender Künstlerinnen und Künstler einem offenen Wettbewerbsverfahren vorgezogen. Kunstsachverständige, die aus ihrer Berufspraxis einschlägige Erfahrungen in Jurys und Preisgerichten sowohl in offenen als auch nicht offenen Wettbewerbsverfahren besitzen, raten im Hinblick auf die Sicherung qualitativer Standards von offenen Verfahren ab, da sich in der Regel professionell ausgebildete und renommierte Künstlerinnen und Künstler hierdurch nicht angesprochen fühlen und sich hieran nicht beteiligen.
 
@@ -77,7 +78,7 @@ Welche Institutionen und Personen hatten ein Vorschlagsrecht bezüglich der im n
 
 Bis zu welchem Zeitpunkt konnten Künstlerinnen und Künstler vorgeschlagen werden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Ausloberin hat alle Mitglieder der Kunstkommission und die im vom Senator der Behörde für Kultur und Medien berufenen Beirat vertretenen Initiativen, historischen Institute und Historiker (siehe im Einzelnen Drs. 21/15051) aufgerufen, Künstlerinnen und Künstler vorzuschlagen. Am 28. November 2018 wurde die Vorschlagsliste geschlossen. 52 Künstlerinnen und Künstler aus Hamburg und dem In- und Ausland waren vorgeschlagen worden.
 
@@ -217,7 +218,7 @@ liche Aufmerksamkeit verschafft.
 
 Wie dieser Gedenkort konzipiert und
 
-konkret­ ausgestaltet werden soll, ist nun-
+konkret ausgestaltet werden soll, ist nun-
 
 mehr Gegenstand dieses künstlerischen
 
@@ -267,13 +268,9 @@ Terror und Gewalt in Hamburg und weit
 
 Mit dem Verkauf des Stadthauses, das
 
-nach dem Zweiten Weltkrieg erneut­ Sitz
+nach dem Zweiten Weltkrieg erneut Sitz
 
-unterschiedlicher Hamburger Behörden­
-
-war, an einen privaten Investor, verpflichtete­
-
-sich dieser, neben der kommer-ziellen
+unterschiedlicher Hamburger Behörden war, an einen privaten Investor, verpflichtete sich dieser, neben der kommer-ziellen
 
 Nutzung der Immobilie in Abstimmung
 
@@ -335,9 +332,7 @@ Gottorpischen Gesandten Georg Heinrich
 
 von Görtz errichtet wurde und so zu sei-
 
-nem Namen kam, als Sitz der Hamburger­
-
-Polizei. Dieses wurde mitsamt später
+nem Namen kam, als Sitz der Hamburger Polizei. Dieses wurde mitsamt später
 
 errichteten Erweiterungsbauten des
 
@@ -503,11 +498,11 @@ landhaus“ am Gänsemarkt untergebracht,
 
 die übrigen Abteilungen der Polizei in
 
-anderen­ Gebäuden in der Innenstadt.
+anderen Gebäuden in der Innenstadt.
 
 Seit 2009 steht das gesamte Ensemble
 
-Neuer­ Wall 86/88, Stadthausbrücke 4–10
+Neuer Wall 86/88, Stadthausbrücke 4–10
 
 und Bleichenbrücke 17 a/b unter Denk-
 
@@ -537,9 +532,9 @@ die Behörde für Stadtentwicklung und
 
 Umwelt diese. Bis zum Verkauf an den
 
-Immobilien­investor­ Quantum AG im Jahr
+Immobilieninvestor Quantum AG im Jahr
 
-2009 befanden­ sich die Gebäude in städti-
+2009 befanden sich die Gebäude in städti-
 
 scher Hand. Der Käufer verpflichtete sich, in
 
@@ -551,15 +546,15 @@ einen angemessenen Gedenk- und Lernort
 
 auf eigene Kosten zu errichten. Gegenwärtig
 
-erinnert am ­„Geschichtsort“ in den Stadt-
+erinnert am „Geschichtsort“ in den Stadt-
 
 höfen eine provisorische Ausstellung an
 
-die Geschichte­ des Stadthauses, die im
+die Geschichte des Stadthauses, die im
 
 Herbst 2019 durch eine Dauerausstellung
 
-in ­Verbindung mit der Buchhandlung
+in Verbindung mit der Buchhandlung
 
 „Lesesaal“ und einem Café ersetzt wird. Die
 
@@ -589,31 +584,23 @@ Einzelhandel, Gastronomie, Büros, Hotel
 
 und Wohnungen entstanden.
 
-Uniformierte Schutzpolizei:­
-
-Einrichtung und Leitung des KZ
+Uniformierte Schutzpolizei: Einrichtung und Leitung des KZ
 
 Wittmoor (1933), Bildung des
 
-­wegen seiner Brutalität­ berüchtigten­
+wegen seiner Brutalität berüchtigten „Kommandos zur besonderen
 
-­„Kommandos zur besonderen
+Verwendung“ (1933), Begleitung von Gefangenentransporten
 
-­Verwendung“ (1933), Begleitung­
+in die Strafgefangenen- und
 
-von Gefangenentransporten
+Konzentrationslager, während des Krieges Beteiligung an
 
-in die ­Strafgefangenen- und
+Massenverbrechen in den
 
-­Konzentrationslager, während­
+besetzten Ländern an der dortigen
 
-des Krieges Beteiligung an
-
-Massenverbrechen­ in den
-
-besetzten­ Ländern an der dortigen
-
-Zivilbevölkerung,­ Mittäterschaft beim
+Zivilbevölkerung, Mittäterschaft beim
 
 „Holocaust“ (Polizeibataillone).
 
@@ -623,31 +610,25 @@ Kriminalpolizei:
 
 sogenannten „Berufsverbrechern“,
 
-Homosexuellen,­ von sogenannten­
+Homosexuellen, von sogenannten Asozialen, von Sinti und Roma;
 
-Asozialen, von Sinti und Roma;
-
-Maßnahmen­ zur „vorbeugenden
+Maßnahmen zur „vorbeugenden
 
 Verbrechensbekämpfung“ auf der
 
-Grundlage der nationalsozialistischen­
-
-Kriminalbiologie; Einweisungen
+Grundlage der nationalsozialistischen Kriminalbiologie; Einweisungen
 
 in die Konzentrationslager zur
 
 „Vernichtung durch Arbeit“. Als
 
-Kriminalpolizeileitstelle­ koordinierte­
-
-die im Stadthaus tätige Polizei für
+Kriminalpolizeileitstelle koordinierte die im Stadthaus tätige Polizei für
 
 den gesamten Wehrkreis X, für
 
 weite Teile Norddeutschlands, die
 
-­kriminalpolizeiliche Arbeit.
+kriminalpolizeiliche Arbeit.
 
 Hamburger Staatspolizei (Ende
 
@@ -677,39 +658,27 @@ Staatspolizei:
 
 Überwachung der gesamten
 
-Bevölkerung,­ Verfolgung und
+Bevölkerung, Verfolgung und
 
-Unterdrückung­ der politischen
+Unterdrückung der politischen
 
-Opposition,­ Deportation der
+Opposition, Deportation der
 
-jüdischen­ Bevölkerung, Einweisungen­
+jüdischen Bevölkerung, Einweisungen in die Konzentrationslager sowie
 
-in die Konzentrationslager sowie
+Erteilung der Exekutionsbefehle und Koordination der von
 
-Erteilung der Exekutionsbefehle­
+unzähligen Verbrechen begleiteten Überwachung der Zwangsarbeiter und Kriegsgefangenen. Als
 
-und Koordination der von
+Staatspolizeileitstelle fungierte sie im gesamten Wehrkreis X.
 
-unzähligen­ Verbrechen begleiteten­
-
-Überwachung­ der Zwangsarbeiter­
-
-und Kriegsgefangenen.­ Als
-
-Staatspolizeileitstelle­ fungierte­
-
-sie im gesamten Wehrkreis­ X.
-
-Insbesondere­ mit der Gestapo­
-
-sind schwere Verbrechen im
+Insbesondere mit der Gestapo sind schwere Verbrechen im
 
 Stadthaus selbst verbunden:
 
-wehrlose Gefangene­ wurden in
+wehrlose Gefangene wurden in
 
-Vernehmungszimmern­ zu Krüppeln
+Vernehmungszimmern zu Krüppeln
 
 geschlagen, in den Tod getrieben
 
@@ -749,11 +718,9 @@ Bereich) auszudehnen.
 
 Es gilt ein zeitgemäßes Konzept zu
 
-entwickeln,­ das geeignet ist, der Opfer­
+entwickeln, das geeignet ist, der Opfer nationalsozialistischer Gewalt in
 
-nationalsozialistischer Gewalt in
-
-angemessener­ und zeitgemäßer Weise
+angemessener und zeitgemäßer Weise
 
 zu gedenken. Diese „Gedenkaufgabe“
 
@@ -765,9 +732,9 @@ werden. Sie soll eigenständig und gleicher-
 
 maßen im engen Zusammenhang mit der
 
-Ausstellung­ im Inneren der Stadthöfe an
+Ausstellung im Inneren der Stadthöfe an
 
-die Vergangenheit­ des Ortes erinnern.
+die Vergangenheit des Ortes erinnern.
 
 Dabei ist der Begriff „Denkmal“ offen und
 
@@ -793,7 +760,7 @@ Familienangehörigen, Nachfahren und der
 
 Empathie empfindenden Öffentlichkeit
 
-ermöglichen,­ zu trauern.
+ermöglichen, zu trauern.
 
 Gegenstand des Wettbewerbs ist die
 
@@ -813,11 +780,11 @@ der jenen Männern und Frauen gerecht
 
 wird, die an diesem Ort misshandelt oder
 
-sogar ermordet­ wurden oder die durch
+sogar ermordet wurden oder die durch
 
 die hier tätige Polizei Opfer von Polizei-
 
-gewalt wurden.­ Gesucht wird ein überzeu-
+gewalt wurden. Gesucht wird ein überzeu-
 
 gendes Konzept für ein Denkzeichen im
 
@@ -827,7 +794,7 @@ des Ortes und Besucher der Stadthöfe in
 
 ihrem Alltag erreicht, wie auch Menschen
 
-berührt,­ die diesen Gedenkort aus
+berührt, die diesen Gedenkort aus
 
 persönlichen Gründen gezielt aufsuchen.
 
@@ -1015,25 +982,25 @@ verdrängen.
 
 Verkehrliche Anforderungen:
 
-• Die Verkehrssicherheit darf durch das
+– Die Verkehrssicherheit darf durch das
 
 Kunstwerk nicht beeinträchtigt
 
 werden.
 
-• Die Lichtsignalanlagen dürfen in ihrer
+– Die Lichtsignalanlagen dürfen in ihrer
 
 Funktionalität nicht eingeschränkt
 
 werden.
 
-• Die Zugänglichkeit zum Gebäude-
+– Die Zugänglichkeit zum Gebäude-
 
 komplex darf nicht beeinträchtigt
 
 werden.
 
-• Das barrierefreie Passieren von
+– Das barrierefreie Passieren von
 
 Passanten, Rollstuhlfahrern und
 
@@ -1041,7 +1008,7 @@ Kinderwagen muss gewährleistet sein.
 
 Bauliche Anforderungen:
 
-• Die Realisierung des Denkzeichens
+– Die Realisierung des Denkzeichens
 
 darf ausschließlich auf öffentlichem
 
@@ -1053,7 +1020,7 @@ komplex selbst stehen für die
 
 Umsetzung nicht zur Verfügung.
 
-• Es ist ein Mindestabstand von 4,80 m
+– Es ist ein Mindestabstand von 4,80 m
 
 vom Denkzeichen zur nächstgelegenen
 
@@ -1063,7 +1030,7 @@ Meter Abstand zur Verkehrsfläche der
 
 Straße „Stadthausbrücke“ einzuhalten.
 
-• Das Objekt soll die maximalen Maße
+– Das Objekt soll die maximalen Maße
 
 von 5 m (Länge) x 2 m (Breite) x 3 m
 
@@ -1081,7 +1048,7 @@ allgemeinen Rahmenbedingungen
 
 berücksichtigt werden.
 
-• Das Material des Objektes muss
+– Das Material des Objektes muss
 
 robust gegenüber Witterungs-
 
@@ -1089,7 +1056,7 @@ einflüssen, Vandalismus o. ä. sein.
 
 Technische Anforderungen:
 
-• Sämtliche technische Anschlüsse,
+– Sämtliche technische Anschlüsse,
 
 beispielsweise für Licht-, Klang- und/
 
@@ -1099,7 +1066,7 @@ oder Bildprojektionen, sind im
 
 vom Gebäude vorzusehen.
 
-• Physische Eingriffe (z. B. für
+– Physische Eingriffe (z. B. für
 
 technische Konstruktion, Bemalung
 
@@ -1109,7 +1076,7 @@ Fassaden der Stadthöfe sind nicht
 
 zulässig.
 
-• Es sind mindestens 6 Fahrradbügel
+– Es sind mindestens 6 Fahrradbügel
 
 im Bereich der Lichtsignalanlage zu
 
@@ -1119,7 +1086,7 @@ Planausschnitt Fahrradbügel).
 
 Kostenrahmen:
 
-• Der Kostenrahmen von 200.000 Euro
+– Der Kostenrahmen von 200.000 Euro
 
 (brutto) für Planung (Ausführungs-
 
@@ -1205,81 +1172,81 @@ zwölf Künstler zur Teilnahme am
 
 Wettbewerb ausgewählt:
 
-• Christiane Dellbrügge, Ralf de Moll,
+– Christiane Dellbrügge, Ralf de Moll,
 
 Berlin
 
-• Dr. Horst Hoheisel, Andreas Knitz,
+– Dr. Horst Hoheisel, Andreas Knitz,
 
 Kassel/Ravensburg
 
-• Yael Bartana, Berlin
+– Yael Bartana, Berlin
 
-• Esra Ersen, Berlin
+– Esra Ersen, Berlin
 
-• Nadia Kaabi-Linke, Berlin
+– Nadia Kaabi-Linke, Berlin
 
-• Mischa Kuball, Düsseldorf
+– Mischa Kuball, Düsseldorf
 
-• Ariel Reichman, Berlin
+– Ariel Reichman, Berlin
 
-• Luise Schröder, Paris
+– Luise Schröder, Paris
 
-• Ute Vorkoeper, Andrea Knobloch
+– Ute Vorkoeper, Andrea Knobloch
 
 (missing icons), Hamburg
 
-• Hannimari Jokinen, Hamburg
+– Hannimari Jokinen, Hamburg
 
-• Christoph Steinbrener, Rainer Dempf,
+– Christoph Steinbrener, Rainer Dempf,
 
 Martin Huber, Wien
 
-• Christoph Faulhaber, Hamburg
+– Christoph Faulhaber, Hamburg
 
 5.1.5. Preisgericht
 
 Stimmberechtigte Mitglieder:
 
-• Dirck Möllmann, Stadtkurator der
+– Dirck Möllmann, Stadtkurator der
 
 Stadt Hamburg, Hamburg
 
-• Dr. Brigitte Kölle, Hamburger Kunsthalle/
+– Dr. Brigitte Kölle, Hamburger Kunsthalle/
 
 Galerie der Gegenwart, Hamburg
 
-• Inga Wellmann, Vorsitzende der
+– Inga Wellmann, Vorsitzende der
 
 Kunstkommission, Behörde für Kultur
 
 und Medien, Hamburg
 
-• Prof. Dr. Birthe Kundrus, Universität
+– Prof. Dr. Birthe Kundrus, Universität
 
 Hamburg,
 
-• Dr. Detlef Garbe, KZ-Gedenkstätte
+– Dr. Detlef Garbe, KZ-Gedenkstätte
 
 Neuengamme, Hamburg
 
-• Prof. Dr. Johannes Tuchel, Gedenkstätte
+– Prof. Dr. Johannes Tuchel, Gedenkstätte
 
 Deutscher Widerstand, Berlin
 
-• Prof. Dr. Miriam Rürup, Institut für
+– Prof. Dr. Miriam Rürup, Institut für
 
 die Geschichte der deutschen Juden,
 
 Hamburg
 
-• Wolfgang Kopitzsch, Arbeits-
+– Wolfgang Kopitzsch, Arbeits-
 
 gemeinschaft verfolgter Sozial-
 
 demokraten, Hamburg
 
-• Prof. Dr. Hans-Jörg Czech, Museum für
+– Prof. Dr. Hans-Jörg Czech, Museum für
 
 Hamburgische Geschichte, Hamburg
 
@@ -1322,19 +1289,19 @@ lobung beschriebenen Zielvorstellungen
 
 der Ausloberin.
 
-• Qualität der Entwurfsidee und
+– Qualität der Entwurfsidee und
 
 künstlerischer Leitgedanke
 
-• Gestalterische Qualität
+– Gestalterische Qualität
 
-• Qualität der räumlichen Einbindung
+– Qualität der räumlichen Einbindung
 
-• Funktionalität (technische
+– Funktionalität (technische
 
 Realisierbarkeit, Nachhaltigkeit)
 
-• Wirtschaftlichkeit in Erstellung und
+– Wirtschaftlichkeit in Erstellung und
 
 Unterhalt
 
@@ -1352,35 +1319,35 @@ bedingungen genügende Bewertung.
 
 5.1.6. Vorprüfer, Sachverständige und Gäste
 
-• Lothar Knode, Bezirksversammlung
+– Lothar Knode, Bezirksversammlung
 
 Kulturausschuss Hamburg-Mitte,
 
 Hamburg
 
-• Michael Rump, Abschnittsleiter Revier
+– Michael Rump, Abschnittsleiter Revier
 
 und Betrieb Innenstadt, Bezirksamt
 
 Hamburg-Mitte
 
-• Peter Hess, Initiative Stolpersteine,
+– Peter Hess, Initiative Stolpersteine,
 
 Hamburg
 
-• Dr. Annette Busse, Erinnerungskultur,
+– Dr. Annette Busse, Erinnerungskultur,
 
 Behörde für Kultur und Medien,
 
 Hamburg
 
-• Anne-Kathrin Reinberg, Kunst im
+– Anne-Kathrin Reinberg, Kunst im
 
 öffentlichen Raum, Behörde für Kultur
 
 und Medien, Hamburg
 
-• Andreas Kellner, Leiter Amt für
+– Andreas Kellner, Leiter Amt für
 
 Denkmalschutz, Behörde für Kultur
 
@@ -1511,7 +1478,7 @@ müssen. Im Falle etwaiger Urheberrechts-
 
 verletzungen Dritter auf Grund von
 
-unrechtmäßigem ­Gebrauch von Bild- oder
+unrechtmäßigem Gebrauch von Bild- oder
 
 Planmaterial, die an die Ausloberin oder
 
@@ -1692,7 +1659,7 @@ Shanghaiallee 6
 
 Inhalte
 
-• Darstellung der Gesamtkonzeption
+– Darstellung der Gesamtkonzeption
 
 -- im Grundriss im Lageplan M 1:100
 
@@ -1702,7 +1669,7 @@ und Ansichten im frei zu wählenden
 
 Maßstab
 
-• weitere erläuternde und zum
+– weitere erläuternde und zum
 
 Verständnis der künstlerischen
 
@@ -1714,7 +1681,7 @@ Darstellungen als Skizzen, Perspektiven,
 
 Ansichten im frei zu wählenden Maßstab
 
-• Darstellung der künstlerisch-
+– Darstellung der künstlerisch-
 
 gestalterischen Gesamtkonzeption
 
@@ -1722,7 +1689,7 @@ zur Kenntlichmachung der dezentralen
 
 Orte im notwendig erachteten Umfang
 
-• Darstellung der für die Umsetzung
+– Darstellung der für die Umsetzung
 
 notwendigen technischen und
 
@@ -1730,7 +1697,7 @@ konstruktiven Details mit Material-
 
 angaben
 
-• beispielhaft erläuternde und zum
+– beispielhaft erläuternde und zum
 
 Verständnis ausreichende Darstellung
 
@@ -1738,11 +1705,11 @@ der Informationsvermittlung (einschl.
 
 der Text- und Abbildungsanordnung)
 
-• Visualisierung
+– Visualisierung
 
 Formale Anforderungen Pläne
 
-• max. 4 Pläne DIN A1 (Hochformat),
+– max. 4 Pläne DIN A1 (Hochformat),
 
 gerollt, in zweifacher Ausfertigung
 
@@ -1750,11 +1717,11 @@ und in präsentationsfähiger Qualität
 
 abzugeben
 
-• 1 Satz der Pläne als DIN A3-
+– 1 Satz der Pläne als DIN A3-
 
 Verkleinerung
 
-• Erläuterungsbericht zur
+– Erläuterungsbericht zur
 
 künstlerischen Konzeption (max. 3 DIN
 
@@ -1764,9 +1731,9 @@ A4 Seiten)
 
 Inhalte
 
-• Verfassererklärung
+– Verfassererklärung
 
-• Kostenzusammenstellung mit Aussage
+– Kostenzusammenstellung mit Aussage
 
 zu Planungs-, Realisierungs- und den
 
@@ -1774,7 +1741,7 @@ zu erwartenden jährlichen Betriebs-
 
 kosten
 
-• Angebote von Firmen, die von den
+– Angebote von Firmen, die von den
 
 Teilnehmern/Teilnehmerinnen zur
 
@@ -1788,11 +1755,11 @@ werden
 
 Formale Anforderungen Vordrucke
 
-• Kostenschätzung im vorgegebenen
+– Kostenschätzung im vorgegebenen
 
 Formular, DIN A4
 
-• Verfassererklärung in einem mit der
+– Verfassererklärung in einem mit der
 
 Kennzahl beschrifteten, verschlossenen
 
@@ -1802,7 +1769,7 @@ undurchsichtigem Umschlag
 
 Inhalte
 
-• Bereitstellung sämtlicher unter Punkt
+– Bereitstellung sämtlicher unter Punkt
 
 5.4.1 genannten Unterlagen auf einer
 
@@ -1818,19 +1785,19 @@ Kennzeichnung der Daten
 
 Inhalt:
 
-• Präsentationspläne (pdf und tiff, 150
+– Präsentationspläne (pdf und tiff, 150
 
 dpi, CMYK-Modus in Originalgröße)
 
-• Erläuterungsbericht (doc und pdf)
+– Erläuterungsbericht (doc und pdf)
 
-• digitale Prüfpläne (Grundriss, Schnitte
+– digitale Prüfpläne (Grundriss, Schnitte
 
 und Ansichten) (dwg/dxf 2000) sofern
 
 vorhanden
 
-• Bild- und Präsentationsdaten (Skizzen,
+– Bild- und Präsentationsdaten (Skizzen,
 
 freie Darstellungen) (pdf und tiff, 300
 
@@ -1838,7 +1805,7 @@ dpi, CMYK-Modus)
 
 Formale Anforderungen Datenpaket
 
-• digitale Daten und Datenträger
+– digitale Daten und Datenträger
 
 ebenfalls mit der sechsstelligen
 

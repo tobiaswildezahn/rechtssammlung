@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51497"
@@ -64,91 +65,91 @@ Welche Maßnahmen und Geschäfte der HHT bedürfen im Einzelnen der Zustimmung d
 
 Die folgenden Maßnahmen und Geschäfte bedürfen gemäß § 8 Absatz 3 des Gesellschaftsvertrags der HHT der Zustimmung des Aufsichtsrats:
 
- Bestellung, Anstellung und Abberufung der Geschäftsführer beziehungsweise
+– Bestellung, Anstellung und Abberufung der Geschäftsführer beziehungsweise
 
 Geschäftsführerinnen,
 
- Bestellung und Abberufung von Prokuristen beziehungsweise Prokuristinnen und
+– Bestellung und Abberufung von Prokuristen beziehungsweise Prokuristinnen und
 
 Generalbevollmächtigten,
 
- Außertarifliche Regelungen für Mitarbeiter,
+– Außertarifliche Regelungen für Mitarbeiter,
 
- Marketingpläne, in denen das finanzielle Volumen sowie Werbeschwerpunkte fest-
+– Marketingpläne, in denen das finanzielle Volumen sowie Werbeschwerpunkte fest-
 
 zulegen sind,
 
- Wirtschaftsplan und seine Änderungen sowie Entscheidungen über Aufträge, die
+– Wirtschaftsplan und seine Änderungen sowie Entscheidungen über Aufträge, die
 
 im Wirtschaftsplan nicht vorgesehen sind oder bei denen die Ansätze im Wirtschaftsplan überschritten werden,
 
- Grundstücksgeschäfte sowie Abschluss, Änderung oder Aufhebung von Miet- und
+– Grundstücksgeschäfte sowie Abschluss, Änderung oder Aufhebung von Miet- und
 
 Pachtverträgen,
 
- Aufnahme von Anleihen oder Krediten ab einer vom Aufsichtsrat festzulegenden
+– Aufnahme von Anleihen oder Krediten ab einer vom Aufsichtsrat festzulegenden
 
 Wertgrenze, sofern damit das mit dem Wirtschaftsplan genehmigte Auftragsvolumen überschritten wird,
 
- Festlegung von Grundsätzen und Handlungsrahmen für die Aufnahme und
+– Festlegung von Grundsätzen und Handlungsrahmen für die Aufnahme und
 
 Gewährung von Krediten und Darlehen sowie die Übernahme von Bürgschaften, Garantien sowie sonstigen Verpflichtungen zum Einstehen für fremde Verbindlichkeiten,
 
- Allgemeine Vereinbarungen und Maßnahmen zur Regelung der arbeits- und ver-
+– Allgemeine Vereinbarungen und Maßnahmen zur Regelung der arbeits- und ver-
 
 sorgungsrechtlichen Verhältnisse der Beschäftigten, mit finanziellen Auswirkungen,
 
- Abschluss von Vermögensschaden-Haftpflichtversicherungen (D&O-Versicherun-
+– Abschluss von Vermögensschaden-Haftpflichtversicherungen (D&O-Versicherun-
 
 gen) für Geschäftsführungen,
 
- Gründung anderer Unternehmen, der Erwerb, die Veräußerung sowie Belastung
+– Gründung anderer Unternehmen, der Erwerb, die Veräußerung sowie Belastung
 
 von Beteiligungsrechten, die Maßnahmen i.S.d. § 14 Absatz 3 Satz 2 des Gesellschaftsvertrages der HHT sowie die Errichtung, Verlegung und Aufhebung von Zweigniederlassungen oder Betriebsstätten.
 
 Weitere, in § 10 Absatz 1 der Geschäftsanweisung des Aufsichtsrats für die Geschäftsführung festgelegte, zustimmungsbedürftige Geschäfte sind:
 
- Abschluss, Änderung und Aufhebung von Verträgen mit besonderer Bedeutung,
+– Abschluss, Änderung und Aufhebung von Verträgen mit besonderer Bedeutung,
 
 namentlich von solchen mit der Freien und Hansestadt Hamburg,
 
- Festlegung von Grundsätzen für derivative Finanzgeschäfte, soweit es sich nicht
+– Festlegung von Grundsätzen für derivative Finanzgeschäfte, soweit es sich nicht
 
 um Geschäfte in Euro über Zinsswaps, Forward rate agreements (FRA’s), Optionen auf Zinsswaps, Zinscaps und Zinsfloors zur betrags- und fristenkongruenten zinsmäßigen Gestaltung bilanzieller Positionen oder zur Sicherung von im Finanzplan genehmigter Kreditaufnahmen handelt,
 
- Rechtsgeschäfte, an denen Aufsichtsratsmitglieder persönlich oder als Vertreter
+– Rechtsgeschäfte, an denen Aufsichtsratsmitglieder persönlich oder als Vertreter
 
 beziehungsweise Vertreterin einer Handelsgesellschaft beziehungsweise einer juristischen Person des öffentlichen Rechts wirtschaftlich beteiligt sind,
 
- Abschluss oder Änderung von Anstellungsverträgen mit Beschäftigten der zweiten
+– Abschluss oder Änderung von Anstellungsverträgen mit Beschäftigten der zweiten
 
 Führungsebene,
 
- Vereinbarung von Abfindungen bei Dienstbeendigung, sofern diese drei Bruttomo-
+– Vereinbarung von Abfindungen bei Dienstbeendigung, sofern diese drei Bruttomo-
 
 natsgehälter übersteigen,
 
- Einleitung von Rechtsstreitigkeiten gegen die Freie und Hansestadt Hamburg oder
+– Einleitung von Rechtsstreitigkeiten gegen die Freie und Hansestadt Hamburg oder
 
 ihre Unternehmen sowie von grundsätzlicher Bedeutung oder mit einem Streitwert von mehr als 100.000 Euro; der Abschluss von Vergleichen und der Erlass von Forderungen, sofern der durch den Vergleich gewährte Nachlass oder der Nennwert erlassener Forderungen eine vom Aufsichtsrat festzulegende Wertgrenze übersteigt,
 
- Gewährung von Spenden, Schenkungen und sonstigen Zuwendungen von mehr
+– Gewährung von Spenden, Schenkungen und sonstigen Zuwendungen von mehr
 
 als 500 Euro im Einzelfall und wenn 2.500 Euro p.a. überschritten werden,
 
- Wahrnehmung der Gesellschafterrechte bei Tochtergesellschaften und wichtigen
+– Wahrnehmung der Gesellschafterrechte bei Tochtergesellschaften und wichtigen
 
 Beteiligungen, soweit sie in personeller oder finanzieller Hinsicht von besonderer Bedeutung sind,
 
- Abschluss, wesentliche Änderung und die Aufhebung von Unternehmensverträ-
+– Abschluss, wesentliche Änderung und die Aufhebung von Unternehmensverträ-
 
 gen,
 
- Aufnahme neuer Geschäftszweige im Rahmen des Unternehmensgegenstandes
+– Aufnahme neuer Geschäftszweige im Rahmen des Unternehmensgegenstandes
 
 oder die Übernahme neuer Aufgaben sowie die Aufgabe vorhandener Tätigkeitsgebiete,
 
- Übernahme von Nebentätigkeiten, insbesondere von Aufsichtsratsmandaten
+– Übernahme von Nebentätigkeiten, insbesondere von Aufsichtsratsmandaten
 
 außerhalb des Unternehmens, durch Mitglieder der Geschäftsführung.
 

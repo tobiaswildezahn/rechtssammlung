@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9874", "21/14004"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64494"
@@ -53,7 +54,7 @@ Welche Erkenntnisse liegen der zuständigen Behörde darüber vor, von wie viele
 
 Wie beurteilt die zuständige Behörde diese Annahme des Deutschen Richterbundes?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die zuständige Behörde hat keine Kenntnisse über die Berechnungsgrundlagen des Deutschen Richterbundes. Ungeachtet dessen begrüßt sie die Vereinbarung der Koalitionspartner auf Bundesebene, die Länder bei ihrem fortgesetzten Engagement für einen leistungsfähigen Rechtsstaat finanziell zu unterstützen.
 

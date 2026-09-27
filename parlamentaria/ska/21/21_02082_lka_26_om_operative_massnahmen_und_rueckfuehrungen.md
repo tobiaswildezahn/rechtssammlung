@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50339"
@@ -94,6 +95,6 @@ Glaubt der Senat beziehungsweise die zuständige Behörde, mit den durch ProMod 
 
 Ist es weiterhin geplant, das LKA 26/OM aufzulösen und das Personal zu reduzieren? Wenn ja, a. wer übernimmt die bestehenden Aufgaben, insbesondere die Abarbeitung von Amtshilfeersuchen der Ausländerbehörde? b. gibt es einen Bestandsschutz der dort tätigen Mitarbeiter?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Empfehlung ProMod 2012 lag eine andere Situation zugrunde. Vor dem Hintergrund der aktuellen Entwicklung wurde die Zahl der bei LKA 26/OM tätigen Mitarbeiter erhöht, siehe auch Antwort zu 1. Grundsätzlich wird angestrebt, die Ausländerbehörde so auszustatten, dass Amtshilfeersuchen nur im Ausnahmefall erforderlich sind.

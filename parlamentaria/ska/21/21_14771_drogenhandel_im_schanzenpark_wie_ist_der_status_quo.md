@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64212"
@@ -124,7 +125,7 @@ In wie vielen Fällen ist es nach Abschluss der Ermittlungen zu Strafverfahren g
 
 Wie oft wurden hierbei Bewährungsstrafen, wie oft Haftstrafen verhängt?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Sämtliche in der PKS im OT 207 erfassten 398 Fälle wurden durch die Polizei der Staatsanwaltschaft übersandt.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/176"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63772"
@@ -59,7 +60,7 @@ Hat der Senat zwischenzeitlich Pläne entwickelt, um entlang der Reeperbahn verk
 
 Falls solche Pläne noch nicht fertiggestellt sind: Wann ist mit der Fertigstellung zu rechnen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

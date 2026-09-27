@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53630"
@@ -48,35 +49,35 @@ Eidelstedt „Hörgensweg“
 
 Form und Zeitpunkt der Ankündigung:
 
- Verteilung von 3.000 Handzetteln in Briefkästen ab 23. März 2016
+– Verteilung von 3.000 Handzetteln in Briefkästen ab 23. März 2016
 
- Aufstellung von 30 Plakaten ab 23. März 2016
+– Aufstellung von 30 Plakaten ab 23. März 2016
 
- Pressemitteilung am 22. März 2016
+– Pressemitteilung am 22. März 2016
 
 1. Bürgerwerkstatt zum Bauvorhaben Hörgensweg am 30. April 2016
 
 Form und Zeitpunkt der Ankündigung:
 
- per Plakat zehn Tage vor Veranstaltung
+– per Plakat zehn Tage vor Veranstaltung
 
- E-Mail-Newsletter-Verteiler
+– E-Mail-Newsletter-Verteiler
 
- Presse
+– Presse
 
- Internet
+– Internet
 
 2. Bürgerwerkstatt/Fachkolloquium zum Bauvorhaben Hörgensweg am 27. Mai 2016
 
 Form und Zeitpunkt der Ankündigung:
 
- per Plakat 10 Tage vor Veranstaltung
+– per Plakat 10 Tage vor Veranstaltung
 
- E-Mail-Newsletter Verteiler
+– E-Mail-Newsletter Verteiler
 
- Presse
+– Presse
 
- Internet
+– Internet
 
 Eidelstedt „Duvenacker“
 
@@ -84,22 +85,22 @@ Eidelstedt „Duvenacker“
 
 Form und Zeitpunkt der Ankündigung:
 
- Verteilung von 2.000 Handzetteln in Briefkästen ab 18. Januar 2016
+– Verteilung von 2.000 Handzetteln in Briefkästen ab 18. Januar 2016
 
- Aufstellung von 30 Plakaten ab 18. Januar 2016
+– Aufstellung von 30 Plakaten ab 18. Januar 2016
 
- Pressemitteilung am 11. Januar 2016
+– Pressemitteilung am 11. Januar 2016
 
 Öffentliche Plandiskussion zum Bebauungsplan Eidelstedt 75 „Duvenacker“ am
 12. April 2016
 
 Form und Zeitpunkt der Ankündigung:
 
- Aufstellung von 30 Plakaten ab 30. März 2016
+– Aufstellung von 30 Plakaten ab 30. März 2016
 
- Pressemitteilung vom 23. März 2016
+– Pressemitteilung vom 23. März 2016
 
- Internet (Fachamtshomepage) ab 30. März 2016
+– Internet (Fachamtshomepage) ab 30. März 2016
 
 Stellingen „Melanchthonstraße“ und „Kieler Straße 433“
 
@@ -107,9 +108,9 @@ Stellingen „Melanchthonstraße“ und „Kieler Straße 433“
 
 Form und Zeitpunkt der Ankündigung:
 
- Verteilung von 1.000 Handzetteln in Briefkästen ab 18. Januar 2016
+– Verteilung von 1.000 Handzetteln in Briefkästen ab 18. Januar 2016
 
- Pressemitteilung am 15. Januar 2016
+– Pressemitteilung am 15. Januar 2016
 
 Stellingen „Große Bahnstraße“
 
@@ -118,9 +119,9 @@ Stellingen „Große Bahnstraße“
 
 Form und Zeitpunkt der Ankündigung:
 
- Verteilung von 1.000 Handzetteln in Briefkästen ab 26. April 2016
+– Verteilung von 1.000 Handzetteln in Briefkästen ab 26. April 2016
 
- Pressemitteilung am 25. April 2016
+– Pressemitteilung am 25. April 2016
 
 ### Frage 2
 

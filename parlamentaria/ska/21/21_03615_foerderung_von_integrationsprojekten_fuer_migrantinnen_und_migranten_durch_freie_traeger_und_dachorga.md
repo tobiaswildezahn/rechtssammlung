@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3150"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51985"
@@ -81,7 +82,7 @@ Welche regionalen und überregionalen Migranten(selbst)organisationen, die in de
 
 Wie viele und welche der 451 in der Schriftlichen Kleinen Anfrage Drs. 21/3150 genannten Migranten(selbst)organisationen haben im Zeitraum 2010 – 2015 Anträge auf Förderung durch Mittel vom Bund oder aus Europa gestellt? a. Wie viele davon wurden abgelehnt und mit welcher Begründung?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 In die Bemühungen der Träger um Förderbeziehungen zu Drittmittelgebern ist der Senat in aller Regel nicht eingebunden.
 
@@ -97,7 +98,7 @@ Welche der in der Schriftlichen Kleinen Anfrage Drs. 21/3150 aufgelisteten Migra
 
 Welche der in der Schriftlichen Kleinen Anfrage Drs. 21/3150 aufgelisteten Migranten(selbst)organisationen haben ihren Arbeitsschwerpunkt im Bereich „Entwicklungszusammenarbeit“ und damit im Bereich internationale Zusammenarbeit mit anderen Staaten? Bitte einzeln auflisten.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Zur Definition von Migrantenorganisationen siehe Drs. 21/3150.
 

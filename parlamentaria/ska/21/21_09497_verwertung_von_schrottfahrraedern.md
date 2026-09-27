@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9333", "21/4442"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58266"
@@ -49,7 +50,7 @@ Wie viele sogenannte Schrottfahrräder wurden mittlerweile im öffentlichen Raum
 
 Wie viele davon konnten tatsächlich abtransportiert werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In 2017 wurden bisher (Stand 21. Juni 2017) 2.938 Schrotträder gemeldet. Davon wurden 1.664 durch SRH abtransportiert.
 
@@ -89,7 +90,7 @@ Wie viele reparierte Fahrräder wurden auf anderen Vertriebswegen zu welchem Ges
 
 Welcher Gesamterlös wurde aus dem Verkauf von reparierten Schrottfahrrädern und Teilen davon erzielt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Es gibt keine anderen Vertriebswege.
 

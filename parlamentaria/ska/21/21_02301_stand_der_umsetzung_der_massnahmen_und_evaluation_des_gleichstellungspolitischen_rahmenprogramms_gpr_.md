@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9431", "20/10388", "20/11337", "20/11339", "20/12774", "20/13467", "20/9570", "20/13000", "20/10838", "21/2092", "20/14190", "21/1078"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50572"
@@ -146,9 +147,9 @@ Letzter Stand: Prüfung von Bestand der Förderrichtlinien
 
 Die Prüfung der bestehenden und zu erlassenden Förderrichtlinien im Hinblick auf ihren Beitrag zur Förderung gleichstellungspolitischer Ziele ist ein laufender Prozess in der jeweils fachlich zuständigen Behörde. So hat die Prüfung bestehender und künftig zu erlassender Förderrichtlinien im Bereich der Innovationsförderung im Hinblick ihres Beitrags zur Förderung gleichstellungspolitischer Ziele folgendes ergeben:
 
-• Bei der Formulierung der Förderrichtlinie zum Programm für innovative Unternehmensgründungen (InnoRampUp) wurde auf gleichstellungspolitische Aspekte geachtet. Durch den hohen Grad an Flexibilität der Förderrichtlinie ermöglicht das auch die Berücksichtigung eines etwaigen unterschiedlichen Gründungsverhaltens von Männer und Frauen bei der Vergabe von Fördermitteln.
+– Bei der Formulierung der Förderrichtlinie zum Programm für innovative Unternehmensgründungen (InnoRampUp) wurde auf gleichstellungspolitische Aspekte geachtet. Durch den hohen Grad an Flexibilität der Förderrichtlinie ermöglicht das auch die Berücksichtigung eines etwaigen unterschiedlichen Gründungsverhaltens von Männer und Frauen bei der Vergabe von Fördermitteln.
 
-• Die Auswahlkriterien bei den bestehenden Förderrichtlinien „Hamburger FuE- Förderrichtlinie“ Profi (Programm für Innovation) und Innovationsstarter Fonds Hamburg sind nicht genderrelevant.
+– Die Auswahlkriterien bei den bestehenden Förderrichtlinien „Hamburger FuE- Förderrichtlinie“ Profi (Programm für Innovation) und Innovationsstarter Fonds Hamburg sind nicht genderrelevant.
 
 Im Rahmen der finanziellen Wirtschaftsförderung wird regelhaft erörtert, ob es Ansätze für spezifische Frauenbelange gibt. Bisher konnten keine unterschiedlichen Sachverhalte bei Finanzierungen erkannt werden.
 
@@ -326,11 +327,11 @@ Letzter Stand: Umsetzung ausstehend
 
 Am 3. Mai 2013 wurde der Verordnungsentwurf unter der Federführung Hamburgs gemeinsam mit den antragstellenden Ländern als Bundesratsinitiative in den Bundesrat eingebracht. Gleichstellungspolitische Ziele fanden dabei Berücksichtigung:
 
- Konsequente Anwendung geschlechtergerechter Sprache zum Beispiel „Arbeitge-
+– Konsequente Anwendung geschlechtergerechter Sprache zum Beispiel „Arbeitge-
 
 berinnen und Arbeitgeber“.
 
- Geschlechtergerechtigkeit als gleichstellungspolitisches Ziel wurde als Gestal-
+– Geschlechtergerechtigkeit als gleichstellungspolitisches Ziel wurde als Gestal-
 
 tungsgrundsatz implementiert: „Um Gefährdungen für Sicherheit und Gesundheit bei der Arbeit zu vermeiden oder so weit wie möglich zu verringern, sind bei der Gestaltung des Arbeitssystems nach §§ 3,6 insbesondere die folgenden Gestaltungsgrundsätze zu berücksichtigen. Dabei besteht die Notwendigkeit, Arbeit sowohl geschlechtergerecht als auch alters- und alternsgerecht zu gestalten.“
 

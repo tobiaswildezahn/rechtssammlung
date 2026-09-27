@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5661"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54434"
@@ -43,7 +44,7 @@ Wann haben in den letzten zehn Jahren welche Zirkusse auf dem Heiligengeistfeld 
 
 Aus welchen Gründen gab es in einigen Jahren keine solchen Auftritte? Bitte für jedes Jahr angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Jahr Zirkusse
 

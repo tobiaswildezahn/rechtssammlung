@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/2696"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51586"
@@ -59,7 +60,7 @@ Es wird unterstellt, dass die räumlichen Anforderungen zur Unterbringung von zw
 
 Da die Brücke ursprünglich für vier U-Bahn-Gleise und ein Hafenbahngleis (neben der jetzt noch vorhandenen Straße) vorgesehen war, dürfte auch statisch kein Problem bestehen, wenn nun lediglich zwei U-Bahn- Gleise eingebaut würden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Antwort zu 1.
 
@@ -71,7 +72,7 @@ Vorausgesetzt die Fragen 2. und 3. werden positiv beantwortet, könnte maximal a
 
 Wurden neben den oben angeführten Untersuchungen in die Entscheidung der Nichtnutzung der Brücke für die U-Bahn-Verlängerung auch andere Aspekte (Einmaligkeit einer zweigeschossigen Brücke, Nutzen für den Tourismus, technisches Denkmal und so weiter) einbezogen? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Eine seitens der HPA beauftragte Machbarkeitsstudie zu der Zustandsfeststellung und einer statischen Beurteilung der Nutzungsmöglichkeiten hat Defizite des Bauwerks und Nutzungsperspektiven der Brücke dargestellt. Die Studie untersucht vornehmlich die Nutzungsmöglichkeiten für den Straßenverkehr unter Berücksichtigung des Denkmalschutzes. Im Übrigen siehe Antwort zu 2. und 3.
 

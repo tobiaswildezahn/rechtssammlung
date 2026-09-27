@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 5
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66324"
@@ -37,15 +38,15 @@ Vor diesem Hintergrund frage ich den Senat:
 
 Die Anwendung eines Bebauungsplan-Verfahrens nach § 13a Baugesetzbuch (BauGB) ist nur unter bestimmten Voraussetzungen möglich, ansonsten ist das Bebauungsplan-Verfahren in einem „normalen“ und nicht in einem „beschleunigten“ Verfahren durchzuführen. Neben den in § 13a Absatz 1 BauGB festgelegten maximalen Größenordnungen der jeweiligen Planverfahren gelten bestimmte Ausschlusskriterien für die Verfahrensdurchführung nach §13a:
 
- Bei Verfahren mit einer Grundfläche zwischen 20 000 m² und unter 70 000 m²,
+– Bei Verfahren mit einer Grundfläche zwischen 20 000 m² und unter 70 000 m²,
 
 wenn erhebliche Umweltauswirkungen zu erwarten sind;
 
- für alle Flächen, wenn Anhaltspunkte für eine Beeinträchtigung der in § 1 Absatz 6
+– für alle Flächen, wenn Anhaltspunkte für eine Beeinträchtigung der in § 1 Absatz 6
 
 Nummer 7 Buchstabe b genannten Schutzgüter bestehen;
 
- oder wenn bei der Planung Pflichten zur Vermeidung oder Begrenzung der Aus-
+– oder wenn bei der Planung Pflichten zur Vermeidung oder Begrenzung der Aus-
 
 wirkungen von schweren Unfällen nach § 50 Satz 1 des Bundes-Immissionsschutzgesetzes bestehen.
 

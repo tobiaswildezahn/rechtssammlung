@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 23
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1666", "21/1719", "21/1690", "21/1906", "21/1840"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50183"
@@ -173,7 +174,7 @@ Wann genau werden diese unter 1. genannten Flüchtlingsunterkünfte eingerichtet
 
 In welcher Form sollen Flüchtlinge dort untergebracht werden (Zelte, Container et cetera)?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Antwort zu 1.
 
@@ -205,7 +206,7 @@ Wann wurden mit den jeweils betroffenen Grundstückseigentümern Gespräche aufg
 
 Haben die Eigentümer der Flächen einer Nutzung bereits zugestimmt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Mit Ausnahme der Fläche am Neuenfelder Fährdeich ist in allen unter 1. genannten Standorten die Freie und Hansestadt Hamburg Grundeigentümerin.
 

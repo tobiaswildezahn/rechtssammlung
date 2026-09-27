@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18458", "20/5317", "20/13744"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68373"
@@ -148,7 +149,7 @@ Beabsichtigt der Senat eine – zu den Schulen vergleichbare – Sanierungsoffen
 
 Plant der Senat die Sanierungsquote durch Anreize oder andere Maßnahmen innerhalb der nächsten Jahre zu erhöhen? Wenn ja, welche Maßnahmen sind für welche Zeiträume geplant? Wenn nein, welche sachlichen und fachlichen Gründe liegen dafür vor? (Bitte detailliert ausführen.)
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Senat arbeitet an einer entsprechenden Umsetzung.
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 18
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56371"
@@ -53,7 +54,7 @@ Wie viele Wochenstunden werden laut welcher Stundentafel (bitte Link beifügen) 
 
 Wie viele Wochenstunden werden laut welcher Stundentafel (bitte Link beifügen) im Bereich der Sekundarstufe I an den Hamburger Stadtteilschulen in den Jahrgangsstufen (5 – 10) im Fach Physik erteilt? Wie sehen die Vergleichszahlen für vergleichbare Schulen in den anderen Bundesländern aus? Bitte insgesamt und nach Jahrgangsstufen getrennt aufführen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In den Jahrgangsstufen 5 und 6 ist an beiden Schulformen das Fach Naturwissenschaften/Technik zu erteilen, in den Jahrgangsstufen 7 – 10 die Fächer Biologie, Chemie und Physik. Insgesamt sind an der Stadtteilschule mindestens 18 Wochenstunden, an Gymnasien mindestens 19 Wochenstunden verbindlich. Die Aufteilung der Wochenstunden auf die einzelnen naturwissenschaftlich-technischen Fächer ist nicht festgelegt. Darüber hinaus verfügen die Gymnasien über ein Kontingent von 25 Wochenstunden sowie die Stadtteilschulen über 19 Wochenstunden, die von den Schulen frei verfügbar nach Bedarf für die Verstärkung des Unterrichts eingesetzt werden. Die Schulen entscheiden selbst, welchen Unterrichtsfächern diese zusätzlichen Stunden zugewiesen werden. Gemäß § 36 Absatz 3 der Ausbildungs- und Prüfungsordnung für die Grundschule und die Jahrgangsstufen 5 bis 10 der Stadtteilschule und des Gymnasiums (APO-GrundStGy) ist zudem bei der Ausgestaltung der schuleigenen Stundentafel sicherzustellen, dass die in den Bildungsplänen niedergelegten Anforderungen erfüllt werden. Die genannten Wochenstundenzahlen beziehen sich auf 45-minütige Unterrichtsstunden. Siehe APO-GrundStGy, Anlagen 4 und 6, http://www.hamburg.de/contentblob/3013778/data/apo-grundstgy.pdf.
 
@@ -113,7 +114,7 @@ Wie viele Schüler eines Jahrgangs haben Physik als Prüfungsfach im Abitur gew�
 
 Wie haben sich die durchschnittlichen Prüfungsergebnisse der Abiturprüfungen aus Frage 8. im Zeitraum 2012 – 2016 entwickelt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die folgende Tabelle weist die Anzahl der Prüflinge sowie den Anteil der schriftlichen Abiturprüfungen und die durchschnittlichen Prüfungsnoten im Fach Physik nach Anforderungsniveau für die Schuljahre 2011/2012 bis 2015/2016 aus:
 

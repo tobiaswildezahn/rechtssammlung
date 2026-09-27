@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62949"
@@ -58,7 +59,7 @@ Wie hat sich der Bestand an Betrieben in der Industrie im Sinne der Vorgaben des
 Wie viele Beschäftigte sind in Unternehmen, die dem Bereich der Industrie zugeordnet sind, angestellt? Bitte nach Quartalen mit Beginn im
 1. Quartal 2011 aufschlüsseln.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Mit dem Ersten Gesetz zum Abbau bürokratischer Hemmnisse insbesondere in der mittelständischen Wirtschaft werden in den Abschnitten A und B seit 2007 monatlich nur noch Betriebe von Unternehmen mit 50 und mehr tätigen Personen sowie jährlich
 

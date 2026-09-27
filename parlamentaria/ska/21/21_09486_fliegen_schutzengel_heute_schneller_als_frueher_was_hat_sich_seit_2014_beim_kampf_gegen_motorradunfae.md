@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 20
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12585", "20/14382"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58248"
@@ -63,7 +64,7 @@ Wurde in den Jahren seit 2015 jeweils zum Beginn der Motorradsaison die Motorrad
 
 Wurde in den Jahren seit 2011 und bis 2015 jeweils zum Beginn der Motorradsaison die Motorradstaffel der Polizei mit Aufklärungsflyern an Motorradtreffs eingesetzt? (Bitte jahresweise aufschlüsseln.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Polizei informiert seit Jahren, den Fragezeitraum umfassend regelmäßig zu Beginn der Motorradsaison, bei den Hamburger Motorradtagen und am Motorradtreffpunkt Fähranleger Zollenspieker mit einem eigenen Infomobil. Dabei werden Flyer und andere Informationsmedien verteilt und ein Kurventrainingskrad eingesetzt sowie das persönliche Gespräch gesucht. Die Polizei kooperiert hierbei mit dem Allgemeinen Deutschen Automobil-Club e.V., dem Deutschen Roten Kreuz e.V. und dem Fahrlehrerverband Hamburg e.V. Die Präventionsarbeit wird durch die Dienstgruppen Krad unterstützt, die die Präventionsarbeit im Rahmen ihrer allgemeinen Präsenz auch unterjährig an von Motorradfahrern stark frequentierten Örtlichkeiten fortführt.
 
@@ -75,7 +76,7 @@ Inwiefern und mit welchen konkreten Maßnahmen haben der Senat beziehungsweise d
 
 Inwiefern und mit welchen konkreten Maßnahmen haben der Senat beziehungsweise die zuständigen Behörden in den Jahren seit 2011 und bis 2015 den Hamburger Motorradgottesdienst für Werbemaßnahmen für mehr Verkehrssicherheit genutzt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Polizei ist mit einem Informationsstand auf dem Vorplatz der Hauptkirche Sankt Michaelis vertreten und informiert dort Interessierte umfassend zum Thema Verkehrssicherheit speziell im Zusammenhang mit dem motorisierten Zweiradverkehr und setzt begleitend Öffentlichkeitsarbeit auch über soziale Medien ein. Das Konzept wird bereits in ähnlicher Weise über den erfragten Zeitraum hinaus durchgeführt. Dieses wird regelmäßig aktualisiert, um jeweiligen Informationsinteressen der Adressaten gerecht zu werden. Begleitend zu den in der Antworten zu 1. und 2. genannten Plakaten wurden durch den LBV 2015 und 2016 Anzeigen in der Broschüre des Veranstalters gedruckt.
 
@@ -87,7 +88,7 @@ Inwiefern haben der Senat beziehungsweise die zuständige Behörde seit 2015 meh
 
 In welchem Umfang haben der Senat beziehungsweise die zuständige Behörde seit 2011 und bis 2015 mobile Geschwindigkeitsüberwachungen für Motorradfahrer an Unfallschwerpunkten und Strecken, die zum Schnellfahren einladen, eingesetzt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Grundsätzlich werden mobile Geschwindigkeitsüberwachungsmaßnahmen der Polizei im Schwerpunkt an sensiblen Bereichen sowie Unfallhäufungsstellen vorgenommen. Verstöße werden unabhängig der Verkehrsbeteiligungsart geahndet. Insbesondere beim Fehlverhalten von Kradfahrern wird hauptsächlich der Einsatz ziviler Videofahrzeuge und sogenannter Provida-Kräder vorgenommen. Statistiken im Sinne der Fragestellungen werden bei der Polizei nicht geführt.
 
@@ -99,7 +100,7 @@ Wurden seit 2015 die Angebote der Verkehrswacht für Motorradsicherheitstraining
 
 Wurden seit 2011 bis 2015 die Angebote der Verkehrswacht für Motorradsicherheitstrainings evaluiert und gegebenenfalls zu optimiert? Wenn ja, mit welchen Ergebnissen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Nein. Sicherheitstrainings der Verkehrswacht Hamburg e.V. werden nach den Standards des Deutschen Verkehrssicherheitsrates durchgeführt. Innerhalb dieses Rahmens sind die Motorradsicherheitstrainings auch von den Vorkenntnissen der Teilnehmer abhängig und werden zum Teil jeweils auf die Bedürfnisse und Wünsche der Teilnehmer abgestimmt. Wesentlicher Bestandteil der Trainings ist, Gefahrensituationen im Straßenverkehr frühzeitig zu erkennen, sie richtig einzuschätzen und zu vermeiden.
 

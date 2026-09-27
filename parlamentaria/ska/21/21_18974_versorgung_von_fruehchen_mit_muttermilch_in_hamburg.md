@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68664"
@@ -43,19 +44,19 @@ Vor diesem Hintergrund frage ich den Senat:
 
 Ein Perinatalzentrum (perinatal = um die Geburt herum) ist eine Einrichtung für die Versorgung von Schwangeren sowie Früh- und Neugeborenen. Krankenhäuser mit Perinatalzentren sind von ihrer Ausstattung und ihrem Personal auf die besonderen Bedürfnisse dieser Patientengruppe ausgelegt. Die Perinatalzentren bestehen aus den Bereichen Geburtshilfe und Neonatologie. In folgenden Fällen sollte die Geburt in einem Perinatalzentrum stattfinden:
 
- schwerwiegende Erkrankung der Schwangeren,
+– schwerwiegende Erkrankung der Schwangeren,
 
- Schwangerschaftskomplikationen,
+– Schwangerschaftskomplikationen,
 
- vorhersehbare Probleme bei der Geburt,
+– vorhersehbare Probleme bei der Geburt,
 
- Frühgeburt unter 32 Schwangerschaftswochen,
+– Frühgeburt unter 32 Schwangerschaftswochen,
 
- geschätztes Geburtsgewicht unter 1 500 g,
+– geschätztes Geburtsgewicht unter 1 500 g,
 
- Fehlbildungen beim Ungeborenen,
+– Fehlbildungen beim Ungeborenen,
 
- absehbare Erkrankungen des Neugeborenen.
+– absehbare Erkrankungen des Neugeborenen.
 
 Es gibt Perinatalzentren der Level 1 und 2 sowie Krankenhäuser mit perinatalem Schwerpunkt. Sie unterscheiden sich hinsichtlich der Spezialisierung, ihrer Ausstattung und des Personals. Perinatalzentren verfügen in der Neonatologie über die Bereiche Intensivbehandlung und Intensivüberwachung.
 
@@ -91,28 +92,28 @@ Frühgeborene insgesamt
 2017  
 2018  
 PNZ Level 1: Anzahl 5  
-  
+–  
 Asklepios Klinik Altona zusammen mit dem Altonaer  
 Kinderkrankenhaus  
-  
+–  
 Asklepios Klinik Barmbek  
-  
+–  
 Asklepios Klinik Nord  
-  
+–  
 Kath. Marienkrankenhaus zusammen mit dem Kath.  
 Kinderkrankenhaus Wilhelmstift  
-  
+–  
 Universitätsklinikum Hamburg Eppendorf
 
 1 661 1 606
 
 Level 2: Anzahl 2  
-  
+–  
 Albertinen-Krankenhaus zusammen mit dem Altonaer Kinderkrankenhaus  
-  
+–  
 Helios Mariahilf Klinik Hamburg
 
-Perinataler Schwerpunkt: Anzahl 1  Asklepios Klinik Wandsbek
+Perinataler Schwerpunkt: Anzahl 1 – Asklepios Klinik Wandsbek
 
 Jährlich werden rund 330 Frühchen mit einem Geburtsgewicht unter 1 500 g in den Hamburger Perinatalzentren versorgt.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/4748", "20/5524"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49006"
@@ -61,7 +62,7 @@ Wie hoch war die Zahl der Außenprüfungen von sogenannten Einkommensmillionäre
 
 Wie hoch war die Prüfungsquote bei sogenannten Einkommensmillionären im Jahr 2014 und wie hoch wird voraussichtlich die Prüfungsquote 2015 sein?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 2014 wurden 33 Betriebsprüfungen bei sogenannten Einkommensmillionären (siehe Antwort zu 1.) durchgeführt, die zu einem steuerlichen Mehrergebnis von rund 28 Millionen Euro geführt haben. Nach der Berechnungsmethode des BRH (siehe Vorbemerkung) ergibt sich für das Jahr 2014 eine Prüfungsquote von 17,6 Prozent. Die Prüfungsquote für das Jahr 2015 steht noch nicht fest.
 
@@ -110,7 +111,7 @@ Im Oktober 2010 bezahlten Steuerfahnder für Kundendaten der Schweizer Bank Juli
 
 In welcher Höhe wurden bezüglich der Steuersünder-CDs in Hamburg Geldbußen und -strafen sowie Verbandsgeldbußen in den Jahren 2011 bis 2015 erhoben? Bitte aufgelistet nach Jahr.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 20/4748 und Drs. 20/5524. Im Zeitraum von Anfang 2010 bis zum 16. Juni 2015 wurden in Hamburg insgesamt 2.774 Selbstanzeigen erstattet, die in einem zeitlichen Zusammenhang mit dem Ankauf sogenannter Steuer-CDs stehen und bisher zu folgenden bestandskräftigen Mehrsteuern, Geldbußen und Geldstrafen geführt haben:
 

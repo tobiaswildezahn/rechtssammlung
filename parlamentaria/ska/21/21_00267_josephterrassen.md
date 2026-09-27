@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 18
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48396"
@@ -135,6 +136,6 @@ Warum wurde dieses Vorhaben der WHW bisher nicht genehmigt?
 
 Wann ist mit einer Entscheidung über dieses Vorhaben zu rechnen?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Entfällt.

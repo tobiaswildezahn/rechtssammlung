@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9525", "21/9322"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62970"
@@ -43,7 +44,7 @@ Wie viele Pkws sind aktuell im Alstertal und den Walddörfern zugelassen? Bitte 
 
 Wie hat sich die Zahl der zugelassenen Pkws im Alstertal und den Walddörfern seit 2011 entwickelt? Bitte jahresweise zum Stichtag 1. Januar sowie für jeden der Stadtteile und für alle zusammen angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zugelassene private Pkws in ausgewählten Stadtteilen 2011 – 2018 jeweils am 01.01.
 
@@ -306,7 +307,7 @@ Welche unmittelbaren Maßnahmen haben der Senat beziehungsweise die zuständigen
 
 Welche unmittelbaren Maßnahmen leiten der Senat beziehungsweise die zuständigen Behörden aus der mit den Fragen 2. und 3. erfragten Entwicklung der Einwohnerzahl und der Zahl der gemeldeten Pkws im Alstertal und den Walddörfern konkret für die kommenden fünf Jahre ab?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/9322.
 

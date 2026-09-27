@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/2304"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51833"
@@ -61,7 +62,7 @@ Welche Informationen und Maßnahmen werden bei der Aufstellung von Wohncontainer
 
 Welche Informationen über die Aufstellung von Wohncontainern für die öffentliche Unterbringung wurden dem Bezirksamt Wandsbek durch die Behörde für Inneres gegeben?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Bezirksamt wurde über die Planungsgrößen des Vorhabens informiert (Anzahl Container, Platzkapazitäten, Bauzeiten), die Ende 2015 zur Verfügung standen. Die Information der unmittelbaren Anlieger im Gewerbegebiet wurde Ende 2015 durch den Zentralen Koordinierungsstab Flüchtlinge (ZKF) durchgeführt.
 
@@ -75,7 +76,7 @@ Wurden die notwendigen Bauvorlagen (Anzahl und Inhalt der Bauvorlagen ergeben si
 
 Wurde ein Baugenehmigungsverfahren nach § 62 HBauO (Baugenehmigungsverfahren mit Konzentrationswirkung) durchgeführt, wie es bei baulichen Anlagen von Flüchtlingsunterkünften nach BPD 1/2016 notwendig ist?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nein. Eine Baugenehmigung liegt derzeit nicht vor. Im Übrigen siehe Vorbemerkung.
 

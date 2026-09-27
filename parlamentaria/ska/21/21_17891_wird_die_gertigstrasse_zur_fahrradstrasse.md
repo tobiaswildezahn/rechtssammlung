@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 27
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67499"
@@ -174,6 +175,6 @@ Welche Kosten sind mit der aktuellen Planung (Fahrradstraße) verbunden? Sofern 
 
 Welche Kosten wären mit einer Tempo-30-Zonen-Planung verbunden? Sofern diese noch nicht ermittelt wurden: Warum nicht und wer hat dieses wann in Abstimmung mit wem entschieden?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Eine Kostenschätzung beziehungsweise -berechnung ist zu dieser Phase des Planungsprozesses noch nicht aufgestellt worden, da der notwendige Sanierungsaufwand der Fahrbahn derzeit nicht feststeht. Die Untersuchung des Baugrundes wurde bereits beauftragt, steht allerdings noch aus. Grundsätzlich kann festgestellt werden, unabhängig von dem noch zu definierenden Sanierungsaufwand der Fahrbahn, dass die Planung und Umsetzung einer reinen Tempo-30-Zone aufwändiger und kostenintensiver wäre, da bei der Tempo-30-Zone die angrenzenden Einmündungsbereiche der Schinkelstraße, Forsmannstraße, Geibelstraße und Knickweg aufwendig umgebaut werden müssten. In Tempo-30-Zonen gilt regelhaft die Vorfahrtsregelung „rechts vor links“, was dazu führen würde, dass die bereits vorhandenen Aufpflasterungen entfernt werden müssten. Bei der Umsetzung einer Fahrradstraße könnten die Einmündungsbereiche mit ihren Aufpflasterungen bestehen bleiben.

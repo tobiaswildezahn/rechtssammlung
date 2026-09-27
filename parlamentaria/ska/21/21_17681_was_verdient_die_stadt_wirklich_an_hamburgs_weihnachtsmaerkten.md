@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17511", "21/3443", "21/7185", "21/4831"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67275"
@@ -57,7 +58,7 @@ Hat sich die Art der Nutzung beim Weihnachtsmarkt am Rathausmarkt seit dem Jahre
 
 Wie erklärt sich die erhebliche Differenz zwischen der Gebühr, die im Jahre 2015 für den Weihnachtsmarkt am Rathausmarkt eingenommen wurde, und den Gebühren, die in den Folgejahren eingenommen wurden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Art der Nutzung beim Weihnachtsmarkt auf dem Rathausmarkt hat sich nicht grundlegend verändert. Ab dem Jahr 2016 wurde jedoch die Grundlage der Gebührenberechnung dahin gehend modifiziert, dass die nicht bebauten Flächen entsprechend ausgewiesen und seitdem nur mit 0,20 Euro/m² berechnet werden. Im Jahr 2015 wurde die jeweilige Nutzung noch auf diese Flächen umgelegt. Hintergrund für die veränderte Gebührenberechnung ist die vom Rechnungshof der Freien und Hansestadt Hamburg geforderte angemessene Berücksichtigung des wirtschaftlichen Werts von Sondernutzungsgenehmigungen; im Rahmen der Maßnahmenumsetzung hat das Bezirksamt zur Ausgestaltung des Gebührenrahmens drei Kategorien mit gestaffelten Gebührensätzen gebildet. Für gastronomisch genutzte Flächen wird dabei der höchste Gebührensatz erhoben.
 

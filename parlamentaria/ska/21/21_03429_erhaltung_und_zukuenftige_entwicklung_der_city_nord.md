@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 23
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51775"
@@ -133,13 +134,13 @@ Welche Unterhaltungsmaßnahmen werden an den genannten Bauwerken und Anlagen kon
 
 Bei der Unterhaltung der Brücken und Ingenieurbauwerke werden zur Gewährleistung der Verkehrssicherheit folgende Maßnahmen durchgeführt:
 
- Reinigung von Brückenentwässerungsanlagen,
+– Reinigung von Brückenentwässerungsanlagen,
 
- Beseitigung von Stolperstellen,
+– Beseitigung von Stolperstellen,
 
- Korrosionsschutzmaßnahmen an den Brückengeländern und
+– Korrosionsschutzmaßnahmen an den Brückengeländern und
 
- Reparatur der Geh- und Radwegbeschichtung.
+– Reparatur der Geh- und Radwegbeschichtung.
 
 Bei öffentlichen Wegeflächen und Parkanlagen liegt der Schwerpunkt auf Beseitigung von Unfallgefahren sowie allgemeinen Pflegemaßnahmen, wie zum Beispiel Gehölzschnitt und dem Mähen von Rasenflächen.
 
@@ -169,19 +170,19 @@ Ja. Vor dem Hintergrund unterschiedlicher planerischer Entwicklungen und diverse
 
 Die Gesamtkonzeption betrifft:
 
- Sicherung des Leitbildes „Bürostadt im Grünen“
+– Sicherung des Leitbildes „Bürostadt im Grünen“
 
- Sicherung der Parkanlage in ihrer originären Gestaltqualität
+– Sicherung der Parkanlage in ihrer originären Gestaltqualität
 
- Öffnung des Planungsrechts zur Sicherung der Nachnutzung von Bürobauten
+– Öffnung des Planungsrechts zur Sicherung der Nachnutzung von Bürobauten
 
- Verträgliche Nutzungsergänzung sowie strukturelle Nachverdichtung mit ergän-
+– Verträgliche Nutzungsergänzung sowie strukturelle Nachverdichtung mit ergän-
 
 zenden Nutzungen
 
- Stärkung der „Mitte“ (zentrale Zone)
+– Stärkung der „Mitte“ (zentrale Zone)
 
- Stärkere Vernetzung der City Nord mit ihrem Umfeld.
+– Stärkere Vernetzung der City Nord mit ihrem Umfeld.
 
 Nach dem Prinzip „Step-by-Step“ kann sich die City Nord weiterentwickeln, die Mitwirkung der jeweiligen Grundeigentümer vorausgesetzt.
 

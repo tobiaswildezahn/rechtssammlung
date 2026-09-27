@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59094"
@@ -51,7 +52,7 @@ Welche Kenntnisse besitzt der Senat im Hinblick auf die oben beschriebene Proble
 
 Wird die vorschriftsmäßige Händedesinfektion in den Hamburger Krankenhäusern durch die Gesundheitsbehörde kontrolliert?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die zuständige Behörde misst den Vorgaben zur Händehygiene für die Prävention nosokomialer Infektionen in Einrichtungen des Gesundheitswesens eine große Bedeutung zu. Die erforderlichen Anlässe zur Durchführung der hygienischen Händedesinfektion sind mit definierten Zeitbedarfen für das pflegerische und ärztliche Personal in Einrichtungen des Gesundheitswesens verbunden. Im Rahmen betrieblichorganisatorischer Maßnahmen sind entsprechende Zeitfenster durch die medizinischen Einrichtungen vorzuhalten.
 

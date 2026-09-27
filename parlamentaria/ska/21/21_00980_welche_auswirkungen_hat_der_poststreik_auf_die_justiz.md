@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49154"
@@ -56,7 +57,7 @@ a. welche?
 b. woran liegt es, dass in manchen Gegenden Post eintrifft und in  
 anderen nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Streik bei der DPAG ist seit dem 7. Juli 2015 beendet. Nach Angaben der DPAG werden Hilfskräfte, die als Reaktion auf den Streik eingesetzt wurden, nun auch bei der Zustellung der verzögerten Sendungen eingesetzt.
 
@@ -82,17 +83,17 @@ Welche Anweisungen zum Umgang mit dem Poststreik hat es in beziehungsweise für 
 
 Bei der Staatsanwaltschaft Hamburg wurden die Beschäftigten durch die zuständigen Hauptabteilungsleiter angewiesen, laufende Fristen großzügig zu verlängern. Im Übrigen gab es in den Behörden und Ämtern sowie bei den Gerichten keine Vorgaben für das konkrete Vorgehen im Einzelfall. Im Rahmen ihrer Zuständigkeit für die Organisation zentraler Dienstleistungen hat die Finanzbehörde die Behörden und Ämter auf mögliche Beeinträchtigungen durch den Poststreik hingewiesen und empfohlen, eilige Sendungen durch alternative Postdienstleister beziehungsweise Kuriere oder Boten befördern zu lassen. Darüber hinaus wurde mit dem Postdienstleister der Freien und Hansestadt Hamburg vereinbart, dass trotz des Streiks folgende Dienstleistungen aufrechterhalten beziehungsweise sichergestellt werden:
 
-• Tägliche Abholung der Briefpost in den Dienststellen,
+– Tägliche Abholung der Briefpost in den Dienststellen,
 
-• Transport in das Dienstleistungszentrum des Auftragnehmers,
+– Transport in das Dienstleistungszentrum des Auftragnehmers,
 
-• taggleiche Frankierung und
+– taggleiche Frankierung und
 
-• Weitertransport in das zuständige Briefzentrum,
+– Weitertransport in das zuständige Briefzentrum,
 
-• prioritäre Bearbeitung von (insbesondere nachweispflichtigen) Sendungen (förmliche Postzustellaufträge, Einschreiben) sowie
+– prioritäre Bearbeitung von (insbesondere nachweispflichtigen) Sendungen (förmliche Postzustellaufträge, Einschreiben) sowie
 
-• flächendeckende Zustellung in nicht bestreikten Zustellregionen.
+– flächendeckende Zustellung in nicht bestreikten Zustellregionen.
 
 ### Frage 5
 
@@ -110,7 +111,7 @@ Inwiefern können infolge des Streiks beispielsweise Versäumnisurteile nicht er
 
 Wie wird mit Fristsetzungen für Schriftsätze verfahren?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Teilweise konnten Versäumnisurteile mangels Vorliegens einer Zustellungsurkunde nicht erlassen werden. Statistische Erhebungen liegen hierüber nicht vor.
 

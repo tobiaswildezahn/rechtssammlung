@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14975", "21/15085"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64900"
@@ -110,7 +111,7 @@ Welche Kosten verursacht der Abtransport eines Fahrzeugs in der Regel und wer tr
 
 Welche Kosten verursacht die Verwertung und wer trägt diese? In welcher Höhe sind in diesem Zusammenhang im vergangenen und in diesem Jahr jeweils Kosten entstanden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Kosten für den Abtransport, die Verwertung und die Verwahrung unterscheiden sich nach Fahrzeugart, Größe und Gewicht des Fahrzeugs und richten sich nach dem von der Behörde für Inneres und Sport mit dem Vertragspartner der Freien und Hansestadt Hamburg geschlossenen „Vertrag über Abtransport und Verwahrung sowie Verwertung/Entsorgung unbefugt abgestellter herrenloser Kraftfahrzeuge und anderer Straßentransportmittel auf öffentlichem Grund“. Die Kosten je Fahrzeug betragen ab dem 1. November 2018 brutto:
 

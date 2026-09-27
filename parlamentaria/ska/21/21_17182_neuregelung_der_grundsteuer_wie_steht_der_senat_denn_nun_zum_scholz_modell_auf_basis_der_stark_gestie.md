@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 60872
 seiten: 3
 fragen: 7
-einzelfragen: 23
-antwortbloecke: 5
+einzelfragen: 25
+antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66755"
@@ -47,7 +48,7 @@ Hat der Senat beziehungsweise die zuständige Behörde auf Basis des im April vo
 
 Wie bewertet der Senat beziehungsweise die zuständige Finanzbehörde den vom Bundesfinanzminister vorgelegten Referentenentwurf zur Grundsteuerreform?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Referentenentwurf des Bundesministeriums der Finanzen ist zurzeit noch in der Ressortabstimmung, sodass kurzfristige Änderungen noch möglich sind. Im Übrigen ist die Meinungsbildung von zuständiger Behörde und Senat noch nicht abgeschlossen. Die Meinungsbildung der zuständigen Behörde und des Senats im Hinblick auf eine Bewertung des Entwurfsstands zur Grundsteuerreform wird erst auf Basis eines von der Bundesregierung beschlossenen Gesetzentwurfs abgeschlossen werden können.
 
@@ -62,50 +63,97 @@ Siehe Antwort zu 1. und 2. Das Gesetzgebungsverfahren hat bisher noch nicht bego
 ### Frage 4
 
 Wie hoch würde nach dem Referentenentwurf zur Grundsteuerreform bei gleichbleibendem Hebesatz die jährlich zu zahlende Grundsteuer in folgenden Fällen, die bislang bereits als Beispiele der Finanzbehörde aufgeführt wurden, sein:
-4.1. Meiendorf, MFH, Baujahr 1973, circa 273 m Wohnfläche?
-4.2. Klein Flottbek, MFH, Baujahr 1905, circa 401 m Wohnfläche?
-4.3. Alsterdorf, MFH, Baujahr 1958, circa 579 m Wohnfläche?
-4.4. Fischbek, MFH, Baujahr 1954, circa 165 m Wohnfläche?
-4.5. Rotherbaum, MFH, Baujahr 1950, circa 421 m Wohnfläche?
-4.6. Duvenstedt, MFH, Baujahr 1929, circa 220 m Wohnfläche?
-4.7. Curslack, EFH, Baujahr 1932, circa 175 m Wohnfläche?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+Meiendorf, MFH, Baujahr 1973, circa 273 m Wohnfläche?
+
+### Frage 4.2
+
+Klein Flottbek, MFH, Baujahr 1905, circa 401 m Wohnfläche?
+
+### Frage 4.3
+
+Alsterdorf, MFH, Baujahr 1958, circa 579 m Wohnfläche?
+
+### Frage 4.4
+
+Fischbek, MFH, Baujahr 1954, circa 165 m Wohnfläche?
+
+### Frage 4.5
+
+Rotherbaum, MFH, Baujahr 1950, circa 421 m Wohnfläche?
+
+### Frage 4.6
+
+Duvenstedt, MFH, Baujahr 1929, circa 220 m Wohnfläche?
+
+### Frage 4.7
+
+Curslack, EFH, Baujahr 1932, circa 175 m Wohnfläche?
+
+#### Antwort zu Fragen 4, 4.1, 4.2, 4.3, 4.4, 4.5, 4.6 und 4.7
 
 Siehe Antwort zu 1. und 2. Da berechnungsnotwendige Parameter augenblicklich noch erörtert werden, ist eine genaue Berechnung vor Klärung weder möglich noch sinnvoll.
 
 ### Frage 5
 
 In der Sitzung des Haushaltsausschusses am 30.04.2019 hat der Finanzsenator den Vorschlag mitgeteilt, Bodenrichtwerte zu sogenannten Lagen zusammenzufassen, um die Auswirkungen der stark gestiegenen Bodenrichtwerte in Hamburg bei einer wertabhängigen Grundsteuer zu begrenzen.
-5.1. Hält der Senat beziehungsweise die zuständige Finanzbehörde die Zusammenfassung zu Lagen für ein wirksames Instrument, um einen deutlichen Anstieg der Grundsteuerbelastung für Hamburger Haushalte, insbesondere Mieter und Eigentümer in innerstädtischen Lagen, zu verhindern? Wenn ja, warum?
-5.2. Inwiefern kann der Anstieg der Grundsteuer in den unter 4. 1. bis
+
+### Frage 5.1
+
+Hält der Senat beziehungsweise die zuständige Finanzbehörde die Zusammenfassung zu Lagen für ein wirksames Instrument, um einen deutlichen Anstieg der Grundsteuerbelastung für Hamburger Haushalte, insbesondere Mieter und Eigentümer in innerstädtischen Lagen, zu verhindern? Wenn ja, warum?
+
+### Frage 5.2
+
+Inwiefern kann der Anstieg der Grundsteuer in den unter 4. 1. bis
 4. 7. abgefragten Beispielen durch die Zusammenfassung zu Lagen wirksam reduziert werden?
-5.3. Welche Untersuchungen und Berechnungen hat der Senat beziehungsweise die Finanzbehörde bislang zur Beurteilung einer möglichen Zusammenfassung von Bodenrichtwerten zu Lagen im Einzelnen mit welchen Ergebnissen vorgenommen?
+
+### Frage 5.3
+
+Welche Untersuchungen und Berechnungen hat der Senat beziehungsweise die Finanzbehörde bislang zur Beurteilung einer möglichen Zusammenfassung von Bodenrichtwerten zu Lagen im Einzelnen mit welchen Ergebnissen vorgenommen?
 
 ### Frage 6
 
 Weiterhin hat der Finanzsenator in der Sitzung des Haushaltsausschusses am 30.04.2019 den Vorschlag mitgeteilt, für die Bodenrichtwerte nicht einen Stichtag, sondern den Siebenjahreszeitraum zwischen den Hauptfeststellungszeitpunkten heranzuziehen, um die Auswirkungen der stark gestiegenen Bodenrichtwerte in Hamburg zu begrenzen.
-6.1. Hält der Senat beziehungsweise die zuständige Finanzbehörde das Heranziehen des Siebenjahresmedians oder -durchschnitts für ein wirksames Instrument, um einen deutlichen Anstieg der Grundsteuerbelastung für Hamburger Haushalte, insbesondere Mieter und Eigentümer in innerstädtischen Lagen, zu verhindern? Wenn ja, warum?
-6.2. Inwiefern kann der Anstieg der Grundsteuer in den unter 4. 1. bis
-4. 7. abgefragten Beispielen durch das Heranziehen einer Siebenjahresbetrachtung bei den Bodenrichtwerten wirksam reduziert werden?
-6.3. Welche Untersuchungen und Berechnungen hat der Senat beziehungsweise die Finanzbehörde bislang zur Beurteilung der vorgeschlagenen Ermittlung der Bodenrichtwerte über einen Siebenjahreszeitraum im Einzelnen mit welchen Ergebnissen vorgenommen?
-6.4. Ist es zutreffend, dass nach diesem Vorschlag des Finanzsenators, bei der ersten Hauptfeststellung einer reformierten Grundsteuer 2022 der Median oder der Durchschnitt der Bodenrichtwerte von 2015 bis 2022 herangezogen würde? Wenn nein, wie ist der Vorschlag zu verstehen?
 
-#### Antwort zu Fragen 5 bis 6
+### Frage 6.1
+
+Hält der Senat beziehungsweise die zuständige Finanzbehörde das Heranziehen des Siebenjahresmedians oder -durchschnitts für ein wirksames Instrument, um einen deutlichen Anstieg der Grundsteuerbelastung für Hamburger Haushalte, insbesondere Mieter und Eigentümer in innerstädtischen Lagen, zu verhindern? Wenn ja, warum?
+
+### Frage 6.2
+
+Inwiefern kann der Anstieg der Grundsteuer in den unter 4. 1. bis
+4. 7. abgefragten Beispielen durch das Heranziehen einer Siebenjahresbetrachtung bei den Bodenrichtwerten wirksam reduziert werden?
+
+### Frage 6.3
+
+Welche Untersuchungen und Berechnungen hat der Senat beziehungsweise die Finanzbehörde bislang zur Beurteilung der vorgeschlagenen Ermittlung der Bodenrichtwerte über einen Siebenjahreszeitraum im Einzelnen mit welchen Ergebnissen vorgenommen?
+
+### Frage 6.4
+
+Ist es zutreffend, dass nach diesem Vorschlag des Finanzsenators, bei der ersten Hauptfeststellung einer reformierten Grundsteuer 2022 der Median oder der Durchschnitt der Bodenrichtwerte von 2015 bis 2022 herangezogen würde? Wenn nein, wie ist der Vorschlag zu verstehen?
+
+#### Antwort zu Fragen 5, 5.1, 5.2, 5.3, 6, 6.1, 6.2, 6.3 und 6.4
 
 Die zuständige Behörde prüft Möglichkeiten, wie die Auswirkungen der dynamischen Bodenwertentwicklung in Hamburg auf die zukünftige Grundsteuerberechnung abgemildert werden können; die Meinungsbildung ist hierzu noch nicht abgeschlossen. Im Übrigen nimmt der Senat aus grundsätzlichen Erwägungen auch im vorliegenden Fall für sich in Anspruch, zum Schutz seines internen Beratungs- und Entscheidungsbereichs von Auskünften über die Vorbereitung seiner Entscheidungen einschließlich etwaiger Entwurfsfassungen abzusehen (vergleiche BVerfG, Beschluss vom 30. März 2004 – 2 BvK 1/01 – juris Rn. 44).
 
 ### Frage 7
 
 Laut Presseberichten hält der Finanzsenator eine geringere Steuermesszahl für kommunale Wohnungen und Genossenschaftswohnungen im Zuge der Grundsteuerreform für möglich. Gleichzeitig hat der Finanzsenator der Bürgerschaft in der Debatte zur Grundsteuer am 10.04.2019 auch mitgeteilt, dass es „viele gute private Vermieter“ in Hamburg gibt.
-7.1. Welche Kriterien machen nach Einschätzung des Senats einen guten privaten Vermieter aus und wie viele gute private Vermieter gibt es in etwa in Hamburg?
 
-#### Antwort zu Frage 7
+### Frage 7.1
+
+Welche Kriterien machen nach Einschätzung des Senats einen guten privaten Vermieter aus und wie viele gute private Vermieter gibt es in etwa in Hamburg?
+
+#### Antwort zu Fragen 7 und 7.1
 
 Der Senat hat sich hiermit nicht befasst.
 
-7.2. Hält der Senat eine Differenzierung bei der Steuermesszahl nach der Eigentümerschaft vermieteter Wohnimmobilien für sinnvoll sowie für rechtlich umsetzbar?
+### Frage 7.2
 
-Wenn ja, warum?
+Hält der Senat eine Differenzierung bei der Steuermesszahl nach der Eigentümerschaft vermieteter Wohnimmobilien für sinnvoll sowie für rechtlich umsetzbar? Wenn ja, warum?
+
+#### Antwort zu Frage 7.2
 
 Siehe Antwort zu 1. und 2.

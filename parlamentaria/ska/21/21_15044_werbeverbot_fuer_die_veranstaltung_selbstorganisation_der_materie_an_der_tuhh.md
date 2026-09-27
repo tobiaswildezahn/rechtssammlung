@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64502"
@@ -51,7 +52,7 @@ Hat der Senat von dem beschriebenen Vorgang Kenntnis?
 
 Hält der Senat das Untersagen von Werbung für Veranstaltungen, die sich im Rahmen der Vorgaben des Grundgesetzes bewegen und wissenschaftliche Diskurse aus unterschiedlichen Blickwinkeln bedienen, durch Hochschulleitungen für eine adäquate Maßnahme? Wenn ja, warum? Wenn nein, was gedenkt der Senat zu unternehmen, um dem entgegenzuwirken?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat hat sich damit nicht befasst.
 
@@ -71,7 +72,7 @@ Haben in den letzten fünf Jahren Parteien, deren Gliederungen oder Fraktionen V
 
 Haben in den letzten fünf Jahren Interessenverbände, Unternehmen, Fachgesellschaften, die Bundeswehr oder Standesorganisationen Veranstaltungen oder Versammlungen an der TUHH durchgeführt? Wenn ja, welche, wie häufig, wann und mit welchem Inhalt? (Bitte einzeln und nach Jahren, Ort und Unternehmen/Organisation aufschlüsseln.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Entgeltliche Raumüberlassung:
 

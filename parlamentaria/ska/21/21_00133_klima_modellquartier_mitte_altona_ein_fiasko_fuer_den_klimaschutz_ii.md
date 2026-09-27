@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 41
 antwortbloecke: 21
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15", "20/14648", "20/5283"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48266"
@@ -98,7 +99,7 @@ Bedeutet die Antwort auf meine Frage 5. „Über den allgemeinen Einsatz von Bio
 
 Wenn ja: in welchem Umfang (in MWh)? Wenn nein: Wie sonst und in welchem Umfang wurde Biomasse in der Borsigstraße eingesetzt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nein.
 

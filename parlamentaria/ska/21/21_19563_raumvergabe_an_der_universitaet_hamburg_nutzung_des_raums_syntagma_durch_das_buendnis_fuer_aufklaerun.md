@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19066"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69418"
@@ -58,7 +59,7 @@ Welchen rechtlichen Status hat die Fachschaftsrätekonferenz? Woraus ergibt sich
 
 Was sind die gesetzlich definierten Aufgaben der Fachschaftsrätekonferenz? Woraus ergeben sich diese? Falls es diese nicht gibt, woraus ergibt sich die Raumvergabe?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Fachschaften finden ihre Grundlage in § 102 Absatz 4 HmbHG. Das Nähere regelt gemäß § 102 Absatz 4 HmbHG die vom Studierendenparlament zu beschließende Satzung der Studierendenschaft. Nach Auskunft der UHH hat das Studierendenparlament mit dem anerkennenden Beschluss zugleich auch das von der Vollversammlung der Fachschaftsräte beschlossene Konzept und die darin niedergelegten Aufgaben der Fachschaftsrätekonferenz beschlossen, zu deren Erfüllung die Raumvergabe erfolgt.
 

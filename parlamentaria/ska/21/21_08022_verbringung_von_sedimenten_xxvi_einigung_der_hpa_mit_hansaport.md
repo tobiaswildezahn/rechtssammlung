@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1981"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56677"
@@ -49,7 +50,7 @@ Stimmt es, dass durch das Engagement der BWVI eine Einigung zwischen der HPA und
 
 Worüber ist zwischen Hansaport und der HPA eine Einigung erzielt worden? Gibt es gegebenenfalls weitergehende Regelungen zur Beseitigung von Sedimenten, die von den ursprünglichen Vereinbarungen mit den Hafenunternehmen abweichen? Wenn ja, wie weitgehend sind diese?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -79,7 +80,7 @@ Welche Kosten sind der HPA und der Freien und Hansestadt Hamburg durch das urspr
 
 Welche weiteren Kosten sind der Freien und Hansestadt Hamburg und insbesondere der HPA durch die nun erfolgte Einigung mit Hansaport entstanden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 

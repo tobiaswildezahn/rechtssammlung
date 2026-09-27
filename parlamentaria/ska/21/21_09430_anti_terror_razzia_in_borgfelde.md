@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58195"
@@ -53,7 +54,7 @@ Wann stellte er seinen Asylantrag und wann wurde dieser entschieden?
 
 Welchen Schutzstatus hatte der Verdächtige?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Asylantragstellung erfolgte am 7. April 2016. Mit Bescheid vom 30. August 2016 wurde dem Betroffenen subsidiärer Schutz zuerkannt. Die dagegen gerichtete Klage des Betroffenen ist noch beim Verwaltungsgericht anhängig.
 

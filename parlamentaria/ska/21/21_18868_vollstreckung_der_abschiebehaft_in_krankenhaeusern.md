@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/440", "21/11110", "21/12635", "21/16555"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68548"
@@ -61,7 +62,7 @@ Auf welche Weise erfolgt eine Prüfung der Haftfähigkeit von inhaftierten Perso
 
 Welche Folgen ergeben sich, wenn eine Haftunfähigkeit festgestellt wird? Bitte gegebenenfalls zwischen Untersuchungshaft, Strafhaft und Abschiebehaft differenzieren.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Fall eines gerichtlichen Beschlusses über die Verhängung von Abschiebungshaft oder Ausreisegewahrsam erfolgt gemäß § 3 Absatz 2 Hamburgisches Abschiebungshaftvollzugsgesetz eine ärztliche Überprüfung der Haft- und Verwahrfähigkeit im Rahmen des Aufnahmeverfahrens in der Rückführungseinrichtung. Sofern eine Haftund Verwahrfähigkeit nicht (mehr) gegeben ist, erfolgt die unverzügliche Entlassung aus der Abschiebungshaft oder dem Ausreisegewahrsam. Im Übrigen siehe Vorbemerkung.
 
@@ -97,7 +98,7 @@ Wie oft wurde seit dem 01.01.2015 die Abschiebehaft trotz festgestellter Haftunf
 
 Wie häufig wurde seit dem 01.01.2015 Ausreisegewahrsam trotz festgestellter Gewahrsamsunfähigkeit in Krankenhäusern vollzogen? Bitte nach Jahren differenzieren.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 In keinem Fall, siehe auch Antwort zu 2.
 

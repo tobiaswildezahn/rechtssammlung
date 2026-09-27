@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 18
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52598"
@@ -95,7 +96,7 @@ Steht der Senat noch zu den Planinhalten des Bebauungsplanes St. Pauli 42, der e
 
 Inwieweit wurden beim Versetzen der Schilleroper wirtschaftliche und denkmalpflegerische Belange einbezogen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Bebauungsplan ist gültig. Eine Entscheidung über das Versetzen wird in Abhängigkeit von weiteren Planungen beziehungsweise Entscheidungen zu diesen getroffen werden. Im Übrigen: entfällt.
 

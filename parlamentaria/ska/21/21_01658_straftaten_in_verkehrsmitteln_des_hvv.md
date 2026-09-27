@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9889", "20/10375"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49872"
@@ -72,7 +73,7 @@ Welche Maßnahmen seitens des HVV, der Polizei sowie des Senats beziehungsweise 
 
 Welche weiteren Maßnahmen zur Steigerung der Sicherheit im ÖPNV sind seitens des HVV zurzeit in Planung?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 20/9889 und Drs. 20/10375.
 

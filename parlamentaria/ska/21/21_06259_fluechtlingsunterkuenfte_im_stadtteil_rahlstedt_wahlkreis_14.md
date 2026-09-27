@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5109", "21/4327", "21/4635", "21/4923", "21/6222", "21/5812", "21/5621", "21/5453", "21/5124", "21/4734", "21/4401", "21/3950", "21/3915", "21/3646", "21/3227", "21/2837", "21/2599", "21/2232", "21/1906", "21/1568", "21/1271", "21/1002", "21/5635", "21/5756"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54770"
@@ -212,7 +213,7 @@ Mit welchen Linien des ÖPNV sind die zu Frage 1. aufgeführten Einrichtungen an
 
 Wie weit ist jeweils eine Haltestelle des schienengebundenen ÖPNV entfernt (in km Fußweg)?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Standort Verkehrsanbindung
 

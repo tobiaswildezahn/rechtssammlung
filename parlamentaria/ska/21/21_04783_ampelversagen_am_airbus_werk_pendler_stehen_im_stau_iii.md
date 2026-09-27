@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 32
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3924", "21/3353", "21/3343"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53202"
@@ -189,7 +190,7 @@ Welche aktuellen Zahlen zum Verkehrsaufkommen liegen für den Werksverkehr vor? 
 
 Welches durchschnittliche tägliche Verkehrsaufkommen in Bezug auf den Werksverkehr, getrennt nach Kfz und Lkws außerhalb von Sonnund Feiertagen sowie Urlaubszeiten, liegt für 2015 vor? Wenn noch nicht beantwortbar, wann werden diese Zahlen vorliegen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Zum Werksverkehr der Airbus Deutschland GmbH liegen dem Senat keine Kenntnisse vor.
 

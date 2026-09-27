@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/3347"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65235"
@@ -57,7 +58,7 @@ Liegt ein Förderantrag vor?
 
 Liegt eine Entwurfsplanung vor?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nein.
 
@@ -69,7 +70,7 @@ Liegt ein Betriebs- und Veranstaltungskonzept vor? Wenn ja, gewährleistet es de
 
 Wie schätzt der Senat die am 10. Dezember präsentierte Ideensammlung der Galopper und Traber ein?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Erste Vorschläge für ein Betriebs-und Veranstaltungskonzept wurden vorgelegt. Siehe im Übrigen Antwort zu 1.
 
@@ -81,7 +82,7 @@ Liegen dem Senat weitere Machbarkeitsstudien oder andere Studien zur Realisierun
 
 Wann startet die konkrete Projektplanung, für die der Senat bereits im Jahr 2009 1,4 Millionen Euro bewilligt hat?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 19/3347. Diese Planung wurde damals nicht weiter verfolgt.
 

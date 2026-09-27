@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9031"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61923"
@@ -120,7 +121,7 @@ Welche beruflichen oder akademischen Qualifikationen weisen die Ausländer mit A
 
 Wie viele der Ausländer mit Asylhintergrund, die derzeit in der Unterkunft untergebracht sind, gehen aktuell einer sozialversicherungspflichtigen Beschäftigung nach? Zusatzfrage: Sofern weder dem Senat noch der Bundesagentur für Arbeit noch f & w fördern und wohnen AöR hierüber (Ziffer 13) Informationen vorliegen, welche Angaben können denn gemacht werden, wie viele Ausländer mit Asylhintergrund aus dieser Wohnanlage seit ihrem Aufenthalt in Deutschland bisher in ein sozialversicherungspflichtiges Arbeitsverhältnis vermittelt wurden?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Eine unterkunftsbezogene Auswertung ist nicht möglich.
 

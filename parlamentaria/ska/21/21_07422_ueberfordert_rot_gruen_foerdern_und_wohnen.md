@@ -14,6 +14,7 @@ fragen: 42
 einzelfragen: 72
 antwortbloecke: 42
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4181", "21/4940", "21/6607", "21/5222", "21/7420", "21/2837", "21/6898", "21/5152", "21/2725", "21/1395", "21/7389", "21/5892", "21/6051", "21/7285", "21/4599"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56034"
@@ -479,53 +480,53 @@ Welche Freizeitangebote gibt es in den Unterkünften?
 
 Das Freizeitangebot richtet sich stark nach den Möglichkeiten des Standortes/Bezirkes sowie dem untergebrachten Klientel und den Freiwilligen vor Ort. Es gibt daher ein weites Spektrum an Angeboten wie zum Beispiel:
 
-• Fahrradverleih,
+– Fahrradverleih,
 
-• Schach,
+– Schach,
 
-• Musikgruppe/Singen und Spielen,
+– Musikgruppe/Singen und Spielen,
 
-• Handarbeitsgruppen,
+– Handarbeitsgruppen,
 
-• Nähstube,
+– Nähstube,
 
-• Gartengestaltung,
+– Gartengestaltung,
 
-• Kunst/Malen und Gestalten,
+– Kunst/Malen und Gestalten,
 
-• Basteln,
+– Basteln,
 
-• Kinderdisco,
+– Kinderdisco,
 
-• Street Soccer,
+– Street Soccer,
 
-• Yoga,
+– Yoga,
 
-• Aufenthaltsräume/TV-Räume,
+– Aufenthaltsräume/TV-Räume,
 
-• Kicker,
+– Kicker,
 
-• Tischtennis,
+– Tischtennis,
 
-• Teemobil,
+– Teemobil,
 
-• Spielzeugverleih,
+– Spielzeugverleih,
 
-• Spielmobile/Spieltiger,
+– Spielmobile/Spieltiger,
 
-• Puppentheater, Handpuppen basteln,
+– Puppentheater, Handpuppen basteln,
 
-• Laufgruppen,
+– Laufgruppen,
 
-• Elterncafé, Frauencafé, Willkommenscafé, Begegnungscafé,
+– Elterncafé, Frauencafé, Willkommenscafé, Begegnungscafé,
 
-• Boxen,
+– Boxen,
 
-• Frauentanz,
+– Frauentanz,
 
-• Gymnastikgruppe,
+– Gymnastikgruppe,
 
-• Bibliothek.
+– Bibliothek.
 
 ### Frage 31
 

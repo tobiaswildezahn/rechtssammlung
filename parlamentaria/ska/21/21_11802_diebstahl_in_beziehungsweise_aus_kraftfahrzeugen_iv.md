@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10437", "21/5894", "21/3956"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61044"
@@ -50,7 +51,7 @@ Wie hat sich die Zahl von Diebstählen in/aus Kraftfahrzeugen (PKS- Schlüssel *
 
 Wie hat sich entsprechend zu Frage 1. die Aufklärungsquote im Jahr 2017 monatsweise entwickelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Netto-Monatsfallzahlen und kumulative Auswertungen für den Zeitraum Januar bis Dezember 2017 liegen in der PKS programmseitig lediglich für den Bereich Hamburg gesamt vor; für die Monate Januar bis August 2017 siehe Drs. 21/10437, ab September 2017 siehe Anlage 1.
 

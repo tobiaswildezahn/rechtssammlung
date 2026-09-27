@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58837"
@@ -69,7 +70,7 @@ Wie viele Teilnehmer hat es in dem Förderprogramm seit Beginn der Einführung 2
 
 Wie viele Teilnehmer haben sich seit Beginn der Einführung 2012 beworben? Bitte jährlich nach Einstellungstermin und nach Geschlecht differenziert angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Seit Einführung der Maßnahmen aufgrund der HmbBQFG, datiert vom 19.06.2012, und der Verordnung zur Ausführung des Gesetzes (HmbBQFG-VO-Lehramt), datiert vom 04.06.2013, hat es ab dem 01.08.2013 insgesamt 149 Teilnehmende in der APQ gegeben. In der Tabelle sind die Teilnehmenden angegeben, die die Anpassungsqualifizierung tatsächlich begonnen haben. Die Anzahl der Zulassungen kann von diesen Zahlen abweichen.
 

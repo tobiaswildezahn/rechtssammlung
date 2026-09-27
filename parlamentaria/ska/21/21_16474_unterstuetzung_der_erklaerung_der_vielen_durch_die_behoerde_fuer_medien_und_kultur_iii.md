@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15134", "21/14041", "21/16473"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65994"
@@ -80,7 +81,7 @@ Hat sich die Behörde für Kultur und Medien (BKM) seiner Zeit mit dem Autor Uwe
 
 Warum solidarisiert sich die BKM mit einem Verein – getragen von nahezu der gesamten Hamburger öffentlichen und öffentlich geförderten Kulturszene –, der sich gegen „rechts“ (oder was man dafür hält), nicht aber gleichzeitig gegen „links“ stellt, man zwar erklärtermaßen dem Extrem auf der einen Seite, nicht aber auch dem auf der anderen eine Absage erteilt – und überdies hinaus gemeinsame Veranstaltungen mit Linksextremisten durchführt oder diesen Räume zur Verfügung stellt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nein. Siehe Drs. 21/15134 und 21/16473.
 
@@ -92,7 +93,7 @@ Warum macht sich die BKM überhaupt einen so umstrittenen und indifferenten Begr
 
 Welche Parteien und Politiker gehören denn nach Auffassung der BKM zum „Rechtspopulismus“?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die für Kultur und Medien zuständige Behörde teilt weder die Einschätzung des Fragestellers noch die Bedenken hinsichtlich des Dudens und der Bundeszentrale für politische Bildung. Darüber hinaus hat sich die für Kultur und Medien zuständige Behörde damit nicht befasst.
 

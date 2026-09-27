@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 5
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12626", "21/8240"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65056"
@@ -49,11 +50,11 @@ Wird der Zeitplan für die Brandschutzsanierung, wie von der DB angegeben, für 
 
 #### Antwort zu Frage 1
 
- Heimfeld bis Ende 2018,
+– Heimfeld bis Ende 2018,
 
- Hamburg-Harburg (S-Bahn) bis 1. Quartal 2019,
+– Hamburg-Harburg (S-Bahn) bis 1. Quartal 2019,
 
- Harburg Rathaus bis 1.Quartal 2019?
+– Harburg Rathaus bis 1.Quartal 2019?
 
 Die Stationen müssen nach Auskunft der DB AG als Bestandsanlage und während der Betriebszeiten beziehungsweise in kurzen Sperrpausen saniert werden. Erst während der Arbeiten an den Stationen haben sich einige technische Abweichungen von den erwarteten Bedingungen gezeigt, die zunächst weiterer Planung und Anpassung der Baumaßnahmen bedürfen. Im Sinne eines insgesamt möglichst störungsfreien S-Bahn-Betriebs müssen daher Teile der Arbeiten verschoben werden. Die DB AG ist bemüht, eine tragfähige Gesamtlösung der Arbeiten für den Harburger Tunnel zu gewährleisten. Die Prioritäten ändern sich bei den Anpassungen der Planungen nicht. Im Übrigen siehe Drs. 21/12626.
 
@@ -89,6 +90,6 @@ Warum werden Sanierungsmaßnahmen am Gebäude des Harburger Fernbahnhofs zum jet
 
 Wie ist diese Prioritätensetzung zustande gekommen und wie ist diese den Harburger Fahrgästen zu vermitteln?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Sanierungen am Fernbahnhof können sowohl bautechnisch als auch bahnbetrieblich weitgehend unabhängig von den Maßnahmen im S-Bahn-Tunnel stattfinden. Die DB AG versucht unter diesen Randbedingungen so viele Modernisierungs- und Erneuerungsmaßnahmen wie möglich durchzuführen. Ein selektives Abarbeiten würde die Arbeiten weiter verlängern.

@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11650", "21/11643"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61017"
@@ -41,6 +42,6 @@ Leider sah sich der Senat in der Drs. 21/11650 nicht in der Lage, die dem monatl
 
 Wie viele Personen waren in den örU (hier mit Ausweisung Wohnungsloser, wohnberechtigter und nicht wohnberechtigter Zuwanderer) mit Stand Ende Dezember 2017 untergebracht? Bitte auch nach einzelnen Unterkünften aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe hierzu die Neufassung zu Drs. 21/11650 und Drs. 21/11643. Der Drucksachenverweis in Drs. 21/11650 wurde korrigiert.

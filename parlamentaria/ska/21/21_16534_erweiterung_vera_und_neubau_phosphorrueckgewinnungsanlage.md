@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 24
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66057"
@@ -65,7 +66,7 @@ Ist richtig, dass die HSE-Mutter HAMBURG WASSER (HW) und das Recyclingunternehme
 
 Wer errichtet und betreibt die neu zu bauende Anlage zum Recycling des Phosphors aus den Klärschlammaschen nach dem TetraPhos®- Verfahren (TPHH)?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 VERA und KETA befinden sich zu 100 Prozent im Eigentum der HSE und werden von ihr betrieben. HSE und REMONDIS errichten gemeinsam eine Phosphorrecyclinganlage und betreiben diese in der gemeinsamen Gesellschaft Hamburger Phosphorrecyclinggesellschaft mbH. Die Grundsätze der Zusammenarbeit zwischen REMONDIS und HSE sind in einem Konsortialvertrag geregelt. Das patentierte REMONDIS Tetra- Phos-Verfahren wird der Gesellschaft von REMONDIS zur Nutzung für die gesamte Dauer der Zusammenarbeit zur Verfügung gestellt.
 

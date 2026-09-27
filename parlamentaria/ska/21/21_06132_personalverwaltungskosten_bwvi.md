@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54653"
@@ -51,7 +52,7 @@ Wann erfolgte die Neuberechnung der Versorgungsleistungen?
 
 Aus welchen Gründen wurden die Versorgungsleistungen neu berechnet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/5000, Einzelplan 7, Seite 7.
 
@@ -89,6 +90,6 @@ Warum steigt der Ansatz „Kosten der Intendanzleistung Personalverwaltung-, -pl
 
 Warum steigt der Ansatz „Kosten der Intendanzleistung Interner Service pro Mitarbeiter/in“ an?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die für die Planwerte 2017 fortfolgende berücksichtigten Personalkosten basieren auf den Personalkostenverrechnungssätzen und beinhalten die erhöhten Zuschlagssätze für Versorgungsleistungen, Tariferhöhungen in Höhe von 1,5 Prozent p.a. sowie Altersstruktureffekte. Zudem ist ein Rückgang der Beschäftigungsverhältnisse berechnet. Im Ergebnis führen diese Einflussfaktoren zu der angegebenen Erhöhung der Kennzahl.

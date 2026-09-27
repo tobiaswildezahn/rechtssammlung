@@ -14,6 +14,7 @@ fragen: 28
 einzelfragen: 33
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19200", "21/2521", "21/17225"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68966"
@@ -95,11 +96,11 @@ Im Zuge der Vorbereitung und Bearbeitung des Klimaplans fand ein Dialogprozess m
 
 In drei themenbezogenen Fachgesprächen wurde jeweils ein Kreis der Stakeholder zur Hamburger Klimastrategie 2030 beteiligt:
 
- 6. Juni 2018 „Klimastrategie 2030 – Transformation Urbaner Räume“
+– 6. Juni 2018 „Klimastrategie 2030 – Transformation Urbaner Räume“
 
- 14. Juni 2018 „Klimastrategie 2030 – Green Economy“
+– 14. Juni 2018 „Klimastrategie 2030 – Green Economy“
 
- 14. September 2018 „Fortschreibung Hamburger Klimaplan: Klimafreundliche
+– 14. September 2018 „Fortschreibung Hamburger Klimaplan: Klimafreundliche
 
 Gesellschaft“.
 
@@ -334,33 +335,33 @@ Die Maßnahmen des „Bündnis für die Industrie“ im Bereich „Industrie und
 
 Die folgenden Maßnahmen des Transformationspfads wurden aus der Arbeitsgruppe „Industrie und Forschung“ des „Bündnis für die Industrie“ in den Klimaplan eingespeist:
 
- Überlegungen zur Institutionalisierung des Energieforschungsverbundes Hamburg
+– Überlegungen zur Institutionalisierung des Energieforschungsverbundes Hamburg
 
 (EFH)
 
- Vermehrtes Einbringen von Klimaschutz und Ökoeffizienz in die Cluster: Cluster
+– Vermehrtes Einbringen von Klimaschutz und Ökoeffizienz in die Cluster: Cluster
 
 Erneuerbare Energien Hamburg (EEHH), Cluster Hamburg Aviation (HAv), Maritimes Cluster Norddeutschland (MCN), Cluster Life Science Nord (LSN)
 
- Transfer und Innovationsförderung an Hochschulen
+– Transfer und Innovationsförderung an Hochschulen
 
- Förderprogramme InnoRampUp/InnoFounder: Vorschlag zur Ausweitung der Ziel-
+– Förderprogramme InnoRampUp/InnoFounder: Vorschlag zur Ausweitung der Ziel-
 
 gruppe auf „Impact Startups“
 
- Aufbau eines Demonstrationszentrums Sektorenkopplung
+– Aufbau eines Demonstrationszentrums Sektorenkopplung
 
- „BLANCAIR“ („Carbon capturing“ – Windkraftanlage zur Erzeugung synthetischer
+– „BLANCAIR“ („Carbon capturing“ – Windkraftanlage zur Erzeugung synthetischer
 
 Gase/Flüssigtreibstoffe)
 
- Thematisch orientierte Matching-Veranstaltungen Industrie/Forschung
+– Thematisch orientierte Matching-Veranstaltungen Industrie/Forschung
 
- Initiierung von gezielten Stiftungsprofessuren in Kooperation mit Industrie und
+– Initiierung von gezielten Stiftungsprofessuren in Kooperation mit Industrie und
 
 Wirtschaft
 
- Gezielte Förderung von Promotionen in Kooperation mit der Industrie für die
+– Gezielte Förderung von Promotionen in Kooperation mit der Industrie für die
 
 Industrie der Zukunft
 

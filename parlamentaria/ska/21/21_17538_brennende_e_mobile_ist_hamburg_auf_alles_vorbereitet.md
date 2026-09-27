@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67131"
@@ -85,19 +86,19 @@ Wie wird der erhöhte Wasserbedarf zur Löschung und der längeren Kühlung anti
 
 Für den Löschwasserbedarf stehen verschiedene Löschwasserquellen zur Verfügung:
 
- Hydranten-System von HAMBURG WASSER,
+– Hydranten-System von HAMBURG WASSER,
 
- offene Gewässer,
+– offene Gewässer,
 
- Fahrzeugtank der Löschfahrzeuge (1 600 l),
+– Fahrzeugtank der Löschfahrzeuge (1 600 l),
 
- Abrollbehälter-Wasser (AB-Wasser) (10 m³),
+– Abrollbehälter-Wasser (AB-Wasser) (10 m³),
 
- befüllte Intermediate Bulk Container (IBC) (je 4 m³) auf den Gerätewagen-Rüst
+– befüllte Intermediate Bulk Container (IBC) (je 4 m³) auf den Gerätewagen-Rüst
 
 (GWR 3) der Freiwilligen Feuerwehr (FF),
 
- Wasserversorgungswehren der Freiwilligen Feuerwehr (FF).
+– Wasserversorgungswehren der Freiwilligen Feuerwehr (FF).
 
 ### Frage 4
 

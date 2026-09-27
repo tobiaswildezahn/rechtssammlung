@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 5
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69799"
@@ -43,7 +44,7 @@ Wie hat sich die Anzahl der registrierten Wohnungseinbrüche (PKS 435*) im Janua
 
 Welche Erkenntnisse liegen der Polizei über aktuell agierende Einbrecherbanden vor? Gab es im Januar 2020 bereits Festnahmen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Wohnungseinbruchszahlen im Jahr 2019 sind erneut zurückgegangen. Der Rückgang gegenüber dem Vorjahr betrug 6,3 Prozent, die Fallzahl ist auf 4 313 Taten zurückgegangen.
 

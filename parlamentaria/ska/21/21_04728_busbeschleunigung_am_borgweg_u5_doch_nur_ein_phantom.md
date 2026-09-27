@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53156"
@@ -103,7 +104,7 @@ In welcher Form wurde bisher die vom Senat beziehungsweise der zuständigen Beh�
 
 Wo genau soll nach dem derzeitigen Stand der Planung die Streckenführung der Linie U5 im Bereich der U-Bahn-Station Borgweg erfolgen und wo sind der Bahnsteig sowie die Ein- und Ausgänge der Haltestelle Borgweg zurzeit geplant?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Linie U5 soll nach derzeitigem Planungsstand eine Haltestelle „Borgweg“ und somit eine Umsteigemöglichkeit zur Linie U3 erhalten. Die Überlegungen hierzu befinden sich in einem sehr frühen Stadium. Die Machbarkeitsuntersuchung für den Bereich City Nord – Innenstadt – Siemersplatz wird im Laufe des Jahres 2016 beginnen. Die Untersuchung soll die Errichtung des genauen Standortes der Haltestelle zur Linie U5 und somit auch der Übergang zur Linie U3 ermitteln. Da mit einem Abschluss der Planungen – insbesondere des Planfeststellungsverfahrens – für diesen Teil der Linie U5 einerseits voraussichtlich nicht vor dem Jahr 2023 zu rechnen ist, andererseits jedoch aus Sicht des Busverkehrs am Borgweg Handlungsbedarf besteht, müssen die Maßnahmen der Busbeschleunigung dort realisiert werden.
 

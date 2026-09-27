@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1128"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49844"
@@ -84,13 +85,13 @@ An welchen der Hamburger Universitäten und Hochschulen werden derzeit englischs
 
 An der HAW können die Gasthörerinnen und Gasthörer an ausgewählten Veranstaltungen teilnehmen; zum Wintersemester 2015/2016 sind dies Veranstaltungen aus den vier Departments
 
- Medientechnik;
+– Medientechnik;
 
- Wirtschaft;
+– Wirtschaft;
 
- Informations- und Elektrotechnik
+– Informations- und Elektrotechnik
 
- sowie Gesundheitswissenschaften, siehe Anlage.
+– sowie Gesundheitswissenschaften, siehe Anlage.
 
 Darüber hinaus hat die UHH ein Programm zur strukturierten Hinführung von studieninteressierten Flüchtlingen zu einem Regelstudium entwickelt, welches Module vorsieht, in denen die Flüchtlinge ausgewählte Veranstaltungen auf Englisch und Deutsch besuchen, welche die Fakultäten aus ihrem regulären Curriculum zur Verfügung stellen. Die Abstimmung mit den Fakultäten zur Auswahl der Veranstaltungen läuft derzeit noch.
 

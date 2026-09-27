@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3264"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51859"
@@ -55,7 +56,7 @@ Wie viele Fälle wurden jeweils in der Hauptabteilung IV und der Abteilung 72 pr
 
 Wie viele Fälle davon betreffen den Kinderschutz?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 2010  
 2011  
@@ -117,7 +118,7 @@ Wie lang ist die durchschnittliche Fallbearbeitungszeit jeweils in der Hauptabte
 
 Wie lange ist die durchschnittliche Fallbearbeitungszeit jeweils in der Hauptabteilung IV und in der Abteilung 72 für Fälle, die den Kinderschutz betreffen? Bitte nach Jahren seit 2010 aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 2010  
 2011  

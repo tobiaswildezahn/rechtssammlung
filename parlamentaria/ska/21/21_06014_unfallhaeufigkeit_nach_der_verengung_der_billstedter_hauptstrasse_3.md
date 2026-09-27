@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/112", "21/892"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54529"
@@ -44,7 +45,7 @@ Wie viele Unfälle sind auf dieser Strecke für den Zeitraum vom
 
 Um welche Unfallarten handelt es sich hierbei und was waren jeweils die genauen Ursachen? Bitte aufschlüsseln nach Personen- und Sachschäden, unter Angabe von Datum und Uhrzeit.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Verkehrsunfalllage ist durch eine Abfrage in der Unfalldatenbank Elektronische Unfalltypensteckkarte (EUSka) am 19. September 2016 ermittelt worden. Die Zahlen für das Jahr 2016 sind vorläufig.
 

@@ -11,9 +11,10 @@ fraktionen: ["AfD"]
 vorgang: 58476
 seiten: 5
 fragen: 11
-einzelfragen: 17
-antwortbloecke: 11
+einzelfragen: 18
+antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6137", "21/13808", "21/12260", "21/6800", "20/4967", "21/9506", "21/13845", "21/10129", "20/4466", "21/10871", "20/1891", "21/1853"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64162"
@@ -147,7 +148,11 @@ Welchen finanziellen Beitrag hat die Freie und Hansestadt Hamburg für die jewei
 
 Ab dem Jahr 2014 werden Zuwendungen ab 1.000 Euro als Zuwendungsberichte im Transparenzportal veröffentlicht (siehe Drs. 20/4466 sowie http://transparenz.hamburg.de). Die Zuwendungsvorgänge aus dem Jahr 2018 sind noch nicht abgeschlossen und werden erst nach Prüfung des Verwendungsnachweises im Transparenzportal eingestellt. Im Übrigen siehe Drs. 21/9506, Drs. 21/13845 sowie Drs. 21/10871.
 
-4.1. Woraus bestanden die weiteren Förderleistungen?
+### Frage 4.1
+
+Woraus bestanden die weiteren Förderleistungen?
+
+#### Antwort zu Frage 4.1
 
 Weitere Förderleistungen der Freien und Hansestadt Hamburg sind insbesondere die kostenfreie Bereitstellung von Flächen in den sogenannten Stadtinformationsanlagen (SIA). Folgende Sportgroßveranstaltungen wurden seit 2016 über die SIA- Plakatierung veröffentlicht:
 
@@ -191,9 +196,12 @@ Die Einreichung der Verwendungsnachweise für die Veranstaltungen im Jahr 2018 e
 ### Frage 6
 
 Welche sportlichen Großveranstaltungen stehen bislang für die kommenden Jahre fest?
-6.1. Für welche weiteren Sportgroßveranstaltungen läuft derzeit ein Bewerbungsprozess mit Hamburger Beteiligung?
 
-#### Antwort zu Frage 6
+### Frage 6.1
+
+Für welche weiteren Sportgroßveranstaltungen läuft derzeit ein Bewerbungsprozess mit Hamburger Beteiligung?
+
+#### Antwort zu Fragen 6 und 6.1
 
 Derzeit laufen keine weiteren Bewerbungsprozesse für Sportgroßveranstaltungen nach den in Drs. 20/4967 genannten Kriterien unter Beteiligung der Freien und Hansestadt Hamburg.
 
@@ -208,10 +216,16 @@ Neben den unter 1. genannten Sportgroßveranstaltungen werden nach derzeitigem S
 ### Frage 8
 
 In der Kommentierung zur Dekadenstrategie heißt es im Dekadenziel 4: „Ein Interessensausgleich zwischen den Beteiligten (Veranstaltern, Wirtschaft – insbesondere citynaher Einzelhandel – Behörden, Ämter, Polizei und anderen) erfolgt durch den Eventausschuss Hamburg der Hamburg Marketing GmbH (HMG); Sportveranstaltungen jenseits der TOP TEN unter der Einbeziehung der Infrastrukturplanungen aller Hamburger Bezirke.“ Dies vorausgeschickt fragen wir:
-8.1. Was bedeutet „Interessensausgleich“ konkret und wie erfolgt der Ausgleich im Falle einer sportlichen Großveranstaltung im Hamburger Gebiet?
-8.2. Inwieweit erfolgt der Miteinbezug der „Infrastrukturplanungen aller Hamburger Bezirke“?
 
-#### Antwort zu Frage 8
+### Frage 8.1
+
+Was bedeutet „Interessensausgleich“ konkret und wie erfolgt der Ausgleich im Falle einer sportlichen Großveranstaltung im Hamburger Gebiet?
+
+### Frage 8.2
+
+Inwieweit erfolgt der Miteinbezug der „Infrastrukturplanungen aller Hamburger Bezirke“?
+
+#### Antwort zu Fragen 8, 8.1 und 8.2
 
 Siehe Drs. 20/1891 und Drs. 21/1853.
 

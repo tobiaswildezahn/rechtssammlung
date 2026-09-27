@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51447"
@@ -76,15 +77,15 @@ Unter Berücksichtigung der Ergebnisse der BMU-Studie zur „Akzeptanz und Umwel
 
 Zur Verringerung der Belastungen für die Nachbarschaft und zur Steigerung der Akzeptanz der Windenergie sind in Hamburg folgende Maßnahmen vorgesehen:
 
-• Verzicht auf den Einsatz der grellen Xenon-Befeuerung zugunsten einer LED- Technik
+– Verzicht auf den Einsatz der grellen Xenon-Befeuerung zugunsten einer LED- Technik
 
-• Synchronisation der Befeuerung bei räumlich zusammenstehenden Anlagen (zum Beispiel in Windfarmen)
+– Synchronisation der Befeuerung bei räumlich zusammenstehenden Anlagen (zum Beispiel in Windfarmen)
 
-• Sichtweitenregulierung, das heißt Beschränkung der Nennlichtstärke in Abhängigkeit von der Sichtweite
+– Sichtweitenregulierung, das heißt Beschränkung der Nennlichtstärke in Abhängigkeit von der Sichtweite
 
-• Mögliche Abschirmung der Befeuerung nach unten
+– Mögliche Abschirmung der Befeuerung nach unten
 
-• Wenn möglich Kennzeichnung nur an Anlagen der Peripherie einer Windfarm (bei „Blockbildung“ der Anlagen)
+– Wenn möglich Kennzeichnung nur an Anlagen der Peripherie einer Windfarm (bei „Blockbildung“ der Anlagen)
 
 So sind bei den neuen Anlagen zum Beispiel in Francop und Neuengamme West bereits seitens der Genehmigungsbehörde (BUE) im Genehmigungsbescheid zur Minimierung der Beeinträchtigung durch Lichtimmissionen für die Nachbarschaft sowohl LED-Befeuerung als auch für das weißblitzende Mittelleistungsfeuer tagsüber sowie für die Nachtbefeuerung die Sichtweitenregulierung festgelegt worden.
 

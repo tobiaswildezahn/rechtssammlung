@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3038"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51419"
@@ -57,6 +58,6 @@ Gibt oder gab es in Hamburg Absprachen zwischen Staatsanwaltschaft und Polizei, 
 
 Falls es genannte Absprachen gegeben hat, hatte der Senat hiervon Kenntnis?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/3038. Die dort genannte Information war den zuständigen Fachabteilungen der Justizbehörde und der Behörde für Inneres und Sport bekannt.

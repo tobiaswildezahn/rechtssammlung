@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15446", "21/14339", "21/14290", "21/14042", "21/11627", "21/11343", "21/11759", "21/10441", "21/9096", "21/8708", "21/8611", "21/5315", "21/15399", "20/9849"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65095"
@@ -53,7 +54,7 @@ Wie oft und an welchen Orten wurden jüdische Bürger in Hamburg in den Jahren 2
 
 Aus welchen Quellen speist sich die Antwort des Senats auf Frage 1.?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die polizeistatistische Erfassung von Straftaten der Politisch motivierten Kriminalität (PMK) erfolgt gemäß Vorgaben, Kriterien und Schlagworten (sogenannten Katalogwerten) des bundeseinheitlichen Kriminalpolizeilichen Meldedienstes Politisch motivierte Kriminalität (KPMD-PMK), in dem die Bezeichnung „jüdische Bürger“ kein feststehender Katalogwert ist. Im Rahmen der Bearbeitung von Straftaten werden Angaben zur Religionszugehörigkeit des Opfers außerdem freiwillig und nicht regelhaft erfasst. Die erfragte Handlung „Angriff“ oder „Belästigung“ sind ebenfalls keine polizeilichen Erfassungskriterien. Die erfragten Daten sind daher aus polizeilichen Statistiken nicht zu ermitteln.
 
@@ -70,8 +71,7 @@ davon PMK-links-
 -  
 -  
 -  
-davon PMK-rechts-  
-davon PMK-sonstige/nicht  
+davon PMK-rechtsdavon PMK-sonstige/nicht  
 zuzuordnen-
 
 -
@@ -106,13 +106,13 @@ Welche konkreten Präventivprogramme gibt es und welche Erfolge hat der Senat se
 
 Die Polizei trifft im Sinne der Fragestellung im Rahmen ihrer Zuständigkeit alle erforderlichen Maßnahmen zur Abwehr von Gefahren für die öffentliche Sicherheit und Ordnung und zur Verfolgung von Straftaten. Die aktuelle Gefährdungsbeurteilung für jüdische Objekte in Hamburg wurde zuletzt im Herbst 2018 aktualisiert. Sicherheitsbehörden und weitere zuständige Dienststellen pflegen den engen persönlichen Kontakt mit den dortigen Verantwortlichen. Für einige Objekte bestehen Sicherheitskonzepte und Objektschutzmaßnahmen, die fortgeschrieben werden. Schutzmaßnahmen für Einzelobjekte umfassen (beispielhaft):
 
- Gefährdungsanalyse durch den polizeilichen Staatsschutz;
+– Gefährdungsanalyse durch den polizeilichen Staatsschutz;
 
- Objektbeschreibung mit Schwachstellenanalyse;
+– Objektbeschreibung mit Schwachstellenanalyse;
 
- Umfangreiche Sicherungsvorschläge;
+– Umfangreiche Sicherungsvorschläge;
 
- gegebenenfalls Abschluss einer Nutzungsvereinbarung.
+– gegebenenfalls Abschluss einer Nutzungsvereinbarung.
 
 In diesem Zusammenhang finden immer wieder Gespräche zwischen den Sicherheitsbehörden sowie weiteren zuständigen Dienststellen mit den Verantwortlichen der jüdischen Gemeinden und weiteren Einrichtungen statt.
 

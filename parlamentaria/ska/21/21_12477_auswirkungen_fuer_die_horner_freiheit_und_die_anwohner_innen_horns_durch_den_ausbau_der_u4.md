@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61791"
@@ -107,7 +108,7 @@ Gab es konkrete Gespräche mit der Horner Freiheit bezüglich des Ausbaus?
 
 Wann und welche Veranstaltungen gab es zur Information oder Beteiligung der Einwohner/-innen des Stadtteiles?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 

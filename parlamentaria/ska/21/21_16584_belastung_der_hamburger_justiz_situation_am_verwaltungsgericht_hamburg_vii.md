@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14817", "21/12994"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66111"
@@ -111,7 +112,7 @@ Wie haben sich die Zahlen der Neuzugänge von Januar 2018 bis zum 1. Quartal 201
 Wie viele anhängige Verfahren lagen vom 1. Quartal 2018 bis zum
 1. Quartal 2019 in den einzelnen Kammern bezogen auf a. Klagen in allgemeinen Sachen, b. Klagen in Asylsachen, c. Verfahren im einstweiligen Rechtsschutz in allgemeinen Sachen, d. Verfahren im asylrechtlichen Eilverfahren vor? Bitte nach der jeweiligen Kammer insbesondere der Dublin- Verfahren darstellen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/12994.
 
@@ -207,7 +208,7 @@ Welche krankheitsbedingte Fehlzeitenquote ist für das Verwaltungsgericht und da
 
 Wie hoch ist die krankheitsbedingte Fehlzeitenquote für Servicekräfte am Verwaltungsgericht? Wie bewertet der Senat beziehungsweise die zuständige Behörde die Belastungssituation am Verwaltungsgericht anhand der gestiegenen Komplexität der gerichtlichen Verfahren?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Fehlzeiten werden aus dem Personalverwaltungsverfahren „KoPers“ ermittelt. Aufgrund einer aktuellen Mitteilung gibt es Zweifel an der Validität der Ergebnisse. Die Fehlzeiten können daher zurzeit nicht geliefert werden.
 

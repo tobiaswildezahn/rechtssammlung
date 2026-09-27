@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11202", "21/5519"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62357"
@@ -49,21 +50,21 @@ Wie viele dieser 32 Kollegen/-innen haben inzwischen eine neue Beschäftigung ge
 
 Zu den 55 ehemaligen Beschäftigten von BHT hat die BA Folgendes gemeldet:
 
- 30 ehemalige Beschäftigte haben eine Arbeit aufgenommen,
+– 30 ehemalige Beschäftigte haben eine Arbeit aufgenommen,
 
- zwei ehemalige Beschäftigte haben sich bei der BA abgemeldet wegen Eintritts in
+– zwei ehemalige Beschäftigte haben sich bei der BA abgemeldet wegen Eintritts in
 
 das Rentenalter,
 
- sieben ehemalige Beschäftigte haben sich aus sonstigen Gründen bei der BA
+– sieben ehemalige Beschäftigte haben sich aus sonstigen Gründen bei der BA
 
 abgemeldet,
 
- 16 ehemalige Beschäftigte sind noch beziehungsweise wieder in Betreuung bei der
+– 16 ehemalige Beschäftigte sind noch beziehungsweise wieder in Betreuung bei der
 
 BA,
 
- keiner der ehemaligen Beschäftigten bezieht Arbeitslosengeld II.
+– keiner der ehemaligen Beschäftigten bezieht Arbeitslosengeld II.
 
 ### Frage 2
 

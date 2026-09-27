@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8437"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57375"
@@ -101,9 +102,9 @@ Eine Person wurde in die Türkei und eine weitere Person nach Tunesien abgeschob
 
 Bitte Datum der Abschiebung, Staatsangehörigkeit(en), Alter und Geschlecht der Personen angeben.
 
- Datum der Abschiebung: 4. April 2017, türkisch, 20 Jahre alt, männlich
+– Datum der Abschiebung: 4. April 2017, türkisch, 20 Jahre alt, männlich
 
- Datum der Abschiebung: 5. April 2017, tunesisch, 32 Jahre alt, männlich
+– Datum der Abschiebung: 5. April 2017, tunesisch, 32 Jahre alt, männlich
 
 ### Frage 5
 

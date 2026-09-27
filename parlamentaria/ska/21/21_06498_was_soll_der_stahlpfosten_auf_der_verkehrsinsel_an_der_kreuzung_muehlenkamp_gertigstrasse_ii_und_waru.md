@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/73", "21/6372", "21/4102", "21/1823", "21/5173", "21/5840", "21/6162"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55030"
@@ -106,6 +107,6 @@ Wann hat aus Sicht des Senats beziehungsweise der zuständigen Behörde die Einj
 
 Sofern diese Einjahresfrist inzwischen auch nach Auffassung des Senats abgelaufen sein sollte: Warum liegt der Hamburgischen Bürgerschaft immer noch nicht der beschlossene Evaluationsbericht vor? Ist sichergestellt, dass der Bericht in der nächsten Sitzung des Verkehrsausschusses am 17.11.2016 beraten werden kann? Wenn nein, warum nicht und wer hat dieses wann in Abstimmung mit wem entschieden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/1823, 21/5173, 21/5840 und 21/6162.

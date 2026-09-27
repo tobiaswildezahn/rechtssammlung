@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9298", "21/3170"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59137"
@@ -109,6 +110,6 @@ Wie hoch liegen die Anschaffungs- und Betriebskosten verschiedener Typen von Ret
 
 Sind die in Drs. 21/3170 geplanten Anschaffungen von Drohnen für die Überprüfung von Mülldeponien und zum Auffinden von Brand- oder Glutnestern zwischenzeitlich erfolgt? Wenn ja, wann und zu welchen Kosten wurden durch jeweils wen entsprechende Drohnen beschafft? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Antwort zu 5.

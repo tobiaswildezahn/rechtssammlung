@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11354"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67641"
@@ -44,7 +45,7 @@ Quartal 2019 liegen soll. Von großer Bedeutung ist dabei insbesondere auch eine
 
 Wann genau wird derzeit mit dem Beginn der Baumaßnahme gerechnet?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Planung ist abgestimmt, die Ausschreibung wird vorbereitet und soll im August 2019 veröffentlicht werden. Der Baubeginn ist derzeit für Ende Oktober/Anfang November 2019 geplant.
 
@@ -73,7 +74,7 @@ Aus welchen konkreten Gründen kam es im bisherigen Projektverlauf zu zeitlichen
 Warum genau konnte der im Vertrag mit dem zur Objektplanung beauftragten Ingenieurbüro vereinbarte Termin eines Baubeginns am
 01.07.2019 nicht eingehalten werden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Es waren umfangreiche Abstimmungen (Lage der Zufahrten, Marktaufstellung, Baumfällungen) mit den Planungsbeteiligten (Träger öffentlicher Belange, Marktbeschicker, Gremien der Bezirksversammlung et cetera) erforderlich.
 

@@ -11,9 +11,10 @@ fraktionen: ["AfD"]
 vorgang: 58162
 seiten: 7
 fragen: 9
-einzelfragen: 7
-antwortbloecke: 7
+einzelfragen: 10
+antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63732"
@@ -415,12 +416,18 @@ Wie viele Übungsleiter der TAG sind derzeit für den HSB tätig?
 
 Es sind 52 Übungsleiter in den TAG tätig. Davon sind 16 Übungsleiter direkt über den HSB beschäftigt, 36 über eine TAG-Kooperation zwischen HSB und Vereinen.
 
-9.1. Welche Gesamtmittel wurden im Jahre 2017 für die Bezahlung der Übungsleiter aufgebracht? Bitte nach direkter Vergütung über den HSB und indirekt über eine Kooperation HSB/Verein gliedern.
+### Frage 9.1
+
+Welche Gesamtmittel wurden im Jahre 2017 für die Bezahlung der Übungsleiter aufgebracht? Bitte nach direkter Vergütung über den HSB und indirekt über eine Kooperation HSB/Verein gliedern.
+
+#### Antwort zu Frage 9.1
 
 Die Vergütung im Jahr 2017 über den HSB betrug 21.255 Euro. Die Vergütung über die TAG-Kooperation zwischen HSB und Vereinen betrug 95.350 Euro.
 
-9.2. Hat sich der monatliche Vergütungssatz zur Finanzierung eines Übungsleiters seit der Einführung des Talentprogramms verändert?
+### Frage 9.2
 
-Falls ja: inwieweit?
+Hat sich der monatliche Vergütungssatz zur Finanzierung eines Übungsleiters seit der Einführung des Talentprogramms verändert? Falls ja: inwieweit?
+
+#### Antwort zu Frage 9.2
 
 Nein.

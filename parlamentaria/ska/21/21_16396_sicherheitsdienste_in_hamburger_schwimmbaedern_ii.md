@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13920", "21/14302"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65900"
@@ -94,7 +95,7 @@ Wie hat sich der Personalbestand in den Schwimmbädern der BLH im Gesamtjahr 201
 
 Um eine die Entwicklung der Anzahl der Beschäftigten darzustellen, werden vergleichsweise auch die Daten zu 2017 dargestellt:
 
- Festangestellte Beschäftigte in den Bädern (Beschäftigtenanzahl im Jahresdurch-
+– Festangestellte Beschäftigte in den Bädern (Beschäftigtenanzahl im Jahresdurch-
 
 schnitt):
 
@@ -102,7 +103,7 @@ schnitt):
 
 2018: 354,7
 
- Beschäftigte auf Abruf und geringfügig Beschäftigte (VZÄ im Jahresdurchschnitt):
+– Beschäftigte auf Abruf und geringfügig Beschäftigte (VZÄ im Jahresdurchschnitt):
 
 2017: 12,8
 

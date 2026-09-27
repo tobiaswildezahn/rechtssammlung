@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 16
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54864"
@@ -55,7 +56,7 @@ Ist es richtig, dass es sich bei dem genannten Tatverdächtigen um einen heute 3
 
 Ist es richtig, dass diese Person wegen versuchten Totschlags zu einer mehrjährigen Haftstrafe verurteilt wurde? Wenn ja, wann erfolgte die rechtskräftige Verurteilung genau? Zu welcher Haftstrafe wurde die Person genau verurteilt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nein, siehe Vorbemerkung.
 

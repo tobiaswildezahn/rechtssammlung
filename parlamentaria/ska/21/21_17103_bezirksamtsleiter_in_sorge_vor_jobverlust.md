@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66651"
@@ -55,7 +56,7 @@ Trifft es zu, dass die SPD in Hamburg-Mitte mit dem Gesicht von Falko Droßmann 
 
 Hat Falko Droßmann beim Senat oder einer zuständigen Stelle um Erlaubnis für das Werben auf Plakaten für eine Partei und/oder Kandidaten einer Partei gebeten oder hat er den Senat oder die zuständige Stelle darüber informiert? Wenn ja, wann, bei wem und mit welchem Ergebnis?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ja, als stellvertretender Kreisvorsitzender der SPD Hamburg-Mitte. Im Übrigen siehe Vorbemerkung.
 

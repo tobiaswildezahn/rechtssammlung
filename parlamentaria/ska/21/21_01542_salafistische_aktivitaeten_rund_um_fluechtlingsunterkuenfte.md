@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1306", "20/13460", "21/476", "21/954"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49748"
@@ -44,15 +45,15 @@ Wie viele Fälle von salafistischen Aktivitäten in der Nähe von Flüchtlingsun
 
 Ehrenamtliche Helfer und Mitarbeiter des zuständigen Sicherheitsunternehmens haben der Polizei drei entsprechende Sachverhalte geschildert:
 
- Am 5. September 2015 gegen 19 Uhr haben fünf südländisch/arabisch aussehen-
+– Am 5. September 2015 gegen 19 Uhr haben fünf südländisch/arabisch aussehen-
 
 de Personen Korane und Flyer von außen durch den Zaun des Messegeländes an Flüchtlinge gereicht.
 
- Am 6. September 2015 gegen 16 Uhr ist im Eingangsbereich Süd der Messehallen
+– Am 6. September 2015 gegen 16 Uhr ist im Eingangsbereich Süd der Messehallen
 
 eine Kontaktaufnahme von fünf als südländisch/arabisch beschriebenen Personen mit Flüchtlingen beobachtet worden.
 
- Am 6. September 2015 gegen 19.30 Uhr verteilte eine südländisch/arabisch aus-
+– Am 6. September 2015 gegen 19.30 Uhr verteilte eine südländisch/arabisch aus-
 
 sehende Personengruppe im Eingangsbereich Süd der Messehallen Sachspenden.
 

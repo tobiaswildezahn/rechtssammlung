@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/177", "21/31"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48327"
@@ -43,7 +44,7 @@ Wann haben sich welche Ämter und welche Behörden mit der Überprüfung der Ein
 
 Welche Anregungen oder Einwendungen sind von welchen Trägern öffentlicher Belange abgegeben worden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Evaluierung ist noch nicht abgeschlossen. Sie hat im Januar 2015 begonnen und soll bis Ende Mai 2015 fortgesetzt werden. Beteiligt sind das Bezirksamt Eimsbüttel, die Behörde für Wirtschaft, Verkehr und Innovation (BWVI), der Landesbetrieb Straßen, Brücken und Gewässer (LSBG), die Behörde für Inneres und Sport (BIS) und der Allgemeine Deutsche Automobil-Club (ADAC) sowie der Allgemeine Deutsche Fahrrad-Club e. V. (ADFC). Weitere Angaben sind derzeit noch nicht möglich.
 
@@ -79,7 +80,7 @@ Zu welchem Zeitpunkt ist mit welchem Auftrag der Datenschutzbeauftragte der Stad
 
 Was hat die Beteiligung des Datenschutzbeauftragten ergeben?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Es werden keine benutzerbezogenen Daten erhoben. Die Aufnahmen werden mit Blickwinkel und Auflösung so angefertigt, dass Gesichter und Kennzeichen nicht erkennbar sind. Die eingesetzten Kameras sind nicht schwenkbar und haben keine ferngesteuerten Zoommöglichkeiten. Sie werden in einer nicht ohne Hilfsmittel erreichbaren Höhe angebracht und mit Schlössern gesichert, um unberechtigte Zugriffe auszuschließen. Nach der Auswertung der Videoaufnahmen werden diese sofort gelöscht.
 
@@ -93,7 +94,7 @@ Wann werden die unmittelbaren Anwohner in welcher Form in die Überprüfung der 
 
 Welche Ortsteile beziehungsweise welche Anwohner in welchen Straßen werden in die Überprüfung der bisherigen Entscheidungen einbezogen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Derzeit läuft die oben genannte Online-Befragung, nicht nur für Anwohner, sondern für alle Nutzer und Nutzerinnen des Harvestehuder Weges unter www.alster-fahrradachsen.de. Hier ist eine aktive Beteiligung möglich und erwünscht.
 

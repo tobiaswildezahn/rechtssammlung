@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4782"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54335"
@@ -35,11 +36,11 @@ Die Wettbewerbsfähigkeit im Bereich der Luftfahrtindustrie hängt auch und vor 
 
 ## Einleitung für die Antworten des Senats
 
- Flugzeugsystemarchitekturen im Lufttransportsystem einschließlich der
+– Flugzeugsystemarchitekturen im Lufttransportsystem einschließlich der
 
 vorhandenen DLR-Einheit inklusive virtueller Entwicklung und Integration,
 
- Flugzeugproduktion, Modifikation, Wartung, Reparatur und Überholung
+– Flugzeugproduktion, Modifikation, Wartung, Reparatur und Überholung
 
 (MRO) – inklusive 3D-Druck im Kontext mit Industrie 4.0 sowie virtueller Produktentwicklung.
 
@@ -65,7 +66,7 @@ Wie ist der Stand der Gespräche mit dem Deutschen Luft- und Raumfahrtzentrum in
 
 Bis wann plant der Senat die Gespräche abzuschließen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Pläne Hamburgs zur Ansiedlung eines DLR-Instituts sind eng mit dem DLR abgestimmt. Hierzu wird eine Erhöhung der Grundfinanzierung des DLR um EUR 10 Millionen Euro erforderlich, davon anteilig 9 Millionen Euro durch den Bund und 1 Million Euro aus Sitzlandbeiträgen. Eine Aufstockung der DLR-Grundfinanzierung ist im Jahr 2015 beim Bund beantragt worden. Das Haushaltsgenehmigungsverfahren des Bundes ist im Dezember abgeschlossen.
 

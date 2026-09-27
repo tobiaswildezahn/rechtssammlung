@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61011"
@@ -89,7 +90,7 @@ Wie viele Räum- und Streufahrzeuge für Straßen hält die Freie und Hansestadt
 
 Sind die unter 6. genannten Fahrzeuge geeignet, gleichzeitig Auto- Fahrbahnen und Fahrrad(schutz-)streifen zu räumen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Für den Winterdienst auf Fahrbahnen stellt die SRH 96 Streu- und Räumfahrzeuge bereit. Diese sind geeignet, gleichzeitig Auto-Fahrbahnen und Fahrrad(schutz)streifen zu räumen.
 

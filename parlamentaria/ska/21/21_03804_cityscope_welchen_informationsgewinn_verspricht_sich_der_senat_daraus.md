@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2864", "21/1110", "21/1409", "21/2879", "21/3710", "21/3771"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52221"
@@ -69,7 +70,7 @@ Wie viele und welche freien Flächen – im Eigentum der Stadt Hamburg sowie im 
 
 Welche dieser Flächen sind dem Zentralen Koordinierungsstab Flüchtlinge, der Behörde für Inneres und Sport und/oder der BASFI bekannt? Welche dieser Flächen wurden bereits mit jeweils welchem Ergebnis geprüft?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 In der für eine Parlamentarische Anfrage zur Verfügung stehenden Zeit ist – aufgrund der erheblichen Datenmenge in unterschiedlichen Systemen – eine Antwort auf die gestellten Fragen nicht möglich.
 

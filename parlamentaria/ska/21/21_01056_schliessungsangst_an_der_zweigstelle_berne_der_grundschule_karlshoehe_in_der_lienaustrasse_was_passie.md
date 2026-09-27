@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 23
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49231"
@@ -69,7 +70,7 @@ Welche konkreten Pläne gibt es seit wann und mit welcher Begründung hinsichtli
 
 Mit welcher Begründung wird gegebenenfalls die Schließung der Zweigstelle Berne an der Lienaustraße als alternativlos behandelt? Sind hierbei allein die derzeitigen und die für 2015/2016 angemeldeten Schülerzahlen ausschlaggebend und inwieweit wurde bei der Entscheidungsfindung nicht lediglich der Ist-Zustand betrachtet, sondern auch die zukünftige Entwicklung in die Gesamtbetrachtung mit einbezogen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Im Rahmen der Schulorganisation und Schulbauplanung wird, wie bei anderen Schulstandorten auch, regelmäßig geprüft, ob aufgrund der Anzahl der im Umfeld wohnenden Kinder eine Zweigstelle wie die Lienaustraße weiterhin als Schulstandort benötigt wird. Die Entwicklung der Schulen wird dabei unter Berücksichtigung der langfristigen Schülerprognose, der vorangegangenen Entwicklung der Schülerzahlen und der geplanten Wohnungsbaumaßnahmen beurteilt.
 
@@ -83,7 +84,7 @@ Welcher Investitionsbedarf bestünde, sofern der Weiterbetrieb der Schule der Sc
 
 In welchem Verhältnis stehen diese notwendigen Investitionen zu den Einsparungen, die durch die Schließung der Schule und die Umleitung der Schüler an andere Schulstandorte erzielt werden könnten?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Für den Standort wurden Investitionsbedarfe von rund 4,2 Millionen Euro ermittelt, die gemäß aktueller Planung langfristig zu tätigen wären und im Fall einer Schließung entfallen würden.
 

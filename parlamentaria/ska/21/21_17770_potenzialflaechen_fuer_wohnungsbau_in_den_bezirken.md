@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67374"
@@ -57,7 +58,7 @@ Wie viele baureife Grundstücke, die den oben genannten Kriterien entsprechen un
 
 Seit wann sind die in Frage 1. abgefragten Grundstücke unbebaut und welches Baurecht liegt in den einzelnen Fällen vor?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

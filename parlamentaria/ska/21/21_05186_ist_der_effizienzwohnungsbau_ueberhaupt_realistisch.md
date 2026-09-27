@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 20
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53664"
@@ -85,7 +86,7 @@ Trifft es zu, dass die Investoren nach den Ausschreibungen der Pilotprojektgrund
 
 Wie vertragen sich derartige Auflagen mit dem übergeordneten Ziel der Baukostensenkung?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Wie in Konzeptausschreibungsverfahren üblich, bestehen in Abstimmung mit dem Bezirksamt und den zuständigen Fachbehörden konzeptionelle Vorgaben.
 

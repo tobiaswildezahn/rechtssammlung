@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56606"
@@ -39,17 +40,17 @@ Dazu gehören insbesondere:
 
 ## Einleitung für die Antworten des Senats
 
- Identitätsfeststellungen,
+– Identitätsfeststellungen,
 
- erste Vernehmungen von Beschuldigten/Betroffenen oder Zeugen,
+– erste Vernehmungen von Beschuldigten/Betroffenen oder Zeugen,
 
- Sicherstellungen oder Beschlagnahmen von Beweismitteln und deren
+– Sicherstellungen oder Beschlagnahmen von Beweismitteln und deren
 
 Auswertung,
 
- Durchsuchungen,
+– Durchsuchungen,
 
- vorläufige Festnahmen.
+– vorläufige Festnahmen.
 
 Vor diesem Hintergrund frage ich den Senat:
 
@@ -71,7 +72,7 @@ Hat die Staatsanwaltschaft Hamburg das unter 1. erfragte Verfahren vor dem Hinte
 
 Falls ja, in welcher Form und mit welchen konkreten Auswirkungen? Wird dieses Verfahren evaluiert und gegebenenfalls wieder verändert?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nein.
 
@@ -85,7 +86,7 @@ b) Ist es richtig, dass die Staatsanwaltschaft Hamburg darauf verzichtet, inform
 
 In welchen gleichgelagerten Fällen (fehlender gültiger Aufenthaltstitel) und mit welcher Begründung veranlasst die Staatsanwaltschaft eine vorläufige Festnahme und die Zuführung in die Untersuchungshaftanstalt Hamburg?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Dezernentinnen und Dezernenten der Staatsanwaltschaften entscheiden in jedem Verfahren orientiert an den Erfordernissen des konkreten Einzelfalls, wie weiter zu verfahren ist. Dabei berücksichtigen sie auch, dass bei Verstößen allein gegen § 95 Absatz 1 Nummer 2 AufenthG (Aufenthalt ohne Aufenthaltstitel) eine Zuführung vor die Haftrichterin beziehungsweise den Haftrichter zum Zwecke des Erlasses eines Haftbefehls grundsätzlich nicht veranlasst ist, da ein Haftbefehl im Hinblick auf europarechtliche Vorgaben regelmäßig nicht erlassen wird. Eine generelle Anweisung an den Zoll besteht nicht.
 

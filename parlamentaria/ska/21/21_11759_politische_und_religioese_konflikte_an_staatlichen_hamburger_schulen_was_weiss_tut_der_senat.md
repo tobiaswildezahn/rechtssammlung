@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 55
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5677", "21/10344", "21/11627", "21/5711", "21/6646", "21/8105", "21/9440"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60993"
@@ -190,7 +191,7 @@ Wie viele und welche Maßnahmen zur Aufklärung über beziehungsweise Thematisie
 
 Wie viele und welche Maßnahmen zur Aufklärung über beziehungsweise Thematisierung von politischen Problemlagen beziehungsweise Zusammenhängen in der islamischen Welt (zum Beispiel Projekttage, Workshops, Aktionen et cetera) gab es seit 2015/2016 bis heute an den Schulen in Hamburg? (Bitte für jedes Schuljahr einzeln nach Schulformen getrennt und nach Art der Veranstaltung unterschieden in absoluten Zahlen in einer eigenen Excel-Tabelle angeben.) a. In welcher Weise war die zuständige Fachbehörde in die Durchführung dieser Aufklärungen/Thematisierungen einbezogen beziehungsweise hat diese begleitet? (Bitte Art der Beteiligung und betroffene Fachabteilung darlegen.)
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Vorbemerkung sowie Drs. 21/11627.
 

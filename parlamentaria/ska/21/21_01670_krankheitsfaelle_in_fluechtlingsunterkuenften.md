@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 29
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1116"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49885"
@@ -47,7 +48,7 @@ Wo findet die Eingangsuntersuchung der Flüchtlinge aktuell statt? Welche Behör
 
 Hat es in letzter Zeit im Vergleich zur Schriftlichen Kleinen Anfrage Drs. 21/1116 Änderungen in der Art und Weise der Untersuchung in Hamburg gegeben? Wenn ja, welche und warum?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das in Drs. 21/1116 angesprochene, seinerzeit noch in der Implementierung befindliche Verfahren, alle ankommenden Personen noch vor einer Verlegung an einen auswärtigen Standort zu untersuchen, wird nun angewandt.
 
@@ -159,7 +160,7 @@ Wer ist für die Gesundheitsversorgung der Flüchtlinge in den Zelten am Hauptba
 
 Findet bei den Flüchtlingen, die in den Zelten untergebracht werden, eine Eingangs- oder sonstige gesundheitliche Untersuchung statt? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Bei dem zurzeit am Hauptbahnhof angebotenen Sanitätsdienst handelt es sich um ein ehrenamtliches Engagement im Bereich der medizinischen Hilfeleistung. Hierbei handelt es sich nicht um eine offizielle Eingangsuntersuchung oder sonstige behördlicherseits vorgeschriebene Untersuchung. Im Übrigen siehe auch Antwort zu 8.
 

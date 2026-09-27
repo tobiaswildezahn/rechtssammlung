@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65670"
@@ -43,7 +44,7 @@ Ist der Vorschlag der Bürger-/-inneninitiative Volkspark zur Errichtung eines R
 
 Ist aus dem unter 1. genannten Vorschlag insbesondere das Ansinnen eines eigenen Fahrradtunnels parallel zum Zugangstunnel zu den Bahnsteigen aufgegriffen worden? Falls nein: weshalb nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Rahmen des Leitprojekts „Machbarkeitsstudien für Radschnellwege“ der Metropolregion Hamburg wurde eine Machbarkeitsstudie für einen Radschnellweg von Elmshorn nach Hamburg beauftragt. Der Untersuchungsraum umfasst auch den Abschnitt zwischen der Grünverbindung nördlich des DESY und dem geplanten Fernbahnhof am Diebsteich und greift damit den Vorschlag der Initiative auf. Der konkrete Verlauf sowie der mögliche Ausbaustandard werden geprüft inklusive Aussagen zur Querung der Bahn. Derzeit läuft die Analysephase. Die Machbarkeitsstudie wird mit der Rahmenplanung Diebsteich abgestimmt.
 

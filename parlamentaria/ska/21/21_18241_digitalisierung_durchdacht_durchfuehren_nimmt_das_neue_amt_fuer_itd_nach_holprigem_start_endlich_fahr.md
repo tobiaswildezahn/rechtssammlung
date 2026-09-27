@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13729", "21/14475", "21/15652"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67887"
@@ -79,41 +80,41 @@ Im Mai 2019 trat die neue Verwaltungsvorschrift IT-Projekte in Kraft. Was sind d
 
 Folgende wesentliche Punkte wurden in der Version 2.0 angepasst:
 
- Eine Präambel wurde hinzugefügt.
+– Eine Präambel wurde hinzugefügt.
 
- Das IT-Projekt wurde analog der Projektgrundsätze der Freien und Hansestadt
+– Das IT-Projekt wurde analog der Projektgrundsätze der Freien und Hansestadt
 
 Hamburg definiert (1.1).
 
- IT-Programme und IT-Portfolien wurden definiert (1.2).
+– IT-Programme und IT-Portfolien wurden definiert (1.2).
 
- Die notwendige Qualifikation von Lenkungsgruppenmitgliedern ist durch eine
+– Die notwendige Qualifikation von Lenkungsgruppenmitgliedern ist durch eine
 
 erfolgreiche Teilnahme an einer FHH-internen Fortbildung nachzuweisen beziehungsweise ein Lenkungsgruppen-Coaching ist durchzuführen (2.2).
 
- Eine Klarstellung, wann agiles Vorgehen gewünscht ist, ist ergänzt worden (3.2).
+– Eine Klarstellung, wann agiles Vorgehen gewünscht ist, ist ergänzt worden (3.2).
 
 SCRUM wird als Methode empfohlen.
 
- IT-Projekte haben nicht mehr vier, sondern drei Phasen (Initialisierung, Umsetzung
+– IT-Projekte haben nicht mehr vier, sondern drei Phasen (Initialisierung, Umsetzung
 
 und Abschluss) (3.3).
 
- Eine Risikoanalyse ist bei der Anmeldung vorzulegen (4.2 h).
+– Eine Risikoanalyse ist bei der Anmeldung vorzulegen (4.2 h).
 
- Für Projekte mit Gesamtkosten von mehr als 1 000 000 Euro sowie für Projekte mit
+– Für Projekte mit Gesamtkosten von mehr als 1 000 000 Euro sowie für Projekte mit
 
 hohen planerischen Unsicherheiten sind Vorprojekte obligatorisch (5.2.3).
 
- Bei agilem Vorgehen ist die Feinkonzeption je Iteration durchzuführen, die Kom-
+– Bei agilem Vorgehen ist die Feinkonzeption je Iteration durchzuführen, die Kom-
 
 munikationsfrequenz der Ergebnisse mit der Lenkungsgruppe ist passend dazu abzustimmen (5.3.3).
 
- Auch Qualitätsmanagement ist laufend durchzuführen, zum Beispiel durch Anwen-
+– Auch Qualitätsmanagement ist laufend durchzuführen, zum Beispiel durch Anwen-
 
 dung der S-O-S-Methode in großen Projekten zur regelmäßigen Standortbestimmung.
 
- Abschlussberichte sind der Lenkungsgruppe und der Senatskanzlei zur Verfügung
+– Abschlussberichte sind der Lenkungsgruppe und der Senatskanzlei zur Verfügung
 
 zu stellen (5.4.1).
 
@@ -149,19 +150,19 @@ Bei IT-Projekten von mehr als 1 Million Euro Gesamtkosten ist laut VV IT-Projekt
 
 Bei der Finanzbehörde im Projekt-Wissenscenter wurden im oben genannten Zeitraum folgende Projekte mit über 1 Million Euro Gesamtkosten zertifiziert:
 
- IT-Projekt „Digitales Standesamt“ (Bezirksamt Hamburg-Nord) am 05.03.2019,
+– IT-Projekt „Digitales Standesamt“ (Bezirksamt Hamburg-Nord) am 05.03.2019,
 
- IT-Projekt „ERP 4.0“ (Kasse.Hamburg) am 03.05.2019,
+– IT-Projekt „ERP 4.0“ (Kasse.Hamburg) am 03.05.2019,
 
- IT-Projekt „Erhaltungsmanagement Grünanlagen“ (Behörde für Umwelt und Ener-
+– IT-Projekt „Erhaltungsmanagement Grünanlagen“ (Behörde für Umwelt und Ener-
 
 gie) am 14.05.2019,
 
- IT-Projekt „DigITAll“ (Landesbetrieb Straßen, Brücken und Gewässer) am
+– IT-Projekt „DigITAll“ (Landesbetrieb Straßen, Brücken und Gewässer) am
 
 25.07.2019,
 
- IT-Projekt „Wohnen 2“ (Behörde für Arbeit, Soziales, Familie und Integration) am
+– IT-Projekt „Wohnen 2“ (Behörde für Arbeit, Soziales, Familie und Integration) am
 
 16.08.2019.
 

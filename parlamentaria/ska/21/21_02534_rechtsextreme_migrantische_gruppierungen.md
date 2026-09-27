@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1549", "20/9849", "21/1986"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50830"
@@ -122,12 +123,12 @@ Wie gedenkt der Senat mit solchen Gruppen umzugehen? a. Die Rekrutierung neuer M
 
 Extremistische Strukturen und Gruppen werden durch das LfV Hamburg im Rahmen des gesetzlichen Auftrages beobachtet. Die Sicherheitsbehörden informieren regelmäßig in Medieninterviews, Vorträgen, über Internetbeiträge und über den jährlich herausgegebenen Verfassungsschutzbericht über die Gefahren des Extremismus und bestimmte Protagonisten der Szene. In Einzelfällen stehen auch Mitarbeiter der Sicherheitsbehörden für Beratungsgespräche zur Verfügung. Zudem fördert der Senat generell die Vorbeugung gegen Rechtsextremismus im Rahmen des Landesprogramms zur Förderung demokratischer Kultur, Vorbeugung und Bekämpfung von Rechtsextremismus mit Handlungsschwerpunkten in den Bereichen:
 
- Vorurteilen und Anfeindungen im öffentlichen Raum begegnen und vorbeugen,
+– Vorurteilen und Anfeindungen im öffentlichen Raum begegnen und vorbeugen,
 
- Kinder und Jugendliche fördern und sensibilisieren,
+– Kinder und Jugendliche fördern und sensibilisieren,
 
- Institutionen unterstützen und Betroffene stärken,
+– Institutionen unterstützen und Betroffene stärken,
 
- Vernetzung fördern, Kompetenzen bündeln (siehe Drs. 20/9849).
+– Vernetzung fördern, Kompetenzen bündeln (siehe Drs. 20/9849).
 
 Die Polizei wird lage- und anlassabhängig tätig und trifft die im Einzelfall erforderlichen Maßnahmen zur Gefahrenabwehr und Strafverfolgung. Im Übrigen siehe Drs. 21/1986.

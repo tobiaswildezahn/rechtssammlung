@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48549"
@@ -93,11 +94,11 @@ Gibt es Wartezeiten bei den Psychiatrischen Institutsambulanzen? Wenn ja, bitte 
 
 Die Wartezeit auf ein Erstgespräch in der Psychiatrischen Institutsambulanz der Abteilungen für Kinder- und Jugendpsychiatrie beträgt nach Auskunft der nachfolgend genannten Krankenhäuser:
 
- im Universitätsklinikum Hamburg-Eppendorf: vier – sechs Wochen;
+– im Universitätsklinikum Hamburg-Eppendorf: vier – sechs Wochen;
 
- in der Asklepios Klinik Harburg: sechs – acht Wochen;
+– in der Asklepios Klinik Harburg: sechs – acht Wochen;
 
- im Katholischen Kinderkrankenhaus Wilhelmstift: zwei – drei Wochen.
+– im Katholischen Kinderkrankenhaus Wilhelmstift: zwei – drei Wochen.
 
 Notfälle werden in der Regel unverzüglich gesehen, diagnostiziert und gegebenenfalls behandelt beziehungsweise weiter verwiesen.
 
@@ -111,7 +112,7 @@ In den Psychiatrischen Institutsambulanzen der oben genannten Krankenhäuser wir
 
 Die Krankenhäuser im Hamburger Stadtgebiet mit Fachabteilungen für Kinder- und Jugendpsychiatrie haben nach der Krankenhausdiagnosestatistik der zuständigen Behörde im Jahr 2013 folgende Diagnosen am häufigsten dokumentiert:
 
- F9 – Verhaltens- und emotionale Störungen mit Beginn in der Kindheit und Jugend,
+– F9 – Verhaltens- und emotionale Störungen mit Beginn in der Kindheit und Jugend,
 
 darunter insbesondere
 
@@ -119,21 +120,21 @@ o F92 – Kombinierte Störung des Sozialverhaltens und der Emotionen;
 
 o F91 – Störungen des Sozialverhaltens;
 
- F3 – Affektive Störungen, darunter insbesondere
+– F3 – Affektive Störungen, darunter insbesondere
 
 o F32 – Depressive Episode;
 
- F4 – Neurotische, Belastungs- und somatoforme Störungen,
+– F4 – Neurotische, Belastungs- und somatoforme Störungen,
 
 darunter insbesondere
 
 o F43 – Reaktionen auf schwere Belastungen und Anpassungsstörungen;
 
- F6 – Persönlichkeits- und Verhaltensstörungen, darunter insbesondere
+– F6 – Persönlichkeits- und Verhaltensstörungen, darunter insbesondere
 
 o F60 – Spezifische Persönlichkeitsstörungen;
 
- F5 – Verhaltensauffälligkeiten mit körperlichen Störungen und Faktoren,
+– F5 – Verhaltensauffälligkeiten mit körperlichen Störungen und Faktoren,
 
 darunter insbesondere
 

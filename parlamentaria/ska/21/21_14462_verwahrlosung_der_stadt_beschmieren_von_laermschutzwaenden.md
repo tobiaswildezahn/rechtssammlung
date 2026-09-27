@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 19
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3440", "21/14368"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63886"
@@ -97,7 +98,7 @@ Jeder, der nicht absichtlich weggeschaut hat, konnte beobachten, dass an besagte
 
 Gibt es innerhalb der Polizei Beamte oder gar eine Gruppe, die sich mit der Ermittlung von Tätern aus diesem Bereich der Graffitiszene befassen? Wenn ja, um wie viele Beamte handelt es sich und wie viele Arbeitsstunden wenden diese ausschließlich für dieses Thema auf?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Sachbearbeitung derartiger Delikte erfolgt je nach Tatort durch die örtlich zuständigen Kriminalkommissariate im LKA 1 oder im Bereich des Hafens durch die Wasserschutzpolizei (WSP 63).
 

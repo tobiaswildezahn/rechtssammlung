@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 18
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12430", "21/3055", "21/3205"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52263"
@@ -217,7 +218,7 @@ Auf welche Weise und mit welchen Mitteln werden vom Senat beziehungsweise der zu
 
 Auf welche Weise und mit welchen Mitteln werden von den Fachbehörden und Bezirksämtern Projekte, in deren Rahmen generationsübergreifendes Engagement stattfindet, besonders unterstützt und gefördert?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Unterstützung des generationsübergreifenden Austausches (zum Beispiel auch in Seniorentreffs) gehört zu den Zielen der Globalrichtlinie über die offene bezirkliche Seniorenarbeit in der Freien und Hansestadt Hamburg und ist nach der Richtlinie über die Förderung von dezentralen Angeboten der Seniorenarbeit in Hamburg förderfähig. Hierfür stellt die zuständige Behörde den Bezirksämtern Mittel in Höhe von insgesamt 2,644 Millionen Euro über die Rahmenzuweisung offene Seniorenarbeit zur Verfügung. Die Bezirksämter können somit Projekte mit einer generationsübergreifenden Zielsetzung sowohl finanziell als auch ideell durch Beratung fördern.
 

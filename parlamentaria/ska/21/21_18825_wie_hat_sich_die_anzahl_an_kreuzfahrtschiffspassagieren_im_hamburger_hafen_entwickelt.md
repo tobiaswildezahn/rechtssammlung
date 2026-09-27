@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68507"
@@ -96,7 +97,7 @@ Welche aktuellen Prognosen gibt es bezüglich Kreuzfahrtschiffspassagiere für d
 
 Geht der Senat davon aus, dass die Kreuzfahrtschiffspassagierzahlen für 2019 in Hamburg sinken werden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Für das Jahr 2019 werden circa 800 000 Passagiere erwartet. Für die Jahre 2020 und 2021 ist aktuell von einem in etwa gleichbleibenden Niveau auszugehen.
 

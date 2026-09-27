@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50826"
@@ -377,11 +378,11 @@ c) Ist für den Jugendlichen ein Hamburger Jugendamt zuständig, teilt VZG E/SG 
 
 Ost 2) unverzüglich mit (Formular siehe Anlage),
 
-• welche Person aufgenommen wurde.
+– welche Person aufgenommen wurde.
 
-• über welche Sprachkenntnisse diese verfügt und
+– über welche Sprachkenntnisse diese verfügt und
 
-• welche Abteilung zuständig ist.
+– welche Abteilung zuständig ist.
 
 Außerdem übersendet die VZG E/SG 15 (JGH - Ost 2) alle zwei Wochen eine Liste mit den in dieser Zeit in der JVA HS neu aufgenommenen Jugendlichen.
 

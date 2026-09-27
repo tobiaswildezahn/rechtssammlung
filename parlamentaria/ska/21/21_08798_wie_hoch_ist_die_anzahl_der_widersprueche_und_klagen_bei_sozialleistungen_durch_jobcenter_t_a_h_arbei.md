@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 15
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4009"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57540"
@@ -167,7 +168,7 @@ Wie viele Widersprüche und Klagen erfolgten seit 2015 bis aktuell gegen Leistun
 
 Wie viele Widersprüche und Klagen erfolgten seit 2015 bis aktuell gegen „Einschränkungen und Aufrechnung“ nach §26 SGB XII und wurden teilweise oder vollständig zugunsten der Betroffenen entschieden? Bitte jährlich auflisten sowie nach Gründen.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Vorbemerkung.
 
@@ -294,7 +295,7 @@ Wandsbek
 
 Jahr  
 SB  
-  
+–   
 Personalkosten
 
 SB

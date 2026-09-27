@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 17
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2081", "21/2807", "21/1542", "20/13460", "21/1513", "21/1703", "21/2483", "21/3445"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52564"
@@ -141,7 +142,7 @@ Wie viele Salafisten sind oder waren Angehörige der Hamburger Polizei?
 
 Wie viele Salafisten sind oder waren Angehörige weitere Sicherheitsbehörden in Hamburg?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Erkenntnisse, dass Salafisten bei Hamburger Sicherheitsbehörden tätig sind oder waren, liegen nicht vor.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4614", "21/4262", "21/4265"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53206"
@@ -43,7 +44,7 @@ Wegen welcher Straftaten wurden die weiteren vier Sicherungsverwahrten, bei dene
 
 Aus welchen Gründen wurde die weitere Vollstreckung der Unterbringung bei diesen Sicherungsverwahrten jeweils zur Bewährung ausgesetzt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Aussetzung der Vollstreckung der Unterbringung zur Bewährung betrifft folgende vier Sicherungsverwahrte (zum Fall des Sicherungsverwahrten B. siehe Drs. 21/4262 und 21/4265):
 

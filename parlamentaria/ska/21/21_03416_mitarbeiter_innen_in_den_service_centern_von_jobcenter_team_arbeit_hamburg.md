@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 19
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/675", "21/2294"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51768"
@@ -89,7 +90,7 @@ Welche Ausbildung haben die Mitarbeiter/-innen in den sogenannten Service-Center
 
 Welche internen und/oder externen Schulungen durchlaufen „Quereinsteiger/-innen“, wenn sie im Service-Center eingesetzt werden? Bitte auflisten nach Dauer und Art der Schulungen.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Mitarbeiterinnen und Mitarbeiter des ServiceCenters Hamburg der RD haben entweder intern eine Ausbildung zur/m Fachangestellten für Arbeitsmarktdienstleistungen abgeschlossen und verfügen somit bereits über vertiefte Kenntnisse in den relevanten Rechtsgebieten oder wurden extern eingestellt. In diesen Fällen gilt als Mindestanforderung eine abgeschlossene Berufsausbildung, vorzugsweise kaufmännisch oder mit rechtlichen Bezügen.
 
@@ -131,11 +132,11 @@ Welche Fortbildungsmöglichkeiten gibt es für die Mitarbeiter/-innen in den sog
 
 Fortbildungen und Schulungen werden den Mitarbeitern/-innen der RD bedarfsgerecht in der Regel jährlich angeboten in den Bereichen
 
- Kommunikation,
+– Kommunikation,
 
- Stimm- und Sprechtraining sowie
+– Stimm- und Sprechtraining sowie
 
- quartalsmäßig Inhouse-Schulungen zu fachlichen Themen.
+– quartalsmäßig Inhouse-Schulungen zu fachlichen Themen.
 
 Weitere Informationen zu Häufigkeit und Dauer der Fortbildungsmöglichkeiten der Mitarbeiter/-innen der BA liegen der zuständigen Behörde und Jobcenter nicht vor. Als Bundesbehörde ist die BA der Hamburgischen Bürgerschaft gegenüber nicht berichtspflichtig.
 

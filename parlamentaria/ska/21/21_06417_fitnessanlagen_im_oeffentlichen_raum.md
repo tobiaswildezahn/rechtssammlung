@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/2948", "21/5822"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54947"
@@ -51,7 +52,7 @@ In welchen öffentlichen Parkanlagen und innerstädtischem Grünflächen existie
 
 Welche Geräte/Anlagen wurden in den letzten fünf Jahren in öffentlichen Parkanlagen und auf innerstädtischen Grünflächen errichtet? Welche Kosten sind hierfür jeweils angefallen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Öffentliche Parkanlagen bieten grundsätzlich vielfältige Angebote zur Förderung von Bewegung und Fitness. Da dies nicht zwangsläufig an die Bereitstellung von speziell hierfür vorgesehenen Geräten/Anlagen gebunden ist, ermöglichen sie Sport und Bewegung im Alltag. Statistiken dazu werden weder in der Behörde für Umwelt und Energie noch in den Bezirksämtern geführt. In der Anlage sind die Standorte in Grünund Erholungsanlagen aufgeführt, in denen Bereiche mit dem Fokus gerätegebunde-
 
@@ -113,37 +114,37 @@ Bezirk Hamburg-Mitte:
 
 Gemeinnützige Einrichtungen werden durch das Bezirksamt Hamburg-Mitte wie folgt und im Einzelfall unterstützt:
 
- Bereitstellung von Flächen
+– Bereitstellung von Flächen
 
- Bereitstellung von Strom und Infrastruktur
+– Bereitstellung von Strom und Infrastruktur
 
- Unterstützung bei Öffentlichkeitsarbeit (zum Beispiel über Facebook, Plakatierung
+– Unterstützung bei Öffentlichkeitsarbeit (zum Beispiel über Facebook, Plakatierung
 
 im Schaukasten, gemeinsame Druckerzeugnisse)
 
- Teilweise gemeinsame Veranstaltungen
+– Teilweise gemeinsame Veranstaltungen
 
- Vereinfachte Verfahren bei Sondernutzungen, wo dies möglich ist
+– Vereinfachte Verfahren bei Sondernutzungen, wo dies möglich ist
 
 Bezirk Hamburg-Nord:
 
- „Raus aus’m Haus“ bietet Anwohnerinnen und Anwohnern die Möglichkeit, die
+– „Raus aus’m Haus“ bietet Anwohnerinnen und Anwohnern die Möglichkeit, die
 
 Ressourcen von Grünanlagen und Geräten im Wohnumfeld für Bewegung zu nutzen und Mobilität, Balance, Ausdauer und Kraft zu trainieren. Nach Abschluss der RISE-Förderung sollen diese Angebote in Eigenregie fortgesetzt werden; bei Bedarf wird aber auch weiterhin organisatorische Unterstützung möglich sein.
 
- Der interkulturelle Stadtteilgarten (InPeLa) bietet generationen- und kulturübergrei-
+– Der interkulturelle Stadtteilgarten (InPeLa) bietet generationen- und kulturübergrei-
 
 fend die Möglichkeit der gesunden Bewegung im öffentlichen Raum. Das Bezirksamt hat im Rahmen der RISE-Förderung die Umsetzung finanziell und organisatorisch unterstützt und stellt auch zukünftig pachtfrei das Gelände in einer öffentlichen Parkanlage zur Verfügung. Die Weiterfinanzierung aus Mitteln des Quartiersfonds ist beabsichtigt.
 
- Zusätzlich wurden zwei Geräte, die speziell auf die Bedürfnisse/Erfordernisse von
+– Zusätzlich wurden zwei Geräte, die speziell auf die Bedürfnisse/Erfordernisse von
 
 älteren Menschen ausgerichtet sind, installiert.
 
- Das Bezirksamt fördert die Erstellung einer Website und eines Buches, in denen
+– Das Bezirksamt fördert die Erstellung einer Website und eines Buches, in denen
 
 die Bewegungsorte des Gebietes verzeichnet und die möglichen und physiologisch adäquaten Übungen aufgeführt sind.
 
- Das Projekt „KOBA – gesundes Langenhorn“, das vom Gesundheitsamt des
+– Das Projekt „KOBA – gesundes Langenhorn“, das vom Gesundheitsamt des
 
 Bezirksamtes in Kooperation mit der zuständigen Fachbehörde und der Techniker Krankenkasse umgesetzt wird, ermöglicht seit 2013 und auch zukünftig die Umsetzung von vielfältigen Bewegungsangeboten für alle Altersgruppen sowohl im öffentlichen (Außen-)Raum als auch in Kooperation mit Einrichtungen, Vereinen und Einzelakteuren in Räumen des Stadtteils. Die Angebote orientieren sich an den Bedarfen der Zielgruppe, sind niedrigschwellig und für die Teilnehmerinnen und Teilnehmer kostenlos. Dieses Angebot wird auch zukünftig durch das Kommunale Gesundheitsförderungsmanagement (KGFM) koordiniert.
 

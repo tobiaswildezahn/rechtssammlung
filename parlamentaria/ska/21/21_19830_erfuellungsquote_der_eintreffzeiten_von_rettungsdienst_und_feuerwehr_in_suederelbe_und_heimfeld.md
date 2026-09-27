@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69591"
@@ -264,7 +265,7 @@ Wurden die Feuerwehren und der Rettungsdienst vom für die Durchführung der Bau
 
 Welche Planungen und Maßnahmen hatte der Senat unternommen, um die Auswirkungen der kumulierenden Sperrungen von Verkehrswegen im Bereich Süderelbe auf die Erfüllung der Hilfsfristen bei Feuerwehr und Rettungsdienst zu begrenzen und mit welchem Erfolg?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Im Rahmen der Verkehrsflussoptimierung wurden bereits Maßnahmen getroffen, um die Auswirkungen von Baustellen auf das Verkehrsgeschehen soweit möglich zu begrenzen. In die Koordinierungsbesprechungen der zuständigen Behörden ist seit dem 4. Quartal 2019 auch das neue Sachgebiet Verkehrsflussoptimierung der Feuerwehr eingebunden.
 

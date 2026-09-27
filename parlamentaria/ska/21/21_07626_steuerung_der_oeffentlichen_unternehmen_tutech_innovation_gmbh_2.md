@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4913", "21/6818"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56269"
@@ -53,7 +54,7 @@ Wie sind der genaue Sachstand sowie der Zeitplan bezüglich der Veröffentlichun
 
 Welche vorgeschriebenen Fristen sind für die Veröffentlichung des Jahresabschlusses der TuTech maßgeblich? Wurden oder werden diese Fristen eingehalten? Wenn ja, wann und in welcher Form? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Einreichungsfrist zum elektronischen Bundesanzeiger endet zum 31.12. des Folgejahres. Die elektronische Einreichung erfolgte fristgerecht am 27.12.2016.
 

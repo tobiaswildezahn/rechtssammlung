@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 30
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5271", "21/4912", "21/3926"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55835"
@@ -39,13 +40,13 @@ Besorgniserregend ist daher:
 
 ## Einleitung für die Antworten des Senats
 
- Hinweise aus der Fachwissenschaft, dass es Sachsen-Anhalt an politischem Willen zu konsequenten umgehenden Sanierungsmaßnahmen mangele, werden ignoriert.
+– Hinweise aus der Fachwissenschaft, dass es Sachsen-Anhalt an politischem Willen zu konsequenten umgehenden Sanierungsmaßnahmen mangele, werden ignoriert.
 
- Die Regelwerke Hamburgs/Schleswig-Holsteins zur Umlagerung von Baggergut nach Neßsand beziehungsweise in die Nordsee enthalten weder Richtwerte noch Vorgaben für Messprogramme, obwohl die Verringerung von Dioxinen ein Hauptziel der EU-Wasser- und Meeresstrategierahmenrichtlinien (WRRL & MSRL) in Elbe und Nordsee darstellt.
+– Die Regelwerke Hamburgs/Schleswig-Holsteins zur Umlagerung von Baggergut nach Neßsand beziehungsweise in die Nordsee enthalten weder Richtwerte noch Vorgaben für Messprogramme, obwohl die Verringerung von Dioxinen ein Hauptziel der EU-Wasser- und Meeresstrategierahmenrichtlinien (WRRL & MSRL) in Elbe und Nordsee darstellt.
 
- In diversen Hamburger Hafengebieten mit hohem Altlastenpotenzial haben seit zehn Jahren laut offizieller Angaben keine Dioxinmessungen mehr stattgefunden, und dennoch wurde/wird aus circa 20 dieser Gebiete „Hafenschlick“ vor Neßsand verklappt.
+– In diversen Hamburger Hafengebieten mit hohem Altlastenpotenzial haben seit zehn Jahren laut offizieller Angaben keine Dioxinmessungen mehr stattgefunden, und dennoch wurde/wird aus circa 20 dieser Gebiete „Hafenschlick“ vor Neßsand verklappt.
 
- Die Antworten des Senats auf unsere Anfragen (Drs. 21/4912; 21/5271) sind unlogisch und suggerieren beim unkritischen Lesen, dass Dioxine keine Gefahr mehr für Elbe, Nordsee und unsere Gesundheit darstellen.
+– Die Antworten des Senats auf unsere Anfragen (Drs. 21/4912; 21/5271) sind unlogisch und suggerieren beim unkritischen Lesen, dass Dioxine keine Gefahr mehr für Elbe, Nordsee und unsere Gesundheit darstellen.
 
 Zudem gibt es auch für andere Schadstoffe wie Arsen, Schwermetalle und weitere organische Substanzen Mess- beziehungsweise Informationslücken, gerade bei Hamburger Hafengebieten mit einer höheren Wahrscheinlichkeit von Altlasten.
 
@@ -182,13 +183,13 @@ cherstadt,
 
 Das ist alarmierend, denn
 
- ohne eine gründliche Altlastensanierung ist es höchst wahrscheinlich, dass die Konzentrationen der Schadstoffe im Sediment gerade dieser Hafengebiete durch frühere Praktiken der Anrainer weiterhin gefährlich hoch sein können;
+– ohne eine gründliche Altlastensanierung ist es höchst wahrscheinlich, dass die Konzentrationen der Schadstoffe im Sediment gerade dieser Hafengebiete durch frühere Praktiken der Anrainer weiterhin gefährlich hoch sein können;
 
- derartige Altlasten wurden sehr oberflächennah innerhalb der oberen 50 cm in einem Hafenbecken und in 150 cm Tiefe in einer Hamburger Elbaue gemessen, somit sind sie immer noch leicht im Wirkungsbereich der folgend genannten Faktoren;
+– derartige Altlasten wurden sehr oberflächennah innerhalb der oberen 50 cm in einem Hafenbecken und in 150 cm Tiefe in einer Hamburger Elbaue gemessen, somit sind sie immer noch leicht im Wirkungsbereich der folgend genannten Faktoren;
 
- Stürme, Hochwasser, Baggeraktivitäten und insbesondere das Wasserinjektionsverfahren können zwischenzeitlich selbst tiefer- und umliegende Altlasten remobilisieren;
+– Stürme, Hochwasser, Baggeraktivitäten und insbesondere das Wasserinjektionsverfahren können zwischenzeitlich selbst tiefer- und umliegende Altlasten remobilisieren;
 
- die Baggergutmenge aus diesen Hafengebieten macht pro Jahr durchschnittlich circa 10 Prozent des nach Neßsand verbrachten Baggerguts aus.
+– die Baggergutmenge aus diesen Hafengebieten macht pro Jahr durchschnittlich circa 10 Prozent des nach Neßsand verbrachten Baggerguts aus.
 
 ### Frage 9
 
@@ -198,7 +199,7 @@ Warum sind diese Gebiete beziehungsweise deren Geodaten für Kernbeprobungen nic
 
 Warum wurden hier keine zeitnahen Kernbeprobungen vor den Umlagerungen nach Neßsand in 2012 – 2014 durchgeführt? Bitte gegebenenfalls für jedes der 15 Gebiete einzeln beantworten.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Untersuchungen zur Belastung von Sedimenten für die Beurteilung der Eignung zur Umlagerung im Gewässer finden im Hamburger Hafen seit dem Jahr 1995 statt. Alle Hauptbaggergebiete werden jährlich unter anderem durch Kern- und Greiferbeprobungen erfasst. Zudem findet mit der Referenzbeprobung jährlich ein Längstranssekt durch den gesamten Hamburger Hafen zur Beurteilung der Qualität der rezenten Sedimente statt (andere Gebiete werden nicht jährlich gebaggert und dementsprechend seltener beprobt). Die räumliche und zeitliche Variabilität ist folglich bekannt.
 

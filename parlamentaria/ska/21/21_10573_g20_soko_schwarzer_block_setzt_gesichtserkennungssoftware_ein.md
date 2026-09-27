@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 19
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59464"
@@ -79,11 +80,11 @@ Wer arbeitet neben der IT-Abteilung der Hamburger Polizei an dem „Recherchetoo
 
 Eine Unterstützung der Polizei erfolgt im Rahmen bestehender Serviceverträge zu den vorhandenen Produkten durch die
 
- Firma Environmental Systems Research Institute (ESRI) Deutschland hinsichtlich
+– Firma Environmental Systems Research Institute (ESRI) Deutschland hinsichtlich
 
 der erforderlichen Komponenten zur Erfassung der Geodaten,
 
- Firma Microsoft Deutschland betreffend georeferenzierten Suchkomponenten.
+– Firma Microsoft Deutschland betreffend georeferenzierten Suchkomponenten.
 
 b. War in der PK die Systemplattform PERFORMANCE gemeint?
 
@@ -123,17 +124,17 @@ Welche Datenquellen sollen durchsucht werden?
 
 Bei den Datenquellen handelt es sich um:
 
- polizeiliches Beweis- und Dokumentationsmaterial,
+– polizeiliches Beweis- und Dokumentationsmaterial,
 
- Bild- und Videomaterial, das von Personen im Hinweisportal der Polizei hochgela-
+– Bild- und Videomaterial, das von Personen im Hinweisportal der Polizei hochgela-
 
 den wurde,
 
- Material aus Überwachungskameras des öffentlichen Personennahverkehrs,
+– Material aus Überwachungskameras des öffentlichen Personennahverkehrs,
 
- Filmmaterial von Fernsehsendern,
+– Filmmaterial von Fernsehsendern,
 
- anderen offen zugänglichen Quellen (Internet).
+– anderen offen zugänglichen Quellen (Internet).
 
 ### Frage 7
 

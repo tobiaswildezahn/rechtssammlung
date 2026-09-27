@@ -11,9 +11,10 @@ fraktionen: ["AfD"]
 vorgang: 58601
 seiten: 2
 fragen: 9
-einzelfragen: 15
-antwortbloecke: 8
+einzelfragen: 20
+antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64294"
@@ -53,21 +54,21 @@ Nein.
 
 Falls ja:
 
- Fand die Auslobung deutschlandweit statt?
+– Fand die Auslobung deutschlandweit statt?
 
- Wie viele Teilnehmer nahmen am Wettbewerb teil?
+– Wie viele Teilnehmer nahmen am Wettbewerb teil?
 
- Welches Gremium hat über die Zulassung der Teilnehmer sowie über
+– Welches Gremium hat über die Zulassung der Teilnehmer sowie über
 
 den Gewinner entschieden?
 
- Welche Leistungen mussten von den Teilnehmern im Vorfeld erbracht
+– Welche Leistungen mussten von den Teilnehmern im Vorfeld erbracht
 
 werden?
 
 Falls nicht:
 
- In welchem sonstigen Zusammenhang wurde das Kunstgebilde
+– In welchem sonstigen Zusammenhang wurde das Kunstgebilde
 
 errichtet?
 
@@ -76,9 +77,12 @@ Die Konzeption des Kunstwerks erfolgte im Rahmen einer Bürgerbeteiligung. Im Ü
 ### Frage 3
 
 Wer ist Künstler des Gebildes?
-3.1. Hat der Künstler noch andere Gebilde in Hamburg realisiert? Falls ja: wo und wann?
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+Hat der Künstler noch andere Gebilde in Hamburg realisiert? Falls ja: wo und wann?
+
+#### Antwort zu Fragen 3 und 3.1
 
 Die Skulptur wurde unter Anleitung des freischaffenden Künstler Ulf Petersen von vier interessierten Bewohnerinnen und Bewohnern geschaffen. Zu weiteren Arbeiten des Künstlers liegen der zuständigen Fachbehörde keine Informationen vor.
 
@@ -90,11 +94,15 @@ Aus welchem Material besteht das Gebilde?
 
 Die Skulptur besteht aus Metall.
 
-4.1. Handelt es sich um eine dauerhafte Installation?
+### Frage 4.1
 
-4.2. Bedurfte es einer Baugenehmigung oder besonderer Genehmigungen anderer Behörden?
+Handelt es sich um eine dauerhafte Installation?
 
-Falls ja: welche?
+### Frage 4.2
+
+Bedurfte es einer Baugenehmigung oder besonderer Genehmigungen anderer Behörden? Falls ja: welche?
+
+#### Antwort zu Fragen 4.1 und 4.2
 
 Die Genehmigung erfolgte im Rahmen der Umgestaltung der Bahnhofspassage.
 
@@ -106,7 +114,7 @@ Was soll mit dem Kunstgebilde ausgedrückt werden?
 
 Handelt es sich bei einer der Silhouetten tatsächlich um eine gesichtsverschleierte Frau? Falls ja: Welche Aussage soll damit impliziert werden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die dargestellten Figuren sollen die vielfältigen Lebensstile der Wilhelmsburger Bevölkerung ausdrücken, um das interkulturelle Miteinander im Quartier anzustoßen.
 
@@ -126,7 +134,11 @@ Wurde das Projekt aus öffentlichen Mitteln bezuschusst? Falls ja: in welcher H�
 
 Zur Finanzierung der Skulptur wurden öffentliche Mittel eingesetzt. Nähere Angaben können aufgrund der Aktenlage (Außenarchiv) in der Kürze der zur Verfügung stehenden Zeit nicht gemacht werden.
 
-8.1. Welche Eigenmittel wurden vom Künstler aufgebracht?
+### Frage 8.1
+
+Welche Eigenmittel wurden vom Künstler aufgebracht?
+
+#### Antwort zu Frage 8.1
 
 Es wurden keine Eigenmittel eingesetzt.
 
@@ -138,6 +150,10 @@ Wird das Gebilde regelmäßig gepflegt und gereinigt? Falls ja: durch wen und wi
 
 Das Umfeld der Skulptur wird im Zuge der regelmäßigen Pflege der Bahnhofspassage gereinigt. Es finden regelmäßige Kontrollen durch den Wegewart statt.
 
-9.1. Welche Kosten für Pflege und Reinigung sind seit der Errichtung des Gebildes angefallen? Bitte jährlich auflisten.
+### Frage 9.1
+
+Welche Kosten für Pflege und Reinigung sind seit der Errichtung des Gebildes angefallen? Bitte jährlich auflisten.
+
+#### Antwort zu Frage 9.1
 
 Eine gesonderte Erfassung der Pflegeaufwendungen für die Skulptur nicht.

@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 20
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61729"
@@ -106,7 +107,7 @@ Falls nein, warum nicht?
 
 Welche Kontrollinstanz ist für die Kalkulation der bewilligten Fördergelder zuständig?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Gewährung von Zuwendungen erfolgt gemäß § 46 Landeshaushaltsordnung sowie der hierzu erlassenen Verwaltungsvorschriften (siehe http://www.hamburg.de/ fb/haushaltsrecht/). Diese schließen auch die gegenüber der zuständigen Behörde zu erbringenden Verwendungsnachweise mit ein.
 
@@ -134,7 +135,7 @@ Es wurden explizit auch Künstler „ohne Migrationshintergrund“ aufgerufen, s
 
 Wie viel Prozent der bezuschussten Projekte werden von Künstlern „ohne Migrationshintergrund“ betrieben?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Das lässt sich nicht ermitteln, da sich Vereine, Privatpersonen und Stiftungen mit häufig gemischten Teams bewerben.
 

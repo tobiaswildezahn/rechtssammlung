@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2163"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51378"
@@ -46,10 +47,16 @@ Der Senat beantwortet die Fragen teilweise auf der Grundlage von Auskünften des
 ### Frage 1
 
 Wie viele Irr- beziehungsweise Rückläufer gab es beim Beitragsservice in den Jahren seit 2012 bei postalischen Anschreiben an Beitragszahlerinnen und Beitragszahler? Jeweils wie viele davon waren a. Zahlungsaufforderungen, b. Zahlungserinnerungen, c. Festsetzungsbescheide, d. Mahnungen?
-1.1. Wie viele Beitragskonten waren in den genannten Jahren von der Problematik der Irr- beziehungsweise Rückläufer betroffen?
-1.2. Wie viele dieser Fälle betrafen jeweils das Gebiet der Freien und Hansestadt Hamburg (FHH) beziehungsweise den NDR? (Bitte für alle Fragen jeweils jahresweise auflisten.)
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Wie viele Beitragskonten waren in den genannten Jahren von der Problematik der Irr- beziehungsweise Rückläufer betroffen?
+
+### Frage 1.2
+
+Wie viele dieser Fälle betrafen jeweils das Gebiet der Freien und Hansestadt Hamburg (FHH) beziehungsweise den NDR? (Bitte für alle Fragen jeweils jahresweise auflisten.)
+
+#### Antwort zu Fragen 1, 1.1 und 1.2
 
 Informationen über Irr- und Rückläufer bei postalischen Anschreiben werden nach Auskunft des Beitragsservice von ARD, ZDF und Deutschlandradio nicht ausgewertet.
 

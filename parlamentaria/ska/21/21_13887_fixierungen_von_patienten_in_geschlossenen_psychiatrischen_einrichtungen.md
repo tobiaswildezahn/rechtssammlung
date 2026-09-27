@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1580", "21/10976"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63247"
@@ -77,7 +78,7 @@ Es werden regelmäßig Fortbildungen der multiprofessionellen Teams zum Beispiel
 
 Eine Abfrage bei den einzelnen Krankenhäusern ergab zusätzliche Angaben der folgenden Häuser:
 
- Asklepios Klinikum Harburg:
+– Asklepios Klinikum Harburg:
 
 Psychiatrie und Psychotherapie: Deeskalationstraining für alle Mitarbeiterinnen und Mitarbeiter. Eine Fixierung kann nur dann angeordnet werden, wenn im Sinne des
 
@@ -85,21 +86,21 @@ Psychiatrie und Psychotherapie: Deeskalationstraining für alle Mitarbeiterinnen
 
 Kinder- und Jugendpsychiatrie: Deeskalationstraining für alle Mitarbeiter. Regelmäßiges thematisieren von Deeskalations- und Zwangsmaßnahmen in den wöchentlichen Oberarztvisiten. Jährliche Fortbildungen der Chefärztin zum Thema.
 
- Asklepios Klinik Nord:
+– Asklepios Klinik Nord:
 
 Standort Ochsenzoll: Deeskalationstraining für alle Mitarbeiter. Einführung des Safe-Wards-Konzeptes seit 2017. Die Notwendigkeit einer Fixierung wird regelmäßig überprüft. Binnendifferenzierung der Aufnahmestation Psychiatrische Zentrale Notaufnahme (hochakut, subakut). Höhere Personalbesetzung der geschlossenen Stationen als der offenen Normalstationen.
 
 Standort Wandsbek: Deeskalationstraining für alle Mitarbeiter. Einführung des Safe-Wards-Konzeptes seit 2017. Die Notwendigkeit einer Fixierung wird regelmäßig überprüft. Umbau Time Out Raum. Erweiterung der geschlossenen Kapazitäten um eine weitere Station ab voraussichtlich September 2019.
 
- Asklepios Westklinikum Hamburg:
+– Asklepios Westklinikum Hamburg:
 
 Deeskalationstraining für alle Mitarbeiterinnen und Mitarbeiter. Einführung des Safe-Wards-Konzeptes. Die Notwendigkeit einer Fixierung wird regelmäßig überprüft. Beim Neubau für die geschlossene Station wurde ein Time out Raum geschaffen (Farbgebung, leichte Polsterung, Schaumstoffelemente). Der Garten bei Neubau größer angelegt, Basketball, Tischtennismöglichkeiten, unterschiedliche Rückzugsmöglichkeiten (2 TV-Räume, 2 Speiseräume) zum Trennen von angespannten Patienten.
 
- Schön Klinik Hamburg Eilbek:
+– Schön Klinik Hamburg Eilbek:
 
 Die Mitarbeiterinnen und Mitarbeiter erhalten regelmäßig Deeskalationstrainings, werden regelmäßig für eine verständnisvolle Kommunikation sensibilisiert, um Frustration, Demütigungen, Missachtungen oder Kränkungen zu vermeiden, die Hauptauslöser für verbale oder tätliche Angriffe auf das Personal sein können. Sie begegnen allen Patientinnen und Patienten mit Respekt und auf Augenhöhe, machen klare Aussagen zu den Themen Ausgang, Entlassung und Rauchen. Sie werden regelmäßig intern und extern supervidiert und alle Patienten erhalten gegebenenfalls eine frühzeitige medikamentöse Behandlung.
 
- Albertinen-Krankenhaus:
+– Albertinen-Krankenhaus:
 
 Patientenorientiertes Behandlungskonzept mit dem Ziel partizipativer Entscheidungsfindungen, Aufbau vertrauensvoller therapeutischer Beziehungen, Einbeziehung Angehöriger Behandlung durch ein multiprofessionelles Team (ärztliche Einzelgespräche, regelmäßige Facharztvisiten, Bezugspflege, Begleitung durch psychosozialen Dienst). Therapie- und Beschäftigungsangebote auf den Stationen (Ergotherapie, musik- und kunsttherapeutische Angebote, Sportangebote, Psychoedukation, Kochgruppe, Alltagstraining, Akkupunktur, QiGong). 14-tägige externe Supervision des multiprofessionellen Teams. Bei Bedarf Konsile durch das klinische Ethikkomitee. Regelmäßige Fortbildung aller Mitarbeiter, Deeskalationstraining (KDM). Seit Ende 2017 Fortbildung der Mitarbeiter zum „Safe-Wards- Konzept“; geplante Implementierung von Safe-Wards Anfang 2019. Kooperation mit Sicherheitsdienst. Patienten, die nach §12 HmbPsychKG oder §1906BGB untergebracht sind, werden über Ihre Rechte informiert (Möglichkeit des Widerspruchs gegen Unterbringungsbeschluss; Möglichkeit der Beschwerde bei der Aufsichtskommission gemäß §23 HmbPsychKG).
 

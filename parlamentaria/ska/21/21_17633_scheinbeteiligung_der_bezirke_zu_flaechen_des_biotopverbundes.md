@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67233"
@@ -56,7 +57,7 @@ Wieso wurde der Termin so kurzfristig anberaumt?
 
 Warum wurde die Einladung so spät versandt, dass nicht einmal die Anmeldefrist gehalten werden konnte?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Termin wurde Ende Mai für den 24. Juni 2019 geplant.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8808"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58284"
@@ -130,9 +131,9 @@ In Bezug auf den neuen Bahnhof Altona wird in der gleichen Drucksache geschätzt
 
 Es wird geschätzt, dass sich die ca. 22.000 Reisenden wie folgt aufteilen:
 
- S-Bahn: circa 12.500 Reisende
+– S-Bahn: circa 12.500 Reisende
 
- Fern- und Regionalverkehr: circa 9.500 Reisende
+– Fern- und Regionalverkehr: circa 9.500 Reisende
 
 ### Frage 6
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 18
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51784"
@@ -49,12 +50,27 @@ Siehe Anlagen 1 und 2. Angegeben sind die Beteiligungen Hamburgs, in denen minde
 
 ### Frage 2
 
-Wie viele Personen nehmen derzeit für die FHH a. drei oder vier, b. fünf oder sechs, c. sieben oder acht, d. neun oder zehn, e. mehr als zehn Aufsichtsrats- beziehungsweise Verwaltungsratsmandate zugleich wahr?
-2.1. Wie viele dieser Mandatsträger/-innen sind dabei jeweils Frauen, wie viele jeweils Männer?
-2.2. Bei wie vielen dieser Personen handelt es sich dabei um jeweils welche Mitglieder des Senats?
-2.3. Bei wie vielen dieser Personen handelt es sich dabei um jeweils welche Mitglieder des Staatsrätekollegiums?
+Wie viele Personen nehmen derzeit für die FHH  
+a. drei oder vier,  
+b. fünf oder sechs,  
+c. sieben oder acht,  
+d. neun oder zehn,  
+e. mehr als zehn  
+Aufsichtsrats- beziehungsweise Verwaltungsratsmandate zugleich wahr?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Wie viele dieser Mandatsträger/-innen sind dabei jeweils Frauen, wie viele jeweils Männer?
+
+### Frage 2.2
+
+Bei wie vielen dieser Personen handelt es sich dabei um jeweils welche Mitglieder des Senats?
+
+### Frage 2.3
+
+Bei wie vielen dieser Personen handelt es sich dabei um jeweils welche Mitglieder des Staatsrätekollegiums?
+
+#### Antwort zu Fragen 2, 2.1, 2.2 und 2.3
 
 Siehe Anlage 3.
 
@@ -66,27 +82,27 @@ Was ist die derzeitige Höchstzahl der Aufsichts- und Verwaltungsratsmandate, di
 
 Frau Petra Bödeker-Schoemann nimmt elf Aufsichtsmandate bei folgenden Unternehmen wahr:
 
- Hamburger Wasserwerke GmbH
+– Hamburger Wasserwerke GmbH
 
- Stromnetz Hamburg GmbH
+– Stromnetz Hamburg GmbH
 
- SGG Städtische Gebäudeeigenreinigung GmbH
+– SGG Städtische Gebäudeeigenreinigung GmbH
 
- SAGA Siedlungs-Aktiengesellschaft Hamburg
+– SAGA Siedlungs-Aktiengesellschaft Hamburg
 
- P + R-Betriebsgesellschaft mbH
+– P + R-Betriebsgesellschaft mbH
 
- HHLA Container Terminals GmbH
+– HHLA Container Terminals GmbH
 
- Hamburger Hafen und Logistik Aktiengesellschaft
+– Hamburger Hafen und Logistik Aktiengesellschaft
 
- HADAG Seetouristik und Fährdienst AG
+– HADAG Seetouristik und Fährdienst AG
 
- GMH Gebäudemanagement Hamburg GmbH
+– GMH Gebäudemanagement Hamburg GmbH
 
- Gesellschaft zur Beseitigung von Sonderabfällen mbH (GBS)
+– Gesellschaft zur Beseitigung von Sonderabfällen mbH (GBS)
 
- IMPF Hamburgische Immobilien Management Gesellschaft mbH
+– IMPF Hamburgische Immobilien Management Gesellschaft mbH
 
 ### Frage 4
 

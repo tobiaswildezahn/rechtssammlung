@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52662"
@@ -185,7 +186,7 @@ Wie viele Ausbildungsplätze hat die Stadt Hamburg und die assoziierten Unterneh
 
 Wie viele Ausbildungsplätze in welchen Bereichen wird die Stadt Hamburg und die assoziierten Unternehmen (Tochter- und Enkelgesellschaften) im Jahr 2016 zur Verfügung stellen? (Bitte nach Anbieter aufschlüsseln.)
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Das Angebot an Ausbildungsplätzen des Arbeitgebers Freie und Hansestadt Hamburg (FHH) und seinen Behörden, Ämtern und Landesbetrieben besteht im Großteil aus Beamtenausbildungen. Hinzu kommen verschiedene Ausbildungen nach dem BBiG. Während die Ausbildungen nach dem BBiG regelhaft im August beziehungsweise September starten, gibt es in den Beamtenausbildungen in einigen Laufbahnen (Polizei, Feuerwehr und Justizvollzug) auch Ausbildungen mit einem Beginn im Frühjahr. In Anlage 2 ist eine differenzierte Darstellung der dualen Ausbildungsplätze der FHH (Behörden, Ämter und Landesbetriebe) für die Jahre 2010 bis 2015 aufgeführt. Aus Anlage 3 gehen die für 2016 geplanten Ausbildungsplätze der FHH aufgeschlüsselt nach Ausbildungsberufen beziehungsweise Fachrichtungen hervor.
 

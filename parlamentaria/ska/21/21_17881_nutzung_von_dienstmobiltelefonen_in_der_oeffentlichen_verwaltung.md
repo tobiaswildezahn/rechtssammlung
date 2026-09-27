@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67487"
@@ -119,33 +120,33 @@ b. Welche Kosten sind für die Beschaffung von jeweils wie vielen Dienstmobiltel
 
 Bei einigen Dienststellen
 
- konnten die gewünschten Angaben nicht in der zur Verfügung stehenden Zeit
+– konnten die gewünschten Angaben nicht in der zur Verfügung stehenden Zeit
 
 bestandsfest ermittelt werden, weil es keine rückwirkenden Statistiken gibt und der manuelle Aufwand zur Ermittlung der Daten aus der Vielzahl der Verträge in der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht umsetzbar ist,
 
- bestehen keine Grundlagen zur elektronischen Auswertung der vorliegenden
+– bestehen keine Grundlagen zur elektronischen Auswertung der vorliegenden
 
 Unterlagen. Im zur Verfügung stehenden Zeitrahmen ist eine manuelle Analyse nicht möglich.
 
 Ermittelt wurden folgende Zahlen:
 
- 2011: 114 Mobiltelefone für 12 011 Euro,
+– 2011: 114 Mobiltelefone für 12 011 Euro,
 
- 2012: 174 Mobiltelefone für 31 613 Euro,
+– 2012: 174 Mobiltelefone für 31 613 Euro,
 
- 2013: 222 Mobiltelefone für 58 551 Euro,
+– 2013: 222 Mobiltelefone für 58 551 Euro,
 
- 2014: 450 Mobiltelefone für 101 865 Euro,
+– 2014: 450 Mobiltelefone für 101 865 Euro,
 
- 2015: 393 Mobiltelefone für 92 139 Euro,
+– 2015: 393 Mobiltelefone für 92 139 Euro,
 
- 2016: 477 Mobiltelefone für 128 354 Euro,
+– 2016: 477 Mobiltelefone für 128 354 Euro,
 
- 2017: 488 Mobiltelefone für 141 153 Euro,
+– 2017: 488 Mobiltelefone für 141 153 Euro,
 
- 2018: 615 Mobiltelefone für 267 624 Euro,
+– 2018: 615 Mobiltelefone für 267 624 Euro,
 
- 2019: 480 Mobiltelefone für 276 461 Euro.
+– 2019: 480 Mobiltelefone für 276 461 Euro.
 
 Die genaue Aufteilung ist der Anlage 4 zu entnehmen. Insbesondere ab 2018 haben sich die Anforderungen an dienstliche Mobiltelefone erhöht, daher mussten mehr hochpreisige Smartphones beschafft werden.
 

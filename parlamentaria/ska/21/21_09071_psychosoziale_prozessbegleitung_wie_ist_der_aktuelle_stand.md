@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6398", "21/8625", "21/6000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57815"
@@ -44,7 +45,7 @@ Wie viele Mitarbeiterinnen/Mitarbeiter arbeiten derzeit als anerkannte psychosoz
 
 Wie viele Mitarbeiterinnen/Mitarbeiter plant der Senat derzeit bis 2020 für die psychosoziale Prozessbegleitung einzustellen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Aktuell gibt es in Hamburg acht zertifizierte psychosoziale Prozessbegleiterinnen, die in dem von der zuständigen Behörde geführten Verzeichnis aufgelistet sind. Von diesen sind zwei bei der Zeugenbetreuung des Landgerichts angestellt, vier arbeiten für freie Träger im Bereich des Opferschutzes. Es ist nicht festgelegt, mit welchem Stellenanteil diese Personen im Bereich der psychosozialen Prozessbegleitung tätig werden, da sie jeweils entsprechend dem Bedarf auch andere Aufgaben wahrnehmen. Zwei Prozessbegleiterinnen sind selbständig tätig.
 

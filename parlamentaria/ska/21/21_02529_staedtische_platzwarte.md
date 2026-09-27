@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50824"
@@ -45,7 +46,7 @@ Wie hat sich die personelle, sachliche und finanzielle Ausstattung für den Spor
 
 Welche Sportanlagen werden von städtischen Platzwarten betreut? Bitte aufschlüsseln nach Bezirk, Plätzen, Hallen und anderen Sportstätten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlagen 1 und 2.
 
@@ -73,7 +74,7 @@ Die Tarifgemeinschaft deutscher Länder (TdL) hat zum 1. März 2015 einen Tarifv
 
 Hat die Stadt Hamburg eine Vereinbarung bezüglich der städtischen Platzwarte mit Ver.di abgeschlossen? Wenn ja, wie lautet die Vereinbarung?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Sportplatzwarte fallen grundsätzlich unter den Geltungsbereich des Tarifvertrags für den öffentlichen Dienst der Länder (TV-L). Abweichend davon werden aber die Arbeitszeit und das Pauschalentgelt durch den „Tarifvertrag über die Arbeitsbedingungen der Sportplatzwarte vom 1. Juli 1966“ in der Fassung vom 4. Mai 2009 in der Fassung des Änderungstarifvertrages vom 9. März 2013 (TV Sportplatzwarte) bestimmt, der keine automatische Dynamisierungsklausel bei tariflichen Entgelterhöhungen im TV-L enthält. In einer Protokollnotiz haben die Tarifvertragsparteien erklärt, die Anpassung des Gesamtpauschalentgeltes bei einer Änderung der der Pauschalierung zugrundeliegenden Entgelte oder sonstigen Entgeltbestandteile ohne Kündigung des Tarifvertrages neu zu verhandeln. Im Vorgriff auf diese Verhandlungen hat sich die Freie und Hansestadt Hamburg bereits im November 2015 einseitig entschlossen, den Sportplatzwarten rückwirkend zum 1. März 2015 einen Pauschalbetrag von 50 Euro zu zahlen, der sich aus der Eingruppierung in Anlehnung an das Tarifergebnis zum TV-L vom 28. März 2015 ergibt.
 

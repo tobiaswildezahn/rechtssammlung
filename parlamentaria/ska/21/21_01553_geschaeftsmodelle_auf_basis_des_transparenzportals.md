@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13722"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49760"
@@ -109,11 +110,11 @@ Gibt es Pläne, das Transparenzportal mit Live-Daten (etwa aus der Verkehrsüber
 
 Es sind bereits Live-Daten im Transparenzportal vorhanden, zum Beispiel
 
- ParkraumGis Hamburg: Parkstandserfassungen für verdichtete Bereiche sowie
+– ParkraumGis Hamburg: Parkstandserfassungen für verdichtete Bereiche sowie
 
 Informationen zu Park- und P+R-Anlagen unter http://suche.transparenz.hamburg.de/dataset/parkraumgis-hamburg,
 
- Parkhäuser Hamburg: Darstellung der Parkhäuser im Stadtgebiet, zum Teil werden
+– Parkhäuser Hamburg: Darstellung der Parkhäuser im Stadtgebiet, zum Teil werden
 
 in  
 zehnminütigen  
@@ -124,6 +125,6 @@ unter
 http://www.geoportal-hamburg.de/Geoportal/geo-online/?id=0EEE1494-36DD-  
 410C-B5A3-7531DC457014,
 
- Baustellen Hamburg: Darstellung der jeweils bis zu 50 größten Baustellen im
+– Baustellen Hamburg: Darstellung der jeweils bis zu 50 größten Baustellen im
 
 Hamburger Stadtgebiet. Die Aktualisierung erfolgt wöchentlich donnerstags unter http://www.geoportal-hamburg.de/Geoportal/geo-online/?id=F67E2668-DD51- 4BE1-B176-7719FFB946CD.

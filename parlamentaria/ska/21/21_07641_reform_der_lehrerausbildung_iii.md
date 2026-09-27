@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 22
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3263", "21/3555", "21/4999"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56242"
@@ -80,7 +81,7 @@ Wann wurde der Abschlussbericht fertiggestellt?
 
 Wann wurde der Bericht der zuständigen Behörde zugeleitet?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die „Empfehlungen der Expertenkommission zur Fortschreibung der Reform der Lehrerbildung in Hamburg“ wurden am 13. Januar 2017 fertiggestellt und den für Bildung sowie für Wissenschaft, Forschung und Gleichstellung zuständigen Behörden am 18. Januar 2017 übergeben.
 

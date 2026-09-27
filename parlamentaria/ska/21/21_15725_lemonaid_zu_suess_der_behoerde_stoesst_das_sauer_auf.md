@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65222"
@@ -97,6 +98,6 @@ Der Name Lemonaid ist Programm, die Firma beschäftigt knapp 100 Mitarbeiter und
 
 Sieht die Behörde eine Möglichkeit, im Zuge der aktuellen Zuckerreduktionsstrategie der Bundesernährungsministerin, gesetzliche Änderungen zu erwirken, um der Limonade (neben dem „Erfrischungsgetränk“) per Definition einen weniger süßen Touch geben zu können?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Hamburger Gesundheitssenatorin setzt sich auf Bundesebene für eine Überarbeitung der Leitsätze ein, damit diese nicht die Bemühungen um eine gesunde Ernährung der Bevölkerung konterkarieren. Das gilt auch hinsichtlich des Zuckergehaltes von Limonaden. Seitens des Bezirksamtes Hamburg-Mitte werden vorerst keine weiteren Schritte eingeleitet.

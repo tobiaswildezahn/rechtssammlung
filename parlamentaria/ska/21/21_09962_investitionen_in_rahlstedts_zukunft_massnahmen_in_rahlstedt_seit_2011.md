@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 4
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11135"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58782"
@@ -50,6 +51,6 @@ c) Für welche weiteren Maßnahmen gibt es bereits Finanzierungszusagen oder ist
 
 Mit öffentlichen Mitteln werden außerdem Investitionen in die Infrastruktur Dritter unterstützt, die für die Hamburgerinnen und Hamburger wichtig sind. Welche Investitionen, Bau- und Sanierungsmaßnahmen wurden mit welchem Finanzierungsvolumen seit 2011 in die öffentliche Infrastruktur Dritter durch die Freie und Hansestadt Hamburg beziehungsweise ihrer Einrichtungen, Unternehmen und Landesbetriebe im Stadtteil Rahlstedt unterstützt? Bitte nach dem gleichen Schema wie unter 1. darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 20/11135 sowie zu Frage 1. Anlage 1 und zu Frage 2. Anlage 2. Die Angaben erfolgen in der Vollständigkeit und Qualität, die in der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit möglich waren.

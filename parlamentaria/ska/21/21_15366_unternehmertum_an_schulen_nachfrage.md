@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15067", "21/9351", "21/9982"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64902"
@@ -33,17 +34,17 @@ Auf die Schriftliche Kleine Anfrage zum Thema Unternehmertum an Schulen (Drs. 21
 
 ## Einleitung für die Antworten des Senats
 
- Pilotprojekt zur Entrepreneurship Education
+– Pilotprojekt zur Entrepreneurship Education
 
- Die Junior Programme des Instituts der deutschen Wirtschaft
+– Die Junior Programme des Instituts der deutschen Wirtschaft
 
- Regelhafte Kooperationen mit der Handwerkskammer und der Handels-
+– Regelhafte Kooperationen mit der Handwerkskammer und der Handels-
 
 kammer
 
- Arbeitskreis „SchuleWirtschaft Hamburg“
+– Arbeitskreis „SchuleWirtschaft Hamburg“
 
- MINTPrax
+– MINTPrax
 
 Über diese Kooperationen hinaus, gibt es weitere Angebote, die bisher nur sehr vereinzelt wahrgenommen werden. Beispielhaft sind Angebote der „Jungen Unternehmer“ zu nennen, mit denen Schüler über den Beruf des Unternehmers aufgeklärt werden können. In der Drs. 21/15067 wird angegeben, dass die für Bildung zuständige Behörde aufgrund der „selbstverantworteten Schule“ keine zentrale Erfassung von Kooperationen vornimmt und deswegen über die Kooperation der Schulen mit außerschulischen Partnern nicht voll auskunftsfähig ist. Das Konzept der „selbstverantworteten Schule“ kann jedoch nicht bedeuten, dass die Schulbehörde keine ausreichende Kenntnis über die Entwicklungen in wesentlichen Lehrbereichen der Hamburger Schulen hat.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7764", "21/8037", "21/7244"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57066"
@@ -47,7 +48,7 @@ In welcher Kalenderwoche werden die beiden Trenninseln im Mühlenkamp abgerissen
 
 In welcher Kalenderwoche wird die metallene Leitbake in der Kreuzung Mühlenkamp/Gertigstraße wieder gegen einen Plastikpfosten (analog den beiden anderen Pfosten) ausgetauscht? Welche Detailpläne sind hierfür erforderlich, wann wurde wer mit der Erstellung der Detailpläne beauftragt und bis wann sollen die Detailpläne vorliegen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die baulichen Änderungen gemäß Drs. 21/7764 sind für die 16. und 17. Kalenderwoche (KW) des Jahres 2017 vorgesehen. Ein zeitlicher Vorlauf ist unter anderem für die Erstellung der Ausführungs- und Verkehrsführungspläne während der Bauzeit, deren Abstimmung und straßenverkehrsbehördliche Anordnung sowie das Vergabeverfahren und die Vorbereitung der Baustelle erforderlich. Der Ausführungslageplan wird Ende März des Jahres 2017 auf der Internetseite www.via-bus.de veröffentlicht.
 
@@ -91,6 +92,6 @@ Auf Basis welches wissenschaftlich anerkannten Verfahrens wurden die Rohdaten f�
 
 Welche verschiedenen Typen von Störereignissen wurden im Rahmen der Erhebung der Daten für C1 und C2 festgestellt? (Bitte detailliert die verschiedenen Typen von Störereignissen für die verschiedenen Flächen 1 bis 7 gemäß dem „Gutachten“ separat darstellen.)
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/8037 und 21/7244.

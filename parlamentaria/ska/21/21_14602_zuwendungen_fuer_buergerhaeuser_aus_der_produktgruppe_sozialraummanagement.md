@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6975"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64039"
@@ -49,7 +50,7 @@ Welche institutionellen Zuweisungen sind über die Produktgruppe Sozialraummanag
 
 Welche Mittel aus dem Quartiersfonds sind darüber hinaus an die vorgenannten Bürgerhäuser in den jeweiligen Jahren zugewiesen worden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 

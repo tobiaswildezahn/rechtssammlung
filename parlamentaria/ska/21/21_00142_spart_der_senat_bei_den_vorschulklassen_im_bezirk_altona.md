@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11503"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48269"
@@ -158,7 +159,7 @@ Wie hoch stellt sich die Klassenfrequenz an den einzelnen Vorschulen im Bezirk A
 
 Wie viele Kinder mit sonderpädagogischem Förderbedarf wurden in den Vorschulklassen der Grundschulen im Bezirk Altona im Schuljahr 2014/ 2015 aufgenommen? Bitte für jede Schule einzeln angeben. Wie viele Kinder mit sonderpädagogischem Förderbedarf werden in den Vorschulklassen der Grundschulen im Bezirk Altona im Schuljahr 2015/2016 aufgenommen? Bitte für jede Schule einzeln angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 In der nachfolgenden Tabelle sind für das Schuljahr 2014/2015 die durchschnittlichen Klassengrößen und die Anzahl der Vorschulkinder mit sonderpädagogischem Förderbedarf ausgewiesen.
 

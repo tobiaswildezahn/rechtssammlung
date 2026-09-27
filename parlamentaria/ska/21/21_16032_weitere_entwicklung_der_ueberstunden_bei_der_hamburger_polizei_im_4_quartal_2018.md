@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14806"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65526"
@@ -44,7 +45,7 @@ Wie hat sich die Überstundensituation bei der Hamburger Polizei im
 Quartal 2018 monatlich entwickelt? Bitte insgesamt und nach Bereichen aufschlüsseln.
 2. Wie viele Überstunden haben die Bediensteten der Polizei nunmehr durchschnittlich (Stand 31. Dezember 2018)? Bitte insgesamt und nach Bereichen aufschlüsseln.
 
-#### Antwort zu Fragen 1, 4
+#### Antwort zu Fragen 1 und 4
 
 Die Entwicklung der Zahl der Mehrarbeitsstunden im 4. Quartal 2018 sowie der durchschnittlichen Zahl der Mehrarbeitsstunden pro Bediensteten zum Stichtag 31. Dezember 2018 sind der nachfolgenden Tabelle zu entnehmen:
 
@@ -117,7 +118,7 @@ Welche Details enthält die von der Arbeitsgruppe und dem Personalrat (PR) entwi
 
 Welche konkreten Maßnahmen und Zahlungen folgen hieraus?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Grundlagen für die Dienstvereinbarung (DV) sind die EU-Richtlinie „Arbeitszeitrichtlinie 2003/88/EG vom 4. November 2003“ und § 61 Hamburgisches Beamtengesetz (HmbBG), die Hamburgische Mehrarbeitsvergütungsverordnung (HmbMVergVO) sowie die dazu erlassenen Ausführungsbestimmungen in der jeweils geltenden Fassung. Die DV differenziert zwischen bisherigen (Altstunden) und künftigen (Neustunden) Mehrarbeitsstunden. Als Grenze zwischen Alt- und Neustunden wurde der 31. Dezember 2018 als Stichtag festgelegt.
 
@@ -125,35 +126,35 @@ Ziel der DV ist, die Altstunden mittelfristig abzubauen und ab dem 1. Januar 201
 
 Wesentliche Details und Maßnahmen der Dienstvereinbarung (DV):
 
- Übergangsregelung für die Altstunden – finanzielle oder zeitliche Abgeltung inner-
+– Übergangsregelung für die Altstunden – finanzielle oder zeitliche Abgeltung inner-
 
 halb eines Zeitraums von sechs Jahren nach dem Stichtag.
 
- Für Neustunden gilt künftig – ausnahmslos – die gesetzliche Verjährungsfrist nach
+– Für Neustunden gilt künftig – ausnahmslos – die gesetzliche Verjährungsfrist nach
 
 §§ 194 fortfolgende Bürgerliches Gesetzbuch von drei Jahren, gerechnet ab dem Ende des Entstehungsjahres.
 
- Mehrarbeit soll auf Ausnahmefälle beschränkt bleiben. Mehrdienstleistende haben
+– Mehrarbeit soll auf Ausnahmefälle beschränkt bleiben. Mehrdienstleistende haben
 
 in Abstimmung mit ihren Vorgesetzten planvoll und zeitgerecht die Abgeltung der Mehrarbeitsstunden vorzunehmen.
 
- Mehrarbeitsstunden sind stets vorrangig durch Freizeitausgleich (FZA) auszuglei-
+– Mehrarbeitsstunden sind stets vorrangig durch Freizeitausgleich (FZA) auszuglei-
 
 chen. Eine Ablehnung von FZA kann ausschließlich aufgrund zwingender dienstlicher Erfordernisse erfolgen. Grundsätzlich können Mehrarbeitsstunden nur finanziell abgegolten werden, wenn ein solcher FZA über einen nachzuweisenden Zeitraum von einem Jahr nicht möglich war (Ausnahme nach der HmbMVergVO möglich).
 
- Übersteigt das Mehrarbeitskonto (Neustunden) die Zahl von 150, so sollen Mehr-
+– Übersteigt das Mehrarbeitskonto (Neustunden) die Zahl von 150, so sollen Mehr-
 
 dienstleistende und Vorgesetzte eine Vereinbarung über den Abbau der Mehrarbeitsstunden, bei Bedarf unter Beratung durch den Personalrat, treffen. Ab einer Stundenzahl von 200 Neustunden besteht die Verpflichtung für die Vorgenannten, eine solche verbindliche Vereinbarung über den Abbau der Mehrarbeitsstunden zu treffen.
 
- Die Personalabteilung führt ein Controlling der Entwicklung der Mehrarbeitskonten
+– Die Personalabteilung führt ein Controlling der Entwicklung der Mehrarbeitskonten
 
 der Beschäftigten zum Erkennen eventueller Fehlentwicklungen und zum Veranlassen von Gegenmaßnahmen durch.
 
- Mehrstunden, die nicht die formellen Voraussetzungen des § 61 HmbBG und der
+– Mehrstunden, die nicht die formellen Voraussetzungen des § 61 HmbBG und der
 
 dazu erlassenen näheren Bestimmungen erfüllen, sind keine Mehrarbeitsstunden. Sie sind im Zeiterfassungsprogramm SP-EXPERT im sogenannten Korridor/Differenz-Konto zu buchen.
 
- Die Regelungen zur Nutzung von Gleitzeitkonten bleiben unberührt. Eine Anrech-
+– Die Regelungen zur Nutzung von Gleitzeitkonten bleiben unberührt. Eine Anrech-
 
 nung von Mehrarbeitsstunden auf Gleitzeitkonten ist nicht statthaft.
 

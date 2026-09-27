@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9685", "21/9687", "21/7978", "21/1056", "21/1845", "21/2048"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59801"
@@ -141,6 +142,6 @@ Wie steht der Senat zu der Überlegung, angesichts der vermehrten Alleingänge d
 
 Gibt es Planungen, den SEPL gemeinsam mit den Akteuren des Schulwesens und der Bildungspolitik zu überarbeiten? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Vorbemerkung.

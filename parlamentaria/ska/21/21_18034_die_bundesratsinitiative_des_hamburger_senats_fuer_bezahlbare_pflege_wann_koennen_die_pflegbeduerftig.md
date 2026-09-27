@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67672"
@@ -59,6 +60,6 @@ Bis zu welchem Zeitpunkt (+/- zwei Quartale) wird nach Einschätzung des Senats 
 
 Wann würde sich – eine entsprechende Entschließung des Bundesrates zum Reformvorhaben vorausgesetzt – der Bundestag frühestens mit der Angelegenheit befassen und bis zu welchem Zeitpunkt (+/- zwei Quartale) würden nach Einschätzung des Senats – eine entsprechende Beschlussfassung des Bundestages vorausgesetzt – die Reforminhalte im Gesetzblatt stehen und die Bürger finanziell entlasten können?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Willensbildungsprozess des Bundesrates ist noch nicht abgeschlossen. Siehe auch BR.-Drs. 106/19 und 106/1/19. Im Übrigen sieht der Senat davon ab, zu Zeitabläufen und Inhalten zukünftiger Beschlüsse des Bundesrates und Bundestages Stellung zu nehmen.

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50244"
@@ -61,7 +62,7 @@ Wird mit dieser geplanten engen Bauweise der städtebaulichen Gesamtsituation am
 
 Welche Lärmschutzmaßnahmen entlang der Sieker Landstraße sind in einer Tiefe von 70 m gemessen von der Straßenbegrenzungslinie für die Wohn- und Schlafräume vorgesehen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Für das Grundstück wurde ein Bauantrag gestellt, der derzeit geprüft wird. Die Prüfung ist noch nicht abgeschlossen; ihrem Ergebnis kann nicht vorgegriffen werden. Im Übrigen siehe Antworten zu 1. und 2.
 

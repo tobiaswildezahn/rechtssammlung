@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3750", "21/3605", "21/3897", "21/6407", "21/7668", "21/8043"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57319"
@@ -51,7 +52,7 @@ Trifft es zu, dass die Verhandlungen zur Entwicklung des Theaterstandortes Gauß
 
 Trifft es zu, dass sowohl die Theaterakademie als auch das Junge SchauSpielHaus den Theaterstandort Gaußstraße verlassen? a. Wenn ja, warum? b. Wenn ja, an welchen Standort werden die Institutionen jeweils zu welchem Zeitpunkt wechseln?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Ja. Der Aufsichtsrat des DSH hat nach Unterrichtung über den Verhandlungsstand am
 21. November 2016 entschieden, dass die bis dahin erzielten Verhandlungsergebnisse nicht geeignet sind, diese Standortoption weiter zu verfolgen, weil es keine Bestätigung des Vermieters gab, dem DSH ein spielfertiges Theater nach den Bestimmungen der Versammlungsstättenverordnung zu vermieten. Daneben konnte keine Einigung über bestimmte technische Voraussetzungen des Bühnenraums erzielt werden, um die dauerhafte Genehmigungsfähigkeit als Theater über die Mietlaufzeit von 30 Jahren zu gewährleisten. Außerdem gab es Differenzen über das Brandschutzkonzept und den Stellplatznachweis. Die neuen Räume am Wiesendamm sollen nach derzeitiger Planung der Sprinkenhof GmbH 2019 bezugsfertig sein. Im Übrigen siehe Drs. 21/7668 und 21/8043.

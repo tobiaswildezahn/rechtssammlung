@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3634"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58746"
@@ -104,7 +105,7 @@ Wie hoch waren die Kosten, um am Busbetriebshof Hummelsbüttel die technischen V
 
 Wie hoch waren die Kosten, um den Betriebshof Langenfelde für das Abstellen und die Wartung von Wasserstoffbussen herzurichten?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im Fokus der Beschaffungsstrategie von HOCHBAHN und VHH stehen Batteriebusse mit Laden auf den Betriebshöfen. Bei der HOCHBAHN werden auch Wasserstoffbusse sowie Plug-In-Hybridbusse, die neben dem elektrischen Antrieb noch einen Dieselmotor haben, erprobt. Damit verfügt das Verkehrsunternehmen über eine Option, um gegebenenfalls auch Umläufe mit besonders hohen Kilometerleistungen abdecken zu können.
 
@@ -120,6 +121,6 @@ Wie lange dauert das vollständige Aufladen eines E-Busses und wie hat sich die 
 
 Mit welchen Ladezeiten rechnet der Senat, wenn er ab 2020 E-Busse für den Regelbetrieb einsetzen möchte?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Konkrete Zeiten können nicht angegeben werden, da die Ladezeit abhängig von der gewählten Batteriekapazität, dem gewählten Batterietyp als auch von der Ladeleistung der zum Einsatz kommenden Ladegeräte ist. Zudem variiert die benötigte Energiemenge je Bus aufgrund des Umlaufs am Folgetag unter Berücksichtigung von Temperatur, geplanter Reichweite und voraussichtlicher Verkehrssituation. Sowohl bei der Batterietechnik als auch bei den Ladegeräten gab es in den vergangenen Jahren große technologische Weiterentwicklungen.

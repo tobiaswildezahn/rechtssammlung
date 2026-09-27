@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11703"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65278"
@@ -51,7 +52,7 @@ Wann wird der „Masterplan Oberbillwerder“ der Bürgerschaft vorgelegt?
 
 Wer wird beziehungsweise welche Stellen werden die Planungen über Entwicklungs-, Erschließungs- und Infrastrukturmaßnahmen sowie die Kosten- und Finanzierungsplanung erstellen und wann werden diese vorliegen? In welchen Gremien werden diese debattiert und beschlossen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die IBA Hamburg wurde von der für Stadtentwicklung zuständigen Behörde mit der Erstellung der Kosten- und Finanzierungsplanung beauftragt. Der Bürgerschaft wird mit der in Vorbereitung befindlichen Drucksache zum Masterplan Oberbillwerder zu den Kosten in diesem Jahr berichtet werden.
 
@@ -97,7 +98,7 @@ In der Verkehrsuntersuchung zu „Oberbillwerder“ heißt es zur Fahrgastentwic
 
 Ist der Einsatz von Langzügen (drei Einheiten) auf den gesamten Strecken der S2/S21 möglich? Falls nein, wo sind Baumaßnahmen, zum Beispiel längere Bahnsteige, erforderlich?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Zur hochwertigen, leistungsfähigen und attraktiven Erschließung des öffentlichen Personennahverkehrs als Anbindung an die Hamburger Innenstadt und nach Bergedorf kann das S-Bahn-Angebot in den kommenden Jahren entsprechend der zunehmenden Besiedlung ausgeweitet werden. Im Endzustand würde die Linie S21 mit Vollzügen (sechs Wagen) und die Linie S2 künftig mit Langzügen (neun Wagen) zwölf Mal pro Stunde je Richtung über die gesamte Länge der Hauptverkehrszeiten verkehren.
 

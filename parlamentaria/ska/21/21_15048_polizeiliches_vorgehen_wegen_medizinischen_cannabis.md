@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3570"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64506"
@@ -79,7 +80,7 @@ In wie vielen Fällen ist es im Jahr 2017 im Zusammenhang mit dem Konsum, Besitz
 
 In wie vielen Fällen ist es im Jahr 2018 im Zusammenhang mit dem Konsum, Besitz oder Erwerb von medizinischen Cannabis zu polizeilichen Maßnahmen gekommen? Bitte Datum, Ort, Situation, Grund und Art der polizeilichen Maßnahme angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Statistiken im Sinne der Fragestellungen werden von der Polizei nicht geführt. Für die Beantwortung wäre eine manuelle Durchsicht sämtlicher Hand- und Ermittlungsakten an den für Betäubungsmitteldelikte zuständigen Dienststellen erforderlich. Die Auswertung mehrerer Tausend Vorgänge pro Jahr ist in der für eine Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14486", "21/943"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51081"
@@ -89,7 +90,7 @@ Welche Überlegungen gibt es derzeit hinsichtlich einer Optimierung der Steuerun
 
 Welche Veränderungen bezüglich der vollständigen oder teilweisen Zuständigkeit der Finanzbehörde bei einzelnen öffentlichen Unternehmen sind derzeit im Einzelnen vorgesehen oder werden erwogen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Bezüglich öffentlicher Unternehmen im Bereich des Immobilienmanagements siehe Drs. 20/14486. Im Übrigen hat sich der Senat hiermit nicht befasst.
 

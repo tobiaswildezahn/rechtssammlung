@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55316"
@@ -57,21 +58,21 @@ Hat bereits eine Ortsbegehung durch die zuständige Fachbehörde beziehungsweise
 
 Am 30. Juni 2016 fand eine Ortsbegehung mit Vertretern von HAMBURG WASSER und des zuständigen Bezirksamts sowie betroffenen Anwohnern statt. Ergebnisse der Ortsbegehung waren:
 
- Merkmale am Bewuchs zeigten auf, dass der Wellingsbütteler Grenzgraben bei
+– Merkmale am Bewuchs zeigten auf, dass der Wellingsbütteler Grenzgraben bei
 
 dem Starkregenereignis am 24. Juni 2016 nicht über die Ufer getreten war. Dies wurde durch Angaben von Anwohnern bestätigt.
 
- Bei nachfolgenden Kontrollen des Wellingsbütteler Grenzgrabens wurde festge-
+– Bei nachfolgenden Kontrollen des Wellingsbütteler Grenzgrabens wurde festge-
 
 stellt, dass der richtlinienkonforme Abfluss für ein fünfjährliches Regenereignis sichergestellt war.
 
- Der Zustand des Sieles ist ebenfalls einwandfrei.
+– Der Zustand des Sieles ist ebenfalls einwandfrei.
 
- Es wurden eine Vermessung des Grabens und eine Bewertung der aus dem
+– Es wurden eine Vermessung des Grabens und eine Bewertung der aus dem
 
 Regenradar unter Berücksichtigung von Winddriftbetrachtungen sowie Bodenmessungen benachbarter Messstationen ableitbaren Regenereignisse veranlasst.
 
- Bauliche Maßnahmen zur Eigenvorsorge entsprechend § 16 der Hamburgischen
+– Bauliche Maßnahmen zur Eigenvorsorge entsprechend § 16 der Hamburgischen
 
 Bauordnung an den tief gelegenen Gebäuden waren nicht erkennbar.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 23
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/229"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48507"
@@ -58,7 +59,7 @@ Welche genauen Ziele verfolgt die HPA mit diesem Auftrag an KPMG? Soll bisherige
 
 Gibt es Überlegungen bei der HPA, Grundbesitz/Grundstücke im Hafen aus der HPA auszugliedern und/oder einer anderen Gesellschaft zu übertragen oder in sonstiger Weise Veränderungen an der derzeitigen Struktur des sogenannten Grundbesitzes im Hafen(-gebiet) vorzunehmen? Wenn ja: Welche Ziele werden hiermit verfolgt? Auf welche Gesellschaft (Rechtsform) sollen diese übertragen werden? Wer ist/soll Eigentümer dieser Gesellschaft sein? Stehen diese Überlegungen im Zusammenhang mit der Auftragsvergabe an KPMG?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Das Gutachten steht in Zusammenhang mit Überlegungen, wie sich die beihilferechtliche Transparenz und die finanzielle Leistungsfähigkeit der einzelnen Aufgabenbereiche der HPA optimieren lassen.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 3
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1930"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50322"
@@ -84,9 +85,9 @@ Handelt es sich bei den Angaben unter b) und c) der Übersicht „Herleitung der
 
 #### Antwort zu Frage 2
 
- Wer wird da noch mitgezählt? (Bitte detailliert benennen.)
+– Wer wird da noch mitgezählt? (Bitte detailliert benennen.)
 
- Bitte die Ausbildungszahlen nur für Schulabgängerinnen und Schul-
+– Bitte die Ausbildungszahlen nur für Schulabgängerinnen und Schul-
 
 abgänger nennen.
 

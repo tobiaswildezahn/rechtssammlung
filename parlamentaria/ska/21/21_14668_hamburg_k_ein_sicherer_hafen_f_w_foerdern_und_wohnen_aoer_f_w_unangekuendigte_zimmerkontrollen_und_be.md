@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 27
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11368"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64108"
@@ -175,21 +176,21 @@ IV. Benutzung der Unterkunft und der gemeinschaftlichen Anlagen
 
 Das Rauchen ist danach in allen geschlossenen Räumen verboten, die gemeinschaftlich  
 von mehreren Parteien genutzt werden, insbesondere  
-•  
+–  
 in Bewohnerzimmern, sofern keine Einigung der Bewohner möglich ist,  
-•  
+–  
 in Gruppenräumen,  
-•  
+–  
 in Gemeinschaftsküchen,  
-•  
+–  
 in gemeinschaftlichen Sanitär- und WC-Bereichen,  
-•  
+–  
 in Gemeinschaftswaschküchen,  
-•  
+–  
 in Treppenhäusern, Hausfluren und in Kellern,  
-•  
+–  
 in Speiseräumen und an Essenausgabestellen sowie  
-•  
+–  
 in Verwaltungsbüros von f & w und in allen Räumen der Einrichtung, in denen ein  
 entsprechendes Hinweisschild angebracht ist.
 

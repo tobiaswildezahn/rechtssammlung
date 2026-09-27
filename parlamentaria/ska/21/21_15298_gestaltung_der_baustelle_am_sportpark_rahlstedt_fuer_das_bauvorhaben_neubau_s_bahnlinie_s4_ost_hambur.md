@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64897"
@@ -49,7 +50,7 @@ Wo werden sich die Flächen für die logistischen Prozesse der Baustelle im Absc
 
 Wo wird sich das Materialzwischenlager für die Baustelle im Abschnitt des PFA 2 am Sportpark Rahlstedt befinden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Flächen am Sportpark Rahlstedt sollen sich nach derzeitigem Planungsstand entlang der bestehenden Eisenbahntrasse erstrecken. Im Übrigen siehe Vorbemerkung.
 
@@ -69,7 +70,7 @@ Von welchem Ausgangspunkt aus werden die Bauarbeiten für die Baustelle im Absch
 
 Welche Anlieger sind durch die Nutzung der Fläche am Sportpark Rahlstedt beeinträchtigt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 

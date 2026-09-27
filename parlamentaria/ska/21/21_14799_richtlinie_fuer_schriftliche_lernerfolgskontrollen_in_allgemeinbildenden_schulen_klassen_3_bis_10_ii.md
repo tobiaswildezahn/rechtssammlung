@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14495"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64237"
@@ -59,6 +60,6 @@ Wie hoch ist der Prozentsatz an Klassenarbeiten in den Kernfächern Mathematik, 
 
 Wie häufig wurde in diesen Fällen (Frage 1.) die Entscheidung getroffen, die Klassenarbeit nicht zu bewerten und zu wiederholen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung und Anlage.

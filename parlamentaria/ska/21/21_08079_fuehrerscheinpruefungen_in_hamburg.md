@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56744"
@@ -69,7 +70,7 @@ Wie viele Führerscheinprüfungen wurden in Hamburg 2014 – 2016 jährlich jewe
 
 Wie viele theoretische Prüfungen wurden im genannten Zeitraum bestanden? Wie viele praktische Prüfungen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 2014*  
 2015*  

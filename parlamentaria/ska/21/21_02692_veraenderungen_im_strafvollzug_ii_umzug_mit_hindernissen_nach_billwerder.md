@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 26
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/4930", "21/1802", "20/7164", "21/2252", "21/2595"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51034"
@@ -51,17 +52,17 @@ Wie viele und welche Räumlichkeiten in der JVA Billwerder werden ab welchem Zei
 
 Ab dem Zeitpunkt der Verlagerung des Frauenvollzuges in die JVA Billwerder werden die folgenden Räumlichkeiten jeweils zu getrennten Zeiten von weiblichen oder männlichen Gefangenen genutzt werden:
 
- Besuchsräumlichkeiten – ein Raum allgemeiner Besuch, zwei Langzeitbesuchs-
+– Besuchsräumlichkeiten – ein Raum allgemeiner Besuch, zwei Langzeitbesuchs-
 
 räume, vier Einzelbesuchsräume, vier Anwaltsbesuchsräume mit zwei Warteräumen
 
- Kaufmann – ein Raum mit einem Vorraum
+– Kaufmann – ein Raum mit einem Vorraum
 
- Kirche – ein Raum
+– Kirche – ein Raum
 
- Sporthalle – zwei Sporträume
+– Sporthalle – zwei Sporträume
 
- Ambulanz – insgesamt acht Räume (Arztsprechzimmer/Behandlungsräume, War-
+– Ambulanz – insgesamt acht Räume (Arztsprechzimmer/Behandlungsräume, War-
 
 teräume, medizinisches Patientenbad)
 
@@ -109,7 +110,7 @@ Wie ist der bauliche Zustand der JVA Billwerder?
 
 Wie hoch sind die tatsächlichen Kosten der baulichen Änderungen für den Umzug der weiblichen Gefangenen von der JVA Hahnöfersand in die JVA Billwerder? Gibt es Abweichungen von den ursprünglichen Kosten? Wenn ja, welche und warum? Welche weiteren Kosten für Sanierung/ Änderungen der JVA Billwerder sind geplant?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die tatsächlichen Kosten der baulichen Änderungen für den Umzug der weiblichen Gefangenen von der JVA Hahnöfersand in die JVA Billwerder stehen noch nicht fest. Im Übrigen siehe Drs. 21/2252. Für weitere Sanierungen/Änderungen der JVA Billwerder sind Kosten in Höhe von rund 2,0 Millionen Euro in den nächsten Jahren geplant.
 

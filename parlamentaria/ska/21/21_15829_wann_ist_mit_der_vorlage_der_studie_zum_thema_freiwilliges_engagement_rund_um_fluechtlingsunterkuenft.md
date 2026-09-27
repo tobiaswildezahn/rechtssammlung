@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7613", "21/13679", "21/14056", "21/14861"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65328"
@@ -57,7 +58,7 @@ Wird sie veröffentlicht? Wenn ja, wann? Wenn nein, warum nicht?
 
 Wann ist mit einer Veröffentlichung der Studie zu rechnen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Studie ist unter Berücksichtigung der datenschutzrechtlichen Vorgaben im Hamburger Transparenzportal veröffentlicht unter folgendem Link:
 
@@ -89,7 +90,7 @@ Die in Drs. 21/13679 genannten Erkenntnisse aus der Studie sind durchaus ernüch
 
 Soll es eine Folgestudie geben? Wenn ja, wann mit welchen Vorgaben durchgeführt von wem? Wenn nein, warum hält der Senat diese trotz noch vorhandenen sechs Erstaufnahmeeinrichtungen plus Ankunftszentrum mit 1 224 Bewohnern und 128 öffentlich-rechtlichen Unterkünften mit 34 227 Bewohnern nicht mehr für nötig?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die laufende Fortschreibung der Engagementstrategie (siehe Drs. 21/14056) wird über ein multimethodisches Verfahren zur Informationsgewinnung unter Beteiligung der Zivilgesellschaft die bestehenden Strukturen und Bedarfe der Hamburger Engagementlandschaft analysieren. Hierbei werden auch Ergebnisse der genannten Studie Berücksichtigung finden. Eine Folgestudie ist daher nicht erforderlich.
 

@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 26
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16331", "21/19200", "21/2521", "21/17912", "21/13200", "21/19067"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69213"
@@ -123,19 +124,19 @@ Welche konkreten Maßnahmen wurden seit dem 1. Januar 2016 in den Hamburger Beh�
 
 Auf dem Weg zur klimaneutralen Verwaltung 2030 setzen die Behörden bereits in verschiedenen Beschaffungsbereichen Maßnahmen um, die unter anderem eine Minderung der CO-Emissionen der Verwaltung zur Folge haben. In vielen Bereichen wurden seit dem 1. Januar 2016 zentrale Vorgaben und Vereinbarungen neu getroffen beziehungsweise aktualisiert, beispielhaft werden hier aufgeführt:
 
- Leitfaden für umweltfreundliche Beschaffung mit Negativliste und Umweltkriterien,
+– Leitfaden für umweltfreundliche Beschaffung mit Negativliste und Umweltkriterien,
 
 unter anderem in Rahmenverträgen von Post- und Paketdienstleistungen, Papier, Büromaterialien und IT-Produkten,
 
- Leitlinie für die Beschaffung von Fahrzeugen mit geringen CO- und Schadstof-
+– Leitlinie für die Beschaffung von Fahrzeugen mit geringen CO- und Schadstof-
 
 femissionen,
 
- die Möglichkeit für die Behörden, einen Kooperationsvertrag für Leihräder für die
+– die Möglichkeit für die Behörden, einen Kooperationsvertrag für Leihräder für die
 
 dienstliche Nutzung zum Beispiel mit der Firma Deutsche Bahn Connect GmbH, dem Betreiber von StadtRad Hamburg, abzuschließen,
 
- Leitkriterien für die energetische Sanierung öffentlicher Nichtwohngebäude.
+– Leitkriterien für die energetische Sanierung öffentlicher Nichtwohngebäude.
 
 Darüber hinaus haben die Behörden jeweils weitere Maßnahmen zum klimafreundlichen Arbeiten in ihren Häusern umgesetzt.
 
@@ -150,7 +151,7 @@ Zur Ausgestaltung der zentralen Vorgaben und Vereinbarungen sowie weiteren Maßn
 
 Über welche Antriebstechnik verfügen die unter Ziffer 10. fallenden Dienstfahrzeuge jeweils? Bitte nach Jahr, Behörde und Antriebstechnik gesondert zu den Stichtagen 30.06 und 31.12. eines Jahres angeben.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Anlage 3.
 

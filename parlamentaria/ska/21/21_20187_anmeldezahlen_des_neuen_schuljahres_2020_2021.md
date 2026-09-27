@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/20161", "21/20093"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69960"
@@ -43,7 +44,7 @@ Wie viele Schüler/-innen haben sich nach dem gegenwärtigen Kenntnisstand des S
 
 Wie viele dieser Schüler/-innen haben die GS, die PS, die STS oder das Gym angewählt? (Bitte in einer Excel-Tabelle angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/20161 und 21/20093.
 

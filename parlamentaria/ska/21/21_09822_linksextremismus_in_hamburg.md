@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 30
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7874", "21/8902", "21/9749", "20/10471", "21/5184", "21/4880", "21/719"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58634"
@@ -79,7 +80,7 @@ Wie viele Betroffene linker Straf- und Gewalttaten gab es in Hamburg? Bitte aufs
 
 Wie viele der in 5. genannten Betroffenen waren Polizeibeamte?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antwort zu 1. bis 4. Im Übrigen siehe Drs. 20/10471.
 
@@ -99,7 +100,7 @@ Gibt es Handreichungen zum Umgang mit linkem Extremismus für Schulen und Hochsc
 
 Wie und in welchem Umfang wird das Thema Linksextremismus an Hamburger Schulen behandelt? Welche Materialen und welche Fortbildungsmaßnahmen stehen den Lehrern zu diesem Thema zur Verfügung?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 An den staatlichen Hamburger Hochschulen gibt es keine der erfragten Handreichungen. Für den Bereich der Hamburger Schulen siehe Drs. 21/5184, 21/4880 und 21/719.
 

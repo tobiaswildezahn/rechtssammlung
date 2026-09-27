@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/519"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61315"
@@ -45,7 +46,7 @@ Auf welchen Grundstücken betreibt die katholische Kirche die oben genannten ach
 
 Soweit Grundstücke für die oben genannten acht Schulen von der FHH an die katholische Kirche übertragen wurden: Zu welchen Vertragsbedingungen wurden die Grundstücke übertragen? Bitte umfassend und aufgeschlüsselt nach den einzelnen Standorten zu folgenden Vertragsdetails Auskunft geben: (a) Datum des Vertragsschlusses, (b) Wirksamwerden der Übertragung/en; (c) Vertragspartner; (d) Unterzeichner aufseiten der FHH (Angabe bitte, soweit rechtlich möglich); (e) Flächengrößen der Grundstücke; (f) Kaufpreise der Grundstücke; (g) gibt es wesentliche Renovierungsverpflichtungen? (h) gibt es wesentliche Auflagen/Bestimmungen zum Betreiben der Schulen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage und Drs. 19/519. Verpflichtungen oder Auflagen wurden nicht vereinbart. Bei den Namen der Unterzeichner handelt es sich um personenbezogene Daten, die der Senat in ständiger Praxis grundsätzlich nicht veröffentlicht.
 
@@ -81,7 +82,7 @@ Falls beziehungsweise soweit die katholische Kirche – auch nach/bei einer mög
 
 Sieht der Senat – ergänzend zu den oben abgefragten privatrechtlichen Möglichkeiten – eine realistische öffentlich-rechtliche Handhabe, einen Verkauf der Grundstücke durch die katholische Kirche gegebenenfalls zu verhindern oder zu erschweren?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Senat hat sich hiermit bislang nicht befasst.
 

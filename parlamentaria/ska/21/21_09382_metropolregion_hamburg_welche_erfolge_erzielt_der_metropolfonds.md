@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1333"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58144"
@@ -51,7 +52,7 @@ Welche konkreten Maßnahmen sind seit 2015 bis Mai 2017 aus den Mitteln des För
 
 Welche Beträge wurden insgesamt von der Freien und Hansestadt Hamburg für die Aktivitäten im Rahmen der Metropolregion Hamburg seit 2015 bis April 2017 aufgewendet (bitte nach den Förderfonds und Projekten mit Antragsteller, Gesamtkosten und Zuwendung darstellen)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlagen 1 bis 3.
 
@@ -160,7 +161,7 @@ Inwieweit hat sich der Senat mit Vorschlägen in den Handlungsfeldern „Vernetz
 
 Die Handelskammer Hamburg hat mit Blick auf die Digitalisierung, die erneuerbaren Energien und den 3-D-Druck länderübergreifende Gründerinitiativen und den Aufbau entsprechender Netzwerke in dem Standpunktepapier „Wettbewerbsfähigkeit der Metropolregion Hamburg voranbringen“ vorgeschlagen. Wie ist dazu der aktuelle Stand und welche Anstrengungen hat der Senat dazu bisher unternehmen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Es handelt sich um ein Diskussionspapier der Handelskammer Hamburg zur Wettbewerbsfähigkeit der MRH, das nicht im Rahmen der Strukturen der MRH entworfen wurde. Auch die anderen Träger aus dem Kreise der Wirtschaft wurden nach Kenntnis der zuständigen Behörde an der Erarbeitung nicht beteiligt. Der Regionsrat der MRH hat sich in seiner Sitzung am 18. Mai 2017, an der erstmals die neuen Träger der MRH teilgenommen haben, darauf verständigt, eine eigene Standortbestimmung vorzunehmen.
 

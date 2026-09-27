@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5810"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50573"
@@ -158,7 +159,7 @@ Wie viele Zuwendungen sind im Rahmen der Förderrichtlinie in Projektförderung 
 
 Wie hoch war die Summe der Zuwendungen gemäß Frage 6., die tatsächlich verausgabt wurden? Bitte jährlich aufschlüsseln für die Jahre 2010 bis 2014.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Integrationszentren erhielten von 2010 bis 2015 keine institutionelle Förderung. Die bewilligten Projektfördermittel ergeben sich aus nachstehender Tabelle.
 

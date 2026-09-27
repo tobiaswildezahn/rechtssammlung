@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 22
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54697"
@@ -79,7 +80,7 @@ Aus welchen finanziellen Budgets der TUHH setzten sich die für den Ausbau/die R
 
 Wurden für den Ausbau und/oder die Renovierung des Ostflügels Studiengebühren beziehungsweise ab Oktober 2012 finanzielle Restmittel aus Studiengebühren verwendet? Wenn ja, wie hoch waren diese im Einzelnen und wann wurden sie für welche baulichen Maßnahmen eingesetzt? (Bitte für jedes Baujahr einzeln nach Verwendungszweck, getrennt in Studiengebühren und Restmittel aus Studiengebühren, in absoluten Zahlen in einer Tabelle aufschlüsseln.) a. Wenn ja, basierend auf welcher rechtlichen Grundlage war dabei die Heranziehung von Studiengebühren beziehungsweise Restmitteln aus Studiengebühren für bauliche Maßnahmen am Ostflügel der TUHH zulässig und welche Regelungen waren dahin gehend vorgeschrieben? (Bitte erklären, Rechtsgrundlage benennen und als Datei anfügen.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Antworten zu 1.
 

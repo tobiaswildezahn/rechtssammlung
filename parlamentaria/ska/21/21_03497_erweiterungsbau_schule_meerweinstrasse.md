@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51854"
@@ -67,7 +68,7 @@ Wie viele Bäume sollen im Zusammenhang mit dem Erweiterungsbau gefällt werden?
 
 Trifft es zu, dass auch Bäume außerhalb der Fläche des geplanten Erweiterungsbaus gefällt werden sollen? Wenn ja, welche und aus welchem Grund jeweils? Bitte Karte mit den Standorten der jeweiligen Bäume beifügen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Lage des geplanten Neubaus macht es erforderlich, 28 Bäume für die Baumaßnahme zu fällen. Darüber hinaus sind drei Bäume zur Schaffung einer Zufahrt zu fällen. Im Übrigen siehe Anlage.
 

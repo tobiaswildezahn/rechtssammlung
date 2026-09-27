@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2034"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50360"
@@ -57,7 +58,7 @@ Wie lautet die Auslegung zur Anwendung des SOG jeweils im Falle der Unterbringun
 
 Wie begründet sich die jeweilige Auslegung und Anwendung des SOG im oben genannten Fall?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für in Hamburg eintreffende Flüchtlinge besteht aufgrund der besonderen Umstände der Fluchtsituation grundsätzlich keine Möglichkeit, vorab selbstständig eine Unterkunft sicherzustellen. Sie sind zudem verpflichtet, nach ihrer Ankunft eine Unterkunft in einer Erstaufnahmeeinrichtung zu nehmen (§ 47 AsylG). Die Länder sind entsprechend nach § 44 AsylG verpflichtet, Aufnahmeeinrichtungen zu schaffen und zu unterhalten. Die Anwendung des Polizeirechts (SOG) ermöglicht die Schaffung der für die Unterbringung der Flüchtlinge erforderlichen Unterkünfte in einer Situation, in der die üblicherweise sonst vorgesehene baugenehmigungsrechtliche Vorgehensweise dazu
 

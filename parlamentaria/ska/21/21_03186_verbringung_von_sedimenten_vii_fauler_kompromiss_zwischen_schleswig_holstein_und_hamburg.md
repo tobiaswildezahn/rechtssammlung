@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 22
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3090"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51519"
@@ -83,21 +84,21 @@ Welche sieben verschiedenen Verbringungsvarianten sind geprüft worden?
 
 Folgende Verbringungsoptionen wurden – auf Basis der Empfehlungen des Dialogforums Tideelbe – von den zuständigen Behörden, den Ministerien der Länder Schleswig-Holstein, Niedersachsen und Hamburg sowie von der HPA und der Wasser- und Schifffahrtsverwaltung des Bundes (WSV) geprüft:
 
- Ausschließliche Wirtschaftszone (AWZ) – Außenbereich,
+– Ausschließliche Wirtschaftszone (AWZ) – Außenbereich,
 
- Ausschließliche Wirtschaftszone (AWZ) – im Nahbereich der 12-Seemeilen-Zone,
+– Ausschließliche Wirtschaftszone (AWZ) – im Nahbereich der 12-Seemeilen-Zone,
 
- Nordsee – Küstengewässer im Bereich des sogenannten Schlickfallgebiets*,
+– Nordsee – Küstengewässer im Bereich des sogenannten Schlickfallgebiets*,
 
- Nordsee – Küstengewässer südlich des sogenannte Schlickfallgebiets,
+– Nordsee – Küstengewässer südlich des sogenannte Schlickfallgebiets,
 
- Mündungsbereich der Elbe – Bereich Neuer Luechtergrund (stromab der maxima-
+– Mündungsbereich der Elbe – Bereich Neuer Luechtergrund (stromab der maxima-
 
 len Trübungszone),
 
- Elbe – Bereich St. Margarethen (in der maximalen Trübungszone),
+– Elbe – Bereich St. Margarethen (in der maximalen Trübungszone),
 
- Elbe – Bereich Neßsand (stromauf der maximalen Trübungszone).
+– Elbe – Bereich Neßsand (stromauf der maximalen Trübungszone).
 
 ### Frage 6
 
@@ -132,10 +133,13 @@ Sedimente die stärker mit Schadstoffen belastet sind, werden weiterhin aus den 
 In den Kernpunkten der Vereinbarung heißt es, dass a. das Hamburger Baggergut regelmäßig auf Schadstoffe überprüft wird, b. das mit einem intensiven und abgestimmten Umweltmonitoringprogramm die Verbringung überwacht werden soll, c. sich Hamburg bereit erklärt, für das Baggergut 5 Euro pro Tonne Trockengewicht (entsprechend circa 2,5 Euro je Kubikmeter Laderaumvolumen) in die gegründete Stiftung Nationalpark zu überweisen. d. Hamburg für die Planung und Umsetzung von Maßnahmen zur Reduzierung des Sedimentaufkommens durch Strombaumaßnahmen kurzfristig eine Ästuarpartnerschaft mit dem Land Schleswig- Holstein, dem Land Niedersachsen und dem Bund gründen wird.
 8.1 Wie hoch werden die Kosten für die von a. bis d. aufgeführten Maßnahmen sein?
 8.2 Wie sollen die Kernpunkte der Verständigung und die anhand des Eckpunktepapiers umzusetzenden Schritte zur Reduzierung der Baggergutmengen finanziert werden (bitte genau darstellen)? Aus jeweils welchen Titeln welches Haushaltsplans soll die Finanzierung erfolgen?
-8.3. Rechnet der Senat mit Kostensteigerungen aufgrund der Kernpunkte der Verständigung? Wenn ja, in welcher Höhe für welche Maßnahmen?
+
+### Frage 8.3
+
+Rechnet der Senat mit Kostensteigerungen aufgrund der Kernpunkte der Verständigung? Wenn ja, in welcher Höhe für welche Maßnahmen?
 8.4 Fällt das geplante Defizit des Betriebsergebnisses der HPA in den Jahren 2016 und 2017 noch höher als geplant aus, weil die Kosten für die Baggermaßnahmen steigen? Wenn ja, in welchem Umfang? Wenn nein, warum nicht?
 
-#### Antwort zu Frage 8
+#### Antwort zu Fragen 8 und 8.3
 
 Bei der Überprüfung auf Schadstoffe lässt sich zwischen Monitoring und Beprobung nicht exakt differenzieren. Im Zuge der jüngsten Vereinbarung mit Schleswig-Holstein wird das Umweltmonitoring überprüft. Voraussichtlich werden sich die Kosten in einer ähnlichen Größenordnung bewegen wie in der Vergangenheit. Diese lagen für die Verbringung zur Tonne E3 im Jahr 2014 bei rund 0,6 Millionen Euro.
 
@@ -151,7 +155,7 @@ Wie hoch waren die Ausgaben der HPA für Maßnahmen der Schlickbaggerung im Jahr
 
 Wenn die unter 9. abgefragten Zahlen nicht vorliegen: Wann werden diese voraussichtlich vorliegen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Zahlen befinden sich derzeit in der abschließenden Prüfung. Sie werden bald vorliegen. Im Übrigen siehe Drs. 21/3090.
 

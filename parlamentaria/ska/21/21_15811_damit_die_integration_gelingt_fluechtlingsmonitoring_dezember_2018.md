@@ -14,6 +14,7 @@ fragen: 44
 einzelfragen: 58
 antwortbloecke: 41
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9758", "21/4919", "21/10677", "21/11001", "21/6544", "21/14071", "21/15000", "21/13466", "21/15064", "21/15560", "21/12482", "21/11934", "21/12038", "21/131"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65314"
@@ -280,7 +281,7 @@ Wie viele Asylverfahren wurden im Dezember 2018 mit jeweils welchem Ergebnis bes
 
 Wie war die Gesamtschutzquote im Dezember 2018?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Zahlen des BAMF lagen bei Erstellung des Antwortbeitrags für den Monat Dezember 2018 noch nicht vor.
 
@@ -866,7 +867,7 @@ Wie viele Asylsuchende haben im Dezember 2018 in der zentralen Testund Meldestel
 
 Welche Einstufungen und Überweisung in jeweils welche Kurse (Alphabetisierungskurs, regulärer Integrationskurs und so weiter) ergaben sich aus den Tests im Dezember 2018?
 
-#### Antwort zu Fragen 39 bis 40
+#### Antwort zu Fragen 39 und 40
 
 Siehe Antwort zu 37.
 

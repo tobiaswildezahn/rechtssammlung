@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51253"
@@ -43,7 +44,7 @@ Ist der Senat über die Planung informiert?
 
 Ist der Senat an den Planungen beteiligt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ja.
 

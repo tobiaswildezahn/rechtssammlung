@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["15/6614", "20/1538", "20/3238"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58169"
@@ -66,7 +67,7 @@ In wie vielen Fällen wurden die im Mai 2014 beschlossenen „Regelungen zur Kos
 
 In wie vielen Fällen wurde eine Kostenbeteiligung entsprechend der „Regelungen zur Kostenbeteiligung in der Bauleitplanung“ festgelegt für a. Herstellungskosten soziale Infrastruktur (bitte mit Angabe der Gesamtsumme der geleisteten Kostenbeteiligung), b. Herstellungskosten (bitte mit Angabe der Gesamtsumme der geleisteten Kostenbeteiligung), c. kostenrelevante Bindungen (bitte mit Angabe der Gesamtsumme der geleisteten Kostenbeteiligung), d. Planungs- und Verfahrenskosten (bitte mit Angabe der Gesamtsumme der geleisteten Kostenbeteiligung), e. unentgeltliche und lastenfreie Flächenabtretungen, f. andere Kosten/kostenrelevante Verpflichtungen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Sinne der Fragestellung werden alle Verfahren betrachtet, bei denen mit eben solchen Planungsbegünstigten nach dem 22. Mai 2014 städtebauliche Verträge oder Durchführungsverträge nach den §§ 11 oder 12 des Baugesetzbuches abgeschlossen wurden. Im Übrigen siehe Anlage.
 

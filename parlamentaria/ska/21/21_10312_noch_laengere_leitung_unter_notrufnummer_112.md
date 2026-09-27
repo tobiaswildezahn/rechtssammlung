@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 15
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/132", "21/6857", "20/8651"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59156"
@@ -144,7 +145,7 @@ Gibt es Überlastungsanzeigen der Rettungsleitstelle seit 2011 und wann lagen si
 
 Gegebenenfalls wie wird mit diesen Überlastungsanzeigen durch wen umgegangen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Seit dem Jahr 2011 liegen der Feuerwehr Hamburg insgesamt 57 Überlastungsanzeigen von Mitarbeiterinnen und Mitarbeitern der Rettungsleitstelle vor.
 
@@ -173,7 +174,7 @@ Wie lang ist die durchschnittliche Wartezeit bei der Notrufannahme 112? Bitte se
 
 Wie hoch sind die Maximalwartezeiten bei der Notrufannahme 112? Bitte für 2016 pro Jahr und für dieses Jahr quartalsweise angeben.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Jahr  
 2016  

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 13
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6337", "20/14150", "21/1395", "20/14366"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53752"
@@ -96,7 +97,7 @@ Welche Ausgaben sind im Haushalt 2015 und 2016 und im Haushaltsplanentwurf 2017/
 
 Welche Ausgaben sind im Haushalt 2015 und 2016 und im Haushaltsplanentwurf 2017/2018 der Freien und Hansestadt Hamburg für die Überprüfung der bereits vorhandenen beziehungsweise nicht vorhandenen Orte für eine kontrastreiche Markierung von Treppenstufen vorgesehen? Bitte auflisten nach Benennung des jeweiligen Einzelplans, der Drucksachennummer, Angabe der PG, des Kontenbereichs, des Produkts, dem Jahr für die jeweiligen Ausgaben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Im Haushalt werden für die kontrastreiche Markierung von Treppenstufen keine gesonderten Mittel vorgesehen. Diese Arbeiten werden nach Bedarf entweder im Rahmen von Investitionsmaßnahmen durchgeführt oder als Unterhaltungsmaßnahme aus den dafür vorgesehenen Rahmenzuweisungen der Bezirke finanziert.
 
@@ -116,17 +117,17 @@ Einzelplan 3.3.
 
 Produktgruppe 251.02, Kontenbereich „Kosten für Transferleistungen“, Produkt „Integrative Projekte“:
 
- jährliche Förderung des Einsatzes von Gebärdensprachdolmetschern bei zwei
+– jährliche Förderung des Einsatzes von Gebärdensprachdolmetschern bei zwei
 
 Theateraufführungen in Höhe von 2.500 Euro,
 
- jährliche Förderung des Einsatzes von Gebärdensprachdolmetschern für die
+– jährliche Förderung des Einsatzes von Gebärdensprachdolmetschern für die
 
 gehörlosen Teilnehmerinnen und Teilnehmer des „Runden Tisches barrierefreie Kultureinrichtungen“ in Höhe von circa 1.300 Euro.
 
 BASFI
 
- Zuwendungen
+– Zuwendungen
 
 Einzelplan 4
 
@@ -134,29 +135,29 @@ Produktgruppe 253.04, Kontenbereich „Kosten für Transferleistungen“, Produk
 
 Die Kosten für die Gebärdensprachdolmetscher im Bereich der Zuwendungen beziffern:
 
- Plan 2015: 56.000 Euro
+– Plan 2015: 56.000 Euro
 
- Plan 2016: 56.000 Euro
+– Plan 2016: 56.000 Euro
 
 Es handelt sich um die Zuwendungen an den Gehörlosen Sportverein (25.000 Euro) und an den Landesverband der Gehörlosen (31.000 Euro).
 
- Kindertagesbetreuung
+– Kindertagesbetreuung
 
 Einzelplan 4
 
 Produktgruppe 254.06 Kindertagesbetreuung, Kontenbereich „Kosten für Transferleistungen“, Produkt „Einsatz von Gebärdendolmetschern in Kita-Einrichtungen und bei Hamburger Tagespflegepersonen“
 
- IST 2015: 40.000,00 Euro
+– IST 2015: 40.000,00 Euro
 
- Plan 2016: 20.000,00 Euro
+– Plan 2016: 20.000,00 Euro
 
- Ausgleichsabgabe des Integrationsamtes
+– Ausgleichsabgabe des Integrationsamtes
 
 Die geplanten Ausgaben des Integrationsamtes für Gebärdendolmetscher im Rahmen des Sondervermögens Ausgleichsabgabe sind im Haushaltsplan 2015/2016 in Form eines Wirtschaftsplans (Einzelplan 4, Anlage 2.2) ausgewiesen.
 
- IST 2015: 1.982.000,00 Euro
+– IST 2015: 1.982.000,00 Euro
 
- Plan 2016: 3.000.000,00 Euro
+– Plan 2016: 3.000.000,00 Euro
 
 Behörde für Schule und Berufsbildung (BSB)
 
@@ -166,15 +167,15 @@ Produktgruppe 240.01 Soziale Leistungen für Schülerinnen und Schüler, Kontenb
 
 Gebärdensprachdolmetscher Lehrkräfte/Referendarinnen und Referendare
 
- Plan 2015: 41.000,00 Euro
+– Plan 2015: 41.000,00 Euro
 
- Plan 2016: 41.000,00 Euro
+– Plan 2016: 41.000,00 Euro
 
 Gebärdensprachdolmetscher Eltern/Schüler/-innen
 
- Plan 2015: 170.000,00 Euro
+– Plan 2015: 170.000,00 Euro
 
- Plan 2016: 173.000,00 Euro
+– Plan 2016: 173.000,00 Euro
 
 ### Frage 6
 
@@ -230,7 +231,7 @@ Welche Ausgaben sind im Haushalt 2015 und 2016 und im Haushaltsplanentwurf 2017/
 
 Welche Ausgaben sind im Haushalt 2015 und 2016 und im Haushaltsplanentwurf 2017/2018 der Freien und Hansestadt Hamburg für die Herstellung von Barrierefreiheit von bereits bestehendem Wohnraum vorgesehen? Bitte auflisten nach Benennung des jeweiligen Einzelplans, der Drucksachennummer, Angabe der PG, des Kontenbereichs, des Produkts, dem Jahr für die jeweiligen Ausgaben.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die barrierereduzierte beziehungsweise barrierefreie Ausstattung von geförderten Neubau-Mietwohnungen sowie die Förderung des barrierefreien Umbaus sind durch das Barwertvolumen des Wohnraumförderprogramms gedeckt und im Haushaltsplan nicht gesondert ausgewiesen. Im Übrigen siehe Drs. 20/14366.
 
@@ -248,7 +249,7 @@ Einzelplan 3
 
 Produktgruppe 251.02, Kontenbereich „Kosten für Transferleistungen“, Produkt „Integrative Projekte“:
 
- Förderung der Audiodeskription (Live-Einsprache für blinde Gäste während einer
+– Förderung der Audiodeskription (Live-Einsprache für blinde Gäste während einer
 
 Theateraufführung) in den Jahren 2013 bis 2015 mit insgesamt 40.000 Euro.
 
@@ -258,39 +259,39 @@ Einzelplan 4.
 
 Produktgruppe 253.04 Rehabilitation und Teilhabe behinderter Menschen, Kontenbereiche „Kosten für Transferleistungen“
 
- Plan 2015: 432.017.000,00 Euro
+– Plan 2015: 432.017.000,00 Euro
 
- Plan 2016: 440.249.000,00 Euro
+– Plan 2016: 440.249.000,00 Euro
 
 Die Angabe erfolgt unter der Annahme, dass die gesetzlichen Leistungen im Rahmen der Eingliederungshilfe für behinderte Menschen grundsätzlich der Inklusion der
 
 behinderten Menschen in die Gesellschaft dienen und deren Teilhabe am Leben in der Gemeinschaft sowie am Arbeitsleben sichern und fördern.
 
- Ausgleichsabgabe des Integrationsamtes
+– Ausgleichsabgabe des Integrationsamtes
 
 Die geplanten Ausgaben des Integrationsamtes im Rahmen des Sondervermögens Ausgleichsabgabe sind im Haushaltsplan 2015/2016 in Form eines Wirtschaftsplans (Einzelplan 4, Anlage 2.2) ausgewiesen.
 
- Ist 2015: 1.076.000,00 €
+– Ist 2015: 1.076.000,00 €
 
- Vorlesekräfte Sk 613102: 313.000,00 Euro
+– Vorlesekräfte Sk 613102: 313.000,00 Euro
 
- Hilfs- und Ersatzkräfte Sk 613103: 763.000,00 Euro
+– Hilfs- und Ersatzkräfte Sk 613103: 763.000,00 Euro
 
- Plan 2016: 1.850.000,00 Euro
+– Plan 2016: 1.850.000,00 Euro
 
- Vorlesekräfte Sk 613102: 400.000,00 Euro
+– Vorlesekräfte Sk 613102: 400.000,00 Euro
 
- Hilfs- und Ersatzkräfte Sk 613103: 1.450.000,00 Euro
+– Hilfs- und Ersatzkräfte Sk 613103: 1.450.000,00 Euro
 
- Kindertagesbetreuung
+– Kindertagesbetreuung
 
 Einzelplan 4
 
 Produktgruppe 254.06 Kindertagesbetreuung, Kontenbereich „Kosten für Transferleistungen“, Produkt „Krippe/Elementar“
 
- IST 2015: 6.393.137,81 €
+– IST 2015: 6.393.137,81 €
 
- Plan 2016: 6.560.805,94 €
+– Plan 2016: 6.560.805,94 €
 
 Assistenzleistungen für Kinder und Jugendliche mit einer seelischen Behinderung (Leistungen nach § 35a SGB VIII) werden als Teilmenge der Produkte ambulante Hilfen zur Erziehung (1-254.04.02.001) und stationäre Hilfen zur Erziehung (1- 254.04.03.001) nicht separat veranschlagt.
 
@@ -298,9 +299,9 @@ BSB
 
 Einzelplan 3.1, Produktgruppe 240.01 Soziale Leistungen für Schülerinnen und Schüler, Kontenbereich „Kosten für Transferleistungen“, Produkt Eingliederungshilfe
 
- Plan 2015: 3.214.000,00 Euro
+– Plan 2015: 3.214.000,00 Euro
 
- Plan 2016: 3.642.000,00 Euro
+– Plan 2016: 3.642.000,00 Euro
 
 Hinweis:
 

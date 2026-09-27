@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/73"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50055"
@@ -61,7 +62,7 @@ Welches sind die entsprechenden Ergebnisse nach Durchführung der Maßnahmen?
 
 Sofern nach Durchführung der Maßnahmen noch keine Planfahrten durchgeführt wurden oder noch keine Ergebnisse vorliegen: warum nicht? Wann werden die Fahrten durchgeführt und wann liegen die Ergebnisse vor?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 

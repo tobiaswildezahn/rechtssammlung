@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12126"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61613"
@@ -58,7 +59,7 @@ Ist die Rote Flora ein Kulturzentrum?
 
 Wenn ja, warum taucht die Rote Flora in der Antwort auf die Schriftliche Kleine Anfrage vom 02.03.2018 als Kultureinrichtung nicht auf? Wenn nein, was ist die Rote Flora nach Ansicht des Senats, wenn keine Kultureinrichtung?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 
@@ -78,6 +79,6 @@ Bewegt sich die Nutzung des Gebäudes im Rahmen der Festsetzung des Bebauungspla
 
 Wenn nein, was unternimmt der Senat hiergegen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Hierzu liegen dem zuständigen Bezirksamt keine gegenteiligen Erkenntnisse vor.

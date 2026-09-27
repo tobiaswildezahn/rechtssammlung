@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48394"
@@ -59,7 +60,7 @@ Wie müssen mögliche Themen, die mit EU-Organen besprochen werden, zuvor innerh
 
 Wer muss wie über entsprechende Besuche im Vorwege und im Nachgang unterrichtet werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Handelt es sich bei Gesprächen mit EU-Organen beziehungsweise bei Anregungen und sonstigen Initiativen gegenüber EU-Organen um Maßnahmen und Vorhaben, die für die Beziehungen Hamburgs nach außen von Bedeutung sind, unterliegen sie der Unterrichtungspflicht des § 4 Absatz 1 GO Senat. Demnach muss der Erste Bürgermeister bei solchen Maßnahmen und Vorhaben aus dem Geschäftsbereich der einzelnen Mitglieder des Senats frühzeitig unterrichtet werden.
 
@@ -67,33 +68,33 @@ Der Senat tritt nach außen stets einheitlich auf (§ 7 Absatz 2 Satz 2 GO Senat
 
 Zur Umsetzung dieser Regelungen haben sich die Staatsräte am 20. Oktober 2014 zum Kontakt mit EU-Organen in EU-Rechtssetzungsverfahren auf folgende Verfahren verständigt:
 
- Von der Teilnahme an Internetkonsultationen, Workshops, Arbeitsgruppen et cete-
+– Von der Teilnahme an Internetkonsultationen, Workshops, Arbeitsgruppen et cete-
 
 ra im Zusammenhang mit EU-Rechtssetzungsverfahren wird nur zurückhaltend Gebrauch gemacht.
 
- Stellungnahmen, die im Rahmen von EU-Rechtssetzungsverfahren abgegeben
+– Stellungnahmen, die im Rahmen von EU-Rechtssetzungsverfahren abgegeben
 
 werden, dürfen der gesamtpolitischen Haltung des Senats nicht entgegenstehen.
 
- Die Senatskanzlei (Europareferat) sowie das Hanse-Office in Brüssel erhalten
+– Die Senatskanzlei (Europareferat) sowie das Hanse-Office in Brüssel erhalten
 
 abgegebene Stellungnahmen nachrichtlich zur Kenntnis.
 
 Zur Zusammenarbeit der Fachbehörden bei Kontakten mit EU-Organen mit dem Hanse-Office, der gemeinsamen Vertretung Hamburgs und Schleswig-Holsteins bei der EU in Brüssel (der Hamburger Teil ist als Referat der Abteilung Angelegenheiten der EU des Staatsamtes der Senatskanzlei organisiert), haben sich die Staatsräte bereits am 8. Oktober 2007 auf folgende Grundsätze verständigt:
 
- Die Fachbehörden beteiligen das Hanse-Office frühzeitig bei allen Angelegenhei-
+– Die Fachbehörden beteiligen das Hanse-Office frühzeitig bei allen Angelegenhei-
 
 ten von grundsätzlicher oder politischer Bedeutung.
 
- Insbesondere bei Stellungnahmen von Fachbehörden in Konsultationsverfahren
+– Insbesondere bei Stellungnahmen von Fachbehörden in Konsultationsverfahren
 
 wird das Hanse-Office frühzeitig informiert und konsultiert.
 
- Schreiben der Fachbehörden an EU-Organe werden dem Hanse-Office nachricht-
+– Schreiben der Fachbehörden an EU-Organe werden dem Hanse-Office nachricht-
 
 lich übermittelt oder von Bediensteten des Hanse-Office persönlich überbracht.
 
- Mitglieder oder Bedienstete des Senats informieren vor Besuchen bei EU-Organen
+– Mitglieder oder Bedienstete des Senats informieren vor Besuchen bei EU-Organen
 
 frühzeitig den Hamburger Leiter des Hanse-Office. Im Rahmen eines Besuchs in Brüssel sollte ein Gespräch mit dem Hamburger Leiter des Hanse-Office beziehungsweise der zuständigen Referentin oder dem zuständigen Referenten stattfinden. Ein etwaiger Ergebnisbericht des Besuchs wird dem Hanse-Office so bald wie möglich zugeleitet.
 

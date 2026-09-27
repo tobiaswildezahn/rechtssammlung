@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 27
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52488"
@@ -51,7 +52,7 @@ Welche Erkenntnisse haben die zuständigen Behörden im Rahmen der frühzeitigen
 
 Welche Erkenntnisse davon werden in den Bebauungsplan HafenCity 15 einfließen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Im Rahmen der frühzeitigen Bürgerbeteiligung wurden Anmerkungen zur Verkehrsplanung, Immissionsbelastung durch die Kreuzfahrtschiffe, zum konkreten Besatz des Einzelhandels und zur Anbindung des nördlichen Überseequartiers gemacht. Es gab keine konkreten Anmerkungen, die auf eine Änderung des vorgestellten Planungsstandes zielten. Die oben genannten Anmerkungen werden in der Abwägung entsprechend berücksichtigt.
 

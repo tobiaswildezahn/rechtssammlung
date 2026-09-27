@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 18
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5904", "21/6164"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57818"
@@ -133,11 +134,11 @@ b. Welche konkreten Planungen bestehen seitens der Innenbehörde zur Erweiterung
 
 Konkret geplant ist die Erweiterung in der zweiten Jahreshälfte 2017 um die folgenden Medikamente:
 
- Amiodaron
+– Amiodaron
 
- Glucocorticoide
+– Glucocorticoide
 
- H1 (Clemastin)/H2 (Ranitidin)
+– H1 (Clemastin)/H2 (Ranitidin)
 
 Die Liste der Medikamente und Maßnahmen für die Kompetenzstufe NotSan wird in den Folgejahren erweitert. Dies erfolgt auf Basis der Bedarfe im Rettungsdienst, den Empfehlungen aus dem Pyramidenprozess, den Evaluationsergebnissen aus dem Einsatzdienst und den Ergebnissen der jährlichen Kompetenzüberprüfungen.
 

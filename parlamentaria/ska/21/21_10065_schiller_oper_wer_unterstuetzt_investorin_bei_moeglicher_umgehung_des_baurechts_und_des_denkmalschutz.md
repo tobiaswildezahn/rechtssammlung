@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 30
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8691"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58889"
@@ -61,7 +62,7 @@ Welche gegebenenfalls alternativen Ideen hat das Bezirksamt in den diversen Gesp
 
 Für welche Ideen der Eigentümerin wurden durch das Bezirksamt oder andere Fachbehörden Kompromissvorschläge entwickelt und wie sahen/ sehen die gegebenenfalls aus?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Das Bezirksamt hat die Entwicklung des Objektes in einer Vielzahl von Terminen mit den wechselnden Eigentümern in den vergangenen Jahren wiederholt konstruktiv unterstützt und in den Gesprächen insbesondere auch die Bedarfe aus dem Stadtteil an Räumen für Kultur, Kleingewerbe und an unterschiedlichen Wohnformen mit Blick auf die besondere Lage im Stadtteil St. Pauli erläutert.
 

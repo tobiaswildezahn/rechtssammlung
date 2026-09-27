@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 18
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13592", "20/10333", "21/6406", "21/11705"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63213"
@@ -360,7 +361,7 @@ nach den Planungen des Senats beziehungsweise der zuständigen
 Behörde in den Jahren 2019 und 2020 entwickeln? Bitte die Planwerte  
 jahresweise ausweisen.
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Jahr  
 Zustandsnote  

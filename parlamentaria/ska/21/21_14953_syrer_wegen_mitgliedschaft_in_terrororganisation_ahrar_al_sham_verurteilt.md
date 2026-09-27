@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64420"
@@ -67,7 +68,7 @@ Ist Majed E. im Zeitpunkt zwischen seiner Einreise nach Deutschland und vor sein
 
 Ist Majed E. infolgedessen bereits verurteilt worden? Falls ja, aufgrund welches Deliktes und wie lautet des verhängte Strafmaß?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Für die benannte Person liegen keine Auszüge aus dem Bundeszentralregister vor, ihre Personalien sind im Vorgangserfassungs- und Vorgangsverwaltungssystem MESTA der Staatsanwaltschaft nicht erfasst.
 

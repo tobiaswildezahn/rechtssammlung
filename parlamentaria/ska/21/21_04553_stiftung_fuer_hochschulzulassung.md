@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4123"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52959"
@@ -193,98 +194,98 @@ Zulassungsbeschränkung)
 
 UHH:
 
- Psychologie
+– Psychologie
 
 UHH: (69)
 
- Psychologie
+– Psychologie
 
- Rechtswissenschaft
+– Rechtswissenschaft
 
 HAW: (32)
 
- Technische Informatik
+– Technische Informatik
 
 HCU: (4)
 
- Bauingenieurwesen
+– Bauingenieurwesen
 
 TUHH: (14)
 
- Elektrotechnik
+– Elektrotechnik
 
 (Vollanbindung HCU)
 
 UHH:
 
- Psychologie
+– Psychologie
 
- Rechtswissenschaft
+– Rechtswissenschaft
 
 HAW:
 
- Angewandte Informatik
+– Angewandte Informatik
 
- Außenwirtschaft/Internationales
+– Außenwirtschaft/Internationales
 
 Management
 
- Logistik/Technische BWL
+– Logistik/Technische BWL
 
- Marketing/Technische BWL
+– Marketing/Technische BWL
 
- Technische Informatik
+– Technische Informatik
 
 HCU:
 
- Architektur
+– Architektur
 
- Bauingenieurwesen
+– Bauingenieurwesen
 
- Kultur der Metropole
+– Kultur der Metropole
 
- Stadtplanung
+– Stadtplanung
 
 TUHH:
 
- Elektrotechnik
+– Elektrotechnik
 
 (Vollanbindung HCU)
 
 UHH:
 
- Psychologie
+– Psychologie
 
- Rechtswissenschaft
+– Rechtswissenschaft
 
 HAW:
 
- Angewandte Informatik
+– Angewandte Informatik
 
- Außenwirtschaft/Internationales
+– Außenwirtschaft/Internationales
 
 Management
 
- Logistik/Technische BWL
+– Logistik/Technische BWL
 
- Marketing/Technische BWL
+– Marketing/Technische BWL
 
- Technische Informatik
+– Technische Informatik
 
- Soziale Arbeit
+– Soziale Arbeit
 
 HCU:
 
- Architektur
+– Architektur
 
- Bauingenieurwesen
+– Bauingenieurwesen
 
- Kultur der Metropole
+– Kultur der Metropole
 
- Stadtplanung
+– Stadtplanung
 
 TUHH:
 
- Elektrotechnik
+– Elektrotechnik
 
- Informatik-Ingenieurwesen
+– Informatik-Ingenieurwesen

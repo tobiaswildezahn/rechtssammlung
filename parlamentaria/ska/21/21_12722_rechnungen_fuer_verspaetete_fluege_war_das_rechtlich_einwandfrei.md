@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 24
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62026"
@@ -63,7 +64,7 @@ Gibt es Vergleichsfälle an anderen Flughäfen, an denen sich die BUE hier orien
 
 Wie schätzt der Senat die rechtliche Durchsetzbarkeit dieser Gewinnabschöpfung ein?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nach den Erkenntnissen der zuständigen Behörde ist Hamburg der erste Flughafenstandort in Deutschland, an dem für unzulässige Flüge eine Gewinnabschöpfung bei einer Luftverkehrsgesellschaft erfolgt ist.
 

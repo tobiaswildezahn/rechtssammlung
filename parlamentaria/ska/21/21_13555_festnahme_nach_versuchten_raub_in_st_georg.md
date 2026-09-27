@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62927"
@@ -65,15 +66,15 @@ Ist er in der Vergangenheit bereits wegen Straftaten verurteilt worden? Wenn ja,
 
 Im Hinblick auf das Persönlichkeitsrecht des Betroffenen und die gesetzlichen Wertungen des Bundeszentralregistergesetzes sieht der Senat davon ab, etwaige Ermittlungsverfahren mitzuteilen, die durch einen Freispruch oder eine Einstellung beendet worden sind. Dasselbe gilt für Ermittlungsverfahren, die zu einem Abschluss geführt haben, der entweder nicht in ein Führungszeugnis aufzunehmen oder nach den Tilgungsvorschriften des Bundeszentralregistergesetzes nicht mehr zu berücksichtigen ist. Die Auskünfte des Bundeszentralregisters vom 20. Juni 2018 enthalten folgende mitteilungsfähige Eintragungen:
 
- Verurteilung vom 15. August 2015 durch das AG Tiergarten wegen vorsätzlichen
+– Verurteilung vom 15. August 2015 durch das AG Tiergarten wegen vorsätzlichen
 
 Fahrens ohne Fahrerlaubnis zu einer Geldstrafe von 40 Tagessätzen
 
- Verurteilung vom 18. September 2015 durch das AG Hamburg-St. Georg wegen
+– Verurteilung vom 18. September 2015 durch das AG Hamburg-St. Georg wegen
 
 gefährlicher Körperverletzung zu einer Geldstrafe von 120 Tagessätzen
 
- Verurteilung vom 16. November 2017 durch das AG Tiergarten wegen Diebstahls
+– Verurteilung vom 16. November 2017 durch das AG Tiergarten wegen Diebstahls
 
 zu einer Freiheitsstrafe von sechs Monaten mit Bewährung
 

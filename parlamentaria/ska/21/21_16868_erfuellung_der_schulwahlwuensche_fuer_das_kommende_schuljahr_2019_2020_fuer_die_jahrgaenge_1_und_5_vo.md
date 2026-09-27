@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16131", "21/12589", "21/16862", "21/16800"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66423"
@@ -89,7 +90,7 @@ Wie viele der unter 3. genannten Schülerinnen und Schüler wurden der – bezü
 
 Bei wie vielen der unter 3. genannten Schülerinnen und Schüler war a. der § 3(4) Satz 1, b. der § 3(4) Satz 2, c. der § 3(4) Satz 3, d. der § 3(4) Satz 4 der oben genannten Richtlinie der ausschlaggebende Grund für die Nichtgewährung des Erstwunsches? (Bitte in einer Excel-Tabelle differenziert nach a. – d. angeben.)
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Gesonderte Berichte bezüglich des sonderpädagogischen Förderbedarfs, des Migrationshintergrunds oder anderer Schülermerkmale sowie der Zweitwunscherfüllung sieht die Schulverwaltungssoftware zur Organisation der ersten und fünften Klassen nicht vor, siehe auch Drs. 21/12589, 21/16862, 21/16800. Im Übrigen siehe Vorbemerkung.
 

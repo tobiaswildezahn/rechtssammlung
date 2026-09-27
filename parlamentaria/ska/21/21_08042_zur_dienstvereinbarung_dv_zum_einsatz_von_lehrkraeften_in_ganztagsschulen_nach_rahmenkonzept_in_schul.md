@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 30
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/525", "19/555", "20/3642"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56708"
@@ -83,7 +84,7 @@ Hebt nach Einschätzung des Senates beziehungsweise der zuständigen Behörde di
 
 Hebt die Dienstvereinbarung Ganztag nach Einschätzung des Senates beziehungsweise der zuständigen Behörde die von den Schulkonferenzen der nach Schulgesetz selbstverwalteten GTS-Schulen beschlossenen gültigen Rhythmisierungsmodelle zum guten Ganztag auf? Bitte jeweils begründen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nein, siehe Vorbemerkung.
 

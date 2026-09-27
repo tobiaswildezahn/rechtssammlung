@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1185"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49520"
@@ -132,7 +133,7 @@ Ist die Bergedorfer Bevölkerung darüber informiert worden, dass sie selbst Geg
 
 Sind aktiv Maßnahmen ergriffen worden, um zu verschleiern, dass die Bergedorfer Gegenstand der Forschung sind?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Im Rahmen verschiedener Bachelor- und Masterarbeiten an der HAW Hamburg wurde im April und Mai 2013 eine Befragung bei der Bergedorfer Bevölkerung durchgeführt. Die Bürgerinnen und Bürger wurden von den Studierenden darüber informiert, dass die Ergebnisse in die wissenschaftlichen Ausarbeitungen einfließen. Die Befragung war freiwillig und wurde anonym durchgeführt.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54210"
@@ -43,7 +44,7 @@ Wie hat sich die Personalsituation bei den Freiwilligen Feuerwehren im Alstertal
 
 Wie viele Jugendliche sind derzeit bei den Jugendfeuerwehren im Alstertal und in den Walddörfern aktiv? Bitte für jede Wehr einzeln angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Stichtag 1. Juli 2015 Stichtag 1. Juli 2016 Einsatzabteilung
 

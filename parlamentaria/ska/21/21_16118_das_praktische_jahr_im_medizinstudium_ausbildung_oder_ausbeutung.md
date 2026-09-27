@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65626"
@@ -49,7 +50,7 @@ Welche Hamburger Krankenhäuser stellen wie viele Ausbildungsplätze für Medizi
 
 Wie viele Studierende haben in den letzten fünf Jahren ein „Praktisches Jahr“ an Hamburger Lehrkrankenhäusern absolviert? Bitte nach Jahren und Krankenhäusern angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die folgende Tabelle umfasst alle aktuellen Lehrkrankenhäuser der Medizinischen Fakultät der Universität Hamburg (UHH) inklusive der Universitätsklinik selbst.
 
@@ -326,7 +327,7 @@ Wie wird an den jeweiligen Lehrkrankenhäusern mit Fehl- oder Krankheitstage hin
 
 Welche Regelungen hinsichtlich des Anspruches auf Urlaubstage im PJ existieren an den jeweiligen Krankenhäusern?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Gemäß § 3 Absatz 3 ÄApprO werden Fehlzeiten von insgesamt bis zu 30 Ausbildungstagen auf die Ausbildung angerechnet, davon insgesamt bis zu 20 Ausbildungstagen innerhalb eines Ausbildungsabschnitts. Der Grund für die Fehlzeiten, insbesondere ob es sich dabei um Urlaubs- oder Krankheitstage handelt, ist dabei unerheblich.
 

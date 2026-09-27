@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 23
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9662", "21/516", "21/2242", "21/3044", "21/5888", "21/8274", "21/4925", "21/2367", "21/6458"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58698"
@@ -114,15 +115,15 @@ Laut der PPP aus dem Protokoll 20/31 des Verkehrsausschusses vom 7. Januar 2014 
 
 #### Antwort zu Frage 6
 
- „Verlagerung von heutigen P+R-Nutzern auf Anlagen mit geringerer
+– „Verlagerung von heutigen P+R-Nutzern auf Anlagen mit geringerer
 
 MIV-Fahrt-Entfernung oder – bei kurzen Strecken – auch auf Fahrrad oder Buszubringer. Dadurch Vergrößerung des Angebotes für Nutzer, die auf P+R angewiesen sind.“
 
- „Reduzierung von Fremdparkern. Hierdurch Bereitstellung von P+R-
+– „Reduzierung von Fremdparkern. Hierdurch Bereitstellung von P+R-
 
 Kapazitäten für weitere Pendler.“
 
- „Gerechtigkeit zum entgeltpflichtigen B+R-Angebot.“
+– „Gerechtigkeit zum entgeltpflichtigen B+R-Angebot.“
 
 Laut Drs. 21/516 aus dem Mai 2015 wurden diese Zielsetzungen zum damaligen Zeitpunkt allesamt erreicht. Im November 2015 (Drs. 21/2242), im Februar 2016 (Drs. 21/3044), im Oktober 2016 (Drs. 21/5888) im März 2017 (Drs. 21/8274) wurde diese Einschätzung jeweils mit Verweis auf Drs. 21/516 bestätigt. Allerdings konnte der Senat in keiner seiner bisherigen Antworten Zahlenmaterial beziehungsweise Daten anführen, die diese Einschätzung nachvollziehbar machen.
 
@@ -192,7 +193,7 @@ In welchem Planungs- und/oder Baustadium befinden sich die bis zu acht P+R-Anlag
 
 In welchem Planungs- und/oder Baustadium befinden sich die bis zu acht P+R-Anlagen, deren Inbetriebnahme laut der PPP aus dem Protokoll 20/31 des Verkehrsausschusses vom 7. Januar 2014 „langfristig“ beziehungsweise innerhalb von zwölf Jahren geplant war, und wie viele Stellplätze sollen damit nach den aktuellen Planungen geschaffen werden?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Zur Entwicklung einer Konzeption für den mittel- und langfristigen Ausbau von P+R- Plätzen wurde eine Machbarkeitsstudie erstellt, die für elf Standorte die technisch/ baulichen Bedingungen für den Bau oder Ausbau von P+R-Anlagen untersucht hat. Zur Ermittlung des mittel- und langfristigen Bedarfs wurde darüber hinaus eine Potenzialanalyse in Auftrag gegeben, deren Ergebnis noch nicht vorliegt.
 

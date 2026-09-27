@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 22
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56166"
@@ -182,23 +183,23 @@ Wie waren die Jurys für die oben genannten beiden Preise im Jahr 2016 besetzt? 
 
 #### Antwort zu Frage 14
 
- Antonia Aschendorf, Präsidentin der Justus Brinckmann Gesellschaft e.V.
+– Antonia Aschendorf, Präsidentin der Justus Brinckmann Gesellschaft e.V.
 
- Prof. Dr. Sabine Schulze, Direktorin des MKG
+– Prof. Dr. Sabine Schulze, Direktorin des MKG
 
- Dr. Claudia Banz, Leiterin Kunst und Design im MKG
+– Dr. Claudia Banz, Leiterin Kunst und Design im MKG
 
- Thomas Geisler, Leitung Werkraum Bregenzerwald
+– Thomas Geisler, Leitung Werkraum Bregenzerwald
 
- Prof. Daniel Kruger, Fachrichtung Plastik/Schmuck an der Burg Giebichenstein
+– Prof. Daniel Kruger, Fachrichtung Plastik/Schmuck an der Burg Giebichenstein
 
- Wolfgang Lösche, Referatsleiter Ausstellungen der Handwerkskammer München
+– Wolfgang Lösche, Referatsleiter Ausstellungen der Handwerkskammer München
 
- Angelika Riley, Leiterin Mode & Textil im MKG
+– Angelika Riley, Leiterin Mode & Textil im MKG
 
- Prof. Angeli Sachs, Kuratorin im Museum der Gestaltung Zürich
+– Prof. Angeli Sachs, Kuratorin im Museum der Gestaltung Zürich
 
- Prof. Dorothea Wenzel, Dekanin der Fakultät Design, Medien und Information der
+– Prof. Dorothea Wenzel, Dekanin der Fakultät Design, Medien und Information der
 
 HAW
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/774"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69413"
@@ -61,7 +62,7 @@ Wie oft und wann jeweils hat sich der Senat seit Anfang 2011 mit der Frage befas
 
 Welche diesbezüglichen Beschlüsse hat der Senat seit 2011 bis heute gefasst?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat ist in laufenden Gesprächen mit der UHH und der AdW zur Unterbringung. Eine explizite Beschlussfassung des Senats hat es dazu bisher nicht gegeben. Im Übrigen siehe Vorbemerkung.
 
@@ -96,6 +97,6 @@ Woran scheiterten bis heute die Umsetzung oder entsprechende Beschlüsse der Zus
 
 Welchen Standort hat der gegenwärtige Senat für die Akademie der Wissenschaften vorgesehen, welche Entscheidungen wurden dazu bereits von wem getroffen und wann soll das nach Vorstellung des Senats umgesetzt werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.

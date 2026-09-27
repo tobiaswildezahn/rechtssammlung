@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57763"
@@ -47,7 +48,7 @@ Wo sollen im Zuge der S4 neue Haltestellen auf Hamburger Stadtgebiet entstehen?
 
 Welche Haltestellen sollen im Zuge der S4 entfallen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Zuge der S4 sind auf Hamburger Gebiet die vier neuen Haltestellen Claudiusstraße, Bovestraße, Holstenhofweg und Pulverhofweg geplant. Die Haltestellen Bovestraße und Claudiusstraße werden die bestehende Haltestelle Hamburg-Wandsbek ersetzen.
 
@@ -59,7 +60,7 @@ Aufgrund welcher Kriterien wurden die neuen Stationsstandorte festgelegt?
 
 Aufgrund welcher Kriterien wurde entschieden, welche Bahnstationen wegfallen sollen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Stationsstandorte – das heißt sowohl die Festlegung der neuen Stationsstandorte als auch die die Entscheidung zur wegfallenden Bahnstation – wurden nach den folgenden Kriterien ermittelt:
 
@@ -89,7 +90,7 @@ Wie lauten die Ergebnisse der unter 3. und 4. erfragten Untersuchungen im Detail
 
 Warum soll die Haltestellte Bovestraße nur circa 700 Meter entfernt von der Haltestelle Claudiusstraßen liegen, wenn dafür die nächste Station Holstenhofweg circa 2 Kilometer weit weg liegt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Haltestellen Claudiusstraße, Bovestraße und Holstenhofweg weisen zusammen die höchsten Erschließungspotenziale auf. Die Stationen Bovestraße und Holstenhofweg ermöglichen eine optimale Verknüpfung zum Busnetz, kurze Umsteigezeiten, Wetterschutz und direkte Sichtbeziehungen zwischen S-Bahn und dem öffentlichen Personennahverkehr (ÖPNV). Die Station Claudiusstraße ermöglicht für die Fahrgäste aus den östlichen Ortsteilen Tonndorf und Rahlstedt eine direkte, fußläufige Erschließung des belebten Stadtteilzentrums Wandsbeker Markt und bietet durch die Nähe zum U-Bahnhof Wandsbek Markt erhebliche Vorteile bei Betriebsstörungen. Die Haltestelle Pulverhof verfügt über das größte Einwohnerpotenzial, wenn wie üblich eine Luftliniendistanz von 600 Metern zugrunde gelegt wird.
 

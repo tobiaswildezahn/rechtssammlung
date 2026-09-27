@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 19
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67523"
@@ -57,7 +58,7 @@ Unterliegt das Stand-up-Paddling in der Freien und Hansestadt Hamburg speziellen
 
 Gibt es abgegrenzte Gebiete, in denen die Stand-up-Paddler die Sportart ausüben dürfen? a. Wenn ja, um welche Gebiete handelt es sich und wie werden diese markiert? b. Wenn nein, wie wird das Gefahrenrisiko durch Schiffsverkehr und zu starke Strömungen für die Nutzer minimiert? c. Stehen Privatpersonen und Angebotsnutzern die gleichen Rechte für die Nutzung der Gebiete zu?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

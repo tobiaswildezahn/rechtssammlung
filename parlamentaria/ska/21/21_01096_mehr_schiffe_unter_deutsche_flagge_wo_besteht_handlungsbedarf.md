@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/4027"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49273"
@@ -77,6 +78,6 @@ Hält der Senat die bisherigen Maßnahmen für ausreichend?
 
 Wenn nein, welche weiteren Maßnahmen hält er für erforderlich? Welche Schritte gedenkt der Senat zu unternehmen, um diese auf den Weg zu bringen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nein. Die zuständige Behörde bereitet eine Initiative zur befristeten Erhöhung des Lohnsteuereinbehalts von 40 Prozent auf 100 Prozent vor, die in den Bundesrat eingebracht werden soll.

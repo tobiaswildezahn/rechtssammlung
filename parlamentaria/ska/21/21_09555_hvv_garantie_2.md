@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58384"
@@ -78,7 +79,7 @@ An wie vielen Tagen wurde der Betrieb der Hamburger Schnellbahnen in den Jahren 
 
 An wie vielen Tagen wurde der Betrieb der Hamburger Schnellbahnen in den Jahren 2011 – 2016 durch „Schneebruch“ behindert? Bitte nach Jahren aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 An welchen Tagen in den Jahren 2011 bis 2016 der Betrieb der Hamburger Schnellbahnen ganz oder teilweise durch hohe Schnee- oder Eislasten verursachte Schäden behindert wurde, ist von den Verkehrsunternehmen nicht gesondert dokumentiert worden. Für die S-Bahn siehe nachfolgende Auflistung zum Wintereinbruch:
 

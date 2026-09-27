@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/11277"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58920"
@@ -67,7 +68,7 @@ Inwiefern wird bei einer solchen Ladung im Auftrage der Staatsanwaltschaft der/d
 
 Inwiefern wird bei der Vorladung Rücksicht auf die Lebensumstände der betroffenen Person genommen, sodass zum Beispiel keine kurzfristigen Ladungen an einen anderen Ort als den Aufenthaltsort der Person stattfinden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Bei Vorladungen wird auf die berechtigten Interessen des Zeugen Rücksicht genommen. Auch insoweit ist durch die geplante Neufassung keine Änderung der Ladungspraxis zu erwarten.
 

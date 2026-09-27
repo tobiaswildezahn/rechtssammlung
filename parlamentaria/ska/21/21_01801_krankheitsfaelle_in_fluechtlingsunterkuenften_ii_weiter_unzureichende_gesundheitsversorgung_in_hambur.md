@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 32
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1670", "21/1701", "21/1259"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50030"
@@ -243,7 +244,7 @@ Welche zentralen Erstaufnahmeeinrichtungen oder Notunterkünfte werden zukünfti
 
 Wie viele mobile Ambulanzteams mit wie vielen Mitarbeitern welcher Qualifikation gibt es?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Zum Stand 6. Oktober 2015 wird keine Unterkunft mit mobilen Ambulanzen versorgt. In Planung ist aber die Versorgung neu eingerichteter ZEA ab 1. November 2015 mit einer mobilen Ambulanz. Im Übrigen sind die Planungen noch nicht abgeschlossen.
 
@@ -333,7 +334,7 @@ Inwieweit sind zwischenzeitlich in sämtlichen zentralen Erstaufnahmen und Notun
 
 Inwieweit wird von den Gesundheitsbehörden der Bezirke eine Überwachung der Einhaltung von Hygienevorschriften nach dem Infektionsschutzgesetz durchgeführt? Bitte für die einzelnen Fachämter für Gesundheit der Bezirke im Einzelnen mit den Daten der Kontrollbesuche darlegen.
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Die Gesundheitsämter der Bezirksämter sind nach örtlicher Zuständigkeit für den Infektions- und Gesundheitsschutz der Einrichtungen zuständig (siehe auch Antwort zu 7.).
 

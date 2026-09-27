@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16099", "21/16589", "21/5113"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66756"
@@ -68,7 +69,7 @@ Wenn nein, warum nicht?
 
 Lassen sich die „smarten“ Funktionen deaktivieren? Wenn ja, wer kann die Deaktivierung wieder aufheben?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Funktionen sind in der Konfiguration der Kameras standardmäßig deaktiviert. Eine Aktivierung kann alleine durch die Informationstechnik der Polizei, Referat Videotechnik (IT 421), vorgenommen werden. Eine Nutzung dieser Funktionen ist von der Polizei nicht vorgesehen.
 

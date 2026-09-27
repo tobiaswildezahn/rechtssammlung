@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51990"
@@ -99,7 +100,7 @@ Welche Institutionen und/oder Träger in der Freien und Hansestadt Hamburg haben
 
 Hält der Senat diese Zahl für ausreichend, um absehbare Bedarfe von Fachkräften mit der Qualifikation „Deutsch als Fremdsprache“/„Deutsch als Zweitsprache“ zu decken? a. Wenn nein, welche Maßnahmen ergreift der Senat? b. Wenn ja, warum?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Hierzu liegen dem Senat keine Erkenntnisse vor. Im Übrigen siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["16/4616"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52659"
@@ -49,7 +50,7 @@ Den Einsatz wie vieler Polizisten sieht das Konzept vor? Wie viele Polizisten we
 
 Aus welchen Dienststellen stammen die eingesetzten und noch einzusetzenden Polizisten und mit welchen Aufgaben waren sie bisher betraut?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Konzept zur Intensivierung der Maßnahmen zur Bekämpfung der öffentlich wahrnehmbaren Drogenkriminalität im Bereich der Innenstadt mit den Brennpunkten St. Georg und St. Pauli sieht den Einsatz von Kräften der Polizeikommissariate (PK) 11, 15, 16, der Direktion Einsatz sowie des Landeskriminalamtes vor. Die Einsatzkräfte gehören den Dienstgruppen Operative Aufgaben und den Dienstgruppen Fahndung der PK sowie der für Maßnahmen zur Bekämpfung der Betäubungsmittelkriminalität am PK 11 zuständigen Dienstgruppe PK 113 an. Zusätzlich werden Kräfte der Direktion Einsatz (DE 3) eingesetzt. Aus dem LKA ist die Dienststelle LKA 68 (Fachkommissariat Frontdeal/Konsumentendelikte) tätig.
 

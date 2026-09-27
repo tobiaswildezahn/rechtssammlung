@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 22
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7964", "21/14828", "21/16437"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68231"
@@ -96,7 +97,7 @@ Wie viele Menschen mit psychischer Erkrankung und geistiger oder seelischer Behi
 
 Wie viele davon sind unter 18 Jahre und wie viele sind zwischen 18 und 21 Jahren?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Am Stichtag 14.10.2019 waren in Hamburger Krankenhäusern und Pflegeeinrichtungen 364 Personen untergebracht. Davon waren 12 Personen unter 18 Jahre und 9 Personen 18 bis 21 Jahre alt.
 
@@ -110,7 +111,7 @@ Wie viele dieser Einrichtungen sind geschlossene Einrichtungen?
 
 Welche dieser Einrichtungen führen freiheitsentziehende Maßnahmen welcher Art durch? (Bitte aufgeschlüsselt nach Art der Maßnahmen darstellen.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 1.
 
@@ -134,7 +135,7 @@ Nach welchen Kriterien entschieden die jeweiligen Beschäftigten der Einrichtung
 
 Was für Richtlinien gibt es hierfür?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Kriterien sind durch den Landesgesetzgeber im HmbPsychKG beziehungsweise durch den Bundesgesetzgeber im BGB vorgegeben. Die diesbezüglichen verfahrensrechtlichen Regelungen sind in den Abschnitten 1 und 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit (FamFG) festgelegt.
 
@@ -166,7 +167,7 @@ Wie werden die Qualitätsstandards der Menschen mit psychischer Erkrankung und g
 
 Wie oft werden diese Qualitätsstandards angepasst? Und wann wurden sie das letzte Mal angepasst?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 „Qualitätsstandards der Menschen mit psychischer Erkrankung und geistiger oder seelischer Behinderung“ sind dem Senat nicht bekannt. Für Einrichtungen der Eingliederungshilfe werden Qualitätsstandards vereinbart. Diese werden mit Hilfe von jährlich vorzulegenden Qualitätssicherungsberichten überprüft.
 
@@ -178,7 +179,7 @@ Wie oft beziehungsweise in welchen Zeitabständen werden die Einrichtungen zur B
 
 Gibt es hier Vorgaben? Falls ja, wie gestalten sich diese? Falls nein, warum nicht?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Im Rahmen der Aufsicht nach § 13a Absatz 3 HmbPsychKG besucht die für die Aufsicht über die beliehenen Krankenhäuser zuständige Behörde für Gesundheit und Verbraucherschutz einmal jährlich die Krankenhäuser, in denen Unterbringungen durchgeführt werden. Darüber hinaus erfolgen bei Bedarf anlassbezogene Besuche.
 

@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 4
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9882", "21/516", "21/2242", "21/3044", "21/5888", "21/11956", "21/12289", "21/4925", "20/9662", "21/8274", "21/11262", "21/9810", "21/11471"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63658"
@@ -55,6 +56,6 @@ Zu wann genau wird die Einrichtung der öffentlich-rechtlichen Unterbringung (ö
 
 Soll die P+R-Anlage Kiwittsmoor nach der Schließung der örU wieder als P+R-Anlage genutzt werden? Wenn ja, ab wann und wird es bei 303 Stellplätzen wie vor der Zwischennutzung als örU bleiben oder inwiefern sind Veränderungen hinsichtlich der Kapazitäten geplant? Wenn nein, wie soll diese Anlage ab wann durch wen anderweitig genutzt werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es ist vorgesehen, die öffentlich-rechtliche Folgeunterbringung (örU) auf dem P+R- Parkplatz Kiwittsmoor am 31. Dezember 2018 zu schließen und im Anschluss, zur Nutzung als P+R-Anlage, zurückzubauen. Ein Zeitpunkt für die Wiederinbetriebnahme kann derzeit nicht genannt werden. Im Übrigen siehe Drs. 21/11471.

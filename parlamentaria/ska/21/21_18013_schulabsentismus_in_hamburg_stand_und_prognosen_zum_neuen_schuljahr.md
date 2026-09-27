@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 15
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2476", "21/17593", "21/14266"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67631"
@@ -94,7 +95,7 @@ Wie viele Fälle davon dauerten drei Tage/20 Stunden pro Monat? (Bitte wie Tabel
 
 Wie viele Fälle davon waren drei Tage/20 Stunden pro Monat plus zwei Wochen (laut Richtlinie der BSB zum Umgang mit Schulabsentismus wird jetzt die Beratungslehrkraft eingeschaltet)? (Bitte Tabelle wie zu Frage 1. angeben.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die erfragten Daten werden von der für Bildung zuständigen Behörde nicht zentral erfasst. Sie können nur mittels Einzelabfragen bei sämtlichen Schulen erhoben werden. Dies ist im Rahmen der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

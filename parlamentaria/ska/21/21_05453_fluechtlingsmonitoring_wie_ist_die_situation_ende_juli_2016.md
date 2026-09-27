@@ -14,6 +14,7 @@ fragen: 33
 einzelfragen: 43
 antwortbloecke: 33
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4919", "21/5124", "21/4569", "21/4030", "21/681", "21/1271", "21/1568", "21/1906", "21/2232", "21/2599", "21/2837", "21/3227", "21/3646", "21/3915", "21/4293", "21/4734", "21/5023", "21/4943"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53945"
@@ -1071,7 +1072,7 @@ Darüber hinaus sind noch
 diverse Honorarkräfte  
 beschäftigt.
 
-GA-diverse- inkl. Leitung
+GA-diverseinkl. Leitung
 
 geschätzter Personalanteil  
 im Rahmen von  

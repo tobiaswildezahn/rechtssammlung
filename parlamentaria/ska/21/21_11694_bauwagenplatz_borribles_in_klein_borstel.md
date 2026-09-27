@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 37
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7253", "21/5662", "21/2570"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60927"
@@ -109,7 +110,7 @@ Welche Stelle hat den Bauwagenplatz an der Stübeheide wann bau- und brandschutz
 
 Wie oft wird der Bauwagenplatz von einer Brandverhütungsschau überprüft?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Eine bau- und brandschutztechnische Abnahme ist gemäß Wohnwagengesetz nicht vorgesehen. Eine Brandverhütungsschau durch die Feuerwehr erfolgt nicht.
 

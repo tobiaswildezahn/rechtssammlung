@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62246"
@@ -67,7 +68,7 @@ Wie ist der Stand der Beseitigung der Schäden? Welche Maßnahmen sind im Einzel
 
 Wann stehen die Sporthallen einschließlich der Umkleideräume und der sanitären Anlagen nach derzeitigem Stand wieder vollständig für den Schul- und Vereinssport zur Verfügung?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Sporthalle des Südflügels und die Umkleide-/Duschräume sind am 3. Mai und am
 4. Mai 2018 gereinigt worden und seit dem 4. Mai 2018 seitens des Gymnasiums wieder in Nutzung.

@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 19
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14636"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64219"
@@ -141,7 +142,7 @@ In welchen zeitlichen Abständen soll die Preisgarantie überprüft werden (Moni
 
 Von wem sollen diese Überprüfungen vorgenommen werden?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Antwort zu 6.
 
@@ -161,7 +162,7 @@ Auf welche Weise kann und soll sichergestellt werden, dass die Preisgarantie in 
 
 Ist zur Sicherstellung einer längerfristigen Preisgarantie beispielsweise eine gesetzliche Regelung vorgesehen? Wenn nein: Welche andere Regelungsform sieht der Senat vor?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Der Senat verantwortet die abgegebene Preisgarantie. Eine gesetzliche Regelung ist nicht vorgesehen.
 

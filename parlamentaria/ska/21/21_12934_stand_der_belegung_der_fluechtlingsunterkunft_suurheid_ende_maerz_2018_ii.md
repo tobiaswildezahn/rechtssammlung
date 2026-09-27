@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12594"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62256"
@@ -43,7 +44,7 @@ Wie viele Flüchtlinge waren in der örU Suurheid Ende März 2018 untergebracht?
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Geschlecht  
 Kinder & Jugendliche Erwachsene  
@@ -70,11 +71,11 @@ Wie viele Wohnungen der örU sind bereits insgesamt belegt und mit wie vielen Pe
 
 Insgesamt sind 37 Wohnungen ausschließlich mit Familienangehörigen belegt:
 
- zwölf Zwei-Zimmer Wohnungen,
+– zwölf Zwei-Zimmer Wohnungen,
 
- 16 Drei-Zimmer Wohnungen,
+– 16 Drei-Zimmer Wohnungen,
 
- neun Vier-Zimmer Wohnungen.
+– neun Vier-Zimmer Wohnungen.
 
 In den Zwei-Zimmerwohnungen sind jeweils zwei bis drei Personen, in den Dreizimmerwohnungen vier bis fünf Personen und in den Vier-Zimmer Wohnungen sechs bis sieben Personen untergebracht.
 

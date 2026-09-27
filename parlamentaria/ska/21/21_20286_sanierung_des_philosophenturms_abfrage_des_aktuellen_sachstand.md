@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 19
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17034", "21/14185"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70070"
@@ -61,7 +62,7 @@ Wie weit sind die Arbeiten zum geplanten Einbau neuer Wände, Decken und Fußbö
 
 Wie viel Geld haben diese Maßnahmen bislang gekostet?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Arbeiten zum geplanten Einbau neuer Wände, Decken und Fußböden beginnen erst nach Abschluss der Rohbauarbeiten. Diese dauern derzeit noch an. Folglich sind noch keine Kosten angefallen.
 
@@ -113,7 +114,7 @@ Welche Geschosse wurden bislang denkmalgerecht restauriert?
 
 Woraus leitet sich der Denkmalschutz genau ab?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Es wurden bisher keine Geschosse denkmalgerecht restauriert, da dies erst im Zuge der Ausbauarbeiten erfolgt. Im Übrigen siehe Drs. 21/17034.
 
@@ -125,7 +126,7 @@ Wo wird sich die geplante Bibliothek mit einer Fläche von 6 000 m² in Zukunft 
 
 Handelt es sich gemäß den aktuellen Planungen dabei um eine seminarübergreifende Bibliothek? Falls ja, welche Bestände werden dort untergebracht sein?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Gemäß Drs. 21/14185 werden die bisher vertikal übereinander angeordneten Bibliotheken auf fünf Geschossen vom 2. bis 6. Obergeschoss zu einer zentralen Bibliothek mit mehr als 6 000 m² zusammengefasst werden. Im Übrigen siehe Drs. 21/17034.
 
@@ -137,6 +138,6 @@ Im April 2019 hat die Universität Hamburg die Gesamtkosten der Sanierung des Ph
 
 Hat sich die Gesamtsumme im Gegensatz zu den ursprünglichen Kalkulationen verringert oder erhöht? Bitte auch erklären, wie etwaige Veränderungen des Budgets zustande gekommen sind.
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Die in Drs. 21/14185 genannten Gesamtprojektkosten in Höhe von rund 85 Millionen Euro sind nach wie vor aktuell und es liegen bisher keine Veränderungen vor. Das Projekt läuft im vorgesehenen Terminrahmen.

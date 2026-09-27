@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 19
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13166", "21/5708", "21/10524", "21/13174"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65429"
@@ -61,7 +62,7 @@ Wie viele Mitarbeiter (VZÄ) standen dem Ordnungswidrigkeiten- Management bezieh
 
 Wie viele dieser Mitarbeiter sind zu welchem Anteil und mit welcher Ausrüstung in den Jahren 2016, 2017 und 2018 jeweils im Außendienst tätig gewesen? Bitte den Ergebnissen zu Nummer 2. zuordnen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage 1. Eine Zuordnung des Personals zu einzelnen Bereichen ist nicht möglich. Der Außendienst verfügt überwiegend über eine Uniform oder hochwertige Schutzjacken und außendiensttypische Ausrüstung wie stichfeste Handschuhe, Taschenlampen, Reizgas, Handfesseln, Entfernungsmesswagen und Diensthandys. Im Übrigen siehe Drs. 21/13166.
 

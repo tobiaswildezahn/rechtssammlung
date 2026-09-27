@@ -14,6 +14,7 @@ fragen: 47
 einzelfragen: 64
 antwortbloecke: 45
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9758", "21/4919", "21/10677", "21/11001", "21/12037", "21/6544", "21/13466", "21/12482", "21/11934", "21/12038", "21/131", "21/13719"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63183"
@@ -546,27 +547,27 @@ Verlassen haben die örU im gleichen Zeitraum insgesamt 452 Personen (Zuwanderer
 
 Im Bereich der Erstaufnahme und Erstversorgung für unbegleitete minderjährige Ausländer sind im Juni 2018 37 Personen neu aufgenommen worden. Im selben Monat haben insgesamt 45 unbegleitete minderjährige Ausländer die Erstaufnahme und Erstversorgung wieder verlassen:
 
- Zehn unbegleitete minderjährige Ausländer wechselten in eine Folgeeinrichtung im
+– Zehn unbegleitete minderjährige Ausländer wechselten in eine Folgeeinrichtung im
 
 Rahmen einer Hilfe zur Erziehung oder verblieben in ihrer Einrichtung mit neuer Hilfeform.
 
- In 27 Fällen erfolgten eine Feststellung der Volljährigkeit und der Umzug in eine
+– In 27 Fällen erfolgten eine Feststellung der Volljährigkeit und der Umzug in eine
 
 Wohnunterkunft.
 
- Zwei unbegleitete minderjährige Ausländer haben sich mit unbekanntem Ziel ent-
+– Zwei unbegleitete minderjährige Ausländer haben sich mit unbekanntem Ziel ent-
 
 fernt.
 
- Ein unbegleiteter minderjähriger Ausländer ist mit Verwandten zusammengeführt
+– Ein unbegleiteter minderjähriger Ausländer ist mit Verwandten zusammengeführt
 
 worden.
 
- Zwei unbegleitete minderjährige Ausländer sind in eine andere Kommune verteilt
+– Zwei unbegleitete minderjährige Ausländer sind in eine andere Kommune verteilt
 
 worden.
 
- Drei unbegleitete minderjährige Ausländer sind in ihr Herkunftsland zurückgeführt
+– Drei unbegleitete minderjährige Ausländer sind in ihr Herkunftsland zurückgeführt
 
 worden.
 
@@ -919,15 +920,15 @@ Die Weiterarbeit an einem KDS in Hamburg ist von den Prozessen im Bund abhängig
 
 Mit dem KDS für Jugendliche soll ein rechtskreisübergreifender und medienbruchfreier Informationsaustausch zwischen Schule, den sozialen Leistungsträgern und gegebenenfalls weiteren Partnern ermöglicht werden:
 
- Beratungsbedarfe sichtbar machen: KDS macht den Verbleib junger Menschen im
+– Beratungsbedarfe sichtbar machen: KDS macht den Verbleib junger Menschen im
 
 Übergang Schule – Beruf bis zum 25. Lebensjahr transparent, sodass nachvollziehbar ist, welche Jugendliche in der Phase des Übergangs von der Schule in den Beruf ohne Anschlussperspektive sind.
 
- Beratungsprozesse verbessern: Durch das Aufzeigen der Beratungsbedarfe
+– Beratungsprozesse verbessern: Durch das Aufzeigen der Beratungsbedarfe
 
 ermöglicht KDS die systematische Zusammenarbeit der beteiligten Kooperationspartner bei der Betreuung und Vermittlung von jungen Menschen beim Übergang von der Schule in den Beruf.
 
- Maßnahmenplanung verbessern: KDS bietet Auswertungsmöglichkeiten für Bund,
+– Maßnahmenplanung verbessern: KDS bietet Auswertungsmöglichkeiten für Bund,
 
 Länder und Kommunen und kann so zur Verbesserung der Maßnahmenplanung beitragen.
 
@@ -960,7 +961,7 @@ Wie viele Personen aus den nicht europäischen Asylherkunftsländern üben derze
 
 Wie viele Personen aus den nicht europäischen Asylherkunftsländern waren Ende Juni 2018 im Rechtskreis des SGB II und SGB III insgesamt und jeweils arbeitssuchend und wie viele davon arbeitslos gemeldet? Wie viele davon sind Männer, wie viele Frauen?
 
-#### Antwort zu Fragen 37 bis 38
+#### Antwort zu Fragen 37 und 38
 
 Siehe Anlage 3 sowie Vorbemerkung.
 
@@ -992,7 +993,7 @@ Wie viele Asylsuchende haben im Juni 2018 in der zentralen Test- und Meldestelle
 
 Welche Einstufungen und Überweisung in jeweils welche Kurse (Alphabetisierungskurs, regulärer Integrationskurs und so weiter) ergaben sich aus den Tests im Juni 2018?
 
-#### Antwort zu Fragen 41 bis 42
+#### Antwort zu Fragen 41 und 42
 
 Siehe Antwort zu 39.
 

@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55087"
@@ -43,7 +44,7 @@ Wie viele Projektstellen Busbeschleunigung welcher Wertigkeit sind in den Jahren
 
 Wie viele Projektstellen Busbeschleunigung welcher Wertigkeit bleiben für die Jahre 2017/2018 bestehen? Bitte jeweils nach Entgeltgruppe auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Anzahl Stellen  
 Wertigkeit  

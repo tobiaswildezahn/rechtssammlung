@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59283"
@@ -85,9 +86,9 @@ B.Sc.
 
 Die Studiengänge werden wie folgt beworben:
 
- Auf der Internetseite der Koordinationsstelle Studium DUAL www.hawhamburg.de/ti-dual
+– Auf der Internetseite der Koordinationsstelle Studium DUAL www.hawhamburg.de/ti-dual
 
- Auf  
+– Auf  
 der  
 Internetseite  
 des  
@@ -97,21 +98,21 @@ Ausund
 Fortbildung  
 http://www.hamburg.de/studium-verwaltung/#anker_8
 
- Auf der Internetseite der einzelnen Departments der Hochschule
+– Auf der Internetseite der einzelnen Departments der Hochschule
 
- Monatliche Infoveranstaltung über duale Studienformen an der HAW Hamburg
+– Monatliche Infoveranstaltung über duale Studienformen an der HAW Hamburg
 
 durch die Koordinationsstelle
 
- Hochschulinformationstage
+– Hochschulinformationstage
 
- Studienberatung der HAW Hamburg
+– Studienberatung der HAW Hamburg
 
- Messen, zum Beispiel Karriere Dual; Vocatium
+– Messen, zum Beispiel Karriere Dual; Vocatium
 
- Studien- und Berufsorientierungstage/Informationsveranstaltungen an Schulen
+– Studien- und Berufsorientierungstage/Informationsveranstaltungen an Schulen
 
- Internetportale/Publikationen fürs duale Studium
+– Internetportale/Publikationen fürs duale Studium
 
 TUHH:
 
@@ -121,15 +122,15 @@ HSBA:
 
 An der HSBA gibt es folgende duale Bachelorstudiengänge:
 
- Business Administration
+– Business Administration
 
- Business Informatics
+– Business Informatics
 
- Logistics Management
+– Logistics Management
 
- Maritime Management
+– Maritime Management
 
- Media Management
+– Media Management
 
 Die HSBA bewirbt die Studiengänge auf ihrer Homepage www.hsba.de und auf zahlreichen Messen sowie einer eigenen Informationsveranstaltungen für Studierende und Kooperationsunternehmen. Zusätzlich werden lokale Schulen besucht, um die Studiengänge vorzustellen. Die Kooperationsunternehmen verlinken häufig von ihren Recruiting-Seiten auf die HSBA und sind ebenfalls auf zahlreichen Messen vertreten.
 
@@ -221,27 +222,27 @@ TUHH:
 
 Folgende Bachelor- und Masterstudiengänge wurden an der TUHH angeboten:
 
- Maschinenbau
+– Maschinenbau
 
- Mechatronik
+– Mechatronik
 
- Schiffbau
+– Schiffbau
 
- Elektrotechnik
+– Elektrotechnik
 
- Informatik-Ingenieurwesen
+– Informatik-Ingenieurwesen
 
 HSBA:
 
 Im Jahr 2012 wurden an der HSBA folgende duale Bachelorstudiengänge angeboten:
 
- Business Administration
+– Business Administration
 
- Logistics Management
+– Logistics Management
 
- Maritime Management
+– Maritime Management
 
- Media Management
+– Media Management
 
 ### Frage 6
 
@@ -279,6 +280,6 @@ Im Koalitionsvertrag von Rot-Grün aus dem Jahr 2015 steht vage, dass die „Koa
 
 Teilt der Senat die Empfehlung der BDA, die Zahl der Studiengänge im Bereich des dualen Studiums auszuweiten? Wenn ja, innerhalb welches Zeitraums soll eine Ausweitung in welcher Art und Weise erfolgen? Welche Maßnahmen gedenkt der Senat innerhalb welches Zeitraums zu ergreifen, um welche verbesserten Rahmenbedingungen für die Ausweitung zu schaffen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Überlegungen hierzu sind noch nicht abgeschlossen. Im Übrigen siehe Vorbemerkung.

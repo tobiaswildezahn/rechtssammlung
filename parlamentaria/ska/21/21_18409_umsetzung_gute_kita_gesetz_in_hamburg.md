@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 17
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13947", "21/14241", "21/10173", "21/12840", "21/13666", "21/13708", "21/13932", "21/16866"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68045"
@@ -41,29 +42,29 @@ Vor diesem Hintergrund frage ich den Senat:
 
 In den vergangenen Jahren hat der Senat erhebliche Anstrengungen unternommen, die Angebote der Kindertagesbetreuung in Hamburg auszubauen und qualitativ zu verbessern:
 
- 2011: Rücknahme der Elternbeitragserhöhungen des Jahres 2010, vollständige
+– 2011: Rücknahme der Elternbeitragserhöhungen des Jahres 2010, vollständige
 
 Abschaffung des Verpflegungsanteils an den Kosten der Kindertagesbetreuung.
 
- 2012: Vorziehen des allgemeinen Rechtsanspruchs auf fünfstündige Betreuung für
+– 2012: Vorziehen des allgemeinen Rechtsanspruchs auf fünfstündige Betreuung für
 
 alle Kinder ab zwei Jahren.
 
- Seit 2013: Über das Landesprogramm „Kita-Plus“ erhalten Kitas, die überdurch-
+– Seit 2013: Über das Landesprogramm „Kita-Plus“ erhalten Kitas, die überdurch-
 
 schnittlich viele Kinder mit nicht deutscher Familiensprache oder aus sozial benachteiligten Familien betreuen, zusätzliche Mittel für mehr pädagogisches Per-
 
 sonal im Umfang von rund 12 Prozent. Davon profitieren 2019 rund 330 der etwa 1 100 Hamburger Kitas. Außerdem erhalten rund 100 Kitas mit einem überdurchschnittlich hohen Anteil von Kindern mit nicht deutscher Familiensprache zusätzliche Mittel für die Intensivierung der sprachlichen Bildung.
 
- 2013: Umsetzung des bundesgesetzlichen Rechtsanspruchs auf Kinderbetreuung
+– 2013: Umsetzung des bundesgesetzlichen Rechtsanspruchs auf Kinderbetreuung
 
 für alle Kinder ab dem vollendeten ersten Lebensjahr.
 
- 2014: Erhöhung der Tagespflegegelder und der Qualifikationsanforderungen an
+– 2014: Erhöhung der Tagespflegegelder und der Qualifikationsanforderungen an
 
 Kindertagespflegepersonen zur Steigerung der Attraktivität der öffentlich geförderten Kindertagespflege.
 
- 2014: Das fünfstündige Grundangebot in Kitas und Kindertagespflege ist seit
+– 2014: Das fünfstündige Grundangebot in Kitas und Kindertagespflege ist seit
 
 1. August 2014 für alle Kinder kostenfrei – inklusive eines kostenfreien Mittagessens.
 

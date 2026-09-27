@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9979", "21/5000", "21/10727"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61316"
@@ -81,31 +82,31 @@ Welche und wie viele externe Dienstleister (beispielsweise Gutachter, Kanzleien)
 
 Im Zuge der Planergänzung wurden die folgenden Ingenieurbüros und Gutachter beauftragt:
 
- WKC Hamburg GmbH: Technische Planung,
+– WKC Hamburg GmbH: Technische Planung,
 
- Burmann, Mandel und Partner: Baugrund,
+– Burmann, Mandel und Partner: Baugrund,
 
- Lärmkontor GmbH: Schallimmissionen,
+– Lärmkontor GmbH: Schallimmissionen,
 
- baudyn GmbH: Erschütterungen,
+– baudyn GmbH: Erschütterungen,
 
- Universität Hamburg, Institut für Bodenkunde: Bodenkundlich-hydrologische Wir-
+– Universität Hamburg, Institut für Bodenkunde: Bodenkundlich-hydrologische Wir-
 
 kungen,
 
- Bundesanstalt für Wasserbau: Hydrologie und Morphologie,
+– Bundesanstalt für Wasserbau: Hydrologie und Morphologie,
 
- Bielfeldt + Berg Landschaftsplanung: Umweltverträglichkeitsuntersuchung, Land-
+– Bielfeldt + Berg Landschaftsplanung: Umweltverträglichkeitsuntersuchung, Land-
 
 schaftspflegerischer Begleitplan,
 
- leguan GmbH: Artenschutz,
+– leguan GmbH: Artenschutz,
 
- Planungsbüro für Naturschutz und Landschaftsökologie: Fachberatung Schierlings-
+– Planungsbüro für Naturschutz und Landschaftsökologie: Fachberatung Schierlings-
 
 Wasserfenchel,
 
- IBL Umweltplanung GmbH: Natura 2000, Wasserrahmenrichtlinie.
+– IBL Umweltplanung GmbH: Natura 2000, Wasserrahmenrichtlinie.
 
 Die Kosten für die oben genannten Gutachterbüros können erst nach Abschluss des Planergänzungsverfahrens beziffert werden.
 

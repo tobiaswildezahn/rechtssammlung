@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11050", "21/10683", "21/10150"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60432"
@@ -51,7 +52,7 @@ Wie viele Wohneinheiten bestehen jeweils in den in der Drs. 21/10683 angegebenen
 
 In welchen dieser Gebäude stehen jeweils wie viele Wohneinheiten leer?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nachfolgend wird der Bestand der Wohneinheiten, die sich im Verwaltungsvermögen der Justizbehörde befinden, dargestellt.
 
@@ -196,6 +197,6 @@ Gab oder gibt es Überlegungen oder gar Pläne für eine etwaige Verlagerung der
 
 In der allgemeinen Vorbemerkung der Drs. 21/11050 stellt der Senat fest, „konkrete Kaufangebote“ für die oder einzelne „Wärterhäuser“ lägen ihm nicht vor. Hat es aber entsprechende Anfragen oder Interessenbekundungen gegeben? Wenn ja, wann und im Hinblick auf welche Gebäude?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Nein, im Übrigen siehe Drs. 21/10150 und 21/10683.

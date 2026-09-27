@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 19
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11396"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61021"
@@ -51,7 +52,7 @@ Wie viele Kfz-Stellplätze sind im Bezirk Eimsbüttel seit 2015 dauerhaft bezieh
 
 In welchem Straßenzug des Bezirks Eimsbüttel wurden seit 2015 die meisten Kfz-Stellplätze neu geschaffen, in welchem Straßenzug die meisten Kfz-Stellplätze reduziert? (Bitte jahresweise aufschlüsseln.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine Bilanzierung der Kfz-Stellplätze erfolgt nicht während der Bauzeit sondern vor Beginn und nach Abschluss einer Baumaßnahme. Für Hauptverkehrsstraßen wird allein die geänderte Anzahl der Kfz-Stellplätze beim Landesbetrieb Straßen, Brücken und Gewässer (LSBG) nach Abschluss einer Baumaßnahme erfasst. Diese Zahl kann nicht in Bezug auf weggefallene und geschaffene Kfz-Stellplätze aufgeschlüsselt werden. Für Bezirksstraßen kann diese Aufschlüsselung im Sinne der Fragestellung erfolgen.
 
@@ -118,7 +119,7 @@ Wie viele Bußgeldbescheide wegen „Falschparkens“ – mithin wegen Ordnungsw
 
 In Bezug auf welchen Straßenzug des Bezirks Eimsbüttel wurden seit 2015 die meisten dieser Bußgeldbescheide ausgestellt? Wie viele waren es jeweils am Mittelweg, Alsterufer/Harvestehuder Weg, Eppendorfer Baum/Klosterstern und Osterstraße sowie jeweils unmittelbar angrenzenden Seitenstraßen? (Bitte unter Angabe der jeweiligen Strafzettel- Anzahl jahresweise aufschlüsseln.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Statistik zu Bußgeldbescheiden lässt keine Differenzierung im Sinne der Fragestellungen zur Auswertung nach einzelnen Stadtteilen oder Straßenzügen zu.
 
@@ -153,7 +154,7 @@ Wie viele Einnahmen beziehungsweise Erlöse wurden seit 2015 durch die gemäß A
 
 Wie viele Widersprüche wurden seit 2015 gegen die auf dem Gebiet des Bezirks Eimsbüttel ausgestellten Bußgeldbescheide wegen Falschparkens eingelegt? (Bitte nach Jahren und – soweit möglich – Stadtteilen differenziert aufschlüsseln.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 3) und 4).
 
@@ -202,6 +203,6 @@ Wie viele Beschwerden von Radfahrern sind seit 2015 aufgrund eines auf einem Rad
 
 Wie viele Beschwerden von Fußgängern sind seit 2015 aufgrund eines auf einem Fußweg im Bezirk Eimsbüttel parkenden Kfz eingegangen? (Bitte nach Jahren und – soweit möglich – Stadtteilen differenziert aufschlüsseln.)
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Eingehende Bürgerhinweise werden von den zuständigen Stellen nicht statistisch in Bezug auf Art der Verkehrsteilnehmer sowie zugeordnet nach Bezirken erfasst und dokumentiert.

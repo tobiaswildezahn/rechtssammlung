@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 32
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1981", "21/1645", "21/2693"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51555"
@@ -121,7 +122,7 @@ Wann können danach frühestens die Baggerarbeiten im Hafen aufgenommen werden?
 
 Hat die HPA bereits weitere vorbereitende Maßnahmen – Erstellung von erforderlichen Ausschreibungen et cetera – zur sofortigen Aufnahme der Baggerarbeiten aufgenommen? a. Wenn ja, welche?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Baggerarbeiten im Hafen sind bereits aufgenommen. Die HPA ist darauf vorbereitet, nach Vorliegen der Genehmigung handeln zu können. Im Übrigen siehe Antworten zu 3. a. und b.
 
@@ -146,7 +147,7 @@ Die HPA hat vor geraumer Zeit mitgeteilt, dass statt Kirchsteinbek nunmehr Ablag
 
 Falls sich zwischen der Fertigstellung der Flächen südlich Altenwerders und der noch bestehenden Unterbringungsmengen in Hamburg zeitliche Differenzen ergeben: a. Mit welchen Zeiträumen rechnet die HPA? b. Wie und mit welchen Maßnahmen soll diese Unterbringungslücke überbrückt werden?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 In der 19. Wahlperiode hat der damalige Senat eine ergebnisoffene Prüfung zur Baggergutunterbringung auf alternativen Flächen zum Altspülfeld Kirchsteinbek veranlasst.
 

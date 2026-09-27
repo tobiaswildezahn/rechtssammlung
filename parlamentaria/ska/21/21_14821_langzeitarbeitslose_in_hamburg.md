@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7483"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64263"
@@ -49,7 +50,7 @@ Wie viele Langzeitarbeitslose in Hamburg sind jeweils schon länger als drei, f�
 
 Wie viele Menschen in Hamburg sind seit 2005 durchgehend arbeitslos beziehungsweise im gesamten Zeitraum seit 2005 weniger als zwölf Monate in Beschäftigung?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Entwicklung der Arbeitslosigkeit kann insgesamt, aber auch für beide Rechtskreise getrennt der folgenden Statistik entnommen werden:
 
@@ -75,7 +76,7 @@ Wie hoch ist der Anteil der Frauen unter den Langzeitarbeitslosen in Hamburg?
 
 Wie setzt sich die Altersstruktur der Langzeitarbeitslosen in Hamburg zusammen? (Anzahl: 15 – 20 Jahre; 21 – 25 Jahre; 26 – 30 Jahre; 31 – 35 Jahre und so weiter.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Daten können der nachstehenden Statistik (Berichtsmonat Oktober 2018, Tabellenblatt 5) entnommen werden:
 

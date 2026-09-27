@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18196", "20/14531", "21/16864"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68466"
@@ -61,7 +62,7 @@ Warum lassen Senat beziehungsweise zuständige Behörden in diesem Zusammenhang 
 
 Wie bewerten Senat beziehungsweise zuständige Behörden das Verhältnis von Artikel 3 Absätze 1 und 2 HV?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -81,6 +82,6 @@ In der verfassungsgerichtlichen Rechtsprechung ist es unbestritten, dass dem Fra
 
 In der soeben zitierten Entscheidung führt das BVerfG in Randnummer 104 aus: „Das parlamentarische Regierungssystem wird auch durch die Kontrollfunktion des Parlaments geprägt. Die parlamentarische Kontrolle von Regierung und Verwaltung verwirklicht den Grundsatz der Gewaltenteilung, der für das Grundgesetz ein tragendes Funktions- und Organisationsprinzip darstellt. Der Gewaltenteilungsgrundsatz zielt dabei nicht auf eine vollständige Trennung der Funktionen der Staatsgewalt, sondern auf die politische Machtverteilung, das Ineinandergreifen der drei Gewalten und die daraus resultierende gegenseitige Kontrolle und Begrenzung mit der Folge der Mäßigung der Staatsgewalt (vgl. BVerfGE 3, 225 <247>; 7, 183 <188>; 9, 268 <279>; 22, 106 <111>; 34, 52 <59>; 95, 1 <15>). Er gebietet gerade im Hinblick auf die starke Stellung der Regierung, zumal wegen mangelnder Eingriffsmöglichkeiten des Parlaments in den der Exekutive zukommenden Bereich unmittelbarer Handlungsinitiative und Gesetzesanwendung, eine Auslegung des Grundgesetzes dahin, dass parlamentarische Kontrolle auch tatsächlich wirksam werden kann. Ohne Beteiligung am Wissen der Regierung kann das Parlament sein Kontrollrecht gegenüber der Regierung nicht ausüben. Daher kommt dem parlamentarischen Informationsinteresse besonders hohes Gewicht zu, soweit es um die Aufdeckung möglicher Rechtsverstöße und vergleichbarer Missstände innerhalb von Regierung und Verwaltung geht (vgl. BVerfGE 67, 100 <130>; 110, 199 <219, 222>; 124, 78 <121>; BVerfG, Urteil des Zweiten Senats vom 21. Oktober 2014 - 2 BvE 5/11 -, juris, Rn. 131).“ a. Wie erklärt der Senat beziehungsweise erklären die zuständigen Behörden, dass sie sich im Gegensatz zu den Ausführungen des BVerfG gerade durch das Gewaltenteilungsprinzip rechtlich nicht zur Beantwortung bürgerschaftlicher Ersuchen verpflichtet sehen? b. Welche Auswirkungen haben diese Ausführungen des BVerfG auf die in der Einleitung zitierte Bewertung des Gewaltenteilungsprinzips im Hinblick auf die Beantwortung bürgerschaftlicher Ersuchen? c. Inwieweit hat dies Einfluss auf die zukünftige Praxis des Senats bei der Berichterstattung?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der Senat teilt die Rechtsauffassung des Bundesverfassungsgerichts und sieht keinen Widerspruch zu seiner Staatspraxis. Auf die Vorbemerkung und die Antwort zu 3. wird verwiesen. Im Übrigen hat sich der Senat hiermit nicht befasst.

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 16
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2497", "21/8372", "20/13933", "21/14422", "21/10509"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64345"
@@ -104,7 +105,7 @@ In welcher Höhe hat die Stiftung Bürgerhaus Wilhelmsburg seit dem Jahr 2007 En
 
 In welcher Höhe hat die Stiftung Bürgerhaus Wilhelmsburg seit dem Jahr 2007 neue Rücklagen gebildet beziehungsweise das Stiftungskapital erhöht? Bitte nach Jahr, Rücklage oder Stiftungskapital und Höhe aufschlüsseln.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Anlage 1.
 
@@ -116,7 +117,7 @@ Welcher Renovierungs- und Sanierungsbedarf ist für das Bürgerhaus Wilhelmsburg
 
 Aus welchen Haushaltstiteln sind die in Ziffer 9. genannten Renovierungs- und Sanierungskosten bezahlt worden? Bitte die entsprechenden Mittel nach Summe und Herkunft aufschlüsseln.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Anlage 2.
 

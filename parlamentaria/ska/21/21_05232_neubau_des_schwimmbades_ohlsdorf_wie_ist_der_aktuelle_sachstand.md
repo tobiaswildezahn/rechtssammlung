@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53722"
@@ -67,7 +68,7 @@ Welche Kosten entstehen für den Neubau im Einzelnen und wie soll die Finanzieru
 
 Welche Einnahmen wurden durch den Verkauf der Teilfläche für den Wohnungsbau erzielt? Wurden beziehungsweise werden diese komplett für den Umbau verwendet? Falls nicht, weshalb nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Gesamtkosten des Projektes betragen 25.000.000 Euro. Davon entfallen auf die Baukosten 19.930.000 Euro und auf die Baunebenkosten 5.070.000 Euro.
 

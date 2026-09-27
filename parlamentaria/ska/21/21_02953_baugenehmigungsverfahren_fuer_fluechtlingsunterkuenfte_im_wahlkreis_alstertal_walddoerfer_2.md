@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 46871
 seiten: 2
 fragen: 2
-einzelfragen: 3
-antwortbloecke: 2
+einzelfragen: 10
+antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2797"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51276"
@@ -38,33 +39,52 @@ Ich frage den Senat:
 ### Frage 1
 
 Am 23. Dezember 2015 hat die Stadt in einer Pressemitteilung die Erteilung einer Baugenehmigung am 22. Dezember 2015 für die am Fiersbarg geplante Flüchtlingsunterbringung erwähnt.
-1.1. Warum wurden zu diesem baurechtlichen Genehmigungsverfahren keinerlei Angaben in der Drs. 21/2797 gemacht?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Warum wurden zu diesem baurechtlichen Genehmigungsverfahren keinerlei Angaben in der Drs. 21/2797 gemacht?
+
+#### Antwort zu Fragen 1 und 1.1
 
 Aufgrund eines Büroversehens wurden zum baurechtlichen Genehmigungsverfahren des Standortes Fiersbarg versehentlich keine Angaben gemacht.
 
-1.2. Ist es zutreffend, dass für die Fläche bereits im November eine Baugenehmigung beantragt wurde?
+### Frage 1.2
+
+Ist es zutreffend, dass für die Fläche bereits im November eine Baugenehmigung beantragt wurde?
+
+#### Antwort zu Frage 1.2
 
 Ja.
 
-1.3. Wann wurden für die Fläche am Fiersbarg jeweils durch wen welche baurechtlichen Genehmigungen für die Errichtung einer Flüchtlingsunterbringung beantragt?
+### Frage 1.3
+
+Wann wurden für die Fläche am Fiersbarg jeweils durch wen welche baurechtlichen Genehmigungen für die Errichtung einer Flüchtlingsunterbringung beantragt?
+
+#### Antwort zu Frage 1.3
 
 Ein Bauantrag wurde am 10. November 2015 gestellt. Dieser wurde am 21. Dezember 2015 modifiziert. Antragsteller war jeweils das Einwohner-Zentralamt.
 
-1.4. Was waren jeweils die wesentlichen Inhalte der Anträge (Nutzungsart, Bauweise, zeitliche Befristung, Kapazität der Unterkunft et cetera)?
+### Frage 1.4
+
+Was waren jeweils die wesentlichen Inhalte der Anträge (Nutzungsart, Bauweise, zeitliche Befristung, Kapazität der Unterkunft et cetera)?
+
+#### Antwort zu Frage 1.4
 
 Inhalt der Anträge war der Neubau von Containerunterkünften zur Nutzung als Zentrale Erstaufnahme. Der Antrag vom 10. November 2015 bezog sich auf temporäre Containerunterkünfte zur Erstaufnahme von 952 Flüchtlingen und Asylbewerbern in stählernen zweigeschossigen Containern. Dieser Antrag wurde am 21. Dezember 2015 auf die Anzahl von 252 Plätzen und eine Befristung von drei Jahren modifiziert.
 
-1.5. Wann wurden jeweils welche entsprechenden Genehmigungen erteilt?
+### Frage 1.5
+
+Wann wurden jeweils welche entsprechenden Genehmigungen erteilt?
+
+#### Antwort zu Frage 1.5
 
 Die Baugenehmigung wurde am 22. Dezember 2015 erteilt.
 
-1.6. Wurde der örtliche Bauprüfausschuss beteiligt?
+### Frage 1.6
 
-Wenn ja, wann und in welcher Form?
+Wurde der örtliche Bauprüfausschuss beteiligt? Wenn ja, wann und in welcher Form? Wenn nein, warum nicht?
 
-Wenn nein, warum nicht?
+#### Antwort zu Frage 1.6
 
 Der Bauprüfausschuss wird am 3. Februar 2016 beteiligt.
 

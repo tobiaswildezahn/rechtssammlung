@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54219"
@@ -80,7 +81,7 @@ Welche Gerichtsurteile mit welchem Inhalt sind dem Senat beziehungsweise den zus
 
 Welche Studien beziehungsweise Untersuchungen mit welchem Inhalt sind dem Senat beziehungsweise den zuständigen Behörden bekannt, die sich mit der Frage nach der Zulässigkeit des längerfristigen Abstellens von Kfz mit Verkaufsanzeigen oder Werbeschildern, Wohnmobilen und Wohnwagen oder Lkws, Transportern und Anhängern auf öffentlichen Parkplätzen beschäftigen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Gerichtsurteile in Verbindung mit dem Parken im öffentlichen Verkehrsraum durch unterschiedliche Verkehrsarten sind vielfältig verfügbar und öffentlich zugänglich (siehe zum Beispiel OVG Hamburg, 19. Juni 2009 – 2 Bs 82/09), entsprechende Studien beziehungsweise Untersuchungen sind der zuständigen Behörde nicht bekannt.
 
@@ -102,6 +103,6 @@ In seiner Antwort (Drs. 20-3283) auf eine Kleine Anfrage (Nummer 114/2016) des B
 
 Welche Normen regeln im Einzelnen das längerfristige Abstellen von Kfz auf öffentlichen Parkplätzen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Antwort zu 1. bis 4.

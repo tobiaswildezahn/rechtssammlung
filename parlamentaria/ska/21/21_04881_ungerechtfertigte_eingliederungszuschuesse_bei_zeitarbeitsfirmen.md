@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 19
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53318"
@@ -107,7 +108,7 @@ Gelten fehlende Standard-Software-Kenntnisse, wie das Office-Paket oder Windows,
 
 Gilt ein nicht vorhandener Führerschein der Klasse B an einem Arbeitsplatz ohne Fahrdienste als Minderleistung bei Leistungsberechtigten nach dem SGB II oder SGB III?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Bei der Minderleistung handelt es sich um ein Tatbestandsmerkmal, das zusätzlich zu der erschwerten Vermittlung erfüllt sein muss. Ob beziehungsweise in welchem
 

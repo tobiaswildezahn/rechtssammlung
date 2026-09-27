@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9187", "21/10362", "21/10761", "21/11443", "21/11897"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61320"
@@ -61,15 +62,15 @@ Als Zielgruppen wurden Schulabsolventinnen und -absolventen aller allgemeinbilde
 
 Die Kampagne bestand aus verschiedenen Maßnahmen:
 
- Plakatierung auf 400 Stadtinformationsanlagen;
+– Plakatierung auf 400 Stadtinformationsanlagen;
 
- Plakatierung von 1.000 Seitenscheiben in U-und S-Bahnen;
+– Plakatierung von 1.000 Seitenscheiben in U-und S-Bahnen;
 
- Ausstrahlung eines Zehn-Sekunden-Videos auf 40 Infoscreens in den Bahnhöfen
+– Ausstrahlung eines Zehn-Sekunden-Videos auf 40 Infoscreens in den Bahnhöfen
 
 Hauptbahnhof, Berliner Tor und Jungfernstieg, im Zeitfenster 15 – 18 Uhr mit sechs Schaltungen pro Stunde;
 
- Anzeigen über Google, Facebook und Instagram.
+– Anzeigen über Google, Facebook und Instagram.
 
 ### Frage 3
 
@@ -95,7 +96,7 @@ Welche finanziellen Mittel stehen für die gesamte Kampagne in welchen Jahren je
 
 Bitte für die jeweiligen Produktgruppen und Kostenarten separat darstellen: Wie teilen sich oben genannte Mittel auf die einzelnen Maßnahmen (Webseite, soziale Medien, Plakate, andere) auf?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Für die Entwicklung grafischer (Druckreife) und interaktiver (Konzeption und Ausführung) Elemente der Kampagne standen in 2017 Mittel in Höhe von maximal 40.000 Euro netto zur Verfügung (Agenturleistung). Hinzu kommen unter anderem Mittel für Online-Werbung, Druckkosten und Werbung in U- und S-Bahnen sowie deren Haltestellen.
 
@@ -151,18 +152,20 @@ Ausbildungsbeginn
 August 2018  
 Berufliche Schule Hamburg Harburg  
 (BS 18)  
- zentral für die Berufsfachschule  
+– zentral für die Berufsfachschule  
 Sozialpädagogische Assistenz (SPA)
 
 22.11.2017
 10.02.2018
 
-Berufliche Schule für Sozialpädagogik – Anna-Warburg-Schule (BS 23)  zentral für die 2,5-jährige SPA mit Zugangsvoraussetzung erweiterter erster allgemeinbildender Schulabschluss
+Berufliche Schule für Sozialpädagogik – Anna-Warburg-Schule (BS 23)
+– zentral für die 2,5-jährige SPA mit Zugangsvoraussetzung erweiterter erster allgemeinbildender Schulabschluss
 
 08.11. 2017
 17.01. 2018
 
-Staatliche Fachschule für Sozialpädagogik Wagnerstraße (BS 30)  zentral für die Weiterbildung Erzieherinnen und Erzieher
+Staatliche Fachschule für Sozialpädagogik Wagnerstraße (BS 30)
+– zentral für die Weiterbildung Erzieherinnen und Erzieher
 
 27.11.2017
 12.02.2018

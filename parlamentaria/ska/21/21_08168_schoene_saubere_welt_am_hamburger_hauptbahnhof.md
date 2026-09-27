@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7908", "21/79", "21/5693"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56872"
@@ -56,7 +57,7 @@ Nach welchen Kriterien werden Wege und Plätze ins Hamburger Wegereinigungsverze
 
 Nach welchen Kriterien werden die Reinigungsaufgaben ausgeführt? Bitte unter den Gesichtspunkten Reinigungsverfahren, der Reinigungshäufigkeit und Reinigungsqualität auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zu den Kriterien für die Aufnahme in das Wegereinigungsverzeichnis und zur Reinigungshäufigkeit siehe Drs. 21/7908. Generell werden sowohl manuelle als auch maschinelle und kombinierte Reinigungsverfahren angewandt, die gleichermaßen den Wirtschaftlichkeitsanforderungen und den Umständen und Bedingungen vor Ort angemessen sind. Zur Reinigungsqualität und deren Qualitätssicherung siehe Drs. 21/79 und 21/5693.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5125"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54688"
@@ -43,7 +44,7 @@ Wie ist der genaue Sachstand der Auswertung des Pilotprojekts?
 
 Welches sind die wesentlichen mit dem Pilotversuch gemachten Ergebnisse und Erfahrungen der zuständigen Dienststellen sowie der Antragsteller?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die für die Auswertung des Pilotversuchs erforderlichen Daten und Nachweise liegen derzeit noch nicht vollständig vor. Die zuständige Behörde kann hierzu erst nach abschließender Auswertung der Evaluierungsberichte eine Aussage treffen.
 
@@ -55,6 +56,6 @@ Bis wann genau soll die Auswertung des Pilotversuchs abgeschlossen sein und in w
 
 Wird eine generelle Änderung des Verfahrens der Beantragung und Umsetzung der Herstellung von Gehwegüberfahrten in Hamburg derzeit geplant, geprüft oder erwogen? Wenn ja, bis wann sollen die entsprechenden Überlegungen abgeschlossen sein?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Eine Unterrichtung der Hamburgischen Bürgerschaft soll nach der Auswertung und Formulierung eines Entscheidungsvorschlages erfolgen. Das weitere Verfahren hängt insbesondere von den Ergebnissen ab und steht derzeit noch nicht fest.

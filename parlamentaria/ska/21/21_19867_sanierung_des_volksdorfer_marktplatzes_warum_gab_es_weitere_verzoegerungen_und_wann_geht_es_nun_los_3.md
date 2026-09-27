@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9134", "21/19368", "21/19004"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69719"
@@ -53,7 +54,7 @@ Wann genau wird derzeit mit dem Beginn der Baumaßnahme gerechnet? Bis wann soll
 
 Hat die Aussage in Drs. 21/19004, dass die Arbeiten bis Ende 2020 fertiggestellt werden sollen, weiterhin Gültigkeit? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Baubeginn ist im März 2020 geplant. Die Arbeiten sollen bis zum Frühjahr 2021 abgeschlossen sein.
 

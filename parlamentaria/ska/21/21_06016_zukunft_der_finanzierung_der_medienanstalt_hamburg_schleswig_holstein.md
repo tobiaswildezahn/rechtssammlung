@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 20
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4834"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54531"
@@ -83,17 +84,17 @@ Wie schlüsseln sich die Ausgaben der MA HSH auf?
 
 In 2016 plant die MA HSH nach eigenen Angaben mit folgenden Ausgaben:
 
- Personalausgaben (1.672.000 Euro)
+– Personalausgaben (1.672.000 Euro)
 
- Sächliche Verwaltungsausgaben außer Mittel für die Projektausgaben Forschung,
+– Sächliche Verwaltungsausgaben außer Mittel für die Projektausgaben Forschung,
 
 Öffentlichkeitsarbeit und Förderung (453.000 Euro)
 
- Projektausgaben (435.000 Euro)
+– Projektausgaben (435.000 Euro)
 
- Zuwendungen für investive Maßnahmen (326.000 Euro)
+– Zuwendungen für investive Maßnahmen (326.000 Euro)
 
- Sonstige Investitionen und Investitionsförderungsmaßnahmen (Filmförderung)
+– Sonstige Investitionen und Investitionsförderungsmaßnahmen (Filmförderung)
 
 (400.000 Euro)
 
@@ -105,7 +106,7 @@ In welchen Einzelplänen und welchen Produktgruppen werden die Ausgaben der Stad
 
 Wann wurden die Zuschüsse an die MA HSH das letzte Mal angepasst und nach welchen Kriterien?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3174"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51662"
@@ -51,7 +52,7 @@ Wie viele Vermisstenanzeigen wurden durch die zuständige Behörde seit 2010 ges
 
 Welche Maßnahmen werden ergriffen, um diese vermissten Kinder zu finden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/3174.
 

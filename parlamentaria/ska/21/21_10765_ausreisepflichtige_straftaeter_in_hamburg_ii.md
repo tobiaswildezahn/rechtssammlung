@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10400", "21/7408"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59684"
@@ -61,7 +62,7 @@ Falls der Senat die erste Frage nicht beantwortet kann, warum werden entsprechen
 
 Hält der Senat eine entsprechende Datenerfassung für sinnvoll? Falls nein, warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Aufgabe der Staatsanwaltschaft ist die Strafverfolgung im Einzelfall, die Ausländerbehörde trifft einzelfallbezogene Entscheidungen in ausländerrechtlicher Hinsicht. Die Datenverarbeitungssysteme der Ermittlungsbehörden bieten insoweit auf Grundlage des Datenschutzrechts die nötigen Voraussetzungen und stehen auch als Grundlage für aufenthaltsrechtliche Entscheidungen im Einzelfall zur Verfügung (vergleiche Vorbemerkung). Im Übrigen hat sich der Senat mit der Frage, inwieweit eine statistische Datenerfassung in der erfragten Form rechtlich zulässig und sinnvoll ist, noch nicht befasst.
 

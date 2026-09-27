@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12055"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68314"
@@ -93,7 +94,7 @@ Wann und mit welchem Ergebnis hat der Runde Tisch Schwimmen seit Juli 2018 getag
 
 Besteht eine in Drs. 21/12055 Frage 5. angedeutete quartiersbezogene Bedarfserhebung der Bahnenstunden bereits? a. Wenn ja, welche Form und welchen Inhalt hat diese? b. Wenn nein, warum besteht diese noch nicht und wann ist mit ihrer Einführung zu rechnen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Runde Tisch Schwimmen hat seit Juli 2018 an folgenden Terminen getagt: 12. September 2018, 05. Dezember 2018, 27. März 2019, 04. September 2019 und 01. Oktober 2019. In allen Sitzungen ging es neben verschiedenen Einzelthemen im Schwerpunkt um die Thematik der Bedarfsberechnung des organisierten Schwimmund Wassersports. Ein Mitglied des Gremiums hat ein Bedarfsberechnungsmodell auf Grundlage der Richtlinien für den Bäderbau des Koordinierungskreises Bäder entwickelt und für seine Bedarfsberechnung angewandt. Im Folgenden wurde und wird geprüft, inwieweit sich dieses Berechnungsmodell auf die anderen schwimmsporttreibenden Verbände übertragen lässt. Des Weiteren wird geprüft, inwieweit sich dieses Berechnungsmodell regionalisieren beziehungsweise auf einzelne Bezirke oder Quartiere übertragen lässt. Der Prozess ist noch nicht abgeschlossen.
 

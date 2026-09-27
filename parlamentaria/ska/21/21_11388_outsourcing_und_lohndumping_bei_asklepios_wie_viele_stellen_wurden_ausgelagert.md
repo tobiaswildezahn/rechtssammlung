@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4285", "20/8221"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60446"
@@ -57,7 +58,7 @@ Welche Bereiche waren durch ein Outsourcing betroffen beziehungsweise werden 201
 
 An welche Tochtergesellschaften wurden und werden welche Bereiche outgesourct? Bitte auflisten nach Bereich, Zeitpunkt, Anzahl der Stellen und jeweiliger Tochtergesellschaft.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Bei der Asklepios Business Services Hamburg GmbH der Bereich Buchhaltung, bei der Asklepios IT-Services Hamburg GmbH der Bereich Informationstechnik, bei der Asklepios Facility Services Hamburg GmbH die Bereiche Medizintechnik, Technik, Sterilisation, Regeltransport, Außenanlagen, bei der Asklepios Einkauf & Versorgung Hamburg GmbH die Bereiche Einkauf und Modulversorgung, bei der Asklepios Objektbetreuung Hamburg GmbH die Bereiche Spontantransport, Bewachung/Pforte, Officemanagement und Post, bei der Asklepios Dienstleistungsgesellschaft Hamburg mbH die Bereiche Servicekräfte und Speisenversorgung, bei der Medilys Laborgesellschaft mb der Bereich Laborleistungen und bei der ZIT – Zentralinstitut für Transfusionsmedizin GmbH der Bereich Blutspendendienst. Im Übrigen siehe Vorbemerkung.
 
@@ -69,7 +70,7 @@ Welche der Asklepios-Tochtergesellschaften sind tarifgebunden? In welchen Tochte
 
 In welchen Punkten und in welcher Weise sind outgesourcte Mitarbeitende tariflich anders beziehungsweise schlechter gestellt als die Mitarbeitenden der Asklepios Kliniken? Bitte nach jeweiliger Tochtergesellschaft und differenziert nach übergeleiteten und neu eingestellten Mitarbeitenden auflisten.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Für die Asklepios Business Services Hamburg GmbH, die Asklepios IT-Services Hamburg GmbH und die Asklepios Einkauf & Versorgung Hamburg GmbH sind die Tarifverhandlungen noch nicht abgeschlossen. Für die Asklepios Facility Services Hamburg GmbH gelten im Betrieb eins der RTV Gebäudereinigung, im Betrieb zwei der TV-AFSH 2 und im Betrieb drei der TV-AFSH 3. Darüber hinaus siehe Drs. 21/4285 und Vorbemerkung.
 
@@ -89,6 +90,6 @@ Hat die Stadt den jeweiligen Auslagerungen von Stellen im Aufsichtsrat zugestimm
 
 Was hat die Stadt Hamburg jeweils dazu bewogen, den Auslagerungen zuzustimmen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der Senat sieht in ständiger Praxis grundsätzlich davon ab, über Beratungen von Aufsichtsräten zu berichten. Beratungsinhalte, die Gegenstand von Sitzungen privater Gesellschaften sind, unterliegen dem Verschwiegenheitsgebot gemäß § 52 GmbH Gesetz in Verbindung mit §§ 116 und 93 Aktiengesetz. Im Übrigen siehe Drs. 21/4285 und Drs. 20/8221.

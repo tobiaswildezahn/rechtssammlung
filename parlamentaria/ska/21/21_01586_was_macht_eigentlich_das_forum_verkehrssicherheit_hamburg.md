@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 21
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1470"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49813"
@@ -211,7 +212,7 @@ Hat sich das „Forum Verkehrssicherheit Hamburg“ mit dem Busbeschleunigungspr
 
 Hat sich das „Forum Verkehrssicherheit Hamburg“ mit dem Abschnitt „Hamburg wird Fahrradstadt“ aus dem Koalitionsvertrag über die Zusammenarbeit in der 21. Legislaturperiode der Hamburgischen Bürgerschaft zwischen der SPD, Landesorganisation Hamburg und Bündnis 90/Die Grünen, Landesverband Hamburg befasst? Wenn ja, wann, in welcher Forum und wie lauten entsprechende Beschlüsse beziehungsweise Stellungnahmen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Nein.
 
@@ -239,7 +240,7 @@ Wie stellt sich die Finanzierungsstruktur des „Forums Verkehrssicherheit Hambu
 
 Wurde das „Forum Verkehrssicherheit Hamburg“ seit seiner Gründung von der Stadt finanziell unterstützt? Wenn ja, in welchen Einzelplänen waren/sind entsprechende Mittel in welcher Höhe veranschlagt? Bitte nach Jahren aufschlüsseln.
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Die für die Leitung und Koordinierung des „Forums Verkehrssicherheit Hamburg“ anfallenden Personalaufwendungen und Sachmittel für Aktionen wurden bis 2014 von der Behörde für Inneres (und Sport) getragen und werden seit 2015 vom LBV finanziert. Aus organisatorischen Gründen werden jedoch Aktionen und Kampagnen noch von der BIS finanziert. Der LBV übernimmt diese Finanzierung erst ab 2016.
 

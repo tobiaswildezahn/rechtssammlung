@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52762"
@@ -45,7 +46,7 @@ Warum genau hat der Senat bislang noch keine Drucksache zur Bewertung der Grunds
 
 Welche Fragen bezüglich der Bewertung der Grundstücke und der Schaffung der rechtlichen Voraussetzungen für eine Änderung des Bilanzansatzes bei der HF sind derzeit noch nicht geklärt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Klärung der rechtlichen Fragen sowie der Abstimmungsprozess der beteiligten Stellen dauern derzeit noch an. Die Fragen zur Bewertung der Grundstücke und zu den rechtlichen Voraussetzungen wurden zwischenzeitlich geklärt.
 
@@ -73,7 +74,7 @@ Ist sichergestellt, dass bis zur Feststellung des Konzernabschlusses der Freien 
 
 Ist sichergestellt, dass bis zur Feststellung des Konzernabschlusses der Freie und Hansestadt Hamburg für das Jahr 2015 der Senat seine Meinungsbildung bezüglich der HF-Grundstücksbewertung abgeschlossen hat?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Jahresabschlüsse 2013, 2014 und 2015 der HF wurden aufgestellt und geprüft. Die Wirtschaftsprüfer der HF werden nach der Änderung des Anstaltserrichtungsgesetzes (HFG) uneingeschränkte Bestätigungsvermerke für die HF-Jahresabschlüsse erteilen. Der Bürgerschaft werden der Jahresabschluss und der Konzernabschluss der Freien und Hansestadt Hamburg voraussichtlich im Herbst 2016 zur Feststellung beziehungsweise zur Billigung vorgelegt. Bis zu diesem Zeitpunkt soll das Verfahren zur Änderung des HFG als Voraussetzung zur Feststellung der Jahresabschlüsse von HF abgeschlossen sein.
 

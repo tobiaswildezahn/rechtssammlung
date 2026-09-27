@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18808"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68623"
@@ -93,21 +94,21 @@ o Vertragsverhandlungen (Kommentierung des Host-City-Vertrages inklusive dazu-
 
 gehöriger Verpflichtungserklärungen und Nebenverträgen, Beantwortung weiterer Nachfragen zum Vertragswerk)
 
- vom 28. November 2017 bis 31. Dezember 2017 (zwei Mitarbeiterinnen/ Mitarbeiter): 10 935 Euro netto,
+– vom 28. November 2017 bis 31. Dezember 2017 (zwei Mitarbeiterinnen/ Mitarbeiter): 10 935 Euro netto,
 
- vom 1. Januar 2018 bis zum 31. Dezember 2018 (dieselben zwei Mitarbeiterinnen/Mitarbeiter): 4 050 Euro netto,
+– vom 1. Januar 2018 bis zum 31. Dezember 2018 (dieselben zwei Mitarbeiterinnen/Mitarbeiter): 4 050 Euro netto,
 
- Juli/August 2019 (vier Mitarbeiterinnen/Mitarbeiter), Rechnung liegt noch nicht vor.
+– Juli/August 2019 (vier Mitarbeiterinnen/Mitarbeiter), Rechnung liegt noch nicht vor.
 
 o Rechtliche Prüfung hinsichtlich Anfragen nach dem Hamburgischen Transparenz-
 
 gesetz in Hinblick auf vorgegebene Geheimhaltungsverpflichtungen seitens UEFA und DFB
 
- vom 20. Oktober 2017 bis 31. Dezember 2017 (zwei Mitarbeiterinnen/
+– vom 20. Oktober 2017 bis 31. Dezember 2017 (zwei Mitarbeiterinnen/
 
 Mitarbeiter): 8 370 Euro netto,
 
- vom 1. Januar 2018 bis zum 31. Dezember 2018 (zwei Mitarbeiterin-
+– vom 1. Januar 2018 bis zum 31. Dezember 2018 (zwei Mitarbeiterin-
 
 nen/Mitarbeiter): 11 610 Euro netto.
 

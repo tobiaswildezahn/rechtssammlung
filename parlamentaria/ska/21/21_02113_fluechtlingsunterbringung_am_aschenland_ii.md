@@ -14,6 +14,7 @@ fragen: 25
 einzelfragen: 32
 antwortbloecke: 24
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1937", "21/1065", "21/1395", "21/1690", "21/1354", "21/2076"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50369"
@@ -67,7 +68,7 @@ Kann der Senat versichern, dass die Zielzahl von 3.000 Plätzen nicht überschri
 
 Der Bereich Am Aschenland ist vorerst nur für fünf Jahre als öffentlichrechtliche Unterbringung vorgesehen. Wird danach geprüft, ob die Notwendigkeit der Einrichtung als Flüchtlingsunterkunft fortbesteht und auch, ob diese dann in der jetzt geplanten Größe noch benötigt wird?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die derzeitigen Planungen der Behörde für Inneres und Sport (BIS) und der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) sehen Platzzahlen von bis 740 Personen für die ZEA Geutensweg, 458 Personen für die örU „Am Aschenland I“ und bis zu 3.000 Personen für die örU „Am Aschenland II“ vor. Damit wird in den drei Einrichtungen eine Gesamtzahl von über 4.000 Personen erreicht. Für die Einrichtung „Am Aschenland II“ ist eine Belegung mit mehr als 3.000 Personen nicht beabsichtigt.
 

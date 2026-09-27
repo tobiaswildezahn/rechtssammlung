@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 30
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14000", "21/13998"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64204"
@@ -103,11 +104,11 @@ Amtsgericht Hamburg-Wandsbek
 8.137  
 5.998
 
- Begründung, Aufteilung und Veränderung von Wohnungs- und Teileigentum sowie
+– Begründung, Aufteilung und Veränderung von Wohnungs- und Teileigentum sowie
 
 von Erbbaurechten,
 
- Begründung und Veränderung von Eigentum, Veränderung der Berechtigung am
+– Begründung und Veränderung von Eigentum, Veränderung der Berechtigung am
 
 Erbbaurecht.
 

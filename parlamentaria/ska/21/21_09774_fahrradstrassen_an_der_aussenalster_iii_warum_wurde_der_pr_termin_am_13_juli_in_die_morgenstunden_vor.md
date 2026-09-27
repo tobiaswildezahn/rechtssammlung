@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3563", "21/9713"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58580"
@@ -52,7 +53,7 @@ Warum wurde die Pr채sentation der Planungsergebnisse zum Abschnitt Bellevue/Sch�
 
 Warum war der Verkehrsstaatsrat laut der Terminank체ndigung vom 28. Juni 2017 urspr체nglich nicht f체r die Ergebnispr채sentation am 13. Juli 2017 eingeplant?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

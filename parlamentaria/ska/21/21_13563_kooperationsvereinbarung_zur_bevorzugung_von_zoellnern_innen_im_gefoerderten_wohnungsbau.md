@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 24
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5231"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62935"
@@ -81,7 +82,7 @@ Welche Inhalte hat die wann abgeschlossene und ab wann wirksame oben angeführte
 
 Wer hatte beziehungsweise wo tauchte wann die Idee mit der Bevorzugung der Zollbeschäftigten auf?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung.
 

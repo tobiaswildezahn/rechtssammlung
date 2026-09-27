@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 12
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62469"
@@ -59,7 +60,7 @@ Warum wurde das Banner durch die anwesenden Lehrperson(en)/ Schulleitungsperson(
 
 Seit wann und wie lange hing das Banner in der Schule?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Antwort zu 2.
 

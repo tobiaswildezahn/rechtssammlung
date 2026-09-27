@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 33
 antwortbloecke: 24
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1204", "20/13460", "21/1674", "21/1954", "21/2196", "21/4059", "21/4083", "21/3445", "21/1306", "21/1278"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53111"
@@ -212,25 +213,25 @@ Die Landeszentrale hält im Infoladen fortlaufend seit mehreren Jahren Schriften
 
 So zum Beispiel
 
- Boko Haram – Der Vormarsch des Terror Kalifats
+– Boko Haram – Der Vormarsch des Terror Kalifats
 
- Heiliger Krieg Heiliger Profit
+– Heiliger Krieg Heiliger Profit
 
- ISIS – Der globale Dschihad: Wie der „Islamische Staat“ den Terror nach Europa
+– ISIS – Der globale Dschihad: Wie der „Islamische Staat“ den Terror nach Europa
 
 trägt
 
- Islamismus – Geschichte, Vordenker, Organisationen
+– Islamismus – Geschichte, Vordenker, Organisationen
 
- Jung, deutsch, Taliban
+– Jung, deutsch, Taliban
 
- Islamischer Staat: IS-Miliz, al-Qaida und die deutschen Brigaden
+– Islamischer Staat: IS-Miliz, al-Qaida und die deutschen Brigaden
 
- Black Box Dschihad: Daniel und Sa'ed auf ihrem Weg ins Paradies
+– Black Box Dschihad: Daniel und Sa'ed auf ihrem Weg ins Paradies
 
- Die Muslimbruderschaft: Porträt einer mächtigen Verbindung
+– Die Muslimbruderschaft: Porträt einer mächtigen Verbindung
 
- Salafismus – Fundamentalistische Strömungen und Radikalisierungsprävention
+– Salafismus – Fundamentalistische Strömungen und Radikalisierungsprävention
 
 Die Landeszentrale veranstaltet öffentliche Vortrags- und Diskussionsveranstaltungen auch zu den Themenbereichen religiöser Extremismus, Islamismus und Ähnlichem,
 

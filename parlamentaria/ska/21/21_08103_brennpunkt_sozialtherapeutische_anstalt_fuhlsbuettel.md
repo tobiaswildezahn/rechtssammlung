@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 19
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7912"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56795"
@@ -170,7 +171,7 @@ Wie oft wurde durch Schreiben, E-Mails, Gespräche über die Situation der Sozia
 
 Hat die Justizbehörde im Laufe der letzten zwölf Monate Berichte über die Situation und Verlegungen in die Sozialtherapeutischen Anstalt eingefordert? Wenn ja, wann und mit welchem Inhalt? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die zuständige Behörde und die Sozialtherapeutische Anstalt befinden sich in einem fortlaufenden Austausch. Die Vielzahl der Schreiben, E-Mails und Gespräche wird nicht im Einzelnen dokumentiert.
 

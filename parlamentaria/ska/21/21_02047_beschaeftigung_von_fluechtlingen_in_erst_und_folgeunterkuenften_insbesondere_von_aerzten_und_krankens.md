@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1260", "20/12288"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50303"
@@ -63,7 +64,7 @@ In der Drs. 21/1260 hieß es noch, dass die berufliche Qualifikation in den Zent
 
 Wie viele der zurzeit in Hamburg registrierten Flüchtlinge, die über eine abgeschlossene Berufsausbildung in einem Heilberuf verfügen, befinden sich zurzeit in Hamburger Erst- oder Folgeeinrichtungen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Eine systematische Erfassung der beruflichen Kompetenzen von Flüchtlingen ist bisher durch die Agenturen für Arbeit und die Jobcenter nicht erfolgt. Daher arbeiten die Freie und Hansestadt Hamburg, die Agentur für Arbeit Hamburg und Jobcenter team.arbeit.hamburg im Rahmen des neuen Vorhabens W.I.R – work and integration for refugees rechtskreisübergreifend zusammen. Ziel ist es, die Kompetenzen der Flüchtlinge zu erkennen und für den Arbeitsmarkt in Hamburg nutzbar zu machen. Dies gilt insbesondere für den Bereich der Gesundheitsberufe, für den es einen großen Bedarf an Fachkräften gibt. Bei der Ausgestaltung des Unternehmensservice im Rahmen von W.I.R ist neben der für Arbeit zuständigen Behörde auch die für Gesundheit zuständige Behörde beteiligt.
 

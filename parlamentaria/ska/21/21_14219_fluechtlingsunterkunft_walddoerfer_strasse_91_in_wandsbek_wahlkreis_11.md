@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 22
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2251", "21/14071", "21/2108"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63627"
@@ -266,11 +267,11 @@ c) technischem Dienst?
 
 Folgendes Personal ist derzeit in der Unterkunft eingesetzt:
 
- Teamleitung: eine
+– Teamleitung: eine
 
- Unterkunfts- und Sozialmanagement: drei
+– Unterkunfts- und Sozialmanagement: drei
 
- Technischer Dienst: zwei
+– Technischer Dienst: zwei
 
 ### Frage 9
 
@@ -312,9 +313,9 @@ Welche Angebote werden den untergebrachten Personen zu jeweils welchen Zeiten in
 
 Folgende Angebote werden für die Bewohner der Unterkunft Walddörfer Straße 91 vorgehalten:
 
- einmal wöchentlich Frauencafé (für 1,5 Stunden)
+– einmal wöchentlich Frauencafé (für 1,5 Stunden)
 
- einmal wöchentlich Angebot des Spieltigers (für 2,5 Stunden)
+– einmal wöchentlich Angebot des Spieltigers (für 2,5 Stunden)
 
 Zusätzlich gibt es Einzelangebote mit abgeschlossenen Projekten (zum Beispiel eine Malgruppe).
 

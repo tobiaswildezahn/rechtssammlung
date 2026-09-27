@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54684"
@@ -61,7 +62,7 @@ Welche Institutionen erhalten von der Freien und Hansestadt Hamburg oder von den
 
 Was haben diese Institutionen im Jahre 2016 in diesem Bereich unternommen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Sowohl die Fachstellen SUCHT.HAMBURG, die über eine Zuwendung der für Gesundheit zuständigen Behörde gefördert wird, als auch das SuchtPräventionsZentrum (SPZ) der für Schule zuständigen Behörde widmen sich im Rahmen ihrer allgemeinen Aufgabenstellungen auch dem Thema Medikamentenmissbrauch.
 

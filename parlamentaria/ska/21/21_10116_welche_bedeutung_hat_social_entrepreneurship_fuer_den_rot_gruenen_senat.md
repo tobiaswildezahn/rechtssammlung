@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58944"
@@ -53,7 +54,7 @@ Hat sich der Senat mit dem Begriff Social Entrepreneurship befasst? Wenn ja, mit
 
 Befindet sich der Senat im Dialog mit Vertretern der Social-Entrepreneurship-Szene? Wenn ja, mit welchem Ergebnis? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ja. Der Senat befindet sich im Dialog unter anderem mit dem Social Impact Lab Hamburg und weiteren Partnerinnen und Partnern im Rahmen des Projektes „Innovative City Hamburg 2030“.
 

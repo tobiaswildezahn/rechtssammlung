@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 31
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52586"
@@ -104,7 +105,7 @@ Wer war verantwortlich für die Übergabe der gegebenenfalls nicht in einem ordn
 
 Welche Maßnahmen wurden gegenüber dem Lieferanten der Sanitärcontainer im Nachgang unternommen? Wurden rechtliche Schritte eingeleitet oder Schadensersatz geltend gemacht?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Entfällt.
 

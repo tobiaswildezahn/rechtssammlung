@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11997", "21/15693", "20/6208"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67367"
@@ -61,7 +62,7 @@ Wie ist derzeit der genaue Zeitplan der Fertigstellung, Inbetriebnahme und Über
 
 Seit wann gibt es terminliche Verzögerungen bei diesem Projekt und wie und wann wurde die Senatskanzlei im Berichtswesen zum Bau- Monitoring darüber informiert?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Konkrete Angaben zur Zeitschiene können erst nach der erneuten Überarbeitung der mangelhaften Planung getätigt werden. Der Termin für den Mietbeginn (Übergabe) wurde zunächst für Mitte 2019 prognostiziert (Drs. 20/11997). Im Bericht zum 30. Juni 2014 wurde der Übergabetermin für Oktober 2019 prognostiziert und im Bericht zum
 30. September 2014 auf November 2019 korrigiert. Im Bericht zum 31. Dezember 2018 wurde der Übergabetermin auf Mai 2020 verschoben. Im Bericht zum 31. März 2019 wurde die Übergabe für Sommer 2020 prognostiziert. Im Bericht zum 30. Juni 2019 wurde der Übergabetermin für den 18. Dezember 2020 prognostiziert. Im Übrigen siehe Vorbemerkung.

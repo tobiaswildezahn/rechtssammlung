@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2979", "20/8295", "21/2990"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51566"
@@ -113,6 +114,6 @@ In welcher Quantität schlagen sich die Beschulung von Flüchtlingskindern an de
 
 Wie wird dieser zusätzliche Bedarf zufriedenstellend gedeckt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/2990.

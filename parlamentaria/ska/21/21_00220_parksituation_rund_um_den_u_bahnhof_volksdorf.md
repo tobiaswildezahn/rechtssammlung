@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 44140
 seiten: 4
 fragen: 3
-einzelfragen: 5
-antwortbloecke: 3
+einzelfragen: 17
+antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14495", "20/647"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48348"
@@ -45,13 +46,21 @@ Die Angaben zu den „maximal verfügbaren Parkplätzen“ in der Drs. 20/14495 
 
 Die folgenden Angaben beruhen auf einer sukzessiven Erhebung sämtlicher öffentlicher Stellplatzflächen durch die örtlich zuständige Straßenverkehrsbehörde am Polizeikommissariat 35, die diese unter anderem im Zusammenhang mit einer Planung zur Bewirtschaftung von Stellplätzen in Volksdorf durchgeführt hat. Da die Anzahl der „maximal verfügbaren legalen Parkplätze“ beim Parken am Fahrbahnrand und auf durchgehenden Seitenstreifen von der Länge der Fahrzeuge und dem Verhalten der Fahrzeugführer im Hinblick auf ein „platzsparendes Parken“ gemäß § 12 Absatz 6 Straßenverkehrs-Ordnung abhängig ist, handelt es sich bei den Stellplatzzahlen um Näherungswerte.
 
-1.1. Wie viele „maximal verfügbare legale Parkplätze“ stehen in einem Radius von 300 Metern um die Park+Ride-Anlage am U-Bahnhof Volksdorf zur Verfügung?
+### Frage 1.1
+
+Wie viele „maximal verfügbare legale Parkplätze“ stehen in einem Radius von 300 Metern um die Park+Ride-Anlage am U-Bahnhof Volksdorf zur Verfügung?
+
+#### Antwort zu Frage 1.1
 
 Es stehen in einem Radius von 300 m um die Park+Ride-Anlage in Volksdorf circa 490 Stellplätze am Fahrbahnrand und auf gesonderten Parkplatz-Flächen zur Verfügung. Zusätzlich nutzen Fahrzeugführerinnen und Fahrzeugführer regelmäßig eine rund 6.000 m große Asphaltfläche des Bezirksamtes östlich der Halenreie zum Parken, wenn diese nicht für den Wochenmarkt (am Mittwoch und am Sonnabend) oder
 
 gelegentliche Veranstaltungen gesperrt ist. In Abhängigkeit vom Verhalten beim Parken können hier bis zu 300 Fahrzeuge abgestellt werden.
 
-1.2. An welchen Standorten im Einzelnen befinden sich jeweils wie viele „maximal verfügbare legale Parkplätze“?
+### Frage 1.2
+
+An welchen Standorten im Einzelnen befinden sich jeweils wie viele „maximal verfügbare legale Parkplätze“?
+
+#### Antwort zu Frage 1.2
 
 Die Angaben zu den Stellplätzen an Straßen innerhalb eines 300m-Radius um die Park+Ride-Anlage sind der nachfolgenden Tabelle zu entnehmen. Die Angaben zu den Stellplätzen am Fahrbahnrand umfassen jeweils das Parken am Bordstein, auf Seitenstreifen sowie auf Längs- und Schrägparkplätzen, die von der Fahrbahn aus unmittelbar oder über eine Nebenfahrbahn erreichbar sind.
 
@@ -82,28 +91,47 @@ Farmsener Landstraße
 Fleethmannskamp  
 11 Stellplätze am Fahrbahnrand
 
-1.3. Wie unterteilen sich die „maximal verfügbaren legalen Parkplätze“ auf öffentliche und private Flächen?
+### Frage 1.3
+
+Wie unterteilen sich die „maximal verfügbaren legalen Parkplätze“ auf öffentliche und private Flächen?
+
+#### Antwort zu Frage 1.3
 
 Neben den oben aufgelisteten Stellplätzen im öffentlichen Straßenraum befinden sich 66 Stellplätze im privaten Parkhaus „Weiße Rose“. Weitere einzelne private Stellplätze befinden sich zum Beispiel auf Hinterhöfen von Geschäften im Ortskern, zu deren genauer Anzahl aber keine validen Daten vorliegen.
 
-1.4. Wie viele „maximal verfügbaren legalen Parkplätze“ entfallen auf die bezirklichen Parkplätze in der Straße Halenreie?
+### Frage 1.4
+
+Wie viele „maximal verfügbaren legalen Parkplätze“ entfallen auf die bezirklichen Parkplätze in der Straße Halenreie?
+
+#### Antwort zu Frage 1.4
 
 Siehe Antworten zu 1.1. und 1.2.
 
-1.5. Wie viele „maximal verfügbaren legalen Parkplätze“ befinden sich am Straßenrand in jeweils welchen Straßen?
+### Frage 1.5
+
+Wie viele „maximal verfügbaren legalen Parkplätze“ befinden sich am Straßenrand in jeweils welchen Straßen?
+
+#### Antwort zu Frage 1.5
 
 Siehe Antwort zu 1.2.
 
-1.6. Für wie viele der „maximal verfügbaren legalen Parkplätze“ gibt es sachliche oder zeitliche Nutzungsbeschränkungen?
+### Frage 1.6
+
+Für wie viele der „maximal verfügbaren legalen Parkplätze“ gibt es sachliche oder zeitliche Nutzungsbeschränkungen?
+
+#### Antwort zu Frage 1.6
 
 Solche Beschränkungen gelten dauerhaft oder temporär an Markttagen für rund 322 Stellplätze.
 
 ### Frage 2
 
 In der genannten Mitteilung der zuständigen Straßenverkehrsbehörde der Polizei an die Bezirksversammlung Wandsbek heißt es, dass „in den privaten Parkhäusern Uppenhof und Eulenkrugpassage durchgängig Kapazitäten für Parkplatzsuchende vorhanden sind.“
-2.1. Wer sind jeweils die Eigentümer beziehungsweise Betreiber der beiden genannten Parkhäuser und wann hatten die zuständigen Stellen zuletzt aus welchen Gründen jeweils Kontakt mit ihnen?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Wer sind jeweils die Eigentümer beziehungsweise Betreiber der beiden genannten Parkhäuser und wann hatten die zuständigen Stellen zuletzt aus welchen Gründen jeweils Kontakt mit ihnen?
+
+#### Antwort zu Fragen 2 und 2.1
 
 Die Eigentümer sind:
 
@@ -120,43 +148,76 @@ L-1653 Luxembourg
 
 Die Beamten des besonderen Fußstreifendienstes am örtlich zuständigen Polizeikommissariat 35 nehmen gelegentlich Kontakt mit den Eigentümern auf, um deren Erreichbarkeiten aus besonderen Anlässen (zum Beispiel Fahrzeugbrand im Parkhaus) zu sichern und gegebenenfalls zu aktualisieren.
 
-2.2. Wie viele Parkplätze stehen in den beiden genannten Parkhäusern jeweils zur Verfügung?
+### Frage 2.2
+
+Wie viele Parkplätze stehen in den beiden genannten Parkhäusern jeweils zur Verfügung?
+
+#### Antwort zu Frage 2.2
 
 Parkhaus „Weiße Rose“: 184 Parkplätze + 2 Stellplätze für Zweiräder
 
 Parkhaus „Eulenkrugpassage“: 180 Parkplätze
 
-2.3. Wie viele Parkplätze sind davon nicht dauerhaft vermietet oder anderweitig reserviert?
+### Frage 2.3
+
+Wie viele Parkplätze sind davon nicht dauerhaft vermietet oder anderweitig reserviert?
+
+#### Antwort zu Frage 2.3
 
 Parkhaus „Weiße Rose“: 66 Parkplätze
 
 Parkhaus „Eulenkrugpassage“: 180 Parkplätze
 
-2.4. Welche Daten und Erhebungen liegen den zuständigen Stellen im Einzelnen über die Kapazitätsauslastung in diesen beiden Parkhäusern vor?
+### Frage 2.4
+
+Welche Daten und Erhebungen liegen den zuständigen Stellen im Einzelnen über die Kapazitätsauslastung in diesen beiden Parkhäusern vor?
+
+#### Antwort zu Frage 2.4
 
 Erhebungen zum Auslastungsgrad der beiden Parkhäuser wurden nicht durchgeführt. Insofern liegen hierzu auch keine Daten vor. Nach Erkenntnissen der örtlich zuständigen Polizeidienststelle sind in den beiden Parkhäusern aber regelmäßig freie Stellplätze vorzufinden.
 
-2.5. Inwiefern ist die Nutzung dieser Parkhäuser zeitlich nur begrenzt möglich?
+### Frage 2.5
+
+Inwiefern ist die Nutzung dieser Parkhäuser zeitlich nur begrenzt möglich?
+
+#### Antwort zu Frage 2.5
 
 Das Parkhaus „Weiße Rose“ ist von montags bis freitags in der Zeit von 09 bis 20 Uhr und sonnabends von 09 bis 18.30 Uhr geöffnet. Das Parkhaus „Eulenkrugpassage“ ist montags bis sonnabends von 07 bis 20 Uhr geöffnet. In beiden Parkhäusern ist die Nutzung der Stellplätze gebührenfrei und zeitlich nicht beschränkt.
 
-2.6. Inwiefern ist die Nutzung dieser Parkhäuser nur in Kombination mit der Nutzung bestimmter Geschäfte zulässig?
+### Frage 2.6
+
+Inwiefern ist die Nutzung dieser Parkhäuser nur in Kombination mit der Nutzung bestimmter Geschäfte zulässig?
+
+#### Antwort zu Frage 2.6
 
 In den Zufahrten zu den Parkhäusern weisen die Eigentümer mit Schrifttafeln darauf hin, dass die Stellplätze nur Kunden des Geschäftsbereichs „Weiße Rose“ beziehungsweise der „Eulenkrugpassage“ zur Verfügung stehen sollen.
 
 ### Frage 3
 
 Ausweitung von Parkzeitbegrenzungen:
-3.1. Für welche Parkflächen in Volksdorf wird derzeit geplant oder geprüft, die Parkzeiten durch Einführung oder Ausweitung von Parkscheibenregelungen zu begrenzen?
-3.2. Für wie viele Parkplätze an jeweils welchen Stellen soll ab wann die Parkzeit in welchem Umfang zusätzlich begrenzt werden?
-3.3. Welche Stelle im Einzelnen ist für die Anordnung einer Parkzeitbegrenzung zuständig? Wurde eine entsprechende Anordnung zur Änderung der Parkzeiten in Volksdorf bereits erlassen oder vorbereitet?
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+Für welche Parkflächen in Volksdorf wird derzeit geplant oder geprüft, die Parkzeiten durch Einführung oder Ausweitung von Parkscheibenregelungen zu begrenzen?
+
+### Frage 3.2
+
+Für wie viele Parkplätze an jeweils welchen Stellen soll ab wann die Parkzeit in welchem Umfang zusätzlich begrenzt werden?
+
+### Frage 3.3
+
+Welche Stelle im Einzelnen ist für die Anordnung einer Parkzeitbegrenzung zuständig? Wurde eine entsprechende Anordnung zur Änderung der Parkzeiten in Volksdorf bereits erlassen oder vorbereitet?
+
+#### Antwort zu Fragen 3, 3.1, 3.2 und 3.3
 
 Die Einführung einer Parkraumbewirtschaftung mit Parkscheibe ist für die Stellplätze in der Halenreie zwischen dem Kreisverkehr Farmsener Landstraße und der Straße Kattjahren und in der Straße Kattjahren zwischen der Halenreie und der U-Bahnbrücke vorgesehen. Die Parkscheibenregelung wird circa 75 direkt an die Fahrbahnen angrenzende Stellplätze betreffen und analog der Regelung im Ortskern in der Zeit von Montag bis Freitag jeweils von 08 bis 18 Uhr und am Sonnabend von 08 bis 14
 
 Uhr gelten. Die zulässige Parkdauer wird zwei Stunden betragen. Die örtlich zuständige Straßenverkehrsbehörde am Polizeikommissariat 35 hat die erforderliche Anordnung zur Einführung der Parkscheibenregelung am 14. April 2015 erlassen und dem zuständigen Bezirksamt zur Montage der Verkehrszeichen übersandt.
 
-3.4. Warum genau ist die Ausweitung von Parkzeitregelungen geplant, obwohl es nach den Angaben der zuständigen Straßenverkehrsbehörde keine Beschwerdelage gibt?
+### Frage 3.4
+
+Warum genau ist die Ausweitung von Parkzeitregelungen geplant, obwohl es nach den Angaben der zuständigen Straßenverkehrsbehörde keine Beschwerdelage gibt?
+
+#### Antwort zu Frage 3.4
 
 Mit der angeordneten Ausweitung der Parkscheibenregelung wird einer Bitte gewerbetreibender Anlieger und einem entsprechenden Beschluss der Bezirksversammlung Wandsbek (Drs. 20/0647.1) entsprochen. Zugleich wird damit die Nutzung und Bewirtschaftung der Stellplätze im Ortskern von Volksdorf harmonisiert.

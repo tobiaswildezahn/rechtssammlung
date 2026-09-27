@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51788"
@@ -57,25 +58,25 @@ Was kostet etwa ein Kilometer U-Bahn aufgeständert mittels Brückenkonstruktion
 
 Die Höhe der Kosten für den Bau von unter- beziehungsweise oberirdischen Bahnanlagen wird von einer Vielzahl von Parametern beeinflusst, die bei jedem Bauvorhaben individuell betrachtet werden müssen, wie zum Beispiel:
 
- Streckenquerschnitt (Fahrzeugbreite/-höhe),
+– Streckenquerschnitt (Fahrzeugbreite/-höhe),
 
- spezifische geologische Verhältnisse,
+– spezifische geologische Verhältnisse,
 
- Eigentums- und Platzverhältnisse,
+– Eigentums- und Platzverhältnisse,
 
- Anforderungen aus zu berücksichtigenden Wasserständen im Boden,
+– Anforderungen aus zu berücksichtigenden Wasserständen im Boden,
 
- Vorliegen von Kampfmittelverdachtsflächen,
+– Vorliegen von Kampfmittelverdachtsflächen,
 
- etwaige Kontaminationen im Boden,
+– etwaige Kontaminationen im Boden,
 
- mögliche Bauverfahren im spezifischen Umfeld,
+– mögliche Bauverfahren im spezifischen Umfeld,
 
- Erfordernis von Sonderbauformen,
+– Erfordernis von Sonderbauformen,
 
- Andienungsmöglichkeiten und Baustelleneinrichtung der Maßnahmen/Baulogistik,
+– Andienungsmöglichkeiten und Baustelleneinrichtung der Maßnahmen/Baulogistik,
 
- erforderliche Schutz- und Ausgliederungsmaßnahmen.
+– erforderliche Schutz- und Ausgliederungsmaßnahmen.
 
 Hinreichende Kostenangaben können daher erst nach Vorliegen der erforderlichen Planungstiefe erfolgen.
 
@@ -87,7 +88,7 @@ Was kostet etwa der Bau eines unteririschen U-Bahnhofes?
 
 Was kostet etwa der Bau eines oberirdischen U-Bahnhofes? Bitte angeben für festes Gelände oder aufgeständert als Brückenkonstruktion.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Stationen werden jeweils an die örtliche, verkehrliche und betriebliche Situation angepasst geplant, gebaut und betrieben. Zu beachten sind Faktoren, wie zum Beispiel die Zahl, Lage und Länge der Bahnsteige, Zugänge, Aufzüge, Konstruktion von Brücken, Hallen und Tunneln, Baugrundverhältnisse, Grundstückseigentum, Umweltaspekte, Einpassung in die Umgebung und so weiter. Daraus ergeben sich jeweils stationsbezogene Kosten. Eine Durchschnittskalkulation für Bau- und Betriebskosten ist daher nicht möglich. Hinreichende Kostenangaben können deshalb erst nach Vorliegen der erforderlichen Planungstiefe erfolgen.
 
@@ -99,15 +100,15 @@ Welche Lebensdauerzyklen werden den unterschiedlichen Bauweisen zugrunde gelegt 
 
 Sowohl die Nutzungsdauer als auch die Unterhaltskosten hängen von verschiedenen Faktoren, wie zum Beispiel
 
- Größe des Baukörpers,
+– Größe des Baukörpers,
 
- Ausstattungsumfang
+– Ausstattungsumfang
 
- Nutzungsumfang (Fahrplan- und Fahrgastfrequenz),
+– Nutzungsumfang (Fahrplan- und Fahrgastfrequenz),
 
- Witterungsbedingungen,
+– Witterungsbedingungen,
 
- spezifischen Standortbedingungen ab.
+– spezifischen Standortbedingungen ab.
 
 Pauschale Angaben sind hier nicht möglich, sondern können jeweils nur für den konkreten Standort betrachtet werden. Hinreichende Kostenangaben können daher erst nach Vorliegen der erforderlichen Planungstiefe erfolgen.
 
@@ -135,7 +136,7 @@ Was kostet etwa ein unterirdischer S-Bahnhof?
 
 Was kostet etwa ein oberirdischer S-Bahnhof? Bitte für festes Gelände und Brückenkonstruktion getrennt angeben.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Antwort zu 4. und 5.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/550"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61676"
@@ -89,7 +90,7 @@ Welche weiteren Mahnmaßnahmen wurden im Zusammenhang mit der Eintreibung von Au
 
 in Drs. 21/550 für die Jahre 2015, 2016, 2017 und 2018 auflisten.
 
-#### Antwort zu Fragen 6, 8
+#### Antwort zu Fragen 6 und 8
 
 Die Anzahl der erstellten Mahnmaßnahmen für private Beitragskonten in Hamburg gliedert sich wie folgt:
 

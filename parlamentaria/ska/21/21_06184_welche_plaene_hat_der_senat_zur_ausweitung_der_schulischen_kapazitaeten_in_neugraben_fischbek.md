@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5782", "21/5163", "21/5765", "21/5783", "21/5853", "21/6004"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54700"
@@ -44,7 +45,7 @@ Welche Schulkapazitäten liegen derzeit in Neugraben-Fischbek vor? Bitte nach ei
 
 Wie sind diese Einrichtungen derzeit jeweils ausgelastet? Bitte nach einzelnen Standorten und Klassenstufen aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Grundschulen:
 
@@ -217,7 +218,7 @@ Welche Planungen sind für die neu zu errichtende weiterführende Schule bereits
 
 Welche Schulformen (Stadtteilschule, Gymnasium) sind hierfür in Betracht gezogen worden mit welchem Ergebnis? Falls kein Ergebnis vorliegt, warum nicht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Überlegungen der zuständigen Behörde sind noch nicht abgeschlossen.
 
@@ -237,7 +238,7 @@ Welche Standorte sind für die weiterführende Schule bereits mit welchem Ergebn
 
 Wurden die städtischen Grundstücke in den Neubaugebieten betrachtet, wenn ja, mit welchem Ergebnis, wenn nein, warum nicht?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Überlegungen der zuständigen Behörde sind noch nicht abgeschlossen.
 

@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59005"
@@ -73,47 +74,47 @@ Welche weiteren Schritte unternimmt der Senat, um die Attraktivität des Berufs 
 
 Das Hamburger Institut für Berufliche Bildung (HIBB) hat im laufenden Jahr umfangreiche Maßnahmen ergriffen, um die Ausbildung zum Erzieher/zur Erzieherin attraktiver zu machen und die Anzahl der Absolventinnen und Absolventen im sozialpädagogischen Berufsfeld zu erhöhen:
 
- Grundsätzlich stellen die staatlichen Berufsschulen so viele Plätze für die Ausbil-
+– Grundsätzlich stellen die staatlichen Berufsschulen so viele Plätze für die Ausbil-
 
 dung zum Sozialpädagogischen Assistenten/zur Sozialpädagogischen Assistentin (SPA) und zum Erzieher/zur Erzieherin zur Verfügung, dass alle Bewerber einen Platz bekommen.
 
- Die Zugangsvoraussetzungen wurden sowohl für Abiturientinnen und Abiturienten
+– Die Zugangsvoraussetzungen wurden sowohl für Abiturientinnen und Abiturienten
 
 als auch für Interessierte mit erstem Schulabschluss erweitert. Abiturientinnen und Abiturienten können bereits mit einem viermonatigen Praktikum die Erzieherausbildung beginnen. Schülerinnen und Schüler mit dem erweiterten ersten Schulabschluss nach zehn Schuljahren können eine um sechs Monate verlängerte Ausbildung zum SPA beginnen und gegebenenfalls den mittleren Schulabschluss (MSA) erreichen.
 
- Die Durchlässigkeit zwischen den Ausbildungsgängen (Fachschule, Fachober-
+– Die Durchlässigkeit zwischen den Ausbildungsgängen (Fachschule, Fachober-
 
 schule, Berufliches Gymnasium, Fachschule für Heilerziehungspflege und Berufsfachschule für Sozialpädagogische Assistenz) wurde erhöht.
 
- Die sehr lange Ausbildungszeit wurde moderat verkürzt. Alle SPA-Absolventen
+– Die sehr lange Ausbildungszeit wurde moderat verkürzt. Alle SPA-Absolventen
 
 können ab August 2017 ohne Notenschwelle in die verkürzte zweijährige Erzieherausbildung wechseln.
 
- Die Ausbildungsangebote wurden um eine staatliche Fachschule für Heilerzie-
+– Die Ausbildungsangebote wurden um eine staatliche Fachschule für Heilerzie-
 
 hungspflege ergänzt.
 
- Die berufsbegleitende Ausbildung wurde den Bedarfen der Absolventinnen und
+– Die berufsbegleitende Ausbildung wurde den Bedarfen der Absolventinnen und
 
 Absolventen angepasst. Es wurden vier zeitlich unterschiedlich strukturierte Ausbildungsvarianten geschaffen, sodass die Vereinbarkeit von Beruf und Ausbildung und gegebenenfalls auch Familie besser gewährleistet ist.
 
- Alle Ausbildungsformate wurden nach dem Gesetz zur Förderung der beruflichen
+– Alle Ausbildungsformate wurden nach dem Gesetz zur Förderung der beruflichen
 
 Aufstiegsfortbildung (AFBG) förderfähig umstrukturiert.
 
- Für Menschen, die bereits über eine andere Ausbildung verfügen und in den
+– Für Menschen, die bereits über eine andere Ausbildung verfügen und in den
 
 Erzieherberuf umsteigen wollen, wurde in Kooperation mit der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) und den Trägern der Jugendhilfe ein über Bildungsgutscheine finanziertes Umschulungsformat eingerichtet. Die Umschulung dauert 2,5 Jahre und ermöglicht eine über die Agentur für Arbeit finanzierte Ausbildung zur Erzieherin/zum Erzieher.
 
- Für Menschen mit Migrationshintergrund wurden spezielle Zugangsmöglichkeiten
+– Für Menschen mit Migrationshintergrund wurden spezielle Zugangsmöglichkeiten
 
 (zum Beispiel Prüfungen bei Verlust der Zeugnisse) und Ausbildungsformate (zum Beispiel Erzieherausbildung für Einwanderer und Einwanderinnen, berufsbegleitende SPA-Ausbildung für Migranten) geschaffen.
 
- Durch modularisierte Anpassungsqualifizierungen für Migranten und Migrantinnen
+– Durch modularisierte Anpassungsqualifizierungen für Migranten und Migrantinnen
 
 mit im Ausland erworbenen Berufsqualifikationen, deren Angebot flexibel an den Bedarf angepasst wird, finden zahlreiche Menschen mit Migrationshintergrund Zugang zum Sozialpädagogischen Berufsfeld.
 
- Bis zu 100 Prüfungen jährlich für Externe, die von den Schulen organisiert, abge-
+– Bis zu 100 Prüfungen jährlich für Externe, die von den Schulen organisiert, abge-
 
 nommen und intensiv begleitet werden, ermöglichen es, berufserfahrenen Kolleginnen und Kollegen ihre beruflichen Kompetenzen im Rahmen einer Prüfung unter Beweis zu stellen und sich auf diesem Wege zu Fachkräften weiterzuentwickeln.
 

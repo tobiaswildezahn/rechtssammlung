@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 23
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3051", "21/5766", "21/5163", "21/4655", "21/2644", "21/3855"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54275"
@@ -151,7 +152,7 @@ Wie viele schulpflichtige Flüchtlinge, die länger als sechs Monate in einer Er
 
 Wie viele dieser schulpflichtigen Flüchtlinge besuchen Lerngruppen in Erstaufnahmeeinrichtungen? Bitte pro Erstaufnahmeeinrichtung darstellen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Für eine möglichst schnelle Integration der Flüchtlingskinder sieht Hamburg von Beginn des Aufenthalts an ein Bildungs- und Betreuungsangebot vor. In den Lerngruppen der Erstaufnahmen wird neben dem „Deutsch als Zweitsprache“-Unterricht Mathematik und – in Abhängigkeit von den jeweiligen Rahmenbedingungen – Bewe-
 

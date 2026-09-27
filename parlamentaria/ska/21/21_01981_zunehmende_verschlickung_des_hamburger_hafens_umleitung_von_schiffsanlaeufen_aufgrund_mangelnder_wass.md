@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50226"
@@ -59,7 +60,7 @@ Wie viele geplante Schiffsanläufe mussten seit 01.01.2015 aufgrund zu niedriger
 
 Wie viele geplante Schiffsanläufe mussten seit 01.01.2015 aufgrund nicht gegebener Wassertiefen in den Hafenbecken umgeleitet, abgebrochen oder zeitlich verschoben werden? Wohin wurden die Schiffe jeweils umgeleitet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Mindertiefen werden üblicherweise durch eine Reduzierung des Schiffstiefgangs oder unter Berücksichtigung der Tide durch eine zeitliche Anpassung des Anlaufes ausgeglichen. Da durch die Kaibetriebe bei der Liegeplatzanmeldung bestehende Mindertiefen bereits berücksichtigt werden, liegen der HPA keine Informationen dazu vor, wie viele Schiffsanläufe zeitlich verschoben oder umgeleitet wurden.
 

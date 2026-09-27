@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14351", "21/12803", "21/14091", "21/13671"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65486"
@@ -145,7 +146,7 @@ Werden die unter Frage 1. genannten Personen nur in ihren studierten Fächern ei
 
 Wie wird die Einarbeitung der Beschäftigten, die einen Lehrauftrag ausüben, sichergestellt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Personen, die einen Lehrauftrag ausüben, müssen die persönliche, fachliche und pädagogische Eignung für die konkret angedachte Unterrichtstätigkeit besitzen.
 
@@ -159,6 +160,6 @@ Wie wird die Unterrichtsqualität bei Lehraufträgen an Schulen sichergestellt? 
 
 Inwiefern sind Teambesprechungen und Supervisionen/Reflexionsangebote Teil des Lehrauftrags?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Entscheidung zur Teilnahme trifft die Schulleitung nach dem Bedarf im Einzelfall.

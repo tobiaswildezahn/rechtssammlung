@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 28
 antwortbloecke: 21
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8434", "21/16230", "21/10873", "21/13971", "21/5235", "21/16647", "21/16186", "21/12466", "21/12482", "21/15837", "21/16550", "21/12244", "21/15811", "21/15673", "21/12037", "21/11650"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66199"
@@ -55,7 +56,7 @@ Von welchen Flüchtlingsgesamtkosten 2018 geht der Senat nach jetzigem Wissensst
 
 Mittel in welcher Höhe flossen im Jahr 2018 insgesamt für die Flüchtlingsversorgung vom Bund? Bitte zusätzlich nach Art und Höhe der verschiedenen Unterstützungsleistungen des Bundes aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

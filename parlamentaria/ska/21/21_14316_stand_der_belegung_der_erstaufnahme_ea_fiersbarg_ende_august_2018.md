@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 31
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7406", "21/10677", "21/2108", "21/10137", "21/11867", "21/11183", "21/9358", "21/10819"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63729"
@@ -43,7 +44,7 @@ Wie viele Personen waren in der EA Fiersbarg Ende August untergebracht?
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Geschlecht  
 Kinder & Jugendliche  
@@ -96,7 +97,7 @@ Aus welchen Unterkünften kommen sie jeweils?
 
 Wie viele sind Neuankömmlinge und kamen im August direkt aus dem Ankunftszentrum?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Im Juli 2018 wurden 24 Personen aus dem Ankunftszentrum Rahlstedt, zwei Personen aus der Sportallee und eine Person aus Nostorf/Horst aufgenommen.
 
@@ -274,7 +275,7 @@ c) Sicherheit?
 
 Wie viele davon tagsüber (7 – 18 Uhr), wie viele davon abends und nachts (18 – 7 Uhr)? Wenn es abweichende Dienstzeiten gibt, bitte diese nennen und die Aufschlüsselung hiernach geben.
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Siehe Drs. 21/11867.
 
@@ -337,7 +338,7 @@ Welche Angebote werden den Flüchtlingen gemacht (Bildung, Freizeitgestaltung)?
 
 Wie viele Ehrenamtliche sind eingesetzt und wie helfen sie?
 
-#### Antwort zu Fragen 20 bis 21
+#### Antwort zu Fragen 20 und 21
 
 Siehe Drs. 21/9358.
 
@@ -357,7 +358,7 @@ Hält der Senat an der geplanten Auflösung der EA Fiersbarg zum geplanten Datum
 
 Wie und wann plant der Senat die Personen der EA Fiersbarg zu verteilen?
 
-#### Antwort zu Fragen 23 bis 24
+#### Antwort zu Fragen 23 und 24
 
 Die Umzugsplanungen zur Außerbetriebnahme im Dezember 2018 werden in Kürze eingeleitet. Die Verteilung erfolgt unter Berücksichtigung des jeweiligen Aufenthaltsstatus und der bestehenden Residenzzeit und wird zeitnah vor den durchzuführenden Transfers festgelegt.
 

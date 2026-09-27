@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 25
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6930"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55525"
@@ -134,6 +135,6 @@ Hat Senatorin Fegebank als Vorsitzende des Kuratoriums die leitenden Mitarbeiter
 
 Gibt es weitere Fälle, bei denen der Verdacht besteht, dass Mitarbeiter des UKE unzutreffende Bescheinigungen über den Gesundheitszustand oder Behandlungsbedürftigkeit ausgestellt haben, die Grundlage von Visaerteilungen sein können? Bitte die einzelnen Fälle unter Angabe von Zeitraum, Art des Vorgangs, Reaktion des UKE und der aufsichtführenden Behörde mitteilen.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Drs. 21/6930.

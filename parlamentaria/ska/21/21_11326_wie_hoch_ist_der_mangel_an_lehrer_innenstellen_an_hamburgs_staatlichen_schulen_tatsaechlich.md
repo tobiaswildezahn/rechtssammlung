@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 32
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8926", "21/8426", "21/10220", "21/8689", "21/10339", "21/8766"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60319"
@@ -62,7 +63,7 @@ Wie viele Lehrer/-innenstellen sind an den staatlichen Schulen in Hamburg gegenw
 Wie verteilen sich diese unbesetzten Lehrer/-innenstellen (siehe Frage
 1.) nach Schulkapitel und Sozialindex der Schulen? Welche zehn Schulstandorte sind (Stand Dezember 2017) am stärksten betroffen? (Bitte mit Standort, Schulform, Sozialindex und Bezirk in absteigender Stellenbedarfsanordnung in absoluten Zahlen einer Excel-Tabelle angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Schulische Bedarfe, die nicht unmittelbar durch eigenes Personal gedeckt werden, werden durch entsprechende Mittelzuweisungen an die schulischen Vertretungsbudgets gedeckt (siehe Drs. 21/8926 und 21/8426). Im Übrigen siehe Vorbemerkung.
 
@@ -106,7 +107,7 @@ Inwiefern befürwortet/gestattet der Senat beziehungsweise die zuständige Fachb
 
 Inwiefern sieht der Senat/die zuständige Fachbehörde beim Einsatz von VOrM-Lehrkräften zur Deckung von fehlenden regulären Lehrer-/ -innenstellen die Gewährleistung der Unterrichtsqualität nicht beeinträchtigt? (Bitte sachlich und fachlich Stellung nehmen.) a. Inwiefern sieht der Senat/die zuständige Fachbehörde angesichts der befristeten Anstellung von VOrM-Lehrkräften die Unterrichtssicherheit nicht gefährdet? (Bitte sachlich und fachlich Stellung nehmen.)
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Über das Verfahren VOrM erhalten die Schulen Mittel, um temporäre Ausfälle (zum Beispiel durch Mutterschutz, langfristige Erkrankungen, Beurlaubungen) auszugleichen. Hierzu können Schulen die Arbeitszeit von Teilzeitkräften aufstocken, für Vollzeitkräfte Mehrarbeit anordnen oder im Rahmen von Lehraufträgen zusätzliches Personal befristet einstellen. Die Einstellungen von Lehrkräften mit befristeten Arbeitsverträgen richten sich nach dem Gesetz über Teilzeit und befristete Arbeitsverträge (Teilzeit- und Befristungsgesetz (TzBfG)) vom 21.12.2010 sowie nach dem Rundschreiben des Personalamtes über den Abschluss von Zeitverträgen vom 06.04.2017. Siehe: http://www.hamburg.de/contentblob/8718526/0651e0191223afb3a088472c9217850c/ data/regelungen-abschluss-zeitvertraege.pdf.) Zur Einstellung von Vertretungslehrkräften siehe auch Drs. 21/10339.
 
@@ -146,7 +147,7 @@ Inwiefern befürwortet/gestattet der Senat/die zuständige Fachbehörde die Hera
 
 Inwiefern sieht der Senat/die zuständige Fachbehörde beim Einsatz von Quereinsteigern/-innen im Schuldienst – ohne angemessene Anleitung und/oder Begleitung –zur Deckung von fehlenden regulären Lehrer-/ -innenstellen die fachliche Unterrichtsqualität nicht gefährdet? (Bitte sachlich und fachlich Stellung nehmen.) a. Inwiefern sieht der Senat/die zuständige Fachbehörde angesichts der fehlenden pädagogischen Ausbildung von Quereinsteigern/ -innen im Schuldienst – insbesondere ohne angemessene Anleitung und/oder Begleitung – die pädagogische Unterrichtsqualität nicht gefährdet? (Bitte sachlich und fachlich Stellung nehmen.)
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die mit der Frage implizierte Feststellung, Quereinsteiger erhielten keine angemessene Anleitung oder Begleitung, ist nicht richtig. Der Quereinstieg bezeichnet den Zugang in den Schuldienst durch Absolvieren eines Vorbereitungsdienstes nach abgeschlossenem Masterstudium. Der Vorbereitungsdienst stellt eine angemessene Anleitung beziehungsweise Begleitung der angehenden Lehrkraft dar und umfasst somit auch eine pädagogische Ausbildung, siehe auch Antwort zu 10.
 
@@ -160,7 +161,7 @@ Wie viele pädagogisch-therapeutische Fachkräfte (PTF) sind an den staatlichen 
 
 Sieht der Senat beziehungsweise die zuständige Fachbehörde gegenwärtig (Stand Dezember 2017) einen PTF-Mangel an den staatlichen Schulen in Hamburg gegeben? Wenn ja, in welchen Fächern, welchen Schulformen und in welchen Sozialindexgebieten und Stadtteilen? (Bitte mit entsprechenden Zahlen hinterlegen.) a. Wenn ja, welche konkreten Maßnahmen wurden/werden seit Beginn des laufenden Schuljahres 2017/2018 bis heute (Stand Dezember 2017) unternommen, um diesen Mangel umfänglich und angemessen abzustellen? (Bitte Maßnahmen nennen und erläutern.) b. Wenn nein, mit welchen sachlichen und fachlichen Begründungen wird ein solcher Mangel nicht als gegeben angesehen? (Bitte jeweils erläutern.)
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 An Hamburger Schulen herrscht grundsätzlich kein Mangel an pädagogischtherapeutischen Fachpersonal. In Einzelfällen kann es bei der Nachbesetzung freier Stellen zu temporären Rekrutierungsproblemen kommen. Dabei gilt auch für das pädagogisch-therapeutische Fachpersonal, dass der zugewiesene Stellenbedarf den Schulen in vollem Umfang zur Verfügung steht. Nicht mit Personal besetzte Stellen
 

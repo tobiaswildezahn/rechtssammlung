@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6092", "21/10363", "21/5368", "21/10838", "21/6303"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59908"
@@ -241,7 +242,7 @@ Welche neuen Aufgaben werden durch das geplante Resozialisierungsund Opferschutz
 
 Der Justizsenator verkündete in der Landespressekonferenz, dass es aufgrund der infolge des Resozialisierungs- und Opferschutzgesetzes entstehenden höheren Anforderungen im Justizvollzug zu Stellenhebungen kommen wird. Es sind 13 Stellenhebungen von A 7 nach A 9, vier Stellenhebungen von A 9 nach A 11 und 15 Stellenhebungen von A 10 nach A 11 geplant. a. Um welche Dienstposten handelt es sich jeweils und welche zusätzlichen Aufgaben fallen bei diesen konkret an?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung.
 

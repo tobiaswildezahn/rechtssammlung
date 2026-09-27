@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2658", "20/12241", "21/4951"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55837"
@@ -159,7 +160,7 @@ Für welchen Zweck sind die 202.000 Euro vorgesehen, die zum Eröffnungszeitpunk
 
 Sind die restlichen 202.000 Euro mittlerweile abgefordert beziehungsweise wird eine Abforderung bis 31.12.2016 erfolgen? Bitte Datum der Abforderung und Verwendungszweck benennen.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Fördermittel nach § 21 Hamburgisches Krankenhausgesetz werden nach Baufortschritt ausgezahlt. Von den 202.000 Euro wurden am 29.4.2016 41.000 Euro angewiesen. Die verbleibenden 161.000 Euro (entsprechen 5 Prozent der Bewilligungssumme) werden üblicherweise bis zur Vorlage des Verwendungsnachweises einbehalten (vergleiche Ziffer 5.5.5 der Förderrichtlinie zur Finanzierung von Krankenhausinvestitionen nach § 21 Hamburgisches Krankenhausgesetz).
 

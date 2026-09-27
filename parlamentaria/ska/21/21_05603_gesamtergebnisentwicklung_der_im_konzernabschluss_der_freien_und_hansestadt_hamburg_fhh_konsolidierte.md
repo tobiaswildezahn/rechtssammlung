@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6206", "20/10256", "20/13677", "21/2281"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54094"
@@ -63,11 +64,11 @@ Das kumulierte Jahresergebnis der erfragten wirtschaftlichen Einheiten in den Ja
 
 Die beiden mit Abstand größten Sondereffekte betreffen
 
- die Folgen der Krise der HSH Nordbank AG (HSH) im Jahr 2008, die sich über die
+– die Folgen der Krise der HSH Nordbank AG (HSH) im Jahr 2008, die sich über die
 
 betroffenen wirtschaftlichen Einheiten HSH, HSH Finanzfonds AöR, HGV Hamburger Gesellschaft für Vermögens- und Beteiligungsmanagement mbH und Hamburgischer Versorgungsfonds AöR mit insgesamt –4,09 Milliarden Euro auf das kumulierte Jahresergebnis und mit –2,15 Milliarden Euro auf den durchgerechneten FHH-Ergebnisanteil auswirkt, und
 
- die Wertkorrektur des Anlagevermögens im Sondervermögen Schulbau im Hinblick
+– die Wertkorrektur des Anlagevermögens im Sondervermögen Schulbau im Hinblick
 
 auf den Zustand und die Abschreibungsdauer der im Sondervermögen „Schule – Bau und Betrieb“ 2010 bilanzierten Schulimmobilien, die sich im Umfang von insgesamt –1,40 Milliarden Euro auf das kumulierte Jahresergebnis und den durchgerechneten FHH-Ergebnisanteil auswirkt.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13488", "21/10721", "21/12273", "21/14086", "21/14702", "21/15181", "21/16149"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66413"
@@ -43,7 +44,7 @@ Wie war die Struktur der salafistischen Szene im Februar/März 2019 in Hinblick 
 
 Wie viele von diesen Leuten verfügen über die doppelte Staatsbürgerschaft? Bitte die jeweils aktuellen Kombinationen einzeln nennen und nicht auf andere Drucksachen verweisen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Salafisten  
 davon Jihadisten  

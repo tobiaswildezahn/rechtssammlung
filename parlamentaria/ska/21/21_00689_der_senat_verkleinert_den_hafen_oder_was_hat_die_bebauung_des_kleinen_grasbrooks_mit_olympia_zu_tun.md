@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 29
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/395"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48844"
@@ -47,7 +48,7 @@ Ist es zutreffend, dass der Senat plant, den Kleinen Grasbrook mit Wohnungen zu 
 
 Falls ja, warum?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nein, die derzeit stattfindenden Planungen gehen von einer erfolgreichen deutschen Bewerbung aus.
 
@@ -79,7 +80,7 @@ Mit der Herausnahme des Kleinen Grasbrooks aus dem Hafengebiet wird die Knapphei
 
 Was ist der aktuelle Stand bezüglich der Verlagerung von Unternehmen vom Kleinen Grasbrook?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Hierzu sind die Überlegungen noch nicht abgeschlossen. Im Übrigen siehe Drs. 21/395.
 

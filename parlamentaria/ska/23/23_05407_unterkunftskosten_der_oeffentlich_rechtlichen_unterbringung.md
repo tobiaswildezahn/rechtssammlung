@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 21
 antwortbloecke: 0
 beantwortet: false
+status: "unbeantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105312"
@@ -27,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Dr. Carola Ensslen (Die Linke) vom 17.09.26 und Antwort des Senats · Drucksache vom 17.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105312) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105312/23_05407_unterkunftskosten_der_oeffentlich_rechtlichen_unterbringung)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

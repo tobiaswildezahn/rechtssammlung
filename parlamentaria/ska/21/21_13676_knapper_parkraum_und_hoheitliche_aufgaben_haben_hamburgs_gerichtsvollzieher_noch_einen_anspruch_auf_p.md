@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7391"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63040"
@@ -61,7 +62,7 @@ Wie viele Anträge auf Ausnahmegenehmigungen wurden von Gerichtsvollziehern jewe
 
 Wie viele dieser Anträge wurden jeweils bewilligt, wie viele abgelehnt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Statistiken im Sinne der Fragestellungen werden beim Landesbetrieb Verkehr nicht geführt. Für die Beantwortung der Fragestellungen wäre die manuelle Durchsicht aller für den betreffenden Zeitraum gestellten Anträge auf Ausnahmegenehmigungen erforderlich. Die Auswertung von mehreren Tausend Vorgängen ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

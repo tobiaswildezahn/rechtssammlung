@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 28
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3149", "20/10390", "21/4813", "20/13034"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53225"
@@ -147,23 +148,23 @@ Wurden/werden spezielle Weiterbildungs- und Begleitangebote zur Hygieneerziehung
 
 In den Hamburger Bildungs- und Rahmenplänen zum Aufgabengebiet Gesundheitsförderung aller Schulformen wird das Thema Hygieneerziehung wie folgt aufgegriffen:
 
- Jg. 2 – Themenfelder: Hygieneerziehung: zum Beispiel Zahnputztraining. Die
+– Jg. 2 – Themenfelder: Hygieneerziehung: zum Beispiel Zahnputztraining. Die
 
 Schülerinnen und Schüler wenden Zähneputzen und Händewaschen an,
 
- Jg. 4 – Themenfelder: Hygieneerziehung: zum Beispiel Ansteckung vermeiden. Die
+– Jg. 4 – Themenfelder: Hygieneerziehung: zum Beispiel Ansteckung vermeiden. Die
 
 Schülerinnen und Schüler halten von sich aus Hygieneregeln ein,
 
- Jg. 6 – Mögliche Themenfelder: Hygieneerziehung: zum Beispiel Hygiene im Alltag.
+– Jg. 6 – Mögliche Themenfelder: Hygieneerziehung: zum Beispiel Hygiene im Alltag.
 
 Die Schülerinnen und Schüler beachten für den Schulalltag relevante Hygiene- und Sicherheitsregeln,
 
- Mindestanforderungen für den ersten Schulabschluss – Themenfelder: Hygieneer-
+– Mindestanforderungen für den ersten Schulabschluss – Themenfelder: Hygieneer-
 
 ziehung: zum Beispiel Schutz vor Infektion. Die Schülerinnen und Schüler nennen Grundregeln der Hygiene,
 
- Mindestanforderungen für den Mittleren Schulabschluss/gymnasiale Anforderun-
+– Mindestanforderungen für den Mittleren Schulabschluss/gymnasiale Anforderun-
 
 gen am Ende der Jahrgangsstufe 10 – Themenfelder: Hygieneerziehung: zum Beispiel Infektionskrankheiten – eine Bedrohung für die Zukunft? Die Schülerinnen und Schüler beschreiben Erscheinungsformen und Ursachen ausgewählter Infektions-, Zivilisations- und psychosomatischer Erkrankungen.
 
@@ -189,45 +190,45 @@ Beispielhaft können folgende konkrete Maßnahmen genannt werden:
 
 Verhinderung von Vandalismus
 
- jede Klasse beziehungsweise zwei Klassen erhalten eine eigene Toilette und die
+– jede Klasse beziehungsweise zwei Klassen erhalten eine eigene Toilette und die
 
 Verantwortung dafür (zum Beispiel in der Grundschule Kirchdorf und der Stadtteilschule Niendorf)
 
- Installation von Elektrohandtrocknern als Ersatz zu Papierhandtüchern (an diver-
+– Installation von Elektrohandtrocknern als Ersatz zu Papierhandtüchern (an diver-
 
 sen Schulstandorten)
 
- Installation von Einzelblattspendern auf den WCs beziehungsweise Installation von
+– Installation von Einzelblattspendern auf den WCs beziehungsweise Installation von
 
 WC-Papierrollen vor den Kabinen (zum Beispiel in den Schulen Brüder-Grimm- Schule Standort Steinadlerweg, Helmut-Schmidt-Gymnasium und Bildungszentrum Tor zur Welt)
 
- Gestaltung von Sanitärräumen als Schulprojekt (an diversen Schulstandorten)
+– Gestaltung von Sanitärräumen als Schulprojekt (an diversen Schulstandorten)
 
- gemeinsame WCs für Mädchen und Jungen beziehungsweise gemeinsam genutz-
+– gemeinsame WCs für Mädchen und Jungen beziehungsweise gemeinsam genutz-
 
 te Vorräume (Grundschulen Ehestorfer Weg und Eduardstraße)
 
 Technische Maßnahmen zur Steuerung der Zugänglichkeit
 
- Zeitschaltuhren öffnen Toiletten lediglich in den Pausen, Transponder für Toiletten
+– Zeitschaltuhren öffnen Toiletten lediglich in den Pausen, Transponder für Toiletten
 
 beim Lehrer (zum Beispiel in der Stadtteilschule Nelson-Mandela-Schule)
 
- Vermeidung von Vandalismus durch separate Schließung der WC-Anlagen und pro
+– Vermeidung von Vandalismus durch separate Schließung der WC-Anlagen und pro
 
 Klassenraum nur einen Schlüssel (zum Beispiel in den Schulen Stadtteilschule Hamburg-Mitte, Grundschule Osterbrook und Stadtteilschule Barmbek)
 
 Technische Maßnahmen zur Verbesserung der Hygiene
 
- Ozonbehandlung zur Beseitigung von Uringeruch in WC-Anlagen (zum Beispiel in
+– Ozonbehandlung zur Beseitigung von Uringeruch in WC-Anlagen (zum Beispiel in
 
 den Grundschulen Bonhoefferstraße, Goosacker und dem Gymnasium Altona)
 
- Verzicht auf Urinale (zum Beispiel in den Grundschulen Iserbarg, Bonhoefferstra-
+– Verzicht auf Urinale (zum Beispiel in den Grundschulen Iserbarg, Bonhoefferstra-
 
 ße, Hasselbrook und Marschweg)
 
- Bodenbeschichtung mit Epoxidharz (PU-Beschichtung) für einfachere Reinigung
+– Bodenbeschichtung mit Epoxidharz (PU-Beschichtung) für einfachere Reinigung
 
 ohne Fugenanteil (Grundschulen Rhiemsweg, Moorflagen und Röthmoorweg)
 

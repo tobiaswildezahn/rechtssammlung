@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/2948"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50822"
@@ -122,7 +123,7 @@ Ist das Projekt „Kids in die Clubs“ schon für Kinder und Jugendliche mit Be
 
 Welche konkreten Schritte hat der Senat bisher unternommen, um die im Koalitionsvertrag vereinbarte Öffnung des Projektes „Kids in die Clubs“ zu realisieren?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Das Förderprogramm „Kids in die Clubs“ hat die soziale Integration – gesellschaftliche Teilhabe und Chancengerechtigkeit – von Kindern und Jugendlichen aus einkommensschwachen Familien im Fokus. Dabei wird nicht unterschieden, ob es sich um Kinder und Jugendliche mit oder ohne Behinderungen handelt. Eine gesonderte Erfassung findet nicht statt.
 

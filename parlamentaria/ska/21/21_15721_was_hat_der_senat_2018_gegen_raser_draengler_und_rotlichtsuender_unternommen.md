@@ -14,6 +14,7 @@ fragen: 45
 einzelfragen: 51
 antwortbloecke: 43
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12277", "21/8356", "21/14279", "21/12286", "21/3358"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65252"
@@ -834,7 +835,7 @@ Wie hat sich die Zahl der von der Polizei Hamburg durchgeführten Rotlichtkontro
 
 Welche Planzahl an Rotlichtkontrollen in Hamburg liegt für 2019 vor?
 
-#### Antwort zu Fragen 34 bis 35
+#### Antwort zu Fragen 34 und 35
 
 Siehe Drs. 21/12277.
 
@@ -892,7 +893,7 @@ Wie hoch waren von 2011 bis einschließlich 2017 die Fallzahlen der mittels der 
 
 Welche Planzahl an Einsätzen mit den Videonachfahrsystemen (ProVi- Da) zur Vermeidung von Aggressions- und Geschwindigkeitsdelikten in Hamburg liegt für 2019 vor?
 
-#### Antwort zu Fragen 41 bis 42
+#### Antwort zu Fragen 41 und 42
 
 Siehe Drs. 21/12277.
 

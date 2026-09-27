@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67877"
@@ -47,7 +48,7 @@ Wann wurde die Al-Taqwa-Moschee in Harburg erstmals vom Verfassungsschutz beobac
 
 Welche Aktivitäten haben dabei im Einzelnen zu einer Beobachtung geführt, welche begründen die fortwährende Beobachtung?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Moschee wurde 2011 vom Landesamt für Verfassungsschutz (LfV) Hamburg als Beobachtungsobjekt eingestuft und ist weiterhin Gegenstand der Beobachtung. Im
 

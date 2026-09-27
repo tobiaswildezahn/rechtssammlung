@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49861"
@@ -60,7 +61,7 @@ Ist infolge des Beschlusses geplant, an bestehenden Gefängniseinrichtungen baul
 
 Entfällt.
 
-• Bundesverfassungsgericht
+– Bundesverfassungsgericht
 
 \> Startseite ś > Geldentschädigung wegen Unterbringung in zu kleiner Einzelzelle
 

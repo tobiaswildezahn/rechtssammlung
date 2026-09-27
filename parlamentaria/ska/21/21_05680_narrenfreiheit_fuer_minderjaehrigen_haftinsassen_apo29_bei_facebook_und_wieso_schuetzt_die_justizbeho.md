@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5544"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54176"
@@ -51,7 +52,7 @@ Was umfasste die Prüfung des Justitiariats konkret?
 
 Auf welchen rechtlichen Erwägungen beziehungsweise Grundlagen basiert die Einschätzung der Behörde, dass entsprechende Schritte keine Aussicht auf Erfolg hätten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Justitiariat der zuständigen Behörde hat geprüft, ob rechtliche Möglichkeiten bestehen, den gesamten Account oder einzelne Einträge löschen zu lassen.
 
@@ -73,6 +74,6 @@ Hat die zuständige Behörde losgelöst von rechtlicher Durchsetzbarkeit die üb
 
 Hat die zuständige Behörde die Möglichkeit genutzt, einen Brief oder eine E-Mail an die Deutschland-Chefin von Facebook, Frau Marianne Dölz, zu schreiben? Falls nein, weshalb nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die zuständige Behörde hat die Einträge über das Meldeformular gemeldet und sich an die für Deutschland zuständige Managerin Privacy & Policy gewandt.

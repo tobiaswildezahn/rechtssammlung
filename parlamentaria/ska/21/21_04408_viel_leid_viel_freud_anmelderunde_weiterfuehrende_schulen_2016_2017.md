@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52829"
@@ -47,7 +48,7 @@ Wie viele Anmeldungen für die künftige Klasse 5 gab es insgesamt? Bitte für a
 
 Wie viele Schülerinnen und Schüler wurden wunschgemäß angenommen, wie viele im Rahmen der Schulorganisation zugewiesen und wie viele abgelehnt? Bitte jeweils speziellen Förderbedarf und LSE Förderbedarf ohne Details darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Inwieweit die einzelne Schülerin beziehungsweise der einzelne Schüler mit sonderpädagogischem Förderbedarf an der allgemeinen Erstwunschschule aufgenommen worden ist, wird als personenbezogenes Datum nicht zentral erfasst. Für die Beantwortung dieser Frage wären eine Schulabfrage an allen weiterführenden Schulen und die
 
@@ -71,6 +72,6 @@ Wie stellen sich in den laufenden Klassenstufen 5 und 6 im Schuljahr 2015/2016 d
 
 Wie stellen sich in den laufenden Klassenstufen 7 bis 9 im Schuljahr 2015/2016 die jeweils durchschnittliche Anzahl der Schüler pro Klasse und die Anzahl der Schüler insgesamt, unterteilt nach den Merkmalen „ohne Förderbedarf“, „spezieller Förderbedarf“ und „LSE Förderbedarfe“ ohne Details, dar? Die Zahlen bitte aufgeteilt nach den Merkmalen „ohne Förderbedarf“, „spezieller Förderbedarf“ und „LSE Förderbedarfe“ aufteilen und Summen bilden.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlagen 3 und 4.

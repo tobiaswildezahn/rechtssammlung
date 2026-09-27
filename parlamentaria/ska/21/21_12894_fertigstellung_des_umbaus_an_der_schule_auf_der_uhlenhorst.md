@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11614"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62235"
@@ -77,7 +78,7 @@ Wie hoch sind die Miet- und Bewirtschaftungskosten je Container?
 
 Wie hoch ist damit die Verschwendung von Steuergeldern pro Monat, wenn die Schulcontainer nicht abgebaut, aber auf dem Gelände „geparkt“ werden, obwohl diese an anderer Stelle der Stadt durchaus benötigt werden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Für einen mobilen Klassenraum werden zurzeit 2.607 Euro pro Monat berechnet, davon entfallen 556,97 Euro auf die Bewirtschaftung. Miete und Bewirtschaftungskosten fallen nur für die mobilen Klassen an, die durch die Schule tatsächlich genutzt werden. Die am Schulstandort aufgestellten mobilen Klassenräume werden zurzeit an keinem anderen Standort benötigt. Es müssen deshalb keine zusätzlichen mobilen Klassenräume an anderer Stelle angeschafft werden. Im Übrigen siehe Antwort zu 2.
 

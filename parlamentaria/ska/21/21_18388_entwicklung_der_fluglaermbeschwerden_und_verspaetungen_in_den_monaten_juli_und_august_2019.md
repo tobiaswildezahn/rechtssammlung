@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 12
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15828"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68028"
@@ -157,7 +158,7 @@ Wie viele An- und Abflüge gab es in den Monaten Juli und August 2019 insgesamt 
 
 Wie viele An- und Abflüge gab es in den Monaten Juli und August 2019 insgesamt am Hamburger Flughafen und wie haben sich diese auf die einzelnen Start- und Landebahnen verteilt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Starts  
 Start- und Landebahnen  
@@ -245,13 +246,13 @@ Wie viele Landungen fanden in den Monaten Juli und August 2019 über die Landeba
 
 #### Antwort zu Frage 11
 
- 7.00 Uhr bis 22.00 Uhr,
+– 7.00 Uhr bis 22.00 Uhr,
 
- 22.00 Uhr bis 23.00 Uhr,
+– 22.00 Uhr bis 23.00 Uhr,
 
- 23.00 Uhr bis 6.00 Uhr,
+– 23.00 Uhr bis 6.00 Uhr,
 
- 6.00 Uhr bis 7.00 Uhr.
+– 6.00 Uhr bis 7.00 Uhr.
 
 Landungen  
 Start- und Landebahnen  

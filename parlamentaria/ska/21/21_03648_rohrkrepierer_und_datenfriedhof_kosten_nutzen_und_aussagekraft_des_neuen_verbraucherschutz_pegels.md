@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 22
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1619", "21/1650"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52032"
@@ -49,7 +50,7 @@ Welche konkreten Erkenntnisse hinsichtlich der Probleme und der Zufriedenheit de
 
 Welche konkreten Erkenntnisse hinsichtlich Themen und Trends unter den Verbraucherinnen und Verbrauchern in Hamburg hat der am 14. März 2016 erstmalig veröffentlichte Verbraucherschutz-Pegel erbracht und welche dieser Erkenntnisse sind für den Senat beziehungsweise die zuständige Behörde neu?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe hierzu die Pressemeldung der Behörde für Gesundheit und Verbraucherschutz vom 14.03.2016 unter http://www.hamburg.de/pressearchiv-fhh/5456120/2016-03-14- bgv-verbraucherschutz-pegel/ sowie die Auswertung des Verbraucherschutz-Pegels Hamburg unter http://www.hamburg.de/contentblob/5456126/data/2016-03-14-bgvverbraucherschutz-pegel-download.pdf.
 
@@ -111,7 +112,7 @@ Kosten in welcher Höhe sind für Planung, Aufbau, Betrieb und Auswertung des Ve
 
 Aus welchem Kontenrahmen welcher Produktgruppe des Einzelplans 5 wurden für Planung, Aufbau, Betrieb und Auswertung des Verbraucherschutz-Pegels in welcher Höhe Finanzmittel abgerufen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Für die zu erbringenden Leistungen einschließlich der zur Vorbereitung, Durchführung und Nachbereitung erforderlichen Besprechungen und Präsentationen wurde an die Verbraucherzentrale Hamburg e.V. eine pauschale Vergütung einschließlich Mehrwertsteuer in Höhe von 5.950,00 Euro aus der Produktgruppe 25601 „Steuerung und Service“ des Einzelplans 5 der Behörde für Gesundheit und Verbraucherschutz gezahlt.
 
@@ -131,7 +132,7 @@ Wie genau sah die Onlinebefragung für den Verbraucherschutz-Pegel aus?
 
 Gab es eine Zielgruppenbeschreibung für die Onlinebefragung? Wenn ja, wie sah diese aus? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Ja, Hamburger Verbraucherinnen und Verbraucher.
 
@@ -167,7 +168,7 @@ Wann ist die Folgebefragung geplant?
 
 Welchen Veränderungen hinsichtlich der Form der Onlinebefragung sind geplant?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Die Planungen sind noch nicht abgeschlossen.
 
@@ -181,12 +182,12 @@ Im genannten Zeitraum keine. Es ist eine Befassung der nächsten Verbraucherschu
 
 Ab dem 22. September 2013 waren im Bundeskabinett für den Verbraucherschutz zuständig:
 
- Frau Ilse Aigner (CSU): bis 30.09.2013,
+– Frau Ilse Aigner (CSU): bis 30.09.2013,
 
- Herr Hans-Peter Friedrich (CSU): ab 30.09. bis 17.12.2013 kommissarisch
+– Herr Hans-Peter Friedrich (CSU): ab 30.09. bis 17.12.2013 kommissarisch
 
 17.12.2013 bis 17.2.2014 für gesundheitlichen Verbraucherschutz
 
- Herr Heiko Maas (SPD): seit 17.12.2013 für wirtschaftlichen Verbraucherschutz
+– Herr Heiko Maas (SPD): seit 17.12.2013 für wirtschaftlichen Verbraucherschutz
 
- Christian Schmidt (CSU): seit 17.02.2014 für gesundheitlichen Verbraucherschutz
+– Christian Schmidt (CSU): seit 17.02.2014 für gesundheitlichen Verbraucherschutz

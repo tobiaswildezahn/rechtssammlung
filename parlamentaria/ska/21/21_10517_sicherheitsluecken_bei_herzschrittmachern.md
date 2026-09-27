@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 13
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59397"
@@ -53,7 +54,7 @@ Wie viele in Hamburg gemeldete Personen tragen Herzschrittmacher des Herstellers
 
 Wie viele von ihnen tragen die Modelle, bei denen ein Software-Update erforderlich ist?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In den Hamburger Plankrankenhäusern mit kardiologischen Abteilungen wurden Herzschrittmacher des Herstellers St. Jude Medical verwendet. Die konkrete Zahl von Patientinnen und Patienten, die Schrittmacher des Herstellers St. Jude tragen beziehungsweise die von der Maßnahme betroffen sind, sind dem Senat aktuell nicht bekannt. Gemäß § 15 Medizinprodukte-Betreiberverordnung müssen Betreiber, die Herzschrittmacher implantieren, die Dokumentation zu diesen Implantaten und den betroffenen Patienten ausschließlich selbst aufbewahren und der zuständigen Behörde nicht übermitteln.
 

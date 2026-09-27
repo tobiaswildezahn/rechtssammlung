@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62157"
@@ -61,7 +62,7 @@ Warum wurde für den Vorbescheid nicht der Denkmalrat einbezogen, um den Denkmal
 
 Warum verzichtete der Oberbaudirektor auf einen Architekturwettbewerb, sodass die Verwaltung und die interessierte Öffentlichkeit jetzt nur (noch) diesen Plattenbau beurteilen können?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

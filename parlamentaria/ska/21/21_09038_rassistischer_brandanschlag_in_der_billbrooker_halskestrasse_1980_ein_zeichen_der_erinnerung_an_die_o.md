@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 12
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57783"
@@ -67,7 +68,7 @@ f) Inwieweit ist dieses Grundstück, nach Einschätzung des Senats, für die Ein
 
 Wie bewertet der Senat das Anliegen, dem Gedenken an die Opfer des Brandanschlags in der Billbrooker Halskestraße eine öffentlich wahrnehmbare, dauerhafte Form zu geben?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Das Grundstück gehört der Freien und Hansestadt Hamburg und wird derzeit nicht genutzt. Die planungsrechtliche Ausweisung für das Flurstück 2112 der Gemarkung Billbrook, Halskestraße 71 ist Außengebiet gemäß Baustufenplan Billbrook aus dem Jahr 1955. Für das betreffende Grundstück ist eine Beurteilung nach § 34 und § 35 Baugesetzbuch vorzunehmen. Im Übrigen sind die Planungen und Überlegungen noch nicht abgeschlossen.
 

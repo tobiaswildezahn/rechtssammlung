@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 23
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51002"
@@ -69,11 +70,11 @@ Die Anzahl der eingesetzten Beamtinnen und Beamten auf den Funkstreifenwagen wir
 
 Die Anzahl der eingesetzten Funkstreifenwagen und Kriminalbeamten stellt sich wie folgt dar:
 
- Am 28./29. Dezember 2015 waren insgesamt 44 Funkstreifenwagen und 19 Krimi-
+– Am 28./29. Dezember 2015 waren insgesamt 44 Funkstreifenwagen und 19 Krimi-
 
 nalbeamte im Einsatz.
 
- Am 2. Januar 2016 waren insgesamt 13 Funkstreifenwagen und 42 Kriminalbeam-
+– Am 2. Januar 2016 waren insgesamt 13 Funkstreifenwagen und 42 Kriminalbeam-
 
 te im Einsatz.
 

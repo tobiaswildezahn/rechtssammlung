@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67593"
@@ -63,7 +64,7 @@ Wie viele nicht mehr benötigte Radwege wurden während der laufenden Legislatur
 
 Wo genau wurden die unter 1. genannten Radwege zu Fußwegen umgebaut? Bitte den genauen Ort, die Länge der einzelnen Maßnahmen und die Kosten der einzelnen Maßnahmen nennen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine eigene Statistik über die Anzahl und die Streckenlänge zurückgebauter und zu Fußwegen umgewandelter Radwege wird nicht geführt. Die nachfolgende Tabelle zeigt über 100 Straßenabschnitte, bei denen Radwege insbesondere durch andere Führungsformen des Radverkehrs ersetzt und die bisherigen Radwege im Zuge der Neuaufteilung des öffentlichen Straßenraums zurückgebaut wurden. Im Übrigen siehe Vorbemerkung.
 

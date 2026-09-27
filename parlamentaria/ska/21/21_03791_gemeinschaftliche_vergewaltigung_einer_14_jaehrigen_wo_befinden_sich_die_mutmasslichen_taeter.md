@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3530"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52209"
@@ -55,7 +56,7 @@ Was ergab das Ergebnis der beantragten Haftumstellung jeweils für den 14- sowie
 
 Wann wurden sie aus der Untersuchungshaft entlassen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der 16-jährige Beschuldigte wurde am 21. März 2016 aus der Untersuchungshaft entlassen.
 

@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 21
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6335", "21/659", "21/4568"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53076"
@@ -96,7 +97,7 @@ Aus welchen Haushaltstiteln und anderen Quellen sind die in Frage 2. aufgeführt
 
 Wie haben sich jeweils in den Jahren 2013, 2014, 2015 bis einschließlich im 1. Quartal 2016 die Haushaltstitel des Hamburger Haushaltes entwickelt, aus denen Unternehmen im Sinne der Frage 2. gefördert worden sind?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung.
 
@@ -181,7 +182,7 @@ Wie hoch war die durchschnittliche Bearbeitungszeit zwischen der Beantragung ein
 
 Wie hoch war die durchschnittliche Bearbeitungszeit zwischen der Beantragung einer Förderung und dem Bewilligungsbescheid jeweils in den Jahren 2013, 2014, 2015 bis einschließlich im 1. Quartal 2016?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die IFB erfasst die Bearbeitungszeiten nicht.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16598", "21/16743"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66716"
@@ -59,7 +60,7 @@ Nach welcher Methode ist die Aufschlüsselung der Anwesenheit von Sachbearbeiter
 
 Zu welchem Ergebnis kamen die Controller? Welche tatsächlichen Anwesenheitsquoten haben sich ergeben?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Es wurde zu einzelnen Stichtagen ein Abgleich vorgenommen zwischen den der Betrugssachbearbeitung zugewiesenen und dort eingesetzten Mitarbeiterinnen und Mitarbeitern und den dort jeweils anwesenden Mitarbeiterinnen und Mitarbeitern. Im Abgleich lag die Anwesenheitsquote bei durchschnittlich 69 Prozent.
 
@@ -71,7 +72,7 @@ Wie wird in Zukunft gewährleistet, dass den verantwortlichen Dienstvorgesetzten
 
 Wie soll die Arbeitsbelastung der tatsächlich anwesenden Ermittler zukünftig nachverfolgt und gesteuert werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/16598 und 21/16743.
 

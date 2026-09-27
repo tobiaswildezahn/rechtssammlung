@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49746"
@@ -55,7 +56,7 @@ In welchen Zeiträumen fanden die Arbeiten in den letzten fünf Jahren statt?
 
 Gab es Abweichungen vom üblichen Zeitplan? Wenn ja, warum?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Arbeiten wurden und werden jeweils in den zwei Wochen vor und nach den Hamburger Sommerferien durchgeführt. Dieser übliche Zeitplan beinhaltet einen zeitlichen Puffer. Wird dieser nicht benötigt, wird die Bahn früher wieder geöffnet. Abweichungen können sich witterungsbedingt ergeben.
 

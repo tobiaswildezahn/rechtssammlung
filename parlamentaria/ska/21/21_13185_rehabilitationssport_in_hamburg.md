@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3659"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62520"
@@ -83,7 +84,7 @@ Wie unterstützt der Senat den Rehabilitationssport in Hamburg?
 
 Welche Anreize schafft der Senat, damit möglichst viele Sportvereine in Hamburg Rehabilitationssport anbieten?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Senat unterstützt den Rehabilitationssport mit Zuwendungen in Höhe von insgesamt 207.008,09 Euro in 2018 an den Hamburger Gehörlosen Sportverein von 1904 e.V. (HGSV) sowie den BRSH.
 

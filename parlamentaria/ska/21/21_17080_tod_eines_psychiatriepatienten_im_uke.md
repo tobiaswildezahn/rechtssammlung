@@ -14,6 +14,7 @@ fragen: 25
 einzelfragen: 35
 antwortbloecke: 22
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17007", "21/17059"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66638"
@@ -180,7 +181,7 @@ Wie lange werden die Aufnahmen im Regelfall gespeichert? Gegebenenfalls nach Kra
 
 Unter welchen Voraussetzungen werden die Aufnahmen über den Regelzeitraum hinaus gespeichert und durch wen wird veranlasst, dass die Aufnahmen länger gespeichert werden? Gegebenenfalls nach Krankenhaus unterscheiden.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Im UKE findet keine Aufzeichnung und Speicherung statt. In den übrigen Hamburger Krankenhäusern werden Aufnahmen – sofern überhaupt – für einen unterschiedlichen Zeitraum gespeichert, maximal bis zu zwei Wochen. In relevanten Fällen, etwa bei begründetem Verdacht auf strafrechtlich relevante Handlungen, werden Aufzeichnungen durch Freigabe der Geschäftsführung und nach Betriebsvereinbarung in Abstimmung mit dem Betriebsrat gespeichert und gegebenenfalls an Ermittlungsbehörden weitergegeben. Sollten sich die Gründe für die Speicherung im späteren Verlauf als nicht gegeben erweisen, werden die Aufzeichnungen gelöscht.
 

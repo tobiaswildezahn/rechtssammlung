@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 4
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12484"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53708"
@@ -43,7 +44,7 @@ Die Beschlussfassung des Senats über den neuen Haushaltsplanentwurf 2017/2018 f
 
 Waren die Unterlagen für den diesjährigen Haushaltsplanentwurf bei Verschickung an die Deputationen sowie bei der Beratung vollständig? Wenn nein, warum und inwiefern nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlagen 1 und 2. Im Übrigen siehe Drs. 20/12484.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59786"
@@ -43,7 +44,7 @@ Der Stieg zwischen der Mellingburger Schleuse und dem Mellingburgredder wurde vo
 
 Warum wurde die genannte Stelle nur provisorisch saniert und warum nahm man ein weiteres Verfallen des Geländers in Kauf?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In den letzten Jahren ist keine Sanierung des Stieges durchgeführt worden. Lediglich das Holzgeländer wurde in Teilbereichen repariert.
 
@@ -67,17 +68,17 @@ Welche Planungen verfolgt der die zuständige Fachbehörde für das Jahr 2018 in
 
 Das zuständige Bezirksamt plant folgende umfängliche Maßnahmen:
 
- Die Wegesanierung Hohenbuchenpark bis Bäckerbrücke erfolgt noch in 2017.
+– Die Wegesanierung Hohenbuchenpark bis Bäckerbrücke erfolgt noch in 2017.
 
- Im Jahr 2018 wird die Teilsanierung der Wege in der Grünanlage Tegelsbarg
+– Im Jahr 2018 wird die Teilsanierung der Wege in der Grünanlage Tegelsbarg
 
 durchgeführt.
 
- Die Parkbänke werden bei starken Beschädigungen, zum Beispiel durch Vanda-
+– Die Parkbänke werden bei starken Beschädigungen, zum Beispiel durch Vanda-
 
 lismus, instand gesetzt.
 
- Im Weiteren sollen Unterhaltungsarbeiten und Beseitigungen von Gefahrstellen in
+– Im Weiteren sollen Unterhaltungsarbeiten und Beseitigungen von Gefahrstellen in
 
 den Grünanlagen im Rahmen der zur Verfügung stehenden Mittel erfolgen.
 

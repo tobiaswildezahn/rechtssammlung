@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 24
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13316", "21/9651", "21/10389", "21/13361"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62868"
@@ -79,13 +80,13 @@ Alle im Jahr 2013 angepassten Grundschulen wurden im Schuljahr 2014/2015 mit ein
 
 überprüft. Für die Prüfung genutzt wurden die Merkmale „Anteil der Schülerinnen und Schüler mit Migrationshintergrund“ an der Schule sowie „Anteil der Schülerinnen und Schüler aus Gebieten mit niedrigem und sehr niedrigem RISE-Status“. Für folgende Grundschulen ergaben sich Hinweise auf eine zu hohe Einstufung:
 
- Schule Rahewinkel
+– Schule Rahewinkel
 
- Schule Jenfelder Straße
+– Schule Jenfelder Straße
 
- Schule Appelhoff
+– Schule Appelhoff
 
- Clara-Grunwald-Schule
+– Clara-Grunwald-Schule
 
 Alle vier Grundschulen wurden in der Folge um eine Sozialindexstufe abgesenkt.
 
@@ -113,35 +114,35 @@ In der Antwort auf Drs. 21/13316 gibt der Senat an, dass außerdem die Möglichk
 
 Wie viele und welche staatlichen Schulen haben seit 2013/2014 bis heute einen entsprechenden Antrag auf Anpassung des ihnen zugeordneten Sozialindexes gestellt und wie wurde aus welchen Gründen hinsichtlich dieser Anträge jeweils beschieden? (Bitte Standort mit Schulform und Bezirk mit KESS zur Antragstellung und KESS-Faktor laut Antrag nennen und Bescheidung samt Begründung und zugrunde liegenden Kriterien erläutern.)
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Bestanden durch die Schulleitung oder die Schulaufsicht nach 2013 Zweifel an der Festlegung der Sozialindizes, konnten diese sich an das zuständige Referat im Institut für Bildungsmonitoring und Qualitätsentwicklung (IfBQ) wenden. Im IfBQ erfolgte eine fachliche Einschätzung der Angemessenheit der Einstufung. Dabei wurden Informationen der Aktualisierung 2013/2014 (Rücklaufquoten der Befragungen, Anteil der Schülerinnen und Schüler mit Migrationshintergrund) sowie aktuelle amtliche Daten genutzt. Zu letzteren gehörten einerseits Informationen über Schülerinnen und Schüler:
 
- Anteil der Kinder mit Migrationshintergrund,
+– Anteil der Kinder mit Migrationshintergrund,
 
- Anteil von Schülerinnen und Schülern nach RISE-Statusindex der Wohngebiete,
+– Anteil von Schülerinnen und Schülern nach RISE-Statusindex der Wohngebiete,
 
- Anteil der Schülerinnen und Schüler, die Leistungen aus dem Bildungs- und Teil-
+– Anteil der Schülerinnen und Schüler, die Leistungen aus dem Bildungs- und Teil-
 
 habepaket (BuT) beziehen und
 
- Anteil der Schülerinnen und Schüler, die in der Familie überwiegend nicht deutsch
+– Anteil der Schülerinnen und Schüler, die in der Familie überwiegend nicht deutsch
 
 sprechen.
 
 Andererseits wurden Informationen über die Wohngebiete der Schülerinnen und Schüler einbezogen:
 
- Anteil von Schülerinnen und Schülern mit Hochschulreife,
+– Anteil von Schülerinnen und Schülern mit Hochschulreife,
 
- Anteil von Schülerinnen und Schülern ohne Schulabschluss sowie mit erstem all-
+– Anteil von Schülerinnen und Schülern ohne Schulabschluss sowie mit erstem all-
 
 gemeinbildenden Schulabschluss,
 
- Anteil Arbeitslosigkeit,
+– Anteil Arbeitslosigkeit,
 
- Anteil hilfebedürftiger Kinder,
+– Anteil hilfebedürftiger Kinder,
 
- Wahlbeteiligung (Bürgerschaftswahl 2015).
+– Wahlbeteiligung (Bürgerschaftswahl 2015).
 
 Diese Daten wurden jeweils im Vergleich zu Schulen derselben Schulform mit demselben Sozialindex betrachtet. Im Übrigen siehe Anlage 2 und Drs. 21/13316.
 
@@ -171,7 +172,7 @@ Auf die Frage, was der Wechsel von KESS VI zu KESS V, von KESS V zu KESS IV, von
 
 Auf die Frage, was der Wechsel von KESS VI zu KESS IV, von KESS V von KESS III, von KESS IV zu KESS II, von KESS III zu KESS und umgekehrt für betroffene Schulen im Einzelnen bedeute, wurde in Drs. 21/13316 leider nicht geantwortet, deshalb bitte ich darum, dies nun zu tun. (Bitte jeweils für jeden Wechseln bezogen auf die Maßnahmen Personalbedarf für den Unterricht, Allgemeine Sprachförderung, Sprachstandfeststellung für Viereinhalbjährige, Ganztagsangebote, Inklusion und Ausstattung der Sekretariate und sonstige Zuwendungen erläutern.)
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die Auswirkung eines angepassten Sozialindexes auf die Ressourcenzuweisung einer Schule hängt von den jeweiligen sozialindexabhängigen Parametern der Bedarfszuweisung und von den Schülerzahlen der jeweiligen Schule ab. In Drs. 21/13316 sind für jede sozialindexbezogene Ressourcenzuweisung die Parameter ausgeführt, nach denen die Zuweisungen jeweils erfolgen. Die absolute Wirkung einer Anpassung des Sozialindexes auf die Zuweisung hängt neben diesen Parametern von den jeweiligen Schülerzahlen ab und kann deshalb nicht allgemein beziffert werden.
 

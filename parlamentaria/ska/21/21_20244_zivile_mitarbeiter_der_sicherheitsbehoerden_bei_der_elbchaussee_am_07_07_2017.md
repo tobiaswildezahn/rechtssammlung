@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14350", "21/12769"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70042"
@@ -107,9 +108,9 @@ Wie viele Minuten Videomaterial aus Hubschraubern existieren insgesamt im Zusamm
 
 Bei der Polizei Hamburg existieren zwei Videos im Sinne der Fragestellung mit insgesamt 18.47 Minuten Videomaterial:
 
- Laufzeit: 13.07 Minuten. Aufnahmezeit von 07.44 Uhr bis 07.57 Uhr. Örtlichkeit: Bereich um das Rathaus Altona, Platz der Republik, Max-Brauer-Allee, Schillerstraße, Goethepark, Julius-Leber-Straße und angrenzende Bahngleise vom Bahnhof Altona.
+– Laufzeit: 13.07 Minuten. Aufnahmezeit von 07.44 Uhr bis 07.57 Uhr. Örtlichkeit: Bereich um das Rathaus Altona, Platz der Republik, Max-Brauer-Allee, Schillerstraße, Goethepark, Julius-Leber-Straße und angrenzende Bahngleise vom Bahnhof Altona.
 
- Laufzeit: 05.40 Minuten. Aufnahmezeit von 07.58 Uhr bis 08.04 Uhr. Örtlichkeit: Bereich um das Rathaus Altona, Elbchaussee im Bereich Heine-Park/ Donners Park/Rosengarten, Max-Brauer-Allee, Platz der Republik.
+– Laufzeit: 05.40 Minuten. Aufnahmezeit von 07.58 Uhr bis 08.04 Uhr. Örtlichkeit: Bereich um das Rathaus Altona, Elbchaussee im Bereich Heine-Park/ Donners Park/Rosengarten, Max-Brauer-Allee, Platz der Republik.
 
 ### Frage 5
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65561"
@@ -116,7 +117,7 @@ Wie viele Anträge davon sind von Arbeitslosen oder Nicht-Erwerbstätigen gestel
 
 Wie viele Anträge sind genehmigt worden – Aufschlüsselung wie unter 1. und 2.?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Eine entsprechende Statistik dazu liegt nicht vor. Im Übrigen siehe Antwort zu 1.
 

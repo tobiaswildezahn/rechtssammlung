@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49816"
@@ -73,6 +74,6 @@ Teilt der Senat beziehungsweise die zuständige Behörde die im Einführungstext
 
 Teilt der Senat die Auffassung, dass die Drogenbeauftragte schon von einer falschen Annahme ausgeht, da niemand eine Legalisierung von Cannabis, sondern lediglich dessen kontrollierte Abgabe fordert?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Senat nimmt nicht Stellung zu Aussagen von Mitgliedern des Bundes.

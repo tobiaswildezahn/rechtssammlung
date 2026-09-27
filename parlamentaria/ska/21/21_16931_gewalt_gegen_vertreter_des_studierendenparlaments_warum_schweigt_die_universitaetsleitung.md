@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 19
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15644", "21/10878", "20/2860", "20/12511", "21/9481", "21/16594"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66516"
@@ -47,7 +48,7 @@ Welche gewalttätigen Übergriffe gegen Studenten oder Angestellte der Universit
 
 Führt die Universität eine Statistik zu Gewalttaten gegen Angehörige auf ihrem Gelände beziehungsweise in ihren Gebäuden? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Angaben zu gewalttätigen Übergriffen gegen Beschäftigte werden jährlich seitens der UHH erhoben und an das Personalamt gemeldet. Bezüglich der genauen Angaben zu den Arten der Übergriffe wird auf die Drs. 20/2860, 20/12511, 21/9481 und 21/16594 verwiesen. Gewalttätige Übergriffe gegen Studierende (innerhalb und außerhalb der Universität) werden der Universität nicht systematisch gemeldet und somit auch nicht erfasst.
 

@@ -12,8 +12,9 @@ vorgang: 52202
 seiten: 23
 fragen: 89
 einzelfragen: 0
-antwortbloecke: 0
-beantwortet: false
+antwortbloecke: 1
+beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["28/17", "28/1"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57074"
@@ -26,8 +27,6 @@ generator: "ska_archiv 1.0"
 
 > Schriftliche Kleine Anfrage der Abgeordneten Dr. Alexander Wolf, Prof. Dr. Jörn Kruse, Dr. Bernd Baumann, Dirk Nockemann, Dr. Joachim Körner, Andrea Oelschlaeger, Detlef Ehlebracht (AfD) vom 16.03.17 und Antwort des Senats · Drucksache vom 24.03.2017  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/57074) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/57074/21_08364_abstimmung_hamburgs_in_der_954_sitzung_des_bundesrates)
->
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 26.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
 
 ## Einleitung für die Fragen
 
@@ -398,7 +397,9 @@ Entwurf eines ... Gesetzes zur Änderung des Strafgesetzbuchs – Strafzumessung
 
 Entschließung des Bundesrates „Für eine schlagkräftige Strafverfolgung von Terrorismus, Extremismus, Wohnungseinbruch und Cybercrime“
 
-Antwort zu Fragen 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 86, 87, 88, 89: Über die wichtigsten Ergebnisse der Bundesratssitzung sind die Fraktionsvorsitzenden und Parlamentarischen Geschäftsführer der in der Bürgerschaft vertretenen Parteien am 10. März 2017, wie üblich direkt im Anschluss an die Sitzung, am Freitagnachmittag informiert worden. Die entsprechende Information ist überdies im Transparenzportal verfügbar.
+#### Antwort zu Fragen 1 bis 58, 61 bis 84 und 86 bis 89
+
+Über die wichtigsten Ergebnisse der Bundesratssitzung sind die Fraktionsvorsitzenden und Parlamentarischen Geschäftsführer der in der Bürgerschaft vertretenen Parteien am 10. März 2017, wie üblich direkt im Anschluss an die Sitzung, am Freitagnachmittag informiert worden. Die entsprechende Information ist überdies im Transparenzportal verfügbar.
 
 Die Grunddrucksachen und Empfehlungsdrucksachen (sogenannte Strichdrucksachen), die gestellten Plenaranträge sowie die gefassten Beschlüsse zu den einzelnen Vorlagen sind auf der Internetseite des Bundesrates http://www.bundesrat.de zu jedem einzelnen Tagesordnungspunkt abrufbar. Zusätzlich gibt es eine umfangreiche Pressemitteilung der Landesvertretung mit den zentralen Themen, die im Internet unter zu finden ist, http://www.hamburg.de/senatskanzlei/pressemeldungenlandesvertretung/8342464/2017-03-09-lv-bundesrat-954/.
 

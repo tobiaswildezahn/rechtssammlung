@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11663"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49539"
@@ -49,7 +50,7 @@ Wie hoch waren die Finanzschulden sowie die Nettoverschuldung in den Jahren 2011
 
 Wie hoch waren die Finanzschulden sowie die Nettoverschuldung zum Stichtag 30.06.2015?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Geschäfts- und Zwischenberichte der Hapag-Lloyd AG (https://www.hapaglloyd.de/de/investor_relations/reports.html)
 
@@ -62,7 +63,7 @@ Wie hoch waren der Kapitaldienst, die Zinslastquote und der Schuldendienstdeckun
 
 Wie haben sich diese Kennzahlen zum Stichtag 30.06.2015 entwickelt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Sofern sich diese Kennzahlen nicht aus den Geschäfts- und Zwischenberichten ergeben, handelt es sich nach Angaben von HL um Betriebs- und Geschäftsgeheimnisse im Sinne des § 93 Absatz 1 Satz 3 Aktiengesetz, über die der Senat im Rahmen der Beantwortung einer Parlamentarischen Anfrage keine Auskunft gibt.
 

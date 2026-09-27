@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 26
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62204"
@@ -73,7 +74,7 @@ Welche Gründe haben zu der Durchsuchung des Computers geführt?
 
 Gab es einen konkreten Verdacht auf ein Fehlverhalten? Wenn ja, welches Fehlverhalten wurde vermutet und worin bestanden die Anhaltspunkte für diesen Verdacht genau? Zu welchem Zeitpunkt gelangten welche Verdachtsmomente der Behörde zur Kenntnis? Bitte zeitlichen Ablauf darlegen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es lagen in mehreren, einem größeren Personenkreis innerhalb der BGV zugänglichen Dateien konkrete Anhaltspunkte für die Verletzung arbeitsvertraglicher Pflichten vor. Im Übrigen siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51407"
@@ -53,7 +54,7 @@ Wie hat sich die Anzahl der Einwohnerinnen und Einwohner der Hafen- City in den 
 
 Wie hat sich die Altersstruktur der Einwohnerinnen und Einwohner in der HafenCity in den vergangenen fünf Jahren entwickelt? Bitte jeweils zum Stichtag 31. Dezember für die Altersgruppen null Jahre bis unter einem Jahr, ein Jahr bis unter zwei Jahre, drei bis unter vier Jahre, vier bis unter fünf Jahre, fünf bis unter sechs Jahre, sechs bis unter sieben Jahre, sieben bis unter acht Jahre, acht bis unter neun Jahre, neun bis unter zehn Jahre, zehn bis zwölf Jahre, 13 bis 17 Jahre, 18 bis 21 Jahre, 22 bis 28 Jahre, 29 bis 40 Jahre, 41 bis 65 Jahre, 66 bis 80 Jahre und älter als 80 Jahre angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Einwohner in der Hafencity nach Altersstruktur und insgesamt in den letzten 5 Jahren jeweils zum
 

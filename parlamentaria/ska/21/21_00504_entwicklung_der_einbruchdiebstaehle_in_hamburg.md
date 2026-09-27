@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14158", "16/4616", "20/5370", "20/7069", "20/8345", "20/9977", "20/10955", "20/12247", "20/13255", "20/14519", "20/8878", "20/11022", "20/14198"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48653"
@@ -71,15 +72,15 @@ lung. In der PKS erfolgen unterjährige Auswertungen immer kumulativ; es wird im
 
 Für die Fallzahlen und Aufklärungsquoten für
 
- das Jahr 2012 siehe Drs. 20/5370 (Januar bis Juni) und Drs. 20/7069 (2012
+– das Jahr 2012 siehe Drs. 20/5370 (Januar bis Juni) und Drs. 20/7069 (2012
 
 gesamt),
 
- das Jahr 2013 siehe Drs. 20/8345 (Januar bis März), Drs. 20/9977 (Januar bis
+– das Jahr 2013 siehe Drs. 20/8345 (Januar bis März), Drs. 20/9977 (Januar bis
 
 September) sowie Drs. 20/10955 (2013 gesamt)
 
- das Jahr 2014 siehe Drs. 20/12247 (Januar bis März), Drs. 20/13255 (Januar bis
+– das Jahr 2014 siehe Drs. 20/12247 (Januar bis März), Drs. 20/13255 (Januar bis
 
 September) und Drs. 20/14519 (Januar bis Juni und 2014 gesamt).
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9862"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58940"
@@ -43,7 +44,7 @@ In wie vielen Fällen wurde den unter 2. erwähnten 38 Anträgen nach § 100g St
 
 Aufgrund welcher strafrechtlichen Vorwürfe wurde jeweils eine FZA angeordnet? Welcher zeitliche und örtliche Bereich war von den Anordnungen betroffen? Bitte nach den einzelnen Anordnungen aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine Beantwortung der Fragen ist wegen Gefährdung des Untersuchungszwecks der Verfahren, in denen Anträge nach § 100g der Strafprozessordnung (StPO) gestellt wurden, nicht möglich.
 

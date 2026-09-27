@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 33
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10409"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62483"
@@ -161,7 +162,7 @@ Ausweislich der Antwort auf unserer Anfrage vom 26.09.2017 (Drs. 21/10409) verf�
 
 Waren die Tatbeobachter/-innen während ihres Einsatzes bewaffnet? Wenn ja, welche Waffen und andere Einsatzmittel hatten die Tatbeobachter/-innen bei sich geführt? Sind bewaffnete Tatbeobachter/-innen in irgendeiner Form gekennzeichnet?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Siehe Antwort zu 1. bis 5.
 

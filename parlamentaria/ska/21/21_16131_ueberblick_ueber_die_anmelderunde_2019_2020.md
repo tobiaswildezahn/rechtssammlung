@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3866", "21/3212", "21/8007", "21/11992", "20/14665", "21/16", "21/12258"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65638"
@@ -115,6 +116,6 @@ Wann genau liegt dem Senat eine vollständige Organisationslage der Grundschulen
 
 Sollte der Senat sich noch nicht abschließend zu den Ergebnissen der Anmelderunde äußern können: Wann wird er hierzu auskunftsfähig sein?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Versand der Bescheide setzt eine endgültige Organisationslage voraus und stellt das Ende des Schulorganisationsverfahrens dar. Analog zum Schuljahr 2018/2019 ist geplant, die Bescheide für die Aufnahme in die Klassen 1 und in die Vorschulklassen in der 13. Kalenderwoche zu versenden. Die Bescheide für die Aufnahme in die Klasse 5 sollen erheblich früher als im Vorjahr versendet werden, hier ist ein Versand in der 15. Kalenderwoche geplant (Vorjahr 17. Kalenderwoche).

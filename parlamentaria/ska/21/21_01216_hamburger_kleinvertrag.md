@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10825"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49406"
@@ -47,15 +48,15 @@ Der Wert eines Zeitvertrages berechnet sich bei der durchzuführenden Auftragswe
 
 Ein Einzelauftrag darf bei Zeitverträgen die Wertgrenze von 25.000 Euro (ohne USt) im Hochbau, Garten-/Landschaftsbau und Ingenieurbau nicht überschreiten. Es bestehen jedoch folgende Ausnahmen:
 
- Wertgrenze 125.000 Euro (ohne USt) im Tief- und Ingenieurbau für Einzelaufträge
+– Wertgrenze 125.000 Euro (ohne USt) im Tief- und Ingenieurbau für Einzelaufträge
 
 bei Zeitverträgen, die im Angebotsverfahren zustande gekommen sind;
 
- Wertgrenze 5.000 Euro (ohne USt) im Hochbau und Garten-/Landschaftsbau für
+– Wertgrenze 5.000 Euro (ohne USt) im Hochbau und Garten-/Landschaftsbau für
 
 Einzelaufträge bei Zeitverträgen, die nach einer Preisumfrage zustande gekommen sind;
 
- Wertgrenze 5.000 Euro (ohne USt) im Einzelfall für Einzelaufträge bei Zeitverträ-
+– Wertgrenze 5.000 Euro (ohne USt) im Einzelfall für Einzelaufträge bei Zeitverträ-
 
 gen, für kleine Neu-, Um- und Erweiterungsbauten im Hochbau und Garten-/ Landschaftsbau.
 
@@ -109,9 +110,9 @@ Welche Rechtsgrundlagen und Dienstvorschriften gibt es für die freihändige Ver
 
 Bei freihändigen Vergaben gelten folgende
 
-• Rechtsgrundlagen: § 3 Absatz 5 VOB/A, § 2a HmbVgG.
+– Rechtsgrundlagen: § 3 Absatz 5 VOB/A, § 2a HmbVgG.
 
-• Dienstvorschriften: Ziffern 6.2.1, 6.3.2 und 6.8.5 „Allgemeine Richtlinie und Hinweise zur Anwendung der Vergabe- und Vertragsordnung für Bauleistungen (VOB Teil A) des Bauhandbuchs“ (Verwaltungsvorschriften über die Durchführung von Bauaufgaben der Freien und Hansestadt Hamburg, VV-Bau, Stand:03.06.2015).
+– Dienstvorschriften: Ziffern 6.2.1, 6.3.2 und 6.8.5 „Allgemeine Richtlinie und Hinweise zur Anwendung der Vergabe- und Vertragsordnung für Bauleistungen (VOB Teil A) des Bauhandbuchs“ (Verwaltungsvorschriften über die Durchführung von Bauaufgaben der Freien und Hansestadt Hamburg, VV-Bau, Stand:03.06.2015).
 
 Für Regelungen und den entsprechenden Texten siehe folgende Links:
 

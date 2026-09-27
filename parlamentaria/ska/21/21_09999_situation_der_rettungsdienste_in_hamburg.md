@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 25
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6261", "21/8247", "21/8801", "21/6399"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58819"
@@ -101,39 +102,39 @@ Welche Unternehmen und Organisationen bieten derzeit Krankentransportfahrten in 
 
 Folgende Unternehmen besitzen eine Genehmigung für die Durchführung von Krankentransportfahrten außerhalb des öffentlichen Rettungsdienstes:
 
- Ambulance Köpke GmbH
+– Ambulance Köpke GmbH
 
- Ambulanz Akut e.K.
+– Ambulanz Akut e.K.
 
- Ambulanz Hamburg Döpke e.K.
+– Ambulanz Hamburg Döpke e.K.
 
- Ambulanz Schrörs e.K.
+– Ambulanz Schrörs e.K.
 
- ASG Ambulanz OHG
+– ASG Ambulanz OHG
 
- Blauer Kreis GmbH
+– Blauer Kreis GmbH
 
- DKT Die Krankentransport GmbH
+– DKT Die Krankentransport GmbH
 
- G.A.R.D. Gemeinnützige Ambulanz- und Rettungsdienst GmbH
+– G.A.R.D. Gemeinnützige Ambulanz- und Rettungsdienst GmbH
 
- G.A.R.D. Gesellschaft für Ambulanz- und Rettungsdienst Hamburg-Ost mbH
+– G.A.R.D. Gesellschaft für Ambulanz- und Rettungsdienst Hamburg-Ost mbH
 
- HKB Hanseatische Krankenbeförderung GmbH
+– HKB Hanseatische Krankenbeförderung GmbH
 
- KBS – Krankenbeförderung Süßmann GbR
+– KBS – Krankenbeförderung Süßmann GbR
 
- Krankenbeförderung Hermann
+– Krankenbeförderung Hermann
 
- KTP Krankentransport Wolfgang Pohl KG
+– KTP Krankentransport Wolfgang Pohl KG
 
- Medi KT Krankenwagendienst e.K.
+– Medi KT Krankenwagendienst e.K.
 
- 29 29 10 Krankentransport GmbH & Co. KG
+– 29 29 10 Krankentransport GmbH & Co. KG
 
- Phoenix Ambulanz OHG
+– Phoenix Ambulanz OHG
 
- ASG Ambulanz Nord gGmbH
+– ASG Ambulanz Nord gGmbH
 
 ### Frage 3
 
@@ -251,7 +252,7 @@ Wie hat sich die Zahl der Fehleinsätze, bei denen das alarmierte Rettungsdienst
 
 Mit welchen konkreten Maßnahmen wird derzeit versucht, die Zahl der Fehleinsätze zu minimieren? Welche Maßnahmen sind hierzu zukünftig geplant?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Der Begriff „Fehleinsatz“ wird bei der Feuerwehr Hamburg genutzt, um unterschiedliche Sachverhalte zu kennzeichnen, bei denen das alarmierte Rettungsdienstpersonal nicht tätig wird. Es wird nach folgenden Sachverhalten differenziert:
 

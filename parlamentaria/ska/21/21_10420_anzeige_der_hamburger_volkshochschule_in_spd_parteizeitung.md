@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59290"
@@ -59,7 +60,7 @@ Welcher Betrag wurde der SPD Hamburg beziehungsweise dem Verleger der SPD-Zeitsc
 
 Wann hat die Volkshochschule Hamburg seit 2010 in SPD-Zeitschriften oder anderen parteinahen Zeitungen Anzeigen geschaltet? Bitte aufschlüsseln nach Datum der Anzeige, Titel der Zeitschrift, gezahlter Betrag für die Anzeige durch die VHS.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Datum  
 Titel  

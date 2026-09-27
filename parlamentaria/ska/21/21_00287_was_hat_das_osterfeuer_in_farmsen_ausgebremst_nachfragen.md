@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/195"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48416"
@@ -51,7 +52,7 @@ Wie viele Osterfeuer wurden im Bezirksamt Wandsbek 2015 beantragt?
 
 Wie viele Osterfeuer wurden im Bezirksamt Wandsbek 2015 genehmigt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Zusammenhang mit der Absicht, ein Osterfeuer zu veranstalten, sind beim zuständigen Bezirksamt für den 4. April 2015 neun Anträge auf gaststättenrechtliche Gestattungen zum Ausschank alkoholischer Getränke eingegangen sowie sieben Anträge auf Sondernutzungserlaubnis öffentlicher Flächen, siehe Anlage. Die Anträge wurden genehmigt. Im Übrigen siehe Drs. 21/195.
 

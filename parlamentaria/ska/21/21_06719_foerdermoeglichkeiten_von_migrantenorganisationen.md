@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 23
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3150", "21/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55304"
@@ -93,7 +94,7 @@ b) Wie hoch ist das Zuwendungsvolumen jeweils?
 c) Wie lauten die Kontaktdaten der jeweiligen Ansprechpartner?
 d) Welche Grundvoraussetzungen müssen erfüllt sein, um als förderfähig zu gelten?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Besondere Förderprogramme im Sinne der Fragestellung gibt es in diesen Behörden nicht. Im Übrigen siehe Vorbemerkung.
 

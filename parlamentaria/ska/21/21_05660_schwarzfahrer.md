@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54162"
@@ -144,7 +145,7 @@ Wie viele Mitarbeiter in VZÄ waren bei diesen Unternehmen in den genannten Jahr
 
 Wie viele Fahrgäste kamen bei diesen Unternehmen in den genannten Jahren auf einen Kontrolleur? Bitte gegebenenfalls wie in Frage 4. gewichtete VZÄ verwenden und nach Jahren und Unternehmen aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Anzahl der eingesetzten Mitarbeiterinnen und Mitarbeiter ergibt sich aus der Vorgabe des HVV für zu leistende Prüfstunden. Der HVV gibt jährliche Mindestprüfstunden vor, die nach Fahrgastentwicklung fortgeschrieben werden. Eine genaue Zahl der Prüfdienstmitarbeiterinnen und Prüfdienstmitarbeiter kann nicht angegeben werden. Dies resultiert aus Mischarbeitsplätzen der Sicherheitsdienste und der VHH-Mitarbeiterinnen und -Mitarbeiter, welche die Aufgaben des Fahrens, des Sicherheitsdienstes und des Prüfens gleichermaßen beinhalten.
 

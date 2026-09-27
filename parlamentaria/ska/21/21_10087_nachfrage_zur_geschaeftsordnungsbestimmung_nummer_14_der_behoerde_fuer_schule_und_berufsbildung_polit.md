@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58911"
@@ -65,7 +66,7 @@ Teilt der Senat die Rechtsauffassung des Referats für Ministerial- und Rechtsan
 
 Wie vereinbart der Senat – sollte er die Auffassung der BSB teilen – diese Ansicht mit der in der in der Dienst- und Fachaufsichtsbeschwerde zitierten Rechtsprechung des BVerfG (erstes Zitat in dieser Einleitung)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

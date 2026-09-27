@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52111"
@@ -59,7 +60,7 @@ Gibt es Anweisungen, wie zu verfahren ist, wenn an überraschend viele Fahrgäst
 
 Wie wird verfahren, wenn Fahrgäste mangels Wechselgeld des Fahrers keine Fahrkarte kaufen können?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Für den Fall, dass nicht mehr ausreichend Wechselgeld vorhanden sein sollte, besteht die Anweisung, Fahrgästen Wechselgeldquittungen auszuhändigen. Diese Wechselgeldquittungen können bei jeder HVV-Servicestelle sowie bei dem ausgebenden Unternehmen eingelöst werden.
 

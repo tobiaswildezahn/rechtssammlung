@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10859", "21/10886", "21/10470", "21/7398"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59984"
@@ -49,7 +50,7 @@ Inwiefern kann sich die hsh portfoliomanagement AöR aus Sicht des Senats oder d
 
 Inwiefern kann sich die hsh portfoliomanagement AöR aus Sicht des Senats oder der zuständigen Behörde bei der Beantwortung der in Drs. 21/10859 gestellten Frage 3. auf den Schutz von Betriebs- und Geschäftsgeheimnissen berufen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Dem parlamentarischen Informationsrecht unterliegt allein der Senat. Stehen dem Senat Informationen zur Verfügung, die ein Betriebs- oder Geschäftsgeheimnis der hsh portfoliomanagement AöR enthalten, kann er die Weitergabe dieser Informationen im Rahmen der Beantwortung einer Parlamentarischen Frage aus Gründen des Staatswohls verweigern, wenn fiskalische Interessen des Staates durch die Veröffentlichung dieser vertraulichen Informationen berührt werden,, vergleiche Bundesverfassungsgericht Urteil vom 7. November 2017 - 2 BvE 2/11- juris Rn 281. Bei Auskunftsersuchen kann sich die hsh porfoliomanagement AöR unter den Voraussetzun-
 

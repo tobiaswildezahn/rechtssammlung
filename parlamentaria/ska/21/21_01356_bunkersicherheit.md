@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1311"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49552"
@@ -44,7 +45,7 @@ Wie lange mussten die Anwohner/-innen in Rothenburgsort warten, bis sie wieder i
 
 Was war für diese Entscheidung der Behörden ausschlaggebend?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Kontrollmessungen ergaben, dass keine Schadstoffe mehr nachweisbar sind, die eine gesundheitliche Beeinträchtigung der Bewohner erkennen lassen. Für eine abschließende Freigabe der Wohnungen ist die Begutachtung durch einen Brandsachverständigen erforderlich. Deren Ergebnisse werden voraussichtlich in der 35. Woche vorliegen.
 
@@ -219,6 +220,6 @@ Falls aktuell bekannt: Wie viele und welche Bunker dienen in Hamburg gewerbliche
 
 In wessen Eigentum befinden sich diese Bauten?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Drs. 21/1311.

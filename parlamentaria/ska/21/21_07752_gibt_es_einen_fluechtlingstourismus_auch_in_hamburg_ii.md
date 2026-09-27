@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7577", "21/5987"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56411"
@@ -43,6 +44,6 @@ Haben der Senat oder die ihm nachgeordneten Behörden (insbesondere die Behörde
 
 Haben sich diese Hinweise bestätigt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/7577 und Drs. 21/5987. Über die in der Drs. 21/5987 enthaltenen Angaben hinaus liegen der zuständigen Behörde Informationen im Sinne der Fragestellung nicht vor. Sicherheitsbehörden übermitteln im Rahmen der gesetzlichen Bestimmungen entsprechend der Aufgabenstellung der Ausländerbehörde Informationen zu unterschiedlichsten Sachverhalten. Diese werden einzelfallbezogen bewertet und erfasst, aber nicht systematisch und abfragbar dokumentiert und erfasst. Eine Antwort im Sinne der Fragestellung würde daher die Durchsicht mehrerer Tausend Akten erfordern und ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62850"
@@ -44,7 +45,7 @@ Wie viele der frei finanzierten Acht-Euro-Mietwohnungen wurden bereits wo gescha
 
 Wie viele der frei finanzierten Acht-Euro-Mietwohnungen sind derzeit wo im Bau? Bitte Stadtteil und dortige Lage angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Folgende Bauvorhaben sind im Bau:
 

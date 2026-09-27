@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3516", "21/3635", "21/6569"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56285"
@@ -71,7 +72,7 @@ Was unternehmen die Feuerwehr und/oder der Senat beziehungsweise die zuständige
 
 Sind dem Senat beziehungsweise der zuständigen Behörde die Ergebnisse der Studie von Frau Dressler bekannt? Wenn ja: Sind die Ergebnisse in die aktuelle Risiko-Prognose eingeflossen und werden sie in der Gestaltung des Sicherheitskonzepts berücksichtigt? Bitte ausführen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Alle Laufbahnbewerberinnen und -bewerber der Laufbahngruppe 2.1 sowie die Auszubildenden (Notfallsanitäterinnen und -sanitäter) der Feuerwehr Hamburg nehmen an Deeskalationsschulungen teil.
 

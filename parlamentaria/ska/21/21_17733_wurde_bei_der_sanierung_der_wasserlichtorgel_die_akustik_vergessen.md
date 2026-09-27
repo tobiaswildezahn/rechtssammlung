@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11474", "21/17031"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67335"
@@ -57,7 +58,7 @@ Aus welchem Jahr stammt die Soundanlage?
 
 Drs. 21/17031 erwähnt, welche Maßnahmen im Rahmen der Sanierung ergriffen wurden. Die Soundanlage wird hier nicht erwähnt. Warum wurde diese nicht erneuert?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 In der Drs. 21/17031 wird über das Bürgerschaftliche Ersuchen Drs. 21/11474 berichtet. Die Tontechnik war nicht Gegenstand des Ersuchens.
 
@@ -79,6 +80,6 @@ Welche Kosten würden eine Überarbeitung des Konzepts und eine neue Soundanlage
 
 Wäre es möglich, dass ein Sponsor bei der Erarbeitung eines Soundkonzeptes unterstützt und die Finanzierung der Soundanlage übernimmt? Wenn ja, warum wurde dies bisher nicht realisiert? Wenn nein, warum ist dies nicht möglich?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Weder eine erneute Überarbeitung des Konzeptes noch eine neue Soundanlage sind derzeit erforderlich. Im Übrigen siehe auch Vorbemerkung sowie Antwort zu 4.

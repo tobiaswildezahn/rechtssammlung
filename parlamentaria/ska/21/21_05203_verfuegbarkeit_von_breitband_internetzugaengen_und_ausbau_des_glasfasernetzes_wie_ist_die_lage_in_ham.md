@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 18
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1651", "21/2726", "21/3538", "21/4736"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53687"
@@ -79,7 +80,7 @@ Wie ist insgesamt der Ausbau der Glasfasernetze im Jahr 2015 im Vergleich zu 201
 
 Wann erfolgten beziehungsweise erfolgen welche Maßnahmen für einen zügigen Ausbau der Glasfasernetze in der FHH im Jahr 2016?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Hierzu haben die Telekommunikationsnetzbetreiber keine hinreichend konsolidierbaren und differenzierten Angaben zur Verfügung gestellt. Legt man die von verschiedenen Netzbetreibern gegebenen Informationen übereinander, ergibt sich rückblickend, dass im Jahr 2015 mindestens 80 km Glasfaserleitungen in Hamburg zusätzlich verlegt wurden. Dabei ist zu beachten, dass die Netzbetreiber je nach Technologie und Marktausrichtung unterschiedliche Ausbaustrategien verfolgen. Bei Bestandsnetzen mit Kupferleitungsanteilen erfolgen generelle Aufrüstungsmaßnahmen, bei denen sukzessive Kupferstrecken durch Glaserleitungen ersetzt werden, um die Leistungsfähigkeit zu steigern. Dies führt in der Regel nicht zu FTTH/B-Anschlüssen, sondern zu einer Verkürzung der leistungsdämpfenden Kupferstrecken. Anbieter mit reinen Glasfasernetzen bauen ihre Netze hingegen nahezu ausschließlich auf der Grundlage konkreter Aufträge von zum Beispiel Wohnungsbaugesellschaften oder Geschäftskunden aus, dann aber als FTTH/B-Ausbau bis zu den Anschlussnehmern. Für das Jahr 2016 lassen sich vergleichbare Rückschlüsse noch nicht ziehen. Die in der Antwort zu 2. erwähnten Fördermaßnahmen werden ab 2017 zu konkreten Netzausbauten führen.
 

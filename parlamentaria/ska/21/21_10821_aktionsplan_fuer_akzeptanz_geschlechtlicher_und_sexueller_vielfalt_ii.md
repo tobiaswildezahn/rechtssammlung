@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59734"
@@ -63,7 +64,7 @@ Wie ist die Resonanz auf die Plattform „Runder Tisch Transidentität“?
 
 Wie viele Akteure sind bis dato über „selbstbewusst trans* vernetzt? Wie schätzen die Projektmitarbeiter das weitere Vernetzungspotenzial ein?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Runde Tisch wird sowohl von transgeschlechtlichen Menschen als auch von Personen, die mit der Thematik befasst sind, regelmäßig als Austauschforum genutzt. Auch die im Rahmen der Akzeptanzarbeit kontaktierten Institutionen und Personen suchen vermehrt den Runden Tisch auf, um weitere Informationen zu erhalten und als Multiplikatoren in ihrem Handlungsfeld zu agieren. Es sind 69 Organisationen, Institutionen, Gruppen und Akteure/-innen (vor allem niedergelassene Behandler/-innen) über den Runden Tisch vernetzt. Der Träger des Projektes teilt auf Nachfrage mit,
 

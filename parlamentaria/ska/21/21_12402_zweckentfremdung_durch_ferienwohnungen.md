@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5902", "20/13444", "21/1908"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61694"
@@ -59,7 +60,7 @@ Die Überlassung von Wohnraum an wechselnde Benutzer zum Zwecke eines lediglich 
 
 Aus § 15 Absatz 3 HmbWoSchG folgt, dass Ordnungsgelder in Höhe von bis zu 50.000 Euro verhängt werden können. In welchen der oben genannten Fälle wurden Ordnungsgelder verhängt? Welche Höhe hatten diese jeweils?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Folgende Verstöße wurden seitens der Bezirke statistisch erfasst:
 

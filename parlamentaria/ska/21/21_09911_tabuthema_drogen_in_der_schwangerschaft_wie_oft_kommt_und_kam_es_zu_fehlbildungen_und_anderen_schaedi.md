@@ -14,6 +14,7 @@ fragen: 41
 einzelfragen: 41
 antwortbloecke: 40
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/1482", "20/5224", "20/6369"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58731"
@@ -123,11 +124,11 @@ on seit Jahren in entsprechenden Fortbildungsveranstaltungen Lehrkräfte und pä
 
 So können Pädagoginnen und Pädagogen sich zum Beispiel in folgenden Fortbildungen kundig machen:
 
-• „Legale und illegale Drogen – Substanzen, Wirkungen und Risiken“
+– „Legale und illegale Drogen – Substanzen, Wirkungen und Risiken“
 
 In dieser ganztägigen Fortbildung für pädagogische Fachkräfte im sozialpädagogischen Aus- und Fortbildungszentrum im Südring werden auch die Risiken des Subtanzkonsums (Amphetamine, Halluzinogene, Neue Psychoaktive Substanzen (NPS), Opiate, Kokain, Cannabis, Alkohol) in der Schwangerschaft angesprochen.
 
-• „Badesalze, Kräutermischungen, Amphetamine, KO-Tropfen und Co…“
+– „Badesalze, Kräutermischungen, Amphetamine, KO-Tropfen und Co…“
 
 Hierbei handelt es sich um ein regelmäßiges Fortbildungsangebot des SPZ/LI, in dem auch auf mögliche Auswirkungen des Konsums von NPS in der Schwangerschaft hingewiesen wird.
 
@@ -137,7 +138,7 @@ Außerdem stellt das SPZ Schulen Unterrichtsangebote zur Suchtprävention in der
 
 Im Rahmen der Überarbeitung dieser Lernarrangements für das Schuljahr 2017/2018 werden die Themen „Rauchen und Schwangerschaft“ sowie „Alkohol und Schwangerschaft“ explizit ausgewiesen.
 
-• Im Stationen-Parcours zur Suchtprävention ab der Jahrgangsstufe 10 werden die Gefahren durch Rauchen, Alkohol trinken und Cannabiskonsum in der Schwangerschaft in den Schülergesprächen regelhaft thematisiert.
+– Im Stationen-Parcours zur Suchtprävention ab der Jahrgangsstufe 10 werden die Gefahren durch Rauchen, Alkohol trinken und Cannabiskonsum in der Schwangerschaft in den Schülergesprächen regelhaft thematisiert.
 
 Weiterhin werden Schulen Materialien der BZgA und der Deutschen Hauptstelle für Suchtfragen e.V. (DHS) empfohlen, zum Beispiel die Publikation
 
@@ -145,11 +146,11 @@ Weiterhin werden Schulen Materialien der BZgA und der Deutschen Hauptstelle für
 
 Informationen und Hilfen für Drogen, Alkohol und Nikotin konsumierende Schwangere.
 
-• Alkohol? Kenn dein Limit: Andere Umstände – neue Verantwortung
+– Alkohol? Kenn dein Limit: Andere Umstände – neue Verantwortung
 
 Informationen und Tipps zum Alkoholverzicht während der Schwangerschaft und Stillzeit.
 
-• „Ich bekomme ein Baby“ rauchfrei in der Schwangerschaft.
+– „Ich bekomme ein Baby“ rauchfrei in der Schwangerschaft.
 
 Für das schulische Personal hält die für Bildung zuständige Behörde folgendes Angebot bereit:
 
@@ -519,7 +520,7 @@ Welche Studien beziehungsweise Untersuchungen zum NPS-Konsum in der Schwangersch
 
 Welche Schädigungen, Krankheiten, Syndrome oder Ähnliches resultieren nach dem aktuellen Stand der Forschung aus dem NPS-Konsum während der Schwangerschaft und wie häufig treten diese Fälle schätzungsweise bei 1.000 Geburten im Durchschnitt auf?
 
-#### Antwort zu Fragen 37 bis 38
+#### Antwort zu Fragen 37 und 38
 
 Nicht bekannt.
 

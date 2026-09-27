@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48723"
@@ -47,11 +48,11 @@ Der zuständigen Behörde liegen hierzu keine Daten vor. Die vorliegenden Daten 
 
 In Hamburg sind derzeit zwei Blutspendedienste ansässig:
 
- Zentralinstitut für Transfusionsmedizin GmbH – Blutspendedienst Hamburg (ZIT)
+– Zentralinstitut für Transfusionsmedizin GmbH – Blutspendedienst Hamburg (ZIT)
 
 und
 
- Universitätsklinikum Hamburg-Eppendorf, Institut für Transfusionsmedizin (UKE)
+– Universitätsklinikum Hamburg-Eppendorf, Institut für Transfusionsmedizin (UKE)
 
 Der DRK Blutspendedienst Nord-Ost gGmbH (DRK) ist ebenfalls in Hamburg mit mobilen Entnahmestellen tätig, hat seinen Gesellschaftssitz jedoch in Dresden.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68879"
@@ -57,7 +58,7 @@ Wie hoch schätzt der Senat die Sicherheit der jeweilig gewählten Übermittlung
 
 Werden bestimmte Dokumente, wie etwa Strafanzeigen, unter gesonderten Sicherheitsvorkehrungen versandt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Innerhalb des Vorgangsbearbeitungssystems ComVor und der sonstigen Systeme im Sinne der Fragestellung findet keine Übermittlung im technischen Sinne statt, die Daten verbleiben stets im System. Sämtliche polizeilichen Systeme werden im polizeieigenen Netzwerk und im zertifizierten Rechenzentrum des Dienstleisters Dataport betrieben. Die Überstellung mittels Stafette erfüllt die datenschutzrechtlichen Gewährleistungsziele. ComVor sowie der Stafettenweg erfüllen den Schutzbedarf „hoch“, betreffend die Vertraulichkeit bis „sehr hoch“. Der polizeiliche Datenaustausch über polizeiliche Verbundsysteme und EPOST810 erfolgt ausschließlich über polizeiliche Verbundnetzwerke, die mittels für VS-NfD zugelassener Verschlüsselungsverfahren
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62240"
@@ -41,11 +42,11 @@ Die Vorarbeiten für das naturschutzrechtliche Ausgleichskonzept wurden in 2017 
 
 Da das Feinkonzept noch nicht vorliegt, wird hier das Arbeitsprogramm wie folgt skizziert:
 
- Erarbeitung einer Ausgleichskonzeption für Billwerder mit Darstellung des arten-
+– Erarbeitung einer Ausgleichskonzeption für Billwerder mit Darstellung des arten-
 
 schutzrechtlichen Ausgleichs.
 
- Anwendung der Eingriffsregelung mit Ausgleichs- und Ersatzmaßnahmen. Dies ist
+– Anwendung der Eingriffsregelung mit Ausgleichs- und Ersatzmaßnahmen. Dies ist
 
 erst nach Abschluss des wettbewerblichen Dialogs Oberbillwerder möglich, wenn entschieden ist, aus welchem planerischen Entwurf der Masterplan entwickelt werden soll. Gleiches gilt für die Erarbeitung eines Vernetzungskonzeptes für den Landschaftskorridor (Allermöhe/Boberger Niederung)
 

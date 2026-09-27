@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57558"
@@ -47,7 +48,7 @@ Wie hoch sind die Baggermengen in 2017, die von der Fahrrinne vor dem Kraftwerk 
 
 Welche Kosten sind bisher in 2017 dafür entstanden, dass die Baggermengen von Frage 1. von dem Hamburger Gebiet vor dem Kraftwerk Wedel ins Umfeld der Verklappungsstelle, bis zu 2 Kilometern elbaufund elbabwärts, verbracht worden sind?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Fahrrinne vor dem Kraftwerk Wedel liegt im originären Zuständigkeitsbereich des Bundes.
 

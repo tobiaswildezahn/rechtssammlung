@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 23
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8067", "20/13206"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51274"
@@ -131,7 +132,7 @@ Wie verläuft der Baufortschritt der einzelnen Projektabschnitte? Bitte einzeln 
 
 Seit Baubeginn der Verlegung der Wilhelmsburger Reichsstraße sind folgende Bauarbeiten in Angriff genommen worden:
 
- Lärmschutzmaßnahmen
+– Lärmschutzmaßnahmen
 
 ‐ Neubau von Lärmschutzwänden (LSW) im Bereich Katenweg und Siebenbrüderweide zwischen neben dem S-Bahn-Gleis und zwischen dem S-Bahn-Gleis und dem Gütergleis
 
@@ -139,7 +140,7 @@ Seit Baubeginn der Verlegung der Wilhelmsburger Reichsstraße sind folgende Baua
 
 ‐ Neubau einer LSW im Bereich Vogelhüttendeich
 
- Baufeldfreimachung (Rückbau/Abriss und Herrichten des Baufeldes)
+– Baufeldfreimachung (Rückbau/Abriss und Herrichten des Baufeldes)
 
 ‐ Umfangreiche Kampfmittelsondierungen und -beräumung in den Bereichen
 
@@ -153,7 +154,7 @@ der Lärmschutzwände, Gleisrückbau und Kabeltrassenneubau,
 
 ‐ Rückbau/Abriss und Herrichten des Baufeldes der betroffenen Kleingärten
 
- Arbeiten im Bereich der zukünftigen Straßentrasse
+– Arbeiten im Bereich der zukünftigen Straßentrasse
 
 ‐ Baugrundverbesserung.
 
@@ -165,13 +166,13 @@ hungsweise großer Entwässerungsgraben in Marschgebieten) im Bereich der Kornwe
 
 ‐ vorbereitende Arbeiten für den Umbau der Anschlussstelle Wilhelmsburg-Süd
 
- Konstruktive Bauwerke
+– Konstruktive Bauwerke
 
 ‐ Es laufen die Gründungsarbeiten beim Neubau der Ernst-August-Kanal-
 
 Brücke und der beiden Bahnbrücken in der Hafenbahnzufahrt Hohe Schaar
 
- Rückbau und Anpassung der Bahnmaßnahmen
+– Rückbau und Anpassung der Bahnmaßnahmen
 
 ‐ Rückbau von Gleisanlagen im mittleren Abschnitt
 

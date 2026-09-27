@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5647"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56325"
@@ -49,7 +50,7 @@ Wie viele Schülerinnen und Schüler mit welchem sonderpädagogischem Förderbed
 
 Um welchen sonderpädagogischen Förderbedarf handelte es sich jeweils? Bitte sowohl in absoluten Zahlen als auch prozentual angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

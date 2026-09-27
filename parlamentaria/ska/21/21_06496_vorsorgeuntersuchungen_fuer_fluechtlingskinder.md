@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10665"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55028"
@@ -78,7 +79,7 @@ Wie viele der in Hamburg lebenden Kinder haben jeweils an den Vorsorgeuntersuchu
 
 Wie viele Jugendliche nehmen die J1 Untersuchung in Anspruch und wie viele davon sind Flüchtlinge?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die KVH hat hierzu übermittelt, dass ausschließlich Zahlen basierend auf Abrechnungsdaten der KVH für Leistungsberechtigte nach dem AsylbLG mit Ausnahme der Leistungsempfänger nach § 2 AsylbLG und unbegleitete minderjährige Flüchtlinge vorliegen. Sie betreffen nur den niedergelassenen Bereich und enthalten darüber hinaus nicht die Vorsorgeuntersuchungen von gesetzlich versicherten Flüchtlingen (SGB- II-Leistungsbezieher).
 

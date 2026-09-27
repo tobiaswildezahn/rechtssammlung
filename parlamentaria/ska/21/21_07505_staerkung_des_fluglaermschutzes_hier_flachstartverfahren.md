@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4209"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56114"
@@ -69,7 +70,7 @@ Welche Erkenntnisse haben Senat beziehungsweise zuständige Stellen hinsichtlich
 
 Seit wann und in welche Richtung wird das sogenannte Flachstartverfahren am Hamburg Airport angewendet?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nach Abschluss eines zwölfmonatigen Probebetriebs am Flughafen Frankfurt hat die Deutsche Lufthansa AG das sogenannte Flachstartverfahren am 10. September 2014 deutschlandweit eingeführt. Nationale oder internationale Vergleiche zur Entwicklung des Flachstartverfahrens liegen nicht vor. Am Standort Hamburg kann das sogenannte Flachstartverfahren von den Airlines grundsätzlich in alle Abflugrichtungen angewendet werden. Untersuchungen der FHG belegen, dass dieses Verfahren allerdings vorrangig in Startrichtung 23 zur Anwendung kommt.
 

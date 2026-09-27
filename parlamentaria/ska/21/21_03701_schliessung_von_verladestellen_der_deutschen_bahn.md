@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52073"
@@ -49,7 +50,7 @@ Welche Verladestationen betreibt die Deutsche Bahn derzeit im Großraum Hamburg?
 
 Wie groß ist jeweils derzeit der Umschlag?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ladestellen werden von der DB AG in Hamburg nicht betrieben. Im Übrigen siehe:
 

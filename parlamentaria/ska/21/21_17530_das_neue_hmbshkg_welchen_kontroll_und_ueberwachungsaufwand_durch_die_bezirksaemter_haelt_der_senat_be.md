@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17023"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67122"
@@ -91,7 +92,7 @@ Mit Inkrafttreten des HmbShKG sind alle Shisha-Einrichtungen Hamburgs gleichzeit
 
 Bis zu welchem (gegebenenfalls ungefähren) Zeitpunkt sollte nach den Umsetzungsvorstellungen des Senats jede in Hamburg ansässige Shisha-Einrichtung spätestens wenigstens einmal nach Maßgabe des HmbShKG kontrolliert worden sein?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Kontrolle von Shisha-Einrichtungen erfolgt risikobasiert (siehe Drs. 21/17023). Mit Inkrafttreten des HmbShKG stehen alle Betreiberinnen und Betreiber von Shisha- Einrichtungen in der Pflicht, ihren Betrieb gemäß § 3 bei den Bezirksämtern anzuzeigen. Diese Informationen werden von den Bezirksämtern geprüft und bewertet. Ergeben sich Anhaltspunkte für eine Nichteinhaltung von Anforderungen nach dem Gesetz, insbesondere von § 4 Satz 1, so werden diese Shisha-Einrichtungen kontrolliert.
 

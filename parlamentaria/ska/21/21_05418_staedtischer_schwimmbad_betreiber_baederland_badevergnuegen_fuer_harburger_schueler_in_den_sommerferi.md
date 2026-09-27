@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4979"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53905"
@@ -49,7 +50,7 @@ Welche Maßnahmen hat der Senat beziehungsweise die zuständige Behörde bereits
 
 In welchen Bädern Hamburgs ist welcher vergünstigte Eintrittspreis für Schüler erzielt worden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die zuständige Behörde hat die BLH aufgefordert, während der Sommerferien die Kinder-Eintrittspreise für Freibad- und Kombianlagen sowie Regionalhallenbäder so zu rabattieren, dass bei einer regelmäßigen Nutzung ein durchschnittlicher Eintrittspreis dieser Bädertypen um 1,40 Euro erreicht werden kann. Dazu konnte eine möglichst niedrigschwellige, einfache und flexible Lösung gefunden werden. Mittels der Bäderland Ferien Card wird der täglich einmal mögliche Eintritt an zehn aufeinanderfolgenden Tagen zum Gesamtpreis von 14 Euro angeboten. Es können beliebig viele Karten erworben werden. Die Karte ist jederzeit an den Kassen der 18 teilnehmenden Bäder erhältlich. Nutzerinnen und Nutzer können im Hinblick auf die familiäre Urlaubsplanung oder der Wettersituation selbst entscheiden, ob und wann die festgelegte Nutzungsdauer beginnen soll. Die Karte ist übertragbar. Im Vergleich zum regulären Eintrittspreis der Regional- und Kombihallenbäder ermöglicht sie einen Rabatt von rund 55 Prozent für alle Kinder unter 16 Jahren.
 
@@ -73,7 +74,7 @@ Werden die Vergünstigungen für diese Bäder zu einem späteren Zeitpunkt noch 
 
 Welche Begründung gibt es für die Nichtumsetzung des bürgerschaftlichen Beschlusses?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Eine Umsetzung der Vergünstigungen ist für die in der Antwort zu 3. genannten Bäder nicht geplant. Gemäß Drs. 21/4979 soll eine „möglichst niedrigschwellige, einfache und flexible Lösung“ die Rabattierung ermöglichen. Die in der Antwort zu 3. genannten Bäder wurden aus systemtechnischen Gründen ausgenommenen, da ihre Eintrittspreise an einen Zeittakt gebunden sind, der einer „einfachen und flexiblen Lösung“ entgegensteht.
 

@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 34
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9323", "21/9243", "21/7602"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59467"
@@ -65,7 +66,7 @@ Ich erbitte vom Senat beziehungsweise der zuständigen Fachbehörde die rechtlic
 
 Welche genauen Unterscheidungen gibt es in Bezug auf die in Frage 1. genannten Termini außerdem in den Aspekten benötigte Qualifikation und Vergütung pro Stunde? (Bitte jeweils einzeln erläutern.) a. Wie sind diese gesetzlich definiert und gerechtfertigt? (Bitte rechtliche Grundlage nennen und anfügen.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -163,6 +164,6 @@ Der Senat argumentiert in der Drs. 21/9323 des Weiteren damit, dass die schlecht
 
 Inwiefern ist die in Frage 15. dargelegte Einschätzung des Senats beziehungsweise der zuständigen Fachbehörde insbesondere auch vor dem Hintergrund der komplexen Bildungswege und weitreichenden Entscheidungen, über die es beispielsweise beim Übertritt von Schülern/ -innen in eine weiterführende Schulform, bei der Abwägung eines höheren Bildungsabschlusses gegenüber einer möglichen beruflichen Ausbildungslaufbahn oder dem Anstreben eines Hochschulabschlusses zu informieren gilt, haltbar? (Bitte jeweils sachlich und fachlich erläutern.)
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Siehe Vorbemerkung.

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8690", "21/10255"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67688"
@@ -49,7 +50,7 @@ In Drs. 21/10255 gibt der Senat an, welche Hamburger Krankenhäuser eine entspre
 
 In Drs. 21/10255 gibt der Senat an, welche Krankenhäuser welche konkreten Entlastungen vereinbart haben. Gab es seitdem noch weitere Vereinbarungen, in denen eine konkrete Entlastung festgeschrieben wurde (zum Beispiel Verstärkung der Nachtschichtbesetzung, Verstärkung eines Springerpools, Verstärkung einer bestimmten Station und so weiter)? Bitte nach Krankenhaus und Bereich auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die eingeholten Angaben der Hamburger Plankrankenhäuser sind der Anlage zu entnehmen.
 
@@ -217,7 +218,7 @@ Wie viele zusätzliche Pflegekräfte (in VZÄ) wurden durch das Pflegestellenfö
 
 Gab es seit 2017 Hamburger Krankenhäuser, die Fördermittel zurückzahlen mussten, zum Beispiel weil Neueinstellungen oder Teilzeitaufstockungen in der Pflege nicht umgesetzt wurden oder aus anderen Gründen? Welche Krankenhäuser betrifft dies und in welcher Höhe wurden Fördermittel zurückgefordert?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die eingeholten Angaben der Hamburger Plankrankenhäuser sind der Anlage zu entnehmen.
 

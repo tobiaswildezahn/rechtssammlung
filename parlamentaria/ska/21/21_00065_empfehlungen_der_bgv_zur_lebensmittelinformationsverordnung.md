@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48195"
@@ -53,7 +54,7 @@ Plant der Senat die Aufnahme von Ausnahmetatbeständen oder Erleichterungen für
 
 Hat der Senat vor der Veröffentlichung der Empfehlung mit Betroffenen (beispielsweise Wohlfahrtsverbänden, Sportvereinen) über die geplante Regelung gesprochen? Wenn nein, warum nicht? Wenn ja, was waren die konkreten Inhalte der Beratungen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Antwort zu 1.
 

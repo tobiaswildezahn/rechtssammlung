@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52886"
@@ -97,7 +98,7 @@ Welche Informationen erhielt Staatsrat Rieckhof bei diesem Gespräch betreffend 
 
 Warum informierte Staatsrat Rieckhof den Verkehrsausschuss der Bürgerschaft auf der Sitzung am 27. November 2015, bei der ausführlich über die S4 gesprochen wurde, nicht über die Erkenntnisse aus dem Gespräch mit Staatssekretär Ferlemann?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Es ging im Gespräch insbesondere um die Optimierung des Bauprogramms und die verkehrliche Wirkung sowie die Aspekte des Fern- und Güterverkehrs einschließlich der Entlastung des Hamburger Hauptbahnhofs, die für die Bewertung relevant sind.
 

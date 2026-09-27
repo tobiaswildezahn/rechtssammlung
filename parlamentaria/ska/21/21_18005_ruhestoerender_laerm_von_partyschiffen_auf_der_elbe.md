@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67623"
@@ -48,7 +49,7 @@ Ist dem Senat diese Problematik bekannt?
 
 Welche Maßnahmen hat der Senat getroffen, um dieser Entwicklung entgegen zu treten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Polizei trifft unmittelbar nach einer entsprechenden Anzeigenerstattung beziehungsweise Feststellung einer akuten Lärmbelästigung je nach Einzelfall in der Regel folgende Sofortmaßnahmen:
 
@@ -86,6 +87,6 @@ Gibt es aktuelle rechtskräftig abgeschlossene Verfahren in derartigen Störungs
 
 Wenn ja, wie sind diese Störungen geahndet worden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Polizei verfolgt Ordnungswidrigkeiten im Zusammenhang mit Lärmbelästigungen gemäß des Hamburgisches Lärmschutzgesetzes (HmbLärmSchG) und gemäß § 117 des Gesetzes über Ordnungswidrigkeiten (OWiG). Statistische Daten im Sinne der Fragestellung werden von der Polizei jedoch nicht erhoben. Zur Beantwortung wäre die händische Auswertung mehrerer Hundert Akten nach einem Rubrum „Partyschiffe“, bestimmter Örtlichkeit oder Ähnlichem erforderlich. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.

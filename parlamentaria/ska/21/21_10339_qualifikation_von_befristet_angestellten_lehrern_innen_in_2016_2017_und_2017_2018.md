@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 25
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10216", "21/7919"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59186"
@@ -89,7 +90,7 @@ Wie viele befristet angestellte Lehrkräfte mit anderer Qualifikation befinden s
 
 Wie viele der in Frage 4. genannten gegenwärtig befristet angestellten Lehrkräfte mit anderer Qualifikation an staatlichen Schulen in Hamburg (Stand September 2017) arbeiten in Vollzeit, wie viele in 50-prozentiger Teilzeit? (Bitte mit Angabe der Schulform, nach mit akademischem Grad und ohne unterschieden, in absoluten Zahlen und in Prozent in einer eigenen Excel-Tabelle angeben.) a. Wie viele dieser Lehrkräfte arbeiteten ausschließlich als Vertretungslehrer/-innen, wie viele in welchen anderen Bereichen? (Bitte entsprechend in der Tabelle zu 5. angeben.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die gewünschten Daten für September 2017 liegen erst Mitte Oktober 2017 vor. Die Daten für August 2017 sind nicht aussagefähig, da der Schulunterricht erst zum 31. August 2017 wieder begann und der erste Schultag nach dem Abrechnungslauf des Personalverwaltungssystems für den Monat August (26./27. August 2017) lag.
 

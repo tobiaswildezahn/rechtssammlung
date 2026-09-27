@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/4795", "20/3215", "20/9849", "21/6163"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55749"
@@ -56,7 +57,7 @@ Hat der Senat Kenntnisse, wer für die Übergriffe verantwortlich ist? Wenn ja, 
 
 Wie viele Tatverdächtige nach Übergriffen auf sexuelle Minderheiten konnten festgenommen werden? Wie viele davon wurden verurteilt? Bitte Details angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Polizei erfasst Straftaten im Sinne der Fragestellungen im bundeseinheitlichen Kriminalpolizeilichen Meldedienst Politisch motivierte Kriminalität (KPMD-PMK) unter dem Unterthema „gegen die sexuelle Orientierung“. Die Begriffe „sexuelle Minderheit“, „homophob“, „transphob“, „Lesben“, „Schwule“, „Trans-„ und „Intersexuelle“ sind keine festen Katalogwerte und im Sinne der Fragestellungen nicht recherchierbar. Zur Erfassung politisch motivierter Straftaten (PMK), den Auswertemöglichkeiten und deren Grenzen siehe Drs. 19/4795 und 20/3215.
 

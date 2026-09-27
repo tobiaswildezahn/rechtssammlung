@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 19
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5389"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54007"
@@ -218,7 +219,7 @@ Unterstehen die ausländischen Lehrkräfte der hamburgischen Schulaufsicht? Wenn
 
 Welche disziplinarischen Möglichkeiten hat die zuständige Behörde im Falle grober Verstöße ausländischer Lehrkräfte gegen hamburgische Bildungspläne oder eines Verhaltens, das im Falle eines deutschen Lehrers entsprechend geahndet würde?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die ausländischen Lehrkräfte unterstehen während ihres Einsatzes in den bilingualen Klassen der Schulaufsicht der zuständigen Behörde, wobei sie die gleichen Rechte und Pflichten im Sinne des § 88 des Hamburgischen Schulgesetzes (HmbSG) wie Hamburger Lehrkräfte haben. Vorgesetzte beziehungsweise Vorgesetzter der ausländischen Lehrkräfte im bilingualen Unterrichtsangebot ist die jeweilige Schulleiterin oder der Schulleiter. Sie oder er übt in laufenden Angelegenheiten die Aufsicht aus, sorgt für die Einhaltung der dienstlichen Pflichten und erteilt die dafür erforderlichen Weisungen (siehe § 89 HmbSG). Im Falle eines groben Pflichtverstoßes würden das jeweilige Partnerland als der zuständige Arbeitgeber informiert und gegebenenfalls der Einsatz der ausländischen Lehrkraft beendet werden.
 

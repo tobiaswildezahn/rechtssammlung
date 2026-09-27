@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 19
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4955"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63663"
@@ -49,25 +50,25 @@ Wie setzt sich aktuell die Trägerversammlung gemäß §§ 44b, 44c SGB II in Ha
 
 Wer ist zurzeit Vorsitzende/r der Trägerversammlung in Hamburg?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Mit Stand 20.07.2018 sind Mitglieder in der Trägerversammlung:
 
- Die Leiterin des Amtes für Arbeit und Integration der Behörde für Arbeit, Soziales,
+– Die Leiterin des Amtes für Arbeit und Integration der Behörde für Arbeit, Soziales,
 
 Familie und Integration (Vorsitzende),
 
- der Leiter des Amt für Soziales der Behörde für Arbeit, Soziales, Familie und
+– der Leiter des Amt für Soziales der Behörde für Arbeit, Soziales, Familie und
 
 Integration,
 
- die Leiterin des Bezirksamtes Altona,
+– die Leiterin des Bezirksamtes Altona,
 
- der Vorsitzende der Geschäftsführung der Agentur für Arbeit Hamburg,
+– der Vorsitzende der Geschäftsführung der Agentur für Arbeit Hamburg,
 
- die Geschäftsführerinnen Operativ der Agentur für Arbeit Hamburg und
+– die Geschäftsführerinnen Operativ der Agentur für Arbeit Hamburg und
 
- der Geschäftsführer Interner Service der Agentur für Arbeit Hamburg.
+– der Geschäftsführer Interner Service der Agentur für Arbeit Hamburg.
 
 ### Frage 3
 
@@ -113,35 +114,35 @@ team.arbeit.hamburg gemäß § 18d SGB II aktuell zusammen?
 
 Im zentralen Beitrag der gE sind folgende Institutionen vertreten (Mitglieder und Stellvertreter):
 
- DGB Hamburg
+– DGB Hamburg
 
- ver.di Hamburg
+– ver.di Hamburg
 
- UV Nord – Vereinigung der Unternehmensverbände in Hamburg und Schleswig-
+– UV Nord – Vereinigung der Unternehmensverbände in Hamburg und Schleswig-
 
 Holstein e.V.
 
- Bau-Innung Hamburg und Norddeutscher Baugewerbeverband e.V.
+– Bau-Innung Hamburg und Norddeutscher Baugewerbeverband e.V.
 
- Fachverband Garten-, Landschaft- und Sportplatzbau Hamburg e.V.
+– Fachverband Garten-, Landschaft- und Sportplatzbau Hamburg e.V.
 
- DEHOGA Hamburg
+– DEHOGA Hamburg
 
- Arbeitsgemeinschaft der Freien Wohlfahrtspflege e.V.
+– Arbeitsgemeinschaft der Freien Wohlfahrtspflege e.V.
 
- Diakonisches Werk
+– Diakonisches Werk
 
- dbb Hamburg Beamtenbund und Tarifunion
+– dbb Hamburg Beamtenbund und Tarifunion
 
- Landesfrauenrat Hamburg e.V.
+– Landesfrauenrat Hamburg e.V.
 
- Handelskammer Hamburg
+– Handelskammer Hamburg
 
- Handwerkskammer Hamburg
+– Handwerkskammer Hamburg
 
- Landesjugendhilfeausschusses der FHH
+– Landesjugendhilfeausschusses der FHH
 
- Hamburger Landesarbeitsgemeinschaft für behinderte Menschen e.V.
+– Hamburger Landesarbeitsgemeinschaft für behinderte Menschen e.V.
 
 ### Frage 7
 
@@ -233,83 +234,83 @@ Wie setzen sich die einzelnen bezirklichen dezentralen GE-Beiräte namentlich zu
 
 Wer sitzt den einzelnen bezirklichen dezentralen GE-Beiräten zurzeit vor?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Im bezirklichen Beirat Hamburg-Mitte sind folgende Institutionen vertreten:
 
- Caritasverband für Hamburg e.V. (Vorsitz)
+– Caritasverband für Hamburg e.V. (Vorsitz)
 
- Hamburger Hafen Logistik AG
+– Hamburger Hafen Logistik AG
 
- IG St. Pauli und Hafenmeile e.V.
+– IG St. Pauli und Hafenmeile e.V.
 
- DGB Hamburg
+– DGB Hamburg
 
- Quartiersmanagement BID St. Pauli Reeperbahn Garagen
+– Quartiersmanagement BID St. Pauli Reeperbahn Garagen
 
- Bin e.V
+– Bin e.V
 
- Beschäftigung und Bildung e.V.
+– Beschäftigung und Bildung e.V.
 
- STILL GmbH
+– STILL GmbH
 
 Im bezirklichen Beirat Altona sind folgende Institutionen vertreten:
 
- DGB Hamburg (Vorsitz) und ver.di
+– DGB Hamburg (Vorsitz) und ver.di
 
- Netzwerk Altona
+– Netzwerk Altona
 
- AWO Kreisverband Altona
+– AWO Kreisverband Altona
 
- Betriebsrat Holsten-Brauerei
+– Betriebsrat Holsten-Brauerei
 
- Handwerkskammer Hamburg
+– Handwerkskammer Hamburg
 
- Bezirksamt Altona - Sozialraummanagement
+– Bezirksamt Altona - Sozialraummanagement
 
 Im bezirklichen Beirat Eimsbüttel sind folgende Institutionen vertreten:
 
- DGB Hamburg
+– DGB Hamburg
 
- Jugendsozialarbeit Schanzenviertel e.V.
+– Jugendsozialarbeit Schanzenviertel e.V.
 
- Diakonisches Werk Hamburg-West/Südholstein (stellvertretender Vorsitz, der Vor-
+– Diakonisches Werk Hamburg-West/Südholstein (stellvertretender Vorsitz, der Vor-
 
 sitz ist zurzeit vakant)
 
- Johann Daniel Lawaetz-Stiftung
+– Johann Daniel Lawaetz-Stiftung
 
 Im bezirklichen Beirat Hamburg-Nord sind folgende Institutionen vertreten:
 
- Face2Face Personal GmbH
+– Face2Face Personal GmbH
 
- Jugendhilfeausschuss Hamburg-Nord
+– Jugendhilfeausschuss Hamburg-Nord
 
- SAGA Unternehmensgruppe
+– SAGA Unternehmensgruppe
 
- DGB Hamburg (Vorsitz)
+– DGB Hamburg (Vorsitz)
 
- Türkische Gemeinde Hamburg
+– Türkische Gemeinde Hamburg
 
- f & w fördern und wohnen AöR
+– f & w fördern und wohnen AöR
 
- Flughafen Hamburg GmbH
+– Flughafen Hamburg GmbH
 
- Diakonisches Werk Hamburg
+– Diakonisches Werk Hamburg
 
 Im bezirklichen Beirat Harburg sind folgende Institutionen vertreten:
 
- Handwerkskammer Hamburg
+– Handwerkskammer Hamburg
 
- Kirchenkreis Hamburg-Ost, Gemeinwesendiakonie
+– Kirchenkreis Hamburg-Ost, Gemeinwesendiakonie
 
- OPEN ARMS – gemeinnützige GmbH
+– OPEN ARMS – gemeinnützige GmbH
 
- McDonald´s, Abteilung Ausbildung
+– McDonald´s, Abteilung Ausbildung
 
- Der Wirtschaftsverein für den Hamburger Süden e.V. (Vorsitz)
+– Der Wirtschaftsverein für den Hamburger Süden e.V. (Vorsitz)
 
- Arbeitsgemeinschaft § 78 SGB SGB VIII Harburg-Süderelbe
+– Arbeitsgemeinschaft § 78 SGB SGB VIII Harburg-Süderelbe
 
 Darüber hinaus müssen sich die bezirklichen Beiräte in Bergedorf und Wandsbek neu konstituieren.
 

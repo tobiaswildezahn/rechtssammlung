@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2958", "21/3396", "21/4160"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53044"
@@ -102,23 +103,23 @@ Wie ist der aktuelle Sachstand zu der von den Senatoren Steffen und Prüfer-Stor
 
 An der behördenübergreifenden Arbeitsgruppe zum Umgang mit psychisch Kranken mit Risikoprofil wirken Vertreterinnen und Vertreter
 
-• der Behörde für Gesundheit und Verbraucherschutz,
+– der Behörde für Gesundheit und Verbraucherschutz,
 
-• der Justizbehörde (einschließlich Staatsanwaltschaft und Gerichtsbarkeit),
+– der Justizbehörde (einschließlich Staatsanwaltschaft und Gerichtsbarkeit),
 
-• der Behörde für Arbeit, Soziales, Familie und Integration,
+– der Behörde für Arbeit, Soziales, Familie und Integration,
 
-• der Behörde für Inneres und Sport (einschließlich Polizei),
+– der Behörde für Inneres und Sport (einschließlich Polizei),
 
-• der Bezirksämter (Fachämter für Gesundheit; Fachamt für Hilfen nach dem Betreuungsgesetz),
+– der Bezirksämter (Fachämter für Gesundheit; Fachamt für Hilfen nach dem Betreuungsgesetz),
 
-• der psychiatrischen Versorgung einschließlich der forensisch-psychiatrischen,
+– der psychiatrischen Versorgung einschließlich der forensisch-psychiatrischen,
 
-• der Eingliederungshilfe,
+– der Eingliederungshilfe,
 
-• des Landesverbandes der Psychiatrie-Erfahrenen e.V.,
+– des Landesverbandes der Psychiatrie-Erfahrenen e.V.,
 
-• des Landesverbandes der Angehörigen Psychisch Kranker in Hamburg e.V.
+– des Landesverbandes der Angehörigen Psychisch Kranker in Hamburg e.V.
 
 mit.
 

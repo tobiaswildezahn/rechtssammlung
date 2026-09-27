@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 23
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18010", "21/14912"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67912"
@@ -64,7 +65,7 @@ Welche Fachbehörde ist primär für Fragen der Filmförderung oder auch der Fö
 Welche zuständigen Bereiche in der Wirtschafts-, der Kultur- und der Finanzbehörde befassen sich mit dem Thema Filmförderung? a. Wie viele Mitarbeiter sind in der jeweiligen Behörde dafür zuständig? b. Wie ist die interne Organisation zwischen den einzelnen betroffenen Abteilungen geregelt? c. Gibt es – abgesehen von der Hamburger Kreativ Gesellschaft mbH
 – Schnittstellen zur Koordinierung der betroffenen Bereiche? Wenn ja, welche? Wenn nein, warum bisher nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

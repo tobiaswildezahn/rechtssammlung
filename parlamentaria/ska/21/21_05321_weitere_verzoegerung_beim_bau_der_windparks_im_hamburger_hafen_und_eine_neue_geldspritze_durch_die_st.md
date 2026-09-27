@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 33
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/838"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53806"
@@ -213,6 +214,6 @@ Wie hoch waren die Kosten der FHH und ihrer öffentlichen Unternehmen für den B
 
 Welcher Anteil am Umsatz von HE wurde beziehungsweise wird folglich etwa mit der Kundin FHH sowie ihren öffentlichen Unternehmen gemacht?
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Der Umsatz inklusive durchlaufender Posten wie Netzentgelte, Umlagen und Energiesteuern belief sich in 2015 auf 117.700.000 Euro, was einem Umsatzanteil von 43 Prozent entspricht. In 2016 ist ein Umsatz von 58.600.000 Euro mit der FHH und öffentlichen Unternehmen geplant, was einem Anteil von 22 Prozent am gesamten Planumsatz entspricht.

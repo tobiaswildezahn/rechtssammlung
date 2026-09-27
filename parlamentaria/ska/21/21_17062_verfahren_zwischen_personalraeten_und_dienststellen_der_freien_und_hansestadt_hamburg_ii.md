@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16917"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66618"
@@ -43,7 +44,7 @@ Wie hat sich die Anzahl der Verwaltungsgerichtsverfahren zwischen Personalräten
 
 Wie hat sich die Anzahl der in diesen Organisationen durchgeführten Schlichtungsverfahren in den Jahren seit 2013 entwickelt? (Bitte jahresweise nach Organisationen differenziert auflisten.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Daten zu den Fragen 1. und 2. werden nicht zentral erfasst. Die Angaben beruhen auf einer aus Anlass dieser Schriftlichen Kleinen Anfrage durchgeführten Abfrage.
 
@@ -59,9 +60,9 @@ Siehe Drs. 21/16917.
 
 Die für das Universitätsklinikum Eppendorf (UKE) seit dem Jahr 2017 ausgewiesenen Zahlen stehen im Zusammenhang mit
 
- der Einstellung von Aushilfskräften in Pflegebereichen,
+– der Einstellung von Aushilfskräften in Pflegebereichen,
 
- dem Einsatz eines papierlosen, elektronikbasierten Systems der Personalgewin-
+– dem Einsatz eines papierlosen, elektronikbasierten Systems der Personalgewin-
 
 nung
 

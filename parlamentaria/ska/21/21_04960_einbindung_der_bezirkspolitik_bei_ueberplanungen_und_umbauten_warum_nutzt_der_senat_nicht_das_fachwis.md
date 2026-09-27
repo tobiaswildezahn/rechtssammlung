@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3308"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53401"
@@ -63,6 +64,6 @@ Wie beurteilt der zuständige Senator die Beteiligung der Bezirkspolitik bei sol
 
 Ist der Senat der Meinung, dass derlei Planungen verpflichtend zu einem früheren Zeitpunkt mit der Bezirkspolitik abgestimmt werden sollten?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Wie im Verkehrsausschuss am 14. Juni 2016 zu Drs. 21/3308 beraten und beschlossen, ist es gängige Praxis, dass Planungsunterlagen der zuständigen Behörde über die Bezirksverwaltung an die zuständigen Gremien weitergeleitet werden. Dort liegt die Zuständigkeit für die Sitzungsvorbereitung der Bezirksversammlungen und ihrer Ausschüsse sowie das Wissen über den Kreis der zu Beteiligenden. Die Straßenbaubehörde wird die von ihr erarbeiteten Planungsunterlagen weiterhin an die Bezirksverwaltung senden und nach Möglichkeit der zeitlichen und personellen Ressourcen die zuständigen Ausschüsse der Bezirksversammlungen bereits vor der ersten Verschickung über anstehende Planungen in einer ihrer Sitzungen informieren und Anregungen aufnehmen.

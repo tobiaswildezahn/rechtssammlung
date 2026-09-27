@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12365", "20/14593"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48227"
@@ -45,7 +46,7 @@ Wie viele und welche Ordnungswidrigkeiten wurden seit Einführung des Ordnungswi
 
 In welcher Höhe wurden Bußgelder vom Ordnungswidrigkeiten- Management in den einzelnen Bezirken seit dem 01.01.2014 festgesetzt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nach Auskunft der Bezirksämter ergeben sich für das Jahr 2014 folgende Daten:
 
@@ -112,7 +113,7 @@ Wie viele Verstöße gegen die Straßenverkehrsordnung im Bereich des ruhenden V
 
 Welche Einnahmen wurden im Jahr 2014 durch die Parkraumüberwachung erzielt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Im Zeitraum vom 1. Januar 2014 bis zum 28. Februar 2015 wurden im Rahmen des Projekts „Parkraumüberwachung“ beziehungsweise durch den Landesbetrieb Verkehr insgesamt 366.457 Verkehrsverstöße im ruhenden Verkehr angezeigt. Die Einnahmen beliefen sich im Jahr 2014 auf 4.781.969,38 Euro.
 

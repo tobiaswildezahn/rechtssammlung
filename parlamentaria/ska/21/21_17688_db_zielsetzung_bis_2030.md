@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67283"
@@ -74,7 +75,7 @@ Schließt sich der Senat der Auffassung an, dass die Erreichung des Zieles dahin
 
 Wenn ja, geht der Senat davon aus, dass eine adäquate bauliche Erweiterung im Hamburger Hauptbahnhof realisierbar ist und wenn ja, wie sehen die Ansätze aus?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 
@@ -145,6 +146,6 @@ Hält der Senat nach wie vor daran fest, dass der Ausbau der S4 mit der Güterba
 
 Liegt der Ausbau der S4 samt Güterbahnstrecke derzeit im Zeitplan?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Das Projekt S-Bahn-Linie S4 (Ost) befindet sich derzeit im vorgesehenen Zeitplan und sieht eine Inbetriebnahme vor der des Fehmarnbelttunnels 2028 vor.

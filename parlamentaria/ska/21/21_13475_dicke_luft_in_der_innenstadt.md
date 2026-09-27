@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62842"
@@ -66,7 +67,7 @@ Welche Emittenten von Schadstoffen in der Luft haben Auswirkungen auf welche Ber
 
 Welche Arten von Schadstoffen in der Luft und mit welcher Belastung wirken auf welche Bereiche der Innenstadt ein? Bitte aufschlüsseln nach Schadstoffarten, Belastung und Stadtteilen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

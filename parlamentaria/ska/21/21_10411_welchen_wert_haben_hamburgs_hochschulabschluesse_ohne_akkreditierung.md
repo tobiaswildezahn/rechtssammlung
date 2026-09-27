@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 13
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9664", "21/7885", "21/7867"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59281"
@@ -55,7 +56,7 @@ Gilt die Pflicht zur Qualitätssicherung künftig für alle staatlichen und priv
 a) Ist durch die Regelungen im Entwurf des nun vorliegenden Staatsvertrags gesichert, dass die Akkreditierungen nicht bürokratischer, langwieriger und teurer werden als bisher? Wenn doch: Wie begründet dies der Senat beziehungsweise die zuständige Behörde? Wenn nein: Inwieweit werden die Akkreditierungen unbürokratischer als bisher?
 b) Was hat der Senat beziehungsweise die zuständige Behörde unternommen, um bürokratische Hürden für alle Hochschulen zu reduzieren?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/7885.
 

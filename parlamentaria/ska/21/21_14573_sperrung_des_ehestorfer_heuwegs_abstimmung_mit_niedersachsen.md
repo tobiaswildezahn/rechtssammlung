@@ -11,9 +11,10 @@ fraktionen: ["AfD"]
 vorgang: 58338
 seiten: 3
 fragen: 6
-einzelfragen: 11
-antwortbloecke: 6
+einzelfragen: 14
+antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13659"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64002"
@@ -62,26 +63,40 @@ Siehe Vorbemerkung.
 ### Frage 2
 
 Wie erfolgt die Koordinierung von Baumaßnahmen mit Nachbarbundesländern? Erfolgen grundsätzlich Gespräche mit Nachbargemeinden beziehungsweise Nachbarkreisen, sobald sich Straßenbauarbeiten direkt auf deren Umfeld auswirken?
-2.1. Wann hat sich die zuständige Hamburger Behörde bezüglich der Baumaßnahmen am Ehestorfer Heuweg mit dem Landkreis Harburg in Verbindung gesetzt? Welche konkreten Maßnahmen wurden miteinander abgestimmt?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Wann hat sich die zuständige Hamburger Behörde bezüglich der Baumaßnahmen am Ehestorfer Heuweg mit dem Landkreis Harburg in Verbindung gesetzt? Welche konkreten Maßnahmen wurden miteinander abgestimmt?
+
+#### Antwort zu Fragen 2 und 2.1
 
 Siehe Vorbemerkung.
 
-2.2. Dem niedersächsischen Verkehrsminister zufolge habe es Kommunikationsschwierigkeiten bei der Zusammenarbeit gegeben (vergleiche Kreiszeitung „Wochenblatt“, Fußnote 1). Wie bewertet die zuständige Behörde die Aussage? Von welchen Schwierigkeiten ist die Rede?
+### Frage 2.2
+
+Dem niedersächsischen Verkehrsminister zufolge habe es Kommunikationsschwierigkeiten bei der Zusammenarbeit gegeben (vergleiche Kreiszeitung „Wochenblatt“, Fußnote 1). Wie bewertet die zuständige Behörde die Aussage? Von welchen Schwierigkeiten ist die Rede?
+
+#### Antwort zu Frage 2.2
 
 Die Koordinierung der Baumaßnahmenerfolgte einvernehmlich. Der Senat nimmt zu Presseberichten grundsätzlich keine Stellung. Im Übrigen siehe Vorbemerkung.
 
-2.3. Welche Priorität und welche Mindestvoraussetzungen, gibt es für Hamburger Behörden bezüglich der Koordinierung von Baumaßnahmen, die auch Bürger angrenzender Bundesländer betreffen?
+### Frage 2.3
+
+Welche Priorität und welche Mindestvoraussetzungen, gibt es für Hamburger Behörden bezüglich der Koordinierung von Baumaßnahmen, die auch Bürger angrenzender Bundesländer betreffen?
+
+#### Antwort zu Frage 2.3
 
 Die Koordinierung von Baumaßnahmen umfasst alle Eingriffe in den Verkehrsraum des Hauptverkehrs- und Fernstraßennetzes in Hamburg.
 
 ### Frage 3
 
 Mit welchen Maßnahmen soll die derzeitig angespannte Verkehrssituation für Pendler, Anwohner und Gewerbetreibende entschärft werden?
-3.1. Bis zu welchem Zeitpunkt soll die Umsetzung der jeweiligen Maßnahmen erfolgen?
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+Bis zu welchem Zeitpunkt soll die Umsetzung der jeweiligen Maßnahmen erfolgen?
+
+#### Antwort zu Fragen 3 und 3.1
 
 Die Ausdehnung und Art der Baumaßnahme lassen nach der Richtlinie für die Sicherung von Arbeitsstellen an Straßen, der Straßenverkehrs-Ordnung (StVO) und den Anforderungen an Arbeitsplätzen und Verkehrswege auf Baustellen im Grenzbereich zum Straßenverkehr keine andere Verkehrsführung zu. Maßgeblich ist die Verkehrsund Arbeitssicherheit. Auf dieser Grundlage hat das zuständige Polizeikommissariat die derzeitige Verkehrsführung angeordnet.
 

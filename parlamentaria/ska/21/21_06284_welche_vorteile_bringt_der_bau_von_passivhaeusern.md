@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54805"
@@ -59,7 +60,7 @@ Welche Erkenntnisse konnten bisher in Hamburg allgemein mit Passivhäusern gewon
 
 Wie bewertet der Senat beziehungsweise die zuständige Behörde den Bau von Passivhäusern?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Behörde für Stadtentwicklung und Umwelt hatte im Jahr 2010 eine Evaluierung der Erfahrung des Wohnens durch die Nutzer in Passivhäusern durchführen lassen. Die Erfahrungen waren positiv.
 

@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 50035
 seiten: 3
 fragen: 8
-einzelfragen: 15
-antwortbloecke: 8
+einzelfragen: 26
+antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5931", "21/1565", "21/1165"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54654"
@@ -54,19 +55,36 @@ Der Antrag über einen Förderbetrag von 997.479 Euro wurde im Juli 2015 gestell
 ### Frage 3
 
 Gemäß den Angaben des Senats zielte die erste Maßnahme „Intensivierung und Steigerung der Ausschreibungen von Glas- und Gebäudereinigungsdienstleistungen“ vom 01.10.2013 bis zum 31.05.2015 auf die Reinigungsverträge der staatlichen Schulen ab. Allerdings geht aus der Drs. 21/1565 hervor, dass im Rahmen dieser Maßnahme auch zahlreiche Ausschreibungen für Reinigungsdienstleistungen von Hochschulen, Bezirksämtern, Gerichten, Landesbetrieben und anderen Behörden erfolgt sind.
-3.1. Wie viele Neuausschreibungen von Glas- und Gebäudereinigungsverträgen sind im Rahmen der ersten Maßnahme vom 01.10.2013 bis zum 31.05.2015 erfolgt?
-3.2. Wie viele Neuausschreibungen davon entfielen auf staatliche Schulen?
-3.3. Wie viele Neuausschreibungen davon entfielen auf jeweils welche anderen Bedarfsträger?
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+Wie viele Neuausschreibungen von Glas- und Gebäudereinigungsverträgen sind im Rahmen der ersten Maßnahme vom 01.10.2013 bis zum 31.05.2015 erfolgt?
+
+### Frage 3.2
+
+Wie viele Neuausschreibungen davon entfielen auf staatliche Schulen?
+
+### Frage 3.3
+
+Wie viele Neuausschreibungen davon entfielen auf jeweils welche anderen Bedarfsträger?
+
+#### Antwort zu Fragen 3, 3.1, 3.2 und 3.3
 
 Es wurden 58 Verträge neu ausgeschrieben. Im Übrigen siehe Drs. 21/1565.
 
-3.4. Warum genau wurden im Rahmen dieser Maßnahme auch Neuausschreibungen von Reinigungsverträgen außerhalb der staatlichen Schulen bearbeitet? Inwiefern entspricht dies der beantragten und zulässigen Mittelverwendung für die Finanzierung aus dem Effizienzfonds gemäß der Darstellung des Senats in Drs. 21/5931?
+### Frage 3.4
+
+Warum genau wurden im Rahmen dieser Maßnahme auch Neuausschreibungen von Reinigungsverträgen außerhalb der staatlichen Schulen bearbeitet? Inwiefern entspricht dies der beantragten und zulässigen Mittelverwendung für die Finanzierung aus dem Effizienzfonds gemäß der Darstellung des Senats in Drs. 21/5931?
+
+#### Antwort zu Frage 3.4
 
 Der Fonds zur Effizienzsteigerung dient der Vorfinanzierung von Maßnahmen der Wirtschaftlichkeit und Wirksamkeit der Verwaltung. Ziel ist die Entlastung des hamburgischen Haushalts. Im Hinblick auf die Projektziele „Abbau des Vertragsalters der Verträge der Glas- und Gebäudereinigung“ und „Generierung von Beiträgen zur Haushaltskonsolidierung“ erfolgte auf Grundlage des im Jahr 2014 entwickelten Controllings auch eine Ausschreibung von Objekten anderer Bedarfsträger, da freie Kapazitäten bei der Leitstelle Gebäudereinigung sowie im Referat Beschaffung und Strategischer Einkauf genutzt werden konnten und die Mittelverwendung auch hierfür zulässig war.
 
-3.5. Wann genau wurde für die erste Maßnahme der Abschlussbericht gemäß Nummer 3.3 der Richtlinien für den Fonds zur Effizienzsteigerung vorgelegt?
+### Frage 3.5
+
+Wann genau wurde für die erste Maßnahme der Abschlussbericht gemäß Nummer 3.3 der Richtlinien für den Fonds zur Effizienzsteigerung vorgelegt?
+
+#### Antwort zu Frage 3.5
 
 Der Bericht wurde zeitnah zum Projektende im Juli 2015 erstellt und nach Zusammenstellung der erforderlichen Unterlagen im November 2015 abgeschlossen.
 
@@ -74,22 +92,37 @@ Der Bericht wurde zeitnah zum Projektende im Juli 2015 erstellt und nach Zusamme
 
 Gemäß den Angaben des Senats in Drs. 21/5931 begann am
 01.08.2015 die zweite Maßnahme „Optimierung der Neuausschreibung von Verträgen der Glas- und Gebäudereinigung zur Realisierung von Beiträgen zur Haushaltskonsolidierung“.
-4.1. Wie viele Neuausschreibungen von Glas- und Gebäudereinigungsverträgen sind im Rahmen der zweiten Maßnahme seit dem
+
+### Frage 4.1
+
+Wie viele Neuausschreibungen von Glas- und Gebäudereinigungsverträgen sind im Rahmen der zweiten Maßnahme seit dem
 01.08.2015 erfolgt?
 
-#### Antwort zu Frage 4
+#### Antwort zu Fragen 4 und 4.1
 
 59.
 
-4.2. Wie viele Neuausschreibungen davon entfielen auf staatliche Schulen?
+### Frage 4.2
+
+Wie viele Neuausschreibungen davon entfielen auf staatliche Schulen?
+
+#### Antwort zu Frage 4.2
 
 42.
 
-4.3. Wie viele Neuausschreibungen davon entfielen auf jeweils welche anderen Bedarfsträger?
+### Frage 4.3
+
+Wie viele Neuausschreibungen davon entfielen auf jeweils welche anderen Bedarfsträger?
+
+#### Antwort zu Frage 4.3
 
 Elf Neuverträge wurden für den Bedarfsträger Hamburgische Immobilien Management Gesellschaft mbH abgeschlossen, sechs Neuverträge für die Bedarfsträger Hochschulen.
 
-4.4. Welche genauen Kosten sollen in welchem genauen Zeitraum im Rahmen der zweiten Maßnahme mit Mitteln des Effizienzfonds finanziert werden?
+### Frage 4.4
+
+Welche genauen Kosten sollen in welchem genauen Zeitraum im Rahmen der zweiten Maßnahme mit Mitteln des Effizienzfonds finanziert werden?
+
+#### Antwort zu Frage 4.4
 
 Für den Zeitraum von August 2015 bis zum geplanten Abschluss der Maßnahme Ende Februar 2017 stehen bewilligte Personalmittel in Höhe von rund 495.000 Euro und Sachmittel in Höhe von rund 482.000 Euro für die fachliche Vorbereitung von Ausschreibungen durch die Städtische Gebäudeeigenreinigung GmbH zur Unterstützung der Leitstelle Gebäudereinigung und 20.000 Euro für Fortbildung zur Verfügung.
 
@@ -109,15 +142,27 @@ Ist es zutreffend, dass das Projekt „Intensivierung der Ausschreibung von Glas
 
 Nein, siehe Antworten zu 3.5. und 6.3. sowie Drs. 21/5931.
 
-6.1. Ist es zutreffend, dass im Rahmen dieses Projekts von vornherein alle rund 400 von der Finanzbehörde verwalteten Reinigungsverträge einbezogen wurden und nicht nur die Verträge für staatliche Schulen?
+### Frage 6.1
+
+Ist es zutreffend, dass im Rahmen dieses Projekts von vornherein alle rund 400 von der Finanzbehörde verwalteten Reinigungsverträge einbezogen wurden und nicht nur die Verträge für staatliche Schulen?
+
+#### Antwort zu Frage 6.1
 
 Nein, siehe Antwort zu 3.4. und Drs. 21/5931.
 
-6.2. Ist es zutreffend, dass im Rahmen dieses Projekts frühzeitig auch mit anderen Bedarfsträgern außerhalb der staatlichen Schulen Prioritätenlisten zur Neuausschreibung von Glas- und Gebäudereinigungsdienstleistungen abgestimmt wurden?
+### Frage 6.2
+
+Ist es zutreffend, dass im Rahmen dieses Projekts frühzeitig auch mit anderen Bedarfsträgern außerhalb der staatlichen Schulen Prioritätenlisten zur Neuausschreibung von Glas- und Gebäudereinigungsdienstleistungen abgestimmt wurden?
+
+#### Antwort zu Frage 6.2
 
 Nein, eine Abstimmung mit anderen Bedarfsträgern erfolgte im Laufe des Jahres 2014 (siehe auch Antwort zu 3.4.).
 
-6.3. Wie sollten die Mehrbedarfe für dieses Projekt genau finanziert werden? In welcher Höhe und für welchen Zeitraum waren bei Projektbeginn Mittel aus dem Effizienzfonds eingeplant? Welche Veränderungen gegenüber dem ursprünglichen Finanzierungsplan hat es seit dem 01.10.2013 im Einzelnen aus welchen Gründen jeweils wann gegeben?
+### Frage 6.3
+
+Wie sollten die Mehrbedarfe für dieses Projekt genau finanziert werden? In welcher Höhe und für welchen Zeitraum waren bei Projektbeginn Mittel aus dem Effizienzfonds eingeplant? Welche Veränderungen gegenüber dem ursprünglichen Finanzierungsplan hat es seit dem 01.10.2013 im Einzelnen aus welchen Gründen jeweils wann gegeben?
+
+#### Antwort zu Frage 6.3
 
 Für den Zeitraum vom Oktober 2013 bis zum Abschluss der Maßnahme Ende Mai 2015 wurden Personalkosten in Höhe von rund 475.000 Euro, Sachmittel in Höhe von rund 508.000 Euro für die reinigungsfachlichen Vorbereitung von Ausschreibungen durch die Städtische Gebäudeeigenreinigung GmbH (SGG) zur Unterstützung der Leitstelle Gebäudereinigung (einschließlich Arbeitsplatzpauschale) und rund 16.000 Euro für Fortbildung bewilligt. Gegenüber der ursprünglichen Finanzierungsplanung hat es im Projektverlauf keine Änderungen gegeben.
 

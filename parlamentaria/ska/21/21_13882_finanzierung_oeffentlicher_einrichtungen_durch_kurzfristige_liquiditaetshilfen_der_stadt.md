@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13661"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63242"
@@ -50,11 +51,11 @@ Das UKE wurde bei seiner Verselbständigung mit einer limitierten Liquidität au
 
 Das UKE hat das Wirtschaftsjahr 2017 mit einem Verlust i.H.v. 7,2 Millionen Euro (Konzern) abgeschlossen. Der Liquiditätsbedarf des UKE wird derzeit im Wesentlichen durch folgende Faktoren bestimmt:
 
- Die mit dem Krankenhausstrukturgesetz (KHSG) ab dem Jahr 2016 in Aussicht
+– Die mit dem Krankenhausstrukturgesetz (KHSG) ab dem Jahr 2016 in Aussicht
 
 gestellten Verbesserungen bei der Vergütung der Hochschulambulanzen treten mit Verzögerung ein. Zwar hat sich im Jahr 2017 die Position der Universitätsklinika bei Verhandlungen über die Vergütung der Hochschulambulanzen grundsätzlich verbessert; liquiditätsrelevante Effekte sind allerdings erst ab 2018 zu erwarten.
 
- Vorfinanzierung der Planung mehrerer im Rahmen des „Zukunftsplans UKE 2050“
+– Vorfinanzierung der Planung mehrerer im Rahmen des „Zukunftsplans UKE 2050“
 
 vorgesehener Bauvorhaben.
 

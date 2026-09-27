@@ -13,9 +13,10 @@ seiten: 1
 fragen: 0
 einzelfragen: 0
 antwortbloecke: 0
-beantwortet: true
+beantwortet: false
+status: "zurückgezogen"
 zitierte_drucksachen: []
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60291"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/60291/21_11334_schritt_zur_buergerversicherung_senat_foerdert_mitgliedschaft_von_beamtinnen_und_beamten_in_der_gesetzlichen_krankenversicherung"
 abgerufen: "2026-09-26"
@@ -24,11 +25,9 @@ generator: "ska_archiv 1.0"
 
 # Drs. 21/11334: Schritt zur Bürgerversicherung – Senat fördert Mitgliedschaft von Beamtinnen und Beamten in der gesetzlichen Krankenversicherung
 
-> Schriftliche Kleine Anfrage der Abgeordneten Jennyfer Dutschke (FDP) vom 11.12.17 und Antwort des Senats · Drucksache vom 11.12.2017  
+> Schriftliche Kleine Anfrage der Abgeordneten Jennyfer Dutschke (FDP) vom 11.12.17 · zurückgezogen · Drucksache vom 11.12.2017  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/60291) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/60291/21_11334_schritt_zur_buergerversicherung_senat_foerdert_mitgliedschaft_von_beamtinnen_und_beamten_in_der_gesetzlichen_krankenversicherung)
 
-## Volltext
-
-Schritt zur Bürgerversicherung – Senat fördert Mitgliedschaft von Beamtinnen und Beamten in der gesetzlichen Krankenversicherung
+## Hinweis
 
 Die Anfrage wurde zurückgezogen.

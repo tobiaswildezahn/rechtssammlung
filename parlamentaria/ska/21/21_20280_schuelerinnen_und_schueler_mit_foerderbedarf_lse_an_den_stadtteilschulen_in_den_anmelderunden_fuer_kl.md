@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/20213", "21/20161", "21/16337", "21/12258", "21/8830", "21/12259", "21/8676", "21/16800", "21/12841"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70057"
@@ -63,7 +64,7 @@ Wie viele Schülerinnen und Schüler wurden in den einzelnen Jahren 2017 bis 201
 
 Wie viele der in den einzelnen Jahren 2017 bis 2019 jeweils an den einzelnen Stadtteilschulen für Klasse 5 aufgenommenen Schülerinnen und Schüler hatten einen Förderbedarf im Bereich LSE (ohne Differenzierung nach L, S und E)? (Die Daten aus 3. und 4. in einer Excel-Tabelle darstellen.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Zu den Daten für das Schuljahr 2019/2020 siehe Drs. 21/16800 und für das Schuljahr 2018/2019 siehe Drs. 21/12841.
 

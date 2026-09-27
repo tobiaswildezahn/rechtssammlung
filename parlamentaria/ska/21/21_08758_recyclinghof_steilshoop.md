@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57524"
@@ -79,7 +80,7 @@ Ist geplant, an einem oder zwei Tagen in der Woche längere Öffnungszeiten für
 
 Gibt es an anderen Recyclinghöfen Öffnungszeiten nach 18.00 Uhr? Wenn ja: wann und wo? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Entsprechende Planungen gibt es nicht.
 

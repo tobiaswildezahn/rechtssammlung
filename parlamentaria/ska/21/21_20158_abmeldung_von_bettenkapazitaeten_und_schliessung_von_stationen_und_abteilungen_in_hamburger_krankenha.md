@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18068"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69933"
@@ -53,7 +54,7 @@ In welchen Hamburger Krankenhäusern wurden im Jahr 2019 Betten, Stationen und/o
 
 In welchen Hamburger Krankenhäusern wurden im Jahr 2019 Betten, Stationen und/oder Abteilungen wegen anderer Gründe gesperrt, geschlossen oder abgemeldet? (Bitte soweit möglich aufschlüsseln nach Grund der Sperrung, Schließung oder Abmeldung, Krankenhaus, Abteilung, Datum der Sperrung, Schließung oder Abmeldung, Dauer der Sperrung, Schließung oder Abmeldung und der Behandlungskapazität der jeweiligen Abteilung im Sollzustand.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der zuständigen Behörde liegen im Zusammenhang mit der Notfallversorgung Angaben zu temporären stundenweisen Sperrungen vor (siehe Drs. 21/18068 – neuere Daten liegen zurzeit noch nicht qualitätsgesichert vor.) Solche Schließungen sind auch vor der Einführung der PpUGs erfolgt. Eine Differenzierung hinsichtlich der Wirkung der PpUG ist nicht möglich. Im Übrigen siehe Antwort zu 4.
 

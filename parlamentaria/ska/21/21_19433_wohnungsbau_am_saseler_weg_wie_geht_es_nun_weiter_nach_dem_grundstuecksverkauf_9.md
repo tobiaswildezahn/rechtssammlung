@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 63007
 seiten: 2
 fragen: 6
-einzelfragen: 9
-antwortbloecke: 6
+einzelfragen: 11
+antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19173", "21/18677"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69153"
@@ -74,15 +75,20 @@ Es wurde eine weitere Fristverlängerung für das Einreichen der Unterlagen auf 
 ### Frage 5
 
 In der Drs. 21/19173 spricht der Senat von einem im September 2019 geschlossenen Nachtrag zum Kaufvertrag. In der Drs. 21/18677 im Oktober 2019 wurde dies bei der Frage „Wurde ein Nachtrag zum Kaufvertrag vereinbart oder ist dies beabsichtigt?“ jedoch nicht erwähnt.
-5.1. Wann wurden für den Verkauf des Grundstücks Saseler Weg 11 jeweils welche Nachträge aus welchen Gründen und mit welchem Inhalt abgeschlossen?
 
-#### Antwort zu Frage 5
+### Frage 5.1
+
+Wann wurden für den Verkauf des Grundstücks Saseler Weg 11 jeweils welche Nachträge aus welchen Gründen und mit welchem Inhalt abgeschlossen?
+
+#### Antwort zu Fragen 5 und 5.1
 
 Im September 2019 wurde ein Nachtrag bezüglich der veränderten Flächenaufteilung geschlossen.
 
-5.2. Werden derzeit weitere Nachträge geprüft oder vorbereitet?
+### Frage 5.2
 
-Wenn ja, aus welchen Gründen im Einzelnen?
+Werden derzeit weitere Nachträge geprüft oder vorbereitet? Wenn ja, aus welchen Gründen im Einzelnen?
+
+#### Antwort zu Frage 5.2
 
 Ein weiterer Nachtrag befindet sich aktuell in Abstimmung. Siehe Drs. 21/18677.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 26
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11467", "21/11542"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61355"
@@ -143,13 +144,13 @@ Welche Fallkonstellationen tauchen auf, die bei Erlass der Gebührenordnung nich
 
 Im Wesentlichen können die Fallkonstellationen durch die in der Gebührenordnung formulierten Regelungen abgebildet werden. Es gibt jedoch auch Einzelfallkonstellationen, die gesondert betrachtet und geprüft werden müssen. Hierunter fallen zum Beispiel
 
- Familien mit mehr als vier Personen in einer Bedarfsgemeinschaft,
+– Familien mit mehr als vier Personen in einer Bedarfsgemeinschaft,
 
- Personen, deren Aufenthaltsstatus eine Wohnungsversorgung verhindert und
+– Personen, deren Aufenthaltsstatus eine Wohnungsversorgung verhindert und
 
 denen damit die Handlungsalternative zur öffentlich-rechtlichen Unterbringung fehlt,
 
- Personen in Ausbildung, die nicht über den Abschnitt 2.2. der Gebührenordnung
+– Personen in Ausbildung, die nicht über den Abschnitt 2.2. der Gebührenordnung
 
 zur öffentlich veranlassten Unterbringung abgedeckt sind.
 

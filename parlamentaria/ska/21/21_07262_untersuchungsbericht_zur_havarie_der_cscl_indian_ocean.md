@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 22
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55859"
@@ -53,7 +54,7 @@ Welche Maßnahmen wurden auf dem Havaristen CSCL INDIAN OCEAN bis zum Auslaufen 
 
 Welche Behörden und Institutionen haben sich bis zum Auslaufen des Havaristen am 12.02.2016 durch Kontrollen vergewissert, dass die SAFEMATIC korrekt installiert ist, sodass eine Auslaufgenehmigung erteilt werden konnte?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die CSCL INDIAN OCEAN wurde im Hamburger Hafen am 9. Februar 2016 einer Hafenstaatkontrolle durch die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation (BG Verkehr) unterzogen und mit einer schriftlichen Festhalteverfügung bis zur Abstellung der gefundenen Mängel festgehalten. Zur Mängelbeseitigung wurde die Klassifikationsgesellschaft DNV-GL beauftragt. Die SAFEMATIC wurde als nicht ausrüstungspflichtige Sicherungseinrichtung bis zur Klärung der Ursachen außer Betrieb genommen.
 
@@ -69,25 +70,25 @@ Gab es Auflagen für die Auslaufgenehmigung? Wenn ja, wie lauten diese?
 
 Die Auflagen der Auslaufgenehmigung der HPA für die CSCL INDIAN OCEAN lauteten wie folgt:
 
- Der Liegeplatz darf nur im Zeitraum von zwei Stunden vor Hochwasser bis eine
+– Der Liegeplatz darf nur im Zeitraum von zwei Stunden vor Hochwasser bis eine
 
 Stunde vor Niedrigwasser verlassen werden.
 
- Der Tiefgang des Schiffes darf tideunabhängig 11,60 m und tideabhängig 12,40 m
+– Der Tiefgang des Schiffes darf tideunabhängig 11,60 m und tideabhängig 12,40 m
 
 in Frischwasser nicht übersteigen.
 
- Das Schiff hat sich innerhalb des Hamburger Hafens von zwei Hafenlotsen beraten
+– Das Schiff hat sich innerhalb des Hamburger Hafens von zwei Hafenlotsen beraten
 
 zu lassen.
 
- Das Schiff hat im Hamburger Hafen Radarberatung in Anspruch zu nehmen.
+– Das Schiff hat im Hamburger Hafen Radarberatung in Anspruch zu nehmen.
 
- Für das Ablegemanöver sind mindestens zwei Schlepper anzunehmen, von denen
+– Für das Ablegemanöver sind mindestens zwei Schlepper anzunehmen, von denen
 
 ein Schlepper bis zur Landesgrenze beim Schiff verbleibt.
 
- Das Befahren des Hamburger Hafens darf nur bei Windstärken bis einschließlich 6
+– Das Befahren des Hamburger Hafens darf nur bei Windstärken bis einschließlich 6
 
 Beaufort erfolgen.
 

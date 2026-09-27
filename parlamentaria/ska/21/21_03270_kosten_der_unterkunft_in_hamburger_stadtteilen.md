@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51633"
@@ -43,7 +44,7 @@ Welche Stadtteile fielen mit der Aktualisierung der Fachanweisung aus der in 3.4
 
 Welche Stadtteile sind analog zur Fragestellung aus Frage 1. hinzugekommen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Mit der Aktualisierung der Fachanweisung zu § 22 SGB II zum 1. September 2015 sind aus der in Ziffer 3.4 aufgeführten Stadtteilliste keine Stadtteile herausgefallen und keine Stadtteile hinzugekommen.
 

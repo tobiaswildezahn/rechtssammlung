@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/330"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52096"
@@ -43,7 +44,7 @@ Welches Personal steht den bezirklichen KuZ derzeit tatsächlich zur Verfügung?
 
 Welche personellen Vakanzen gibt es derzeit und absehbar bis Ende 2016 in den einzelnen KuZ?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1. Die Bezirksämter beabsichtigen, die vakanten Stellen sobald wie möglich zu besetzen.
 

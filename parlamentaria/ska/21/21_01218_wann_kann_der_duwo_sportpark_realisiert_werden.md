@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49408"
@@ -50,7 +51,7 @@ Wenn nein, warum nicht?
 
 Welche Möglichkeiten sieht das zuständige Bezirksamt, dass der Sondermittelantrag des TSV DUWO 08 in Höhe von 893.615 Euro in voller Höhe positiv beschieden wird?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat begrüßt grundsätzlich Initiativen von Sportvereinen, die eine weitere Verbesserung der Sportinfrastruktur zum Ziel haben.
 

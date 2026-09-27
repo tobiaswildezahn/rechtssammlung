@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8768", "21/8935", "21/8498"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57823"
@@ -174,7 +175,7 @@ Ab wann sollen jeweils wie viele Plätze für Untersuchungshaftgefangene im Rahm
 
 Nach dem Vollstreckungsplan ist die Untersuchungshaftanstalt auch zuständig für die Unterbringung von gemäß § 13 ff des Gesetzes zum Schutz der öffentlichen Sicherheit und Ordnung (SOG) für mehr als 48 Stunden in Gewahrsam genommenen Personen. In welcher Justizvollzugsanstalt und welchen Stationen wird diese Unterbringung im Rahmen des G20-Gipfels erfolgen und wie viele Plätze sind hierfür vorgesehen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antwort zu 5.
 

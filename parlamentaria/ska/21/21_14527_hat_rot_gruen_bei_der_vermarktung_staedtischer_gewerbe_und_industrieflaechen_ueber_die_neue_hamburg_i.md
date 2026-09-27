@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 18
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8486", "21/10723", "21/14050", "20/13587"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64007"
@@ -102,21 +103,21 @@ Von welchen anderen Stellen (HWF, LIG, BWVI) wurden jeweils welche Aufgaben übe
 
 Wie viele VZÄ wurden jeweils in welchen anderen städtischen Landesbetrieben, Beteiligungen oder Behörden (wie HWF, LIG, BWVI) durch Übernahme der Aufgaben durch das HIE eingespart? Sollte es zu keinen Einsparungen gekommen sein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Auf die HIE sind folgende Aufgaben übertragen worden:
 
- LIG: Entwicklung, Vermarktung, Verkauf sowie Bestandsverwaltung für die auf die
+– LIG: Entwicklung, Vermarktung, Verkauf sowie Bestandsverwaltung für die auf die
 
 HIE übertragenen Grundstücke,
 
- BWVI: Erschließung von städtischen Gewerbegrundstücke.
+– BWVI: Erschließung von städtischen Gewerbegrundstücke.
 
 Es sind keine Aufgaben von der HIW auf die HIE übertragen worden.
 
 Auf die HIW (vormals HWF Hamburgische Gesellschaft für Wirtschaftsförderung mbH) ist folgende Aufgabe übertragen worden:
 
- BWVI: Mitwirkung an der Grundstücksvergabe.
+– BWVI: Mitwirkung an der Grundstücksvergabe.
 
 Durch die Aufgabenübertragung an die Gesellschaften der Hamburg Invest ist in der BWVI ein VZÄ eingespart worden. Im LIG wurden die an die HIE übertragenen Aufgaben von verschiedenen Fachbereichen wahrgenommen. Die betroffenen Fachbereiche haben Aufgaben im Umfang von zwei VZÄ abgegeben.
 

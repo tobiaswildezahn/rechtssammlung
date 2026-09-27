@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 15
 antwortbloecke: 0
 beantwortet: false
+status: "unbeantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105352"
@@ -27,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Heike Sudmann (Die Linke) vom 21.09.26 und Antwort des Senats · Drucksache vom 21.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105352) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105352/23_05435_neuer_bahnhof_diebsteich_leistungsfaehigkeitsnachweis_genauso_wertlos_wie_der_fuer_stuttgart_21_gutachter_sma_im_zwielicht)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

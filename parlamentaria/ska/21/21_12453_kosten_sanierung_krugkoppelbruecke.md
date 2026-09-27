@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61752"
@@ -43,7 +44,7 @@ Welche Kosten sind bisher für die Sanierungsarbeiten angefallen und welche weit
 
 In welcher Höhe wurden ursprünglich die Sanierungskosten der Krugkoppelbrücke angesetzt? Bitte nach Maßnahmen aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bei den Sanierungsarbeiten an der denkmalgeschützten Krugkoppelbrücke handelt es sich um eine zusammenhängende Maßnahme. Bisher sind für die Sanierung Kosten in Höhe von 856.000 Euro angefallen. In der Kostenunterlage wurden insgesamt
 2.876.000 Euro eingeplant. Die noch zu erwartenden Kosten liegen im Rahmen der Kostenunterlage.

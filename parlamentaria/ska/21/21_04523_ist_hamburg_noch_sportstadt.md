@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 22
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/4967"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52938"
@@ -123,7 +124,7 @@ Wie haben sich die Kosten der Landesleistungszentren seit 2011 entwickelt? (Bitt
 
 Wer hat seit 2011 Finanzierungsbeiträge in welcher Höhe für Landesleistungszentren geleistet? (Bitte jahresweise und für jedes Zentrum einzeln die jeweiligen Geldgeber und deren Finanzierungsanteile aufschlüsseln.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Fachverbände finanzieren ihre Landesleistungszentren überwiegend aus Eigenmitteln, welche sie über ihre Mitgliedereinnahmen generieren. Der zuständigen Behörde liegen vor dem Hintergrund der Sportselbstverwaltung keine Kenntnisse über die Höhe dieser Mittel vor.
 
@@ -197,47 +198,47 @@ Da keine allgemeingültige Definition für den Begriff „Großveranstaltung“ 
 
 2011:
 
- Haspa Marathon Hamburg
+– Haspa Marathon Hamburg
 
- Dextro Energy Triathlon ITU World Championship Hamburg
+– Dextro Energy Triathlon ITU World Championship Hamburg
 
- Vattenfall Cyclassics
+– Vattenfall Cyclassics
 
 2012:
 
- Haspa Marathon Hamburg
+– Haspa Marathon Hamburg
 
- Dextro Energy Triathlon ITU World Championship Hamburg
+– Dextro Energy Triathlon ITU World Championship Hamburg
 
- Vattenfall Cyclassics
+– Vattenfall Cyclassics
 
 2013:
 
- Haspa Marathon Hamburg
+– Haspa Marathon Hamburg
 
- ITU World Triathlon Hamburg
+– ITU World Triathlon Hamburg
 
- Vattenfall Cyclassics
+– Vattenfall Cyclassics
 
 2014:
 
- Haspa Marathon Hamburg,
+– Haspa Marathon Hamburg,
 
- ITU World Triathlon Hamburg,
+– ITU World Triathlon Hamburg,
 
- Vattenfall Cyclassics
+– Vattenfall Cyclassics
 
 2015:
 
- Haspa Marathon Hamburg
+– Haspa Marathon Hamburg
 
- Feuer und Flamme World Triathlon Hamburg
+– Feuer und Flamme World Triathlon Hamburg
 
- Vattenfall Cyclassics
+– Vattenfall Cyclassics
 
 2016:
 
- Haspa Marathon Hamburg
+– Haspa Marathon Hamburg
 
 ### Frage 9
 
@@ -247,9 +248,9 @@ Welche sportlichen Großveranstaltungen werden bis Ende des laufenden Jahres in 
 
 Für den weiteren Jahresverlauf wird mit der Austragung der folgenden sportlichen Großveranstaltungen geplant:
 
- Hamburg Wasser Triathlon (16./17.07.)
+– Hamburg Wasser Triathlon (16./17.07.)
 
- Hamburg Cyclassics (21.08.).
+– Hamburg Cyclassics (21.08.).
 
 ### Frage 10
 
@@ -267,7 +268,7 @@ Für welche deutschen Meisterschaften hat sich Hamburg beworben und wie ist der 
 
 Für welche Europameisterschaften hat sich Hamburg beworben und wie ist der Sachstand?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die Bewerbung um deutsche und Europameisterschaften erfolgt in der Regel durch die jeweiligen Sportfachverbände beziehungsweise durch Veranstaltungsagenturen. Insbesondere bei nationalen Wettbewerben findet oftmals erst nach erteiltem Zuschlag an einen Bewerber eine Mitteilung an die zuständige Behörde statt. Nur in Einzelfällen und bei entsprechendem Bedarf erfolgen bereits vor der Abgabe von Bewerbungen Abstimmungen mit der zuständigen Behörde.
 

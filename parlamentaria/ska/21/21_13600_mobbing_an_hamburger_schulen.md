@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 14
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10344", "21/646", "21/13544"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62966"
@@ -63,7 +64,7 @@ Wie viele Schulen nehmen eines beziehungsweise beide gegenwärtig in Anspruch?
 
 Wie viele Personen sind dabei jeweils involviert? Bitte in Hinblick auf die Schulen sowie die Anzahl von Schülern und Lehrern beantworten.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Eine Inanspruchnahme beider Programme an einer Schule ist konzeptionell nicht vorgesehen, da das Präventionsangebot „Gegen den Strich“ ein Angebot für Grundschulen und das Präventionsangebot „Mobbingfreie Schule – Gemeinsam Klasse sein“ ein Angebot für Stadtteilschulen und Gymnasien ist.
 

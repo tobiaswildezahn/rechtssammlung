@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11217"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64978"
@@ -106,7 +107,7 @@ Wie lange waren die verletzten Mitarbeiterinnen und Mitarbeiter jeweils nicht di
 
 Wie hoch sind die dem Dienstherrn durch die zugeführten Verletzungen im jeweiligen Einzelfall entstandenen Kosten?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die erfragten Daten für Bedienstete der Polizei sind in der folgenden Tabelle dargestellt:
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51620"
@@ -81,7 +82,7 @@ Welche Richtlinien gibt es für Hochschulverwaltungen bezüglich der Schließung
 
 Inwieweit sind insbesondere die Hochschulverwaltungen gehalten, bei ihren diesbezüglichen Entscheidungen auch a. die vorhandene Qualität des Studiengangs, b. den Bedarf für Absolventen des Studiengangs in der Wirtschaft beziehungsweise in der Forschung, c. die Vernetzung mit anderen forschungsrelevanten Institutionen (hier: das Johann Heinrich von Thünen-Institut), d. die Vernetzung mit der Wirtschaft sowie sonstigen wissenschaftlichen Einrichtungen zu berücksichtigen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im Rahmen der Hochschulautonomie planen die Hochschulen ihr Studienangebot eigenständig. Sie können dabei die in der Frage genannten Kriterien berücksichtigen und bilden die Hochschulplanung und -entwicklung in ihren jeweiligen Struktur- und Entwicklungsplänen ab.
 

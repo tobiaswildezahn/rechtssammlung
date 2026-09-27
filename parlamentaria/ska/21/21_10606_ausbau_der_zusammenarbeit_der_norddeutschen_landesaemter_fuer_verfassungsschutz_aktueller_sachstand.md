@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59497"
@@ -67,12 +68,12 @@ Die gemeinsame Zusammenarbeit an der Weiterentwicklung der G10-Anlage wird durch
 
 Darüber hinaus findet eine enge und regelhafte Zusammenarbeit in allen Extremismusbereichen auf verschiedenen Ebenen und in unterschiedlichen Foren statt. Beispielhaft sind zu nennen:
 
- Enger Austausch im Rahmen der bundesweiten Foren Gemeinsame Extremismus-
+– Enger Austausch im Rahmen der bundesweiten Foren Gemeinsame Extremismus-
 
 und Terrorismusabwehrzentrum (GETZ) und Gemeinsames Terrorismusabwehrzentrum (GTAZ)
 
- Norddeutsche Leitertagungen der Observationsreferate
+– Norddeutsche Leitertagungen der Observationsreferate
 
- Norddeutsche Auswerter- und Beschaffertagungen im Bereich Rechtsextremismus
+– Norddeutsche Auswerter- und Beschaffertagungen im Bereich Rechtsextremismus
 
 Auch anlassbezogen erfolgt eine enge Kooperation. So unterstützten sich die Observationseinheiten in verschiedenen Verdachtsfällen des islamistischen Terrorismus. Im Rahmen des G 20-Gipfels arbeiteten neben dem Landesamt für Verfassungsschutz Hamburg auch andere norddeutsche Verfassungsschutzämter im Rahmen einer „Lageorientierten Sonderorganisation" (LoS) eng zusammen.

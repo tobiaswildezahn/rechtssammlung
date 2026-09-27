@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55773"
@@ -49,7 +50,7 @@ Wie beurteilt es die zuständige Wissenschaftssenatorin, dass an einer staatlich
 
 Die Ausrichtung von Veranstaltungen, an denen extremistische Gruppen beziehungsweise Personen teilnehmen oder sogar Mitausrichter sind, wird regelmäßig kritisch durch die Medien begleitet. Wie schätzt die Wissenschaftssenatorin den Imageschaden für die jeweilige Hochschule beziehungsweise für den Hochschulstandort Hamburg ein?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -63,21 +64,21 @@ Den Mietvertrag für die Veranstaltung hatte die HAW unter der Voraussetzung unt
 
 der HAW folgende weitere, außeruniversitäre Gruppierungen als Veranstalter und Einladende auf:
 
- Gegenstrom/Ende Gelände Hamburg
+– Gegenstrom/Ende Gelände Hamburg
 
- Gruppe für den organisierten Widerspruch (Grow), Hamburg
+– Gruppe für den organisierten Widerspruch (Grow), Hamburg
 
- Interventionistische Linke Hamburg
+– Interventionistische Linke Hamburg
 
- JXK Hamburg – Studierende Frauen aus Kurdistan
+– JXK Hamburg – Studierende Frauen aus Kurdistan
 
- Netzwerk „Recht auf Stadt“ Hamburg
+– Netzwerk „Recht auf Stadt“ Hamburg
 
- PRP-Projekt Revolutionäre Perspektive Hamburg
+– PRP-Projekt Revolutionäre Perspektive Hamburg
 
- YXK Hamburg – Verband der Studierenden aus Kurdistan
+– YXK Hamburg – Verband der Studierenden aus Kurdistan
 
- “Recht auf Stadt – never mind the papers!”
+– “Recht auf Stadt – never mind the papers!”
 
 ### Frage 4
 

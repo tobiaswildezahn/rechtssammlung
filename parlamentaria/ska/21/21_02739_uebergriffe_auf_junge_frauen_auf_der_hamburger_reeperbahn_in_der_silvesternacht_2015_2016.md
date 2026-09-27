@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51073"
@@ -80,7 +81,7 @@ Wie viele Strafanzeigen von weiblichen Opfern sind bei der Hamburger Polizei weg
 
 Wie viele der unter Frage 1. genannten Taten stehen im Zusammenhang mit der oben erwähnten Berichterstattung?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine Feststellung aller erfragten Delikte, die in der Nacht vom 31. Dezember 2015 auf den 1. Januar 2016 im Bereich Reeperbahn und angrenzender Straßen und Plätze zum Nachteil von Frauen begangen wurden, ist im Sinne der Fragestellung nicht möglich. Der örtlich zuständigen Dienststelle des Landeskriminalamtes (LKA 11) liegen für den entsprechenden Zeitraum über die in der Vorbemerkung hinausgehenden Anzeigen insgesamt mehrere Hundert Strafanzeigen vor. Die Auswertung der Anzeigen hinsichtlich Tatzeit, Tatörtlichkeit und Geschlecht müsste händisch erfolgen und ist in der für die Bearbeitung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

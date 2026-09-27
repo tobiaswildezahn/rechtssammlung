@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14611"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64315"
@@ -101,7 +102,7 @@ Wie viele minderjährige Flüchtlinge sind seit September 2015 freiwillig in ihr
 
 Um welche Länder handelt es sich hierbei?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Eine statistische Erfassung der Altersgruppen bei freiwilligen Ausreisen erfolgt erst seit September 2017 durch das Einwohner-Zentralamt. Seitdem reisten bis zum
 30. September 2018 insgesamt 51 minderjährige Personen nachweislich freiwillig aus. Die Herkunftsländer sind der folgenden Übersicht zu entnehmen:
@@ -135,17 +136,17 @@ Darüber hinaus ist für eine Ausreise grundsätzlich ein Nationalpass oder Pass
 
 Bei einer freiwilligen Rückkehr von unbegleiteten minderjährigen Ausländern sind bei der Umsetzung einer freiwilligen Rückkehr verbindliche Standards einzuhalten, welche sich auf Beschlüsse der IOM-Mitgliedstaaten und auf völkerrechtlich verankerte Prinzipien gründen und der Wahrung von Kinderrechten und der Gewährleistung des Kindeswohls dienen. Vor der operativen Umsetzung der freiwilligen Rückkehr eines unbegleiteten Minderjährigen im Rahmen des REAG/GARP-Programms müssen deshalb unter anderem folgende Voraussetzungen erfüllt sein:
 
- Berücksichtigung der familiären Situation im Zielland und des Kindeswohls
+– Berücksichtigung der familiären Situation im Zielland und des Kindeswohls
 
- Identifizierung der gesetzlichen Vertretung in Deutschland
+– Identifizierung der gesetzlichen Vertretung in Deutschland
 
- Identifizierung der mit der elterlichen Sorge beauftragten Personen im Zielland
+– Identifizierung der mit der elterlichen Sorge beauftragten Personen im Zielland
 
- Freiwilligkeit der Entscheidung zur Rückkehr und Bestätigung der Orientierung am
+– Freiwilligkeit der Entscheidung zur Rückkehr und Bestätigung der Orientierung am
 
 Kindeswohl
 
- Begleitung während der Rückkehr und Berücksichtigung von gesundheitlichen
+– Begleitung während der Rückkehr und Berücksichtigung von gesundheitlichen
 
 Aspekten
 
@@ -163,7 +164,7 @@ Wie viele der in Hamburg untergebrachten minderjährigen Flüchtlinge haben seit
 
 Wie viele von ihnen haben nachweislich verschiedene Identitäten benutzt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Angaben zu diesen Fragestellungen werden nicht in statistisch auswertbarer Form erfasst. Zur Beantwortung der Frage wäre eine händische Auswertung mehrerer Hundert Ausländerakten erforderlich. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -175,7 +176,7 @@ Wie viele minderjährige Flüchtlinge sind in Hamburg seit dem 1. Januar 2015 st
 
 In wie vielen Fällen ist es infolgedessen zu Verurteilungen gekommen? Bitte jeweils hinsichtlich Jahr, Alter, Geschlecht und Strafmaß aufschlüsseln.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Ob sich ein Verfahren gegen einen minderjährigen Flüchtling oder gegen einen Jugendlichen richtet, wird im Vorgangsverwaltungs- und -bearbeitungssystem MESTA der Staatsanwaltschaft nicht gespeichert. Zur Beantwortung der Frage müsste daher eine Akteneinzelauswertung erfolgen. Im Geschäftsbereich der Jugendabteilungen wurden allein 2017 über 20.000 Verfahren in MESTA erfasst.
 

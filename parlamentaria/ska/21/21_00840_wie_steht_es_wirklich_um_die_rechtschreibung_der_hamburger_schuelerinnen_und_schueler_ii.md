@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/715"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48987"
@@ -85,6 +86,6 @@ j) Grundschule Goosacker,
 k) Grundschule Windmühlenweg?  
 Bitte die jeweiligen Ergebnisse in Form einer Klassenliste vorlegen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.

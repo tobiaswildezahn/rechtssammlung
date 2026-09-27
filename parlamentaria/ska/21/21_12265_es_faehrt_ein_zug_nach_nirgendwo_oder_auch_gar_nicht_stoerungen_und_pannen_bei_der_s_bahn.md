@@ -14,6 +14,7 @@ fragen: 27
 einzelfragen: 33
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8240"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61539"
@@ -123,7 +124,7 @@ Siehe Antwort zu 3. bis 6.
 
 Auf welche Art und Weise werden Fahrgäste der S-Bahn über einen etwaigen Schienenersatzverkehr (SEV) und die Dauer möglicher Verspätungen im Falle von Betriebsstörungen informiert?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Bei Abweichungen, die lediglich einzelne Züge betreffen, erfolgen Ansagen im Zug und am Bahnsteig.
 
@@ -159,7 +160,7 @@ Wie hat sich die Zahl der Gesamtverspätungsminuten bei der S-Bahn seit 2011 ent
 
 Bei welchem Wert liegt die Zahl der Gesamtverspätungsminuten bei der S-Bahn aktuell im laufenden Jahr?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Pünktlichkeitsquoten  
 2011  
@@ -187,7 +188,7 @@ Wie viele Langsamfahrstellen wurden seit 2011 außerhalb des Fahrplans für das 
 
 Wie viele Langsamfahrstellen wurden im laufenden Jahr außerhalb des Fahrplans für das Hamburger S-Bahnnetz angeordnet?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Hierzu wird keine Statistik geführt.
 
@@ -211,7 +212,7 @@ Wie viele Infrastrukturmängel wurden seit 2011 für das S-Bahn-Netz festgestell
 
 Wie viele Infrastrukturmängel wurden im laufenden Jahr für das S-Bahn- Netz festgestellt? Bitte nach Art der Mängel aufschlüsseln.
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Eine Statistik nach Anzahl und Art der Infrastrukturmängel wird durch die S-Bahn nicht geführt.
 
@@ -228,7 +229,7 @@ In Drs. 21/8240 antwortete der Senat auf die Fragen 7. und 8.: „Grundsätzlich
 a) für die Kategorien „Inspektion und Wartung“, „Entstörung“, „Instandsetzung und sonstige Instandhaltung“ aufschlüsseln.
 b) für die Kategorien „Brücken“, „Oberbau“, „Licht- und Signaltechnik“, „Telekommunikationsanlagen“, „Oberleitungsanlagen/Stromschienen“ und „Sonstige Objekte“ aufschlüsseln.
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Die Infrastrukturzustands- und Entwicklungsberichte (IZB) der Eisenbahninfrastrukturunternehmen des Bundes sind der Homepage des Eisenbahn-Bundesamtes zu entnehmen: https://www.eba.bund.de/SharedDocs/Downloads/DE/Finanzierung/IZB/ IZB_2016.html.
 

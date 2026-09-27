@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 18
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14126", "21/14262"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64037"
@@ -122,7 +123,7 @@ In Drs. 21/14262 heißt es, dass bezüglich der Gesundheitsversorgung der Obdach
 
 Auch sollen Gespräche mit den die mobile Gesundheitsversorgung „tragenden Einrichtungen beziehungsweise Organisationen zur Koordination der Angebote gesucht“ worden seien. Welche Ergebnisse und vor allem Änderungen beim Angebot ergaben sich zu welchen Konditionen aus den Gesprächen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Träger der mobilen Angebote zur Gesundheitsversorgung haben zu erkennen gegeben, dass erneut auch die Standorte des Winternotprogramms in die dortigen Planungen aufgenommen wurden. Weitergehende Erörterungen, insbesondere im Hinblick auf die Aufgabenverteilung unter den Mobilen, sind terminiert.
 

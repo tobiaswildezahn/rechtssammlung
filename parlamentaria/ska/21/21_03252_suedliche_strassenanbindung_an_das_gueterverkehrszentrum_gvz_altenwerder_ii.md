@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3030", "21/2314"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51615"
@@ -163,6 +164,6 @@ a) zum Ausbau der A 7 beziehungsweise der Sanierung der Hochstraße Elbmarsch,
 b) zu der Hafenquerspange und
 c) für das Kreuz zwischen der A 7 und der A 26 in Höhe der Anschlussstelle Moorburg den Verkehrsfluss positiv zu beeinflussen und diesen trotz der umfassenden Baumaßnahmen und der zu erwartenden Stauentwicklung zu entspannen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die genannten Maßnahmen befinden sich in einem frühen Planungsstadium. Im Rahmen der Ausführungsplanung von Bauvorhaben werden grundsätzlich die Erreichbarkeiten im Umfeld weitgehend gesichert. Im Übrigen siehe Drs. 21/3030.

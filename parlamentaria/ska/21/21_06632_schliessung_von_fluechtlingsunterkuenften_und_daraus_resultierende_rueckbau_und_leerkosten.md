@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4943", "21/4940", "21/4508", "21/6608"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55292"
@@ -228,7 +229,7 @@ Wie viele Mitarbeiter hatten zum Zeitpunkt der Außerbetriebnahme der im Jahr 20
 
 In welchem Umfang sind die unter Frage 6. genannten Mitarbeiter in anderen Flüchtlingsunterkünften tätig?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Bezeichnung  
 Datum  
@@ -280,6 +281,6 @@ Für wie viele in geschlossenen Erstaufnahmen ursprünglich tätig gewesene Mita
 
 In welcher Höhe zahlt die Stadt Hamburg pro Monat Gehälter für ehemalige Mitarbeiter der Betreiber von Flüchtlingsunterkünften (inklusive fördern und wohnen), die im Rahmen der Flüchtlingsunterbringung und auch anderswo nicht weiter eingesetzt werden konnten?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die jeweiligen Betreiber setzen ihre Mitarbeiterinnen und Mitarbeiter grundsätzlich einrichtungsübergreifend ein. Mit Schließung von Einrichtungen erfolgt ein Einsatz des Personals in anderen bestehenden Einrichtungen. Soweit die Freie und Hansestadt Hamburg (FHH) Gehälter zahlt, sind die bezahlten Mitarbeiter im Rahmen der Flüchtlingsunterbringung eingesetzt.

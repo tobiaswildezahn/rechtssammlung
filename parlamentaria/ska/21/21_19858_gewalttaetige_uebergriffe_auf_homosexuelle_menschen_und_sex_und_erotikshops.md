@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3165"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69706"
@@ -51,7 +52,7 @@ Wie viele Übergriffe der beschriebenen Art sind dem Senat bekannt?
 
 Sind die Tatverdächtigen dieser Taten ermittelt worden oder wird noch gegen diese ermittelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die erfragten Kategorien betreffend Tatort, Tatmotiv und Opfer werden in der Polizeilichen Kriminalstatistik (PKS) nicht erfasst. Für die Beantwortung wäre eine Durchsicht mehrerer Hunderttausend Hand- und Ermittlungsakten bei der Polizei erforderlich. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -248,15 +249,15 @@ Welchen ausländerrechtlichen Status haben die Verdächtigen und Verurteilten?
 
 Die zu Frage 1. und 2. genannten ermittelten vier Tatverdächtigen sind im Einzelnen
 
- im Besitz einer Aufenthaltserlaubnis aus völkerrechtlichen, humanitären oder politi-
+– im Besitz einer Aufenthaltserlaubnis aus völkerrechtlichen, humanitären oder politi-
 
 schen Gründen (derzeit in Form einer Fiktionsbescheinigung),
 
- deutscher Staatsangehörige,
+– deutscher Staatsangehörige,
 
- ohne Aufenthaltsstatus, zuletzt Ausreise am 30.11.2018,
+– ohne Aufenthaltsstatus, zuletzt Ausreise am 30.11.2018,
 
- laut Akte im Jahr 2019 abgeschoben, zuvor Feststellung des Verlusts der Freizü-
+– laut Akte im Jahr 2019 abgeschoben, zuvor Feststellung des Verlusts der Freizü-
 
 gigkeit.
 

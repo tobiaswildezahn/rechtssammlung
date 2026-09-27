@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9748"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58576"
@@ -45,7 +46,7 @@ Wie viele Festnahmen hat die Polizei zwischen dem 6. und 8. Juli durchgeführt?
 
 In wie vielen Fällen sind dabei Personen in Gewahrsam genommen worden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Einsatzverlauf wurden nach derzeitigem Kenntnisstand insgesamt 186 Festnahmen und 225 Gewahrsamnahmen durchgeführt. Im erfragten Zeitraum gab es 99 Festnahmen und 81 Gewahrsamnahmen. Die Angaben erfolgen unter Vorbehalt. Im Übrigen sind die erfragten Sachverhalte Gegenstand laufender Ermittlungen beziehungsweise der noch nicht abgeschlossenen Nachbereitung des Einsatzes der Strafverfolgungsbehörden zum G20-Gipfel.
 
@@ -97,7 +98,7 @@ Wie viele der erfassten Tatverdächtigen waren nachweislich als Studenten in Ham
 
 In wie vielen Fällen liegen dem Senat Hinweise darüber vor, dass einzelne Tatverdächtige Mitglieder in politischen Gruppierungen/Parteien sind?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die erfragten Sachverhalte werden im Zusammenhang mit Festnahmen nicht erfasst.
 

@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 30
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6679"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67960"
@@ -196,7 +197,7 @@ Wie groß ist die landwirtschaftlich genutzte Fläche der rezenten Moore? In wel
 
 Wie groß ist der landwirtschaftlich genutzte Anteil an den städtischen rezenten Moorflächen?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Landwirtschaftliche Nutzung findet auf 1 657 ha statt, wovon 22 ha Acker- und 1 635 ha Grünland sind.
 
@@ -289,7 +290,7 @@ In welchen zeitlichen Abständen hat der Senat dies bisher gegenüber der Bürge
 
 Wann wird es den nächsten Moorzustandsbericht geben?
 
-#### Antwort zu Fragen 20 bis 21
+#### Antwort zu Fragen 20 und 21
 
 Der Senat hat bisher gegenüber der Bürgerschaft keinen Moorzustandsbericht abgegeben.
 

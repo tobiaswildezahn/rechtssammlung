@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59620"
@@ -49,7 +50,7 @@ Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
 
 Wie ist die Beschaffenheit der Verkehrsinseln? Bitte aufgliedern in: Gehwege, Radwege, versiegelte Fläche, Grünfläche.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine statistische Erfassung der bezirklichen Flächen findet nicht statt.
 
@@ -61,7 +62,7 @@ Wie sind Unterhalt und Pflege der Verkehrsinseln organisiert? Welche Behörden d
 
 In welchen Abständen erfolgt die Überprüfung der Verkehrsinseln auf Schäden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Aufgabe der Pflege und Unterhaltung der Verkehrsinseln in Hamburgs Stadtstraßen außerhalb des Hafengebietes obliegt den Bezirksämtern. Im Hafengebiet ist die HPA für diese Aufgabe zuständig. Der Umfang richtet sich jeweils nach dem bei der Begehung festgestellten Handlungsbedarf.
 
@@ -75,7 +76,7 @@ Aktuell ist zu beobachten, dass die Plattenfugen der versiegelten Verkehrsinseln
 
 Hält der Senat angesichts der oben geschilderten Mängel die derzeitigen Unterhaltungsmaßnahmen auf den Verkehrsinseln für ausreichend und wie wird dies begründet?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Es wird kontinuierlich an der Verbesserung der Wildkrautbeseitigung gearbeitet, derzeit wird durch das Bezirksamt Hamburg-Mitte im Rahmen eines Pilotprojektes der Zustand hinsichtlich des Wildwuchses geprüft und werden anhand des Ergebnisses entsprechende Maßnahmen festgelegt.
 
@@ -87,7 +88,7 @@ Vor einigen Jahren bestand für den Bürger die Möglichkeit, eine Pflegepatensc
 
 Welche Richtlinien bestehen bei Pflegepatenschaften für die Gestaltung und die Pflege der übertragenen Verkehrsinseln und inwiefern erfolgt die Überwachung der Einhaltung dieser Regeln?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 „Grünpatenschaften“ in Hamburgs Stadtstraßen können von den Bezirksämtern eingerichtet werden. Diese „Grünpatenschaften“ werden bei Interesse für Flächen im Straßenbegleitgrün (am Fahrbahnrand), für Baumscheiben oder für Grünflächen auf Platzflächen vergeben. Im Bereich von Verkehrsinseln werden aufgrund der hohen Unfallgefahr keine Grünpatenschaften vergeben.
 

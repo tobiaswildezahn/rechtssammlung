@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 26
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4782", "21/2368", "20/13000", "21/1395"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53969"
@@ -59,7 +60,7 @@ Wie hoch ist das Eigenkapital der HPA auf Basis der testierten Geschäftsbericht
 
 Welche Einnahmequellen hat die HPA laut testierter Abschlüsse in 2015 erwirtschaftet?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Geschäftsbericht der HPA 2015. Der Geschäftsbericht wurde der Hamburgischen Bürgerschaft zugestellt.
 
@@ -105,7 +106,7 @@ Welche Investitionen für neue Infrastruktur und Anlagen stehen im Hafen in den 
 
 Welche Anlagen der Hafeninfrastruktur weisen nach derzeitigem Stand Sanierungs-, Grundinstandsetzungs-, Standardverbesserungs-, Kapazitätserweiterungs- und/oder Modernisierungsbedarfe auf beziehungsweise bei welchen dieser Anlagen wird in den kommenden fünf Jahren ein entsprechender Bedarf fällig? Mit welchen Kosten für die jeweiligen Anlagen rechnen Senat beziehungsweise zuständige Behörde?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Antwort zu 1.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1121"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58803"
@@ -70,7 +71,7 @@ Handelt es sich nach Einschätzung des Senats in diesem Zeitraum um ein erhöhte
 
 Wie viele Straftaten gegen die sexuelle Selbstbestimmung wurden in der Freien und Hansestadt Hamburg jeweils in den Jahren 2014, 2015, 2016 und 2017 (zum aktuellen Stichtag) verzeichnet?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Polizei erfasst Straftaten gemäß dem Straftatenkatalog der Richtlinien für die Erfassung und Verarbeitung der Daten in der Polizeilichen Kriminalstatistik (PKS). Die PKS ist eine Ausgangsstatistik, das heißt, eine Auswertung des zugrundeliegenden Vorganges und eine statistische Erfassung der Daten erfolgt erst bei der Abgabe eines Verfahrens an die Staatsanwaltschaft. So wird gewährleistet, dass das wesentliche Ermittlungsergebnis in der Statistik abgebildet wird. Eine Ausgangsstatistik ordnet Straftaten nicht dem Zeitpunkt der Tatbegehung, sondern dem der statistischen Erfassung zu. Daher bildet die PKS die tatsächliche Situation der polizeilich erfassten Kriminalität mit einem zeitlichen Nachlauf ab.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7809", "21/7594"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68313"
@@ -49,7 +50,7 @@ Auf welcher rechtlichen Basis wurde es dem Laboratory of Pharmacology and Toxico
 
 Inwieweit wurden die jeweiligen Versuchsanordnungen einzeln genehmigt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die rechtliche Basis für die Durchführung von Tierversuchen bilden das Tierschutzgesetz (TierSchG) und die Tierschutzversuchstierverordnung (TierSchVersV). Jedes einzelne Versuchsvorhaben, das durchgeführt werden soll, ist vorher bei der örtlich zuständigen Behörde gesondert zu beantragen oder anzuzeigen und wird einzeln entschieden.
 

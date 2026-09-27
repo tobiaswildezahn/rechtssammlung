@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60964"
@@ -101,7 +102,7 @@ Wer war Auftragnehmer für den im November 2012 gestarteten Ticketshop beziehung
 
 Welche/r Dienstleister waren/war in den Jahren 2012 bis 2017 für den Betrieb der HVV-App zuständig? Welche Kosten sind durch den Betrieb der HVV-App in den Jahren 2012 bis 2017 entstanden und wer hat diese zu welchen Anteilen jeweils getragen? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Auftragnehmerin beziehungsweise Dienstleisterin ist jeweils die eos.uptrade GmbH. Bei den Kosten handelt es sich um Betriebs- und Geschäftsgeheimnisse. Die Offenlegung der Informationen ist geeignet, die Wettbewerbsposition der Partner in künftigen Verfahren nachteilig zu beeinflussen, da sie Konkurrenten Rückschlüsse auf die zugrunde gelegte Kalkulation ermöglichen. Im Übrigen siehe Vorbemerkung.
 

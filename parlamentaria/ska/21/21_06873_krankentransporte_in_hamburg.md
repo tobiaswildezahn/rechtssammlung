@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 23
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6179", "21/6261"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55456"
@@ -141,6 +142,6 @@ Wenn nein: warum nicht?
 
 Wird es künftig eine einheitliche Leitstelle für Rettungsfahrten und Krankentransporte geben? Wenn ja: Wann wird diese ihre Arbeit aufnehmen? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Drs. 21/6261.

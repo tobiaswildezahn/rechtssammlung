@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60949"
@@ -67,7 +68,7 @@ Wie viele katholische Schulen gibt es hamburgweit? Wie verteilen sie sich auf di
 
 Wie groß sind die unter 1. aufgeführten Schulen jeweils, gemessen an ihrer Schüler-/-innenzahl und der jeweiligen Zügigkeit pro Jahrgang? Bitte den einzelnen Standorten zuordnen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Erzbistum Hamburg betreibt 21 katholische Schulen. Details zur Verteilung auf die Bezirke, zu den Schulformen und zur Anzahl der Schülerinnen und Schüler sowie der Klassen sind der Anlage zu entnehmen. Weitere Informationen finden sich auf der Homepage des Erzbistums: https://www.kseh.de/schulen/.
 

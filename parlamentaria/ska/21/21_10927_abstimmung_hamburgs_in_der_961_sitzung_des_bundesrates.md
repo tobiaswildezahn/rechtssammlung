@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 0
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59857"
@@ -138,7 +139,7 @@ Benennung von Mitgliedern und stellvertretenden Mitgliedern für den Eisenbahnin
 
 Benennung eines Mitglieds und eines stellvertretenden Mitglieds für den Beirat der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen
 
-#### Antwort zu Fragen 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24
+#### Antwort zu Fragen 2 bis 5 und 7 bis 24
 
 Über die wichtigsten Ergebnisse der Bundesratssitzung sind die Fraktionsvorsitzenden und Parlamentarischen Geschäftsführer der in der Bürgerschaft vertretenen Parteien am 3. November 2017, wie üblich direkt im Anschluss an die Sitzung, am Freitagnachmittag informiert worden. Die entsprechende Information ist überdies im Transparenzportal verfügbar.
 

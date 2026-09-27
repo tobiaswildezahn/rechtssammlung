@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9797", "21/1986"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58630"
@@ -75,21 +76,21 @@ Wichtige Treffpunkte der linksextremistischen Szene sind neben der Roten Flora u
 
 Welche linksextremen oder dem Linksextremismus nahestehenden Vereine, Gruppierungen und Institutionen werden vom Landesamt für Verfassungsschutz aktuell beobachtet oder über welcher dieser liegen ihm jeweils welche Erkenntnisse vor?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Polizei liegen folgende Erkenntnisse im Sinne der Fragestellungen vor:
 
 In der „Roten Flora“ fanden im Vorwege des G20-Gipfels insgesamt fünf sogenannte Vollversammlungen gegen den G20-Gipfel statt:
 
- 27. Oktober 2016
+– 27. Oktober 2016
 
- 2. März 2017
+– 2. März 2017
 
- 20. April 2017
+– 20. April 2017
 
- Juni 2017
+– Juni 2017
 
- 29. Juni 2017
+– 29. Juni 2017
 
 Unter einer Vollversammlung kann eine öffentliche Veranstaltung verstanden werden, in der unterschiedliche Themen durch die Teilnehmer behandelt werden. Zu Inhalten liegen der Polizei keine konkreten Erkenntnisse vor. Gemäß den Darstellungen der Veranstalter im Internet (www.g20hamburg.org) dienten die Vollversammlungen der Information und dem Austausch zum Gipfel und den geplanten Widerstandsaktivitäten sowie dem Stand der Vorbereitungen im Allgemeinen.
 
@@ -123,7 +124,7 @@ Welche Erkenntnisse liegen den zuständigen Behörden darüber vor, welchen weit
 
 Wie, von welcher Stelle und in welchen zeitlichen Abständen werden Vereine, Institutionen und Gruppierungen, die Zuwendungen erhalten, auf ihre Zielsetzungen und Verbindungen zu radikalen Szenen hin überprüft?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Eine Statistik im Sinne der Fragestellung wird nicht erhoben. Die jeweils zuständige Behörde entscheidet über die Vergabe von Zuwendungen unter Berücksichtigung der fachlichen Vorgaben sowie der einschlägigen Regelungen zur Zuwendungsvergabe in der Freien und Hansestadt Hamburg. Dies sind insbesondere die Landeshaushaltsordnung (LHO), die Verwaltungsvorschriften zu § 46 LHO, die Dienstvorschrift Zuwendungen der zuständigen Behörde sowie diverse fachliche Förderrichtlinien. Eine Regelanfrage beim LfV Hamburg zu den Organisationen ist gesetzlich nicht vorgesehen. Im Übrigen siehe Antworten zu 1, 2, 4 und 5.
 

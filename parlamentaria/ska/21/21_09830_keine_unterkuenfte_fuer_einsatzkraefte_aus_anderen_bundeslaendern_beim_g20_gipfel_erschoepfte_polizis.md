@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58641"
@@ -53,15 +54,15 @@ Auswärtige Einsatzkräfte waren in Beherbergungsbetrieben oder in Gemeinschafts
 
 Das Versorgungskonzept bestand aus folgenden Komponenten:
 
- Verpflegung auswärtiger Kräfte in Beherbergungsbetrieben durch Halbpension
+– Verpflegung auswärtiger Kräfte in Beherbergungsbetrieben durch Halbpension
 
 oder alternativ durch Hotelfrühstück und Warmverpflegung an den Verpflegungsstützpunkten,
 
- ergänzend Verpflegung mit Obst, Snacks sowie Kalt- und Warmgetränken an den
+– ergänzend Verpflegung mit Obst, Snacks sowie Kalt- und Warmgetränken an den
 
 Verpflegungsstützpunkten,
 
- Verpflegung im Einsatzgeschehen durch Ausgabe von täglich wechselnden Ver-
+– Verpflegung im Einsatzgeschehen durch Ausgabe von täglich wechselnden Ver-
 
 pflegungsbeuteln inklusive Kalt- und Warmgetränken.
 
@@ -111,7 +112,7 @@ War gewährleistet, dass Einsatzkräfte während ihrer Pausen in angemessene, Er
 
 Waren dabei auch Aufenthaltsräume vorgesehen, in denen die Einsatzkräfte sich aufhalten konnten, ohne zu schlafen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Zimmer in den Beherbergungsbetrieben standen den auswärtigen Einsatzkräften im Einsatzzeitraum durchgängig zur Verfügung. Dort vorhandene Aufenthaltsräume konnten von den Einsatzkräften in Anspruch genommen werden.
 

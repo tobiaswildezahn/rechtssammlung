@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8853", "20/9188", "21/4719", "21/5318"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58693"
@@ -65,6 +66,6 @@ Wie gedenken angesichts der geschilderten Umstände die Behörden und Sicherheit
 
 Hat es in der Vergangenheit Maßnahmen und Überlegungen gegeben, die sicherstellen sollten, dass alle demokratischen Parteien Wahlwerbung betreiben können und ungefährdet in der Öffentlichkeit auftreten können? Wenn ja, welche?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 20/8853, 20/9188, 21/4719 und 21/5318. Für die Phase des Wahlkampfes erstellt die Polizei Hamburg im Übrigen in ständiger Praxis einen gesonderten Einsatzbefehl, der für die bevorstehende Bundestagswahl derzeit erarbeitet wird. Bei Störungen des Wahlkampfes treffen die Polizeikommissariate beziehungsweise das Landeskriminalamt (LKA) im jeweiligen Einzelfall die erforderlichen Maßnahmen. Angemeldete (Wahl-)Veranstaltungen und Informationsstände werden im Rahmen des täglichen Dienstes sowie bei Erkenntnissen zu bevorstehenden Störungen lageangepasst und einzelfallbezogen geschützt sowie Störungen beseitigt. Das LKA beurteilt bei allen bekannten Wahlveranstaltungen die Sicherheitslage. Die Polizei trifft erforderlich werdende Maßnahmen im Einzelfall, insbesondere erforderliche Schutzmaßnahmen.

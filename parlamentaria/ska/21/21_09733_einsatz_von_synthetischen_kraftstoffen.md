@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58541"
@@ -63,27 +64,27 @@ Hinsichtlich GtL wurden bei zwei deutschen Verkehrsbetrieben geringere NOx- Emis
 
 Die von der FHG in Auftrag gegebenen durchgeführten Messungen an unterschiedlichen Flughafenfahrzeugen und -geräten haben die Herstellerangaben zu HVO bestätigt und teilweise sogar übertroffen:
 
- Kältebeständigkeit bis mindestens –38° C
+– Kältebeständigkeit bis mindestens –38° C
 
- Minderverbrauch im Winter durch Wegfall von ausflockungshemmenden Additiven
+– Minderverbrauch im Winter durch Wegfall von ausflockungshemmenden Additiven
 
- Resistenz gegen den Befall mit Mikroorganismen (Dieselpest), keine verkeimungs-
+– Resistenz gegen den Befall mit Mikroorganismen (Dieselpest), keine verkeimungs-
 
 hemmenden Zusatzmittel mehr erforderlich
 
- WKG 1 im Vergleich zu WGK 2 von fossilem Diesel
+– WKG 1 im Vergleich zu WGK 2 von fossilem Diesel
 
- kaum feststellbare Alterung im Vergleich zu fossilem Diesel mit B7 Anteil
+– kaum feststellbare Alterung im Vergleich zu fossilem Diesel mit B7 Anteil
 
- hörbar reduzierte Geräuschemissionen durch deutlich bessere Kaltlaufeigenschaf-
+– hörbar reduzierte Geräuschemissionen durch deutlich bessere Kaltlaufeigenschaf-
 
 ten
 
- drastisch reduzierte Ölverdünnung durch bessere Zündwilligkeit (Cetan-Zahl 72
+– drastisch reduzierte Ölverdünnung durch bessere Zündwilligkeit (Cetan-Zahl 72
 
 statt 55 bei normalem Diesel)
 
- Emissionsreduktionen (NO: –35 Prozent, NO: –23 Prozent, Feinstaub: –40 Pro-
+– Emissionsreduktionen (NO: –35 Prozent, NO: –23 Prozent, Feinstaub: –40 Pro-
 
 zent, UFP: –89 Prozent), CO: –55 Prozent, CO: –20 Prozent, CxHy: –30 Prozent, Ruß: –40 Prozent)
 
@@ -137,7 +138,7 @@ In welchen Einsatzbereichen beziehungsweise für welche Nutzungen eignen sich sy
 
 In welchem Umfang reduzieren sich Stickoxid-, Feinstaub-, Kohlenstoffdioxid- und Kohlenwasserstoffemissionen beim Einsatz von synthetischen Kraftstoffen im Vergleich zu herkömmlichen Kraftstoffen (beispielsweise Diesel)? Wie gestaltet sich diese Bilanz, wenn die Emissionen im Rahmen des Herstellungsprozesses mit berücksichtigt werden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antwort zu 2.
 

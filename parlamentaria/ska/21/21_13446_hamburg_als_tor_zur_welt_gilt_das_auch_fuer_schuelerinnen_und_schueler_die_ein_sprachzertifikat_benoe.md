@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62806"
@@ -98,7 +99,7 @@ Wie bewertet die zuständige Behörde die Tatsache, dass trotz Fachhochschul- be
 
 Wie bewertet die zuständige Behörde die Tatsache, dass trotz Abschluss eines Bachelors für die Zulassung zu manchen Master- Studiengängen Sprachzertifikate gefordert werden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 4.
 

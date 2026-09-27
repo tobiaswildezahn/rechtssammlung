@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 12
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9322"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58612"
@@ -109,7 +110,7 @@ Welche Unfallhäufungspunkte gab es seit 1987 in Rahlstedt und welche Maßnahmen
 
 Welche Unfallhäufungspunkte gibt es aktuell in Rahlstedt und welche Maßnahmen plant der Senat beziehungsweise die zuständige Behörde, um diese Unfallhäufungspunkte zu entschärfen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Aufgrund bereits abgelaufener Datenaufbewahrungsfristen liegen nur Daten ab 2012 vor. Für 2012 und 2013 können keine Differenzierungen nach Stadtteilen durchgeführt werden. Eine derartige Auswertung könnte nur händisch erfolgen und ist in der für die Beantwortung Parlamentarischer Anfragen zur Verfügung stehenden Zeit nicht möglich.
 

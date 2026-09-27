@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15029"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64980"
@@ -114,7 +115,7 @@ An wie vielen Schulen werden seit wann die Stundenkontingenttafeln erhöht oder 
 
 In welchem Bereich bewegt sich die Erhöhung und welche Gründe werden hierfür angegeben?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Zuletzt wurde zum Schuljahresbeginn 2018/2019 die Zahl der in der Sekundarstufe I der Stadtteilschulen mindestens zu unterrichtenden Wochenstunden von 185 auf 189 angehoben. Mit den zusätzlichen Stunden wurden die Kernfächer Deutsch und Mathematik gestärkt und es wurde den Schülerinnen und Schülern mehr Zeit zum Üben, Wiederholen und Vertiefen zur Verfügung gestellt. Dank der zusätzlichen Unterrichtsstunden liegt Hamburg künftig in der Spitzengruppe der westdeutschen Bundesländer. Mit den zusätzlichen Stunden sollen die Schulen künftig in allen Klassenstufen 5 bis 10 jede Woche durchschnittlich 8,7 statt bisher 7,7 Deutsch- und Mathematikstunden erteilen. Im Übrigen siehe Vorbemerkung.
 

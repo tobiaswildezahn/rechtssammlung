@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1511", "21/1704"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50518"
@@ -64,21 +65,21 @@ d) Wie sind die Angebote zeitlich bemessen? (Bitte alle Angaben nach Unterkunft 
 Laut Medienberichten werden in Kooperation mit Hamburger Kliniken die psychiatrischen Sprechstunden ausgebaut.
 a) In welchen ZEA werden die psychiatrischen Sprechstunden bereits angeboten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Krankenhäuser mit psychiatrischen Fachabteilungen vor Ort bieten psychiatrische Sprechstunden in Erstaufnahmeeinrichtungen an. Eine psychiatrische oder psychotherapeutische Behandlung im Sinne der Vorbemerkung erfolgt nicht ehrenamtlich.
 
 In folgenden Erstaufnahmeeinrichtungen werden psychiatrische Sprechstunden im Sinne der Vorbemerkung angeboten:
 
- Dratelnstraße,
+– Dratelnstraße,
 
- Holstenhofweg,
+– Holstenhofweg,
 
- Schnackenburgallee,
+– Schnackenburgallee,
 
- Schwarzenbergstraße,
+– Schwarzenbergstraße,
 
- Sportallee.
+– Sportallee.
 
 b) Welches Fachpersonal aus welchen Kliniken wird eingesetzt? (Bitte nach ZEA-Standorten aufschlüsseln.)
 
@@ -140,7 +141,7 @@ Gibt es eine Koordinierung des ehrenamtlichen psychiatrischen und psychotherapeu
 § 6 AsylbLG sieht vor, eine psychotherapeutische Versorgung nur in Fällen zu gewähren, in denen Folter, Vergewaltigung oder sonstige schwere Formen psychischer, physischer oder sexueller Gewalt vorliegen.
 a) Welche Möglichkeiten der psychotherapeutischen Hilfe im Regelsystem haben Flüchtlinge, bei denen diese Bedingungen nicht vorliegen, die aber dennoch psychisch erkrankt sind?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Flüchtlinge, die Grundleistungen nach § 3 AsylbLG beziehen, werden in Hamburg durch eine Krankenkasse (AOK Bremen/Bremerhaven) gemäß § 264 Absatz 1 SGB V betreut. Diese Menschen können probatorische Sitzungen – wie Mitglieder der Gesetzlichen Krankenversicherung (GKV) – über die elektronische Gesundheitskarte in Anspruch nehmen. Kurzzeitpsychotherapien können von der AOK Bremen/ Bremerhaven unter den Leistungsvoraussetzungen der GKV bewilligt werden. Langzeitpsychotherapien können von der AOK Bremen/Bremerhaven bewilligt werden, wenn zum einen die Leistungsvoraussetzungen der GKV erfüllt sind und zum anderen von den Grundsicherungs- und Sozialdienststellen unter Beteiligung der Gesundheitsämter bestätigt wird, dass eine Kostenübernahme unter den Voraussetzungen von § 4 oder § 6 AsylbLG möglich ist.
 

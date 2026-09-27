@@ -8,12 +8,13 @@ datum_anfrage: "2026-09-10"
 datum_drucksache: "2026-09-18"
 urheber: ["Dr. Anke Frieling"]
 fraktionen: ["CDU"]
-vorgang: null
+vorgang: 89165
 seiten: 4
 fragen: 10
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["23/5219"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105210"

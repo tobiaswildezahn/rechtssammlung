@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 26
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17910", "21/17730", "20/6208", "21/12547"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67585"
@@ -153,7 +154,7 @@ Können die Fenster in den Haft- und Aufenthaltsräumen geöffnet werden?
 
 Sind für sämtliche Haft- und Aufenthaltsräume Fenster geplant?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Ja.
 

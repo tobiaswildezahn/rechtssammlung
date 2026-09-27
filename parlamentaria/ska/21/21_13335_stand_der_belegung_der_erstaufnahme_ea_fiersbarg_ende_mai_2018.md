@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 32
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12895", "21/10677", "21/2108", "21/10137", "21/11867", "21/11183", "21/9358", "21/13207", "21/10819"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62675"
@@ -43,7 +44,7 @@ Wie viele Personen waren in der EA Fiersbarg Ende Mai untergebracht?
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Geschlecht  
 Kinder & Jugendliche  
@@ -102,7 +103,7 @@ Aus welchen Unterkünften kommen sie jeweils?
 
 Wie viele sind Neuankömmlinge und kamen im Mai direkt aus dem Ankunftszentrum?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Im Mai 2018 wurden 43 Personen aus dem Ankunftszentrum Rahlstedt, 38 Personen aus der EA Flagentwiet, 27 Personen aus der Vogt-Kölln-Straße, drei Personen aus Nostorf/Horst, zwei Personen aus der Harburger Poststraße und jeweils eine Person aus der Schmiedekoppel und der Schnackenburgallee aufgenommen.
 
@@ -314,7 +315,7 @@ c) Sicherheit?
 
 Wie viele davon tagsüber (7 – 18 Uhr), wie viele davon abends und nachts (18 – 7 Uhr)? Wenn es abweichende Dienstzeiten gibt, bitte diese nennen und die Aufschlüsselung hiernach geben.
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Siehe Drs. 21/11867.
 

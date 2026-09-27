@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54027"
@@ -51,9 +52,9 @@ Welche Gutachten oder sonstigen Untersuchungen gab es bisher zu der Frage, ob da
 
 Die zuständige Behörde hat zwei Untersuchungen beauftragt:
 
- Oktober 2001, Untersuchung des Gebäudebestandes,
+– Oktober 2001, Untersuchung des Gebäudebestandes,
 
- Januar 2011, Untersuchung des Gebäudes in Hinblick auf die Eignung für Biblio-
+– Januar 2011, Untersuchung des Gebäudes in Hinblick auf die Eignung für Biblio-
 
 theksnutzung und geisteswissenschaftliche Institute.
 

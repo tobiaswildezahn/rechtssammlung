@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61988"
@@ -115,7 +116,7 @@ Ist der Täter bereits in der Vergangenheit strafrechtlich in Erscheinung getret
 
 Ist der Täter aus anderen Gründen bereits polizeibekannt? Wenn ja, aus welchen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Im Hinblick auf das Persönlichkeitsrecht des Betroffenen und die gesetzlichen Wertungen des Bundeszentralregistergesetzes sieht der Senat davon ab, etwaige Ermittlungsverfahren mitzuteilen, die durch einen Freispruch oder eine Einstellung beendet worden sind. Dasselbe gilt für Ermittlungsverfahren, die zu einem Abschluss geführt haben, der entweder nicht in ein Führungszeugnis aufzunehmen oder nach den Tilgungsvorschriften des Bundeszentralregistergesetzes nicht mehr zu berücksichtigen ist. Eine aktuelle Auskunft des Bundeszentralregisters enthält danach keine mitteilungsfähigen Eintragungen.
 

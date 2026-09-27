@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57670"
@@ -59,7 +60,7 @@ Weiß der Senat, wer bislang an Verteilungen der Mohammed-Biografie mitgewirkt h
 
 Handelt es sich bei diesen Personen um Leute, die der Salafisten-Szene zugeordnet werden und sich auch am verbotenen „LIES!-Projekt“ beteiligt haben?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Dem Landesamt für Verfassungsschutz Hamburg liegen zum Zeitpunkt der Anfrage zu zehn Personen Erkenntnisse im Zusammenhang mit den Aktivitäten um „We love Muhammad“ vor. Die bisher an den Verteilaktionen beteiligten Personen sind der salafistischen Szene zuzurechnen. Bei zwei Personen liegen Bezüge zum LIES!- Projekt vor.
 

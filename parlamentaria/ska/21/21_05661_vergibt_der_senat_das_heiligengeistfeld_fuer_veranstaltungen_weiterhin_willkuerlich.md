@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54163"
@@ -43,7 +44,7 @@ Welche Veranstaltungen fanden beziehungsweise finden noch im Jahr 2016 auf dem H
 
 Welche Veranstalter stehen jeweils hinter den Veranstaltungen auf dem Heiligengeistfeld im Jahr 2016?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Veranstaltungen für das Jahr 2016:
 
@@ -94,7 +95,7 @@ Wie, wann und von wem erfolgte die Auswahl der Veranstalter für Veranstaltungen
 
 Nach welchen Kriterien werden die Veranstaltungen und die Veranstalter für das Heiligengeistfeld ausgewählt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Auswahl der Veranstaltungen wird grundsätzlich zeitnah vom zuständigen Referat „Hamburger DOM, Hafengeburtstag, bezirkliche Märkte“ der BWVI vorgenommen. Zunächst wird bei einer Anfrage geprüft, ob das Heiligengeistfeld im gewünschten Zeitraum bereits vergeben ist. Ist dies nicht der Fall, wird ein Konzept der geplanten Veranstaltung abgefordert und geprüft, ob dieses mit der Betriebs- und Benutzungsordnung des Heiligengeistfeldes übereinstimmt. Im Übrigen siehe Antwort zu 3.
 
@@ -106,7 +107,7 @@ Welche Veranstaltungen finden im Jahr 2017 auf dem Heiligengeistfeld statt und i
 
 Welche Veranstalter stehen jeweils hinter den Veranstaltungen auf dem Heiligengeistfeld im Jahr 2017?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Veranstaltungen für das Jahr 2017:
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52673"
@@ -77,7 +78,7 @@ Wie hoch wurde der Hamburger Haushalt in diesen Jahren jeweils insgesamt durch d
 
 Für welche Leistungen flossen in dem jeweiligen Jahr jeweils Mittel in welcher Höhe?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Ausgaben können einzelnen Personen und Personengruppen nicht eindeutig zugeordnet werden. Hierzu wäre eine aufwendige Sonderauswertung aus dem Bewilligungsverfahren PROSA notwendig. Für eine derartige Sonderauswertung müsste jede Fallakte einzeln betrachtet werden, das heißt pro Jahr circa 45.000 Akten. Die Daten müssen händisch ausgewertet werden. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Zudem wäre bei einer derartigen Betrachtung auch lediglich die Höhe der Bewilligungen feststellbar und nicht die tatsächlich geflossenen Mittel. Die tatsächlich geflossenen Haushaltsmittel können aus technischen Gründen nicht nach einzelnen Personen oder Personengruppen aufgeschlüsselt werden.
 

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9862", "21/10111", "21/10062"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59591"
@@ -63,7 +64,7 @@ In wie vielen Fällen wurde den in Drs. 21/9862 erwähnten 38 Anträgen nach § 
 
 Wenn ja, auf welcher Grundlage, in Zusammenhang mit welchen Demonstrationen und Versammlungen, für und durch welche Behörden, wie häufig (bitte differenzieren nach Informationsgewinnung, Gefahrenabwehr, Strafverfolgung und so weiter)?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Eine Beantwortung der Fragen ist wegen Gefährdung des Untersuchungszwecks der Verfahren nicht möglich. Im Übrigen siehe Drs. 21/10111 und Drs. 21/9862.
 
@@ -75,7 +76,7 @@ Wie viele Ortungsimpulse („stille SMS“) wurden aufgrund welcher Rechtsgrundl
 
 Wie viele Ortungsimpulse („stille SMS) wurden in Hamburg für und durch welche Behörden im Bereich der politisch motivierten Kriminalität mit Bezug zum G20-Gipfel eingesetzt und in welchen Phänomenbereichen und auf welcher Rechtsgrundlage kamen diese jeweils zur Anwendung (bitte differenzieren nach Informationsgewinnung, Gefahrenabwehr, Strafverfolgung und so weiter)?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/9862. Eine Auswertung konnte bisher nicht erfolgen, sodass detailliertere Angaben nicht vorliegen.
 

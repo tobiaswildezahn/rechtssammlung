@@ -8,12 +8,13 @@ datum_anfrage: "2026-09-07"
 datum_drucksache: "2026-09-15"
 urheber: ["Markus Kranig"]
 fraktionen: ["CDU"]
-vorgang: null
+vorgang: 89138
 seiten: 3
 fragen: 10
 einzelfragen: 12
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105167"

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/780"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50362"
@@ -51,7 +52,7 @@ Wie viele öffentlich geförderte Wohnungen im Bezirk Hamburg-Mitte fallen jewei
 a) zum Ende des laufenden Jahres,
 b) zum Ende der Jahren 2016, 2017, 2018, 2019, 2020 aus der Mietpreisbindung heraus und wie viel Wohnungen davon sind behindertengerecht? Bitte nach Jahren, Stadtteilen und Art der Wohnraumförderung differenzieren.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/780.
 
@@ -414,7 +415,7 @@ Wie bewertet der Senat die Möglichkeit – insbesondere in der Hochhaussiedlung
 
 Ist eine Verlängerung der Mietpreisbindung bei öffentlich geförderten Wohnungen im Bezirk Hamburg-Mitte vorgesehen? Wenn ja, wo und mit welchem Vertragspartner? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Mieterhöhungen nach Bindungsauslauf sind nur bis zur Höhe der ortsüblichen Vergleichsmiete möglich. Hinzu kommt, dass durch die Einführung der Kappungsgrenzenverordnung zum 1. September 2014 in Hamburg Mieterhöhungen auf maximal 15 Prozent innerhalb von drei Jahren begrenzt werden. Dadurch ist gewährleistet, dass nach Auslauf der Mietpreisbindungen die Mieterinnen und Mieter der ehemaligen Sozialwohnungen grundsätzlich nicht übermäßig stark belastet werden.
 

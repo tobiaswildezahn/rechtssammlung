@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67975"
@@ -61,7 +62,7 @@ Wie beurteilt der Senat den oben genannten Gesetzentwurf im Hinblick auf die Aus
 
 Wie viele Kurse an den Hamburger Volkshochschulen würden sich durch den oben genannten Gesetzentwurf verteuern? Wie viele Personen nehmen an diesen betroffenen Kursen pro Jahr teil? Bitte seit 2015 tabellarisch aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

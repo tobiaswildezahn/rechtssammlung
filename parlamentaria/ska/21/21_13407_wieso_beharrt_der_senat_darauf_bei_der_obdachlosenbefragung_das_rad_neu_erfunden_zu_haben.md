@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/2139", "21/11635", "21/13327", "21/10751", "19/4573"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62768"
@@ -110,41 +111,41 @@ Wie viele der Fragen des Fragenkatalogs des Jahres 2009 sind inhaltlich identisc
 
 Inhaltlich identisch waren Fragen zu:
 
- Obdachloseneigenschaft,
+– Obdachloseneigenschaft,
 
- Geschlecht,
+– Geschlecht,
 
- Alter,
+– Alter,
 
- Eintritt/Dauer der Obdachlosigkeit,
+– Eintritt/Dauer der Obdachlosigkeit,
 
- Inanspruchnahme des Hilfesystems,
+– Inanspruchnahme des Hilfesystems,
 
- Einkommen,
+– Einkommen,
 
- Schulden,
+– Schulden,
 
- Besitz einer gültigen Krankenversichertenkarte,
+– Besitz einer gültigen Krankenversichertenkarte,
 
- Besitz eines Bankkontos, gegebenenfalls Gründe für Nichtbesitz
+– Besitz eines Bankkontos, gegebenenfalls Gründe für Nichtbesitz
 
- Gesundheitszustand,
+– Gesundheitszustand,
 
- deutsche Staatsangehörigkeit.
+– deutsche Staatsangehörigkeit.
 
 Abweichungen gab es durch die unterschiedlichen, zusätzlich gewählten Untersuchungsschwerpunkte beider Befragungen. Anstelle der Fragen aus 2009 an obdachlose Menschen bis 24 Jahre zur Wohnungssuche und Gründen für die ausbleibende Suche oder den mangelnden Erfolg dieser Suche sind in 2018 Fragen gestellt worden zu:
 
- konkrete Staatsangehörigkeit,
+– konkrete Staatsangehörigkeit,
 
- Aufenthaltszeitraum in Deutschland und Hamburg,
+– Aufenthaltszeitraum in Deutschland und Hamburg,
 
- Gründe des Aufenthalts in Hamburg,
+– Gründe des Aufenthalts in Hamburg,
 
- Anreise nach Hamburg,
+– Anreise nach Hamburg,
 
- Obdachlosigkeit bei Ankunft,
+– Obdachlosigkeit bei Ankunft,
 
- Realisierung der Erwartungen an den Aufenthalt in Hamburg,
+– Realisierung der Erwartungen an den Aufenthalt in Hamburg,
 
 Darüber hinaus sind Ursachen und Auslöser der Obdachlosigkeit gegenüber der Untersuchung aus 2009 in 2018 differenzierter erfragt worden.
 
@@ -156,6 +157,6 @@ Wie lange dauerte die Auswertung der Befragung im Jahr 2009, wie viele Monate si
 
 Die „empirische Untersuchung über die soziale Lage „auf der Straße“ lebender Menschen in Hamburg“ umfasst 117 Seiten. Welchen Umfang plant der Senat bezüglich der Veröffentlichung der aktuellen Befragung und wann soll die Veröffentlichung erfolgen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Der Untersuchungsbericht der vorangehenden Befragung im März 2009 wurde im Juli 2009 veröffentlicht. Eine Veröffentlichung der Ergebnisse der Befragung im März 2018 wird voraussichtlich wegen umfangreicherer Auswertungsbedarfe erst nach der Sommerpause erfolgen können. Über den Umfang können derzeit keine Angaben gemacht werden.

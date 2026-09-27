@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57760"
@@ -55,7 +56,7 @@ Wie ist der genaue Zeitplan der Bauarbeiten im Einzelnen? Bis wann sollen die Ba
 
 Welche besonderen Probleme oder Schwierigkeiten sind bei der Instandsetzung der U-Bahn-Brücke am Buchenkamp aufgetreten? Aus welchen Gründen kam es dabei zu zeitlichen Verzögerungen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Im Zuge der jetzt laufenden Sielbauarbeiten wurde vor Ort gegenüber den ursprünglichen Plänen eine andere Bestandssituation der Brückenentwässerung vorgefunden. Dies macht eine Überarbeitung der Ausführungsplanung und deren behördlicher Genehmigung erforderlich.
 

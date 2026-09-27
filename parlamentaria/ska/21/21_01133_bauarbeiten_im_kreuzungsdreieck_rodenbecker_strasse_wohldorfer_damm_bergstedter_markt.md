@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49314"
@@ -49,7 +50,7 @@ Wann wurden im Kreuzungsdreieck Rodenbecker Straße/Wohldorfer Straße/Bergstedt
 
 Welchem Zweck dienten diese Arbeiten jeweils und wer führte sie durch?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nach Auskunft des Bezirksamtes Wandsbek wurden im Jahr 2013 keine entsprechenden Arbeiten durchgeführt.
 

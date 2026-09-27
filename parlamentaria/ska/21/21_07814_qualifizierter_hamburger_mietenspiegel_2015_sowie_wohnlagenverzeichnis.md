@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2376", "21/499"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56442"
@@ -83,7 +84,7 @@ Gemäß der Richtlinien zur Erstellung von qualifizierten Mietspiegel des BBSR w
 
 Bei der Lagequalität des Wohnlagenverzeichnisses wird für jeden Blockabschnitt nach empirischen Erhebungen eine Punkteanzahl pro Indikator vergeben. Diese fließt dann in die Diskriminanzformel ein und, sofern ein definierter Grenzwert überschritten wird, wird nach „normaler“ oder „guter“ Wohnlage differenziert. a. Warum wird/werden in dem Ergebnis dieser Diskriminanzformel nicht ein oder mehrere weitere(r) Grenzwert(e) definiert, sodass das Wohnlagenverzeichnis um die Lagequalität(en) „einfach“ und „sehr gut“ ausgeweitet werden kann?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung sowie Drs. 21/2376.
 
@@ -205,7 +206,7 @@ Gemäß der Richtlinien zur Erstellung von qualifizierten Mietenspiegeln des BBS
 
 Die Dividende der Genossenschaften hat Preiseinfluss auf die genossenschaftlichen Mieten und somit aufgrund ihres Einflusses als Vergleichsmieten erheblichen Einfluss auf den gesamten Hamburger Mietenspiegel 2015. Dürfen genossenschaftliche Mieten hiernach überhaupt als Vergleichsmieten im Sinne des Gesetzes im Rahmen der Mietenspiegelerhebung Berücksichtigung finden?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Auch wenn Vermieter ihre Mieten als Kostenmieten bezeichnen, handelt es sich nicht notwendigerweise um Kostenmieten im Sinne von § 8 fortfolgende Hamburgisches Wohnungsbindungsgesetz (HmbWoBindG). Im Übrigen siehe Drs. 21/2376.
 

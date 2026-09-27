@@ -8,12 +8,13 @@ datum_anfrage: "2026-09-10"
 datum_drucksache: "2026-09-18"
 urheber: ["Dirk Nockemann"]
 fraktionen: ["AfD"]
-vorgang: null
+vorgang: 89172
 seiten: 5
 fragen: 20
 einzelfragen: 22
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["22/13851", "23/2982", "22/16609"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105225"

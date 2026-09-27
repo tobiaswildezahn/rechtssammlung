@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62018"
@@ -53,7 +54,7 @@ Welche Maßnahmen ziehen der Senat sowie die zuständigen Behörden und Ämter i
 
 Vom in der Broschüre „Stromaufwärts an Elbe und Bille“ dargestellten Sollzustand ausgehend: Welche Probleme identifizieren der Senat sowie die zuständigen Behörden und Ämter aktuell, die eine Umgestaltung des Fokusraums Billbrook erforderlich machen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bei der Revitalisierung und Modernisierung des Industriegebiets Billbrook/Rothenburgsort handelt es sich um eine innovative Übertragung von Ansätzen der Stadterneuerung, die üblicherweise in überwiegend von Wohnnutzung geprägten Gebieten angewendet werden, auf ein produktives und für den Wirtschaftsstandort Hamburg bedeutendes Industriegebiet. Dabei sind nur wenige Flächen im städtischen Besitz und können unmittelbar für eine Gebietsentwicklung genutzt werden. Aufgrund der günstigen Lage besteht ein sogenannter Eigentümer-/Vermietermarkt, das heißt die Nachfrage nach Flächen ist größer als das Flächenangebot. Nahezu sämtliche Flächen in diesem Gebiet sind in Nutzung. Auch die Größe des Gebietes erschwert eine flächendeckende Detailplanung.
 
@@ -88,17 +89,17 @@ die Beschreibung auf der Internetseite hinausgehen.
 
 Zu den Kernaufgaben des Quartiersmanagers in der HIW zählen:
 
- die Kontaktpflege und Beratung der ansässigen Unternehmen,
+– die Kontaktpflege und Beratung der ansässigen Unternehmen,
 
- die Rückkopplung örtlicher Entwicklungen und Bedarfe in die Verwaltung und in die
+– die Rückkopplung örtlicher Entwicklungen und Bedarfe in die Verwaltung und in die
 
 Steuerungsgruppe Billbrook,
 
- die Begleitung von Innovations- und Kooperationsprojekten zwischen Unterneh-
+– die Begleitung von Innovations- und Kooperationsprojekten zwischen Unterneh-
 
 men und anderen Standortverantwortlichen im Projektgebiet,
 
- die Kontaktpflege zu örtlichen und örtlich angrenzenden Vereinen und Gruppen,
+– die Kontaktpflege zu örtlichen und örtlich angrenzenden Vereinen und Gruppen,
 
 die unmittelbar oder mittelbar auf die weitere Entwicklung des Standortes Einfluss nehmen beziehungsweise als Kooperationspartner für die Durchsetzung einzelner oder allgemeiner Ziele von Bedeutung sind.
 

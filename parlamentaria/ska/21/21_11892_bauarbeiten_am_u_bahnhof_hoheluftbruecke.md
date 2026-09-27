@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 18
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61140"
@@ -188,7 +189,7 @@ Welche Teilvorhaben hätten zu welchem Zeitpunkt fertiggestellt werden sollen?
 
 Welche Verzögerungen in welchen Baumaßnahmen ereigneten sich und warum?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Keine.
 
@@ -242,7 +243,7 @@ Wie viele Beschwerden sind im Rahmen von Nacht- und Sonntagsarbeiten an welches 
 
 Wie sind die einzelnen Beschwerden jeweils beantwortet worden und welche Anregungen aus der Bevölkerung sind wie und warum umgesetzt worden?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Dem Senat sind keine Beschwerden bekannt.
 

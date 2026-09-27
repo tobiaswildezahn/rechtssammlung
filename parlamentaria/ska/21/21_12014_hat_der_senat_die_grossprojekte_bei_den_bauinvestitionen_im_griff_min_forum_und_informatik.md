@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11559"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61282"
@@ -47,7 +48,7 @@ Seit wann liegt für das Projekt MIN-Forum und Informatik ein Mietvertragsangebo
 
 Wie sind der genaue Stand der Prüfung des Mietvertragsangebots sowie der Mietvertragsverhandlungen für den Neubau MIN-Forum und Informatik?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die GMH hat am 12. September 2017 ein erstes Angebot und am 8. Februar 2018 ein vervollständigtes Angebot vorgelegt, über das derzeit zwischen der GMH und der zuständigen Behörde verhandelt wird.
 

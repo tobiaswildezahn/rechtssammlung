@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14164"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63793"
@@ -77,7 +78,7 @@ f) der Präses der Finanzbehörde von dem staatsanwaltschaftlichen Ermittlungsve
 
 Welche Personenkreise in jeweils welcher Dienststelle waren zu einem noch früheren Zeitpunkt als den oben genannten über die anstehende oder bereits erfolgte Einleitung des besagten Ermittlungsverfahrens informiert? Wann genau war dieser frühere Zeitpunkt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Staatsrätin und der Präses der Justizbehörde haben am 10. August 2018, der Staatsrat der Behörde für Inneres und Sport am 15. August 2018, der Staatsrat des Personalamts am 15. August 2018, die Staatsrätin und der Präses der Finanzbehörde am 14. August 2018 Kenntnis erhalten.
 
@@ -107,7 +108,7 @@ Nach welchen konkreten Kriterien prüft der Senat, ob eine Person für eine Bezi
 
 Nach welchen Kriterien prüft der Senat, ob eine Person für eine Bezirksamtsleitung benannt wird?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Das Verfahren und die Kriterien für die Ernennung von Bezirksamtsleitungen unter Berufung in ein Beamtenverhältnis auf Zeit sind verfassungsrechtlich und einfachgesetzlich vorgegeben, insbesondere durch Artikel 33 Absatz 2 Grundgesetz, §§ 7 und 9 Beamtenstatusgesetz (BeamtStG) i.V.m. § 6 BeamtStG, Artikel 59 der Verfassung der Freien und Hansestadt Hamburg (HV), § 7 Absatz 1 Nummer 2 Hamburgisches Beamtengesetz, § 34 Bezirksverwaltungsgesetz (BezVG). In diesem rechtlich vorgegebenen Rahmen entscheidet der Senat gemäß Artikel 45 Satz 1 HV nach pflichtgemäßem Ermessen über die Ernennung. Konkrete Eignungskriterien sind der nach § 34 Absatz 2 Satz 1 BezVG vorgesehenen Ausschreibung zu entnehmen.
 

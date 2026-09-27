@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54421"
@@ -45,19 +46,19 @@ Wann genau wurden seit dem 18. Mai 2016 welche Verwaltungsvorschriften zur LHO n
 
 Wann genau erfolgte jeweils eine Unterrichtung des Haushaltsausschusses über die seit dem 18. Mai 2016 geänderten oder neu erlassenen Verwaltungsvorschriften zur LHO?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Finanzbehörde hat am 31. August 2016 die folgenden Verwaltungsvorschriften zur Landeshaushaltsordnung (LHO) geändert:
 
- VV zu § 4 Absatz 1 Satz 1 Nummern 3 und 4, Satz 2 sowie Absatz 2, § 77 Absätze
+– VV zu § 4 Absatz 1 Satz 1 Nummern 3 und 4, Satz 2 sowie Absatz 2, § 77 Absätze
 
 1 und 4 sowie § 79 Absätze 1 bis 3 LHO, Artikel 40 § 5 Absätze 3 bis 6 SNH- Gesetz (VV Bilanzierung)
 
- VV zu § 37 LHO (Bewirtschaftungsgrundsätze)
+– VV zu § 37 LHO (Bewirtschaftungsgrundsätze)
 
- VV zu § 63 LHO (Erwerb und Veräußerung von Vermögensgegenständen)
+– VV zu § 63 LHO (Erwerb und Veräußerung von Vermögensgegenständen)
 
- VV zu § 106 LHO (Landesbetriebe, Sondervermögen und staatliche Hochschulen)
+– VV zu § 106 LHO (Landesbetriebe, Sondervermögen und staatliche Hochschulen)
 
 Die Änderungen betreffen insbesondere Regelungen für die Abgabe von Vermögensgegenständen innerhalb der Freien und Hansestadt Hamburg (Kernverwaltung, Landesbetriebe, Sondervermögen und staatliche Hochschulen) und an Dritte.
 

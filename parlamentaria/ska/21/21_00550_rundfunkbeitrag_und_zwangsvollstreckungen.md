@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48698"
@@ -51,11 +52,11 @@ Eine stichtagsbezogene Auswertung wird beim NDR nicht durchgeführt. Es können 
 
 Die Anzahl der Mahnmaßnahmen im privaten Bereich in Hamburg betrug
 
- 2013: 327.849,
+– 2013: 327.849,
 
- 2014: 608.183,
+– 2014: 608.183,
 
- 2015 (Jan. – Apr.): 233.767.
+– 2015 (Jan. – Apr.): 233.767.
 
 Die Summe der Außenstände für die genannten Zeiträume kann seitens des NDR nicht genannt werden, da laufend Zahlungen oder Teilzahlungen zu den einzelnen Mahnstufen (siehe Antwort zu 6. und 7.) eingehen.
 
@@ -71,11 +72,11 @@ Der Beitragsservice von ARD, ZDF und Deutschlandradio versendet Vollstreckungser
 
 Die Anzahl der Vollstreckungsersuchen im privaten Bereich an die Finanzbehörde Hamburg betrug
 
- 2013: 13.203,
+– 2013: 13.203,
 
- 2014: 21.310,
+– 2014: 21.310,
 
- 2015 (Jan. – Apr.): 14.970.
+– 2015 (Jan. – Apr.): 14.970.
 
 Unter Einschluss des gewerblichen Bereichs sind im Zeitraum vom 1. Januar 2013 bis
 15. Mai 2015 insgesamt 57.023 Vollstreckungsersuchen wegen rückständiger Rundfunkgebühren beziehungsweise rückständiger Rundfunkbeiträge bei der Kasse.Hamburg eingegangen.
@@ -142,7 +143,7 @@ Wie viele Zwangsvollstreckungen konnten seit 2013 abgewendet werden?
 
 Sofern es abgewendete Zwangsvollstreckungen gibt: Mit welchen Maßnahmen wurden die Zwangsvollstreckungen abgewendet?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Seit dem Jahr 2013 konnten 20.318 Zwangsvollstreckungen abgewendet werden. Die Bearbeitung von 15.118 Vollstreckungsersuchen wurde nach Ankündigung der Zwangsvollstreckung aufgrund von Zahlung durch den Schuldner (9.287 Fälle), Rücknahme des Vollstreckungsersuchens durch den Gläubigervertreter (4.361 Fälle) oder festgestellter Unpfändbarkeit des Schuldners (1.470 Fälle) eingestellt. 3.322 Vollstreckungsersuchen wurden vom Gläubigervertreter ohne Einleitung von Vollstreckungsmaßnahmen zurückgenommen. 1.878 Ersuchen wurden aufgrund einer mit dem Schuldner getroffenen Teilzahlungsvereinbarung abgeschlossen. In diesen Zahlen sind auch gewerbliche Schuldner enthalten.
 
@@ -207,11 +208,11 @@ Beim Beitragsservice wird die Anzahl der Weiterleitungen der Kasse.Hamburg nicht
 
 In den angefragten Zeiträumen sind beim NDR insgesamt folgende Widerspruchsverfahren im Zusammenhang mit der Festsetzung von Rundfunkbeiträgen beziehungsweise -gebühren durchgeführt worden:
 
- 2013: 100,
+– 2013: 100,
 
- 2014: 366,
+– 2014: 366,
 
- 2015 (Jan. – Apr.): 133.
+– 2015 (Jan. – Apr.): 133.
 
 Hierbei handelte es sich in der Regel um Widersprüche, die die Beitragsschuldner innerhalb der Rechtsbehelfsfrist von einem Monat nach Bekanntgabe des Festsetzungsbescheids erhoben haben.
 
@@ -227,11 +228,11 @@ Der Finanzbehörde liegen keine Informationen über Resultate von Widersprüchen
 
 Bei den vom NDR bearbeiteten Widersprüchen (siehe Antwort zu Frage 9.) betrug die Anzahl der Stattgaben und Teilstattgaben:
 
- 2013: 15,
+– 2013: 15,
 
- 2014: 16,
+– 2014: 16,
 
- 2015 (Jan. – Apr.): zehn.
+– 2015 (Jan. – Apr.): zehn.
 
 ### Frage 11
 

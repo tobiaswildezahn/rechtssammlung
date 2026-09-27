@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 11
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8831"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57724"
@@ -45,7 +46,7 @@ Wie hoch war die Anzahl derjenigen Schüler/-innen, die in den Schuljahren 2014/
 Wie hoch war die Anzahl der Schulformwechsler/-innen vom Gymnasium an eine Stadtteilschule in den Schuljahren 2014/2015 und 2015/2016 jeweils nach Klasse 5, 7, 8, 9 und 10? (Bitte für jedes Schuljahr insgesamt in absoluten Zahlen und in Prozent zur Gesamtschüler-/-innenschaft des jeweiligen gymnasialen Jahrgangs in einer Excel-Tabelle angeben.) a. Wie viele dieser Wechsel erfolgten dabei von/an staatlichen und privaten Schulen? (Bitte entsprechend in absoluten Zahlen und in Prozent in der Tabelle zu 2. angeben.) b. Wie hoch war dabei die jeweilige Gesamtschüler-/-innenschaft des aufnehmenden Stadtteilschuljahrgangs damit und welchem Prozentsatz entsprach die durch die Aufnahme dieser gymnasialen Zugänge erfolgte Steigerung damit? (Bitte entsprechend in der Tabelle zu
 2. angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 
@@ -58,6 +59,6 @@ Wie hoch war die Anzahl derjenigen Schüler/-innen, die in den Schuljahren 2014/
 
 Ergänzend zur Anlage 1 in Drs. 21/8831: Wie hoch war die jeweilige Gesamtschüler-/-innenschaft des aufnehmenden Stadtteilschuljahrgangs in 2016/2017 und welchem Prozentsatz entsprach die durch die Aufnahme dieser gymnasialen Zugänge erfolgte Steigerung damit? (Bitte die entsprechende Tabelle in Anlage 1 der Ursprungsdrs. 21/8831 erneut um diese Parameter angeben, ergänzt für das Schuljahr 2016/2017.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Antwort zu 1. für Wechsel aus Jahrgangsstufe 6 und die Anlage für Wechsel aus den Jahrgangsstufen 5, 7, 8, 9 und 10.

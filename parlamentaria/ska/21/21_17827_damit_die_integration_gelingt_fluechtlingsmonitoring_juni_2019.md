@@ -14,6 +14,7 @@ fragen: 40
 einzelfragen: 54
 antwortbloecke: 39
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9758", "21/13273", "21/10677", "21/11001", "21/6544", "21/16284", "21/12038", "21/17544", "21/16887", "21/131"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67439"
@@ -913,7 +914,7 @@ Wie viele Asylsuchende haben im Juni 2019 in der zentralen Test- und Meldestelle
 
 Welche Einstufungen und Überweisung in jeweils welche Kurse (Alphabetisierungskurs, regulärer Integrationskurs und so weiter) ergaben sich aus den Tests im Juni 2019?
 
-#### Antwort zu Fragen 34 bis 35
+#### Antwort zu Fragen 34 und 35
 
 Siehe Antwort zu 32.
 

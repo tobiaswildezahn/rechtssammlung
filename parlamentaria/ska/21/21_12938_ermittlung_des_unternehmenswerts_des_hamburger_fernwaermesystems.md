@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 18
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12770", "21/11733"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62261"
@@ -59,7 +60,7 @@ Nach Drs. 21/11733 hat die Behörde für Umwelt und Energie mit der sogenannten 
 
 Wo ist der Vorschlag von Vattenfall, die sogenannte Moorburgvariante im Einzelnen, detailliert und, nach Möglichkeit, öffentlich einsehbar dokumentiert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Behörde für Umwelt und Energie hat die städtische Südvariante zuletzt in einer Sondersitzung des Energienetzbeirats am 23. November 2017 sowie am 19. Januar 2018 im Ausschuss für Umwelt und Energie der Hamburgischen Bürgerschaft detailliert vorgestellt und dort auch dokumentiert. Der Vorschlag von Vattenfall wurde bislang nicht öffentlich gemacht.
 
@@ -73,7 +74,7 @@ Welche Art von zusätzlichen Daten soll nach Drs. 21/12770 durch Vattenfall für
 
 Haben die Daten, die zusätzlich von Vattenfall bereitgestellt werden sollen, mit den Verläufen der neu zu bauenden Fernwärmetrassen zu tun?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 

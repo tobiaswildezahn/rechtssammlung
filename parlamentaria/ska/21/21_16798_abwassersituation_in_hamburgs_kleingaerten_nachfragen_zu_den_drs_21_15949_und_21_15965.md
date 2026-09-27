@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15949", "21/15965"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66372"
@@ -43,7 +44,7 @@ In Bezug auf die Vorbemerkung zu Drs. 21/15949: Aus welchen Gründen kann „die
 
 Wenn der LGH nach Auskunft des Senats in der Drs. 21/15949 nicht mehr in der Lage ist, Fragebögen auszuwerten, wie kommt es dann, dass er nun doch wieder mit einer neuen Fragebogenaktion dazu in der Lage ist?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Landesbund der Gartenfreunde in Hamburg e.V. (LGH) hat sich entschieden, den eingeschlagenen Weg der ersten Fragebogenaktion aus Datenschutzgründen nicht weiter zu beschreiten, jedoch eine zweite Fragebogenaktion zu starten.
 
@@ -59,15 +60,15 @@ In der Antwort zu Frage 3. in Drs. 21/15949 gibt der Senat an: „Bisher wurden 
 
 Die übermittelten Daten betrafen fünf Vereine in Wasserschutzgebieten. Zu diesen Vereinen wurden folgende Daten geliefert:
 
- Anzahl der Parzellen im Verein,
+– Anzahl der Parzellen im Verein,
 
- Anzahl der von den Pächter/innen zurückgesandte Fragebögen,
+– Anzahl der von den Pächter/innen zurückgesandte Fragebögen,
 
- Anzahl der zurückgesandte Fragebögen ohne Besichtigung durch den Vereinsvor-
+– Anzahl der zurückgesandte Fragebögen ohne Besichtigung durch den Vereinsvor-
 
 stand,
 
- Anzahl der Fragebögen bei denen Klärungsbedarf besteht.
+– Anzahl der Fragebögen bei denen Klärungsbedarf besteht.
 
 Für einen Verein wurde mitgeteilt, dass die Fragebogenaktion vollständig und erfolgreich abgeschlossen wurde.
 

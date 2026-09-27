@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 7
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3779", "21/1255"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52400"
@@ -45,7 +46,7 @@ Besteht beziehungsweise bestand ein solches Übereinkommen zwischen dem Bezirk B
 
 Hat es seitens des LIG eine Information der Bezirksverwaltung oder der bezirklichen Gremien (Regionalausschuss Vier- und Marschlande, Bezirksversammlung Bergedorf, Stadtentwicklungsausschuss) über die Nichtverhandlung zweier Pachtverträge auf dem Plangebiet „Oberbillwerder“ gegeben? a. Wenn ja: Wer wurde wann vom LIG über den Sachstand informiert? b. Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine Übereinkunft besteht für Pachtflächen mit Einzelpotenzialflächen in sogenannter Streulage, betrifft aber nicht das Plangebiet Oberbillwerder (siehe Drs. 21/3779). Die Bezirksverwaltung Bergedorf wurde im Januar 2016 darüber informiert, dass für die von den Planungen in Oberbillwerder betroffenen landwirtschaftlichen Flächen derzeit keine Pachtverträge abgeschlossen werden. Eine Weiterverpachtung dieser Flächen
 

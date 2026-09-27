@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13746"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63150"
@@ -76,7 +77,7 @@ Welchen wissenschaftlichen Fächern gehörten diese Personen jeweils an?
 
 In welchen Projekten haben diese Personen mitgearbeitet?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 1.
 

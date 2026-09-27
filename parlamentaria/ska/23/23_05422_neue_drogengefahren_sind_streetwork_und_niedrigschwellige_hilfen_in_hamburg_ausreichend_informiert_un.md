@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 23
 antwortbloecke: 0
 beantwortet: false
+status: "unbeantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105339"
@@ -27,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Thomas Reich und Dirk Nockemann (AfD) vom 21.09.26 und Antwort des Senats · Drucksache vom 21.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105339) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105339/23_05422_neue_drogengefahren_sind_streetwork_und_niedrigschwellige_hilfen_in_hamburg_ausreichend_informiert_und_vorbereitet)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

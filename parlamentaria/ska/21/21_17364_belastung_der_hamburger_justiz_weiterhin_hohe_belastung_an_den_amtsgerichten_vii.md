@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 27
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14398", "21/16069", "21/16093"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66950"
@@ -51,7 +52,7 @@ Wie hoch sind die Fallzahlen bezogen auf Eingänge, Bestände und Erledigungen a
 
 Wie lange dauern durchschnittlich Verfahren an den folgenden Amtsgerichten: a. Amtsgericht Hamburg-Mitte? b. Amtsgericht Hamburg-Altona? c. Amtsgericht Hamburg-St. Georg? d. Amtsgericht Hamburg-Barmbek? e. Amtsgericht Hamburg-Bergedorf? f. Amtsgericht Hamburg-Blankenese? g. Amtsgericht Hamburg-Harburg? h. Amtsgericht Hamburg-Wandsbek? (Bitte darstellen je nach Amtsgericht von Januar 2017 bis Juni 2019. Bitte Verfahrensdauern an den Familiengerichten je Amtsgericht und Abteilung gesondert darstellen.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Diese statistischen Daten liegen immer quartalsweise vor. Die Fallzahlen für einzelne Abteilungen des Amtsgerichts werden statistisch nicht ausgewertet.
 

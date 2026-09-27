@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5231"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61835"
@@ -68,13 +69,13 @@ Der Senat und die zuständigen Fachdienststellen sehen die Vereinbarungen im Bü
 
 Die im Bürgervertrag enthaltenen und in dieser Frage zitierten Formulierungen
 
- „Orientierung des Bürgervertrages an den Planzielen und Festsetzungen des
+– „Orientierung des Bürgervertrages an den Planzielen und Festsetzungen des
 
 Bebauungsplans Ohlsdorf 12“,
 
- „Art und Stil sollen an das Neubaugebiet angepasst werden“,
+– „Art und Stil sollen an das Neubaugebiet angepasst werden“,
 
- „Das Maß der Bebauung soll grundsätzlich nicht erhöht werden“
+– „Das Maß der Bebauung soll grundsätzlich nicht erhöht werden“
 
 bedürfen der Auslegung. Dazu diente auch das bereits abgeschlossene kooperative Werkstattverfahren Große Horst mit vorgeschalteter und begleitender Bürgerbeteiligung und das nun anschließende Bebauungsplanverfahren Ohlsdorf 30. Die Entscheidung für die mit dem ersten Preis gekürte Arbeit erfolgte unter Beteiligung von Bürgervertreterinnen und -vertretern einstimmig.
 

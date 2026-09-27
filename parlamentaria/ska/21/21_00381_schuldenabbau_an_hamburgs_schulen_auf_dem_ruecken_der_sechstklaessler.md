@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 23
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/246", "21/234", "19/8534", "20/6841", "20/6852", "20/14543"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48519"
@@ -107,7 +108,7 @@ Wann sind diese Defizite jeweils entstanden und wie haben sie sich entwickelt? B
 
 Worin liegen die Gründe für die Entstehung der Defizite? Bitte nach Schulen und Jahren aufgeschlüsselt darstellen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Defizite lassen sich fast immer auf die Einrichtung von zusätzlichen Kursen und zu kleinen Klassen zurückführen, die nicht durch die reguläre Lehrerzuweisung der Schule gedeckt sind. Dies gilt insbesondere dann, wenn trotz gesunkener Schülerzahlen Zusatzangebote und Differenzierungen weitergeführt werden. Dabei werden Vertretungs- und Organisationsmittel (VOrM) für die Finanzierung dieser Angebote verbraucht und fehlen für notwendige Krankheitsvertretungen. Im Übrigen siehe Drs. 19/8534, 20/6841, 20/6852, 20/14543, 21/234.
 
@@ -163,7 +164,7 @@ Wie viele Schüler befinden sich an den betroffenen Schulen zurzeit insgesamt un
 
 Wie viele Klassenverbände der sechsten Klassen mit jeweils wie vielen Schülern haben die nicht zu Personaleinsparungen aufgeforderten Gymnasien und Stadtteilschulen? Bitte nach Schulen aufgeschlüsselt darstellen.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Anlage 3.
 

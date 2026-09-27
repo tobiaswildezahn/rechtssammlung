@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 3
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56564"
@@ -45,6 +46,6 @@ Hat der Stiftungsrat des Bürgerhauses Wilhelmsburg bereits zu dieser Frage geta
 
 Falls nein, wann wird der Stiftungsrat Bürgerhaus Wilhelmsburg eine Sitzung einberufen, auf der diese Frage behandelt wird?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nein. Der Stiftungsrat hat mitgeteilt, dass ein Termin dafür noch nicht feststehe.

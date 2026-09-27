@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12627", "21/11973"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66003"
@@ -49,7 +50,7 @@ Misst der Senat dem eSport die gleiche gesellschaftliche Bedeutung wie den tradi
 
 Wenn ja, beabsichtigt der Senat, den eSport als Sportart anzuerkennen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/12627 und 21/11973. Im Übrigen sind die Überlegungen hierzu noch nicht abgeschlossen.
 
@@ -69,15 +70,15 @@ Wie viele Sportvereine mit eSport-Abteilungen in Hamburg sind dem Senat bekannt 
 
 Folgende Mitgliedsvereine und -verbände des HSB machen Angebote und Veranstaltungen im eSports-Bereich:
 
- Eimsbütteler Turnverband
+– Eimsbütteler Turnverband
 
- Hamburger Sportverein
+– Hamburger Sportverein
 
- TSG Bergedorf
+– TSG Bergedorf
 
- Komet Blankenese
+– Komet Blankenese
 
- Hamburger Fußballverband (eSoccer-Liga)
+– Hamburger Fußballverband (eSoccer-Liga)
 
 Eigene Abteilungen sind daraus bislang nicht entstanden.
 
@@ -89,7 +90,7 @@ Wie viele Personen betreiben nach Kenntnis des Senats in Hamburg eSport?
 
 Wie viele Personen betreiben nach Kenntnis des Senats in Hamburg eSport professionell?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die zuständige Behörde hat hierzu keine Kenntnis.
 

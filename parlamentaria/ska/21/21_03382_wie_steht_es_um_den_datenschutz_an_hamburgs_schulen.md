@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 32
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8743", "21/1806", "21/3206", "21/3361"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51719"
@@ -106,7 +107,7 @@ Wo ist die Verwaltungsvorschrift zu finden, die gemäß § 3 Absatz 4 der Schul-
 
 Ist es Lehrkräften grundsätzlich gestattet, personenbezogene Daten mit nach Hause zu nehmen? Wenn ja: unter welchen Bedingungen? Wie wird dabei sichergestellt, dass diese Daten weiterhin umfassend geschützt werden?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Der Entwurf einer „Richtlinie zur Verwendung privater Datenverarbeitungsgeräte für dienstliche Verarbeitung personenbezogener Daten durch pädagogisches Personal der Schulen (Privat-PC-Richtlinie)“ befindet sich zurzeit in Abstimmung mit dem HmbBfDI und soll demnächst beschlossen und veröffentlicht werden.
 

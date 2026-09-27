@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/4967", "21/9700", "21/13089"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67477"
@@ -37,11 +38,11 @@ Vor diesem Hintergrund fragen wir den Senat:
 
 Eine allgemeingültige Definition des Begriffs „Großveranstaltungen“ existiert nicht. Für die Beantwortung der Fragen wurden daher folgende Kriterien zugrunde gelegt:
 
- Veranstaltungen im öffentlichen Raum, die pro Tag mindestens 100 000 Besucher
+– Veranstaltungen im öffentlichen Raum, die pro Tag mindestens 100 000 Besucher
 
 im Schnitt der Gesamtveranstaltung aufweisen oder
 
- Veranstaltungen, die in der Summe der Veranstaltungstage mehr als 250 000
+– Veranstaltungen, die in der Summe der Veranstaltungstage mehr als 250 000
 
 Besucher haben.
 
@@ -116,7 +117,7 @@ Wie viel Müll wurde auf diesen Großveranstaltungen in Hamburg produziert? (Bit
 
 Wie viele Personalstunden und welche Entsorgungskosten sind bei der Müllentsorgung auf diesen Großveranstaltungen jeweils entstanden? Welche Kosten wurden davon in welcher Höhe jeweils den Veranstaltern in Rechnung gestellt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Für den Hamburger DOM und den HAFENGEBURTSTAG HAMBURG siehe Anlagen 1 und 2. Für die Sammlung und Entsorgung der Müllmengen sowohl für das übrige Veranstaltungsgebiet des HAFENGEBURTSTAG HAMBURG, als auch bei den sonstigen Veranstaltungen sind die jeweiligen Veranstalter zuständig. Es sind keine Auswertungen zu Müllmengen bekannt.
 

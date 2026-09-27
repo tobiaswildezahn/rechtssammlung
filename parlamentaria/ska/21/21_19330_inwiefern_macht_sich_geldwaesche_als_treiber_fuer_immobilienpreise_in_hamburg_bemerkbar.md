@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69052"
@@ -47,7 +48,7 @@ Wie viel Geld wird nach Schätzungen des Senats beziehungsweise der zuständigen
 
 Wie viele solcher Fälle wurden in den letzten fünf Jahren gemeldet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Vorgangsverwaltungs- und Vorgangsbearbeitungssystem MESTA der Staatsanwaltschaften Hamburg wird nicht erfasst, ob ein Geldwäscheverfahren im Zusammenhang mit Immobiliengeschäften steht. Die Anzahl der Geldwäscheverdachtsanzeigen wird ebenfalls nicht zuverlässig registriert. Zwar werden diese Vorgänge im Register 5310 Js eingetragen. Allerdings werden in diesem Register auch Verfahren mit anderen Tatvorwürfen (zum Beispiel § 263 StGB) erfasst. Zur Beantwortung der Fragen müssten daher zumindest alle Verfahren des Registers 5310 Js händisch ausgewertet werden. Hierbei handelt es sich allein für den Zeitraum von Januar 2019 bis November 2019 um mehr als 1 100 Verfahren. Die Beiziehung und händische Auswertung dieser Verfahren ist innerhalb der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -105,10 +106,10 @@ Welche weiteren Maßnahmen hält der Senat beziehungsweise die zuständige Behö
 
 Die zuständige Behörde begrüßt die durch die jüngste Novellierung in das Geldwäschegesetz im Interesse einer erhöhten Transparenz von Immobiliengeschäften eingefügten Regelungen, nach denen ab dem 1. Januar 2020 Immobilienkaufverträge, bei denen es sich bei dem Käufer um eine juristische Person oder Personengesellschaft handelt, nur noch dann notariell beurkundet werden dürfen (Nummer 10 Buchstabe h) Unterbuchstabe bb) des Gesetzesbeschlusses des Deutschen Bundestages vom 14. November 2019, Bundesrats-Drucksache 598/19, noch nicht im Bundesgesetzblatt veröffentlicht), wenn
 
- der Käufer dem beurkundenden Notar in Textform eine Dokumentation seiner
+– der Käufer dem beurkundenden Notar in Textform eine Dokumentation seiner
 
 Eigentums- und Kontrollstruktur vorgelegt hat (Nummer 11 Buchstabe c) Unterbuchstabe cc) des Gesetzesbeschlusses) und
 
- der Käufer zuvor im Transparenzregister registriert worden ist, sofern es sich um
+– der Käufer zuvor im Transparenzregister registriert worden ist, sofern es sich um
 
 eine juristische Person oder Personengesellschaft ohne Sitz im Inland handelt (Nummer 19 Buchstabe a) des Gesetzesbeschlusses).

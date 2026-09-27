@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 16
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64338"
@@ -187,7 +188,7 @@ Wie gliedern sich die Behandlungen der Patienten des UKE seit 2007 jährlich in 
 
 Welcher Anteil der privat versicherten Personen stammt seit 2007 jährlich dabei aus dem Ausland und ist zur Behandlung eingereist?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 2013  
 2014  
@@ -232,7 +233,7 @@ Welche Abrechnungssysteme für inländische Privatpatienten (zum Beispiel direkt
 
 Wie erfolgt die Abrechnung für inländische Privatpatienten, die eine langfristige Behandlung in Anspruch nehmen müssen, in den einzelnen Organisationseinheiten des UKE?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Das UKE rechnet wahlärztliche Leistungen grundsätzlich aufgrund bestehender vertraglicher Vereinbarungen über zwei externe Abrechnungsunternehmen ab. Eine Ausnahme besteht für ein Zentrum des UKE, in dem aus EDV-technischen Gründen von drei wissenschaftlichen Einrichtungen die Abrechnungen dezentral erstellt werden. Außerdem sind im UKE mehrere Ärzte aufgrund ihrer althergebrachten personalrechtlichen Stellung berechtigt, ärztliche Wahlleistungen in Nebentätigkeit zu erbringen. Diese Ärzte rechnen die von ihnen erbrachten ärztlichen Leistungen in eigener Verantwortung gesondert selbst oder über von ihnen beauftragte Abrechnungsunternehmen ab. Es gilt dabei der Grundsatz, dass bei stationären Patientinnen und Patienten die Rechnungsstellung 20 Tage nach der Entlassung erfolgen soll.
 

@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 17
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5825"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55061"
@@ -149,6 +150,6 @@ Wie hoch werden laut Schätzungen des Senats die Bundemittel für das Gesamtvorh
 
 In welchem Verhältnis werden im günstigsten Fall die Bundes- zu den Landesmitteln stehen?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Durch Mittel des Gemeindeverkehrsfinanzierungsgesetzes können grundsätzlich bis zu 60 Prozent der als förderfähig anerkannten Projektkosten finanziert werden. Voraussetzungen sind der Nachweis einer volkswirtschaftlichen Vorteilhaftigkeit des Projekts (siehe Antwort zu 15.), eine ausreichende finanzielle Ausstattung des entsprechenden Förderprogramms sowie eine gesicherte Finanzierung des Eigenanteils.

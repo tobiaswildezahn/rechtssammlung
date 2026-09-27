@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 35
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3632", "21/2919", "21/2177"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52127"
@@ -78,7 +79,7 @@ Umfasst ein Teil des nunmehr definierten und an die Länder zu übertragenden Po
 
 Aus welchen Gründen wurde nunmehr die Übertragung von Portfolien an die hsh portfoliomanagement AöR in einer Größenordnung von 5 Milliarden Euro statt der bisher kommunizierten (bis zu) 6,2 Milliarden Euro vorgesehen, während im Gegenzug nun bis zu 3,2 Milliarden Euro statt wie bisher (mindestens) 2 Milliarden Euro am Markt verkauft werden sollen? a. Inwieweit handelt es sich bei den – auch in der Pressemitteilung der HSH Nordbank – genannten Werten jeweils um das „exposure at default“ (EAD)? b. Gab es in dem ursprünglich zur Übertragung an die Länder vorgesehenen Portfolio von bis zu 6,2 Milliarden Euro EAD Assets, die nicht unter die Sunrise-Garantie fielen? Wenn ja, in welchem Umfang? c. Soll es noch weitere Übertagungen an die hsh portfoliomanagement AöR geben? Wenn ja, wann und betreffend welcher Vermögenswerte beziehungsweise bis wann soll hierüber entschieden werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Es gelten unverändert die Bedingungen der Verständigung mit der Europäischen Kommission vom 19. Oktober 2015 (siehe Drs. 21/2177). Die EU-Kommission genehmigt einen Verkauf von insgesamt 8,2 Milliarden Euro Portfolio (Exposure at Default, EAD), von denen innerhalb des Privatisierungszeitraums bis zu 6,2 Milliarden Euro EAD von den Ländern übernommen werden können. Die Kommission hat in ihre Marktbewertung insgesamt ein größeres Portfolio einbezogen, aus dem der von den
 

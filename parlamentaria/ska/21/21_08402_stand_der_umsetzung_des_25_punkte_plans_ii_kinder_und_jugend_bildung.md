@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 24
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838", "21/2550", "21/7486", "21/6666", "21/7529", "21/5782", "21/7966", "21/5146"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57111"
@@ -99,7 +100,7 @@ Wie viele Lehrer-/-innenstellen wurden bisher (Stand März 2017) beziehungsweise
 
 Wie viele Sozialpädagogen-/-innenstellen wurden bisher (Stand März 2017) beziehungsweise werden perspektivisch in 2016/2017 und 2017/ 2018 für diese zusätzlichen Anmeldungen an welchen dieser Standorte zusätzlich veranschlagt? (Bitte für den Ist-Zustand sowie für jedes Schuljahr einzeln pro Standort, entsprechend in absoluten Zahlen und in Prozent, in der Tabelle zu 3. angeben.)
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Zuweisung des Personals erfolgt bedarfsgerecht auf der Basis der Schülerzahl der jeweiligen Schule (siehe Haushaltsplan 2017/2018, Einzelplan 3.1, Anhang 2 zu Anlage 1, Seite 189 folgende) sowie klassenbezogen nach Anzahl der Internationalen
 

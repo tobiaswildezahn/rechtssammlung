@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 18
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2112", "21/681", "21/1002", "21/1271", "21/1568", "21/1906", "21/2232", "21/1298", "20/13284", "21/2108", "21/1501", "21/1812"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50522"
@@ -138,7 +139,7 @@ Wann genau werden diese unter 1. genannten Flüchtlingsunterkünfte eingerichtet
 
 In welcher Form sollen Flüchtlinge dort untergebracht werden (Zelte, Container et cetera)?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 1.
 

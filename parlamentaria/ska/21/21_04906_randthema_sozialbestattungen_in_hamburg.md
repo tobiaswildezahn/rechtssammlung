@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 20
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53337"
@@ -241,7 +242,7 @@ Wie viele Bestattungen wurden im Rahmen der „Sozialbestattung“ beziehungswei
 
 Wie viele Bestattungen wurden im Rahmen der „Sozialbestattung“ beziehungsweise Kostenübernahme durch die Stadt Hamburg in einem anderen Bundesland vorgenommen? Bitte auch für die Jahre 2011 – 2016 einzeln angeben.
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Die erfragten Daten werden nicht automatisiert auswertbar erfasst. Eine händische Auswertung von mehreren Tausend Akten im Zeitraum von 2011 bis 2016 ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -253,6 +254,6 @@ Wie bewertet der Senat die Anzahl und die Entwicklung der Zahlen der „Sozialbe
 
 Wie bewertet der Senat die Forderung nach einer bundesweiten Vereinheitlichung der Übernahme der Bestattungskosten im Rahmen der „Sozialbestattung“?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Hiermit hat sich der Senat bisher nicht befasst.

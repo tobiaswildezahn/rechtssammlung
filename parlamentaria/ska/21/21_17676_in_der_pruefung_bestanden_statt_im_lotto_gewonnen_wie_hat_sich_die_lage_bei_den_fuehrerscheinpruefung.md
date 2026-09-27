@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67270"
@@ -58,7 +59,7 @@ a) theoretischen,
 b) praktischen  
 Führerscheinprüfungen im Jahr 2018 entwickelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe: https://www.kba.de/DE/Statistik/Kraftfahrer/Fahrerlaubnisse/Fahrerlaubnis pruefungen/2018_fe_p_dusl_art.html?nn=651942.
 
@@ -144,7 +145,7 @@ b) 18-Jährige
 je 1 000 in Hamburg gemeldete Personen dieser Altersgruppe haben im  
 Jahr 2018 jeweils die praktische Führerscheinprüfung bestanden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Bestandene Fahrerlaubnisprüfungen je 1000 in Hamburg gemeldeter Personen
 

@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 34
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54009"
@@ -47,7 +48,7 @@ Seit wann befindet sich die Fläche der ehemaligen S-Bahn-Trasse in Sasel in der
 
 Welche Art von Flüchtlingsunterkunft (Erstaufnahme-/Folgeunterkunft) ist für diese Fläche geplant beziehungsweise wird geprüft?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Zentrale Koordinierungsstab Flüchtlinge prüft laufend Angebote für Flächen und Gebäude als Standorte für die Unterbringung von Flüchtlingen. Dazu gehört auch das entsprechende Grundstück in Sasel.
 
@@ -116,7 +117,7 @@ Gibt es bereits informelle Gespräche mit dem zuständigen Bezirksamt über die 
 
 Laut Auskunft der Vertreter des ZKF wurde ein Architektenbüro beauftragt, um neue Modulhäuser für die geplante Unterkunft zu entwerfen. Warum gibt es keine geeigneten Modulbauten für diese Fläche? Wann wurde das Architektenbüro damit beauftragt und welche Kosten entstehen der Stadt Hamburg dabei? Warum wurde ein solcher Auftrag erteilt, wenn angeblich noch gar keine Entscheidung getroffen wurde, ob dort eine Flüchtlingsunterkunft gebaut wird?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Nein. Allerdings sind die Bezirksämter bei Flächenprüfungen im Rahmen von Standortkonferenzen beteiligt. Im Übrigen siehe Antwort zu 1) und 2) sowie Antwort zu 6) bis 8).
 

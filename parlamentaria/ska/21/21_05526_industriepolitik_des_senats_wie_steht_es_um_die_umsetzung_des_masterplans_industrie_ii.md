@@ -14,6 +14,7 @@ fragen: 32
 einzelfragen: 58
 antwortbloecke: 31
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4782", "21/4087", "21/4656", "21/3834", "19/8472", "20/12082", "20/12733", "21/4383", "21/4655", "21/4961", "20/13047"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54012"
@@ -287,7 +288,7 @@ In welchen Belangen besteht aus Sicht des Senats Einigkeit bezüglich der Verkeh
 
 Wie beurteilt der Senat die Anbindung an die Infrastruktur des Logistikstandortes Hamburg im Jahr 2016? Welche Maßnahmen ergreift er für eine Anbindung an die Verkehrswege (Metropolregion, Norddeutschland, Nordeuropa sowie weltweit) für das Jahr 2030?
 
-#### Antwort zu Fragen 24 bis 25
+#### Antwort zu Fragen 24 und 25
 
 Hamburg ist mit allen Verkehrsträgern in die regionalen, nationalen und internationalen Verkehrsnetze eingebunden. Um für die Herausforderungen der Zukunft besser gerüstet zu sein, hat sich die zuständige Behörde intensiv für die für Hamburg wichtigen Projekte im Bundesverkehrswegeplan/BVWP 2030 (http://www.bmvi.de/ SharedDocs/DE/Anlage/VerkehrUndMobilitaet/BVWP/bvwp-2030- kabinettsplan.pdf?__blob=publicationFile) eingesetzt. Der im August von der Bundesregierung beschlossene BVWP 2030 enthält eine Vielzahl von Projekten in der Metropolregion, die die Infrastruktur zukünftig leistungssteigernd und umfeldverträglich gestalten sollen. Die zuständige Behörde steht im kontinuierlichen Austausch mit dem Bund, um für die für Hamburg bedeutsamen Projekte und deren Umsetzung zu werben und treibt bei den Fernstraßen auch selbst die Planungen voran.
 

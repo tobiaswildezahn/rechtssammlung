@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 25
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1002", "21/635", "21/759", "21/847", "21/1067", "21/1110", "21/1160", "21/1229", "21/1409"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49693"
@@ -51,17 +52,17 @@ In welcher Form sollen Flüchtlinge dort untergebracht werden (Zelte, Container 
 
 Es sind folgende neue Standorte der Zentralen Erstaufnahmeeinrichtung geplant:
 
- Vogt-Kölln-Straße (Stellingen) mit circa 500 Plätzen. Die Bauarbeiten wurden
+– Vogt-Kölln-Straße (Stellingen) mit circa 500 Plätzen. Die Bauarbeiten wurden
 
 begonnen, die Aufstellung der Wohncontainer erfolgt ab der 39. Kalenderwoche. Die Inbetriebnahme ist für den 5. Oktober 2015 vorgesehen, die Nutzungsdauer steht noch nicht fest.
 
- Flagentwiet (Schnelsen) mit circa 900 Plätzen. Die Bauarbeiten wurden begonnen,
+– Flagentwiet (Schnelsen) mit circa 900 Plätzen. Die Bauarbeiten wurden begonnen,
 
 die Aufstellung der Wohncontainer erfolgt ab der 39. Kalenderwoche. Die Inbetriebnahme ist ab Mitte Oktober 2015 vorgesehen, die Nutzungsdauer steht noch nicht fest.
 
 Es ist folgender Standort der öffentlich-rechtlichen Unterbringung geplant:
 
- Große Bahnstraße 50 (Stellingen) mit circa 200 Plätzen in einem Neubau. Das
+– Große Bahnstraße 50 (Stellingen) mit circa 200 Plätzen in einem Neubau. Das
 
 Baugenehmigungsverfahren ist im Gange, die Fertigstellung steht noch nicht fest, soll aber im Jahr 2016 erfolgten. Es ist eine Nutzungsdauer von mindestens zehn Jahren geplant.
 
@@ -129,7 +130,7 @@ Wann wurden mit den jeweils betroffenen Grundstückseigentümern Gespräche aufg
 
 Haben die Eigentümer der Flächen einer Nutzung bereits zugestimmt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Bei den ZEA-Standorten handelt es sich um stadteigene Grundstücke.
 
@@ -180,11 +181,13 @@ Weder der Bezirk noch der Senat haben Teile von Eimsbüttel bei der Suche nach g
 BÜRGERSCHAFTSKANZLEI Hamburg, 12.11.2015 Ergänzung zu Drucksache 21/1492 Flüchtlingsunterkünfte im Wahlkreis 6
 – Schriftliche Kleine Anfrage des Abgeordneten Philipp Heißner (CDU-Fraktion)– Auf die Beanstandung der Antwort des Senats auf die o. g. Schriftliche Kleine Anfrage durch die Präsidentin der Bürgerschaft hat der Senat die Frage 10 wie folgt ergänzend beantwortet:
 
- “Zum Standort Vogt-Kölln-Straße (Stellingen): Mündliche Mitteilung im
+– “Zum Standort Vogt-Kölln-Straße (Stellingen): Mündliche Mitteilung im
 
-Hauptausschuss am 13.08.2015. Mündliche Mitteilung im Regionalausschuss Stellingen am 31.08.2015. Mitteilung der Verwaltung im Ausschuss für Soziales, Arbeit, Gleichstellung und Gesundheit (SAGG) am 08.09.2015.  Zum Standort Flagentwiet (Schnelsen): Mündliche Mitteilung im
+Hauptausschuss am 13.08.2015. Mündliche Mitteilung im Regionalausschuss Stellingen am 31.08.2015. Mitteilung der Verwaltung im Ausschuss für Soziales, Arbeit, Gleichstellung und Gesundheit (SAGG) am 08.09.2015.
+– Zum Standort Flagentwiet (Schnelsen): Mündliche Mitteilung im
 
 Hauptausschuss am 13.08.2015. Schriftliche Mitteilung der Verwaltung im Ausschuss für Soziales, Arbeit, Gleichstellung und Gesundheit (SAGG) am 08.09.2015. Mündliche Mitteilung im Regionalausschuss Lokstedt am
-14.09.2015.  Zum Standort Große Bahnstraße 50 (Stellingen): Anhörung der
+14.09.2015.
+– Zum Standort Große Bahnstraße 50 (Stellingen): Anhörung der
 
 Bezirksversammlung nach § 28 BezVG durch die Behörde für Arbeit, Soziales, Familie und Integration mit Schreiben vom 12.05.2015; Stellungnahme der Bezirksversammlung am 28.05.2015.

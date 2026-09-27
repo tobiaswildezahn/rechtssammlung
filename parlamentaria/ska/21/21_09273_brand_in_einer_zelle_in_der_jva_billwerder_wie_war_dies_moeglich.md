@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 21
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8096"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58034"
@@ -44,7 +45,7 @@ Wie konnte der Inhaftierte in der JVA Billwerder das Feuer entfachen? Welche Ma�
 
 Womit hat der Inhaftierte in der JVA Billwerder das Feuer entfacht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die polizeilichen Ermittlungen dauern an. Der Gefangene befand sich zum Zeitpunkt des Ereignisses in seinem Haftraum unter Verschluss. Eine abschließende Bewertung des Ereignisses kann erst nach Abschluss der polizeilichen Untersuchungen und nach Abschluss der noch andauernden anstaltsinternen Ermittlungen erfolgen.
 
@@ -122,7 +123,7 @@ Wie hoch ist der Krankenstand bezogen auf die Vollzeitäquivalente und die Teilz
 
 Wie hoch ist der Krankenstand bezogen auf die Vollzeitäquivalente und die Teilzeitstellen bei den weiteren JVAs (bitte die tatsächlichen Zahlen und in Prozenten auf die Jahre 2015 bis Mai 2017 bezogen darstellen)? Was sind Hauptursachen für gegebenenfalls einen Anstieg des Krankenstand/der Krankenquote?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 2015 Teilzeit Vollzeit
 

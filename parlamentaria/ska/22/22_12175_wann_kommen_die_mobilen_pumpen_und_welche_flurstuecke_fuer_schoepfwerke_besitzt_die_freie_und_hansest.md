@@ -13,9 +13,10 @@ seiten: 1
 fragen: 0
 einzelfragen: 0
 antwortbloecke: 0
-beantwortet: true
+beantwortet: false
+status: "zurückgezogen"
 zitierte_drucksachen: []
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/84091"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/84091/22_12175_wann_kommen_die_mobilen_pumpen_und_welche_flurstuecke_fuer_schoepfwerke_besitzt_die_freie_und_hansestadt_hamburg_denn_jetzt"
 abgerufen: "2026-09-24"
@@ -24,11 +25,9 @@ generator: "ska_archiv 1.0"
 
 # Drs. 22/12175: Wann kommen die mobilen Pumpen und welche Flurstücke für Schöpfwerke besitzt die Freie und Hansestadt Hamburg denn jetzt?
 
-> Schriftliche Kleine Anfrage des Abgeordneten Stephan Jersch (DIE LINKE) vom 08.06.23 und Antwort des Senats · Drucksache vom 08.06.2023  
+> Schriftliche Kleine Anfrage des Abgeordneten Stephan Jersch (DIE LINKE) vom 08.06.23 · zurückgezogen · Drucksache vom 08.06.2023  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/84091) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/84091/22_12175_wann_kommen_die_mobilen_pumpen_und_welche_flurstuecke_fuer_schoepfwerke_besitzt_die_freie_und_hansestadt_hamburg_denn_jetzt)
 
-## Volltext
-
-Wann kommen die mobilen Pumpen und welche Flurstücke für Schöpfwerke besitzt die Freie und Hansestadt Hamburg denn jetzt?
+## Hinweis
 
 Die Anfrage wurde zurückgezogen.

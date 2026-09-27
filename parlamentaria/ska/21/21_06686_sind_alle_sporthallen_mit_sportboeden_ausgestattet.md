@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3659"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55249"
@@ -45,7 +46,7 @@ Wie viele ältere Schulsporthallen gibt es noch, die noch nicht mit einem Sportb
 
 Werden bei Umbau oder Sanierung von Schulsporthallen immer Sportböden nach DIN V 18032-2 eingebaut?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Sportböden in Schulsporthallen werden grundsätzlich nach den jeweils geltenden gesetzlichen Vorschriften und dem Stand der Technik hergestellt. Eine Erneuerung von Sportböden erfolgt unter anderem auch unter Beachtung der DIN 18032-2. Im Übrigen siehe Drs. 21/3659.
 

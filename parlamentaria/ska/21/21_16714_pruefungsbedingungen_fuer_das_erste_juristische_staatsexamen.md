@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 19
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66255"
@@ -194,7 +195,7 @@ Wie viele VZÄ sind am JPA eingeplant? Bitte nach Jahren ab 2015 und nach Entgel
 
 Wie viele VZÄ sind am JPA besetzt? Bitte nach Jahren ab 2015 aufschlüsseln.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die im Haushaltsplan dargestellten Vollzeitäquivalente (VZÄ) werden lediglich auf Ebene der PG 235.01 „Hanseatisches Oberlandesgericht“ geplant und stellen sich wie folgt dar:
 

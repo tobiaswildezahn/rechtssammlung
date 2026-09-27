@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59663"
@@ -61,7 +62,7 @@ Wann hat die Polizei von dem Verbrechen erfahren?
 
 Wer hat die Polizei von diesem in Kenntnis gesetzt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Antwort zu 1.
 

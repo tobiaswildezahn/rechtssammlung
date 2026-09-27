@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4457", "21/3721", "20/10265"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52940"
@@ -85,7 +86,7 @@ Welche einzelnen Sachverhalte haben in der Finanzrechnung 2015 dazu geführt, da
 
 Warum ist der Senat im März noch davon ausgegangen, dass sich der Bestand an liquiden Mitteln im Jahr 2015 um 311,2 Millionen Euro verändert hat, während nun diese Zahl auf 44,3 Millionen Euro angepasst wurde?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Infolge des temporären Weiterbetriebs des kameralen SAP-Systems für Abrechnungsund Buchungsfälle der Personalzahlungen der Freien und Hansestadt Hamburg wurden in der 14. Buchungsperiode Ausgleichsbuchungen zum doppischen SAP-System ausgeführt. Die Buchungen betrafen hauptsächlich Lohnsteuer-Umbuchungen (Abführung) des Zentrums für Personaldienste.
 

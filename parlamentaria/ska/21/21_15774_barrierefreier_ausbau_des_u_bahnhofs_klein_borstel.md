@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13029"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65277"
@@ -55,21 +56,21 @@ Welche konkreten Maßnahmen werden dabei umgesetzt?
 
 Folgende Maßnahmen werden umgesetzt:
 
- Abbruch und Erneuerung des Bahnsteiges als Vollerhöhung,
+– Abbruch und Erneuerung des Bahnsteiges als Vollerhöhung,
 
- Anpassung der Gleisanlagen an neue Trassierung,
+– Anpassung der Gleisanlagen an neue Trassierung,
 
- Abbruch der vorhandenen Treppe, einschließlich der Treppeneinhausung ab Ober-
+– Abbruch der vorhandenen Treppe, einschließlich der Treppeneinhausung ab Ober-
 
 kante Bahnsteig,
 
- Herstellung eines Aufzugsschachtes mit Steganlage und Erneuerung der festen
+– Herstellung eines Aufzugsschachtes mit Steganlage und Erneuerung der festen
 
 Treppe innerhalb des Gebäudes,
 
- Herstellung einer neuen Treppeneinhausung,
+– Herstellung einer neuen Treppeneinhausung,
 
- Aufstellung einer provisorischen Fahrgasttreppe.
+– Aufstellung einer provisorischen Fahrgasttreppe.
 
 ### Frage 3
 

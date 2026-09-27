@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10361"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60955"
@@ -56,7 +57,7 @@ Laut Herrn Sielmann konnte mit der BUE eine Vereinbarung über die Teilung „ü
 
 Welche Kleingartenparzellen in der Größe von 600 bis 1.000m² wurden bisher „kleinparzelliert“? Bitte mit Parzellengröße unter Angabe des Kleingartenvereins sowie des Zeitpunkts der Aufteilung und der End- Größe der Parzellen nach Aufteilung angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die kleinteilige Nachverdichtung, das heißt die Teilung einzelner übergroßer Parzellen, erfolgt auf Initiative der jeweiligen Vereine. Die entsprechenden Anträge der Vereine gehen beim LGH ein. Dieser hat sie bis Sommer 2017 zur Finanzierung und Beauftragung der Teilung durch die Bezirksämter an die Behörde für Umwelt und Energie (BUE) weitergeleitet. Mit der ab dem 30. August 2017 geltenden „Vereinbarung zur kleinteiligen Nachverdichtung im Kleingartenbestand“ erfolgt die Umsetzung durch den LGH bei fortgesetzter Finanzierung durch die BUE. Anlass für eine Parzellenteilung ist oftmals der Abriss nicht mehr dauerbewohnter Behelfsheime, da diese in der Regel auf größeren Parzellen standen. Derartige Teilungen finden seit vielen Jahren statt und tragen dazu bei, Ersatzkleingärten zu schaffen. Eine flächendeckende, systematische Erfassung der einzelnen Parzellengrößen erfolgt seitens der zuständigen Behörde nicht und ist hierfür auch nicht erforderlich. Ob eine beantragte Teilung möglich und sinnvoll ist, ist jeweils eine Einzelfallprüfung.
 

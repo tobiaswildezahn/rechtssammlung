@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 21
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5328"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58752"
@@ -95,7 +96,7 @@ War ein ausgebildeter Raumplaner für das Bürgerbeteiligungsverfahren verantwor
 
 Waren sonst ausgebildete Raumplaner an dem Projekt beteiligt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Ja, es war städtebauliche-raumplanerische Kompetenz eingebunden.
 

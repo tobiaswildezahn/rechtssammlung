@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69833"
@@ -57,7 +58,7 @@ Wie viel Kubikmeter Baggergut hat Hamburg insgesamt im Jahr 2019 in der Nordsee 
 
 Wie viel Kubikmeter Baggergut hat Hamburg jeweils insgesamt in den Jahren 2018 und 2019 in der Nordsee bei Tonne E3 verbracht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Im Jahr 2018 wurden rund 2,96 Millionen Kubikmeter und im Jahr 2019 rund 3,76 Millionen Kubikmeter Laderaumvolumen in die Nordsee bei Tonne E3 verbracht.
 
@@ -78,7 +79,7 @@ Welche Maßnahmen wurden jeweils wie häufig im 4. Quartal 2019 seitens der HPA 
 Welche Saugbagger beziehungsweise sonstigen Bagger wurden im
 4. Quartal 2019 für jeweils wie lange in welchen Hafenbereichen und darüber hinaus eingesetzt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Im 4. Quartal 2019 wurden folgende Baggergeräte für Maßnahmen der Wassertiefeninstandhaltung eingesetzt:
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10229", "21/971", "21/1005"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59418"
@@ -39,19 +40,19 @@ Die Beantwortung der Fragen erfolgt auf Basis von Angaben der HafenCity Hamburg 
 
 Bei der Planung des Sportplatzes im Oberhafen sind folgende Rahmenbedingungen und fachliche Anforderungen für die Bemessung berücksichtigt und abgewogen worden:
 
- die Ermöglichung eines dauerhaften Betriebs ohne Einschränkungen aus der
+– die Ermöglichung eines dauerhaften Betriebs ohne Einschränkungen aus der
 
 unmittelbaren Nähe von Wohnungen,
 
- eine gute Erreichbarkeit von den Schul- und Wohnstandorten in der HafenCity im
+– eine gute Erreichbarkeit von den Schul- und Wohnstandorten in der HafenCity im
 
 Rahmen der für den Oberhafen vorgesehene Erschließung für den ÖPNV sowie den Fußgänger- und Radverkehr,
 
- die Wirtschaftlichkeit des Bauvorhabens durch Vermeidung des (teilweisen) Baus
+– die Wirtschaftlichkeit des Bauvorhabens durch Vermeidung des (teilweisen) Baus
 
 des Fußballplatzes in die Wasserfläche des Oberhafens, der mit einem hohen Investitionsaufwand sowie laufend hohen Betriebskosten für die Instandhaltung verbunden wäre, um untergrundbedingte Setzungen auszugleichen und regelhaft eintretende Schäden an der Oberfläche zu beseitigen,
 
- Rücksichtnahme auf den Charakter des Kulturquartiers, das heißt nur ein Teilab-
+– Rücksichtnahme auf den Charakter des Kulturquartiers, das heißt nur ein Teilab-
 
 riss des Schuppens 4, um einen ausreichenden Flächenzuschnitt für den Sportplatz zu ermöglichen und gleichzeitig die Anforderungen des Hochwasserschutzes zu erfüllen.
 
@@ -111,7 +112,7 @@ Wer würde die Organisation des Betriebes der Sportanlage übernehmen, wie zum B
 
 Wer würde kostenseitig für den Betrieb, Wartung, Reinigung oder sonstige Gründe (bitte ausführen) aufkommen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Es ist vorgesehen, die Sportstätte als bezirkliche Sport- und Schulsportanlage zu betreiben. Es gelten die für den Betrieb dieser Anlagen üblichen Regelungen.
 
@@ -123,7 +124,7 @@ Unter Einbeziehung welcher (Sport)Vereine fand die bisherige Planung der Sportan
 
 Fand die bisherige Planung unter Einbeziehung des HSB statt und wenn ja, ab wann, in welcher Form und Häufigkeit?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Vorgespräche wurden zu verschiedenen Zeitpunkten unter anderem mit der zuständigen Behörde und dem Bezirksamt Hamburg-Mitte geführt. Der Hamburger
 

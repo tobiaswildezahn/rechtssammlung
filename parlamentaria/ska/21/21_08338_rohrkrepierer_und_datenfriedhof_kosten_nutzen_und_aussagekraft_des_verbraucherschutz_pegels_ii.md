@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 34
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1619", "21/3648"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57060"
@@ -239,7 +240,7 @@ Wann ist die nächste Onlinebefragung im Rahmen des Verbraucherschutz-Pegels gep
 
 Welchen Veränderungen hinsichtlich der Form der Onlinebefragung sind in Zukunft geplant?
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Die Planungen hierzu sind noch nicht abgeschlossen.
 

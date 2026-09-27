@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54726"
@@ -35,13 +36,13 @@ Auf seiner Internetseite verlinkt der „Flüchtlingsrat Hamburg e.V.“ auf lin
 
 ## Einleitung für die Antworten des Senats
 
- Antifa
+– Antifa
 
- Cafe Exil Hamburg
+– Cafe Exil Hamburg
 
- Indymedia
+– Indymedia
 
- Rote Hilfe e.V.
+– Rote Hilfe e.V.
 
 Vor diesem Hintergrund frage ich den Senat:
 
@@ -55,7 +56,7 @@ Unterstützt die Freie und Hansestadt Hamburg den „Flüchtlingsrat Hamburg e.V
 
 Ist dem Senat bekannt, dass der „Flüchtlingsrat Hamburg e.V.“ in seiner Öffentlichkeitsarbeit aktiv linksextremistische Organisationen und Gruppen bewirbt? Wie bewertet der Senat diesen Umstand?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nein.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/933", "21/1031"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49298"
@@ -52,7 +53,7 @@ Für welche Tätigkeitsfelder war der möglicherweise befangene Mitarbeiter der 
 
 Seit wann war der Mitarbeiter im Behördendienst der Behörde für Stadtentwicklung und Umwelt oder anderer Behörden tätig?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/933.
 

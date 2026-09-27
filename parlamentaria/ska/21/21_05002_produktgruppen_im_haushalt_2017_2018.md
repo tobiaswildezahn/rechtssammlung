@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53555"
@@ -43,6 +44,6 @@ Welche einzelnen Produktgruppen in jeweils welchen Einzelplänen sollen mit dem 
 
 Welche einzelnen Produktgruppen in jeweils welchen Einzelplänen sollen im Haushalt 2017/2018 aus welchen Gründen neu enthalten sein?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für den Haushaltsplan 2017/2018 wird sich die Anzahl der beplanten Produktgruppen verändern. Im Rahmen der vom Senat beschlossenen Anpassungsermächtigungen werden die Änderungen derzeit noch geprüft beziehungsweise umgesetzt. Einzelheiten werden sich aus dem der Bürgerschaft vorzulegenden Haushaltsplanentwurf 2017/2018 ergeben.

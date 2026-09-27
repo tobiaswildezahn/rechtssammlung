@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 16
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1969", "21/795"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51255"
@@ -101,7 +102,7 @@ In welcher Höhe haben sich jeweils öffentliche Unternehmen an Werbungs-/Bewerb
 
 Welche Kosten sind bei öffentlichen Unternehmen für Werbemaßnahmen bis zum 29.11.2015 entstanden (Werbung an Gebäuden, Fahrzeugen, Werbeträger, in Medien et cetera)?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Anlage 1.
 
@@ -113,7 +114,7 @@ Welche Ausgaben sind insgesamt für die Bewerbung für die Olympischen Spiele 20
 
 Wann wurden die jeweiligen Verträge über Gutachten, Untersuchungen und Ähnliche abgeschlossen, wann erfolgten Änderungen beziehungsweise Verlängerungen der Verträge?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Anlage 2.
 

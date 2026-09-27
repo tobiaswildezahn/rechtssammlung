@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4009", "21/726", "21/865", "21/5639"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55313"
@@ -84,7 +85,7 @@ Wie bewertet der Senat die hohe Anzahl der „fehlerhaften Rechtsanwendungen“ 
 
 Laut Drs. 21/4009 lag die Anzahl der Stattgaben, die auf fehlerhafte Rechtsanwendung zurückzuführen sind, im Monat 03/2016 bei 174. Wie erklärt sich der Senat die Zunahme auf 225 laut Statistik „Widersprüche und Klagen SGB II“ der Bundesagentur für Arbeit im Oktober 2016?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der angegebene Wert von 41 Prozent bezieht sich auf die Relation der Anzahl der erledigten Widersprüche mit „fehlerhaften Rechtsanwendung“ zu der Anzahl der „Stattgaben insgesamt“ der erledigten Widersprüche. Im Rahmen der erledigten Widersprüche insgesamt (im Oktober wurden 1.353 Widersprüche nach der oben genannten Statistik der Bundesagentur für Arbeit erledigt) ergibt sich ein Prozentsatz von 16,63 Prozent an Stattgaben aufgrund fehlerhafter Rechtsanwendung.
 

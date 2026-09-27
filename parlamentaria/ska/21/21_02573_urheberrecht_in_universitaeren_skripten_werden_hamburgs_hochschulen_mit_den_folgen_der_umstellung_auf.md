@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 11
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50881"
@@ -53,7 +54,7 @@ Wie schätzt der Senat beziehungsweise die zuständige Behörde die Folgen der U
 
 Werden diese Folgen mit steigenden Kosten für zunehmenden Verwaltungsaufwand verbunden sein? Wenn ja: Wie hoch werden diese zusätzlichen Kosten geschätzt und gibt es Pläne beim Senat oder der zuständigen Behörde, diese zusätzlichen Kosten auszugleichen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der bundesweite Diskussionsprozess ist noch nicht abgeschlossen. Ausgangspunkt der Überlegungen zur vereinfachten Erfassung und Meldung sind die Erfahrungen mit dem Pilotprojekt der Universität Osnabrück. Ziel ist, das Meldeverfahren gegenüber dem bislang erprobten Verfahren deutlich zu vereinfachen und für die Hochschulen nutzerfreundlich auszugestalten.
 

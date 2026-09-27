@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17722", "21/14780", "21/14998", "21/18574"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68330"
@@ -206,6 +207,6 @@ Nach einem langen Prozess der Meinungsbildung teilte der Senat in seiner Pressem
 
 Laut bereits zuvor genannter Pressemitteilung des Senats soll zukünftig an insgesamt acht Anschlusspunkten Landstrom für Containerschiffe am Burchardkai, Europakai und Predöhlkai verfügbar sein. Liegen bereits konkrete Planungen zur zeitlichen und baulichen Umsetzung vor? Wenn ja, welche? Wenn nein, wann werden diese vorgelegt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/18574.

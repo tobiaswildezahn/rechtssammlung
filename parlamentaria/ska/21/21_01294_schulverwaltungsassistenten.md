@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/4950", "20/5112", "20/7703", "20/10636", "20/12472", "20/14531"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49514"
@@ -113,6 +114,6 @@ Wie viele Stellen werden damit insgesamt neu geschaffen? Welche Kosten verursach
 
 Geht die zugewiesene Verwaltungsassistenz zulasten des pädagogischen Personals an der jeweiligen Schule oder handelt es sich um zusätzliche und neu zu schaffende Stellen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die für die Verwaltungsleitungen ausgeschriebenen und künftig auszuschreibenden Stellen werden vollständig durch Umschichtungen im Bereich des technischen und Verwaltungspersonals (siehe Antwort zu 6.) finanziert, die unter anderem durch die Zusammenlegung von Schulen ermöglicht werden.

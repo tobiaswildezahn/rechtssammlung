@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15881", "21/15914"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65399"
@@ -119,7 +120,7 @@ Wie wird die Fördersumme auf die einzelnen Exzellenzcluster verteilt? Bitte fü
 
 Mit wie viel Geld unterstützt die Universität Hamburg die Exzellenzcluster während der nächsten sieben Jahre?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/15914.
 

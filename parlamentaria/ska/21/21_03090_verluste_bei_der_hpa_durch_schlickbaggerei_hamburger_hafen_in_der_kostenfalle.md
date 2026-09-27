@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2368", "21/2939"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51406"
@@ -91,6 +92,6 @@ Wie hoch waren die Kosten für das Ausbaggern von Schlick im Hamburger Hafen im 
 
 Warum liegen die Kosten Ende Januar 2016 noch nicht vor? (Vergleiche Drs. 21/2939.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Kosten liegen derzeit nicht vor, da die buchhalterischen Jahresabschlussarbeiten für das Jahr 2015 noch nicht beendet sind.

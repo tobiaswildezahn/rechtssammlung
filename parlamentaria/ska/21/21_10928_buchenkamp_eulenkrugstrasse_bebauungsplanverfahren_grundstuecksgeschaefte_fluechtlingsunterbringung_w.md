@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 54743
 seiten: 4
 fragen: 14
-einzelfragen: 24
-antwortbloecke: 14
+einzelfragen: 35
+antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7642"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59858"
@@ -36,37 +37,52 @@ Ich frage den Senat:
 ### Frage 1
 
 In einer Vorlage des Bezirksamts Wandsbek an den Planungsausschuss der Bezirksversammlung vom 6.11.2017 heißt es: „Die Ökologische Wohnungsbaugenossenschaft als bisherige Grundeigentümerin hat der Verwaltung mitgeteilt, dass ein Teil der für den Wohnungsbau vorgesehenen Flächen des ehemaligen Ferck’schen Hofes an die GFG Hoch- Tief-Bau Kommanditgesellschaft aus Henstedt-Ulzburg veräußert wurde. Es handelt sich hierbei um die Flächen für die Erschließung sowie den nördlich daran anschließenden Bereich für den freifinanzierten Wohnungsbau. Die GFG Hoch-Tief-Bau hat sich zudem bereit erklärt, die Kosten für das Bebauungsplanverfahren und die erforderlichen Gutachten zu übernehmen.“
-1.1. Wann erfolgte der Verkauf und wie groß ist die verkaufte Fläche?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Wann erfolgte der Verkauf und wie groß ist die verkaufte Fläche?
+
+#### Antwort zu Fragen 1 und 1.1
 
 Die Grundstücke im B-Plan Gebiet Volksdorf 46 befinden sich mit Ausnahme der Straßenverkehrsflächen in Privateigentum. Über Grundstücksgeschäfte zwischen privaten Dritten liegen dem Senat keine Erkenntnisse vor.
 
-1.2. Ist für diese Veräußerung eine Genehmigung der zuständigen Behörde nach dem Grundstücksverkehrsgesetz erforderlich?
+### Frage 1.2
 
-Wenn nein, warum nicht?
+Ist für diese Veräußerung eine Genehmigung der zuständigen Behörde nach dem Grundstücksverkehrsgesetz erforderlich? Wenn nein, warum nicht? Wenn ja, wann wurde die Genehmigung beantragt und welche Stelle hat wann die Genehmigung aus welchen Gründen und unter welchen Bedingungen und Auflagen erteilt?
 
-Wenn ja, wann wurde die Genehmigung beantragt und welche Stelle hat wann die Genehmigung aus welchen Gründen und unter welchen Bedingungen und Auflagen erteilt?
+#### Antwort zu Frage 1.2
 
 Grundsätzlich müssen gemäß Grundstücksverkehrsgesetz Kaufverträge für Grundstücke der Behörde für Wirtschaft, Verkehr und Innovation (BWVI) vorgelegt werden, wenn die Grundstücksfläche mindestens 10.000 m² beträgt und in Hamburg belegen ist. Ob eine Genehmigung nach Grundstücksverkehrsgesetz erforderlich ist, wird dann im Einzelfall von der BWVI anhand der Vertragsunterlagen geprüft. Der hier benannte Verkaufsfall wurde bisher nicht der BWVI vorgelegt.
 
-1.3. In welcher Form liegt die Erklärung des neuen Grundstückseigentümers vor, die Kosten für das Bebauungsplanverfahren und die erforderlichen Gutachten zu übernehmen? An welche einzelnen Voraussetzungen ist diese Kostenübernahmeerklärung gebunden?
+### Frage 1.3
+
+In welcher Form liegt die Erklärung des neuen Grundstückseigentümers vor, die Kosten für das Bebauungsplanverfahren und die erforderlichen Gutachten zu übernehmen? An welche einzelnen Voraussetzungen ist diese Kostenübernahmeerklärung gebunden?
+
+#### Antwort zu Frage 1.3
 
 Der neue Grundstückseigentümer hat dies zunächst mündlich erklärt und ist bereit, sich entsprechend schriftlich zu verpflichten. Die Voraussetzungen richten sich insbesondere nach § 11 des Baugesetzbuches.
 
-1.4. Hat auf dem Flurstück 272 eine Grundstücksteilung stattgefunden oder ist dies beantragt?
+### Frage 1.4
 
-Wenn ja, wo verlaufen dort derzeit die genauen Grundstücksgrenzen?
+Hat auf dem Flurstück 272 eine Grundstücksteilung stattgefunden oder ist dies beantragt? Wenn ja, wo verlaufen dort derzeit die genauen Grundstücksgrenzen?
+
+#### Antwort zu Frage 1.4
 
 Nein. Es hat weder eine Grundstücksteilung stattgefunden noch wurde eine beauftragt.
 
-1.5. Wann und in welcher Form waren jeweils welche Vertreter der Stadt mit Fragestellungen im Zuge der vom Bezirksamt mitgeteilten Grundstücksveräußerung beteiligt?
+### Frage 1.5
+
+Wann und in welcher Form waren jeweils welche Vertreter der Stadt mit Fragestellungen im Zuge der vom Bezirksamt mitgeteilten Grundstücksveräußerung beteiligt?
+
+#### Antwort zu Frage 1.5
 
 Vertreterinnen und Vertreter der Stadt waren nicht an der Grundstücksveräußerung beteiligt. Die für das Bebauungsplanverfahren zuständigen Beschäftigten des Bezirksamtes haben den Veräußerungsvorgang im Rahmen des Bebauungsplanverfahrens zur Kenntnis genommen.
 
-1.6. Ist die Ökologische Wohnungsbaugenossenschaft bisher alleinige Grundeigentümerin gewesen?
+### Frage 1.6
 
-Wenn nein, warum stellt es das Bezirksamt Wandsbek so dar und wie sind die korrekten Eigentumsverhältnisse?
+Ist die Ökologische Wohnungsbaugenossenschaft bisher alleinige Grundeigentümerin gewesen? Wenn nein, warum stellt es das Bezirksamt Wandsbek so dar und wie sind die korrekten Eigentumsverhältnisse?
+
+#### Antwort zu Frage 1.6
 
 Nach dem Kenntnisstand der Verwaltung war neben der Ökologischen Wohnungsbaugenossenschaft bisher eine weitere juristische Person Miteigentümerin des Grundstückes, deren Vertretung jedoch Personenidentität mit derjenigen der Ökologischen Wohnungsbaugenossenschaft aufweist. Insofern war eine Feindifferenzierung im Rahmen der fraglichen Ausschussvorlage nicht geboten.
 
@@ -89,12 +105,24 @@ Das Planverfahren wird federführend durch das Bezirksamt Wandsbek durchgeführt
 ### Frage 4
 
 Gemäß Angaben in Drs. 21/7642 sowie der Präsentation des Bezirksamtes anlässlich einer öffentlichen Anhörung im September 2017 stehen noch zahlreiche Gutachten für das Planverfahren Volksdorf 46 aus.
-4.1. Wann sollen die einzelnen Gutachten jeweils durch wen beauftragt werden?
-4.2. Wie ist jeweils der Stand des Auswahl- und Vergabeverfahrens für die einzelnen Gutachten?
-4.3. Welche Gutachtenaufträge wurden bereits vergeben? Wann wird das entsprechende Ergebnis erwartet?
-4.4. Wie ist jeweils die genaue Leistungsbeschreibung für die einzelnen Gutachten?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+Wann sollen die einzelnen Gutachten jeweils durch wen beauftragt werden?
+
+### Frage 4.2
+
+Wie ist jeweils der Stand des Auswahl- und Vergabeverfahrens für die einzelnen Gutachten?
+
+### Frage 4.3
+
+Welche Gutachtenaufträge wurden bereits vergeben? Wann wird das entsprechende Ergebnis erwartet?
+
+### Frage 4.4
+
+Wie ist jeweils die genaue Leistungsbeschreibung für die einzelnen Gutachten?
+
+#### Antwort zu Fragen 4, 4.1, 4.2, 4.3 und 4.4
 
 Noch nicht beauftragte Gutachten sollen zu gegebener Zeit durch den Planungsbegünstigten beauftragt werden. Abschließende Leistungsbilder beziehungsweise ein abschließender Zeitplan bestehen hierfür nicht. Im Übrigen siehe Drs. 21/7642.
 
@@ -117,14 +145,24 @@ Die Frage, ob und gegebenenfalls in welcher Form die fraglichen Hofgebäude in e
 ### Frage 7
 
 Gemäß Auffassung des Bezirksamtes in der Vorlage an den Planungsausschuss der Bezirksversammlung Wandsbek vom 6.11.2017 wurde das Betreiberkonzept für die Dementen-Wohneinrichtung in der öffentlichen Anhörung „durchaus positiv aufgenommen“.
-7.1. Welche Rolle spielt das Betreiberkonzept im Bebauungsplanverfahren und durch welche Festlegungen soll es abgesichert werden?
-7.2. Ist vorgesehen, das Betreiberkonzept in den städtebaulichen Vertrag aufzunehmen?
 
-#### Antwort zu Frage 7
+### Frage 7.1
+
+Welche Rolle spielt das Betreiberkonzept im Bebauungsplanverfahren und durch welche Festlegungen soll es abgesichert werden?
+
+### Frage 7.2
+
+Ist vorgesehen, das Betreiberkonzept in den städtebaulichen Vertrag aufzunehmen?
+
+#### Antwort zu Fragen 7, 7.1 und 7.2
 
 Die Dementen-Einrichtung ist Gegenstand des Bebauungsplanverfahrens. Zu dieser Einrichtung können unter Beachtung des rechtlichen Rahmens Regelungen durch Festsetzungen nach dem Baugesetzbuch und/oder im Rahmen öffentlich-rechtlicher Verträge in Betracht kommen. Näheres ist dem weiteren Verlauf des Bebauungsplanverfahrens vorbehalten.
 
-7.3. Welche Informationen liegen dem zuständigen Bezirksamt über den Stand des Auswahlverfahrens für den Betreiber dieser Einrichtung vor?
+### Frage 7.3
+
+Welche Informationen liegen dem zuständigen Bezirksamt über den Stand des Auswahlverfahrens für den Betreiber dieser Einrichtung vor?
+
+#### Antwort zu Frage 7.3
 
 Dem zuständigen Bezirksamt liegen die in der öffentlichen Anhörung am 18. September 2017 mitgeteilten und in der bezirklichen Drs. 20-4994 dokumentierten Informationen vor.
 

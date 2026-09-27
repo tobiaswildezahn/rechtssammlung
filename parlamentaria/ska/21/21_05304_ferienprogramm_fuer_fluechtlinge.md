@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53791"
@@ -129,7 +130,7 @@ Haben auch die Kinder von Flüchtlingen aus der Folgeunterbringung die Möglichk
 
 Haben auch die Kinder von Einheimischen die Möglichkeit an diesem Ferienprogramm teilzunehmen? Wenn ja, wie werden die Eltern dieser Kinder in Kenntnis gesetzt? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Das ergänzende Ferienprogramm richtet sich an schulpflichtige Kinder und Jugendliche, die in den EA wohnen und denen der Zugang zu den Regelangeboten des Hamburger Ferienpasses, wie in der Vorbemerkung ausgeführt, erschwert ist. Die Kinder und Jugendlichen, die in den Folgeunterkünften leben, nutzen bereits die Angebote des Regelsystems, sie werden in Klassen an den Regelschulen beschult. Ihnen stehen die Angebote des Hamburger Ferienpasses sowie die jeweiligen sozialräumlichen Angebote offen. Sie können dafür auch ihren Anspruch auf Bildungs- und Teilhabeleistungen einsetzen.
 

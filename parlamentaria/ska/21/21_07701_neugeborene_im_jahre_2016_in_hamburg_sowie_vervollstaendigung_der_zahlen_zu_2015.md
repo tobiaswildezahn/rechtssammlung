@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5193"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56328"
@@ -43,7 +44,7 @@ Wie viele Kinder, deren Mütter ihren Hauptwohnsitz beziehungsweise alleinigen W
 
 Wie viele der Neugeborenen in Hamburg besitzen die deutsche Staatsangehörigkeit? (Bitte für 2015 und 2016 getrennt angeben!)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Von den 19.768 im Jahr 2015 in Hamburg lebend geborenen Kindern, deren Mütter ihren Hauptwohnsitz beziehungsweise alleinigen Wohnsitz in Hamburg hatten, besaßen 17.606 die deutsche Staatsangehörigkeit (Quelle: Statistikamt Nord, Statistik der Geburten, Stand: 31. Dezember 2015).
 

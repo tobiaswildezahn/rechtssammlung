@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55393"
@@ -49,7 +50,7 @@ Aus welchem Grund/aus welchen Gründen wurden die Familien in den SAGA-Wohnungen
 
 Aus welchem Grund kündigte die SAGA die Mietverhältnisse?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 SAGA GWG hat die betreffenden Wohnungen für eine vorübergehende Zwischennutzung im Winter 2015/2016 angeboten. Zu dieser Zeit bestanden besonders hohe Bedarfe zur Unterbringung von Flüchtlingen und die angebotenen Wohnungen waren für einen beschränkten Zeitraum für die öffentlich rechtliche Unterbringung von größeren Familien geeignet. Die betreffenden Wohnungen wurden trotz einer kurzen Befristung für eine Zwischennutzung zum Zweck der Unterbringung von f & w fördern und wohnen – Anstalt öffentlichen Rechts – (f & w) angemietet.
 

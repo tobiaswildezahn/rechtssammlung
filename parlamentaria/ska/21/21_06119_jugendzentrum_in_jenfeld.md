@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1354", "21/1395", "21/5859", "21/5000", "21/6070"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54639"
@@ -71,6 +72,6 @@ Sind dem Senat beziehungsweise der zuständigen Behörde Fälle bekannt, in dene
 
 Wie will der Senat beziehungsweise die zuständige Behörde vor dem Hintergrund der allgemeinen Preissteigerung und der Tatsache, dass der Haushaltsplan-Entwurf von 2017 auf 2018, Drs. 21/5000, keine Mittelverstärkung hierfür vorsieht, das Funktionieren der Offenen Kinder- und Jugendarbeit in 2018 sicherstellen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Es gab und gibt keine Aufnahmestopps. Einige Einrichtungen mussten wegen Baumaßnahmen zeitweise geschlossen werden. Darüber gab es in seltenen Fällen tageweise Schließungen aufgrund von Personalausfällen. Im Übrigen siehe Drs. 21/6070.

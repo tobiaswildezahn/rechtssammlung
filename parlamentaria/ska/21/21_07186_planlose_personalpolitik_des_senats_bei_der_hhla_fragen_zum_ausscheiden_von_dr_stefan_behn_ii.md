@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6111", "21/2280", "21/6818"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55784"
@@ -67,7 +68,7 @@ Zu welchem Zeitpunkt fließt das Ruhegeld Herrn Dr. Behn erstmalig zu?
 
 Erhält Herr Dr. Behn aufgrund seines vorzeitigen Ausscheidens aus dem Unternehmen und seines verfrühten Renteneintritts Abschläge auf sein Ruhegehalt? Wenn ja, in welcher Höhe? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Mit dem Ausscheiden aus der aktiven Tätigkeit hat Herr Dr. Behn Anspruch auf die ihm vertraglich zustehende Versorgung.
 
@@ -124,6 +125,6 @@ Wie ist das Verfahren zur Suche eines neuen Containervorstands genau ausgestalte
 
 Bis wann soll die Entscheidung für die Nachbesetzung der Stelle gefallen sein?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Es handelt sich um ein laufendes Verfahren. Dieses Verfahren ist vertraulich. Hierzu können keine Angaben gemacht werden.

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2783"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51302"
@@ -71,7 +72,7 @@ Inwieweit wurden die in der Antwort zur Anfrage 21/2783 aufgeführten Täter str
 
 Inwieweit konnten diese Vorfälle durch eine Videoüberwachung in den Fahrzeugen aufgeklärt beziehungsweise Täter identifiziert werden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Antworten in der Drs. 21/2783 beziehen sich auf Angaben der Verkehrsunternehmen. Die strafrechtliche Verfolgung der Taten obliegt der Polizei beziehungsweise Bundespolizei. Für die Beantwortung wäre eine Durchsicht aller Hand- und Ermittlungsakten erforderlich. Diese Akten können in der zur Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht ausgewertet werden.
 

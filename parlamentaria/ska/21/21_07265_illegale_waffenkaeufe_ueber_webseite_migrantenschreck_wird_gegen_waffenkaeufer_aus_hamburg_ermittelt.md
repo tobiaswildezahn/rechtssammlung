@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 11
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55862"
@@ -51,7 +52,7 @@ Wird oder wurde gegen Hamburger Kunden/-innen von „Migrantenschreck“ im Zusa
 
 Sind unter den ermittelten Käufern/-innen Personen, die der rechten oder rechtsextremistischen Szene und/oder den Reichsbürgern/-innen zugerechnet werden? Wenn ja, wie viele?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der zuständigen Behörde sind keine Verfahren mit Bezügen zum genannten Onlineshop „Migrantenschreck“ bekannt. In der Staatsschutzdienststelle des LKA sind Verfahren, die im Zusammenhang mit dem Onlineshop stehen, für das Jahr 2016 bisher nicht registriert. Delikte im Sinne der Fragestellung könnten, zum Beispiel bei Fehlen der politischen Motivation, jedoch auch in anderen Abteilungen des LKA bearbeitet werden. Die entsprechend erforderliche Durchsicht sämtlicher Hand- und Ermittlungsakten der für die einschlägigen Delikte zuständigen unterschiedlichen Dienststellen
 

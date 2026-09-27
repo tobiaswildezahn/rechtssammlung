@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12795"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62354"
@@ -119,11 +120,11 @@ Mit Stand November 2017 belief sich die Gesamtnutzungsfläche auf circa 418.000 
 
 Arbeitspakete:
 
- Implementierung der neuen organisatorischen Strukturen und Standardprozes-
+– Implementierung der neuen organisatorischen Strukturen und Standardprozes-
 
 se steuern:
 
- Sicherstellung der überbezirklichen Standardisierung bei der Einfüh-
+– Sicherstellung der überbezirklichen Standardisierung bei der Einfüh-
 
 rung der neuen Organisationsstruktur eines zentralen FM-Dienstleister
 
@@ -131,81 +132,81 @@ inkl. der Service-Level-Vereinbarungen (SLA) mit den Fachämtern (Be-
 
 darfsträger)
 
- Sicherstellung der Einführung der Standardprozesse wie „Budgetpla-
+– Sicherstellung der Einführung der Standardprozesse wie „Budgetpla-
 
 nung und –Controlling der Gebäudenutzungskosten“, „Geplante In-
 
 standhaltung“ etc.
 
- Sicherstellung der Einführung des Controllingkonzeptes
+– Sicherstellung der Einführung des Controllingkonzeptes
 
- Sicherstellung der begleitenden Evaluation und ggf. Anpassung des
+– Sicherstellung der begleitenden Evaluation und ggf. Anpassung des
 
 Konzeptes
 
- Zusammenarbeit mit der Behörde für Stadtentwicklung und Wohnungsbau
+– Zusammenarbeit mit der Behörde für Stadtentwicklung und Wohnungsbau
 
 steuern:
 
- Erarbeitung und Abstimmung von Rahmenvereinbarungen zu Projekt-
+– Erarbeitung und Abstimmung von Rahmenvereinbarungen zu Projekt-
 
 steuerung und Beratung in den Bereichen Instandhaltung, Hochbaupro-
 
 jekte, Zuwendungsprüfungen etc.
 
- Ggf. Anpassung der Standardprozesse wie „Geplante Instandhaltung“,
+– Ggf. Anpassung der Standardprozesse wie „Geplante Instandhaltung“,
 
 „Bauprojekte in der Bezirksverwaltung“, „Bauprojekt Mieterumbau“ etc.
 
- Ggf. Durchführung weiterer notwendiger Bedarfserhebungen
+– Ggf. Durchführung weiterer notwendiger Bedarfserhebungen
 
- Portfoliobereinigung organisieren
+– Portfoliobereinigung organisieren
 
- Durchführung der einzelbezirklichen Bewertung des Gebäudeportfolios
+– Durchführung der einzelbezirklichen Bewertung des Gebäudeportfolios
 
 gemäß den Kriterien zur Portfoliobereinigung
 
- Verhandlungen mit Fachbehörden, dem LIG etc. zur Rückgabe von Ge-
+– Verhandlungen mit Fachbehörden, dem LIG etc. zur Rückgabe von Ge-
 
 bäuden führen, die nicht zum Verwaltungsvermögen (VV) der Bezirke ge-
 
 hören bzw. nicht mehr benötigt werden
 
- Übergang von Gebäude aus dem VV der Bezirksverwaltung an die Sprinkenhof
+– Übergang von Gebäude aus dem VV der Bezirksverwaltung an die Sprinkenhof
 
 GmbH für ein Mieter-Vermieter-Modell (Drucksachenentwurf Optima) steuern
 
- Auswahl der Gebäude, die an die Sprinkenhof GmbH veräußert oder zur
+– Auswahl der Gebäude, die an die Sprinkenhof GmbH veräußert oder zur
 
 Verwaltung übergeben werden sollen
 
- Verhandlungen mit der Sprinkenhof GmbH (Kaufsumme, Mietverträge,
+– Verhandlungen mit der Sprinkenhof GmbH (Kaufsumme, Mietverträge,
 
 SLA für Bau- und Facility Management-Leistungen, Miethöhen etc.)
 
- Technische Bestandsaufnahme der Gebäude im VV der Bezirksverwaltung
+– Technische Bestandsaufnahme der Gebäude im VV der Bezirksverwaltung
 
 organisieren
 
- Überprüfung der bisherigen Auswahl der Gebäude die einer Bestandsauf-
+– Überprüfung der bisherigen Auswahl der Gebäude die einer Bestandsauf-
 
 nahme unterzogen werden sollen
 
- Beauftragung der BSW für die Projektsteuerung der Bestandsaufnahme
+– Beauftragung der BSW für die Projektsteuerung der Bestandsaufnahme
 
- Datenaufnahme (Grundrisse etc.) in den Bezirken
+– Datenaufnahme (Grundrisse etc.) in den Bezirken
 
- Einführung der CAFM-Software Speedikon C
+– Einführung der CAFM-Software Speedikon C
 
- Einwerben der Projektmittel
+– Einwerben der Projektmittel
 
- Definition der Anforderungen an die Software (Module, Konfiguration,
+– Definition der Anforderungen an die Software (Module, Konfiguration,
 
 Schnittstellen)
 
- Entwicklung von Standardprozessen in CAFM-System
+– Entwicklung von Standardprozessen in CAFM-System
 
- Verhandlungen mit dem CAFM-Projekt der Sprinkenhof GmbH (Wer
+– Verhandlungen mit dem CAFM-Projekt der Sprinkenhof GmbH (Wer
 
 macht was, Projektstruktur in den Bezirken und bei der Sprinkenhof
 
@@ -213,6 +214,6 @@ GmbH, Projektkosten, laufende Kosten, fachliche und technische Sys-
 
 tembetreuung im laufenden Betrieb, Termine etc.)
 
- Datenbeschaffung und –bearbeitung in den Bezirken
+– Datenbeschaffung und –bearbeitung in den Bezirken
 
- Sicherstellung der überbezirklichen Standardisierung der neuen Prozesse
+– Sicherstellung der überbezirklichen Standardisierung der neuen Prozesse

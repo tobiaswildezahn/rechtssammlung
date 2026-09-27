@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 4
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13100"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62615"
@@ -45,6 +46,6 @@ In welchem Umfang wurden seit Jahresbeginn zu den Stichtagen
 
 Wie hoch sind folglich die dem Senat inklusive Ermächtigungsüberträgen aus Vorjahren derzeit noch zur Verfügung stehenden Aufnahmeermächtigungen für Deckungskredite? (Bitte jeweils nach Kernhaushalt und oben genannte Sondervermögen differenziert darstellen.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.

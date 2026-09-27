@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 21
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6860"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57641"
@@ -79,7 +80,7 @@ Ist bisher vonseiten der zuständigen Behörde mit Einzelhändlern und Kaufleute
 
 Wurde bisher vonseiten der zuständigen Behörde mit dem Handelsverband Nord, dem City Management, der Handelskammer oder weiteren Vertretern des Einzelhandels über mögliche Beeinträchtigungen gesprochen? Wenn ja mit welchem Inhalt? Wenn nicht, warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung; die Gesprächsinhalte werden auf den jeweiligen Gesprächspartner und dessen Bedürfnisse abgestimmt.
 
@@ -125,7 +126,7 @@ Sollte es auch in der Innenstadt zu Großdemonstrationen kommen, müssen die Au�
 
 Hat der Senat Regelungen getroffen, die einen Ausgleich von Umsatzeinbußen im Einzelhandel an den zwei umsatzstärksten Tagen der Woche (Freitag und Samstag) betreffen? Wenn ja, wie sieht diese Regelung aus?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Nein; im Übrigen siehe Drs. 21/6860.
 
@@ -161,7 +162,7 @@ Wie gewährleisten Hotels ihren Gästen Sicherheit, insbesondere vor gewaltberei
 
 Welche vorbeugenden Maßnahmen ergreift die zuständige Behörde im Hinblick auf Farbanschläge gegen Hotels?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Die Polizei trifft im Sinne der Fragestellung im Rahmen ihrer Zuständigkeit alle erforderlichen Maßnahmen zur Abwehr von Gefahren für die öffentliche Sicherheit und Ordnung und zur Verfolgung von Straftaten; darüber hinaus liegen der zuständigen Behörde Erkenntnisse im Sinne der Fragestellung nicht vor.
 

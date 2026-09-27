@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 23
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1974", "21/2366", "21/2206", "21/2629", "21/3671"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54921"
@@ -207,7 +208,7 @@ f) wer führt die Variantenuntersuchung zu welchen geplanten Kosten durch?
 g) inwiefern werden, wie in Drs. 21/3671 ebenfalls angekündigt, die Belange der Fußgänger, Sportler und Anwohner hierbei berücksichtigt?
 h) Inwiefern werden auch die Belange von Kfz- und Krad-Nutzern berücksichtigt?
 
-#### Antwort zu Fragen 11, 14
+#### Antwort zu Fragen 11 und 14
 
 Die Variantenuntersuchung ist abgeschlossen und zu einer Vorzugsvariante entwickelt (siehe http://www.hamburg.de/alster-fahrradachsen/6534754/alster-fahrradachsenabschnitt1/). Eine Variantenuntersuchung ist Teil des üblichen Planungsprozesses und regelhaft in den Planungskosten enthalten. Der Kostenanteil der Variantenuntersuchung lässt sich nicht gesondert von den übrigen Planungskosten ausweisen. Vor der sogenannten 1. Verschickung wurde im Rahmen einer Informationsveranstaltung am
 19. Juli 2016 mit interessierten Bürgerinnen und Bürgern diskutiert und die Anregungen wurden in die Abwägung der Varianten für die Verschickung miteinbezogen. Außerdem wurden Gespräche mit den Anliegern geführt. Der Umbau der Straße Alsterufer kommt durch die Instandsetzung der Straße allen Verkehrsteilnehmern zugute.

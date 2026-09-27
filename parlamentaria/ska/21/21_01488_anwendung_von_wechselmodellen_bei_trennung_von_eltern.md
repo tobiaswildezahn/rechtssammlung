@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 15
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13239"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49689"
@@ -39,23 +40,23 @@ Gegenwärtig besteht Nachholbedarf bei der Überwindung ideologischer Familienbi
 
 ## Einleitung für die Antworten des Senats
 
- bei der Herausbildung lösungs- und ressourcenorientierter Fachstandards
+– bei der Herausbildung lösungs- und ressourcenorientierter Fachstandards
 
 im gesamten Handlungsfeld,
 
- bei der konsequenten Umsetzung elterlicher Gleichstellung in der Bera-
+– bei der konsequenten Umsetzung elterlicher Gleichstellung in der Bera-
 
 tungs-, Familienrechts- und Verwaltungspraxis,
 
- bei der Anpassung des bestehenden Unterhaltsrechts an Formen anteiliger
+– bei der Anpassung des bestehenden Unterhaltsrechts an Formen anteiliger
 
 Betreuung,
 
- beim Ausbau von Strukturen der Zusammenarbeit und Qualitätsentwick-
+– beim Ausbau von Strukturen der Zusammenarbeit und Qualitätsentwick-
 
 lung zwischen den verfahrensbeteiligten Fachprofessionen im Sinne der Hamburger Praxis und
 
- beim Ausbau präventiver Unterstützungsangebote der Jugendhilfe zur
+– beim Ausbau präventiver Unterstützungsangebote der Jugendhilfe zur
 
 Bewältigung von Trennung und Scheidung als kritischem Lebensereignis im familiären Entwicklungsverlauf.
 
@@ -83,13 +84,13 @@ Welche Weiterbildungsangebote existieren im Rahmen der oben genannten Schwerpunk
 
 Ziel der Fortbildung in diesem Themenbereich ist unter anderem, sozialpädagogische Fachkräfte über die rechtlichen und fachlichen Entwicklungen zu informieren, lösungsund ressourcenorientierte Methoden der Beratung und Aufarbeitung der Trennungskonflikte kennenzulernen und anzuwenden und die Aspekte des Kindeswohls zu berücksichtigen. Vor diesem Hintergrund wurden in den Jahren 2014 und 2015 im Fortbildungsprogramm für Sozialpädagogische Fach- und Führungskräfte des Sozialpädagogischen Fortbildungszentrum (SPFZ) der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) unter anderem folgende Fortbildungsveranstaltungen offen ausgeschrieben:
 
-• Mediation – Konfliktbearbeitung in Alltag und Beruf,
+– Mediation – Konfliktbearbeitung in Alltag und Beruf,
 
-• Familienstrukturen in interkulturellen Vergleich,
+– Familienstrukturen in interkulturellen Vergleich,
 
-• Die Mitwirkung des Jugendamtes im familiengerichtlichen Verfahren,
+– Die Mitwirkung des Jugendamtes im familiengerichtlichen Verfahren,
 
-• Hochstrittige Elternkonflikte als Herausforderung für die Beratungsarbeit.
+– Hochstrittige Elternkonflikte als Herausforderung für die Beratungsarbeit.
 
 Darüber hinaus bietet das SPFZ der BASFI keine Fortbildungen mit dem alleinigen Ziel an, die teilnehmenden sozialpädagogischen Fachkräfte über die Möglichkeit der paritätischen Doppelresidenz zu informieren.
 
@@ -101,7 +102,7 @@ Wird im Rahmen der familienrechtlichen „Hamburger Praxis“ kontinuierlich an 
 
 Werden die Ergebnisse solcher Aktivitäten gemessen und bestehen Aufzeichnungen und Dokumentationen über erzielte Fortschritte?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Arbeitskreis „Hamburger Praxis“ arbeitet auch weiterhin kontinuierlich an einer Verbesserung der Zusammenarbeit der am familiengerichtlichen Verfahren beteiligten Professionen. Aufzeichnungen oder Dokumentationen über erzielte Ergebnisse werden nicht erstellt; es findet jedoch ein regelmäßiger Austausch im Arbeitskreis und darüber hinaus auch innerhalb der Professionen statt.
 
@@ -119,7 +120,7 @@ Wer übt Einfluss auf die Curricula dieser Fortbildungen aus?
 
 Werden die eingangs formulierten Feststellungen aktiv als Gegenstände dieser Curricula berücksichtigt oder gefördert?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Fortbildungen haben zumeist den Charakter eines Angebotes an die einzelnen Fachkräfte oder ihre Anstellungsträger. Fachkräfte streben aus eigener Initiative die Teilnahme an und bitten ihren Anstellungsträger um die Zustimmung und die Finanzierung entstehender Kosten. Im Zusammenhang mit internen Personal- oder Qualitätsentwicklungsmaßnahmen motiviert der Anstellungsträger die Fachkräfte zur Teilnahme.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15571", "21/16076"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67129"
@@ -47,7 +48,7 @@ Wie oft wurden seit 2011 Förderungsprogramme, die den Sparten „Wohnraum“ un
 
 Wie oft wurden seit 2011 Förderungsprogramme, die den Sparten „Wohnraum“ und „Umwelt & Energie“ zuzurechnen sind, bewilligt? Bitte wie gegliedert nach Jahr, Förderprogramm, Anzahl der Bewilligungen angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Geschäftsfeld Wohnungsbau der IFB wird nur die Anzahl der bewilligten Anträge statistisch erfasst, nicht die der gestellten.
 
@@ -184,6 +185,6 @@ Plant der Senat die Einführung neuer IFB-Wohnraumförderungsprogramme? Wenn ja,
 
 Plant er die Änderung oder Streichung bestehender IFB-Wohnraumförderungsprogramme?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Zur aktuellen Planung der Wohnraumförderprogramme des Senats 2019 und 2020 siehe Drs. 21/16076.

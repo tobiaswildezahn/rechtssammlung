@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/276", "20/13695", "20/14237"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48497"
@@ -85,35 +86,35 @@ Die Revisionsgruppe gehört organisatorisch zum Sicherheitsreferat der Abteilung
 
 Zu den Aufgaben, die im Wechselschichtdienst durchgeführt werden und die sich seit dem Jahr 2010 nicht verändert haben, gehören regelmäßig:
 
- Unterstützung der örtlichen Vollzugsorgane in jeder Hinsicht, gegebenenfalls unter
+– Unterstützung der örtlichen Vollzugsorgane in jeder Hinsicht, gegebenenfalls unter
 
 Einsatz eines Diensthundes (Rauschgiftspürhund),
 
- anstaltsübergreifende außerordentliche Revisionen von Hafträumen und weiteren
+– anstaltsübergreifende außerordentliche Revisionen von Hafträumen und weiteren
 
 Anstaltsbereichen, auch außerhalb des umfriedeten Anstaltsgeländes insbesondere unter Einbeziehung eines Diensthundes,
 
- außerordentliche Durchsuchungen von Gefangenen,
+– außerordentliche Durchsuchungen von Gefangenen,
 
- speziell angeordnete Einzeltransporte, Aus- und Vorführungen und Bewachungen
+– speziell angeordnete Einzeltransporte, Aus- und Vorführungen und Bewachungen
 
 von besonders gefährlichen beziehungsweise gefährdeten Gefangenen, gegebenenfalls auch länderübergreifend,
 
- Übernahme der Einsatzleitung im Tages- und Nachtdienst,
+– Übernahme der Einsatzleitung im Tages- und Nachtdienst,
 
- Unterstützung aller Anstalten in besonderen Einsatzlagen,
+– Unterstützung aller Anstalten in besonderen Einsatzlagen,
 
- Dauerhaftes Führen und Halten eines Diensthundes,
+– Dauerhaftes Führen und Halten eines Diensthundes,
 
- Entwicklung von Standards im Bereich der Sicherheitstechnik,
+– Entwicklung von Standards im Bereich der Sicherheitstechnik,
 
- Begleitung von Baumaßnahmen unter Sicherheitsaspekten,
+– Begleitung von Baumaßnahmen unter Sicherheitsaspekten,
 
- Fertigung von Stellungnahmen,
+– Fertigung von Stellungnahmen,
 
- Zusammenarbeit mit anderen Behörden und
+– Zusammenarbeit mit anderen Behörden und
 
- Beteiligung an übergeordneten Geschäftsprozessen wie zum Beispiel die Mitarbeit
+– Beteiligung an übergeordneten Geschäftsprozessen wie zum Beispiel die Mitarbeit
 
 der Revisionsgruppe in der Expertenkommission Sicherheit.
 
@@ -141,15 +142,15 @@ In der JVA Fuhlsbüttel wurden im Jahr 2014 insgesamt 1.148 unerlaubte Tabletten
 
 Die im Jahr 2014 in der JVA Fuhlsbüttel durch die Revisionsgruppe der Abteilung Justizvollzug sichergestellten 1.148 Tabletten teilen sich wie folgt auf:
 
- Tabletten im Haftraum eines Gefangenen, der kurz vor der Abschiebung stand. Bei
+– Tabletten im Haftraum eines Gefangenen, der kurz vor der Abschiebung stand. Bei
 
 den Tabletten handelte es sich um ein Psychopharmakon. Der Gefangene hatte einen Vorrat zur medizinisch indizierten ununterbrochenen Fortsetzung der Behandlung – auch nach einer erfolgten Abschiebung – erhalten. Nach Aufklärung des Sachverhalts wurde der erforderliche Vorrat dem Gefangenen zum Transport ausgehändigt.
 
- 113 Tabletten in der Pantry-Küche (ein Fund). Bei den Tabletten handelte es sich
+– 113 Tabletten in der Pantry-Küche (ein Fund). Bei den Tabletten handelte es sich
 
 um Anabolika.
 
- 35 Tabletten, aufgeteilt auf sieben Funde. Es handelte sich um nicht zugelassene
+– 35 Tabletten, aufgeteilt auf sieben Funde. Es handelte sich um nicht zugelassene
 
 Tabletten. Hierunter fallen zum Beispiel Tabletten, die den Gefangenen nicht oder nicht in der aufgefundenen Anzahl verordnet wurden oder um Tabletten, die nicht zuzuordnen sind.
 

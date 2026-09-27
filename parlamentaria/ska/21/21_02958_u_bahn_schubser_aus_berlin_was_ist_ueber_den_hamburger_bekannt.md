@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51284"
@@ -81,57 +82,57 @@ Die Ergebnisse der jeweiligen ärztlichen Untersuchungen und etwaige daraufhin g
 
 Der Betroffene wurde in der Vergangenheit mehrfach nach § 1906 BGB untergebracht:
 
- Mit Beschluss vom 29. Juni 2007 genehmigte das Amtsgericht Elmshorn – Betreu-
+– Mit Beschluss vom 29. Juni 2007 genehmigte das Amtsgericht Elmshorn – Betreu-
 
 ungsgericht – eine Unterbringung bis zum 28. August 2007 nach § 1906 Absatz 1 Nummer 2 BGB.
 
- Mit Beschluss vom 31. August 2007 genehmigte das Amtsgericht Elmshorn –
+– Mit Beschluss vom 31. August 2007 genehmigte das Amtsgericht Elmshorn –
 
 Betreuungsgericht – eine Unterbringung bis zum 6. September 2007 nach § 1906 Absatz 1 Nummer 2 BGB.
 
- Mit Beschluss vom 10. Dezember 2008 genehmigte das Amtsgericht Hamburg –
+– Mit Beschluss vom 10. Dezember 2008 genehmigte das Amtsgericht Hamburg –
 
 Betreuungsgericht – eine Unterbringung nach § 1906 Absatz 1 BGB, die jeweils
 
 durch Beschlüsse vom 6. Januar, vom 17. Februar, vom 12. März, vom 9. April und vom 5. November 2009 verlängert wurde, sodass sie bis Mai 2010 andauerte.
 
- Mit Beschluss vom 16. November 2012 genehmigte das Amtsgericht Hamburg –
+– Mit Beschluss vom 16. November 2012 genehmigte das Amtsgericht Hamburg –
 
 Betreuungsgericht – eine Unterbringung nach § 1906 BGB bis zum 17. Dezember 2012.
 
- Mit Beschluss vom 17. Dezember 2012 genehmigte das Amtsgericht Hamburg –
+– Mit Beschluss vom 17. Dezember 2012 genehmigte das Amtsgericht Hamburg –
 
 Betreuungsgericht – eine Unterbringung nach § 1906 BGB bis zum 15. Januar 2013.
 
- Mit Beschluss vom 10. Januar 2013 genehmigte das Amtsgericht Hamburg –
+– Mit Beschluss vom 10. Januar 2013 genehmigte das Amtsgericht Hamburg –
 
 Betreuungsgericht – eine Unterbringung nach § 1906 BGB bis zum 15. Februar 2013.
 
- Mit Beschluss vom 24. April 2013 genehmigte das Amtsgericht Hamburg – Betreu-
+– Mit Beschluss vom 24. April 2013 genehmigte das Amtsgericht Hamburg – Betreu-
 
 ungsgericht – eine Unterbringung nach § 1906 BGB bis zum 5. Juni 2013.
 
- Mit Beschluss vom 3. Juni 2013 genehmigte das Amtsgericht Hamburg – Betreu-
+– Mit Beschluss vom 3. Juni 2013 genehmigte das Amtsgericht Hamburg – Betreu-
 
 ungsgericht – eine Unterbringung nach § 1906 BGB bis zum 2. November 2013.
 
- Mit Beschluss vom 29. November 2013 genehmigte das Amtsgericht Hamburg –
+– Mit Beschluss vom 29. November 2013 genehmigte das Amtsgericht Hamburg –
 
 Betreuungsgericht – eine Unterbringung nach § 1906 BGB bis zum 20. Dezember 2013.
 
- Mit Beschluss vom 11. Dezember 2013 genehmigte das Amtsgericht Hamburg –
+– Mit Beschluss vom 11. Dezember 2013 genehmigte das Amtsgericht Hamburg –
 
 Betreuungsgericht – eine Unterbringung nach § 1906 BGB bis zum 10. Dezember 2014.
 
- Mit Beschluss vom 10. Dezember 2014 genehmigte das Amtsgericht Hamburg –
+– Mit Beschluss vom 10. Dezember 2014 genehmigte das Amtsgericht Hamburg –
 
 Betreuungsgericht – eine Unterbringung nach § 1906 BGB bis zum 12. Dezember 2015. Diese Unterbringung endete im März 2015 nach Antrag des Betreuers auf vorzeitige Aufhebung des Beschlusses vom 10. Dezember 2014.
 
- Mit Beschluss vom 12. Mai 2015 genehmigte das Amtsgericht Hamburg – Betreu-
+– Mit Beschluss vom 12. Mai 2015 genehmigte das Amtsgericht Hamburg – Betreu-
 
 ungsgericht – eine Unterbringung im Wege der einstweiligen Anordnung nach § 1906 BGB vorläufig längstens bis zum 26. Mai 2015.
 
- Mit Beschluss vom 24. November 2015 genehmigte das Amtsgericht Hamburg –
+– Mit Beschluss vom 24. November 2015 genehmigte das Amtsgericht Hamburg –
 
 Betreuungsgericht – aufgrund des Antrags des Betreuers eine Unterbringung im Wege der einstweiligen Anordnung vorläufig bis längstens zum 15. Dezember 2015 nach § 1906 Absatz 1 Nummer 2 BGB. Eine weitere Unterbringung des Betroffenen durch den Betreuer (also ein weiterer Antrag des Betreuers auf Genehmigung der Unterbringung nach § 1906 BGB beim Betreuungsgericht, der Voraussetzung für eine weitere Unterbringung gewesen wäre) erfolgte nicht.
 
@@ -147,7 +148,7 @@ Wie viele und Ermittlungs- und Strafverfahren wurden jeweils wann wegen jeweils 
 a) Welche strafrechtlichen Konsequenzen hatten etwaig begangene Delikte bisher? Bitte unter Angabe der verwirklichten Straftatbestände, der Art der Erledigung des Strafverfahrens einschließlich der ausgeurteilten Strafhöhe darstellen.
 b) In welchen Zeiträumen war er jeweils in welcher Hamburger JVA inhaftiert?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Gegen den Betroffenen sind – unabhängig vom Tatgeschehen vom 19. Januar 2016 – derzeit vier Ermittlungsverfahren wegen Diebstahlsdelikten (§ 242 beziehungsweise §§ 242, 243 StGB) am 29. Dezember 2015 anhängig. Die Verfahren werden noch von der Polizei bearbeitet, die die Staatsanwaltschaft im gegenwärtigen Stadium noch nicht befasst hat.
 
@@ -161,7 +162,7 @@ Welche sonstigen Behörden waren inwiefern in den vergangenen 15 Jahren mit dem 
 
 Was haben sie infolge welchen Verhaltens des mutmaßlichen Täters jeweils wann veranlasst?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Ausländerrechtlich wurde der Betroffene vom Einwohner-Zentralamt betreut. Nachdem eine im Jahr 1997 erteilte Aufenthaltserlaubnis erloschen war, erging am 29. September 2004 eine Ausweisungsverfügung, die durch Urteil des Verwaltungsgerichts Hamburg vom 21. September 2007 aufgehoben wurde. Seit dem 6. Januar 2005 wurden in circa halbjährlichem Abstand ausländerrechtliche Duldungen erteilt. Vom 31. Mai 2010 bis 29. November 2011 wurden Aufenthaltserlaubnisse nach § 25 Absatz 5 AufenthG mit jeweils sechsmonatiger Gültigkeitsdauer erteilt, in der Folge Fiktionsbescheinigungen nach § 81 Absatz 4 AufenthG sowie zuletzt am 15. Mai 2014 erneut eine Aufenthaltserlaubnis nach § 25 Absatz 5 AufenthG mit Gültigkeit bis zum
 14. November 2015. Der Erlass einer erneuten Ausweisungsverfügung war aufgrund der rechtlichen Situation nicht möglich. Die Verlängerung der Aufenthaltserlaubnis nach dem 14. November 2015 konnte nicht erfolgen, da der Betroffene nicht vorsprechen konnte und nicht alle erforderlichen Unterlagen vorlagen.

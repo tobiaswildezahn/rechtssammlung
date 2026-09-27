@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 28
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8434", "21/3227", "21/3646", "21/3915", "21/4734", "21/5124", "21/5453", "21/6222", "21/6544", "21/7420", "21/8557", "21/6260", "21/7163", "21/5126", "21/7990", "21/8549", "21/8162"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57598"
@@ -83,7 +84,7 @@ b) Regelklassen,
 c) AvM-Dual,  
 d) Integrationskurse,
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Mit Stand 20.04.2017 befinden sich derzeit insgesamt
 
@@ -143,7 +144,7 @@ Wie viele UMA haben inzwischen einen vom Familiengericht bestellten Amtsvormund,
 
 Wie lange beträgt derzeit die Wartezeit auf einen Vormund? Kann inzwischen jeder UMA zeitnah einen Amtsvormund erhalten?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 502 UMA hatten am Stichtag 15.04.2017 einen Amtsvormund in der zuständigen Behörde. Wartezeiten und kommissarische Übernahmen einer Vormundschaft gibt es nicht mehr.
 

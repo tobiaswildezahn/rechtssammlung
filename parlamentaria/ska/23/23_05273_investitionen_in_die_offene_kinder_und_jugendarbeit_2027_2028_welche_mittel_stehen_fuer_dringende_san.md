@@ -8,12 +8,13 @@ datum_anfrage: "2026-09-08"
 datum_drucksache: "2026-09-15"
 urheber: ["Silke Seif"]
 fraktionen: ["CDU"]
-vorgang: null
+vorgang: 89155
 seiten: 5
 fragen: 14
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["23/5060"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105177"

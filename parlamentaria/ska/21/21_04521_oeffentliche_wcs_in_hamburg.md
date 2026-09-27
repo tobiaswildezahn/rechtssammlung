@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10335", "20/14104", "21/2659"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52936"
@@ -67,7 +68,7 @@ Welche Einnahmen werden nach den Erkenntnissen des Senats mit den WC-Gebühren j
 
 Sind die Einnahmen kostendeckend? Ist es das Ziel des Senats, dass die WC-Anlagen kostendeckend betrieben werden? Welche Ergebnisse werden derzeit erzielt und welche angestrebt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Vor dem Hintergrund der unterschiedlichen Trägerschaften gibt es keine einheitliche Einnahmeübersicht. Bei den personalbesetzten Toiletten insbesondere im Bezirk Hamburg-Mitte werden jährlich rund 400.000 Euro erlöst. Diese Einnahmen dämpfen den Mittelbedarf für den Betrieb der Anlagen. Bei den Automatiktoiletten der Firma JCDecaux wurden im Mittel der letzten Jahre rund 57.000 Euro eingenommen, die dem Betreiber zustehen. Einnahmen bei den verpachteten Anlagen darf der Pächter einbehalten und mit seinen Betriebsausgaben verrechnen. Die Hochbahn nimmt 50 Cent pro Nutzung und verrechnet die Einnahmen ebenfalls mit den Betriebsausgaben.
 

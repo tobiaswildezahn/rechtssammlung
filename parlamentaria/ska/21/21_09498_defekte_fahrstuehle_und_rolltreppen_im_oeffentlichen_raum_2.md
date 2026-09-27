@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5342"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58267"
@@ -91,19 +92,19 @@ Welches waren seit 2015 die zehn Rolltreppen im öffentlichen Raum in Hamburg mi
 
 Eine detaillierte Statistik der hier geforderten Daten wird nicht geführt. Seit Anfang des Jahres 2016 werden folgende Stillstände von mehr als vier Wochen erfasst:
 
- Die Fahrtreppe Oberaltenallee war durch einen massiven Lagerschaden seit dem
+– Die Fahrtreppe Oberaltenallee war durch einen massiven Lagerschaden seit dem
 
 15. Juli 2016 außer Betrieb, eine neue Fahrtreppe wurde am 15. März 2017 in Betrieb genommen. Die Ausfallzeit betrug im Jahr 2016 169 Tage, im Jahr 2017 73 Tage.
 
- Die Fahrtreppe Kirchenallee Ost wurde nach einem Personenschaden vom 25. Juli
+– Die Fahrtreppe Kirchenallee Ost wurde nach einem Personenschaden vom 25. Juli
 
 2016 bis 21. April 2017 außer Betrieb genommen. Die Ausfallzeit betrug im Jahr 2016 189 Tage, im Jahr 2017 bisher 110 Tage. Die Fahrtreppe Knoopstraße war in der Zeit vom 22. Juni 2016 bis zum 12. August 2016 wegen eines Lagerschadens an der Antriebswelle im Jahr 2016 für 51 Tage außer Betrieb.
 
- Die Fahrtreppe Rathausmarkt war in der Zeit vom 23. Januar 2017 bis zum 3. März
+– Die Fahrtreppe Rathausmarkt war in der Zeit vom 23. Januar 2017 bis zum 3. März
 
 2017 durch einen Stufenkettendefekt außer Betrieb. Die Ausfallzeit betrug im Jahr 2017 39 Tage.
 
- Die Fahrtreppe Kleiner Burstah ist seit dem 17. März 2017 außer Betrieb. Die
+– Die Fahrtreppe Kleiner Burstah ist seit dem 17. März 2017 außer Betrieb. Die
 
 Reparatur von Handlaufantriebskette, Spannwagen sowie der Stufenkette ist für den 3. August 2017 vorgesehen.
 
@@ -121,21 +122,21 @@ Wie hoch waren seit Juni 2015 jeweils die Anteile der einzelnen Gründe, aus den
 
 Statistiken über Gründe von Stillständen werden nicht geführt. Es sind folgende Zeitansätze zugrunde zu legen:
 
- Wartungsarbeiten: circa zwei Stunden pro Monat.
+– Wartungsarbeiten: circa zwei Stunden pro Monat.
 
- TÜV-Prüfung: circa zwei Stunden pro Jahr.
+– TÜV-Prüfung: circa zwei Stunden pro Jahr.
 
- Grundüberholung: Wurde in dem abgefragten Zeitraum nicht durchgeführt.
+– Grundüberholung: Wurde in dem abgefragten Zeitraum nicht durchgeführt.
 
 Eine planmäßige Erneuerung fand im Jahr 2017 an der Fahrtreppe Oberaltenallee statt.
 
 Im Hochbahnbereich stellen sich die Gründe und Anteile für Nicht-Verfügbarkeiten der Fahrtreppen wie folgt dar:
 
- Erneuerung und Grundüberholung: Anteil rund 31 Prozent
+– Erneuerung und Grundüberholung: Anteil rund 31 Prozent
 
- Wartung inklusive TÜV-Prüfungen: Anteil rund 22 Prozent
+– Wartung inklusive TÜV-Prüfungen: Anteil rund 22 Prozent
 
- Störungen, Vandalismus, sonstige Gründe: Anteil rund 47 Prozent
+– Störungen, Vandalismus, sonstige Gründe: Anteil rund 47 Prozent
 
 Im Bereich der DB AG zeigt sich für den Betrachtungszeitraum Januar bis Mai 2017, dass für 53 Prozent der Stillstände Vandalismus sowie für 40 Prozent Materialermüdung/Verschleiß Grund der Ursache ist. Im aktuellen Austausch-Programm befinden sich für Hamburg zehn Fahrtreppenanlagen.
 
@@ -147,23 +148,23 @@ Welche Fahrstühle im öffentlichen Raum in Hamburg sind aktuell, seit wann und 
 
 Mit Stand 20. Juni 2017 stehen alle vom LSBG betreuten Aufzugsanlagen zur Verfügung. Im Bereich der HOCHBAHN sind von den insgesamt 93 Aufzügen derzeit zwei, im Bereich der DB AG insgesamt vier Aufzüge nicht verfügbar:
 
- U-Bahn-Haltestelle Hauptbahnhof Süd: Aufzug 571, Grund: Vandalismus (Tür),
+– U-Bahn-Haltestelle Hauptbahnhof Süd: Aufzug 571, Grund: Vandalismus (Tür),
 
 Ausfallzeitpunkt unbekannt
 
- U-Bahn-Haltestelle Billstedt: Aufzug 575, Grund: Modernisierung Antrieb, Ausfall-
+– U-Bahn-Haltestelle Billstedt: Aufzug 575, Grund: Modernisierung Antrieb, Ausfall-
 
 zeitpunkt unbekannt
 
- S-Bahn-Haltestelle Wandsbeker Chaussee: Defekt (seit März 2017) aufgrund
+– S-Bahn-Haltestelle Wandsbeker Chaussee: Defekt (seit März 2017) aufgrund
 
 defekter Steuerplatine und Lieferschwierigkeit des Herstellers
 
- S-Bahn-Haltestellen Alte Wöhr (seit Ende 2016) und Barmbek (seit April 2016):
+– S-Bahn-Haltestellen Alte Wöhr (seit Ende 2016) und Barmbek (seit April 2016):
 
 Stillstand aufgrund von Umbauarbeiten der Verkehrsstationen,
 
- Regionalbahnhof Hamburg-Tonndorf: Ausfall aufgrund defekter Notrufleitung, Aus-
+– Regionalbahnhof Hamburg-Tonndorf: Ausfall aufgrund defekter Notrufleitung, Aus-
 
 fallzeitpunkt unbekannt
 
@@ -217,19 +218,19 @@ Statistiken über Stillstände aus technischen Gründen beziehungsweise Vandalis
 
 Es sind folgende Zeitansätze zugrunde zu legen:
 
- Wartungsarbeiten: circa eine Stunde pro Monat.
+– Wartungsarbeiten: circa eine Stunde pro Monat.
 
- TÜV-Prüfung: circa zwei Stunden pro Jahr.
+– TÜV-Prüfung: circa zwei Stunden pro Jahr.
 
- Grundüberholung: Wurde in dem abgefragten Zeitraum nicht durchgeführt.
+– Grundüberholung: Wurde in dem abgefragten Zeitraum nicht durchgeführt.
 
 Gründe und Anteile für Nicht-Verfügbarkeiten der Aufzüge im Hochbahnbereich stellen sich wie folgt dar:
 
- Erneuerung und Grundüberholung: Anteil rund 11 Prozent
+– Erneuerung und Grundüberholung: Anteil rund 11 Prozent
 
- Wartung inklusive TÜV-Prüfungen: Anteil rund 23 Prozent
+– Wartung inklusive TÜV-Prüfungen: Anteil rund 23 Prozent
 
- Störungen, Vandalismus, sonstige Gründe: Anteil rund 66 Prozent
+– Störungen, Vandalismus, sonstige Gründe: Anteil rund 66 Prozent
 
 Für den Bereich der DB AG siehe Antwort zu 4. (entsprechend für Fahrstühle)
 
@@ -271,7 +272,7 @@ Welche Zielwerte bezüglich der Fahrstuhl- und Rolltreppenverfügbarkeit sind in
 
 Welche Zielwerte bezüglich der Fahrstuhl- und Rolltreppenverfügbarkeit sind in den Verträgen mit sonstigen Unternehmen (außer Verkehrsunternehmen), die auf Hamburger Grund Fahrstühle und/oder Rollentreppen betreiben, fixiert?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Im Bereich der S- und U-Bahn wird jedoch durch das Qualitätssteuerungsverfahren (QSV) des HVV mindestens einmal pro Jahr jede Station auf Funktionsfähigkeit des
 

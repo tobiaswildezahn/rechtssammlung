@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 20
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50066"
@@ -85,19 +86,19 @@ Eine Durchsicht und Auswertung sämtlicher Akten zu hamburgweit infrage kommende
 
 In das Finanzierungsprogramm Wohnungsbauentwicklung sind folgende, voraussichtlich defizitäre, Projekte aufgenommen worden:
 
- nördlich Finkenwerder Landscheideweg (Finkenwerder 32),
+– nördlich Finkenwerder Landscheideweg (Finkenwerder 32),
 
- Dieselstraße (Barmbek-Nord 11),
+– Dieselstraße (Barmbek-Nord 11),
 
- Stadtteilschule Sportplatzring (Stellingen 62),
+– Stadtteilschule Sportplatzring (Stellingen 62),
 
- Dratelnstraße,
+– Dratelnstraße,
 
- Georg-Wilhelm-Höfe (Wilhelmsburg 95),
+– Georg-Wilhelm-Höfe (Wilhelmsburg 95),
 
- Georgswerder,
+– Georgswerder,
 
- Vogelkamp (Neugraben-Fischbek 65).
+– Vogelkamp (Neugraben-Fischbek 65).
 
 Die Projekte unterliegen einer ständigen planerischen Fortentwicklung, mögliche Defizite können deshalb derzeit nicht seriös prognostiziert werden.
 

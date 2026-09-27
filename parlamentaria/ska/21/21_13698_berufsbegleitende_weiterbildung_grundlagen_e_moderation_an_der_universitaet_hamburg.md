@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63078"
@@ -103,6 +104,6 @@ Welche virtuellen Moderationstechniken und -kompetenzen werden gelehrt?
 
 Welche didaktischen Methoden werden vermittelt?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Ziel des Programms ist die Schulung von Transferkompetenz, das heißt die Übertragung von Präsenzmoderationsmethoden in virtuelle Formate. Die Auswahl der einzelnen Methoden hängt daher auch von den jeweiligen Voraussetzungen, Vorkenntnissen und Interessen der Teilnehmenden ab. Vermittelt werden sowohl synchrone als auch asynchrone Moderationstechniken, zum Beispiel für die Moderation von Foren, Chats, Wikis und Webinaren und virtuellen Klassenzimmern.

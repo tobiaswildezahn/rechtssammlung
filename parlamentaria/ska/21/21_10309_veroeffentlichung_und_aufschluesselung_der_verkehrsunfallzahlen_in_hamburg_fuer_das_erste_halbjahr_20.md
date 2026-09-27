@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9220", "21/9380", "21/9490", "21/10150", "21/8126"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59153"
@@ -53,7 +54,7 @@ Wie viele alkoholbedingte Verkehrsunfälle haben sich im ersten Halbjahr 2017 in
 
 Wie viele alkoholbedingte Verkehrsunfälle haben sich jeweils im ersten Halbjahr der Jahre seit 2011 in Hamburg ereignet und welche Verkehrsmittel waren jeweils wie häufig involviert? Bitte halbjahresweise sowie nach Verkehrsmitteln aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Anzahl der Verkehrsunfälle unter Alkoholeinfluss sowie die Art der Verkehrsbeteiligung bei diesen Verkehrsunfällen im ersten Halbjahr der Jahre 2011 bis 2017 für Hamburg und die jeweilige Entwicklung der Zahlenwerte von 2016 auf 2017 sind in den folgenden Tabellen dargestellt:
 
@@ -251,7 +252,7 @@ Wie viele drogenbedingte Verkehrsunfälle haben sich im ersten Halbjahr 2017 in 
 
 Wie viele drogenbedingte Verkehrsunfälle haben sich jeweils im ersten Halbjahr der Jahre seit 2011 in Hamburg ereignet und welche Verkehrsmittel waren jeweils wie häufig involviert? Bitte halbjahresweise und nach Verkehrsmitteln aufschlüsseln sowie angeben, wie viele Verkehrsunfälle auf welche Drogenarten zurückzuführen sind.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Anzahl der Verkehrsunfälle unter Drogen-/Medikamenteneinfluss sowie die Art der Verkehrsbeteiligung bei diesen Verkehrsunfällen im ersten Halbjahr der Jahre 2011 bis 2017 und die jeweilige Entwicklung der Zahlenwerte von 2016 auf 2017 sind in den folgenden Tabellen dargestellt. Statistische Daten zu festgestellten Drogenarten werden in EUSka nicht erfasst. Zur Beantwortung dieser Fragestellungen wäre eine händische Auswertung aller im erfragten Zeitraum registrierten 471 Verkehrsunfälle unter Drogen-/Medikamenteneinfluss erforderlich. Die Auswertung von mehreren Hundert Akten ist in der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

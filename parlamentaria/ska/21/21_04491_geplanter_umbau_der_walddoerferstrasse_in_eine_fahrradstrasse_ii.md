@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4099", "20/2784", "21/2803"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52894"
@@ -47,7 +48,7 @@ Wird die vertiefte Prüfung der generellen Umsetzbarkeit und einer möglichen Au
 
 Werden der Senat beziehungsweise die zuständige Behörde und/oder das zuständige Bezirksamt das Verkehrsplanungsbüro ARGUS mit der vertieften Prüfung der generellen Umsetzbarkeit und einer möglichen Ausgestaltung einer schnellen Radverkehrsverbindung zwischen dem Bereich um den U-Bahnhof Farmsen und dem Anschluss an die vorhandene Radverkehrs-Infrastruktur am S-Bahnhof Friedrichsberg beauftragen? Wenn ja, mit welchen Kosten wird für dieses Gutachten beziehungsweise diesen Prüfauftrag gerechnet und aus welchen Produktgruppen welcher Einzelpläne werden die Kosten finanziert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ja. Das zuständige Bezirksamt beabsichtigt ein Vergabeverfahren durchzuführen. Die Kosten werden im Zusammenhang mit dem Vergabeverfahren derzeit abgeschätzt. Die Finanzierung des Auftrags soll aus den Mitteln der Rahmenzuweisung an das zuständige Bezirksamt (bezirkliche Radverkehrsrouten) beziehungsweise aus Bundesmitteln im Rahmen des Kommunalinvestitionsförderungsgesetzes (Velorouten) erfolgen.
 
@@ -59,7 +60,7 @@ Wie ist es aus Sicht des Senats beziehungsweise der zuständigen Behörden zu ve
 
 Wie ist es aus Sicht des Senats beziehungsweise der zuständigen Behörden zu vertreten, dass nach Plänen der rot-grünen Bezirksfraktionen erneut das Verkehrsplanungsbüro ARGUS mit einem Folgeprüfauftrag beauftragt wird, obwohl das besagte Verkehrsplanungsbüro bei seiner Vorprüfung ebenfalls nicht einmal ermittelt hat, dass die Königsländer Schule seit Jahren nicht mehr als Schulstandort genutzt wird?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Über eine Beauftragung wird erst im Rahmen des Vergabeverfahrens entschieden werden. Im Übrigen siehe Antwort zu 1. und 2.
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 28
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1435"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57571"
@@ -57,7 +58,7 @@ Findet die Vermittlung theoretischer Grundlagen der Ersten Hilfe und des richtig
 
 Insofern Frage 1. positiv beantwortet wurde: Welche genauen Inhalte werden dabei nach welcher Systematik in welchen Klassenstufen vermittelt? (Bitte jeweils nach Schulformen getrennt erläutern.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ja, siehe Vorbemerkung.
 
@@ -173,7 +174,7 @@ Findet die Vermittlung praktischer Anwendungen der Ersten Hilfe und des richtige
 
 Insofern Frage 7. positiv beantwortet wurde: Welche genauen Inhalte werden dabei nach welcher Systematik in welchen Klassenstufen vermittelt? (Bitte jeweils nach Schulformen getrennt erläutern.)
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung.
 

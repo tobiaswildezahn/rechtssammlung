@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58482"
@@ -68,7 +69,7 @@ Zum Vertrieb von Einzeltickets: Über welche Vertriebswege bieten die jeweiligen
 
 Wie viele Tickets sind gar nicht in den „regulären Vertrieb“ gelangt, sondern an Reiseveranstalter, Hotels et cetera verkauft worden? Bitte nach Preiskategorien aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die HamburgMusik vertreibt ihre Tickets über Vorverkaufsstellen, Webshop, Besucherorganisationen, Firmen, Verbände, Vereine und touristische Vertriebspartner. Im Bereich Touristik wurden für die kommende Saison 12.292 Tickets in den Preiskategorien 1 und 2 vertrieben. Eine weitere Aufschlüsselung kann von der HamburgMusik und der ELBG in der zur Verfügung stehenden Zeit nicht ermittelt werden. Daten anderer Veranstalter stehen den beiden Gesellschaften nicht zur Verfügung.
 
@@ -96,6 +97,6 @@ Die ELBG kalkuliert mit Vermietungserlösen in Höhe von 6,2 Millionen Euro, dav
 
 Wie hoch ist der (voraussichtliche) Anteil der international verkauften Tickets? Bitte nach Veranstaltern und Preiskategorien aufschlüsseln.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der Veranstalter HamburgMusik betreibt mit Ausnahme des Verkaufs im Internet keine gesonderten Vertriebskanäle ins Ausland. Im Übrigen liegen bisher keine ausgewerteten Daten im Sinne der Fragestellungen vor.

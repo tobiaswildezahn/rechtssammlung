@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 18
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64493"
@@ -265,37 +266,37 @@ Das Projekt gamecity:Hamburg ist Bestandteil der Initiative nextmedia.Hamburg un
 
 Events und Networking
 
-• Gamecity „Senatorentreff“- Austausch mit Branchenvertretungen
+– Gamecity „Senatorentreff“- Austausch mit Branchenvertretungen
 
-• Gamecity Treff
+– Gamecity Treff
 
-• Gamecity Night
+– Gamecity Night
 
-• Beteiligung am German Game Netzwerk
+– Beteiligung am German Game Netzwerk
 
-• Unterstützung von Fremdveranstaltungen: Hamburg Games Conference, Indie Treffs, Games Compass, Making Games Talents, Kapitänskajüte
+– Unterstützung von Fremdveranstaltungen: Hamburg Games Conference, Indie Treffs, Games Compass, Making Games Talents, Kapitänskajüte
 
 Kommunikationsarbeit
 
-• Website
+– Website
 
-• Social Media Präsenz
+– Social Media Präsenz
 
-• Newsletter
+– Newsletter
 
-• PR
+– PR
 
-• Standortflyer
+– Standortflyer
 
-• Branchenverzeichnis
+– Branchenverzeichnis
 
-• Interessensvertretung auf nationalen und internationalen Veranstaltungen (Quo Vadis, Deutscher Computerspielepreis et cetera)
+– Interessensvertretung auf nationalen und internationalen Veranstaltungen (Quo Vadis, Deutscher Computerspielepreis et cetera)
 
 Service und Support
 
-• Workshops zu Gründungsthemen
+– Workshops zu Gründungsthemen
 
-• Messestand auf der gamescom
+– Messestand auf der gamescom
 
 Für Service und Support steht der Gamesbranche als Ansprechstelle neben den Projektmitarbeitern der gamecity:Hamburg auch ein Mitarbeiter der Behörde für Kultur und Medien zur Verfügung.
 

@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68147"
@@ -49,7 +50,7 @@ Welche Erkenntnisse beziehungsweise Hintergründe liegen dem Senat beziehungswei
 
 Waren staatliche Stellen mit dem Baby und/oder der Familie beschäftigt? Falls ja, seit wann und wie lange war jeweils welche staatliche Stelle warum involviert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

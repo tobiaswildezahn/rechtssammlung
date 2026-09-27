@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13159"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63655"
@@ -61,15 +62,15 @@ Eine statistische Auswertung der Bürgeranfragen bei der Behörde für Umwelt un
 
 Bei der Polizei sind im Sinne der Fragestellung bisher registriert:
 
- eine Klage, die sich auf Durchfahrtsbeschränkungen für Dieselfahrzeuge in der
+– eine Klage, die sich auf Durchfahrtsbeschränkungen für Dieselfahrzeuge in der
 
 Max-Brauer-Allee bezieht,
 
- ein Widerspruchsverfahren, das sich auf Durchfahrtsbeschränkungen für Diesel-
+– ein Widerspruchsverfahren, das sich auf Durchfahrtsbeschränkungen für Diesel-
 
 fahrzeuge in der Stresemannstraße bezieht,
 
- eine Beschwerde über den gewählten Standort eines konkreten Verkehrszeichens.
+– eine Beschwerde über den gewählten Standort eines konkreten Verkehrszeichens.
 
 Darüber hinaus liegen der Polizei Beschwerden im Sinne der Fragestellung derzeit nicht vor.
 

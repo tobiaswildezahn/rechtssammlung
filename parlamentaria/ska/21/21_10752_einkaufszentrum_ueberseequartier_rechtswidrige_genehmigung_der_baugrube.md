@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8034"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59660"
@@ -51,7 +52,7 @@ Welche Konsequenzen zieht der Senat aus der vom VG festgestellten Rechtswidrigke
 
 Was hat den Senat veranlasst, ohne eine vorläufige Beurteilung des Gesamtvorhabens (Bau eines Einkaufszentrums) eine Teilbaugenehmigung zu erteilen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Bauaufsichtsbehörde hat keine Teilbaugenehmigung, sondern eine Baugenehmigung für die Herstellung der Baugrube erteilt. Sowohl das Verwaltungs- als auch das Oberverwaltungsgericht haben die Verletzung nachbarschützender Rechte durch die erteilte Baugenehmigung verneint.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13583", "21/6976", "21/13679"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63730"
@@ -136,35 +137,35 @@ Die Freie und Hansestadt Hamburg fördert den Hamburger Sportbund dauerhaft im R
 
 FHH-Mittel der institutionellen Sportförderung werden für folgende Zwecke verwendet:  
 1.1. Förderung des Vereinsübungsbetriebes durch  
-•  
+–  
 Zuschüsse für qualifizierte Übungsleitende  
 1.2. Förderung der fachverbandlichen Arbeit durch  
-•  
+–  
 Zuschüsse für Organisation und Verwaltung der Fachverbände zur Absicherung deren satzungsgemäßer Aufgaben  
 1.3. Förderung des Nachwuchsleistungssports durch  
-•  
+–  
 Zuschüsse zur Verbesserung leistungssportlicher Rahmenbedingungen bei Vereinen  
 und Fachverbänden  
 1.4. Förderung von Bau, Erhaltung und Betrieb vereinseigener Anlagen durch  
-•  
+–  
 Gewährung von Zuschüssen und/oder zinslosen Darlehen  
 1.5. Förderung der sportlichen Kinder- und Jugendarbeit durch  
-•  
+–  
 Zuschüsse an die Hamburger Sportjugend  
 1.6. Wahrnehmung satzungsgemäßer Aufgaben des HSB in den Bereichen  
-•  
+–  
 Sportpolitik  
-•  
+–  
 Breitensportentwicklung  
-•  
+–  
 Vereins-/Verbandsentwicklung  
-•  
+–  
 Leistungssportentwicklung  
-•  
+–  
 Sportinfrastruktur  
-•  
+–  
 Sportfinanzierung  
-•  
+–  
 Dienstleistung
 
 Der HSB kann die Gewährung von Zuwendungen mit weiteren Zweckbindungen versehen. Eine Doppelförderung einzelner Projektmaßnahmen aus weiteren FHH-Projektförderungen wird ausgeschlossen.
@@ -173,9 +174,9 @@ Der HSB kann die Gewährung von Zuwendungen mit weiteren Zweckbindungen versehen
 
 Vereine und Verbände dürfen finanzielle Förderungen erhalten, wenn
 
-• sie dem HSB seit mindestens zwei Jahren als ordentliches Mitglied angehören, • Verbände von ihren Mitgliedsvereinen einen jährlichen Verbandsbeitrag erheben, der nicht unter dem vom HSB festgesetzten Mindestbeitrag liegt, • Verbände ordentliche Mitglieder von Spitzenverbänden im Sinne der Aufnahmerichtlinien des DOSB sind, • Verpflichtungen für die Fördermaßnahme vor der Bewilligung nicht eingegangen sind,
+– sie dem HSB seit mindestens zwei Jahren als ordentliches Mitglied angehören, – Verbände von ihren Mitgliedsvereinen einen jährlichen Verbandsbeitrag erheben, der nicht unter dem vom HSB festgesetzten Mindestbeitrag liegt, – Verbände ordentliche Mitglieder von Spitzenverbänden im Sinne der Aufnahmerichtlinien des DOSB sind, – Verpflichtungen für die Fördermaßnahme vor der Bewilligung nicht eingegangen sind,
 
-• bei investiven Maßnahmen baufachliche und ggf. finanztechnische Prüfungen erfolgt sind.
+– bei investiven Maßnahmen baufachliche und ggf. finanztechnische Prüfungen erfolgt sind.
 
 3. Mittelvergabe
 

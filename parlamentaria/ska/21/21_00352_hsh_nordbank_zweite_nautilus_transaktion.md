@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48491"
@@ -33,13 +34,13 @@ Die HSH Nordbank berichtet in eigener Presseerklärung von einer zweiten Nautilu
 
 ## Einleitung für die Antworten des Senats
 
- risikobehaftete Altlasten von HSH Nordbank sinken um dreistelligen Milli-
+– risikobehaftete Altlasten von HSH Nordbank sinken um dreistelligen Milli-
 
 onen-Dollar-Betrag
 
- Übernahme von 14 stark insolvenzgefährdeten Schiffen durch Navios
+– Übernahme von 14 stark insolvenzgefährdeten Schiffen durch Navios
 
- frisches Eigenkapital bewirkt zusätzliche Bilanzentlastung und schafft
+– frisches Eigenkapital bewirkt zusätzliche Bilanzentlastung und schafft
 
 unternehmerische Anreize
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60141"
@@ -43,7 +44,7 @@ Ist die Evaluation des Programms inzwischen abgeschlossen?
 
 Wenn nicht, wann werden die Ergebnisse der Evaluation voraussichtlich vorliegen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Planungen sind noch nicht abgeschlossen.
 
@@ -55,7 +56,7 @@ Welche Handlungsempfehlungen sind seitens der Unternehmen, Verbände und soziale
 
 Welche Ideen oder Ansätze zur Steigerung der Akzeptanz des Programms erachtet die zuständige Behörde als vielversprechend?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Senat äußert sich grundsätzlich nicht zu Einzelheiten der Vorbereitung von Entscheidungen.
 

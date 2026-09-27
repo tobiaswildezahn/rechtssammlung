@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48697"
@@ -69,7 +70,7 @@ Inwiefern prüft die Versammlungsbehörde ein Verbot der Versammlung? a. Falls j
 
 Welche beschränkenden Auflagen hat die Versammlungsbehörde gegen die Demonstration verfügt? Bitte detailliert im Wortlaut darlegen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Eine zuverlässige Gefahrenprognose zum Verlauf der Versammlung liegt der Polizei derzeit noch nicht vor. Aus diesem Grund ist bisher weder ein Verbot des Aufzugs geprüft noch sind Auflagen seitens der Versammlungsbehörde erlassen worden.
 
@@ -89,7 +90,7 @@ Welche Personen beziehungsweise Organisationen der extremen Rechten in Hamburg u
 
 Welche sonstigen Personen beziehungsweise Organisationen in Hamburg unterstützen die Demonstration beziehungsweise rufen nach Kenntnis des Senats beziehungsweise der zuständigen Behörde zur Teilnahme auf?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Nach Angaben der Veranstalter wird die Demonstration durch einen „Zusammenschluss von Einzelpersonen“ organisiert. Der Aufruf wurde auf den Internetseiten der rechtsextremistischen Gruppierung „AG Nordheide“ und der „Nationalen Presse Agentur“ (NPA) veröffentlicht.
 

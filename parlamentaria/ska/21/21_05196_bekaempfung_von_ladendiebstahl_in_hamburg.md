@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 23
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["16/4616"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53673"
@@ -219,7 +220,7 @@ Gegen wie viele organisierte Tätergruppen, die Ladendiebstähle begehen, konnte
 
 Wurden die ermittelten Tatverdächtigen wegen gemeinschaftlicher Tatbegehung verurteilt? Wenn ja, wie viele und mit welchem Strafmaß?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die zur Beantwortung dieser Fragen erforderlichen Daten werden im Vorgangsverwaltungs- und -bearbeitungssystem der Staatsanwaltschaft MESTA statistisch nicht erfasst.
 

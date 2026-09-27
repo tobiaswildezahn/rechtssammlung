@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 18
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19782", "21/20010", "21/20020"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69978"
@@ -113,11 +114,11 @@ Der Senat gab in der Drs. 21/20010 an, dass die Polizei über 8 418 Internetzug�
 
 Die Internetzugänge der Polizei teilen sich auf in
 
- das durch Dataport betriebene „Internet für Alle“ (IfA) auf den Arbeitsplatzrechnern
+– das durch Dataport betriebene „Internet für Alle“ (IfA) auf den Arbeitsplatzrechnern
 
 der Polizei und
 
- die durch die Polizei betriebenen Stand-Alone-Rechner.
+– die durch die Polizei betriebenen Stand-Alone-Rechner.
 
 Die Performance-Probleme entstehen ausschließlich bei der Nutzung des IfA.
 

@@ -14,6 +14,7 @@ fragen: 25
 einzelfragen: 41
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51725"
@@ -156,7 +157,7 @@ Mit welchen konkreten Einschränkungen im öffentlichen Raum müssen die Hamburg
 
 Mit welchen konkreten Einschränkungen im nicht öffentlichen Raum (beispielsweise als Anwohner/-innen am Tagungsort oder von Staatsgästen genutzten Verbindungsstraßen) müssen die Hamburger/-innen im Einzelnen voraussichtlich rechnen und in welchem Zeitraum vor, während und nach dem Gipfel?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Siehe Vorbemerkung.
 

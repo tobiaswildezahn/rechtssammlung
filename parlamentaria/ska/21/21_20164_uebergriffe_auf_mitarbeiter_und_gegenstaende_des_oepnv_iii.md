@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17885", "21/2970"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69940"
@@ -244,19 +245,19 @@ HOCHBAHN:
 
 Die HOCHBAHN verfolgt das Ziel, Übergriffe auf das Prüf- und Sicherheitspersonal sowie auf Fahrgäste und deren materielle Güter zu verhindern. Zu den Maßnahmen gehören unter anderem:
 
- Erstellung eines Sicherheitslagebildes für die HOCHBAHN im Rahmen der Sicher-
+– Erstellung eines Sicherheitslagebildes für die HOCHBAHN im Rahmen der Sicher-
 
 heitspartnerschaft,
 
- 24/7 Streifendienste im System der HOCHBAHN (gegebenenfalls erfolgen anlass-
+– 24/7 Streifendienste im System der HOCHBAHN (gegebenenfalls erfolgen anlass-
 
 bezogene Schwerpunkteinsätze),
 
- Einsatz von zusätzlichen zivilen Streifen und mobiler Videotechnik zur Verhinde-
+– Einsatz von zusätzlichen zivilen Streifen und mobiler Videotechnik zur Verhinde-
 
 rung von Sachbeschädigungen in Form von Graffiti,
 
- Sicherheitstechnik wie zum Beispiel Notrufsysteme und Videoüberwachung.
+– Sicherheitstechnik wie zum Beispiel Notrufsysteme und Videoüberwachung.
 
 VHH:
 

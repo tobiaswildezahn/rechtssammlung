@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 18
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8446", "21/9019", "21/11128", "21/11322", "21/12284", "21/14628", "21/10225"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67150"
@@ -41,19 +42,19 @@ Für die rechtskräftige Bescheidung sind komplexe Prüfverfahren erforderlich, 
 
 Die Zuarbeit zur Entscheidungsfindung seitens der zuständigen Behörde umfasst folgende Bestandteile:
 
- Aufbereitung der Verkehrsdaten der Örtlichkeit (gegebenenfalls Durchführung
+– Aufbereitung der Verkehrsdaten der Örtlichkeit (gegebenenfalls Durchführung
 
 einer Verkehrszählung),
 
- Lärmberechnung nach RLS 90 (durch ein externes Büro),
+– Lärmberechnung nach RLS 90 (durch ein externes Büro),
 
- Einschätzung der verkehrlichen Situation (Netzfunktion),
+– Einschätzung der verkehrlichen Situation (Netzfunktion),
 
- Einschätzung der Auswirkungen von straßenverkehrsrechtlichen Maßnahmen auf
+– Einschätzung der Auswirkungen von straßenverkehrsrechtlichen Maßnahmen auf
 
 den öffentlichen Personennahverkehr (ÖPNV) und den Wirtschaftsverkehr,
 
- Einschätzung möglicher Verlagerungseffekte als Folge straßenverkehrsrechtlicher
+– Einschätzung möglicher Verlagerungseffekte als Folge straßenverkehrsrechtlicher
 
 Maßnahmen.
 
@@ -164,7 +165,7 @@ Für welche der unter Nummer 1. genannten Anträge sind derzeit Verfahren vor de
 
 Wie lange sind die unter Nummer 7. genannten Verfahren vor dem Hamburger Verwaltungsgericht jeweils, im Mittel und maximal bereits anhängig (bitte insgesamt und nach Kammer unterteilt angeben)?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Insgesamt sind derzeit in der Kammer 5 drei Klageverfahren und in der Kammer 15 sechs Klageverfahren anhängig:
 
@@ -204,7 +205,7 @@ In welchen der unter Nummer 7. genannten Verfahren wurde das Verwaltungsgericht 
 
 In welchen der unter Nummer 7. genannten Verfahren hat das Verwaltungsgericht die zuständigen Behörden beziehungsweise deren juristische Vertreter um eine fristgebundene, schriftliche Klageerwiderung beziehungsweise fristgebundene, inhaltliche Stellungnahme ersucht (bitte auch in der Auflistung zu Nummer 1. vermerken)?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die erfragten Informationen betreffen laufende gerichtliche Verfahren. Das Recht der Akteneinsicht im gerichtlichen Verfahren ist abschließend in den bundesgesetzlichen Verfahrensordnungen geregelt, die Vorrang vor den landesrechtlichen Regelungen über das parlamentarische Auskunftsrecht genießen.
 
@@ -228,7 +229,7 @@ Welche konkreten Maßnahmen hat der Hamburger Senat seit der Sitzung des Verkehr
 a) die Bescheidung von Anträgen und Widersprüchen zeitnah erfolgt,
 b) Verfahren vor dem Hamburger Verwaltungsgericht zeitnah abgeschlossen werden?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Vorbemerkung.
 

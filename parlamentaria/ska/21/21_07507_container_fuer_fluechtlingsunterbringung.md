@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6938", "21/6814", "21/5511"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56108"
@@ -51,7 +52,7 @@ Für wie viele Container zur Unterbringung von Flüchtlingen und/oder Obdachlose
 
 Wie viele der gemieteten Container zur Unterbringung von Flüchtlingen und/oder Obdachlosen befinden sich aktuell in Nutzung und wie viele stehen leer?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zum Stand 12. Januar 2017 waren es im Bereich der EA 6.566 Container.
 
@@ -117,7 +118,7 @@ Gibt es für Dritte die Möglichkeit, unterschiedliche im Eigentum der Freien un
 
 Haben den Senat beziehungsweise die zuständigen Behörden Anfragen zur Anmietung von Containern durch Dritte erreicht? Wenn ja, um welche Anfragen handelte es sich konkret? Wie wurde in diesen Fällen verfahren?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die zuständigen Stellen prüfen die entsprechende Verfügbarkeit der angefragten Container und erläutern die Modalitäten der Weiternutzung. Gemäß § 7 Landeshaushaltsordnung ist die kostenfreie Weitergabe der Container nicht möglich. Anfragen von Vereinen und Verbänden konnten daher nicht positiv entschieden werden.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6654"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56707"
@@ -81,7 +82,7 @@ Welche Ausweichstrecken sollen die Fahrgäste nutzen? Welche Fahrtzeitverlänger
 
 Mit welchen Maßnahmen wird sichergestellt, dass sämtliche Schnellbahnstationen während der Sperrung oberirdisch erreicht werden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Zwischen Hauptbahnhof und Landungsbrücken wird auf die U-Bahn-Linie U3 verwiesen (zwischen Rathaus (für Jungfernstieg), Rödingsmarkt (für Stadthausbrücke) und Landungsbrücken). Die Stationen Landungsbrücken, Reeperbahn und Königstraße bleiben mit Umsteigen über Altona oder Landungsbrücken erreichbar.
 
@@ -119,7 +120,7 @@ Wann wurde der City-Tunnel seit 2011 gesperrt? Bitte jeweils die genaue Zeitspan
 
 Welche Arbeiten wurden bei den früheren Sperrungen ausgeführt? Bitte für jede Sperrung genau angeben.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Sperrungen des City-Tunnel umfassten folgende Zeiträume:
 

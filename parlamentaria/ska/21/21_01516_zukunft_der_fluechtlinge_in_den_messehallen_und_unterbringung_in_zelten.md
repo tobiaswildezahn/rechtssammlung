@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 19
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49724"
@@ -62,7 +63,7 @@ In welche anderen Einrichtungen werden die Flüchtlinge Ende September verlegt, 
 
 Sollen die Flüchtlinge nach Ende der „hanseboot 2015“ wieder in die Messehallen zurückverlegt werden? Wenn ja, wann?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Überlegungen dazu sind noch nicht abgeschlossen.
 
@@ -90,7 +91,7 @@ Wird die Kleiderkammer in den Messehallen bleiben können? Wenn nein, wo wird k�
 
 Gibt es andere Kleiderkammern in Hamburg, die ein eventuelles Wegfallen der Kleiderkammer in den Messehallen kompensieren könnten?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Nutzung der Messehalle B 6 zu Zwecken der Flüchtlingsunterbringung soll bis Ende September 2015 auslaufen.
 

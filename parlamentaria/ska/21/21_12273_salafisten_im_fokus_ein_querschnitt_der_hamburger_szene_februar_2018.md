@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10721"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61546"
@@ -43,7 +44,7 @@ Wie ist die Struktur der salafistischen Szene gegenwärtig in Hinblick auf die S
 
 Wie viele von diesen Leuten verfügen über die doppelte Staatsbürgerschaft? Bitte die jeweiligen Kombinationen einzeln nennen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die erfragten Daten werden aufgrund der programmierten Abläufe nur zu bestimmten Stichtagen aus den Dateien generiert (Stand: 31. Dezember 2017). Im Übrigen siehe Drs. 21/10721.
 
@@ -168,7 +169,7 @@ Gegen wie viele Personen, die vom Verfassungsschutz der salafistischen Szene zug
 
 Wie viele Personen, die vom Verfassungsschutz der salafistischen Szene zugerechnet werden, sind zwischen dem 1.1.2015 und dem 1.3.2018 im Rahmen von strafrechtlichen Prozessen verurteilt worden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/10721. Hinsichtlich der beiden dort mitgeteilten Verfahren wurden in einem der Verfahren zwischenzeitlich die 14 Angeklagten rechtskräftig freigesprochen. In dem anderen Verfahren wurden im Februar 2018 zwei Angeklagte verurteilt, während die Hauptverhandlung gegen vier weitere noch andauert. Es gibt keine weiteren Verfahren mit laufender Hauptverhandlung aus diesem Bereich.
 
@@ -180,6 +181,6 @@ Gibt es Belege dafür, dass die salafistischen Szenen Hamburgs und Bremens mitei
 
 Wie viele Personen, die den Behörden als Salafisten bekannt sind, wurden 2017 an der Ausreise gehindert?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Drs. 21/10721.

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/2948"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51404"
@@ -68,7 +69,7 @@ vor?
 Wenn ja, wie sieht dieser Zeitplan aus?  
 Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Antwort zu 1.
 

@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 32
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3165", "19/9673"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67192"
@@ -49,7 +50,7 @@ Im Bericht 2017 wird die Anzahl „subkulturell geprägter Rechtsextremisten“ 
 
 Sind dem LfV die als „subkulturell geprägte Rechtsextremisten“ eingestuften Personen namentlich bekannt oder handelt es sich bei der angegebenen Dimension der Personengruppe (auch teilweise) um eine Schätzung? Bitte geben Sie außerdem die Anzahl der „subkulturell geprägten Rechtsextremisten“ zu möglichen Teilgruppen/Teilstrukturen der „subkulturell rechtsextremistischen Szene“ an.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Potenzialangaben im Verfassungsschutzbericht werden grundsätzlich durch die Auswertung der einschlägig eingestuften Datensätze im Nachrichtendienstlichen Informationssystem (NADIS), öffentlichen und nachrichtendienstlich erlangten Angaben aus den Beobachtungsobjekten und Einschätzungen aufgrund allgemeiner Szeneentwicklungen generiert. Bei den angegebenen circa 110 Personen handelt es sich bei etwas mehr als der Hälfte um rechtsextremistische Gewalttäter ohne oder mit geringer organisatorischer Anbindung. Das verbleibende Personenpotenzial setzt sich aus den im Verfassungsschutzbericht 2017 erläuterten Szeneteilen zusammen; https://www.hamburg.de/innenbehoerde/publikationen-verfassungsschutz/231572/ verfassungsschutzberichte-pdf/.
 
@@ -61,7 +62,7 @@ Wie viele der vom LfV derzeit als „subkulturell geprägte Rechtsextremisten“
 
 Von welchen „rechtsextremistischen Einstellungen und Argumentationsmustern“ sind „subkulturell geprägte Rechtsextremisten“ beeinflusst? Bitte die „Einstellungen und Argumentationsmuster“ anhand von quantitativ und qualitativ aussagekräftigen Belegen jeweils für die Jahre 2015, 2016, 2017, 2018 und 2019 darlegen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Subkulturelle Rechtsextremisten werden durch das LfV Hamburg grundsätzlich als gewaltorientiert eingestuft. Die Einstufung ergibt sich aus langjährigen fachlichen Bewertungen und Analysen des Verfassungsschutzes. Im Übrigen siehe Verfassungsschutzberichte der Verfassungsschutzbehörden insbesondere der letzten Jahre; https://www.hamburg.de/innenbehoerde/publikationen-verfassungsschutz/231572/ verfassungsschutzberichte-pdf/ sowie das Kompendium des Bundesamtes für Verfassungsschutz (BfV) https://www.verfassungsschutz.de/de/oeffentlichkeitsarbeit/ publikationen/allgemeine-publikationen/broschuere-2017-07-kompendium-des-bfv.
 
@@ -194,7 +195,7 @@ Welche Kenntnisse hat das LfV über linksextremistisch motivierte Straftaten im 
 
 Welche Kenntnisse liegen dem LfV zu linksextremistisch motivierten Straftaten oder verfassungsfeindliche linksextremistische Parolen durch radikale Fans des FC St. Pauli vor? Bitte für den Zeitraum der letzten zehn Jahre umfassend darlegen. Wenn dem LfV hierzu keine Kenntnisse vorliegen: Geht das LfV davon aus, dass es im Umfeld radikaler Anhänger linksgerichteter Fußballclubs wie insbesondere dem FC St. Pauli keine linksextremistisch motivierten Straftaten oder verfassungsfeindliche linksextremistische Parolen gibt?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Dem LfV Hamburg liegen im Sinne der Fragestellung keine Erkenntnisse vor. Die Polizei führt keine Statistik im Sinne der Fragen. Für eine Beantwortung müsste eine vierstellige Anzahl von Handakten händisch ausgewertet werden. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Im Übrigen siehe Vorbemerkung und Antwort zu 11. bis 13.
 

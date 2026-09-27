@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51922"
@@ -43,7 +44,7 @@ Bei welchen Krankheitsbildern kann die Gabe von Cannabis beziehungsweise cannabi
 
 Welche Wirkungen des Cannabis werden dabei ausgenutzt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die arzneiliche Anwendungsmöglichkeit von Cannabis ist nicht auf einzelne Krankheitsbilder (Indikationen) und die Wirkungen sind nicht auf einzelne Wirkmechanismen beschränkt wie bei den üblichen Arzneimitteln. Die Anwendung ist vielmehr nur auf Grundlage einer ärztlichen Diagnose vertretbar und nur, wenn andere Behandlungsmethoden oder Therapeutika nicht die benötigte Wirksamkeit gezeigt haben.
 

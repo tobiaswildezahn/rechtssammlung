@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10422", "21/10525"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60824"
@@ -55,7 +56,7 @@ Anlässlich der WM 2006 wurde das Volkparkstadion für circa 7,2 Millionen Euro 
 
 Gab es bereits Gespräche mit dem HSV bezüglich eventueller Stadionsanierungen/Nachrüstungen und der jeweiligen Finanzierung? Falls ja: Bitte das jeweilige Datum und den Inhalt der Gespräche benennen. Falls nein: Wann sollen diese Gespräche stattfinden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Behörde für Inneres und Sport befindet sich mit der HSV Fußball AG im kontinuierlichen Austausch. Inhaltlich werden dabei alle sich aus dem sogenannten Bid Dossier Template zur UEFA EURO 2024 ergebenen Fragen zum Stadion und dem unmittelbaren Stadionumfeld erörtert und daraus resultierende gemeinsame Bewerbungsunterlagen erstellt sowie strategische Schritte besprochen.
 

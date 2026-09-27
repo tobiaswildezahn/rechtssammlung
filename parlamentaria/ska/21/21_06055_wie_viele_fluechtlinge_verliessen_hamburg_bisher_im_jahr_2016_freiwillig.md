@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 19
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3105", "21/5547"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54567"
@@ -83,7 +84,7 @@ Wie viele Personen stellten 2016 bisher einen Ausreiseantrag? Aus welchen Lände
 
 Wie viele Personen sind nach Erkenntnis des Senats auch wirklich ausgereist? Aus welchen Ländern stammen diese?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Beim Flüchtlingszentrum stellten im Zeitraum von Januar bis August 2016 insgesamt 400 Personen einen Antrag auf Rückkehrhilfe. Sämtliche Personen sind ausgereist. Zu den Herkunftsländern dieser Personen siehe Anlage 1.
 

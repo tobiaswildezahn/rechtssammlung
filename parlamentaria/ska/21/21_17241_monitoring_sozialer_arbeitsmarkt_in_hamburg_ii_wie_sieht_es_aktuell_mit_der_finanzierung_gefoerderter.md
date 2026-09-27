@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16767", "21/17126", "21/16237"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66812"
@@ -222,7 +223,7 @@ Wie viele nach § 16e SGB II n. F. geförderte Arbeitsverhältnisse sind bislang
 
 Wie werden die Arbeitsverhältnisse nach § 16e SGB II n. F. in der Förderstatistik der BA ausgewiesen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die nach § 16e SGB II n.F. geförderten Beschäftigungsverhältnisse können aus der Zeile 53, Tabellenblatt Zugang SGB II, Statistik der Bundesagentur für Arbeit Arbeitsmarktpolitische Instrumente ausgelesen werden:
 

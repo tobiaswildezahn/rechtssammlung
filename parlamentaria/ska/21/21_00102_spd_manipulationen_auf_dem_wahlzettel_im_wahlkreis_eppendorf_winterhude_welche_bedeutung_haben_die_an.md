@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 20
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["17/2005"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48230"
@@ -47,7 +48,7 @@ In welchem Stadtteil haben die Abgeordneten Rosenfeldt und die Senatorin Blankau
 
 Haben der genannte Abgeordnete und die Senatorin jeweils weitere Wohnungen gemeldet? Wenn ja, seit wann und in welchen Stadtteilen befinden sich diese jeweils?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die mit Wirkung zum 6. Dezember 2014 von der Meldebehörde eingetragene Hauptwohnung des genannten Abgeordneten liegt im Stadtteil Winterhude, diejenige der genannten Senatorin liegt im Stadtteil Alsterdorf. Sie wurde von der Meldebehörde mit Wirkung zum 1. November 1991 eingetragen und ist Nebenwohnung des genannten Abgeordneten. Außerhalb Hamburgs haben beide eine als gemeinsame Nebenwohnung eingetragene Wohnung in einem Feriengebiet. Der Bezirksamtsleiter hat sich aufgrund der Presseberichterstattung berichten lassen.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 19
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/908"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49092"
@@ -87,19 +88,19 @@ e. Welchen Anteil hat das „Haus der Jugend“ am Ganztagsbetreuungskonzept der
 
 Die Kooperation zwischen dem HdJ und der Stadtteilschule findet in folgenden Bereichen statt:
 
- Zwei Kurse „Mediale Bildung“ in der Jahrgangsstufe 5 im Umfang von jeweils zwei
+– Zwei Kurse „Mediale Bildung“ in der Jahrgangsstufe 5 im Umfang von jeweils zwei
 
 Unterrichtsstunden pro Woche,
 
- ein Kurs „Fußball“ für die Jahrgangsstufen 7 und 8 im Umfang von zwei Unter-
+– ein Kurs „Fußball“ für die Jahrgangsstufen 7 und 8 im Umfang von zwei Unter-
 
 richtsstunden pro Woche,
 
- an vier Wochentagen „Nachmittagsbetreuung mit Hausaufgabenangebot“ im HdJ
+– an vier Wochentagen „Nachmittagsbetreuung mit Hausaufgabenangebot“ im HdJ
 
 in der Mittagspause (13.30 – 14.30 Uhr)
 
- einmal im Schuljahr gastiert eine internationale Kulturgruppe (Tanz, Theater, Musik
+– einmal im Schuljahr gastiert eine internationale Kulturgruppe (Tanz, Theater, Musik
 
 und anderes) eine Woche in der Schule und im HdJ.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 17
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4868"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63589"
@@ -98,7 +99,7 @@ Plant die zuständige Behörde die Zuverdienstgrenzen für Referendarinnen und R
 
 Inwieweit hat die zuständige Behörde die Auswirkungen der Anhebung der Zuverdienstgrenzen auf den Haushalt der Justizbehörde geprüft (bitte den aktuellen Sachstand angeben)? Wenn ja, mit welchem Ergebnis und wann werden Bürgerschaft und der Personalrat der Referendare darüber informiert? Wenn nein, warum sind die Prüfungen noch nicht abgeschlossen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Anrechnungsfreibetrag wurde zum 1. Januar 2017 erhöht und dynamisiert. Seitdem erhöht sich der Anrechnungsfreibetrag jeweils automatisch um den gleichen Vomhundertsatz wie der nach den Vorschriften des Hamburgischen Besoldungsgesetzes gewährte Grundgehaltsatz eines Landesbeamten der Besoldungsstufe A 13. Aktuell beträgt der Anrechnungsfreibetrag 530,34 Euro. Die jetzige Regelung der dynamischen Anpassung ist im Haushaltsplan-Entwurf des Senats berücksichtigt. Weitere Änderungen sind derzeit nicht geplant. Der Personalrat der Referendarinnen und Referendare wurde vor Inkrafttreten der neuen Regelung informiert.
 

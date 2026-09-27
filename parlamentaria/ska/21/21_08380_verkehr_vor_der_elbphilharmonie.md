@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57089"
@@ -47,7 +48,7 @@ Wie weit sind welche Schnellbahnstationen von der Elbphilharmonie entfernt?
 
 Wie weit sind welche Bushaltestellen von der Elbphilharmonie entfernt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe unter folgendem Link: https://www.elbphilharmonie.de/de/anfahrt
 
@@ -99,19 +100,19 @@ Wann erfolgten Verkehrszählungen im Bereich der Elbphilharmonie? Was waren dere
 
 Die Behörde für Wirtschaft, Verkehr und Innovation (BWVI) hat an den sogenannten Jährlichen Zählstellen Bei St. Annen/Am Sandtorkai und Osakaallee/Überseeallee am Donnerstag, den 16. Februar 2017, Verkehrszählungen durchführen lassen. Hierbei wurden für die einzelnen Knotenpunktzufahrten folgende Tagesverkehre (TV (Kraftfahrzeuge/24Stunden (Kfz/24Std))) und Schwerverkehrsanteile (SV (= Kfz größer 3,5 t zulässiges Gesamtgewicht)) ermittelt:
 
-• Bei St. Annen, nördlich Am Sandtorkai: TV circa (ca.) 6.900 Kfz/24Std, SV ca. 5 Prozent,
+– Bei St. Annen, nördlich Am Sandtorkai: TV circa (ca.) 6.900 Kfz/24Std, SV ca. 5 Prozent,
 
-• Brooktorkai, nordöstlich Bei St. Annen: TV ca. 13.500 Kfz/24Std, SV ca. 4 Prozent,
+– Brooktorkai, nordöstlich Bei St. Annen: TV ca. 13.500 Kfz/24Std, SV ca. 4 Prozent,
 
-• Osakaallee, südlich Am Sandtorkai: TV ca. 4.300 Kfz/24Std, SV ca. 7 Prozent,
+– Osakaallee, südlich Am Sandtorkai: TV ca. 4.300 Kfz/24Std, SV ca. 7 Prozent,
 
-• Am Sandtorkai, westlich Bei St. Annen: TV ca. 14.100 Kfz/24Std, SV ca. 5 Prozent,
+– Am Sandtorkai, westlich Bei St. Annen: TV ca. 14.100 Kfz/24Std, SV ca. 5 Prozent,
 
-• Osakaallee, nördlich Überseeallee: TV ca. 4.100 Kfz/24Std, SV ca. 7 Prozent,
+– Osakaallee, nördlich Überseeallee: TV ca. 4.100 Kfz/24Std, SV ca. 7 Prozent,
 
-• Überseeallee, östlich Osakaallee: TV ca. 7.900 Kfz/24Std, SV ca. 6 Prozent,
+– Überseeallee, östlich Osakaallee: TV ca. 7.900 Kfz/24Std, SV ca. 6 Prozent,
 
-• Überseeallee, westlich Osakaallee: TV ca. 6.400 Kfz/24Std, SV ca. 7 Prozent.
+– Überseeallee, westlich Osakaallee: TV ca. 6.400 Kfz/24Std, SV ca. 7 Prozent.
 
 ### Frage 9
 
@@ -131,15 +132,15 @@ Standardisierte Aufzeichnungen im Sinne der Fragestellung erfolgen bei der Poliz
 
 Abhängig von der jeweiligen Einsatzlage beobachtet das örtlich zuständige Polizeikommissariat 14 die Verkehrssituation in der Straße Am Kaiserkai überwiegend an Tagen mit Veranstaltungen im Großen Saal der Elbphilharmonie, die um 20 Uhr oder später beginnen. Seit offizieller Eröffnung der Elbphilharmonie am 11. Januar 2017 gab es bis zum 20. März 2017 insgesamt 61 entsprechende Veranstaltungen. Nach den Feststellungen der Polizei ist es dabei an folgenden Tagen jeweils nach Veranstaltungsende zu Verkehrsstörungen gekommen:
 
-• Freitag, 13. Januar 2017,
+– Freitag, 13. Januar 2017,
 
-• Samstag, 21. Januar 2017,
+– Samstag, 21. Januar 2017,
 
-• Montag, 13. Februar 2017,
+– Montag, 13. Februar 2017,
 
-• Sonntag, 19. Februar 2017,
+– Sonntag, 19. Februar 2017,
 
-• Dienstag, 21. Februar 2017.
+– Dienstag, 21. Februar 2017.
 
 ### Frage 11
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 19
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15179"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65921"
@@ -96,13 +97,13 @@ Welche externen Dienste sind in der Oskar-Schlemmer-Straße tätig (zum Beispiel
 
 Folgende externe Dienste werden in der Einrichtung tätig:
 
- ambulanter Pflegedienste (Stunden nach Pflegebedarf), circa zehn Stunden täglich
+– ambulanter Pflegedienste (Stunden nach Pflegebedarf), circa zehn Stunden täglich
 
- Traumatherapie, zehn Stunden wöchentlich
+– Traumatherapie, zehn Stunden wöchentlich
 
- Coach/Supervision für Mitarbeiterinnen und Mitarbeitern, zwei Stunden monatlich
+– Coach/Supervision für Mitarbeiterinnen und Mitarbeitern, zwei Stunden monatlich
 
- verordnete Physiotherapie, nach Bedarf
+– verordnete Physiotherapie, nach Bedarf
 
 ### Frage 7
 
@@ -128,23 +129,23 @@ Mit welchen internen und externen Beratungseinrichtungen und Vermittlungsstellen
 
 Die Zusammenarbeit findet mit folgenden Einrichtungen statt:
 
- Gesundheitsprojekt MiMi-Hamburg (Mit Migranten für Migranten)
+– Gesundheitsprojekt MiMi-Hamburg (Mit Migranten für Migranten)
 
- Lebenshilfe für Menschen mit Behinderung e.V.
+– Lebenshilfe für Menschen mit Behinderung e.V.
 
- Why not? Café Lokstedt
+– Why not? Café Lokstedt
 
- KinderPaCT-Hamburg e.V.
+– KinderPaCT-Hamburg e.V.
 
- Segemi e.V.
+– Segemi e.V.
 
- Hamburger Ombudsstelle in der Flüchtlingsarbeit
+– Hamburger Ombudsstelle in der Flüchtlingsarbeit
 
- Palliative Care Team Ost – Bezirk Wandsbek
+– Palliative Care Team Ost – Bezirk Wandsbek
 
- Institut für transkulturelle Kompetenz der Polizei Hamburg (ITK)
+– Institut für transkulturelle Kompetenz der Polizei Hamburg (ITK)
 
- Gesundheitsamt Altona
+– Gesundheitsamt Altona
 
 ### Frage 10
 
@@ -154,7 +155,7 @@ Welche Angebote (zum Beispiel Sprachkurse, Beratungen) werden in der EA Oskar-Sc
 
 Welche Möglichkeiten bestehen für Bewohner/-innen mit Mobilitätseinschränkungen, an Angeboten (zum Beispiel Sprachkurse, Beratungen) außerhalb der EA teilzunehmen, und welche Hilfestellungen werden den Bewohnern/-innen dafür geboten?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Unter Berücksichtigung der besonderen Situation der Bewohnerinnen und Bewohner beraten und unterstützen täglich ein bis zwei Sozialarbeiterinnen und Sozialarbeiter zu auftretenden Fragen und Problemen.
 
@@ -168,7 +169,7 @@ Wie viele Plätze stehen jeweils in welchen weiteren Erstaufnahmeeinrichtungen f
 
 Wie viele der weiteren Plätze in den Erstaufnahmeeinrichtungen für Geflüchtete mit Erkrankungen und/oder Behinderung sind gegenwärtig belegt?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Die Belegung zum Stichtag 4. März 2019 sowie die vorgehaltenen Kapazitäten ergeben sich aus der nachfolgenden Übersicht:
 

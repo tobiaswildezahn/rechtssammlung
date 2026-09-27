@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/584"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48926"
@@ -104,7 +105,7 @@ Hat es seit der Aufhebung des Lkw-Überholverbotes am 29. Mai 2015 auf dem besag
 
 Wurde seit dem 29. Mai 2015 aufgrund des Unfallgeschehens und der Verkehrssicherheit von den zuständigen Stellen zwischenzeitlich die Beendigung der Aufhebung des Lkw-Überholverbotes auf dem besagten Strecken- beziehungsweise Baustellenabschnitt erwogen und/oder beantragt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Nein.
 

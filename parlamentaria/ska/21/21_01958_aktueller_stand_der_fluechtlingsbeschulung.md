@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 43
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1912", "21/1532", "21/1065"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50204"
@@ -57,7 +58,7 @@ Wie viele Flüchtlingskinder werden aktuell insgesamt in Internationalen Vorbere
 
 Wie viele Flüchtlingskinder werden aktuell insgesamt in Basisklassen unterrichtet? Wie viele Basisklassen gibt es aktuell? Wie hoch ist die durchschnittliche Frequenz der Basisklassen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Aktuell gibt es 145 Internationale Vorbereitungsklassen (IVK) und 31 Basisklassen an Hamburger Schulen. Da aufgrund des starken Zustroms von Flüchtlingen fortlaufend neue Klassen eingerichtet werden und fortlaufend Zu- und Abgänge erfolgen, variiert die Frequenz täglich. Mit Stand 16. Oktober 2015 betrug die durchschnittliche Frequenz in IVK rund elf und in Basisklassen rund neun Schülerinnen und Schüler.
 
@@ -236,7 +237,7 @@ Wie viele Lehrerstellen (in Vollzeitäquivalenten) werden aktuell insgesamt für
 
 Wie viele dieser Stellen sind aktuell besetzt? Wie viele davon sind ausgeschrieben?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Für die Beschulung in IVK, Basisklassen und ZEA-Lerngruppen werden den allgemeinbildenden Schulen aktuell 234,7 Lehrer- und 24,6 Sozialpädagogenstellen zugewiesen. Es gibt keinen schulbezogenen Stellenplan. Von daher ist die Zuordnung unbesetzter Stellen zu einzelnen Schulen nicht möglich. Der zugewiesene Bedarf wird von den Schulen vollumfänglich genutzt.
 

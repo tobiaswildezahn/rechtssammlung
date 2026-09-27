@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3196"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51801"
@@ -49,31 +50,31 @@ Sind inzwischen die genauen Kosten der Feierlichkeit am 9. Februar 2016 bekannt?
 
 Der bereits abgerechnete Betrag exklusive der noch ausstehenden Rechnungen (siehe unten) beläuft sich auf 59.497,82 Euro und gliedert sich wie folgt auf:
 
- Einladungsmanagement: 1.035,40 Euro
+– Einladungsmanagement: 1.035,40 Euro
 
- Eventausstattung/Veranstaltungstechnik: 25.421,52 Euro
+– Eventausstattung/Veranstaltungstechnik: 25.421,52 Euro
 
- Speisen und Getränke: 15.492,90 Euro
+– Speisen und Getränke: 15.492,90 Euro
 
- Servicepersonal Catering: 3.127,00 Euro
+– Servicepersonal Catering: 3.127,00 Euro
 
- Equipment Catering: 2.645,00 Euro
+– Equipment Catering: 2.645,00 Euro
 
- Gebührenbescheid Bezirksamt: 150,00 Euro
+– Gebührenbescheid Bezirksamt: 150,00 Euro
 
- Fotograf: 750,00 Euro
+– Fotograf: 750,00 Euro
 
- Programmgestaltung: 10.876,00 Euro
+– Programmgestaltung: 10.876,00 Euro
 
 Folgende Rechnungen sind bisher nicht bei der HOCHBAHN eingetroffen:
 
- Moderation (Angebotshöhe: 2.500,00 Euro)
+– Moderation (Angebotshöhe: 2.500,00 Euro)
 
- Handelskammer (Angebotshöhe: 6.030,00 Euro; umfasst Nutzungsentgelt Börsen-
+– Handelskammer (Angebotshöhe: 6.030,00 Euro; umfasst Nutzungsentgelt Börsen-
 
 saal, Betreuung durch die Handelskammer, Endreinigung, Personal Handelskammer, Antrag auf Nutzungsänderung)
 
- GEMA (Kosten circa 450,00 Euro)
+– GEMA (Kosten circa 450,00 Euro)
 
 ### Frage 2
 

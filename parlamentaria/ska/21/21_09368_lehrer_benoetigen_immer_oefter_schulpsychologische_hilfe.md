@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58131"
@@ -49,7 +50,7 @@ Welche psychologischen Unterstützungsangebote bietet die BSB für Hamburger Leh
 
 Wie hat sich die Inanspruchnahme dieser Unterstützungsangebote in den letzten fünf Jahren entwickelt? Bitte anhand der erfolgten Interventionen umfassend darlegen. Bitte die Beratungsinanspruchnahmen aufschlüsseln nach Schularten und Stadtteilen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die psychologischen Unterstützungsangebote sind in der für Bildung zuständigen Behörde ein Bestandteil des Gesundheitsmanagement und dienen dem Ziel, Gesundheit, Arbeitszufriedenheit und Leistungsfähigkeit zu erhalten und vorhandene Ressourcen zu stärken. Prävention ist der allgemeine Oberbegriff für alle Interventionen, die zur Vermeidung oder Verringerung des Auftretens, der Ausbreitung und der negativen Auswirkungen von Krankheiten oder Gesundheitsstörungen, zu denen auch Belastungs- und Krisensituationen gehören, beitragen.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2839"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56422"
@@ -71,7 +72,7 @@ Wie viele Hamburger Schüler/-innen sollen seitens des Senats beziehungsweise de
 
 Wie sieht die weitere Zeitplanung des Senats beziehungsweise der zuständigen Fachbehörde aus, um das Versprechen des Ersten Bürgermeisters, alle Schüler/-innen sollen einmal ein Konzert in der Elbphilharmonie erleben, einzulösen? (Bitte Planungen und Schüler-/-innenzahlen ab 2018 folgend darstellen.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Planungen der HamburgMusik erfolgen saisonbezogen jeweils vom 1. August bis zum 31. Juli eines Jahres, eine Saison entspricht damit ungefähr einem Schuljahr. Pro Saison wird mit Kapazitäten für circa 25.000 Schülerinnen und Schüler für Musikveranstaltungen in der Elbphilharmonie geplant. Dies gilt ab der ersten regulären Saison 2017/2018. Im Übrigen siehe Drs. 21/2839.
 
@@ -99,7 +100,7 @@ Wie genau soll der Besuch der Elbphilharmonie durch die bestehende Hamburger Sch
 
 Ist nach gegenwärtiger Planung des Senats beziehungsweise der zuständigen Fachbehörde vorgesehen, dass die Kosten für den versprochenen einmaligen Besuch eines Elbphilharmoniekonzertes aller Hamburger Schüler/-innen im Schuljahr 2016/2017 komplett von der Freien und Hansestadt Hamburg getragen werden? Wenn nein, weshalb nicht und wie viel soll dann seitens der Schüler/- innen/Eltern zum Eintrittspreis zugezahlt werden müssen? (Bitte begründen und Zuzahlungsbetrag in absoluten Euro- und Cent-Beträgen sowie in Prozent zum Eintrittsvollpreis angeben.)
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 HamburgMusik hat in Abstimmung mit der Kulturbehörde, der Behörde für Bildung und Schule und dem Landesinstitut für Lehrerbildung und Schulentwicklung Veranstaltungsformate entwickelt und Informationsmaterialen erstellt. Das aktuelle Schulprogramm findet sich unter https://www.elbphilharmonie.de/de/schule-und-kita und https://issuu.com/elbphilharmonie/docs/schulbroschuere_a5_0831_bl__tter_we.
 
@@ -113,7 +114,7 @@ Ist nach gegenwärtiger Planung des Senats beziehungsweise der zuständigen Fach
 
 Welche Gesamtkosten wird die Einlösung des Versprechens von Bürgermeister Scholz, jede/r Schüler/-in in Hamburg soll einmal ein Konzert in der Elbphilharmonie erleben, nach gegenwärtigem Planungsstand des Senats beziehungsweise der zuständigen Fachbehörde für die Schüler-/- innenschaft des Jahrgangs 2016/2017 verursachen? Wie soll diese Summe finanziert werden und wo genau ist/wird sie im derzeitigen Haushalts-Entwurf für 2017 und 2018 hinterlegt? (Bitte voraussichtliche Summe in absoluten Euro-Beträgen samt Finanzierungsansatz mit Einzelplan, Aufgabenbereich und Produktgruppe im Haushalt angeben.)
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Für alle Angebote der HamburgMusik im Bereich Musikvermittlung gilt ein Eintrittspreis von 5 Euro pro Person. In diesem Preis ist bereits die Fahrkarte für den HVV enthalten. Die Entscheidung für die Erhebung eines Eintrittspreises ist gefallen, um einerseits eine Verbindlichkeit zu gewährleisten und eine musikalische Wertigkeit zu vermitteln und andererseits die Angebote anderer Veranstalter im Bereich Musikvermittlung nicht zu verdrängen. Die begleitenden Lehrerinnen und Lehrer können Schülerinnen und Schüler, für die der Eintrittspreis eine Hürde darstellt, unbürokratisch vom Eintrittspreis befreien lassen, siehe dazu https://www.elbphilharmonie.de/de/schuleund-kita.
 

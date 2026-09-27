@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50140"
@@ -293,17 +294,17 @@ Hamburg Port Authority Anstalt des
 öffentlichen Rechts (HPA)
 
 Gemäß ihren Treasury-Richtlinien darf die HPA folgende Produkte nutzen:
-• Anlagen bei Banken, die dem Einlagensicherheitsfonds oder dem Landesbankensicherheitsfond angehören.
-• Anlagen auf Kontokorrentkonten auf Euribor oder Eonia Basis mit Abschlägen
-• Passivisches Tagesgeld (bis 29 Tage)
-• Passivisches Monatsgeld für 1, 2, 3, 4, 5, oder 6 Monate
-• Anlagen in Schuldscheindarlehen bis maximal 6 Monate, vorausgesetzt diese unterliegen dem Einlagensicherungsfonds.
-• Anlagen in kurzfristigen Unternehmensanleihen bis maximal 6 Monate unter der Voraussetzung, dass es sich um ein deutsches Unternehmen mit einem Rating von mindestens A handelt. Bezüglich der Kreditinstitute gelten folgende Kriterien:
-• sie sollten die HPA als öffentlichen Schuldner und als pfandbrieffähig anerkennen, Rating für HPA = BBB oder besser, um gute Konditionen zu erzielen
-• sie sollten selbst pfandbrieffähig sein, um gute Einstandssätze zu erzielen
-• sie sollten Finanzierungsstrukturierung beherrschen
-• sie sollen öffentlich geförderte Kredite (z.B. KfW) vermitteln können
-• sie sollten sich, genau wie die HPA, an die Regeln der Gleichbehandlung der Kreditinstitute halten
+– Anlagen bei Banken, die dem Einlagensicherheitsfonds oder dem Landesbankensicherheitsfond angehören.
+– Anlagen auf Kontokorrentkonten auf Euribor oder Eonia Basis mit Abschlägen
+– Passivisches Tagesgeld (bis 29 Tage)
+– Passivisches Monatsgeld für 1, 2, 3, 4, 5, oder 6 Monate
+– Anlagen in Schuldscheindarlehen bis maximal 6 Monate, vorausgesetzt diese unterliegen dem Einlagensicherungsfonds.
+– Anlagen in kurzfristigen Unternehmensanleihen bis maximal 6 Monate unter der Voraussetzung, dass es sich um ein deutsches Unternehmen mit einem Rating von mindestens A handelt. Bezüglich der Kreditinstitute gelten folgende Kriterien:
+– sie sollten die HPA als öffentlichen Schuldner und als pfandbrieffähig anerkennen, Rating für HPA = BBB oder besser, um gute Konditionen zu erzielen
+– sie sollten selbst pfandbrieffähig sein, um gute Einstandssätze zu erzielen
+– sie sollten Finanzierungsstrukturierung beherrschen
+– sie sollen öffentlich geförderte Kredite (z.B. KfW) vermitteln können
+– sie sollten sich, genau wie die HPA, an die Regeln der Gleichbehandlung der Kreditinstitute halten
 
 Betriebs- und Geschäftsgeheimnis, da Rückschlüsse auf Geschäftsgebahren möglich
 

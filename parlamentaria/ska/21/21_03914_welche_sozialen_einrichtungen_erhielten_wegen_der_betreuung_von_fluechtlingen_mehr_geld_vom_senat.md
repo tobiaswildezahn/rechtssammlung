@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2537", "21/1395", "21/3692"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52271"
@@ -70,15 +71,15 @@ Bezogen auf Einrichtungen der regionalen Kinder- und Jugendarbeit, der regionale
 
 Ziele:
 
- Gute Entwicklungschancen für Kinder und Jugendliche und
+– Gute Entwicklungschancen für Kinder und Jugendliche und
 
- gesellschaftliche Teilhabe von Flüchtlingsfamilien im Sozialraum ermöglichen,
+– gesellschaftliche Teilhabe von Flüchtlingsfamilien im Sozialraum ermöglichen,
 
 indem
 
- Kinder, Heranwachsende und Familien in Regelangebote integriert sowie
+– Kinder, Heranwachsende und Familien in Regelangebote integriert sowie
 
- Eltern in den Bereichen Bildung, Erziehung und Alltagskompetenz unterstützt
+– Eltern in den Bereichen Bildung, Erziehung und Alltagskompetenz unterstützt
 
 werden.
 

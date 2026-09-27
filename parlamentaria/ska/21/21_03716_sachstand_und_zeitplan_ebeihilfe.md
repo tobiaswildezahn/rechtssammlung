@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2360"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52083"
@@ -43,7 +44,7 @@ Wie sind derzeit der genaue Sachstand und der Zeitplan zur Einführung des Proje
 
 Hat es inzwischen einen neuen Abnahmetest gegeben? Wenn ja, wann und mit welchen Ergebnissen im Einzelnen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Entwicklungsarbeiten für eBeihilfe, Stufe 1a sind abgeschlossen. Der Abnahmetest des für eBeihilfe angepassten Fachverfahrens PERMIS B wurde am 7. März 2016 erneut gestartet. Nach erfolgreicher Abnahme werden die PERMIS-B-Erweiterungen in die Produktionsumgebung eingespielt, danach erfolgen Pilotierung und Produktivsetzung.
 

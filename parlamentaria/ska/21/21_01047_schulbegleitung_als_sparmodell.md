@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 19
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49218"
@@ -97,7 +98,7 @@ Treffen die Angaben des Elternrats der Stadtteilschule Alter Teichweg zu, dass a
 
 Werden auch an anderen Schulen FSJ-Kräfte eingesetzt in Fällen, in denen ein sonderpädagogisches Gutachten explizit geschultes Fachpersonal fordert? Wenn ja: An welchen Schulen und warum?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Nein. Während das sonderpädagogische Gutachten die fachliche Grundlage zur Feststellung eines sonderpädagogischen Förderbedarfs gemäß § 12 Hamburgisches Schulgesetz bietet, in dessen Rahmen der Bedarf für eine Schulbegleitung im Sinne einer Tätigkeitsbeschreibung benannt werden kann, erfolgt die Klärung der Frage nach der erforderlichen Qualifikation einer Schulbegleitung im Rahmen einer Fachberatung, die neben dem individuellen Unterstützungsbedarf der Schülerin beziehungsweise des Schülers auch die Gesamtsituation in der Lerngruppe berücksichtigt.
 
@@ -113,7 +114,7 @@ Wenn FSJ- und BFD-Kräfte für die Schulbegleitung eingesetzt werden: Wie stellt
 
 Wie bewertet der Senat den Einsatz von ungeschultem Personal bei der Schulbegleitung im Hinblick auf das Gelingen des übergeordneten Ziels der Inklusion?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Freiwilligendienste bieten nicht allein ein Beschäftigungsprogramm für junge Erwachsene, sondern zugleich ein gesetzlich geregeltes Bildungsangebot an, das dazu dient, zentrale soziale und gesellschaftliche Erfahrungen zu vermitteln. Hierzu sind neben der Tätigkeit in einer Schule oder sonstigen sozialen Einrichtungen Seminarwochen in einem klar definierten Umfang vorgesehen, die von den Trägern gezielt genutzt werden, um die Teilnehmerinnen und Teilnehmer auf die Aufgaben ihrer jeweiligen Tätigkeit vorzubereiten. Neben diesen Seminaren bieten einzelne ReBBZ sowie Schulen als Einsatzstellen bei Bedarf zusätzliche Angebote an, um die Freiwilligendienstler in spezifische Fragestellungen einzuführen. Es wird daher kein ungeschultes Personal eingesetzt.
 

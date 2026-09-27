@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59568"
@@ -43,7 +44,7 @@ In welcher Höhe wurden bisher Pachtzahlungen für die Nutzung des Spielbudenpla
 
 In welcher Höhe werden künftig Pachtzahlungen für die Nutzung des Spielbudenplatzes vonseiten der „Spielbudenplatz Betreibergesellschaft“ entrichtet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bisher wurde keine Pacht gezahlt, künftig soll eine Pacht von 40.000 Euro pro Jahr zuzüglich 3 Prozent vom Umsatz aus den Platz- und Standmieten gezahlt werden.
 

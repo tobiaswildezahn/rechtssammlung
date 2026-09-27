@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54559"
@@ -51,7 +52,7 @@ In welcher Höhe hat der Bund in den Jahren 2013 – 2015 Zuschüsse zum BAföG 
 
 In welcher Höhe wurden in den Jahren 2013 – 2015 BAföG-Mittel an Studierende ausgezahlt? Bitte jeweils nach den Förderarten aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Statistisches Bundesamt, Fachserie 11 Reihe 7 und Vorbemerkung.
 

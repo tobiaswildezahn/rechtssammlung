@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/8472", "20/12733", "20/6934", "21/2683"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51226"
@@ -57,7 +58,7 @@ Die Schulbehörde unter Schulsenator Rabe braucht immer länger, um die Ergebnis
 
 November, die Ergebnisse der Schulabgängerbefragung 2014 am 24. November und die der Schulabgängerbefragung 2015 erst am 18. Dezember vorgelegt. Warum dauert die Auswertung der Schulabgängerbefragung immer länger?
 
-#### Antwort zu Fragen 1, 3
+#### Antwort zu Fragen 1 und 3
 
 Die Verschiebungen der Auswertungen sind zum Teil dem sich verändernden Schuljahresbeginn geschuldet. Die Zeit, die für die Qualitätssicherung der Zahlen benötigt wurde, und andere terminliche Gründe führten zu einer Verzögerung bei der Veröffentlichung. Im Übrigen siehe Antwort zu 4.
 

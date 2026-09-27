@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/5530", "20/7049"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50316"
@@ -67,47 +68,47 @@ Das Referat Integration von Zuwanderern (AI 21) ist – neben den Referaten Stä
 
 Zu den Aufgaben des Referats AI 21 zählen derzeit:
 
- Grundsatzaufgaben zur Integration von Zuwanderinnen und Zuwanderer ein-
+– Grundsatzaufgaben zur Integration von Zuwanderinnen und Zuwanderer ein-
 
 schließlich Abstimmung mit Bund und Ländern im Bereich Integration,
 
- die Steuerung der Umsetzung und Weiterentwicklung des Hamburger Integrations-
+– die Steuerung der Umsetzung und Weiterentwicklung des Hamburger Integrations-
 
 konzeptes,
 
- das Management und die Weiterentwicklung des Hamburger Integrationsbeirats,
+– das Management und die Weiterentwicklung des Hamburger Integrationsbeirats,
 
- die Koordinierung des Asyl-, Migrations- und Flüchtlingsfonds (AMIF) sowie des
+– die Koordinierung des Asyl-, Migrations- und Flüchtlingsfonds (AMIF) sowie des
 
 Europäischen Hilfsfonds für die am stärksten benachteiligten Personen (EHAP),
 
- die Durchführung der Aufnahmeverfahren für Schutzbedürftige aus den Bund-
+– die Durchführung der Aufnahmeverfahren für Schutzbedürftige aus den Bund-
 
 Länder-Programmen,
 
- Grundsatzaufgaben und Steuerung der Hamburger Programme zur Sprachförde-
+– Grundsatzaufgaben und Steuerung der Hamburger Programme zur Sprachförde-
 
 rung für erwachsene Zugewanderte, Asylsuchende und Geduldete,
 
- Grundsatzaufgaben und Steuerung der Hamburger Programme zur Migrationsbe-
+– Grundsatzaufgaben und Steuerung der Hamburger Programme zur Migrationsbe-
 
 ratung für erwachsene Zugewanderte, Asylsuchende und Geduldete,
 
- die Förderung der freiwilligen Rückkehr von Ausländerinnen und Ausländern,
+– die Förderung der freiwilligen Rückkehr von Ausländerinnen und Ausländern,
 
- Grundsatzaufgaben und Steuerung der Antidiskriminierungsberatung für Men-
+– Grundsatzaufgaben und Steuerung der Antidiskriminierungsberatung für Men-
 
 schen mit Migrationshintergrund,
 
- die Integration der Roma und Sinti,
+– die Integration der Roma und Sinti,
 
- die Förderung von Integrationsprojekten (insbesondere von Migrantenorganisatio-
+– die Förderung von Integrationsprojekten (insbesondere von Migrantenorganisatio-
 
 nen),
 
- die Förderung von Einbürgerungen,
+– die Förderung von Einbürgerungen,
 
- Grundsatzfragen nach dem Bundesvertriebenengesetz sowie der Integration von
+– Grundsatzfragen nach dem Bundesvertriebenengesetz sowie der Integration von
 
 Spätaussiedlern und der jüdischen Kontingentflüchtlinge.
 

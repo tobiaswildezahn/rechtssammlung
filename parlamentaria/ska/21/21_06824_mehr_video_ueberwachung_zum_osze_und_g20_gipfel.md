@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14659"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55383"
@@ -219,6 +220,6 @@ Ist geplant, bei Demonstrationen im Zusammenhang mit den Gipfeln Übersichtsaufn
 
 Ist geplant, bei Demonstrationen im Zusammenhang mit den Gipfeln Beweissicherungsfahrzeuge zur standardmäßigen Videoüberwachung mit Übertragung der Bilder auf Monitore einzusetzen? Sollen auch friedliche Versammlungen mit Kamera-Ausrichtung auf die Demonstranten/- innen beobachtet werden? Wenn ja, bitte zu beiden Fragen die Rechtsgrundlage angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nein. Im Übrigen siehe Drs. 20/14659.

@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 12
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18749"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68491"
@@ -61,7 +62,7 @@ Dies vorausgeschickt, beantwortet der Senat die Fragen teilweise auf Grundlage v
 
 „Dies hat sich wider Erwarten nicht bestätigt. Die Bäderland Hamburg GmbH hat daher die Erhöhung der Fördersumme für den Bau der Halle um rund 1.520 Tsd. Euro beantragt.“ (Drs. 21/18749.) a. Seit wann genau ist jeweils welchen Stellen bekannt, dass für dieses Bauvorhaben keine Umsatzsteuerbefreiung in Anspruch genommen werden kann? b. Welche Änderungen in der Beurteilung der umsatzsteuerlichen Fragestellungen für dieses Bauvorhaben haben sich seit dem Projektstart jeweils wann durch welche Urteile, Anwendungserlasse oder ähnlichen Vorgänge ergeben?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 19
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64558"
@@ -51,13 +52,13 @@ Der bisherige Status der PEPKO-Unternehmen in der Aufsicht einer Landesbehörde 
 
 Vor diesem Hintergrund sucht der Senat einen neuen Gesellschafter für die PEPKO- Unternehmen, der sicherstellen soll, dass
 
- die Angebote der beruflichen Rehabilitation und Integration für die Metropolregion
+– die Angebote der beruflichen Rehabilitation und Integration für die Metropolregion
 
 erhalten bleiben beziehungsweise sogar ausgebaut werden können,
 
- die Arbeitsplätze der Beschäftigten gesichert werden und
+– die Arbeitsplätze der Beschäftigten gesichert werden und
 
- die PEPKO-Unternehmen flexibel am Markt agieren können.
+– die PEPKO-Unternehmen flexibel am Markt agieren können.
 
 Kommt es zu einem Eigentümerwechsel, bedeutete dies, dass die PEPKO-Unternehmen ihre Dienstleistungen künftig als freie Träger unter neuer Regie anbieten könnten. Damit wären sie ihren Wettbewerbern am Markt gleichgestellt. Daher ist das gewählte Vorgehen eine bewusste und gewollte Freigabe der Unternehmen in den Markt, um so deren Zukunft zu sichern und zu verbessern.
 
@@ -170,7 +171,7 @@ Welche Maßnahmen wurden getroffen, um einen Verkauf noch zu verhindern?
 
 Welche Alternativen sehen Senat beziehungsweise zuständige Behörde zu einem Verkauf?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Vorbemerkung und Antwort zu 11.
 

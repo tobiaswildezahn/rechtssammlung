@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14986", "21/15718"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67481"
@@ -51,15 +52,15 @@ Welche Änderungen haben sich bei dieser Immobilientransaktion im Einzelnen gege
 
 Gegenüber den Angaben in Drs. 21/14986 sowie der im Zuge der Ausschussberatungen vorgelegten Kaufvertragsentwürfe haben sich im Einzelnen folgende Änderungen ergeben:
 
- Für das Objekt Bredenbekstraße 63 gibt es gegebenenfalls alternative Entwick-
+– Für das Objekt Bredenbekstraße 63 gibt es gegebenenfalls alternative Entwick-
 
 lungsplanungen, die jedoch noch nicht abgeschlossen sind, daher wurde das Objekt vorerst aus dem Übertragungspaket entnommen.
 
- Das Objekt Flora-Neumann-Straße 3 umfasst nur noch das Flurstück 80, Gemar-
+– Das Objekt Flora-Neumann-Straße 3 umfasst nur noch das Flurstück 80, Gemar-
 
 kung St. Pauli Nord, da das Flurstück 1896, Gemarkung St. Pauli Nord sich weiterhin im Verwaltungsvermögen der Behörde für Schule und Berufsbildung befindet.
 
- Das Objekt Claus-Ferck-Straße 43 wurde um die Flurstücke 7681 und 7682
+– Das Objekt Claus-Ferck-Straße 43 wurde um die Flurstücke 7681 und 7682
 
 Gemarkung Volksdorf erweitert, da die beiden Flurstücke durch das zu veräußernde Gebäude überbaut sind und die Bezirksverwaltung letztendlich einer Mitveräußerung zugestimmt hat.
 
@@ -71,6 +72,6 @@ In der Drs. 21/15718 hatte der Senat berichtet, dass die Planungen und Überlegu
 
 Plant oder erwägt der Senat derzeit, weitere Bestandsimmobilien vom LIG an die Sprinkenhof zu übertragen? Wenn ja, welche Objekte aus welchen Gründen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Überlegungen und Planungen sind nach wie vor noch nicht abgeschlossen.

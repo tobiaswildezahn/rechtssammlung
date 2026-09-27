@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 25
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57023"
@@ -52,21 +53,21 @@ Welche Funktion erfüllt der Elbuferradweg innerhalb des städtischen Radwegenet
 
 Die Radverkehrsverbindung entlang des nördlichen Elbufers erfüllt mehrere Funktionen:
 
- Sie ist Bestandteil des Europäischen Radfernwegenetzes (EuroVelo-Netz, siehe
+– Sie ist Bestandteil des Europäischen Radfernwegenetzes (EuroVelo-Netz, siehe
 
 www.eurovelo.com), hier der EuroVelo-Route Nummer 3 (Pilgerroute von Trondheim nach Santiago de Compostela) und der EuroVelo-Route Nummer 12 (North Sea Cycle Route/Nordseeküstenradweg).
 
- Sie ist Bestandteil des deutschlandweiten Radfernwegenetzes (D-Netz, siehe
+– Sie ist Bestandteil des deutschlandweiten Radfernwegenetzes (D-Netz, siehe
 
 www.radnetz-deutschland.de), hier der D-Route Nummer 10 (Elberadweg). Der Elberadweg ist seit vielen Jahren der beliebteste Radfernweg Deutschlands, wie die alljährliche Radreiseanalyse des Bundesverbandes des Allgemeinen Deut-
 
 schen Fahrrad-Clubs e.V. (ADFC) zeigt. Auch Hamburg profitiert von diesen Fahrradtouristen.
 
- Sie ist Bestandteil des Hamburger Freizeitroutennetzes, hier der Freizeitroute
+– Sie ist Bestandteil des Hamburger Freizeitroutennetzes, hier der Freizeitroute
 
 Nummer 8.
 
- Sie ist Bestandteil des bezirklichen Radroutennetzes des Bezirks Altona für den
+– Sie ist Bestandteil des bezirklichen Radroutennetzes des Bezirks Altona für den
 
 Alltagsradverkehr und stellt trotz der Schiebestrecke eine wichtige Verbindung für Radfahrerinnen und Radfahrer von den Hamburger Elbvororten nach Altona und in die Innenstadt dar.
 
@@ -192,7 +193,7 @@ Hat man bei der Umsetzung der Idee, einen hochwassersicheren Radweg über den El
 
 Hat man auch Überlegungen angestellt, wie die Fußgänger und Strandbesucher gegen den auf der ausgebauten Strecke sicher leicht 30 bis 35 km/h schnellen Radverkehr zu schützen sind? Wenn ja: Zu welchen Lösungen ist man dabei gekommen? Wenn nein: Warum wurde das Problem bisher nicht erkannt?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Bei den vorliegenden Entwürfen handelt es sich um grobe Vorplanungen, die eine mögliche Wegeführung darstellen. Eine Prüfung der technischen und rechtlichen Machbarkeit ist bislang nicht erfolgt. Insofern gibt es derzeit noch keine Überlegungen in Bezug auf Ausgleichsmaßnahmen.
 

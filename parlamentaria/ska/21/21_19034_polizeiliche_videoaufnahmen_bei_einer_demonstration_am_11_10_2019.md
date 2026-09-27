@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68716"
@@ -53,7 +54,7 @@ Aus welchen Gründen und zu welchem Zweck erfolgten die Videoaufnahmen der Versa
 
 Auf welcher Rechtsgrundlage erfolgten die Videoaufnahmen der Versammlung? Bitte angeben, aus welchen Gründen die Tatbestandsmerkmale der Rechtsgrundlage gegeben waren.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Polizei hat die Videoaufzeichnungen auf Grundlage von § 100h i.V.m. §§ 161, 163 Strafprozessordnung (StPO) angefertigt. Im Übrigen siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 18
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9187"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61403"
@@ -43,7 +44,7 @@ Sind Fort- oder Weiterbildungsmaßnahmen für die Mitarbeiter des ASD verpflicht
 
 Werden die Fortbildungsmaßnahmen intern oder extern durchgeführt? Sofern die Fortbildungen extern durchgeführt werden, durch welche Institutionen geschieht dies? Wie stellt die zuständige Behörde die Qualität der Fortbildungsmaßnahmen sicher?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für neue Mitarbeiterinnen und Mitarbeiter im ASD ist die Teilnahme an der Weiterbildung „Neu im ASD“ im Sozialpädagogischen Fortbildungszentrum (SPFZ) der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) sowie am „JUS-IT Einführungskurs“ bei dem IT-Dienstleister Dataport-Training verpflichtend. Im ersten Jahr nach Einstellung sind dies insgesamt 24 Tage, im zweiten Jahr sieben Tage. Die verpflichtenden Fortbildungen werden als Gruppenpräsenzseminare in den Räumlichkeiten des SPFZ beziehungsweise bei Dataport-Training/dem Zentrum für Aus- und Fortbildung (ZAF) durchgeführt.
 
@@ -73,7 +74,7 @@ Gibt es im Sinne von Fortbildungsmaßnahmen auch E-Learning- Angebote für die M
 
 Wenn keine E-Learning-Angebote zur Verfügung stehen: Sind derartige Angebote in Planung? Wenn ja, wie sieht das Konzept der geplanten E-Learning-Angebote aus und bis wann soll dieses umgesetzt werden? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die 28 E-Learning-Angebote des ZAF stehen auch den Mitarbeiterinnen und Mitarbeitern der ASD über die dienstlichen PCs zu Verfügung. Zu jedem E-Learning-Angebot des ZAF gibt es grundsätzlich als Pendant ein Präsenz-Angebot. Im Übrigen siehe Antwort zu 1. und 2.
 

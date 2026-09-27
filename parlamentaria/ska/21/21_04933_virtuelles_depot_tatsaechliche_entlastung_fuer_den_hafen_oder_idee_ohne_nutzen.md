@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 20
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53368"
@@ -47,7 +48,7 @@ Wie ist der aktuelle Stand zu dem Projekt „virtuelles Depot“? In welcher Pha
 
 Wie sind die Ergebnisse des ersten Testbetriebs und wie funktioniert das Projekt derzeit? Gibt es Abweichungen zu den ursprünglichen Planungen? Wenn ja, welche und warum?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Projekt befindet sich derzeit in der Pilotphase im Testbetrieb.
 
@@ -61,7 +62,7 @@ Wie viele Unternehmen und Reedereien beteiligen sich an dem Projekt „virtuelle
 
 Wie viele Unternehmen haben sich bisher tatsächlich über das „virtuelle Depot“ informiert, wo welche Container frei sind und dann direkt untereinander leere Boxen ausgetauscht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Insgesamt beteiligen sich derzeit 22 Unternehmen und Reedereien an dem Projekt. Weitere sechs Unternehmen haben ebenfalls Interesse bekundet.
 
@@ -99,7 +100,7 @@ Wie hoch sind die derzeitigen und wie hoch sind die geplanten Kosten für das �
 
 Welche Kosten in welcher Höhe hat die Freie und Hansestadt Hamburg beziehungsweise die HPA zu tragen? Aus welcher Produktgruppe welches Haushaltsplans sollen diese Kosten finanziert werden?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Mit Abschluss der Pilotphase belaufen sich die Kosten auf circa 72.000 Euro und sind im Wirtschaftsplan der HPA veranschlagt.
 

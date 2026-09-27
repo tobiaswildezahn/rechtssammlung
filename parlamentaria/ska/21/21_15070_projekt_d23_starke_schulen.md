@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13975", "21/10460", "21/4177"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64528"
@@ -67,7 +68,7 @@ Welche Forderungen beziehungsweise konkreten Arbeitsnachweise, wie etwa ein eige
 
 Welche Zielvorgaben sind mit dem Projekt verbunden? Bitte darstellen: a. für jede Schule einzeln,
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 

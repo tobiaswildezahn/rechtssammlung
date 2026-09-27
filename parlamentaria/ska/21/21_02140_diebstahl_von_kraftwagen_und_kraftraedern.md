@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13512", "16/4616", "20/1728"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50397"
@@ -43,7 +44,7 @@ Wie hat sich die Zahl von Diebstählen an Kraftwagen (PKS-Schlüssel ***1) und K
 
 Wie hoch ist die Aufklärungsquote jeweils gewesen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Aussagekraft der PKS ist auf Jahresauswertungen ausgelegt. Innerhalb eines Berichtsjahres unterliegt der PKS-Datenbestand einer ständigen Pflege, zum Beispiel durch Hinzufügen von nachträglich ermittelten Tatverdächtigen oder die Herausnahme von Taten, die sich im Nachhinein nicht als Straftat erwiesen haben. Zur begrenzten Aussagekraft unterjähriger Daten in diesem Zusammenhang siehe Drs. 16/4616.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/705"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49535"
@@ -45,7 +46,7 @@ Wie viele Widersprüche wurden im Anmeldeverfahren für das Schuljahr 2015/2016 
 
 Wie viele der vorgenannten Widersprüche im Anmeldeverfahren für das Schuljahr 2015/2016 gegen die Zuweisung zu einer Grundschule wurden bisher wie beschieden und wie viele wurden noch nicht abschließend bearbeitet? (Bitte für jeden Fall angeben, wann der jeweilige Widerspruch eingegangen ist und wann er gegebenenfalls beschieden wurde beziehungsweise, sofern eine Entscheidung noch aussteht, zu wann diese verbindlich zu erwarten ist.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1 sowie Drs. 21/705. Widerspruchsverfahren sind insbesondere deshalb noch nicht abgeschlossen, weil gerichtliche Entscheidungen ausstehen oder Erklärungen der Sorgeberechtigten abgewartet werden müssen. Der zuständigen Behörde ist es daher nicht möglich, eine verbindliche Aussage zum Abschluss der wenigen noch nicht abschließend bearbeiteten Verfahren zu machen.
 
@@ -65,7 +66,7 @@ Wie viele Widersprüche wurden im Anmeldeverfahren für das Schuljahr 2015/2016 
 
 Wie viele der vorgenannten Widersprüche im Anmeldeverfahren für das Schuljahr 2015/2016 gegen die Zuweisung zu einer Stadtteilschule wurden bisher wie beschieden und wie viele wurden noch nicht abschließend bearbeitet? (Bitte für jeden Fall angeben, wann der jeweilige Widerspruch eingegangen ist und wann er gegebenenfalls beschieden wurde beziehungsweise, sofern eine Entscheidung noch aussteht, zu wann diese verbindlich zu erwarten ist.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage 3 sowie Drs. 21/705. Im Übrigen siehe Antwort zu 1. und 2.
 

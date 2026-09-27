@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17044", "21/10750", "21/16908", "21/12151"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66777"
@@ -49,7 +50,7 @@ Auf welchen Erkenntnissen der Polizei Hamburg beruht die Feststellung, dass gege
 
 Wie wurden diese Erkenntnisse zur Einschätzung der Gefährdung gewonnen, wenn sie nicht mit dem Risikobewertungsinstrument RADAR- iTE beurteilt worden sind?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Einstufung zum Gefährder erfolgt nach Betrachtung des jeweiligen Einzelfalls. Der Polizei liegen in diesem Fall keine konkreten gefahrenbegründenden Tatsachen vor. Somit erfolgte auch keine Gefährdungseinschätzung.
 
@@ -71,7 +72,7 @@ War Omaima A. der Arbeitsrate Zentrale Hinweisaufnahme (ZHA) bekannt?
 
 Zählte die Person Omaima A. zu einem der 400 Altfälle, die einer erneuten Überarbeitung unterzogen worden sind (vergleiche Drs. 21/10750)? Wenn ja, in welche der vier Kategorien (0 – 3) wurde sie eingestuft?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nein.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66908"
@@ -67,7 +68,7 @@ Wie lange dauert die Bearbeitung eines Online-Antrags im Durchschnitt?
 
 Wie lange dauert die Bearbeitung eines herkömmlichen Kita-Gutschein- Antrags im Durchschnitt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Grundsätzlich ist die Art der Antragstellung für die Bearbeitungsdauer unerheblich. Die Bearbeitungsdauer für Anträge im Bereich des allgemeinen Rechtsanspruchs für bis zu fünf Stunden Betreuung täglich mit Mittagessen ist in den Bezirksämtern unterschiedlich und beträgt aktuell von wenigen Tage bis hin zu acht Wochen. Eine statistische Erfassung dieser Daten durch die Bezirksämter erfolgt nicht.
 

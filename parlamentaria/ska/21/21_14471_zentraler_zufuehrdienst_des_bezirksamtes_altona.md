@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63897"
@@ -56,39 +57,39 @@ Der Zuführdienst ist durch die Anordnung des Senats zur Durchführung des Hambu
 
 Hierzu gehören
 
- die Entgegennahme, Bearbeitung und Entscheidung über Anträge auf sofortige
+– die Entgegennahme, Bearbeitung und Entscheidung über Anträge auf sofortige
 
 Unterbringung psychisch Kranker sowie die Organisation der Zuführung (administrative Aufgaben);
 
- die Durchführung von Vollstreckungsaufträgen zur zwangsweisen Unterbringung
+– die Durchführung von Vollstreckungsaufträgen zur zwangsweisen Unterbringung
 
 von psychisch kranken, verwahrlosten oder hilflosen Personen in der geschlossenen Abteilung eines Krankenhauses oder einer anderen Anstalt geeigneten Einrichtung;
 
- die Unterstützung von Betreuern bei der Zuführung zum Zwecke der Unterbringung
+– die Unterstützung von Betreuern bei der Zuführung zum Zwecke der Unterbringung
 
 (§ 1906 BGB) in die geschlossene Abteilung eines Krankenhauses oder einer anderen Einrichtung;
 
- die Einleitung Durchführen von Fahndungsmaßnahmen nach entwichenen psy-
+– die Einleitung Durchführen von Fahndungsmaßnahmen nach entwichenen psy-
 
 chisch Kranken und Rückführung in die Unterbringungsanstalten;
 
- das Durchführen von Fahndungen nach psychisch Kranken ohne festen Wohnsitz
+– das Durchführen von Fahndungen nach psychisch Kranken ohne festen Wohnsitz
 
 beziehungsweise entwichenen Kranken unter Zuhilfenahme der Fahndungsmittel der Polizei und im Zusammenwirken mit der Polizei;. Inverwahrnahme und Vorführen der Personen;
 
- das Durchführen von Vollstreckungsaufträgen gegenüber Personen, die krank,
+– das Durchführen von Vollstreckungsaufträgen gegenüber Personen, die krank,
 
 krankheits- oder ansteckungsverdächtig im Sinne des Infektionsschutzgesetzes sind und daher einer Krankenanstalt oder entsprechenden Einrichtungen zugeführt werden müssen;
 
- das Sicherstellen von persönlichem Eigentum, Wohnungssicherung, Wertsachen-
+– das Sicherstellen von persönlichem Eigentum, Wohnungssicherung, Wertsachen-
 
 sicherung, Einleitung von Sofortmaßnahmen zur Unterbringung und Versorgung abhängiger Personen und lebenden Inventars;
 
- das Einleiten von Maßnahmen zur Beseitigung von Zuständen, die die öffentliche
+– das Einleiten von Maßnahmen zur Beseitigung von Zuständen, die die öffentliche
 
 Hygiene, Sicherheit und Ordnung stören, eventuell Einsatz körperlicher Gewalt; Hinzuziehen von Hilfspersonen wie Polizei, Feuerwehr, Schlosser, Treffen von Maßnahmen zur Gefahrenabwehr nicht nur gegenüber den Betroffenen selbst, sondern auch gegenüber Dritten;
 
- die Bearbeitung und Steuerung der Vorgänge im Zusammenhang mit Unterbrin-
+– die Bearbeitung und Steuerung der Vorgänge im Zusammenhang mit Unterbrin-
 
 gungen durch den Zuführdienst, Dienstplanung und Koordination des psychiatrischen Notdienstes.
 
@@ -207,64 +208,64 @@ Welchen Ablauf hat die Durchsetzung von Einweisungsverfügungen in der Regel?
 
 Der Ablauf von Unterbringungen psychisch kranker Menschen gemäß § 12 HmbPsychKG (öffentlich-rechtliche Unterbringung) stellt sich in der Regel wie folgt dar:
 
- Niedergelassene Fachärztinnen und Fachärzte der Psychiatrie und Psychotherapie
+– Niedergelassene Fachärztinnen und Fachärzte der Psychiatrie und Psychotherapie
 
 oder der Neurologie beziehungsweise Krankenhausärztinnen und -ärzte in der Psychiatrie und Psychotherapie oder Neurologie sowie die Ärztinnen und Ärzte der sozialpsychiatrischen Dienste und jugendpsychiatrischen Dienste der Fachämter Gesundheit der Bezirksämter stellen nach Untersuchung der betroffenen Person einen Antrag auf Unterbringung gemäß § 12 HmbPsychKG beim Zentralen Zuführdienst im Bezirksamt Altona. Nachgehend erfolgt die Übermittlung des Untersuchungsattests an den Zentralen Zuführdienst.
 
- Der Zuführdienst nimmt die Daten über die unterzubringende Person auf dem
+– Der Zuführdienst nimmt die Daten über die unterzubringende Person auf dem
 
 Antragsaufnahmeformular auf, klärt Besonderheiten, wie zum Beispiel den zusätzlichen Einsatz eines Krankenwagens, etwaige Gefahrenmomente (Hinzuziehung von Polizeieinsatzkräften) und den Sozialversicherungsträger.
 
- Nachfolgend ergeht die schriftliche Entscheidung (akute Eigen- und/oder Fremdge-
+– Nachfolgend ergeht die schriftliche Entscheidung (akute Eigen- und/oder Fremdge-
 
 fährdung) über die Unterbringung gemäß § 12 HmbPsychKG. Maßgeblich dafür ist das Attest einer oder eines in der Psychiatrie erfahrenen Ärztin beziehungsweise Arztes, welches auf einer frühestens am Vortag bei der unterzubringenden Person durchgeführten eigenen Untersuchung beruht.
 
- Anhand der Meldeadresse der unterzubringenden Person wird mittels des soge-
+– Anhand der Meldeadresse der unterzubringenden Person wird mittels des soge-
 
 nannten Sektorverzeichnisses das für die Unterbringung zuständige Krankenhaus ermittelt.
 
- Amtsgerichtsantrag, Unterbringungsverfügung und Gebührenformular werden
+– Amtsgerichtsantrag, Unterbringungsverfügung und Gebührenformular werden
 
 schriftlich erstellt.
 
- Die Unterbringungsverfügung wird an das zuständige Krankenhaus gefaxt, wel-
+– Die Unterbringungsverfügung wird an das zuständige Krankenhaus gefaxt, wel-
 
 ches zusätzlich telefonisch über die Unterbringung informiert wird.
 
- Die Zuführerinnen beziehungsweise Zuführer werden mit der Verfügung und dem
+– Die Zuführerinnen beziehungsweise Zuführer werden mit der Verfügung und dem
 
 Gebührenformular zum jeweiligen Einsatzort (Wohnung der zuzuführenden Person, Polizeirevier oder anderer Aufenthaltsort) entsandt.
 
- Von dort erfolgt die Zuführung der betroffenen Person in das zuständige Kranken-
+– Von dort erfolgt die Zuführung der betroffenen Person in das zuständige Kranken-
 
 haus.
 
- Versendung des Amtsgerichtsantrags an das zuständige Amtsgericht zwecks rich-
+– Versendung des Amtsgerichtsantrags an das zuständige Amtsgericht zwecks rich-
 
 terlicher Anhörung des zugeführten Patienten am Folgetag.
 
 Der Ablauf von Unterbringungen psychisch kranker Menschen gemäß BGB (zivilrechtliche Unterbringung) stellt sich in der Regel wie folgt dar:
 
- Hat eine Betreuerin oder ein Betreuer einen Unterbringungsbeschluss nach § 1906
+– Hat eine Betreuerin oder ein Betreuer einen Unterbringungsbeschluss nach § 1906
 
 BGB erwirkt, nimmt diese oder dieser zum Zwecke der Amtshilfe Kontakt mit dem Zentralen Zuführdienst im Bezirksamt Altona auf.
 
- Die Betreuerin oder der Betreuer sendet den Antragsaufnahmebogen für BGB-
+– Die Betreuerin oder der Betreuer sendet den Antragsaufnahmebogen für BGB-
 
 Unterbringungen einschließlich eventueller Hinweise zu einer möglichen Gefährdung zusammen mit dem Unterbringungsbeschluss und dem Betreuerausweis (in der Regel per Fax) an den Zentralen Zuführdienst im Bezirksamt Altona. Dessen Innendienst stimmt daraufhin einen Termin mit der Betreuerin oder dem Betreuer ab.
 
- Nach Eingang der Unterlagen prüft der Zentrale Zuführdienst den Unterbringungs-
+– Nach Eingang der Unterlagen prüft der Zentrale Zuführdienst den Unterbringungs-
 
 beschluss auf sofortige Wirksamkeit, Genehmigung einer gegebenenfalls erforderlichen Gewaltanwendung und Zutritt zur Wohnung. Besonderheiten des Einzelfalles (Gefährdungsmomente, aufnehmendes Krankenhaus et cetera) werden gegebenenfalls telefonisch geklärt.
 
- Der Innendienst stellt die je nach Zweck der Zuführung (Unterbringung, Vorführung
+– Der Innendienst stellt die je nach Zweck der Zuführung (Unterbringung, Vorführung
 
 zur Untersuchung oder Unterbringung zur Begutachtung) erforderlichen Dokumente zusammen.
 
- Die Dokumente werden zur Terminabsprache an die Abschnittsleitung des Außen-
+– Die Dokumente werden zur Terminabsprache an die Abschnittsleitung des Außen-
 
 dienstes weitergegeben. Die Betreuerin beziehungsweise der Betreuer wird aufgefordert, eine Stunde vor dem Termin der Zuführung diesen telefonisch beim Zentralen Zuführdienst zu bestätigen und den Patienten im zuständigen Krankenhaus anzumelden.
 
- Nach Bestätigung des Termins erfolgt zu diesem der Einsatz der Zuführerinnen
+– Nach Bestätigung des Termins erfolgt zu diesem der Einsatz der Zuführerinnen
 
 beziehungsweise Zuführer im Rahmen der Amtshilfe für die Betreuerin beziehungsweise den Betreuer.

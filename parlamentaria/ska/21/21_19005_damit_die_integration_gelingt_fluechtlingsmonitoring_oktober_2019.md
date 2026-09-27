@@ -14,6 +14,7 @@ fragen: 35
 einzelfragen: 51
 antwortbloecke: 33
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9758", "21/13273", "21/10677", "21/11001", "21/18731", "21/131"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68722"
@@ -844,7 +845,7 @@ Aus wie vielen Mitarbeitern beziehungsweise Vollzeitäquivalenten (VZÄ) besteht
 
 Drs. 21/18731 informiert darüber, dass die neue Stabstelle Flüchtlinge und übergreifende Aufgaben (SFA) in neue Räumlichkeiten zieht. Ist die neue SFA der BASFI unterstellt? Wenn ja, wo ist diese genau in der Struktur angesiedelt? Wenn nein, wie ist die genaue behördliche Zuordnung? Wie erfolgt künftig die Finanzierung?
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Siehe Drs. 21/18731. Darüber hinaus untersteht die neue Stabstelle Flüchtlinge und übergreifende Aufgaben (SFA) – wie vorher auch der Zentrale Koordinierungsstab Flüchtlinge (ZKF) – direkt der Staatsrätin der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) sowie dem Staatsrat der Behörde für Inneres und Sport (BIS). Die Finanzierung erfolgt weiterhin aus Mitteln der Einzelpläne 4 und 8.1. Die Stabstelle hat zum 1. November 2019 ihre Arbeit aufgenommen.
 
@@ -1001,7 +1002,7 @@ Wie viele schulpflichtige Flüchtlinge besuchen Lerngruppen in Erstaufnahmeeinri
 
 Wie viele Schülerinnen und Schüler besuchen derzeit insgesamt Basisund IVK-Klassen? Wie viele Basis- und IVK-Klassen mit jeweils wie vielen Schülerinnen und Schülern waren im Oktober 2019 an jeweils welcher Schule eingerichtet? Wo wurden Klassen geschlossen beziehungsweise neu eingerichtet?
 
-#### Antwort zu Fragen 34 bis 35
+#### Antwort zu Fragen 34 und 35
 
 Mit Stand vom 30. Oktober 2019 haben 307 Schülerinnen und Schüler 35 Basisklassen und 1 943 Schülerinnen und Schüler 160 Internationale Vorbereitungsklassen (IVK) besucht. Im Oktober 2019 wurden keine IVK- und Basisklassen geschlossen oder neu eingerichtet. Im Übrigen siehe Anlage 4.
 

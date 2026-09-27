@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16800", "21/12589"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66534"
@@ -55,7 +56,7 @@ Wie viele Schülerinnen und Schüler mit festgestelltem sonderpädagogischem Fö
 
 Wie hoch war die LSE-Quote demnach für die unter 1. genannten Stadtteilschulen und ihre jeweiligen zukünftigen fünften Klassen? Bitte tabellarisch darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Zahl der Anmeldungen lässt keine Rückschlüsse darüber zu, wie viele Schülerinnen und Schüler aufgenommen werden. Daher kann aus den gelieferten Daten auch keine Quote für das künftige Schuljahr abgeleitet oder errechnet werden.
 

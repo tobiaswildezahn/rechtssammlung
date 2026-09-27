@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8228", "21/8830", "21/10276"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59118"
@@ -45,7 +46,7 @@ Wie viele Schüler/-innen aus Schleswig-Holstein besuchen, nach gegenwärtiger K
 
 Wie viele der in Frage 1. genannten Schüler/-innen besuchen dabei im Einzelnen welche Hamburger Schulen? (Bitte mit Angabe von Standort, Schulform, Sozialindex und Bezirk in absoluten Zahlen und in Prozent in einer eigenen Excel-Tabelle angeben.) a. Welche Jahrgangsstufen besuchen diese Schüler/-innen jeweils? (Bitte in der Tabelle zu 2. angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die angefragten Daten liegen noch nicht vor. Sie werden mit der Schuljahresstatistik nach derzeitigem Planungsstand im Februar 2018 veröffentlicht.
 
@@ -57,7 +58,7 @@ Wie viele Schulanmeldungen von Schülern/-innen aus Schleswig- Holstein für die
 
 Wie vielen Erstwunschanmeldungen von Hamburger Schülern/-innen für die Jahrgangsstufe 5 wurden für das Schuljahr 2017/2018 an den in Frage 3. a. genannten staatlichen allgemeinbildenden Schulen in Hamburg abgelehnt? (Bitte mit Angabe von Standort, Schulform, Sozialindex und Bezirk in absoluten Zahlen und in Prozent zur Anzahl der Gesamterstwunschanmeldungen am jeweiligen Standort in der Tabelle zu 3. angeben.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/8228 und 21/8830.
 
@@ -79,7 +80,7 @@ Wie viele Schüler/-innen aus Hamburg besuchen, nach gegenwärtiger Kenntnis des
 
 Wie viele der in Frage 6. genannten Schüler/-innen besuchen dabei im Einzelnen welche schleswig-holsteiner Schulen? (Bitte mit Angabe von Standort, Schulform, Sozialindex und Kreis in absoluten Zahlen und in Prozent in einer eigenen Excel-Tabelle angeben.) a. Welche Jahrgangsstufen besuchen diese Schüler/-innen jeweils? (Bitte in der Tabelle zu 7. angeben.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Anlagen 1 und 2. Die Daten für das Schuljahr 2017/2018 liegen zurzeit noch nicht vor. In Schleswig-Holstein gibt es derzeit keinen schulbezogenen Sozialindex.
 

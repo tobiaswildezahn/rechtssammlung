@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8233", "21/9096"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58900"
@@ -55,7 +56,7 @@ Wie viele neue Vorfälle antisemitischer Gewalt, Bedrohung oder Einschüchterung
 
 Wie viele dieser antisemitischen Vorfälle gingen von muslimischen Personen beziehungsweise von Personen mit einem Migrationshintergrund eines muslimisch geprägten Landes aus? Bitte auch die Art des antisemitischen Vorfalls kurz erläutern.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Beratungsstelle empower – Beratung für Betroffene rechter, rassistischer und antisemitischer Gewalt – hat ihren Betrieb am 1. März 2015 aufgenommen – siehe Drs. 21/8233. Im 1. Quartal 2015 wurde sie mit keinem antisemitischen Vorfall befasst.
 

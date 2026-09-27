@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60942"
@@ -39,23 +40,23 @@ Gemäß Artikel 33 Absatz 4 des Grundgesetzes (GG) ist die Ausübung hoheitsrech
 
 Aufgrund der speziellen hoheitlichen Aufgaben einer Vollzugsleitung im Rahmen der staatlichen Eingriffsverwaltung greift hier der Funktionsvorbehalt des Artikels 33 Absatz 4 GG. Der Vollzugsleitung obliegt in Zusammenarbeit mit der Anstaltsleitung die Vollzugsleitung für die konzeptionelle Gestaltung und Umsetzung des Vollzuges. Weiterhin führt die Vollzugsleitung die Dienst- und Fachaufsicht über nachgeordnete Mitarbeiterinnen und Mitarbeiter, wie Vollzugsabteilungsleitungen. Das Treffen vollzuglicher Einzelfallentscheidungen, häufig in Ausübung hoheitsrechtlicher Befugnisse, die Anordnung besonderer Sicherungsmaßnahmen sowie die Genehmigung vollzuglicher Planungen und deren Fortschreibung sind wesentlicher Bestandteil der Aufgaben der Vollzugsleitung. Im Einzelnen sind das unter anderem:
 
- Bearbeiten von Beschwerden, Dienstaufsichtsbeschwerden betreffend den Voll-
+– Bearbeiten von Beschwerden, Dienstaufsichtsbeschwerden betreffend den Voll-
 
 zugsbereich,
 
- Ausüben der Disziplinarbefugnis gegenüber Gefangenen im Zuständigkeitsbereich,
+– Ausüben der Disziplinarbefugnis gegenüber Gefangenen im Zuständigkeitsbereich,
 
- Entscheidung über Erstgewährung von Vollzugslockerungen; Mitwirkung bei der
+– Entscheidung über Erstgewährung von Vollzugslockerungen; Mitwirkung bei der
 
 Entscheidung bei bestehender Verpflichtung zur Vorlage bei der Aufsichtsbehörde,
 
- Entscheidung über die Freigabe von Überbrückungsgeld,
+– Entscheidung über die Freigabe von Überbrückungsgeld,
 
- Entscheidung über Einweisung von Gefangenen in den offenen Vollzug, Mitwir-
+– Entscheidung über Einweisung von Gefangenen in den offenen Vollzug, Mitwir-
 
 kung bei der Entscheidung bei bestehender Verpflichtung zur Vorlage bei der Aufsichtsbehörde,
 
- Anordnung und vorläufige Anordnung von besonderen Sicherungsmaßnahmen
+– Anordnung und vorläufige Anordnung von besonderen Sicherungsmaßnahmen
 
 sowie Befugnis zur Anordnung der körperlichen Durchsuchung mit Entkleidung.
 
@@ -95,7 +96,7 @@ Aus welchem Grund können Dienstposten der Vollzugsabteilungsleitung mit Tarifbe
 
 Wie beurteilen die zuständigen Behörden den Umstand, dass sich die Ausschreibung ausschließlich an Beamte richtet, im Hinblick auf eine gleiche Chancengewährung für Beamte und Tarifbeschäftigte?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 

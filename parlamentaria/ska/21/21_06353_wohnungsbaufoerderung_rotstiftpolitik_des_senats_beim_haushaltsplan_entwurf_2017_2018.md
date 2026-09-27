@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6018", "21/5021", "20/4292", "21/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54872"
@@ -140,6 +141,6 @@ Wenn der 2. Förderweg für den Senat keine Bedeutung hat, was tritt an dessen S
 
 Ist für die Alternative eine Förderung vorgesehen und in welcher Form?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Entfällt.

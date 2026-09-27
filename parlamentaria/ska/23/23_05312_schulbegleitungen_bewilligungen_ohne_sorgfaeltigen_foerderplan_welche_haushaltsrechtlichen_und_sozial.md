@@ -8,12 +8,13 @@ datum_anfrage: "2026-09-10"
 datum_drucksache: "2026-09-18"
 urheber: ["David Stoop", "Thomas Meyer"]
 fraktionen: ["Die Linke"]
-vorgang: null
+vorgang: 89164
 seiten: 10
 fragen: 21
 einzelfragen: 32
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["23/5112", "23/4982", "23/4797", "23/465", "23/4066", "23/5283"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105223"

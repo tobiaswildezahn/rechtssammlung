@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52006"
@@ -74,11 +75,11 @@ Den zuständigen Behörden ist es gelungen, unter erheblichen Anstrengungen und 
 
 deswehrkräften zur Unterstützung der Ausländerbehörde in Amtshilfe, Anpassung von Abläufen in der Harburger Poststraße während der Hauptbelastungszeiten nicht möglich, in der Zentralen Erstaufnahmeeinrichtung in der Harburger Poststraße eine sofortige Registrierung aller ankommenden Personen zu gewährleisten. Gewährleistet wurde eine händische Erfassung auf einer Ersterfassungsliste, mit der die Meldung der Personen in der Harburger Poststraße vermerkt wurde. Auf dieser Ersterfassung beruht die angegebene Zahl der 61.598 Schutzsuchenden im Jahr 2015, die sich in der zentralen Anlaufstelle in der Harburger Poststraße gemeldet haben. Auf Grundlage dieser Liste wurden dann nach der Unterbringung in den Dezentralen Erstaufnahmeeinrichtungen die Registrierungen nachgeführt. Hierbei wurde in vielen Fällen festgestellt, dass Personen, die sich auf den Ersterfassungslisten der Harburger Poststraße erfassen ließen, in den Folgetagen in den Einrichtungen nicht mehr angetroffen werden konnten, um dort die ausländerbehördliche Registrierung vornehmen zu lassen. Dieses Phänomen zeigte sich nicht nur in Hamburg, sondern auch in den Erstaufnahmeeinrichtungen der übrigen Länder. Valide Erkenntnisse zum Verbleib der Personen liegen nicht vor. Nach Einschätzung der an der Verteilung der Flüchtlinge beteiligten Stellen ist davon auszugehen, dass Flüchtlinge vielfach zwischen der Ersterfassung in der Harburger Poststraße und dem anschließenden Versuch einer ausländerbehördlichen Registrierung
 
- sich einer wiederholten Ersterfassung in der Harburger Poststraße unterzogen
+– sich einer wiederholten Ersterfassung in der Harburger Poststraße unterzogen
 
 haben, andere Erstaufnahmeeinrichtungen außerhalb Hamburgs aufgesucht haben, um dort die Durchführung des Asylverfahrens einzuleiten oder
 
- in andere Länder (zum Beispiel Skandinavien) weitergereist sind.
+– in andere Länder (zum Beispiel Skandinavien) weitergereist sind.
 
 In diesem Umfang hat es – unabhängig vom nicht mehr aufklärbaren Verbleib der betroffenen Personen – Ersterfassungen gegeben. Zu der eigentlichen ausländerbehördlichen Erfassung in Hamburg einschließlich der Eingabe in das EASY-Verteilungssystem ist es in diesen Fällen wegen der Abwesenheit der betroffenen Personen dann nicht mehr gekommen, sodass im Ergebnis die Zahl der EASY-Verteilungsentscheidungen in Hamburg unter der Zahl der zunächst nur provisorisch ersterfassten und untergebrachten Personen liegt.
 

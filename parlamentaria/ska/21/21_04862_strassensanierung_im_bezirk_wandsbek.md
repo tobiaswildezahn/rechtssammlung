@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53306"
@@ -51,7 +52,7 @@ Nach welchen Kriterien wurden die Straßenabschnitte im Einzelnen ausgewählt?
 
 Wurde für das Deckenprogramm eine Prioritätenliste mit dem Instandsetzungsbedarf der Bezirksstraßen erstellt oder aktualisiert? Wenn ja, mit welchen Straßenabschnitten in welcher genauen Rangfolge? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Auswahl der Streckenabschnitte wird durch das Bezirksamt festgelegt. Hier fließen die Daten und Erfahrungen aus der regelhaften Wegebegehung zusammen. Die Auswahl erfolgt über Schadensbild, Beschwerdelage und Unterhaltungsaufwand zur Bewahrung der Verkehrssicherheit.
 

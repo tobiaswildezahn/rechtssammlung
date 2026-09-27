@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4362"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53923"
@@ -43,7 +44,7 @@ Welche Stelle hat die Veränderungen der Auflagen für die „Alsterbootangelkar
 
 Welche Stelle hat die Veränderungen der Auflagen für die „Alsterbootangelkarte“ ausgearbeitet? Bitte unter Angabe der Abteilung/des Referats darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Amt für Umweltschutz der zuständigen Behörde.
 

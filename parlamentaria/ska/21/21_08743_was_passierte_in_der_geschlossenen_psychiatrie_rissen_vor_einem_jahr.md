@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57478"
@@ -122,6 +123,6 @@ Wann genau und auf wessen Beschluss war der Mann in die geschlossene Abteilung d
 
 Wie lange war er schon fixiert, als um 20.30 Uhr der Feueralarm losging?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antwort zu 1.

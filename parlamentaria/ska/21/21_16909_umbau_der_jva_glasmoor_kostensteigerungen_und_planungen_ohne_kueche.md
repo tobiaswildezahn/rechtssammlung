@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 21
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16480"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66452"
@@ -54,7 +55,7 @@ b. Wenn ja, welche und warum?
 
 Wie soll die JVA Glasmoor ausgebaut und geplant werden, ohne eine Küche in der JVA?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/16480.
 
@@ -98,7 +99,7 @@ Hat sich die zuständige Behörde mit JVAs in anderen Bundesländern ausgetausch
 
 Kennt der Senat JVAs, die durch externe Unternehmen eine Küchenversorgung sicherstellen? Wenn ja, welche und mit welchem Ergebnis?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Hamburg kann auf eigene, positive Erfahrungswerte zurückgreifen. Die Versorgung in der Sozialtherapeutischen Anstalt Hamburg erfolgt durch die JVA Fuhlsbüttel. Ihre Außenstelle in Bergedorf wird wochentags durch die JVA Billwerder und am Wochenende durch einen externen Dienstleister, die Johanniter Unfallhilfe e.V., versorgt.
 

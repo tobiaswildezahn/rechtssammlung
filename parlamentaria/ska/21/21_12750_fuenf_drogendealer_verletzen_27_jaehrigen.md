@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62058"
@@ -88,55 +89,55 @@ Sind sie aus anderen Gründen bereits polizeibekannt?
 
 Sind sie bisher schon strafrechtlich verurteilt worden? Wenn ja, wegen welcher Taten?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im Hinblick auf das Persönlichkeitsrecht des Betroffenen und die gesetzlichen Wertungen des Bundeszentralregistergesetzes sieht der Senat davon ab, etwaige Ermittlungsverfahren mitzuteilen, die durch einen Freispruch oder eine Einstellung beendet worden sind. Dasselbe gilt für Ermittlungsverfahren, die zu einem Abschluss geführt haben, der entweder nicht in ein Führungszeugnis aufzunehmen oder nach den Tilgungsvorschriften des Bundeszentralregistergesetzes nicht mehr zu berücksichtigen ist. Die Auskunft des Bundeszentralregisters vom 20. März 2018 enthält mitteilungsfähige Eintragungen. Demnach wurde Person 5 wie folgt verurteilt:
 
- Urteil des AG Hamburg-St. Georg vom 29. Oktober 2010 wegen vorsätzlichen
+– Urteil des AG Hamburg-St. Georg vom 29. Oktober 2010 wegen vorsätzlichen
 
 unerlaubten Handeltreibens mit Betäubungsmitteln zu 30 Tagessätzen Geldstrafe,
 
- Urteil des AG Hamburg vom 14. März 2011 wegen Diebstahls zu 30 Tagessätzen
+– Urteil des AG Hamburg vom 14. März 2011 wegen Diebstahls zu 30 Tagessätzen
 
 Geldstrafe,
 
- Urteil des AG Hamburg vom 9. Juni 2011 wegen Diebstahls zu 75 Tagessätzen
+– Urteil des AG Hamburg vom 9. Juni 2011 wegen Diebstahls zu 75 Tagessätzen
 
 Geldstrafe,
 
- Urteil des AG Hamburg vom 14. Juni 2011 wegen versuchten Diebstahls zu 40
+– Urteil des AG Hamburg vom 14. Juni 2011 wegen versuchten Diebstahls zu 40
 
 Tagessätzen Geldstrafe,
 
- Urteil des AG Hamburg vom 8. November 2011 wegen Diebstahls in Tateinheit mit
+– Urteil des AG Hamburg vom 8. November 2011 wegen Diebstahls in Tateinheit mit
 
 Verstoßes gegen das AufenthG sowie wegen Widerstandes gegen Vollstreckungsbeamte zu einer Freiheitsstrafe von sechs Monaten mit Bewährung,
 
- Urteil des AG Hamburg-St. Georg vom 29. März 2012 wegen gemeinschaftlichen
+– Urteil des AG Hamburg-St. Georg vom 29. März 2012 wegen gemeinschaftlichen
 
 vorsätzlichen unerlaubten Handeltreibens mit Betäubungsmitteln zu einer Geldstrafe von 80 Tagessätzen,
 
- Urteil des AG Hamburg-St. Georg vom 20. September 2012 wegen Diebstahls,
+– Urteil des AG Hamburg-St. Georg vom 20. September 2012 wegen Diebstahls,
 
 Beleidigung und unerlaubten Handeltreibens mit Betäubungsmitteln zu einer Freiheitsstrafe von neun Monaten,
 
- Urteil des AG Hamburg-St. Georg vom 12. Februar 2013 wegen unerlaubten
+– Urteil des AG Hamburg-St. Georg vom 12. Februar 2013 wegen unerlaubten
 
 Besitzes von Betäubungsmitteln zu einer Geldstrafe von 40 Tagessätzen,
 
- Urteil des AG Hamburg-St. Georg vom 18. Juni 2013 wegen vorsätzlichen uner-
+– Urteil des AG Hamburg-St. Georg vom 18. Juni 2013 wegen vorsätzlichen uner-
 
 laubten Handeltreibens mit Betäubungsmitteln zu einer Geldstrafe von 60 Tagessätzen,
 
- Urteil des AG Frankfurt am Main vom 1. August 2013 wegen Verstoßes gegen das
+– Urteil des AG Frankfurt am Main vom 1. August 2013 wegen Verstoßes gegen das
 
 AufenthG zu einer Geldstrafe von 50 Tagessätzen,
 
- Urteil des AG Hamburg-St. Georg vom 10. April 2014 wegen gefährlicher Körper-
+– Urteil des AG Hamburg-St. Georg vom 10. April 2014 wegen gefährlicher Körper-
 
 verletzung, Diebstahls in zwei Fällen sowie vorsätzlicher Körperverletzung zu einer Freiheitsstrafe von neun Monaten mit Bewährung,
 
- Urteil des AG Hamburg-St. Georg vom 13. April 2017 wegen unerlaubten Besitzes
+– Urteil des AG Hamburg-St. Georg vom 13. April 2017 wegen unerlaubten Besitzes
 
 von Betäubungsmitteln in sieben Fällen, versuchten unerlaubten Erwerbs von Betäubungsmitteln, gemeinschaftlichen unerlaubten Erwerbs von Betäubungsmitteln sowie Beleidigung zu einer Geldstrafe von 180 Tagessätzen.
 

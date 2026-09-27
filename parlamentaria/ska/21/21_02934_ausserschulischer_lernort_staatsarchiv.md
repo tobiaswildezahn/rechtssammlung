@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51256"
@@ -51,7 +52,7 @@ Wie viele Stellen sind hierfür vorgesehen und aus welchen Produktgruppen im Hau
 
 Sind alle geplanten Stellen besetzt? Wenn nein: welche nicht und aus welchen Gründen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Stellen sind für diese Tätigkeit nicht vorgesehen. Die Tätigkeit der Lehrkraft wird anteilig durch die Behörde für Schule und Berufsbildung aus der Produktgruppe 238.01 Steuerung und Service des Einzelplans 3.1 finanziert, während die Kulturbehörde ihren Anteil aus wechselnden Vakanzen erbringt.
 

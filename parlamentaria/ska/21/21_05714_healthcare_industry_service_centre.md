@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11941", "20/13324", "21/263", "21/2145", "21/3989", "21/4193"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54205"
@@ -45,7 +46,7 @@ Seit wann existiert das Healthcare Industry Service Centre (Dubai)?
 
 Unterhält die Freie und Hansestadt Hamburg ähnliche Einrichtungen auch in anderen Ländern? Wenn nein, warum nur in Dubai, wenn ja, wo und aus welchem Grund?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Clusteragentur Norddeutsche Life Science Agentur GmbH (heute: Life Science Nord Management GmbH, LSN), die zu dem Zeitpunkt bereits seit einigen Jahren den Messeauftritt von Hamburg und Schleswig-Holstein bei der Arab Health, einer der größten Gesundheitsmessen der Welt, organisiert hatte, hat das Healthcare Industry Service Centre (HIS) in Dubai im Januar 2012 im Rahmen eines ESF-Projektes eingerichtet. Unterstützer des Projekts der LSN waren unter anderem die Behörde für Gesundheit und Verbraucherschutz, Hamburg Marketing GmbH sowie die Hamburg Repräsentanz, die Freie und Hansestadt Hamburg (FHH) und die Handelskammer seit 2006 gemeinsam bei der Außenhandelskammer (AHK) in Dubai unterhalten und bei der das HIS angebunden wurde. Ziel der Einrichtung dieses Servicezentrums für die Gesundheitswirtschaft war, die Markteintrittschancen kleiner und mittelständischer Unternehmen der Gesundheitswirtschaft aus der Metropolregion Hamburg in der arabischen Golfregion zu erhöhen. Seit Jahren investieren die Golfstaaten erheblich in die Modernisierung ihrer Gesundheitswesen. Es entstehen neue Krankenhäuser, Forschungsstätten und Labore. Damit einher geht der Bedarf an hochwertiger Medizintechnik, Pharmaprodukten, IT-Systemen sowie medizinischen Dienstleistungen und Beratungsleistungen. Unternehmen der Gesundheitswirtschaft aus Hamburg und der Metropolregion bieten entsprechende Produkte und Dienstleistungen in einer Qualität an, die für den Aufbau und Ausbau der Gesundheitssysteme in den Golfstaaten von Nutzen sein können. Die Erfahrungen vor Ort hatten jedoch gezeigt, dass insbesondere kleine und mittelständische Unternehmen gezielte Unterstützung benötigen, um in der Erschließung der arabischen Gesundheitsmärkte erfolgreich zu sein. Zentrale Herausforderung ist es, Kontakte herzustellen und sich als international anerkannte und konkurrenzfähige Bewerber darzustellen. Oft fehlt es hiesigen Unternehmen an Erfahrung, Kommunikations- und Verhandlungskompetenz, um im arabischen Raum erfolgreich zu sein. Die gezielte Kontaktpflege im Gesundheitsbereich ist mit den vorhandenen Strukturen in kleineren Unternehmen nur eingeschränkt möglich.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/2948", "21/6800", "21/5073", "21/7029", "21/7030", "21/7679", "21/9188"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59833"
@@ -43,15 +44,15 @@ Durch diese Maßnahmen wird das Gesamtangebot an Sportflächen ausgeweitet und i
 
 Der wachsenden Nachfrage nach Zeiten auf Sportplätzen und in Hallen kann auf unterschiedliche Weise begegnet werden.
 
- Die Stadt ist bestrebt, der wachsenden Nachfrage nach Zeiten auf Sportplätzen
+– Die Stadt ist bestrebt, der wachsenden Nachfrage nach Zeiten auf Sportplätzen
 
 insbesondere durch Neubau und eine intensivere Nutzung bereits vorhandener Plätze zu begegnen. Die Ausstattung mit Kunstrasen spielt hierbei eine entscheidende Rolle, da diese Plätze auch während der Wintermonate durchgängig bespielbar sind und im Jugendbereich ein paralleles Training problemlos organisiert werden kann und üblich ist. Die Intensität der Nutzung ist daher auch ein Kriterium bei der Vergabe der Sanierungsmittel für die Sportanlagen der Bezirke.
 
- Sporthallen werden in Hamburg in der Regel in Kombination mit Schulen gebaut
+– Sporthallen werden in Hamburg in der Regel in Kombination mit Schulen gebaut
 
 und betrieben. Aufgrund der wachsenden Schülerzahlen kommt es daher an vielen Stellen in Hamburg zu Neu- und Zubauten von Sporthallenflächen (sowie auch von Schulsportplätzen). Hiervon profitieren auch die Sportvereine, da die Hallen ab 17 Uhr für den Vereinssport zur Verfügung stehen.
 
- Grünflächen in neuen Wohnquartieren werden gezielt so gestaltet und ausgestat-
+– Grünflächen in neuen Wohnquartieren werden gezielt so gestaltet und ausgestat-
 
 tet, dass sich dort Freizeitsport betreiben lässt (zum Beispiel Bolzplätze, Parcours mit und ohne Geräte, Bewegungsinseln et cetera).
 

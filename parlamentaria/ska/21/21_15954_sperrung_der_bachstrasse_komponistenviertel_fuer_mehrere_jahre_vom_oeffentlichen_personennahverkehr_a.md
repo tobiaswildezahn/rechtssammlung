@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 25
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65446"
@@ -80,7 +81,7 @@ In welcher Form wurden die Anwohner der Buslinien über die langfristige Herausn
 
 In welcher Form hat der Senat angesichts der langfristigen Herausnahme der Busse mit den anliegenden Bürgern das Gespräch gesucht, wer war daran beteiligt und was waren die Ergebnisse dieser Gespräche?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Anwohnerinnen und Anwohner nahe der Buslinien sind durch Aushänge an den von der Sperrung betroffenen Bushaltestellen und durch entsprechende Hinweise in der elektronischen Fahrplanauskunft sowie auf der Internetseite der HOCHBAHN und des Hamburger Verkehrsverbundes (HVV) informiert worden. Außerdem sind an weiteren Bushaltestellen im Zulauf auf die Bachstraße entsprechende Hinweise angebracht worden. Alle Informationen sind circa eine Woche vor Beginn der Sperrung veröffentlicht worden. Bei Fragen im Zusammenhang mit Umleitungen stehen den Kundinnen und Kunden des HVV die bekannten Kontaktangebote per E-Mai, Telefon und auch die HVV-Servicestellen zur Verfügung.
 
@@ -97,7 +98,7 @@ Warum gibt es keine alternative Möglichkeit, das Komponistenviertel von Norden 
 
 Welche Alternativen wurden geprüft?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 In Richtung Norden verbleiben die Linien auf ihrem Linienweg. Für die Linienführung in Richtung Süden hat die HOCHBAHN alle Straßenverbindungen im Umfeld der Bachstraße auf ihre Eignung für eine Umleitungsstrecke geprüft. Die bestehenden Einbahnstraßenregelungen und eine geringe Fahrbahnbreite eröffnen jedoch nur sehr geringe Spielräume für eine alternative Linienführung. Es wurde die Busumleitung mit den geringsten Auswirkungen für die Fahrgäste gewählt.
 
@@ -157,7 +158,7 @@ Welche Alternativmöglichkeiten sieht der Senat zur Erschließung der bisherigen
 
 Welche Empfehlungen hat der Senat für den in Frage 13. beschriebenen Personenkreis?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Die Ersatzhaltestellen befinden sich in zumutbarer Entfernung von maximal 300 m zur Originalhaltestelle. Fahrgäste, die diesen Weg nicht bewältigen können, haben die Möglichkeit, mit den Buslinien 172 und 173 der Gegenrichtung bis Herderstraße, Jarrestraße (Kampnagel) oder U/S Barmbek zu fahren und ab dort den Weg mit den Linien 172 oder 173 in der eigentlichen Fahrtrichtung beziehungsweise mit der U- Bahn fortzusetzen.
 

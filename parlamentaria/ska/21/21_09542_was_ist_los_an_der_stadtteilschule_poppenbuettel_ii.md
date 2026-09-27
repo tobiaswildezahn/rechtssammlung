@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9418"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58315"
@@ -76,6 +77,6 @@ Warum hat der Senat die Frage 11. der Drs. 21/9418 falsch beantwortet? Was wollt
 
 Wurden noch weitere Fragen der Drs. 21/9418 vom Senat falsch beantwortet?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Alle Fragen der Drs. 21/9418 wurden korrekt beantwortet.

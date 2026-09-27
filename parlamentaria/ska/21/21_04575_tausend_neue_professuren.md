@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10837", "21/3629"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52980"
@@ -51,7 +52,7 @@ Wie viel kostet die Einrichtung einer Professur im Durchschnitt?
 
 Wie viele Professuren kann man mit 1 Milliarde Euro wie lange bezahlen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die festen Personalkosten pro Jahr betragen einschließlich Pensionsrückstellungen und Beihilfezuschlag für eine Juniorprofessur (W1) 86.858 Euro, für eine W2- Professur 118.935 Euro und für eine W3-Professur 155.396 Euro. Die neben den festen Besoldungskosten anfallenden Ausstattungskosten sowie die Ausgaben für Leistungsbezüge schwanken stark, hängen von der jeweiligen Professur, der berufenen Person und dem Fach ab und können daher nicht pauschal beziffert werden.
 
@@ -71,7 +72,7 @@ Wird die Freie und Hansestadt Hamburg die neu geschaffenen Stellen unbefristet f
 
 Inwieweit führt das geplante Programm zu planbaren Karrierewegen der Betroffenen, wenn es sich um befristete beziehungsweise nicht bis zur Pensionierung ausfinanzierte Stellen handelt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Das zwischen Bund und Ländern verhandelte Programm ist auf zehn Jahre angelegt und wird in zwei Tranchen auf die Länder verteilt. Enthalten ist ein zusätzlicher 15-prozentiger Anteil der Fördersumme pro Professur, den die am Programm teilnehmende Universität erhält, um personalwirtschaftliche Vorkehrungen zu treffen. Personen, die sich erfolgreich auf eine mit Tenure-Track ausgestattete Juniorprofessur beworben haben, erhalten die verbindliche Zusage, bei positiver Evaluation ihrer Leistungen am Ende der Juniorprofessur auf eine unbefristete ordentliche Professur berufen zu werden. Dies verbessert die Planbarkeit akademischer Karrieren substanziell.
 

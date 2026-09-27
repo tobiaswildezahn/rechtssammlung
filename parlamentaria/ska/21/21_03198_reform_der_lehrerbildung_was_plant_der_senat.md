@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51531"
@@ -62,7 +63,7 @@ Welche konkreten Planungen bestehen seitens der zuständigen Behörden zur Refor
 
 Welche konkreten Veränderungen sollen im Rahmen der Lehrerbildung zu welchen Zeitpunkten an welchen Stellen eintreten?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Konkrete Planungen der zuständigen Behörden können erst entwickelt werden, wenn die Empfehlungen der Expertenkommission vorliegen und bewertet werden konnten.
 
@@ -110,27 +111,27 @@ Die Steuergruppe wird gebildet aus der Staatsrätin der Behörde für Wissenscha
 
 Die Projektgruppe wird gebildet aus
 
- fünf leitenden Beamtinnen beziehungsweise Beamten der Behörde für Schule und
+– fünf leitenden Beamtinnen beziehungsweise Beamten der Behörde für Schule und
 
 Berufsbildung,
 
- zwei leitenden Beamten der Behörde für Wissenschaft, Forschung und Gleichstel-
+– zwei leitenden Beamten der Behörde für Wissenschaft, Forschung und Gleichstel-
 
 lung,
 
- einem Vertreter der an der Lehrerausbildung beteiligten Hochschulen,
+– einem Vertreter der an der Lehrerausbildung beteiligten Hochschulen,
 
- einer Professorin für das Dekanat der Fakultät Geisteswissenschaften der Univer-
+– einer Professorin für das Dekanat der Fakultät Geisteswissenschaften der Univer-
 
 sität Hamburg,
 
- einem Professor für das Dekanat der Fakultät Mathematik, Informatik und Natur-
+– einem Professor für das Dekanat der Fakultät Mathematik, Informatik und Natur-
 
 wissenschaften der Universität Hamburg,
 
- den beiden Leitungsmitgliedern des Zentrums für Lehrerbildung Hamburg sowie
+– den beiden Leitungsmitgliedern des Zentrums für Lehrerbildung Hamburg sowie
 
- einem Oberschulrat a.D. (als Leiter der Projektgruppe).
+– einem Oberschulrat a.D. (als Leiter der Projektgruppe).
 
 a. Wann wurden diese damit jeweils durch wen beauftragt?
 
@@ -148,27 +149,27 @@ Die Vorsitzende des Schulausschusses wies in der Sitzung am 4. Februar 2016 dara
 
 Die Expertenkommission wurde im Rahmen der Einsetzungsverfügung gebeten, Empfehlungen zu folgenden Themen zu erarbeiten:
 
- Empfehlungen für ein eigenständiges, spezifisch ausgerichtetes Grundschullehr-
+– Empfehlungen für ein eigenständiges, spezifisch ausgerichtetes Grundschullehr-
 
 amt, das der gestiegenen Bedeutung und den hohen pädagogischen Anforderungen der Grundschulen besser gerecht wird.
 
- Empfehlungen für ein ausprofiliertes Lehramt für die pädagogische Arbeit in den
+– Empfehlungen für ein ausprofiliertes Lehramt für die pädagogische Arbeit in den
 
 Stadtteilschulen, das auf die ebenfalls gestiegenen fachlichen und pädagogischen Anforderungen dieser Schulform mitsamt ihrer Oberstufen ausgerichtet ist.
 
- Empfehlungen zur Verankerung basaler und anknüpfungsfähiger sonderpädagogi-
+– Empfehlungen zur Verankerung basaler und anknüpfungsfähiger sonderpädagogi-
 
 scher Kompetenzen in der Ausbildung der oben angeführten Lehrämter, die der Bedeutung der sonderpädagogischen Expertise in allen Schulformen Rechnung tragen.
 
- Empfehlungen zur besseren inhaltlichen Ausrichtung der Ausbildung für das son-
+– Empfehlungen zur besseren inhaltlichen Ausrichtung der Ausbildung für das son-
 
 derpädagogische Lehramt auf die Anforderungen der Arbeit in inklusiven Regelschulen.
 
- Empfehlungen, in welcher Weise in der Ausbildung für das gymnasiale und das
+– Empfehlungen, in welcher Weise in der Ausbildung für das gymnasiale und das
 
 berufliche Lehramt auf die Erfordernisse der Inklusion und die damit verbundene größere Heterogenität der Lerngruppen eingegangen werden kann.
 
- Empfehlungen für alternative Zugangswege für einzelne berufliche Fachrichtungen
+– Empfehlungen für alternative Zugangswege für einzelne berufliche Fachrichtungen
 
 des Beruflichen Lehramts, in denen aufgrund der Veränderungen im Beschäftigtensystem ein großer Bedarf an Lehrkräften entstanden ist und für die auf konventionellem Wege nicht genügend Nachwuchskräfte gewonnen werden können.
 

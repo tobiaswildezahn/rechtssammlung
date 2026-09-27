@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5863", "21/14674", "21/17517"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67157"
@@ -100,15 +101,15 @@ Welche Maßnahmen vonseiten des Senates und den Sicherheitsbehörden sind geplan
 
 In enger Kooperation mit regionalen Einrichtungen (Schulen und Jugendhilfe-Einrichtungen) konnten in den letzten zwei Jahren Aktivitäten der „Furkan-Gemeinschaft“ in einem Stadtteil identifiziert und es konnte ihnen mit Maßnahmen entgegengetreten werden. Gemeinsam mit dem zuständigen Bezirksamt, Vertreterinnen und Vertretern der Polizei (Polizeikommissariat, LKA), der Behörde für Arbeit, Soziales, Familie und Integration und der für Bildung zuständigen Behörde wurden die folgenden Maßnahmen abgestimmt und durchgeführt:
 
- Ansprachen der Furkan-Vertreter,
+– Ansprachen der Furkan-Vertreter,
 
- Identifizierung gefährdeter Kinder und Jugendliche und Beratung ihrer Eltern,
+– Identifizierung gefährdeter Kinder und Jugendliche und Beratung ihrer Eltern,
 
- Ausweitung der Regelangebote in Schulen und der Offenen Kinder- und Jugendar-
+– Ausweitung der Regelangebote in Schulen und der Offenen Kinder- und Jugendar-
 
 beit im Stadtteil,
 
- Konzeptionierung und Durchführung präventiver Projekte.
+– Konzeptionierung und Durchführung präventiver Projekte.
 
 Das Landesinstitut für Lehrerbildung und Schulentwicklung (LI) bietet den Schulen Unterstützung, Beratung und Fortbildung im Bereich Menschenrechts- und Demokratiefeindlichkeit an.
 
@@ -127,6 +128,6 @@ Ist dem Hamburger Senat bekannt, wie und durch welche Mittel sich die
 Wenn ja, bitte auflisten.  
 Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Am 20. Oktober 2018 wurde eine Kundgebung in Hamburg unter dem Tenor „Freiheit für Alparslan Kuytul“ abgehalten. Des Weiteren fand eine Demonstration am 23. März 2019 zum Anschlag in Christchurch/Neuseeland statt. Darüber hinaus sind seit Anfang 2019 verschiedene sogenannte Schalaktionen bekannt geworden, die sich insbesondere mit der Forderung der Freilassung von Alparslan Kuytul befassten. Darüber hinausgehende Erkenntnisse liegen dem LfV Hamburg nicht vor.

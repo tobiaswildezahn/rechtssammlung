@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 29
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3277"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51641"
@@ -95,15 +96,15 @@ Im Bereich der Erstversorgung unbegleiteter minderjähriger Flüchtlinge ist aus
 
 In weiteren Unterkünften von f & w sind folgende Sicherheitsdienste tätig:
 
- WEKO Sicherheitsdienste GmbH
+– WEKO Sicherheitsdienste GmbH
 
- NR Security GmbH
+– NR Security GmbH
 
- W.I.S. Sicherheit + Service GmbH & Co. KG
+– W.I.S. Sicherheit + Service GmbH & Co. KG
 
- Pütz Security AG
+– Pütz Security AG
 
- KÖTTER Security
+– KÖTTER Security
 
 ### Frage 5
 
@@ -129,7 +130,7 @@ Welche Anforderungen werden an die privaten Wach- und Sicherheitsdienste gestell
 
 Welche Qualifikation sollen die Mitarbeiter mitbringen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Für den Bereich der Erstaufnahme sind die Anforderungen der Leistungsbeschreibung zum Betrieb einer Zentralen Erstaufnahme, die derzeit überarbeitet wird, zu entnehmen: http://suche.transparenz.hamburg.de/dataset/leistungsbeschreibung-betrieb-zea.
 
@@ -197,17 +198,17 @@ Das im Bereich der Erstversorgung unbegleiteter minderjähriger Flüchtlinge ein
 
 Im Bereich der öffentlich-rechtlichen Unterbringung sind Einsätze von Wachdiensten grundsätzlich nicht erforderlich und werden daher nur zumeist zeitlich und/oder aufgabenbezogen (zum Beispiel bei gelegentlichen Bestreifungen) begrenzt eingesetzt, sodass keine besonderen Schulungen über das in der Antwort zu 7. und 8. benannte Maß hinaus erforderlich sind. Es wird jedoch erwartet, dass die Sicherheitskräfte
 
- höflich aber bestimmt auftreten,
+– höflich aber bestimmt auftreten,
 
- zu den Bewohnern den gebotenen Abstand halten,
+– zu den Bewohnern den gebotenen Abstand halten,
 
- keine geschäftlichen Aktivitäten mit den Bewohnern betreiben,
+– keine geschäftlichen Aktivitäten mit den Bewohnern betreiben,
 
- in Konfliktsituationen stets deeskalierend auf die Situation einwirken und dabei das
+– in Konfliktsituationen stets deeskalierend auf die Situation einwirken und dabei das
 
 notwendige Fingerspitzengefühl beweisen,
 
- eine enge Zusammenarbeit mit den Mitarbeitern von f & w pflegen.
+– eine enge Zusammenarbeit mit den Mitarbeitern von f & w pflegen.
 
 ### Frage 10
 

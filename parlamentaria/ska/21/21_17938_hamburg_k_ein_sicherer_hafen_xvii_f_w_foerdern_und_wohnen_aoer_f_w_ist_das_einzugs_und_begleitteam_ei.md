@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17827", "21/15401", "21/16427", "21/1838", "21/17099"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67546"
@@ -111,45 +112,45 @@ h. An welchen Standorten ist das EBT bisher tätig geworden? Wie viele Bewohner/
 
 Das EBT hat Informationsveranstaltungen an den Standorten Alsterberg und Am Stadtrand durchgeführt. In den Räumlichkeiten des EBT wurden Veranstaltungen mit Teilnehmerinnen und Teilnehmern aus folgenden Standorten durchgeführt:
 
- Albert-Einstein-Ring,
+– Albert-Einstein-Ring,
 
- Alsterberg,
+– Alsterberg,
 
- Am Gleisdreieck,
+– Am Gleisdreieck,
 
- Am Radeland,
+– Am Radeland,
 
- Am Stadtrand,
+– Am Stadtrand,
 
- Bahngärten,
+– Bahngärten,
 
- Brookkehre,
+– Brookkehre,
 
- Eiffestraße 48,
+– Eiffestraße 48,
 
- Eiffestraße 398,
+– Eiffestraße 398,
 
- Eschenweg,
+– Eschenweg,
 
- Große Bahnstraße,
+– Große Bahnstraße,
 
- Holsteiner Chaussee,
+– Holsteiner Chaussee,
 
- Jugendpark Langenhorn,
+– Jugendpark Langenhorn,
 
- Lademannbogen,
+– Lademannbogen,
 
- Neuenfelder Fährdeich,
+– Neuenfelder Fährdeich,
 
- Notkestraße 105,
+– Notkestraße 105,
 
- Schlenzigstraße,
+– Schlenzigstraße,
 
- Volksdorfer Grenzweg,
+– Volksdorfer Grenzweg,
 
- Wendenstraße und
+– Wendenstraße und
 
- Wohnschiff Transit.
+– Wohnschiff Transit.
 
 An den Veranstaltungen haben insgesamt circa 100 Haushalte teilgenommen.
 

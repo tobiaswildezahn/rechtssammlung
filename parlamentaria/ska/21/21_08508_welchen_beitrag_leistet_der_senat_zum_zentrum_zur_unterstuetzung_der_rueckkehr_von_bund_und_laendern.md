@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57237"
@@ -53,7 +54,7 @@ Wie viele Beamte hat Hamburg bereits zum ZUR entsandt?
 
 Wie viele Beamte entsendet Hamburg bis Mitte Mai?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Seit dem Beginn der konkreten Aufbauphase des ZUR am 13. März 2017 entsendet Hamburg zwei Mitarbeiterinnen. Im Vergleich zu den meisten Ländern leistet Hamburg damit einen überproportionalen Beitrag.
 

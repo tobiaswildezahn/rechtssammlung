@@ -14,6 +14,7 @@ fragen: 26
 einzelfragen: 43
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4499", "21/4765", "21/5126", "21/4566"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53946"
@@ -116,7 +117,7 @@ Wie viele Personen mit Fluchthintergrund sind derzeit beim Jobcenter, wie viele 
 
 Wie viele Personen wurden bereits vom Jobcenter, wie viele von der Arbeitsagentur in Sprachkurse, Praktika, Ausbildung, Arbeit oder Studium vermittelt? Bitte einzeln aufschlüsseln.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/5126.
 
@@ -144,7 +145,7 @@ Wie viele Flüchtlinge üben derzeit eine sozialversicherungspflichtige Arbeit a
 
 Wie viele Flüchtlinge sind Ende Juli 2016 im Regelsystem des SGB II? Wie viele sind davon Männer, wie viele Frauen? Bitte Zahlen direkt angeben und nicht auf Arbeitsagentur verweisen.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Drs. 21/5126.
 

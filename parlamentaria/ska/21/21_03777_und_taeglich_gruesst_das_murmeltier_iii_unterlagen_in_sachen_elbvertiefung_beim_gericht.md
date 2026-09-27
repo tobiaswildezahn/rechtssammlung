@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2875"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52176"
@@ -47,7 +48,7 @@ Ist das behördliche Ergänzungsverfahren abgeschlossen? Wenn ja, seit wann? Wen
 
 Wann werden die Planfeststellungsbehörden die ergänzten Unterlagen in einem Planergänzungsbeschluss darstellen, den sie den Verfahrensbeteiligten und dem BVerwG übersenden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ja, es liegt ein Planergänzungsbeschluss vom 24. März 2016 vor.
 

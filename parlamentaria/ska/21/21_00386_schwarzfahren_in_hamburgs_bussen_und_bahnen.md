@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48544"
@@ -164,7 +165,7 @@ Auf wieviel Prozent schätzt die zuständige Behörde den Anteil der Schwarzfahr
 
 Welcher Schaden ist dem ÖPNV im Jahre 2014 durch Beförderungserschleichung entstanden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Nach Angaben des HVV liegen die Schwarzfahrerquoten im HVV zwischen 2,5 Prozent und 3,0 Prozent. Der jährliche Schaden durch Beförderungserschleichung liegt nach Angaben des HVV bei rund 20 Millionen Euro.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 21
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10082"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66203"
@@ -110,13 +111,13 @@ Nach welchen Kriterien wird entschieden, ob eine Bodycam bei einem Einsatz mitge
 
 Der Einsatz von BodyCams ist in folgenden, öffentlich zugänglichen Bereichen vorgesehen:
 
- Konzeptionseinsätze wie Einsatzmaßnahmen im Bereich „Gefährliche Orte“
+– Konzeptionseinsätze wie Einsatzmaßnahmen im Bereich „Gefährliche Orte“
 
- Präsenzmaßnahmen zur Kriminalitätsbekämpfung
+– Präsenzmaßnahmen zur Kriminalitätsbekämpfung
 
- Großveranstaltungen oder Volksfeste
+– Großveranstaltungen oder Volksfeste
 
- Kontrollmaßnahmen in der Verkehrsüberwachung
+– Kontrollmaßnahmen in der Verkehrsüberwachung
 
 Das Mitführen von BodyCams steht in Abhängigkeit personell und technisch zur Verfügung stehender Ressourcen sowie im unmittelbaren Zusammenhang mit einer zu treffenden Lagebewertung für den konkreten Einsatzanlass; über das Mitführen entscheidet der jeweilige Polizeiführer.
 
@@ -148,7 +149,7 @@ Wie viele Einzelaufnahmen sind seit 2017 gefertigt worden? Bitte nach Jahren dif
 
 In wie vielen Fällen wurden die Aufnahmen der Bodycam nicht gelöscht, weil die Aufnahmen zum Zwecke der Strafverfolgung genutzt wurden? Bitte absolute Zahlen und Prozente angeben.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Jahr  
 Anzahl  
@@ -179,11 +180,11 @@ Ja. Alle Nutzer der BodyCam werden bei der Akademie der Polizei (AK) beschult. D
 
 Im theoretischen Teil werden den Teilnehmern als Grundlagen die Bestimmungen
 
-• des PolDVG,
+– des PolDVG,
 
-• der Polizeidienstvorschriften sowie
+– der Polizeidienstvorschriften sowie
 
-• sonstiger einschlägiger datenschutzrechtlichen Bestimmungen und Rechtsgrundlagen, die beim Einsatz der BodyCam zu beachten sind,
+– sonstiger einschlägiger datenschutzrechtlichen Bestimmungen und Rechtsgrundlagen, die beim Einsatz der BodyCam zu beachten sind,
 
 vermittelt.
 

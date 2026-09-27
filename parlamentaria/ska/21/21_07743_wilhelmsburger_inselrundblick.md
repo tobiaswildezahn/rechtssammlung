@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56372"
@@ -46,7 +47,7 @@ Wird der „Wilhelmsburger InselRundblick“ mittelbar oder unmittelbar mit öff
 
 Wurden öffentliche Mittel für den „Wilhelmsburger InselRundblick“ beantragt? Wenn ja, in welcher Höhe geschah dies seit Gründung der Zeitung (bitte nach Jahren differenziert)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Wilhelmsburger InselRundblick e.V. hat im Jahr 2010 aus dem Verfügungsfonds des Sanierungsgebietes Südliches Reiherstiegviertel (Wilhelmsburg S5) 1.567 Euro für den Erwerb neuer Hard- und Software beantragt und bekommen. Aus dem Verfügungsfonds des Sonderfördergebietes Wilhelmsburg wurden im Jahr 2013 1.100 Euro zur Feier seines 20-jährigen Jubiläums bewilligt.
 

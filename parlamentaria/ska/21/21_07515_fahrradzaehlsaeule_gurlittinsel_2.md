@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4109"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56124"
@@ -200,7 +201,7 @@ Wie war die durchschnittliche Stundenverteilung des Radverkehrsaufkommens unter 
 
 Wie war die durchschnittliche Stundenverteilung des Radverkehrsaufkommens an Wochenenden in 2016?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die vom Hintergrundsystem der Fahrrad-Dauerzählstelle automatisch generierten durchschnittlichen Stundenwerte des vergangenen Jahres sind der nachfolgenden Tabelle zu entnehmen. Eine Differenzierung „mit/ohne Wochenende“ erfordert eine manuelle Auswertung. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

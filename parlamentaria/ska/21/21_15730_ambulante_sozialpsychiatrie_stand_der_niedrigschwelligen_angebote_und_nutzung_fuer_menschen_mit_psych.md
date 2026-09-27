@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65227"
@@ -101,7 +102,7 @@ Hat der Senat Kenntnisse darüber, wie die Hauser-Gruppe zukünftig personell un
 9.a. Wenn ja, bitte mit geplanten VZÄ, Angeboten und Räumlichkeiten angeben.
 9.b. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Nach Angaben des Fachamtes Eingliederungshilfe Bezirksamt Wandsbek entwickelte sich die Personalausstattung der Hausergruppe folgendermaßen:
 

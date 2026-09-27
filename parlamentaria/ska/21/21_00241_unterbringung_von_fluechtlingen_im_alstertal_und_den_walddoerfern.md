@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14584"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48371"
@@ -203,7 +204,7 @@ Wann wurden Abgeordnete der Bezirksversammlung Wandsbek über die unter 2. genan
 
 Wann wurden welche politischen Gremien öffentlich über die unter 2. genannten Pläne informiert?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die zuständige Fachbehörde bindet die jeweilige Bezirksversammlung im Rahmen des bezirklichen Beteiligungsverfahrens nach § 28 BezVG in der vorgesehenen Anhörungsfrist ein. Eine entsprechende Anhörung erfolgte für den Standort Nummer 1 am
 13. September 2013 sowie für das mit Nummer 6 bezeichnete Bestandsgebäude am
@@ -219,7 +220,7 @@ Wann und wie wurden beziehungsweise werden die Bürgerinnen und Bürger über di
 
 Hält der Senat den Personalschlüssel von 1:80 bei dem Unterkunfts- und Sozialmanagement in der öffentlich-rechtlichen Unterbringung für vollkommen ausreichend? Wenn ja, warum? Wenn nein, warum hält der Senat dennoch an diesem Personalschlüssel fest?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Drs. 20/14584. In der durchgeführten Informationsveranstaltung für den geplanten Standort am Volksdorfer Grenzweg wurden einerseits Bedenken und Ängste geäußert, andererseits erfuhr der Standort auch große Zustimmung vor allem durch die Anwesenden jüngeren Zuhörer, die sich mehrfach vor dem gesamten Plenum
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/749"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48925"
@@ -87,7 +88,7 @@ Inwiefern und unter welchen Voraussetzungen ist geplant, weitere Schulterkameras
 
 Welche Einsatzgebiete sollen zukünftig neben St. Pauli für den Einsatz von Schulterkameras in Betracht gezogen werden und warum?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Entsprechende Überlegungen können erst nach Abschluss und Auswertung des Pilotversuchs angestellt werden.
 

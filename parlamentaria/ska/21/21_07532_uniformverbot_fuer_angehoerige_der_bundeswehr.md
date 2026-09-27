@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7381"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56140"
@@ -43,7 +44,7 @@ Ist es zutreffend, dass es derlei Anweisungen gegeben hat? Wenn ja, wie sahen di
 
 Wer hat beschlossen, dass diese Anweisungen ergehen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Landeskommando Hamburg der Bundeswehr hat das Landeskriminalamt Hamburg am 28. November 2016 über eigene Anweisungen im Sinne der Fragestellung informiert.
 

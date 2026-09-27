@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/675", "21/818"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49159"
@@ -47,7 +48,7 @@ Wie viele Bedarfsgemeinschaften werden in den in der Drs. 21/675 genannten Stand
 
 Wie hoch belaufen sich die monatlichen Kosten für den Testbetrieb der Service-Center? Bitte in totaler Summe angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nach Auskunft von Jobcenter handelt es sich in den Standorten um rund 24.000 Bedarfsgemeinschaften. Bei Kosten von 3,74 Euro pro Bedarfsgemeinschaft (siehe Drs. 21/675) belaufen sich die monatlichen Kosten auf circa 89.760 Euro.
 

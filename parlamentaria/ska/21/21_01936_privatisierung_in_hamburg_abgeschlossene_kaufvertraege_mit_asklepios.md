@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/849", "18/3318", "19/7734"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50182"
@@ -47,7 +48,7 @@ Hat der Senat hinsichtlich des Verkaufs von 74,9 Prozent der ehemaligen LBK mitt
 
 Hält der Senat es für notwendig, die Bürgerschaft über den aktuellen Stand der Erlöse (Bruttoerlöse und Nettoerlöse) sowie Fragen der Kapitalbeschaffung und Liquiditätssicherung im Zusammenhang mit dem Verkauf der LBK einschließlich der Nutzung der Grundstücke und deren Erlöse zu informieren? Wenn ja, wann wird – voraussichtlich – die Bürgerschaft informiert? Wenn nein, weshalb?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der vereinbarte Kaufpreis wurde gezahlt. Im Übrigen siehe Drs. 18/849, 18/3318 und 19/7734.
 

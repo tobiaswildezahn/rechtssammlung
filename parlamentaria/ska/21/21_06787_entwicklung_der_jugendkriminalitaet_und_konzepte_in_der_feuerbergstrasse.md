@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 22
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8608", "20/5573"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55339"
@@ -309,23 +310,23 @@ Welche baulichen Maßnahmen werden derzeit auf dem Gelände des KJND durchgefüh
 
 Folgende Baumaßnahmen wurden 2015 und 2016 durchgeführt:
 
- Januar bis März 2015: Erstellung einer Containeranlage zur Schaffung zusätzlicher
+– Januar bis März 2015: Erstellung einer Containeranlage zur Schaffung zusätzlicher
 
 Kapazitäten für die Erstaufnahme minderjähriger unbegleiteter Ausländer;
 
- November bis Dezember 2015: Aufstellung eines Bürocontainers zur Schaffung
+– November bis Dezember 2015: Aufstellung eines Bürocontainers zur Schaffung
 
 zusätzlicher Besprechungsräume für den Fachdienst Flüchtlinge;
 
- Juli 2015 bis Februar 2016: Erstellung eines Treppenturms zur Herstellung des 2.
+– Juli 2015 bis Februar 2016: Erstellung eines Treppenturms zur Herstellung des 2.
 
 baulichen Flucht- und Rettungsweges;
 
- April bis Juli 2016: Erneuerung der Stromverteilung zur Erhöhung der Betriebssi-
+– April bis Juli 2016: Erneuerung der Stromverteilung zur Erhöhung der Betriebssi-
 
 cherheit;
 
- Juli bis August 2016: Umbau im Haus B zur Schaffung zusätzlicher Büroarbeits-
+– Juli bis August 2016: Umbau im Haus B zur Schaffung zusätzlicher Büroarbeits-
 
 plätze.
 

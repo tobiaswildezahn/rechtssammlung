@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49543"
@@ -95,7 +96,7 @@ Gibt es für christliche Asylbewerber in Hamburg spezielle Angebote des Senats o
 
 Einige Asylbewerber mohammedanischen Ursprungs fliehen nicht nur vor Armut und Krieg, sondern erkennen auch den Mohammedanismus als Ursache von beidem. Welche Angebote werden diesen Menschen gemacht, sie mit dem christlichen Glauben und/oder unseren humanistischen Werten bekannt zu machen und einen Weg aus der mohammedanischen Ideologie zu finden? Wird die Hilfe des Zentralrats der Ex-Muslime und/oder der christlichen Gemeinden gesucht oder auf die Existenz dieser Organisationen hingewiesen und wenn ja, werden diese Projekte vom Senat finanziell unterstützt? (Bitte nach Möglichkeit die Projekte einzeln angeben.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Spezielle Angebote des Senats, christliche Asylbewerber in das Kirchengemeindeleben zu integrieren sowie spezielle weltanschaulich ausgerichtete Angebote des Senats für Asylbewerber gibt es nicht.
 

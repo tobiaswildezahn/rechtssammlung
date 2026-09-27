@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8135", "21/10348", "21/12248", "21/11905", "21/11904"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66328"
@@ -54,7 +55,7 @@ Warum hat der Senat bisher keinen Bericht gemäß Drs. 21/8135 gegenüber der B�
 
 Inwiefern plant der Senat einen Bericht zu erstellen? a. Wenn ja, bis zu welchem Datum beziehungsweise in welchem Zeitraum? b. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Derzeit ist geplant der Bürgerschaft im Laufe des Jahres 2019, nach Beendigung des Abstimmungsprozesses, an dem Co-Learning Space für Hamburger Cluster, Startup- Unit (HIW), hei. Hamburger Existenzgründerinitiative, IFB Innovationsstarter, beyourpilot (Hamburg Innovation), Startup Dock (TUHH), die Hamburger Cluster (LSN, GWHH, Hamburg Kreativ Gesellschaft, nextMedia, Hamburg Aviation, EEHH, LIHH) sowie die verwandten Initiativen foodactive und Finanzplatz Hamburg beteiligt sind, zu berichten.
 

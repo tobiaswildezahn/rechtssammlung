@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6316", "21/4760", "21/4426", "21/4295", "21/6241"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55044"
@@ -79,7 +80,7 @@ Können der Senat beziehungsweise die Behörde für Schule und Berufsbildung aus
 
 Hat es während der Veranstaltung bereits Wortmeldungen von Teilnehmern gegeben, die die Tendenz der Veranstaltung, die Art der Vermittlung und einen möglichen Mangel an Kontroversität bei der Darstellung des Themas, der mit den Grundsätzen des Beutelsbacher Konsenses nicht vereinbar wäre, beklagten? Wenn ja, welche Schlussfolgerungen leitet der Senat beziehungsweise die Behörde für Schule und Berufsbildung daraus ab?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ziel der Veranstaltung war es, die Beiträge der Teilnehmerinnen und Teilnehmer in die Diskussion einzubinden. Daher wurde aus Sicht der Veranstalter zu keinem Zeitpunkt gegen den Beutelsbacher Konsens verstoßen. Die in der Einleitung dargelegten Aussagen sind aus dem Kontext gerissen und verzerren den Blick auf die Veranstaltung, bei der es sich um eine Diskussionsveranstaltung handelte, in der unterschiedliche Meinungen geäußert wurden. Im Übrigen wurden die Beiträge einzelner Teilnehmerinnen und Teilnehmer nicht protokolliert. Darüber hinaus siehe Vorbemerkung und Antwort zu 3. bis 5.
 
@@ -125,31 +126,31 @@ Warum hat der Senat wahrheitswidrig in Drs. 21/6316 angegeben, dass im Veranstal
 
 Das LI hält keine Veranstaltungen ab, in denen für oder gegen eine politische Partei geworben oder agitiert wird. Die Leitung der zuständigen Abteilung Fortbildung verantwortet die Fortbildungsveranstaltungen. Es wurden keine Bücher zum Verkauf angeboten, die Stiftung Regenbogen hat mehrere Exemplare zur Mitnahme ausgelegt. Das vorgestellte Buch „Gefährliche Bürger“ ist aus Sicht der Veranstalter dabei nicht als „Anti-AfD-Buch“ zu beschreiben, sondern als ein Buch, das vor Gefahren für die Demokratie warnt und dazu aufruft, diese mit rechtsstaatlichen Mitteln zu verteidigen. Die im Betreff der Anfrage verwendete Bezeichnung als „Anti-AfD-Schulung“ ist unzutreffend und wurde vonseiten der Veranstalter nicht verwendet. Gegen eine Spende an die Stiftung Regenbogen wurde das Buch vom Autor signiert. Die Spendendose und Überweisungsträger der Stiftung sind auf dem Foto erkennbar. Während der Veranstaltung wurden diverse Handreichungen und Unterrichtsmaterialien des LI und anderer Akteure ausgelegt, zum Beispiel:
 
- Islamfeindlichkeit begegnen; Eine Hilfestellung für den Alltag, im Privat- oder
+– Islamfeindlichkeit begegnen; Eine Hilfestellung für den Alltag, im Privat- oder
 
 Berufsleben, Unternehmen oder Verein (bpb),
 
- Lernen durch Engagement, DVD (Freudenbergstiftung),
+– Lernen durch Engagement, DVD (Freudenbergstiftung),
 
- Roma und Sinti; Bildungsberater an Hamburger Schulen – Eine Bestandsaufnah-
+– Roma und Sinti; Bildungsberater an Hamburger Schulen – Eine Bestandsaufnah-
 
 me (LI Hamburg),
 
- „Wie wollen wir leben?“ Filme und Materialien für die pädagogische Praxis
+– „Wie wollen wir leben?“ Filme und Materialien für die pädagogische Praxis
 
 (ufuq.de),
 
- Schülerfibel – Ein Ratgeber für Schülerinnen und Schüler (Schülerkammer Ham-
+– Schülerfibel – Ein Ratgeber für Schülerinnen und Schüler (Schülerkammer Ham-
 
 burg),
 
- ABC – Demokratiepädagogik (DeGeDe),
+– ABC – Demokratiepädagogik (DeGeDe),
 
- Wettbewerbsbroschüre Demokratisch Handeln (Demokratisch Handeln),
+– Wettbewerbsbroschüre Demokratisch Handeln (Demokratisch Handeln),
 
- Hör mir zu! (Devi e.V.),
+– Hör mir zu! (Devi e.V.),
 
- Was tun gegen Antisemitismus?! (Arbeit und Leben Hamburg; Mobile Beratungs-
+– Was tun gegen Antisemitismus?! (Arbeit und Leben Hamburg; Mobile Beratungs-
 
 team Hamburg).
 

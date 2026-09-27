@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 19
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10785", "21/11727"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61251"
@@ -43,7 +44,7 @@ Liegen dem Senat weiterhin Interessenbekundungen für die Austragung des Fanfest
 
 Wenn es derzeit keine Interessenbekundungen gibt und das Fanfest damit zu scheitern droht, prüft der Senat derzeit eine Weiterentwicklung beziehungsweise Veränderung des Konzeptes für das Fanfest (zum Beispiel anderer Ort, anderer Umfang, andere Finanzierung, anderes „Nebenprogramm“)? Wenn ja, welche Überlegungen hat der Senat dazu? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das in Drs. 21/10785 beschriebene Ausschreibungsverfahren ist abgeschlossen. Das Fanfest 2018 auf dem Heiligengeistfeld wird von der uba GmbH uwe bergmann agentur events & event consulting ausgerichtet. Das Konzept umfasst beispielsweise eine LED-Leinwand, ein Gesamt-Catering, eine Bühnenshow und eine Medienpartnerschaft. Daneben gibt es einen Antrag zur Teilnutzung des Gerhart-Hauptmann-Platzes zur Übertragung der Fußballweltmeisterschaft 2018. Aufgrund des noch laufenden Verfahrens können weitere Details zum Schutz des Antragstellers nicht herausgegeben werden.
 

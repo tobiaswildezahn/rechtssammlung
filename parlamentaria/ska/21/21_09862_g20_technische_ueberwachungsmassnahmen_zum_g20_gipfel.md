@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 25
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4900"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58675"
@@ -80,7 +81,7 @@ Wie viele Ortungsimpulse („stille SMS“) wurden aufgrund welcher Rechtsgrundl
 
 Wie viele Ortungsimpulse („stille SMS) wurden in Hamburg für und durch welche Behörden im Bereich der politisch motivierten Kriminalität mit Bezug zum G20-Gipfel eingesetzt und in welchen Phänomenbereichen und auf welcher Rechtsgrundlage kamen diese jeweils zur Anwendung (bitte differenzieren nach Informationsgewinnung, Gefahrenabwehr, Strafverfolgung und so weiter)?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Durch die Staatsanwaltschaft wurde die in den Fragen beschriebene Verfahrensweise in keinem Verfahren verwendet.
 
@@ -168,7 +169,7 @@ Inwiefern erhielt die Hamburger Polizei für ihre Lagebilder auch Informationen,
 
 Inwiefern erhielt die Hamburger Polizei für ihre Lagebilder auch Informationen, die aus der Aufklärung militärischer Drohnen stammen?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Die Polizei Hamburg erhielt keine Informationen im Sinne der Fragestellungen.
 

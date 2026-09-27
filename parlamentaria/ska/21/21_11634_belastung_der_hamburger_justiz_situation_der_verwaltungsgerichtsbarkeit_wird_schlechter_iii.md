@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9214", "21/8334", "21/3455", "21/10630"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60864"
@@ -168,6 +169,6 @@ Wie hoch ist die krankheitsbedingte Fehlzeitenquote für Justizangestellte und S
 
 Wie viel zusätzliches Personal benötigt das Verwaltungsgericht, um die Neuzugänge, insbesondere im Asylverfahren und in asylrechtlichen Eilverfahren, besser bearbeiten zu können?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung, Antwort zu 4. sowie Drs. 21/10630.

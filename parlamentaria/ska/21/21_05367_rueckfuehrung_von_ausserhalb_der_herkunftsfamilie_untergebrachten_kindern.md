@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1963", "21/3845", "21/741"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53862"
@@ -95,7 +96,7 @@ Der Fall Tayler hat exemplarisch vor Augen geführt, dass auch die bestehenden R
 
 Der PUA hat die Empfehlung ausgesprochen, das fachliche Rahmenkonzept für die Hamburger Pflegekinderhilfe dahin gehend zu ergänzen, dass vor einer Rückführungsentscheidung zu prüfen ist, ob angesichts des Zeitverlaufs die Rückführung an sich bereits das Kindeswohl gefährden würde. In das Rahmenkonzept sollten zudem klarere zeitliche Vorgaben für die Rückführungsentscheidung aufgenommen werden, die das Bindungsverhalten von Kindern verschiedener Altersstufen berücksichtigen. In das Rahmenkonzept sollte darüber hinaus die Vorgabe aufgenommen werden, dass im Falle einer Entscheidung über eine Rückführung deren fachliche Begründung schriftlich zu dokumentieren ist. Inwiefern wurden diese zentralen Empfehlungen inzwischen umgesetzt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/741.
 
@@ -160,17 +161,17 @@ b. Welche Ergebnisse hat die Qualifizierungsreihe ergeben?
 
 Die 1. Qualifizierungsreihe ist im Februar 2015 gestartet und richtet sich an alle Fachkräfte der Hamburger Pflegekinderdienste. Zentrale Themen der Qualifizierungsreihe, die in fünf Modulen à zwei Tage stattfindet und sich über einen Zeitraum von einem Jahr erstreckt, sind unter anderem
 
- Auswahl von geeigneten Pflegefamilien,
+– Auswahl von geeigneten Pflegefamilien,
 
- Gestaltung von Übergängen,
+– Gestaltung von Übergängen,
 
- Perspektivklärung und Rückkehrprozesse,
+– Perspektivklärung und Rückkehrprozesse,
 
- Beratung und Begleitung von Pflegefamilien,
+– Beratung und Begleitung von Pflegefamilien,
 
- Gestaltung von Besuchskontakten und
+– Gestaltung von Besuchskontakten und
 
- Kooperation zwischen den beteiligten Diensten.
+– Kooperation zwischen den beteiligten Diensten.
 
 Die Anwendung der einheitlichen und verbindlichen Regularien aus der Fachanweisung Pflegekinderdienst, dem Fachlichen Rahmenkonzept für die Hamburger Pflegekinderhilfe und den relevanten Arbeitsrichtlinien des Anlagenbandes wurden vertieft und praxisnah konkretisiert. Zudem konnten Inhalte aus der aktuellen Forschung zu einem vertieften Verständnis unter anderem von Bedürfnisprofilen von Kindern in Pflegefamilien beitragen.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 20
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54711"
@@ -108,6 +109,6 @@ Ist ab 2017 ein gesonderter Sportfördervertrag für Sportspaß e.V. vorgesehen?
 
 Plant der Senat angesichts der durch den Austritt von Sportspaß e.V. aus dem HSB veränderten Gesamtlage eine Nachverhandlung des laufenden Sportfördervertrages? Wenn ja, wann, in welchem Umfang und mit welchem Ziel? Wenn nein, ist der Senat der Ansicht, dass der HSB auch mit den verringerten Einnahmen seine Aufgaben im vollen Umfang erfüllen kann?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Nein. Siehe Antwort zu 2. bis 4. und Vorbemerkung.

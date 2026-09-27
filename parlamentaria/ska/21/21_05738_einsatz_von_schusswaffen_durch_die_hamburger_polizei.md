@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1032"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54230"
@@ -137,7 +138,7 @@ Welche Methoden werden genutzt, um die Hamburger Polizistinnen und Polizisten au
 
 Wie viele und welche Maßnahmen zur Auffrischung und Trainings finden in den einzelnen Bereichen der Hamburger Polizei jeweils je Polizist/in jährlich statt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Polizeivollzugsbeamte werden kontinuierlich aus- und fortgebildet, um das Schießen in Theorie und Praxis zu beherrschen. Im Übrigen siehe Drs. 21/1032.
 
@@ -165,7 +166,7 @@ Welche weiteren Trainingsmaßnahmen sind geplant?
 
 Inwieweit hat die anhaltend latente Gefahr von Anschlägen und terroristischen Akten die Vorbereitung auf den Einsatz von Schusswaffen in der Hamburger Polizei verändert (zum Beispiel vermehrtes Training und Einsatz von Maschinenpistolen)?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Erforderliche Anpassungen aufgrund von Erkenntnissen aus entsprechenden Bedrohungs- oder Gefährdungslagen werden durchgängig in der Schießaus- und -fortbildung vorgenommen.
 

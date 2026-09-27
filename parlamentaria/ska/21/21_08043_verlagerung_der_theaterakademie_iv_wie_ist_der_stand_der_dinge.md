@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 19
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3897", "21/6407", "21/7668"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56709"
@@ -63,7 +64,7 @@ Wurden die Beschlüsse der zuständigen Gremien des Deutschen Schauspielhauses u
 a) Wenn ja: Auf welcher Grundlage beziehungsweise welcher Informationen wurden die Beschlüsse gefasst beziehungsweise welche Informationen lagen den Gremien vor?
 b) Wenn nein: Was waren die wesentlichen Erkenntnisse des vorliegenden Kostenvergleichs und/oder der vorliegenden Wirtschaftlichkeitsprüfung beziehungsweise der vorliegenden Wirtschaftlichkeitsunterlage?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Aufgabe des Standorts resultiert aus dem Scheitern von Verhandlungen mit dem Vermieter, insbesondere zur Umsetzung technischer Baumaßnahmen. Die Realisierung am neuen Standort ist an das vorgegebene Budget des Jungen Schauspielhauses für die Miete gebunden. Eine Wirtschaftlichkeitsbetrachtung erfolgte daher unter diesem Aspekt. Im Übrigen siehe Antwort zu 1. bis 1. b).
 

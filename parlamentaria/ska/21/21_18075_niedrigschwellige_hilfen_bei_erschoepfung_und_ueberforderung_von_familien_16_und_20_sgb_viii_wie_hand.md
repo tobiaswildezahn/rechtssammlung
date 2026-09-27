@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67691"
@@ -55,17 +56,17 @@ Für die Unterstützung der Eltern bei der Betreuung und Versorgung des Kindes i
 
 Leistungsberechtigt sind Eltern danach, wenn
 
-• das zu betreuende Kind beziehungsweise die zu betreuenden Kinder bei Beginn der Betreuung das 14. Lebensjahr noch nicht vollendet hat beziehungsweise haben,
+– das zu betreuende Kind beziehungsweise die zu betreuenden Kinder bei Beginn der Betreuung das 14. Lebensjahr noch nicht vollendet hat beziehungsweise haben,
 
-• das Kind oder die Kinder im elterlichen Haushalt lebt beziehungsweise leben,
+– das Kind oder die Kinder im elterlichen Haushalt lebt beziehungsweise leben,
 
-• die Hilfe erforderlich ist, um das Wohl des Kindes oder der Kinder zu gewährleisten (zum Beispiel um dem Kind den vertrauten Lebensraum zu erhalten oder um eine Trennung von Geschwistern zu verhindern),
+– die Hilfe erforderlich ist, um das Wohl des Kindes oder der Kinder zu gewährleisten (zum Beispiel um dem Kind den vertrauten Lebensraum zu erhalten oder um eine Trennung von Geschwistern zu verhindern),
 
-• der andere im Haushalt lebende Elternteil bei Krankheit des überwiegend betreuenden Elternteils nicht zum Zweck der Kinderbetreuung von der Berufsarbeit freigestellt werden kann,
+– der andere im Haushalt lebende Elternteil bei Krankheit des überwiegend betreuenden Elternteils nicht zum Zweck der Kinderbetreuung von der Berufsarbeit freigestellt werden kann,
 
-• die Betreuungsangebote in Tageseinrichtungen, Tagespflege (einschließlich der Tagespflege im Haus der Eltern) oder Schule nicht ausreichen.
+– die Betreuungsangebote in Tageseinrichtungen, Tagespflege (einschließlich der Tagespflege im Haus der Eltern) oder Schule nicht ausreichen.
 
-• Die Unterstützung wird nicht gewährt, wenn die Betreuung und Versorgung durch Großeltern, durch Geschwister, Geschwister der Eltern oder deren Partnerin beziehungsweise Partner oder durch den Lebenspartner beziehungsweise die Lebenspartnerin der Mutter oder des Vaters erfolgen kann.
+– Die Unterstützung wird nicht gewährt, wenn die Betreuung und Versorgung durch Großeltern, durch Geschwister, Geschwister der Eltern oder deren Partnerin beziehungsweise Partner oder durch den Lebenspartner beziehungsweise die Lebenspartnerin der Mutter oder des Vaters erfolgen kann.
 
 Der Senat fördert für Kinder und Jugendliche im Alter von 8 bis 15 Jahren aus einkommensschwachen Familien Kinder- und Jugenderholungsreisen. Darüber hinaus werden umfängliche Ferienangebote im Rahmen der ganztägigen Betreuung an Schulen und mit dem Hamburger Ferienpass vorgehalten.
 
@@ -87,7 +88,7 @@ Wie viele Anträge auf Leistungen nach §§ 16 Absatz 1 und 2 Satz 3 SGB VIII un
 
 In wie vielen Fällen jährlich seit 2010 hat der der Senat beziehungsweise die zuständige Behörde Maßnahmen der §§ 16 Absatz 1 und 2 Satz 3 SGB VIII und 20 SGB VIII den von Überforderung betroffenen Familien zur Verfügung gestellt und welche waren dies? Bitte nach Standort des Jugendamtes beziehungsweise nach Bezirk aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Zu § 20 SGB VIII siehe Anlage 1. Daten sind hierzu wegen der Einführung des Fachverfahrens JUS-IT erst ab dem Jahr 2012 verfügbar.
 

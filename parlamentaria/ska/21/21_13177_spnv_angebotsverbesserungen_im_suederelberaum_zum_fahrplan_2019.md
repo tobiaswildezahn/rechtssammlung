@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62514"
@@ -59,13 +60,13 @@ Welche Angebotsverbesserungen in Form von zusätzlichen und/oder verlängerten Z
 
 Mit dem neuen Verkehrsvertrag gehen wesentliche Angebotsverbesserungen einher:
 
-• neues Linienkonzept RE2 (Uelzen – Hannover Hbf – Göttingen)/RE3 (Hamburg Hbf – Uelzen) mit zweistündlicher Durchbindung der Züge in Uelzen (und damit neuen Direktverbindungen Hamburg Hbf – Hannover Hbf im Regionalverkehr),
+– neues Linienkonzept RE2 (Uelzen – Hannover Hbf – Göttingen)/RE3 (Hamburg Hbf – Uelzen) mit zweistündlicher Durchbindung der Züge in Uelzen (und damit neuen Direktverbindungen Hamburg Hbf – Hannover Hbf im Regionalverkehr),
 
-• durchgehender Stundentakt der Linie RB31 Hamburg Hbf – Lüneburg am Wochenende bis zum Hauptbahnhof,
+– durchgehender Stundentakt der Linie RB31 Hamburg Hbf – Lüneburg am Wochenende bis zum Hauptbahnhof,
 
-• Ausweitung des Nachtverkehrs am Wochenende im Hamburger Umland mit Stundentakt von Hamburg nach Lüneburg und Tostedt,
+– Ausweitung des Nachtverkehrs am Wochenende im Hamburger Umland mit Stundentakt von Hamburg nach Lüneburg und Tostedt,
 
-• umsteigefreie Verstärkerfahrten zwischen Hamburg und Hannover an Wochenenden zur Entlastung stark nachgefragter Züge.
+– umsteigefreie Verstärkerfahrten zwischen Hamburg und Hannover an Wochenenden zur Entlastung stark nachgefragter Züge.
 
 ### Frage 3
 
@@ -117,17 +118,17 @@ Welche Angebotsverbesserungen in Form von zusätzlichen und/oder verlängerten Z
 
 Zum Fahrplan 2019 werden folgende Angebotsverbesserungen im Abschnitt Neugraben – Stade der S3 umgesetzt:
 
- durchgehender Stundentakt zwischen Hamburg und Stade im Wochenendnacht-
+– durchgehender Stundentakt zwischen Hamburg und Stade im Wochenendnacht-
 
 verkehr,
 
- montags bis freitags Verlängerung des Zehn-Minuten-Betriebes zwischen Buxte-
+– montags bis freitags Verlängerung des Zehn-Minuten-Betriebes zwischen Buxte-
 
 hude und Neugraben in den Hauptverkehrszeiten jeweils um eine Stunde sowie
 
 Verlängerung des 20-Minuten-Takts zwischen Buxtehude und Neugraben abends um eine Stunde; die erste Fahrt von Neugraben nach Buxtehude verkehrt bereits um 4.46 Uhr (bisher: 5.16 Uhr),
 
- sonn- und feiertags ein zusätzliches Zugpaar (Buxtehude ab 8.24 Uhr nach Neu-
+– sonn- und feiertags ein zusätzliches Zugpaar (Buxtehude ab 8.24 Uhr nach Neu-
 
 graben, Neugraben ab 6.36 Uhr nach Buxtehude).
 

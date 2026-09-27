@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 25
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10548", "21/6114", "21/6505"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59540"
@@ -75,7 +76,7 @@ Ist der für den Erhalt der Kaimauer zuständigen Stelle bekannt, dass es oberha
 
 Seit wann ist der für die Instandhaltung zuständigen Stelle bekannt, dass es eine Absenkung des Erdreichs an besagtem Ort gegeben hat?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Dem Projekt ist der Sachverhalt seit Ende des Jahres 2016 bekannt. Im Übrigen siehe Antwort zu 1.
 

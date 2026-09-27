@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10510", "21/10281", "21/11966", "21/12585", "21/5073", "21/13044", "21/2550"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62952"
@@ -220,21 +221,21 @@ Unter anderem in der Dekadenstrategie aus 2016 werden auf Seite 24 „spezifisch
 
 Bei den Maßnahmen handelt es sich um:
 
- finanzielle Förderungen von Qualifizierungsmaßnahmen für Menschen mit Migrati-
+– finanzielle Förderungen von Qualifizierungsmaßnahmen für Menschen mit Migrati-
 
 onshintergrund,
 
- gezielte Suche der Stützpunktvereine nach Menschen mit Migrationshintergrund
+– gezielte Suche der Stützpunktvereine nach Menschen mit Migrationshintergrund
 
 für ehrenamtliche Aufgaben in der Integrationsarbeit,
 
- direkte Einbindung von Migrantinnen und Migranten in die ehrenamtliche Arbeit der
+– direkte Einbindung von Migrantinnen und Migranten in die ehrenamtliche Arbeit der
 
 Stützpunktvereine,
 
- Fortbildungsreihe „Raus aus der Unterkunft – Rein ins Ehrenamt“,
+– Fortbildungsreihe „Raus aus der Unterkunft – Rein ins Ehrenamt“,
 
- gezielte Schulungsmaßnahmen wie zum Beispiel Ausbildung der Botschafterin des
+– gezielte Schulungsmaßnahmen wie zum Beispiel Ausbildung der Botschafterin des
 
 Sports, Coaches Welcome et cetera.
 
@@ -242,23 +243,23 @@ a. Wo wird über diese Programme öffentlich informiert?
 
 Eine Information erfolgt über folgende Maßnahmen:
 
- öffentliche Ausschreibung über die HSB-Kommunikationskanäle und HSB-E-Mail-
+– öffentliche Ausschreibung über die HSB-Kommunikationskanäle und HSB-E-Mail-
 
 Verteiler,
 
- Weiterleitung der Ausschreibungen an Kooperationspartner und Netzwerke,
+– Weiterleitung der Ausschreibungen an Kooperationspartner und Netzwerke,
 
- Weitergabe der Informationen in den persönlichen Beratungsgesprächen mit den
+– Weitergabe der Informationen in den persönlichen Beratungsgesprächen mit den
 
 HSB-Mitgliedsvereinen,
 
- direkte Ansprache von Migrantinnen und Migranten,
+– direkte Ansprache von Migrantinnen und Migranten,
 
- Informationsweitergabe in den Veranstaltungen zur Vernetzung und zum Aus-
+– Informationsweitergabe in den Veranstaltungen zur Vernetzung und zum Aus-
 
 tausch,
 
- Aufnahme der „gezielten Einbindung von Migrantinnen und Migranten in die Funk-
+– Aufnahme der „gezielten Einbindung von Migrantinnen und Migranten in die Funk-
 
 tionsebenen der Vereine“ als konkrete Maßnahme in den Integrationskonzepten der Stützpunktvereine.
 
@@ -283,43 +284,43 @@ Im Masterplan Active City für Hamburg aus 2016 wird auf Seite 110 auf vier stra
 
 #### Antwort zu Frage 6
 
- Ehrenamtskoordinatoren/Flüchtlingskoordinatoren der einzelnen Bezirksämter aller
+– Ehrenamtskoordinatoren/Flüchtlingskoordinatoren der einzelnen Bezirksämter aller
 
 Hamburger Bezirke
 
- Zentraler Koordinierungsstab Flüchtlinge
+– Zentraler Koordinierungsstab Flüchtlinge
 
- SCHURA Hamburg
+– SCHURA Hamburg
 
- Deutsch Algerisches Kulturzentrum, Kulturschloss Wandsbek, Nestwerk e.V.,
+– Deutsch Algerisches Kulturzentrum, Kulturschloss Wandsbek, Nestwerk e.V.,
 
 Flüchtlingsinitiative Harvestehude, Euro-Mediterran-Arabischer Länderverein, Flüchtlingshilfe Binnenhafen, ASB Flüchtlingshilfe, Caritasverband für Hamburg e.V., Runder Tisch Blankenese, Meiendorf hilft, Flüchtlingshilfe Kirchwerder, Bergedorfer für Völkerverständigung, Flüchtlingshilfe Harvestehude, Lokstedt in motion, Die Insel hilft e.V., Willkommen-Team Norderstedt, Herzliches Lokstedt, Basis und Woge e.V., Freie Deutsch-Syrische Gesellschaft e.V., Ella Kulturhaus und viele Andere
 
 b. Welche Maßnahmen sind inzwischen angelaufen, um den oben zitierten Schwerpunkt wirksam umzusetzen?
 
- Einsatz der Sportkoordinatoren: Vernetzungsarbeit lokal in den Bezirken zwischen
+– Einsatz der Sportkoordinatoren: Vernetzungsarbeit lokal in den Bezirken zwischen
 
 den Sportvereinen und Flüchtlingsunterkünften und weiteren Akteuren in der Integrations- und Flüchtlingsarbeit,
 
- Durchführung von Veranstaltungen zur Förderung des Austausches, der Vernet-
+– Durchführung von Veranstaltungen zur Förderung des Austausches, der Vernet-
 
 zung und der Informationsgewinnung: Es wurden sechs Dialogforen und neun weitere Veranstaltungen zu integrationsspezifischen Themen in 2017 durchgeführt,
 
- Qualifizierungsmaßnahmen/Fortbildungen im Bereich Interkulturelle Kompetenzen
+– Qualifizierungsmaßnahmen/Fortbildungen im Bereich Interkulturelle Kompetenzen
 
 im Sport – Diversity Management,
 
- Kooperation und Veranstaltung mit der SCHURA und Flüchtlingsinitiativen,
+– Kooperation und Veranstaltung mit der SCHURA und Flüchtlingsinitiativen,
 
- Durchführung von Strategieworkshops/Arbeitstagungen mit den Vereinen zum
+– Durchführung von Strategieworkshops/Arbeitstagungen mit den Vereinen zum
 
 Thema Vernetzung mit Migrantenorganisationen et cetera,
 
- systemische Beratung von interkulturellen Öffnungsprozessen im Rahmen einer
+– systemische Beratung von interkulturellen Öffnungsprozessen im Rahmen einer
 
 Vereins- oder Verbandsentwicklung,
 
- Web-Portal: http://www.willkommen-im-sport.de/. Zielsetzung: Vereinsangebote für
+– Web-Portal: http://www.willkommen-im-sport.de/. Zielsetzung: Vereinsangebote für
 
 Geflüchtete in den Stadtteilen darstellen, Flüchtlingsberatung und Flüchtlinge können sich dort über Sportangebote informieren und anmelden; Informationen rund um das Thema vermitteln.
 

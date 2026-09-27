@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14805"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64997"
@@ -53,7 +54,7 @@ Wie ist nach Kenntnis der Freien und Hansestadt Hamburg der aktuelle Stand des P
 
 Wann ist die Inbetriebnahme des Projekts Hammerbrooklyn geplant?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Projekt befindet sich nach Aussagen der HIG in der Realisierung. Die notwendigen Genehmigungen für die Errichtung des Digital Pavillons seien erteilt worden. Mit den Baumaßnahmen sei begonnen und die Bohrpfahlgründung abgeschlossen worden. Im Januar werde die Erstellung der Fundamente beginnen, die Inbetriebnahme sei für Ende 2019 geplant. Eine Campus-Gesellschaft sei gegründet und ein Hammerbrooklyn-Team befinde sich im Aufbau. Bis Ende 2019 solle das Team aus circa 20 Mitarbeitern bestehen, darunter Digital Transformation Guides, Innovations- und Wissensmanager, Technologieexperten und Content-Produzenten.
 

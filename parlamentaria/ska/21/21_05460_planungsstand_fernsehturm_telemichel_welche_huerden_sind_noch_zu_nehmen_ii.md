@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 17
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5711", "21/574", "21/4590", "20/14420"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53952"
@@ -73,7 +74,7 @@ Unterstützt der Senat die Bemühungen der Stiftung Fernsehturm „HAM- BURG AUF
 
 Unterstützt der Senat die Bemühungen der Stiftung Fernsehturm „HAM- BURG AUFWÄRTS“ bei der Verhandlung mit dem Grundeigentümer Deutsche Telekom? Wenn ja, welche Maßnahmen hat der Senat ergriffen, um die Stiftung zu unterstützen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/4590, 21/574, 20/14420 20/12563, 20/11640 und 20/5711. Zudem war die Stiftung zu Gast beim Hamburger Stiftungsempfang.
 
@@ -85,6 +86,6 @@ Befürwortet der Senat eine „Hamburger Lösung“, nach der die Einnahmen aus 
 
 Aus welchen Gründen schließt der Senat den Betrieb beziehungsweise die Pacht des Fernsehturms kategorisch aus?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der Turm befindet sich im Privateigentum. Insoweit gehen die zuständigen Behörden davon aus, dass auch der Betrieb des Drehrestaurants und der Aussichtsplattform privatwirtschaftlich erfolgen. Im Übrigen hat sich der Senat mit diesen Fragen nicht befasst.

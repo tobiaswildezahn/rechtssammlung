@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54588"
@@ -47,7 +48,7 @@ In welcher Höhe hat sich die Leitstelle Klimaschutz finanziell an diesem Projek
 
 Wie hoch waren die Gesamtkosten des Projektes?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Gesamtkosten des Projekts belaufen sich auf 80.115 Euro. Die Leitstelle Klimaschutz hat sich mit 71.857 Euro beteiligt.
 

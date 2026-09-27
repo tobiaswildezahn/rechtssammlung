@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 24
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15146"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65448"
@@ -75,7 +76,7 @@ Seit wann sind die Gassi-Beutel an den auf der Homepage der SRH genannten Orten 
 
 An welchen weiteren Orten wurden in den vergangenen fünf Jahren (2014 – 2018) Gassi-Beutel der SRH kostenlos abgegeben?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Gassi-Beutel sind seit Februar 2003 kostenlos erhältlich. Dabei wurden die Möglichkeiten, Gassi-Beutel zu erhalten, sukzessive auf die derzeitigen Angebote erweitert, siehe dazu auch https://www.stadtreinigung.hamburg/privatkunden/ gassibeutel.html.
 
@@ -117,7 +118,7 @@ Sind dem Senat Initiativen für die Abgabe von Gassi-Beuteln über andere privat
 
 Sind an den Senat beziehungsweise an die SRH Initiativen privater Art zur Abgabe von Gassi-Beuteln im Zeitraum 2014 – 2018 herangetragen worden? Wenn ja, wie sahen diese Initiativen konkret und im Einzelfall aus? Wann wurden diese Initiativen an den Senat herangetragen und wie sahen jeweils die Antworten des Senats beziehungsweise der SRH aus?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Anlieger bringen zuweilen Gassi-Beutel blockweise an Bäumen oder Zäunen an, um Hundehalter zur Benutzung zu animieren.
 

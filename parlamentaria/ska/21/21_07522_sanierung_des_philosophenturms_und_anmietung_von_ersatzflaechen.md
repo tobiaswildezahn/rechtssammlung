@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 15
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3528"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56131"
@@ -77,7 +78,7 @@ Soll der Philosophenturm ins Mieter-Vermieter-Modell übertragen werden? Wenn ja
 
 Mit welchen monatlichen Mietkosten rechnet der Senat für den Philosophenturm pro Quadratmeter, wenn die Sanierung abgeschlossen ist? Bitte Warm- und Kaltmiete angeben.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung sowie Drs. 21/3528.
 

@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 32
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16553"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68535"
@@ -53,7 +54,7 @@ b) Wie viele Personen wurden kontaktiert?
 c) Was wurde ihnen konkret angeboten?
 d) Wie viele haben das Angebot angenommen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Um die Umsetzung des Qualifizierungschancengesetzes in Hamburg zu unterstützen, hat die Behörde für Arbeit, Soziales, Familie und Integration (BASFI) mit Jobcenter seit dem 15.04.2019 ein Pilotprojekt aufgelegt, in dessen Rahmen Jobcenter mit dem ESF-Projekt „Hamburger Weiterbildungsbonus“ kooperiert. Im Rahmen des Pilotprojekts werden gezielt Ergänzerinnen und Ergänzer in sozialversicherungspflichtiger
 

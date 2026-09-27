@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7366", "21/1121", "21/4684"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56357"
@@ -43,7 +44,7 @@ Liegen zwischenzeitlich auch die Zahlen für das 4. Quartal 2016 vor? Falls ja: 
 
 In welchen Straßen fanden die Einbrüche im Alstertal und den Walddörfern im Jahr 2016, gegebenenfalls in den ersten drei Quartalen, jeweils genau statt? Bitte die Straßen einzeln nach den Stadtteilen Wellingsbüttel, Sasel, Poppenbüttel, Hummelsbüttel sowie Lemsahl-Mellingstedt, Duvenstedt, Wohldorf-Ohlstedt, Bergstedt und Volksdorf auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die räumliche Erfassung in der Polizeilichen Kriminalstatistik (PKS) erfolgt in der kleinsten Einheit nach Ortsteilen; Straßen werden als Tatort in der PKS nicht gesondert erfasst.
 
@@ -57,7 +58,7 @@ Die aufgeklärten Fälle sind der guten Arbeit unserer Polizei zu verdanken, die
 
 Liegen den zuständigen Behörden Erkenntnisse darüber vor, wie viele der Tatverdächtigen, die wegen im Alstertal und den Walddörfern im Jahr 2016 begangenen – versuchten – Einbruchsdiebstählen gefasst wurden, Wiederholungstäter waren? Falls ja, in wie vielen Fällen war das der Fall?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 PKS-Daten im Sinne der Fragestellungen werden von der Polizei standardisiert nicht erhoben.
 

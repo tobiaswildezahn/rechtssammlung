@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58309"
@@ -51,7 +52,7 @@ In wie vielen Fällen werden beziehungsweise wurden seit 2015 Flüchtlingen in H
 
 In wie vielen Fällen werden beziehungsweise wurden seit 2015 allen Übrigen in Arbeit Vermittelten in Hamburg vonseiten der Behörden Taxifahrten zum Arbeitsplatz gezahlt? Wie hoch sind die monatlichen Kosten jeweils anzusetzen? Bitte Anzahl der Fälle samt jeweiliger monatlicher Kosten seit 2015 benennen!
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Statistische Auswertungen über Taxifahrten und einzelne Personengruppen werden nicht erhoben. Im Übrigen siehe Vorbemerkung.
 

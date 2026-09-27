@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 27
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1723", "21/1582", "21/1751", "21/1802"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50098"
@@ -446,7 +447,7 @@ Wie ist der bauliche Zustand der Justizvollzugsanstalt Hahnöfersand? Wie hoch s
 
 Hat die zuständige Behörde für Justiz Kenntnis von einem Sanierungsstau der Justizvollzugsanstalt Hahnöfersand? Wenn ja, seit wann, in welcher Höhe und warum? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Die JVA Hahnöfersand ist eine Anstalt mit einem älteren bis alten Gebäudebestand, der einen unterschiedlichen Sanierungsbedarf aufweist. Während bei etlichen Gebäuden nur kleinere Bauunterhaltungsmaßnahmen erforderlich sind, bedürfen andere einer umfassenden Grundsanierung. Insgesamt beläuft sich der konkret identifizierte Sanierungsbedarf voraussichtlich auf rund 16,5 Millionen Euro. Aufgrund des Alters der Anstalt ist mittel- bis langfristig mit weiteren Sanierungskosten in ungewisser Höhe zu rechnen.
 

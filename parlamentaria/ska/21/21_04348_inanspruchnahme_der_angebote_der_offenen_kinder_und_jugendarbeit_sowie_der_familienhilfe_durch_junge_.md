@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3914", "21/1395", "21/4079", "21/1596", "21/4393"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52750"
@@ -43,7 +44,7 @@ Wie hoch schätzt der Senat die durch die Flüchtlinge entstandenen Mehrbedarfe 
 
 Hat die Zuwanderung von jugendlichen Flüchtlingen 2015 dazu geführt, dass die Angebote der Familienhilfe sowie der freien Kinder- und Jugendhilfe ausgeweitet wurden? Wenn ja, in welcher Größenordnung und in welcher Form? (Bitte nach Bezirken und Trägern aufschlüsseln.) Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Angebote der Familienförderung und der Kinder- und Jugendarbeit richten sich regelhaft unabhängig vom Aufenthaltsstatus an die Bevölkerung im Einzugsbereich. Eine finanzielle Zuordnung bei den Regelangeboten nach dem Status Flüchtling erfolgt demzufolge nicht.
 
@@ -61,7 +62,7 @@ Haben die Mehrbedarfe bei den freien Trägern zu einer Erhöhung der Rahmenzuwei
 
 Haben die Mehrbedarfe zu einer Erhöhung der Zweckzuweisungen der BASFI an die freien Träger geführt? Wenn ja, an in welcher Höhe und an welchen Träger? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die im beschlossenen Haushaltsplan 2015/2016 ausgewiesenen Rahmenzuweisungen beziehungsweise Zweckzuweisungen können unterjährig nur durch einen entsprechenden Haushaltsbeschluss der Bürgerschaft erhöht werden. Mehrbedarfe können durch Rückflüsse beziehungsweise nicht verbrauchte Mittel oder Deckungsfähigkeiten innerhalb von Produktgruppen ausgeglichen werden. Im Übrigen siehe Antworten zu 1. und 2. sowie zu 5.
 

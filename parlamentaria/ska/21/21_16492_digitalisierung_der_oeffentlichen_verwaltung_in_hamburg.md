@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 27
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10214", "21/10748", "21/15651", "21/16192", "21/15623", "21/16288"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66013"
@@ -53,75 +54,75 @@ Wie viele und welche Verwaltungsleistungen wurden seit 2015 digitalisiert? Welch
 
 Die Bereitstellung von Onlinediensten erfolgt in der Freien und Hansestadt Hamburg seit 2003. Seit 2015 wurden 34 Verwaltungsdienstleistungen digitalisiert:
 
- Alsterbootangelkarte
+– Alsterbootangelkarte
 
- Anhörung Verwarnungs-/Bußgeld im Straßenverkehr
+– Anhörung Verwarnungs-/Bußgeld im Straßenverkehr
 
- Antrag auf Zuwendung (Kulturprojekte)
+– Antrag auf Zuwendung (Kulturprojekte)
 
- Anzeige Fassadenreinigung
+– Anzeige Fassadenreinigung
 
- App des Wassergütenetz – Gewässerdaten Hamburg – Datenabfrage
+– App des Wassergütenetz – Gewässerdaten Hamburg – Datenabfrage
 
- Auskünfte f. Sicherheits- und Strafverfolgungsbeh.
+– Auskünfte f. Sicherheits- und Strafverfolgungsbeh.
 
- Baugenehmigungsverfahren – Beteiligung
+– Baugenehmigungsverfahren – Beteiligung
 
- Behördenauskunft für öffentliche Stellen
+– Behördenauskunft für öffentliche Stellen
 
- Bewerbung Ausbildung oder Studium Polizei Hamburg
+– Bewerbung Ausbildung oder Studium Polizei Hamburg
 
- Bewohner- und Besucherparken Online
+– Bewohner- und Besucherparken Online
 
- Einfache Melderegisterauskunft
+– Einfache Melderegisterauskunft
 
- Einfache Melderegisterauskunft Massenanfrager
+– Einfache Melderegisterauskunft Massenanfrager
 
- Einheitlicher Ansprechpartner/Point of Single Contact
+– Einheitlicher Ansprechpartner/Point of Single Contact
 
- Einheitlicher Ansprechpartner Berufsanerkennung
+– Einheitlicher Ansprechpartner Berufsanerkennung
 
- Elektronische Eignungstestung für Juristen und WISO-Trainees
+– Elektronische Eignungstestung für Juristen und WISO-Trainees
 
- Elektronische Poststelle der ESF-Verwaltungs- und Prüfbehörde
+– Elektronische Poststelle der ESF-Verwaltungs- und Prüfbehörde
 
- Fluglärmbeschwerde
+– Fluglärmbeschwerde
 
- Fördermengenmeldung Grundwasser
+– Fördermengenmeldung Grundwasser
 
- Fördermittelrechner – Hamburger Gründachförderung
+– Fördermittelrechner – Hamburger Gründachförderung
 
- Gebührenerhebung Pflanzengesundheitszeugnis (pgz online)
+– Gebührenerhebung Pflanzengesundheitszeugnis (pgz online)
 
- Honorarverträge Schulen: Rechnungserstellung
+– Honorarverträge Schulen: Rechnungserstellung
 
- Immobilienwertdatenauskunft Hamburg
+– Immobilienwertdatenauskunft Hamburg
 
- KAI (Kampfmittelflächenkataster- und Antragsverwaltungs-Informationssystem)
+– KAI (Kampfmittelflächenkataster- und Antragsverwaltungs-Informationssystem)
 
- Kfz-Wiederzulassung
+– Kfz-Wiederzulassung
 
- Kita-Gutschein (beitragsfreie Grundbetreuung)
+– Kita-Gutschein (beitragsfreie Grundbetreuung)
 
- Meldebehörde Intern
+– Meldebehörde Intern
 
- Musikstadtfonds-Förderantrag
+– Musikstadtfonds-Förderantrag
 
- Nachtarbeitsgenehmigung
+– Nachtarbeitsgenehmigung
 
- neues Schulinfosystem im Internet
+– neues Schulinfosystem im Internet
 
- Online-Anmeldung zu Veranstaltungen der Behörden, die das Zentrale Adress-
+– Online-Anmeldung zu Veranstaltungen der Behörden, die das Zentrale Adress-
 
 und Eventmanagement (ZAM) nutzen
 
- Register zum Schutz fairen Wettbewerbs
+– Register zum Schutz fairen Wettbewerbs
 
- Schwerbehindertenantrag
+– Schwerbehindertenantrag
 
- syBOS (Verwaltungsprogramm und App der Feuerwehr)
+– syBOS (Verwaltungsprogramm und App der Feuerwehr)
 
- Wohnraumschutznummer
+– Wohnraumschutznummer
 
 Zu den derzeit in Planung oder Umsetzung befindlichen Digitalisierungsvorhaben siehe Drs. 21/15623.
 

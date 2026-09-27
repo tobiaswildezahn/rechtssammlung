@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66330"
@@ -63,7 +64,7 @@ In welcher Höhe wurden in den vergangenen fünf Jahren Bußgelder verhängt? Bi
 a) Gemäß Bußgeldkatalog droht in Hamburg für nicht genehmigte Baumfällungen ein Bußgeld in Höhe von bis zu 50 000 Euro. Wie wird die Höhe des jeweils verhängten Bußgeldes ermittelt?
 b) Wird eine mögliche Wertsteigerung des Grundstückes beziehungsweise der darauf entstehenden Immobilie durch die nicht genehmigte Baumfällung bei der Festsetzung des Bußgeldes einbezogen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Höhe des Bußgeldes richtet sich nach den Maßgaben des Bußgeldkataloges der Hamburgischen Bezirksämter vom 1. August 2014 in der jeweils geltenden Fassung. Die Bemessung ist innerhalb der aufgeführten Rahmensätze eine Ermessensentscheidung und richtet sich nach der Schwere des vorliegenden Verstoßes, dem Wert des Baumes, dem wirtschaftlichen Vorteil, den wirtschaftlichen Verhältnissen und der Vorsätzlichkeit.
 

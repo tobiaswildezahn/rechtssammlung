@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/299"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51837"
@@ -58,7 +59,7 @@ Wie stark ist Jugendkriminalität in Bezirken mit einem Migrantenanteil von übe
 
 Wie ist die Ausprägung von Jugendkriminalität in Bezirken beschaffen, in denen der Anteil von Migranten an der Bevölkerung im Alter von null – 17 Jahren unter 50 Prozent liegt? Bitte am Beispiel der folgenden Stadtteile angeben: Moorburg/Altenwerder, Tatenberg, Billwerder, Reitbrook, Kirchenwerder, Neuengamme, Altengamme, Bergstedt, Volksdorf, Wohldorf-Ohlstedt.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Begriff „Migrant“ ist kein Erfassungs- und damit Auswertungsmerkmal der polizeilichen Kriminalstatistik. Erfasst werden nicht deutsche Tatverdächtige, wobei sich die Lebens- und Aufenthaltssituation dieser Menschen in Deutschland sehr unterschiedlich darstellt. Im Übrigen siehe Anlage.
 
@@ -71,7 +72,7 @@ Welchen Anteil an Jugendkriminalität haben Täter, die zur Gruppe der unbegleit
 Wie hoch ist der Anteil von UMT begangenen Straftaten in den in Fragen
 1. und 2. genannten Bezirken?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 In der Polizeilichen Kriminalstatistik (PKS) werden die Merkmale „Unbegleiteter Minderjähriger Flüchtling“ oder „Unbegleiteter Minderjähriger Männlicher Flüchtling“ nicht erfasst; siehe auch Drs. 21/299. Zur Beantwortung der Fragenstellungen wäre eine Durchsicht aller Hand- und Ermittlungsakten des erfragten Zeitraumes bei der Polizei erforderlich. Eine Auswertung mehrerer Hunderttausend Akten ist in der für die Beantwortung Parlamentarischer Anfragen zur Verfügung stehenden Zeit nicht möglich.
 

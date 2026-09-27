@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66522"
@@ -155,11 +156,11 @@ Eine Beantwortung ist nicht möglich, da Abfragen von Melderegisterauskünften d
 
 Maßgeblich hierfür sind die Allgemeinen Verwaltungsvorschriften zur Durchführung des BMG (BMGVwV), erlassen vom Bundesministerium des Inneren, für Bau und Heimat am 28. Oktober 2015. Danach stehen der Meldebehörde folgende Möglichkeiten zur Verfügung:
 
- Die Auskunft wird erteilt.
+– Die Auskunft wird erteilt.
 
- Die Auskunft wird abgelehnt.
+– Die Auskunft wird abgelehnt.
 
- Eine neutrale Antwort wird erteilt.
+– Eine neutrale Antwort wird erteilt.
 
 Die neutrale Antwort ist durch die BMGVwV vorgegeben und lautet: Eine Auskunft kann aus tatsächlichen oder rechtlichen Gründen nicht oder derzeit nicht erteilt werden.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 30
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11850", "21/13111", "21/11216", "21/13595"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63306"
@@ -53,7 +54,7 @@ Besteht eine Zugangsmöglichkeit zum Ü35 für Nicht-Fakultätsmitglieder oder U
 
 Wurde den Problemen hinsichtlich des Raumklimas nachgegangen und die Lüftung nachjustiert? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ja.
 

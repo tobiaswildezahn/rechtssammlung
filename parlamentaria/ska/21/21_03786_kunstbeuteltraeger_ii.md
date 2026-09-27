@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 21
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3085"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52184"
@@ -103,7 +104,7 @@ Wie viel Geld wird aus dem städtischen Haushalt zur Verfügung gestellt? Erfolg
 
 In der Drs. 21/3085 wird als Finanzierung das Produkt „Bildende Kunst“ der Produktgruppe 251.02 angegeben. Wie hoch ist jeweils das Soll dieses Produkts in den Haushaltsjahren 2013, 2014, 2015 & 2016? Wie viel Geld wurde jeweils ausgeschöpft und wie viel ist jeweils nicht ausgegeben worden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Im Jahr 2013 wurden 40.000 Euro und 2014 50.000 Euro für das Kunstprojekt „Kunstbeutel“ zur Verfügung gestellt. Im Jahr 2015 wurde das Projekt ausgesetzt, mit dem Ziel, 2016 eine größere Summe zur Verfügung zu stellen. Für 2016 sind insgesamt vorgesehen: 100.000 Euro (50.000 Euro aus 2015, 30.000 Euro aus 2016 – jeweils aus Produktgruppe 251.02 – und 20.000 Euro durch die Körber-Stiftung). Zusätzlich werden noch jeweils pro Jahr 5.000 Euro Abwicklungskosten eingesetzt, also 10.000 Euro im Jahr 2016.
 

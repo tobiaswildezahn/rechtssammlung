@@ -14,6 +14,7 @@ fragen: 25
 einzelfragen: 28
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17186", "21/17361"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69738"
@@ -82,7 +83,7 @@ Geschlecht gehören sie an? Die erbetenen Angaben bitte in Tabellenform machen.
 
 Wie viele der deutschen Mitglieder der HAMAS verfügten 2019 ausschließlich über die deutsche Staatsbürgerschaft?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Eine genaue Aufschlüsselung im Sinne der Fragestellung würde die Einblickstiefe des Landesamtes für Verfassungsschutz Hamburg öffentlich machen und seine künftigen Aufklärungsbemühungen erheblich erschweren. Detaillierte Angaben können daher aus Gründen des Staatswohls nur gegenüber dem nach § 24 Hamburgisches Verfassungsschutzgesetz (HmbVerfSchG) für die parlamentarische Kontrolle des Senats auf dem Gebiet des Verfassungsschutzes zuständigen Kontrollausschuss (PKA) gemacht werden.
 

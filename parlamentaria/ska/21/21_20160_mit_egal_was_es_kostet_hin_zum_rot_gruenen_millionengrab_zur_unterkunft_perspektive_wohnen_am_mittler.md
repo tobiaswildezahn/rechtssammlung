@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 26
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7422", "21/1838", "20/5418"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69935"
@@ -33,15 +34,15 @@ Am 3. Februar 2020 hat der Rechnungshof seinen Jahresbericht 2020 zum Jahresabsc
 
 ## Einleitung für die Antworten des Senats
 
- der Landesbetrieb Immobilienmanagement und Grundvermögen (LIG) städtische Grundstücke entgegen §§ 63, 64 LHO ohne vorherige gutachterliche Verkehrswertfestsetzung veräußert habe,
+– der Landesbetrieb Immobilienmanagement und Grundvermögen (LIG) städtische Grundstücke entgegen §§ 63, 64 LHO ohne vorherige gutachterliche Verkehrswertfestsetzung veräußert habe,
 
- der LIG städtische Grundstücke ohne Legitimation der Bürgerschaft unter Verkehrswert veräußert habe,
+– der LIG städtische Grundstücke ohne Legitimation der Bürgerschaft unter Verkehrswert veräußert habe,
 
- der LIG den Investoren für die Bebauung der Grundstücke Mittlerer Landweg und Ohkamp Abschläge von den vom Gutachterausschuss beim Landesbetrieb Geoinformation und Vermessung (LGV) ermittelten Verkehrswerten gewährt habe, ohne dazu befugt gewesen zu sein und ohne hinreichend geprüft zu haben, ob sie tatsächlich erforderlich beziehungsweise bereits durch den Gutachterausschuss beim LGV in Abzug gebracht worden sind,
+– der LIG den Investoren für die Bebauung der Grundstücke Mittlerer Landweg und Ohkamp Abschläge von den vom Gutachterausschuss beim Landesbetrieb Geoinformation und Vermessung (LGV) ermittelten Verkehrswerten gewährt habe, ohne dazu befugt gewesen zu sein und ohne hinreichend geprüft zu haben, ob sie tatsächlich erforderlich beziehungsweise bereits durch den Gutachterausschuss beim LGV in Abzug gebracht worden sind,
 
- der LIG bei der Veräußerung städtischer Grundstücke, die ohne wettbewerbliche Verfahren im Wege direkter Ansprache der Investoren erfolgt sei, öffentliches Vergabe- und EU-Beihilferecht nicht hinreichend beziehungsweise nicht beachtet habe, und
+– der LIG bei der Veräußerung städtischer Grundstücke, die ohne wettbewerbliche Verfahren im Wege direkter Ansprache der Investoren erfolgt sei, öffentliches Vergabe- und EU-Beihilferecht nicht hinreichend beziehungsweise nicht beachtet habe, und
 
- f & w fördern und wohnen AöR den als Vermieter agierenden Investoren im Rahmen der Mietzahlungen Baukostenzuschüsse gewährt habe, ohne hinreichend geprüft zu haben, ob die Zuschüsse tatsächlich erforderlich beziehungsweise die diesen zugrunde liegenden Einzelposten bereits im
+– f & w fördern und wohnen AöR den als Vermieter agierenden Investoren im Rahmen der Mietzahlungen Baukostenzuschüsse gewährt habe, ohne hinreichend geprüft zu haben, ob die Zuschüsse tatsächlich erforderlich beziehungsweise die diesen zugrunde liegenden Einzelposten bereits im
 
 Rahmen der Grundstücksbewertung oder im Rahmen des Grundstückverkaufs in Abzug gebracht worden sind.
 

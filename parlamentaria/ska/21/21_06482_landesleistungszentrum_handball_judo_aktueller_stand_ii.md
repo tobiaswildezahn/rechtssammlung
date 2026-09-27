@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3114", "21/3659"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55019"
@@ -59,7 +60,7 @@ Welche Auslastungsgrade haben die vorhandenen Sportstätten, die für Handball u
 
 Welche weiteren Sportstätten sind für die Sportarten Handball und Judo geeignet?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Turnhalle Wandsbeker Allee 54 wird bis zur Fertigstellung einer entsprechenden Halle am Olympia Stützpunkt Hamburg Schleswig-Holstein vom Hamburger Judo- Verband ganztägig an sieben Tagen die Woche genutzt.
 

@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 42
 antwortbloecke: 22
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10860", "21/2435"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50851"
@@ -53,7 +54,7 @@ Wie hat sich die Zahl der Logins in das WLAN auf den Buslinien M3 und 31 seit 20
 
 Wie hat sich der Anteil der Nutzer des WLAN im Verhältnis zu den Fahrgästen auf den Linien M3 und 31 seit 2012 entwickelt? Bitte monatsweise und nach Linien aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine linienweise Aufschlüsslung wird von der die Linien M3 und 31 betreibenden VHH nicht vorgenommen. Die Fahrzeuge der Linien 3 und 31 werden umlaufbedingt auch auf anderen Linien eingesetzt, sodass dann auch die Fahrgäste zum Beispiel der Linie M2 ebenfalls auf das WLAN zugreifen können.
 
@@ -339,7 +340,7 @@ Wenn nein, warum nicht?
 
 Was kostet die WLAN-Nachrüstung einer HADAG-Fähre?
 
-#### Antwort zu Fragen 20 bis 21
+#### Antwort zu Fragen 20 und 21
 
 Die HADAG plant derzeit keine Ausstattung der Hafenfähren mit WLAN-Empfang. Bisher konnten diesbezüglich keine Kundenwünsche festgestellt werden. Darüber hinaus können keine Angaben gemacht werden.
 

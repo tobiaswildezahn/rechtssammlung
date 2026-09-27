@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 21
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/7296", "19/8174", "20/5972", "20/12882", "21/1917", "21/5677"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56671"
@@ -119,7 +120,7 @@ Existierten/existieren seit 2015/2016 bis heute (Stand Februar 2017) an den staa
 
 Welche der in Frage 4. erfragten Angebote an welchen Schulen waren/ sind Teil des obligatorischen oder fakultativen Unterrichts, welchem Fach gehören sie zu und wie viele Schüler/-innen welcher Jahrgangsstufe nahmen jeweils daran teil? (Bitte für jedes Schuljahr mit Nennung des Kurstitels und Inhalts, getrennt in nicht körperlich und körperlich, samt Angabe von Standort, Schulform, Sozialindex und Bezirk in absoluten Schüler-/-innenzahlen in einer Excel-Tabelle angeben.) a. Welche der in Frage 4. erfragten Angebote an welchen Schulen waren/sind fakultativer oder obligatorischer Teil des schulischen Ganztags und wie viele Schüler/-innen, welcher Jahrgangsstufe nahmen jeweils daran teil? (Bitte entsprechend in der Tabelle zu 5. angeben.) b. Welche der in Frage 4. erfragten Angebote an welchen Schulen waren/sind Angebote im Rahmen schulischer Projekt- und/oder Aktionstage und wie viele Schüler/-innen welcher Jahrgangsstufe nahmen jeweils daran teil? (Bitte entsprechend in der Tabelle zu 5. angeben.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Beratungsstelle Gewaltprävention bietet Trainer- beziehungsweise Multiplikatorenausbildungen für folgende Kurse/Angebote in Schulen für Schülerinnen und Schüler zur Gewaltprävention an: „Soziales Kompetenztraining“, Mobbingpräventionsprogramm „Anti Mobbing Koffer – gemeinsam Klasse sein“ inklusive Zusatzmodul – Cybermobbing, „Gegen den Strich“ (Mobbingprävention in Grundschulen), Schüler- Streitschlichtung (siehe Drs. 20/12882, Drs. 21/1917, Drs. 21/5677).
 

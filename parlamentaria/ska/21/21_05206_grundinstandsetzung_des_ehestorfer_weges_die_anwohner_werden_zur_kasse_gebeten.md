@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 16
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53690"
@@ -53,7 +54,7 @@ Als ein maßgeblicher Grund für die Herstellung von Erschließungsanlagen auf d
 
 In welcher Art, Form und Anzahl liegen den Ämtern Beschwerden hinsichtlich der Entwässerung seit 2006 vor?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Ehestorfer Weg zwischen Auf der Jahnhöhe und der Landesgrenze gibt es kein Regenwassersiel und keine Straßenentwässerungsleitungen. Das von der Straße abfließende Regenwasser fließt an der Oberfläche auf der Nordwestseite breitflächig über die Bankette und über den dortigen Wanderweg in den Wald, wo es versickert, beziehungsweise an der Südostseite über den Gehweg auf die angrenzenden Privatgrundstücke, wo es versickert oder über den Hang bis zur darunterliegenden Straße „Große Straße“ fließt.
 
@@ -163,7 +164,7 @@ Wo ist die komplette Liste der Finanzbehörde über die eeH-Straßen einsehbar?
 
 Mit welcher Priorität wird der Ehestorfer Weg auf dieser Liste geführt und wie begründet diese sich?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Die Liste ist im Internet unter folgender Adresse einsehbar:
 

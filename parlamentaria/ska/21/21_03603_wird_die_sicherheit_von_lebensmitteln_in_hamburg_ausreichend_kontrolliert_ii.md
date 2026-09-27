@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/109", "20/13995", "20/11034"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51958"
@@ -35,19 +36,19 @@ Daher war und ist es besorgniserregend und bedauerlich zugleich, dass unter dem 
 
 ## Einleitung für die Antworten des Senats
 
- Hamburg-Mitte: 50 Prozent,
+– Hamburg-Mitte: 50 Prozent,
 
- Altona: 70 Prozent,
+– Altona: 70 Prozent,
 
- Wandsbek: 74 Prozent,
+– Wandsbek: 74 Prozent,
 
- Eimsbüttel: 76 Prozent,
+– Eimsbüttel: 76 Prozent,
 
- Bergedorf: 81 Prozent,
+– Bergedorf: 81 Prozent,
 
- Hamburg-Nord: 84 Prozent,
+– Hamburg-Nord: 84 Prozent,
 
- Harburg: 84 Prozent.
+– Harburg: 84 Prozent.
 
 In der Differenz aus allen Soll- (21.845) zu allen Ist-Kontrollen (15.332) wurden damit stadtweit gerade einmal 70 Prozent der vorgeschriebenen Kontrollen durchgeführt. Mit dem Beschluss über den Doppelhaushalt 2015/2016 hat die SPD für alle Bezirke das Ziel definiert, einen Wirkungsgrad von 80 Prozent zu erreichen. Um diesem ambitionierten Ziel näherkommen zu können und weil das notwendige Kontrollniveau nur erreicht werden kann, wenn den zuständigen Einrichtungen genügend qualifizierte Mitarbeiter zur Verfü-
 
@@ -196,7 +197,7 @@ Wie viele Lebensmittelkontrolleure waren 2015 (Stichtage 30. Juni und
 
 Wie viele Lebensmittelkontrolleure sind in Hamburg zurzeit damit beschäftigt, Restaurants und andere zubereitete Nahrungsmittel verkaufende Einrichtungen, wie zum Beispiel Imbissstände, Mensen und Ähnliche laufend zu überprüfen? (Bitte die Gesamtzahl für Hamburg angeben und nach Bezirken aufschlüsseln.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Bezirksamt  
 Lebensmittelkontrolleure  

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 9
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53746"
@@ -47,7 +48,7 @@ Wie viele Fälle sind dem Senat beziehungsweise der zuständigen Behörde bekann
 
 Welche Gründe lagen der verspäteten Zustellung zugrunde? Welche davon liegen beim BAMF und welche liegen in der Postverwaltung der Unterkünfte in Hamburg?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Terminsetzung im Asylverfahren obliegt dem Bundesamt für Migration und Flüchtlinge (BAMF). Das gemäß § 5 Asylgesetz (AsylG) für die Durchführung der Asylverfahren zuständige BAMF hat mitgeteilt, es sei grundsätzlich nicht verpflichtet und auf freiwilliger Grundlage aufgrund der anhaltenden Arbeitsbelastung aktuell nicht in der Lage, Parlamentarische Anfragen aus Hamburg zu beantworten. Der zuständigen Behörde sind Fälle verspäteter Einladungen nicht bekannt.
 
@@ -59,7 +60,7 @@ Ist dem Senat bekannt, in wie vielen Fällen die Einladungen zur Anhörung nicht
 
 Auf welche Weise erhalten die Untergebrachten in ZEA ihre Behördenpost? Bitte beschreiben. a. Wird die Annahme von wichtiger Behördenpost quittiert/förmlich zugestellt? Wenn ja, von wem? b. Gibt es Ausnahmen? Wenn ja, bitte beschreiben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Zustellung mithilfe einer Postzustellungsurkunde ist für diese Fälle gesetzlich nicht vorgesehen.
 

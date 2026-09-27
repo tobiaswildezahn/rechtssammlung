@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 21
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52316"
@@ -82,7 +83,7 @@ beziehungsweise der HPA angeboten?
 Wenn ja, welche?  
 Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 
@@ -103,7 +104,7 @@ Wurden weitere Maßnahmen vom Senat beziehungsweise der HPA ergriffen, um den El
 a) Wenn ja, wie genau sieht die Unterstützung aus?
 b) Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Seit vielen Jahren finden regelmäßige Gespräche zwischen der HPA und Elbfischern statt. Daran nehmen auch Vertreterinnen und Vertreter der Behörde für Wirtschaft, Verkehr und Innovation (BWVI) teil. Die Elbfischer erhalten die Gelegenheit, ihre Wünsche, Anliegen und Beschwerden vorzubringen. Soweit diese im Aufgabenbereich der HPA beziehungsweise der BWVI liegen, werden die Anliegen geprüft und beantwortet beziehungsweise die Ansprechpartnerinnen und Ansprechpartner aufgegeben.
 

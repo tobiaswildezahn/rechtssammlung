@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 56987
 seiten: 2
 fragen: 2
-einzelfragen: 2
-antwortbloecke: 2
+einzelfragen: 5
+antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12516"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62490"
@@ -50,20 +51,35 @@ Hierzu teilte die HSH mit, die gewährträgerbehafteten Verbindlichkeiten der HS
 ### Frage 2
 
 In den Geschäftsberichten der Landesbank Kiel für die Jahre 2000 und 2001 werden nachrangige Verbindlichkeiten mit einer Laufzeit bis 2040 beziehungsweise bis zu 40 Jahren aufgeführt, deren Nachrang nicht beschränkt werden kann.
-2.1. Fallen auch diese Verbindlichkeiten unter die Gewährträgerhaftung?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Fallen auch diese Verbindlichkeiten unter die Gewährträgerhaftung?
+
+#### Antwort zu Fragen 2 und 2.1
 
 Ja.
 
-2.2. In welcher Höhe gilt die Gewährträgerhaftung derzeit insgesamt für nachranginge Verbindlichkeiten?
+### Frage 2.2
+
+In welcher Höhe gilt die Gewährträgerhaftung derzeit insgesamt für nachranginge Verbindlichkeiten?
+
+#### Antwort zu Frage 2.2
 
 Nach Auskunft der HSH seien circa 1,0 Milliarden Euro nachrangige Verbindlichkeiten von der Gewährträgerhaftung gedeckt.
 
-2.3. Ist es zutreffend, dass der Nachrang auch gegenüber nicht unter die Gewährträgerhaftung fallende Verbindlichkeiten gilt?
+### Frage 2.3
+
+Ist es zutreffend, dass der Nachrang auch gegenüber nicht unter die Gewährträgerhaftung fallende Verbindlichkeiten gilt?
+
+#### Antwort zu Frage 2.3
 
 Ja.
 
-2.4. Inwiefern ist für den Bereich der nachrangigen Verbindlichkeiten der in Drs. 21/12516 in Aussicht gestellte Versuch, die gewährträgerbehafteten Verbindlichkeiten wirtschaftlich vor einer Insolvenz abzuschirmen, überhaupt realisierbar?
+### Frage 2.4
+
+Inwiefern ist für den Bereich der nachrangigen Verbindlichkeiten der in Drs. 21/12516 in Aussicht gestellte Versuch, die gewährträgerbehafteten Verbindlichkeiten wirtschaftlich vor einer Insolvenz abzuschirmen, überhaupt realisierbar?
+
+#### Antwort zu Frage 2.4
 
 Wie im Anteilskaufvertrag vereinbart arbeiten die Länder mit den Erwerbern und der HSH gegenwärtig intensiv an einem Konzept, das eine Ablösung oder Reduzierung der verbliebenden Gewährträgerhaftung (darunter auch gewährträgerbehaftete Nachrangverbindlichkeiten) der Länder erlauben könnte. Grundsätzlich bietet eine erfolgreiche Privatisierung die Möglichkeit, das theoretische Risiko einer Inanspruchnahme aus der Gewährträgerhaftung zu verringern, indem Erwerber, HSH und Länder eine Absicherungskonstruktion für die verbleibende Laufzeit der Gewährträgerhaftung entwickeln. Dies wird gegenwärtig von den Beteiligten geprüft mit dem Ziel, ein möglichst positives Ergebnis für die Länder zu erreichen. Dabei sind jedoch komplexe regulatorische und ökonomische Fragen zu klären. Gegenwärtig ist noch nicht abzusehen, ob sich eine entsprechende Regelung sachgerecht umsetzen lassen wird. Im Übrigen siehe Drs. 21/12516.

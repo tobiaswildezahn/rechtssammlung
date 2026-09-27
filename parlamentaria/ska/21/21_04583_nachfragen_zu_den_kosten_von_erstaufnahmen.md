@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4327"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52988"
@@ -49,7 +50,7 @@ Wie hoch waren die durchschnittlichen Gesamtkosten (inklusive Errichtungs- und A
 
 Wie hoch waren die durchschnittlichen Gesamtkosten (inklusive Errichtungs- und Ausstattungskosten) pro durchschnittlich belegten Platz im Jahr 2015 für jeden einzelnen Erstaufnahmestandort? (Bitte für jede Erstaufnahmeeinrichtung einzeln aufschlüsseln.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die in 2015 gebuchten Gesamtkosten für die Erstaufnahmeeinrichtungen betragen 195.595.309 Euro. Im Übrigen siehe Vorbemerkung.
 

@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 47549
 seiten: 3
 fragen: 9
-einzelfragen: 13
-antwortbloecke: 7
+einzelfragen: 25
+antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3528", "21/1261", "21/3241"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52039"
@@ -47,7 +48,7 @@ Wann soll die Vorplanung zur Modernisierung des Philosophenturms (Von-Melle-Park
 
 Geht der Senat weiterhin davon aus, dass der Baubeginn zur Modernisierung des Philosophenturms wie in Drs. 21/1261 angegeben im Jahr 2017 erfolgt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Terminplanung des Realisierungsträgers, der Sprinkenhof GmbH, befindet sich zurzeit in Abstimmung.
 
@@ -59,7 +60,7 @@ Ist es zutreffend, dass die im Dezember 2014 von der Bürgerschaft bereitgestell
 
 Welchen Raum- und Flächenbedarf sieht das vorliegende Raum- und Funktionsprogramm im Einzelnen für die im Philosophenturm vorgesehenen Nutzungen vor?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Planungen für die Umsetzung des vorliegenden rechnerischen Raumprogramms in den Gebäudebestand laufen. Eine Aussage zu Einzelheiten der vorgesehenen Nutzungen ist zum jetzigen Zeitpunkt nicht möglich. Die Ausschreibung weiterer Planungsleistungen wird ablaufgemäß erfolgen.
 
@@ -90,25 +91,44 @@ Ein Letter of Intent als Vorstufe zu einer vertraglichen Vereinbarung ist nicht 
 ### Frage 8
 
 Gemäß den Angaben in Drs. 21/3528 ist für die Ermittlung der Sanierungsbedarfe des Gebäudebestandes der Universität Hamburg die Beauftragung eines externen Büros in Vorbereitung.
-8.1. Wie genau erfolgt die Auswahl des externen Büros? Wie ist der genaue Verfahrensstand des Auswahlverfahrens?
 
-#### Antwort zu Frage 8
+### Frage 8.1
+
+Wie genau erfolgt die Auswahl des externen Büros? Wie ist der genaue Verfahrensstand des Auswahlverfahrens?
+
+#### Antwort zu Fragen 8 und 8.1
 
 Es sind vier geeignete Büros zur Angebotsabgabe aufgefordert worden. Zum Eröffnungstermin am 3. März 2016 sind drei Angebote und eine Absage eingegangen.
 
-8.2. Welches externe Büro soll beauftragt werden? Wie soll die genaue Auftragsbeschreibung lauten?
+### Frage 8.2
+
+Welches externe Büro soll beauftragt werden? Wie soll die genaue Auftragsbeschreibung lauten?
+
+#### Antwort zu Frage 8.2
 
 Zurzeit erfolgt die Angebotsauswertung, der Auftragnehmer steht noch nicht fest. Die Auftragnehmer sollen für alle von der UHH genutzten Gebäude im Verwaltungseigentum der zuständigen Behörde eine Einschätzung des Sanierungsbedarfs nebst Kostenrahmen – beziehungsweise eine Grobkosteneinschätzung – gestuft in Prioritäten mit Übergangskosten für den Erhalt der Betriebssicherheit vornehmen.
 
-8.3. Wie hoch ist das geschätzte Auftragsvolumen und wer soll die Kosten übernehmen?
+### Frage 8.3
+
+Wie hoch ist das geschätzte Auftragsvolumen und wer soll die Kosten übernehmen?
+
+#### Antwort zu Frage 8.3
 
 Das Auftragsvolumen wird mit Blick auf das laufende Verfahren nicht genannt. Die Kosten trägt die zuständige Behörde.
 
-8.4. Bis wann wird mit einem Ergebnis der Ermittlung der Sanierungsbedarfe gerechnet?
+### Frage 8.4
+
+Bis wann wird mit einem Ergebnis der Ermittlung der Sanierungsbedarfe gerechnet?
+
+#### Antwort zu Frage 8.4
 
 Voraussichtlich im Oktober 2016.
 
-8.5. Welche Sanierungsbedarfe im Einzelnen im Gebäudebestand der Universität Hamburg sind dem Senat oder der zuständigen Fachbehörde bereits auf Basis schon vorliegender Einschätzungen und Untersuchungen bekannt?
+### Frage 8.5
+
+Welche Sanierungsbedarfe im Einzelnen im Gebäudebestand der Universität Hamburg sind dem Senat oder der zuständigen Fachbehörde bereits auf Basis schon vorliegender Einschätzungen und Untersuchungen bekannt?
+
+#### Antwort zu Frage 8.5
 
 Die dem Senat bekannten Sanierungsbedarfe wurden zuletzt mit der Drs. 21/1261 benannt. Im Übrigen siehe Finanzbericht 2015/2016, zu den Sanierungs- und Instandsetzungsmaßnahmen im Einzelplan 3.2.
 
@@ -121,18 +141,34 @@ In der Drs. 21/3528 teilt der Senat mit, dass die Rücklagenverwendung der Unive
 
 Ausweislich der Drs. 21/3241 haben die Senatsvertreter in der Sitzung des Haushaltsausschusses ausgeführt, dass geplant sei, aus den (in den vergangenen Jahren aus zugeführten, aber nicht verbrauchten Landesmitteln gebildeten) Rücklagen der Universität Hamburg für den konkreten Zweck „Bau- und Liegenschaftsangelegenheiten“ einen Betrag von circa 41 Millionen Euro zu verwenden.
 
-9.1. Welche Bauvorhaben im Einzelnen sollen von der Universität aus den eigenen Rücklagen finanziert werden?
+### Frage 9.1
+
+Welche Bauvorhaben im Einzelnen sollen von der Universität aus den eigenen Rücklagen finanziert werden?
+
+#### Antwort zu Frage 9.1
 
 Welche Maßnahmen aus Rücklagen der UHH im Einzelnen finanziert werden sollen, wird zurzeit zwischen der UHH und der zuständigen Behörde abgestimmt. Mehrere Vorhaben sind bereits identifiziert. Die Bürgerschaft wird – wie angekündigt – mit einer gesonderten Drucksache befasst werden.
 
-9.2. Wie und wann wurde der Betrag von 41 Millionen Euro für Bauvorhaben im Einzelnen ermittelt? Welche Gremien und welche Dienststellen waren jeweils wann damit befasst?
+### Frage 9.2
+
+Wie und wann wurde der Betrag von 41 Millionen Euro für Bauvorhaben im Einzelnen ermittelt? Welche Gremien und welche Dienststellen waren jeweils wann damit befasst?
+
+#### Antwort zu Frage 9.2
 
 Die Daten sind in 2015 auf Grundlage von Kostenkennwerten durch die UHH, Abteilung Baumanagement, ermittelt worden.
 
-9.3. Ist es zutreffend, dass der Neubau eines internationalen Gästehauses aus den Rücklagen der Universität finanziert werden soll? Welche Kostenschätzungen liegen derzeit für dieses Projekt vor?
+### Frage 9.3
+
+Ist es zutreffend, dass der Neubau eines internationalen Gästehauses aus den Rücklagen der Universität finanziert werden soll? Welche Kostenschätzungen liegen derzeit für dieses Projekt vor?
+
+#### Antwort zu Frage 9.3
 
 Eine erste Kostenschätzung ist im Rahmen einer Vorstudie erstellt worden. Derzeit werden die Kosten für die Realisierung des Entwurfs des 1. Preisträgers aus dem abgeschlossenen Wettbewerb verifiziert.
 
-9.4. Ist es zutreffend, dass die Fenster- und Fassadensanierung des „Wiwi-Bunkers“ (Von-Melle-Park 5) aus den Rücklagen der Universität finanziert werden soll? Welche Kostenschätzungen liegen derzeit dafür vor?
+### Frage 9.4
+
+Ist es zutreffend, dass die Fenster- und Fassadensanierung des „Wiwi-Bunkers“ (Von-Melle-Park 5) aus den Rücklagen der Universität finanziert werden soll? Welche Kostenschätzungen liegen derzeit dafür vor?
+
+#### Antwort zu Frage 9.4
 
 Es liegt derzeit eine Kostenberechnung – Entwurfsplanung – nach DIN 276 vor.

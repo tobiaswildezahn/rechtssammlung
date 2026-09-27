@@ -11,9 +11,10 @@ fraktionen: ["Die Linke"]
 vorgang: 54690
 seiten: 2
 fragen: 6
-einzelfragen: 9
-antwortbloecke: 6
+einzelfragen: 12
+antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59753"
@@ -62,32 +63,53 @@ Das zuständige Bezirksamt sieht vielschichtige Gründe als Ursache für die Aus
 ### Frage 4
 
 Welche Maßnahmen wurden gegebenenfalls ergriffen, um den Gewerbe-Leerständen konkret im Gebäude an der Ecke Steinbeker Marktstraße entgegenzuwirken?
-4.1. Welche Konzepte für die Entwicklung dieses Objekts sind gegebenenfalls erarbeitet worden beziehungsweise in der Diskussion?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+Welche Konzepte für die Entwicklung dieses Objekts sind gegebenenfalls erarbeitet worden beziehungsweise in der Diskussion?
+
+#### Antwort zu Fragen 4 und 4.1
 
 Die Entwicklung und Vermietung von Gewerbeflächen ist Aufgabe des Eigentümers. Diesbezügliche Aktivitäten sind dem zuständigen Bezirksamt bislang jedoch nicht bekannt. Im Übrigen siehe Antwort zu 5. bis 5.2.
 
 ### Frage 5
 
 Wie ist der Stand des seit Jahren leer stehenden, zunehmend verfallenden Gebäudes (eingeschlagene Fenster, herumliegender Müll und so weiter) an der Ecke Letternkamp?
-5.1. Warum ist der zuständige Bezirk Hamburg-Mitte offensichtlich bisher – das heißt in den vergangenen vier Jahren – nicht tätig geworden, kurzfristig den im Stadtteil-Volksmund so betitelten „Schandfleck“ zu bereinigen beziehungsweise den Leerstand zu beenden?
-5.2. Welche rechtlichen Auseinandersetzungen gibt es um dieses Gebäude?
 
-#### Antwort zu Frage 5
+### Frage 5.1
+
+Warum ist der zuständige Bezirk Hamburg-Mitte offensichtlich bisher – das heißt in den vergangenen vier Jahren – nicht tätig geworden, kurzfristig den im Stadtteil-Volksmund so betitelten „Schandfleck“ zu bereinigen beziehungsweise den Leerstand zu beenden?
+
+### Frage 5.2
+
+Welche rechtlichen Auseinandersetzungen gibt es um dieses Gebäude?
+
+#### Antwort zu Fragen 5, 5.1 und 5.2
 
 Am 8. November 2011 wurden der Abbruch aller vorhandenen Gebäude und der Neubau eines Gebäudes mit drei Spielhallen und einem Sportcafé genehmigt. Am 20. April 2012 wurde mit den Baumaßnahmen begonnen und ein Rohbau inklusive Fenster und Dacheindeckung erstellt. Eine geänderte Grundrissplanung für den Neubau des Gebäudes wurde am 30. November 2012 abgelehnt. Strittig ist darüber hinaus die Ablehnung von Konzessionen. Am 22. Juni 2017 wurde für das Gebäude eine Baugenehmigung für den Einbau von zwei Bistros, einer Spielhalle und einem Sportcafé erteilt. Eine Baubeginnanzeige ist bisher nicht eingegangen. Da es sich um ein Gebäude in Privatbesitz und darüber hinaus nicht um ein Wohngebäude handelt, hat das zuständige Bezirksamt keine Handhabe, den Leerstand zu beenden. Privatrechtliche Auseinandersetzungen sind dem zuständigen Bezirksamt nicht bekannt.
 
-5.3. Welche Konzepte für die Entwicklung dieses Objekts sind gegebenenfalls erarbeitet worden beziehungsweise in der Diskussion?
+### Frage 5.3
+
+Welche Konzepte für die Entwicklung dieses Objekts sind gegebenenfalls erarbeitet worden beziehungsweise in der Diskussion?
+
+#### Antwort zu Frage 5.3
 
 Der Einbau von Wohnungen in das Gebäude beziehungsweise der Neubau von Wohnungen wurde dem Bauherren seitens des zuständigen Bezirksamtes nahegelegt, von diesem aber abgelehnt.
 
-5.4. Welche Möglichkeiten sieht der Senat, den Eigentümer des betreffenden Objekts unter Druck zu setzen, die zunehmende Verwahrlosung beziehungsweise den Leerstand abzustellen?
+### Frage 5.4
+
+Welche Möglichkeiten sieht der Senat, den Eigentümer des betreffenden Objekts unter Druck zu setzen, die zunehmende Verwahrlosung beziehungsweise den Leerstand abzustellen?
+
+#### Antwort zu Frage 5.4
 
 Hinsichtlich der Verwahrlosung ist das zuständige Bezirksamt auf Grundlage des § 58 der Hamburgischen Bauordnung tätig geworden. Im Übrigen siehe Antwort zu 5. bis
 5.2.
 
-5.5. Gibt es Überlegungen, das Grundstück samt Gebäude von städtischer Seite zu erwerben?
+### Frage 5.5
+
+Gibt es Überlegungen, das Grundstück samt Gebäude von städtischer Seite zu erwerben?
+
+#### Antwort zu Frage 5.5
 
 Hiermit hat sich der Senat nicht befasst.
 

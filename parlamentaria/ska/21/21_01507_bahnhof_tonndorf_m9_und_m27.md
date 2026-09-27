@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49710"
@@ -67,25 +68,25 @@ Welche baulichen Maßnahmen sind auf der Strecke der Linie M9 und der Strecke M2
 
 Der Landesbetrieb Straßen, Brücken und Gewässer plant im Verlauf der MetroBus- Linie M27 Baumaßnahmen, um Haltestellen barrierefrei zu gestalten und den Einsatz von Gelenkbussen zu ermöglichen. An folgenden Haltestellen sind Maßnahmen beabsichtigt:
 
- Schiffbeker Höhe (Richtung Wellingsbüttel)
+– Schiffbeker Höhe (Richtung Wellingsbüttel)
 
- Schweidnitzer Straße (Richtung Wellingsbüttel)
+– Schweidnitzer Straße (Richtung Wellingsbüttel)
 
- Studio Hamburg
+– Studio Hamburg
 
- Stemmeshay
+– Stemmeshay
 
- Rahlstedter Weg (Mitte)
+– Rahlstedter Weg (Mitte)
 
- Stuhtsweg
+– Stuhtsweg
 
- Buddenbrookweg
+– Buddenbrookweg
 
- Grootmoor
+– Grootmoor
 
- Rolfinckstraße
+– Rolfinckstraße
 
- S Wellingsbüttel
+– S Wellingsbüttel
 
 Das Bezirksamt Wandsbek beabsichtigt darüber hinaus Baumaßnahmen an den Haltestellen Liegnitzer Straße (Haltestelle am Fahrbahnrand in Richtung Billstedt) und Kuehnstraße (Busbuchten in beiden Richtungen). Außerdem ist die Sanierung der Fahrbahndecken auf dem Öjendorfer Damm (Abschnitt Rodigallee – Jenfelder Straße) und in der Charlottenbeurger Straße (Kreuzungsbereich Schweidnitze Straße auf eine Länge von rund 60 m) vorgesehen. Des Weiteren erfolgen Grundinstandsetzungen der Schöneberger Straße (Abschnitt Schöneberger Straße 12 – Wilsonstraße) und der Wilsonstraße (Abschnitt Schöneberger Straße – Köpenicker Straße einschließlich des Kreuzungsbereichs).
 
@@ -138,43 +139,43 @@ An welchen Bushaltestellen gibt es kurz vor und kurz hinter der Bushaltestelle e
 
 An folgenden Bushaltestellen der M9 gibt es kurz vor oder kurz hinter der Bushaltestelle eine Lichtsignalanlage:
 
- Wandsbek-Markt
+– Wandsbek-Markt
 
- Wendemuthstraße
+– Wendemuthstraße
 
- Holzmühlenstraße
+– Holzmühlenstraße
 
- Eichtalstraße
+– Eichtalstraße
 
- Kurfürstenstraße
+– Kurfürstenstraße
 
- Ölmühlenstraße
+– Ölmühlenstraße
 
- Nordmarkstraße
+– Nordmarkstraße
 
- Friedhof Tonndorf
+– Friedhof Tonndorf
 
- Bahnhof Tonndorf
+– Bahnhof Tonndorf
 
- Studio Hamburg
+– Studio Hamburg
 
- Wilsonstraße
+– Wilsonstraße
 
- Am Pulverhof
+– Am Pulverhof
 
- Loher Straße
+– Loher Straße
 
- Brockdorfstraße
+– Brockdorfstraße
 
- Wilhelm-Grimm-Straße
+– Wilhelm-Grimm-Straße
 
- Bahnhof Rahlstedt
+– Bahnhof Rahlstedt
 
- Schweriner Straße
+– Schweriner Straße
 
- Sieker Landstraße
+– Sieker Landstraße
 
- Hoffmannstieg.
+– Hoffmannstieg.
 
 Für sechs Lichtsignalanlagen wurden Busvorrangschaltungen realisiert, weitere sind aktuell nicht vorgesehen. Alle Lichtsignalanlagen sind in eine „Grüne Welle“ eingebunden und werden je nach Verkehrsaufkommen entweder stadteinwärts oder stadtauswärts mit der jeweils zulässige Höchstgeschwindigkeit koordiniert.
 

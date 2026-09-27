@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 0
 beantwortet: false
+status: "unbeantwortet"
 zitierte_drucksachen: ["23/4559"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105282"
@@ -27,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Andreas Grutzeck (CDU) vom 16.09.26 und Antwort des Senats · Drucksache vom 16.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105282) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105282/23_05379_bessere_chancen_fuer_obdachlose_geht_der_clearingstelle_zur_gesundheitsversorgung_von_auslaendern_ohne_krankenversicherung_das_geld_aus_weil_der_senat)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12811"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53061"
@@ -59,7 +60,7 @@ Hat sich die Stromnetz Hamburg GmbH nach Auffassung des Senats in dem hier vorli
 
 Wie bewertet der Senat die Kritik der Bietergemeinschaft SWARCO/- VENIX an der Art und Weise des Ausschreibungsverfahrens und die damit einhergehende formale Rüge zu möglichen formalen und materiellen Fehlern des Verfahrens und wie wurde beziehungsweise wird auf diese Rüge reagiert?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Senat hat sich mit dem Vergabeverfahren nicht im Einzelnen befasst. Im Übrigen siehe Antworten zu 6. und 7.
 

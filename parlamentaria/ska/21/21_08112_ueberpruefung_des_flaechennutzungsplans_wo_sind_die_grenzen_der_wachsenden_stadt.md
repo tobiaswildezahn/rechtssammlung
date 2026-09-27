@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 28
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56804"
@@ -115,41 +116,41 @@ Wie viele und welche Änderungen des Flächennutzungsplans sind aktuell in Vorbe
 
 Zurzeit sind 16 Verfahren zur Änderung des Hamburger Flächennutzungsplans förmlich eingeleitet:
 
- „Wohnbauflächen und Mischnutzungen östlich des Eppendorfer Parks in Eppen-
+– „Wohnbauflächen und Mischnutzungen östlich des Eppendorfer Parks in Eppen-
 
 dorf“
 
- „Wohnbauflächen und Grünflächen am Rückerskanal in Hamm-Süd“
+– „Wohnbauflächen und Grünflächen am Rückerskanal in Hamm-Süd“
 
- „Wohnbauflächen südlich des Von-Eicken-Park in Lokstedt“
+– „Wohnbauflächen südlich des Von-Eicken-Park in Lokstedt“
 
- „Mischnutzung an der Bergedorfer Straße in Bergedorf“
+– „Mischnutzung an der Bergedorfer Straße in Bergedorf“
 
- „Freiflächen nördlich der Bahntrasse in Neugraben-Fischbek“
+– „Freiflächen nördlich der Bahntrasse in Neugraben-Fischbek“
 
- „Naturbestimmte Flächen südlich Swebenweg am Ohmoor in Niendorf“
+– „Naturbestimmte Flächen südlich Swebenweg am Ohmoor in Niendorf“
 
- „Wohnbauflächen südlich Sportplatzring in Stellingen“
+– „Wohnbauflächen südlich Sportplatzring in Stellingen“
 
- „Gewerbliche und Gemischte Bauflächen sowie Grünflächen östl. Billhorner Brü-
+– „Gewerbliche und Gemischte Bauflächen sowie Grünflächen östl. Billhorner Brü-
 
 ckenstraße in Rothenburgsort“
 
- „Bauflächen im Bereich der Speicherstadt“
+– „Bauflächen im Bereich der Speicherstadt“
 
- „Wohnbauflächen nördlich der Wandse in Wandsbek“
+– „Wohnbauflächen nördlich der Wandse in Wandsbek“
 
- „Grün und Gewerbe nordwestlich Hagenbecks Tierpark in Stellingen“
+– „Grün und Gewerbe nordwestlich Hagenbecks Tierpark in Stellingen“
 
- „Wohnen westlich Rathenaupark in Othmarschen“
+– „Wohnen westlich Rathenaupark in Othmarschen“
 
- „Mischnutzung und Gewerbe an der Kieler Straße in Stellingen“
+– „Mischnutzung und Gewerbe an der Kieler Straße in Stellingen“
 
- „Wohnen und Gewerbe westlich der Krausestraße in Barmbek-Süd und Dulsberg“
+– „Wohnen und Gewerbe westlich der Krausestraße in Barmbek-Süd und Dulsberg“
 
- „Wohnen und Wald am Reinbeker Weg/Bergedorfer Gehölz“
+– „Wohnen und Wald am Reinbeker Weg/Bergedorfer Gehölz“
 
- „Wohnen und Grün südlich Poppenbütteler Berg in Poppenbüttel“
+– „Wohnen und Grün südlich Poppenbütteler Berg in Poppenbüttel“
 
 ### Frage 11
 
@@ -197,7 +198,7 @@ Wie viele Änderungen des Flächennutzungsplans sollen vor einer grundlegenden �
 
 Wann plant der Senat, den mittlerweile 20 Jahre alten Flächennutzungsplan gründlich zu überarbeiten?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Siehe Antwort zu 7.
 

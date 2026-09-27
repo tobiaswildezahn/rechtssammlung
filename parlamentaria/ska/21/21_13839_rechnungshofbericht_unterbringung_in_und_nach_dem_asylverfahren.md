@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13449"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63223"
@@ -33,11 +34,11 @@ Im Jahresbericht 2018, Rn. 689-715, hat der Rechnungshof unter anderem für sieb
 
 ## Einleitung für die Antworten des Senats
 
- Leistungsstandards (Rn. 700): Es fehlen Vorgaben für Leistungen und Beschaffungen in konkretisierter Form sowie eine lückenlose Dokumentation der Beschaffungsvorgänge.
+– Leistungsstandards (Rn. 700): Es fehlen Vorgaben für Leistungen und Beschaffungen in konkretisierter Form sowie eine lückenlose Dokumentation der Beschaffungsvorgänge.
 
- Erstattung fragwürdiger Kosten (Rn. 702 ff.): Es wurden entgegen der Intention der Verwaltung unter anderem neue Gesellschaftsstrukturen finanziert; Gemeinkostenzuschläge zu hoch berechnet; Personalkosten, Sicherheitsdienstleistungen, Reinigungsdienstleistungen und Dolmetscherdienstleistungen unzulänglich abgerechnet und kontrolliert.
+– Erstattung fragwürdiger Kosten (Rn. 702 ff.): Es wurden entgegen der Intention der Verwaltung unter anderem neue Gesellschaftsstrukturen finanziert; Gemeinkostenzuschläge zu hoch berechnet; Personalkosten, Sicherheitsdienstleistungen, Reinigungsdienstleistungen und Dolmetscherdienstleistungen unzulänglich abgerechnet und kontrolliert.
 
- Vergütungsform/Wirtschaftlichkeit (Rn. 710): Die bemängelten Strukturen für ein Controlling sollen zwischenzeitlich erledigt sein.
+– Vergütungsform/Wirtschaftlichkeit (Rn. 710): Die bemängelten Strukturen für ein Controlling sollen zwischenzeitlich erledigt sein.
 
 In der Stellungnahme des Senats, Seite 17, räumt die BIS die Feststellungen des Rechnungshofs ein. Dem Rechnungshof sollte bis zum 30. April 2018 über den erreichten Sachstand berichtet werden.
 

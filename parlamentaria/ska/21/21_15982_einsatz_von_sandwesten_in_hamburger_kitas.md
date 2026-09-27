@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 22
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65488"
@@ -67,7 +68,7 @@ Welche rechtlichen Grundlagen bestehen für den Einsatz von Sandwesten in Kitas?
 
 Inwieweit ist der Einsatz der Sandwesten mit den Verträgen zwischen der Freien und Hansestadt Hamburg und den Kita-Trägern beziehungsweise den Kita-Trägern und den Eltern vereinbar?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Es bestehen keine gesonderten rechtlichen Regelungen für den Einsatz von Sandwesten in Kitas.
 
@@ -137,7 +138,7 @@ Welche Mitspracherechte haben die betroffenen Kinder hinsichtlich des Einsatzes 
 
 Wie wird sichergestellt, dass Wille und Rechte der betroffenen Kinder hinreichend gewahrt bleiben?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Antwort zu 1.
 

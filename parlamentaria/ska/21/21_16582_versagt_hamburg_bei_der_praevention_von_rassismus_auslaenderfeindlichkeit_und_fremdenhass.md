@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16409", "21/7467", "21/10621", "21/14066", "21/15668", "20/9849", "21/16456", "21/13826", "21/7939", "21/8233", "21/13713"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66109"
@@ -61,7 +62,7 @@ Welche Rückschlüsse zieht der Senat aus den Daten für seine bestehenden Progr
 
 Die Fallzahlen bei der Beratungsstelle empower für Betroffene rechter, rassistischer und antisemitistischer Gewalt haben sich seit 2015 fast vervierfacht. Hamburg versteht sich als weltoffen. 35 Prozent der in Hamburg lebenden Menschen haben einen Migrationshintergrund – wie gedenkt der Senat sie vor rechter Gewalt zu schützen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Präventive Maßnahmen des Senats sind vor dem Hintergrund verschiedener Einflussfaktoren und gesellschaftlicher Entwicklungen zu bewerten. Ein kausaler Zusammenhang zwischen der Entwicklung der Zahl von Gewaltvorfällen und dem Erfolg einzelner Maßnahmen ist nicht herstellbar, da eine Radikalisierung ein individueller und durch eine Vielzahl an Risiko- beziehungsweise Stabilisierungsfaktoren (persönliche, familiäre, gesellschaftliche, ökonomische et cetera) beeinflusster Prozess ist. Zudem können präventive Maßnahmen nur mittel- bis langfristig wirken. Im Übrigen sind präventive Maßnahmen zudem Bestandteil des Landesprogramms gegen Rechtsextremismus (siehe Drs. 20/9849), dessen Fortschreibung derzeit vorbereitet wird (siehe auch Drs. 21/16456).
 
@@ -77,7 +78,7 @@ Die Sicherheitsbehörden beteiligen sich an den umfassenden Anstrengungen der Ha
 
 Hält der Senat die Reichweite zentraler Projekte des Programmbereichs B von Demokratie leben – genannt seien hier die mobile Beratung gegen Rechtsextremismus, Kurswechsel und empower – für ausreichend? Bitte ausführlich begründen, unter Schilderung des Sachstandes auf dessen Basis die jeweilige Einschätzung erfolgt.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Zur grundsätzlichen Vorgehensweise einer zuwendungsrechtlichen Prüfung siehe Drs. 21/13826. Die geförderten Projekte erfüllen die vorgegebenen Ziele und Zweckbestimmungen und arbeiten in diesem Sinne erfolgreich. Im Übrigen siehe Antwort zu 2) und 3).
 
@@ -89,6 +90,6 @@ Welche weiteren Bemühungen der Freien und Hansestadt Hamburg gibt es im Kampf g
 
 Welche signifikanten Anpassungen hat es im Landesprogramm „Hamburg – Stadt mit Courage“ seit Erreichen der dritten Phase gegeben?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 2) und 3). Im Übrigen siehe Drs. 21/7939, 21/8233 und 21/13713.

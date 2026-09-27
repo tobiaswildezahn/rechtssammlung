@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 26
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6592", "21/5000", "21/6980"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58736"
@@ -51,7 +52,7 @@ Wie hat sich die Anzahl der Stellen (VZÄ und Besetzungsumfang) in den Geschäft
 
 Wie viele dieser Stellen sind jeweils mit Justizfachangestellten besetzt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Art der Berufsausbildung der einzelnen Servicemitarbeiterinnen und Servicemitarbeiter wird statistisch nicht erfasst. Zur Beantwortung der Frage müssten sämtliche Personalakten der im Service tätigen Mitarbeiterinnen und Mitarbeiter angefordert und ausgewertet werden. Dies ist in der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

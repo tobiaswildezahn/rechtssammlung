@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57955"
@@ -67,7 +68,7 @@ Aufgrund welcher Erkenntnisse werden der Anmelder des Camps im Stadtpark und der
 
 Welche Erkenntnisse führen zu der Einschätzung, dass „solche Camps eben eine ideale und auch als solche organisierte Anlaufstelle, logistische Zentrale, Rückzugsbereich gerade für die militanten Gipfelgegner darstellen“ (ebenda, Seite 11)? Bitte auch Beispiele für Camps nennen, auf die eine solche Einschätzung zutraf.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Aus Gründen des Persönlichkeitsschutzes wird von Angaben zu Antragstellern abgesehen.
 
@@ -121,7 +122,7 @@ Inwieweit halten Senat und zuständige Behörden die Einschätzung des Bezirksam
 
 Warum darf die Stadtpark-Wiese für ein Konzert der Rolling-Stones im September mit mindestens 80.000 Besuchern/-innen genutzt werden? Bitte genau darlegen, warum das angemeldete Camp eine größere Beeinträchtigung der Grünanlage bedeuten soll.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Das Konzert findet am 9. September 2017 und somit gegen Ende der eigentlichen Stadtpark-Saison statt. Es wird von professionellen Unternehmen aus dem Veranstaltungsbereich vorbereitet und durchgeführt. Dabei wird ein hoher technischer und organisatorischer Aufwand für den größtmöglichen Schutz der Grünanlage betrieben. Zu dessen Abstimmung wird für die Erteilung der notwendigen Auflagen ein langfristiges Genehmigungsverfahren durchgeführt werden müssen. Die Auflagen dienen dabei nicht nur dem Schutz der Grün- und Erholungsanlagen, sondern dem geordneten und sicheren Ablauf des Konzerts.
 

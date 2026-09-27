@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3165", "21/13537", "21/14020", "21/16912", "21/17341", "21/7164", "21/7804", "21/9838"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67727"
@@ -55,7 +56,7 @@ Gibt es statistische Erhebungen des Senats über die Gewalt gegen Studentenverbi
 
 In welchem politischen Spektrum sind die Täter zu verorten (bitte Delikt-/ Fallzahlen nach linksextrem, rechtsextrem, islamistisch und/oder religiös motiviert aufschlüsseln)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

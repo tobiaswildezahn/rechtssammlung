@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1865", "21/5929"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55052"
@@ -319,38 +320,38 @@ Originale (z.B. Urkunden bzw. Dokumente, die Urkundenqualität oder Beweiswert b
 
 identifizierte Dokumente:
 
-  
+–  
 Abstammungsurkunde  
-  
+–  
 gerichtliche Entscheidungen gleich welcher Art  
-  
+–  
 Vollstreckungstitel  
-  
+–  
 Titel/Vergleiche die durch BA oder die gE  
 erstritten wurden  
-  
+–  
 vollstreckbarer Auszug aus der Insolvenztabelle  
-  
+–  
 Ermittlungsvorgänge  
-  
+–  
 behördliche Bescheide die nicht von der BA oder  
 der gE ausgestellt wurden  
-  
+–  
 Aufhebungsbescheide die nicht von der BA oder  
 der gE ausgestellt wurden  
-  
+–  
 Bescheide über Kindergeld die nicht von der BA  
 ausgestellt wurde  
-  
+–  
 Bescheide über Leistungen nach dem zweiten  
 Sozialgesetzbuch die nicht von der gE  
 ausgestellt wurden  
-  
+–  
 Bescheid über das Ergebnis des  
 Zulassungsverfahren (Studienvergabe)  
-  
+–  
 Gewerbeanmeldung/Gewerbeabmeldung  
-  
+–  
 Verträge (z.B. Anstellungsvertrag, Arbeitsvertrag  
 oder Zusatzvereinbarung/Nachtrag zum  
 Arbeitsvertrag/Verlängerung der Befristung zum  
@@ -358,22 +359,22 @@ Arbeitsvertrag; Berufsausbildung-
 /Ausbildungsvertrag; Mietvertrag/Nachtrag zum  
 Mietvertrag; Kaufvertrag; Gesellschaftsvertrag;  
 etc.)  
-  
+–  
 Zeugnisse
 
- Ausnahmen Familienkasse, die zu scannen sind:
+– Ausnahmen Familienkasse, die zu scannen sind:
 
-  
+–  
 Geburtsbescheinigungen/ -urkunden mit dem  
 Zusatz „für die Beantragung von Kindergeld“  
-  
+–  
 Studien- /Immatrikulationsbescheinigungen  
-  
+–  
 Schulbescheinigungen  
-  
+–  
 maschinell erstellte  
 Ausbildungsbescheinigungen  
-  
+–  
 jegliche Dokumente mit ausländischen  
 Inhalten trotz -Urkundencharakter- ( u.a. alle  
 Geburtsurkunden aus dem Ausland)

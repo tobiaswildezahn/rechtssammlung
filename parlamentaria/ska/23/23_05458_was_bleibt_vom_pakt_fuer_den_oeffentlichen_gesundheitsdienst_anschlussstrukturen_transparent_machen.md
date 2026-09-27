@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 0
 beantwortet: false
+status: "unbeantwortet"
 zitierte_drucksachen: ["23/865"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105365"
@@ -27,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Christin Christ (CDU) vom 23.09.26 und Antwort des Senats · Drucksache vom 23.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105365) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105365/23_05458_was_bleibt_vom_pakt_fuer_den_oeffentlichen_gesundheitsdienst_anschlussstrukturen_transparent_machen)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

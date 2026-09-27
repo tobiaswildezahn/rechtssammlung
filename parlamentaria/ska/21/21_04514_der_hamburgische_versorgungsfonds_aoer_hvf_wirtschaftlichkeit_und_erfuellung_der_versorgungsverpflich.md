@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1054", "20/14536", "21/3592"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52919"
@@ -47,7 +48,7 @@ Wie viel ist derzeit noch von den 2012 und 2013 gewährten Haushaltszuschüssen 
 
 Wurden alle der in Drs. 20/14536 genannten Anlage-Tranchen des oben genannten Haushaltszuschusses fristgerecht zurückgezahlt? Wie und wo wurden beziehungsweise sind sie derzeit zu welchen Konditionen (Verzinsung) und Laufzeiten neu angelegt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Anlagetranchen wurden fristgerecht zurückgezahlt. Neben 35.000.000 Euro, die bei der Finanzbehörde mit einem Zinssatz von 0,16 Prozent und einer Laufzeit bis zum 30. Juni 2016 angelegt sind, bestehen folgende Geldanlagen:
 

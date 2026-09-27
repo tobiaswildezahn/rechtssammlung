@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["16/4616", "20/14052", "20/4642", "20/14485", "21/556", "21/3543", "21/3690"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52592"
@@ -124,9 +125,9 @@ Das Bezirksamt Eimsbüttel plant derzeit keine Sammelschließanlagen. Fahrradhä
 
 Im Bezirksamtsbereich Hamburg-Nord gibt es zurzeit neben privaten Abstellanlagen vor allem zwei Formen „gesicherter Abstellplätze“ für den Radverkehr:
 
- „abschließbare“ Bike+Ride-Anlagen (in der Regel kostenpflichtige Fahrradboxen)
+– „abschließbare“ Bike+Ride-Anlagen (in der Regel kostenpflichtige Fahrradboxen)
 
- Fahrradhäuschen auf öffentlichem Grund
+– Fahrradhäuschen auf öffentlichem Grund
 
 Die Zuständigkeit von „abschließbaren“ Bike+Ride-Anlagen obliegt der P+R-Gesellschaft.
 
@@ -134,17 +135,17 @@ Das Aufstellen von Fahrradhäuschen im öffentlichen Grund auf Antrag von Bürge
 
 Im Bezirk Altona gibt es derzeit im Bereich vieler S-Bahn-Haltepunkte anmietbare Einzelfahrradboxen beziehungsweise Sammelschließanlagen:
 
- Rissen (20 Stellplätze),
+– Rissen (20 Stellplätze),
 
- Hochkamp (vier Stellplätze.),
+– Hochkamp (vier Stellplätze.),
 
- Sülldorf (vier Stellplätze),
+– Sülldorf (vier Stellplätze),
 
- Klein-Flottbek (sechs Stellplätze.),
+– Klein-Flottbek (sechs Stellplätze.),
 
- Diebsteich (sechs Stellplätze) und
+– Diebsteich (sechs Stellplätze) und
 
- Altona (zwölf Stellplätze und 20 Fahrradeinstellplätze am Mobilen Service-Point
+– Altona (zwölf Stellplätze und 20 Fahrradeinstellplätze am Mobilen Service-Point
 
 Altona)
 

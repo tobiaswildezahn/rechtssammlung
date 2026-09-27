@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5581", "21/10457", "21/11542", "21/12534", "21/14709", "21/13561", "21/8279"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65180"
@@ -88,7 +89,7 @@ In wie vielen Fällen ist es infolge solcher Übergriffe bereits zu Strafverfahr
 
 Wie oft hat dies zu Verurteilungen geführt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Im Vorgangsverwaltungs- und Vorgangsbearbeitungssystem MESTA wird die sexuelle Orientierung oder sexuelle Identität von Beteiligten nicht erfasst. Seit dem 1. Juli 2018 werden Ermittlungsverfahren im Zusammenhang mit „Hasskriminalität“, darunter auch diejenigen, bei denen Hass auf die sexuelle Orientierung/Identität das Motiv ist, bundesweit durch die Staatsanwaltschaften statistisch erfasst. Die in Drs. 21/5581 erwähnte händische Liste der Staatsanwaltschaft, die zu den genannten Zwecken auf Landesebene mangels bundesweiter Regelung diente und seit dem 1. Januar 2015 geführt wurde, wird daher nicht mehr fortgeführt. Bis zur ersten Jahreshälfte 2018 wurden in der dortigen Liste zusätzlich zu den in Drs. 21/5581 benannten neun Verfahren zwei weitere Verfahren erfasst, bei denen ebenfalls in keinem der Tatort in einer Flüchtlingsunterkunft lag oder der Fall auf Täter- oder Opferseite im Zusammenhang mit Geflüchteten stand. Die statistische Erfassung enthält keine Angaben zu Tatort oder Aktenzeichen. Zur Beantwortung der oben genannten Fragen müssten daher sämtliche Verfahrensakten, die in dem Verfahrensregister 7101 Js und 7101 UJs wegen §§ 184, 223, 224, 240, 241 StGB registriert wurden, händisch ausgewertet werden. Dabei handelt es sich allein in dem Aktenzeichenjahrgang 2018 um insgesamt 447 Verfahrensakten. Eine händische Auswertung dieser Akten ist in der Kürze der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -100,7 +101,7 @@ Welchen Anteil haben die LSBTI-Geflüchteten gegenwärtig an der Gesamtzahl der 
 
 Wie groß fällt der Vergleichswert in Hinblick auf Personen aus, die zur Gruppe der religiösen Minderheiten gehören, nachweislich also keine sunnitischen Muslime sind (bitte ebenfalls mittels absoluter wie prozentueller Angaben nennen)?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Drs. 21/5581.
 

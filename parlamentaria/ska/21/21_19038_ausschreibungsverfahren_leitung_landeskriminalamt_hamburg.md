@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68720"
@@ -91,7 +92,7 @@ Wie viele Bewerbungen gingen bis Bewerbungsschluss ein?
 
 Wie viele FHH-interne Bewerbungen sind eingegangen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Eine.
 

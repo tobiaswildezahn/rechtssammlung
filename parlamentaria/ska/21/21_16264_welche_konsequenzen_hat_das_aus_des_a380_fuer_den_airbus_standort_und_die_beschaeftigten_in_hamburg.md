@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65779"
@@ -49,7 +50,7 @@ Seit wann ist dem Senat bekannt, dass Airbus die Produktion des Musters A380 ein
 
 Falls dem Senat bereits vor dem 14. Februar 2019 Informationen über die geplante Einstellung der Produktion des Musters beziehungsweise über Absichten von Emirates in Bezug auf die A380-Bestellung vorlagen, warum wurden diese noch nicht veröffentlicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat (und andere Landesregierungen mit Airbus Werkanteilen im A380 Programm) wurde zeitgleich mit der Airbus Jahres-Pressemitteilung am 14. Februar 2019 von der Einstellung des Programms in Kenntnis gesetzt.
 

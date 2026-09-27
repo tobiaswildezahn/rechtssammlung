@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3729"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52361"
@@ -153,6 +154,6 @@ In der Antwort auf die Frage nach der Umstellung von Leitungen auf Erdverkabelun
 
 Gibt es Maßgaben, die dauerhaft eine Umstellung verhindern? Wenn ja: welche sind dies und welche Leitungslänge und welche Leitungsart sind davon betroffen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Wegenutzungsvertrag sieht grundsätzlich eine Erdverkabelung vor, siehe dazu § 15 des Wegenutzungsvertrages, der im Internet unter http://www.buergerschafthh.de/ParlDok/dokument/47021/abschluss-eines-wegenutzungsvertrages-sowie-einerkooperationsvereinbarung-mit-der-stromnetz-hamburg-gmbh.pdf abrufbar ist. Nur im Hochspannungsbereich besteht eine wirtschaftliche Einschränkung. Die Erdverkabelung darf insoweit maximal um den Faktor 2,75 teurer sein als eine Freileitung.

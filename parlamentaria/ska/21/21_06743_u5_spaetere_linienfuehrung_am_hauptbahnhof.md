@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55315"
@@ -111,7 +112,7 @@ Wann ist die Station Hauptbahnhof-Nord eröffnet worden und welche Baukosten sin
 
 Welcher Kostenanteil davon entfiel auf den Bau des jeweiligen 2. Tunnels sowie des Geisterbahnsteigs in beiden Fahrtrichtungen?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die Haltestelle Hauptbahnhof Nord wurde im Herbst des Jahres 1968 eröffnet und als Teil der Strecke Jungfernstieg – Berliner Tor errichtet. Zu den damals angefallenen Baukosten dieses Streckenabschnitts beziehungsweise einzelner Bauabschnitte liegen keine Informationen vor. Ob und wo die entsprechenden Akten archiviert wurden (zum Beispiel im Staatsarchiv), kann in der für die Bearbeitung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht ermittelt werden.
 

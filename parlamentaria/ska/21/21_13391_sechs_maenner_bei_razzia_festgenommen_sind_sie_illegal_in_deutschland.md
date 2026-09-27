@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62751"
@@ -51,7 +52,7 @@ Konnte der ausländerrechtliche Status der sechs Männer inzwischen geklärt wer
 
 Seit wann sind die Männer in Deutschland?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Albanische Staatsangehörige dürfen zu Kurzaufenthalten grundsätzlich visafrei für drei Monate in das Schengen-Gebiet einreisen. Alle fünf in der ZEA vorgeführten Personen (vier albanische und eine kosovarische Person) konnten ihr konkretes Einreisedatum jedoch nicht nachweisen. Es konnte daher in allen Fällen davon ausgegangen werden, dass der erlaubte Zeitraum bereits abgelaufen war (vergleiche Vermutungsregelung Artikel 12 Schengener Grenzkodex). Alle Personen erhielten daraufhin eine Ausreiseaufforderung mit Abschiebungsandrohung gemäß § 59 Absatz 1 Aufenthaltsgesetz (AufenthG). Darin wurde ihnen eine Frist zur Ausreise zwischen sieben und 14 Tagen gewährt. Den Personen wurde eine Grenzübertrittsbescheinigung ausgehändigt, die beim Grenzübertritt oder nach erfolgter Ausreise beispielsweise bei
 

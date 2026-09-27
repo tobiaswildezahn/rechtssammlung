@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11541"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61339"
@@ -47,7 +48,7 @@ In welcher Höhe wurde die Garantie bis zum 31.12.2017 bislang tatsächlich in A
 
 In welcher Höhe hat die hsh finanzfonds AöR bis zum 31.12.2017 Zahlungen als Garantiegeber geleistet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In Höhe von rund 3.797.222.300 Euro.
 

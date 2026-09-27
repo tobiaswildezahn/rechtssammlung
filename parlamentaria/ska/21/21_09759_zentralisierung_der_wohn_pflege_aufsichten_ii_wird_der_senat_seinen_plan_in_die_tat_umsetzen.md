@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7877", "21/8725"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58565"
@@ -59,7 +60,7 @@ Liegen die Ergebnisse des Gutachtens und mithin das Gutachten selbst dem Senat b
 
 Welche Veränderungen/Verbesserungen an der bestehenden Praxis der WPA schlägt das Gutachten vor?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Ergebnisse des Gutachters liegen seit 31. Mai 2017 vor. Die fachliche Prüfung und abschließende Bewertung ist noch nicht abgeschlossen.
 

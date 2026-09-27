@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8671", "20/13465", "19/2659"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48897"
@@ -57,11 +58,11 @@ Kontrollen aufgrund von festgestellten Verstößen gegen das Betäubungsmittelge
 
 lichkeiten des polizeilichen Einschreitens werden von den Lageerkenntnissen und den festgestellten Verstößen beeinflusst. Verstöße werden hierbei häufig sowohl im als auch angrenzend an den Sternschanzen- sowie den Florapark festgestellt. Davon umfasst sind im Wesentlichen folgende Bereiche:
 
- Sternschanzenpark, inklusive der umgrenzenden Straßen Kleiner Schäferkamp –
+– Sternschanzenpark, inklusive der umgrenzenden Straßen Kleiner Schäferkamp –
 
 Schröderstiftstraße – Sternschanze – Schanzenstraße,
 
- Florapark, inklusive der umgrenzenden Straßen Altonaer Straße – Eifflerstraße –
+– Florapark, inklusive der umgrenzenden Straßen Altonaer Straße – Eifflerstraße –
 
 Schulterblatt – Rosenhofstraße – Bartelsstraße – Juliusstraße – Lerchenstraße – Susannenstraße – Lippmannstraße – Stresemannstraße.
 

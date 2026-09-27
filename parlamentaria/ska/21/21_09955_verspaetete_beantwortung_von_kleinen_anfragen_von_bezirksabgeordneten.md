@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58774"
@@ -59,7 +60,7 @@ Wie viele Kleine Anfragen wurden von Bezirksabgeordneten seit Anfang 2016 an die
 
 Wie viele dieser Kleinen Anfragen wurden von den Bezirksamtsleitungen nicht innerhalb der vorgeschriebenen Frist beantwortet? Bitte nach Bezirken aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im Zeitraum vom 01. Januar 2016 bis zum 14. Juli 2017 wurden im Bezirksamt Hamburg-Mitte 20 von 56 Kleinen Anfragen nicht fristgerecht beantwortet, im Bezirksamt Altona vier von 53, im Bezirksamt Eimsbüttel neun von 47, im Bezirksamt Hamburg Nord 111 von 285, im Bezirksamt Wandsbek eine von 78, im Bezirksamt Bergedorf 16 von 48 und im Bezirksamt Harburg zehn von 105.
 
@@ -71,7 +72,7 @@ Was unternimmt der Senat, um dafür zu sorgen, dass die Kleinen Anfragen innerha
 
 Wurden Disziplinarverfahren eingeleitet? Wenn ja: wie viele in welchem Bezirk und mit welchem Ausgang? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die sachgerechte Beantwortung Kleiner Anfragen von Mitgliedern der Bezirksversammlungen liegt im Bereich der selbstständigen Aufgabenwahrnehmung der Bezirksämter. Das Versäumen von Fristen als solche stellt noch kein Dienstvergehen
 

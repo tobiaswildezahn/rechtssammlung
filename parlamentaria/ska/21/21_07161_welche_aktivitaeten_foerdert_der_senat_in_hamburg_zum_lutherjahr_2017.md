@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55770"
@@ -83,11 +84,11 @@ Der Präses der Behörde für Schule und Berufsbildung ist Schirmherr des Wettbe
 
 Die Landeszentrale für politische Bildung wird im Jahr 2017 folgende Veranstaltungen anerkannter Bildungsträger aus Mitteln der Landeszentrale (Produktgruppe 238.01) fördern:
 
- Zwei eintägige Veranstaltungen zum Thema „500 Jahre Reformation“, durchge-
+– Zwei eintägige Veranstaltungen zum Thema „500 Jahre Reformation“, durchge-
 
 führt durch „Die Neue Gesellschaft“; Fördersumme 2.560 Euro
 
- Fünftägiger Bildungsurlaub mit dem Titel „Luther und die Reformation“, durchge-
+– Fünftägiger Bildungsurlaub mit dem Titel „Luther und die Reformation“, durchge-
 
 führt durch „Arbeit und Leben“; Fördersumme 3.800 Euro
 

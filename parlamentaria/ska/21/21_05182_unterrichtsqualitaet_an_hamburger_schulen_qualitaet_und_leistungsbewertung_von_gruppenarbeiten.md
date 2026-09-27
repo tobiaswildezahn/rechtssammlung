@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53660"
@@ -127,11 +128,11 @@ Thematische Schwerpunkte dieser Fortbildungen sind Leistungsdifferenzierung und 
 
 Ergänzend werden Hinweise zu Steuerungsmöglichkeiten, Gruppenarbeitsgestaltung und Aufgabenstellungen für leistungsstarke und besonders begabte beziehungsweise hochbegabte Schülerinnen und Schüler in fachbezogenen und praxisorientierten Publikationen zusammengefasst und Lehrkräften sowie schulischen Funktionsträgerinnen und -trägern zur Verfügung gestellt. Exemplarisch genannt werden können:
 
- Reihe: Impulse Mathematik Grundschule (siehe unter: http://li.hamburg.de/
+– Reihe: Impulse Mathematik Grundschule (siehe unter: http://li.hamburg.de/
 
 publikationen-2014/3563114/schuelerzikel-mathe-band1-4/)
 
- „Im Blickpunkt: Kreatives Schreiben“. Handreichung für den Unterricht im Fach
+– „Im Blickpunkt: Kreatives Schreiben“. Handreichung für den Unterricht im Fach
 
 Deutsch für die Sekundarstufe I“ (2015). Landesinstitut für Lehrerbildung und  
 Schulentwicklung.  
@@ -141,7 +142,7 @@ unter:
 http://li.hamburg.de/publikationen/  
 4626452/kreatives-schreiben/)
 
- Fördermaterialien  
+– Fördermaterialien  
 unterschiedlicher  
 Art  
 (siehe  

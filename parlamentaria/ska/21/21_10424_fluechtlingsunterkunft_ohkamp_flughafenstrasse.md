@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5231", "21/10022", "21/1838", "21/8132", "21/3652"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59294"
@@ -67,7 +68,7 @@ Handelte es sich bei der Anzahl von etwa 600 Plätzen um eine Forderung des Inve
 
 Aus welchen Gründen wurde an diesem Standort eine Belegung von maximal 600 Flüchtlingen als tragfähig erachtet, obwohl der Konsens mit der Volksinitiative eine Maximalzahl von 300 Plätzen anstrebt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Mit dem Bürgervertrag Langenhorn als Teil des Konsenses mit den Initiatoren der Volksinitiative „Hamburg für gute Integration“ wurde für diesen Standort bei Beginn eine Belegung von nicht mehr als 600 Flüchtlingen vereinbart, siehe Drs. 21/5231. Im Übrigen sieht der Konsens keine Maximalkapazität, sondern eine Durchschnittskapa-
 

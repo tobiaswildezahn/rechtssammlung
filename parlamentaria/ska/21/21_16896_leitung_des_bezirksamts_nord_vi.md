@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 33
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15688", "21/16540", "21/13315"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66444"
@@ -102,7 +103,7 @@ Konnte beziehungsweise kann in der Annahme von i. Freikarten oder ii. dem Kauf v
 
 In wie vielen Fällen wurde die Annahme von Freikarten und in wie vielen Fällen der Kauf von Karten aus dem Kaufkartenkontingent durch die jeweiligen Vorgesetzten genehmigt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Ob und gegebenenfalls in welchen Einzelfällen die Annahme der Karten beziehungsweise deren Erwerb aus dem Kaufkartenkontingent ein Verstoß gegen entsprechende behördliche Regelungen darstellt beziehungsweise durch die jeweiligen Vorgesetzten wirksam genehmigt worden ist, ist Gegenstand der laufenden staatsanwaltschaftlichen und innerdienstlichen Ermittlungen. Diese sind noch nicht abgeschlossen. Darüber hinaus nimmt der Senat in ständiger Praxis zu laufenden Ermittlungsverfahren keine Stellung.
 

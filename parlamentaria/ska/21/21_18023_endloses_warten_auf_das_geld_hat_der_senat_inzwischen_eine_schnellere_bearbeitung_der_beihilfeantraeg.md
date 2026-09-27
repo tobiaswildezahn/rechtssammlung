@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17774", "21/11716"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67635"
@@ -39,23 +40,23 @@ Die Beihilfebearbeitung stellt an die fachlichen Fähigkeiten und die Belastbark
 
 Die zuständige Behörde erhöht durch verschiedene Maßnahmen weiter die Attraktivität des Bereichs. Neben den bereits in der Drs. 21/17774 erwähnten Maßnahmen sind dies:
 
- Einarbeitung neuer Sachbearbeiterinnen und Sachbearbeiter in einem neu
+– Einarbeitung neuer Sachbearbeiterinnen und Sachbearbeiter in einem neu
 
 gegründeten Ausbildungsteam mit hauptamtlichen Mentoren.
 
- Schaffung beruflicher Entwicklungsmöglichkeiten im Fachbereich Beihilfebearbei-
+– Schaffung beruflicher Entwicklungsmöglichkeiten im Fachbereich Beihilfebearbei-
 
 tung und fachbereichsübergreifend auch im Geschäftsbereich Beihilfe („Beihilfekarriere“).
 
- Verstärktes Engagement des Fachbereichs Beihilfebearbeitung in der Ausbildung
+– Verstärktes Engagement des Fachbereichs Beihilfebearbeitung in der Ausbildung
 
 von Nachwuchskräften der allgemeinen Verwaltung.
 
- Einführung flexibler und familienfreundlicher Arbeitsmodelle im Rahmen von Tele-
+– Einführung flexibler und familienfreundlicher Arbeitsmodelle im Rahmen von Tele-
 
 arbeit und mobiler Arbeit.
 
- Gründung mehrerer fachbereichsübergreifender Arbeitsgruppen, die eine Beteili-
+– Gründung mehrerer fachbereichsübergreifender Arbeitsgruppen, die eine Beteili-
 
 gung von geeigneten und interessierten Sachbearbeiterinnen und Sachbearbeitern an der Weiterentwicklung des Geschäfts- und Fachbereichs ermöglichen.
 
@@ -97,7 +98,7 @@ Wie erklärt der Senat die hohe Fluktuation in dem Bereich?
 
 Welche Maßnahmen gedenkt der Senat infolge der hohen Fluktuation und somit dem Abfluss von Erfahrung und Wissen zu ergreifen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 
@@ -144,7 +145,7 @@ Warum wurden wann die telefonischen Sprechzeiten reduziert?
 Aufgrund des hohen Anruferaufkommens sind die Mitarbeiter auch während der telefonischen Sprechzeiten häufig nicht erreichbar.
 a) Wieso wurden trotz hohem Anruferaufkommens die telefonischen Sprechzeiten reduziert?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die telefonischen Sprechzeiten wurden für die Zeit vom 15.07.19 bis 30.08.2019 reduziert, um Personalkapazitäten für die Antragsbearbeitung zu nutzen und damit die Bearbeitungszeit zu verringern.
 

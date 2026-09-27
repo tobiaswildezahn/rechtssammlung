@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56091"
@@ -53,9 +54,9 @@ Die Entscheidung wurde am 28. Oktober 2016 durch die Leitung der Behörde für I
 
 Nachstehende Objekte wurden im Rahmen der Standortauswahl geprüft:
 
- ein stadteigenes Objekt im Havighorster Weg 16
+– ein stadteigenes Objekt im Havighorster Weg 16
 
- eine von der Polizei gemietete Liegenschaft im Großmoorring 14
+– eine von der Polizei gemietete Liegenschaft im Großmoorring 14
 
 Das Objekt in der Schlachthofstraße bot bei einer vergleichenden Betrachtung der Standorte die insgesamt besten Voraussetzungen für die Einrichtung einer Gefangenensammelstelle.
 

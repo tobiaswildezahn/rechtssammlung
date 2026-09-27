@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12825"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63113"
@@ -49,7 +50,7 @@ Anhand welcher Kriterien sollen Lehrer entscheiden, ob spezifische Aussagen oder
 
 Wie sollen Lehrer solche Positionen/Forderungen im Unterricht „markieren“ (Drs. 21/12825)? Bitte einige Handlungsoptionen erläutern.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Aufgabe der Lehrkräfte ist es, die Schülerinnen und Schüler zu einer eigenen Meinungsbildung zu führen und dabei Äußerungen Dritter, aber auch solche von Mitschülerinnen beziehungsweise Mitschülern an der verfassungsmäßigen Ordnung zu messen. Maßgeblich ist die Rechtsprechung des Bundesverfassungsgerichts, welches die freiheitlich demokratische Grundordnung als Kernsubstanz der Verfassung umschrieben hat, also eine rechtsstaatliche Herrschaftsordnung, die jegliche Gewalt und Willkürherrschaft ausschließt und sich nach dem Willen der jeweiligen Mehrheit richtet.
 
@@ -76,7 +77,7 @@ Auf welches politiktheoretische Konzept bezieht sich der Senat/die BSB bei dem B
 
 Auf welches politiktheoretische Konzept bezieht sich der Senat/die BSB bei dem Begriff „Demokratiefeindlichkeit“ (Drs. 21/12825)? Bitte ausführlich anhand der Fachliteratur die Merkmale des Konzepts/Begriffes erläutern und mit konkreten Beispielen unterlegen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die in Drs. 21/12825 benannten Begriffe „Menschenverachtung“ und „Demokratiefeindlichkeit“ basieren nicht auf Politiktheorien im engeren Sinne. Vielmehr dienen sie der zusammenfassenden Charakterisierung von Einstellungen und Handlungsweisen. Demokratiefeindlich wären demnach Einstellungen und Handlungen, die den Grundprinzipien der politischen Ordnung der Bundesrepublik Deutschland und hieraus ableitbaren gesellschaftlichen Wertvorstellungen widersprechen. Zu diesen Grundprinzipien sind exemplarisch der Gleichheitsgrundsatz und Diskriminierungsverbote (Artikel 2 Grundgesetz) sowie das Demokratieprinzip (Artikel 20 Grundgesetz) und
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 18
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5904"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54692"
@@ -43,7 +44,7 @@ Mangels Antwort nochmals: „Haben die Innenbehörde oder Hamburg anderweitig Be
 
 In Frage 2. (Drs. 21/5904) wurden nicht allein Haushaltsdaten abgefragt, sondern der Bedarf der „Feuerwehr für eine reibungslose Umsetzung des NotSanG?“ Bitte die Frage diesmal vollständig beantworten und die Antwort genau erläutern.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In den Darstellungen der Drs. 21/5904 wurden die der zuständigen Behörde bekannten Vereinbarungen der Kostenträger zur Erstattung von Kosten im Zusammenhang mit der Umsetzung der gesetzlichen Regelungen zum Notfallsanitäter aufgeführt.
 
@@ -91,7 +92,7 @@ Welche zusätzlichen Kompetenzen haben Notfallsanitäter gegenüber Rettungsassi
 
 Welche dieser zusätzlich erworbenen Kompetenzen, die in der Ausbildung vermittelt werden, dürfen auch in Hamburg angewendet werden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/5904.
 

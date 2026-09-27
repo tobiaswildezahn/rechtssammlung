@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7966", "21/6004"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57924"
@@ -84,7 +85,7 @@ Wie hoch war in den Jahren 2015 und 2016 jeweils die Anzahl der im Kita-Gutschei
 
 Wie viele Kinder waren in den jeweiligen Jahrgängen jeweils in den Jahren 2015 und 2016 in den einzelnen Stadtteilen gemeldet und wie hoch war jeweils die Betreuungsquote in den einzelnen Jahrgängen (bitte nach Stadtteilen angeben)?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage 1 und Anlage 2.
 

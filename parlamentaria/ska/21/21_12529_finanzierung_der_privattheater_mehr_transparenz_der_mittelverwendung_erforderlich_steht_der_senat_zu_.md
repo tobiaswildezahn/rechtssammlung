@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6991", "21/11924"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61842"
@@ -64,7 +65,7 @@ Wie hoch waren alle Zuwendungen an die Privattheater in den Haushaltsjahren 2015
 a) Wie verteilten sich die Zuwendungen an die einzelnen Privattheater (bitte sowohl differenziert nach institutioneller Förderung, Projektmitteln und Privattheaterinsertionsförderung benennen) jeweils in den Haushaltsjahren 2015, 2016, 2017 und 2018?
 b) Sollte es gravierende Abweichungen zwischen den Jahren geben, woraus erklären sich diese?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlagen 1 bis 4. Die Abweichungen zwischen den Förderungen der Spielzeit 2016/2017 und 2017/2018 erklären sich mit der Erhöhung der Förderung der Privattheater zum Doppelhaushalt 2017/2018.
 

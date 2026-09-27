@@ -14,6 +14,7 @@ fragen: 43
 einzelfragen: 60
 antwortbloecke: 31
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9882", "21/516", "21/2242", "21/3044", "21/5888", "21/4925", "20/9662", "21/8274", "21/11262", "21/9810", "21/2367", "21/6458", "20/11361", "21/1591"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61203"
@@ -212,7 +213,7 @@ Wie haben sich die Bruttoeinnahmen aus dem gesamten Kartenverkauf seit Einführu
 
 Für welche Zwecke wurden die in den Jahren 2014, 2015, 2016 und 2017 erwirtschafteten Bruttoeinnahmen aus dem gesamten Kartenverkauf verwendet? (Bitte jahresweise aufschlüsseln und die jeweiligen Teilbeträge angeben.)
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Siehe Antwort zu 2. und Drs. 21/8274.
 
@@ -265,7 +266,7 @@ Wie viele P+R-Stell-/-Parkplätze wurden seit dem 1. Juli 2014 in Hamburg neu ge
 
 Wie viele P+R-Stell-/-Parkplätze werden in den Jahren 2017 und 2018 jeweils wo neu geschaffen und wie viele davon werden gebührenfrei oder gebührenpflichtig sein?
 
-#### Antwort zu Fragen 25 bis 26
+#### Antwort zu Fragen 25 und 26
 
 Siehe Drs. 21/8274.
 

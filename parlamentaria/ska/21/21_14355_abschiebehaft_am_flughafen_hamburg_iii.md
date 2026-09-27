@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 30
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13759", "21/12536"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63769"
@@ -162,27 +163,27 @@ Welche Tätigkeiten werden durch das externe Sicherheitspersonal ausgeführt? Bi
 
 Folgende Tätigkeiten werden durch das externe Sicherheitspersonal ausgeführt:
 
- Aufgaben im Pförtnerdienst/Videoüberwachung (Zutrittskontrolle zur Rückfüh-
+– Aufgaben im Pförtnerdienst/Videoüberwachung (Zutrittskontrolle zur Rückfüh-
 
 rungseinrichtung, Überwachung des Zufahrtsbereiches zur Rückführungseinrichtung und des Innenhofes, Auskunftserteilung an Besucher/Lieferanten und Fremdfirmen, Durchsuchung der Besucher und der persönlichen Habe, Begleitung der Besucher zum Wachbüro, Arbeiten am Videoüberwachungsplatz,
 
- Beaufsichtigung der Bewohner in den Haft-, Besucher- und Gemeinschaftsräumen
+– Beaufsichtigung der Bewohner in den Haft-, Besucher- und Gemeinschaftsräumen
 
 (Kontrolle und Durchsetzung der Einhaltung der Hausordnung im Innenbereich, Information der diensthabenden Sachbearbeiter bei Auffälligkeiten und besonderen Vorkommnissen, Brandwache, Waschmaschinendienst, Prüfung der Räumlichkeiten in Bezug auf sicherheitsrelevante Mängel, Information der Polizei und Feuerwehr bei sicherheitsrelevanten Vorfällen, Ersthelfertätigkeit),
 
- Durchführung von regelmäßigen Streifengängen (Außenhautkontrolle, Prüfung der
+– Durchführung von regelmäßigen Streifengängen (Außenhautkontrolle, Prüfung der
 
 Zaunanlage, Fenster, Türen et cetera, Kontrolle und Durchsetzung der Einhaltung
 
 der Hausordnung im Außenbereich, Information der Polizei und Feuerwehr bei sicherheitsrelevanten Vorfällen, Kontrolle der Flucht- und Rettungswege),
 
- Bewachung der Insassen im Außenbereich der Rückführungseinrichtung,
+– Bewachung der Insassen im Außenbereich der Rückführungseinrichtung,
 
- Berichts- und Meldewesen (Führen des Wachbuches, Erstattungen von Meldun-
+– Berichts- und Meldewesen (Führen des Wachbuches, Erstattungen von Meldun-
 
 gen an den diensthabenden Sachbearbeiter),
 
- Unterstützung der diensthabenden Sachbearbeiter durch Begleitung der Insassen
+– Unterstützung der diensthabenden Sachbearbeiter durch Begleitung der Insassen
 
 zum Flughafen, zu Ärzten und Krankenhäusern et cetera.
 

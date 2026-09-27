@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49244"
@@ -91,6 +92,6 @@ Welche Änderungen muss der Gesetzentwurf aus Sicht des Senats konkret erfahren,
 
 Welche Maßnahmen ergreift der Senat, um eine solche Entschärfung der entsprechenden Formulierungen im Gesetzentwurf zu erreichen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Vorbemerkung.

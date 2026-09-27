@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56718"
@@ -53,7 +54,7 @@ Für wie viele Jahre wird die Grundschule Kerschensteiner Straße die Gebäude d
 
 Wann wird die Grundschule Kerschensteiner Straße in das heutige Lessing-Gymnasium umziehen und dort den Grundschulzweig fortführen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -73,7 +74,7 @@ Wie viele Klassen sind an der Schule Kerschensteiner Straße derzeit vorhanden?
 
 Werden Internationale Vorbereitungsklassen und Sonderförderklassen einbezogen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im Schuljahr 2016/2017 führt die Schule Kerschensteinerstraße insgesamt 16 Klassen, davon eine Internationale Vorbereitungsklasse.
 

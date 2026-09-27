@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13704", "21/13727"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63562"
@@ -98,7 +99,7 @@ Aus welchen Einzelposten setzen sich die „hohen sechsstelligen Kosten“ zur B
 
 Innerhalb welchen Zeitraumes sind diese Kosten entstanden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die in dem Schreiben vom 27. Juli 2018 benannten Kosten für die Beantwortung von Parlamentarischen Anfragen beziehen sich auf die Zeit seit dem Amtsantritt des Präsidenten der UHH im März 2010. Im Einzelnen beziehen sich diese Kosten für das involvierte Personal pro Stunde und ergeben sich aus dem UHH-internen Workflow zur Bearbeitung von Parlamentarischen Anfragen, der eine qualitätsgesicherte Beantwortung der Fragen durch die UHH sicherstellt. Dieser Workflow basiert auf der
 
@@ -116,7 +117,7 @@ b) Große Anfragen
 
 Welchen Anteil haben daran die besagten 23 Schriftlichen Kleinen Anfragen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die UHH war zwischen März 2010 und August 2018 gebeten, auf circa 1.000 Schriftliche Kleine Anfragen und Große Anfragen zu antworten. Von diesen circa 1.000 Parlamentarischen Anfragen seit März 2010 entsprechen 23 Schriftliche Kleine Anfragen circa 2,3 Prozent.
 

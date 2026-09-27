@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 16
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6515"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55367"
@@ -237,7 +238,7 @@ Wie viele Arbeitsgelegenheiten mündeten in einer sozialversicherungspflichtige 
 
 Wie viele Arbeitsgelegenheiten, die über einen Träger bei der Stadt Hamburg angesiedelt sind, mündeten in einer Übernahme einer sozialversicherungspflichtigen Tätigkeit in den Jahren 2010 bis aktuell? Bitte jährlich tabellarisch darstellen.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Drs. 21/6515. Darüber hinaus erfolgt keine Auswertung im Sinne der Fragestellungen erfolgt durch den Statistik-Service der Bundesagentur für Arbeit.
 

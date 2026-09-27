@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69466"
@@ -67,7 +68,7 @@ Wann sollen die erdungstechnischen Probleme gelöst sein?
 
 Wurden bereits Arbeiten, die das Problem lösen, in Auftrag gegeben?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die entsprechenden Planungen sind beauftragt, die sich daraus ergebenden Maßnahmen sind für das 2. Quartal 2020 geplant. Die Arbeiten für die Wiederherstellung der Decken in der Verteilerebene im Bahnhof Harburg werden voraussichtlich ab Juni 2020 beginnen.
 

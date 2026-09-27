@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4465"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62894"
@@ -67,7 +68,7 @@ Wie viele der eingereichten Anträge führten zur Feststellung einer teilweisen 
 
 In wie vielen Fällen wurde keine vollständige Rehabilitierung anerkannt? Mit jeweils welcher Begründung wurden diese Entscheidungen getroffen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 In einem Fall wurde eine Teilaufhebung des Urteils gemäß §§ 2 Absatz 1, 3 Absatz 1 Satz 2 StrRehaHomG festgestellt, weil das zugrunde liegende Urteil auch wegen anderer als der in § 1 Absatz 1 StrRehaHomG genannten Vorschriften ergangen war.
 

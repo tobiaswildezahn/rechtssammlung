@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8136", "21/4306", "21/3174", "21/816"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57269"
@@ -93,7 +94,7 @@ Wie viele minderjährige unbegleitete Flüchtlinge wurden im Jahr 2016 nach Kön
 
 Ist die Quote Hamburgs gemäß Königsteiner Schlüssel noch immer „übererfüllt“? Wenn nein, seit wann nimmt Hamburg wieder unbegleitete minderjährige Flüchtlinge nach Königsteiner Schlüssel auf? Wenn ja, wie verhält sich der Anteil der in Obhut genommenen unbegleiteten minderjährigen Flüchtlinge prozentual zu anderen Bundesländern?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 In 2016 wurden 583 unbegleitete minderjährige Ausländer von Hamburg in andere Bundesländer umverteilt, 111 unbegleitete minderjährige Ausländer wurden aus gesundheitlichen Gründen öder einer möglichen Gefährdung des Kindeswohls von der Verteilung ausgenommen und verblieben in der Hamburger Jugendhilfe.
 
@@ -149,7 +150,7 @@ Wie viele vermeintlich minderjährige unbegleitete Flüchtlinge wurden in den Ja
 
 Wie viele minderjährige unbegleitete Flüchtlinge wurden in den Jahren 2010 – 2015 tatsächlich (also endgültig nach Prüfung der Voraussetzungen) in Obhut genommen? (Bitte nach Jahren aufschlüsseln.)
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 2010 2011 2012 2013 2014 2015 Inobhutnahmen mit Zweifel an der Minderjährigkeit (Antwort zu 11.)
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4737", "21/9437"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62653"
@@ -71,6 +72,6 @@ Welche (neuen) Maßnahmen haben die zuständigen Behörden ergriffen, um derarti
 
 Welche (neuen) Maßnahmen sind geplant, um derartigen Fällen entgegenzuwirken?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Polizei überprüft bei allen relevanten Einsatzanlässen und Kontrollen das Vorhandensein gültiger Fahrerlaubnisse. Die betroffenen Personen sind aus unterschiedlichen Gründen in jeder gesellschaftlichen Gruppe feststellbar und bieten daher keine zielgruppenorientierten Präventionsansätze.

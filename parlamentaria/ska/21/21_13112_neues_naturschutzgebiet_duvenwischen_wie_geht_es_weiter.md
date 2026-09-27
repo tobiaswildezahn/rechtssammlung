@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11189"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62456"
@@ -43,7 +44,7 @@ Wie sind derzeit der genaue Planungsstand sowie der Zeitplan für die Ausweisung
 
 Welche Fläche soll das geplante Naturschutzgebiet im Einzelnen umfassen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Derzeit findet die behördenübergreifende Abstimmung des Drucksachenentwurfs statt. Anschließend wird die öffentliche Auslegung und Verbändebeteiligung erfolgen. In diesem Rahmen können Stellungnahmen zum Verordnungsentwurf abgegeben werden. Die Verordnung wird dann überprüft und gegebenenfalls überarbeitet und erneut behördenübergreifend abgestimmt.
 
@@ -65,7 +66,7 @@ Wann soll die öffentliche Auslegung des Entwurfs der Rechtsverordnung für das 
 
 Wann wird die Beteiligung der anerkannten Naturschutzverbände erfolgen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die öffentliche Auslegung und Beteiligung der Verbände wird im Sommer 2018 erfolgen, siehe dazu auch Antwort zu 1. und 2.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 17
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6825"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55752"
@@ -49,7 +50,7 @@ Wurde im Zuge der beabsichtigten Neustrukturierung der Reinigungsdienstleistunge
 
 Wenn eine Ist-Analyse zur Ermittlung des Reinigungsbedarfes durchgeführt worden ist, a. wann beziehungsweise in welchem Zeitraum wurde diese Bedarfsanalyse durchgeführt? b. mit welchem Aufwand (Budget, Zeitaufwand) wurde die Bedarfsermittlung erarbeitet? c. welche qualitativen und quantitativen Erkenntnissen konnten aus der Untersuchung hergleitet werden? d. Wenn keine Ist-Analyse zur Ermittlung des Reinigungsbedarfes durchgeführt worden ist: Warum ist dies nicht geschehen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Bedarf für verstärkte Reinigungsleistungen ergibt sich aus den Feststellungen der zuständigen Stellen, namentlich der BUE, der SRH, der Bezirksämter und anderer für Sauberkeit zuständigen Stellen.
 
@@ -57,27 +58,27 @@ Bei der Bedarfsermittlung wurden insbesondere laufend erhobene und ausgewertete 
 
 Im Ergebnis konnten so als Voraussetzung für eine spürbare Verbesserung der Sauberkeit des öffentlichen Raums verschiedene Handlungsfelder beziehungsweise Bedarfe an verstärkten Reinigungsleistungen identifiziert werden:
 
- intensivere Reinigung der öffentlichen Wege und Plätze einschließlich der Fahr-
+– intensivere Reinigung der öffentlichen Wege und Plätze einschließlich der Fahr-
 
 bahnen von Nebenstraßen
 
- Intensivierung der Reinigung auch in den Randbereichen öffentlicher Wege (stra-
+– Intensivierung der Reinigung auch in den Randbereichen öffentlicher Wege (stra-
 
 ßen- und gehwegbegleitende Grünflächen)
 
- verstärkte Reinigung der Grün- und Erholungsanlagen. Entlastung der Bezirksäm-
+– verstärkte Reinigung der Grün- und Erholungsanlagen. Entlastung der Bezirksäm-
 
 ter und Reduzierung von Zuständigkeitsschnittstellen durch Ausweitung der Reinigungszuständigkeit der SRH auf Grün- und Erholungsanlagen
 
- Verdichtung des Netzes an öffentlichen Papierkörben sowohl auf öffentlichen
+– Verdichtung des Netzes an öffentlichen Papierkörben sowohl auf öffentlichen
 
 Wegen als auch in Grün- und Erholungsanlagen (auch zur Erleichterung der sachgerechten Entsorgung von „Gassibeuteln“)
 
- Verstärkung der zuständigkeitsübergreifenden Sofortmaßnahmen bei besonderen
+– Verstärkung der zuständigkeitsübergreifenden Sofortmaßnahmen bei besonderen
 
 Verschmutzungssituationen/ wilden Müllablagerungen
 
- verstärkte Präventionsarbeit im öffentlichen Raum in Form von Beratung und
+– verstärkte Präventionsarbeit im öffentlichen Raum in Form von Beratung und
 
 Ansprache, aber gegebenenfalls auch durch normverdeutlichende und sanktionierende Maßnahmen bei entsprechenden Verstößen
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/2212"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55908"
@@ -93,7 +94,7 @@ Gibt es Mitglieder des Senats, die Freikarten oder Vergünstigungen für den Bes
 
 Wurden Senatoren oder Senatorinnen seit Beginn der Legislaturperiode ohne konkreten dienstlichen Anlass zu grundsätzlich kostenpflichtigen Fachtagungen, Informations- oder Präsentationsveranstaltungen von Unternehmen und Verbänden oder ihnen nahe stehenden Einrichtungen ohne Erhebung einer Teilnahmegebühr eingeladen? Falls ja, welcher Senator beziehungsweise welche Senatorin wurde seit Beginn der Legislaturperiode von jeweils wem aus welchem Anlass zu welchen Veranstaltungen eingeladen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Mitglieder des Senats erhalten als Repräsentanten einer Landesregierung regelmäßig eine Vielzahl von Einladungen zu Veranstaltungen aller Art. Solche Einladungen werden weder als solche noch im Hinblick darauf erfasst und ausgewertet, ob und welche Vergünstigungen mit ihnen im Falle der Annahme verbunden wären. Angenommen werden sie, wenn hierzu ein amtlicher Anlass besteht.
 

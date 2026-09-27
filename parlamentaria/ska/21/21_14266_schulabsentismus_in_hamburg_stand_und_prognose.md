@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 22
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2476"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63674"
@@ -119,7 +120,7 @@ Bei wie vielen Fällen des Schulabsentismus der Schuljahre 2015/2016, 2016/2017,
 
 Wie viele Hausbesuche gab es seitens der Schulen in den Schuljahren 2015/2016, 2016/2017, 2017/2018? (Bitte in einer Excel-Tabelle nach Stadtteilen, Schulen und Schulformen mit SuS-Zahlen und KESS- Faktoren, nach Schuljahrgängen, Geschlecht und nach Qualifikation der besuchenden Person aufschlüsseln.)
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung.
 

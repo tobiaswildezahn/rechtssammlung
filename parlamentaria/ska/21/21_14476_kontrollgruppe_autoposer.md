@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 16
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12177", "21/13212"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63903"
@@ -71,15 +72,15 @@ Mit welchen technischen Geräten ist die Kontrollgruppe Autoposer ausgestattet u
 
 Die Mitarbeiterinnen und Mitarbeiter nutzen den Fahrzeug- und Gerätebestand der Verkehrsstaffeln der Verkehrsdirektion, hier insbesondere
 
- zivile Streifenwagen (überwiegend Videofahrzeuge mit geeichten Geschwindig-
+– zivile Streifenwagen (überwiegend Videofahrzeuge mit geeichten Geschwindig-
 
 keitsmessanlagen zur beweissicheren Dokumentation zum Beispiel von Autorennen und Geschwindigkeitsverstößen),
 
- Schallpegelmessgeräte für Überprüfungen beim Verdacht von Lärm-Manipulation
+– Schallpegelmessgeräte für Überprüfungen beim Verdacht von Lärm-Manipulation
 
 sowie
 
- Kontroll-Spiegel für Sichtkontrollen zum Erkennen von Manipulationen unter einem
+– Kontroll-Spiegel für Sichtkontrollen zum Erkennen von Manipulationen unter einem
 
 Fahrzeug.
 
@@ -91,7 +92,7 @@ Wie viele Kontrollen hat die Kontrollgruppe Autoposer seit ihrer Einsetzung durc
 
 Wie viele Fahrzeuge wurden dabei seit der Einsetzung der Kontrollgruppe Autoposer überprüft?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Bis zum Stichtag 27. September 2018 sind insgesamt 2.988 Kraftfahrzeugüberprüfungen erfolgt.
 

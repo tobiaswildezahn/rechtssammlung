@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12916", "21/12930"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64026"
@@ -45,7 +46,7 @@ In welchen Positionen des Haushaltsentwurfs für den Haushalt 2019/2020 sind mö
 
 In welchen Positionen der mittelfristigen Finanzplanung für die Jahre 2021/2022 sind mögliche Mehrausgaben bei den Personalkosten in Folge des oben genannten Beschlusses berücksichtigt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für Personalkostensteigerungen aus Tarif- und Besoldungsanpassungen, zu denen auch die gegebenenfalls tarifliche Absicherung des Mindestlohns von 12 Euro zählt, sind in der Kernverwaltung je Einzelplan in den Ermächtigungen für Personalkosten des Haushaltsplan-Entwurfs 2019/2020 und der mittelfristigen Finanzplanung Steigerungen in Höhe von 1,5 Prozent p.a. veranschlagt.
 

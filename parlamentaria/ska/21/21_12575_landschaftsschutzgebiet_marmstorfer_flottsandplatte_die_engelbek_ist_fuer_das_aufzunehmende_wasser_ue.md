@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61864"
@@ -97,7 +98,7 @@ Welche Maßnahmen sind bis wann in Planung und Durchführung, um wieder eine ein
 
 Welche Maßnahmen sind bis wann in Planung und Durchführung, um eine Trockenlegung der Böden zum Erhalt des restlichen Baumbestands zu gewährleisten?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Eine ausreichende Entwässerung ist gewährleistet, zur Trockenlegung von Böden sind keine Maßnahmen geplant.
 

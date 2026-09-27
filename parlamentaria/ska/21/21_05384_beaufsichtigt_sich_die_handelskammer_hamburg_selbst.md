@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 22
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2712"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53873"
@@ -331,47 +332,47 @@ hamburger wirtschaft 11/2013, S. 62
 
 Regelmäßige Aktivitäten der Handelskammer im Sinne des § 3 Abs. 1 Nr.2 IHK-Gesetz in Verb. mit § 15 HK-Gesetz
 
- Beteiligung bei der vertieften Betrachtung von Gewerbestandorten
+– Beteiligung bei der vertieften Betrachtung von Gewerbestandorten
 
- Mitglied im Begleitausschuss zum Operationellen Programm für den Europäischen Fonds für Regionale Entwicklung Hamburg.
+– Mitglied im Begleitausschuss zum Operationellen Programm für den Europäischen Fonds für Regionale Entwicklung Hamburg.
 
- Mitwirkung im „Aktionsbündnis für Bildung und Beschäftigung Hamburg – Hamburger Fachkräftenetzwerk
+– Mitwirkung im „Aktionsbündnis für Bildung und Beschäftigung Hamburg – Hamburger Fachkräftenetzwerk
 
- In ihrer Eigenschaft als Träger Öffentlicher Belange äußert sich die Handelskammer regelmäßig zu stadtentwicklungspolitischen Fragestellungen in der
+– In ihrer Eigenschaft als Träger Öffentlicher Belange äußert sich die Handelskammer regelmäßig zu stadtentwicklungspolitischen Fragestellungen in der
 
 Veröffentlichungsserie Standpunkte.
 
- Regelmäßige Beteiligung an allen Verfahren der Bauleitplanung, Vorschläge zu den die Wirtschaft betreffenden Planentwurfsinhalten. Eine
+– Regelmäßige Beteiligung an allen Verfahren der Bauleitplanung, Vorschläge zu den die Wirtschaft betreffenden Planentwurfsinhalten. Eine
 
 Einzelaufzählung dieser Vorschläge ist angesichts der Fülle der Planverfahren in der Kürze der Zeit nicht möglich.
 
- Hamburger Gründungsbarometer
+– Hamburger Gründungsbarometer
 
- Veröffentlichung "Hamburger Gründungsbarometer" – halbjährlich - wird über das aktuelle Gründungsgeschehen in Hamburg informiert. Dort sind die
+– Veröffentlichung "Hamburger Gründungsbarometer" – halbjährlich - wird über das aktuelle Gründungsgeschehen in Hamburg informiert. Dort sind die
 
 Neuzugänge und Abmeldungen der Gewerbebetriebe, die Zugänge nach Rechtsformen und Branchen zusammengestellt.
 
 https://www.hk24.de/produktmarken/beratung-service/konjunktur-statistik/gruendungsbarometer_index/1152566
 
- Bericht über „Die Herausforderung Unternehmensnachfolge meistern - zehn Erfolgsbeispiele aus Hamburger Inhaber- und Familienunternehmen“
+– Bericht über „Die Herausforderung Unternehmensnachfolge meistern - zehn Erfolgsbeispiele aus Hamburger Inhaber- und Familienunternehmen“
 
 https://www.hk24.de/produktmarken/beratung-service/unternehmensgruendung/erste-schritte-selbstaendigkeit/praxisbroschuere-erfolgsbeispiele-
 
 unternehmensnachfolge/1152800
 
- Veröffentlichung „Hamburger Konjunkturbarometer“ - vierteljährlich
+– Veröffentlichung „Hamburger Konjunkturbarometer“ - vierteljährlich
 
- Auf der Basis von Mitgliederbefragungen veröffentlicht die Handelskammer das "Hamburger Konjunkturbarometer" zur Lage und Entwicklung in der
+– Auf der Basis von Mitgliederbefragungen veröffentlicht die Handelskammer das "Hamburger Konjunkturbarometer" zur Lage und Entwicklung in der
 
 Hamburger Wirtschaft, differenziert nach zehn Wirtschaftszweigen.
 
 https://www.hk24.de/produktmarken/beratung-service/konjunktur-statistik/hamburger-konjunkturbarometer/1153212
 
- Seit 1996 Veröffentlichungsserie Standpunkte
+– Seit 1996 Veröffentlichungsserie Standpunkte
 
 https://www.hk24.de/produktmarken/interessenvertretung/positionen_stellungnahmen/standpunkt-aktuell/2486072#titleInText1
 
- Seit 2003 ist die Handelskammer Hamburg ein Träger der UmweltPartnerschaft Hamburg. Neben der Beratung der UmweltPartnerschaft zum Thema
+– Seit 2003 ist die Handelskammer Hamburg ein Träger der UmweltPartnerschaft Hamburg. Neben der Beratung der UmweltPartnerschaft zum Thema
 
 freiwilliger Umweltschutz in Hamburger Unternehmen geht es den Trägern der UmweltPartnerschaft Hamburg auch um einen gemeinsamen Beitrag zur
 
@@ -381,47 +382,47 @@ in Hamburg. Ziele, Handlungsfelder und Maßnahmen haben die Träger der UmweltPa
 
 Arbeitsprogramm konkretisiert.
 
- Seit 2008 ständiger Partner der InnovationsAllianz Hamburg. Ziel dieser von Hamburger Politik, Wirtschaft und Wissenschaftseinrichtungen gemeinsam
+– Seit 2008 ständiger Partner der InnovationsAllianz Hamburg. Ziel dieser von Hamburger Politik, Wirtschaft und Wissenschaftseinrichtungen gemeinsam
 
 ergriffenen Initiative ist es, den Innovationsstandort Hamburg zu stärken.
 
- Die Handelskammer ist seit 2005 Mitglied der ArbeitsschutzPartnerschaft Hamburg
+– Die Handelskammer ist seit 2005 Mitglied der ArbeitsschutzPartnerschaft Hamburg
 
 (http://www.hamburg.de/arbeitsschutzpartnerschaft/2391932/arbeitsschutzpartnerschaft-hamburg/
 
- Seit 2011 Mitwirkung an der Formulierung und der Kommentierung der Dekadenstrategie „HamburgMachtSport“ sowie bei der Berichterstattung zur
+– Seit 2011 Mitwirkung an der Formulierung und der Kommentierung der Dekadenstrategie „HamburgMachtSport“ sowie bei der Berichterstattung zur
 
 Umsetzung in den jährlichen Hamburger Sportberichten (siehe Drsn. 20/2948, 21/4917).
 
 Aktivitäten der Handelskammer im Sinne des § 3 Abs. 1 Nr.2 IHK-Gesetz nach Jahren gegenüber den Fachbehörden
 
- 2006 Vorschlag, die Zuständigkeit für die widerrufliche Zuerkennung der fachlichen Eignung (§ 30 Abs. 6 BBiG) von der damaligen Behörde für Bildung und Sport auf die Kammern zu übertragen. Daraus resultierte eine entsprechende Rechtsverordnung (Hamburgisches Gesetz- und Verordnungsblatt
+– 2006 Vorschlag, die Zuständigkeit für die widerrufliche Zuerkennung der fachlichen Eignung (§ 30 Abs. 6 BBiG) von der damaligen Behörde für Bildung und Sport auf die Kammern zu übertragen. Daraus resultierte eine entsprechende Rechtsverordnung (Hamburgisches Gesetz- und Verordnungsblatt
 
 (HmbGVBl), 2007, S. 165).
 
- 2006 Standpunkt: Industriepolitik in Hamburg - Cluster richtig auswählen :Mit dem Standpunktepapier entwirft die Handelskammer für die Hamburger Industrie eine clusterpolitische Strategie, die sich Wachstum, Qualität und die Besinnung auf die Stärken des Standorts zum Ziel setzt.
+– 2006 Standpunkt: Industriepolitik in Hamburg - Cluster richtig auswählen :Mit dem Standpunktepapier entwirft die Handelskammer für die Hamburger Industrie eine clusterpolitische Strategie, die sich Wachstum, Qualität und die Besinnung auf die Stärken des Standorts zum Ziel setzt.
 
- 2007 Stellungnahme der Handelskammer Hamburg zum Entwurf der Hamburgischen Klimaschutzverordnung  2007 Stellungnahme zur Planung des Kraftwerksneubaus Moorburg  2008 Standpunkt: Technologie- und Innovationstransfer braucht neue Strukturen Eine gut funktionierende Zusammenarbeit von Wirtschaft und Wissenschaft ist ein entscheidender Faktor im Wettbewerb der Standorte und Regionen.
+– 2007 Stellungnahme der Handelskammer Hamburg zum Entwurf der Hamburgischen Klimaschutzverordnung – 2007 Stellungnahme zur Planung des Kraftwerksneubaus Moorburg – 2008 Standpunkt: Technologie- und Innovationstransfer braucht neue Strukturen Eine gut funktionierende Zusammenarbeit von Wirtschaft und Wissenschaft ist ein entscheidender Faktor im Wettbewerb der Standorte und Regionen.
 
 Die Handelskammer hat 14 Empfehlungen zur Verbesserung des Technologie- und Innovationstransfers vorgestellt.
 
- 2008 Wahrnehmung wirtschaftsbezogener Aufgaben der Bezirksverwaltungen aus Sicht der Hamburger Wirtschaft durch eine repräsentative Befragung von Mitgliedsunternehmen der Handelskammer Hamburg, wie die Unternehmen die wirtschafts-bezogenen Aufgaben der Bezirksverwaltungen
+– 2008 Wahrnehmung wirtschaftsbezogener Aufgaben der Bezirksverwaltungen aus Sicht der Hamburger Wirtschaft durch eine repräsentative Befragung von Mitgliedsunternehmen der Handelskammer Hamburg, wie die Unternehmen die wirtschafts-bezogenen Aufgaben der Bezirksverwaltungen
 
 wahrnehmen.
 
- 2009 öffentliche Stellungnahme zu möglichem Neubau der Universität Hamburg.  2009 Stellungnahme zum Wärmelastplan für die Tideelbe  2009 – 2013 Standpunkt: Wirtschaftspolitische Herausforderungen annehmen :Wirtschaftspolitische Herausforderungen annehmen – Forderungen der Handelskammer Hamburg an den Bundestag und die Bundesregierung 2009 bis 2013”
+– 2009 öffentliche Stellungnahme zu möglichem Neubau der Universität Hamburg. – 2009 Stellungnahme zum Wärmelastplan für die Tideelbe – 2009 – 2013 Standpunkt: Wirtschaftspolitische Herausforderungen annehmen :Wirtschaftspolitische Herausforderungen annehmen – Forderungen der Handelskammer Hamburg an den Bundestag und die Bundesregierung 2009 bis 2013”
 
- 2010 Veröffentlichung Denkschrift „Auf Leistung setzen – Der Sport als Wirtschaftsfaktor Hamburgs“ (https://www.hk24.de/blob/hhihk24/produktmarken/interessenvertretung/wirtschaft-
+– 2010 Veröffentlichung Denkschrift „Auf Leistung setzen – Der Sport als Wirtschaftsfaktor Hamburgs“ (https://www.hk24.de/blob/hhihk24/produktmarken/interessenvertretung/wirtschaft-
 
 politik/wirtschaftspolitik/downloads/1153114/be74f465c1ce8b08763f198c07f93aa9/Auf_Leistung_setzen_Der_Sport_als_Wirtschaftsfaktor_Hamburgs-
 
 data.pdf)
 
- 2010 Äußerung zu der Bundesratsinitiative zur Ermöglichung von englischsprachigen Verfahren bei den deutschen staatlichen Gerich ten und Ausführungen über Gründe und Anforderungen
+– 2010 Äußerung zu der Bundesratsinitiative zur Ermöglichung von englischsprachigen Verfahren bei den deutschen staatlichen Gerich ten und Ausführungen über Gründe und Anforderungen
 
- 2010 Standpunkt: „Hamburg 2030“ zu einem breit angelegten Erarbeitungsprozess mit den rund 700 in die Gremien der Handelskammer gewählten Unternehmerinnen und Unternehmern sowie mit einer Befragung unter Mitgliedsunternehmen hat die Handelskammer zum Zukunftsbild „Hamburg 2030"
+– 2010 Standpunkt: „Hamburg 2030“ zu einem breit angelegten Erarbeitungsprozess mit den rund 700 in die Gremien der Handelskammer gewählten Unternehmerinnen und Unternehmern sowie mit einer Befragung unter Mitgliedsunternehmen hat die Handelskammer zum Zukunftsbild „Hamburg 2030"
 
- 2011 – 2016 Diverse Vorschläge zur "Partnerschaft für Luftgüte und schadstoffarme Mobilität"  2011 Rekommunalisierungstendenzen in Hamburg am Beispiel des Energiemarktes: Bewertung und Empfehlungen  2011 Standpunktepapier „HIP Hamburg Innovations Parks – Wie man sich mit einem Netz von Technologieparks als Standort für Hochtechnologie profiliert“
+– 2011 – 2016 Diverse Vorschläge zur "Partnerschaft für Luftgüte und schadstoffarme Mobilität" – 2011 Rekommunalisierungstendenzen in Hamburg am Beispiel des Energiemarktes: Bewertung und Empfehlungen – 2011 Standpunktepapier „HIP Hamburg Innovations Parks – Wie man sich mit einem Netz von Technologieparks als Standort für Hochtechnologie profiliert“
 
 o Bedeutung von Technologieparks für den Wissenschafts- und Wirtschaftsstandort Hamburg,
 
@@ -429,39 +430,39 @@ o Nutzung der wissenschaftlichen Kompetenz der Hamburger Hochschulen dabei,
 
 o Vorschläge für konkrete Technologieparks in Hamburg und zu deren Aufbau und Weiterentwicklung.
 
- 2011 Standpunkt: HIP - Hamburg Innovations Parks Technologieparks tragen entscheidend zum Erfolg von Wissenschafts- und Wirtschaftsstandorten bei.
+– 2011 Standpunkt: HIP - Hamburg Innovations Parks Technologieparks tragen entscheidend zum Erfolg von Wissenschafts- und Wirtschaftsstandorten bei.
 
- 2011 Standpunkt: Politik für den Hamburger Mittelstand: was aus ihrer Sicht in Hamburg für mittelständisches Wachstum getan werden sollte mit Vorschlägen zu insgesamt sieben Handlungsfeldern
+– 2011 Standpunkt: Politik für den Hamburger Mittelstand: was aus ihrer Sicht in Hamburg für mittelständisches Wachstum getan werden sollte mit Vorschlägen zu insgesamt sieben Handlungsfeldern
 
- 2011 Unterstützung bei der Bewerbung der Lokalkammer Hamburg als Standort für das Einheitliche Patentgericht  2011 Veröffentlichung Positionspapier „Kurs Kultur – Ein Masterplan für die Kultur in Hamburg“ https://www.hk24.de/blob/hhihk24/produktmarken/beratung-
+– 2011 Unterstützung bei der Bewerbung der Lokalkammer Hamburg als Standort für das Einheitliche Patentgericht – 2011 Veröffentlichung Positionspapier „Kurs Kultur – Ein Masterplan für die Kultur in Hamburg“ https://www.hk24.de/blob/hhihk24/produktmarken/beratung-
 
 service/unternehmensfuehrung/verantwortung/kulturfoerderung/1163164/7a64f9a2cdff89b26217294972386b28/Kurs_Kultur_Ein_Masterplan_fuer_die_K
 
 ultur_in_Hamburg-data.pdf
 
- 2011 Die Bezirksverwaltungen aus Sicht der Hamburger Wirtschaft Durch repräsentative Befragungen von Mitgliedsunternehmen wurde ermittelt, wie diese die wirtschaftsbezogenen Aufgaben der Bezirksverwaltungen
+– 2011 Die Bezirksverwaltungen aus Sicht der Hamburger Wirtschaft Durch repräsentative Befragungen von Mitgliedsunternehmen wurde ermittelt, wie diese die wirtschaftsbezogenen Aufgaben der Bezirksverwaltungen
 
 wahrnehmen. Bei der Umfrage 2011 handelt es sich um die geplante Wiederholung der erstmals im Jahr 2008 zu diesem Thema durchgeführten
 
 Mitgliederbefragung.
 
- 2011 -2015 Standpunkt: Wirtschaftliche Leistungsfähigkeit sichern und ausbauen Mit diesem Standpunktepapier stellt die Handelskammer eine politische Legislaturperioden überspannende Agenda auf, mit der ein ehrgeiziges
+– 2011 -2015 Standpunkt: Wirtschaftliche Leistungsfähigkeit sichern und ausbauen Mit diesem Standpunktepapier stellt die Handelskammer eine politische Legislaturperioden überspannende Agenda auf, mit der ein ehrgeiziges
 
 Zukunftsbild für die Stadt in den nächsten zwei Jahrzehnten erreicht werden kann.
 
- 2012 Stellungnahme zu den geplanten Haftungsregelung für Offshore-Windparks  2012 Stellungnahme zum Luftreinhalteplan für die Stadt Hamburg (1. Fortschreibung im Herbst https://www.hk24.de/blob/hhihk24/produktmarken/beratung-
+– 2012 Stellungnahme zu den geplanten Haftungsregelung für Offshore-Windparks – 2012 Stellungnahme zum Luftreinhalteplan für die Stadt Hamburg (1. Fortschreibung im Herbst https://www.hk24.de/blob/hhihk24/produktmarken/beratung-
 
 service/innovation/downloads/1146342/7d1b2fd7c48a6a62d172f6a6bfeeb7de/Stellungnahme_Luftreinhalteplan-data.pdf
 
- 2012 Stellungnahme zur Gebührenregelung für die Überwachung von Begleitscheinen im elektronischen Abfallnachweisverfahren  2012 Stellungnahme zu einer der Verschlusssachenregelung äquivalenten Regelung zwecks Beibehaltung „vertraulicher Räume“ gegenüber ihrer Auskunftspflicht nach Informationsfreiheitsrecht einführen zu wollen
+– 2012 Stellungnahme zur Gebührenregelung für die Überwachung von Begleitscheinen im elektronischen Abfallnachweisverfahren – 2012 Stellungnahme zu einer der Verschlusssachenregelung äquivalenten Regelung zwecks Beibehaltung „vertraulicher Räume“ gegenüber ihrer Auskunftspflicht nach Informationsfreiheitsrecht einführen zu wollen
 
- 2012 Stellungnahme zum Bundesratsverfahren zum Kreislaufwirtschafts- und Abfallgesetz  2012 Stellungnahme zum Wärmelastplan für die Tideelbe  2012 Umfrage bei allen Gewerbetreibenden in den Stadtteilen St. Pauli und Neustadt zur Absicht einer Seilbahn am Hafen inkl. Auswertung der Ergebnisse und Positionierung
+– 2012 Stellungnahme zum Bundesratsverfahren zum Kreislaufwirtschafts- und Abfallgesetz – 2012 Stellungnahme zum Wärmelastplan für die Tideelbe – 2012 Umfrage bei allen Gewerbetreibenden in den Stadtteilen St. Pauli und Neustadt zur Absicht einer Seilbahn am Hafen inkl. Auswertung der Ergebnisse und Positionierung
 
- 2012/2013: Studie zur „Spezifikation und Typologie der Gewerbeflächennachfrage bis 2025 in Hamburg  2013: Stellungnahme zu Teilaspekten eines in der Kreditkommission beratenden Antrages auf die Gewährung einer Landesbürgschaft.  2013 Stellungnahme zur Kühlwassergebührenerhöhung  2013 Stellungnahme zum Weservertiefungsverfahren vor dem EuGH – Wasserrahmenrichtlinie  2013 Analyse: IT-Wirtschaft in Hamburg: der IT-Wirtschaftsmonitor  2014 Analyse: IT-Wirtschaftsstandort Hamburg  2014 Stellungnahme zur Novelle des Erneuerbare-Energien-Gesetzes (EEG 2014)  2014 ROADMAP URHEBERRECHT - Aktuelle Herausforderungen und Reformdiskussionen im Angesicht der digitalen Gesellschaft  2014 Stellungnahme zum Thema Mietpreisbremse  2014 Standpunktepapier „Musikstadt Hamburg“ veröffentlicht.  2014 Musikstadt Hamburg https://www.hk24.de/blob/hhihk24/produktmarken/interessenvertretung/wirtschaft-
+– 2012/2013: Studie zur „Spezifikation und Typologie der Gewerbeflächennachfrage bis 2025 in Hamburg – 2013: Stellungnahme zu Teilaspekten eines in der Kreditkommission beratenden Antrages auf die Gewährung einer Landesbürgschaft. – 2013 Stellungnahme zur Kühlwassergebührenerhöhung – 2013 Stellungnahme zum Weservertiefungsverfahren vor dem EuGH – Wasserrahmenrichtlinie – 2013 Analyse: IT-Wirtschaft in Hamburg: der IT-Wirtschaftsmonitor – 2014 Analyse: IT-Wirtschaftsstandort Hamburg – 2014 Stellungnahme zur Novelle des Erneuerbare-Energien-Gesetzes (EEG 2014) – 2014 ROADMAP URHEBERRECHT - Aktuelle Herausforderungen und Reformdiskussionen im Angesicht der digitalen Gesellschaft – 2014 Stellungnahme zum Thema Mietpreisbremse – 2014 Standpunktepapier „Musikstadt Hamburg“ veröffentlicht. – 2014 Musikstadt Hamburg https://www.hk24.de/blob/hhihk24/produktmarken/interessenvertretung/wirtschaft-
 
 politik/wirtschaftspolitik/downloads/1153140/1e79ca8d3c2459ca01f9fea387f7ff2f/Standpunktepapier_Musikstadt_Hamburg-data.pdf
 
-  
+–  
 2015 Standpunktepapier „Mit starker Wirtschaft in die Zukunft“  
 o  
 „Forderungen der Hamburger Wirtschaft an die Bürgerschaft und den Senat 2015 bis 2020“
@@ -478,32 +479,32 @@ o u.a.:
 
 - Technologieparks in Bergedorf, Harburg und Lurup zügig entwickeln
 
-  
+–  
 2015 Analyse Medienstandort Hamburg  
-  
+–  
 2015 Analyse: Hamburger Wirtschaft 4.0  
-  
+–  
 2015/2016: Entwicklung Handlungskonzeptes für die Revitalisierung und Modernisierung des Industriegebietes Billbrook/ Rothenburgsort
 
 Aktivitäten der Handelskammer im Sinne des § 3 Abs. 1 Nr.2 IHK-Gesetz nach Jahren in Zusammenarbeit mit den Bezirksämtern
 
- Stellungnahmen insbesondere zu Fragen des Einzelhandels und der Nahversorgung
+– Stellungnahmen insbesondere zu Fragen des Einzelhandels und der Nahversorgung
 
- Jährliche Vorschläge für eine Entscheidung über die Festlegung der vier verkaufsoffenen Sonntage gemäß Ladenöffnungsgesetz.
+– Jährliche Vorschläge für eine Entscheidung über die Festlegung der vier verkaufsoffenen Sonntage gemäß Ladenöffnungsgesetz.
 
- Mitwirkung im Rahmen der BID-Aufsicht ; „BID-Gesetz“ GSED: www.hamburg.de/contentblob/129152/data/gsed.pdf
+– Mitwirkung im Rahmen der BID-Aufsicht ; „BID-Gesetz“ GSED: www.hamburg.de/contentblob/129152/data/gsed.pdf
 
- Mitarbeit im Perspektivkreis Harburger Innenstadt
+– Mitarbeit im Perspektivkreis Harburger Innenstadt
 
- Mitglied und Fachberater im Citymanagement Harburg e.V
+– Mitglied und Fachberater im Citymanagement Harburg e.V
 
- Fachberatung BID Lüneburger Straße und BID Sand Hölertwiete
+– Fachberatung BID Lüneburger Straße und BID Sand Hölertwiete
 
- Seit 2011 Stellungnahmen zu verschiedenen Wohnungsbauprogrammen
+– Seit 2011 Stellungnahmen zu verschiedenen Wohnungsbauprogrammen
 
- 2011/2012 Beratung bei der Erstellung des Bergedorfer Gewerbeflächenkonzepts. Inhalt online verfügbar: http://www.hamburg.de/contentblob/4462508/cb099177ad1ccdc0a7b436a820a7cdae/data/gfkdownlod.pdf
+– 2011/2012 Beratung bei der Erstellung des Bergedorfer Gewerbeflächenkonzepts. Inhalt online verfügbar: http://www.hamburg.de/contentblob/4462508/cb099177ad1ccdc0a7b436a820a7cdae/data/gfkdownlod.pdf
 
- 2012 Stellungnahme zum Gewerbeflächenentwicklungskonzepts Eimsbüttel  2013 Standpunktepapier „Öffnungszeiten im Einzelhandel“ mit Vorschlag „dass die Hamburger Bezirke mehr Flexibilität bei der Auswahl der verkaufsoffenen Sonntage erhalten“.
+– 2012 Stellungnahme zum Gewerbeflächenentwicklungskonzepts Eimsbüttel – 2013 Standpunktepapier „Öffnungszeiten im Einzelhandel“ mit Vorschlag „dass die Hamburger Bezirke mehr Flexibilität bei der Auswahl der verkaufsoffenen Sonntage erhalten“.
 
 Positionspapiere der Handelskammer Hamburg
 
@@ -519,7 +520,7 @@ einen wichtigen Beitrag zur wirtschaftlichen und gesellschaftlichen Entwicklung 
 
 Unternehmertum sind Garanten für Wohlstand, Wachstum und Beschäftigung in der Stadt.
 
-• 2008 Mittelstandsvereinbarung II: Gemeinsam für den Hamburger Mittelstand (2008)
+– 2008 Mittelstandsvereinbarung II: Gemeinsam für den Hamburger Mittelstand (2008)
 
 Das "Bündnis für den Mittelstand" ist die gemeinsame Plattform der Handelskammer Hamburg, der Handwerkskammer Hamburg, des Verbandes Freier
 
@@ -531,9 +532,9 @@ Selbstständige und mittelständische Unternehmen zu festigen und auszubauen. Di
 
 Hamburger Rathaus unterschrieben.
 
- 2013 Mittelstandsvereinbarung III: Bündnis für den Hamburger Mittelstand (2013)
+– 2013 Mittelstandsvereinbarung III: Bündnis für den Hamburger Mittelstand (2013)
 
- Äußerungen der Handelskammer im Rahmen der Landesgesetzgebung zu kommunalen Steuern. Die zur Beantwortung benötigten Daten werden jedoch
+– Äußerungen der Handelskammer im Rahmen der Landesgesetzgebung zu kommunalen Steuern. Die zur Beantwortung benötigten Daten werden jedoch
 
 nicht gesondert statistisch erfasst. Hierfür wäre eine Einzelfallauswertung von mehreren Tausend Akten notwendig. Dies ist in der für die Beantwortung
 

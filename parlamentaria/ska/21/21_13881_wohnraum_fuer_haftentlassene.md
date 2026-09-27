@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11635", "21/2905"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63241"
@@ -157,14 +158,14 @@ Bezüglich der jugendlichen und heranwachsenden Untersuchungsgefangenen obliegen
 
 Die konkrete Ausgestaltung der Hilfe richtet sich nach den Erfordernissen des Einzelfalles:
 
- Bei Heranwachsenden, die in Untersuchungshaft kommen und eine Wohnung
+– Bei Heranwachsenden, die in Untersuchungshaft kommen und eine Wohnung
 
 haben, leistet die JGH Unterstützung zur Wohnraumsicherung nach den §§ 67 fortfolgende, § 4 DVO SGB XII i.V.m. § 35 SGB XII.
 
- Bei laufenden Jugendhilfemaßnahmen wird die Fortführung der Jugendhilfe für
+– Bei laufenden Jugendhilfemaßnahmen wird die Fortführung der Jugendhilfe für
 
 einen Übergangszeitraum angestrebt.
 
- Im Vorfeld der Haftentlassung erfolgen die Prüfung von Anspruchsberechtigungen
+– Im Vorfeld der Haftentlassung erfolgen die Prüfung von Anspruchsberechtigungen
 
 (Jugendhilfe, Hilfe für junge Volljährige, öffentliche Unterbringung junger Volljähriger) und die Initiierung der Hilfen.

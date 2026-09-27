@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59025"
@@ -41,7 +42,7 @@ Welche Maßnahmen der Busbeschleunigung wurden in den Monaten Januar – August 
 
 Welche Kosten haben diese Maßnahmen ausgelöst?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Busbeschleunigungsmaßnahmen in der Papenhuder Straße auf der Linie 6 sowie der Umbau der Haltestellen Friedensallee in der Bahrenfelder Straße auf der Linie 2 sind in dem genannten Zeitraum abgeschlossen worden. Die jeweiligen Baukosten betragen rund 1,4 Millionen Euro beziehungsweise rund 150.000 Euro.
 

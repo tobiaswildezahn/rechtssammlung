@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11112", "21/548", "21/947"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49644"
@@ -99,7 +100,7 @@ Werden aufgrund des zusätzlichen Behandlungsbedarfes im Rahmen des Budgets der 
 
 Wird die öffentliche Hand zusätzliche Mittel im Gesundheitsfonds bereitstellen, um die zusätzlichen Kosten aufzufangen? Wenn nein: Wird sich der Senat auf Bundesebene dafür einsetzen, dass dies geschieht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Entfällt. Im Übrigen siehe Antwort zu 1.
 
@@ -111,6 +112,6 @@ Entfällt. Im Übrigen siehe Antwort zu 1.
 
 Wenn weder zusätzliches Budget bereitgestellt wird noch die Mittel des Gesundheitsfonds aufgestockt werden noch die Freie und Hansestadt Hamburg Kosten übernimmt: Wie will der Senat die gesundheitliche Versorgung der Flüchtlinge sicherstellen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antwort zu 1.

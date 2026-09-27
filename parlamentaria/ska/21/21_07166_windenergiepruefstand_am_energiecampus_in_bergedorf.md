@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 19
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6449"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55775"
@@ -47,7 +48,7 @@ Wie sicher ist es, dass „ein noch größerer Verbund aus 500 Wissenschaftlerin
 
 Wann wird diese Größe erreicht werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Forschungsverbund Windenergie umfasst bereits heute mehr als 600 Wissenschaftlerinnen und Wissenschaftler.
 

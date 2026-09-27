@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49858"
@@ -47,7 +48,7 @@ Wann genau hat die HPA damit begonnen, Baggergut aus der Hamburger Stromelbe zu 
 
 Mit welchen Bagger-Schiffen werden die Baggerarbeiten jeweils vorgenommen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Seit dem 20. Juli 2015 werden mit der „Alexander von Humboldt“ und der „Francis Beaufort“ Sedimente aus der Delegationsstrecke (Norderelbe, Köhlbrand, Süderelbe) in die Nordsee verbracht.
 

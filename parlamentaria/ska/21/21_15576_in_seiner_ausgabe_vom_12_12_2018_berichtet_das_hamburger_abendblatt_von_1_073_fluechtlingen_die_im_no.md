@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6118", "21/11792"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65075"
@@ -66,7 +67,7 @@ Haben diese Antragsteller einen Schutzstatus?
 
 Wenn ja, welchen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Referenzpersonen, zu denen der Familiennachzug beantragt wird, sind gemäß § 36a AufenthG in Verbindung mit § 4 Asylgesetz subsidiär schutzberechtigt und verfügen über eine Aufenthaltserlaubnis gemäß § 25 Absatz 2 Satz 1 zweite Alternative. Die Antragsteller, die den Familiennachzug zu diesen Referenzpersonen beantragen, besitzen diesen Schutzstatus nicht.
 
@@ -78,6 +79,6 @@ Wo sollen diese nachgezogenen Personen untergebracht werden?
 
 Von was werden diese Personen leben?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Soweit diese Personen ihren Lebensunterhalt nicht aus eigenem Einkommen und Vermögen sichern können, steht ihnen abhängig von ihrem aufenthaltsrechtlichen Status der Zugang zu den Regelsystemen der Existenzsicherung offen. Im Übrigen siehe Drs. 21/6118 und Drs. 21/11792.

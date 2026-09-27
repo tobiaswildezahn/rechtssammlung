@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56292"
@@ -78,39 +79,39 @@ Wie viele Luftstationen gibt es aktuell in den anderen sechs Bezirken, wann wurd
 
 Im Bezirk Hamburg-Mitte wurden im Jahr 2014 an folgenden Standorten Luftstationen eingerichtet:
 
- Kaltehofe Hauptdeich
+– Kaltehofe Hauptdeich
 
- Mönckebergstraße/Bergstraße
+– Mönckebergstraße/Bergstraße
 
- Landungsbrücken/Hafentor
+– Landungsbrücken/Hafentor
 
- An der Alster/Gurlittinsel
+– An der Alster/Gurlittinsel
 
- U-Bahn Hammer Kirche/Ausgang Richtung Veloroute 8
+– U-Bahn Hammer Kirche/Ausgang Richtung Veloroute 8
 
- Loop Wilhelmsburg/zwischen Dratelnstraße und Am Inselpark
+– Loop Wilhelmsburg/zwischen Dratelnstraße und Am Inselpark
 
 Die Kosten beliefen sich auf 14.683,41 Euro brutto für die Pumpen sowie 4.022,88 Euro für Lieferung und Einbau aus investiven Mitteln zur Förderung des Radverkehrs. Ein politischer Gremienbeschluss war nicht erforderlich.
 
 Im Bezirk Eimsbüttel gibt es derzeit vier Luftstationen, die im Jahr 2016 aufgestellt wurden:
 
- Eidelstedter Platz
+– Eidelstedter Platz
 
- Harvestehuder Weg, Höhe Alte Rabenstraße
+– Harvestehuder Weg, Höhe Alte Rabenstraße
 
- Bezirksamt Eimsbüttel
+– Bezirksamt Eimsbüttel
 
- Tibarg
+– Tibarg
 
 Die Kosten beliefen sich auf 19.809,45 Euro und wurden über die Produktgruppe 21603 finanziert. Der Einrichtung lag ein Beschluss der Bezirksversammlung vom 25. September 2014 zugrunde. Das Vorhaben wurde zudem am 31. März 2016 von der Bezirksversammlung und am 25. April 2016 vom Regionalausschuss Stellingen zur Kenntnis genommen.
 
 Im Bezirk Harburg ist im Jahr 2016 eine Luftstation am Außenmühlendamm eingerichtet worden. Diese ist zusammen mit einer Sanitäranlage sowie einer Ladestation für elektrisch unterstützte Fahrräder Bestandteil eines dort aufgestellten Containers. Im ersten Halbjahr ist die Aufstellung von drei weiteren derartigen Containern geplant:
 
- Ernst-Bergeest-Weg
+– Ernst-Bergeest-Weg
 
- Harburger Rathausstraße
+– Harburger Rathausstraße
 
- Harburger Ring, Ecke Am Wall
+– Harburger Ring, Ecke Am Wall
 
 Betreiber der Container ist die Stadtreinigung Hamburg. Dem Bezirksamt Harburg sind dafür keine Kosten entstanden.
 

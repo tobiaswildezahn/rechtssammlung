@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 17
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5203", "21/5118", "21/5262"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53856"
@@ -43,15 +44,15 @@ Wie beabsichtigt der Senat derzeit die Projektmittel zu verwenden, die Hamburg a
 
 Gibt es Abweichungen von bisherigen Planungen? Wenn ja, welche und warum?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Mittel, die einer politischen Zweckbindung unterliegen (Breitbandausbau und Digitalisierungsprojekte), sollen nach aktuellem Stand in folgenden Bereichen eingesetzt werden:
 
- Förderung der Verbesserung der Versorgung bisher unzureichend versorgter
+– Förderung der Verbesserung der Versorgung bisher unzureichend versorgter
 
 Hamburger Haushalte. Hierfür wurde bereits lange vor dem Bekanntwerden von Beschwerden aus dem Hafen ein Verfahren eingeleitet (siehe Drs. 21/5203). Die Höhe der einzusetzenden Fördermittel wird erst nach Abschluss der in diesem Rahmen durchzuführenden Ausschreibungen feststehen.
 
- Projekte Digitale Stadt
+– Projekte Digitale Stadt
 
 Über den Einsatz möglicherweise verbleibender Mittel wird erst entschieden werden, wenn deren Höhe wenigstens annähernd feststeht.
 

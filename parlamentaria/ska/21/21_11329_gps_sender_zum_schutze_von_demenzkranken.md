@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60322"
@@ -67,7 +68,7 @@ Wie hat sich die Anzahl der Polizei-Einsätze zur Suche von Personen mit Demenz,
 
 Wo wohnten die vermisst gemeldeten Personen jeweils? In speziellen Einrichtungen für Demenzkranke, anderen Einrichtungen oder zuhause?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Polizei führt keine Statistik im Sinne der Fragestellung. Alle Polizeieinsätze, die über die zentrale Notrufnummer 110 oder über das örtlich zuständige Polizeikommissariat an die Polizeieinsatzzentrale (PEZ) gemeldet werden, sind im Hamburger Einsatzleitsystem (HELS) gespeichert. Recherchierbar ist die Einsatzanlassart „PVERM“, vermisste Person, nicht jedoch der Begriff „Demenz“. Unter der Anlassart „PVERM“ werden alle Einsätze im Zusammenhang mit vermissten Personen subsumiert, so zum Beispiel auch Einsätze, bei denen Kinder und suizidgefährdete Personen vermisst werden. Der Grund der Vermisstenmeldung wird nicht automatisiert erhoben. Für die Beantwortung dieser Frage wäre eine händische Auswertung von 19.746 in HELS gespeicherten Einsätze und Einsatzberichte erforderlich (Stand 10. Dezember 2017). Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

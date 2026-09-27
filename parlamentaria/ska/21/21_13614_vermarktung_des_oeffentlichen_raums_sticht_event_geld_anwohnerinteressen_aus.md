@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 18
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5233", "21/8777", "21/3756", "20/8584", "20/4030", "20/1891"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62981"
@@ -71,23 +72,23 @@ In St. Georg ist der Weihnachtsmarkt Winter-Pride genehmigt worden. Der Betreibe
 
 In der HafenCity sind seit dem Jahr 2011 folgende regelmäßige Veranstaltungen hinzugekommen:
 
- Elbphilharmonie Open-Air,
+– Elbphilharmonie Open-Air,
 
- Klimawoche,
+– Klimawoche,
 
- Extremwetterkongress,
+– Extremwetterkongress,
 
- Kleine Nachbarschaftsfeste Lohsepark,
+– Kleine Nachbarschaftsfeste Lohsepark,
 
- Hafengeburtstag (Wassersportprogramm),
+– Hafengeburtstag (Wassersportprogramm),
 
- Duckstein-Festival in der HafenCity,
+– Duckstein-Festival in der HafenCity,
 
- Extreme Sailing Series,
+– Extreme Sailing Series,
 
- Kleine Boule Turniere,
+– Kleine Boule Turniere,
 
- ELBFEST Hamburg.
+– ELBFEST Hamburg.
 
 ### Frage 3
 
@@ -97,7 +98,7 @@ Welche regelmäßig „bespielten“ Veranstaltungsorte befinden sich in direkte
 
 Welche Veranstaltungen fanden seit 2011 an den unter 3. aufgeführten Orten statt? Bitte nach Jahr und Ort aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlagen 1 und 2.
 
@@ -113,7 +114,7 @@ Bei welchen konkreten Veranstaltungen in Hamburg wurden, über die Nutzung von g
 
 Welche Einnahmen wurden durch die unter 5. aufgeführten „temporären Privatisierungen“ (zum Beispiel Genehmigungen von Sondernutzungsrechten) des öffentlichen Raums erzielt? Bitte chronologisch seit 2011 aufführen.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Bezirksämter erteilen die erforderlichen Genehmigungen für Veranstaltungen auf öffentlichen Flächen. Veranstaltungen in geschlossenen Räumen bedürfen hingegen in der Regel keiner Genehmigungen. Die Beantwortung der Fragen ist nicht möglich, da Angaben zu Veranstaltungen, die sowohl in geschlossenen Räumen als auch auf öffentlichen Flächen stattfinden, werden von den Bezirksämtern nicht einheitlich erfasst werden.
 
@@ -331,18 +332,18 @@ Bundes-Immissionsschutzgesetz
 BImSchG)  
 (https://www.gesetze-im-internet.de/bimschg/) in Verbindung mit:
 
-• der Sechsten allgemeinen Verwaltungsvorschrift zum BImSchG (TA Lärm) (http://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_26081998_ IG19980826.htm),
+– der Sechsten allgemeinen Verwaltungsvorschrift zum BImSchG (TA Lärm) (http://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_26081998_ IG19980826.htm),
 
-• der Sportanlagenlärmschutzverordnung (18. BImSchV) (https://www.gesetze-iminternet.de/bimschv_18/),
+– der Sportanlagenlärmschutzverordnung (18. BImSchV) (https://www.gesetze-iminternet.de/bimschv_18/),
 
-• der  
+– der  
 Geräteund  
 Maschinenlärmschutzverordnung  
 (32.  
 BImSchV)  
 (https://www.gesetze-im-internet.de/bimschv_32/),
 
-• der  
+– der  
 Allgemeinen  
 Verwaltungsvorschrift  
 zum  
@@ -352,7 +353,7 @@ Baulärm
 (http://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_19081970_  
 IGI7501331.htm),
 
-• dem  
+– dem  
 Hamburgischen  
 Lärmschutzgesetz  
 (http://www.landesrecht-hamburg.de/  

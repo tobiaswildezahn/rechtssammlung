@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7633", "21/7986"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57133"
@@ -86,7 +87,7 @@ Welche Taschenrechner-Modelle gibt es derzeit auf dem Markt, die grundsätzlich 
 
 Welche Voraussetzungen müssen Taschenrechner erfüllen, um bei zentralen Prüfungen (zum Beispiel MSA, Abitur) eingesetzt werden zu dürfen? Welche Modelle erfüllen diese Voraussetzungen? Wie viel kosten diese jeweils?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 In den weiterführenden Schulen wird mit wissenschaftlichen Taschenrechnern (WTR) gearbeitet. Ab der Jahrgangsstufe 10 sind auch Computeralgebrasysteme (CAS) im Einsatz. Grafikfähige Taschenrechner (GTR) werden an Hamburger Schulen nicht genutzt. CAS verfügen gegenüber GTR zusätzlich über zahlreiche weitere Funktionen, zum Beispiel auch für algebraische Umformungen, die Lösung von Gleichungen sowie die Berechnung von Ableitungen und Integralen. Diese Funktionalitäten stellen nicht nur spezielle CAS-Taschenrechner zur Verfügung, sondern auch Computerprogramme. Für Unterricht und Prüfung geeignete WTR gibt es eine große Vielzahl am Markt verfügbarer Modelle. Sie kosten circa zwischen 10 und 25 Euro, CAS- Taschenrechner circa zwischen 110 und 190 Euro. Diese Kosten müssen nicht von
 

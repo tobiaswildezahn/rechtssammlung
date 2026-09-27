@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 19
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16417"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66301"
@@ -112,7 +113,7 @@ e) Ates.H. Gibt es nach den Erkenntnissen des Landesamtes für Verfassungsschutz
 
 Welche Erkenntnisse liegen dem Landesamt für Verfassungsschutz hinsichtlich der Verwendung des Schriftzuges „Antifa Area“ durch nichtextremistische Antifa-Gruppierungen im Altonaer Raum vor, die sich eindeutig von der Gewaltorientierung und der verfassungsfeindlichen antikapitalistischen Ideologie des autonomen Antifaschismus distanzieren?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Gemäß des sich aus dem § 4 Hamburgischen Verfassungsschutzgesetz (HmbVerf- SchG) ergebenden Beobachtungsauftrags sammelt das Landesamt für Verfassungsschutz (LfV) Hamburg Informationen nur zu extremistischen Gruppierungen.
 
@@ -124,7 +125,7 @@ Welche Erkenntnisse liegen dem Landesamt für Verfassungsschutz zu Kontakt-/Anwe
 
 Welche Erkenntnisse liegen dem Landesamt für Verfassungsschutz über Handlungen und Strategien linksextremistischer Gruppierungen und Einzelpersonen vor, in Schulen gezielt Propagandamaterial zu platzieren oder auf das politische Schulklima Einfluss zu nehmen (Sticker, Aushänge, Demonstrationsaufrufe, Aktionsfotos, Tarnkampagnen)?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Das LfV Hamburg beobachtet keine Schulen, sondern Bestrebungen im Sinne des § 4 HmbVerfSchG. Dem LfV Hamburg liegen keine Informationen über gezielte Anwerbungsversuche vor. Im Übrigen siehe Drs. 21/16417.
 

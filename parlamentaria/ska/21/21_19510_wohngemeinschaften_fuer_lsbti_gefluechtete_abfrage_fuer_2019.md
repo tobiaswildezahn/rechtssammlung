@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10994", "21/3649", "21/4174", "21/4569", "21/5581", "21/6163", "21/6891", "21/7485", "21/10281", "21/10457", "21/16278", "21/17303", "21/15678"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69243"
@@ -49,7 +50,7 @@ Hat der Senat mittlerweile Kenntnis davon, wie groß der Anteil von LSBTI* an de
 
 Wie viele Wohnprojekte für LSBTI*-Migranten sind gegenwärtig in Hamburg vorhanden? Bitte jeweils Adresse, Typ der Immobilie (Häuser oder Wohnungen), Aufnahmekapazität sowie Belegung nennen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Platzkapazität und aktuelle Belegung (Stand 03.01.2020) stellt sich wie folgt dar:
 
@@ -125,6 +126,6 @@ Was ist bis heute aus den angemieteten Appartements für LSBTI*- Migranten gewor
 
 Ist gegenwärtig geplant, in Zukunft Wohnprojekte für LSBTI*-Migranten zu schaffen? Falls ja, welche und wie hoch belaufen sich die dafür anfallenden Kosten? Falls nein, warum nicht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Antworten zu 1. bis 3. Im Übrigen siehe Drs. 21/16278.

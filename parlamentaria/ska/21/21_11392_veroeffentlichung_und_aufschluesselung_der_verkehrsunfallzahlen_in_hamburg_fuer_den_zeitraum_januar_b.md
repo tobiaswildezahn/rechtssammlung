@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11215", "21/10150", "21/10270", "21/10292", "21/10296", "21/10297", "21/10308", "21/10309", "21/10316", "21/10317", "21/9380", "21/8126", "21/11171", "21/11172", "21/11185", "21/11195", "21/11234", "21/11182"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60453"
@@ -61,7 +62,7 @@ Warum konnte der Senat beziehungsweise die zuständige Behörde die Fragen aus D
 
 Welche besondere Bewandtnis hat es, dass der Senat, wie oben markiert, in seiner Antwortverweigerungsbegründung aus Drs. 21/11215 anführt, dass die Beantwortung in „der für die Beantwortung dieser Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht möglich“ gewesen sei? Was unterscheidet spezielle diese SKA, hier Drs. 21/11215, von anderen SKA?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zum Zeitpunkt der Beantwortung der Anfrage Veröffentlichung und Aufschlüsselung der Verkehrsunfallzahlen in Hamburg für den Zeitraum Januar bis September 2017 (V) der Drs. 21/11215 mussten von den für Verkehrsunfallzahlen zuständigen Stellen gleichzeitig die Teile I bis IV und VI der Anfrage, Drs. 21/11171, 21/11172, 21/11185, 21/11195 und 21/11234 sowie eine Anfrage zu den Verkehrsunfallzahlen in Bezug auf Wildunfälle (Drs. 21/11182) beantwortet werden. Insgesamt waren somit inklusive Unterfragen 91 Fragen zu beantworten. Die Antworten waren größtenteils durch eine Datenauswertung zu erstellen. Die zur Datenabfrage geschulten und im Dienst befindlichen Mitarbeiter haben auf 51 Seiten insgesamt 57 der Fragen in der zur Verfügung stehenden Zeit beantworten können. 34 Fragen konnten nicht beantwortet werden. Diese entfielen auf die Drs. 21/11215, 21/11234 sowie teilweise auf Drs. 21/11185. Diese Voraussetzungen bestanden bei der Drs. 21/10296 nicht.
 
@@ -83,7 +84,7 @@ In Drs. 21/10270 hatte der Senat die Entwicklungen der Stellen und der Anzahl de
 
 Wenn DPV 022 (Drs. 21/10270) und DPV 022.02 (Drs. 21/11215) nicht identisch sein sollten: Wie hat sich die Zahl der Stellen, Beschäftigten, Vollzeitäquivalente und Vakanzen von DPV 022.02 seit 2011 entwickelt? Bitte jahresweise aufschlüsseln und jeweils zu den Stichtagen 1. Januar und 1. Juli jeden Jahres sowie aktuell angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die in der nachfolgenden Tabelle genannten Daten beziehen sich wie auch die in der Antwort zu 2. der Drs. 21/10270 auf die Aufgabe Unfallanalyse und -auswertung (DPV 022.2) innerhalb des Sachgebiets DPV 022. Im Übrigen siehe Antwort zu Frage 3. und Drs. 21/10270.
 

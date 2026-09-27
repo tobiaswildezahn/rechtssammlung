@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 28
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54558"
@@ -87,7 +88,7 @@ Wie hoch sind die PCB-Grenzwerte für die Verbringung von Schlick in der Elbe vo
 
 Rechnet der Senat mit einer Überschreitung der vorgenannten Grenzwerte? a. Wenn ja, wann und wie lange? b. Wie viele Sedimente sind davon schätzungsweise betroffen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 
@@ -182,6 +183,6 @@ Wie hoch werden die Kosten sein beziehungsweise mit welchen Mehrkosten rechnen d
 
 Hat die HPA für die zu erwartenden höheren Entsorgungskosten der belasteten Sedimente Rückstellungen gebildet beziehungsweise andere finanzielle Vorsorgemaßnahmen durchgeführt? Wenn ja, welche? Wenn nein, plant die HPA entsprechende Vorsorgemaßnahmen? Sofern sie keine Vorsorgemaßnahmen plant: warum nicht?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Da sich die Mengen nicht vorhersagen lassen können, lassen sich auch gegebenenfalls anfallende Kosten beziehungsweise Mehrkosten derzeit nicht beziffern. Im Übrigen setzt die HPA als Vorsorgemaßnahme darauf, dass durch Sanierungsmaßnahmen vor Ort in Tschechien und im Elbeverlauf das Risiko einer erhöhten PCB- Belastung im Hamburger Baggergut soweit wie möglich reduziert wird. Im Übrigen siehe Vorbemerkung.

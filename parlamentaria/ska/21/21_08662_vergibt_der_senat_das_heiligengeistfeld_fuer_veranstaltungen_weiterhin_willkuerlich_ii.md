@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5661"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57384"
@@ -55,7 +56,7 @@ Welche Veranstaltungen fanden beziehungsweise finden noch im Jahr 2017 auf dem H
 
 Welche Veranstalter stehen jeweils hinter den Veranstaltungen auf dem Heiligengeistfeld im Jahr 2017?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung und Drs. 21/5661.
 
@@ -108,7 +109,7 @@ Welche Veranstaltungen finden im Jahr 2018 auf dem Heiligengeistfeld statt und i
 
 Welche Veranstalter stehen jeweils hinter den Veranstaltungen auf dem Heiligengeistfeld im Jahr 2018?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Veranstaltung  
 Zeitraum  
@@ -143,7 +144,7 @@ Welche Veranstalter und welche Veranstaltungen wurden für das Jahr 2018 auf dem
 
 Welche Veranstaltungen sind für das Jahr 2018 auf dem Heiligengeistfeld in welchem Zeitraum beantragt und wurden noch nicht abschließend beschieden? Wann wird final über diese beschieden und warum ist dies bisher nicht geschehen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Firma Messen & Ausstellungen Helmuth Thieß UG hat eine Fläche des Heiligengeistfeldes für die Ausrichtung eines FanFestes zur Fußball-Weltmeisterschaft beantragt. Der Antrag wurde noch nicht beschieden, da das entsprechende Vergabeverfahren voraussichtlich erst im Herbst des Jahres 2017 abgeschlossen sein wird.
 

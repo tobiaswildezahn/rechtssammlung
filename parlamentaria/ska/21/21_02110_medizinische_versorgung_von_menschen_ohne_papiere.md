@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1699", "21/1813"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50366"
@@ -45,13 +46,13 @@ Wie waren am 7.9.2015 und am 8.9.2015 die Belegungssituationen in den herzchirur
 
 Über herzchirurgische Versorgungsangebote verfügen in Hamburg folgende Krankenhäuser:
 
-• Albertinen-Krankenhaus
+– Albertinen-Krankenhaus
 
-• Asklepios Klinik Harburg – Cardio CliniC
+– Asklepios Klinik Harburg – Cardio CliniC
 
-• Asklepios Klinik St. Georg
+– Asklepios Klinik St. Georg
 
-• Universitäres Herzzentrum am Universitätsklinikum Hamburg-Eppendorf (UKE)
+– Universitäres Herzzentrum am Universitätsklinikum Hamburg-Eppendorf (UKE)
 
 Die Albertinen-Krankenhäuser und das Universitäre Herzzentrum Hamburg GmbH (UHZ) am UKE mit Herzchirurgischen Abteilungen haben wie folgt Stellung genommen:
 
@@ -80,15 +81,15 @@ Welche Möglichkeiten gibt es in Hamburg für Menschen ohne Aufenthaltspapiere u
 
 Neben der „Clearingstelle Gesundheitsversorgung Ausländer“ (Clearingstelle) beim Flüchtlingszentrum Hamburg, die in erster Linie eine Beratung hinsichtlich einer Absicherung im Krankheitsfall anbietet, gibt es diverse medizinische Anlaufstellen in Hamburg, an die sich Menschen ohne gültigen Aufenthaltsstatus wenden können:
 
- „anDOCken“ beim Diakonischen Werk,
+– „anDOCken“ beim Diakonischen Werk,
 
- Malteser Migranten Medizin (MMM),
+– Malteser Migranten Medizin (MMM),
 
- Praxis ohne Grenzen,
+– Praxis ohne Grenzen,
 
- Medibüro,
+– Medibüro,
 
- Migrantenmedizin westend.
+– Migrantenmedizin westend.
 
 b. Welche Möglichkeiten haben EU-Bürger/-innen seit Anfang 2015, sich ohne Preisgabe von persönlichen Daten in medizinische, zahnmedizinische oder sonstige gesundheitliche Behandlung zu begeben, die über eine Notfallversorgung hinaus geht?
 

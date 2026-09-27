@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7258", "20/12882", "21/1599", "21/5677", "18/7296", "19/8174", "20/5972", "21/1917", "21/2109"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57125"
@@ -64,7 +65,7 @@ Vor dem Hintergrund der Vielzahl von Meldungen, die von der Polizei überprüft 
 
 Wird die Polizei bei der Bearbeitung von Gewaltmeldungen nicht in vielen Fällen als „Buhmann“ missbraucht? Bitte um eine Stellungnahme mit Begründung.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Reduzierung von Gewalt ist eine gesamtgesellschaftliche Aufgabe, an der sich alle Behörden und Institutionen beteiligen müssen. Vor diesem Hintergrund kann die Polizei in diesem Kontext mit normverdeutlichenden Aktivitäten einen Beitrag leisten.
 
@@ -78,7 +79,7 @@ Wie viele Kinder und Jugendliche, die als „Täter/-innen“ in den Dateien gef
 
 Wie geht die Behörde fachlich mit der Tatsache um, dass bei den Gewaltmeldungen die genannten Täter/-innen in Teilen auch Opfer sind? Gibt es dazu Leitlinien für die Schulen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Eine Auswertung der erfassten Gewaltmeldungen für das Schuljahr 2015/2016 ergibt, dass ein Kind und ein Erwachsener jeweils einmal als Tatverdächtiger und einmal als Geschädigter erfasst wurden. Bei allen vier Gewaltmeldungen handelt es sich um den Verdacht auf gefährliche Körperverletzung.
 

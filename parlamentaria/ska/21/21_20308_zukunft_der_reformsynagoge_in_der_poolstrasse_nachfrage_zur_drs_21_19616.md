@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 18
 antwortbloecke: 0
 beantwortet: false
+status: "unbeantwortet"
 zitierte_drucksachen: ["21/19616", "21/19233"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70100"
@@ -27,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Norbert Hackbusch (DIE LINKE) vom 11.03.20 und Antwort des Senats · Drucksache vom 11.03.2020  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/70100) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/70100/21_20308_zukunft_der_reformsynagoge_in_der_poolstrasse_nachfrage_zur_drs_21_19616)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

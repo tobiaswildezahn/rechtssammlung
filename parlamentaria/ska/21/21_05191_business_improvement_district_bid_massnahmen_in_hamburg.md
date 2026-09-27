@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53668"
@@ -44,7 +45,7 @@ Sollten mehr als 1.000 Menschen in dem vorgesehenen BID-Gebiet leben, hat der po
 Das zuständige Bezirksamt legt die vollständigen Antragsunterlagen für die Dauer eines Monats öffentlich aus. Während der Auslegung können neben den Eigentümerinnen und Eigentümern auch Anwohnerinnen und Anwohner sich zu dem Antrag äußern. Vor diesem Hintergrund fragen wir den Senat:
 1. Welche Innovationsbereiche wurden wann von wem initiiert, wer ist jeweils Aufgabenträger/-in und wer ist die jeweilige umsetzende Generalbaufirma der aus den Innovationsbereichen erwachsenen Bauvorhaben?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 BID  
 Initiiert durch/im Jahr  
@@ -466,157 +467,157 @@ Bezirksamt Hamburg-Mitte:
 
 BID Neuer Wall: Um- und Neugestaltung Neuer Wall
 
- Mitteilung über den Senatsdrucksachenentwurf für den Ausschuss für Haushalt
+– Mitteilung über den Senatsdrucksachenentwurf für den Ausschuss für Haushalt
 
 und regionale Wirtschaftsentwicklung am 12. September 2005.
 
 BID Hohe Bleichen: Um- und Neugestaltung Hohe Bleichen
 
- Vortrag Ausschuss für Verkehr und Umwelt am 17. September 2008.
+– Vortrag Ausschuss für Verkehr und Umwelt am 17. September 2008.
 
- Bezirksversammlung am 9. Februar 2009.
+– Bezirksversammlung am 9. Februar 2009.
 
- Beschluss der Bezirksversammlung zur Mittelbewilligung für eine Teilstraßenbau-
+– Beschluss der Bezirksversammlung zur Mittelbewilligung für eine Teilstraßenbau-
 
 maßnahme (Deckensanierung) in Höhe von 50.000 Euro am 19. Februar 2009.
 
 BID Passagenviertel: Um- und Neugestaltung Passagenviertel
 
- Freiraumplanerisches Ideenfindungsverfahren mit Vertreterinnen und Vertretern
+– Freiraumplanerisches Ideenfindungsverfahren mit Vertreterinnen und Vertretern
 
 der Bezirksversammlung im Beurteilungsgremium am 26. Oktober 2009.
 
- Ausschuss für Verkehr und Umwelt am 15. September 2010.
+– Ausschuss für Verkehr und Umwelt am 15. September 2010.
 
- Vorstellung der BID-Initiative im Ausschuss für Verkehr und Umwelt am 20. Okto-
+– Vorstellung der BID-Initiative im Ausschuss für Verkehr und Umwelt am 20. Okto-
 
 ber 2010.
 
- City-Ausschuss am 25. Mai 2011.
+– City-Ausschuss am 25. Mai 2011.
 
 BID Opernboulevard: Um- und Neugestaltung Dammstorstraße
 
- Vorstellung der BID-Initiative im Ausschuss für Verkehr und Umwelt am 15. Sep-
+– Vorstellung der BID-Initiative im Ausschuss für Verkehr und Umwelt am 15. Sep-
 
 tember 2010.
 
- Mehrere Sitzungen des City-Ausschusses und der Bezirksversammlung zur
+– Mehrere Sitzungen des City-Ausschusses und der Bezirksversammlung zur
 
 damals diskutierten Umbenennung der Dammtorstraße.
 
 BID Quartier Gänsemarkt: Um- und Neugestaltung Quartier Gänsemarkt
 
- Die Verschickung „BID Gänsemarkt, Straßenbau und Freiflächengestaltung; hier:
+– Die Verschickung „BID Gänsemarkt, Straßenbau und Freiflächengestaltung; hier:
 
 Umgestaltung der Straßen Gänsemarkt, ABC-Straße, Poststraße und Gerhofstraße“ wurde am 20. Oktober 2014 an die Fachsprecherinnen und -sprecher des Ausschusses für Verkehr und Umwelt per E-Mail gesandt. Die Beteiligung des gesamten Ausschusses erfolgte am 27. Januar 2015, dort wurde von der Planung Kenntnis genommen.
 
- Verschickung im Ausschuss für Verkehr und Umwelt am 16. Oktober 2014.
+– Verschickung im Ausschuss für Verkehr und Umwelt am 16. Oktober 2014.
 
- Zusätzlich wurde der Cityausschuss mehrfach über den Sachstand informiert.
+– Zusätzlich wurde der Cityausschuss mehrfach über den Sachstand informiert.
 
 Unter anderem hat an der Jurysitzung zum BID am 27. Februar 2014 ein Mitglied des Cityausschusses teilgenommen.
 
- Schlussverschickung am 9. März 2016 an die Fraktionsbüros.
+– Schlussverschickung am 9. März 2016 an die Fraktionsbüros.
 
- Schlussverschickung im Ausschuss für Verkehr und Umwelt am 4. März 2016.
+– Schlussverschickung im Ausschuss für Verkehr und Umwelt am 4. März 2016.
 
- Schlussverschickung im Ausschuss für Verkehr und Umwelt am 30. März 2016.
+– Schlussverschickung im Ausschuss für Verkehr und Umwelt am 30. März 2016.
 
 BID Nikolai-Quartier: Um- und Neugestaltung Nikolai-Quartier
 
- Vortrag im Ausschuss für Verkehr und Umwelt am 17. Februar 2010.
+– Vortrag im Ausschuss für Verkehr und Umwelt am 17. Februar 2010.
 
- Schlussverschickung am 9. Oktober 2014.
+– Schlussverschickung am 9. Oktober 2014.
 
- Beschluss Großer Burstah (B-Planverfahren, Zustimmung zur Durchführung einer
+– Beschluss Großer Burstah (B-Planverfahren, Zustimmung zur Durchführung einer
 
 öffentlichen Plandiskussion) im Stadtplanungsausschuss am 23. März 2016.
 
 Bezirksamt Altona, BID Waitzstraße/Beselerplatz: Um- und Neugestaltung Waitzstraße/Beselerplatz
 
- Gemeinsame Sitzung mit den Sprecherinnen und Sprechern der Fraktionen des
+– Gemeinsame Sitzung mit den Sprecherinnen und Sprechern der Fraktionen des
 
 Ausschusses für Wirtschaft, Tourismus und Sicherheit, des Verkehrsausschusses sowie des Ausschusses für Grün, Naturschutz und Sport der Bezirksversammlung Altona am 31. Mai 2012.
 
- Vorstellung der gesamten BID-Maßnahmen im Ausschuss für Wirtschaft, Touris-
+– Vorstellung der gesamten BID-Maßnahmen im Ausschuss für Wirtschaft, Touris-
 
 mus und Sicherheit am 9. Oktober und 13. November 2013.
 
- Vorstellung der BID-Maßnahmen und der Leistungen und Arbeiten des Bezirks zur
+– Vorstellung der BID-Maßnahmen und der Leistungen und Arbeiten des Bezirks zur
 
 Herstellung der Verkehrssicherheit der Waitzstraße/Beselerplatz (Neugestaltung zentraler Platz, Parkplatzflächen und angrenzende Fußwege der Waitzstraße und des Beselerplatzes herrichten, Umbau Kreuzung Waitzstraße/Dürerstraße) im Verkehrsausschuss am 17. November 2014 und 21. März 2016.
 
 Bezirksamt Eimsbüttel, BID Tibarg: Kleinere Baumaßnahmen auf dem Tibarg
 
- Vorstellung des Innovationsbereichs und des Maßnahmen- und Finanzierungskon-
+– Vorstellung des Innovationsbereichs und des Maßnahmen- und Finanzierungskon-
 
 zepts im Ausschuss für Wirtschaft, Gewerbe und Verbraucherschutz am 22. September 2009.
 
- Vorstellung des Innovationsbereichs und des Maßnahmen- und Finanzierungskon-
+– Vorstellung des Innovationsbereichs und des Maßnahmen- und Finanzierungskon-
 
 zepts im Ortsausschuss Lokstedt am 8. Februar 2010.
 
- Bericht zum aktuellen Stand im Ausschuss für Wirtschaft, Gewerbe und Verbrau-
+– Bericht zum aktuellen Stand im Ausschuss für Wirtschaft, Gewerbe und Verbrau-
 
 cherschutz am 28. Juni 2010.
 
- Bericht zum aktuellen Stand im Ausschuss für Wirtschaft, Gewerbe und Verbrau-
+– Bericht zum aktuellen Stand im Ausschuss für Wirtschaft, Gewerbe und Verbrau-
 
 cherschutz am 27. September 2010.
 
- Bericht zum aktuellen Stand im Ortsausschuss Lokstedt am 4. Juni 2012.
+– Bericht zum aktuellen Stand im Ortsausschuss Lokstedt am 4. Juni 2012.
 
 Bezirksamt Wandsbek, BID Wandsbek Markt: Um- und Neugestaltung Wandsbeker Marktstraße/Schloßstraße
 
- Debatte einer Großen Anfrage in der Bezirksversammlung am 31. Mai 2007.
+– Debatte einer Großen Anfrage in der Bezirksversammlung am 31. Mai 2007.
 
- Große Anfrage im Regionalausschuss Wandsbek Kerngebiet am 25. September
+– Große Anfrage im Regionalausschuss Wandsbek Kerngebiet am 25. September
 
 2007.
 
- Kleine Anfrage am 7. November 2007.
+– Kleine Anfrage am 7. November 2007.
 
- Mitteilung im Hauptausschuss am 21. April 2008.
+– Mitteilung im Hauptausschuss am 21. April 2008.
 
- Vorstellung im Ausschuss für Wirtschaft, Verkehr und Tourismus am 17. Juli 2008.
+– Vorstellung im Ausschuss für Wirtschaft, Verkehr und Tourismus am 17. Juli 2008.
 
- Beschluss Bezirksversammlung am 4. September 2008.
+– Beschluss Bezirksversammlung am 4. September 2008.
 
- Beschluss Ausschuss für Finanzen und Kultur am 9. September 2008.
+– Beschluss Ausschuss für Finanzen und Kultur am 9. September 2008.
 
- Beschluss Regionalausschuss Wandsbek Kerngebiet am 11. November 2009.
+– Beschluss Regionalausschuss Wandsbek Kerngebiet am 11. November 2009.
 
- Antrag im Regionalausschuss Wandsbek Kerngebiet am 2. Juni 2010.
+– Antrag im Regionalausschuss Wandsbek Kerngebiet am 2. Juni 2010.
 
- Beschluss Bezirksversammlung am 10. Juni 2010.
+– Beschluss Bezirksversammlung am 10. Juni 2010.
 
- Beschluss Ausschuss für Finanzen und Kultur 24. August 2010.
+– Beschluss Ausschuss für Finanzen und Kultur 24. August 2010.
 
- Beschluss Bezirksversammlung am 2. September 2010.
+– Beschluss Bezirksversammlung am 2. September 2010.
 
- Mitteilung im Regionalausschuss Wandsbek Kerngebiet am 27. Oktober 2010.
+– Mitteilung im Regionalausschuss Wandsbek Kerngebiet am 27. Oktober 2010.
 
- Mitteilung im Ausschuss für Wirtschaft, Verkehr und Tourismus am 11. November
+– Mitteilung im Ausschuss für Wirtschaft, Verkehr und Tourismus am 11. November
 
 2010.
 
- Mitteilung im Hauptausschuss am 17. Februar 2011.
+– Mitteilung im Hauptausschuss am 17. Februar 2011.
 
- Mitteilung im Ausschuss für Finanzen und Kultur am 7. Juni 2011.
+– Mitteilung im Ausschuss für Finanzen und Kultur am 7. Juni 2011.
 
- Beschluss Ausschuss für Finanzen und Kultur am 6. Dezember 2011.
+– Beschluss Ausschuss für Finanzen und Kultur am 6. Dezember 2011.
 
- Beschluss Bezirksversammlung am 8. Dezember 2011.
+– Beschluss Bezirksversammlung am 8. Dezember 2011.
 
- Beschluss Ausschuss für Finanzen und Kultur am 22. Mai 2012.
+– Beschluss Ausschuss für Finanzen und Kultur am 22. Mai 2012.
 
- Beschluss Bezirksversammlung am 31. Mai 2012.
+– Beschluss Bezirksversammlung am 31. Mai 2012.
 
- Mitteilung im Regionalausschuss Kerngebiet am 7. Mai 2014.
+– Mitteilung im Regionalausschuss Kerngebiet am 7. Mai 2014.
 
 Bezirksamt Harburg, BID Lüneburger Straße: Um- und Neugestaltung Lüneburger Tor
 
- Für die Umgestaltung des Platzes Lüneburger Tor im Rahmen des BID Lüneburger
+– Für die Umgestaltung des Platzes Lüneburger Tor im Rahmen des BID Lüneburger
 
 Straße II wurde der Hauptausschuss am 21. Dezember 2010 beteiligt.
 
@@ -640,9 +641,11 @@ menhang mit BIDs von der Freien und Hansestadt Hamburg durchgeführt wur-
 
 den Hohe Bleichen / Heuberg
 
-./. 2009:  Teilstraßenbaumaßnahme (Deckensanie-
+./. 2009:
+– Teilstraßenbaumaßnahme (Deckensanie-
 
-rung): 50.000 Euro 2011:  Grundinstandsetzung der Leuchten:
+rung): 50.000 Euro 2011:
+– Grundinstandsetzung der Leuchten:
 
 5.308,85 Euro (Die Erneuerung war aufgrund des Alters erforderlich und wäre auch ohne das BID durchgeführt worden.)
 
@@ -658,24 +661,29 @@ menhang mit BIDs von der Freien und Hansestadt Hamburg durchgeführt wur-
 
 den Lüneburger Straße
 
-435,13 Euro 2010:  Baumfällungen (11) und Neuanpflanzun-
+435,13 Euro 2010:
+– Baumfällungen (11) und Neuanpflanzun-
 
 gen (4), Rückbau von 6 Baumscheiben:
-49.955,56 Euro  Rückschnitt einzelner Bäume: 1.552,54
+49.955,56 Euro
+– Rückschnitt einzelner Bäume: 1.552,54
 
 Euro  
 2011:  
- Baumfällung (1): 279,65 Euro  
- Neuanpflanzung: 3.988,93 Euro  
- Rückschnitt einzelner Bäume: 470,05
+– Baumfällung (1): 279,65 Euro  
+– Neuanpflanzung: 3.988,93 Euro  
+– Rückschnitt einzelner Bäume: 470,05
 
-Euro  Koordination Taubenabwehrspikes: 600
+Euro
+– Koordination Taubenabwehrspikes: 600
 
-Euro  Koordination der einmaligen Reinigung
+Euro
+– Koordination der einmaligen Reinigung
 
 der Laternenmasten, Papierkörbe, Denkmäler: 4.000 Euro Lüneburger Straße II
 
-Rd. 500 Euro 2013 / 2014  Mitfinanzierung der Umgestaltung des
+Rd. 500 Euro 2013 / 2014
+– Mitfinanzierung der Umgestaltung des
 
 Platzes Lüneburger Tor durch das Bezirksamt mit 30.000 Euro  
 Neuer Wall I  
@@ -686,7 +694,7 @@ Euro
 Nikolai-Quartier  
 ./.  
 2015 – 2016:  
- Straßenumbau im Bereich Großer
+– Straßenumbau im Bereich Großer
 
 Burstah/Große Johannisstraße:  
 2.898.000 Euro (Die Maßnahmen sind  
@@ -696,9 +704,10 @@ Ausführungsunterlage Bau angegeben.)
 Opernboulevard  
 6.400 Euro  
 2011 – 2012:  
- Straßenumbau im Bereich der Fahrbahn
+– Straßenumbau im Bereich der Fahrbahn
 
-der Dammtorstraße sowie Unterbau der Nebenflächen: 2.480.000 Euro  Grundinstandsetzung und Umbau der
+der Dammtorstraße sowie Unterbau der Nebenflächen: 2.480.000 Euro
+– Grundinstandsetzung und Umbau der
 
 öffentlichen Beleuchtung: 60.000 Euro  
 Opernboulevard II  
@@ -726,7 +735,7 @@ Sachsentor – vom Mohnhof bis zum Serrahn II
 Tibarg  
 ./.  
 2012:  
- Grundinstandsetzung der öffentlichen
+– Grundinstandsetzung der öffentlichen
 
 Beleuchtung: 262.133,12 Euro (Die Erneuerung war aufgrund des Alters erforderlich und wäre auch ohne das BID durchgeführt worden.)
 
@@ -742,20 +751,24 @@ menhang mit BIDs von der Freien und Hansestadt Hamburg durchgeführt wur-
 
 den Waitzstraße / Beselerplatz
 
-./. 2014:  15.000 Euro für Untersuchungen, Ent-
+./. 2014:
+– 15.000 Euro für Untersuchungen, Ent-
 
 wurfsplanungen und Preisgelder für das  
 BID und die Verkehrssicherheit  
 Wandsbek Markt  
 ./.  
 2008 – 2012:  
- Beschaffung von Wegebaumaterialien:
+– Beschaffung von Wegebaumaterialien:
 
-750.000 Euro  Verbreiterung eines Radwegs: 70.000
+750.000 Euro
+– Verbreiterung eines Radwegs: 70.000
 
-Euro  Verkehrstechnische Steuerung einer
+Euro
+– Verkehrstechnische Steuerung einer
 
-Lichtsignalanlage: rd. 50.000 Euro (Die Optimierung war für das BID nicht erforderlich, sie dient der Verflüssigung des Verkehrs.)  Beteiligung des Bezirksamts als Mieter an
+Lichtsignalanlage: rd. 50.000 Euro (Die Optimierung war für das BID nicht erforderlich, sie dient der Verflüssigung des Verkehrs.)
+– Beteiligung des Bezirksamts als Mieter an
 
 der Abgabe: 185.350 Euro
 

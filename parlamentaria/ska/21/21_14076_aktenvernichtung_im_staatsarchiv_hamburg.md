@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63472"
@@ -73,7 +74,7 @@ Inwiefern und unter welchen Voraussetzungen werden Vernichtungen von Akten im St
 
 Wie wird über die Vernichtung von Akten im Staatsarchiv entschieden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die archivische Bewertung der von den öffentlichen Stellen der Stadt Hamburg dem Staatsarchiv anzubietenden Aufzeichnungen erfolgt in der Regel in den Registraturen. Als Archivgut werden die Aufzeichnungen übernommen, denen bleibender Wert für Gesetzgebung, Rechtsprechung, Verwaltung, Wissenschaft oder Forschung oder für die Sicherung berechtigter Belange von Einzelpersonen zukommt. Die Bewertung durch das Staatsarchiv erfolgt unter Anwendung archivwissenschaftlicher Methoden. Aufzeichnungen, die das Handeln von NS-Organen abbilden, kommt aufgrund der Überlieferungslücken regelmäßig bleibender Wert zu. Das Archivgut wird auf Dauer erhalten und zugänglich gemacht. Nur in Ausnahmefällen werden Aufzeichnungen ohne vorherige Bewertung übernommen. Deren Bewertung ist später im Staatsarchiv nachzuholen. Erst nach einer positiven Bewertungsentscheidung werden die Aufzeichnungen zu Archivgut umgewidmet.
 

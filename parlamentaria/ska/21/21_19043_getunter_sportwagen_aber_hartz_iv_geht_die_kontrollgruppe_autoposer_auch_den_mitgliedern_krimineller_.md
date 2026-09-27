@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13212", "21/17817"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68739"
@@ -55,17 +56,17 @@ Wie hat sich die Anzahl der erfassten Fälle wegen Sozialleistungsmissbrauchs in
 
 Inwiefern sind die Jobcenter in Hamburg in der Lage, Sozialleistungsmissbrauch systematisch zu erkennen und zu melden? a. Welche Verfahren nutzen sie dafür? b. Inwiefern werden Abfragen bei der Kraftverkehrszulassungsstelle vorgenommen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Polizei erfasst Straftaten gemäß dem Straftatenkatalog der Richtlinien für die Erfassung und Verarbeitung der Daten in der Polizeilichen Kriminalstatistik (PKS). Straftaten im Sinne der Fragestellung werden in der PKS als Sozialleistungsbetrug erfasst.
 
 Bis zum Jahr 2015 erfolgte bei der PKS-Erfassung eine Differenzierung in
 
- Betrug zum Nachteil von Sozialversicherungen und Sozialversicherungsträgern
+– Betrug zum Nachteil von Sozialversicherungen und Sozialversicherungsträgern
 
 (PKS-Schlüssel 517700) und
 
- (sonstiger) Sozialleistungsbetrug (sofern nicht unter PKS-Schlüssel 517700 zu
+– (sonstiger) Sozialleistungsbetrug (sofern nicht unter PKS-Schlüssel 517700 zu
 
 erfassen) (PKS-Schlüssel 517800).
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 22
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/53", "20/7049", "20/12555", "21/5081"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57182"
@@ -54,9 +55,12 @@ Dies vorausgeschickt, beantwortet der Senat die Fragen – teilweise aufgrund vo
 ### Frage 1
 
 Gelten immer noch die „Leitlinien für die hamburgische Ausländerpolitik“ von 1976? Wenn ja, in welcher Form finden sie noch wo Anwendung? Wenn nein, wann sind sie außer Kraft gesetzt oder erneuert worden?
-1.1. Inwiefern gilt das insbesondere für die Inhalte und Orientierungen im oben angegebenen Kapitel 2.5.3 c) auf Seite 28?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Inwiefern gilt das insbesondere für die Inhalte und Orientierungen im oben angegebenen Kapitel 2.5.3 c) auf Seite 28?
+
+#### Antwort zu Fragen 1 und 1.1
 
 Nein. Die über 40 Jahre alten Leitlinien sind inhaltlich überholt. Aktuell maßgeblich ist das am 26. Februar 2013 vom Senat beschlossene Integrationskonzept.
 
@@ -96,7 +100,7 @@ Wie interpretiert der Senat Artikel 19 Absatz 3 AGG, der diesen Wortlaut hat: �
 5.1 Teilt der Senat die Interpretation der SAGA, dass unter Verweis auf diesen Artikel Wohnungsinteressenten/-innen mit einem türkisch klingenden Namen unter Umständen von der Besichtigung, mithin der Anmietung einer SAGA-Wohnung ausgeschlossen werden können? Wenn ja, wie vereinbart das der Senat mit den europäischen Antidiskriminierungsrichtlinien? Wenn nein, was unternimmt der Senat, um der SAGA ein entsprechendes Vorgehen zukünftig zu untersagen?
 5.2 Teilt der Senat die Interpretation, dass Ungleichbehandlungen nur als „positive Maßnahmen“ im Interesse benachteiligter Gruppen akzeptabel sind?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Es gibt keine Vorgaben darüber, dass nur bestimmte Personengruppen zu einer Wohnungsbesichtigung eingeladen werden beziehungsweise einen Mietvertrag erhalten. Dies gilt auch für Wilhelmsburg und die Elbinsel.
 

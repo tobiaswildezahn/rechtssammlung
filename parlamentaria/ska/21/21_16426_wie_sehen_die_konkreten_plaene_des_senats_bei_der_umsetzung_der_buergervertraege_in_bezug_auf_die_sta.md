@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 23
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15653", "21/5733", "21/15179", "21/16100"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65942"
@@ -56,19 +57,19 @@ Die Verfahrens- und Zeitpläne konkretisieren sich sukzessive durch Eckpunktever
 
 Die Anzahl von 924 Plätzen ergibt sich aus den Vorgaben der Bürgerverträge. An vier Standorten mit der Perspektive Wohnen sind in 2019 folgende Platzreduzierungen und Vorgehensweisen geplant:
 
- Am Gleisdreieck: 550 Plätze, Reduzierung ab Januar um circa 50 Personen pro
+– Am Gleisdreieck: 550 Plätze, Reduzierung ab Januar um circa 50 Personen pro
 
 Monat bis Ende des Jahres.
 
- Duvenacker: 114 Plätze, voraussichtliche sukzessive Reduzierung ab Oktober
+– Duvenacker: 114 Plätze, voraussichtliche sukzessive Reduzierung ab Oktober
 
 2019.
 
- Butterbauernstieg: 60 Plätze, voraussichtliche sukzessive Reduzierung ab Juli
+– Butterbauernstieg: 60 Plätze, voraussichtliche sukzessive Reduzierung ab Juli
 
 2019.
 
- Ohlendiekshöhe: 200 Plätze,voraussichtliche sukzessive Reduzierung ab Septem-
+– Ohlendiekshöhe: 200 Plätze,voraussichtliche sukzessive Reduzierung ab Septem-
 
 ber 2019.
 

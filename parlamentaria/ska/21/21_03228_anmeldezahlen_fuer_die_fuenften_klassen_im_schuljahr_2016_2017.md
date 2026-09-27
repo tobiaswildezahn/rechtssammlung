@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 24
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3212", "21/16"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51568"
@@ -79,7 +80,7 @@ Was tut die zuständige Behörde, damit diese Kinder sich noch rechtzeitig anmel
 
 Welche Frist verbleibt ihnen für eine rechtzeitige Anmeldung?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Entfällt.
 
@@ -101,7 +102,7 @@ Welche Gymnasien sind überangewählt?
 
 Welche Stadtteilschulen sind überangewählt?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Drs. 21/3212. Das Verfahren der Schulorganisation ist derzeit noch nicht abgeschlossen.
 

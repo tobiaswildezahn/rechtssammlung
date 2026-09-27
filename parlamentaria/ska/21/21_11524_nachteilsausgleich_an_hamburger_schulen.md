@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60699"
@@ -95,7 +96,7 @@ Welche Auswirkungen der Anwendung des Nachteilsausgleichs sind dem Senat oder de
 
 Wird eine durch Anwendung des Nachteilsausgleichs zusätzlich entstehende Belastung für die Lehrerinnen und Lehrer als Arbeitszeit faktorisiert und in die Arbeitszeitverordnung eingearbeitet? Wenn ja: in welcher Weise? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Anwendung eines Nachteilsausgleichs ist eine Regelaufgabe der Lehrkraft und insoweit Bestandteil der Arbeitszeit und nicht gesondert zu berücksichtigen.
 

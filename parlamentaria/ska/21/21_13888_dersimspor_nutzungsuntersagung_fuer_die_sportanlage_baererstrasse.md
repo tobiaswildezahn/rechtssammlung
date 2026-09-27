@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63261"
@@ -43,7 +44,7 @@ Wie ist der aktuelle Sachstand zu der im Vortext beschriebenen Thematik? Gibt es
 
 Welche Gründe haben zur Versagung der Weiternutzung der Spielstätte Baererstraße geführt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das zuständige Bezirksamt hatte in den vergangenen Monaten zusammen mit der Gebäudemanagement Hamburg GmbH (GMH) vielfach Kontakt zu Dersimspor e.V. (Dersimspor). Anlass war in jedem Fall regelwidriges Verhalten des Vereins auf der Sportfläche Baererstraße. Regelmäßig wurden Fristen zur Behebung gesetzt, die von Dersimspor nicht eingehalten wurden.
 

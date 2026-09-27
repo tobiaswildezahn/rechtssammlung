@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52477"
@@ -149,7 +150,7 @@ Welche Anweisungen gibt es seitens der zuständigen Behörde an Hamburgs Schulle
 
 Welche Erkenntnisse liegen der zuständigen Behörde darüber vor, inwieweit die Schulleitungen der Pflicht zur Überprüfung auch regelmäßig nachkommen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64921"
@@ -43,7 +44,7 @@ Was genau wird gegenwärtig vom Senat im Kontext der Wehrführervertreter-Wahlen
 
 Welche Ergebnisse müssten diese „Prüfungen“ erbringen beziehungsweise welche Prüfungskriterien müssten erfüllt sein/werden, damit es bei Wehrführervertreter-Wahlen keine weiteren Verzögerungen gibt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Grundlage für die Wahl von Wehrführervertretungen sind das Feuerwehrgesetz und die Verordnung über die Freiwilligen Feuerwehren vom 28.08.2001.
 

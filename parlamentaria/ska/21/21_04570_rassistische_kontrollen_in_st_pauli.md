@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 31
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13465", "21/733"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52975"
@@ -107,7 +108,7 @@ Wie schätzt der Senat die Bedrohungslage im betreffenden Gebiet ein?
 
 Hat sich die Bedrohung nach Meinung des Senats in den letzten Wochen verschärft?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 
@@ -133,23 +134,23 @@ Das örtlich zuständige Polizeikommissariat (PK) 15 beziehungsweise die jeweils
 
 Über Einsätze im Sinne der Fragestellung werden regelhaft folgende Polizeidienststellen informiert:
 
- Direktion Einsatz (DE) 21 (Einsatz),
+– Direktion Einsatz (DE) 21 (Einsatz),
 
- DE 11 (Lagezentrum),
+– DE 11 (Lagezentrum),
 
- DE 12 (Polizeieinsatzzentrale),
+– DE 12 (Polizeieinsatzzentrale),
 
- DE 3 (Landesbereitschaftspolizei),
+– DE 3 (Landesbereitschaftspolizei),
 
- PK 11-16, PK 21,
+– PK 11-16, PK 21,
 
- Landeskriminalamt 68 (Fachkommissariat für Front-Deal und Konsumentendelik-
+– Landeskriminalamt 68 (Fachkommissariat für Front-Deal und Konsumentendelik-
 
 te),
 
- Polizeipressestelle,
+– Polizeipressestelle,
 
- Bundespolizei.
+– Bundespolizei.
 
 ### Frage 7
 

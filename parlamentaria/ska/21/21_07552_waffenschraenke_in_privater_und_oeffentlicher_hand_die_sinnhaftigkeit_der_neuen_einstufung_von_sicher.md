@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56169"
@@ -45,7 +46,7 @@ Wie bewertet der Senat den aktuell diskutierten Entwurf der Bundesregierung zur 
 
 Inwieweit setzt sich der Senat mit Blick auf die Änderung der Vorschriften für Sicherheitsbehältnisse für eine sogenannte Besitzstandswahrung für nach der bisherigen Rechtslage angeschaffte Sicherheitsbehältnisse ein?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat hat sich hiermit noch nicht befasst.
 

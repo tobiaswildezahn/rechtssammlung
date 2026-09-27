@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4847", "21/5341"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54320"
@@ -123,51 +124,51 @@ Was hat der Senat beziehungsweise die zuständige Behörde seit 2011 unternommen
 
 Über die ehemalige Forschungs- und Wissenschaftsstiftung Hamburg sowie die Landesforschungsförderung Hamburg wurden und werden folgende geisteswissenschaftliche Vorhaben seit 2011 aus Landesmitteln gefördert:
 
- Landesexzellenzcluster „Lingustic Diversity Management in Urban Areas – LiMA“
+– Landesexzellenzcluster „Lingustic Diversity Management in Urban Areas – LiMA“
 
 an der UHH: 2011 und 2012 mit insgesamt 2,6 Millionen Euro
 
- Landesgraduiertenschule „Hamburg International Graduate School Regional
+– Landesgraduiertenschule „Hamburg International Graduate School Regional
 
 Power Shifts and Governance in the New Global Order“ an der UHH: 2011 und 2012 mit insgesamt 385.000 Euro
 
- Landesgraduiertenschule „Graduate School Media and Communication“ an der
+– Landesgraduiertenschule „Graduate School Media and Communication“ an der
 
 UHH: 2011 und 2012 mit insgesamt 380.000 Euro
 
- Forschungsverbund „Interkonfessionalität in der frühen Neuzeit“ an der UHH: 2012
+– Forschungsverbund „Interkonfessionalität in der frühen Neuzeit“ an der UHH: 2012
 
 und 2013 mit insgesamt 329.000 Euro
 
- Wissenschaftlich-künstlerisches Graduiertenkolleg „Versammlung und Teilhabe:
+– Wissenschaftlich-künstlerisches Graduiertenkolleg „Versammlung und Teilhabe:
 
 Urbane Öffentlichkeiten und performative Künste“ an der HCU: 2012 und 2013 mit insgesamt 905.000 Euro
 
- Forschungsverbund „Übersetzen und Rahmen. Praktiken medialer Transformation“
+– Forschungsverbund „Übersetzen und Rahmen. Praktiken medialer Transformation“
 
 an der UHH: 2015 – 2017 mit insgesamt 1,2 Millionen Euro
 
- Graduiertenkolleg „Lose Verbindungen – Kollektivität im urbanen und digitalen
+– Graduiertenkolleg „Lose Verbindungen – Kollektivität im urbanen und digitalen
 
 Raum“ an der UHH: 2015 – 2017 mit insgesamt 886.000 Euro
 
- Graduiertenkolleg „Vergegenwärtigungen – Repräsentationen der Shoah in kom-
+– Graduiertenkolleg „Vergegenwärtigungen – Repräsentationen der Shoah in kom-
 
 paratistischer Perspektive“ an der UHH: 2015 – 2017 mit insgesamt 895.000 Euro
 
- Wissenschaftlich-künstlerisches Graduiertenkolleg „Ästhetiken des Virtuellen“ an
+– Wissenschaftlich-künstlerisches Graduiertenkolleg „Ästhetiken des Virtuellen“ an
 
 der HFBK: 2015 – 2017 mit insgesamt 900.000 Euro
 
- Wissenschaftlich-künstlerisches Graduiertenkolleg „Neue Artikulationen Urbaner
+– Wissenschaftlich-künstlerisches Graduiertenkolleg „Neue Artikulationen Urbaner
 
 Bürgerschaft in der Metropole des 21. Jahrhunderts“ an der HCU: 2015 – 2017 mit insgesamt 899.000 Euro
 
- Vier kleinere wissenschaftlich-künstlerische Einzelvorhaben an der HfMT, HAW
+– Vier kleinere wissenschaftlich-künstlerische Einzelvorhaben an der HfMT, HAW
 
 und HCU: 2015 – 2017 mit insgesamt 425.000 Euro
 
- Zwei Anbahnungsmaßnahmen für Ostseekooperationen mit insgesamt 46.000
+– Zwei Anbahnungsmaßnahmen für Ostseekooperationen mit insgesamt 46.000
 
 Euro
 
@@ -177,11 +178,11 @@ Aktuell läuft eine weitere Ausschreibung der Landesforschungsförderung Hamburg
 
 Neben den in der Frage genannten strukturellen Stärkungen an der HfMT, HFBK, HCU und SUB enthält die Drs. 21/4847 weitere Maßnahmen, mit denen die Geisteswissenschaften an der UHH in den nächsten Jahren unterstützt werden sollen. So sollen im Themenbereich Manuskriptforschung (verankert am Asien-Afrika-Institut der UHH) folgende Exzellenzmaßnahmen finanziell gefördert werden:
 
- eine zusätzliche Professur (W2/W3),
+– eine zusätzliche Professur (W2/W3),
 
- eine vorgezogene Professur (W3),
+– eine vorgezogene Professur (W3),
 
- eine Personalstelle TVL-13 sowie Sachkosten zur Unterstützung einer Antragstel-
+– eine Personalstelle TVL-13 sowie Sachkosten zur Unterstützung einer Antragstel-
 
 lung in der Exzellenzstrategie.
 
@@ -197,19 +198,19 @@ Welche der unter 5. genannten Maßnahmen kamen dabei den sogenannten Kleinen Fä
 
 #### Antwort zu Frage 6
 
- Landesexzellenzcluster „Lingustic Diversity Management in Urban Areas”
+– Landesexzellenzcluster „Lingustic Diversity Management in Urban Areas”
 
- Landesgraduiertenschule „Graduate School Media and Communication”
+– Landesgraduiertenschule „Graduate School Media and Communication”
 
- Graduiertenkolleg „Vergegenwärtigungen – Repräsentationen der Shoah in kom-
+– Graduiertenkolleg „Vergegenwärtigungen – Repräsentationen der Shoah in kom-
 
 paratistischer Perspektive“
 
- Forschungsverbund „Interkonfessionalität in der Frühen Neuzeit“
+– Forschungsverbund „Interkonfessionalität in der Frühen Neuzeit“
 
- Forschungsverbund „Übersetzen und Rahmen“
+– Forschungsverbund „Übersetzen und Rahmen“
 
- Exzellenzmaßnahmen im Themenbereich Manuskriptforschung
+– Exzellenzmaßnahmen im Themenbereich Manuskriptforschung
 
 In der Regel handelte es sich bei den Maßnahmen für die Geisteswissenschaften um Querschnittsaktivitäten, die nicht nur einem Fach zuzuordnen sind.
 
@@ -247,7 +248,7 @@ Und unabhängig von den Geisteswissenschaften: Welche weiteren Maßnahmen wird d
 
 Inwieweit sind aus Sicht des Senats beziehungsweise der zuständigen Behörde die unter 10. genannten Maßnahmen geeignet, um die nicht geisteswissenschaftlichen Fächer an den Hamburger Universitäten und Hochschulen, insbesondere die Studienfächer im Institut für Holzwirtschaft, erfolgreich an der aktuellen beziehungsweise vierten Runde der Exzellenzstrategie ab 2018 teilnehmen zu lassen?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Holzwirtschaft an der UHH zählt nicht zu den sogenannten Kleinen Fächern. Nichtsdestotrotz ist der Bereich Holzwirtschaft bereits jetzt über einen Professor in die Exzellenzinitiative, im Exzellenzcluster CliSAP, eingebunden, und das ist auch für den Nachfolgeantrag von CliSAP in der neuen Exzellenzstrategie vorgesehen. Im Übrigen siehe Drs. 21/5341.
 

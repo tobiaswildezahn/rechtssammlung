@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1839", "21/5538"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54033"
@@ -59,7 +60,7 @@ Wie genau stellt sich die in Drs. 21/1839 in Aussicht gestellte Unterstützung d
 
 Wie viele Privatvormünder gibt es aktuell? Wie viele gab es zum 30. Juni 2014? Wie viele gab es zum 30. Juni 2015? Bitte nach Träger/Arbeitgeber aufgeschlüsselt und gesamt angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Senat fördert drei freie Träger, die private Vormünder gewinnen, betreuen und schulen. Der Deutsche Kinderschutzbund e.V., der ausschließlich private Vormundschaften betreut, hat hierfür 81.219,42 Euro im Jahr 2015 und 140.998,72 Euro im Jahr 2016 an Zuwendungsmitteln erhalten. Zwei weitere Vereine sind sowohl in der Betreuung privater Vormünder als auch in der Führung eigener Vormundschaften (Vereinsvormundschaften) aktiv. Der Diakonieverein Vormundschaften hat 92.100,43 Euro im Jahr 2015 und 103.294,98 Euro im Jahr 2016 (jeweils insgesamt für Privatund Vereinsvormundschaften) an Zuwendungen erhalten. Der Träger Beschäftigung und Bildung e.V. hat 203.080,22 Euro im Jahr 2015 (für Vereinsvormundschaften) und 292.173,10 Euro im Jahr 2016 (insgesamt für Privat- und Vereinsvormundschaften) an Zuwendungen erhalten.
 

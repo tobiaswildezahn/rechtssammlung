@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 7
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52767"
@@ -59,7 +60,7 @@ Welche Bezirksämter haben seit dem Jahre 2012 auf öffentlichem Grund liegende 
 
 Falls Bezirksämter abgerechnet haben: a. In welcher rechtlichen Form haben sie dies getan (aufgeschlüsselt nach Bezirksämtern)? b. Nach welchen Kriterien/welchem Berechnungsschlüssel ist das zu zahlende Entgelt ermittelt worden? c. Welche Erträge sind, aufgeschlüsselt nach Bezirksämtern und Jahren, erzielt worden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Bezirk Hamburg-Nord schließt für die Errichtung und Freihaltung von Feuerwehraufstellflächen auf öffentlichen Wegen öffentlich-rechtliche Verträge mit einer Laufzeit von 75 Jahren ab. Das Entgelt wird analog zur Gebührenordnung für die Verwaltung und Benutzung der öffentlichen Wege und Grün- und Erholungsanlagen (Ziffer 33 der Anlage 2) unter Berücksichtigung des Bodenrichtwertes, der neu zu errichtenden Bruttogeschossfläche und der Größe der in Anspruch genommenen Wegefläche ermittelt und als Gesamtsumme fällig.
 

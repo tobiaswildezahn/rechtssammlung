@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2630"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52743"
@@ -51,7 +52,7 @@ Wie bewertet der Senat den oben genannten Artikel 11 insgesamt und besonders hin
 
 Stimmt der Senat darin überein, dass langfristig aufenthaltsberechtigte EU-Drittstaatsangehörige ohne Einschränkungen in ein Beamtenverhältnis (gegebenenfalls mit Ausnahme hoheitlicher Dienste) in der Freien und Hansestadt Hamburg übernommen werden können? Falls nein: weshalb nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nach dem Wortlaut von Artikel 11 Absatz 1 Buchstabe a) RL 2003/109/EG haben Personen mit der Rechtsstellung langfristig Aufenthaltsberechtigter im Sinne von Artikel 4 Absatz 1 RL 2003/109/EG, wenn sie nicht gleichzeitig zu dem von § 7 Absatz 1 Nummer 1 Buchstabe c) Beamtenstatusgesetz (BeamtStG) erfassten Personenkreis gehören, aus Artikel 11 Absatz 1 Buchstabe a) RL 2003/109/EG keinen Anspruch, hinsichtlich der Berufung in ein Beamtenverhältnis wie deutsche Staatsangehörige behandelt zu werden. Das ergibt sich aus der Bestimmung, dass der Gleichbehandlungsan-
 
@@ -154,6 +155,6 @@ Welche Maßnahmen hat der Senat ergriffen, um Personalverantwortliche der Freien
 
 Welche Maßnahmen hat der Senat ergriffen, um dafür zu werben, dass mehr EU-Drittstaatsangehörige sich für Beamtenverhältnisse bewerben?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Bei der Berufung in ein Beamtenverhältnis von den Personen, die nicht unter § 7 Absatz 1 Nummer 1 BeamtStG fallen, machen die zuständigen Behörden in ständiger Praxis von der Ausnahmeregelung des § 7 Absatz 3 BeamtStG Gebrauch. Dies ist auch für das vom Senat verfolgte Ziel, den Anteil von Bürgerinnen und Bürgern mit Migrationshintergrund in der öffentlichen Verwaltung zu erhöhen, immer wieder erforderlich. Den Personalverantwortlichen in der Freien und Hansestadt Hamburg ist das bekannt. Über die Maßnahmen hat der Senat in der Drs. 21/2630 berichtet. In der dort erwähnten Broschüre „Wir sind Hamburg! Bist du dabei?“ heißt es ausdrücklich: „Dabei ist die deutsche Staatsangehörigkeit keine zwingende Voraussetzung, um Beamtin bzw. Beamter der hamburgischen Verwaltung zu werden“.

@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 19
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54172"
@@ -143,7 +144,7 @@ Wie sind der genaue Sachstand sowie der Zeitplan für die im HOCH- BAHN-Geschäf
 
 Bis wann muss nach Ansicht des Senats beziehungsweise der zuständigen Fachbehörde und der HOCHBAHN eine Lösung für die BeNEX gefunden werden?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die HOCHBAHN verfolgt das Ziel, spätestens bis zum Ablauf der derzeitigen Bestandsbetrauung im November 2019 eine Anschlussbetrauung für Bus-Verkehrsleistungen durch die Freie und Hansestadt Hamburg zu erhalten. Dabei werden Bestimmungen der EU-Verordnung 1370/2007 beachtet. Weitere Einzelheiten stellen ein Geschäftsgeheimnis dar und unterliegen der Vertraulichkeit. Eine Veröffentlichung würde die Realisierung einer für die HOCHBAHN und die Freie und Hansestadt Hamburg zielführenden Lösung gefährden.
 

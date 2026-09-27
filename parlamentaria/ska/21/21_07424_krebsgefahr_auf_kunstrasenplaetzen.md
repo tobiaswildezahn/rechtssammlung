@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56036"
@@ -79,7 +80,7 @@ Wie bewertet der Senat die von SBR ausgehende Gefahr für die Gesundheit der Nut
 
 Seit wann sind dem Senat die (potenziellen) Risiken von SBR bekannt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die für den Sport verantwortliche Behörde verfolgt die entsprechenden Diskussionen. Eine belastbare Risikobewertung liegt derzeit nicht vor. Aktuell laufen Untersuchungsprogramme in den Niederlanden und in den Vereinigten Staaten, in denen das potenzielle Risiko bewertet werden soll.
 
@@ -115,7 +116,7 @@ Welche Alternativen zu SBR als Material zur Bestreuung von Kunstrasenplätzen gi
 
 Welche Kosten entstehen pro Kunstrasenplatz, wenn ein Austausch des SBR-Granulats durch ein alternatives Material durchgeführt wird? Welche Arbeitsschritte sind hierfür notwendig und in welchem Zeitraum ist der Platz dann nicht bespielbar?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Als Alternative zu SBR stehen die Füllstoffe Quarzsand, Kunststoffgranulat und Kork zur Verfügung. Auf öffentlichen Sportplätzen wird unter anderem aus Kostengründen als Füllstoff grundsätzlich Quarzsand eingesetzt. Zurzeit wird im Rahmen eines Modellversuches auf vier Großspielfeldern über einen Zeitraum von vier Jahren der Einsatz von Kork als Füllstoff getestet.
 

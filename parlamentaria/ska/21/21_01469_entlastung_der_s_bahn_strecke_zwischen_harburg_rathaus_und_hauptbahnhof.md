@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 20
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/253", "20/7548", "21/1027", "20/14060"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49659"
@@ -147,7 +148,7 @@ Wann ist laut der gesetzlichen und/oder vertraglichen Normen der frühestmöglic
 
 Wann ist laut der gesetzlichen und/oder vertraglichen Normen der frühestmögliche Termin der Beantragung der Einrichtung der Verstärkerlinie S32?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Voraussetzung ist das Vorhandensein von Fahrzeugen. Im Übrigen siehe Antwort zu
 1.

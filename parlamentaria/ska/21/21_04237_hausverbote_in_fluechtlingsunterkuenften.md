@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 22
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13343", "21/915", "21/1007"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52641"
@@ -49,7 +50,7 @@ Welche Kenntnisse hat der Senat über die Erteilung von Hausverboten seitens der
 
 Welche Gründe können grundsätzlich dazu führen, dass Hausverbote erteilt werden? (Bitte einzeln aufführen.) Gibt es in diesem Zusammenhang vom Senat definierte Kriterien? Wenn ja, welche? Inwiefern liegt die Erteilung des Hausverbots im Ermessen des Betreibers?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Erteilung von Hausverboten erfolgt im Ermessen der Betreiber der Standorte. Gründe für die Erteilung von Hausverboten sind Verstöße gegen die Hausordnung oder Straftaten. Die Hausordnungen der einzelnen Betreiber beinhalten zum Beispiel ein striktes Drogenverbot, das Verbot von Gewalt und die Verletzung der Privatsphäre. Auch Verstöße gegen Arbeitsverträge oder gegen Rahmenverträge zwischen Betreibern und Dienstleistern können zu Hausverboten führen. Die Hausverbote stellen in der Regel die letzte Maßnahme dar, um auf Fehlverhalten von Bewohnern, Gästen, Ehrenamtlichen, Mitarbeitern der Dienstleitungsunternehmen oder Mitarbeitern des Betreibers zu reagieren. Vorgaben durch den Senat bestehen nicht.
 
@@ -61,7 +62,7 @@ Gegen welche der folgenden Gruppen wurden bisher Hausverbote ausgesprochen und j
 
 In welchen Einrichtungen wurden bisher Hausverbote ausgesprochen? (Bitte nach Betreiber, Einrichtung und Anzahl der erteilten Hausverbote aufschlüsseln.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Erteilung von Hausverboten erfolgte gegen die genannten Personengruppen in folgenden Einzelfällen in Standorten der Zentralen Erstaufnahmeeinrichtung:
 

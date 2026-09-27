@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9745", "21/9848"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63170"
@@ -63,7 +64,7 @@ Welche Stellen welcher Behörden waren an der Auswertung dieser Studie zu Wechse
 
 Welche externen Stellen, Unternehmen und/oder Verbände wurden an der Auswertung dieser Studie zu Wechselwirkungen P+R/B+R beteiligt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Studie wird im Auftrag der Behörde für Wirtschaft, Verkehr und Innovation (BWVI) erstellt. Es erfolgt dementsprechend eine Abstimmung mit den in der BWVI zuständigen Dienststellen für die Themen B+R und P+R.
 

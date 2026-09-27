@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 17
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16901"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67151"
@@ -51,7 +52,7 @@ Wie viele Platten und Schlafplätze von Obdachlosen wurden seit 2015 bis heute g
 
 Rechtsgrundlage: Wie oft wurden durch welche Stelle Räumungen seit 2015 bis heute insgesamt angekündigt? a. In wie vielen der genannten Fälle ist diesen Räumungsankündigungen nachgekommen worden? b. In wie vielen der genannten Fälle wurde durch die Ankündigung die Räumung entbehrlich?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die bezirklichen Fachämter Management des öffentlichen Raumes treffen Entscheidungen über das Räumen von Schlafplätzen von obdachlosen Menschen und beauftragen die Stadtreinigung mit der Durchführung.
 
@@ -131,7 +132,7 @@ Auf welchem Wege werden Räumungen den Betroffenen angekündigt (mündlich/schri
 
 Wie wird verfahren, wenn Betroffene nicht vorzufinden sind? Werden den Betroffenen alternative Übernachtungsmöglichkeiten angeboten? a. Wenn ja, durch wen und welche Angebote werden den Betroffenen gemacht? b. Wenn nein, warum nicht? c. Welche Angebote werden Betroffenen ohne derzeit realisierbares Anrecht auf längerfristige Unterbringung gemacht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Mitarbeiterinnen und Mitarbeiter der Bezirksämter sprechen die vor Ort angetroffenen Personen an und händigen eine schriftliche Räumungsaufforderung aus. Sollte keine Person vor Ort sein, wird die schriftliche Räumungsaufforderung hinterlegt, in der Regel in mehreren Sprachen. Diese Sprachen sind neben Deutsch zumeist Englisch und teilweise osteuropäische Sprachen (Polnisch, Bulgarisch, Rumänisch, Russisch).
 
@@ -147,7 +148,7 @@ Inwieweit werden beispielsweise Sozialarbeiter/-innen vorab über Räumungen inf
 
 Inwiefern werden und können Sonderreglungen und Ausnahmen getroffen werden, damit laufende sozialarbeiterische Hilfeprozesse nicht abgebrochen/beendet werden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Maßnahmen orientieren sich an der individuellen Störung vor Ort und den individuellen Lebensumständen der angetroffenen Personen. Die Benachrichtigung von Sozialarbeiterinnen und Sozialarbeitern und die Einbeziehung weiterer sozialer Einrichtungen erfolgt überwiegend einzelfallabhängig. Dabei werden auch Überlegungen einbezogen, wie durch geeignete Absprachen zum Räumungsablauf und -zeitpunkt laufende Hilfeprozesse unbeschadet bleiben.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15730", "21/15785"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65862"
@@ -134,7 +135,7 @@ Welche Räumlichkeiten wurden wo und warum bislang als geeignet befunden? Bitte 
 
 Gibt es bereits einen neuen Mietvertrag für neue Räumlichkeiten? a. Wenn ja, ist dieser befristet und wenn ja, bis wann? b. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 In der Kurt-Schumacher-Allee wurden mit insgesamt rund 270 m² geeignete Räumlichkeiten gefunden. Es handelt sich um eine abtrennbare Einheit im Erdgeschoss mit einem separaten, stufenlosen Eingang. Es können Gruppenräume, ein Büro, Toiletten, eine Küche mit Koch- und Backmöglichkeit und Lagerfläche angeboten werden. Das Bezirksamt hat die Flächen seit 01.01.2019 bis 31.12.2024 angemietet. Darüber hinaus besteht ein zweifaches Optionsrecht zu je sechs Monaten.
 

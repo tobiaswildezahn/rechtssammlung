@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 23
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7878"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56998"
@@ -131,11 +132,11 @@ b) Aus welchen Gründen wurden verschiedene, in der veröffentlichten Version en
 
 Es wurden die unter www.via-bus.de veröffentlichten Dateien
 
- Borgweg-Dialog, 2. Planungs-Workshop, Präsentation Teil 1/LSBG, BELA, HOCH-
+– Borgweg-Dialog, 2. Planungs-Workshop, Präsentation Teil 1/LSBG, BELA, HOCH-
 
 BAHN, 20.01.2017 und
 
- Borgweg-Dialog, 2. Planungs-Workshop, Präsentation Teil 2/ARGUS, 20.01.2017
+– Borgweg-Dialog, 2. Planungs-Workshop, Präsentation Teil 2/ARGUS, 20.01.2017
 
 vollständig verwendet.
 
@@ -188,7 +189,7 @@ Welche Lehren beziehungsweise Konsequenzen hat der Senat beziehungsweise die zus
 
 Inwiefern harmonieren diese in Frage 12. erfragten Lehren beziehungsweise Konsequenzen mit der Art der Bürgerbeteiligung am 20. Januar 2017?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Bei der Veranstaltung am 4. Oktober 2014 handelte es sich um eine öffentliche Sitzung des Regionalausschusses der Bezirksversammlung Hamburg-Nord. Vertreter des Senats waren als Referenten eingeladen, um den Planungsstand zur Umgestaltung der Papenhuder Straße vorzustellen.
 

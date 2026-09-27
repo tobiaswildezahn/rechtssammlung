@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56967"
@@ -57,7 +58,7 @@ Welche Staatsangehörigkeit haben die Männer?
 
 Welchen aufenthaltsrechtlichen Status haben die fünf Männer?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nach derzeitigem Ermittlungsstand besitzen zwei der Personen die deutsche und türkische Staatsangehörigkeit, eine die deutsche Staatsangehörigkeit, eine die deutsche und kirgisische Staatsangehörigkeit sowie eine Person die italienische Staatsangehörigkeit.
 

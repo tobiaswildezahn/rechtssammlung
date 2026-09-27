@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52920"
@@ -43,13 +44,13 @@ Hat der Senat im Rahmen der kürzlich erfolgten Ausweitung des Positivnetzes wei
 
 Ja. Es wurden folgende Strecken gemeldet:
 
- Strecke Aluminiumstraße – Dradenauer Hauptdeich – An der Alten Süderelbe –
+– Strecke Aluminiumstraße – Dradenauer Hauptdeich – An der Alten Süderelbe –
 
 Neßdeich bis zur Einmündung Neßgartenweg,
 
- Strecke Am Rosengarten (gesamt) und
+– Strecke Am Rosengarten (gesamt) und
 
- Hafenstraße – Seehafenstraße – Moorburger Straße – Moorburger Bogen – Fürs-
+– Hafenstraße – Seehafenstraße – Moorburger Straße – Moorburger Bogen – Fürs-
 
 tenmoordamm – AS Hamburg-Moorburg mit Auffahrt auf die BAB A 7.
 

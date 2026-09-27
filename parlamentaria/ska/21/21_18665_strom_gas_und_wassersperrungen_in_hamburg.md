@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 18
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14236", "21/15506"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68333"
@@ -160,7 +161,7 @@ In welcher Höhe werden Stromkosten im Regelsatz nach SGB II berücksichtigt, wo
 
 In welcher Höhe werden Kosten der Warmwasserbereitung im Regelsatz nach SGB II berücksichtigt, wonach berechnen sich diese und inwieweit wurden diese in den letzten fünf Jahren angepasst? Bitte für Einpersonen-, Zweipersonen-, Dreipersonen- und Vierpersonenhaushalte auflisten.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Drs. 21/14236.
 

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 37
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1079", "21/1176"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49438"
@@ -43,7 +44,7 @@ Wie lässt es sich aus Sicht des Senats beziehungsweise der zuständigen Behörd
 
 Wie lässt es sich aus Sicht des Senats beziehungsweise der zuständigen Behörde in einer verantwortungsvollen Leitungsposition eines Amtsoder Referatsleiters vereinbaren, eine Nebentätigkeit mit bis zu 20 Wochenstunden auszuüben?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es gibt keinen Grundsatz und auch keine Erkenntnisse dahin gehend, dass die Wahrnehmung von Führungsfunktionen in der Hamburgischen Verwaltung mit der Ausübung von Nebentätigkeiten unvereinbar wäre oder dass die zulässige Ausübung von Nebentätigkeiten per se die Führungsfunktion beeinträchtigen würde. In vielen Fällen ist die Ausübung einer Nebentätigkeit allein wegen der damit in der Regel verbundenen Erweiterung von Kompetenzen – insbesondere bei wissenschaftlich geprägten Nebentätigkeiten – sogar begrüßenswert. Ob die Ausübung der konkreten Nebentätigkeit mit dem jeweiligen Amt vereinbar ist, wird nach den gesetzlichen und den tarifvertraglichen Vorgaben nach Anzeige der Nebentätigkeit geprüft. Eine sporadisch auftretende zeitlich hohe Beanspruchung auch von 20 Wochenstunden steht dem nicht zwingend entgegen, da Nebentätigkeiten grundsätzlich nur außerhalb der Dienstzeit ausgeübt werden dürfen.
 

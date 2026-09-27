@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838", "21/6666", "21/2308", "21/5231", "21/7289", "21/7486"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56137"
@@ -43,7 +44,7 @@ Ist inzwischen bekannt, was mit den verbleibenden Wohnungen der Standorte auf Ba
 
 Wann wurde für welche Standorte jeweils der Bauantrag (nach Bauabschnitten) gestellt beziehungsweise wann soll er gestellt werden? Zum Zeitpunkt der Drs. 21/6666 waren nämlich noch einige Bauanträge in Vorbereitung.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/6666.
 
@@ -66,7 +67,7 @@ Auf welcher genauen Rechtsgrundlage (inklusive Sonderbestimmung) wurde er jeweil
 
 Für welchen Standort wurde bereits wann das reguläre Bebauungsplanverfahren eingeleitet?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/6666.
 

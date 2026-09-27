@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18742", "21/12916", "21/17595", "21/14647", "21/19425"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69353"
@@ -53,7 +54,7 @@ Wie viele Menschen in der hamburgischen Verwaltung, in den Hochschulen und in de
 
 Wie vielen Vollzeitäquivalenten entsprechen die Personenzahlen der Frage 1. jeweils?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/17595.
 

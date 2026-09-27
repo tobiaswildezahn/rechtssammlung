@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13826", "21/12086", "21/13488"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63475"
@@ -51,7 +52,7 @@ Wie viele Familien, bei denen mindestens ein Mitglied als Salafist beziehungswei
 
 Wie viele Familien sind dem Senat bekannt, in denen mindestens ein Elternteil zur salafistischen Szene gehört?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In Hamburg werden derzeit 784 Personen der salafistischen Szene zugerechnet, darunter 420 Jihadisten. Von den 784 Salafisten sind 17 Personen unter 18 Jahren. Weitergehende Erkenntnisse liegen nicht vor.
 
@@ -71,7 +72,7 @@ Wie viele Familien, die im Sinne der obigen Fragen einen Bezug zum Salafismus au
 
 In wie vielen Fällen sind Kinder aus der Obhut ihrer Eltern genommen worden, weil diese Salafisten waren?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 In den Jugendämtern (ASD) werden zurzeit vier Familien betreut, die einen Bezug zum Salafismus aufweisen. Dabei sind in keinem Fall Kinder aus der Obhut ihrer Eltern genommen worden.
 

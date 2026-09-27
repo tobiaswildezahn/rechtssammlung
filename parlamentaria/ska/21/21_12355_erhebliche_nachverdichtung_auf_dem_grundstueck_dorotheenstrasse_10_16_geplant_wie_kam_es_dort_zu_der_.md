@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 15
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11528"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61645"
@@ -59,7 +60,7 @@ Ist es richtig, dass der Bezirksausschuss des Bezirksamtes Hamburg- Nord damals 
 
 Dem Bau- und Verkehrsausschuss wurde im Jahre 1958 auch mitgeteilt, dass durch den Bau der Hochhäuser sichergestellt sei, dass die restlichen Flächen als Freiflächen erhalten blieben und zudem die Möglichkeit bestehe, entlang dem Mühlenkampkanal einen Fußgängerweg anzulegen und entsprechend einzugrünen. a. Inwieweit wurden im Rahmen des damaligen Bauantrages und des späteren B-Plan-Verfahrens Aussagen und Festlegungen zu den Freiflächen und dem Fußgängerweg berücksichtigt beziehungsweise umgesetzt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 
@@ -79,6 +80,6 @@ Welche vertraglich fixierten Regelungen zwischen der Freien und Hansestadt Hambu
 
 Baukosten werden durch die Errichtung von Tiefgaragen in die Höhe getrieben. a. Welche Verhandlungen gab es über die Möglichkeit von Wohnungsneubau ohne Ersatz der maroden Tiefgarage? b. Inwieweit wurde in Anbetracht der zentralen Lage dieses Wohnquartiers mit dem Investor über Wohnmodelle mit einer drastischen Reduzierung des Stellplatzbedarfs verhandelt? c. Welche Rolle spielte der Ersatz der Tiefgarage bei den Überlegungen des Investors für den Wohnungsneubau? d. Welche Mieteinnahmen erzielt der Investor heute für die 150 Stellplätze und welche sind für den Neubau der Tiefgarage avisiert?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Es wird ein städtebaulicher Vertrag angestrebt. In Ergänzung der bestehenden Wohnanlage an der Dorotheenstraße soll auf dem am Mühlenkampkanal gelegenen Teil des Grundstücks eine Wohnbebauung mit bis zu 116 Mietwohnungen errichtet werden. Der Mietpreis von 9 Euro/qm für diese Wohnungen soll für die Dauer von fünf Jahren begrenzt werden, wobei die Mieterinnen und Mieter wie üblich vom Vermieter ausgewählt werden. Fragen zur Tiefgarage beziehungsweise zu Stellplätzen werden gegebenenfalls im Rahmen der Erarbeitung des städtebaulichen Vertrages erörtert. Zu den Kosten und Einnahmen des privaten Investors liegen dem Senat im Übrigen keine Kenntnisse vor.

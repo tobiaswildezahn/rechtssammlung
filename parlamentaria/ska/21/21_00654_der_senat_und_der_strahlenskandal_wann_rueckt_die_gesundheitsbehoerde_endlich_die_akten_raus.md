@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/284"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48816"
@@ -55,7 +56,7 @@ Warum liegen die geforderten Akten immer noch nicht vor?
 
 Wann werden die geforderten Akten vorliegen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Am 12. Mai 2015 wurde die zuständige Behörde per Schreiben durch die Bürgerschaftskanzlei um Aktenvorlage zu Fehlbestrahlungen im AK St. Georg ersucht. Die zuständige Behörde hat umgehend das Verfahren dazu eingeleitet. Die Erfüllung eines Aktenvorlageersuchens nach Artikel 30 HV setzt einen entsprechenden Senatsbeschluss voraus. Dieser wird derzeit vorbereitet. Im Zuge der dazu notwendigen Abstimmung mit mehreren Behörden ist die Einhaltung der in der Vorbemerkung genannten Anforderungen zu prüfen. Danach bemisst sich auch der zeitliche Ablauf.
 

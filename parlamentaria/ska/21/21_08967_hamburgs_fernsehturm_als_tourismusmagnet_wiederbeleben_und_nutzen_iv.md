@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 10
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5711", "21/3588", "21/7813"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57701"
@@ -43,7 +44,7 @@ Welche Bemühungen hat der Senat unternommen, um den Fernsehturm wiederzubeleben
 
 Wird der Senat beziehungsweise die zuständige Behörde, wie in den Medien angekündigt, nun die andere Hälfte des für die Sanierung des Fernsehturms benötigten Betrages bereitstellen? Wenn ja, wann ist mit dem Sanierungsbeginn zu rechnen und wie lange wird sie dauern?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat steht einer Wiedereröffnung der öffentlichen Teile des im Privateigentum befindlichen Hamburger Fernsehturms seit vielen Jahren positiv gegenüber und hat stets alle diesbezüglichen Bemühungen unterstützt, siehe dazu beispielhaft Drs. 20/5711 und 21/3588. Die jüngsten Bemühungen um eine finanzielle Förderung auf der Bundesebene waren dem Senat bekannt. Er ist – vorbehaltlich der Zustimmung der Bürgerschaft – dazu bereit, einmalig gemeinsam mit dem Bund die notwendigen finanziellen Verpflichtungen für eine Sanierung der öffentlichen Bereiche zu übernehmen. Darüber hinaus nimmt der Senat zu fachlichen und politischen Meinungsbildungs- und Entscheidungsprozessen innerhalb des Deutschen Bundestages nicht Stellung. Im Übrigen siehe Drs. 21/7813.
 
@@ -55,6 +56,6 @@ Gibt es vonseiten des Senats Überlegungen bezüglich der Betreibergesellschaft 
 
 Wurde bisher die Stiftung „Fernsehturm Hamburg Aufwärts“ in die Überlegungen und Planungen für eine zukünftige Inbetriebnahme eingebunden? Wenn ja, mit welchen konkreten Fragestellungen und Aufgaben? Wenn nicht, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Planungen für eine zukünftige Inbetriebnahme und die Entscheidung über einen Betreiber obliegen ausschließlich der Deutsche Funkturm GmbH als Eigentümerin des Funkturms. Darüber hinaus hängen die weitergehenden konkreten Anforderungen auch hinsichtlich der Inbetriebnahme von Abstimmungsgesprächen zwischen den möglichen Zuwendungsgebern und dem Zuwendungsnehmer ab, die noch nicht abgeschlossen sind.

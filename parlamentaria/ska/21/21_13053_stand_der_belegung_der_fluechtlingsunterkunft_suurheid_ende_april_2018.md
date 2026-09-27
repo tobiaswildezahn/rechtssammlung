@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 22
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12934", "21/12594", "21/2108"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62429"
@@ -43,7 +44,7 @@ Wie viele Flüchtlinge waren in der örU Suurheid Ende April 2018 untergebracht?
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Geschlecht  
 Kinder & Jugendliche  
@@ -71,11 +72,11 @@ Wie viele Wohnungen der örU sind bereits insgesamt belegt und mit wie vielen Pe
 
 Insgesamt sind 48 Wohnungen ausschließlich mit Familienangehörigen belegt:
 
- 13 Zwei-Zimmer Wohnungen
+– 13 Zwei-Zimmer Wohnungen
 
- 19 Drei-Zimmer Wohnungen
+– 19 Drei-Zimmer Wohnungen
 
- 16 Vier-Zimmer Wohnungen
+– 16 Vier-Zimmer Wohnungen
 
 Die Alleinstehenden leben als volljährige Kinder im Familienverbund.
 
@@ -184,6 +185,6 @@ Welche Angebote werden den Flüchtlingen zu jeweils welchen Zeiten in welchen R�
 
 Wie viele Ehrenamtliche sind eingesetzt und wie helfen sie?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Während der Phase des Belegungsaufbaus liegt der Schwerpunkt der Angebote in der Beratung und Unterstützung der neuen Bewohner und Bewohnerinnen insbesondere hinsichtlich der Anmeldungen beim Bezirksamt, in der Kita und Schule. Darüber hinaus laufen Integrationsprojekte wie das Elterncafé an, erste Gespräche zur Etablierung einer Hebammenberatung wurden geführt. In diesen Beratungsfeldern sind bereits rund zehn Ehrenamtliche aktiv.

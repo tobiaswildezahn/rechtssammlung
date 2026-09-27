@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5039", "21/14037", "21/18643", "21/1986"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68660"
@@ -43,15 +44,15 @@ Der Senat hat bereits mehrfach über die Angebote zur Ausstiegsberatung für rad
 
 Keine öffentlich geförderten Beratungsstellen im Sinne der Fragestellung sind die folgenden Anlaufstellen der Sicherheitsbehörden mit Verweisberatung:
 
- https://www.polizei-beratung.de/themen-und-
+– https://www.polizei-beratung.de/themen-und-
 
 tipps/extremismus/rechtsextremismus/aussteigerprogramme/#panel-16162-6,
 
- https://www.verfassungsschutz.de/de/arbeitsfelder/af-
+– https://www.verfassungsschutz.de/de/arbeitsfelder/af-
 
 rechtsextremismus/aussteigerprogramm-rechtsextremismus und
 
- https://www.hamburg.de/innenbehoerde/service/233260/verfassungsschutz-
+– https://www.hamburg.de/innenbehoerde/service/233260/verfassungsschutz-
 
 hinweistelefon-fhh-hamburg/.
 

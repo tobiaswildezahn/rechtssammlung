@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68894"
@@ -47,7 +48,7 @@ Wie viele Über- beziehungsweise Minderstunden wurden bei der Feuerwehr Hamburg 
 Wie viele Über- beziehungsweise Minderstunden wurden im Einsatzdienst der Feuerwehr Hamburg vom 31.10.2017 bis 01.11.2018 und vom
 31.10.2018 bis 01.11.2019 geleistet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In den Servicebereichen findet im Rahmen der Regelungen für die hamburgische Verwaltung keine zentrale Erfassung statt.
 
@@ -62,15 +63,15 @@ Zeitraum
 
 Die Erhöhung der Überstunden der Mitarbeiterinnen und Mitarbeiter im Einsatzdienst lässt sich in Teilen erklären durch
 
- die zusätzliche Besetzung von Funktionsdiensten aus dem Personalbestand des
+– die zusätzliche Besetzung von Funktionsdiensten aus dem Personalbestand des
 
 Einsatzdienstes für die Inbetriebnahme der Portalwache für die Tunnelkomponenten der BAB 7 und des Löschbootes 40,
 
- das temporäre Auffüllen von Vakanzen in der Rettungsleitstelle mit Personal aus
+– das temporäre Auffüllen von Vakanzen in der Rettungsleitstelle mit Personal aus
 
 dem Einsatzdienst,
 
- zwei zusätzliche Werkfeiertage im Zeitraum 01.11.2018 bis 31.10.2019, die auf-
+– zwei zusätzliche Werkfeiertage im Zeitraum 01.11.2018 bis 31.10.2019, die auf-
 
 grund eines geringeren Jahresstundensolls gegenüber dem Vorjahreszeitraum zu höheren Überstunden von rund 20 000 Stunden im Einsatzdienst führen.
 

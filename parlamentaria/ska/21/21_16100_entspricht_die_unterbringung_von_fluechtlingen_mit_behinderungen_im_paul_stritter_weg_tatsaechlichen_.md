@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 16
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15179", "21/15811"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65606"
@@ -148,9 +149,9 @@ Wie viele Mitarbeiter/VZÄ sind dort tätig?
 
 Derzeit sind folgende VZÄ in der Einrichtung tätig:
 
- 0,5 VZÄ Unterkunfts- und Sozialmanagement (UKSM),
+– 0,5 VZÄ Unterkunfts- und Sozialmanagement (UKSM),
 
- 0,5 VZÄ UKSM Technischer Dienst.
+– 0,5 VZÄ UKSM Technischer Dienst.
 
 ### Frage 12
 

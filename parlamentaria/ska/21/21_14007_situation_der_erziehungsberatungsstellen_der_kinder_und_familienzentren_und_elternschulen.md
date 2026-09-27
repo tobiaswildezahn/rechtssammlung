@@ -14,6 +14,7 @@ fragen: 26
 einzelfragen: 45
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/34", "21/5685", "21/14000", "21/10281"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63404"
@@ -85,7 +86,7 @@ Welche kommunalen Erziehungsberatungsstellen existieren gegenwärtig mit welchen
 
 Welche in freier Trägerschaft befindlichen Erziehungsberatungsstellen existieren gegenwärtig mit welchen Öffnungszeiten und Sprechzeiten (telefonisch und persönlich), welcher finanziellen Ausstattung und welcher Personalausstattung in Anzahl der Personen und Vollzeitäquivalenten in Hamburg? Bitte tabellarisch auflisten unter Angabe der Produktgruppe im Haushaltsplan nach den Standorten in den Bezirken.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Dr. 21/5685. Im Übrigen siehe Anlage 1 und Vorbemerkung.
 
@@ -121,7 +122,7 @@ Welche Schritte unternimmt der Senat dazu in dieser Wahlperiode und wo sind dies
 
 Welche anderen Überlegungen zur Finanzierung der Erziehungsberatungsstellen hat der Senat? Wenn nein, warum gibt es dazu keine Überlegungen vor dem Hintergrund der Drs. 20/34?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/14000. Darüber hinaus sind die Beratungen über den Haushaltsplan 2019/2020 noch nicht abgeschlossen.
 
@@ -191,7 +192,7 @@ Wie viele Kinder- und Familienzentren (KiFaZ) gibt es gegenwärtig in Hamburg? B
 
 Wie hat sich die Förderung der Kinder- und Familienzentren für die Jahre 2016 – 2018 entwickelt? Angaben bitte tabellarisch jährlich für jedes KiFaZ ausweisen.
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Es gibt in Hamburg acht Kinder- und Familienzentren, siehe Dr. 21/5685. Im Übrigen siehe Anlage 3 und Vorbemerkung.
 
@@ -203,7 +204,7 @@ Seit Einführung in den Neunzigerjahren hat die Stadt keine zusätzlichen Kinder
 
 Gibt es Überlegungen weitere Kinder- und Familienzentren zu schaffen? Bitte die jeweilige Position begründen.
 
-#### Antwort zu Fragen 20 bis 21
+#### Antwort zu Fragen 20 und 21
 
 Die Kinder- und Familienzentren sind etablierte und vor Ort gut vernetzte, niedrigschwellige Anlaufstellen für Familien. Sie sind damit wichtige Bestandteile der sozialen Infrastruktur. Im Bezirksamt Altona gibt es Überlegungen – aufgrund der „Unterbringung-Perspektive-Wohnen“ (UPW) in Rissen Suurheid –, eine Dependance des Kinder- und Familienzentrums Lurup zu realisieren, in den übrigen Bezirksämtern bestehen diesbezüglich derzeit keine Planungen.
 

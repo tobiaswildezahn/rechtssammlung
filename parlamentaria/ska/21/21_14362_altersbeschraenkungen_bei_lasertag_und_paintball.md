@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63776"
@@ -73,7 +74,7 @@ Welche Altersbeschränkungen werden – aufgeschlüsselt nach den einzelnen Bezi
 
 In welcher Form werden – aufgeschlüsselt nach Sportart und Bezirken – die Gestaltung der Spielfelder sowie die eingesetzten Ausrüstungsgegenstände im Genehmigungsverfahren berücksichtigt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Das Bezirksamt Hamburg-Nord hat in einem Fall für den Betrieb einer Lasertag- Anlage Altersbeschränkungen verfügt. Im Rahmen der gerichtlichen Überprüfung wurde mit dem Betreiber ein Vergleich geschlossen. Danach ist die Teilnahme von Kindern am Spiel untersagt. Jugendliche, die das 18. Lebensjahr noch nicht vollendet haben, dürfen nur mit Einverständniserklärung einer oder eines Erziehungsberechtigen teilnehmen. Ansonsten wurden keine Altersbeschränkungen angeordnet; die
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8156"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49628"
@@ -65,19 +66,19 @@ Die Hamburg Tourismus GmbH hat die touristische Bedeutung des Welterbestatus in 
 
 Die zentralen Marketingziele für die Vermarktung Hamburgs als UNESCO-Weltkulturerbe sind:
 
- Hamburg international als Destination für Städte- und Kulturreisende etablieren
+– Hamburg international als Destination für Städte- und Kulturreisende etablieren
 
- Zahl der Übernachtungen (insbesondere Gästepotenziale aus dem Ausland) erhö-
+– Zahl der Übernachtungen (insbesondere Gästepotenziale aus dem Ausland) erhö-
 
 hen
 
- Zahl der Tagesbesucher stabilisieren und deren Verweildauer erhöhen
+– Zahl der Tagesbesucher stabilisieren und deren Verweildauer erhöhen
 
- Neuen Impuls für Mehrfachbesucher geben
+– Neuen Impuls für Mehrfachbesucher geben
 
- UNESCO-Prädikat als Reiseanlass beziehungsweise Reiseaktivität etablieren
+– UNESCO-Prädikat als Reiseanlass beziehungsweise Reiseaktivität etablieren
 
- Umsatz der HHT im Bereich der Pauschalen und Bausteine durch UNESCO-
+– Umsatz der HHT im Bereich der Pauschalen und Bausteine durch UNESCO-
 
 Bezug steigern
 
@@ -87,35 +88,35 @@ Die Hamburg Marketing GmbH und die Hamburg Tourismus GmbH entwickeln eine jährl
 
 Dazu gehören folgende beispielhafte Maßnahmen für die Umsetzung:
 
- Erstellung von Informationsmaterial für die nationale und internationale Kommuni-
+– Erstellung von Informationsmaterial für die nationale und internationale Kommuni-
 
 kation: Produktion von Bildmaterial und Textmaterial, Erstellung einer Informationsbroschüre sowie Produktion eines Image-Films in Kooperation von Hamburg Marketing GmbH, Hamburg Tourismus GmbH und IG KulturQuartier Speicherstadt und HafenCity
 
- Aktive Medienkommunikation und Einbindung des Themas in die Pressereisen am
+– Aktive Medienkommunikation und Einbindung des Themas in die Pressereisen am
 
 Beispiel Frankreich: Arte TV-Bewerbung Deutschland mit Sequenzen aus Speicherstadtfilm
 
- Einbindung in die Produktkommunikation der HHT (Entwicklung von buchbaren
+– Einbindung in die Produktkommunikation der HHT (Entwicklung von buchbaren
 
 Reisepauschalen)
 
- Kommunikation an Netzwerke und Reiseindustrie, zum Beispiel in Form einer Kul-
+– Kommunikation an Netzwerke und Reiseindustrie, zum Beispiel in Form einer Kul-
 
 turkampagne mit dem größten Schweizer Reiseveranstalter
 
- Ausbau Informationsservice: Neuer Audioguide für die Hamburg Tourismus App
+– Ausbau Informationsservice: Neuer Audioguide für die Hamburg Tourismus App
 
 Weitere Umsetzungsschritte sind:
 
- Einbindung in das Deutschland-Marketing über die Deutsche Zentrale für Touris-
+– Einbindung in das Deutschland-Marketing über die Deutsche Zentrale für Touris-
 
 mus (DZT) und UNESCO-Welterbestätten Deutschland e.V.
 
- Einbindung über das Auslandsmarketing der nationalen Marketinginitiativen Top of
+– Einbindung über das Auslandsmarketing der nationalen Marketinginitiativen Top of
 
 Germany (Norddeutsche Länder) und Magic Cities (die zehn großen touristischen Metropolen Deutschlands)
 
- Im Zusammenspiel mit dem Thema Elbphilharmonie zentrales Thema auf Messen,
+– Im Zusammenspiel mit dem Thema Elbphilharmonie zentrales Thema auf Messen,
 
 Workshops und Medienterminen
 
@@ -127,6 +128,6 @@ Welchen wirtschaftlichen Nutzen verspricht sich der Senat aus dem Weltkulturerbe
 
 In welcher Höhe und aus welchem Haushaltstitel wurden beziehungsweise werden in den Jahren 2015 bis 2020 Haushaltsmittel zur Finanzierung von Tourismus bezogen auf das UNESCO Weltkulturerbe in Hamburg veranschlagt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 20/8156.

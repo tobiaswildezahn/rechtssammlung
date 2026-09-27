@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 20
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68434"
@@ -98,19 +99,19 @@ c) Sind nach Ansicht des Senats die bestehenden Angebote der Seniorentreffs in A
 
 Im Bereich der Sozialen Arbeit wird unter Niedrigschwelligkeit eine Vielzahl von räumlichen und sozialen Aspekten verstanden. Dabei ist die Einschätzung, ob und wann ein Angebot als niedrigschwellig gelten kann, von der Situation, dem Blickwinkel des Nutzers und des Anbieters abhängig. Beispiele für die Niedrigschwelligkeit können sein:
 
- Die Öffnungszeiten einer Einrichtung sollten an den zeitlichen Möglichkeiten der
+– Die Öffnungszeiten einer Einrichtung sollten an den zeitlichen Möglichkeiten der
 
 Nutzenden ausgerichtet sein.
 
- Ein Angebot sollte sich an den tatsächlichen Nutzungsbedürfnissen der Zielgruppe
+– Ein Angebot sollte sich an den tatsächlichen Nutzungsbedürfnissen der Zielgruppe
 
 orientieren.
 
- Ein Angebot sollte so gestaltet sein, das es den Menschen ermöglicht, dieses ohne
+– Ein Angebot sollte so gestaltet sein, das es den Menschen ermöglicht, dieses ohne
 
 soziale Ausgrenzung (niedriges Einkommen) wahrnehmen zu können.
 
- Eine Einrichtung sollte räumlich für die Zielgruppe gut nutzbar sein (barrierefreier
+– Eine Einrichtung sollte räumlich für die Zielgruppe gut nutzbar sein (barrierefreier
 
 Zugang, behindertengerechte Toiletten).
 

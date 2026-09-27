@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 13
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53173"
@@ -83,13 +84,13 @@ Welche Einwände wurden erhoben?
 
 Die wesentlichen Einwände waren:
 
- Wertverlust des Grundstücks,
+– Wertverlust des Grundstücks,
 
- kein Verständnis für Grundstücksverkäufe zum Erhalt von Bäumen oder Parkplät-
+– kein Verständnis für Grundstücksverkäufe zum Erhalt von Bäumen oder Parkplät-
 
 zen,
 
- zu niedrige Preise für die Grundstücksfläche.
+– zu niedrige Preise für die Grundstücksfläche.
 
 ### Frage 7
 

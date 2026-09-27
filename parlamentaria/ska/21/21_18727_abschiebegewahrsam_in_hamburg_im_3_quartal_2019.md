@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 4
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68405"
@@ -47,7 +48,7 @@ Wie viele Menschen befanden sich im vergangenen Quartal im Abschiebegewahrsam am
 
 Wie viele der unter 1. genannten Menschen wurden von wo, auf welche Art, in welche Länder abgeschoben und welcher Staatsangehörigkeit waren sie jeweils? a. Wie viele wurden aus welchen Gründen wieder frei gelassen? b. Wie viele wurden in welche Straf- oder Abschiebehaftanstalten überstellt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im 3. Quartal 2019 befand sich eine männliche Person im Alter zwischen 46 und 52 Jahren vom 17. bis 18. September 2019 im Ausreisegewahrsam nach § 62b Aufenthaltsgesetz. Der Vollzug des Ausreisegewahrsams diente der Sicherung der Abschiebung. Das Zielland der Abschiebung war Tunesien. Die Abschiebung erfolgte auf dem
 

@@ -5,7 +5,7 @@ wahlperiode: 21
 id: 67215
 titel: "Wie man unser Rückgrat brach – Zur Aktuellen Situation des „Handwerkerparkens“ in Hamburg"
 datum_anfrage: "2019-06-24"
-datum_drucksache: null
+datum_drucksache: "2019-07-02"
 urheber: ["Dennis Thering"]
 fraktionen: ["CDU"]
 vorgang: 61298
@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67215"
@@ -24,7 +25,7 @@ generator: "ska_archiv 1.0"
 
 # Drs. 21/17621: Wie man unser Rückgrat brach – Zur Aktuellen Situation des „Handwerkerparkens“ in Hamburg
 
-> Schriftliche Kleine Anfrage und Antwort des Senats  
+> Schriftliche Kleine Anfrage des Abgeordneten Dennis Thering (CDU) vom 24.06.19 und Antwort des Senats · Drucksache vom 02.07.2019  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/67215) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/67215/21_17621_wie_man_unser_rueckgrat_brach_zur_aktuellen_situation_des_handwerkerparkens_in_hamburg)
 
 ## Einleitung für die Fragen
@@ -63,7 +64,7 @@ Wie viele Anträge auf Ausnahmengenehmigung für das sogenannte Handwerkerparken
 
 Wie viele Anträge auf Ausnahmengenehmigung für das sogenannte Handwerkerparken wurden seit dem 1. Januar 2018 in Hamburg insgesamt abgelehnt und warum? Bitte pro Jahr, Bezirk (bezüglich 2019 bitte zum Stichtag 15.06.) und jeweils zuständiger Behörde gesondert darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Landesbetrieb Verkehr:
 
@@ -107,13 +108,13 @@ Sind dem Senat oder der zuständigen Behörde Fälle bekannt, bei denen zur Begr
 
 #### Antwort zu Frage 5
 
- Baustellen in Hamburg zugenommen hätten,
+– Baustellen in Hamburg zugenommen hätten,
 
- man nicht wolle, dass der Innenstadtbereich zugeparkt werde,
+– man nicht wolle, dass der Innenstadtbereich zugeparkt werde,
 
- der Bauherr für ausreichend Parkflächen sorgen müsse oder
+– der Bauherr für ausreichend Parkflächen sorgen müsse oder
 
- dass sich die politische Lage nach der Bezirksversammlungswahl
+– dass sich die politische Lage nach der Bezirksversammlungswahl
 
 ändern könne?
 

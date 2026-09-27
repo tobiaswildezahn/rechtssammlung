@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 16
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53899"
@@ -78,6 +79,6 @@ Enthielt beziehungsweise enthält er bereits belastbare Aussagen zur Abwicklung 
 
 Gibt es mittlerweile bereits eine Neufassung des Abwicklungsplans oder den Entwurf einer solchen beziehungsweise wird derzeit hieran gearbeitet? a. Wenn ja, seit wann liegt diese Neufassung vor beziehungsweise bis wann soll sie vorliegen? b. Welche Änderungen haben sich gegenüber dem ersten Abwicklungsplan ergeben, insbesondere bezüglich des Abwicklungszeitraums und -volumens?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Abwicklungsplanung enthält konkrete Aussagen zum geplanten Portfolioablauf und möglichen Erträgen auf aggregierter Gesamtportfolioebene. Grundlage ist eine Ablaufplanung und Cash-Flow-Modellierung auf Einzelschiffsebene. Aufgrund von Anpassungen am Übertragungsportfolio und zwischenzeitlich zusätzlich verfügbarer Kreditinformationen erfolgt derzeit eine Fortschreibung und Konkretisierung der Abwicklungsplanung, die wie die Planungen und Überlegungen im Übrigen noch nicht abgeschlossen ist.

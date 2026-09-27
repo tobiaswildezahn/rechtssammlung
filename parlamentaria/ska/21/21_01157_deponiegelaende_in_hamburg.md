@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/569", "21/372"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49344"
@@ -63,45 +64,45 @@ Von der FHH wurden im Rahmen der Altlastensanierung folgende ehemalige Deponien 
 
 Durch Abdeckung:
 
- 6830-004/01 (Deponie Georgswerder): grüne Oberflächenabdichtung, Stauflüssig-
+– 6830-004/01 (Deponie Georgswerder): grüne Oberflächenabdichtung, Stauflüssig-
 
 keitsfassung und -aufbereitung, Deponiegasförderung, Grundwasserförderung und -aufbereitung,
 
- 6428-003/00 (Deponie Pollhornweg Ost): grüne Oberflächenabdichtung, Stauwas-
+– 6428-003/00 (Deponie Pollhornweg Ost): grüne Oberflächenabdichtung, Stauwas-
 
 serfassung und -aufbereitung, Deponiegasdrainage,
 
- 7432-002/00 (Deponie Brümmer): grüne Oberflächenabdichtung, flache Stahl-
+– 7432-002/00 (Deponie Brümmer): grüne Oberflächenabdichtung, flache Stahl-
 
 spundwand, Stauflüssigkeitsförderung und -aufbereitung,
 
- 7240-006/01 (Deponie Eckerkoppel): grüne qualifizierte Abdeckung, Stau- und
+– 7240-006/01 (Deponie Eckerkoppel): grüne qualifizierte Abdeckung, Stau- und
 
 Grundwasserförderung und -aufbereitung.
 
 Durch Kapselung:
 
- 6430-002/01 (Deponie Neuhöfer Straße): Asphalt-Oberflächenabdichtung für
+– 6430-002/01 (Deponie Neuhöfer Straße): Asphalt-Oberflächenabdichtung für
 
 Hafennutzung, umschließende Stahlspundwand, Deponiegasdrainage,
 
- 7030-001/00 (Moorfleeter Brack): grüne und Asphalt-Oberflächenabdichtung,
+– 7030-001/00 (Moorfleeter Brack): grüne und Asphalt-Oberflächenabdichtung,
 
 umschließende tiefe Schlitzwand, Stauwasserförderung und -aufbereitung,
 
- 6040-002/01 (Dose-Fläche) innerhalb der Kapsel Ottensener Straße: umschlie-
+– 6040-002/01 (Dose-Fläche) innerhalb der Kapsel Ottensener Straße: umschlie-
 
 ßende tiefe Schlitzwand, Grundwasserförderung und -aufbereitung.
 
 Durch Wasserfassung:
 
- 6830-002/01 (Deponie Müggenburger Straße): flache Stahlspundwand am Süd-
+– 6830-002/01 (Deponie Müggenburger Straße): flache Stahlspundwand am Süd-
 
 rand, Stauwasserfassung und -förderung.
 
 Durch Gasfassung:
 
- 5640-001/00 (Deponie Böverstland): Deponiegasförderung.
+– 5640-001/00 (Deponie Böverstland): Deponiegasförderung.
 
 ### Frage 4
 
@@ -119,15 +120,15 @@ Welche der stillgelegten Deponieflächen sind für eine Wohnbebauung vorgesehen 
 
 Konkret geplant (zurzeit aktiv betriebene Bebauungsplanvorhaben) ist eine Wohnnutzung in folgenden Fällen:
 
- Weidenbaumsweg, (Bergedorf 113) Flurstück-Nummer: 7828-002/00 im Bezirk
+– Weidenbaumsweg, (Bergedorf 113) Flurstück-Nummer: 7828-002/00 im Bezirk
 
 Bergedorf,
 
- Nedderfeld, (Großborstel 25) Flurstück-Nummer 6440-045/00, im Bezirk Hamburg-
+– Nedderfeld, (Großborstel 25) Flurstück-Nummer 6440-045/00, im Bezirk Hamburg-
 
 Nord und
 
- Süderfeldstraße, (Lokstedt 62) Flurstück-Nummer: 6440-004/01, im Bezirk Eims-
+– Süderfeldstraße, (Lokstedt 62) Flurstück-Nummer: 6440-004/01, im Bezirk Eims-
 
 büttel.
 

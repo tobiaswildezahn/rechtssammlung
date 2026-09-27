@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51671"
@@ -140,7 +141,7 @@ Wie lautet die Rundverfügung des Leitenden Oberstaatsanwaltes vom
 Januar 1995 in der Fassung vom 3. August 2007, mit der die Staatsanwaltschaft angewiesen ist, bei der Einstellung von Verfahren gegen Geldauflagen die Zahlung in den Sammelfonds zu beantragen? (Bitte beifügen.)
 7. Aus welchem Grund und in wie vielen Fällen wurde die Rundverfügung von der Staatsanwaltschaft nicht beachtet?
 
-#### Antwort zu Fragen 6, 9
+#### Antwort zu Fragen 6 und 9
 
 Der Senat sieht grundsätzlich davon ab, Akten oder Aktenbestandteile im Wortlaut zu veröffentlichen. Dies käme im Ergebnis einer Aktenvorlage gleich. Diese ist gemäß Artikel 30 HV an Voraussetzungen gebunden, die hier nicht vorliegen.
 

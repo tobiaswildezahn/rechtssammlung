@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 17
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16324", "21/11140", "21/12044"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66903"
@@ -43,7 +44,7 @@ Wie ist es um die Mehrsprachigkeit der Beratung, der Anmeldung und des Informati
 
 Ist es richtig, dass für das Beratungsgespräch optional eine Videodolmetschung zur Verfügung steht? Falls ja: a. Für welche Sprachen ist das Angebot verfügbar? b. Wie schnell ist eine Dolmetschung verfügbar? c. Wie werden Betroffene über dieses Angebot informiert? d. Wie häufig wurde das Angebot bisher genutzt? Bitte nach Jahren aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Fachamt „Beratungen, Erlaubnisse und Anmeldungen nach dem Prostituiertenschutzgesetz“ (FA-BEA*Pro) und bei der gesundheitlichen Beratung für Sexarbeiterinnen und Sexarbeiter in Hamburg nach dem Prostituiertenschutzgesetz (GESAH 14) können Informations- und Beratungsgespräche aktuell in folgenden Sprachen durch das Video-Dolmetschen von SAVD-Wien angeboten werden:
 
@@ -223,7 +224,7 @@ c. der Runde Tisch für Prostitution
 nach aktuellem Kenntnisstand die Effekte des Gesetzes? Wird das  
 Gesetz als zielführend wahrgenommen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Das ProstSchG selbst sieht nach § 38 ProstSchG eine Evaluation ab 2022 vor. Eine eigenständige Evaluation auf Landesebene ist nicht geplant. Zur Bewertung der Effekte des Gesetzes kann noch keine Aussage getroffen werden. Siehe Drs. 21/16324 und 21/12044.
 

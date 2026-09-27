@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12452", "21/3955", "21/8795"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68379"
@@ -43,7 +44,7 @@ Wie hat sich die Zahl von Diebstählen an motorisierten Zweirädern (PKS-Schlüs
 
 Wie hoch ist die entsprechende Aufklärungsquote jeweils gewesen beziehungsweise wie viele gestohlene Teile an Zweirädern beziehungsweise Kraftwagen sind wieder in den Besitz der Berechtigten übergegangen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Polizeiliche Kriminalstatistik (PKS) ist auf Jahresauswertungen ausgelegt. Innerhalb eines Berichtsjahres unterliegt der PKS-Datenbestand einer ständigen Pflege, zum Beispiel durch Hinzufügen von nachträglich ermittelten Tatverdächtigen oder der Herausnahme von Taten, die sich im Nachhinein nicht als Straftat erwiesen haben.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12324", "21/17490"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69348"
@@ -41,7 +42,7 @@ An welchen Stellen wurde in den Jahren 2018 und 2019 städtischer Büroraum neu 
 
 An welchen Stellen wurde in den Jahren 2018 und 2019 städtischer Büroraum aufgegeben? Bitte jeweils a. Name der Behörde, des Bezirks- oder Senatsamts, des Landesbetriebes, der Einrichtung, des Sondervermögens oder des öffentlichen Unternehmens mit städtischer Mehrheitsbeteiligung, b. genaue Lage, c. angemietete Gesamtfläche, d. Miete pro Quadratmeter, e. Laufzeit des Mietvertrages, f. Anzahl der dort untergebrachten Arbeitsplätze beziehungsweise Mitarbeiter und g. Grund für die Aufgabe (gegebenenfalls Bezug zu Frage 1. herstellen) angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1. Im Übrigen sieht der Senat zur Wahrung seiner Verhandlungsposition sowie der Betriebs- und Geschäftsgeheimnisse seiner Vertragspartner in ständiger Praxis grundsätzlich davon ab, sich zu einzelnen Vertragsinhalten wie zum Beispiel Miete pro Quadratmeter und Laufzeit des Mietvertrages zu äußern.
 

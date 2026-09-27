@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12807", "21/3565"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52103"
@@ -233,7 +234,7 @@ Wie sieht der Vergleich mit anderen deutschen Großstädten (mehr als 500.000 Ei
 
 Ist der Senat beziehungsweise die zuständige Behörde mit den aktuellen Zielerreichungsgraden, auch im Hinblick auf den Vergleich zu anderen Großstädten, zufrieden? Bitte begründen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Festlegung der Hilfsfristen und die Datenerhebung sind bundesweit uneinheitlich, ein Vergleich ist daher nicht möglich. Darüber hinaus nimmt der Senat zu Daten anderer Städte grundsätzlich keine Stellung.
 

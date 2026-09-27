@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3171", "21/2698"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51716"
@@ -49,7 +50,7 @@ Enthält die in Drs. 21/2698 dargestellte Ablaufbilanz der GTH- besicherten Verb
 
 Wie sieht die in Drs. 21/2698 dargestellte Ablaufbilanz für die GTH unter Berücksichtigung der entsprechenden Pensionsverpflichtungen der HSH Nordbank aus? (Bitte strukturelle Rückstellungsentwicklung unter Annahme eines konstanten, für die derzeit aktuellste vorliegende Bilanz gültigen Diskontierungszinses berücksichtigen.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Angaben in Drs. 21/2698 beziehen sich ausschließlich auf gewährträgerbehaftete Verbindlichkeiten, die der Refinanzierung der HSH dienen. Detaillierte versicherungsmathematische Auswertungen zum zeitlichen Ablauf der gewährträgerbehafteten Pensionsverpflichtungen liegen der Bank nicht vor. Im Übrigen siehe Drs 21/3171.
 

@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 46460
 seiten: 3
 fragen: 2
-einzelfragen: 4
-antwortbloecke: 2
+einzelfragen: 12
+antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50880"
@@ -50,9 +51,12 @@ Die Planungen im Rahmen der Machbarkeitsstudie, die im Wesentlichen die Leistung
 ### Frage 2
 
 Gemäß der oben genannten Mitteilung an die Bezirksversammlung Wandsbek wurde nach einer Variantenprüfung entschieden, dass der Aufzug an der Haltestelle Meiendorfer Weg in die Treppenanlage integriert werden soll. Dadurch wird die an dieser Haltestelle sehr lange Treppe deutlich verengt.
-2.1. Aus welchen Gründen im Einzelnen wurde diese Variante ausgewählt? Welche weiteren Varianten wurden mit welchem Ergebnis untersucht?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Aus welchen Gründen im Einzelnen wurde diese Variante ausgewählt? Welche weiteren Varianten wurden mit welchem Ergebnis untersucht?
+
+#### Antwort zu Fragen 2 und 2.1
 
 Im Rahmen der Machbarkeitsstudie wurden folgende drei Varianten untersucht:
 
@@ -66,45 +70,69 @@ Variante 3: Barrierefreie Erschließung über einen Tunnelstich zwischen P+R- Pa
 
 Die Variantenbewertung erfolgte anhand der folgenden Grundparameter:
 
-• Funktionale Qualität für den Fahrgast
+– Funktionale Qualität für den Fahrgast
 
-• Städtebau und Gestaltung
+– Städtebau und Gestaltung
 
-• Genehmigungsfähigkeit/Verkehr
+– Genehmigungsfähigkeit/Verkehr
 
-• Bauausführung/Betriebseinschränkungen
+– Bauausführung/Betriebseinschränkungen
 
-• Baulicher Aufwand einschließlich Baukosten
+– Baulicher Aufwand einschließlich Baukosten
 
-• Betrieblicher Aufwand einschließlich Betriebskosten
+– Betrieblicher Aufwand einschließlich Betriebskosten
 
 Unter Berücksichtigung von vorab einvernehmlich festgelegten Gewichtungs- und Wertungskriterien konnte die Variante 2 mit Abstand die meisten Punkte erzielen und wurde somit als Vorzugsvariante definiert.
 
-2.2. Welche Kostenschätzungen lagen für die untersuchten Varianten jeweils vor?
+### Frage 2.2
+
+Welche Kostenschätzungen lagen für die untersuchten Varianten jeweils vor?
+
+#### Antwort zu Frage 2.2
 
 Im Zuge der Variantenbewertung wurden die Kosten für alle Varianten geschätzt und entsprechend in die Bewertung aufgenommen. Dabei waren die Varianten 1 und 3 deutlich teurer als die Vorzugsvariante 2. In der Variante 1 wären umfangreiche Eingriffe in die Bausubstanz und vorhandene technische Einrichtungen (Nachrichtentechnik) erforderlich gewesen. Die Variante 3 hätte unter anderem einen umfangreichen Verbau zur Herstellung des Tunnelstichs bedingt. Dafür wären der Bahnsteig und das Dach in einem größeren Umfang abzutragen gewesen.
 
 Entsprechend der Aufgabenstellung wurde eine belastbare Kostenschätzung nur für die Vorzugsvariante (hier Variante 2) ermittelt. Die Gesamtkosten einschließlich Planung belaufen sich nach dieser Kostenschätzung auf rund 1,6 Millionen Euro und beinhalten einen entsprechenden Aufschlag für die in dieser Planungsphase noch vorhandenen Unsicherheiten.
 
-2.3. Wie breit ist die Treppenanlage derzeit? Welche Breite wird die Treppenanlage nach dem Einbau des Aufzuges haben?
+### Frage 2.3
+
+Wie breit ist die Treppenanlage derzeit? Welche Breite wird die Treppenanlage nach dem Einbau des Aufzuges haben?
+
+#### Antwort zu Frage 2.3
 
 Die derzeitige Treppe hat eine Breite von 3,48 m. Nach derzeitigen Planungen wird die Treppenbreite nach Abschluss der Baumaßnahmen 1,80 m betragen.
 
-2.4. Welche Richtlinien und Vorgaben gibt es für die Treppenbreite von U-Bahn-Haltestellen? Aus welchen Gründen kann davon abgewichen werden?
+### Frage 2.4
+
+Welche Richtlinien und Vorgaben gibt es für die Treppenbreite von U-Bahn-Haltestellen? Aus welchen Gründen kann davon abgewichen werden?
+
+#### Antwort zu Frage 2.4
 
 Im Regelwerk der HOCHBAHN wird eine dem Bedarf angemessene Treppenbreite, mindestens aber eine Breite von 2,40 m gefordert. Dies korrespondiert mit den geltenden technischen Regelwerken. Eine Abweichung kann nur mit Zustimmung des Betriebsleiters und der Technischen Aufsichtsbehörde (TAB) vorgenommen werden. Für eine Abweichung sind belastbare Unterlagen und Gutachten vorzulegen, die einen sicheren und ordnungsmäßen Betrieb auch mit der reduzierten Treppenbreite ermöglichen. Die Zustimmung der TAB liegt aufgrund der bisherigen Untersuchungen vor.
 
-2.5. Welches Ergebnis im Einzelnen hatte die im November 2014 durchgeführte Fahrgastzählung?
+### Frage 2.5
+
+Welches Ergebnis im Einzelnen hatte die im November 2014 durchgeführte Fahrgastzählung?
+
+#### Antwort zu Frage 2.5
 
 Grundlage für eine Fahrgastsimulation ist die Erhebung von realitätsnahen Eingangswerten. Zu diesem Zweck wurden am 4. und 13. November 2014 Fahrgasterhebungen während der morgendlichen und abendlichen Spitzenstunden durchgeführt. Im ersten Erhebungstermin wurde die vorhandene Treppenanlage durch Absperrelemente auf den geplanten Zustand (Breite 1,80 m) reduziert. Im zweiten Termin wurde die
 
 Erhebung mit der vorhandenen Treppenbreite (Breite 3,48 m) durchgeführt. Dieses Vorgehen ermöglichte einen direkten Vergleich zwischen der Bestandstreppenanlage und der geplanten Treppenanlage. Als Eingangskenngröße wurde die Anzahl der Fahrgäste erhoben, welche nach Einfahrt eines Zuges die Treppenanlage abwärts und aufwärts begehen. Zwischen den einzelnen Zügen wurde als weitere Eingangsgröße die ungestörte Reisezeit zur Begehung der Treppenanlage ermittelt. Die Auswertung der Fahrgasterhebungen zeigt, dass keine Erhöhung der Reisezeit bei Reduzierung der Treppenbreite auf 1,80 m zu erkennen ist.
 
-2.6. Warum genau erfolgte die Fahrgasterhebung im Monat November, wenn unter anderem im direkt angrenzenden und zeitweise von vielen Schülergruppen besuchten Kletterwald Winterpause ist?
+### Frage 2.6
+
+Warum genau erfolgte die Fahrgasterhebung im Monat November, wenn unter anderem im direkt angrenzenden und zeitweise von vielen Schülergruppen besuchten Kletterwald Winterpause ist?
+
+#### Antwort zu Frage 2.6
 
 Die Fahrgasterhebung erfolgt grundsätzlich in der morgendlichen und abendlichen Spitzenstunde, die maßgeblich durch den Schüler- und Berufsverkehr geprägt wird. Insofern sollte diese nicht in den Ferien erhoben werden. Die Nutzung des Kletterwaldes spielt nur eine untergeordnete Rolle für die Datenqualität der Fahrgasterhebung.
 
-2.7. Welche Szenarien wurden im Einzelnen in der Simulation der Fußgängerströme auf der Treppenanlage im Zuge der Variantenuntersuchung untersucht?
+### Frage 2.7
+
+Welche Szenarien wurden im Einzelnen in der Simulation der Fußgängerströme auf der Treppenanlage im Zuge der Variantenuntersuchung untersucht?
+
+#### Antwort zu Frage 2.7
 
 Die Simulation der Fußgängerströme erfolgte auf Basis des Prognoseverkehrsaufkommens für das Jahr 2030 und berücksichtigt die Entwicklungen im U-Bahn- und Busverkehr. In der Prognose wurde hierbei nicht das mittlere tägliche Fahrgastaufkommen, sondern das maximale Fahrgastaufkommen im Jahr 2030 berücksichtigt (Worst–Case-Fall). Hierbei wurden Simulationsläufe der Bestandstreppenbreite von 3,48 m mit der geplanten Treppenbreite von 1,80 m verglichen.
 

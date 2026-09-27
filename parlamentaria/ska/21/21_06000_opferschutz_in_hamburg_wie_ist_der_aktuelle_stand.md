@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 20
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10994", "21/4174", "21/2829", "21/5000", "21/4625", "21/5359"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54507"
@@ -59,15 +60,15 @@ Welche Maßnahmen trifft der Senat, um die Opfer über ihre Rechte und Möglichk
 
 Entsprechend ihrem gesetzlichen Auftrag gemäß 3. Opferrechtsreformgesetz (ORGG) (http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*%5b @attr_id='bgbl115s2525.pdf'%5d#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl11 5s2525.pdf%27%5D__1474378238714) informieren Polizei und Staatsanwaltschaft regelhaft schriftlich mittels diverser Informationsmaterialien Opfer über ihre Rechte und Unterstützungsmöglichkeiten im Strafverfahren. Hierzu werden ausgehändigt beziehungsweise übersandt:
 
- die Merkblätter „Verletztenrechte“ und „Adhäsionsverfahren“ der Justiz (http://justiz.hamburg.de/merkblaetter/). Das Merkblatt „Verletztenrechte“ liegt in den Sprachen Deutsch, Englisch, Spanisch, Polnisch, Russisch, Arabisch, Persisch, Französisch, Rumänisch, Italienisch, Tschechisch, Litauisch, Albanisch, Ungarisch, Bulgarisch, Portugiesisch, Niederländisch, Serbisch, Griechisch, Kroatisch und Vietnamesisch vor. Vor dem Hintergrund des ORRG, das Geschädigten
+– die Merkblätter „Verletztenrechte“ und „Adhäsionsverfahren“ der Justiz (http://justiz.hamburg.de/merkblaetter/). Das Merkblatt „Verletztenrechte“ liegt in den Sprachen Deutsch, Englisch, Spanisch, Polnisch, Russisch, Arabisch, Persisch, Französisch, Rumänisch, Italienisch, Tschechisch, Litauisch, Albanisch, Ungarisch, Bulgarisch, Portugiesisch, Niederländisch, Serbisch, Griechisch, Kroatisch und Vietnamesisch vor. Vor dem Hintergrund des ORRG, das Geschädigten
 
 weitere Informationsrechte einräumt, hat die Polizei ein zusätzliches Merkblatt erstellt. Dies ist dem Opfermerkblatt der Justiz angefügt und steht in deutscher Sprache zur Verfügung. Die Merkblätter werden zurzeit überarbeitet.
 
- die Faltblätter zum Opferentschädigungsgesetz (OEG) und „Trauma-Ambulanz“
+– die Faltblätter zum Opferentschädigungsgesetz (OEG) und „Trauma-Ambulanz“
 
 der Behörde für Arbeit, Soziales, Familie und Integration (BASFI)/Versorgungsamt Hamburg. Beide Faltblätter stehen in deutscher Sprache zur Aushändigung und in den Sprachen Englisch, Spanisch, Polnisch, Russisch und Türkisch bei Bedarf elektronisch zum Ausdruck zur Verfügung. (http://www.hamburg.de/gewaltopfer/ 115668/faltblatt-gewaltopferentschaedigung/ und http://www.hamburg.de/traumaambulanz/)
 
- die Broschüren der Polizei Hamburg „Ihre wichtigsten Rechte als Opfer einer Straf-
+– die Broschüren der Polizei Hamburg „Ihre wichtigsten Rechte als Opfer einer Straf-
 
 tat“ sowie „Opferhilfeeinrichtungen und Beratungsstellen“. Die in den Broschüren enthaltenen Informationen stehen auch als Quick-Response-Code (QR-Code) als Download zur Verfügung (http://www.hamburg.de/polizei/kriminalpraevention/).
 

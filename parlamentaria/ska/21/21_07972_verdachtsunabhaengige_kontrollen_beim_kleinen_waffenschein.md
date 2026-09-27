@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56609"
@@ -43,51 +44,51 @@ Wie viele Arten von genehmigungspflichtigen Waffen und Berechtigungen (zum Beisp
 
 Die Arten erlaubnispflichtiger Waffen ergeben sich aus Anlage 1 Abschnitt 1 in Verbindung mit Anlage 2 Abschnitt 2 zu § 1 Absatz 4 WaffG .Die zentralen Kriterien für alle waffenrechtlichen Erlaubnisse ergeben sich aus § 4 Absatz 1 WaffG. Darüber hinaus erforderliche Kriterien für die Erlaubniserteilung ergeben sich aus den §§ 10 bis 35 und 55 WaffG. Nach dem Waffengesetz werden folgende Genehmigungen erteilt:
 
- Standard-Waffenbesitzkarte
+– Standard-Waffenbesitzkarte
 
- Waffenhandelserlaubnis
+– Waffenhandelserlaubnis
 
- Stellvertretererlaubnis Waffenhandel
+– Stellvertretererlaubnis Waffenhandel
 
- Gewerbliche Waffenherstellungserlaubnis
+– Gewerbliche Waffenherstellungserlaubnis
 
- Private Waffenherstellungserlaubnis
+– Private Waffenherstellungserlaubnis
 
- Ausnahmegenehmigung vom Verbot des Führens bei öffentlichen Veranstaltungen
+– Ausnahmegenehmigung vom Verbot des Führens bei öffentlichen Veranstaltungen
 
- Sportschützen-Waffenbesitzkarte (bis 31. März 2003)
+– Sportschützen-Waffenbesitzkarte (bis 31. März 2003)
 
- Sportschützen-Waffenbesitzkarte (ab 1. April 2003)
+– Sportschützen-Waffenbesitzkarte (ab 1. April 2003)
 
- Schießerlaubnis
+– Schießerlaubnis
 
- Allgemeine Ausfuhrerlaubnis in Mitgliedsstaaten der Europäischen Union
+– Allgemeine Ausfuhrerlaubnis in Mitgliedsstaaten der Europäischen Union
 
- Europäischer Feuerwaffenpass
+– Europäischer Feuerwaffenpass
 
- Waffenbesitzkarte für Sammler
+– Waffenbesitzkarte für Sammler
 
- Waffenbesitzkarte für Vereine
+– Waffenbesitzkarte für Vereine
 
- Mitbenutzererlaubnis zur gemeinsamen WBK
+– Mitbenutzererlaubnis zur gemeinsamen WBK
 
- Munitionserwerbsschein
+– Munitionserwerbsschein
 
- Kleiner Waffenschein
+– Kleiner Waffenschein
 
- Waffenschein
+– Waffenschein
 
- Erwerbsberechtigung für Kurzwaffen (Voreintrag)
+– Erwerbsberechtigung für Kurzwaffen (Voreintrag)
 
- Waffentrageberechtigung
+– Waffentrageberechtigung
 
- Maritime Sicherheit
+– Maritime Sicherheit
 
- Bescheinigung zum Erwerb, Besitz und des Führens für Personen, die wegen der
+– Bescheinigung zum Erwerb, Besitz und des Führens für Personen, die wegen der
 
 von ihnen wahrzunehmenden hoheitlichen Aufgaben erheblich gefährdet sind
 
- Betrieb einer Schießstätte
+– Betrieb einer Schießstätte
 
 ### Frage 2
 

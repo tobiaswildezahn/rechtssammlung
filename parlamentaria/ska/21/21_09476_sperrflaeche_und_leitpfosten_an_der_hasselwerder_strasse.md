@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58241"
@@ -83,7 +84,7 @@ Trifft es zu, dass die meisten Leitpfosten inzwischen entfernt wurden? Wenn ja, 
 
 Welche Kosten hat die Entfernung von Leitpfosten verursacht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Von den neun angeordneten Leitpfosten wurden vier Stück vor kurzem gestohlen. Sie werden kurzfristig ersetzt.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53602"
@@ -45,7 +46,7 @@ Wie viele Kinder nehmen seit dem Schuljahr 2010/2011 nach § 12 (5) HmbSG aufgru
 
 Wie viele dieser Kinder erhalten den vorgesehenen Haus- und Krankenhausunterricht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Erkrankte Schülerinnen und Schüler nehmen von Sorgeberechtigten entschuldigt oder ärztlicherseits verordnet nicht am Unterricht teil. Sie werden von der jeweiligen Stammschule erfasst, nicht jedoch zentral durch die zuständige Behörde. Sind Schülerinnen oder Schüler längere Zeit oder auf Dauer erkrankt, können die Sorgeberechtigten einen Antrag auf Beschulung durch das Bildungs- und Beratungszentrum Pädagogik bei Krankheit/Autismus (BBZ; ehemals: Haus- und Krankenhausunterricht HuK) stellen. In Einzelfällen, zum Beispiel bei schwer beziehungsweise länger erkrankten Schülerinnen und Schülern, kann es zu verzögerter Antragstellung kommen.
 

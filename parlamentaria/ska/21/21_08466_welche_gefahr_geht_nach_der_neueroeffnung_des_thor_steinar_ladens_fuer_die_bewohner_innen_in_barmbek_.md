@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 14
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57218"
@@ -125,7 +126,7 @@ Welche Einheiten und wie viele Dienstkräfte der Polizei wurden am
 
 März anlässlich der Demonstration eingesetzt? (Bitte auch die Anzahl der Zivilpolizisten und Kontaktbereichsbeamten angeben.)
 
-#### Antwort zu Fragen 8, 10
+#### Antwort zu Fragen 8 und 10
 
 Anlässlich der Versammlung am 10. März 2017 wurden insgesamt 411 Polizeibeamte der Direktion Polizeikommissariate und Verkehr, der Direktion Einsatz und des Landeskriminalamtes eingesetzt. Im Übrigen berührt die Frage die Einsatztaktik der Polizei. Von weiteren Angaben wird daher abgesehen, um zukünftige polizeiliche Maßnahmen nicht zu gefährden.
 

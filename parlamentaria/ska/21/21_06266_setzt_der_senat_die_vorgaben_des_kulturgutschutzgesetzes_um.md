@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 11
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54777"
@@ -93,15 +94,15 @@ c) In wie vielen Fällen wurde positiv oder negativ beziehungsweise zustimmend o
 
 Die Vorschriften des Gesetzes beziehen sich insgesamt auf Kulturgüter, nicht nur auf Kunstwerke oder Kunstgegenstände. Zur Einfuhr siehe Vorbemerkung.
 
- Auf der Grundlage der Verordnung (EG) Nummer 116/2009 seit dem 1. Januar
+– Auf der Grundlage der Verordnung (EG) Nummer 116/2009 seit dem 1. Januar
 
 2016 wurden 28 Anträge zur dauernden oder vorübergehenden Ausfuhr aus dem Binnenmarkt gestellt.
 
- Auf der Grundlage des § 24 Absatz 1 Nummer 2 KGSG seit dem 6. August 2016
+– Auf der Grundlage des § 24 Absatz 1 Nummer 2 KGSG seit dem 6. August 2016
 
 wurden fünf Anträge zur dauernden Ausfuhr aus dem Bundesgebiet gestellt.
 
- Auf der Grundlage des § 22 Absatz 1 KGSG seit dem 6. August 2016 wurden
+– Auf der Grundlage des § 22 Absatz 1 KGSG seit dem 6. August 2016 wurden
 
 ebenfalls fünf Anträge zur vorübergehenden Ausfuhr aus dem Bundesgebiet gestellt.
 

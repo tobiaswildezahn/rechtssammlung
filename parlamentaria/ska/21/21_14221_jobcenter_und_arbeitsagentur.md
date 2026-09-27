@@ -11,9 +11,10 @@ fraktionen: ["AfD"]
 vorgang: 58237
 seiten: 4
 fragen: 9
-einzelfragen: 12
-antwortbloecke: 9
+einzelfragen: 16
+antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9851", "21/6921"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63629"
@@ -42,20 +43,31 @@ Der Senat beantwortet die Fragen teilweise auf der Grundlage von Auskünften von
 ### Frage 1
 
 Das Kundenreaktionsmanagement (KRM) ist das Beschwerdeinstrument bei Jobcenter team.arbeit.hamburg und Arbeitsagentur. Wie viele Beschwerden welcher Art (sachlich/personell) gingen an welchen Standorten sowohl beim KRM als auch bei „Interner Service Personal“ von 2015 bis heute ein?
-1.1. Wie viele davon waren Dienstaufsichtsbeschwerden?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Wie viele davon waren Dienstaufsichtsbeschwerden?
+
+#### Antwort zu Fragen 1 und 1.1
 
 Bei der AA sind seit Januar 2015 insgesamt 2.759 Anliegen eingegangen. Eine Unterscheidung zwischen sachlich/personell wird statistisch nicht erfasst. Im Zeitraum 2015
 – 2018 gab es eine Dienstaufsichtsbeschwerde.
 
 Seit Januar 2015 sind insgesamt 3.765 Anliegen, davon 118 Dienstaufsichtsbeschwerden, bei Jobcenter eingegangen. Eine Unterscheidung in sachlich/personell wird statistisch nicht erfasst.
 
-1.2. Wie viele Beschwerden wurden über den Eingabenausschuss oder sonstige Stellen getätigt?
+### Frage 1.2
+
+Wie viele Beschwerden wurden über den Eingabenausschuss oder sonstige Stellen getätigt?
+
+#### Antwort zu Frage 1.2
 
 Diese Informationen werden von der Agentur für Arbeit und vom Jobcenter team.arbeit.hamburg statistisch nicht erfasst.
 
-1.3. Welcher Art waren die allgemeinen Beschwerden?
+### Frage 1.3
+
+Welcher Art waren die allgemeinen Beschwerden?
+
+#### Antwort zu Frage 1.3
 
 Inhaltlich erstrecken sich bei der AA die Beschwerdeanliegen auf das Verhalten der Mitarbeiterinnen und Mitarbeiter und die gesamte Bandbreite der Dienstleistungen des SGB III (Ablehnung von FbW-Maßnahmen, Bearbeitungsdauer von ALG-Anträgen),
 
@@ -126,13 +138,21 @@ in %
 2.162  
 1.296
 
-2.1. Welche Unterschiede resultieren daraus (Entlohnung, Arbeitsvertrag et cetera)?
+### Frage 2.1
+
+Welche Unterschiede resultieren daraus (Entlohnung, Arbeitsvertrag et cetera)?
+
+#### Antwort zu Frage 2.1
 
 Für die AA siehe Antwort zu 2.
 
 Für die BA-Beschäftigten von Jobcenter findet der Tarifvertrag der BA (TV-BA) Anwendung beziehungsweise die bundesrechtlichen Beamtenregelungen. Für die FHH-Beschäftigten des Jobcenters gilt der Tarifvertrag für den öffentlichen Dienst der Länder (TV-L) beziehungsweise die Landesrechtlichen Beamtengesetze. Aufgrund der Tarifverträge ergeben sich Unterschiede in der Vergütung der Beschäftigten.
 
-2.2. Differieren die Unterschiede zwischen Freier und Hansestadt Hamburg und Bundesagentur auch in Bezug auf Einstellungsvoraussetzungen potenzieller Mitarbeiter? Bitte konkret benennen.
+### Frage 2.2
+
+Differieren die Unterschiede zwischen Freier und Hansestadt Hamburg und Bundesagentur auch in Bezug auf Einstellungsvoraussetzungen potenzieller Mitarbeiter? Bitte konkret benennen.
+
+#### Antwort zu Frage 2.2
 
 Für die AA siehe Antwort zu 2.
 

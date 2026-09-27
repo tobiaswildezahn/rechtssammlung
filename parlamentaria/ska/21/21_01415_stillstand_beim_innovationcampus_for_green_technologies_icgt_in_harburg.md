@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 18
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11183", "19/4848"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49626"
@@ -77,6 +78,6 @@ Gibt es außer der Finanzierungsfrage weitere Gründe für die mittlerweile sich
 
 Kann der Senat eine verbindliche Auskunft darüber geben, ob und wann das ICGT in Harburg doch noch realisiert werden kann? Wenn ja, wann wird die Realisierung erfolgen und wie sieht der konkrete Zeitplan aus? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 1. bis 3.

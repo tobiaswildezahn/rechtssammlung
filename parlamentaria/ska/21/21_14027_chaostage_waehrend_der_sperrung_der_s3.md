@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63426"
@@ -43,17 +44,17 @@ Zwischen den S-Bahn-Haltstellen Wilhelmsburg und Harburg-Rathaus war aufgrund vo
 
 Für den Erhalt und den Ausbau des Schienennetzes müssen unabdingbare, umfangreiche Baumaßnahmen auf den Bahnhöfen und im Schienennetz durchgeführt werden. Nur so ist die Leistungsfähigkeit des Netzes zu erhalten. Um für zukünftige Bauzeiten eine Überlastung der Ersatzverkehre sicher ausschließen zu können, wurden folgende Maßnahmen zwischen den betroffenen Verkehrsunternehmen, der Deutschen Bahn AG, dem HVV und dem Senat verabredet:
 
- Eine zeitliche und räumliche Überlagerung mehrerer Baumaßnahmen, beispiels-
+– Eine zeitliche und räumliche Überlagerung mehrerer Baumaßnahmen, beispiels-
 
 weise parallel auf S- und Regionalbahnlinien, soll möglichst vermieden werden. Wenn beispielsweise im Bereich der S-Bahn gebaut wird, muss gewährleistet sein, dass die Regionalzüge aus diesem Raum ohne Probleme den Hauptbahnhof erreichen können.
 
- Der Schienenersatzverkehr wird leistungsfähiger gestaltet.
+– Der Schienenersatzverkehr wird leistungsfähiger gestaltet.
 
- Die Fahrgastlenkung und -information vor Ort wird mit zusätzlichem Sicherheits-
+– Die Fahrgastlenkung und -information vor Ort wird mit zusätzlichem Sicherheits-
 
 und Servicepersonal verbessert.
 
- Die digitale Fahrplanauskunft wird noch stärker zur Verkehrsstromlenkung einge-
+– Die digitale Fahrplanauskunft wird noch stärker zur Verkehrsstromlenkung einge-
 
 setzt.
 
@@ -87,7 +88,7 @@ Wie viele S-Bahn-Züge mit welcher Platzkapazität verkehren üblicherweise mont
 
 Wie viele S-Bahn-Züge mit welcher Platzkapazität verkehren üblicherweise montags bis freitags während der Sommerferien zwischen Hauptbahnhof und Wilhelmsburg? Bitte je Stunde angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Das Angebot während der Sommerferien unterscheidet sich nicht von den anderen Zeiten. Die Linie S3 verkehrt auf dem Abschnitt Harburg – Hamburg-Hauptbahnhof tagsüber im Zehn-Minuten-Betrieb mit Vollzügen (sechs Wagen mit insgesamt 416 Sitzplätzen) in den Randlagen verkehrt sie im 20-Minuten-Betrieb. In den Hauptverkehrszeiten fahren auf der Linie S3 zeitweise auch Langzüge (Neun-Wagen-Züge mit insgesamt 624 Sitzplätzen). Die Linie S31 verkehrt zwischen 5.50 Uhr und 20.20 Uhr im Zehn-Minuten-Betrieb mit Vollzügen (sechs Wagen) von/nach Harburg. Dabei verkehren je Werktag und Richtung 207 Fahrten, davon sind 114 Fahrten je Richtung Fahrten der Linie S3.
 
@@ -155,7 +156,7 @@ In welchen Zeiträumen erfolgte die Freigabe von Zügen des DB-Fernverkehrs für
 
 Durch wen und wann wurde die DB Fernverkehr AG wegen einer möglichen Freigabe der Fernverkehrszüge erstmalig angesprochen?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Züge des Fernverkehrs waren von Montag, 30. Juli 2018 bis Freitag, 10. August 2018 freigegeben. Die Freigabe bestand jeweils von Montag bis Donnerstag und am Freitag bis 10 Uhr.
 

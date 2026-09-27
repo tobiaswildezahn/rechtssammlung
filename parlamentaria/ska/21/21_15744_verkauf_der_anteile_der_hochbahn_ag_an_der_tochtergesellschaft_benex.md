@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 24
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14545", "21/15697"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65238"
@@ -69,7 +70,7 @@ Wurden Closing-Bedingungen für den rechtskräftigen Abschluss des Verkaufs der 
 
 Wie wurde die Frage der Nachhaftung geregelt? Welche Risiken bestehen hierdurch noch bis wann für die HHA?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/15697.
 

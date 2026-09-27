@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 21
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12262"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49418"
@@ -149,19 +150,19 @@ Welche Forderungen beziehungsweise Anmerkungen, die im Rahmen der Anhörung zum 
 
 Die im Rahmen der Anhörung eingegangenen Stellungnahmen befinden sich derzeit noch in der Auswertung. Im Rahmen der für eine Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit ist es nicht möglich, diese im Einzelnen aufzuführen. Generell wurden Anmerkungen zu folgenden Themenbereichen gemacht (Auswahl):
 
- Forderung nach weiteren Maßnahmen an der Elbe,
+– Forderung nach weiteren Maßnahmen an der Elbe,
 
- Forderung der Reduzierung von Wärmeeinleitung in die Elbe,
+– Forderung der Reduzierung von Wärmeeinleitung in die Elbe,
 
- Forderung nach intensiveren Monitoringmaßnahmen,
+– Forderung nach intensiveren Monitoringmaßnahmen,
 
- Forderung nach weiterer Reduzierung von Schadstoff- und Sedimenteinträgen in
+– Forderung nach weiterer Reduzierung von Schadstoff- und Sedimenteinträgen in
 
 die Gewässer,
 
- Forderung nach Intensivierung der Öffentlichkeitsbeteiligung,
+– Forderung nach Intensivierung der Öffentlichkeitsbeteiligung,
 
- Forderung nach Maßnahmen gegen hydraulischen Stress.
+– Forderung nach Maßnahmen gegen hydraulischen Stress.
 
 ### Frage 10
 
@@ -195,6 +196,6 @@ Ist geplant, die Maßnahmen für die Einhaltung der Wasserrahmenrichtlinie mit j
 
 Ist geplant, Maßnahmen für die Einhaltung der Wasserrahmenrichtlinie (insbesondere Renaturierung von Bachläufen) auch oberhalb und innerhalb der momentan neu ausgewiesenen Überschwemmungsgebiete durchzuführen? Wenn ja, welche Überschwemmungsgebiete betrifft dies und welche Maßnahmen sind vorgesehen?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Maßnahmen zur Umsetzung der EG-Wasserrahmenrichtlinie werden prinzipiell mit den Maßnahmen, die im Zusammenhang mit der Umsetzung der EG-Hochwasserrisikomanagement-Richtlinie durchgeführt werden, abgestimmt. Im Vordergrund steht dabei der Grundsatz, dass die jeweiligen Maßnahmen sich nicht gegenseitig negativ beeinflussen. Ein Beispiel dafür wäre, dass der Einbau von Totholz zur Strukturverbesserung in einem Gewässer den Hochwasserabfluss nicht maßgeblich behindern darf. Diese Vorgehensweise wird auch in den Überschwemmungsgebieten angewendet.

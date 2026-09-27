@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57820"
@@ -56,7 +57,7 @@ c) welche Kosten entstehen durch die Einrichtung der Ersatzparkplätze? Wenn nei
 d) warum nicht?
 e) wie soll dieser Parkplatzmangel kompensiert werden und inwiefern liegt hierfür ein entsprechendes Konzept vor?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

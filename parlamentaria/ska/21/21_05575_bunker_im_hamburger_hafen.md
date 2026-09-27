@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1311", "16/2646"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54070"
@@ -73,7 +74,7 @@ Welche Nutzungseinschränkungen entstehen durch die nahe gelegene Start- und Lan
 
 Kann Fink II betreten werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der Bunker darf aus flugsicherungstechnischen Gründen nicht betreten werden, sein Zugang ist verschlossen und versiegelt.
 
@@ -85,7 +86,7 @@ Welche Möglichkeiten werden geboten, das Gelände zu besichtigen und sich über
 
 Wie viele Besucher hat das Denkmal jährlich? (Bitte für die Jahre 2011 – 2015 angeben.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Das Gelände kann jederzeit vom Rüschweg aus besichtigt werden. Darüber hinaus informiert eine Tafel an der westlichen Slipanlage über die Geschichte des Bunkers. Zudem bietet die Finkenwerder Geschichtswerkstatt Informationsveranstaltungen zur Geschichte des Bunkers an. Diese Veranstaltungen werden von Schulklassen vor Ort und von außerhalb angefragt, in den Jahren 2011 bis 2015 vier bis fünf Mal im Jahr. Zum „Tag des offenen Denkmals“ 2013 wurden insgesamt circa 500 Besucherinnen und Besucher gezählt.
 

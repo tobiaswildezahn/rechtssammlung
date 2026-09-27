@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1917", "21/2225", "21/1121", "21/7866"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59181"
@@ -71,7 +72,7 @@ c. Als welche Art von Straftat wurden die angezeigten Fälle schließlich
 von der Polizei eingestuft? Bitte jeweils für 2.b.i. bis 2.b.iv. einzeln  
 angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Gemäß Richtlinie zur Meldung und Bearbeitung von Gewaltvorfällen an Schulen können Gewaltvorfälle bei der zuständigen Schulaufsicht, den Regionalen Bildungs- und Beratungszentren (ReBBZ) beziehungsweise dem Beratungszentrum Berufliche Schulen (BZBS), der Beratungsstelle Gewaltprävention und der Polizei Hamburg gemeldet werden. Im Schuljahr 2016/2017 wurden in der Beratungsstelle Gewaltprävention, die für die statistische Erfassung zuständig ist, von den Hamburger Schulen gemäß der Richtlinie insgesamt 231 Vorfälle erfasst. Bei diesen Vorfällen lagen polizeiliche Anzeigen vor (seit dem Schuljahr 2016/2017 wird das polizeiliche Aktenzeichen bei der schulischen Meldung erfasst). Von diesen wurden 130 Vorfälle aus 92 Schulen als Gewaltkriminalitätsdelikt gemäß Richtlinie nach dem Abgleich mit der Polizei Hamburg dokumentiert, 101 Vorfälle wurden polizeilich als andere Straftaten identifiziert.
 
@@ -146,7 +147,7 @@ Welche Erkenntnisse liegen den zuständigen Behörden vor über weitere Straftat
 
 Welche Erkenntnisse liegen den zuständigen Behörden vor über andere Straftaten in Schulen im Schuljahr 2016/2017?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Polizei erfasst Straftaten gemäß dem Straftatenkatalog der Richtlinien für die Erfassung und Verarbeitung der Daten in der Polizeilichen Kriminalstatistik (PKS). Jahresübergreifende Daten können anhand der PKS nicht dargestellt werden. Somit kann keine Aussage zu Schuljahren getroffen werden. Im Übrigen siehe Drs. 21/1121.
 
@@ -210,7 +211,7 @@ An welchen Schulen sind im Schuljahr 2016/2017 an jeweils welchem Datum Schäden
 
 Welche Schadenssumme aufgrund von Vandalismus an Schulen ist im Schuljahr 2016/2017 insgesamt entstanden?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Anlagen 2 bis 4. Die aufgeführten Schäden beinhalten auch Vandalismusschäden, die durch Einbruch und Diebstahl entstanden sind. Die Beschädigungen sind nicht eindeutig den Schülerinnen und Schülern zuzuordnen, sie könnten auch nachts oder am Wochenende von schulfremden Personen verübt worden sein. Bei SBH | Schulbau Hamburg (SBH) und GMH | Gebäudemanagement Hamburg GmbH (GMH) werden die durch Vandalismus und Sachbeschädigung entstandenen Kosten jahresgenau erfasst, siehe Drs. 21/7866. Für eine Aufschlüsselung nach einzelnen Vorfällen müssten die innerhalb eines Jahres rund 2.000 anfallenden Aufträge geprüft und zugeordnet werden, was in der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht möglich ist. Im Übrigen siehe Antworten zu 2.c) bis 4.
 

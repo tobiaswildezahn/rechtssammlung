@@ -14,6 +14,7 @@ fragen: 38
 einzelfragen: 57
 antwortbloecke: 37
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9758", "21/13273", "21/10677", "21/11001", "21/6544", "21/18061", "21/15673", "21/11471", "21/6896", "21/3665", "21/18128", "21/14927", "21/131"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68029"
@@ -860,7 +861,7 @@ c) Welche Aufgaben mit jeweils wie vielen VZÄ wurden im Jahr 2019 an jeweils we
 d) „Weitere Aufgaben werden spätestens Ende 2019 abgeschlossen sein und die Funktionen insoweit nicht mehr benötigt“, hieß es noch in Drs. 21/15673. Welche weiteren Aufgaben werden im Laufe des Jahres 2019 noch an jeweils welche weiteren Einheiten mit jeweils wie vielen VZÄ abgeben? Welche Aufgaben fallen weg?
 e) Erfolgt zum Jahresende 2019 die vollständige Auflösung des ZKF? Wenn nein, warum nicht und in welcher Struktur sollen wie viele VZÄ verbleiben?
 
-#### Antwort zu Fragen 21 bis 22
+#### Antwort zu Fragen 21 und 22
 
 Der Zentrale Koordinierungsstab Flüchtlinge (ZKF) bestand am 31. August 2019 aus 25 Mitarbeiterinnen und Mitarbeitern (23,72 VZÄ). Davon sind zwei Mitarbeiter (2,0 VZÄ) per Abordnung in einer anderen Organisationseinheit tätig. Folgende Aufgaben werden wahrgenommen:
 

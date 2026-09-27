@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8975"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65967"
@@ -78,7 +79,7 @@ c) Verkehrsströme aus der Schweriner Straße ergeben?
 
 Welche Planungsvorgaben haben wann beim LSBG vorgelegen, womit die Projektübergabe an das Bezirksamt Wandsbek zum Umbau des Kreuzungsbereiches Rahlstedter Straße/Schweriner Straße übergeben werden konnten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Anlass für die Planungen sind Hinweise auf einen Rückstau in der Schweriner Straße, da an der Ampel sowohl die Linksabbieger als auch die Rechtsabbieger warten.
 
@@ -152,6 +153,6 @@ Wurde die abgestimmte und angeordnete Maßnahme aus Bezirksversammlungs-Drs. 20-
 
 Welche Maßnahme ist dort nun geplant? Wenn keine, wie sollen die dortigen Rückstaus zukünftig vermieden werden?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Es sind noch keine Maßnahmen umgesetzt worden, da die Planung bisher noch nicht abgeschlossen wurde. Im Übrigen siehe Antworten zu 2. und zu 5.

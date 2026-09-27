@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11814"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53208"
@@ -132,7 +133,7 @@ a) Wie viele Menschen werden hier im Schnitt pro Tag abgewiesen (auch schätzung
 
 Wie beurteilt der Senat die oben beschriebene Lage und welche Perspektiven und Handlungsbedarfe sieht er diesbezüglich?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Angebote des Wohnungslosenhilfesytems werden grundsätzlich als ausreichend angesehen. Die zuständige Behörde fördert eine Vielzahl von Leistungen, die der Integration wohnungsloser und obdachloser Menschen in die Gesellschaft dienen. Hierzu gehören auch niedrigschwellige Angebote wie zum Beispiel das Herz As, die TAS Bundesstraße, Straßensozialarbeit, die Anlaufstelle für wohnungslose EU- Bürgerinnen und -Bürger (Plata) und die Krankenstube für obdachlose Menschen. Zudem werden die aus Mitteln des Europäischen Hilfsfonds für die am stärksten benachteiligten Personen (EHAP) finanzierten Projekte unterstützt. Während des Winternotprogramms 2015/2016 wurde die Platzkapazität im Bereich des Tagesaufenthalts zeitnah um 100 Plätze erhöht und die Öffnungszeiten am Wochenende wurden erweitert.
 

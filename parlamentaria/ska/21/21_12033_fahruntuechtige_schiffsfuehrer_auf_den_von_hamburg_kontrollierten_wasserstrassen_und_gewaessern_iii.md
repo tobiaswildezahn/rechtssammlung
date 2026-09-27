@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/3840", "19/6053", "20/2868", "21/5386", "21/9871"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61292"
@@ -61,21 +62,21 @@ Innerhalb Hamburgs: Zwei Ordnungswidrigkeiten und fünf Straftaten.
 
 Von den zwei Ordnungswidrigkeitenverfahren
 
- wurde eins mit einem Bußgeld von 250 Euro geahndet und
+– wurde eins mit einem Bußgeld von 250 Euro geahndet und
 
- das zweite Ordnungswidrigkeitenverfahren ist derzeit noch nicht abgeschlossen.
+– das zweite Ordnungswidrigkeitenverfahren ist derzeit noch nicht abgeschlossen.
 
 Von den fünf Strafverfahren
 
- wurde einmal eine Geldstrafe von 30 Tagessätzen zu je 40 Euro verhängt,
+– wurde einmal eine Geldstrafe von 30 Tagessätzen zu je 40 Euro verhängt,
 
- erfolgte einmal die Einstellung gemäß § 47 Jugendgerichtsgesetz beim Amtsge-
+– erfolgte einmal die Einstellung gemäß § 47 Jugendgerichtsgesetz beim Amtsge-
 
 richt nach Zahlung von 400 Euro und Teilnahme an einer Suchtberatung,
 
- ist der Ausgang von zwei Strafverfahren noch offen und
+– ist der Ausgang von zwei Strafverfahren noch offen und
 
- dauern bei einem Strafverfahren die Ermittlungen noch an.
+– dauern bei einem Strafverfahren die Ermittlungen noch an.
 
 Außerhalb des Gebiets des Hamburger Hafens: zwei Straftaten. Für dieses Gebiet ist die Staatsanwaltschaft Niedersachsen oder die Staatsanwaltschaft Schleswig-Holstein für die Verfolgung von Straftaten zuständig. Angaben über den Stand beziehungsweise Ausgang der Verfahren liegen dem Senat nicht vor.
 

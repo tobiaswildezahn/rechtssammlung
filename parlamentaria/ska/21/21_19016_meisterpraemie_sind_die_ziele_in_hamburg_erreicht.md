@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 19
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17514", "21/16744"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68699"
@@ -89,6 +90,6 @@ Welche Ziele sind mit der Prämie erreicht beziehungsweise aus welchen Gründen 
 
 Erreicht die Prämie in Hamburg die gewünschte Lenkungswirkung? a. Wenn ja, wie? b. Wenn nein, warum nicht und was muss aus Sicht des Senats konkret geändert werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Meisterprämie fördert die berufliche Weiterbildung und leistet einen Beitrag zur Gleichstellung von Studium und beruflicher Weiterbildung. Sie ist zudem eine Anerkennung für den hohen zeitlichen und finanziellen Einsatz, den die Absolventinnen und Absolventen für ihre Fortbildung aufbringen. Im Übrigen siehe Drs. 21/16744.

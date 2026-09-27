@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15481", "21/9084"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65162"
@@ -61,7 +62,7 @@ Wann genau und in welcher Form erfolgte die Abstimmung des Spendenempfängers mi
 
 In der Antwort zu der Frage 9. in der Drs. 21/15481 sagt der Senat im Zusammenhang mit der Spendenregelung: „Im Übrigen sind weitere Überlegungen noch nicht abgeschlossen.“ Sie die weiteren Überlegungen mittlerweile abgeschlossen? Wenn ja, mit welchem Ergebnis im Einzelnen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Vermieterin setzte den Zentralen Koordinierungsstab Flüchtlinge (ZKF) am 13. Dezember 2018 per E-Mail über die geplante Spendenempfängerin in Kenntnis. Der
 

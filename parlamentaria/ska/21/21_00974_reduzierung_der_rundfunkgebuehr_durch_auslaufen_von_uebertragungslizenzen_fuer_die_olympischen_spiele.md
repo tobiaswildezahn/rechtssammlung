@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49144"
@@ -47,89 +48,89 @@ Welches sind die – gemessen am Lizenzwert – 20 größten Sendelizenzen für 
 
 Die ARD teilt dazu mit:
 
- Fußball Weltmeisterschaften
+– Fußball Weltmeisterschaften
 
- Fußball Europameisterschaften
+– Fußball Europameisterschaften
 
- Fußball Bundesliga
+– Fußball Bundesliga
 
- Olympische Sommerspiele
+– Olympische Sommerspiele
 
- Olympische Winterspiele
+– Olympische Winterspiele
 
- Fußball DFB-Pokal
+– Fußball DFB-Pokal
 
- Fußball Länderspiele
+– Fußball Länderspiele
 
- Biathlon Weltmeisterschaft/World Championchips
+– Biathlon Weltmeisterschaft/World Championchips
 
- Fußball Bundesliga Hörfunk
+– Fußball Bundesliga Hörfunk
 
- Ski Weltmeisterschaften alpin/nordisch
+– Ski Weltmeisterschaften alpin/nordisch
 
- Ski World Cup international
+– Ski World Cup international
 
- Ski World Cup national
+– Ski World Cup national
 
- Skiflug Weltmeisterschaften
+– Skiflug Weltmeisterschaften
 
- Deutsche Tourenwagen-Masters
+– Deutsche Tourenwagen-Masters
 
- Leichtathletik Weltmeisterschaften
+– Leichtathletik Weltmeisterschaften
 
- Leichtathletik Europameisterschaften
+– Leichtathletik Europameisterschaften
 
- Schwimm-Weltmeisterschaften
+– Schwimm-Weltmeisterschaften
 
- Schwimm Europameisterschaften
+– Schwimm Europameisterschaften
 
- Eiskunst-, Eisschnelllauf Europameisterschaft/Weltmeisterschaft
+– Eiskunst-, Eisschnelllauf Europameisterschaft/Weltmeisterschaft
 
- 32er Vertrag (Fernsehpartnerschaft von ARD/ZDF mit 32 Spitzensportverbänden
+– 32er Vertrag (Fernsehpartnerschaft von ARD/ZDF mit 32 Spitzensportverbänden
 
 des Deutschen Sportbundes (DSB)
 
 Das ZDF teilt dazu mit:
 
- Fußball Weltmeisterschaft
+– Fußball Weltmeisterschaft
 
- Fußball Europameisterschaft
+– Fußball Europameisterschaft
 
- Fußball Bundesliga (Nachverwertungsrechte)
+– Fußball Bundesliga (Nachverwertungsrechte)
 
- Olympische Sommerspiele
+– Olympische Sommerspiele
 
- Olympische Winterspiele
+– Olympische Winterspiele
 
- UEFA Champions League
+– UEFA Champions League
 
- Fußball Länderspiele (Freundschaftsspiele)
+– Fußball Länderspiele (Freundschaftsspiele)
 
- Biathlon Weltmeisterschaft/World Championchips
+– Biathlon Weltmeisterschaft/World Championchips
 
- Ski Weltmeisterschaften alpin/nordisch
+– Ski Weltmeisterschaften alpin/nordisch
 
- Ski World Cup international
+– Ski World Cup international
 
- Ski World Cup national
+– Ski World Cup national
 
- Skiflug Weltmeisterschaft
+– Skiflug Weltmeisterschaft
 
- Handball Weltmeisterschaft
+– Handball Weltmeisterschaft
 
- Handball Europameisterschaft
+– Handball Europameisterschaft
 
- Leichtathletik Weltmeisterschaft
+– Leichtathletik Weltmeisterschaft
 
- Leichtathletik Europameisterschaft
+– Leichtathletik Europameisterschaft
 
- Schwimm Weltmeisterschaft
+– Schwimm Weltmeisterschaft
 
- Schwimm Europameisterschaft
+– Schwimm Europameisterschaft
 
- Eiskunst-, Eisschnelllauf Europameisterschaft
+– Eiskunst-, Eisschnelllauf Europameisterschaft
 
- Eiskunst-, Eisschnellauf Weltmeisterschaft
+– Eiskunst-, Eisschnellauf Weltmeisterschaft
 
 Im Übrigen teilen die ARD und ZDF mit, dass sie sich aus zwingenden rechtlichen Gründen zu vertraglichen Inhalten (insbesondere Höhe der Lizenzgebühren) nicht äußern könnten.
 

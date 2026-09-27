@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60103"
@@ -63,7 +64,7 @@ Wie viele Mitarbeiter/-innen sollen in der Abteilung „Destination Management�
 
 Wann sind beziehungsweise werden für die Abteilung „Destination Management“ interne beziehungsweise externe Stellenausschreibungen geplant beziehungsweise umgesetzt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Position der Bereichsleitung Destination Management wurde intern und extern ausgeschrieben. Die weiteren Planungen zur Stellen- sowie zur Sachmittelausstattung sind noch nicht abgeschlossen.
 

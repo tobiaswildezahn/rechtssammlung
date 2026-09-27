@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 2
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61186"
@@ -55,7 +56,7 @@ In welche Staaten, an welche Institutionen und welche Unternehmen wurden die Gef
 
 veröffentlicht wurden, exportiert? (Bitte Aspekte einzeln nach Empfängerländern, Institutionen, Unternehmen, Quartal, Ladungspartien und Bruttomasse aufschlüsseln.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zu den im Zeitraum 8. November 2017 bis zum 8. Februar 2018 in GEGIS registrierten Transporten siehe Anlage; darüber hinaus sind Daten im Sinne der Fragestellung in GEGIS nicht registriert.
 

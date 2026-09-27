@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 14
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3213", "21/5039", "21/5185"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54474"
@@ -67,7 +68,7 @@ Wie sieht der Austausch zwischen Internetkonzernen wie Facebook und staatlichen 
 
 Da Facebook, Google oder auch Twitter amerikanische Konzerne sind, gelten für sie hauptsächlich keine deutschen Gesetze. Welche Mittel setzen staatliche Stellen in Hamburg ein, um „Hassbotschaften“ auf oben genannten Plattformen mit Sitz im Ausland (zum Beispiel auf US- Servern) löschen zu lassen beziehungsweise Identitätsfeststellungen der jeweiligen Urheber der „Hassbotschaften“ durchführen zu können?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Im Rahmen von Ermittlungsverfahren wird ein direktes Herantreten an US-amerikanische Provider oder deren Tochterfirmen mit dem Ziel der freiwilligen Herausgabe
 
@@ -93,7 +94,7 @@ Nach welchen Kriterien werden Kommentare auf Webseiten oder in sozialen Netzwerk
 
 Welche Rolle spielt dabei der Terminus „Menschenfeindlichkeit“, der offenbar von staatlichen Stellen in Hamburg ebenfalls als Messlatte zur Bewertung/Klassifizierung von „Hassbotschaften“ herangezogen wird (Drs. 21/3213, Seite 1)?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Staatsanwaltschaft nimmt eine Prüfung hinsichtlich strafrechtlicher Relevanz anhand der Merkmale der in Betracht kommenden Straftatbestände vor.
 

@@ -13,9 +13,10 @@ seiten: 1
 fragen: 0
 einzelfragen: 0
 antwortbloecke: 0
-beantwortet: true
+beantwortet: false
+status: "zurückgezogen"
 zitierte_drucksachen: []
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60605"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/60605/21_11481_vereinbarkeit_von_ehrenamt_und_beamtentaetigkeit_auf_bezirklicher_ebene"
 abgerufen: "2026-09-26"
@@ -24,11 +25,9 @@ generator: "ska_archiv 1.0"
 
 # Drs. 21/11481: Vereinbarkeit von Ehrenamt und Beamtentätigkeit auf bezirklicher Ebene
 
-> Schriftliche Kleine Anfrage der Abgeordneten Anna Gallina (GRÜNE) und Frank Schmitt (SPD) vom 02.01.18 und Antwort des Senats · Drucksache vom 02.01.2018  
+> Schriftliche Kleine Anfrage der Abgeordneten Anna Gallina (GRÜNE) und Frank Schmitt (SPD) vom 02.01.18 · zurückgezogen · Drucksache vom 02.01.2018  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/60605) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/60605/21_11481_vereinbarkeit_von_ehrenamt_und_beamtentaetigkeit_auf_bezirklicher_ebene)
 
-## Volltext
-
-Vereinbarkeit von Ehrenamt und Beamtentätigkeit auf bezirklicher Ebene
+## Hinweis
 
 Die Anfrage wurde zurückgezogen.

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 30
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8118", "21/14084", "21/2466", "21/14804", "21/14037", "21/15598"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65769"
@@ -118,17 +119,17 @@ Die bis 31. Dezember 2019 bewilligten Gelder wurden bereitgestellt und die mögl
 
 Dem Verein Ambulante Maßnahmen Altona e.V. wurde für das Projekt Legato PräJus
 
- für das Jahr 2017 eine Zuwendung in Höhe von 121 578,70 Euro bewilligt (Anteil
+– für das Jahr 2017 eine Zuwendung in Höhe von 121 578,70 Euro bewilligt (Anteil
 
 Justizbehörde Hamburg: 12 157,87 Euro).
 
 Der Verein beantragte weiterhin
 
- für das Jahr 2018 eine Zuwendung in Höhe von 402 695,11 Euro (Anteil Justizbe-
+– für das Jahr 2018 eine Zuwendung in Höhe von 402 695,11 Euro (Anteil Justizbe-
 
 hörde Hamburg: 40 269,51 Euro),
 
- für das Jahr 2019 eine Zuwendung in Höhe von 497 944,52 Euro (Anteil Justizbe-
+– für das Jahr 2019 eine Zuwendung in Höhe von 497 944,52 Euro (Anteil Justizbe-
 
 hörde Hamburg 49 794,45 Euro)
 
@@ -144,7 +145,7 @@ b) Falls nein, warum nicht?
 
 Sind weitere Maßnahmen für die Zukunft geplant?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Im Rahmen der regelhaft einmal wöchentlich stattfindenden Präsenz von Legato Prä- Jus wird das Regelsystem Justizvollzug in allen Anstalten sowie jederzeit bei Bedarf fernmündlich oder persönlich in Deradikalisierungsmaßnahmen sowie Fragen des Umgangs mit betroffenen Gefangenen beraten und unterstützt. Der Kontakt mit einem oder einer betroffenen Gefangenen erfolgt dann direkt durch Legato-Berater, wenn vorab die gemeinsame Besprechung des Einzelfalls zwischen Anstalt und Legato die Erforderlichkeit ergeben hat. Dies ist insbesondere in solchen Fällen gegeben, bei denen die Anbahnung von Ausstiegsarbeit als aussichtsreich eingeschätzt oder von dem oder der betreffenden Gefangenen gewünscht wird. Darüber hinaus sind derzeit keine Maßnahmen geplant. Im Übrigen siehe Drs. 21/15598.
 

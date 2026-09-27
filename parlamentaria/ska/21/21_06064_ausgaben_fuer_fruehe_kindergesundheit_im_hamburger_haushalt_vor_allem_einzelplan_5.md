@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7000", "21/3052", "21/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54574"
@@ -83,7 +84,7 @@ Welche Träger und Institutionen bekommen welche Zuwendungen beziehungsweise Fin
 
 Welche Mütterberatungsstellen haben welche finanziellen Mittel seit 2010 beantragt und bekommen? Bitte auflisten nach Träger, Beratungsstelle, Summe im Antrag, Summe der Zuwendung, Jahr.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Eine detaillierte Auswertung der Standorte beziehungsweise der Träger in den einzelnen Bezirken ist in der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht leistbar (siehe auch Drs. 21/3052). Für die Jahre 2017/2018 und folgende sind die Zuwendungen beziehungsweise Finanzmittel noch nicht festgelegt, die Planungen und Verhandlungen hierzu sind noch nicht abgeschlossen.
 

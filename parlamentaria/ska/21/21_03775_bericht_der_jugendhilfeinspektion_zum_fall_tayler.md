@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52174"
@@ -43,7 +44,7 @@ Zu welchem Zeitpunkt erhielten die betreffenden Mitarbeiter des Jugendamtes in A
 
 Erwägt der Senat beziehungsweise die Jugendhilfeinspektion für die Zukunft, betreffende Mitarbeiter in den Jugendämtern vor der Fertigstellung des Berichtes stärker einzubeziehen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Jugendhilfeinspektion (JI) führte ein ausführliches Vorgespräch mit der fallzuständigen ASD-Mitarbeiterin und der Abteilungsleiterin am 07.01.2016. Der JI-Bericht wurde vorab am 04.02.2016 an die Leitung des Bezirksamts Altona übersandt, Anmerkungen zur Sachverhaltsdarstellung wurden nach Rücklauf berücksichtigt. Der endgültige Bericht wurde der Bezirksamtsleitung am 18.02.2016 per Boten zugestellt.
 
@@ -85,7 +86,7 @@ Welche Maßnahmen werden im Bezirksamt Altona sowie dem zuständigen Jugendamt i
 
 Wird von allen Beteiligten die Notwendigkeit für Konsequenzen anerkannt und ernst genommen? Wenn ja, bitte vor dem Hintergrund der genannten Presseberichte erläutern. Wenn nein, wie wird vom Senat und dem Bezirksamt Altona sichergestellt, dass Konsequenzen für die Fallarbeit ergriffen werden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Das Bezirksamt Altona hat aufsetzend auf dem Bericht der Jugendhilfeinspektion eine Reihe von Festlegungen und Umsetzungsmaßnahmen getroffen. Hierzu gehören unter anderem Präzisierungen für die Fall-Dokumentation, Schulungen der Mitarbeiterinnen und Mitarbeiter durch das Institut für Rechtsmedizin, im Umgang mit dem Qualitätsmanagement-System des ASD sowie präzisere Regelungen in der Zusammenarbeit mit freien Trägern. Im Übrigen siehe Antwort zu 3. Darüber hinaus sind die Überlegungen hierzu noch nicht abgeschlossen.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2904"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58093"
@@ -43,7 +44,7 @@ Entspricht die öffentlich geäußerte Beurteilung der City-Hochhäuser der Posi
 
 War die Äußerung von Senator Tschentscher im Vorfeld mit der Kulturbehörde abgestimmt? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat sieht in ständiger Praxis grundsätzlich davon ab, zu tatsächlichen oder behaupteten Äußerungen seiner Mitglieder Stellung zu nehmen.
 

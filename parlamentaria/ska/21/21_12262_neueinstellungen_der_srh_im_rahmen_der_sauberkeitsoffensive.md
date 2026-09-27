@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9699", "21/12203"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61536"
@@ -53,7 +54,7 @@ Wie viele Personen exakt wurden begründet mit der Sauberkeitsoffensive bei der 
 
 Wie viele der neu eingestellten Personen waren bis zur Arbeitsaufnahme Langzeitarbeitslose? Erhält die SRH für die Einstellung von Langzeitarbeitslosen Zuschüsse von der Bundesagentur für Arbeit? Falls ja, für wie viele Personen trifft dies zu?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/12203.
 

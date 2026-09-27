@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56586"
@@ -47,7 +48,7 @@ Wie ist der aktuelle Planungsstand der Ausweitung der Sozialen Erhaltensverordnu
 
 Bis wann sollen die Planungen abgeschlossen sein?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Seit dem 30. Juli 2016 gilt für den Stadtteil Eimsbüttel/Hoheluft-West/Stellingen-Süd ein Aufstellungsbeschluss des Senats und seit dem 3. August 2016 eine Verordnung über eine Repräsentativerhebung zur Vorbereitung und zum Vollzug der Sozialen Erhaltungsverordnung (SozErhVO). Davon ausgenommen ist das bereits bestehende Gebiet der Sozialen Erhaltungsverordnung Eimsbüttel-Süd. Auf dieser Grundlage führt von November 2016 bis März 2017 ein von der zuständigen Fachbehörde beauftragtes Institut eine repräsentative Haushaltebefragung im Aufstellungsgebiet zur Ermittlung des Aufwertungs- und Verdrängungspotenzials durch.
 

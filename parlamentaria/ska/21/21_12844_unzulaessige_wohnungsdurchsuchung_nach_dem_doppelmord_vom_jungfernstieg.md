@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62181"
@@ -84,7 +85,7 @@ Wenn ja, wie stellte sich aus der Sicht der Staatsanwaltschaft die Durchsuchung 
 
 Weswegen begnügte sich die Staatanwaltschaft nicht damit, entsprechende Dinge (Computer) an der Haustür ausgehändigt zu bekommen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nachdem der Beschuldigte am 27. April 2018 den Einsatzkräften ab 06.30 Uhr trotz wiederholten Klingelns und lautstarken Klopfens seine Wohnungstür nicht geöffnet hatte, erfolgte die Öffnung der Tür kurz nach 07.20 Uhr durch den Mitarbeiter eines Schlüsseldienstes. Dem in der Wohnung wartenden Beschuldigten wurde der Tatvorwurf eröffnet und der Durchsuchungsbeschluss überreicht. Seine Rechte als Beschuldigter wurden ihm erläutert. Er räumte den Tatvorwurf ein, machte aber deutlich, ein protokolliertes Geständnis nicht unterschreiben zu wollen. Der Beschuldigte händigte den Einsatzkräften ein sogenanntes Phablet mit dem Hinweis aus, dass er mit diesem Gerät den Film auf YouTube hochgeladen habe. Neben dem Phablet wurden im Rahmen der Durchsuchung eine Kamera und ein PC des Beschuldigten zur Durchsicht nach § 110 StPO mitgenommen.
 

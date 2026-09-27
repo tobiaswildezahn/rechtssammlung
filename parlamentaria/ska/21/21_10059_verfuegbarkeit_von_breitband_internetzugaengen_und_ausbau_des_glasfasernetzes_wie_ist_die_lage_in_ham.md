@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 30
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1125", "21/1651", "21/2726", "21/3538", "21/4736", "21/5203", "21/5375", "21/5405", "21/6008", "21/6125", "21/8812", "21/5262"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58883"
@@ -58,7 +59,7 @@ Wie ist der aktuelle Stand zur Verfügbarkeit von Breitband-Internet, dem weiter
 
 In welchen Stadtteilen und Bereichen im Hamburger Hafen ist die Verfügbarkeit von Glasfasernetzanschlüssen besonders gering beziehungsweise muss der Ausbau der Glasfasernetze besonders vorangetrieben werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/5203 sowie http://www.bmvi.de/DE/Themen/Digitales/Breitbandausbau/ Breitbandatlas-Karte/start.html.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 7
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48334"
@@ -78,27 +79,27 @@ Die Teilnahme ist an keinerlei formelle Qualifikation gebunden und erfolgt freiw
 
 Allerdings sollen im Rahmen der Maßnahme folgende Kenntnisse und Fähigkeiten erworben werden, die den Teilnehmenden einen ersten Einstieg in das Arbeitsfeld „Altenpflege“ ermöglichen können:
 
- Basiswissen über Krankheits- und Behinderungsbilder, Behandlungsformen und
+– Basiswissen über Krankheits- und Behinderungsbilder, Behandlungsformen und
 
 Pflege der zu betreuenden Menschen,
 
- Situation der pflegenden Personen,
+– Situation der pflegenden Personen,
 
- Umgang mit den Erkrankten, Erwerb von Handlungskompetenzen in Bezug auf
+– Umgang mit den Erkrankten, Erwerb von Handlungskompetenzen in Bezug auf
 
 das Einfühlen in die Erlebniswelt und im Umgang mit Verhaltungsauffälligkeiten wie Aggressionen und Widerständen,
 
- Methoden und Möglichkeiten der Betreuung und Beschäftigung,
+– Methoden und Möglichkeiten der Betreuung und Beschäftigung,
 
- Kommunikation und Gesprächsführung,
+– Kommunikation und Gesprächsführung,
 
- Selbstmanagement im Kontext des freiwilligen Engagements,
+– Selbstmanagement im Kontext des freiwilligen Engagements,
 
- Reflektion und Austausch zu der eigenen Rolle und den Erfahrungen während des
+– Reflektion und Austausch zu der eigenen Rolle und den Erfahrungen während des
 
 freiwilligen Engagements und
 
- Erwerb aller Voraussetzungen für einen anschließenden Übergang in eine Ausbil-
+– Erwerb aller Voraussetzungen für einen anschließenden Übergang in eine Ausbil-
 
 dung oder ein sozialversicherungspflichtiges Beschäftigungsverhältnis.
 
@@ -110,23 +111,23 @@ Welche Arten von Tätigkeiten im Projekt „Bürgerschaftliches Engagement in de
 
 Die Freizeitbegleiter in den Senioreneinrichtungen bieten dementen Menschen Unterstützungsleistungen, die nicht durch die Regelleistungen des SGB XI und des SGB XII in den Einrichtungen abgedeckt werden können:
 
- Sie sind Begleiter bedürftiger Senioren und Seniorinnen für individuelle Ausflüge
+– Sie sind Begleiter bedürftiger Senioren und Seniorinnen für individuelle Ausflüge
 
 aus den Einrichtungen, wie beispielsweise Friedhofs-, Friseur- oder Bekanntenbesuche, die die Einrichtungen nicht leisten können.
 
- Sie können Einzelbetreuung für Senioren und Seniorinnen bieten, die nicht an den
+– Sie können Einzelbetreuung für Senioren und Seniorinnen bieten, die nicht an den
 
 allgemeinen Angeboten teilnehmen können oder wollen und diese so vor Rückzug und Vereinsamung schützen.
 
- Sie unterstützen die Einrichtungen bei der Öffnung der Nachbarschaft, indem sie
+– Sie unterstützen die Einrichtungen bei der Öffnung der Nachbarschaft, indem sie
 
 anwohnende bedürftige Senioren und Seniorinnen in Aktivitäten wie Kaffeenachmittage, Feste und Ausflüge einbeziehen.
 
- Sie ermöglichen zusätzlich zu den regulären Mitarbeitern und Mitarbeiterinnen der
+– Sie ermöglichen zusätzlich zu den regulären Mitarbeitern und Mitarbeiterinnen der
 
 Einrichtung auch immobilen Pflegebedürftigen die Teilnahme an Freizeitaktivitäten außerhalb der Einrichtungen.
 
- Sie helfen mit bei der Organisation von Spielenachmittagen oder gemeinsamen
+– Sie helfen mit bei der Organisation von Spielenachmittagen oder gemeinsamen
 
 „Klönstunden“ in der Einrichtung.
 

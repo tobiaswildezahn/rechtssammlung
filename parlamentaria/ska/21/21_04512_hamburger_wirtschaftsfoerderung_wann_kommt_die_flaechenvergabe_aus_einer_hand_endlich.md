@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 17
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3113", "21/2028", "21/3881"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52917"
@@ -49,7 +50,7 @@ Ist die HWF mittlerweile zu einer One-Stop-Agency für Ansiedlungen und Investit
 
 Wurden die Erschließung und die Vermarktung zusätzlicher Gewerbegebiete dauerhaft auf die HWF übertragen? a. Wenn ja, seit wann? b. Wenn nein, warum nicht und wann wird dies erfolgen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die diesbezüglichen Prüfungen dauern derzeit an.
 

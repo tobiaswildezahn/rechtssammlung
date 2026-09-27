@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9755"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65199"
@@ -131,17 +132,17 @@ c. Wie viele Arbeitsplätze sind dadurch in welchem Stadtteil/Bezirk in Hamburg 
 
 Vier Unternehmen sind im Bezirk Hamburg-Mitte angesiedelt worden, ein Unternehmen im Bezirk Altona sowie eines im Bezirk Hamburg-Nord. Die Unternehmen gehören den folgenden Branchen an:
 
-• Entwicklung, Produktion und Vertrieb von roboterbetriebenen Auslieferungssystemen für kundennahe Auslieferungen sowie die Erbringung solcher Auslieferungsdienstleistungen,
+– Entwicklung, Produktion und Vertrieb von roboterbetriebenen Auslieferungssystemen für kundennahe Auslieferungen sowie die Erbringung solcher Auslieferungsdienstleistungen,
 
-• Anbieten von Weiterbildungsinhalten und fachlicher Unterstützung für Teilnehmerinnen und Teilnehmer von eLearning-Programmen,
+– Anbieten von Weiterbildungsinhalten und fachlicher Unterstützung für Teilnehmerinnen und Teilnehmer von eLearning-Programmen,
 
-• Herstellung von Gütern der Unterhaltungselektronik,
+– Herstellung von Gütern der Unterhaltungselektronik,
 
-• Erbringung sonstiger wirtschaftlicher Dienstleistungen für Unternehmen und Privatpersonen/Zertifizierungen im Bereich Öko/Organic, Management Systeme und weitere,
+– Erbringung sonstiger wirtschaftlicher Dienstleistungen für Unternehmen und Privatpersonen/Zertifizierungen im Bereich Öko/Organic, Management Systeme und weitere,
 
-• Messe-, Ausstellungs- und Kongressveranstalter,
+– Messe-, Ausstellungs- und Kongressveranstalter,
 
-• erneuerbare Energien und Umwelt.
+– erneuerbare Energien und Umwelt.
 
 Insgesamt umfassen diese Unternehmen 40 Arbeitsplätze.
 
@@ -155,39 +156,39 @@ Siehe Drs. 21/9755. Zusammenfassend wurden folgende Veranstaltungen durchgeführ
 
 2017
 
- 2. Juni 2017: Business Breakfast, Manchester
+– 2. Juni 2017: Business Breakfast, Manchester
 
- 19. bis 20. Juni 2017: Teilnahme Messe „Global Expansion Summit“, London
+– 19. bis 20. Juni 2017: Teilnahme Messe „Global Expansion Summit“, London
 
- 6. September 2017: Vortrag und Paneldiskussion: „Brexit Business Planning
+– 6. September 2017: Vortrag und Paneldiskussion: „Brexit Business Planning
 
 Forum“, London
 
- 6. Oktober 2017: Business Breakfast, Bristol
+– 6. Oktober 2017: Business Breakfast, Bristol
 
- 19. Oktober 2017: Investorenworkshop „Hamburg on Tour“, London (mit der Zwei-
+– 19. Oktober 2017: Investorenworkshop „Hamburg on Tour“, London (mit der Zwei-
 
 ten Bürgermeisterin)
 
- 16. bis 17. November 2017: Messestand und Sprecherslot bei der Messe „The
+– 16. bis 17. November 2017: Messestand und Sprecherslot bei der Messe „The
 
 Foreign Direct Investment Expo“, London
 
 2018
 
- 5. Juli 2018: Standortseminar, London (asiatische Firmen)
+– 5. Juli 2018: Standortseminar, London (asiatische Firmen)
 
- 12. bis 14. Juni 2018: Messestand und Sprecherslot, Liverpool (zusammen mit der
+– 12. bis 14. Juni 2018: Messestand und Sprecherslot, Liverpool (zusammen mit der
 
 Behörde für Wirtschaft, Verkehr und Innovation)
 
- 30. August 2018: Seminar und Netzwerkabend „Hamburg on Tour“, London (mit
+– 30. August 2018: Seminar und Netzwerkabend „Hamburg on Tour“, London (mit
 
 der Zweiten Bürgermeisterin)
 
- 16. Oktober 2018: Delegationsbesuch aus London (London & Partners, Start-ups)
+– 16. Oktober 2018: Delegationsbesuch aus London (London & Partners, Start-ups)
 
- 4. bis 5. Dezember 2018: Standortseminar, London (Indische Unternehmen, Start-
+– 4. bis 5. Dezember 2018: Standortseminar, London (Indische Unternehmen, Start-
 
 ups, Tech)
 

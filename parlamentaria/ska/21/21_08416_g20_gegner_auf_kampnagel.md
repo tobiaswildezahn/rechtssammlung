@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 46
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8333"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57128"
@@ -129,6 +130,6 @@ Werden die zuständigen Stellen die Veranstaltung mit nachrichtendienstlichen Mi
 
 Inwieweit schätzen die zuständigen Stellen Debatten über die Ausübung von Gewalt während des G20-Gipfels als Teil der Veranstaltung ein?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Vorbemerkung sowie Antwort zu 4. a. und b.

@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 26
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61010"
@@ -77,7 +78,7 @@ Wie lange hat Hamid K. nach Kenntnis des Senats in der vom MEK durchsuchten Wohn
 
 Seit wann war er dort registriert und hat er dort allein gelebt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Hamid K. war seit dem 24. Januar 2017 unter der in Rede stehenden Anschrift amtlich gemeldet; er lebte dort nicht alleine.
 

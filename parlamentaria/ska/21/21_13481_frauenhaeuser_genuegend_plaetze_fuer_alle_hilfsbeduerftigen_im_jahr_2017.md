@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 20
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8539", "21/8014", "21/5214", "21/2635", "21/4174"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62845"
@@ -55,7 +56,7 @@ Wie viele Mitarbeiter arbeiteten im Jahr 2017 und wie viele aktuell in den einze
 
 Gab es im Jahr 2017 Aufstockungen oder Reduzierungen beim Personal? Wenn ja, wann wo und um wie viel VZÄ jeweils?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Anzahl der Beschäftigten ist im Jahresverlauf durch Fluktuation schwankend. Im Rahmen der Zuwendungsbewilligung erfolgt ausschließlich eine Festlegung der Anzahl der Vollzeitäquivalente (VZÄ).
 

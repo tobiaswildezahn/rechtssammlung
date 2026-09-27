@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 25
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/814", "21/944", "21/1684"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51446"
@@ -93,7 +94,7 @@ h) die Schwierigkeiten bei der Zusammenstellung der Angaben, das heißt fehlende
 
 Seit wann liegen die entsprechenden Erkenntnisse et cetera vor und lässt sich auf deren Grundlage bereits eine grundsätzliche Aussage über die Umweltverträglichkeit des Vorhabens treffen? Wenn ja, ist diese gegeben/nicht gegeben beziehungsweise an welchen konkreten Kriterien wird die Umweltverträglichkeit des in Rede stehenden Vorhabens festgemacht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die von der zuständigen Baugenehmigungsbehörde angeforderte UVU ist durch den Bauantragsteller f & w fördern und wohnen AöR (f & w) in Auftrag gegeben worden, beauftragt wurde die Firma Dr. Pranzas Umwelt Consulting, Kattendorf.
 

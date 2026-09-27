@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["17/8030", "21/3805"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55371"
@@ -66,7 +67,7 @@ Wie viele Personen sind zum Stichtag 21.11.2016 aufgrund welcher Infektion im Ha
 
 Wie viele Personen sind jeweils aufgrund welcher Infektion durch die Stadt Hamburg erfasst worden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung. Darüber hinaus wird die Art der Infektion nicht erfasst.
 
@@ -124,7 +125,7 @@ Wie schätzt der Senat die Gefahr der Stigmatisierung von Betroffenen durch das 
 
 Inwiefern hält der Senat die Beibehaltung des PHW „ansteckend“ weiterhin für notwendig und gerechtfertigt? Was spricht aus Sicht des Senats dafür? Was dagegen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Liegt ein PHW ANST vor, wird diese Information, abhängig von der jeweiligen Situation und unter Betrachtung der näheren Umstände, in die Auswahl der taktischen und verhältnismäßigen Maßnahmen einbezogen. Der PHW ANST versetzt Einsatzkräfte in die Lage, in bestimmten Fällen auf eine belegte Infektionsgefahr zu reagieren und eine erhebliche Gesundheitsgefahr zu minimieren. Bei Wegfall des PHW ANST entfällt diese Möglichkeit. Als Folge kommt beispielhaft in Betracht, dass vorhandene Schutzausrüstung (Handschuhe, Mundschutz, Spuckschutzhaube et cetera) zu spät oder nicht angelegt wird, eine sofortige Desinfektion unterbleibt oder Fachärzte erst im Nachhinein oder überhaupt nicht zu Rate gezogen werden.
 

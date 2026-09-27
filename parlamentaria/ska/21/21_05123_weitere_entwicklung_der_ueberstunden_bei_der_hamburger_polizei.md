@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1122", "21/2556", "21/2852", "21/3028", "20/11719"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53606"
@@ -43,7 +44,7 @@ Wie hat sich die Überstundensituation bei der Hamburger Polizei inzwischen im 1
 
 Wie viele Überstunden haben die Bediensteten der Polizei nunmehr durchschnittlich (Stand 30.06.2016)? Bitte insgesamt und nach Bereichen aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die erfragten Daten der Stichtage 31. März und 30. Juni 2016 sind in der nachfolgenden Tabelle dargestellt:
 

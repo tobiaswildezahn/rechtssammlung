@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13185", "21/13296", "21/6800", "20/2948", "20/14150"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64090"
@@ -61,11 +62,11 @@ Wie setzt sich die Summe der Förderung des Rehabilitationssports in 2018 von 20
 
 Dienen alle Einzelbeträge, die die Summe der Förderung des Rehabilitationssports in 2018 von 207.008,09 Euro (siehe Drs. 21/13185) ausmachen, unmittelbar der Förderung von Rehabilitationssportangeboten?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die in der Drs. 21/13185 genannte Summe setzt sich wie folgt zusammen und hat die nachfolgend dargestellten Zielsetzungen:
 
- Hamburger Gehörlosen-Sportverein von 1904 e.V.; Zuwendung in Höhe von
+– Hamburger Gehörlosen-Sportverein von 1904 e.V.; Zuwendung in Höhe von
 
 122.136,33 Euro:
 
@@ -73,7 +74,7 @@ Zielsetzung der Zuwendung ist der Betrieb der Geschäftsstelle des Hamburger Geh
 
 Die Teilnahme an den sportlichen Aktivitäten soll zur sozialen Integration der Gehörlosen beitragen. Zu den weiteren Zielen des Sportvereins gehört es, Gehörlosen zur Entfaltung ihrer Fähigkeiten und persönlichen Interessen im Sport zu verhelfen, die Selbständigkeit und Handlungsfähigkeit zu stärken und dazu beizutragen, Aufgaben in Familie, Beruf und Gesellschaft wahrzunehmen.
 
- Behinderten- und Rehabilitations-Sportverband Hamburg e.V.; Zuwendung in Höhe
+– Behinderten- und Rehabilitations-Sportverband Hamburg e.V.; Zuwendung in Höhe
 
 von 84.871,76 Euro:
 
@@ -95,7 +96,7 @@ An welchen Hamburger Krankenhäusern bestehen Rehabilitationssportangebote (verg
 
 Wie kommt der Senat zu der Einschätzung, dass die Angebote gemäß Frage 5. Rehabilitationssportangebote im Sinne des § 64 SGB IX sind?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Es bestehen an Krankenhäusern in Hamburg keine eigenen Rehabilitationssportangebote nach § 64 SGB IX. Bei den zum Beispiel vom BG Klinikum Hamburg als Rehabilitationssport bezeichneten Angeboten handelt es sich um Maßnahmen der medizinischen Rehabilitation, nicht jedoch um Rehabilitationssport nach § 64 SGB IX. Auch die „Ambulante Geriatrische Rehabilitation“ des Albertinen-Hauses ist kein Rehabilitationssport nach § 64 SGB IX, sondern ein eigenständiges ambulant-
 
@@ -111,7 +112,7 @@ Liegt der Zwecksetzung der Finanzierung von Rehabilitationssport das Ziel „Hil
 
 Welche Konsequenzen ergeben sich für die Förderung des Rehabilitationssports entsprechend der Einschätzung gemäß Frage 7.?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Rehabilitationssport wird nicht primär als „Hilfe zur Selbsthilfe“ durch die Krankenkassen finanziert. Rehasport ist ausweislich des § 64 SGB IX eine „ergänzende Leistung zur Rehabilitation“. Er soll der Teilhabe behinderter beziehungsweise von Behinderung bedrohter Menschen an der Gesellschaft dienen (§ 1 SGB IX). So heißt es in der „Rahmenvereinbarung über den Rehabilitationssport und das Funktionstraining der Bundesarbeitsgemeinschaft für Rehabilitation e.V.“: „Ziel des Rehabilitationssports ist, Ausdauer und Kraft zu stärken, Koordination und Flexibilität zu verbessern, das Selbstbewusstsein insbesondere auch von behinderten oder von Behinderung bedrohten Frauen und Mädchen zu stärken und Hilfe zur Selbsthilfe zu bieten. Hilfe zur Selbsthilfe hat zum Ziel, Selbsthilfepotentiale zu aktivieren, die eigene Verantwortlichkeit des behinderten oder von Behinderung bedrohten Menschen für seine Gesundheit zu stärken sowie ihn zu motivieren und in die Lage zu versetzen, langfristig selbstständig und eigenverantwortlich Bewegungstraining durchzuführen, z.B. durch weiteres Sporttreiben in der bisherigen Gruppe bzw. im Verein auf eigene Kosten.“ Vergleiche dazu auch: https://www.vdek.com/vertragspartner/vorsorgerehabilitation/Reha-Sport/_jcr_content/par/download/file.res/ bar_rvrehasport_ft_2011.pdf.
 

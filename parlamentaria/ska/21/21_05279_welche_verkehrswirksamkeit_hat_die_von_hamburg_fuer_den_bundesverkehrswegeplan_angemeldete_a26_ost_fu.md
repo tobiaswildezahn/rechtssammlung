@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7047"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53750"
@@ -33,23 +34,23 @@ Die Hafenquerspange, jetzt A26-Ost, wurde immer mit ihrer vermeintlich hohen Bed
 
 ## Einleitung für die Antworten des Senats
 
- AK A7/A26 bis AS Moorburg (A26): 62.000 Kfz, davon 22.110 Lkw
+– AK A7/A26 bis AS Moorburg (A26): 62.000 Kfz, davon 22.110 Lkw
 
- AS Moorburg bis AS Hohe Schaar: 54.700 Kfz, davon 20.270 Lkw
+– AS Moorburg bis AS Hohe Schaar: 54.700 Kfz, davon 20.270 Lkw
 
- AS Hohe Schaar bis B75: 48.100 Kfz, davon 15.230 Lkw
+– AS Hohe Schaar bis B75: 48.100 Kfz, davon 15.230 Lkw
 
- B75 bis AD A1/A26: 29.300 Kfz, davon 9.830 Lkw
+– B75 bis AD A1/A26: 29.300 Kfz, davon 9.830 Lkw
 
 In der Projektinfo zur A26-Ost des Entwurfs zum BVWP 2030 (PRINS, http://www.bvwp-projekte.de/strasse/A26-G10-HH/A26-G10-HH.html) nennt das Bundesverkehrsministerium in den Abbildungen zu den Querschnittsbelastungen folgende DTVw für den Planfall im Jahr 2030:
 
- AK A7/A26 bis AS Moorburg (A26): 42.000 Kfz, davon 7.000 Lkw
+– AK A7/A26 bis AS Moorburg (A26): 42.000 Kfz, davon 7.000 Lkw
 
- AS Moorburg bis AS Hohe Schaar: 33.700 Kfz, davon 6.000 LKW
+– AS Moorburg bis AS Hohe Schaar: 33.700 Kfz, davon 6.000 LKW
 
- AS Hohe Schaar bis B75: 28.000 Kfz, davon 6.000 Lkw
+– AS Hohe Schaar bis B75: 28.000 Kfz, davon 6.000 Lkw
 
- B75 bis AD A1/A26: 29.000 Kfz, davon 5.000 Lkw
+– B75 bis AD A1/A26: 29.000 Kfz, davon 5.000 Lkw
 
 In den Grunddaten benennt das BMVI die mittlere Verkehrsbelastung im Planfall mit 32.000 Kfz/24h und davon 16 Prozent Lkw-Anteil. Das wären
 5.120 Lkw/Tag.
@@ -110,15 +111,15 @@ Welche Bedeutung soll die A26-Ost angesichts der sich immer weiter reduzierenden
 
 Mit den Planungen zum Bau der A26-Ost verfolgen der Bund und Senat folgende Ziele:
 
- Bündelung des Ost-West-Verkehrs und weiträumiger Hafenverkehre,
+– Bündelung des Ost-West-Verkehrs und weiträumiger Hafenverkehre,
 
- Verbesserung der Erreichbarkeit des Hamburger Hafens,
+– Verbesserung der Erreichbarkeit des Hamburger Hafens,
 
- Entlastung innerstädtischer Quartiere von Verkehr und damit Lärm- und Schad-
+– Entlastung innerstädtischer Quartiere von Verkehr und damit Lärm- und Schad-
 
 stoffemissionen,
 
- Schaffung eines redundanten Straßennetzes.
+– Schaffung eines redundanten Straßennetzes.
 
 Aus der den Planungen zugrunde liegenden Verkehrsuntersuchung der PTV Transport Consult GmbH, Karlsruhe geht eine hohe Verkehrswirksamkeit der A 26 hervor.
 

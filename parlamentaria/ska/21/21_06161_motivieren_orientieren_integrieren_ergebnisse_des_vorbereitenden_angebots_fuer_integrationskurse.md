@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5832"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54689"
@@ -71,15 +72,15 @@ Zum Verlauf bitte folgende Informationen zur Verfügung stellen: a. Wann haben w
 
 Folgende Träger haben die Maßnahme zertifiziert angeboten:
 
- Rackow, Beginn 4. April 2016
+– Rackow, Beginn 4. April 2016
 
- Grone, Beginn 11. April 2016
+– Grone, Beginn 11. April 2016
 
- SBB, Beginn 18. April 2016
+– SBB, Beginn 18. April 2016
 
- BIQ, Beginn 18. April 2016
+– BIQ, Beginn 18. April 2016
 
- Bfw, Beginn 18. April 2016
+– Bfw, Beginn 18. April 2016
 
 b. Wie viele Teilnehmer haben bei den einzelnen Trägern an der Maßnahme teilgenommen und wie viele haben die Maßnahme vollständig beenden dürfen (660 Stunden)?
 

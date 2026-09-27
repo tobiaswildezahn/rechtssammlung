@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 29
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13705", "21/895", "21/1523", "21/1958", "20/9727", "21/302"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50517"
@@ -271,6 +272,6 @@ kommen?
 Wenn nein, warum nicht? Wie soll das fehlende Lehrpersonal ersetzt  
 werden?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Jede Schule erhält für jede eingerichtete IVK eine Zuweisung von 1,2 Stellen und den Auftrag entsprechende Ausschreibungen und Einstellungen vorzunehmen. Damit ist generell ein zusätzlicher Einsatz von Lehrkräften in den IVK geplant. Im Übrigen siehe Antwort zu 2.

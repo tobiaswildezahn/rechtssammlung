@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62745"
@@ -75,7 +76,7 @@ Welche Abteilungen, welche Referate und welche weiteren Dienststellen und Zustä
 
 Welche Abteilungen werden in diesem Zusammenhang neu geschaffen? Aus welchen Gründen werden gegebenenfalls bisherige Referate zu welchen neuen Abteilungen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 
@@ -103,7 +104,7 @@ Warum genau wird beziehungsweise wurde der Zuschnitt des bisherigen Amtes für O
 
 Welche Abteilungen, Referate und welche weiteren Dienststellen und Zuständigkeiten des bisherigen Amtes für Organisation und Zentrale Diente der Finanzbehörde werden nicht zum neuen Amt Interner Service und Steuerung gehören?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Vorbemerkung.
 

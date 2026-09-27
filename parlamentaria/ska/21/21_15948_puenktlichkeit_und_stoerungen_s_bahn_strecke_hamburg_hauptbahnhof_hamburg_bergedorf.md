@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65440"
@@ -51,13 +52,13 @@ Wie hoch war der jeweils der Anteil pünktlicher und unpünktlicher Züge auf de
 
 Die Pünktlichkeit wird von der S-Bahn Hamburg GmbH jeweils für die gesamten Linienverläufe erfasst. Als verspätet gelten im Schnellbahnnetz Abfahrten von U- und S- Bahnen, die mit mehr als 2,59 Minuten Verspätung an einer Haltestelle beginnen. Demnach wies die Pünktlichkeit der Linien S2 und S21 folgende Werte auf:
 
- die ganztägig verkehrende S21 (Elbgaustraße – Aumühle):
+– die ganztägig verkehrende S21 (Elbgaustraße – Aumühle):
 
 im 4. Quartal 2018: 88,6 Prozent,
 
 im Zeitraum 1.-15. Januar 2019: 86,2 Prozent,
 
- die nur in den Hauptverkehrszeiten (montags – freitags) verkehrende S2 (Altona –
+– die nur in den Hauptverkehrszeiten (montags – freitags) verkehrende S2 (Altona –
 
 Bergedorf):
 

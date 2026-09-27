@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8386"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57286"
@@ -83,6 +84,6 @@ Es gab auch Berichte darüber, dass den Einreisenden die Pässe entzogen worden 
 
 Es gab einzelne Berichte, dass das türkische Konsulat die türkischen Pässe eingezogen hat. Wie vielen Menschen wurde der Pass entzogen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/8386.

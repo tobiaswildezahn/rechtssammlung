@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 24
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/5144", "16/2094"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69835"
@@ -72,7 +73,7 @@ Ein Artikel in der Onlineausgabe des „Hamburger Abendblattes“ vom
 Februar 2020 spricht außerdem von mehreren Verträgen und nennt sowohl Erbbaurechts- als auch Pachtverträge. Wie viele Verträge welcher Typen, die das Stadiongrundstück am Millerntor zum Gegenstand haben, wurden insgesamt zwischen der FHH und dem FC St. Pauli geschlossen? Welche Laufzeiten haben diese im Einzelnen?
 4. Wenn ein oder mehrere Erbbaurechtsverträge geschlossen wurden, welche Laufzeit wurde hier jeweils bestimmt? Mit welcher Entschädigung an den FC St. Pauli rechnet der Senat beziehungsweise die zuständige Behörde bei Heimfall oder Zeitablauf des Erbbaurechts oder der Erbbaurechte?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Zwischen der FHH und dem FC St. Pauli existiert ein Nutzungsvertrag, der das Stadiongrundstück zum Gegenstand hat (siehe Antwort zu 1.). Im Übrigen sieht der Senat grundsätzlich davon ab, Einzelheiten zu Vertragsinhalten zu offenbaren.
 

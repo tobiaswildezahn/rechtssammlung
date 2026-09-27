@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9203"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59692"
@@ -71,7 +72,7 @@ Welche Verpflichtungen aus dem städtebaulichen Vertrag und dem Erbbaurechtsvert
 
 Welche Folgen hat eine Nichteinigung zwischen der Firma Interpol und dem Investor über die Nutzungs- und Verwertungsrechte des von der Firma Interpol erstellten Konzeptes auf die Verträge der Freien und Hansestadt Hamburg mit dem Investor? a. Ist die Vermutung richtig, dass bei einer Nichteinigung der Investor das bisherige Konzept der Begrünung nicht realisieren kann, da ihm die Nutzungs- und Verwertungsrechte dafür fehlen? Falls ja: Welche Auswirkung hat das auf die bereits erteilte Baugenehmigung? Falls nein: Geht der Senat davon aus, dass die beantragte Begrünung des Bunkers und auch die Nutzung der neu zu schaffenden Flächen wie beantragt erfolgen kann?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Zu den Verpflichtungen des Investors gegenüber der Freien und Hansestadt Hamburg siehe Drs. 21/9203. Zu Rechtsverhältnissen zwischen privaten Dritten äußert sich der Senat in ständiger Praxis grundsätzlich nicht. Im Übrigen hat sich der Senat hiermit nicht befasst.
 

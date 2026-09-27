@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 27
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7406", "21/13335", "21/2108", "21/10137", "21/11867", "21/11183", "21/9358", "21/10819"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63727"
@@ -43,7 +44,7 @@ Wie viele Personen waren in der EA Fiersbarg Ende Juni untergebracht?
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Geschlecht  
 Kinder & Jugendliche  
@@ -121,7 +122,7 @@ Wie viele Umverteilungen in öffentlich-rechtliche Unterbringungen oder regulär
 
 Wie viele Abschiebungen gab es in den Monaten Juni aus der EA Fiersbarg?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Drs. 21/7406.
 
@@ -276,7 +277,7 @@ c) Sicherheit?
 
 Wie viele davon tagsüber (7 – 18 Uhr), wie viele davon abends und nachts (18 – 7 Uhr)? Wenn es abweichende Dienstzeiten gibt, bitte diese nennen und die Aufschlüsselung hiernach geben.
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Drs. 21/11867.
 
@@ -334,7 +335,7 @@ Welche Angebote werden den Flüchtlingen gemacht (Bildung, Freizeitgestaltung)?
 
 Wie viele Ehrenamtliche sind eingesetzt und wie helfen sie?
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Siehe Drs. 21/9358.
 

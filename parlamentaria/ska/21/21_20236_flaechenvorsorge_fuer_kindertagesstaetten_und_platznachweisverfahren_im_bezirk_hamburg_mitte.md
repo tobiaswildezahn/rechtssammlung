@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 17
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18928", "21/19294"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70034"
@@ -167,7 +168,7 @@ Welche Kindertageseinrichtungen im Bezirk Hamburg-Mitte verfügen über kein Au�
 
 Welche Kindertageseinrichtungen in Hamburg-Mitte verfügen über kein Außengelände von mindestens 6 m² pro betreutes Kind im Elementaralter?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Daten zur Größe der Kita-Außenspielgelände werden seitens des zuständigen Bezirksamtes statistisch nicht erfasst. Entsprechende Angaben wären nur durch eine manuelle Auswertung der rund 150 bezirklichen Baugenehmigungsakten zu ermitteln.
 
@@ -201,7 +202,7 @@ Wie viele Platznachweisverfahren wurden seit 2018 im Bezirk Hamburg- Mitte anges
 
 Wie viele offene Platznachweisverfahren wurden seit 2018 im Bezirk Hamburg-Mitte bearbeitet? Bitte jährlich aufschlüsseln.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Seit Ende 2018 wird die Anzahl der Nachweisverfahren monatlich von den Abteilungen Kindertagesbetreuung der Bezirksämter systematisch erfasst. Im Bezirk Hamburg-Mitte wurden für diesen Zeitraum im Jahr 2018 zwei Anträge auf Nachweisverfahren gestellt. Im Jahr 2019 sind neun Anträge auf Nachweisverfahren eingegangen und für das Jahr 2020 bisher zwei.
 

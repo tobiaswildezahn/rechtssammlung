@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 26
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/136"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52926"
@@ -55,15 +56,15 @@ Die Landflächen im Hafennutzungsgebiet des Hamburger Hafens umfassen circa
 
 grundstücke der HPA (siehe Anlage 1) sowie die Nutzungen im Hamburger Hafen (siehe Anlage 2) auf, die sich wie folgt zusammensetzen:
 
- Umschlag circa 677 Hektar
+– Umschlag circa 677 Hektar
 
- Lagerei und Distribution circa 408 Hektar
+– Lagerei und Distribution circa 408 Hektar
 
- Industrie und Gewerbe circa 637 Hektar
+– Industrie und Gewerbe circa 637 Hektar
 
- Ver- und Entsorgung circa 30 Hektar
+– Ver- und Entsorgung circa 30 Hektar
 
- offene Flächen circa 122 Hektar
+– offene Flächen circa 122 Hektar
 
 ### Frage 2
 
@@ -81,15 +82,15 @@ Wie hoch ist der mit dem Unternehmensverband Hafen Hamburg e.V. verhandelte maxi
 
 Die letzte Mietentabelle galt im Zeitraum der Jahre 2011 bis 2015:
 
- 2011: 4,60 Euro/m²
+– 2011: 4,60 Euro/m²
 
- 2012: 4,69 Euro/m²
+– 2012: 4,69 Euro/m²
 
- 2013: 4,85 Euro/m²
+– 2013: 4,85 Euro/m²
 
- 2014: 5,03 Euro/m²
+– 2014: 5,03 Euro/m²
 
- 2015: 5,23 Euro/m²
+– 2015: 5,23 Euro/m²
 
 Für das Jahr 2016 und Folgejahre liegen keine mit dem Unternehmensverband Hafen Hamburg e.V. (UVHH) verhandelten Mieten vor.
 

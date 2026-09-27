@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8247", "21/8801"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60151"
@@ -95,7 +96,7 @@ Wie viele Rettungswagen standen am 25. November 2017 im Bezirk Nord zur Verfügu
 
 Wie viele Notärzte standen am 25. November 2017 im Bezirk Nord zur Verfügung?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Verfügbarkeit von Rettungswagen und notarztbesetzten Rettungsmitteln orientiert sich nicht an innerstädtischen Verwaltungsgrenzen, sondern an einer bestmöglichen gesamtstädtischen Notfallversorgung. Aktuell stehen am Tag 99 Rettungswagen und 16 notarztbesetzte Rettungsmittel zur Verfügung.
 

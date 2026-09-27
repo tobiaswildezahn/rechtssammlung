@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 17
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13890", "21/13904", "21/14014", "21/16951", "21/10256"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67684"
@@ -47,29 +48,29 @@ Welche Kliniken haben sich im Zeitraum 01.04.2019 bis 31.07.2019 zeitweise (drei
 
 #### Antwort zu Frage 1
 
- Zentraler Notaufnahme (ZNA),
+– Zentraler Notaufnahme (ZNA),
 
- Innerer Medizin,
+– Innerer Medizin,
 
- Medizinischer Intensivstation,
+– Medizinischer Intensivstation,
 
- Schockraum,
+– Schockraum,
 
- Stroke Unit,
+– Stroke Unit,
 
- Herzkatheter-Labor,
+– Herzkatheter-Labor,
 
- Kreißsaal,
+– Kreißsaal,
 
- technischen Einschränkungen beispielsweise beim CT, MRT (War-
+– technischen Einschränkungen beispielsweise beim CT, MRT (War-
 
 tung, Ausfall),
 
- weiteren Einzelbereichen wie Neurologie, HNO-Heilkunde, Urologie,
+– weiteren Einzelbereichen wie Neurologie, HNO-Heilkunde, Urologie,
 
 Beatmungskapazität et cetera.
 
- Bitte auch angeben, in welche anderen Krankenhäuser die Patienten/
+– Bitte auch angeben, in welche anderen Krankenhäuser die Patienten/
 
 -innen während der jeweiligen Sperrungen gefahren worden sind und um wie viele Minuten sich dadurch die Transportzeit verlängert hat.
 
@@ -83,7 +84,7 @@ Hat der Senat Kenntnis von zeitgleich oder kurz vor den Sperrungen gestellten Ge
 
 Hat der Senat Erkenntnisse darüber, ob Gefährdungsanzeigen zu Abmeldungen aus der Notfallversorgung führten oder zumindest beitrugen? Bitte Erkenntnisse ausführen und – soweit möglich – auflisten nach Datum, Krankenhaus und Bereich.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Überlastungsanzeigen sind ein internes Instrument eines Betriebes, um Mitarbeiterinnen und Mitarbeitern die Möglichkeit zu geben, auf mögliche Gefährdungen von Patienten hinzuweisen. Die genannten Anzeigen dienen nicht der Kontrolle von Arbeitsschutzbestimmungen. Sie werden grundsätzlich nicht an das Amt für Arbeitsschutz der Behörde für Gesundheit und Verbraucherschutz (BGV) gegeben (siehe Drs. 21/10256).
 

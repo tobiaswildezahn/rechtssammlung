@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10816"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61426"
@@ -69,7 +70,7 @@ Wie viele Unternehmen aus welchen Mitgliedsstaaten der EU haben sich seit 2011 j
 
 Wie viele Unternehmen aus welchen Nicht-EU-Staaten haben sich seit 2011 jeweils jährlich aus welchen Gründen in Hamburg mit wie vielen Arbeitsplätzen angesiedelt? Bitte nach Jahr und Herkunftsland einzeln aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Gewerbeanzeigenstatistik beruht auf den durch die Gewerbeämter an das Statistikamt Nord regelmäßig übermittelten Gewerbeanzeigen. Hier sind nur Einzelunternehmer/-innen nach Staatsangehörigkeiten nachweisbar. Eine Aufgliederung nach EU beziehungsweise nicht EU Staaten liegt nicht vor. Bei der Interpretation der Ergebnisse ist zu berücksichtigen, dass die Abgabe der Gewerbeanmeldungen eine Absichtserklärung über die Aufnahme eines Gewerbes ist. Insbesondere aus den EU-Beitrittsländern Bulgarien und Rumänien sind die Zahlen der Gewerbeanmeldungen zurückgegangen, Grund hierfür ist der in der Regel einfache Gewerbezweck, der in Hamburg deutlich rückläufig nachgefragt wird. Für das Statistische Landesamt ist es darüber hinaus zurzeit nicht nachprüfbar, inwieweit das Gewerbe überhaupt beziehungsweise in der angemeldeten Form aufgenommen worden ist. Daten zu der Anzahl der Arbeitsplätze der anmeldenden Einzelunternehmen liegen dem Statistikamt Nord nicht vor.
 

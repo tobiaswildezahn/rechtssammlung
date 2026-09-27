@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12804", "21/14963", "21/9845"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65090"
@@ -49,7 +50,7 @@ In welchen sozialen Netzwerken sind die Bezirksämter derzeit aktiv? Bitte nach 
 
 Seit wann sind die Bezirksämter in den jeweiligen sozialen Netzwerken aktiv?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/14963.
 
@@ -486,7 +487,7 @@ Welche Klickzahlen wiesen die einschlägigen Seiten der Bezirksämter in den Jah
 
 Wie groß war die durchschnittliche Verweildauer der einzelnen Nutzer auf den einschlägigen Seiten in den Jahren 2016, 2017 und 2018 jeweils? Bitte nach Bezirksämtern und Jahren aufschlüsseln.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Soweit unter „einschlägige Seiten“ die Profilseiten in sozialen Netzwerken gemeint sind: Die Verweildauer wird nicht erhoben.
 
@@ -508,7 +509,7 @@ Welche und wie viele Personen (VZÄ) sind bei den jeweiligen Bezirksämtern mit 
 
 Wurden in den Jahren 2016, 2017 und 2018 Mittel für den Betrieb oder eine Verstärkung der Öffentlichkeitswirksamkeit der Beiträge (beispielsweise Facebook-Werbeanzeigen) aufgewendet? Wenn ja, in welcher Höhe und für welche Auftritte?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Drs. 21/12804 sowie Drs. 21/14963.
 

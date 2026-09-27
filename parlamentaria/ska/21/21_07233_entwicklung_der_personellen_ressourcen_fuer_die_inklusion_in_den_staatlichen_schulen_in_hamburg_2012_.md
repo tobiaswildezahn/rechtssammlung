@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 11
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/3641"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55827"
@@ -53,7 +54,7 @@ Wie stellte/stellt sich die reale Entwicklung der personellen Ressourcen für di
 
 Wie stellte/stellt sich die reale Entwicklung der personellen Ressourcen für die schulische Inklusion an den staatlichen Schulen in den einzelnen Jahren seit 2012 – 2016 dar? (Bitte jeweils insgesamt pro Jahr in Form von Planstellen für Lehrerinnen und Lehrer, Sozialpädagoginnen und Sozialpädagogen sowie Erzieherinnen und Erzieher in einer Excel- Tabelle angeben.) a. Wie stellte/stellt sich dabei der Bedarf für die Grundschulen im Einzelnen dar? (Bitte entsprechend in die Tabelle zu 2. integrieren.) b. Wie stellte/stellt sich dabei der Bedarf für die Sonderschulen im Einzelnen dar? (Bitte entsprechend in die Tabelle zu 2. integrieren.) c. Wie stellte/stellt sich dabei der Bedarf für die Stadtteilschulen im Einzelnen dar? (Bitte entsprechend in die Tabelle zu 2. integrieren.) d. Wie stellte/stellt sich dabei der Bedarf für die Gymnasien im Einzelnen dar? (Bitte entsprechend in die Tabelle zu 2. integrieren.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

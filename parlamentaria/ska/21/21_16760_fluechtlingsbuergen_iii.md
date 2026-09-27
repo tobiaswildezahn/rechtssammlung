@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16053", "21/15126", "21/10240"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66312"
@@ -71,7 +72,7 @@ Hat Hamburg schon das gemäß § 68 Absatz 2 AufenthG gewährte Recht auf Zwangs
 
 In welchem Umfang hat Hamburg schon auf Forderungen aus Bürgschaftsverpflichtungen gemäß § 68 AufenthG verzichtet beziehungsweise soll/wird Hamburg gemäß der Bund/Länder-Einigung anteilig verzichten? Bitte die Zahl der Verzichtsfälle und das betreffende Volumen nennen und nach dem Jahr der Abgabe der Bürgschaftserklärung aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die zur Beantwortung benötigten Daten werden nicht gesondert statistisch erfasst. Eine Einzelfallauswertung von derzeit rund 145 000 Leistungsakten ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

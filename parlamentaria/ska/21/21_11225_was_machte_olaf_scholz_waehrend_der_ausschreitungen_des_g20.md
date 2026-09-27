@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/12734"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60212"
@@ -58,7 +59,7 @@ Welche Termine/Besprechungen hatte der Erste Bürgermeister Olaf Scholz von Donn
 Mit wem und wann hat sich der Bürgermeister in der Zeit vom
 06.07.2017 bis zum 09.07.2017 über sicherheitsrelevante Themen in Hamburg ausgetauscht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Erste Bürgermeister stand im genannten Zeitraum fortlaufend mit dem Innensenator, dem Staatsrat der Innenbehörde und dem Bevollmächtigten beim Bund, der Europäischen Union und für Auswärtige Angelegenheiten im engen Austausch, um sich über die Lage und die Maßnahmen zu informieren. Er hat außerdem Kontakt zur Bundeskanzlerin der Bundesrepublik Deutschland und zur Zweiten Bürgermeisterin gehalten.
 

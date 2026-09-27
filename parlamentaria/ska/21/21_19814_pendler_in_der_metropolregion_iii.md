@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16811", "21/11909"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69554"
@@ -49,7 +50,7 @@ Der Senat beantwortet die Fragen auf der Grundlage der Hamburger Verkehrsverbund
 
 Gibt es darüber hinaus auch statistisches Material über Pendler in die weiter entfernt liegenden Landkreise und kreisfreien Städte? Wenn ja, bitte ebenfalls angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die folgenden Pendlerzahlen beziehen die Pendlerinnen und Pendler ein, die einer sozialversicherungspflichtigen Beschäftigung nachgehen.
 

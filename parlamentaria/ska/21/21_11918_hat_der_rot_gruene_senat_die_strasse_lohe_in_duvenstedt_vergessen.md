@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2954"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61159"
@@ -69,7 +70,7 @@ Wie häufig werden an der Straße Lohe Geschwindigkeitsmessungen durch die zust�
 
 Wann hat die zuständige Fachbehörde zuletzt eine Geschwindigkeitsmessung an der Straße Lohe vorgenommen, auf welcher Höhe wurde die Messung genau vorgenommen, wie viele Geschwindigkeitsüberschreitungen wurden dabei festgestellt und welche Strafen wurden jeweils verhängt (bitte den genauen Messzeitraum angeben)?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Polizei führt Geschwindigkeitskontrollen in der Straße Lohe anlassbezogen durch. Die letzte Geschwindigkeitsmessung wurde am 20. Juli 2017 in der Zeit von 07.58 bis
 09.06 Uhr in Fahrtrichtung stadtauswärts in Höhe Hausnummer 41 durchgeführt. Insgesamt wurden 14 Verwarnungsgeldanzeigen gefertigt und Verwarnungsgelder von 15 bis 35 Euro verhängt. Alle festgestellten Geschwindigkeitsüberschreitungen blieben unterhalb der Bußgeldschwelle.

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62802"
@@ -51,7 +52,7 @@ Wann genau wird der Evaluationsbericht nach derzeitigem Stand vorliegen?
 
 In welcher Form wird dieser veröffentlicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nach derzeitigem Stand wird die mit der Evaluation beauftragte Evangelische Hochschule für Soziale Arbeit und Diakonie einen Auswertungsbericht bis 30. Juni 2018 erstellen und ihn der Auftraggeberin der Begleitforschung, der Behörde für Arbeit, Soziale, Familie und Integration vorlegen. Beteiligte und Mitwirkende an der Ombudsstelle, der Jugendhilfeausschuss HH-Mitte, dem die Ombudsstelle angegliedert ist, sowie die interessierte Fachöffentlichkeit erhalten Gelegenheit, sich umfassend über die Ergebnisse zu informieren.
 
@@ -83,15 +84,15 @@ Welche Personengruppen, insbesondere wie viele Jugendliche, haben sich bisher an
 
 An die Ombudsstelle haben sich bisher gewandt:
 
- 86 Eltern,
+– 86 Eltern,
 
- sechs Großeltern,
+– sechs Großeltern,
 
- 14 Pflegeeltern,
+– 14 Pflegeeltern,
 
- sieben Kinder/Jugendliche,
+– sieben Kinder/Jugendliche,
 
- 19 Sonstige/unbekannt.
+– 19 Sonstige/unbekannt.
 
 ### Frage 7
 

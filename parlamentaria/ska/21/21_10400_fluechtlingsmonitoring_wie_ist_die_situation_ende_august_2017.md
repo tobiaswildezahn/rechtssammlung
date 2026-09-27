@@ -14,6 +14,7 @@ fragen: 31
 einzelfragen: 40
 antwortbloecke: 30
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4919", "21/5124", "21/10092", "21/10366", "21/7162", "21/9757", "21/9357", "21/8934", "21/8557", "21/8192", "21/7828", "21/5812"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59270"
@@ -198,7 +199,7 @@ Wie viele Personen aus welchen Herkunftsländern kamen im August 2017 neu nach H
 
 „Allerdings konnten Ende Juli aufgrund technischer Probleme mit der für die Registrierung verwendeten Software nicht alle neu eintreffenden Personen bearbeitet werden“, heißt es in der Monatsbilanz August des Zentralen Koordinierungsstabs Flüchtlinge (ZKF). Was waren das für Softwareprobleme, von wann bis wann dauerten sie an und können sie erneut auftreten?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Im August 2017 suchten 869 Menschen in Hamburg Schutz. 511 Personen wurden nach den §§ 45, 46 Asylgesetz (AsylG) und § 15a Aufenthaltsgesetz (AufenthG) Hamburg zugewiesen. Die Hauptherkunftsländer der Personen, für die eine Verteilungsentscheidung getroffen wurde, sind der folgenden Übersicht zu entnehmen:
 
@@ -505,21 +506,21 @@ Verlassen haben die örU im gleichen Zeitraum insgesamt 585 Personen (Zuwanderer
 
 Im Bereich der Erstaufnahme und Erstversorgung für unbegleitete minderjährige Ausländer sind im August 2017 59 Personen neu aufgenommen worden. Im selben Monat haben insgesamt 59 unbegleitete minderjährige Ausländer die Erstaufnahme und Erstversorgung wieder verlassen:
 
- Elf unbegleitete minderjährige Ausländer wechselten in eine Folgeeinrichtung im
+– Elf unbegleitete minderjährige Ausländer wechselten in eine Folgeeinrichtung im
 
 Rahmen einer Hilfe zur Erziehung oder verblieben in ihrer Einrichtung mit neuer Hilfeform.
 
- In 24 Fällen erfolgte eine Feststellung der Volljährigkeit und der Umzug in eine
+– In 24 Fällen erfolgte eine Feststellung der Volljährigkeit und der Umzug in eine
 
 Wohnunterkunft.
 
- 21 unbegleitete minderjährige Ausländer haben sich mit unbekanntem Ziel ent-
+– 21 unbegleitete minderjährige Ausländer haben sich mit unbekanntem Ziel ent-
 
 fernt.
 
- Ein unbegleiteter minderjähriger Ausländer ist zu Verwandten gezogen.
+– Ein unbegleiteter minderjähriger Ausländer ist zu Verwandten gezogen.
 
- Zwei unbegleitete minderjährige Ausländer sind zu ihrem zuständigen Jugendamt
+– Zwei unbegleitete minderjährige Ausländer sind zu ihrem zuständigen Jugendamt
 
 zurückgeführt worden.
 

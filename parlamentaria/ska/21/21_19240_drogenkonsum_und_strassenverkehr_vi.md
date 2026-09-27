@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15536", "21/10956"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68967"
@@ -43,7 +44,7 @@ Welche der in der Anlage zu § 24 a StVG aufgeführten berauschenden Mittel sind
 
 Wie haben sich die Zahlen im Vergleich zum Jahr 2018 entwickelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für das Jahr 2019 sind noch nicht alle toxikologischen Gutachten bei der Polizei eingegangen. Nach vorläufigem Stand der Auswertungen der Polizei wurden 2019 bis zum 30. November und im gesamten Jahr 2018 im Zuge von Ordnungswidrigkeitenverfahren gemäß § 24 a Absatz 2 StVG folgende Stoffe im Blut von Kraftfahrzeugführern festgestellt:
 
@@ -152,7 +153,7 @@ Welche Geldbußen wurden diebsbezüglich durchschnittlich und innerhalb welcher 
 In wie vielen Fällen wurden 2018 (ergänzend zur Drs. 21/15536 vom
 13.12.2018) und 2019 (Stichtag 30.11.2019) zusätzlich Fahrverbote verhängt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Höhe der Geldbußen, die Anzahl an verhängten Fahrverboten sowie Fallzahlen sind den beiden Tabellen zu entnehmen.
 
@@ -230,15 +231,15 @@ Die Zielgruppe der Jugendlichen und „jungen Erwachsenen“ wurde hierbei unter
 
 Daneben wurde im Jahr 2019 die Gruppe der erwachsenen Kraftfahrer gezielt auf folgenden Veranstaltungen angesprochen:
 
-• 9. Mai, Gesundheitstag Deutsche Telekom AG,
+– 9. Mai, Gesundheitstag Deutsche Telekom AG,
 
-• 20. bis 24. Mai, Aktionswoche „Alkohol“ auf fünf HVV-Betriebshöfen,
+– 20. bis 24. Mai, Aktionswoche „Alkohol“ auf fünf HVV-Betriebshöfen,
 
-• 1. September, Familientag des Polizeimuseums,
+– 1. September, Familientag des Polizeimuseums,
 
-• 25. September, Sicherheitswoche Ohly GmbH,
+– 25. September, Sicherheitswoche Ohly GmbH,
 
-• 19. November, Verkehrssicherheitstag Beiersdorf AG.
+– 19. November, Verkehrssicherheitstag Beiersdorf AG.
 
 Darüber hinaus wurde vom 03. bis zum 05. September 2019 die 13. Hamburger DIS- Woche (Drogenerkennung im Straßenverkehr) durchgeführt.
 

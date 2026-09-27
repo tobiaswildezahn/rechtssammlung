@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11311"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60995"
@@ -75,7 +76,7 @@ Welche Sanktionen/Maßnahmen hat es vonseiten der Behörde gegen die Betreiber/T
 
 Welche weiteren Maßnahmen hat die Behörde ergriffen, um sicherzustellen, dass derartige Vorfälle in Zukunft ausgeschlossen werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 3. und Drs. 21/11311. Darüber hinaus wurden keine weiteren Maßnahmen ergriffen.
 

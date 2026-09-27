@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48363"
@@ -96,6 +97,6 @@ Welche Maßnahmen hat der Senat bereits ergriffen, um auf diese Auswirkungen zu 
 
 Welche Maßnahmen wird der Senat bis zum Ende der Sperrung noch ergreifen, um auf diese Auswirkungen zu reagieren und den Bevölkerungsschutz im betroffenen Gebiet trotzdem nicht absinken zu lassen und wann werden diese ergriffen werden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Entwicklung der Verkehrssituation in den Zuständigkeitsbereichen der Feuer- und Rettungswachen wird von den zuständigen Dienststellenleitungen in Zusammenarbeit mit den zuständigen Polizeikommissariaten permanent beobachtet. Darüber hinaus sind keine weiteren Maßnahmen erforderlich. Im Übrigen siehe Vorbemerkung.

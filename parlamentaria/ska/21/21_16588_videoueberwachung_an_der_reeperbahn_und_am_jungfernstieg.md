@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 28
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14162", "21/3737", "21/4208"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66121"
@@ -55,11 +56,11 @@ Von welchem Hersteller und welchem Typ sind die verwendeten Kameras und welchen 
 
 Die Polizei hat an den Standorten
 
- Reeperbahn/Große Freiheit/Beatlesplatz,
+– Reeperbahn/Große Freiheit/Beatlesplatz,
 
- Reeperbahn/Talstraße,
+– Reeperbahn/Talstraße,
 
- Reeperbahn/Hamburger Berg
+– Reeperbahn/Hamburger Berg
 
 die dortigen Bestandskameras durch jeweils zwei Kameras des Typs Hikvision DS- 2DF8223 ersetzt. Sie sind mit einem Zoomobjektiv (Brennweite 5,7 – 120mm) versehen und 360 Grad endlos schwenkbar; die Bildauflösung beträgt 1 920 x 1 080 Pixel.
 
@@ -139,19 +140,19 @@ Die Summe der Fälle der Delikte der Straßenkriminalität kann höher sein als 
 
 Dies liegt daran, dass die Delikte
 
- Diebstahl insgesamt von Kraftwagen (einschließlich unbefugter Ingebrauchnahme)
+– Diebstahl insgesamt von Kraftwagen (einschließlich unbefugter Ingebrauchnahme)
 
 (PKS-Schlüssel *001**),
 
- Diebstahl insgesamt von Mopeds und Krafträdern (einschließlich unbefugter Inge-
+– Diebstahl insgesamt von Mopeds und Krafträdern (einschließlich unbefugter Inge-
 
 brauchnahme) (PKS-Schlüssel *002**)
 
- Diebstahl insgesamt von Fahrrädern (einschließlich unbefugter Ingebrauchnahme)
+– Diebstahl insgesamt von Fahrrädern (einschließlich unbefugter Ingebrauchnahme)
 
 (PKS-Schlüssel *003**) und
 
- Diebstahl insgesamt von/aus Automaten (PKS-Schlüssel *007**)
+– Diebstahl insgesamt von/aus Automaten (PKS-Schlüssel *007**)
 
 auch Fälle enthalten, die nicht der Straßenkriminalität zugeordnet werden, zum Beispiel Diebstähle aus Neu- und Rohbauten, Baustellen, Keller, Böden, Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen. Bei Diebstahl von/aus Automaten kommen noch die Diebstähle von/aus Gaststätten, Kantinen Hotels und Pensionen dazu.
 
@@ -168,7 +169,7 @@ Die kleinste räumliche Einheit in der Polizeilichen Kriminalstatistik ist der O
 
 Wird die Kameraüberwachung an der Reeperbahn evaluiert? Wenn ja, von wem, nach welchen Zeiträumen und nach welchen Kriterien? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Polizei kann Daten zu kleineren räumlichen Bereichen in Sonderauswertungen erheben, wie sie dies im Rahmen von Auswertungen zum Glasflaschenverbot oder zum Waffenverbotsgebiet St. Pauli erhoben hat. Siehe hierzu die Drs. 21/4208.
 

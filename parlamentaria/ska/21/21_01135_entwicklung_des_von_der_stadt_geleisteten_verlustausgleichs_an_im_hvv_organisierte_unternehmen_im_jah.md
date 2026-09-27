@@ -10,12 +10,13 @@ urheber: ["Dennis Thering"]
 fraktionen: ["CDU"]
 vorgang: 45112
 seiten: 2
-fragen: 0
-einzelfragen: 0
-antwortbloecke: 0
+fragen: 1
+einzelfragen: 4
+antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/671"]
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49316"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/49316/21_01135_entwicklung_des_von_der_stadt_geleisteten_verlustausgleichs_an_im_hvv_organisierte_unternehmen_im_jahr_2014"
 abgerufen: "2026-09-27"
@@ -27,9 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Dennis Thering (CDU) vom 24.07.15 und Antwort des Senats · Drucksache vom 31.07.2015  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/49316) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/49316/21_01135_entwicklung_des_von_der_stadt_geleisteten_verlustausgleichs_an_im_hvv_organisierte_unternehmen_im_jahr_2014)
 
-## Volltext
-
-Entwicklung des von der Stadt geleisteten Verlustausgleichs an im HVV organisierte Unternehmen im Jahr 2014
+## Einleitung für die Fragen
 
 Die Leistungen des öffentlichen Personennahverkehrs (ÖPNV) in Hamburg und der Metropolregion werden durch die im Hamburger Verkehrsverbund (HVV) organisierten Unternehmen erbracht. Die einzelnen Unternehmen unterscheiden sich aber hinsichtlich der Kosten- und Einnahmestrukturen erheblich, wodurch der Grad der Kostendeckung durch aus Beförderungsentgelten erwirtschafteten Einnahmen je nach Unternehmen sehr unterschiedlich ausfällt. Dadurch variiert auch die Höhe der Zahlungen, die die Stadt zum Verlustausgleich an jene Verkehrsunternehmen zahlt, an denen die Stadt beteiligt ist.
 
@@ -37,7 +36,13 @@ Die Werte für das Jahr 2014 konnte der Senat in der Antwort aus Drs. 21/671 mit
 
 Vor diesem Hintergrund frage ich den Senat:
 
+## Einleitung für die Antworten des Senats
+
 Der Senat beantwortet die Fragen auf der Grundlage von Auskünften der AKN Eisenbahn AG, der HADAG Seetouristik und Fährdienst AG (HADAG), der Hamburger Hochbahn AG, der Hamburger Verkehrsverbund GmbH sowie der Verkehrsbetriebe Hamburg-Holstein AG wie folgt:
+
+## Fragen und Antworten
+
+### Frage 1
 
 Liegen die Jahresabschlüsse für das Jahr 2014 der im HVV organisierten Unternehmen, und hier insbesondere jener mit städtischer Beteiligung, mittlerweile vor?
 
@@ -49,15 +54,29 @@ b) Wie haben sich die Kostendeckungsgrade der im HVV organisierten Unternehmen m
 
 Wenn nein, wann werden die Jahresabschlüsse für das Jahr 2014 der im HVV organisierten Unternehmen mit städtischer Beteiligung vorliegen?
 
+#### Antwort zu Frage 1
+
 Ja. Die Angaben sind der nachfolgenden Tabelle zu entnehmen:
 
-Verlustausgleichszahlung Kostendeckungsgrad  
-in Tsd. Euro in %  
-AKN Eisenbahn AG 3.117 (nur Personenver- 62,7 (AKN gesamt)  
-kehr in Hamburg)  
+Verlustausgleichszahlung in Tsd. Euro
+
+Kostendeckungsgrad
+
+in %  
+AKN Eisenbahn AG  
+3.117 (nur Personenverkehr in Hamburg)  
 3.491 (Personen- und  
-Güterverkehr in Hamburg)  
-HADAG 8.288 51,5  
-Hamburger Hochbahn AG 55.439 90,0  
-Verkehrsbetriebe Hamburg- 15.043 88,8  
+Güterverkehr in Hamburg)
+
+62,7 (AKN gesamt)
+
+HADAG  
+8.288  
+51,5  
+Hamburger Hochbahn AG  
+55.439  
+90,0  
+Verkehrsbetriebe Hamburg-  
 Holstein AG
+
+15.043 88,8

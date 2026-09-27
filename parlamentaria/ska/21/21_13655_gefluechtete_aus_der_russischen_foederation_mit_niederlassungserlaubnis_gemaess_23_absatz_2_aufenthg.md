@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13348"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63020"
@@ -96,6 +97,6 @@ In wie vielen Fällen haben die russischen Staatsbürger freiwillige Angaben üb
 
 Welche Volkszugehörigkeiten wurden auf der Grundlage dieser Angaben erfasst?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Vorbemerkung.

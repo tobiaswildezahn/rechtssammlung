@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54235"
@@ -61,7 +62,7 @@ An welchen Straßen im Hamburger Stadtgebiet traten in den Jahren 2011 – 2016 
 
 In welchem Umfang und wie lange kam es infolge dieser hitzebedingten Straßenschäden zu Sperrungen von Fahrbahnen oder ganzen Straßen? Bitte für jeden Fall getrennt angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 In besagtem Zeitraum sind im Hamburger Stadtgebiet Verwerfungen in der Scharbeutzer Straße (Sommer 2013) und im Friedrich-Ebert-Damm (Sommer 2016) aufgetreten. Fahrbahnsperrungen waren zur Behebung nicht erforderlich.
 

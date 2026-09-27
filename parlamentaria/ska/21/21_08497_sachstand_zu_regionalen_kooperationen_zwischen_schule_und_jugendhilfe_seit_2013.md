@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 38
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57227"
@@ -45,11 +46,11 @@ Die Kooperationsangebote nach Rahmenvereinbarung wurden mit dem Ziel eingerichte
 
 Der Zugang zu den Kooperationsangeboten erfolgt über zwei Wege, die in den ReBBZ zusammenlaufen:
 
- Die Schule meldet ein Kind beziehungsweise einen Jugendlichen mit besonders
+– Die Schule meldet ein Kind beziehungsweise einen Jugendlichen mit besonders
 
 herausforderndem sozialen Verhalten beim zuständigen ReBBZ oder bei der Beratungsstelle Gewaltprävention an. Das ReBBZ berät je nach Bedarf die Schule und die Eltern und begleitet die Schülerin beziehungsweise den Schüler. Reicht die Unterstützung durch das ReBBZ nicht aus, schaltet dieses unter Beteiligung der Eltern den Allgemeinen Sozialen Dienst (ASD) ein.
 
- Die fallzuständigen Fachkräfte im ASD der bezirklichen Fachämter der Jugend-
+– Die fallzuständigen Fachkräfte im ASD der bezirklichen Fachämter der Jugend-
 
 und Familienhilfe oder im Familien Interventionsteam (FIT) wenden sich an das ReBBZ, wenn in einer Familie massive Schulprobleme der Kinder beziehungsweise Jugendlichen mit extremen häuslich-familiären Problemen zusammentreffen.
 
@@ -57,11 +58,11 @@ Die Entscheidung, welche Kinder und Jugendlichen in das Kooperationsprojekt aufg
 
 Abhängig von der Problemlage der teilnehmenden Schülerinnen und Schüler sind folgende Modelle von Unterstützungsangeboten möglich:
 
- Modell I – Integriertes und individualisiertes Unterstützungsangebot in einer Schu-
+– Modell I – Integriertes und individualisiertes Unterstützungsangebot in einer Schu-
 
 le: Die jungen Menschen werden ganztägig durch einen strukturierten Tagesablauf von Sozial- und Schulpädagogen beziehungsweise Erziehern in der Schule durch Unterricht und ein individuelles, flexibles und kombiniertes Unterstützungsprogramm gefördert, mit dem auf eine sowohl zügige als auch nachhaltige Integration in den normalten Schulalltag hingewirkt werden soll.
 
- Modell II – Temporäre Lerngruppen außerhalb des regulären Schulbetriebs: Für
+– Modell II – Temporäre Lerngruppen außerhalb des regulären Schulbetriebs: Für
 
 junge Menschen, die mit einem in die Schule integrierten Angebot nicht erreicht werden können oder deren Beschulung und Betreuung in einem integrierten Projekt gescheitert ist, können temporäre Lerngruppen außerhalb des regulären Schulbetriebs bei den ReBBZ eingerichtet werden. Zu den Arbeitsbereichen der temporären Lerngruppen gehören neben dem Unterricht und der Arbeit am Sozialverhalten der Kinder und Jugendlichen stets eine intensive Elternarbeit sowie die Einbeziehung sozialräumlicher Angebote.
 

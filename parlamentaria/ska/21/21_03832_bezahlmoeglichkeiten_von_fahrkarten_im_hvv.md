@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 19
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/801"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52195"
@@ -674,7 +675,7 @@ Wie beurteilt der Senat die Zukunftsfähigkeit der NFC bezüglich der Bezahlung 
 
 Planen der HVV beziehungsweise eines oder mehrere der dort zusammengeschlossenen Verkehrsunternehmen den Einsatz der NFC-Technologie zum Bezahlen von Fahrkarten? Wenn ja, zu wann, wo und in welcher Form?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die Datenübertragung von und auf HVV-Cards erfolgt über NFC-Technologie. Im Übrigen siehe Antwort zu 8.
 

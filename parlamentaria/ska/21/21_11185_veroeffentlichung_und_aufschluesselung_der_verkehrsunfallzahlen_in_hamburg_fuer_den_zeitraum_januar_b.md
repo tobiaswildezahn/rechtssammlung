@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10150", "21/10270", "21/10292", "21/10296", "21/10297", "21/10308", "21/10309", "21/10316", "21/10317", "21/8126", "21/721", "21/11171", "21/11172", "21/11195", "21/11215", "21/11234", "21/11182"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60161"
@@ -859,6 +860,6 @@ a) Wie viele Leichtverletzte waren darunter?
 b) Wie viele Schwerverletzte waren darunter?
 c) Wie viele Getötete waren darunter? Bitte jeweils die Vergleichszahlen aus den Zeiträumen Januar bis einschließlich September der Jahre seit 2011 angeben sowie nach Bezirken aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Eine weitergehende Beantwortung der Anfrage, in der Daten aus jeweils drei Quartalen in sieben Jahren für sieben Bezirke abgefragt werden, ist in der für die Beantwortung dieser Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht möglich. Eine umfassendere Beantwortung der Fragen 4. und 5. war daher nicht möglich. Die für die Beantwortung der Fragen zuständige Dienststelle Grundsatz Verkehr, Bereich Unfallauswertung und -analyse, der Direktion Polizeikommissariate und Verkehr (DPV 022) ist außer mit dieser Anfrage zeitgleich mit der Beantwortung der Teile I, II, IV, V und VI der Parlamentarischen Anfrage mit gleichen Fragestellungen zu unterschiedlichen Verkehrsbeteiligungen (Drs. 21/11171, 21/11172, 21/11195, 21/11215 und 21/11234) und einer weiteren Parlamentarischen Anfrage (Drs. 21/11182) befasst. Die Beantwortung der genannten Anfragen erfordert umfangreiche Auswertungen der in EUSka gesammelten Daten durch hierfür geschulte Mitarbeiter.

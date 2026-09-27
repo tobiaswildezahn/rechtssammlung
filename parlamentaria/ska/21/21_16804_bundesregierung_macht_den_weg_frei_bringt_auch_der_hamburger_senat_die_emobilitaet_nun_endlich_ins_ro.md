@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13078", "21/14947"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66346"
@@ -73,7 +74,7 @@ Ist es geplant, die Gesamtzahl der E-Scooter sowie anderer Elektrokleinstfahrzeu
 
 Welche Pläne verfolgt der Senat, bezüglich der Abstellung von E-Scootern und anderen Elektrokleinstfahrzeugen auf öffentlichem Grund (Komplettverbot beziehungsweise Abstellen nur auf Privatgelände, Abstellen nur gegen Gebühr, Abstellen nur auf ausgewiesenen Flächen et cetera)?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Das Befahren öffentlicher Wege mit und das Abstellen von Elektro-Tretrollern und anderen Elektrokleinstfahrzeugen (analog zu Fahrrädern) auf öffentlichen Wegen im Rahmen der Teilnahme am Verkehr ist vom Gemeingebrauch umfasst. Die öffentlichen gewidmeten Wege dienen dem Gemeingebrauch; sie dürfen ohne besondere Erlaubnis im Rahmen der Widmung und der Vorschriften über den Straßenverkehr zum Verkehr benutzt werden, soweit andere dadurch nicht in ihrem Gemeingebrauch unzumutbar beeinträchtigt werden und Sondernutzungen nicht entgegenstehen (§ 16 Absatz 1 HWG).
 

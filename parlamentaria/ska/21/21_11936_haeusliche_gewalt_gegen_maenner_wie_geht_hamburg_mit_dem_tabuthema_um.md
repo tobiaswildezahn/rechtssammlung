@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 31
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10994", "21/1231", "21/5359", "21/6000", "21/6475", "21/6548", "21/7706", "21/8014", "21/8539", "21/9910", "21/11908", "21/5214", "21/2980", "21/10582", "21/3638", "21/11859"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61187"
@@ -51,7 +52,7 @@ Welche Beratungsstellen in Hamburg bieten weiblichen Opfern häuslicher Gewalt H
 
 Welche Beratungsstellen in Hamburg bieten männlichen Opfern häuslicher Gewalt Hilfe an und in welchem Umfang? Bitte erläutern.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -71,7 +72,7 @@ Welche Möglichkeiten stehen weiblichen Opfern häuslicher Gewalt zur Verfügung
 
 Welche Möglichkeiten stehen männlichen Opfern häuslicher Gewalt zur Verfügung, die einen Schutzraum suchen, und wie häufig wurden solche Angebote der Opferhilfe von männlichen Opfern häuslicher Gewalt in den letzten fünf Jahren in Hamburg in Anspruch genommen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 3. Zur Inanspruchnahme der Hamburger Frauenhäuser in den letzten fünf Jahren siehe Drs. 21/1231, 21/5214, 21/9910. Im Übrigen siehe Vorbemerkung.
 
@@ -83,7 +84,7 @@ Wie viele weibliche Opfer häuslicher Gewalt wurden in den letzten fünf Jahren 
 
 Wie viele männliche Opfer häuslicher Gewalt wurden in den letzten fünf Jahren in Hamburg registriert und wie viele haben Hilfe bei einer Beratungsstelle gesucht? Wie viele davon waren geflüchtete Männer?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Fälle der häuslichen Gewalt werden in der Polizeilichen Kriminalstatistik (PKS) nicht gesondert ausgewiesen. Ersatzweise wird die Anzahl der Opfer in der Kategorie Partnerschaften (Ehepartner, eingetragene Lebenspartnerschaft, Partner nichtehelicher Lebensgemeinschaften, ehemalige Partnerschaften) im Folgenden für die ausgewählten PKS-Schlüssel „Gewaltkriminalität“ und „Vorsätzliche einfache Körperverletzung“ dargestellt.
 
@@ -186,7 +187,7 @@ Gibt es in Hamburgs psychiatrischen Kliniken Stationen für weibliche Gewaltopfe
 
 Gibt es in Hamburgs psychiatrischen Kliniken Stationen für männliche Gewaltopfer? Wenn ja, bitte die Kliniken benennen.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die Fachabteilungen für Psychiatrie und Psychotherapie der Hamburger Krankenhäuser bieten eine medizinische Vollversorgung für Patientinnen und Patienten mit psychiatrischen Diagnosen, bei denen eine vollstationäre Krankenhausbehandlung indiziert ist. Die Binnenstrukturierung der psychiatrischen Krankenhausabteilungen orientiert sich in der Regel an Krankheitsbildern, um Patientinnen und Patienten mit gleicher oder ähnlicher Indikation ihrem Bedarf entsprechend spezielle psychotherapeutische, psychopharmakologische und sozial-psychiatrische Konzepte zur Behandlung anzubieten.
 

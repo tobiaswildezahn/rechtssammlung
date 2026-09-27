@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53701"
@@ -45,7 +46,7 @@ Wie stellt sich der Sachverhalt im Einzelnen dar?
 
 Welche Maßnahmen wurden nach dem Vorfall von wem ergriffen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine Lehrerin der Kurt-Tucholsky-Schule wollte einem Schüler im Anschluss an seine bestandene mündliche Abiturprüfung mit Handschlag gratulieren. Der Schüler erklärte der Lehrerin, dass er ihr aus religiösen Gründen nicht die Hand geben wolle. Darüber wurde die Schulleiterin von der betroffenen Lehrerin und dem Tutor des Schülers informiert. Die Lehrerin und der Tutor baten die Schulleiterin, ein Zeichen zu setzen und den Schüler von den Abiturfeierlichkeiten auszuschließen.
 

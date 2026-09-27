@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 20
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13388", "21/780"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50003"
@@ -60,7 +61,7 @@ Welche Förderprogramme/Förderwege/Ergänzungsmodule sollen von der Erhöhung d
 Plant der Senat aufgrund der zusätzlichen Kompensationsmittel eine Veränderung der im Koalitionsvertrag genannten Zielzahl von jährlich
 2.000 geförderten Wohnungen? Wenn ja, welche Veränderungen sind geplant? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Senat wird den geförderten Mietwohnungsneubau weiter stärken. Konkrete Programmänderungen gibt es derzeit nicht.
 
@@ -96,6 +97,6 @@ Plant der Senat, als Anreizinstrumente für den Neubau von preiswertem Wohnraum 
 
 Plant der Senat, als Anreizinstrumente für den Neubau von preiswertem Wohnraum in Gebieten mit angespannter Wohnungslage, Veränderungen von landesrechtlichen Gesetzen, Verordnungen und Dienstanweisungen, um die durch staatliche Forderungen entstehenden zusätzlichen Herstellungskosten von Gebäuden, insbesondere für den sozialen Wohnungsbau, zu verringern?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Nein. Die Maßnahmen, die im Rahmen des Bündnisses für das Wohnen in Hamburg und in diesem Zusammenhang insbesondere zur Beschleunigung der Baugenehmigungsverfahren ergriffen worden sind, sind ausreichend.

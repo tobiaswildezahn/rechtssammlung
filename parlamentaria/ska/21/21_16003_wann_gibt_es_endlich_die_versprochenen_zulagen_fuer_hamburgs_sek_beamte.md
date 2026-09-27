@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65521"
@@ -85,6 +86,6 @@ Wird im Rahmen der anstehenden Aktualisierung der HmbEZulVO auch gleich die Anpa
 
 Welche weiteren Änderungen der HmbEZulVO sind geplant?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung.

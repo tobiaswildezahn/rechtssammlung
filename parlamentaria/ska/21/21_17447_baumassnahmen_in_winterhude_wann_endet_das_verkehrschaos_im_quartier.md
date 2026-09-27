@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7748"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67048"
@@ -65,7 +66,7 @@ Wie ist der aktuelle Stand bezüglich der Baumaßnahme Bushaltestelle Semperstra
 
 Wie ist der aktuelle Stand bezüglich der Baumaßnahme Bushaltestelle Borgweg und bis wann sollen diese Arbeiten abgeschlossen sein? Welche Umleitungen/Sperrungen sind in diesem Zusammenhang geplant?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Maßnahme Semperstraße befindet sich derzeit in der Ausschreibung. Sie ist ebenso wie die Maßnahme an der Bushaltestelle Borgweg Bestandteil der MetroBus- Linie 6 und wird im Rahmen des Sonderprogramms Ausbau und Förderung des öffentlichen Personennahverkehrs umgebaut. Der Baubeginn wird voraussichtlich im August 2019 erfolgen und die Bauarbeiten bis Ende Dezember des Jahres 2019 andauern. Es gibt unterschiedliche Bauphasen. Der Verkehr wird mit einem Fahrstreifen je Richtung durch das Baufeld geführt. Die Einmündung zur Semperstraße wird gesperrt werden.
 

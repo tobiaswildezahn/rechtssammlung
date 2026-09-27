@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17065", "21/16110"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66800"
@@ -77,7 +78,7 @@ Wie teuer ist die Machbarkeitsstudie beziehungsweise wie hoch werden die Kosten 
 
 Aus welchem Budget wird die Machbarkeitsstudie bezahlt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/17065.
 
@@ -111,9 +112,9 @@ Welche Fremd- und Giftstoffe sind bei Flut im Wasser des Hamburger Hafens vorhan
 
 Eine Überschreitung der jeweiligen Umweltqualitätsnorm (UQN) gemäß Oberflächengewässerverordnung (OGewV) liegt in der Elbe bei Zollenspieker als qualitative Referenzmessstelle bei folgenden Schadstoffen für das Jahr 2018 vor:
 
- Prioritäre Stoffe: Benzo(a)pyren, Perfluoroctansulfonsäure,
+– Prioritäre Stoffe: Benzo(a)pyren, Perfluoroctansulfonsäure,
 
- Flussgebietsspezifische Stoffe: Imidacloprid, Nicosulfuron, Omethoat.
+– Flussgebietsspezifische Stoffe: Imidacloprid, Nicosulfuron, Omethoat.
 
 ### Frage 10
 

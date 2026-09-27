@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17598"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67685"
@@ -75,7 +76,7 @@ Welche Vorgaben betreffend der Clearingstelle gibt es derzeit (Fachanweisungen, 
 
 Sind Überarbeitungen oder Änderungen der unter Frage 4. genannten Vorgaben geplant? Wenn ja, welche?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Vorgaben für die Clearingstelle ergeben sich aus dem jeweils gültigen Zuwendungsbescheid. Darüber hinaus siehe Vorbemerkung und Drs. 21/17598. Im Übrigen sind die Planungen und Überlegungen hierzu noch nicht abgeschlossen.
 

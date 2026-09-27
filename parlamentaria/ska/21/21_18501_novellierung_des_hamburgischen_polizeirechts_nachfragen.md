@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18273"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68163"
@@ -62,7 +63,7 @@ Aus welchen Gründen macht der Senat anders als einige andere Landeregierungen �
 
 Welche Kriterien sind bei der Beurteilung, ob eine Frage die Einsatztaktik der Polizei berührt, maßgeblich? Bitte genau begründen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Senat macht aus grundsätzlichen Erwägungen keine Angaben zu Fragestellungen, die Einsatztaktik der Polizei berühren, da derartige Angaben zu einer Gefährdung der eingesetzten Beamten oder Dritter führen könnten. Darüber hinaus gefährden derartige Angaben die weitere erfolgreiche Nutzung polizeilicher Einsatzmittel und damit den gesamten Einsatzerfolg zukünftiger Maßnahmen. Dies würde die Funktionsfähigkeit der Polizei in ihrem Kernbereich gefährden.
 
@@ -76,7 +77,7 @@ Inwieweit ist die Frage, über welche (empirischen) Erfahrungswerte der Senat hi
 
 Inwieweit fallen nach Auffassung des Senates Fragen nach den Erfahrungswerten und Erkenntnissen des hamburgischen Senats über Regelungen in anderen Bundesländern nicht unter das parlamentarische Fragerecht? Bitte genau begründen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Fragen nach Erfahrungswerten und Erkenntnissen zu Regelungen anderer Länder sowie des Einsatzes oder des Nutzens einzelner Einsatzmittel, deren Rechtmäßigkeit sich nach Rechtsgrundlagen anderer Länder richten, implizieren stets eine Darstellung, Auswertung oder Bewertung eben dieser. Hierzu ist der Senat im Rahmen der Beantwortung Parlamentarischer Anfragen nicht verpflichtet. Das Verwaltungshandeln anderer Länder und dessen Grundlagen sind darüber hinaus nicht vom parlamentarischen Fragerecht der Hamburgischen Bürgerschafft umfasst.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5277", "21/2358"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54188"
@@ -68,9 +69,9 @@ Liegen die Untersuchungsergebnisse inzwischen vor? a. Wenn ja, welche Belastunge
 
 Ja.
 
- Alster/Lombardsbrücke maximal 43 µg/l Blaualgenchlorophyll
+– Alster/Lombardsbrücke maximal 43 µg/l Blaualgenchlorophyll
 
- Eichbaumsee 50,2 µg/l Blaualgenchlorophyll
+– Eichbaumsee 50,2 µg/l Blaualgenchlorophyll
 
 ### Frage 4
 
@@ -96,7 +97,7 @@ Welche Maßnahmen plant der Senat, um die Belastungen zu mindern und wann sollen
 
 Welche weiteren Maßnahmen plant der Senat, um den chemischen und ökologischen Zustand des Gewässers zu verbessern?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 20/5277 und Drs. 21/2358. Darüber hinaus wird durch verstärkte Information der Bevölkerung auf die Schädlichkeit des Fütterns von Wasservögeln infolge der dadurch verursachten weiteren Erhöhung der Nährstoffgehalte im Gewässer hingewiesen.
 

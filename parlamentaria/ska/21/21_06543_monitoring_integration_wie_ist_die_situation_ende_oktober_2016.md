@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 31
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4499", "21/4566", "21/4765", "21/5126", "21/5454", "21/5811", "21/6223", "21/5832", "21/6428", "21/6503"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55078"
@@ -99,7 +100,7 @@ Welchen Berufsgruppen sind die bisher erfassten Personen zuzuordnen?
 
 Wie viele Personen wurden bereits von W.I.R in Sprachkurse, Praktika, Ausbildung, Arbeit oder Studium vermittelt? Bitte einzeln aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/5832.
 
@@ -196,7 +197,7 @@ Wie viele Flüchtlinge haben mit Stand Ende Oktober im Jahr 2016 bereits einen v
 
 Wie viele Flüchtlinge haben mit Stand Ende Oktober 2016 bereits einen vom Land finanzierten Sprachkurs absolviert? Wie viele davon sind Männer, wie viele Frauen? Bitte jeweils für „Deutschkurse für Flüchtlinge“ und „Erstorientierung für Flüchtlinge“ angeben.
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Bis Ende September 2016 wurden für das Programm „Deutschkurse für Flüchtlinge“ von den Sprachkursträgern Abrechnungen für 578 Absolventinnen und Absolventen eingereicht. Davon waren 477 Personen männlich und 101 Personen weiblich.
 

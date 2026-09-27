@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 12
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4107", "21/11796"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62473"
@@ -59,13 +60,13 @@ Im Nachgang der Delegationsreise wurde beim Deutschen Elektronen-Synchrotron (DE
 
 Als Ergebnis der Reise und des wissenschaftlichen Austausches wird DESY folgende konkreten Maßnahmen ergreifen:
 
-• Die Beteiligung an einem hochrangigen Wissenschaftssymposiums im Rahmen der Eröffnung des Büros der Helmholtz-Gemeinschaft in Tel Aviv am 22. Oktober 2018.
+– Die Beteiligung an einem hochrangigen Wissenschaftssymposiums im Rahmen der Eröffnung des Büros der Helmholtz-Gemeinschaft in Tel Aviv am 22. Oktober 2018.
 
-• Die Durchführung eines Photon Science Workshops in Israel, welchen DESY zusammen mit dem European XFEL im November 2018 organisieren wird.
+– Die Durchführung eines Photon Science Workshops in Israel, welchen DESY zusammen mit dem European XFEL im November 2018 organisieren wird.
 
-• Die Organisation eines Young Investigator Workshops in Hamburg im März 2019, zu dem 30 junge israelische Forschende zur horizontalen Vernetzung nach Hamburg eingeladen werden.
+– Die Organisation eines Young Investigator Workshops in Hamburg im März 2019, zu dem 30 junge israelische Forschende zur horizontalen Vernetzung nach Hamburg eingeladen werden.
 
-• Der Aufbau einer Helmholtz-Israel Plattform für Strukturbiologie in Zusammenarbeit mit dem CSSB.
+– Der Aufbau einer Helmholtz-Israel Plattform für Strukturbiologie in Zusammenarbeit mit dem CSSB.
 
 ### Frage 2
 

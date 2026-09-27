@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58742"
@@ -60,7 +61,7 @@ Wie viele Kontenabrufe wurden in den Jahren 2015 bis 2017 durch Dienststellen de
 
 Wie viele der Abrufe wurden jeweils von Sozial- beziehungsweise Arbeitsämtern, von BAföG-Ämtern, von Finanzämtern, von Strafverfolgungsbehörden sowie von Gerichten respektive Gerichtsvollziehern gestartet? Welche sonstigen Dienststellen haben jeweils wie viele Abrufe gestartet? (Bitte jahresweise nach genannten, die Daten abfragenden Dienststellenkategorien differenzieren.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Zu den vom Bundeszentralamt für Steuern erledigten Kontenabrufen gemäß § 93 Abgabenordnung siehe Anlage 1. Für Zeiträume nach Inkrafttreten des Steuerumgehungsbekämpfungsgesetzes liegen noch keine Daten vor. Im Übrigen siehe Vorbemerkung.
 

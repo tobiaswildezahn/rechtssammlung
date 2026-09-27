@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13722"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63178"
@@ -75,7 +76,7 @@ Erfolgt die Zeugniserstellung ausschließlich durch den Klassenlehrer? Wenn nein
 
 Wie können Lehrer in dieser Hinsicht entlastet werden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Für die Erstellung der Zeugnisse gibt es in den Schulen unterschiedliche Verfahren, in denen ebenso Fachlehrkräfte und Abteilungsleitungen mitwirken. Mit der neuen Schulmanagementsoftware DiViS wirken zukünftig alle Mitglieder der Zeugniskonferenz an der Erstellung der Zeugnisse mit. DiViS erleichtert die vorbereitenden Arbeiten und die Erstellung der Zeugnisse.
 
@@ -95,7 +96,7 @@ An wie vielen Schulen, in welchen Klassenstufen und aus welchem Grund werden die
 
 An wie vielen Schulen und in welchen Klassenstufen werden in diesen vier Wochen Projektwochen zu welchen Themen veranstaltet?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung.
 
@@ -107,7 +108,7 @@ Wie schätzt der Senat beziehungsweise die zuständige Behörde den unterrichtsi
 
 Vor dem Hintergrund von 20 Prozent Grundschülern, die in Klasse 4 die Mindestanforderungen in Lesen, Schreiben und Rechnen nicht erfüllen und nachgewiesenen Defiziten zum Beispiel in den MINT-Fächern an den weiterführenden Schulen: Wie will der Senat beziehungsweise die zuständige Behörde diesen entgegenwirken und inwiefern wird er beziehungsweise sie die vier Wochen vor den Sommerferien und entsprechend vor dem Ende des Schulhalbjahres gewinnbringend für die Schüler zur Behebung der Defizite einsetzen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Zur Verbindlichkeit der Stundentafeln im gesamten Schuljahr siehe Drs. 21/13722. Gemäß § 39 der Ausbildungs- und Prüfungsordnung für die Grundschule und die Jahrgangsstufen 5 bis 10 der Stadtteilschule und des Gymnasiums ersetzen pflichtmäßige Schulveranstaltungen wie Betriebspraktika, Praxislerntage und Schulfahrten den Unterricht nach der Stundentafel. Im Rahmen der genannten Vorschrift steht es den Schulen frei, das Schuljahr zu gestalten und den Zeitraum zwischen den Zeugniskonferenzen und der Zeugnisausgabe verstärkt für die Vermittlung der in den §§ 2 und 3 des Hamburgischen Schulgesetzes genannten Bildungs- und Erziehungsziele sowie überfachlicher Kompetenzen zu nutzen.
 

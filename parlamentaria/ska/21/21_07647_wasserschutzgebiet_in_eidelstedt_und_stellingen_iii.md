@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 22
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5169", "16/6083", "21/5404"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56272"
@@ -51,7 +52,7 @@ Sind Teilaspekte, die sich in einem wasserwirtschaftlichen Gesamtkonzept finden 
 
 Sind Einzelmaßnahmen, die sich in einem wasserwirtschaftlichen Gesamtkonzept finden würden, erarbeitet worden? Wenn ja, um welche Maßnahmen handelt es sich? Sind diese veröffentlicht worden? Wenn ja, wann und wo? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die in der Drs. 16/6083 erwähnten maßgeblichen Einzelaspekte in diesem Gebiet (Altlastensanierung und Schutzwürdigkeit des Einzugsgebietes für eine spätere Schutzgebietsfestsetzung) sind detailliert im Rahmen der wasserbehördlichen Aufgaben in zahlreichen Einzelprojekten zur Sicherung und Sanierung von Untergrundverunreinigungen bearbeitet und vorangetrieben worden. Dadurch kann die Grundwasserressource im Einzugsgebiet des Wasserwerks Stellingen heute als langfristig gesichert und gleichzeitig als schutzwürdig eingestuft werden. Der Senat hat darüber zuletzt mit der Drs. 21/5404 „Statusbericht zur Trinkwasserversorgung in Hamburg“ berichtet.
 
@@ -85,17 +86,17 @@ In seiner Antwort auf die Fragen 8. und 9. in Drs. 21/5169 führt der Senat aus:
 
 In Wasserschutzgebieten bestehen folgende Prüfpflichten:
 
- Anlagen zum Umgang mit wassergefährdenden Stoffen sind abhängig von ihrer
+– Anlagen zum Umgang mit wassergefährdenden Stoffen sind abhängig von ihrer
 
 Gefährdungsstufe (Kombination aus Größe der Anlage und Wassergefährdungsklasse WGK des Stoffes) und ihrer Lage wie folgt durch Sachverständige nach § 22 der Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen und über Fachbetriebe (Anlagenverordnung –VAwS-) zu überprüfen:
 
- Unterirdische Anlagen zum Umgang mit wassergefährdenden Stoffen: vor Inbetriebnahme oder nach einer wesentlichen Änderung, alle 2,5 Jahre wiederkehrend und bei Stilllegung.
+– Unterirdische Anlagen zum Umgang mit wassergefährdenden Stoffen: vor Inbetriebnahme oder nach einer wesentlichen Änderung, alle 2,5 Jahre wiederkehrend und bei Stilllegung.
 
- Oberirdische Anlagen zum Umgang mit wassergefährdenden Stoffen ab der Gefährdungsstufe B (> 100 m³ der WGK 1 oder > 1 m³ der WGK 2 oder > 0,1 m³ der WGK 3): vor Inbetriebnahme oder nach einer wesentlichen Änderung, alle fünf Jahre wiederkehrend und bei Stilllegung.
+– Oberirdische Anlagen zum Umgang mit wassergefährdenden Stoffen ab der Gefährdungsstufe B (> 100 m³ der WGK 1 oder > 1 m³ der WGK 2 oder > 0,1 m³ der WGK 3): vor Inbetriebnahme oder nach einer wesentlichen Änderung, alle fünf Jahre wiederkehrend und bei Stilllegung.
 
 Die gesetzlichen Prüfpflichten für Anlagen zum Umgang mit wassergefährdenden Stoffen sind in der Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen (WasgefStAnlV) vom 31. März 2010 (BGBl. I 2010, 377) in Verbindung mit der VAwS geregelt.
 
- Die Dichtheit von Abwasserleitungen für gewerbliches Abwasser ist vor Inbetrieb-
+– Die Dichtheit von Abwasserleitungen für gewerbliches Abwasser ist vor Inbetrieb-
 
 nahme und in Abhängigkeit von der Lage in Wasserschutzzone II oder III und der Art der Anlage alle fünf beziehungsweise zehn Jahre wiederkehrend überprüfen zu lassen.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12091"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69897"
@@ -51,7 +52,7 @@ Was hat der Senat seit 2018 konkret unternommen, um mehr ausländische Studenten
 
 Wie viele internationale beziehungsweise aus dem Ausland stammende Studenten gab beziehungsweise gibt es an den staatlichen Hamburger Universitäten und Hochschulen jeweils pro Semester zwischen dem Wintersemester 2017/2018 und dem Wintersemester 2019/2020? Bitte differenziert nach Hochschule und Semester darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Hochschule
 
@@ -94,19 +95,19 @@ Universität Hamburg (UHH):
 
 Die UHH verwendet keine Kampagnen, sondern beteiligt sich an internationalen Hochschulmessen zur Darstellung und Bewerbung des Hochschulstandortes Hamburg und der Universität Hamburg. Im Einzelnen:
 
- Konferenz/Hochschulmesse der Asia-Pacific Association for International Educati-
+– Konferenz/Hochschulmesse der Asia-Pacific Association for International Educati-
 
 on (APAIE 2018 in Singapur und APAIE 2019 in Kuala Lumpur/Malaysia),
 
- Konferenz/Hochschulmesse der European Association for International Education
+– Konferenz/Hochschulmesse der European Association for International Education
 
 (EAIE 2018 in Genf/Schweiz und EAIE 2019 in Finnland/Helsinki),
 
- Konferenz/Hochschulmesse der Association of International Educators (NAFSA
+– Konferenz/Hochschulmesse der Association of International Educators (NAFSA
 
 2018 in Philadelphia/USA, NAFSA 2019 in Washington/USA),
 
- Tagung/Messe des German Academic International Network (GAIN 2018 in Bos-
+– Tagung/Messe des German Academic International Network (GAIN 2018 in Bos-
 
 ton/USA, GAIN 2019 in San Francisco/USA).
 
@@ -296,11 +297,11 @@ Chulalongkorn University
 
 Des Weiteren sind drei weitere strategische Partnerschaften der UHH seit 2018 entstanden:
 
- Universität Straßburg/Frankreich (2018)
+– Universität Straßburg/Frankreich (2018)
 
- Universität Groningen/Niederlande (2019)
+– Universität Groningen/Niederlande (2019)
 
- Universität Indiana, Bloomington/USA (2019)
+– Universität Indiana, Bloomington/USA (2019)
 
 TUHH:
 
@@ -354,61 +355,61 @@ nern im Wissenschaftsnetzwerk CARPE, in den Niederlanden, UK, Finnland, Ungarn, 
 
 Die vier Fakultäten der HAW Hamburg haben seit 2018 die folgenden Partnerschaften neu aufgebaut beziehungsweise in einigen Fällen vertieft und erweitert:
 
- Leeds Trinity College, UK
+– Leeds Trinity College, UK
 
- UPC Barcelona Tech EET, Spanien
+– UPC Barcelona Tech EET, Spanien
 
- Escola Massana, Spanien
+– Escola Massana, Spanien
 
- KEA - Copenhagen School of Design and Technology, Dänemark
+– KEA - Copenhagen School of Design and Technology, Dänemark
 
- International College of Liberal Arts, Japan
+– International College of Liberal Arts, Japan
 
- Wuhan Textile University, China
+– Wuhan Textile University, China
 
- Yamanshi Gakuin University, Japan
+– Yamanshi Gakuin University, Japan
 
- University of Southern Denmark
+– University of Southern Denmark
 
- Satakunta University of Applied Sciences, Finnland
+– Satakunta University of Applied Sciences, Finnland
 
- Laurea University of Applied Sciences, Finnland
+– Laurea University of Applied Sciences, Finnland
 
- Universita degli Studi dell‘ Insurbia, Italien
+– Universita degli Studi dell‘ Insurbia, Italien
 
- Universita degli Studi di Brescia, Italien
+– Universita degli Studi di Brescia, Italien
 
- The Hague University of Applied Sciences, Niederlande
+– The Hague University of Applied Sciences, Niederlande
 
- Hoogeschool Utrecht, Niederlande
+– Hoogeschool Utrecht, Niederlande
 
- Universitat Polytechnica de Valencia, Spanien
+– Universitat Polytechnica de Valencia, Spanien
 
- Durban University of Technology, Südafrika
+– Durban University of Technology, Südafrika
 
- VNU Hanoi, Vietnam
+– VNU Hanoi, Vietnam
 
- Taiwan Tech, Taiwan
+– Taiwan Tech, Taiwan
 
- Leeds Trinity University, England
+– Leeds Trinity University, England
 
- Universidade de Europeia Lisboa, Portugal
+– Universidade de Europeia Lisboa, Portugal
 
- Laurea University of Applied Sciences, Finnland
+– Laurea University of Applied Sciences, Finnland
 
- Yamanshi Gakuin University, Japan
+– Yamanshi Gakuin University, Japan
 
- Institut Superieur d’electronique de Paris, Frankreich
+– Institut Superieur d’electronique de Paris, Frankreich
 
- Liepaja University, Lettland
+– Liepaja University, Lettland
 
- Tallinn Tech, Estland
+– Tallinn Tech, Estland
 
- Universidad de Vic, Spanien
+– Universidad de Vic, Spanien
 
- Universidad de Cadiz, Spanien
+– Universidad de Cadiz, Spanien
 
- University of Danang – University of Science and Technology, Vietnam
+– University of Danang – University of Science and Technology, Vietnam
 
 Im Bereich Übersee ist der Schwerpunkt seit 2015, strategische Partnerschaften mit existierenden Hochschulpartnern zu entwickeln statt neue Kooperationen abzuschließen. Durch die Vertiefung der Zusammenarbeit in Anerkennung, Lehre und Forschung steigt die Zahl der Austauschstudierenden. Die wichtigste strategische Überseeregion ist die USA mit dem strategischen Programm „HAW goes USA“. Mit ausgewählten Partnern liegt der Schwerpunkt auf „pre-approved credit“, um eine Anrechnung von Kursen zu gewährleisten und somit die Zahl der Austauschstudierenden zu steigern. Darüber hinaus sollen sogenannte Hamburg-Tracks entwickelt werden, damit ein komplettes Semester oder Jahr angerechnet werden kann. Doppelabschlussprogramme werden angestrebt.
 
@@ -418,17 +419,17 @@ Im Rahmen des 2010 gegründeten Art-School-Alliance-Netzwerkes der HFBK bestehen
 
 Neue Art-School-Alliance-Hochschulpartnerschaften seit 2018:
 
- Annandale-on-Hudson/New York State: Bard College, Division of the Arts
+– Annandale-on-Hudson/New York State: Bard College, Division of the Arts
 
- New York: Purchase College, School of Art+Design
+– New York: Purchase College, School of Art+Design
 
- Osaka: Kindai University, Department of Cultural Design
+– Osaka: Kindai University, Department of Cultural Design
 
- Shanghai: Institute of Design, China Academy of Art
+– Shanghai: Institute of Design, China Academy of Art
 
 Neue Erasmus-Hochschulpartnerschaften seit 2018:
 
- Malmö Art Academy, Lund University: Austausch mit zwei Studierenden pro Hoch-
+– Malmö Art Academy, Lund University: Austausch mit zwei Studierenden pro Hoch-
 
 schuljahr
 

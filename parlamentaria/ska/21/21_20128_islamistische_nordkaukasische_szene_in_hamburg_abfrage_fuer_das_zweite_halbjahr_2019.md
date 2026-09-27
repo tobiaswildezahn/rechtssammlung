@@ -14,6 +14,7 @@ fragen: 25
 einzelfragen: 28
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17186", "21/19515", "21/17362"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69903"
@@ -117,7 +118,7 @@ Wie viele Personen, die im zweiten Halbjahr 2019 der islamistischen nordkaukasis
 
 Wie viele dieser Personen sind daraufhin nach Deutschland beziehungsweise Hamburg zurückgekehrt?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Belastbare Informationen im Sinne der Anfrage liegen dem LfV Hamburg nicht vor.
 

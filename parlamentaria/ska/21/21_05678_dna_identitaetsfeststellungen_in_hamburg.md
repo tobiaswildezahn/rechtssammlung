@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54174"
@@ -44,7 +45,7 @@ In wie vielen Fällen wurden in den Jahren 2014, 2015 und dem ersten Halbjahr 20
 
 Wie viele DNA-Proben wurden insgesamt in Hamburg entnommen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die von der Polizei bei Personen insgesamt entnommenen Speichelproben zur Erstellung eines DNA-Musters stellen sich gemäß Erfassung des Fachbereichs DNA- Fallbearbeitung des Landeskriminalamtes (LKA 39) wie folgt dar:
 

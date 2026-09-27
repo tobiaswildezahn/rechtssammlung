@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67099"
@@ -73,7 +74,7 @@ In wie vielen Fällen stellten seit August 2016 ausbildungsvorbereitende Maßnah
 
 In wie vielen Fällen reichte eine jeweils vorliegende günstige Prognose für die Person aus, um eine Rückführung zu verhindern?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antwort zu 1. Eine darüber hinausgehende statistische Erfassung erfolgt nicht. Eine händische Auswertung aller 344 elektronischen Ausländerakten ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1952", "21/2685", "21/378"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52895"
@@ -114,9 +115,9 @@ Falls nein, weshalb nicht und wie soll die Umsetzung ansonsten erfolgen?
 
 Nein, da nach den Vorgaben zur Aufstellung des Haushaltsplans 2017/2018 Stellenplananträge auf unabweisbare Einzelfälle zu beschränken sind. Es sind die Möglichkeiten nicht antragsrelevanter Stellenplanveränderungen, wie zum Beispiel
 
- behördeninterne Stellenverlagerungen,
+– behördeninterne Stellenverlagerungen,
 
- Stellenveränderungen gemäß den Ermächtigungen des Haushaltsbeschlusses,
+– Stellenveränderungen gemäß den Ermächtigungen des Haushaltsbeschlusses,
 
 durch die Behörden und Ämter auszuschöpfen und in eigener Zuständigkeit umzusetzen. Können Bedarfe auf diese Weise gedeckt werden, scheiden Anträge von vornherein aus. Entsprechend wurde hier verfahren.
 

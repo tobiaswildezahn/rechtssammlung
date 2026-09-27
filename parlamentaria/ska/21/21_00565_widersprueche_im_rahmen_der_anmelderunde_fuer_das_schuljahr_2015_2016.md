@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48717"
@@ -114,7 +115,7 @@ Wie viele Stellen für Rechtsreferenten, denen in der Schulbehörde die Rechtspr
 
 Wie viele der Stellen für Rechtsreferenten, denen in der Schulbehörde die Rechtsprüfung der Widersprüche gegen Verwaltungsakte der Schulen obliegt, waren in den Jahren seit 2011 jeweils besetzt und wie viele sind aktuell besetzt? Bitte nach Jahren aufschlüsseln.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Rechtsreferenten/innen  
 2011  

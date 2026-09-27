@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8255", "21/5922"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58155"
@@ -57,7 +58,7 @@ Warum werden Gehwege in Hamburg immer mal wieder durch Sandund Schotter-Teilstü
 
 Wann werden diese Lücken in den Gehwegen der Stadt geschlossen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Bedingt durch die Bildung oberflächennaher Wurzeln von Bäumen im Gehwegbereich, kann es zu Anhebungen und gegebenenfalls Beschädigungen von Befestigungen kommen. In diesen Fällen ist eine Wiederherstellung der ursprünglichen Befestigung (Platte, Pflaster) aufgrund der erforderlichen Einbauhöhen (Konstruktionshöhe des Aufbaus in Verbindung mit der höhenmäßigen Einbindung in das nähere Umfeld) häufig nicht ohne Eingriff in das Wurzelwerk und damit nachhaltige Beschädigungen der Bäume möglich. Hier bietet die Verwendung der Sonderbauweise die Möglichkeit, eine funktionsfähige Befestigung bei Einhaltung der Höhenlage und gleichzeitiger Schonung der Bäume zu erhalten.
 

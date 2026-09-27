@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 24
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50752"
@@ -126,25 +127,25 @@ In der Pressemitteilung des Senats und der Handwerkskammer heißt es, dass den F
 
 Für die Erbringung der Leistung Betriebliche Integrationsbegleitung hat das HIBB eine Ausschreibung eingeleitet, die noch nicht abgeschlossen ist. Im Rahmen der betrieblichen Integrationsbegleitung sind folgende Leistungen zu erbringen:
 
- Aufsuchende Ansprache der Teilnehmenden, der Innungen und ihrer Betriebe
+– Aufsuchende Ansprache der Teilnehmenden, der Innungen und ihrer Betriebe
 
 sowie der Lehrerinnen und Lehrer der beteiligten Berufsschulen
 
- Organisation und Durchführung von Einzel- und Gruppenberatungen, um berufli-
+– Organisation und Durchführung von Einzel- und Gruppenberatungen, um berufli-
 
 che und private Fragen und Probleme zu lösen, wie zum Beispiel Moderation bei Schwierigkeiten im Ausbildungsbetrieb, Suche nach anderem Wohnraum, Unterstützung beim Bezug von Leistungen, Organisation von Nachhilfe oder Begleitung bei Behördengängen
 
- Zusammenarbeit mit den beteiligten Projektpartnern, insbesondere mit dem HIBB
+– Zusammenarbeit mit den beteiligten Projektpartnern, insbesondere mit dem HIBB
 
 mit seinen Berufsschulen, den vier Innungen der oben genannten Gewerke und ihrer Betriebe sowie der HWK
 
- Enge Abstimmung mit dem Pädagogen/-innen des HIBB, die den begleitenden
+– Enge Abstimmung mit dem Pädagogen/-innen des HIBB, die den begleitenden
 
 Deutschunterricht durchführen
 
- Unterrichtliche Assistenz
+– Unterrichtliche Assistenz
 
- Mitwirkung an fachlichen Aktivitäten und Fallbesprechungen
+– Mitwirkung an fachlichen Aktivitäten und Fallbesprechungen
 
 Im Übrigen siehe Antwort zu 6.
 

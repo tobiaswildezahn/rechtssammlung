@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49429"
@@ -92,7 +93,7 @@ b) Wie viele davon sind aus welchen Gründen heute nicht mehr vorhanden?
 
 Wie viele Grabmale auf dem Ohlsdorfer Friedhof aus der Zeit vor 1950 stehen genau unter Denkmalschutz oder sind als erhaltenswürdig erkannt? Bitte differenziert nach Einzel- und Ensemble-Grabmalen auflisten. Wie viele Grabmale auf dem Ohlsdorfer Friedhof der Zeit nach 1950 stehen genau unter Denkmalschutz? Bitte differenziert nach Einzel- und Ensemble-Grabmalen auflisten.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Als „erhaltenswert“ sind 3.866 Grabmale einzeln und 2.462 im Ensemble-Zusammenhang bewertet worden. Die Liste enthält 33 größere öffentliche Anlagen und Denkmale sowie 1.274 überwiegend private Grabstätten, die alle unter Denkmalschutz stehen. Die Liste und die ihr zugrunde liegende umfassende Untersuchung wurden veröffentlicht in Barbara Leisner/Heiko K.L. Schulze/Ellen Thormann: Der Hamburger Hauptfriedhof Ohlsdorf. Geschichte und Grabmäler, bearbeitet von Andreas von Rauch, Hamburg 1990 (Themenreihe des Hamburg-Inventars, Bd. 4, hrsg. von der Kulturbehörde/Denkmalschutzamt). Das Buch ist in der Parlamentsbibliothek sowie nach Vereinbarung auch im Denkmalschutzamt einsehbar.
 

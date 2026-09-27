@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 13
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64201"
@@ -100,7 +101,7 @@ Wie ist derzeit (Stichtag 01.10.2018) die Besetzung des sozialpsychiatrischen Di
 
 Wie hat sich die personelle Besetzung im sozialpsychiatrischen Dienst in den letzten drei Jahren entwickelt? Bitte nach eingesetzten Fachkräften, Vollzeit/Teilzeit, Honorarvertragsverhältnis oder nicht und Bezirken aufschlüsseln (Plan/Ist).
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Anlage 7.
 

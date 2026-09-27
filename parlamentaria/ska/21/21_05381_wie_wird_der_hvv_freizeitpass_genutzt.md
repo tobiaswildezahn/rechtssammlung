@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53870"
@@ -354,13 +355,13 @@ Der HVV-Freizeitpass wird seit vielen Jahren über die klassischen Werbemittel, 
 
 Im Jahr 2016 sind folgende Werbemaßnahmen in Umsetzung:
 
- Plakatierung an Haltestellen: Aushang von rund 1.100 DIN-A3-Plakaten an HVV-
+– Plakatierung an Haltestellen: Aushang von rund 1.100 DIN-A3-Plakaten an HVV-
 
 Schnellbahn- und Regionalverkehrshaltestellen in den Kalenderwochen 11 – 14, 22+23, 28 – 35
 
- Parallel zum Aushang Werbung auf der Startseite von www.hvv.de
+– Parallel zum Aushang Werbung auf der Startseite von www.hvv.de
 
- Anzeigen in unregelmäßigen Abständen in Schülerzeitungen
+– Anzeigen in unregelmäßigen Abständen in Schülerzeitungen
 
 ### Frage 5
 

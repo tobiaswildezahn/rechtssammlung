@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9104"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62877"
@@ -68,7 +69,7 @@ Welche gesetzlichen Regelungen normieren die öffentliche Ausstrahlung des islam
 
 Welche Voraussetzungen müssen für die öffentliche Ausstrahlung des islamischen Gebetsrufs erfüllt sein? Bitte auch auf Aspekte wie Lautstärke in Dezibel/Entfernung und Tageszeit eingehen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Grundsätzlich sind die Rufe eines Muezzin – ebenso wie beispielsweise liturgisches Glockengeläut – durch das Recht auf ungestörte Religionsausübung (Artikel 4 Absatz 2 des Grundgesetzes) geschützt. Dieser Schutz ist jedoch nicht schrankenlos. Für eine Bewertung sind die Umstände des Einzelfalls maßgeblich.
 

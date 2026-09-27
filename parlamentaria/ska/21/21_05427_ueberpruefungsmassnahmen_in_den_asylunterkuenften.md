@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53919"
@@ -91,6 +92,6 @@ Werden im Falle der rechtlichen Betreuung regelmäßig besondere Überprüfungsm
 
 Wie gestaltet sich im Falle der rechtlichen Betreuung von Flüchtlingen der Kontakt zwischen dem Betreuer und den Behörden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Das Amtsgericht als Betreuungsgericht richtet die Betreuungen gemäß § 1896 Bürgerliches Gesetzbuch (BGB) ein, bestellt nach entsprechender Beteiligung der Betreuungsstellen die gesetzlichen Betreuer und führt sodann die Aufsicht über diese (vergleiche §§ 1908i Absatz 1 Satz 1 in Verbindung mit 1837 Absatz 2 BGB). Für die Aufsicht der Betreuer ist gemäß § 3 Nummer 2 b) des Rechtspflegergesetzes (RPflG) funktionell der/die Rechtspfleger/in zuständig. Regelmäßige besondere Überprüfungsmaßnahmen werden hierbei ohne Anlass nicht vorgenommen.

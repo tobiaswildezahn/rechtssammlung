@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53198"
@@ -319,15 +320,15 @@ Gibt es ein Konzept zur Bewältigung derartiger personeller Ausfälle? Wenn ja, 
 
 Ja, der Ausgleich personeller Ausfälle ist wie folgt geregelt:
 
- Das betroffene PK prüft einen Ausgleich mit eigenem Personal zur Unterstützung
+– Das betroffene PK prüft einen Ausgleich mit eigenem Personal zur Unterstützung
 
 der Grundlast.
 
- Kann das betroffene PK mit dem eigenen Personal eine Unterstützung der Grund-
+– Kann das betroffene PK mit dem eigenen Personal eine Unterstützung der Grund-
 
 last nicht leisten, erfolgt eine Prüfung durch das Regional-PK, ob innerhalb der Region ein personeller Ausgleich vorgenommen werden kann.
 
- Außerhalb der normalen Dienstzeiten erfolgt die Koordinierung von eventuell zu
+– Außerhalb der normalen Dienstzeiten erfolgt die Koordinierung von eventuell zu
 
 leistenden personellen Ausgleichen durch die Polizeieinsatzzentrale.
 

@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 20
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11772"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61286"
@@ -70,7 +71,7 @@ Laut Drs. 21/11772 ist Hamid K. 1984 in die Bundesrepublik Deutschland eingereis
 
 Haben Hamid K. und dessen Angehörige auf Grundlage von Artikel 16a GG Asyl erhalten? Falls ja, über welche Route erfolgte die Einreise?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Das Datum der Anerkennung als Asylberechtigter wurde in Drs. 21/11772 versehentlich mit 3. September 1993 angegeben. Korrekt ist der 3. Juni 1993.
 
@@ -132,7 +133,7 @@ Haben Hamid K. oder seine Angehörige seit ihrer Einbürgerung mindestens für d
 
 Ist Hamid K. gegenwärtig arbeitslos gemeldet? Falls ja, seit wann und erhält er Zuwendungen im Sinne von ALG I/ALG II?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Gemäß § 35 Absatz 2 SGB I ist eine Erhebung, Verarbeitung und Nutzung von Sozialdaten nur unter den Voraussetzungen des Zweiten Kapitels des Zehnten Buches (SGB X) zulässig.
 

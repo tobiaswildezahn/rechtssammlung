@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2176"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51815"
@@ -49,7 +50,7 @@ Wie hoch lag auf Grundlage der aktuellsten vorliegenden Daten der bereinigte Fin
 
 Überschreitet dieser Wert die nach § 3 FRG im Haushaltsplan veranschlagte Obergrenze für das Jahr 2015 in Höhe von 9.862 Millionen Euro? a. Wenn ja, in welcher Höhe und aus welchen konkreten Gründen? b. Welche Konsequenzen ergeben sich aus einer Überschreitung der gemäß FRG im Haushaltsplan veranschlagten Obergrenze?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Finanzrahmengesetz (FRG) legt für die Veranschlagung des bereinigten Finanzmittelbedarfs Obergrenzen fest. Zum Beispiel aufgrund von Ermächtigungsüberträgen oder Vorgriffsermächtigungen, eines Verbrauchs von Rückstellungen oder der Begleichung von Verbindlichkeiten aus Vorjahren können bei der Ausführung des Haushaltsplans Auszahlungen über die veranschlagten Beträge hinaus geleistet werden. Auf Grundlage der abgeschlossenen 12. Periode ergeben sich für das Jahr 2015 Einund Auszahlungen, die einem bereinigten Finanzmittelbedarf von 10.101,5 Millionen Euro entsprechen. Dieser Wert weicht von der im FRG für die Veranschlagung festgelegten Obergrenze um 239,5 Millionen Euro ab. Dazu haben nachträgliche Zuordnungen unklarer Zahlungseingänge aus Vorjahren zur sachlich gebotenen Forderungsposition im Bereich der Steuerkasse in Höhe von rund 257 Millionen Euro wesentlich beigetragen. Nach der Umstellung auf die Doppik werden diese Umbuchungen von unklaren Zahlungseingängen auf Steuereinzahlungen als Auszahlungen aus Verwaltungstätigkeit gebucht. Bereinigt um diese rein haushaltstechnisch bedingte Umbu-
 

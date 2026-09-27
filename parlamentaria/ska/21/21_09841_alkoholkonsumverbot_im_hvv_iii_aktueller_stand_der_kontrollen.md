@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8657", "20/4913", "20/9670", "21/6888", "21/2374"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58655"
@@ -53,7 +54,7 @@ b) DB AG beziehungsweise S-Bahn Hamburg GmbH,
 c) AKN Eisenbahn AG,
 d) Verkehrsbetriebe Hamburg-Holstein GmbH, mit den Kontrollen zu Einhaltung des AKV beauftragt? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/6888.
 

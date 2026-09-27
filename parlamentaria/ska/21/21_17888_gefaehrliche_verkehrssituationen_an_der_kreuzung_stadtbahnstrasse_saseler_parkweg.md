@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14768"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67497"
@@ -51,13 +52,13 @@ Wie viele Fahrzeuge verkehren in dem genannten Bereich durchschnittlich wochenta
 
 Für den Pegel Stadtbahnstraße östlich Saseler Chaussee liegen die folgenden Verkehrsstärken vor:
 
-• durchschnittliche tägliche Kfz-Verkehrsstärke an Werktagen (DTVw, Montag bis Freitag) im Jahr 2017: circa 31 000 Kfz in 24 Stunden, Schwerverkehrsanteil (SV- Anteil, alle Kfz mit einem zulässigen Gesamtgewicht über 3,5 t): circa 4 Prozent,
+– durchschnittliche tägliche Kfz-Verkehrsstärke an Werktagen (DTVw, Montag bis Freitag) im Jahr 2017: circa 31 000 Kfz in 24 Stunden, Schwerverkehrsanteil (SV- Anteil, alle Kfz mit einem zulässigen Gesamtgewicht über 3,5 t): circa 4 Prozent,
 
-• durchschnittliche tägliche Kfz-Verkehrsstärke (DTV, Montag bis Sonntag) im Jahr 2017: circa 28 000 Kfz in 24 Stunden,
+– durchschnittliche tägliche Kfz-Verkehrsstärke (DTV, Montag bis Sonntag) im Jahr 2017: circa 28 000 Kfz in 24 Stunden,
 
-• Angaben zu Verkehrsstärken an Wochenenden liegen nicht vor,
+– Angaben zu Verkehrsstärken an Wochenenden liegen nicht vor,
 
-• Tagesverkehr vom 23.05.2019: circa 31 100 Kfz in 24 Stunden, SV-Anteil circa 5 Prozent. Der Tagesverkehr kann aufgrund tagesspezifischer Ereignisse vom durchschnittlichen Verkehr abweichen.
+– Tagesverkehr vom 23.05.2019: circa 31 100 Kfz in 24 Stunden, SV-Anteil circa 5 Prozent. Der Tagesverkehr kann aufgrund tagesspezifischer Ereignisse vom durchschnittlichen Verkehr abweichen.
 
 ### Frage 3
 

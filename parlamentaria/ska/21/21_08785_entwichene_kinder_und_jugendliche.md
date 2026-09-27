@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 19
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8557", "21/6651"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57514"
@@ -97,7 +98,7 @@ Wie lange dauert es derzeit durchschnittlich und maximal bis UMA in Hamburg regi
 
 Werden UMA ausländerrechtlich oder erkennungsdienstlich erfasst? Wann erfolgt eine ausländerrechtliche, wann eine erkennungsdienstliche Erfassung?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die ausländerrechtliche und erkennungsdienstliche Erfassung erfolgt innerhalb von ein bis zwei Werktagen nach Beginn der vorläufigen Inobhutnahme. Sie erfolgt montags bis freitags im Ankunftszentrum und wird vom Fachdienst Flüchtlinge (FDF) in Form einer Anmeldung vorbereitet. Der Anmeldung geht ein ausführliches Aufnahmegespräch im FDF voraus.
 

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 28
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15064", "21/14262", "21/8509", "21/14601", "21/15153", "21/14607"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65021"
@@ -101,7 +102,7 @@ Wie viele Plätze stehen aktuell insgesamt in örU für Obdachlose/ Wohnungslose
 
 Gibt es aktuell Kapazitätsengpässe in örU die die Vermittlung in örU im Rahmen des WNP einschränkt? Wenn ja, welche und wie werden diese behoben? Wenn nein, wie viele Obdachlose wurden bisher vom WNP seit dessen Start im November 2018 in örU vermittelt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Insgesamt stehen in der öffentlich-rechtlichen Unterbringung (örU) rund 33.888 Plätze (Stichtag 31.10.2018) zur Verfügung.
 

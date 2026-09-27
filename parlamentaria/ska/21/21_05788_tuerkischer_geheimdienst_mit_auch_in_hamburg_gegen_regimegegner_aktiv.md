@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5679"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54288"
@@ -73,7 +74,7 @@ Wie geht die Stadt Hamburg gegen ausländische Geheimdienst- Aktionen beziehungs
 
 Welche Kapazitäten gibt es in Hamburg seitens der Behörden, um die Tätigkeit von ausländischen Nachrichtendiensten wie die des MIT zu unterbinden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Verfassungsschutzbericht 2015 sowie www.hamburg.de/verfassungsschutz. Die Verfolgung von Straftaten aus dem Bereich des Landesverrats und der Gefährdung der äußeren Sicherheit – insbesondere wegen geheimdienstlicher Agententätigkeit – fällt in die Primärzuständigkeit des Generalbundesanwaltes (§§ 142a Absatz 1, 120 Absatz 1 Nummer 3 GVG).
 

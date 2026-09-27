@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 5
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61448"
@@ -45,6 +46,6 @@ Bei der Auswahl der zu untersuchenden Städte wurde auch Hamburg als mögliches 
 
 Wird der Senat mithilfe des an der Uni Kassel entwickelten Tools eine Berechnung der wirklichen Kosten verschiedener Verkehrsmittel vornehmen? Falls nein: warum nicht? Falls ja: wann wird hiermit begonnen und wann werden Ergebnisse erwartet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat hat sich mit dem Thema nicht befasst. Im Vorfeld der Studie gab es ein Informationsgespräch zwischen Mitarbeitern und Mitarbeiterinnen der Universität Kassel und der Hamburger Verwaltung.

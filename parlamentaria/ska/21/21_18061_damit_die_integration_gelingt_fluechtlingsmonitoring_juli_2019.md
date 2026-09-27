@@ -14,6 +14,7 @@ fragen: 42
 einzelfragen: 62
 antwortbloecke: 40
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9758", "21/13273", "21/17827", "21/10677", "21/11001", "21/6544", "21/16284", "21/7289", "21/12038", "21/16887", "21/131", "21/14071"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67677"
@@ -959,7 +960,7 @@ Wie viele Asylsuchende haben im Juli 2019 in der zentralen Test- und Meldestelle
 
 Welche Einstufungen und Überweisung in jeweils welche Kurse (Alphabetisierungskurs, regulärer Integrationskurs usw.) ergaben sich aus den Tests im Juli 2019?
 
-#### Antwort zu Fragen 36 bis 37
+#### Antwort zu Fragen 36 und 37
 
 Siehe Antwort zu 34.
 
@@ -991,7 +992,7 @@ Wie viele schulpflichtige Flüchtlinge besuchen Lerngruppen in Erstaufnahmeeinri
 
 Wie viele Schülerinnen und Schüler besuchen derzeit insgesamt Basisund IV-Klassen? Wie viele Basis- und IV-Klassen mit jeweils wie vielen Schülerinnen und Schülern waren im Juli 2019 an jeweils welcher Schule eingerichtet? Wo wurden Klassen geschlossen beziehungsweise neu eingerichtet?
 
-#### Antwort zu Fragen 40 bis 41
+#### Antwort zu Fragen 40 und 41
 
 Zum Stand 26. Juni 2019 (Schuljahresende) siehe Drs. 21/17827. Im Juli wurden keine neuen IV oder Basisklassen eingerichtet. Zu den zum Schuljahresende 2018/2019 entsprechend der Bedarfsentwicklung ausgelaufenen Angeboten siehe Anlage 4.
 

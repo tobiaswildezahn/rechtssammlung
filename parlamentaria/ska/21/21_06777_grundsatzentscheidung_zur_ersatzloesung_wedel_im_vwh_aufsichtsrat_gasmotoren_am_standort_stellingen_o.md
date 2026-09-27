@@ -14,6 +14,7 @@ fragen: 28
 einzelfragen: 38
 antwortbloecke: 27
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55329"
@@ -83,7 +84,7 @@ Ist dem Senat bekannt, dass die KWK-Förderung für neue KWK-Anlagen mit einer L
 
 Beim „Szenario Nord“ mit mehr als zehn Gasmotoren besteht die Bedingung, dass diese Anlagen bis zum 31.12.2022 in Betrieb genommen werden müssen, damit Zuschlagszahlungen für den KWK-Strom erfolgen können (KWKG, §§ 6, 7). Um Zuschläge nach dem KWKG für den Ausbau von Wärmenetzen zu erhalten, ist die Inbetriebnahme ebenfalls bis zum 31.12.2022 nötig (KWKG §§ 18, 19). Inwieweit ist die Einhaltung des Termins 31.12.2022 auch beim „Szenario Süd“ von wesentlicher Bedeutung, wenn in diesem Szenario die gesamte Leistung der neuen KWK-Anlagen so gering ist, dass die KWK- Förderung nur per Ausschreibungen erteilt werden wird?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Dieser Aspekt ist Bestandteil der derzeit laufenden Gutachten und Untersuchungen. Dabei wird jeweils die aktuelle Rechtslage berücksichtigt.
 
@@ -127,17 +128,17 @@ Welche Wärmeleistungen und welche Wärmearbeiten sind jeweils zu erwarten von
 
 #### Antwort zu Frage 10
 
- Abwasserwärmepumpe Dradenau,
+– Abwasserwärmepumpe Dradenau,
 
- Wärmepumpe Elbe,
+– Wärmepumpe Elbe,
 
- Aquifer-Speicher Stellingen,
+– Aquifer-Speicher Stellingen,
 
- Stroh-HKW Stellingen,
+– Stroh-HKW Stellingen,
 
- Solarthermie Altenwerder West,
+– Solarthermie Altenwerder West,
 
- ÜNB/New 4.0?
+– ÜNB/New 4.0?
 
 ### Frage 11
 
@@ -145,13 +146,13 @@ Die Technologie Abwasserwärmepumpe erhielt im Gutachten von BET aufgrund des ho
 
 #### Antwort zu Frage 11
 
- einer Abwasserwärmepumpe Dradenau,
+– einer Abwasserwärmepumpe Dradenau,
 
- einer Wärmepumpe Elbe,
+– einer Wärmepumpe Elbe,
 
- einem Aquifer-Speicher Stellingen,
+– einem Aquifer-Speicher Stellingen,
 
- einer Solarthermie Altenwerder West?
+– einer Solarthermie Altenwerder West?
 
 Generell hängen die Wärmeleistungen und mögliche Wärmearbeit von der Einbindung der Module, der Verfügbarkeit und dem Bedarf im System ab.
 
@@ -310,33 +311,33 @@ Laut Vattenfall Kraftwerk Moorburg GmbH befand sich das Heizkraftwerk Moorburg i
 
 Für die Zeit ab September 2015 (Aufnahme des bestimmungsgemäßen Betriebs des zweiten Blocks) liegen folgende Daten vor, jeweils errechnet aus Stunden mit Netzeinspeisung geteilt durch die Anzahl aller Stunden im jeweiligen Monat:
 
- September 2015: 92 Prozent
+– September 2015: 92 Prozent
 
- Oktober 2015: 81 Prozent
+– Oktober 2015: 81 Prozent
 
- November 2015: 58 Prozent (Block B Revision)
+– November 2015: 58 Prozent (Block B Revision)
 
- Dezember 2015: 56 Prozent (Block B Revision)
+– Dezember 2015: 56 Prozent (Block B Revision)
 
- Januar 2016: 85 Prozent
+– Januar 2016: 85 Prozent
 
- Februar 2016: 69 Prozent
+– Februar 2016: 69 Prozent
 
- März 2016: 83 Prozent
+– März 2016: 83 Prozent
 
- April 2016: 86 Prozent
+– April 2016: 86 Prozent
 
- Mai 2016: 94 Prozent
+– Mai 2016: 94 Prozent
 
- Juni 2016: 79 Prozent (Block A Revision)
+– Juni 2016: 79 Prozent (Block A Revision)
 
- Juli 2016: 90 Prozent
+– Juli 2016: 90 Prozent
 
- August 2016: 98 Prozent
+– August 2016: 98 Prozent
 
- September 2016: 100 Prozent
+– September 2016: 100 Prozent
 
- Oktober 2016: 100 Prozent
+– Oktober 2016: 100 Prozent
 
 Die minimale Auslastung des Kraftwerks im Sinne der in einem Kalendermonat erzeugten Strommenge seit der Betriebsaufnahme des zweiten Kraftwerksblocks gab es im Dezember 2015. Hier wurden nur 216 Millionen Kilowattstunden ins Netz eingespeist, da der Block B wegen einer geplanten Revision nicht verfügbar war und in der Weihnachtswoche traditionell die Stromnachfrage eher gering ist. Mit einer theoretisch maximalen Einspeisung von 1.161 Millionen Kilowattstunden (31 Tage x 24 Stunden x zwei Blöcke x 780 MW) ergibt dies eine „Auslastung“ von 19 Prozent des gesamten Heizkraftwerks Moorburg beziehungsweise von 38 Prozent des einen nicht in Revision befindlichen Blocks.
 

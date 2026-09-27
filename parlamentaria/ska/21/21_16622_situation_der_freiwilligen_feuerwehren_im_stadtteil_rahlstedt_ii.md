@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15895", "21/15419"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66162"
@@ -79,7 +80,7 @@ Wo werden die Fahrzeuge während der Bauzeit untergebracht?
 
 Wie wird in der Bauzeit die Sicherheit des Einsatzgebietes der F 2916 sichergestellt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Abstimmung einer Interimslösung ist noch nicht abgeschlossen. Ziel des Abstimmungsprozesses ist, die Sicherheit im Einsatzgebiet der Freiwilligen Feuerwehr Rahlstedt während der Bauzeit zu gewährleisten.
 

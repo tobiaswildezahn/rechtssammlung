@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3165", "21/5257", "20/14095", "21/2855"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55153"
@@ -88,7 +89,7 @@ Zu welchen konkreten in Frage 5. abgefragten Taten konnten mutmaßliche Täter b
 a) In welchen Fällen kam es zur Eröffnung eines Strafverfahrens, gegebenenfalls mit welchem Ausgang?
 b) In welchen wurden die Ermittlungen eingestellt und mit welcher Begründung jeweils? Bitte auflisten.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Anlage 3; die Polizei hat in beiden Fällen Strafverfahren eingeleitet. Tatverdächtige konnten nicht ermittelt werden. Beide Verfahren sind aus diesem Grund eingestellt.
 
@@ -127,20 +128,20 @@ Vor einer Veröffentlichung eines strafrechtlich relevanten Sachverhaltes nimmt 
 
 Unter Bezugnahme auf die wesentlichen Bestimmungen des Hamburger Pressegesetzes sowie Maßgaben der Senatskanzlei und des Generalstaatsanwalts trifft die Dienstvorschrift für den täglichen Dienst der Polizei Hamburg (PDV 350 HH, VS-NfD) im Kapitel „Zusammenarbeit mit anderen Stellen“ derzeit Aussagen zu
 
- inhaltlichen Einschränkungen der grundsätzlichen Verpflichtung zur Presseaus-
+– inhaltlichen Einschränkungen der grundsätzlichen Verpflichtung zur Presseaus-
 
 kunft nach dem Pressegesetz,
 
- Zusammenarbeit zwischen Polizei und Staatsanwaltschaft bei Medienauskünften
+– Zusammenarbeit zwischen Polizei und Staatsanwaltschaft bei Medienauskünften
 
 im Bereich der Strafverfolgung,
 
- Übermittlung personenbezogener Daten sowie deren Einschränkungen,
+– Übermittlung personenbezogener Daten sowie deren Einschränkungen,
 
- zuständigen Dienststellen innerhalb der Polizei Hamburg,
+– zuständigen Dienststellen innerhalb der Polizei Hamburg,
 
- Pressekonferenzen und Medienauftritten sowie dem
+– Pressekonferenzen und Medienauftritten sowie dem
 
- Schriftverkehr mit Medien.
+– Schriftverkehr mit Medien.
 
 Die Staatsanwaltschaft Hamburg und die Polizei Hamburg haben im Jahr 2016 in einer gemeinsamen Vereinbarung die Zuständigkeiten für die Erteilung von Medienauskünften neu geregelt; diese Regelungen sind nicht für eine Veröffentlichung bestimmt. Die Inhalte der neuen Vereinbarung werden derzeit in die PDV 350 eingearbeitet.

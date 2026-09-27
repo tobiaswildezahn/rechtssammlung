@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15822", "21/18377", "21/16575", "21/16762", "21/15989"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69143"
@@ -72,7 +73,7 @@ i) sich von keiner der dokumentierten Kooperationen mit Linksextremisten distanz
 
 Wertet das LfV einzelne oder mehrere der in der Einleitung unter Verweis auf fünf weitere Drucksachen dargelegten und dann in Frage 1. zusammengefassten Kooperationen der GEW Hamburg mit Linksextremisten als Anhaltspunkte für Bestrebungen gegen die freiheitliche demokratische Grundordnung gemäß §§ 4 und 5 HmbVerfSchG und wie reagiert das LfV gegebenenfalls auf diese Anhaltspunkte?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Gewerkschaft Erziehung und Wissenschaft Hamburg (GEW Hamburg) ist kein Beobachtungsobjekt des Landesamtes für Verfassungsschutz (LfV) Hamburg. Im Übrigen siehe Drs. 21/16762, 21/15822 und 21/16575.
 

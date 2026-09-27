@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 19
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69830"
@@ -51,17 +52,17 @@ Wie viele Räume standen der Freiwilligen Feuerwehr am Standort Appelhoff zur Ve
 
 Auf dem Gelände im Schwarzen Weg 3 befand sich ein Gebäude mit:
 
- Aufenthalts- und Unterrichtsraum,
+– Aufenthalts- und Unterrichtsraum,
 
- Büro der Wehrführung,
+– Büro der Wehrführung,
 
- Umkleideraum,
+– Umkleideraum,
 
- Küche,
+– Küche,
 
- Sanitärräumen,
+– Sanitärräumen,
 
- Fahrzeugremise
+– Fahrzeugremise
 
 auf einer Gesamtnutzfläche von 488 m². Pläne zu Raumgrößen liegen nicht vor.
 

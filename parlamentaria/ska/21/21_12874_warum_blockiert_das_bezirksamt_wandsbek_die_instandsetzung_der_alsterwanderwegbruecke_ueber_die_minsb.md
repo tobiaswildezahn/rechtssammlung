@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62195"
@@ -79,7 +80,7 @@ Welche Personal- und Geldmittel hat das Bezirksamt Wandsbek/die zuständige Fach
 
 Sollten noch keine Personal- und Geldmittel eingesetzt worden sein, warum nicht und wann soll das erfolgen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Planungsaufwand für die Wiederherstellung der hydraulischen Leistungsfähigkeit der Minsbek einschließlich der Erneuerung der Brücke beläuft sich bisher auf rund
 20.000 Euro. Die Personalressourcen für Bauherrenkernleistungen sind auf rund

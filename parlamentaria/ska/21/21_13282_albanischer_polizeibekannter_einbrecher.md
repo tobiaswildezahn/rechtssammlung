@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62629"
@@ -61,7 +62,7 @@ Welchen aufenthaltsrechtlichen Status hat der Tatverdächtige?
 
 Seit wann befindet sich der Verdächtige in Deutschland?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Betroffene ist nach Erkenntnissen der Ausländerbehörde am 8. Januar 2018 in die Bundesrepublik eingereist und hält sich seitdem unerlaubt hier auf.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1788", "21/1787", "16/4616"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51364"
@@ -48,15 +49,15 @@ ungarn.html.
 Die Anweisung des Leiters des Justiziariats der Polizei (JL-Anweisung 2015-1) vom
 16. September 2015 beinhaltet den Umgang mit Verstößen gegen das Aufenthaltsgesetz (AufenthG) hinsichtlich Flüchtlingen, die aus Ungarn über Österreich in die Bundesrepublik Deutschland eingereist sind. Die Anweisung regelt den Umfang der polizeilichen Maßnahmen im Rahmen einer Einzelfallprüfung bezogen auf die jeweilige Antreffsituation:
 
- Kommen Flüchtlinge in größeren Gruppen insbesondere im Rahmen einer behörd-
+– Kommen Flüchtlinge in größeren Gruppen insbesondere im Rahmen einer behörd-
 
 lich gesteuerten Weiterreise zu einer bestimmten Aufnahmeeinrichtung in oder außerhalb Hamburgs, kann von polizeilichen Sofortmaßnahmen wegen eines möglichen Verstoßes nach § 95 Absatz 1 Nummer 1 bis 3 AufenthG zunächst abgesehen werden. Die erforderliche Registrierung dieser Flüchtlinge wird in der Regel in den Aufnahmeeinrichtungen erfolgen, in deren Nachgang mögliche Verstöße nach dem AufenthG geprüft werden können.
 
- Im Fall des Antreffens kleinerer Gruppen oder einzelner Flüchtlinge ist kurz zu
+– Im Fall des Antreffens kleinerer Gruppen oder einzelner Flüchtlinge ist kurz zu
 
 prüfen, ob aufgrund konkreter Umstände mit der baldigen Registrierung der Flüchtlinge gerechnet werden kann. Ist dies zu bejahen, kann wegen eines möglichen Verstoßes nach § 95 Absatz 1 Nummer 1 bis 3 AufenthG von polizeilichen Sofortmaßnahmen zunächst abgesehen werden.
 
- In allen übrigen Antreffsituationen, die sich nicht unter die beiden oben aufgeführ-
+– In allen übrigen Antreffsituationen, die sich nicht unter die beiden oben aufgeführ-
 
 ten Fallvarianten subsumieren lassen beziehungsweise im Zusammenhang mit einem anderen Anlass stehen (Mischsachverhalte), ist die jeweilige Person zu kontrollieren und ihre Berechtigung zum Aufenthalt zu prüfen. Erforderlichenfalls sind Folgemaßnahmen in Abstimmung mit der zuständigen kriminalpolizeilichen Dienststelle vorzunehmen beziehungsweise einzuleiten.
 

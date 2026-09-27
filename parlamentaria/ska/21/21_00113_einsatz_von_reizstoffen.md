@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 19
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/197", "20/5820", "20/10326", "17/13040"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48246"
@@ -91,7 +92,7 @@ Wie beurteilt der Senat den Einsatz von Pfefferspray durch die Polizei vor dem H
 
 Wie finden Ausbildung und Training der Polizeibeamtinnen und -beamten in Bezug auf den Einsatz von Reizstoffen statt und inwieweit wird bei der Ausbildung auf mögliche Risiken und Gesundheitsgefährdungen durch den Einsatz von Reizstoffen hingewiesen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 20/197.
 
@@ -183,7 +184,7 @@ Inwiefern gibt oder gab es Überlegungen und Planungen des Senats beziehungsweis
 
 Inwiefern gab oder gibt es Bestrebungen im Rahmen der Innenministerkonferenz, die Ausrüstungen zum Verschießen von Reizstoffen der Polizeien aufzurüsten?
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Die Bereitschaftspolizeien von Bund und Ländern sind durch den Bund mit der MZP 1 ausgestattet. Weitere Überlegungen/Planungen sind nicht bekannt. Für Hamburg siehe Antwort zu 16.
 

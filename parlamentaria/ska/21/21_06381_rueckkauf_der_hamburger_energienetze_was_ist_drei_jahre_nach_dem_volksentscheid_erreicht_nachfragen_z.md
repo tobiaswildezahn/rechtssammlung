@@ -14,6 +14,7 @@ fragen: 33
 einzelfragen: 40
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5758", "21/3476", "21/6098", "21/6380"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54897"
@@ -47,7 +48,7 @@ Nach der Antwort auf die Frage 57. der Großen Anfrage in Drs. 21/5758 hat eine 
 
 Wurden für diese grundsätzlichen Untersuchungen dem Gutachterbüro BET die Netzdaten der VWH zur Verfügung gestellt und wurden diese hierfür eingesetzt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die grundsätzlichen Untersuchungen zur Beseitigung der Restriktionen und deren Kosten wurden ausschließlich durch VWH durchgeführt. Netzdaten zur Bewertung der Beseitigung von Netzrestriktionen wurden BET durch die VWH nicht zur Verfügung gestellt. In einer gemeinsamen Abstimmung zwischen der zuständigen Behörde, BET und VWH wurden diese Untersuchungen vorgestellt und diskutiert.
 
@@ -149,19 +150,19 @@ URBANA Energiedienste GmbH: siehe Anlage 2.
 
 enercity Contracting Nord GmbH:
 
- bis einschließlich 2010: null Wohneinheiten
+– bis einschließlich 2010: null Wohneinheiten
 
- 2011: 101 WE
+– 2011: 101 WE
 
- 2012: 489 WE
+– 2012: 489 WE
 
- 2013: 690 WE
+– 2013: 690 WE
 
- 2014: 933 WE
+– 2014: 933 WE
 
- 2015: 1.538 WE
+– 2015: 1.538 WE
 
- Endausbau: circa 13.000 WE
+– Endausbau: circa 13.000 WE
 
 HAMBURG ENERGIE GmbH:
 
@@ -199,17 +200,17 @@ URBANA Energiedienste GmbH: siehe Anlage 2.
 
 enercity Contracting Nord GmbH:
 
- 2010: circa 0,5 km
+– 2010: circa 0,5 km
 
- 2011: circa 2,2 km
+– 2011: circa 2,2 km
 
- 2012: circa 3,0 km
+– 2012: circa 3,0 km
 
- 2013: circa 4,2 km
+– 2013: circa 4,2 km
 
- 2014: circa 5,3 km
+– 2014: circa 5,3 km
 
- 2015: circa 7,1 km
+– 2015: circa 7,1 km
 
 HAMBURG ENERGIE GmbH:
 
@@ -262,7 +263,7 @@ Welche Abwärmemengen könnten andere Betriebe als ArcelorMittal Hamburg bereits
 
 Wärmeleitungen von welcher Länge wären notwendig, um die Abwärme von ArcelorMittal Hamburg in das Netz Süd (HanseWerk Natur) einzuspeisen sowie ein neues Baugebiet in Finkenwerder mit der Abwärme zu versorgen? (Bezug zu Frage 90. aus Drs. 21/5758.)
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Dies ist Gegenstand weiterer Prüfungen.
 

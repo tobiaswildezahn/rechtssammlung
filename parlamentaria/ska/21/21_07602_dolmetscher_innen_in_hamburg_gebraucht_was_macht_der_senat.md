@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4817", "21/7203"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56244"
@@ -49,7 +50,7 @@ Wie viele Dolmetscher/-innen sind derzeit für welche Hamburger Gerichte und wel
 
 Wie viele Dolmetscher/-innen waren jeweils in den Jahren 2011 bis 2016 für welche Hamburger Gerichte und welche weiteren zuständigen Stellen der Freien und Hansestadt Hamburg tätig?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Statistiken über die Zahl der eingesetzten Dolmetscherinnen und Dolmetschern werden in der Regel nicht geführt. Zur Beantwortung der Frage müssten daher insoweit die Akten sämtlicher Dienststellen, die keine entsprechenden Statistiken führen, aus dem erfragten Zeitraum ausgewertet werden. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

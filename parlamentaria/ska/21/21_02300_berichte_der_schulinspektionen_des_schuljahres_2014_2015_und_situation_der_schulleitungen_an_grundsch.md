@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 23
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1328", "20/9163", "20/354", "20/3713", "20/3901", "20/6989", "19/6067", "19/1134"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50571"
@@ -45,11 +46,11 @@ Die Berichte der Schulinspektion des Schuljahres 2014/2015 in den berufsbildende
 
 Die Berichte der Schulinspektion des Schuljahres 2014/2015 in den berufsbildenden Schulen sind im Internet auf der aktuellen Homepage des HIBB auffindbar unter dem Link http://www.hibb.hamburg.de/index.php/article/detail/102. Im Einzelnen ist
 
- der Schulinspektionsbericht der Staatlichen Gewerbeschule für Stahl und Maschi-
+– der Schulinspektionsbericht der Staatlichen Gewerbeschule für Stahl und Maschi-
 
 nenbau (G 1) veröffentlicht unter http://www.hibb.hamburg.de/index.php/file/ download/2379,
 
- der Schulinspektionsbericht der Staatlichen Gewerbeschule für Kraftfahrzeugtech-
+– der Schulinspektionsbericht der Staatlichen Gewerbeschule für Kraftfahrzeugtech-
 
 nik  
 (G  
@@ -59,11 +60,11 @@ unter
 http://www.hibb.hamburg.de/index.php/file/  
 download/2442,
 
- der Schulinspektionsbericht der Staatlichen Gewerbeschule für Fertigungs- und
+– der Schulinspektionsbericht der Staatlichen Gewerbeschule für Fertigungs- und
 
 Flugzeugtechnik (G 15) veröffentlicht unter http://www.hibb.hamburg.de/index.php/ file/download/2449 sowie
 
- der Schulinspektionsbericht der Beruflichen Schule Am Lämmermarkt (H 02) veröf-
+– der Schulinspektionsbericht der Beruflichen Schule Am Lämmermarkt (H 02) veröf-
 
 fentlicht unter http://www.hibb.hamburg.de/index.php/file/download/2533.
 

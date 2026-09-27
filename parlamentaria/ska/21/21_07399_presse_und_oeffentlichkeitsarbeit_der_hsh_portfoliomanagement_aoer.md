@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56018"
@@ -47,7 +48,7 @@ Wann genau fanden die Sitzungen des Verwaltungsrates und der Trägerversammlung 
 
 Erfolgte die Presseinformation am 21.12.2016 unmittelbar im Anschluss an dies entsprechenden Gremiensitzungen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine Befassung auf Grundlage einer vorläufigen Finanzinformation fand im Rahmen der Verwaltungsratssitzung am 1. Dezember 2016 statt. Der finale Bericht zum 3. Quartal 2016 ist den Mitgliedern des Verwaltungsrates am 16. Dezember 2016 und den Mitgliedern der Trägerversammlung am 19. Dezember 2016 zugeleitet worden. Die Presseinformation erfolgte im Anschluss an die Kenntnisnahme durch die Gremien.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/476"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49284"
@@ -134,15 +135,15 @@ Die Konzeption der Beratungsstelle umfasst vier Bereiche von Beratungs- und Unte
 
 Die Angehörigen (Familien, Freunde, Vertrauenspersonen) sind der entscheidende Bezugspunkt für die Beratung, welche vor allem folgende Aspekte umfasst:
 
- Klärung der Frage, ob der/die betroffene Jugendliche tatsächlich ideologisch radi-
+– Klärung der Frage, ob der/die betroffene Jugendliche tatsächlich ideologisch radi-
 
 kalisiert und/oder in ein extremistisches soziales Milieu verwickelt ist (Aufklärung über Gruppenideologie, Gruppenstruktur und Manipulationstechniken),
 
- Verhinderung von Kontaktabbrüchen zwischen Betroffenen und dem sozialen
+– Verhinderung von Kontaktabbrüchen zwischen Betroffenen und dem sozialen
 
 Umfeld beziehungsweise Wiederherstellen bereits abgebrochener Kontakte,
 
- Erarbeitung von Strategien, die einer zunehmenden Verstrickung in ein extremisti-
+– Erarbeitung von Strategien, die einer zunehmenden Verstrickung in ein extremisti-
 
 sches Milieu entgegenwirken.
 
@@ -150,9 +151,9 @@ sches Milieu entgegenwirken.
 
 In vielen Fällen ist eine Ausstiegsbegleitung der radikalisierten jungen Menschen über deren Angehörige erfolgreich herstellbar. Auch Rückkehrer aus Kampfgebieten werden beraten. Die Ausstiegsbegleitung umfasst folgende Aspekte:
 
- Selbstreflexion und Erarbeitung eines neuen Lebensentwurfes,
+– Selbstreflexion und Erarbeitung eines neuen Lebensentwurfes,
 
- bei Bedarf und Möglichkeit kann eine soziale Gruppenarbeit angeboten werden, in
+– bei Bedarf und Möglichkeit kann eine soziale Gruppenarbeit angeboten werden, in
 
 die sowohl die Betroffenen als auch ihre Angehörigen einbezogen werden.
 

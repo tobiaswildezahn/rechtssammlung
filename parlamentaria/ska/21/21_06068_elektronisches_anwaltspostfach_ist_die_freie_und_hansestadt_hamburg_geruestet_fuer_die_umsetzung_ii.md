@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5350", "18/9416", "21/5849"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54578"
@@ -57,7 +58,7 @@ Welche Maßnahmen wurden wann vom Senat getroffen, um einen reibungslosen Zugang
 
 Wie viele und welche Gerichte sind bisher auf den Zugang technisch komplett vorbereitet und können mit den Anwälten an der elektronischen Kommunikation ab September 2016 teilnehmen (bitte nach Amtsgerichten, Landgericht, Oberlandesgericht, Verwaltungsgericht, Oberverwaltungsgericht, Sozialgericht, Landessozialgericht, Arbeitsgericht, Landesarbeitsgericht gegliedert darstellen)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung und Drs. 21/5350.
 

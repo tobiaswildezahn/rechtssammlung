@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6070", "21/2155", "21/1395"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59492"
@@ -85,7 +86,7 @@ Wie haben sich die Nutzungszahlen der Projekte der Offenen Kinderund Jugendarbei
 
 Wie haben sich die Mitarbeiterzahlen bei Maßnahmen oder Projekten der Offenen Kinder- und Jugendarbeit seit dem Jahr 2015 entwickelt? (Wenn möglich, bitte jahresweise nach Bezirk, Stadtteil und Projekt aufschlüsseln – wenn dies nicht möglich ist, bitte nach Bezirk und Stadtteil aufschlüsseln.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage 1. Aufgeführt sind alle von der Freien und Hansestadt geförderten Einrichtungen und Projekte der Offenen Kinder- und Jugendarbeit. Angegeben sind jeweils die Stammnutzenden, das heißt die durchschnittliche Zahl der Nutzerinnen und Nutzer, die im erfragten Jahr die angegebene Einrichtung mindestens einmal
 
@@ -99,7 +100,7 @@ Welche Projekte der Offenen Kinder- und Jugendarbeit sind in den Jahren 2016 und
 
 Welche der Projekte wurden aus Regelmitteln finanziert, welche wurden über Haushaltsreste finanziert? (Bitte jahresweise nach Bezirk aufschlüsseln wie in Drs. 21/2155.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage 2. Als Regelfinanzierung wird die Rahmenzuweisung Kinder- und Jugendarbeit Betriebsausgaben sowie der Quartiersfonds verstanden. Die Bezirksämter Wandsbek und Hamburg-Nord haben mitgeteilt, für einzelne Einrichtungen und Projekte nicht angeben zu können, ob eine Regelfinanzierung oder eine Finanzierung aus Resten erfolgt ist. Das Bezirksamt Hamburg-Nord nimmt stattdessen eine entsprechende Aufteilung der Finanzierung bezogen auf die Gesamtsumme der geförderten Maßnahmen vor. Im Jahr 2016 wurden die Einrichtungen der Offenen Kinder- und Jugendarbeit mit 1.450.000 Euro aus der Regelfinanzierung und 179.818 Euro aus Restmitteln gefördert, im Jahr 2017 mit 1.569.000 Euro aus der Regelfinanzierung und
 28.056 Euro aus Restmitteln.

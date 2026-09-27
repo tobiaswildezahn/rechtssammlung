@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18107"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68387"
@@ -130,7 +131,7 @@ Warum hat die Universität beziehungsweise deren Leitung nicht für einen störu
 
 Insbesondere: Warum war kein Vertreter der Universitätsleitung vor Ort, um die Hausordnung durchzusetzen und warum gab es kein Konzept zum Schutz von Bernd Lucke? Insbesondere: Hat die Universitätsleitung im Vorfeld der Veranstaltung die Polizei über die potenzielle Gefahrensituation für Herrn Lucke informiert?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Im Vorfeld der erfragten Veranstaltung fanden Gespräche zwischen Polizei und Hochschulleitung statt. Die Universität hat mit der Einsatzleitung der Polizei, zum Teil mehrfach, auch im Beisein und unter Mitwirkung von Herrn Prof. Lucke kommuniziert und die Verfahrensweise abgestimmt. Insofern gab es ein Konzept zum Schutz der Studierenden und von Herrn Prof. Lucke.
 

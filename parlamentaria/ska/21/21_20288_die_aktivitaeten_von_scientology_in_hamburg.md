@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17896", "21/12167"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70072"
@@ -61,7 +62,7 @@ Wie viele Mitglieder hat Scientology gegenwärtig nach Kenntnis des Senats?
 
 Wie hat sich die Mitgliederzahl 2019 nach Kenntnis des Senats entwickelt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Dem LfV Hamburg liegen keine Erkenntnisse über signifikante Veränderungen des Personenpotenzials vor. Im Übrigen siehe Drs. 21/17896.
 
@@ -89,7 +90,7 @@ Wie viele Personen haben sich 2019 hilfesuchend an die Scientology- Beratung in 
 
 Inwiefern hat sich der Bedarf nach einer Ausstiegsberatung 2019 entwickelt? Hat er im Vergleich zum Vorjahr zu- oder abgenommen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/17896.
 
@@ -117,7 +118,7 @@ Wie viele verschiedene Arten von Informationsbroschüren hat Scientology 2019 in
 
 Um welche Themen ging es dabei?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Drs. 21/12167. Informationsbroschüren zu den darin genannten Kampagnen werden – teilweise in aktualisierter Form – dauerhaft verwendet.
 

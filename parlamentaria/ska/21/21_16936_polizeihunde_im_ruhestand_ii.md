@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8635"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66521"
@@ -120,29 +121,29 @@ Wie viele Diensthunde sind jeweils seit 2017 jährlich aus dem Dienst aus welche
 
 2017: sechs.
 
-• Ein Diensthund erfüllte nicht die Einsatzvoraussetzungen.
+– Ein Diensthund erfüllte nicht die Einsatzvoraussetzungen.
 
-• Ein Diensthund wurde aus gesundheitlichen Gründen aus dem Einsatz genommen.
+– Ein Diensthund wurde aus gesundheitlichen Gründen aus dem Einsatz genommen.
 
-• Ein Diensthund wurde altersbedingt aus dem Einsatz genommen.
+– Ein Diensthund wurde altersbedingt aus dem Einsatz genommen.
 
-• Drei Diensthunde sind verstorben.
+– Drei Diensthunde sind verstorben.
 
 2018: acht.
 
-• Ein Diensthund erfüllte nicht die Einsatzvoraussetzungen.
+– Ein Diensthund erfüllte nicht die Einsatzvoraussetzungen.
 
-• Ein Diensthund wurde aus gesundheitlichen Gründen aus dem Einsatz genommen.
+– Ein Diensthund wurde aus gesundheitlichen Gründen aus dem Einsatz genommen.
 
-• Fünf Diensthunde wurden altersbedingt aus dem Einsatz genommen.
+– Fünf Diensthunde wurden altersbedingt aus dem Einsatz genommen.
 
-• Ein Diensthund ist verstorben.
+– Ein Diensthund ist verstorben.
 
 2019: zwei.
 
-• Ein Diensthund erfüllte nicht die Einsatzvoraussetzungen.
+– Ein Diensthund erfüllte nicht die Einsatzvoraussetzungen.
 
-• Ein Diensthund wurde altersbedingt aus dem Einsatz genommen.
+– Ein Diensthund wurde altersbedingt aus dem Einsatz genommen.
 
 ### Frage 9
 

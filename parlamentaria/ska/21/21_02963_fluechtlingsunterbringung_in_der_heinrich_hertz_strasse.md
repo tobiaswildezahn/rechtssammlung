@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 16
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51289"
@@ -111,7 +112,7 @@ Welches Konzept gibt es für die Beteiligung engagierter Bürger, sobald der Sta
 
 Inwiefern plant der Senat eine Einbindung örtlicher Initiativen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Im Bezirksamt Hamburg-Nord ist es Standard, dass das Bezirksamt Listen während der Informationsveranstaltungen auslegt, in denen Bürger, die sich ehrenamtlich engagieren wollen, sich eintragen können und später zu einem Runden Tisch eingeladen werden. Die sozialräumliche Vernetzung erfolgt durch das Fachamt Sozialraummanagement des Bezirksamts.
 

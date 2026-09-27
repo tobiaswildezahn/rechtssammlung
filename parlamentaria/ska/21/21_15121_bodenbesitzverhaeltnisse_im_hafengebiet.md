@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 4
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12060", "21/14137"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64582"
@@ -51,6 +52,6 @@ Gibt es ähnlich der in Drs. 21/12060 beispielshaft für die Peute abgedruckten 
 
 Beabsichtigt der Senat, wenn Frage 1. verneint wird, im Zuge der Hafenentwicklung und vor dem Hintergrund des Beschlusses 21/14137 die Beauftragung der HPA mit einer solchen Übersicht? Wenn ja, bis wann ist ein Ergebnis zu erwarten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage. Die in der Karte gekennzeichneten privaten Flächen befinden sich bereits seit Jahrzehnten im Privateigentum. Die HPA verkauft gemäß Hafenentwicklungsgesetz (HafenEG) grundsätzlich keine Hafenflächen.

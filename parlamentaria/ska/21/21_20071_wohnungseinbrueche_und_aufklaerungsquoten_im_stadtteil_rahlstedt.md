@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69832"
@@ -43,7 +44,7 @@ Wie hat sich die Zahl der Einbrüche in den Jahren 2016 bis 2019 im Stadtteil Ra
 
 Wie hat sich die dazugehörige Aufklärungsquote zwischen 2016 und 2019 entwickelt? Bitte die Zahlen für jedes Quartal und nach Wohnungen, Häusern und Gewerbeobjekten aufgegliedert angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

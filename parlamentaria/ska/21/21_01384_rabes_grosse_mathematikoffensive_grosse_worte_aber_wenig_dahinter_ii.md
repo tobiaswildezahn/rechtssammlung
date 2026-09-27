@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1001"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49580"
@@ -59,7 +60,7 @@ Wie viele und welche Schulen verfügen „bereits jetzt über eine ausreichende 
 
 An welchen Schulen ist ein Überhang an Mathematiklehrern vorhanden, die aufgrund von bestehenden Engpässen an andere Schulen versetzt werden müssten/könnten? (Bitte getrennt nach StS und Gym angeben.) Wenn dies bekannt ist, warum wurde nicht schon zum Schuljahresbeginn 2015/2016 entsprechend gehandelt beziehungsweise wurden Bereitschaft und Möglichkeiten überhaupt abgefragt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die erfragten Angaben werden von der zuständigen Behörde nicht zentral erfasst. Die Durchführung einer Schulabfrage war aufgrund der Hamburger Sommerferien nicht möglich.
 

@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 29
 antwortbloecke: 21
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5864", "21/5758"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54605"
@@ -118,7 +119,7 @@ Hält der Senat Szenarien wie das „Vattenfall-Szenario“ für die Ersatzlösu
 
 Hält der Senat Szenarien wie das „Vattenfall-Szenario“ für die Ersatzlösung Wedel für vereinbar mit dem Klimaschutzziel Hamburgs für das Jahr 2030 (50 Prozent CO2-Reduzierung gegenüber 1990)? Wenn ja: mit welcher Begründung? (Bitte ausführlich darstellen.)
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Eine endgültige Bewertung des von Vattenfall vorgelegten Szenarios haben die zuständigen Behörden noch nicht vorgenommen.
 
@@ -154,7 +155,7 @@ enercity und Aurubis benötigen zum Bau des Fernwärmeleitungsstücks von Aurubi
 
 Bis wann ist gegebenenfalls mit einer entsprechenden Genehmigung zu rechnen?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Der zuständigen Behörde liegen derzeit noch keine Anträge für die Errichtung einer Fernwärmeleitung Aurubis bis zur Zweibrückenstraße vor.
 

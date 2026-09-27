@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 31
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3659"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56310"
@@ -55,17 +56,17 @@ Nach der Verwaltungsgliederung der Freien und Hansestadt Hamburg gibt es keine f
 
 Hamburg und Schleswig-Holstein – Statistikamt Nord – hat für überregionale Datenzusammenstellungen und für die innerstädtische Raumbeobachtung folgende Stadtteile als Innenstadt definiert:
 
- Altstadt
+– Altstadt
 
- HafenCity
+– HafenCity
 
- Neustadt
+– Neustadt
 
- St. Georg
+– St. Georg
 
- Hammerbrook
+– Hammerbrook
 
- Borgfelde.
+– Borgfelde.
 
 Für die erbetenen Datenauswertungen orientieren sich die zuständigen Fachbehörden und das zuständige Bezirksamt an dieser Definition.
 
@@ -85,7 +86,7 @@ Wie ist die Entwicklung der Sportanlagen seit 1999 im innerstädtischen Bereich 
 
 Welche dieser Anlagen wurde seit 1999 saniert oder umgebaut? Bitte aufschlüsseln nach Zeitpunkt, Art der Maßnahme und Höhe der Finanzierung.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Zu den öffentlichen und vereinseigenen Sportanlagen siehe Anlage 2.
 
@@ -99,13 +100,13 @@ Welche Stelle beziehungsweise welche Stellen sind federführend hinsichtlich Bau
 
 Für die Bauplanung und die Ausstattung von Sportanlagen sind folgende Behörden für den in der Antwort zu 1. genannten räumlichen Bereich zuständig:
 
- Öffentliche Sportanlagen: Bezirksamt Hamburg-Mitte,
+– Öffentliche Sportanlagen: Bezirksamt Hamburg-Mitte,
 
- Schulsportanlagen: Behörde für Schule und Berufsbildung (BSB) als Auftraggeber,
+– Schulsportanlagen: Behörde für Schule und Berufsbildung (BSB) als Auftraggeber,
 
 Sondervermögen Schulimmobilien (SoV) als Eigentümer und Schulbau Hamburg (SBH) als Dienstleister,
 
- Vereinseigene Anlagen: Sportselbstverwaltung.
+– Vereinseigene Anlagen: Sportselbstverwaltung.
 
 Seit Inkrafttreten der Entflechtung der Zuständigkeiten in der Sportverwaltung zum
 1. Januar 2013 ist das Fachamt Bezirklicher Sportstättenbau im Bezirksamt Hamburg- Mitte als Baudienstleister der Bezirke für die Planung und Umsetzung von Baumaßnahmen auf öffentlichen Sportplätzen zuständig. Dies geschieht in enger Abstimmung
@@ -124,7 +125,7 @@ Wer ermittelt wie und auf welcher Grundlage die Bedarfe von Sportanlagen im inne
 
 Welche Stellen sind wann mit welchen Verantwortlichen von Sportvereinen in Kontakt getreten, um die Bedarfe der Vereine, die Standortauswahl und die Finanzierung gemeinsam zu erläutern? Welche Positionen haben die beteiligten Akteure diesbezüglich und welche Abstimmungen haben wann zwischen diesen mit welchem Ergebnis stattgefunden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Gemäß Zuständigkeitsanordnung des Senats liegt die Verantwortung für die Sportstättenbedarfsgesamtplanung, ausgenommen Schulsportstätten, bei der für Sport zuständigen Behörde. Für den Bereich der öffentlichen Sportplätze ist das Fachamt Bezirklicher Sportstättenbau seit dem 1. Januar 2013 als Dienstleister tätig. Vereinsbedarfe und -belange werden bei der Planung und Umsetzung von Baumaßnahmen, die öffentliche Sportplätze betreffen, berücksichtigt und im Austausch mit den ortsansässigen Vereinen ermittelt.
 

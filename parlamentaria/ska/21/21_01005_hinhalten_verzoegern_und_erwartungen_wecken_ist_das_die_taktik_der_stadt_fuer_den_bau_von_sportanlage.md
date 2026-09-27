@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 24
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/2563"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49181"
@@ -66,7 +67,7 @@ für welche Sportarten die Flächen genutzt werden können.
 welche Nutzfläche die jeweiligen Sportanlagen in Quadratmetern  
 entsprechen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Eine Zweifeld-Sporthalle im Zusammenhang mit der Katharinenschule ist realisiert. Für eine Zweite, im Zusammenhang mit der Grundschule am Baakenhafen stehende, wird zurzeit der Architektenwettbewerb ausgelobt (Fertigstellung voraussichtlich 2018) und für das Gymnasium am Lohsepark beginnt in 2015 die Konzeptphase der Vorplanung. Drei öffentliche Sporthallen werden zukünftig zeitgleich verfügbar sein.
 
@@ -158,7 +159,7 @@ Wie groß planen Sie die Nutzfläche der jeweiligen Sportanlagen?
 
 Welcher Nutzfläche in Quadratmetern sollen die Sportanlagen im Oberhafen entsprechen?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Die Planungen sind noch nicht abgeschlossen.
 

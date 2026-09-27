@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 29
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9661", "21/9662"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64364"
@@ -98,7 +99,7 @@ Gab es in den letzten zwei Jahren Fälle, in denen die Begrenzung der Fördermit
 
 Nach welchem Kriterienkatalog bewertet die FFHSH die Mittelzuordnung bei förderfähigen Projekten? Welche Prioritäten werden befolgt, wenn etwa begrenzte Mittel für mehrere förderfähige Projekte zuzuordnen sind? Gibt es eine Förderrichtlinie?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 3.
 
@@ -148,15 +149,15 @@ Was tut der Senat, um ausreichende Produktions- und Arbeitsflächen für diese F
 
 Die Hamburg Kreativ Gesellschaft vermittelt und vermietet Produktions- und Arbeitsflächen an Kreativschaffende. Sie mietet dazu selbst Objekte an, um diese dann in kleineren Raumeinheiten oder auch temporär zu vermieten. Eine statistische Erfassung der Zuordnung der Mietverträge zu den Teilmärkten der Kreativbranche erfolgt nicht. Speziell zum Bereich Film sei auf folgende Beispiele hingewiesen:
 
- Zwei größere Hallen (im Oberhafen sowie am Veringhof in Wilhelmsburg) werden
+– Zwei größere Hallen (im Oberhafen sowie am Veringhof in Wilhelmsburg) werden
 
 temporär vermietet und oft für Filmdreharbeiten genutzt. In den letzten beiden Jahren war dies 22 Mal der Fall (von insgesamt 61 Vermietungen in diesen Hallen).
 
- In diesem Zeitraum wurden im ehemaligen Finanzamt Altona ein Drittel der neu
+– In diesem Zeitraum wurden im ehemaligen Finanzamt Altona ein Drittel der neu
 
 vermieteten Räume an Filmschaffende untervermietet. In der Kastanienallee wird etwa ein Viertel der gesamten Fläche ausschließlich für den Bereich Film genutzt, darüber hinaus befindet sich in dem Gebäude ebenfalls ein Tonstudio.
 
- Ferner werden in zwei Objekten, dem Hochwasserbassin mit Mobil Space und der
+– Ferner werden in zwei Objekten, dem Hochwasserbassin mit Mobil Space und der
 
 alten Bahnmeisterei mit der Filmfabrique, Arbeitsflächen temporär speziell für den Bereich Film zur Nutzung als Produktionsbüro vermietet.
 
@@ -178,7 +179,7 @@ Wie viele Anträge auf Drehgenehmigungen im öffentlichen Raum sind in der zust�
 
 In welchen Stadtteilen wurden wie viele Drehgenehmigungen pro Jahr seit 2014 (inklusive 2018 bis zum 31.10.2018) erteilt?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Jahr Eingegangene Anträge
 

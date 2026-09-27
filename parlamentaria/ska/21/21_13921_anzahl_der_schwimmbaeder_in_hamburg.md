@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63304"
@@ -89,7 +90,7 @@ Warum wird mithilfe des oben angeführten Bundesprogramms kein Hamburger Schwimm
 
 Ist dies noch geplant?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 BLH fällt nicht unter die Zielgruppe des Förderprogramms. Dieses hat die Behebung eines Investitionsstaus in den Kommunen zum Ziel. Dieser ist in Hamburg bezüglich der Bäderinfrastruktur nicht feststellbar. Darüber hinaus zielt das erwähnte Bundesprogramm auf zukünftige Projekte im Zeitraum 2019 – 2022 und ist gerade erst veröffentlicht worden.
 

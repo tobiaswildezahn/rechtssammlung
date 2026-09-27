@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 22
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5998", "20/917"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54686"
@@ -121,7 +122,7 @@ Wurde bereits die Bevölkerung im Stadtteil über die Pläne informiert? Wenn ja
 
 Wurden die politischen Gremien bereits in öffentlichen Sitzungen über die Pläne zur Errichtung der Flüchtlingsunterkunft Seelemannpark informiert? Wenn ja, wann und wie? Wenn nein, wann soll dies geschehen?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Der Hauptausschuss der Bezirksversammlung wurde in seiner Sitzung am 6. September 2016 mündlich über den Vorschlag aus dem Projekt „FindingPlaces“ informiert.
 

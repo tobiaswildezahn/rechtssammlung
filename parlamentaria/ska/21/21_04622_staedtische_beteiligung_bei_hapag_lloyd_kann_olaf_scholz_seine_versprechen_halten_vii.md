@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2735", "21/3168", "21/3776"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53036"
@@ -52,7 +53,7 @@ Wann hat sich bislang jeweils der Aufsichtsrat der HL einerseits sowie die Gesel
 Wann wird sich der Aufsichtsrat der HL einerseits sowie die Gesellschafterversammlung der Hamburg Container Lines Holding GmbH & Co. KG (HCLH) andererseits im Vorfeld der Hauptversammlung der HL mit der geplanten Fusion mit UASC befassen? (Bitte – soweit bereits terminiert
 – genaue Daten nennen.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Verhandlungen über einen möglichen Zusammenschluss der beiden Reedereien sind noch nicht abgeschlossen. Dementsprechend hat sich die Gesellschafterversammlung der Hamburg Container Lines Holding GmbH & Co. KG damit noch nicht befasst. Die Inhalte der Beratungen des Aufsichtsrates der HL unterliegen aus aktienrechtlichen Gründen der Verschwiegenheit und können daher grundsätzlich nicht veröffentlicht werden.
 

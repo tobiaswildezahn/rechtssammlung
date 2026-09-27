@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53938"
@@ -89,7 +90,7 @@ Zu welchen anderen wissenschaftlichen Kongressen in Hamburg in diesem Jahr waren
 
 Wie viele türkische Wissenschaftler haben betreffend diese weiteren wissenschaftlichen Kongresse ihre Teilnahme abgesagt beziehungsweise sind nicht erschienen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Datum Veranstaltung Einladung türkischer Wissenschaftlerinnen und Wissenschaftler
 

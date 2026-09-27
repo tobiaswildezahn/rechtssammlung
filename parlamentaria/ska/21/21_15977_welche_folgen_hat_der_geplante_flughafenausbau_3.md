@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 19
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15534", "21/15603", "21/10688", "21/13168", "21/14477"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65483"
@@ -207,7 +208,7 @@ In wie vielen Nächten im Jahr 2018 hat es Starts oder Landungen nach 23 Uhr geg
 
 Mit welcher Anzahl an Starts und Landungen nach 23 Uhr rechnet der Senat für das Jahr 2019?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Zwischen 23 und 24 Uhr sind Starts und Landungen erlaubt, wenn eine nachweisbare Verspätung vorliegt. Diese sogenannte Verspätungsregelung ist Teil der genehmigten Betriebszeiten des Flughafens. Im Jahr 2018 wurde in 308 Nächten in mindestens einem Fall Gebrauch von der sogenannten Verspätungsregelung gemacht. Für das Jahr 2019 kann keine Prognose erstellt werden, weil Verspätungen von vielen unplanbaren Ereignissen und externen Faktoren, die nicht im Einflussbereich der FHG liegen, abhängen. Allerdings haben die zuständige Behörde und die FHG im Rahmen ihrer Möglichkeiten zahlreiche Maßnahmen ergriffen, um die Anzahl der Verspätungen nach 23 Uhr zu reduzieren.
 

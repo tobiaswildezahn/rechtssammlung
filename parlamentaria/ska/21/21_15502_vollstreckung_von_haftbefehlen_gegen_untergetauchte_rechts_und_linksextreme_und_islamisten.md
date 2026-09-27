@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11893"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64970"
@@ -70,7 +71,7 @@ Wegen welcher Delikte werden beziehungsweise wurden die Beschuldigten in den gen
 
 Wie verteilen sich die Delikte in den genannten Zeiträumen prozentual auf die unterschiedlichen Straftatbestände?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 In der nachstehenden Tabelle werden die im Sinne der Fragestellungen an das BKA gemeldeten Daten des Phänomenbereich PMK – links – dargestellt:
 
@@ -163,7 +164,7 @@ Wegen welcher Delikte werden beziehungsweise wurden die Beschuldigten in den gen
 
 Wie verteilen sich die Delikte in den genannten Zeiträumen prozentual auf die unterschiedlichen Straftatbestände?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 In der nachstehenden Tabelle werden die im Sinne der Fragestellungen an das BKA gemeldeten Daten der Phänomenbereiche PMK – ausländische Ideologie – und PMK
 – religiöse Ideologie – dargestellt:
@@ -254,7 +255,7 @@ Wegen welcher Delikte werden beziehungsweise wurden die Beschuldigten in den gen
 
 Wie verteilen sich die Delikte in den genannten Zeiträumen prozentual auf die unterschiedlichen Straftatbestände?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 In der nachstehenden Tabelle werden die im Sinne der Fragestellungen an das BKA gemeldeten Daten des Phänomenbereich PMK – rechts – dargestellt:
 

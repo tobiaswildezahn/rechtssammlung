@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 22
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4566", "21/13054"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62616"
@@ -96,6 +97,6 @@ Welches Sprachniveau wird nach GER benötigt, um eine Ausbildung zu beginnen?
 
 Welches Sprachniveau wird nach GER benötigt, um eine Ausbildung erfolgreich abzuschließen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Für die Aufnahme und den Abschluss einer Ausbildung bestehen keine formalen Mindestvoraussetzungen. Im Allgemeinen werden Deutschkenntnisse auf dem Sprachniveau B1 des GER erwartet. Im Übrigen siehe Drs. 21/4566.

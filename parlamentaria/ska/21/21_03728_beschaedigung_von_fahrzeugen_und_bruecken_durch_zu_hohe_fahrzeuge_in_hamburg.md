@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/696"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52099"
@@ -53,7 +54,7 @@ Wie viele Fahrzeuge welchen Typs (Pkw, Lkw, Bus, sonstige) blieben in Hamburg zw
 
 Wie viele Fahrzeuge und Fahrzeuginsassen erlitten dabei Schäden, Totalschäden und Verletzungen welcher Art?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Statistische Daten im Sinne der Fragestellung werden bei der Polizei Hamburg nicht erhoben. Für die Beantwortung der Fragestellungen für den Zuständigkeitsbereich der Polizei Hamburg wäre eine Auswertung sämtlicher Verkehrsunfallakten des erfragten Zeitraums erforderlich. Die Durchsicht von über sechzigtausend Vorgängen pro Jahr ist in der für die Beantwortung Parlamentarischer Anfragen zur Verfügung stehenden Zeit nicht möglich. Im Übrigen siehe Vorbemerkung.
 

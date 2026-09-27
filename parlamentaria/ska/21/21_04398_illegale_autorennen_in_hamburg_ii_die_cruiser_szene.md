@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 41
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9438", "21/1155"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52819"
@@ -133,7 +134,7 @@ Wie unterbindet die Polizei illegale Autorennen, sofern sie davon im Vorfeld Ken
 
 Mit welchen Maßnahmen ist die Polizei bisher an den Orten von illegalen Autorennen befasst? a. Sind an den neuralgischen Punkten Radarkontrollen angebracht oder verstärkt worden? Wenn nein, warum nicht? Wenn ja, an welchen bekannten Orten der Cruiser-Szene beziehungsweise illegalen Autorennen und seit wann? Inwieweit konnten dadurch illegale Autorennen unterbunden werden? b. Welche Maßnahmen zur Unterbindung von illegalen Autorennen haben sich bisher als erfolgversprechend erwiesen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Polizei führt Präsenzmaßnahmen und Verkehrsüberwachungsmaßnahmen durch. Gegen Störer werden Platzverweise ausgesprochen. Zu den Verkehrsüberwachungsmaßnahmen zählen auch gezielte Geschwindigkeitsüberwachungsmaßnahmen im Umfeld der Treffpunkte. Auf dem Jungfernstieg wurden im August 2015 Messkabinen errichtet, in die temporär Geschwindigkeitsüberwachungsgeräte installiert werden. Diese Maßnahmen sind insgesamt zielführend. Die polizeiliche Präsenz am Treffpunkt der Cruiser sorgt für eine ruhige Lage am Einsatzort. Im Übrigen siehe Vorbemerkung.
 

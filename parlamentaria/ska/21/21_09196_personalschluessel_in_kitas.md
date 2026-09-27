@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5976", "20/12558"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57944"
@@ -86,7 +87,7 @@ Konnten in Kindertagesstätten von öffentlichen Unternehmen der Freien und Hans
 
 In welchen Kitas wurde die jahresdurchschnittliche 90-prozentige Besetzung von Fachkraftstellen zumindest temporär nicht realisiert? Welche maximalen Abweichungen gab es von den vorgegeben 90 Prozent über einen Zeitraum von mindestens einer Woche?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Da die zuständige Behörde nicht über die erforderlichen Informationen verfügt, hat sie die Vertragspartner des Landesrahmenvertrages (LRV) „Kinderbetreuung in Tageseinrichtungen“ (Arbeiterwohlfahrt, Landesverband Hamburg e.V.; Caritasverband für Hamburg e.V.; Deutsches Rotes Kreuz Landesverband Hamburg; Der PARITÄTISCHE Wohlfahrtsverband Hamburg e.V.; Diakonisches Werk Hamburg e.V., Kindermitte – Bündnis für soziales Unternehmertum und Qualität in der Kindertages-
 

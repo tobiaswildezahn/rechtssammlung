@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56534"
@@ -55,25 +56,25 @@ In einem Formular, das an die Personalabteilung zurückgesendet werden muss, kö
 
 Folgende Erstansprechpersonen stehen zur Verfügung:
 
- direkte Vorgesetzte beziehungsweise direkter Vorgesetzter
+– direkte Vorgesetzte beziehungsweise direkter Vorgesetzter
 
- Arbeitsmedizinischer Dienst (AMD)
+– Arbeitsmedizinischer Dienst (AMD)
 
- Beratungsstelle Lehrergesundheit am Landesinstitut für Lehrerbildung und Schul-
+– Beratungsstelle Lehrergesundheit am Landesinstitut für Lehrerbildung und Schul-
 
 entwicklung (LI)
 
- Beratungsstelle für Krisenbewältigung und Abhängigkeitsprobleme (BST)
+– Beratungsstelle für Krisenbewältigung und Abhängigkeitsprobleme (BST)
 
- Personalsachgebietsleitung
+– Personalsachgebietsleitung
 
- Personalentwicklung in der BSB
+– Personalentwicklung in der BSB
 
- Personalrat der Schule
+– Personalrat der Schule
 
- Personalreferentin beziehungsweise Personalreferent
+– Personalreferentin beziehungsweise Personalreferent
 
- Vertrauensperson der Schwerbehinderten
+– Vertrauensperson der Schwerbehinderten
 
 ### Frage 3
 
@@ -145,7 +146,7 @@ Wie viele Lehrkräfte waren im Schuljahr 2015/2016 anspruchsberechtigt, durch da
 
 Wie viele sonstige schulische Beschäftigte waren im Schuljahr 2015/ 2016 anspruchsberechtigt, durch das BEM unterstützt zu werden? Wie viele hiervon haben das BEM tatsächlich genutzt?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Im Schuljahr 2015/2016 waren insgesamt 890 Lehrkräfte sowie 368 sonstige schulische Beschäftigte hinsichtlich einer Unterstützung durch das BEM anspruchsberechtigt und sind von der Personalabteilung der zuständigen Behörde angeschrieben und über das mögliche Verfahren informiert worden. Von 890 Lehrkräften haben 301 Lehrkräfte und von 368 sonstigen schulischen Beschäftigten haben 68 Beschäftigte das Gesprächsangebot angenommen.
 

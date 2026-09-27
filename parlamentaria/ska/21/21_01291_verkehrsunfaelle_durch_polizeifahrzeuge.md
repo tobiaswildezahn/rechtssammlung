@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49507"
@@ -98,11 +99,11 @@ Wie oft wurden in den Jahren 2014 und 2015 gegen Führer von Polizeifahrzeugen w
 
 Im erfragten Zeitraum sind bis zum Stichtag 17. August 2015 bei der Polizei im Jahr 2014 zwei Disziplinarverfahren im Sinne der Fragestellung gegen Beamte der Polizei eingeleitet worden:
 
- Ein Disziplinarverfahren im Zusammenhang mit der Verursachung eines Verkehrs-
+– Ein Disziplinarverfahren im Zusammenhang mit der Verursachung eines Verkehrs-
 
 unfalles. Dieses Verfahren ist noch nicht abgeschlossen.
 
- Ein Disziplinarverfahren, nachdem der Beamte, neben anderen Pflichtverstößen,
+– Ein Disziplinarverfahren, nachdem der Beamte, neben anderen Pflichtverstößen,
 
 im Verdacht stand, entgegen bestehenden Vorschriften eigenständig seinen Weg zum Einsatzort fortgesetzt zu haben, ohne am Unfallort die erforderlichen Maßnahmen einzuleiten. Das Verfahren ist unter Feststellung eines Dienstvergehens eingestellt worden.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1846"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56274"
@@ -69,23 +70,23 @@ Was hat der Senat seit Beginn der Legislatur konkret unternommen, um im Bereich 
 
 In dieser Legislaturperiode wurde das ZAL TechCenter fertiggestellt und im März des Jahres 2016 eröffnet. Im TechCenter haben Unternehmen und wissenschaftliche Einrichtungen die Möglichkeit, unter einem Dach gemeinsam an Forschungsthemen zu arbeiten. Einer der Schwerpunkte ist das Thema Industrie 4.0 und 3-D-Druck. Im Bereich 3-D-Druck finden dort unter anderem folgende Aktivitäten statt beziehungsweise sind geplant:
 
-• 3-D-Druck-Plattform von Airbus, in Zusammenarbeit mit dem LZN
+– 3-D-Druck-Plattform von Airbus, in Zusammenarbeit mit dem LZN
 
-• 3-D-Druck-Aktivitäten von Lufthansa Technik
+– 3-D-Druck-Aktivitäten von Lufthansa Technik
 
-• Ansiedlung des DLR mit den Themenbereichen „Systemarchitekturen in der Luftfahrt“ und „Wartungs- und Reparaturkonzepte“. In beiden Bereichen wird der Einsatz neuer Produktionstechnologien eine wichtige Rolle spielen.
+– Ansiedlung des DLR mit den Themenbereichen „Systemarchitekturen in der Luftfahrt“ und „Wartungs- und Reparaturkonzepte“. In beiden Bereichen wird der Einsatz neuer Produktionstechnologien eine wichtige Rolle spielen.
 
 Die ZAL GmbH fördert den Austausch der Mieter und der Akteure am Standort und hat im November des Jahres 2016 einen Diskurs zum Thema 3-D-Druck durchgeführt, an dem mehr als 100 Interessierte teilgenommen haben.
 
 Im Rahmen der Innovationsförderung wurden durch die IFB seit Beginn der Legislatur vier Projekte mit Bezug zum Thema 3-D-Druck mit einem Fördervolumen in Höhe von rund 1,7 Millionen Euro bewilligt (damit könnten nach Projektende 27 Arbeitsplätze geschaffen werden.) Diese vier Projekte sind:
 
-• Keramosint – Kosteneffiziente dentale Kurzzeitkronen aus keramikgefülltem Polyamid 12 durch selektives Lasersintern
+– Keramosint – Kosteneffiziente dentale Kurzzeitkronen aus keramikgefülltem Polyamid 12 durch selektives Lasersintern
 
-• Produktentwicklung und Markteinführung flexibler Hochleistungs-Femtosekundenlaser für beschl. Produktivität/hochpräz. Lasermaterialbearbeitung
+– Produktentwicklung und Markteinführung flexibler Hochleistungs-Femtosekundenlaser für beschl. Produktivität/hochpräz. Lasermaterialbearbeitung
 
-• RobReLas – Roboterbasierte, automatisierte Rekonditionierung von dünnwandigen Komponenten mittels Laserauftragschweißen
+– RobReLas – Roboterbasierte, automatisierte Rekonditionierung von dünnwandigen Komponenten mittels Laserauftragschweißen
 
-• rotaStar – Entwicklung einer Anlagentechnik zur rotativen laseradditiven Fertigung von Stanzzylindern
+– rotaStar – Entwicklung einer Anlagentechnik zur rotativen laseradditiven Fertigung von Stanzzylindern
 
 Die Mittelstandsförderung spielt bei der Innovationsförderung eine zentrale Rolle. Im Rahmen der Förderung zum Thema 3-D-Druck wurden vier KMU gefördert.
 
@@ -99,7 +100,7 @@ Welche konkreten Maßnahmen, Projekte und Initiativen hat der Senat zum jetzigen
 
 Welche Summe ist im Haushalt 2017/2018 für diese Maßnahmen vorgesehen und wo genau finden sich diese Positionen im Haushalt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Vor dem Hintergrund der Relevanz des Themas 3-D-Druck werden die 3-D-Druck- Aktivitäten in den Clustern weiterbearbeitet und weiterentwickelt. In den Zielkomplexen im Handlungsfeld 3-D-Druck im Masterplan Industrie werden konkrete Maßnahmen festgelegt, die die Zielerreichung sicherstellen sollen. Dazu gehören unter anderem die Einrichtung eines Schaufensters für 3-D-Druck („Demonstrationszentrum“), um das Thema erlebbar zu machen. Im Übrigen siehe Antwort zu 1.
 

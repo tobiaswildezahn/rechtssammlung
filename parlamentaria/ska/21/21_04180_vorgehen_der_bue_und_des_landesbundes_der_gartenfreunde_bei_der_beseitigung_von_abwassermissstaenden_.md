@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 39
 antwortbloecke: 21
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3932"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52585"
@@ -73,7 +74,7 @@ Welche Anlässe gibt es für die Kontrolle einer Kleingartenparzelle? Sollten me
 
 Auf Basis welcher rechtlichen Bestimmungen findet die Begehung der zu kontrollierenden Parzellen statt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Anlass für die Kontrollen sind Hinweise auf Abwassermissstände.
 
@@ -128,7 +129,7 @@ Wie sieht nach Bewertung der BUE eine regelkonforme Abwasserbeseitigung für Kle
 
 Wird die durch den Landesbund der Gartenfreunde den Kleingartenvereinen vorgeschriebene Praxis der Entsorgung von Abwässern ebenfalls durch die BUE geprüft? Wenn ja: a. Wurden bei den Überprüfungen Schadstoffe festgestellt, zum Beispiel Medikamentenrückstände? i. Wenn ja: Können diese Schadstoffe Auswirkungen auf die Gesundheit haben? b. Ist eine Verschlechterung der Boden- und Grundwasserwerte bei den Prüfungen festgestellt worden? i. Wenn ja: Kann die Verschlechterung Auswirkungen auf die Gesundheit haben? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Eine analytische Untersuchung von Boden- und Grundwasser wird im Zusammenhang mit den behördlichen Kontrollen bei Abwassermissständen nicht durchgeführt. Zu den Grundlagen der Kontrollen siehe Antwort zu 4. und 5.
 
@@ -188,7 +189,7 @@ Ist es richtig, dass der Fonds für Abkippstationen, die eine Entsorgung von Abw
 
 Wie viele Abkippstationen wurden durch den Fonds für die Abkippstationen finanziert?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Ja, der „Fonds zur Errichtung von Abkippstationen“ beim LGH wurde in 2014 aufgelöst. Mit dem 2014 beim LGH neu geschaffenen „Kleingarteninfrastrukturfonds“ besteht eine alternative Finanzierungshilfe für die Kleingartenvereine bei der Errichtung von Abkippstationen.
 

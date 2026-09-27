@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9662"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64618"
@@ -78,7 +79,7 @@ Wie viele P+R-Anlagen wurden seit 2010 in besagten Stadtteilen geschlossen? Bitt
 
 Mit welcher Begründung wurden die einzelnen P+R-Anlagen geschlossen? Bitte einzeln aufführen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die P+R hat keine Anlage geschlossen. Dem Bezirksamt Eimsbüttel ist dazu nichts bekannt.
 

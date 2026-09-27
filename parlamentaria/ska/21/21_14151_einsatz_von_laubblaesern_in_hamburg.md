@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63554"
@@ -96,7 +97,7 @@ Sofern der Einsatz von Laubbläsern aus Gründen der Arbeitsersparnis erfolgt: W
 
 Wie rechtfertigt die zuständige Behörde den Einsatz von Laubbläsern, obwohl sie außerordentlichen Lärm emittieren, die Feinstaubbelastung erhöhen und eine schädliche Wirkung auf die Fauna haben?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Das Inverkehrbringen und der Betrieb von Laubbläsern sind europa- und bundesrechtlich geregelt, siehe dazu auch die Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5830", "20/12206", "21/7840", "21/2581"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57859"
@@ -87,7 +88,7 @@ Was ist mit „besonderem islamischen Religionsunterricht“ gemeint?
 
 Welche sind die gesetzlichen Voraussetzungen dafür?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 „Besonderer islamischer Religionsunterricht“ im Sinne von Artikel 6 Absatz 2 des oben zitierten Vertrags wäre ein Religionsunterricht auf Grundlage von Artikel 7 Absatz 3 Grundgesetz (GG) beziehungsweise § 7 Absatz 1 Hamburgisches Schulgesetz (HmbSG), der als konfessionell getrennter Religionsunterricht in Übereinstimmung mit den Grundsätzen der islamischen Religionsgemeinschaften erfolgt.
 

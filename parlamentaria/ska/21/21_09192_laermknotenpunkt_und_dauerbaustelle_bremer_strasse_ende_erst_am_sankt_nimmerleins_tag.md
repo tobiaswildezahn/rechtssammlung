@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2321", "20/10333"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57956"
@@ -49,7 +50,7 @@ Kann der Senat beziehungsweise die zuständige Behörde sicherstellen, dass – 
 
 Wie ist der Zeitplan für die Sanierung der einzelnen Straßenabschnitte und welche einzelnen lärmmindernden Maßnahmen sind in welchem Abschnitt geplant?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Grundinstandsetzungen der B 75/Bremer Straße zwischen der BAB-Anschlussstelle HH-Marmstorf/Lürade und Sunderweg (freie Strecke der B 75) und zwischen Sunderweg und Hohe Straße sollen im Jahr 2020 erfolgen. Im Übrigen siehe Vorbemerkung und Drs. 21/2321.
 
@@ -61,7 +62,7 @@ Wurde bereits mit den Planungen für den Abschnitt Sunderweg bis Hohe Straße be
 
 Wie lange müssen Verkehrsteilnehmer und Anwohner noch mit Behinderungen rechnen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Ja. Die Planungen sollen im Sommer des Jahres 2017 an die Träger öffentlicher Belange zur Abstimmung versandt werden. Im Jahr 2018 sollen die Planungen abgeschlossen werden, die Umsetzung soll im Jahr 2020 erfolgen. Im Übrigen siehe Drs. 21/2321.
 

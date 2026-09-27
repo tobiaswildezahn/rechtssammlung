@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3674"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63910"
@@ -69,7 +70,7 @@ In wie vielen Fällen (bezogen auf Abgaben aus den Jahren 2015 und 2016, siehe D
 
 Mit welchem Ergebnis wurde das Adoptionsverfahren (bezogen auf Abgaben aus den Jahren 2015 und 2016, siehe Drs. 21/3674) abgeschlossen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 In allen drei Fällen ist die Mutter anonym geblieben und es wurde ein Adoptionsverfahren eingeleitet. Die Adoption der drei Kinder ist jeweils mit rechtswirksamen Adoptionsbeschluss abgeschlossen.
 
@@ -81,7 +82,7 @@ Wie viele vertrauliche Geburten haben in den Jahren 2017 und 2018 stattgefunden?
 
 Wie wurde mit den Kindern aus den vertraulichen Geburten verfahren?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Eine Geburt wird als vertraulich erfasst, wenn eine Mutter ohne Offenlegung ihrer Identität das Kind verlassen hat und das Verfahren zur vertraulichen Geburt mit dem Herkunftsnachweis beim Bundesamt für Familie und zivilgesellschaftliche Aufgaben abgeschlossen wurde. Im Jahr 2017 gab es vier und in 2018 eine vertrauliche Geburt. Drei Kinder aus dem Jahr 2017 wurden in Adoptionspflege vermittelt. Ein Kind konnte aus gesundheitlichen Gründen nicht vermittelt werden und wurde in einer geeigneten Einrichtung untergebracht. Das Kind aus 2018 wurde ebenfalls in Adoptionspflege vermittelt.
 
@@ -93,6 +94,6 @@ Wie viele anonyme Geburten haben in den Jahren 2017 und 2018 stattgefunden? (Bit
 
 Wie wurde mit den Kindern aus den anonymen Geburten verfahren?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Eine Geburt wird als anonym erfasst, wenn eine Mutter ohne Offenlegung ihrer Identität das Kind verlassen hat. Im Jahr 2017 gab es vier anonyme Geburten und in 2018 bisher keine anonyme Geburt. Drei Kinder wurden in Adoptionspflege vermittelt, ein Kind wird in einer Pflegestelle betreut.

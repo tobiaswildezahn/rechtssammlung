@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 19
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49876"
@@ -131,6 +132,6 @@ Zu welchem Kaufpreis, zu welchen Bedingungen und wann hat der Senat das Objekt e
 
 Wer ist Eigentümer der Fläche? a. Falls die Freie und Hansestadt Hamburg neben dem Gebäude auch die Fläche erworben hat, zu welchem Preis? b. Falls die Freie und Hansestadt Hamburg nicht Eigentümer des Geländes ist, über welchen Zeitraum wurde ein Miet- oder Pachtverhältnis abgeschlossen und zu welchen Konditionen?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die Freie und Hansestadt Hamburg hat das gesamte Grundstück einschließlich der darauf stehenden Gebäude erworben. Es wurde die sofortige Übergabe an die Käuferin vereinbart. Im Übrigen sieht der Senat zur Wahrung seiner Verhandlungsposition sowie der Betriebs- und Geschäftsgeheimnisse der Vertragspartner grundsätzlich davon ab, zu Kaufpreisen von Grundstücken beziehungsweise Einzelheiten von Grundstücksgeschäften Stellung zu beziehen.

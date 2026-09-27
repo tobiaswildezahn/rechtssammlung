@@ -14,6 +14,7 @@ fragen: 25
 einzelfragen: 38
 antwortbloecke: 24
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14617", "20/14530", "21/14"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48153"
@@ -754,17 +755,17 @@ Der Impfstatus wird im Rahmen der Gesundheitsuntersuchung nach § 62 Asylverfahr
 
 Folgende Impfungen werden angeboten und durchgeführt:
 
- Varizellen
+– Varizellen
 
- Tetanus
+– Tetanus
 
- Diphterie
+– Diphterie
 
- Keuchhusten
+– Keuchhusten
 
- Polio
+– Polio
 
- Masern, Mumps, Röteln
+– Masern, Mumps, Röteln
 
 Je nach Impfstatus werden auch Kombinationsimpfstoffe verwendet.
 
@@ -807,7 +808,7 @@ Wird bei Kindern, deren Asylantrag positiv beschieden wurde, vor dem Kita- oder 
 
 Werden Flüchtlingskinder, Kinder mit laufendem Asylantrag und geduldete Kinder in Hamburger Kitas betreut oder in Hamburger unterrichtet? Wenn ja, wird bei diesen Kindern vor dem Kita- oder Schuleintritt der Impfstatus geprüft und welche Maßnahmen werden bei einem nicht ausreichenden Impfschutz abgeleitet?
 
-#### Antwort zu Fragen 24 bis 25
+#### Antwort zu Fragen 24 und 25
 
 Für asylberechtigte und für Kinder mit laufendem Asylantrag gelten dieselben Regeln wie für alle anderen Kinder auch. Im Übrigen siehe Antworten zu 19. und zu 20.
 

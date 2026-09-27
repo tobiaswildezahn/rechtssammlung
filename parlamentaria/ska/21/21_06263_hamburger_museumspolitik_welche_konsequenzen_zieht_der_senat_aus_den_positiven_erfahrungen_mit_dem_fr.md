@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54774"
@@ -100,7 +101,7 @@ An welchen der unter 1. genannten Museen gab und gibt es Ermäßigungen für wel
 
 Wurden in den unter 1. genannten Museen Ermäßigungen für Sonderausstellungen für die unter 5. angeführten Personengruppen gewährt? Wenn ja, in welcher Höhe? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Anlage 2.
 

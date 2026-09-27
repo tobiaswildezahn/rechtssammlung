@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 21
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16583", "20/13460", "21/5039", "21/14037", "20/9849", "21/18643", "21/19404"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69516"
@@ -90,7 +91,7 @@ d) Erwachsene.
 
 Wie bewerten der Senat beziehungsweise die zuständigen Behörden die vorliegenden Angaben über die Altersgruppen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Anzahl der jeweiligen Tatverdächtigen ist seit 2015 deutlich gesunken, die Entwicklung für den Bezirk Harburg entspricht damit grundsätzlich der Entwicklung in Hamburg gesamt. Im Übrigen siehe Anlage.
 
@@ -139,7 +140,7 @@ An welchen Orten im Bezirk Harburg werden Maßnahmen der Videoüberwachung zur I
 
 Wie hat sich die Anzahl an Maßnahmen für mehr Videoüberwachung seit 2015 im Bezirk Harburg entwickelt? Bitte nach Jahr und für die jeweiligen Maßnahmen angeben.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Polizei Hamburg setzt im Bezirk Harburg keine Videoüberwachung im Sinne der Fragestellung ein. Für den Zuständigkeitsbereich der Bundespolizei teilt das BMI mit, dass die Bundespolizei ausschließlich der parlamentarischen Kontrolle und dem damit korrelierenden Fragerecht des Deutschen Bundestages unterliegt. Zu Angelegenheiten der Bundespolizei erfolgt im Rahmen einer Parlamentarischen Anfrage eines Landesparlaments daher grundsätzlich keine Stellungnahme.
 

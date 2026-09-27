@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12589"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61991"
@@ -41,7 +42,7 @@ Wie viele Vorschulklassen mit jeweils wie vielen Kindern werden an den einzelnen
 
 Wie viele Anmeldungen für die Vorschule konnten an den einzelnen Grundschulen jeweils nicht angenommen werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 An den Grundschulen der Planungsregionen 17 und 18 werden 33 Vorschulklassen für 732 Vorschulkinder für das Schuljahr 2018/2019 eingerichtet (Planungsdaten, Stand 23.03.2018).
 
@@ -83,7 +84,7 @@ Schulform
 geplante Aufnahmen  
 eingerichtete Klassen
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Carl-von-Ossietzky-Gymnasium  
 Gy  

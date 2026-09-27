@@ -14,6 +14,7 @@ fragen: 31
 einzelfragen: 38
 antwortbloecke: 26
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2239", "21/1981", "21/2474", "21/389", "21/2409"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50919"
@@ -77,7 +78,7 @@ Hat die Hamburg Port Authority (HPA) die Möglichkeit mit eigenen Bagger- bezieh
 
 Wenn nein, mit welchem zeitlichen Vorlauf kann entsprechende Technik gebunden werden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die HPA stellt ihre Handlungsfähigkeit durch die rechtzeitige Beauftragung von hochspezialisierten Fremdfirmen sicher. Im Übrigen siehe Drs. 21/2474.
 
@@ -137,7 +138,7 @@ Bestand die Problematik der Verschlickung schon über einen längeren Zeitraum (
 
 Ist in den letzten Jahren eine Zunahme der Schlickablagerung zu konstatieren?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Nein. Die Sedimentation unterliegt starken natürlichen Schwankungen. Im Übrigen siehe Antwort zu 20.
 

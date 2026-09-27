@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 17
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66065"
@@ -105,7 +106,7 @@ Gab es konkret zu der Klimaschutz-Demonstration am 1. März 2019, an der Greta T
 
 Wird die Nicht-Teilnahme am Unterricht aufgrund der Teilnahme an der „Friday for Future“ Demonstration am 1. März 2019, bei der Greta Thunberg teilnahm, einheitlich an allen Hamburger Schulen bewertet? Wenn ja, wie und mit welchen Konsequenzen? Wenn nein, warum wird das Schwänzen von Unterricht an Hamburger Schulen unterschiedlich bewertet und welche Unterschiede gibt es?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Richtlinie für den Umgang mit Schulpflichtverletzungen ist auf den Einzelfall bezogen angemessen und verhältnismäßig umzusetzen.
 

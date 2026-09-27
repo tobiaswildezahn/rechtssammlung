@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 17
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18714", "21/18417"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68622"
@@ -122,7 +123,7 @@ Sollten sich etwaige Zahlen im Vergleich zur zunächst durch den Senat gegebenen
 21.10.2019, Drs. 21/18714, geändert haben: Sind die Senatsantworten auf unsere Schriftliche Kleine Anfrage vom
 21.10.2019, Drs. 21/18714, die in dieser Schriftlichen Kleinen Anfrage bisher nicht überprüft wurden, auch tatsächlich korrekt und belastbar? Wenn (teilweise) nicht, jeweils welche, jeweils inwiefern und aus jeweils welchen konkreten Gründen hat der Senat beziehungsweise die zuständige Behörde im Einzelfall jeweils inkorrekt geantwortet? Bitte detailliert erläutern.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/18714.
 

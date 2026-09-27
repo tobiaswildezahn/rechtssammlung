@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 22
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4933"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54436"
@@ -71,7 +72,7 @@ Wie viele Unternehmen und Reedereien beteiligen derzeit sich an dem Projekt „v
 
 Wie viele Unternehmen haben sich bisher über das „virtuelle Depot“ informiert, wo welche Container frei sind?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Insgesamt beteiligen sich 29 Unternehmen und Reedereien an dem Projekt. Im Übrigen siehe Drs. 21/4933.
 
@@ -99,7 +100,7 @@ Warum haben BWVI beziehungsweise die HPA für die Beteiligung der Unternehmen an
 
 In welchem Zeitrahmen soll ein tragfähiges Geschäftsmodell mit den Marktteilnehmern und der HPA entwickelt werden? Wie sieht dieses genau aus?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die HPA moderiert und begleitet das Projekt bis zum Ende des Jahres 2016, einschließlich der derzeit laufenden Evaluierungsphase. Anschließend ist gemeinsam mit den beteiligten Unternehmen über eine Produktivphase (Dauerbetrieb) zu entscheiden. Diese Phase soll im Jahr 2017 beginnen. Bis dahin sollen die Marktteilnehmerinnen und Marktteilnehmer ein Geschäftsmodell entwickeln, in dessen Rahmen auch die erfragte Zielgröße zu definieren ist. Im Übrigen unterliegen die Überlegungen zu diesem Geschäftsmodell dem Betriebs- und Geschäftsgeheimnis der Projektteilnehmer.
 

@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 30
 antwortbloecke: 22
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9187", "21/11504", "21/7966", "21/13685", "21/13044", "21/11471", "21/9389", "21/12219", "21/13666"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63096"
@@ -266,7 +267,7 @@ In der Einrichtung Plaggenmoor wurde über eine Reihe von Erziehungspraktiken be
 
 In derselben Einrichtung soll es auch zu strafenden Erziehungspraktiken gekommen sein. Kinder sollen massiv angebrüllt worden sein, es soll auch vorgekommen sein, dass Kinder zur Strafe an der Wand oder in der Ecke stehen mussten oder auf einem „stillen Stuhl“ sitzen sollten. Unabhängig davon, ob diese Behauptungen zutreffen: Wie steht der Senat beziehungsweise die Fachbehörde zu solchen Erziehungspraktiken? Wie will der Senat beziehungsweise die Fachbehörde in Zukunft solche Erziehungspraktiken unterbinden?
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Der Senat lehnt jegliche Form von Diskriminierungen und diskriminierende Erziehungspraktiken ab. Entsprechende Erziehungspraktiken sind nicht vereinbar mit den „Hamburger Bildungsempfehlungen für die Bildung und Erziehung von Kindern in Tageseinrichtungen“, welche den verbindlichen Orientierungsrahmen für die pädagogische Arbeit aller Hamburger Kindertageseinrichtungen bilden. Die Bildungsempfehlungen beziehen sich auf die verfassungsmäßigen Grundwerte, die auch im SGB VIII und im Hamburger Kinderbetreuungsgesetz verankert sind. Sie weisen ausdrücklich auf den Schutz und die Rechte von Kindern hin.
 
@@ -394,13 +395,16 @@ Kita Gleisdreieck
 
 1. Teamfortbildung
 
- Einführung in die in-
+– Einführung in die in-
 
-terkulturelle Perspektive  Familienkulturen und
+terkulturelle Perspektive
+– Familienkulturen und
 
-Erziehungsziele  Kulturelle Einflüsse
+Erziehungsziele
+– Kulturelle Einflüsse
 
-auf Werteorientierungen  Fallarbeit
+auf Werteorientierungen
+– Fallarbeit
 
 3,5
 
@@ -410,16 +414,18 @@ Kita Gleisdreieck
 
 2. Teamfortbildung
 
- Wahrnehmung,
+– Wahrnehmung,
 
-Kommunikation und Kultur  Der Zusammenhang
+Kommunikation und Kultur
+– Der Zusammenhang
 
 von Wahrnehmung,  
 Interpretation und  
 Bewertung  
- Die Bedeutung von
+– Die Bedeutung von
 
-Kommunikationsstilen  Fallarbeit
+Kommunikationsstilen
+– Fallarbeit
 
 3,5
 
@@ -429,11 +435,14 @@ Kita Gleisdreieck
 
 3. Teamfortbildung
 
- Der Umgang mit
+– Der Umgang mit
 
-Macht und Hierarchie  Grundzüge des Islam  Können / sollen (an-
+Macht und Hierarchie
+– Grundzüge des Islam
+– Können / sollen (an-
 
-dere /religiöse) Lebenswelten Berücksichtigung finden?  Fallarbeit
+dere /religiöse) Lebenswelten Berücksichtigung finden?
+– Fallarbeit
 
 3,5
 
@@ -441,15 +450,20 @@ Pestalozzi- Stiftung Hamburg
 
 Kita Kinderburg
 
-Teamfortbildung  Einführung in die in-
+Teamfortbildung
+– Einführung in die in-
 
-terkulturelle Perspektive  Familienkulturen und
+terkulturelle Perspektive
+– Familienkulturen und
 
-Erziehungsziele  Kulturelle Einflüsse
+Erziehungsziele
+– Kulturelle Einflüsse
 
-auf Werteorientierungen  Unterschiedliche Vor-
+auf Werteorientierungen
+– Unterschiedliche Vor-
 
-stellungen von Geschlechterrollen  Fallarbeit
+stellungen von Geschlechterrollen
+– Fallarbeit
 
 ### Frage 23
 

@@ -14,6 +14,7 @@ fragen: 27
 einzelfragen: 39
 antwortbloecke: 23
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11504", "21/2108", "21/12038", "21/3692"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61907"
@@ -198,7 +199,7 @@ Welche Angebote werden den Flüchtlingen zu jeweils welchen Zeiten in welchen R�
 
 Wie viele Ehrenamtliche sind eingesetzt und wie helfen sie?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Siehe Vorbemerkung. Eine Erfassung der Anzahl der Ehrenamtlichen erfolgte bisher nicht.
 
@@ -281,11 +282,11 @@ Welche Maßnahmen zur Stärkung der örtlichen Sportvereine sind bereits ergriff
 
 Im Umfeld des Standortes Suurheid in Rissen/Sülldorf befinden sich die folgenden Schulen, an denen Zubauten von Sporthallen kürzlich fertiggestellt wurden oder noch im Bau befindlich sind:
 
-• Schule Lehmkuhlenweg – Baubeginn 2016/Baufertigstellung erfolgt 2018,
+– Schule Lehmkuhlenweg – Baubeginn 2016/Baufertigstellung erfolgt 2018,
 
-• Schule Iserbarg – Zubau einer Sporthalle ist fertig gestellt,
+– Schule Iserbarg – Zubau einer Sporthalle ist fertig gestellt,
 
-• Schule Marschweg – Baubeginn 2018/Baufertigstellung 2020.
+– Schule Marschweg – Baubeginn 2018/Baufertigstellung 2020.
 
 Die Bestandshallen an den genannten Schulstandorten sind vollumfänglich nutzbar und bedürfen hinsichtlich des baulichen Zustands keiner Sanierung gemäß Rahmenplan Schulbau.
 

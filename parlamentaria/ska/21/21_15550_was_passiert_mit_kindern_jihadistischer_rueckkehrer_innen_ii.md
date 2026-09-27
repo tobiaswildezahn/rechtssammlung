@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 37
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12086", "21/14037", "21/5039"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65030"
@@ -61,7 +62,7 @@ Wie viele ausgereiste Frauen welchen Alters und Geschlechts aus Hamburg befinden
 
 Mit wie vielen Kindern und Jugendlichen von Jihadisten/-innen, die aus den islamistischen Gebieten nach Hamburg zurückkehren, rechnen der Senat beziehungsweise die zuständigen Fachbehörden bis 2020 gegenwärtig?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Aufgrund der unübersichtlichen Lage vor Ort und der fehlenden Einblickstiefe liegen den Sicherheitsbehörden keine belastbaren Zahlen im Sinne der Fragestellung vor. Im Übrigen siehe Antwort zu 1. a. und 1. b.
 

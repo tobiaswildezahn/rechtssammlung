@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 18
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11997", "20/11995"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48198"
@@ -114,7 +115,7 @@ Welche einzelnen Verträge wurden mit jeweils welchem Inhalt zwischen welchen Pa
 
 Zu welchen Zinskonditionen wurden die Refinanzierung sowie die Zwischenfinanzierung des in Drs. 20/11995 dargestellten Bauprojektes abgeschlossen? Welche Auswirkungen hat dies auf den Angebotspreis und die Miethöhe?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Sprinkenhof GmbH hat aufgrund des geringeren Finanzierungsvolumens – unabhängig vom Baufortschritt – aktuell noch keine Finanzierung und die hierzu notwendigen Verträge abgeschlossen.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3773"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52396"
@@ -82,6 +83,6 @@ Planen, prüfen oder erwägen der Senat oder die zuständige Fachbehörde eine S
 
 Planen, prüfen oder erwägen der Senat oder die zuständige Fachbehörde Veränderungen des Zielbildes für die HGV? Wenn ja, in welchen Punkten?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Planungen und Überlegungen hierzu sind noch nicht abgeschlossen. Im Übrigen siehe Drs. 21/3773.

@@ -11,9 +11,10 @@ fraktionen: ["FDP"]
 vorgang: 44736
 seiten: 3
 fragen: 2
-einzelfragen: 9
-antwortbloecke: 2
+einzelfragen: 15
+antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48855"
@@ -42,12 +43,24 @@ Der Senat beantwortet die Fragen – teilweise auf der Grundlage von Auskünften
 ### Frage 1
 
 Bestand
-1.1. Welche Bauvorhaben werden derzeit von der SAGA Siedlungs- Aktiengesellschaft Hamburg und der GWG Gesellschaft für Wohnen und Bauen mbH (im folgenden SAGA GWG genannt) realisiert und befinden sich noch im Bau (Bezeichnung nach Straße und Hausnummer)?
-1.2. Von welchen Baukosten geht die SAGA GWG jeweils aus (Kostengruppen 300 bis 600 nach DIN 276)?
-1.3. Wie viele Wohneinheiten entstehen bei den jeweiligen Bauvorhaben?
-1.4. In welchem Umfang wird jeweils geförderter Wohnraum geschaffen?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Welche Bauvorhaben werden derzeit von der SAGA Siedlungs- Aktiengesellschaft Hamburg und der GWG Gesellschaft für Wohnen und Bauen mbH (im folgenden SAGA GWG genannt) realisiert und befinden sich noch im Bau (Bezeichnung nach Straße und Hausnummer)?
+
+### Frage 1.2
+
+Von welchen Baukosten geht die SAGA GWG jeweils aus (Kostengruppen 300 bis 600 nach DIN 276)?
+
+### Frage 1.3
+
+Wie viele Wohneinheiten entstehen bei den jeweiligen Bauvorhaben?
+
+### Frage 1.4
+
+In welchem Umfang wird jeweils geförderter Wohnraum geschaffen?
+
+#### Antwort zu Fragen 1, 1.1, 1.2, 1.3 und 1.4
 
 Belegenheit Auftragsvergabe
 
@@ -196,28 +209,55 @@ Den Belegenheiten in der obigen Tabelle, die ohne Hausnummern aufgeführt sind, 
 
 Bei den Baukosten handelt es sich um unternehmensinterne Daten, deren Veröffentlichung für SAGA GWG mit Wettbewerbsnachteilen verbunden wäre. Insoweit gibt der Senat zur Wahrung der Betriebs- und Geschäftsgeheimnisse keine Auskunft.
 
-1.5. Erfolgen jeweils Gesamt- oder Teillosvergaben?
+### Frage 1.5
+
+Erfolgen jeweils Gesamt- oder Teillosvergaben?
+
+#### Antwort zu Frage 1.5
 
 Für die genannten Bauvorhaben erfolgen Gesamtvergaben.
 
-1.6. Welche Bauaufträge für die jeweiligen Bauvorhaben sind bereits vergeben?
+### Frage 1.6
+
+Welche Bauaufträge für die jeweiligen Bauvorhaben sind bereits vergeben?
+
+#### Antwort zu Frage 1.6
 
 Siehe Antwort zu 1.1. bis 1.4.
 
-1.7. Welche Vergabeverfahren wurden jeweils angewendet?
+### Frage 1.7
+
+Welche Vergabeverfahren wurden jeweils angewendet?
+
+#### Antwort zu Frage 1.7
 
 Beschränkte Ausschreibungsverfahren sowie Verhandlungsverfahren mit vorgeschaltetem, beschränkten Teilnahmewettbewerb.
 
 ### Frage 2
 
 Planung
-2.1. Welche weiteren Bauvorhaben der SAGA GWG sind bis zum Ende des Jahres 2017 in Planung (Bezeichnung nach Straße und Hausnummer)?
-2.2. Wie ist jeweils der Planungsstand?
-2.3. Falls bereits Kostenschätzungen vorliegen: Von welchen Baukosten geht die SAGA GWG jeweils aus (Kostengruppen 300 bis 600 nach DIN 276)?
-2.4. Wie viele Wohneinheiten sollen jeweils geschaffen werden?
-2.5. In welchem Umfang soll jeweils geförderter Wohnraum geschaffen werden?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Welche weiteren Bauvorhaben der SAGA GWG sind bis zum Ende des Jahres 2017 in Planung (Bezeichnung nach Straße und Hausnummer)?
+
+### Frage 2.2
+
+Wie ist jeweils der Planungsstand?
+
+### Frage 2.3
+
+Falls bereits Kostenschätzungen vorliegen: Von welchen Baukosten geht die SAGA GWG jeweils aus (Kostengruppen 300 bis 600 nach DIN 276)?
+
+### Frage 2.4
+
+Wie viele Wohneinheiten sollen jeweils geschaffen werden?
+
+### Frage 2.5
+
+In welchem Umfang soll jeweils geförderter Wohnraum geschaffen werden?
+
+#### Antwort zu Fragen 2, 2.1, 2.2, 2.3, 2.4 und 2.5
 
 Belegenheit Planungsstand Anzahl
 
@@ -265,10 +305,18 @@ Den Belegenheiten in der obigen Tabelle die ohne Hausnummern aufgeführt sind, w
 
 Im Übrigen siehe Antwort zu 1.1. bis 1.4.
 
-2.6. Sollen jeweils Gesamt- oder Teillosvergaben erfolgen?
+### Frage 2.6
 
-2.7. Wann sollen die jeweiligen Bauaufträge ausgeschrieben beziehungsweise vergeben werden?
+Sollen jeweils Gesamt- oder Teillosvergaben erfolgen?
 
-2.8. Welche Vergabeverfahren wurden jeweils angewendet?
+### Frage 2.7
+
+Wann sollen die jeweiligen Bauaufträge ausgeschrieben beziehungsweise vergeben werden?
+
+### Frage 2.8
+
+Welche Vergabeverfahren wurden jeweils angewendet?
+
+#### Antwort zu Fragen 2.6, 2.7 und 2.8
 
 Ausschreibung und Vergabe hängen vom Ergebnis der Projektierungsphase ab, weshalb derzeit noch keine Aussagen dazu möglich sind.

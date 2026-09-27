@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13232"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67584"
@@ -85,7 +86,7 @@ Ist es zutreffend, dass mit Stand 14. Juni 2019 11,29 Millionen Euro bewilligt w
 
 Ist es zutreffend, dass mit Stand 14. Juni 2019 erst 6,57 Millionen Euro abgerufen wurden? Falls nicht zutreffend, in welcher Höhe wurden Mittel abgerufen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Angaben sind zutreffend. Zu berücksichtigen ist, dass die Übersicht des Bundesministeriums für Familien, Senioren, Frauen und Jugend (BMFSFJ) vom 14.06.2019 nur den auf den Bund entfallenden Anteil bei den erteilten Bewilligungen in Höhe von 90 Prozent enthält.
 

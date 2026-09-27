@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12767"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62328"
@@ -66,7 +67,7 @@ Was ist mit der indifferenten Formulierung „Zielen und programmatischen Leits�
 
 Die AfD ist eine demokratisch legitimierte Partei, die in der Hamburgischen Bürgerschaft in Fraktionsstärke vertreten ist. Wie passt oben stehende Aussage dazu?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Das Lichtwark-Forum möchte im Rahmen der Beantwortung der Parlamentarischen Anfrage keine Kommentierung vornehmen. Im Übrigen siehe Drs. 21/12767.
 

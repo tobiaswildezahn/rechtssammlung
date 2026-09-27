@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4758"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54192"
@@ -55,7 +56,7 @@ Aus welchem Diskriminierungsgrund wandten sich Personen in Hamburg an die Diskri
 
 In wie vielen Fällen konnte durch die ADS für Fälle in Hamburg Abhilfe geleistet werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Beratung der ADS erfolgt im Rahmen einer rechtlichen Erstberatung. Die ADS übernimmt keine individuelle Fall- beziehungsweise Klagebetreuung. Im Übrigen siehe Antwort zu 1.
 
@@ -67,7 +68,7 @@ In wie vielen Fällen zogen in Hamburg Personen, die sich zuvor an die ADS gewan
 
 Wie viele Urteile mit Bezug zum AGG gab es in dem Zeitraum in Hamburg und von welchem Gerichtszweig stammen diese? Bitte separat für jedes Jahr auflisten.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Eine statistische Erhebung von Verfahren, die mit einem Verstoß gegen das AGG ganz oder teilweise begründet sind, wird in keiner der theoretisch betroffenen Gerichtsbarkeiten geführt. Eine händische Auswertung der insgesamt mehr als 800.000 Akten, in denen ein Bezug zum AGG theoretisch denkbar ist, ist in der für die Beantwortung Parlamentarischer Anfragen zur Verfügung stehenden Zeit nicht möglich.
 

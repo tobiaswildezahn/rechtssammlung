@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 17
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/592"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51244"
@@ -99,6 +100,6 @@ Plant der Senat Ausgaben oder Einnahmen durch die Fanfeste anlässlich der Fußb
 
 Plant der Senat einen Gebührenverzicht und/oder die kostenfreie Bereitstellung städtischer Parkflächen, wie für die Fanfeste 2012 und 2014 teilweise geschehen, für die diesjährigen Fanfeste anlässlich der Fußball-Europameisterschaft?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Bei der Nutzung öffentlicher Wegeflächen können gegebenenfalls entsprechende Gebühren erhoben werden. Im Übrigen sind die Planungen noch nicht abgeschlossen.

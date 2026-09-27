@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5143"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66888"
@@ -140,7 +141,7 @@ Inwiefern ist die zuständige Behörde der Auffassung, dass die Versorgung der �
 
 Gibt es bereits konkrete Pläne der zuständigen Behörde, den öffentlichen Erholungsraum mit Toilettenhäusern nachzurüsten? Wenn ja, welche? Wenn nein, weshalb nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im Rahmen der Standortoptimierung wird es auch zukünftig erforderlich sein, Entscheidungen für neue, zu verlagernde oder zu schließende Standorte zu treffen, siehe dazu auch Drs. 21/5143. In diesem Zusammenhang prüft die zuständige Behörde jeweils auch die Bedarfe in den Grün- und Erholungsanlagen.
 

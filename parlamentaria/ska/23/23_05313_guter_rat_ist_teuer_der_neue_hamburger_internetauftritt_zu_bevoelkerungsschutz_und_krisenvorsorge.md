@@ -8,12 +8,13 @@ datum_anfrage: "2026-09-10"
 datum_drucksache: "2026-09-18"
 urheber: ["Martin Wolter"]
 fraktionen: ["Die Linke"]
-vorgang: null
+vorgang: 89171
 seiten: 6
 fragen: 17
 einzelfragen: 20
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["22/13776", "22/14012", "23/508"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105224"

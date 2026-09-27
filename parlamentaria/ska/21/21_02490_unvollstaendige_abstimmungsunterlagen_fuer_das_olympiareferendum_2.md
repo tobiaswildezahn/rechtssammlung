@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2264"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50790"
@@ -43,6 +44,6 @@ Wie hoch waren die Kosten für den zusätzlichen Versand?
 
 Wer trägt diese Kosten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Nachsenden jeweils eines roten Abstimmungsbriefumschlags an 1.500 Abstimmungsberechtigte im Bezirk Eimsbüttel und 500 Abstimmungsberechtigte im Bezirk Hamburg-Nord stellt eine Nachlieferung im Wege der Mängelbeseitigung dar. Der Dienstleister hat die ihm hierdurch entstandenen und von ihm getragenen Aufwendungen und Kosten nicht beziffert.

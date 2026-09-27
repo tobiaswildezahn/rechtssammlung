@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8308"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66770"
@@ -104,6 +105,6 @@ Welche Aufgaben erledigen die in den Bezirken tätigen Wegewarte im Einzelnen? B
 
 Für welche zu betreuende Wegstreckenlänge sind die Wegewarte in den einzelnen Bezirken zuständig? Bitte nach Bezirken aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/8308.

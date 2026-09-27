@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 17
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53324"
@@ -59,7 +60,7 @@ Ist es zutreffend, dass im Rahmen der Planung für die U4 für den Streckenabsch
 
 Wie wurden die prognostizierten Fahrgastzahlen im Einzelnen ermittelt? Bitte angeben, welche Zahl an Einwohnern beziehungsweise Arbeitsplätzen in welchen Abständen zu den Stationen zugrunde gelegt wurden.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Ergebnis der Modellrechnung der Firma Intraplan, die im Rahmen der Standardisierten Bewertung des ersten Bauabschnittes bis zum Überseequartier im Jahr 2007 durchgeführt wurde, ist ein tägliches Aufkommen von 33.500 Fahrgästen zwischen den Haltestellen Jungfernstieg und Überseequartier ermittelt worden (Summe aus beiden Richtungen, ohne Berücksichtigung der neuen Endhaltestelle Elbbrücken). Dies bezieht sich auf den damaligen Endzustand der Strukturentwicklung in der HafenCity. Im Übrigen siehe Vorbemerkung.
 
@@ -140,11 +141,11 @@ Können die im Zuge der Planung der U4 getroffenen Annahmen zur Frequentierung, 
 
 Für die Planungen zur Verlängerung der U4 bis zu den Elbbrücken wurde eine eigenständige Standardisierte Bewertung durchgeführt (siehe Vorbemerkung). Die dafür erforderliche Berechnung erfolgte mit Berücksichtigung der S-Bahn-Haltestelle Elbbrücken. Hierbei wurden folgende Fahrgastzahlen für die U4 ermittelt (werktäglich, Summe aus beiden Richtungen):
 
- Jungfernstieg – Überseequartier: 46.700
+– Jungfernstieg – Überseequartier: 46.700
 
- Überseequartier – HafenCity Universität: 28.800
+– Überseequartier – HafenCity Universität: 28.800
 
- HafenCity Universität – Elbbrücken: 17.500
+– HafenCity Universität – Elbbrücken: 17.500
 
 Erfahrungen mit den Modellrechnungen zeigen, dass darin die tatsächlich eintretenden Fahrgastzahlen stimmig abgebildet werden. Im Rahmen der Planungen zur S-Bahn-Station Elbbrücken und dem Verbindungsbauwerk zwischen S- und U-Bahn- Station hat sich gezeigt, dass die Errichtung einer gemeinsamen Umstiegshaltestelle die Gesamtwirtschaftlichkeit der U4 steigert. Dies gelingt beispielsweise dadurch, dass die aus Süden kommenden Fahrgäste mit Richtung HafenCity nicht mehr umwegig „im Bogen“ über Jungfernstieg anreisen werden, sondern an der S-Bahn- Station Elbbrücken aus- oder in die U4 mit Ziel HafenCity umsteigen werden. Insgesamt verteilen sich die Verkehrsströme im Bereich Elbbrücken/HafenCity/Innenstadt dann gleichmäßiger.
 

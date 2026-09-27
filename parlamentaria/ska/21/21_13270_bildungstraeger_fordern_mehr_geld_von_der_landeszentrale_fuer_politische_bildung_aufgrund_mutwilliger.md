@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12809"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62612"
@@ -55,7 +56,7 @@ Teilt die Landeszentrale (nicht die Bundeszentrale) die Einschätzung der von ih
 
 Inwieweit kann man nach Auffassung der Landeszentrale (nicht der Bundeszentrale) bei Politikern und Parteien von „demokratischen“ oder „populistischen“ Parteien beziehungsweise von „Demokraten“ und „Populisten“ sprechen, so wie es die von der Landeszentrale geförderten Träger in ihrem Brief in Form des „Gut-Böse-Schemas“ postulieren?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Zu Meinungsäußerungen von Dritten äußert sich der Senat nicht.
 
@@ -92,7 +93,7 @@ o) Boris Palmer
 p) Sara Wagenknecht  
 q) Oskar Lafontaine
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der Senat beteiligt sich nicht an öffentlich geführten Diskursen über Ziele und Positionen von Politikern und Parteien.
 

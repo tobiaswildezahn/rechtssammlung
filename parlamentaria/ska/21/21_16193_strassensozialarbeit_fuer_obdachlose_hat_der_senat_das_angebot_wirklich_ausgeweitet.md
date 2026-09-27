@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 24
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15130", "21/5292"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65733"
@@ -107,7 +108,7 @@ Um wie viele Mitarbeiter/VZÄ ab wandelt handelt es sich?
 
 Über welche Qualifikationen verfügen die Mitarbeiter?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die EHAP-Förderung umfasst insgesamt vier Stellen (Vollzeitäquivalente (VZÄ)) Sozialarbeiterinnen und Sozialarbeiter sowie 0,5 VZÄ Verwaltungskraft, jeweils beschäftigt f & w bei fördern und wohnen AöR. Für das Projekt ist die Wahrnehmung von Projektkoordinationsaufgaben in der zuständigen Behörde außerhalb der EHAP-Förderung im Umfang von 0,5 VZÄ vorgesehen.
 
@@ -186,7 +187,7 @@ Welche weiteren Maßnahmen plant der Senat jeweils wann infolge der Erkenntnisse
 
 In der Obdachlosenbefragung heißt es, dass der Senat und „die Vertreter der Freien Wohlfahrtspflege kein Konsens über ein gemeinsames fachlich angemessenes Fazit einschließlich Handlungsempfehlungen zu dieser Untersuchung gefunden“ haben. Gab es inzwischen weitere Treffen? Wenn ja, wann mit welchem Ergebnis? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Eine differenzierte Bewertung der vorliegenden Befragungsergebnisse hat nun begonnen und wird auf einer für die erste Jahreshälfte 2019 geplanten Fachtagung der zuständigen Behörde gemeinsam mit den Akteuren des Hilfesystems für Obdachund Wohnungslose fortgeführt.
 

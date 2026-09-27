@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 22
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55797"
@@ -96,7 +97,7 @@ Wie viele Mitarbeiter/-innen bei Jobcenter t.a.h. nutzten seit August 2016 den D
 
 Wie hoch belaufen sich die Kosten des Dolmetscherservice seit Beginn? Bitte jeweils nach Standorten Jobcenter t.a.h. und monatlich auflisten.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Im August 2016 wurden 75, im September 137 und im Oktober 146 Gespräche unter Inanspruchnahme des Dolmetscherdienstes geführt.
 
@@ -120,7 +121,7 @@ Nach den Handlungsempfehlungen/Geschäftsanweisungen (HEGA 05/11-08/10/2008 – 
 
 Wer entscheidet über den „erforderlichen Umfang“ bei Jobcenter t.a.h. und der Arbeitsagentur Hamburg jeweils? Bitte ausführlich begründen.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die für den Rechtskreis SGB III geltende Weisung der Bundesagentur für Arbeit HEGA 10/2008 – 14 „Inanspruchnahme von Dolmetscher- und Übersetzungsdiensten“ ist mit der HEGA 05/2011-08 aufgehoben. Ebenfalls ist die für den Rechtskreis SGB III geltende Weisung der Bundesagentur für Arbeit HEGA 05/11-08 mit für den Rechtskreis SGB III geltenden Weisung 201611028 vom 21.11.2016 – Inanspruchnahme von Dolmetscher- und Übersetzungsdiensten aufgehoben. Zur Umsetzung bei Jobcenter wird auf die Handlungsanweisung 01/2014 „Beauftragung von Dolmetscherinnen und Dolmetschern“ verwiesen.
 

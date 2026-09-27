@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19480", "21/19118", "21/10990", "21/19315", "21/17388", "21/18872"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69766"
@@ -59,7 +60,7 @@ An welchen staatlichen Einrichtungen ist eine Weiterbildung zur Sozialpädagogis
 
 Wie hat sich die Zahl der Weiterbildenden seit Februar 2015 entwickelt? (Bitte für jeden Standort pro Halbjahr gesondert ausweisen und jeweils im Jahr und im Standort gesamt in einer Excel-Tabelle angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Schuljahr 2015/2016 wurden an allen Standorten insgesamt 3 413 Teilnehmerinnen und Teilnehmer in der Weiterbildung zu sozialpädagogischen Fachberufen, das heißt Erzieherinnen beziehungsweise Erzieher und Heilerziehungspflege, unterrichtet, im Schuljahr 2016/2017 waren dies 3 361 Teilnehmerinnen und Teilnehmer, im Schuljahr 2017/2018 3 524 Teilnehmerinnen und Teilnehmer und im Schuljahr 2018/2019 waren dies 3 555 Teilnehmerinnen und Teilnehmer.
 
@@ -110,87 +111,87 @@ In welchen Formaten wird an den vier staatlichen Schulen, die sozialpädagogisch
 
 An der Beruflichen Schule Hamburg-Harburg (BS 18) werden folgende Bildungsgänge angeboten:
 
- Berufsfachschule Sozialpädagogische Assistenz (SPA): Abschluss staatlich aner-
+– Berufsfachschule Sozialpädagogische Assistenz (SPA): Abschluss staatlich aner-
 
 kannte sozialpädagogische Assistentin beziehungsweise anerkannter sozialpädagogischer Assistent für Absolventinnen beziehungsweise Absolventen mit erweitertem ersten Schulabschluss (eESA) oder mit mittlerem Schulabschluss (MSA),
 
- Fachschule für Sozialpädagogik: Weiterbildung zur staatlich anerkannten Erziehe-
+– Fachschule für Sozialpädagogik: Weiterbildung zur staatlich anerkannten Erziehe-
 
 rin beziehungsweise zum staatlich anerkannten Erzieher,
 
- Umschulung zur Erzieherin beziehungsweise zum Erzieher und
+– Umschulung zur Erzieherin beziehungsweise zum Erzieher und
 
- Externenprüfung zur Sozialpädagogischen Assistenz (im fünfjährigen Wechsel mit
+– Externenprüfung zur Sozialpädagogischen Assistenz (im fünfjährigen Wechsel mit
 
 der BS 23).
 
 An der Staatlichen Fachschule für Sozialpädagogik Altona (BS 21) werden folgende Bildungsgänge angeboten:
 
- Berufsfachschule SPA: Abschluss staatlich anerkannte sozialpädagogische Assis-
+– Berufsfachschule SPA: Abschluss staatlich anerkannte sozialpädagogische Assis-
 
 tentin beziehungsweise staatlich anerkannter sozialpädagogischer Assistent für eESA und MSA,
 
- Fachschule für Sozialpädagogik: Weiterbildung zur staatlich anerkannten Erziehe-
+– Fachschule für Sozialpädagogik: Weiterbildung zur staatlich anerkannten Erziehe-
 
 rin beziehungsweise zum staatlich anerkannten Erzieher,
 
- Fachschule für Sozialpädagogik: berufsbegleitende Weiterbildung zur staatlich
+– Fachschule für Sozialpädagogik: berufsbegleitende Weiterbildung zur staatlich
 
 anerkannten Erzieherin beziehungsweise zum staatlich anerkannten Erzieher,
 
- Umschulung Sozialpädagogische Assistenz für Migranten,
+– Umschulung Sozialpädagogische Assistenz für Migranten,
 
- Erzieherweiterbildung für Einwanderer (EFE), Sonderformat für Migranten,
+– Erzieherweiterbildung für Einwanderer (EFE), Sonderformat für Migranten,
 
- Anpassungsqualifizierungskurse für Erzieherinnen beziehungsweise Erzieher nach
+– Anpassungsqualifizierungskurse für Erzieherinnen beziehungsweise Erzieher nach
 
 dem Berufsanerkennungsgesetz (AQUA),
 
- Anpassungsqualifizierungskurse für SPA nach dem Berufsanerkennungsgesetz
+– Anpassungsqualifizierungskurse für SPA nach dem Berufsanerkennungsgesetz
 
 (AQUA),
 
- Anerkennungsprüfungen, ohne vorherige Kursteilnahme als Alternative zum Lehr-
+– Anerkennungsprüfungen, ohne vorherige Kursteilnahme als Alternative zum Lehr-
 
 gang, nach dem Berufsanerkennungsgesetz (AQUA),
 
- Qualifizierung „Kitahelfer“: „Helferin beziehungsweise Helfer in der Kita“ und
+– Qualifizierung „Kitahelfer“: „Helferin beziehungsweise Helfer in der Kita“ und
 
- Anleiterfortbildung: Qualifizierung von Anleiterinnen beziehungsweise Anleitern.
+– Anleiterfortbildung: Qualifizierung von Anleiterinnen beziehungsweise Anleitern.
 
 An der Beruflichen Schule für Sozialpädagogik – Anna-Warburg-Schule (BS 23) werden folgende Bildungsgänge angeboten:
 
- Berufsfachschule SPA: Abschluss staatlich anerkannte sozialpädagogische Assis-
+– Berufsfachschule SPA: Abschluss staatlich anerkannte sozialpädagogische Assis-
 
 tentin beziehungsweise staatlich anerkannter sozialpädagogischer Assistent für eESA und MSA und
 
- Fachschule für Sozialpädagogik: Weiterbildung zur staatlich anerkannten Erziehe-
+– Fachschule für Sozialpädagogik: Weiterbildung zur staatlich anerkannten Erziehe-
 
 rin beziehungsweise zum staatlich anerkannten Erzieher.
 
 An der Staatlichen Fachschule für Sozialpädagogik – Fröbelseminar (BS 30) werden folgenden Bildungsgänge angeboten:
 
- Berufsfachschule SPA: Abschluss staatlich anerkannte sozialpädagogische Assis-
+– Berufsfachschule SPA: Abschluss staatlich anerkannte sozialpädagogische Assis-
 
 tentin beziehungsweise anerkannter sozialpädagogischer Assistent für eESA und MSA,
 
- Berufsbegleitende Berufsfachschule SPA: Abschluss staatlich anerkannte sozial-
+– Berufsbegleitende Berufsfachschule SPA: Abschluss staatlich anerkannte sozial-
 
 pädagogische Assistentin beziehungsweise staatlich anerkannter sozialpädagogischer Assistent für MSA,
 
- Fachschule für Sozialpädagogik: Weiterbildung zur staatlich anerkannten Erziehe-
+– Fachschule für Sozialpädagogik: Weiterbildung zur staatlich anerkannten Erziehe-
 
 rin beziehungsweise zum staatlich anerkannten Erzieher,
 
- Fachschule für Heilerziehungspflege (HEP) – berufsbegleitend und Vollzeit,
+– Fachschule für Heilerziehungspflege (HEP) – berufsbegleitend und Vollzeit,
 
- Heilpädagogische Zusatzqualifikation für Erzieherinnen und Erzieher,
+– Heilpädagogische Zusatzqualifikation für Erzieherinnen und Erzieher,
 
- Heilpädagogische Nachqualifizierung,
+– Heilpädagogische Nachqualifizierung,
 
- Externenprüfung Erzieher (im fünfjährigen Wechsel mit der BS 21) und
+– Externenprüfung Erzieher (im fünfjährigen Wechsel mit der BS 21) und
 
- Anleiterfortbildung: Qualifizierung von Anleiterinnen beziehungsweise Anleitern.
+– Anleiterfortbildung: Qualifizierung von Anleiterinnen beziehungsweise Anleitern.
 
 ### Frage 5
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/11084", "19/11085", "19/11086", "21/17182"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67693"
@@ -43,7 +44,7 @@ Welche Beispielrechnungen mit welchen Ergebnissen im Einzelnen hat der Senat bez
 
 Wie bewertet der Senat beziehungsweise die zuständige Finanzbehörde den im Juni vorgelegten Referentenentwurf zur Grundsteuerreform?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat begrüßt, dass nunmehr von der Bundesregierung Gesetzentwürfe beschlossenen worden und diese von den die Bundesregierung tragendenden Bundestagsfraktionen eingebracht worden sind (BT.-Drs. 19/11084, 19/11085 und 19/11086), weil damit gemäß den zeitlichen Vorgaben des Bundesverfassungsgerichts eine Neuregelung der für die Kommunen unverzichtbaren Grundsteuer noch zeitgerecht gelingen kann. Der Senat hat verschiedentlich darauf hingewiesen, dass relevante Teile der Gesetzentwürfe für die spezifische Metropolensituation in Hamburg problematische Auswirkungen haben können, was gegenwärtig Gegenstand von vertieften Prüfungen der zuständigen Behörde ist.
 
@@ -52,27 +53,57 @@ Die Gesetzentwürfe sind augenblicklich Gegenstand von Beratungen im Gesetzgebun
 ### Frage 3
 
 Wie hoch würde nach dem vorliegenden Gesetzentwurf zur Grundsteuerreform bei gleichbleibendem Hebesatz die jährlich zu zahlende Grundsteuer in folgenden Fällen, die bislang bereits als Beispiele der Finanzbehörde aufgeführt wurden, sein:
-3.1. Meiendorf, MFH, Baujahr 1973, circa 273 qm Wohnfläche,
-3.2. Klein Flottbek, MFH, Baujahr 1905, circa 401 qm Wohnfläche,
-3.3. Alsterdorf, MFH, Baujahr 1958, circa 579 qm Wohnfläche,
-3.4. Fischbek, MFH, Baujahr 1954, circa 165 qm Wohnfläche,
-3.5. Rotherbaum, MFH, Baujahr 1950, circa 421 qm Wohnfläche,
-3.6. Duvenstedt, MFH, Baujahr 1929, circa 220 qm Wohnfläche,
-3.7. Curslack, EFH, Baujahr 1932, circa 175 qm Wohnfläche?
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+Meiendorf, MFH, Baujahr 1973, circa 273 qm Wohnfläche,
+
+### Frage 3.2
+
+Klein Flottbek, MFH, Baujahr 1905, circa 401 qm Wohnfläche,
+
+### Frage 3.3
+
+Alsterdorf, MFH, Baujahr 1958, circa 579 qm Wohnfläche,
+
+### Frage 3.4
+
+Fischbek, MFH, Baujahr 1954, circa 165 qm Wohnfläche,
+
+### Frage 3.5
+
+Rotherbaum, MFH, Baujahr 1950, circa 421 qm Wohnfläche,
+
+### Frage 3.6
+
+Duvenstedt, MFH, Baujahr 1929, circa 220 qm Wohnfläche,
+
+### Frage 3.7
+
+Curslack, EFH, Baujahr 1932, circa 175 qm Wohnfläche?
+
+#### Antwort zu Fragen 3, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6 und 3.7
 
 Siehe Antwort zu 1. und 2.
 
 ### Frage 4
 
 Der Finanzsenator hat mehrfach – unter anderem in der Sitzung des Haushaltsausschusses am 30.04.2019 – ausgeführt, dass durch eine mögliche Zusammenfassung von Bodenrichtwerten zu sogenannten Lagen die Auswirkungen der stark gestiegenen Bodenrichtwerte in Hamburg bei einer wertabhängigen Grundsteuer begrenzt werden könnten.
-4.1. Hält der Senat beziehungsweise die zuständige Finanzbehörde die Zusammenfassung zu Lagen für ein wirksames Instrument, um einen deutlichen Anstieg der Grundsteuerbelastung für Hamburger Haushalte, insbesondere Mieter und Eigentümer in innerstädtischen Lagen, zu verhindern? Wenn ja, warum?
-4.2. Inwiefern kann der Anstieg der Grundsteuer in den unter 3.1. bis
-3.7. abgefragten Beispielen durch die Zusammenfassung zu Lagen wirksam reduziert werden?
-4.3. Welche Untersuchungen und Berechnungen hat der Senat beziehungsweise die Finanzbehörde bislang zur Beurteilung einer möglichen Zusammenfassung von Bodenrichtwerten zu Lagen im Einzelnen mit welchen Ergebnissen vorgenommen?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+Hält der Senat beziehungsweise die zuständige Finanzbehörde die Zusammenfassung zu Lagen für ein wirksames Instrument, um einen deutlichen Anstieg der Grundsteuerbelastung für Hamburger Haushalte, insbesondere Mieter und Eigentümer in innerstädtischen Lagen, zu verhindern? Wenn ja, warum?
+
+### Frage 4.2
+
+Inwiefern kann der Anstieg der Grundsteuer in den unter 3.1. bis
+3.7. abgefragten Beispielen durch die Zusammenfassung zu Lagen wirksam reduziert werden?
+
+### Frage 4.3
+
+Welche Untersuchungen und Berechnungen hat der Senat beziehungsweise die Finanzbehörde bislang zur Beurteilung einer möglichen Zusammenfassung von Bodenrichtwerten zu Lagen im Einzelnen mit welchen Ergebnissen vorgenommen?
+
+#### Antwort zu Fragen 4, 4.1, 4.2 und 4.3
 
 Siehe Drs. 21/17182.
 

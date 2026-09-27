@@ -13,9 +13,10 @@ seiten: 1
 fragen: 0
 einzelfragen: 0
 antwortbloecke: 0
-beantwortet: true
+beantwortet: false
+status: "zurückgezogen"
 zitierte_drucksachen: []
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/90126"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/90126/22_17783_chaos_auf_den_strassen_der_hansestadt_warum_verweigert_der_senat_die_auskunft_zur_anzahl_der_baustellen_in_hamburg_hier_curslack"
 abgerufen: "2026-09-24"
@@ -24,11 +25,9 @@ generator: "ska_archiv 1.0"
 
 # Drs. 22/17783: Chaos auf den Straßen der Hansestadt: Warum verweigert der Senat die Auskunft zur Anzahl der Baustellen in Hamburg. Hier: Curslack?
 
-> Schriftliche Kleine Anfrage des Abgeordneten Richard Seelmaecker (CDU) vom 31.01.25 und Antwort des Senats · Drucksache vom 31.01.2025  
+> Schriftliche Kleine Anfrage des Abgeordneten Richard Seelmaecker (CDU) vom 31.01.25 · zurückgezogen · Drucksache vom 31.01.2025  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/90126) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/90126/22_17783_chaos_auf_den_strassen_der_hansestadt_warum_verweigert_der_senat_die_auskunft_zur_anzahl_der_baustellen_in_hamburg_hier_curslack)
 
-## Volltext
-
-Chaos auf den Straßen der Hansestadt: Warum verweigert der Senat die Auskunft zur Anzahl der Baustellen in Hamburg. Hier: Curslack?
+## Hinweis
 
 Die Anfrage wurde zurückgezogen.

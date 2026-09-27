@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 22
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9108", "21/16515", "21/13396", "21/14001"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67003"
@@ -86,7 +87,7 @@ Wird eine wiederholte Teilnahme des IZH am Al-Quds-Tag Auswirkungen auf dessen S
 
 Plant der Senat, das IZH beziehungsweise die SCHURA im Falle einer erneuten Teilnahme am Al-Quds-Tag zu kontaktieren? Falls ja, inwiefern? Falls nein, warum nicht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Das IZH ist kein Vertragspartner des Senats. Im Übrigen siehe Vorbemerkung. Darüber hinaus hat sich der Senat damit nicht befasst.
 

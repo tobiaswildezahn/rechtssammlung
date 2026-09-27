@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 30
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/2651"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50838"
@@ -51,15 +52,15 @@ Wie viele und welche Unternehmen aus der Logistikbranche in Hamburg sind in der 
 
 Die Logistik-Initiative Hamburg hat 541 Mitglieder (Stand 30. November 2015). Die von der Logistik-Initiative Hamburg geführte Statistik folgt den Vorgaben der European Cluster Excellence Initiative (ECEI), die Logistikunternehmen nicht explizit abgrenzt und stattdessen nach den im Folgenden aufgeführten Rubriken unterscheidet. Danach stellt sich die Mitgliederstruktur der Logistik-Initiative Hamburg wie folgt dar:
 
- Unternehmen im clusterrelevanten Sektor: Branche/Dienstleister: 60 Prozent
+– Unternehmen im clusterrelevanten Sektor: Branche/Dienstleister: 60 Prozent
 
- Forschung und Bildung: 9 Prozent
+– Forschung und Bildung: 9 Prozent
 
- Vermittler: 23 Prozent
+– Vermittler: 23 Prozent
 
- Marketing und Kommunikation: 4 Prozent
+– Marketing und Kommunikation: 4 Prozent
 
- Regierung und öffentliche Verwaltung: 4 Prozent
+– Regierung und öffentliche Verwaltung: 4 Prozent
 
 ### Frage 2
 
@@ -424,25 +425,25 @@ Wodurch unterstützt die Freie und Hansestadt Hamburg beziehungsweise die zustä
 
 Die BWVI unterstützt die Logistik-Initiative als öffentlicher Partner des Public Private Partnership über finanzielle Mittel hinaus mit den folgenden Aktivitäten:
 
- Inhaltliche Begleitung aller von der Freien und Hansestadt Hamburg finanzierten
+– Inhaltliche Begleitung aller von der Freien und Hansestadt Hamburg finanzierten
 
 Aktivitäten der Clusterinitiative,
 
- Stellung des stellvertretenden Vorsitzenden für das Kuratorium der Logistik-
+– Stellung des stellvertretenden Vorsitzenden für das Kuratorium der Logistik-
 
 Initiative Hamburg in Person des Logistikkoordinators des Senats (derzeit: Herr Staatsrat Dr. Bösinger) sowie Berufung der Kuratoriumsmitglieder,
 
- Abstimmung der Maßnahmen zur Strategieumsetzung in einem regelmäßigen
+– Abstimmung der Maßnahmen zur Strategieumsetzung in einem regelmäßigen
 
 Jour-fixe mit dem Cluster-Management und Unterstützung bei der Umsetzung,
 
- Mitarbeit in den fachbezogenen Arbeitskreisen und Beteiligung an deren Leitung,
+– Mitarbeit in den fachbezogenen Arbeitskreisen und Beteiligung an deren Leitung,
 
- Vermittlung zwischen Wirtschaft und Politik im Rahmen der Verwaltungstätigkeit
+– Vermittlung zwischen Wirtschaft und Politik im Rahmen der Verwaltungstätigkeit
 
 zur Gestaltung der Rahmenbedingungen für die Branche am Standort Hamburg,
 
- Impulsgeber und Ansprechpartner für alle Handlungsfelder der LIHH.
+– Impulsgeber und Ansprechpartner für alle Handlungsfelder der LIHH.
 
 ### Frage 15
 

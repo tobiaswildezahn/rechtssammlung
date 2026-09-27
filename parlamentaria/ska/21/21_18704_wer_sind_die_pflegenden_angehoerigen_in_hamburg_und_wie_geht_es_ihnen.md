@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 21
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68365"
@@ -150,7 +151,7 @@ Wie viele pflegende Angehörige in Hamburg haben in den letzten fünf Jahren ein
 
 Wie viele pflegende Angehörige in Hamburg haben in den letzten fünf Jahren eine stationäre Rehabilitation mit ihren Pflegebedürftigen zusammen beantragt und wie viele dieser Anträge wurden bewilligt? Bitte pro Jahr angeben, dabei die Anzahl der erst nach Widerspruch bewilligten Anträge gesondert aufführen.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Der zuständigen Behörde liegen hierzu keine eigenen Erkenntnisse vor. Eine Abfragung bei der Deutschen Rentenversicherung Nord, der Unfallkasse Nord, der AOK Rheinland/Hamburg, dem BKK-Landesverband Nordwest, der IKK classic sowie dem Verband der Ersatzkassen e.V. hat ergeben, dass weder bei der Beantragung noch bei der Bewilligung einer Leistung zur medizinischen Rehabilitation das Merkmal „Pflegende/r Angehörige/r“ statistisch erfasst wird. Die erbetenen Zahlenangaben können daher nicht ermittelt werden.
 

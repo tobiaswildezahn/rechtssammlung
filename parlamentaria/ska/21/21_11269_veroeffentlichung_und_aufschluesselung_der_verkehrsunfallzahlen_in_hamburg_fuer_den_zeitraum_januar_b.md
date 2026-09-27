@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10150", "21/10270", "21/10292", "21/10296", "21/10297", "21/10308", "21/10309", "21/10316", "21/10317", "21/8126", "21/9490"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60257"
@@ -272,7 +273,7 @@ Wie viele drogenbedingte Verkehrsunfälle haben sich im Zeitraum Januar bis eins
 
 Wie viele drogenbedingte Verkehrsunfälle haben sich jeweils im Zeitraum Januar bis einschließlich September der Jahre seit 2011 in Hamburg ereignet und welche Verkehrsmittel waren jeweils wie häufig involviert? Bitte jeweils die Vergleichszahlen aus dem Zeitraum Januar bis einschließlich September der Jahre seit 2011 angeben und nach Verkehrsmitteln aufschlüsseln sowie angeben, wie viele Verkehrsunfälle auf welche Drogenarten zurückzuführen sind.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Anzahl der Verkehrsunfälle unter Drogen-/Medikamenteneinfluss sowie die Art der Verkehrsbeteiligung bei diesen Verkehrsunfällen in den ersten drei Quartalen der Jah-
 

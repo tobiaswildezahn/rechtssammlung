@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60210"
@@ -44,7 +45,7 @@ Welche Termine/Besprechungen hatte die Zweite Bürgermeisterin Katharina Fegeban
 
 Mit wem und wann hat sich die Zweite Bürgermeisterin vor und insbesondere in der Zeit vom 06.07.2017 bis zum 09.07.2017 über sicherheitsrelevante Themen in Hamburg ausgetauscht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Zweite Bürgermeisterin stand im engen Austausch mit verschiedenen Senatsmitgliedern und hatte insbesondere fortlaufenden Kontakt mit dem Ersten Bürgermeister. Auch die dienstliche Kommunikation der Zweiten Bürgermeisterin wird weder protokolliert noch dokumentiert. Eine entsprechende Auflistung ist daher nicht möglich. Die Zweite Bürgermeisterin hat im genannten Zeitraum im Rahmen ihrer Amtsausübung anlassbezogene, nicht im Einzelnen dokumentierte Termine wahrgenommen. Darüber hinaus hat sie ausweislich ihres Terminkalenders folgende Termine wahrgenommen:
 

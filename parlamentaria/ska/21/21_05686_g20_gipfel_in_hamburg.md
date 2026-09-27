@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 32
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5171", "18/8772"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54182"
@@ -81,7 +82,7 @@ Mit welchen konkreten Einschränkungen im öffentlichen Raum müssen die Hamburg
 
 Mit welchen konkreten Einschränkungen im nicht öffentlichen Raum (beispielsweise als Anwohner/-innen am Tagungsort oder an von Staatsgästen genutzten Verbindungsstraßen) müssen die Hamburger/-innen im Einzelnen voraussichtlich rechnen und in welchem Zeitraum vor, während und nach dem Gipfel?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Das Leben in der Stadt soll an den beiden Gipfeltagen so normal wie möglich bleiben. Ganz ohne vorübergehende Einschränkungen wird es jedoch nicht gehen. Denn die Freie und Hansestadt Hamburg hat die Verantwortung für den Schutz und die Sicherheit der (internationalen) Gäste. Die zuständigen Stellen sind bestrebt, die Beeinträchtigungen für die Hamburgerinnen und Hamburger so gering wie möglich zu halten. Dies gilt auch in zeitlicher Hinsicht.
 
@@ -156,7 +157,7 @@ Abgesehen vom geplanten Tagungsort, den Messehallen, welche weiteren Orte und Ge
 
 Gibt es über den Tagungsort hinaus Örtlichkeiten, die im Rahmen des G20-Gipfels durch seine Teilnehmer/-innen voraussichtlich frequentiert werden? Wenn ja, welche sind dies und unter welchen Vorkehrungen im Einzelnen werden sie bereitgestellt?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Der G20-Gipfel 2017 wird auf dem Gelände der Hamburg Messe stattfinden. Es handelt sich um eine Veranstaltung der Bundesregierung. Die Auswahl der Veranstal-
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 15
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51977"
@@ -62,7 +63,7 @@ Haben die BSU/BSW und das Bezirksamt in den letzten drei Jahren Gespräche über
 
 Streben die BSW und das Bezirksamt Hamburg-Mitte überhaupt noch eine gemeinsame Grundsatzentscheidung zum Nutzungskonzept Jungfernstieg an? Wenn ja, wie stellt sich der weitere Verfahrensverlauf dar? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Ja. Im Übrigen siehe Antwort zu 1.
 

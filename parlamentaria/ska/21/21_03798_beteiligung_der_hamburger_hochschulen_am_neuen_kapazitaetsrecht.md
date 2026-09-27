@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 23
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52216"
@@ -121,32 +122,32 @@ Die zentralen Themen der Sitzungen waren:
 Wichtige Themen  
 1. Sitzung am  
 22. Juli 2015  
-  
+–  
 Analyse der Rechtsprechung  
-  
+–  
 Identifikation der Problemfelder  
-  
+–  
 erste Diskussion denkbarer Lösungsmöglichkeiten  
-  
+–  
 Termin- und Ablaufplanung  
 2. Sitzung am  
 19. August 2015  
-  
+–  
 Termin- und Ablaufplanung  
-  
+–  
 Funktion und Inhalte der Kapazitätsvereinbarungen  
-  
+–  
 Konkrete Lösungsmöglichkeiten einzelner Problemfelder  
 3. Sitzung am  
 16. September 2015  
-  
+–  
 Sachstand  
-  
+–  
 Weiter: Konkrete Lösungsmöglichkeiten einzelner,  
 hochschulübergreifender Problemfelder  
-  
+–  
 Weitere Analyse der Rechtsprechung  
-  
+–  
 Juristische Absicherung/Sicherstellung der Verfassungsmäßigkeit
 
 ### Frage 11

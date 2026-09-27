@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57791"
@@ -53,7 +54,7 @@ Greift die Regelung nach § 19 Absatz 1 S. 2 KibeG auch für Kosten, die im Rahm
 
 Wie viele derartige Fälle seit Einführung des Kita-Gutscheins sind dem Senat bekannt? Bitte nach Jahren aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung. Im Übrigen werden Daten zu verspätet gestellten Anträgen statistisch nicht erfasst.
 
@@ -77,7 +78,7 @@ In welcher Höhe wurden Haushaltsmittel seit Einführung des Kita- Gutscheins na
 
 Berücksichtigt der Hamburger Senat bei der Haushaltsplanung, dass Eltern den Kita-Gutschein durch verspätete Antragstellung nicht beanspruchen können? Wenn ja, in welcher Höhe?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 1. und 2. sowie Vorbemerkung.
 

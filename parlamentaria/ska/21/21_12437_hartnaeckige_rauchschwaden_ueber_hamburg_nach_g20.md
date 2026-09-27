@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 18
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8397", "21/10827", "21/10678", "21/10787", "21/11795"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61730"
@@ -121,7 +122,7 @@ Wie hoch sind die Gesamtkosten für Sicherheitsmaßnahmen im Zusammenhang mit de
 
 Welche über die Beteiligung des Bundes hinausgehenden Kosten sind von Hamburg letztendlich zu tragen und aus welchem Etat?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die Gesamtkosten für Sicherheitsmaßnahmen der Polizei und Feuerwehr im Zuge der Durchführung des OSZE-Ministerratstreffens und des G20-Gipfels betragen
 85.007.203 Euro. Eine Aufstellung ist der nachfolgenden Tabelle zu entnehmen:

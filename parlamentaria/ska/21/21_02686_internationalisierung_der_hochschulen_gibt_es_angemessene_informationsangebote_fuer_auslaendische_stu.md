@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2606", "20/7408"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51001"
@@ -47,7 +48,7 @@ Vor dem Hintergrund des internationalen Wettbewerbs um junge Talente: Wird das b
 
 Was unternimmt die zuständige Behörde für Wissenschaft, Forschung und Gleichstellung, um ausländische Studenten und Studieninteressierte über den Universitäts- und Hochschulstandort Hamburg zu informieren/ für diesen zu begeistern?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Werben um internationale Studierende erfolgt in erster Linie eigenständig durch die Hamburger Hochschulen, die unter anderem für diese Aufgabe spezielle „International Offices“ betreiben. Auch die Studierenden-Austauschprogramme der Europäischen Union, wie zum Beispiel ERASMUS+, werden eigenständig durch die Hoch-
 

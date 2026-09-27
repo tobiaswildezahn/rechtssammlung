@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12560", "21/7449", "21/10471"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62661"
@@ -76,10 +77,19 @@ Die Grundwasserüberwachung wird fortgesetzt.
 ### Frage 7
 
 Im Zuge der Abstimmung des bezirklichen Wohnungsbauprogramms hat die Umweltbehörde darauf hingewiesen, dass es sich beim Großteil der Fläche um eine festgesetzte Ausgleichsfläche (für den Bebauungsplan Lemsahl-Mellingstedt 17) handelt.
-7.1. Warum wurde die Fläche dennoch in das Wohnungsbauprogramm aufgenommen?
-7.2. Inwiefern ist auf den festgesetzten Ausgleichsflächen eine Bebauung überhaupt möglich und zulässig?
-7.3. Wird die fachliche Diskussion des Wohnungsbaupotenzials lediglich auf die nicht als Ausgleichsfläche festgelegte Teilfläche begrenzt? Inwiefern ist eine Nutzung dieser Teilfläche für den Wohnungsbau ohne Beeinträchtigung der unmittelbar angrenzenden Ausgleichsflächen überhaupt möglich?
 
-#### Antwort zu Frage 7
+### Frage 7.1
+
+Warum wurde die Fläche dennoch in das Wohnungsbauprogramm aufgenommen?
+
+### Frage 7.2
+
+Inwiefern ist auf den festgesetzten Ausgleichsflächen eine Bebauung überhaupt möglich und zulässig?
+
+### Frage 7.3
+
+Wird die fachliche Diskussion des Wohnungsbaupotenzials lediglich auf die nicht als Ausgleichsfläche festgelegte Teilfläche begrenzt? Inwiefern ist eine Nutzung dieser Teilfläche für den Wohnungsbau ohne Beeinträchtigung der unmittelbar angrenzenden Ausgleichsflächen überhaupt möglich?
+
+#### Antwort zu Fragen 7, 7.1, 7.2 und 7.3
 
 Durch die Aufnahme des ehemaligen Sportplatzes Fiersbarg, Grundstück Flurstück 2385, in das bezirkliche Wohnungsbauprogramm wird verdeutlicht, dass dort langfristig ein Wohnungsbaupotenzial entwickelt werden kann. Dies betrifft das gesamte Grundstück, nicht allein Teilflächen. Für das Grundstück liegen keine Ausgleichsflächenfestsetzungen, sondern Maßnahmenbeschreibungen nach der Begründung zum Bebauungsplan Lemsahl-Mellingstedt 17 vor, der einen anderen Geltungsbereich umfasst. Sofern das Grundstück zukünftig nach Sanierung der Altlast im Wege der Aufstellung eines neuen Bebauungsplanes dem Wohnungsbau zugeführt werden soll, werden etwaige Ausgleichserfordernisse zu prüfen und gegebenenfalls zu berücksichtigen sein. Im Übrigen siehe Drs. 21/10471.

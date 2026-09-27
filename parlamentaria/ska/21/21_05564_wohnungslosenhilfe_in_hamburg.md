@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2178", "21/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54046"
@@ -53,7 +54,7 @@ Mit wie vielen VZÄ wird im Rahmen der Haushaltsplanaufstellung 2017/ 2018 aktue
 
 Welche zusätzlichen Kosten/Einsparungen werden durch die geplanten Veränderungen bei den VZÄ in Produktgruppe 25303 zu erwarten sein?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/5000.
 
@@ -65,7 +66,7 @@ Wie viele Beratungsfälle im Rahmen der Wohnungslosenhilfe und öffentlichen Unt
 
 Wie viele Beratungsfälle im Rahmen der Wohnungslosenhilfe und öffentlichen Unterbringung wurden seit dem Jahr 2010 durchgeführt? (Bitte jahresweise aufschlüsseln.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 In den nachfolgenden Tabellen sind von der Wohnungslosenhilfe beratene Personen beziehungsweise Haushalte berücksichtigt. Personen beziehungsweise Haushalte können mehrfach im Hilfesystem dokumentiert sein, soweit sie unterschiedliche Hilfebereiche nutzen.
 

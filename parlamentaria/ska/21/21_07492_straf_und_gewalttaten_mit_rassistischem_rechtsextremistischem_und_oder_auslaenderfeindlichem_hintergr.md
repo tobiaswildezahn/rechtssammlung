@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3165", "21/5257"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56095"
@@ -96,53 +97,53 @@ Welche Veränderungen/Neuerungen gibt es seit dem 1.1.2017 bei der PKS? Bitte de
 
 In der Polizeilichen Kriminalstatistik (PKS) sind zum 1. Januar 2017 folgende Erfassungsschlüssel neu eingeführt worden:
 
- 050000 „Geschäftsmäßige Förderung der Selbsttötung“,
+– 050000 „Geschäftsmäßige Förderung der Selbsttötung“,
 
- 114000 „Sexuelle Belästigung § 184i StGB“,
+– 114000 „Sexuelle Belästigung § 184i StGB“,
 
- 115000 „Straftaten aus Gruppen § 184j StGB“,
+– 115000 „Straftaten aus Gruppen § 184j StGB“,
 
- 111600 „Sexuelle Übergriffe § 177 Abs. 1 bis 4 und 7 bis 9 StGB“,
+– 111600 „Sexuelle Übergriffe § 177 Abs. 1 bis 4 und 7 bis 9 StGB“,
 
- 239110 bis 239160 „Menschenhandel § 232 StGB“,
+– 239110 bis 239160 „Menschenhandel § 232 StGB“,
 
- 239210 und 239220 „Zwangsprostitution § 232a StGB“,
+– 239210 und 239220 „Zwangsprostitution § 232a StGB“,
 
- 239310 bis 239330 „Zwangsarbeit § 232b StGB“,
+– 239310 bis 239330 „Zwangsarbeit § 232b StGB“,
 
- 239410 bis 239430 „Ausbeutung der Arbeitskraft § 233 StGB“,
+– 239410 bis 239430 „Ausbeutung der Arbeitskraft § 233 StGB“,
 
- 239510 bis 239540 „Ausbeutung unter Ausnutzung einer Freiheitsberaubung
+– 239510 bis 239540 „Ausbeutung unter Ausnutzung einer Freiheitsberaubung
 
 § 233a StGB“,
 
- 657100 „Bestechlichkeit und Bestechung im geschäftlichen Verkehr § 299 StGB“,
+– 657100 „Bestechlichkeit und Bestechung im geschäftlichen Verkehr § 299 StGB“,
 
- 657400 „Bestechlichkeit im Gesundheitswesen § 299a StGB“,
+– 657400 „Bestechlichkeit im Gesundheitswesen § 299a StGB“,
 
- 657500 „Bestechung im Gesundheitswesen § 299b StGB“,
+– 657500 „Bestechung im Gesundheitswesen § 299b StGB“,
 
- 678040 „Datenhehlerei“,
+– 678040 „Datenhehlerei“,
 
- 716510 „Herstellen, Inverkehrbringen, Verschreiben, Anwendung bei Dritten, Han-
+– 716510 „Herstellen, Inverkehrbringen, Verschreiben, Anwendung bei Dritten, Han-
 
 del treiben, veräußern, abgeben von Dopingmitteln“,
 
- 716520 „Erwerb, Besitz, Verbringung von Dopingmitteln“,
+– 716520 „Erwerb, Besitz, Verbringung von Dopingmitteln“,
 
- 716530 „Selbstdoping (anwenden/anwenden lassen, Erwerb und Besitz von
+– 716530 „Selbstdoping (anwenden/anwenden lassen, Erwerb und Besitz von
 
 Dopingmitteln, zur Verschaffung eines Vorteils im Wettbewerb)“,
 
- 735000 „Straftaten gemäß § 4 Neue psychoaktive Stoffe Gesetz (NpSG),“.
+– 735000 „Straftaten gemäß § 4 Neue psychoaktive Stoffe Gesetz (NpSG),“.
 
 Mit Beginn des Jahres sind folgende PKS-Schlüsselzahlen weggefallen
 
- 657110 und 657120 „Bestechlichkeit und Bestechung im geschäftlichen Verkehr
+– 657110 und 657120 „Bestechlichkeit und Bestechung im geschäftlichen Verkehr
 
 § 299 StGB“,
 
- 716411 und 716412 „Doping im Sport“
+– 716411 und 716412 „Doping im Sport“
 
 Darüber hinaus sind zum 1. Januar 2017 die PKS-Kataloge „Tatörtlichkeit“ und „Ereignis“ eingeführt worden. Im Übrigen siehe Anlage 4.
 

@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 8
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12088", "21/18036", "21/18881"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69969"
@@ -77,6 +78,6 @@ Haben der Senat und die ihm untergebene Finanzbehörde an einem Billigkeitserlas
 
 Werden betreffend mutmaßlicher Cum-Ex- und Cum-Cum-Prozesse derzeit Verhandlungen, wie oben dargestellt, zur Herstellung einer außergerichtlichen Einigung mit Banken geführt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.

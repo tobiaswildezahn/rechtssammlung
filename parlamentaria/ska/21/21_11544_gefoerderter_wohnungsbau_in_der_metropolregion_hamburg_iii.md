@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10793", "21/11218", "16/2263", "16/5217"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60722"
@@ -61,7 +62,7 @@ Welche konkreten Maßnahmen zur Initiierung von innerhalb der Metropolregion abg
 
 Welche innerhalb der Metropolregion abgestimmten Wohnungsbauprojekte wurden in der Zwischenzeit seit 2015 bereits realisiert beziehungsweise welche befinden sich gerade in der Realisierung?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -83,17 +84,17 @@ In Folge der Regionalkonferenz 2015 der Metropolregion Hamburg zum Thema Wohnung
 
 Daraus ist die Idee einer Veranstaltungsreihe aus vier regionalen Einzelveranstaltungen in Pinneberg, Lüneburg und Hamburg entstanden. Diese Veranstaltungen sollen im Februar, April, Juni und September 2018 stattfinden. Die Federführung hat die Arbeitsgruppe, zu der auch Vertreter der Behörde für Stadtentwicklung und Wohnen gehören. Folgende thematische Schwerpunkte sind derzeit vorgesehen:
 
- Wir haben Bedarf – Wo und für wen brauchen wir preiswerten Wohnraum?
+– Wir haben Bedarf – Wo und für wen brauchen wir preiswerten Wohnraum?
 
- Steigende Kosten – Qualität – preiswerter Wohnraum: Wie kommt das zusam-
+– Steigende Kosten – Qualität – preiswerter Wohnraum: Wie kommt das zusam-
 
 men?
 
- Handlungsspielräume – Strategien –Beispiele: Welche guten Beispiele gibt es aus
+– Handlungsspielräume – Strategien –Beispiele: Welche guten Beispiele gibt es aus
 
 den Kommunen der Metropolregion?
 
- Preiswerter Wohnraum im Ländlichen Raum – Welche Facetten hat das Thema
+– Preiswerter Wohnraum im Ländlichen Raum – Welche Facetten hat das Thema
 
 innerhalb der Metropolregion?
 

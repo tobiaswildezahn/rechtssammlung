@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/2392", "20/10666"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51466"
@@ -101,6 +102,6 @@ Wie wirken sich Ertüchtigungen und Nachrüstungen der Kraftwerke voraussichtlic
 
 Aus welchen sonstigen Gründen kann der bislang vereinbarte Mindestkaufpreis sich noch erhöhen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Mindestkaufpreis kann sich nicht verändern. Der zu zahlende Kaufpreis könnte sich erhöhen, wenn der Unternehmenswert für 100 Prozent der Anteile über 950 Millionen Euro liegen würde. Dies könnte eintreten, wenn sich Erlös-, Aufwands- und Zinspositionen gegenüber den ursprünglichen Annahmen unternehmenswertsteigernd verändern. Im Übrigen siehe Antworten zu 3. bis 5.

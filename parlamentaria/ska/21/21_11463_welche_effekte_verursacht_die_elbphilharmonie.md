@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 16
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9915", "21/3857", "21/11476", "21/7653"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60583"
@@ -90,7 +91,7 @@ Volkswirtschaftliche Effekte der Elbphilharmonie
 a) Wie hoch war die Anzahl der zusätzlichen durch die Elbphilharmonie angezogenen Besucher zum Stichtag der Einreichung der Anfrage? Bitte differenziert nach Deutschland, europäischem Ausland und nicht europäischem Ausland sowie nach einzelnen Ländern darstellen.
 b) Wie hoch waren bisher die durch die Elbphilharmonie selber in Hamburg verursachten beziehungsweise ausgelösten Umsätze (Gastronomie, Hotellerie, Einzelhandel, Dienstleister, weiteres Konsumgewerbe, Transportgewerbe, weitere Kulturinstitutionen in Hamburg et cetera) zum Stichtag der Einreichung der Anfrage?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung. Im Übrigen siehe Drs. 21/7653.
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 18
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12884", "21/13007", "21/14618"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65866"
@@ -103,13 +104,13 @@ Wie viele Quartiere mit mehr als 500 Wohneinheiten (WE) wurden in den letzten vi
 
 Im Bezirk Harburg sind drei Quartiere mit mehr als 500 Wohneinheiten in Planung
 
- Vogelkamp Neugraben (zunächst unter anderem Namen) Baubeginn 1. Bauab-
+– Vogelkamp Neugraben (zunächst unter anderem Namen) Baubeginn 1. Bauab-
 
 schnitt 2008
 
- Fischbeker Heidbrook Baubeginn 2015
+– Fischbeker Heidbrook Baubeginn 2015
 
- Fischbeker Reethen Baubeginn circa 2021
+– Fischbeker Reethen Baubeginn circa 2021
 
 ### Frage 4
 

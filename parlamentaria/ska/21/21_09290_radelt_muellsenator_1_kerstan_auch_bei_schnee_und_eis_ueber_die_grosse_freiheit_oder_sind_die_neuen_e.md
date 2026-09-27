@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9175"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58049"
@@ -63,7 +64,7 @@ An wie vielen Tagen wurden die in der Antwort auf Frage 4. der Drs. 21/9175 gena
 a) insgesamt in der Summe und
 b) durchschnittlich je eingesetztem E-Bike beziehungsweise E-Trike nicht eingesetzt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Deutsche Post AG teilt auf Anfrage mit, dass keine Angaben zu innerbetrieblichen Abläufen oder Kennzahlen kommuniziert werden.
 

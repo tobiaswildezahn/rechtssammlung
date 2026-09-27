@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 18
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3991", "20/4636"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55879"
@@ -96,7 +97,7 @@ Nimmt die SGG an öffentlichen Ausschreibungen teil? Wenn nein, auf welchem Wege
 
 Wie hoch ist der derzeitige Anteil der im Auftrag der FHH und ihrer Beteiligungen zu reinigenden Fläche an der von der SGG gereinigten Gesamtfläche? Wie hat er sich seit 2010 entwickelt? (Bitte jahresweise auflisten.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Nein. Der Städtischen Gebäudeeigenreinigung GmbH (SGG) werden unter Berücksichtigung der Personalfluktuation ausschließlich frei werdende Reinigungsflächen in Schulen und Dienstgebäuden übertragen.
 

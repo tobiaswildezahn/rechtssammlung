@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50361"
@@ -47,7 +48,7 @@ Wie viele junge Menschen unter 25 Jahren sind aktuell in Hamburg bei den derzeit
 
 Wie viele junge Menschen unter 25 Jahren sind nicht in der JBA registriert, aber in anderen Jobcentern oder Standorten der Agentur für Arbeit? Bitte auflisten nach Bezirken und im Verhältnis zur Gesamtanzahl der registrierten U25 in den Jobcentern und Agenturen für Arbeit.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 
@@ -61,7 +62,7 @@ Wie viele junge Menschen unter 25 Jahren haben über die JBA das Abitur abgeschl
 
 Wie viele registrierte U25 haben seit 2012 einen Schulabschluss oder Berufsabschluss erworben? Bitte auflisten nach Art des Schul- und Berufsabschlusses.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die JBA berät unter anderem über Maßnahmen, die zum Abitur führen (wie zum Beispiel den Besuch der Berufsoberschule oder des Beruflichen Gymnasiums). Das Abitur kann nicht über die JBA abgeschlossen werden und es wird statistisch nicht erfasst, ob ein Schulabschluss infolge einer Beratung durch die JBA erworben wurde.
 
@@ -77,7 +78,7 @@ Wie viele registrierte U25 in den JBA, Jobcentern und Agenturen für Arbeit habe
 
 Wie viele U25 sind als „arbeitslos“, „arbeitsuchend“, „ratsuchend“ oder „Status nicht gesetzt“ gemeldet? Bitte auflisten nach JBA, Jobcenter und Agentur für Arbeit.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Anlage 1.
 

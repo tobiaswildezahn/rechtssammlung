@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 16
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56844"
@@ -47,41 +48,41 @@ Für die Laufbahngruppe 1, 2. Einstiegsamt (Laufbahnabschnitt (LA) I, ehem. mitt
 
 Bewerberinnen und Bewerber für den LA I benötigen:
 
- einen Realschulabschluss oder einen Hauptschulabschluss und eine für die betref-
+– einen Realschulabschluss oder einen Hauptschulabschluss und eine für die betref-
 
 fende Laufbahn förderliche Berufsausbildung oder Ausbildung in einem öffentlichrechtlichen Ausbildungsverhältnis (Verwaltungspraktikum) von zwei Jahren oder
 
- einen von der zuständigen Behörde als gleichwertig anerkannten Bildungsstand.
+– einen von der zuständigen Behörde als gleichwertig anerkannten Bildungsstand.
 
 Bewerberinnen und Bewerber für den LA II benötigen:
 
- eine Hochschulzugangsberechtigung oder
+– eine Hochschulzugangsberechtigung oder
 
- einen von der zuständigen Behörde als gleichwertig anerkannten Bildungsstand.
+– einen von der zuständigen Behörde als gleichwertig anerkannten Bildungsstand.
 
 Die Bewerberinnen und Bewerber für den LA I und LA II müssen zudem
 
- mindestens 16 Jahre alt sein und dürfen das 35. Lebensjahr noch nicht vollendet
+– mindestens 16 Jahre alt sein und dürfen das 35. Lebensjahr noch nicht vollendet
 
 haben,
 
- die Fahrerlaubnis der Klasse B besitzen oder sich verpflichten, diese bis zum Ende
+– die Fahrerlaubnis der Klasse B besitzen oder sich verpflichten, diese bis zum Ende
 
 des Vorbereitungsdienstes zu erwerben,
 
- die Schwimmbefähigung nachweisen,
+– die Schwimmbefähigung nachweisen,
 
- eine Einstellungsprüfung, die sich auf die Eignung für den Polizeivollzugsdienst
+– eine Einstellungsprüfung, die sich auf die Eignung für den Polizeivollzugsdienst
 
 erstreckt, bestanden haben,
 
- für den Polizeivollzugsdienst gesundheitlich tauglich sein,
+– für den Polizeivollzugsdienst gesundheitlich tauglich sein,
 
- ausreichende Schulnoten in den Hauptfächern haben,
+– ausreichende Schulnoten in den Hauptfächern haben,
 
- charakterlich geeignet erscheinen,
+– charakterlich geeignet erscheinen,
 
- eine Mindestgröße von 160 cm haben.
+– eine Mindestgröße von 160 cm haben.
 
 Einstellungen in die Laufbahngruppe 2, 2. Einstiegsamt (LA III, ehem. höherer Dienst) des Polizeivollzugsdienstes gibt es bei der Polizei Hamburg nicht. Im Wege der Einheitslaufbahn erfolgt der Zugang für ausgewählte Angehörige der Laufbahngruppe 2,
 1. Einstiegsamt über ein Masterstudium an der Deutschen Hochschule der Polizei.
@@ -134,18 +135,18 @@ Inwiefern hängt die durchschnittliche Dauer dieses Einstellungsprozesses vom Er
 
 Die Erstellung eines abgeschlossenen Einstellungsgutachtens für die Polizei ist Bestandteil des Einstellungsprozesses. Die durchschnittliche Dauer im Jahr 2016 betrug 41 Tage (Differenz Abschlussdatum des Gutachtens – Eingangsdatum des Gutachtenauftrags in Kalendertagen). Die der Ermittlung der durchschnittlichen Zeitspanne von 41 Tagen zugrunde liegenden Fälle weisen eine erhebliche Streubreite auf, die insbesondere aus folgenden Faktoren resultiert:
 
- unterschiedlich lange Vorlaufphase der Terminierung,
+– unterschiedlich lange Vorlaufphase der Terminierung,
 
- Notwendigkeit von Zusatzuntersuchungen (zum Beispiel augenärztliche Untersu-
+– Notwendigkeit von Zusatzuntersuchungen (zum Beispiel augenärztliche Untersu-
 
 chungen, HNO-ärztliche Untersuchungen in externen Praxen),
 
- Terminverschiebungen durch Bewerberinnen und Bewerber,
+– Terminverschiebungen durch Bewerberinnen und Bewerber,
 
- Nachlieferung von für die Beurteilung notwendigen Vorbefunden durch Bewerbe-
+– Nachlieferung von für die Beurteilung notwendigen Vorbefunden durch Bewerbe-
 
 rinnen und Bewerber,
 
- Notwendigkeit der Wiederholung der Ergometrie zu einem späteren Zeitpunkt
+– Notwendigkeit der Wiederholung der Ergometrie zu einem späteren Zeitpunkt
 
 wegen mangelnder Leistungsfähigkeit in der Erstuntersuchung.

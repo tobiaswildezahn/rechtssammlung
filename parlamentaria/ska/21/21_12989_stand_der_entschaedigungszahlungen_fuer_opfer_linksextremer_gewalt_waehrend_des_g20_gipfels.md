@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 3
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9959", "21/9805"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62319"
@@ -63,6 +64,6 @@ Welche Entschädigungszahlungen hat der Senat/die Bundesregierung an die Antrags
 
 Plant der Senat, weitere Finanzmittel im Rahmen der Opferentschädigung zur Verfügung zu stellen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Ausgezahlt wurden an die Antragsteller aus dem Härtefallfonds bis zum 08.05.2018 insgesamt 846.000 Euro. Diese Summe teilt sich auf in 263.000 Euro für Gebäudeschäden, 271.000 Euro für Kfz-Schäden und 312.000 Euro für sonstige Schäden. Darüber hinausgehende Finanzmittel sind nicht erforderlich.

@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 31
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9440", "21/8105", "21/9781", "21/9604", "21/8162", "21/6646", "21/5039"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62288"
@@ -210,7 +211,7 @@ Wie viele Haftbefehle wurden in 2017 und bis April 2018 gegen mutmaßliche Islam
 
 Wie viele Haftbefehle gegen mutmaßliche Islamisten wurden bisher aus welchen Gründen nicht vollstreckt?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 In Verfahren der Generalstaatsanwaltschaft und der Staatsanwaltschaft wegen islamistisch motivierter Straftaten wurden insgesamt acht Haftbefehle wegen des Verdachts auf Mitgliedschaft in einer terroristischen Vereinigung gemäß §§ 129a und 129b StGB und ein Haftbefehl wegen des Verdachts der Vorbereitung einer schweren staatsgefährdenden Gewalttat gemäß § 89a StGB erlassen. Sieben dieser Haftbefehle konnten aufgrund des unbekannten Aufenthaltes der Beschuldigten nicht vollstreckt werden.
 

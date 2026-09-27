@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56743"
@@ -66,7 +67,7 @@ Wie viele Beratungen sind seit 2012 bei anderen Institutionen wie Handwerks- und
 
 Wie hat sich die Zahl der Beratungsgespräche von 2012 bis 2017 entwickelt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Alle für die Berufsanerkennung zuständigen Stellen führen für ihren jeweiligen Zuständigkeitsbereich mit allen Antragstellerinnen und Antragstellern sowie Interessierten, die dies wollen, Beratungsgespräche durch. So hat zum Beispiel die Handwerkskammer Hamburg von 2012 bis 2016 2.237 Personen zur Anerkennung ihrer ausländischen Berufsqualifikationen in den Berufen nach der Handwerksordnung beraten. Die Handelskammer Hamburg hat seit 2012 rd. 2000 Beratungsgespräche für ihren Zuständigkeitsbereich geführt.
 
@@ -133,7 +134,7 @@ Wie viele Anträge auf einen Europäischen Berufsausweis (EBA) wurden seit Inkra
 
 Für welche Berufsgruppen ist bislang ein EBA ausgestellt worden?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Es wurden zwei Anträge auf einen Europäischen Berufsausweis (EBA) gestellt und ein EBA im Bereich Gesundheitsfachberufe – Krankenpflege – ausgestellt. Die geringen Zahlen korrespondieren mit den geringen europäischen und deutschen Antragszahlen (EU: 2.100 Antragstellungen; Deutschland: 234 Antragstellungen). Als Ursachen für die geringe Resonanz gelten der bislang niedrige Bekanntheitsgrad des Verfahrens sowie dessen Aufwendigkeit.
 

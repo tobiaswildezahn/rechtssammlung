@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50556"
@@ -73,19 +74,19 @@ Werden die unter 3. genannten Mengen komplett an das BKW Bützberg verbracht?
 
 Welche anderen Kompostiereinrichtungen oder Anlagen zur Weiterverarbeitung von kompostierbaren Abfällen nutzt die Stadtreinigung? Bitte die verarbeiteten monatlichen Mengen angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nein. Neben dem BKW Bützberg nutzt die SRH im Rahmen einer Spitzenlastausschreibung die Anlagen folgender Unternehmen:
 
- ETH Umwelttechnik GmbH
+– ETH Umwelttechnik GmbH
 
- HME Hamburger Müllentsorgung Rohstoffverwertungsgesellschaft mbH
+– HME Hamburger Müllentsorgung Rohstoffverwertungsgesellschaft mbH
 
- K+E Kompost und Erden GmbH (Norderstedt)
+– K+E Kompost und Erden GmbH (Norderstedt)
 
- OTTO DÖRNER Entsorgung GmbH
+– OTTO DÖRNER Entsorgung GmbH
 
- Harz-Humus Recycling GmbH (Quedlinburg)
+– Harz-Humus Recycling GmbH (Quedlinburg)
 
 In 2015 sind in diese Anlagen folgende Mengen Bio- und Grünabfall gegangen:
 

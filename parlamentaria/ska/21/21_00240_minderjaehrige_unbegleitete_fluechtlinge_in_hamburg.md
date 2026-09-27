@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8892", "20/13705", "21/129"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48370"
@@ -81,19 +82,19 @@ Wie erfolgt die erste Beratung und mit welchem Fachpersonal wird diese durgefüh
 
 Inwieweit werden die kulturellen Besonderheiten der Flüchtlingsländer berücksichtigt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Erstkontakt dient der Klärung der Situation der Person und der Prüfung der Voraussetzungen für eine Inobhutnahme nach § 42 Absatz 1 Nummer 3 SGB VIII. In einem Gespräch werden folgende Informationen ermittelt:
 
- biografische Fakten, wie altersmäßige Einordnung in die Familienkonstellation,
+– biografische Fakten, wie altersmäßige Einordnung in die Familienkonstellation,
 
 eigene Elternschaft, zeitliche Lage und Dauer eines Schulbesuchs, einer Arbeitstätigkeit oder ähnlicher Lebensphasen,
 
- äußere Erscheinung, insbesondere deutlich postpubertäre Körpermerkmale, soweit
+– äußere Erscheinung, insbesondere deutlich postpubertäre Körpermerkmale, soweit
 
 im Rahmen einer Inaugenscheinnahme ohne Entkleiden oder Anwendung besonderer Untersuchungsmethoden erkennbar,
 
- gegebenenfalls vorgelegte Dokumente zum Identitätsnachweis, soweit diese nicht
+– gegebenenfalls vorgelegte Dokumente zum Identitätsnachweis, soweit diese nicht
 
 offensichtlich für diesen Zweck untauglich sind, also die Identität und damit das Alter nicht glaubhaft feststellen lassen.
 
@@ -109,7 +110,7 @@ Wie bewertet der Senat der gesundheitlichen Status der minderjährigen unbegleit
 
 Welche Erkrankungen werden bei minderjährigen unbegleiteten Flüchtlingen besonders häufig diagnostiziert? Bitte für den Zeitraum März 2013 bis März 2015 aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Alle jungen Flüchtlinge werden nach § 36 Infektionsschutzgesetz und § 62 Asylverfahrensgesetz auf übertragbare Krankheiten einschließlich einer Röntgenaufnahme der Atmungsorgane untersucht. In diesem Zusammenhang werden der allgemeine Gesundheits- und der Impfstatus festgestellt, Impfungen angeboten sowie gegebenenfalls weitere diagnostische Abklärungen empfohlen.
 

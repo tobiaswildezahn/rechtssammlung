@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 16
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59595"
@@ -55,7 +56,7 @@ d) mit Abitur? Bitte in absoluten Zahlen und prozentualen Anteilen, zur jeweilig
 
 Wie viele dieser Schulabsolventen weisen einen Migrationshintergrund auf? Bitte sortiert nach den Bürgerschaftswahlkreisen, vom Schuljahr 2011/2012 bis heute angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage 2.
 
@@ -99,7 +100,7 @@ Was kostet in Hamburg ein Studiengang durchschnittlich für die Regelstudienzeit
 
 Was kostet in Hamburg ein Studiengang durchschnittlich für die Regelstudienzeit mit Abschluss „Master“?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Der Ausstattungs-, Kosten- und Leistungsvergleich (AKL) des Deutschen Zentrums für  
 Hochschul- und Wissenschaftsforschung (DZHW) weist Lehrkosten für Bachelor- und  

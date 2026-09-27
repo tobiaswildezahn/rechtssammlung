@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 18
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63084"
@@ -51,7 +52,7 @@ Seit wann steht der Studiengang Performance Studies an der Universität Hamburg 
 
 An welchen Hamburger Hochschulen wird er darüber hinaus angeboten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Studiengang Performance Studies wird seit dem Wintersemester 2005/2006 an der UHH angeboten. Darüber hinaus bestehen keine entsprechenden Studienangebote.
 
@@ -63,7 +64,7 @@ Wie viele Studenten waren in den Jahren seit Einführung des Studiengangs pro Ja
 
 Wie viele von ihnen stammen aus dem Ausland?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage 1.
 
@@ -98,7 +99,7 @@ Wie viele Gastprofessuren hat es bis heute für den Studiengang gegeben?
 
 Um was für Stellen handelt es sich bei diesen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 In dem Studiengang hat es sieben Gastprofessuren und eine DAAD-Professur gegeben. Es handelt sich um Gastprofessuren nach Gastprofessorentarif der UHH und DAAD-Professur nach W2-Einstufung.
 
@@ -165,7 +166,7 @@ Ist geplant, in Zukunft weitere Stellen für das Zentrum Performance Studies zu 
 
 Wie viel Geld steht dem Zentrum Performance Studies monatlich zur Verfügung?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Siehe Antwort zu 13. a) bis g).
 

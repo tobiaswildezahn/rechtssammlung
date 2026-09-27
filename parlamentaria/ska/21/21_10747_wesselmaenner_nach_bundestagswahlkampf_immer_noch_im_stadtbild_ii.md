@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10628"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59655"
@@ -49,7 +50,7 @@ In wie vielen Fällen sind nach der Bundestagswahl am 24.09.2017 Wahlwerbeplakat
 
 Welche Schritte sind in Bezug auf welche Standorte eingeleitet worden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

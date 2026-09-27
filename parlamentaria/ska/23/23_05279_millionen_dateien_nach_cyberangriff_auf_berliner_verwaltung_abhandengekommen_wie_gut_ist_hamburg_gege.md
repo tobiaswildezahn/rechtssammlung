@@ -8,12 +8,13 @@ datum_anfrage: "2026-09-08"
 datum_drucksache: "2026-09-15"
 urheber: ["Sascha Greshake"]
 fraktionen: ["CDU"]
-vorgang: null
+vorgang: 89160
 seiten: 6
 fragen: 21
 einzelfragen: 30
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["22/9253", "22/10836", "22/11235", "23/1929"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105183"

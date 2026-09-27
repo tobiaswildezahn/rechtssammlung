@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4800"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54153"
@@ -45,7 +46,7 @@ Wie viele Widersprüche wurden im Anmeldeverfahren für das Schuljahr 2016/2017 
 
 Wie viele der vorgenannten Widersprüche im Anmeldeverfahren für das Schuljahr 2016/2017 gegen die Zuweisung zu einer Grundschule wurden bisher wie beschieden und wie viele wurden noch nicht abschließend bearbeitet? Bitte für jeden Fall angeben, wann der jeweilige Widerspruch eingegangen ist und wann er gegebenenfalls beschieden wurde beziehungsweise, sofern eine Entscheidung noch aussteht, zu wann diese verbindlich zu erwarten ist.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1. Wann die noch offenen Fälle abgeschlossen sein werden, kann verbindlich nicht gesagt werden, da dies von dem Verhalten Dritter, nämlich der Sorgeberechtigten und der Verwaltungsgerichtsbarkeit, abhängig ist.
 
@@ -69,7 +70,7 @@ Wie viele Widersprüche wurden im Anmeldeverfahren für das Schuljahr 2016/2017 
 
 Wie viele der vorgenannten Widersprüche im Anmeldeverfahren für das Schuljahr 2016/2017 gegen die Zuweisung zu einer Stadtteilschule wurden bisher wie beschieden und wie viele wurden noch nicht abschließend bearbeitet? Bitte für jeden Fall angeben, wann der jeweilige Widerspruch eingegangen ist und wann er gegebenenfalls beschieden wurde beziehungsweise, sofern eine Entscheidung noch aussteht, zu wann diese verbindlich zu erwarten ist.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage 2. Im Vergleich zum Stand vom 10. Juni 2016 (135 von 136 offen) ergibt sich nun folgender Stand: Von 138 Widersprüchen sind noch 50 offen (Stand: 23. August 2016).
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62977"
@@ -55,7 +56,7 @@ Aus welchen Gründen wurde die Neuländerstraße, die in den Binnenhafen Harburg
 
 Warum findet dort keine Bautätigkeit statt? Welche Schwierigkeiten gibt es beim Abschluss der Arbeiten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Neuländer Straße ist zwischen Nartenstraße und Hannoversche Straße seit dem
 15. Dezember 2015 als Einbahnstraße in Richtung Harburger Binnenhafen eingerichtet. Es handelt sich hierbei nicht um die Verkehrsabsicherung einer Baumaßnahme, sondern um die Verbesserung der Leistungsfähigkeit einer ausgewiesenen Umleitungsstrecke der Baumaßnahme „Verlegung der Wilhelmsburger Reichsstraße“. Unmittelbar vor Ort ist damit keine Bautätigkeit verbunden. Da der Verkehr an der AS HH-Wilhelmsburg-Süd (Kornweide) von Süden kommend nicht mehr in Richtung Hafen abfahren kann, sondern über die AS Hamburg-Neuland und die Hannoversche Straße umgeleitet wird, wurde diese Einbahnstraßenregelung während der Bauzeit eingerichtet. An den betroffenen Knoten wurden die Ampelschaltungen angepasst, um den Verkehrsfluss zu optimieren. Diese Verkehrsführung wird voraussichtlich bis Mitte des Jahres 2020 andauern.

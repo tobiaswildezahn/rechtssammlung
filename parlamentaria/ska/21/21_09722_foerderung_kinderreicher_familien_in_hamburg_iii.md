@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7739", "21/9411"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58530"
@@ -51,7 +52,7 @@ Inwieweit besteht die Möglichkeit für kinderreiche Familien, bei Geburt eines 
 
 Inwieweit besteht die Möglichkeit für kinderreiche Familien, bei denen kein Anspruch auf eine mehr als fünfstündige Betreuung besteht, bei Geburt eines weiteren Geschwisterkindes den bewilligten Umfang der Kita-Betreuung für die Geschwister über eine fünfstündige Betreuung pro Tag hinaus auszudehnen, wenn die Familie für die Geschwisterkinder bislang lediglich eine täglich fünfstündige Betreuung in Anspruch genommen hat?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bei Geburt eines Kindes ist den anderen Kindern dieser Familie, denen bereits eine Kostenerstattung für eine Kita-Betreuung gewährt wird, diese im gleichen Umfang für vier Monate ab diesem Zeitpunkt weiter zu bewilligen. Anschießend ist auf Antrag der Personensorgeberechtigten eine Kostenerstattung für eine Betreuung im Rahmen des allgemeinen Rechtsanspruchs auf eine tägliche fünfstündige Betreuung in einer Kita zu gewähren. Eine Kostenerstattung für zeitlich darüber hinausgehende Betreuungsleistungen ist zu gewähren, wenn ein dringlicher sozial oder pädagogisch bedingter Förderbedarf des Kindes beziehungsweise der Kinder vorliegt oder wenn die Personensorgeberechtigen aufgrund einer Berufstätigkeit, einer Ausbildung oder der Teilnahme an einem Sprach- oder Integrationskurs die Betreuung nicht selbst übernehmen können. Ein dringlicher sozial oder pädagogisch bedingter Förderbedarf liegt zum Beispiel vor, wenn die Sorgeberechtigen aufgrund besonderer Lebenslagen nicht in der Lage sind, die Kinder angemessen zu versorgen und zu fördern.
 

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 19
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5351"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53984"
@@ -113,7 +114,7 @@ Welche der sechs Auflagen der Behörde für Inneres gemäß Vermerk vom 28.06.20
 
 Zur Begründung der sechs Auflagen führt die Behörde für Inneres zahlreiche Argumente an. Welche dieser Argumente trafen auch bereits auf die Situation während der früheren Mühlenkampfeste zu und warum blieben diese damals jeweils ohne Auswirkung? Bitte für jedes Argument einzeln darlegen.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antworten zu 1 und 6.
 

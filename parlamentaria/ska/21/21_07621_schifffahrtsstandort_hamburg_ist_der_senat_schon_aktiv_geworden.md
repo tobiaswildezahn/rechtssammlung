@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 14
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5849"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56233"
@@ -40,32 +41,56 @@ Vor diesem Hintergrund frage ich den Senat:
 ### Frage 1
 
 Laut Drs. 21/5849 ist es Ziel des Senats mit allen Akteuren des Schifffahrtsstandorts Hamburg abgestimmte Maßnahmen auf den Weg zu bringen. Ist dieser Maßnahmenplan bereits beschlossen?
-1.1. Wenn ja, welche Maßnahmen werden konkret umgesetzt und wann wird dieser Maßnahmenplan der Bürgerschaft vorgelegt?
-1.2. Bis wann werden welche Maßnahmen in Bezug auf den Schifffahrtsstandort konkret umgesetzt? Bitte nach kurz-, mittel- und langfristigen Maßnahmen unterscheiden.
-1.3. Welches finanzielle Volumen haben diese Maßnahmen jeweils?
-1.4. Wenn nein, warum nicht?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Wenn ja, welche Maßnahmen werden konkret umgesetzt und wann wird dieser Maßnahmenplan der Bürgerschaft vorgelegt?
+
+### Frage 1.2
+
+Bis wann werden welche Maßnahmen in Bezug auf den Schifffahrtsstandort konkret umgesetzt? Bitte nach kurz-, mittel- und langfristigen Maßnahmen unterscheiden.
+
+### Frage 1.3
+
+Welches finanzielle Volumen haben diese Maßnahmen jeweils?
+
+### Frage 1.4
+
+Wenn nein, warum nicht?
+
+#### Antwort zu Fragen 1, 1.1, 1.2, 1.3 und 1.4
 
 Der Senat ist weiterhin im Gespräch mit den Akteuren des Schifffahrtsstandorts Hamburg. Im Übrigen siehe Drs. 21/5849.
 
 ### Frage 2
 
 Laut Drs. 21/5849 werden die vorgeschlagenen Handlungsoptionen aus dem angesprochenen Gutachten auf Realisierbarkeit geprüft. Ist die Prüfung bereits abgeschlossen?
-2.1. Wenn ja, was sind die konkreten Ergebnisse?
-2.2. Wenn nein, warum nicht? Bis wann soll die Prüfung abgeschlossen sein?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Wenn ja, was sind die konkreten Ergebnisse?
+
+### Frage 2.2
+
+Wenn nein, warum nicht? Bis wann soll die Prüfung abgeschlossen sein?
+
+#### Antwort zu Fragen 2, 2.1 und 2.2
 
 Die Arbeiten dauern an. Im Übrigen siehe Drs. 21/5849.
 
 ### Frage 3
 
 Laut Drs. 21/5849 läuft der Bewertungs- und Planungsprozess hinsichtlich der verschiedenen Handlungsoptionen, aus diesem Grunde konnte noch nicht mitgeteilt werden bis wann bezüglich der jeweiligen Handlungsoptionen mit Ergebnissen zu rechnen ist. Ist der Bewertungs- und Planungsprozess nun abgeschlossen?
-3.1. Wenn ja, bis wann werden welche Handlungsoptionen in welchem Umfang umgesetzt?
-3.2. Wenn nein, warum nicht und bis wann soll der Bewertungs- und Planungsprozess abgeschlossen sein?
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+Wenn ja, bis wann werden welche Handlungsoptionen in welchem Umfang umgesetzt?
+
+### Frage 3.2
+
+Wenn nein, warum nicht und bis wann soll der Bewertungs- und Planungsprozess abgeschlossen sein?
+
+#### Antwort zu Fragen 3, 3.1 und 3.2
 
 Siehe Antwort zu 2. bis 2.2.
 

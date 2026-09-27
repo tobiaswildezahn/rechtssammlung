@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 16
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66247"
@@ -69,7 +70,7 @@ Wann startet die konkrete Projektplanung?
 
 Wann rechnet der Senat mit der endgültigen Fertigstellung des Neubaus der Anlage?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 2.
 

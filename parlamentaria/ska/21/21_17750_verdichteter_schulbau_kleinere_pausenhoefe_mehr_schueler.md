@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15380"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67353"
@@ -49,7 +50,7 @@ Gibt es in Hamburg formelle Grundlagen zur Schulhofgröße und -gestaltung? Wenn
 
 Sofern es formelle Grundlagen gibt: Was besagen diese ganz konkret in Bezug auf Schulhofgröße, gemessen an der Gesamtschülerschaft und naturnaher Gestaltung?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ja, siehe Musterflächenprogramm für inklusive allgemeinbildende Schulen mit Ganztagsangeboten in Hamburg, https://www.hamburg.de/contentblob/7396540/ 169c7c435cb9f0cc5f2b1dd496b8f2d9/data/mfp-down.pdf.
 
@@ -61,7 +62,7 @@ Mit Drs. 21/15380 hat die Hamburgische Bürgerschaft Ende 2018 beschlossen, dass
 
 Ist geplant, auch weiterführende Schulen in Bezug auf die Einrichtung von Natur-Erlebnis-Schulhöfen finanziell sowie in Form von Beratung zu unterstützen? Wenn ja, inwiefern? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Mit dem Zentrum für Schulbiologie und Umwelterziehung (ZSU) am Landesinstitut für Lehrerbildung und Schulentwicklung steht den Hamburger Schulen bereits seit 30 Jahren ein Angebot zur Verfügung, das außerschulische Lernorte mit Beratung und Fortbildung verbindet, siehe auch https://li.hamburg.de/zsu/. Das Angebot richtet sich an alle allgemeinen Schulen und alle Jahrgangsstufen und schließt auch die Beratung zur ökologischen Anlage von Schulgärten und Schulteichen ein. Seit Februar 2019 werden darüber hinaus Fortbildungen und Beratungen zur naturnahen Schulgeländegestaltung angeboten.
 

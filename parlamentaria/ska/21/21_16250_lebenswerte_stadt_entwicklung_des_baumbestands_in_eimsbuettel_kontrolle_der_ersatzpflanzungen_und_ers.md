@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15876"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65764"
@@ -85,7 +86,7 @@ Nach welchen Kriterien wird entschieden, ob im Sinne der Baumschutzverordnung ei
 
 Gibt es angesichts des stark rückgängigen Baumbestands in Eimsbüttel Pläne, diese Kriterien abzuändern?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Für zu fällende Bäume auf privatem Grund wird vom Antragsteller eine Bilanzierung  
 gefordert, die den zu entnehmenden Baumbestand nach den „Arbeitshinweisen zum  

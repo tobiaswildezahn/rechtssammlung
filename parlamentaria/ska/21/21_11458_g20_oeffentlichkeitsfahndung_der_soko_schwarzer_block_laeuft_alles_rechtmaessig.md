@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 18
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60567"
@@ -97,7 +98,7 @@ Inwiefern ist sichergestellt, dass die Subsidiaritätsklausel bei der Fahndung n
 
 Inwiefern wurde in jedem Einzelfall gegenüber den Gerichten mit Beweisen oder ausführlicher Begründung dargelegt, dass die Feststellung der Identität eines unbekannten Täters/einer Täterin auf andere Weise erheblich weniger Erfolg versprechend oder wesentlich erschwert wäre? Bitte genau darlegen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 

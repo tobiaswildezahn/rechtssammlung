@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 19
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48354"
@@ -219,7 +220,7 @@ Welche Defizite des aktuellen Konzepts der Unterbringung in entsprechenden Unter
 
 Welche Konsequenzen werden wann aus diesem Vorfall durch wen gezogen? a. Welche Konsequenzen wird es für das Unterkunftskonzept geben? b. Welche Konsequenzen wird es konkret für diese Unterkunft geben? Ist eine Verlegung der gewalttätigen Beteiligten in eine andere Unterkunft geplant und warum? c. Mit welchen Konsequenzen müssen die an den gewalttätigen Auseinandersetzungen Beteiligten rechnen? d. Wann werden die jeweiligen Konsequenzen umgesetzt?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Das seit Jahren bewährte Belegungskonzept von f & w sieht grundsätzlich eine ausgewogene Belegungsstruktur sowohl für die Standorte der ZEA als auch der Folgeunterkünfte vor. Hierbei wird auf die Mischbelegung von Nationalitäten und von Familien und Alleinstehenden großen Wert gelegt. Ein Belegungsverhältnis von bis zu 40 Prozent Alleinstehenden und 60 Prozent von Menschen, die in Familien leben, erweist sich als sozialverträglich.
 

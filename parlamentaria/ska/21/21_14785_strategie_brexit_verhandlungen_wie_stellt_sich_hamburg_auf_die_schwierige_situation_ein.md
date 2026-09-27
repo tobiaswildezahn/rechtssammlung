@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14757", "21/5657"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64226"
@@ -43,163 +44,163 @@ Welche der circa 60 Hamburger Gesetze und Vorschriften müssten konkret in welch
 
 Der Senat hat eine Reihe von Normen im Hamburger Landesrecht identifiziert. Dabei handelt es sich nach derzeitigem Sachstand um einzelne Vorschriften in folgenden Gesetzen:
 
-•  
+–  
 Abschiebungshaftvollzugsgesetz  
-•  
+–  
 Abwassergesetz  
-•  
+–  
 Anordnung über Zuständigkeiten im  
 Ausländer- und Asylrecht  
-•  
+–  
 Anordnung über Zuständigkeiten auf  
 dem Gebiet der Rechts- und Amtshilfe  
 gegenüber dem Ausland (JB)  
-•  
+–  
 Annahmestellenverordnung  
-•  
+–  
 Architektengesetz  
-•  
+–  
 Beamtengesetz  
-•  
+–  
 Beamtenversorgungsgesetz  
-•  
+–  
 Beihilfeverordnung  
-•  
+–  
 Berufsqualifikationsfeststellungsgesetz  
-•  
+–  
 Bezirksversammlungswahlgesetz  
-•  
+–  
 Bodenschutzgesetz  
-•  
+–  
 Datenschutzgesetz  
-•  
+–  
 Dolmetschergesetz  
-•  
+–  
 Dolmetscherverordnung  
-•  
+–  
 Elektro-Bergverordnung
 
-•  
+–  
 Ausbildungs- und Prüfungsordnung  
 Lebensmittelchemiker  
-•  
+–  
 Ausbildungs- und Prüfungsordnung für  
 Rettungssanitäterinnen und Rettungssanitäter  
-•  
+–  
 Bauordnung  
-•  
+–  
 Baugebührenordnung (BSW)  
-•  
+–  
 Bauprodukte-  
 Marktüberwachungsdurchführungsgesetz  
 (BSW)  
-•  
+–  
 Gesetz zum Staatsvertrag über die Errichtung einer gemeinsamen Einrichtung für  
 Hochschulzulassung  
-•  
+–  
 Gesundheitsdienstgesetz  
-•  
+–  
 Glücksspieländerungsstaatsvertrag-  
 Ausführungsgesetzes  
-•  
+–  
 Hafensicherheitsgesetz  
-•  
+–  
 Hafenverkehrsordnung  
-•  
+–  
 Hafenverkehrs- und Schifffahrtsgesetz
 
-•  
+–  
 EU-Laufbahnbefähigungsanerkennungsverordnung  
-•  
+–  
 FeuVO (BSW)  
-•  
+–  
 Gebührenordnung für das Hochschulwesen  
-•  
+–  
 Geodateninfrastrukturgesetz  
-•  
+–  
 Gesetz über das Hamburgische Verfassungsgericht  
-•  
+–  
 Gesetz über den Hamburgischen Versorgungsfonds  
-•  
+–  
 Gesetz über die Datenverarbeitung der  
 Polizei  
-•  
+–  
 Gesetz über die Durchführung der Aufgaben des Einheitlichen Ansprechpartners  
-•  
+–  
 Gesetz über die Zulassung einer öffentlichen Spielbank  
-•  
+–  
 Gesetz zu dem Abkommen über die  
 Zentralstelle der Länder für Gesundheitsschutz bei Arzneimitteln und Medizinprodukten  
-•  
+–  
 Gesetz zu dem Abkommen über die  
 Zentralstelle der Länder für Sicherheitstechnik und über die Akkreditierungsstelle der Länder für Mess- und Prüfstellen zum Vollzug des Gefahrstoffrechts  
-•  
+–  
 Gesetz zum Abkommen über das Deutsche Institut für Bautechnik  
-•  
+–  
 Verordnung über die Anerkennung von  
 Bildungsveranstaltungen  
-•  
+–  
 Verordnung über die Laufbahn der  
 Fachrichtung Bildung  
-•  
+–  
 Verordnung über die Zuständigkeit der  
 Amtsgerichte in Zivil- und Handelssachen sowie für die Erledigung inländischer Rechtshilfeersuchen
 
-•  
+–  
 HAVO  
-•  
+–  
 Hebammen-Berufsordnung  
-•  
+–  
 Hebammengesetz  
-•  
+–  
 Hochschulgesetz  
-•  
+–  
 Hochschulzulassungsgesetz  
-•  
+–  
 Ingenieursgesetz  
-•  
+–  
 Justizvollzugsdatenschutzgesetz  
-•  
+–  
 Kammergesetz für die Heilberufe  
-•  
+–  
 Katastrophenschutzgesetz  
-•  
+–  
 Kehrbezirksausschreibungsverordnung  
-•  
+–  
 Lebensmittelchemikergesetz  
-•  
+–  
 ÖRA-Gesetz  
-•  
+–  
 Patientenmobilitätsumsetzungsgesetz  
-•  
+–  
 Pressegesetz  
-•  
+–  
 Staatsvertrag zwischen dem Land Nordrhein-Westfalen und dem Freistaat Bayern übe die Zugehörigkeit der Mitglieder  
 der Patentanwaltskammer die ihren Kanzleisitz in Nordrhein-Westfalen eingerichtet  
 haben, zur Bayerischen Rechtsanwaltsund Steuerberaterversorgung (JB)  
-•  
+–  
 Seilbahngesetz  
-•  
+–  
 Spielerschutzverordnung  
-•  
+–  
 Spielordnung  
-•  
+–  
 Vergabeverordnung-Stiftung  
-•  
+–  
 Verordnung über anerkannte Fachbetriebe und Zertifizierungsorganisationen auf  
 dem Gebiet der Grundstücksentwässerung  
-•  
+–  
 Verordnung über Anforderungen an Wasser- und Abwasseruntersuchungsstellen  
 und deren Zulassung  
-•  
+–  
 Verordnung über Prüfingenieurinnen und  
 Prüfingenieure, Prüfsachverständige und  
 Technische Prüfungen  
-•  
+–  
 Versammlungsstättenverordnung  
-•  
+–  
 Verwaltungsverfahrensgesetz  
-•  
+–  
 VSU
 
 Welche konkreten Gesetzesanpassungen nötig sind, hängt vom Ausgang der Verhandlungen über den Brexit zwischen der Europäischen Union und dem Vereinigten Königreich ab.

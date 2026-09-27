@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5466"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56447"
@@ -90,7 +91,7 @@ Nach welchen Kriterien wird der Handelskammerbeitrag für Unternehmer festgelegt
 
 Gibt es auch für geringverdienende Selbstständige einen Pflichtbeitrag beziehungsweise gibt es Gruppen, die keinen Pflichtbeitrag leisten müssen? Wenn ja, warum nicht und welche Gruppen sind das?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nach § 3 Absatz 3 Sätze 2 bis 4 des Gesetzes zur vorläufigen Regelung des Rechts der Industrie- und Handelskammern (IHK-Gesetz) sollen bei der Höhe des Kammerbeitrages Art, Umfang und Leistungskraft des jeweiligen Mitgliedsunternehmens berücksichtigt werden und sind bestimmte Kammerzugehörige mit einem Gewerbeertrag beziehungsweise Gewinn bis 5.200 Euro sowie Existenzgründerinnen und Existenzgründer vom Beitrag befreit.
 
@@ -122,13 +123,13 @@ Mit welchem finanziellen Beitrag unterstützte die Hansestadt Hamburg die Handel
 
 Die Freie und Hansestadt Hamburg unterstützte die Handelskammer 2016 mit keinem finanziellen Beitrag. Folgende projektbezogene Kostenbeteiligungen gab es:
 
- rund 130.000 Euro für den Umbau des Hamburg Welcome Centers (siehe Drs.
+– rund 130.000 Euro für den Umbau des Hamburg Welcome Centers (siehe Drs.
 
 21/5466),
 
- rund 2.000 Euro für den 5. Hamburger Schifffahrtsdialog,
+– rund 2.000 Euro für den 5. Hamburger Schifffahrtsdialog,
 
- 3.000 Euro für den Hamburger Tourismustag.
+– 3.000 Euro für den Hamburger Tourismustag.
 
 ### Frage 7
 
@@ -156,49 +157,49 @@ Wenn die Kammerbeiträge abgeschafft würden, welche Maßnahmen, Projekte und so
 
 Die Betriebserträge der Handelskammer Hamburg speisen sich zu circa 81 Prozent aus den Kammerbeiträgen. Insbesondere folgende Leistungen der Geschäftsbereiche der Handelskammer sind beitragsfinanziert und könnten daher bei einer Abschaffung der Kammerbeiträge in der bisherigen Form voraussichtlich nicht mehr durchgeführt werden (Zahlenangaben beziehen sich auf das Jahr 2015):
 
- Geschäftsbereich I (Branchen/Cluster/Vor Ort): Betreuung der Cluster, Unterneh-
+– Geschäftsbereich I (Branchen/Cluster/Vor Ort): Betreuung der Cluster, Unterneh-
 
 merische Kulturförderung, Hamburger Immobilientreff, Vermittlertreffs, Branchenforen
 
- Geschäftsbereich II (Unternehmensförderung, Existenzgründung): 8.500 Existenz-
+– Geschäftsbereich II (Unternehmensförderung, Existenzgründung): 8.500 Existenz-
 
 gründungsberatungen, elektronische Gründungswerkstatt, 493 Stellungnahmen zu Förderanträgen, 32 Vor-Ort-Sprechtage in je sieben Bezirken, Unternehmerfrühstücke, allgemeine Betriebsberatung, 69 Krisenberatungen, Beratung von migrantischen Unternehmen, Unterstützung von 17 Business Improvement Districts (BID), handelsbezogene Informationsveranstaltungen zur digitalen Transformation
 
- Geschäftsbereich III (Marketing, Kommunikation, Mitgliederbeziehungen): Internet-
+– Geschäftsbereich III (Marketing, Kommunikation, Mitgliederbeziehungen): Internet-
 
 auftritt HK24, weitere Online-Dienstleistungsangebote, Handelskammer-Magazin „HW“ – Hamburger Wirtschaft, New-Kammer-Begrüßungsveranstaltungen, Zeitung „Handelskammer plus“, Erhebung und Pflege der Mitgliederdaten, Durchführung der Handelskammer-Wahlen
 
- Geschäftsbereich IV (Wirtschaftspolitik): Konjunkturanalysen, Steuerforen, Mitar-
+– Geschäftsbereich IV (Wirtschaftspolitik): Konjunkturanalysen, Steuerforen, Mitar-
 
 beit in Gremien der Metropolregion, Vertretung des Gesamtinteresses auf Podien, in politischen Gremiensitzungen, Erarbeitung von Grundsatzpositionen und Redeentwürfen, 2.050 Erstauskünfte zum Steuerrecht
 
- Geschäftsbereich V (Infrastruktur): Netzwerk- und Informationsveranstaltungen im
+– Geschäftsbereich V (Infrastruktur): Netzwerk- und Informationsveranstaltungen im
 
 Bereich Verkehr, 31 Stellungnahmen zu Bebauungsplänen, 76 Stellungnahmen zu Straßenverkehrsplanungen, 1.118 Stellungnahmen zu Neugründungen und Unternehmensveränderungen im Verkehrsgewerbe
 
- Geschäftsbereich VI (Innovation und Umwelt): 202 Energie- und Umweltberatun-
+– Geschäftsbereich VI (Innovation und Umwelt): 202 Energie- und Umweltberatun-
 
 gen bei Unternehmen vor Ort, Mitarbeit in der Innovationsallianz, Organisation des Hochschulforums der Wirtschaft, 5.037 Erstberatungen zu gewerblichen Schutzrechten
 
- Geschäftsbereich VII (International): 1.500 Beratungen zum Eintritt in ausländische
+– Geschäftsbereich VII (International): 1.500 Beratungen zum Eintritt in ausländische
 
 Märkte, 92 Länderinformationsveranstaltungen, Empfang von 170 ausländischen Delegationen, 250 Beratungen zu aufenthaltsrechtlichen Fragen, 6.500 Auskünfte zum Zoll- und Außenwirtschaftsrecht
 
- Geschäftsbereich VIII (Recht, Sachverständigenwesen, Streiterledigung): 4.357
+– Geschäftsbereich VIII (Recht, Sachverständigenwesen, Streiterledigung): 4.357
 
 allgemeine Rechtsauskünfte, Vermittlung von öffentlich bestellten Sachverständigen in 1.315 Fällen, 5.359 Handelsregisterstellungnahmen
 
- Geschäftsbereich IX (Berufsausbildung, Sach- und Fachkundeprüfungen): Han-
+– Geschäftsbereich IX (Berufsausbildung, Sach- und Fachkundeprüfungen): Han-
 
 seatische Lehrstellenbörse, Nachvermittlungsaktionen, Azubi-Speed-Dating, Bestenehrungen, Online-Lehrstellenbörse, Betreuung der Berufsschulen, Schulpreis der Hamburger Wirtschaft, Lehrerbetriebspraktikum, Schlichtungsverfahren in Berufsausbildungsverhältnissen von Sachverständigen
 
 Das System der Ausbildungsberatung und -prüfungen wird zu 50 Prozent aus Gebühren gedeckt. Ein Wegfall der Mitgliedsbeiträge führte daher zu einem Anstieg der Gebühren
 
- Geschäftsbereich X (Zentrale Aufgaben, Beteiligungsmanagement) mit Stäben:
+– Geschäftsbereich X (Zentrale Aufgaben, Beteiligungsmanagement) mit Stäben:
 
 Personalwesen, IT, Rechnungswesen, Commerzbibliothek, Archiv, Allgemeine Hausverwaltung
 
- Verschiedene Geschäftsbereiche: 166 Stellungnahmen zu Gesetzgebungsverfah-
+– Verschiedene Geschäftsbereiche: 166 Stellungnahmen zu Gesetzgebungsverfah-
 
 ren auf Landes-, Bundes- und EU-Ebene, 377 Informationsveranstaltungen zu unternehmensrelevanten Themen mit 28.160 Teilnehmern
 

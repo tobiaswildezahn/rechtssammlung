@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19064", "21/3165", "21/17798", "21/16762"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69034"
@@ -75,21 +76,21 @@ Den dem LfV Hamburg im Rahmen seiner gesetzlichen Aufgabenwahrnehmung bekannt ge
 
 Zudem wurden die folgenden Veranstaltungen unter „Ende Gelände Hamburg“ beziehungsweise durch diese genutzten Aktionsnamen beworben, wobei die Veranstaltung beziehungsweise Aktion nicht durch „Ende Gelände Hamburg“ selbst als Veranstalter angemeldet wurde:
 
- 12. September 2018 demonstrative Aktion vor dem Gebäude der RWE-Tochter
+– 12. September 2018 demonstrative Aktion vor dem Gebäude der RWE-Tochter
 
 innogy (nicht angemeldet),
 
- 15. März 2019 „Klimarevolution ins Rollen bringen!“ Fahrrad-Demonstration (ange-
+– 15. März 2019 „Klimarevolution ins Rollen bringen!“ Fahrrad-Demonstration (ange-
 
 meldet),
 
- 20. September 2019 „Sitzenbleiben!“ Blockaden nach „Fridays for Future“
+– 20. September 2019 „Sitzenbleiben!“ Blockaden nach „Fridays for Future“
 
 Demonstration (nicht angemeldet),
 
- 28. September 2019 „RWEgbassen“ DemoRave (angemeldet),
+– 28. September 2019 „RWEgbassen“ DemoRave (angemeldet),
 
- 04. Oktober 2019 „deCOALonize“ Demonstration (angemeldet) mit anschließender
+– 04. Oktober 2019 „deCOALonize“ Demonstration (angemeldet) mit anschließender
 
 Besetzung der Kattwyk-Brücke.
 
@@ -129,7 +130,7 @@ Beobachtet das LfV die Gruppe „Ende Gelände Hamburg“ ausschließlich in Bez
 
 Welche Kenntnisse hat das LfV zu personellen Überschneidungen von Personen des Bündnisses „Ende Gelände Hamburg“, die der „Interventionistischen Linken“ zugeordnet werden mit welchen anderen Gruppen, die im Bündnis „Ende Gelände Hamburg“ aktiv sind?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung und Antwort zu 4.
 

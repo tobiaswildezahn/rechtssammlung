@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 17
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1722", "21/1985", "21/4340", "21/8208"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58611"
@@ -55,7 +56,7 @@ Wie viele Stellen welcher Wertigkeit (laut Stellenplan) sind in den Präsidialab
 
 Wie viele Stellen welcher Wertigkeit (VZÄ) sind tatsächlich aktuell vorhanden und wie viele dieser Stellen sind besetzt? Bitte pro Behörde angeben. a. Welche Aufgaben werden von den aktuellen Stelleninhabern auf diesen Stellen in den Behörden jeweils (tatsächlich) wahrgenommen? Bitte pro Behörde angeben. b. Inwiefern hat es in den einzelnen Behörden beziehungsweise in der Senatskanzlei jeweils Änderungen gegenüber den Angaben des Senats in den Antwort auf die Schriftlichen Kleinen Anfragen Drs. 21/8208, Drs. 21/4340, Drs. 21/1985 und 21/1722 gegeben? Bitte pro Behörde darstellen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/8208. Im Übrigen siehe Anlage.
 

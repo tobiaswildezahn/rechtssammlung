@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4081", "21/6224", "21/7388", "21/8610", "21/9682", "20/13852", "21/218", "21/5102"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59451"
@@ -44,18 +45,36 @@ Der Senat beantwortet die Fragen teilweise auf Grundlage von Auskünften der HGV
 ### Frage 1
 
 Nutzung der Liquiditätshilfen:
-1.1. Welchen der im jeweiligen Haushaltsbeschluss genannten Unternehmen und Einrichtungen hat der Senat beziehungsweise die zuständige Behörde wann und warum im Zeitraum Juli bis September 2017 Liquiditätshilfen zur Verfügung gestellt?
-1.2. In welcher Höhe wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte jeweils zum Monatsende angeben.
-1.3. Wie lange und zu welchem Zins wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte keinen Durchschnittszins über alle Unternehmen wie in Drs. 20/13852 angeben.
-1.4. Woran orientiert sich jeweils die Höhe des Zinssatzes beziehungsweise wie wird sie ermittelt?
+
+### Frage 1.1
+
+Welchen der im jeweiligen Haushaltsbeschluss genannten Unternehmen und Einrichtungen hat der Senat beziehungsweise die zuständige Behörde wann und warum im Zeitraum Juli bis September 2017 Liquiditätshilfen zur Verfügung gestellt?
+
+### Frage 1.2
+
+In welcher Höhe wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte jeweils zum Monatsende angeben.
+
+### Frage 1.3
+
+Wie lange und zu welchem Zins wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte keinen Durchschnittszins über alle Unternehmen wie in Drs. 20/13852 angeben.
+
+### Frage 1.4
+
+Woran orientiert sich jeweils die Höhe des Zinssatzes beziehungsweise wie wird sie ermittelt?
 
 ### Frage 2
 
 Limite für die Liquiditätshilfen:
-2.1. Welche Veränderungen der für die Liquiditätshilfen festgelegten Limite hat es jeweils wann und aus welchen Gründen seit der Beantwortung der Schriftlichen Kleinen Anfrage in Drs. 21/9682 gegeben?
-2.2. Wie häufig, aus welchen Gründen und für jeweils welchen Zeitraum gab es im 3. Quartal 2017 bei welchen einzelnen Unternehmen und Einrichtungen Überschreitungen der Limite?
 
-#### Antwort zu Fragen 1 bis 2
+### Frage 2.1
+
+Welche Veränderungen der für die Liquiditätshilfen festgelegten Limite hat es jeweils wann und aus welchen Gründen seit der Beantwortung der Schriftlichen Kleinen Anfrage in Drs. 21/9682 gegeben?
+
+### Frage 2.2
+
+Wie häufig, aus welchen Gründen und für jeweils welchen Zeitraum gab es im 3. Quartal 2017 bei welchen einzelnen Unternehmen und Einrichtungen Überschreitungen der Limite?
+
+#### Antwort zu Fragen 1, 1.1, 1.2, 1.3, 1.4, 2, 2.1 und 2.2
 
 Siehe Anlage 1. Der Zinssatz betrug einheitlich 0,0 Prozent. Die für die Liquiditätshilfen festgelegten Limite haben sich nicht verändert. Limitüberschreitungen bestanden beim Landesbetrieb Planetarium in der Zeit vom 1. Juli bis zum 26. September 2017 aufgrund von Überschneidungen von Zahlungen des Landesbetriebes mit den entsprechenden Betriebskosten- und Investitionszuweisungen der Behörde für Kultur und Medien. Im Übrigen siehe Drs. 21/218, 21/4081, 21/5102, 21/6224, 21/7388, 21/8610 und 21/9682.
 

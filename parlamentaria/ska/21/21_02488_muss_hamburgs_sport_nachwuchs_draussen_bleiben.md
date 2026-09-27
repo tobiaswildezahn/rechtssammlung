@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 19
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2485", "20/2948"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50788"
@@ -53,7 +54,7 @@ c. inwiefern soll dem abgeholfen werden?
 
 Ist es richtig, dass die Mehrzweckhalle der Stadtteilschule Blankenese Vereinen nicht beziehungsweise nicht in gewünschtem Umfang zur Verfügung steht? Falls ja, a. aus welchem Grund? b. seit wann? c. inwiefern soll dem abgeholfen werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/2485.
 

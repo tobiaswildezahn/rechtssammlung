@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 26
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12430", "21/14604", "21/13611", "21/14056"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64584"
@@ -75,7 +76,7 @@ Im Bericht werden Betroffene weiter wiedergegeben: „Häufig bestünde Unsicher
 
 Welche Möglichkeiten sehen Senat beziehungsweise zuständige Behörde insbesondere für Mitglieder der Bezirksversammlungen, dass Aufwandsentschädigungen nicht auf Grundsicherungsleistungen für Arbeitsuchende als Einkommen angerechnet werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Freie und Hansestadt Hamburg (FHH) ist im Rahmen des SGB II ausschließlich für kommunale Leistungen zuständig, Fragen zur Anrechnung von Einkommen und Vermögen sind nicht umfasst. Die Zuständigkeit fällt in den Regelungsbereich des Bundes.
 
@@ -103,7 +104,7 @@ Inwieweit wurden die Handlungsempfehlungen zur Würdigung des Engagements von Er
 
 Welche (weiteren) Anstrengungen haben Senat und zuständige Behörde unternommen, um das ehrenamtliche Engagement insbesondere von Erwerbslosen in der Verwaltung und in den Bezirksversammlungen zu stärken?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung.
 

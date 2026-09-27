@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/1818", "19/53", "21/9976"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67217"

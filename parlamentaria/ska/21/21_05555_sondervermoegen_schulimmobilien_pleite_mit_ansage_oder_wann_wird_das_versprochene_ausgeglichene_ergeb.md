@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 39
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5317", "20/13000", "20/14000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54051"
@@ -113,7 +114,7 @@ Hält der Senat eine Anpassung der Mietzahlungen an das Sondervermögen angesich
 
 Wird auch die Miete für neugebaute Schulgebäude mit einer Abschreibungsdauer von 80 Jahren kalkuliert? Wenn ja, warum? Wenn nein, wann wurde dies geändert?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Ja. Bisher wurde keine Anpassung der Mieten im Hinblick auf eine Verkürzung der Abschreibungsdauer vorgenommen (siehe Antwort zu 22.). Im Übrigen sind die Überlegungen hierzu noch nicht abgeschlossen.
 
@@ -141,7 +142,7 @@ Welches Ergebnis hatten die im Jahresabschluss 2014 des Sondervermögens erwähn
 
 Inwiefern ist in den Dienstleistungsverträgen eine regelmäßige Anpassung der vom Sondervermögen zu tragenden Aufwendungen durch Indexierung vorgesehen?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Die Überlegungen und Verhandlungen hierzu sind noch nicht abgeschlossen.
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 19
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7723", "20/11507", "21/2853"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52300"
@@ -51,7 +52,7 @@ Welche Erkenntnisse liegen dem Senat beziehungsweise den zuständigen Behörden 
 
 Ist dem Senat beziehungsweise den zuständigen Behörden bewusst, dass das Treiben dieser gewerbsmäßig organisierten Bettelbanden eine zunehmende Belastung für die innerstädtischen Händler darstellt? Wenn ja, welche Gespräche mit welchen Interessensorganisationen hat der Senat dazu geführt und mit welchen Maßnahmen soll dieser Entwicklung Einhalt geboten werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Den zuständigen Behörden liegen Erkenntnisse über gewerbsmäßig organisierte Bettler im Sinne der Fragestellung nicht vor. Im Übrigen siehe Vorbemerkung und Drs. 20/7723.
 
@@ -87,7 +88,7 @@ Wie viele Ermittlungsverfahren gegen wie viele Tatverdächtige wurden aus Anlass
 
 Wie viele Einnahmen wurden bei gewerbsmäßig organisierten Bettlern in der Hamburger Innenstadt in den Jahren 2014 bis 2016 jeweils jährlich beschlagnahmt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 In der Polizeilichen Kriminalstatistik (PKS) werden die Fälle, für die gemäß Richtlinien der PKS eine Erfassungspflicht vorliegt, nach Abschluss der polizeilichen Ermittlungen bei Abgabe des Vorganges an die Strafverfolgungsbehörde oder das Gericht erfasst. Das in Frage 5. aufgeführte „gewerbsmäßige organisierte Betteln” ist keine gesonderte Katalogtat in der PKS. Es wird nach jeweiliger Sachlage gegebenenfalls unter „Sonstige weitere Betrugsarten” (PKS-Straftatenschlüssel 518900) erfasst. Unter diesem Straftatenschlüssel werden in der PKS alle Betrugstatbestände erfasst, für die keine gesonderten PKS-Straftatenschlüssel vorliegen. Zur Beantwortung der Frage wäre eine Auswertung sämtlicher Ermittlungs- und Handakten bei der Polizei erforderlich. Die Durchsicht von mehreren Hunderttausend Vorgängen des erfragten Zeitraumes ist in der zur Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -107,7 +108,7 @@ Im Jahre 2006 wurde auf Basis des Hamburgischen Wegegesetzes gegen die gewerbsm�
 
 Inwiefern bestehen bei den zuständigen Stellen Planungen, künftig verstärkt gegen die gewerbsmäßig organisierte Bettelei durch kriminelle Banden vorzugehen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Der Polizei liegen zurzeit keine Erkenntnisse im Sinne der Fragestellung vor. Im Übrigen siehe Vorbemerkung, Antwort zu 4. und Drs. 20/11507.
 

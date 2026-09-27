@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67056"
@@ -81,7 +82,7 @@ Auf welche Weise wird in den einzelnen Bereichen der Hamburger Polizei sicherges
 
 Inwieweit sind hierbei Probleme in den einzelnen Bereichen der Hamburger Polizei festzustellen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung.
 

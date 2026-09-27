@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 6
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14975"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64545"
@@ -49,7 +50,7 @@ Wie viele gelbe Warnhinweise (erste Aufforderung) wurden im vergangenen und im l
 
 Wie viele rote Aufkleber (zweite Aufforderung) wurden im vergangenen und im laufenden Jahr in den Bezirken jeweils erteilt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Ausgabe der gelben und roten Warnhinweise findet im Rahmen der regulären Begehungen statt. Eine Statistik wird hierüber in den Bezirken nicht geführt. Im Übrigen siehe Vorbemerkung.
 

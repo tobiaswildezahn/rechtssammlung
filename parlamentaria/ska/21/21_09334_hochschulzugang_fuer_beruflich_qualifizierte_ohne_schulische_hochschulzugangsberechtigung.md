@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58091"
@@ -133,29 +134,29 @@ Die Zentrale Studienberatung der UHH bietet fächerübergreifende studienunterst
 
 Studiengangspezifische Angebote der Fakultät Wirtschafts- und Sozialwissenschaften:
 
- verpflichtende Studienfachberatung in Form einer einwöchigen Orientierungsein-
+– verpflichtende Studienfachberatung in Form einer einwöchigen Orientierungsein-
 
 heit
 
- Interdisziplinäres Einführungsmodul
+– Interdisziplinäres Einführungsmodul
 
- Modul Grundlagen der Mathematik
+– Modul Grundlagen der Mathematik
 
- Deutsch als Wissenschaftssprache (fakultatives Zusatzangebot)
+– Deutsch als Wissenschaftssprache (fakultatives Zusatzangebot)
 
- Studienverlaufsberatung durch das Studienbüro Sozialökonomie
+– Studienverlaufsberatung durch das Studienbüro Sozialökonomie
 
 Angebote in Vorbereitung/Planung:
 
- Stärkung der Schreibausbildung im Rahmen des interdisziplinären Einführungs-
+– Stärkung der Schreibausbildung im Rahmen des interdisziplinären Einführungs-
 
 moduls
 
- Aufbau einer Beratungsstelle für die spezifischen Belange der Studierenden ohne
+– Aufbau einer Beratungsstelle für die spezifischen Belange der Studierenden ohne
 
 Abitur
 
- Einführung eines Studienlotsen-Modells
+– Einführung eines Studienlotsen-Modells
 
 Im Übrigen siehe Antwort zu 5.
 

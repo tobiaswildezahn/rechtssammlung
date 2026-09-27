@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66380"
@@ -43,7 +44,7 @@ Welche Freiwilligen Feuerwehren gibt es im Wahlkreis und wie hat sich die Person
 
 Wie hat sich die Anzahl der in Harburg in den Mini- und Jugendfeuerwehren aktiven Kinder und Jugendlichen seit dem Jahr 2017 entwickelt? Bitte pro Wehr jeweils zum Stichtag 1. Januar angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Bereich des Wahlkreises Harburg befinden sich die Wehren Neuland (F3913), Rönneburg (F3914), Sinstorf (F3915), Marmstorf (F3916), Harburg (F3922) und Eißendorf (F3926) der Freiwilligen Feuerwehr Hamburg. Die Entwicklung der Personalsituation gibt die nachfolgende Tabelle wieder.
 

@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 6
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62896"
@@ -43,7 +44,7 @@ Wie hat sich das Aufkommen der Grundsteuer A und B in Hamburg seit 2013 entwicke
 
 Wie hat sich das Aufkommen der Gewerbesteuer in Hamburg seit 2013 entwickelt? a. Wie hat sich das Volumen der Gewerbesteuerumlage in den jeweiligen Jahren entwickelt? b. In jeweils welchem Umfang verblieb die Gewerbesteuerumlage beim Land Hamburg und in jeweils welchem Umfang wurde sie an den Bund abgeführt? c. Wie verteilt sich das Gewerbesteueraufkommen nach Abzug der Umlage auf die Bezirke? (Bitte für alle Fragen jahresweise und für Frage 2.c. – soweit möglich – nach Bezirken differenziert auflisten.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage. Wie sich das Grund- und das Gewerbesteueraufkommen nach Abzug der Umlage auf die Bezirke verteilen, wird statistisch nicht erfasst und kann nachträglich nicht ermittelt werden.
 

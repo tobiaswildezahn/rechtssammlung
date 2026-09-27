@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 23
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10878", "21/15644"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68891"
@@ -55,7 +56,7 @@ Warum hat die zuständige Wissenschaftssenatorin im Nachgang keinen Kontakt mit 
 
 Warum hat die Universitätsleitung im Nachgang keinen Kontakt mit dem Opfer der Gewalttat aufgenommen beziehungsweise gab es mittlerweile eine Kontaktaufnahme der Universitätsleitung mit dem Opfer der Gewalttat? Wenn ja, wann? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/10878.
 
@@ -67,7 +68,7 @@ Hat die Wissenschaftsbehörde nach dem Vorfall in der eigenen Öffentlichkeitsar
 
 Hat die Universität Hamburg nach dem Vorfall in der eigenen Öffentlichkeitsarbeit ihre Verurteilung der Vorgänge kommuniziert? Wenn ja, wann, wie und durch welche Person? Wenn nein, warum nicht und ist eine solche Stellungnahme noch geplant?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 

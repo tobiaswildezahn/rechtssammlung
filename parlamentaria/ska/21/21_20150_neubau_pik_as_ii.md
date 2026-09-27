@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18090", "21/16901"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69927"
@@ -71,11 +72,11 @@ Nach welchen Kriterien wird nach einem Ersatzstandort für die Bauzeit gesucht?
 
 Folgende Kriterien sollen vom Ersatzstandort erfüllt werden:
 
- Nähe zum Innenstadtbereich, gute Verkehrsanbindung,
+– Nähe zum Innenstadtbereich, gute Verkehrsanbindung,
 
- möglichst gleiche Kapazität wie im bisherigen Standort,
+– möglichst gleiche Kapazität wie im bisherigen Standort,
 
- Platz für die Angebote des Pik As:
+– Platz für die Angebote des Pik As:
 
 o Gesundheitsflur,
 

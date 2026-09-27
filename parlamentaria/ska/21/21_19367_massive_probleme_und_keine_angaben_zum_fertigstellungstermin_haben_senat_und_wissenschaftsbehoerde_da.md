@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 22
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19156", "20/11997", "21/17764", "21/11997", "21/4313", "21/6044"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69079"
@@ -89,7 +90,7 @@ Wie hoch ist das Volumen der gekündigten Aufträge? In welcher Höhe wurden fü
 
 In welcher Höhe liegen Vertragserfüllungsbürgschaften für die gekündigten Aufträge vor?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Das Volumen der Aufträge, bei denen GMH in der Vergangenheit Kündigungen aussprechen musste, liegt bei 18,0 Millionen Euro netto. Auf Basis der derzeit bewerteten Leistungsstände wurden Zahlungen in Höhe von rund 3,8 Millionen Euro netto geleistet. Es liegen Vertragserfüllungsbürgschaften in Höhe von 0,6 Millionen Euro vor.
 

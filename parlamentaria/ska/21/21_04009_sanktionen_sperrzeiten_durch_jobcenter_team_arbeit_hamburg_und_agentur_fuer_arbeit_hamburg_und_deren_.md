@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 21
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/897"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52399"
@@ -55,7 +56,7 @@ In wie vielen Fällen sind 2015 bei Jobcenter team.arbeit.hamburg jeweils Sankti
 
 In wie vielen Fällen sind nach Frage 2. davon auch die Kosten der Unterkunft gestrichen wurden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlagen 3 und 4.
 
@@ -67,7 +68,7 @@ Wie hat sich jeweils die Sanktionsquote bei Jobcenter team.arbeit.- hamburg seit
 
 Wie hat sich jeweils die Sanktionsquote bei Leistungsbeziehern/-innen U25 gegenüber Ü25 bei Jobcenter team.arbeit.hamburg seit 2010 entwickelt? Bitte jeweils die Steigerungsquote ausweisen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlagen 5 bis 7.
 
@@ -135,7 +136,7 @@ Wie viele Widersprüche und Klagen gab es seit 2013 bis heute gegen die verhäng
 
 Wie viele Widersprüche und Klagen gab es seit 2013 bis heute gegen die Versagung beziehungsweise den Entzug von Leistungen nach § 66 SGB I im Rechtsbereich SGB II?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Durch den Statistik-Service der Bundesagentur für Arbeit erfolgt keine Auswertung im Sinne der Fragestellung.
 

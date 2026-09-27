@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 25
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4356", "21/4801", "21/2419"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53274"
@@ -164,7 +165,7 @@ Gibt es Initiativen, insbesondere auch durch Verbände der Szene, die mit Blick 
 
 Welche Strategie verfolgt der Senat bei der Bekämpfung des Crystal- Meth-Missbrauchs bei den verschiedenen Konsumentengruppen?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Die Hamburger Suchtprävention entwickelt in der Ständigen Arbeitsgruppe Suchtprävention (STAGS) mit den Fachstellen für Suchtprävention immer dann Strategien zur Minderung des missbräuchlichen und problematischen Konsums bestimmter Suchtmittel, wenn diese als Problem auftreten. Aktuell gibt es keine Erkenntnisse, dass dies bezogen auf Methamphetamin in Hamburg der Fall ist. Sollte das jedoch zukünftig eintreten, wird Hamburg auf die im Bund-Länder-Kooperationskreis Suchtprävention geprüften und zur Verfügung stehenden präventiven Mittel und Maßnahmen zurückgreifen.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14203", "21/2027"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66447"
@@ -43,7 +44,7 @@ Was ist der aktuelle Stand der Belastung des Grundwassers unter den Grundstücke
 
 Ist es richtig, dass sich die Schadstoffe von dem Grundstück Goldbekplatz 2 inzwischen fast bis zur Straße Poelchaukamp ausgebreitet haben? Wenn nein, bis wohin haben sich die Schadstoffe inzwischen ausgebreitet und wann wurden die letzten Bodenproben entnommen beziehungsweise von wann stammen die letzten verfügbaren Daten bezüglich der Ausbreitung der Schadstoffe?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Sachstände zur Belastung des Grundwassers unter dem Grundstück und im Abstrom haben sich seit Beantwortung der Drs. 21/2027 im November 2015 nicht grundlegend geändert. Die Belastung mit leichtflüchtigen chlorierten Kohlenwasserstoffen (LCKW) im Quellbereich hat zwar in den Jahren 2015 bis 2018 kontinuierlich abgenommen, trotzdem ist der Schaden weiterhin sanierungsrelevant.
 

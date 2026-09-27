@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51890"
@@ -67,7 +68,7 @@ Wie hoch ist der durchschnittliche Bruttoverdienst eines/einer Bauprüfers/Baupr
 
 Wie viel würde die Anstellung von 50 zusätzlichen Bauprüfern/-innen die Stadt kosten?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die bezirklichen Bauprüfer sind in der Regel in E 11 beziehungsweise A 11 oder als Bauprüfer mit besonderem Verantwortungsbereich als „Verfahrensmanager“ in E 12 beziehungsweise A 12 eingruppiert.
 
@@ -101,7 +102,7 @@ Wie gedenkt der Senat damit umzugehen, wenn die Erlöse respektive Mehrerlöse g
 
 Wird bei der Neueinstellung von 50 zusätzlichen Bauprüfern/-innen daran gedacht, Personalmittel aus anderen Bereichen abzuziehen und umzuverlagern? Wenn ja, woher und in welcher Dimension?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antwort zu 3.
 

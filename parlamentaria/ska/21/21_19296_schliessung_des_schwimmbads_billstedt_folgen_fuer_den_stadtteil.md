@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69005"
@@ -63,35 +64,35 @@ Welche Folgen hat die vorübergehende Schließung des Schwimmbads Billstedt für
 
 Sämtliche üblicherweise in Billstedt schwimmenden Schulklassen sind in Abstimmung mit der für Schule zuständigen Behörde in der Alster-Schwimmhalle untergebracht. Betroffen sind folgende Schulen:
 
- Brüder-Grimm-Schule
+– Brüder-Grimm-Schule
 
- Grundschule Archenholzstraße
+– Grundschule Archenholzstraße
 
- Grundschule Mümmelmannsberg
+– Grundschule Mümmelmannsberg
 
- Grundschule Rahewinkel
+– Grundschule Rahewinkel
 
- Regionales Bildungs- und Beratungszentrum Billstedt
+– Regionales Bildungs- und Beratungszentrum Billstedt
 
- Schule Am Schleemer Park/Billbrookdeich
+– Schule Am Schleemer Park/Billbrookdeich
 
- Schule Am Schleemer Park/Oberschleems
+– Schule Am Schleemer Park/Oberschleems
 
- Schule An der Glinder Au
+– Schule An der Glinder Au
 
- Schule Beim Pachthof
+– Schule Beim Pachthof
 
- Schule Bonhoefferstraße
+– Schule Bonhoefferstraße
 
- Schule Fuchsbergredder
+– Schule Fuchsbergredder
 
- Schule Speckenreye
+– Schule Speckenreye
 
- Schule Stengelestraße
+– Schule Stengelestraße
 
- Schule Sterntalerstraße
+– Schule Sterntalerstraße
 
- Schule Weidemoor
+– Schule Weidemoor
 
 ### Frage 3
 

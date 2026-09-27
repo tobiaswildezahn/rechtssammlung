@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7999"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56681"
@@ -71,7 +72,7 @@ Warum veröffentlicht die Behörde, dass Herr Jahn aus persönlichen Gründen ab
 
 Welche „Rahmenbedingungen“ führten zum Scheitern der Verhandlungen? a. Spielte hier die finanzielle Situation der TUHH eine Rolle? Wenn ja, welche? b. Spielten strategische Überlegungen über die Ausrichtung der TUHH eine Rolle? Wenn ja, welche? c. Welche weiteren oder anderen Faktoren spielten eine Rolle?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung und Drs. 21/7999.
 
@@ -83,7 +84,7 @@ Gibt es einen Nachrückkandidaten oder muss die Suche eines Präsidenten von vor
 
 Wie lange wird es dauern, bis die TUHH einen neuen Präsidenten hat?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Findungskommission wird ihre Arbeit wieder aufnehmen und eine Kandidatin beziehungsweise einen Kandidaten suchen. Sie legt dem Akademischen Senat dann einen neuen Personalvorschlag vor.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53120"
@@ -71,7 +72,7 @@ Ist geplant, 2016 beziehungsweise in den Folgejahren weitere „Bettelampeln“ 
 
 Gibt es ein regelhaftes Verfahren zur Überprüfung der Sinnhaftigkeit der „Bettelampeln“ und wenn ja, wie sieht dieses aus, welche Kriterien liegen einer Entscheidungsfindung zugrunde?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Eine Prüfung und Änderung erfolgt im Rahmen der ständigen Programmpflege der LSA unter Berücksichtigung der zur Verfügung stehenden personellen und finanziellen Ressourcen. Hierbei werden insbesondere im Hinblick auf die Kostenminderung Synergien im Zusammenhang mit Baumaßnahmen und Erneuerungen genutzt.
 

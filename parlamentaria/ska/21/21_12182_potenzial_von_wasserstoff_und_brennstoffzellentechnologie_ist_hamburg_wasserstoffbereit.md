@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61450"
@@ -57,15 +58,15 @@ Parallel zur Erprobung der Wasserstoff- und Brennstoffzellentechnologie in der P
 
 Bundes- und Länderministerien:
 
- Regelmäßige Zusammenarbeit und Abstimmung mit dem Bundesministerium für
+– Regelmäßige Zusammenarbeit und Abstimmung mit dem Bundesministerium für
 
 Verkehr und Digitale Infrastruktur (BMVI) zur Vorbereitung von Richtlinien und fachlichen Rahmenvorgaben beispielsweise bei der Mobilitäts- und Kraftstoffstrategie des Bundes für die Bereiche Busse und Schwerlastfahrzeuge (Lkw).
 
- Hamburg vertritt durch die hySOLUTIONS GmbH gemeinsam mit Baden-Württem-
+– Hamburg vertritt durch die hySOLUTIONS GmbH gemeinsam mit Baden-Württem-
 
 berg die Länder im fachlichen Beirat der Nationalen Organisation Wasserstoff- und Brennstoffzellentechnologie (NOW) als der vom Bund eingesetzten Koordinierungsstelle für die Wasserstoff- und Brennstoffzellentechnologie und bringt dort die aus hiesiger Sicht relevanten strategischen und fachlichen Gesichtspunkte für den weiteren Ausbau der Technologie und das Erreichen der Marktziele ein.
 
- Im Rahmen von Expertenforen wurden anhaltende Kontakte und ein regelmäßiger
+– Im Rahmen von Expertenforen wurden anhaltende Kontakte und ein regelmäßiger
 
 Austausch mit den für die Weiterentwicklung und Umsetzung der Wasserstofftechnologie zuständigen Instanzen unter anderem in den folgenden Ländern aufgebaut:
 
@@ -117,23 +118,23 @@ Gibt es Pläne vonseiten des Senats oder den zuständigen Behörden, die Erforsc
 
 Neben einer anhaltenden Zusammenarbeit in bereits bestehenden Partnerschaften etwa zum Ausbau der Tankstelleninfrastruktur (Eröffnung einer weiteren Tankstelle mit Wasserstoff im Sommer 2018) sind unter anderem die folgenden Projekte aktuell in Vorbereitung:
 
- Ausbau der Nutzung von Brennstoffzellen-Pkw im Bereich der Unternehmensflot-
+– Ausbau der Nutzung von Brennstoffzellen-Pkw im Bereich der Unternehmensflot-
 
 ten sowie bei innovativen Mobilitätsdienstleistungen (On-Demand-Verkehre)
 
- Vorbereitung des Einsatzes der nächsten Generation Brennstoffzellen-Pkw im
+– Vorbereitung des Einsatzes der nächsten Generation Brennstoffzellen-Pkw im
 
 Bereich von Taxen und Mietwagen
 
- Erweiterung der Nutzung von Brennstoffzellen auf Schiffen sowohl bei der Ener-
+– Erweiterung der Nutzung von Brennstoffzellen auf Schiffen sowohl bei der Ener-
 
 gieversorgung (KWK) für Kreuzfahrtschiffe wie auch dem Antrieb von Binnenschiffen
 
- Intensivierung der Zusammenarbeit und des fachlichen Austausches mit Partnern
+– Intensivierung der Zusammenarbeit und des fachlichen Austausches mit Partnern
 
 in China durch hySOLUTIONS als vom Bund beauftragte Koordinierungsstelle
 
- Vorbereitung des Einsatzes von Brennstoffzellenfahrzeugen für schwerere Lasten
+– Vorbereitung des Einsatzes von Brennstoffzellenfahrzeugen für schwerere Lasten
 
 im Bereich der Logistik
 

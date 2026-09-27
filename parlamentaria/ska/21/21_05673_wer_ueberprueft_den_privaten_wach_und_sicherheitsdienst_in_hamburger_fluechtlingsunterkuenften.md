@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 27
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3549", "21/3278", "21/4686", "21/5635", "21/1002", "21/1271", "21/1568", "21/1906", "21/2232", "21/2599", "21/2837", "21/3227", "21/3646", "21/3915", "21/4293", "21/4920", "21/5124", "21/5453"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54170"
@@ -95,19 +96,19 @@ Welche Anforderungen werden vonseiten der Stadt oder der Betreiber an die Kapita
 
 Grundsätzlich wird bei Ausschreibungsverfahren bezüglich der wirtschaftlichen Leistungsfähigkeit der Bieter gemäß Ziffer III.2.2 der EU-Auftragsbekanntmachung folgendes verlangt:
 
- Eigenerklärung über den Umsatz der letzten drei Betriebsjahre
+– Eigenerklärung über den Umsatz der letzten drei Betriebsjahre
 
- Vorlage einer allgemeinen Bankauskunft über wirtschaftliche Situation und Zah-
+– Vorlage einer allgemeinen Bankauskunft über wirtschaftliche Situation und Zah-
 
 lungsverhalten
 
- Unbedenklichkeitsbescheinigung des Finanzamtes
+– Unbedenklichkeitsbescheinigung des Finanzamtes
 
- Unbedenklichkeitsbescheinigung der Berufsgenossenschaft
+– Unbedenklichkeitsbescheinigung der Berufsgenossenschaft
 
- Unbedenklichkeitsbescheinigung von zwei Krankenkassen
+– Unbedenklichkeitsbescheinigung von zwei Krankenkassen
 
- Auszug aus dem Gewerbezentralregister
+– Auszug aus dem Gewerbezentralregister
 
 Darüber hinausgehende Vorgaben zur Kapitalausstattung bestehen nicht.
 

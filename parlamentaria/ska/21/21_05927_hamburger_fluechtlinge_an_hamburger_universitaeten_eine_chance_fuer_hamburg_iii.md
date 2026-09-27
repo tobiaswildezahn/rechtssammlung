@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1632", "21/4156", "21/4395"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54463"
@@ -75,7 +76,7 @@ Auf welche Höhe lassen sich derzeit die Finanzierungsbedarfe und die Bedarfe an
 
 Mit wie vielen Flüchtlingen, die sich an den Hamburger Universitäten und Hochschulen einschreiben werden/wollen, rechnet der Senat beziehungsweise die zuständige Behörde derzeit? Welcher prognostizierte Finanzierungsbedarf ergibt sich daraus? Welche Mittel in welcher Höhe wird der Senat beziehungsweise die zuständige Behörde für diesen Finanzierungsbedarf in den Haushalt einstellen? Wie wird dieser Finanzierungsbedarf gegenfinanziert?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Das Interesse von Geflüchteten an einem Hochschulstudium ist nach wie vor schwer zu prognostizieren. Verlässliche Informationen hierüber liegen weder bundesweit noch bezogen auf Hamburg vor. Auch hinsichtlich der Qualifikationen der Geflüchteten ist die Datenlage noch nicht ausreichend, um verlässliche Schätzungen abgeben zu können. Zukünftige Finanzierungsbedarfe lassen sich vor diesem Hintergrund zum jetzigen Zeitpunkt weder hinsichtlich ihrer Notwendigkeit noch ihrer Höhe realistisch vorhersagen.
 

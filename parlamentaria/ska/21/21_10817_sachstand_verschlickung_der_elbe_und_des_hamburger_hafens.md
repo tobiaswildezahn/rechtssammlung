@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 17
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8323", "21/10140"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59730"
@@ -105,6 +106,6 @@ Welche Pläne hat der Senat beziehungsweise die zuständige Behörde, die Verbri
 
 In einem Interview äußerte Senator Horch sich folgendermaßen zu der Verbringung auf offener See: „Auf längere Sicht sehe ich darin eine gute Erweiterungsmöglichkeit mit dem Thema Sedimente fertig zu werden." Ist diese Möglichkeit in der Zwischenzeit geprüft worden? Wenn ja, mit welchem Ergebnis? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Antworten zu 6. und zu 7.

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13821", "21/13388"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63216"
@@ -122,7 +123,7 @@ Wie viele Verstöße gegen die zulässige Höchstgeschwindigkeit wurden im erste
 
 Wie viele Verstöße gegen die zulässige Höchstgeschwindigkeit wurden jeweils im Vergleichszeitraum erstes Halbjahr 2017 mit den stationären sowie den mobilen Geschwindigkeitsüberwachungsanlagen gezählt? Wie hoch waren die daraus generierten Bußgelder?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Anzahl der an diesen Anlagen erfassten und zur Anzeige gebrachten Geschwindigkeitsverstöße sowie die beim Einwohner-Zentralamt ausgewiesenen Einnahmen im Rahmen von Verwarnungs- und Bußgeldern sind der nachfolgenden Tabelle zu entnehmen:
 

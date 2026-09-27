@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49137"
@@ -63,7 +64,7 @@ Welche Ausweichstrecken waren jeweils ausgeschildert?
 Gab es Staus, Unfälle oder weitere Probleme auf den Ausweichstrecken?
 a) Wenn ja, welche?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Umleitung für die Sperrung am 21. bis 22. März 2015:
 
@@ -116,7 +117,7 @@ Welche zukünftigen Sperrungen wird es im Jahr 2015 geben?
 
 Welche Ausweichstrecken sind hierfür jeweils eingeplant?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Für 2015 sind weitere nächtliche Sperrungen vorgesehen. Die aktuelle Planung sieht vor:
 

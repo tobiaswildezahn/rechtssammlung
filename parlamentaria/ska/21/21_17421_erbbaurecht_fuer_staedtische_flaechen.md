@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15607", "21/15595"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67006"
@@ -92,7 +93,7 @@ Welche rechtlichen oder tatsächlichen Nachteile sieht der Senat, wenn ein Verä
 
 Für welche Fälle ist aus Sicht des Senats ein Verkauf städtischer Grundstücke der Vergabe im Erbbaurecht vorzuziehen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung.
 

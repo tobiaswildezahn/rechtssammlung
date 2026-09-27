@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9448"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58556"
@@ -57,137 +58,137 @@ Folgende Akteure wurden von den Bezirksämtern um Terminvorschläge gebeten:
 
 Bezirk Hamburg-Mitte
 
-• Andronaco
+– Andronaco
 
-• Billstedt Center Hamburg
+– Billstedt Center Hamburg
 
-• City Management Hamburg
+– City Management Hamburg
 
-• Detlev Louis Motorrad-Vertriebsgesellschaft mbH
+– Detlev Louis Motorrad-Vertriebsgesellschaft mbH
 
-• EDEKA Nord Handelsgesellschaft mbH / Rindermarkthalle
+– EDEKA Nord Handelsgesellschaft mbH / Rindermarkthalle
 
-• Interessengemeinschaft Lange Reihe
+– Interessengemeinschaft Lange Reihe
 
-• Who‘s perfect
+– Who‘s perfect
 
 Bezirk Altona
 
-• Elbe-Einkaufszentrum in Osdorf
+– Elbe-Einkaufszentrum in Osdorf
 
-• IKEA
+– IKEA
 
-• Interessengemeinschaft Neue Große Bergstraße
+– Interessengemeinschaft Neue Große Bergstraße
 
-• Media Markt
+– Media Markt
 
-• Mercado
+– Mercado
 
 Bezirk Eimsbüttel
 
-• BAUHAUS GmbH & Co. KG Hansa
+– BAUHAUS GmbH & Co. KG Hansa
 
-• Bauhaus Kieler Straße
+– Bauhaus Kieler Straße
 
-• BCM Center Management GmbH - c/o Tibarg Center
+– BCM Center Management GmbH - c/o Tibarg Center
 
-• BID-/Quartiersmanagement Tibarg Arbeitsgemeinschaft Tibarg e.V.
+– BID-/Quartiersmanagement Tibarg Arbeitsgemeinschaft Tibarg e.V.
 
-• Detlef Louis Motorrad-Vertriebsgesellschaft mbH
+– Detlef Louis Motorrad-Vertriebsgesellschaft mbH
 
-• Herz von Schnelsen e.V.
+– Herz von Schnelsen e.V.
 
-• Höffner Möbelgesellschaft GmbH & Co. KG
+– Höffner Möbelgesellschaft GmbH & Co. KG
 
-• HORNBACH Baumarkt AG/624 Hamburg
+– HORNBACH Baumarkt AG/624 Hamburg
 
-• IKEA Deutschland GmbH & Co. KG
+– IKEA Deutschland GmbH & Co. KG
 
-• METRO
+– METRO
 
-• Osterstraße e.V.
+– Osterstraße e.V.
 
-• Plaza Baumarkt
+– Plaza Baumarkt
 
 Bezirk Hamburg-Nord
 
-• ECE Hamburger Meile
+– ECE Hamburger Meile
 
-• Familia Handelsmarkt, Eichenlohweg 17
+– Familia Handelsmarkt, Eichenlohweg 17
 
-• IG des Einzelhandels Hofweg und Papenhuder Straße
+– IG des Einzelhandels Hofweg und Papenhuder Straße
 
-• IG Fuhlsbüttler Straße e.V.
+– IG Fuhlsbüttler Straße e.V.
 
-• IG Mühlenkamp e.V. – rund um den Mühlenkamp
+– IG Mühlenkamp e.V. – rund um den Mühlenkamp
 
-• IG Ochsenzoll e.V., Schmuggelstieg
+– IG Ochsenzoll e.V., Schmuggelstieg
 
-• Martens Maßmann – Mundsburg-Center
+– Martens Maßmann – Mundsburg-Center
 
-• Nedderfeld-Center
+– Nedderfeld-Center
 
 Bezirk Wandsbek
 
-• Alstertal-Einkaufszentrum
+– Alstertal-Einkaufszentrum
 
-• BAUHAUS GmbH & Co. KG
+– BAUHAUS GmbH & Co. KG
 
-• Bilfinger Real Estate GmbH JEN/Einkaufscenter Jenfeld
+– Bilfinger Real Estate GmbH JEN/Einkaufscenter Jenfeld
 
-• City Wandsbek e.V.
+– City Wandsbek e.V.
 
-• Duvenstedt aktiv e.V.
+– Duvenstedt aktiv e.V.
 
-• Einkaufstreffpunkt Farmsen
+– Einkaufstreffpunkt Farmsen
 
-• EKZ Steilshoop
+– EKZ Steilshoop
 
-• Estama GmbH Rahlstedt Center
+– Estama GmbH Rahlstedt Center
 
-• Hagebaumarkt
+– Hagebaumarkt
 
-• IGOR Rahlstedt
+– IGOR Rahlstedt
 
-• Interessengemeinschaft Einkaufszentrum Volksdorf e.V.
+– Interessengemeinschaft Einkaufszentrum Volksdorf e.V.
 
-• Kabs Service & Logistik GmbH
+– Kabs Service & Logistik GmbH
 
-• Marktplatzgalerie Bramfeld
+– Marktplatzgalerie Bramfeld
 
-• NETTO Marken Discount AG & Co. KG
+– NETTO Marken Discount AG & Co. KG
 
-• ROLLER GmbH & Co. KG
+– ROLLER GmbH & Co. KG
 
-• toom Baumarkt GmbH
+– toom Baumarkt GmbH
 
-• Werbegemeinschaft Frahmredder-Stormarnplatz
+– Werbegemeinschaft Frahmredder-Stormarnplatz
 
-• Werbegemeinschaft Quarree Wandsbek Markt GbR
+– Werbegemeinschaft Quarree Wandsbek Markt GbR
 
 Bezirk Bergedorf
 
-• Verein Wirtschaft und Stadtmarketing für die Region Bergedorf e.V. (WSB)
+– Verein Wirtschaft und Stadtmarketing für die Region Bergedorf e.V. (WSB)
 
 Bezirk Harburg
 
-• Bauhaus
+– Bauhaus
 
-• Citymanagement Harburg e. V.
+– Citymanagement Harburg e. V.
 
-• Handelshof
+– Handelshof
 
-• Harburg Arcaden
+– Harburg Arcaden
 
-• Kabs.
+– Kabs.
 
-• Kock & Sack
+– Kock & Sack
 
-• Marktkauf
+– Marktkauf
 
-• Obi
+– Obi
 
-• Poco
+– Poco
 
 ### Frage 3
 

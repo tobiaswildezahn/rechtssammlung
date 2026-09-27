@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7126", "21/1078", "20/11339", "20/12774", "20/10388", "20/9431"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50332"
@@ -71,21 +72,21 @@ Ist die zu Punkt 41 des Maßnahmenkatalogs in Drs. 20/10388 in Aussicht gestellt
 
 Die Auswertungen des im März 2015 veröffentlichten Bildungsberichts der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD) „The ABC of Gender Equality in Education: Aptitude, Behaviour and Confidence“ sowie der ersten Veröffentlichungen zur Studie „School Alienation, Patriarchal Gender-Role Orientations and the Lower Educational Success of Boys. A Mixed-method Study“ von Hdjar, Backens und Gysin (Ergebnisse aus Luxemburg und Schweiz) sind noch nicht abgeschlossen. Folgende bestehende Handlungsfelder haben für die pädagogische Praxis weiterhin eine hohe Bedeutung und sollen deshalb fortgeführt und gegebenenfalls erweitert werden:
 
- Interesse von Mädchen für MINT-Themen im Elternhaus, in der Kindestagesstätte
+– Interesse von Mädchen für MINT-Themen im Elternhaus, in der Kindestagesstätte
 
 und in der Schule wecken und entsprechende Kompetenzen fördern,
 
- Leseinteresse und -kompetenz von Jungen im Elternhaus, in der Kindestagesstätte
+– Leseinteresse und -kompetenz von Jungen im Elternhaus, in der Kindestagesstätte
 
 und in der Schule wecken und fördern,
 
- Reflexion von Geschlechterrollen als Unterrichtsthema aufgreifen,
+– Reflexion von Geschlechterrollen als Unterrichtsthema aufgreifen,
 
- im Rahmen der Berufswege- und Lebensplanung Fragen der Geschlechtergerech-
+– im Rahmen der Berufswege- und Lebensplanung Fragen der Geschlechtergerech-
 
 tigkeit bearbeiten,
 
- Umgang mit „schwierigen“ Jungen – Zusammenarbeit zwischen Schule und
+– Umgang mit „schwierigen“ Jungen – Zusammenarbeit zwischen Schule und
 
 Elternhaus stärken.
 

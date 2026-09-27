@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61588"
@@ -119,6 +120,6 @@ Ist dem Senat bekannt, dass Facebook durch Social Plugins Daten sammelt, auch we
 
 Wenn ja, wie bewertet der Senat die Praxis von Facebook durch die Nutzung von Social Plugins, Daten zu sammeln?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Ja, im Übrigen korrespondiert dem parlamentarischen Fragerecht ein Anspruch auf Auskünfte, nicht aber auf meinungsbildende Stellungnahmen (vergleiche ThürVerfGH, Urt. v. 19.12.2008 – 35/07 –, juris Rn. 177), der Senat sieht daher in ständiger Praxis davon ab, Geschäftsmodelle von privaten Unternehmen zu bewerten. Die Bewertung, ob Unternehmen im Einklang mit den datenschutzrechtlichen Bestimmungen agieren, obliegt darüber hinaus den insoweit unabhängigen Datenschutzbehörden.

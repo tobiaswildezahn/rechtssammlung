@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10535", "20/11282", "20/12994", "20/13149", "21/157", "21/3530", "21/4424", "21/4535", "21/8343", "21/14427", "21/8362"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66519"
@@ -75,6 +76,6 @@ Wie viele Hamburger Kinder und Jugendliche, für die aktuell Genehmigungen zur g
 
 In den Drs. 21/4535 und 21/8362 gab die zuständige Behörde an, dass sie für 2016 und die Folgejahre von einem Platzbedarf von circa zehn bis zwölf Neuaufnahmen pro Jahr ausginge. Hält sie an dieser Einschätzung fest? Falls nein, weshalb nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/14427. Bei einem Beschluss auf Basis des § 34 SGB VIII i.V.m. § 1631b BGB setzen die zuständigen Familiengerichte den Nachweis eines Unterbringungsplatzes voraus.

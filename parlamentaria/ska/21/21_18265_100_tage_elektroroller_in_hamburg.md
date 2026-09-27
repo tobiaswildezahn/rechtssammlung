@@ -14,6 +14,7 @@ fragen: 35
 einzelfragen: 43
 antwortbloecke: 24
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67900"
@@ -69,7 +70,7 @@ Hält der Senat es für relevant in Erfahrung zu bringen, welchen Verkehrsträge
 
 Wenn der Senat keine eigenen Methoden/Mittel anwendet, wie erhält der Senat Informationen darüber, welche Verkehrsträger die jetzigen Nutzer von E-Roller genutzt haben, als dieser noch nicht zu Verfügung stand?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Grundsätzlich hat die zuständige Behörde ein Interesse daran, Informationen über das Nutzerverhalten von E-Scooter-Fahrerinnen und -Fahrern zu erhalten. Über geeignete Möglichkeiten einer Erhebung beziehungsweise Evaluation wird zu einem späteren Zeitpunkt entschieden, wenn der Markt sich stabilisiert hat.
 
@@ -152,7 +153,7 @@ Wie sieht die durchschnittliche, wöchentliche Leihstatistik für E-Roller aller
 
 Wie sieht die Verleihstatistik für den Monat August 2019, gegliedert nach Verleihfirma oder wenn nicht darstellbar, über alle in Hamburg tätigen Verleihfirmen hinweg, aus?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Nach den momentan zur Verfügung stehenden Informationen werden E-Scooter pro Tag im Durchschnitt etwa dreimal ausgeliehen. Für weitere Erkenntnisse fehlen der zuständigen Behörde derzeit die Datengrundlagen.
 
@@ -222,7 +223,7 @@ Rechnet der Senat durch den Einsatz von Tausenden von E-Rollern mit einer Verbes
 
 Ist für den Senat anhand seiner bisherigen Erkenntnisse erkennbar, dass der Einsatz der E-Roller sich bereits jetzt positiv auf die Luftqualität auswirkt?
 
-#### Antwort zu Fragen 23 bis 24
+#### Antwort zu Fragen 23 und 24
 
 Der Einfluss der Nutzung von E-Scootern auf die Luftqualität ist derzeit nicht ermittelbar.
 
@@ -300,11 +301,11 @@ Weisen die bei diesen Unfällen verletzten Personen ein spezifisches Verletzungs
 
 Soweit die Hamburger Plankrankenhäuser die entsprechenden Daten erfasst haben, werden folgende Verletzungen angegeben:
 
- Kopfverletzungen, zum Beispiel Platzwunden, Gehirnerschütterungen,
+– Kopfverletzungen, zum Beispiel Platzwunden, Gehirnerschütterungen,
 
- Verletzungen an den Extremitäten in Form von Frakturen und Luxationen,
+– Verletzungen an den Extremitäten in Form von Frakturen und Luxationen,
 
- Prellungen von Kopf, Gliedmaßen und Hüfte.
+– Prellungen von Kopf, Gliedmaßen und Hüfte.
 
 ### Frage 34
 

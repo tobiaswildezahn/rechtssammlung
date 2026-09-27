@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 27
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13044", "21/2108", "21/13261", "21/12038"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63181"
@@ -49,7 +50,7 @@ Wie viele Personen waren in der örU Am Rehagen Ende Juni 2018 untergebracht?
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 0-17  
 18+  
@@ -232,7 +233,7 @@ Welche Angebote werden den Flüchtlingen zu jeweils welchen Zeiten in welchen R�
 
 Wie viele Ehrenamtliche sind eingesetzt und wie helfen sie?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Aktuell findet circa einmal wöchentlich ein Begegnungscafé durch Freiwillige in den Gruppenräumen der Einrichtung statt. Dieses dient als Plattform für künftige Angebote. Auch mit Kindern finden in diesem Rahmen Angebote statt (zum Beispiel Basteln).
 

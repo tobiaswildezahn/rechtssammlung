@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17970"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67626"
@@ -43,7 +44,7 @@ Wie viele Belegärzte gibt es in welchen Fächern in Hamburg?
 
 In welchen Krankenhäusern sind diese Belegärzte tätig?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Krankenhaus  
 Anzahl Belegärztinnen/Belegärzte  

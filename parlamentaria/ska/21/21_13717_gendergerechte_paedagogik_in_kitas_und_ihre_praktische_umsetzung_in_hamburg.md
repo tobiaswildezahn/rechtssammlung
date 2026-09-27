@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12408", "21/11341"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63094"
@@ -83,7 +84,7 @@ Im Hinblick auf die starken Reaktionen und die Debatte, die die Kita- Broschüre
 
 Gibt es eine vergleichbare Debatte in Hamburger Kitas dazu?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Senat hat sich hiermit nicht befasst.
 

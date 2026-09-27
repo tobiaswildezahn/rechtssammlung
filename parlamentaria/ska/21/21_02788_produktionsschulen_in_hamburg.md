@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 18
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/2928", "19/8472"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51096"
@@ -245,7 +246,7 @@ Aus welchen Haushaltstiteln wurden beziehungsweise werden die Produktionsschulen
 
 Wie haben sich die lnvestitionszuwendungen für Produktionsschulen in freier Trägerschaft seit 2009 entwickelt?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Die Informationen zu den Haushaltsmitteln für laufende Kosten und Investitionszuschüsse werden aufgeschlüsselt nach den jeweiligen Trägern der Produktionsschulen in den Anlagen 4 bis 7 dargestellt. Aus diesen Übersichten ergeben sich auch die jeweiligen Haushaltstitel (kamerale Haushaltsführung) beziehungsweise Produktgruppen (doppische Haushaltsführung).
 

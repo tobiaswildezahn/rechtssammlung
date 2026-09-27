@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3586", "21/2623", "21/1706", "21/1674", "21/1204", "21/1104", "21/954", "20/13460"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52180"
@@ -95,11 +96,11 @@ Ab dem Schuljahr 2015/2016 werden Schülerinnen und Schüler der allgemeinbilden
 
 In der Fallarbeit mit jungen Menschen, die sich radikalisieren, kooperieren die zuständigen Behörden und Ämter, um alle relevanten Aspekte des Falles zu berücksichtigen und die dafür notwendigen Fachkompetenzen einzubinden; ein Beispiel hierfür sind die Gefährderkonferenzen der Jugendhilfe mit dem Landeskriminalamt. Grundsätzlich bestehen folgende Möglichkeiten der Intervention:
 
- Ausreiseverbot unter Einbeziehung des Familiengerichtes – Einbehalten der Aus-
+– Ausreiseverbot unter Einbeziehung des Familiengerichtes – Einbehalten der Aus-
 
 weispapiere durch die Sorgeberechtigten,
 
- Maßnahmen der Jugendhilfe nach §§27 fortfolgende SGBVIII (Hilfen zur Erzie-
+– Maßnahmen der Jugendhilfe nach §§27 fortfolgende SGBVIII (Hilfen zur Erzie-
 
 hung).
 

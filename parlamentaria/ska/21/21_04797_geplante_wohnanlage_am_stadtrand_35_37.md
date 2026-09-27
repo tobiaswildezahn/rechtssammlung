@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53228"
@@ -51,7 +52,7 @@ Wie viele Plätze können angeboten werden und mit wie vielen Personen werden di
 
 Für wie viele Personen wird a. der Küchenbereich, b. der Sanitärbereich geplant?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Einrichtung soll für 688 Bewohner angeboten werden. Es entstehen dabei 160 Wohnungen mit jeweils ein bis zwei Zimmern, eigener Küche und Bad. Die Belegung der Wohnungen soll mit zwei Personen erfolgen.
 

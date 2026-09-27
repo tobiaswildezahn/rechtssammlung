@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6091"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57256"
@@ -57,7 +58,7 @@ Sind die Überlegungen des Senates beziehungsweise der zuständigen Behörde hin
 
 Im Falle einer Fortführung: Gibt es darüber hinaus Überlegungen zur Erweiterung des Projekts? Wenn ja, mit welcher Zielstellung und unter welchen Rahmenbedingungen? Bitte jeweils erläutern.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Auch ohne die endgültigen Ergebnisse abzuwarten, haben sich bereits positive Tendenzen des Programms gezeigt. Tiefgreifende Veränderungsprozesse, die Wirkung
 

@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9092"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59446"
@@ -47,7 +48,7 @@ Die Umwandlung in Kunstrasenplätze sollte zum Herbst 2017 abgeschlossen sein. W
 
 Sind die Überlegungen für den zweiten Platz inzwischen abgeschlossen? Wenn ja, mit welchem Ergebnis?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Bautätigkeit konnte noch nicht aufgenommen werden. Es bedarf weiterer Abstimmungen. Der Baubeginn wurde in das Frühjahr 2018 verlegt. Darüber hinaus siehe Drs. 21/9092.
 

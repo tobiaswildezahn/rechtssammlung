@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12825"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63435"
@@ -119,7 +120,7 @@ Ist es erlaubt, parteinahes Stiftungsmaterial in den Räumlichkeiten/der Bibliot
 
 Welches parteinahe Stiftungsmaterial liegt derzeit in den Räumlichkeiten/der Bibliothek der Landeszentrale für politische Bildung aus/ist im Bestand? Bitte die vollständigen Titel angeben.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Alle von der Landeszentrale geförderten 14 anerkannten Träger politischer Bildung, darunter befinden sich die derzeit fünf parteinahen Stiftungen, besitzen im Sinne des Beutelsbacher Konsenses die Möglichkeit, auf ihre Veranstaltungen durch Auslage ihrer Jahresprogramme hinzuweisen. Dies ergibt sich aus der Natur der Sache einer Landeszentrale für politische Bildung.
 

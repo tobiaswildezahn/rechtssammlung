@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54429"
@@ -43,7 +44,7 @@ Wie viele Unfälle wurden in den Jahren 2014 – 2016 auch oder alleine dadurch 
 
 Wie viele dieser Unfälle wurden durch Blendung der Verkehrsteilnehmer und wie viele durch Blendung der Ampel verursacht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Polizei führt hierzu keine Statistiken. Für die Feststellung, ob Sichtbehinderungen im Sinne der Fragestellungen vorgelegen haben, wäre eine händische Auswertung von circa 165.000 Verkehrsunfällen notwendig. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

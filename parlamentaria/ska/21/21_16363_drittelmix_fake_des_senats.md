@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9491"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65879"
@@ -61,7 +62,7 @@ Hatte der 2011 vom Senat verkündete Drittelmix als Grundlage beziehungsweise Zi
 
 Wurde oder wird die Grundlage beziehungsweise Zielvorgabe für den Drittelmix geändert? Falls ja, ab wann und in welcher Form?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Im Vertrag für Hamburg – Wohnungsneubau (2011 mit Fortschreibung 2016) und im Bündnis für das Wohnen in Hamburg wird auf Wohnungen abgezielt. Eine Veränderung ist nicht beabsichtigt.
 

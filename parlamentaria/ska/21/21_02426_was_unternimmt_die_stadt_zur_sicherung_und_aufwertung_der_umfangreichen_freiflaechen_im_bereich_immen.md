@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2006"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50710"
@@ -67,7 +68,7 @@ Für welche der unter 1. und 2. genannten Maßnahmen wurden jeweils wann Pflege-
 
 Wer ist für die Pflege der einzelnen Maßnahmen verantwortlich?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 In 2007 wurde ein Pflege- und Entwicklungsplan (Entwicklung 2008 – 2009, Dauer- Pflege ab 2010) für alle unter den Antworten zu 1. und 2. genannten und umgesetzten Maßnahmen erstellt. Die Flächen werden vom Hof Stüffel, der sie gepachtet hat, in Absprache mit dem Bezirksamt entsprechend gepflegt.
 

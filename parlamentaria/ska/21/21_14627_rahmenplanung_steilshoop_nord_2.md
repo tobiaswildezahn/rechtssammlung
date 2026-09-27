@@ -11,9 +11,10 @@ fraktionen: ["Die Linke"]
 vorgang: 58426
 seiten: 3
 fragen: 7
-einzelfragen: 13
-antwortbloecke: 7
+einzelfragen: 14
+antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13121"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64074"
@@ -37,7 +38,7 @@ Seither sind viereinhalb Monate vergangen und die Bezirksversammlung Wandsbek so
 
 ## Einleitung für die Antworten des Senats
 
- So hat die Bezirksversammlung Wandsbek am 7. Juni beschlossen, die
+– So hat die Bezirksversammlung Wandsbek am 7. Juni beschlossen, die
 
 Fachbehörde möge bei „Ausschreibungen von städtischen Wohnbauflächen Elemente von gemeinschaftlichen und generationsübergreifenden  
 Wohnformen stärker (…) berücksichtigen und entsprechende Wohnprojekte  
@@ -50,7 +51,7 @@ unterstützen“
 (https://sitzungsdienst-wandsbek.hamburg.de/bi/vo020.asp?VOLFDNR=  
 1008505).
 
- Die Koordinierungskonferenz Steilshoop hat auf ihrer Sitzung am
+– Die Koordinierungskonferenz Steilshoop hat auf ihrer Sitzung am
 
 20. August, bezogen auf das Schulgelände am Borchertring, unter anderem beschlossen: „Gerade in diesem Gebäude könnte in nahezu idealer Weise die Forderung der Bezirksversammlung nach gemeinschaftlichem und generationsübergreifendem Wohnen verwirklicht werden, wobei man sich auch parallele gemischte Nutzungen vorstellen könnte, etwa indem man noch emissionsfreies oder -armes Kleingewerbe mit aufnimmt“.
 
@@ -87,21 +88,36 @@ Das genaue Datum der Auslobung des städtebaulich-freiraumplanerischen Wettbewer
 ### Frage 3
 
 Für die Anhandgabe/Veräußerung ist vorab eine Konzeptvergabe festgelegt. Wer führt das Konzept-Vergabeverfahren wann genau durch (bitte die konkrete Verantwortlichkeit mit Datum nennen)?
-3.1. Welche Kriterien für das Konzept wird es geben?
-3.2. Wer wird diese Kriterien formulieren und festlegen?
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+Welche Kriterien für das Konzept wird es geben?
+
+### Frage 3.2
+
+Wer wird diese Kriterien formulieren und festlegen?
+
+#### Antwort zu Fragen 3, 3.1 und 3.2
 
 Eine Konzeptvergabe im Sinne einer Konzeptausschreibung ist inzwischen nicht mehr vorgesehen.
 
 ### Frage 4
 
 Wie ist die Bewohner-/-innenbeteiligung bei dem städtebaulich-freiraumplanerischen Wettbewerbsverfahren vorgesehen?
-4.1. Wann startet das Beteiligungsverfahren?
-4.2. Wer wird beteiligt?
-4.3. Welche Entscheidungskompetenzen sind bei diesem Beteiligungsverfahren geplant?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+Wann startet das Beteiligungsverfahren?
+
+### Frage 4.2
+
+Wer wird beteiligt?
+
+### Frage 4.3
+
+Welche Entscheidungskompetenzen sind bei diesem Beteiligungsverfahren geplant?
+
+#### Antwort zu Fragen 4, 4.1, 4.2 und 4.3
 
 Über eine mögliche Beteiligung am Wettbewerbsverfahren entscheidet die Ausloberin unter Beachtung der geltenden Regelwerke im Rahmen der Auslobung. Diese liegt noch nicht vor.
 
@@ -121,7 +137,11 @@ Ist dem Senat die Initiative zur Förderung gemeinschaftlichen Wohnens in Steils
 
 Die Initiative ist seit August 2018 bekannt.
 
-6.1. Wie wird der Senat dafür Sorge tragen, das aus Steilshoop erwachsende Potenzial zur Durchmischung der Bewohnerschaft im Sinne gelingender Quartiersentwicklung zu nutzen?
+### Frage 6.1
+
+Wie wird der Senat dafür Sorge tragen, das aus Steilshoop erwachsende Potenzial zur Durchmischung der Bewohnerschaft im Sinne gelingender Quartiersentwicklung zu nutzen?
+
+#### Antwort zu Frage 6.1
 
 Die SAGA wird auch hier auf eine ausgewogene Belegung der Wohnungen im Sinne einer gelingenden Quartiersentwicklung und der Vermeidung von überforderten Nachbarschaften achten.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 20
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10826", "21/10548"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60102"
@@ -75,6 +76,6 @@ Wann wurde der Hafenschifffahrtsverband Hamburg e.V. erstmals vom Senat beziehun
 
 Inwieweit hat der Senat beziehungsweise die zuständige Behörde den Hafenschifffahrtsverband Hamburg e.V. über weitere Alternativen der Sanierung informiert? a. Wenn ja, wann und über welche Sanierungsvarianten wurde gesprochen? b. Wenn nein, warum wurde bisher über keine weiteren Sanierungskonzepte mit dem Hafenschifffahrtsverband Hamburg e.V. und seinen Mitgliedern gesprochen, die zu weniger schweren Eingriffen in die Fleetsohle und damit zu weniger Behinderungen bei der Befahrung der Speicherstadt mit Gästen führen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Hafenschifffahrtsverband Hamburg e.V. wurde Anfang Oktober 2017 über die Sanierungsvarianten informiert, die mit Auswirkungen auf die Befahrbarkeit verbunden sein würden, um diese mit dem Verband zu erörtern.

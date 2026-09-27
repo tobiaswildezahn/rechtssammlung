@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 18
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14615", "21/16941"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67117"
@@ -69,13 +70,13 @@ Wie viele Bauanträge wurden für den Stadtteil Moorfleet seit 2015 gestellt? Wi
 
 Die Anzahl der eingehenden Bauanträge wird nicht stadtteilbezogen erfasst. Eine Auswertung der abgeschlossenen Anträge kann nur bezogen auf den Stadtteil (Moorfleet) durchgeführt werden. Die Moorfleeter Wanne gehört zum Stadtteil Moorfleet und wird nicht gesondert erfasst, sodass eine weitere Differenzierung nicht möglich ist. Für den Auswertungszeitraum 1. Januar 2015 bis 31. Mai 2019 ergeben sich:
 
- Bauanträge gesamt: 48,
+– Bauanträge gesamt: 48,
 
- davon genehmigte Vorgänge: 42,
+– davon genehmigte Vorgänge: 42,
 
- davon abgelehnte Vorgänge: vier,
+– davon abgelehnte Vorgänge: vier,
 
- davon zurückgenommene Vorgänge: zwei.
+– davon zurückgenommene Vorgänge: zwei.
 
 ### Frage 6
 
@@ -113,6 +114,6 @@ Sind bezüglich einer Bebauung der Moorfleeter Wanne Aufschüttung für den Höh
 
 Sind bezüglich einer möglichen Bebauung der Moorfleeter Wanne Stellungnahmen der Wasserbehörde vorhanden? Wenn ja, wo sind diese einsehbar?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Antwort zu 1. und 1. a.

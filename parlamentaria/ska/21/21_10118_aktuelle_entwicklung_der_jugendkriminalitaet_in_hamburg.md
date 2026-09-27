@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 27
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5972", "20/14075", "21/10039", "21/4085"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58946"
@@ -83,9 +84,9 @@ Wie viele Jugendliche und Heranwachsende wurden im Jahr 2016 sowie im ersten Hal
 
 An den genannten Stichtagen wurde jeweils folgende Zahl von Personen im PROTÄKT-Programm geführt:
 
- 31. Dezember 2016: 171, davon drei unbegleitete Flüchtlinge
+– 31. Dezember 2016: 171, davon drei unbegleitete Flüchtlinge
 
- 30. Juni 2017: 176, davon zwei unbegleitete Flüchtlinge
+– 30. Juni 2017: 176, davon zwei unbegleitete Flüchtlinge
 
 ### Frage 4
 

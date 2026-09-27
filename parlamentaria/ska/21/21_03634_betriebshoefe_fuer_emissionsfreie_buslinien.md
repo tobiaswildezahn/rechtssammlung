@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51993"
@@ -57,7 +58,7 @@ Welche Umbaumaßnahmen sind auf den andern Betriebshöfen notwendig, um emission
 
 Welche Kosten entstehen bei der Herrichtung eines Busbetriebshofs zum Betreiben einer Wasserstoffbuslinie? Was muss bei der Herrichtung bedacht werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Umbaumaßnahmen richten sich nach der jeweils einzusetzenden Technologie.
 

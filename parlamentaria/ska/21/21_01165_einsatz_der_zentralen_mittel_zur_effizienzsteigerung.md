@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 45070
 seiten: 4
 fragen: 2
-einzelfragen: 3
-antwortbloecke: 2
+einzelfragen: 12
+antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/523"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49352"
@@ -38,35 +39,60 @@ Ich frage den Senat:
 ### Frage 1
 
 Fonds zur Vorfinanzierung von Maßnahmen zur Steigerung der Wirtschaftlichkeit und Sparsamkeit (Effi-Fonds)
-1.1. Welche Maßnahmen sind jeweils mit Mitteln in welcher Höhe in den Jahren 2012, 2013, 2014 und 2015 aus dem Effi-Fonds finanziert worden?
-1.2. Welche haushaltsentlastende oder effizienzsteigernde Wirkung hatten diese Maßnahmen jeweils im Einzelnen an welcher Stelle?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Welche Maßnahmen sind jeweils mit Mitteln in welcher Höhe in den Jahren 2012, 2013, 2014 und 2015 aus dem Effi-Fonds finanziert worden?
+
+### Frage 1.2
+
+Welche haushaltsentlastende oder effizienzsteigernde Wirkung hatten diese Maßnahmen jeweils im Einzelnen an welcher Stelle?
+
+#### Antwort zu Fragen 1, 1.1 und 1.2
 
 Siehe Anlage.
 
-1.3. Wie wurde der Erfolg der Maßnahmen im Einzelnen ermittelt?
+### Frage 1.3
+
+Wie wurde der Erfolg der Maßnahmen im Einzelnen ermittelt?
+
+#### Antwort zu Frage 1.3
 
 Vor der Genehmigung der Maßnahmen erfolgt regelhaft die Prüfung zur geplanten Erbringung der Effizienzsteigerung im Sinne der Richtlinie zum Fonds für Effizienzsteigerung. Nach Abschluss einer Maßnahme muss der Empfänger der Förderung über die Verwendung der Mittel schriftlich berichten.
 
-1.4. Welche aus dem Effi-Fonds beantragten Maßnahmen wurden aus welchen Gründen nicht gefördert oder nicht durchgeführt?
+### Frage 1.4
+
+Welche aus dem Effi-Fonds beantragten Maßnahmen wurden aus welchen Gründen nicht gefördert oder nicht durchgeführt?
+
+#### Antwort zu Frage 1.4
 
 Keine.
 
-1.5. In welcher Höhe sind derzeit noch Mittel des Effi-Fonds verfügbar?
+### Frage 1.5
+
+In welcher Höhe sind derzeit noch Mittel des Effi-Fonds verfügbar?
+
+#### Antwort zu Frage 1.5
 
 7.837.000 Euro.
 
-1.6. In welcher Höhe sind derzeit Mittel des Effi-Fonds bereits festgelegt, aber noch nicht abgerufen?
+### Frage 1.6
+
+In welcher Höhe sind derzeit Mittel des Effi-Fonds bereits festgelegt, aber noch nicht abgerufen?
+
+#### Antwort zu Frage 1.6
 
 1.500.000 Euro.
 
 ### Frage 2
 
 Fonds zur Zwischenfinanzierung von Maßnahmen zur Verwaltungsmodernisierung (Modernisierungsfonds)
-2.1. Welche Maßnahmen sind jeweils mit Mitteln in welcher Höhe in den Jahren 2012, 2013, 2014 und 2015 aus dem Modernisierungsfonds finanziert worden?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Welche Maßnahmen sind jeweils mit Mitteln in welcher Höhe in den Jahren 2012, 2013, 2014 und 2015 aus dem Modernisierungsfonds finanziert worden?
+
+#### Antwort zu Fragen 2 und 2.1
 
 2012  
 2013  
@@ -101,23 +127,43 @@ Wiedereingliederungsmanagement
 
 Im Übrigen siehe auch Protokoll des Unterausschusses Personalwirtschaft und öffentlicher Dienst Nummer 20/1.
 
-2.2. Welche haushaltsentlastende oder effizienzsteigernde Wirkung hatten diese Maßnahmen jeweils im Einzelnen an welcher Stelle?
+### Frage 2.2
+
+Welche haushaltsentlastende oder effizienzsteigernde Wirkung hatten diese Maßnahmen jeweils im Einzelnen an welcher Stelle?
+
+#### Antwort zu Frage 2.2
 
 Die Inanspruchnahme des Modernisierungsfonds ist nicht primär darauf ausgerichtet, haushaltsentlastende beziehungsweise effizienzsteigernde Wirkungen zu erzielen. Vielmehr ist die Übernahme von Kosten aus zentralen Mitteln darauf ausgerichtet, Integrationshürden zu überwinden, längere Einarbeitungsnotwendigkeiten aufgrund von fachlichen Eignungsdefiziten abzufedern und Arbeitsausfälle, die durch gegebenenfalls notwendige Fachfortbildungen entstehen, sowie Personalüberhänge aus aufgabenkritischen Maßnahmen auszugleichen.
 
-2.3. Wie wurde der Erfolg der Maßnahmen im Einzelnen ermittelt?
+### Frage 2.3
+
+Wie wurde der Erfolg der Maßnahmen im Einzelnen ermittelt?
+
+#### Antwort zu Frage 2.3
 
 Vor der Genehmigung der finanziellen Förderung erfolgt eine Prüfung im Sinne der in der Antwort zu 2.2. genannten Zielsetzungen. Im Übrigen lässt sich der Erfolg der einzelnen Maßnahmen daraus ableiten, dass die Integration von Mitarbeiterinnen und Mitarbeitern mithilfe der genannten Instrumente gelungen ist und die oben genannten Zielsetzungen erreicht worden sind.
 
-2.4. Welche aus dem Modernisierungsfonds beantragten Maßnahmen wurden aus welchen Gründen nicht gefördert oder nicht durchgeführt?
+### Frage 2.4
+
+Welche aus dem Modernisierungsfonds beantragten Maßnahmen wurden aus welchen Gründen nicht gefördert oder nicht durchgeführt?
+
+#### Antwort zu Frage 2.4
 
 Eine Ablehnung erfolgte, wenn die Maßnahme nicht den haushaltsrechtlichen Regelungen zu Inanspruchnahme des Modernisierungsfonds in der jeweils geltenden Fassung entsprach. Im Regelfall wurde die beantragte Maßnahme dann so geändert, dass eine Anerkennung möglich wurde.
 
-2.5. In welcher Höhe sind derzeit noch Mittel des Modernisierungsfonds verfügbar?
+### Frage 2.5
+
+In welcher Höhe sind derzeit noch Mittel des Modernisierungsfonds verfügbar?
+
+#### Antwort zu Frage 2.5
 
 Zum 30. Juli 2015 sind noch rund rund 24.816.000 Euro im Soll verfügbar.
 
-2.6. In welcher Höhe sind derzeit Mittel des Modernisierungsfonds bereits festgelegt, aber noch nicht abgerufen?
+### Frage 2.6
+
+In welcher Höhe sind derzeit Mittel des Modernisierungsfonds bereits festgelegt, aber noch nicht abgerufen?
+
+#### Antwort zu Frage 2.6
 
 Die Beantragungen und Erstattungen aus dem Modernisierungsfonds erfolgen überwiegend zum Ende des jeweiligen Haushaltsjahres. Buchungstechnisch werden im Haushalt aufgrund der Vielzahl der Maßnahmen keine einzelfallbezogenen Mittelfestlegungen erfasst.
 

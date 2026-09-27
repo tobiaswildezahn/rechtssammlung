@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14150", "20/3137"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55060"
@@ -51,7 +52,7 @@ Gibt es bereits einen Neufassungsentwurf der HmbBITVO? a. Wenn ja, bitte im Wort
 
 Wann plant der Senat, eine Neufassung der HmbBITVO vorzulegen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nach Abschluss der entsprechenden Behördenabstimmungen wird eine Überarbeitung der HmbBITVO vorgelegt.
 
@@ -63,7 +64,7 @@ Welche Gremien der Selbstvertretungen von Menschen mit Behinderungen oder Einzel
 
 Wie oft gab es bislang Treffen mit Gremien oder Einzelpersonen bezüglich der Evaluation und Neufassung der HmbBITVO? Bitte auflisten nach Datum der Treffen, Namen der Gremien, Namen der Einzelpersonen, Funktion der Einzelpersonen, Sitz der Gremien.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der Senat stimmt seine Aktivitäten, soweit sie die Belange behinderter Menschen betreffen, laufend mit der Senatskoordinatorin für die Gleichstellung behinderter Menschen ab (siehe http://www.hamburg.de/skbm/4477124/begruessung/). Auf diese Weise werden die Hamburger Landesarbeitsgemeinschaft für behinderte Menschen e.V. und der Blinden- und Sehbehindertenverein Hamburg e.V. als Betroffenenverbände einbezogen. Die Anzahl der Treffen über die Evaluation und Neufassung der HmbBITVO lässt sich aufgrund der Größe des hiermit befassten Personenkreises und der verschiedensten Gesprächszusammenhänge nicht konkret angeben.
 
@@ -75,6 +76,6 @@ Inwieweit wurde seit 2011 das Internetangebot der Hamburger Behörden in Leichte
 
 Welche Teile des Internetangebotes der BASFI wurden in Leichter Sprache bis zum heutigen Stichtag zur Verfügung gestellt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Behörde für Arbeit, Soziales, Familie und Integration betreut drei zielgruppenspezifische Internetseiten zu den Themen „Ambulant betreutes Wohnen“, „Ambulant betreute Wohn-Gemeinschaft“ und „Fahr-Dienst für Menschen mit Behinderungen“, die in leichte Sprache übersetzt und zusammen mit weiteren Informationen, zum Beispiel Hinweise auf Publikationen und Erläuterungs-Filme, sowie Informationsangeboten der Bezirksämter unter www.hamburg.de/leichte-sprache veröffentlicht sind.

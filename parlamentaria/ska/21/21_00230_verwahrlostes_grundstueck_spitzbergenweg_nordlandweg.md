@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48356"
@@ -57,7 +58,7 @@ Inwieweit stehen die zuständigen Behörden weiterhin in Kontakt zum Eigentümer
 
 Welche Maßnahmen haben die zuständigen Behörden eingeleitet und mit bislang welchem Erfolg?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Derzeit läuft ein Verfahren zur Herstellung ordnungsgemäßer Zustände, zum Beispiel durch eine Gebäudesanierung oder den Abbruch der Gebäude. Eine Terminvereinbarung im Dezember 2014 wurde seitens des Eigentümers nicht wahrgenommen. Auf eine Anhörung im Verfahren zur Herstellung ordnungsgemäßer Zustände hat der Eigentümer bisher nicht reagiert.
 

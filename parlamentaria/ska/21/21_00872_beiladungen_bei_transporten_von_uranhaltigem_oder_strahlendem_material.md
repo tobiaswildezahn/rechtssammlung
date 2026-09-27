@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/3835", "20/11857"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49034"
@@ -48,7 +49,7 @@ Welche Reedereien schlagen mit welchen Schiffen uranhaltiges Material im Hamburg
 
 Um welche Bauarten von Schiffen handelt es sich dabei? Bitte spezifizieren.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat macht aus Sicherheitsgründen keine Angaben über die Schiffsnamen und Reedereien, die uranhaltige Kernbrennstoffe transportieren. Im Übrigen siehe Drs. 19/3835.
 
@@ -92,25 +93,25 @@ Welche Brand- und Katastrophenschutzmaßnahmen sind in Hamburg (speziell im Hafe
 
 Für den Fall von Gefahrgutunfällen mit uranhaltigem oder strahlendem Material werden die konkreten Schutz- und Gefahrenabwehrmaßnahmen durch Feuerwehr und Polizei im Rahmen ihrer Zuständigkeiten anlass- und lagebezogen durchgeführt. Hierzu zählen insbesondere:
 
- Rettungsmaßnahmen unmittelbar Betroffener (Dekontamination, Medizinische
+– Rettungsmaßnahmen unmittelbar Betroffener (Dekontamination, Medizinische
 
 Versorgung),
 
- Bestimmung der Schadstoffkonzentration- und Ausbreitung, Messung potenzieller
+– Bestimmung der Schadstoffkonzentration- und Ausbreitung, Messung potenzieller
 
 Strahlung,
 
- Warnung- und Information der Bevölkerung im Umfeld des Schadensortes,
+– Warnung- und Information der Bevölkerung im Umfeld des Schadensortes,
 
- Sperren und Räumen des Schadensortes und des Umfeldes,
+– Sperren und Räumen des Schadensortes und des Umfeldes,
 
- Verkehrslenkung und -regelung, gegebenenfalls Sperrung der Wasserstraße für
+– Verkehrslenkung und -regelung, gegebenenfalls Sperrung der Wasserstraße für
 
 den Schiffsverkehr,
 
- technische Schadensbekämpfung und
+– technische Schadensbekämpfung und
 
- Schutz des Eigentums am Schadensort und im Absperrbereich.
+– Schutz des Eigentums am Schadensort und im Absperrbereich.
 
 Darüber hinaus erfolgen gegebenenfalls weitergehende Maßnahmen der Katastrophenschutzbehörden, wie zum Beispiel die umfassende Warnung und Information der Bevölkerung. Im Übrigen siehe Drs. 20/11857.
 

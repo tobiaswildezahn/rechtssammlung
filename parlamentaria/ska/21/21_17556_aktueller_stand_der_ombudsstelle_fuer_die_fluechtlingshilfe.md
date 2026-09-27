@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 26
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8844", "21/14275"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67153"
@@ -98,7 +99,7 @@ Die Ombudsstelle für die Flüchtlingshilfe richtet sich an alle Menschen, die m
 15.06.2019 von Ehrenamtlichen an die Ombudsstelle herangetragen? c. Wie viele Anliegen wurden im Zeitraum 01.07.2018 bis Stichtag
 15.06.2019 von hauptamtlichem Personal, etwa von Trägern der Freien Wohlfahrtspflege oder Mitarbeitern/-innen von Unterkunftsbetreibern, an die Ombudsstelle herangetragen? d. Wie hat sich das Aufkommen an Beschwerden und/oder Kritik insgesamt und im Vergleich zum Vorjahr entwickelt? i. Sofern die Anzahl an Beschwerden gesunken ist, welche Erklärungen werden hierfür angeführt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Ombudsstelle hatte im genannten Zeitraum 94 persönliche Besuchskontakte mit Beschwerdeaufnahme und 41 schriftliche Beschwerdefälle per Mail aufgenommen. Diese betrafen nur volljährige Personen. 26 Ehrenamtliche und 26 Hauptamtliche haben sich an die Ombudsstelle gewandt.
 

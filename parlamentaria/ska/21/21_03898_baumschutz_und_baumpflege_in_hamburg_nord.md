@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 2
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52290"
@@ -41,7 +42,7 @@ Zum 1. Juni eines jeden Jahres wird eine Liste der in den vergangenen zwölf Mon
 
 Soweit möglich, soll im Herbst 2015 eine zusammengefasste Baumfäll-/ Baumanpflanzliste für den Zeitraum 1. Juni 2010 bis 31. Mai 2015 erstellt werden, um zu verdeutlichen, inwiefern aus diesem Zeitraum noch eine Negativbilanz vorliegt. Falls dies so ist, dient diese Liste als Grundlage für Planungen der nächsten Jahre, das Defizit wieder auszugleichen. Bedauerlicherweise hat das Bezirksamt Hamburg-Nord bis heute beide Listen nicht erstellt. Es beruft sich darauf, dass notwendige Zulieferungen aus der zuständigen Behörde noch nicht erfolgt seien. Vor diesem Hintergrund frage ich den Senat:
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für die im Bezirk Hamburg-Nord geforderte jährliche Statistik über Fällungen und Ersatz von Straßenbäumen wird eine neue Baumkatasterversion benötigt. Sie erlaubt unter den veränderten technologischen Rahmenbedingungen die qualifizierte Datenauswertung und soll noch im ersten Halbjahr 2016 allen Bezirksämtern zur Verfügung gestellt werden. Die Bezirksämter werden regelmäßig über den aktuellen Sachstand informiert.
 
@@ -59,7 +60,7 @@ Sofern die zuständige Behörde die Daten hätte liefern können, warum hat sie 
 
 Wann wird die zuständige Behörde die benötigten Informationen dem Bezirksamt Hamburg-Nord zur Verfügung stellen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 

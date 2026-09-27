@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59725"
@@ -53,7 +54,7 @@ Wie bewerten die zuständigen Stellen die bisher gemachten Erfahrungen mit den b
 
 Wann und aus welchen Gründen kam es nach Umsetzung der RISA- Maßnahmen Anfang 2016 in der Straße Wiesenhöfen trotzdem zu Überschwemmungen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Abnahme der Baumaßnahmen zur Herstellung des kompletten Notwasserweges erfolgte Ende April 2016. Ab diesem Zeitpunkt konnte die Anlage in Betrieb gehen. Ein Starkregenereignis zwischen Januar und Juni 2016, das zu Überflutungen geführt hat, ist dem Senat nicht bekannt. Der Notwasserweg hat bei einem Starkregenereignis im Juli 2016 Niederschlagswasser in den Park abgeleitet, wodurch die Funktionsfähigkeit der Anlage bestätigt wurde.
 

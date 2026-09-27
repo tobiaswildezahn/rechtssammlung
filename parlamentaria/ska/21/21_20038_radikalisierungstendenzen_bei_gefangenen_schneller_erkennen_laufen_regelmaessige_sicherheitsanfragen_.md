@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17710", "21/18219", "21/14037", "21/16406"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69798"
@@ -97,7 +98,7 @@ mittlerweile erlassen?
 Falls ja, wann und welchen Inhalt hat sie?  
 Falls nein, weshalb nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 

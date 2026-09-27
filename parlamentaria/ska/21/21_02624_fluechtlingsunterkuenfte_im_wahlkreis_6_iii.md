@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1492", "21/1998", "21/2108", "21/1812", "21/2472"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50922"
@@ -180,15 +181,15 @@ c) Warum genau hat sich die Belegung im Einzelnen immer wieder verzögert? Bitte
 
 Das ursprüngliche Ziel, die Einrichtung zum August 2015 in Betrieb zu nehmen, konnte aufgrund folgender Probleme nicht eingehalten werden:
 
- Bodengrundprobleme, die sich im Rahmen der Erdarbeiten zeigten,
+– Bodengrundprobleme, die sich im Rahmen der Erdarbeiten zeigten,
 
- bei der Containerlieferung,
+– bei der Containerlieferung,
 
- Ausstattungsqualität der Container,
+– Ausstattungsqualität der Container,
 
- bei den Wasseranlagen sowie
+– bei den Wasseranlagen sowie
 
- aufgetretene Brandschutzfragen.
+– aufgetretene Brandschutzfragen.
 
 Aktuell wird eine abschließende Klärung der Brandschutzfragen durch Gutachten vorgenommen. Abhängig von deren Ergebnis erfolgt die Belegung mit bis zu 512 Personen.
 

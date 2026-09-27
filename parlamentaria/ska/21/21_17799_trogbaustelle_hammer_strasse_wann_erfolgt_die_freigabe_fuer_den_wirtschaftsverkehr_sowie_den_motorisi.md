@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67399"
@@ -43,7 +44,7 @@ Wann wird die endgültige Baufertigstellung inklusive aller Nebenleistungen erfo
 
 Wann wird die Freigabe des Trogbauwerks für den Wirtschaftsverkehr sowie den motorisierten Individualverkehr erfolgen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Fertigstellung der Trogbaustelle Hammer Straße einschließlich der Aufhebung der Bahnübergänge Hammer Straße wird im Frühjahr 2020 erwartet, da nachlaufende Teilmaßnahmen erst nach Verkehrsfreigabe des Trogbauwerkes erfolgen können. Diese wird für Ende September 2019 erwartet.
 

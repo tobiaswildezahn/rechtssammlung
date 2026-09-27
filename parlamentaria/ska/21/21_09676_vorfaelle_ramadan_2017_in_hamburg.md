@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58483"
@@ -53,7 +54,7 @@ Hat es in Hamburg in der Zeit des Ramadans Straftaten gegeben, bei denen die Tä
 
 Hat es in Hamburg in der Zeit des Ramadans Straftaten gegeben, bei denen die Täter als Grund die Nichtbeachtung des Ramadans eines Kontrahenten angegeben haben? Wenn ja, welche?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Statistiken im Sinne der Fragestellungen werden bei der Polizei nicht geführt. Für die Beantwortung wäre eine Durchsicht sämtlicher Hand- und Ermittlungsakten des erfragten Zeitraums bei der Kriminalpolizei erforderlich. Die Auswertung mehrerer tausend Vorgänge ist in der für die Bearbeitung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -65,13 +66,13 @@ Hat es in Hamburg während der Zeit des Ramadans Vorfälle in Unterkünften für
 
 Der für den Betrieb zuständigen Behörde sind
 
- eine verbale Auseinandersetzung, in deren Zuge auch mit Essen geworfen wurde,
+– eine verbale Auseinandersetzung, in deren Zuge auch mit Essen geworfen wurde,
 
- einzelne Probleme hinsichtlich der rechtzeitigen Anmeldung für das abendliche
+– einzelne Probleme hinsichtlich der rechtzeitigen Anmeldung für das abendliche
 
 Fastenbrechen,
 
- ein Abstimmungsproblem in einer Einrichtung über den Zeitpunkt der Essenausga-
+– ein Abstimmungsproblem in einer Einrichtung über den Zeitpunkt der Essenausga-
 
 be für das Fastenbrechen
 

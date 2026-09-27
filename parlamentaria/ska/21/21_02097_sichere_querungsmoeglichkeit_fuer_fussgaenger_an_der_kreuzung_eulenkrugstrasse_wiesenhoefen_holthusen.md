@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50358"
@@ -55,7 +56,7 @@ Wie sind im Einzelnen der aktuelle Sachstand sowie der Zeitplan bezüglich der E
 
 Warum genau wurde die Maßnahme nicht im 1. Quartal 2015 umgesetzt? Was sind die Gründe für die zeitliche Verzögerung? Wann soll die Umsetzung erfolgen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Umbau der Anlage ist im 4. Quartal 2015 vorgesehen.
 

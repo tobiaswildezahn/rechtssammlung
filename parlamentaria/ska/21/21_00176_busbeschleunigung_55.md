@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48301"
@@ -43,7 +44,7 @@ Wann haben der Senat, die zuständige Behörde oder der LSBG den Forderungskatal
 
 In welcher Form haben der Senat, die zuständige Behörde oder der LSBG bisher wann darauf gegenüber der IG oder deren Mitgliedern reagiert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das in der Anfrage benannte Schreiben wurde dem Senat beziehungsweise der zuständigen Behörde nicht zugesandt. Der Landesbetrieb Straßen, Brücken und Gewässer (LSBG) hat auf einer öffentlichen Informationsveranstaltung zu den Bauabläufen am 19. Februar 2015 davon inoffiziell Kenntnis erhalten. Ein Ansprechpartner wird in dem Schreiben nicht benannt, auch eine Bitte zu einer schriftlichen Stellungnahme wurde dabei nicht formuliert.
 
@@ -87,7 +88,7 @@ Wird es weitere Treffen mit der IG geben? Wenn ja: wann? Wenn nein: warum nicht?
 
 Wann beginnen die nächsten Bauarbeiten und Straßensperrungen an der Langen Reihe?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Am 18. Dezember 2014 hat es ein Treffen mit örtlichen Geschäftsleuten gegeben, in dem insbesondere Fragen der baulichen Umsetzung, des Bauablaufs und der Verkehrsführung während der Bauzeit erörtert wurden. Im Nachgang zu dieser Veranstaltung hat es weitere Korrespondenzen mit einzelnen Angehörigen beziehungsweise Vertretern dieser Geschäftsleute gegeben, um die Ergebnisse des Gesprächs umzusetzen. Weitere Treffen waren danach nicht mehr erforderlich.
 

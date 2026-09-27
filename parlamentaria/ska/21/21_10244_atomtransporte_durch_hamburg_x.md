@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 34
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11317", "21/4565", "21/9289", "20/13644", "20/14621", "21/5719"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59085"
@@ -179,7 +180,7 @@ Die Frachtschiffe der Reederei Northern Shipping Company (NSC) fahren fast regel
 
 Liegen Hamburger Behörden gegebenenfalls weitere Daten über den Transport von Gefahrstoffen auf Schiffen vor, die auf weiteren Routen die Deutschen Seegewässer nutzen (zum Beispiel St. Petersburg/ Russland nach Antwerpen/Belgien über Skagen/Dänemark). Wenn nein, liegen diese Behörden umliegender Bundesländer beziehungsweise dem Bund vor? Wenn ja, welche Stellen sind gegebenenfalls zuständig?
 
-#### Antwort zu Fragen 21 bis 22
+#### Antwort zu Fragen 21 und 22
 
 Dazu liegen der zuständigen Behörde keine Daten vor.
 

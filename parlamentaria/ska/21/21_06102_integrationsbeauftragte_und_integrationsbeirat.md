@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 17
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7049", "21/827", "21/1063"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54614"
@@ -90,27 +91,27 @@ Welche Aufgaben übernehmen die Integrationsbeauftragten genau? a. Wie wirken di
 
 Die Integrationsfachkräfte der Bezirksämter sind im Wesentlichen für folgende Aufgaben zuständig:
 
- Mitwirkung bei der Umsetzung des Hamburger Integrationskonzepts (Drs.
+– Mitwirkung bei der Umsetzung des Hamburger Integrationskonzepts (Drs.
 
 20/7049), zum Beispiel Unterstützung bei der Entwicklung von bezirklichen Leitbildern, Konzepten oder Ähnlichem sowie Planung und Durchführung von Maßnahmen zur interkulturellen Öffnung der Bezirksverwaltung,
 
- Koordination der Integrationsmaßnahmen in verschiedenen Sozialräumen der
+– Koordination der Integrationsmaßnahmen in verschiedenen Sozialräumen der
 
 Bezirksämter in Kooperation mit den örtlichen Migrantenselbstorganisationen (MSO) und Netzwerken,
 
- zum Teil fachliche Begleitung und Unterstützung der bezirklichen Integrations(bei)-
+– zum Teil fachliche Begleitung und Unterstützung der bezirklichen Integrations(bei)-
 
 räte,
 
- Unterstützung von Trägern bei der Einwerbung von Fördermitteln für ESF- und
+– Unterstützung von Trägern bei der Einwerbung von Fördermitteln für ESF- und
 
 bundesfinanzierte Programme sowie bei der Einwerbung von Ko-Finanzierungsmitteln,
 
- zum Teil Mitwirkung im Beratungsnetzwerk „Prävention und Deradikalisierung“ der
+– zum Teil Mitwirkung im Beratungsnetzwerk „Prävention und Deradikalisierung“ der
 
 Behörde für Arbeit, Soziales, Familie und Integration (BASFI),
 
- Erarbeitung von Stellungnahmen zu bezirklichen Anfragen, Anträgen, Drucksachen
+– Erarbeitung von Stellungnahmen zu bezirklichen Anfragen, Anträgen, Drucksachen
 
 und Petitionen zu Integrationsthemen.
 

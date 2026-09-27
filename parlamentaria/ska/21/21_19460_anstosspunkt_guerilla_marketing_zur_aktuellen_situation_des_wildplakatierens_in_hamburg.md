@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 17
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14896"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69215"
@@ -160,7 +161,7 @@ Wie viele Verstöße gegen das Verbot der Wildplakatierung wurden im Jahr 2019 �
 
 Wie viele der unter Ziffer 11. fallenden Meldungen wurden aus jeweils welchen konkreten Gründen noch nicht bearbeitet beziehungsweise überprüft?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Wildplakatierungen werden bei der Stadtreinigung Hamburg unter dem Schlagwort Graffiti miterfasst und nicht als eigene Verschmutzungsart aufgeführt. Somit kann die Anzahl der Wildplakatierungen nicht separat angegeben werden. Die Stadtreinigung Hamburg hat unter dem Begriff Graffiti für das Jahr 2019 insgesamt 122 Meldungen an die zuständigen Bezirksämter weitergegeben, unter denen sich lediglich eine geringe Anzahl an Wildplakatierungen befindet. Es handelt sich schätzungsweise um eine Meldung im Monat.
 

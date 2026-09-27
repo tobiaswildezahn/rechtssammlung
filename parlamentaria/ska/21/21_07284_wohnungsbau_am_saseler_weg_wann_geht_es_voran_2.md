@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1520", "21/5549"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55885"
@@ -43,7 +44,7 @@ Wie ist der genaue Sachstand des Veräußerungsverfahrens für das Grundstück S
 
 Wurde die Fläche anhand gegeben? Wenn ja, wann und bis zu welchem Termin ist die Anhandgabe befristet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/5549.
 

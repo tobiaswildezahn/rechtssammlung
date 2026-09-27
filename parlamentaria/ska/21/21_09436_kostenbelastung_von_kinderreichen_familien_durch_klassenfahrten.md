@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58218"
@@ -57,7 +58,7 @@ Wie hoch ist die Zahl der Hamburger Schulkinder, die zwei oder mehr Geschwister 
 
 Wie hoch ist der Anteil der Schulkinder, die zwei oder mehr Geschwister haben, gemessen an der Gesamtzahl der Hamburger Schülerinnen und Schüler?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Rahmen der Schuljahresstatistik wird nicht erfasst, ob eine Schülerin oder ein Schüler Geschwister hat. Laut Melderegister lebten am 31.12.2016 44.102 Kinder und Jugendliche zwischen 6 und 18 Jahren in einem Hamburger Haushalt, dem mindestens drei Kinder und/oder Jugendliche von null bis 18 Jahren angehören. Gemessen an der Gesamtzahl der Schülerinnen und Schüler, die in Hamburg im Schuljahr 2016/2017 eine allgemeinbildende Schule besuchen (192.836), sind dies 22,9 Prozent.
 
@@ -98,7 +99,7 @@ a. Grundschulen,
 b. Stadtteilschulen und  
 c. Gymnasien?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der für Bildung zuständigen Behörde liegen diese Daten nicht vor, da diese nicht zentral erfasst werden. Im Februar 2015 ergab eine an 37 Schulen durchgeführte Stichprobe an Grundschulen Klassenreisekosten zwischen 118 und 195 Euro, durchschnittlich 147 Euro, in der Sekundarstufe I zwischen 143 und 255 Euro, durchschnittlich 206 Euro, und in der Sekundarstufe II der allgemeinbildenden Schulen zwischen 100 bis 380 Euro, durchschnittlich 294 Euro. Im Übrigen siehe Antwort zu 3.
 
@@ -118,6 +119,6 @@ Stellt der Senat beziehungsweise die zuständige Behörde Mittel zur Verfügung,
 
 Sind dem Senat beziehungsweise der zuständigen Behörde andere Förderwege bekannt, damit die Teilnahme an Klassenfahrten nicht zu Härten für die betroffenen Familien führt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung.

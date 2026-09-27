@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61964"
@@ -108,7 +109,7 @@ Wie bewertet der Senat „die Neuerungen in den Verkaufs- und Abonnementsbedingu
 
 Wie lautet nach Kenntnis des Senats die Begründung für „die Neuerungen in den Verkaufs- und Abonnementsbedingungen“ durch die Staatsoper?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 
@@ -120,7 +121,7 @@ Wann wurden diese Neuerungen beschlossen und durch wen geprüft?
 
 Welche konkreten Effekte sollen durch „die Neuerungen in den Verkaufsund Abonnementsbedingungen“ erreicht werden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Neuerungen betreffen den laufenden Geschäftsbetrieb und wurden dementsprechend von der Geschäftsführung der Hamburgische Staatsoper GmbH im Winter 2017/2018 beschlossen und dem Aufsichtsrat zur Kenntnis gebracht. Ziel ist eine höhere Auslastung, siehe dazu auch die Antwort zu 5. und 6.
 
@@ -140,7 +141,7 @@ Sind dem Senat die alternativen Verkaufsmodelle beziehungsweise Vorschläge aus 
 
 In welchem Zeitraum wird die Staatsoper die konkreten Vorschläge aus den Publikumsreihen prüfen, wie sie es in einer Presseerklärung angekündigt hat? Wird die Staatsoper diese Prüfung und gegebenenfalls Änderungen ihrer Verkaufspolitik autonom durchführen? Wie werden daraus resultierende Beschlüsse veröffentlicht?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Nach Angaben der Hamburgischen Staatsoper soll die Überprüfung der Vorschläge rechtzeitig vor Beginn des Jahresvorverkaufs abgeschlossen sein und in geeigneter Form veröffentlicht werden (Pressemitteilung und Internetseite). Die Geschäftsführung der Staatsoper entscheidet über die Umsetzung autonom, weil es sich um eine Maßnahme des laufenden Geschäftsbetriebes handelt.
 

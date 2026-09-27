@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50286"
@@ -138,9 +139,9 @@ Zurzeit werden ausschließlich an der ZEA Feuerwehrakademie in der Bredowstraße
 
 Die ZEA Feuerwehrakademie ist mit zwei Feuerwehrkräften zu folgenden Zeiten besetzt:
 
- Montag bis Freitag von 16 Uhr bis 7 Uhr
+– Montag bis Freitag von 16 Uhr bis 7 Uhr
 
- Samstag und Sonntag von 7 Uhr bis 7 Uhr
+– Samstag und Sonntag von 7 Uhr bis 7 Uhr
 
 Die ZEA Papenreye 1 ist mit vier Feuerwehrkräften im 24/7-Dienstbetrieb besetzt.
 

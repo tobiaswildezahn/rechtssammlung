@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 17
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/860"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54704"
@@ -47,7 +48,7 @@ Liegen dem Senat beziehungsweise der zuständigen Behörde Kenntnisse darüber v
 
 Beabsichtigt der Senat beziehungsweise die zuständige Behörde angesichts der jüngst neu aufgekommenen Kritik an der Wirkungslosigkeit der Mietpreisbremse nachzusteuern? Wenn ja, sind Gesetzesverschärfungen geplant oder die Abschaffung beziehungsweise gezielte Einsetzung der Mietpreisbremse? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nein. Im Übrigen siehe Drs. 21/860.
 
@@ -91,7 +92,7 @@ Bestehen im Senat beziehungsweise der zuständigen Behörde Überlegungen, die M
 
 Bestehen Überlegungen im Senat beziehungsweise der zuständigen Behörde, die Mietpreisbremse flächendeckend zurückzunehmen und nur dort einzusetzen, wo sie rechtlich haltbar ist und wirklich greifen kann? Wenn ja, nach welchen Kriterien will der Senat beziehungsweise die zuständige Behörde vorgehen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Nein.
 

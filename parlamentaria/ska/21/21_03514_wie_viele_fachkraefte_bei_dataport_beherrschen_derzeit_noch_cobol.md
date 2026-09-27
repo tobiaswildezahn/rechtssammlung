@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51870"
@@ -43,7 +44,7 @@ Die Freie und Hansestadt Hamburg arbeitet bei Entwicklung, Installierung, Modern
 
 Wie viele der Fachkräfte, die COBOL beherrschen, werden in den nächsten zehn Jahren altersbedingt aus dem Unternehmen ausscheiden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 2011 verfügten 20, derzeit verfügen elf Mitarbeiter über COBOL-Fachwissen, von denen in den nächsten zehn Jahren sechs altersbedingt in den Ruhestand treten.
 
@@ -55,7 +56,7 @@ Hat Dataport Probleme, Neueinstellungen mit COBOL-Kenntnis am Arbeitsmarkt zu re
 
 Wie schätzt Dataport die Wahrscheinlichkeit ein, in den nächsten zehn Jahren beziehungsweise 15 Jahren Fachkräfte mit COBOL-Wissen ohne Probleme am Arbeitsmarkt finden zu können?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Ja. Dataport geht davon aus, dass die Probleme fortbestehen.
 
@@ -67,7 +68,7 @@ Kooperiert Dataport mit einer Institution, die noch COBOL lehrt?
 
 Bietet Dataport seinen Mitarbeitern Weiterbildungskurse an, die sich mit dem Problem befassen, Schnittstellen zwischen IT-Programmen in neueren Programmiersprachen und COBOL zu entwickeln?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Ja.
 

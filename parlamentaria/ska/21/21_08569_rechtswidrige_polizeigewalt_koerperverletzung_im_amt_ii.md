@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/644", "20/3279", "20/6501", "20/11572", "20/14500", "21/4967"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57293"
@@ -38,9 +39,12 @@ Vor diesem Hintergrund frage ich den Senat:
 ### Frage 1
 
 Wie viele Disziplinarverfahren gegen Polizeibedienstete wegen Körperverletzung im Amt wurden jeweils vom 22.06. bis zum 31.12.16 und vom
-01.01. bis zum 31.03.17 aufgrund welcher Sachverhalte zu welchem Zeitpunkt eingeleitet? Für diese wie auch für Fragen 2. bis 6. bitte für die jeweiligen Zeiträume, soweit möglich, möglichst genau angeben, inwiefern die Verfahren wegen (gegebenenfalls vermeintlichen) Übergriffen von Polizeibediensteten auf Vertreter/-innen der Presse eröffnet wurden.
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+bis zum 31.03.17 aufgrund welcher Sachverhalte zu welchem Zeitpunkt eingeleitet? Für diese wie auch für Fragen 2. bis 6. bitte für die jeweiligen Zeiträume, soweit möglich, möglichst genau angeben, inwiefern die Verfahren wegen (gegebenenfalls vermeintlichen) Übergriffen von Polizeibediensteten auf Vertreter/-innen der Presse eröffnet wurden.
+
+#### Antwort zu Fragen 1 und 1.1
 
 Keine.
 
@@ -84,7 +88,7 @@ Wie viele Strafverfahren wurden gegen Polizeibedienstete wegen Körperverletzung
 
 Wie viele Strafverfahren sind gegen Polizeibedienstete wegen Körperverletzung im Amt seit dem 22. Juni 2016 aufgrund welcher Sachverhalte mit welchen Verfahrensausgängen zu welchem Zeitpunkt abgeschlossen worden? Bitte jeweils für den Stichtag 31.12.16 und 31.02.17 beantworten.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Im Vorgangsbearbeitungs- und Vorgangsverwaltungssystem MESTA der Staatsanwaltschaft sind für die in der Antwort zu 4. aufgeführten Beschuldigten bezogen auf den Aktenzeichenjahrgang 2016 (ab 22. Juni 2016) und 2017 (bis 31. März 2017) folgende Verfahrensausgänge verzeichnet.
 

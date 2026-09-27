@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6424", "21/9070", "21/8803", "21/7661"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62443"
@@ -73,7 +74,7 @@ Besteht für DITIB-Nord die Möglichkeit, in Zukunft von den verhängten Sanktio
 
 Sind neben der Einstellung finanzieller Zuwendungen noch weitere Sanktionen geplant? Falls ja, welche sind dies und wann ist deren Umsetzung vorgesehen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Eine mögliche künftige Förderung von Projekten der DITIB-Nord aus Mitteln der Bundesregierung, an der die Freie und Hansestadt Hamburg nicht beteiligt ist, liegt außerhalb des Verantwortungsbereiches des Senats. Hierzu liegen der zuständigen Fachbehörde keine Kenntnisse vor.
 

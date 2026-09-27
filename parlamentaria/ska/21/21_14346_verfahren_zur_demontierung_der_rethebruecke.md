@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63794"
@@ -49,7 +50,7 @@ Was konkret ist zu den Baumaßnahmen der Rethebrücke bisher ausgeschrieben word
 
 Wo genau wurde die Ausschreibung veröffentlicht? Bitte dazu auch den Zeitraum der Veröffentlichung benennen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es sind die Bauleistungen zum Rückbau des Stahlbaus der Rethehubbrücke bis Oberkante Straßenniveau ausgeschrieben worden. Die Ausschreibung umfasste alle erforderlichen Leistungen für den vollständigen Rückbau des Hubteils und der Hubtürme inklusive der vorhandenen Brückenausstattung, der Gegengewichte und der maschinentechnischen Anlagen sowie die Entsorgung der anfallenden Abfallstoffe.
 
@@ -57,15 +58,15 @@ Die Ausschreibungen wurden über die Informationsplattform über das öffentlich
 
 Die oben genannten Leistungen wurden mehrfach gebündelt nach der Sektorenverordnung (SektVO) ausgeschrieben:
 
- EU-weites offenes Verfahren, Angebotszeitraum: 15. Juli 2016 bis 12. August
+– EU-weites offenes Verfahren, Angebotszeitraum: 15. Juli 2016 bis 12. August
 
 2016,
 
- Verhandlungsverfahren mit EU-weitem Teilnahmewettbewerb, Bewerbungsfrist:
+– Verhandlungsverfahren mit EU-weitem Teilnahmewettbewerb, Bewerbungsfrist:
 
 19. Juni 2017 bis 19. Juli 2017, Angebotszeitraum: 20. November 2017 bis 5. Januar 2018,
 
- Verhandlungsverfahren ohne Teilnahmewettbewerb, Angebotszeitraum: 22. März
+– Verhandlungsverfahren ohne Teilnahmewettbewerb, Angebotszeitraum: 22. März
 
 2018 bis 12. April 2018.
 
@@ -75,13 +76,13 @@ Wie viele Unternehmen haben zu welcher Ausschreibung der Rethebrücke ihr Intere
 
 #### Antwort zu Frage 3
 
- Offenes Verfahren 2016: ein Angebot,
+– Offenes Verfahren 2016: ein Angebot,
 
- Teilnahmewettbewerb 2017: drei Teilnahmeanträge,
+– Teilnahmewettbewerb 2017: drei Teilnahmeanträge,
 
- anschließendes Verhandlungsverfahren 2017/2018: keine Angebote,
+– anschließendes Verhandlungsverfahren 2017/2018: keine Angebote,
 
- Verhandlungsverfahren 2018: ein Angebot.
+– Verhandlungsverfahren 2018: ein Angebot.
 
 Die Angebotssummen lagen im Bereich von 5 Millionen Euro netto.
 

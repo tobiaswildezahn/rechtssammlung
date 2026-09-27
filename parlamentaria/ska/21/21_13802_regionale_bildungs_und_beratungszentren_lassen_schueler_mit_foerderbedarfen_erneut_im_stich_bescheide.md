@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/3641", "21/12544"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63189"
@@ -47,13 +48,13 @@ Diese deutliche Steigerung der Fallzahlen erforderte eine umfassende Reorganisat
 
 Die gegenwärtig geltenden Verfahren zur Steuerung des Einsatzes von Schulbegleitungen auf Rechtsgrundlage des § 12 Absatz 4 Hamburgisches Schulgesetz (HmbSG) werden durch die beiden nachfolgend genannten Dienstanweisungen umfassend geregelt:
 
- Dienstanweisung zum Einsatz von Schulbegleitungen für Schülerinnen und Schü-
+– Dienstanweisung zum Einsatz von Schulbegleitungen für Schülerinnen und Schü-
 
 ler mit erheblichem Betreuungs- und Unterstützungsbedarf aufgrund einer Behinderung (vom 01.03.2015)
 
 und
 
- Dienstanweisung zum Einsatz von Schulbegleitungen für Schülerinnen und Schü-
+– Dienstanweisung zum Einsatz von Schulbegleitungen für Schülerinnen und Schü-
 
 ler mit erheblichem Betreuungs- und Unterstützungsbedarf aufgrund einer komplexen psychosozialen Beeinträchtigung (vom 25.03.2014).
 
@@ -81,7 +82,7 @@ b) für die Nachmittagsbetreuung bewilligt?
 
 Gibt es Unterschiede zwischen 1. a) und b)? Wenn ja, warum?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Verantwortlichkeit für das Verfahren zur Steuerung des Einsatzes von Schulbegleitungen für Schülerinnen und Schüler mit erheblichem Betreuungs- und Unterstützungsbedarf aufgrund einer komplexen psychosozialen Beeinträchtigung liegt bei den Gesamtleitungen der ReBBZ. Sie entscheiden über Umfang, Dauer und Qualifikationsstufe für die Umsetzung einer Schulbegleitungsmaßnahme. Die Beratung in und Bearbeitung von Schulbegleitungsverfahren gehören als Bestandteile der Beratungstätigkeit zur Regelaufgabe aller Mitarbeiterinnen und Mitarbeiter der ReBBZ- Beratungsabteilungen (Sozialpädagoginnen und Sozialpädagogen, Psychologinnen und Psychologen, Lehrerinnen und Lehrer, Sonderpädagoginnen und Sonderpädagogen).
 
@@ -130,7 +131,7 @@ Wie ist zu erklären, dass, entgegen der festgehaltenen Ergebnisse etwaiger rege
 
 Welchen Zweck erfüllen die Bilanzierungsgespräche, wenn dort beschlossene Maßnahmen nicht eingehalten werden und Schulen, Eltern und GBS-Träger vor vollendete Tatsachen in Form unbegründeter Kürzungen gestellt werden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Bilanzierungsgespräche dienen der Beratung und dem fachlichen Austausch zwischen den fallzuständigen Fachkräften des ReBBZ, den Pädagoginnen und Pädagogen sowie gegebenenfalls den Sorgeberechtigten und weiteren Beteiligten. In Bilanzierungsgesprächen werden keine Maßnahmen festgelegt, vielmehr wird die Maßnahme evaluiert und es werden weitere Förder- und Unterstützungsmöglichkeiten geplant und besprochen. Es finden regelmäßig Bilanzierungsgespräche statt. Im Übrigen siehe Antwort zu 4. sowie Vorbemerkung.
 

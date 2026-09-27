@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13169"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66787"
@@ -45,7 +46,7 @@ Welche Veränderungen haben sich in der Klassifizierung seit der Darstellung in 
 
 Welche Erkenntnisse zieht er Senat jeweils aus den gegebenenfalls aktualisierten Klassifizierungsstufen und was bedeutet dies für die genannten Schulstandorte?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

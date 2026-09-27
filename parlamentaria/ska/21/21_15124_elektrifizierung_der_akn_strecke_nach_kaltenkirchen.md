@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64585"
@@ -54,7 +55,7 @@ Bereich erlassen?
 a. Wenn ja, wann?  
 b. Wenn nein, wann wird mit dem Beschluss gerechnet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Planfeststellungsbeschluss ist am 1. November 2018 erlassen worden.
 

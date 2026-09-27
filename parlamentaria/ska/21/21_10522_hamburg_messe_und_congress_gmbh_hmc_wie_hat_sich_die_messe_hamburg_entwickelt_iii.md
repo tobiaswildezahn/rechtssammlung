@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10410"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59401"
@@ -91,7 +92,7 @@ Auf welche Höhe belaufen sich aktuell die jeweiligen Standmieten für die 20 gr
 
 Wie hat sich die Anzahl der Aussteller bei den 20 größten Messen in Hamburg entwickelt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage.
 

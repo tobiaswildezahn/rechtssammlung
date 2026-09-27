@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13393", "21/7194", "21/10403"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64327"
@@ -43,7 +44,7 @@ Wurde der Planungsauftrag inzwischen erteilt? Wenn ja, wann und an wen? Wenn nei
 
 Was ist der genaue Gegenstand des Planungsauftrages? Welche Ergebnisse liegen bereits vor?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Maßnahme gehört zu einer Gruppe von Projekten, die im Arbeitsprogramm 2018 des zuständigen Bezirksamts aufgrund von Vakanzen zurückgestuft werden musste und deren Wiederaufnahme von Stellennachbesetzungen abhängig ist. Das zuständige Bezirksamt strebt an, eine Machbarkeitsuntersuchung mit vorbereitenden biologischen Bestandsaufnahmen im ersten Halbjahr 2019 zu beauftragen.
 

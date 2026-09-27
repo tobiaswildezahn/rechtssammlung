@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1379"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50873"
@@ -75,7 +76,7 @@ Hat die Vereinbarung der Behördenleitung der Wirtschaftsbehörde vorgelegen?
 
 Falls die HPA die Vereinbarung geschlossen hat, hat sie dem Aufsichtsrat beziehungsweise dem Aufsichtsratsvorsitzendem vorgelegen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nein, siehe dazu auch Vorbemerkung sowie Antworten zu 1. und zu 3.
 

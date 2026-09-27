@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6161"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55183"
@@ -53,13 +54,13 @@ Sind der BASFI Fälle bekannt, in denen Teilnehmer des Vorbereitungs- MOIN (V-MO
 
 Bei der Beendigung der Maßnahme sind folgende Unterscheidungen zu treffen:
 
- Ablauf der individuell unterschiedlichen Bewilligungsdauer,
+– Ablauf der individuell unterschiedlichen Bewilligungsdauer,
 
- „Ausschulung“ aufgrund eines Rechtskreiswechsel oder längerer Abwesenheit des
+– „Ausschulung“ aufgrund eines Rechtskreiswechsel oder längerer Abwesenheit des
 
 Teilnehmers/der Teilnehmerin,
 
- Verlängerung der Maßnahme/Ausstellung eines weiteren Aktivierungs- und Ver-
+– Verlängerung der Maßnahme/Ausstellung eines weiteren Aktivierungs- und Ver-
 
 mittlungsgutscheins.
 
@@ -95,15 +96,15 @@ Falls es sich um geförderte „Module“ handelt, in wie viele „Module“ ist
 
 Maßnahmeinhalte im sogenannten Vorbereitungs-MOIN („V-MOIN“) sind – abhängig vom jeweiligen Angebot eines Trägers – beispielsweise folgende Bausteine:
 
- Intensive Unterstützung bei der beruflichen Eingliederung mit Sprachtraining zur
+– Intensive Unterstützung bei der beruflichen Eingliederung mit Sprachtraining zur
 
 Teilnahme an Integrationskursen.
 
- Heranführen an den Ausbildungs- und Arbeitsmarkt.
+– Heranführen an den Ausbildungs- und Arbeitsmarkt.
 
- Berufsorientierung und Berufswegeplanung.
+– Berufsorientierung und Berufswegeplanung.
 
- Lebens- und Integrationshilfe.
+– Lebens- und Integrationshilfe.
 
 3.1 Stimmen die Aktivierungs- und Vermittlungsgutscheine (im Folgenden AVGS) jeweils mit der (zertifizierten?) Dauer eines „Moduls“ überein?
 

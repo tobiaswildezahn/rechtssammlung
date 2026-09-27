@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 14
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13001", "21/10858"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63157"
@@ -85,7 +86,7 @@ Woher stammen die finanziellen Mittel zur Erweiterung des Hallenbads Rahlstedt i
 
 In welchem Ausmaß sollen hierfür Verkaufserlöse eines Teils der Fläche des bisherigen Freibads am Wiesenredder genutzt werden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Mittel deckt die BLH im eigenen Wirtschaftsplan ab.
 
@@ -99,7 +100,7 @@ Wie viele Quadratmeter der Fläche des bisherigen Freibads am Wiesenredder solle
 
 In welchem Ausmaß und zu welchem Zeitpunkt wurden bereits Verkaufsverhandlungen oder andere vorbereitende Maßnahmen für die geplante Bebauung begonnen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Ungefähr 60 Prozent (circa 18.000 m²) der heutigen Freibadflächen sollen nach Veräußerung künftig für Wohnungsbau (rund 130 bis 150 Wohneinheiten, davon 30 Prozent öffentlich gefördert) genutzt werden. Zum Verkaufspreis können noch keine Angaben gemacht werden. Es wurden bisher weder Gespräche geführt noch wurde mit vorbereitenden Maßnahmen begonnen.
 
@@ -147,7 +148,7 @@ Wie ist die Zukunft des Bauspielplatzes gesichert, der bislang auf der Fläche, 
 
 Wie sind hierfür die zeitlichen Pläne?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Der Bauspielplatz wird vor Beginn der Erstellung des künftigen Ganzjahresfreibades auf ein nahe gelegenes Grundstück, welches durch das zuständige Bezirksamt zur Verfügung gestellt wird, umgesiedelt.
 

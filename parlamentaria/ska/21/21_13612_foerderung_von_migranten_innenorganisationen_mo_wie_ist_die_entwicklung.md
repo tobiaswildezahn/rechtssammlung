@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 23
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/4148", "21/3150", "21/10281", "21/11713", "21/13339", "20/5425", "21/11985", "21/11966"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62979"
@@ -53,7 +54,7 @@ Wie viele MO im Sinne der in Drs. 21/3150 dargelegten Begrifflichkeit und Defini
 
 Bereits in Drs. 20/5425 bestätigt der Senat, dass es eine Reihe von Organisationen gibt, die nicht alle Kriterien erfüllen, um als klassische MO zu gelten, wohl aber vor dem Hintergrund des Tätigkeitsspektrums mit MO vergleichbar sind. Von welchen dieser nicht klassischen MO hat der Senat gegenwärtig Kenntnis? Bitte diese MO in einer gesonderten Tabelle nach den Kriterien in Ziffer 1 darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/3150. Zur Aufteilung nach Bezirken siehe Drs. 20/5425. Neuere Angaben liegen dem Senat nicht vor. Soweit es sich um eingetragene Vereine handelt, ergibt sich dieser Umstand aus der Bezeichnung der Organisation. Darüber hinausgehende Informationen zur jeweiligen Rechtsform sind aus dem Zuwendungsverfahren INEZ (Integrierte Erfassung und Bearbeitung von Zuwendungen) nicht auswertbar.
 
@@ -67,7 +68,7 @@ Welche Haushaltsmittel standen in den Jahren 2016, 2017 und 2018 (Stand 28.06.20
 
 Welche MO erhielten beziehungsweise erhalten in den Jahren 2016, 2017 und 2018 (Stand 28.06.2018) jeweils staatliche Förderungen (bezirkliche, überbezirkliche, Bundes- und/oder europäische Mittel)? Bitte tabellarisch aufschlüsseln nach Jahren, geförderten Trägern (Zuwendungsempfängern/-innen), Zuwendungszweck, Dauer sowie Art der jeweiligen Förderung. Außerdem darstellen, welche Höhe jeweils wann bewilligt, wie viel Geld abgerufen und wie viel Geld gegebenenfalls zurückgezahlt wurde. Soweit die Förderungen aus dem Einzelplan 4 stammen, bitte auch Produktgruppe/Aufgabenbereich angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage 1. MO werden in den Produktgruppen nicht gesondert veranschlagt.
 

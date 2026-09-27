@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 18
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62595"
@@ -93,7 +94,7 @@ Hat das Bezirksamt Harburg Beanstandungen festgestellt? Wenn ja, wann und welche
 
 Um was für einen „Vorfall“ während einer Begehung durch Behördenmitarbeiter, den diese an das Jugendamt gemeldet haben sollen, handelt es sich?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die zuständige Stelle des Bezirksamtes Harburg hat eine Überprüfung vor Ort durchgeführt. Im Übrigen siehe Vorbemerkung.
 

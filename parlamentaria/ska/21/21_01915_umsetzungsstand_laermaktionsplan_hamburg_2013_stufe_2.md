@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14563", "20/7230", "20/11623"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50161"
@@ -333,7 +334,7 @@ Welche Erfahrungen hat der Senat mit dem Einsatz nicht offenporiger lärmmindern
 
 Welche Erfahrungen hat der Senat mit anderen lärmmindernden Fahrbahnbelägen (beispielsweise feinkörniger Splittmastixasphalt) gemacht? Welche Lärmminderungspotenziale sind durch den Einsatz dieser Deckschichten zu erreichen und ab welchen Geschwindigkeiten ist der Einsatz dieser Deckschichten sinnvoll?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 In Hamburg werden nicht offenporige lärmmindernde Deckschichten – hierzu gehört die Asphaltmischgutsorte Splittmastixasphalt (SMA 8 Hmb) – seit Längerem standardmäßig verwendet. Sie sind im straßenbautechnischen Regelwerk Hamburgs (ZTV/St-Hmb., ER 1, vergleiche Drs. 20/11623) verankert, haben sich als dauerhafte und zuverlässige Bauweisen bewährt und ermöglichen Pegelminderungen von −2 dB(A). Der Einsatz dieser Deckschichten findet geschwindigkeitsunabhängig nach den oben genannten Regelungen und Vorgaben statt, wobei die lärmmindernde Wirkung in der Regel dann greift, wenn das Reifen-Fahrbahn-Geräusch dominiert (Pkw ab circa 30 bis 40 km/h und Lkw ab circa 60 km/h).
 

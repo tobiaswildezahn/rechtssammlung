@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62647"
@@ -72,7 +73,7 @@ Wie viele strafgerichtliche Urteile im Zusammenhang mit dem Protestgeschehen geg
 
 Wie viele Strafbefehle wurden im vorgezeichneten Zusammenhang bis dato erlassen? a. Wie viele davon sind rechtskräftig? b. Welche Sanktionen fanden dabei wie oft Anwendung?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im Register 7120 Js der Staatsanwaltschaft werden mit Ausnahme der sogenannten Polizeisachen (insoweit Register 7320 Js) sämtliche Verfahren gegen Beschuldigte eingetragen, gegen die der Anfangsverdacht einer im Zusammenhang mit dem G20 Gipfel begangenen Straftat besteht und zwar unbeschadet des Umstandes, ob der Beschuldigte an einer politischen Meinungsäußerung interessiert war oder nicht.
 

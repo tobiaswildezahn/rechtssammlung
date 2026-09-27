@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55779"
@@ -106,7 +107,7 @@ Inwieweit ist der sehr normativ konnotierte und auf Bejahung abzielende Begriff 
 
 Im Gegensatz zum Begriff der „Akzeptanz“ beinhaltet das Konzept der „Toleranz“ sowohl eine ablehnende als auch eine annehmende Komponente. Warum benutzt die BSB nicht diesen weitaus weniger normativ konnotierten und mit dem aus dem Grundgesetz abgeleiteten Neutralitäts- und Indoktrinationsverbot nicht konfligierenden Begriff?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 § 2 HmbSG legt im Rahmen des Bildungs- und Erziehungsauftrags für die Hamburger Schulen unter anderem fest, „die Schülerinnen und Schüler zu befähigen und ihre Bereitschaft zu stärken, ihre Beziehungen zu anderen Menschen nach den Grundsätzen der Achtung und Toleranz (…) zu gestalten.“ Das neben Toleranz genannte Prin-
 

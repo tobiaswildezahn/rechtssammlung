@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55405"
@@ -65,91 +66,91 @@ Bei den Zielen handelt es sich um Daueraufgaben, die nicht durch Umsetzung eines
 
 Die Senatskanzlei und die Fachbehörden fördern und unterstützen seit vielen Jahren Projekte zur Intensivierung der Städtepartnerschaft. Folgende Projekte und Maßnahmen zeigen die Vielfalt der Kooperationen:
 
- musikalisches Austauschprojekt „Gartow.Connect“
+– musikalisches Austauschprojekt „Gartow.Connect“
 
- Festival „Arabesques en Russie“ in St. Petersburg
+– Festival „Arabesques en Russie“ in St. Petersburg
 
- das „Hamburger Deutsch-Russische Kinoforum“ im Metropolis
+– das „Hamburger Deutsch-Russische Kinoforum“ im Metropolis
 
- das deutsch-russische Kammermusikensemble „Beethoven Duo“
+– das deutsch-russische Kammermusikensemble „Beethoven Duo“
 
- Veranstaltungen im Rahmen der Tschaikowsky-Tage in Hamburg
+– Veranstaltungen im Rahmen der Tschaikowsky-Tage in Hamburg
 
- Musikwochen Hamburg – St. Petersburg im Tschaikowsky-Saal
+– Musikwochen Hamburg – St. Petersburg im Tschaikowsky-Saal
 
- Wettbewerbs für Nachwuchsmusikerinnen und -musiker „TONALI“
+– Wettbewerbs für Nachwuchsmusikerinnen und -musiker „TONALI“
 
- Expertenaustausch der Feuerwehr Akademie (FeuAk) und der „St. Petersburg
+– Expertenaustausch der Feuerwehr Akademie (FeuAk) und der „St. Petersburg
 
 University of State Fire Service of EMERCOM of Russia“
 
- das von der BWFG geführte EU-INTERREG-Projekt „Baltic Science Network/BSN“
+– das von der BWFG geführte EU-INTERREG-Projekt „Baltic Science Network/BSN“
 
 mit der St. Petersburg State University of Economics (UNECON)“
 
- gemeinsame wissenschaftliche Projekte im Rahmen der seit 1975 bestehenden
+– gemeinsame wissenschaftliche Projekte im Rahmen der seit 1975 bestehenden
 
 Universitätspartnerschaft zwischen der Universität Hamburg und der Staatlichen Universität St. Petersburg in neun Fächern
 
- Studiengang „Internationales Wirtschaftsrecht in St. Petersburg“ in Kooperation mit
+– Studiengang „Internationales Wirtschaftsrecht in St. Petersburg“ in Kooperation mit
 
 der Fakultät für Rechtswissenschaft der Universität Hamburg, der Hamburger Handelskammer und dem Deutschen Akademischen Austauschdienst e.V. (DAAD) an der juristischen Fakultät der Staatlichen Universität St. Petersburg
 
- ab 2017 erster Durchgang des gemeinsamen rechtswissenschaftlichen Doppel-
+– ab 2017 erster Durchgang des gemeinsamen rechtswissenschaftlichen Doppel-
 
 masterstudiengangs „European Legal Studies and International Economic Law“,
 
 bei dem die Studierenden ein Jahr am Europa-Kolleg der Universität Hamburg und ein Jahr an der Juristischen Fakultät St. Petersburg studieren
 
- wissenschaftliche Fachveranstaltungen des wissenschaftlichen Kollegiums in St.
+– wissenschaftliche Fachveranstaltungen des wissenschaftlichen Kollegiums in St.
 
 Petersburg und Hamburg unter Leitung von Prof. Dr. Steffen Burkhardt vom Competence Center Communication (CCCOM)
 
- Begegnung von Medien-Studierenden der Fakultät Design, Medien, Information
+– Begegnung von Medien-Studierenden der Fakultät Design, Medien, Information
 
 der Hochschule für Angewandte Wissenschaften Hamburg (HAW) und Journalismus-Studierenden von der Universität St. Petersburg
 
- Kooperation der Technischen Universität Hamburg-Harburg (TUHH) mit der Staat-
+– Kooperation der Technischen Universität Hamburg-Harburg (TUHH) mit der Staat-
 
 lichen Polytechnischen Universität St. Petersburg im Bereich der Forschung und des Studierendenaustausches
 
- Erfahrungsaustausch der HafenCity Universität (HCU) mit der staatlichen Universi-
+– Erfahrungsaustausch der HafenCity Universität (HCU) mit der staatlichen Universi-
 
 tät für Architektur und Bauingenieurwesen St. Petersburg, dem SREDA Institute of Urban Studies und zur staatlichen Universität für Informationstechnologien, Mechanik und Optik Sankt Petersburg; seit 2012 wird eine Liaisonprofessur für die Metropolregion St. Petersburg etabliert
 
- Teilnahme von Studierenden der staatlichen Universität für Architektur und Bauin-
+– Teilnahme von Studierenden der staatlichen Universität für Architektur und Bauin-
 
 genieurwesen St. Petersburg an der Konferenz Baltic International Summer School an der HCU
 
- Kooperation der Hochschule für Musik und Theater (HfMT) zum Staatlichen Kon-
+– Kooperation der Hochschule für Musik und Theater (HfMT) zum Staatlichen Kon-
 
 servatorium Sankt Petersburg „N.A. Rimski-Korsakow“, in deren Rahmen in unregelmäßigen Abständen Austauschmaßnahmen zwischen Studierenden und Lehrenden beider Einrichtungen durchgeführt wurden
 
- Beteiligung der Hochschule für bildende Künste Hamburg (HFBK) ist an dem
+– Beteiligung der Hochschule für bildende Künste Hamburg (HFBK) ist an dem
 
 deutsch-russischen Ausstellungsprojekt „900 und etwa 26000 Tage“ (in Kooperation mit dem Goethe-Institut Moskau/St. Petersburg, der Rodchenko Art School, Moskau, der PRO ARTE Foundation, St. Petersburg, der Forschungsstelle für Zeitgeschichte in Hamburg, der Landeszentrale für Politische Bildung Hamburg und Metropolis Hamburg sowie dem Kunstverein in Hamburg)
 
- Projekt „Wege ins Ausland II“, das es Hamburger Auszubildenden ermöglicht, ein
+– Projekt „Wege ins Ausland II“, das es Hamburger Auszubildenden ermöglicht, ein
 
 bis zu dreimonatiges Praktikum in St. Petersburg zu absolvieren
 
- Projekt „Fachkräfteaustausch Menschenrechte“
+– Projekt „Fachkräfteaustausch Menschenrechte“
 
- Jugendfeuerwehr-Austauschprojekt
+– Jugendfeuerwehr-Austauschprojekt
 
- Erfahrungsaustausche und Kontaktpflege zu Themen wie Umweltbildung und
+– Erfahrungsaustausche und Kontaktpflege zu Themen wie Umweltbildung und
 
 Bodenschutz auf Fachebene
 
- Protokollerklärung zwischen dem Komitee für Jugendpolitik und der Freien und
+– Protokollerklärung zwischen dem Komitee für Jugendpolitik und der Freien und
 
 Hansestadt Hamburg, um den Erfahrungsaustausch von Fachkräften der Jugendarbeit zwischen Hamburg und St. Peterburg zu fördern
 
- laufende Förderung von Schulpartnerschaften und Schüleraustauschen durch die
+– laufende Förderung von Schulpartnerschaften und Schüleraustauschen durch die
 
 administrative und finanzielle Unterstützung der für Bildung zuständigen Behörde
 
- Entsendung einer Landesprogrammlehrkraft im Rahmen des Lehrerentsendepro-
+– Entsendung einer Landesprogrammlehrkraft im Rahmen des Lehrerentsendepro-
 
 gramms des Bundes und der Länder zur Förderung der deutschen Sprache an die Schule Nummer 41 in St. Petersburg
 

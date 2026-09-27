@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 5
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1618", "21/5889"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54924"
@@ -51,7 +52,7 @@ Hat der Senat im Haushaltsplan-Entwurf 2017/2018 Mittel für die Deckung zusätz
 
 Bislang hatte eine Jury für die Mittelverteilung lediglich die gemeldeten Bedarfe aus der AG Sportinfrastruktur als Grundlage verwendet. Wie sollen zukünftig die Bedarfe der Vereine ermittelt und wie soll über die Förderung von Maßnahmen entschieden werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Mit dem Bericht über die Verwendung der Fördermittel 2016 hatte der Senat über die bis dato bekannten Bedarfe 2017 und 2018 berichtet, siehe Drs. 21/5889. Die in der AG Sportinfrastruktur vertretenen Behörden und Institutionen stimmen sich zurzeit über das weitere Vorgehen auch zum Thema Bedarfsermittlung ab. Die Gespräche sind noch nicht abgeschlossen.
 

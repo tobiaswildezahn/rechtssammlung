@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11648"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61291"
@@ -51,7 +52,7 @@ Wie viele Einbrüche wurden im Jahr 2017 im Alstertal und in den Walddörfern re
 
 Wie viele Einbrüche wurden im Jahr 2017 im Alstertal und in den Walddörfern aufgeklärt? Bitte nach Stadtteilen sowie Einbrüchen in Wohnungen beziehungsweise Häuser und Gewerbeobjekte aufgliedern.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

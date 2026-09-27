@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5922", "20/10659", "20/10460"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55357"
@@ -120,7 +121,7 @@ Wie viele Kilometer umfasste das Straßensanierungsvolumen in Hamburg gemessen i
 
 Wie viele Kilometer umfasste das Straßensanierungsvolumen in Hamburg gemessen in Fahrstreifenkilometern seit 2011? Bitte jahresweise seit 2011 aufschlüsseln für Hamburg insgesamt sowie für einzelnen Bezirke und die HPA.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Anlage 2.
 
@@ -132,7 +133,7 @@ Wie viele Kilometer Länge umfasst das Hamburger Straßennetz gemessen in Fahrst
 
 Wie viele Kilometer Länge umfasst das Hamburger Straßennetz gemessen in Fahrbahnen insgesamt aktuell?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 8.240 Kilometer. Im Übrigen siehe Vorbemerkung.
 
@@ -152,7 +153,7 @@ Warum war dem Staatsrat für Verkehr der BWVI vor der Sitzung des Verkehrsaussch
 
 Warum gestand der Staatsrat für Verkehr der BWVI in der Sitzung des Verkehrsausschusses vom 17.11.2016 erst auf eine CDU-Frage und einen anschließenden Hinweis seiner Mitarbeiter ein, dass es sich bei den vom Senat am 14. September 2016 veröffentlichten und via Pressemitteilung kommunizierten Zahlen um sanierte Kilometer Fahrstreifen handelte?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Dem Staatsrat für Verkehr der BWVI war bekannt, dass es sich bei den genannten Zahlen um Fahrbahn- beziehungsweise Fahrstreifenkilometer handelt. Ihm wurde jedoch durch die Nachfragen einiger Mitglieder des Verkehrsausschusses klar, dass dies nicht allen Ausschussmitgliedern bekannt war. Er hat deshalb die fachliche Herleitung der Zahl durch seine Mitarbeiter erläutern lassen. Damit konnte das Ziel einer
 

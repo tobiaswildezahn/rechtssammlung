@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 29
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9661", "20/13047"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58461"
@@ -73,7 +74,7 @@ a) Wie viele Projekte aus jeweils welchem Teilmarkt waren es in den Jahren 2014,
 
 Wie viele Anträge auf finanzielle Förderung von Projekten, die der Kreativwirtschaft zuzuordnen sind, wurden in den Jahren 2014, 2015 und 2016 bis zum Stichtag 31.05.2017 an die zuständige Behörde gestellt? Wie viele wurden davon mit welcher Begründung abgelehnt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage 2. Die Ablehnung einzelner Anträge beruht in aller Regel darauf, dass Fachgremien (Jurys) oder die zuständige Behörde sich – auch in Anbetracht der begrenzten vorhandenen Mittel – für die Förderung qualitativ besserer Vorhaben entschieden haben.
 

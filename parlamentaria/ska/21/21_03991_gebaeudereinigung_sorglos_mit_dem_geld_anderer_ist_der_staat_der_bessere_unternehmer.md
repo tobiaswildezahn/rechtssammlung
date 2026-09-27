@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 25
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1837", "19/7881", "20/4636", "20/9660", "20/13233", "20/10016", "20/13676", "21/2280", "20/13000", "20/6998", "20/5913", "21/12056", "21/1000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52378"
@@ -59,7 +60,7 @@ Wie hoch war der Jahresumsatz der in Frage 1) genannten Unternehmungen in den Ja
 
 Wie hoch waren die Jahresüberschüsse beziehungsweise die Jahresfehlbeträge für die Jahre 2012, 2013, 2014, 2015?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Zu den Umsätzen und den Jahresüberschüssen des LGH für die Jahre 2012, 2013 und 2014 siehe Drs. 20/9660, 20/13233 und 21/1837. Für das Jahr 2015 liegen die Angaben noch nicht vor.
 

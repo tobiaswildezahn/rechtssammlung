@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54547"
@@ -198,7 +199,7 @@ Warum lässt der Senat den 2. Förderweg brachliegen, obwohl gerade im Bereich d
 
 Ist eine Anpassung zur Steigerung der Attraktivität in den einzelnen Fördersegmenten beziehungsweise im 2. Förderweg vorgesehen? Wenn ja, welche? Wenn nein warum nicht?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Antwort zu 3.
 

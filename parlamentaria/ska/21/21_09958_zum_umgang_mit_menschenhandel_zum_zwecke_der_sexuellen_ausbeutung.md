@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 21
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10994", "21/794"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58778"
@@ -61,7 +62,7 @@ Hat es in den vergangenen fünf Jahren merkliche Veränderungen bezüglich sozia
 
 Hat es in den vergangenen fünf Jahren merkliche Veränderungen bezüglich sozialstruktureller Merkmale bei den Tätern von Delikten nach §232 StGB gegeben?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Jahresstatistik von KOOFRA unterscheidet in der Betrachtung einzelner Merkmale nicht nach Opfern von Delikten nach § 232 und nach § 233 StGB. Für die Gesamtzahl der von KOOFRA in den letzten fünf Jahren betreuten Personen lässt sich hinsichtlich Alter und Herkunftsland keine gravierenden Veränderung feststellen. Weitere sozialstrukturelle Merkmale sowie täterbezogene Daten werden nicht erfasst.
 

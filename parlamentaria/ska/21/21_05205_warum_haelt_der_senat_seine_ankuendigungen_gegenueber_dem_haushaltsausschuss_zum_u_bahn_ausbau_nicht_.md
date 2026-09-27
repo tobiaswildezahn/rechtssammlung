@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2393"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53689"
@@ -73,7 +74,7 @@ Wie hoch sind die geschätzten Kosten für den Bau der neuen U-Bahn- Haltestelle
 
 Wann soll der Bürgerschaft eine entsprechende Drucksache vorgelegt werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die im Juni des Jahres 2016 übergebene Kostenunterlage wird derzeit in der zuständigen Behörde geprüft. Die Kosten und einzelnen Kostenbestandteile der Maßnahme werden der Bürgerschaft mit der Drucksache zur Finanzierung der Haltestelle, die derzeit in der zuständigen Behörde vorbereitet wird, vorgelegt werden.
 
@@ -87,13 +88,13 @@ Mit Bescheid vom 16. Dezember 2014 wurde der HOCHBAHN für die Vorentwurfs-, Ent
 
 Bisher wurden Planungsaufträge für folgende Leistungen ausgeschrieben und vergeben:
 
- Objektplanung Ingenieurbauwerk,
+– Objektplanung Ingenieurbauwerk,
 
- Tragwerksplanung,
+– Tragwerksplanung,
 
- Objektplanung Freianlagen,
+– Objektplanung Freianlagen,
 
- Fachplanung Technische Ausrüstung für:
+– Fachplanung Technische Ausrüstung für:
 
 - Anlagengruppe Wasser/Abwasser,
 
@@ -107,26 +108,26 @@ Bisher wurden Planungsaufträge für folgende Leistungen ausgeschrieben und verg
 
 Folgende Fachplanungen werden durch Fachplaner der HOCHBAHN erbracht:
 
- Objektplanung Raumbildender Ausbau/Gebäude (Haltestelle),
+– Objektplanung Raumbildender Ausbau/Gebäude (Haltestelle),
 
- Fachplanung Technische Ausrüstung, Anlagengruppe Fernmelde- und Informati-
+– Fachplanung Technische Ausrüstung, Anlagengruppe Fernmelde- und Informati-
 
 onstechnische Anlagen (inklusive Zugsicherungstechnik),
 
- Objektplanung Verkehrsanlagen (hier: Gleisbau).
+– Objektplanung Verkehrsanlagen (hier: Gleisbau).
 
 Folgende Gutachter- und Beratungsleistungen wurden zusätzlich ausgeschrieben und beauftragt:
 
- Vermessungsleistungen,
+– Vermessungsleistungen,
 
- Trassierungsberechnungen für neue Gleislagen,
+– Trassierungsberechnungen für neue Gleislagen,
 
- Bodengutachten und Gründungsempfehlung,
+– Bodengutachten und Gründungsempfehlung,
 
- Landschaftspflegerischer Begleitplan mit Darstellung der Ausgleichsmaßnahmen,
+– Landschaftspflegerischer Begleitplan mit Darstellung der Ausgleichsmaßnahmen,
 
- Artenschutzfachgutachen,
+– Artenschutzfachgutachen,
 
- Vorprüfung auf Umweltverträglichkeit gem. UVPG,
+– Vorprüfung auf Umweltverträglichkeit gem. UVPG,
 
- Schalltechnische Gutachten.
+– Schalltechnische Gutachten.

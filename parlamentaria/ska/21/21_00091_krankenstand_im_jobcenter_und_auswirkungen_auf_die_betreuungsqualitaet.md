@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48222"
@@ -47,7 +48,7 @@ Wie hat sich der Krankenstand im Jobcenter im Zeitraum 2012 bis heute entwickelt
 
 Wie hoch ist der durchschnittliche Krankenstand der Beschäftigten der Bundesagentur für Arbeit/Freien und Hansestadt Hamburg? Bitte aufgliedern in: a. Standorte Jobcenter b. Zeiträume ab 2012
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für die Mitarbeiterinnen und Mitarbeiter der BA erfolgt eine Erhebung und Auswertung durch die BA seit dem Jahr 2014. Hier lag die Krankheitsquote im Jahresdurchschnitt bei 7,01 Prozent. Eine Erhebung nach Standorten erfolgt bei der BA nicht.
 

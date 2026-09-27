@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59741"
@@ -39,37 +40,37 @@ Vom 18. bis 20. Oktober 2017 reiste Wissenschaftssenatorin Fegebank, begleitet v
 
 Folgende Gesprächstermine hat die Delegation wahrgenommen:
 
- Besuch der Cambridge University (CU), Gesprächspartner: Frau Shirley Jamieson
+– Besuch der Cambridge University (CU), Gesprächspartner: Frau Shirley Jamieson
 
 und Herr Dr. Sudhoft,
 
- Besuch Cambridge Enterprise, Gesprächspartner: Herr Dr. Tony Raven, Herr John
+– Besuch Cambridge Enterprise, Gesprächspartner: Herr Dr. Tony Raven, Herr John
 
 Halfpenny, Herr Stewart McTavish,
 
- Besuch des Magnetic Resonance Research Centre/Cambridge University,
+– Besuch des Magnetic Resonance Research Centre/Cambridge University,
 
 Gesprächspartnerin: Direktorin Frau Prof. Lynn Gladden,
 
- Deutsche Botschaft London, Gesprächspartnerin: Frau Gesandte v. Uslar-
+– Deutsche Botschaft London, Gesprächspartnerin: Frau Gesandte v. Uslar-
 
 Gleichen,
 
- Besuch des Imperial College London, Gesprächspartner: Prof. Neil Alford, Prof.
+– Besuch des Imperial College London, Gesprächspartner: Prof. Neil Alford, Prof.
 
 Bernadette Byrne, Prof. Stefan Maier, Prof. Leszek Frazinski, Prof. Thomas Meier, Prof. Jasper Van Thor, Frau Helen Challis, Herr Michael McTernan,
 
- Besuch bei der Russel-Group, Gesprächspartner: Herr Dr. Tim Bradshaw, Frau
+– Besuch bei der Russel-Group, Gesprächspartner: Herr Dr. Tim Bradshaw, Frau
 
 Jessica Cole, Frau Joanna Burton, Frau Professor Dame Jessica Corner, Herr Jon Deer, Frau Dr. Uta Staiger, Frau Eevi Laukkanen,
 
- Gespräch mit Sir Mark Walport, Chief Scientific Adviser der britischen Regierung,
+– Gespräch mit Sir Mark Walport, Chief Scientific Adviser der britischen Regierung,
 
- Besuch des Crick-Instituts, Gesprächspartner: Herr Larry Malcic, Herr Christopher
+– Besuch des Crick-Instituts, Gesprächspartner: Herr Larry Malcic, Herr Christopher
 
 Colosimo, Herr David King Leed,
 
- Gespräch mit UniversitiesUK, Gesprächspartner: Herr Jamie Arrowsmith und Frau
+– Gespräch mit UniversitiesUK, Gesprächspartner: Herr Jamie Arrowsmith und Frau
 
 Anne-May Janssen.
 
@@ -92,61 +93,61 @@ b) Wer war Teilnehmer ihrer Delegation beziehungsweise wer begleitete Senatorin 
 
 Die Delegation setzte sich wie folgt zusammen:
 
- Katharina Fegebank, Zweite Bürgermeisterin und Senatorin für Wissenschaft, For-
+– Katharina Fegebank, Zweite Bürgermeisterin und Senatorin für Wissenschaft, For-
 
 schung und Gleichstellung der Freien und Hansestadt Hamburg
 
- Dr. Rolf Greve, Amtsleiter Behörde für Wissenschaft, Forschung und Gleichstel-
+– Dr. Rolf Greve, Amtsleiter Behörde für Wissenschaft, Forschung und Gleichstel-
 
 lung
 
- Klaus v. Lepel, Referatsleiter Behörde für Wissenschaft, Forschung und Gleichstel-
+– Klaus v. Lepel, Referatsleiter Behörde für Wissenschaft, Forschung und Gleichstel-
 
 lung
 
- Prof. Dr. Jan Louis, Vizepräsident Forschung der Universität Hamburg (UHH)
+– Prof. Dr. Jan Louis, Vizepräsident Forschung der Universität Hamburg (UHH)
 
- Prof. Dr. Brian Foster, Alexander von Humboldt-Professor an der Universität Ham-
+– Prof. Dr. Brian Foster, Alexander von Humboldt-Professor an der Universität Ham-
 
 burg und dem DESY (Deutsche Elektron Synchrotron)
 
- Prof. Dr. Robert Feidenhansl, Managing Director European XFEL
+– Prof. Dr. Robert Feidenhansl, Managing Director European XFEL
 
- Dr. Walter Pelka, Präsident der HafenCity Universität Hamburg – Universität für
+– Dr. Walter Pelka, Präsident der HafenCity Universität Hamburg – Universität für
 
 Baukunst und Metropolenentwicklung (HCU)
 
- Prof. Dr. Gesa Ziemer, Vizepräsidentin Forschung an der der HafenCity Universität
+– Prof. Dr. Gesa Ziemer, Vizepräsidentin Forschung an der der HafenCity Universität
 
 Hamburg – Universität für Baukunst und Metropolenentwicklung (HCU)
 
- Prof. Dr.-Ing. Andreas Timm-Giel, Vizepräsident Forschung an der Technischen
+– Prof. Dr.-Ing. Andreas Timm-Giel, Vizepräsident Forschung an der Technischen
 
 Universität Hamburg (TUHH)
 
- Prof. Dr. Raimund Horn, Leiter des Instituts für Chemische Reaktionstechnik an
+– Prof. Dr. Raimund Horn, Leiter des Instituts für Chemische Reaktionstechnik an
 
 der Technischen Universität Hamburg-Harburg (TUHH)
 
- Prof. Dr.-Ing. Michael Schlüter. Leitung im Institut Mehrphasenströmungen an der
+– Prof. Dr.-Ing. Michael Schlüter. Leitung im Institut Mehrphasenströmungen an der
 
 Technischen Universität Hamburg-Harburg (TUHH)
 
- Mr. Martin Mahn, CEO Hamburg Innovation GmbH and CEO TUTECH Innovation
+– Mr. Martin Mahn, CEO Hamburg Innovation GmbH and CEO TUTECH Innovation
 
 GmbH
 
- Prof. Dr. Thomas Netzel, Vizepräsident für Forschung, Transfer und Internationali-
+– Prof. Dr. Thomas Netzel, Vizepräsident für Forschung, Transfer und Internationali-
 
 sierung an der Hochschule für Angewandte Wissenschaften Hamburg (HAW Hamburg)
 
- Dr. Rolf Strittmatter, Geschäftsführer der Hamburger Invest Wirtschaftsförderung
+– Dr. Rolf Strittmatter, Geschäftsführer der Hamburger Invest Wirtschaftsförderung
 
 (HWF) und Hamburg Marketing (HMG)
 
- Nina Alswede, Marketing Manager, Hamburg Convention Bureau (HCB)
+– Nina Alswede, Marketing Manager, Hamburg Convention Bureau (HCB)
 
- Sebastian Schaffer, Stellvertretender Senatssprecher Freie und Hansestadt Ham-
+– Sebastian Schaffer, Stellvertretender Senatssprecher Freie und Hansestadt Ham-
 
 burg
 

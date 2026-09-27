@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 30
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51242"
@@ -91,6 +92,6 @@ Werden durch die HSH Nordbank und/oder welche Dritte bereits die Portfolien ausg
 
 Wird durch die poma AöR und/oder welche Dritte bereits ein Abwicklungsplan entwickelt, der Voraussetzung für die Übernahme notleidender Portfolien aus der HSH Nordbank ist? a. Wenn ja, bis wann soll dieser fertiggestellt sein? b. Wenn nein, warum nicht und bis wann soll damit begonnen werden?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Auswahl der zur übertragenden Portfolien erfolgt seit Ende Dezember 2015. Die Bewertung beginnt, sobald das Portfolio hinreichend konkret bestimmt ist und die HSH hierzu alle erforderlichen Informationen zur Verfügung gestellt hat. Die Europäische Kommission hat die Unternehmensberatung Oliver Wyman, aufseiten der Länder ist die Wirtschaftsprüfungsgesellschaft PriceWaterhouseCoopers AG mit der Ermittlung der Marktwerte beauftragt. Die Aufstellung des Abwicklungsplans erfolgt nach abschließender Festlegung des zu übertragenden Portfolios durch die hsh portfoliomanagement AöR. Im Übrigen sind die Planungen noch nicht abgeschlossen.

@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 22
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4847"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64481"
@@ -75,19 +76,19 @@ Unterstützt der Senat beziehungsweise die zuständige Behörde die Hamburger Ex
 
 Der Erfolg der Exzellenzcluster ist das Ergebnis gezielter Unterstützung durch die Universität Hamburg und die Freie und Hansestadt Hamburg bereits seit geraumer Zeit. So profitierten alle vier Exzellenzcluster in unterschiedlichem Umfang von zentralen Maßnahmen der Wissenschaftsförderung:
 
- Bereitstellung von zusätzlichen Finanzmitteln zur Exzellenzförderung in Höhe von
+– Bereitstellung von zusätzlichen Finanzmitteln zur Exzellenzförderung in Höhe von
 
 circa 20 Millionen Euro im Zeitraum 2016 bis Ende 2020 (Drs. 21/4847)
 
- Campus-Entwicklungen auf dem Campus Bahrenfeld, dem Campus Bundesstraße
+– Campus-Entwicklungen auf dem Campus Bahrenfeld, dem Campus Bundesstraße
 
 und dem Campus von-Melle-Park
 
- Investitionen in Forschungsbauten wie zum Beispiel das CHyN, HARBOR oder das
+– Investitionen in Forschungsbauten wie zum Beispiel das CHyN, HARBOR oder das
 
 Haus der Erde, Finanzierung des Deutschen Klimarechenzentrums zwischen Freier und Hansestadt Hamburg, Max-Planck-Gesellschaft und Helmholtz-Gemeinschaft
 
- Investitionen in Informationstechnologien und Digitalisierung, wie zum Beispiel bei
+– Investitionen in Informationstechnologien und Digitalisierung, wie zum Beispiel bei
 
 der Digitalplattform ahoi.digital
 

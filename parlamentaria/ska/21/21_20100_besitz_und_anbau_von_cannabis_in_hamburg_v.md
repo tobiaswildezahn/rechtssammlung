@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16848"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69861"
@@ -143,7 +144,7 @@ Wie viele Cannabispflanzen und wie viel Kilogramm Cannabis und Zubereitungen wur
 
 Wie viel Cannabis und Zubereitungen wurden in den Jahren 2018 und 2019 jeweils beschlagnahmt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 2018  
 2019  

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1948", "21/448"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50766"
@@ -47,7 +48,7 @@ Welche Standorte für StadtRAD-Stationen wurden seit 2011, zusätzlich zu den be
 
 Sofern die unter 1. aufgeführten Standorte jeweils nicht bis Ende 2015 realisiert werden sollten: Warum jeweils nicht, wer hat dies wann entschieden und wurden diejenigen, die den Standort vorgeschlagen hatten, jeweils über das Ergebnis informiert? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es wurden sehr viele Wünsche für neue StadtRAD-Stationen von städtischen und privaten Akteuren geäußert. Alle Standortvorschläge wurden geprüft, jedoch haben sich nur wenige für die Realisierung als geeignet herausgestellt. Gründe hierfür sind zum Beispiel unzureichender Netzverbund der Station, fehlendes Kundenpotenzial im Einzugsgebiet oder das Fehlen sichtbarer und gut erreichbarer Flächen.
 
@@ -55,17 +56,17 @@ Die Standorte mit den erbetenen Detailangaben sind der Anlage 1 zu entnehmen.
 
 Die Entscheidung über die Realisierung von StadtRAD-Stationen trifft die zuständige Behörde insbesondere unter Berücksichtigung:
 
- von Vorschlägen Dritter,
+– von Vorschlägen Dritter,
 
- der finanziellen Möglichkeiten,
+– der finanziellen Möglichkeiten,
 
- des zu erwartenden Kundenpotenzials,
+– des zu erwartenden Kundenpotenzials,
 
- des wirkungsvollen Netzverbundes der Stationen miteinander,
+– des wirkungsvollen Netzverbundes der Stationen miteinander,
 
- eines aus betrieblicher Sicht sinnvollen Gesamtbedienungsgebietes und
+– eines aus betrieblicher Sicht sinnvollen Gesamtbedienungsgebietes und
 
- der Flächenverfügbarkeit vor Ort.
+– der Flächenverfügbarkeit vor Ort.
 
 Die Standorte des Stationskontingents für die vierte Ausbaustufe sind insbesondere mit Blick auf den Bezirk Bergedorf noch nicht abschließend definiert. Über das Ergebnis wird die zuständige Behörde nach Abschluss der Konzeption im Rahmen der Beantwortung des Bürgerschaftlichen Ersuchens „StadtRAD-Stationen ausbauen – Bezirke bei der Standortsuche beteiligen“ (Drs. 21/448) berichten.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65598"
@@ -75,7 +76,7 @@ Wie wurden diese Alternativstrecken bewertet und was waren die entscheidenden Gr
 
 Gibt es gesetzliche Vorgaben, die eine Prüfung einer bestimmten Anzahl von Alternativstrecken bei Projekten dieser Art vorgeben und welche sind diese?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Alternativenprüfung und -bewertung im Rahmen der Planfeststellung obliegt dem Eisenbahnbundesamt und ist noch nicht abgeschlossen. Gesetzliche Vorgaben, die eine Prüfung einer bestimmten Anzahl von Alternativstrecken vorschreiben, existieren nicht. In der Rechtsprechung ist anerkannt, dass großräumige Trassenvarianten dann nicht in die Abwägung einbezogen werden müssen, wenn sie sich im Hinblick auf das Planungsziel, wie es im Bedarfsplan zum Bundesschienenwegeausbaugesetz als vordringlicher Bedarf ausgewiesen ist, schon deshalb nicht aufdrängen mussten, weil es sich dabei um andere Vorhaben gehandelt hätte (vergleiche BVerwG, Beschluss vom 12. April 2005, Az. 9 VR 41.04, juris, Rn. 42).
 

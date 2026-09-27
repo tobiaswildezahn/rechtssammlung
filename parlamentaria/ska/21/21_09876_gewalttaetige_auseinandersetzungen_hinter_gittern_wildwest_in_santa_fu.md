@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9773", "21/6092"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58692"
@@ -63,7 +64,7 @@ Hat es eine derartige Auseinandersetzung am letzten Juni-Wochenende gegeben?
 
 Falls ja, wie stellt sich der Sachverhalt im Einzelnen dar? a. Wie viele Gefangene waren daran beteiligt? b. Waren sie bewaffnet? Falls ja, mit welchen Waffen beziehungsweise gefährlichen Gegenständen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ja, im Übrigen siehe Vorbemerkung.
 

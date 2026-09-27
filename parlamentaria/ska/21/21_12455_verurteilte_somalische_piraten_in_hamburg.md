@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61754"
@@ -71,7 +72,7 @@ Gibt es inzwischen Pläne, die verurteilten Somalier abzuschieben? Wenn ja, wie 
 
 Wie sehen die Behörden inzwischen die Perspektiven der betroffenen Somalier?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 In allen Fällen wurde eine Ausweisungsverfügung erlassen, von der eine zwischenzeitlich durch einen gerichtlichen Vergleich wieder aufgehoben wurde. In einem Fall ist das Rechtsmittelverfahren noch anhängig. Zwei Personen haben Anträge auf Erteilung einer Aufenthaltserlaubnis gestellt, die sich aktuell in Prüfung befinden.
 
@@ -101,7 +102,7 @@ Sind die Somalier immer noch bei sozialen Einrichtungen untergebracht?
 
 Wie wohnen die Somalier in Hamburg?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Zwei Personen sind öffentlich-rechtlich untergebracht. Die übrigen drei Personen wohnen in Privatwohnungen.
 

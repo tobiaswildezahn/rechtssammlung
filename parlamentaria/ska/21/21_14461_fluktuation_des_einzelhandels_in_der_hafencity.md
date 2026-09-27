@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14254"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63885"
@@ -53,7 +54,7 @@ Wird der genannte Senatsbeschluss umgesetzt oder wurde mittlerweile ein anderer 
 
 Wie werden in Hamburg von den Behörden die Nahversorgungsstrukturen kontrolliert, ohne eine Fluktuation des Einzelhandels zu verfolgen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

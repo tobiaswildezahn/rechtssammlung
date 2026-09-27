@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 9
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7991", "20/8046"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53767"
@@ -49,7 +50,7 @@ Wie viele Lehrer/-innen haben sich seit Anfang 2015 pro Monat vor den Sommerferi
 
 Wie viele Lehrer/-innen haben sich seit 2015 pro Monat vor den Sommerferien aufgrund befristeter Arbeitsverträge inklusive des Monats Juli 2016 arbeitssuchend gemeldet? a. Wie viele von ihnen erhalten Arbeitslosengeld I? b. Wie viele von ihnen erhalten Arbeitslosengeld II?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 
@@ -61,6 +62,6 @@ Gibt es vom Senat eine neue Einschätzung zu der Situation, dass Lehrer/-innen s
 
 Gibt es vom Senat eine aktuelle Einschätzung zu der Bewertung der Bundesagentur für Arbeit, dass das Verhalten des Senats ein Ausnutzen der arbeitsrechtlichen Schutzvorschriften darstelle, insbesondere unter dem Aspekt, dass sich die Lehrerinnen und Lehrer bereits drei Monate vor der beginnenden Arbeitslosigkeit arbeitsuchend melden müssen und jedoch über eine mögliche Anschlussverwendung nach den Ferien zu diesem Zeitpunkt noch nicht entschieden ist?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nein. Die zuständige Behörde schließt unbefristete Arbeitsverträge für ausgebildete Lehrkräfte ab. Nur für Vertretungslehrkräfte, die den Unterrichtsausfall verhindern sollen, werden befristete Arbeitsverträge abgeschlossen. Bei den Vertretungslehrkräften handelt es sich in der Mehrzahl um nicht oder nicht vollständig als Lehrkräfte ausgebildete Personen oder Personen, die das Masterstudium Lehramt abgeschlossen haben und auf einen Referendariatsplatz warten. Eine dauerhafte Einstellung der Vertretungskräfte in den Schulbetrieb ist vor dem Hintergrund des üblichen Einsatzes einer Lehrkraft in mehreren Unterrichtsfächern und einer entsprechenden erforderlichen pädagogischen Ausbildung nicht vorgesehen. Im Übrigen siehe Drs. 20/7991 sowie Drs. 20/8046.

@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51525"
@@ -42,7 +43,7 @@ Die Umweltbehörde wird gebeten, umgehend einen Pflege- und Entwicklungsplan (PE
 Die Umweltbehörde wird weiterhin gebeten, die für die Umsetzung der derzeit gültigen sowie der zu überarbeitenden und des zu erstellenden PEPl notwendigen Mittel dem Bezirk zur Verfügung zu stellen. Vor diesem Hintergrund frage ich den Senat:
 1. Wie lautet der aktualisierte Pflege- und Entwicklungsplan für das NSG Raakmoor und wann wurde er an den Bezirk Hamburg-Nord übersandt? Sofern es noch keinen aktualisierten Pflege- und Entwicklungsplan geben sollte, warum nicht und wer hat dieses wann in Abstimmung mit wem entschieden und wann wird dieser nunmehr vorgelegt beziehungsweise gibt es einen Entwurf und falls ja, welchen Inhalt hat er?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der heute noch aktuelle „Pflege und Entwicklungsplan für das Naturschutzgebiet Raakmoor“ wurde dem Bezirksamt Hamburg-Nord von der zuständigen Behörde am
 19. Dezember 2005 übersandt. Er wird überarbeitet und aktualisiert, wenn dies nach Auffassung der zuständigen Behörde aus naturschutzfachlichen Gründen erforderlich ist.

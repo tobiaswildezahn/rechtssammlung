@@ -14,6 +14,7 @@ fragen: 29
 einzelfragen: 36
 antwortbloecke: 29
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4919", "21/10677", "21/11001", "21/12037", "21/6544"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61649"
@@ -524,21 +525,21 @@ Nach Auswertung von f & w fördern und wohnen AöR. (f & w) wurden 347 Personen 
 
 Im Bereich der Erstaufnahme und Erstversorgung für unbegleitete minderjährige Ausländer sind im Februar 2018 53 Personen neu aufgenommen worden. Im selben Monat haben insgesamt 52 unbegleitete minderjährige Ausländer die Erstaufnahme und Erstversorgung wieder verlassen:
 
- 15 unbegleitete minderjährige Ausländer wechselten in eine Folgeeinrichtung im
+– 15 unbegleitete minderjährige Ausländer wechselten in eine Folgeeinrichtung im
 
 Rahmen einer Hilfe zur Erziehung oder verblieben in ihrer Einrichtung mit neuer Hilfeform.
 
- In 18 Fällen erfolgte eine Feststellung der Volljährigkeit und der Umzug in eine
+– In 18 Fällen erfolgte eine Feststellung der Volljährigkeit und der Umzug in eine
 
 Wohnunterkunft.
 
- 14 unbegleitete minderjährige Ausländer haben sich mit unbekanntem Ziel ent-
+– 14 unbegleitete minderjährige Ausländer haben sich mit unbekanntem Ziel ent-
 
 fernt,
 
- eine ist zu seinem Privatvormund und
+– eine ist zu seinem Privatvormund und
 
- vier sind zu Verwandten entlassen worden.
+– vier sind zu Verwandten entlassen worden.
 
 ### Frage 15
 

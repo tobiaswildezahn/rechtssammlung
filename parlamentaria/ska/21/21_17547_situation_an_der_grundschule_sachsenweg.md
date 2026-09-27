@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9847", "21/16633", "21/16131", "21/16862"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67142"
@@ -84,7 +85,7 @@ Was spricht vonseiten der zuständigen Behörde aktuell gegen die Einrichtung ei
 
 Sind alle Optionen von räumlichen Kapazitäten geprüft worden? Warum können das aktuell leer stehende ehemalige Büro der GBS oder der „neue“ Sachkunderaum nicht als weiterer Klassenraum genutzt werden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Möglichkeit der Einrichtung einer dritten ersten Klasse zum Schuljahr 2019/2020 an der Grundschule Sachsenweg und jegliche akzeptable Unterbringungsmöglichkeiten wurden im Vorwege sorgfältig geprüft. Eine Auslagerung an die benachbarten Schulen oder die Aufstellung eines mobilen Klassenraums auf dem Schulgelände sind nicht möglich.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 21
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1204", "21/114", "20/13460", "21/476", "21/954"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49467"
@@ -43,7 +44,7 @@ Welche Veränderungen haben sich nach Erkenntnis des Verfassungsschutzes im Verg
 
 Wie hat der Einfluss der salafistischen/dschihadistischen Szene zugenommen beziehungsweise wie hat sich der Einfluss dieser Szene verändert? Mit welchen Maßnahmen versucht die salafistische/dschihadistische Szene an Einfluss zu gewinnen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Zahl der Personen, die dem Landesamt für Verfassungsschutz (LfV) Hamburg als Angehörige des salafistischen Spektrums bekannt sind, ist weiter gestiegen. Wesentliche Propagandamittel sind weiterhin das Internet und die persönliche Ansprache. Verstetigt hat sich die Anmeldung von sogenannten Koranverteilungsständen, aber auch die Wahrnehmung sogenannter Street-Dawa-Aktionen. Im Übrigen siehe Drs. 21/1204.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6171", "21/9852"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62145"
@@ -61,7 +62,7 @@ Um welche Ausweisungen im Flächennutzungsplan handelt es sich jeweils? Bitte ta
 
 Aus welchem Grund kam es zum derzeitigen Leerstand der jeweiligen Immobilien beziehungsweise zum Brachliegen der jeweiligen Grundstücke?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Gewerbeobjekte mit vollständigem Leerstand stehen regelhaft aufgrund von Feuchtigkeitsschäden, Schimmelbefall, Bodenkontamination, einer geplanten Veräußerung, einem vorgesehenen Abriss, einer Projektentwicklung, Planungsbetroffenheit, mangelnder Nachfrage, einer geplanten Anhandgabe oder Ausschreibung leer. Gründe für den vollständigem Leerstand von Wohngebäude sind ein geplanter Verkauf oder Abbruch sowie laufende beziehungsweise geplante Modernisierungsmaßnahmen. Im Übrigen siehe Vorbemerkung.
 

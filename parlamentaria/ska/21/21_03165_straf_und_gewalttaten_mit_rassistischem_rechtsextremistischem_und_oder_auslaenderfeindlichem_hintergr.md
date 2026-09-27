@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 15
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2628", "19/4795", "20/3215", "18/6461", "18/6617", "21/1986", "18/6559"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51506"
@@ -41,15 +42,15 @@ Im Landeskriminalamt (LKA) Hamburg ist die Abteilung Staatsschutz (LKA 7) für p
 
 Unterschiedliche Angaben und Daten, insbesondere zu gleichartigen, aber nicht identischen Fragestellungen zu Statistiken der Strafverfolgungsbehörden können unter anderem beruhen auf
 
- jeweils unterschiedlichen erfragten Begriffen, Oberbegriffen, Bezugszeiträumen
+– jeweils unterschiedlichen erfragten Begriffen, Oberbegriffen, Bezugszeiträumen
 
 oder anderen Bezugsgrößen in den jeweiligen Fragestellungen,
 
- unterschiedlichen Erfassungsrahmen, Erfassungs-, Abfragezeitpunkten oder Zeit-
+– unterschiedlichen Erfassungsrahmen, Erfassungs-, Abfragezeitpunkten oder Zeit-
 
 räumen (einschließlich fehlender Nachmeldungen und gegebenenfalls gesonderter Meldewege) sowie den entsprechenden elektronisch unterstützen Recherchemöglichkeiten in den Statistiken jeweils befragter Institutionen sowie
 
- unterschiedlicher Auslegung und entsprechend unterschiedlicher Detailtiefe in der
+– unterschiedlicher Auslegung und entsprechend unterschiedlicher Detailtiefe in der
 
 Beantwortung einzelner Fragen.
 
@@ -85,7 +86,7 @@ In meiner Schriftlichen Anfrage Drs. 21/2628 frage ich in Frage 2. nach der Anza
 
 derselben Drucksache beantworten?
 
-#### Antwort zu Fragen 3, 6
+#### Antwort zu Fragen 3 und 6
 
 Fragen 2. und 6. der Drs. 21/2628 bezogen sich auf unterschiedliche Themenstellungen und damit Auswerteerfordernisse. Frage 2. der BT.-Drs. 18/6461 (Antwort der Bundesregierung in BT.-Drs. 18/6617) bezog sich auf einen deutlich kürzeren Auswertezeitraum, für dessen Auswertung eine deutlich längere Antwortzeit zur Verfügung steht.
 

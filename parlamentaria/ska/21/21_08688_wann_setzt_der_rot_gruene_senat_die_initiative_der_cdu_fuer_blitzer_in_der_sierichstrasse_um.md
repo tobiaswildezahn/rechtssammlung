@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8356", "21/7341"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57411"
@@ -43,7 +44,7 @@ Wann wird der oben genannte Beschluss durch den Senat beziehungsweise die zustä
 
 Wo werden die „Blitzer“ installiert? Bitte die Standortentscheidung begründen und die Kriterien für die Standortwahl offenlegen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Beschlussempfehlung wird durch die Polizei geprüft. Ergebnisse liegen derzeit noch nicht vor.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6208"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59633"
@@ -73,7 +74,7 @@ Welche Prognosen hinsichtlich zukünftiger Verkehrsbelastungen (DTV, Rad- und Fu
 
 Wie wurden die Bedarfe für die vorgesehenen Änderungen des Verkehrsraums ermittelt? Zu welchen Ergebnissen sind diese Bedarfsanalysen gekommen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Verkehrsprognose für die Planung wird derzeit erstellt. Unabhängig davon ist festzustellen, dass die heutigen Geh- und Radwege für das vorhandene Fuß- und Radverkehrsaufkommen zu schmal sind.
 

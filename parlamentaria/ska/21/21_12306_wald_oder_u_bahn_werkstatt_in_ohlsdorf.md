@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61581"
@@ -65,17 +66,17 @@ Im Rahmen der Machbarkeitsstudie hat sich dieses Flurstück als geeignet für di
 
 Die HOCHBAHN hat im Jahr 2015 in Begleitung durch die zuständigen Fachbehörden Behörde für Wirtschaft, Verkehr und Innovation (BWVI), Behörde für Stadtentwicklung und Wohnungsbau (BSW) sowie der BUE ein Abstell- und Werkstattkonzept für die neue U-Bahn-Linie U5 erstellt. Hierbei wurden insgesamt 18 Flächen als mögliche Werkstattstandorte für die neue Linie U5 untersucht. Alle möglichen Standorte wurden hinsichtlich folgender Kriterien geprüft:
 
- Flächengröße und -zuschnitt,
+– Flächengröße und -zuschnitt,
 
- Bautechnik (zum Beispiel Baugrund),
+– Bautechnik (zum Beispiel Baugrund),
 
- Betrieb (zum Beispiel Lage im Netz),
+– Betrieb (zum Beispiel Lage im Netz),
 
- Erschließung (zum Beispiel Erreichbarkeit durch Werkstattpersonal),
+– Erschließung (zum Beispiel Erreichbarkeit durch Werkstattpersonal),
 
- Umwelt (zum Beispiel betroffene Bäume),
+– Umwelt (zum Beispiel betroffene Bäume),
 
- Planrecht (zum Beispiel Ausweisungen im Flächennutzungs- und Bebauungsplan).
+– Planrecht (zum Beispiel Ausweisungen im Flächennutzungs- und Bebauungsplan).
 
 Das Ergebnis dieser Prüfung ist folgender Tabelle zu entnehmen. Die Belegenheit der möglichen Standorte kann in der der für eine Parlamentarische Anfrage zur Verfügung stehenden Zeit nicht ermittelt werden:
 
@@ -92,7 +93,7 @@ Bramfeld (Endhaltestelle)
 4920, 4542
 
 Bramfeld  
- verworfen  
+– verworfen  
 (keine oberflächennahe Lage  
 möglich, Abstellanlage erforderlich)
 
@@ -102,19 +103,19 @@ Steilshooper Allee
 8000, 8921,  
 8558  
 Bramfeld  
- verworfen  
+– verworfen  
 (unzureichende Flächengröße)  
 Steilshooper Allee  
 - südlich Bramfelder SV
 
 8069  
 Bramfeld  
- verworfen  
+– verworfen  
 (u. a. ungünstige Lage zu Streckentunnel, 110-kV-Freileitung)  
 Glindwiese  
 2967, 2966  
 Bramfeld  
- verworfen  
+– verworfen  
 (u. a. erheblicher Bauaufwand  
 für Streckenausfädelung, negative Beeinträchtigung von  
 Mensch und Umwelt)  
@@ -123,7 +124,7 @@ Gründgensstraße
 
 1521  
 Steilshoop  
- verworfen  
+– verworfen  
 (u. a. erheblicher Bauaufwand  
 für Streckenausfädelung, negative Beeinträchtigung von  
 Mensch und Umwelt)  
@@ -133,12 +134,12 @@ Gleisdreieck
 Alsterdorf,  
 Ohlsdorf
 
- weitergehende Planung:  
+– weitergehende Planung:  
 Überführung in Machbarkeitsuntersuchung  
 New-York-Ring  
 1276, 66  
 Alsterdorf  
- verworfen  
+– verworfen  
 (unzureichende Flächengröße,  
 keine oberflächennahe Lage  
 möglich)  
@@ -153,7 +154,8 @@ Heckenrosenweg
 5226, 399,  
 4361, 396
 
-Lokstedt  weitergehende Planung: Überführung in Machbarkeitsuntersuchung
+Lokstedt
+– weitergehende Planung: Überführung in Machbarkeitsuntersuchung
 
 Fläche (Arbeitstitel)
 
@@ -163,7 +165,7 @@ Kollaustraße/ Nedderfeld
 
 5550, 2411  
 Lokstedt  
- verworfen  
+– verworfen  
 (u. a. keine oberflächennahe  
 Lage möglich)  
 Langenhorst/  
@@ -172,7 +174,7 @@ Kleingärten)
 
 5175  
 Lokstedt  
- verworfen  
+– verworfen  
 (u. a. erheblicher Bauaufwand  
 für zusätzliche Betriebsstrecke,  
 Überschwemmungsgebiet)  
@@ -182,7 +184,7 @@ Alte Kollau
 4690
 
 Lokstedt  
- verworfen  
+– verworfen  
 (u. a. erheblicher Bauaufwand  
 für zusätzliche Betriebsstrecke,  
 bauliche Zwangspunkte, Überschwemmungsgebiet)  
@@ -190,7 +192,7 @@ Schmiedekoppel
 86, 4998,  
 4624  
 Lokstedt  
- verworfen  
+– verworfen  
 (u. a. erheblicher Bauaufwand  
 für zusätzliche Betriebsstrecke,  
 Nähe zu Wohngebiet, privater  
@@ -206,7 +208,7 @@ südlich Flughafen
 12197
 
 Niendorf  
- verworfen  
+– verworfen  
 (u. a. erheblicher Bauaufwand  
 für zusätzliche Betriebsstrecke,  
 dezentrale Lage, Grüner Ring)
@@ -216,7 +218,7 @@ Arenen Volkspark
 Bahrenfeld,  
 (Lurup)
 
- verworfen  
+– verworfen  
 (u. a. erheblicher Eingriff in  
 Grünflächen des Volksparks,  
 Nutzungskonflikte)  
@@ -225,7 +227,7 @@ Ehemaliges Klärwerk
 4231, 4937,  
 5186, 5185  
 Ottensen  
- verworfen  
+– verworfen  
 (u. a. Anbindung der Fläche,  
 hohe Flächenkonkurrenz, dezentrale Lage im Streckennetz)  
 Technologiepark  
@@ -237,7 +239,7 @@ Lurup
 5181, 5182
 
 Lurup  
- verworfen  
+– verworfen  
 (u. a. erheblicher Bauaufwand  
 für Streckenausfädelung, dezentrale Lage im Streckennetz,  
 Flächenkonkurrenz)  
@@ -256,14 +258,14 @@ Flaßbargmoor
 
 Osdorf, (Lurup)
 
- verworfen für U-Bahn-Bau (u. a. dezentrale Lage im Streckennetz, teilw. private Eigentümer) ggf. für S-Bahn-Bau bereithalten
+– verworfen für U-Bahn-Bau (u. a. dezentrale Lage im Streckennetz, teilw. private Eigentümer) ggf. für S-Bahn-Bau bereithalten
 
 Osdorfer Born (Endhaltestelle)
 
 3156, 3181, 3154, 4759, 4500
 
 Osdorf  
- verworfen  
+– verworfen  
 (keine oberflächennahe Lage  
 möglich, Abstellanlage erforderlich)
 

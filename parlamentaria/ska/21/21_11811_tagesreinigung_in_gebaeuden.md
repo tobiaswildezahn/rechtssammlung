@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 19
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61053"
@@ -45,7 +46,7 @@ Inwieweit gibt es ein abgestimmtes, praxisorientiertes Grundkonzept für die Tag
 
 Welche Maßnahmen ergreift der Senat beziehungsweise plant der Senat, um eine bessere Organisation der Reinigung während des Ganztagesbetriebes zeitnah umzusetzen? a. Falls keine Maßnahmen geplant sind, warum sieht der Senat davon ab?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Gebäudereinigung erfolgt nach den Reinigungsplänen für Schulen, Dienstgebäude und Hochschulen und der Leistungsbeschreibung für die Gebäude-, Glas- und Fensterrahmenreinigung in den von der Freien und Hansestadt Hamburg genutzten Gebäuden (siehe http://suche.transparenz.hamburg.de/?q=Reinigungsplan&sort= score+desc%2Ctitle_sort+asc&esq_not_all_versions=true). Darüber hinaus erfolgt die Reinigung nach den Anforderungen der jeweiligen Gebäude im Einzelfall. Im Übrigen sind die Planungen, Überlegungen und Auswertungen noch nicht abgeschlossen.
 

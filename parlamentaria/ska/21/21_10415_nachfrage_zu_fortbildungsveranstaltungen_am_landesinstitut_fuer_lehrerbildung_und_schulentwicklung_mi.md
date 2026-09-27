@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10194"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59285"
@@ -33,21 +34,21 @@ In Drs. 21/10194 teilt der Senat mit: „Sämtliche Erscheinungsformen gruppenbe
 
 ## Einleitung für die Antworten des Senats
 
- Gruppenbezogene Menschenfeindlichkeit,
+– Gruppenbezogene Menschenfeindlichkeit,
 
- Gesicht zeigen – aber wie? Ein Workshop zu den Themen Vorurteile,
+– Gesicht zeigen – aber wie? Ein Workshop zu den Themen Vorurteile,
 
 Diskriminierung und Zivilcourage,
 
- Radikalisierung verstehen und begegnen. Rechts- und Handlungssicher-
+– Radikalisierung verstehen und begegnen. Rechts- und Handlungssicher-
 
 heit im Schulalltag,
 
- Menschenrechts- und Demokratiefeindlichkeit: Lehrerhandeln, Prävention
+– Menschenrechts- und Demokratiefeindlichkeit: Lehrerhandeln, Prävention
 
 und individuelle Fallberatung,
 
- Parolen, Provokationen, Propaganda. Pädagogische und rechtliche Inter-
+– Parolen, Provokationen, Propaganda. Pädagogische und rechtliche Inter-
 
 vention im Schulalltag.“
 
@@ -61,13 +62,13 @@ Wann fanden die oben zitierten Fortbildungsveranstaltungen statt und wer referie
 
 #### Antwort zu Frage 1
 
- „Methodentraining gegen gruppenbezogene Menschenfeindlichkeit“,
+– „Methodentraining gegen gruppenbezogene Menschenfeindlichkeit“,
 
 o schulinterne Fortbildungen: 06.06.2017, 21.06.2017
 
 o Referenten: DEVI e.V. (XXXXX XXXXXX, XXXXXX XXXXXXX)
 
- Gesicht zeigen – aber wie? Ein Workshop zu den Themen Vorurteile, Diskriminie-
+– Gesicht zeigen – aber wie? Ein Workshop zu den Themen Vorurteile, Diskriminie-
 
 rung und Zivilcourage
 
@@ -77,7 +78,7 @@ o Referent: Gesicht Zeigen! Für ein weltoffenes Deutschland e.V. (XXXX
 
 XXXXX)
 
- Radikalisierung verstehen und begegnen. Rechts- und Handlungssicherheit im
+– Radikalisierung verstehen und begegnen. Rechts- und Handlungssicherheit im
 
 Schulalltag,
 
@@ -87,7 +88,7 @@ o zentrale Veranstaltung LI: 01.06.2016
 
 o Referent: LI (XXXXX XXXX)
 
- „Menschenrechts- und Demokratiefeindlichkeit: Lehrerhandeln, Prävention und
+– „Menschenrechts- und Demokratiefeindlichkeit: Lehrerhandeln, Prävention und
 
 individuelle Fallberatung“
 
@@ -97,7 +98,7 @@ o schulinterne Fortbildungen: 09.02.2016, 18.04.2016, 25.05.2016, 29.06.2017,
 
 o Referent: LI (XXXXX XXXXXX)
 
- „Parolen, Provokationen, Propaganda. Pädagogische und rechtliche Intervention
+– „Parolen, Provokationen, Propaganda. Pädagogische und rechtliche Intervention
 
 im Schulalltag.“
 
@@ -127,29 +128,29 @@ den Medien aufgegriffen worden sind. Der weitere Verlauf der Veranstaltungen var
 
 In Fortbildungen und Beratungen, in denen das Thema Extremismus aufgegriffen wird, wird bundesweit zur Verfügung gestellte Literatur verwendet. Dazu gehören beispielsweise das Informationsportal zur politischen Bildung, ein Angebot der Landeszentralen für politische Bildung (siehe http://www.politische-bildung.de/) sowie diverse Medien der Bundeszentrale für politische Bildung (BpB) zu verschiedenen Formen des Extremismus (siehe http://www.bpb.de/). Insbesondere kann hierbei auf die folgenden verwendeten Quellen verwiesen werden:
 
- Dossier Islamismus (BpB): http://www.bpb.de/politik/extremismus/islamismus/
+– Dossier Islamismus (BpB): http://www.bpb.de/politik/extremismus/islamismus/
 
- Dossier Rechtsextremismus (BpB):
+– Dossier Rechtsextremismus (BpB):
 
 http://www.bpb.de/politik/extremismus/rechtsextremismus/
 
- Dossier Antisemitismus (BpB): http://www.bpb.de/politik/extremismus/antisemitismus/
+– Dossier Antisemitismus (BpB): http://www.bpb.de/politik/extremismus/antisemitismus/
 
- Dossier Linksextremismus (BpB): http://www.bpb.de/politik/extremismus/linksextremismus/
+– Dossier Linksextremismus (BpB): http://www.bpb.de/politik/extremismus/linksextremismus/
 
 Darüber hinaus werden unter anderem folgende Materialien und Literatur für den Unterricht empfohlen:
 
- „Protest, Provokation oder Propaganda?“ www.ufuq.de/verein/publikationen/
+– „Protest, Provokation oder Propaganda?“ www.ufuq.de/verein/publikationen/
 
- „Wie wollen wir leben?“ Hochschule für Angewandte Wissenschaften Hamburg und
+– „Wie wollen wir leben?“ Hochschule für Angewandte Wissenschaften Hamburg und
 
 ufuq.de, 2015
 
- zwischentöne – Materialien für Vielfalt im Klassenzimmer www.zwischentoene.info/
+– zwischentöne – Materialien für Vielfalt im Klassenzimmer www.zwischentoene.info/
 
 projekt.html
 
- Was  
+– Was  
 postest  
 Du?  
 Politische  
@@ -160,10 +161,10 @@ Muslim_innen
 online  
 http://www.ufuq.de/was-postest-du-politische-bildung-mit-jungen-muslim_innenonline/
 
- Handlungsempfehlungen zur Auseinandersetzung mit islamistischem Extremismus
+– Handlungsempfehlungen zur Auseinandersetzung mit islamistischem Extremismus
 
 und Islamfeindlichkeit http://library.fes.de/pdf-files/dialog/12034-20151201.pdf
 
- Flyerserie „… begegnen“ – Praktische Hilfestellung für Demokratiearbeit vor Ort
+– Flyerserie „… begegnen“ – Praktische Hilfestellung für Demokratiearbeit vor Ort
 
 Flyer und Materialien zu Aspekten gruppenbezogener Menschenfeindlichkeit (wie Rassismus, Antisemitismus, Islamfeindlichkeit) www.bpb.de/mediathek/213242/- begegnen

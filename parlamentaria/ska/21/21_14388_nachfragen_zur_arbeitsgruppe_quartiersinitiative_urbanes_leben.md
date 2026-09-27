@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 15
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14227"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63813"
@@ -35,15 +36,15 @@ So heißt es: „Die Arbeitsgruppe (AG) wurde Ende 2017 von den Bezirksamtsleitu
 
 ## Einleitung für die Antworten des Senats
 
- Behörde für Arbeit, Soziales, Familie und Integration,
+– Behörde für Arbeit, Soziales, Familie und Integration,
 
- Behörde für Gesundheit und Verbraucherschutz,
+– Behörde für Gesundheit und Verbraucherschutz,
 
- Behörde für Stadtentwicklung und Wohnen,
+– Behörde für Stadtentwicklung und Wohnen,
 
- Behörde für Inneres und Sport,
+– Behörde für Inneres und Sport,
 
- Finanzbehörde.“
+– Finanzbehörde.“
 
 Ich frage den Senat:
 
@@ -69,7 +70,7 @@ Mit welchen Kosten rechnet der Senat für den laufenden Prozess dieser AG und wo
 
 In welchem Zeitablauf ist die Beauftragung der AG vorgesehen und wann sollen erste Ergebnisse präsentiert werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Kosten für den laufenden Prozess der AG sind im Haushaltsplan-Entwurf für 2019/ 2020 nicht gesondert hinterlegt, anfallende Kosten werden gegebenenfalls im Rahmen der veranschlagten Mittel finanziert. Im Übrigen siehe Vorbemerkung.
 

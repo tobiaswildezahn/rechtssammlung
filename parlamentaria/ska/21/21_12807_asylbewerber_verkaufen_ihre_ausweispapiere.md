@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 14
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7423"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62117"
@@ -202,19 +203,19 @@ Die Polizei erfasst Straftaten gemäß dem Straftatenkatalog der Richtlinien fü
 
 Delikte im Sinne der Fragestellung werden im Deliktsbereich Urkundenfälschung unter dem den folgenden PKS-Schlüsseln erfasst:
 
- 540001 Sonstige Urkundenfälschung
+– 540001 Sonstige Urkundenfälschung
 
- 540002 Mittelbare Falschbeurkundung
+– 540002 Mittelbare Falschbeurkundung
 
- 540003 Verändern von amtlichen Ausweisen
+– 540003 Verändern von amtlichen Ausweisen
 
- 540004 Urkundenunterdrückung, Veränderung einer Grenzbezeichnung
+– 540004 Urkundenunterdrückung, Veränderung einer Grenzbezeichnung
 
- 540005 Vorbereitung der Fälschung von amtlichen Ausweisen
+– 540005 Vorbereitung der Fälschung von amtlichen Ausweisen
 
- 540006 Verschaffen von falschen amtlichen Ausweisen
+– 540006 Verschaffen von falschen amtlichen Ausweisen
 
- 540010 Missbrauch von Ausweispapieren
+– 540010 Missbrauch von Ausweispapieren
 
 Eine Differenzierung, ob ein genutztes Dokument gefälscht, gestohlen oder verkauft wurde, findet bei der Erfassung nicht statt; zu den erfassten Fällen siehe Anlage 1. Grundlage sind die Jahre 2015 bis 2017.
 

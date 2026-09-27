@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 63496
 seiten: 3
 fragen: 7
-einzelfragen: 14
-antwortbloecke: 7
+einzelfragen: 18
+antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16576"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69789"
@@ -118,20 +119,27 @@ Aufgrund der weiterhin guten Baukonjunktur sind die Antragszahlen hoch und es ko
 ### Frage 7
 
 Auf die Frage in Drs. 21/16576 „Ist sichergestellt, dass in allen Bauantragsverfahren nach § 61 HBauO im Bezirk Wandsbek eine Prüfung des Antrags vor dem Eintritt der Genehmigungsfiktion erfolgt?“ antwortete der Senat: „Es erfolgt immer eine Prüfung auf Vollständigkeit der Unterlagen.“
-7.1. Ist es nach Auffassung des Senats oder der zuständigen Behörde ausreichend, im Antragsverfahren nach § 61 HBauO nur die Vollständigkeit der Unterlagen zu prüfen?
 
-#### Antwort zu Frage 7
+### Frage 7.1
+
+Ist es nach Auffassung des Senats oder der zuständigen Behörde ausreichend, im Antragsverfahren nach § 61 HBauO nur die Vollständigkeit der Unterlagen zu prüfen?
+
+#### Antwort zu Fragen 7 und 7.1
 
 Die Prüfung auf Vollständigkeit der Bauvorlagen findet nach § 70 Absatz 2 HBauO grundsätzlich statt, da die maßgebliche Entscheidungsfrist vom Eingang der vollständigen Unterlagen abhängt. In die Fiktion können nur vollständige Bauanträge eingehen. Der Prüfumfang wird hingegen durch § 61 Absatz 2 HBauO bestimmt, wobei eine Baugenehmigung als erteilt gilt, wenn sie nicht innerhalb der Entscheidungsfrist versagt wurde.
 
-7.2. Findet in allen Bauantragsverfahren nach § 61 HBauO im Bezirk Wandsbek eine Prüfung nach § 61 Absatz 2 HBauO statt, die insbesondere auch die Zulässigkeit des Vorhabens umfasst?
+### Frage 7.2
 
-Wenn nein, in welchen Fällen und aus welchen Gründe nicht?
+Findet in allen Bauantragsverfahren nach § 61 HBauO im Bezirk Wandsbek eine Prüfung nach § 61 Absatz 2 HBauO statt, die insbesondere auch die Zulässigkeit des Vorhabens umfasst? Wenn nein, in welchen Fällen und aus welchen Gründe nicht?
+
+#### Antwort zu Frage 7.2
 
 Ja. Insbesondere bei Vorhaben, bei denen vom Bauherrn Abweichungen von baurechtlichen Vorschriften beantragt wurden, wird der Bauantrag bis zur Genehmigungsreife geprüft. In Einzelfällen wird aufgrund des Eintritts der Genehmigungsfiktion nur eine „fiktive“ Baugenehmigung erteilt.
 
-7.3. Gab es im Jahr 2019 Antragsverfahren nach § 61 HBauO im Bezirk Wandsbek, bei denen die Zulässigkeit des Vorhabens nicht geprüft wurde?
+### Frage 7.3
 
-Wenn ja, in wie vielen Fällen und aus welchen Gründen?
+Gab es im Jahr 2019 Antragsverfahren nach § 61 HBauO im Bezirk Wandsbek, bei denen die Zulässigkeit des Vorhabens nicht geprüft wurde? Wenn ja, in wie vielen Fällen und aus welchen Gründen?
+
+#### Antwort zu Frage 7.3
 
 Nein.

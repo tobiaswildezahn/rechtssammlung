@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1970"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51045"
@@ -89,7 +90,7 @@ Wie ist der aktuelle Stand hinsichtlich des Ankaufs/Tauschs des Grundstücks Mes
 
 Ist in dem Vertrag beziehungsweise dem Entwurf des Vertrages sichergestellt, dass der Verkäufer des Grundstücks Mesterkamp für sämtliche Kosten im Zusammenhang mit einer möglichen Sanierung des Untergrundes unter dem Grundstück Mesterkamp sowie etwaiger angrenzender Grundstücke aufkommt? a. Falls ja, wie lautet die entsprechende Klausel? b. Falls nein, warum nicht? Wer hat dieses wann in Abstimmung mit wem entschieden und wer trägt die Kosten im Zusammenhang mit einer möglichen Sanierung des Untergrundes unter dem Grundstück Mesterkamp sowie etwaiger angrenzender Grundstücke?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Grundstückskaufvertrag wird gegenwärtig zwischen der zuständigen Behörde und der HOCHBAHN abgestimmt, sodass eine notarielle Beurkundung zeitnah erfolgen könnte. Eine entsprechende Freigabe durch die Kommission für Bodenordnung ist erfolgt.
 

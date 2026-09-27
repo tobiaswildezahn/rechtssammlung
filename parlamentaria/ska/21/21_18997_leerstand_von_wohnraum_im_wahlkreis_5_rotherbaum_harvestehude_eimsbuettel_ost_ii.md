@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 33
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68683"
@@ -43,7 +44,7 @@ Wie viele Wohnungen stehen im Wahlkreis 5 aus welchen Gründen (baulicher Zustan
 
 Wie viele Wohnungen stehen im genannten Gebiet aus welchen Gründen (baulicher Zustand, Eigentümerwechsel et cetera) länger als zwei Jahre leer (Stichtag 14.11.2019)? Wie viele dieser Wohnungen befinden sich im Eigentum a. der Freien und Hansestadt Hamburg (unmittelbar und mittelbar)? b. davon wiederum der SAGA? c. von Privatpersonen? d. juristischer Personen mit Eigentum an weniger als 100 Wohnungen? e. juristischer Personen mit Eigentum an mehr als 100 und weniger als 1 000 Wohnungen? Bitte den Eigentümer benennen. f. juristischer Personen mit Eigentum an mehr als 1 000 Wohnungen? Bitte den Eigentümer benennen. Bitte die genauen Adressen und die jeweilige Dauer der Leerstände benennen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Leerstände zum 14.11.2019 insgesamt* davon seit dem Jahr 2018 davon seit dem Jahr 2017 und davor
 

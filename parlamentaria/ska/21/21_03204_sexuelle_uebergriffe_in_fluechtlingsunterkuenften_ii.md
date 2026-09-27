@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 36
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1570", "21/2116", "21/2379"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51537"
@@ -73,7 +74,7 @@ In welchen Flüchtlingsunterkünften (Erstaufnahmen und Folgeunterbringungen) sc
 
 In welchen Flüchtlingsunterkünften (Erstaufnahmen und Folgeunterbringungen) gibt es keine separaten sanitären Anlagen für Männer und Frauen? (Bitte einzeln aufführen.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/1570.
 

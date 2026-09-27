@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13153"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48297"
@@ -2766,7 +2767,7 @@ Wie ist der aktuelle Stand der Vorbereitungen zur Einführung der Mietpreisbrems
 
 Wie hat sich das „Bündnis für das Wohnen“ zu den Plänen einer für ganz Hamburg geltenden Mietpreisbremse geäußert? Gibt es hier eine abschließende Positionierung?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 25
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13740"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53962"
@@ -208,27 +209,27 @@ Die Angebote der Beratungseinrichtungen auf Länderebene gehen ferner über arbe
 
 Das lokale Kooperationsnetzwerk mit den Sozialpartnern, Arbeitsmarktakteuren, Aufsichts- und Verfolgungsbehörden sowie mit anderen Beratungseinrichtungen bildet die operative Basis für eine wirksame und erfolgreiche Arbeit. Es ermöglicht kurze Wege und
 
-• eine nachhaltige Begleitung und Betreuung,
+– eine nachhaltige Begleitung und Betreuung,
 
-• die Einbindung in kommunale Fachkräftestrategien und die damit verbundene Willkommenskultur,
+– die Einbindung in kommunale Fachkräftestrategien und die damit verbundene Willkommenskultur,
 
-• qualifizierte Verweisberatung bei komplexen Fällen oder solchen, die über arbeitsrechtliche Fragen hinausgehen (Sozialberatung, Familienleistungen, Krankenversicherungsschutz , Anerkennung ausländischer Abschlüsse und andere),
+– qualifizierte Verweisberatung bei komplexen Fällen oder solchen, die über arbeitsrechtliche Fragen hinausgehen (Sozialberatung, Familienleistungen, Krankenversicherungsschutz , Anerkennung ausländischer Abschlüsse und andere),
 
-• vertrauensvolle Beziehungen zu den Konsulaten und Botschaften,
+– vertrauensvolle Beziehungen zu den Konsulaten und Botschaften,
 
-• ehrenamtliche Unterstützung aus den Migranten-Communities (zum Beispiel durch Dolmetscher oder Begleiter zu Behörden),
+– ehrenamtliche Unterstützung aus den Migranten-Communities (zum Beispiel durch Dolmetscher oder Begleiter zu Behörden),
 
-• die qualifizierte Übergabe an Rechtsanwälte,
+– die qualifizierte Übergabe an Rechtsanwälte,
 
-• die Klärung spezifischer Branchenprobleme mit den örtlichen Gewerkschaften, Innungen und Verbänden,
+– die Klärung spezifischer Branchenprobleme mit den örtlichen Gewerkschaften, Innungen und Verbänden,
 
-• Stellenvermittlungen in reguläre diskriminierungsfreie Arbeitsplätze in Kooperation mit dem Arbeitgeberservice der Agentur für Arbeit,
+– Stellenvermittlungen in reguläre diskriminierungsfreie Arbeitsplätze in Kooperation mit dem Arbeitgeberservice der Agentur für Arbeit,
 
-• Die Klärung von Problemen bei Grundsicherung SGB II mit den Jobcentern,
+– Die Klärung von Problemen bei Grundsicherung SGB II mit den Jobcentern,
 
-• die Einleitung und Begleitung von Ermittlungen sowie Unterstützung bei der Beweiserhebung (Zoll/FKS, LKA, Arbeitsschutzbehörde, Gewerbeaufsicht) und
+– die Einleitung und Begleitung von Ermittlungen sowie Unterstützung bei der Beweiserhebung (Zoll/FKS, LKA, Arbeitsschutzbehörde, Gewerbeaufsicht) und
 
-• besondere Maßnahmen zum Opferschutz in Fällen von Menschenhandel zum Zweck der Arbeitsausbeutung.
+– besondere Maßnahmen zum Opferschutz in Fällen von Menschenhandel zum Zweck der Arbeitsausbeutung.
 
 2012 2013
 

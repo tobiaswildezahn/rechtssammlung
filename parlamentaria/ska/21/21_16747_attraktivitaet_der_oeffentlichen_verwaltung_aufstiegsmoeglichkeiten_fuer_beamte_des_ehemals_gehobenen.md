@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13830"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66292"
@@ -75,7 +76,7 @@ Wie viele dieser Ausschreibungen richteten sich jeweils auch an Beamtinnen/Beamt
 
 Wie viele Beamte des ehemaligen gehobenen Dienstes/der Laufbahngruppe 2, 1. Einstiegsamt haben aktuell im Ergebnis einer dieser Ausschreibungen ein Amt der Besoldungsgruppe A 14, A 15 beziehungsweise A 16 inne?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die erfragten Daten werden statistisch nicht erhoben. Für eine Beantwortung wäre eine händische Auswertung sämtlicher erfragter Ausschreibungsvorgänge seit 2016 im Hinblick auf die Frage, ob sie eine Öffnungsklausel enthalten haben, erforderlich. Zusätzlich hätten sämtliche Personalakten der jeweils ausgewählten Personen in den Personalabteilungen aller Dienststellen daraufhin durchgesehen werden müssen, ob die Betreffenden zum Zeitpunkt der Bewerbung noch dem ehemaligen gehobenen Dienst beziehungsweise der Laufbahngruppe 2 ab dem 1. Einstiegsamt angehört haben. Weiterhin hätte im Sinne der Fragestellung nachgeprüft werden müssen, ob die ausgewählten Personen das entsprechende Amt aktuell noch innehaben. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

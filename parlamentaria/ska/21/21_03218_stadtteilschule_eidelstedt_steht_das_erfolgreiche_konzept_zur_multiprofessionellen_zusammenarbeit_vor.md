@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51559"
@@ -51,7 +52,7 @@ Wie beurteilt die zuständige Behörde das Konzept der Stadtteilschule Eidelsted
 
 Welche Erkenntnisse liegen der zuständigen Behörde über die Akzeptanz dieses Konzepts bei der Elternschaft, den Schülern und dem Kollegium der Stadtteilschule Eidelstedt vor?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Zusammensetzung der Klassenleitungsteams in der Sekundarstufe I der Stadtteilschule Eidelstedt besteht aus Fachlehrkräften, Sonderpädagoginnen und Sonderpädagogen sowie Sozialpädagoginnen und Sozialpädagogen und teilweise auch Erzie-
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64961"
@@ -51,7 +52,7 @@ Welche Folgen haben laufende Unterhaltungsarbeiten auf die Sauerstoffverhältnis
 
 Welche aktuellen Untersuchungen liegen der Antwort zu Frage 1. zugrunde?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die aktuellen Sauerstoffmessungen lassen keinen Einfluss der Unterhaltungsarbeiten auf die Sauerstoffverhältnisse im und vor dem Hamburger Hafen erkennen.
 
@@ -71,7 +72,7 @@ Welche Unterhaltungsarbeiten wurden im Hafen und der Hamburger Delegationsstreck
 
 Sind die in der Antwort auf Frage 4. aufgeführten Arbeiten jeweils mit Einverständnis der Behörde für Umwelt und Energie erfolgt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im Zeitraum 15. Mai 2018 bis 15. Juni 2018 wurden im Hamburger Hafen und auf der Hamburger Delegationsstrecke keine Unterhaltungsbaggerungen mit Umlagerung durchgeführt.
 

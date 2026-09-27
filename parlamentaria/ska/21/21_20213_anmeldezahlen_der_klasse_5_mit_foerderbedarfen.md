@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/20161"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69997"
@@ -51,7 +52,7 @@ Wie viele Schülerinnen und Schüler mit den sonderpädagogischen Förderschwerp
 
 Wie viele Schülerinnen und Schüler wurden jeweils an den einzelnen staatlichen Stadtteilschulen, Gymnasien, sechsjährigen Grundschulen, ReBBZ für die fünfte Klasse angemeldet? (Bitte unter Angabe der jeweiligen Gesamtschüler-/-innenzahl und Angabe des Sozialindexes in einer Excel-Tabelle angeben.) a. Wie viele der genannten Schüler/-innen haben den Förderschwerpunkt LSE? (Bitte in die Tabelle zu Frage 3. einpflegen, als absolute Zahl der einzelnen Schule und als prozentuale Angabe zu der jeweiligen Gesamtschüler-/-innenschaft.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Für Anmeldungen von Schülerinnen und Schülern mit einem sonderpädagogischen Förderbedarf in den Bereichen Lernen, Sprache sowie emotionale und soziale Entwicklung (LSE) für Klasse 5 im Schuljahr 2020/2021 nach Schulform siehe folgende Übersicht:
 

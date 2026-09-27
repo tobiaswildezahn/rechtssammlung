@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9583"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58502"
@@ -55,7 +56,7 @@ Wann genau hat der Bund durch wen mitgeteilt, dass er Hamburgs Finanzierungsante
 
 Inwieweit erfüllt diese Zusage die Anforderungen entsprechender Haushaltsvermerke im Bundeshaushalt, wonach derartige Fördermaßnahmen grundsätzlich der „angemessenen Mitfinanzierung durch Länder, Kommunen oder Private“ bedürfen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Erklärung wurde gegenüber der Behörde für Kultur und Medien von der Beauftragten der Bundesregierung für Kultur und Medien per Mail am 27. März 2017 auf-
 

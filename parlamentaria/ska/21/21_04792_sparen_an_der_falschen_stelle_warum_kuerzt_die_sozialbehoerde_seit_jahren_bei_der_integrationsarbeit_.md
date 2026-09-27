@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5570", "20/7049", "20/13000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53223"
@@ -96,7 +97,7 @@ Sind für die Jahre 2017/2018 weitere Kürzungen geplant? Wenn ja, bitte nach Ja
 
 Sind darüber hinaus ab dem Jahr 2019 weitere Kürzungen geplant? Wenn ja, bitte nach Jahr, Höhe und unter Angabe des Grundes auflisten.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Bedarf wird im Rahmen der Aufstellung des Haushaltsplanes 2017/2018 erörtert. Im Übrigen sind die Überlegungen hierzu noch nicht abgeschlossen.
 
@@ -116,7 +117,7 @@ Wie hoch waren die Ansätze in den Haushaltsplänen 2011/2012 sowie 2013/2014 je
 
 Welche Kürzungen und welche Steigerungen wurden bei den Zuwendungsempfängern 2013/2014 aus welchem Grund vorgenommen? Bitte einzeln nach Jahren, Beträgen und Zuwendungsempfängern auflisten.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 
@@ -152,6 +153,6 @@ Sind für die Jahre 2017/2018 bei der Förderung der Integration von Zuwanderern
 
 Sind darüber hinaus ab dem Jahr 2019 weitere Kürzungen geplant und wenn ja, bei welchen Zuwendungsempfängern aus welchem Grund und in welcher Höhe? Bitte einzeln nach Jahren, Beträgen und Zuwendungsempfängern auflisten.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Antwort zu 2. und 3.

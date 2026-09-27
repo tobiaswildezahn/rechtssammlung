@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 38
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7406", "21/11183", "21/2108", "21/10137", "21/9358", "21/10269", "21/10560", "21/10819"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60648"
@@ -43,7 +44,7 @@ Wie viele Personen waren in der EA Fiersbarg Ende Dezember untergebracht?
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Geschlecht  
 Kinder & Jugendliche  
@@ -98,7 +99,7 @@ Aus welchen Unterkünften kommen sie jeweils?
 
 Wie viele sind Neuankömmlinge und kamen im Dezember direkt aus dem Ankunftszentrum?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Im Dezember 2017 wurden 60 Personen aus dem Ankunftszentrum Rahlstedt, drei Personen aus der Kaltenkirchener Straße, zwei Personen aus dem Flagentwiet und eine Personen aus Nostorf-Horst aufgenommen.
 

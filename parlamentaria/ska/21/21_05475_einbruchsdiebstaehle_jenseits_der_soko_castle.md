@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3596", "21/4080"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53963"
@@ -51,7 +52,7 @@ Wie viele Fälle hat die Soko Castle im ersten Jahr ihres Bestehens übernommen,
 
 Wie war die Aufklärungsquote der Soko Castle, wie die der anderen Stellen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zur Beantwortung der Frage, wie viele Fälle durch die „Soko Castle“ bearbeitet wurden, kann die Sonderauswertung, die die Polizei für die Darstellung der Ergebnisse der „Soko Castle“ insgesamt durchführt wird, herangezogen werden. Diese beruhen in der Regel nicht auf der Datenbasis der Polizeilichen Kriminalstatistik (PKS). Die Auswertungen für die „Soko Castle“ werden zu bestimmten Stichtagen durchgeführt, die nicht den Zeitintervallen und Regeln der statistischen Auswertungen der PKS entsprechen. Im Zeitraum vom 1. August 2015 bis 31. Juli 2016 hat die „Soko Castle“ 686 Fälle von Wohnungseinbruchdiebstählen übernommen; die Aufklärungsquote beträgt 61,1 Prozent.
 
@@ -172,6 +173,6 @@ Hamburgs jeweils entwickelt?
 
 Wie hat sich die Aufklärungsquote jeweils entwickelt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung und Anlage 2.

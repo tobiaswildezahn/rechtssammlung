@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9509", "21/6645"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61654"
@@ -61,7 +62,7 @@ Wie viele Widersprüche von Anwohnern gegen Kostenbescheide für Erschließungsb
 
 Wie hat der Senat diese Widersprüche jeweils beantwortet? Wenn er diese noch nicht beantwortet hat, warum nicht und wann wird das geschehen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage 1.
 
@@ -109,7 +110,7 @@ Welche der unter 4. genannten Straßen wurden jeweils als beitragsfrei für die 
 
 Für welche der unter 4. genannten Straßen hat es jeweils wann eine Fluchtlinienfestsetzung gegeben, die die entsprechende Straße als endgültig hergestellt verzeichnet und die später nicht durch einen qualifizierten Bebauungsplan aufgehoben wurde?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Antwort zu 4.
 

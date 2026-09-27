@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9785", "21/10926", "21/8208", "21/4340", "21/1985", "21/1722", "21/13215"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62654"
@@ -55,27 +56,27 @@ Welche konkreten Aufgaben wurden im Zuge des Projekts vom Zentralamt der Justizb
 
 Welche Publikationen/Informationsangebote wurden seit Einrichtung des Projekts veröffentlicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Im Zuge des Projekts wird der Bereich Öffentlichkeitsarbeit in der Justizbehörde aufgrund der gestiegenen Anforderungen an eine zeitgemäße Kommunikation modernisiert und serviceorientierter gestaltet. Zugleich werden externe und interne Kommunikation besser aufeinander abgestimmt. Dafür wurde der Bereich Öffentlichkeitsarbeit neu strukturiert und unter anderem die Ressortleitung der Internetangebote der Hamburger Justiz sowie die Redaktion der externen Online-Angebote der Justizbehörde aus dem Zentralamt in den Präsidialstab verlagert. Ziel ist eine verbesserte Darstellung der verschiedenen Arbeitsschwerpunkte der Justizbehörde im Internet, um Informationen online übersichtlicher, schneller und effizienter bereitzustellen. Im Rahmen der ämterübergreifenden Aufgaben hat das Projekt außerdem die zuvor im Zentralamt wahrgenommene Redaktion des internen Online-Angebots (FHH-Portal/Sharepoint) übernommen. Zudem ist das Projekt im Hinblick auf den Landesaktionsplan der Freien und Hansestadt Hamburg zur Umsetzung der UN-Konvention über die Rechte von Menschen mit Behinderungen zentraler Ansprechpartner der Justizbehörde für leichte Sprache zuständig, eine Aufgabe, die zuvor ebenfalls im Zentralamt angesiedelt war.
 
 In diesem Rahmen wurden unter anderem folgende Publikationen und Informationsangebote seit Einrichtung des Projekts veröffentlicht beziehungsweise überarbeitet:
 
- Umstellung der Webseite auf mobiles Design im Frühjahr 2018
+– Umstellung der Webseite auf mobiles Design im Frühjahr 2018
 
- Vorbereitung des voraussichtlich für Herbst 2018 vorgesehenen Relaunchs der
+– Vorbereitung des voraussichtlich für Herbst 2018 vorgesehenen Relaunchs der
 
 Webseite
 
- Erweiterung der Informationsangebote für Bürgerinnen und Bürger auf der Websei-
+– Erweiterung der Informationsangebote für Bürgerinnen und Bürger auf der Websei-
 
 te
 
- Pflege der Informationsangebote für Journalistinnen und Journalisten auf der Web-
+– Pflege der Informationsangebote für Journalistinnen und Journalisten auf der Web-
 
 seite
 
- Gestaltung von Informationsangeboten und Publikationen für Bürgerinnen und
+– Gestaltung von Informationsangeboten und Publikationen für Bürgerinnen und
 
 Bürger:
 
@@ -85,7 +86,7 @@ o Flyer Brandschutz in der Justizbehörde
 
 o Externe Stellenanzeigen
 
- Vorbereitung und Durchführung von Veranstaltungen zur Öffentlichkeitsarbeit:
+– Vorbereitung und Durchführung von Veranstaltungen zur Öffentlichkeitsarbeit:
 
 o Lange Nacht der Menschenrechtsfilme
 
@@ -93,9 +94,9 @@ o Fünf Jahre Transparenzgesetz
 
 o Schöffenwahl
 
- Herausgabe von Pressemitteilungen
+– Herausgabe von Pressemitteilungen
 
- Vorbereitung und Durchführung von aufbereiteten Informationsangeboten für Jour-
+– Vorbereitung und Durchführung von aufbereiteten Informationsangeboten für Jour-
 
 nalistinnen und Journalisten im Zuge von Landespressekonferenzen
 

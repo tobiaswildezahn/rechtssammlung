@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9609", "21/10634", "21/10176", "21/11190", "21/11140"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61303"
@@ -81,7 +82,7 @@ Wie viele Bordelle haben eine Betriebserlaubnis seit Einführung des ProstSchG b
 
 Haben sämtliche Bordellbetreiber/-innen inzwischen Lizenzen erworben? Wenn nein, wie viele nicht und warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Bislang sind 90 Anträge auf Erteilung einer Erlaubnis zum Betrieb einer Prostitutionsstätte beim zuständigen Fachamt des Bezirksamts Altona eingegangen. Die Erlaubniserteilung ist abhängig von einem umfangreichen Prüfverfahren (siehe Drs. 21/11140) und setzt das Einreichen aller notwendigen Unterlagen voraus. Insofern ist das Prüfverfahren in allen Fällen noch nicht abgeschlossen.
 

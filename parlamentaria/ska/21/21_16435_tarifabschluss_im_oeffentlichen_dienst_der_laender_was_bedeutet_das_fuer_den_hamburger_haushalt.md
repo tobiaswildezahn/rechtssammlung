@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16424", "21/14980"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65951"
@@ -68,7 +69,7 @@ Wie hoch lagen der budgetrelevante sowie der statistische Personalbestand jeweil
 
 Wie hat sich die Zahl der Versorgungsempfängerinnen und -empfänger der Freien und Hansestadt Hamburg inklusive ihrer Landesbetriebe und Hochschulen zum Stichtag 31.12.2018 entwickelt? Wie hat sich zudem die Zahl der Versorgungsempfängerinnen und -empfänger rechtlich selbstständiger Einrichtungen der Freien und Hansestadt Hamburg in öffentlich-rechtlicher Rechtsform zum genannten Stichtag entwickelt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage 1 zum budgetrelevanten Personalbestand sowie Anlage 2. Im Übrigen siehe Drs. 21/14980.
 

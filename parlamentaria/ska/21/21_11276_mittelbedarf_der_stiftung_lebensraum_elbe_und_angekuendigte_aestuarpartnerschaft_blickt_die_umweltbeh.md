@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4662", "21/4701", "21/6126"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60265"
@@ -90,7 +91,7 @@ Für welchen konkreten Projekte und Maßnahmen wurden die Stiftungsmittel seiten
 
 Welche Maßnahmen hat die Stiftung seit 2015 mit welchen finanziellen Mitteln durchgeführt? Wie hoch waren jeweils die Gesamtkosten der einzelnen Maßnahmen und wie setzen sich diese im Einzelnen zusammen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage 1.
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 18
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9945"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59323"
@@ -263,7 +264,7 @@ Die Wassertanks werden ja sinnvollerweise nach Aufstellung befüllt und vor dem 
 
 Wie erfolgt die Abrechnung des benutzten Wassers und wie wird es nach Gebrauch weiter verwendet?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Dazu liegen dem Senat keine Erkenntnisse vor.
 

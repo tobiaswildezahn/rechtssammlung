@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 18
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62943"
@@ -82,7 +83,7 @@ a) Am Alten Posthaus 2,
 b) Am Alten Posthaus 4,
 c) Schlossgarten 9 in Erwägung gezogen? Falls ja, zu welchen Ergebnissen haben diese Erwägungen geführt? Falls nein, warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der Landesbetrieb Immobilienmanagement und Grundvermögen prüft im Rahmen seiner Regelaufgaben dauerhaft und revolvierend alle möglichen Immobilienankäufe im Hinblick auf sinnvolle gesamtstädtische Entwicklungen. Es gibt derzeit jedoch weder konkrete Ankaufsüberlegungen der Objekte Am Alten Posthaus 2, Am Alten Posthaus 4 und Schlossgarten 9 noch Rückkaufsüberlegungen sonstiger ehemaliger „PRIMO-Objekte“. Etwaige Überlegungen im Hinblick auf Mietvertragskündigungen für das Objekt an der Belegenheit Schlossstraße 60/Robert-Schumann-Brücke beziehungsweise Mietvertragsänderungen hinsichtlich der Immobilien Am Alten Posthaus 2, Am Alten Posthaus 4 und Schlossgarten 9 sind noch nicht abgeschlossen.
 

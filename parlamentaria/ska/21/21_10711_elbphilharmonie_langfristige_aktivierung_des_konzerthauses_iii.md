@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2839", "21/7653", "21/8819"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59613"
@@ -101,37 +102,37 @@ d. Auf welchen Messen/Kongressen ist eine Bewerbung der Elbphilharmonie genutzt 
 
 Eine Bewerbung der Elbphilharmonie wurde durch die HMG auf folgenden Messen/Kongressen seit dem Jahr 2016 bis heute umgesetzt:
 
-• ITB Berlin: 2016+2017
+– ITB Berlin: 2016+2017
 
-• IATA Slot Conference 2016
+– IATA Slot Conference 2016
 
-• Routes Barcelona 2017
+– Routes Barcelona 2017
 
-• The Hamburg Summit 2016
+– The Hamburg Summit 2016
 
-• Rotary International Convention Atlanta 2017
+– Rotary International Convention Atlanta 2017
 
-• MIPIM: 2016+2017
+– MIPIM: 2016+2017
 
-• EXPO Real 2017
+– EXPO Real 2017
 
-• IMEX Frankfurt 2016 und 2017
+– IMEX Frankfurt 2016 und 2017
 
-• CMT Stuttgart 2016 und 2017
+– CMT Stuttgart 2016 und 2017
 
-• REISEN Hamburg 2016 und 2017
+– REISEN Hamburg 2016 und 2017
 
-• Ferie for alle 2016 (Tourismusmesse in Herning/Dänemark),
+– Ferie for alle 2016 (Tourismusmesse in Herning/Dänemark),
 
-• ReiseLust Urlaubsmesse Bremen 2016 und 2017
+– ReiseLust Urlaubsmesse Bremen 2016 und 2017
 
-• free München Reise- und Freizeitmesse 2017
+– free München Reise- und Freizeitmesse 2017
 
-• Touristik & Caravaning, Leipzig 2017
+– Touristik & Caravaning, Leipzig 2017
 
-• IBTM Barcelona 2016 und 2017
+– IBTM Barcelona 2016 und 2017
 
-• Tag der Deutschen Einheit 2017 – zentrale Feierlichkeiten in Mainz
+– Tag der Deutschen Einheit 2017 – zentrale Feierlichkeiten in Mainz
 
 e. Welche Anstrengungen hat welche zuständige Stelle mit welchem Ergebnis unternommen, um die Elbphilharmonie als Reiseanlass für Hamburg und den Norden zu positionieren?
 
@@ -241,6 +242,6 @@ Haben Wirtschaftsdelegationen die Möglichkeit, kurzfristig Karten in der Elbphi
 
 Plant der Senat, dass Wirtschaftsdelegationen Möglichkeiten eingeräumt werden, kurzfristig Karten für Konzerte in der Elbphilharmonie zu erhalten? Wenn ja, durch welche zuständige Stelle und wie genau? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Nein, ein gesondertes und gegenüber sonstigen für den Senat relevanten Besuchsgruppen vorrangiges Zugangsrecht für „Wirtschaftsdelegationen“ zu Konzerten in der Elbphilharmonie besteht nicht und ist auch nicht beabsichtigt, siehe dazu Drs. 21/8819. Nachgefragt werden von „Wirtschaftsdelegationen“ vornehmlich Führungen durch das Gebäude der Elbphilharmonie, diese werden im Rahmen der bestehenden Kapazitätsgrenzen auch prioritär bedient.

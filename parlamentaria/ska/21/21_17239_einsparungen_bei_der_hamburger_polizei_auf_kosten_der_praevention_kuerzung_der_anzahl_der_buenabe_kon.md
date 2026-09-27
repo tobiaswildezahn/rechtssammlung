@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66810"
@@ -75,7 +76,7 @@ Auf wie viele Kontaktbeamte muss welches Kommissariat verzichten?
 
 Welche Stadt- beziehungsweise Ortsteile innerhalb der Polizeikommissariate sind hiervon betroffen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Antworten zu 1. und zu 2.
 

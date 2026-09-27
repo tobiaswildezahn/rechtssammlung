@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49603"
@@ -45,7 +46,7 @@ Seit wann ist dem Bezirksamt und der zuständigen Fachbehörde der Zustand des K
 
 Wie wurde bislang auf die Informationen über den Zustand des Kriegerdenkmals im Jugendpark Rahlstedt seitens der zuständigen Behörden reagiert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Seit 2012 ist ein Sanierungsbedarf bekannt. Die für den Denkmalschutz zuständige Behörde hatte nach einer ersten Inaugenscheinnahme zunächst eine handwerkliche Lösung mit einem geeigneten Beschäftigungsträger angestrebt. Erst nachdem nähere Untersuchungen die Notwendigkeit einer restauratorisch-denkmalfachlichen Vorbereitung ergaben, wurden eine Bestandsaufnahme und ein Erhaltungskonzept beauftragt. Das Gutachten liegt dem Bezirksamt Wandsbek seit Mai 2015 vor.
 
@@ -101,7 +102,7 @@ Unter welchen Voraussetzungen ist es allgemein möglich und vorgesehen, dass die
 
 Wie wird auf private Anfragen und Initiativen zur Sanierung Pflege von Denkmälern seitens der zuständigen Behörden reagiert?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die zuständigen Behörden und Bezirksämter begrüßen das private Engagement zur Pflege und Sanierung von Denkmälern als Beitrag zur Sicherung und Bewahrung unseres kulturellen Erbes.
 

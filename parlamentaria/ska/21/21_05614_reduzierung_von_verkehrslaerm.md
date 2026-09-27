@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54105"
@@ -47,15 +48,15 @@ Bezüglich der Luftschadstoffe sind in Abhängigkeit von spezifischen lokalen Ra
 
 Bezüglich NOx Feinstaub und CO liegt eine Studie der Landesanstalt für Umwelt, Messungen und Naturschutz Baden Württemberg für das Jahr 2012 vor, die zu folgenden Ergebnissen kommt (https://www.thueringen.de/mam/th8/tlug/content/abt_1/ v_material/2015/04/04_scholz_lubw_03-2015_senkung_der_no2-belastung_durch_ verkehrsverstetigende_massnahmen.pdf):
 
- Auf ebenen Hauptverkehrsstraßen mit hohem Konstantfahrtanteil verursachen
+– Auf ebenen Hauptverkehrsstraßen mit hohem Konstantfahrtanteil verursachen
 
 Tempo 30 und Tempo 40 höhere NOx-, PM- und CO-Emissionen als Tempo 50 (Beispiel Stuttgart).
 
- An Steigungsstrecken und auf ebenen Strecken mit niedrigem Konstantfahrtanteil
+– An Steigungsstrecken und auf ebenen Strecken mit niedrigem Konstantfahrtanteil
 
 kann Tempo 30 beziehungsweise Tempo 40 zu geringeren NOx-Emissionen führen (–10 Prozent im optimalen Fall).
 
- Für CO und motorbedingte Feinstaubimmissionen ist Tempo 30 in allen Fällen
+– Für CO und motorbedingte Feinstaubimmissionen ist Tempo 30 in allen Fällen
 
 negativ.
 
@@ -73,7 +74,7 @@ d. Motorräder,
 e. Motorroller und Mopeds,  
 f. Busse?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Grundsätzlich gilt, dass Kraftfahrzeuge gemäß § 49 Absatz 1 Straßenverkehrs- Zulassungsordnung (StVZO) so beschaffen sein müssen, dass die Geräuschentwicklung das nach dem jeweiligen Stand der Technik unvermeidbare Maß nicht übersteigt. Eine Vielzahl von Richtlinien der Europäischen Union und die Regelungen Nummer 41 der Wirtschaftskommission der Vereinten Nationen für Europa (UN/ECE) – „Einheitliche Bedingungen für die Genehmigung der Krafträder hinsichtlich ihrer Geräuschentwicklung“ und Nummer 51 UN/ECE – „Einheitliche Bedingungen für die Genehmigung der Kraftfahrzeuge mit mindestens vier Rädern hinsichtlich ihrer Geräuschemissionen“ legen die Anforderungen an die Schalldämpferanlage und den zulässigen Geräuschpegel fest, denen alle Kraftfahrzeuge in Deutschland entsprechen müssen.
 
@@ -218,33 +219,33 @@ Im Lärmaktionsplan Hamburg 2013 (Stufe 2) werden vielfältige Möglichkeiten vo
 
 Genannt sind insbesondere:
 
- Förderung der Verkehrsmittel des Umweltverbundes
+– Förderung der Verkehrsmittel des Umweltverbundes
 
- Erstellen einer Radverkehrsstrategie
+– Erstellen einer Radverkehrsstrategie
 
- Erarbeitung eines Lkw-Führungskonzepts
+– Erarbeitung eines Lkw-Führungskonzepts
 
- Förderung der Elektromobilität
+– Förderung der Elektromobilität
 
- Maßnahmen zur Verkehrsverlagerung und -entlastung
+– Maßnahmen zur Verkehrsverlagerung und -entlastung
 
- Gewährleistung eines guten (ebenen) Fahrbahnzustandes
+– Gewährleistung eines guten (ebenen) Fahrbahnzustandes
 
- Einsatz lärmmindernder Fahrbahnbeläge
+– Einsatz lärmmindernder Fahrbahnbeläge
 
- Herabsetzung der zulässigen Geschwindigkeiten
+– Herabsetzung der zulässigen Geschwindigkeiten
 
- Kontrollen der Einhaltung der zulässigen Geschwindigkeiten
+– Kontrollen der Einhaltung der zulässigen Geschwindigkeiten
 
- Verstetigung des Verkehrsflusses durch adaptive Netzsteuerungen/Koordinie-
+– Verstetigung des Verkehrsflusses durch adaptive Netzsteuerungen/Koordinie-
 
 rungen
 
- Aktiver Schallschutz in Form von Schallschutzwänden (innerstädtisch als Ausnah-
+– Aktiver Schallschutz in Form von Schallschutzwänden (innerstädtisch als Ausnah-
 
 me zu betrachten)
 
- Nutzung passiver Schallschutzmaßnahmen (Lärmschutzfenster, Fassadendäm-
+– Nutzung passiver Schallschutzmaßnahmen (Lärmschutzfenster, Fassadendäm-
 
 mung, Vorhängefassaden)
 

@@ -12,8 +12,9 @@ vorgang: 50135
 seiten: 5
 fragen: 3
 einzelfragen: 5
-antwortbloecke: 3
+antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/8472", "20/4195", "20/8330"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54714"
@@ -61,7 +62,11 @@ Wie haben sich die Abbruchquoten nach der Schulstatistik seit 2005 entwickelt?
 
 Die Berechnung der Anteile erfolgt auf der Basis der Anzahl der Abgängerinnen und Abgänger. Als Abgängerinnen und Abgänger werden alle Schülerinnen und Schüler erfasst, die den besuchten Bildungsgang ohne den angestrebten Abschluss verlassen. Im Übrigen siehe Vorbemerkung.
 
-1.1. Dazu bitte die absoluten Zahlen der Schülerinnen und Schüler nach Ausbildungsjahren sowie der Abgängerinnen und Abgänger nach Ausbildungsjahren seit 2005 nennen.
+### Frage 1.1
+
+Dazu bitte die absoluten Zahlen der Schülerinnen und Schüler nach Ausbildungsjahren sowie der Abgängerinnen und Abgänger nach Ausbildungsjahren seit 2005 nennen.
+
+#### Antwort zu Frage 1.1
 
 Zeitreihe: Auszubildende und Abgängerinnen und Abgänger in dualer Ausbildung an staatlichen Hamburger Berufsschulen
 
@@ -115,9 +120,12 @@ Prozent
 -  
 -
 
-1.2. Bitte die Zahlen für 2014 und 2015 weiter differenzieren nach:
+### Frage 1.2
 
+Bitte die Zahlen für 2014 und 2015 weiter differenzieren nach:
 1.2.1. zuständiger Stelle und Ausbildungsjahr,
+
+#### Antwort zu Frage 1.2
 
 Diese Informationen werden in der Schuljahresstatistik nicht erfasst. Aufgrund der zur Beantwortung dieser Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit war eine Abfrage der zuständigen Stellen (Kammern) nicht möglich.
 
@@ -290,10 +298,19 @@ Die zuständigen Behörden prüfen daher zusammen mit ihren Partnerinnen und Par
 ### Frage 3
 
 In der IAB-Studie zu den hohen Ausbildungsabbrüchen in Hamburg heißt es zu den Gründen (Seite 34): „Studien stellen in diesem Zusammenhang heraus, dass im dualen System eine ungleiche Verteilung und Kumulation von (Vertragslösung-)Risiken besteht und damit – in den besonders betroffenen Segmenten – die Reproduktion sozialer Ungleichheit droht. Neben den oben schon genannten „Risikofaktoren“ werden in diesem Zusammenhang negative Übergangserfahrungen Schule Ausbildung und das angewandte betriebliche Ausbildungsmodell (Produktions- vs. Investionsmodell) hervorgehoben (Rohrbach-Schmidt/ Uhly 2015). Diese angesprochenen Segmentierungen lassen sich für Hamburg wiederfinden, auch in der Hansestadt werden unterschiedliche Wahrscheinlichkeiten und Risiken in Bezug auf Gruppen und Merkmale deutlich. Im Ergebnis ist auch für Hamburg von einer tiefgehenden Segmentation des dualen Systems auszugehen.“
-3.1. Sieht der Senat auch diese „tiefgehende Segmentierung des dualen Systems“ und damit die drohende „Reproduktion sozialer Ungleichheit“ in Hamburg? (Bitte begründen.)
-3.2. Meint der Senat, dass die in der Drs. 20/8330 genannten Maßnahmen gegen diese „tiefgehende Segmentierung des dualen Systems“ und damit die drohende „Reproduktion sozialer Ungleichheit“ in Hamburg ausreichen? (Bitte begründen.)
-3.3. Plant der Senat weitergehende Maßnahmen gegen diese „tiefgehende Segmentierung des dualen Systems“ und damit die drohende „Reproduktion sozialer Ungleichheit“ in Hamburg? (Bitte begründen.)
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+Sieht der Senat auch diese „tiefgehende Segmentierung des dualen Systems“ und damit die drohende „Reproduktion sozialer Ungleichheit“ in Hamburg? (Bitte begründen.)
+
+### Frage 3.2
+
+Meint der Senat, dass die in der Drs. 20/8330 genannten Maßnahmen gegen diese „tiefgehende Segmentierung des dualen Systems“ und damit die drohende „Reproduktion sozialer Ungleichheit“ in Hamburg ausreichen? (Bitte begründen.)
+
+### Frage 3.3
+
+Plant der Senat weitergehende Maßnahmen gegen diese „tiefgehende Segmentierung des dualen Systems“ und damit die drohende „Reproduktion sozialer Ungleichheit“ in Hamburg? (Bitte begründen.)
+
+#### Antwort zu Fragen 3, 3.1, 3.2 und 3.3
 
 Der Senat verfolgt mit der Jugendberufsagentur und der Fachkräftestrategie das Ziel, die Erwerbsbeteiligung junger Menschen zu erhöhen und diese auf dem Weg zu einer Berufsausbildung oder einem Studium zu unterstützen. Ferner stehen nach dem Dritten Buch Sozialgesetzbuch (SGB III) und mit Landesmitteln finanzierte Angebote zur Verfügung, um Ausbildungsbetriebe und Auszubildende während der Ausbildung zu unterstützen und den Abbruch der Ausbildung zu vermeiden. Diesem Ziel dient auch die Beratung, welche die zuständigen Kammern anbieten. Siehe Antwort zu 2. und Vorbemerkung.

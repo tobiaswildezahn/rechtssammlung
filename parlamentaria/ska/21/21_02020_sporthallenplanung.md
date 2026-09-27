@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/439", "21/1983", "21/1531"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50267"
@@ -48,7 +49,7 @@ b. umgebaut/erweitert,
 c. geplant oder  
 d. der Bau/Umbau avisiert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zu Schulsporthallen siehe Drs. 21/439 und 21/1983. Für die Unterstützung des Baus beziehungsweise der Erweiterung von vereinseigenen Anlagen ist der Hamburger Sportbund zuständig. Nach dessen Auskunft befinden sich aktuell drei vereinseigene Hallen in Bau beziehungsweise in Planung. Eine Einfeldhalle befindet sich seit 2015 beim Altrahlstedter Männerturnverein von 1893 e.V. in Bau. Zwei Hallenneubauten sind im Jahr 2016 bei den Vereinen Groß Flottbeker Spvg. v. 1912 e.V. und dem Turnverein Lokstedt e.V. geplant. Bei Hallen sonstiger Träger sind keine Neubauten, Umbauten und Erweiterungen geplant.
 

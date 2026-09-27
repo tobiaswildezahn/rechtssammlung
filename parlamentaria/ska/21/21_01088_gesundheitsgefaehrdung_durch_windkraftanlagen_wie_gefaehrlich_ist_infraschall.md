@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10268"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49265"
@@ -334,13 +335,13 @@ a) Wenn ja, um welche Bürgerinitiativen mit welchen konkreten Kritikpunkten han
 
 Der zuständigen Behörde sind die nachfolgend aufgeführten Bürgerinitiativen bekannt. Die konkreten Kritikpunkte der Initiativen können deren Internetauftritten entnommen werden.
 
- Bürgerinitiative Windkraft Ochsenwerder (BI-W-O)
+– Bürgerinitiative Windkraft Ochsenwerder (BI-W-O)
 
- Bürgerinitiative Windkraft Altengamme (BIWAG)
+– Bürgerinitiative Windkraft Altengamme (BIWAG)
 
- Bürgerinitiative Windkraft Neuengamme
+– Bürgerinitiative Windkraft Neuengamme
 
- Bürgerinitiative Francop (BI Francop)
+– Bürgerinitiative Francop (BI Francop)
 
 b) Wenn ja, welche Windkraftstandorte sind davon betroffen?
 

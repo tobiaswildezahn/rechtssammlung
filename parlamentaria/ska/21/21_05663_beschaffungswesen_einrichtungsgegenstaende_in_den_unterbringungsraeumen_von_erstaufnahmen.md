@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 19
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5635", "21/5634"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54165"
@@ -83,7 +84,7 @@ Hat ein entsprechendes Vergabeverfahren stattgefunden?
 a) Wenn nein, warum nicht?
 b) Falls eine beschränkte beziehungsweise freihändige Vergabe erfolgte: Sind immer mindestens drei Vergleichsangebote eingeholt worden? Falls nein, warum nicht und in welchen Fällen wurde darauf verzichtet?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Beschaffungsart richtet sich nach dem Gesamtwert der jeweiligen Beschaffungsmaßnahme. Insbesondere im zweiten Halbjahr 2015 mussten und durften wegen der Dringlichkeit die zulässige Ausnahme vom Vergabeverfahren gemäß der Mitteilung der Kommission an das Europäische Parlament und den Rat zu den Vorschriften für die öffentliche Auftragsvergabe im Zusammenhang mit der aktuellen Flüchtlingsproblematik vom 9. September 2015 sowie die Hinweise aus dem Schreiben des Bundesministeriums für Wirtschaft und Energie (BMWI) vom 24. August 2015 (Az 1B6- 270100/14 ), nach denen eine Abweichung von europäischen oder länderspezifischen Vorschriften für die öffentliche Auftragsvergabe möglich und geboten ist, genutzt werden. Im Übrigen siehe Antwort zu 1. bis 4. und Drs. 21/5634.
 

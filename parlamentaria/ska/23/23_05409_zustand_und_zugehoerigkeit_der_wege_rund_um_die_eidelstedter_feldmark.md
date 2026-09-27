@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 0
 beantwortet: false
+status: "unbeantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105314"
@@ -27,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Philipp Heißner (CDU) vom 17.09.26 und Antwort des Senats · Drucksache vom 17.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105314) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105314/23_05409_zustand_und_zugehoerigkeit_der_wege_rund_um_die_eidelstedter_feldmark)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

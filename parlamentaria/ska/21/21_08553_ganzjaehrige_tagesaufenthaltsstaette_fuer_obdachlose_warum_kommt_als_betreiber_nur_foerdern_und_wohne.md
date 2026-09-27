@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 17
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8165"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57277"
@@ -43,7 +44,7 @@ Wird die TAS nach Ende des Winternotprogramms weiterhin in der Hinrichsenstraße
 
 Sind die Planungen für die neue TAS mittlerweile abgeschlossen? Wenn ja, wie sehen diese aus? Wenn nein, warum nicht und wann werden sie abgeschlossen sein?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/8165. Im Übrigen siehe Antworten zu 6. und 7. Darüber hinaus sind die Planungen noch nicht abgeschlossen.
 

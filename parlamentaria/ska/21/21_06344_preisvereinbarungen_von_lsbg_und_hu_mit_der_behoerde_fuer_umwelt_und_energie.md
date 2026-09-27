@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4497"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54866"
@@ -47,21 +48,21 @@ Erstattet wurden von der BSU die nicht durch Gebühren oder ähnliche Entgelte g
 
 Grundlage für die Erstattung war ein Bestand von qualifiziertem Fachpersonal und vereinbarte Kennzahlen, die eine bestimmte Anzahl von Untersuchungen und eine qualifizierte Beratung für den Auftraggeber sicherstellen. Die Aufteilung der Erstattung erfolgte auf einzelne Aufgaben- und Leistungsblöcke. Die Leistungen wurden zusammengefasst dargestellt:
 
- Bearbeitung von gebührenfreien Proben einschließlich der Bewertung, Begutach-
+– Bearbeitung von gebührenfreien Proben einschließlich der Bewertung, Begutach-
 
 tung und Auswertung,
 
- Betrieb der Messnetze (Wassergüte- und Luftmessnetz, einschließlich der Bewer-
+– Betrieb der Messnetze (Wassergüte- und Luftmessnetz, einschließlich der Bewer-
 
 tung, Begutachtung und Auswertung,
 
- unterstützende ministerielle Tätigkeiten für U und IB,
+– unterstützende ministerielle Tätigkeiten für U und IB,
 
- sonstige Leistungen (zum Beispiel Erarbeitung von Grundlagen, Führen von
+– sonstige Leistungen (zum Beispiel Erarbeitung von Grundlagen, Führen von
 
 Datenbanken) für die BSU,
 
- Ausbildungsaktivitäten.
+– Ausbildungsaktivitäten.
 
 In den Kosten für die Untersuchung von Proben und für die Messnetze waren 15 Prozent Aufwendungen für das Qualitätsmanagement enthalten.
 

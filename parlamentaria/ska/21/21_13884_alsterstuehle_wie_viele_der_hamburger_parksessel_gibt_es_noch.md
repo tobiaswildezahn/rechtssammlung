@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63244"
@@ -73,7 +74,7 @@ In welchen Hamburger Parks und Grünanlagen befinden sich derzeit jeweils wie vi
 
 Bei welchen Dienststellen der FHH sind derzeit jeweils wie viele der Parksessel inventarisiert? Wer kümmert sich jeweils um deren regelmäßige Pflege und Instandsetzung?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Park
 
@@ -115,7 +116,7 @@ Welche weiteren Maßnahmen ergreifen oder planen Senat und zuständige Behörden
 
 Gab oder gibt es Pläne oder Überlegungen, diese Sessel auch in anderen Hamburger Parks und Grünanlagen aufzustellen? Wenn ja, in welchen jeweils wie viele?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Für das Alstervorland und den Wilhelmsburger Inselpark ist es weiterhin möglich, für zusätzliche Sessel zu spenden. Die Bezirksämter Hamburg-Mitte, Altona und Eimsbüttel halten ihren Bestand durch Reparatur und Pflegemaßnahmen.
 

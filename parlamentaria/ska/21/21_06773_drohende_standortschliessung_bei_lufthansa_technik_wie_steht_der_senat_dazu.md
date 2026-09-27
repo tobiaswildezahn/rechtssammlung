@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 16
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6758"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55325"
@@ -93,6 +94,6 @@ Rechnet der Senat durch eine mögliche Schließung des Standorts mit Steuerausf�
 
 Durch eine mögliche Verlagerung der Flugzeugwartung müssten Flugzeuge die notwendigen Wartungsarbeiten an anderen weltweiten Standorten durchführen. Welche Auswirkungen hätten die dadurch veränderten Flugbewegungen von und zu Wartungsarbeiten auf die verschiedenen Klimabilanzen (Weltweit, Deutschland, Hamburg)?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die zuständige Behörde hat sich mit diesen Fragestellungen noch nicht befasst.

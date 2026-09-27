@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 19
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/4195", "20/12082"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57217"
@@ -53,7 +54,7 @@ Seit wann genau läuft die Evaluation?
 
 Werden die Ergebnisse im Jahr 2018 vollständig vorliegen? Wenn ja, zu welchem Stichtag? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Ergebnisse liegen voraussichtlich im 1. Quartal 2018 vor. Im Übrigen siehe Vorbemerkung.
 

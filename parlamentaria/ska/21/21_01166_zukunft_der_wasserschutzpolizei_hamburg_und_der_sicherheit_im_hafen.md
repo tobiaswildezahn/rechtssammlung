@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 17
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/181", "21/1041"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49353"
@@ -71,7 +72,7 @@ Werden mit dem zentralisierten Flottenmanagement notwendige Investitionen im Hau
 
 Wie viel teurer wird das konzentrierte Flottenmanagement durch die HPA für die Freie und Hansestadt Hamburg beziehungsweise die Behörde für Inneres und Sport?
 
-#### Antwort zu Fragen 1, 2, 3, 4, 6, 7
+#### Antwort zu Fragen 1 bis 4, 6 und 7
 
 Siehe Drs. 21/1041. Bisher ist der HPA ein Auftrag zur Planung eines Löschbootes für die Feuerwehr Hamburg erteilt worden. Darüber hinaus sind konkrete Vereinbarungen noch nicht geschlossen worden.
 
@@ -145,7 +146,7 @@ Welche zukünftigen Personalkosten werden eingeplant für 2016, 2017, 2018, 2019
 
 Wie hoch sind die prognostizierten Personaleinsparungen?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Die Planungen sind noch nicht abgeschlossen.
 
@@ -157,7 +158,7 @@ Wie hoch waren die Wartungs- und Instandsetzungskosten aufgeschlüsselt nach Beh
 
 Welche zukünftigen Wartungs- und Instandsetzungskosten werden eingeplant für 2016, 2017, 2018, 2019, 2020?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Im Haushalt der Behörde für Inneres und Sport sind die Kosten (zum Beispiel für Reparaturen, Treibstoffe) für die vorhandenen Boote nicht gesondert veranschlagt. Sie werden aus dem laufenden Betriebshaushalt bestritten. Dessen Planung orientiert sich an den Verbrauchswerten über alle Fahrzeugtypen hinweg (siehe Drs. 21/1041). Grundsätzlich können konkrete Aussagen zu künftigen Wartungs- und Instandsetzungskosten erst gemacht werden, wenn die Planungen für das zu künftige Flottenmanagementkonzept abgeschlossen sind.
 

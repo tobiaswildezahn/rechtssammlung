@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63074"
@@ -151,19 +152,19 @@ Wie viele ergänzende Fortbildungen haben bislang mit welchen Schwerpunkten stat
 
 In den letzten Jahren haben insgesamt sechs ergänzende Fortbildungen mit den folgenden Schwerpunkten stattgefunden:
 
- „Kontakt und Konflikt zu Eltern bei vermuteter Kindeswohlgefährdung“
+– „Kontakt und Konflikt zu Eltern bei vermuteter Kindeswohlgefährdung“
 
- „Abschied, Trauer, Verlust – im schulischen Kontext“
+– „Abschied, Trauer, Verlust – im schulischen Kontext“
 
- „MuT-Gruppen – ist eine Hilfe nach SGB VIII/§ 29, Soziale Gruppenarbeit mit Kin-
+– „MuT-Gruppen – ist eine Hilfe nach SGB VIII/§ 29, Soziale Gruppenarbeit mit Kin-
 
 dern und Jugendlichen, die von Mobbing betroffen sind“
 
- „Umgang mit traumatisierten Kindern und Jugendlichen mit Fluchterfahrung im
+– „Umgang mit traumatisierten Kindern und Jugendlichen mit Fluchterfahrung im
 
 Kontext Schule“ (doppelte Durchführung)
 
- „Suizidprävention anhand des Projektes (U25)“
+– „Suizidprävention anhand des Projektes (U25)“
 
 ### Frage 12
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5872"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55403"
@@ -91,7 +92,7 @@ Wie kamen die zum Teil sehr hohen oben genannten sogenannten Ermächtigungsüber
 
 Aus welchen konkreten Gründen wurden die Haushaltsmittel von 2015 auf 2016 übertragen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die zentralen Mittel der Bezirksversammlungen sind in „Produktgruppen ohne Leistungen“ im Sinne von §16 Absatz 3 LHO veranschlagt. Ihre Inanspruchnahme bedarf überwiegend Beschlüssen der Bezirksversammlungen. Dieser Prozess der Entscheidungsfindung sowie die anschließende Umsetzung der Maßnahmen nehmen entsprechend Zeit in Anspruch. Daher erfolgen die Beschlüsse und ihre jeweilige Umsetzung oftmals nicht im selben Jahr und die Ermächtigungen hierfür werden in das kommende Jahr übertragen.
 
@@ -103,7 +104,7 @@ Wurden die Überträge im Jahr 2016 bereits abgerufen?
 
 Werden die noch nicht abgerufenen Überträge noch in 2016 abgerufen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die auf Grundlage der bezirklichen Anträge von der Finanzbehörde genehmigten Ermächtigungsüberträge im „Zentralen Ansatz Bezirksversammlung“ wurden vollständig in das nachfolgende Haushaltsjahr übertragen und stehen zur Finanzierung von Maßnahmen zur Verfügung. Die Bezirksversammlungen haben die Verwendung noch nicht vollständig beschlossen.
 
@@ -123,6 +124,6 @@ Waren die oben genannten freigegebenen Mittel bereits für bestimmte Vorhaben ge
 
 Sind unter den oben genannten Mitteln periodenübergreifende Beträge enthalten? Wenn ja, für welche Vorhaben und in welcher Höhe?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Anlage und im Übrigen Antwort zu 1. und 2.

@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 23
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8751", "21/7876", "21/10677", "21/2905", "21/6387", "21/9607", "21/7828", "21/8192", "21/8557", "21/9357", "21/9757", "21/10092", "21/10400", "21/6898", "21/9897", "21/8600", "21/8934", "21/5231", "21/10024", "21/10022"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59924"
@@ -70,7 +71,7 @@ Mit wie vielen Flüchtlingen in regulären Wohnungen rechnet der Senat zum Jahre
 
 Mit wie vielen Flüchtlingen in regulären Wohnungen rechnet der Senat zum Jahresende 2018? Auf welchen Annahmen basieren diese Prognosen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Aus der örU zogen im Jahr 2017 bis Ende Oktober 2.773 Zuwanderer in eigenen Wohnraum, aus EA 714. Hierbei handelt es sich um diejenigen Personen, die ihren Wohnungsbezug den Betreibern der örU mitgeteilt haben. Diese bilden jedoch nur eine Teilmenge der mit Wohnraum versorgten Flüchtlinge ab. Eine gesonderte Erfassung von Geflüchteten im Rahmen der Statistik zu erteilten Wohnberechtigungsscheinen erfolgt nicht, sodass dazu keine Auswertung erfolgen kann. Eine Prognose der Wohnraumversorgung bis zum Jahresende und für das kommende Jahr wäre spekulativ und kann deshalb nicht abgegeben werden.
 
@@ -122,7 +123,7 @@ An welchen Standorten werden im Jahr 2018 EA und örU eröffnet? Bitte mit Angab
 
 An welchen Standorten werden im Jahr 2018 EAs und örU geschlossen? Bitte mit Angabe der jeweiligen Kapazitäten, des Trägers und des Grundes für die Schließung des jeweiligen Standorts sowie nach Monaten aufgeschlüsselt angeben.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe http://www.hamburg.de/fluechtlinge-unterbringung-standorte/. Darüber hinaus sind die Planungen noch nicht abgeschlossen.
 
@@ -134,7 +135,7 @@ Bei welchen Flüchtlingsunterkünften liefen jeweils wann in diesem Jahr die Bet
 
 Bei welchen Flüchtlingsunterkünften laufen jeweils wann im Jahr 2018 die Betreiberverträge aus? Bitte mit Angabe des Standorts, des Trägers, der Platzzahl und dem jetzigen Stand der Planung, ob es zu einer Vertragsverlängerung kommen wird und ob bereits entsprechende Verhandlungen laufen.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Zu den Standorten, Betreibern und Laufzeiten siehe Betreiberverträge Drs. 21/6898 und 21/9897. Zu den Platzzahlen siehe http://www.hamburg.de/fluechtlingeunterbringung-standorte/.
 

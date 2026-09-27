@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/500", "20/10860", "20/12094"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50839"
@@ -86,7 +87,7 @@ Was ist der momentane Status der Verhandlungen bei der Errichtung eines WLAN-Net
 
 Inwieweit sind die offenen technischen Fragen der Stromversorgung der WLAN-Einrichtungen von willy.tel geklärt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Es laufen etliche technische und infrastrukturelle Klärungen, die eine Realisierung des erfolgversprechenden Projekts ermöglichen.
 

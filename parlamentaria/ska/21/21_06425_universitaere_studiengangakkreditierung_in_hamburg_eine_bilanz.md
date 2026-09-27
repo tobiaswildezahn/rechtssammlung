@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54985"
@@ -48,7 +49,7 @@ c) Den einzelnen Studiengängen
 
 Welche Akkreditierungsagenturen waren jeweils zuständig? Wie wurden diese ausgewählt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe zentrale Datenbank des Akkreditierungsrates unter http://www.hs-kompass.de/ kompass/xml/akkr/maske.html. Die Auswahl der Akkreditierungsagenturen erfolgt
 
@@ -62,7 +63,7 @@ Welche finanziellen Beträge wurden für die Akkreditierungsagenturen ausgegeben
 
 Welche sonstigen Kosten der Hochschulen beziehungsweise der Behörden sind für die Akkreditierungsverfahren entstanden? Was für ein Zeitaufwand ist dabei entstanden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Geschäftsstelle des Akkreditierungsrates wird von den Ländern gemeinsam finanziert. Auf Hamburg entfielen dabei im Jahr 2016 10.591,78 Euro. Der Zeitaufwand für die Erstellung der Akkreditierungsunterlagen und die Begleitung der Akkreditierungsverfahren sowie für die behördliche Betreuung des Themas wird nicht gesondert erfasst und ist – unter anderem angesichts der Vielzahl der Verfahren an Hamburger Hochschulen – nicht mehr nachträglich ermittelbar.
 

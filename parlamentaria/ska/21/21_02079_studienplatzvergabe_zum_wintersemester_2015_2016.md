@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50336"
@@ -47,7 +48,7 @@ Wie viele Studienplätze wurden in welchen grundständigen Studiengängen jeweil
 
 Wie viele Studienplätze wurden in welchen Masterstudiengängen jeweils an den einzelnen Hochschulen zum Wintersemester 2015/2016 jeweils im Haupt- sowie im Nachrückverfahren vergeben? Wie hoch war jeweils die festgelegte Aufnahmekapazität in den einzelnen Studiengängen und wie viele Bewerbungen lagen für die jeweiligen Studiengänge vor?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 UHH:
 

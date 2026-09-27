@@ -13,9 +13,10 @@ seiten: 1
 fragen: 0
 einzelfragen: 0
 antwortbloecke: 0
-beantwortet: true
+beantwortet: false
+status: "zurückgezogen"
 zitierte_drucksachen: []
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/74023"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/74023/22_02779_zeitschriften_in_hamburg_und_deren_oeffentliche_foerderung_ii"
 abgerufen: "2026-09-24"
@@ -24,11 +25,9 @@ generator: "ska_archiv 1.0"
 
 # Drs. 22/2779: Zeitschriften in Hamburg und deren öffentliche Förderung (II)
 
-> Schriftliche Kleine Anfrage der Abgeordneten Marco Schulz und Olga Petersen (AfD) vom 08.01.21 und Antwort des Senats · Drucksache vom 08.01.2021  
+> Schriftliche Kleine Anfrage der Abgeordneten Marco Schulz und Olga Petersen (AfD) vom 08.01.21 · zurückgezogen · Drucksache vom 08.01.2021  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/74023) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/74023/22_02779_zeitschriften_in_hamburg_und_deren_oeffentliche_foerderung_ii)
 
-## Volltext
-
-Zeitschriften in Hamburg und deren öffentliche Förderung (II)
+## Hinweis
 
 Die Anfrage wurde zurückgezogen.

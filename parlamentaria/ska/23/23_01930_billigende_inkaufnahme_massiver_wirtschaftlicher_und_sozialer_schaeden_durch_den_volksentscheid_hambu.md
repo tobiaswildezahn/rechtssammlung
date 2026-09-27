@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 22
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["23/1994", "23/1784"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/98945"

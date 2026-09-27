@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63136"
@@ -96,7 +97,7 @@ Wie viele der Geförderten haben sich nach dem Abschluss ihrer Promotion in Hamb
 
 Wie viele Geförderte haben ihre Promotion beziehungsweise Habilitation trotz Unterstützung nicht abgeschlossen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Diese Daten werden statistisch von der UHH nicht erfasst.
 

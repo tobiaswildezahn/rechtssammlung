@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6208"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66654"
@@ -55,15 +56,15 @@ Welche Einzelmaßnahmen wurden bereits geprüft, befinden sich aktuell in der Pr
 
 Folgende alternative Sanierungs- und Neubauvarianten wurden geprüft:
 
- vollständige Instandsetzung,
+– vollständige Instandsetzung,
 
- Teilerneuerung,
+– Teilerneuerung,
 
- historisierter Neubau,
+– historisierter Neubau,
 
- klassischer Neubau,
+– klassischer Neubau,
 
- moderner Neubau.
+– moderner Neubau.
 
 ### Frage 3
 
@@ -73,7 +74,7 @@ Auf welchem Sachstand befinden sich die Planungen hinsichtlich einer U4-Brücke 
 
 Welche Einzelmaßnahmen wurden bereits geprüft, befinden sich aktuell in der Prüfung oder sollen noch geprüft werden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Hamburger Hochbahn AG hat sich bisher konzeptionell mit einer Verlängerung der U4 von der Haltestelle Elbbrücken auf den Kleinen Grasbrook befasst. Dies betrifft insbesondere die Höhenlage und die Flächenverfügbarkeit. Eine konkrete Vorplanung liegt nicht vor.
 
@@ -85,6 +86,6 @@ Entsprechen die durch „Die Bild“-Zeitung genannten Kosten der Realität? Wen
 
 Auf welche Höhe würden sich die Kosten für die Herstellung eines isolierten Neubaus einer U4-Brücke belaufen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Eine belastbare Kostenkalkulation liegt dazu nicht vor. Siehe hierzu Drs. 20/6208. Im Übrigen sieht der Senat grundsätzlich davon ab, zu Presseberichten Stellung zu nehmen.

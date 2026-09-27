@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53775"
@@ -47,7 +48,7 @@ Seit wann gibt es Plata?
 
 Wie hat sich die Zahl der Mitarbeiter und der VZÄ seitdem entwickelt? Bitte nach Jahren aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Projekt Plata startete am 1. November 2010 im Rahmen eines sechsmonatigen Pilotversuchs in Hamburg und wurde dann in den Regelbetrieb überführt. Am
 1. August 2013 wurde Plata mit der Anlaufstelle für obdachlose EU-Bürger aus Osteuropa zu einem Projekt „Plata – Anlaufstelle für wohnungslose EU-Bürgerinnen und EU-Bürger“ zusammengelegt.
@@ -137,15 +138,15 @@ Welche Sprachen sprechen die für südosteuropäische Obdachlose zuständigen Mi
 
 Die Mitarbeiterinnen und Mitarbeiter des Projektes Plata verfügen nach Angaben des Trägers über folgende Sprachkenntnisse:
 
- Mitarbeiter A: Deutsch/Polnisch/Russisch
+– Mitarbeiter A: Deutsch/Polnisch/Russisch
 
- Mitarbeiter B: Deutsch/Rumänisch/Englisch
+– Mitarbeiter B: Deutsch/Rumänisch/Englisch
 
- Mitarbeiter C: Deutsch/Rumänisch/Englisch
+– Mitarbeiter C: Deutsch/Rumänisch/Englisch
 
- Mitarbeiter D: Deutsch/Bulgarisch/Russisch/Englisch
+– Mitarbeiter D: Deutsch/Bulgarisch/Russisch/Englisch
 
- Mitarbeiter E: Deutsch/Bulgarisch/Russisch/ Englisch
+– Mitarbeiter E: Deutsch/Bulgarisch/Russisch/ Englisch
 
 ### Frage 5
 
@@ -179,7 +180,7 @@ Wie viele der Beratungen finden dort statt, wie viele bei den Obdachlosen auf de
 
 Wie viel Arbeitszeit verbringen die Mitarbeiter von Plata durchschnittlich auf der Straße bei den zu beratenden Obdachlosen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die aufsuchende Straßensozialarbeit wird seit dem 1. Janaur 2016 vorwiegend aus dem mit EHAP-Mitteln finanzierten Projekt Sansa wahrgenommen. Insofern finden die Beratungen im Projekt Plata vorrangig innerhalb der Einrichtung statt. Im Übrigen siehe Antworten zu 3. und 6.
 

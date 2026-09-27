@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 8
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3739", "21/5140"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53770"
@@ -43,6 +44,6 @@ Bis wann genau konnten die Behörden gemäß Rundschreiben „Übertragung von E
 
 Sind durch Behörden Fehlbeträge im Sinne von § 47 Absatz 3 LHO zur Übertragung auf das Folgejahr beantragt worden? Wenn ja, durch welche Behörden in jeweils welcher Höhe? (Bitte jeweils nach investiven und konsumtiven Fehlbeträgen differenzieren.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Mit Rundschreiben vom März 2016 wurden die Behörden und Ämter gebeten, Ermächtigungsüberträge/Fehlbeträge bis zum 10. Juni 2016 zu beantragen. Im Übrigen siehe Drs. 21/5140.

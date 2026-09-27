@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 23
 antwortbloecke: 23
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50795"
@@ -153,13 +154,13 @@ Wie hoch ist die pro Person festgelegte Summe, die f & w für jeden einzelnen Fl
 
 Dem Betreiber werden die nachgewiesenen Gesamtaufwendungen erstattet, die auch Fixkosten enthalten, welche von der Zahl der jeweils untergebrachten Personen unabhängig sind. Diese Gesamtaufwendungen umfassen unter anderem:
 
- den organisatorischen Betrieb und die Verwaltung der Einrichtung,
+– den organisatorischen Betrieb und die Verwaltung der Einrichtung,
 
- die Aufnahme, Unterbringung, Versorgung, der unterzubringenden Flüchtlinge,
+– die Aufnahme, Unterbringung, Versorgung, der unterzubringenden Flüchtlinge,
 
- die Gewährleistung der Sicherheit,
+– die Gewährleistung der Sicherheit,
 
- die technische Bewirtschaftung der Einrichtung einschließlich der Wahrnehmung
+– die technische Bewirtschaftung der Einrichtung einschließlich der Wahrnehmung
 
 der Verkehrssicherungspflicht.
 

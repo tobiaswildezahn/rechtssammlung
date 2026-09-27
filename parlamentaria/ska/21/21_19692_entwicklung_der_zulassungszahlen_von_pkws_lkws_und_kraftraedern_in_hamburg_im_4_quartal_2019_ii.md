@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19464"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69470"
@@ -52,7 +53,7 @@ Wann werden die Daten darüber vorliegen, wie viele Pkws, Lkws und Krafträder (
 Wie viele Pkws, Lkws und Krafträder (Krad) waren zum Stichtag
 31. Dezember 2019 in Hamburg zugelassen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Übersicht der Bestandszahlen Pkws, Lkws und Krafträder (Stichtag: 01. Januar 2020; Quelle: LBV):
 

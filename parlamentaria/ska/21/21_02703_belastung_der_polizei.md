@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51042"
@@ -138,19 +139,19 @@ Zum Ausgleich zu erwartender Personalabgänge ist beabsichtigt, beginnend 2016 b
 
 Die Polizei hat durch
 
- die Anpassung des Eignungsfeststellungsverfahrens an entsprechende Verfahren
+– die Anpassung des Eignungsfeststellungsverfahrens an entsprechende Verfahren
 
 anderer Länderpolizeien,
 
- die Erweiterung der Zielgruppe auf Berufseinsteiger und Berufswechsler, die
+– die Erweiterung der Zielgruppe auf Berufseinsteiger und Berufswechsler, die
 
 besondere Fähigkeiten und Fertigkeiten für den Polizeiberuf mitbringen,
 
- die Einführung eines einwöchigen Berufspraktikums für Berufswechsler im Umfang
+– die Einführung eines einwöchigen Berufspraktikums für Berufswechsler im Umfang
 
 von circa 150 Plätzen pro Jahr und
 
- die Steigerung externer Informationsveranstaltungen, insbesondere zur Gewin-
+– die Steigerung externer Informationsveranstaltungen, insbesondere zur Gewin-
 
 nung von Bewerbern mit Migrationshintergrund, geeignete Maßnahmen ergriffen,
 

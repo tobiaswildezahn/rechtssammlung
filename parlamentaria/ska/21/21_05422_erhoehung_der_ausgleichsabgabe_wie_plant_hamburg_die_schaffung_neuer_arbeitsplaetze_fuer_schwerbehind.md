@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 19
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4681"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53909"
@@ -125,11 +126,11 @@ Wofür will der Senat beziehungsweise die zuständige Behörde die zusätzlichen
 
 Aus den Mitteln des Programms „Inklusionsinitiative II – AlleImBetrieb“ können nach der Richtlinie des Bundesministeriums für Arbeit und Soziales vom 11. April 2016
 
- finanzielle Leistungen für Aufbau, Erweiterung, Modernisierung und Ausstattung
+– finanzielle Leistungen für Aufbau, Erweiterung, Modernisierung und Ausstattung
 
 einschließlich einer betriebswirtschaftlichen Beratung und für besonderen Aufwand nach § 134 SBG IX und
 
- Leistungen bei außergewöhnlichen Belastungen nach § 27 der Schwerbehinder-
+– Leistungen bei außergewöhnlichen Belastungen nach § 27 der Schwerbehinder-
 
 ten-Ausgleichsabgabeverordnung (SchwbAV)
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/486", "21/2765", "20/13033"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51200"
@@ -63,7 +64,7 @@ Welche Kapazität hat die bestehende Aula der ISS (Gesamtfläche in m², Bühnen
 
 Welche Kapazitäten haben die neu geplanten Gemeinschaftsflächen (vergleiche Drs. 21/2765, Antwort zu Fragen 1. bis 4.); (Fläche in m², Bühnenfläche in m² und maximale Bestuhlungsanzahl)?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die bestehende Aula hat eine nutzbare Fläche von rund 400 m (davon 15,7 m Bühnenfläche) und ermöglicht eine maximale Bestuhlung mit 350 Plätzen. Die geplante Gemeinschaftsfläche hat eine Größe von 514 m (davon circa 20 m Bühnenfläche) und ermöglicht eine Bestuhlung mit 400 Plätzen.
 

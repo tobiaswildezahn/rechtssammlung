@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7389"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56644"
@@ -67,7 +68,7 @@ Warum hat die Stromnetz Hamburg GmbH Ende 2015 Anteile an der HanseGM übernomme
 
 Was sind die genauen Aufgaben und der Unternehmenszweck der HanseGM? Welche Änderungen sind im Einzelnen geplant?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die HanseGM hat in den Bereichen Energie und IT & Kommunikation spezialisiertes Branchenwissen aufgebaut und ist als Dienstleisterin im Kerngeschäft der SNH mit
 

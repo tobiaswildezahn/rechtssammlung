@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10185"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59400"
@@ -47,7 +48,7 @@ Wie viele StadtRÄDER waren jeweils in dem Zeitraum 25. August bis 22. September
 
 Wie viele Fahrten/Ausleihvorgänge wurden in 2017 in dem unter 1. genannten Zeitraum mit den einsatzfähigen StadtRÄDERn in Hamburg getätigt (bitte tagesgenau und in Summe angeben)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für die Anzahl der einsatzfähigen Stadträder sowie der Ausleihvorgänge im betrachteten Zeitraum siehe nachstehende Tabelle. Es ist darauf hinzuweisen, dass der Wert für die Ausleihvorgänge nicht nur von der Anzahl der betriebsbereiten Fahrräder, sondern von vielfältigen Einflussfaktoren abhängt (zum Beispiel Wettereinflüsse und Wochenverlauf).
 

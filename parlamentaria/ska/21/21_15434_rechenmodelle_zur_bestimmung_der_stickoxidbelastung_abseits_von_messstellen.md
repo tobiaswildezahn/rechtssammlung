@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64905"
@@ -40,27 +41,27 @@ Vor diesem Hintergrund fragen wir den Senat:
 
 Für die 2. Fortschreibung des Luftreinhalteplans wurde die gleiche Software wie in Berlin, jedoch ein anderes Modell verwendet. Das spezifisch für die Situation in Hamburg erstellte Screening-Modell zur Berechnung der NO-Immissionsbelastung für das Basisjahr 2014 und die Prognosejahre 2020 und 2025 berücksichtigt unter anderem folgende Eingangsdaten, die für die Berechnung der Hintergrundbelastung und der Gesamtbelastung in das Modell integriert wurden:
 
- Bebauungssituation an den Straßen der Stadt Hamburg,
+– Bebauungssituation an den Straßen der Stadt Hamburg,
 
- Verkehrsdaten (Straßentyp, Verkehrsbelastung und Flottenzusammensetzung
+– Verkehrsdaten (Straßentyp, Verkehrsbelastung und Flottenzusammensetzung
 
 durch Verkehrsgutachter),
 
- Emissionsquellen aus den Bereichen Verkehr, Industrie, Hausbrand, Hafen, Flug-
+– Emissionsquellen aus den Bereichen Verkehr, Industrie, Hausbrand, Hafen, Flug-
 
 hafen et cetera,
 
- Meteorologiedaten.
+– Meteorologiedaten.
 
 Zusätzlich wurden folgende konservative Annahmen bei der Modellierung getroffen:
 
- Korrekturfaktor für Diesel-Pkws und leichte Lkws der Euro-Norm 6, Erhöhung der
+– Korrekturfaktor für Diesel-Pkws und leichte Lkws der Euro-Norm 6, Erhöhung der
 
 Emissionsfaktoren nach HBEFA um 90 Prozent,
 
- Validierung des Modells an den Messungen der verkehrsnahen Messstellen,
+– Validierung des Modells an den Messungen der verkehrsnahen Messstellen,
 
- Einführung eines Kalibrierfaktors mit einem Zuschlag von 6,4 Prozent auf alle
+– Einführung eines Kalibrierfaktors mit einem Zuschlag von 6,4 Prozent auf alle
 
 Ergebnisse der Screeningberechnungen.
 

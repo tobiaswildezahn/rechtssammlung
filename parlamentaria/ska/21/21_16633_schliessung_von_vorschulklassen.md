@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16131"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66173"
@@ -49,7 +50,7 @@ Hat der Senat/die zuständige Behörde Kenntnis der Quelle, aus der „DER SPIEG
 
 Wenn nein, wie erklärt sich der Senat/die zuständige Behörde diese Berichterstattung?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Gemäß § 4 „Informationsrecht“ des Hamburgischen Pressegesetzes sind alle Behörden verpflichtet, den Vertreterinnen und Vertretern der Presse und des Rundfunks die der Erfüllung ihrer öffentlichen Aufgabe dienenden Auskünfte zu erteilen. Diesem Informationsrecht kommt die für Bildung zuständige Behörde umfassend unter anderem durch eine Vielzahl von Kontakten und Serviceleistungen nach. Welche weiteren Informationen und Informationsquellen Medienvertreterinnen und -vertreter wie für ihre spätere Berichterstattung nutzen, lässt sich aus den Kontakten nicht regelhaft ableiten. Im Übrigen siehe Vorbemerkung.
 
@@ -93,7 +94,7 @@ Was plant der Senat/die zuständige Behörde mit den darauffolgenden Jahrgängen
 
 Wie plant der Senat/die zuständige Behörde den Übergang dieser in VSK beschulten ersten Klassen in die zweite Klasse? (Bitte konkret pro Standort nennen.)
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die für Bildung zuständige Behörde plant grundsätzlich für alle schulpflichtigen Kinder und Jugendlichen die Beschulung, siehe auch https://www.hamburg.de/bsb/ pressemitteilungen/12278830/2019-03-07-bsb-milliardenausbauprogramm-fuerschulen/.
 

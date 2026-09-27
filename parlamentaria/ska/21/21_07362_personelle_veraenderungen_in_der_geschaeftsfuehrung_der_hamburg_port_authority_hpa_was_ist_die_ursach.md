@@ -11,9 +11,10 @@ fraktionen: ["FDP"]
 vorgang: 51261
 seiten: 4
 fragen: 17
-einzelfragen: 32
-antwortbloecke: 15
+einzelfragen: 41
+antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55966"
@@ -54,24 +55,34 @@ Dies vorausgeschickt, beantwortet der Senat die Fragen teilweise auf der Grundla
 ### Frage 1
 
 Stimmen die Aussagen, dass sich die HPA zukünftig von Wolfgang Hurtienne trennen wird?
-1.1. Wenn ja, warum?
-1.2. Wenn ja, zu wann wird der bestehende Vertrag beendet?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Wenn ja, warum?
+
+### Frage 1.2
+
+Wenn ja, zu wann wird der bestehende Vertrag beendet?
+
+#### Antwort zu Fragen 1, 1.1 und 1.2
 
 Anlass für die einvernehmlich beschlossene Niederlegung der Geschäftsführertätigkeit von Herrn Hurtienne ist die vom Aufsichtsrat beschlossene Umstrukturierung der HPA (HPA next), die unter Mitwirkung von Herrn Hurtienne entwickelt wurde. Diese sieht mit dem Ziel der Steigerung der Effizienz und der beihilferechtlichen Unbedenklichkeit der Aktivitäten der HPA vor, das Unternehmen grundlegend zu reorganisieren. Damit verbunden ist auch eine Zäsur in der Geschäftsführung.
 
 Vorgesehen ist eine Auflösung des Vertrages zum 15. Januar 2017, vorbehaltlich der erforderlichen Zustimmung des Aufsichtsrates.
 
-1.3. Wenn ja, wer wird sein/e Nachfolger/-in?
+### Frage 1.3
+
+Wenn ja, wer wird sein/e Nachfolger/-in?
+
+#### Antwort zu Frage 1.3
 
 Über die Nachfolge ist noch keine Entscheidung getroffen worden.
 
-1.4. Wenn ja, ist die Nachfolge bereits ausgeschrieben beziehungsweise soll sie ausgeschrieben werden?
+### Frage 1.4
 
-Wenn ja, wann und wo?
+Wenn ja, ist die Nachfolge bereits ausgeschrieben beziehungsweise soll sie ausgeschrieben werden? Wenn ja, wann und wo? Wenn nein, ist die Besetzung von mehreren Geschäftsführern hinsichtlich der Größe der HPA nicht angezeigt?
 
-Wenn nein, ist die Besetzung von mehreren Geschäftsführern hinsichtlich der Größe der HPA nicht angezeigt?
+#### Antwort zu Frage 1.4
 
 Nein. Die Besetzung der Geschäftsführung mit zwei Geschäftsführern wird gemäß dem Gesetz über die Hamburg Port Authority (HPAG) angestrebt.
 
@@ -83,34 +94,59 @@ Wird sich zukünftig die personelle und zahlenmäßige Zusammensetzung der Gesch
 
 Die personelle Zusammensetzung wird sich ändern, die zahlenmäßige Zusammensetzung hingegen nicht.
 
-2.1. Wenn ja, in welchem Umfang wird die Geschäftsführung der HPA verändert?
+### Frage 2.1
 
-2.2. Wenn ja, zu wann werden diese Änderungen erfolgen?
+Wenn ja, in welchem Umfang wird die Geschäftsführung der HPA verändert?
+
+### Frage 2.2
+
+Wenn ja, zu wann werden diese Änderungen erfolgen?
+
+#### Antwort zu Fragen 2.1 und 2.2
 
 Es ist geplant, Beschlüsse zu der personellen Veränderung in der ersten Jahreshälfte 2017 herbeizuführen. Im Übrigen siehe Antwort zu 1.4.
 
-2.3. Wenn ja, wie viele Geschäftsführer wird es künftig geben?
+### Frage 2.3
+
+Wenn ja, wie viele Geschäftsführer wird es künftig geben?
+
+#### Antwort zu Frage 2.3
 
 Siehe Antwort zu 1.4.
 
-2.4. Zu wann sind oder werden in welchem Umfang welche Stellen wo ausgeschrieben?
+### Frage 2.4
 
-2.5. Wenn nein, warum nicht?
+Zu wann sind oder werden in welchem Umfang welche Stellen wo ausgeschrieben?
+
+### Frage 2.5
+
+Wenn nein, warum nicht?
+
+#### Antwort zu Fragen 2.4 und 2.5
 
 Im Regelfall werden Spitzenpositionen der öffentlichen Unternehmen nicht ausgeschrieben, sondern Personalberatungsunternehmen hinzugezogen. Dieses Vorgehen ist auch in diesem Falle vorgesehen. Nach langjähriger Erfahrung bietet dieses Vorgehen eine optimale und qualitätsgesicherte Möglichkeit, geeignetes Personal zu rekrutieren.
 
 ### Frage 3
 
 Werden derzeit neue Geschäftsführerverträge unterschrieben oder ausgehandelt?
-3.1. Wenn ja, mit wem und zu wann erhalten die/der Geschäftsführer neue Verträge?
-3.2. Welche Inhalte werden dabei geändert? Welche Ziele werden konkretisiert?
-3.3. Wenn nein, warum nicht?
+
+### Frage 3.1
+
+Wenn ja, mit wem und zu wann erhalten die/der Geschäftsführer neue Verträge?
+
+### Frage 3.2
+
+Welche Inhalte werden dabei geändert? Welche Ziele werden konkretisiert?
+
+### Frage 3.3
+
+Wenn nein, warum nicht?
 
 ### Frage 4
 
 Wie wird die gegebenenfalls neu zu besetzende Geschäftsführerposition bei der HPA, auch in Abgrenzung zur bestehenden Geschäftsführerposition von Jens Meyer, zukünftig ausgestaltet (Aufgaben, Planungshorizont, Verdienst, Verantwortungsbereich)?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3, 3.1, 3.2, 3.3 und 4
 
 Nein. Es sind zunächst Beschlüsse des Aufsichtsrates herbeizuführen, siehe auch Antwort zu 2.2.
 
@@ -135,7 +171,7 @@ Die Kostenexplosion und Probleme der HPA bei der Herstellung der Tiefen im Hambu
 
 Welche Einzelentscheidungen waren ausschlaggebend für die Entlassung von Wolfgang Hurtienne?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 1. bis 1.2.
 
@@ -190,10 +226,16 @@ Die erfolgsabhängige Vergütung für beide Geschäftsführer basiert auf gemein
 ### Frage 14
 
 War der Senat im Jahr 2015 mit der Leistung der Geschäftsführung zu 100 Prozent zufrieden?
-14.1. Wenn ja, was hat sich innerhalb des Jahres 2016 geändert, das die drastischen Maßnahmen begründet?
-14.2. Wenn nein, wieso wurde die erfolgsabhängige Vergütung zu 100 Prozent an beide Geschäftsführer ausgezahlt?
 
-#### Antwort zu Frage 14
+### Frage 14.1
+
+Wenn ja, was hat sich innerhalb des Jahres 2016 geändert, das die drastischen Maßnahmen begründet?
+
+### Frage 14.2
+
+Wenn nein, wieso wurde die erfolgsabhängige Vergütung zu 100 Prozent an beide Geschäftsführer ausgezahlt?
+
+#### Antwort zu Fragen 14, 14.1 und 14.2
 
 Der Senat hat sich nicht mit der Leistung der Geschäftsführung befasst. Im Übrigen siehe Antwort zu 13.
 

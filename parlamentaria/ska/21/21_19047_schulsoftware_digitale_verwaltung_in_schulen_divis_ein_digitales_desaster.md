@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15798"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68753"
@@ -158,7 +159,7 @@ Wie viele Anfragen sind in den vergangenen zwölf Monaten beim Support für DiVi
 
 Wie ist der Bearbeitungsweg bei Supportanfragen und wie lang ist die durchschnittliche Bearbeitungsdauer? (Bitte den Bearbeitungsweg konkret darlegen und die durchschnittliche Bearbeitungsdauer transparent hinterlegen.)
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Für den regelhaften Fachsupport kontaktieren die Schulen die Hotline bei Dataport (First-Level-Support). Hier wird das Problem aufgenommen und bei allgemeinen Fragestellungen nach Möglichkeit auch gleich gelöst. Ist dies nicht möglich, wird die Frage an den Fachsupport der für Bildung zuständigen Behörde (Second-Level-Support) weitergeleitet. Der Fachsupport kontaktiert die Schule dann im Schnitt innerhalb von 24 Stunden. Bei komplizierten Fragestellungen wird für die Problemlösung zusätzlich die fachliche Leitstelle hinzugezogen (Third-Level-Support). Diese Fälle sind sehr spezifisch, sodass sich hier keine durchschnittliche Bearbeitungsdauer angeben lässt.
 
@@ -260,15 +261,15 @@ Funktionsbereich Maßnahmen
 
 Ansicht in der Zeugniskonferenz
 
-•  
+–  
 Bereitstellung eines Vollbild-Modus  
-•  
+–  
 Überarbeitung und Ergänzung vorbereitender Listen
 
 Untis-Abgleich  
-•  
+–  
 Technische Maßnahmen zur Erhöhung der Robustheit der Schnittstelle  
-•  
+–  
 Erstellung zusätzlicher Anwenderdokumentation
 
 Fächer, Stundentafeln Niedrigere Priorität, da einmalige und abgeschlossene Einrichtungsaufgaben

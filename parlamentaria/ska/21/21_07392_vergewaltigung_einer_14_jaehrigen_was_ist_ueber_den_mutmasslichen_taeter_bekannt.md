@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56014"
@@ -61,7 +62,7 @@ Konnte seine Identität zwischenzeitlich eindeutig festgestellt werden? Falls ne
 
 Gibt es mittlerweile gültige Heimreisedokumente? Falls nein, welche Maßnahmen wurden jeweils wann von welcher Stelle zur Beschaffung der Dokumente ergriffen und warum waren diese bislang erfolglos?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Tatverdächtige hat seine Personalien mündlich angegeben und wurde erstmalig von der Ausländerbehörde am 22. Februar 2011 erkennungsdienstlich behandelt. Im Rahmen einer polizeilichen erkennungsdienstlichen Behandlung am 15. November 2013 wurde zur Identitätsfeststellung ein Telebildabgleich vorgenommen. Im Ergebnis wurde festgestellt, dass der Tatverdächtige unter den angegebenen Personalien bekannt ist und keine abweichenden Daten zu seiner Person vorliegen. Der Tatverdächtige verfügt nach bisherigen Erkenntnissen neben der ausländerrechtlichen Duldung über keine amtlichen Ausweispapiere. Er wird mit den in der Duldung angegebenen Personalien geführt. Eine abschließende Feststellung seiner Identität in dem von ihm angegebenen Herkunftsland Ägypten konnte bisher nicht erlangt werden.
 

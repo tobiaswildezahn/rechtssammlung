@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 21
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12884", "21/9971", "21/7159"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63731"
@@ -239,15 +240,15 @@ In welchen Kitas gibt es in Harburg Wartelisten für Krippen- beziehungsweise Ki
 
 Die für Kindertagesbetreuung zuständige Behörde verfügt nicht über die Daten zur Beantwortung der Frage, welche Kitas in Harburg Wartelisten führen und wie lange die durchschnittliche Wartezeit ist. Sie hat daher die Vertragspartner des Landesrahmenvertrages „Kinderbetreuung in Tageseinrichtungen“ (Arbeiterwohlfahrt Landesverband Hamburg e.V.; Caritasverband für Hamburg e.V.; Deutsches Rotes Kreuz Landesverband Hamburg; Der PARITÄTISCHE Wohlfahrtsverband Hamburg e.V.; Diakonisches Werk Hamburg e.V., Kindermitte e.V. – Bündnis für soziales Unternehmertum und Qualität in der Kindertagesbetreuung e.V.; SOAL – Alternativer Wohlfahrtsverband e.V. Landesverband Hamburg, Elbkinder – Vereinigung Hamburger Kitas gGmbH) und die nicht organisierten Träger von Kindertageseinrichtungen im Bezirk Harburg gebeten, die entsprechenden Auskünfte zu erteilen. Von insgesamt 80 Kitas in Harburg sind Rückmeldungen für 19 Kitas eingegangen, von denen fünf Kitas eine Warteliste mit einer durchschnittlichen Wartezeit mit zwölf bis 24 Monaten führen:
 
- Kita Alte Forst, Alte Forst 1
+– Kita Alte Forst, Alte Forst 1
 
- Kita Zauberwiese, Winsenerstraße 66
+– Kita Zauberwiese, Winsenerstraße 66
 
- Kita Himmelblau, Kiesbarg 28
+– Kita Himmelblau, Kiesbarg 28
 
- Katholische Kindertagesstätte St. Franziskaner, Reeseberg 10a
+– Katholische Kindertagesstätte St. Franziskaner, Reeseberg 10a
 
- Kinderzentrum Harburg, Schneverdingerweg 1b
+– Kinderzentrum Harburg, Schneverdingerweg 1b
 
 Die 14 Kitas der Elbkinder – Vereinigung Hamburger Kitas gGmbH führen Interessentenlisten, aus denen sich keine Wartezeiten ergeben.
 
@@ -307,7 +308,7 @@ An welchen Harburger Kita-Einrichtungen gibt es wie viele Klagen der Eltern bez�
 
 Aus welchen Gründen kommt es an welcher Harburger Kita-Einrichtung zu Engpässen oder Qualitätseinbußen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Bezogen auf die Kitas der Freien und Hansestadt Hamburg und der Elbkinder – Vereinigung Hamburger Kitas gGmbH liegen der für Kindertagesbetreuung zuständigen Behörde aktuell keine entsprechenden Beschwerden im Bezirk Harburg vor. Bei allen anderen Kindertageseinrichtungen ist der Senat aus Gründen des Sozialdatenschutzes an einer Übermittlung der erfragten Informationen gehindert, selbst wenn diese der zuständigen Behörde vorliegen würden oder in der Kürze der für die Beantwortung zur Verfügung stehenden Zeit recherchiert werden könnten. Bei den erfragten Informationen handelt es sich gemäß §§ 35 Absatz 1 SGB I, 61 fortfolgende SGB VIII, 67 fortfolgende SGB X um geschützte Sozialdaten der betroffenen Träger oder um diesen gleichstehende Geschäftsgeheimnisse (bei juristischen Personen als Trägern) gemäß §§ 35 Absatz 4 SGB I, 67 Absatz 2 S. 2 SGB X. Diese darf der Senat gemäß § 67 b Absatz 1 SGB X nur bei Vorliegen einer gesetzlichen Übermittlungsbefugnis im SGB oder gemäß Artikel 6 Absatz 1 S. 1 Buchstabe a DS-GVO mit Einwilligung der Betroffenen weitergeben. Das SGB enthält keine Übermittlungsbefugnis zugunsten der Beantwortung Parlamentarischer Anfragen. Eine Einwilligung der Betroffenen zur Datenübermittlung liegt nicht vor. Im Übrigen siehe Drs. 21/7159.
 
@@ -417,7 +418,7 @@ Mit welchen Instrumenten und mit welchen zeitlichen Abständen werden die Vorgab
 
 Welche Ergebnisse haben diese Prüfungen für die Harburger Kita- Einrichtungen ergeben?
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Zur Sicherung der Qualität in den Hamburger Kitas haben sich im Zuge der Verhandlungen zum neuen Landesrahmenvertrag „Kinderbetreuung in Tageseinrichtungen“ die Vertragspartner auf die Einführung eines neuen – ergänzenden – behördlichen „Kita-Prüfverfahrens“ verständigt. Danach ist die für Kindertagesbetreuung zuständige Behörde künftig berechtigt, anlassunabhängig zu überprüfen, ob die Regelungen des Landesrahmenvertrags von den Kindertageseinrichtungen eingehalten werden. Die Einführung eines „Kita-Prüfverfahrens“ wird derzeit vorbereitet und soll in 2019 erfolgen. Im Übrigen sind die Planungen noch nicht abgeschlossen.
 

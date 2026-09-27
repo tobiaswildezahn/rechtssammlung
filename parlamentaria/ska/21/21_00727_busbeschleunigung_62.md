@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/73", "20/14539", "20/14419", "20/13507"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48891"
@@ -114,6 +115,6 @@ Wann erfolgt eine abschließende Bewertung des Sinns der Verkehrsinseln?
 
 Unter welchen Voraussetzungen werden die Verkehrsinseln wieder entfernt? Wer entscheidet wann darüber? Wie werden die Anwohner und Gewerbetreibenden an dieser Entscheidung beteiligt?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Drs. 21/73.

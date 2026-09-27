@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/518", "20/8662", "21/10967", "21/8612"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63848"
@@ -67,7 +68,7 @@ Hat der Verein Studentenwohnheim Harry Lange e.V. seit 2013 weitere Zuwendungen 
 
 Haben andere Studentenverbindungen in Hamburg innerhalb der letzten zehn Jahre Zuwendungen oder Vergünstigungen aus öffentlichen Stellen bekommen? Wenn ja, welche Studentenverbindungen, welche Art von Zuwendungen oder Vergünstigungen, zu welchem Zeitpunkt und auf welcher Rechtsgrundlage?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Dem Senat liegen keine Erkenntnisse im Sinne der Fragestellung vor. Im Übrigen siehe Drs. 21/10967.
 
@@ -87,7 +88,7 @@ Trafen sich in der Immobilie von Herrn Flocken außer Herr Stürzenberger noch a
 
 Hat sich der Kreis um Herrn Flocken an den rechtsextremistisch beeinflussten „Merkel-muss-weg-Aufmärschen“ in Hamburg in diesem Frühjahr beteiligt. Wenn ja, nimmt dieser Einfluss auf Planung, Organisation und politischen Ausdruck der Versammlungen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Angaben im Sinne der Fragestellung könnten Rückschlüsse auf die Arbeitsweise und Einblickstiefe des Verfassungsschutzes zulassen und eine künftige Beobachtung der rechtsextremistischen Szene würde dadurch unverhältnismäßig erschwert werden. Detaillierte Angaben im Sinne der Fragestellung können daher aus Gründen des Staatswohls nur gegenüber dem nach § 24 Hamburgisches Verfassungsschutzgesetz für die parlamentarische Kontrolle des Senats auf dem Gebiet des Verfassungsschutzes zuständigen Kontrollausschusses (PKA) gemacht werden.
 

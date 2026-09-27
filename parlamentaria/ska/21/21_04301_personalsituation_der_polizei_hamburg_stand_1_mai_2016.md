@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 14
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52685"
@@ -136,7 +137,7 @@ Wie viele Stellen gab es am 1. Mai 2016 bei der Hamburger Polizei, die nicht dem
 
 Wie viele davon waren Stellen in der Funktion „Angestellte im Polizeidienst“ (AiP)?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Zum Stichtag verfügte die Polizei über 1.497,5 Stellen, die nicht dem Polizeivollzugsdienst zugeordnet waren, davon 397 Stellen für Angestellte im Polizeidienst.
 
@@ -164,15 +165,15 @@ In welchem Ausmaß werden derzeit Polizeivollzugsbeamte im Objektschutz eingeset
 
 Zum Stichtag waren 22 Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte im Objektschutz bei der Direktion Einsatz (DE) 14 eingesetzt:
 
- sechzehn Beamtinnen/Beamte der Bereitschaftspolizei
+– sechzehn Beamtinnen/Beamte der Bereitschaftspolizei
 
- sechs Beamtinnen/Beamte der DE 14
+– sechs Beamtinnen/Beamte der DE 14
 
 Weitere 13 Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte waren im Objektschutz bei der Direktion Polizeikommissariate und Verkehr (DPV) eingesetzt:
 
- zehn Beamtinnen/Beamte aus Polizeikommissariaten der DPV
+– zehn Beamtinnen/Beamte aus Polizeikommissariaten der DPV
 
- drei Beamtinnen/Beamte von den Wasserschutzpolizeikommissariaten
+– drei Beamtinnen/Beamte von den Wasserschutzpolizeikommissariaten
 
 ### Frage 10
 
@@ -207,7 +208,7 @@ Welche Stellen sind den verschiedenen Organisationsbereichen/ Dienststellen der 
 
 Wie viele dieser Stellen waren jeweils zum 1. Mai 2016 unbesetzt?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Anlagen 1 und 2. und Vorbemerkung.
 

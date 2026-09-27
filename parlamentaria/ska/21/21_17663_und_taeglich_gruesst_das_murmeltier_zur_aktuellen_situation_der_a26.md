@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15693", "21/14149"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67258"
@@ -59,7 +60,7 @@ Wann ist jeweils mit dem Baubeginn bzw. der Fertigstellung des Teilstücks „A2
 
 Wann ist mit einer beidseitigen Verkehrsfreigabe für die gesamte Strecke der A 26 vom Autobahnkreuz Kehdingen (A 20) bis zur Ausfahrt Hamburg-Stillhorn (A 1) zu rechnen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Abschnitte der A26-Ost sind in unterschiedlichen Planungsstadien und zum Teil noch in der Entwurfsplanung. Die Nennung eines festen Baubeginns und der Fertigstellung ist daher derzeit nicht möglich. Voraussetzung für einen Baubeginn ist ein Planfeststellungsbeschluss.
 
@@ -71,7 +72,7 @@ Welche Kosten fallen bis zur Fertigstellung der jeweiligen Teilstücke niedersä
 
 Welche Kosten fallen bis zur Fertigstellung der A 26 insgesamt an?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die derzeitige Berechnung der vom Bund zu tragenden Baukosten für den Abschnitt 4 (Landesgrenze Hamburg/Niedersachsen bis A 7) beträgt rund 213 Millionen Euro. Die derzeit von Hamburg zu tragenden Baunebenkosten betragen rund 53 Millionen Euro. Im Übrigen siehe Drs. 21/15693. Für das Teilstück zwischen Moorburg und Hamburg- Stillhorn siehe Drs. 21/14149.
 

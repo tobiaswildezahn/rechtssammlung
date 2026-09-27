@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 28
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7150"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56545"
@@ -63,11 +64,11 @@ Die Gebührenhöhe richtet sich nach der Gebührenordnung für die Reinigung öf
 
 festgelegten Reinigungsfrequenz gestaffelt. Die Kriterien für die Aufnahme in das WRV und für die Reinigungsfrequenz sind:
 
- Ausbauzustand und Verkehrsaufkommen der öffentlichen Wege
+– Ausbauzustand und Verkehrsaufkommen der öffentlichen Wege
 
- Art der Bebauung und Nutzung der angrenzenden Grundstücke
+– Art der Bebauung und Nutzung der angrenzenden Grundstücke
 
- sonstige Faktoren, die den Verschmutzungsgrad des Weges beeinflussen können
+– sonstige Faktoren, die den Verschmutzungsgrad des Weges beeinflussen können
 
 (zum Beispiel Bushaltestellen, Laubbäume)
 
@@ -110,7 +111,7 @@ Wie häufig werden neue Straßen in die Gehwegreinigungspflicht aufgenommen und 
 
 Wie häufig wird die Anlage 1 zur Verordnung über das Wegereinigungsverzeichnis und die Reinigungshäufigkeit (Wegereinigungsverordnung) vom 2. März 2004 aktualisiert?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Das WRV wird regelmäßig jährlich zum 1. April fortgeschrieben. Im Übrigen siehe Vorbemerkung und Antwort zu 2.
 
@@ -154,7 +155,7 @@ Welche Kriterien gelten für die Gehwegreinigungspflicht im Bezirk Harburg?
 
 Nach welchen Kriterien wird die Höhe der Gebühr im Bezirk Harburg festgelegt? Wird die Frequenz berücksichtigt?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Antwort zu 2.
 

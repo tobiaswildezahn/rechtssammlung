@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10993", "21/10897", "21/10204", "21/6118"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60311"
@@ -96,7 +97,7 @@ Wie viele Flüchtlinge mit subsidiärem Schutz haben derzeit die Möglichkeit, A
 
 In wie vielen Fällen müssten Flüchtlinge mit subsidiärem Schutz neue Wohnorte beziehen, um dort gemeinsam mit Angehörigen leben zu können?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Sofern Personen öffentlich-rechtlich untergebracht sind, siehe Antwort zu 2. bis 7. und
 8. Leben Personen bereits in nicht öffentlich untergebrachtem Wohnraum, erfolgt keine Erfassung von Umzugsgründen.

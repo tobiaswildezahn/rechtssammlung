@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64987"
@@ -71,7 +72,7 @@ Kann der Senat beziehungsweise die Finanzbehörde – wie bereits im Januar 2018
 
 Welche Berechnungsbeispiele liegen für Nichtwohngrundstücke mit welchen Auswirkungen durch eine mögliche Neuregelung der Grundsteuer vor?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 1.
 

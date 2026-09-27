@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60444"
@@ -41,37 +42,37 @@ Diese Statistik ist keine planerische Datenbasis und wird auch nicht primär mit
 
 Die „Siedlungs- und Verkehrsfläche“ besteht aus den Komponenten
 
- Gebäude- und Freiflächen,
+– Gebäude- und Freiflächen,
 
- Betriebsfläche (ohne Abbauland),
+– Betriebsfläche (ohne Abbauland),
 
- Verkehrsflächen und
+– Verkehrsflächen und
 
- Erholungsflächen (inklusive Friedhöfen).
+– Erholungsflächen (inklusive Friedhöfen).
 
 Die Nicht-Siedlungsfläche besteht aus den Komponenten
 
- Landwirtschaftlich genutzte Fläche,
+– Landwirtschaftlich genutzte Fläche,
 
- Waldfläche,
+– Waldfläche,
 
- Wasserfläche,
+– Wasserfläche,
 
- Abbauland und
+– Abbauland und
 
- Flächen anderer Nutzung (ohne Friedhofsfläche).
+– Flächen anderer Nutzung (ohne Friedhofsfläche).
 
 Ein anhaltendes Missverständnis besteht in der umgangssprachlichen Gleichsetzung der „Siedlungs- und Verkehrsfläche“ mit einer „Flächenversiegelung“. In der „Sied-
 
 lungs- und Verkehrsfläche“ werden Freiflächen und versiegelte Flächen nicht sauber getrennt, und statistisch auch große weitgehend unbebaute Flächen erfasst:
 
- In den „Gebäude- und Freiflächen“ sind umfangreiche unbebaute Anteile enthalten.
+– In den „Gebäude- und Freiflächen“ sind umfangreiche unbebaute Anteile enthalten.
 
- In den „Verkehrsflächen“ sind zum Teil Abstands- und Randflächen enthalten (die
+– In den „Verkehrsflächen“ sind zum Teil Abstands- und Randflächen enthalten (die
 
 in der Summe große Flächen ausmachen).
 
- „Erholungsflächen“ sind zum größten Teil unbebaut und umfassen neben Friedhö-
+– „Erholungsflächen“ sind zum größten Teil unbebaut und umfassen neben Friedhö-
 
 fen insbesondere Grünflächen und Sportanlagen, jedoch auch Freiflächen im Außenbereich.
 
@@ -103,15 +104,15 @@ Eine bundesweite Definition für Grün- und Erholungsflächen existiert nicht.
 
 Der im Faltblatt genannte Flächenanteil von 16,3 Prozent summiert die statistischen Kategorien
 
- „Erholungsflächen“ (mit den Unterkategorien Sportfläche, Grünanlage und Cam-
+– „Erholungsflächen“ (mit den Unterkategorien Sportfläche, Grünanlage und Cam-
 
 pingplatz),
 
- „Waldflächen“ (mit den Unterkategorien Laubwald, Nadelwald, Mischwald und
+– „Waldflächen“ (mit den Unterkategorien Laubwald, Nadelwald, Mischwald und
 
 Gehölz) und
 
- „Flächen anderer Nutzung“ (mit den Unterkategorien Übungsgelände, Schutzflä-
+– „Flächen anderer Nutzung“ (mit den Unterkategorien Übungsgelände, Schutzflä-
 
 che, Historische Anlage, Friedhof und Unland).
 
@@ -260,15 +261,15 @@ Siehe Anlage.
 
 Hinweise zum FNP:
 
- Geringfüge Differenzen bei der FNP-Gesamtgröße haben sich zwischen 1997 und
+– Geringfüge Differenzen bei der FNP-Gesamtgröße haben sich zwischen 1997 und
 
 2017 zum einen durch die Umstellung des Bezugs- und Abbildungssystems vom DHDN/Gauß-Krüger zum ETRS89/UTM in 2011, zum anderen aufgrund der Umstellung von einer analogen auf eine digitale Flächenbilanz in 2015 ergeben. Damit verbunden sind ebenfalls Auswirkungen auf die einzelnen FNP-Nutzungskategorien.
 
- Zur Darstellung von „Eignungsgebieten für Windenergieanlagen“ wurde in 1998
+– Zur Darstellung von „Eignungsgebieten für Windenergieanlagen“ wurde in 1998
 
 und in 2013 der Flächennutzungsplan geändert. Im Rahmen der 1998 erfolgten Änderung wurden circa 101,0 ha entsprechend circa 0,14 Prozent der Landesfläche als „Eignungsgebiete für Windenergieanlagen“ dargestellt. Im Rahmen der 2013 erfolgten Änderung wurden zusätzlich circa 76,9 ha entsprechend circa 0,1 Prozent der Landesfläche als „Eignungsgebiete für Windenergieanlagen“ dargestellt. Das entspricht im aktuellen Flächennutzungsplan einer Summe von circa 177,9 ha beziehungsweise circa 0,24 Prozent der Landesfläche.
 
- Diese Daten sind in der anliegenden Tabelle nicht enthalten, da die Darstellung
+– Diese Daten sind in der anliegenden Tabelle nicht enthalten, da die Darstellung
 
 „Eignungsgebiete für Windenergieanlagen“ eine die darunter liegende Art der Nutzung (in der Regel „Flächen für die Landschaft“) überlagernde Darstellung ist. Eine Aufnahme in die Tabelle würde daher zu einer Verfälschung der Daten führen.“
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65430"
@@ -152,31 +153,31 @@ In Hamburg-Nord fanden aufgrund von Bürgerverträgen folgende Veranstaltungen s
 
 Vor-Ort-Beteiligung:
 
-
+–
 14. Juli 2017, 12 bis 17 Uhr: Erna-Stahl-Ring
 
-
+–
 18. Juli 2017, 14 bis 19 Uhr: S-Bahn-Station Kornweg
 
-
+–
 20. Juli 2017, 12 bis 17 Uhr: Vor dem Berge/Tornberg
 
-
+–
 22. Juli 2017, 12 bis 17 Uhr: Stübeheide
 
- Entwurfswerkstatt am 04.11.2017
+– Entwurfswerkstatt am 04.11.2017
 
- Ausstellung und Präsentation der Zwischenergebnisse am 11. und 12.12.2017
+– Ausstellung und Präsentation der Zwischenergebnisse am 11. und 12.12.2017
 
- Ausstellung und Abschlusspräsentation der Wettbewerbsergebnisse am 19.
+– Ausstellung und Abschlusspräsentation der Wettbewerbsergebnisse am 19.
 
 und 20.02.2018
 
- Öffentliche Plandiskussion am 22.11.2018
+– Öffentliche Plandiskussion am 22.11.2018
 
 - Ehemalige Schule Grellkamp:
 
- Öffentliche Planungswerkstatt am 26.05.2018
+– Öffentliche Planungswerkstatt am 26.05.2018
 
 ### Frage 9
 

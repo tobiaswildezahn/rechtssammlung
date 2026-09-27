@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3646", "21/3915", "21/4293", "21/4734", "21/5124", "21/5453", "21/5812", "21/6222", "21/6544", "21/7162", "21/7420", "21/2837", "21/6666", "21/5231"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56506"
@@ -92,7 +93,7 @@ Es heißt, dass 19 Folgeeinrichtungen gebaut oder erweitert würden. Bitte genau
 
 Bei welchen örU ist bereits bekannt, zu wann die Nutzung als örU nicht mehr möglich ist? Bitte jeweils Standort mit „Ablauf“-Datum als örU angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung und http://www.hamburg.de/fluechtlingsunterkuenfte/.
 

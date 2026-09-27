@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13481", "16/4616", "20/10994", "21/5584", "21/13850", "21/7706"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63239"
@@ -96,7 +97,7 @@ Wie hat sich die Anzahl der Wegweisungen und Betretungsverbote seit dem Jahre 20
 
 Wie hat sich die Anzahl der Aufenthaltsverbote anlässlich einer Straftat im Zusammenhang mit häuslicher Gewalt/Beziehungsgewalt seit dem Jahre 2015 jährlich bis 30. Juni 2018 entwickelt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Statistiken im Sinne der Fragestellungen werden bei der Polizei nicht geführt. Zur Beantwortung der Fragen wäre eine Durchsicht aller Hand- und Ermittlungsakten des erfragten Zeitraums bei der Polizei erforderlich. Die Auswertung von mehreren Zehntausend Akten ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -110,7 +111,7 @@ Wie hat sich die Anzahl der Eingänge von Verfahren im Zusammenhang mit häuslic
 
 Wie hat sich die Anzahl der Dezernenten, die in den Sonderdezernaten für Verfahren im Zusammenhang mit häuslicher Gewalt/Beziehungsgewalt eingesetzt sind, seit dem Jahre 2012 entwickelt? Bitte Stellen-Soll und Besetzungsumfang jeweils zum 1. Januar eines Jahres angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Beziehungsgewaltdelikte werden bei der Staatsanwaltschaft Hamburg entsprechend der Jahresgeschäftsverteilung in Sonderdezernaten der Hauptabteilung II bearbeitet. Hierbei handelt sich um folgende Straftaten:
 

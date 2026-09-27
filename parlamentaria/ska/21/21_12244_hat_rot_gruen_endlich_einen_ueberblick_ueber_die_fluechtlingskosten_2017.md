@@ -14,6 +14,7 @@ fragen: 29
 einzelfragen: 37
 antwortbloecke: 28
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8434", "21/10873", "21/5235", "21/6983", "21/8680", "21/10202", "21/10648", "21/11645", "21/5163", "21/4174", "21/10582", "21/8279", "21/4891", "21/8722", "21/4697", "21/11471", "21/1395"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61517"
@@ -66,19 +67,19 @@ Mittel in welcher Höhe flossen im Jahr 2017 insgesamt für die Flüchtlingsvers
 
 Im Jahr 2017 flossen vorbehaltlich weiterer Zuordnungen Bundesmittel in Höhe von rund 147 Millionen Euro aus dem „Gesetz zur Beteiligung des Bundes an den Kosten der Integration und zur weiteren Entlastung von Ländern und Kommunen". Sie teilen sich wie folgt auf:
 
- Bundesbeteiligung an den Kosten der Unterkunft nach § 46 Absatz 9 SGB II (21,7
+– Bundesbeteiligung an den Kosten der Unterkunft nach § 46 Absatz 9 SGB II (21,7
 
 Millionen Euro),
 
- Sozialer Wohnungsbau: Kompensationsmittel gem. Entflechtungsgesetz (18,7
+– Sozialer Wohnungsbau: Kompensationsmittel gem. Entflechtungsgesetz (18,7
 
 Millionen Euro),
 
- Abschlagzahlung gem. Asylverfahrensbeschleunigungsgesetz für Kosten im
+– Abschlagzahlung gem. Asylverfahrensbeschleunigungsgesetz für Kosten im
 
 Zusammenhang mit der Aufnahme von Asylbewerbern, unbegleiteten minderjährigen Ausländern sowie Verbesserung der Kinderbetreuung (57 Millionen Euro),
 
- Bereitstellung einer Integrationspauschale (50 Millionen Euro).
+– Bereitstellung einer Integrationspauschale (50 Millionen Euro).
 
 Darüber hinaus hat Hamburg einen Zuschuss der Bundesanstalt für Immobilienaufgaben (BImA) für die Herrichtung des bundeseigenen Gebäudes Sieker Landstraße/Zollwohnheim in Höhe von 207.000 Euro vom Bund erhalten.
 
@@ -287,15 +288,15 @@ Für 39 geplante und 25 tatsächlich durchgeführte institutionenkundliche Semin
 
 Darüber hinaus wurden aus der Drs. 21/6983 weitere 15.000 Euro für folgende Zwecke zugewendet:
 
- „umdenken – Heinrich Böll-Stiftung“ für die Maßnahme „Qualifizierung zum/zur
+– „umdenken – Heinrich Böll-Stiftung“ für die Maßnahme „Qualifizierung zum/zur
 
 Kulturdolmetscher*in“ in Höhe von 4.165 Euro,
 
- „Arbeit und Leben DGB/VHS Hamburg e.V.“ für zwei mehrtägige Veranstaltungen
+– „Arbeit und Leben DGB/VHS Hamburg e.V.“ für zwei mehrtägige Veranstaltungen
 
 mit dem Titel „Achtung Chancen -Teilhabe stärken“ in Höhe von 5.189,50 Euro,
 
- „Die Neue Gesellschaft e.V. Vereinigung für politische Bildung“ für das Projekt
+– „Die Neue Gesellschaft e.V. Vereinigung für politische Bildung“ für das Projekt
 
 „Aufsuchender politischer Gesprächskreis-Seminare für Flüchtlinge“ in Höhe von
 5.645,50 Euro.
@@ -409,7 +410,7 @@ Wie viele zusätzliche VZÄ wurden im Rahmen der Versorgung und der Betreuung de
 
 Wie viele der zusätzlichen VZÄ sind befristet? Bitte zusätzlich nach Behörden aufschlüsseln und angeben bis wann.
 
-#### Antwort zu Fragen 22 bis 23
+#### Antwort zu Fragen 22 und 23
 
 Siehe Anlage 3.
 

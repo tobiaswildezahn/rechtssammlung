@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50516"
@@ -81,6 +82,6 @@ Wie beurteilt die zuständige Behörde die Mitwirkung von Eltern von Schülerinn
 
 Sollen die Mitwirkungsrechte von Eltern von Schülerinnen und Schülern mit sonderpädagogischem Förderbedarf, die inklusive Schulen besuchen, gestärkt werden? Falls ja, wann und in welcher Art und Weise? Falls nein, weshalb nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Aufgabe der Elternvertretungen in schulischen Gremien ist es, die Belange aller Eltern zu vertreten, sowohl die Belange der Eltern von Schulkindern mit sonderpädagogischem Förderbedarf als auch die Belange der Eltern von Schulkindern ohne sonderpädagogischen Förderbedarf. Daher hält die zuständige Behörde eine Änderung der Mitwirkungspraxis für Eltern von Schülerinnen und Schülern mit sonderpädagogischem Förderbedarf für nicht erforderlich.

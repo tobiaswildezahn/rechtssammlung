@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6415"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58891"
@@ -49,7 +50,7 @@ Wie ist die jeweilige gebührenrechtliche Situation bei Polizeieinsätzen in Pri
 
 Wie ist die jeweilige gebührenrechtliche Situation bei Polizeieinsätzen in Unternehmen/Geschäften infolge Fehlalarms a. durch aufmerksame Bürger, die die 110 wählen, b. durch eine Hausalarmanlage, c. durch eine ÜEA?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Als Fehlalarme im erfragten Kontext gelten Fehlauslösungen sogenannter Überfalloder Einbruchmeldeanlagen (ÜEA) – unabhängig von gegebenenfalls bestehenden Aufschaltungen zu Dienststellen der Polizei. Personen, die den Verdacht auf Einbrüche telefonisch an die Polizei melden und nicht Betreiber der betroffenen Anlagen sind, werden nicht mit Gebühren für Fehlalarme belegt.
 

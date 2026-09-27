@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5929"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62129"
@@ -49,7 +50,7 @@ Zwischen welchen Beteiligten wurden die Vereinbarungen für die Scandienstleistu
 
 In den Verträgen DiBAS II und DiBAS III wurden Verlängerungsoptionen vereinbart. Wurden diese Verlängerungsoptionen realisiert? Wenn ja, wurde dies unter Kenntnis des Durchführungsortes der Scandienstleistung getan? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

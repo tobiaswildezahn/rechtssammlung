@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7428"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57635"
@@ -87,6 +88,6 @@ Auf welche Höhe lässt sich der Versicherungsschaden beziffern und reicht die a
 
 Welche Konsequenzen ziehen die SRH sowie der Senat aus der Aufklärung des Unglücks?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Dieses kann erst nach Vorlage und Auswertung der gutachterlichen Beurteilung beantwortet werden.

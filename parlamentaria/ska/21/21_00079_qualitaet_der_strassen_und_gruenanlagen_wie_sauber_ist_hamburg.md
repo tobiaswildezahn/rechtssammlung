@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 18
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7048", "20/7615", "20/13322"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48206"
@@ -185,15 +186,15 @@ Siehe hierzu Drs. 20/7048 und 20/13322.
 
 Darüber hinaus werden folgende zusätzliche Reinigungsmaßnahmen zur Verbesserung der Sauberkeit der Stadt durchgeführt:
 
- Quartiersprojekte finden derzeit in Kirchdorf-Süd, Steilshoop, Billstedt/Horn und am
+– Quartiersprojekte finden derzeit in Kirchdorf-Süd, Steilshoop, Billstedt/Horn und am
 
 Osdorfer Born statt (Koordination durch SRH),
 
- Ergänzende Reinigungsmaßnahmen im Alstervorland und Umfeld des Öjendorfer
+– Ergänzende Reinigungsmaßnahmen im Alstervorland und Umfeld des Öjendorfer
 
 Parks (Pilot bis 31.März 2015; SRH),
 
- WasteWatcher – Reduzierung von achtloser Vermüllung und wilden Müllablage-
+– WasteWatcher – Reduzierung von achtloser Vermüllung und wilden Müllablage-
 
 rungen (Pilot bis 31.Mai 2015; SRH).
 

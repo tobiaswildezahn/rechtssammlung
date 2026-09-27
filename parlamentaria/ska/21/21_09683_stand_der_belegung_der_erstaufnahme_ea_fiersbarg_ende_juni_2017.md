@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 30
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7406", "21/9358", "21/2108", "21/8936", "21/7486"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58490"
@@ -43,7 +44,7 @@ Wie viele Personen sind in der EA Fiersbarg zurzeit untergebracht?
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Geschlecht  
 Kinder & Jugendliche  
@@ -97,7 +98,7 @@ Aus welchen Unterkünften kommen sie jeweils?
 
 Wie viele sind Neuankömmlinge und kamen im Mai direkt aus dem Ankunftszentrum?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Im Juni 2017 wurden 22 Personen aus dem Ankunftszentrum Rahlstedt aufgenommen. Weitere Unterkünfte, aus denen eine Verlegung in die EA Fiersbarg erfolgte, sind der nachstehenden Tabelle zu entnehmen:
 
@@ -207,7 +208,7 @@ c) Sicherheit?
 
 Wie viele davon tagsüber (7 – 18 Uhr), wie viele davon nachts (18 – 7 Uhr)? Wenn es abweichende Dienstzeiten gibt, bitte diese nennen und die Aufschlüsselung hiernach geben.
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Drs. 21/8936.
 
@@ -260,7 +261,7 @@ Gibt es Betreuung für Kleinkinder und Kinder im Vorschulalter? Wenn ja, wie ges
 
 Welche Angebote werden den Flüchtlingen gemacht (Bildung, Freizeitgestaltung)?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Siehe Drs. 21/9358.
 

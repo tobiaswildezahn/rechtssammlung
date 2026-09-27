@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11836"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48632"
@@ -190,7 +191,7 @@ Ist eine Ausweitung des Einsatzes dieser Überwachungsform geplant? Wenn ja, inw
 
 Führt der Senat beziehungsweise die zuständige Behörde Studien zur Effektivität einer elektronischen Aufenthaltsüberwachung im Rahmen von Führungsaufsicht oder anderweitig durch oder nimmt an solchen Studien teil oder ist dies geplant? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Meinungsbildung in der zuständigen Behörde ist noch nicht abgeschlossen. Abzuwarten ist die bundesweit von der Universität Tübingen, Prof. Kinzig, durchgeführte Studie „Evaluation der elektronischen Aufenthaltsüberwachung“, an der auch die Führungsaufsichtsstelle beim Landgericht Hamburg teilnimmt. Die Frage, ob und in welcher Form eine Ausweitung der elektronischen Aufenthaltsüberwachung sinnvoll sein könnte, ist zudem Gegenstand der Justizministerkonferenz vom 17. bis 18. Juni 2015
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 19
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1179", "20/12754"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55058"
@@ -70,7 +71,7 @@ Wenn nein, warum nicht?
 
 Hat der Senat Pläne, die Online-Terminvergabe für Kunden zu verbessern? Wenn ja, welche? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die entsprechende IT-Anwendung läuft störungsfrei, soll aber in ihrer Funktionalität verbessert werden. Im Übrigen sind die Planungen noch nicht abgeschlossen.
 

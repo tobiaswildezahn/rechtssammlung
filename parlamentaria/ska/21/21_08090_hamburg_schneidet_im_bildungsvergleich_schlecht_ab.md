@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3490", "21/5600", "21/302", "20/37", "20/13192", "20/13220", "20/9618", "21/8009"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56749"
@@ -352,19 +353,19 @@ Nach Auskunft der Behörde für Arbeit, Soziales, Familie und Integration arbeit
 
 Freie Träger:
 
- Nordlicht e.V.
+– Nordlicht e.V.
 
- Für Soziales
+– Für Soziales
 
- Sozialarbeit im Norden
+– Sozialarbeit im Norden
 
- Hamburger Kinder- und Jugendhilfe e.V.
+– Hamburger Kinder- und Jugendhilfe e.V.
 
 Öffentliche Träger:
 
- Fachamt Jugend- und Familienhilfe des Bezirks Hamburg-Nord
+– Fachamt Jugend- und Familienhilfe des Bezirks Hamburg-Nord
 
- Fachamt Jugend- und Familienhilfe des Bezirks Wandsbek
+– Fachamt Jugend- und Familienhilfe des Bezirks Wandsbek
 
 Es stehen Gruppenangebote für Kinder und Jugendliche mit besonders herausforderndem Verhalten zur Verfügung, die sich an zwei Modellen orientieren: zum einen Angebote, die in den Räumlichkeiten der Schulen stattfinden und zum anderen Angebote, die in den Regionalen Bildungs- und Beratungszentren (ReBBZ), also außerhalb der Schulen, realisiert werden.
 

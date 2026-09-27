@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16762", "21/15989"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66776"
@@ -65,7 +66,7 @@ Behandelt das Landesamt für Verfassungsschutz Nennkontakte zu extremistischen G
 
 Handelt es sich bei den oben dargelegten Aussagen und Freundschaftsbekundungen vom Charakter her (nicht spezifisch betrachtet) um solche Nennkontakte zu extremistischen Gruppen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -87,7 +88,7 @@ Inwieweit plant das Landesamt für Verfassungsschutz, über diese Nennkontakte (
 
 Welche Kriterien müssen erfüllt sein, damit das Landesamt für Verfassungsschutz die Relevanzschwelle als überschritten ansieht, ab der es die Öffentlichkeit über Gefahren für die Schutzgüter (§ 1 (HmbVerf- SchG)) gemäß §4 HmbVerfSchG informiert? Insbesondere: Wann ist die Relevanzschwelle überschritten, bei der eine Information per Pressemitteilung oder über die Webseite des LfV erfolgt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/15989, Antwort zu 3. und Vorbemerkung.
 
@@ -104,7 +105,7 @@ Welche Gründe führten einst zur
 a) Beobachtung des Hamburger Landesverbandes der Partei DIE LINKE (beziehungsweise deren Vorgängerorganisation) beziehungsweise
 b) zur Unterrichtung der Öffentlichkeit über die Beobachtung? Insbesondere: Wurden damals – und wenn ja, mit welcher Gewichtung – auch Nennkontakte hochrangiger Funktionäre der Partei zu Linksextremisten als Anhaltspunkte für verfassungsfeindliche Bestrebungen gewertet? Bitte umfassend erläutern.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Seit dem 1. Januar 2003 wurde die damalige „Partei des Demokratischen Sozialismus“ (PDS), die sich im Jahr 2007 durch den Beitritt der nicht extremistischen WASG als die Partei „Die Linke“ umwandelte, als Gesamtpartei seitens des LfV Hamburg beobachtet. Die Beobachtung wurde am 1. Mai 2008 eingestellt, da keine konkreten Anhaltspunkte für verfassungsfeindliche Bestrebungen mehr vorlagen. Im Übrigen siehe Verfassungsschutzberichte der Jahre 2003 bis 2007 und Antwort zu 3. Darüber hinausgehende Erkenntnisse liegen nicht vor.
 

@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 27
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57459"
@@ -83,7 +84,7 @@ Wie hoch ist der Bodenwert des genannten Flurstücks? Wann wurde er durch welche
 
 Ist es zutreffend, dass die vereinbarte Mietzahlung von f & w bereits in der vereinbarten anfänglichen Festmietzeit von vier Jahren den ermittelten Bodenwert der Fläche übersteigt? Wie wird dies vom Senat und den zuständigen Stellen bewertet?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der LIG hat im April 2016 für die bisherige landwirtschaftliche Nutzung nördlich der Elbe grundsätzlich einen Bodenrichtwert von 5,50 Euro/m (Quelle: http://geoportalhamburg.de/boris/dokumente/landw/BRWK%20Agrarland%202015.pdf) ermittelt. Dieser Wert ist hier für die Ermittlung eines angemessenen Mietzinses für eine wohnähnliche Nutzung jedoch nicht einschlägig.
 
@@ -107,25 +108,25 @@ Die Vertragsverhandlungen wurden vom Leiter des ZKF und der Anstalt öffentliche
 
 Im Einzelnen wurden folgende Informationen über den aktuellen Sachstand übermittelt:
 
- 29. Februar 2016 – Informationen zum weiteren Vorgehen in Sachen Buchen-
+– 29. Februar 2016 – Informationen zum weiteren Vorgehen in Sachen Buchen-
 
 kamp/Eulenkrugstraße nach gemeinsamer Besprechung im Bezirksamt Wandsbek vom 24. Februar 2016
 
- 16. und 20. März 2016 – Mitteilungen des ZKF über erste Ergebnisse der Flächen-
+– 16. und 20. März 2016 – Mitteilungen des ZKF über erste Ergebnisse der Flächen-
 
 prüfung
 
- 23. März 2016 – Mitteilung des ZKF über Einschätzung und Prüfungsergebnis der
+– 23. März 2016 – Mitteilung des ZKF über Einschätzung und Prüfungsergebnis der
 
 vom Eigentümer aufgerufenen Miethöhe
 
- 18. April 2016 – Stellungnahme und Bewertung des vom Vermieter überarbeiteten
+– 18. April 2016 – Stellungnahme und Bewertung des vom Vermieter überarbeiteten
 
 Pachtangebots vom 7. April 2016 durch den ZKF
 
- 25. April 2016 – Mitteilung des ZKF zum Zwischenstand der Prüfungen
+– 25. April 2016 – Mitteilung des ZKF zum Zwischenstand der Prüfungen
 
- 27. Juli 2016 – Mitteilung des ZKF über die Unterbrechung der Vertragsverhand-
+– 27. Juli 2016 – Mitteilung des ZKF über die Unterbrechung der Vertragsverhand-
 
 lungen aufgrund von parallel laufenden Verkaufsverhandlungen des Eigentümers
 
@@ -179,13 +180,13 @@ mehrfachen Verlängerungsoptionen des Mietvertrages durch f & w verringern sich 
 
 Bei der Bewertung der Kosten/der Wirtschaftlichkeit des Standortes wurden als Folge des dringenden Platzbedarfs und wenig geeigneter Angebote folgende Kriterien herangezogen und mit Benchmarks im Sinne von Richtwerten verglichen:
 
-• Investitionskosten je Platz (differenziert nach Bauart),
+– Investitionskosten je Platz (differenziert nach Bauart),
 
-• kalkulatorische Kosten, das heißt über die Laufzeit verteilte investive Kosten je Platz und Tag (differenziert nach Bauart),
+– kalkulatorische Kosten, das heißt über die Laufzeit verteilte investive Kosten je Platz und Tag (differenziert nach Bauart),
 
-• Mietkosten je Platz und Tag,
+– Mietkosten je Platz und Tag,
 
-• Investitionskosten je qm Wohnfläche (differenziert nach Bauart).
+– Investitionskosten je qm Wohnfläche (differenziert nach Bauart).
 
 Diese vor Vertragsschluss und Vergabe von Leistungen der Leistungsphase 1 bis 4 HOAI durch f & w erstellte Wirtschaftlichkeitsberechnung wurde dem ZKF und der BASFI vorgelegt. Sie weist bei einer minimalen Laufzeit des Mietvertrags von vier Jahren (das heißt ohne Berücksichtigung der f & w zustehenden mehrfachen Optionen zur Verlängerung des Mietvertrags) kalkulatorische Kosten pro Platz und Tag/ Laufzeit von 29,07 Euro aus sowie bei einer Laufzeit von 14 Jahren kalkulatorische Bau- und Mietkosten pro Platz und Tag/Laufzeit von 9,95 Euro.
 

@@ -14,6 +14,7 @@ fragen: 27
 einzelfragen: 46
 antwortbloecke: 22
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9811", "21/8965", "21/9767"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58622"
@@ -222,7 +223,7 @@ Wie viele Demonstranten wurden während der Ereignisse am 6. Juli und in der Nac
 
 Wurden Unbeteiligte verletzt? Wenn ja, wie viele und welcher Art waren die Verletzungen?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Drs. 21/9811.
 
@@ -266,7 +267,7 @@ Wie viele Demonstranten wurden im Laufe des weiteren Abends und in der Nacht fes
 
 Gegen wie viele der in diesem Zeitraum Festgenommenen wird strafrechtlich ermittelt und welche Staatsangehörigkeit haben diese?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Es erfolgten Festnahmen. Die Einzelheiten sind Gegenstand laufender Ermittlungen beziehungsweise der noch nicht abgeschlossenen Nachbereitung des Einsatzes der Sicherheitsbehörden zum G20-Gipfel. Im Übrigen siehe Vorbemerkung.
 
@@ -314,7 +315,7 @@ An welchen Demonstrationen am 6. Juli 2017 haben sogenannte parlamentarische Beo
 
 Hatten die parlamentarischen Beobachter in irgendeiner Weise besondere Befugnisse?
 
-#### Antwort zu Fragen 24 bis 25
+#### Antwort zu Fragen 24 und 25
 
 Die Bürgerschaftskanzlei wurde um einen Beitrag gebeten. Ein Antwortbeitrag liegt nicht vor. Eine formelle Funktion „parlamentarischer Beobachter“ ist nicht bekannt.
 

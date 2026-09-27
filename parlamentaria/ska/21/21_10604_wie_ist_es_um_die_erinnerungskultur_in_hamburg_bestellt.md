@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9849", "21/8807", "20/13705", "21/10281", "18/6962", "19/4555", "20/7833"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59495"
@@ -54,7 +55,7 @@ Inwiefern wird die Erinnerungskultur an den Hamburger Schulen thematisiert bezie
 
 Sind alle Hamburger Schüler verpflichtet, einmal ein KZ beziehungsweise eine KZ-Gedenkstätte zu besuchen? In welchen Jahrgängen wird ein solcher Besuch durchgeführt? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Fach Geschichte ist die Auseinandersetzung mit der nationalsozialistischen Vergangenheit Deutschlands eine verbindliche inhaltliche Vorgabe für den Unterricht in den Sekundarstufen I und II; sie bildet damit auch einen Schwerpunkt der Auseinandersetzung mit Elementen der Erinnerungskultur.
 
@@ -118,11 +119,11 @@ Um eine lebendige Erinnerungskultur zu fördern, werden die Begegnungen der jüd
 
 Weitere Beiträge der Stadt zur Förderung einer lebendigen Erinnerungskultur sind
 
- die Einrichtung des Dokumentationszentrums denk.mal Hannoverscher Bahnhof
+– die Einrichtung des Dokumentationszentrums denk.mal Hannoverscher Bahnhof
 
 (siehe Drs. 18/6962 und 19/4555),
 
- jährliche Sonderausstellungen im Rathaus anlässlich des Tages zur Erinnerung an
+– jährliche Sonderausstellungen im Rathaus anlässlich des Tages zur Erinnerung an
 
 die Opfer des Nationalsozialismus, entwickelt durch die KZ-Gedenkstätte Neuengamme in Kooperation mit der Hamburgischen Bürgerschaft.
 

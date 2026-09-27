@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1426"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49968"
@@ -53,7 +54,7 @@ Wie viele Stellen welcher Wertigkeit (laut Stellenplan) sind in den Präsidialab
 
 Wie viele Stellen welcher Wertigkeit (VZÄ) sind tatsächlich aktuell vorhanden und wie viele dieser Stellen sind besetzt? Bitte pro Behörde angeben. a. Welche Aufgaben werden von den aktuellen Stelleninhabern auf diesen Stellen in den Behörden jeweils (tatsächlich) wahrgenommen? Bitte pro Behörde angeben. b. Welche dieser Stellen sind mit Personen besetzt, die tatsächlich eine geringere oder höhere Besoldungs- und Entgeltstufe haben? Bitte pro Behörde unter Angabe des Dienstpostens/Stelle und der tatsächlichen Besoldungs- beziehungsweise Entgeltstufe des Stelleninhabers angeben. c. Welche dieser Stellen sind befristet? Bitte pro Behörde angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 

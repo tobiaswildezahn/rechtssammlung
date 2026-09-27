@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10089", "21/9011"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59288"
@@ -59,7 +60,7 @@ Ist die Bewerbung einer Veranstaltung und deren Durchführung durch die linksext
 
 Ist die Bewerbung einer Veranstaltung und deren Durchführung durch die linksextremistische „Gruppe für den organisierten Widerspruch“ („grow“) in Räumlichkeiten der Universität Hamburg mit irgendeiner anderen Rechtsvorschrift der Universität Hamburg vereinbar?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die UHH hat keinen Einfluss darauf, wer für Veranstaltungen im Café Knallhart wirbt. Im Übrigen siehe Antwort zu 7.
 

@@ -14,6 +14,7 @@ fragen: 47
 einzelfragen: 60
 antwortbloecke: 46
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9758", "21/4919", "21/10677", "21/11001", "21/6544", "21/13796", "21/12037", "21/12482", "21/11934", "21/12038", "21/131"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63467"
@@ -572,31 +573,31 @@ Verlassen haben die örU im gleichen Zeitraum insgesamt 517 Personen (Zuwanderer
 
 Im Bereich der Erstaufnahme und Erstversorgung für unbegleitete minderjährige Ausländer sind im Juli 2018 46 Personen neu aufgenommen worden. Im selben Monat haben insgesamt 52 unbegleitete minderjährige Ausländer die Erstaufnahme und Erstversorgung wieder verlassen:
 
- 18 unbegleitete minderjährige Ausländer wechselten in eine Folgeeinrichtung im
+– 18 unbegleitete minderjährige Ausländer wechselten in eine Folgeeinrichtung im
 
 Rahmen einer Hilfe zur Erziehung oder verblieben in ihrer Einrichtung mit neuer Hilfeform.
 
- In 23 Fällen erfolgten eine Feststellung der Volljährigkeit und der Umzug in eine
+– In 23 Fällen erfolgten eine Feststellung der Volljährigkeit und der Umzug in eine
 
 Wohnunterkunft.
 
- Drei unbegleitete minderjährige Ausländer haben sich mit unbekanntem Ziel ent-
+– Drei unbegleitete minderjährige Ausländer haben sich mit unbekanntem Ziel ent-
 
 fernt.
 
- Zwei unbegleitete minderjährige Ausländer sind mit Verwandten zusammengeführt
+– Zwei unbegleitete minderjährige Ausländer sind mit Verwandten zusammengeführt
 
 worden.
 
- Zwei unbegleitete minderjährige Ausländer sind in eine andere Kommune verteilt
+– Zwei unbegleitete minderjährige Ausländer sind in eine andere Kommune verteilt
 
 worden.
 
- Drei unbegleitete minderjährige Ausländer sind an den Ort der Jugendamtszustän-
+– Drei unbegleitete minderjährige Ausländer sind an den Ort der Jugendamtszustän-
 
 digkeit zurückgeführt worden.
 
- Ein unbegleiteter minderjähriger Ausländer ist in Haft genommen worden.
+– Ein unbegleiteter minderjähriger Ausländer ist in Haft genommen worden.
 
 ### Frage 16
 
@@ -1002,7 +1003,7 @@ Wie viele Asylsuchende haben im Juli 2018 in der zentralen Test- und Meldestelle
 
 Welche Einstufungen und Überweisung in jeweils welche Kurse (Alphabetisierungskurs, regulärer Integrationskurs und so weiter) ergaben sich aus den Tests im Juli 2018?
 
-#### Antwort zu Fragen 41 bis 42
+#### Antwort zu Fragen 41 und 42
 
 Siehe Antwort zu 39.
 

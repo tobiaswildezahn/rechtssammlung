@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 19
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11981", "21/12884", "21/13007", "21/13291", "21/11895", "21/14091", "20/5317", "21/3490", "21/12604", "21/4866"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64065"
@@ -100,7 +101,7 @@ Wie viele Mittel für bauliche Maßnahmen wurden pro SuS in Harburg aufgewendet?
 
 Wie teilen sich diese Mittel auf die verschiedenen Schulen in Harburg auf? (Bitte in Euro und Prozent vom Gesamtvolumen der für den Bezirk Harburg zu Verfügung stehenden Mittel nach Stadtteilen, Schulen mit Schulformen unter Angabe des KESS-Faktors und der SuS-Zahlen aufgeschlüsselt in Schuljahren, beginnend mit dem Schuljahr 2012/2013, in einer Excel-Tabelle angeben.)
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Im Rahmen des Mieter-Vermieter-Modells erfolgt keine jährliche Mittelzuweisung nach Bezirken, sondern eine Priorisierung nach einer Vielzahl von Kriterien, siehe dazu Drs. 20/5317 und 21/3490. Im Übrigen siehe Anlage 3. Die Angabe erfolgt in dem Umfang beziehungsweise der Vollständigkeit, die in der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit möglich sind. Eine Differenzierung nach SuS-Zahlen wird nicht vorgenommen.
 

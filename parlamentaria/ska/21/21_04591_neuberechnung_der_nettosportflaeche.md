@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3659", "20/5024"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53040"
@@ -77,7 +78,7 @@ Welche Auswirkungen auf das Anlagevermögen der Freien und Hansestadt Hamburg un
 
 Inwiefern ist die Art der Nettosportfläche für die Höhe des Anlagevermögens relevant? Gegebenenfalls wie wird die Art der Sportfläche bei der Berechnung des Anlagevermögens berücksichtigt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Für die Bestimmung der Höhe des Anlagevermögens und die zu bildenden Abschreibungen ist im Unterschied zur Flächengröße und zum Gebäudewert die für Sport nutzbare Fläche (Nettosportfläche) keine relevante Größe.
 
@@ -99,7 +100,7 @@ b) Wenn nein, warum werden die Ergebnisse nicht veröffentlicht?
 
 Seit wann wird der genannte Prozess durchgeführt?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Vorbemerkung und Antwort zu 1. bis 5.
 
@@ -111,6 +112,6 @@ Wer ist für die Durchführung dieser Maßnahme zuständig?
 
 Wer ist an diesem Prozess ergänzend beteiligt?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Zuständig sind die Bezirksämter.

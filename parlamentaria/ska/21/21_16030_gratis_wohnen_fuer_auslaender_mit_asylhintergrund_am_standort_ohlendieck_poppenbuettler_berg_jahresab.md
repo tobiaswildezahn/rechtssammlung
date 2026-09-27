@@ -14,6 +14,7 @@ fragen: 44
 einzelfragen: 59
 antwortbloecke: 23
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4569", "21/15811", "21/12634", "21/13466", "21/9112", "21/11447", "21/13275", "21/14040", "21/14383", "21/608", "21/2501", "21/2108", "21/16027"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65548"
@@ -55,7 +56,7 @@ Wie viele der Wohnungen sind derzeit von Ausländern mit Asyl- beziehungsweise F
 
 Wie viele Ausländer mit Asyl- beziehungsweise Flüchtlingshintergrund und wie viele andere Personen wohnen derzeit in der Anlage?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zum 31. Dezember 2018 sind insgesamt 207 Wohnungen. Im Übrigen siehe Drs. 21/15811 und Vorbemerkung.
 
@@ -129,7 +130,7 @@ Wie viele ausreisepflichtige Ausländer mit Asyl- beziehungsweise Flüchtlingshi
 
 Wie viele dieser Personen aus welchem Herkunftsland werden aus welchem Grund geduldet? Bitte aufschlüsseln wie in Drs. 21/13466.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Mit einer Duldung verbindet sich formal eine Ausreisepflicht, tatsächlich sind in einer Reihe von Duldungsfällen aber Sachverhalte gegeben, die aus rechtlichen oder tatsächlichen Gründen einer Durchsetzung der Ausreise entgegenstehen. Die Duldungsgründe sowie die Staatsangehörigkeit der im ausländerbehördlichen Fachverfahren unter der Anschrift der Einrichtung erfassten Personen im Sinne der Fragestellung sind der folgenden Übersicht zu entnehmen.
 
@@ -211,7 +212,7 @@ Welche beruflichen oder akademischen Qualifikationen weisen die Ausländer mit A
 
 Wie viele der Ausländer mit Asyl- beziehungsweise Flüchtlingshintergrund, die in der Anlage derzeit wohnen, gehen aktuell einer sozialversicherungspflichtigen Beschäftigung nach?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Siehe Drs. 21/12634 und Drs. 21/11447. Darüber hinaus liegt eine Gesamtauswertung vor, siehe Drs. 21/13275.
 

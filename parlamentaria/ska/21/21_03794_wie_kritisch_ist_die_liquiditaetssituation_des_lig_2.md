@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 47731
 seiten: 3
 fragen: 4
-einzelfragen: 6
-antwortbloecke: 4
+einzelfragen: 11
+antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3298", "21/2080", "21/1394", "21/2046"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52212"
@@ -39,10 +40,16 @@ Ich frage den Senat:
 
 Mit rund 308 Millionen Euro war der Finanzmittelbestand des LIG am
 31.12.2015 deutlich höher als noch Anfang November geplant (114 Millionen Euro gemäß Drs. 21/2080).
-1.1. Aus welchen genauen Gründen lag der Finanzmittelbestand um fast 200 Millionen Euro über den vorherigen Planungen?
-1.2. Welche einzelnen Geschäftsvorfälle haben die Liquiditätssituation des LIG zum Jahresende 2015 positiv beeinflusst?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Aus welchen genauen Gründen lag der Finanzmittelbestand um fast 200 Millionen Euro über den vorherigen Planungen?
+
+### Frage 1.2
+
+Welche einzelnen Geschäftsvorfälle haben die Liquiditätssituation des LIG zum Jahresende 2015 positiv beeinflusst?
+
+#### Antwort zu Fragen 1, 1.1 und 1.2
 
 Insbesondere zeitliche Verschiebungen geplanter Immobilienankäufe (zum Beispiel des Objektes Bramfelder Chaussee 130, siehe Drs. 21/3298) und Entwicklungsprojekte (zum Beispiel Jenfelder Au, Pergolenviertel oder Elbinselprojekte der IBA Hamburg GmbH) sowie zusätzliche Immobilienverkäufe (zum Beispiel des Objektes Überseering 33/33a).
 
@@ -57,34 +64,48 @@ Siehe Anlage.
 ### Frage 3
 
 In der Drs. 21/3298 verweigert der Senat weitere Auskünfte zum Ankauf der Fläche Am Anzuchtgarten mit Hinweis auf Betriebs- und Geschäftsgeheimnisse der Vertragspartner.
-3.1. Ist es zutreffend, dass das Grundstück Am Anzuchtgarten von der städtischen Hamburger Friedhöfe AöR (HF) verkauft wurde?
 
-#### Antwort zu Frage 3
+### Frage 3.1
 
-Ja.
+Ist es zutreffend, dass das Grundstück Am Anzuchtgarten von der städtischen Hamburger Friedhöfe AöR (HF) verkauft wurde?
 
-3.2. Wurde das betreffende Grundstück der HF mit der Errichtung der AöR übertragen?
-
-Wenn nein, seit wann war HF Eigentümer der Fläche?
+#### Antwort zu Fragen 3 und 3.1
 
 Ja.
 
-3.3. Was steht im Einzelnen der Veröffentlichung des Kaufpreises für die hier vorliegende Immobilientransaktion zwischen der Freien und Hansestadt Hamburg und der städtischen HF entgegen?
+### Frage 3.2
+
+Wurde das betreffende Grundstück der HF mit der Errichtung der AöR übertragen? Wenn nein, seit wann war HF Eigentümer der Fläche?
+
+#### Antwort zu Frage 3.2
+
+Ja.
+
+### Frage 3.3
+
+Was steht im Einzelnen der Veröffentlichung des Kaufpreises für die hier vorliegende Immobilientransaktion zwischen der Freien und Hansestadt Hamburg und der städtischen HF entgegen?
+
+#### Antwort zu Frage 3.3
 
 Der Grundsatz, dass der Senat unter anderem zur Vermeidung von Immobilienspekulationen und zur Wahrung seiner Verhandlungsposition bei künftigen Immobiliengeschäften Kaufpreise und andere Einzelheiten von Grundstücksgeschäften nicht veröffentlicht.
 
 ### Frage 4
 
 Gemäß Drs. 21/3298 sind keine Kosten beim LIG für die Vorfinanzierung der Billebogen Entwicklungsgesellschaft (BBEG) entstanden. Dies steht im Widerspruch zu den im Zusammenhang mit der Beratung der Drs. 21/1394 vom Senat gemachten Angaben. Demnach sollte eine Weiterbelastung bereits angefallener Kosten an den LIG im 4. Quartal 2015 erfolgen (siehe Protokollerklärung der Behörde für Stadtentwicklung und Wohnen an den Haushaltsausschuss in Drs. 21/2046).
-4.1. Warum genau wurde der LIG in 2015 nicht wie angekündigt mit Kosten für die Vorfinanzierung der BBEG belastet?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+Warum genau wurde der LIG in 2015 nicht wie angekündigt mit Kosten für die Vorfinanzierung der BBEG belastet?
+
+#### Antwort zu Fragen 4 und 4.1
 
 Weil die Gründung der Billebogen Entwicklungsgesellschaft mbH & Co. KG (BBEG) noch 2015 erfolgt ist und die Gesellschaft insofern die Kosten im Stadtentwicklungsraum Billebogen unmittelbar übernehmen konnte.
 
-4.2. Erfolgt oder erfolgte die Weiterbelastung an den LIG zu einem späteren Zeitpunkt?
+### Frage 4.2
 
-Wenn nein, warum nicht?
+Erfolgt oder erfolgte die Weiterbelastung an den LIG zu einem späteren Zeitpunkt? Wenn nein, warum nicht?
+
+#### Antwort zu Frage 4.2
 
 Nein (siehe Antwort zu 4.1.).
 

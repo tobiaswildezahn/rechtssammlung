@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 29
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54168"
@@ -65,7 +66,7 @@ Welchen aufenthaltsrechtlichen Status hat der 18-jährige Syrer inne, den die Po
 
 Wie gestaltete sich sein bisheriger Aufenthalt in Deutschland? Hat er insbesondere ein Asylverfahren durchlaufen? Wenn ja, mit welchem Ergebnis?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ermittelt wird gegen einen 27-jährigen Syrer, der von einer 18-jährigen Deutschen Drogen erworben haben soll und der am 17. August vorläufig festgenommen wurde. Der Betroffene ist am 5. Juli 2015 in das Bundesgebiet eingereist und hat am 22. September 2015 einen Asylantrag gestellt. Ihm wurde mit Bescheid des Bundesamtes für Migration und Flüchtlinge (BAMF) vom 16. Dezember 2015 die Flüchtlingseigenschaft zuerkannt. Nach Eintritt der Bestandskraft am 27. Dezember 2015 wurde ihm durch das Einwohner-Zentralamt ein Reiseausweis für Flüchtlinge ausgestellt und eine Aufenthaltserlaubnis nach § 25 Abs. 2 Aufenthaltsgesetz mit einer jeweiligen Geltungsdauer bis zum 20. Januar 2019 erteilt.
 
@@ -149,7 +150,7 @@ Welche Ermittlungsverfahren sind infolge der Ereignisse am Mittwochabend anhäng
 
 Welche Erkenntnisse liegen mittlerweile hinsichtlich der geschilderten Ereignisse von der Nacht auf Freitag vor? Ist insbesondere ermittelt worden, welche Personen an der Auseinandersetzung beteiligt waren und aus welchem Grund sie entstanden ist?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Vorbemerkung.
 

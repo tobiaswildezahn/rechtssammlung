@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 17
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18196", "21/19576", "21/19009", "21/19580", "21/8891", "21/13929", "21/16673", "20/12555", "21/15402", "21/16167", "21/19578"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69274"
@@ -70,17 +71,17 @@ Siehe Drs. 21/13929.
 
 Die Stabsstelle Gleichstellung und geschlechtliche Vielfalt der zuständigen Behörde hat die Evaluation und die Überprüfung der Zielerreichung der dezentralen Antidiskriminierungsstrategie aus Drs. 20/12555 unter Verwendung folgender Evaluationsinstrumentarien vorgenommen:
 
- Behördenabfrage;
+– Behördenabfrage;
 
- Befragung der für die einzelnen AGG-Kategorien als Lotsinnen und Lotsen zustän-
+– Befragung der für die einzelnen AGG-Kategorien als Lotsinnen und Lotsen zustän-
 
 digen Behördenvertreterinnen und -vertretern und Akteurinnen und Akteuren der Hamburger Zivilgesellschaft, die das Thema Vermeidung von Diskriminierung, Vielfalt, Antidiskriminierungsberatung und so weiter bewegen;
 
- kursorische Befragung von Zielstellungen und Handlungsansätzen von Landes-
+– kursorische Befragung von Zielstellungen und Handlungsansätzen von Landes-
 
 antidiskriminierungsstellen anderer Länder;
 
- die Einbeziehung aktueller Forschungen und Strategieempfehlungen für eine zeit-
+– die Einbeziehung aktueller Forschungen und Strategieempfehlungen für eine zeit-
 
 gemäße Antidiskriminierungspolitik.
 

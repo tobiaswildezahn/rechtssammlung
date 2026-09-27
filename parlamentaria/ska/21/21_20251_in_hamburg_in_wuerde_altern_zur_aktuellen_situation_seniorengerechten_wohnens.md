@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 26
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/3866", "21/19243"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70024"
@@ -61,7 +62,7 @@ Wie viele Senioren, also Einwohnerinnen und Einwohner über 64 Jahre, gab es in 
 Wie hoch war der auf Senioren entfallende Anteil an der Gesamtbevölkerung Hamburgs beziehungsweise der jeweiligen Bezirke zum Stichtag
 31.12.2019? Bitte für Hamburg und die jeweiligen Bezirke gesondert darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bevölkerungsdaten mit Stand 31. Dezember 2019 liegen voraussichtlich ab April 2020 vor.
 
@@ -468,7 +469,7 @@ Wie viele Bestandswohnungen wurden in Hamburg seit dem 1. März 2011 jeweils ins
 
 Wie viele Umbauten zur seniorengerechten, barrierefreien Wohnung wurden bezüglich der unter Ziffer 8. fallenden Bestandswohnungen seit dem 1. März 2011 durch die Hamburgische Wohnungsbaukreditanstalt beziehungsweise die Hamburgische Investitions- und Förderbank AöR in jeweils welchem Umfang insgesamt gefördert? Bitte nach Jahr und städtischen beziehungsweise privaten Wohneinheiten separiert für Hamburg und seine Bezirke gesondert darstellen.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Private Wohneinheiten
 
@@ -1279,7 +1280,7 @@ Für den Fall, dass gemäß Ziffer 3. künftig absolute Zuwächse in Bezug auf S
 a) Wie schätzen der Senat und die zuständige Behörde den Bedarf an seniorengerechten, barrierefreien Wohneinheiten für die Jahre 2030, 2035 und 2040 jeweils insgesamt ein? Bitte detailliert erläutern.
 b) Haben der Senat oder die zuständige Behörde bereits etwaige Maßnahmen geplant und/oder umgesetzt, um der aufgrund der prognostizierten Zuwächse zu erwartenden gesteigerten Nachfrage ein entsprechendes Angebot an seniorengerechten, barrierefreien Wohneinheiten entgegensetzen zu können? Wenn ja, jeweils welche, mit jeweils welchem Umfang und zu jeweils welchem konkreten Zeitpunkt ist mit einer Umsetzung/Fertigstellung jeweils zu rechnen? Wenn nein, aus jeweils welchen konkreten Gründen nicht? Bitte nach Maßnahme und Jahr des jeweiligen Umsetzungsbeginns gesondert darstellen.
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Für die Steigerung des Angebotes an barrierefreiem Wohnraum bestehen verschiedene Förderprogramme. Im Übrigen erfolgt eine enge Zusammenarbeit zwischen den beteiligten Akteuren. Im Übrigen siehe Vorbemerkung.
 
@@ -1291,7 +1292,7 @@ Wie viele städtische seniorengerechte, barrierefreie Wohneinheiten waren in Ham
 
 Wie viele der unter Ziffer 16. fallenden Wohneinheiten waren zum Stichtag 31.12.2019 an weitere auf barrierefreien Wohnraum angewiesene Bevölkerungsgruppen vermietet? Bitte unter Angabe des jeweiligen Grundes für die Erforderlichkeit barrierefreien Wohnraums nach jeweiliger Bevölkerungsgruppe gesondert darstellen.
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Freistellungen von Belegungsbindungen erfolgen nur in begründeten Ausnahmefällen. Im Übrigen erfolgt keine statistische Erfassung.
 

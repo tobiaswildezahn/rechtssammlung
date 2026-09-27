@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3073"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51396"
@@ -96,7 +97,7 @@ Immer wieder wird in dem 32-seitigen Bericht betont, dass die Freie und Hansesta
 
 Außerdem wird nicht erwähnt, dass selbst im Falle des Erhalts einer Aufenthaltsgenehmigung diese stets befristet ist. Inwieweit wurde der Aspekt des befristeten Aufenthalts bei der Planung der Unterkünfte berücksichtigt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Bei den 50.000 bestehenden und neu zu schaffenden Plätzen der öffentlich-rechtlichen Unterbringung geht die Berechnung von dem Personenkreis aus, der in Hamburg nach Ablauf der Residenzpflicht in der zentralen Erstaufnahme in Hamburg verbleiben wird. Personen, die zurückgeführt werden, sind in Form von Rückführungen bei der im Bericht erwähnten Fluktuationsquote berücksichtigt. Ebenfalls berücksichtigt ist der Aspekt des befristeten Aufenthalts.
 

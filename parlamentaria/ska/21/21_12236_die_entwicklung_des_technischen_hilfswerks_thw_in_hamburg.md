@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61509"
@@ -57,21 +58,21 @@ Wie viele Standorte welcher Größe mit welchem jährlichen Budget unterhält da
 
 Das THW verfügt in Hamburg über insgesamt acht Standorte. Dabei handelt es sich um sieben Ortsverbände (OV), die sich auf alle Bezirke verteilen, sowie die Regionalstelle in Alsterdorf. Die einzelnen Standorte sind der nachfolgenden Aufstellung zu entnehmen:
 
- THW OV Hamburg-Altona,
+– THW OV Hamburg-Altona,
 
- THW OV Hamburg-Bergedorf,
+– THW OV Hamburg-Bergedorf,
 
- THW OV Hamburg-Eimsbüttel,
+– THW OV Hamburg-Eimsbüttel,
 
- THW OV Hamburg-Harburg,
+– THW OV Hamburg-Harburg,
 
- THW OV Hamburg-Mitte,
+– THW OV Hamburg-Mitte,
 
- THW OV Hamburg-Nord,
+– THW OV Hamburg-Nord,
 
- THW OV Hamburg-Wandsbek,
+– THW OV Hamburg-Wandsbek,
 
- THW Regionalstelle Hamburg.
+– THW Regionalstelle Hamburg.
 
 Informationen zum Budget und zur exakten Größe der jeweiligen Standorte liegen der zuständigen Behörde nicht vor. Im Übrigen siehe Vorbemerkung.
 
@@ -107,7 +108,7 @@ Zu wie vielen Einsätzen wurde das THW von den für Katastrophenschutz zuständi
 
 In wie vielen weiteren Fällen leistete das THW für welche Behörden Hamburgs seit dem 1. Januar 2008 jährlich Amtshilfe (zum Beispiel der Feuerwehr in Brandfällen oder bei der Beseitigung von Öl oder anderen umweltschädlichen Substanzen)?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Statistische Daten im Sinne der Fragestellung werden weder von den Einsatzzentralen der Polizei und Feuerwehr noch von den Katastrophenschutzbehörden oder anderen beteiligten Behörden erhoben. Die manuelle Durchsicht mehrerer Hunderttausend Vorgänge ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Eine nichtabschließende Aufstellung von Anlässen kann der Anlage 1 entnommen werden. Eine Differenzierung, ob es sich rechtlich um eine Amtshilfe handelte oder dem Einsatzanlass zum Beispiel eine vertragliche Regelung zugrunde lag, ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

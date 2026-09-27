@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59961"
@@ -43,7 +44,7 @@ Ist beabsichtigt, das Landesaufnahmeprogramm in Hamburg zu verlängern? Wenn ja,
 
 Hat es Veränderungen des begünstigten Personenkreises gegeben und sind weitere geplant? Wenn ja, welche?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ja, die zuständige Fachbehörde hat am 21. November 2017 die entsprechende Anordnung erlassen, nachdem das Bundesinnenministerium des Innern sein erforderliches Einvernehmen für eine Verlängerung der Antragsfrist um ein weiteres Jahr bis zum 30. November 2018 erteilt hatte. Das Einvernehmen wurde ebenfalls dafür erteilt, in begründeten Einzelfällen auch Staatenlose, deren Identität feststeht und die nachweislich seit mindestens drei Jahren in Syrien leben oder gelebt haben in den begünstigten Personenkreis einzubeziehen und zugleich auch den Verwandten hier lebender Staatenloser, deren Identität feststeht und die zuvor nachweislich mindestens drei Jahre in Syrien gelebt hatten, die Einreise erlauben zu dürfen.
 

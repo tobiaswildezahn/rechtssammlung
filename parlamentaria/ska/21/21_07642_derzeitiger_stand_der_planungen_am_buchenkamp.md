@@ -14,6 +14,7 @@ fragen: 25
 einzelfragen: 41
 antwortbloecke: 22
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5001"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56247"
@@ -51,7 +52,7 @@ Sind externe Planungsbüros am Bebauungsplan-Verfahren beteiligt? Wenn ja, wann 
 
 Welche Gutachten sind im Rahmen des Bebauungsplan-Verfahrens im Einzelnen erforderlich oder vorgesehen? Welche Gutachten liegen bereits vor beziehungsweise wurden schon beauftragt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Bisher wurden zur Ermittlung maßgebender Belange und weiteren Ausarbeitung der Planung folgende Planungs- und Gutachterbüros beauftragt:
 
@@ -82,19 +83,19 @@ Darüber hinaus ist beabsichtigt, durch den Planungsbegünstigten für die Fläc
 
 Zudem sind nach derzeitigem Stand folgende weitere Gutachten vorgesehen und zu beauftragen:
 
-• Geländevermessung;
+– Geländevermessung;
 
-• Baugrund- und hydrologisches Gutachten mit Angaben zu Grund- und Stauwasserverhältnissen;
+– Baugrund- und hydrologisches Gutachten mit Angaben zu Grund- und Stauwasserverhältnissen;
 
-• Aufmaß und Bewertung von Knicks und Bäumen im Plangebiet;
+– Aufmaß und Bewertung von Knicks und Bäumen im Plangebiet;
 
-• Landschaftsplanerisches Gutachten mit Abarbeitung der naturschutzrechtlichen Eingriffsregelung sowie Entwicklung eines Konzeptes zum Biotopverbund beziehungsweise für die ökologische Aufwertung der freizuhaltenden Flächen zur Umsetzung des Beschlusses der Bezirksversammlung vom 12.05.2016, siehe Drs. 20-2771.1 der Bezirksversammlung Wandsbek;
+– Landschaftsplanerisches Gutachten mit Abarbeitung der naturschutzrechtlichen Eingriffsregelung sowie Entwicklung eines Konzeptes zum Biotopverbund beziehungsweise für die ökologische Aufwertung der freizuhaltenden Flächen zur Umsetzung des Beschlusses der Bezirksversammlung vom 12.05.2016, siehe Drs. 20-2771.1 der Bezirksversammlung Wandsbek;
 
-• Lärmtechnische Untersuchung;
+– Lärmtechnische Untersuchung;
 
-• Verkehrstechnische Stellungnahme und Erschließungsplanung;
+– Verkehrstechnische Stellungnahme und Erschließungsplanung;
 
-• Oberflächenentwässerungskonzept.
+– Oberflächenentwässerungskonzept.
 
 ### Frage 4
 
@@ -104,7 +105,7 @@ Wie sind der Verhandlungsstand und der Zeitplan für den Abschluss städtebaulic
 
 Welche Regelungen sollen in den städtebaulichen Verträgen im Einzelnen enthalten sein?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Über die im bisherigen Verfahren erfolgten Zielformulierungen hinaus wurden seitens der Verwaltung bisher keine detaillierten Verhandlungen über einzelne Vertragsinhalte aufgenommen. Es wird angestrebt, entsprechende Verträge vor der öffentlichen Auslegung des Bebauungsplanentwurfes abzuschließen.
 
@@ -168,7 +169,7 @@ Welche Auswirkungen werden aus der Umsetzung des Bebauungsplans Volksdorf 46 auf
 
 Welche Auswirkungen werden aus der Umsetzung des Bebauungsplans Volksdorf 46 auf das Naturdenkmal Kiebitzmoor erwartet? Welche besonderen Schutzmaßnahmen sind vorgesehen?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Nach derzeitigem Stand jeweils keine.
 

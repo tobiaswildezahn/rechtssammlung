@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 20
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14390"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63946"
@@ -50,19 +51,19 @@ Wo bildet sich im Haushaltsplan-Entwurf 2019/2020 ab, dass der Arbeitsschutz ges
 
 Die haushalterische Stärkung des Arbeitsschutzes im Vergleich zu den Jahren 2017 und 2018 bildet sich an folgenden Stellen im Haushaltsplan-Entwurf 2019/2020 ab:
 
- Ziff. 4.3.2.1.1 Vorwort der Produktgruppe 258.01 Verbraucherschutz
+– Ziff. 4.3.2.1.1 Vorwort der Produktgruppe 258.01 Verbraucherschutz
 
- Ziff 4.3.2.1.4 Kennzahlen der Produktgruppe 258.01 Verbraucherschutz; hier:
+– Ziff 4.3.2.1.4 Kennzahlen der Produktgruppe 258.01 Verbraucherschutz; hier:
 
 Kennzahl B_258_01_214 14. Bearbeitete Anfragen/Anzeigen/Anträge auf dem Gebiet des Arbeits- und Gesundheitsschutzes
 
- Ziff. 4.3.2.1.5 Kosten und Erlöse der Produktgruppe 258.01 Verbraucherschutz;
+– Ziff. 4.3.2.1.5 Kosten und Erlöse der Produktgruppe 258.01 Verbraucherschutz;
 
 hier: Produkt Arbeitsschutz
 
- Ziff. 4.3.2.1.6 Vollzeitäquivalente der Produktgruppe 258.01 Verbraucherschutz
+– Ziff. 4.3.2.1.6 Vollzeitäquivalente der Produktgruppe 258.01 Verbraucherschutz
 
- Ziff. 4.3.3 Investitionen des Aufgabenbereichs 258 Verbraucherschutz
+– Ziff. 4.3.3 Investitionen des Aufgabenbereichs 258 Verbraucherschutz
 
 Zur Entwicklung der Kostenermächtigungen für den Arbeitsschutz siehe Antwort zu 2.
 
@@ -88,31 +89,31 @@ Welche verbindlichen Instrumente zur Messung psychischer Belastungen am Arbeitsp
 
 Es gibt in Deutschland keine verbindlichen Instrumente zur Messung psychischer Belastungen. Das Arbeitsschutzgesetz gibt das Ziel vor und legt in untergesetzlichen Regelwerken Gestaltungsgrundsätze fest. Unternehmen und Betriebe nutzen zur Gefährdungsbeurteilung psychischer Belastungen im Wesentlichen Informationsschriften des Bundes, der Länder und der Unfallversicherungsträger mit Gestaltungshinweisen und Instrumenten.
 
- Gemeinsame Deutsche Arbeitsschutzstrategie (GDA):
+– Gemeinsame Deutsche Arbeitsschutzstrategie (GDA):
 
 Gefährdungsbeurteilung psychischer Belastungen
 
 https://www.gda-psyche.de/DE/Handlungshilfen/Gefaehrdungsbeurteilung/ inhalt.html
 
- GDA Psyche Bericht:
+– GDA Psyche Bericht:
 
 Instrumente und Verfahren zur Gefährdung psychischer Belastung
 
 https://www.gda-psyche.de/SharedDocs/Publikationen/DE/instrumente-undverfahren-zur-gefaehrdungsbeurteilung-psychischerbelastung.pdf?__blob=publicationFile&v=2
 
- Deutsche Gesetzliche Unfallversicherung (DGUV):
+– Deutsche Gesetzliche Unfallversicherung (DGUV):
 
 Gefährdungsbeurteilung Psychischer Belastung – ein Einstieg (IGA Report 2013)
 
 https://publikationen.dguv.de/dguv/pdf/10002/iag-report-2013-01.pdf
 
- Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA):
+– Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA):
 
 Gefährdungsbeurteilung psychischer Belastung
 
 https://www.baua.de/DE/Themen/Arbeitsgestaltung-im-Betrieb/Psychische- Belastung/Gefaehrdungsbeurteilung/Gefaehrdungsbeurteilung_node.html
 
- Länderausschuss für Arbeitsschutz und Sicherheitstechnik (LASI):
+– Länderausschuss für Arbeitsschutz und Sicherheitstechnik (LASI):
 
 Integration psychischer Belastungen in die Aufsichts- und Beratungspraxis der Arbeitsschutzbehörden der Länder
 

@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65821"
@@ -76,15 +77,15 @@ Befasst oder befasste sich die BUE mit der Ausgestaltung alternativer Maßnahmen
 
 Folgende Alternativen wurden geprüft und der Aufsicht führenden Behörde dargelegt:
 
- Zentrale Schranken- beziehungsweise Polleranlagen mit Funksteuerung für
+– Zentrale Schranken- beziehungsweise Polleranlagen mit Funksteuerung für
 
 Gewerbetreibende beziehungsweise den HVV
 
- „Digitale Abschnittskontrolle“ in Kombination mit reduzierter Geschwindigkeit/Ver-
+– „Digitale Abschnittskontrolle“ in Kombination mit reduzierter Geschwindigkeit/Ver-
 
 kehrsberuhigung
 
- Minderung von Verkehr durch längere Schließzeiten
+– Minderung von Verkehr durch längere Schließzeiten
 
 c. Welche Beweggründe haben die BUE veranlasst, die generelle Maut gegenüber alternativen Maßnahmen zu bevorzugen?
 
@@ -100,15 +101,15 @@ Diese Entgeltordnung richtet sich gegen Durchfahrerinnen und Durchfahrer sowie D
 
 Nachteile der Alternativen sind:
 
- Zentrale Schranken- beziehungsweise Polleranlagen mit Funksteuerung für
+– Zentrale Schranken- beziehungsweise Polleranlagen mit Funksteuerung für
 
 Gewerbetreibende beziehungsweise den HVV hätten beispielsweise für ortsfremde Besucher von Trauerfeiern und Bestattungen zu Verspätungen und zu großen Ärgernissen führen können.
 
- Gegen eine „Digitale Abschnittskontrolle“ in Kombination mit reduzierter Geschwin-
+– Gegen eine „Digitale Abschnittskontrolle“ in Kombination mit reduzierter Geschwin-
 
 digkeit/Verkehrsberuhigung sprachen starke Bedenken des Hamburgischen Beauftragten für Datenschutz und Informationsfreiheit.
 
- Die Minderung von Verkehr durch längere Schließzeiten wurde durchgeführt, ver-
+– Die Minderung von Verkehr durch längere Schließzeiten wurde durchgeführt, ver-
 
 minderte den hohen Durchgangsverkehr jedoch nur um 16 Prozent.
 

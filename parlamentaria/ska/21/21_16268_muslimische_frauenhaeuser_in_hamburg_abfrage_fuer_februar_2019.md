@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 14
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10994", "21/4174", "21/10281", "21/9053", "21/4035", "21/13288", "21/11794", "21/14950", "21/11156"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65783"
@@ -92,7 +93,7 @@ Welche Schritte hat der Senat seit dem 1. Januar 2018 unternommen, um die islami
 
 Wie haben die Vertreter der islamischen Religionsgemeinschaften darauf reagiert und welche Initiativen haben sie daraufhin ergriffen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Drs. 21/14950.
 
@@ -112,6 +113,6 @@ Was will der Senat tun, um Frauen aus islamischen Kulturkontexten dazu zu ermuti
 
 Welche Intentionen hat der Senat bei der Formulierung von Artikel 2 (2) Staatsvertrag in Hinblick auf Gewalt gegen Frauen in muslimischer Milieus verfolgt und inwieweit sieht er diese bislang durch die Initiativer islamischer Verbände verwirklicht?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Drs. 21/14950 und Vorbemerkung.

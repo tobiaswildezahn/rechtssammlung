@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65280"
@@ -136,7 +137,7 @@ Nach welchen Kriterien werden Bewerber/-innen bevorzugt im Zulassungsverfahren b
 
 Welche sogenannten Mangelfächer werden im aktuellen Zulassungsverfahren bevorzugt berücksichtigt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Schulform  
 Mangelfach zum 1. Februar 2019  

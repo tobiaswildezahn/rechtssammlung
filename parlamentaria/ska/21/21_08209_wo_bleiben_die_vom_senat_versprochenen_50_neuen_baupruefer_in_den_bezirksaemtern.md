@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7149"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56907"
@@ -113,17 +114,17 @@ Ergebnisse der Einstellungsoffensive Hamburg wächst!
 
 Fachrichtung
 
-  
+–  
 HH-Mitte  
 1,4  
 (von 2)
 
-  
+–  
 Altona  
 (von 2)  
 0,5
 
-  
+–  
 Eimsbüttel  
 0,5  
 0,5  
@@ -132,14 +133,14 @@ Eimsbüttel
 (von 4)  
 0,5
 
-  
+–  
 HH-Nord  
 3,25  
 (von 3)  
 3,75  
 (von 4)
 
- Wandsbek (von 3)
+– Wandsbek (von 3)
 
 1,77  
 (von 2)  
@@ -147,12 +148,12 @@ HH-Nord
 0,77  
 (von 1)
 
-  
+–  
 Bergedorf  
 (von 2,75)  
 0,5
 
-  
+–  
 Harburg  
 1,75  
 (von 2)

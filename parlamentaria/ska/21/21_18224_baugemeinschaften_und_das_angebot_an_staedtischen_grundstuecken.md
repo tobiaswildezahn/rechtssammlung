@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15595", "20/14365", "21/17421"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67853"
@@ -33,7 +34,7 @@ Im „Koalitionsvertrag über die Zusammenarbeit in der 21. Legislaturperiode de
 
 ## Einleitung für die Antworten des Senats
 
- Der Senat wird weiterhin Baugemeinschaften mit städtischen Grundstücken unterstützen. Auch bei der Entwicklung privater Grundstücke wird sich die Stadt unter Nutzung des Planrechts und vertraglicher Vereinbarungen für Baugemeinschaften einsetzen. Die Hälfte der Baugemeinschaftsgrundstücke soll möglichst an kleinere Genossenschaften vergeben werden.
+– Der Senat wird weiterhin Baugemeinschaften mit städtischen Grundstücken unterstützen. Auch bei der Entwicklung privater Grundstücke wird sich die Stadt unter Nutzung des Planrechts und vertraglicher Vereinbarungen für Baugemeinschaften einsetzen. Die Hälfte der Baugemeinschaftsgrundstücke soll möglichst an kleinere Genossenschaften vergeben werden.
 
 Vor diesem Hintergrund frage ich den Senat:
 
@@ -124,7 +125,7 @@ Wie viele der unter 1. a. bis 1. c. genannten städtischen Grundstücke entfalle
 
 Wie viele Wohnungen wurden beziehungsweise werden auf den unter Nummern 1. a. – c. genannten Grundstücken errichtet? Bitte Aufstellung nach Bezirken sowie differenziert nach verkauften beziehungsweise im Erbbaurecht vergebenen beziehungsweise anhand gegebenen Grundstücken.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage.
 

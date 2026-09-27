@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18793", "21/11876", "21/19149", "21/19356"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69281"
@@ -77,7 +78,7 @@ Welche Einnahmen wurden durch die Standgebühren (und auf sonstige Weise) in den
 
 Welche Kosten standen diesen Einnahmen in den Jahren 2017, 2018 und 2019 jeweils insgesamt gegenüber? Bitte nach Jahr, jeweiligem Bezirk und jeweiligem Wochenmarkt gesondert darstellen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/19149. Die Jahresabschlüsse für das Jahr 2019 liegen noch nicht vor.
 
@@ -89,7 +90,7 @@ Hinsichtlich welcher der unter Frage 1. fallenden bezirklichen Wochenmärkte sin
 
 Wie ist der aktuelle Stand bezüglich etwaiger Schließungen beziehungsweise Angebotsreduzierungen der bezirklichen Wochenmärkte und was sehen die diesbezüglichen Überlegungen derzeit jeweils konkret vor?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/19356. Darüber hinaus sind keine Schließungen oder Angebotsreduzierungen geplant.
 

@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 24
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17789", "21/13426"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67498"
@@ -53,7 +54,7 @@ Wie hoch ist derzeit der gesamte Personalbestand in der Steuerverwaltung in Voll
 
 Wie hoch ist derzeit jeweils der Personalbestand der Steuerverwaltung in der Betriebsprüfung, der Umsatzsteuersonderprüfung, der Lohnsteueraußenprüfung und der Steuerfahndung in Vollkräften?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Personalbestand in Vollkräften Stand 30.06.2019
 
@@ -181,7 +182,7 @@ Welche Personalabgänge werden in den Jahren 2019 bis 2022 jeweils insgesamt in 
 
 Welche Personalzugänge durch Übernahme von Nachwuchskräften beziehungsweise Auszubildenden werden in den Jahren 2019 bis 2022 jeweils insgesamt in der Steuerverwaltung prognostiziert?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 in Vollkräften prognostizierte* Abgänge in
 

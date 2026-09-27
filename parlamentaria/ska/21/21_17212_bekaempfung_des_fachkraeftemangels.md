@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 19
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13304", "20/4195", "21/15570", "20/8154"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66783"
@@ -75,7 +76,7 @@ Wie bewertet der Senat die Ergebnisse der oben genannten Umfrage?
 
 Welche Konsequenzen zieht der Senat aus den Ergebnissen der oben genannten Umfrage?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat arbeitet im Fachkräftenetzwerk vertrauensvoll mit den Partnern der beruflichen Bildung an einer kontinuierlichen Verbesserung der Fachkräftesituation in Hamburg. Bisher hat noch keine Befassung mit den Ergebnissen der im Vortext dieser Schriftlichen Kleinen Anfrage benannten Umfrage in den Gremien des Fachkräftenetzwerkes stattgefunden.
 
@@ -165,7 +166,7 @@ Welche Maßnahmen hat der Senat ergriffen, um dem Fachkräftemangel in Hamburg v
 
 Welche Maßnahmen plant der Senat, um dem Fachkräftemangel in Hamburg vorzubeugen?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Hamburg ist für junge Menschen attraktiv, etwa 40 Prozent der Hamburger Ausbildungsplätze werden mit Jugendlichen aus anderen Bundesländern besetzt. Um ihnen das Ankommen zu erleichtern, hat der Senat spezielle Wohnangebote bereitgestellt, die aktuell ausgebaut werden sollen.
 

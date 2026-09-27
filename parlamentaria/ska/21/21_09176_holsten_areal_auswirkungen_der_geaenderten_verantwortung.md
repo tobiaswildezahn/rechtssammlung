@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57933"
@@ -77,6 +78,6 @@ Inwiefern hat sich die Freie und Hansestadt Hamburg im Falle einer Weiterveräu�
 
 Welche – durch die veränderten Rahmenbedingungen – entstehenden Risiken sieht der Senat? Wie wird beispielsweise sichergestellt, dass Planwertgewinne nun nicht (vollumfänglich) durch den privaten Investors abgeschöpft werden können?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.

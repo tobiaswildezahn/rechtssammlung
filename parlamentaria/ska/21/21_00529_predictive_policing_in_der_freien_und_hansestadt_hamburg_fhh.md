@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13508"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48679"
@@ -81,7 +82,7 @@ Womit erklärt sich der offenkundige kurzfristige Sinneswandel gegenüber dem in
 
 Mit welchen Kosten rechnet die zuständige Behörde für einen entsprechenden Probebetrieb der Software für welchen Zeitraum? Mit welchen Kosten wird – gegebenenfalls auf Basis der Erfahrungen anderer Betreiber – bei einer Vollbeschaffung gerechnet? (Bitte – soweit möglich – jeweils nach Anschaffungs- und jährlichen Betriebskosten differenzieren.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 

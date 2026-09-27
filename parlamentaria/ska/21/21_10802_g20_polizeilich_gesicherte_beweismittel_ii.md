@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10490", "21/10331"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59710"
@@ -67,7 +68,7 @@ Bitte die Liste der 1.659 Asservate, wenn möglich, mit Angabe des Datums und Or
 
 Wann genau (wenn nötig, nur „mittags“, „nachmittags“ und so weiter angeben) wurden wie viele sichergestellten Molotow-Cocktails an welchen Orten (wenn nötig, nur Straßennamen oder Stadtteile angeben) beschlagnahmt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung; bei den in Drs. 21/10490 angegebenen Asservaten handelt es sich noch nicht um den vollständigen Asservatenbestand. Die Sichtung aller vorliegenden Asservate ist noch nicht abgeschlossen. Im Übrigen siehe Drs. 21/10490.
 

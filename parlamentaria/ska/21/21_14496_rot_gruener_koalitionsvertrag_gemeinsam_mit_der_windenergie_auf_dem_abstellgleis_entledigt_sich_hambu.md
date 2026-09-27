@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14048", "27/18"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63925"
@@ -49,7 +50,7 @@ Was hat zur Absetzung des Antrags BR.-Drs. 27/18 von der Tagesordnung des Bundes
 
 War des Land Hamburg an der Initiative zur Absetzung von der Tagesordnung beteiligt? Wenn ja: Was waren die Gründe für den Senat, den Antrag von der Tagesordnung nehmen zu lassen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Vor der Plenarsitzung am 2. März 2018 war erkennbar, dass die Entschließung keine Mehrheit finden würde. Um eine Ablehnung des Antrages zu vermeiden, wurde der Tagesordnungspunkt auf Initiative des federführenden Landes Schleswig-Holstein abgesetzt.
 

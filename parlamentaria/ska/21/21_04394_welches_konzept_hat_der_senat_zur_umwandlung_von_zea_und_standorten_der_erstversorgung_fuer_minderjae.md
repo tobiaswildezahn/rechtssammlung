@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4272", "21/3894", "21/3913", "21/3915", "21/3949", "21/4130", "21/4181", "21/3431"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52815"
@@ -43,7 +44,7 @@ Welche der ZEA-Standorte, die bereits in Betrieb sind oder demnächst genommen w
 
 Welche ZEA, die bereits in Betrieb ist oder demnächst genommen wird, kann nach überschaubaren baulichen Veränderungen als Folgeunterkunft infrage kommen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Insbesondere Fragen der vorhandenen Möglichkeit, eine Eigenversorgung zu realisieren, sowie der Umfang der notwendigen Bauarbeiten für eine Umwandlung sind Gegenstand der aktuellen Prüfung. Auch müssen baurechtliche Fragen berücksichtigt werden, zum Beispiel die Möglichkeit einer längerfristigen Genehmigung vor dem Hintergrund der bauplanungsrechtlichen Ausweisung und den Sonderregelungen des § 246 BauGB oder die Belastung der Einrichtung mit Immissionen, die eine Nutzung zu längerem wohnähnlichen Aufenthalt – im Gegensatz zum vorübergehenden Aufenthalt in einer Zentralen Erstaufnahme – einschränken können.
 
@@ -63,19 +64,19 @@ Welche Standorte sind auf Basis §246 BauGB errichtet oder sollen errichtet werd
 
 Bei folgenden Standorten findet der § 246 BauGB Anwendung (siehe auch Drs. 21/4272):
 
-• Björnsonweg: § 246 Absatz 9 BauGB
+– Björnsonweg: § 246 Absatz 9 BauGB
 
-• Große Bahnstraße 50: § 246 Absatz 10 BauGB
+– Große Bahnstraße 50: § 246 Absatz 10 BauGB
 
-• Haagendeel 60: § 246 Absatz 10 BauGB
+– Haagendeel 60: § 246 Absatz 10 BauGB
 
-• Am Anzuchtgarten: § 246 Absatz 14 BauGB
+– Am Anzuchtgarten: § 246 Absatz 14 BauGB
 
-• Fiersbarg: § 246 Absatz 12 BauGB
+– Fiersbarg: § 246 Absatz 12 BauGB
 
-• Mittlerer Landweg/Gleisdreieck: § 246 Absatz 14 BauGB
+– Mittlerer Landweg/Gleisdreieck: § 246 Absatz 14 BauGB
 
-• Auf dem Sülzbrack: § 246 Absatz 9 BauGB
+– Auf dem Sülzbrack: § 246 Absatz 9 BauGB
 
 ### Frage 5
 

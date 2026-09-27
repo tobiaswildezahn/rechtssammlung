@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 26
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4174", "21/5988", "21/5584"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54691"
@@ -79,7 +80,7 @@ Wie lautet der genaue Wortlaut der Verpflichtung an die Träger, ein einrichtung
 
 In welcher Form werden die Träger verpflichtet die spezifischen Schutzbedürfnisse von LSBTI*-Personen im Unterschied zu den Schutzbedürfnissen von Frauen und Kindern zu berücksichtigen? (Bitte Wortlaut und Form der Weisung angeben.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 
@@ -99,17 +100,17 @@ Gibt es Träger, die bisher noch kein einrichtungsspezifisches LSBTI*- Schutzkon
 
 Folgende sechs Träger haben für alle von ihnen betriebenen Einrichtungen (Erstaufnahmen und Folgeunterkünfte) einrichtungsspezifische Schutzkonzepte vorgelegt:
 
- f & w
+– f & w
 
- Deutsches Rotes Kreuz Landesverband Hamburg e.V.
+– Deutsches Rotes Kreuz Landesverband Hamburg e.V.
 
- ASB Flüchtlingshilfe Hamburg GmbH
+– ASB Flüchtlingshilfe Hamburg GmbH
 
- Johanniter-Unfall-Hilfe e.V.
+– Johanniter-Unfall-Hilfe e.V.
 
- Deutsches Rotes Kreuz Kreisverband Hamburg-Harburg e.V.
+– Deutsches Rotes Kreuz Kreisverband Hamburg-Harburg e.V.
 
- AWO Hamburg – Gesellschaft für Bildung, Integration und Beratung gGmbH
+– AWO Hamburg – Gesellschaft für Bildung, Integration und Beratung gGmbH
 
 Die Standorte der Erstaufnahmen und Folgeunterkünfte sind hier aufgeführt:
 

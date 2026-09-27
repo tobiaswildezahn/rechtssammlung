@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48694"
@@ -93,7 +94,7 @@ Von wie vielen Fahrzeugen wurde die Kreuzung Brombeerweg/Ratsmühlendamm/Maienwe
 
 Von wie vielen Fahrzeugen wird die Kreuzung Brombeerweg/Ratsmühlendamm/Maienweg im laufenden Jahr seit den Baumaßnahmen täglich im Durchschnitt befahren? Bitte nach Fahrzeugarten aufschlüsseln.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Im Jahr 2015 hat an der Kreuzung Brombeerweg/Ratsmühlendamm/Maienweg keine Verkehrszählung stattgefunden.
 
@@ -105,15 +106,15 @@ Von wie vielen Fahrzeugen wurde die Kreuzung Brombeerweg/Ratsmühlendamm/Maienwe
 
 Für die Kreuzung Brombeerweg/Ratsmühlendamm/Maienweg liegt eine Knotenzählung vom Donnerstag, den 26. April 2012, mit folgenden Tagesverkehren vor:
 
- Erdkampsweg nordwestlich Ratsmühlendamm: circa 7.800 Kfz/24Std. mit circa 4 Prozent Schwerverkehrsanteil.
+– Erdkampsweg nordwestlich Ratsmühlendamm: circa 7.800 Kfz/24Std. mit circa 4 Prozent Schwerverkehrsanteil.
 
- Brombeerweg nördlich Ratsmühlendamm: circa 39.000 Kfz/24Std. mit circa 3 Prozent Schwerverkehrsanteil.
+– Brombeerweg nördlich Ratsmühlendamm: circa 39.000 Kfz/24Std. mit circa 3 Prozent Schwerverkehrsanteil.
 
- Ratsmühlendamm östlich Brombeerweg: circa 45.000 Kfz/24Std. mit circa 3 Prozent Schwerverkehrsanteil.
+– Ratsmühlendamm östlich Brombeerweg: circa 45.000 Kfz/24Std. mit circa 3 Prozent Schwerverkehrsanteil.
 
- Maienweg südlich Ratsmühlendamm: circa 20.600 Kfz/24Std. mit circa 2 Prozent Schwerverkehrsanteil.
+– Maienweg südlich Ratsmühlendamm: circa 20.600 Kfz/24Std. mit circa 2 Prozent Schwerverkehrsanteil.
 
- Ratsmühlendamm westlich Brombeerweg: circa 17.100 Kfz/24Std. mit circa 3 Prozent Schwerverkehrsanteil.
+– Ratsmühlendamm westlich Brombeerweg: circa 17.100 Kfz/24Std. mit circa 3 Prozent Schwerverkehrsanteil.
 
 Am Querschnitt Brombeerweg nördlich Ratsmühlendamm wird in jedem Jahr eine Verkehrszählung durchgeführt. Die Zählwerte werden auf Tagesverkehre hochgerechnet, die die Basis für die anschließende Ermittlung der jahresdurchschnittlichen werktäglichen Verkehrsstärken (DTVw) bilden.
 

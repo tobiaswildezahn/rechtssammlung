@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 23
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60111"
@@ -41,13 +42,13 @@ Fördermöglichkeiten ergeben sich unter anderem aus dem Europäischen Sozialfon
 
 Unter dieser Prioritätsachse sind Vorhaben in folgenden Themenfeldern vorgesehen:
 
- Stärkung der frühkindlichen Bildung und der allgemeinen Bildung bei benachteilig-
+– Stärkung der frühkindlichen Bildung und der allgemeinen Bildung bei benachteilig-
 
 ten Bevölkerungsgruppen sowie der Übergänge von der Schule in den Beruf;
 
- Verbesserung der berufspraktischen Kompetenzen von Studierenden;
+– Verbesserung der berufspraktischen Kompetenzen von Studierenden;
 
- Förderung der beruflichen Weiterbildung und des Lebenslangen Lernens.
+– Förderung der beruflichen Weiterbildung und des Lebenslangen Lernens.
 
 Siehe hierzu auch ESF-OP, Seite 81 fortfolgende, unter http://www.esf-hamburg.de/ contentblob/4647776/196f9ed5d074b87800e25c17e8ce42fc/data/operationellesprogramm-fuer-hamburg-2014-2020.pdf.
 
@@ -67,65 +68,65 @@ Welche Programme des Bundes zur Förderung von Bildungseinrichtungen und oder -p
 
 Der für Bildung zuständigen Behörde sind unter anderem folgende Programme bekannt:
 
- Kommunale Koordinierung der Bildungsangebote für Neuzugewanderte
+– Kommunale Koordinierung der Bildungsangebote für Neuzugewanderte
 
- Berufsorientierungsprogramm des Bundesministeriums für Bildung und Forschung
+– Berufsorientierungsprogramm des Bundesministeriums für Bildung und Forschung
 
 (BMBF), Initiative Bildungsketten: „Prozessorientierte Hamburger Potenzialanalyse“ (pHP)
 
- Berufsorientierungsprogramm des Bundesministeriums für Bildung und Forschung
+– Berufsorientierungsprogramm des Bundesministeriums für Bildung und Forschung
 
 (BMBF), Initiative Bildungsketten: „Hamburger Werkstatttage (HWST) 8 und 10“
 
- Fördermaßnahme BMBF-Studienabbrecher-Leuchtturmprojekt im Förderbereich
+– Fördermaßnahme BMBF-Studienabbrecher-Leuchtturmprojekt im Förderbereich
 
 Studienabbruch (SHIFT)
 
- Länderinitiative des Bundesministeriums für wirtschaftliche Zusammenarbeit und
+– Länderinitiative des Bundesministeriums für wirtschaftliche Zusammenarbeit und
 
 Entwicklung (Globale Partnerschaften)
 
- INTEGRA – Integration von Flüchtlingen ins Fachstudium am Studienkolleg an der
+– INTEGRA – Integration von Flüchtlingen ins Fachstudium am Studienkolleg an der
 
 Universität Hamburg
 
- Bundesministerium für Arbeit und Soziales (BMAS), Initiative Inklusion: Handlungs-
+– Bundesministerium für Arbeit und Soziales (BMAS), Initiative Inklusion: Handlungs-
 
 feld 1 – Modellhafte Berufsorientierung für Menschen mit Behinderungen
 
- Schulprogramm des Bundesministeriums für wirtschaftliche Zusammenarbeit und
+– Schulprogramm des Bundesministeriums für wirtschaftliche Zusammenarbeit und
 
 Entwicklung (BMZ) – Landeskoordination für die Umsetzung des Orientierungsrahmens für den Lernbereich Globale Entwicklung
 
- NOBI IQ – Projekt zur Förderung von Lehrkräften mit ausländischer Berufsqualifi-
+– NOBI IQ – Projekt zur Förderung von Lehrkräften mit ausländischer Berufsqualifi-
 
 kation (Integration durch Qualifizierung)
 
 Der für Wissenschaft und Forschung zuständigen Behörde und den Hochschulen sind unter anderem nachfolgende Programme bekannt:
 
- Hochschulpaktmittel
+– Hochschulpaktmittel
 
- Pakt für Forschung und Innovation
+– Pakt für Forschung und Innovation
 
- Qualitätspakt Lehre
+– Qualitätspakt Lehre
 
- Professorinnenprogramm
+– Professorinnenprogramm
 
- Exzellenzinitiative des Bundes und der Länder zur Förderung von Wissenschaft
+– Exzellenzinitiative des Bundes und der Länder zur Förderung von Wissenschaft
 
 und Forschung an deutschen Hochschulen (I und II)
 
- Bund-Länder-Initiative zur Förderung von Spitzenforschung an Universitäten –
+– Bund-Länder-Initiative zur Förderung von Spitzenforschung an Universitäten –
 
 „Exzellenzstrategie“
 
- Bund-Länder-Initiative „Innovative Hochschule“
+– Bund-Länder-Initiative „Innovative Hochschule“
 
- Bundesförderprogramm WIPANO – Wissens- und Technologietransfer durch
+– Bundesförderprogramm WIPANO – Wissens- und Technologietransfer durch
 
 Patente und Normen
 
- Kommunales Investitionsfördergesetz
+– Kommunales Investitionsfördergesetz
 
 Darüber hinaus gibt es im Rahmen der Hightech-Strategie des Bundes vielfältige Fachförderprogramme des BMBF, des BMWi und anderer Bundesministerien. Exemplarisch können hier genannt werden:
 
@@ -272,29 +273,29 @@ Siehe Vorbemerkung.
 
 Der für Wissenschaft und Forschung zuständigen Behörde und den Hochschulen sind nachfolgende Programme bekannt:
 
- EU-Rahmenprogramm für Forschung und Innovation „Horizont 2020“
+– EU-Rahmenprogramm für Forschung und Innovation „Horizont 2020“
 
- ERASMUS+
+– ERASMUS+
 
- INTERREG
+– INTERREG
 
- ESF
+– ESF
 
- EFRE
+– EFRE
 
- BONUS
+– BONUS
 
- EIT – Climate-KIC
+– EIT – Climate-KIC
 
- DG DEVCO – External Actions
+– DG DEVCO – External Actions
 
- Europa macht Schule
+– Europa macht Schule
 
- Stipendien- und Betreuungsprogramm (STIBET)
+– Stipendien- und Betreuungsprogramm (STIBET)
 
- Internationale Studien- und Ausbildungspartnerschaften (ISAP)
+– Internationale Studien- und Ausbildungspartnerschaften (ISAP)
 
- PROMOS – Programm zur Steigerung der Mobilität von Studierenden deutscher
+– PROMOS – Programm zur Steigerung der Mobilität von Studierenden deutscher
 
 Hochschulen
 
@@ -310,7 +311,7 @@ Welche Summen stellt die EU nach Kenntnis der zuständigen Behörde für die ein
 
 Aus welchen Programmen hat die Freie und Hansestadt Hamburg direkt bei der EU Mittel beantragt? Bitte aufschlüsseln für die Jahre 2014 – 2018? In welcher Höhe wurden jeweils Mittel beantragt?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 In der Prioritätsachse C stehen für die gesamte Förderperiode 24,8 Millionen Euro aus dem ESF zur Verfügung. Da der ESF im Rahmen der geteilten Mittelverwaltung ausgeführt wird (das heißt, die Mitgliedstaaten beziehungsweise Regionen wählen die Empfänger aus und verwalten die Ausgaben), erfolgen seitens der Europäischen Kommission keine Vorgaben, welcher Anteil dieser Mittel für welche Vorhaben und Zielgruppen eingesetzt wird. In Hamburg trifft diese Entscheidungen der ESF- Behördenausschuss. Das Verfahren zur Mittelvergabe ist im ESF-OP (Seite 49 folgende) und auf www.esf-hamburg.de ausführlich beschrieben: http://www.esfhamburg.de/esf-mittel-vergabe/. Im Rahmen des 2013 durchgeführten 1. ESF- Wettbewerbsverfahrens in der Förderperiode 2014 – 2020 wurden für die Jahre 2014
 – 2016 insgesamt 22,48 Millionen Euro (davon 11,91 Millionen Euro EU-Mittel und 10,57 Euro Kofinanzierungsmittel der Freien und Hansestadt Hamburg) auf Grundlage entsprechender Entscheidungen des ESF-Behördenausschusses für Vorhaben in den oben genannten Themenfeldern bewilligt:
@@ -341,19 +342,19 @@ Kofinanzierungsmittel der FHH
 
 Nach Kenntnis der für Wissenschaft und Forschung zuständigen Behörde und den Hochschulen stellt die EU folgende Gesamtbudgets zur Verfügung:
 
- EU-Rahmenprogramm für Forschung und Innovation „Horizont 2020“: 80 Milliarden
+– EU-Rahmenprogramm für Forschung und Innovation „Horizont 2020“: 80 Milliarden
 
 Euro, 2014 – 2020
 
- ERASMUS+: 14,8 Milliarden Euro, 2014 – 2020
+– ERASMUS+: 14,8 Milliarden Euro, 2014 – 2020
 
- BONUS: 100 Millionen Euro, 2012 – 2017
+– BONUS: 100 Millionen Euro, 2012 – 2017
 
- COST: 300 Millionen Euro, 2014 – 2020
+– COST: 300 Millionen Euro, 2014 – 2020
 
- Climate-KIC: 2,7 Milliarden EUR, 2014 – 2020
+– Climate-KIC: 2,7 Milliarden EUR, 2014 – 2020
 
- DG DEVCO - External Actions: 19,6 Milliarden Euro/Development Cooperation
+– DG DEVCO - External Actions: 19,6 Milliarden Euro/Development Cooperation
 
 Instrument (DCI), 2014 – 2020
 

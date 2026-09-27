@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57356"
@@ -49,17 +50,17 @@ In welcher Weise wurden welche Empfehlungen aus dem Ergebnisbericht des Forums �
 
 Welche weiteren Empfehlungen aus dem Ergebnisbericht sollen wann auf welche Weise umgesetzt werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Ergebnisbericht des Forums „Strombau- und Sedimentmanagement“ ist unter http://www.dialogforum-tideelbe.de/wp-content/uploads/2015/07/Ergebnisbericht-des- Dialogforums-Strombau-und-Sedimentmanagement-Tideelbe.pdf veröffentlicht.
 
 Folgende Empfehlungen des Forums wurden bislang wie folgt umgesetzt:
 
- Empfehlungen zu Schadstoffsanierung im Oberstrom der Elbe (Seite 51):
+– Empfehlungen zu Schadstoffsanierung im Oberstrom der Elbe (Seite 51):
 
 (1) und (2): Hierbei handelt es sich um eine Daueraufgabe. Das Forum hat im Wesentlichen die Bedeutung der bereits vorhandenen Gremien sowie deren Aktivitäten und Zielsetzungen bestätigt, die vom Bund und den Ländern im Rahmen des Projekts Schadstoffsanierung Elbe (ELSA) fortgesetzt werden. Erste Sanierungsbestrebungen, etwa im Bereich der Bilina, zeichnen sich ab.
 
- Empfehlungen zur Unterbringung von Baggergut an Land (Seite 86):
+– Empfehlungen zur Unterbringung von Baggergut an Land (Seite 86):
 
 (1) Die Verwertung ist für die HPA ein vorrangiges Ziel. Neben der Verwertung
 
@@ -77,7 +78,7 @@ weiter reduziert werden. Zudem sollen die begrenzten Deponiekapazitäten auf Ham
 
 Diese Empfehlung wird umgesetzt.
 
- Empfehlungen zur Unterbringung von Baggergut im Gewässer (Seite 87):
+– Empfehlungen zur Unterbringung von Baggergut im Gewässer (Seite 87):
 
 (1) Durch den intensivierten Austrag erfolgt mittelfristig auch eine Stabilisierung
 
@@ -99,7 +100,7 @@ gegründeten Forum Tideelbe weiter verfolgt.
 
 gische, ökonomische und gesellschaftliche Belange werden berücksichtigt, rechtliche Vorgaben eingehalten und es wird darauf geachtet, die Eingriffe in die Natur zu minimieren.
 
- Empfehlungen zum Strombau (Seite 106):
+– Empfehlungen zum Strombau (Seite 106):
 
 Die Empfehlungen werden im Rahmen der Arbeit des Ende 2016 gegründeten Forums Tideelbe berücksichtigt. Hierzu hat die Freie und Hansestadt Hamburg eine Geschäftsstelle eingerichtet, die den Dialog mit der Region zur Erarbeitung von Handlungsempfehlungen für ein strombauliches Gesamtkonzept unterstützt.
 
@@ -119,7 +120,7 @@ Haben alle Institutionen Mittel für ihre Teilnahme am Forum erhalten? Falls nei
 
 Wie hoch waren die Kosten, die für die Teilnahme der Institutionen entstanden sind? (Bitte nach Jahren getrennt angeben.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Kosten für die Teilnahme am Forum wurden von allen beteiligten Institutionen selbst getragen. Die Höhe der bei den beteiligten Institutionen entstandenen Kosten für die Teilnahme am Forum ist der zuständigen Behörde nicht bekannt.
 

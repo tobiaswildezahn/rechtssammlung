@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51760"
@@ -167,13 +168,13 @@ Die fahrplanmäßige Fahrzeit der sehr langlaufenden Buslinie 23 ist durch das a
 
 Zudem kreuzen folgende VHH-Buslinien Streckenabschnitte, bei denen im Rahmen des Busbeschleunigungsprogramms bereits Maßnahmen umgesetzt wurden:
 
- MetroBus-Linie 15, Bezirksamt Eimsbüttel,
+– MetroBus-Linie 15, Bezirksamt Eimsbüttel,
 
- MetroBus-Linie 22, Siemersplatz, Flurstraße/Rugenbarg,
+– MetroBus-Linie 22, Siemersplatz, Flurstraße/Rugenbarg,
 
- StadtBus-Linie 130, Burgstraße,
+– StadtBus-Linie 130, Burgstraße,
 
- StadtBus-Linie 186, Flurstraße/Rugenbarg.
+– StadtBus-Linie 186, Flurstraße/Rugenbarg.
 
 Hinsichtlich der Entwicklung der Umlaufzeiten siehe Antwort zu 1. a).
 
@@ -198,11 +199,11 @@ Im Falle der MetroBus-Linie 7 der HOCHBAHN wurde auf dem Linienweg die Kreuzung 
 
 Darüber hinaus waren folgende Buslinien der HOCHBAHN von Haltestellenverlegungen im Rahmen von Knotenpunktumbauten betroffen:
 
- Knotenpunkt Edmund-Siemers-Allee/Grindelallee: Linien 4, 5 604,
+– Knotenpunkt Edmund-Siemers-Allee/Grindelallee: Linien 4, 5 604,
 
- Grindelallee/Hallerstraße/Beim Schlump: Linien 4, 5, 15, 604,
+– Grindelallee/Hallerstraße/Beim Schlump: Linien 4, 5, 15, 604,
 
- Hoheluftchaussee/Gärtnerstraße: Linien 5, 20, 25, 600, 604.
+– Hoheluftchaussee/Gärtnerstraße: Linien 5, 20, 25, 600, 604.
 
 Und auch die VHH-Linien 15, 22, 281 und 602 waren von Baumaßnahmen betroffen.
 
@@ -212,15 +213,15 @@ Es waren keine Linienwegsänderungen erforderlich. Die Haltestellenverlegung am 
 
 Bei folgenden Buslinien kam es zu einer wesentlichen Verlegung von Haltestellen:
 
- MetroBus-Linie 15: Die Haltestelle „Bezirksamt Eimsbüttel“ in Richtung Klein Flott-
+– MetroBus-Linie 15: Die Haltestelle „Bezirksamt Eimsbüttel“ in Richtung Klein Flott-
 
 bek wurde hinter die Kreuzung und vom Fahrbahnrand an eine Mittelinsel verlegt.
 
- MetroBus-Linie 22: Die Haltestelle „Siemersplatz“ in Richtung Kellinghusenstraße
+– MetroBus-Linie 22: Die Haltestelle „Siemersplatz“ in Richtung Kellinghusenstraße
 
 wurde durch Umbau der Kreuzung verlegt.
 
- MetroBus-Linie3 und NachtBus-Linie 602: Die Haltestelle „Neuer Pferdemarkt“
+– MetroBus-Linie3 und NachtBus-Linie 602: Die Haltestelle „Neuer Pferdemarkt“
 
 wurde vom Fahrbahnrand an eine Mittelinsel verlegt.
 
@@ -228,21 +229,21 @@ c) Wie hat sich das Unfallgeschehen an diesen Knotenpunkten entwickelt?
 
 Für folgende aufgezählte Knotenpunkte, an denen im Rahmen von Umbaumaßnahmen zur Busbeschleunigung auch Bushaltestellen verlegt wurden, sind Daten gemäß Anlage ermittelt worden. Darin sind Daten zu Verkehrsunfällen aus miteinander vergleichbaren Zeiträumen vor dem Beginn der Baumaßnahmen und nach Beendigung der Baumaßnahmen enthalten, die durch eine Abfrage der Unfalldatenbank Elektronische Unfalltypensteckkarte (EUSka) am 25. Februar 2016 ermittelt wurden:
 
- Edmund-Siemers-Allee/Grindelallee (MetroBus 4, 5; NachtBus 603, 604),
+– Edmund-Siemers-Allee/Grindelallee (MetroBus 4, 5; NachtBus 603, 604),
 
- Grindelallee/Hallerstraße/Beim Schlump (MetroBus 4, 5, 15; NachtBus 604),
+– Grindelallee/Hallerstraße/Beim Schlump (MetroBus 4, 5, 15; NachtBus 604),
 
- Hoheluftchaussee/Gärtnerstraße (MetroBus 5; NachtBus 604),
+– Hoheluftchaussee/Gärtnerstraße (MetroBus 5; NachtBus 604),
 
- Fuhlsbüttler Straße/Alte Wöhr (MetroBus 7; SchnellBus 39; StadtBus 172; Nacht-
+– Fuhlsbüttler Straße/Alte Wöhr (MetroBus 7; SchnellBus 39; StadtBus 172; Nacht-
 
 Bus 607),
 
- Luruper Hauptstraße/Tannenberg (MetroBus 2,3; NachtBus 602),
+– Luruper Hauptstraße/Tannenberg (MetroBus 2,3; NachtBus 602),
 
- Luruper Hauptstraße/Eckhoffplatz (MetroBus 2; StadtBus 186; NachtBus 602),
+– Luruper Hauptstraße/Eckhoffplatz (MetroBus 2; StadtBus 186; NachtBus 602),
 
- Feldstraße/Markstraße (MetroBus 3,6; NachtBus 602).
+– Feldstraße/Markstraße (MetroBus 3,6; NachtBus 602).
 
 Für die Beurteilung der Unfallentwicklung an Verkehrsknoten wird grundsätzlich die Verkehrsunfalllage drei Jahre vor einem Umbau mit der Verkehrsunfallsituation drei Jahre nach dem Umbau verglichen. Ist der Zeitraum von drei Jahren nach dem Umbau noch nicht erreicht, wird der Vergleichszeitraum auf die bereits abgeschlossenen Jahre reduziert; im Einzelfall auf die abgeschlossenen Monate. Mit einem Ganzjahresvergleich werden jahreszeitlich bedingte Einflussfaktoren berücksichtigt. Die Angaben zu den Verkehrsunfallzahlen für das Jahr 2015 sind vorläufig.
 

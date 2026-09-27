@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9187", "21/8402", "21/6070", "21/6221"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65620"
@@ -91,23 +92,23 @@ Die folgenden Angaben beruhen auf Informationen der Bezirksämter.
 
 In Bezug auf diese neu geschaffenen Wohnquartiere im Bezirk Hamburg-Mitte gibt es einen kontinuierlichen Austausch im Rahmen integrierter Stadtplanungsprozesse, in dem unter anderem Belange sozialer Infrastruktur eingebracht werden. Auf Basis des Beschlusses der Bezirksversammlung Hamburg-Mitte (Drs. Nummer 21-3363) wird die soziale Infrastruktur im Bezirk Hamburg-Mitte weiterentwickelt. Ziel ist die Bereitstellung einer bedarfsgerechten, zeitgemäßen sozialen Infrastruktur, die den gesellschaftlichen Wandel und daraus resultierende fachpolitische Änderungsbedarfe berücksichtigt. Bei den aufgelisteten Quartieren mit mehr als 500 WE sind konkret in folgenden Quartieren Angebote im Sinne der Fragestellung vorgesehen:
 
- Rothenburgsort/Marckmannstraße: In diesem Jahr wird das „Haus der Jugend
+– Rothenburgsort/Marckmannstraße: In diesem Jahr wird das „Haus der Jugend
 
 Rothenburgsort“ nach Neubau wiedereröffnet. Dieses soll künftig stärker sozialräumlich ausgerichtet sein und für Aktivitäten aus dem Stadtteil zur Verfügung stehen. Trägerschaft, Ausstattung und Ressourcen befinden sich noch in der Klärung.
 
- Stadtteil Hamm/Wohnen am Rückerskanal: Im Zusammenhang mit dem Wohn-
+– Stadtteil Hamm/Wohnen am Rückerskanal: Im Zusammenhang mit dem Wohn-
 
 quartier Rückerskanal werden Angebote der Offenen Kinder- und Jugendarbeit und weitere soziale Angebote mitgedacht. Konkrete Planungen stehen noch aus.
 
- Billstedt Haferblöcken: Haus der Begegnung Haferblöcken mit zielgruppenspezifi-
+– Billstedt Haferblöcken: Haus der Begegnung Haferblöcken mit zielgruppenspezifi-
 
 schen Angeboten. Trägerschaft, Ausstattung und Ressourcen befinden sich noch in der Klärung.
 
- Wilhelmsburg Elbinsel-Quartier: neues Schulzentrum, das um zusätzliche
+– Wilhelmsburg Elbinsel-Quartier: neues Schulzentrum, das um zusätzliche
 
 Gemeinbedarfsangebote für das neue Quartier ergänzt werden soll. Trägerschaft, Ausstattung und Ressourcen befinden sich noch in der Klärung.
 
- Wilhelmsburg Neues Rathausviertel: Siehe Angaben zum Elbinsel-Quartier.
+– Wilhelmsburg Neues Rathausviertel: Siehe Angaben zum Elbinsel-Quartier.
 
 Bei den übrigen Quartieren sind zumindest aktuell keine weiteren Einrichtungen geplant, weil es sich um Wohnungen handelt, die temporär (von Studierenden und Auszubildenden) genutzt werden sollen und für die die vorhandene soziale Infrastruktur nach jetzigem Stand ausreicht. Die Quartiere werden fortlaufend auf ihre Bedarfe hin überprüft, gegebenenfalls wird nachgesteuert.
 
@@ -115,15 +116,15 @@ Das Bezirksamt Altona hat seine Planungen noch nicht abgeschlossen, weil zu den 
 
 Bei den aufgelisteten Quartieren im Bezirk Eimsbüttel mit mehr als 500 WE sind in folgenden Quartieren Angebote im Sinne der Fragestellung vorgesehen:
 
- In Stellingen (Stellingen 62/Sportplatzring) wird das vorhandene Gebäude des
+– In Stellingen (Stellingen 62/Sportplatzring) wird das vorhandene Gebäude des
 
 Haus der Jugend aufgegeben und in den Neubau eines Stadtteilhauses integriert. Die Mittelausstattung und die Personalstellen bleiben unverändert.
 
- In Eidelstedt-Nord (Eidelstedt 74/Hörgensweg) wird eine bestehende Einrichtung
+– In Eidelstedt-Nord (Eidelstedt 74/Hörgensweg) wird eine bestehende Einrichtung
 
 der Offenen Kinder- und Jugendarbeit/Jugendsozialarbeit um ein zusätzliches Projekt für Kinder, Jugendliche und Familien rund um den Hörgensweg erweitert. Es werden für zwei Personalstellen jährlich 135 000 Euro aus dem Quartiersfonds bezirkliche Stadtteilarbeit zur Verfügung gestellt.
 
- Die soziale Infrastruktur im Bereich des Vorhabens Hoheluft West 15/Unnastraße
+– Die soziale Infrastruktur im Bereich des Vorhabens Hoheluft West 15/Unnastraße
 
 wurde noch nicht geplant.
 
@@ -131,15 +132,15 @@ Zu den Planungen im Bezirk Hamburg-Nord siehe Anlage 2.
 
 Für die Planungen im Bezirk Wandsbek gilt:
 
- Die Sozialräume Jenfeld-West und Jenfeld-Ost sind ausweislich des Wandsbeker
+– Die Sozialräume Jenfeld-West und Jenfeld-Ost sind ausweislich des Wandsbeker
 
 Algorithmus mit Einrichtungen der Offenen Kinder- und Jugendarbeit wie der Familienförderung gut versorgt, sodass eine Erweiterung der Angebotsstruktur für entbehrlich gehalten wird.
 
- Im Sozialraum Farmsen besteht ausweislich des Wandsbeker Algorithmus ein mitt-
+– Im Sozialraum Farmsen besteht ausweislich des Wandsbeker Algorithmus ein mitt-
 
 lerer Bedarfsdruck. Neben der vorhandenen Struktur an Jugend- und Familieneinrichtungen wird der Ausbau der weiteren sozialen Infrastruktur wie Sport- und Bewegungsangebote et cetera geplant.
 
- Die Planung in Bramfeld (Moosrosenweg) bedarf eines hinreichenden Konkretisie-
+– Die Planung in Bramfeld (Moosrosenweg) bedarf eines hinreichenden Konkretisie-
 
 rungs- und Umsetzungsgrades, um weiterreichende Angebote vorzuhalten.
 
@@ -149,11 +150,11 @@ Im Rahmen der Planungen des Bezirksamt Harburg für das Neubaugebiet Vogelkamp w
 
 Im BGZ befinden sich u.a. folgende soziale Einrichtungen:
 
- Jugendfreizeitlounge (OKJA), die jährliche Förderhöhe belief sich im Jahr 2018 auf
+– Jugendfreizeitlounge (OKJA), die jährliche Förderhöhe belief sich im Jahr 2018 auf
 
 137 747 Euro inklusive zwei Stellen,
 
- Evangelische Familienberatungsstelle Süderelbe (Familienförderung), die jährliche
+– Evangelische Familienberatungsstelle Süderelbe (Familienförderung), die jährliche
 
 Förderhöhe belief sich im Jahr 2018 auf 173 079 Euro inklusive 2,24 Stellen.
 
@@ -218,7 +219,7 @@ Wie hat sich die Anzahl der Einrichtungen der Offenen Kinder und Jugendarbeit/Ju
 
 Wie hat sich die Personalsituation in den Einrichtungen der OKJA und Familienförderung in den Jahren 2015 bis 2018 entwickelt? Angaben bitte in Vollzeitäquivalenten und aufgeschlüsselt nach Bezirken, Art der Einrichtung und Öffnungszeiten.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 In diesen Jahren entwickelte sich die Anzahl der Einrichtungen der Offenen Kinderund Jugendarbeit beziehungsweise Jugendsozialarbeit und der Familienförderung wie folgt:
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6550", "21/6376", "21/5431"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55795"
@@ -69,7 +70,7 @@ Wie reagiert der Senat beziehungsweise die zuständige Behörde auf die Ankündi
 
 Wie reagiert der Senat beziehungsweise die zuständige Behörde auf die Ankündigung der Initiative „Kein Rahlstedt 131“, 1.900 Unterschriften von Bürgern aus Rahlstedt und Großlohe zu übergeben?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Senat und das zuständige Bezirksamt nehmen die Ankündigung zur Kenntnis.
 
@@ -81,6 +82,6 @@ Inwiefern soll ein „landschaftsverträgliches Gewerbegebiet“ entstehen und w
 
 Auf welche Weise soll der von SPD-Abgeordneten versprochene umgebende Landschafts- und Naherholungsraum in Rahlstedt konkret verbessert werden?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Antwort zu 1. bis 5.

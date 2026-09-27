@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1210"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49577"
@@ -106,15 +107,15 @@ Staatliche Hamburger Hochschulen:
 
 An der Universität Hamburg (UHH) betreibt die Fakultät für Betriebswirtschaft im Rahmen ihres fakultären Forschungsclusters „Logistik und digitale Dienste“ einen Forschungsschwerpunkt „Logistics and Digital Services in Seaports“. Forschungsthemen sind:
 
- Informationelle Vernetzung aller Dienstleistungen, die für den Umschlag von
+– Informationelle Vernetzung aller Dienstleistungen, die für den Umschlag von
 
 Gütern benötigt werden und deren Nutzung für die Entscheidungsunterstützung („Maritime Plattform 4.0“).
 
- Strategische und operative Planung von Container- und Kreuzfahrtterminals (zum
+– Strategische und operative Planung von Container- und Kreuzfahrtterminals (zum
 
 Beispiel Terminierung der Güterflüsse, Leercontainermanagement, Hinterlandverkehr, Dienstpläne, shared Logistics, Revenue Management).
 
- Neue Finanzierungsformen für die Seeschifffahrt sowie von Hafenanlagen und die
+– Neue Finanzierungsformen für die Seeschifffahrt sowie von Hafenanlagen und die
 
 damit verbundene Infrastruktur (Teil des Forschungszentrums „Maritime Management“)
 
@@ -124,11 +125,11 @@ An der Fakultät für Rechtswissenschaft der UHH wird am Institut für Seerecht 
 
 Die maritime Forschung an der HafenCity Universität Hamburg lässt sich in zwei Schwerpunkten zusammenfassen:
 
- Stadtplanerische Untersuchungen zum Wandel der Stadt-Hafen-Beziehungen im
+– Stadtplanerische Untersuchungen zum Wandel der Stadt-Hafen-Beziehungen im
 
 internationalen Vergleich (Waterfront Resilience Strategies; Socio-economic Transformations of Seaport Cities; Maritime Port (Sub-)Cultures; Globale Schifffahrtsnetzwerke und urbane Strukturen von Seehafenstädten; European Seaport Heritage).
 
- Hydrographische und geomatische Untersuchungen, Studien und Vermessungen
+– Hydrographische und geomatische Untersuchungen, Studien und Vermessungen
 
 zu Häfen, Schifffahrtswegen und Küstenzonen (Harbour Surveys, Geoinformationen für Küstenzonen, GIS für Küstenmanagement).
 
@@ -142,53 +143,53 @@ Helmut-Schmidt-Universität Hamburg (HSU):
 
 An der HSU wurden im Zeitraum 2010 – 2015 nachfolgende Projekte mit direktem maritimen Bezug und einer Gesamtfördersumme von 3,3 Millionen Euro durchgeführt:
 
- Evaluierung von Superresolution Techniques bei Bildsignalen
+– Evaluierung von Superresolution Techniques bei Bildsignalen
 
- Adaption und Erprobung eines dreidimensionalen elektrorheologischen Aktors zur
+– Adaption und Erprobung eines dreidimensionalen elektrorheologischen Aktors zur
 
 aktiven Schwingungsentkopplung von Schiffsantrieben
 
- RIAQ: Responsive Indoor Air Quality; ABC-Schutz: B-/C-Schutz: Kollektivschutz;
+– RIAQ: Responsive Indoor Air Quality; ABC-Schutz: B-/C-Schutz: Kollektivschutz;
 
- Schiffserkennung von U-Booten
+– Schiffserkennung von U-Booten
 
- Aktive Lärmreduktion im Boot
+– Aktive Lärmreduktion im Boot
 
- Verfahren zur Berechnung mikrophysikalischer Kenngrößen aus Mehrwellenlängen
+– Verfahren zur Berechnung mikrophysikalischer Kenngrößen aus Mehrwellenlängen
 
 Lidar-Messungen
 
- Flank Array
+– Flank Array
 
- Systemstudie zu verteiltem selbstkonfigurierenden HF-Überhorizontradar auf Schif-
+– Systemstudie zu verteiltem selbstkonfigurierenden HF-Überhorizontradar auf Schif-
 
 fen
 
- 3D-Modellierung aus Schiffsbildern
+– 3D-Modellierung aus Schiffsbildern
 
- Aufbau eines Verfahrens zur Dateninversion für eine Mehrwellenlängen Lidar
+– Aufbau eines Verfahrens zur Dateninversion für eine Mehrwellenlängen Lidar
 
- Vergleich von Strukturen und Algorithmen zur Navigation von Großschiffen
+– Vergleich von Strukturen und Algorithmen zur Navigation von Großschiffen
 
- Studie zur Identifizierung von Seefahrzeugen
+– Studie zur Identifizierung von Seefahrzeugen
 
- Schutz von Marinesystemen gegen elektromagnetische Waffenwirkungen (drei
+– Schutz von Marinesystemen gegen elektromagnetische Waffenwirkungen (drei
 
 Teilprojekte)
 
- Funktionsprüfung der Phasenschieber in der Phased-Array-Antenne des Präzisi-
+– Funktionsprüfung der Phasenschieber in der Phased-Array-Antenne des Präzisi-
 
 ons-Anflugradars
 
- Untersuchung der MIMO-Technologie für SEMs
+– Untersuchung der MIMO-Technologie für SEMs
 
- Drahtlose Datenübertragung in Automationssystemen
+– Drahtlose Datenübertragung in Automationssystemen
 
- Integration von Bildklassifikatoren in KEOD
+– Integration von Bildklassifikatoren in KEOD
 
 Private Hamburger Hochschulen:
 
- Kühne Logistics University (KLU):
+– Kühne Logistics University (KLU):
 
 An der KLU wurden folgende Forschungsprojekte zu maritimen Themen durchgeführt:
 
@@ -242,7 +243,7 @@ search Council (SSHRC), Canada
 
 2015-2016
 
- Bucerius LAW School (BLS):
+– Bucerius LAW School (BLS):
 
 Die Bucerius Law School hat in den vergangenen Jahren intensive maritime Forschung betrieben und zwar sowohl im Bereich der maritimen Sicherheit als auch in Bezug auf den Schutz der maritimen Umwelt und allgemeine seevölkerrechtliche Probleme.
 
@@ -250,13 +251,13 @@ Die Bucerius Law School hat in den vergangenen Jahren intensive maritime Forschu
 
 Zu den vergangenen und gegenwärtigen Projekten gehören „PiratT“ und „KORSE/ BMS21“:
 
- PiraT (www.maritimesicherheit.eu): BMBF-Projekt zur Seehandelssicherheit insbe-
+– PiraT (www.maritimesicherheit.eu): BMBF-Projekt zur Seehandelssicherheit insbe-
 
 sondere mit Bezug zu Terrorismus und Piraterie, 2010 – 2013.
 
 Bei PiraT handelte es sich um ein Kooperationsprojekt mit dem Institut für Friedensforschung und Sicherheitspolitik an der Universität Hamburg, der Technischen Universität Hamburg-Harburg und dem DIW in Berlin. Die rechtlichen Schwerpunkte lagen in folgenden Bereichen: Rechtsfragen im Zusammenhang mit privaten Sicherheitsdiensten auf Handelsschiffen; Rechtsprobleme bei der Strafverfolgung von Piraterieverdächtigen; rechtliche Aspekte von Abwehrmaßnahmen; seearbeitsrechtliche Dimensionen maritimer Sicherheit.
 
- KORSE/BMS21: BMS21 (Beiträge zur Maritimen Sicherheitsarchitektur im 21.
+– KORSE/BMS21: BMS21 (Beiträge zur Maritimen Sicherheitsarchitektur im 21.
 
 Jahrhundert) ist das Unterprojekt der BLS im BMBF-Projekt KORSE (Kompetenznetzwerk für das Recht der zivilen Sicherheit in Europa), 2013 – fortlaufend (https://www.korse.uni-freiburg.de/netzwerk/bucerius/). Kooperationspartner im Rahmen des KORSE-Projekts sind die Universität Freiburg, die Deutsche Hochschule der Polizei und die Humboldt-Universität Berlin. Der Schwerpunkt konzentrierte sich auf die rechtlichen Aspekte der folgenden Themenbereiche: Migration auf See, Private als Normsetzer auf internationaler Ebene am Beispiel der maritimen Wirtschaft, Sicherheitszonen um Plattformen auf See, Grenzziehungen und Ländergrenzen auf See.
 
@@ -267,7 +268,7 @@ Daneben bestehen enge Verbindungen zu der am Seegerichtshof angegliederten Inter
 
 Darüber hinaus sind an der Bucerius Law School im Bereich des allgemeinen Seevölkerrechts und der maritimem Sicherheit zahlreiche Publikationen entstanden.
 
- Hamburg School of Business Administration (HSBA):
+– Hamburg School of Business Administration (HSBA):
 
 An der HSBA wird auch maritime Forschung (circa 500 Stunden p.a.) betrieben. Die wichtigsten Projekte behandeln die folgenden Themen:
 
@@ -307,7 +308,7 @@ Hat sich der Senat bereits auf Bundes- und Landesebene für die Errichtung eines
 
 Hat der Senat bereits gegenüber dem Bund angeregt, durch den Bund eine Machbarkeitsstudie für ein solches Forschungszentrum anfertigen zu lassen? Wenn ja: Was wird er zusätzlich unternehmen, sofern die Drs. 21/1210 von der Bürgerschaft beschlossen wird? Wenn nein: In welcher Form und welchem Umfang wird der Senat eine solche Anregung geben, wenn die Drs. 21/1210 von der Bürgerschaft beschlossen wird?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Ja. Der Senat befindet sich im Austausch mit den norddeutschen Küstenländern hinsichtlich einer gemeinsamen Haltung gegenüber dem Bundesministerium. Der Senat steht einer bundesweiten und aus Bundesmitteln finanzierten Koordinierungsstelle positiv gegenüber. Im Zusammenspiel mit den Aktivitäten des bestehenden Maritimen Clusters Norddeutschland werden positive Impulse erwartet. Im Übrigen sieht der Senat davon ab, der Beschlussfassung der Hamburgischen Bürgerschaft vorzugreifen.
 

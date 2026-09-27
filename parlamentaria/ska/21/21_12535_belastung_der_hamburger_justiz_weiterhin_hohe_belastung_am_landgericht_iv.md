@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 18
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12324", "21/10847", "21/9372"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61823"
@@ -77,7 +78,7 @@ Wie hoch sind die Fallzahlen bezogen auf Eingänge, Bestände und Erledigungen b
 
 Wie lange dauern durchschnittlich Verfahren am Landgericht (bitte nach Strafkammern, Zivilkammern insbesondere Verfahren Baukammern, Verfahren Schwurgerichtskammer, Verfahren Wirtschaftsstrafkammern und Verfahren Untersuchungshaft sowie weitere eilbedürftige Verfahren für den Zeitraum 2017 bis Ende März 2018 darstellen)?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Nicht-Haftsachen werden nicht über eine standardisierte Statistik abgebildet. Vielmehr wird seit 2013 eine Handliste beim Landgericht ausschließlich für die großen Strafkammern (ohne Strafvollstreckungskammern, nur erstinstanzliche Verfahren) geführt, aus der ein tagesaktueller Stand abgelesen werden kann. Die Haftsachen (Differenz von Bestand und Nicht-Haftsachen) sind Untersuchungshaftsachen oder Fälle einstweiliger Unterbringung und können im Falle der Untersuchungshaftsachen auch solche sein, bei denen der/die Betroffene außerdem eine Haftstrafe in anderer Sache verbüßt.
 
@@ -308,8 +309,8 @@ Derzeit erfolgt die Renovierung von Saal 142 mit Gesamtkosten von rund 70.000 Eu
 
 Für die Jahre 2018/2019 hat der Vermieter die Umsetzung der nachfolgend aufgeführten Baumaßnahmen angekündigt (konkrete Termine oder Kosten wurden nicht benannt):
 
- Sanierung der Heizungsstränge,
+– Sanierung der Heizungsstränge,
 
- Sanierung der Sielleitungen und
+– Sanierung der Sielleitungen und
 
- Ertüchtigung der elektrischen Unterverteilungen.
+– Ertüchtigung der elektrischen Unterverteilungen.

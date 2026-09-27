@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63700"
@@ -81,7 +82,7 @@ Welchen Zwecken dienten die unter 1. genannten Erdgasimporte im Zeitraum seit ei
 
 Welches waren im Zeitraum seit einschließlich 2015 in Hamburg die fünf größten Abnehmer von importiertem Erdgas und wofür wurde das Erdgas jeweils verwendet? Bitte jahrweise aufschlüsseln und dabei den prozentualen Anteil der importierten Jahresgesamtmenge angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Daten zu einzelnen Verbrauchern unterliegen dem Datenschutz. Die Energiebilanz unterscheidet nach folgenden Anwendungsbereichen.
 

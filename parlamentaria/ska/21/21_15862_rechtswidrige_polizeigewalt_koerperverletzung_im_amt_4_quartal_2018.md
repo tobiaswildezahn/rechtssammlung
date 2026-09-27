@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14067", "21/14625"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65351"
@@ -51,7 +52,7 @@ Welchen Verfahrensstand haben die Disziplinarverfahren gegen Polizeibedienstete 
 
 Welchen Verfahrensausgang haben die seit dem 01.01.2018 abgeschlossenen Disziplinarverfahren gegen Polizeibedienstete wegen Körperverletzung im Amt aufgrund welcher Sachverhalte genommen und welche Disziplinarmaßnahmen wurden angeordnet?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/14067.
 
@@ -73,7 +74,7 @@ Wie viele Strafverfahren gegen Polizeibedienstete wegen Körperverletzung im Amt
 
 Wie viele Strafverfahren sind gegen Polizeibedienstete wegen Körperverletzung im Amt im letzten Quartal aufgrund welcher Sachverhalte mit welchen Verfahrensausgängen zu welchem Zeitpunkt abgeschlossen worden? Bei Einstellungen bitte die jeweilige Rechtsgrundlage, bei Verurteilungen bitte die Art und Höhe der Sanktion benennen.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Zu den Verfahrensständen und -ausgängen der Verfahren siehe Anlage. Es wird darauf hingewiesen, dass die Angaben unter dem Vorbehalt der vollständigen und richtigen Eintragung in MESTA stehen. Im Übrigen siehe Antwort zu 4. sowie Drs. 21/14067.
 

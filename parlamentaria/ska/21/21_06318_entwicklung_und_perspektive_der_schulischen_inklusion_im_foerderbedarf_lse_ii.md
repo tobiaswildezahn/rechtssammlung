@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54856"
@@ -71,7 +72,7 @@ Angesichts dessen, dass mit der Regelungen des §12 des Hamburgischen Schulgeset
 
 Wohin wurden/werden diese seit 2010/2011 bis heute (Stand 10/2016) im Zuge des Auslaufens der I-Klassen freigesetzten Stellen verwendet, welchen Haushaltsbereichen des Einzelplans 3.1 flossen/fließen sie im Einzelnen zu? (Bitte für jedes Haushaltsjahr seit 2010 mit Aufgabenbereich und Produktgruppe, aufgeschlüsselt nach Lehrer/-innen, pädagogischen Unterrichtshilfen und Sonderpädagogen/-innen, in absoluten Zahlen und in Prozent tabellarisch angeben.) a. Wohin sollen die in 2016/2017 letztmalig freigesetzten Stellen der gegenwärtigen Jahrgangsstufe 10 der I-Klassen an den Stadtteilschulen haushaltlich überführt werden? (Bitte entsprechend in Tabelle zu 6. integrieren.)
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Durch das Auslaufen der I-Klassen werden keine Stellen freigesetzt. Die weniger zugewiesenen Lehrerstellenbedarfe werden vollständig für das Aufwachsen der neuen Inklusions-Bedarfsgrundlagen eingesetzt.
 

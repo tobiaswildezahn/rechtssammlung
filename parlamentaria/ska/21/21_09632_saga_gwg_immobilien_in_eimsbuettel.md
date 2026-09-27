@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58441"
@@ -320,7 +321,7 @@ Welche der Immobilien, die aus Fragen 1. und 3. resultieren, haben ein Nachverdi
 
 Bis wann soll das in Frage 4. genannte Nachverdichtungs- beziehungsweise Aufstockungspotenzial ausgeschöpft werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Hinsichtlich der Immobilien der SAGA siehe Antwort zu 2.
 

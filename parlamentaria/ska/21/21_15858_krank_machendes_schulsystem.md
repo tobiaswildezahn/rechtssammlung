@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7895", "21/15859", "21/15860"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65347"
@@ -176,7 +177,7 @@ Wie hoch ist die Anzahl der kommissarischen Schulleitungen (SL) in den letzten z
 
 Wie hoch ist die Zahl der Schulleitungen, die ihre Probezeit nicht überstanden haben? (Bitte in absoluter Zahl und Prozent nach Schulform und Bezirk für die letzten zehn Jahre aufschlüsseln.)
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die erfragten Daten werden von der für Bildung zuständigen Behörde nicht zentral erfasst. Eine Auswertung aller Personalakten im Hinblick auf die Fragestellung ist in der für eine Parlamentarische Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

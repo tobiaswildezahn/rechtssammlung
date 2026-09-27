@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7748", "20/9376"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61151"
@@ -47,7 +48,7 @@ Der Senat beantwortet die Fragen teilweise auf der Grundlage von Auskünften der
 
 Gibt es darüber hinaus auch statistisches Material über Pendler in die weiter entfernt liegenden Landkreise und kreisfreien Städte? Wenn ja, bitte ebenfalls angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die folgenden Pendlerzahlen stellen lediglich die Pendlerinnen und Pendler dar, die einer sozialversicherungspflichtigen Beschäftigung nachgehen. Die Statistik berücksichtigt damit zum einen nur Berufspendlerinnen und Berufspendler und keine Freizeitpendlerinnen und Freizeitpendler. Zum anderen sind von dieser Statistik Beamtinnen und Beamte sowie Selbständige nicht erfasst. Sie bilden damit nur eine Teilmenge aller Pendlerinnen und Pendler.
 

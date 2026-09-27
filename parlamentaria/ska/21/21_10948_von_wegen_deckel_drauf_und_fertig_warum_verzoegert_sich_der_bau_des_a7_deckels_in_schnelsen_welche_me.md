@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10892"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59879"
@@ -89,7 +90,7 @@ November 2017 an: „Bei der Errichtung des Tunnels Schnelsen mussten wir, und d
 6. Als dritten von vier wesentlichen Gründen führt VSN in seiner PM vom
 8. November 2017 an: „Darüber hinaus sorgen Produktionsengpässe bei einigen für uns wichtigen Zulieferern für längere Lieferzeiten. Hierbei handelt es sich um Sonderprodukte wie zum Beispiel maßgefertige Spezialbauteile für Ingenieurbauwerke. Die Marktlage hat sich seit Angebotslegung im Jahr 2012 deutlich verändert.“ Stimmt der Senat beziehungsweise die zuständige Behörde dieser Argumentation vollumfänglich zu? Wenn nein, bei welchen Punkten und aus welchen Gründen vertritt der Senat beziehungsweise die zuständige Behörde einen anderen Standpunkt?
 
-#### Antwort zu Fragen 5, 8
+#### Antwort zu Fragen 5 und 8
 
 Siehe Antwort zu 3.
 
@@ -165,7 +166,7 @@ d) der Präses der BWVI,
 e) der Präses der BSW,
 f) der Erste Bürgermeister erstmalig über die oben erwähnte Bauzeitverlängerung betreffend den Schnelsener Deckel informiert und welche Maßnahmen hat dieser unmittelbar daraus abgeleitet?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Drs. 21/10892.
 
@@ -188,6 +189,6 @@ a) den Ausbau der A7 zwischen HH-Othmarschen und dem Bordesholmer Dreieck insges
 b) den Ausbau der A7 nördlich des Elbtunnels auf Hamburger Gebiet,
 c) den Bau des Schnelsener Deckels gerechnet?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Antwort zu 8.

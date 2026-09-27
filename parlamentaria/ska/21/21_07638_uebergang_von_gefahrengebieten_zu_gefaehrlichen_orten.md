@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6538"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56239"
@@ -76,15 +77,15 @@ Welche gefährlichen Orte sind für wie lange und mit welcher Zielgruppenbestimm
 
 Nach dem „Zweiten Gesetz zur Änderung polizeirechtlicher Vorschriften“ und der damit einhergehenden Streichung von § 4 Absatz 2 Satz 1 PolDVG gelten zum jetzigen Zeitpunkt vier Orte als „gefährliche Orte“ im Sinne des § 4 Absatz 1 Nummer 2 PolDVG beziehungsweise § 15a Absatz 1 Satz 1 Nummer 4 SOG. Hierbei handelt es sich um:
 
-• „gefährlicher Ort PK 11 BTM 1“
+– „gefährlicher Ort PK 11 BTM 1“
 
 Ernst-Merck-Straße/-brücke (ausschließlich), Glockengießerwall (ausschließlich), Steintorwall (ausschließlich), Altmannbrücke, Gleisanlagen östliche des Klosterwalls (ausschließlich), Amsinckstraße (ausschließlich), Spaldingstraße (ausschließlich), Rosenallee, Verlängerung über die Gleisanlagen in nördliche Richtung bis Norderstraße, Norderstraße, Nagelsweg, Kurt-Schumacher-Allee, Adenauerallee, Steintorplatz (ausschließlich), Kirchenallee
 
-• „gefährlicher Ort PK 11 BTM 2“
+– „gefährlicher Ort PK 11 BTM 2“
 
 Steintorplatz, Kirchenallee (ausschließlich), Lange Reihe (ausschließlich), Danziger Straße, Brennerstraße, Lindenstraße, Lindenplatz, Verlängerung bis zur Adenauerallee (ausschließlich), Adenauerallee (ausschließlich)
 
-• „gefährlicher Ort PK 15 BTM“
+– „gefährlicher Ort PK 15 BTM“
 
 Nördliche Begrenzung:
 
@@ -100,7 +101,7 @@ St. Pauli Fischmarkt beginnend ab Antoni-Park, St. Pauli Hafenstraße bis Davidt
 
 Davidstraße einschließlich bis Spielbudenplatz, Spielbudenplatz einschließlich, Reeperbahn bis Millerntorplatz 1, Millerntorplatz 1 bis Budapester Straße
 
-• „gefährlicher Ort PK 15 Gewalt“
+– „gefährlicher Ort PK 15 Gewalt“
 
 Nördliche Begrenzung:
 

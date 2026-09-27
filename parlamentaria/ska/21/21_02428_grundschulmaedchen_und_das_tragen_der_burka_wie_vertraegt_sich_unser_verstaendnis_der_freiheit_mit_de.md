@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 20
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50712"
@@ -73,7 +74,7 @@ Gibt es Versuche des Senats beziehungsweise der zuständigen Behörde hier gegen
 
 Hat es vonseiten der Schule beziehungsweise der Schulbehörde bereits Versuche gegeben, mit Eltern der betroffenen Mädchen zu sprechen, um eine Annäherung in Richtung neutrale Kleidung zu erwirken? Bitte begründen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Entfällt.
 
@@ -85,7 +86,7 @@ Denkt der Senat beziehungsweise die zuständige Behörde über ein Verbot von Bu
 
 Denkt der Senat beziehungsweise die zuständige Behörde über ein Verbot von Burkas zumindest in Grundschulen nach? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 3.
 

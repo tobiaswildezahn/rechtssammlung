@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 13
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5861", "20/14262", "21/7494"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56712"
@@ -54,7 +55,7 @@ c) Welche privaten Hamburger Hochschulen sollen in die Strategie einbezogen bezi
 d) Welche privaten Hamburger Hochschulen sollen nicht in die Strategie einbezogen beziehungsweise an den Ergebnissen beteiligt werden? Und warum nicht?
 e) Gab es bereits Gespräche der zuständigen Behörde mit den staatlichen und den privaten Hamburger Hochschulen über die Einbeziehung der privaten Hochschulen in die Digitalisierungsstrategie? Wenn ja: Wann, mit welchen Hochschulen und mit welchen Ergebnissen? Wenn nein: warum nicht? Und wann sollen diese Gespräche beginnen und abgeschlossen sein?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine strategische Zielstellung für die HOOU-Projektphase 2017 – 2018 ist die Erarbeitung einer Konzeption zur Einbindung externer Partner oder zu Kooperationen mit externen Partnern, zum Beispiel weiterer Hochschulen innerhalb, aber auch außerhalb Hamburgs. Die Konzeption stellt auch eine Basis für mögliche Gespräche der zuständigen Behörde und der staatlichen Hochschulen mit den privaten Hamburger Hochschulen dar.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/752", "20/8086"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61713"
@@ -47,7 +48,7 @@ Ist es noch das erklärte Ziel des Senats beziehungsweise der zuständigen Behö
 
 Inwiefern ziehen der Senat beziehungsweise die zuständigen Behörden Konsequenzen aus dem gescheiterten Versuch der Einführung einer Hygieneampel in Nordrhein-Westfalen für Hamburg?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ja. Im Laufe dieses Jahres soll in Hamburg ein System etabliert werden, mit dem Ergebnisse der amtlichen Kontrollen veröffentlicht werden können. Zur Ausgestaltung wird sich die zuständige Behörde zum gegebenen Zeitpunkt äußern.
 

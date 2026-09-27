@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 27
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/499"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50662"
@@ -43,7 +44,7 @@ Wie viele Erhebungsbögen wurden versandt?
 
 Nach welchen Kriterien wurden die Empfänger der Erhebungsbögen ausgewählt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für die Stichprobenziehung wurde zunächst eine Datei aller mietenspiegelrelevanten Wohnungen in Hamburg erstellt. In der amtlichen Statistik werden keine mietenspiegelrelevanten Wohnungen erhoben, sodass die Datenbasis anhand von verschiedenen Datenquellen in einem mehrstufigen Verfahren erstellt wurde. Als Basis dienten die Adressen der aktualisierten Wohnlagendatei. Ergänzt wurden diese Daten um die Haushalte je Adresse, die zum Teil auf der Zählerdatei des Grundversorgers Strom beruhen. So konnten im Vorfeld Ein- und Zweifamilienhäuser aus der Grundgesamtheit gefiltert werden. In einem weiteren Schritt wurden geförderte Wohnungen mit einer Mietpreisbindung herausgefiltert.
 
@@ -424,19 +425,19 @@ Auf welchen Grundlagen wurde das Wohnlagenverzeichnis in welchem Ursprungsjahr e
 
 Das Wohnlagenverzeichnis in seiner heutigen Form (Methodik, Indikatorensystem) existiert seit 1995. Es basiert auf folgenden Indikatoren:
 
-• Bodenrichtwerte,
+– Bodenrichtwerte,
 
-• Einwohnerdichte,
+– Einwohnerdichte,
 
-• Bebauungsdichte,
+– Bebauungsdichte,
 
-• Lärmbelastung durch Gewerbebetriebe, Parkplätze, Bahnlinien, öffentliche Freizeitflächen oder Ähnliche,
+– Lärmbelastung durch Gewerbebetriebe, Parkplätze, Bahnlinien, öffentliche Freizeitflächen oder Ähnliche,
 
-• Art der Straße (Schnellstraße, Hauptstraße, Straße mit mittlerem Verkehrsaufkommen, Straße mit geringem Verkehrsaufkommen, Fußgängerzone),
+– Art der Straße (Schnellstraße, Hauptstraße, Straße mit mittlerem Verkehrsaufkommen, Straße mit geringem Verkehrsaufkommen, Fußgängerzone),
 
-• Grünflächenanteil (Straßenbäume, kleinere Grünflächen, größere Grünflächen),
+– Grünflächenanteil (Straßenbäume, kleinere Grünflächen, größere Grünflächen),
 
-• Anbindung an den öffentlichen Nahverkehr (Entfernung zur nächsten U-/S-Bahnoder AKN-Haltestelle).
+– Anbindung an den öffentlichen Nahverkehr (Entfernung zur nächsten U-/S-Bahnoder AKN-Haltestelle).
 
 ### Frage 18
 

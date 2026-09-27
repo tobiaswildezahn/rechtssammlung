@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 20
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16398"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66142"
@@ -47,7 +48,7 @@ In den der Bevölkerung zugänglich gemachten Planungsunterlagen ist der Vollspe
 
 Wann wurden welche Gremien über die Dauer der Vollsperrung informiert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Planungsunterlagen wurden unter Nennung der Vollsperrung im Januar 2018 öffentlich bei HPA ausgelegt und zeitgleich im Internet veröffentlicht. Parallel erfolgte die sogenannte Erstverschickung der Planungsunterlagen an die Träger öffentlicher Belange (TöB).
 

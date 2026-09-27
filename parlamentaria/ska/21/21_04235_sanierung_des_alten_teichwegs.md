@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52639"
@@ -65,7 +66,7 @@ Wann wurde die Planung geändert?
 
 Welche Art von Sanierung wird nun geplant?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Ende des Jahres 2015 wurde in den bezirklichen Gremien aufgrund der Beschwerdelage beschlossen, eine Überplanung des gesamten Querschnitts in Betracht zu ziehen. Durch die Ausweitung der Maßnahme auf die Nebenflächen sollen die veränderten Anforderungen für den motorisierten Individualverkehr (MIV), den öffentlichen Personennahverkehr (ÖPNV) sowie für den Fuß- und Radverkehr berücksichtigt werden. Derzeit erfolgt die Grundlagenermittlung.
 
@@ -85,6 +86,6 @@ Welche zusätzlichen Maßnahmen sind nun geplant?
 
 Warum werden diese zusätzlichen Maßnahmen geplant?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antwort zu 4. und 5.

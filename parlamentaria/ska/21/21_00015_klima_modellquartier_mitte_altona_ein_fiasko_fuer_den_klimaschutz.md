@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 25
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/3755"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48142"
@@ -43,15 +44,15 @@ Eine kürzlich veröffentlichte Stellungnahme aus der HCU Hamburg http://www.ham
 
 Nach dem Gutachten sind als Folgen zu erwarten,
 
- dass in der Mitte Altona die wärmeübertragenden Gebäudehüllen energe-
+– dass in der Mitte Altona die wärmeübertragenden Gebäudehüllen energe-
 
 tisch schlechter, die Heizkosten höher sein werden und der Wert der Wohnungen geringer sein wird als bei vergleichbaren neuen Gebäuden,
 
- dass entgegen den Intentionen der BSU der Einsatz erneuerbarer Wärme
+– dass entgegen den Intentionen der BSU der Einsatz erneuerbarer Wärme
 
 nicht vorangebracht werden wird und
 
- dass insbesondere 14.000m² Dachflächen nicht für die Gewinnung von
+– dass insbesondere 14.000m² Dachflächen nicht für die Gewinnung von
 
 solarer Wärme eingesetzt werden, die sich einem im Auftrag der BSU erstellten Gutachten MegaWATT 2011 zufolge ideal für Solarkollektoren geeignet hätten.
 
@@ -107,7 +108,7 @@ Wie lässt sich der gegebenenfalls höhere Arbeitspreis von „Fernwärme Natur 
 
 Um welchen Prozentsatz werden die Heizkosten für eine durchschnittliche Wohnung der Mitte Altona voraussichtlich höher sein als bei normaler Versorgung mit Fernwärme? a. Stimmt der Senat mit den Angaben im oben genannten Gutachten überein, dass schon allein durch den Bezug der speziellen Fernwärme-Mischung mit etwa 20 Prozent höheren Heizkosten zu rechnen sei?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Senat hat sich hiermit nicht befasst.
 
@@ -303,7 +304,8 @@ c. Sind die Erzeugungsanlagen in der Borsigstraße, zu denen die Biomasseverbren
 
 Laut VWH ist die dritte Linie der MVB eine hocheffiziente KWK-Anlage.
 
-d. Wird daher baurechtlich die Erfüllung der Anforderungen des EE- WärmeG durch den angebotenen Vattenfall-Fernwärmemix „60 Prozent aus „Fernwärme Natur Mix“ und 40 Prozent aus „Fernwärme Klassik“ akzeptiert?
+d. Wird daher baurechtlich die Erfüllung der Anforderungen des EE- WärmeG durch den angebotenen Vattenfall-Fernwärmemix „60
+– Prozent aus „Fernwärme Natur Mix“ und 40 Prozent aus „Fernwärme Klassik“ akzeptiert?
 
 Ja.
 
@@ -315,6 +317,6 @@ Im bezeichneten Gutachten wird ausgeführt, dass sogar bei Ausschreibungen mit d
 
 Kann der Senat den Vorwurf entkräften und wenn ja, wie, dass Mitbewerber mit klimaschonenden Wärmeversorgungs-Konzepten durch die Akzeptierung von Angeboten zur Fernwärmeversorgung der Mitte Altona wie dem von Vattenfall wettbewerbswidrig verdrängt werden?
 
-#### Antwort zu Fragen 21 bis 22
+#### Antwort zu Fragen 21 und 22
 
 Die privaten Eigentümer der Grundstücke waren bezüglich der Installation der Wärmeversorgung in ihrem jeweiligen Gebiet rechtlich wie wirtschaftlich eigenverantwortlich tätig und haben unter eigenständiger Beurteilung verschiedener Varianten und Anbieter eine Auswahl getroffen. Einen Verstoß gegen wettbewerbsrechtliche Regeln kann der Senat hierin nicht erkennen.

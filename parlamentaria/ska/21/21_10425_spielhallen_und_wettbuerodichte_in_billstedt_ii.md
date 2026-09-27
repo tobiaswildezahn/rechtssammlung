@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10315"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59295"
@@ -56,7 +57,7 @@ Werden der Senat beziehungsweise die Bezirksämter und das Bezirksamt Mitte akti
 
 Planen der Senat beziehungsweise die Bezirksämter und das Bezirksamt Mitte, die nun nicht mehr legalen Doppelspielhallen zu schließen? Wenn ja, wann?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ja. Hinsichtlich der Spielhallen, die schließen müssen, wurden beziehungsweise werden Versagungsbescheide erlassen. Da hiergegen von den Spielhallenbetreibern Rechtsmittel eingelegt worden sind, sind die Versagungsbescheide noch nicht bestandskräftig. Schließungen dieser Spielhallen sind ab dem 1. Januar 2018 beabsichtigt.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62807"
@@ -138,7 +139,7 @@ Wohnimmobilienmarkt in Hamburg?
 Wenn ja, welche?  
 Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Bei Zugrundelegung der von der Deutschen Bundesbank verwendeten Standardindikatoren für eine Beurteilung der Entwicklung der Immobilienpreise (insbesondere des Verhältnisses von Annuität zu verfügbaren Einkommen) gibt es gegenwärtig keine Anzeichen, dass mit starken Preisrückgängen auf dem Markt für Wohnimmobilien zu rechnen ist.
 

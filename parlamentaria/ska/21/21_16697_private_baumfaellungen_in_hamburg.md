@@ -14,6 +14,7 @@ fragen: 67
 einzelfragen: 68
 antwortbloecke: 51
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15876"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66238"
@@ -217,7 +218,7 @@ Wie viele Anträge wurden genehmigt? Bitte nach Jahren sortieren und jeweils Ges
 
 Wie viele Fällgenehmigungen resultierten daraus? Bitte nach Jahren sortieren und jeweils Gesamtzahlen für den Bezirk sowie aufgeteilt auf die Stadtteile angeben.
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Jahr  
 2015  
@@ -236,7 +237,7 @@ Wie viele Anträge wurden abgelehnt? Bitte nach Jahren sortieren und jeweils Ges
 
 Wie viele Fällgenehmigungen wurden verweigert? Bitte nach Jahren sortieren und jeweils Gesamtzahlen für den Bezirk sowie aufgeteilt auf die Stadtteile angeben.
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Jahr  
 2015  
@@ -452,7 +453,7 @@ Wie viele Anträge wurden genehmigt? Bitte nach Jahren sortieren und jeweils Ges
 
 Wie viele Fällgenehmigungen resultierten daraus? Bitte nach Jahren sortieren und jeweils Gesamtzahlen für den Bezirk sowie aufgeteilt auf die Stadtteile angeben.
 
-#### Antwort zu Fragen 30 bis 31
+#### Antwort zu Fragen 30 und 31
 
 Jahr  
 2015  
@@ -474,7 +475,7 @@ Wie viele Anträge wurden abgelehnt? Bitte nach Jahren sortieren und jeweils Ges
 
 Wie viele Fällgenehmigungen wurden verweigert? Bitte nach Jahren sortieren und jeweils Gesamtzahlen für den Bezirk sowie aufgeteilt auf die Stadtteile angeben.
 
-#### Antwort zu Fragen 32 bis 33
+#### Antwort zu Fragen 32 und 33
 
 Jahr  
 2015  
@@ -600,7 +601,7 @@ Wie viele Anträge wurden abgelehnt? Bitte nach Jahren sortieren und jeweils Ges
 
 Wie viele Fällgenehmigungen wurden verweigert? Bitte nach Jahren sortieren und jeweils Gesamtzahlen für den Bezirk sowie aufgeteilt auf die Stadtteile angeben.
 
-#### Antwort zu Fragen 50 bis 51
+#### Antwort zu Fragen 50 und 51
 
 Jahr  
 2015  
@@ -793,7 +794,7 @@ Wie viele Bäume auf privatem Grund wurden in den Jahren 2015 – 2019 jeweils d
 
 Welche Ersatzpflanzungen sind für durch Sturm umgefallene oder geschädigte Bäume auf Privatgrund gefordert worden? Bitte nach Jahren, Bezirken und Stadtteilen getrennt angeben.
 
-#### Antwort zu Fragen 65 bis 66
+#### Antwort zu Fragen 65 und 66
 
 Über die Anzahl der durch Stürme umgestürzten Bäume auf privatem Grund wird in den zuständigen Bezirksämtern keine Statistik geführt.
 

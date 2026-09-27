@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 21
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838", "21/6666", "21/10168", "21/9112", "21/11529", "21/11471", "21/11650", "21/1716", "21/5222", "21/11359", "21/11447", "21/7486"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60935"
@@ -63,31 +64,31 @@ Wann erfolgten für die einzelnen Standorte jeweils der Vertragsschluss mit dem 
 
 Folgende Mietverträge wurden von f & w bisher abgeschlossen:
 
- Am 13. September 2017 mit der Hamburger Immobiliengesellschaft (HIG) HIG
+– Am 13. September 2017 mit der Hamburger Immobiliengesellschaft (HIG) HIG
 
 (SAGA) für Suurheid
 
- Am 15. September 2017 mit der HIG (SAGA) für Am Rehagen
+– Am 15. September 2017 mit der HIG (SAGA) für Am Rehagen
 
- Am 21. Dezember 2017 mit der HIG (SAGA) für Eiffestraße
+– Am 21. Dezember 2017 mit der HIG (SAGA) für Eiffestraße
 
- Am 27. Dezember 2017 (HIG) (SAGA) für Östlich Haferblöcken
+– Am 27. Dezember 2017 (HIG) (SAGA) für Östlich Haferblöcken
 
 Darüber hinaus siehe Drs. 21/6666 und Drs. 21/9112.
 
 Folgende Baugenehmigungen sind erteilt worden:
 
- Am 01. Dezember 2016 für Ohkamp/Flughafenstraße
+– Am 01. Dezember 2016 für Ohkamp/Flughafenstraße
 
- Am 20. Dezember 2016 für Hörgensweg
+– Am 20. Dezember 2016 für Hörgensweg
 
- Am 13. Dezember 2016 für Am Rehagen
+– Am 13. Dezember 2016 für Am Rehagen
 
- Am 24. Dezember 2016 für östlich Haferblöcken
+– Am 24. Dezember 2016 für östlich Haferblöcken
 
- Am 24. Dezember 2016 für Eiffestraße
+– Am 24. Dezember 2016 für Eiffestraße
 
- Am 27. Dezember 2016 für den 1. Bauabschnitt Suurheid
+– Am 27. Dezember 2016 für den 1. Bauabschnitt Suurheid
 
 Darüber hinaus siehe Drs. 21/6666. Zu Baubeginn und Fertigstellung siehe Drs. 21/10168.
 

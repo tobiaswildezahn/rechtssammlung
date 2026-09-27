@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62767"
@@ -53,7 +54,7 @@ Wie viele Kinder und Jugendliche mit besonders herausforderndem sozialen Verhalt
 
 Wie viele dieser oben genannten Kinder und Jugendlichen konnten trotz der Meldung durch die Schulen, Allgemeine Soziale Dienste, Familienhilfen oder Familien Intervention Teams (FIT) nicht an einer Temporären Lerngruppe teilnehmen? Bitte für die Jahre 2015, 2016 und 2017 darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Alle Schülerinnen und Schüler, die gemeinsam in Abstimmung von Schule, ReBBZ, Allgemeinem Sozialen Dienst oder Familieninterventionsteam vorgeschlagen worden sind, wurden auch in einer temporären Lerngruppe versorgt. Im Übrigen siehe Anlage.
 

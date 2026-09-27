@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 3
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18203"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67936"
@@ -51,6 +52,6 @@ Welchen Bedarf hat die FHH für Zwecke des sozialen Wohnungsbaus wann beim Bund 
 
 Wurden von der FHH auch über das Jahr 2020 hinaus bereits entsprechende Bedarfe beim Bund angemeldet? Wenn ja, in jeweils welcher jährlichen Höhe?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.

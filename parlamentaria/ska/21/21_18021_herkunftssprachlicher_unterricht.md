@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67633"
@@ -61,15 +62,15 @@ Das herkunftssprachliche Unterrichtsangebot wird in Hamburg kontinuierlich auf G
 
 Das herkunftssprachliche Unterrichtsangebot wurde in den Jahren 2016 bis 2019 vor allem in den folgenden Sprachen gezielt ausgebaut:
 
- Türkisch: Die Anzahl der Schülerinnen und Schüler mit Familiensprache Türkisch
+– Türkisch: Die Anzahl der Schülerinnen und Schüler mit Familiensprache Türkisch
 
 stellt nach wie vor die größte Sprachgruppe nach Deutsch dar. Zum Schuljahr 2018/2019 wurden insgesamt 46 zusätzliche Türkisch-Kurse an 17 Schulstandorten neu eingerichtet.
 
- Arabisch: In den Jahren seit 2014 ist eine große Anzahl von Schülerinnen und
+– Arabisch: In den Jahren seit 2014 ist eine große Anzahl von Schülerinnen und
 
 Schülern mit Familiensprache Arabisch neu nach Hamburg zugewandert. Es handelt sich durchgängig um die größte Sprachgruppe unter den Geflüchteten. Zum Schuljahr 2017/2018 wurden insgesamt acht neue Arabisch-Kurse an fünf Schulstandorten eingerichtet, die zum Schuljahr 2018/2019 auf zwölf neue Arabisch- Kurse an fünf Schulstandorten erweitert wurden.
 
- Italienisch und Spanisch: Neben den genannten Ausbaumaßnahmen für Türkisch
+– Italienisch und Spanisch: Neben den genannten Ausbaumaßnahmen für Türkisch
 
 und Arabisch wurde auch das Angebot in Italienisch und Spanisch ausgeweitet.
 
@@ -83,15 +84,15 @@ Welche Formen von herkunftssprachlichen Unterrichtsangeboten gibt es an Hamburge
 
 In direkter Verantwortung der für Bildung zuständigen Behörde werden die folgenden drei Formen von herkunftssprachlichem Unterricht angeboten:
 
- Herkunftssprachlicher Unterricht als freiwilliger zusätzlicher Unterricht, in der Regel
+– Herkunftssprachlicher Unterricht als freiwilliger zusätzlicher Unterricht, in der Regel
 
 dreistündig, vorwiegend in der Grundschule – ab der Vorschulklasse – und in den Jahrgangsstufen 5 und 6.
 
- Herkunftssprachlicher Unterricht als Wahlpflicht- beziehungsweise Fremdspra-
+– Herkunftssprachlicher Unterricht als Wahlpflicht- beziehungsweise Fremdspra-
 
 chenunterricht anstelle der zweiten. oder dritten Fremdsprache in der Sekundarstufe I oder als Fremdsprachenangebot in der Sekundarstufe II.
 
- Herkunftssprachlicher Unterricht als bilinguales Unterrichtsangebot. Die bilingualen
+– Herkunftssprachlicher Unterricht als bilinguales Unterrichtsangebot. Die bilingualen
 
 Angebote erfolgen auf der Grundlage von Kooperationsabkommen mit den entsprechenden Ländern, unterstehen aber in vollem Umfang der Weisungspflicht der zuständigen Schulleitung und Schulaufsicht. Derzeit gibt es Kooperationsabkommen mit Spanien, Portugal, Italien und der Türkei.
 
@@ -105,13 +106,13 @@ Welche Formen von herkunftssprachlichen Unterrichtsangeboten gibt es an Hamburge
 
 Folgende Angebote werden in Verantwortung anderer Träger auf der Basis einer Zuwendung der zuständigen Behörde erteilt:
 
- Herkunftssprachlicher Unterricht auf Honorarbasis für seltener vertretene Spra-
+– Herkunftssprachlicher Unterricht auf Honorarbasis für seltener vertretene Spra-
 
 chen. Dieses niedrigschwellige Angebot wird vom Träger Verikom e.V. organisiert. Im Schuljahr 2019/2020 gibt es zum Beispiel Angebote für die Sprachen Aramäisch, Dari und Paschtu.
 
- Muttersprachlicher Ergänzungsunterricht (= Konsulatsunterricht)
+– Muttersprachlicher Ergänzungsunterricht (= Konsulatsunterricht)
 
- Im Schuljahr 2019/2020 bestanden Angebote von Konsulaten/Botschaften der
+– Im Schuljahr 2019/2020 bestanden Angebote von Konsulaten/Botschaften der
 
 Staaten Türkei, Portugal, Spanien, Kroatien und Serbien.
 

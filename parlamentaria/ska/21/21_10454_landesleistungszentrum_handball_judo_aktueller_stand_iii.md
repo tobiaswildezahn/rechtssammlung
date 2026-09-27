@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59327"
@@ -74,7 +75,7 @@ Wann erfolgt der Baubeginn? Sollte der Baubeginn nicht in 2017 erfolgen: Aus wel
 
 Wann ist mit der Fertigstellung und Inbetriebnahme des LLZ zu rechnen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der Baubeginn soll schnellstmöglich nach Abschluss der Kampfmittelsondierung erfolgen. Im Übrigen siehe Antwort zu 1.
 

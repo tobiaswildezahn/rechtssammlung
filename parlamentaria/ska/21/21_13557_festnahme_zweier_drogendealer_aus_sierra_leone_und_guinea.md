@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62929"
@@ -79,19 +80,19 @@ Im Hinblick auf das Persönlichkeitsrecht der Betroffenen und die gesetzlichen W
 
 den einen Beschuldigten keine und betreffend den anderen Beschuldigten folgende mitteilungsfähige Eintragungen:
 
- Urteil des AG Hamburg vom 1. August 2007 wegen vorsätzlichen unerlaubten
+– Urteil des AG Hamburg vom 1. August 2007 wegen vorsätzlichen unerlaubten
 
 Handeltreibens mit Betäubungsmitteln zu einer Geldstrafe von 60 Tagessätzen
 
- Urteil des AG Hamburg-Altona vom 15. August 2008 wegen unerlaubten Handel-
+– Urteil des AG Hamburg-Altona vom 15. August 2008 wegen unerlaubten Handel-
 
 treibens mit Betäubungsmitteln zu einer Geldstrafe von 120 Tagessätzen
 
- Urteil des AG Hamburg-Barmbek vom 22. Juli 2009 wegen gewerbsmäßigen uner-
+– Urteil des AG Hamburg-Barmbek vom 22. Juli 2009 wegen gewerbsmäßigen uner-
 
 laubten Handeltreibens mit Betäubungsmitteln zu einer Freiheitsstrafe von einem Jahr fünf Monaten mit Bewährung
 
- Urteil des AG Hamburg vom 24. April 2013 wegen vorsätzlichen unerlaubten Han-
+– Urteil des AG Hamburg vom 24. April 2013 wegen vorsätzlichen unerlaubten Han-
 
 deltreibens mit Betäubungsmitteln zu einer Freiheitsstrafe von einem Jahr drei Monaten mit Bewährung
 

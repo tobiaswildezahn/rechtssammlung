@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18928", "21/13605"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69003"
@@ -49,7 +50,7 @@ Wie viele Platznachweisverfahren wurden seit 2018 im Bezirk Altona angestrebt? B
 
 Wie viele offene Platznachweisverfahren wurden seit 2018 im Bezirk Altona bearbeitet? Bitte jährlich aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Seit Ende 2018 wird die Anzahl der Nachweisverfahren monatlich von den Abteilungen Kindertagesbetreuung der Bezirksämter systematisch erfasst. Im Bezirk Altona wurden für diesen Zeitraum im Jahr 2018 zwei Anträge auf Nachweisverfahren gestellt. Im Jahr 2019 sind bisher 17 Anträge auf Nachweisverfahren eingegangen.
 

@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 27
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15904", "21/7290", "21/14054", "21/9608", "21/3845"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65672"
@@ -116,7 +117,7 @@ Gehören das Festhalten von Kindern in den Einrichtungen und das Streitschlichte
 
 Warum können diese Aufgaben nicht mehr von den pädagogischen Fachkräften übernommen werden?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Grundsätzlich gehört auch der Umgang mit Konflikten, das Streitschlichten und Beruhigen eines Kindes mit körperlichem Kontakt zu den Aufgaben der pädagogischen Fachkräfte.
 
@@ -138,7 +139,7 @@ Wie oft kam es seit Beginn des Security-Einsatzes vor, dass ein Security-Mitarbe
 
 Wie alt war das jüngste Kind, das von einem Security-Mitarbeiter festgehalten wurde? Wie alt war das älteste Kind?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Da die hier erfragten Informationen jeweils nur auf eine Person zutreffen, wären die betroffenen Personen anhand dieser Informationen, zumindest für Stellen mit Zusatzkenntnissen, identifizierbar. Die erfragten Informationen haben deshalb Personenbezug (vergleiche Artikel 4 Nummer 1 DS-GVO). Es handelt sich damit um geschützte Sozialdaten im Sinne der §§ 35 SGB I, 61 ff SGB VIII, 67 ff SGB X, die der Senat gemäß § 67 b Absatz 1 SGB X nur bei Vorliegen einer gesetzlichen Übermittlungsbefugnis im SGB oder gemäß Artikel 6 Absatz 1 S. 1 Buchst. a DS-GVO mit Einwilligung der Betroffenen weitergeben darf. Das SGB enthält keine Übermittlungsbefugnis zugunsten der Beantwortung Parlamentarischer Anfragen. Eine Einwilligung der Betroffenen zur Datenübermittlung liegt nicht vor. Der Senat ist daher aus Gründen des Sozialdatenschutzes nach § 35 SGB I, §§ 61 ff SGB VIII, §§ 67 ff SGB X an der Beantwortung der Fragen in der erfragten Detaillierung gehindert. Eine Antwort ist daher nur wie folgt zusammengefasst möglich:
 
@@ -168,7 +169,7 @@ In Frage 18. hatten wir nach besonderen Vorkommnissen gefragt. In drei Fällen w
 
 In zwei Fällen erfolgte ein Übergriff auf einen Betreuer. Waren die Verursacher Kinder oder andere Erwachsene?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 In vier Fällen waren Kinder die Verursacher, in einem weiteren Fall handelte es sich um einen Verdacht, der im Weiteren nicht bestätigt werden konnte. Deshalb blieben die konkrete Situation und damit auch der mögliche Verursacher unklar. Im Übrigen siehe Antwort zu 13.
 

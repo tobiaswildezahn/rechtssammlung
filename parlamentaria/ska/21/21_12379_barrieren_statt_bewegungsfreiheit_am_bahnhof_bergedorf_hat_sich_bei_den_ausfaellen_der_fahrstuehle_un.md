@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61669"
@@ -47,7 +48,7 @@ Wie oft sind seit 2012 die Fahrstühle und die Rolltreppen im Bergedorfer Bahnho
 
 Wie lange hat der Ausfall jeweils gedauert? Bitte in Minuten angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine Übersicht liegt der DB Station&Service AG nicht vor.
 

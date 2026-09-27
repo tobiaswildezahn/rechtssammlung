@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2976", "21/3227", "21/3646", "21/3915", "21/4293", "21/4734", "21/5124", "21/5453", "21/5812", "21/6222", "21/6544", "21/7162", "21/7420", "21/2836"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56270"
@@ -274,7 +275,7 @@ Wie viele der Asylanträge wurden seit Inbetriebnahme des Ankunftszentrums dort 
 
 Wie viele Mitarbeiter beschäftigte das BAMF mit Stand Ende 2016 insgesamt in Hamburg und wie viele davon im Ankunftszentrum?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Das BAMF hat im Ankunftszentrum im vergangenen Jahr nicht nur die Asylanträge der neu eintreffenden Flüchtlinge entgegengenommen, sondern auch Personen vorgeladen, die bereits vor Eröffnung des Ankunftszentrums nach Hamburg gekommen sind. Zahlen zu Anträgen, Bescheiden und Mitarbeitern liegen der zuständigen Behörde nicht vor. Das BAMF hat mitgeteilt, keinen Beitrag zur Verfügung zu stellen, da das BAMF als Bundesbehörde nicht der parlamentarischen Kontrolle durch das Parlament der Freien und Hansestadt Hamburg unterliege und zu einer freiwilligen Beantwortung gegenwärtig nicht bereit sei.
 

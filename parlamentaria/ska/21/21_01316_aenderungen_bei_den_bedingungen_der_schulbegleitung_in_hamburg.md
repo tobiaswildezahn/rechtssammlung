@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 33
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1047"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49531"
@@ -150,7 +151,7 @@ Wie vielen der Kinder mit Schulbegleitungsbedarf wurde in 2015/2016 erneut diese
 
 Bei wie vielen der Kinder mit Schulbegleitungsbedarf fand eine niedrigere Einstufung der Art von Betreuungskräften statt? Bei wie vielen eine höhere? (Bitte gesamt und jeweils nach Art der alten und neuen Betreuungsqualität in psyB und gkmEB aufschlüsseln.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die erfragte Art der fallbezogenen Datenverknüpfung ist im Rahmen der für die Steuerung des Einsatzes von Schulbegleitungen eingesetzten Verfahren der Datenverarbeitung nicht herzustellen. Daher liegen keine Daten zur individuellen, längsschnittbezogenen Entwicklung von Schulbegleitungsbedarfen vor.
 
@@ -176,7 +177,7 @@ Auf welcher rechtlichen Grundlage fußend übernimmt jetzt die Schulleitung die 
 
 Haben die Eltern bei der Beauftragung durch die Schulen/den Senat ein Widerspruchs- oder Wahlrecht hinsichtlich des zu beauftragenden Anbieters beziehungsweise der Qualifikationsstufe der Begleitkraft? (Bitte erläutern.) a. Wenn nein, wie beurteilt und rechtfertigt der Senat dieses Vorgehen auf fachlicher Ebene? (Bitte ausführlich erläutern.) b. Wenn nein, auf Basis welcher rechtlichen Grundlage und fachlichen Begründung übernimmt jetzt die Schulleitung Zuweisung von Schulbegleitern/-innen anstatt der Eltern? (Bitte mit Nennung der betreffenden Rechtsgrundlage ausführlich darlegen.) c. Inwieweit ist dieses Vorgehen des Senats, seiner Ansicht nach, mit dem Elternwunsch in Schulfragen vereinbar? (Bitte erläutern.) d. Aus welchen Gründen und wozu genau benötigt der Senat für die Beantragung von Schulbegleitung dennoch vorweg die Zustimmung der Eltern und was geschieht, wenn diese Zustimmung der Eltern nicht erteilt wird? (Bitte erläutern.)
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Rechtsgrundlage für die neuen Verfahren zur Steuerung des Einsatzes von Schulbegleitung ist das Hamburgische Schulgesetz (HmbSG). § 1 HmbSG verpflichtet die Schulen, eine angemessene Bildungsteilhabe für alle in Hamburg lebenden jungen Menschen sicherzustellen. § 12 Absatz 4 HmbSG hat diese Aufgabe im Sinne des Ziels inklusiver Bildung für Schülerinnen und Schüler mit sonderpädagogischem Förderbedarf präzisiert. Die Auswahl des Lernortes, die Zusammensetzung der Klassen und die Ausstattung der Schulen sollen so erfolgen, dass die Gewährung individueller Eingliederungsleistungen, die die Familien mit bürokratischem Aufwand belasten und tendenziell exklusiv wirken, vermieden wird, dies gilt nicht für solche Leistungen, die einer besonderen fachlichen Steuerung bedürfen, wie etwa diejenigen, für die die Krankenkassen Sozialleistungsträger sind.
 

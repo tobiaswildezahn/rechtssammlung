@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 20
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8541", "21/3866", "21/8929"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58029"
@@ -129,7 +130,7 @@ Angesichts der vermehrten Unterbringung von Geflüchteten in der Region 20 gibt 
 
 Ist es richtig, dass schulpflichtige geflüchtete Kinder im laufenden Schuljahr zugeschult werden können? Wenn ja, an welchen Grundschulstandorten der Region 20 gibt es dafür die nötigen Schulplätze? (Bitte näher erläutern.)
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 In der Region 20 befinden sich derzeit 247 Kinder im Grundschulalter in öffentlichrechtlicher Unterbringung. Die Daten zur Altersstruktur in den Unterkünften der öffentlich-rechtlichen Unterbringung geben die dort untergebrachten Kinder unabhängig davon wieder, ob sie zur Personengruppe der Wohnungslosen beziehungsweise zur Personengruppe der Zuwanderer gehören. Für diese Kinder gibt es an sechs Grundschulstandorten elf Internationale Vorbereitungsklassen (IVK), zu den Standorten siehe Anlage. Zudem wird eine IVK am Standort Heidhorst vorgehalten, um die Kinder der weiteren Belegungsabschnitte am Mittleren Landweg aufnehmen zu können. Für die Regelbeschulung kommen grundsätzlich alle Schulstandorte infrage, die in altersentsprechend zumutbarer Entfernung zu den Unterkünften liegen. Insgesamt gibt es in der Region 20 derzeit 193 Grundschulklassen. Da die Klassengrößen in den IVK aufgrund unterjähriger Ein- und Umschulungen und in den Regelklassen aufgrund von Zu- und Wegzügen ständigen Änderungen unterworfen sind, ändert sich die Anzahl der freien Plätze täglich. Die Platzzuweisung erfolgt mit Rücksprache der infrage kommenden Schulen nach individueller Prüfung für jeden Einzelfall.
 

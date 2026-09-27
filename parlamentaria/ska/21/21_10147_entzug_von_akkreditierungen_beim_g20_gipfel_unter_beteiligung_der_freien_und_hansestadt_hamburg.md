@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9947", "18/13146"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58973"
@@ -94,7 +95,7 @@ Wann hat das BKA die Namensaufstellung an die Landespolizei Hamburg übermittelt
 
 Wann und mit welcher Begründung wurde die Polizei Hamburg durch das BKA angewiesen, elektronisch zugesandte Listen zu löschen? Wann erfolgte die Löschung?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Das BKA hat der Polizei Hamburg am 7. Juli 2017 ab 14.24 Uhr insgesamt drei Listen mit Personendaten an Objektschutzkräfte der Besonderen Aufbauorganisation (BAO) Michel vor Ort übergeben beziehungsweise elektronisch an den Einsatzabschnitt (EA) Objektschutz der BAO Michel übermittelt.
 
@@ -102,11 +103,11 @@ Es handelte sich um zwei Listen mit jeweils 82 sowie eine kurze Liste mit 35 Per
 
 Das Bereitstellen der Listen durch das BKA an die Polizei Hamburg erfolgte nach den Eintragungen im Einsatzdokumentationssystem EPSweb ab folgenden Zeitpunkten:
 
- 7. Juli 2017, 14.24 Uhr: Übergabe einer Liste mit 82 Personen und der kurzen Liste
+– 7. Juli 2017, 14.24 Uhr: Übergabe einer Liste mit 82 Personen und der kurzen Liste
 
 als Ausdruck in Papierform; im Anschluss erfolgte durch das BKA weiterhin eine elektronische Übermittlung der beiden Listen.
 
- 7. Juli 2017, 15.32 Uhr: Übermittlung einer weiteren Liste mit 82 Personen per E-
+– 7. Juli 2017, 15.32 Uhr: Übermittlung einer weiteren Liste mit 82 Personen per E-
 
 Mail durch das BKA an den EA Objektschutz der BAO Michel.
 

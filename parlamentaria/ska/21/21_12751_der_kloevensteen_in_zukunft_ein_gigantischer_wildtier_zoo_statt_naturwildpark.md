@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 21
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62059"
@@ -87,7 +88,7 @@ Wie hoch sind gegebenenfalls die Kosten für die Gesamterstellung des Masterplan
 
 Aus welchem Haushaltstitel werden sie gegebenenfalls bezahlt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Kosten für die Erstellung des Masterplans belaufen sich auf circa 117.000 Euro. Dieser Betrag wurde aus Spenden finanziert.
 

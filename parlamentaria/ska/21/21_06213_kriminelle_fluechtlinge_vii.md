@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["16/4616"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54732"
@@ -37,13 +38,13 @@ Vor diesem Hintergrund frage ich den Senat:
 
 Mit dem Begriff des Flüchtlings werden in der öffentlichen Diskussion häufig nur die Personengruppen assoziiert, die seit 2015 nach Deutschland beziehungsweise Hamburg geflohen sind. Diese dynamische Größe kann in einer bundesweit einheitlich geführten Massenstatistik wie der Polizeilichen Kriminalstatistik (PKS) nicht abgebildet werden. Sie ergibt sich aus dem Ermittlungsvorgang selbst. In der PKS wird bei der Erfassung der Daten von Tatverdächtigen (TV) der Aufenthaltsstatus erhoben. Für die Erfassung des Aufenthaltsstatus/Grund des Aufenthalts wurden zum 1. Januar 2016 die Kategorien „International/national Schutzberechtigte“ und „Asylberechtigte“ neu eingeführt. TV mit Flüchtlingsstatus werden nach vier Unterkategorien wie folgt erfasst:
 
- Asylverfahren, unterteilt in
+– Asylverfahren, unterteilt in
 
 o Asylbewerber,
 
 o international/national Schutzberechtigte und Asylberechtigte sowie
 
- Duldung/Kontingentflüchtlinge, unterteilt in
+– Duldung/Kontingentflüchtlinge, unterteilt in
 
 o Duldung (Abschiebungshindernisse nach Abschluss des Asylverfahrens),
 
@@ -93,31 +94,31 @@ Wie viele Tatverdächtige im Bereich a. der Straftaten gegen das Leben, b. der S
 
 Hinsichtlich der in der PKS erfassten TV ist zu beachten:
 
- Die Anzahl der TV der Straftaten gegen die sexuelle Selbstbestimmung (Frage
+– Die Anzahl der TV der Straftaten gegen die sexuelle Selbstbestimmung (Frage
 
 2. b.) umfasst die Tatverdächtigen der Vergewaltigung/sexuellen Nötigung (Frage
 2. b. i.).
 
- Die Anzahl der TV der Raubdelikte insgesamt (Frage 2. d.) wird in der PKS unter
+– Die Anzahl der TV der Raubdelikte insgesamt (Frage 2. d.) wird in der PKS unter
 
 der in Frage 2. d. i aufgeführten Raub, räuberische Erpressung und räuberischer Angriff auf Kraftfahrer (PKS-Schlüssel 210000) abgebildet. Dieser PKS-Schlüssel
 
 umfasst die TV des Handtaschenraubes (Frage 2. d. ii.) und der sonstigen Raubüberfälle auf Straßen, Wegen oder Plätzen (Frage 2. d. iii.).
 
- Die Anzahl der TV des Diebstahls insgesamt (Frage 2. f.) umfasst die TV des
+– Die Anzahl der TV des Diebstahls insgesamt (Frage 2. f.) umfasst die TV des
 
 Ladendiebstahls (Frage 2. f. i.), des Taschendiebstahls (Frage 2. f. ii.), des Wohnungseinbruchdiebstahls (Frage 2. f. iii.), des Diebstahls von Kraftwagen (Frage
 2. f. iv.) sowie des Diebstahls an/aus Kraftfahrzeugen (Frage 2. f. v.).
 
- Die Anzahl der TV der Vermögens- und Fälschungsdelikte (Frage 2. g.) umfasst
+– Die Anzahl der TV der Vermögens- und Fälschungsdelikte (Frage 2. g.) umfasst
 
 die TV der Erschleichung von Leistungen (Frage 2. g. i.).
 
- Die Anzahl der TV der Gewaltkriminalität (Frage 2. h.) umfasst unter anderem TV
+– Die Anzahl der TV der Gewaltkriminalität (Frage 2. h.) umfasst unter anderem TV
 
 aus dem Deliktsbereich Straftaten gegen das Leben (Frage 2. a.), der Vergewaltigung/sexuellen Nötigung (Frage 2. b. i.), des Raubes, der räuberischen Erpressung und des räuberischen Angriffs auf Kraftfahrer (Frage 2. d.) sowie TV aus dem Deliktsbereich der Körperverletzung insgesamt (Frage 2. e.).
 
- Die Anzahl der TV der Rauschgiftkriminalität (Frage 2. i.) umfasst die TV des uner-
+– Die Anzahl der TV der Rauschgiftkriminalität (Frage 2. i.) umfasst die TV des uner-
 
 laubten Handel/Schmuggel von Rauschgiften nach § 29 Betäubungsmittelgesetz (Frage 2. i. i.).
 

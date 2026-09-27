@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13803"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67338"
@@ -97,7 +98,7 @@ Welche Fahrgastzahlen werden für die neue S-Bahn-Linie S4 gegenwärtig prognost
 
 Welche Fahrgastzahlen (Ein- und Aussteiger) werden für die einzelnen S4-Stationen prognostiziert?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Für die gesamte neue S-Bahn-Linie S4 (Hamburg-Altona – Jungfernstieg – Hamburg Hbf – Bad Oldesloe) werden für das Jahr 2030 werktäglich 97 100 Linienbeförderungsfälle (Anzahl aller Fahrten, die Fahrgäste auf einer Linie vornehmen) prognostiziert.
 

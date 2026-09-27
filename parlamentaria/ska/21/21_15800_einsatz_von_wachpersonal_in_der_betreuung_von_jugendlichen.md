@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13093", "21/14054"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65303"
@@ -81,7 +82,7 @@ Wie viele der eingesetzten Wachleute sind deutsche Staatsbürger, Doppelstaatler
 
 Hat es in der Vergangenheit bereits Probleme bei der Betreuung der Jugendlichen durch Wachpersonal gegeben? Falls ja, wann und worin haben diese bestanden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Staatsbürgerschaft ist für einen Einsatz im LEB nicht relevant, Informationen zur Staatsangehörigkeit liegen daher beim LEB nicht vor. Entscheidend sind die fachlichen und persönlichen Qualifikationen und die formalen Voraussetzungen für eine Tätigkeit im Sicherheitsgewerbe.
 
@@ -103,6 +104,6 @@ Inwieweit ist sichergestellt, dass die Sicherheit am Standort nicht unter der zu
 
 Hat die Betreuung von Jugendlichen Auswirkungen auf das Gehalt der Wachleute?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Vorbemerkung.

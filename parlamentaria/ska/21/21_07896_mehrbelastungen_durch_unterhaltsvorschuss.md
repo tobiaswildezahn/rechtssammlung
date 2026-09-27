@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7664", "21/7573", "21/6367", "21/4857", "21/6022"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56535"
@@ -105,7 +106,7 @@ Wie viele Kinder in Hamburg werden nach Inkrafttreten der Gesetzesänderung vora
 
 Mit Kosten in welcher Höhe kalkuliert der Senat pro Jahr bei der Auszahlung des Unterhaltsvorschusses nach der Änderung des Unterhaltsvorschussgesetzes in Hamburg? Wie hoch sind die jährlichen Kosten in den vergangenen fünf Jahren jeweils gewesen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Zu den Ausgaben nach dem Unterhaltsvorschussgesetz für die Jahre 2011 bis 2015 siehe Drs. 21/6022 und Drs. 21/6367.Eine Schlussabrechnung der Ausgaben für die Leistungen nach dem Unterhaltsvorschussgesetz für 2016 liegt noch nicht vor.
 

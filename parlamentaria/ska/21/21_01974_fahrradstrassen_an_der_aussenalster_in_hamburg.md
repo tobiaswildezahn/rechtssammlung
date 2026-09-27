@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50221"
@@ -59,45 +60,45 @@ Welche Vorlagen/Unterlagen wurden im Vorwege zu diesem Treffen verteilt? Bitte a
 
 Was wurde im Rahmen des Treffens beschlossen? Bitte das Protokoll/ die Vereinbarung beifügen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Den Beratungen lag eine Präsentation zu den geplanten Änderungsmaßnahmen zugrunde. Zur Umsetzung der folgenden Zielsetzung:
 
- Der Fahrradverkehr auf dem Harvestehuder Weg muss sicher und gleichförmig
+– Der Fahrradverkehr auf dem Harvestehuder Weg muss sicher und gleichförmig
 
 werden.
 
- Der Fußgängerverkehr in der öffentlichen Grün- und Erholungsanlage muss
+– Der Fußgängerverkehr in der öffentlichen Grün- und Erholungsanlage muss
 
 geschützt werden.
 
- Fahrradfahren in der Grün- und Erholungsanlage bleibt für Radfahrer auf dem
+– Fahrradfahren in der Grün- und Erholungsanlage bleibt für Radfahrer auf dem
 
 ehemaligen befestigten Radweg zulässig.
 
 Es wurden folgende kurz- und mittelfristig umzusetzenden Maßnahmen beschlossen:
 
- Die Längsparkparkplätze im Harvestehuder Weg werden an der heutigen Stelle
+– Die Längsparkparkplätze im Harvestehuder Weg werden an der heutigen Stelle
 
 aufgehoben und soweit sinnvoll auf die unbefestigten Nebenflächen verlegt. Die Hochborde werden baulich nicht verändert. Es entsteht in allen Bereichen eine Restfahrbahnbreite von 5,50 m.
 
- Die Signalzeiten am Knoten Krugkoppelbrücke Harvestehuder Weg werden so
+– Die Signalzeiten am Knoten Krugkoppelbrücke Harvestehuder Weg werden so
 
 verändert, dass die Querungszeiten für den Fußgänger- und Radverkehr über den Südostast des Harvestehuder Wegs verlängert werden. Die Ampeln im Mittelweg werden so umgeschaltet, dass ein flüssiges Fahren möglich ist.
 
- Im Bereich der Anliegerstraße südlich Alte Rabenstraße wird aus Sicherheitsgrün-
+– Im Bereich der Anliegerstraße südlich Alte Rabenstraße wird aus Sicherheitsgrün-
 
 den während der Dauer der Baustelle Tempo 30 angeordnet. Ab Fontenay wird eine Tempo-30-Zone eingerichtet und von dort bis nördlich des US-amerikanischen Generalkonsulats das Radfahren in der Einbahnstraße in Gegenrichtung zugelassen.
 
- Im Norden (vor dem Anglo-German Club) wird eine Möglichkeit zur Abfahrt auf die
+– Im Norden (vor dem Anglo-German Club) wird eine Möglichkeit zur Abfahrt auf die
 
 Fahrradstraße geschaffen. Diese wird aus grauen Pflastersteinen hergerichtet. Eine weitere Möglichkeit zur Auffahrt auf die Fahrradstraße wird in Höhe der ersten Querungshilfe, vor der Absperreinrichtung auf dem parallelen Radweg errichtet.
 
- Im Süden, nördlich des Generalkonsulats, wird eine Ableitung für Radfahrer
+– Im Süden, nördlich des Generalkonsulats, wird eine Ableitung für Radfahrer
 
 geschaffen, die von Süden nach Norden fahren.
 
- Der bauliche Radweg, der alsterseits parallel zum Harvestehuder Weg verläuft,
+– Der bauliche Radweg, der alsterseits parallel zum Harvestehuder Weg verläuft,
 
 wird in zwei Bereichen zurückgebaut:
 
@@ -109,7 +110,7 @@ o In dem dazwischenliegenden Bereich wird der Radweg in dem heutigen
 
 Zustand belassen. Dieser Weg in der Parkanlage wird als Übergangslösung insbesondere für die Kinder des Wilhelmgymnasiums geduldet. Sobald die Umbaumaßnahmen im südlichen Bereich, nach Auszug des Generalkonsulats, erfolgt sind, wird die Nutzung des Weges für die Radfahrer eingestellt.
 
- Um zu verhindern, dass der für ruhiges Radfahren im Park vorgesehene ehemali-
+– Um zu verhindern, dass der für ruhiges Radfahren im Park vorgesehene ehemali-
 
 ge Alsterradweg weiterhin als Achse für den durchgehenden Radschnellverkehr genutzt wird, werden an drei Stellen Umlaufsperren eingebaut: Am Nordende der Grünanlage sowie nördlich und südlich des Fährdammes.
 

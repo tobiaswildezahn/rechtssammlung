@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 22
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49933"
@@ -43,7 +44,7 @@ Was genau ist betreffend den Radverkehr am Wiesendamm geplant?
 
 Welchen Abschnitt des Wiesendamms betrifft die geplante Veränderung?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Radverkehr wird zukünftig auf der Südseite des Wiesendamms (in Richtung Osten) im Abschnitt zwischen Goldbekufer und Saarlandstraße auf einem Radfahrstreifen auf der Fahrbahn geführt. In der Gegenrichtung wird die Führung des Radverkehrs nicht verändert.
 
@@ -90,7 +91,7 @@ Trifft es zu, dass die zuständige Behörde diesem Ansinnen zunächst kritisch g
 
 Was hat die zuständige Behörde zu einem Meinungswandel veranlasst?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Das örtliche Polizeikommissariat hat in einer ersten Stellungnahme zur Planung insbesondere eine aus der Zunahme des Parkdrucks resultierende verkehrswidrige Nutzung des Radfahrstreifens für möglich erachtet. Zur Begründung wurde auf die negative Parkraumbilanz bei einer Umsetzung der Planung hingewiesen. Die vorgelegte Planung ist dann eingehend weiter geprüft und bewertet worden. Das Ergebnis war, dass die Maßnahme straßenverkehrsbehördlich umsetzbar und auch gut geeignet ist, den Radverkehr zu fördern sowie Konflikte auf der Nebenfläche und beim Rechtsabbiegen von Kfz zu vermeiden. Die Polizei hat aber gleichwohl darauf hingewiesen, dass sie es weiterhin für erforderlich hält, an anderer Stelle Ersatzparkraum zu schaffen.
 

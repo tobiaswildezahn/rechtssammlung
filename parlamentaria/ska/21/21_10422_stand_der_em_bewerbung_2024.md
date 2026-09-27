@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 25
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3659", "21/9158"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59292"
@@ -69,7 +70,7 @@ Seit wann führte Hamburg Verhandlungen darüber, ob sie als Gaststadt der EM fu
 
 Wo, wann und von wem wurden die Verhandlungen für Hamburg geführt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Deutsche Fußball Bund (DFB) hat im Rahmen einer Präsidiumssitzung am 7. April 2017 das nationale Bewerbungsverfahren um die Austragung der UEFA EURO 2024 eröffnet und als Bewerbungsunterlagen das Bewerbungsformular, das Bewerbungsreglement sowie den Code of Conduct verabschiedet. Die zuständige Behörde hat die Bewerbungsunterlagen am 25. April 2017 an den DFB gesandt. Damit hat die Freie und Hansestadt Hamburg gegenüber dem DFB das verbindliche Interesse bekundet, am nationalen Bewerbungsverfahren um die Austragung der UEFA Euro 2024 teilzunehmen.
 
@@ -97,7 +98,7 @@ Wie hoch werden die Bewerbungskosten für die EM sein? Woraus werden diese bezah
 
 Wer ist an diesen Bewerbungskosten finanziell beteiligt? Der Bund, Hamburg, der DFB und/oder die Sponsoren?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Senat hat sich neben den oben genannten anderen neun Städten bisher nur im nationalen Auswahlverfahren um die Austragung von Spielen der UEFA EURO 2024 befunden. Die Entscheidung über das Ausrichtungsland des Turniers steht noch aus. Sowohl die Kosten für die Bewerbung als auch die Kosten einer möglichen Ausrichtung der UEFA EURO 2024 können vor diesem Hintergrund noch nicht beziffert werden. Gleiches gilt für eine Festlegung der Kostenträger.
 
@@ -141,7 +142,7 @@ Wie wird die finanzielle Beteiligung des Bundes, der Stadt, des DFB oder der UEF
 
 Werden die Sponsoren, der DFB oder die UEFA an den Kosten für Austragung, Sicherheit und der Fanzonen beteiligt?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Antwort zu 5. und 6.
 
@@ -185,40 +186,40 @@ Hat die Stadt Hamburg schon irgendwelche spezifischen Garantien und oder Zusiche
 
 Die Freie und Hansestadt Hamburg hat folgende Garantien im Rahmen des nationalen Bewerbungsverfahrens eingereicht:
 
- Verpflichtung zur Einhaltung von Nachhaltigkeitsstandards der UEFA und zur Betei-
+– Verpflichtung zur Einhaltung von Nachhaltigkeitsstandards der UEFA und zur Betei-
 
 ligung an der Entwicklung eines Nachhaltigkeitskonzepts des DFB für die UEFA EURO 2024
 
- Gewährleistungen zur Austragung der Spiele am Spielort inklusive Planung, Vorbe-
+– Gewährleistungen zur Austragung der Spiele am Spielort inklusive Planung, Vorbe-
 
 reitung, Austragung und Rückbau
 
- Uneingeschränkte Erlaubnis für die UEFA und ihre Partner der Nutzung von Sym-
+– Uneingeschränkte Erlaubnis für die UEFA und ihre Partner der Nutzung von Sym-
 
 bolelementen und Darstellung von Wahrzeichen der Gastgeberstadt im Zusammenhang mit der UEFA EURO 2024
 
- Garantien zur Vermeidung und Unterbindung des sogenannten Ambush Marke-
+– Garantien zur Vermeidung und Unterbindung des sogenannten Ambush Marke-
 
 tings und der Produktpiraterie sowie zum Schutz des geistigen Eigentums und der Markenrechte der UEFA
 
- Verpflichtung der Gastgeberstädte zur Abgabe weiterer Erklärungen nach
+– Verpflichtung der Gastgeberstädte zur Abgabe weiterer Erklärungen nach
 
 Abschluss des nationalen Auswahlverfahrens, zum Beispiel für den Abschluss separater Host-City-Agreements
 
- Verpflichtungen zum Abschluss von Vereinbarungen zur Abwicklung des Flugver-
+– Verpflichtungen zum Abschluss von Vereinbarungen zur Abwicklung des Flugver-
 
 kehrs, inklusive Lande- und Starterlaubnisse
 
- Verpflichtungen des Flughafenbetreibers bezüglich Flughafenbetrieb mit der Opti-
+– Verpflichtungen des Flughafenbetreibers bezüglich Flughafenbetrieb mit der Opti-
 
 on, dass der DFB ein separates Airport-Agreement abschließt
 
- Selbstverpflichtung der von den Gastgeberstädten beauftragten Stellen zur Mitwir-
+– Selbstverpflichtung der von den Gastgeberstädten beauftragten Stellen zur Mitwir-
 
 kung, zum Beispiel öffentliche Unternehmen, inklusive Tochterorganisationen
 
- Garantien zur Gewährleistung der Sicherheit und des Einsatzes von Hilfsdiensten
+– Garantien zur Gewährleistung der Sicherheit und des Einsatzes von Hilfsdiensten
 
- Darlegung von Verträgen mit Dritten, die sich auf die Erfüllung der Verpflichtungen
+– Darlegung von Verträgen mit Dritten, die sich auf die Erfüllung der Verpflichtungen
 
 der Gastgeberstädte zur Durchführung der UEFA EURO 2024 auswirken

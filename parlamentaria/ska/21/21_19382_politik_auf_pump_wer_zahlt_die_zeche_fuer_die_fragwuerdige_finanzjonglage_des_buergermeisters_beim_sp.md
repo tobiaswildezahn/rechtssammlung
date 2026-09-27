@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19353"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69095"
@@ -81,7 +82,7 @@ Welchen Defizitbedarf haben die vom Hamburg-Takt betroffenen VVU aktuell für da
 
 Welchen Defizitbedarf haben die vom Hamburg-Takt betroffenen VVU aktuell für die Jahre ab 2021 angemeldet? Inwiefern und in welcher Höhe haben sich hierbei jeweils Veränderungen infolge der Einberechnung des Hamburg-Taktes ergeben?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Fragen 2. und 3. betreffen die Planungsrechnungen öffentlicher Unternehmen, die Beratungsgegenstände der Aufsichtsräte dieser Unternehmen sind. Diese unterliegen der Vertraulichkeit. Der Senat sieht grundsätzlich davon ab, über Beratungen von Aufsichtsräten zu berichten.
 

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12056", "21/1000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52529"
@@ -95,7 +96,7 @@ Welche Diagnosen nach dem ICD-10-GM kamen bei Fehltagen im Zeitraum 2012 bis 201
 
 Welche psychischen Erkrankungen nach dem ICD-10-GM kamen für welche Branchen im Zeitraum 2012 bis 2016 am häufigsten vor? Bitte aufschlüsseln nach Jahr, Benennung und Anzahl der ICD-10-GM- Diagnosen, die zu psychischen Krankheiten zählen, Geschlecht, Name und Sitz sowie Größe der Behörde der FHH.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Hierzu können keine Angaben gemacht werden. Eine Erhebung dieser nach § 5 Absatz 1 Satz 2 des Hamburgischen Datenschutzgesetzes (HmbDSG) besonders schutzwürdigen Daten ist mangels einer Rechtsgrundlage im Sinne des § 28 Absatz 1 HmbDSG nicht zulässig.
 

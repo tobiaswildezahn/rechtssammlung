@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2257", "21/12397", "21/13190"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63953"
@@ -61,15 +62,15 @@ Wie lange dauert die Fahrt mit der bisherigen Linie 39 vom Eidelstedter Platz, v
 
 Wie lange wird die Fahrzeit zukünftig mit der Linie 392 vom Eidelstedter Platz, vom Rathaus Stellingen beziehungsweise von Hagenbecks Tierpark jeweils bis zur Haltestelle Hamburg Airport dauern?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Fahrzeiten zur Haltestelle S Hamburg-Airport betragen sowohl mit der jetzigen SchnellBus-Linie 39 als auch mit der künftigen StadtBus-Linie 392 je nach Tageszeit
 
- von der Haltestelle Eidelstedter Platz 41 bis 48 Minuten,
+– von der Haltestelle Eidelstedter Platz 41 bis 48 Minuten,
 
- von der Haltestelle Rathaus Stellingen 33 bis 37 Minuten und
+– von der Haltestelle Rathaus Stellingen 33 bis 37 Minuten und
 
- von der Haltestelle Hagenbecks Tierpark 31 bis 34 Minuten.
+– von der Haltestelle Hagenbecks Tierpark 31 bis 34 Minuten.
 
 ### Frage 4
 
@@ -79,15 +80,15 @@ Wie viele Gäste nutzen die Linie 39 derzeit zwischen Eidelstedter Platz, vom Ra
 
 Im Jahr 2017 fand auf der SchnellBus-Linie 39 eine Fahrgasterhebung statt. Danach fuhren mit dieser Linie zur Haltesstelle S Hamburg Airport durchschnittlich
 
- 20 Fahrgäste pro Werktag (das heißt 0,43 Fahrgäste pro Fahrt) von Eidelstedter
+– 20 Fahrgäste pro Werktag (das heißt 0,43 Fahrgäste pro Fahrt) von Eidelstedter
 
 Platz,
 
- 1 Fahrgast pro Werktag (das heißt 0,02 Fahrgäste pro Fahrt) von Rathaus Stellin-
+– 1 Fahrgast pro Werktag (das heißt 0,02 Fahrgäste pro Fahrt) von Rathaus Stellin-
 
 gen und
 
- 12 Fahrgäste pro Werktag (das heißt 0,26 Fahrgäste pro Fahrt) von Hagenbecks
+– 12 Fahrgäste pro Werktag (das heißt 0,26 Fahrgäste pro Fahrt) von Hagenbecks
 
 Tierpark.
 

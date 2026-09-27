@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/20222", "21/18512"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70046"
@@ -85,7 +86,7 @@ Wie groß ist die landwirtschaftliche Fläche, die in Hamburg an nicht hauptberu
 
 Wer war jeweils Verkäufer (privat oder die Freie und Hansestadt Hamburg)?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Freie und Hansestadt Hamburg hat in den letzten fünf Jahren rund 3,5 ha landwirtschaftliche Flächen aus dem eigenen Bestand an sieben nicht hauptberufliche Landwirte und Landwirtinnen (jeweils bisherige Pächter oder deren Angehörige) unter Beibehaltung der bisherigen Zweckbestimmung der Pachtverträge verkauft. Im Übrigen sieht der Senat zur Wahrung seiner Verhandlungsposition und der Betriebs- und Geschäftsgeheimnisse von Vertragspartnern grundsätzlich in ständiger Praxis davon ab, zu Einzelheiten von Immobilienverkäufen Auskunft zu geben.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9064"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58075"
@@ -47,7 +48,7 @@ Für wie viele Delegationen sind nach heutigem Stand Kolonnenfahrten a. mit durc
 
 Wie viele Hotelstandorte in Hamburg und außerhalb gibt es a. insgesamt für die Delegationen des G20-Gipfels, b. ausschließlich für die Delegationen, die in Kolonnenfahrten mit durchgängigem Verlauf vom Hotel zum jeweiligen Veranstaltungsort gebracht werden müssen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Planungen hierzu sind noch nicht abgeschlossen. Teilweise werden vollständige Straßensperrungen erforderlich sein. Im Übrigen siehe Drs. 21/9064.
 

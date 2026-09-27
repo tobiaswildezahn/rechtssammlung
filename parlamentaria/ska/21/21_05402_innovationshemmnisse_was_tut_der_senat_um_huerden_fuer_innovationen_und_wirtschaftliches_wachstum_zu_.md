@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3823", "21/5037", "21/1687", "20/10313", "20/10411", "21/4782", "21/1949", "21/1846", "21/4982", "21/5160"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53891"
@@ -65,7 +66,7 @@ beantworten.
 
 Ist darüber hinaus der Abbau weiterer bürokratischer Hemmnisse für die Wirtschaft geplant? Wenn ja, im Rahmen welcher konkreten Initiativen und in welchem zeitlichen Rahmen? Bitte detailliert und ohne Verweis auf andere Drucksachen aufführen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Senat betrachtet den Abbau bürokratischer Hemmnisse als fortwährende Aufgabe (siehe Drs. 21/3823). Beispielhaft wird hierfür das Hamburgische Gesetz über die Fortentwicklung des Anerkennungsverfahrens für ausländische Berufsqualifikationen (HmbFABQG) vom 15. Dezember 2015 genannt. Es sieht die zwischenzeitlich fristgerecht realisierte Einrichtung eines sogenannten Einheitlichen Ansprechpartners (EA) und die erweiterte Möglichkeit der elektronischen Verfahrensabwicklung für Personen, die die Anerkennung ihrer Berufsqualifikationen anstreben, vor. Auch der vom Senat vorgelegte Gesetzentwurf zur Änderung des Hamburgischen Wegegesetzes (HWG) und der Einheitssätze-Verordnung (EsV) sieht mit dem Verzicht auf die Erhebung von Ausbaubeiträgen eine Erleichterung für Unternehmen vor, soweit sie beitragspflichtige Grundstückseigentümerinnen und Grundstückseigentümer sind (siehe Drs. 21/5037). Wesentliche weitere Potenziale resultieren aus Sicht des Senats in Zukunft aus einer verstärkten Digitalisierung von Verwaltungsprozessen.
 

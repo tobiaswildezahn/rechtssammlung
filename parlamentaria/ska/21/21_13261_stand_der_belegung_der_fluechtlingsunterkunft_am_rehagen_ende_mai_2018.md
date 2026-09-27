@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 24
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2108", "21/12038", "21/10232"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62604"
@@ -190,7 +191,7 @@ Welche Angebote werden den Flüchtlingen zu jeweils welchen Zeiten in welchen R�
 
 Wie viele Ehrenamtliche sind eingesetzt und wie helfen sie?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Derzeit sind acht Ehrenamtliche in der Unterkunft tätig und organisieren an den Tagen der Einzüge ein Begrüßungscafé. Weitere Angebote werden sukzessive mit dem Einzug der Bewohner aufgebaut.
 
@@ -220,6 +221,6 @@ Zu wann soll der Quartiersbeirat eingerichtet werden?
 
 Die Bezirksversammlung Wandsbek hat die Drs. 20-5677 im März 2018 beschlossen. Die sieht zahlreiche Regelungen bezüglich der Belegung vor. Damit deren Einhaltung nachvollziehbar ist, soll der Quartiersbeirat halbjährlich über die Belegungssituation informiert werden. Ab wann soll diese Berichterstattung erfolgen?
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Der Quartiersbeirat wird zum 28. Juni 2018 eingerichtet. Im Anschluss wird diesem über die Belegung berichtet.

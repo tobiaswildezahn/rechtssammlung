@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 27
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/3641", "20/10803", "20/10965", "21/4671", "21/11428"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63985"
@@ -37,17 +38,17 @@ Laut Homepage der BSB zeichnet Schwerpunktschulen in Hamburg Folgendes aus:
 
 ## Einleitung für die Antworten des Senats
 
- Eine barrierefreie Schule – Schülerinnen und Schüler im Rollstuhl oder mit
+– Eine barrierefreie Schule – Schülerinnen und Schüler im Rollstuhl oder mit
 
 Sehbeeinträchtigungen haben ohne Hindernisse Zugang zu allen Räumen der Schule.
 
- Bestimmte Räume sind zudem speziell auf hörbehinderte Kinder ausge-
+– Bestimmte Räume sind zudem speziell auf hörbehinderte Kinder ausge-
 
 richtet.
 
- Es gibt besondere Ausstattungen und Rückzugsräume.
+– Es gibt besondere Ausstattungen und Rückzugsräume.
 
- Das Fachpersonal ist besonders kompetent in den Förderschwerpunkten
+– Das Fachpersonal ist besonders kompetent in den Förderschwerpunkten
 
 und verfügt über Erfahrung in Diagnostik, individueller Förderung und Förderplanung.
 
@@ -93,7 +94,7 @@ Ist die Anzahl der im Einleitungstext dargestellten Schwerpunktschulen noch aktu
 
 Bitte die aktuellen Schwerpunktschulen nach Schulform, KESS-Faktor und Stadtteil/Bezirk in einer Tabelle auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ja. Im Übrigen siehe Anlagen 1 und 2.
 
@@ -151,7 +152,7 @@ Was ist die Begründung für das Modellprojekt „Schwerpunktschulen stärken“
 
 Bezogen auf das im Einleitungstext zitierte Versprechen der Behörde, sieht sie Handlungsbedarf, weil es sich nicht bewahrheitet hat?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Vorbemerkung.
 

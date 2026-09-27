@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 19
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58468"
@@ -69,7 +70,7 @@ Grundsätzlich nein. Der Förderumfang ist allerdings durch die jährlich verfü
 
 Wie hoch war beziehungsweise ist das Gesamtbudget des Programms im Plan? (Bitte jahresweise seit 2014 angeben.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Mittel werden aus der Produktgruppe 25.102 „Künste, kulturelles Leben, Kreativwirtschaft“ des Einzelplans 3.3 bereitgestellt. Seit 2003 beträgt das jährliche Gesamtbudget 250.000 Euro.
 

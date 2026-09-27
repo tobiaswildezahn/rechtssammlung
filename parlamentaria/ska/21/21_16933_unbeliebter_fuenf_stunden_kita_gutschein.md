@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66518"
@@ -55,7 +56,7 @@ Wie viele Fünf-Stunden-Kita-Gutscheine sind jeweils 2017 und 2018 beantragt wor
 
 Wie viele Fünf-Stunden-Kita-Gutscheine sind jeweils 2017 und 2018 bewilligt worden? Bitte nach Stadtteilen und Bezirken aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe nachstehende Tabelle:
 

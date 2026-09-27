@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17895", "21/17974", "21/17583", "21/17826"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68968"
@@ -91,7 +92,7 @@ Sollen noch im Jahr 2019 die ersten Auszubildenden mit Fluchthintergrund einzieh
 
 Welche monatlichen Kosten werden dann je Platz voraussichtlich entstehen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung.
 

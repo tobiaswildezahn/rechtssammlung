@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13044", "21/15706", "21/15560", "21/15509", "21/9012", "21/2095", "21/15398", "21/15401"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65308"
@@ -59,7 +60,7 @@ Welche neuen Standorte mit jeweils wie vielen Plätzen sind für das Jahr 2019 g
 
 Welche Standort-Schließungen mit jeweils wie vielen Plätzen stehen für das Jahr 2019 an?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Antwort zu 1.
 

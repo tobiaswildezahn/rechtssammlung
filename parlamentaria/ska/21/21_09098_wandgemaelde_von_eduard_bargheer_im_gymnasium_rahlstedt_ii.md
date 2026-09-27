@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7446"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57857"
@@ -77,7 +78,7 @@ Wie sollen die drei Wandgemälde zukünftig verwendet werden?
 
 Inwieweit können die drei Wandgemälde weiterhin im Gymnasium Rahlstedt (zum Beispiel im Atrium) eingebaut werden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Sie werden im Neubau des Gymnasiums wieder eingebaut.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 11
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15111", "21/11094"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65046"
@@ -77,7 +78,7 @@ a) welche sind dies im Einzelnen und zu welchen Aspekten erfolgt die Zusammenarb
 b) welches Finanzvolumen umfasst die Kooperation mit den weiteren Projektpartnern jeweils?
 c) warum werden diese weiteren Projektpartner nicht in dem in Drs. 21/15111 enthaltenen Schreiben vom Präses der BWVI erwähnt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Agenturen werden mit einer Vielzahl von Partnerinnen und Partnern zusammenarbeiten. Diese stehen derzeit noch nicht fest. Die zwischen den Agenturen und den
 

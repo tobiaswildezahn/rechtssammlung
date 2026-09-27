@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 16
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66233"
@@ -110,7 +111,7 @@ Welche Erfahrungen liegen schon vor zur den Projektzielen:
 - Sicherheit
 - Ökologie? (Beziehungsweise an welche „ökologischen„ Gesichtspunkte wird im Zusammenhang mit der Blockchain/DLT-Technologie konkret gedacht?) Bitte detailliert erläutern.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 
@@ -130,7 +131,7 @@ Haben sich aufgrund erster Erfahrungen mit „ROboB“ beziehungsweise den einge
 
 Die Blockchain-Technologie gerät Presseberichten zufolge auch zunehmend ins Blickfeld der Wettbewerbspolitik. Dabei geht es vor allem um die Frage, ob für junge Unternehmen durch die Blockchain-Technologie nicht zu hohe Zugangshürden für einen Marktzutritt errichtet werden. Welche Anstrengungen unternehmen die an „ROboB“ beteiligten Akteure, gerade junge Unternehmen und Start-ups in das Projekt einzubinden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 

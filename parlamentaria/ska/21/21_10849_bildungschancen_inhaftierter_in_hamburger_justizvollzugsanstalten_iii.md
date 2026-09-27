@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8066", "21/4307"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59761"
@@ -308,7 +309,7 @@ Plant der Senat das Angebot der Ausbildungskurse für die berufliche Qualifizier
 
 Wie hoch ist aus der Sicht des Senats aktuell das Potenzial geeigneter Inhaftierter für die Teilnahme an Ausbildungskursen in Hamburger JVAs?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 In der JVA Fuhlsbüttel wird seit Juli 2017 in Zusammenarbeit mit einem Bildungsträger eine modulare Qualifizierung im Berufsbild Garten- und Landschaftsbau als Vorbereitung für die Ausbildung zum Gärtner angeboten. In der JVA Hahnöfersand ist geplant, die Qualifizierung in der Küche durch Zertifizierung der Gefangenen zu erweitern und in der Glas- und Gebäudereinigung die Vollausbildung anzubieten.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/4578", "21/132"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55414"
@@ -43,7 +44,7 @@ Wie hat sich die Zahl der eingegangenen Notrufe bei der Rettungsleitstelle der H
 
 Wie lang ist die durchschnittliche Wartezeit bei der Notrufannahme 112? Bitte seit 2011 pro Jahr und für dieses Jahr quartalsweise angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 2015  
 2016  

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5047"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54234"
@@ -43,7 +44,7 @@ Wie wird von Zahnärzten und Kieferorthopäden auf den Abrechnungsunterlagen dok
 
 Falls dies nicht dokumentiert wird: Wie wird überprüft, ob Leistungsbeschränkungen betreffend Flüchtlinge oder Asylbewerber beachtet werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bei den Betreuten nach § 264 Absatz 1 SGB V ergibt sich die Flüchtlingseigenschaft bereits aus der Betreuung bei der AOK Bremen/Bremerhaven, da lediglich Flüchtlinge in den ersten 15 Monaten ihres Aufenthalts dort betreut werden. Alle anderen Flüchtlinge (Analogleistungsempfänger nach § 2 AsylbLG, SGB II-, SGB VIII- und SGB XII- Empfänger sowie Flüchtlinge, die keine Sozialhilfeleistungen beanspruchen) sind als solche nicht erkennbar, unterliegen jedoch auch keinen Leistungsbeschränkungen im Vergleich zu gesetzlich Krankenversicherten, die keine Flüchtlinge sind.
 

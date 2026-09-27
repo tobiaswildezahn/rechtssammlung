@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64368"
@@ -75,7 +76,7 @@ Mit welchen weiteren Baumaßnahmen wurde die von Montag, 5. November 2018, 20 Uh
 
 Mit welchen weiteren Baumaßnahmen wurde die vom 9. November 2018, 21 Uhr bis Montag, 12. November 2018, 5 Uhr andauernde Vollsperrung der dritten Elbtunnelröhre abgestimmt und welche Stellen wurden an dieser Abstimmung beteiligt? Inwiefern wurden bei dieser Abstimmung gegebenenfalls von welchen Stellen Einwände erhoben und wogegen richteten sich diese Einwände?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Für Baumaßnahmen im Elbtunnel, die länger als eine Nacht in Anspruch nehmen, erfolgt im Vorfeld unter Angabe des benötigten Bauzeitenfensters ein Abstimmungsgespräch mit der Stabstelle Verkehrsflussverbesserung des LSBG sowie dem Ver-
 

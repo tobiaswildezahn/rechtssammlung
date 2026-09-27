@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67951"
@@ -47,7 +48,7 @@ In welcher Höhe hat die IFB in den Jahren 2016, 2017, 2018 sowie im ersten Halb
 
 Auf welche Abnehmer verteilen sich diese Jahres- beziehungsweise Quartalssummen an Fördermitteln mit welchem entsprechenden Anteil? Bitte differenzieren zwischen SAGA GWG, Genossenschaften und privaten Abnehmern und prozentuale Anteile sowie absolute Zahlen nennen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die IFB bewilligte Darlehen und Zuschüsse im Fördersegment Sozialer Wohnungsbau
 – Mietwohnungsbau – gemäß nachstehender Tabelle. Zur Bewertung der Zahlen für das erste Halbjahr 2019 sei angemerkt, dass aufgrund der Projektplanung der Fördernehmer der größte Anteil an Bewilligungen erfahrungsgemäß erst im 4. Quartal vorgenommen wird.

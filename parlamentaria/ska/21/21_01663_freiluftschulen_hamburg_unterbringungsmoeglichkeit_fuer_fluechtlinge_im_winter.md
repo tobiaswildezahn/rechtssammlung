@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49877"
@@ -57,13 +58,13 @@ Die Freiluftschulen Wohldorf, Moorwerder, Neugraben und Wittenbergen werden rege
 
 Bettenkapazitäten werden wie folgt vorgehalten:
 
-• Wittenbergen 65 Betten,
+– Wittenbergen 65 Betten,
 
-• Wohldorf 60 Betten,
+– Wohldorf 60 Betten,
 
-• Neugraben 120 Betten,
+– Neugraben 120 Betten,
 
-• Moorwerder 140 Betten.
+– Moorwerder 140 Betten.
 
 In allen Einrichtungen sind die Bettenkapazitäten in großen Schlafräumen organisiert.
 

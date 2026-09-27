@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 21
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13589"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67830"
@@ -41,19 +42,19 @@ Das Vorgehen der Planfeststellungsbehörde, vertreten von der BWVI, zeigt mehrer
 
 ## Einleitung für die Antworten des Senats
 
- Dass die Planfeststellungsbehörde sich lediglich an unzureichende gesetz-
+– Dass die Planfeststellungsbehörde sich lediglich an unzureichende gesetz-
 
 liche Vorgaben zu halten gedenkt (Fristen zur Einladung), wobei andere Planfeststellungsbehörden in anderen Bundesländern in Bezug auf Information und Einbindung interessierter und wohlwollender mit den Einwendern/-innen umzugehen scheinen.
 
- Es gibt keinerlei Interesse, die Einwender/-innen gleichberechtigt an dem
+– Es gibt keinerlei Interesse, die Einwender/-innen gleichberechtigt an dem
 
 Planfestverfahren zu beteiligen.
 
- Es ist nicht gewollt, dass sich die Einwender/-innen auf die Erörterung
+– Es ist nicht gewollt, dass sich die Einwender/-innen auf die Erörterung
 
 sachgemäß vorbereiten können.
 
- Der Senat scheint so viel Angst vor erfolgreichen Einwendungen gegen die
+– Der Senat scheint so viel Angst vor erfolgreichen Einwendungen gegen die
 
 A26-Ost zu haben, dass er sich auf die Minimalanforderungen des Gesetzes zurückzieht und seine sonst so viel gerühmte Bürger-/-innenbeteiligung nicht ansatzweise – freiwillig – umsetzt.
 

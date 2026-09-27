@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 40
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2979", "21/3747", "21/676"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67115"
@@ -272,7 +273,7 @@ Wie sehen die Stundenzuschnitte für die Beschäftigten an den GBS- Standorten i
 
 Wie viele Stellen sind an welchen GBS- beziehungsweise GTS- Standorten in Hamburg momentan nicht besetzt? Bitte mit Nennung des Standorts, der Schulform, des KESS-Faktors in absoluten Zahlen in einer Tabelle angeben. a. Wie viele dieser unbesetzten Stellen sind Leitungsstellen? Bitte entsprechend den vorgegebenen Parametern in der Tabelle zu 13. angeben.
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Rückmeldung der Elbkinder  
 Standort  
@@ -330,7 +331,7 @@ An wie vielen Standorten werden Randzeiten angeboten? Bitte Standorte angeben un
 
 An wie vielen Standorten werden Ferienzeiten angeboten? Bitte für die jeweiligen Standorte die Anzahl der Kinder und die prozentuale Inanspruchnahme angeben.
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Bei Bedarf bieten alle Grundschulen eine Randzeiten- und Ferienbetreuung an. Zur Anzahl der betreuten Schülerinnen und Schüler in den Randzeiten vor 8 Uhr und nach 16 Uhr sowie zur Anzahl der Schülerinnen und Schüler in der Ferienbetreuung in Relation zur Gesamtschülerzahl der jeweiligen Schule siehe Anlage 2. In der Kürze der für eine Schriftliche Kleine Anfrage zur Verfügung stehenden Zeit konnten die Daten nicht abschließend qualitätsgesichert werden.
 
@@ -368,7 +369,7 @@ Der Hamburger Senat setzt sich für landesweite Mindestlöhne ein. Ermöglicht a
 
 Warum wurden Gehaltserhöhungen für Mitarbeitende in den letzten Jahren bei der Berechnung der Essenspauschale nicht berücksichtigt?
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Im zwischen den Caterern und den Schulleitungen abzuschließenden „Vertrag über eine Dienstleistungskonzession für Mittagsverpflegung in Schulen sowie ergänzende Leistungen“ verpflichtet sich der Caterer als Auftragnehmer, den im Rahmen der Leistungserbringung eingesetzten Beschäftigten (ohne Auszubildende) den jeweils gesetzlich vorgeschriebenen Mindestlohn/Tariflohn je Zeitstunde zu zahlen. Die Kalkulation der Sach- und Personalkosten liegt in der Verantwortung des jeweiligen Auftragnehmers. Im Übrigen siehe Antwort zu 17.
 
@@ -380,6 +381,6 @@ Hamburg erhält ab Juli 2019 aus dem Starke Familien Gesetz (StaFamG) rund 7 Mil
 
 Wenn die frei werdenden Mittel in anderen Bereichen des Haushaltes ausgegeben werden sollen, welche Bereiche sind das? Bitte fachlich begründen.
 
-#### Antwort zu Fragen 21 bis 22
+#### Antwort zu Fragen 21 und 22
 
 Die mittelbare Kompensation des Bundes für die revisionsfähigen Bildungs- und Teilhabe(BuT)-Ausgaben tritt jeweils erst im Folgejahr ein und wird im Jahr 2020 die Monate August bis Dezember 2019 und ab 2021 jeweils das ganze Vorjahr berücksichtigen. Den Erlösen aus der Beteiligung des Bundes stehen auch Mehrkosten aus Leistungserweiterungen aus dem Starke-Familien-Gesetz bei anderen BuT- Leistungen (Schulbedarf, Soziokulturelle Teilhabe) gegenüber. Die darüber hinausgehenden Mehrerlöse in den Folgejahren sollen auch zugunsten von Kindern und Familien eingesetzt werden. Im Übrigen sind die Planungen noch nicht abgeschlossen.

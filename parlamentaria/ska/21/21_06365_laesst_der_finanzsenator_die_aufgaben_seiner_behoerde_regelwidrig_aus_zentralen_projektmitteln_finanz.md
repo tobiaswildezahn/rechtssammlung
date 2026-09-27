@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 50232
 seiten: 2
 fragen: 4
-einzelfragen: 9
-antwortbloecke: 4
+einzelfragen: 13
+antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6133", "21/1565", "21/5931"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54883"
@@ -47,11 +48,20 @@ Ja. Kriterium für die Erfassung der Vergaben ist der Zeitpunkt des Vertragsbegi
 
 In der Antwort zu Frage 6. der Drs. 21/6133 hat der Senat verneint, dass das Projekt „Intensivierung und Steigerung der Ausschreibungen von Glas- und Gebäudereinigungsdienstleistungen“ der Finanzbehörde zum
 01.10.2013 für einen Zeitraum von vier Jahren eingesetzt wurde. In dem von der Finanzbehörde im Juni 2015 vorgelegten „Einkauf Hamburg Tätigkeitsbericht 2014“ heißt es jedoch hierzu: „Das Projekt ist auf insgesamt vier Jahre angelegt.“
-2.1. Wann genau wurde das Projekt zu welchem Termin eingesetzt?
-2.2. Liegt eine Einsetzungsverfügung oder eine ähnliche Unterlage zum Start des Projektes vor? Wenn ja, welche Eckdaten wurden für das Projekt darin im Einzelnen festgelegt? Wenn nein, warum nicht?
-2.3. Für welchen Zeitraum wurde das Projekt eingesetzt?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Wann genau wurde das Projekt zu welchem Termin eingesetzt?
+
+### Frage 2.2
+
+Liegt eine Einsetzungsverfügung oder eine ähnliche Unterlage zum Start des Projektes vor? Wenn ja, welche Eckdaten wurden für das Projekt darin im Einzelnen festgelegt? Wenn nein, warum nicht?
+
+### Frage 2.3
+
+Für welchen Zeitraum wurde das Projekt eingesetzt?
+
+#### Antwort zu Fragen 2, 2.1, 2.2 und 2.3
 
 Die in Drs. 21/5931 und Drs. 21/6133 dargestellten Maßnahmen haben Projektcharakter und wurden daher im Tätigkeitsbericht vereinfachend als Projekt bezeichnet. Ein-
 
@@ -65,20 +75,36 @@ In der Antwort zu Frage 6.1 der Drs. 21/6133 hat der Senat verneint, dass in dem
 
 Die Darstellung des Tätigkeitsberichtes bezieht sich vor dem Hintergrund der Vorbereitung des Antrags auf Förderung der zweiten Maßnahme aus dem Effizienzfonds auf alle Verträge über Glas- und Gebäudereinigungsdienstleistungen, bei denen das Referat Beschaffung und Strategischer Einkauf für Hamburg vertragsführende Stelle ist.
 
-3.1. Wie viele Verträge insgesamt waren jeweils am 01.10.2013, am
+### Frage 3.1
+
+Wie viele Verträge insgesamt waren jeweils am 01.10.2013, am
 01.01.2014 sowie am 01.04.2014 in das Projekt einbezogen und wie unterteilen sich die Verträge auf die unterschiedlichen Bedarfsträger?
+
+#### Antwort zu Frage 3.1
 
 Siehe Drs. 21/1565 und 21/6133.
 
-3.2. Wann genau wurden mit anderen Bedarfsträgern außerhalb der staatlichen Schulen Prioritäten für die Durchführung der Neuausschreibungen besprochen und abgestimmt?
+### Frage 3.2
+
+Wann genau wurden mit anderen Bedarfsträgern außerhalb der staatlichen Schulen Prioritäten für die Durchführung der Neuausschreibungen besprochen und abgestimmt?
+
+#### Antwort zu Frage 3.2
 
 Bis April 2014.
 
-3.3. Wann genau und in welcher Form erfolgte die erstmalige Ansprache anderer Bedarfsträger außerhalb der staatlichen Schulen im Rahmen dieses Projektes?
+### Frage 3.3
+
+Wann genau und in welcher Form erfolgte die erstmalige Ansprache anderer Bedarfsträger außerhalb der staatlichen Schulen im Rahmen dieses Projektes?
+
+#### Antwort zu Frage 3.3
 
 Die Finanzbehörde befindet sich mit den großen Bedarfsträgervertretern in einem ständigen Dialog und hat diese laufend über die Entwicklung der Maßnahme „Intensivierung und Steigerung der Ausschreibungen von Glas- und Gebäudereinigungsdienstleistungen“ informiert. Nachdem während der ersten Monate der Maßnahme deutlich wurde, dass es zu freien Kapazitäten kommen könnte, wurden die großen Bedarfsträger außerhalb der staatlichen Schulen Ende November 2013 über die sich abzeichnende Entwicklung und die beabsichtigte Ausschreibung von Objekten auch dieser Bedarfsträger in Kenntnis gesetzt.
 
-3.4. Warum wurden die in der Antwort zu Frage 3.4 der Drs. 21/6133 erwähnten freien Kapazitäten 2014 nicht dafür genutzt, im Rahmen des gestarteten Projektes in einem größeren Umfang Neuausschreibungen für staatliche Schulen durchzuführen?
+### Frage 3.4
+
+Warum wurden die in der Antwort zu Frage 3.4 der Drs. 21/6133 erwähnten freien Kapazitäten 2014 nicht dafür genutzt, im Rahmen des gestarteten Projektes in einem größeren Umfang Neuausschreibungen für staatliche Schulen durchzuführen?
+
+#### Antwort zu Frage 3.4
 
 Weil die zu diesem Zeitpunkt seitens des Bedarfsträgers leistbaren Vorarbeiten für die schrittweise Neuausschreibung von 96 Verträgen der staatlichen Schulen ausreichende Kapazitäten freiließen, um für weitere Bedarfsträger Einsparungen zu erzielen.
 

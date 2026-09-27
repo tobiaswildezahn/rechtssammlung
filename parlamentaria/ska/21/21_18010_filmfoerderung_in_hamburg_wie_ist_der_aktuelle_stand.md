@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 21
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14912", "21/9662"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67628"
@@ -106,15 +107,15 @@ Wie hat der Senat in den Jahren 2018 und 2019 bis zum 31.07.2019 die Verfügbark
 
 Die Hamburg Kreativ Gesellschaft mbH vermittelt und vermietet Produktions- und Arbeitsflächen an Kreativschaffende. Sie mietet dazu selbst Objekte an, um diese dann in kleineren Raumeinheiten oder auch temporär zu vermieten. Eine statistische Erfassung der Zuordnung der Mietverträge zu den Teilmärkten der Kreativbranche erfolgt nicht. Speziell zum Bereich Film sei auf folgende Beispiele hingewiesen:
 
- In dem abgefragten Zeitraum wurden Hallen im Oberhafen sowie am Veringhof in
+– In dem abgefragten Zeitraum wurden Hallen im Oberhafen sowie am Veringhof in
 
 Wilhelmsburg vermietet und oft für Filmdreharbeiten genutzt. Dies war insgesamt 23 Mal der Fall (von insgesamt 46 Vermietungen in diesen Hallen).
 
- Unter den neuvermieteten Räumen wurde gut die Hälfte der Fläche an Filmschaf-
+– Unter den neuvermieteten Räumen wurde gut die Hälfte der Fläche an Filmschaf-
 
 fende untervermietet. In der Kastanienallee wird etwa ein Viertel der gesamten Fläche ausschließlich für den Bereich Film genutzt. Darüber hinaus befindet sich in dem Gebäude ebenfalls ein Tonstudio.
 
- Ferner werden in zwei Objekten, dem Hochwasserbassin mit Mobil Space und der
+– Ferner werden in zwei Objekten, dem Hochwasserbassin mit Mobil Space und der
 
 alten Bahnmeisterei mit der Filmfabrique, Arbeitsflächen temporär speziell für den Bereich Film zur Nutzung als Produktionsbüro vermietet.
 

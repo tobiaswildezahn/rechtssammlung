@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52550"
@@ -49,7 +50,7 @@ Was beinhaltet der Erlass der BSB hinsichtlich der Regeln zu Hausaufgaben konkre
 
 Welche weiteren Bereiche werden mit dem genannten Erlass geregelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Richtlinie für die Erteilung von Hausaufgaben in der Sekundarstufe I des achtjährigen Gymnasiums vom 18. August 2014 regelt, dass die erteilten Hausaufgaben „in täglich etwa einer Stunde, wöchentlich etwa fünf Stunden Arbeitszeit erledigt werden können.“ Die Richtlinie beschreibt darüber hinaus die Funktion von Hausaufgaben und verpflichtet die Schulen auf eine gute Koordination und Kommunikation zwischen Lehrkräften, Schülerinnen, Schülern und deren Sorgeberechtigten, siehe http://www.hamburg.de/contentblob/4359824/data/mbl-06-2014.pdf.
 

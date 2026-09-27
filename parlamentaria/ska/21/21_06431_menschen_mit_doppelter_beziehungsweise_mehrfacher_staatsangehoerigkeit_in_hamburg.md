@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54991"
@@ -187,7 +188,7 @@ In wie vielen Fällen wurde in dem genannten Zeitraum den Anträgen stattgegeben
 
 In wie vielen Fällen wurde die achtjährige Aufenthaltsfrist verkürzt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Im Zeitraum 1. Januar 2014 bis 25. Oktober 2016 wurden 17.010 Personen eingebürgert. Die Rechtsgrundlagen sind der folgenden Übersicht zu entnehmen
 

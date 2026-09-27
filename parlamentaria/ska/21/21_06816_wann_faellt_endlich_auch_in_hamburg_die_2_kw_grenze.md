@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55374"
@@ -59,17 +60,17 @@ Haben in der Vergangenheit bereits Gespräche stattgefunden, in denen über die 
 
 Im Wesentlichen hat die zuständige Behörde mit folgenden Vertretern die Einsatzmöglichkeiten für Stromspeicherheizungen fachlich erörtert:
 
- Dezember 2013 mit Vertretern des NFE Norddeutscher Fachverband Elektro- und
+– Dezember 2013 mit Vertretern des NFE Norddeutscher Fachverband Elektro- und
 
 Informationstechnik e.V. (NFE)
 
- Januar 2016 mit Vertretern vom HAMBURG ENERGIE GmbH und Stromnetz
+– Januar 2016 mit Vertretern vom HAMBURG ENERGIE GmbH und Stromnetz
 
 Hamburg GmbH
 
- Februar 2016 mit dem Center for Demand Side Integration der HAW
+– Februar 2016 mit dem Center for Demand Side Integration der HAW
 
- November 2016 im Rahmen der Fachmesse GETNord mit Vertretern des NFE.
+– November 2016 im Rahmen der Fachmesse GETNord mit Vertretern des NFE.
 
 ### Frage 4
 

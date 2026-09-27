@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/539"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48892"
@@ -51,7 +52,7 @@ Welche Arbeiten zu Kosten-Nutzen-Analysen des Busbeschleunigungsprogramms wurden
 
 Welche dieser Arbeiten wurden an unabhängige Dritte, also nicht Behörde, LSBG, Hamburger Hochbahn AG, HAMBURG-CONSULT et cetera, vergeben?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Baukosten für die Maßnahmen zur Busbeschleunigung sowie die daraus zu erwartenden Fahrzeiteinsparungen wurden durch den Landesbetrieb Straßen, Brücken und Gewässer (LSBG) ermittelt. Die Wirkungen auf den betrieblichen Ablauf (Personal, Fahrzeuge) wurden durch die HOCHBAHN ermittelt. Die HAMBURG-CON- SULT Gesellschaft für Verkehrsberatung und Verkehrsmanagement mbH wurde mit der Berechnung der verkehrlichen Auswirkungen (Verkehrsverlagerungen et cetera) beauftragt.
 

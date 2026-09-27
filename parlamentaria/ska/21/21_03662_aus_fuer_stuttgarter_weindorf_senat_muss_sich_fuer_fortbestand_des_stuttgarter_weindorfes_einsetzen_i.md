@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3460", "21/3443"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52043"
@@ -149,7 +150,7 @@ Welche Verhandlungen gab es wann und zwischen wem bezüglich der Ausrichtung des
 
 Wann waren die letzten direkten Verhandlungen seitens des Veranstalters mit dem ehemaligen Bezirksamtsleiter Andy Grote?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Es wurden keine Verhandlungen geführt.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4029", "21/4097"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59259"
@@ -77,7 +78,7 @@ In welchem baulichen Zustand befinden sich die Spielplätze in Hamburg- Wandsbek
 
 In welchem pflegerischen Zustand befinden sich die Spielplätze in Hamburg-Wandsbek?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Bei den Spielplätzen Josephstraße und Grabenstieg/Grotekoppel wird der bauliche und pflegerische Zustand gegenüber 2016 mit gut bewertet, im Übrigen siehe Drs. 21/4029.
 

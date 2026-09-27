@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 20
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5511", "21/6544"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55372"
@@ -49,7 +50,7 @@ Wo wurden die 50 Plätze wann aufgestockt?
 
 Auf Grundlage welcher Informationen wurde diese Aufstockung vorgenommen? Zu welchem Zeitpunkt lagen dem Senat diese Informationen vor?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Aufstockung erfolgte auf Grundlage der Auslastungsstatistik zu den Übernachtendenzahlen. Die zuständige Behörde wird von f & w fördern und wohnen – Anstalt öffentlichen Rechts – (f & w) über die Auslastung regelmäßig informiert. Die vorhandenen Platzkapazitäten im WNP waren am 16. November 2016 vollständig ausgelastet. Es erfolgte vor dem Hintergrund dieser Information daher ab dem 17. November 2016 eine Aufstockung um insgesamt 50 Plätze.
 
@@ -73,7 +74,7 @@ Gibt es bereits konkrete Planungen, falls eine Aufstockung über die 50 Plätze 
 
 Mit wie vielen Plätzen, die bis zum Ende des Winternotprogramms (Ende März) noch aufgestockt werden müssen, rechnet der Senat zum jetzigen Zeitpunkt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die zuständige Behörde beobachtet laufend die Entwicklung im Winternotprogramm. Eine Anpassung der Platzkapazität an den WNP-Standorten Schaarsteinweg und Münzstraße erfolgt entsprechend der Nachfrage. Eine konkrete Nutzerzahl lässt sich aufgrund einer Vielzahl nicht absehbarer Faktoren (zum Beispiel Witterungslage) nicht hinreichend prognostizieren.
 

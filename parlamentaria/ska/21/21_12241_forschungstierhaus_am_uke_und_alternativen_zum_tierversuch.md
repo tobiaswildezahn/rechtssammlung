@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 17
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11141"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61514"
@@ -89,33 +90,33 @@ Welche medizinischen Erfolge basieren auf Tierversuchen, die im UKE stattfanden?
 
 Nach Auskunft des UKE waren folgende medizinische Erfolge unter Einbeziehung von Tierversuchen möglich:
 
- Eine Arbeitsgruppe des UKE konnte 2006 an Ratten erstmals zeigen, dass künst-
+– Eine Arbeitsgruppe des UKE konnte 2006 an Ratten erstmals zeigen, dass künst-
 
 lich hergestelltes Herzgewebe nach einem Herzinfarkt die Pumpfunktion deutlich verbessern kann. Auf dieser Grundlage wurde in den vergangenen zehn Jahren
 
 aus menschlichen Stammzellen künstliches Herzgewebe mit deutlich verbesserter Funktion entwickelt. Bei Meerschweinchen kann die Implantation des verbesserten künstlichen Herzgewebes die Herzfunktion nach einem Herzinfarkt annähernd wieder normalisieren. Diese Erkenntnisse lassen darauf hoffen, dass der Mangel an menschlichen Spenderherzen in Zukunft durch künstliches Herzgewebe gelindert werden könnte.
 
- Bei einem Mausmodell konnte eine Arbeitsgruppe des UKE nachweisen, dass eine
+– Bei einem Mausmodell konnte eine Arbeitsgruppe des UKE nachweisen, dass eine
 
 Gentherapie den durch eine neonatale hypertrophe Kardiomyopathie verursachten pathologischen Umbau des Herzens stoppt oder zumindest deutlich verlangsamt. Die neonatale hypertrophe Kardiomyopathie, eine erbliche Erkrankung der Herzmuskulatur, endet derzeit selbst bei optimaler Therapie innerhalb weniger Jahre tödlich.
 
- In Versuchen an Tieren konnte gezeigt werden, dass das am UKE erstmals ent-
+– In Versuchen an Tieren konnte gezeigt werden, dass das am UKE erstmals ent-
 
 deckte sogenannte Arg3.1-Gen von zentraler Bedeutung für die Ausbildung des Langzeitgedächtnisses ist. Darüber hinaus wird das „Arg3.1“-Gen bei verschiedenen Erkrankungen des Gehirns, wie zum Beispiel bei Alzheimer-Krankheiten, Schizophrenie oder Autismus, misreguliert, das heißt zum falschen Zeitpunkt „abgelesen“. Die am UKE entwickelten Tiermodelle sind von übergeordneter Wichtigkeit für das Verständnis dieser Erkrankungen und die Entwicklung neuer Therapieansätze.
 
- Ein weiteres Beispiel ist die sogenannte sgk1-Kinase, die im Gehirn bei Lernpro-
+– Ein weiteres Beispiel ist die sogenannte sgk1-Kinase, die im Gehirn bei Lernpro-
 
 zessen angeschaltet wird, aber auch zum Beispiel für die Funktion der Nieren, Muskelhomöostase und die Immunantwort wichtig ist. Die am UKE entwickelten Tiermodelle stellen einen wichtigen Beitrag zur Erforschung von Nephrophatien, diabetischen Neuropathie, Ischämie und neurodegenerativen Erkrankungen dar.
 
- Im Forschungsbereich der personalisierten Nephrologie konnte das UKE tierexpe-
+– Im Forschungsbereich der personalisierten Nephrologie konnte das UKE tierexpe-
 
 rimentell zeigen, dass spezielle Autoantikörper bestimmte Erkrankungen verursachen. Dies stellt einen Quantensprung im Verständnis der Erkrankung dar und ermöglicht die Entwicklung einer entsprechenden zielgerichteten Therapie, die dann personalisiert – also je nachdem, welcher Antikörpertyp beim Patienten vorliegt – zum Einsatz kommen kann.
 
- Studien zur vorgeburtlichen Behandlung der Gastroschisis (Bauchwanddefekt) im
+– Studien zur vorgeburtlichen Behandlung der Gastroschisis (Bauchwanddefekt) im
 
 UKE führten dazu, dass in der Forschungstierhaltung im UKE weltweit erstmalig eine Gastroschisis vor der Geburt minimal-invasiv behandelt werden konnte und somit einen Meilenstein zur vorgeburtlichen Behandlung angeborener Fehlbildungen im Menschen bildet.
 
- Auf dem Gebiet der Krebsforschung sorgen Erkenntnisse aus Tierversuchen für
+– Auf dem Gebiet der Krebsforschung sorgen Erkenntnisse aus Tierversuchen für
 
 konkrete neue Ansätze in der Krebstherapie, zum Beispiel bei der Entwicklung und Behandlung von Metastasen.
 
@@ -185,11 +186,11 @@ Welche Möglichkeiten bieten Computersimulationen bei der Ausbildung von Operate
 
 Nach Auskunft des UKE werden folgende Möglichkeiten genutzt:
 
- Die Arbeitsgruppe „Voxel-Man“ der Medizinischen Fakultät am UKE entwickelt und
+– Die Arbeitsgruppe „Voxel-Man“ der Medizinischen Fakultät am UKE entwickelt und
 
 produziert chirurgische Trainingssimulatoren für die Ausbildung von Fachärzten. Mit den Voxel-Man-Trainingssimulatoren können schwierige und risikobehaftete Eingriffe so oft wie nötig in einer sicheren Umgebung geübt werden. Sie stellen eine visuelle, auditive und haptische Erfahrung nahe einem realen Eingriff dar. Der Chirurgie-Simulator Voxel-Man wird eingesetzt für Ohrchirurgie, endoskopische Nasennebenhöhlenchirurgie und zur zahnärztlichen Ausbildung.
 
- Im Rahmen roboterassistierter Operationen am UKE bieten die eingesetzten Sys-
+– Im Rahmen roboterassistierter Operationen am UKE bieten die eingesetzten Sys-
 
 teme (Da Vinci) ausgereifte Trainingssoftware an, mit denen simulierte Operationen vorgenommen und geübt werden können. Die Systeme sind über viele Jahre entwickelt und optimiert und werden in verschiedenen Fachbereichen eingesetzt, zum Beispiel in der Hals-, Nasen- und Ohrenheilkunde, Urologie, Gynäkologie, Allgemeinchirurgie sowie im Universitären Cancer Center Hamburg (UCCH) und in der Martini-Klinik.
 

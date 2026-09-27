@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/1003", "19/1275", "21/9327"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61728"
@@ -78,7 +79,7 @@ Wie viele Missbrauchsfälle beim Bezug von Kindergeld gab es nach Kenntnis des S
 
 Wie häufig sind in Hamburg während der Jahre 2010 bis 2017 in Fällen einer ungerechtfertigten Beantragung von Kindergeld für Kinder, die nicht in Hamburg wohnen, die Vorschriften der Abgabenordnung zu Steuerstraftaten und Steuerordnungswidrigkeiten beziehungsweise die Vorschriften über Ordnungswidrigkeiten nach dem Bundeskindergeldgesetz zur Anwendung gekommen (bitte nach Jahren aufschlüsseln)?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Dem Senat liegen dazu keine Erkenntnisse vor.
 

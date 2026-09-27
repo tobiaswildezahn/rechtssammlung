@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 25
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12345", "20/13460", "21/5039", "21/14037", "21/9822", "21/9906", "21/11515", "21/12623", "21/10415"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64937"
@@ -187,7 +188,7 @@ Wie viele Mitarbeiter sind durch die Freie und Hansestadt Hamburg in der Beratun
 
 Wie vielen Vollzeitäquivalenten entsprechen die Arbeitsumfänge der Mitarbeiter?
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Das Beratungsteam besteht derzeit aus fünf pädagogischen verbeamteten Mitarbeiterinnen und Mitarbeitern, die mit einem Teil ihrer Arbeitszeit im Kontext des Beratungsteams tätig sind. Fachlich ist die präventive Arbeit und pädagogische Beratung zu Menschenrechts- und Demokratiefeindlichkeit an verschiedene Bereiche am LI angebunden, wie zum Beispiel an die Querschnittsaufgaben Sozial- und Rechtserziehung, Demokratiepädagogik, sowie die Fächer PGW/Gesellschaftswissenschaften und Religion. Insgesamt stehen für diese Arbeit 1,5 Vollzeitäquivalente zur Verfügung.
 
@@ -199,7 +200,7 @@ In welchen Tarif- oder Besoldungsgruppen sind die Mitarbeiter eingestuft?
 
 Welche jährlichen Personalkosten fallen an?
 
-#### Antwort zu Fragen 21 bis 22
+#### Antwort zu Fragen 21 und 22
 
 Die Besoldungsgruppen der pädagogischen Mitarbeiterinnen und Mitarbeiter des Beratungsteams reichen von A 13 bis A 15. Im Mittel wird eine A13-Stelle angesetzt, für die ein jährlicher Personalkostenverrechnungssatz vom 88.675 Euro zugrunde gelegt wird.
 

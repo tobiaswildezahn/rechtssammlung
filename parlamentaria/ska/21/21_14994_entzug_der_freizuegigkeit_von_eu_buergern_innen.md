@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11021"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64473"
@@ -96,7 +97,7 @@ Bei wie vielen der unter Frage 2. genannten Unionsbürgern/-innen ist der Bestan
 
 Bei wie vielen der unter Frage 2. genannten Unionsbürger/-innen wurde der Verlust des Freizügigkeitsrechts festgestellt? Bitte quartalsweise und nach Staatsangehörigkeit aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Zeitraum Feststellung des Bestands des Freizügigkeitsrechts
 

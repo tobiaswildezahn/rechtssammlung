@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 22
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/425", "21/3638", "21/6430"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61032"
@@ -35,17 +36,17 @@ Die aktuelle Ausgabe der für Hamburg verfassten Informationsbroschüre „Sexue
 
 „Für Lehr- und Fachkräfte stellen sexuelle Grenzverletzungen bzw. sexualisierte Gewalt unter Kindern und Jugendlichen eine besondere Herausforderung dar. Dazu gehören beispielsweise folgende Situationen:
 
-• In einer 3. Klasse fordert ein Schüler einen Mitschüler auf, gegen Bezahlung seinen Penis in den Mund zu nehmen.
+– In einer 3. Klasse fordert ein Schüler einen Mitschüler auf, gegen Bezahlung seinen Penis in den Mund zu nehmen.
 
-• Die Mädchen einer 6. Klasse ärgern einen Mitschüler im Klassenchat, indem sie ihn vor anderen als schwul beschimpfen.
+– Die Mädchen einer 6. Klasse ärgern einen Mitschüler im Klassenchat, indem sie ihn vor anderen als schwul beschimpfen.
 
-• Ein Schüler einer 7. Klasse beleidigt eine Mitschülerin mit sexistischen Begriffen, z. B. „Schlampe“.
+– Ein Schüler einer 7. Klasse beleidigt eine Mitschülerin mit sexistischen Begriffen, z. B. „Schlampe“.
 
-• Bei der Gruppenarbeit versucht ein Schüler wiederholt, den BH einer Mitschülerin zu öffnen.
+– Bei der Gruppenarbeit versucht ein Schüler wiederholt, den BH einer Mitschülerin zu öffnen.
 
-• In der Schule werden per Handy Fotos verschickt, die eine Schülerin beim Sex zeigen.
+– In der Schule werden per Handy Fotos verschickt, die eine Schülerin beim Sex zeigen.
 
-• Während eines Schulfestes wird eine Schülerin von einem Mitschüler vergewaltigt.“
+– Während eines Schulfestes wird eine Schülerin von einem Mitschüler vergewaltigt.“
 
 Es wird deutlich, dass der Extensionsgrad solcher Übergriffe grundsätzlich verschied stark ausgeprägt sein kann. Folglich erfordert der Umgang mit ihnen eine individuelle Handhabung, die nicht zuletzt auch durch die unterschiedliche Wahrnehmung der Betroffenen erschwert wird.
 
@@ -189,7 +190,7 @@ Wie viele Fälle sind dem Senat für 2017 bekannt, bei denen Lehrpersonal sexuel
 
 Ist es infolgedessen zu Verurteilungen gekommen? Falls ja, zu welchen, und was kann der Senat zu den Tätern sagen?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 2017 sind drei Fälle bekannt geworden, in denen gegen Lehrpersonal wegen des Verdachts der sexuellen Belästigung beziehungsweise des sexuellen Missbrauchs Schutzbefohlener strafrechtlich ermittelt wird; die Ermittlungs- beziehungsweise Strafverfahren sind noch nicht abgeschlossen.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15437"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65007"
@@ -43,7 +44,7 @@ Wie viele Funktionen von Wehrführerinnen und Wehrführern sowie deren Stellvert
 
 Bei welchen Wehren werden die Aufgaben gegebenenfalls kommissarisch durch welche Funktionen wahrgenommen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Wehr Vakante Funkti-
 
@@ -105,7 +106,7 @@ Was waren gegebenenfalls die Gründe für lange Vakanzen bis zur Anberaumung und
 
 Bis wann sollen diese Wahlen jeweils erfolgen beziehungsweise welche administrativen Voraussetzungen müssen nach Ansicht des Senates jeweils erfüllt werden, damit diese Wahlen durchgeführt werden können und bis wann soll dieses jeweils erfolgt sein?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Bezüglich der Freiwilligen Feuerwehr Stellingen und Freiwilligen Feuerwehr Eppendorf siehe Drs. 21/15437.
 

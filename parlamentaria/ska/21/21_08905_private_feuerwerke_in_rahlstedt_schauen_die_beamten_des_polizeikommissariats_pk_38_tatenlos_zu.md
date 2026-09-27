@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 8
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8745"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57649"
@@ -57,11 +58,11 @@ Welche Rechtslage besteht hinsichtlich der Veranstaltung von privaten Feuerwerke
 
 Die einschlägigen Bestimmungen sind:
 
- das Gesetz über explosionsgefährliche Stoffe (SprengG),
+– das Gesetz über explosionsgefährliche Stoffe (SprengG),
 
- die Verordnungen zum Sprengstoffgesetz (SprengV)
+– die Verordnungen zum Sprengstoffgesetz (SprengV)
 
- sowie die Hamburger „Anordnung für das Abbrennen von pyrotechnischen Gegen-
+– sowie die Hamburger „Anordnung für das Abbrennen von pyrotechnischen Gegen-
 
 ständen zur Jahreswende“ der Bezirksämter vom 6. November 2009.
 
@@ -81,7 +82,7 @@ Wann wurden welche privaten gegebenenfalls nicht genehmigten Feuerwerke im Stadt
 
 Erfolgte die Feststellung dabei durch eigene Ermittlungen oder auf Hinweis von Anwohnern?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Eine Statistik im Sinne der Fragestellung wird nicht erhoben. Für die Beantwortung der Fragen wäre eine händische Durchsicht sämtlicher einschlägiger Vorgänge am PK 38 sowie den für die jeweiligen Delikte zuständigen Dienststellen des Landeskriminalamtes des erfragten Zeitraums erforderlich. Die Auswertung von mehreren Zehntausend Vorgängen ist in der für eine Parlamentarische Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1703", "21/206", "20/13133", "20/13641"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50656"
@@ -65,23 +66,23 @@ a. Was passiert mit diesen sogenannten Rückkehrern?
 
 Die Sicherheitsbehörden führen präventive und repressive Maßnahmen durch, die jeweils nach konkreter Abwägung des Einzelfalls getroffen werden. Beispielhaft zu nennen sind:
 
- Abklärung der Erkenntnisse zu den Aktivitäten der Person hinsichtlich strafrechtli-
+– Abklärung der Erkenntnisse zu den Aktivitäten der Person hinsichtlich strafrechtli-
 
 cher oder gefahrenabwehrrechtlicher Relevanz
 
- Bei Feststellung des Verdachts von Straftaten: Einleitung eines Ermittlungsverfah-
+– Bei Feststellung des Verdachts von Straftaten: Einleitung eines Ermittlungsverfah-
 
 rens unter Nutzung aller strafprozessualen Möglichkeiten
 
- Aufsuchen der Person zur Befragung und zur Klärung, ob gegebenenfalls durch
+– Aufsuchen der Person zur Befragung und zur Klärung, ob gegebenenfalls durch
 
 unterstützende Maßnahmen ein dauerhaftes Fernhalten von der salafistischen Szene erreicht werden kann.
 
- Individuelle gefahrenabwehrende Maßnahmen nach Einschätzung der Sicherheits-
+– Individuelle gefahrenabwehrende Maßnahmen nach Einschätzung der Sicherheits-
 
 behörden
 
- Erneute Ausreiseverhinderung durch passentziehende Maßnahmen
+– Erneute Ausreiseverhinderung durch passentziehende Maßnahmen
 
 Im Übrigen siehe Drs. 21/206 und 20/13133.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 19
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10409", "21/10331"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59838"
@@ -148,9 +149,9 @@ Laut Aussagen von Anwohnern/-innen (zum Beispiel http://www.deutschlandfunkkultu
 
 #### Antwort zu Frage 5
 
- 110 und wie viele unter
+– 110 und wie viele unter
 
- 112
+– 112
 
 ein?
 
@@ -206,7 +207,7 @@ Laut Bericht der Zeitung „Die Welt“ vom 1.10.2017 hat ein Einsatzleiter aus 
 
 Ebenfalls laut „Welt“-Bericht sprach der Inspekteur der Bayrischen Polizei, der ranghöchste Vollzugsbeamte im Freistaat, persönlich beim Gesamteinsatzleiter Dudde vor und bezeichnete ein Vorrücken in das Schulterblatt als lebensgefährlich. Wann genau fand dieses Gespräch statt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 In der BAO Michel gab es sechs Hundertschaften mit dem Rufnamen Opal.
 
@@ -230,6 +231,6 @@ In der Nacht auf den 7.7. verging laut Polizeiführer zwischen 22.11 Uhr (Einsat
 
 Laut Bericht der „Hamburger Morgenpost“ (https://www.mopo.de/ hamburg/g20/krawalle-im-schanzenviertel-die-wahrheit-ueber-dieseneinsatz-27956590) hielt sich ein „beträchtlicher Teil der Elitecops“ in einem Parkhaus beim Hotel Atlantic auf und verließ dieses erst nach 23 Uhr. a. Inwiefern ist diese Schilderung zutreffend? b. Warum wurden diese Kräfte nicht schon früher in der Schanze eingesetzt?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Wie im Innenausschuss dargestellt, bedeutet dies, die Kräfte mussten aus bestehenden Aufträgen, für die sie sich taktisch entsprechend positioniert haben, herausgelöst und zu größeren Einheiten umgeliedert werden. Die Kräfte mussten ihre Ausrüstung komplett neu aufnehmen und zum Einsatzort transportiert werden. Siehe auch Protokoll Innenausschuss Nummer 21/20. Darüber hinaus berühren die Fragestellungen die Einsatztaktik der Polizei, der Senat sieht daher zum Schutz der Funktionsfähigkeit der Polizei für künftige Einsätze von einer weitergehenden Beantwortung ab.

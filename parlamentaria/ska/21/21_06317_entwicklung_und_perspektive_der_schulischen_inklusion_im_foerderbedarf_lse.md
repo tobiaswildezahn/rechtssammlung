@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 29
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3047", "21/5682", "21/2268", "21/2278"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54855"
@@ -757,7 +758,7 @@ In den Ausführungen zu den WAZ-Zuweisungen im Förderschwerpunkt LSE des Doppel
 
 Bezieht sich diese Aussage (siehe Frage 10.) auf alle LSE-WAZ- Zuweisungen (Klassenstufe: VSK-4, 5 – 7 und 8 – 10)? Wenn nein, wie genau ist die Zuweisung für die Klassenstufen außer 8 – 10 fortgeplant (bitte erläutern)?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Seit dem Schuljahr 2015/2016 stellt der Senat jährlich aufwachsend zusätzliche Sonderpädagogenstellen für die Inklusion bereit. Zur konkreten Umsetzung wurden die entsprechenden Bedarfsgrundlagen verbessert. Die erhöhten Zuweisungen gelten jährlich für eine Klassenstufe aufwachsend, entsprechend gelten die alten Bedarfsgrundlagen jährlich für eine Klassenstufe abwachsend. Im Haushaltsplan-Entwurf 2017/2018 werden die Bedarfsgrundlagen des Schuljahres 2017/2018 dargestellt (siehe Seite 179), er bildet also für die Klassenstufen VSK bis 3 sowie 5 bis 7 bereits die erhöhten Zuweisungen ab. Aus diesem Grund finden sich die Hinweise, dass im Schuljahr 2017/2018 letztmalig für die Klassenstufe 4 die geringere Bedarfszuweisung erfolgt (Fußnote 19) und dass die Zuweisung für die Klassenstufen 8 bis 10 ausläuft.
 
@@ -779,7 +780,7 @@ Wie viele Lehrer-/-innenstellen für die schulische Inklusion im Förderschwerpu
 
 Wie verteilten sich diese Stellen (siehe 11.) genau auf welche Schulformen (ohne Sonderschulen und berufliche Schulen)? (Bitte für jedes Schuljahr einzeln bis 2016/2017 tabellarisch in absoluten Zahlen und in Prozent aufschlüsseln.) a. Wie verteilten sie sich dabei auf welche Klassenstufen der jeweiligen Schulformen? (Bitte entsprechend in die Tabelle zu 14. integrieren.) b. Wie vielen Vollzeitäquivalenten entsprachen diese Stellen je Schulform? (Bitte entsprechend in die Tabelle zu 14. integrieren.)
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Alle zugewiesenen Lehrerstellenbedarfe werden von den Schulen vollständig durch Personaleinsatz oder zusätzliche Vertretungsmittel genutzt. Insofern entsprechen die zugewiesenen Stellenbedarfe den eingesetzten VZÄ. Eine Aufschlüsselung nach Pro-
 

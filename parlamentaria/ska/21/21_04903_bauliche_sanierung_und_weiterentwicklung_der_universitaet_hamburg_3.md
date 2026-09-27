@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 48757
 seiten: 2
 fragen: 10
-einzelfragen: 16
-antwortbloecke: 8
+einzelfragen: 18
+antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3658", "21/3795"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53334"
@@ -59,7 +60,7 @@ Wurde im Vorvertrag mit der Sprinkenhof GmbH ein Terminplan vereinbart? Wenn ja,
 
 Wann soll das Mietangebot der Sprinkenhof GmbH vorgelegt werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Ein Terminplan wurde nicht förmlich abgeschlossen, als gemeinsames Ziel wurde für den Fall der Realisierung der Abschluss der Baumaßnahme Mitte 2019/Anfang 2020 vereinbart.
 
@@ -98,15 +99,20 @@ Siehe Vorbemerkung und Antwort zu 4.
 ### Frage 8
 
 In der Drs. 21/3658 hatte der Senat die Beauftragung eines externen Büros zur Ermittlung der Sanierungsbedarfe des gesamten Gebäudebestandes der Universität angekündigt.
-8.1. Welches externe Büro wurde beauftragt?
 
-#### Antwort zu Frage 8
+### Frage 8.1
+
+Welches externe Büro wurde beauftragt?
+
+#### Antwort zu Fragen 8 und 8.1
 
 rheform – EntwicklungsManagement GmbH.
 
-8.2. Wird weiterhin mit einem Ergebnis der Ermittlung der Sanierungsbedarfe im Oktober 2016 gerechnet?
+### Frage 8.2
 
-Wenn nein, wann dann?
+Wird weiterhin mit einem Ergebnis der Ermittlung der Sanierungsbedarfe im Oktober 2016 gerechnet? Wenn nein, wann dann?
+
+#### Antwort zu Frage 8.2
 
 Die Ergebnisse der Studie werden Anfang 2017 vorliegen.
 
@@ -117,10 +123,19 @@ Wie ist der genaue Stand der Abstimmung, welche Baumaßnahmen an Universitätsge
 ### Frage 10
 
 Gemäß Drs. 21/3658 wurde der dem Haushaltsausschuss bereits mitgeteilte Betrag von 41 Millionen für Bauvorhaben aus Rücklagen der Universität im Jahr 2015 auf Grundlage von Kostenkennwerten ermittelt.
-10.1. Für welche einzelnen Vorhaben wurden dabei jeweils welche Teilbeträge auf Grundlage von Kostenkennwerten ermittelt?
-10.2. Aus welchen einzelnen Vorhaben setzt sich der Gesamtbetrag von 41 Millionen Euro zusammen?
-10.3. Welche konkreten Vorhaben wurden „bereits identifiziert“ (so der Senat in Drs. 21/3658)?
 
-#### Antwort zu Fragen 9 bis 10
+### Frage 10.1
+
+Für welche einzelnen Vorhaben wurden dabei jeweils welche Teilbeträge auf Grundlage von Kostenkennwerten ermittelt?
+
+### Frage 10.2
+
+Aus welchen einzelnen Vorhaben setzt sich der Gesamtbetrag von 41 Millionen Euro zusammen?
+
+### Frage 10.3
+
+Welche konkreten Vorhaben wurden „bereits identifiziert“ (so der Senat in Drs. 21/3658)?
+
+#### Antwort zu Fragen 9, 10, 10.1, 10.2 und 10.3
 
 Die mit der Drs. 21/3658 angekündigte Drucksache befindet sich in Vorbereitung.

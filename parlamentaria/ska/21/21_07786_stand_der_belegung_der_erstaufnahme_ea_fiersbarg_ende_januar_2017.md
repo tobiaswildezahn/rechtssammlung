@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 37
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7406", "21/7486", "21/2108", "21/6211", "21/7151", "21/6246", "21/6497"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56433"
@@ -43,7 +44,7 @@ Wie viele Personen sind in der EA Fiersbarg zurzeit untergebracht?
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Geschlecht  
 Kinder & Jugendliche  
@@ -98,15 +99,15 @@ Aus welchen Unterkünften kommen sie?
 
 Im Januar 2017 wurden Personen aus folgenden Erstaufnahmeeinrichtungen (EA) in die EA Fiersbarg verlegt:
 
-• Ankunftszentrum Rahlstedt
+– Ankunftszentrum Rahlstedt
 
-• Jenfelder Moorpark
+– Jenfelder Moorpark
 
-• Kieler Straße
+– Kieler Straße
 
-• Neuland II
+– Neuland II
 
-• Dratelnstraße
+– Dratelnstraße
 
 ### Frage 7
 
@@ -148,7 +149,7 @@ Gab es im Januar 2017 Menschen, die die Unterkunft nicht beziehen wollten? Wenn 
 
 Gab es im Januar 2017 Menschen, die die Unterkunft auf eigene Faust verlassen haben? Wenn ja, wie viele und aus welchen Gründen?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Nein.
 
@@ -160,7 +161,7 @@ In der Drs. 21/7486 wird in 6.3 die EA Fiersbarg als örU bezeichnet. Ist dieses
 
 Gab es in diesem Monat Einsätze der Feuerwehr beziehungsweise Polizei? Wie viele Beamte wurden jeweils eingesetzt? Wenn ja, wann waren diese (Datum, Uhrzeit) und wer löste den Einsatz aus? Was war der Grund der Einsätze? Bitte aufgeschlüsselt nach Datum und Uhrzeit angeben.
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Nach Auswertung des Einsatzleitsystems der Feuerwehr ergaben sich für das Objekt EA Fiersbarg im Zeitraum 1. bis 31. Januar 2017 in nachstehender Tabelle aufgeführte Einsätze:
 
@@ -285,7 +286,7 @@ c) Sicherheit?
 
 Wie viele davon tagsüber (7 – 18 Uhr), wie viele davon nachts (18 – 7 Uhr)? Wenn es abweichende Dienstzeiten gibt, bitte diese nennen und die Aufschlüsselung hiernach geben.
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Siehe Drs. 21/6211.
 
@@ -331,7 +332,7 @@ Welche Angebote werden den Flüchtlingen gemacht (Bildung, Freizeitgestaltung)?
 
 Wie viele Ehrenamtliche sind eingesetzt und wie helfen sie?
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Siehe Drs. 21/7151.
 

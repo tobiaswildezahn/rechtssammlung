@@ -14,6 +14,7 @@ fragen: 27
 einzelfragen: 39
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60937"
@@ -43,7 +44,7 @@ In einem Konzept des LEB Stand Februar 2017 wird eine Clearingstelle für psychi
 
 Welche Anschlussperspektiven ergeben sich für die UMA (andere Einrichtungen zum Beispiel oder (Pflege-)Familien)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die ersten Betreuten wurden am 10. April 2017 in die Einrichtung aufgenommen. Von bisher 18 Betreuten haben zehn die Einrichtung mit folgendem Ergebnis wieder verlassen: Fünf haben sich gut stabilisiert, vier ausreichend gut und ein Betreuter hat sich mit unbekanntem Ziel entfernt. In den neun Fällen mit regulärer Beendigung erfolgte eine Überführung in eine geeignete stationäre Hilfe. Die Erfahrung zeigt, dass die Klienten stabilisiert werden können, aber weiterhin einer professionellen pädagogischen Begleitung bedürfen, um die begonnene Entwicklung, die zum Beispiel auch Therapie beinhalten kann, sicher fortzusetzen. Somit kommen vor allem stationäre Einrichtungen der Jugendhilfe in Betracht.
 
@@ -55,7 +56,7 @@ Handelt es sich bei dem uns vorliegenden Konzept vom Februar 2017 um die aktuell
 
 In der Clearingstelle 3 in der Hammer Straße findet die Erstversorgung statt. Diese ist im Bericht des LEB von 2018 ausführlich beschrieben. Gibt es darüber hinaus ein Konzept für die Erstversorgung? Wenn ja, bitte als Anlage beifügen. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Mit der Erweiterung des Angebotsspektrums der Flüchtlingseinrichtungen des Landesbetriebes für Erziehung und Beratung (LEB) auf Hilfen zur Erziehung und Volljährigenhilfen, ist ein Gesamtkonzept erstellt worden (Stand Oktober 2017). Die LEB- Konzepte zur Flüchtlingsarbeit sind zu finden unter: https://www.hamburg.de/basfi/ start-fluechtlinge/.
 
@@ -93,7 +94,7 @@ In einem Schreiben der BASFI an den Bezirk Mitte vom 13.9.17 wird berichtet, das
 
 Sieht die BASFI darüber hinaus weitere Bedarfe für eine solche Einrichtung?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Im KJND ist die Zahl der Klienten mit Merkmalen der anvisierten Zielgruppe schwankend, allerdings oft mit im Einzelfall wiederholten Neuaufnahmen nach kurzen Episoden in Einrichtungen der Jugendhilfe oder in der Familie. Aktuell sind dies zwei Jugendliche. Hinzu kommen fünf Jugendliche, die sich in der jugendamtlichen Zuständigkeit des Familieninterventionsteams befinden. Auch aus dem Kreis der bezirklichen Jugendämter werden immer wieder Bedarfe signalisiert.
 
@@ -175,7 +176,7 @@ Wird es in der Einrichtung einen Time-out-Raum oder andere Formen der räumliche
 
 Was unterscheidet die geplante Einrichtung von einer geschlossenen Unterbringung?
 
-#### Antwort zu Fragen 23 bis 24
+#### Antwort zu Fragen 23 und 24
 
 Nein, freiheitsentziehende Maßnahmen sind für die Einrichtung nicht vorgesehen.
 
@@ -195,7 +196,7 @@ Wurden die Erfahrungen mit der im April 2017 stillgelegten Flüchtlingsunterkunf
 
 Hat die zuständige Behörde beziehungsweise der Senat die Absicht, solch eine Auswertung noch vorzunehmen? Wenn ja, in welcher Form? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 26 bis 27
+#### Antwort zu Fragen 26 und 27
 
 Der Betrieb der Einrichtung wurde im LEB laufend und zuletzt auch nach Betriebsende ausgewertet und hat zur Fortentwicklung der Arbeit mit den Klienten beigetragen. Wesentliche Ergebnisse der rund zweijährigen Arbeit der Einrichtung sind:
 

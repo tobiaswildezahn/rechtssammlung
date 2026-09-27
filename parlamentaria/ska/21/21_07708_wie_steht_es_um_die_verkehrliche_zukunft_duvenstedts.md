@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8486"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56338"
@@ -53,7 +54,7 @@ Wann wurde zuletzt die Verkehrsstärke auf dem Farkenwisch ermittelt und mit wel
 
 Wann wurde zuletzt die Verkehrsstärke auf der Bi‘n Achterbarg ermittelt und mit welchem Ergebnis? Bitte die Anzahl der Fahrzeuge pro Werktag und den Anteil des Schwerlastverkehrs angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Es liegt keine Verkehrszählung vor.
 

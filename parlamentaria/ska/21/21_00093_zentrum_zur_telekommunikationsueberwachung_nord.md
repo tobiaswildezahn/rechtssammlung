@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 18
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48224"
@@ -55,7 +56,7 @@ Wie ist der Planungsstand hinsichtlich des Projekts?
 
 Wo soll das TKÜ Nord räumlich und organisatorisch angesiedelt werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Das länderübergreifende Projekt RDZ wurde am 18. Juli 2011 auf Veranlassung des Landespolizeipräsidenten Niedersachsens – stellvertretend für die Leiter der Polizeiabteilungen aller norddeutschen Innenministerien und -behörden – beim Landeskrimi-
 

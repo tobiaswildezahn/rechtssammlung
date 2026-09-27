@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53970"
@@ -102,7 +103,7 @@ Welche Erkenntnisse hat der Senat beziehungsweise die zuständige Behörde über
 
 Warum erfüllt dieser Sachverhalt nicht den Tatbestand der sexuellen Nötigung?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der Senat sieht von der Mitteilung konkreter Einzelheiten zum Sachverhalt ab, da die Ermittlungen nicht abgeschlossen sind und die Gefahr besteht, dass der Ermittlungserfolg gefährdet wird.
 

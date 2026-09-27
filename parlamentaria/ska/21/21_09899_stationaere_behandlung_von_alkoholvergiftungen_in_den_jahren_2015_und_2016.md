@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5527"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58718"
@@ -137,7 +138,7 @@ Welche Maßnahmen gedenkt der Senat beziehungsweise die zuständige Behörde zu 
 
 Welche Maßnahmen gedenkt der Senat beziehungsweise die zuständige Behörde zu ergreifen, um die Zahl der alkoholintoxikierten Personen in Hamburg kurzfristig zu reduzieren?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Senat hält am bisherigen Konzept fest. Grundsätzlich werden die bisher getroffenen Maßnahmen als erfolgreich angesehen. Die in der Drs. 21/5527 genannten Maßnahmen werden weiterhin verfolgt. Darüber hinaus fanden vom 13. bis 21. Mai 2017 im Rahmen der Aktionswoche Alkohol zahlreiche Aktionen in Hamburg statt.
 
@@ -149,7 +150,7 @@ Wie hat sich die Summe der städtischen Zuwendungen an Alkoholpräventionsprojek
 
 Wie hat sich die Summe der städtischen Zuwendungen an Institutionen, die schwerpunktmäßig auf dem Gebiet der Alkoholprävention tätig sind, seit 2011 entwickelt? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Suchtprävention ist vielfältig. Neben den Einrichtungen, die originär Suchtprävention als Aufgabenschwerpunkt wahrnehmen, wird Suchtprävention auch im Bereich der Kinder-, Jugend- und Stadtteilarbeit sowie dem Schulsektor, der Polizei und weiteren Institutionen durchgeführt. Das bedeutet, dass Suchtprävention nicht vollumfänglich nur durch städtische Zuwendungen finanziert wird. Eine Aufschlüsselung nach Suchtstoffen ist nicht möglich. Die städtischen Zuwendungen werden im Rahmen von Projektförderung vergeben. Dabei ist zu berücksichtigen, dass grundsätzlich alle Einrichtungen der Suchthilfe auch suchtpräventiv arbeiten. Bezogen auf die Projekte, die einen Schwerpunkt im Bereich Suchtprävention haben, haben sich die Zuwendungen wie folgt entwickelt:
 
@@ -176,7 +177,7 @@ Wie hat sich die Summe der städtischen Zuwendungen an Projekte auf dem Gebiet d
 
 Wie hat sich die Summe der städtischen Zuwendungen an Institutionen, die schwerpunktmäßig auf dem Gebiet der Alkoholsuchthilfe tätig sind, seit 2011 entwickelt? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Suchthilfe in Hamburg verfolgt den Ansatz der suchtstoffübergreifenden Beratung. Hilfesuchende finden demzufolge in allen Angeboten eine Anlaufstelle und Unterstützung. Eine gesonderte Darstellung der Zuwendungen gegliedert nach Suchtstoff kann nicht erfolgen. Die städtischen Zuwendungen werden im Rahmen von Projektförderung vergeben. Der Haushaltsverlauf ist der folgenden Tabelle zu entnehmen:
 

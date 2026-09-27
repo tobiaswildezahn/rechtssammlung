@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52989"
@@ -81,7 +82,7 @@ Wer hat sich wann an den Projektverantwortlichen gewandt und Interesse an der Te
 
 Welche Maßnahmen wurden unternommen, um anderen Marktteilnehmern den gleichen Zugang wie car2go und Europcar zu ermöglichen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Interessierte konnten nach einem öffentlichen Aufruf beziehungsweise nach direkter Ansprache innerhalb einer Frist von zwei Wochen im Juni 2015 ihr Interesse gegenüber der HOCHBAHN bekunden und sich im Rahmen des strukturierten Interessenbekundungsverfahrens auf Basis von Angaben in Form eines standardisierten Fragebogens präqualifizieren. Im Übrigen siehe Vorbemerkung.
 

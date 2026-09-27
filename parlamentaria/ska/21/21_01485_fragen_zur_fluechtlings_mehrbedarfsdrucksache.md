@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1395", "21/999", "21/1402"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49686"
@@ -43,7 +44,7 @@ Welchen Neuzugang und welche Gesamtzahl an Flüchtlingen hat der Senat für die 
 
 Der Senat beantragt mit der Drucksache keine konkreten Stellenneuschaffungen, sondern eine Pauschalermächtigung. Gibt es Mehrbedarfsforderungen der einzelnen Behörden für die Jahre 2015 und 2016? Wenn ja, wie sehen sie aus? Wenn nein, haben der Senat oder die betroffenen Behörden intern Stellenbedarfe errechnet und wie sehen sie jeweils aus?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Aufgrund der aktuellen Entwicklungen können keine weitergehenden Prognosen zu den Flüchtlingszahlen erstellt werden, siehe Drs. 21/1395. In der Drucksache wurden aufgrund der unsicheren Bedarfslage deshalb auch keine konkreten Mehrbedarfe aufgenommen.
 

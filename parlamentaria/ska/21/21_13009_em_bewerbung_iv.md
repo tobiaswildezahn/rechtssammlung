@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12027", "21/10422", "21/10525", "21/11597"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62346"
@@ -71,7 +72,7 @@ Wann fand das letzte Gespräch zwischen Vertretern/-innen des Senats und Funktio
 
 Wann fand das letzte Gespräch zwischen Vertretern/-innen des Senats und Funktionären der UEFA über die EM-Vergabe statt? Welche Themen wurden dort besprochen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Senat befindet sich weder in Gesprächen mit Funktionären des DFB noch der UEFA.
 

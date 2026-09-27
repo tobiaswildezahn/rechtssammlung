@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13216"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48822"
@@ -89,6 +90,6 @@ Sieht der Senat rechtspolitischen Handlungsbedarf, um die Rechtsgrundlage für C
 
 Will der Senat gegebenenfalls eine Bundesratsinitiative starten, um die Straßenverkehrsordnung (§ 27 StVO Verbände) hinsichtlich der Critical- Mass-Aufzüge und ähnlicher Anlässe zu konkretisieren und so Rechtssicherheit schaffen? Wenn ja, wann, wenn nein, warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Nach Auffassung der zuständigen Behörde besteht kein gesetzgeberisch begründbarer Handlungsbedarf.

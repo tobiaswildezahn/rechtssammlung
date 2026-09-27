@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52362"
@@ -45,7 +46,7 @@ Hat der Senat bei der Umsetzung der jetzt anstehenden Baumaßnahmen im Zuge des 
 
 Auf der Grundlage welcher analytischen Untersuchungen ist man zu der Erkenntnis gelangt, dass auf eine Linksabbiegespur verzichtet werden kann?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Dieser signalisierte Knotenpunkt wurde nach den Richtlinien für Lichtsignalanlagen (LSA) bemessen und nach dem Handbuch für die Bemessung von Straßenverkehrsanlagen beurteilt. Die Aufschaltungen berücksichtigen einen guten und stabilen Verkehrszustand.
 

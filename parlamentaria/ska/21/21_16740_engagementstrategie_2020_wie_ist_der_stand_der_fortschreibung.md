@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66286"
@@ -81,7 +82,7 @@ Was sind die wesentlichen Kernaussagen, die sich aus der Umfrage ergeben?
 
 Inwiefern werden die Ergebnisse für die Fortschreibung verwendet?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 20
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5987", "21/9604"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58960"
@@ -77,7 +78,7 @@ Inwieweit werden durch die zuständigen Behörden Verdachtsmomente auf etwaigen 
 
 Gab es infolge derartiger Reisen von Betroffenen in das Heimatland, in dem sie vorgeblich verfolgt und/oder an Gesundheit und Leben bedroht sind, die Einleitung von Verfahren hinsichtlich etwaigen Leistungsmissbrauchs? Wenn ja, wie viele und mit welchem Ergebnis? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/5987.
 

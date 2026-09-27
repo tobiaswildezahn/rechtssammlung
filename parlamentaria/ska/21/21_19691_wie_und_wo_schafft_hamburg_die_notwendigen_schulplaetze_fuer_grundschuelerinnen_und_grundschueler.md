@@ -14,6 +14,7 @@ fragen: 30
 einzelfragen: 73
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69450"
@@ -161,7 +162,7 @@ Wie weit ist die Überlegung der zuständigen Behörden gediehen, die Zweigstell
 
 Sofern das ReBBZ Bernstorffstraße geschlossen werden soll, gäbe es in der Region keine weiteren Standorte der sonderpädagogischen Beschulung außer im Böttcherkamp beziehungsweise in der Carsten-Rehder- Straße. Sinkt der Bedarf an ReBBZ-Plätzen in der Region oder wie kann der Senat eine geplante ReBBZ-Schließung verantworten?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Die Überlegungen zum Regionalen Bildungs- und Beratungszentrum Altona (ReBBZ) sind im Kontext der Planungen zum Struenseequartier zu sehen. Nach der Fertigstellung der dort geplanten Grundschule hat das ReBBZ zusätzliche Kapazitäten am Standort Carsten-Rehder-Straße, da dorthin derzeit die Ganztagsschule an der Elbe ausgelagert ist. Nach jetzigem Planungsstand kann davon ausgegangen werden, dass dieser Standort dann ausreicht, um gemeinsam mit dem ReBBZ Altona-West den Bedarf an entsprechenden Schulplätzen abdecken zu können. Im Übrigen siehe Vorbemerkung und Antwort zu 12.
 
@@ -181,7 +182,7 @@ In Eimsbüttel sollen drei neue Grundschulen für circa 190 Schülerinnen und Sc
 
 Die Planungen für die Isestraße werden im SEPL als „langfristig“ angegeben. Wann ist mit einer konkreten Entscheidung/Planung beziehungsweise Realisierung zu rechnen?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Die Wolfgang-Borchert-Schule ist bereits gegründet, und die Herrichtung des Standorts Schwenckestraße ist in Realisierung. Am Standort Telemannstraße wurde mit den vorbereitenden Prüfungen begonnen, um diesen Standort dauerhaft als Grundschule nutzen zu können.
 
@@ -195,7 +196,7 @@ In Hamburg-Nord sollen zwei neue Grundschulen für circa 120 Schülerinnen und S
 
 In der Region 13 (Uhlenhorst, Hohenfelde, Barmbek, Dulsberg) soll eine neue Grundschule für circa 60 Schülerinnen und Schüler geschaffen werden. Wie weit ist die Standortsuche gediehen? Ist der neue Standort fußläufig zu den Neubauvorhaben ausgerichtet? Wenn ja, wo? Wenn nein, warum nicht? Wann ist mit einer Planung/Realisierung zu rechnen?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Am Standort Eschenweg des ReBBZ Winterhude wird eine neue dreizügige Grundschule entstehen. Diese wird nach jetzigem Planungsstand voraussichtlich spätestens zum Schuljahr 2023/2024 realisiert werden. Die Fertigstellung der zweiten Grundschule mit ebenfalls drei Zügen, das heißt bis zu 345 Schülerinnen und Schüler, in der Region 13 ist nach jetzigen Überlegungen bis zum Jahr 2024 vorgesehen. Im Übrigen siehe Vorbemerkung.
 
@@ -255,7 +256,7 @@ In Süderelbe soll eine neue Grundschule für circa 60 Schülerinnen und Schüle
 
 Die Planungen für die neue Grundschule in Süderelbe werden im SEPL als „langfristig“ angegeben. Wann ist mit einer Entscheidung/Planung beziehungsweise Realisierung zu rechnen?
 
-#### Antwort zu Fragen 28 bis 29
+#### Antwort zu Fragen 28 und 29
 
 Die Fertigstellung einer zusätzlichen, neuen Grundschule mit drei Zügen, das heißt bis zu 345 Schülerinnen und Schüler, ist voraussichtlich ab dem Jahr 2025 vorgesehen. Im Übrigen siehe Vorbemerkung.
 

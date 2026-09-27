@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18131"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68086"
@@ -43,6 +44,6 @@ Wann genau wird die straßenverkehrsbehördliche Anordnung des Polizeikommissari
 
 Warum dauert es von der Anordnung bis zur Umsetzung so lange?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das zuständige Bezirksamt hat die Straße Kiwittredder überplant und die Planung mit den zuständigen Dienststellen der Behörde für Inneres und Sport abgestimmt. Nach Abschluss hat das Bezirksamt eine Verkehrsbehördliche Anordnung durch das zuständige Polizeikommissariat erhalten. Eine Beteiligung der Gremien der zuständigen Bezirksversammlung erfolgte nach der Sommerpause 2019. Der zuständige Regionalausschuss hat in seiner Sitzung am 4.September 2019 der Planung zugestimmt. Die Umsetzung (Beauftragung der Firmen) ist zwischenzeitlich erfolgt, die Markierung wird voraussichtlich Anfang des 4. Quartals 2019 aufgebracht.

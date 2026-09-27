@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11401", "21/7385"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60719"
@@ -62,7 +63,7 @@ Ab welcher maximalen Rückstellungshöhe für Grundprämienverpflichtungen sowie
 
 In welchem maximalen Umfang haben die Länder nach derzeitigem Planungsszenario Anspruch auf Zusatzprämie für die „im Rahmen der Garantie abgerechneten Verluste“? In welchem Umfang können diese nach derzeitigem Planungsstand maximal zur Bildung entsprechender Rückstellungen führen, damit die CET1-Quote auf konsolidierter Ebene nicht unter 10 Prozent sinkt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die entsprechenden Quoten hängen nicht nur von den theoretisch zu leistenden Prämienzahlungen, sondern auch von anderen Kennzahlen der weiteren Geschäftsentwicklung der HSH ab. Grundsätzlich nimmt mit einer längeren Laufzeit der Garantie die Höhe der prognostizierten Rückstellungen zu. Der Zeitraum, für den die Zusatzprämie zu zahlen ist, kann sich verkürzen, wenn die Garantie vorzeitig vollständig in Anspruch genommen wird. Der für die Zusatzprämie über die Gesamtlaufzeit tatsächlich zu entrichtende Betrag wird daher erst feststehen, wenn die Garantie vollständig abgewickelt worden ist (siehe Drs. 21/7385, Anlage 1).
 

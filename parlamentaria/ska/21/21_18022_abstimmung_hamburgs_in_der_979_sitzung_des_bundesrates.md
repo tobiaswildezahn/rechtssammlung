@@ -12,8 +12,9 @@ vorgang: 61717
 seiten: 17
 fragen: 81
 einzelfragen: 0
-antwortbloecke: 0
-beantwortet: false
+antwortbloecke: 1
+beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9089"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67634"
@@ -26,8 +27,6 @@ generator: "ska_archiv 1.0"
 
 > Schriftliche Kleine Anfrage der Abgeordneten Dr. Alexander Wolf, Dirk Nockemann, Detlef Ehlebracht, Andrea Oelschläger, Peter Lorkowski und Harald Feineis (AfD) vom 13.08.19 und Antwort des Senats · Drucksache vom 20.08.2019  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/67634) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/67634/21_18022_abstimmung_hamburgs_in_der_979_sitzung_des_bundesrates)
->
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
 
 ## Einleitung für die Fragen
 
@@ -370,7 +369,9 @@ Entschließung des Bundesrates zur Aufhebung des Transsexuellengesetzes sowie zu
 
 Entschließung des Bundesrates
 
-Antwort zu Fragen 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 61, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 80, 81: Die Tagesordnungspunkte 1, 4, 7, 14, 16 bis 18, 28, 29, 33, 38, 39, 44, 46, 47, 49, 58 und 59 der Tagesordnung der 979. Sitzung des Bundesrates am Freitag, dem 28. Juni 2019, befanden sich in der sogenannten Grünen Liste; über diese Tagesordnungspunkte wurde nicht Einzeln abgestimmt, sondern en bloc. Der Bundesrat hat dazu mit den Stimmen Hamburgs gemäß den vorliegenden Empfehlungen und Vorschlägen wie folgt beschlossen:
+#### Antwort zu Fragen 1 bis 59, 61, 63 bis 78, 80 und 81
+
+Die Tagesordnungspunkte 1, 4, 7, 14, 16 bis 18, 28, 29, 33, 38, 39, 44, 46, 47, 49, 58 und 59 der Tagesordnung der 979. Sitzung des Bundesrates am Freitag, dem 28. Juni 2019, befanden sich in der sogenannten Grünen Liste; über diese Tagesordnungspunkte wurde nicht Einzeln abgestimmt, sondern en bloc. Der Bundesrat hat dazu mit den Stimmen Hamburgs gemäß den vorliegenden Empfehlungen und Vorschlägen wie folgt beschlossen:
 
 I.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7440", "21/7683"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67502"
@@ -92,7 +93,7 @@ Welche Pflegemaßnahmen (Reinigung, Umfeld, Grünschnitt, Winterdienst und so we
 
 Wie und von wem erfolgt die Kontrolle der Pflegemaßnahmen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Reinigung des Parkhauses erfolgt wöchentlich, der Grünschnitt regelhaft zweimal im Jahr und der Winterdienst ist saisonal für die Wintermonate beauftragt. Diese Pflegemaßnahmen werden durch Sprinkenhof kontrolliert.
 

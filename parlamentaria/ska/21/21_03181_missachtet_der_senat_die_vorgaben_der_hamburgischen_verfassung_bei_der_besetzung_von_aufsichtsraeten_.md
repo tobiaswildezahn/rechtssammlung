@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/634", "21/2886", "20/1600", "20/1434", "19/7262"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51524"
@@ -47,7 +48,7 @@ Welche Unternehmen aus dem Beteiligungsbericht fallen im Einzelnen nach Auffassu
 
 Wie ist der in Artikel 40 HV aufgeführte Zweck des Gelderwerbs nach Ansicht des Senats definiert? Anhand welcher Kriterien wird ermittelt, ob der Gelderwerb bezweckt ist? Muss es sich nach Auffassung des Senats dabei um den Hauptzweck des Unternehmens handeln oder umfasst die Regelung des Artikels 40 HV auch den Gelderwerb als Nebenzweck eines Unternehmens?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Hiermit hat sich der Senat bisher nicht befasst. Im Übrigen siehe Antwort zu 3. und Drs. 21/2886.
 

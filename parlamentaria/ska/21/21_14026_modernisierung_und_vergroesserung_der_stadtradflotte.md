@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 15
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63425"
@@ -49,7 +50,7 @@ Wie viele Fahrräder sind derzeit im Einsatz, wie viele sind jährlich seit 2009
 
 Wie hoch ist das Durchschnittsalter der Fahrräder?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Derzeit sind 2.450 Räder im Einsatz. Für die jährliche Entwicklung der StadtRAD- Flotte siehe nachstehende Tabelle:
 

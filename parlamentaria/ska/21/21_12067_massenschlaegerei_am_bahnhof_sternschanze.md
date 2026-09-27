@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61326"
@@ -53,7 +54,7 @@ Steht ein Anlass der Schlägerei fest? Wenn ja, welcher war es?
 
 Wie viele Tatbeteiligte gab es insgesamt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 An der Auseinandersetzung waren mindestens drei Personen beteiligt. Die Ermittlungen zu den genauen Hintergründen und dem Verlauf dauern an.
 

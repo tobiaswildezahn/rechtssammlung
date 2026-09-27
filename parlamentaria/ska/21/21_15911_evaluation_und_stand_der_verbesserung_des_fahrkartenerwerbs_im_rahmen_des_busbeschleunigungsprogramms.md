@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 22
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/73", "21/3832", "21/5629", "21/10532"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65410"
@@ -47,7 +48,7 @@ Wie viele Fahrkartenautomaten sind in den Jahren 2015 â€“ 2018 an oder in der NÃ
 
 Wie viele Fahrkartenautomaten wurden seitdem an den Buslinien im Rahmen des Busbeschleunigungsprogramms neu errichtet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 HOCHBAHN
 

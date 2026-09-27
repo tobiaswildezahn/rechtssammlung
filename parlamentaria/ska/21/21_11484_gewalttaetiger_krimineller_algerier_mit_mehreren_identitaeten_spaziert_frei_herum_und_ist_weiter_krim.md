@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 20
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6685", "21/9376"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60608"
@@ -96,7 +97,7 @@ Welche Verurteilungen mit welchen strafrechtlichen Konsequenzen hat es gegen den
 
 Sind weitere Ermittlungsverfahren anhängig?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Im Hinblick auf das Persönlichkeitsrecht des Betroffenen und die gesetzlichen Wertungen des Bundeszentralregistergesetzes sieht der Senat davon ab, etwaige Ermittlungsverfahren mitzuteilen, die durch einen Freispruch oder eine Einstellung beendet worden sind. Dasselbe gilt für Ermittlungsverfahren, die zu einem Abschluss geführt haben, der entweder nicht in ein Führungszeugnis aufzunehmen oder nach den Tilgungsvorschriften des Bundeszentralregistergesetzes nicht mehr zu berücksichtigen ist.
 
@@ -128,7 +129,7 @@ Gab es in der Vergangenheit bereits Bemühungen, den Täter aus Deutschland ausz
 
 Welche Maßnahmen plant die Behörde nun hinsichtlich seines weiteren Aufenthalts in Deutschland? Ist insbesondere eine Abschiebung vorgesehen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Vorbemerkung.
 

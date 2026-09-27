@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14753"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67308"
@@ -60,7 +61,7 @@ Ist eine Ausweitung der Kooperation mit der Stiftung SeeYou im Rahmen der „Bab
 Wie hoch ist die jährlich zur Verfügung gestellte Gesamtfördersumme für Frühe Hilfen für die Bezirke gemäß der zwischen Bund und Ländern zum
 1. Oktober 2017 geschlossenen Verwaltungsvereinbarung des Fonds Frühe Hilfen über die Bundesstiftung Frühe Hilfen (Verwaltungsvereinbarung)?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Gemäß Verwaltungsvereinbarung „Fonds Frühe Hilfen“ über die Bundesstiftung Frühe Hilfen erhält die Freie und Hansestadt Hamburg jährlich 1 179 473 Euro aus dem Fonds der Bundesstiftung zur Umsetzung der Förderbereiche (Artikel 3 Absatz 1 Nummern 1 bis 3 der Vereinbarung).
 
@@ -88,6 +89,6 @@ Wie hoch ist die jährlich beantragte Gesamtfördersumme nach 2.4 der Verwaltung
 
 Inwieweit wird oder hat der Beschluss der 92. Gesundheitsministerkonferenz zur Dynamisierung der Fördermittel zur Förderung Früher Hilfen die Fördermittelvergabe nach Fragen 3. und 4. beeinflusst?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antwort zu 2. und 3.

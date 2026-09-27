@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 17
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13924", "21/768", "20/4820"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49033"
@@ -91,7 +92,7 @@ In wie vielen Fällen hat das Hamburger Jobcenter team.arbeit.hamburg ab dem 3. 
 
 Welche Geldsumme hat das Hamburger Jobcenter team.arbeit.hamburg ab dem 3. Quartal 2014 und für das 1. Quartal 2015 ausgegeben, um Hilfeempfänger und Hilfeempfängerinnen mit Energieschulden mittels Darlehen zu unterstützen? Bitte quartalsweise benennen. Falls die Daten bis zum letzten Quartal nicht vollständig vorliegen, bitte die vorhandenen Daten bis zum Datum der Anfrage bereitstellen.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Es erfolgt keine Erhebung und Auswertung im Sinne der Fragestellung. Die Auswertung der Akten von 99.968 Bedarfsgemeinschaften (Stand Februar 2015) ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Im Übrigen siehe Drs. 21/768.
 
@@ -163,6 +164,6 @@ Gab es Haushalte, die mehrere Absperrungen, also Strom und Wasser oder Gas, zu v
 
 In wie vielen der betroffenen Haushalte leben Kinder?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Es erfolgt keine Erhebung und Auswertung von Daten im Sinne der Fragestellung. Im Übrigen siehe Antwort zu 6. und 7.

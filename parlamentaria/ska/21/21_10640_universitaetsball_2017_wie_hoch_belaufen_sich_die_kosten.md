@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59537"
@@ -50,7 +51,7 @@ Mit wieviel Geld beteiligt sich die Universität Hamburg an der Ausrichtung des 
 
 Wie viel Geld für die Ausrichtung hat die Universität Hamburg bei den früheren vier Bällen übernommen? Bitte für jede der vier Veranstaltungen einzeln beantworten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Universität Hamburg beteiligt sich grundsätzlich nicht finanziell an der Ausrichtung des Universitätsballs. Im Rahmen der Öffentlichkeitsarbeit hat die UHH in 2014 und 2015 insgesamt 6.154,00 Euro für die Ausrichtung des Universitätsballs übernommen.
 
@@ -78,7 +79,7 @@ Wie viele Events dieser Art finden darüber hinaus an der Universität Hamburg s
 
 Wie hoch belaufen sich die von der Universität Hamburg dafür getragenen Kosten pro Jahr seit 2005?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Keine. Im Übrigen: entfällt.
 

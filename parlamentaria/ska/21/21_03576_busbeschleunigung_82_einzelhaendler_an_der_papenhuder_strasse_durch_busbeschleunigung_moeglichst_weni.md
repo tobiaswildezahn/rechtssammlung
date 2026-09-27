@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2605"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51928"
@@ -70,7 +71,7 @@ Aus welchen Gründen ist eine Durchführung der Maßnahme nicht während der Som
 
 Hat der Senat beziehungsweise die zuständige Behörde die Möglichkeit geprüft, die Baumaßnahmen im Frühsommer durchzuführen, damit im Spätsommer das Uhlenfest stattfinden kann? Wenn ja, mit welchem Ergebnis? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Ein Baubeginn im Frühjahr oder Sommer 2016 ist nicht möglich, da die Befassung der zuständigen Bezirksversammlung aufgrund des Bürgerbeteiligungsverfahrens erst im Oktober 2015 erfolgen konnte. Dies war im Verlauf des Verfahrens mehrfach kommuniziert worden. Auf das Uhlenfest wird Rücksicht genommen. Im Übrigen siehe Antwort zu 1.
 

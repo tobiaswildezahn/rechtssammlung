@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 4
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11810"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65273"
@@ -50,7 +51,7 @@ pm) und der HSH Beteiligungs Management GmbH (HoldCo) sowie unmittelbar den Län
 
 Welche weiteren Dritten wurden zu welchen jährlichen Kosten durch jeweils wen mit jeweils welchen Dienstleistungen beauftragt, die in Zusammenhang mit dem Verkauf der HSH Nordbank stehen? (Bitte nach Organisationen differenziert jahresweise sowie als Summe auflisten und dabei jeweiligen Auftraggeber benennen.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zu den für die Jahre 2015 bis 2017 abgerechneten Kosten siehe Drs. 21/11810. Aufgrund von Gutschriften oder durch später eingegangene Rechnungen haben sich folgende Werte gegenüber der Drs. 21/11810 verändert: bei der HoldCo Kosten für Rechtsberater (6 442 000 Euro im Jahr 2017) und Wirtschaftsprüfer (1 664 000 Euro
 

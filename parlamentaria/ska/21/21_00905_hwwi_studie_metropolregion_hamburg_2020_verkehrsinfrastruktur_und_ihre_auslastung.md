@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7047"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49068"
@@ -59,7 +60,7 @@ Welche Projektionen für die Verkehrsströme hält der Senat für die nächsten 
 
 Welche Annahmen bezüglich der Stauszenarien trifft der Senat vor diesem Hintergrund a. Auf den Hauptverkehrsstraßen innerhalb Hamburgs? b. auf den Autobahnen im Stadtgebiet der Freien und Hansestadt Hamburg? c. auf den Autobahnen in der Metropolregion?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe http://www.bmvi.de/SharedDocs/DE/Artikel/G/verkehrsprognose-2025.html.
 

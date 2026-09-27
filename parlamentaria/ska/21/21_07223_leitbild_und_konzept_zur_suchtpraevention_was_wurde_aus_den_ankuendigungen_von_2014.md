@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 19
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12302", "20/14461", "20/14582", "18/3422", "21/2857"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55813"
@@ -43,23 +44,23 @@ Die Hamburger Suchtprävention befindet sich in einem fortlaufenden Entwicklungs
 
 Die Zielfestlegung und die Abstimmungen zur Zielerreichung sind Aufgabe der Ständigen Arbeitsgruppe Suchtprävention (STAGS). Die STAGS hat im Zusammenhang mit der behördenübergreifenden Entwicklung der Drs. 18/3422 und 20/12302 und der hieraus folgenden Aufgabenstellungen folgende Ziele festgelegt:
 
- Die Konsummenge und Konsumdauer sollen verringert werden,
+– Die Konsummenge und Konsumdauer sollen verringert werden,
 
- der Altersdurchschnitt bei Erstkonsum soll erhöht werden,
+– der Altersdurchschnitt bei Erstkonsum soll erhöht werden,
 
- die Öffentlichkeit soll verstärkt sensibilisiert werden,
+– die Öffentlichkeit soll verstärkt sensibilisiert werden,
 
- es soll mehr gegenseitiger Verantwortungsübernahme im öffentlichen Raum, in
+– es soll mehr gegenseitiger Verantwortungsübernahme im öffentlichen Raum, in
 
 Nachbarschaften und anderen Lebenswelten erreicht werden,
 
- Zielgruppen mit erhöhtem Risiko und auffälligem Konsum sollen früher erreicht
+– Zielgruppen mit erhöhtem Risiko und auffälligem Konsum sollen früher erreicht
 
 werden,
 
- Kinder aus suchtbelasteten Familien müssen umfassende Hilfe bekommen,
+– Kinder aus suchtbelasteten Familien müssen umfassende Hilfe bekommen,
 
- der Forschungstand zur Suchtprävention muss verbessert werden.
+– der Forschungstand zur Suchtprävention muss verbessert werden.
 
 Diese Zielsetzungen wurden im Rahmen der gemeinsamen Beratungen der Fachstellen bestätigt. Sie sind in Hamburg somit im Sinne eines gemeinsamen Leitgedankens verpflichtend für alle Fachstellen und Suchtpräventionsstellen.
 
@@ -87,7 +88,7 @@ Wann jeweils konkret wurde durch welches Gremium mit der Entwicklung sowohl eine
 
 Welche Gremien waren bisher jeweils wann an der Erarbeitung des Leitbildes und des Konzeptes beteiligt, welche weiteren Beteiligungen sind jeweils zu wann geplant und wer wird die Papiere wann voraussichtlich endgültig beschließen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 

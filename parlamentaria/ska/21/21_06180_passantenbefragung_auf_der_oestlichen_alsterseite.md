@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54696"
@@ -51,7 +52,7 @@ Wieso werden den Befragten nicht konkrete Vorschläge für eine künftige Gestal
 
 Warum werden die Befragungsorte vorher bekannt gegeben, sodass Personen gezielt an der Befragung teilnehmen können?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Passantenbefragung dient dazu, vor Beginn der Planungen Meinungen und Ideen von den Nutzerinnen und Nutzern dieser Straßen zu erhalten und darauf aufbauend konkrete Vorschläge zu entwickeln.
 

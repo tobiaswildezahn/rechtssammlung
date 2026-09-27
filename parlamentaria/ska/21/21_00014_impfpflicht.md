@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48135"
@@ -49,7 +50,7 @@ Welche Ausnahmen von dieser Impfpflicht gibt es?
 
 Wie wird diese Impfpflicht durchgesetzt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Entfällt.
 

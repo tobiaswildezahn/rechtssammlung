@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 23
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5138", "21/5039", "21/2965", "21/2483", "21/1987", "21/1706", "21/954", "21/476", "20/13460", "21/3561", "21/2581"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54338"
@@ -45,57 +46,57 @@ Zu den durch die für Soziales zuständige Behörde und, soweit Schulen betroffe
 
 In der Rechtsextremismusprävention bestehen folgende Kooperationen: DITIB und SCHURA gehören dem fraktions- und institutionenübergreifenden Bündnis „Hamburg bekennt Farbe“ an, das seit 2012 die Erarbeitung und Umsetzung des Landesprogramms „Hamburg Stadt mit Courage – Landesprogramm zur Förderung demokratischer Kultur, Vorbeugung und Bekämpfung von Rechtsextremismus“ begleitet. Diesem Bündnis gehören neben der Hamburgischen Bürgerschaft und dem Senat der Freien und Hansestadt Hamburg an:
 
- Evangelisch-Lutherische Kirche in Norddeutschland
+– Evangelisch-Lutherische Kirche in Norddeutschland
 
- Römisch-Katholisches Erzbistum Hamburg
+– Römisch-Katholisches Erzbistum Hamburg
 
- Türkische Gemeinde für Hamburg und Umgebung e.V. – TGH
+– Türkische Gemeinde für Hamburg und Umgebung e.V. – TGH
 
- Jüdische Gemeinde Hamburg
+– Jüdische Gemeinde Hamburg
 
- Alevitische Gemeinde Hamburg e.V.
+– Alevitische Gemeinde Hamburg e.V.
 
- Alevitische Gemeinde zu Norddeutschland e.V.
+– Alevitische Gemeinde zu Norddeutschland e.V.
 
- Handelskammer Hamburg
+– Handelskammer Hamburg
 
- Handwerkskammer Hamburg
+– Handwerkskammer Hamburg
 
- Landesverband der islamischen Kulturzentren Norddeutschland e.V.
+– Landesverband der islamischen Kulturzentren Norddeutschland e.V.
 
- Verband Islamischer Kulturzentren – VIKZ
+– Verband Islamischer Kulturzentren – VIKZ
 
- Deutscher Beamtenbund Hamburg – dbb
+– Deutscher Beamtenbund Hamburg – dbb
 
- Deutscher Gewerkschaftsbund
+– Deutscher Gewerkschaftsbund
 
- Arbeitsgemeinschaft der Freien Wohlfahrtspflege – AGFW Hamburg
+– Arbeitsgemeinschaft der Freien Wohlfahrtspflege – AGFW Hamburg
 
- Patriotische Gesellschaft von 1765
+– Patriotische Gesellschaft von 1765
 
- Beratungsnetzwerk gegen Rechtsextremismus Hamburg
+– Beratungsnetzwerk gegen Rechtsextremismus Hamburg
 
- Lawaetz-Stiftung
+– Lawaetz-Stiftung
 
- Hamburger Sportbund – HSB
+– Hamburger Sportbund – HSB
 
- Bündnis 90/DIE GRÜNEN-Bürgerschaftsfraktion Hamburg
+– Bündnis 90/DIE GRÜNEN-Bürgerschaftsfraktion Hamburg
 
- FDP-Bürgerschaftsfraktion Hamburg
+– FDP-Bürgerschaftsfraktion Hamburg
 
- CDU-Bürgerschaftsfraktion Hamburg
+– CDU-Bürgerschaftsfraktion Hamburg
 
- SPD-Bürgerschaftsfraktion Hamburg
+– SPD-Bürgerschaftsfraktion Hamburg
 
 SCHURA ist zudem seit 2008 Mitglied im Beratungsnetzwerk gegen Rechtsextremismus. Das Netzwerk dient dem Austausch von Fachleuten, um Erkenntnisse über und Strategien gegen Rechtsextremismus, Rassismus, Antisemitismus und Menschenfeindlichkeit in allen Ausprägungen zu entwickeln. Darüber hinaus besteht eine Zusammenarbeit mit beiden Religionsgemeinschaften im Integrationsbeirat, mit der SCHURA seit der 19. und mit DITIB seit der 20. Legislaturperiode. In der aktuellen Legislaturperiode sind DITIB und SCHURA als externe Teilnehmer zu den Fachforen des Beirats eingeladen.
 
 Weitere Kooperationen bestehen bei folgenden Projekten im Bereich der Integrationsförderung:
 
- Im Rahmen der Richtlinie „Ergänzende Maßnahmen zur Integrationsförderung von
+– Im Rahmen der Richtlinie „Ergänzende Maßnahmen zur Integrationsförderung von
 
 Zuwanderern in Hamburg“ hat die BASFI vom 01.11.2010 bis zum 31.12.2013 das Projekt „SoC Pa“, Sozialberatung für Frauen und ältere Menschen in den DITIB- Gemeinden, gefördert.
 
- Verschiedene Gemeinden, die der SCHURA angehören, haben an dem von der
+– Verschiedene Gemeinden, die der SCHURA angehören, haben an dem von der
 
 BASFI betreuten Projekt „Muslimische Gemeinden als kommunale Akteure“ teilgenommen, das das Goethe-Institut mit einer Förderung der Robert-Bosch-Stiftung in den Jahren 2013 – 2015 in Hamburg und vier weiteren deutschen Städten durchgeführt hat. Das Projekt wird zurzeit mit einer einjährigen Förderung der BASFI in die eigenständige Organisation durch die teilnehmenden Gemeinden überführt.
 
@@ -137,7 +138,7 @@ Welche Konsequenzen gedenkt der Senat aus der Entscheidung der nordrhein-westfä
 
 Fürchtet auch der Senat eine Einflussnahme des türkischen Staatspräsidenten bei den Projekten der DITIB in Hamburg? Wenn ja, wie will er dieser begegnen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der Senat orientiert sich bei seiner Entscheidungsfindung an den in den Kooperationsprojekten mit den islamischen Verbänden in Hamburg gemachten Erfahrungen, siehe Antworten zu 1. und 2. Anhaltspunkte für Einflussnahmen des türkischen Staatspräsidenten sind dabei bisher nicht aufgetreten.
 
@@ -182,7 +183,7 @@ Welche Ergebnisse hat die vom Senat in der Drs. 21/2581 angekündigte Zwischenev
 
 Sollten die Ergebnisse immer noch nicht in qualitätsgesicherter Form vorliegen, wann werden die Ergebnisse der Öffentlichkeit vorgelegt?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Qualitätsgesicherte Ergebnisse der Zwischenevaluation liegen noch nicht vor. Die Veröffentlichung der Evaluationsergebnisse erfolgt nach derzeitigem Planungsstand im 4. Quartal 2017.
 

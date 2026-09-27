@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/1437", "20/4886", "21/1987"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52950"
@@ -59,7 +60,7 @@ Wie viele Moscheen werden gegenwärtig in Hamburg betrieben (Die Studie „Hambu
 
 Wie viele betriebene Moscheen stehen außerhalb dieser Trägerverbände?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 20/1437 und 20/4886.
 
@@ -89,7 +90,7 @@ Wie viele Imame sind momentan in Hamburger Moscheen beschäftigt? Bitte anhand d
 
 Aus welchen Herkunftsländern stammen diese Imame? Bitte einzeln aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Eine Datenerfassung im Sinne der Fragestellung erfolgt nicht. Im Übrigen siehe Vorbemerkung.
 
@@ -130,7 +131,7 @@ Wird der Senat im Vorfeld über die Einstellung von Imamen informiert?
 
 Hat der Senat Kenntnisse darüber, ob Imame im Rahmen ihres Aufenthalts an mehreren Moscheen wirken und bekommt er mit, wenn diese ihren Arbeitsplatz wechseln?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Jenseits etwaiger in ausländerrechtlichen Verfahren erlangter Kenntnisse (siehe Antworten zu 11. bis 13.) : nein. Im Übrigen siehe Vorbemerkung.
 

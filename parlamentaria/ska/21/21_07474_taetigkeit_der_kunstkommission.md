@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56077"
@@ -80,7 +81,7 @@ Welche Einzelwerke, Mahnmale, Installationen, Skulpturen, Projekte und Aktionen 
 
 Welche Einzelwerke, Mahnmale, Installationen, Skulpturen, Projekte und Aktionen sind mit jeweils welchen Beträgen bewilligt, aber noch nicht umgesetzt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage 1.
 

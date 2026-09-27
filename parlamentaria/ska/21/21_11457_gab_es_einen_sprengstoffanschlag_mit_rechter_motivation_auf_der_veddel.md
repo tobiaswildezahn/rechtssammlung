@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 19
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60566"
@@ -59,7 +60,7 @@ Inwiefern ist es zutreffend, dass die Polizei einen terroristischen Hintergrund 
 
 Inwiefern ist es zutreffend, dass die Polizei eine rechte Motivation für die Tat bereits ausgeschlossen hat? Wenn ja, warum?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 10
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10140"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60570"
@@ -61,6 +62,6 @@ b) wann (bitte genaue Angabe der Tage/Zeiträume für die jeweiligen Stellen)?
 c) in welchem Umfang (bitte genaue Angabe für die Stellen und jeweiligen Tage/Zeiträume)?
 d) Was hat die HPA unternommen, entsprechende Mindertiefen zu beseitigen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.

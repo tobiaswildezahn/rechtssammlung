@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7400", "21/7625"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58547"
@@ -51,6 +52,6 @@ In jeweils welcher Höhe, für welchen Zweck, für welchen Zeitraum und an welch
 
 Welche einzelnen Änderungen haben sich im Bürgschaftsregister im Einzelnen seit dem 01.01.2017 ergeben?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage sowie Drs. 21/7400 und 21/7625.

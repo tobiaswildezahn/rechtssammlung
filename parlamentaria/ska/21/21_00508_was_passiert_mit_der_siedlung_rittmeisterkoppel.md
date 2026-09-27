@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12367"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48659"
@@ -81,11 +82,11 @@ Wann genau hatten jeweils welche Dienststellen in den letzten fünf Jahren in we
 
 Im zuständigen Bezirksamt wurden zwei Bauanträge gestellt:
 
- 7. Oktober 2013: Bauantrag nach § 61 der Hamburgischen Bauordnung (HBauO)
+– 7. Oktober 2013: Bauantrag nach § 61 der Hamburgischen Bauordnung (HBauO)
 
 zur Errichtung von zwei Mehrfamilienhäusern mit je vier Wohneinheiten. Der Antrag wurde abgelehnt. Ein Widerspruchsverfahren ist anhängig.
 
- 20. April 2015: Bauantrag nach § 61 HBauO zur temporären Errichtung von zwei
+– 20. April 2015: Bauantrag nach § 61 HBauO zur temporären Errichtung von zwei
 
 Mehrfamilienhäusern mit je vier Wohneinheiten. Der Antrag befindet sich noch in der Prüfung.
 
@@ -93,69 +94,69 @@ Das zuständige Bezirksamt hatte in den letzten fünf Jahren schriftliche Kontak
 
 Zum Kontakt zwischen Grundeigentümer und Denkmalschutzamt:
 
- 29. Februar 2009: Schreiben des Denkmalschutzamtes zum Instandhaltungsstau
+– 29. Februar 2009: Schreiben des Denkmalschutzamtes zum Instandhaltungsstau
 
 und zum geplanten weiteren Vorgehen,
 
- 27. Juli 2009: Schreiben des Denkmalschutzamtes mit der Ablehnung einer Ver-
+– 27. Juli 2009: Schreiben des Denkmalschutzamtes mit der Ablehnung einer Ver-
 
 dichtung der Siedlung zur Schaffung von zusätzlichem Wohnraum, gleichzeitig erneuter Hinweis auf den zu behebenden Instandhaltungsstau,
 
- 8. Oktober 2012: Schreiben des Denkmalschutzamtes zur Feststellung des
+– 8. Oktober 2012: Schreiben des Denkmalschutzamtes zur Feststellung des
 
 Instandhaltungsstaus, Hinweis auf Erhaltungsverpflichtung, Aufforderung zur Darstellung geeigneter Maßnahmen,
 
- 15. November 2012: Schriftliche Aufforderung des Denkmalschutzamtes zur Dar-
+– 15. November 2012: Schriftliche Aufforderung des Denkmalschutzamtes zur Dar-
 
 legung und Präzisierung der bekannten Schäden,
 
- 28. Januar 2013: Schreiben des Denkmalschutzamts wegen eines Ortstermins und
+– 28. Januar 2013: Schreiben des Denkmalschutzamts wegen eines Ortstermins und
 
 Aufforderung, die erfolgten Instandhaltungsmaßnahmen der vergangenen Jahre aufzulisten,
 
- 5. März 2013: Ortstermin zum Zustand der Siedlung, Aufforderung des Denkmal-
+– 5. März 2013: Ortstermin zum Zustand der Siedlung, Aufforderung des Denkmal-
 
 schutzamtes, Schäden vollständig zu erfassen und mitzuteilen,
 
- August 2013: Sicherungsverfügung des Denkmalschutzamtes zur Darstellung der
+– August 2013: Sicherungsverfügung des Denkmalschutzamtes zur Darstellung der
 
 vorhandenen Schäden, darauf folgend Widerspruch durch die Rechtsvertretung des Eigentümers und gerichtliche Bestätigung der Rechtmäßigkeit der Verfügung,
 
- 25. Oktober 2013: Denkmalrechtliche Versagung eines Antrags vom 1. Oktober
+– 25. Oktober 2013: Denkmalrechtliche Versagung eines Antrags vom 1. Oktober
 
 2013 auf Errichtung zweier Neubauten im Ensemble Rittmeisterkoppel,
 
- 16. Mai 2014: Vorlage einer Schadenserhebung durch den Eigentümer,
+– 16. Mai 2014: Vorlage einer Schadenserhebung durch den Eigentümer,
 
- 27. Mai 2014: Schriftliche Beanstandung des Denkmalschutzamts der eingereich-
+– 27. Mai 2014: Schriftliche Beanstandung des Denkmalschutzamts der eingereich-
 
 ten Unterlagen zu den Schadensbildern, darauf folgende Nachbesserung durch den Eigentümer,
 
- 7. August 2014: Gespräch zum weiteren Vorgehen, Erörterung der notwendigen
+– 7. August 2014: Gespräch zum weiteren Vorgehen, Erörterung der notwendigen
 
 hausweisen Sanierung und der damit verbundenen Probleme,
 
- 31. März 2015: Gespräch zum weiteren Vorgehen, Erörterung temporärer Wohn-
+– 31. März 2015: Gespräch zum weiteren Vorgehen, Erörterung temporärer Wohn-
 
 bauten für die Dauer der Sanierung zur Umsetzung der Bewohnerinnen und Bewohner.
 
 Folgende denkmalrechtlichen Bescheide wurden erteilt:
 
- 15. Mai 2009 Rittmeisterkoppel 1 a: Genehmigung zur Sanierung Bad und Küche,
+– 15. Mai 2009 Rittmeisterkoppel 1 a: Genehmigung zur Sanierung Bad und Küche,
 
- 14. Oktober 2009 Rittmeisterkoppel 9 c: Genehmigung zum Einbau eines Kamins
+– 14. Oktober 2009 Rittmeisterkoppel 9 c: Genehmigung zum Einbau eines Kamins
 
 und eines Dachausstiegs,
 
- 25. Oktober 2013: Versagung eines Antrags vom 1. Oktober 2013 auf Errichtung
+– 25. Oktober 2013: Versagung eines Antrags vom 1. Oktober 2013 auf Errichtung
 
 zweier Neubauten im Ensemble,
 
- 10. September 2014 Rittmeisterkoppel 1a: Genehmigung zum Kellerausbau und
+– 10. September 2014 Rittmeisterkoppel 1a: Genehmigung zum Kellerausbau und
 
 zur Abdichtung der Kelleraußenwände,
 
- Mai 2015: Aussetzung der Fristen zum Bauantrag vom 20. April 2015, da zunächst
+– Mai 2015: Aussetzung der Fristen zum Bauantrag vom 20. April 2015, da zunächst
 
 ein Vertrag zur Sanierung des Gesamtensembles geschlossen werden soll, bevor die Genehmigung zur Errichtung der temporären Wohnbauten erteilt wird.
 

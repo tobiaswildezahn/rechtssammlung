@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12415", "21/13213", "21/6154"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65400"
@@ -75,15 +76,15 @@ Welche Gespräche haben wann in der laufenden Wahlperiode mit dem BA Wandsbek in
 
 Im Zuge der 4. und bisher letzten Ausbaustufe des StadtRAD-Systems erfolgte mit dem Bezirksamt Wandsbek am 19. Oktober 2015 eine Ortsbegehung, die zur Einrichtung von fünf weiteren Stationen im ersten Halbjahr 2016 geführt hat. Hierbei handelte es sich um folgende Stationen:
 
- Friedrich-Ebert-Damm/Helbingtwiete,
+– Friedrich-Ebert-Damm/Helbingtwiete,
 
- Friedrich-Ebert-Damm/Charlie-Mills-Straße,
+– Friedrich-Ebert-Damm/Charlie-Mills-Straße,
 
- U Trabrennbahn/Traberweg,
+– U Trabrennbahn/Traberweg,
 
- U Farmsen/Rahlstedter Weg und
+– U Farmsen/Rahlstedter Weg und
 
- Gründgensstraße/César-Klein-Ring.
+– Gründgensstraße/César-Klein-Ring.
 
 Damit war der Ausbau im Bezirk Wandsbek abgeschlossen. Zum Standort Rahlstedt siehe Antwort zu 2.
 

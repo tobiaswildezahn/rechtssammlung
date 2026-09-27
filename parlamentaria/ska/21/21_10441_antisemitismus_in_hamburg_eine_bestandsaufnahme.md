@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 20
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9125", "20/12882", "21/1599", "21/9096", "21/10075", "21/5315", "21/719", "21/437", "21/7939", "21/8611", "21/8708"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59314"
@@ -221,7 +222,7 @@ Wie viele dieser Straftaten haben in sonstigen Bildungseinrichtungen (Kinderbetr
 
 Wie viele dieser Straftaten haben in öffentlichen Verkehrsmitteln stattgefunden? Bitte jahresweise angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die erfragten Sachverhalte werden in polizeilichen Dateien statistisch nicht erfasst und können daher nicht elektronisch ausgewertet werden. Für die Beantwortung der Frage müssten die Handakten aller 178 Fälle (siehe Antwort zu 1.) ausgewertet werden. Dies ist in der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -279,7 +280,7 @@ Wie viele dieser Fälle hatten ein Gerichtsverfahren zur Folge? Bitte jahresweis
 
 Wie viele dieser Fälle hatten ein Gerichtsurteil zur Folge? Bitte jahresweise angeben und aufschlüsseln nach Straftatbestand.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die erfragten Daten werden bei der Justiz statistisch nicht erfasst. Die nachfolgenden Angaben sind nicht validierte Ergebnisse einer Auswertung aus dem Geschäftsstellenprogramm MESTA, das nicht vorrangig für derartige Zwecke programmiert ist. Die Ergebnisse der MESTA-Recherche stehen deshalb unter dem Vorbehalt der richtigen Erfassung.
 
@@ -449,7 +450,7 @@ Wie viele und welche jüdischen Einrichtungen in Hamburg erhalten derzeit von de
 
 Wie viele Sicherheitsvorfälle hat es hier jeweils gegeben? Bitte seit 2012 jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Drs. 21/9096.
 
@@ -461,43 +462,43 @@ Welche Fortbildungsangebote für Lehrkräfte zum Umgang Antisemitismus gibt es i
 
 Von wie vielen Lehrkräften und wie häufig werden diese Angebote genutzt?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Das Landesinstitut für Lehrerbildung und Schulentwicklung (LI) bietet schulinterne und zentrale Beratungs- und Fortbildungsangebote für Lehrkräfte an Hamburger Schulen zu den unterschiedlichen Erscheinungsformen gruppenbezogener Menschenfeindlichkeit (Islamismus, Islamfeindlichkeit, Rassismus, Rechtsextremismus und Antisemitismus) an. Eine 2016 geschlossene Kooperationsvereinbarung des LI mit der Kreuzberger Initiative gegen Antisemitismus sieht neben dem regelmäßigen fachlichen Austausch regelmäßige Seminarveranstaltungen vor.
 
 2016 wurden folgende Fortbildungsveranstaltungen angeboten:
 
- „NS, Holocaust, Antisemitismus, Judentum, Israel und Palästina – das ist mir zu
+– „NS, Holocaust, Antisemitismus, Judentum, Israel und Palästina – das ist mir zu
 
 kompliziert für den Unterricht in heterogenen Klassen!“, sechs Teilnehmerinnen und Teilnehmer
 
- „Antisemitismus – ein Problem in muslimisch-migrantischen Milieus?“, 15 Teilneh-
+– „Antisemitismus – ein Problem in muslimisch-migrantischen Milieus?“, 15 Teilneh-
 
 merinnen und Teilnehmer
 
- „Antisemitismus begegnen“, schulinterne Fortbildung 20 Teilnehmerinnen und
+– „Antisemitismus begegnen“, schulinterne Fortbildung 20 Teilnehmerinnen und
 
 Teilnehmer
 
- „Nahost-Konflikt im Unterricht: Antisemitismuskritische Politische Bildung zum
+– „Nahost-Konflikt im Unterricht: Antisemitismuskritische Politische Bildung zum
 
 Nahostkonflikt“, sieben Teilnehmerinnen und Teilnehmer
 
 2017 wurden folgende Fortbildungsveranstaltungen angeboten:
 
- Thema Israel/Palästina für Schülerinnen und Schüler mit und ohne muslimischen
+– Thema Israel/Palästina für Schülerinnen und Schüler mit und ohne muslimischen
 
 Hintergrund, elf Teilnehmerinnen und Teilnehmer
 
- Fake News, Verschwörungstheorien und Antisemitismus im Unterricht begegnen,
+– Fake News, Verschwörungstheorien und Antisemitismus im Unterricht begegnen,
 
 auf Nachfrage von Schulen
 
- Tagung: „Deutsch-jüdische Geschichte in Wissenschaft und Unterricht. Bewährte
+– Tagung: „Deutsch-jüdische Geschichte in Wissenschaft und Unterricht. Bewährte
 
 Zugänge. Aktuelle Herausforderungen. Neue Perspektiven.“, 98 Teilnehmerinnen und Teilnehmer
 
- Politische Bildung und Nahostkonflikt. Grundlagen und Handlungsanregungen für
+– Politische Bildung und Nahostkonflikt. Grundlagen und Handlungsanregungen für
 
 den Unterricht, geplant für November 2017.
 

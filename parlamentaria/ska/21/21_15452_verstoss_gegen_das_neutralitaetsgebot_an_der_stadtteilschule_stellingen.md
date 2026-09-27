@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10700"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64927"
@@ -118,7 +119,7 @@ d) die Geschäftsordnungsbestimmung Nummer 14 der BSB? Bitte buchstabenweise umf
 
 Gelten die Antworten der Fragen 6. und 7. auch, wenn der Aufdruck auf dem T-Shirt gelautet hätte: „SPD S**dumme Partei Deutschlands“?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung.
 
@@ -145,6 +146,6 @@ c) die Geschäftsordnungsbestimmung Nummer 14 der BSB? Bitte buchstabenweise umf
 
 Gilt die Antwort aus Frage 10. auch, wenn in dem Projektmagazin das Symbol einer vom Verfassungsschutz als rechtsextremistisch und gewaltorientiert eingestuften Gruppe/Organisation veröffentlicht worden wäre?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Vorbemerkung.

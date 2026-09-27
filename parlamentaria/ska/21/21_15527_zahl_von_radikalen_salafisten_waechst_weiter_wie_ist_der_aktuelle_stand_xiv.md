@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 29
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12955", "21/9604", "21/12086", "21/11759", "21/9440"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65005"
@@ -223,6 +224,6 @@ Wie viele Haftbefehle wurden seit April 2018 gegen mutmaßliche Islamisten in Ha
 
 Wie viele Haftbefehle gegen mutmaßliche Islamisten wurden bisher aus welchen Gründen nicht vollstreckt?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Auf Antrag der Generalstaatsanwaltschaft wurde im relevanten Zeitraum ein Haftbefehl wegen des Verdachts einer Straftat gemäß §§ 129a, 129b StGB erlassen. Dieser Haftbefehl datiert vom 2. Mai 2018. Im Übrigen siehe Drs. 21/12955.

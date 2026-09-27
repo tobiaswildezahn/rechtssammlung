@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13217", "21/14071", "21/9084"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64948"
@@ -158,17 +159,23 @@ Ist es zutreffend, dass der Kita-Bau auf der Fläche von f & w bis zum
 
 Der Kita-Bau ist seitens des Nutzers bis zum 01.10.2021 angemietet. Die monatliche Miete an den Vermieter beträgt 5.147,75 Euro. Außenanlagen und Eigenkosten von f & w sind darin nicht enthalten. Es gibt für den Vertrag drei Verlängerungsoptionen, die nacheinander jeweils drei Monate vor Ablauf des Vertrages geltend gemacht werden müssen. Demnach sind folgende Verlängerungszeiträume möglich:
 
- bis zum 30.09.2025.
+– bis zum 30.09.2025.
 
- bis zum 30.09.2030.
+– bis zum 30.09.2030.
 
- danach fünfmal um jeweils zwölf Monate.
+– danach fünfmal um jeweils zwölf Monate.
 
 ### Frage 9
 
 Gemäß Mietvertrag von f & w für das Flurstück 270 an der Eulenkrugstraße hat der Vermieter eine jährliche Spende an eine Stiftung, deren Zweckbestimmung unter anderem die Integration von Flüchtlingen und die Förderung von Maßnahmen zur Landschaftspflege ist, zu leisten.
-9.1. In welcher Höhe ist im Jahr 2018 eine Spende zu erbringen beziehungsweise bereits erbracht worden?
-9.2. Gemäß Aussagen des Senats in Drs. 21/9084 hat der Vermieter gegenüber der Verwaltung zugesagt, den Spendenempfänger mit der Freien und Hansestadt Hamburg rechtzeitig abzustimmen.
+
+### Frage 9.1
+
+In welcher Höhe ist im Jahr 2018 eine Spende zu erbringen beziehungsweise bereits erbracht worden?
+
+### Frage 9.2
+
+Gemäß Aussagen des Senats in Drs. 21/9084 hat der Vermieter gegenüber der Verwaltung zugesagt, den Spendenempfänger mit der Freien und Hansestadt Hamburg rechtzeitig abzustimmen.
 9.2.1. Wann genau und in welcher Form erfolgte die Abstimmung der Spende mit dem Vermieter? Welche Stellen der Freien und Hansestadt Hamburg und welche weiteren Stellen waren an dieser Abstimmung beteiligt?
 9.2.2. Wer ist der genaue Empfänger der Spende?
 
@@ -176,7 +183,7 @@ Gemäß Mietvertrag von f & w für das Flurstück 270 an der Eulenkrugstraße ha
 
 Sind f & w auf Basis des Mietvertrages für das Flurstück 270 bereits Änderungen der Rechtsform oder des Mitglieder-/Gesellschafterbestands der Gesellschafter des Vermieters angezeigt worden? Wenn ja, jeweils wann und welche Änderungen im Einzelnen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9, 9.1, 9.2 und 10
 
 Die Spende wird erstmalig zum 31. Dezember 2018 zugesichert. Die Spendenhöhe in Höhe von 10.000 Euro ist im Mietvertrag geregelt, siehe http://daten.transparenz. hamburg.de/Dataport.HmbTG.ZS.Webservice.GetRessource100/ GetRessource100.svc/aa9affac-7040-4962-87a4-cc79a2560b28/Upload__ Eulenkrugstrasse_Mietvertrag.pdf.
 

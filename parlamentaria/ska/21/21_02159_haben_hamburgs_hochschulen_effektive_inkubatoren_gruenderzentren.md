@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1107", "21/1686", "20/13400"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50435"
@@ -222,61 +223,79 @@ a) Welche weiteren Gründungsprojekte, Gründerzentren und/oder Inkubatoren exis
 Institution  
 Gründungsprojekte, Gründerzentren u./o. Inkubatoren  
 UHH  
- Seit 2008 werden nach Auslaufen des EXIST-geförderten
+– Seit 2008 werden nach Auslaufen des EXIST-geförderten
 
-Projektes Campus-SEED die EXIST-Projekte im Referat Wissens- und Technologietransfer (WTT) betreut.  Seit 2012 wurde das Gründungsmanagement im WTT
+Projektes Campus-SEED die EXIST-Projekte im Referat Wissens- und Technologietransfer (WTT) betreut.
+– Seit 2012 wurde das Gründungsmanagement im WTT
 
-verstetigt, um die nachhaltige Betreuung der Existenzgründungen aus der Wissenschaft (EXIST) an der Universität Hamburg zu gewährleisten. Im Zeitraum 2009-2015 wurden folgende Gründungsprojekte/Ausgründungen betreut:  Delta Branding GmbH (82.000 € Bundesmittel)  Predictive Gradient GmbH (80.500 € Bundesmittel)  Mondula GmbH (82.000 € Bundesmittel)  Lablicate UG (106.700 € Bundesmittel)  YouVal GmbH (42.500 € Bundesmittel)  Crowdstein UG (79.600 € Bundesmittel)  ADB Analytic Dashboards GmbH (82.100 € Bundesmit-
+verstetigt, um die nachhaltige Betreuung der Existenzgründungen aus der Wissenschaft (EXIST) an der Universität Hamburg zu gewährleisten. Im Zeitraum 2009-2015 wurden folgende Gründungsprojekte/Ausgründungen betreut:
+– Delta Branding GmbH (82.000 € Bundesmittel)
+– Predictive Gradient GmbH (80.500 € Bundesmittel)
+– Mondula GmbH (82.000 € Bundesmittel)
+– Lablicate UG (106.700 € Bundesmittel)
+– YouVal GmbH (42.500 € Bundesmittel)
+– Crowdstein UG (79.600 € Bundesmittel)
+– ADB Analytic Dashboards GmbH (82.100 € Bundesmit-
 
-tel)  Baqend GmbH (94.000 € Bundesmittel)  Viewlicity GmbH (125.000 € Bundesmittel)
+tel)
+– Baqend GmbH (94.000 € Bundesmittel)
+– Viewlicity GmbH (125.000 € Bundesmittel)
 
- Seit 2015 findet in Form einer Internetplattform (Gründer-
+– Seit 2015 findet in Form einer Internetplattform (Gründer-
 
-service der Universität Hamburg) eine Bündelung aller Aktivitäten und Serviceleistungen für Gründerinnen und Gründer sowie Gründungsinteressierte der Universität statt (s. https://www.unihamburg.de/forschung/transfer/wissenschaftwirtschaft/existenzgruendungen.html).  Im Career Center der Universität wurden die Serviceange-
+service der Universität Hamburg) eine Bündelung aller Aktivitäten und Serviceleistungen für Gründerinnen und Gründer sowie Gründungsinteressierte der Universität statt (s. https://www.unihamburg.de/forschung/transfer/wissenschaftwirtschaft/existenzgruendungen.html).
+– Im Career Center der Universität wurden die Serviceange-
 
 bote für Gründungsinteressierte in Form von Seminaren, Workshops sowie Summer und Winter Schools und auch in Form einer Gründerberatung durch „hep“ verstetigt.
 
- Seit 2013 beteiligt sich die UHH gemeinsam mit der FHH
+– Seit 2013 beteiligt sich die UHH gemeinsam mit der FHH
 
 und dem DESY an der Gründungsvorbereitung eines Inkubators auf dem Campus Bahrenfeld (s. Drs. 20/13400)  
 Universitätsklinikum  
 Hamburg-  
 Eppendorf (UKE)
 
- Vom Bundesministerium für Bildung und Forschung
+– Vom Bundesministerium für Bildung und Forschung
 
 (BMBF) geförderte Einzelprojekte im Förderprogramm EXIST Forschungstransfer:
 
- 2009-2010: Projekt „Voxelmann“: Entwicklung eines
+– 2009-2010: Projekt „Voxelmann“: Entwicklung eines
 
-Simulators für das Training zahnmedizinischer Eingriffe (417.000 € Bundesmittel)  2014-2015: Projekt „Airchill“: Gekühlte Beatmung zur
+Simulators für das Training zahnmedizinischer Eingriffe (417.000 € Bundesmittel)
+– 2014-2015: Projekt „Airchill“: Gekühlte Beatmung zur
 
 Kühlung des menschlichen Körpers (500.000 € Bundesmittel)
 
 Institution Gründungsprojekte, Gründerzentren u./o. Inkubatoren
 
- 2015-2017: Projekt „sMaRT-sync“: Entwicklung eines
+– 2015-2017: Projekt „sMaRT-sync“: Entwicklung eines
 
-neuen Verfahrens zur Aufnahme der Herzaktion durch Magnetresonanztomographie in der Kardiologie und Geburtshilfe (807.000 € Bundesmittel) TUHH  Seit 2013 – TUHH-Startup Dock, das Hamburger Studie-
+neuen Verfahrens zur Aufnahme der Herzaktion durch Magnetresonanztomographie in der Kardiologie und Geburtshilfe (807.000 € Bundesmittel) TUHH
+– Seit 2013 – TUHH-Startup Dock, das Hamburger Studie-
 
-rende und Wissenschaftler/-innen, die ein eigenes Unternehmen gründen wollen, unterstützt. Ziel ist es, aus dem wissenschaftlichen Potenzial technologieorientierte Innovations- und Gründungsprojekte entstehen zu lassen und eine lebendige Gründungskultur auf dem Campus zu schaffen.  Die erste Säule des Startup Docks ist das Zentrum für
+rende und Wissenschaftler/-innen, die ein eigenes Unternehmen gründen wollen, unterstützt. Ziel ist es, aus dem wissenschaftlichen Potenzial technologieorientierte Innovations- und Gründungsprojekte entstehen zu lassen und eine lebendige Gründungskultur auf dem Campus zu schaffen.
+– Die erste Säule des Startup Docks ist das Zentrum für
 
 Innovation & Entrepreneurship (ZIE). Ein erfahrenes Team berät, coacht und fördert Studierende und Wissenschaftler/-innen auf dem Weg zum eigenen Start-up. Das Angebot für junge Entrepreneure umfasst unter anderem Möglichkeiten des Mentoring sowie der Qualifizierung und Finanzierung.
 
- Als zweite Säule bietet das TUHH Institute of Entrepre-
+– Als zweite Säule bietet das TUHH Institute of Entrepre-
 
 neurship (TIE) Gründern und Gründungsinteressierten ein umfangreiches und praxisorientiertes Lehr- und Forschungsangebot im Bereich Technology Innovation und Entrepreneurship an, in dessen Rahmen jeder Bachelor- Studierende mit dem Thema Entrepreneurship in Berührung kommt.
 
-  
+–  
 Das Startup Dock arbeitet eng zusammen mit der  
 TuTech Innovation GmbH und dem NIT Northern Institute  
 of Technology Management.  
 HAW  
- Derzeit BMBF-geförderte Einzelprojekte im Förderpro-
+– Derzeit BMBF-geförderte Einzelprojekte im Förderpro-
 
 gramm EXIST Forschungstransfer wie folgt:
 
- Beatbuddy (92.000,00 € Bundesmittel)  RentMyRide (93.585,74 € Bundesmittel)  Osmotic Studios (123.500,00 € Bundesmittel)  Protein Master (122.000,00 € Bundesmittel)  Darüber hinaus entwickelt die HAW Hamburg derzeit mit
+– Beatbuddy (92.000,00 € Bundesmittel)
+– RentMyRide (93.585,74 € Bundesmittel)
+– Osmotic Studios (123.500,00 € Bundesmittel)
+– Protein Master (122.000,00 € Bundesmittel)
+– Darüber hinaus entwickelt die HAW Hamburg derzeit mit
 
 externer Unterstützung eine Gründerstrategie für die Hochschule. Zudem wurden im Rahmen des Zukunftsfonds der HAW Hamburg im ersten Halbjahr 2015 Projekte mit hohem Transfercharakter genehmigt, u.a. der Aufbau des „Creative Space“ in der Fakultät TI sowie das Projekt „Business Innovation Lab“ der Fakultät W&S.
 

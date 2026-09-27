@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 19
 antwortbloecke: 0
 beantwortet: false
+status: "unbeantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105280"
@@ -27,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Antje Müller-Möller (CDU) vom 16.09.26 und Antwort des Senats · Drucksache vom 16.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105280) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105280/23_05377_hamburger_volkshochschule_und_allgemeine_weiterbildung_zuschussentwicklung_kostendeckung_und_bundesfinanzierung)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

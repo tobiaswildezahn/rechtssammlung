@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 38
 antwortbloecke: 22
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1826", "21/1974", "21/6180", "21/6262", "21/9713", "21/9774", "21/10610", "21/11147", "21/3589", "21/11380"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61116"
@@ -385,9 +386,9 @@ Abendveranstaltung:
 19.00 Begrüßung und Vorstellung des Ablaufs Martin Brinkmann, steg Hamburg mbH Grußwort Radverkehrskoordinatorin Kirsten Pfaue, Behörde für Wirtschaft, Verkehr und Innovation (BWVI)
 
 19.15 Die Planung Bellevue/Schöne Aussicht im Rahmen des Projekts Alster Fahrradachsen:
-• Auswertung des Feedbacks im Rahmen der 1. Veranstaltung am 02.03.2017
-• Die Planung im Abschnitt Bellevue/Schöne Aussicht
-• Ausblick Heinke Wiemer, Landesbetrieb Straßen, Brücken und Gewässer (LSBG)
+– Auswertung des Feedbacks im Rahmen der 1. Veranstaltung am 02.03.2017
+– Die Planung im Abschnitt Bellevue/Schöne Aussicht
+– Ausblick Heinke Wiemer, Landesbetrieb Straßen, Brücken und Gewässer (LSBG)
 
 20.00 Diskussion im Plenum
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 23
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9538", "20/13460", "21/5039", "21/9440", "21/9985", "21/5139", "21/9781", "21/9604", "21/1395", "21/8487"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58931"
@@ -188,13 +189,13 @@ Darüber hinaus laufen derzeit Auswahlverfahren für neue Projekte des Bundesamt
 
 Nach Kenntnisstand vom 18.08.2017 befinden sich folgende Projekte im Bewilligungsverfahren beim Bundesamt:
 
- Das Projekt Bildmachen des Trägers Ufuq wendet sich an Jugendliche im Alter von
+– Das Projekt Bildmachen des Trägers Ufuq wendet sich an Jugendliche im Alter von
 
 14 bis 21 Jahren und fördert die aktive Nutzung von Online-Medien in der Begegnung mit religiös-extremistischen Ansprachen. Es fördert das Interesse von Jugendlichen, eigene Online-Inhalte zu gestalten und dabei Bezüge zu persönlich
 
 relevanten Themen und lokalen Zusammenhängen herzustellen. Das Projekt beschränkt sich damit nicht auf Online-Diskurse, sondern sensibilisiert und stärkt Jugendliche in ihrem alltäglichen Handeln.
 
- Das Institut für konstruktive Konfliktaustragung und Mediation e.V. hat einen
+– Das Institut für konstruktive Konfliktaustragung und Mediation e.V. hat einen
 
 Zuschlag für ein Projekt mit dem Arbeitstitel „Deradikalisierung im Sozialraum“ erhalten. Ziele sind der Abbau von Muslimfeindlichkeit, Demokratieförderung, Konfliktmoderation bei interkulturellen Konflikten, Verantwortungsübernahme im Sozialraum durch die Akteure selbst, Wissens- und Kompetenzvermittlung, Arbeit mit Vorurteilen und Entwicklung von Handlungsstrategien sowie Stabilisierung einer toleranten Grundhaltung für verschiedene Lebensweisen und Bedürfnisse.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10414", "21/3607", "20/5550"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52924"
@@ -109,6 +110,6 @@ Neben der Beförderung der Kreuzfahrtpassagiere besteht gemäß Senatsdrs. 20/10
 
 Ebenfalls gibt es eine große Anzahl von im Terminal und auf dem jeweils anlegenden Schiff beschäftigten Besatzungsmitgliedern und externen Dienstleistern; welche Verkehrsoptionen bestehen für diese Nutzergruppen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Es besteht die Möglichkeit eines kostenfreien Bus-Shuttles zwischen Terminal Steinwerder und S-Bahn-Station Veddel, der eine Weiterfahrt mit der S-Bahn Richtung Hamburg-Innenstadt anbietet. Besatzungsmitglieder können darüber hinaus die Angebote des Duckdalben und der Seemannsmission Stella Maris nutzen.

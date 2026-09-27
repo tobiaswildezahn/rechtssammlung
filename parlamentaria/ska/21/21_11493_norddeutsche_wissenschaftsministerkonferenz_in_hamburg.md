@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60621"
@@ -81,21 +82,21 @@ Welche Kriterien wurden mit welcher Begründung für die Vergabe des Norddeutsch
 
 Folgende neue Kriterien finden ab 2018 Anwendung:
 
- Die Höhe des Preisgeldes wird auf 250.000 Euro erhöht.
+– Die Höhe des Preisgeldes wird auf 250.000 Euro erhöht.
 
- Es können bis zu drei Wettbewerbsbeiträge prämiert werden, wobei für den Wett-
+– Es können bis zu drei Wettbewerbsbeiträge prämiert werden, wobei für den Wett-
 
 bewerbsgewinner mindestens 125.000 Euro vorgesehen sind.
 
- Auf thematische Vorgaben von Fachthemen wird in Zukunft verzichtet. Der Preis
+– Auf thematische Vorgaben von Fachthemen wird in Zukunft verzichtet. Der Preis
 
 wird themenoffen für Fächergruppen ausgeschrieben.
 
- Neben länderübergreifenden Kooperationsprojekten, die sich bereits durch hervor-
+– Neben länderübergreifenden Kooperationsprojekten, die sich bereits durch hervor-
 
 ragende Leistungen ausgezeichnet haben, können zukünftig auch geplante Kooperationsvorhaben mit neuen, innovativen Forschungsideen Wettbewerbsbeiträge einreichen.
 
- Der Norddeutsche Wissenschaftspreis wird ab dem Jahr 2018 alle zwei Jahre ver-
+– Der Norddeutsche Wissenschaftspreis wird ab dem Jahr 2018 alle zwei Jahre ver-
 
 geben. Die Federführung für die Preisverleihung im Jahr 2018 liegt beim Land Bremen, Hamburg übernimmt die Federführung im Jahr 2022.
 

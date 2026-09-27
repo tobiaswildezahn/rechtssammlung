@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 0
 beantwortet: false
+status: "unbeantwortet"
 zitierte_drucksachen: ["23/5236", "23/5359"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105317"
@@ -27,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage und Antwort des Senats · Drucksache vom 17.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105317) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105317/23_05412_drohnenabwehr_in_hamburg_welche_mittel_fliessen_tatsaechlich_in_den_schutz_des_hafens)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

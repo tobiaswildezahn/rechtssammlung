@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14639", "21/14584"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66595"
@@ -79,7 +80,7 @@ Welche Verbindungen bestanden zwischen „Tugra Hamburg“ und dem ehemaligen �
 
 Welche Verbindungen bestehen zwischen „Tugra Hamburg“ und „UID“ (Union of International Democrats e.V.)?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 „Boxclub Osmanen Germania“ und „Union of International Democrats e.V.“ sind keine Beobachtungsobjekte des LfV Hamburg. Im Übrigen siehe Antwort zu 1. bis 8.
 
@@ -107,6 +108,6 @@ Sind dem Hamburger Senat und den Sicherheitsbehörden Aktivitäten einzelner Per
 
 Wie schätzen der Hamburger Senat und die Sicherheitsbehörden das Gefahrenpotenzial von „Tugra Hamburg“ ein?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Drs. 21/14584 und Antwort zu 1. bis 8.

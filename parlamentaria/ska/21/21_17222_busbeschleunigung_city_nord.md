@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66793"
@@ -59,6 +60,6 @@ Mit welchen Baukosten rechnet der Senat beziehungsweise die zuständige Behörde
 
 Welche der unter 3. angegebenen Kosten entfallen auf die durch den Denkmalschutz gemachten Auflagen beziehungsweise Anforderungen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Maßnahme hat den Stand einer 1. Verschickung. Eine Ermittlung der Baukosten liegt daher noch nicht vor.

@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 44
 antwortbloecke: 21
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6199", "21/6434", "21/6919"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56642"
@@ -55,7 +56,7 @@ d) Wie sehen die bisherigen Ergebnisse aus und bis wann ist mit einem Abschluss 
 
 Hat es bereits Sitzungen der Arbeits- oder Steuergruppe und der Untergruppen gegeben und was waren Inhalt und Ergebnisse dieser Sitzungen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die deutsch-französische Lenkungsgruppe unter Leitung des Staatsrates der zuständigen Behörde ist eingerichtet. Sie setzt sich aus Vertreterinnen und Vertretern der zuständigen Behörde, der französischen Botschaft, des französischen Generalkonsulats und der „Agence pour l'enseignement français à l'étranger“ (AEFE) zusammen.
 
@@ -63,13 +64,13 @@ Auf Arbeitsebene wurde eine deutsch-französische Projektgruppe etabliert. Diese
 
 Folgende Arbeitsgruppen (AG) wurden gebildet:
 
- AG 1 „Bau“
+– AG 1 „Bau“
 
- AG 2 „Pädagogisches Konzept“
+– AG 2 „Pädagogisches Konzept“
 
- AG 3 „Personal“
+– AG 3 „Personal“
 
- AG 4 „Recht“
+– AG 4 „Recht“
 
 Die Arbeitsgruppen 1 und 2 setzen sich aus Vertreterinnen und Vertretern der zuständigen Behörde, des Trägervereins, der Schulleitung sowie der Lehrer- und Elternschaft zusammen. Der Anteil der Vertreterinnen und Vertreter der Lehrer- und Elternschaft in diesen Arbeitsgruppen beträgt mindestens 50 Prozent. Die AG 3 tagt bis auf die Beteiligung der Elternschaft in vergleichbarer Zusammensetzung der AG 1 und 2. Die AG 4 besteht aus Vertreterinnen und Vertretern der zuständigen Behörde. Anlassbezogen werden hier Vertreterinnen und Vertretern der französischen Botschaft, des französischen Generalkonsulats, der AEFE sowie des Vorstandes des Trägervereins und der Schulleitung hinzugezogen.
 
@@ -159,7 +160,7 @@ Wie sieht die pädagogische Struktur am Lycée Antoine de Saint-Exupéry unter E
 
 Wie sieht die Kompatibilität des gegenwärtigen Lycée Antoine de Saint- Exupéry einerseits und des zukünftigen DFG andererseits mit dem in Hamburg üblichen System aus Grundschulen, Stadtteilschulen und Gymnasien im Detail aus?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Das gegenwärtige Lycée Antoine de Saint-Exupéry ist als staatlich anerkannte Ersatzschule aus einer französischen Auslandschule hervorgegangen und folgt dem Lehrplan der für französische Auslandschule zuständigen AEFE, der um Anforderungen der Hamburger Bildungspläne ergänzt ist. Zur detaillierten pädagogischen Struktur siehe https://lfh.de/.
 
@@ -248,6 +249,6 @@ In welchem Umfang und welcher Form hat der Senat die örtlichen
 a) Anwohner und
 b) Gewerbetreibenden bisher in den Verlegungsprozess eingebunden? Inwieweit wird dies in der Zukunft geschehen?
 
-#### Antwort zu Fragen 23 bis 24
+#### Antwort zu Fragen 23 und 24
 
 Bei der Gestaltung des Übergangs steht die Beteiligung der Träger-, Eltern- und Lehrerschaft im Vordergrund, siehe dazu auch Drs. 21/6919. Die Überlegungen hierzu sind noch nicht abgeschlossen.

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12948", "21/12870", "21/12597"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62830"
@@ -57,7 +58,7 @@ Warum hat die die BSB in Anbetracht der geplanten und erwarteten Zuzüge von Fam
 
 Warum berücksichtigt die BSB den unmittelbar bevorstehenden Zuzug von Neu-Rissenern und geflüchteten Familien mit nur 15 freien Plätzen (an den Grundschulen Iserbarg und Lehmkuhle) für Jahrgang 2018?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung und Antwort zu 3. und 4. sowie Drs. 21/12948 und 21/12870.
 
@@ -69,7 +70,7 @@ Wie lässt sich die Aussage der BSB aus Anfang Mai 2018, dass 15 Plätze ausreic
 
 Die BSB bezieht für die Schulplanung in Rissen die Grundschule Sülldorf mit ein – inwiefern bezieht sie auch den geplanten Wohnungsbau in Sülldorf für die drei Grundschulen (und später weiterführenden Schulen) mit ein? Bitte unter Nennung konkreter Zahlen darstellen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Unter Berücksichtigung der Bauvorhaben Rissen 45, 51 und 52 sowie Sülldorf 23 und 24 wird derzeit von rund 805 Wohneinheiten bis Ende 2019 und insgesamt maximal
 1.000 bis 1.050 Wohneinheiten bis 2022 im Einzugsbereich der drei Grundschulen Iserbarg, Marschweg und Lehmkuhlenweg ausgegangen.
@@ -88,7 +89,7 @@ Welche zwingenden Sachgründe stehen aus Sicht des Senats oder der zuständigen 
 
 Mindestens vier der vom Marschweg abgelehnten, künftigen Erstklässler haben einen Schulweg von 2.050 m bis 2.300 m Länge zu der ihnen nun zugewiesenen Schule. Erschwerend kommt hinzu, dass diese Kinder den Weg nicht in der Gruppe zurücklegen können, da die Kinder der unmittelbaren Umgebung fast ausnahmslos zum Marschweg gehen. Wie schätzen der Senat und die BSB die Zumutbarkeit bezüglich des Schulwegs ein?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung sowie Drs. 21/12948 und 21/12870.
 

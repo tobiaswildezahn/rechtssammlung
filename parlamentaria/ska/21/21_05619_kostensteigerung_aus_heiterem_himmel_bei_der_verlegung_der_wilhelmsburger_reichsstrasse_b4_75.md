@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54112"
@@ -104,7 +105,7 @@ Welche Stelle ist für die Planung und die Ausführung der Verlegung der Wilhelm
 
 Welche Stelle ist für die aktuelle Kostensteigerung gegenüber der Planung und bei der Ausführung der Verlegung der Wilhelmsburger Reichsstraße verantwortlich?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Das Amt für Verkehr und Straßenwesen innerhalb der Behörde für Wirtschaft, Verkehr und Innovation ist als Auftragsverwaltung des Bundes tätig. Im Übrigen siehe Vorbemerkung.
 
@@ -143,6 +144,6 @@ Haben Vertreter des Senats beziehungsweise der BWVI vor dem öffentlichen Bekann
 
 Warum wurden die Bürgerschaft und speziell die Abgeordneten des Verkehrsausschusses der Bürgerschaft bis zum heutigen Tage nicht vom Senat beziehungsweise der BWVI über die Kostensteigerungen informiert?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.

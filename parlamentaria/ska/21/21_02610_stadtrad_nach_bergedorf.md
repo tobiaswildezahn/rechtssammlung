@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2482"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50911"
@@ -81,6 +82,6 @@ Trifft es zu, dass die DB Rent GmbH für die Einrichtung von StadtRAD- Stationen
 
 Werden derzeit StadtRÄDER zwischen den einzelnen Stationen durch den Betreiber hin und her transportiert, um zu gewährleisten, dass überall Räder zur Verfügung stehen? Wenn ja: Wo liegt der grundsätzliche Unterschied zu einem möglichen Angebot in Bergedorf?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Erfahrungen mit dem seit Frühjahr 2015 bestehenden StadtRAD-Angebot in Harburg zeigen, dass sich die Fahrräder dort nicht durch die Kundenfahrten in ausreichendem Umfang verteilen. Vielmehr würden ohne eine entsprechende Redistribution der Räder wenige zentral gelegene Stationen in kurzer Zeit über- und die anderen leer laufen. Somit erfordert ein isoliertes Bedienungsgebiet mit einer vergleichsweise kleinen Stationsanzahl und zudem langem Anfahrtsweg eine tägliche Bewirtschaftung, während sich im übrigen Bedienungsgebiet durch die hohe Stationsanzahl und -dichte eine ausgeglichene Auslastung der Stationen teilweise allein durch die Kundenfahrten regelt. Vor diesem Hintergrund hat die DB Rent GmbH gegenüber der zuständigen Behörde das Erfordernis zusätzlicher Kräfte und Fahrzeuge für die Teilbereiche Harburg und Bergedorf zur Aufrechterhaltung einer angemessenen Servicequalität und somit einer Aufstockung des Betreiberentgelts zum Ausdruck gebracht.

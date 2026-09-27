@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5125", "21/6160"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56025"
@@ -51,7 +52,7 @@ Wenn ja, seit wann genau?
 Wenn nein, warum nicht und welche konkreten Daten und Nachweise  
 liegen noch nicht vor?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die erforderlichen Daten und Nachweise liegen seit November 2016 vor. Die Auswertung des Pilotversuchs ist abgeschlossen und wird für den Entscheidungsprozess aufgearbeitet.
 

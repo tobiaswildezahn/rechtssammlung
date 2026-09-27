@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3635", "16/4616"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55115"
@@ -128,7 +129,7 @@ Hat der Senat eine Übersicht der Hamburger Stadtteile, aus der hervorgeht, wo d
 
 Sind dem Senat Fälle bekannt, in denen aufgrund der Gefahr von Übergriffen/bereits erfolgten Übergriffen gegenüber Rettungskräften diese ihren Dienst verweigert beziehungsweise abgebrochen haben? Wenn ja, bitte Details angeben.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Eine Statistik im Sinne der Fragestellung wird weder bei der Polizei noch bei der Feuerwehr geführt; darüber hinaus siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54237"
@@ -55,7 +56,7 @@ Hat der Senat Kontakt mit dem Eigentümer der Räumlichkeiten aufgenommen? Was w
 
 Falls nein, wird der Senat noch Kontakt zum Eigentümer der Räumlichkeiten aufnehmen? Was soll dabei besprochen werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Träger hat die Kündigung rechtlich prüfen lassen mit dem Ergebnis, dass diese rechtmäßig ist. Es sind mehrere Gespräche zwischen den Vertragspartnern geführt worden, unter anderem auch über Unterstützungsmaßnahmen des Eigentümers bei der Suche nach neuen Räumlichkeiten. Ein Gespräch mit dem Eigentümer, um auf einen neuen Mietvertrag nach Ende der Bauzeit hinzuwirken, hat noch nicht stattgefunden.
 
@@ -67,7 +68,7 @@ Unterstützt der Senat das Projekt bei der Suche nach neuen Räumlichkeiten? Wen
 
 Hat der Senat dem Projekt alternative Räumlichkeiten vorgeschlagen? Wenn ja, welche?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Senatorin der zuständigen Behörde hat dem Träger im November 2015 ein unterstützendes Schreiben zur Verfügung gestellt, aus dem mögliche Vermieter ersehen konnten, dass das Projekt Kids befürwortet und langfristig gefördert wird. Die zuständige Behörde hat dem Träger Ansprechpartner beziehungsweise -partnerinnen im Bezirksamt Hamburg-Mitte einschließlich des zuständigen Quartiersmanagements, bei der Sprinkenhof GmbH und dem Landesbetrieb Erziehung und Beratung benannt,
 
@@ -83,7 +84,7 @@ Welche vergleichbaren Projekte für Straßenkinder gibt es in Hamburg? Wie förd
 
 Gibt es ähnliche Projekte für Straßenkinder, welche der Senat trägt? Wenn ja, welche?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Träger Off Road Kids Jugendhilfe gGmbH unterhält in St. Georg eine Streetwork- Station, von der aus junge Ausreißer, Straßenkinder und junge Obdachlose betreut werden. Der Schwerpunkt der Zielgruppe liegt auf jungen Menschen, die nicht aus Hamburg stammen. Die Stiftung arbeitet spendenfinanziert und lehnt eine Förderung durch die Freie und Hansestadt Hamburg ab.
 

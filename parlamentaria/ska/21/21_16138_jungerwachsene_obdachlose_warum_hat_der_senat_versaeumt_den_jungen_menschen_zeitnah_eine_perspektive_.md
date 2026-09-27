@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 29
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15398", "21/15401", "21/16101"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65644"
@@ -87,7 +88,7 @@ Ab wann dürfen die jungen Frauen den JEP-Standort Hinrichsenstraße beziehen?
 
 Welche Umbaumaßnahmen und Renovierungen sind am JEP-Standort in der Hinrichsenstraße notwendig?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der Belegungsbeginn mit jungen Frauen ist für den 01.04.2019 geplant. Am Standort Hinrichsenstraße sind Renovierungsarbeiten erforderlich. Dieses sind unter anderem Malerarbeiten, Ausbesserungsarbeiten am Fußboden und die Erneuerung einer Küche.
 
@@ -115,7 +116,7 @@ Wann erhielten f & w fördern und wohnen AöR (f & w) und der Landesbetrieb Erzi
 
 Wann wurden die entsprechenden Räumlichkeiten gefunden und von wem angemietet?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Kooperation zwischen f & w und dem LEB begann zum 01.05.2018. Die Räumlichkeiten wurden vor Nutzung im Rahmen des JEP vom LEB zur Unterbringung minderjähriger unbegleiteter Flüchtlinge genutzt und waren insoweit bekannt. Aufgrund der rückläufigen Zahlen des Unterbringungsbedarfs für minderjährige unbegleitete Flüchtlinge konnte der Standort zum 15.07.2018 durch f & w übernommen werden.
 
@@ -127,7 +128,7 @@ Was unterscheidet das JEP von einer öffentlich-rechtlichen Unterkunft, bei der 
 
 Wie gestaltet sich die genaue Arbeitsteilung zwischen f & w und dem LEB beim JEP?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Vorbemerkung.
 

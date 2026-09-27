@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 29
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8865", "21/5384"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58560"
@@ -51,7 +52,7 @@ Die Zusammensetzung des neuen Plenums der Handelskammer hat dazu geführt, dass 
 
 Bisher legten Gesetzgeber und Rechtsprechung Wert darauf, dass die Kammer ein „Spiegelbild“ der gewerblichen Wirtschaft darstellt. Sieht der Senat diese Spiegelbildlichkeit, insbesondere im Hinblick auf die Unternehmensgrößenklassen, derzeit als gegeben an? Wenn nein, hält der Senat eine dahin gehend wirkende Änderung von Satzung und Wahlordnung für geboten, um die Gesamtinteressenvertretungsfunktion des Plenums sicherzustellen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ein Weggang von Kaufleuten oder anderen Gewerbetreibenden aus der Handelskammer Hamburg ist aufgrund der Pflichtmitgliedschaft nach § 2 IHK-Gesetz nicht möglich. Die Wahl zum Plenum hat satzungsgemäß und rechtmäßig stattgefunden, das Wahlergebnis ist rechtlich nicht zu beanstanden. Im Übrigen wurden zur Förderung der Repräsentativität der gesamten Hamburger Wirtschaft ins Plenum der Handelskammer Hamburg weitere Mitglieder kooptiert.
 
@@ -87,7 +88,7 @@ Sieht der Senat mögliche Probleme, die durch die Auslagerung und den Verkauf de
 
 Die alte Börse, die Handelskammer, ist ähnlich wie das Rathaus ein Symbol unserer Stadt und spiegelt die Geschichte der erfolgreichen Söhne unserer Stadt wider. Auch der Reichtum Hamburgs ist stets im selben Atemzug mit der Handelskammer zu nennen. Wie bewertet der Senat das Szenario eines Umzugs der Handelskammer Hamburg?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Hiermit hat sich der Senat nicht befasst.
 
@@ -107,7 +108,7 @@ Wer haftet für die Handelskammer, sollte diese nicht in der Lage sein, für die
 
 Was könnte aus Sicht des Senats getan werden, um die finanzielle Situation der Handelskammer Hamburg zu stabilisieren, damit diese auch weiterhin ihre Aufgaben und Pflichten erfüllen und somit ihre lange Tradition erhalten kann?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Nach § 3 Absatz 2 IHK-Gesetz werden die Kosten der Errichtung und Tätigkeit der Industrie- und Handelskammer, soweit sie nicht anderweitig gedeckt sind, durch Beiträge der Kammerzugehörigen gemäß einer Beitragsordnung aufgebracht. Im Übrigen korrespondiert mit dem parlamentarischen Fragerecht nur ein Anspruch auf Auskünfte, nicht aber auf meinungsbildende Stellungnahmen, von denen der Senat deshalb auch im vorliegenden Fall absieht.
 

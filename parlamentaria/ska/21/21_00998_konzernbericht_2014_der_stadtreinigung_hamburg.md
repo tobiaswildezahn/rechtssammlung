@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 18
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49176"
@@ -84,17 +85,17 @@ Wie erklärt sich die Veränderung der Auszahlung für Investitionen in das Fina
 
 Die Veränderung des Finanzanlagevermögens im Konzern um 17 Millionen Euro setzt sich wie folgt zusammen:
 
- Kaufpreis Müllverbrennungsanlage Rugenberger Damm KG (MVR KG) 21 Millio-
+– Kaufpreis Müllverbrennungsanlage Rugenberger Damm KG (MVR KG) 21 Millio-
 
 nen Euro (Kaufpreis für 20 Prozent der Anteile an der MVR KG)
 
 abzüglich
 
- Tilgung Darlehen MVR KG 1 Million Euro
+– Tilgung Darlehen MVR KG 1 Million Euro
 
 abzüglich
 
- planmäßige Erlöse aus dem Verkauf von Wertpapieren (Staatsanleihen und
+– planmäßige Erlöse aus dem Verkauf von Wertpapieren (Staatsanleihen und
 
 Pfandbriefe) nach Ablauf der Laufzeit 3 Millionen Euro.
 
@@ -122,7 +123,7 @@ Wie erklärt sich der Anstieg des Wertes von entgeltlich erworbener Software und
 
 Wie erklärt sich der Anstieg des Wertes von Grundstücken und Bauten einschließlich der Bauten auf fremden Grundstücken (Sachanlagen)? (Bezugnahme auf Seite 83 des Konzernberichtes 2014.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Im Jahr 2014 wurde die Müllverwertungsanlage Borsigstraße (MVB) erworben und erstmalig im Konzernabschluss der SRH berücksichtigt. Daraus ergibt sich ein Zugang für Software und Nutzungsrechte aus der MVB in Höhe von 2,5 Millionen Euro. Die restlichen Zugänge (0,5 Millionen Euro) betreffen Zugänge aus dem bisherigen Konzern der SRH. Aufgrund der Erstkonsolidierung der MVB ergibt sich ein zu aktivierender Wert von 65 Millionen Euro. Weitere 26,9 Millionen Euro resultieren aus der Aufdeckung von stillen Reserven im Konzern der SRH.
 
@@ -134,11 +135,11 @@ Wie begründet sich die massive Zunahme der Rückstellungen für unterlassene In
 
 Die Zunahmen ergeben sich im Wesentlichen aus folgenden Positionen:
 
- Rückbaukosten der MVA Stellinger Moor 4,1 Millionen Euro
+– Rückbaukosten der MVA Stellinger Moor 4,1 Millionen Euro
 
- Instandhaltungsmaßnahmen Biogas- und Kompostwerk Bützberg 2 Millionen Euro
+– Instandhaltungsmaßnahmen Biogas- und Kompostwerk Bützberg 2 Millionen Euro
 
- Instandhaltungsmaßnahmen verschiedener Betriebsplätze 1,8 Millionen Euro
+– Instandhaltungsmaßnahmen verschiedener Betriebsplätze 1,8 Millionen Euro
 
 ### Frage 9
 

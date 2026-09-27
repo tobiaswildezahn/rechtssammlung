@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17985"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69334"
@@ -102,7 +103,7 @@ Wie hat sich im Wahlkreis 14 für den oben genannten Zeitraum die Betreuungsquot
 
 Wie hat sich im Wahlkreis 14 für den oben genannten Zeitraum die Krippenbetreuungsquote speziell der Zwei- bis Dreijährigen entwickelt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Betreuungsquote im Krippenalter im Wahlkreis Rahlstedt:
 
@@ -127,7 +128,7 @@ Wie viele Kinder im „Elementaralter“ (ab drei Jahre bis zur Einschulung) pro
 
 Wie viele Kinder profitierten im Wahlkreis 14 im oben genannten Zeitraum – Krippen- und Elementaralter zusammengezählt – von Kindertagesbetreuung und wie hat sich diese Zahl seit Ende 2010 entwickelt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 1.
 
@@ -139,7 +140,7 @@ Wie viele Kitas gibt es aktuell im Hamburger Kita-Gutschein-System im Wahlkreis 
 
 Wie viele Kitas im Hamburger Kita-Gutschein-System im Wahlkreis 14 sowie insgesamt im Bezirk Wandsbek haben ihr Angebot seit Ende 2010 erweitert?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Seit Ende 2010 wurde für 17 Kitas im Wahlkreis 14 durch die für Kindertagesbetreuung zuständige Behörde eine neue Betriebserlaubnis im Rahmen einer Erweiterung ausgestellt. Darunter befindet sich eine vormals rein privat-gewerblich genehmigte Kita, die durch den Beitritt zum Landesrahmenvertrag „Kinderbetreuung in Tageseinrichtungen“ (LRV) Plätze im Kita-Gutschein-System geschaffen hat.
 

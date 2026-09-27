@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 14
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8231", "21/7849"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56961"
@@ -45,7 +46,7 @@ Wann und aus welchen Gründen wurde entschieden, den Standort Bargkoppelweg 60 a
 
 Für welchen Zeitraum ist diese Nutzung vorgesehen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/8231.
 
@@ -97,7 +98,7 @@ Warum kann das nicht ausgelastete Personal nicht auf die bereits bestehenden Sta
 
 Warum werden die Öffnungszeiten und Kontingente an zu vergebenden Terminen in dem Kundenzentrum nicht mithilfe des nicht ausgelasteten Personals der ZEA/des Ankunftszentrums erweitert?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Drs. 21/8231.
 
@@ -133,7 +134,7 @@ Warum kann der Standort Bargkoppelweg 60 nicht für die Unterbringung von Flüch
 
 Wie viele Betten standen bislang am Standort Bargkoppelweg 60 zur Verfügung, wurden seit Eröffnung durchschnittlich im Monat genutzt und fallen nun wegen der alternativen Nutzung weg?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 In der Reservehalle Bargkoppelweg 60 stehen 384 Unterbringungsplätze zur Verfügung. Die Halle wurde bisher einmal im Juli und August 2016 zur Unterbringung von 254 Personen genutzt. Im Übrigen siehe Antwort zu 3.
 

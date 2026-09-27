@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/3900", "21/3535"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66759"
@@ -79,20 +80,20 @@ Nach Planungen der jeweils zuständigen Bezirksämter gibt es:
 
 Wasserflächen im Bezirk Hamburg-Mitte:
 
- Am Schleusenkanal, Steendiekkanal und in der Bille.
+– Am Schleusenkanal, Steendiekkanal und in der Bille.
 
 Im Übrigen siehe https://www.hamburg.de/contentblob/6239860/ aea96a67ebc523296193fefd5fcf31ed/data/rahmenplan-dl.pdf.
 
 Wasserflächen im Bezirk Hamburg-Nord:
 
- Als drittes Liegefeld vor der Hochschule für bildende Künste Hamburg und auf
+– Als drittes Liegefeld vor der Hochschule für bildende Künste Hamburg und auf
 
 Höhe Finkenau könnten weitere Liegeflächen entstehen.
 
- im Osterbekkanal.
+– im Osterbekkanal.
 
 Wasserflächen im Bezirk Harburg:
 
- Eignungsflächen gibt es im Harburger Binnenhafen, Ostseite des Überwinterungs-
+– Eignungsflächen gibt es im Harburger Binnenhafen, Ostseite des Überwinterungs-
 
 hafens und westlich der Schleuse.

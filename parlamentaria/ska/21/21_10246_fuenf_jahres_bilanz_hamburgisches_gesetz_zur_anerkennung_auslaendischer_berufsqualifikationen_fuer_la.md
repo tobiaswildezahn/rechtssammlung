@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10020", "21/8078"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59087"
@@ -87,23 +88,23 @@ b) Um welche Anpassungsmaßnahmen handelte es sich typischerweise?
 
 Das Statistische Landesamt erhebt diese Daten nicht. Exemplarisch können folgende Bereiche genannt werden:
 
- Von der Handwerkskammer Hamburg werden bei beschiedener teilweiser Gleich-
+– Von der Handwerkskammer Hamburg werden bei beschiedener teilweiser Gleich-
 
 wertigkeit individualisierte Anpassungslehrgänge in Betrieben angeboten, die über eine Ausbildungsberechtigung verfügen. Diese werden bei Bedarf durch den Besuch der „Überbetrieblichen Lehrlingsunterweisung“ (ÜLU) flankiert. 203 Anerkennungskunden und -kundinnen haben an dieser Form der Anpassungsqualifizierung bislang teilgenommen.
 
- Das hamburgische Recht eröffnet Personen, die eine Tätigkeit als Erzieherin
+– Das hamburgische Recht eröffnet Personen, die eine Tätigkeit als Erzieherin
 
 beziehungsweise Erzieher oder Sozialpädagogische Assistenz anstreben und eine Teilanerkennung ihrer im Ausland erworbenen Ausbildung erhalten haben, die Möglichkeit, eine Eignungsprüfung zu absolvieren und dann gegebenenfalls die Vollanerkennung zu erlangen. Alternativ besteht die Möglichkeit an der Teilnahme eines zwölfmonatigen Anpassungskurses mit Abschlussprüfung. Dieser findet an zwei Tagen statt, dazu ist an den anderen drei Tagen ein Praktikum in einer Kindertagesstätte zu absolvieren.
 
- Außerdem nahmen von 2012 bis 19. Juli 2017 28 Personen an einer Eignungsprü-
+– Außerdem nahmen von 2012 bis 19. Juli 2017 28 Personen an einer Eignungsprü-
 
 fung „Staatlich geprüfter Erzieher/staatlich geprüfte Erzieherin“ teil, davon acht erfolgreich.
 
- In den Heil- und Gesundheitsfachberufen wurden Kenntnisprüfungen durchgeführt.
+– In den Heil- und Gesundheitsfachberufen wurden Kenntnisprüfungen durchgeführt.
 
 In den Gesundheitsfachberufen wurden zudem Anpassungslehrgänge, typischerweise in Form von zum Teil mehrwöchigen begleiteten praktischen Einsätzen in stationären oder ambulanten Einrichtungen beziehungsweise Praxen verbunden mit einem Abschlussgespräch absolviert.
 
- Nachprüfungen gibt es gerade auch für außerhalb der EU abgelegte Examina im
+– Nachprüfungen gibt es gerade auch für außerhalb der EU abgelegte Examina im
 
 veterinärmedizinischen Bereich. Von ihrem Ausgang hängt die Erteilung der Approbation ab.
 
@@ -117,9 +118,9 @@ Die Freie und Hansestadt Hamburg hat ein Stipendienprogramm aufgelegt, um mehr M
 
 Im Zeitraum 01.08.2012 bis 31.07.2017 wurden insgesamt 1.449 Anträge bewilligt (Erstanträge zuzüglich Nachbewilligungsanträge), davon:
 
- 1.313 Einmalzuschüsse (Einmalleistungen),
+– 1.313 Einmalzuschüsse (Einmalleistungen),
 
- 136 Stipendien (laufende Leistungen).
+– 136 Stipendien (laufende Leistungen).
 
 Die Kostenarten verteilten sich in dem Zeitraum wie folgt:
 

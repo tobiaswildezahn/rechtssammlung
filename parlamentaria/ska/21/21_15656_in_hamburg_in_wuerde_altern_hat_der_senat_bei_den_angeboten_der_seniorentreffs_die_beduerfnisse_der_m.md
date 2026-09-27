@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15482"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65157"
@@ -304,24 +305,24 @@ Zudem werde in zwei Seniorentreffs seit Anfang 2018 erprobt, wie eine kulturelle
 
 Das Projekt „Förderung der interkulturellen Öffnung von Seniorentreffs“ umfasst folgende Maßnahmen:
 
- Analyse der örtlichen Rahmenbedingungen an beiden Standorten,
+– Analyse der örtlichen Rahmenbedingungen an beiden Standorten,
 
- fachliche und organisatorische Unterstützung der teilnehmenden Seniorentreffs,
+– fachliche und organisatorische Unterstützung der teilnehmenden Seniorentreffs,
 
- Schaffung beziehungsweise Stärkung der Teamstrukturen,
+– Schaffung beziehungsweise Stärkung der Teamstrukturen,
 
- Planung und Durchführung von neuen regelhaften Angeboten und besonderen
+– Planung und Durchführung von neuen regelhaften Angeboten und besonderen
 
 Aktionen mit dem Ziel der Schaffung von Begegnungsmöglichkeiten zwischen Menschen aus unterschiedlichen Kulturen (Kochgruppe, Stadtteilspaziergang, Besuch von Stadtteilkultur, Lichterfahrt, interkulturelle Weihnachtsfeiern),
 
- durch konstante Begleitung Aktivierung von einzelnen Besucherinnen und Besu-
+– durch konstante Begleitung Aktivierung von einzelnen Besucherinnen und Besu-
 
 chern des Treffs zu ehrenamtlichem Engagement,
 
- Gremienarbeit im Sozialraum zur Erhöhung der Präsenz des Treffs und zur Stär-
+– Gremienarbeit im Sozialraum zur Erhöhung der Präsenz des Treffs und zur Stär-
 
 kung des Netzwerkes vor Ort,
 
- Gewinnung von Kooperationspartnern.
+– Gewinnung von Kooperationspartnern.
 
 Eine Auswertung der Projektergebnisse erfolgt voraussichtlich bis Ende 2019.

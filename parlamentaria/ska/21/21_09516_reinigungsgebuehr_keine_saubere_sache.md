@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9384"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58281"
@@ -55,7 +56,7 @@ Wie viele Frontmeter weisen die Anlieger insgesamt auf?
 
 Wie werden die Frontmeter konkret ermittelt? Wie wird dabei beispielsweise mit Hinterlieger- beziehungsweise Hammergrundstücken sowie Eigentümergemeinschaften (insbesondere bei sehr kleinen Eigentumsanteilen) verfahren?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Frontmeter der Anliegergrundstücke werden in einem Geoinformationssystem unter Nutzung aktueller Daten des amtlichen Liegenschaftskatasterinformationssystems ermittelt. Anschließend werden die ermittelten Daten durch die SRH-Mitarbeiterinnen und -Mitarbeiter einzeln überprüft und gegebenenfalls korrigiert.
 

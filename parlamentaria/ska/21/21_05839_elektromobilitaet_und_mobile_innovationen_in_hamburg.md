@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54336"
@@ -53,93 +54,93 @@ Gibt es schon eine genauere Planung der Ladesäulen bezüglich Anzahl und Aufste
 
 Zu den bereits realisierten 294 Ladepunkten befinden sich derzeit die folgenden 18 Standorte (38 Ladepunkte) in Umsetzung:
 
- Albert-Einstein-Ring 4
+– Albert-Einstein-Ring 4
 
- Alte Rabenstraße 32
+– Alte Rabenstraße 32
 
- Angerstraße 11
+– Angerstraße 11
 
- Bei St. Johannis 1
+– Bei St. Johannis 1
 
- Curschmannstraße 10
+– Curschmannstraße 10
 
- Fuhlsbüttler Straße 149
+– Fuhlsbüttler Straße 149
 
- Gazertstraße 69
+– Gazertstraße 69
 
- Hamburger Straße Ecke Wagnerstraße
+– Hamburger Straße Ecke Wagnerstraße
 
- Heilwigstraße 2
+– Heilwigstraße 2
 
- Holstenhofweg 85
+– Holstenhofweg 85
 
- Martinistraße 72
+– Martinistraße 72
 
- Pinneberger Weg 2
+– Pinneberger Weg 2
 
- Sachsenfeld 3-5
+– Sachsenfeld 3-5
 
- Sierichstraße 72
+– Sierichstraße 72
 
- Steinhöft 11
+– Steinhöft 11
 
- Stormarnplatz 3 (4 Ladepunkte)
+– Stormarnplatz 3 (4 Ladepunkte)
 
- Von der Tann Straße 9
+– Von der Tann Straße 9
 
- Wexstrasse 15
+– Wexstrasse 15
 
 Darüber hinaus befinden sich gegenwärtig die folgenden 25 Standorte mit jeweils zwei Ladepunkten im bezirklichen Genehmigungsverfahren:
 
- Alter Fischmarkt
+– Alter Fischmarkt
 
- Billhorner Deich
+– Billhorner Deich
 
- Billstedter Hauptstraße
+– Billstedter Hauptstraße
 
- Ditmar-Koel-Straße
+– Ditmar-Koel-Straße
 
- Eulenstraße
+– Eulenstraße
 
- Flora-Neumann-Straße
+– Flora-Neumann-Straße
 
- Greifswalder Straße
+– Greifswalder Straße
 
- Große Bergstraße
+– Große Bergstraße
 
- Hammer Steindamm
+– Hammer Steindamm
 
- Jessenstraße/Bruno-Tesch-Platz
+– Jessenstraße/Bruno-Tesch-Platz
 
- Leverkusenstraße
+– Leverkusenstraße
 
- Ludwig-Rosenberg-Ring
+– Ludwig-Rosenberg-Ring
 
- Manshardstraße
+– Manshardstraße
 
- Mattentwiete
+– Mattentwiete
 
- Meurerweg
+– Meurerweg
 
- Neuenfelder Straße
+– Neuenfelder Straße
 
- Neugrabener Markt
+– Neugrabener Markt
 
- Puckaffer Weg
+– Puckaffer Weg
 
- Poppenbüttler Markt
+– Poppenbüttler Markt
 
- Schloßstraße
+– Schloßstraße
 
- Schwarze Straße
+– Schwarze Straße
 
- Thadenstraße
+– Thadenstraße
 
- Wellingsbüttler Weg
+– Wellingsbüttler Weg
 
- Wikingerweg
+– Wikingerweg
 
- Zollenspieker-Hauptdeich
+– Zollenspieker-Hauptdeich
 
 Planungen für das restliche Kontingent von 156 Ladepunkten zur Erreichung der Zielzahl von 592 Ladepunkten liegen vor und werden laufend mit den Behörden und Bezirken sowie potenziell betroffenen Flächeninhaberinnen und Flächeninhabern (Einzelhandel, Tankstellenbetreibern et cetera) sondiert.
 
@@ -198,41 +199,41 @@ Gibt es an den Hamburger Universitäten und Hochschulen Forschungsinitiativen, d
 
 Ja. Folgende Projekte und Initiativen sind dem Senat bekannt (die jeweils beteiligten Universitäten und Hochschulen wurden in Klammern aufgeführt):
 
- Projekt „e-Quartier Hamburg: Elektromobilität in urbanen Wohnquartieren“ (Hafen-
+– Projekt „e-Quartier Hamburg: Elektromobilität in urbanen Wohnquartieren“ (Hafen-
 
 City Universität Hamburg (HCU), Technische Universität Hamburg Harburg (TUHH)),
 
- Projekt „SINGER: Sino-German Electromobility Research, Deutsch-Chinesische
+– Projekt „SINGER: Sino-German Electromobility Research, Deutsch-Chinesische
 
 Kooperation in der Elektromobilität” (HCU, Hochschule für Angewandte Wissenschaften Hamburg (HAW), Universität Hamburg (UHH)),
 
- Urban Mobility Lab (HAW),
+– Urban Mobility Lab (HAW),
 
- Beedel (HAW),
+– Beedel (HAW),
 
- Professur für Elektrische Energiesysteme, Professur für Fahrzeugtechnik, Profes-
+– Professur für Elektrische Energiesysteme, Professur für Fahrzeugtechnik, Profes-
 
 sur für Antriebssysteme (Helmut-Schmidt-Universität (HSU)),
 
- „Effiziente H2-Speicherung durch neuartige hierarchisch poröse Core-Shell-
+– „Effiziente H2-Speicherung durch neuartige hierarchisch poröse Core-Shell-
 
 Strukturen mit eingelagerten Leichtmetallhybriden (HyScore)“ (UHH, TUHH),
 
- „Simulation und robuste Optimierung von elektromechanischen Energie-wandlern
+– „Simulation und robuste Optimierung von elektromechanischen Energie-wandlern
 
 unter Berücksichtigung von Unsicherheiten“(SIMUROM) (UHH),
 
- Unterstützung des BMVI bei der Weiterentwicklung der Mobilitäts- und Kraft-
+– Unterstützung des BMVI bei der Weiterentwicklung der Mobilitäts- und Kraft-
 
 stoffstrategie (MKS-II) (TUHH),
 
- InnoTreib – Innovative Treibstoffe der Zukunft (TUHH),
+– InnoTreib – Innovative Treibstoffe der Zukunft (TUHH),
 
- Einbindung von Brennstoffzellen als Energieerzeuger in schiffstechnische Systeme
+– Einbindung von Brennstoffzellen als Energieerzeuger in schiffstechnische Systeme
 
 (TUHH)
 
- E.gnition (TUHH).
+– E.gnition (TUHH).
 
 ### Frage 7
 

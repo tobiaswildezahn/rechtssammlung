@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4187", "21/16054", "21/7904", "20/14485"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67716"
@@ -97,7 +98,7 @@ Wie viele Termine wurden seit 2015 durch die Polizei angeboten, um die Rahmennum
 
 Wie viele Bürger haben die in 4. angegebenen Angebote angenommen und eine Registrierung durchführen lassen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Eine Registrierung der Rahmennummer von Fahrrädern wird von der Polizei nicht angeboten.
 
@@ -115,7 +116,7 @@ Wie viele Fahrräder wurden in Hamburg seit 2015 anhand der Rahmennummer als ges
 
 Wie viele der gestohlenen Fahrräder konnten dem rechtmäßigen Eigentümer zurückgegeben werden? Bitte pro Jahr seit 2015 und für jeden Bezirk angeben.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Statistiken im Sinne der Fragestellungen werden bei der Polizei nicht geführt. Zur Beantwortung dieser Fragen wäre eine Durchsicht aller Hand- und Ermittlungsakten des erfragten Zeitraums bei der Polizei erforderlich. Die Auswertung von mehreren Hunderttausend Akten ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -153,8 +154,7 @@ Anzahl der ermittelnden Tatverdächtigen
 Jugendliche  
 Heran-  
 Erwachsene ab 21 Jahre  
-wach-  
-sende  
+wachsende  
 bis unter  
 18 bis  
 bis unter  

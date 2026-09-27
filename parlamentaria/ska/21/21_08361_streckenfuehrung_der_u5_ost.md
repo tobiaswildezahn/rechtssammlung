@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 21
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5825", "21/6905", "21/7311"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57071"
@@ -180,7 +181,7 @@ Wann und in welcher Form wurden die Bezirksversammlungen Hamburg-Nord und Wandsb
 
 Wann und in welcher Form wurden die Bezirksverwaltungen Hamburg- Nord und Wandsbek in die Überlegungen zur Trassenführung einbezogen?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Antwort zu 10.
 

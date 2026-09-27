@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 20
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3358"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55947"
@@ -81,7 +82,7 @@ Wie viele Verkehrslärmmessungen haben seit 2011 im Bereich der Sierichstraße s
 
 Wie haben sich der Tages- und der Nachtpegel in der Sierichstraße seit 2011 jeweils entwickelt? Bitte jahresweise aufschlüsseln und die Mittelungspegel in db(A) angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Gemäß § 47 c des Bundes-Immissionsschutzgesetzes müssen die zuständigen Behörden alle fünf Jahre Lärmkarten für Ballungsräume, Hauptverkehrsstraßen, Haupteisenbahnstrecken und Großflughäfen erstellen. Die letzte derartige Berechnung für die Freie und Hansestadt Hamburg (FHH) wurde fristgerecht im Juni 2012 erstellt und ist im Internet veröffentlicht (siehe www.hamburg.de/laermkarten). Für den
 

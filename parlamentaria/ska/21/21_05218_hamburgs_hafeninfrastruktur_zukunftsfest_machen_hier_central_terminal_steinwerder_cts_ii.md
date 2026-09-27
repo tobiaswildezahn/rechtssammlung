@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 25
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3650"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53710"
@@ -78,7 +79,7 @@ Wird das Kreuzfahrtterminal Steinwerder als Teil eines größeren Umbaus im Hafe
 
 Inwieweit wird auch die Variante eines Baus für ein neues Kreuzfahrtterminals weiter in Betracht gezogen und wann wird es dazu eine abschließende Entscheidung geben?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die zuständige Behörde verfolgt stetig die Entwicklung im Kreuzfahrtgeschäft, nicht nur in Bezug auf Passagierzahlen, sondern auch auf Schiffgrößenentwicklungen. Vor diesem Hintergrund und um auf kurzfristige Veränderungen reagieren zu können, werden Erweiterungsmöglichkeiten geprüft. Die Prüfungen sind noch nicht abgeschlossen.
 

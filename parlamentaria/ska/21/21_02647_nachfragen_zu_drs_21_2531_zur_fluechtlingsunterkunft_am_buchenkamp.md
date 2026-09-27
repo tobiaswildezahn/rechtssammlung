@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 21
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2531", "21/2479", "21/2515"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50948"
@@ -119,7 +120,7 @@ Ist es zutreffend, dass in der in Drs. 21/2531 erwähnten Vereinbarung mit der G
 
 Inwiefern ist die geplante Bauweise und Größenordnung der Flüchtlingsunterbringung besonders bodenschonend, wie dies von den Vertretern der rot-grünen Bezirkskoalition in Wandsbek angekündigt wurde?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Prüfungen hierzu sind noch nicht abgeschlossen.
 

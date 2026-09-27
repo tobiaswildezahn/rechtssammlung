@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4777", "21/3414"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57480"
@@ -37,17 +38,17 @@ Vor diesem Hintergrund frage ich den Senat:
 
 Die Behörde für Inneres und Sport hat die Einstellungsoffensive 300+ begonnen, mit der sukzessive der Personalbestand des Polizeivollzuges bis zu einer dauerhaften Stärkung um 300 zusätzliche Polizistinnen und Polizisten im Vergleich zu 2016 erhöht werden soll. Neben der signifikanten Erhöhung der Ausbildung von Nachwuchskräften wird die Kapazität des Polizeivollzuges durch weitere Maßnahmen wie
 
- temporäre Dienstzeitverlängerungen,
+– temporäre Dienstzeitverlängerungen,
 
- die Gewinnung zusätzlicher Ausbildungskapazitäten durch Sonderausbildungs-
+– die Gewinnung zusätzlicher Ausbildungskapazitäten durch Sonderausbildungs-
 
 gänge für Bewerber mit spezieller Vorbildung,
 
- die Rückführung von Polizeivollzugsbeamtinnen und -beamten aus Verwaltungs-
+– die Rückführung von Polizeivollzugsbeamtinnen und -beamten aus Verwaltungs-
 
 funktionen in den Primärvollzug sowie
 
- die Einstellung von Angestellten im Polizeidienst zur Vermeidung des Einsatzes
+– die Einstellung von Angestellten im Polizeidienst zur Vermeidung des Einsatzes
 
 von Polizeivollzugsbeamtinnen und -beamten für Bewachungsaufgaben
 

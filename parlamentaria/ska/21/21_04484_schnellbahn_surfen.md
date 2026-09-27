@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52887"
@@ -93,7 +94,7 @@ Was unternehmen der Senat, die zuständige Behörde und die Verkehrsunternehmen,
 
 Ist sichergestellt, dass der Fahrer sofort erfährt, dass eine Person an der betreffenden Schnellbahn surft? Wenn ja: wie? Wenn nein: warum nicht und wie soll das künftig erreicht werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die in der Antwort zu 1. genannten Zahlen zeigen, dass bereits ergriffene Maßnahmen wie Kameraüberwachung, Durchsicht durch die Züge und Sprechstellen in den Fahrzeugen zur Prävention ausreichen. In allen in der Antwort zu 1. genannten Fällen hatte der jeweilige Fahrer durch Kameras, Kameraüberwachung durch die Betriebszentrale beziehungsweise durch Hinweise anderer Fahrgäste sofort Kenntnis von aktiven U-Bahn-Surfern.
 

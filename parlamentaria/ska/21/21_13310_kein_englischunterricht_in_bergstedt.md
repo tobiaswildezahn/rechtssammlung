@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62658"
@@ -113,7 +114,7 @@ Wann wurde die Behörde/Schulaufsicht informiert?
 
 Welche Maßnahmen wurden danach ergriffen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Schulaufsicht wurde am Rande einer Sitzung im Dezember 2017 über die allgemeine Lage an der Schule (sehr hoher Krankheitsstand im November/Dezember 2017) informiert. Da der Krankenstand zu diesem Zeitpunkt wieder sank, wurden keine personellen Maßnahmen seitens der Schulaufsicht ergriffen.
 

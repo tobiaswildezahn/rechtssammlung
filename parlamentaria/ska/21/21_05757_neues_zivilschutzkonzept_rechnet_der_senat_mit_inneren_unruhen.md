@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3922", "21/5539"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54249"
@@ -83,21 +84,21 @@ Mit welchen weiteren großflächigen Bedrohungsszenarien rechnet man im Senat f�
 
 Im Rahmen des vorbeugenden Katastrophenschutzes wurden für Hamburg konzeptionelle und organisatorische Vorkehrungen für die Katastrophenabwehr und –bekämpfung für nachfolgend genannte potenzielle Gefahren- oder Schadensereignisse getroffen:
 
- Sturmflut und Hochwassergefahr
+– Sturmflut und Hochwassergefahr
 
- Gefahr durch Öl oder andere wassergefährdende Stoffe
+– Gefahr durch Öl oder andere wassergefährdende Stoffe
 
- Störfall in Betrieben mit besonderem Gefahrenpotenzial
+– Störfall in Betrieben mit besonderem Gefahrenpotenzial
 
- Flugunfall
+– Flugunfall
 
- Bahnunfall
+– Bahnunfall
 
- Freisetzung von giftigen Gasen
+– Freisetzung von giftigen Gasen
 
- Pandemie
+– Pandemie
 
- Notfall im Zusammenhang mit kerntechnischen Anlagen
+– Notfall im Zusammenhang mit kerntechnischen Anlagen
 
 Diesbezügliche Einsatzplanungen beinhalten die erforderlichen Festlegungen zu einsatztaktischen Maßnahmen, zu Aufgaben und Verantwortlichkeiten, zur Zusammenarbeit und Kommunikation sowie weitere Maßnahmen- und Einsatzpläne für alle an der Katastrophenabwehr und -bekämpfung beteiligten Stellen und sind in den jeweiligen Aufgabenbezügen behördenübergreifend abgestimmt.
 

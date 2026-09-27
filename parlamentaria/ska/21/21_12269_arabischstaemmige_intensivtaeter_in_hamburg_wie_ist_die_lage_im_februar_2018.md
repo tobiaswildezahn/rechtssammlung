@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5624", "21/10540"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61542"
@@ -47,7 +48,7 @@ b) Zwischen 15 und 35 Jahre alt.
 
 Gegen wie viele Personen, die dem obigen Täterprofil entsprechen, ist bereits in der Vergangenheit strafrechtlich ermittelt worden? Bitte ebenfalls den zugrunde liegenden Sachverhalt, die Staatsangehörigkeit, das Alter, den aufenthaltsrechtlichen Status, die Unterbringung sowie den erstmaligen Einreisezeitpunkt nach Deutschland der Beschuldigten nennen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Statistische Daten im Sinne der Fragestellung liegen der Polizei nicht vor.
 
@@ -77,13 +78,13 @@ Sind die in Drs. 21/5624 als Person A, B, C geführten Tatverdächtigen seit Aug
 
 Ja; nach den Erkenntnissen der Polizei sind die Personen wie folgt strafrechtlich in Erscheinung getreten:
 
- Person A mit einem Diebstahlsdelikt,
+– Person A mit einem Diebstahlsdelikt,
 
- Person B mit neun Diebstahlsdelikten, drei Beleidigungen, zwei Sachbeschädigun-
+– Person B mit neun Diebstahlsdelikten, drei Beleidigungen, zwei Sachbeschädigun-
 
 gen, zwei gefährliche Körperverletzungen, zwei Rauben und fünf Betäubungsmitteldelikten,
 
- Person C mit zwei Fällen von Erschleichen von Leistungen, einer Beleidigung und
+– Person C mit zwei Fällen von Erschleichen von Leistungen, einer Beleidigung und
 
 einem Raub.
 

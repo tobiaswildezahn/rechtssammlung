@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 16
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9165"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58027"
@@ -51,7 +52,7 @@ Wie oft wurde die Eheschließungsfähigkeit in den Jahren 2015 bis 2017 festgest
 
 Wie viele Ehen wurden in den Jahren 2015 bis 2017 geschlossen? Bitte detailliert nach Bezirken beziehungsweise Standesämtern darstellen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage.
 

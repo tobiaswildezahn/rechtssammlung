@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 22
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10874", "21/15834", "21/16578"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66252"
@@ -51,15 +52,15 @@ Wie viele Rückmeldungen auf die Einladungen hat die Fachstelle insgesamt und je
 
 In dem schriftlichen Besuchsangebot wird ein konkreter Termin genannt, der nicht bestätigt werden muss. Von den 1 130 angeschriebenen Personen haben insgesamt 555 den angebotenen Hausbesuchstermin bei der Fachstelle aktiv abgesagt, davon 347 aus Eimsbüttel und 208 aus Harburg. Ablehnungsgründe waren:
 
- Kein Bedarf, zu gesund
+– Kein Bedarf, zu gesund
 
- Kein Bedarf, fühlen sich gut versorgt durch Angehörige/professionelle Dienstleister
+– Kein Bedarf, fühlen sich gut versorgt durch Angehörige/professionelle Dienstleister
 
- Keine Zeit, kein Interesse
+– Keine Zeit, kein Interesse
 
- Zu krank
+– Zu krank
 
- Sonstiges
+– Sonstiges
 
 ### Frage 3
 
@@ -126,15 +127,15 @@ Wie viele Gespräche wurden jeweils warum vorzeitig abgebrochen?
 
 Insgesamt elf Gespräche wurden vorzeitig abgebrochen. Gründe für den Abbruch waren:
 
- Kein Interesse
+– Kein Interesse
 
- Kein Bedarf
+– Kein Bedarf
 
- Anderer Termin
+– Anderer Termin
 
- Kein Vertrauen, die Besuchsperson in die Wohnung zu lassen
+– Kein Vertrauen, die Besuchsperson in die Wohnung zu lassen
 
- Gesundheitliche Gründe
+– Gesundheitliche Gründe
 
 ### Frage 9
 

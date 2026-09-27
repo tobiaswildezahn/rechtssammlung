@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48186"
@@ -54,7 +55,7 @@ a. sechs Monate
 b. zwölf Monate  
 sozialversicherungspflichtig beschäftigt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine Erhebung und Auswertung im Sinne der Fragestellung erfolgt durch den Statistikservice der Bundesagentur für Arbeit nicht. Die Daten (Integrationen) werden in einer separaten Datenbank erfasst und durch die Gesellschaft für soziale Unternehmensberatung mbH im Auftrag des Bundesministeriums für Arbeit und Soziales ausgewertet. Die daraus gewonnenen Daten werden auf Bundesebene evaluiert. Der
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 21
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50483"
@@ -97,7 +98,7 @@ Ist der geplante Trennstreifen von 50 Meter zur angrenzenden Bebauung weiterhin 
 
 Schließt der Senat aus, dass der Kramer-Kray-Weg für den Verkehr, insbesondere zur Anlieferung und Versorgung der öffentlichen Unterbringung, geöffnet wird? Wie sehen hier die genauen Pläne aus und wann werden hier von wem definitive Aussagen getroffen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Ja. Die Planung der temporären Bebauung der Teilfläche mit Modulbauten für öffentlich-rechtliche Unterbringung zeigt gemäß Anlage zum Anhörungsschreiben nach § 28 BezVG, dass der Abstand zur angrenzenden Bebauung von mehr als 50 Metern eingehalten wird.
 
@@ -128,7 +129,7 @@ Welche Bürgerinitiativen wurden und werden wann genau und in welchem Rahmen und
 
 Welche Anwohnerinnen und Anwohner wurden und werden wann genau und in welchem Rahmen und zu welchen Fragestellungen von wem in die Planungen zur öffentlichen Unterbringung am Poppenbüttler Berg/ Ecke Ohlendieck genau eingebunden und wie werden dabei explizit Petenten berücksichtigt? Wenn diese nicht berücksichtigt werden, warum nicht und hält der Senat dies für unter demokratischen Gesichtspunkten für geboten?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Für die geplanten Festbauten im Standard des sozialen Wohnungsbaus besteht im Rahmen des Bebauungsplanverfahrens auch für Vertreter von Bürgerinitiativen und Anwohner die Möglichkeit, sich im Rahmen der Öffentlichkeitsbeteiligung einzubringen. Im Übrigen siehe Antwort zu 1. bis 5.
 

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58945"
@@ -80,23 +81,23 @@ Besonders hervorzuheben sind die unmittelbar für Straßenbaustellen geltenden R
 
 Darüber hinaus sind unter anderem weitere Regelungen
 
-• des Gesundheitsschutzes,
+– des Gesundheitsschutzes,
 
-• des Immissionsschutzes (Lärm, Stäube, Abgase),
+– des Immissionsschutzes (Lärm, Stäube, Abgase),
 
-• der allgemeinen Vorschriften zur Sicherheit und Ordnung,
+– der allgemeinen Vorschriften zur Sicherheit und Ordnung,
 
-• des Bürgerlichen Gesetzbuches (BGB), Abschnitt 3 – Eigentum,
+– des Bürgerlichen Gesetzbuches (BGB), Abschnitt 3 – Eigentum,
 
-• bezüglich Erschütterungen (DIN-Normen),
+– bezüglich Erschütterungen (DIN-Normen),
 
-• zum Schutz gegen Baulärm – Geräuschemissionen,
+– zum Schutz gegen Baulärm – Geräuschemissionen,
 
-• der Berufsgenossenschaftlichen Vorschriften (BGV),
+– der Berufsgenossenschaftlichen Vorschriften (BGV),
 
-• in den Vorschriften der Straßenverkehrsordnung (STVO) sowie
+– in den Vorschriften der Straßenverkehrsordnung (STVO) sowie
 
-• der Baustellenverordnung des Bundesamtes für Arbeit und Soziales
+– der Baustellenverordnung des Bundesamtes für Arbeit und Soziales
 
 zu beachten.
 

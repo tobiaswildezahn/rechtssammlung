@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 21
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/105"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51469"
@@ -156,17 +157,17 @@ Sofort nach Auftreten des Problems wurde vom Schiff per Funk die Revierzentrale 
 
 Das Funkstreifenboot „Bürgermeister Weichmann“/WS 2 hat von dem Vorfall über Seefunk erfahren und ihn gegen 20.20 Uhr dem örtlich zuständigen Wasserschutzpolizeikommissariat 1 (WSPK 1) gemeldet. Das WSPK 1 hat am 3. Februar 2016 daraufhin die folgenden Behörden informiert:
 
- die Leitstelle der Wasserschutzpolizei am 3. Februar 2016 um 22.25 Uhr,
+– die Leitstelle der Wasserschutzpolizei am 3. Februar 2016 um 22.25 Uhr,
 
- die Verkehrszentrale Brunsbüttel am 3. Februar 2016 um 22.28 Uhr,
+– die Verkehrszentrale Brunsbüttel am 3. Februar 2016 um 22.28 Uhr,
 
- die Nautische Zentrale am 3. Februar 2016 um 22.40 Uhr
+– die Nautische Zentrale am 3. Februar 2016 um 22.40 Uhr
 
- die Berufsgenossenschaft für Transport- und Verkehrswirtschaft am 3. Februar
+– die Berufsgenossenschaft für Transport- und Verkehrswirtschaft am 3. Februar
 
 2016 um 22.48 Uhr,
 
- sowie die Bundesstelle für Seeunfalluntersuchung am 4. Februar 2016 um 05.00
+– sowie die Bundesstelle für Seeunfalluntersuchung am 4. Februar 2016 um 05.00
 
 Uhr.
 

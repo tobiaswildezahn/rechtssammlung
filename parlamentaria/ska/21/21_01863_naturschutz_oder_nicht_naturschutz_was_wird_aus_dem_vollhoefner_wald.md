@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 45
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5550"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50104"
@@ -146,7 +147,7 @@ Wurde der Vollhöfner Wald hinsichtlich des Vorkommens insbesondere geschützter
 
 Wurde der Vollhöfner Wald hinsichtlich des Vorkommens, insbesondere schützenswerter und bedrohter Pflanzenarten geprüft? Wenn ja: a. wann und durch wen fanden diese Prüfungen statt? b. nach welchem Verfahren und mit welchen Methoden wurde geprüft? c. welche Pflanzenarten wurden dabei insgesamt vorgefunden? d. welche schützenswerten Pflanzenarten wurden dabei in welcher Anzahl vorgefunden? e. welche bedrohten Pflanzenarten wurden in welcher Anzahl vorgefunden? f. Wenn nein, warum wurde das Waldbiotop nicht auf schützenswerte oder bedrohte Pflanzenarten geprüft?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Die Fläche Altenwerder-West wurde floristisch und faunistisch 2013/2014 umfassend kartiert. Im Übrigen siehe Antwort zu 15.
 

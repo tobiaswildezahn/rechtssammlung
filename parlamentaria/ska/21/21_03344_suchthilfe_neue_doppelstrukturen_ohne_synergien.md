@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 35
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2857", "20/14582"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51681"
@@ -122,7 +123,7 @@ Sollen die Fachausschüsse und Arbeitskreise der HLS und ihres BfS erhalten blei
 a) Wenn ja, in welcher Form? Sollen sie weiterhin durch Zuwendungen finanziert werden?
 b) Wenn nein, warum nicht? Soll es neue Strukturen geben?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/2857.
 

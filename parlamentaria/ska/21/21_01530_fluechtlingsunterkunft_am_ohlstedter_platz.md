@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 26
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1259", "21/1241"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49740"
@@ -99,7 +100,7 @@ Wurde die ursprünglich vorgesehene Flüchtlingszahl angehoben? Wenn ja, warum u
 
 Ist es vorgesehen, die aktuelle Kapazität weiter zu erhöhen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nein.
 

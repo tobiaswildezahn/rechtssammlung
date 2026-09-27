@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60651"
@@ -81,7 +82,7 @@ Wie viele der erwerbstätigen, erwerbsfähigen Leistungsberechtigten üben zwei 
 
 Wie hoch waren die aufstockenden finanziellen Mittel für erwerbstätige Leistungsberechtigte nach dem SGB II, die im Jahr 2016 bis aktuell aufgewendet werden mussten? Bitte aufschlüsseln nach: a. männlich, b. weiblich, c. Alter d. sozialversicherungspflichtige Tätigkeiten, e. geringfügige Tätigkeiten, f. Ausbildung.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Es erfolgt durch den Statistik-Service der Bundesagentur keine Auswertung im Sinne der Fragestellung.
 

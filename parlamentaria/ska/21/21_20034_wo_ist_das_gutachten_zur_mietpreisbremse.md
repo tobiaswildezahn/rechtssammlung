@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69794"
@@ -59,7 +60,7 @@ Wann wird das avisierte Gutachten fertiggestellt?
 
 Sollte das Gutachten bereits fertiggestellt sein, wann wurde es a. fertiggestellt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Im Januar 2020.
 

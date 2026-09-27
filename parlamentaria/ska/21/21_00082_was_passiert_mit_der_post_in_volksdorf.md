@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 43977
 seiten: 2
 fragen: 7
-einzelfragen: 10
-antwortbloecke: 5
+einzelfragen: 11
+antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48209"
@@ -91,14 +92,21 @@ Die beiden Briefkästen am Standort Weiße Rose 19 werden am 30. März 2015 abge
 ### Frage 7
 
 Die derzeit von der Post genutzte Immobilie in Volksdorf (Weiße Rose 19) steht zusammen mit benachbarten Gebäuden unter Denkmalschutz und ist stilprägend für den Volksdorfer Ortskern.
-7.1. Welche Bauvoranfragen, Vorbescheids- oder Bauanträge wurden mit welchem genauen Inhalt für einen Umbau oder eine Umnutzung dieser Liegenschaft gestellt? Wie ist der Stand des baulichen Genehmigungsverfahrens?
 
-#### Antwort zu Frage 7
+### Frage 7.1
+
+Welche Bauvoranfragen, Vorbescheids- oder Bauanträge wurden mit welchem genauen Inhalt für einen Umbau oder eine Umnutzung dieser Liegenschaft gestellt? Wie ist der Stand des baulichen Genehmigungsverfahrens?
+
+#### Antwort zu Fragen 7 und 7.1
 
 Am 20. September 2013 wurde auf entsprechenden Antrag ein Vorbescheid für den Umbau des Postamtes zu einer Sparkassenfiliale mit der Auflage erteilt, die Nutzung der Fenster für Werbezwecke im Detail mit dem Denkmalschutzamt abzustimmen.
 
 Ein am 28. Januar 2015 eingegangener Antrag auf Nutzungsänderung/Umbau des Postamts zu einer Sparkasse befindet sich nach Vervollständigung nachgeforderter Unterlagen in der Prüfung.
 
-7.2. Wann, in welcher Form und mit welchem Ergebnis war das Denkmalschutzamt bislang mit beabsichtigten Umbau- oder Umnutzungsplänen des Gebäudes befasst?
+### Frage 7.2
+
+Wann, in welcher Form und mit welchem Ergebnis war das Denkmalschutzamt bislang mit beabsichtigten Umbau- oder Umnutzungsplänen des Gebäudes befasst?
+
+#### Antwort zu Frage 7.2
 
 Eine Bank, die Interesse an einem Filialbetrieb in den Räumen der heutigen Post hat, hat Anfang 2014 Gespräche mit dem Denkmalschutzamt zur Frage der Genehmigungsfähigkeit von Umbauten im Inneren und an der Fassade geführt. Aus denkmalfachlicher Sicht erscheinen die gewünschten Veränderungen vertretbar. Vor vier Wochen hat ein weiteres Gespräch stattgefunden, in dem das Besprochene bestätigt wurde.

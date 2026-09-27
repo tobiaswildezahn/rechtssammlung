@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2497", "21/5018", "21/4761"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56084"
@@ -119,7 +120,7 @@ In ihrem Schreiben vom 4.1.2017 bemängelt die Stiftung Bürgerhaus Wilhelmsburg
 
 Wenn nein, hat sich die Stiftung jeweils nach einem konkreten Thema erkundigt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Nach Auskunft der Stiftung werden die erfragten Angaben nicht gesondert statistisch erfasst und müssten durch eine manuelle Auswertung der Unterlagen von rund 120 Veranstaltungen erhoben werden, was ihr in der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht möglich sei. Im Übrigen siehe Anlage.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 11
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6120", "21/12126"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63849"
@@ -49,7 +50,7 @@ In Drs. 21/6120 listet der Senat 42 Bürgerhäuser beziehungsweise Stadtteil(kul
 
 Die Nicht-Vergabe von Räumlichkeiten zur freien Nutzung wird häufig mit Ressourcenengpässen begründet. a. Welche Migranten-/-innenorganisationen oder andere, auch informelle Initiativen nutzen die unter 1. c. aufgeführten freien Raumressourcen jeweils in welchem Umfang? Bitte in einer gesonderten Tabelle darstellen. b. Wie ist die Auslastung der freien Raumnutzungsmöglichkeiten der unter 1. c. genannten Einrichtungen? Bitte in gesonderter Tabelle darstellen, welche der Institutionen noch freie Raumressourcen in jeweils welchem Umfang haben. Bitte ebenso auflisten, welche Institutionen keine frei verfügbaren Raumressourcen haben und nicht nach dem Ausschlussprinzip verfahren.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage. Im Übrigen siehe Vorbemerkung.
 
@@ -63,21 +64,21 @@ Zur Höhe der institutionellen und Projektförderungen in 2017 und 2018 siehe Tr
 
 Die Zuwendungen entstammen der Rahmenzuweisung, die die zuständige Fachbehörde den Bezirksämtern auf Grundlage der Globalrichtlinie Stadtteilkultur zur Verfügung stellt sowie teilweise den jeweiligen Einzelplänen (EP) und Produktgruppen (PG) der Bezirksämter:
 
- Altona: PG 251.12, EP 3.3; PG 254.09, EP 4.0; PG 209.03, EP 1.3; PG 283.01, EP
+– Altona: PG 251.12, EP 3.3; PG 254.09, EP 4.0; PG 209.03, EP 1.3; PG 283.01, EP
 
 9.2; PG 286.15, EP 6.1; PG 283.01, EP 9.2; 272.07 EP 8.1.
 
- Bergedorf: PG 227.02.02, EP 1.7; PG 227.02.02, EP 1.8
+– Bergedorf: PG 227.02.02, EP 1.7; PG 227.02.02, EP 1.8
 
- Eimsbüttel: PG 251.12, EP 3.3; PG 21502, EP 1.4
+– Eimsbüttel: PG 251.12, EP 3.3; PG 21502, EP 1.4
 
- Harburg: PG 251.12, EP. 3.3; PG 231.02; EP 1.8
+– Harburg: PG 251.12, EP. 3.3; PG 231.02; EP 1.8
 
- Mitte: PG 251.12, EP 3.3; PG 207.02, EP 1.2
+– Mitte: PG 251.12, EP 3.3; PG 207.02, EP 1.2
 
- Nord: PG 251.12, EP. 3.3
+– Nord: PG 251.12, EP. 3.3
 
- Wandsbek: PG: 223.02, EP 1.6
+– Wandsbek: PG: 223.02, EP 1.6
 
 ### Frage 4
 

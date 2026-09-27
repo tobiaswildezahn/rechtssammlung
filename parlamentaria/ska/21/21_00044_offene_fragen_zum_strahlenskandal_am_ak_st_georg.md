@@ -14,6 +14,7 @@ fragen: 35
 einzelfragen: 63
 antwortbloecke: 33
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14618"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48170"
@@ -285,7 +286,7 @@ War der BGV bis zum Vorliegen des Berichts der Ärztlichen Stelle im November 20
 
 Hat die Ärztliche Stelle die BGV vor November 2014, beispielsweise in früheren Prüfberichten, über Unregelmäßigkeiten in der Abteilung für Strahlentherapie am AK St. Georg, beispielsweise in Form von schlampiger Aktenführung und Fehlindikationen, informiert? Wenn ja, in welcher Form und welche Stellen in der BGV haben diese Informationen erhalten?
 
-#### Antwort zu Fragen 24 bis 25
+#### Antwort zu Fragen 24 und 25
 
 Die Abteilung Strahlentherapie in der AK St. Georg wurde von der Ärztlichen Stelle der Ärztekammer in den Jahren 2004, 2005, 2009, 2010 und 2012 überprüft. Nach diesen Überprüfungen wurden der zuständigen Behörde keine Mängel angezeigt oder Prüfberichte übersandt. Im Juni 2014 wurde das Referat Strahlenschutz im Rahmen des Audits von der Ärztlichen Stelle über zwei festgestellte Unterdosierungen mündlich und per E-Mail informiert.
 
@@ -305,7 +306,7 @@ Wie hat sich die Zahl der Stellen, Beschäftigten und der Vollzeitäquivalente d
 
 Welche berufliche Qualifikation haben die Beschäftigten des Referats für Strahlenschutz aktuell?
 
-#### Antwort zu Fragen 27 bis 28
+#### Antwort zu Fragen 27 und 28
 
 Die Beschäftigten des Referates Strahlenschutz haben seit 2004 berufliche Ausbildungen als Diplom-Ingenieure für Medizintechnik, Diplom-Ingenieure für Biotechnologie, Diplom-Ingenieure für physikalische Technik, Diplom-Physiker, Diplom-Biologen und Bachelor Mathematik.
 

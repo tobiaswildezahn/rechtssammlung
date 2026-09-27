@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5453"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53982"
@@ -43,7 +44,7 @@ Wie viele der Einrichtungen der Erstaufnahme verfügten am 1. August 2016 über 
 
 Welche Einrichtungen der Erstaufnahme verfügten am 1. August 2016 nicht über WLAN? a. Wie viele Geflüchtete leben in den Einrichtungen der Erstaufnahme ohne WLAN?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/5453 und Anlage.
 
@@ -63,7 +64,7 @@ Wie viele Folgeunterkünfte verfügten am 1. August 2016 über WLAN?
 
 Welche Folgeunterkünfte verfügten am 1. August 2016 nicht über WLAN? a. Wie viele Geflüchtete leben in Folgeunterkünften ohne WLAN?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die zur Beantwortung benötigten Daten werden nicht gesondert statistisch erfasst. Eine Einzelauswertung von mehr als 100 Folgeunterkünften ist in der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

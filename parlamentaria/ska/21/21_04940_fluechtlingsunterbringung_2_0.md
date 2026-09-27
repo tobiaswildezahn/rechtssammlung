@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 19
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4181", "21/4229", "21/4734", "21/3652", "21/4130"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53385"
@@ -45,7 +46,7 @@ Welche Standorte werden in den Jahren 2016 – 2018 zu welchem Zeitpunkt (mögli
 
 An welchen der unter Frage 1. genannten Standorte besteht (grundsätzlich) die Möglichkeit einer Verlängerung der Nutzungsdauer und unter jeweils welchen Voraussetzungen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Standorte der am 16. Juni 2016 vom Senat veröffentlichten Kapazitätsplanung sind für Einrichtungen der Erstaufnahmen in Anlage 1 und für die Einrichtungen der öffentlich-rechtlichen Unterbringung in Anlage 2 erfasst. Für die Erstaufnahmen Karl- Arnold-Ring (550 Plätze) und Albert-Einstein-Ring (160 Plätze) wird die Möglichkeit der Umwandlung in eine öffentlich-rechtliche Folgeunterbringungen geprüft.
 
@@ -71,11 +72,11 @@ Die Termine für den Beginn der Baumaßnahmen und die Termine für die Inbetrieb
 
 Bei folgenden Einrichtungen hat der Beginn der Baumaßnahmen bereits stattgefunden:
 
- Wandsbek-Jenfeld-Elfsaal; März 2016,
+– Wandsbek-Jenfeld-Elfsaal; März 2016,
 
- Wandsbek-Poppenbüttel-Ohlendieck/Poppenbütteler Berg; März 2016,
+– Wandsbek-Poppenbüttel-Ohlendieck/Poppenbütteler Berg; März 2016,
 
- Bergedorf-Billwerder-Mittlerer Landweg; Februar 2016.
+– Bergedorf-Billwerder-Mittlerer Landweg; Februar 2016.
 
 ### Frage 5
 

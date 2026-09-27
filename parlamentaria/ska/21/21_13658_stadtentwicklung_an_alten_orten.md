@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63023"
@@ -75,20 +76,20 @@ Im Zeitraum vom 1. Juli 2013 bis 30. Juni 2018 wurden insgesamt 142 Flächen vol
 
 Für die von der für Altlastensanierung zuständigen Fachhörde sanierten Flächen betrugen die Kosten insgesamt 13.000.000 Euro, im Einzelnen:
 
- Für die Fläche 6630-051/03 Kleingartenverein (KGV) 723/Teilbereich II und die
+– Für die Fläche 6630-051/03 Kleingartenverein (KGV) 723/Teilbereich II und die
 
 Fläche 6440-044/00 Kleingartenverein (KGV) 424/Parzelle 111 zusammen
 2.100.000 Euro
 
- Für die Fläche 6838-046/00 Jarrestraße 52-58 9.800.000 Euro sowie für die Fläche
+– Für die Fläche 6838-046/00 Jarrestraße 52-58 9.800.000 Euro sowie für die Fläche
 
 6036-022/02 Gasstraße 1-5 1.100.000 Euro
 
- Ferner ist das Grundstück Billbrookdeich 2-10/Liebigstraße auf rund 4,3 ha im Auf-
+– Ferner ist das Grundstück Billbrookdeich 2-10/Liebigstraße auf rund 4,3 ha im Auf-
 
 trag des LIG saniert worden. Es ist im Erbbaurecht vergeben für eine Gewerbebeziehungsweise Logistik-Nutzung. Die Sanierungskosten stehen noch nicht abschließend fest
 
- In den Entwicklungsgebieten Neugraben-Fischbek 65 und 66 wurden zwei bezie-
+– In den Entwicklungsgebieten Neugraben-Fischbek 65 und 66 wurden zwei bezie-
 
 hungsweise sechs Grundstücke saniert. Die Sanierungskosten beliefen sich auf
 12.000 Euro beziehungsweise 70.000 Euro
@@ -148,13 +149,13 @@ Summe
 
 Seitens des LIG sind Altlastensanierungen unter anderem in folgenden Gebieten beziehungsweise für folgende Projekte geplant, siehe dazu auch Vorbemerkung:
 
-• Georgswerder (IBA)
+– Georgswerder (IBA)
 
-• Rathausviertel Wilhelmsburg (IBA)
+– Rathausviertel Wilhelmsburg (IBA)
 
-• Elbinselquartier (IBA)
+– Elbinselquartier (IBA)
 
-• Barmbek-Nord 11 (Opernfundus).
+– Barmbek-Nord 11 (Opernfundus).
 
 d) Welche Maßnahmen werden unternommen, um sanierungsbedürftige Flächen in privatem Eigentum für eine Sanierung zu gewinnen?
 

@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 19
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58658"
@@ -91,7 +92,7 @@ Welche Waffen oder Hilfsmittel der körperlichen Gewalt (darunter auch Abschussg
 
 Wo wurden die SEK-Einheiten am 7. und 8. Juli vorgehalten?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Einheiten waren an verschiedenen Stellen im Stadtgebiet eingesetzt, darunter auch dem Bereich der Elbphilharmonie, der Hotels und weiterer Orte im Stadtgebiet.
 
@@ -105,21 +106,21 @@ Wann wurden welche SEK-Einheiten beziehungsweise deren Kommandostrukturen am 7. 
 
 Wann erfolgte schließlich die Alarmierung der Einheiten, wie viel Zeit verging bis zum endgültigen Einsatz und wann endete dieser?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Anforderung von Sondereinsatzkräften (SEK) erfolgte um 22.11 Uhr. Um 23.10 trafen erste Kräfte vor Ort ein und nahmen Verbindung zum Einsatzabschnitt „Eingreifkräfte“ auf. Um 23.37 Uhr näherten sich erste Kräfte aus Sachsen sowie des Einsatzkommandos COBRA dem Objekt Schulterblatt 1. Die in Gewahrsam beziehungsweise festgenommenen Personen wurden um 23.47 Uhr an den Einsatzabschnitt „Eingreifkräfte“ übergeben und um 23.52 Uhr wurde die Tatortgruppe des Einsatzabschnittes „Kriminalpolizeiliche Maßnahmen“ angefordert.
 
 Im Rahmen der Einsatzlage im Schulterblatt waren folgende SEK eingesetzt:
 
- Teilkräfte SEK Bayern
+– Teilkräfte SEK Bayern
 
- Teilkräfte SEK Hamburg
+– Teilkräfte SEK Hamburg
 
- Teilkräfte SEK Hessen
+– Teilkräfte SEK Hessen
 
- Teilkräfte SEK Sachsen
+– Teilkräfte SEK Sachsen
 
- Teilkräfte EK COBRA (Österreich)
+– Teilkräfte EK COBRA (Österreich)
 
 Im Übrigen siehe Vorbemerkung.
 
@@ -189,7 +190,7 @@ Aus welchem Grund wollten die Einheiten, wie es mehrere Journalisten schildern, 
 
 Wie bewertet der Senat den Ausschluss von Journalisten/-innen, die bereits bei den Einsätzen „gewöhnlicher“ Polizeieinheiten drangsaliert und verletzt wurden, durch die Spezialeinheiten?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Nach derzeitigem Erkenntnisstand sind dem Senat Sachverhalte im Sinne der Fragestellungen nicht bekannt. Im Übrigen siehe Vorbemerkung.
 

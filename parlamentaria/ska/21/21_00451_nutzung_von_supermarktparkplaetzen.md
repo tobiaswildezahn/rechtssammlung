@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48594"
@@ -41,7 +42,7 @@ Unter welchen Voraussetzungen ist die Nutzung der Parkplätze von Supermärkten 
 
 Kann der Supermarktbetreiber die Haftung für eventuelle Beschädigungen der abgestellten Autos ausschließen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat hat sich mit dieser allgemeinen Rechtsfrage nicht befasst.
 

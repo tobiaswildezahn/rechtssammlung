@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 27
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/3641", "21/226", "21/246", "21/225", "21/45", "20/14467"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48399"
@@ -74,7 +75,7 @@ Wie viele Inklusionsschüler werden danach insgesamt an der EKS im Schuljahr 201
 
 Welche Förderbedarfe haben die zukünftigen I-Kinder konkret?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die endgültige Zusammensetzung der Klassen für das Schuljahr 2015/2016 und die dort vorkommenden Förderbedarfe melden die Schulen im Rahmen der Schuljahresstatistik, im Übrigen siehe Drs. 21/226, und 20/11503. Die Ist-Daten sind in der nachfolgenden Tabelle aufgelistet.
 
@@ -515,7 +516,7 @@ Welche Schulen in Hamburg waren Stand Schuljahr 2014/2015 Schwerpunktschulen fü
 
 Welche weiteren Schulen sollen nach den Plänen des Senats zum kommenden Schuljahr 2015/2016 Schwerpunktschulen für welche Förderschwerpunkte werden?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Anlage 2. Zum Einsatz der sonderpädagogischen Fachkräfte pro Schule siehe Drs. 20/14467, in der die Ressourcen pro Schule nach Ausbildungsschwerpunkten dargestellt worden sind. Derzeit ist die Einrichtung zusätzlicher Schwerpunktschulstandorte nicht geplant.
 

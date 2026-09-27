@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57781"
@@ -45,6 +46,6 @@ Wie viel Geld ist für Hamburg eingeteilt?
 
 Wie sieht die Verteilung des zugeteilten Geldes aus? Bitte nach Projekten, Zahlen und Gründen, weshalb sich für diese Verteilung entschieden wurde, aufführen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Zuständigkeit für das Nationale Präventionsprogramm gegen islamistischen Extremismus liegt bei der Bundesregierung. Der Senat hat zur beabsichtigen Mittelverteilung keine Erkenntnisse.

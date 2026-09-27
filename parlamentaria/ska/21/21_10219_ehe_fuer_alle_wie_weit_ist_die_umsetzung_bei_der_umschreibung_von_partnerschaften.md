@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9948", "21/9946"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59055"
@@ -55,7 +56,7 @@ Wie viele Voranmeldungen zur Eheschließung von gleichgeschlechtlichen Paaren li
 
 Wie viele Anmeldungen sind von Paaren, die durch eine Eheschließung die eingetragene Lebenspartnerschaft ablösen wollen? Wenn keine Daten dazu vorliegen, warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Standesamt Hamburg
 

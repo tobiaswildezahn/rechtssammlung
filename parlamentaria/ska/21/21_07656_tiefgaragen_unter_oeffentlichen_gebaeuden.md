@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56258"
@@ -67,11 +68,11 @@ Wie viele Tiefgaragenplätze haben diese jeweils?
 
 Die der Anfrage zugrunde liegenden Begriffe „öffentliche Gebäude“ beziehungsweise „öffentliche Nutzung“ sind öffentlich-rechtlich nicht definiert und insofern auch nicht elektronisch auswertbar. Bei einer Geltungsdauer von drei Jahren für eine Baugenehmigung beziehungsweise Zustimmung wären, beginnend mit dem Jahr 2008 (Errichtung der Gebäude ab 2011), über 30.000 Vorgänge der Vorgangsarten:
 
- Baugenehmigungsverfahren mit Konzentrationswirkung nach § 62 HBauO bezie-
+– Baugenehmigungsverfahren mit Konzentrationswirkung nach § 62 HBauO bezie-
 
 hungsweise
 
- Zustimmungsverfahren nach § 64 HBauO
+– Zustimmungsverfahren nach § 64 HBauO
 
 händisch zu sichten und auszuwerten. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -83,6 +84,6 @@ Sofern ein Teil dieser Gebäude keine Tiefgarage hat: warum nicht?
 
 Wo sollen die Mitarbeiter und Besucher dieser Gebäude ihre Autos parken, wenn keine Tiefgarage zur Verfügung steht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Werden bauliche Anlagen sowie andere Anlagen, bei denen ein Zu- und Abfahrtsverkehr zu erwarten ist, errichtet, sind Stellplätze für Kraftfahrzeuge sowie Fahrradplätze auf dem Grundstück oder, durch Baulast gesichert, auf einem geeigneten Grundstück in der Nähe in geeigneter Beschaffenheit herzustellen oder nachzuweisen (§ 48 Absatz 1 Satz 1 HBauO). Dass die notwendigen Stellplätze in einer Tiefgarage hergestellt werden müssen, wird bauordnungsrechtlich nicht gefordert.

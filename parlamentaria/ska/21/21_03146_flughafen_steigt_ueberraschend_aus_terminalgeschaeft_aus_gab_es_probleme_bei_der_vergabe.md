@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51475"
@@ -63,7 +64,7 @@ Wann hat der Chef des Hamburger Flughafens den Senat, die zuständige Behörde u
 
 Warum wurde vonseiten der BWVI auf eine Information der Bürgerschaft und der Öffentlichkeit verzichtet?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die jeweiligen Geschäftsführungen der HPA und FHG haben zeitgleich die Vertreter des Senates in ihren Aufsichtsräten über den Verkauf informiert. Die Gremien haben im Dezember 2015 den vorgelegten Anträgen zugestimmt.
 

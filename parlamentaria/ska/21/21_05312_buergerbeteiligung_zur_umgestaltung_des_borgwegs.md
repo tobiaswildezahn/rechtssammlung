@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/73", "20/14242", "21/4968", "21/4728"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53797"
@@ -241,15 +242,12 @@ Die Anzahl der Kfz-Stellplätze ist sowohl von der örtlichen Gegebenheit (unter
 
 Die Anzahl der in den benannten Straßenabschnitten zum Parken freigegebenen Stellplätze ist der folgenden Tabelle zu entnehmen:
 
-Frage Anzahl a. 54
+Frage Anzahl a.
 
 Frage  
 Anzahl  
-b. 26  
-c. -  
-d. 12  
-e. 50  
-f. 165
+b. c. -  
+d. e. f.
 
 Darüber hinaus gibt es in den benannten Straßenabschnitten Flächen, die nicht zum Parken freigegeben sind, aber trotzdem von Fahrzeugführern ordnungswidrig zum Abstellen von Kraftfahrzeugen genutzt werden; valide Daten zur Anzahl liegen der Polizei nicht vor.
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 21
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3204", "21/1570", "21/1704", "21/2142", "21/2379"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51832"
@@ -69,7 +70,7 @@ Gibt es noch weitere Unterkünfte, die ausschließlich für besonders Schutzbed�
 
 Gibt es innerhalb von ZEA spezielle Unterbringungsmöglichkeiten, die ausschließlich von besonders Schutzbedürftigen genutzt werden beziehungsweise sind welche in Planung? Wenn ja, wo, für wie viele Personen und welche Zielgruppe?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage, Drs. 21/1570, 21/1704, 21/2142, 21/3204 sowie das Protokoll Nummer 21/6 des Ausschusses für Soziales, Arbeit und Integration vom 21. Januar 2016.
 

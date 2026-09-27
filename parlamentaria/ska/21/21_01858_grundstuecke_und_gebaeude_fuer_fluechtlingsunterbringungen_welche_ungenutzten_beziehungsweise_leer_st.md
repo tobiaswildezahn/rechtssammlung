@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 9
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1719", "21/1721"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50099"
@@ -43,7 +44,7 @@ Wie viele städtische Immobilien sind momentan ungenutzt beziehungsweise leer st
 
 In welchem baulichen Zustand befinden sich diese Immobilien jeweils? (Bitte Bewertungsmaßstab erläutern.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs, 21/1721. Darüber hinaus sieht der Senat in ständiger Praxis davon ab, konkrete Leerstände und Details zu Leerstandsobjekten zu benennen.
 

@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 34
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67953"
@@ -65,7 +66,7 @@ Wie ist der aktuelle Planungsstand hinsichtlich des Maßes der Grundstücksnutzu
 
 Wie ist die geplante städtebauliche Anordnung der Gebäude vorgesehen und welche Gebäudehöhen sind derzeit geplant?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Gemäß Bebauungsplan-Entwurf sind bis zu fünf Geschosse im nördlichen und südlichen Teil des Grundstücks möglich. Es wird von einer Bruttogeschossfläche (BGF) von circa 24 145 m² ausgegangen. Eine Nettoraumfläche (NRF) kann zum jetzigen Planungsstand noch nicht benannt werden. Die BGF teilt sich folgendermaßen auf:
 
@@ -97,7 +98,7 @@ Stehen die schulischen Freiflächen nach Schulschluss und am Wochenende vollstä
 
 Werden alle vorgesehenen Kleinspielfelder nach Schulschluss und am Wochenende auch durch das Quartier genutzt werden können? Wenn ja, gibt es dafür bereits organisatorische Planungen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Regelhaft öffnen sich insbesondere die weiterführenden Schulen für eine enge Kooperation mit den Initiativen und der Bevölkerung in der jeweiligen Region. Hierzu gehört unter anderem die Nutzung schulischer Sporthallenkapazitäten durch die regionalen Sportvereine. Die konkreten Planungen hierfür sind im Zuge der Realisierung zu klären.
 

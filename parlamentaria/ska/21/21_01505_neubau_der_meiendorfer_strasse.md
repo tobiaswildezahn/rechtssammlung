@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/4750"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49708"
@@ -63,15 +64,15 @@ Für wann ist die 2. Verschickung der Planung vorgesehen? Was sind danach die we
 
 Die 2. Verschickung ist für Anfang 2016 geplant. Die weiteren Schritte sind:
 
- Schlussverschickung (2016)
+– Schlussverschickung (2016)
 
- Erstellen der Vergabeunterlagen
+– Erstellen der Vergabeunterlagen
 
- Ausarbeitung der Verkehrsführungspläne
+– Ausarbeitung der Verkehrsführungspläne
 
- Durchführung der vorbereitenden Arbeiten
+– Durchführung der vorbereitenden Arbeiten
 
- Straßenbauarbeiten (ab Frühjahr 2018)
+– Straßenbauarbeiten (ab Frühjahr 2018)
 
 ### Frage 4
 

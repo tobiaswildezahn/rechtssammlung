@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12324", "21/15521"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65662"
@@ -37,13 +38,13 @@ Vor diesem Hintergrund frage ich den Senat:
 
 Bedingt durch den starken Anstieg von Ermittlungsverfahren mit terroristischem Hintergrund bei der Generalstaatsanwaltschaft Hamburg in den vergangenen Jahren wurden durch Beschluss der Bürgerschaft vom 16. Mai 2018 unter anderem Mittel zur Schaffung neuer Staatsschutzstellen bei der Generalstaatsanwaltschaft bereitgestellt (Drs. 21/12324), und zwar
 
- 1,0 Stelle Leitende Oberstaatsanwältin/Leitender Oberstaatsanwalt R 3,
+– 1,0 Stelle Leitende Oberstaatsanwältin/Leitender Oberstaatsanwalt R 3,
 
- 4,0 Stellen Oberstaatsanwältin/Oberstaatsanwalt R 2,
+– 4,0 Stellen Oberstaatsanwältin/Oberstaatsanwalt R 2,
 
- 0,5 Stelle Justizamtfrau, Justizamtmann A 11 und
+– 0,5 Stelle Justizamtfrau, Justizamtmann A 11 und
 
- 2,0 Stellen Arbeitnehmerin/Arbeitnehmer E 6.
+– 2,0 Stellen Arbeitnehmerin/Arbeitnehmer E 6.
 
 Zum Geschäftsjahr 2019 wurde bei der Generalstaatsanwaltschaft eine weitere Abteilung (Abteilung IV – Zentralstelle Staatsschutz) eingerichtet. Die Zentralstelle nahm ihre Tätigkeit zum 1. Januar 2019 auf Grundlage der Errichtungsanordnung des Generalstaatsanwalts vom 14. Dezember 2018 auf. Alle Stellen der Zentralstelle sind derzeit voll besetzt, lediglich eine der beiden Stellen E 6 (Servicebereich) wird von einer Arbeitnehmerin mit einem Arbeitszeitanteil von circa 75 Prozent wahrgenommen.
 
@@ -91,7 +92,7 @@ b) Finanzierung subversiv-staatsgefährdender Bestrebungen
 c) Werbung für illegale Organisationen
 d) Radikalisierung von Muslimen
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Derzeit führt die Zentralstelle Prüfvorgänge betreffend elf Personen, die vom Landeskriminalamt Hamburg als Gefährder eingestuft worden sind. Den Beobachtungsvorgängen liegen jeweils Erkenntnisse aus unterschiedlichen und in einander übergehenden Phänomenen mit terroristischen Bezügen zugrunde, sodass eine Differenzierung im Sinne der Fragestellung nicht möglich ist.
 
@@ -103,7 +104,7 @@ In wie vielen der zurzeit geführten Staatsschutzverfahren verfügen die Angekla
 
 In wie vielen Fällen handelt es sich bei den Angeklagten um Deutsche beziehungsweise Deutsche mit zweiter Staatsangehörigkeit? Bitte jeweils auch die zweite Staatsbürgerschaft nennen.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Derzeit sind fünf Beschuldigte durch die Generalstaatsanwaltschaft Hamburg angeklagt und noch nicht rechtskräftig verurteilt. Einer der Angeklagten besitzt die deutsche Staatsangehörigkeit.
 

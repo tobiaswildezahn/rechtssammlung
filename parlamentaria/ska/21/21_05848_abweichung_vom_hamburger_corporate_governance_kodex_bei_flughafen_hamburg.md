@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4116"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54345"
@@ -85,7 +86,7 @@ Was regelt der Konsortialvertrag, auf welchen sich hinsichtlich der Abweichung v
 
 Fällt der Punkt, dass Geschäftsführer der Offenlegung ihrer Geschäftsführergehälter, unterteilt in erfolgsabhängige und erfolgsunabhängige Bestandteile, widersprechen können auch unter den Konsortialvertrag? a. Wann ja, warum? b. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Konsortialvertrag regelt das Verhältnis der Konsorten untereinander und unterliegt der Vertraulichkeit. Im Übrigen siehe Antwort zu 2.
 
@@ -154,4 +155,4 @@ Elbphilharmonie Hamburg Bau GmbH&Co.KG
 
 Anmerkungen
 
- Die AKN hat, obwohl der Sitzes in Schleswig-Holstein ist, und damit der Corporate Governance Kodex Schleswig-Holstein zur Anwendung kommt, aufgrund eines AR-Beschlusses eine Entsprechenserklärung für beide Länder-Kodizes abgegeben.  Die HHA gibt nach Maßgabe von Nummer 1 Abs. 4 HCGK als Muttergesellschaft eine Entsprechenserklärung für alle Konzern-Gesellschaften, die dem Anwendungsbereich des HCGK unterliegen, ab. Bei den vom HCGK erfassten Gesellschaften handelt es sich nach Maßgabe der Abstimmung mit der BWVI um die ATG, die HADAG, die FFG, die TEREG und die BeNEX.  Die Hamburger Hafen und Logistik AG hat eine Entsprechenserklärung gemäß DCGK abgegeben.
+– Die AKN hat, obwohl der Sitzes in Schleswig-Holstein ist, und damit der Corporate Governance Kodex Schleswig-Holstein zur Anwendung kommt, aufgrund eines AR-Beschlusses eine Entsprechenserklärung für beide Länder-Kodizes abgegeben. – Die HHA gibt nach Maßgabe von Nummer 1 Abs. 4 HCGK als Muttergesellschaft eine Entsprechenserklärung für alle Konzern-Gesellschaften, die dem Anwendungsbereich des HCGK unterliegen, ab. Bei den vom HCGK erfassten Gesellschaften handelt es sich nach Maßgabe der Abstimmung mit der BWVI um die ATG, die HADAG, die FFG, die TEREG und die BeNEX. – Die Hamburger Hafen und Logistik AG hat eine Entsprechenserklärung gemäß DCGK abgegeben.

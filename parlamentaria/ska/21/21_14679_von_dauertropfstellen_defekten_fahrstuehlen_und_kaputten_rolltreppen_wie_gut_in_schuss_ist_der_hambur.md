@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 22
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13941"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64119"
@@ -157,7 +158,7 @@ Wie viele der Überwachungskameras am Hamburger Hauptbahnhof sind aktuell seit w
 
 Wie viele der Überwachungskameras am Hamburger Hauptbahnhof waren im laufenden Jahr wie lange und aus welchen Gründen nicht in Betrieb?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 DB AG:
 
@@ -175,7 +176,7 @@ Wie viele der Zugzielanzeiger am Hamburger Hauptbahnhof sind aktuell seit wann u
 
 Wie viele der Zugzielanzeiger am Hamburger Hauptbahnhof waren im laufenden Jahr wie lange und aus welchen Gründen nicht in Betrieb?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 DB AG:
 
@@ -221,7 +222,7 @@ Wie viele der öffentlichen Uhren am Hamburger Hauptbahnhof sind aktuell seit wa
 
 Wie viele der öffentlichen Uhren am Hamburger Hauptbahnhof waren im laufenden Jahr wie lange und aus welchen Gründen nicht in Betrieb?
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 DB AG:
 

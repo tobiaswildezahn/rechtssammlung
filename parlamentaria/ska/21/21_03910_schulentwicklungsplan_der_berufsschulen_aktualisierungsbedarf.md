@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2991", "21/3490", "21/3149"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52302"
@@ -70,37 +71,37 @@ Wie ist der Umsetzungsstand des Schulentwicklungsplans der staatlichen berufsbil
 
 Folgende Maßnahmen wurden zum 1. August 2015 umgesetzt:
 
- Die ehemalige Staatliche Handelsschule mit Wirtschaftsgymnasium Weidenstieg
+– Die ehemalige Staatliche Handelsschule mit Wirtschaftsgymnasium Weidenstieg
 
 (H 5), das ehemalige Staatliche Wirtschaftsgymnasium St. Pauli (H 16) und die ehemalige Staatliche Handelsschule mit Wirtschaftsgymnasium Kieler Straße (H 19) wurden zur Beruflichen Schule für Banken, Versicherungen und Recht mit Beruflichem Gymnasium St. Pauli (BS 11) zusammengelegt.
 
- Die ehemalige Berufliche Schule für Wirtschaft und Steuern (H 12) und die ehema-
+– Die ehemalige Berufliche Schule für Wirtschaft und Steuern (H 12) und die ehema-
 
 lige Staatliche Handelsschule mit Wirtschaftsgymnasium Schlankreye (H 3) wurden zur Beruflichen Schule für Wirtschaft Hamburg – Eimsbüttel (BS 26) zusammengelegt.
 
- Die ehemalige Berufliche Medienschule Hamburg-Wandsbek/Eilbektal (H 8, 2012
+– Die ehemalige Berufliche Medienschule Hamburg-Wandsbek/Eilbektal (H 8, 2012
 
 bereits fusioniert mit der ehemaligen Gewerbeschule 5) und die ehemalige Fremdsprachenschule (H 15), wurden zur Beruflichen Schule für Medien und Kommunikation (BS 17) zusammengelegt.
 
- Die ehemalige Berufliche Schule für Wirtschaft und IT – City Nord (H 7) und die
+– Die ehemalige Berufliche Schule für Wirtschaft und IT – City Nord (H 7) und die
 
 ehemalige Berufliche Schule Bramfelder See (H 20) wurden zur Beruflichen Schule City Nord (BS 28) zusammengelegt. Auf Antrag der Schulvorstände beider Schulen geschah die Zusammenführung ein Jahr früher als ursprünglich geplant.
 
 Für den Beginn des Schuljahres 2016/2017 sind folgende Schulfusionen geplant:
 
- Die Berufliche Schule William Lindley (G 2) und die Staatliche Gewerbeschule
+– Die Berufliche Schule William Lindley (G 2) und die Staatliche Gewerbeschule
 
 Metalltechnik mit Technischem Gymnasium (G 17) fusionieren zur Berufsbildenden Schule am Standort Dratelnstraße (BS 13). Die beiden Standorte bleiben bis zur Beendigung des Umbaus an der Dratelnstraße (voraussichtlich 31. Juli 2018) erhalten.
 
- Die Staatliche Schule Gesundheitspflege (W 1) fusioniert mit der Beruflichen Schu-
+– Die Staatliche Schule Gesundheitspflege (W 1) fusioniert mit der Beruflichen Schu-
 
 le Burgstraße (W 08) zur Berufsbildenden Schule am Standort Burgstraße (BS 12) mit einer Dependance in der Hinrichsenstraße.
 
- Die Staatliche Handelsschule mit Beruflichem Gymnasium Harburg (H 10) fusio-
+– Die Staatliche Handelsschule mit Beruflichem Gymnasium Harburg (H 10) fusio-
 
 niert mit der Staatlichen Schule Sozialpädagogik Harburg (W 5) zur Berufsbildenden Schule am Standort Göhlbachtal (BS 18).
 
- Die Staatliche Gewerbeschule Verkehrstechnik, Arbeitstechnik und Ernährung
+– Die Staatliche Gewerbeschule Verkehrstechnik, Arbeitstechnik und Ernährung
 
 (G 20) fusioniert mit der Beruflichen Schule für Büro- und Personalmanagement Bergedorf (H 17) zur Berufsbildenden Schule am Standort Billwerder Billdeich (BS 7). Die jetzigen Standorte bleiben bis zur Beendigung des Umbaus am Standort Billwerder Billdeich (voraussichtlich 31. Juli 2019) erhalten.
 
@@ -108,45 +109,45 @@ a. Welche Schulstandorte wurden bereits wann geschlossen? Bitte unter Angabe des
 
 Folgende Schulstandorte wurden zum 31. Juli 2015 abgemietet:
 
- Die Dependance Neusurenland 134 der Staatlichen Gewerbeschule Werft und
+– Die Dependance Neusurenland 134 der Staatlichen Gewerbeschule Werft und
 
 Hafen (G 7), Bezirk Wandsbek.
 
- Der Schulstandort der ehemaligen H 12, Ausschläger Weg 10, Bezirk HH-Mitte,
+– Der Schulstandort der ehemaligen H 12, Ausschläger Weg 10, Bezirk HH-Mitte,
 
 wurde aufgegeben (siehe Ersatzneubau am Standort Anckelmannstraße, Bezirk HH-Mitte).
 
- Der Schulstandort der ehemaligen H 20, Gropiusring 43, Bezirk Wandsbek, wurde
+– Der Schulstandort der ehemaligen H 20, Gropiusring 43, Bezirk Wandsbek, wurde
 
 abgemietet.
 
- Die Dependance Stephanstraße 15 der ehemaligen H 8, Bezirk Wandsbek, wurde
+– Die Dependance Stephanstraße 15 der ehemaligen H 8, Bezirk Wandsbek, wurde
 
 abgemietet.
 
 Folgende Schulstandorte wurden abgemietet, zum Teil mit vorübergehender schulischer Nachnutzung:
 
- Der Schulstandort der Beruflichen Schule für Handel und Verwaltung – Anckel-
+– Der Schulstandort der Beruflichen Schule für Handel und Verwaltung – Anckel-
 
 mannstraße (H 1), Anckelmannstraße 10, Bezirk HH-Mitte, ist seit dem 31. Juli 2015 gemäß Schulentwicklungsplan zwecks Abriss und Errichtung des Ersatzneubaus vorübergehend geschlossen. Die Schule ist vorübergehend ausgelagert.
 
- Die Schulstandorte der ehemaligen H 5, Telemannstraße 10 und Schwenckestra-
+– Die Schulstandorte der ehemaligen H 5, Telemannstraße 10 und Schwenckestra-
 
 ße 91 – 93, Bezirk Eimsbüttel, wurden zum 31. Juli 2015 von der ehemaligen H 5 nicht mehr genutzt und werden seit dem 1. August 2015 infolge von Baumaßnahmen am Standort Tessenowweg vorübergehend zur Auslagerung der ehemaligen H 20 genutzt.
 
- Der Schulstandort der ehemaligen H 19, Eckernförder Straße 70, Bezirk Altona,
+– Der Schulstandort der ehemaligen H 19, Eckernförder Straße 70, Bezirk Altona,
 
 wurde zum 31. Juli 2015 abgemietet, wird seit dem 1. August 2015 vorrübergehend infolge von Baumaßnahmen zur Auslagerung von den allgemeinbildenden Schulen genutzt und es wird zurzeit geprüft, ob eine vorrübergehende Nachnutzung durch berufsbildende Schulen erfolgt.
 
- Die Dependance Eilbektal 35 der ehemaligen H 8, Bezirk Wandsbek, wurde zum
+– Die Dependance Eilbektal 35 der ehemaligen H 8, Bezirk Wandsbek, wurde zum
 
 31. Juli 2015 abgemietet und wird seit dem 1. August 2015 infolge von Baumaßnahmen vorübergehend zur Auslagerung der H 1 genutzt.
 
- Der Schulstandort Mittelweg 42a der ehemaligen H 15, Bezirk Eimsbüttel, wurde
+– Der Schulstandort Mittelweg 42a der ehemaligen H 15, Bezirk Eimsbüttel, wurde
 
 zum 31.Juli 2015 abgemietet und wird seitdem von der Staatlichen Jugendmusikschule Hamburg und der allgemeinbildenden Grundschule Turmweg genutzt.
 
- Der Schulstandort Barmbeker Straße 30 – 32 der ehemaligen H 15, Bezirk HH-
+– Der Schulstandort Barmbeker Straße 30 – 32 der ehemaligen H 15, Bezirk HH-
 
 Nord, wird seit dem 31. Juli 2015 und bis Ende August 2016 infolge von Baumaßnahmen zur Auslagerung der Staatlichen Fachschule für Sozialpädagogik Wagnerstraße – Fröbelseminar (FSP 1) und danach von einer allgemeinbildenden Schule genutzt.
 

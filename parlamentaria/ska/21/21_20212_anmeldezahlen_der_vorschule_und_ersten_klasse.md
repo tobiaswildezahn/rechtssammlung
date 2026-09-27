@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/20093"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69996"
@@ -51,7 +52,7 @@ Wie viele Anmeldungen liegen in jedem Bezirk und in jeder Schulregion bei den Vo
 
 Wie viele Anmeldungen der ersten Klassen liegen in jedem Bezirk und in jeder Schulregion vor? (Bitte absolut in einer Excel-Tabelle angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung und Drs. 21/20093.
 
@@ -63,7 +64,7 @@ Wie viele Kinder pro Bezirk und Schulregion haben Förderbedarfe in LSE? (Bitte 
 
 Wie viele Kinder pro Bezirk und Schulregion haben sonderpädagogische Förderbedarfe? (Bitte in die Tabelle zu Frage 1. und Frage 2. einpflegen.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Mit Stand vom 6. Februar 2020 wurden 41 Kinder mit einem bestätigten Förderbedarf in den Bereichen Lernen, Sprache sowie emotionale und soziale Entwicklung (LSE) und 118 Kinder mit einem bestätigten speziellen sonderpädagogischem Förderbedarf für Klasse 1 an staatlichen allgemeinbildenden Schulen in Hamburg angemeldet.
 

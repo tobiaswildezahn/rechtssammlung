@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17807", "21/17863", "21/18108"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68360"
@@ -75,7 +76,7 @@ Wie genau ist das Verfahren in den Jobcentern in Bezug auf die Bewilligung von L
 
 Welche Vorgaben innerhalb des Jobcenters t.a.h. gibt es gegenüber den Mitarbeitern/-innen hinsichtlich der Beratung im Hinblick auf und der Bewilligung von Leistungen nach § 16a Nummer 3 SGB II?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -221,6 +222,6 @@ Welche Schulungen und Informationsveranstaltungen für Mitarbeiter/ -innen des J
 
 Welche Rolle spielt es für die Bewilligung von Leistungen nach § 16a Nummer 3 SGB II, dass es sich um eine kommunale, also von der Freien und Hansestadt Hamburg finanzierte Leistung handelt, mit der das Jobcenter-Budget nicht belastet wird?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Vorbemerkung.

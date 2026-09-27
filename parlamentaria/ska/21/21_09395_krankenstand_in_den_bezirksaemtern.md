@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6582"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58158"
@@ -65,7 +66,7 @@ b. sechs Monate bis elf Monate,
 c. zwölf Monate bis 18 Monate,  
 d. >18 Monate.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage 2. Über die Bezugsdauer des von den gesetzlichen Krankenversicherungen gezahlten Krankengeldes liegen dem Senat keine Erkenntnisse vor.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/729", "20/11896", "20/7935", "21/1107"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49905"
@@ -99,20 +100,20 @@ Zeitraum:
 Aktivität/Projekt  
 Bereich Struktur und Verankerung:  
 Seit 2013  
-  
+–  
 TUHH Gründerteams haben bei der TuTech GmbH, dem HIT Technopark
 
-und dem Northern Institute of Technology Management (NIT) die Möglichkeit, zu günstigen Konditionen Gründerbüros anzumieten. Juni 2015  Verabschiedung der Patentstrategie vom akademischen Senat der
+und dem Northern Institute of Technology Management (NIT) die Möglichkeit, zu günstigen Konditionen Gründerbüros anzumieten. Juni 2015 – Verabschiedung der Patentstrategie vom akademischen Senat der
 
 TUHH und Veröffentlichung. Die Strategie bildet die Grundlage für den  
 Umgang mit geistigem Eigentum (IP) der TUHH  
 Februar 2015  
-  
+–  
 Einzug in neue gemeinsamen Räumlichkeiten für das Gründerzentrum
 
-und den Lehrstuhl auf dem Campus der TUHH als zentrale Anlaufstelle für Gründungsinteressierte der TUHH  Einrichtung von zwei Büros (Co-Working Spaces) auf dem Campus, die
+und den Lehrstuhl auf dem Campus der TUHH als zentrale Anlaufstelle für Gründungsinteressierte der TUHH – Einrichtung von zwei Büros (Co-Working Spaces) auf dem Campus, die
 
-von Gründerteams genutzt werden können  Einrichtung eines FabLabs, das die Gründungsinteressierten als Werk-
+von Gründerteams genutzt werden können – Einrichtung eines FabLabs, das die Gründungsinteressierten als Werk-
 
 statt und Labor nutzen, um an Prototypen zu arbeiten
 
@@ -120,52 +121,52 @@ Zeitraum:
 Aktivität/Projekt  
 Bereich Struktur und Verankerung:  
 November 2014  
-  
+–  
 Die Technische Universität Hamburg belegt den zehnten Platz im Ran-
 
 king der Gründerhochschulen (siehe „Gründungsradar 2013“ des Stifterverbands für die Deutsche Wissenschaft). In der Gruppe der mittleren Hochschulen (5.001 bis 15.000 Studierende) konnte sich die TUHH im Vergleich zum Vorjahr um 10 Plätze steigern und erreicht Platz 10. April 2014
 
- Besetzung der Professur und Einrichtung des Lehrstuhls TUHH Institute
+– Besetzung der Professur und Einrichtung des Lehrstuhls TUHH Institute
 
 of Entrepreneurship (TIE): 6,5 Vollzeitstellen und 3 Stud. Hilfskräfte  
 Oktober 2013  
-  
+–  
 Gründung des Zentrums für Innovation und Entrepreneurship (ZIE):
 
 11 Vollzeitstellen und 2 Stud. Hilfskräfte  
 April 2013  
-  
+–  
 Die TUHH ist eine von insgesamt zwölf deutschen Hochschulen, die sich
 
-in der Endrunde des BMWI- Wettbewerb „Exist-Gründerkultur - Die Gründerhochschule“ aus 49 bundesdeutschen Hochschulen durchgesetzt haben und den Titel „Günderhochschule“ tragen darf. . Die Mittel werden vom Bundesministerium für Wirtschaft und Energie (BMWi) zugesprochen. März 2013  Das Leitbild der TUHH ist um das Ziel der Förderung von Existenzgrün-
+in der Endrunde des BMWI- Wettbewerb „Exist-Gründerkultur - Die Gründerhochschule“ aus 49 bundesdeutschen Hochschulen durchgesetzt haben und den Titel „Günderhochschule“ tragen darf. . Die Mittel werden vom Bundesministerium für Wirtschaft und Energie (BMWi) zugesprochen. März 2013 – Das Leitbild der TUHH ist um das Ziel der Förderung von Existenzgrün-
 
 dungen und Unternehmertum ergänzt  
 2013  
-  
+–  
 Aufnahme der Gründungsthematik im Struktur-& Entwicklungsplan der
 
 Hochschule 2013-2018  
 Bereich Lehre und Qualifizierung:  
 Seit WiSe  
 2013/2014  
-  
+–  
 Das Konzept in der Entrepreneurship-Lehre ist implementiert. Lehrver-
 
-anstaltungen werden durchgeführt.  Gemäß der Zielsetzung, 100% der Bachelor-Studierenden an das The-
+anstaltungen werden durchgeführt. – Gemäß der Zielsetzung, 100% der Bachelor-Studierenden an das The-
 
-ma Unternehmertum heranzuführen, wurde der Entrepreneurship Pflichtkurs „Startup Spirit“ in die Grundlagen der BWL implementiert  Entrepreneurship-Vertiefungen für Bachelor- und Masterstudierende
+ma Unternehmertum heranzuführen, wurde der Entrepreneurship Pflichtkurs „Startup Spirit“ in die Grundlagen der BWL implementiert – Entrepreneurship-Vertiefungen für Bachelor- und Masterstudierende
 
 werden angeboten  
 Seit WiSe  
 2013/2014  
-  
+–  
 Implementierung von extracurricularen Qualifizierungsangeboten:  
-  
+–  
 Entrepreneurship-Kurs (12x p.a.), Startup Talk (7x p.a.), Entrepreneu-
 
 rship-Workshops (ca. 5x p.a.), Summer School für Studierende (1 Woche  
 p.a.), Summer School für Wissenschaftler (3 Tage p.a.)  
-  
+–  
 Qualifizierungsprogramm  
 für  
 Wissenschaftler  
@@ -174,60 +175,72 @@ Bereich Gründungsförderung und Kultur:
 
 Seit 2013 bis heute
 
- Betreuung von derzeit 35 Gründungsprojekten im TUHH Startup Dock
+– Betreuung von derzeit 35 Gründungsprojekten im TUHH Startup Dock
 
-(Ende 2013 = 11), Kooperation mit TuTech Innovation GmbH (TTI)  Erhöhung der Anzahl der Beratungsgespräche/Gründungen/
+(Ende 2013 = 11), Kooperation mit TuTech Innovation GmbH (TTI) – Erhöhung der Anzahl der Beratungsgespräche/Gründungen/
 
 Förderanträge Seit 2013 bis heute
 
- Kontinuierlicher Ausbau der Kooperationen mit Hochschulen, For-
+– Kontinuierlicher Ausbau der Kooperationen mit Hochschulen, For-
 
-schungs- und Fördereinrichtungen sowie privatwirtschaftlichen Inkubatoren  Kontinuierlicher Ausbau des Netzwerks von Mentoren und Promotoren
+schungs- und Fördereinrichtungen sowie privatwirtschaftlichen Inkubatoren – Kontinuierlicher Ausbau des Netzwerks von Mentoren und Promotoren
 
 zur Unterstützung der Gründungsvorhaben im Startup Dock  
 Seit März 2015  
-  
+–  
 Implementierung von Online-Plattformen, um Informationen zur Grün-
 
-dungsthematik transparent zur Verfügung zu stellen und eine möglichst einfache Verbindung zwischen Hochschulen, GründerInnen und Mentoren zu ermöglichen (StartersMonitor, StartersGuide und StartersHub) Seit WiSe 2013/2014  Das Startup Dock beteiligt sich aktiv an externen Veranstaltungen und
+dungsthematik transparent zur Verfügung zu stellen und eine möglichst einfache Verbindung zwischen Hochschulen, GründerInnen und Mentoren zu ermöglichen (StartersMonitor, StartersGuide und StartersHub) Seit WiSe 2013/2014 – Das Startup Dock beteiligt sich aktiv an externen Veranstaltungen und
 
-Gründerwettbewerben (Startups@Reeperbahn, Social Media Week, solutions.hamburg, Best of Hamburg, Podiumsdiskussionen etc.).  Darüber hinaus werden eigene Veranstaltungen in unterschiedlicher
+Gründerwettbewerben (Startups@Reeperbahn, Social Media Week, solutions.hamburg, Best of Hamburg, Podiumsdiskussionen etc.). – Darüber hinaus werden eigene Veranstaltungen in unterschiedlicher
 
 Größenordnung (20-440 Teilnehmer) initiiert: Gründerpreis Nachhaltigkeit, UniPitch, Hamburg Innovation Summit, Meet & Grill, EXIST Workshop
 
 TuTech Innovation GmbH (TTI):
 
-Zeitraum: Aktivität/Projekt TuTech Innovation GmbH (TTI) als Transfergesellschaft der TUHH und Hamburg Innovation GmbH (HI) als Transfergesellschaft aller Hamburger Hochschulen unterstützen - seit Beginn ihrer Geschäftstätigkeit - Gründerinnen und Gründer aus Hamburger Hochschulen bei der Umsetzung ihrer Vorhaben. Um die Unterstützungsleistungen einem breit gefächerten Feld unterschiedlichster Startups nachhaltig anbieten zu können, sind TTI und HI gut vernetzt und stehen im regen Austausch mit den anderen Playern im Hamburger Gründerunterstützer-Netzwerk. Fortlaufend:  Kontinuierliche Weiterführung der Begleitung von Hochschulausgründungen
+Zeitraum: Aktivität/Projekt TuTech Innovation GmbH (TTI) als Transfergesellschaft der TUHH und Hamburg Innovation GmbH (HI) als Transfergesellschaft aller Hamburger Hochschulen unterstützen - seit Beginn ihrer Geschäftstätigkeit - Gründerinnen und Gründer aus Hamburger Hochschulen bei der Umsetzung ihrer Vorhaben. Um die Unterstützungsleistungen einem breit gefächerten Feld unterschiedlichster Startups nachhaltig anbieten zu können, sind TTI und HI gut vernetzt und stehen im regen Austausch mit den anderen Playern im Hamburger Gründerunterstützer-Netzwerk. Fortlaufend:
+– Kontinuierliche Weiterführung der Begleitung von Hochschulausgründungen
 
-sowie deren Beratung, unter anderem zu den Aspekten Gründungsplanung, Finanzierung, IP-Schutz und Fördermöglichkeiten.  Unter Anderem wird in 2015 zum zehnten Mal das Existenzgründungs-
+sowie deren Beratung, unter anderem zu den Aspekten Gründungsplanung, Finanzierung, IP-Schutz und Fördermöglichkeiten.
+– Unter Anderem wird in 2015 zum zehnten Mal das Existenzgründungs-
 
-Intensivseminar INNOTECH Summer School angeboten.  Über die in einer gemeinsamen Initiative mit der Handelskammer Hamburg
+Intensivseminar INNOTECH Summer School angeboten.
+– Über die in einer gemeinsamen Initiative mit der Handelskammer Hamburg
 
-aus der Taufe gehobenen Innovations Kontaktstelle Hamburg (IKS) werden etablierte Unternehmen, Hochschulinstitute und Startups in sinnvoller Weise zusammengeführt.  Kooperation mit der TUHH bei der erfolgreichen Bewerbung der Hochschule
+aus der Taufe gehobenen Innovations Kontaktstelle Hamburg (IKS) werden etablierte Unternehmen, Hochschulinstitute und Startups in sinnvoller Weise zusammengeführt.
+– Kooperation mit der TUHH bei der erfolgreichen Bewerbung der Hochschule
 
-um eine Förderung im Wettbewerb "EXIST-Gründungskultur - Die Gründerhochschule". Etablierung des Startup Dock im Rahmen dieser Förderung.  Deutschlandweite Vernetzung mit Finanzierern und Fördermittelgebern.  Zulieferung von Gründungsvorhaben für das Förderinstrument InnoRampup.
+um eine Förderung im Wettbewerb "EXIST-Gründungskultur - Die Gründerhochschule". Etablierung des Startup Dock im Rahmen dieser Förderung.
+– Deutschlandweite Vernetzung mit Finanzierern und Fördermittelgebern.
+– Zulieferung von Gründungsvorhaben für das Förderinstrument InnoRampup.
 
-Vertretung der Hochschulen im Vergabeausschuss (TuTech) für HSU und TUHH, Universität Hamburg (UHH) und Hochschule für Angewandte Wissenschaften Hamburg (HAW).  Vernetzung mit dem High Tech Gründerfonds (HTGF) durch die Etablierung
+Vertretung der Hochschulen im Vergabeausschuss (TuTech) für HSU und TUHH, Universität Hamburg (UHH) und Hochschule für Angewandte Wissenschaften Hamburg (HAW).
+– Vernetzung mit dem High Tech Gründerfonds (HTGF) durch die Etablierung
 
-regelmäßiger Sprechtage mit Vertretern des HTGF bei TuTech Innovation.  Vernetzung mit dem Business Angel Netzwerk BANSON und Zulieferung po-
+regelmäßiger Sprechtage mit Vertretern des HTGF bei TuTech Innovation.
+– Vernetzung mit dem Business Angel Netzwerk BANSON und Zulieferung po-
 
-tentieller Investitionskandidaten für die regelmäßigen BANSON Matchingabende.  Aufwertung des etablierten Hamburger INNOTECH Preises (Existenzgrün-
+tentieller Investitionskandidaten für die regelmäßigen BANSON Matchingabende.
+– Aufwertung des etablierten Hamburger INNOTECH Preises (Existenzgrün-
 
-derwettbewerb) durch die Erweiterung um zwei Kategorien für Startups in späteren Unternehmensphasen und durch die Einbettung in den sehr medienwirksamen HAMBURG INNOVATION SUMMIT. Umbenennung in HAMBURG INNOVATION AWARD.  Unterstützung sogenannter “Knowledge Alliances” zur strukturierten und er-
+derwettbewerb) durch die Erweiterung um zwei Kategorien für Startups in späteren Unternehmensphasen und durch die Einbettung in den sehr medienwirksamen HAMBURG INNOVATION SUMMIT. Umbenennung in HAMBURG INNOVATION AWARD.
+– Unterstützung sogenannter “Knowledge Alliances” zur strukturierten und er-
 
-gebnisorientierten Kooperation zwischen Hochschulen und (Startup-) Unternehmen durch das von der Europäischen Union unter dem Konzept von "University–Business Cooperation“ geförderte HEKATE Projekt. Mehrere Workshops zum eingangs ausgeführten Themenkomplex.  Ausweitung der Gründungsberatung durch das Hamburger Existenzgrün-
+gebnisorientierten Kooperation zwischen Hochschulen und (Startup-) Unternehmen durch das von der Europäischen Union unter dem Konzept von "University–Business Cooperation“ geförderte HEKATE Projekt. Mehrere Workshops zum eingangs ausgeführten Themenkomplex.
+– Ausweitung der Gründungsberatung durch das Hamburger Existenzgrün-
 
-dungs Programm (hep) an der Universität Hamburg durch die Etablierung fester Beratungstage im Career Center der Universität und durch die gemeinsam mit der Transferstelle der Uni HH durchgeführten Beratung potentieller Antragsteller für EXIST-Gründerstipendien.  Bereitstellung von Büroflächen für Gründungsteams im Haus der TuTech In-
+dungs Programm (hep) an der Universität Hamburg durch die Etablierung fester Beratungstage im Career Center der Universität und durch die gemeinsam mit der Transferstelle der Uni HH durchgeführten Beratung potentieller Antragsteller für EXIST-Gründerstipendien.
+– Bereitstellung von Büroflächen für Gründungsteams im Haus der TuTech In-
 
 novation sowie in der geplanten Venture & Innovation Zone (VIZ).
 
 Hochschule für Angewandte Wissenschaften Hamburg (HAW):
 
-Zeitraum: Aktivität/Projekt Bereits vor dem Fragezeitraum wurde die HAW Hamburg Mitglied in einem gemeinsamen Gründernetzwerk aller an EXIST beteiligten Hamburger Hochschulen gemeinsam mit der Hamburg Innovation GmbH. Seit 2015  In 2015 wurden zwei Professoren der HAW Hamburg als Experten für den
+Zeitraum: Aktivität/Projekt Bereits vor dem Fragezeitraum wurde die HAW Hamburg Mitglied in einem gemeinsamen Gründernetzwerk aller an EXIST beteiligten Hamburger Hochschulen gemeinsam mit der Hamburg Innovation GmbH. Seit 2015 – In 2015 wurden zwei Professoren der HAW Hamburg als Experten für den
 
-Gründerpreis Nachhaltigkeit benannt.  Es ist geplant, eine Gründerstrategie mit externer Unterstützung an der
+Gründerpreis Nachhaltigkeit benannt. – Es ist geplant, eine Gründerstrategie mit externer Unterstützung an der
 
-HAW Hamburg zu entwickeln  Im Rahmen des Zukunftsfonds der HAW Hamburg wurden Projekte mit
+HAW Hamburg zu entwickeln – Im Rahmen des Zukunftsfonds der HAW Hamburg wurden Projekte mit
 
 hohem Transfercharakter genehmigt, u.a. der Aufbau des „Creative
 
@@ -236,16 +249,16 @@ Zeitraum: Aktivität/Projekt
 Space“ in der Fakultät TI sowie das Projekt „Business Innovation Lab“ der  
 Fakultät W&S.  
 Seit 2013  
-  
+–  
 In 2013 wurde an der HAW Hamburg die AG Entrepreneurship gegründet,
 
-in der sich an Gründung/Entrepreneurship interessierte Professoren/innen aller Fachrichtungen einmal pro Semester treffen.  Daraus hervorgegangen, fand im WiSe 2014/15 erstmalig die Ringvorle-
+in der sich an Gründung/Entrepreneurship interessierte Professoren/innen aller Fachrichtungen einmal pro Semester treffen. – Daraus hervorgegangen, fand im WiSe 2014/15 erstmalig die Ringvorle-
 
-sung „Entrepreneurship“ an der HAW Hamburg statt, die gemeinsam von Professoren/innen und Unternehmern/innen gestaltet wurde. Im WiSe 2015/16 beginnt der zweite Durchlauf dieser Veranstaltungsreihe an der HAW Hamburg  2014 hat die HAW Hamburg eine 10-teilige Reihe „Existenzgründung light“ mit dem Fokus auf nebenberufliches Gründen konzipiert.  Die HAW Hamburg ist in dem 2014 neu gegründeten Netzwerk „Entre-
+sung „Entrepreneurship“ an der HAW Hamburg statt, die gemeinsam von Professoren/innen und Unternehmern/innen gestaltet wurde. Im WiSe 2015/16 beginnt der zweite Durchlauf dieser Veranstaltungsreihe an der HAW Hamburg – 2014 hat die HAW Hamburg eine 10-teilige Reihe „Existenzgründung light“ mit dem Fokus auf nebenberufliches Gründen konzipiert. – Die HAW Hamburg ist in dem 2014 neu gegründeten Netzwerk „Entre-
 
 preneurship an Hamburger Hochschulen“ vertreten.  
 Seit 2011  
-  
+–  
 Seitdem werden sechs Gründerräume bereitgehalten, EXIST-
 
 Gründerstipendien beantragt, Gründerteams betreut, ein Workshop- Programm angeboten und bis zu vier Erstberatungsgespräche pro Woche mit potentiellen Gründern/innen geführt.
@@ -255,9 +268,10 @@ Universität Hamburg (UHH):
 Zeitraum:  
 Aktivität/Projekt  
 Fortlaufend:  
- Verstetigung der Serviceangebote für Gründungsinteressierte im Career
+– Verstetigung der Serviceangebote für Gründungsinteressierte im Career
 
-Center der Universität in Form von Seminaren, Workshops sowie Summer und Winter Schools.  Stetige Zunahme der Projektanträge sowie Bewilligungen im Rahmen des
+Center der Universität in Form von Seminaren, Workshops sowie Summer und Winter Schools.
+– Stetige Zunahme der Projektanträge sowie Bewilligungen im Rahmen des
 
 „EXIST-Gründerstipendiums“ des BMWi. Seit 2015 Bündelung aller Aktivitäten und Serviceleistungen für Gründerinnen und Gründer sowie Gründungsinteressierte der Universität in Form einer Internetplattform (Gründerservice der Universität Hamburg) https://www.uni-hamburg.de/forschung/transfer/wissenschaftwirtschaft/existenzgruendungen.html Seit 2012 Aufbau und Verstetigung eines Gründungsmanagements im WTT, um die nachhaltige Betreuung der Existenzgründungen aus der Wissenschaft (EXIST) an der Universität Hamburg zu gewährleisten.
 
@@ -282,29 +296,40 @@ Deutsches Elektronen-Synchrotron (DESY):
 Zeitraum:  
 Aktivität/Projekt  
 Seit 2015  
- Darüber erfolgen Planungen zur Gründung einer Innovationszentrums GmbH
+– Darüber erfolgen Planungen zur Gründung einer Innovationszentrums GmbH
 
-mit den drei Gründungsgesellschaftern der Stadt Hamburg, der Universität Hamburg und DESY, welche die Unterstützung von Existenzgründungen, die Vermietung und Verpachtung von Labor- und Büroflächen sowie die Förderung des Wissens- und Technologietransfers übernehmen wird. Der Gesellschaftervertrag zur Gründung der GmbH befindet sich in der finalen Abstimmung.  Derzeit prüft DESY den Nutzen eines strategischen Beratungsgremiums auf
+mit den drei Gründungsgesellschaftern der Stadt Hamburg, der Universität Hamburg und DESY, welche die Unterstützung von Existenzgründungen, die Vermietung und Verpachtung von Labor- und Büroflächen sowie die Förderung des Wissens- und Technologietransfers übernehmen wird. Der Gesellschaftervertrag zur Gründung der GmbH befindet sich in der finalen Abstimmung.
+– Derzeit prüft DESY den Nutzen eines strategischen Beratungsgremiums auf
 
-der Ebene des Direktoriums. Seit 2014  Im Dezember 2014 beschloss die Hamburgische Bürgerschaft das Innovati-
+der Ebene des Direktoriums. Seit 2014
+– Im Dezember 2014 beschloss die Hamburgische Bürgerschaft das Innovati-
 
-onszentrum auf dem Forschungscampus Bahrenfeld und stellte für den Bau des Zentrums einen Investitionszuschuss in Höhe von 14,2 Mio. Euro bereit.  Mittlerweile gibt es vier Ausgründungen bei DESY. Nachdem die beiden Start-
+onszentrum auf dem Forschungscampus Bahrenfeld und stellte für den Bau des Zentrums einen Investitionszuschuss in Höhe von 14,2 Mio. Euro bereit.
+– Mittlerweile gibt es vier Ausgründungen bei DESY. Nachdem die beiden Start-
 
-ups suna-precision GmbH und X-Spectrum GmbH bereits im Juli 2014 gegründet wurden, erfolgte im letzten halben Jahr die Eintragung ins Handelsregister der Class 5 Photonics GmbH sowie der Cycle GmbH, gegründet im März 2015 Besonders zu erwähnen ist, dass alle vier Gründungen den Zuschlag für Helmholtz Enterprise Förderung erhalten haben. Drei der Gründungen haben sich bereits erfolgreich bei der IFB um Förderung beworben. Seit 2013  Im März 2013 bekräftigten die Leitungen der UHH und von DESY gemeinsa-
+ups suna-precision GmbH und X-Spectrum GmbH bereits im Juli 2014 gegründet wurden, erfolgte im letzten halben Jahr die Eintragung ins Handelsregister der Class 5 Photonics GmbH sowie der Cycle GmbH, gegründet im März 2015 Besonders zu erwähnen ist, dass alle vier Gründungen den Zuschlag für Helmholtz Enterprise Förderung erhalten haben. Drei der Gründungen haben sich bereits erfolgreich bei der IFB um Förderung beworben. Seit 2013
+– Im März 2013 bekräftigten die Leitungen der UHH und von DESY gemeinsa-
 
-me Absichten im Themenfeld Technologiepark und Inkubation.  Von der FHH wurde im Anschluss einen Machbarkeitsstudie finanziert und im
+me Absichten im Themenfeld Technologiepark und Inkubation.
+– Von der FHH wurde im Anschluss einen Machbarkeitsstudie finanziert und im
 
-Juni 2013 von der Inno AG vorgelegt.  Im Juli 2013 wurde das Start-up Office auf Basis der überarbeiteten Ausgrün-
+Juni 2013 von der Inno AG vorgelegt.
+– Im Juli 2013 wurde das Start-up Office auf Basis der überarbeiteten Ausgrün-
 
-dungsleitlinie bei DESY gegründet. Es wird von der Stabstelle Technologietransfer bei DESY geleitet und betreut Ausgründungsvorhaben. Diesen wird ein Bündel an Services für den Übergang in die wirtschaftliche Selbständigkeit geboten wie etwa Unterstützung zu Rechtsfragen durch eine externe Anwaltskanzlei, regelmäßige Überprüfungen von Businessplänen sowie die Betreuung bei der Beantragung von weiteren Fördermitteln für Existenzgründer an. Seit 2012  In den folgenden Monaten wurde von der DESY-Technologiepark-Task Force
+dungsleitlinie bei DESY gegründet. Es wird von der Stabstelle Technologietransfer bei DESY geleitet und betreut Ausgründungsvorhaben. Diesen wird ein Bündel an Services für den Übergang in die wirtschaftliche Selbständigkeit geboten wie etwa Unterstützung zu Rechtsfragen durch eine externe Anwaltskanzlei, regelmäßige Überprüfungen von Businessplänen sowie die Betreuung bei der Beantragung von weiteren Fördermitteln für Existenzgründer an. Seit 2012
+– In den folgenden Monaten wurde von der DESY-Technologiepark-Task Force
 
-der Bedarf bei DESY für einen Science- und Technology Park erhoben, dazu wurden Kurz-Interviews mit Schlüsselpersonen geführt, Input aus den Bereichen eingeholt, eine SWOT-Analyse durchgeführt sowie Informationen aus dem Umfeld eingeholt (HK, FHH, HWWI, UHH, und weitere).  Es wurde eine Vorstudie der Inno-AG durchgeführt, mit dem Titel „Bedarfsa-
+der Bedarf bei DESY für einen Science- und Technology Park erhoben, dazu wurden Kurz-Interviews mit Schlüsselpersonen geführt, Input aus den Bereichen eingeholt, eine SWOT-Analyse durchgeführt sowie Informationen aus dem Umfeld eingeholt (HK, FHH, HWWI, UHH, und weitere).
+– Es wurde eine Vorstudie der Inno-AG durchgeführt, mit dem Titel „Bedarfsa-
 
-nalyse und Anforderungsprofil für ein Gründer- bzw. Technologiezentrum am bzw. im Umfeld des DESY“, deren Abschlussbericht im August 2012 vorgelegt wurde.  Parallel dazu wurde eine gemeinsam durch HWWI und DESY betreute Diplo-
+nalyse und Anforderungsprofil für ein Gründer- bzw. Technologiezentrum am bzw. im Umfeld des DESY“, deren Abschlussbericht im August 2012 vorgelegt wurde.
+– Parallel dazu wurde eine gemeinsam durch HWWI und DESY betreute Diplo-
 
-marbeit angefertigt, Titel „Erfolgsfaktoren für einen Science und Technology Park bei DESY“. Aus den Studien ergab sich eindeutig Potenzial für einen forschungsnahen Inkubator (= ein Innovationszentrum) bei DESY.  Es wurden gemeinsam von DESY und der FHH Flächen für einen solchen
+marbeit angefertigt, Titel „Erfolgsfaktoren für einen Science und Technology Park bei DESY“. Aus den Studien ergab sich eindeutig Potenzial für einen forschungsnahen Inkubator (= ein Innovationszentrum) bei DESY.
+– Es wurden gemeinsam von DESY und der FHH Flächen für einen solchen
 
-Inkubator sondiert. DESY trug zu Bürgerinformationsveranstaltungen der Stadt in Lurup bei. Seit Dez. 2011  Im Dezember 2011 wurde bei DESY auf Initiative des Direktoriumsvorsitzen-
+Inkubator sondiert. DESY trug zu Bürgerinformationsveranstaltungen der Stadt in Lurup bei. Seit Dez. 2011
+– Im Dezember 2011 wurde bei DESY auf Initiative des Direktoriumsvorsitzen-
 
 den Prof. Dosch eine interne Task Force Technologiepark ins Leben gerufen.
 
@@ -313,34 +338,38 @@ Helmholtz-Zentrum Geesthacht (HZG):
 Zeitraum:  
 Aktivität/Projekt  
 Fortlaufend:  
- die Stabsstelle Technologietransfer des HZG unterstützt und begleitet Erfin-
+– die Stabsstelle Technologietransfer des HZG unterstützt und begleitet Erfin-
 
-dungen und Innovationsideen von der grundsätzlich Beurteilung bis hin zur Patentanmeldung und Lizenzierung  Auf dem Gelände des HZG ist zudem das GITZ - Geesthachter Innovations-
+dungen und Innovationsideen von der grundsätzlich Beurteilung bis hin zur Patentanmeldung und Lizenzierung
+– Auf dem Gelände des HZG ist zudem das GITZ - Geesthachter Innovations-
 
 und Technologiezentrum angesiedelt, an dem das HZG als Gesellschafter u.a. das HZG und das aktiv den Wissenstransfer fördert und für Gründungsprozesse die erforderliche Infrastruktur zur Verfügung stellen kann
 
 Bernhard-Nocht-Institut für Tropenmedizin (BNITM):
 
-Zeitraum: Aktivität/Projekt Ab 01.01.2006 hat das BNITM mit BMBF-Förderung professionelle Strukturen des Technologietransfers in Zusammenarbeit mit einer externen Technologieverwertungsagentur etabliert. Die Identifikation von Erfindungen und die Anmeldung von Schutzrechten sowie die Verwertung von wissenschaftlichen Ergebnissen wurden gezielt gefördert. Seit 2014  Beitritt zum Hamburger Patentverbund und dadurch enge Zusammenarbeit
+Zeitraum: Aktivität/Projekt Ab 01.01.2006 hat das BNITM mit BMBF-Förderung professionelle Strukturen des Technologietransfers in Zusammenarbeit mit einer externen Technologieverwertungsagentur etabliert. Die Identifikation von Erfindungen und die Anmeldung von Schutzrechten sowie die Verwertung von wissenschaftlichen Ergebnissen wurden gezielt gefördert. Seit 2014
+– Beitritt zum Hamburger Patentverbund und dadurch enge Zusammenarbeit
 
-mit der TuTech Innovation GmbH/Hamburger Patentverwertungsagentur Seit 2011  In der Periode 01.01.2009 bis 31.03.2012 hat das BNITM das BMBF-
+mit der TuTech Innovation GmbH/Hamburger Patentverwertungsagentur Seit 2011
+– In der Periode 01.01.2009 bis 31.03.2012 hat das BNITM das BMBF-
 
-geförderte Projekt „Verstetigung der Verwertungskonzepte in den lebenswissenschaftlichen Instituten der WGL – Bernhard-Nocht Institut für Tropenmedizin“ umgesetzt. Feste Leitlinien für den Umgang mit geistigem Eigentum (IP Policy), Erfindungen und Beschäftigtenausgründungen wurden etabliert. Nach Abschluss des Projekts hat das Institut die Zusammenarbeit mit einer professionellen Patentverwertungsagentur fortgesetzt.  Parallel hat das Institut intern verstärkt wissenschaftliche Projekte mit transna-
+geförderte Projekt „Verstetigung der Verwertungskonzepte in den lebenswissenschaftlichen Instituten der WGL – Bernhard-Nocht Institut für Tropenmedizin“ umgesetzt. Feste Leitlinien für den Umgang mit geistigem Eigentum (IP Policy), Erfindungen und Beschäftigtenausgründungen wurden etabliert. Nach Abschluss des Projekts hat das Institut die Zusammenarbeit mit einer professionellen Patentverwertungsagentur fortgesetzt.
+– Parallel hat das Institut intern verstärkt wissenschaftliche Projekte mit transna-
 
 tionalem Charakter etabliert: Insbesondere wird seit 2011 das aus dem Europäischen Fonds für Regionale Entwicklung (EFRE) co-finanzierte Projekt „Tropendiagnostik“ in einer Public-Private Parternership mit altona Diagnostics GmbH umgesetzt. Ziel des Projekts ist die Entwicklung standardisierter Verfahren der In-vitro-Diagnostik tropentypischer und neu auftretender Infektionskrankheiten und der Aufbau einer Referenzprobenbank zur Qualitätssicherung dieser Diagnostik und für Ringversuche für Routinelaboratorien. Es wird angestrebt, die Ergebnisse des Projekts in marktfähige Produkte zu überführen. Das BNITM hat zudem mit der Gründung der »Medizinisches Versorgungszentrum des Bernhard-Nocht-Instituts für Tropenmedizin GmbH« (BNI-MVZ GmbH) eigene Kompetenzen zur erfolgreichen Etablierung von Ausgründungen geschaffen. Diese infrastrukturellen Voraussetzungen können für weitere Ausgründungen genutzt werden.
 
 Heinrich-Pette-Institut:
 
-Zeitraum: Aktivität/Projekt Das Heinrich-Pette-Institut (HPI) betreibt virologische Grundlagenforschung. Dies erfolgt durch die Erforschung der Biologie humaner Virusarten, der Pathogenese von Viruserkrankungen, der Abwehrreaktionen des Organismus und damit zusammenhängender Probleme. Fortlaufend:  Das HPI unterstützt dabei individuell mögliche Ausgründungen durch die
+Zeitraum: Aktivität/Projekt Das Heinrich-Pette-Institut (HPI) betreibt virologische Grundlagenforschung. Dies erfolgt durch die Erforschung der Biologie humaner Virusarten, der Pathogenese von Viruserkrankungen, der Abwehrreaktionen des Organismus und damit zusammenhängender Probleme. Fortlaufend: – Das HPI unterstützt dabei individuell mögliche Ausgründungen durch die
 
 Übernahme von Kosten für Schutzrechte (Patente), fachliche Beratung  
 usw.  
-  
+–  
 Besonders die Unterstützung von Patentanmeldungen ist hierbei essenti-
 
-ell, da diese eine Grundvoraussetzung für erfolgreiche Ausgründungen im Forschungsbereich des HPI ist.  Die finanzielle Unterstützung erfolgt hierbei ausschließlich durch das Insti-
+ell, da diese eine Grundvoraussetzung für erfolgreiche Ausgründungen im Forschungsbereich des HPI ist. – Die finanzielle Unterstützung erfolgt hierbei ausschließlich durch das Insti-
 
-tutsbudget  Zum jetzigen Zeitpunkt ist am HPI noch keine Ausgründung erfolgt. Bei
+tutsbudget – Zum jetzigen Zeitpunkt ist am HPI noch keine Ausgründung erfolgt. Bei
 
 einer aktuell vom HPI verfolgten Ausgründung erfolgen zurzeit Investorengespräche.
 
@@ -434,24 +463,24 @@ Bereits 2008 wurde unter dem CDU-geführten Senat die InnovationsAllianz initiie
 
 In der InnovationsAllianz haben sich die vielfältigen Kooperationsbeziehungen zwischen Wirtschaft, Wissenschaft und Verwaltung weiter entwickelt. Im Zuge des Aufbaus der Innovationsagentur in der Hamburgischen Investitions- und Förderbank (IFB) ab Mitte 2013 konnte die IFB inzwischen zu einem zentralen Akteur im Innovationssystem Hamburg entwickelt werden. Von der IFB wurden Kooperationsvereinbarungen mit den Hamburger Clusterorganisationen und mit der Handelskammer Hamburg sowie der Handwerkskammer Hamburg geschlossen. Darüber hinaus hat die IFB als zentraler Akteur im Innovationsfördersystem intensive Kooperationsbeziehungen ausgebaut zur
 
-• Innovations Kontakt Stelle Hamburg (IKS),
+– Innovations Kontakt Stelle Hamburg (IKS),
 
-• Technologietransferstelle des Deutsches Elektronen-Synchrotron (DESY),
+– Technologietransferstelle des Deutsches Elektronen-Synchrotron (DESY),
 
-• Technologietransferstelle der Hochschule für Angewandte Wissenschaften Hamburg (HAW),
+– Technologietransferstelle der Hochschule für Angewandte Wissenschaften Hamburg (HAW),
 
-• Technologietransferstelle der Universität Hamburg,
+– Technologietransferstelle der Universität Hamburg,
 
-• Helmut Schmidt Universität,
+– Helmut Schmidt Universität,
 
-• Hamburg Innovation GmbH,
+– Hamburg Innovation GmbH,
 
-• TuTech Innovation GmbH,
+– TuTech Innovation GmbH,
 
-• Startup Dock der TU-Hamburg-Harburg (inklusive Mitgliedschaft im Beirat),
+– Startup Dock der TU-Hamburg-Harburg (inklusive Mitgliedschaft im Beirat),
 
-• Patentverwertungsagentur der Hamburger Hochschulen (PVA),
+– Patentverwertungsagentur der Hamburger Hochschulen (PVA),
 
-• HITeC – Hamburger Informatik Technologie-Center e.V. (HITeC).
+– HITeC – Hamburger Informatik Technologie-Center e.V. (HITeC).
 
 Die Förderung von Gründungen aus der Wissenschaft heraus unterstützt der Senat durch das Existenzgründungsförderprogramm InnoRampUp sowie die Etablierung eines Netzes von Forschungs- und Innovationsparks (F&I-Parks).

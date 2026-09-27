@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5908"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48378"
@@ -119,7 +120,7 @@ Welche Maßnahmen hat der Senat beziehungsweise die zuständige Behörde geprüf
 
 Prüft der Senat beziehungsweise die zuständige Behörde Möglichkeiten, um die Bauarbeiten doch noch schneller als in einem Jahr fertig zu stellen? Wenn ja, mit welchen Ergebnissen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Zustand der Stader Straße ist geprägt durch Risse im Asphalt, Ausbesserungen in der Fahrbahn und in den Nebenflächen, schadhafte Beläge in den Rad- und Gehwegen, nicht barrierefreie Bushaltestellen, ausgeprägte Versackungen in der Fahrbahn quer zur Straße und weitere Spuren vergangener Instandsetzungen.
 

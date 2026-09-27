@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53105"
@@ -51,7 +52,7 @@ In welcher Höhe befanden sich Mittel im Selbstbewirtschaftungsfonds der Schule 
 
 Welcher Mittelbestand im Selbstbewirtschaftungsfonds der Schulen lag zu den Jahresenden 2011, 2012, 2013, 2014 und 2015 bezüglich der einzelnen Schulen vor?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die in Anlage 1 aufgeführten Zahlen geben den jeweiligen Bestand der von Schulen bewirtschafteten Mittel wieder. Die darüber hinaus für schulische Zwecke zentral in der Produktgruppe 238.01 bewirtschafteten Mittel (zum Beispiel für Schulschwimmen) sind nicht berücksichtigt.
 
@@ -106,7 +107,7 @@ Wie sieht der Erfahrungsbericht des Senats beziehungsweise der zuständigen Beh�
 
 Welche Pläne hat der Senat beziehungsweise die zuständige Behörde für die zukünftige Entwicklung des Selbstbewirtschaftungsfonds der Schulen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Selbstbewirtschaftungsfonds der Schulen haben sich aus Sicht der zuständigen Behörde bewährt. Die Schulen gehen sachgerecht und wirtschaftlich mit den Mitteln um. Mit den Schulbudgets können die Schulen kurz- sowie mittelfristige Herausforderungen situationsangemessen bewältigen. Insoweit sind keine weiteren Änderungen geplant. Im Übrigen siehe Vorbemerkung.
 

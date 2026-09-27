@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7747"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64606"
@@ -77,7 +78,7 @@ Nach welchen Kriterien wurden die zum Verkauf angebotenen Objekte vor der Initia
 
 Welche Kriterien galten in den Jahren 1990 bis 2000 für Mieter beziehungsweise Nichtmieter beim Erwerb von SAGA-Objekten und wer hat diese aufgestellt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 1. bis 4.
 

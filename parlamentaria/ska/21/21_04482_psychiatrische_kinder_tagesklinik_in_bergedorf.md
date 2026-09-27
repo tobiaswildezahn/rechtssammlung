@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52885"
@@ -43,27 +44,27 @@ Im Bezirk Bergedorf sind 30 zugelassene Psychotherapeutinnen/-therapeuten tätig
 
 Darüber hinaus berät der Jugendpsychiatrische Dienst des Fachamtes Gesundheit im Bezirksamt Bergedorf Kinder und Jugendliche sowie deren Eltern und Bezugspersonen zu Prävention, Diagnostik, Behandlung und zu rehabilitativen Maßnahmen bei
 
- Entwicklungsstörungen,
+– Entwicklungsstörungen,
 
- Verhaltensauffälligkeiten,
+– Verhaltensauffälligkeiten,
 
- seelischen Problemen,
+– seelischen Problemen,
 
- psychischen und psychosomatischen Erkrankungen,
+– psychischen und psychosomatischen Erkrankungen,
 
- drohenden oder manifesten geistigen, seelischen und mehrfachen Behinderungen
+– drohenden oder manifesten geistigen, seelischen und mehrfachen Behinderungen
 
 im Kindes- und Jugendalter. Zudem wird Kindern und Jugendlichen auch Unterstützung in akuten psychischen Krisen angeboten.
 
 Darüber hinaus bietet die Abteilung Allgemeiner Sozialer Dienst des Fachamtes Jugend- und Familienhilfe im Bezirksamt Bergedorf allgemeine Beratungs- und Unterstützungsleistungen im Rahmen der Jugendhilfe an:
 
- individuelle Hilfen zur Erziehung,
+– individuelle Hilfen zur Erziehung,
 
- Eingliederungshilfe für seelisch behinderte Kinder,
+– Eingliederungshilfe für seelisch behinderte Kinder,
 
- Beratung bei Fragen zum Thema Partnerschaft, Trennung und Scheidung,
+– Beratung bei Fragen zum Thema Partnerschaft, Trennung und Scheidung,
 
- Förderung der Erziehung in der Familie.
+– Förderung der Erziehung in der Familie.
 
 Eine Erziehungsberatungsstelle bietet Orientierungs- und Informationsgespräche, Krisenintervention bei akuten Problemen, Kurzberatungen ebenso wie längerfristige Unterstützung sowie Therapien.
 
@@ -107,17 +108,17 @@ Kinder und Jugendliche mit Wohnsitz im Bezirk Bergedorf können eine Tagesklinik
 
 Die Entfernungen vom Zentrum Bergedorfs zu kinder- und jugendpsychiatrischen Tageskliniken im Hamburger Stadtgebiet betragen:
 
- Kath. Kinderkrankenhaus Wilhelmstift (TK Rahlstedt): 16 km
+– Kath. Kinderkrankenhaus Wilhelmstift (TK Rahlstedt): 16 km
 
- Ev. Krankenhaus Alsterdorf: 21 km
+– Ev. Krankenhaus Alsterdorf: 21 km
 
- Universitätsklinikum Hamburg-Eppendorf: 25 km
+– Universitätsklinikum Hamburg-Eppendorf: 25 km
 
- Asklepios Klinikum Harburg (TK Harburg) 28 km
+– Asklepios Klinikum Harburg (TK Harburg) 28 km
 
- Kath. Kinderkrankenhaus Wilhelmstift (TK Langenhorn): 30 km
+– Kath. Kinderkrankenhaus Wilhelmstift (TK Langenhorn): 30 km
 
- Asklepios Klinikum Harburg (TK Osdorf) 41 km
+– Asklepios Klinikum Harburg (TK Osdorf) 41 km
 
 Darüber hinaus kann auch das Angebot von kinder- und jugendpsychiatrischen Tageskliniken in Schleswig-Holstein und Niedersachsen – zum Beispiel Vorwerker- Fachklinik für Kinder- und Jugendpsychiatrie Tagesklinik Büchen „Am Rosenweg“ (circa 31 km) und Psychiatrisches Klinikum Lüneburg, Abteilung Kinder- und Jugendpsychiatrie (circa 39 km) – genutzt werden.
 

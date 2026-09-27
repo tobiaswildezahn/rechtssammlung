@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69540"
@@ -57,7 +58,7 @@ Welche Gesamtkosten entstehen der Polizei Hamburg durch die verspätete Einführ
 
 Aufgrund welcher Umstände hat sich die Einführung des Betriebssystems Windows 10 bei der Polizei so lange verzögert?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 

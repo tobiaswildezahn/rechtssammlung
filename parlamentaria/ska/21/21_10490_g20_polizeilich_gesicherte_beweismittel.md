@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 26
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10331"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59368"
@@ -185,10 +186,10 @@ Der Polizei ist es in der Dynamik des Einsatzgeschehens nicht immer möglich, Ur
 
 Im Sinne der Fragestellung sind die im Folgenden dargestellten Verletzungen bekannt:
 
- Ein Beamter wurde durch Beschuss mit einer Stahlkugel an der Schulter schwer
+– Ein Beamter wurde durch Beschuss mit einer Stahlkugel an der Schulter schwer
 
 verletzt.
 
- Ein Beamter hatte eine tiefe Wunde am Unterschenkel erhalten, die nach ärztlicher
+– Ein Beamter hatte eine tiefe Wunde am Unterschenkel erhalten, die nach ärztlicher
 
 Einschätzung durch Zwillenbeschuss hervorgerufen wurde.

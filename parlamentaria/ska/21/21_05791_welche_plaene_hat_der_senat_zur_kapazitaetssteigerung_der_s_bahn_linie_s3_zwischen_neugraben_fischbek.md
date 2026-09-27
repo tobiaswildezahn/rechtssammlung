@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 21
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1469", "21/1027", "21/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54291"
@@ -175,7 +176,7 @@ Bestehen Wechselwirkungen zwischen der Verlängerung der S3-Züge und der Planun
 
 Bestehen Wechselwirkungen zwischen der Verlängerung der S3-Züge und der Planung der Umwandlung der AKN in eine S-Bahn und wie wirkt sich die aktuelle Planungslage der AKN/S-Bahn auf die Möglichkeiten der Rollmaterialbestellung aus dem aktuellen Verkehrsvertrag aus?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Nein. Die Optionen zur Bestellung von Fahrzeugen für die geplanten Linien S4 (Bad Oldesloe – Hauptbahnhof – Altona – Itzehoe/Wrist) und S21 (Abschnitt Eidelstedt – Kaltenkirchen) bestehen unabhängig von den Fahrzeugbestellungen für das Bestandsnetz der S-Bahn (Linie S1, S11, S2, S21, S3, S31).
 

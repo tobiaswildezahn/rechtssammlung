@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2036"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50383"
@@ -73,7 +74,7 @@ Eine Schulgeldobergrenze von 200 Euro monatlich ist nur vertretbar, wenn mindest
 
 Wie viele Schüler und Schülerinnen haben an den in Frage 1. genannten Ersatzschulen jeweils einen Freiplatz? Bitte folgenden Angaben tabellarisch darstellen; Name der Schule, Anzahl der belegten Freiplätze und die Voraussetzungen, unter denen ein Freiplatz gewährt wird.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 

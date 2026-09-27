@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50696"
@@ -261,7 +262,7 @@ Welche Einnahmen aus Fahrkartenverkäufen hatte die Hamburger Hochbahn in den Ja
 
 Welchen Anteil (absolut und relativ) hatten die Tariferhöhungen an den Mehreinnahmen in den Jahren 2011, 2012, 2013, 2014 und (geschätzt) 2015?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die nachstehenden Angaben weisen den Anspruch der HOCHBAHN an den HVV- Pool-Annahmen für die Jahre 2011 bis 2014 aus. Im Übrigen siehe Vorbemerkung.
 

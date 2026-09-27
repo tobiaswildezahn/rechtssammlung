@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1266", "21/1165"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49784"
@@ -102,7 +103,7 @@ Für welche Standorte wurden in den Jahren 2013, 2014 und 2015 jeweils Glas- und
 
 Für welche einzelnen Standorte weisen derzeit die Aufträge für Glasund Gebäudereinigungen eine Laufzeit von mehr als zehn Jahren auf? Wer ist jeweils der Auftragnehmer und wie hoch ist jeweils der Auftragswert?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Bei Kalkulationen, die Angeboten zugrunde liegen, Bezugsquellen sowie kaufmännischen Konzepten handelt es sich um Betriebs- und Geschäftsgeheimnisse, die nicht öffentlich gemacht werden dürfen. § 14 Absatz 3 beziehungsweise § 17 EG Absatz 3 der Vergabe- und Vertragsordnung für Leistungen schreiben insoweit vor, dass Angebote vertraulich zu behandeln sind. Die Angabe der Auftragswerte und damit der Angebotspreise der Auftragnehmer lässt Rückschlüsse auf deren Angebotskalkulationen zu, eine Veröffentlichung ist daher nicht möglich.
 
@@ -125,9 +126,9 @@ Inwiefern sind die in der Drs. 21/1266 genannten Einsparungen von
 
 Im Rahmen des Controllings wurden die erzielten Einsparungen auf zwei verschiedene Arten errechnet:
 
- vergleichende Betrachtung der Vertragswerte: Neuvertrag zu Altvertrag und
+– vergleichende Betrachtung der Vertragswerte: Neuvertrag zu Altvertrag und
 
- qualifizierte Betrachtung nach täglicher Reinigungsfläche: Berücksichtigung von
+– qualifizierte Betrachtung nach täglicher Reinigungsfläche: Berücksichtigung von
 
 Flächenänderungen und Reinigungsintensität.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60272"
@@ -59,6 +60,6 @@ Was wurde genau im Zertifizierungsverfahren geprüft und mit welchen Ergebnissen
 
 Hat die zertifizierende Stelle Mängel festgestellt? Wenn ja, welche und wurden diese bereits behoben?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 In der Verordnung (EG) Nummer 218/2008 sowie in der Verordnung (EU) Nummer 139/2014 und deren Anhängen sind die zu prüfenden Regeln für die Infrastruktur, die Organisation und den Betrieb von Flughäfen festgelegt. Anhand dieses Regelwerkes werden bis Ende des Jahres 2017 insgesamt über 10.000 Einzelpunkte nach Aktenlage, anhand von Gutachten, in Audits und bei Inspektionen geprüft. Der Prüfprozess ist noch nicht abgeschlossen.

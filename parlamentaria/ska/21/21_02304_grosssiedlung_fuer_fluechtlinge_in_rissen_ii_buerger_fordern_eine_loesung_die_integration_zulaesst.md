@@ -14,6 +14,7 @@ fragen: 26
 einzelfragen: 44
 antwortbloecke: 22
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2058", "21/1988", "21/1354", "21/1838"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50575"
@@ -53,7 +54,7 @@ Nach welchem Prinzip und welchen Kriterien werden die zukünftigen Bewohner der 
 
 Wie ist mit Blick auf die vorgenannte Bewohnerstruktur, aber auch grundsätzlich, der Planungs- und Umsetzungsstand hinsichtlich: a. der Versorgung mit ausreichenden Kita-Plätzen in der näheren Umgebung? Wie viele Plätze stehen wo zur Verfügung, wie wird die Ausstattung der Einrichtungen mit zusätzlichem Personal sichergestellt, wie viele zusätzliche Stunden (WAZ) werden den Einrichtungen für die Umsetzung von Spracherwerb und Integration zugestanden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Es wird grundsätzlich in allen Wohnunterkünften eine sozialverträgliche Belegung angestrebt. Das heißt, dass einerseits in jeder Unterkunft eine Mischung von Familien sowie alleinstehenden Männern und Frauen verschiedener Nationalitäten aufgenommen wird. Bei der Belegung konkreter Zimmer oder Wohneinheiten wird dann darauf geachtet, Menschen zusammenzubringen, die die gleiche Sprache sprechen und/oder einen gemeinsamen kulturellen Hintergrund haben. Soweit es die Kapazitäten zulassen, wird dabei auch auf individuelle Wünsche zur gemeinsamen Unterbringung Rücksicht genommen. Die konkrete Belegungsplanung erfolgt dann gemäß Bedarf zeitnah vor der Inbetriebnahme.
 
@@ -126,7 +127,7 @@ In welcher Weise wurde hierbei berücksichtigt, dass das bisher positive Meinung
 
 Wie gedenkt der Senat ein solches Kippen der Stimmung, welches, wie die Erfahrung der letzten Monate zeigt, mit einem spürbaren Wegfall von freiwilligen Helfern einhergehen würde, abzufedern und wie rechtfertig er eine derartige Überbelastung eines Stadtteils?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Willkommenskultur der Rissener Bürger zeigt sich im vielfachen Bemühen von Vereinen und Bürgerinitiativen eine verträgliche Integration herzustellen. f & w stimmt bereits jetzt schon seine Maßnahmen und Angebote am Standort Sieverstücken mit den langjährigen und erfahrenen freiwilligen Helfern ab.
 
@@ -244,7 +245,7 @@ In der Begründung zum B-Plan Suurheid/Rissen 45/Sülldorf 22 wird auf den Seite
 
 Sofern man sich im Rahmen des Baus der Folgeunterkünfte nicht an die Vorgaben des B-Plans halten will/wird: Wie soll zu einem späteren Zeitpunkt den bei Erstellung des Ausgangs-B-Plan relevanten, städtebaulichen Planungserwägungen Rechnung getragen werden und wer kommt für die absehbaren Mehrkosten auf?
 
-#### Antwort zu Fragen 21 bis 22
+#### Antwort zu Fragen 21 und 22
 
 Bindend sind die Festsetzungen des Bebauungsplans, von denen nur im Rahmen des baurechtlich Zulässigen abgewichen werden kann. Der B-Plan Rissen 45/Sülldorf22 weist eine zwei- bis drei(mehr-)geschossige Bauweise als allgemeines Wohngebiet auch heute schon aus. Spielplätze und Freizeitflächen, Gemeinschaftsanlagen, Läden und Raum für soziale Einrichtungen sind weiterhin vorgesehen. Das städtebauliche Konzept wird somit weitestgehend erhalten.
 
@@ -266,7 +267,7 @@ Der Senat hatte angekündigt, eine Senatsdrucksache betreffend das „Flüchtlin
 
 Wenn nein: wann ist die Veröffentlichung dieser Senatsdrucksache zu erwarten, welche Gremien sind an ihrer Erstellung beteiligt und welchen Inhalt wird sie haben?
 
-#### Antwort zu Fragen 24 bis 25
+#### Antwort zu Fragen 24 und 25
 
 Der Senat hat am 2. September 2014 eine Senatsdrucksache über einen Gesetzesantrag Hamburgs im Bundesrat betreffend Maßnahmen im Bauplanungsrecht zur
 

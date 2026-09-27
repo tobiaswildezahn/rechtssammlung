@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12889"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49888"
@@ -47,7 +48,7 @@ Wie viele Nutzerinnen/Nutzer hat die TLD .hamburg seit ihrer Einführung?
 
 Wie viele Sub-Level-Domains (SLD) wurden unter der TLD .hamburg bisher registriert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Sofern mit Nuzterinnen/Nutzern die Zahl der registrierten Second-Level-Domains gemeint ist, beträgt die Zahl mit Stichtag 23. September 2015 23.370 Registrierungen. Nach Auskunft der Hamburg Top-Level-Domain GmbH ist zur Zahl der Sub-Level- Domains keine Angabe möglich, da eine Sub-Level-Domain nur der Domaininhaber einrichten kann. Die Hamburg Top Level Domain GmbH als registrierende Stelle hat darüber keine Kenntnisse.
 

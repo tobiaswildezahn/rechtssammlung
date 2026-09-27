@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7494"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56236"
@@ -59,7 +60,7 @@ Welche Teile der HOOU-Plattform sollen im Februar in den internen Testbetrieb ge
 
 Wann ist mit einem Produktivbetrieb von Teilen und dem gesamten Produktivbetrieb der Software zu rechnen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Produktivbetrieb der kompletten HOOU-Applikation ist zum Ende der Projektphase geplant. Teilproduktivkomponenten gehen in den Produktivbetrieb, sobald sie jeweils funktional sind.
 

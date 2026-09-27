@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 23
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11639", "21/12536"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63141"
@@ -117,7 +118,7 @@ Sind die Baumaßnahmen mittlerweile abgeschlossen? Wenn nein, welche Baumaßnahm
 
 Aus meiner Anfrage Drs. 21/12536 ergibt sich, dass bereits Gitter an den Fenstern angebracht wurden und bis zur 15.KW eine höhere Zaunanlage installiert werden sollte. Sind diese Maßnahmen mittlerweile abgeschlossen? Wenn ja, sind weitere Sicherungsmaßnahmen geplant? Wenn nein, bis wann sollen welche Sicherungsmaßnahmen installiert werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die unter Federführung der Sprinkenhof AG stattfindenden baulichen Maßnahmen sind mit Ausnahme der Fenstervergitterung noch nicht vollständig abgeschlossen. Die Erhöhung der Zaunanlage um den ersten Bauabschnitt (Bestandsanlage) ist erfolgt, die Erhöhung der Zaunanlage um den zweiten Bauabschnitt (Erweiterungsbereich Außenspielfeldbereich) und die Anpassung/Umgestaltung des Innenbereiches gemäß den Vorgaben des HmbAHaftVollzG befinden sich noch in Arbeit.
 

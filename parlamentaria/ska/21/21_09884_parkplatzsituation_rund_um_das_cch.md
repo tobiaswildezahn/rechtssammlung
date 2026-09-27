@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 21
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13678", "20/13807"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58700"
@@ -172,6 +173,6 @@ Laut Artikel der Zeitung „Die Welt“ vom 10. Juni 2015 beschreibt der Umwelts
 
 Wie viele und welche der am Wettbewerb beteiligten Landschaftsarchitekten sahen eine Umgestaltung der Fläche mit Parkplätzen vor? Was waren die Gründe, sich nicht für diese Architekten zu entscheiden?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die Qualität der Erschließung und verkehrliche Leistungsfähigkeit des Dag-Hammarskjöld-Platzes war eines der Kriterien, die von der Jury geprüft und gewichtet wurden. Alle Teilnehmerinnen und Teilnehmer legten Entwürfe vor, die sich an den heutigen Erfordernissen eines zeitgemäßen Stadtplatzes orientierten und eine gleichberechtigte Nutzung aller Verkehrsteilnehmerinnen und Verkehrsteilnehmer erlauben. Der erste Preisträger wurde in dieser Hinsicht als nutzerfreundlich und leistungsfähig bewertet. Im Übrigen sieht der Senat regelmäßig davon ab, zu Presseberichten Stellung zu nehmen.

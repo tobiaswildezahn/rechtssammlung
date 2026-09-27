@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9922", "21/9204"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59941"
@@ -48,15 +49,15 @@ Wir fordern die Freie und Hansestadt Hamburg auf, das Gartendenkmal Wallringpark
 
 ## Einleitung für die Antworten des Senats
 
- Es dürfen keine Eingriffe in den Park mehr zugelassen werden, die nicht
+– Es dürfen keine Eingriffe in den Park mehr zugelassen werden, die nicht
 
 denkmalgerecht sind.
 
- Es dürfen innerhalb des Parks nur noch Bauten erhalten oder entwickelt
+– Es dürfen innerhalb des Parks nur noch Bauten erhalten oder entwickelt
 
 werden, die dem Park dienen.
 
- Das Gartendenkmal muss durch ein Parkpflegewerk gesichert und
+– Das Gartendenkmal muss durch ein Parkpflegewerk gesichert und
 
 gestärkt werden.
 

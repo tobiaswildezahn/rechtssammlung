@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13670"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68607"
@@ -51,7 +52,7 @@ Wie beurteilt die zuständige Behörde aktuell das Sportangebot in den Stadtteil
 
 Von welchem zusätzlichen Bedarf geht sie infolge der steigenden Bevölkerungszahl aus?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In Bezug auf die Nutzung öffentlicher Sportanlagen können alle Anfragen von Vereinen befriedigt beziehungsweise ihnen entsprechende Angebote gemacht werden. Auf einzelnen Anlagen gibt es freie Nutzungszeiten.
 

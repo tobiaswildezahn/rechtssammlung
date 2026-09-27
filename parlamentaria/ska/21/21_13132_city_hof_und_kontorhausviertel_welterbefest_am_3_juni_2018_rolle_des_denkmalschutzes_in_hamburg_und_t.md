@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62467"
@@ -85,6 +86,6 @@ Wie wird der Senat das Täuschungsmanöver des Investors Prien, über Visualisie
 
 Wird der Senat für eine richtige Darstellung für die Öffentlichkeit sorgen? Falls es weder Sanktionen noch Richtigstellungen geben soll: weshalb nicht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antwort zu 6.

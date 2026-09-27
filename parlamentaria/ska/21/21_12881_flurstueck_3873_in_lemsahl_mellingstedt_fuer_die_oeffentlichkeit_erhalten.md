@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 21
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62202"
@@ -47,7 +48,7 @@ Wer ist der aktuelle Pächter des Flurstücks 3873 in Lemsahl- Mellingstedt?
 
 Seit wann besteht dieses Pachtverhältnis und wann läuft es aus?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Flurstück 3873 ist seit dem 1. Januar 2018 unbefristet an einen privaten Dritten verpachtet.
 
@@ -107,7 +108,7 @@ Wann soll das Flurstück 3873 eingezäunt werden?
 
 Soll diese Maßnahme nur vorübergehend erfolgen oder plant die zuständige Fachbehörde eine dauerhafte Einzäunung?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Es ist geplant, eine dauerhafte Einfriedung in naher Zukunft vorzunehmen.
 
@@ -135,7 +136,7 @@ Soll die Fläche in Zukunft landwirtschaftlich genutzt werden? Wenn ja, ab wann 
 
 Wird es durch eine eventuelle landwirtschaftliche Nutzung zur Zerstörung des bestehenden Ökosystems auf der Wiese kommen?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Ja. Bei einer Grünlandnutzung wird das Ökosystem nicht zerstört. Im Übrigen siehe Antwort zu 3.
 

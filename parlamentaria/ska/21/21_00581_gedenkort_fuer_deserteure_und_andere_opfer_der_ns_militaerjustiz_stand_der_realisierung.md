@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48791"
@@ -101,6 +102,6 @@ Bekanntlich war die nächtliche straßenseitige Beleuchtung des Standorts von Hr
 
 Ist eine Präsentation zum aktuellen Stand der Realisierung des Gedenkortes geplant? Wenn ja, wann und wer wird daran beteiligt sein? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Feinplanung zur Lichtgestaltung wird derzeit vom Bildhauer erarbeitet. Sie soll im Rahmen einer öffentlichen Präsentation, die voraussichtlich im Juli stattfinden wird, vorgestellt werden. Termin und Details stehen noch nicht fest.

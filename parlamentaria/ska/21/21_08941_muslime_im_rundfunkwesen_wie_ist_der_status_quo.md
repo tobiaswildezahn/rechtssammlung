@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5830"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57672"
@@ -111,6 +112,6 @@ In welchen der in Paragraf 3 genannten Gremien sind gegenwärtig Muslime vertret
 
 Hätte die Berufung eines oder mehrerer muslimischer Mitglieder eine Aufstockung der Mitgliedssitze zur Folge? Falls ja, gibt es dabei ein Limit?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Im ZDF-Fernsehrat (§ 21 Absatz 1 q) ii) ZDF-Staatsvertrag). Die Anzahl der Mitglieder ist gesetzlich festgelegt. Im Übrigen liegt es im Ermessen der jeweils entsendeberechtigten Gruppen, Mitglieder in die jeweiligen Gremien zu entsenden. Solange und soweit von dem Entsendungs- und Vorschlagsrecht kein Gebrauch gemacht wird, verringert sich die Zahl der Mitglieder entsprechend.

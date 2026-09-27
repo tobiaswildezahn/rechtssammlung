@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 51852
 seiten: 3
 fragen: 4
-einzelfragen: 7
-antwortbloecke: 4
+einzelfragen: 8
+antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14633", "20/10952", "21/4209", "21/196", "21/3041", "21/7555"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56666"
@@ -74,13 +75,23 @@ Hinweise für eine Bewertung der Umsetzung der mit dem Hamburgischen Transparenz
 ### Frage 4
 
 In der in Drs. 20/14633 angegebenen Liste von Beteiligungsunternehmen ist auch die Flughafen Hamburg GmbH (FHG) aufgeführt. In der Drs. 21/4209 hatte der Senat zudem bekräftigt, dass der von der FHG betriebene Flughafen einen „integralen Bestandteil der öffentlichen Daseinsvorsorge“ darstellt. Allerdings wurden in der laufenden Legislaturperiode in den Antworten des Senats auf Parlamentarische Anfragen (siehe Drs. 21/196, 21/3041, 21/7555) jeweils durchgehend nähere Angaben zu von der FHG beauftragten Gutachten et cetera verweigert, da sie nicht in den Bereich der Daseinsvorsorge fallen sollen.
-4.1. Ist es zutreffend, dass die FHG gegenüber Auskunftsersuchenden dargestellt hat, dass von der FHG keine Aufgaben der Daseinsvorsorge erbracht werden, und dass daher die FHG nach dem HmbTG nicht veröffentlichungs- und informationspflichtig sei?
-4.2. Wie bewertet der Senat oder die zuständige Fachbehörde die in 4.1 erwähnte Darstellung der FHG, abweichend von den Angaben des Senats, keine Aufgaben der Daseinsvorsorge zu erbringen?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+Ist es zutreffend, dass die FHG gegenüber Auskunftsersuchenden dargestellt hat, dass von der FHG keine Aufgaben der Daseinsvorsorge erbracht werden, und dass daher die FHG nach dem HmbTG nicht veröffentlichungs- und informationspflichtig sei?
+
+### Frage 4.2
+
+Wie bewertet der Senat oder die zuständige Fachbehörde die in 4.1 erwähnte Darstellung der FHG, abweichend von den Angaben des Senats, keine Aufgaben der Daseinsvorsorge zu erbringen?
+
+#### Antwort zu Fragen 4, 4.1 und 4.2
 
 Die FHG erfüllt eine Vielzahl von Aufgaben, die zum Teil nicht der Daseinsvorsorge dienen. Auskunfts- und Veröffentlichungspflichten auf Grundlage des HmbTG können für die FHG nur bezüglich derjenigen Aufgaben gelten, die der Daseinsvorsorge zuzuordnen sind. Möglicherweise im Einzelfall anderslautende Darstellungen sind nicht zutreffend.
 
-4.3. Welche Dokumente wurden von der FHG im Rahmen der Veröffentlichungspflicht des HmbTG im Einzelnen seit 2015 in das Transparenzportal eingestellt?
+### Frage 4.3
+
+Welche Dokumente wurden von der FHG im Rahmen der Veröffentlichungspflicht des HmbTG im Einzelnen seit 2015 in das Transparenzportal eingestellt?
+
+#### Antwort zu Frage 4.3
 
 Die FHG hat bisher keine Dokumente in das Transparenzportal eingestellt.

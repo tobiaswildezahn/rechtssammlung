@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5248", "21/5153"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53824"
@@ -45,7 +46,7 @@ Ist es richtig, dass Herr Professor Dr. Kammerl als Referent für die Abschlussv
 
 Ist es richtig, dass er wieder ausgeladen wurde? Falls ja, wer hat diese Entscheidung wann und aus welchen Gründen getroffen? Falls ja, wer hat Herrn Prof. Dr. Kammerl wann darüber informiert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/5248.
 

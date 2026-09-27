@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49124"
@@ -63,15 +64,15 @@ Die zuständige Behörde hat von den Plänen des katholischen Marienkrankenhause
 
 Das schmerztherapeutische Angebot des katholischen Marienkrankenhauses setzt sich derzeit aus drei Leistungsbereichen zusammen:
 
- ambulante Behandlung, erbracht durch zwei persönlich ermächtigte Krankenhaus-
+– ambulante Behandlung, erbracht durch zwei persönlich ermächtigte Krankenhaus-
 
 ärzte;
 
- teilstationäre Behandlung, sechs Behandlungsplätze im Fachgebiet Neurologie,
+– teilstationäre Behandlung, sechs Behandlungsplätze im Fachgebiet Neurologie,
 
 ausgewiesen im Hamburger Krankenhausplan;
 
- stationäre Behandlung ohne separate Ausweisung der dafür genutzten Bettenzahl
+– stationäre Behandlung ohne separate Ausweisung der dafür genutzten Bettenzahl
 
 im Krankenhausplan seit Anfang 2012 (enge Vernetzung der relevanten Bereiche Geriatrische Klinik und Klinik für Anästhesiologie, Intensivmedizin und Schmerztherapie).
 

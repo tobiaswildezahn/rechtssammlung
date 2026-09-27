@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17668", "21/17953"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68565"
@@ -57,6 +58,6 @@ Wann ist jetzt endlich mit der Inbetriebnahme des Aufzugs an der S- Bahn-Station
 
 Warum kommt es immer wieder zu Verzögerungen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die DB geht davon aus, dass der Aufzug in diesem Monat (November 2019) in Betrieb genommen werden kann.

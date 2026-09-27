@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57165"
@@ -83,7 +84,7 @@ Wie viele Staus gab es an diesen Kreuzungen in den letzten zwei Monaten vor Inst
 
 Wie viele Staus gab es an diesen Kreuzungen in den ersten zwei Monaten nach Installation der zusätzlichen Ampel?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Statistiken im Sinne der Fragestellungen werden von der Polizei nicht erhoben.
 

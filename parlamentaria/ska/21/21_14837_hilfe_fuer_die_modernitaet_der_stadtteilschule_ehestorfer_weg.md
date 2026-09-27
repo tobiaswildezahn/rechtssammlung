@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13975"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64298"
@@ -59,7 +60,7 @@ a) hinsichtlich des Ersatz- und Zubaus mit GBS?
 b) hinsichtlich des Umbaus zu Klassen (160 m)?
 c) hinsichtlich des Zubaus zur Sporthalle Typ 2/Inklusion?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -112,7 +113,7 @@ Wie viel Freifläche soll den Baumaßnahmen zum Opfer fallen?
 
 Wird bei den Baumaßnahmen/Planungen die nicht mehr zeitgemäße Pavillonbauweise berücksichtigt?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Planungen sind noch nicht abgeschlossen. Im Übrigen siehe Vorbemerkung.
 

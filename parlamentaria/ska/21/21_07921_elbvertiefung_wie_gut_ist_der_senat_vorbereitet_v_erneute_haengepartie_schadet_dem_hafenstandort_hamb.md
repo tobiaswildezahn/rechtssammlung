@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 25
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7715", "21/7354", "21/6194"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56558"
@@ -89,7 +90,7 @@ Welche habitatschutzrechtliche Verträglichkeitsprüfung und Ausgleichsmaßnahme
 
 Welche Regelungen der Planfeststellungsbeschlüsse zur Kohärenzsicherung wurden beanstandet? Welche Folgen ergeben sich aus diesen Beanstandungen und wie beabsichtigt der Senat damit umzugehen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Pressemitteilung des Bundesverwaltungsgerichts vom 9. Februar 2017 (http://www.bverwg.de/presse/pressemitteilungen/pressemitteilung.php?jahr=2017&nr =6). Im Übrigen kann dies erst nach Vorliegen der schriftlichen Urteilsverkündung abschließend beantwortet werden.
 
@@ -101,7 +102,7 @@ Aus welchen Gründen wurde die Maßnahme „Spadenlander Busch/ Kreetsand“ als
 
 Wieso wurde keine ergänzende Kohärenzmaßnahme aufgenommen, obwohl der Senat diese Einschätzung vorhergesehen habe, wie Senator Frank Horch auf der Pressekonferenz am 9. Februar 2017 mitgeteilt hat?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Maßnahme „Spadenlander Busch/Kreetsand“ war zunächst als sogenanntes Tideelbe-Projekt geplant. Die dabei entstehenden Aufwertungseffekte wurden jedoch im Hinblick auf den Kohärenzbedarf der Fahrrinnenanpassung noch vor Planfeststellung des Projekts „Spadenlander Busch/Kreetsand“ im Jahr 2012 als Kohärenzmaßnahmen für die Fahrrinnenanpassung festgesetzt. An den Aufwertungseffekten selbst besteht kein Zweifel.
 
@@ -133,7 +134,7 @@ Inwiefern ergeben sich durch die Auflagen des Bundesverwaltungsgerichts beziehun
 
 Inwiefern ergeben sich durch die Auflagen des Bundesverwaltungsgerichts beziehungsweise durch die dadurch notwendigen Maßnahmen Änderungen bei Kosten der Gesamtmaßnahme? (Sofern möglich bitte Veränderungen am Kostenrahmen der Gesamtmaßnahmen konkret benennen und der jeweiligen Auflage des Bundesverwaltungsgerichts zuordnen.)
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Antworten zu 2., 5. und 11.
 

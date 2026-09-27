@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3490", "21/5600", "21/1421", "21/1328"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54154"
@@ -69,17 +70,17 @@ Welche Käufe oder Anmietungen von Schulgrundstücken oder Schulgebäuden sind i
 
 Aktuell für das kommende Schuljahr geplant sind folgende Ankäufe:
 
- Fläche zur Kompensation entfallender Sportplatzmitnutzung an der Schule Trenk-
+– Fläche zur Kompensation entfallender Sportplatzmitnutzung an der Schule Trenk-
 
 nerweg,
 
- Fläche für den geplanten Schulcampus HafenCity am Lohsepark,
+– Fläche für den geplanten Schulcampus HafenCity am Lohsepark,
 
- Fläche für die geplante Grundschule am Baakenhafen,
+– Fläche für die geplante Grundschule am Baakenhafen,
 
- Fläche für den Erweiterungsbau des Luisengymnasiums am Reinbeker Weg und
+– Fläche für den Erweiterungsbau des Luisengymnasiums am Reinbeker Weg und
 
- Grundstücksteilfläche der Schulsporthalle der Carl-Götze-Schule.
+– Grundstücksteilfläche der Schulsporthalle der Carl-Götze-Schule.
 
 II. Essenszubereitung und Essenseinnahme
 
@@ -95,7 +96,7 @@ d. anders zubereitet (bitte genau angeben)?
 
 An welchen Schulen hat sich an a. der Art der Essenszubereitung und
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die erfragten Daten werden von der zuständigen Behörde nicht erfasst. Aufgrund der Sommerferien konnte keine Schulabfrage durchgeführt werden.
 
@@ -105,61 +106,61 @@ b. den Räumlichkeiten zur Essenseinnahme seit Beginn des Schuljahres 2015/2016 
 
 Im Schuljahr 2015/2016 wurden Kantinen an den folgenden 28 Schulen fertiggestellt:
 
- Staatliche Gewerbeschule Energietechnik – G10
+– Staatliche Gewerbeschule Energietechnik – G10
 
- Schule Schulkamp
+– Schule Schulkamp
 
- Schule Windmühlenweg
+– Schule Windmühlenweg
 
- Schule Anna-Susanna-Stieg
+– Schule Anna-Susanna-Stieg
 
- Schule Heidacker
+– Schule Heidacker
 
- Schule Duvenstedter Markt
+– Schule Duvenstedter Markt
 
- Albrecht-Thaer-Gymnasium
+– Albrecht-Thaer-Gymnasium
 
- Gymnasium Hoheluft
+– Gymnasium Hoheluft
 
- Heilwig Gymnasium
+– Heilwig Gymnasium
 
- Friedrich-Ebert-Gymnasium
+– Friedrich-Ebert-Gymnasium
 
- Gymnasium Oldenfelde
+– Gymnasium Oldenfelde
 
- Gymnasium Marienthal
+– Gymnasium Marienthal
 
- Max-Brauer-Schule
+– Max-Brauer-Schule
 
- Stadtteilschule Flottbek
+– Stadtteilschule Flottbek
 
- Gretel-Bergmann-Schule
+– Gretel-Bergmann-Schule
 
- Stadtteilschule Stellingen
+– Stadtteilschule Stellingen
 
- Albert-Schweitzer-Schule
+– Albert-Schweitzer-Schule
 
- Stadtteilschule Oldenfelde
+– Stadtteilschule Oldenfelde
 
- Max-Schmeling-Schule
+– Max-Schmeling-Schule
 
- Otto-Hahn-Schule
+– Otto-Hahn-Schule
 
- W 8 Staatliche Schule Gesundheitspflege
+– W 8 Staatliche Schule Gesundheitspflege
 
- Schule Iserbrook
+– Schule Iserbrook
 
- Anton-Rée-Schule Allermöhe
+– Anton-Rée-Schule Allermöhe
 
- Schule Alsterredder
+– Schule Alsterredder
 
- Schule Eulenkrugstraße
+– Schule Eulenkrugstraße
 
- Grundschule Schimmelmannstraße
+– Grundschule Schimmelmannstraße
 
- Gymnasium Lohbrügge
+– Gymnasium Lohbrügge
 
- Stadtteilschule Lohbrügge
+– Stadtteilschule Lohbrügge
 
 ### Frage 7
 

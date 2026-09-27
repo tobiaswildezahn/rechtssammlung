@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 15
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6443"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61965"
@@ -49,7 +50,7 @@ Welcher Takt gilt für die MetroBus-Linie 5 auf welchem Streckenabschnitt zu wel
 
 Welcher Takt gilt für die MetroBus-Linie 5 auf welchem Streckenabschnitt, zu welcher Uhrzeit, an welchem Wochentag nach dem Ferienfahrplan?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 

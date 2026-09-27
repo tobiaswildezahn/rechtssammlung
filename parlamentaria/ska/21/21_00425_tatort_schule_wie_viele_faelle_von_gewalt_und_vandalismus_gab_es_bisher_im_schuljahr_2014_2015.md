@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 32
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12882", "20/5972", "20/12231"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48570"
@@ -291,21 +292,21 @@ Um Vandalismus „von außen“ zu verringern, wurden in den letzten Jahren unte
 
 Dazu gehören unter anderem an einzelnen Standorten:
 
- Einschränkung der Zugänglichkeit von Schulgeländen und -gebäuden beispiels-
+– Einschränkung der Zugänglichkeit von Schulgeländen und -gebäuden beispiels-
 
 weise durch Zäune/Tore, elektronische Schließsysteme, Alarmierungsanlagen,
 
- Ausstattung von Gebäuden mit Präsenzmeldern im EG und an der Außenfassade
+– Ausstattung von Gebäuden mit Präsenzmeldern im EG und an der Außenfassade
 
 zur schnelleren Erkennung von Fremdpersonen auf dem Schulgelände außerhalb der Schulzeiten,
 
- Anhebung des Beleuchtungsniveaus im Außenbereich,
+– Anhebung des Beleuchtungsniveaus im Außenbereich,
 
- Klassenweise Zuordnung von Sanitärräumen durch Anpassung der Schließanlage,
+– Klassenweise Zuordnung von Sanitärräumen durch Anpassung der Schließanlage,
 
- Beauftragung einer Bewachung nach wiederholter Sachbeschädigung,
+– Beauftragung einer Bewachung nach wiederholter Sachbeschädigung,
 
- Beschichtung von Außenwänden mit einer abwaschbaren Oberfläche zur besseren
+– Beschichtung von Außenwänden mit einer abwaschbaren Oberfläche zur besseren
 
 Beseitigung von Graffiti.
 

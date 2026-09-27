@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48288"
@@ -51,7 +52,7 @@ Welches Volumen hatte das Engagement der HSH Nordbank bei der HETA zu Beginn des
 
 In welcher Höhe wurden Abschreibungen auf das Engagement der HSH Nordbank bei der HETA 2014 sowie im bisherigen Jahresverlauf 2015 vorgenommen? (Bitte jahresweise auflisten.) a. In welcher Höhe wird gegebenenfalls weiterer Abschreibungsbedarf gesehen? b. In welchem Umfang wurden bislang Garantien der Länder Hamburg und Schleswig-Holstein für die Abschreibungen in Anspruch genommen? In welchem Umfang sollen sie gegebenenfalls noch in Anspruch genommen werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die HSH hat hierzu auf ihren Geschäftsbericht 2014 verwiesen, in dem berichtet wird, dass sie auf ihren Wertpapier- und Forderungsbestand gegenüber der HETA ASSET RESOLUTION AG Abschreibungen in Höhe von 89 Millionen Euro vorgenommen habe und darüber hinaus negative Marktwertänderungen in Höhe von 3 Millionen Euro erfasst würden. Die Abschreibung werde weitgehend durch die Zweitverlustgarantie der Länder kompensiert (siehe http://www.hsh-nordbank.de/de/investorrelations/ investorrelations.jsp). Im Übrigen hat die HSH mitgeteilt, dass es sich bei den darüber hinaus erfragten Informationen um Gegenstände des operativen Geschäfts handele. Weitergehende Auskünfte hat die Bank nicht erteilt, da es sich bei den erfragten Einzelheiten um Betriebs- und Geschäftsgeheimnisse im Sinne des § 93 Absatz 1 Satz 3 Aktiengesetz handele.
 

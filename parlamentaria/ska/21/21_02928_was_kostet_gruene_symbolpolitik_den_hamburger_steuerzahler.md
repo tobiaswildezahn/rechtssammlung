@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51250"
@@ -91,15 +92,15 @@ Zur weiteren Minimierung des Aufwands kann im möglichen Fall der Abweichung von
 
 Um den Aufwand weiter zu reduzieren, gilt folgendes Verfahren zur Anwendung des Leitfadens:
 
- Bei Leistungen, bei denen nach der BO aufgrund der dort geregelten Wertgrenze
+– Bei Leistungen, bei denen nach der BO aufgrund der dort geregelten Wertgrenze
 
 ein Vergabeverfahren nicht gegeben ist (vergleiche § 3 Absatz 6 VOL/A i.V.m. §3 (3) BO Hamburg), wird die Anwendung des Umweltleitfadens lediglich unter Berücksichtigung der Haushaltsgrundsätze der Wirtschaftlichkeit und Sparsamkeit empfohlen (sogenannte Direktkaufgrenze und dazu geltende Ausnahmen).
 
- Beginnend bei der Direktkaufgrenze und bis hin zu 10.000 Euro zur Akte zu neh-
+– Beginnend bei der Direktkaufgrenze und bis hin zu 10.000 Euro zur Akte zu neh-
 
 men
 
- Ab 10.000 Euro ist der Begründungsbogen auszufüllen, zur Akte zu nehmen und
+– Ab 10.000 Euro ist der Begründungsbogen auszufüllen, zur Akte zu nehmen und
 
 eine Kopie ist gesondert vorzuhalten (gesonderte Ablage). Die Begründungsbögen mit einem Auftragswert ab 10.000 Euro werden von der zuständigen Behörde einmal jährlich zu Evaluationszwecken abgefragt.
 
@@ -111,9 +112,9 @@ Inwiefern wird der Senat ein Abweichen von den Ökokriterien tolerieren beziehun
 
 Grundsätzlich sind die umweltbezogenen Kriterien aus dem Leitfaden anzuwenden. Eine Nichtanwendung ist in der Vergabeakte zu dokumentieren (siehe auch Antwort zu 4.). Gründe für eine Nichtanwendung sind insbesondere:
 
- Keine oder keine geeigneten umweltverträglichen Produkte verfügbar
+– Keine oder keine geeigneten umweltverträglichen Produkte verfügbar
 
- Keine umweltverträglichen Produkte beziehungsweise Verfahren im Rahmen ver-
+– Keine umweltverträglichen Produkte beziehungsweise Verfahren im Rahmen ver-
 
 tretbarer Mehrkosten beschaffbar beziehungsweise durchführbar
 

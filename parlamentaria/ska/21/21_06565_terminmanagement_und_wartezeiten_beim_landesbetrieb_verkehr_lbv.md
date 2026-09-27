@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55098"
@@ -294,7 +295,7 @@ Wie häufig kam es 2015 und 2016 zu technischen Systemausfällen in den Kfz-Zula
 
 Bei wie vielen Terminen konnte im jeweiligen Jahr wegen solcher Ausfälle die betreffende Leistung für die Kunden nicht erbracht werden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die zuständigen Behörde verzeichnete in den Jahren 2015 und 2016 in den Zulassungsstandorten keine Ausfälle der Zulassungssoftware VIATO Z, die dazu führten, dass eine Bearbeitung von Kundenanliegen nicht möglich war.
 

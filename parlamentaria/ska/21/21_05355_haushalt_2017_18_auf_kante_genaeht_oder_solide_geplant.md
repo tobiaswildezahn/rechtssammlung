@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 23
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2678", "21/4472"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53837"
@@ -38,10 +39,22 @@ Ich frage den Senat:
 ### Frage 1
 
 Der Senat plant 2017 mit Erträgen aus laufender Verwaltungstätigkeit von 11.503 Millionen Euro, dies ist ein Anstieg von 342 Millionen Euro gegenüber 2016 (Erträge aus laufender Verwaltungstätigkeit von 11.161 Millionen Euro gemäß Drs. 21/4472), von denen lediglich 207 Millionen Euro durch höhere Steuerträge kommen (Anstieg von 10.265 Millionen Euro auf 10.472 Millionen Euro).
-1.1. In welcher Höhe erwartet der Senat im Haushalt 2017 Erträge aus Gebühren, Beiträgen, Sonderabgaben und Aufwendungsersatz?
-1.2. In welcher Höhe erwartet der Senat im Haushalt 2017 Erträge aus Geldbußen, Zwangsgeldern, Geldstrafen?
-1.3. In welcher Höhe erwartet der Senat im Haushalt 2017 Erträge aus privatrechtlichen Entgelten?
-1.4. Welche Gebührenerhöhungen hat der Senat im Einzelnen in seinem Haushaltsplan-Entwurf 2017/2018 eingeplant?
+
+### Frage 1.1
+
+In welcher Höhe erwartet der Senat im Haushalt 2017 Erträge aus Gebühren, Beiträgen, Sonderabgaben und Aufwendungsersatz?
+
+### Frage 1.2
+
+In welcher Höhe erwartet der Senat im Haushalt 2017 Erträge aus Geldbußen, Zwangsgeldern, Geldstrafen?
+
+### Frage 1.3
+
+In welcher Höhe erwartet der Senat im Haushalt 2017 Erträge aus privatrechtlichen Entgelten?
+
+### Frage 1.4
+
+Welche Gebührenerhöhungen hat der Senat im Einzelnen in seinem Haushaltsplan-Entwurf 2017/2018 eingeplant?
 
 ### Frage 2
 
@@ -54,9 +67,18 @@ Wodurch ergibt sich im Einzelnen der deutliche und weit über der bisherigen Fin
 ### Frage 4
 
 Bei den Personalaufwendungen plant der Senat mit einem deutlichen Anstieg von 4.719 Millionen Euro (2016) auf 4.927 Millionen Euro in 2017.
-4.1. Wodurch ergibt sich im Einzelnen der Anstieg bei den Personalaufwendungen im Jahr 2017? Welche Planungen über den Personalbestand liegen der Planung im Einzelnen zugrunde?
-4.2. In welcher Höhe sind in den Personalaufwendungen in den Jahren 2016 und 2017 jeweils zentrale Reservemittel für Personal enthalten?
-4.3. In welcher Höhe sind in den Personalausgaben für das Jahr 2017 Aufwendungen für Versorgungsleistungen eingeplant? Wie unterteilen sich die Aufwendungen für Versorgungsleistungen in 2017 auf die jeweiligen Einzelpläne?
+
+### Frage 4.1
+
+Wodurch ergibt sich im Einzelnen der Anstieg bei den Personalaufwendungen im Jahr 2017? Welche Planungen über den Personalbestand liegen der Planung im Einzelnen zugrunde?
+
+### Frage 4.2
+
+In welcher Höhe sind in den Personalaufwendungen in den Jahren 2016 und 2017 jeweils zentrale Reservemittel für Personal enthalten?
+
+### Frage 4.3
+
+In welcher Höhe sind in den Personalausgaben für das Jahr 2017 Aufwendungen für Versorgungsleistungen eingeplant? Wie unterteilen sich die Aufwendungen für Versorgungsleistungen in 2017 auf die jeweiligen Einzelpläne?
 
 ### Frage 5
 
@@ -85,10 +107,23 @@ Wie hoch ist jeweils der Trendwert der Steuererträge gemäß § 27 Absatz 2 LHO
 
 ### Frage 11
 
-Gemäß Seite 22 der Präsentation vom 22.06.2016 beinhaltet die Haushalts- und Finanzplanung des Senats bis 2020 „zentrale Reserve- und Verstärkungspositionen für unvorhergesehene oder nicht sicher bestimmbare Mehrbedarfe“.
-11.1. In welcher Höhe sind in den Jahren 2017 und 2018 im Aufgabenbereich Zentrale Finanzen des Einzelplans 9.2 jeweils konsumtive und investive Reserve- und Verstärkungspositionen eingeplant? Wie vergleicht sich dies mit den Ansätzen im Haushaltsjahr 2016?
-11.2. In welcher Höhe sind in den Jahren 2017 und 2018 jeweils Mittel für zusätzliche Kosten und Investitionen in der Zentralen Reserve Zuwanderung eingeplant?
+Gemäß Seite 22 der Präsentation vom 22.06.2016 beinhaltet die Haushalts- und Finanzplanung des Senats bis 2020 „zentrale Reserve- und  
+Verstärkungspositionen  
+für  
+unvorhergesehene  
+oder  
+nicht  
+sicher  
+bestimmbare Mehrbedarfe“.
 
-#### Antwort zu Fragen 1 bis 11
+### Frage 11.1
+
+In welcher Höhe sind in den Jahren 2017 und 2018 im Aufgabenbereich Zentrale Finanzen des Einzelplans 9.2 jeweils konsumtive und investive Reserve- und Verstärkungspositionen eingeplant? Wie vergleicht sich dies mit den Ansätzen im Haushaltsjahr 2016?
+
+### Frage 11.2
+
+In welcher Höhe sind in den Jahren 2017 und 2018 jeweils Mittel für zusätzliche Kosten und Investitionen in der Zentralen Reserve Zuwanderung eingeplant?
+
+#### Antwort zu Fragen 1, 1.1, 1.2, 1.3, 1.4, 2, 3, 4, 4.1, 4.2, 4.3, 5, 6, 7, 8, 9, 10, 11, 11.1 und 11.2
 
 Die Bearbeitung und Prüfung der vom Senat beschlossenen Anpassungen und Änderungen zum Haushaltsplan-Entwurf 2017/2018 sowie zur Finanzplanung bis 2020 sind noch nicht abgeschlossen. Die im Gesamtergebnisplan 2016 dargestellten Personalaufwendungen umfassen auch die im Einzelplan 9.2 veranschlagten zentralen Reservemittel in Höhe von 79 Millionen Euro für das Haushaltsjahr 2016. Im Übrigen werden sich die erfragten Angaben aus dem der Bürgerschaft in Kürze vorzulegenden Haushaltsplan-Entwurf 2017/2018 ergeben.

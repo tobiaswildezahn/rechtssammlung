@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14100", "21/741", "18/9092", "21/7650", "21/5948"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58100"
@@ -593,7 +594,7 @@ Einzelne Bundesländer haben eine Fortbildungspflicht eingeführt. Um welche Bun
 
 Ist mit der in der Vorbemerkung beschriebenen Erarbeitung eines gemeinsamen Gesetzentwurfs von Bund und Ländern begonnen worden? Wenn ja, wann und wie ist der aktuelle Verhandlungsstand? Wenn nein, warum nicht? Wann rechnet der Senat beziehungsweise die zuständige Behörde mit einem Beginn von Verhandlungen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Zu der Einführung einer Fortbildungspflicht in einzelnen Bundesländern liegen dem Senat keine Informationen vor.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12741", "20/7119"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51781"
@@ -43,17 +44,17 @@ Welche Kosten entstehen einem Autofahrer, dessen Auto in die Verwahrstelle abges
 
 Gemäß § 6 Gebührengesetz sind Gebühren kostendeckend zu erheben. Folgende Kosten entstehen:
 
- Kosten für Bußgeld/Verwarngelder: Parkverstöße werden ab einem Betrag von 10
+– Kosten für Bußgeld/Verwarngelder: Parkverstöße werden ab einem Betrag von 10
 
 Euro geahndet. Der Betrag richtet sich darüber hinaus nach den Umständen des jeweiligen Einzelfalls (zum Beispiel bei Vorsatz)
 
- Kosten des Abschleppunternehmers für Sicherstellungen 95,20 bis 160,65 Euro
+– Kosten des Abschleppunternehmers für Sicherstellungen 95,20 bis 160,65 Euro
 
- Kosten des Abschleppunternehmers für Umsetzungen 74,97 bis 113,05 Euro
+– Kosten des Abschleppunternehmers für Umsetzungen 74,97 bis 113,05 Euro
 
- Amtshandlungsgebühr von 52,90 Euro
+– Amtshandlungsgebühr von 52,90 Euro
 
- Verwahrgebühr Pkw (bei Sicherstellungen zur zentralen Verwahrstelle), zurzeit
+– Verwahrgebühr Pkw (bei Sicherstellungen zur zentralen Verwahrstelle), zurzeit
 
 83,70 Euro für die ersten 24 Stunden, 10 Euro für alle weiteren angebrochenen 24 Stunden.
 
@@ -75,7 +76,7 @@ Welche Leistungen erbringt die öffentliche Verwaltung für die Amtshandlungsgeb
 
 Welche Leistungen erbringt die öffentliche Verwaltung für den Auftragsgemeinkostenzuschlag?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 20/7119.
 
@@ -167,15 +168,15 @@ Welche Firmen werden derzeit mit dem Abschleppen von Autos beauftragt? Welche Ko
 
 Beauftragte Firmen:
 
- Abschlepp- Bergungs- Pannenservice Schröder Hamburg GmbH
+– Abschlepp- Bergungs- Pannenservice Schröder Hamburg GmbH
 
- Peter Henseleit GmbH
+– Peter Henseleit GmbH
 
- Reinsch GmbH
+– Reinsch GmbH
 
- Abschleppdienst Stephan GmbH
+– Abschleppdienst Stephan GmbH
 
- Hans-Jürgen Clasen KFZ-Abschlepp- und Transportdienst GmbH
+– Hans-Jürgen Clasen KFZ-Abschlepp- und Transportdienst GmbH
 
 Die Angebotspreise unterliegen dem Geschäftsgeheimnis.
 

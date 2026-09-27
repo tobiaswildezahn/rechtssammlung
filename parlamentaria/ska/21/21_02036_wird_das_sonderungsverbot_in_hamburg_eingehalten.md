@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50284"
@@ -67,7 +68,7 @@ Wie viele Schüler und Schülerinnen haben an Hamburger Ersatzschulen mit einem 
 - Anzahl der belegten Freiplätze,
 - Voraussetzungen, unter denen ein Freiplatz gewährt wird.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

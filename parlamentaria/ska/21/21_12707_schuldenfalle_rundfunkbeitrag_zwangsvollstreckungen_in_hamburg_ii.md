@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12388"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62012"
@@ -49,7 +50,7 @@ Wie viele blinde Menschen gibt es zurzeit in Hamburg? a. Wie viele der blinden M
 
 Ab wann und nach welchen Kriterien gilt jemand als blind, um von der Rundfunkbeitragspflicht befreit zu sein?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Statistik der Schwerbehinderten wird nur alle zwei Jahre erhoben und erfasst Personen die einen Grad der Behinderung von mindestens 50 aufweisen und die im Besitz eines gültigen Schwerbehindertenausweises sind.
 
@@ -63,7 +64,7 @@ Wie viele taubblinde Menschen gibt es zurzeit in Hamburg?
 
 Ab wann und nach welchen Kriterien gilt jemand als taubblind, um von der Rundfunkbeitragspflicht befreit zu sein?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nach Auskunft des NDR kann das Vorliegen der gesundheitlichen Voraussetzungen für Taubblinde bisher nicht durch das Merkzeichen „RF“ im Schwerbehindertenausweis nachgewiesen werden. Daher reicht für die Befreiung nach § 4 Absatz 7 Satz 2
 2. Halbsatz RBStV insoweit ausdrücklich eine ärztliche Bescheinigung aus. Im Bundesministerium für Arbeit und Soziales ist eine gesetzliche Regelung des Merkzeichens „Taubblind“ („Tbl“) im Schwerbehindertenausweis in Vorbereitung.
@@ -120,14 +121,14 @@ Allen Antragstellerinnen und Antragstellern wird vom Versorgungsamt mit der Eing
 
 Der Beitragsservice von ARD, ZDF und Deutschlandradio informiert auf seiner Internetseite www.rundfunkbeitrag.de ausführlich über die Regelungen zur Befreiung und Ermäßigung und bietet eine barrierefreie Kommunikation an:
 
- barrierefreies Ausfüllen des Antrages auf Befreiung oder Ermäßigung von der
+– barrierefreies Ausfüllen des Antrages auf Befreiung oder Ermäßigung von der
 
 Rundfunkbeitragspflicht online mit nützlichen Eingabehilfen,
 
- zusätzlicher Versand der Anschreiben des Beitragsservice als Word-, RTF-, PDF-,
+– zusätzlicher Versand der Anschreiben des Beitragsservice als Word-, RTF-, PDF-,
 
 MP3- oder WAV-Datei per E-Mail oder auf CD,
 
- Versand der Anschreiben im Großdruck-Format,
+– Versand der Anschreiben im Großdruck-Format,
 
- Versand und Empfang von Anschreiben in Brailleschrift.
+– Versand und Empfang von Anschreiben in Brailleschrift.

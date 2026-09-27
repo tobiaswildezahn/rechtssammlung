@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13034"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51491"
@@ -65,7 +66,7 @@ Welches Amt oder welche Behörde führt etwaige Verkaufsverhandlungen und welche
 
 Wie weit sind die Überlegungen für eine Veräußerung und Bebauung fortgeschritten und wann ist eine Ausschreibung beziehungsweise Vergabe für die Fläche erfolgt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Entfällt. Im Übrigen siehe Vorbemerkung.
 
@@ -85,7 +86,7 @@ Wie groß ist die eigentliche Schulhoffläche der Schule Tornquiststraße unter 
 
 Wie viel Quadratmeter der von den Schülerinnen und Schülern genutzten Fläche wird auch von der dort befindlichen Kindertagesstätte in Anspruch genommen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Schule Tornquiststraße (Flurstück 691) besitzt mehrere Flächen, die als Schulhof genutzt werden. Abzüglich der bebauten Fläche verfügt sie über 4.570 m² Freifläche, von der rund 750 m² von der Kindertagesstätte genutzt und rund 420 m² aus anderen Gründen (Zuwegungen, Rettungstreppen, Fahrradständer und so weiter) nicht als Schulhof nutzbar sind. Die Summe der Flächen, die ohne Einschränkung als Schulhof genutzt werden können, beträgt mehr als 2.000 m², unter Berücksichtigung der Tatsache, dass die Flächen im Eingangsbereich der Schule nicht als Schulhoffläche bewertet werden.
 
@@ -113,6 +114,6 @@ Welche Schulhoffläche pro Schülerin/Schüler sieht ein etwaiges Musterflächen
 
 Falls das Musterflächenprogramm für Bestandsstandorte nicht gelten solle, welche Maßstäbe pro Schülerin/Schüler gelten in diesem Fall?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Drs. 20/13034.

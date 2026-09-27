@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50813"
@@ -69,6 +70,6 @@ Plant der Senat die Einführung von weiteren Tempobeschränkungen auf Autobahnen
 
 Plant der Senat ein generelles Tempolimit auf allen Hamburger Autobahnabschnitten? Wenn ja: Wann soll dieses eingeführt werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nein. Im Übrigen siehe Antwort zu 1.

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67929"
@@ -135,7 +136,7 @@ Wer ist Eigentümer beziehungsweise Eigentümerin des Grundstücks, auf dem der 
 
 Wer war Auftraggeber/Auftraggeberin der Arbeiten und welche Rolle im Zuge der Arbeiten und der Auftragsvergabe hatten Bezirksamt, Post und BUE jeweils?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Das Grundstück befindet sich im Eigentum der Deutsche Post Pensions-Treuhand GmbH & Co. KG, Bonn.
 

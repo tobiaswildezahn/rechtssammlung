@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 20
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67526"
@@ -43,7 +44,7 @@ Wie viele Diesel-Pkws sind in Hamburg zugelassen?
 
 Wie verteilen sich diese Diesel-Pkws auf die einzelnen Abgasnorm- Klassen (Euronorm-Klassen)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Abgasnorm Anzahl der Fahrzeuge
 
@@ -85,7 +86,7 @@ Wie verteilen sich die Fahrzeuge aus Frage 1. auf die einzelnen Hersteller?
 
 Wie verteilen sich die Fahrzeuge der unterschiedlichen Hersteller auf die einzelnen Abgasnorm-Klassen (Euronorm-Klassen)?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Statistiken im Sinne der Fragestellungen werden beim Landesbetrieb Verkehr (LBV) nicht geführt. Für die Beantwortung müssten sämtliche Datensätze der in Frage kommenden Kraftfahrzeuge händisch ausgewertet und verifiziert werden. Die Auswertung und Verifizierung von 248 601 Datensätzen ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -183,7 +184,7 @@ Wie viele dieser Fahrzeuge wird Hamburg tatsächlich nachrüsten?
 
 Wann wird mit der Nachrüstung begonnen und wann wird diese abgeschlossen sein?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Für beide Fahrzeuge ist hinsichtlich der Nachrüstung mit einem NOx Minderungssystem noch keine abschließende wirtschaftliche Betrachtung erfolgt. Somit kann zum jetzigen Zeitpunkt keine Prognose hinsichtlich der Umsetzung einer Nachrüstung abgegeben werden. Darüber hinaus soll in die Entscheidung über die Nachrüstung auch das Ergebnis der oben beschriebenen Bemühungen des Bundes zur Übernahme der anfallenden Kosten durch die Automobilhersteller einfließen.
 

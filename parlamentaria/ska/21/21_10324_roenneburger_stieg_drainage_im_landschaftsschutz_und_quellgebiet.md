@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59168"
@@ -65,19 +66,19 @@ Welche weiteren Inhalts- und Nebenbestimmungen wurden bei der etwaigen wasserrec
 
 Gemäß Baugenehmigung sieht die wasserrechtliche Erlaubnis insbesondere Inhaltsund Nebenbestimmungen zu folgenden Punkten vor:
 
- Einleitungsstellen und Niederschlagsmenge
+– Einleitungsstellen und Niederschlagsmenge
 
- Hinweise zu wassergefährdenden beziehungsweise wasserschädigenden Stoffen
+– Hinweise zu wassergefährdenden beziehungsweise wasserschädigenden Stoffen
 
- Vorgehensweise im Schadensfall
+– Vorgehensweise im Schadensfall
 
- Eigenüberwachung der Regenrückhalteanlage, des Pumpenschachtes und des
+– Eigenüberwachung der Regenrückhalteanlage, des Pumpenschachtes und des
 
 Schachtes mit Sandfang
 
- Probenahmestelle
+– Probenahmestelle
 
- Bauliche Ausbildung der Einleitstelle
+– Bauliche Ausbildung der Einleitstelle
 
 Zum Denkmalschutz wurden lediglich ein Hinweis, jedoch keine Inhalts- und Nebenbestimmungen ausgesprochen.
 

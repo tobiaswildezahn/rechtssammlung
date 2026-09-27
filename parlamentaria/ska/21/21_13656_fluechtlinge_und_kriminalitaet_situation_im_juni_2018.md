@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 5
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10765"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63021"
@@ -56,63 +57,63 @@ a) Aufenthaltserlaubnis aus völkerrechtlichen, humanitären oder politischen Gr
 
 #### Antwort zu Frage 1
 
- nach § 22 Satz 1 AufenthG
+– nach § 22 Satz 1 AufenthG
 
- nach § 22 Satz 2 AufenthG
+– nach § 22 Satz 2 AufenthG
 
- nach § 23 Absatz 1 AufenthG
+– nach § 23 Absatz 1 AufenthG
 
- nach § 23 Absatz 2 AufenthG
+– nach § 23 Absatz 2 AufenthG
 
- nach § 23 Absatz 4 AufenthG
+– nach § 23 Absatz 4 AufenthG
 
- nach § 23a AufenthG
+– nach § 23a AufenthG
 
- nach § 24 AufenthG
+– nach § 24 AufenthG
 
- nach § 25 Absatz 1 AufenthG
+– nach § 25 Absatz 1 AufenthG
 
- nach § 25 Absatz 2 AufenthG (Flüchtlingseigenschaft zuerkannt)
+– nach § 25 Absatz 2 AufenthG (Flüchtlingseigenschaft zuerkannt)
 
- nach § 25 Absatz 2 AufenthG (subsidiärer Schutz gewährt)
+– nach § 25 Absatz 2 AufenthG (subsidiärer Schutz gewährt)
 
- nach § 25 Absatz 3 AufenthG (Abschiebungshindernis)
+– nach § 25 Absatz 3 AufenthG (Abschiebungshindernis)
 
- nach § 25 Absatz 4 Satz 1 AufenthG
+– nach § 25 Absatz 4 Satz 1 AufenthG
 
- nach § 25 Absatz 4 Satz 2 AufenthG
+– nach § 25 Absatz 4 Satz 2 AufenthG
 
- nach § 25 Absatz 4b AufenthG
+– nach § 25 Absatz 4b AufenthG
 
- nach § 25 Absatz 5 AufenthG
+– nach § 25 Absatz 5 AufenthG
 
- nach § 25a Absatz 1 AufenthG
+– nach § 25a Absatz 1 AufenthG
 
- nach § 25a Absatz 2 Satz 1 AufenthG
+– nach § 25a Absatz 2 Satz 1 AufenthG
 
- nach § 25a Absatz 2 Satz 2 AufenthG
+– nach § 25a Absatz 2 Satz 2 AufenthG
 
- nach § 25a Absatz 2 Satz 3 AufenthG
+– nach § 25a Absatz 2 Satz 3 AufenthG
 
- nach § 25b Absatz 1 Satz 1 AufenthG
+– nach § 25b Absatz 1 Satz 1 AufenthG
 
 b) Aufenthaltserlaubnis aus völkerrechtlichen, humanitären oder politischen Gründen
 
- nach § 25b Absatz 4 AufenthG (Ehegatte/Lebenspartner)
+– nach § 25b Absatz 4 AufenthG (Ehegatte/Lebenspartner)
 
- nach § 25b Absatz 4 AufenthG (Minderjähriges Kind)
+– nach § 25b Absatz 4 AufenthG (Minderjähriges Kind)
 
 c) Niederlassungserlaubnis
 
- nach § 23 Absatz 2 AufenthG (besondere Fälle)
+– nach § 23 Absatz 2 AufenthG (besondere Fälle)
 
- nach § 23 Absatz 4 AufenthG (Resettlement) - NE
+– nach § 23 Absatz 4 AufenthG (Resettlement) - NE
 
- nach § 26 Absatz 3 Satz 1 AufenthG
+– nach § 26 Absatz 3 Satz 1 AufenthG
 
- nach § 26 Absatz 3 Satz 2 AufenthG
+– nach § 26 Absatz 3 Satz 2 AufenthG
 
- nach § 26 Absatz 4 AufenthG
+– nach § 26 Absatz 4 AufenthG
 
 Statistische Daten im Sinne der Fragestellung werden bei der Polizei nicht erhoben.
 

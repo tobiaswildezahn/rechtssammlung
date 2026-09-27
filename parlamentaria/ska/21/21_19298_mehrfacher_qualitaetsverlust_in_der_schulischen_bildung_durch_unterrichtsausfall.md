@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18692", "21/12803", "21/4112"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69007"
@@ -41,21 +42,21 @@ Die Hamburger allgemeinbildenden Schulen nehmen ihren Auftrag, Unterricht als Gr
 
 Seit 2015 wird der Unterrichtsausfall regelhaft erhoben. Die Daten der Unterrichtsausfall- und Vertretungsstatistik werden aus dem in den Schulen eingesetzten Unterrichtsund Vertretungsplanungsprogramm (UNTIS) anhand feststehender Kriterien und in aggregierter Form an die für Bildung zuständige Behörde übermittelt (siehe auch Drs. 21/12803). Die fest verankerten Kriterien sind:
 
- wöchentlicher Unterricht nach Plan,
+– wöchentlicher Unterricht nach Plan,
 
- nach Plan erteilte Unterrichtsstunden,
+– nach Plan erteilte Unterrichtsstunden,
 
- Unterricht in besonderer Form,
+– Unterricht in besonderer Form,
 
- fachidentisch vertreten durch andere Lehrkraft,
+– fachidentisch vertreten durch andere Lehrkraft,
 
- vertreten mit anderem Unterrichtsfach der Lerngruppe sowie
+– vertreten mit anderem Unterrichtsfach der Lerngruppe sowie
 
- Vertretung durch Arbeitsauftrag beziehungsweise Zusammenlegung/Aufteilung von
+– Vertretung durch Arbeitsauftrag beziehungsweise Zusammenlegung/Aufteilung von
 
 Unterricht und
 
- ersatzlos ausgefallene Unterrichtsstunden.
+– ersatzlos ausgefallene Unterrichtsstunden.
 
 Diese Angaben werden jeweils zum Ende eines Schulhalbjahres ausgewertet. Weitere Kategorien zur Vertretungsart oder eine getrennte Darstellung der bestehenden Kategorien werden technisch nicht unterstützt und lassen sich auch nicht nachträglich erheben, siehe auch Drs. 21/12803.
 
@@ -71,7 +72,7 @@ Wie definiert der Senat/die zuständige Behörde „Unterricht in besonderer For
 
 Wie kommt diese Art der Vertretung im schulischen Alltag zur Anwendung? (Bitte konkret und anschaulich darstellen.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Unterricht in besonderer Form ist kein Vertretungsunterricht und kein unterrichtsersetzendes Angebot, siehe auch Drs. 21/4112. Vielmehr bezeichnet Unterricht in besonderer Form alle geplanten Unterrichte, die das Lernen in den einzelnen Fächern, Aufgabengebieten und sozialen Kompetenzerwerben durch vielfältige Angebote in besonderer Form unterstützen. Dazu gehören das Lernen an außerschulischen Lernorten, Exkursionen, Theater- und Museumsbesuche, Betriebspraktika und Schulfahrten. Der Unterricht in besonderer Form weicht vom Stundenplan ab, verfolgt aber immer ein von Lehrkräften vorbereitetes und begleitetes Unterrichtsangebot im Rahmen der Bildungs- und Erziehungsziele der Jahrgangsstufe, das für die Schülerinnen und Schüler das Lernen in besonderer Form lebensnah, anschaulich und lebendig macht. Gleichzeitig müssen die Schulen sicherstellen, dass hierdurch kein Unterrichtsausfall an anderer Stelle aus organisatorischen Gründen entsteht.
 
@@ -113,7 +114,7 @@ Wie ordnet der Senat/die zuständige Behörde die genannten Vertretungsformen hi
 
 Wie sieht der Senat/die zuständige Behörde es bei Arbeitsaufträgen, Aufteilung oder Zusammenlegung von Klassen – besonders in Grundschulen – gewährleistet, dass die pädagogische Beziehungsarbeit zwischen Lehrkräften und Schüler/-innen nicht Schaden nimmt? (Bitte konkret ausführen und die pädagogischen Erfordernisse der unterschiedlichen Schulformen explizit berücksichtigen.)
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Schulen haben auf der Grundlage der geltenden Vertretungsrichtlinie Grundsätze zur Qualitätssicherung des Vertretungsunterrichts entwickelt und mit den schulischen Gremien abgestimmt sowie Konzepte zur Vermeidung von Unterrichtsausfall sowie zur Gestaltung des Vertretungsunterrichts festgelegt. So ist es an vielen Schulen üblich, eine Vorratssammlung von Arbeitsaufträgen für unterschiedliche Fächer vorzuhalten, auf die eine Vertretungslehrkraft bei kurzfristig auftretender Erkrankung der Stammlehrkraft zurückgreifen kann. Diese Arbeitsaufträge beziehen sich auf den jeweiligen Unterrichtsgegenstand und dienen insbesondere in der Grundschule und der Sekundarstufe I dem Üben, Wiederholen und Vertiefen. Im Übrigen siehe Antwort zu 3.
 

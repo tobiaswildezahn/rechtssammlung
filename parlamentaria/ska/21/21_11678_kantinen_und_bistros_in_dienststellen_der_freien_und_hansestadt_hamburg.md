@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 22
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7268"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60900"
@@ -55,9 +56,11 @@ Standort Kantinen Wird genutzt durch Bedienstete der/des
 
 Verwaltungszentrum Hamburger Straße Hamburger Straße 41
 
- Behörde für Arbeit Soziales, Familie und In-
+– Behörde für Arbeit Soziales, Familie und In-
 
-tegration  Behörde für Schule und Berufsbildung  Behörde für Wissenschaft und Forschung und
+tegration
+– Behörde für Schule und Berufsbildung
+– Behörde für Wissenschaft und Forschung und
 
 Gleichstellung
 
@@ -68,77 +71,81 @@ und Wohnen
 Neuenfelder Straße 19,  
 21109 Hamburg
 
- Behörde für Stadtentwicklung und Wohnen  Behörde für Umwelt und Energie  Landesbetrieb Geoinformation und Vermes-
+– Behörde für Stadtentwicklung und Wohnen
+– Behörde für Umwelt und Energie
+– Landesbetrieb Geoinformation und Vermes-
 
 sung
 
 Behörde für Gesundheit und Verbraucherschutz (BGV) Billstraße 80
 
- Behörde für Gesundheit und Verbraucherschutz  
- Institut für Hygiene und Umwelt  
- Behörde für Inneres und Sport (Feuerwehr)  
- Finanzbehörde
+– Behörde für Gesundheit und Verbraucherschutz  
+– Institut für Hygiene und Umwelt  
+– Behörde für Inneres und Sport (Feuerwehr)  
+– Finanzbehörde
 
 Behörde für Inneres und Sport Feuerwehr (F05) Bredowstraße 4
 
- Behörde für Inneres und Sport – Feuerwehr
+– Behörde für Inneres und Sport – Feuerwehr
 
 (F05)
 
 Behörde für Inneres und Sport Kantine im Polizeipräsidium Bruno-Georges-Platz 1
 
- Behörde für Inneres und Sport – Polizei
+– Behörde für Inneres und Sport – Polizei
 
 Behörde für Inneres und Sport Essensausgabe im Polizeiausbildungszentrum Braamkamp 3
 
- Behörde für Inneres und Sport – Polizei
+– Behörde für Inneres und Sport – Polizei
 
 Justizbehörde Ziviljustizgebäude Sievekingsplatz 1
 
- Justizbehörde  
- Ziviljustizgebäudes  
- Strafjustizgebäudes  
- Hanseatischen Oberlandesgerichts  
- Sozial- und Landessozialgerichts  
- Staatsanwaltschaften
+– Justizbehörde  
+– Ziviljustizgebäudes  
+– Strafjustizgebäudes  
+– Hanseatischen Oberlandesgerichts  
+– Sozial- und Landessozialgerichts  
+– Staatsanwaltschaften
 
 Justizbehörde Strafjustizgebäude Sievekingsplatz 3
 
- Justizbehörde  
- Ziviljustizgebäudes  
- Strafjustizgebäudes  
- Hanseatischen Oberlandesgerichts  
- Sozial- und Landessozialgerichts  
- Staatsanwaltschaften
+– Justizbehörde  
+– Ziviljustizgebäudes  
+– Strafjustizgebäudes  
+– Hanseatischen Oberlandesgerichts  
+– Sozial- und Landessozialgerichts  
+– Staatsanwaltschaften
 
 Justizbehörde  
 Arbeitsgericht und  
 Landesarbeitsgericht  
 Osterbekstraße 96
 
- Arbeitsgerichts und Landesarbeitsgerichts  Amtsgerichts Barmbek
+– Arbeitsgerichts und Landesarbeitsgerichts
+– Amtsgerichts Barmbek
 
 Bezirksamt Altona Altonaer Rathaus Platz der Republik 1
 
- Bezirksamt Altona
+– Bezirksamt Altona
 
 Bezirksamt Wandsbek Schloßstraße 60
 
- Bezirksamt Wandsbek  Amtsgerichts Wandsbek
+– Bezirksamt Wandsbek
+– Amtsgerichts Wandsbek
 
 Bezirksamt Eimsbüttel Grindelberg 62-66
 
- Bezirksamt Eimsbüttel
+– Bezirksamt Eimsbüttel
 
 Bezirksamt Hamburg-Mitte Öjendorfer Weg 9
 
- Kundenzentrum/Grundsicherungs- und Sozial-
+– Kundenzentrum/Grundsicherungs- und Sozial-
 
 amt/Schularztstelle/Amt für soziale Dienste
 
 Bezirksamt Hamburg Nord Kümmelstraße 7
 
- Die Kantine kann aufgrund eines Pächterwech-
+– Die Kantine kann aufgrund eines Pächterwech-
 
 sels ab voraussichtlich Ende Februar 2018 wieder besucht werden.
 
@@ -150,14 +157,15 @@ Justizbehörde
 
 Drehbahn 36
 
- Justizbehörde  
- Ziviljustizgebäudes  
- Strafjustizgebäudes  
- Hanseatischen Oberlandesgerichts  
- Sozial- und Landessozialgerichts  
- Staatsanwaltschaften
+– Justizbehörde  
+– Ziviljustizgebäudes  
+– Strafjustizgebäudes  
+– Hanseatischen Oberlandesgerichts  
+– Sozial- und Landessozialgerichts  
+– Staatsanwaltschaften
 
-Zentrum für Personaldienste  Zentrum für Personaldienste
+Zentrum für Personaldienste
+– Zentrum für Personaldienste
 
 ### Frage 2
 
@@ -203,11 +211,11 @@ Wie viele und welche dieser Kantinen und Bistros sind barrierefrei ausgebaut? In
 
 Von den insgesamt 16 Kantinen und Bistros sind drei nicht barrierefrei zu erreichen:
 
- Feuerwehr (Bredowstraße)
+– Feuerwehr (Bredowstraße)
 
- Kantine im Wirtschaftsgebäude der Landesbereitschaftspolizei
+– Kantine im Wirtschaftsgebäude der Landesbereitschaftspolizei
 
- Bistro in der Justizbehörde
+– Bistro in der Justizbehörde
 
 Bei keiner dieser Kantinen und Bistros ist der Ausbau zur barrierefreien Erreichbarkeit in Umsetzung oder geplant.
 
@@ -395,7 +403,7 @@ niedrigster Preis
 
 höchster Preis
 
- Behörde für Gesundheit und
+– Behörde für Gesundheit und
 
 Verbraucherschutz
 
@@ -404,16 +412,17 @@ Verbraucherschutz
 0,30  
 1,50
 
- Behörde für Inneres und
+– Behörde für Inneres und
 
-Sport  Cafeteria Amsinckstraße
+Sport
+– Cafeteria Amsinckstraße
 
 4,00  
 6,00  
 1,00  
 1,00
 
- Behörde für Inneres und
+– Behörde für Inneres und
 
 Sport Kantine Bredowstraße
 
@@ -422,7 +431,7 @@ Sport Kantine Bredowstraße
 1,00  
 1,00
 
- Behörde für Inneres und
+– Behörde für Inneres und
 
 Sport Standorte Alsterdorf
 
@@ -441,7 +450,7 @@ niedrigster Preis
 
 höchster Preis
 
- Justizbehörde
+– Justizbehörde
 
 Arbeitsgericht Landesarbeitsgericht
 
@@ -450,7 +459,7 @@ Arbeitsgericht Landesarbeitsgericht
 0,80  
 1,20
 
- Justizbehörde
+– Justizbehörde
 
 Strafjustizgebäude
 
@@ -459,7 +468,7 @@ Strafjustizgebäude
 1,50  
 1,50
 
- Justizbehörde
+– Justizbehörde
 
 Ziviljustizgebäude
 
@@ -468,11 +477,13 @@ Ziviljustizgebäude
 0,80  
 1,80
 
- Behörde für Stadtentwicklung
+– Behörde für Stadtentwicklung
 
-und Wohnen  Behörde für Umwelt und
+und Wohnen
+– Behörde für Umwelt und
 
-Energie  Landesbetrieb Geoinformati-
+Energie
+– Landesbetrieb Geoinformati-
 
 on und Vermessung
 
@@ -481,19 +492,19 @@ on und Vermessung
 0,90  
 1,75
 
- Bezirksamt Altona  
+– Bezirksamt Altona  
 4,50  
 7,90  
 1,00  
 2,30
 
- Bezirksamt Eimsbüttel  
+– Bezirksamt Eimsbüttel  
 2,50  
 4,30  
 0,75  
 1,20
 
- Bezirksamt Hamburg-Mitte
+– Bezirksamt Hamburg-Mitte
 
 Öjendorfer Weg 9
 
@@ -502,19 +513,19 @@ on und Vermessung
 0,80  
 1,60
 
- Bezirksamt Hamburg-Nord  
+– Bezirksamt Hamburg-Nord  
 k. A.  
 k. A.  
 k. A.  
 k. A.
 
- Bezirksamt Wandsbek  
+– Bezirksamt Wandsbek  
 3,70  
 6,50  
 0,70  
 1,20
 
- Verwaltungszentrum Ham-
+– Verwaltungszentrum Ham-
 
 burger Straße
 
@@ -541,7 +552,7 @@ Wie viele Mitarbeiter des Bezirksamtes nutzen die Betriebskantine regelmäßig?
 
 Wie viele Mitarbeiter des Bezirksamtes nutzen die Betriebskantine unregelmäßig?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Dazu liegen dem Bezirksamt Hamburg-Mitte keine Erkenntnisse vor.
 
@@ -553,13 +564,13 @@ Aus welchem Grunde nutzen die Mitarbeiter des Bezirksamtes die Kantine „kaum n
 
 Dazu liegen dem Bezirksamt Hamburg-Mitte keine Erkenntnisse vor. Mögliche Gründe könnten sein:
 
- Umfangreiches anderes Speisenangebot im direkten Umfeld
+– Umfangreiches anderes Speisenangebot im direkten Umfeld
 
- Aufgrund der zahlreichen Gäste (Fremdesser) fehlt die Atmosphäre einer
+– Aufgrund der zahlreichen Gäste (Fremdesser) fehlt die Atmosphäre einer
 
 Betriebskantine, die weit überwiegend von Kollegen/-innen genutzt würde.
 
- In der Dienststelle Billstedt arbeiten insbesondere im dortigen Kundenzentrum
+– In der Dienststelle Billstedt arbeiten insbesondere im dortigen Kundenzentrum
 
 viele Teilzeitkräfte. Diese nutzen die Kantine in der Regel nicht.
 
@@ -587,8 +598,8 @@ Wie weit sind die angesprochenen Überlegungen, dem Betreiber der Kantine eine B
 
 Diese Überlegungen wurden geprüft, sind aber aufgrund der nachfolgenden Gründe fallengelassen worden:
 
- Die Flächenüberlassung ist nur für den Zweck einer Betriebskantine zulässig.
+– Die Flächenüberlassung ist nur für den Zweck einer Betriebskantine zulässig.
 
- Die Rechtsform des Küchenbetriebes hat keinen Einfluss auf die notwendigen
+– Die Rechtsform des Küchenbetriebes hat keinen Einfluss auf die notwendigen
 
 Maßnahmen. Diese ziehen einen weiteren Flächenbedarf nach sich, der ausschließlich zulasten des Speisebereichs realisierbar wäre. Dessen deutliche Verkleinerung würde jedoch eine Wirtschaftlichkeit des Betriebes ausschließen.

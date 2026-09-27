@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 22
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18882", "21/18258"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68715"
@@ -57,7 +58,7 @@ Bei welchen Kirchengemeinden beziehungsweise welchen anderen Einrichtungen sind 
 
 Wie viele waren es an den unter 1. genannten Standorten jeweils im WNP 2018/2019?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 
@@ -95,7 +96,7 @@ Welche Kosten entstehen dem Senat je Standort beziehungsweise je Platz je Stando
 
 Welche Kosten entstehen dem Senat bei den beiden vom Senat betriebenen Standorten insgesamt bei wie vielen Plätzen und jeweils je Platz?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Im Winternotprogramm werden platz- und standortbezogene Kosten nicht standardisiert ausgewertet.
 
@@ -113,7 +114,7 @@ Wie viele aktuell nicht genutzte Wohncontainer aus dem Bereich der Flüchtlingsu
 
 Inwieweit sind die unter 8. genannten Container auch für das WNP nutzbar?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Behörde für Inneres und Sport hat derzeit noch 278 Wohncontainer angemietet. Im Eigentum befinden sich keine Wohncontainer. Die genannten Container dienen als Reserve- und Notfallunterkünfte für Geflüchtete und sind auch als solche ausgestattet. Sie sollen im Rahmen der Reserve- und Notfallplanung umgehend zur Verfügung stehen, wenn bestehende Einrichtungen aufgrund von unvorhersehbaren Ereignissen nicht mehr bewohnbar sind und evakuiert werden müssen oder wenn aus anderen Gründen die Kapazitäten aufgestockt werden müssen. Infolge dessen können sie nicht für das Winternotprogramm genutzt werden.
 
@@ -129,7 +130,7 @@ Weiß der Senat, ob auch in Hamburg ein ähnliches Spendenprojekt wie in Berlin 
 
 Ist ein Spendenprojekt wie in Berlin auch in Hamburg denkbar? Wenn ja, unter welchen Voraussetzungen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Zu dem genannten Projekt liegen der zuständigen Behörde bisher keine Erkenntnisse vor.
 

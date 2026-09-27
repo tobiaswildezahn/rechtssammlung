@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 3
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16394", "19/8909"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66550"
@@ -61,7 +62,7 @@ Wie viele Rentner in Hamburg sind nach Kenntnis des Senats hinsichtlich ihrer Re
 
 Einkommensteuereinnahmen in welcher Höhe hat der Senat in den Jahren 2011 bis 2018 verbuchen können? Wie viel davon stammte insgesamt und anteilig von Rentnern?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Pflicht zur Abgabe einer Steuererklärung als auch die Frage der Steuerbelastung eines Rentners hängen nicht allein davon ab, ob der steuerpflichtige Teil der Rente den Grundfreibetrag übersteigt. Es kommt zunächst auf die Höhe des Gesamtbetrags der Einkünfte an, bei dessen Ermittlung neben dem steuerpflichtigen Teil der Rentenbezüge gegebenenfalls noch andere steuerlich relevante Sachverhalte zu berücksichtigen sind. Im Übrigen siehe Vorbemerkung.
 

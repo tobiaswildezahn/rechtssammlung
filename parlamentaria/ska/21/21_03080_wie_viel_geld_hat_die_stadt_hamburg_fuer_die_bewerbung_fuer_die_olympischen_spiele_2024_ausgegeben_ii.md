@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 31
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2933", "21/1969"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51412"
@@ -47,7 +48,7 @@ Weshalb hat der Senat in Drs. 21/2933 die Frage Nummer 1. „Wie hoch waren die 
 
 Wie hoch waren die Gesamtausgaben im Zusammenhang mit der Gründung und dem Betrieb der Bewerbungsgesellschaft Hamburg 2024? Bitte differenzieren nach Ausgaben der Freien und Hansestadt Hamburg für die Bewerbungsgesellschaft, nach Ausgaben der Bewerbungsgesellschaft selbst sowie gegebenenfalls nach Ausgaben der Gesellschafter/- innen der Bewerbungsgesellschaft.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/2933. Im Übrigen haben die Gesellschafter gemäß dem Gesellschaftsvertrag folgende Einlagen zur Gründung der Gesellschaft in das Stammkapital geleistet, die den Anteilen an der Gesellschaft entsprechen: DOSB 51.000 Euro; Freie und Hansestadt Hamburg (FHH) 26.000 Euro; Bundesrepublik Deutschland 18.000 Euro; Schleswig-Holstein 2.000 Euro; Landeshauptstadt Kiel 2.000 Euro; Handelskammer Hamburg 1.000 Euro. Darüber hinaus hat die FHH der Bewerbungsgesellschaft 5,5 Millionen Euro Liquidität zur Verfügung gestellt, wovon die Bewerbungsgesellschaft einschließlich bilanziell zurückgestellter Beträge rund 5,4 Millionen Euro aufgewendet hat.
 
@@ -294,7 +295,7 @@ Weshalb hat der Senat die Frage Nummer 8., Drs. 21/2933 „Wann wurden die jewei
 
 Wann wurden die jeweiligen Verträge über Gutachten, Untersuchungen und Ähnliches abgeschlossen?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Die in der Drs. 21/2933 versehentlich nicht genannten Daten werden, wie in Anlage 1 ersichtlich, nachgereicht.
 

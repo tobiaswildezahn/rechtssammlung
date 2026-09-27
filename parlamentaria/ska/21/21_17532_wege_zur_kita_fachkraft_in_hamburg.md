@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67124"
@@ -45,11 +46,11 @@ Die Ausbildungswege zur Kitafachkraft sind zum einen über die Schulform der Ber
 
 Die in der Anlage aufgeführten Bildungsgänge werden sowohl an staatlichen Schulen als auch an staatlich anerkannten Schulen angeboten. Die jeweils anbietenden Schulen können der Publikation des Hamburger Instituts für Beruflichen Bildung „Berufliche Bildungswege 2019“ entnommen werden, siehe https://hibb.hamburg.de/wp-content/ uploads/sites/33/2019/02/0081_HBB-BO-BBW-2019_WEB.pdf:
 
- Berufsfachschulen Sozialpädagogische Assistenz Seiten 30/31,
+– Berufsfachschulen Sozialpädagogische Assistenz Seiten 30/31,
 
- Fachschulen Erzieherinnen/Erzieher Seiten 57/58,
+– Fachschulen Erzieherinnen/Erzieher Seiten 57/58,
 
- Fachschulen Heilerziehungspflege Seiten 58/59.
+– Fachschulen Heilerziehungspflege Seiten 58/59.
 
 Die Ausbildung im Rahmen des Lehrgangs „Erzieherinnen-/Erzieherausbildung für Einwanderinnen/Einwanderer“ (EFE) findet nur an der Staatlichen Fachschule für Sozialpädagogik Altona (BS21) statt.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49469"
@@ -49,7 +50,7 @@ Seit wann ist dem Senat beziehungsweise der zuständigen Fachbehörde der Zustan
 
 Was hat der Senat beziehungsweise die zuständige Fachbehörde seit Bekanntwerden getan, um den Zustand des Weges zu ändern?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Dieser Abschnitt des Alsterwanderweges wird seit der ersten Instandsetzung Ende der Achtzigerjahre im Rahmen der regelhaften Verkehrssicherheitskontrollen durch das zuständige Bezirksamt begangen und die akuten Verkehrssicherheitsmängel werden laufend durch das Bezirksamt beseitigt.
 
@@ -85,7 +86,7 @@ Wann wird mit der Sanierung der Treppe und des Weges begonnen?
 
 Wann wird die Sanierung der Treppe und des Weges fertiggestellt werden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Planung liegt dem zuständigen Bezirksamt zur Endabstimmung vor. Anschließend beginnen Ausschreibung und Vergabe. Die Fertigstellung soll im Jahr 2015 erfolgen.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/833", "20/13284", "21/2108"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51616"
@@ -63,7 +64,7 @@ Erachtet der Senat beziehungsweise die zuständige Behörde es für erforderlich
 
 Wirkt der Senat beziehungsweise die zuständige Behörde im Rahmen seiner beziehungsweise ihrer Möglichkeiten darauf hin, dass auch vonseiten der Deutschen Bahn AG und des HVV eine erhöhte Präsenz von Sicherheitskräften im und um den Bahnhof spürbar ist?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die jüngste Erhöhung der Präsenz der HHW und der S-Bahn-Wache in den Haltestellen der Hamburger Hochbahn AG (HOCHBAHN) am Hauptbahnhof wurde im Januar des Jahres 2016 umgesetzt. Seitdem konnte keine Lageentwicklung beobachtet werden, die eine darüber hinausgehende Erhöhung der Präsenz erforderlich macht. Anlassbezogen erfolgt eine mit der Bundespolizei abgestimmte Aufstockung.
 

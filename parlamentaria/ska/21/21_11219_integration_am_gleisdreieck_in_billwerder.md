@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7486", "21/10093"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60206"
@@ -49,7 +50,7 @@ Wird die Geschwisterregelung für Kinder vom Gleisdreieck angewandt?
 
 Was passiert, wenn nicht ausreichend Kinder von außerhalb der Unterkunft angemeldet werden, um zu gewährleisten, dass maximal vier Flüchtlingskinder pro Klasse unterrichtet werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Soweit es im Sinne einer gelingenden Integration erforderlich ist, müssen auch Geschwister eine andere Schule als die nächstgelegene besuchen, siehe § 28 b Absatz 2 Hamburgisches Schulgesetz (HmbSG). Die angestrebte Verteilung gilt dabei unabhängig von der Anzahl anderweitiger Anmeldungen, siehe auch Antworten zu 3. und 7.
 
@@ -101,6 +102,6 @@ Gilt die Regelung von maximal vier Flüchtlingskindern pro Klasse auch für Vors
 
 Ist dem Senat bekannt, dass eine Vorschulklasse der Schule am Mittleren Landweg aus sieben einheimischen Kindern und 16 Kindern aus der Flüchtlingsunterkunft besteht? Wenn ja, wie bewertet der Senat diese Konstellation?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Gemäß §28 a HmbSG werden alle Kinder, bei denen in der Viereinhalbjährigenuntersuchung ein Sprachförderbedarf festgestellt wird, vorzeitig schulpflichtig und müssen deshalb vorrangig versorgt werden. Dies ist unabhängig davon, ob sie einen Fluchthintergrund haben oder nicht. Um der besonderen Situation in der VSK am Mittleren Landweg Rechnung zu tragen, wurde eine zusätzliche Stelle für die Vorschulklasse eingerichtet.

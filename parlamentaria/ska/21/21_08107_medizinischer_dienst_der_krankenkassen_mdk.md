@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 16
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6713"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56799"
@@ -71,7 +72,7 @@ In wie viel Prozent der Fälle waren die Widersprüche erfolgreich?
 
 Wie viele Versicherte legen nach dem ersten Widerspruch einen weiteren Widerspruch ein?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Daten hierzu werden beim MDK Nord nicht erhoben.
 
@@ -83,7 +84,7 @@ Wie viele Klagen gegen Beurteilungen des MDK wurden in den Jahren 2015 und 2106 
 
 Wie viel Prozent der Klagen waren erfolgreich?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Hierzu liegen keine Daten vor. Die Klagen richten sich nicht gegen die Gutachten des MDK, sondern gegen Leistungsentscheidungen der Kranken- oder Pflegekassen. Siehe hierzu Drs. 21/6713.
 

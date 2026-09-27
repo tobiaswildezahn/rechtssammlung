@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16437"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67281"
@@ -158,7 +159,7 @@ Welche Stellenvakanzen gibt es seit 2016 in den Hamburger Akutstationen (bitte a
 
 Wie viele Überlastungsanzeigen gibt es seit 2016 in den Akutstationen (bitte nach Jahr, Krankenhaus, Angabe, ob geschlossene oder offene Station)?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Laut Auskunft der Plankrankenhäuser werden keine Statistiken geführt, aus der die nachgefragten Angaben abrufbar wären. Eine Sonderauswertung aus vorhandenen Daten wäre – soweit überhaupt und in der gewünschten Detailtiefe möglich – in der verfügbaren Zeit nicht leistbar.
 

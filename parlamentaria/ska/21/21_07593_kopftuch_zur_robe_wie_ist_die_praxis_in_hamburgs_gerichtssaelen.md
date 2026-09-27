@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56228"
@@ -55,7 +56,7 @@ Wie viele Rechtsreferendarinnen und/oder Richterinnen beziehungsweise Staatsanw�
 
 Gab es seit dem Jahre 2012 Schöffinnen, die ein muslimisch motiviertes Kopftuch getragen haben? Haben sie diese auch bei Ausübung hoheitlicher Tätigkeiten mit Außenwirkung getragen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Beim Sozialgericht und beim Landgericht sind je zwei Fälle erinnerlich, in denen ehrenamtliche Richterinnen Kopftücher in der mündlichen Verhandlung getragen haben. Im Übrigen sind keine Fälle bekannt geworden.
 

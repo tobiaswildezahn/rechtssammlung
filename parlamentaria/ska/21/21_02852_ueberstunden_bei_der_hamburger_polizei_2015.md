@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1122", "21/2556"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51171"
@@ -92,7 +93,7 @@ Wie ist der weitere Anstieg zu erklären?
 
 Was soll gegen den weiteren Anstieg unternommen werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Überstunden lagen im normalen einsatzbedingten Schwankungsbereich.
 

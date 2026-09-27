@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11910"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62801"
@@ -69,9 +70,9 @@ Welche Grenzwerte der Bakterien- und Keimkonzentration gelten für die Badegewä
 
 In Hamburg gelten die folgenden Grenzwerte für Badegewässer:
 
- Escherichia coli: 1.800 KBE/100 ml,
+– Escherichia coli: 1.800 KBE/100 ml,
 
- Intestinale Enterokokken: 700 KBE/100 ml.
+– Intestinale Enterokokken: 700 KBE/100 ml.
 
 ### Frage 4
 
@@ -97,7 +98,7 @@ Inwiefern werden die einzelnen Hamburger Badegewässer jeweils im Sinne der euro
 
 In welchem Turnus werden die Hamburger Badegewässer auf ihre Keimund Bakterienkonzentration beprobt? Inwiefern wurde/wird dieser Untersuchungsturnus in Warmwetterphasen wie der jetzigen verkürzt beziehungsweise intensiviert?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 1.
 
@@ -126,15 +127,15 @@ Badeverbote können unabhängig von einer Ausweisung als Badegewässer ausgespro
 
 Es wurden seit 2011 folgende Maßnahmen am Eichbaumsee durchgeführt:
 
- 2011 und 2012: Applikation von Bentophos zur Nährstoffausfällung durch die
+– 2011 und 2012: Applikation von Bentophos zur Nährstoffausfällung durch die
 
 zuständige Fachbehörde,
 
- 2013: Umsetzung von Maßnahmen zur Renaturierung der Uferstruktur durch das
+– 2013: Umsetzung von Maßnahmen zur Renaturierung der Uferstruktur durch das
 
 zuständige Bezirksamt,
 
- Fortlaufendes Monitoringprogramm durch die zuständige Fachbehörde.
+– Fortlaufendes Monitoringprogramm durch die zuständige Fachbehörde.
 
 Die Kosten für diese Maßnahmen belaufen sich auf rund 400.000 Euro.
 

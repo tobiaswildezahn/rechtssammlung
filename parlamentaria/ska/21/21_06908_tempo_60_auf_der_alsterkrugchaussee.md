@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["17/908"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55498"
@@ -67,7 +68,7 @@ Gibt es belastbare Erkenntnisse, dass dadurch die Lärmbelastung zugenommen hat?
 
 Gibt es belastbare Erkenntnisse, dass durch ein generelles Tempolimit von 50 km/h auf der Alsterkrugchaussee die Lärmbelastung nennenswert verringert wird? Wenn ja: um wie viel db? Bitte die die entsprechenden Untersuchungen mit Quelle angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nach den Vorgaben der Verkehrslärmschutzverordnung (16. BImSchV) resultiert aber aus einer Erhöhung der zulässigen Höchstgeschwindigkeit von 50 km/h auf 60 km/h rechnerisch eine Zunahme der Beurteilungspegel um 2 dB(A). Eine Reduzierung der zulässigen Höchstgeschwindigkeit ergibt rechnerisch einen Rückgang im gleichen Maße.
 

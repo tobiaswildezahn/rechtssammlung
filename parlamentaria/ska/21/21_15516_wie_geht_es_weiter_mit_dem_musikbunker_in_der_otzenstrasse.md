@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64981"
@@ -57,11 +58,11 @@ Wann, auf welcher Grundlage und mit welcher genauen Begründung wurde die Nutzun
 
 Das zuständige Bezirksamt hat die Nutzung als Musikbunker mit Anordnung vom 28. August 2018 auf der Grundlage von § 3 Absatz 1 Satz 1 und § 58 Absatz 1 der Hamburgischen Bauordnung (HBauO) untersagt, da Auflagen zur Belüftung und zum Schallschutz der Räume nicht umgesetzt worden sind und daher erhebliche sicherheitstechnische Bedenken bestehen. Im Einzelnen:
 
- Für die Nutzung von Räumen als Musikübungsräume enthält die Baugenehmigung
+– Für die Nutzung von Räumen als Musikübungsräume enthält die Baugenehmigung
 
 vom 12. Mai 2016 als Auflage den Einbau einer mechanischen Lüftungsanlage sowie den permanenten Verschluss der als Bestand in den Außenwänden vorhandenen Lüftungsöffnungen. Die bestehenden Lüftungsöffnungen sind für eine ausreichende Belüftung der Räumlichkeiten nicht ausreichend.
 
- Gebäude müssen einen ihrer Nutzung entsprechenden Schallschutz haben. Die
+– Gebäude müssen einen ihrer Nutzung entsprechenden Schallschutz haben. Die
 
 nicht permanent verschlossenen Lüftungsöffnungen aus der Errichtungszeit des Bunkers führen dazu, dass durch die Nutzung als Musikübungsräume eine erhebliche Lärm- und damit Gesundheitsbelastung des umgebenden Wohngebietes beziehungsweise der dort lebenden Nachbarinnen und Nachbarn entsteht.
 
@@ -124,15 +125,15 @@ Mit welchen Instrumenten fördert der Senat derzeit die Musikwirtschaft in Hambu
 
 Im Rahmen der Förderung der Musikwirtschaft kommen vielfältige Instrumente von der Beratung und Vernetzung bis hin zu Finanzierungshilfen zum Einsatz. Hervorzuheben sind dabei
 
- für die Livemusikclubs der Live Musik Fonds mit dem Live Concert Account
+– für die Livemusikclubs der Live Musik Fonds mit dem Live Concert Account
 
 sowie dem Club Award (https://www.hamburg.de/bkm/liveconcertaccount/),
 
- für Musiklabels die Hamburger Labelförderung (https://www.hamburg.de/
+– für Musiklabels die Hamburger Labelförderung (https://www.hamburg.de/
 
 labelfoerderung/),
 
- für innovative Geschäftsmodelle in der Musikwirtschaft das Programm Music
+– für innovative Geschäftsmodelle in der Musikwirtschaft das Programm Music
 
 WorX (https://www.hamburg.de/music-worx/).
 

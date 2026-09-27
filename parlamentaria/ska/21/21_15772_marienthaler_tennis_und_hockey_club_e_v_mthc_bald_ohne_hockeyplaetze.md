@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13680"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65275"
@@ -77,7 +78,7 @@ Durch wen wurden die Pachtverträge aus welchen Gründen gekündigt?
 
 Was ist Gegenstand des Kündigungsschreibens?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Mietvertrag über die südliche Teilfläche wurde vom zuständigen Bezirksamt gekündigt. Darüber hinaus ist ein Vertrag in Vorbereitung, der die weitere Nutzung der ebenfalls auf der südlichen Teilfläche gelegenen Kunstrasenfläche durch den MTHC sicherstellt. Im Übrigen siehe Vorbemerkung.
 

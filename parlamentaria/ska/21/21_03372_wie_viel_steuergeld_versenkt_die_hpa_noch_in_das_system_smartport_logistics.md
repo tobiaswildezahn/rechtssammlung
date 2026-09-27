@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2950"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51709"
@@ -53,19 +54,19 @@ Welche Funktionen bringt das neue Slotbuchungssystem für Trucker von DAKOSY mit
 
 Folgende Funktionen sind im Slotbuchungsverfahren (SBV) implementiert:
 
- Voranmeldung von Containertransporten durch Fuhrunternehmen an Terminals,
+– Voranmeldung von Containertransporten durch Fuhrunternehmen an Terminals,
 
- Rückmeldung von Statusinformationen an Fuhrunternehmen von den Terminals zu
+– Rückmeldung von Statusinformationen an Fuhrunternehmen von den Terminals zu
 
 den Containern zur Vermeidung unnötiger Leerfahrten,
 
- Bestätigung eines Zeitfensters vom Slotmanagementsystem nach Beantragung für
+– Bestätigung eines Zeitfensters vom Slotmanagementsystem nach Beantragung für
 
 die Abfertigung oder Ablehnung mit einem Hinweis auf alternative Zeitfenster,
 
- Gate-in/Gate-out-Meldungen an Fuhrunternehmen zu ihren Containern,
+– Gate-in/Gate-out-Meldungen an Fuhrunternehmen zu ihren Containern,
 
- Bündelung der Kommunikation über den TR02 InfoHub:
+– Bündelung der Kommunikation über den TR02 InfoHub:
 
 o Fuhrunternehmen erreicht mit einem Anschluss alle teilnehmenden Terminals,
 
@@ -89,7 +90,7 @@ Seit wann war dem Senat beziehungsweise den zuständigen Behörden und der HPA b
 
 Haben der Senat beziehungsweise die zuständigen Behörden und die HPA bei der Entwicklung und Etablierung des Systems im Hamburger Hafen unterstützt? Wenn ja, in welcher Form? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Ziel einer umfangreichen IT-Unterstützung im Hamburger Hafen ist die Optimierung des Gesamtsystems durch eine optimale Koordination von Verkehr, Infrastruktur und Warenfluss. Die HPA unterstützt seit Langem das Vorhaben der Terminalbetreiber, ein Slotbuchungsverfahren einzuführen. Unter anderem wurde aus diesem Grund im Jahr 2014 eine Arbeitsgruppe „Optimierung Truckabläufe“ zur Verbesserung der Waren- und Verkehrsflüsse im Hamburger Hafen unter Leitung von DAKOSY geschaffen, in der die HPA, HHLA, Eurogate und DAKOSY gemeinsam zukünftige Prozesse und das Zusammenspiel der eingesetzten IT-Systeme erarbeiten. Ziel ist die Koordination der Aktivitäten aller Beteiligten im Sinne einer Optimierung des Lkw-Verkehrs im Hamburger Hafen.
 

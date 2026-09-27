@@ -10,12 +10,13 @@ urheber: ["Martin Bill"]
 fraktionen: ["GRÜNE"]
 vorgang: 50304
 seiten: 1
-fragen: 0
-einzelfragen: 0
-antwortbloecke: 0
+fragen: 1
+einzelfragen: 3
+antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5833"]
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54987"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/54987/21_06427_angebotsverbesserungen_zum_fahrplanwechsel_bei_der_hochbahn"
 abgerufen: "2026-09-26"
@@ -27,9 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Martin Bill (GRÜNE) vom 24.10.16 und Antwort des Senats · Drucksache vom 01.11.2016  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/54987) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/54987/21_06427_angebotsverbesserungen_zum_fahrplanwechsel_bei_der_hochbahn)
 
-## Volltext
-
-Angebotsverbesserungen zum Fahrplanwechsel bei der HOCHBAHN
+## Einleitung für die Fragen
 
 Im Rahmen der Drs. 21/5833 wurde der Bürgerschaft sowohl über die geplante Anpassung des HVV-Gemeinschaftstarif berichtet als auch über geplante Angebotsverbesserungen zum Fahrplanwechsel.
 
@@ -37,13 +36,21 @@ Hinsichtlich der Buslinien sind dort zehn Einzelmaßnahmen aufgeführt, hinsicht
 
 Ich frage den Senat:
 
+## Einleitung für die Antworten des Senats
+
 Der Senat beantwortet die Frage auf der Grundlage von Auskünften der Hamburger Hochbahn AG (HOCHBAHN) wie folgt:
+
+## Fragen und Antworten
+
+### Frage 1
 
 Sind zum Fahrplanwechsel 2017 Angebotsverbesserungen auf den U-Bahn- Linien geplant?
 
 Wenn ja, welche?
 
 Wenn nein, warum nicht?
+
+#### Antwort zu Frage 1
 
 Zum Fahrplan 2017 (gültig ab 11. Dezember 2016) sind folgende Maßnahmen zur Verbesserung des Leistungsangebotes der U-Bahn vorgesehen:
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14509"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49635"
@@ -79,7 +80,7 @@ Wie viele Verkehrsschilder wurden in den Jahren 2011, 2012, 2013 und 2014 ausget
 
 Bei wie vielen derzeit vorhandenen Verkehrsschildern ist wegen schlechter Lesbarkeit oder fehlender Reflexion ein Austausch erforderlich?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Anzahl der ausgetauschten Schilder sowie der Grund für den Austausch werden statistisch nicht erfasst und können in der zur Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht ermittelt werden.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10682", "21/10791"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65495"
@@ -47,7 +48,7 @@ Wie ist der aktuelle Sachstand zum Umzug der Generalstaatsanwaltschaft und der S
 
 Wann wird der Umzug erfolgen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Generalstaatsanwaltschaft ist am 09. und 10. Januar 2019 umgezogen. Die Staatsanwaltschaft wird nach derzeitigen Planungsstand ab 18. März 2019 umziehen.
 

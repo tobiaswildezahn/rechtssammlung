@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7000", "21/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54544"
@@ -135,7 +136,7 @@ Welche Beratungsangebote zur Prävention vor HIV und im Falle einer Infektion mi
 
 Welche Beratungsangebote zur Prävention vor HIV und im Falle einer Infektion mit HIV oder Aids gibt es in Hamburg, die spezialisiert Männer beraten? (Bitte nach Einrichtungen auflisten.)
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Beratungsstelle „ragazza“ richtet sich mit dem Teilprojekt „contact“ für den Bereich AIDS- und sexually-transmitted-diseases(STD)-Prävention ausschließlich an Sexarbeiterinnen in der Hamburger Apartmentszene mittels aufsuchender Arbeit. „Hein und Fiete – der schwule Checkpoint“, wendet sich an schwule und bisexuelle Männer. Das „Basis-Projekt“ ist eine Anlauf- und Beratungsstelle ausschließlich für männliche Prostituierte.
 

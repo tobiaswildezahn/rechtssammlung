@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 18
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11559"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61281"
@@ -47,7 +48,7 @@ Wie ist der genaue Zeitplan für die Beschlussfassung und Umsetzung der Sanierun
 
 Wann genau ist der Baubeginn vorgesehen? Wann soll die Sanierung abgeschlossen sein? Wann soll der Mietbeginn sein und das Gebäude wieder von der Universität genutzt werden können?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die konkreten Termine stehen noch nicht fest, da die Planungen hierzu noch nicht abgeschlossen sind.
 
@@ -67,7 +68,7 @@ Wann soll der Bürgerschaft eine Drucksache zur Entscheidung über dieses Projek
 
 Welche einzelnen Kostenberechnungen oder Kostenschätzungen liegen für die Sanierung des Philosophenturms derzeit im Einzelnen mit welchen Ergebnissen vor?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Ein verbindliches Mietangebot wird im Frühjahr 2018 erwartet. Kostenberechnungen oder Kostenschätzungen mit belastbaren Kostenrisiken liegen der zuständigen Behörde noch nicht vor. Im Übrigen siehe Antwort zu 1. und 2.
 

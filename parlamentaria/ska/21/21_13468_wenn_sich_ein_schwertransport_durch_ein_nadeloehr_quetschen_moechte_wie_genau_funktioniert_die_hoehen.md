@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62829"
@@ -45,7 +46,7 @@ Wie oft wurde die Höhenkontrolle vor dem Elbtunnel in den Jahren seit 2011 jewe
 
 Wie oft wurde die Höhenkontrolle vor dem Elbtunnel in den Jahren seit 2011 jeweils in Fahrtrichtung Süden ausgelöst? Bitte jahresweise inklusive des laufenden Jahres aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Jahr  
 Höhenkontrolle Nord  
@@ -136,7 +137,7 @@ Wie viele Anfahrschäden wurden am Elbtunnel in den Jahren seit 2011 jeweils bei
 
 Wie viele Anfahrschäden wurden am Elbtunnel in den Jahren seit 2011 jeweils bei der Einfahrt in Fahrtrichtung Süden verursacht, welche Kosten sind dadurch entstanden und wer hat diese Kosten zu welchen Teilen jeweils getragen? Bitte jahresweise inklusive des laufenden Jahres aufschlüsseln.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Tunnelschäden (keine Selektion nach Nord und Süd oder Anfahrschäden möglich)  
 Jahr  

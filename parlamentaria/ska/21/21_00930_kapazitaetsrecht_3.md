@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/307", "21/394"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49095"
@@ -97,7 +98,7 @@ Wie hoch sind die Gerichtskosten, die die Hochschulen tragen mussten beziehungsw
 
 Wie hoch sind die Rechtsanwaltskosten, die die Hochschulen tragen mussten beziehungsweise müssen, weil Gerichte das Ausbildungskapazitätsgesetz als Grundlage für die Beschränkung der Zulassungszahlen für unzureichend gehalten haben? Bitte nach Hochschulen aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

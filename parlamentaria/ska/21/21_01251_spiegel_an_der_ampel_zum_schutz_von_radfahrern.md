@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49443"
@@ -43,21 +44,21 @@ Hält der Senat die Anbringung solcher Spiegel für sinnvoll? Wenn nein: warum n
 
 Nein. Derartige Verkehrsspiegel ermöglichen einen Einblick allenfalls vor dem Abbiegen und nicht während des Abbiegens, sind bei durchgängiger Fahrt wirkungslos und bergen unter anderem folgende Sicherheitsrisiken:
 
- Spiegelbildliche Darstellungen und Verzerrungen der realen Verkehrssituation
+– Spiegelbildliche Darstellungen und Verzerrungen der realen Verkehrssituation
 
 führen zu Fehleinschätzungen.
 
- Unterscheidungen zwischen fahrenden und haltenden Fahrzeugen sind erst nach
+– Unterscheidungen zwischen fahrenden und haltenden Fahrzeugen sind erst nach
 
 längeren Beobachtungen möglich.
 
- Klimatische Einflüsse wie Regen, Kondenswasser, Schnee, Eis und so weiter sind
+– Klimatische Einflüsse wie Regen, Kondenswasser, Schnee, Eis und so weiter sind
 
 über große Teile des Jahres zu bestimmten Tages- oder Nachtzeiten für die Funktion der Spiegel nachteilig oder machen sie ganz unwirksam.
 
- Bei Sonneneinstrahlung können Verkehrsteilnehmer geblendet werden.
+– Bei Sonneneinstrahlung können Verkehrsteilnehmer geblendet werden.
 
- Im Laufe der Zeit senkt die Materialanfälligkeit, die sich hauptsächlich durch Blind-
+– Im Laufe der Zeit senkt die Materialanfälligkeit, die sich hauptsächlich durch Blind-
 
 stellen bemerkbar macht, den Gebrauchswert erheblich.
 

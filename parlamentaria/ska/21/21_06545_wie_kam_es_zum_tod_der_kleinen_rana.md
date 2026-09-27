@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3221", "21/3238"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55080"
@@ -59,7 +60,7 @@ Welche Ergebnisse und/oder Folgen zeitigte das Ermittlungsverfahren?
 
 Ist der Tod Ranas auf einen Behandlungsfehler zurückzuführen? Wenn ja, worin bestand dieser, wo wurde er gemacht und welche Konsequenzen wurden gezogen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Antwort zu 1.
 

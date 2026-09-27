@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 26
 antwortbloecke: 23
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9662", "20/14495", "20/11361", "20/13635", "20/14501"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48667"
@@ -121,7 +122,7 @@ b) den Betrieb sämtlicher Anlagen zur Videoüberwachung?
 c) Beschaffung und Installation neuer Notrufanlagen?
 d) den Betrieb sämtlicher Notrufanlagen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Für die Anlage in Langenhorn-Markt sind Kosten für Videoüberwachung und Notrufanlagen in Höhe von 164.266,28 Euro entstanden. Für die Anlagen Berne und Elbgaustraße sind die Schlussabrechnungen noch nicht erfolgt.
 
@@ -405,11 +406,11 @@ zuerst die zu erfassenden Zielgrößen ermittelt, auf deren Basis spätere Progn
 
 entwickelt werden konnten.
 
- Auslastung des Parkraums im Umfeld der P+R-Anlagen
+– Auslastung des Parkraums im Umfeld der P+R-Anlagen
 
- Auslastung der P+R-Anlagen
+– Auslastung der P+R-Anlagen
 
- Nutzerprofildaten der P+R-Nutzer
+– Nutzerprofildaten der P+R-Nutzer
 
 Anhand dieser Zielgrößen wurde ein entsprechendes Erhebungs- und Auswertungskonzept zur
 
@@ -569,19 +570,19 @@ Folgende Feststellungen lassen sich bereits einen Monat nach Entgelteinführung 
 
 erfassen:
 
- wie im P+R-Entwicklungskonzept prognostiziert, fand ein starker temporärer Rückgang der
+– wie im P+R-Entwicklungskonzept prognostiziert, fand ein starker temporärer Rückgang der
 
 Auslastungen an den kostenpflichtigen P+R-Anlagen statt
 
- anders als erwartet konnte jedoch keine signifikante Auswirkung der Entgelterhebung auf den
+– anders als erwartet konnte jedoch keine signifikante Auswirkung der Entgelterhebung auf den
 
 Parkraum im Umfeld festgestellte werden
 
- es konnte bereits in einem kurzen Zeitraum von drei Wochen eine Erholung des
+– es konnte bereits in einem kurzen Zeitraum von drei Wochen eine Erholung des
 
 Auslastungsrückgangs an den meisten Anlagen festgestellt werden
 
- das Finanzdefizites der P+R-Anlagen konnte durch den Verkauf von Monats- und Jahreskarten
+– das Finanzdefizites der P+R-Anlagen konnte durch den Verkauf von Monats- und Jahreskarten
 
 bereits jetzt reduziert werden
 

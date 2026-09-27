@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66411"
@@ -101,7 +102,7 @@ Ist in der Vergangenheit bereits strafrechtlich gegen Vorstandsmitglieder von Ad
 
 Sind Vorstandsmitglieder von Adil e.V. bereits im Rahmen strafrechtlicher Prozesse verurteilt worden? Falls ja, wann und weswegen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Im Hinblick auf das Persönlichkeitsrecht der Betroffenen und die gesetzlichen Wertungen des Bundeszentralregistergesetzes sieht der Senat davon ab, etwaige Ermittlungsverfahren mitzuteilen, die durch einen Freispruch oder eine Einstellung beendet worden sind. Dasselbe gilt für Ermittlungsverfahren, die zu einem Abschluss geführt haben, der entweder nicht in ein Führungszeugnis aufzunehmen oder nach den Tilgungsvorschriften des Bundeszentralregistergesetzes nicht mehr zu berücksichtigen ist. Eine Auskunft aus dem Bundeszentralregister vom 20. März 2019 zu einem Betroffenen enthält keine mitteilungsfähigen Eintragungen. Im Übrigen liegen keine entsprechenden Auskünfte vor.
 

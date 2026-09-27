@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1185"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56048"
@@ -62,7 +63,7 @@ Wenn keine Öffentlichkeitsbeteiligung erfolgt, ist die Antragstellerin/ Betreib
 
 Was spricht gegen eine Öffentlichkeitsbeteiligung?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Antragstellerin hat sich entschieden, ein sogenanntes nicht förmliches Genehmigungsverfahren zu beantragen. Sie hat bereits in der gemeinsamen Sitzung des Umweltausschusses und des Stadtentwicklungsausschusses am 21. November 2013 auf die unterschiedliche Verfahrensdauer zwischen vereinfachtem Verfahren und Verfahren mit Öffentlichkeitsbeteiligung hingewiesen.
 

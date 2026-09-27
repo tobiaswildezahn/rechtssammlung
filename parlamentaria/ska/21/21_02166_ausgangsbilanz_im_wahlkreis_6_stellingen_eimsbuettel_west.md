@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 26
 antwortbloecke: 24
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11181", "20/10803", "20/13192", "21/1282", "20/10896", "20/14230", "21/302", "20/37", "20/12562", "16/4616", "20/12229", "20/2474", "20/1847", "19/8016", "20/13767", "21/1928", "21/1602"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50469"
@@ -1228,37 +1229,37 @@ Wie viele Angehörige welchen Glaubens beziehungsweise welcher Religionszugehör
 
 Welche Kirchen, Synagogen, Moscheen beziehungsweise religiösen Gemeinden gibt es im Wahlkreis, differenziert nach Stadtteilen?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Katholische Kirche (Stand der Zahlen: 31. Dezember 2013)
 
 Zwei Pfarreien:
 
- St. Bonifatius Eimsbüttel (5.367 Katholiken im Ortsteil Eimsbüttel und 78 im Ortsteil
+– St. Bonifatius Eimsbüttel (5.367 Katholiken im Ortsteil Eimsbüttel und 78 im Ortsteil
 
 Stellingen)
 
- St. Ansgar Niendorf (2.255 Katholiken im Ortsteil Stellingen und 2.752 Katholiken
+– St. Ansgar Niendorf (2.255 Katholiken im Ortsteil Stellingen und 2.752 Katholiken
 
 im Ortsteil Eidelstedt)
 
 Nach Ortsteilen:
 
- Eimsbüttel: 5367 Katholiken
+– Eimsbüttel: 5367 Katholiken
 
- Stellingen: 2333 Katholiken
+– Stellingen: 2333 Katholiken
 
- Eidelstedt: 2752 Katholiken
+– Eidelstedt: 2752 Katholiken
 
- Gesamt: 10.452 Katholiken
+– Gesamt: 10.452 Katholiken
 
 Evangelische Kirche
 
- Kirchengemeinde Eimsbüttel mit der Apostel- und der Christuskirche
+– Kirchengemeinde Eimsbüttel mit der Apostel- und der Christuskirche
 
- Jerusalemgemeinde
+– Jerusalemgemeinde
 
- Kirchengemeinden in Eidelstedt und Stellingen mit vier Kirchen
+– Kirchengemeinden in Eidelstedt und Stellingen mit vier Kirchen
 
 Insgesamt gibt es im Wahlkreis vier Kirchengemeinden mit sieben Kirchengebäuden. Darüber hinaus liegen der zuständigen Behörde keine Daten im Sinne der Fragestellung vor.
 

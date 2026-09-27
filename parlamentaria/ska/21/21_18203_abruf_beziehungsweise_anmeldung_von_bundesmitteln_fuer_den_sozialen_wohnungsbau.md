@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67835"
@@ -77,6 +78,6 @@ Welchen Bedarf hat die FHH für Zwecke des sozialen Wohnungsbaus wann beim Bund 
 
 Wurden von der FHH auch über das Jahr 2020 hinaus bereits entsprechende Bedarfe beim Bund angemeldet? a. Wenn ja, in jeweils welcher jährlichen Höhe? b. Inwieweit wurden gegebenenfalls auch diese Bedarfe mit welcher Begründung um welche Summe gekürzt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Höhe der auf Hamburg entfallenden Bundesmittel für das Haushaltsjahr 2020 steht noch nicht fest. Die entsprechende Verwaltungsvereinbarung, in der die Höhe der auf die einzelnen Länder entfallenden Bundesmittel geregelt wird, liegt noch nicht vor.

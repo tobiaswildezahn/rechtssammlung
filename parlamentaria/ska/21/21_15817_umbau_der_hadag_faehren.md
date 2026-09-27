@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 17
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6799"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65316"
@@ -73,7 +74,7 @@ Welche Einzelmaßnahmen umfassen die Umbauarbeiten pro Schiff? Gibt es Abweichun
 
 Was ist das grundlegende Ziel dieser Umbauarbeiten?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 
@@ -155,6 +156,6 @@ Liegt man derzeit in dem geplanten Kostenrahmen?
 
 Liegt man aktuell in dem geplanten Zeitrahmen?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Ja.

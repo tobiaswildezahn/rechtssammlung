@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2257"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55194"
@@ -75,6 +76,6 @@ Wie beurteilen die HHA, der HVV und der Senat das Konzept Schnell- Bus aus heuti
 
 Gibt es Überlegungen, das SchnellBus-Konzept wieder mit den ursprünglich damit verbundenen Inhalten auszustatten (Reisebuskomfort, verringerte Halstestellendichte, Corporate Identity und so weiter), auch, um so ein zusätzliches Angebot und einen besonderen Anreiz für Autofahrer und Senioren zu schaffen, den HVV zu benutzen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Dies ist Gegenstand der Beantwortung des Bürgerschaftlichen Ersuchens Drs. 21/2257. Eine entsprechende Drucksache ist in Vorbereitung.

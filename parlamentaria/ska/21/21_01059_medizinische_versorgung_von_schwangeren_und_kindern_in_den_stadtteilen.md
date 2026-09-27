@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12014"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49236"
@@ -101,7 +102,7 @@ Wie hoch ist der Anteil der unter dreijährigen Kinder insgesamt in der Bevölke
 
 Wie hoch ist der Anteil der drei- bis unter sechsjährigen Kinder in der Bevölkerung im Stadtteil? Bitte in Prozentwerten und absoluter Zahl angeben.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Anlage 2.
 

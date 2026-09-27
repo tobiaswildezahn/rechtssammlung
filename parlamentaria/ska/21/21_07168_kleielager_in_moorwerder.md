@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 24
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55777"
@@ -67,7 +68,7 @@ Bei welchem Lieferanten wurde die Kleie beschafft? Bitte den Ausschreibungstext 
 
 Woher stammt die Kleie beziehungsweise an welchen Orten wurde sie gewonnen? a. Wurden Untersuchungen hinsichtlich möglicher Belastungen und Verunreinigungen der Kleie vorgenommen? Wenn ja: Welche Ergebnisse lieferten die Untersuchungen? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der Klei wird aus dem Vorlandabtrag am Spadenländer Busch/Kreetsand gewonnen. Dabei handelt es sich um eine Baumaßnahme der Hamburg Port Authority AÖR (HPA) im Rahmen des Tide-Elbe-Projektes. Eine Ausschreibung der Kleilieferung ist daher nicht erfolgt. Der Klei wurde auf Belastungen hin untersucht. Es wird nur deichbaugeeigneter Klei eingelagert. Im Übrigen siehe auch Antwort zu 10.
 
@@ -155,7 +156,7 @@ Wo sind Ausgleiche für welche konkreten Maßnahmen geplant?
 
 Welche Ausgleichmaßnahmen sind angedacht beziehungsweise festgelegt und wann soll mit diesen Maßnahmen begonnen werden?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Zur Kompensation werden ein sogenanntes Trittsteinbiotop und Blühstreifen mit einer Größe von rund 5.000 m² südlich des Kleidepots angelegt. Die Umsetzung erfolgt unmittelbar nach Abschluss der Kleieinlagerung.
 

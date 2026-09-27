@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 14
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50834"
@@ -99,7 +100,7 @@ Wird die Teilnahme an einer Ausbildung nach § 32 NotSanG und einem Vorbereitung
 
 Wie werden die finanziellen Nachteile durch Wegfall des DuZ, Fahrtkosten, Betreuungskosten für Kinder und so weiter für die Dauer der bis zu sechsmonatigen Ausbildung kompensiert?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Qualifizierung der vorhandenen Beschäftigten erfolgt unter Fortzahlung der Bezüge beziehungsweise des Gehaltes. Davon ausgenommen sind Erschwerniszulagen, wie zum Beispiel die Zulage für Dienst zu ungünstigen Zeiten. Diese dürfen ohne Vorliegen des entsprechenden Erschwernisses nicht gewährt werden.
 

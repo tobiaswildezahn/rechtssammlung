@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57307"
@@ -63,7 +64,7 @@ Wann wird das entsprechende Konzept vorgelegt?
 
 Haben Bundesbehörden entsprechende Gespräche geführt und/oder ein solches Konzept vorgelegt? Wenn ja: Wo kann man das Konzept nachlesen? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Antwort zu 1.
 

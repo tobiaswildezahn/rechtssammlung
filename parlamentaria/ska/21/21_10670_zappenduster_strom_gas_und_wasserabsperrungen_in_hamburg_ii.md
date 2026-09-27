@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59569"
@@ -84,7 +85,7 @@ Wie hoch waren die Forderungen der Stromversorger im Durchschnitt in den Jahren 
 
 Wie hoch waren die Forderungen der Stromversorger im Durchschnitt in den Jahren 2016 und 2017 bis aktuell bei tatsächlicher Durchführung der Stromsperrungen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Bildung eines Durchschnittswertes über die Stromversorger kann nicht erfolgen, da der zuständigen Behörde die hierzu erforderlichen Geschäftsdaten der Unternehmen nicht vorliegen.
 

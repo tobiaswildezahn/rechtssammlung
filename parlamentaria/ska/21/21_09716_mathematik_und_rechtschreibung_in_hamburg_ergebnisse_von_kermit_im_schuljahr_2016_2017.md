@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5731", "21/6622", "21/1490", "21/5587", "21/4659"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58516"
@@ -55,7 +56,7 @@ Wann wurden im Schuljahr 2016/2017 welche KERMIT-Erhebungen durchgeführt?
 
 Welche inhaltlichen Schwerpunkte hatten die KERMIT-Tests im Schuljahr 2016/2017 jeweils?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Tabelle 1: Testzeitraum und Testbereiche der KERMIT-Erhebungen im Schuljahr 2016/2017
 
@@ -126,7 +127,7 @@ Bei KERMIT gibt es fünf Kompetenzstufen, in die die Ergebnisse jeweils eingeord
 
 Wie viel Prozent der Ergebnisse sind jeweils welcher Kompetenzstufe zuzuordnen? Bitte einmal stadtweit angeben und dann aufschlüsseln nach Schulform. Bitte für jedes Fach und jeden Testbereich einzeln, wie in Drs. 21/5731.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Bei KERMIT werden unterschiedliche Bezugsnormen verwendet. In der dritten Jahrgangsstufe sind dies die von der Kultusministerkonferenz (KMK) vereinbarten Kompetenzstufen für das Ende der Primarstufe. In der achten Jahrgangsstufe sind dies die entsprechenden Kompetenzstufen für den ersten beziehungsweise mittleren Schulabschluss (ESA beziehungsweise MSA) sowie für den Testbereich Englisch der Gemeinsame europäische Referenzrahmen für Sprachen (GER). Diese ermöglichen eine kriteriale Einordnung der Ergebnisse. In der zweiten Jahrgangsstufe werden die Ergebnisse auf Fähigkeitsniveaus (A–D) zurückgemeldet. Diese ermöglichen eine kriteriale Einordnung der Ergebnisse. In den fünften, siebten und neunten/zehnten Jahrgangsstufen finden sogenannte Leistungsbereiche (I–IV) Eingang in die Rückmeldung. Diese ermöglichen einen sozialen Vergleich der Ergebnisse. Zur weiteren Erläuterung siehe Drs. 21/5731.
 
@@ -444,6 +445,6 @@ Laut Drs. 21/4659, Seite 10, sollen für das Monitoring im Bereich Begabtenförd
 
 Wenn hierzu noch keine Planungen bestehen: Warum nicht und zu wann werden sie vorliegen?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Entsprechend Drs. 21/4659 werden in den KERMIT-Ergebnisrückmeldungen die Schülerinnen und Schüler ausgewiesen, die bei der jeweiligen Testung in den jeweiligen Testbereichen zu den 5 Prozent Leistungsstärksten des gesamten Jahrgangs gehören. Zu Monitoringzwecken erhält die Beratungsstelle besondere Begabungen (BbB) für KERMIT 5 regelhaft pro Testbereich schulbezogene Ergebnisse zur Anzahl und zum Anteil aller Schülerinnen und Schüler, die zu den 5 Prozent leistungsstärksten Schülerinnen und Schülern des gesamten Jahrgangs gehören.

@@ -14,6 +14,7 @@ fragen: 31
 einzelfragen: 51
 antwortbloecke: 28
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4896", "21/8105", "21/8940", "21/6646", "21/5039", "21/8939"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58222"
@@ -260,7 +261,7 @@ bereits geprüft worden?
 Wenn ja: mit welchem Ergebnis?  
 Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 21 bis 22
+#### Antwort zu Fragen 21 und 22
 
 Siehe Drs. 21/8939
 

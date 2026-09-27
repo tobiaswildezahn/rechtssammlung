@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 31
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11458", "19/1652"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62516"
@@ -124,7 +125,7 @@ Auf der Pressekonferenz am 16.05.2018 informierte die Polizei Hamburg auch über
 
 Nach wie vielen Personen wird nur in einzelnen Ländern gefahndet und wie wird die Begrenzung der Suche auf ein einzelnes Land jeweils begründet?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Ergeben sich aus Ermittlungsverfahren Hinweise darauf, dass Personen aus bestimmten Ländern stammen könnten, so wird auch nur in diesen Ländern gefahndet. Dies stellt eine Mindermaßnahme zu einer europaweiten Fahndung dar und ergibt sich schon allein aus den Anforderungen an die Verhältnismäßigkeit. Im Übrigen siehe Vorbemerkung.
 

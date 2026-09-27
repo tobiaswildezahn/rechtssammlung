@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10866"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59880"
@@ -69,6 +70,6 @@ Wie schätzt der Senat mögliche Auswirkungen auf den anstehenden Verkaufsprozes
 
 Was unternimmt der Senat, um latente Risiken aus diesen Tätigkeiten der HSH Nordbank nicht übernehmen zu müssen (in vergleichbaren Fällen musste die NRW-eigene Portigon für die ehemalige WestLB einstehen)?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der Senat nimmt zu laufenden Verhandlungen zur Wahrung der Unbefangenheit des Verhandlungsprozesses in ständiger Praxis grundsätzlich nicht Stellung.

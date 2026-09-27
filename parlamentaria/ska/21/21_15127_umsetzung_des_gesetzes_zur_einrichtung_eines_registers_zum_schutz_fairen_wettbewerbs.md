@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8020", "21/12304"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64588"
@@ -77,7 +78,7 @@ Wie werden Gesetzesverstöße von Unternehmen, die außerhalb der Bundesrepublik
 
 Die Verfolgung von Verstößen gegen das Mindestlohngesetz obliegt dem Zoll, einer Bundesbehörde. Meldet der Zoll seine Erkenntnisse zur Eintragung in das Register? Falls nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Das GRfW kann als Landesgesetz nur die Strafverfolgungsbehörden der Freien und Hansestadt Hamburg (FHH) zur Meldung verpflichten, nicht jedoch Bundesbehörden oder andere Staaten der EU.
 

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 22
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7370", "21/10684", "21/8446", "21/9019", "21/11322", "21/5614"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61561"
@@ -91,7 +92,7 @@ Neben den oben angeführten zehn Pilotstrecken waren die Bürger vom Allgemeinen
 
 Sind für die beschiedenen Anträge bereits straßenverkehrsbehördliche Anordnungen erlassen worden? Wie stellt sich der typische Verfahrensablauf einer derartigen Verwaltungsentscheidung dar?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Bis zum Stichtag 9. März 2018 sind bei der zuständigen Straßenverkehrsbehörde 396 Anträge eingegangen. Weitere Bescheide im Sinne der Fragestellung hat die Straßenverkehrsbehörde bisher nicht erlassen. Darüber hinaus siehe Drs. 21/8446 und 21/9019.
 
@@ -119,19 +120,19 @@ Anhand welche konkreter inhaltlicher Kriterien wird die behördliche Entscheidun
 
 Die Zuarbeit zur Entscheidungsfindung seitens der zuständigen Behörde umfasste folgende Bestandteile:
 
- Aufbereitung der Verkehrsdaten der Örtlichkeit (gegebenenfalls Durchführung
+– Aufbereitung der Verkehrsdaten der Örtlichkeit (gegebenenfalls Durchführung
 
 einer Verkehrszählung),
 
- Lärmberechnung nach RLS 90 (durch ein externes Büro),
+– Lärmberechnung nach RLS 90 (durch ein externes Büro),
 
- Einschätzung der verkehrlichen Situation (Netzfunktion),
+– Einschätzung der verkehrlichen Situation (Netzfunktion),
 
- Einschätzung der Auswirkungen von straßenverkehrsrechtlichen Maßnahmen auf
+– Einschätzung der Auswirkungen von straßenverkehrsrechtlichen Maßnahmen auf
 
 den öffentlichen Personennahverkehr (ÖPNV) und den Wirtschaftsverkehr,
 
- Einschätzung möglicher Verlagerungseffekte als Folge straßenverkehrsrechtlicher
+– Einschätzung möglicher Verlagerungseffekte als Folge straßenverkehrsrechtlicher
 
 Maßnahmen.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66418"
@@ -39,27 +40,27 @@ Als „Paloma-Viertel“ wird die ehemals durch die sogenannten Esso-Häuser beb
 
 Der Bebauungsplan-Entwurf sieht unter anderem Folgendes vor:
 
- die für St. Pauli spezifische Durchmischung von Wohnen, Gewerbe, Einzelhandel
+– die für St. Pauli spezifische Durchmischung von Wohnen, Gewerbe, Einzelhandel
 
 und Hotel,
 
- Unterteilung des Plangebietes in fünf Baufelder, die von einer Quartiersgasse
+– Unterteilung des Plangebietes in fünf Baufelder, die von einer Quartiersgasse
 
 durchzogen werden,
 
- in den nördlichen Baufeldern 1 und 2 (am Spielbudenplatz): MK-Ausweisung
+– in den nördlichen Baufeldern 1 und 2 (am Spielbudenplatz): MK-Ausweisung
 
 (Kerngebiete nach § 7 Baunutzungsverordnung) mit reiner Gewerbe-, Einzelhandel- und Hotelnutzung,
 
- in den südlichen Baufeldern 3, 4 und 5 (an der Kastanienallee beziehungsweise
+– in den südlichen Baufeldern 3, 4 und 5 (an der Kastanienallee beziehungsweise
 
 Taubenstraße): MU-Ausweisung (Urbane Gebiete nach § 6a Baunutzungsverordnung) mit Gewerbe-/Einzelhandelsnutzung im Erdgeschoss und Wohnen in den darüber liegenden Geschossen,
 
- frei finanzierter Wohnungsbau im Baufeld 3, öffentlich geförderter Wohnungsbau
+– frei finanzierter Wohnungsbau im Baufeld 3, öffentlich geförderter Wohnungsbau
 
 im Baufeld 4 und Baugemeinschaften im Baufeld 5,
 
- Entstehung von insgesamt etwa 200 neuen Wohnungen, davon circa 62 Prozent
+– Entstehung von insgesamt etwa 200 neuen Wohnungen, davon circa 62 Prozent
 
 öffentlich geförderte Mietwohnungen und Wohnungen für Baugemeinschaften.
 
@@ -87,7 +88,7 @@ Auf welchem Stand befinden sich aktuell die Verhandlungen über den möglichen E
 
 Zu welchen Konditionen beabsichtigt die Freie und Hansestadt Hamburg derzeit, das Baufeld zu erwerben? Auf welcher Grundlage werden die derzeitigen Konditionen berechnet?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung. Im Übrigen sieht der Senat zur Wahrung seiner Verhandlungsposition und der Betriebs- und Geschäftsgeheimnisse etwaiger Vertragspartner in ständiger Praxis grundsätzlich davon ab, zu Verhandlungsverfahren Stellung zu nehmen.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63981"
@@ -54,7 +55,7 @@ Gemäß § 1597a BGB muss die Beurkundungsstelle im Falle eines Missbrauchsverda
 
 In wie vielen Fällen wurde gemäß § 85a AufenthG bei konkreten Anhaltspunkten einer missbräuchlichen Anerkennung der Vaterschaft wie verfahren?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Insgesamt wurden 13 Fälle durch die Ausländerbehörde in Prüfung genommen. In drei Fällen wurde ein Missbrauch festgestellt, in acht Fällen wurde kein Missbrauch festgestellt. Zwei Fälle befinden sich noch in Prüfung.
 

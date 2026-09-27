@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63331"
@@ -47,7 +48,7 @@ Welche Ursache beziehungsweise welcher Schaden liegt der Leckage beziehungsweise
 
 Woher stammt das dort austretende Leckwasser?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine quer über alle Bahnsteige verlaufende wasserführende Leitung an der Unterseite der Steintorbrücke weist eine kleine Korrosion auf, aus der häufiger, wenn auch geringfügig, Frischwasser austritt.
 

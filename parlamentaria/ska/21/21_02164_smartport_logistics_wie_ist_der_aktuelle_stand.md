@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4", "21/371", "21/1083"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50440"
@@ -73,19 +74,19 @@ Welche konkreten Maßnahmen hat der Senat beziehungsweise die HPA bisher unterno
 
 Zur Erhöhung des Nutzeranteils wurden folgende Maßnahmen durchgeführt:
 
- Vortrag auf Trucker-Informationsveranstaltung der Containerterminals zur Vorstel-
+– Vortrag auf Trucker-Informationsveranstaltung der Containerterminals zur Vorstel-
 
 lung des verbindlichen Slotmanagements
 
- Informationsveranstaltung für SPL-Kunden
+– Informationsveranstaltung für SPL-Kunden
 
- Kostenfreies Angebot zur Nutzung SPL
+– Kostenfreies Angebot zur Nutzung SPL
 
- Broschüre/Flyer
+– Broschüre/Flyer
 
- Vorträge auf verschiedenen externen Veranstaltung
+– Vorträge auf verschiedenen externen Veranstaltung
 
- Ansprache Großkunden (wie zum Beispiel DHL)
+– Ansprache Großkunden (wie zum Beispiel DHL)
 
 Im Übrigen siehe Drs. 21/1083.
 

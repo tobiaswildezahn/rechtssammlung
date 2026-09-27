@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10198", "21/9019"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59518"
@@ -55,7 +56,7 @@ Sind durch die Neuberechnungen weitere Straßenabschnitte hinzugekommen, die im 
 
 Wird es infolge der Neuberechnungen nötig sein, eine 3. Fortschreibung des Luftreinhalteplans für Hamburg vorzunehmen? Falls ja, wann wird dies geschehen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nein.
 

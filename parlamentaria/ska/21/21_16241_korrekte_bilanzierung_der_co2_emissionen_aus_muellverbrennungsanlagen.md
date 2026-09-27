@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2521"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65756"
@@ -65,9 +66,9 @@ rungsziel von 40% bis 2020 gegenüber den Emissionen von 1990 auf der Basis der 
 
 Im Rahmen des Hamburger Klimaplans (Drs. 21/2521) werden deshalb zwei Methoden, die einander ergänzen sollen, eingesetzt:
 
- Top Down: Nach der Verursacherbilanz des Statistikamtes Nord,
+– Top Down: Nach der Verursacherbilanz des Statistikamtes Nord,
 
- Bottom up: CO Minderungsbeitrag einzelner Projekte nach den Empfehlungen des
+– Bottom up: CO Minderungsbeitrag einzelner Projekte nach den Empfehlungen des
 
 Wuppertal Instituts zur Wirksamkeitsanalyse des Klimaplans.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52201"
@@ -61,25 +62,25 @@ Welche der unter 1. und 2. genannten Flächen sind: a. mit einem gültigen Bebau
 
 Folgende Flächen sind mit einem Bebauungsplan (B-Plan) gesichert:
 
- Baurstraße: B-Plan Othmarschen 40, eingeschränktes Wohngebiet
+– Baurstraße: B-Plan Othmarschen 40, eingeschränktes Wohngebiet
 
- Gaußstraße: B-Plan Ottensen 30, Gewerbegebiet
+– Gaußstraße: B-Plan Ottensen 30, Gewerbegebiet
 
- Suurheid: B-Plan Rissen 45/Sülldorf 22, Allgemeines Wohngebiet
+– Suurheid: B-Plan Rissen 45/Sülldorf 22, Allgemeines Wohngebiet
 
- Östlich Haferlöcken: B-Plan Billstedt 90, Parkanlage
+– Östlich Haferlöcken: B-Plan Billstedt 90, Parkanlage
 
- Elfsaal: B-Plan Jenfeld 25, im wesentlichen Wohnnutzung
+– Elfsaal: B-Plan Jenfeld 25, im wesentlichen Wohnnutzung
 
- Hörgensweg: B-Plan Eidelstedt 62, Gewerbegebiet
+– Hörgensweg: B-Plan Eidelstedt 62, Gewerbegebiet
 
- Ellerbeker Weg: B-Plan Schnelsen 12, reines Wohngebiet
+– Ellerbeker Weg: B-Plan Schnelsen 12, reines Wohngebiet
 
- Osterfeldstraße: B-Plan Eppendorf 7, Gewerbegebiet
+– Osterfeldstraße: B-Plan Eppendorf 7, Gewerbegebiet
 
- Ohkamp/Flughafenstraße: B-Plan Fuhlsbüttel 4, Parkfläche
+– Ohkamp/Flughafenstraße: B-Plan Fuhlsbüttel 4, Parkfläche
 
- Eiffestraße: B-Plan Borgfelde 8, Gewerbegebiet
+– Eiffestraße: B-Plan Borgfelde 8, Gewerbegebiet
 
 b. als potenzielle Wohnbauflächen in den Wohnungsbauprogrammen der Bezirke erkannt?
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5830"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57860"
@@ -89,7 +90,7 @@ e) Polizeiausbildungsstätten.
 
 In wie vielen öffentlichen Einrichtungen im Sinne von Artikel 7 sowie Polizeiausbildungsstätten bieten die islamischen Glaubensgemeinschaften gegenwärtig religiöse Betreuung an?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage.
 

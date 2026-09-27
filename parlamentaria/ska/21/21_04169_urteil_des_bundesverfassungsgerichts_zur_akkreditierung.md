@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3996", "21/1089"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52566"
@@ -49,7 +50,7 @@ Welche Regelungen des HmbHG und weiterer Hochschulgesetze und Verordnungen sind 
 
 Plant der Senat, hier Änderungen vorzunehmen? a. Wenn ja, wann und welche? Wenn nein, warum nicht? b. Gibt es koordinierende Gespräche und/oder Arbeitsgruppen mit anderen Bundesländern und den privaten Hochschulen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

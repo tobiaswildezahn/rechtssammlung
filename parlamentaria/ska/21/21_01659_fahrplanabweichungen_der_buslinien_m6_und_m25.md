@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49873"
@@ -52,7 +53,7 @@ c) montags bis freitags von 16 bis 18 Uhr ereignet haben.
 
 Wie haben sich die Daten speziell für die Linie M6 an der Haltestelle Borgweg im Zeitraum 2012 – 2015 entwickelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlagen 1 und 2.
 

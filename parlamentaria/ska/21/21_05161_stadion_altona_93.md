@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 24
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53637"
@@ -53,7 +54,7 @@ Wie sieht der aktuelle Zeitplan zum Umzug des Stadions an die Memellandallee aus
 
 Bis wann rechnet der Senat mit einer Entscheidung über den Umzug des Stadions?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung
 

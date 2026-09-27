@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52497"
@@ -154,15 +155,15 @@ Ausgewählter Zeitraum: Donnerstag 01. Januar 2015 bis Donnerstag 31. Dezember 2
 
 Schlüsselwerte
 
-• Summe betrachteter Zeitraum: 2.155.748
+– Summe betrachteter Zeitraum: 2.155.748
 
-• Täglicher Durchschnitt : 5.906
+– Täglicher Durchschnitt : 5.906
 
-• Monatliche Durchschnitt : 179.769
+– Monatliche Durchschnitt : 179.769
 
-• Tag mit der stärksten Nutzung : Mittwoch
+– Tag mit der stärksten Nutzung : Mittwoch
 
-• Tage der Analyseperiode mit der höchsten Frequenz :
+– Tage der Analyseperiode mit der höchsten Frequenz :
 
 1. Mittwoch 01. Juli 2015 (14.774)
 
@@ -170,7 +171,7 @@ Schlüsselwerte
 
 3. Donnerstag 02. Juli 2015 (14.057)
 
-• Verteilung pro Richtung
+– Verteilung pro Richtung
 
 Gurlittinsel_IN : 61%
 

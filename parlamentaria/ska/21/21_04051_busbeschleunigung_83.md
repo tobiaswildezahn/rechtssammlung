@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/73", "21/1823"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52449"
@@ -51,7 +52,7 @@ Wie viele Unfälle gab es seitdem in diesem Bereich? Bitte nach Unfällen mit Be
 
 Wie viele Unfälle gab es in diesem Bereich in der gleich langen Zeit vor Beginn dieser Baumaßnahmen? Bitte ebenso wie in Frage 2. aufschlüsseln.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Unfalllage im Mühlenkamp für die erfragten Zeiträume wurde durch eine Abfrage in der Unfalldatenbank Elektronische Unfalltypensteckkarte (EUSka) mit Stichtag am
 14. April 2016 ermittelt. Auswertbare Unfalldaten standen bis zum 29. Februar 2016 in EUSka zur Verfügung. Der Begriff „Auto“ ist in der Unfalldatenbank als suchfähiges Kriterium nicht hinterlegt. Insofern wurden unter diesem Begriff die Fahrzeugarten Kraftomnibusse, Lastkraftwagen und Personenkraftwagen subsummiert. Die Unfallauswertung für den Mühlenkamp erfolgte für den Bereich der Baumaßnahme von der Semperstraße (ausschließlich Knotenpunktbereich) bis zur Körnerstraße (einschließlich Knotenpunktbereich).
@@ -71,6 +72,6 @@ Haben der Senat oder die zuständige Behörde aufgrund der vielen Meldungen übe
 
 Wann liegt das Ergebnis der Evaluation der Maßnahmen der Busbeschleunigung am Mühlenkamp vor?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Das Projekt befindet sich in der Evaluationsphase. Siehe Drs. 21/73 und Drs. 21/1823. Im Übrigen siehe Antwort zu 2. und 3.

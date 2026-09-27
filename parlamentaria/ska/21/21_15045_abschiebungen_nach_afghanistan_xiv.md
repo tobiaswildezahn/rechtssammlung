@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10786"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64503"
@@ -106,9 +107,9 @@ g. Rechtskräftige Verurteilungen der jeweiligen Person zu Straftaten (mit Angab
 
 Im Hinblick auf das Persönlichkeitsrecht des Betroffenen und die gesetzlichen Wertungen des Bundeszentralregistergesetzes sieht der Senat davon ab, etwaige Ermittlungsverfahren mitzuteilen, die durch einen Freispruch oder eine Einstellung beendet worden sind. Dasselbe gilt für Ermittlungsverfahren, die zu einem Abschluss geführt haben, der entweder nicht in ein Führungszeugnis aufzunehmen oder nach den Tilgungsvorschriften des Bundeszentralregistergesetzes nicht mehr zu berücksichtigen ist. Eine aktuelle Auskunft des Bundeszentralregisters ist im Vorgangsverwaltungsund Vorgangsbearbeitungssystem MESTA nicht verfügbar. Aus MESTA ergeben sich mit Stand 16. November 2018, vorbehaltlich der vollständigen und richtigen Erfassung, folgende mitteilungsfähigen Verurteilungen:
 
-• § 255, § 253 Absatz 1, § 250 Absatz 1 Nummer 1b, § 249 Absatz 1, § 74, § 53, § 25 Absatz 2 StGB, § 29a Absatz 1 Nummer 2 BtMG (Tatanfang 14.11.2013): vier Jahre und vier Monate Gesamtfreiheitsstrafe
+– § 255, § 253 Absatz 1, § 250 Absatz 1 Nummer 1b, § 249 Absatz 1, § 74, § 53, § 25 Absatz 2 StGB, § 29a Absatz 1 Nummer 2 BtMG (Tatanfang 14.11.2013): vier Jahre und vier Monate Gesamtfreiheitsstrafe
 
-• § 21 Absatz 1 Nummer 1 StVG, § 69a StGB (Tatanfang 21.05.2014): sieben Monate Freiheitsstrafe mit Bewährung (widerrufen)
+– § 21 Absatz 1 Nummer 1 StVG, § 69a StGB (Tatanfang 21.05.2014): sieben Monate Freiheitsstrafe mit Bewährung (widerrufen)
 
 h. Wurde die Person aus der Strafhaft heraus abgeschoben?
 
@@ -181,7 +182,7 @@ Im Hinblick auf das Persönlichkeitsrecht des Betroffenen und die gesetzlichen W
 
 Nach diesen Maßstäben ergibt sich für eine Person aus MESTA mit Stand 16. November .2018, vorbehaltlich der vollständigen und richtigen Erfassung, folgende mitteilungsfähigen Verurteilung:
 
-• § 211 Absatz 1 und 2 StGB (Tatanfang 30.10.2003): Lebenslange Freiheitsstrafe
+– § 211 Absatz 1 und 2 StGB (Tatanfang 30.10.2003): Lebenslange Freiheitsstrafe
 
 Entsprechend 4. h.
 

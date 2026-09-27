@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3284", "21/7738", "21/335"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56368"
@@ -196,19 +197,19 @@ Für die Förderung eines familienfreundlichen Arbeitsplatzangebotes in Hamburg 
 
 Im Bereich der für Kultur zuständigen Behörde sind beispielhaft die folgenden Maßnahmen zu nennen, die allen Familien kostenlos zur Verfügung stehen:
 
- freier Eintritt für Kinder in staatliche Museen (bis 18 Jahre),
+– freier Eintritt für Kinder in staatliche Museen (bis 18 Jahre),
 
- freier Eintritt beim Familienmusiktag „Laut und Luise“,
+– freier Eintritt beim Familienmusiktag „Laut und Luise“,
 
- freier Eintritt beim „Internationalen Kinderfest“,
+– freier Eintritt beim „Internationalen Kinderfest“,
 
- freier Eintritt beim „BauTraum“ – Bau- und Spielaktion in der Hafen-City,
+– freier Eintritt beim „BauTraum“ – Bau- und Spielaktion in der Hafen-City,
 
- freier Eintritt beim „Lehmbaufestival“,
+– freier Eintritt beim „Lehmbaufestival“,
 
- freier Zugang zu Trainings der HipHop-Academy.
+– freier Zugang zu Trainings der HipHop-Academy.
 
- kostenfreier Impuls zur Leseförderung im Rahmen von BUCHSTART.
+– kostenfreier Impuls zur Leseförderung im Rahmen von BUCHSTART.
 
 Darüber hinaus bieten zahlreiche Einrichtungen von Kultur- und Freizeitangeboten in Hamburg Ermäßigungen für Kinder und Familien, siehe Drs. 21/3284.
 

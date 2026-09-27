@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3165", "21/16276", "21/12433"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69231"
@@ -85,7 +86,7 @@ Wie schätzt der Senat die Bedrohungslage islamischer Einrichtungen in Hamburg g
 
 Wie hat sich die Bedrohungslage islamischer Einrichtungen nach Einschätzung des Senats seit dem 1. Januar 2019 bis heute verändert?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/12433. Im Übrigen: unverändert.
 

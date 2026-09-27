@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48592"
@@ -81,29 +82,29 @@ Der Standplatzvergabe ist ein Auswahlverfahren mit fest definierten Auswahlkrite
 
 Bei den Subveranstalterflächen werden die einzelnen Flächen mit unterschiedlichen Anforderungen und Schwerpunkten ausgeschrieben. Im Zuge des Ausschreibungsverfahrens erfolgen eine Bietereignungsprüfung sowie die Bewertung der eingereichten Konzepte. Folgende Bewertungskriterien werden beurteilt:
 
- Gestaltung der Gesamtfläche/Dekoration
+– Gestaltung der Gesamtfläche/Dekoration
 
- Bebauung durch Hütten/Zelte oder Sonstiges
+– Bebauung durch Hütten/Zelte oder Sonstiges
 
- Thematische Umsetzung auf der Fläche
+– Thematische Umsetzung auf der Fläche
 
- Bühnenprogramm
+– Bühnenprogramm
 
- Medienwirksamkeit der Fläche
+– Medienwirksamkeit der Fläche
 
- Medienpartner
+– Medienpartner
 
- Aufenthaltsqualität
+– Aufenthaltsqualität
 
- Konzeptunterlagen ansprechend und vollständig
+– Konzeptunterlagen ansprechend und vollständig
 
- Abgrenzung der Gastronomie zur „Bunten Hafenmeile“
+– Abgrenzung der Gastronomie zur „Bunten Hafenmeile“
 
- Ausgewogenes Verhältnis zwischen Gastronomie und Handel
+– Ausgewogenes Verhältnis zwischen Gastronomie und Handel
 
- Zugänglichkeit für behinderte Menschen
+– Zugänglichkeit für behinderte Menschen
 
- Zusätzliche Attraktivitätspunkte
+– Zusätzliche Attraktivitätspunkte
 
 Die erforderlichen Gestattungen für die Ausschankbetriebe werden durch die zuständigen Bezirksämter gemäß § 12 des Gaststättengesetzes (GastG) in der gültigen Fassung erteilt.
 

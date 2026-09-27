@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55363"
@@ -49,7 +50,7 @@ Wie viele Tage im Jahr ist die Brücke seit 2011 tatsächlich beidseitig voll be
 
 Aufgrund welcher Arbeiten an der Brücke ist es seit 2011 wann zu welchen Voll- oder Teilsperrungen an welcher Fahrbahn beziehungsweise welcher Fahrspur aus welchem Grund oder Anlass gekommen? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In dem erfragten Zeitraum wurde die Köhlbrandbrücke grundinstand gesetzt. In diesem Rahmen wurden verschiedene Maßnahmen durchgeführt:
 

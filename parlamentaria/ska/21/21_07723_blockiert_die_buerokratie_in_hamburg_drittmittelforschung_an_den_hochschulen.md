@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56353"
@@ -82,7 +83,7 @@ Wie lang war jeweils der Zeitraum von der Antragsstellung der eingereichten bezi
 
 Wie lang war jeweils der Zeitraum von der Antragsstellung der eingereichten beziehungsweise der gestellten Drittmittelanträge der Hamburger Universitäten und Hochschulen in den Jahren 2011, 2012, 2013, 2014, 2015 und 2016 bis zum Beginn der jeweiligen beziehungsweise der beantragten Projekte? Bitte differenziert nach Jahr, Hochschule, nach Projektträger beziehungsweise bewilligender Stelle (Landesforschungsförderung, DFG, BMBF, EU et cetera) sowie nach den Zeitkategorien unter sechs Monate, sechs bis neun Monate, zehn bis zwölf Monate sowie über zwölf Monate und ohne Verweis auf andere Drucksachen auflisten.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Bei der Landesforschungsförderung Hamburg lag der Zeitraum zwischen Antragstellung der Drittmittelanträge und Fördermitteilung/Bewilligung der zuständigen Behörde an die Präsidien der Hochschulen für alle antragstellenden Hochschulen und Projekte bei acht Monaten (17. Januar 2014 bis 11. September 2014) in der ersten Ausschreibungsrunde (Forschungsverbünde, Graduiertenschulen, künstlerische Einzelvorhaben) und bei 6,5 Monaten (9. Mai 2016 bis 21. November 2016) in der zweiten Ausschreibungsrunde (Forschungsverbünde).
 

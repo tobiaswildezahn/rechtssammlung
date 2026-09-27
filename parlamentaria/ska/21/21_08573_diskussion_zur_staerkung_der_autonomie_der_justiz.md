@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57297"
@@ -57,13 +58,13 @@ Wenn nein, warum nicht?
 
 Nein. Der Gesetzgeber hat der Landesjustizverwaltung neben der Dienst- auch die Fachaufsicht über die Staatsanwaltschaften zugewiesen. Bei der Ausübung der Fachaufsicht sind die Vorgaben der Rechtsprechung zu beachten. Das bedeutet:
 
- Die Landesjustizverwaltung darf sich nicht von rechts- oder sachwidrigen Erwä-
+– Die Landesjustizverwaltung darf sich nicht von rechts- oder sachwidrigen Erwä-
 
 gungen leiten lassen.
 
- Nicht justizgemäße Erwägungen dürfen bei der Weisung keine Rolle spielen.
+– Nicht justizgemäße Erwägungen dürfen bei der Weisung keine Rolle spielen.
 
- Bei Ermessens-, Auslegungs- und Zweifelsfragen hat die Landesjustizverwaltung
+– Bei Ermessens-, Auslegungs- und Zweifelsfragen hat die Landesjustizverwaltung
 
 das Verbot der Ermessensüberschreitung, das Willkürverbot und das Gebot ausreichender Information über den zu entscheidenden Fall zu beachten.
 

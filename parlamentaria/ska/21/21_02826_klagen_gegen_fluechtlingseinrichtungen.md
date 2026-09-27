@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 17
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51127"
@@ -45,7 +46,7 @@ Laufende Klageverfahren: a. Gegen welche fertiggestellten, sich in Bau befindlic
 
 Abgeschlossene Klageverfahren: a. Welche Klageverfahren sind bereits abgeschlossen? (Bitte einzeln aufschlüsseln nach Bezirk, Standort, Platzzahl, Art der Unterbringung und Klagegrund.) b. Wie lange dauerten die Klageverfahren jeweils? (Bitte die genauen Zeitpunkte von Klageeinreichung bis Entscheidung pro Verfahren aufschlüsseln.) c. In welchen der unter a. genannten Fälle wurde zugunsten des Klägers entschieden? d. In welchen der unter a. genannten Fälle wurde zugunsten der FHH entschieden? e. In welchen der unter a. genannten Fälle wurde ein Vergleich hergestellt? Um welche Kompromisse handelte es sich dabei jeweils? f. In welchen der unter c. genannten Fälle wird die FHH in die nächste Instanz gehen beziehungsweise hat bereits in zweiter Instanz geklagt und mit welchem Ergebnis? g. In welchen der unter d. genannten Fälle ist der FHH bekannt, dass der/die Kläger in die nächste Instanz gehen? h. Wurden geplante Standorte aufgrund von Klageerfolgen komplett aufgegeben? Wenn ja, welche? i. Wie hoch waren jeweils die Gerichts- und Zusatzkosten wie zum Beispiel Gutachten, Sachverständige sowie die durch die Klagen verursachten Verwaltungskosten für die juristische Abwicklung der Klagen auf Beklagtenseite, Anwaltskosten, Personalkosten et cetera, die der FHH für die Klageverfahren unter a. entstanden? (Bitte einzeln und nach einzelnen aufschlüsseln.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Seit 2013 gab es insgesamt 19 abgeschlossene und sieben laufenden Gerichtsverfahren. Von den 19 abgeschlossenen Gerichtsverfahren sind 14 zugunsten der Freien und Hansestadt Hamburg (FHH) ausgegangen. In zwei Fällen gibt es Entscheidungen teilweise zugunsten und teilweise zulasten der FHH. In einem Fall wurde das Gerichtsverfahren gegenstandslos (Baugenehmigung nachgereicht). In drei Fällen fiel die Entscheidung des Gerichts zulasten der Stadt aus.
 

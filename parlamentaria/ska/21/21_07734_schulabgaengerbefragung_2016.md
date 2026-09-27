@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 17
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2941"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56363"
@@ -77,7 +78,7 @@ Warum publiziert die Behörde für Schule und Berufsbildung eine „Erfolgszahl�
 
 Ist es für den Senat und die Behörde für Schule und Berufsbildung ein Erfolg, wenn Jugendliche nach der Schule direkt, ohne Ausbildung, in Beschäftigung einmünden? Wenn ja, bitte begründen. Wenn nein, welche Maßnahmen plant der Senat, um diese Quote zu senken?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 
@@ -150,7 +151,7 @@ das Funktionspostfach
 
 uesb‐2016@hibb.hamburg.de in der JBA: Datentransport (Prozessbeschreibung siehe Anlage 4).
 
- Klassen 9 + 10 der STS
+– Klassen 9 + 10 der STS
 
 Abgebende Schulen
 

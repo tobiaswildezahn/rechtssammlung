@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54428"
@@ -51,7 +52,7 @@ Wo beginnt der Alsterradweg in Hamburg?
 
 Wo läuft er entlang?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe: https://www.geoportal-hamburg.de/Geoportal/geo-online/.
 
@@ -63,7 +64,7 @@ Auf welchen Streckenabschnitten besteht Sanierungsbedarf?
 
 Wann werden die entsprechenden Sanierungen vorgenommen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 
@@ -77,7 +78,7 @@ In welchen Abständen gibt es Hinweise auf den weiteren Streckenverlauf?
 
 Wie oft wechselt der Alsterradweg die Alsterseite? An welchen dieser Stellen gibt es entsprechende Hinweisschilder?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Wegweisungen erfolgen im Verlauf von Freizeitrouten in nicht vorgegebenen Abständen. Die Ausschilderung der Freizeitrouten ist im Einzelfall von der jeweiligen Streckenführung abhängig. Unterhalb der Fuhlsbüttler Schleuse wechselt der Alsterradweg die Alsterseite einmal an der Krugkoppelbrücke. Entlang der oberen Alster sind die Wege beidseitig des Flussufers geeignet, dem Verlauf der Freizeitroute 1 zu folgen.
 

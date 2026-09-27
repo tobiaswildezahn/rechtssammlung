@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 7
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62283"
@@ -43,7 +44,7 @@ Hat der Senat beziehungsweise die zuständige Behörde Kenntnis darüber, dass e
 
 Wie viele und welche verpflichtenden Fortbildungen oder Befragungen am Wochenende müssen Tagespflegepersonen wahrnehmen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Grundsätzlich erfolgt die Kindertagesbetreuung in Kitas durch pädagogische Fachkräfte nach Maßgabe von § 3 Landesrahmenvertrag „Kinderbetreuung in Tageseinrichtungen“. Danach sind als sogenannte Erstkräfte staatlich anerkannte Erzieherinnen und Erzieher, staatlich anerkannte Sozialpädagoginnen und Sozialpädagogen oder Personen mit vergleichbaren Abschlüssen und als Zweitkräfte staatlich anerkannte Kinderpflegerinnen und Kinderpfleger oder sozialpädagogische Assistentinnen und Assistenten einzusetzen. Sollen Personen ohne eine der genannten Qualifikationen eingesetzt werden, ist die Zustimmung der zuständigen Behörde erforderlich.
 

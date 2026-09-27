@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 37
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15872"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65887"
@@ -121,7 +122,7 @@ Gab es nach der Einführung von Personaluntergrenzen in den pflegesensitiven Ber
 
 Laut Drs. 21/15872 haben viele Krankenhäuser in Hamburg das Fehlermeldesystem CIRS (critical incident reporting system) eingeführt, in dem Beschäftigte Beinahe-Fehler melden können. In wie viel Prozent der CIRS-Meldungen seit 2015, die von Pflegekräften oder Pflegehilfskräften kommen, wurde als Ursache oder eine der Ursachen eine personelle Unterbesetzung angegeben und welche Maßnahmen ergaben sich aus diesen Meldungen? Bitte nach Jahr und Krankenhaus aufschlüsseln und gegebenenfalls jeweils abgeleitete Maßnahmen nennen.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Eine statistische Erfassung gemäß der Fragestellung erfolgt nicht.
 

@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 4
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1683"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52590"
@@ -43,6 +44,6 @@ Der Senat gab an, die Identität der Personen trotz ausländerrechtlich unklarer
 
 Wie viele dieser Personen a. halten sich nach wie vor im Bundesgebiet auf? b. sind mittlerweile freiwillig ausgereist? c. sind mittlerweile abgeschoben worden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/1683. Über die Medienberichterstattung hinaus liegen der zuständigen Behörde keine belastbaren Erkenntnisse über die konkrete Identität der Personen und ihren aktuellen Aufenthalt vor. Ohne gültigen Aufenthaltstitel ist ein Bezug von Geldleistungen nicht möglich.

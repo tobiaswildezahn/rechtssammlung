@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62744"
@@ -57,7 +58,7 @@ Wie viele Widersprüche wurden im Anmeldeverfahren für das Schuljahr 2018/2019 
 
 Wie viele der Widersprüche im Anmeldeverfahren für das Schuljahr 2018/2019 gegen die Zuweisung zu einer Grundschule wurden bisher wie beschieden und wie viele wurden noch nicht abschließend bearbeitet? Bitte für jeden Fall angeben, wann der jeweilige Widerspruch eingegangen ist und wann er gegebenenfalls beschieden wurde.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 
@@ -89,7 +90,7 @@ Wie viele Stellen für Rechtsreferenten, denen in der Schulbehörde die Rechtspr
 
 Wie viele der Stellen für Rechtsreferenten, denen in der Schulbehörde die Rechtsprüfung der Widersprüche gegen Verwaltungsakte der Schulen obliegt, waren in den Jahren seit 2011 jeweils besetzt und wie viele sind aktuell besetzt? Bitte nach Jahren aufschlüsseln.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Rechtsreferentinnen/ Rechtsreferenten
 

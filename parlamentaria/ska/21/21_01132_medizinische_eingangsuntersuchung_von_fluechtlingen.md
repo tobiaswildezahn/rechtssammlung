@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 20
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1116", "21/973", "20/11112"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49313"
@@ -97,7 +98,7 @@ Gibt es freiwillige und verpflichtende Untersuchungsbestandteile? a. Wenn ja, we
 
 Gibt es Flüchtlinge, die einzelne Untersuchungsbestandteile verweigert haben? Wenn ja, wie viele und welche Untersuchung wurde verweigert? Wie ist mit den Betroffenen verfahren worden? (Bitte aufschlüsseln für 2010 bis heute.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Eingangsuntersuchung ist verpflichtend, eine Impfung nicht.
 

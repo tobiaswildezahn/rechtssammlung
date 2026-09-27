@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 20
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13756"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48646"
@@ -176,7 +177,7 @@ Welche Methode (beispielsweise durch Abzug der durchschnittlichen Betriebskosten
 
 Welche Methodik wird angewendet, um beispielsweise quadratmeterunabhängige Komponenten der Nebenkosten (beispielsweise Antennenanschluss) adäquat zu berücksichtigen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Beim Hamburger Mietenspiegel werden die Netto-Kaltmieten erhoben. Im Rahmen der Datenauswertung 2013 wurden daher nur solche Wohnungen berücksichtigt, für die eine Nettokaltmiete erhoben werden konnte. Pauschale Abschläge oder Ähnliches wurden nicht vorgenommen.
 
@@ -204,7 +205,7 @@ Wie erfolgte die konkrete Ermittlung der Zu- und Abschläge vom Mittelwert (also
 
 Mit welcher Methodik erfolgt die Extremwertbereinigung und aus welchen Grund wurde sich für diese Methode entschieden?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Vor der eigentlichen Berechnung der Mietwerte erfolgt eine Extremwertbereinigung. Bei Extremwerten handelt es sich um Mietwerte, die signifikant von den anderen Messwerten eines Tabellenfeldes abweichen und deshalb nicht in die weitere Auswertung einbezogen werden sollen.
 
@@ -220,7 +221,7 @@ Auf welcher Grundlage erfolgte die Einteilung in die drei Ausstattungsklassen?
 
 Wie wurden baualterstypische Besonderheiten berücksichtigt und welche Auswirkungen hat dies auf den Mittelwert des jeweiligen Tabellenfeldes des Mietenspiegels?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Der Hamburger Mietenspiegel beschreibt die Struktur des Hamburger Wohnungsmarktes mithilfe der Tabellenmethode in für Hamburg typischen Kategorien von Wohnungen. Diese Kategorien werden durch Kombination von Wohnwertmerkmalen bestimmt und in Rasterfeldern abgebildet. Wohnwertmerkmale sind unter anderem die drei Ausstattungsklassen „ohne Bad und ohne Sammelheizung“, „mit Bad oder Sammelheizung“ und „mit Bad und Sammelheizung“ und die Baualtersklassen.
 
@@ -236,7 +237,7 @@ Das Wohnlagenverzeichnis dient als Arbeitsgrundlage zur Ermittlung der Grundlage
 
 Indikatoren Quelle Einfluss
 
-  
+–  
 Gebietsstatus:  
 amtliche Statistik/  
 0,88  
@@ -245,7 +246,7 @@ Struktur, Wohnlagenniveau
 Wohnlagenverzeichnis  
 im statistischen Gebiet)
 
-  
+–  
 Verdichtung:  
 Begehungen/  
 0,40  
@@ -254,27 +255,27 @@ amtliche Statistik
 Bebauungsdichte,  
 Einwohnerdichte)
 
-  
+–  
 Grünflächenanteil:  
 amtliche Statistik  
 0,30  
 (Grünflächenanteil in 800 m)
 
-  
+–  
 ÖPNV-Anbindung:  
 amtliche Statistik  
 0,26  
 (Entfernung zu  
 U-, S-, AKN-Bahnen)
 
-  
+–  
 Belastung durch  
 Lärmquellen:  
 Begehungen  
 0,14  
 (Gewerbe, Bahn, Schulen und so weiter)
 
-  
+–  
 Verkehrsbelastung:  
 Begehungen  
 0,10  

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5737", "21/6790"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56334"
@@ -45,7 +46,7 @@ In der Antwort auf meine Schriftliche Kleine Anfrage (Drs. 21/5737) stellt der S
 
 Hat sich die Bearbeitungsdauer nach Ansicht der zuständigen Behörde im vergangenen Jahr, besonders in den letzten Monaten, signifikant verlängert oder verkürzt? Wenn ja, was ist der Grund und wie wurde gegengesteuert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Durch einen Anstieg der Zahl der Anträge, erforderliche Nachbearbeitungen aufgrund unvollständiger Anträge und aufgrund von Personalwechseln im zuständigen Bereich kam es in den letzten Monaten zu verlängerten Bearbeitungszeiten.
 

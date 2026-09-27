@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 23
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/4980", "21/299", "21/131", "21/341", "21/635", "21/324"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48833"
@@ -246,19 +247,19 @@ Die folgenden Einrichtungen wurden im Mai 2015 fertiggestellt, in Betrieb genomm
 
 Fertiggestellt:
 
- Bahngärten: 120 Plätze (Inbetriebnahme 3. Juni 2015)
+– Bahngärten: 120 Plätze (Inbetriebnahme 3. Juni 2015)
 
- Brookkehre: 380 Plätze
+– Brookkehre: 380 Plätze
 
 In Betrieb genommen:
 
- Grüner Deich 8: 178 Plätze (Zwischennutzung Winternotprogramm)
+– Grüner Deich 8: 178 Plätze (Zwischennutzung Winternotprogramm)
 
- Brookkehre: 380 Plätze
+– Brookkehre: 380 Plätze
 
 Geschlossen:
 
- Güntherstraße (ehemals 173 Plätze).
+– Güntherstraße (ehemals 173 Plätze).
 
 Im Übrigen siehe Drs. 21/635.
 

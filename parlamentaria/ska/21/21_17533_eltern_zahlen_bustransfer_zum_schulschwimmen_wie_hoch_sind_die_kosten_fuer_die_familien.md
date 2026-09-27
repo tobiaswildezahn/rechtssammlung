@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8276"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67125"
@@ -48,11 +49,11 @@ Unabhängig davon, ob die Anreise mit dem ÖPNV, soweit das Kind nicht bereits �
 
 Gemäß der Bestimmungen für die Übernahme von Fahrtkosten zur Überbrückung des Schulweges (Schülerfahrgeldbestimmungen, http://www.schulrechthamburg.de/jportal/ portal/t/dz1/bs/18/page/sammlung.psml;jsessionid= 706B292EE9649816F0FDD0156E27480D.jp13?doc.hl=1&doc.id=VVHA- VVHA000000177&documentnumber=1&numberofresults=1&doctyp=vvhhschulr&show doccase=1&doc.part=F&paramfromHL=true#focuspoint) vom 18. Juli 2011 werden Fahrtkosten vollständig übernommen, wenn:
 
- ein Kind im Rahmen von Bildung und Teilhabe berechtigt ist und die Entfernung
+– ein Kind im Rahmen von Bildung und Teilhabe berechtigt ist und die Entfernung
 
 (einfacher Weg) mindestens 1,5 km beträgt oder
 
- ein sonderpädagogischen Förderbedarf vorliegt und die Entfernung (einfacher
+– ein sonderpädagogischen Förderbedarf vorliegt und die Entfernung (einfacher
 
 Weg) mindestens 1,5 km beziehungsweise 1 km beträgt (abhängig von der Art des Förderbedarfs).
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10548", "21/10826"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60069"
@@ -51,7 +52,7 @@ In welcher Form wird der Zustand der Kaimauern in der Stadt kontrolliert und wer
 
 Wie ist der Zustand der Kaimauern? Bitte analog zur Zustandsbeschreibung der Straßen und Brücken im Hamburger Hafen angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Zustand der Kaimauern wird regelmäßig entweder durch fachkundiges Personal der jeweils zuständigen Behörde oder zum Beispiel durch allgemeine Sichtkontrollen durch Gewässer- oder Wegewarte beurteilt.
 
@@ -97,7 +98,7 @@ Wie weit sind die Auswertung der Begehung sowie die Planungen für die wieder du
 
 Welche Sicherungsmaßnahmen beziehungsweise Reparaturvorhaben sind gegebenenfalls infolge derselben durch wen und wann vorgenommen worden beziehungsweise geplant?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Im Bereich des Elbuferwanderweges vom Museumshafen bis zum Cruisecenter ist es vor den Gebäuden Neumühlen 13 – 15 auf einem Großteil der Pflasterflächen zu Verwerfungen gekommen. Das Schadensbild erstreckt sich hierbei über eine Fläche von rund 300 m². Teilflächen sind abgesackt, an anderen Stellen wurden die Pflasterflächen hochgedrückt. Zur Ursachenanalyse wurde das Ingenieurbüro Steinfeld und Partner mit der Baugrunderkundung beauftragt. Der Landesbetrieb Immobilienmanagement und Grundvermögen wurde mit der Koordinierung der Schadensanalyse und gegebenenfalls weiterer Maßnahmen beauftragt. Der Abschnitt des Elbuferwanderweges bleibt in diesem Bereich bis auf Weiteres gesperrt. Im Übrigen sind die Planungen und Überlegungen hierzu noch nicht abgeschlossen.
 

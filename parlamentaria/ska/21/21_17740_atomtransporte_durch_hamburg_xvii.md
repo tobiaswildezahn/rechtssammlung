@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 18
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11317", "21/16768", "20/13644", "20/14621"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67342"
@@ -137,7 +138,7 @@ Hat der Senat als Vertreter des Anteilseigners Freie und Hansestadt Hamburg oder
 
 Trifft es zu, das bis maximal 2021 noch Verträge zum Umschlag von Kernbrennstoffen zwischen Hamburger Umschlagunternehmen und Reedereien/Transporteuren laufen?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Nach Auskunft der HHLA bestehen unter den existierenden Verträgen keine Verpflichtungen mehr zum Umschlag von Kernbrennstoffen.
 

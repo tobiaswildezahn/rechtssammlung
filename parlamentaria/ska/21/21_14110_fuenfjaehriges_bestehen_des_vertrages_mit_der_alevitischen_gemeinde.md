@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 23
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7840", "21/13288"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63504"
@@ -56,19 +57,19 @@ Im Themenfeld Prävention von religiös begründetem Extremismus und antimuslimi
 
 (BASFI) mit einer Personalressource im Umfang einer halben Stelle gefördert und soll folgende Aufgaben wahrnehmen:
 
- Vertretung und Vernetzung der Alevitischen Gemeinde im Beratungsnetzwerk
+– Vertretung und Vernetzung der Alevitischen Gemeinde im Beratungsnetzwerk
 
 „Prävention und Deradikalisierung“ sowie aktive Mitarbeit in den Arbeitsschwerpunkten
 
- Durchführung von Informationsveranstaltungen für Jugendliche, Eltern, Funktions-
+– Durchführung von Informationsveranstaltungen für Jugendliche, Eltern, Funktions-
 
 träger sowie Verantwortliche der vier Alevitischen Gemeinden sowie interessierte Mitglieder zu den in Hamburg verfügbaren Präventions- und Interventionsangeboten
 
- Beratung und Lotsenfunktion zu Beratungsstelle Legato – systemische Ausstiegs-
+– Beratung und Lotsenfunktion zu Beratungsstelle Legato – systemische Ausstiegs-
 
 beratung – Fachstelle für religiös begründete Radikalisierung, empower – Beratung für Betroffene rechter, rassistischer und antisemitischer Gewalt und amira – Beratung bei Diskriminierung wegen (zugeschriebener) Herkunft und Religion
 
- Öffentlichkeitsarbeit
+– Öffentlichkeitsarbeit
 
 Die Alevitische Jugend Hamburg e.V. ist ein eigenständiger Jugendverband nach § 12 SGB VIII und eng mit der Erwachsenenorganisation Alevitische Gemeinde Hamburg e.V. verbunden. Die Alevitische Jugend Hamburg e.V. erhält durch die zuständige Behörde eine Grundförderung als Jugendverband von 10.968,00 Euro für 2018.
 

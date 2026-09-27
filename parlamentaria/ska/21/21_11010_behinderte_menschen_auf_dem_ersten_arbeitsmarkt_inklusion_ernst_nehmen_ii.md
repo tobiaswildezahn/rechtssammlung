@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 14
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9408", "20/14150", "21/9692"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59989"
@@ -90,7 +91,7 @@ Wie viele geistig, seelisch und/oder körperlich beziehungsweise sinnlich behind
 
 Es gibt des Weiteren die Beratungsstelle für Menschen mit Behinderungen „team.arbeit.hamburg“. Wie viele Menschen mit Behinderungen konnten mithilfe der Agentur einen Arbeitsplatz finden? a. Bitte seit 2016 jährlich, b. ab 2017 monatlich auflisten.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Seitens des Statistik-Service der Bundesagentur für Arbeit erfolgt eine Auswertung zum „Bestand an Arbeitsuchenden und Arbeitslosen mit abgeschlossener Berufsausbildung“ und zum „Abgang an arbeitslosen schwerbehinderten Menschen in Erwerbstätigkeit und in Beschäftigung am 1. Arbeitsmarkt“; siehe hierzu Anlage. Im Übrigen siehe Drs. 21/9408.
 
@@ -274,15 +275,15 @@ Welche Handlungsansätze zur Erwerbsbeteiligung von Menschen mit Behinderungen e
 
 Der in der Vorbemerkung genannte Analysebericht identifiziert Handlungsansätze in den unten genannten fünf Bereichen. Diese werden derzeit im Fachkräftenetzwerk konkretisiert:
 
- Betriebliche Ausbildung fördern,
+– Betriebliche Ausbildung fördern,
 
- Sondereinrichtungen weiterentwickeln,
+– Sondereinrichtungen weiterentwickeln,
 
- Arbeitsmarktzugang verbessern,
+– Arbeitsmarktzugang verbessern,
 
- Inklusionskompetenz von Betrieben erhöhen,
+– Inklusionskompetenz von Betrieben erhöhen,
 
- Zusammenarbeit stärken.
+– Zusammenarbeit stärken.
 
 ### Frage 9
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62610"
@@ -75,7 +76,7 @@ Wie bewertet der Senat beziehungsweise die Behörde die unmittelbare Nähe zwisc
 
 Welche konkreten Werte erwartet der Senat beziehungsweise die zuständige Behörde hinsichtlich Schadstoffausstoß und Luftqualität in den Wohngebieten der HafenCity für die kommenden Jahre und insbesondere nach Fertigstellung des neuen Terminal CC1? Gibt es ein Gutachten dazu?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Es wird auf die Verfahren zur Feststellung von Bebauungsplänen, insbesondere den B-Plan HafenCity 15, und die darin enthaltenen Bewertungen sowie die in diesem Zusammenhang erstellten Gutachten verwiesen. Siehe hierzu auch: http://datenhamburg.de/infrastruktur_bauen_wohnen/bebauungsplaene/pdfs/bplan_begr/ HafenCity15.pdf.
 

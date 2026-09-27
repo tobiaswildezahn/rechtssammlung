@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14439", "20/11136"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53975"
@@ -47,7 +48,7 @@ Welche neuen Logistikkonzepte werden in der Freien und Hansestadt Hamburg derzei
 
 Welche Unternehmen haben die unter 1. genannten Logistikkonzepte jeweils erarbeitet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die United Parcel Service Deutschland Inc. & Co. (UPS) erprobt derzeit in Hamburg im Rahmen eines Modellvorhabens alternative Liefermöglichkeiten auf der letzten Meile. Kern des Versuchs ist es, die Belieferung und Abholung von Sendungen von und zu zentralen Standorten im Innenstadtbereich zu Fuß und/oder mit dem Rad sicherzustellen. Ausgenommen sind Expresslieferungen. Dafür sollen mobile Depots in Form von Containern morgens platziert und nachmittags/abends abgeholt werden.
 

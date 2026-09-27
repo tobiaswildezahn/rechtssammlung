@@ -14,6 +14,7 @@ fragen: 1
 einzelfragen: 1
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13890", "21/13904", "21/14014"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66537"
@@ -41,25 +42,25 @@ Welche Kliniken haben sich im Zeitraum 01.08.2018 bis 31.03.2019 zeitweise (drei
 
 #### Antwort zu Frage 1
 
- Zentraler Notaufnahme (ZNA)
+– Zentraler Notaufnahme (ZNA)
 
- Innerer Medizin
+– Innerer Medizin
 
- Medizinischer Intensivstation
+– Medizinischer Intensivstation
 
- Schockraum,
+– Schockraum,
 
- Stroke Unit
+– Stroke Unit
 
- Herzkatheter-Labor
+– Herzkatheter-Labor
 
- Kreißsaal
+– Kreißsaal
 
- Technischen Einschränkungen beispielsweise beim CT, MRT (War-
+– Technischen Einschränkungen beispielsweise beim CT, MRT (War-
 
 tung, Ausfall)
 
- Weiteren Einzelbereiche wie Neurologie, HNO-Heilkunde, Urologie,
+– Weiteren Einzelbereiche wie Neurologie, HNO-Heilkunde, Urologie,
 
 Beatmungskapazität et cetera
 

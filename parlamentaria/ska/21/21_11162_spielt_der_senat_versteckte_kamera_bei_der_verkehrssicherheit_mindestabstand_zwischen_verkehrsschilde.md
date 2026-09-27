@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8356", "21/11014", "18/2592"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60139"
@@ -203,7 +204,7 @@ Wie viele Geschwindigkeitsüberschreitungen haben die GÜA bisher im laufenden J
 
 Wie hoch sind die Einnahmen, die im laufenden Jahr bisher durch die stationären GÜA erzielt wurden? Bitte für jede GÜA separat sowie gesamt angeben.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Anzahl der rechtssicher dokumentierten Geschwindigkeitsüberschreitungen, die zu einer Anzeigenfertigung führten sowie die Höhe der Einnahmen, die im Rahmen von Verwarnungs- und Bußgeldern beim Einwohner-Zentralamt für die einzelnen stationären Geschwindigkeitsüberwachungsanlagen bis zum 30. November 2017 ausgewiesen wurden, sind der nachfolgenden Tabelle zu entnehmen:
 

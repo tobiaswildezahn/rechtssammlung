@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65094"
@@ -63,7 +64,7 @@ Können bereits erste Aussagen über die jeweiligen Vor- und Nachteile der zwei 
 
 Von welchen Firmen werden die Untersuchungen zu den verschiedenen Varianten hinsichtlich der Zukunft der Freihafenelbbrücke durchgeführt und nach welchem Verfahren wird hierbei vorgegangen? Wie lautet der konkrete Prüfungszeitraum?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die HPA hat die Ingenieurbüros SSK sowie Grassl beauftragt. Bei den Untersuchungen werden verkehrliche, bautechnische, architektonische, denkmalschützerische und finanzielle Aspekte betrachtet und abgewogen. Die Überlegungen sind noch nicht abgeschlossen, der Prüfungszeitraum ist bis Ende des Jahres 2019 vorgesehen. Auf dieser Grundlage soll dann eine Entscheidung getroffen werden.
 
@@ -75,7 +76,7 @@ Auf welchem Stand befinden sich die Gespräche zwischen der HPA und der Denkmals
 
 Laut Denkmalschutzgesetz dürfen Denkmäler nur abgerissen werden, wenn ein „übergeordnetes öffentliches Interesse“ vorliegt. Inwiefern trifft dies auf die Freihafenelbbrücke zu?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die mögliche Sanierung der Freihafenelbbrücke ist Gegenstand eines laufenden Prüfverfahrens.
 
@@ -87,7 +88,7 @@ Laut Aussagen von Experten sei ein Neubau keineswegs kostengünstiger als eine S
 
 Welche Auswirkungen hätte ein Neubau der Brücke auf die zukünftigen Unterhaltungskosten?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der Senat sieht davon ab, Meinungsäußerungen Dritter zu kommentieren. Im Übrigen siehe Antwort zu 3. und 4.
 

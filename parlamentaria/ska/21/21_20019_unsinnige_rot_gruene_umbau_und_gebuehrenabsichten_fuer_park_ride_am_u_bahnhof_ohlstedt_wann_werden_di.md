@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 26
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14094", "21/18942", "21/17646", "21/16786", "21/19377"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69783"
@@ -57,7 +58,7 @@ Wurde die Park+Ride-Anlage am U-Bahnhof Ohlstedt bereits durch die P+R-Betriebsg
 
 Ist weiterhin geplant, die Park+Ride-Anlage am U-Bahnhof Ohlstedt auf die P+R-Betriebsgesellschaft mbH zu übertragen? Wenn ja, warum und zu welchem Zeitpunkt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/14094.
 
@@ -69,7 +70,7 @@ Liegt die Entwurfsplanung für die Grundinstandsetzung des Ohlstedter P+R-Platze
 
 Laut Drs. 21/18942 sollten Ende 2019 die Ergebnisse der Bodenuntersuchungen vorliegen. Welche Ergebnisse der Bodenuntersuchungen liegen inzwischen im Einzelnen vor und welche Auswirkungen ergeben sich dadurch auf die Planungen an dieser Stelle?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Bodenuntersuchungen haben die Machbarkeit einer Spundwand bestätigt und zudem die erforderliche Gründungstiefe vorgegeben. Auf Basis dieser Angaben kann die Entwurfsplanung fertiggestellt werden. Diese ist nunmehr für das 1. Quartal 2020 vorgesehen. Im Übrigen siehe Drs. 21/17646.
 

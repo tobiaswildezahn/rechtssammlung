@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 16
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10573"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61232"
@@ -81,7 +82,7 @@ In welchen Örtlichkeiten der Hamburger Polizei wurden die Daten empfangen und w
 
 Wo wurden die Rohdaten vor Übermittlung an die Hamburger Polizei ausgewertet?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Entfällt.
 
@@ -93,7 +94,7 @@ Auf welche Weise waren das Bundesinnenministerium (BMI) beziehungsweise die Bund
 
 Inwiefern wurde bei der Nutzung von Daten aus der Satellitenaufklärung beziehungsweise daraus erstellten satellitengestützten Kartenprodukten auf Erfahrungen des ZKI beim G8-Gipfel 2007 in Heiligendamm und beim Nato-Gipfel 2009 in Strasbourg zurückgegriffen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Das Bundesministerium des Innern teilte mit, dass sich die in Rede stehenden Fragen auf die originäre Aufgabenwahrnehmung des Bundes beziehen. Die parlamentarische Kontrolle von Bundesbehörden und ihrer nachgeordneten Behörden, einschließlich des damit einhergehenden parlamentarischen Fragerechts, obliege ausschließlich dem Deutschen Bundestag.
 

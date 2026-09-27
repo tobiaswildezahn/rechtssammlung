@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11446"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62021"
@@ -65,7 +66,7 @@ Wie ist die Entwicklung von „ADÜTDF“ in Hamburg in Bezug auf ihre Anhänger
 
 Welche Verbindungen bestehen zwischen „ADÜTDF“ und der ultranationalistischen Partei MHP und der islamistisch-nationalistischen Partei AKP?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Antwort zu 1.
 

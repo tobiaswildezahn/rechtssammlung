@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 12
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/3642", "21/6981"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66265"
@@ -124,7 +125,7 @@ Welche Nachweise müssen Nutzer der kostenbefreiten Ferienbetreuung erbringen?
 
 Genügt es, wenn ein Elternteil im Leistungsbezug steht oder müssen beide Elternteile im Leistungsbezug stehen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Allen nach dem Hamburger Bildungs- und Teilhabepaket anspruchsberechtigten Schülerinnen und Schülern steht die Möglichkeit einer sechswöchigen kostenfreien Ferienbetreuung offen. Für die Inanspruchnahme der kostenfreien Ferienbetreuung ist bei Antragstellung der Leistungsbezug durch die Vorlage eines gültigen Bewilligungsbescheides nachzuweisen.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/526", "18/714", "19/3038", "19/6592", "21/7555"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59784"
@@ -43,7 +44,7 @@ Welche gerichtliche Verfahren sind aktuell beziehungsweise waren im Nachgang zu 
 
 Für welche dieser oder absehbarer Verfahren in dem Zusammenhang hat die Freie und Hansestadt Hamburg Anwälte/-innen als Rechtsbeistand beauftragt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Beim Justiziariat der Polizei Hamburg sind derzeit insgesamt 52 gerichtliche Verfahren mit G20-Bezug anhängig. 17 davon betreffen verwaltungsgerichtliche Fortsetzungsfeststellungsklagen, überwiegend zu Aufenthaltsverboten und Ingewahrsamnahmen; 35 Fortsetzungsfeststellungbeschwerden beim Landgericht Hamburg; hier wurde die Fortdauer der Ingewahrsamnahme vom Amtsgericht Hamburg durch Beschluss angeordnet. Sämtliche Verfahren mit G20-Bezug sind noch nicht abgeschlossen.
 

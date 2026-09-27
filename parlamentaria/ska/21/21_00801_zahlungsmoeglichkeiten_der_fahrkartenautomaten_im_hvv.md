@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48946"
@@ -53,15 +54,15 @@ Die AKN hat im Bereich des gesamten HVV 72 Fahrkartenautomaten im Einsatz. Die A
 
 An jedem Fahrkartenautomaten der AKN werden folgende Zahlungsarten angeboten:
 
- Münzen (es werden 5-Cent-, 10-Cent-, 20-Cent-, 50-Cent-, 1-Euro-, 2-Euro-
+– Münzen (es werden 5-Cent-, 10-Cent-, 20-Cent-, 50-Cent-, 1-Euro-, 2-Euro-
 
 Münzen akzeptiert)
 
- Banknoten (es werden 5-Euro-, 10-Euro-, 20-Euro-, 50-Euro-, 100-Euro-Noten
+– Banknoten (es werden 5-Euro-, 10-Euro-, 20-Euro-, 50-Euro-, 100-Euro-Noten
 
 akzeptiert)
 
- Debitkarte (girocard beziehungsweise EC-Karte) und Geldkarte.
+– Debitkarte (girocard beziehungsweise EC-Karte) und Geldkarte.
 
 Die Höhe der möglichen Münzen und Banknoten zur Bezahlung wird dem Fahrgast im Zahlscreen des Fahrkartenautomaten angezeigt und ist abhängig vom Ticketpreis sowie dem im Automaten vorhandenen Wechselgeld. Generell gibt der Fahrkartenautomat maximal 19,95 Euro in Münzen beziehungsweise 49,95 Euro in Münzen und Banknoten pro Verkaufsvorgang als Wechselgeld aus.
 
@@ -75,15 +76,15 @@ S-Bahn Hamburg:
 
 Die DB Vertrieb GmbH ist von der S-Bahn Hamburg GmbH mit dem Automatenvertrieb im Bereich des HVV beauftragt. Im Auftrag der S-Bahn Hamburg GmbH werden derzeit 249 Fahrkartenautomaten an den S-Bahn-Haltestellen betrieben. Es bestehen folgende Zahlungsmöglichkeiten:
 
- Zahlung mit Münzen;
+– Zahlung mit Münzen;
 
- Zahlung mit folgenden Banknoten: 5 Euro und 10 Euro, 20 Euro (ab einem Fahr-
+– Zahlung mit folgenden Banknoten: 5 Euro und 10 Euro, 20 Euro (ab einem Fahr-
 
 kartenwert von 9,90 Euro) und 50 Euro (ab einem Fahrkartenwert von 24,90 Euro);
 
- Zahlung per Geldkarte;
+– Zahlung per Geldkarte;
 
- Zahlung per girocard mit PIN; auch die Zahlung per Kreditkarte wird für alle übri-
+– Zahlung per girocard mit PIN; auch die Zahlung per Kreditkarte wird für alle übri-
 
 gen Fahrkarten angeboten, jedoch keine HVV-Tickets.
 

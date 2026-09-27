@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19311"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69768"
@@ -43,15 +44,15 @@ Die Vereinbarung über die finanzielle Förderung von Selbsthilfegruppen zwische
 
 Auf dieser Basis fördert die Freie und Hansestadt Hamburg im Jahr 2020
 
- die Beratung zur finanziellen Förderung von pflegebezogenen Selbsthilfegruppen
+– die Beratung zur finanziellen Förderung von pflegebezogenen Selbsthilfegruppen
 
 bei KISS mit 17 800 Euro,
 
- die Organisation, Begleitung und Interessenvertretung von Selbsthilfegruppen bei
+– die Organisation, Begleitung und Interessenvertretung von Selbsthilfegruppen bei
 
 der Alzheimer Gesellschaft Hamburg e.V. mit 53 700 Euro und
 
- pflegebezogene Selbsthilfegruppen mit insgesamt bis zu 20 000 Euro im Jahr.
+– pflegebezogene Selbsthilfegruppen mit insgesamt bis zu 20 000 Euro im Jahr.
 
 Im Übrigen siehe auch Drs. 21/19311.
 
@@ -67,7 +68,7 @@ Wie viele Selbsthilfegruppen pflegender Angehöriger in Hamburg sind dem Senat b
 
 Welche Selbsthilfegruppen sind dem Senat konkret bekannt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Dem Senat sind 21 Selbsthilfegruppen pflegender Angehöriger bekannt:
 

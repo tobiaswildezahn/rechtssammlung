@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8130"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57451"
@@ -49,7 +50,7 @@ Wie stellt sich die Flucht des 22-jährigen Gefangenen aus der JVA Hahnöfersand
 
 Wann wurde bemerkt, dass der Gefangene flüchtig ist? Welche Maßnahmen wurden daraufhin eingeleitet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Am 30. März 2017 gegen 17.15 Uhr teilte ein weiterer Jugendstrafgefangener einer Bediensteten mit, dass der Jugendstrafgefangene S. über den Distanzzaun hinter dem Gebäude des offenen Vollzuges (Haus 7) geklettert und Richtung der landwirtschaftlichen Gebäude entwichen sei. Daraufhin wurde von der Sicherheitszentrale Fluchtalarm ausgelöst und die unmittelbare Nacheile eingeleitet.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17912"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67607"
@@ -71,7 +72,7 @@ Welche Senatoren und Staatsräte des Hamburger Senats sind dabei jeweils wie oft
 
 Was waren dabei jeweils Start- und Zielflughafen und wie hoch war der Anteil der Inlandsflüge?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 2015  
 2016  
@@ -213,7 +214,7 @@ Wer hat wann jeweils entschieden, dass diese Reisen per Flugzeug durchgeführt w
 
 Welche Alternativen zum Flugzeug als Reisemittel wurden jeweils geprüft und mit welcher Begründung verworfen? Wenn keine geprüft wurden, warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 
@@ -241,6 +242,6 @@ Gibt es Kriterien für die Wahl des Verkehrsmittels für Reisen der Mitglieder u
 
 Plant der Senat Maßnahmen, um die Anzahl seiner Inlandsflüge zukünftig zu reduzieren? Wenn ja, wie sehen diese Pläne genau aus? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Vorbemerkung. Im Übrigen hat sich der Senat damit nicht befasst.

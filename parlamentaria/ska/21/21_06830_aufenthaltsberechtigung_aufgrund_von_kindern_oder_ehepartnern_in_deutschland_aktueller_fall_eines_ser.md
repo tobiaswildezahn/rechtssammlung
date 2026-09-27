@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 21
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55388"
@@ -79,7 +80,7 @@ In wie vielen Fällen ergibt sich in Hamburg die Aufenthaltsberechtigung eines A
 
 In wie vielen Fällen ergibt sich in Hamburg die Aufenthaltsberechtigung eines Ausländers aus der Tatsache, dass er/sie ein Kind mit einem deutschen Partner hat? Bitte auch die rechtlichen Vorschriften einer solchen Aufenthaltsberechtigung nennen.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Angaben sind der folgenden Übersicht zu entnehmen:
 
@@ -105,7 +106,7 @@ Ein Aufenthaltsrecht wegen eines Kindes besteht nur dann, wenn zwischen dem ausl
 
 Welches sind die Kriterien, die herangezogen werden bei der Beurteilung, ob eine entsprechende, zum Aufenthalt berechtigende familiäre Bindung besteht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Grundsätzlich sind verheiratete Personen, die ein gemeinsames Kind haben, auch gleichberechtigt für dieses sorgeberechtigt. Handelt es sich um Alleinerziehende oder Stiefeltern, wird ein Sorgerechtsnachweis gefordert. Geprüft wird anhand des Melderegisters, ob eine gemeinsame Wohnanschrift vorliegt. Zur Klärung der tatsächlichen Ausübung des Sorgerechts werden Eltern und bei Bedarf auch Kinder befragt, wie sich der Umgang im täglichen Leben miteinander gestaltet, gegebenenfalls auch unter Beteiligung der Jugendämter. Sind keine Auffälligkeiten erkennbar, die das Gegenteil erkennen oder vermuten lassen, kann der Aufenthaltstitel erteilt werden. Soweit sich
 
@@ -127,7 +128,7 @@ Wie viele der aufgrund eines Kindes aufenthaltsberechtigten Ausländer sorgen f�
 
 In wie vielen Fällen ist seit Januar 2010 eine Aufenthaltsberechtigung aufgehoben worden, weil das zugrunde liegende Sorgeverhältnis als nicht mehr gegeben angesehen wurde?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Angaben hierzu werden statistisch nicht erfasst und lassen sich durch das ausländerbehördliche Fachverfahren auch nicht auswerten. Eine händische Auswertung mehrerer Tausend Ausländerakten ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

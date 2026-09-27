@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4365"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60997"
@@ -57,7 +58,7 @@ Wie viele Kinderwunschbehandlungen fanden in der Freien Hansestadt Hamburg im Ze
 
 Ist der Senat ebenso wie die senatstragenden Fraktionen der Auffassung, dass Hamburger Insellösungen zutiefst ungerecht sind? Wenn ja, aus welchem Grund gibt es dann in Hamburg Insellösungen, welche nicht auf hamburgspezifische Strukturen zurückzuführen sind, wie beispielsweise den „Entwurf eines Gesetzes über die Einführung einer pauschalen Beihilfe zur Flexibilisierung der Krankheitsvorsorge“? Wenn nein, warum im Falle der Unterstützung von Paaren mit unerfülltem Kinderwunsch?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/4365.
 
@@ -83,7 +84,7 @@ Wie bewertet der Senat diese Altersgrenze hinsichtlich der Übernahme von Behand
 
 Wird sich der Senat bei seinem Einsatz für eine bundeseinheitliche Regelung zur Übernahme von Kosten der Kinderwunschbehandlung auch für eine Änderung der Altersgrenzen einsetzen? Wenn ja, in welcher Form? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Regelung zur Altersgrenze für Frauen, die das 40. Lebensjahr vollendet haben, in § 27 a Absatz 3 SGB V trägt dem Gesichtspunkt Rechnung, dass bereits jenseits des
 30. Lebensjahres das natürliche Konzeptionsoptimum überschritten und die Konzeptionswahrscheinlichkeit nach dem 40. Lebensjahr sehr gering ist. Die aktuellen Daten zu den Erfolgsaussichten reproduktionsmedizinischer Maßnahmen belegen, dass ab dem 36. Lebensjahr mit einer kontinuierlichen Abnahme der Schwangerschaftsraten und einer Steigerung der Fehlgeburtsraten zu rechnen ist. Insbesondere ab einem Alter von 40. Jahren enden über 32 Prozent der Schwangerschaften in einer Fehlgeburt, ab dem Alter von 44 Jahren sogar mehr als die Hälfte (Quelle: Journal für Reproduktionsmedizin und Endokrinologie, D.I.R Jahrbuch 2016). Die Altersgrenze für die Leistungsgewährung ist in Anbetracht der niedrigen Erfolgsraten bei über 40- jährigen Frauen aus medizinischen Gründen gerechtfertigt. Unter Berücksichtigung der Erfolgsaussichten und den mit einer künstlichen Befruchtung verbundenen medizinischen Risiken wird daher kein gesetzlicher Änderungsbedarf gesehen.

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/352"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48640"
@@ -83,7 +84,7 @@ Wie alt sind die 14 Schiffe aus der zweiten Nautilus-Transaktion II genau? Bitte
 
 Gibt es darunter Schiffe, die faktisch „Neubauten“ sind?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Schiffe (Anzahl) weisen die Baujahre 2007 (1), 2009 (1), 2010 (3), 2011 (6), 2012 (2) und 2014 (1) auf.
 

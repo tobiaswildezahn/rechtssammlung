@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51076"
@@ -79,6 +80,6 @@ Medienberichten zufolge hat sich ein privater Spender gefunden, der der Stadt we
 
 Finanziert er nur die Anschaffung oder auch den Betrieb und wenn ja, für welchen Zeitraum? Haben der Senat oder f & w fördern und wohnen AöR sich bereit erklärt, die Betriebskosten zu tragen, wenn ja für wie viele Container?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Es gibt das Angebot einer Stiftung, der Stadt eine gewisse Anzahl der vorgenannten Container zur Verfügung zu stellen beziehungsweise die Anschaffungskosten zu tragen. Weiter Folgekosten wären durch die Freie und Hansestadt Hamburg zu tragen. Im Übrigen siehe Antworten zu 1. bis 5.

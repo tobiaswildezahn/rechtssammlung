@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7805"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65311"
@@ -74,7 +75,7 @@ Wann genau wurde in welcher Form die Zuständigkeit der Finanzbehörde für Aufg
 
 Wann soll gegebenenfalls die Zuständigkeit der Finanzbehörde für Aufgaben in der Durchführung des Meldewesens sowie des Pass- und Ausweiswesens für welchen Zeitraum nach dem 31. Dezember 2018 hinaus verlängert werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 

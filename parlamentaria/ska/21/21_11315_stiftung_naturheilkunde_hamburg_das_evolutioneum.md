@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60308"
@@ -132,7 +133,7 @@ Wie viele dieser Sammlungen müssen nach aktueller Sachlage instand gesetzt werd
 
 Wie viel wird die Instandsetzung der Sammlungen jeweils kosten?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Alle Sammlungen weisen einen Instandsetzungsbedarf auf, für den derzeit keine Kalkulation vorliegt.
 

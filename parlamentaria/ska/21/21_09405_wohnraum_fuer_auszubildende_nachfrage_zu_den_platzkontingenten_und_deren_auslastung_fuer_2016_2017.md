@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 20
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4441", "21/9216", "20/11387"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58168"
@@ -91,25 +92,25 @@ Welche Platzkontingente stellen die genannten Anbieter zur Verfügung? Sind dies
 
 Die Behörde für Arbeit, Soziales, Familie und Integration (BASFI) hat folgende Kontingente vereinbart:
 
- SMARTMENTS Hühnerposten: bis zu 50 Plätze
+– SMARTMENTS Hühnerposten: bis zu 50 Plätze
 
- SMARTMENTS Borgfelder Allee: bis zu 25 Plätze
+– SMARTMENTS Borgfelder Allee: bis zu 25 Plätze
 
- Studierendenwerk, Wohnheim Kiwittsmoor: bis zu 35 Plätze
+– Studierendenwerk, Wohnheim Kiwittsmoor: bis zu 35 Plätze
 
- Studierendenwerk, Wohnheim Rahlstedter Straße: bis zu 35 Plätze
+– Studierendenwerk, Wohnheim Rahlstedter Straße: bis zu 35 Plätze
 
- Studierendenwerk, Wohnheim Sophie-Schoop-Haus in Hamburg-Allermöhe (ab
+– Studierendenwerk, Wohnheim Sophie-Schoop-Haus in Hamburg-Allermöhe (ab
 
 dem Wintersemester 2017/2018): 70 Plätze
 
- Berufsförderungswerk (BFW): bis zu 70 Plätze
+– Berufsförderungswerk (BFW): bis zu 70 Plätze
 
- Azubiwerk Objektgesellschaft: 156 Plätze, von denen zum Stand 15.6.2017 alle
+– Azubiwerk Objektgesellschaft: 156 Plätze, von denen zum Stand 15.6.2017 alle
 
 vermietet waren
 
- Lutherpark: Nach Abschluss der Umbauarbeiten des bisherigen Pflegeheims wer-
+– Lutherpark: Nach Abschluss der Umbauarbeiten des bisherigen Pflegeheims wer-
 
 den bis zu zwölf Wohnplätze für Auszubildende realisiert
 

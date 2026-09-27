@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9828", "21/10883"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61351"
@@ -73,7 +74,7 @@ In welcher Weise und auf welchen Grundlagen finden die kontinuierlichen Fortschr
 
 Wo kann man die Fortschreibungen einsehen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Zügigkeiten werden geprüft und bei Bedarf angepasst, siehe Drs. 21/10883. Im Übrigen siehe Vorbemerkung sowie Antwort zu 5. bis 5. d.
 

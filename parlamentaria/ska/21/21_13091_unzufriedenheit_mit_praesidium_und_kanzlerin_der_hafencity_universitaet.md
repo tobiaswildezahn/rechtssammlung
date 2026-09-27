@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62415"
@@ -73,7 +74,7 @@ Wie hoch waren die Prozesskosten? (Bitte nach Art der Verfahren und Jahren aufsc
 
 Wie viele arbeitsrechtliche Prozesse führte die HCU gegen Mitarbeiter/- innen und ehemalige Mitarbeiter/-innen seit 2010? (Bitte nach Jahren und Studiengängen aufschlüsseln.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Antwort zu 1.
 

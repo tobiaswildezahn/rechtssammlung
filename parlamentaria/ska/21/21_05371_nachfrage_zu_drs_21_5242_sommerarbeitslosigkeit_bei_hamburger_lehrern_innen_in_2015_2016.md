@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 17
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5242", "20/7991", "20/8046", "21/1103"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53866"
@@ -210,7 +211,7 @@ Werden seitens des Senats/der zuständigen Fachbehörde Überbrückungsfinanzier
 
 Sind seitens des Senats/der zuständigen Fachbehörde Pläne angedacht beziehungsweise gegebenenfalls schon in Realisierung begriffen, um die Praxis der Freistellung von befristeten Arbeitsverhältnissen für Lehrkräfte im Hamburger Schuldienst zwischen den Schuljahren aufzugeben? Wenn ja, wie genau sehen diese aus und ab wann treten sie in Kraft? (Bitte Planungen und Terminierung erläutern.) a. Wenn nein, wie rechtfertigt der Senat/die zuständige Fachbehörde das Festhalten an dieser Beschäftigungspraxis gegenüber den betroffenen befristeten Lehrkräften hinsichtlich der für deren Erwerbsbiographie entstehenden Brüche und die aus diesen resultierenden Folgen für deren soziale Versorgungsansprüche während der Erwerbslosigkeit? (Bitte Stellung nehmen.) b. Wie rechtfertigt der Senat/die zuständige Fachbehörde das Festhalten an dieser Beschäftigungspraxis hinsichtlich seiner Verantwortung als öffentlicher Arbeitgeber gegenüber den Betroffenen, auf deren Dienste er im Schuldienst angewiesen ist und auf die er umfänglich zurückgreift?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Entfällt, im Übrigen siehe Vorbemerkung sowie Drs. 20/7991, 20/8046, 21/1103 und 21/5242.
 

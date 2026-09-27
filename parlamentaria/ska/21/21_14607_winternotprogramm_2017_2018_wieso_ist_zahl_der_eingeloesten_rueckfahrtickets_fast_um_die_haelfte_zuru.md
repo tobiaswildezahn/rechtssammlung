@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64044"
@@ -51,7 +52,7 @@ Die Gesamtauslastung lag im WNP 2017/2018 bei 80 Prozent bei insgesamt vorhanden
 
 Vor allem der Anteil der Rumänen sank von zuvor 20 Prozent auf nur noch 12 Prozent. Wie erklärt der Senat diese Entwicklung, zumal es bei den anderen beiden großen Gruppen aus Osteuropa, den Polen und Bulgaren, keinen vergleichbar großen Rückgang gab?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Nutzung des niedrigschwelligen Winternotprogramms ist neben dem objektiven Vorliegen einer Notlage auch von persönlichen Einstellungen, Motiven und Verhaltensweisen potenzieller Nutzerinnen und Nutzer abhängig. Aussagen zu den erfragten Sachverhalten können daher nicht gemacht werden.
 

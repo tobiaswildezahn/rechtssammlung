@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11990"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61559"
@@ -85,7 +86,7 @@ h) Sonstige Kosten
 
 Welche Kosten sind bis zum Abschluss der Maßnahme noch offen (nach derzeitiger Planung und Kalkulation, ungefähre Angaben sind ausreichend)?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die IBA ist seit 2013 im Gebiet tätig. Die nachfolgend angegebenen Ausgaben beziehen sich auf den Zeitraum 2013 bis 2017 und auf Maßnahmen, die die IBA durchführt beziehungsweise beauftragt. Die Kosten für vorbereitende Maßnahmen, Entschädigungen, Einmessung, Flächenherrichtung und Erschließung, Ausgleichsmaßnahmen, Maßnahmen zur Standortaufwertung sowie für Grundstücksbewirtschaftung betrugen bisher rund 17,7 Millionen Euro.
 

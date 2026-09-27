@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/858", "21/86", "19/3198", "20/8768"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51388"
@@ -43,7 +44,7 @@ Welche Gefahrengebiete bestehen oder bestanden seit dem 1.1.2015 in Hamburg? Bit
 
 Haben sich in den „Dauergefahrengebieten“ im Bereich des PK 11 und PK 15 (BtM und Vergnügungsviertel St. Pauli (Gewalt)) Änderungen in Bezug auf die Zielgruppe ergeben? Wenn ja, bitte darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/86.
 
@@ -172,7 +173,7 @@ Wie viele Ermittlungsverfahren wurden aufgrund der seit 1.1.2015 festgestellten 
 
 Wie viele Ermittlungsverfahren, die aufgrund der Ausweisung der jeweiligen Straftaten festgestellt worden waren, wurden seit dem 1.1.2015 mit welchem Ergebnis beendet?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Im Vorgangsverwaltungs- und Vorgangsbearbeitungssystem MESTA der Staatsanwaltschaft wird nicht erfasst, ob eine Tat in einem Gefahrengebiet begangen wurde. Überdies könnten Angaben zu der Anzahl der Tatverdächtigen sowie dem jeweiligen Ausgang des Verfahrens nur nach einer händischen Auswertung aller in der Antwort zu 4. genannten Verfahren gemacht werden. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -194,6 +195,6 @@ Wurden seit dem 1.1.2015 Schwerpunkteinsätze außerhalb von Gefahrengebieten du
 
 Wurden in Schwerpunkteinsätzen seit dem 1.1.2015 Verstöße gegen das Aufenthaltsrecht festgestellt? Wenn ja, bitte monatsweise und nach Schwerpunkteinsatz aufschlüsseln.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Drs. 20/8768.

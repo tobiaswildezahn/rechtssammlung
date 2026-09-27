@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/7778", "18/4856"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58156"
@@ -59,7 +60,7 @@ Wie hoch sind die aktuellen durchschnittlichen Investitionskosten je Bewohner/-i
 
 Wie hoch sind die aktuellen durchschnittlichen Kosten für Verpflegung und Unterkunft an den einzelnen Standorten? (Bitte Darstellung nach Objekt.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Investitionsbetrag
 

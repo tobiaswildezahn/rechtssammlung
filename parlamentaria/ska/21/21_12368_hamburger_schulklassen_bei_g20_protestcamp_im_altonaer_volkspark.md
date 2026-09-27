@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9953"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61656"
@@ -63,6 +64,6 @@ Ist der Besuch des Protestcamps mit einer Schulklasse oder Lerngruppe vor dem Hi
 
 Wäre es aus Sicht der BSB zulässig, mit einer Schulklasse ein Protestcamp zu besuchen, auf dem sich nach Angaben des Landesamtes für Verfassungsschutz gewaltbereite Rechtsextremisten aufhalten?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nein.

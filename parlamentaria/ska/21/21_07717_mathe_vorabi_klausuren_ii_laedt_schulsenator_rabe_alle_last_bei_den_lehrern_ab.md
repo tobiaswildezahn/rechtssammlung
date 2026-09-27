@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7509", "21/7675"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56347"
@@ -35,9 +36,9 @@ Bedenklich ist nun eine weitere Folge von Rabes Sofortmaßnahmen. In einer Press
 
 ## Einleitung für die Antworten des Senats
 
- „Alle Schulen sollen mindestens zwölf zusätzliche Übungs- und Vorbereitungsstunden für Mathematik in der für Abiturienten normalerweise unterrichtsfreien Zeit vom 11. bis 18. April 2016 [sic] als Angebot organisieren. (…)
+– „Alle Schulen sollen mindestens zwölf zusätzliche Übungs- und Vorbereitungsstunden für Mathematik in der für Abiturienten normalerweise unterrichtsfreien Zeit vom 11. bis 18. April 2016 [sic] als Angebot organisieren. (…)
 
- Die Schulen sollen für die Abiturienten eine zusätzliche Lernförderung am Nachmittag bei Gefahr des Nichtbestehens einrichten (Lernförderung nach § 45 HmbSG). (…)“
+– Die Schulen sollen für die Abiturienten eine zusätzliche Lernförderung am Nachmittag bei Gefahr des Nichtbestehens einrichten (Lernförderung nach § 45 HmbSG). (…)“
 
 Vor diesem Hintergrund frage ich den Senat:
 

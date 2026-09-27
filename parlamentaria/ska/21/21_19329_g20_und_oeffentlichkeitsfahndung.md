@@ -5,7 +5,7 @@ wahlperiode: 21
 id: 69051
 titel: "G20 und Öffentlichkeitsfahndung"
 datum_anfrage: "2019-12-12"
-datum_drucksache: null
+datum_drucksache: "2019-12-20"
 urheber: ["Christiane Schneider"]
 fraktionen: ["Die Linke"]
 vorgang: 62942
@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 23
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18320", "21/14356", "21/15649"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69051"
@@ -24,7 +25,7 @@ generator: "ska_archiv 1.0"
 
 # Drs. 21/19329: G20 und Öffentlichkeitsfahndung
 
-> Schriftliche Kleine Anfrage und Antwort des Senats  
+> Schriftliche Kleine Anfrage der Abgeordneten Christiane Schneider (DIE LINKE) vom 12.12.19 und Antwort des Senats · Drucksache vom 20.12.2019  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/69051) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/69051/21_19329_g20_und_oeffentlichkeitsfahndung)
 
 ## Einleitung für die Fragen
@@ -51,7 +52,7 @@ Laut Antwort in Drs. 21/18320 sind (mit Stichtag 10.9.2019) 394 Einstellungen na
 
 Laut Antwort in Drs. 21/18320 sind (mit Stichtag zum 10. 9.2019) 62 Einstellungen nach §§ 153 fortfolgende StPO erfolgt. Waren unter den Beschuldigten, deren Verfahren nach §§ 153 fortfolgende StPO eingestellt wurden auch solche, nach denen im Rahmen der Öffentlichkeitsfahndung gefahndet wurde? Wenn ja: a. Nach wie vielen wurde öffentlich gefahndet? b. Aufgrund des Verdachts welcher Delikte wurde nach den Betroffenen im Rahmen der Öffentlichkeitsfahndung gefahndet? c. Aus welchen Gründen oder Umständen hat sich der Verdacht, der die zuständige Behörde zur Beantragung eines Beschlusses über die Öffentlichkeitsfahndung veranlasste, jeweils im laufenden Verfahren derart verändert, dass eine Einstellung des Verfahrens nach § 153 fortfolgende StPO erfolgte?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Im Vorgangsverwaltungs- und Vorgangsbearbeitungssystem MESTA der Staatsanwaltschaft Hamburg wird nicht erfasst, ob in einem Verfahren eine Öffentlichkeitsfahndung erfolgte. Anhand einer händisch geführten Liste mit den Verfahren zu den in Antwort zu 1. genannten Beschuldigten, die in MESTA nach der Erledigungsart abgefragt wurde (Stand: 16. Dezember 2019), ergeben sich – vorbehaltlich der korrekten Erfassung der Daten in MESTA – aus den 137 möglichen Erledigungen (zwei Beschuldigte werden in jeweils zwei Verfahren geführt) fünf Einstellungen gemäß § 170 Absatz 2 StPO, eine Einstellung gemäß § 153a StPO sowie drei Einstellungen gemäß § 47 JGG. Teilweise dauern die Ermittlungen an, sodass keine Erledigungen vorliegen. Teilweise wurden Verfahren an andere Staatsanwaltschaften abgegeben, sodass die Erledigungen nicht bekannt sind. In wenigen Fällen kam es auch zu Verbindungen.
 

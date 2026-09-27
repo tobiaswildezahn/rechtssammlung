@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 23
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3051", "21/5766", "21/5163", "21/5782", "21/4655"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54988"
@@ -139,7 +140,7 @@ Wie viele schulpflichtige Flüchtlinge leben in Hamburger Erstaufnahmeeinrichtun
 
 Wie viele dieser schulpflichtigen Flüchtlinge besuchen Lerngruppen in Erstaufnahmeeinrichtungen? Bitte pro Erstaufnahmeeinrichtung darstellen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Für eine möglichst schnelle Integration der Flüchtlingskinder sieht Hamburg von Beginn des Aufenthalts an ein Bildungs- und Betreuungsangebot vor. In den Lerngruppen der Erstaufnahmen findet deshalb bereits vollwertiger Schulunterricht statt. Dort wird im Umfang von 25 bis 30 Wochenstunden neben dem Deutsch als Zweitsprache“-Unterricht und Unterricht im Lernbereich „Lebensorientierung“ auch Mathematik und – in Abhängigkeit von den jeweiligen Rahmenbedingungen – Bewegung/ Sport, Musik und bildende Kunst angeboten. Mit dem Besuch des Unterrichts kommen die Kinder und Jugendlichen ihrer Schulpflicht nach, die – unabhängig vom rechtlichen Status – für alle Kinder und Jugendlichen mit Wohnsitz oder gewöhnlichem Aufenthalt in Hamburg gilt (siehe § 37 Hamburgisches Schulgesetz). Siehe Antwort zu 15. Die Aufenthaltsdauer der Kinder in den Lerngruppen wird dabei nicht gesondert erfasst. Für die Kinder im schulpflichtigen Alter, die länger als sechs Monate in Erstaufnahmen leben, siehe Anlage 1. Im Übrigen hat die zuständige Behörde damit begonnen, schulpflichtige Kinder der Sekundarstufe I aus den Lerngruppen der Erstaufnahmeeinrichtungen sukzessive in Basisklassen oder IVK an den allgemeinen Schulen einzuschulen.
 
@@ -161,7 +162,7 @@ b) Internationale Vorbereitungsklassen (IV-Klassen), in denen intensiver Deutsch
 
 An welchen weiteren allgemeinbildenden Schulen in welchen Stadtteilen sollen jeweils zu wann wie viele weitere ABC- und IV-Klassen eingerichtet werden? Bitte unter Angabe des Sozialindex nach Bezirken und Schulformen sortieren.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/5782. Die weiteren Abstimmungsgespräche mit den Schulen zur Einrichtung weiterer Basis- und IV-Klassen sind noch nicht abgeschlossen.
 

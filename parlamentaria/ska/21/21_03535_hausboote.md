@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/3900"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51886"
@@ -129,7 +130,7 @@ Wie viele Liegeplätze für Hausboote sind derzeit vorhanden und wie viele noch 
 
 Wo sind diese angesiedelt?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 - Bezirk Hamburg-Mitte: Es gibt keine verfügbaren Daten, da sich der Rahmenplan für Hausboote und Schwimmende Häuser in der Abstimmung befindet. Eine Erhebung der Daten ist in der für eine Parlamentarische Anfrage zur Verfügung stehenden Zeit mit vertretbarem Aufwand nicht möglich, weil hierzu eine hohe Zahl von Einzelakten ausgewertet werden müsste.
 
@@ -149,7 +150,7 @@ Sind darüber hinaus weitere Gebiete für Liegeplätze konkret geplant und wo w�
 
 Auf welchen Wasserflächen in Hamburg sieht der Senat mittelfristig weiteres Potenzial an Liegeplätzen für Hausboote?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Ja. Im Harburger Binnenhafen westlich der Harburger Hafenschleuse gibt es zwei Wasserflächen, die potenziell für Liegeplätze für Hausboote geeignet sind. Hier wurde jedoch bereits eine wasserrechtliche Genehmigung erteilt, wonach zum Teil eine anderweitige Nutzung (Sportboote) erfolgt.
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 18
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58657"
@@ -121,33 +122,33 @@ Nach welchen Maßgaben erfolgen die Kontrollen? Welche Kriterien werden konkret 
 
 Die Kontrolle erfolgt nach der Fachanweisung 1/2015 zur Durchführung des Tierschutzgesetzes. Überprüft werden folgende Kriterien:
 
- Management/Betriebsführung (Allgemeineindruck, Zuverlässigkeit, Qualifikation,
+– Management/Betriebsführung (Allgemeineindruck, Zuverlässigkeit, Qualifikation,
 
 Motivation, Dokumentation)
 
- Zustand der Tierhaltung
+– Zustand der Tierhaltung
 
- Verstöße gegen Rechtsvorschriften (Tierschutz-, Tierarzneimittel-, Lebensmittel-,
+– Verstöße gegen Rechtsvorschriften (Tierschutz-, Tierarzneimittel-, Lebensmittel-,
 
 Tierseuchen-, tierische Nebenproduktebeseitigungs- und Futtermittelrecht)
 
- Haltungssystem
+– Haltungssystem
 
- Art und Größe des Betriebes, der Einrichtung, der Tierhaltung
+– Art und Größe des Betriebes, der Einrichtung, der Tierhaltung
 
- Zeitpunkt der letzten Tierschutzkontrolle (Regelkontrolle)
+– Zeitpunkt der letzten Tierschutzkontrolle (Regelkontrolle)
 
- Tiergesundheit, Beeinträchtigungen für die Tiere (Pflegezustand, kranke Tiere)
+– Tiergesundheit, Beeinträchtigungen für die Tiere (Pflegezustand, kranke Tiere)
 
- Tierverluste/Mortalität
+– Tierverluste/Mortalität
 
- Art und Anzahl der Tiere
+– Art und Anzahl der Tiere
 
- Leistungsparameter (Zucht, Verhalten)
+– Leistungsparameter (Zucht, Verhalten)
 
- Personalquote (Tierzahl pro Betreuungsperson/ Sachkunde)
+– Personalquote (Tierzahl pro Betreuungsperson/ Sachkunde)
 
- Tierärztliche Betreuung
+– Tierärztliche Betreuung
 
 ### Frage 9
 

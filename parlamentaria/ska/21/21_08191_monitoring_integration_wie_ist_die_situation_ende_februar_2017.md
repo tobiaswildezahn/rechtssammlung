@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 31
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4499", "21/4566", "21/4765", "21/5126", "21/5454", "21/6543", "21/7163", "21/7829", "21/5811", "21/6223", "21/7421"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56891"
@@ -160,7 +161,7 @@ Wie viele Flüchtlinge haben mit Stand Ende Februar im Jahr 2017 bereits einen v
 
 Wie viele Flüchtlinge haben mit Stand Ende Februar 2017 bereits einen vom Land finanzierten Sprachkurs absolviert? Wie viele davon sind Männer, wie viele Frauen? Bitte jeweils für „Deutschkurse für Flüchtlinge“ und „Erstorientierung für Flüchtlinge“ angeben.
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Im Jahr 2017 (Stand Ende Januar) haben die Sprachkursträger für das Programm „Deutschkurse für Flüchtlinge“ Abrechnungen für 165 Absolventinnen und Absolventen eingereicht, die im Jahr 2016 in das Programm aufgenommen wurden. Davon waren 137 Männer und 28 Frauen.
 

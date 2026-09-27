@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11923", "20/463", "20/1552", "20/3894", "20/13358"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49007"
@@ -57,7 +58,7 @@ Brauchen Fahrer/-innen dieser Lang-Lkws eine besondere Fahrerlaubnis beziehungsw
 
 Wie ist der Ausbildungsstand der Führer/-innen von Lang-Lkws?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe § 11 der Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften für Fahrzeuge und Fahrzeugkombinationen mit Überlänge (LKWÜberlStV- AusnV) vom 19. Dezember 2011 für Fahrzeuge und Fahrzeugkombinationen mit Überlänge.
 
@@ -77,7 +78,7 @@ Inwieweit ist Hamburg in die Auswertung des Pilotprojekts eingebunden?
 
 Welche Hamburgischen Firmen beziehungsweise Niederlassung nutzen in welchem Umfang Lang-Lkws gegebenenfalls auf welchen Strecken im Linienverkehr?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Auswertung des Feldversuches obliegt der Bundesanstalt für Straßenwesen. Im Übrigen siehe Drs. 20/463 und 20/1552.
 
@@ -123,7 +124,7 @@ Gibt es, und welcher Art sind gegebenenfalls, Probleme in der Verkehrssicherheit
 
 Gab es polizeilich erfasste Vorfälle mit Lang-Lkws in der Freien und Hansestadt Hamburg und welche?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die Polizei führt keine Statistik im Sinne der Fragestellung. Für die Beantwortung wäre die händische Auswertung aller circa 13.500 Verkehrsunfälle pro Jahr mit Lkw- Beteiligung seit dem 1. Januar 2012 (Inkrafttreten der LKWÜberlStVAusnV) erforderlich. Dieses ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

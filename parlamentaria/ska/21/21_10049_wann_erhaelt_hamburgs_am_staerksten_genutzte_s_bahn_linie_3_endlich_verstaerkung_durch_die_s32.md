@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1469"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58875"
@@ -78,11 +79,11 @@ Wenn nein, warum nicht?
 
 Das mit einer Linie Altona – Dammtor – Hauptbahnhof – Harburg Rathaus („S32“) verfolgte Ziel einer Kapazitätserhöhung im S-Bahn-Verkehr zwischen Hauptbahnhof und Harburg kann, abhängig von der Fahrzeugverfügbarkeit (siehe Antwort zu 1.), wie folgt erreicht werden:
 
- kurz- beziehungsweise mittelfristig ohne Ausbau der Infrastruktur durch Kapazi-
+– kurz- beziehungsweise mittelfristig ohne Ausbau der Infrastruktur durch Kapazi-
 
 tätserhöhung auf den vorhandenen Linien (Einsatz zusätzlicher neunteiliger Langstatt sechsteiliger Vollzüge auf der S3 und/oder Ausweitung der Betriebszeiten der S31),
 
- langfristig mit Anpassung der Infrastruktur (signaltechnische Ermöglichung verdich-
+– langfristig mit Anpassung der Infrastruktur (signaltechnische Ermöglichung verdich-
 
 teter Zugfolgen im Abschnitt Hauptbahnhof – Harburg Rathaus) durch zusätzliche Fahrten.
 
@@ -96,7 +97,7 @@ Sind im aktuellen Doppelhaushalt für die Jahre 2017/2018 Finanzmittel für die 
 
 Sind im aktuellen Doppelhaushalt für die Jahre 2017/2018 Finanzmittel für die Beauftragung von Leistungen zur Einrichtung der Langzüge veranschlagt? Wenn ja, in welcher Produktgruppe welches Einzelplans und in welcher Höhe?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Finanzierung von Verkehrsdienstleistungen erfolgt über den aktuellen Einzelplan 7, Produktgruppe 269.01; Mittel werden bedarfsgerecht aus der Produktgruppe 269.04 bereitgestellt. Eine spezifische Veranschlagung einzelner Verkehrsbestellungen wie zum Beispiel die Einrichtung einer Verstärkerlinie oder die Beauftragung von Langstatt Vollzügen findet grundsätzlich nicht statt.
 
@@ -122,14 +123,14 @@ Realisierung
 
 Bahnhöfe
 
- Einbau zusätzlicher
+– Einbau zusätzlicher
 
 Kehrmöglichkeiten im  
 Bahnhof Harburg, um  
 von Süden kommende  
 Züge dort enden lassen  
 zu können.  
- Kapazitätserhöhung
+– Kapazitätserhöhung
 
 Personenverkehr Bahnhof Harburg (insbesondere zusätzliche Fußwegeverbindung zwischen Verbindungssteg und Hörstener Straße).
 
@@ -143,16 +144,18 @@ Die Wirtschaftlichkeitsbetrachtung wird derzeit aktualisiert.
 
 Robustheit und Stabilität S-Bahn erhöhen
 
- Umbau der Stromspei-
+– Umbau der Stromspei-
 
-seanlage im Knoten Hauptbahnhof.  Neue Weichentrapeze
+seanlage im Knoten Hauptbahnhof.
+– Neue Weichentrapeze
 
 und Signale zwischen  
 Harburg Rathaus und  
 Hammerbrook.  
- Sicherung der Bahnbe-
+– Sicherung der Bahnbe-
 
-triebsanlagen.  Optimierungen S-Bahn-
+triebsanlagen.
+– Optimierungen S-Bahn-
 
 Signalsystem Harburg- Harburg Rathaus.
 

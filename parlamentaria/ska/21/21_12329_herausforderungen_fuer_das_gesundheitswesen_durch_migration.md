@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61622"
@@ -130,7 +131,7 @@ Wie hoch waren die Gesundheitsausgaben nach § 4 AsylbLG in Hamburg von 30. Juni
 
 Wie hoch waren dabei die pro Kopf entstandenen Gesundheitsausgaben nach § 4 AsylbLG in Hamburg von 30. Juni 2015 bis 31. Dezember 2017? Bitte einzeln nach Jahren anführen.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Gesundheitsausgaben nach § 4 AsylbLG im Rahmen der Betreuung nach § 264  
 Abs.1 SGB V insgesamt  

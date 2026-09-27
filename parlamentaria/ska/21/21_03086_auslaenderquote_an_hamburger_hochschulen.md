@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/6560", "20/12340"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51403"
@@ -142,15 +143,15 @@ Wie wird die Qualifikation von Nicht-EU-Ausländern festgestellt, wenn diese kei
 
 Gemäß Beschluss der Kultusministerkonferenz vom 3. Dezember 2015 wird Studienbewerberinnen beziehungsweise Studienbewerbern, die fluchtbedingt den Nachweis der im Heimatland erworbenen Hochschulzugangsberechtigung für ein grundständiges oder weiterführendes Studium weder im Original noch in beglaubigter Kopie beibringen können, der Nachweis abhängig vom asyl- und aufenthaltsrechtlichen Status zur Beweiserleichterung über ein dreistufiges Verfahren ermöglicht. Dieses umfasst:
 
- Feststellung der persönlichen Voraussetzungen anhand asyl- und aufenthalts-
+– Feststellung der persönlichen Voraussetzungen anhand asyl- und aufenthalts-
 
 rechtlicher Kategorien,
 
- Plausibilisierung der Bildungsbiographie bezogen auf den Erwerb einer Hoch-
+– Plausibilisierung der Bildungsbiographie bezogen auf den Erwerb einer Hoch-
 
 schulzugangsberechtigung im Heimatland und
 
- Nachweis der behaupteten Hochschulzugangsberechtigung durch ein qualitätsge-
+– Nachweis der behaupteten Hochschulzugangsberechtigung durch ein qualitätsge-
 
 leitetes Prüfungs- beziehungsweise Feststellungsverfahren.
 

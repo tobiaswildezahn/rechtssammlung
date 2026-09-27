@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 17
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14486", "20/5317", "21/13127", "21/12513"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63030"
@@ -81,37 +82,37 @@ http://www.beteiligungsbericht.fb.hamburg.de/Download/HamburgerCorporateGovern a
 
 Neben diversen redaktionellen Änderungen, Streichung von Doppelungen und Konkretisierungen wurden insbesondere folgende Punkte neu aufgenommen:
 
- Bezug in der Präambel auf das Leitbild des Ehrbaren Kaufmanns
+– Bezug in der Präambel auf das Leitbild des Ehrbaren Kaufmanns
 
- Bezug auf die Vorgaben des Hamburgischen Gleichstellungsgesetzes und für mit-
+– Bezug auf die Vorgaben des Hamburgischen Gleichstellungsgesetzes und für mit-
 
 bestimmte Unternehmen auf das bundesrechtliche „Gesetz für die gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst“ (Ziffern 2.4, 4.1.5, 5.4.1)
 
- Verdeutlichung der Verantwortung für die Informationsversorgung des Aufsichtsra-
+– Verdeutlichung der Verantwortung für die Informationsversorgung des Aufsichtsra-
 
 tes (Ziffer 3.3.)
 
- Pflicht der Geschäftsführung, Grundzüge des Compliance Management Systems
+– Pflicht der Geschäftsführung, Grundzüge des Compliance Management Systems
 
 offenzulegen und Beschäftigten die Möglichkeit einzuräumen, geschützt Hinweise auf Rechtsverstöße im Unternehmen zu geben (Ziffer 4.1.4)
 
- Pflicht der Geschäftsführung zur Zahlung eines Mindestlohns (sowohl im eigenen
+– Pflicht der Geschäftsführung zur Zahlung eines Mindestlohns (sowohl im eigenen
 
 Unternehmen als auch bei Auftragsvergaben) (Ziffer 4.1.6)
 
- Möglichkeit, in begründeten Fällen auf eine variable Vergütung der Geschäftsfüh-
+– Möglichkeit, in begründeten Fällen auf eine variable Vergütung der Geschäftsfüh-
 
 rung zu verzichten (Ziffer 4.2.6)
 
- Forderung, mehrjährige variable Vergütungsbestandteile nicht vorzeitig auszuzah-
+– Forderung, mehrjährige variable Vergütungsbestandteile nicht vorzeitig auszuzah-
 
 len (Ziffer 4.2.6)
 
- Präzisierung des Verbots der Vorteilsnahme beziehungsweise Vorteilsgewährung
+– Präzisierung des Verbots der Vorteilsnahme beziehungsweise Vorteilsgewährung
 
 (Ziffer 4.3.4)
 
- Regelung, dass die Entsprechenserklärung zum HCGK für mindestens fünf Jahre
+– Regelung, dass die Entsprechenserklärung zum HCGK für mindestens fünf Jahre
 
 auf der Internetseite des Unternehmens einsehbar sein soll (Ziffer 6.2)
 

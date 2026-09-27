@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4966"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53626"
@@ -129,6 +130,6 @@ Wieso hat sich der Senat bisher nicht mit der Frage 12. aus der Drs. 21/4966 bef
 
 Beabsichtigt der Senat, sich zeitnah mit den in Frage 12. formulierten Bedenken, ob Aussagen und Zielsetzungen wie, „der Mensch ist das wichtigste Kapital von Bundeswehr und Wirtschaft“, kompatibel mit dem Grundgesetz Artikel 1 Absatz 1 „Die Würde des Menschen ist unantastbar. Sie zu achten und zu schützen ist Verpflichtung aller staatlichen Gewalt“ sowie Artikel 2 Absatz 1 „Jeder hat das Recht auf die freie Entfaltung seiner Persönlichkeit, soweit er nicht die Rechte anderer verletzt und nicht gegen die verfassungsmäßige Ordnung oder das Sittengesetz verstößt“ sind, zu befassen? Wenn ja, wann? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Drs. 21/4966. Im Übrigen siehe Antwort zu 2.

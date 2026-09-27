@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 18
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4323"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52918"
@@ -77,7 +78,7 @@ e) Wie hoch werden dabei voraussichtlich die Kosten für
 aa) Herrichtung, Erschließung und Vermarktung der Fläche,
 bb) Realisierung der Bebauung der Fläche in Altenwerder West sein?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Hinreichend verlässliche Zeit- und Kostenplanungen lassen sich durch die HPA erst nach Vorliegen der Machbarkeitsstudie sowie nach grundsätzlichen Entscheidungen zum Vergabeverfahren treffen.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1620"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50103"
@@ -79,7 +80,7 @@ Was sind die Ergebnisse und Maßnahmen welche aus der Tagung des Beirats zur Bes
 
 Welche Maßnahmen sollen mit welcher Zeitvorgabe umgesetzt werden? Bitte nach Maßnahmen und Zieldatum auflisten.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 In der neunten und damit vorletzten Sitzung des Beirates zum Gesamtkonzept der Wohnungslosenhilfe in Hamburg am 23.09.2015 wurde dem Beirat zu den Arbeitspaketen „Wohnungslose Menschen mit einer psychischen Störung“ und „Einführung und Umsetzung der Stufe 4“ berichtet. Beide Arbeitsgruppen haben ihre Arbeit noch nicht beendet und Abschlussberichte zur letzten Beiratssitzung im Januar 2016 in Aussicht gestellt. Ergebnisse und Maßnahmen wurden nicht beschlossen.
 

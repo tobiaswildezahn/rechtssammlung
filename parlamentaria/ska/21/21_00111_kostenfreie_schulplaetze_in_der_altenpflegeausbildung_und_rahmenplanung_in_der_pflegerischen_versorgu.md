@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48244"
@@ -45,7 +46,7 @@ Wie viele kostenfreie Schulplätze wurden bisher für die Ausbildung in der Alte
 
 Kann sich der Senat vorstellen, kurzfristig/mittelfristig auf das Schulgeld grundsätzlich zu verzichten, um den Pflegeberuf weiter aufzuwerten? Bei nein bitte begründen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Grundsätzlich kann jede und jeder Auszubildende in der Altenpflege einen kostenlosen Schulplatz an der Staatlichen Schule Gesundheitspflege (W 1) in Anspruch nehmen. Zurzeit werden an der W 1 386 Schulplätze in Anspruch genommen (Quelle: BSB, Schuljahreserhebung 2014).
 

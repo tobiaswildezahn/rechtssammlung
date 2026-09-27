@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9478", "21/9908"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59024"
@@ -61,7 +62,7 @@ Existiert über die Sondernutzungserlaubnis hinaus ein Vertrag zwischen der AHOI
 
 Wurden bisher politischen Parteien Standgenehmigungen für das diesjährige Fest erteilt? Wenn ja, welchen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/9908.
 

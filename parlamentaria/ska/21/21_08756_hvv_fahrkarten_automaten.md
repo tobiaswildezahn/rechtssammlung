@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57522"
@@ -55,7 +56,7 @@ Wie und wie oft werden die Fahrkarten-Automaten des HVV auf ihre Funktionsfähig
 
 Gibt es ein digitales Controlling-System, das meldet, wenn keine ausreichenden Wechselgeldbestände mehr vorhanden sind? Wenn ja: Wie schnell wird dieser Mangel ausgeglichen? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Automaten werden internetbasiert permanent durch ein Meldungsmonitoring überprüft. Zusätzlich werden regelmäßige Wartungsarbeiten durchgeführt.
 

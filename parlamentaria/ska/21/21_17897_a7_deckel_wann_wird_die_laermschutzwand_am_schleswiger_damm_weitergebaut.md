@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67505"
@@ -55,7 +56,7 @@ Wie lang wird die Lärmschutzwand am Schleswiger Damm letztendlich sein? Gab es 
 
 Welche Höhe soll die letztendliche Lärmschutzwand am Schleswiger Damm haben? Gab es hier Änderungen zur ursprünglichen Planung?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Im Rahmen des 6-/8-streifigen Ausbaus der BAB A 7 wird unter anderem an der Anschlussstelle Hamburg-Schnelsen eine Lärmschutzwand errichtet. Diese endet im Schleswiger Damm, etwa auf Höhe „Am Hasenkamp“, hat eine Länge von 276 m, beginnt an der Rampe 2.2 mit einer Höhe von 7 m und endet mit einer Höhe von 4 m am Schleswiger Damm. Die erforderlichen Lärmschutzmaßnahmen im Zusammenhang mit dem Ausbau der A 7 wurden vom ÖPP-Auftragnehmer durchgeführt und sind im Bereich Schleswiger Damm bereits abgeschlossen.
 

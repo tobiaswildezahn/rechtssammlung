@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51736"
@@ -91,7 +92,7 @@ Ist dem Senat bekannt, dass Hamburger Jobcenter die Polizei nicht regelhaft info
 
 Falls die Hamburger Jobcenter die Polizei über den Aufenthalt von mutmaßlichen und per Haftbefehl gesuchten Straftätern in ihren Räumlichkeiten nur dann rechtskonform informieren dürfen, wenn Gesetze des Bundes novelliert werden müssen, ist der Senat bereit, auf Bundesebene initiativ zu werden, um diese Informationen der Jobcenter an die Polizei Hamburg zu ermöglichen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung. Es besteht eine ausreichende gesetzliche Grundlage für den Informationsaustausch zwischen Jobcenter und Polizei. Für eine regelhafte unverzügliche Information des Jobcenters an die Polizei gibt es keine Rechtsgrundlage. Im Übrigen hat sich der Senat damit nicht befasst.
 

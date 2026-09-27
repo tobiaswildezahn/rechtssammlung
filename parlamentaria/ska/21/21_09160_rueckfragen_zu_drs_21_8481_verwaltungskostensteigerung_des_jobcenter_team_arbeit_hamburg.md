@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 52968
 seiten: 8
 fragen: 6
-einzelfragen: 6
-antwortbloecke: 6
+einzelfragen: 8
+antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8481", "21/8764", "21/7483"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57917"
@@ -56,11 +57,20 @@ Im Rahmen der Arbeitsmarkt- und Qualifizierungsberatung werden Arbeitgeber- Kund
 ### Frage 2
 
 Da ausweislich der Senatsantwort zu Punkt 3. der Arbeitgeberservice keinerlei Daten über die Rechtskreiszugehörigkeit der Beratenen erhebt, frage ich den Senat:
-2.1. Welche Daten werden vom Arbeitgeberservice bei der Vermittlung von Arbeitssuchenden erhoben? Bitte konkret die erhobenen Kundendaten nennen.
-2.2. Wie konkret wird das „Matching“ zwischen den angebotenen Stellen und den Arbeitssuchenden vorgenommen ohne Kenntnis der Rechtskreiszugehörigkeit? Bitte die Prozessvorgaben mitteilen.
-2.3. Nach welchem Kriterium ist die Refinanzierung von 36 Prozent der MAK aus den Mitteln des Eingliederungstitels vorgenommen worden, wenn es keine Zuordnung der Vermittlungsleistung des Arbeitgeberservice zu Kunden aus dem Rechtskreis des SGB II beziehungsweise SGB III gibt?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Welche Daten werden vom Arbeitgeberservice bei der Vermittlung von Arbeitssuchenden erhoben? Bitte konkret die erhobenen Kundendaten nennen.
+
+### Frage 2.2
+
+Wie konkret wird das „Matching“ zwischen den angebotenen Stellen und den Arbeitssuchenden vorgenommen ohne Kenntnis der Rechtskreiszugehörigkeit? Bitte die Prozessvorgaben mitteilen.
+
+### Frage 2.3
+
+Nach welchem Kriterium ist die Refinanzierung von 36 Prozent der MAK aus den Mitteln des Eingliederungstitels vorgenommen worden, wenn es keine Zuordnung der Vermittlungsleistung des Arbeitgeberservice zu Kunden aus dem Rechtskreis des SGB II beziehungsweise SGB III gibt?
+
+#### Antwort zu Fragen 2, 2.1, 2.2 und 2.3
 
 Im gemeinsamen Arbeitgeberservice arbeiten insgesamt 191 Mitarbeiterinnen und Mitarbeiter von Arbeitsagentur und Jobcenter. Der Anteil an Jobcenter-Beschäftigten beträgt 36 Prozent. Diese Jobcenter-Beschäftigten werden aus dem durch einen Umschichtungsbetrag gestärkten Verwaltungsbudget finanziert, da es sich um FHH- und BA-Beschäftigte handelt, denen Aufgaben nach dem SGB II bei Jobcenter team.arbeit.hamburg zugewiesen wurden, siehe Drs. 21/8764.
 
@@ -85,15 +95,22 @@ Im Rahmen der Dienstleistung werden Aufgaben der soziokulturellen Teilhabe (eint
 ### Frage 4
 
 Die Antwort des Senats erhellt nicht die ungleichmäßigen Mittelabflüsse. Rückfragen bei Bildungsträgern ergaben die Information, dass die AVGS-MAT tatsächlich über monatliche Abschläge bezahlt werden und nicht erst nach vollständiger Leistungserbringung. Der Senat teilte jedoch mit, dass die nachgefragte Ausgabenerhöhung im Februar 2017 sich dadurch und durch hohe Eintritte im 3. und 4. Quartal 2016 erklären lässt. Dies steht im Widerspruch zu den oben genannten Informationen der Bildungsträger.
-4.1. Welcher Teil der aktuell kostenerheblichen sogenannten AVGS/ MAT wird erst nach vollständiger Leistungserbringung bezahlt, welcher mit regelhaften monatlichen Abschlägen?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+Welcher Teil der aktuell kostenerheblichen sogenannten AVGS/ MAT wird erst nach vollständiger Leistungserbringung bezahlt, welcher mit regelhaften monatlichen Abschlägen?
+
+#### Antwort zu Fragen 4 und 4.1
 
 Jobcenter hat allen Bildungsträgern die Möglichkeit eröffnet, Teilzahlungsanträge zu stellen. Ebenso können Bildungsträger Rechnungen nach vollständiger Leistungserbringung stellen. Auf die tatsächliche Nutzung der Varianten hat Jobcenter keine Einflussmöglichkeit.
 
 Weitere Angaben zu Anteilen werden statistisch nicht erfasst.
 
-4.2. Wie erklärt sich auf dieser Grundlage der nochmalige Anstieg der Ausgaben für SGB-II-Eingliederungsleistungen im Februar 2017 auf über 13 Millionen Euro?
+### Frage 4.2
+
+Wie erklärt sich auf dieser Grundlage der nochmalige Anstieg der Ausgaben für SGB-II-Eingliederungsleistungen im Februar 2017 auf über 13 Millionen Euro?
+
+#### Antwort zu Frage 4.2
 
 Siehe Drs 21/8764.
 
@@ -107,13 +124,21 @@ Gemäß § 46 (1) Satz 1 SGB II trägt der Bund die Aufwendungen der Grundsicher
 
 Die Ausgaben zur Arbeitsmarktpolitik werden vollständig aus Bundesmitteln finanziert und unterliegen der parlamentarischen Kontrolle des Deutschen Bundestages.
 
-5.1. Welche über das regionale Einkaufszentrum (REZ) ausgeschriebenen Maßnahmen mit welcher Teilnehmendenzahl sind in welchem Monat des Jahres 2017 mit welchen Mittelvolumen finanziert worden? Mindestens zu nennen sind TN-Zahl und Mittelvolumen pro Maßnahmetyp und Monat, die Auslastung ist maßnahmebezogen anzugeben.
+### Frage 5.1
+
+Welche über das regionale Einkaufszentrum (REZ) ausgeschriebenen Maßnahmen mit welcher Teilnehmendenzahl sind in welchem Monat des Jahres 2017 mit welchen Mittelvolumen finanziert worden? Mindestens zu nennen sind TN-Zahl und Mittelvolumen pro Maßnahmetyp und Monat, die Auslastung ist maßnahmebezogen anzugeben.
+
+#### Antwort zu Frage 5.1
 
 Siehe Anlagen 1 und 2. Das Mittelvolumen ist stets unabhängig von tatsächlichen Teilnahmen, sofern die vertragliche Mindestabnahme noch nicht erreicht ist. Die Anlage 1 beinhaltet daher Angaben zum Volumen der Mindestabnahme und gegebenenfalls Angaben zu Teilnahmen oberhalb der Mindestabnahme.
 
 Weitere detaillierteren Informationen zu Finanzierungen werden statisch nicht erfasst.
 
-5.2. Die Antwort auf Frage 7.2. der Drs. 21/8764 ist unklar und widersprüchlich. Auf Seite 2, Frage 6., wird gesagt, der Mittelabfluss bei AVGS/MAT erfolge „zum großen Teil erst nach vollständiger Leistungserbringung und somit zeitversetzt…“, zu Frage 7.2. wird ausgeführt, die „Ausgaben setzen sich zusammen aus abgeschlossenen Teilnahmen, noch laufenden Teilnahmen oder im 1. Quartal erfolgten Eintritten. Die Zahl der bereits abgerechneten Teilnehmerinnen und Teilnehmer wird nicht erfasst“, und weiter oben „anders als bei den … ausgeschriebenen Maßnahmen werden im Rahmen der Gutscheinmaßnahmen nur Inhalte finanziert, an denen der einzelne Kunde oder die einzelne Kundin auch teilgenommen hat“. Bitte definieren, was der Senat unter „Ausgaben“ beziehungsweise unter „Mittelabfluss“ versteht und inwiefern es hier einen Unterschied gibt.
+### Frage 5.2
+
+Die Antwort auf Frage 7.2. der Drs. 21/8764 ist unklar und widersprüchlich. Auf Seite 2, Frage 6., wird gesagt, der Mittelabfluss bei AVGS/MAT erfolge „zum großen Teil erst nach vollständiger Leistungserbringung und somit zeitversetzt…“, zu Frage 7.2. wird ausgeführt, die „Ausgaben setzen sich zusammen aus abgeschlossenen Teilnahmen, noch laufenden Teilnahmen oder im 1. Quartal erfolgten Eintritten. Die Zahl der bereits abgerechneten Teilnehmerinnen und Teilnehmer wird nicht erfasst“, und weiter oben „anders als bei den … ausgeschriebenen Maßnahmen werden im Rahmen der Gutscheinmaßnahmen nur Inhalte finanziert, an denen der einzelne Kunde oder die einzelne Kundin auch teilgenommen hat“. Bitte definieren, was der Senat unter „Ausgaben“ beziehungsweise unter „Mittelabfluss“ versteht und inwiefern es hier einen Unterschied gibt.
+
+#### Antwort zu Frage 5.2
 
 „Mittelbflüsse“ und „Ausgaben“ werden mit dem Realisieren von Ansprüchen und folgend Auskehren von Zahlungen (vorliegend Leistungen) definiert. Zwischen den Begrifflichkeiten „Ausgaben“ und „Mittelabfluss“ gibt es keinen Unterschied.
 

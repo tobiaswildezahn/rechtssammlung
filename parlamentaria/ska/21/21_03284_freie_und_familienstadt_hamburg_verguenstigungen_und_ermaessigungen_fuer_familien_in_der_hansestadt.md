@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51647"
@@ -87,7 +88,7 @@ Welche Daten über die Inanspruchnahme der Vergünstigungen und besonderen Kondi
 
 Wie häufig wurden in den Jahren 2013, 2014, 2015 Vergünstigungen und besondere Konditionen des HVV für den oben genannten Personenkreis in Anspruch genommen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Bei Abonnementskarten werden nur die zur Durchführung des Abonnements notwendigen Daten erfasst (zum Beispiel Name, Adresse, Art der Ermäßigung, Kontodaten). Angaben zur Nutzung der Mitnahmeregelungen durch Familien sind daher nicht möglich.
 

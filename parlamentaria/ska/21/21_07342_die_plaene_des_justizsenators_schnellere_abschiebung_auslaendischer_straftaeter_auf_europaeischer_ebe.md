@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55948"
@@ -45,7 +46,7 @@ Welche Planungen bestehen seitens der zuständigen Behörden, sich auf Bundesebe
 
 In welchem Zeitrahmen sollen diesbezüglich welche konkreten Schritte eingeleitet werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat setzt sich im Rahmen der Befassung des Bundesrates regelmäßig dafür ein, dass europarechtliche Regelungen zur Verbesserung der Zusammenarbeit der Mitgliedstaaten auf dem Gebiet der inneren Sicherheit erlassen und schnellstmöglich umgesetzt werden.
 

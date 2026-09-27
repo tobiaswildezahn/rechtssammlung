@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/85", "20/109", "20/411", "20/527", "20/529", "20/1767", "20/1430"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49647"
@@ -124,7 +125,7 @@ Eignen sich die Flächen prinzipiell auch für die Nutzung als Erstunterbringung
 
 Wurde eine Nutzung der oben genannten Flächen zum Zwecke der Erstunterbringung bereits ins Auge gefasst?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Nein. Grundsätzlich ist davon auszugehen, dass solche Flächen nicht die für einen ZEA-Standort erforderliche Größe aufweisen.
 

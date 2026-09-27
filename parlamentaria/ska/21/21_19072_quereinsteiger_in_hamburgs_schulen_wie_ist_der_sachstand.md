@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 23
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14351", "21/8426", "21/8766", "21/14091"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68797"
@@ -39,15 +40,15 @@ In Hamburg wird als qualifizierter Quereinstieg der Zugang in den Schuldienst du
 
 Der qualifizierte Quereinstieg ist in Hamburg eine zusätzliche Maßnahme, um insbesondere in Mangelfächern mehr Lehrkräfte für den Schuldienst zu gewinnen. Dies bezieht sich derzeit auf folgende Fächer/Fachrichtungen/Förderschwerpunkte und Schulformen:
 
- Lehramt an der Primar- und Sekundarstufe I sowie an Gymnasien: Physik, Infor-
+– Lehramt an der Primar- und Sekundarstufe I sowie an Gymnasien: Physik, Infor-
 
 matik, Mathematik, Chemie, Musik, Theater/Darstellendes Spiel.
 
- Lehramt an Sonderschulen: Ein Quereinstieg ist hier für alle Förderschwerpunkte
+– Lehramt an Sonderschulen: Ein Quereinstieg ist hier für alle Förderschwerpunkte
 
 möglich.
 
- Lehramt an Beruflichen Schulen: Kinder- und Jugendhilfe, Metalltechnik, Elektro-
+– Lehramt an Beruflichen Schulen: Kinder- und Jugendhilfe, Metalltechnik, Elektro-
 
 technik.
 
@@ -128,7 +129,7 @@ Wie viele der besetzten Personalstellen für Lehrkräfte werden in den kommenden
 
 Welche mittel- bis langfristigen Bedarfe für Lehrkräfte ergeben sich hieraus? Bitte für jede Schulform einzeln angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Für die nachstehend aufgeführten altersbedingten Abgänge ist eine Nachbesetzung entsprechend der Schülerzahlenentwicklung vorgesehen:
 
@@ -158,7 +159,7 @@ Wie viele Lehrer/-innen im aktuellen Schuljahr gelten als Quereinsteiger und ver
 
 Über welche Qualifikation verfügen diese Quereinsteiger in der Regel? Bitte differenziert nach Schulformen Grundschule, Stadtteilschule Sekundarstufen 1 und 2, Gymnasium Sekundarstufen 1 und 2, Berufsschule, Sonderschulen darstellen.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Zum Einstellungstermin in den Vorbereitungsdienst zum 1. August 2019 waren von 413 Personen insgesamt 18 Quereinsteiger. Diese verteilten sich wie folgt auf die Schulformen:
 

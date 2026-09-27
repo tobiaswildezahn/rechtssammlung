@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17821"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67682"
@@ -63,7 +64,7 @@ Sind den Mitarbeitenden der Standesämter Fälle erinnerlich, wo Menschen kommun
 
 An wie viele Fälle können sich die Mitarbeitenden erinnern (gegebenenfalls Anzahl schätzen)? Bitte aufschlüsseln nach Standesamt.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In den Standesämtern Altona und Wandsbek können sich die Mitarbeiterinnen und Mitarbeiter an jeweils einen Fall erinnern, in dem nach Beratung kein Antrag gestellt wurde. Die Mitarbeiterinnen und Mitarbeiter der übrigen Standesämter können sich an keine Fälle erinnern. Bei dem Fall in Wandsbek erfolgte dabei der Hinweis, dass eine Erklärung nach § 45 PStG keine Aussicht auf Erfolg haben dürfte. Ein rechtmittelfähiger Bescheid wurde hierzu nicht erlassen.
 

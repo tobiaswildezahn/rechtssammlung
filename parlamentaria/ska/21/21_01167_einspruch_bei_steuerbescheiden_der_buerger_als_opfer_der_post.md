@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49354"
@@ -71,7 +72,7 @@ Welche rechtlichen Möglichkeiten haben Steuerzahler in einem solchen Fall gegen
 
 Welche Einspruchsfrist findet für Steuerbescheide bei einem Poststreik Anwendung? Was ist dabei zu beachten und wann beginnt die Frist? Auf welcher rechtlichen Grundlage beruht diese Einspruchsfrist? Gibt es dazu Abweichungen in der Praxis der Finanzämter in Hamburg? Wenn ja, seit wann, welche und warum?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Adressaten eines Steuerverwaltungsaktes können innerhalb einer Frist von einem Monat ab Bekanntgabe Einspruch einlegen. Die Einspruchsfrist ist in § 355 Absatz 1 Abgabenordnung geregelt. Hiervon abweichende Regelungen bestehen nicht. Im Übrigen siehe Vorbemerkung.
 

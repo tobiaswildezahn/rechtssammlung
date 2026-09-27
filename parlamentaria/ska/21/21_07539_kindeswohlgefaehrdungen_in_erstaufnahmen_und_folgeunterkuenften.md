@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4174", "21/6563"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56159"
@@ -123,7 +124,7 @@ Für wie viele Erstaufnahmen und Folgeeinrichtungen wurden keine Konzepte vorgel
 
 Gibt es vonseiten des Senats Vorgaben für diese Konzepte? Wenn ja, welche? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 

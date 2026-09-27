@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 23
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2581", "21/7840", "21/4140", "21/5841"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57427"
@@ -197,7 +198,7 @@ Wie hat sich der Pilotversuch für den Religionsunterricht für alle weiterentwi
 
 Gibt es mittlerweile die vom Senat in Drs. 21/2581 angekündigte Zwischenevaluation? Wenn ja: Welche Ergebnisse hat diese und wo ist sie zu finden? Wenn nein: Warum nicht und wann wird es sie geben?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Drs. 21/5841.
 

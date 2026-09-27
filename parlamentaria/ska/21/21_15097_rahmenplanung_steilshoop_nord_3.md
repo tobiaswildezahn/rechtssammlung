@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13121", "21/14627"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64560"
@@ -121,7 +122,7 @@ Welche konkreten Voraussetzungen müssen geschaffen werden, um der SAGA das Eige
 
 Wann wird die Kommission für Bodenordnung beteiligt?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die entsprechenden Erbbaurechte können bestellt werden, wenn die Bewertung der Grundstücke erfolgt ist und die Kommission für Bodenordnung der Vergabe der Grundstücke an die SAGA zugestimmt hat. Wann die Kommission für Bodenordnung befasst wird, steht derzeit noch nicht fest.
 

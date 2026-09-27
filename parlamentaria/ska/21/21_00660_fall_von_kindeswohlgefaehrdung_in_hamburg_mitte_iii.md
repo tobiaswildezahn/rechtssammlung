@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/518"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48821"
@@ -43,7 +44,7 @@ Inwieweit ist es bei der Polizei üblich, empfohlen oder Teil einer Dienstvorsch
 
 Inwieweit ist es möglich, entsprechende Informationen auch noch unterwegs zum Einsatzort, beispielsweise in Dienstfahrzeugen, oder vor Ort abzurufen? Besteht dabei auch (mobiler) Zugriff auf ComVor?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine generelle Abklärung aktenkundiger Ereignisse im Sinne der Fragestellung vor Wahrnehmung eines polizeilichen Einsatzanlasses findet nicht statt. Anlassbezogen, sofern konkrete Hinweise auf besondere Gefährdungslagen vorliegen, wird vor Einsatzwahrnehmung über das polizeilichen Auskunftssystem POLAS eine personenbezogene Recherche durchgeführt. Eine Dienstvorschrift im Sinne der Fragestellungen existiert nicht.
 

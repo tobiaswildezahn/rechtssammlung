@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/20196", "21/19283", "21/20198", "21/18881"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69976"
@@ -65,7 +66,7 @@ Welche anderen Finanzdienstleister haben in Hamburg Cum-Ex- Geschäfte zum Nacht
 
 Hat der Senat Kenntnis darüber, ob es nach den ersten Anzeichen für ein Fehlverhalten der M.M.Warburg Treffen zwischen der Geschäftsleitung der Bank und Vertretern des Hamburger Senats gab? Falls ja, wann und mit wessen Beteiligung?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/20196 und Drs. 21/20198.
 

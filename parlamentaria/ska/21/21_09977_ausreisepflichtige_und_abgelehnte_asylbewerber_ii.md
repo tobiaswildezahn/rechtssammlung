@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9896", "21/1358", "21/2983", "21/3552", "21/4000", "21/5426", "21/7611"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58800"
@@ -49,7 +50,7 @@ Wie viele ausreisepflichtige Ausländer halten sich zum aktuellen Stichtag in Ha
 
 Wie viele von ihnen sind vollziehbar ausreisepflichtig? (Bitte nach Herkunftsländern aufschlüsseln.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/9896; aktuellere Zahlen des Ausländerzentralregisters liegen noch nicht vor. Statistische Erhebungen, die zwischen ausreisepflichtigen und vollziehbar ausreisepflichtigen Ausländern differenzieren, liegen ebenfalls nicht vor.
 
@@ -152,7 +153,7 @@ Wie lange dauern die Verfahren der Identitätsfeststellung im Durchschnitt an?
 
 Wie lange dauern die Verfahren der Passersatzbeschaffung im Durchschnitt an? (Bitte nach den relevanten Herkunftsländern aufschlüsseln.)
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/1358. Die Dauer dieser Verfahren hängt stark vom Einzelfall ab und wird statistisch nicht erfasst, sodass auch eine durchschnittliche Verfahrensdauer nicht ermittelbar ist.
 
@@ -164,7 +165,7 @@ Welche Meldeauflagen bei der Innenbehörde erhalten Ausreisepflichtige?
 
 Welche Meldeauflagen erhalten Ausreisepflichtige ohne Pass- beziehungsweise Passersatzpapiere?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Es wird eine Duldung gemäß § 60a AufenthG erteilt, für welche die weiteren Regelungen des § 61 Absatz 1 bis Absatz 1e AufenthG gelten. Welche weiteren Auflagen gegebenenfalls nach § 61 Absatz 1e AufenthG angeordnet werden, richtet sich unter
 

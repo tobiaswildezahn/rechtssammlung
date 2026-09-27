@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3055"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53699"
@@ -55,7 +56,7 @@ Welche Aktivitäten werden dort jeweils angeboten?
 
 Gibt es Akzeptanzabschätzungen oder Besucherzählungen zu den Angeboten dieser Mehrgenerationenhäuser?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage.
 
@@ -126,67 +127,67 @@ Einrichtung
 
 Soziale Beratung und Hilfen:
 
- Telefonauskunft und Infothek
+– Telefonauskunft und Infothek
 
- Erstberatung zu allen Fragen im Alltag und Weitervermittlung in das
+– Erstberatung zu allen Fragen im Alltag und Weitervermittlung in das
 
 Hamburger Hilfesystem
 
- Beratung für Mütter
+– Beratung für Mütter
 
- Sozialberatung, Formular- und Antragshilfe
+– Sozialberatung, Formular- und Antragshilfe
 
- Rechtsberatung
+– Rechtsberatung
 
- Beratung zur beruflichen Orientierung für Bundesfreiwillige
+– Beratung zur beruflichen Orientierung für Bundesfreiwillige
 
- Gesundheitsförderung / Shiatsu
+– Gesundheitsförderung / Shiatsu
 
- Informationen zu aktuellen Themen
+– Informationen zu aktuellen Themen
 
 Offene, angeleitete Treffpunkte:
 
- Info-Café
+– Info-Café
 
- Mütter-Café
+– Mütter-Café
 
- Information und Austausch für Mütter in türkischer Sprache
+– Information und Austausch für Mütter in türkischer Sprache
 
- Austausch auf Deutsch für Migrantinnen und geflüchtete Frauen
+– Austausch auf Deutsch für Migrantinnen und geflüchtete Frauen
 
- Offener Kaffeetreff für geflüchtete Frauen mit begleitender Kinder-
+– Offener Kaffeetreff für geflüchtete Frauen mit begleitender Kinder-
 
 betreuung
 
- Mittagstische
+– Mittagstische
 
- Frühstückstreffpunkte
+– Frühstückstreffpunkte
 
- PC-Online-Treffpunkte bei Flaks und im Bürgertreff Altona-Nord
+– PC-Online-Treffpunkte bei Flaks und im Bürgertreff Altona-Nord
 
- Basteln für Jung und Alt gemeinsam mit dem Spielhaus Alsenpark
+– Basteln für Jung und Alt gemeinsam mit dem Spielhaus Alsenpark
 
- Hamburg entdecken für Jung und Alt
+– Hamburg entdecken für Jung und Alt
 
- Gesundheitsförderung Schwimmen für Jung und Alt
+– Gesundheitsförderung Schwimmen für Jung und Alt
 
- Offener Kaffeetreff für geflüchtete Frauen und ihre Kinder
+– Offener Kaffeetreff für geflüchtete Frauen und ihre Kinder
 
- Recycling Taschen häkeln
+– Recycling Taschen häkeln
 
- Offene Kinderbetreuung
+– Offene Kinderbetreuung
 
 Qualifizierung und Kurse:
 
- Vorbereitung auf die externe Prüfung für den ersten allgemeinbil-
+– Vorbereitung auf die externe Prüfung für den ersten allgemeinbil-
 
 denden Schulabschluss
 
- Stark im Beruf – Mütter mit Migrationshintergrund steigen ein (Ein-
+– Stark im Beruf – Mütter mit Migrationshintergrund steigen ein (Ein-
 
 stieg in den Arbeitsmarkt)
 
- Zukunftslotsen Altona in der Flüchtlingsunterstützung
+– Zukunftslotsen Altona in der Flüchtlingsunterstützung
 
 2015: Siehe Drs. 21/3055
 
@@ -202,19 +203,19 @@ Mehrgenerationenhaus
 
 Frage 3
 
- Deutsch sprechen lernen für geflüchtete Frauen mit begleitender,
+– Deutsch sprechen lernen für geflüchtete Frauen mit begleitender,
 
 offener Kinderbetreuung
 
- PC Kurs für Anfängerinnen
+– PC Kurs für Anfängerinnen
 
- Sicherer Umgang mit PC und Internet
+– Sicherer Umgang mit PC und Internet
 
- Deutsch im Alltag
+– Deutsch im Alltag
 
- Nähkurse
+– Nähkurse
 
- Theaterprojekt Lebenslust für Jung und Alt (in Kooperation mit der
+– Theaterprojekt Lebenslust für Jung und Alt (in Kooperation mit der
 
 Grundschule Arnkielstraße, dem Alten-Pflegezentrum Stadtdomizil
 
@@ -222,47 +223,47 @@ und dem Bürgertreff Altona-Nord)
 
 Sonstiges:
 
- Bundesfreiwilligendienst bei Flaks
+– Bundesfreiwilligendienst bei Flaks
 
- Bundesfreiwillige im „Sonderprogramm mit Flüchtlingsbezug“ bei
+– Bundesfreiwillige im „Sonderprogramm mit Flüchtlingsbezug“ bei
 
 FLAKS, wie auch bei Projekten in Einrichtungen für geflüchtete
 
 Menschen vor Ort
 
- Engagement im Ehrenamt oder Praktikum
+– Engagement im Ehrenamt oder Praktikum
 
- Veranstaltungsreihe mit Informationen zur Gesundheitsförderung
+– Veranstaltungsreihe mit Informationen zur Gesundheitsförderung
 
 und Pflege im Alter
 
- Service für Ältere nach Bedarf
+– Service für Ältere nach Bedarf
 
- Patinnen für Kursteilnehmerinnen ESA
+– Patinnen für Kursteilnehmerinnen ESA
 
- PC-/ Internetnutzung und Skype während der Öffnungszeiten
+– PC-/ Internetnutzung und Skype während der Öffnungszeiten
 
- Kopiere und FAX
+– Kopiere und FAX
 
- Tauschbücherei
+– Tauschbücherei
 
- Bereitstellen von Räumlichkeiten an andere Institutionen, Selbsthil-
+– Bereitstellen von Räumlichkeiten an andere Institutionen, Selbsthil-
 
 fegruppen und Existenzgründerinnen
 
- Frauenvernetzungstreffen der Refugees Welcome Frauen AG Ka-
+– Frauenvernetzungstreffen der Refugees Welcome Frauen AG Ka-
 
 roviertel im MGH-FLAKS
 
- Welcome Dinner für geflüchtete Familien im MGH-FLAKS
+– Welcome Dinner für geflüchtete Familien im MGH-FLAKS
 
- Beteiligung an den Arbeitsgruppen: Patenschaften und Kochgruppe
+– Beteiligung an den Arbeitsgruppen: Patenschaften und Kochgruppe
 
 zur Unterstützung der Bewohnerinnen in der Folgeeinrichtung Mo-
 
 ritz-Liepmann-Haus
 
- Stadtteilprojekte in Kooperation mit anderen Trägern und der SA-
+– Stadtteilprojekte in Kooperation mit anderen Trägern und der SA-
 
 GA/ GWG
 
@@ -274,9 +275,9 @@ Mehrgenerationenhaus
 
 Umsetzung des MGH Aktionsprogramms:
 
- Offener Treff
+– Offener Treff
 
- Mittagstisch für Senioren 2015: Siehe Drs. 21/3055
+– Mittagstisch für Senioren 2015: Siehe Drs. 21/3055
 
 Seite 3 von 8
 
@@ -306,55 +307,55 @@ sich auf gesamte Einrich-
 
 tung
 
- Räume für Familienfeiern
+– Räume für Familienfeiern
 
- Sozialberatung
+– Sozialberatung
 
- Sprach- und Konversationstreff mit Kinderbetreuung
+– Sprach- und Konversationstreff mit Kinderbetreuung
 
- Sprechzeit des Jugendmigrationsdienstes
+– Sprechzeit des Jugendmigrationsdienstes
 
- Sprechzeit des Vereins Bergedorfer für Völkerverständigung e.V.
+– Sprechzeit des Vereins Bergedorfer für Völkerverständigung e.V.
 
- Helferbörse für Jung und Alt – SchülerInnen helfen SeniorInnen
+– Helferbörse für Jung und Alt – SchülerInnen helfen SeniorInnen
 
- Treff des Alevitischen Kulturvereins (BAKM)
+– Treff des Alevitischen Kulturvereins (BAKM)
 
- Schkola ASBUKA (Russische Kultur für Kinder)
+– Schkola ASBUKA (Russische Kultur für Kinder)
 
- Offener Computertreff
+– Offener Computertreff
 
- Theater ohne Grenzen
+– Theater ohne Grenzen
 
- Seniorenberatung
+– Seniorenberatung
 
- Beratung für freiwillig Engagierte
+– Beratung für freiwillig Engagierte
 
- Quartiersbotschafter
+– Quartiersbotschafter
 
- Sozialzertifikat für freiwillig Engagierte
+– Sozialzertifikat für freiwillig Engagierte
 
- Beratung des Pflegestützpunkts
+– Beratung des Pflegestützpunkts
 
- Mittagstisch für Jung und Alt
+– Mittagstisch für Jung und Alt
 
- Schulungskurse/Computerkurse für Freiwillige
+– Schulungskurse/Computerkurse für Freiwillige
 
- Betreuungsangebote (z.B. ASB: Café Freiraum)
+– Betreuungsangebote (z.B. ASB: Café Freiraum)
 
- Nachbarschaftshilfe
+– Nachbarschaftshilfe
 
- Sprechzeit Freiwilligenagentur
+– Sprechzeit Freiwilligenagentur
 
- Gruppe f. pflegende Angehörige
+– Gruppe f. pflegende Angehörige
 
- Veranstaltungsreihe: Haushalt-Familie-Pflege
+– Veranstaltungsreihe: Haushalt-Familie-Pflege
 
- Seminar zu Haushalt-Familie-Pflege mit Betreuungsangebot
+– Seminar zu Haushalt-Familie-Pflege mit Betreuungsangebot
 
- Begegnungsangebot für Menschen mit und ohne Demenz
+– Begegnungsangebot für Menschen mit und ohne Demenz
 
- Ganztagstreff für Alzheimer-Betroffene
+– Ganztagstreff für Alzheimer-Betroffene
 
 2016: Zahlen werden erst am Ende des Jahres erhoben
 
@@ -370,21 +371,21 @@ beziehen sich auf gesamte
 
 Einrichtung
 
- Still- und Krabbelgruppen
+– Still- und Krabbelgruppen
 
- Hipp und Hopp für Minis
+– Hipp und Hopp für Minis
 
- Gedichte für Wichte
+– Gedichte für Wichte
 
- Chor für Jung und Alt
+– Chor für Jung und Alt
 
- Kinderabgabe/-betreuung
+– Kinderabgabe/-betreuung
 
- Kita
+– Kita
 
- Fou Kunstlabor
+– Fou Kunstlabor
 
- Mittagstisch, offener Treff
+– Mittagstisch, offener Treff
 
 2015: Siehe Drs. 21/3055 2016: Zahlen werden erst am Ende des Jahres erhoben
 
@@ -398,75 +399,75 @@ Mehrgenerationenhaus
 
 Frage 3
 
- Familiäre Krisenintervention
+– Familiäre Krisenintervention
 
- Opstapje
+– Opstapje
 
- Improvisationstheater für Jung und Alt
+– Improvisationstheater für Jung und Alt
 
- Bilinguale Theatergruppe für Kinder (spanisch-deutsch)
+– Bilinguale Theatergruppe für Kinder (spanisch-deutsch)
 
- Patchwork für Jung und Alt
+– Patchwork für Jung und Alt
 
- Kosmetik für Jung und Alt
+– Kosmetik für Jung und Alt
 
- Fußpflege
+– Fußpflege
 
- Massage für Jung und Alt
+– Massage für Jung und Alt
 
- Friseur für Jung und Alt
+– Friseur für Jung und Alt
 
- Yoga für Schwangere
+– Yoga für Schwangere
 
- Hata Yoga
+– Hata Yoga
 
- Malkurs
+– Malkurs
 
- Bügel- und Wäscheservice
+– Bügel- und Wäscheservice
 
- Änderungsschneiderei
+– Änderungsschneiderei
 
- Stammtisch für pflegende Angehörige
+– Stammtisch für pflegende Angehörige
 
- Fortbildung Gastgeberinnen in MGH
+– Fortbildung Gastgeberinnen in MGH
 
- Migrationsberatung
+– Migrationsberatung
 
- Beratung und Begleitung für Existenzgründungen
+– Beratung und Begleitung für Existenzgründungen
 
- Spanisch
+– Spanisch
 
- Raumvermietung
+– Raumvermietung
 
- Integrationskrus
+– Integrationskrus
 
- Hol- und Bringservice für Essen
+– Hol- und Bringservice für Essen
 
- Verschenkbasar
+– Verschenkbasar
 
- Mitschi-Matschi für Kinder unter 1 Jahr
+– Mitschi-Matschi für Kinder unter 1 Jahr
 
- Flohmarkt
+– Flohmarkt
 
- Wellnesstag
+– Wellnesstag
 
- Sommerfest
+– Sommerfest
 
- Halloween/Fasching
+– Halloween/Fasching
 
- Weihnachtsbasar
+– Weihnachtsbasar
 
- Benefiz-Konzert für in Syrien lebende Kinder
+– Benefiz-Konzert für in Syrien lebende Kinder
 
- Syrischer Kulturabend
+– Syrischer Kulturabend
 
- Tag der offenen Tür
+– Tag der offenen Tür
 
- Babymassage
+– Babymassage
 
- Geburtsvorbereitung
+– Geburtsvorbereitung
 
- Hebammensprechstunde
+– Hebammensprechstunde
 
 Seite 5 von 8
 
@@ -478,25 +479,25 @@ Mehrgenerationenhaus
 
 Frage 3
 
- Busausflüge für Jung und Alt
+– Busausflüge für Jung und Alt
 
- Beratung und Therapie
+– Beratung und Therapie
 
- Sozialberatung
+– Sozialberatung
 
- Eltern-Kind-Brunch
+– Eltern-Kind-Brunch
 
- Erste Hilfe am Kind
+– Erste Hilfe am Kind
 
- Kinder-Disco
+– Kinder-Disco
 
- Basteln für Wichte
+– Basteln für Wichte
 
- Erzählcafé für Jung und Alt
+– Erzählcafé für Jung und Alt
 
- Spielenachmittag für Jung und Alt
+– Spielenachmittag für Jung und Alt
 
- Basteln für Senioren
+– Basteln für Senioren
 
 Hamburg-Mitte
 
@@ -526,51 +527,51 @@ tung
 
 Umsetzung des MGH Aktionsprogramms:
 
-Jobcafé Billstedt zusammen mit der Freiwilligenbörse
+– Jobcafé Billstedt zusammen mit der Freiwilligenbörse
 
-kostenfreie Rechtsberatung
+– kostenfreie Rechtsberatung
 
-Elterncafé zusammen mit der KiTa Jubilate
+– Elterncafé zusammen mit der KiTa Jubilate
 
-PC- Kurse für vorwiegend Menschen mit Migrationshintergrund und PC-
+– PC- Kurse für vorwiegend Menschen mit Migrationshintergrund und PC-
 
 Kurse für Senioren
 
-PC Sprechstunde
+– PC Sprechstunde
 
-PC-Café
+– PC-Café
 
-Sozialberatung
+– Sozialberatung
 
-Beratung Mutter-Kind-Kuren
+– Beratung Mutter-Kind-Kuren
 
-Freiwilligenberatung
+– Freiwilligenberatung
 
-Freiwilligencoaching und -begleitung in vielen Bereichen
+– Freiwilligencoaching und -begleitung in vielen Bereichen
 
-Senioren- und Seniorinnenberatung
+– Senioren- und Seniorinnenberatung
 
-Freiwilligenausbildung im Seniorenbereich durch den Partner Senior-
+– Freiwilligenausbildung im Seniorenbereich durch den Partner Senior-
 
 partner der Diakonie im Haus
 
-Angebote im Nachbarschaftstreff sowie Entwicklungskomponenten im
+– Angebote im Nachbarschaftstreff sowie Entwicklungskomponenten im
 
 Bereich Älterwerden im Stadtteil mit Baugenossenschaft und anderen
 
 Einrichtungen
 
-Nähkurse für Frauen mit und ohne Migrationshintergrund
+– Nähkurse für Frauen mit und ohne Migrationshintergrund
 
-Sprachförderkurse in Kooperation
+– Sprachförderkurse in Kooperation
 
-Einsatz mit Gewinn- Jugendliche unterstützen Senioren und Seniorinnen
+– Einsatz mit Gewinn- Jugendliche unterstützen Senioren und Seniorinnen
 
-Nintendo Wii Spieltage und Turniere mit Senioren und auch mit Schulkin-
+– Nintendo Wii Spieltage und Turniere mit Senioren und auch mit Schulkin-
 
 dern
 
-Senioren und Seniorinnenkreise tlw. mit generationsübergreifenden An-
+– Senioren und Seniorinnenkreise tlw. mit generationsübergreifenden An-
 
 geboten
 
@@ -586,67 +587,67 @@ Mehrgenerationenhaus
 
 Frage 3
 
-Töpferangebote für Jung und Alt
+– Töpferangebote für Jung und Alt
 
-zusammen mit eigener KiTa generationsübergreifende Angebote
+– zusammen mit eigener KiTa generationsübergreifende Angebote
 
-Kinderhotel
+– Kinderhotel
 
-Alle Welt Frauen Treff tlw. mit Kinderbetreuung
+– Alle Welt Frauen Treff tlw. mit Kinderbetreuung
 
-Freiwillige entlasten zuhause durch Seniorpartner
+– Freiwillige entlasten zuhause durch Seniorpartner
 
-Väter-Kinder Reisen
+– Väter-Kinder Reisen
 
-Fahrdienste für Seniorinnen/Senioren
+– Fahrdienste für Seniorinnen/Senioren
 
-Lesebegleiter für Grundschulkinder
+– Lesebegleiter für Grundschulkinder
 
-Lesepaten zusammen mit KiTa
+– Lesepaten zusammen mit KiTa
 
-Frühstücks, - und Caféangebote in den Öffnungszeiten
+– Frühstücks, - und Caféangebote in den Öffnungszeiten
 
-Büchercafé mit Lesungen und Programm
+– Büchercafé mit Lesungen und Programm
 
-Seniorenservicetag
+– Seniorenservicetag
 
-Angebote durch die Angehörigenschule
+– Angebote durch die Angehörigenschule
 
-zusammen mit Alzheimergesellschaft – Angehörigentreff und Entwicklung
+– zusammen mit Alzheimergesellschaft – Angehörigentreff und Entwicklung
 
 von Zugängen von Angehörigen
 
-Frauentanzfest
+– Frauentanzfest
 
-Internationales Fest
+– Internationales Fest
 
-Fahrradkurse für Frauen
+– Fahrradkurse für Frauen
 
-Yoga
+– Yoga
 
-Feldenkrais
+– Feldenkrais
 
-Qi Gong
+– Qi Gong
 
-Kochprojekte - internationale Küche
+– Kochprojekte - internationale Küche
 
-Spielenachmittage für Jung und Alt
+– Spielenachmittage für Jung und Alt
 
-Denksport für Senioren
+– Denksport für Senioren
 
-Geburtsvorbereitung
+– Geburtsvorbereitung
 
-Sport und Bewegung für Familien
+– Sport und Bewegung für Familien
 
-Veranstaltungsprogramm am Do. Abend
+– Veranstaltungsprogramm am Do. Abend
 
-Bandräume für Jugendliche
+– Bandräume für Jugendliche
 
-Musikunterreicht für Jugendliche
+– Musikunterreicht für Jugendliche
 
-Ausfahrten
+– Ausfahrten
 
-Stadtteilprojekte (Beteiligung an der Kulturachse Billstedt mit Program-
+– Stadtteilprojekte (Beteiligung an der Kulturachse Billstedt mit Program-
 
 men, Billevue, Billstedt International mit Bezirksamt HH-Mitte)
 
@@ -664,53 +665,53 @@ Mehrgenerationenhaus
 
 Frage 3
 
-Überlassung der Räumlichkeiten für Stadtteilveranstaltungen und Stadt-
+– Überlassung der Räumlichkeiten für Stadtteilveranstaltungen und Stadt-
 
 teilgruppen
 
-diverse selbstverwaltete Gruppen
+– diverse selbstverwaltete Gruppen
 
-Gospelchor
+– Gospelchor
 
-Kirchenmusik
+– Kirchenmusik
 
-Konzerte
+– Konzerte
 
-Informationsveranstaltungen
+– Informationsveranstaltungen
 
-Geselligkeitsveranstaltungen
+– Geselligkeitsveranstaltungen
 
-Förderung von Nachbarschaftskontakten
+– Förderung von Nachbarschaftskontakten
 
-Bewegungs-, Bildungs- und Entspannungsangebote
+– Bewegungs-, Bildungs- und Entspannungsangebote
 
-spirituelle Angebote
+– spirituelle Angebote
 
-Federführung Runder Tisch Flüchtlingsarbeit Billstedt
+– Federführung Runder Tisch Flüchtlingsarbeit Billstedt
 
-Flüchtlingsarbeit
+– Flüchtlingsarbeit
 
-Sozialkaufhaus
+– Sozialkaufhaus
 
-eigene KiTa
+– eigene KiTa
 
-Ausgabe Hamburger Tafel
+– Ausgabe Hamburger Tafel
 
-Raum- und Moderationsangebote für Vernetzungstreffen
+– Raum- und Moderationsangebote für Vernetzungstreffen
 
-Projekt Soundhouse mit Bandangeboten und Unterricht zusammen mit
+– Projekt Soundhouse mit Bandangeboten und Unterricht zusammen mit
 
 dem Haus der Jugend
 
-Stadtteilfeste und eigene themenbezogene Feste
+– Stadtteilfeste und eigene themenbezogene Feste
 
-Interessengruppen
+– Interessengruppen
 
-Konfirmandengruppen
+– Konfirmandengruppen
 
-Ausbildung von Konfi-Teamern
+– Ausbildung von Konfi-Teamern
 
-Vermietung von Räumlichkeiten für Einrichtungen und Projekte im Stadt-
+– Vermietung von Räumlichkeiten für Einrichtungen und Projekte im Stadt-
 
 teil, z.B. Rauhes Haus Jugendwohnung, Hamburger Arbeit Hartz 4 Ge-
 
@@ -720,17 +721,17 @@ Zusätzliche Angebote und Dienstleistungen im Bereich von Flücht-
 
 lingsarbeit:
 
-Kooperationsangebote mit anderen Trägern im Bereich Café mit Angebo-
+– Kooperationsangebote mit anderen Trägern im Bereich Café mit Angebo-
 
 ten und Hebammen
 
-Betreuung Haus, welches von Baugenossenschaft für Flüchtlinge zur
+– Betreuung Haus, welches von Baugenossenschaft für Flüchtlinge zur
 
 Verfügung gestellt wird
 
-Monatliches Frühstücksangebot
+– Monatliches Frühstücksangebot
 
-Tafelausgabe
+– Tafelausgabe
 
 Seite 8 von 8
 
@@ -742,17 +743,17 @@ Mehrgenerationenhaus
 
 Frage 3
 
-Flüchtlingsgottesdienste
+– Flüchtlingsgottesdienste
 
-Einbeziehung von Flüchtlingen bei der Kleiderkammer
+– Einbeziehung von Flüchtlingen bei der Kleiderkammer
 
-monatliches gemeinsames Kochangebot mit verschiedenen Einrichtun-
+– monatliches gemeinsames Kochangebot mit verschiedenen Einrichtun-
 
 gen zusammen, beinhaltet Beratung durch Hebammen, Kinderbetreuung
 
 und gemeinsames Kochen
 
-Einrichtung einer Arbeitsstelle zusammen mit dem Rauhen Haus im Be-
+– Einrichtung einer Arbeitsstelle zusammen mit dem Rauhen Haus im Be-
 
 reich der Koordination der Ehrenamtlichen in der Flüchtlingsarbeit über
 

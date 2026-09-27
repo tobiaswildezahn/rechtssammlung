@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61753"
@@ -107,7 +108,7 @@ Wie beurteilt der Senat unter diesen Gesichtspunkten die gewalttätigen Einschü
 
 Ist der Senat der Auffassung, dass es gewalttätigen Personen, dadurch dass sie Kenntnis über die Namen und möglicherweise Anschriften der Versammlungsanmelder erlangen, möglich ist, legale Versammlungen und Meinungsäußerungen zu verhindern?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Das parlamentarische Fragerecht umfasst einen Anspruch auf Auskünfte, nicht jedoch auf meinungsbildende Stellungnahmen (vergleiche ThürVerfGH, Urteil vom 19. Dezember 2008 – 35/07), von denen der Senat deshalb auch im vorliegenden Fall absieht. Dies schließt die Stellungnahme zu Hypothesen ein. Im Übrigen siehe Antworten zu 1. bis 8.
 
@@ -119,6 +120,6 @@ Sieht der Senat angesichts dieser Entwicklung Handlungsbedarf, um den Grundrecht
 
 Was gedenkt der Senat zukünftig zum Schutz von Versammlungsanmeldern zu tun, die durch eine legale Versammlungsanmeldung ins Visier von Gewalttätern kommen? Gibt es in dieser Hinsicht auch Überlegungen, präventiv tätig werden zu können und nicht erst dann, wenn die entsprechende Person infolge der Anmeldung unmittelbar bedroht ist?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die Polizei nimmt die Aufgabe wahr, entsprechend den gesetzlichen Vorgaben den störungsfreien Verlauf von Versammlungen und den Schutz der Versammlungsteilnehmer zu gewährleisten. Soweit sich im Einzelfall konkrete Gefahren für einzelne Personen ergeben, trifft die Polizei die lage- und anlassabhängigen erforderlichen Maßnahmen der Gefahrenabwehr.

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11909"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66347"
@@ -49,7 +50,7 @@ Der Senat beantwortet die Fragen auf der Grundlage von Auskünften des Statistik
 
 Gibt es darüber hinaus auch statistisches Material über Pendler in die weiter entfernt liegenden Landkreise und kreisfreien Städte? Wenn ja, bitte ebenfalls angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die folgenden Pendlerzahlen beziehen sich lediglich auf die Pendlerinnen und Pendler, die einer sozialversicherungspflichtigen Beschäftigung nachgehen. Nicht erfasst sind Beamtinnen und Beamte sowie Selbstständige.
 
@@ -137,7 +138,7 @@ In welcher Form werden diese Erkenntnisse bei Hamburger Planungen von Straßen, 
 
 Eine besonders umweltfreundliche Art der Beförderung ist durch den ÖPNV gegeben. Welche heutigen Linien tragen die Hauptlast der Pendlerbeförderung? Bitte jeweils die Kapazitäten und die tatsächliche Auslastung angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/11909.
 

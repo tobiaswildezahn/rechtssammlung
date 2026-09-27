@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9826", "21/9837", "21/9858"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58755"
@@ -47,7 +48,7 @@ Wurden am Rande dieses Treffens Gespräche wegen der Steinwerder- Süd-Fläche g
 
 Gibt es weitere Finanzierungszusagen an hamburgische Unternehmensgruppen von chinesischen Investoren/Banken, die auf dem Treffen beziehungsweise am Rande des Treffens gegeben wurden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die chinesische Delegationsreise erfolgte auf Einladung der Bundeskanzlerin. Die Inhalte der dabei geführten Gespräche oder etwaige Ergebnisse sind nicht bekannt.
 

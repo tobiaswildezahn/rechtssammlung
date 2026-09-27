@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13378"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50683"
@@ -43,7 +44,7 @@ Wie lang ist die Frist, die abgelehnten Asylbewerbern in Hamburg gewährt wird, 
 
 Ist diese Frist für alle abgelehnten Asylbewerber gleichlang? Falls nein, worin liegen unterschiedliche freiwillige Ausreisefristen begründet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine freiwillige Ausreise ist grundsätzlich innerhalb der bundesgesetzlichen Ausreisefristen möglich.
 

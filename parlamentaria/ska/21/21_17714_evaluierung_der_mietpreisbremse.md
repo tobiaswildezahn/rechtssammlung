@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67311"
@@ -48,7 +49,7 @@ Am 29. Juni 2018 äußerte sich der Senat bezüglich der Evaluierung wie folgt: 
 
 Falls noch kein Evaluierungsbericht fertig ist, wann wird dieser fertiggestellt? Aus welchen Gründen wurde die Erstellung des Berichtes verzögert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Gutachten wird im 3. Quartal 2019 fertiggestellt und veröffentlicht. Der Zeitaufwand für die Auswertung der im Rahmen der Untersuchung erhobenen Befragungsdaten von Vermietern und Mietern war höher als ursprünglich eingeplant.
 

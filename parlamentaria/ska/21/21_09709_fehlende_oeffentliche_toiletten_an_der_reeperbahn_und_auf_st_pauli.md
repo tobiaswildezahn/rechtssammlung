@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6678"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58509"
@@ -113,7 +114,7 @@ Gibt es eine generelle Regelung für die kostenfreie Toilettennutzung für Obdac
 
 Wie ist in diesem Zusammenhang die Rechtslage, müssen Städte öffentliche Toiletten vorhalten oder für Wohnungslose bereitstellen?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Drs. 21/6678.
 

@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 27
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60223"
@@ -53,7 +54,7 @@ Wer ist der Betreiber der „Kontrabar“ und inwieweit gibt es Verflechtungen d
 
 Wer referierte während der Veranstaltung? Bitte Namen und Universitätsstatus der Referentin angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die „Kontrabar“ ist ein Raum in der HAW, der von Studierenden der HAW selbstverantwortlich genutzt wird. Der Offenlegung personenbezogener Daten zum Betreiber stehen datenschutzrechtliche Regelungen und ein hier überwiegendes schutzwürdiges Interesse der Betroffenen entgegen (§13 Absatz 2 Nummer 8 Hamburgischen Datenschutzgesetz). Verflechtungen mit der UHH bestehen nicht.
 
@@ -73,7 +74,7 @@ Wie bewertet die Universitätsleitung die dargelegten Inhalte der Veranstaltung?
 
 Welche Konsequenzen leitet die Universitätsleitung aus der Veranstaltung für die Zukunft der „Kontrabar“ und die dort stattfindenden Veranstaltungen ab? Wird es Kontrollen oder Sanktionen hinsichtlich der Inhalte zukünftiger Veranstaltungen, der Raumgewährung et cetera geben?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Hochschulleitung der HAW hat zu den Inhalten der Veranstaltung keine Erkenntnisse.
 
@@ -85,7 +86,7 @@ Betrachtet es der Senat als legitim, dass in öffentlichen Räumen der HAW Hambu
 
 Welche Konsequenzen leitet der Senat aus der Veranstaltung für die Zukunft der „Kontrabar“ und die dort stattfindenden Veranstaltungen ab? Wird es Kontrollen oder Sanktionen hinsichtlich der Inhalte zukünftiger Veranstaltungen, der Raumgewährung und -finanzierung et cetera geben?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Senat hat zu den Inhalten der Veranstaltung keine Erkenntnisse. Im Übrigen siehe Vorbemerkung.
 
@@ -121,7 +122,7 @@ Ist dem Senat bekannt, dass sich die Betreiber der „Kontrabar“ der linksextr
 
 Welche Kenntnisse hat das Landesamt für Verfassungsschutz über die politische Ausrichtung der Betreiber sowie über politische Aktionen, die in der „Kontrabar“ ausgeübt oder vorbereitet werden?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die Betreiber der „Kontrabar“ sind der Polizei namentlich nicht bekannt. Die „Kontrabar“ ist kein Beobachtungsobjekt des Landesamtes für Verfassungsschutz (LfV) Hamburg. Erkenntnisse im Sinne der Fragestellung liegen dem LfV Hamburg daher nicht vor.
 

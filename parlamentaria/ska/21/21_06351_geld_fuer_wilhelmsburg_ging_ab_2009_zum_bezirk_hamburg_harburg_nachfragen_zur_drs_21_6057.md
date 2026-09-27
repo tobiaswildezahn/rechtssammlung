@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6057", "21/5872", "21/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54870"
@@ -158,7 +159,7 @@ Es handelt sich nicht um Fehlbuchungen. Vielmehr wurden dem Bezirksamt Harburg d
 
 Die Sprecherin des Harburger Bezirksamtes, Frau Maak sagte: „Die Höhe der bezirklichen Rahmenzuweisungen schwankt durch die Konjunktur jedes Jahr um mehrere Millionen Euro. Und weil die Gesamtsumme sich ständig ändert, sind die 500.000 Euro gar nicht aufgefallen. Wir haben die drei Millionen Euro nicht angetastet.“ Wenn die Summe von 3 Millionen Euro bisher nicht ausgegeben wurde, warum soll das Geld im Bezirk Hamburg-Harburg verbleiben? Erachtet es der Senat nicht als sinnvoller, diese Gelder zu verwenden wie ursprünglich vorgesehen, beispielsweise für die Unterhaltung von Straßen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Nach Prüfung durch die in der Finanzbehörde infrage kommenden Stellen liegen derzeit keine Unterlagen oder sonstigen Hinweise vor, aus denen sich eine Information der Finanzbehörde im Jahr 2013 ergibt. Das Bezirksamt Hamburg-Mitte konnte innerhalb der für die Beantwortung dieser Schriftlichen Kleinen Anfrage einzuhaltenden Frist nicht klären, ob die Finanzbehörde im Jahr 2013 informiert wurde. Darüber hinaus nimmt der Senat in ständiger Praxis zu Presseberichten grundsätzlich keine Stellung.
 

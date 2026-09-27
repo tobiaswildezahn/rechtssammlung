@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 31
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1778", "21/780", "20/13388"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50137"
@@ -87,7 +88,7 @@ Welche Vertragsgestaltung plant der Senat um Privatinvestoren für den Bau von S
 
 Wie will der Senat sicherstellen, dass die geplante Anzahl an Wohnungen im vorgesehenen Zeitraum erstellt und bezugsfertig ist?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Überlegungen der zuständigen Behörden sind noch nicht abgeschlossen.
 

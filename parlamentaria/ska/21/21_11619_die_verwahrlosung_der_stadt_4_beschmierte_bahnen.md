@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 20
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60855"
@@ -152,7 +153,7 @@ Gibt es bei den Unternehmen eigene personelle und technische Kapazitäten, um sc
 
 Wie lange dauert es bei den verschiedenen Bahnunternehmen, bis die betroffenen Fahrzeuge zur Schadensbeseitigung aus dem Verkehr gezogen werden, von den Graffitis gereinigt sind und wieder dem Betrieb zur Verfügung stehen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die AKN verfügt über eine Außenwaschanlage. Sollte diese Reinigung nicht zum Erfolg führen, wird die Beschmierung per Handreinigung entfernt.
 

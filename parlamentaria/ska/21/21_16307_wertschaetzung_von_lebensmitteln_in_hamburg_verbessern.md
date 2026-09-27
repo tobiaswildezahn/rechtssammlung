@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15894", "21/15984"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65823"
@@ -49,7 +50,7 @@ Mit welchen Maßnahmen und Projekten versucht der Senat beziehungsweise die zust
 
 Inwieweit kooperieren der Senat beziehungsweise die zuständigen Behörden mit der Landwirtschaft, der Industrie, dem Handel, der Gastronomie und Verbraucherorganisationen bei der Aufklärung über den Wert von Lebensmitteln in Hamburg?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/15894.
 
@@ -61,7 +62,7 @@ Liegen dem Senat beziehungsweise der zuständigen Behörde Daten bezüglich der 
 
 Erachtet es der Senat beziehungsweise die zuständige Behörde als realistisch, die Wegwerfrate für genusstaugliche Lebensmittel, wie von der EU-Kommission in dem „Fahrplan für ein ressourcenschonendes Europa“ vorgegeben, auch in Hamburg bezogen auf das Ausgangsjahr 2011 bis 2020 zu halbieren? Wenn ja, welche Maßnahmen zu der Erreichung dieses Ziels führen der Senat beziehungsweise die zuständigen Behörden aktuell durch? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die bisherigen Studien zur Messung der Lebensmittelverschwendung weisen erhebliche Unschärfen auf, da es an einer einheitlichen Messmethode fehlt. Im Übrigen siehe Drs. 21/15894.
 

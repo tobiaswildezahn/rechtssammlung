@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57354"
@@ -105,6 +106,6 @@ Warum erwägt der Senat beziehungsweise die zuständige Behörde statt der Neugr
 
 Bezug nehmend auf die aktuelle öffentliche Debatte um die (Un-) Gleichwertigkeit der beiden „Säulen“ Stadtteilschule und Gymnasium in der Stadt und um die hohe Akzeptanz der kooperativen Stadtteilschulen bei den Eltern, wäre es aus Sicht des Senates beziehungsweise der zuständigen Behörde nicht ein wichtiges politisches wie pädagogisches Signal, bei Neugründungen von weiterführenden Schulstandorten zumindest diese Schulform anzubieten, anstatt alleine das Gymnasium weiter zu priorisieren? (Bitte fachlich und sachlich Stellung nehmen.) a. Und wäre es vor dem Hintergrund der obigen Fragestellung nicht umso mehr sinnvoll wie naheliegend, damit direkt in der HafenCity zu beginnen? Falls nein, mit welcher Begründung? (Bitte fachlich und sachlich Stellung nehmen.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 4. und 4. a.

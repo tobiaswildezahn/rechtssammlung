@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 25
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17594", "21/13265"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67178"
@@ -115,7 +116,7 @@ Welche Maßnahmen ergreift der Senat beziehungsweise die zuständige Behörde, u
 
 Wie geht der Senat beziehungsweise die zuständige Behörde mit den existierenden Jahrgangsfluren an der IES um? Teilt er die Sorge der Schule, dass durch die höhere Zügigkeit und die Klassenverdichtung, das pädagogische Konzept gefährdet wird?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Es liegt in der Organisationsverantwortung der Schule, ihre pädagogischen Konzepte mit baulichen Gegebenheiten tragfähig zu vereinbaren. Die sächlichen, räumlichen und personellen Ressourcen einer Schule entsprechen transparenten, klaren und für alle Schulen geltenden Maßstäben. Innerhalb dieser Ausstattungen können die Schu-
 
@@ -198,7 +199,7 @@ Welche sachlichen und fachlichen Gründe liegen dafür vor, am Schulstandort Bun
 
 Hat der Senat beziehungsweise die zuständige Behörde schon fachlich mit der Frage auseinandergesetzt, eine Ausgründung der IES anzudenken? Wenn ja, wie weit sind diese Überlegungen? Mit wem stellt der Senat diese Überlegungen an? Wenn nein, weshalb fällt diese Möglichkeit nicht in Betracht, gerade weil die IES die einige STS im Schulbezirk ist?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Der überwiegende Teil der Anmeldungen an der Ida Ehre Schule erfolgt von Grundschulen anderer Regionen. Aus diesem Grund ist vorgesehen, zusätzliche Stadtteilschulkapazitäten vorrangig in den Regionen zu schaffen, in denen der Bedarf entsteht. Da gleichzeitig die Gymnasien in der Region 8 mehrfach mehr fünfte Klassen eingerichtet haben, als dies im bisherigen Schulentwicklungsplan vorgesehen war, ist mit der Gründung eines weiteren Gymnasiums hier eine Entlastung geplant.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 17
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/915", "20/13343", "21/673", "21/1006", "21/962"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49183"
@@ -53,7 +54,7 @@ Wie viele Stellenanteile von Mitarbeitern/-innen (VZÄ) von f & w fördern und w
 
 Wie viele Stellenanteile von Mitarbeitern/-innen (VZÄ) von f & w fördern und wohnen AöR beziehungsweise dem DRK sind jeweils in den Folgeunterbringungen zur Unterstützung, Koordinierung und Beantwortung von Fragen abgestellt? Wenn keine, warum nicht? Bitte aufschlüsseln wie in Drs. 21/915.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 20/13343, 21/673 und 21/1006.
 
@@ -81,7 +82,7 @@ Bekommen die Ehrenamtlichen Angebote (zum Beispiel Supervision und Ähnliches), 
 
 Erhalten Ehrenamtliche Beratung bei der Ausgestaltung ihrer Angebote (zum Beispiel im Bereich Didaktik für Deutschkurse oder ähnlich)? Wenn ja, durch wen und in welchem Umfang? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Das freiwillige Engagement erfolgt in engem Kontakt mit den hauptamtlichen Mitarbeitern von f & w. Falls es für die Freiwilligen zu belastenden Situationen und Erlebnissen kommt, stehen die Mitarbeiter als Gesprächspartner zur Verfügung. Das freiwillige Engagement ist eine Ergänzung zu den Aufgaben, die von f & w im Rahmen des Unterkunfts- und Sozialmanagements wahrgenommen werden.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12783"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62233"
@@ -45,7 +46,7 @@ Welche Erkenntnisse hat diese „regionale Auswertung bezüglich der Bezirke“ 
 
 Seit wann liegen die Hinweise auf regionale Unterschiede, die die Betrachtungen für das Jahr 2015 lieferten, dem Senat vor und warum wurden diese bisher nicht überprüft?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/12783.
 

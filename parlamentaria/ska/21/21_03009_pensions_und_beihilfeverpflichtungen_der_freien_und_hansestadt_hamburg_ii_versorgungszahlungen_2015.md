@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2907"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51352"
@@ -38,11 +39,20 @@ Vor diesem Hintergrund frage ich den Senat:
 ### Frage 1
 
 Wie hoch lagen a. die laufenden Versorgungszahlungen für Ruhegeldempfänger/-innen, b. die laufenden Versorgungszahlungen für Pensionärinnen und Pensionäre, c. die Versorgungsbeihilfezahlungen, d. sonstige Zahlungen für Versorgung und Versorgungsausgleiche sowie e. die Gesamtsumme der Versorgungszahlungen in den Jahren 2013 bis 2015 im jeweiligen Ist?
-1.1. Wie hoch lag die Zuführung zu den Versorgungsrückstellungen im Jahr 2015?
-1.2. Wie hoch lag in den Jahren 2013 bis 2015 der jeweilige Haushaltsplanansatz der unter 1. a. bis e. sowie 1.1. genannten Posten? Welche absolute Abweichung zwischen Ist und Plan ergab sich somit jeweils?
-1.3. Wie hoch soll der jeweilige Haushaltsansatz der unter 1. a. bis e. sowie 1.1. genannten Posten in den Jahren 2016 bis 2019 gemäß aktueller mittelfristiger Finanzplanung liegen? (Bitte für alle Fragen jahresweise unter Berücksichtigung von Landesbetrieben und Hochschulen sowie gesondert aufzuführenden juristischen Personen öffentlichen Rechts auflisten; für 2015 gegebenenfalls behelfsweise auf Basis des aktuellsten vorliegenden Kassenlaufs.)
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Wie hoch lag die Zuführung zu den Versorgungsrückstellungen im Jahr 2015?
+
+### Frage 1.2
+
+Wie hoch lag in den Jahren 2013 bis 2015 der jeweilige Haushaltsplanansatz der unter 1. a. bis e. sowie 1.1. genannten Posten? Welche absolute Abweichung zwischen Ist und Plan ergab sich somit jeweils?
+
+### Frage 1.3
+
+Wie hoch soll der jeweilige Haushaltsansatz der unter 1. a. bis e. sowie 1.1. genannten Posten in den Jahren 2016 bis 2019 gemäß aktueller mittelfristiger Finanzplanung liegen? (Bitte für alle Fragen jahresweise unter Berücksichtigung von Landesbetrieben und Hochschulen sowie gesondert aufzuführenden juristischen Personen öffentlichen Rechts auflisten; für 2015 gegebenenfalls behelfsweise auf Basis des aktuellsten vorliegenden Kassenlaufs.)
+
+#### Antwort zu Fragen 1, 1.1, 1.2 und 1.3
 
 Siehe Anlagen 1 und 2. Die Daten zu den juristischen Personen des öffentlichen Rechts wurden durch eine Abfrage bei den Behörden, Senatsämtern und sonstigen
 

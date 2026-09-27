@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4777", "20/13284", "21/2108"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56003"
@@ -142,15 +143,15 @@ Gesamt
 
 Nach derzeitigen Erkenntnissen wurden wegen Beleidigung auf sexueller Basis vorläufig festgenommen:
 
-• drei syrische Staatsangehörige,
+– drei syrische Staatsangehörige,
 
-• drei irakische Staatsangehörige,
+– drei irakische Staatsangehörige,
 
-• zwei afghanische Staatsangehörige,
+– zwei afghanische Staatsangehörige,
 
-• ein eritreischer Staatsangehöriger,
+– ein eritreischer Staatsangehöriger,
 
-• ein deutscher Staatsangehörige.
+– ein deutscher Staatsangehörige.
 
 Darüber hinaus wurde ein afghanischer Staatsangehöriger wegen unerlaubten Erwerbes/Besitzes/Führens von Schusswaffen und Widerstand gegen Vollstreckungsbeamte vorläufig festgenommen.
 
@@ -313,7 +314,7 @@ Wie bewerten der Senat und die zuständigen Behörden rückblickend die Einsätz
 
 Welche Schlüsse ziehen die Hamburger Polizei und Feuerwehr aus der Nacht des Jahreswechsels 2016/2017 für künftige Einsätze bei Großereignissen und an Silvester?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Ein im Vergleich zum Vorjahr erhöhter Kräfteansatz und offensives Vorgehen mit niedrigschwelligen Kontrollen führten dazu, dass strafbare Handlungen verhindert beziehungsweise potenzielle Täter abgeschreckt wurden.
 

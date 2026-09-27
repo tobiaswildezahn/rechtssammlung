@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 20
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19580", "21/19906"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70051"
@@ -76,7 +77,7 @@ Wie viele der Beschäftigungsverhältnisse sind jeweils nach Mindestlohn und wie
 
 Wie viele der Beschäftigungsverhältnisse sind in der Privatwirtschaft, wie viele bei sozialen Trägern?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/19906. Eine aktuellere statistische Auswertung hinsichtlich der Lohnart und in Bezug auf die Unterscheidung nach Arbeitgebern steht nicht zur Verfügung. Dies wird von der Statistik der Bundesagentur für Arbeit nicht erhoben. Eine händische Erhebung dieser Daten für mehrere Hundert Fälle kann in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht erfolgen.
 
@@ -104,13 +105,13 @@ Vor allem die Stadtreinigung Hamburg AöR und die SAGA Unternehmensgruppe, hier 
 
 Mit der CHANCE Beschäftigungsgesellschaft mbH Hamburg als Teil der SAGA wurden zum 1.3.2020 138 Beschäftigungsverhältnisse begründet.
 
- Hausbetreuer: 137 (§ 16i SGB II), 1 (§ 16e SGB II)
+– Hausbetreuer: 137 (§ 16i SGB II), 1 (§ 16e SGB II)
 
 Mit der Stadtreinigung Hamburg Anstalt öffentlichen Rechts wurden 32 Beschäftigungsverhältnisse begründet:
 
- Entsorger/-in – Reinigung: 1 (§ 16i SGB II)
+– Entsorger/-in – Reinigung: 1 (§ 16i SGB II)
 
- Helfer/-in – Ver- und Entsorgung: 31 (19 gemäß § 16e SGB II, zwölf gemäß § 16i
+– Helfer/-in – Ver- und Entsorgung: 31 (19 gemäß § 16e SGB II, zwölf gemäß § 16i
 
 SGB II)
 

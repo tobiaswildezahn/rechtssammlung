@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 19
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11473", "20/8154", "21/13304", "21/8614", "21/4857"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65048"
@@ -205,6 +206,6 @@ Durch welche Maßnahmen fördert der Senat die Teilzeitausbildung bisher?
 
 Welche Maßnahmen zum Ausbau der Förderung bei der Teilzeitausbildung sind geplant?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Vorbemerkung und Antwort zu 4. Die Beratung zur Möglichkeit und Durchführung der Teilzeitausbildung obliegt im Übrigen für die unter 25-jährigen Interessierten der Jugendberufsagentur insgesamt, für die über 25-Jährigen der Bundesagentur für Arbeit (Berufsberatung oder Arbeitsvermittlung).

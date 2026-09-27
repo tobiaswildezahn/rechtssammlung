@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59778"
@@ -67,7 +68,7 @@ Welche Gründe lagen der Erteilung der unter 1. abgefragten Weisungen jeweils im
 
 In welchen Fällen betraf der Erlass einer Weisung einen Fall, in dem aus der Bevölkerung von der Möglichkeit eines Bürgerentscheids (Bürgerbegehren) gemäß § 32 BezVG Gebrauch gemacht beziehungsweise ein solches bereits angestoßen worden war?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage.
 
@@ -95,7 +96,7 @@ Wie rechtfertigt der Senat die Beschneidung der Kompetenzen der Bezirksversammlu
 
 Wie rechtfertigt der Senat die Beschneidung der bestehenden direktdemokratischen Rechte der Bevölkerung gemäß § 32 BezVG durch die Erteilung von Weisungen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Da in der Freien und Hansestadt Hamburg keine kommunalen Körperschaften gebildet werden, sind die Bezirksämter als Behörden grundsätzlich in die vom Senat geführte und beaufsichtigte Verwaltung eingegliedert (Grundsatz der Einheitsverwaltung, vergleiche Artikel 33 Absatz 2 Satz 2 der Verfassung der Freien und Hansestadt Hamburg). Im Übrigen siehe § 1 Absatz 4 des Gesetzes über Verwaltungsbehörden beziehungsweise § 42 Satz 2 Bezirksverwaltungsgesetz.
 

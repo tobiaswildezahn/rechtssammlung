@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12351"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70008"
@@ -57,7 +58,7 @@ Wie viele Hamburger Studenten haben seit dem Sommersemester 2018 an einem Studen
 
 Wie viele Studenten kamen seit dem Sommersemester 2018 aus Hamburgs Partnerstädten in unsere Stadt, um hier ein Auslandssemester zu absolvieren? Bitte je Partnerstadt und Hochschule/Universität auflisten.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage 2.
 
@@ -76,48 +77,48 @@ Partnerstadt Auflistung der akademischen Partnerschaften
 Universität Hamburg (UHH)
 
 Osaka  
-  
+–  
 Universität Osaka City: Kooperationsvertrag auf  
 zentraler und Fakultätsebene (GW)  
 Shanghai  
-  
+–  
 Universität Fudan: Kooperationsvertrag auf zentraler  
 Ebene  
-  
+–  
 Pädagogische Universität Ostchina (ECNU):  
 Kooperationsvertrag auf zentraler Ebene  
-  
+–  
 Tongji Universität: Kooperationsvertrag auf  
 Fakultätsebene (WiSo, MIN)  
-  
+–  
 Universität Fudan, Zhongshan School of Clinical  
 Medicine: Kooperationsvertrag auf Fakultätsebene  
 (MED)  
 St. Petersburg  
-  
+–  
 Staatliche Universität St. Petersburg:  
 Kooperationsvertrag auf zentraler sowie  
 Fakultätsebene (MIN, RW, GW)  
 Chicago  
-  
+–  
 Universität Northwestern: Kooperationsvertrag auf  
 zentraler Ebene  
-  
+–  
 Universität Loyola, Chicago, School of Law:  
 Kooperationsvertrag auf Fakultätsebene (RW)  
 Marseille  
-  
+–  
 Universität Aix-Marseille: Erasmus-Verträge auf  
 Fakultätsebene  
 Prag  
-  
+–  
 Karls-Universität Prag: Kooperationsvertrag auf  
 zentraler Ebene sowie Erasmus-Verträge auf  
 Fakultätsebene  
-  
+–  
 Universität für Chemie und Technologie in Prag:  
 Erasmus-Verträge auf Fakultätsebene  
-  
+–  
 Wirtschaftsuniversität Prag: Erasmus-Verträge auf  
 Fakultätsebene  
 Dar es Salaam   
@@ -127,24 +128,24 @@ Technische
 Universität Hamburg  
 (TUHH)
 
-Prag  Bilateral agreement ERASMUS
+Prag – Bilateral agreement ERASMUS
 
 Studierendenaustausch mit der CVUT v Praze (TU  
 Prag)  
 Shanghai  
-  
+–  
 Student exchange agreement mit der Tongji  
 Universität Shanghai  
 Osaka  
-  
+–  
 MoU mit Osaka Institute Of Technology
 
 St. Petersburg  
-  
+–  
 Agreement on scientific and educational cooperation  
 mit Alexander the Great St. Petersburg Polytechnic  
 University  
-  
+–  
 Student exchange agreement mit Alexander the  
 Great St. Petersburg Petersburg Polytechnic  
 University  
@@ -152,25 +153,25 @@ HafenCity Universität
 Hamburg (HCU)
 
 St. Petersburg  
-  
+–  
 SPbGASU – Staatliche Universität für Architektur und  
 Bauingenieurwesen
 
 Marseille  
-  
+–  
 Aix Marseille Université;  
-  
+–  
 École Nationale Supérieure d'Architecture de  
 Marseille
 
-Dresden  Projektspezifische Kooperationen
+Dresden – Projektspezifische Kooperationen
 
-Prag  Czech Technical University (CTU)
+Prag – Czech Technical University (CTU)
 
-Chicago  Illinois Institute of Technology (IIT)
+Chicago – Illinois Institute of Technology (IIT)
 
 Dar es Salaam  
-  
+–  
 Ardhi University (ARU) (Kooperation im Rahmen der  
 Städtepartnerschaft)
 
@@ -180,47 +181,47 @@ Wissenschaften
 Hamburg (HAW)
 
 Shanghai  
-  
+–  
 University of Shanghai for Science and Technology  
-  
+–  
 Shanghai Institute of Technology...
 
-Petersburg  St. Petersburg State Polytechnical University
+Petersburg – St. Petersburg State Polytechnical University
 
 Hochschule für Musik und Theater (HfMT)
 
-St. Peterburg  St. Petersburg State Conservatory
+St. Peterburg – St. Petersburg State Conservatory
 
-Prag  Music Academy of Performing Arts in Prague
+Prag – Music Academy of Performing Arts in Prague
 
-Shanghai  Shanghai Central Conservatory of Music
+Shanghai – Shanghai Central Conservatory of Music
 
 Hochschule für bildende Künste Hamburg (HFBK)
 
 Marseille  
-  
+–  
 Erasmus-Partnerschaft mit der Beaux-Arts de  
 Marseille (ESADMM)
 
 Osaka  
-  
+–  
 Partnerschaft im Rahmen der Art School Alliance mit  
 dem Department of Cultural Design, Kindai University
 
 Prag  
-  
+–  
 Erasmus-Partnerschaft mit der Film and TV School of  
 the Academy of Performing Arts (FAMU)
 
 Shanghai  
-  
+–  
 Partnerschaft im Rahmen der Art School Alliance mit  
 dem Institute of Design, China Academy of Art
 
 Europäische Fernhochschule Hamburg (Euro-FH)
 
 Shanghai  
-  
+–  
 Internationale Seminare für die Studierenden der  
 Euro-FH an der East China University of Science and  
 Technology, Shanghai
@@ -228,7 +229,7 @@ Technology, Shanghai
 Kühne Logistics University (KLU)
 
 Shanghai  
-  
+–  
 Gemeinsamer Masterstudiengang Master in Global  
 Supply Chain Management (Tricontinent) mit der  
 School of Economics und Management der Tongji  
@@ -236,26 +237,26 @@ University
 
 Euro-Business College (EBC)
 
-Shanghai  Shanghai University
+Shanghai – Shanghai University
 
 Bucerius Law School (BLS)
 
-Shanghai  Fudan University
+Shanghai – Fudan University
 
-Prag  Charles University
+Prag – Charles University
 
 Chicago  
-  
+–  
 Chicago-Kent College of Law, Illinois Institute of  
 Technology
 
- Northwestern Univ. Pritzker School of Law
+– Northwestern Univ. Pritzker School of Law
 
-St. Petersburg  Saint Petersburg State University
+St. Petersburg – Saint Petersburg State University
 
 Northern Business School (NBS)
 
-Shanghai  Fudan University
+Shanghai – Fudan University
 
 Hamburg School of  
 Business  
@@ -263,15 +264,15 @@ Administration
 (HSBA)
 
 St. Petersburg  
-  
+–  
 UNECON Saint Petersburg State University of  
 Economics
 
-Shanghai  Shanghai Jioa Tong University (SJTU)
+Shanghai – Shanghai Jioa Tong University (SJTU)
 
-Prag  University of Economics, Prague (VŠE)
+Prag – University of Economics, Prague (VŠE)
 
-Chicago  DePaul University Chicago
+Chicago – DePaul University Chicago
 
 Partnerstadt: St. Petersburg Marseile Shanghai  
 Dresden Leon  

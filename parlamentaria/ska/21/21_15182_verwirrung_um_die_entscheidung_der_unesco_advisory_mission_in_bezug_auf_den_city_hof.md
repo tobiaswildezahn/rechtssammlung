@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15105", "21/2904"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64889"
@@ -60,7 +61,7 @@ Welche vertraglichen Fristen oder Verpflichtungen bestehen nach Wissen des Senat
 
 Welche behördlichen Referate und Fachabteilungen welcher Behörden sind mit der Angelegenheit befasst? Bitte Zuständigkeiten im Detail darstellen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Zwischen der Freien und Hansestadt Hamburg und der „Aug. Prien“ Immobilien PE Klosterwall GmbH & Co KG bestehen vertragliche Beziehungen durch den Optionsvertrag vom 15. April 2016 und den städtebaulichen Vertrag vom 26. Februar 2018. Hinsichtlich vertraglicher Verpflichtungen und Fristen aus dem Optionsvertrag siehe Drs. 21/2904. Der städtebauliche Vertrag ist veröffentlicht unter
 

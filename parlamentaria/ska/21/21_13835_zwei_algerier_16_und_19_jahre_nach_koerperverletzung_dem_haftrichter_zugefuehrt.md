@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63219"
@@ -45,7 +46,7 @@ Welche aufenthaltsrechtlichen Status haben die beiden Algerier?
 
 Durchlaufen sie ein Asylverfahren oder haben sie eines durchlaufen? Mit welchem Ergebnis?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Person 1 ist nach Ablehnung des Asylantrages, die unanfechtbar geworden ist, ausreisepflichtig.
 

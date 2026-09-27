@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 18
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2484", "21/5000", "21/5759"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54790"
@@ -45,7 +46,7 @@ Wie haben sich die Zahlen der Neuzugänge von 2015 bis Oktober 2016 am Hamburger
 
 Wie viele Neuzugänge gab für allgemeine Verfahren, beispielsweise Baurecht, Ausländerrecht oder Hochschulzulassungsrecht in 2015 und 2016? Wie hat sich dies zu 2014 verändert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Verwaltungsgericht Hamburg - Neuzugänge  
 2014  

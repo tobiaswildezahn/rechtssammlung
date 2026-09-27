@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55176"
@@ -89,12 +90,12 @@ Welche Voraussetzungen müssen erfüllt sein, um dort in den Sommermonaten einen
 
 Ein Beachclub auf öffentlichen Wegen stellt eine erlaubnispflichtige Sondernutzung dar. Die Entscheidung über diese Sondernutzung trifft das zuständige Bezirksamt nach pflichtgemäßem Ermessen gemäß § 19 Absatz 1 des Hamburgischen Wegegesetzes insbesondere unter Berücksichtigung folgender Kriterien:
 
- Vorhandensein eines ausreichenden veranstaltungsfreien Zeitfensters
+– Vorhandensein eines ausreichenden veranstaltungsfreien Zeitfensters
 
- Vorlage eines aussagekräftigen, prüffähigen Veranstaltungskonzeptes
+– Vorlage eines aussagekräftigen, prüffähigen Veranstaltungskonzeptes
 
- Vereinbarkeit mit den Grundzügen des Nutzungskonzepts
+– Vereinbarkeit mit den Grundzügen des Nutzungskonzepts
 
- Eignungsnachweis (angemessenen Veranstaltungserfahrung, Referenzen, Veran-
+– Eignungsnachweis (angemessenen Veranstaltungserfahrung, Referenzen, Veran-
 
 staltungshaftpflicht)

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3931"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60695"
@@ -47,7 +48,7 @@ Wie bewertet der Senat die Ergebnisse der Herbst-Ministerpräsidenten- Konferenz
 
 Welche Positionen vertritt der Senat zur Entwicklung des öffentlichrechtlichen Rundfunks und seiner digitalen Möglichkeiten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung. Im Übrigen hat sich der Senat hiermit nicht befasst.
 
@@ -59,7 +60,7 @@ Welche Ergebnisse der Bund-Länder-Kommission zur Medienkonvergenz wurden bisher
 
 Zu welchen aus der Sicht des Senats relevanten Themen der Bund- Länder-Kommission zur Medienkonvergenz gab es keine Einigung und welche aus Sicht des Senats relevanten Themen wurden nicht besprochen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Im Zuge der Beratungen in der Bund-Länder-Kommission ist durch die Länder ein neuer Jugendmedienschutz-Staatsvertrag (JMStV) verabschiedet worden (siehe dazu Drs. 21/3931). Das Kartellrecht wurde durch den Bund auf der Grundlage des Abschlussberichts novelliert (9. Gesetz zur Änderung des Gesetzes gegen Wettbewerbsbeschränkungen vom 1. Juni 2017). Außerdem sind die Beratungen in der Bund-Länder-Kommission Grundlage für die noch laufenden Beratungen zur Änderung der Richtlinie über audiovisuelle Mediendienste (Richtlinie 2010/13/EU) im Rat.
 

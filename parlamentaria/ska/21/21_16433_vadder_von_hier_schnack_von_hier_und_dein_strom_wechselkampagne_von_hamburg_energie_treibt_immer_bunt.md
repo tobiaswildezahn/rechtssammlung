@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 27
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15057", "21/15634"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65949"
@@ -45,11 +46,11 @@ Welche weiteren Slogans wurden seit Beantwortung der Drs. 21/15057 im Rahmen der
 
 Nachstehend aufgeführte, weitere Slogans wurden verwendet.
 
- Deine Mudder von hier, dein Schnack von hier und dein Strom?
+– Deine Mudder von hier, dein Schnack von hier und dein Strom?
 
- Dein Vadder von hier, dein Schnack von hier und dein Strom?
+– Dein Vadder von hier, dein Schnack von hier und dein Strom?
 
- Strom darf nicht die Welt kosten.
+– Strom darf nicht die Welt kosten.
 
 Andere Medien als die in der Frage genannten wurden nicht verwendet.
 
@@ -61,7 +62,7 @@ In welcher Anzahl wurden diese neuen Slogans eingesetzt?
 
 Welche weiteren Standorte wurden zwischenzeitlich in Ergänzung zu den in Drs. 21/15057 genannten hinzugemietet?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Über die in der Drs. 21/15057 genannten Standorte hinaus wurden pauschale Kontingente gemietet. Dabei liegen die Auswahl der Standorte sowie die Anzahl einzelner Slogans im Ermessen des Dienstleisters.
 
@@ -81,7 +82,7 @@ Welcher Art waren diese Beschwerden?
 
 In welcher Anzahl kam es zu den einzelnen Beschwerden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Entfällt.
 
@@ -101,7 +102,7 @@ Ist die Werbeaktion über die genannten Kanäle mittlerweile beendet?
 
 In welcher Form wird die Werbekampagne gegenwärtig noch fortgesetzt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Werbekampagne ist beendet und wird gegenwärtig nicht fortgesetzt.
 
@@ -177,7 +178,7 @@ Ist es in Hamburg möglich, über einen Stromanschluss gleichzeitig von verschie
 
 Gibt es hierbei für städtische Stromanbieter vom allgemeinen Verfahren abweichende Bestimmungen?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Nein.
 

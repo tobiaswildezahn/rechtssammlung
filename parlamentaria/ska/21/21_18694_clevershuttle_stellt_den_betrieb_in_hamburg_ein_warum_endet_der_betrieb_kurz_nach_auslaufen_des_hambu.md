@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 29
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68364"
@@ -100,27 +101,27 @@ Was genau ist durch die Stadt gefördert worden? Bitte nach Jahren getrennt ange
 
 Welche Zahlungen sind im Verlauf des Projekts durch die Stadt Hamburg geleistet worden? Bitte nach Jahren sowie nach Sach-/Personal-/ Investitionsmitteln getrennt angeben.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die BWVI hat bislang folgende Zahlungen geleistet:
 
 Für das Jahr 2016:
 
- Aufwandserstattung an die Nutzer 8 307 Euro,
+– Aufwandserstattung an die Nutzer 8 307 Euro,
 
- Kosten für die wissenschaftliche Begleitung: 8 170 Euro.
+– Kosten für die wissenschaftliche Begleitung: 8 170 Euro.
 
 Für das Jahr 2017:
 
- Aufwandserstattung an die Nutzer 29 435 Euro,
+– Aufwandserstattung an die Nutzer 29 435 Euro,
 
- Kosten für die wissenschaftliche Begleitung: 24 912 Euro.
+– Kosten für die wissenschaftliche Begleitung: 24 912 Euro.
 
 Für das Jahr 2018:
 
- Aufwandserstattung an die Nutzer 133 798 Euro,
+– Aufwandserstattung an die Nutzer 133 798 Euro,
 
- Kosten für die wissenschaftliche Begleitung: 23 360 Euro.
+– Kosten für die wissenschaftliche Begleitung: 23 360 Euro.
 
 Es handelt sich jeweils ausschließlich um Sachmittel.
 
@@ -213,7 +214,7 @@ Wann ist dem Senat bekannt geworden, dass CleverShuttle in Hamburg wirtschaftlic
 
 Hat es Gespräche zwischen CleverShuttle oder anderen dritten und der Stadt über eine Fortführung des Betriebs in Hamburg gegeben? Wer waren die Beteiligten Unternehmen? Was war Ergebnis dieser Gespräche?
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Die für die Betriebseinstellung vom Unternehmen benannte Begründung wurde dem Senat erst am 14. Oktober 2019 bekannt. Zuvor waren Gespräche über eine Aufstockung der von CleverShuttle in Hamburg eingesetzte Flottengröße und Fördermöglichkeiten im Bereich der Ladeinfrastruktur für die betreffenden Elektrofahrzeuge geführt worden. Wirtschaftliche Probleme waren nicht Gegenstand dieser Gespräche.
 

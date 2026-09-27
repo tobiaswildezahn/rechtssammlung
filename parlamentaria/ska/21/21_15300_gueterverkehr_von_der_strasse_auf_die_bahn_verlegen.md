@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64899"
@@ -96,6 +97,6 @@ Gäbe es Synergieeffekte beim Erhalt/Betrieb der Gleisnetze durch eine Zuordnung
 
 Wie hoch wären die Zusatzkosten beziehungsweise Ersparnisse beim Gleiserhalt/Betrieb durch eine Zuordnung der Hafenbahn zur öffentlichen Gleisinfrastruktur?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Nein. Im Übrigen hat sich der Senat damit nicht befasst. Darüber hinaus: entfällt.

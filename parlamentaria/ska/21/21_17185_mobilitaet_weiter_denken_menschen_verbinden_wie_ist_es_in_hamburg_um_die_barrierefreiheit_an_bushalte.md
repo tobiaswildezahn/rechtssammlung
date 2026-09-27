@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16645", "21/10162"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66757"
@@ -125,7 +126,7 @@ Wie viele der Bushaltestellen in Hamburg sind vor diesem Hintergrund aktuell bar
 
 Wie viele Bushaltestellen gibt es aktuell in Hamburg insgesamt und wie verteilen sich diese auf die einzelnen Bezirke?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Das Haltestellenkataster wurde in den letzten Jahren neu erstellt, wodurch es erstmals eine Auflistung aller Haltestellen und ihrer Merkmale gibt. Die erhobenen Daten spiegeln den tatsächlich erreichten Grad der Barrierefreiheit jedoch nur in Teilen wider, da auch die barrierefreien Fahrzeuge einen großen Beitrag zur Barrierefreiheit leisten. Durch die moderne Ausstattung der Fahrzeuge wird es mobilitätseingeschränkten Fahrgästen, die zum Beispiel auf einen Rollstuhl oder Rollator angewiesen sind, ermöglicht, die Busse zu erreichen und zu nutzen. Ausnahmen bilden die Haltestellen, die aufgrund des Umfeldes nicht barrierefrei erreicht werden können.
 

@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 24
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7859", "21/8041", "21/8240"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58901"
@@ -51,13 +52,13 @@ Die Erfassung erfolgt allerdings nicht zu statistischen Zwecken, da – unabhän
 
 Im bisherigen Verlauf des Jahres 2017 sind Störungen in folgenden Bereichen entstanden:
 
- 61 Prozent externe Ursachen, zum Beispiel Rettungswagen- und Polizeieinsätze,
+– 61 Prozent externe Ursachen, zum Beispiel Rettungswagen- und Polizeieinsätze,
 
 betriebsfremde Personen im Gleis,
 
- 17 Prozent Infrastruktur, zum Beispiel Stellwerksstörungen, Weichenstörungen,
+– 17 Prozent Infrastruktur, zum Beispiel Stellwerksstörungen, Weichenstörungen,
 
- 22 Prozent S-Bahn-Fahrzeuge, zum Beispiel Türstörungen.
+– 22 Prozent S-Bahn-Fahrzeuge, zum Beispiel Türstörungen.
 
 ### Frage 2
 
@@ -107,7 +108,7 @@ Wann wurde der Citytunnel für Wartungs- und Reparaturarbeiten in den letzten f�
 
 Welche Arbeiten wurden dabei jeweils durchgeführt? Bitte genau für jede Sperrung getrennt angeben.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Drs. 21/8041.
 
@@ -167,7 +168,7 @@ Gibt es die Möglichkeit, den Vertrag mit der S-Bahn zu kündigen, wenn sich die
 
 Welche Voraussetzungen müssen für eine solche Kündigung erfüllt sein?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Ja. Wie bei jedem Vertrag gelten hinsichtlich einer Kündigung die gesetzlichen Regelungen gemäß BGB. Im Übrigen siehe folgender Link:
 

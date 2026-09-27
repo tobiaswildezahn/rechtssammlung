@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8209"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63483"
@@ -45,7 +46,7 @@ Sofern es unbesetzte Stellen gibt: Aus welchen jeweiligen Gründen sind die Stel
 a) Gibt es zu wenig geeignete Bewerber?
 b) Gibt es finanzielle Engpässe aufgrund des Scheiterns des vom Senat ersonnenen Finanzierungsmodells?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 

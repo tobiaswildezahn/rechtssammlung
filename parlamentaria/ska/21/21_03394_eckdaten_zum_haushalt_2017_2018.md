@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2678"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51734"
@@ -43,7 +44,7 @@ Welche einzelnen Festlegungen und Vorgaben hat der Senat bereits für den Hausha
 
 Welche Eckdaten und Obergrenzen hat der Senat für die Ergebnispläne, die Salden aus Verwaltungstätigkeit sowie aus Investitionen und Darlehen für die einzelnen Fachbehörden beziehungsweise Einzelpläne für 2017 und 2018 jeweils beschlossen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Mit Drs. 21/2678 hat der Senat der Bürgerschaft die Finanzplanung für die Jahre 2015
 – 2019 mitgeteilt. Die darin dargestellte Entwicklung des Gesamthaushalts sowie die Vorgaben des Finanzrahmengesetzes liegen der Haushaltsplanaufstellung 2017/2018 zugrunde. Das Verfahren zur Aufstellung des Haushaltsplan-Entwurfs 2017/2018 ist noch nicht abgeschlossen. Die Ergebnisse der Planungen werden der Bürgerschaft mit dem Haushaltsplan-Entwurf 2017/2018 zugeleitet. Im Übrigen betreffen die Fragen Angelegenheiten der internen Entscheidungsvorbereitung und Meinungsbildung des Senats, zu denen der Senat grundsätzlich keine Auskünfte erteilt.

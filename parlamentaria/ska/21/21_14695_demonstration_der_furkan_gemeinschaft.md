@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14674"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64168"
@@ -80,7 +81,7 @@ Wie ist die Furkan-Gemeinschaft in Hamburg organisiert? Werden ihr gegenwärtig 
 
 Lassen sich die Mitglieder der Furkan-Gemeinschaft einem oder mehreren Moscheevereinen zuordnen? Falls ja, welchen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17585"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67302"
@@ -83,7 +84,7 @@ Wann, durch wen und auf welche Weise wird im Falle des Schuldnerverzuges gegen d
 
 Werden Forderungen niedergeschlagen beziehungsweise ausgebucht? Falls ja, wann und unter welchen Voraussetzungen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Zehn Tage nach Eintritt der Fälligkeit wird durch die Kasse.Hamburg in einem standardisierten Prozess eine schriftliche Mahnung erzeugt und versandt.
 

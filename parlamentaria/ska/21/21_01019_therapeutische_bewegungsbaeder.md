@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49189"
@@ -246,6 +247,6 @@ Was unternimmt die Stadt, um sicherzustellen, dass für alle Patienten, die bish
 
 Was unternimmt die Stadt, um sicherzustellen, dass sich die ohnehin langen Wartezeiten für Behandlungstermine in therapeutischen Bädern durch die Schließung des theravitalis-Bades nicht noch weiter erhöhen?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Der Senat hat sich hiermit nicht befasst.

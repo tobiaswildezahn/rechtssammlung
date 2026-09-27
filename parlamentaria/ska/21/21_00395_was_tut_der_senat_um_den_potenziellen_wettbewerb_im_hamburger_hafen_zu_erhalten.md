@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5550"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48553"
@@ -49,7 +50,7 @@ Verfügt die Freie und Hansestadt Hamburg noch über weitere Hafenflächen auße
 
 Wo beabsichtigt der Senat diese beiden Betriebe mit Wasseranschluss und Kaifläche im Falle eines Zuschlags für die Olympischen Spiele neu anzusiedeln?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Verlagerungskonzept wird derzeit noch erstellt. In diesem Rahmen wird auch die Flächenverfügbarkeit geprüft. Insoweit sind die Überlegungen hierzu nicht abgeschlossen. Im Übrigen siehe Drs. 20/5550.
 
@@ -61,7 +62,7 @@ Kann der Senat sicherstellen, dass auch bei einem Zuschlag für die Olympischen 
 
 Hält es der Senat für ein wichtiges Ziel, die Wettbewerbssituation zwischen den Containerterminalbetreibern im Hamburger Hafen durch eine internationale Ausschreibung für einen weiteren Containerterminal mittelfristig zu verbessern bzw. die Option hierfür zu erhalten?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Mit Blick auf das Areal im Bereich Steinwerder gilt bis auf Weiteres der im Hafenentwicklungsplan angelegte Grundsatz einer bedarfsgerechten und flexiblen Entwicklung mit verschiedenen Nutzungsbausteinen. Eine Festlegung der gesamten Fläche als Containerterminal ist im Hafenentwicklungsplan nicht vorgesehen. Im Übrigen siehe Antwort zu 1. und 2.
 
@@ -73,6 +74,6 @@ Welche Möglichkeiten hat die HPA, a. den Containerumschlag der HHLA-Terminals z
 
 Wann werden die unter 5. genannten Maßnahmen umgesetzt und welche Kosten entstehen der HPA jeweils durch welche der genannten Maßnahmen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Erhöhung des Containerumschlags auf den bestehenden Terminalanlagen ist Aufgabe der Unternehmen, die sie betreiben, und nicht der HPA als Infrastrukturgesellschaft.

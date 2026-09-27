@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 18
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61684"
@@ -45,7 +46,7 @@ Was hat der Anteil geförderter Wohnungen bei einem Bauprojekt mit der Qualität
 
 Kommen auch andere qualitative Kriterien wie städtebauliche Qualitäten, Freiraum- und Landschaftsplanung, Fassadengestaltung et cetera zur Anwendung? Wenn nein, warum nicht? Wenn ja, welche? Bitte konkret aufführen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Städtische Geschosswohnungsbaugrundstücke werden im Rahmen von Konzeptausschreibungen ausgeschrieben. Dabei kommt es hinsichtlich der Qualität des zu bewertenden Gebotes auf alle gebotenen Kriterien und damit auch den Anteil geförderter Wohnungsbau an. Bewertet werden Wohnungspolitische Kriterien (wie zum Beispiel höherer Anteil geförderter Wohnungsbau (über die regelhaft 30 Prozent hinaus), längere Belegungs- und Mietpreisbindungen, Anteil WA-Bindung, Barrierefreiheit, Umwandlungsverzicht, Wohnungsmix, Besondere Zielgruppen), Städtebauliche Kriterien (zum Beispiel Durchführung eines Wettbewerbes und Anzahl der Teilnehmer, aber auch architektonische und städtebauliche Qualität der Planung, Qualität der Erschließung und Freiraumplanung) sowie Energieeffizienz und Nachhaltigkeit der Planungen.
 

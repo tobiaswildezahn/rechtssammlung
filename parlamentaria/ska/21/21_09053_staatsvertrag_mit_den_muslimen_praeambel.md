@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5830", "21/9040", "21/4035", "21/7661"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57802"
@@ -63,7 +64,7 @@ Inwiefern ist die Aussage zu verstehen, dass Muslime einen „bedeutenden“ Tei
 
 Was versteht der Senat in Hinblick auf die Muslime unter „Freiheit der Religionsausübung“? Handelt es sich dabei um Aspekte, die nicht durch Artikel IV des Grundgesetzes gedeckt werden? Falls ja, welche? Falls nein, warum ist dann der Abschluss eines Staatsvertrages notwendig?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung sowie Drs. 21/9040.
 
@@ -91,23 +92,23 @@ Inwieweit beteiligen sich die islamischen Religionsgemeinschaften gegenwärtig a
 
 Die Aktivitäten von muslimischen Gemeinden und Verbänden werden nicht systematisch erfasst oder bewertet. Daher ist nur eine beispielhafte Nennung möglich:
 
- Planung und Durchführung von Nachbarschaftsaktivitäten und Stadtteilfesten
+– Planung und Durchführung von Nachbarschaftsaktivitäten und Stadtteilfesten
 
- Bereitstellung von Räumlichkeit für Stadtteilveranstaltungen
+– Bereitstellung von Räumlichkeit für Stadtteilveranstaltungen
 
- Beteiligung am interreligiösen Dialog sowie in interkulturellen Veranstaltungen
+– Beteiligung am interreligiösen Dialog sowie in interkulturellen Veranstaltungen
 
- Vertretung in Senioren- und Integrationsbeiräten
+– Vertretung in Senioren- und Integrationsbeiräten
 
- Organisation und Beteiligung an sportlichen Aktivitäten (zum Beispiel Fußballspie-
+– Organisation und Beteiligung an sportlichen Aktivitäten (zum Beispiel Fußballspie-
 
 len)
 
- Durchführung des Tags der offenen Moschee
+– Durchführung des Tags der offenen Moschee
 
- Beteiligung am Projekt „Religionsunterricht für alle“
+– Beteiligung am Projekt „Religionsunterricht für alle“
 
- Beteiligung an Präventions- und Hilfsprojekten
+– Beteiligung an Präventions- und Hilfsprojekten
 
 Im Übrigen siehe Drs. 21/4035.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1082"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55943"
@@ -41,7 +42,7 @@ Wie viele Stellen standen im Jahre 2016 für Ärzte im Hamburger Öffentlichen G
 
 Wie viele Ärzte waren im Jahre 2016 im Hamburger Öffentlichen Gesundheitsdienst beschäftigt? Bitte in VZÄ angeben und nach den einzelnen Bezirken und gegebenenfalls sonstigen Dienststellen aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Stellen  
 VZÄ-IST  
@@ -106,7 +107,7 @@ Wie viele Stellen standen im Jahre 2016 für Zahnärzte im Hamburger Öffentlich
 
 Wie viele Zahnärzte waren im Jahre 2016 im Hamburger Öffentlichen Gesundheitsdienst beschäftigt? Bitte in VZÄ angeben und nach den einzelnen Bezirken und gegebenenfalls sonstigen Dienststellen aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Stellen VZÄ-IST  
 Bezirksamt Hamburg-Mitte  

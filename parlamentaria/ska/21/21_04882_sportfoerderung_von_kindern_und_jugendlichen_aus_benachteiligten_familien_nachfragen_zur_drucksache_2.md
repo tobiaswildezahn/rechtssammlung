@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/3614", "21/3614"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53319"
@@ -125,15 +126,15 @@ Grundsätzlich ist das Bildungs- und Teilhabepaket (BuT) eine Individualleistung
 
 Im Rahmen der soziokulturellen Teilhabeleistungen können für Leistungsberechtigte unter 18 Jahren
 
- Mitgliedsbeiträge in den Bereichen Sport, Spiel, Kultur und Geselligkeit,
+– Mitgliedsbeiträge in den Bereichen Sport, Spiel, Kultur und Geselligkeit,
 
- Unterricht in künstlerischen Fächern (zum Beispiel Musikunterricht) und vergleich-
+– Unterricht in künstlerischen Fächern (zum Beispiel Musikunterricht) und vergleich-
 
 bare angeleitete Aktivitäten der kulturellen Bildung und
 
- die Teilnahme an Freizeiten sowie
+– die Teilnahme an Freizeiten sowie
 
- Ausrüstungsgegenstände für diese Aktivitäten ab 2013
+– Ausrüstungsgegenstände für diese Aktivitäten ab 2013
 
 in Höhe von bis zu 10 Euro monatlich übernommen werden.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66909"
@@ -51,7 +52,7 @@ Wie lautet die Prognose der Schüler-/-innenzahlen für die staatlichen Schulen 
 
 entsprechend:
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ist  
 Schuljahr  
@@ -135,7 +136,7 @@ Wie plant der Senat die drei im SEPL noch nicht konkretisierten Neugründungen w
 
 Der Leiter des Amtes Bildung der BSB, Thomas Altenburg-Hack, sagte am 21.5.2019 auf einer Bezirkssitzung in Altona, dass der Campus HafenCity bereits ab Klasse 5 in gymnasialen und Stadtteilschulzweig getrennt sei. Diese Aussage ist ein Widerspruch zu den „Häufigen Fragen“ zum SEPL. Wie bewertet der Senat diesen Widerspruch? a. Wie stellt sich diese Trennung der Sekundarstufe I planerisch und prognostisch dar? (Bitte die Excel-Tabelle wie jene zu Frage 1 aufbauen.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die für Bildung zuständige Behörde kann keinen Widerspruch erkennen. Im Übrigen siehe Vorbemerkung.
 

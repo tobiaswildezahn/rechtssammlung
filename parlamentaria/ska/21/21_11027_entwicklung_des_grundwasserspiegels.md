@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10670"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59962"
@@ -65,7 +66,7 @@ Wie viele Beschwerden wegen hoher Grundwasserstände gab es in den letzten drei 
 
 Welche Schäden sind dem Senat bekannt, die auf hohe Grundwasserstände beziehungsweise den daraus teilweise resultierenden verzögerten Regenwasserabfluss zurückzuführen sind? Bitte Anzahl der Schäden und Schadenshöhe nennen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 In den Jahren 2014 bis 2017 sind rund 50 Meldungen zu Gebäudevernässungen wegen vermutlich hoher Grundwasserspiegel bekannt geworden. Die Meldungen verteilen sich gleichmäßig über insgesamt 22 Stadtteile. Besondere räumliche Schwerpunkte sind nicht erkennbar.
 

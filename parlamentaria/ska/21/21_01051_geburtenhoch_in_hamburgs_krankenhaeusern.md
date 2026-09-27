@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14549"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49226"
@@ -43,7 +44,7 @@ Wie viele Kinder wurden im Jahre 2014 in Hamburg jeweils in welchem Bezirk gebor
 
 Wie viele im Jahre 2014 neugeborene Kinder wurden in Hamburg jeweils in welchem Bezirk gemeldet und wie stellt sich die jeweilige Veränderung gegenüber dem Vorjahr in absoluten Zahlen und prozentual dar? Bitte pro Bezirk angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Daten zu Kindern, die im Jahr 2014 geboren wurden, sind nur für Hamburg insgesamt verfügbar. Eine Unterscheidung, wie viele Kinder geboren und wie viele gemeldet wurden, liegt nicht vor, da nach dem Wohnortprinzip verfahren wird, das heißt die geborenen Kinder werden der Wohnung der Mutter zugeordnet.
 
@@ -78,6 +79,6 @@ Wie viele Kinder wurden in den übrigen Bundesländern im Jahre 2014 jeweils geb
 
 Wie viele im Jahre 2014 neugeborene Kinder wurden in den anderen Bundesländern jeweils gemeldet und wie stellt sich die jeweilige Veränderung gegenüber dem Vorjahr in absoluten Zahlen und prozentual dar? Bitte pro Bundesland angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Geburtenzahlen für 2014 werden derzeit noch in den einzelnen Ländern aufbereitet und anschließend an das Statistische Bundesamt übermittelt. Zurzeit liegen sie noch nicht abrufbar vor.

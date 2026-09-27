@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 46491
 seiten: 3
 fragen: 14
-einzelfragen: 16
-antwortbloecke: 14
+einzelfragen: 20
+antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/254", "21/1532"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50827"
@@ -142,23 +143,40 @@ Im Rahmen eines Bebauungsplanverfahrens wird regelhaft eine öffentliche Plandis
 ### Frage 13
 
 In der regelmäßigen Übersicht „Sachstand in Planung befindlicher Einrichtungen für die öffentlich-rechtliche Unterbringung“ des Bezirksamtes für die Regionalausschüsse im Bezirk Wandsbek wurde die Fläche mit dem Hinweis „Einigung zwischen Grundstückseigentümerin und Politik“ bereits aufgenommen.
-13.1. In welcher Form und durch jeweils welche Vertreter ist die „Einigung zwischen Grundstückseigentümerin und Politik“ erfolgt?
 
-#### Antwort zu Frage 13
+### Frage 13.1
+
+In welcher Form und durch jeweils welche Vertreter ist die „Einigung zwischen Grundstückseigentümerin und Politik“ erfolgt?
+
+#### Antwort zu Fragen 13 und 13.1
 
 Eckpunkte wurden in einem Papier zwischen den jeweiligen Fraktionsvorsitzenden von SPD/GRÜNEN des Bezirks/der Hamburgischen Bürgerschaft und der Eigentümerin vereinbart.
 
-13.2. Wie und wann hat das Bezirksamt von dieser Einigung Kenntnis erhalten?
+### Frage 13.2
+
+Wie und wann hat das Bezirksamt von dieser Einigung Kenntnis erhalten?
+
+#### Antwort zu Frage 13.2
 
 Am 3. Dezember 2015 wurde der Entwurf einer Vereinbarung übersandt.
 
-13.3. Liegt die Vereinbarung in Schriftform vor?
+### Frage 13.3
+
+Liegt die Vereinbarung in Schriftform vor?
+
+#### Antwort zu Frage 13.3
 
 Ja.
 
-13.4. Warum wird in der Aufstellung des Bezirksamtes im Gegensatz zur Pressemitteilung der rot-grünen Bezirkskoalition keine Platzanzahl für die geplante Flüchtlingsunterkunft angegeben?
+### Frage 13.4
 
-13.5. Schließen die zuständigen Stellen eine Erhöhung der Kapazität der geplanten Flüchtlingsunterkunft auf mehr als 950 Personen aus?
+Warum wird in der Aufstellung des Bezirksamtes im Gegensatz zur Pressemitteilung der rot-grünen Bezirkskoalition keine Platzanzahl für die geplante Flüchtlingsunterkunft angegeben?
+
+### Frage 13.5
+
+Schließen die zuständigen Stellen eine Erhöhung der Kapazität der geplanten Flüchtlingsunterkunft auf mehr als 950 Personen aus?
+
+#### Antwort zu Fragen 13.4 und 13.5
 
 Siehe Antworten zu 1., zu 4. und zu 7.
 

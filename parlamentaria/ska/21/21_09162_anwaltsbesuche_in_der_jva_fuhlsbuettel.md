@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57919"
@@ -98,7 +99,7 @@ Wie viele Räume stehen für Anwaltsbesuche in der JVA Fuhlsbüttel insgesamt zu
 
 Von welchen weiteren Personengruppen werden die in Frage 6. genannten Räume darüber hinaus benutzt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Es stehen drei Räume für Anwaltsbesuche zur Verfügung, die außer von der Anwaltschaft auch von folgenden Personen(-gruppen) benutzt werden:
 

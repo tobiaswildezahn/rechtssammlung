@@ -14,6 +14,7 @@ fragen: 26
 einzelfragen: 27
 antwortbloecke: 21
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6666", "21/1838", "21/3652", "21/11455", "21/11359", "21/5231", "21/8946", "21/11394", "21/11184", "21/10157", "21/8132", "21/10281"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60518"
@@ -74,7 +75,7 @@ Wie hoch liegen die Entstehungskosten für die Gesamtanlage?
 
 Wie hoch liegen die durchschnittlichen Entstehungskosten für eine Wohneinheit, die als öffentlich-rechtliche Unterbringung genutzt werden soll?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Entstehungskosten für die Gesamtanlage sowie die daraus resultierenden durchschnittlichen Kosten für eine Wohneinheit beim freifinanzierten Bauvorhaben Ohkamp/Flughafenstraße, die als öffentlich-rechtliche Unterbringung genutzt werden sollen, liegen dem Senat nicht vor.
 
@@ -118,7 +119,7 @@ Wie viele Quadratmeter Wohnfläche werden im Durchschnitt jedem Ausländer mit A
 
 Wie viele Quadratmeter Wohnfläche werden im Durchschnitt den weiteren Personen zur Verfügung stehen, die keinen Asylhintergrund haben (zum Beispiel Wohnungslose, Studenten)?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Eine Differenzierung nach dem Status erfolgt nicht. Im Übrigen siehe Vorbemerkung.
 
@@ -140,7 +141,7 @@ Welche durchschnittliche Miete pro Quadratmeter pro Monat zahlt oder wird die Fr
 
 Welchen Betrag zahlt die Freie und Hansestadt Hamburg (einschließlich ihrer Tochterunternehmen) aktuell jährlich für die Anmietung von Wohnraum für Ausländer mit Asylhintergrund in der Anlage?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Anlage.
 
@@ -162,7 +163,7 @@ Verpflichtet sich die Freie und Hansestadt Hamburg (einschließlich ihrer Tochte
 
 Wie hoch veranschlagt die Freie und Hansestadt Hamburg (einschließlich ihrer Tochterunternehmen) die Gesamtkosten für die Renovierung für den Teil der Anlage, in denen Ausländer mit Asylhintergrund untergebracht werden?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Anlage.
 
@@ -232,7 +233,7 @@ Welche beruflichen oder akademischen Qualifikationen weisen die Ausländer mit A
 
 Wie viele der Ausländer mit Asylhintergrund, die in den Wohnungen bereits untergebracht sind oder untergebracht werden sollen, gehen aktuell einer sozialversicherungspflichtigen Beschäftigung nach?
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Weder der Senat noch die Bundesagentur für Arbeit noch f & w verfügen über Daten im Sinne der Fragestellung bezogen auf einzelne Unterkünfte.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49414"
@@ -214,11 +215,11 @@ Gab es Fälle von Berufs- beziehungsweise Erwerbsunfähigkeit aufgrund solcher A
 
 Bei der Polizei gab es im Zeitraum 2010 bis 30. Juni 2015
 
- einen Angriff im Jahr 2010, der dazu führte, dass für die betroffene Person das
+– einen Angriff im Jahr 2010, der dazu führte, dass für die betroffene Person das
 
 Ruhestandsverfahren betrieben wurde, das voraussichtlich im Laufe dieses Jahres abgeschlossen sein wird,
 
- einen Angriff im Jahr 2011, der zur Ruhestandsversetzung einer Person aufgrund
+– einen Angriff im Jahr 2011, der zur Ruhestandsversetzung einer Person aufgrund
 
 der damit einhergehenden Dienstunfähigkeit führte.
 

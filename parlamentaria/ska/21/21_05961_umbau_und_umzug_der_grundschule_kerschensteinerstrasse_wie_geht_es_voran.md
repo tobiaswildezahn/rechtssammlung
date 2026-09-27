@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54476"
@@ -89,6 +90,6 @@ Welche Baumaßnahmen müssen im ehemaligen Lessing-Gymnasium vorgenommen werden?
 
 Wann wird mit den Baumaßnahmen begonnen, um den Umzug der Grundschule zeitgerecht zum Schuljahreswechsel 2018/2019 sicherzustellen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Gebäude des ehemaligen Lessing-Gymnasiums werden voraussichtlich ab Sommer 2018 für die Nutzung durch die Grundschule Kerschensteinerstraße saniert und umgebaut. Der Umzug ist für das Frühjahr 2019 geplant. Im Übrigen sind die Planungen noch nicht abgeschlossen.

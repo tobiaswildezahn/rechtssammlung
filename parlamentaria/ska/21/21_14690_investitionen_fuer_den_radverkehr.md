@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64163"
@@ -49,33 +50,33 @@ Im Haushalt der Freien und Hansestadt Hamburg (FHH) werden Finanzmittel für Ma�
 
 Investitionsprogramme des Einzelplans 7 – Behörde für Wirtschaft, Verkehr und Innovation (BWVI)
 
- Öffentliche Straßeninfrastruktur (Maßnahmen an Hauptverkehrsstraßen unter 6
+– Öffentliche Straßeninfrastruktur (Maßnahmen an Hauptverkehrsstraßen unter 6
 
 Millionen Euro aus unter anderem folgenden Anlässen: Erhaltungsmanagementsystem für Hamburgs Straßen, Verbesserung und Erhöhung der Verkehrssicherheit, Grundinstandsetzungen, Neu-, Um- und Ausbau, Anpassungen und Weiterentwicklungen am Bussystem – Busbeschleunigungsprogramm sowie barrierefreier Um- und Ausbau von Bushaltstellen, Erschließungen, Ausbau Velorouten, Ausbau Radverkehrsanlagen),
 
- Bike+Ride und Anlagen zum Fahrradparken,
+– Bike+Ride und Anlagen zum Fahrradparken,
 
- Flächenentwicklung Bahnflächen Altona sowie Erschließung HafenCity,
+– Flächenentwicklung Bahnflächen Altona sowie Erschließung HafenCity,
 
- Rahmenzuweisungen und Zweckzuweisungen der Bezirke,
+– Rahmenzuweisungen und Zweckzuweisungen der Bezirke,
 
- Sicherung der Verkehrsinfrastruktur (anteilige 10 prozentige FHH-Kofinanzierung
+– Sicherung der Verkehrsinfrastruktur (anteilige 10 prozentige FHH-Kofinanzierung
 
 der Bundesmittel nach Kommunalinvestitionsförderungsgesetz (KInvFG); die Teilansätze werden auf die Bezirke übertragen),
 
- Sicherung der Verkehrsinfrastruktur (anteilige 6 prozentiger FHH-Anteil für Perso-
+– Sicherung der Verkehrsinfrastruktur (anteilige 6 prozentiger FHH-Anteil für Perso-
 
 nal in den Bezirken).
 
 Globales Investitionsprogramm des Einzelplans 9.2 (Allgemeine Finanzwirtschaft)
 
- Kommunalinvestitionsförderung (für die Herrichtung der Velorouten in den Jahren
+– Kommunalinvestitionsförderung (für die Herrichtung der Velorouten in den Jahren
 
 2016 bis 2020 werden Fördermittel in Höhe von 30 Millionen Euro verwendet); die Ansätze werden auf die Realisierungsträger Bezirke, Hamburg Port Authority AöR (HPA), Landesbetrieb Straßen, Brücken und Gewässer (LSBG) übertragen; diese Summen in Höhe von insgesamt 30 Millionen Euro Bundesmittel werden ergänzt durch 3 Millionen Euro (10 Prozent) BWVI-Kofinanzierungsanteil sowie rund 2 Millionen Euro (6 Prozent) BWVI-Anteil Personal in den Bezirken.
 
 Einzelinvestitionen im Einzelplan 7 (BWVI)
 
- Unter anderem Grundinstandsetzung (GI) Meiendorfer Straße, GI Borsigstraße, GI
+– Unter anderem Grundinstandsetzung (GI) Meiendorfer Straße, GI Borsigstraße, GI
 
 Straßburger Straße, GI Alte Landstraße.
 

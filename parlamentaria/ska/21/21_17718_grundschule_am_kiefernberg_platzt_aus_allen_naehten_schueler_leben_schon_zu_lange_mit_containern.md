@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67318"
@@ -77,7 +78,7 @@ c) bezüglich der Klassenräume,
 d) bezüglich der Betreuungsräume für die nachmittägliche Betreuung sowie
 e) bezüglich der Aula für Schulveranstaltungen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Für die Einrichtung der zusätzlichen Klassen zum Schuljahr 2019/2020 können in Abstimmung mit der Schulleitung vorhandene Raumreserven inklusive bereits auf dem Gelände befindlicher Mobiler Klassenräume genutzt werden. Des Weiteren wird bis zum Beginn des Schuljahres die bestehende Mensa baulich erweitert. Die nachmittägliche Betreuung findet üblicherweise in den der Schule zur Verfügung stehenden Räumlichkeiten statt. Dies schließt die multifunktionale Nutzung beispielsweise von Klassenräumen und der Aula ein. Der Sportunterricht ist in der vorhandenen Sporthalle und unter Nutzung der Außenanlagen durch die Schule zu organisieren. Im Übrigen siehe Vorbemerkung.
 
@@ -118,7 +119,7 @@ Ist der Zuwachs an Schülern bei der angespannten Ist-Situation in räumlicher w
 
 Wie hat sich die Teilnahmequote an der GBS in den vergangenen drei Jahren entwickelt? Wenn möglich aufgeschlüsselt nach nur Mittagessen und Nachmittagsbetreuung in absoluten Zahlen und prozentualer Anteil zu den Schülergesamtzahlen.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Daten zur Teilnahme an der Nachmittagsbetreuung sind der nachfolgenden Übersicht zu entnehmen. Nach aktueller Datenlage sind für das Schuljahr 2019/2020 zusätzliche zehn Kinder für den Ganztag angemeldet.
 

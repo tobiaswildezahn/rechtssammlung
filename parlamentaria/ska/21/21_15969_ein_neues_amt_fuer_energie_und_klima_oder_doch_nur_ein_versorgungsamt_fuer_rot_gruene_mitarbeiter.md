@@ -14,6 +14,7 @@ fragen: 39
 einzelfragen: 46
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15698"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65463"
@@ -247,17 +248,17 @@ c) weiteren Positionen in der Hansestadt Hamburg aus? Bitte die einzelnen Phasen
 
 Gibt es bei den Verfahren zur Besetzung der Stellen abweichende Vorgehensweisen zwischen den einzelnen Behörden? Wenn ja, worin liegen die Unterschiede?
 
-#### Antwort zu Fragen 27 bis 28
+#### Antwort zu Fragen 27 und 28
 
 Die Vorgehensweise zur Besetzung aller Stellen in der Freien und Hansestadt Hamburg erfolgt nach Maßgabe des Artikel 33 Absatz 2 GG und der Anordnung über Stellenausschreibungs- und Stellenbesetzungsverfahren für die hamburgische Verwaltung vom 16.08.2016 (Stellenanordnung).
 
 Die übliche Vorgehensweise beinhaltet:
 
-• Vorbereitende Phase: Organisatorische Entscheidungen über die Besetzung der Stelle unter Berücksichtigung von Haushalts- und Stellenplan. Anforderungsanalyse und Formulierung des Ausschreibungstextes. Abstimmung mit dem Personalrat.
+– Vorbereitende Phase: Organisatorische Entscheidungen über die Besetzung der Stelle unter Berücksichtigung von Haushalts- und Stellenplan. Anforderungsanalyse und Formulierung des Ausschreibungstextes. Abstimmung mit dem Personalrat.
 
-• Prüfungs- und Veröffentlichungsphase: Prüfung durch das Personalamt und gegebenenfalls Veröffentlichung der Stellenausschreibung im Intranet der Freien und Hansestadt Hamburg und im Internet. Die Stellenanordnung eröffnet weitere Verfahrensoptionen (zum Beispiel Vorschlagsrecht des Personalamts, wertgleiche Versetzung oder Entscheidung über einen Ausschreibungsverzicht). Wird die Stellenausschreibung veröffentlicht, kann der Abbruch des Auswahlverfahrens erfolgen, wenn ein sachlicher Grund vorliegt, der den Vorgaben des Artikel 33 Absatz 2 GG genügt. Hierüber entscheidet jeweils die ausschreibende Behörde und informiert entsprechend die Bewerberinnen und Bewerber und das Personalamt.
+– Prüfungs- und Veröffentlichungsphase: Prüfung durch das Personalamt und gegebenenfalls Veröffentlichung der Stellenausschreibung im Intranet der Freien und Hansestadt Hamburg und im Internet. Die Stellenanordnung eröffnet weitere Verfahrensoptionen (zum Beispiel Vorschlagsrecht des Personalamts, wertgleiche Versetzung oder Entscheidung über einen Ausschreibungsverzicht). Wird die Stellenausschreibung veröffentlicht, kann der Abbruch des Auswahlverfahrens erfolgen, wenn ein sachlicher Grund vorliegt, der den Vorgaben des Artikel 33 Absatz 2 GG genügt. Hierüber entscheidet jeweils die ausschreibende Behörde und informiert entsprechend die Bewerberinnen und Bewerber und das Personalamt.
 
-• Auswahlphase: Auswertung der eingegangenen Bewerbungen und Durchführung des Auswahlverfahrens unter Berücksichtigung der jeweils aktuellen rechtlichen Grundlagen und Instrumente der Personalauswahl. Das Personalamt ist bei den in der Stellenanordnung genannten Fällen beteiligt.
+– Auswahlphase: Auswertung der eingegangenen Bewerbungen und Durchführung des Auswahlverfahrens unter Berücksichtigung der jeweils aktuellen rechtlichen Grundlagen und Instrumente der Personalauswahl. Das Personalamt ist bei den in der Stellenanordnung genannten Fällen beteiligt.
 
 Für die einzelnen Phasen gibt es keine Vorgaben zu den Zeitkontingenten, diese liegen im dezentralen Organisationsermessen.
 
@@ -279,7 +280,7 @@ Wurde bei der Besetzung der Stellen im Amt für Energie und Klima von den üblic
 
 Wurde bei der Besetzung der Leitungsstelle des Amtes für Energie und Klima von den üblichen Vorgehensweisen zur Besetzung derartiger Stellen abgewichen? Wenn ja, warum wurde von den üblichen Verfahren abgewichen?
 
-#### Antwort zu Fragen 30 bis 31
+#### Antwort zu Fragen 30 und 31
 
 Nein, siehe im Übrigen auch Antworten zu 8. bis 19. sowie 27. bis 29.
 

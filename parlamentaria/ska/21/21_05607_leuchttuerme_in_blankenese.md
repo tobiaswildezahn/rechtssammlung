@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6223"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54098"
@@ -51,7 +52,7 @@ Wann werden die beiden neuen Anlagen in Betrieb genommen?
 
 Wann ist die Einstellung des Betriebs der beiden Leuchtfeuer (Ober- und Unterfeuer) in Blankenese vorgesehen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Baubeginn und Inbetriebnahme der neuen Richtfeuerlinie, einschließlich der beiden neuen Leuchttürme, sowie die Außerbetriebnahme der bisherigen Richtfeuerlinie, einschließlich des Rückbaus der beiden alten Leuchttürme, hängen ab vom Abschluss des laufenden Verfahrens zur Fahrrinnenanpassung von Unter- und Außenelbe beim Bundesverwaltungsgericht und können deshalb zeitlich nicht konkret benannt werden.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1389"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61164"
@@ -49,7 +50,7 @@ Aus welchem Grund soll die (Kern-)Sanierung des Kriegerdenkmals erst im 3. Quart
 
 Wie kann es sein, dass zwischen der Veröffentlichung des Gutachtens und Erhaltungskonzeptes sowie der möglichen Realisierung über drei Jahre vergehen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 2016 und 2017 wurde die Maßnahme aufgrund vordringlicher Aufgaben nicht in die vom zuständigen Ausschuss des Bezirksamts Wandsbek beschlossene Priorisierung der umzusetzenden Projekte im Arbeitsprogramm aufgenommen. Im Arbeitsprogramm Stadtgrün 2018 ist die Sanierung des Anny-Tollens-Denkmals unter Punkt 2 als priorisierte Maßnahme für 2018 gelistet. Ein politischer Beschluss des Arbeitsprogramms 2018 durch den Bezirk steht noch aus. Bei Beschluss der Maßnahme und der Bereitstellung der erforderlichen Mittel ist ein Beginn der Projektbearbeitung im 3. Quartal 2018 möglich.
 
@@ -61,7 +62,7 @@ Wie haben sich drei weitere Frostperioden seit der Begutachtung auf das Denkmal 
 
 Welche neuen Schäden und Verschmutzungen sind seit der drei Jahre zurückliegenden Begutachtung bekannt und wie wirken sich diese Beeinträchtigungen auf die geplante Instandsetzung aus?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nach einem Ortstermin im Frühjahr 2017 wurde das Denkmal gesichert, da aufgrund der alterungs- und witterungsbedingten Beschädigungen an der Konstruktion eine Gefährdung von ihm ausgehen kann. Augenscheinlich zu erkennen sind Abplatzungen von Putz und Steinen sowie Rissbildungen. Darüber hinaus liegen dem zuständigen Bezirksamt keine neuen Erkenntnisse vor.
 

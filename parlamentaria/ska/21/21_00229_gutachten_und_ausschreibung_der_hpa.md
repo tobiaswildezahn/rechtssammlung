@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48355"
@@ -46,7 +47,7 @@ Welche Aufträge, Gutachten et cetera hat die HPA in der Zeit vom
 
 Welchen Inhalt/Gegenstand hat der jeweilige Auftrag (bitte genaue Bezeichnung des Auftragsgegenstandes, wesentliche inhaltliche Eckpunkte und von der HPA mit dem Auftrag verfolgte Zielsetzungen)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 
@@ -58,7 +59,7 @@ Welche Aufträge sind EU-weit ausgeschrieben worden?
 
 Welche Aufträge sind ohne Ausschreibung vergeben worden und warum sind die Aufträge nicht vor Vergabe ausgeschrieben worden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Bei der HPA gilt grundsätzlich, dass auch unterhalb der Schwelle für EU-weite Vergaben mehrere Vergleichsangebote eingeholt werden.
 

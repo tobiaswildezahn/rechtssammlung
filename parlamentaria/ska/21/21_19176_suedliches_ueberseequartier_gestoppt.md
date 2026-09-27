@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 62819
 seiten: 2
 fragen: 3
-einzelfragen: 6
-antwortbloecke: 3
+einzelfragen: 8
+antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68877"
@@ -66,17 +67,31 @@ Nein.
 ### Frage 3
 
 Gab es eine oder mehrere Klagen gegen das Bauvorhaben?
-3.1. Wenn ja, wie viele?
-3.2. Welchen Inhalt haben diese Klagen?
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+Wenn ja, wie viele?
+
+### Frage 3.2
+
+Welchen Inhalt haben diese Klagen?
+
+#### Antwort zu Fragen 3, 3.1 und 3.2
 
 Gegen das Vorhaben sind ein Normenkontrollverfahren und ein Eilverfahren anhängig (siehe Vorbemerkung). Mit dem Normenkontrollverfahren wird geltend gemacht, bei Erlass des Bebauungsplans HafenCity 15 seien Abwägungsfehler gemacht worden. Mit dem Eilverfahren wird angestrebt, die aufschiebende Wirkung der Widersprüche gegen die Baugenehmigungen anordnen zu lassen, was einen Baustopp bedeuten würde.
 
-3.3. Gibt es Gerichtsentscheidungen zu den Klagen?
+### Frage 3.3
+
+Gibt es Gerichtsentscheidungen zu den Klagen?
+
+#### Antwort zu Frage 3.3
 
 Siehe Vorbemerkung.
 
-3.4. Welche Auswirkungen haben die Gerichtsentscheidungen auf das Bauvorhaben? Bitte die Auswirkungen kurz darstellen und das beziehungsweise die Urteile/Beschlüsse in Kopie anfügen.
+### Frage 3.4
+
+Welche Auswirkungen haben die Gerichtsentscheidungen auf das Bauvorhaben? Bitte die Auswirkungen kurz darstellen und das beziehungsweise die Urteile/Beschlüsse in Kopie anfügen.
+
+#### Antwort zu Frage 3.4
 
 Der Beschluss des Verwaltungsgerichts hat keine Auswirkungen auf das Bauvorhaben.

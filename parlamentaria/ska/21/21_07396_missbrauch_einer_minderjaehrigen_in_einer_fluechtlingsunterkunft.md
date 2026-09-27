@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 18
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7392", "21/3550"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56015"
@@ -56,7 +57,7 @@ Warum ist es dem Senat beziehungsweise den zuständigen Behörden seit Ablehnung
 
 Welche Maßnahmen haben der Senat beziehungsweise die zuständigen Behörden ergriffen, um die abschiebungsrelevanten Dokumente seitens der ägyptischen Behörden zu erhalten? (Bitte einzeln und nach Jahr aufschlüsseln.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/7392.
 

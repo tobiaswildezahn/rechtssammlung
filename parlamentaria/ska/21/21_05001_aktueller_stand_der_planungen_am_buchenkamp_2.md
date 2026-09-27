@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3357"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53554"
@@ -77,7 +78,7 @@ Welche weiteren Vereinbarungen im Einzelnen haben welche Stellen der Stadt mit d
 
 Wann wird derzeit mit einer baulichen Antragstellung für die Unterkunft gerechnet? Wann soll mit dem Bau begonnen werden und wann wird mit der Fertigstellung gerechnet?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Bezirksverwaltung Wandsbek wurde mit Beschluss der Bezirks-Drs. 20-2771 durch den Planungsausschuss der Bezirksversammlung Wandsbek gebeten, die Einleitung eines Bebauungsplanverfahrens vorzubereiten, um unter anderem die planungsrechtlichen Voraussetzungen für 60 Wohneinheiten und einer Einrichtung für Demenzerkrankte auf dem benachbarten Flurstück 272 zu schaffen. Vereinbarungen des Bezirksamtes Wandsbek mit dem Grundeigentümer hierüber bestehen bisher nicht.
 

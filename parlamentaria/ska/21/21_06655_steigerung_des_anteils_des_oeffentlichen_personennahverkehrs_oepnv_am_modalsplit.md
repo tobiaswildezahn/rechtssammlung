@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55193"
@@ -99,7 +100,7 @@ Wie müsste nach der Auffassung des Senats ein Angebot des HVV aussehen, mit dem
 
 Warum gelingt dies somit mit dem derzeitigen Angebot nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Maßgebliche Einflussgrößen des Verkehrsmittelwahlverhaltens sind unter anderem Wohn- und Arbeitsort, persönliche Tagesabläufe, sozioökonomische Merkmale, Erreichbarkeit, Reisezeit, Kosten sowie Komfortfaktoren. Der Senat kann hierauf nur bedingt mittel- bis langfristig Einfluss nehmen. Maßnahmenansätze liegen insbesondere in der integrierten Stadt- und Verkehrsplanung und Verbesserungen des ÖPNV- Angebots. Der Senat verfolgt diverse Planungen die darauf abzielen, mehr Fahrgäste im HVV befördern zu können.
 

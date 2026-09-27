@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17985"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69335"
@@ -104,7 +105,7 @@ Wie hat sich im Wahlkreis 15 für den oben genannten Zeitraum die Betreuungsquot
 
 Wie hat sich im Wahlkreis 15 für den oben genannten Zeitraum die Krippenbetreuungsquote speziell der Zwei- bis Dreijährigen entwickelt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Betreuungsquote im Krippenalter im Wahlkreis Bergedorf:
 
@@ -129,7 +130,7 @@ Wie viele Kinder im „Elementaralter“ (ab drei Jahre bis zur Einschulung) pro
 
 Wie viele Kinder profitierten im Wahlkreis 15 im oben genannten Zeitraum – Krippen- und Elementaralter zusammengezählt – von Kindertagesbetreuung und wie hat sich diese Zahl seit Ende 2010 entwickelt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 1.
 

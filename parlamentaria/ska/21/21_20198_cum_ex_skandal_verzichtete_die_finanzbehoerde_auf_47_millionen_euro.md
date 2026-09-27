@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 17
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19283", "21/20196", "21/18881"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69971"
@@ -85,7 +86,7 @@ Ist es richtig, dass das Bundesfinanzministerium im Jahre 2017 Hamburg anwies, d
 
 Ist es richtig, dass eine „Billigkeitslösung“ zwischen der Finanzverwaltung und der Warburg-Bank geschlossen wurde, nach der die Bank nur 68 Millionen hätte zurückzahlen müssen und die Stadt somit auf fast 100 Millionen Euro verzichtet hätte? a. Falls ja, wann wurde diese zwischen wem aus welchen Gründen vereinbart? b. Falls ja, wurde der Erste Bürgermeister darüber informiert? c. Falls ja, ist es richtig, dass diese Billigkeitslösung im November 2019 vom Bundesfinanzministerium verhindert wurde?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 

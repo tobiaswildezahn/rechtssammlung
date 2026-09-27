@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 17
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9984", "18/6010"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48387"
@@ -51,7 +52,7 @@ Welche Erkenntnisse hat der Senat über die Band Frei.Wild und ihre politische A
 
 Wie schätzt der Senat die Gruppe Frei.Wild ein?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat hat sich mit der Frage nicht beschäftigt. Im Übrigen siehe Vorbemerkung und Drs. 20/9984.
 

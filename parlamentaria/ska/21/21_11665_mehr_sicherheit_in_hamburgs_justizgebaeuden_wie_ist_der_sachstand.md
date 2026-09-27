@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/3164", "21/8696", "21/11173"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60894"
@@ -55,7 +56,7 @@ Sind die baulichen Maßnahmen zur Veränderung der Eingangssituation im Ziviljus
 
 Sollte eine der unter Ziffer 1. genannten baulichen Maßnahmen standortbezogen noch nicht abgeschlossen sein: a. Warum wurde die Maßnahme noch nicht finalisiert? Bitte nach Gericht separiert darstellen. b. Wie ist der aktuelle Stand beziehungsweise der bauliche Fortschritt der jeweiligen bisher nicht finalisierten Maßnahme einzuschätzen und wann ist mit der Fertigstellung zu rechnen? Bitte nach Gericht separiert darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Hinsichtlich der geplanten Beendigung der in den Amtsgerichten Hamburg-Altona und Hamburg-Bergedorf vorgesehenen baulichen Veränderungen siehe Drs. 21/11173.
 

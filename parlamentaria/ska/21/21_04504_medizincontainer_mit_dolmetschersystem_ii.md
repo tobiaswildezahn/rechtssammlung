@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 27
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2759"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52907"
@@ -122,7 +123,7 @@ Wurde Dolmetschern im Zusammenhang mit der geplanten Aufstellung der Medizincont
 
 Gibt es keine zur Kündigung alternativen Personalmaßnahmen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Dolmetscher erbringen ihre Leistungen auf Honorarbasis und werden wie bisher bei Bedarf hinzugezogen.
 

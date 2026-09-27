@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 18
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59806"
@@ -52,9 +53,9 @@ Wie viele Perinatalzentren/neonatologische Stationen gibt es in Hamburg und an w
 
 In Hamburger Plankrankenhäusern bestehen
 
- fünf Perinatalzentren Level 1,
+– fünf Perinatalzentren Level 1,
 
- zwei Perinatalzentren Level 2.
+– zwei Perinatalzentren Level 2.
 
 Perinatalzentrum  
 Status  
@@ -247,9 +248,9 @@ Krankenhaus
 Anzahl gleichwertige  
 Fachkräfte/Köpfe/Personen  
 Altonaer Kinderkrankenhaus (AKK)  
-  
+–  
 AKK im PNZ Altona  
-  
+–  
 AKK im Albertinen-Krankenhaus/
 
 Neonatologische Intensiveinheit

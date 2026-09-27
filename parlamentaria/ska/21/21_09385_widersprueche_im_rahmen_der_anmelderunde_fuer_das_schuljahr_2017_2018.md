@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58147"
@@ -51,7 +52,7 @@ Wie viele Widersprüche wurden im Anmeldeverfahren für das Schuljahr 2017/2018 
 
 Wie viele der Widersprüche im Anmeldeverfahren für das Schuljahr 2017/2018 gegen die Zuweisung zu einer Grundschule wurden bisher jeweils wie beschieden und wie viele wurden noch nicht abschließend bearbeitet? Bitte für jeden Fall angeben, wann der jeweilige Widerspruch eingegangen ist und wann er gegebenenfalls beschieden wurde.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

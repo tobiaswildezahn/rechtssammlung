@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838", "21/3838", "21/5824"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57003"
@@ -65,15 +66,15 @@ Das Bebauungsplanverfahren Hummelsbüttel 29 – Wildes Moor wurde nach der öff
 
 Das Bezirksamt Wandsbek hat im Zusammenhang mit der Planung folgende Aufträge vergeben und nach Erbringung der vertragsgemäßen Leistungen an die Auftragnehmer entgolten:
 
- Baumaufmaß, beauftragt am 18. Dezember 2015 an den Landesbetrieb Geoinfor-
+– Baumaufmaß, beauftragt am 18. Dezember 2015 an den Landesbetrieb Geoinfor-
 
 mation und Vermessung, Auftragssumme 3.189,00 Euro.
 
- Stadtklimatische Wirkungsanalyse, beauftragt am 19. Mai 2016 an die Firma
+– Stadtklimatische Wirkungsanalyse, beauftragt am 19. Mai 2016 an die Firma
 
 Weatherpark, Auftragssumme 14.800,00 Euro.
 
- Artenschutzfachliche Potenzialanalyse, beauftragt am 01. Februar 2016 an die
+– Artenschutzfachliche Potenzialanalyse, beauftragt am 01. Februar 2016 an die
 
 Firma Planungsgemeinschaft Marienau, Auftragssumme 4.318,27 Euro.
 

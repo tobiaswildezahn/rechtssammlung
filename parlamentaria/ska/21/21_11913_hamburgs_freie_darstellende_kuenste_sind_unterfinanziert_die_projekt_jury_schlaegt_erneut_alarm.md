@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 22
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6990", "21/7451"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61155"
@@ -77,7 +78,7 @@ Wie bewertet der Senat die Aussagen der Jury?
 
 Wie gedenkt der Senat auf die Anregungen der Jury einzugehen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -143,7 +144,7 @@ Inwieweit konnte durch die zusätzlich eingestellten Mittel „die Weiterarbeit 
 
 Inwieweit konnte durch die zusätzlich eingestellten Mittel für „die Weiterarbeit der DfdK Geschäftsstelle Planungssicherheit hergestellt“ werden?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Weiterarbeit der DfdK Geschäftsstelle mit den bestehenden Aufgaben konnte durch zusätzliche Mittel gewährleistet werden. Die Förderung konnte seit 2013 insgesamt fünfmal in selber Höhe an den DfdK vergeben werden, zuzüglich einmaliger Mittel zur Einrichtung des Proberaums in der Wartenau. Im Übrigen siehe Vorbemerkung.
 
@@ -155,7 +156,7 @@ Inwieweit konnte durch die zusätzlich eingestellten Mittel der Weiterbetrieb de
 
 Inwieweit ist der Weiterbetrieb des Proberaums in der Wartenau auch künftig gesichert?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Der Weiterbetrieb des Proberaums in der Wartenau konnte durch die zusätzlichen Mittel gewährleistet werden. Die zuständige Behörde strebt einen Weiterbetrieb auch über 2018 hinaus an. Im Übrigen siehe Vorbemerkung.
 

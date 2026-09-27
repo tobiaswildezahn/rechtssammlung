@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8126", "21/3723", "21/3490", "21/5600", "20/5300"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56915"
@@ -384,19 +385,19 @@ Für den Standort Neuenfelder Straße 19, 21109 Hamburg (Verwaltungsgebäude der
 
 sind in den Jahren 2014 bis 2016 nachstehende energetische Maßnahmen getroffen worden:
 
- Energiemonitoring mit dem Ziel einer Optimierung aller Energieverbrauchswerte
+– Energiemonitoring mit dem Ziel einer Optimierung aller Energieverbrauchswerte
 
 unter Beachtung raumklimatischer Bedingungen
 
- Umrüstung von Fluchtwegbeleuchtungen in LED-Technik
+– Umrüstung von Fluchtwegbeleuchtungen in LED-Technik
 
- Optimierung des Zeitraums zur Vorlauftemperaturabsenkung in den Heizkreisen
+– Optimierung des Zeitraums zur Vorlauftemperaturabsenkung in den Heizkreisen
 
- Bedarfsgerechte Anpassung von Zeitprogrammen für die Beleuchtungssteuerung
+– Bedarfsgerechte Anpassung von Zeitprogrammen für die Beleuchtungssteuerung
 
- Optimierung der Kühlung von EDV-Technikräumen
+– Optimierung der Kühlung von EDV-Technikräumen
 
- Installation von 15 Kfz-Ladesäulen zur Verringerung der CO2 Emission von Dienst-
+– Installation von 15 Kfz-Ladesäulen zur Verringerung der CO2 Emission von Dienst-
 
 fahrzeugen
 
@@ -404,15 +405,15 @@ In dem Gebäude Alter Steinweg 4/Wexstraße 7 wurden die Fenster im Jahr 2016 ü
 
 Beim Landesbetrieb Großmarkt wurden folgende energetische Maßnahmen in den Jahren 2014 bis 2016 durchgeführt:
 
- Erneuerung der Torluftschleieranlagen an den Toren der Großmarkthalle
+– Erneuerung der Torluftschleieranlagen an den Toren der Großmarkthalle
 
- Einbau von Schnelllauftoren bei der Sanierung der LKW-Rampen
+– Einbau von Schnelllauftoren bei der Sanierung der LKW-Rampen
 
- Umstellung des Großmarkt-Schriftzuges an der Auskragung auf LED
+– Umstellung des Großmarkt-Schriftzuges an der Auskragung auf LED
 
- Umstellung der Außenbeleuchtung auf LED
+– Umstellung der Außenbeleuchtung auf LED
 
- Teilerneuerung des Dachs von Umschlaghalle West I
+– Teilerneuerung des Dachs von Umschlaghalle West I
 
 d. Wie viele Straßenbäume gibt es in den einzelnen Stadtteilen?
 

@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 26
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1708", "21/5600", "21/1565", "21/1165"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54467"
@@ -57,7 +58,7 @@ Wurde die Maßnahme „Intensivierung und Steigerung der Ausschreibungen von Gla
 
 Ist derzeit geplant, für die Maßnahme „Intensivierung und Steigerung der Ausschreibungen von Glas- und Gebäudereinigungsdienstleistungen“ weitere Mittel aus dem Fonds zur Effizienzsteigerung oder aus anderen zentralen Ansätzen des Einzelplans 9.2 zur Verfügung zu stellen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nein, im Übrigen siehe Vorbemerkung.
 
@@ -165,7 +166,7 @@ Welche weiteren Maßnahmen sind in den Jahren 2015 und 2016 jeweils mit Mitteln 
 
 Welche haushaltsentlastende oder effizienzsteigernde Wirkung hatten diese Maßnahmen jeweils im Einzelnen an welcher Stelle?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Siehe Anlage.
 

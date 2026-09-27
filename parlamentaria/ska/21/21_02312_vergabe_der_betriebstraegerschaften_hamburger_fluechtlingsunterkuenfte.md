@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 19
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50583"
@@ -45,11 +46,11 @@ Bis Mitte November 2014 erfolgte der Betrieb der Zentralen Erstaufnahme (ZEA) au
 
 Bei jedem neuen Standort der ZEA wird die Vergabeentscheidung individuell geprüft. Dort wo sich kurzfristig abzeichnet, dass f & w nicht die erforderlichen Kapazitäten aufbringen kann, werden andere Betreiber in Betracht gezogen. Grundlage ist eine Leistungsbeschreibung. Kriterien sind insbesondere
 
- das Leistungsvermögen und vorhandene Kapazitäten der jeweiligen Organisatio-
+– das Leistungsvermögen und vorhandene Kapazitäten der jeweiligen Organisatio-
 
 nen bezogen auf die konkrete Einrichtung (zum Beispiel Größe, Lage, Besonderheiten et cetera),
 
- bereits vorhandene (regionale) Infrastruktur der Organisationen.
+– bereits vorhandene (regionale) Infrastruktur der Organisationen.
 
 Alle Hilfsorganisationen werden rechtzeitig über die Inbetriebnahme eines neuen Standortes informiert und können ihr Interesse und ihre Bereitschaft, eine solche Unterkunft zu betreiben, bekunden.
 
@@ -63,7 +64,7 @@ In welchen Hamburger Flüchtlingsunterkünften erfolgte die Vergabe der Betriebs
 
 Wann erfolgte jeweils die Vergabeentscheidung und wann wurde die Einrichtung jeweils durch den freien Träger in Betrieb genommen? (Bitte einzeln je Unterkunft auflisten.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Folgende Erstaufnahmeeinrichtungen werden nicht von f & w betrieben:
 

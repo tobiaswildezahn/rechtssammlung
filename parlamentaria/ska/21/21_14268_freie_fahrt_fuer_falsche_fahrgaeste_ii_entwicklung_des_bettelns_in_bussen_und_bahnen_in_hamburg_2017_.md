@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7723", "21/10449", "21/1658"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63676"
@@ -58,7 +59,7 @@ c) U-Bahnen,
 d) Regional- und Fernbahnen  
 in Hamburg erfolgten 2017 und 2018 unter dem Einsatzanlass „Belästigung“? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Polizeieinsätze werden im Hamburger Einsatzleitsystem (HELS) der Polizeieinsatzzentrale (PEZ) dokumentiert. Es handelt sich jedoch nicht um ein System, das für statistische Auswertungen generiert wurde.
 
@@ -154,6 +155,6 @@ Laut Drs. 21/10449 liegen dem Senat beziehungsweise den zuständigen Behörden k
 
 Laut Drs. 21/10449 liegen den auf Hamburger Gebiet tätigen Verkehrsunternehmen und dem HVV keinerlei Untersuchungen beziehungsweise Studien vor, die sich mit der Entwicklung des Phänomens des Bettelns seit dem Jahr 2011 (oder später) in den Stationen und Verkehrsmitteln des öffentlichen Personennahverkehrs (ÖPNV) in Hamburg befassen. Inwiefern planen die auf Hamburger Gebiet tätigen Verkehrsunternehmen und/oder der HVV, eine entsprechende Untersuchung beziehungsweise Studie selbst zu beauftragen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Derartige Planungen bestehen nicht

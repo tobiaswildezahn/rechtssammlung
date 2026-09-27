@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1514"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50236"
@@ -81,7 +82,7 @@ Werden Mitarbeiter/-innen der Jobcenter und Agenturen für Arbeit auf psychische
 
 Welche Träger führen die in 4. abgefragten Schulungen durch und welche finanziellen Mittel stehen für 2015/2016 zur Verfügung?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Zum Thema „Erkennen von und Umgang mit psychischen Erkrankungen“ werden Schulungen angeboten, um die sozial-kommunikativen Kompetenzen der Mitarbeiterinnen und Mitarbeiter zu stärken. Darüber hinaus werden auch folgende Schulungen angeboten: „Umgang mit Kunden mit psychischen Erkrankungen“, „Borderline – Persönlichkeitsstörung“ und „Sucht erkennen und handeln“.
 

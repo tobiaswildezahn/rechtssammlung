@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5350", "21/6068"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55780"
@@ -75,35 +76,35 @@ Wie viele und welche Gerichte sowie Staatsanwaltschaft sind bisher auf den Zugan
 
 Den Anwälten steht der elektronische Rechtsverkehr bereits bei allen Fachgerichten, beim Oberlandesgericht sowie bei den bei Land- und Amtsgericht bereits zugelassenen Verfahren in großem Umfang zur Verfügung:
 
- Finanzgericht Hamburg: in allen Verfahren
+– Finanzgericht Hamburg: in allen Verfahren
 
- Verwaltungsgericht Hamburg: in allen Verfahren
+– Verwaltungsgericht Hamburg: in allen Verfahren
 
- Hamburgisches Oberverwaltungsgericht: in allen Verfahren
+– Hamburgisches Oberverwaltungsgericht: in allen Verfahren
 
- Arbeitsgericht Hamburg: in allen Verfahren
+– Arbeitsgericht Hamburg: in allen Verfahren
 
- Landesarbeitsgericht Hamburg: in allen Verfahren
+– Landesarbeitsgericht Hamburg: in allen Verfahren
 
- Hamburgisches Berufsgericht für die Heilberufe: in allen Verfahren
+– Hamburgisches Berufsgericht für die Heilberufe: in allen Verfahren
 
- Hamburgischer Berufsgerichtshof für die Heilberufe: in allen Verfahren
+– Hamburgischer Berufsgerichtshof für die Heilberufe: in allen Verfahren
 
- Sozialgericht Hamburg: in allen Verfahren (ab 19.12.2016)
+– Sozialgericht Hamburg: in allen Verfahren (ab 19.12.2016)
 
- Landessozialgericht Hamburg: in allen Verfahren (ab 19.12.2016)
+– Landessozialgericht Hamburg: in allen Verfahren (ab 19.12.2016)
 
- Amtsgericht Hamburg:
+– Amtsgericht Hamburg:
 
- in Handels-, Partnerschafts- und Genossenschaftsregistersachen
+– in Handels-, Partnerschafts- und Genossenschaftsregistersachen
 
- im Mahnverfahren (Online-Mahnantrag und Profi-Mahn)
+– im Mahnverfahren (Online-Mahnantrag und Profi-Mahn)
 
- Landgericht Hamburg:
+– Landgericht Hamburg:
 
- in Verfahren vor den Kammern für Handelssachen
+– in Verfahren vor den Kammern für Handelssachen
 
- Hanseatisches Oberlandesgericht: in Verfahren, auf die die Zivilprozessordnung
+– Hanseatisches Oberlandesgericht: in Verfahren, auf die die Zivilprozessordnung
 
 oder das Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit Anwendung findet sowie Beschwerdeverfahren betreffend Verfahren nach der Grundbuchordnung, der Schiffsregisterordnung, dem Gesetz gegen Wettbewerbsbeschränkungen und dem Energiewirtschaftsgesetz
 

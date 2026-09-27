@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5317"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51653"
@@ -41,10 +42,16 @@ Vor diesem Hintergrund frage ich den Senat:
 ### Frage 1
 
 Hält der Senat an der in der Drs. 20/5317 formulierten „Zielgröße“ für die Neuausrichtung des Schulbaus von der „Reduzierung um 10 % der Gesamtflächen“ weiterhin fest?
-1.1. Wenn ja, wie begründet der Senat die „Zielgröße“ in der aktuellen Situation?
-1.2. Wenn nein, welche „Zielgröße“ gilt jetzt und wie lautet die Begründung für die neue Zielsetzung?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Wenn ja, wie begründet der Senat die „Zielgröße“ in der aktuellen Situation?
+
+### Frage 1.2
+
+Wenn nein, welche „Zielgröße“ gilt jetzt und wie lautet die Begründung für die neue Zielsetzung?
+
+#### Antwort zu Fragen 1, 1.1 und 1.2
 
 Dem mit der Drs. 20/5317 eingeführten Flächenbenchmarking liegt ein auf der Basis des Musterflächenprogramms ermittelter Bedarf von 12 m² Gebäudefläche pro Schülerin und Schüler zugrunde. Die gesamte benötigte Gebäudefläche ist so abhängig von der Gesamtschülerzahl. Bei steigenden Schülerzahlen steigt also auch der Flächenbedarf proportional, wodurch der zu reduzierende Flächenüberhang sinkt. Das Ziel besteht weiterhin in einer gleichmäßigen Auslastung von 12 m² pro Schüler.
 

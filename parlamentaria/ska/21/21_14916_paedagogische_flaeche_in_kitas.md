@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64367"
@@ -56,7 +57,7 @@ Wie groß ist die „pädagogisch nutzbare Fläche“ pro Kind a. in der Krippen
 
 Wie hat sich die „pädagogisch nutzbare Fläche“ pro Kind im Sinne von Frage 1. a. und Frage 1. b. seit 2011 verändert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Abschnitt 2.10 „Pädagogisch genutzte Räume, Spiel- und Beschäftigungsmaterial“ (https://www.hamburg.de/fachinformationen/118852/richtlinien/) und Anlage.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66682"
@@ -104,7 +105,7 @@ RE80
 Verkehrszeit  
 3.00 Uhr – 24.00 Uhr  
 0.00 Uhr, 6.00 – 20.00 Uhr  
-Reisende/Zug  
+– Reisende/Zug  
 Maximum  
 Minimum  
 Gesamt  
@@ -162,7 +163,7 @@ RE80
 Verkehrszeit  
 3.00 Uhr – 24.00 Uhr  
 kein Betrieb  
-Reisende/Zug  
+– Reisende/Zug  
 Maximum  
 Minimum  
 Gesamt  
@@ -203,7 +204,7 @@ RE80
 Verkehrszeit  
 3.00 Uhr – 24.00 Uhr  
 kein Betrieb  
-Reisende/Zug  
+– Reisende/Zug  
 Maximum  
 Minimum  
 Gesamt  

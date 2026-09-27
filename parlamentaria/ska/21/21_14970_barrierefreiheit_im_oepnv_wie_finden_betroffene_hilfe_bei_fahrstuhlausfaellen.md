@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64432"
@@ -65,7 +66,7 @@ Welche Möglichkeiten zum Verlassen von Bahnsteigen und Bahnhöfen stehen bewegu
 
 Wie werden bewegungseingeschränkte Reisende von diesen Möglichkeiten informiert? Wer ist für diese Information verantwortlich?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 

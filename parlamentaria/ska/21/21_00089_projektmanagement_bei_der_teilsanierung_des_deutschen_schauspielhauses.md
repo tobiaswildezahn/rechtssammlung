@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 20
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10818"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48220"
@@ -55,7 +56,7 @@ Welche letztendlich durchgeführten Maßnahmen waren in der ursprünglichen aufg
 
 Was waren die Gründe für die Durchführung der ursprünglichen nicht geplanten Maßnahmen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 20/10818.
 

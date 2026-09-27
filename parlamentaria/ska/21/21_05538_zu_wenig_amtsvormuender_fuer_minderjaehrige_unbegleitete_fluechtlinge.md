@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 20
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4422"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54029"
@@ -76,11 +77,11 @@ Die Statistiken der vom Senat geförderten freien Träger umfassen Angaben zu Vo
 
 Danach hatte die folgende Anzahl von Mündeln einen privaten Vormund, der von einem vom Senat geförderten freien Träger betreut wurde:
 
- Deutscher Kinderschutzbund: 2014: 54; 2015: 72.
+– Deutscher Kinderschutzbund: 2014: 54; 2015: 72.
 
- Diakonieverein Vormundschaften: 2014: elf; 2015: acht.
+– Diakonieverein Vormundschaften: 2014: elf; 2015: acht.
 
- Beschäftigung und Bildung e.V.: 2014: Träger noch nicht in der Förderung; 2015:
+– Beschäftigung und Bildung e.V.: 2014: Träger noch nicht in der Förderung; 2015:
 
 keine Privatvormünder.
 
@@ -186,17 +187,17 @@ Dementsprechend können auch andere erwachsene Verwandte, die gegebenenfalls als
 
 Begleitpersonen, die nicht sorgeberechtigt sind, können aber als Erziehungsberechtigte, das heißt als von den Sorgeberechtigten zu deren Vertretung autorisierte Personen, anerkannt werden. Das zuständige Jugendamt prüft in diesen Fällen, ob die erwachsene Begleitperson
 
- uneingeschränkt geschäftsfähig ist,
+– uneingeschränkt geschäftsfähig ist,
 
- durch die Sorgenberechtigten autorisiert ist beziehungsweise angenommen wer-
+– durch die Sorgenberechtigten autorisiert ist beziehungsweise angenommen wer-
 
 den kann, dass die Anerkennung der Erziehungsberechtigung dem Willen der Sorgeberechtigten entspricht, was in der Regel bei einem engen Verwandtschaftsverhältnis anzunehmen ist,
 
- willens und in der Lage ist, diese Aufgabe zu übernehmen, das heißt zum Beispiel
+– willens und in der Lage ist, diese Aufgabe zu übernehmen, das heißt zum Beispiel
 
 auch die Minderjährigen in ihrer Lebenswelt beziehungsweise in ihrem Haushalt aufzunehmen und
 
- der Minderjährige zustimmt.
+– der Minderjährige zustimmt.
 
 In der Zeit von Januar bis einschließlich Juli 2016 wurden 201 minderjährige unbegleitete Flüchtlinge an Begleitpersonen übergeben, davon waren nur sehr wenige bereit, eine über die Erziehungsberechtigung hinausgehende Vormundschaft für den Minderjährigen auszuüben.
 

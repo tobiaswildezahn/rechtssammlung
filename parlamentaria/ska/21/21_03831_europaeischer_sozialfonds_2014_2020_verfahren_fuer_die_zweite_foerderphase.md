@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/343", "21/2530"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52194"
@@ -69,31 +70,31 @@ Wer ist Mitglied im ESF-Behördenausschuss?
 
 Gemäß Artikel 1 Abs, 3 der Geschäftsordnung des ESF-Behördenausschusses setzt sich dieser aus den folgenden stimmberechtigten Behörden zusammen:
 
- Senatskanzlei
+– Senatskanzlei
 
- Behörde für Stadtentwicklung und Wohnen
+– Behörde für Stadtentwicklung und Wohnen
 
- Behörde für Schule und Berufsbildung
+– Behörde für Schule und Berufsbildung
 
- Behörde für Gesundheit und Verbraucherschutz
+– Behörde für Gesundheit und Verbraucherschutz
 
- Behörde für Wissenschaft, Forschung und Gleichstellung
+– Behörde für Wissenschaft, Forschung und Gleichstellung
 
- Kulturbehörde
+– Kulturbehörde
 
- Behörde für Inneres und Sport, Landessportamt
+– Behörde für Inneres und Sport, Landessportamt
 
- Federführendes Bezirksamt, stellvertretend für die Bezirksämter
+– Federführendes Bezirksamt, stellvertretend für die Bezirksämter
 
- Behörde für Arbeit, Soziales, Familie und Integration als ESF-Verwaltungsbehörde
+– Behörde für Arbeit, Soziales, Familie und Integration als ESF-Verwaltungsbehörde
 
- Behörde für Wirtschaft, Verkehr und Innovation
+– Behörde für Wirtschaft, Verkehr und Innovation
 
- Justizbehörde
+– Justizbehörde
 
- Agentur für Arbeit Hamburg
+– Agentur für Arbeit Hamburg
 
- Jobcenter team.arbeit.hamburg
+– Jobcenter team.arbeit.hamburg
 
 Die EFRE-Verwaltungsbehörde (angesiedelt in der Behörde für Wirtschaft, Verkehr und Innovation) ist nicht stimmberechtigtes Mitglied im ESF-Behördenausschuss.
 

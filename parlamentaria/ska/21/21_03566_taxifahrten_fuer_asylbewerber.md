@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51935"
@@ -47,7 +48,7 @@ Zu welchem Zweck werden Asylbewerbern in Hamburg Taxifahrten finanziert?
 
 Ist die Finanzierung der Fahrten insbesondere auf begründete Einzelfälle beschränkt? Wenn ja, welche sind das?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In begründeten Ausnahmefällen (insbesondere Fahrten ins Krankenhaus und zum Bundesamt für Migration und Flüchtlinge bei gesundheitlich eingeschränkten oder behinderten Personen) kann durch die zuständige Behörde oder den Betreiber der Flüchtlingsunterkunft einem Transport per Taxi zugestimmt werden. Auch bei kurzfristig anfallenden Verlegungen oder in Fällen, in denen die Beauftragung eines Busses nicht möglich oder wirtschaftlich nicht sinnvoll ist, kann auf Taxen zurückgegriffen werden.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4133"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56060"
@@ -147,7 +148,7 @@ Ist der Senat mit der Entwicklung der Fluglärmbeschwerden zufrieden? Wenn ja, w
 
 Ist der Senat mit der Entwicklung der Starts und Landungen nach 23 Uhr zufrieden? Wenn ja, warum? Wenn nein, warum nicht und was gedenkt er dagegen zu tun?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die auch aus Sicht des Senats zeitweilig ungünstige Entwicklung der Starts und Landungen nach 23 Uhr ist durch eine Zunahme von unvermeidbaren Verspätungen verursacht. Der Senat verfolgt weiterhin das Ziel, die Verspätungen deutlich zu reduzieren. Dies soll unter anderem mit der gemeinsam mit den Airlines ins Leben gerufenen Pünktlichkeitsoffensive erreicht werden, ebenso wie durch eine deutliche Anhebung der Start- und Landeentgelte in einem viertelstündlichen Intervall zwischen 23 Uhr und 24 Uhr. Starts und Landungen, die ausnahmsweise in der Zeit zwischen 0 Uhr und
 5.59 Uhr stattfinden, sollen mit einem noch höheren Zuschlag belegt werden. Soweit Gründe für die Inanspruchnahme der Ausnahmeregelung nachweislich nicht vorlagen, wird der Senat dies entsprechend verfolgen.

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 22
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11566"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60943"
@@ -39,23 +40,23 @@ Vor diesem Hintergrund frage ich den Senat:
 
 Mit der am 23. Januar 2018 beschlossenen Drucksache hat der Senat eine Richtungsentscheidung zur Weiterentwicklung der Technischen Universität Hamburg- Harburg (TUHH) getroffen, die unterschiedliche Ziele definiert:
 
- Deckung des Bedarfs an hochqualifizierten Ingenieurinnen und Ingenieuren durch
+– Deckung des Bedarfs an hochqualifizierten Ingenieurinnen und Ingenieuren durch
 
 qualitative und quantitative Verbesserung der Hochschulbildung,
 
- Stärkung der grundlagenorientierten Forschung in wichtigen Zukunftsfeldern,
+– Stärkung der grundlagenorientierten Forschung in wichtigen Zukunftsfeldern,
 
- Förderung des Strukturwandels hin zu einer wissensbasierten Wirtschaft durch die
+– Förderung des Strukturwandels hin zu einer wissensbasierten Wirtschaft durch die
 
 Vernetzung der Grundlagenforschung mit der anwendungsbezogenen Forschung,
 
- Orientierung der TUHH an den städtischen Clustern,
+– Orientierung der TUHH an den städtischen Clustern,
 
- Beitrag der TUHH zu verwertbaren Erfindungen und Technologien sowie von tech-
+– Beitrag der TUHH zu verwertbaren Erfindungen und Technologien sowie von tech-
 
 nologiebasierten Ausgründungen und
 
- Weiterführung innovativer Projekte der TUHH
+– Weiterführung innovativer Projekte der TUHH
 
 Außerdem hat er die Bürgerschaft gebeten, der TUHH die erforderlichen Mittel im Umfang einer Etatsteigerung von 25 Prozent zur Verfügung zu stellen.
 

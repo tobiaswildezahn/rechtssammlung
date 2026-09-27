@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 45
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14486"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49398"
@@ -39,11 +40,11 @@ Dadurch, dass die Freie und Hansestadt Hamburg als öffentlicher Auftraggeber ü
 
 Zu den Voraussetzungen und Folgen eines Gleichordnungskonzerns liegen zwei für die IMPF erstellte rechtliche Stellungnahmen vor. Übereinstimmend kommen beide rechtlichen Stellungnahmen zu den folgenden Ergebnissen:
 
-• Die Einrichtung eines Gleichordnungskonzerns kann auch durch rein faktisches Handeln erfolgen, etwa durch personelle Verflechtungen zwischen den Geschäftsführungsorganen. Vertragliche Regelungen sind hierfür nicht erforderlich; für die Abstimmung der Geschäftspolitik der Konzerngesellschaften und sonstiger grundsätzlicher Fragen genügt eine personenidentisch besetzte Leitung zweier Unternehmen.
+– Die Einrichtung eines Gleichordnungskonzerns kann auch durch rein faktisches Handeln erfolgen, etwa durch personelle Verflechtungen zwischen den Geschäftsführungsorganen. Vertragliche Regelungen sind hierfür nicht erforderlich; für die Abstimmung der Geschäftspolitik der Konzerngesellschaften und sonstiger grundsätzlicher Fragen genügt eine personenidentisch besetzte Leitung zweier Unternehmen.
 
-• Gleichordnungskonzern und Kontrollkriterium schließen sich gegenseitig aus. Ein nachgeordnetes Unternehmen (also bei Bestehen eines Beherrschungsvertrages) kann nicht gleichberechtigtes Unternehmen in einem Gleichordnungskonzern sein.
+– Gleichordnungskonzern und Kontrollkriterium schließen sich gegenseitig aus. Ein nachgeordnetes Unternehmen (also bei Bestehen eines Beherrschungsvertrages) kann nicht gleichberechtigtes Unternehmen in einem Gleichordnungskonzern sein.
 
-• Bei der Errichtung eines Gleichordnungskonzerns zwischen IMPF und Sprinkenhof wäre die Beherrschung durch die HGV – und damit mittelbar durch die Freie und Hansestadt Hamburg – aufzuheben. Daher würde das sogenannte Kontrollkriterium fehlen, das jedoch Voraussetzung für die Inhousefähigkeit der IMPF ist.
+– Bei der Errichtung eines Gleichordnungskonzerns zwischen IMPF und Sprinkenhof wäre die Beherrschung durch die HGV – und damit mittelbar durch die Freie und Hansestadt Hamburg – aufzuheben. Daher würde das sogenannte Kontrollkriterium fehlen, das jedoch Voraussetzung für die Inhousefähigkeit der IMPF ist.
 
 Im Ergebnis würde die IMPF durch die Schaffung eines Gleichordnungskonzerns ihre Inhousefähigkeit verlieren. Privatwirtschaftliche Wettbewerber der IMPF könnten mit dem Argument eines faktisch bestehenden Gleichordnungskonzerns die Inhousefähigkeit der IMPF anzweifeln und versuchen, die öffentliche Ausschreibung der für die Freie und Hansestadt Hamburg erbrachten Leistungen gerichtlich durchzusetzen.
 
@@ -77,7 +78,7 @@ Liegt dem Senat, der Finanzbehörde und/oder der Innenbehörde ein Gutachten vor
 
 Ist vor und/oder nach Bekanntwerden der Gutachten von Taylor Wessing und PwC abschließend und rechtssicher geprüft worden, ob die IMPF bei der Bildung eines Gleichordnungskonzerns mit der Sprinkenhof unter Beherrschung der HGV eine ihrer Geschäftsgrundlagen – die Inhousefähigkeit – behält? Wenn ja, a. wer hat die Prüfung durchgeführt (Dienststelle/Behörde)? b. worin begründet sich das Ergebnis? c. welche fachliche Qualifikation hatte(n) der/die Prüfer? Wenn nein, a. warum wurde dies nicht geprüft, bevor ein Senatsbeschluss zur Bildung eines Gleichordnungskonzerns getroffen wurde? b. warum setzt man damit die Geschäftsgrundlage/-fähigkeit der IMPF aufs Spiel?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Im Auftrag der HGV wurde durch die GÖRG Partnerschaft von Rechtsanwälten mbB (GÖRG) eine Prüfung hinsichtlich der weiteren Inhousefähigkeit der Gesellschaften durchgeführt. Die GÖRG ist unter anderem auf Vergaberecht spezialisiert und verfügt über umfassende Erfahrung in der Beratung öffentlicher Auftraggeber in vergaberechtlichen Fragestellungen. GÖRG kommt zu dem Ergebnis, dass auch bei Umsetzung der geplanten Organisationsstruktur das Kontrollkriterium als Voraussetzung für die Inhouse-Vergabefähigkeit erhalten bleibt. Das Gutachten liegt den zuständigen Dienststellen vor.
 
@@ -131,7 +132,7 @@ Warum wird die Geschäftsführungsebene aus zwei Geschäftsführern nicht parit�
 
 Sieht der Senat mit der Installation zweier, als nebenamtlich eingesetzter Geschäftsführer bei der IMPF eine paritätische Interessensvertretung beider Unternehmen wie sie nach allgemein rechtlicher Auffassung in einem Gleichordnungskonzern sein sollte? Wenn ja, worin begründet der Senat seine Auffassung?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Eine Bestellung als Geschäftsführer ist unabhängig von dem Vorliegen eines Anstellungsverhältnisses und entfaltet für die Geschäftsführungen beider Gesellschaften die entsprechenden Rechte und Pflichten.
 
@@ -143,7 +144,7 @@ Soll die Besetzung des Aufsichtsrates der IMPF zukünftig so gestaltet werden, d
 
 Die fachpolitische Aufsicht der in die Optimierung des Immobilienmanagements einbezogenen Unternehmen soll beim Beteiligungsmanagement der Finanzbehörde liegen. Die Kunden der IMPF sind in der Hauptsache innerhalb der Innenbehörde angesiedelt. Ist es gewollt und ratsam, die IMPF vor diesem Hintergrund beim Beteiligungsmanagement der Finanzbehörde anzusiedeln? Wenn ja, warum?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Das Mieter-Vermieter-Modell sieht eine Trennung zwischen der Mieter- und der Eigentümerfunktion städtischer Einrichtungen vor. Daneben ist über die jeweilige fachpolitische Zuständigkeit zu befinden. Im Übrigen siehe Drs. 20/14486.
 

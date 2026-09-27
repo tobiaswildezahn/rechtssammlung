@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8941"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65182"
@@ -93,7 +94,7 @@ In welchen der in Paragraf 3 genannten Gremien sind gegenwärtig Muslime vertret
 
 Hätte die Berufung eines oder mehrerer muslimischer Mitglieder eine Aufstockung der Mitgliedssitze zur Folge? Falls ja, gibt es dabei ein Limit?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die Religionszugehörigkeit ist kein Kriterium der Gremienmitgliedschaft. Die geltenden Staatsverträge stellen allein auf entsendungsberechtigte Institutionen beziehungsweise Bereiche ab.
 

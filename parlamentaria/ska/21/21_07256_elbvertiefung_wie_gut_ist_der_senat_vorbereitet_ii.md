@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 17
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6194", "21/7169"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55853"
@@ -57,7 +58,7 @@ Warum ist das sogenannte Präqualifikationsverfahren nicht bereits im Jahr 2015 
 
 Warum wird das sogenannte Präqualifikationsverfahren nur für die Maßnahme „Vorsetzen Köhlbrand“ und nicht auch für die anderen auf hamburgischem Staatsgebiet im Planfeststellungsbeschluss vom 23. April 2012 festgelegten und durchzuführenden baulichen Maßnahmen durchgeführt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für die Baumaßnahme „Vorsetze Köhlbrand“ wurde kein Präqualifizierungsverfahren, sondern das Vergabeverfahren „Verhandlungsverfahren mit Teilnahmewettbewerb“ gewählt, das jetzt gestartet wurde, weil die HPA sich auf die Aufhebung des Baustopps vorbereitet und nach Erlangung der Vergabereife (siehe Vorbemerkung) in die zweite Stufe des Vergabeverfahrens einsteigen wird.
 
@@ -73,17 +74,17 @@ Für welche auf hamburgischem Staatsgebiet gemäß Planfeststellungsbeschluss vo
 
 Für welche auf hamburgischem Staatsgebiet gemäß Planfeststellungsbeschluss vom 23. April 2012 durchzuführenden Maßnahmen hat die zuständige HPA jeweils die Vorplanungen und die Erarbeitung der erforderlichen Ausschreibungsunterlagen für eine notwendige EU-weite Ausschreibung nicht abgeschlossen? Aus welchem Grund sind diese Arbeiten bisher jeweils nicht abgeschlossen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Das Projekt Fahrrinnenanpassung von Unter- und Außenelbe auf der Hamburger Delegationsstrecke besteht aus vier Teilprojekten:
 
- Baggern und Verbringen von Baggergut,
+– Baggern und Verbringen von Baggergut,
 
- Köhlbrand Ost (Bau einer Vorsetze, Ertüchtigung einer Böschung),
+– Köhlbrand Ost (Bau einer Vorsetze, Ertüchtigung einer Böschung),
 
- Verlegung Düker Radarturm Neßsand und
+– Verlegung Düker Radarturm Neßsand und
 
- Anpassung der Richtfeuerlinie Wittenbergen (Neubau und Rückbau).
+– Anpassung der Richtfeuerlinie Wittenbergen (Neubau und Rückbau).
 
 Die Vorplanungen für alle Maßnahmen sind abgeschlossen. Die Baumaßnahmen unterliegen teilweise jahreszeitlichen Restriktionen oder gegenseitigen Abhängigkeiten und werden nicht alle gleichzeitig durchgeführt. Die Vergabeverfahren werden folglich nicht gleichzeitig gestartet. Die vorliegenden Ausschreibungsunterlagen werden nach Aufhebung des Baustopps final überprüft und anschließend veröffentlicht.
 
@@ -125,7 +126,7 @@ Hat nach Kenntnis des Senats, der zuständigen Behörde oder der HPA die zustän
 
 Führt die zuständige Wasser- und Schifffahrtsverwaltung nach Kenntnis des Senats, der zuständigen Behörde oder der HPA für alle oder einzelne geplante bauliche Maßnahmen ein sogenanntes Präqualifikationsverfahren gemäß EU-Vergaberecht durch? a. Wenn ja, für welche? b. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Der Bauablauf und die Schnittstellen werden intensiv abgestimmt und optimiert (siehe Antwort zu 7.).
 

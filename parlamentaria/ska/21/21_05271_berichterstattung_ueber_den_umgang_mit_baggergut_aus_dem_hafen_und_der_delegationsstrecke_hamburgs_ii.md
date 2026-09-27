@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 24
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3926", "21/4912", "16/3080"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53742"
@@ -55,19 +56,19 @@ zuletzt im Jahr 2008 untersucht und veröffentlicht worden. Hieraus sei keine be
 
 Andererseits werden diverse Verbindungen der Schadstoffgruppe PCDD/F auf EU-Ebene offiziell seit 2013 als „prioritär gefährliche Stoffe“ eingestuft. Auch ist das Gefahrenpotenzial von Dioxinen für die Umwelt und menschliche Gesundheit seit vielen Jahren gerade in Hamburg bekannt. Gleichzeitig liefern die vom Senat erwähnten Untersuchungen keine repräsentativen Daten. So stammen die „regelhaften Untersuchungen zur Landbehandlung“ nicht von Proben aus dem heterogenen Hafengebiet, sondern von vereinheitlichten und vorbehandelten
 
- „Dekadenmischproben“ aus der METHA oder
+– „Dekadenmischproben“ aus der METHA oder
 
- Proben „je Entwässerungsfeld“ (Drs. 21/3926:15.a.).
+– Proben „je Entwässerungsfeld“ (Drs. 21/3926:15.a.).
 
 Auch die Messwerte von 2008 aus der herangezogenen Längsprofil-Studie können nicht repräsentativ sein, denn sie stammen nur von
 
- fünf Orten auf Hamburger Gebiet,
+– fünf Orten auf Hamburger Gebiet,
 
- Orten entlang der Stromelbe, also spiegeln sie nicht die Belastung in den Hafenbecken wider,
+– Orten entlang der Stromelbe, also spiegeln sie nicht die Belastung in den Hafenbecken wider,
 
- Oberflächenproben, also von den oberen 12 cm im Sediment, die laut Teilberichten der HPA „für die Bewertung von Umlagerungsmaßnahmen ... nur begrenzt geeignet” sind,
+– Oberflächenproben, also von den oberen 12 cm im Sediment, die laut Teilberichten der HPA „für die Bewertung von Umlagerungsmaßnahmen ... nur begrenzt geeignet” sind,
 
- einem einzelnen Jahr (2008), wobei ein jährlicher Vergleich von PCDD/F- Werten bei Bunthaus, im Südosten Hamburgs, auf signifikante jährliche Schwankungen hinweist.
+– einem einzelnen Jahr (2008), wobei ein jährlicher Vergleich von PCDD/F- Werten bei Bunthaus, im Südosten Hamburgs, auf signifikante jährliche Schwankungen hinweist.
 
 Eine Studie von 2008, welche von der HPA selbst in Auftrag gegeben worden war, listet einen Wert von 5,5 pg/g (WHO-TEQ 2005) für Schwebstoffe unter „potentielle Gefährdung durch Speisefische bei Überschreitung“, und eine weitere Studie berichtet von einem Richtwert („safe sediment value“) für PCDD/F im Sediment von 20 pg/g Trockensubstanzmasse (WHO-TEQ 2005). Mehr als die Hälfte der Kernproben „des vor Neßsand umgelagerten Materials“ in 2011 – 2013 überschritt selbst den höheren „safe sediment value“ (siehe Anlage 4 der Teilberichte). Beunruhigend ist in diesem Zusammenhang außerdem, dass in den Teilberichten von 2012 und 2013 nur für ungefähr ein Zehntel der untersuchten Kernproben Messresultate für PCDD/F angegeben wurden und im Teilbericht für 2014 gibt es keine PCDD/F-Resultate. Im Einklang mit fehlenden Richtwerten für PCDD/F in der GÜBaK werden auch in den Freigabeberichten für Hamburger Umlagerung in die Nordsee keine Messresultate von PCDD/F angezeigt. Auf die Lücke in
 

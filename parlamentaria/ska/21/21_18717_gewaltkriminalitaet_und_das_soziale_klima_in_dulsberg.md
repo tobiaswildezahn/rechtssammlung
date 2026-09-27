@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 38
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18681", "21/18082"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68391"
@@ -133,7 +134,7 @@ In wie vielen Fällen sind in den Jahren 2017, 2018 und 2019 religiöse Prozessi
 
 In wie vielen Fällen ist eine Genehmigung nicht erteilt worden (bitte auch die jeweiligen Gründe angeben)?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Über ausgerichtete Veranstaltungen im Umfeld von Moscheen liegen dem zuständigen Bezirksamt keine Erkenntnisse vor. Im Übrigen siehe Drs. 21/18082.
 

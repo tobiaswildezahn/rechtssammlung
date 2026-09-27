@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8795"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59124"
@@ -43,7 +44,7 @@ Wie hat sich die Zahl von Diebstählen an motorisierten Zweirädern (PKS-Schlüs
 
 Wie hoch ist die entsprechende Aufklärungsquote jeweils gewesen beziehungsweise wie viele gestohlene Teile an Zweirädern beziehungsweise Kraftwagen sind wieder in den Besitz der Berechtigten übergegangen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Aussagekraft der Polizeiliche Kriminalstatistik (PKS) ist auf Jahresauswertungen ausgelegt. Innerhalb eines Berichtsjahres unterliegt der PKS-Datenbestand einer ständigen Pflege, zum Beispiel durch Hinzufügen von nachträglich ermittelten Tatverdächtigen oder der Herausnahme von Taten, die sich im Nachhinein nicht als Straftat erwiesen haben.
 
@@ -59,15 +60,15 @@ Darüber hinaus müssten zur Beantwortung der Fragestellungen zu den Daten nach 
 
 1. für die Ermittlung der Netto-Zahlen der Monate April bis August
 
- nach Bezirken 35 Tabellen (sieben Bezirke x fünf Monate) und
+– nach Bezirken 35 Tabellen (sieben Bezirke x fünf Monate) und
 
- nach Stadtteilen 520 Tabellen (104 Stadtteile x fünf Monate)
+– nach Stadtteilen 520 Tabellen (104 Stadtteile x fünf Monate)
 
 2. sowie für die Ermittlung der kumulierten Zahlen des Zeitraums April bis August
 
- nach Bezirken sieben Tabellen und
+– nach Bezirken sieben Tabellen und
 
- nach Stadtteilen 104 Tabellen
+– nach Stadtteilen 104 Tabellen
 
 umfassen. In der Summe müssten 666 Tabellen programmiert, erstellt, nach den erfragten Delikten ausgewertet und qualitätsgesichert werden. Dies ist in der zur Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

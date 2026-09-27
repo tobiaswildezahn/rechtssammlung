@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54586"
@@ -53,13 +54,13 @@ Der Zuschlag ging an den Bieter, der im Vergleich mit anderen Bewerbern durch ei
 
 Kriterien für die Vergabeentscheidung waren:
 
- Ausführungen zum beabsichtigten Vorgehen
+– Ausführungen zum beabsichtigten Vorgehen
 
- Qualifikation und Erfahrungen der eingesetzten Beraterinnen und Berater
+– Qualifikation und Erfahrungen der eingesetzten Beraterinnen und Berater
 
- Kosten (Gesamtpreis, Kostensätze der Berater)
+– Kosten (Gesamtpreis, Kostensätze der Berater)
 
- Qualität der Referenzen
+– Qualität der Referenzen
 
 ### Frage 2
 

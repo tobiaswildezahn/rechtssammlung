@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58243"
@@ -43,7 +44,7 @@ Auf welcher rechtlichen Grundlage ist die AHOI Events GmbH Ausrichter des Winter
 
 Welche Befugnisse hat die AHOI Events GmbH konkret in Bezug auf das Stadtfest und in welcher Weise sind diese geregelt? Welche Auflagen hat die AHOI Events GmbH zu beachten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die rechtliche Grundlage für die Ausrichtung des Winterhuder Stadtfestes wäre eine Sondernutzungserlaubnis nach § 19 des Hamburgischen Wegegesetzes (HWG). Die AHOI Events GmbH hat eine solche am 14. Juni 2017 beantragt. Der Antrag wird noch geprüft. Die mit der Erlaubnis gegebenenfalls verbundenen Rechte und Auflagen sind daher noch nicht abschließend definiert.
 

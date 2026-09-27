@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8661", "21/5231", "21/8872", "21/6666", "21/8133", "21/7486"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57639"
@@ -47,7 +48,7 @@ Warum erwähnt der Senat in Drs. 21/8661 unter Frage 1. nicht den Standort Hörg
 
 Werden auch Zuschüsse für den Standort Mittlerer Landweg gezahlt? Wenn ja, warum fanden auch diese nicht Eingang in die Antwort der Drs. 21/8661?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/8872.
 
@@ -59,7 +60,7 @@ Wann wurden die Verträge für die Standorte Hörgensweg, Mittlerer Landweg, Elf
 
 Wurden für weitere Standorte Zuschüsse vereinbart? Wenn ja, wann jeweils für welche Standorte? Bitte mit Angabe des konkreten Datums.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/6666.
 

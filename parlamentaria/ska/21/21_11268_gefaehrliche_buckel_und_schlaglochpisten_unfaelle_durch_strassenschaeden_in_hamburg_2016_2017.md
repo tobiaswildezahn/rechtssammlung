@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10019", "21/10316", "21/9490"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60256"
@@ -131,7 +132,7 @@ Wie viele Tempo-30-Schilder mussten
 a) bisher im Jahr 2017,
 b) im Gesamtjahr 2016 in welchen Straßen in Hamburg aufgrund von Straßenschäden über welchen Zeitraum aufgestellt werden? Bitte nach Bezirken aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage.
 

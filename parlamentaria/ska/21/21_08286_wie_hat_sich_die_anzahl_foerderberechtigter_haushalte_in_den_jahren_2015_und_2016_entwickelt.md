@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2335"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56983"
@@ -37,13 +38,13 @@ Vor diesem Hintergrund fragen wir den Senat:
 
 In Hamburg gibt es verschiedene Wohnberechtigungsscheine:
 
- Wohnberechtigungsscheine nach § 16 Hamburgisches Wohnraumförderungsge-
+– Wohnberechtigungsscheine nach § 16 Hamburgisches Wohnraumförderungsge-
 
 setz (HmbWoFG)/§ 5 Hamburgisches Wohnungsbindungsgesetz, sogenannte §-5- Scheine,
 
- Dringlichkeitsscheine und
+– Dringlichkeitsscheine und
 
- Dringlichkeitsbestätigungen.
+– Dringlichkeitsbestätigungen.
 
 Ein sogenannter §-5-Schein berechtigt zum Bezug einer Wohnung mit einem allgemeinen Belegungsrecht (WS-Bindung). Dringlichkeitsscheine und Dringlichkeitsbestätigungen berechtigen zum Bezug einer Wohnung mit Benennungsrecht der Bezirksämter (WA-Bindung für vordringlich Wohnungsuchende).
 
@@ -75,7 +76,7 @@ Für wie viele Haushalte wurden in den Jahren 2015 und 2016 Wohnberechtigungssch
 
 Wie viele Haushalte wurden in den Jahren 2015 und 2016 aufgrund eines Wohnberechtigungsscheins mit Wohnraum versorgt? (Bitte sowohl die gesamte als auch die prozentuale Versorgungsquote ausweisen.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 2015
 
@@ -157,7 +158,7 @@ Für wie viele Haushalte wurden in den Jahren 2015 und 2016 Dringlichkeitsschein
 
 Wie viele Haushalte wurden in den Jahren 2015 und 2016 aufgrund eines Dringlichkeitsscheins mit Wohnraum versorgt? (Bitte sowohl die gesamte als auch die prozentuale Versorgungsquote ausweisen.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 2015
 
@@ -231,7 +232,7 @@ Für wie viele Haushalte wurden in den Jahren 2015 und 2016 Dringlichkeitsbestä
 
 Wie viele Haushalte wurden in den Jahren 2015 und 2016 aufgrund einer Dringlichkeitsbestätigung mit Wohnraum versorgt? (Bitte sowohl die gesamte als auch die prozentuale Versorgungsquote ausweisen.)
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 2015
 

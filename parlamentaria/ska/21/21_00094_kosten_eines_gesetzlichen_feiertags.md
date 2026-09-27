@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48225"
@@ -43,6 +44,6 @@ Wie hoch werden die durchschnittlichen Kosten eines Feiertags in Hamburg angeset
 
 Welche Faktoren fließen in die Berechnung ein vor dem Hintergrund, dass ein Feiertag Untersuchungen zufolge kaum Auswirkungen auf die Produktivität hat?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Dem Senat liegen hierzu keine Erkenntnisse und Berechnungen vor.

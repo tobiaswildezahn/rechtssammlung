@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13921"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66524"
@@ -119,7 +120,7 @@ Gibt es Konsequenzen oder Auswirkungen auf Schulschwimmangebote? Wenn ja, welche
 
 Gibt es Konsequenzen für die Schwimmvereine? Wenn ja, welche Vereine sind davon betroffen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nein.
 
@@ -186,6 +187,6 @@ Wie lange werden die Umbaumaßnahmen des Freibades in Rahlstedt dauern?
 
 Ist der Betrieb des Freibades Rahlstedt eingeschränkt? Wenn ja, im welchen Umfang?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Am Freibad Rahlstedt gibt es keine Umbauarbeiten. Der Standort wurde im Februar 2019 durch einen Brand geschädigt. Die Wiederaufbaumaßnahmen stehen kurz vor dem Abschluss und haben keine Auswirkungen auf den Freibadbetrieb.

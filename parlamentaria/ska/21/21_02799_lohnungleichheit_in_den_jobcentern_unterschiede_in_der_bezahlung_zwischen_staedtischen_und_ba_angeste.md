@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1996", "21/623"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51106"
@@ -60,6 +61,6 @@ Nach III. Punkt 2. des Petitums wurde der Senat ersucht den Bericht bis Ende des
 
 Aus welchen Gründen liegt der Bericht noch nicht vor?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.

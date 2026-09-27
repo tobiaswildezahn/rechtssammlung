@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1447", "21/996"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50379"
@@ -47,7 +48,7 @@ Sind die Informationen aus den Printmedien korrekt, dass im Bereich der Holstein
 
 Gab es entsprechende Überlegungen in oder Vorschläge aus einzelnen Behörden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ja. Die Radwegebenutzungspflicht in der Holsteiner Chaussee zwischen den Straßen Rungwisch und Wiebischenkamp ist nach den Vorgaben der Straßenverkehrs- Ordnung (StVO) und der Allgemeinen Verwaltungsvorschrift zur Straßenverkehrs- Ordnung (VwV-StVO) durch die zuständige Straßenverkehrsbehörde aufzuheben.
 
@@ -73,7 +74,7 @@ Sollen die bestehenden Fahrradwege dann wegfallen oder bestehen bleiben?
 
 Was sind die Gründe für die Planungen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 In der Holsteiner Chaussee gibt es seitens der zuständigen Behörde derzeit keinen Anlass für bauliche Veränderungen der bestehenden Radverkehrsanlagen. Im Übrigen siehe Drs. 21/1447.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65489"
@@ -41,9 +42,9 @@ Die berufliche Weiterbildung hat für den Hamburger Senat einen hohen Stellenwer
 
 Darüber hinaus greift der Senat für die Förderung der beruflichen Weiterbildung auch auf Mittel des Europäischen Sozialfonds (ESF) sowie auf das Förderprogramm „Integration durch Qualifizierung“ (IQ) zurück. Schließlich hat der Gesetzgeber in den letzten Jahren die Rahmenbedingungen zur Förderung der beruflichen Weiterbildung im Rechtskreis des SGB II und SGB III weiter verbessert. Besonders relevant sind das Gesetz zur Stärkung der beruflichen Weiterbildung und des Versicherungsschutzes in der Arbeitslosenversicherung (AWStG), in Kraft seit 1. August 2016, sowie das Gesetz zur Stärkung der Chancen für Qualifizierung und für mehr Schutz in der Arbeitslosenversicherung (Qualifizierungschancengesetz), in Kraft seit 1. Januar 2019:
 
-• https://www.bmas.de/DE/Service/Gesetze/arbeitslosenversicherungsschutzweiterbildungsstaerkungsgesetz.html.
+– https://www.bmas.de/DE/Service/Gesetze/arbeitslosenversicherungsschutzweiterbildungsstaerkungsgesetz.html.
 
-• https://www.bmas.de/DE/Service/Gesetze/qualifizierungschancengesetz.html.
+– https://www.bmas.de/DE/Service/Gesetze/qualifizierungschancengesetz.html.
 
 Für Maßnahmen, die die betriebliche berufliche Weiterbildung betreffen – und dies ist mit Abstand der größte Teil –, sind Unternehmen und Beschäftigte vorrangig selbst verantwortlich.
 
@@ -73,11 +74,11 @@ Hat der Senat Kenntnis darüber, wie viele Bürger der Freien und Hansestadt Ham
 
 Der Statistikservice der Bundesagentur für Arbeit bietet öffentlich zugängliche Auswertungen zu Teilnehmenden in ausgewählten Maßnahmen der Arbeitsmarktpolitik (SGB II, SGB III), siehe folgende Links:
 
- https://statistik.arbeitsagentur.de/Statistikdaten/Detail/Aktuell/iiia5/amp-amp/amp-
+– https://statistik.arbeitsagentur.de/Statistikdaten/Detail/Aktuell/iiia5/amp-amp/amp-
 
 02000-0-xlsx.xlsx.
 
- https://statistik.arbeitsagentur.de/nn_31934/SiteGlobals/Forms/Rubrikensuche/Rub
+– https://statistik.arbeitsagentur.de/nn_31934/SiteGlobals/Forms/Rubrikensuche/Rub
 
 rikensuche_Form.html?view=processForm&resourceId=210368&input_=& pageLocale=de&topicId=1330130&year_month=aktuell&year_month.GROUP=1& search=Suchen.
 
@@ -157,7 +158,7 @@ In welcher Weise unterstützt der Senat Hamburger Unternehmen dabei, Weiterbildu
 
 In welcher Weise unterstützt der Senat Hamburger Unternehmen dabei, Mitarbeiter für Weiterbildungsmaßnahmen zu motivieren?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 In der Vergangenheit hat die Agentur insbesondere mit dem Instrument „Weiterbildung Geringqualifizierter und beschäftigter älterer Arbeitnehmer in Unternehmen“ (WeGebAU) ältere und gering qualifizierte Beschäftigte in kleinen und mittleren Unternehmen (KMU) gefördert. Zukünftig wird die Bedeutung der Weiterbildung weiter gestärkt. Mit dem neuen Qualifizierungschancengesetz werden die Möglichkeiten der Weiterbildungsförderung für beschäftigte Arbeitnehmerinnen und Arbeitnehmer erweitert. Künftig sollen alle Arbeitnehmerinnen und Arbeitnehmer unabhängig von Qualifikation, Lebensalter und Betriebsgröße Zugang zur Weiterbildungsförderung erhalten, auch Beschäftigte im (aufstockenden) Leistungsbezug nach dem SGB II.
 
@@ -172,13 +173,13 @@ Im Rahmen des Eingliederungsprozesses werden sowohl Kundinnen und Kunden als auc
 
 Weitere Maßnahmen sind:
 
-• Hamburger Modell zur Beschäftigungsförderung im Rahmen der Freien Förderung, bei dem die Arbeitgeber einen Qualifizierungszuschuss für erforderliche Weiterbildungen und Qualifizierungen bis maximal 2 000 Euro beantragen können.
+– Hamburger Modell zur Beschäftigungsförderung im Rahmen der Freien Förderung, bei dem die Arbeitgeber einen Qualifizierungszuschuss für erforderliche Weiterbildungen und Qualifizierungen bis maximal 2 000 Euro beantragen können.
 
-• Teilhabe am Arbeitsmarkt:
+– Teilhabe am Arbeitsmarkt:
 
 Gemäß § 16i Absatz 5 SGB II können Arbeitgeber seit dem 1. Januar 2019 einen Antrag auf Übernahme von erforderlichen Weiterbildungskosten stellen, wenn sie mit einer erwerbsfähigen leistungsberechtigen Person ein sozialversicherungspflichtiges Arbeitsverhältnis begründet haben und Zuschüsse zum Arbeitsentgelt gemäß § 16 i SGB II erhalten. Die Weiterbildungskosten können je gefördertem Arbeitsverhältnis in Höhe von insgesamt bis zu 3 000 Euro übernommen werden. Es werden alle Arten von Qualifizierung (auch in Teilzeit) gefördert.
 
-• ESF-Programm:
+– ESF-Programm:
 
 Das Hamburger ESF-Programm richtet sich an Personen, nicht Unternehmen. Jedoch profitieren auch Unternehmen mittelbar davon, wenn die Qualifizierung ihrer Beschäftigten finanziell unterstützt wird. Verschiedene Hamburger ESF-Projekte unterstützen Betriebsinhaber und Personalverantwortliche bei der Auswahl passender Qualifizierungsmaßnahmen.
 

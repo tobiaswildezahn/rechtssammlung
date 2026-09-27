@@ -11,9 +11,10 @@ fraktionen: ["FDP"]
 vorgang: 57722
 seiten: 21
 fragen: 11
-einzelfragen: 22
-antwortbloecke: 11
+einzelfragen: 30
+antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3823", "21/13384", "20/10313", "20/10411", "21/5402", "21/13174"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63332"
@@ -67,86 +68,136 @@ Im Übrigen, siehe Drs. 21/3823 und Anlage 1.
 ### Frage 2
 
 Wie viele Gesetze sind seit dem 30.03.2016 neu in Kraft getreten?
-2.1. Um welche Gesetze handelt es sich im Einzelnen?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Um welche Gesetze handelt es sich im Einzelnen?
+
+#### Antwort zu Fragen 2 und 2.1
 
 Siehe Anlage 2.
 
-2.2. In wie vielen Fällen handelte es sich um Umsetzungsrechtsakte von EU-Vorgaben beziehungsweise von bundesgesetzlichen Vorgaben?
+### Frage 2.2
+
+In wie vielen Fällen handelte es sich um Umsetzungsrechtsakte von EU-Vorgaben beziehungsweise von bundesgesetzlichen Vorgaben?
+
+#### Antwort zu Frage 2.2
 
 Fünf Umsetzungsrechtsakte von EU-Vorgaben, drei Umsetzungsrechtsakte von bundesgesetzlichen Vorgaben.
 
-2.3. Was ist der jeweilige Regelungsinhalt? (Kurzbeschreibung genügt.)
+### Frage 2.3
+
+Was ist der jeweilige Regelungsinhalt? (Kurzbeschreibung genügt.)
+
+#### Antwort zu Frage 2.3
 
 Im Rahmen der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit ist es nicht möglich, Angaben zum jeweiligen Regelungsgehalt aufzunehmen. Der maßgebliche Regelungsinhalt ergibt sich in nahezu allen Fällen aus dem Titel der Rechtsvorschrift. Zu den jeweiligen Fundstellen im Hamburgischen Gesetz- und Verordnungsblatt siehe Anlage 2.
 
 ### Frage 3
 
 Wie viele Gesetze sind seit dem 30.03.2016 außer Kraft getreten?
-3.1. Um welche Gesetze handelt es sich im Einzelnen?
-3.2. Warum sind die Gesetze außer Kraft getreten beziehungsweise abgeschafft worden?
-3.3. Was war der jeweilige Regelungsinhalt? (Kurzbeschreibung genügt.)
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+Um welche Gesetze handelt es sich im Einzelnen?
+
+### Frage 3.2
+
+Warum sind die Gesetze außer Kraft getreten beziehungsweise abgeschafft worden?
+
+### Frage 3.3
+
+Was war der jeweilige Regelungsinhalt? (Kurzbeschreibung genügt.)
+
+#### Antwort zu Fragen 3, 3.1, 3.2 und 3.3
 
 Siehe Anlage 3 sowie Antwort zu 2.3.
 
 ### Frage 4
 
 Wie viele Verordnungen sind seit dem 30.03.2016 neu in Kraft getreten?
-4.1. Um welche Verordnungen handelt es sich im Einzelnen?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+Um welche Verordnungen handelt es sich im Einzelnen?
+
+#### Antwort zu Fragen 4 und 4.1
 
 Siehe Anlage 4.
 
-4.2. In wie vielen Fällen handelt es sich um Umsetzungsrechtsakte von EU-Rechtsakten beziehungsweise von bundesgesetzlichen Vorgaben?
+### Frage 4.2
+
+In wie vielen Fällen handelt es sich um Umsetzungsrechtsakte von EU-Rechtsakten beziehungsweise von bundesgesetzlichen Vorgaben?
+
+#### Antwort zu Frage 4.2
 
 Drei Umsetzungsrechtsakte von EU-Vorgaben, 24 Umsetzungsrechtsakte von bundesgesetzlichen Vorgaben.
 
-4.3. Was ist der jeweilige Regelungsinhalt? (Kurzbeschreibung genügt.)
+### Frage 4.3
+
+Was ist der jeweilige Regelungsinhalt? (Kurzbeschreibung genügt.)
+
+#### Antwort zu Frage 4.3
 
 Siehe Anlage 4 sowie Antwort zu 2.3.
 
 ### Frage 5
 
 Wie viele Verordnungen sind seit dem 30.03.2016 außer Kraft getreten?
-5.1. Um welche Verordnungen handelte es sich im Einzelnen?
-5.2. Warum sind die Verordnungen außer Kraft getreten beziehungsweise abgeschafft worden?
-5.3. Was war der jeweilige Regelungsinhalt? (Kurzbeschreibung genügt.)
 
-#### Antwort zu Frage 5
+### Frage 5.1
+
+Um welche Verordnungen handelte es sich im Einzelnen?
+
+### Frage 5.2
+
+Warum sind die Verordnungen außer Kraft getreten beziehungsweise abgeschafft worden?
+
+### Frage 5.3
+
+Was war der jeweilige Regelungsinhalt? (Kurzbeschreibung genügt.)
+
+#### Antwort zu Fragen 5, 5.1, 5.2 und 5.3
 
 Siehe Anlage 5. sowie Antwort zu 2.3.
 
 ### Frage 6
 
 Wie viele Verwaltungsvorschriften sind seit dem 30.03.2016
-6.1. neu in Kraft getreten sowie
 
-#### Antwort zu Frage 6
+### Frage 6.1
+
+neu in Kraft getreten sowie
+
+#### Antwort zu Fragen 6 und 6.1
 
 37, davon vier befristet.
 
-6.2. außer Kraft getreten?
+### Frage 6.2
 
-Jeweils wie viele davon waren beziehungsweise sind befristet?
+außer Kraft getreten? Jeweils wie viele davon waren beziehungsweise sind befristet?
+
+#### Antwort zu Frage 6.2
 
 Zwölf, davon war eine befristet.
 
 ### Frage 7
 
 Wie viele Globalrichtlinien sind seit dem 30.03.2016
-7.1. neu in Kraft getreten sowie
 
-#### Antwort zu Frage 7
+### Frage 7.1
+
+neu in Kraft getreten sowie
+
+#### Antwort zu Fragen 7 und 7.1
 
 Drei, die alle befristet sind.
 
-7.2. außer Kraft getreten?
+### Frage 7.2
 
-Jeweils wie viele davon waren beziehungsweise sind befristet?
+außer Kraft getreten? Jeweils wie viele davon waren beziehungsweise sind befristet?
+
+#### Antwort zu Frage 7.2
 
 Drei, die alle befristet waren.
 

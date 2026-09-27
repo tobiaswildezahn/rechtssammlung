@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 19
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56547"
@@ -104,7 +105,7 @@ Wie viele Leistungsberechtigte nach dem SGB II ab 63 Jahren sind jeweils in den 
 
 Wie viele sind davon nach Frage 9. in eine sozialversicherungspflichtige Tätigkeit gewechselt? Bitte entsprechend nach Frage 9. auflisten.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Anlagen 3 und 4. Im Übrigen erfasst die Statistik der Grundsicherung für Arbeitsuchende keine Beendigungsgründe der Arbeitsmarktstatistik wie zum Beispiel Arbeitsaufnahmen.
 

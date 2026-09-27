@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 19
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15856"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66061"
@@ -57,7 +58,7 @@ Welche konkreten Unterlagen wurden für die vorläufige Prüfung an die EU KOM �
 
 Wurden weitere Auskunftsersuchen seitens der EU KOM im Rahmen des vorläufigen Prüfverfahrens gestellt? a. Wenn ja, welche und welche konkreten Informationen mussten nachgeliefert werden? b. Inwiefern ist es hierdurch zu einer Verschiebung des Endes der Vorprüfungsfrist gekommen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung. Nach Artikel 4 Absatz 5 S. 1 der Verfahrensordnung in Beihilfesachen (Verordnung (EU) 2015/1589 des Rates vom 13. Juli 2015 über besondere Vorschriften für die Anwendung von Artikel 108 des AEUV) erlässt die Kommission im Rahmen der vorläufigen Prüfung einen Beschluss innerhalb von zwei Monaten. Die Frist beginnt am Tag nach Eingang der vollständigen Anmeldung zu laufen. Dabei gilt eine Anmeldung als vollständig, wenn die Kommission innerhalb von zwei Monaten nach Eingang der Anmeldung oder nach Eingang der von ihr angeforderten zusätzlichen Informationen keine weiteren (für eine erste Meinungsbildung erforderlichen) Informationen verlangt.
 

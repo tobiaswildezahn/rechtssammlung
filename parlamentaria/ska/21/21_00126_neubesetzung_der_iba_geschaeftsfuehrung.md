@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 20
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14341", "18/3023"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48256"
@@ -68,7 +69,7 @@ Wie viele interne und externe Bewerberinnen und Bewerber gab es jeweils auf die 
 
 Wann hat der IBA-Aufsichtsrat die Personalentscheidung getroffen? Wurde dies im Rahmen einer Sitzung oder im Umlaufverfahren durchgeführt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der Aufsichtsrat der IBA hat am 4. Dezember 2014 die Aufsichtsratsvorsitzende ermächtigt, einen Personalberater mit der Suche geeigneter Bewerber und Bewerberinnen zu beauftragen. Nach Einholung von drei Angeboten wurde ein Personalberater beauftragt. Insgesamt 76 Personen haben sich beworben oder wurden von dem beauftragten Personalberater angesprochen, darunter war eine interne Bewerbung. Für eine Vorauswahl wurden der BSU die Profile von sieben Bewerbungen vorgelegt, aus denen zwei Personen für eine Vorstellung im Aufsichtsrat eingeladen wurden. Der Aufsichtsrat hat in seiner Sitzung am 18. März 2015, vorbehaltlich der Zustimmung durch die Senatskommission für öffentliche Unternehmen, über die Besetzung der Geschäftsführung entschieden.
 
@@ -115,7 +116,7 @@ Was ist aktuell die Aufgabe der IBA Hamburg GmbH? Soll es Änderungen an der Auf
 
 Wann wurde das Zielbild des Unternehmens zuletzt geändert? Ist beabsichtigt, das Zielbild in naher Zukunft zu ändern? Wenn ja, inwiefern? Bitte das aktuelle Zielbild beifügen.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Ziele der IBA sind in der Drs. 18/3023 vom 18. Oktober 2005 festgelegt. Neben der Vorbereitung, Durchführung und Abwicklung der Internationalen Bauausstellung 2013 in Hamburg ist seit dem 27. November 2013 ferner die Übernahme von Funktionen und Leistungen eines Projektentwicklers zur Vorbereitung, Planung und Durchführung aller Arten von Aufgaben der Stadtentwicklung im Bereich der Freien und Hansestadt Hamburg Gegenstand des Unternehmens. Weitere Änderungen des Unternehmensgegenstandes sind derzeit nicht geplant.
 

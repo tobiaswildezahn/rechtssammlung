@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65022"
@@ -43,7 +44,7 @@ Wie viele Schwerbehindertenausweise wurden seit Mai 2018 online beantragt?
 
 Wie viel Prozent aller Antragsteller nutzen in diesem Zeitraum somit das digitale Angebot?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Seit Mai 2018 wurden 1 241 Anträge online gestellt (Stand 13.12.2018). 7,01 Prozent aller Anträge gingen im Zeitraum 01.05.2018 bis 30.11.2018 online ein.
 
@@ -55,15 +56,15 @@ Welche Maßnahmen hat der Senat wann ergriffen, um über das digitale Angebot zu
 
 Folgende Maßnahmen wurden zwischen April und Juni 2018 gestartet:
 
- Eine Pressemitteilung zum Online-Antrag wurde von der Pressestelle herausgege-
+– Eine Pressemitteilung zum Online-Antrag wurde von der Pressestelle herausgege-
 
 ben (vergleiche https://www.hamburg.de/pressearchiv-fhh/11074066/2018-05-24- basfi-schwerbehindertenantrag-online).
 
- Ein Video zum Online-Antrag wurde in den sozialen Netzwerken veröffentlicht
+– Ein Video zum Online-Antrag wurde in den sozialen Netzwerken veröffentlicht
 
 (vergleiche https://www.hamburg.de/schwerbehindertenausweis/11067150/onlineantrag).
 
- Es  
+– Es  
 gibt  
 einen  
 Flyer  

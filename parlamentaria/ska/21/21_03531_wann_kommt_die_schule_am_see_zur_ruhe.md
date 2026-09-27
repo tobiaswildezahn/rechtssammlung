@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51888"
@@ -45,7 +46,7 @@ Trifft es zu, dass der Schulleiter der Schule am See in die BSB versetzt wurde? 
 
 Ist es richtig, dass auch das gesamte Leitungsteam der Schule ausgetauscht werden soll? Wenn ja, aus welchen Gründen und zu welchem Zeitpunkt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zu Personalangelegenheiten äußert sich der Senat in ständiger Praxis nicht.
 

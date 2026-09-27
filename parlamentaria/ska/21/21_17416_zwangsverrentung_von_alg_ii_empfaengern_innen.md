@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 20
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7910"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67001"
@@ -88,7 +89,7 @@ Wie viel Geld wurde in den Jahren 2015, 2016, 2017, 2018 und 2019 (Stand 31.05.2
 
 Wie oft wurde jeweils in den Jahren 2015, 2016, 2017, 2018 und 2019 (Stand 31.05.2019) gegen die Aufforderung, einen Rentenantrag zu stellen beziehungsweise die Aussteuerung aus dem ALG-II-Bezug Widerspruch eingelegt? Wie oft davon erfolgreich?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die zur Beantwortung benötigten Daten werden statistisch nicht erfasst. Für eine nachträgliche Erhebung müssten rund 200 000 Einzelfälle ausgewertet werden. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

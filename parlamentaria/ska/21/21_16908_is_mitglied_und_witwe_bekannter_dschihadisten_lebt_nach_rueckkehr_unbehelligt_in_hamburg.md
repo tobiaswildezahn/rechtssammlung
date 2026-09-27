@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 23
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66453"
@@ -152,6 +153,6 @@ Warum wurde Omaima A. nach ihrer Rückkehr nicht strafrechtlich belangt?
 
 Läuft gegenwärtig ein Ermittlungsverfahren gegen Omaima A.? Falls ja, seit wann und wie lautet der zugrunde liegende Straftatbestand?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Siehe Vorbemerkung.

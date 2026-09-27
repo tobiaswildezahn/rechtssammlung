@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16032", "21/17016", "21/2852"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68060"
@@ -43,7 +44,7 @@ Wie hat sich die Überstundensituation bei der Hamburger Polizei inzwischen im 2
 
 Wie viele Überstunden haben die Bediensteten der Polizei nunmehr durchschnittlich (Stand 30.06.2019)? Bitte insgesamt und nach Bereichen aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Entwicklung der Zahl der Mehrarbeitsstunden im 2. Quartal 2019 sowie der durchschnittlichen Zahl der Mehrarbeitsstunden pro Bediensteten zum Stichtag 30. Juni 2019 sind der nachfolgenden Tabelle zu entnehmen:
 

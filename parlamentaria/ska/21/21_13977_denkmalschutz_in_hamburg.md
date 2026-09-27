@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/4555", "20/3706", "21/13979"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63364"
@@ -74,27 +75,27 @@ Nachhaltig wirken auch die in den Bürgersteig eingelassenen sogenannten Stolper
 
 Zu den in den Hamburger Bezirken gelegenen Denk- und Mahnmalen siehe Drs. 20/3706, eine Aktualisierung ist seitdem nicht erfolgt, eine nachträgliche Erfassung von Veränderungen ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. In der Übersicht sind allerdings nur Stätten und Objekte in der bezirklichen Zuständigkeit auf öffentlichem Grund erfasst, nicht jedoch solche, die sich im Zuständigkeitsbereich anderer Behörden oder in privatem Eigentum oder auf privatem Grund befinden. Ergänzend sei deshalb hingewiesen auf
 
- über 30 sogenannte Schwarze Tafeln, die in Hamburg Stätten der Verfolgung und
+– über 30 sogenannte Schwarze Tafeln, die in Hamburg Stätten der Verfolgung und
 
 des Widerstandes in den Jahren 1933 bis 1945 kennzeichnen, zum Beispiel das ehemalige KZ-Außenlager Deutsche Werft,
 
- eine Gedenktafel an den St. Pauli Landungsbrücken, im Brückendurchgang 3, mit
+– eine Gedenktafel an den St. Pauli Landungsbrücken, im Brückendurchgang 3, mit
 
 der Aufschrift „Exodus 1947“,
 
- das Mahnmal „Hier und jetzt“ auf der Grünanlage vor dem Hanseatischen Ober-
+– das Mahnmal „Hier und jetzt“ auf der Grünanlage vor dem Hanseatischen Ober-
 
 landesgericht", das den Opfern nationalsozialistischer Justiz in Hamburg gilt,
 
- Straßenbenennungen, zum Beispiel nach Süleyman Taşköprü, einem Opfer des
+– Straßenbenennungen, zum Beispiel nach Süleyman Taşköprü, einem Opfer des
 
 rechtsradikalen Netzwerks „Nationalsozialistischer Untergrund“, die dazu beitragen, die Erinnerung an Lebenswege und Schicksale von Hamburger Bürgerinnen und Bürgern, die aus politisch motivierten Gründen ermordet wurden, lebendig zu halten,
 
- eine Gedenkplakette an der Fassade des Gebäudes 1/2 (ehemaliges Kinderkran-
+– eine Gedenkplakette an der Fassade des Gebäudes 1/2 (ehemaliges Kinderkran-
 
 kenhaus) in der Marckmannstraße 129a,
 
- im Gebäude Karolinenstraße 35 befindet sich im zweiten Obergeschoss eine von
+– im Gebäude Karolinenstraße 35 befindet sich im zweiten Obergeschoss eine von
 
 der  
 Volkshochschule  
@@ -105,11 +106,11 @@ siehe
 dazu  
 https://www.vhs-hamburg.de/vhs-standorte/gedenkstaette-israelitischetoechterschule-608,
 
- Zeugnisse der Hamburger Geschichte zu Krieg und Verfolgung die sich auf Ham-
+– Zeugnisse der Hamburger Geschichte zu Krieg und Verfolgung die sich auf Ham-
 
 burger Friedhöfen befinden, siehe dazu auch Drs. 21/13979,
 
- das Gegendenkmal „Hamburger Feuersturm“ und die „Fluchtgruppe Cap Arcona“
+– das Gegendenkmal „Hamburger Feuersturm“ und die „Fluchtgruppe Cap Arcona“
 
 am Bahnhof Dammtor sowie – zwischen Krieger- und Gegendenkmal gelegen – den Gedenkort für Deserteure und andere Opfer der NS-Militärjustiz. Mit diesem Gedenkort für Deserteure und andere Opfer der NS-Militärjustiz soll auch diese Gruppe der Opfer des Nationalsozialismus und ihr Mut, sich dem menschenfeindlichen System entgegenzustellen, angemessen gewürdigt werden.
 
@@ -141,7 +142,7 @@ Die Fachämter der Bezirksämter „Management des öffentlichen Raums“ sind z
 
 Für die Pflege der Denk- und Mahnmale zum Gedenken an Opfer des Nationalsozialismus sind ebenfalls die Bezirksämter zuständig. Wie viele der seitens der Stadt Hamburg bewilligten finanziellen Mittel wurden explizit für die Denk- und Mahnmalpflege zum Gedenken an Opfer des Nationalsozialismus eingesetzt? Bitte wie in Frage 1. aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Pflege dieser Denk- und Mahnmale wird aus der Rahmenzuweisung Grün finanziert, die Ansätze betrugen 20.973.000 Euro im Jahr 2017 und 21.154.000 Euro im Jahr 2018. Die Bezirksämter führen weder eine Statistik über die auf die verschiedenen Zwecke entfallenden Anteile noch über Ausgaben für einzelne Denk- und Mahnmale. Im Übrigen siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 43
 einzelfragen: 50
 antwortbloecke: 36
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11162", "21/8356", "21/3358"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61549"
@@ -203,7 +204,7 @@ Wie haben sich die Gesamteinnahmen, die durch stationäre GÜA erzielt wurden, v
 
 Wie hat sich die Zahl der stationären GÜA in Hamburg seit 2011 entwickelt? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/8356.
 
@@ -273,7 +274,7 @@ Wie viele stationäre RÜA gibt es zurzeit wo genau in Hamburg und um welchen Ge
 
 Wie haben sich die Fallzahlen der mittels der stationären RÜA gemessenen Rotlichtverstöße im Jahr 2017 entwickelt?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Standort  
 Anzeigen 2017  
@@ -398,7 +399,7 @@ In welcher Höhe standen 2017 Haushaltsmittel für die Neuaufstellung stationär
 
 In welcher Höhe stehen 2017 Haushaltsmittel für die Neuaufstellung stationärer RÜA in Hamburg zur Verfügung?
 
-#### Antwort zu Fragen 24 bis 25
+#### Antwort zu Fragen 24 und 25
 
 Siehe Antworten zu 11. bis 13.
 
@@ -436,7 +437,7 @@ Wie hoch waren seit 2011 die Fallzahlen der mittels der mobilen Geschwindigkeits
 
 Welche Planzahl an mobilen Geschwindigkeitsmessungen in Hamburg liegt für 2018 vor?
 
-#### Antwort zu Fragen 29 bis 30
+#### Antwort zu Fragen 29 und 30
 
 Siehe Drs. 21/8356.
 
@@ -456,7 +457,7 @@ Wie hat sich die Zahl der von der Polizei Hamburg durchgeführten Rotlichtkontro
 
 Welche Planzahl an Rotlichtkontrollen in Hamburg liegt für 2018 vor?
 
-#### Antwort zu Fragen 32 bis 33
+#### Antwort zu Fragen 32 und 33
 
 Siehe Drs. 21/8356.
 
@@ -515,7 +516,7 @@ Wie hoch waren von 2011 bis einschließlich 2016 die Fallzahlen der mittels der 
 
 Welche Planzahl an Einsätzen mit den Videonachfahrsystemen (ProVi- Da) zur Vermeidung von Aggressions- und Geschwindigkeitsdelikten in Hamburg liegt für 2018 vor?
 
-#### Antwort zu Fragen 39 bis 40
+#### Antwort zu Fragen 39 und 40
 
 Siehe Drs. 21/8356.
 
@@ -527,7 +528,7 @@ Wie viele Verkehrsgroßkontrollen wurden 2017 in Hamburg durchgeführt und wie v
 
 Wie viele Verkehrsgroßkontrollen wurden von 2011 bis einschließlich 2016 in Hamburg durchgeführt?
 
-#### Antwort zu Fragen 41 bis 42
+#### Antwort zu Fragen 41 und 42
 
 2017 wurden 43 Verkehrsgroßkontrollen durchgeführt. Darüber hinaus siehe Drs. 21/8356.
 

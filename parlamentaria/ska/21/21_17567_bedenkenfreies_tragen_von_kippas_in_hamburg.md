@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15617", "21/15993", "21/15765", "21/15446", "21/14339", "21/14290", "21/14042", "21/11627", "21/11343", "21/11759", "21/10441", "21/9096", "21/8708", "21/8611", "21/5315", "21/3165"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67163"
@@ -75,6 +76,6 @@ Wie viele Anzeigen wurden in diesem Zusammenhang erfasst?
 
 Wie viele Straftaten sind dem Senat bekannt, die in unmittelbarem Zusammenhang mit sichtbar getragenen Kippas standen? Bitte hier eine genaue Aufschlüsselung aus den vergangenen fünf Jahren. a. Welche Straftaten wurden dabei konkret erfasst? b. An welchen Orten wurden die Straftaten verübt? c. Welche Maßnahmen zur Vermeidung solcher Angriffe wurden ergriffen beziehungsweise welche sind in naher Zukunft geplant?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Antworten zu 1. bis 1. b. und 1. c. und d.

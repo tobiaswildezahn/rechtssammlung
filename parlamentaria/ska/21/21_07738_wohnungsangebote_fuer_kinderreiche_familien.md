@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56367"
@@ -47,7 +48,7 @@ Wie viele Wohneinheiten für kinderreiche Familien hat die SAGA derzeit in welch
 
 Welche Merkmale (Anzahl Zimmer, Bäder, Quadratmeter et cetera) weisen diese Wohnungen aus?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Stadtteil  
 Anzahl Wohnungen  

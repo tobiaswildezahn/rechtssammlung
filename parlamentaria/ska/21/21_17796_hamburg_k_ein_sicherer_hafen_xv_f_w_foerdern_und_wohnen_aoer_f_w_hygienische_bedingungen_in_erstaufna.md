@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 34
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15469", "21/15672", "21/16560", "21/16700"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67396"
@@ -98,7 +99,7 @@ Welche Vorkehrungen zur Vorbeugung (außer Aufklärung und Information der Bewoh
 
 Werden in Unterkünften, die bereits in der Vergangenheit betroffen waren, intensivere Schutzvorkehrungen vollzogen und wenn ja, welche?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Vorbemerkung.
 
@@ -202,21 +203,21 @@ Was genau ist in dem Kooperationsvertrag zwischen f & w und dem Institut für Hy
 
 Die interne Vereinbarung zwischen den Geschäftspartnern f & w und dem Hygieneinstitut ist nicht veröffentlicht und umfasst folgende Leistungen:
 
- Beratungstätigkeit auf allen Gebieten der Hygiene,
+– Beratungstätigkeit auf allen Gebieten der Hygiene,
 
- Leistungen im Rahmen der hygienisch-mikrobiologischen Surveillance (Hygiene-
+– Leistungen im Rahmen der hygienisch-mikrobiologischen Surveillance (Hygiene-
 
 kontrollen),
 
- Leistungen im Rahmen der Schädlingsbekämpfung,
+– Leistungen im Rahmen der Schädlingsbekämpfung,
 
- Durchführung regelmäßiger Hygienebegehungen inklusive Probennahme (hygie-
+– Durchführung regelmäßiger Hygienebegehungen inklusive Probennahme (hygie-
 
 nisch-mikrobiologische Diagnostik) und Protokollierung,
 
- Durchführung von Fort- und Weiterbildungen,
+– Durchführung von Fort- und Weiterbildungen,
 
- Leistungen im Rahmen der hygienisch-mikrobiologischen Überwachung von Lei-
+– Leistungen im Rahmen der hygienisch-mikrobiologischen Überwachung von Lei-
 
 tungswassersystemen.
 

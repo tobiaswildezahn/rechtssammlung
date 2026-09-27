@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 42
 antwortbloecke: 22
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3766", "21/1532", "21/1354", "21/3705", "20/14625", "21/3550"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52191"
@@ -93,7 +94,7 @@ Wie lange läuft der Mietvertrag für den ehemaligen Max-Bahr-Baumarkt noch und 
 
 Sofern der Standort im ehemaligen Max-Bahr-Baumarkt am Rugenbarg mittelfristig ganz aufgegeben oder aber verkleinert werden soll: Welchen Alternativunterbringungen und Folgeunterkünfte sollen die dort untergebrachten Flüchtlinge zugewiesen werden? Ist eine Umgestaltung der dortigen Unterkunft (zum Beispiel Bedarfsanpassung in der Größe oder der Art der Unterkunft (zum Beispiel Abriss der Halle, Containerlösung als interimistische Folgeunterkunft oder Ähnliches)) geplant?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Liegenschaft für die Erstaufnahmeeinrichtung am Rugenbarg wurde am 23. September 2015 für zwölf Monate angemietet. Es wird geprüft, den Vertrag mit dem Vermieter um weitere zwölf Monate bis Ende September 2017 zu verlängern. Nach derzeitigem Stand ist vorgesehen, über die gesamte Vertragslaufzeit ohne Umgestaltung Flüchtlinge in der Unterkunft unterzubringen.
 
@@ -123,7 +124,7 @@ Wann sollen die notwendigen Erschließungsmaßnahmen beginnen und wann werden di
 
 Wann wird mit Neubau begonnen, wann wird dieser planmäßig abgeschlossen und wann bezugsfertig sein?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Erschließungsmaßnahmen für das Baufeld A beginnen nach der Erteilung der Baugenehmigung. Die Arbeiten sollen nach gegenwärtigem Planungsstand Mitte 2017 abgeschlossen sein.
 

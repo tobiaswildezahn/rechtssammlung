@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 42
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51635"
@@ -74,7 +75,7 @@ In welcher Höhe wird ein Bargeldbetrag an die Leistungsberechtigten nach dem As
 
 Warum wird in der Arbeitshilfe zum AsylbLG (Tabelle) kein Bargeldbetrag mehr aufgeführt? Findet nach wie vor die Auszahlung eines „Taschengeldes“ statt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Es wird unterstellt, dass die Fragen, die das „Taschengeld“ betreffen, jeweils auf den notwendigen persönlichen Bedarf gerichtet sind.
 

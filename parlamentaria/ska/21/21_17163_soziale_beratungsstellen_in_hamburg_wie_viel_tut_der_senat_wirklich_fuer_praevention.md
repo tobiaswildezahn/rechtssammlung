@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66723"
@@ -49,7 +50,7 @@ Wie hat sich die Personalausstattung der bezirklich zugeordneten Sozialen Beratu
 
 Inwieweit bestehen aktuell Vakanzen in den jeweiligen Sozialen Beratungsstellen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1. In 2018 wurde in der Sozialen Beratungsstelle Hamburg-Mitte der Bereich der Verwaltung 2018 um 0,13 Vollzeitäquivalente (VZÄ) verstärkt. Im Übrigen ist die Personalausstattung der Sozialen Beratungsstellen seit 2015 unverändert. Darüber hinaus ist 1,0 VZÄ Sozialarbeit in der Sozialen Beratungsstelle Wandsbek derzeit nicht besetzt.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4356"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53172"
@@ -69,7 +70,7 @@ Wie ist dies nach Ansicht der zuständigen Behörde mit der Schulpflicht sowie d
 
 Wie viele Schülerinnen und Schüler gab es seit Beginn des Schuljahres 2014/2015, die wegen Unbeschulbarkeit nicht mehr zur Schule gehen? Bitte pro Schuljahr darstellen. a. Wie lange sind die Kinder jeweils nicht mehr zur Schule gegangen? b. Besuchten diese Kinder zuvor jeweils eine temporäre Lerngruppe? Falls ja, wie lange waren sie anschließend jeweils wieder in der Regelklasse, bevor sie für unbeschulbar erklärt wurden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Grundsätzlich können alle in Hamburg schulpflichtigen Kinder und Jugendlichen ihre Schulpflicht erfüllen. Hierfür stehen Schulen sowie bei Bedarf ergänzende oder alternative Lernorte, gegebenenfalls auch außerhalb Hamburgs, in besonderen Lerngruppen zur Verfügung.
 
@@ -83,7 +84,7 @@ Wie viele temporäre Lerngruppen sind an welchen Standorten für Hamburgs Schül
 
 Wie viele Schülerinnen und Schüler haben seit Beginn des Schuljahres 2014/2015 diese temporären Lerngruppen besucht? Bitte pro Schuljahr und Standort darstellen.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Gemäß Rahmenvereinbarung „Regionale Kooperationen zwischen Schule und Jugendhilfe für die Bildung und Betreuung von Kindern und Jugendlichen mit besonders herausforderndem Verhalten“ (http://www.hamburg.de/infos-fuer-fachkraefte/ 3752888/rahmenvereinbarung-schule-jugendhilfe/) sind aktuell an insgesamt 58 Standorten Kooperationsangebote zwischen Schule und Jugendhilfe, orientiert an zwei unterschiedlichen Angebotsmodellen, eingerichtet worden. An 41 Standorten werden integrierte Angebote innerhalb von Schulen und an 17 Standorten temporäre Lerngruppen außerhalb von Schulen, überwiegend in Regionalen Bildungs- und Beratungszentren (ReBBZ), realisiert. Da alle Angebote das Ziel haben, Schülerinnen und Schüler in die Regelschulen zu reintegrieren, sind diese individuell und bedürfnisorientiert gestaltet und auf maximal zwei Jahre befristet.
 

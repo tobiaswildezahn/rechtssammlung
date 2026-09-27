@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65978"
@@ -51,7 +52,7 @@ In welchem Zeitraum wurde der erste Durchgang der europaweiten Ausschreibung fü
 
 Wie hoch waren die Kosten der europaweiten Ausschreibung für Radverkehrszählanlagen im ersten Durchgang?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für die sechs Zählstellen war keine europaweite Ausschreibung erforderlich, weil der geschätzte Auftragswert die Schwellenwerte nicht erreichte. Am 26. Februar 2018 wurde die nationale öffentliche Ausschreibung durchgeführt. Der Eröffnungstermin war am 20. März 2018. Es ist kein Angebot eingegangen.
 

@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7504", "21/7509"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57527"
@@ -65,7 +66,7 @@ Wie hoch lag der jährliche Durchschnitt der Abitur-Gesamtnote aller Hamburger G
 
 Wie viele Gymnasiasten oder Stadtteilschüler erreichten im Zeitraum von 1980 bis 2016 jährlich die Abitur-Gesamtnote 1,0? Bitte zusätzlich auch den prozentualen Anteil der Absolventen mit der Abitur-Gesamtnote 1,0 bezogen auf die Gesamtzahl der an den Abitur-Prüfungen teilnehmenden Gymnasiasten oder Stadtteilschüler des jeweiligen Prüfungsjahres angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

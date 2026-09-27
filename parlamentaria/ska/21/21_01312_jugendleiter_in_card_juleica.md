@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 24
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49527"
@@ -51,7 +52,7 @@ Wie viele Juleicas wurden in den Jahren 2011 – 2015 jeweils in Hamburg neu aus
 
 Wie viele Juleicas wurden in den Jahren 2011 – 2015 jeweils in Hamburg verlängert?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Gesamtzahl der in den Jahren 2011 – 2015 ausgestellten Juleicas beträgt:
 

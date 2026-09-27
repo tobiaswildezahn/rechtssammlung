@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 23
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/7409", "20/4519", "20/8154", "20/14264", "21/14264"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49450"
@@ -51,29 +52,29 @@ Welche Aufgaben erfüllt das Hamburg Welcome Center (HWC) mittlerweile konkret?
 
 Die Aufgaben des HWC verteilen sich auf vier Leistungsbereiche (siehe Vorbemerkung und http://welcome.hamburg.de/):
 
- 1. Leistungsbereich Aufenthalts- und Melderecht:
+– 1. Leistungsbereich Aufenthalts- und Melderecht:
 
 In diesem Leistungsbereich können alle Aufenthalts- und Meldeangelegenheiten von Neuhamburgerinnen und -hamburgern gebündelt erledigt werden, zum Beispiel
 
- An-, Um- und Abmeldung des Wohnsitzes
+– An-, Um- und Abmeldung des Wohnsitzes
 
- Aufenthalts- und Niederlassungserlaubnis oder Blaue Karte EU
+– Aufenthalts- und Niederlassungserlaubnis oder Blaue Karte EU
 
- Visaverlängerungen für Geschäftsreisende
+– Visaverlängerungen für Geschäftsreisende
 
- Entgegennahme von Verpflichtungserklärungen
+– Entgegennahme von Verpflichtungserklärungen
 
- Beantragung von Führungszeugnissen
+– Beantragung von Führungszeugnissen
 
- 2. Leistungsbereich Allgemeiner Neubürgerservice:
+– 2. Leistungsbereich Allgemeiner Neubürgerservice:
 
 Hier erhalten alle Neubürgerinnen und Neubürger Information und Beratung über ihr neues Umfeld, etwa über Wohnungssuche, Kinderbetreuung, Sprachkurse, öffentlichen Nahverkehr, Freizeitmöglichkeiten. Zudem wird ein „Lotsenprogramm“ entwickelt, das die Vermittlung der Neubürgerinnen und Neubürger an Communities und Netzwerke zum Ziel hat. Im Einzelnen siehe auch: http://welcome.hamburg.de/ueberuns/.
 
- 3. Leistungsbereich Ausbildungs- und Arbeitsmarkt:
+– 3. Leistungsbereich Ausbildungs- und Arbeitsmarkt:
 
 Dieser Bereich wird durch das Projekt „Make it in Hamburg!“ abgedeckt. Hier werden ausländische Arbeitssuchende und Hamburger Unternehmen unterstützt und beraten. Formen der Unterstützung sind individuelles Coaching in persönlicher Sprechstunde, Unterstützung bei der Integration in den Arbeitsmarkt sowie begleitende Seminare und Trainings. Im Einzelnen siehe auch: http://www.giz.de/de/weltweit/25942.html.
 
- 4. Leistungsbereich Anerkennungsberatung:
+– 4. Leistungsbereich Anerkennungsberatung:
 
 Dieser Bereich wird durch die Zentrale Anlaufstelle Anerkennung (ZAA) auf Grundlage des „Hamburgischen Anerkennungsberatungsgesetzes“ abgedeckt. Im Rahmen der ZAA findet Beratung rund um im Ausland erworbene Abschlüsse statt, etwa ob eine Anerkennung nötig und möglich ist, wer für die Anerkennung zuständig ist und welche Unterlagen für die Anerkennung notwendig sind. Im Einzelnen siehe auch: http://www.diakonie-hamburg.de/web/visitenkarte/zaa/.
 

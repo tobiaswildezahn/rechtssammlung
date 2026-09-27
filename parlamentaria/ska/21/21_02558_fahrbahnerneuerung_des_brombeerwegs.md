@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11623"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50850"
@@ -115,7 +116,7 @@ Durch welche Maßnahmen soll der Lärm gemindert werden?
 
 Ist geplant, OPA/PA zu verwenden und falls ja, wie hoch wird die dadurch bewirkte Lärmminderung voraussichtlich sein? Wenn nicht, aus welchen Gründen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 In Hamburg werden nicht offenporige lärmmindernde Deckschichten (zum Beispiel Splittmastixasphalt SMA 8 Hmb) seit Längerem standardmäßig verwendet. Sie sind im straßenbautechnischen Regelwerk Hamburgs (ZTV/St-Hmb., ER 1, vergleiche Drs. 20/11623) verankert, haben sich als dauerhafte und zuverlässige Bauweisen bewährt
 

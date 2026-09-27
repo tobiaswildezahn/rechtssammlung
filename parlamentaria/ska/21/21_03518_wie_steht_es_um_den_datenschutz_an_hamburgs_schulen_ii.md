@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 17
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3382", "20/11952", "20/11961", "20/1364", "20/5109", "20/13674"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51874"
@@ -43,7 +44,7 @@ Welche Schulen nutzen derzeit dezentrale IT-Verfahren? (Bitte nach Schultypen di
 
 Welche dieser Schulen haben jeweils ein eigenes Datenverarbeitungskonzept erstellt, welche noch nicht? a. Welche Schulen haben seit der Erstellung des jeweiligen Datenverarbeitungskonzeptes aus welchen Gründen beziehungsweise Anlässen eine Aktualisierung vorgenommen? b. Von jeweils wann datieren die Aktualisierungen von Datenverarbeitungskonzepten in den jeweiligen Schulen? c. In wie vielen Fällen wurden durch Schulkonferenzen oder -vorstände Nachbesserungen an den Datenverarbeitungskonzepten verlangt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die erfragten Daten werden von der zuständigen Behörde nicht zentral erfasst. Aufgrund der Frühjahrsferien und der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit konnte eine Abfrage an den Schulen nicht durchgeführt werden.
 
@@ -55,7 +56,7 @@ Wie viele anlassbezogene Überprüfungen der Einhaltung der datenschutzrechtlich
 
 Wie viele anlassbezogene Fälle von Beratung und Unterstützung durch IT-Abteilung, Informationssicherheitsbeauftragte und behördliche Datenschutzbeauftrage gab es für Schulen beziehungsweise deren Schulleitungen in Bezug auf die jeweiligen Datenschutz- beziehungsweise IT- Sicherheitskonzepte in den Jahren seit 2011? Was waren die typischen sowie wichtigsten Anlässe? (Bitte jahresweise auflisten.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Für datenschutzrechtliche Anfragen und Anliegen von Schulen ist der behördliche Datenschutzbeauftragte gemäß § 10a Hamburgisches Datenschutzgesetz (HmbDSG) vom 5. Juli 1990 (HmbGVBl. 1990, S. 133) zuständig.
 

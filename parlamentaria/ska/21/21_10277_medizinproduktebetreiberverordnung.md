@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59135"
@@ -73,7 +74,7 @@ In welchen Gesundheitseinrichtungen wurden Verstöße festgestellt?
 
 Welche Maßnahmen wurden seitens der Behörde bei Verstößen getroffen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Regelungen finden nur bei Gesundheitseinrichtungen mit mehr als 20 Beschäftigten Anwendung. Daher wurde bislang die Einhaltung dieser Anforderung nur im Rahmen von Routinekontrollen in Krankenhäusern stichprobenhaft geprüft. Dabei wurden in wenigen Einzelfällen Verstöße festgestellt.
 

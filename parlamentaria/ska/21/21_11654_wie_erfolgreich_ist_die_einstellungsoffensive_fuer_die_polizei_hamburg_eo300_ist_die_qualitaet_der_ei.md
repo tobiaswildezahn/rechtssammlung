@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60871"
@@ -39,11 +40,11 @@ Die Einstellungsoffensive geht mit der deutlichen Erhöhung der Einstellungszahl
 
 Einstellungstests unterliegen generell, so auch bei der Polizei, ständigen Überarbeitungen und Veränderungen, um sich neuen Erkenntnissen und Erfahrungen in Hinsicht auf die Auswahl geeigneter Bewerberinnen und Bewerbern anzupassen. Solche Veränderungen sind nicht mit Absenkungen der Anforderungen begründet. Es wurden folgende Modifizierungen und Anpassungen in verschiedenen Testteilen des Einstellungs- und Auswahlverfahrens (EAV) vorgenommen:
 
- Ab September 2013 wurde anstelle des damaligen Vorstellungsgespräches ein
+– Ab September 2013 wurde anstelle des damaligen Vorstellungsgespräches ein
 
 strukturiertes Interview (DIN-Standard) eingeführt. Zusätzlich für den LA II wurde die Gruppendiskussion gegen ein individuelles Rollenspiel ausgewechselt.
 
- Im April 2015 wurde der Deutschtest modifiziert, in dem
+– Im April 2015 wurde der Deutschtest modifiziert, in dem
 
 o für die verschiedenen Diktate parametrische Gleichheit hergestellt,
 
@@ -75,7 +76,7 @@ Wurden die Anforderungen an Bewerberinnen und Bewerber für die Polizei Hamburg 
 
 Falls ja, in welchem Testteil und in welchem Umfang wurden die Anforderungen jeweils wann gesenkt (schriftlich, mündlich, sportlich, Abstriche bei der Gesundheitsprüfung)? Die Frage bitte einzeln für die Auswahlverfahren LA I und LA II beantworten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Einstellungsverfahren für den Polizeivollzugsdienst unterliegt einer ständigen Überprüfung in Bezug auf die berufsbezogene Eignungsdiagnostik. In den vergangenen Jahren erfolgte daher mehrfach eine Modifizierung verschiedener Testteile, um zeitgemäßen Qualitätskriterien und Standards zu genügen. Bei den bestehenden Testinhalten hat es keine Absenkung der Anforderungen gegeben. Im Übrigen siehe Vorbemerkung.
 
@@ -127,7 +128,7 @@ Wie viele Polizeimeisteranwärterinnen und -anwärter wurden jeweils in den Jahr
 
 Wie viele Polizeimeisteranwärterinnen und -anwärter wurden jeweils in den Jahren 2015, 2016, 2017 und bislang in 2018 nach dem zweiten Semester nicht zur mündlichen Prüfung (Zwischenprüfung) zugelassen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Zwischenprüfungen im LA I finden am Ende der Grundausbildung statt. Für Auszubildende mit Ausbildungsbeginn am 1. Februar beginnen die Zwischenprüfungen im Dezember des Einstellungsjahres mit dem schriftlichen Teil und werden dann im darauffolgenden Januar mit dem mündlichen Teil abgeschlossen. Statistische Daten im Sinne der Fragestellung erfasst die Akademie der Polizei in dem Kalenderjahr, in dem die Zwischenprüfung begonnen hat; Zahlen für das Jahr 2018 liegen daher noch nicht vor. Die erfragten Daten sind in der folgenden Tabelle dargestellt:
 
@@ -146,7 +147,7 @@ Wie viele Polizeimeisteranwärterinnen und -anwärter mussten jeweils in den Jah
 
 In welchen Fächern (nach Häufigkeit) führten die erbrachten Leistungen zur Wiederholung von Ausbildungssemestern?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Statistische Daten zu einzelnen Fächern werden erst seit dem Jahr 2015 von der Akademie der Polizei erhoben; die erfragten Daten sind in der folgenden Tabelle dargestellt:
 

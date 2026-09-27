@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11189", "21/12350", "21/14881", "21/15508"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67609"
@@ -43,7 +44,7 @@ Wie ist der genaue Sachstand des juristischen Verfahrens bezüglich der Wiederau
 
 Welche Maßnahmen haben welche Stellen der Freien und Hansestadt Hamburg seit November 2018 zum Schutz und Erhalt dieser Fläche als Waldfläche ergriffen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Widerspruch gegen die Wiederaufforstungsanordnung wurde mit Widerspruchsbescheid vom 28.09.2018 zurückgewiesen. Gegen den Widerspruchsbescheid wurde fristgerecht Klage erhoben. Das Verfahren ist derzeit beim Verwaltungsgericht anhängig. Eine kahlgeschlagene Fläche bleibt Wald nach § 1 Landeswaldgesetz.
 

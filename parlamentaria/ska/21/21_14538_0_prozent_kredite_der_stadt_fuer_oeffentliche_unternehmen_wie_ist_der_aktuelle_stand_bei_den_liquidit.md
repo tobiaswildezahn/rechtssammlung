@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4081", "21/6224", "21/7388", "21/8610", "21/9682", "21/10563", "21/11527", "21/12584", "21/13661", "20/13852", "21/218"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63964"
@@ -44,22 +45,40 @@ Der Senat beantwortet die Fragen teilweise auf Grundlage von Auskünften der HGV
 ### Frage 1
 
 Nutzung der Liquiditätshilfen:
-1.1. Welchen der im jeweiligen Haushaltsbeschluss genannten Unternehmen und Einrichtungen hat der Senat beziehungsweise die zuständige Behörde wann und warum im Zeitraum Juli bis September 2018 Liquiditätshilfen zur Verfügung gestellt?
-1.2. In welcher Höhe wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte jeweils zum Monatsende angeben.
-1.3. Wie lange und zu welchem Zins wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte keinen Durchschnittszins über alle Unternehmen wie in Drs. 20/13852 angeben.
-1.4. Woran orientiert sich jeweils die Höhe des Zinssatzes beziehungsweise wie wird sie ermittelt?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Welchen der im jeweiligen Haushaltsbeschluss genannten Unternehmen und Einrichtungen hat der Senat beziehungsweise die zuständige Behörde wann und warum im Zeitraum Juli bis September 2018 Liquiditätshilfen zur Verfügung gestellt?
+
+### Frage 1.2
+
+In welcher Höhe wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte jeweils zum Monatsende angeben.
+
+### Frage 1.3
+
+Wie lange und zu welchem Zins wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte keinen Durchschnittszins über alle Unternehmen wie in Drs. 20/13852 angeben.
+
+### Frage 1.4
+
+Woran orientiert sich jeweils die Höhe des Zinssatzes beziehungsweise wie wird sie ermittelt?
+
+#### Antwort zu Fragen 1, 1.1, 1.2, 1.3 und 1.4
 
 Siehe Anlage 1. Der Zinssatz betrug einheitlich 0,0 Prozent. Im Übrigen siehe Drs. 21/218 und 21/4081.
 
 ### Frage 2
 
 Limite für die Liquiditätshilfen:
-2.1. Welche Veränderungen der für die Liquiditätshilfen festgelegten Limite hat es jeweils wann und aus welchen Gründen im 3. Quartal 2018 gegeben?
-2.2. Wie häufig, aus welchen Gründen und für jeweils welchen Zeitraum gab es im 3. Quartal 2018 bei welchen einzelnen Unternehmen und Einrichtungen Überschreitungen der Limite?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Welche Veränderungen der für die Liquiditätshilfen festgelegten Limite hat es jeweils wann und aus welchen Gründen im 3. Quartal 2018 gegeben?
+
+### Frage 2.2
+
+Wie häufig, aus welchen Gründen und für jeweils welchen Zeitraum gab es im 3. Quartal 2018 bei welchen einzelnen Unternehmen und Einrichtungen Überschreitungen der Limite?
+
+#### Antwort zu Fragen 2, 2.1 und 2.2
 
 Es lagen keine Veränderungen der festgelegten Limite vor. Das Limit für das Betriebsmittelkonto des Landesbetriebs Planetariums war im 3. Quartal lediglich am
 31. Juli und 1. August 2018 nicht überschritten. Zwischen Mai und September blieben mit rund 6.500 weniger Besuchern pro Monat als erwartet die Erlöse im Landesbetrieb Planetarium Hamburg unter Plan. Diese außerordentliche Entwicklung führte zu der erhöhten Inanspruchnahme des Kontokorrentkontos bei der Kasse.Hamburg. Aktuell zeichnet sich ab, dass der Besucherzuspruch wieder zunimmt.

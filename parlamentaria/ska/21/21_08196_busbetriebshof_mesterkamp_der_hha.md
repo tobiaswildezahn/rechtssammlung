@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56894"
@@ -55,9 +56,9 @@ Welche Anlagen sind auf dem Betriebshof Mesterkamp im Einzelnen untergebracht?
 
 Auf dem Gelände des Busbetriebshofs Mesterkamp befinden sich folgende bauliche Anlagen:
 
- Werkstattgebäude mit integriertem Betriebsdienstgebäude,
+– Werkstattgebäude mit integriertem Betriebsdienstgebäude,
 
- Wartungshalle für Busse (Tank- und Pflegehalle),
+– Wartungshalle für Busse (Tank- und Pflegehalle),
 
 Busabstellflächen inklusive Batterieladesäulen.
 

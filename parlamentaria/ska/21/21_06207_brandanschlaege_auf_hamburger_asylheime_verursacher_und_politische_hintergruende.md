@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54725"
@@ -45,7 +46,7 @@ Wie viele Hamburger Asylbewerberunterkünfte sind in den Jahren 2014
 Was weiß der Senat über die Verursacher und die politischen Hintergründe der Brandstiftungen?
 a) Wie viele Brände wurden (mutmaßlich) von Asylbewerbern gelegt? Bitte die Fälle genauer erläutern und auch laufende Ermittlungs- und Strafverfahren miteinbeziehen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine elektronische Auswertung der 2.300 Fälle, allein aus 2015, nach den zwölf verschiedenen Kategorien von Branddelikten innerhalb der PKS nach Tatort in Kombination mit Aufenthaltsstatus der Tatverdächtigen ist nicht möglich. Die hierfür erforderliche Handauswertung von mehreren Tausend Handakten der Jahre 2014 bis 2016 ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

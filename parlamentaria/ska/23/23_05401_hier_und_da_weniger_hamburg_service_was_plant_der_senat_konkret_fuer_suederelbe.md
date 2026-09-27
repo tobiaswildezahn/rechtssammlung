@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 20
 antwortbloecke: 0
 beantwortet: false
+status: "unbeantwortet"
 zitierte_drucksachen: ["23/5104"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105306"
@@ -27,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten André Trepoll (CDU) vom 17.09.26 und Antwort des Senats · Drucksache vom 17.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105306) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105306/23_05401_hier_und_da_weniger_hamburg_service_was_plant_der_senat_konkret_fuer_suederelbe)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

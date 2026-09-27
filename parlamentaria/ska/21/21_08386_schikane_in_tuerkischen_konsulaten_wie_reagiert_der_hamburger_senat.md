@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57097"
@@ -59,6 +60,6 @@ Welche Möglichkeiten sieht der Senat, um türkischen Bürgern die Einbürgerung
 
 Ist der Senat mit dem türkischen Konsulat im Dialog bezüglich der oben genannten Vorfälle? Wenn ja: Wann hat mit wem ein Gespräch stattgefunden? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Damit hat sich der Senat nicht befasst. Der zuständigen Behörde sind bislang keine Fälle bekannt, in denen sich das türkische Generalkonsulat geweigert hat, Entlassungsanträge entgegenzunehmen oder zu bearbeiten. Die zuständige Behörde hat am 27. März 2017 einen Mitarbeiter des türkischen Generalskonsulats in Hamburg um Information zu dem genannten Sachverhalt gebeten.

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 4
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5872", "21/1395"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54562"
@@ -47,7 +48,7 @@ Für welche investiven Projekte wurden welche Mittel aus 2015 übertragen? Bitte
 
 Bei welchen dieser Projekte ist es durch Verzögerungen zu einem verzögerten Mittelabfluss gekommen? Bitte angeben, wie lange sich die Projekte jeweils verzögert haben und wann mit einem Abschluss gerechnet werden kann.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

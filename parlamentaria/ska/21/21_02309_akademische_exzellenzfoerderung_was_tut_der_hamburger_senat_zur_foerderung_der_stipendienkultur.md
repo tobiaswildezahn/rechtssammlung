@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/235", "20/5995", "20/7695", "20/8223", "20/8769", "21/1642"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50580"
@@ -57,37 +58,37 @@ Die Förderung von Studierenden erfolgt wie nachstehend dargestellt:
 
 Seit Wintersemester 2011/2012
 
- HfMT Hochschule für Musik und Theater
+– HfMT Hochschule für Musik und Theater
 
- HfbK Hochschule für bildende Künste
+– HfbK Hochschule für bildende Künste
 
- HCU HafenCity Universität
+– HCU HafenCity Universität
 
- BLS Bucerius Law School
+– BLS Bucerius Law School
 
- HSBA Hamburg School of Business Administration
+– HSBA Hamburg School of Business Administration
 
- ISS International Business School of Service Management
+– ISS International Business School of Service Management
 
 Seit Wintersemester 2012/2013
 
- AMD Akademie Mode und Design
+– AMD Akademie Mode und Design
 
 Seit Sommersemester 2013
 
- EBC Hochschule
+– EBC Hochschule
 
 Seit Wintersemester 2014/2015
 
- Universität Hamburg
+– Universität Hamburg
 
- HFH Hamburger Fern-Hochschule
+– HFH Hamburger Fern-Hochschule
 
 Seit Wintersemester 2015/2016
 
- HAW Hochschule für Angewandte Wissenschaften Hamburg
+– HAW Hochschule für Angewandte Wissenschaften Hamburg
 
- MSH Medical School Hamburg
+– MSH Medical School Hamburg
 
 Die bisherige Einführung des Deutschlandstipendiums durch die staatlichen Hochschulen in Hamburg ist gekennzeichnet durch den mit der Umsetzung verbundenen Verwaltungsaufwand und ist abhängig von der Bereitschaft und der Bereitstellung finanzieller Mittel für die Stipendien durch private Förderer.
 
@@ -247,17 +248,17 @@ Steht der Hamburger Senat in regelmäßigem Austausch mit Stiftungen, die sich d
 
 Es finden regelmäßige Treffen der zuständigen Behörde mit dem Initiativkreis Hamburger Stiftungen sowie Treffen mit Vertreterinnen und Vertretern einzelner Stiftungen (zum Beispiel Joachim Herz Stiftung, Körber-Stiftung, Hamburgische Stiftung für Wissenschaft, Kultur und Entwicklung Helmut und Hannelore Greve) statt. Diese dienen dem gegenseitigen Austausch
 
- zum Profil der Stiftungen,
+– zum Profil der Stiftungen,
 
- zu bestehenden Förderinitiativen,
+– zu bestehenden Förderinitiativen,
 
- zu Fördermöglichkeiten in der Zukunft,
+– zu Fördermöglichkeiten in der Zukunft,
 
- zur Identifizierung von konkreten Stiftungsprojekten an den Hamburger Hochschu-
+– zur Identifizierung von konkreten Stiftungsprojekten an den Hamburger Hochschu-
 
 len und Forschungseinrichtungen sowie
 
- zu Ergebnissen abgelaufener und noch laufender Fördermaßnahmen in Wissen-
+– zu Ergebnissen abgelaufener und noch laufender Fördermaßnahmen in Wissen-
 
 schaft, Forschung und Lehre.
 

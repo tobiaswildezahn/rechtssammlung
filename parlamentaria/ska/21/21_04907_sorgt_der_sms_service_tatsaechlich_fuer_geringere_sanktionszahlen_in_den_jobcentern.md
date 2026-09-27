@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 18
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53338"
@@ -47,7 +48,7 @@ Wie viele Personen nutzten und nutzen den SMS-Erinnerungsservice von Jobcenter t
 
 Wie viele Personen nutzten und nutzen den SMS-Erinnerungsservice der Agentur für Arbeit in Hamburg? Bitte für die Jahre 2013 – 2016 angeben und für den Zeitraum 06/2015 – 06/2016 monatlich.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ein Rückgang der Sanktionszahlen bei den Bezieherinnen und Beziehern von Arbeitslosengeld II kann nicht ausschließlich auf den SMS-Erinnerungsservice zurückgeführt werden. Es spielt unter anderem auch die verstärkte Beratung der Kundinnen und Kunden über die Folgen bei Versäumnissen eine Rolle. Eine statistische Erhebung im Sinne der Fragestellung erfolgt durch den Statistik-Service der Bundesagentur für Arbeit jedoch nicht.
 
@@ -99,7 +100,7 @@ team.arbeit.hamburg sind, verpflichtend, eine Telefonnummer beziehungsweise Hand
 
 Ist es für Personen, die „Kunden/-innen“ bei der Agentur für Arbeit in Hamburg sind, verpflichtend, eine Telefonnummer beziehungsweise Handynummer als persönliche Daten anzugeben?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Angabe der Telefon- beziehungsweise Handynummer ist freiwillig.
 

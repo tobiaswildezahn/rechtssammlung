@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57024"
@@ -85,7 +86,7 @@ Wann wurde in 2016 vor Kindergärten, Schulen, Krankenhäusern und Seniorenheime
 
 Wann wurde im Jahre 2016 an anderen Orten mit mobilen Blitzern kontrolliert?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Bei der statistischen Erfassung von mobilen Geschwindigkeitsmessungen wird registriert, ob der Messort in einem sogenannten schützenswerten Bereich liegt. Als schützenswerte Bereiche im Sinne der Erfassung gelten neben Schulen, Kindergärten, Kindertagesstätten und Seniorenheimen auch Sport- und Freizeitstätten, die von Kindern genutzt werden sowie Schulwegbereiche in der näheren Umgebung von Schulen. Eine Unterscheidung in Tempo 30/Tempo 50 wird dabei nicht vorgenommen. Krankenhäuser hingegen finden keine Berücksichtigung.
 

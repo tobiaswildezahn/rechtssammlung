@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 17
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6660", "21/9286", "21/7872", "21/4655", "20/4195"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58232"
@@ -119,7 +120,7 @@ Wie viele Beschäftigte wurden seit 2015 für die Ausbildung von jugendlichen Ge
 
 Wie hat sich die Zahl der Beschäftigten seit 2015 für die Ausbildung von jugendlichen Geflüchteten im Alter von 16 bis 18 Jahren in Hamburg entwickelt? (Bitte für AvM-Dual beziehungsweise getrennt für BVJ-M, VJ-M und Alphaklassen) nach befristet beziehungsweise unbefristet sowie differenziert für Lehrkräfte, betriebliche Integrationsbegleiter/- innen, Sozialarbeiter/-innen/Sozialpädagogen/-innen und Sonstige nach Möglichkeit monatsweise, sonst schulhalbjahresweise in absoluten Zahlen in einer Excel-Tabelle angeben.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Den berufsbildenden Schulen werden entsprechend der geltenden Bedarfsgrundlage und der jeweiligen SuS-Zahl jedes Bildungsganges ausreichend Lehrerstellen zur Verfügung gestellt. Der Personaleinsatz wird von den einzelnen Schulen vor Ort geplant. Daher lässt sich nicht feststellen, in welchen Bildungsgängen Personal befristet eingesetzt wurde. Temporäre Bedarfe zur Umsetzung der Betrieblichen Integrationsbegleitung im AvM-Dual werden im Rahmen der üblichen Schulpersonalorganisation abgedeckt. Für die zur Verfügung gestellten Personalressourcen ab Oktober 2015 differenziert nach Schulhalbjahren siehe Anlage.
 

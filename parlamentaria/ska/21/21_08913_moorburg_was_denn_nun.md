@@ -13,9 +13,10 @@ seiten: 1
 fragen: 0
 einzelfragen: 0
 antwortbloecke: 0
-beantwortet: true
+beantwortet: false
+status: "zurückgezogen"
 zitierte_drucksachen: []
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57661"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/57661/21_08913_moorburg_was_denn_nun"
 abgerufen: "2026-09-26"
@@ -24,11 +25,9 @@ generator: "ska_archiv 1.0"
 
 # Drs. 21/8913: Moorburg: Was denn nun?
 
-> Schriftliche Kleine Anfrage des Abgeordneten Stephan Jersch (DIE LINKE) vom 27.04.17 und Antwort des Senats · Drucksache vom 27.04.2017  
+> Schriftliche Kleine Anfrage des Abgeordneten Stephan Jersch (DIE LINKE) vom 27.04.17 · zurückgezogen · Drucksache vom 27.04.2017  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/57661) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/57661/21_08913_moorburg_was_denn_nun)
 
-## Volltext
-
-Moorburg: Was denn nun?
+## Hinweis
 
 Die Anfrage wurde zurückgezogen.

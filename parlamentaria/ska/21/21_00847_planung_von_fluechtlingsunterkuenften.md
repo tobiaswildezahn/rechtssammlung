@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/635", "21/754"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49008"
@@ -53,7 +54,7 @@ Mit welcher Kapazität und welcher Existenzdauer plant der Senat am Standort Pop
 
 Wann wurde die oben beschriebene Abfrage der Sozialbehörde bei den Bezirken zu den Grünanlagen und Parkplätzen durchgeführt? Welche Flächen wurden bisher gemeldet? Bitte aufteilen nach Bezirken und Grünanlagen beziehungsweise Parkplätzen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Planungen zur Nutzung der Fläche am Poppenbütteler Berg sind noch nicht abgeschlossen. Die Machbarkeitsstudie (siehe Drs. 21/754) bezieht sich auf den Bau eines festen Gebäudekörpers. Die aktuellen Planungen sehen in einem ersten Schritt eine vorübergehende Nutzung in Modulbauweise mit einer Kapazität bis zu 500 Plätzen vor. In einem weiteren Schritt soll das erforderliche Planrecht für einen Festbau in entsprechender Größenordnung geschaffen werden.
 

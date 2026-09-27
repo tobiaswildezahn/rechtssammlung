@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["16/4616"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65825"
@@ -43,7 +44,7 @@ Wie hat sich die Zahl der Einbrüche im Jahr 2018 in den Stadtteilen Harburg, He
 
 Wie viele Einbrüche wurden im Jahr 2018 in den unter Frage 1. genannten Stadtteilen aufgeklärt? Bitte die Zahlen für jeden Monat einzeln angeben und nach Stadtteilen sowie in Wohnungen/Häuser und Gewerbeobjekte aufgliedern. Sollte eine Angabe der Aufklärungsquote für den Jahreszeitraum nicht möglich sein, bitte die Aufklärungsquote für die genannten Stadtteile für einen möglichen Zeitraum angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Aussagekraft der Polizeilichen Kriminalstatistik (PKS) ist auf Jahresauswertungen ausgelegt. Innerhalb eines Berichtsjahres unterliegt der PKS-Datenbestand einer ständigen Pflege, zum Beispiel durch Hinzufügen von nachträglich ermittelten Tatverdächtigen oder der Herausnahme von Taten, die sich im Nachhinein nicht als Straftat erwiesen haben. Zur begrenzten Aussagekraft unterjähriger Daten in diesem Zusammenhang siehe Drs. 16/4616.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63240"
@@ -105,7 +106,7 @@ Der Bezirk Harburg verfolgt das Ziel, als erster Bezirk Hamburgs einen Hotelentw
 
 Mit welchen Ergebnissen wurde das Gelände der früheren Phoenix- Werke als Hotelstandort geprüft und welche Realisierungsmöglichkeiten erkennt und unterstützt der Senat?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Für den Bezirk Harburg liegt seit 2017 ein Hotelentwicklungsplan (HEP 2017) vor, dessen Flächen durch die HIW Hamburg Invest Wirtschaftsförderungsgesellschaft mbH (HIW) vermarktet werden. Städtische Flächen werden in Zusammenarbeit des Bezirksamtes Harburg mit dem Landesbetrieb Immobilienmanagement und Grundvermögen (LIG) öffentlich ausgeschrieben. Private Flächen werden nicht beworben.
 

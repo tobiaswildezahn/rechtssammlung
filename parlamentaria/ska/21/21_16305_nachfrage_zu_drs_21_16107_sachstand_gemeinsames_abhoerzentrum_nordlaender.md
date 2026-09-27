@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16107"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65822"
@@ -61,7 +62,7 @@ Aus welchen Gründen kamen die beteiligten Landesregierungen zu dem Schluss, das
 
 Welche weiteren Gründe gab es darüber hinaus für diesen Schluss?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Im Rahmen der vorgenannten Befassungen konnten keine belastbaren inhaltlichen und fachlichen Informationen zum Leistungsspektrum der TKÜ-Anlage des Bundes und insbesondere zu zeitlichen Realisierungsschritten sowie etwaigen verlässlichen Beitrittsterminen für weitere Mandanten dargelegt werden. Vor diesem Hintergrund war und ist festzustellen, dass das Projekt der Bundesbehörden auf der Grundlage der hierzu gegenwärtig vorliegenden Informationen aktuell keine Alternative zum Projekt RDZ darstellt. Unabhängig hiervon wird die weitere Entwicklung eng begleitet und ausgewertet, um diesen Sachstand kontinuierlich fortzuschreiben.
 

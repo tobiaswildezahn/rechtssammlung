@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6276"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57156"
@@ -77,6 +78,6 @@ In welchem Umfang wurden bislang im 1. Quartal 2017 durch die hsh portfoliomanag
 
 In welchem Umfang wurden bislang im 1. Quartal 2017 durch die anderen in der Antwort zu Frage 3. genannten Organisationen in jeweils welchem Umfang zusätzliche Schulden aufgenommen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Berechnungen des Statistikamts Nord liegen für diesen Zeitraum noch nicht vor.

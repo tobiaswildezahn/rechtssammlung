@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11832", "21/11361", "21/10049", "21/8873", "21/7966"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61233"
@@ -53,19 +54,19 @@ a) Welche Maßnahmen wurden seit 2013 bis heute umgesetzt?
 
 Bitte nach Art der Maßnahmen und der Angabe der jeweiligen Standorte auflisten.
 
- Stadtteilschule Fischbek/Falkenberg, Standort Fischbeker Moor: Erweiterung zur
+– Stadtteilschule Fischbek/Falkenberg, Standort Fischbeker Moor: Erweiterung zur
 
 Siebenzügigkeit (Klassen 7 bis 10); Bau einer Zweifeld-Sporthalle als Ersatz für eine Einfeld-Sporthalle ist in der Umsetzung;
 
- Stadtteilschule Fischbek/Falkenberg, Standort Heidrand: Ersatz einer Einfeld-
+– Stadtteilschule Fischbek/Falkenberg, Standort Heidrand: Ersatz einer Einfeld-
 
 Sporthalle durch eine Zweifeld-Sporthalle;
 
- Grundschule An der Haake, Standort Lange Striepen: Ersatz- und Erweiterungs-
+– Grundschule An der Haake, Standort Lange Striepen: Ersatz- und Erweiterungs-
 
 bau (vier Züge); Ersatz einer Einfeld-Sporthalle durch eine Zweifeld-Sporthalle;
 
- Gymnasium Süderelbe, Standort Falkenbergsweg: Neubau einer Zweifeld-
+– Gymnasium Süderelbe, Standort Falkenbergsweg: Neubau einer Zweifeld-
 
 Sporthalle.
 
@@ -184,85 +185,85 @@ a) Welche Angebote im Bereich der OKJA gibt es derzeit in Süderelbe?
 
 #### Antwort zu Frage 4
 
- Freizeitzentrum (FZ) Sandbek, Ohrnsweg 50b
+– Freizeitzentrum (FZ) Sandbek, Ohrnsweg 50b
 
- Kindertierwiese, Dritte Meile 3a
+– Kindertierwiese, Dritte Meile 3a
 
- Jugendfreizeitlounge, Am Johannisland 2
+– Jugendfreizeitlounge, Am Johannisland 2
 
- Haus der Jugend Neuwiedenthal, Neumoorstück 3
+– Haus der Jugend Neuwiedenthal, Neumoorstück 3
 
- Jugendcafe Neuwiedenthal, Rehrstieg 15
+– Jugendcafe Neuwiedenthal, Rehrstieg 15
 
- Miteinander Leben (Ansprache und Integration von Jugendlichen) in Neugraben-
+– Miteinander Leben (Ansprache und Integration von Jugendlichen) in Neugraben-
 
 Fischbek, Stubbenhof 2
 
- Mädchenclub Neuwiedenthal, Lange Striepen 7
+– Mädchenclub Neuwiedenthal, Lange Striepen 7
 
- Spielhaus Neuwiedenthal, Rehrstieg 17
+– Spielhaus Neuwiedenthal, Rehrstieg 17
 
 b) Welche Angebote im Bereich der Familienförderung gibt es derzeit in Süderelbe?
 
- Elternschule Neuwiedenthal, Rehrstieg 60
+– Elternschule Neuwiedenthal, Rehrstieg 60
 
- Stadtteilhaus Neuwiedenthal, Stubbenhof 15
+– Stadtteilhaus Neuwiedenthal, Stubbenhof 15
 
 c) Welche Angebote im Bereich der SAJF gibt es derzeit in Süderelbe?
 
- Gruppe für junge Mütter im Mädchenclub Neuwiedenthal, Lange Striepen 7
+– Gruppe für junge Mütter im Mädchenclub Neuwiedenthal, Lange Striepen 7
 
- Mütterberatungscafé in der Elternsschule, Rehrstieg 60
+– Mütterberatungscafé in der Elternsschule, Rehrstieg 60
 
- Elterntreff Stubbenhof in der Kita Grüne Insel, Stubbenhof 20
+– Elterntreff Stubbenhof in der Kita Grüne Insel, Stubbenhof 20
 
- Beratungsangebot im EKiZ Stubbennest – in der Kita Grüne Insel, Stubbenhof 20
+– Beratungsangebot im EKiZ Stubbennest – in der Kita Grüne Insel, Stubbenhof 20
 
- Starke Eltern Starke Kinder, In der Elternschule, Rehrstieg 60
+– Starke Eltern Starke Kinder, In der Elternschule, Rehrstieg 60
 
- Jungengruppe, soziale Gruppenarbeit mit Jungen zwischen 8 und 12 Jahren, Kita
+– Jungengruppe, soziale Gruppenarbeit mit Jungen zwischen 8 und 12 Jahren, Kita
 
 Grüne Insel, Stubbenhof 20
 
- Raum Quellmoor, Raum für selbstverwaltete Gruppen, Quellmoor 17
+– Raum Quellmoor, Raum für selbstverwaltete Gruppen, Quellmoor 17
 
- StoP- Stadtteile ohne Partnergewalt, Neugrabener Bahnhofstraße 27
+– StoP- Stadtteile ohne Partnergewalt, Neugrabener Bahnhofstraße 27
 
- Evangelische Beratungsstelle Süderelbe, Ein Standort in Neuwiedenthal, Rehrstieg
+– Evangelische Beratungsstelle Süderelbe, Ein Standort in Neuwiedenthal, Rehrstieg
 
- Elterncafé Sandbek/offener Elterntreff, Ohrnsweg 4
+– Elterncafé Sandbek/offener Elterntreff, Ohrnsweg 4
 
- Mütterberatungscafé Sandbek, Ohrnsweg 4
+– Mütterberatungscafé Sandbek, Ohrnsweg 4
 
- Mädchengruppe II (Soziale Gruppenarbeit mit Mädchen zwischen 11 und 14 Jah-
+– Mädchengruppe II (Soziale Gruppenarbeit mit Mädchen zwischen 11 und 14 Jah-
 
 ren), Ohrnsweg 4
 
- Sozialberatung, Kita an der Falkenbek, An der Falkenbek 4
+– Sozialberatung, Kita an der Falkenbek, An der Falkenbek 4
 
- Kampfesspiele, Am Johannisland 4
+– Kampfesspiele, Am Johannisland 4
 
- Miteinander leben in Neugraben-Fischbek, Ohrnsweg 4
+– Miteinander leben in Neugraben-Fischbek, Ohrnsweg 4
 
- Beratungsangebot für Bewohner des Hauses Süderelbering 3, Süderelbering 3
+– Beratungsangebot für Bewohner des Hauses Süderelbering 3, Süderelbering 3
 
- Mädchengruppe I und II (Soziale Gruppenarbeit mit Mädchen zwischen 8 und 12
+– Mädchengruppe I und II (Soziale Gruppenarbeit mit Mädchen zwischen 8 und 12
 
 Jahren), Marktpassage 1
 
- Evangelische Beratungsstelle Süderelbe, Am Johannisland 2
+– Evangelische Beratungsstelle Süderelbe, Am Johannisland 2
 
- ISU, Ambulantes Angebot, Ohrnsweg 4
+– ISU, Ambulantes Angebot, Ohrnsweg 4
 
 d) Welche Angebote im Bereich der Straßensozialarbeit gibt es derzeit in Süderelbe?
 
 Bitte jeweils nach Art und Ortsangabe auflisten.
 
- Straßensozialarbeit Neuwiedenthal, Stubbenhof 14,
+– Straßensozialarbeit Neuwiedenthal, Stubbenhof 14,
 
- Straßensozialarbeit Sandbek, Ohrnsweg 4,
+– Straßensozialarbeit Sandbek, Ohrnsweg 4,
 
- Aufsuchende Sozialarbeit Neugraben-Fischbek, Stubbenhof 2
+– Aufsuchende Sozialarbeit Neugraben-Fischbek, Stubbenhof 2
 
 e) Welche Angebote sollen in den oben genannten Bereichen bis zum Jahr 2023 geschaffen werden?
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/20125", "21/17063", "21/16620", "21/2905", "21/18395", "21/20144", "21/19364"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70025"
@@ -47,7 +48,7 @@ In Drs. 21/20125 erwähnt der Senat, dass am Hafenbahnpark 300 Plätze für Flü
 
 In Drs. 21/17063 hieß es bezüglich der Kosten für das Quartier: „Eine erste Kostenindikation zum Zeitpunkt der Konzeptplanung und des städtebaulichen Wettbewerbs basiert auf einer Schätzung von circa 3 200 – 3 600 Euro/m Wohnfläche für die Kostengruppe 200 – 700 einschließlich Abriss der Bestandsimmobilien (Musterrechnung: 375 WE (im Mittel) x 3 400 Euro (im Mittel) x 65 m (im Mittel) = 82 875 000 Euro.“ Sind diese Zahlen noch aktuell? Wenn nicht, wo sind aus welchen Gründen Änderungen zu verzeichnen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 f & w stimmt gegenwärtig mit dem Bezirk Hamburg-Mitte die Einzelheiten der Planung ab. Daher können zu den konkreten Planungen sowie zu den Projektkosten noch keine Aussagen getroffen werden.
 

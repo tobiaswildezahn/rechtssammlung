@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 60112
 seiten: 3
 fragen: 8
-einzelfragen: 20
-antwortbloecke: 7
+einzelfragen: 24
+antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16257"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65914"
@@ -111,38 +112,55 @@ Welche Ausnahmen und Befreiungen wurden mit dem Vorbescheid vom Oktober 2016 und
 Betrifft der in der Drs. 21/16257 genannte Vorbescheidsantrag vom
 12.02.2019 ausschließlich das Flurstück 53? Wenn nein, welche weiteren Flurstücke sind Gegenstand des Vorbescheidsantrags und warum werden diese in der Drs. 21/16257 nicht genannt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 
 ### Frage 6
 
 In der Antwort zu Frage 2. der Drs. 21/16257 heißt es, dass mit den Vorbescheidsanträgen jeweils eine „Befreiung für die Zulassung von vier statt drei Vollgeschossen“ beantragt wurde.
-6.1. Ist es zutreffend, dass an der entsprechenden Stelle der Bebauungsplan Wohldorf-Ohlstedt 17 unter anderem die Festsetzung „WA IIo“ vorgibt?
-6.2. Bedeutet die Festsetzung „WA IIo“ aus Sicht der zuständigen Stellen drei Vollgeschosse? Wenn ja, warum?
 
-#### Antwort zu Frage 6
+### Frage 6.1
+
+Ist es zutreffend, dass an der entsprechenden Stelle der Bebauungsplan Wohldorf-Ohlstedt 17 unter anderem die Festsetzung „WA IIo“ vorgibt?
+
+### Frage 6.2
+
+Bedeutet die Festsetzung „WA IIo“ aus Sicht der zuständigen Stellen drei Vollgeschosse? Wenn ja, warum?
+
+#### Antwort zu Fragen 6, 6.1 und 6.2
 
 Der Bauherr hatte eine Befreiung beantragt, die davon ausging, dass drei Geschosse zulässig seien. Das festgesetzte Maß beträgt jedoch zwei Vollgeschosse, sodass die Formulierung im Antrag des Bauherrn (von drei auf vier Vollgeschosse) unzutreffend war.
 
-6.3. Ist aus Sicht der zuständigen Stellen hier eine Bebauung mit drei Vollgeschossen genehmigungsfähig?
+### Frage 6.3
 
-Wenn ja, aus welchen Gründen im Einzelnen?
+Ist aus Sicht der zuständigen Stellen hier eine Bebauung mit drei Vollgeschossen genehmigungsfähig? Wenn ja, aus welchen Gründen im Einzelnen?
+
+#### Antwort zu Frage 6.3
 
 Die Prüfungen im zuständigen Bezirksamt sind noch nicht abgeschlossen.
 
 ### Frage 7
 
 In der Antwort zu Frage 8. der Drs. 21/16257 heißt es, dass „aktuell“ keine Planungen oder Prüfungen zur Einleitung eines Verfahrens zur Änderung des Bebauungsplans Wohldorf-Ohlstedt 17 in diesem Bereich durchgeführt werden.
-7.1. Gab es Überlegungen oder Prüfungen bezüglich einer Änderung des Bebauungsplans an dieser Stelle? Wenn ja, wann und aus welchen Gründen? Mit welchem Ergebnis wurden diese Überlegungen oder Prüfungen abgeschlossen?
 
-#### Antwort zu Frage 7
+### Frage 7.1
+
+Gab es Überlegungen oder Prüfungen bezüglich einer Änderung des Bebauungsplans an dieser Stelle? Wenn ja, wann und aus welchen Gründen? Mit welchem Ergebnis wurden diese Überlegungen oder Prüfungen abgeschlossen?
+
+#### Antwort zu Fragen 7 und 7.1
 
 Nein.
 
-7.2. Inwiefern wurde im Austausch mit Grundeigentümern beziehungsweise Investoren die Möglichkeit einer Änderung des Bebauungsplans an dieser Stelle erwogen?
+### Frage 7.2
 
-7.3. Inwiefern wurde im Austausch zwischen Bezirk und Fachbehörden die Möglichkeit einer Änderung des Bebauungsplans an dieser Stelle erwogen?
+Inwiefern wurde im Austausch mit Grundeigentümern beziehungsweise Investoren die Möglichkeit einer Änderung des Bebauungsplans an dieser Stelle erwogen?
+
+### Frage 7.3
+
+Inwiefern wurde im Austausch zwischen Bezirk und Fachbehörden die Möglichkeit einer Änderung des Bebauungsplans an dieser Stelle erwogen?
+
+#### Antwort zu Fragen 7.2 und 7.3
 
 Entfällt.
 

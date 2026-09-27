@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7243", "21/13881"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63344"
@@ -43,23 +44,23 @@ Nummern 1 und 2 des Strafgesetzbuches (StGB) geregelt. § 2 nennt die Ziele und 
 
 Soweit wie möglich soll der Vollzug den allgemeinen Lebensverhältnissen angeglichen werden und die untergebrachte Person auf eine selbständige Lebensführung vorbereiten. Dazu gehört auch ihre familiäre, soziale und berufliche Eingliederung. Hierzu stellt die Einrichtung gemäß § 9 unverzüglich nach der Aufnahmeuntersuchung einen vorläufigen und innerhalb von sechs Wochen nach der Aufnahme einen endgültigen Behandlungs- und Eingliederungsplan auf, welcher dann im Abstand von längstens sechs Monaten zu überprüfen und der Entwicklung der untergebrachten Person anzupassen ist. Dieser Behandlungs- und Eingliederungsplan muss unter anderem Angaben machen zu:
 
- der Heilbehandlung einschließlich der psychotherapeutischen, soziotherapeuti-
+– der Heilbehandlung einschließlich der psychotherapeutischen, soziotherapeuti-
 
 schen und heilpädagogischen Behandlung,
 
- der Form der Unterbringung,
+– der Form der Unterbringung,
 
- der Teilnahme an Unterrichtsveranstaltungen und an Maßnahmen der beruflichen
+– der Teilnahme an Unterrichtsveranstaltungen und an Maßnahmen der beruflichen
 
 Ausbildung, Fortbildung und Umschulung,
 
- Maßnahmen zur Freizeitgestaltung,
+– Maßnahmen zur Freizeitgestaltung,
 
- der Einbeziehung von der untergebrachten Person nahe stehenden Personen in
+– der Einbeziehung von der untergebrachten Person nahe stehenden Personen in
 
 die Behandlungsmaßnahmen, sofern die untergebrachte Person einwilligt,
 
- zu Vollzugslockerungen, Beurlaubungen und Maßnahmen zur Vorbereitung der
+– zu Vollzugslockerungen, Beurlaubungen und Maßnahmen zur Vorbereitung der
 
 Entlassung.
 

@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 27
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/4573", "21/4717", "20/14605", "20/11364"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57047"
@@ -105,7 +106,7 @@ Wie viele Hundeauslaufflächen nach § 8 Absatz 3 HundeG gibt es aktuell in Hamb
 
 Wie viel Quadratmeter umfasst aktuell jeweils die Summe aller Hundeauslaufflächen nach § 8 Absatz 3 HundeG in den Bezirken? (Bitte für jeden Bezirk einzeln ausweisen.)
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Standorte und Größen siehe http://www.hamburg.de/hundegesetz/ -> Freilaufflächen/ Downloads/Hundeauslaufzonen beziehungsweise http://www.hamburg.de/ contentblob/530514/1cb51bbc0cb1363d43452a6daf10e2d8/data/hundeauslaufzonengesamt-liste-bezirke.pdf.
 
@@ -133,7 +134,7 @@ Wie haben sich die bezirklichen finanziellen Mittel für die Bewirtschaftung der
 
 Wie haben sich die finanziellen Mittel der zuständigen Behörden für die Bewirtschaftung der Hundeauslaufflächen seit 2011 im Plan, Ist und Soll entwickelt? (Bitte jahresweise und für die einzelnen Behörden aufschlüsseln.)
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Die Hundeauslaufzonen sind ein Bestandteil der Grünanlagen und werden mit dem gleichen Pflegeaufwand und den gleichen Pflegekosten (Rasenmahd, Müllbeseitigung, Gehölzpflege et cetera) wie alle Grünanlagen unterhalten, daher gibt es keine Dokumentation über die Pflegekosten der Hundeauslaufflächen.
 
@@ -197,19 +198,19 @@ stattgefunden, welche Themen wurden dabei beraten und welche Beschlüsse wurden 
 
 Bei den vier Veranstaltungen waren circa 20 bis 40 Personen anwesend. Die vielfältigen Themen sind den Unterlagen des Sitzungsdienstes zu entnehmen. Die Beschlussvorlage, die derzeit der Bezirksversammlung vorliegt, sieht folgende Punkte vor:
 
-• Der Ausschuss für Grün, Naturschutz und Sport empfiehlt der Bezirksversammlung, das vorliegende Freilaufflächenkonzept zu beschließen.
+– Der Ausschuss für Grün, Naturschutz und Sport empfiehlt der Bezirksversammlung, das vorliegende Freilaufflächenkonzept zu beschließen.
 
-• Der Ausschuss für Grün, Naturschutz und Sport empfiehlt dem Haushalts- und Vergabeausschuss, einen Betrag in Höhe von 30.000 Euro für die Überplanung der Hundeauslaufflächen bezüglich der Ausgestaltung, Einfriedung und Beschilderung zur Verfügung zu stellen. Für die Umsetzung der Maßnahmen müssen in einem zweiten Schritt weitere Mittel bereitgestellt werden.
+– Der Ausschuss für Grün, Naturschutz und Sport empfiehlt dem Haushalts- und Vergabeausschuss, einen Betrag in Höhe von 30.000 Euro für die Überplanung der Hundeauslaufflächen bezüglich der Ausgestaltung, Einfriedung und Beschilderung zur Verfügung zu stellen. Für die Umsetzung der Maßnahmen müssen in einem zweiten Schritt weitere Mittel bereitgestellt werden.
 
-• Sofern sich aus dem Kreis der Teilnehmer und sonstigen Aktiven, die das Thema „konfliktfreies Miteinander“ durch Aktionen begleiten möchten, ein „Hundebeirat“ gründet, empfiehlt der Ausschuss für Grün, Naturschutz und Sport dem Haushaltsund Vergabeausschuss, hierfür einen Verfügungsfond bereitzustellen. Dieser ist mit Mitteln für entsprechende Aktionen auszustatten.
+– Sofern sich aus dem Kreis der Teilnehmer und sonstigen Aktiven, die das Thema „konfliktfreies Miteinander“ durch Aktionen begleiten möchten, ein „Hundebeirat“ gründet, empfiehlt der Ausschuss für Grün, Naturschutz und Sport dem Haushaltsund Vergabeausschuss, hierfür einen Verfügungsfond bereitzustellen. Dieser ist mit Mitteln für entsprechende Aktionen auszustatten.
 
-• Der Ausschuss für Grün, Naturschutz und Sport empfiehlt dem Haushalts- und Vergabeausschuss, Mittel in Höhe von 10.000 Euro zur Überarbeitung des Hundeflyers sowie sonstiger Öffentlichkeitsarbeit zur Verfügung zu stellen.
+– Der Ausschuss für Grün, Naturschutz und Sport empfiehlt dem Haushalts- und Vergabeausschuss, Mittel in Höhe von 10.000 Euro zur Überarbeitung des Hundeflyers sowie sonstiger Öffentlichkeitsarbeit zur Verfügung zu stellen.
 
-• Der Ausschuss für Grün, Naturschutz und Sport beschließt, der für das Hundegesetz zuständigen Behörde für Gesundheit und Verbraucherschutz die Unterlagen des Runden Tisches mit der Bitte um Prüfung, ob auf dieser Grundlage das Erfordernis zur Änderung des Hundegesetzes besteht, zur Verfügung zu stellen.
+– Der Ausschuss für Grün, Naturschutz und Sport beschließt, der für das Hundegesetz zuständigen Behörde für Gesundheit und Verbraucherschutz die Unterlagen des Runden Tisches mit der Bitte um Prüfung, ob auf dieser Grundlage das Erfordernis zur Änderung des Hundegesetzes besteht, zur Verfügung zu stellen.
 
-• Der Ausschuss für Grün, Naturschutz und Sport beschließt, der für das Hundegesetz zuständigen Behörde für Gesundheit und Verbraucherschutz die Unterlagen des Runden Tisches mit der Bitte um Prüfung, ob auf dieser Grundlage das Erfordernis zur Änderung der Rahmenbedingungen für die Gehorsamkeitsprüfung besteht, zur Verfügung zu stellen.
+– Der Ausschuss für Grün, Naturschutz und Sport beschließt, der für das Hundegesetz zuständigen Behörde für Gesundheit und Verbraucherschutz die Unterlagen des Runden Tisches mit der Bitte um Prüfung, ob auf dieser Grundlage das Erfordernis zur Änderung der Rahmenbedingungen für die Gehorsamkeitsprüfung besteht, zur Verfügung zu stellen.
 
-• Der Ausschuss für Grün, Naturschutz und Sport empfiehlt der Bezirksversammlung, die Finanzbehörde aufzufordern, den Hundekontrolldienst des Bezirksamtes Hamburg-Mitte mit ausreichenden Ressourcen für eine angemessene Kontrolle zur Umsetzung des Hundegesetzes auszustatten.
+– Der Ausschuss für Grün, Naturschutz und Sport empfiehlt der Bezirksversammlung, die Finanzbehörde aufzufordern, den Hundekontrolldienst des Bezirksamtes Hamburg-Mitte mit ausreichenden Ressourcen für eine angemessene Kontrolle zur Umsetzung des Hundegesetzes auszustatten.
 
 iv) inwiefern wurde das Ziel „Beratungen über die Altonaer Hunde-
 

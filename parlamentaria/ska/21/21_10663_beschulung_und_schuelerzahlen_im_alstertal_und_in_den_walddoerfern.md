@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3866", "21/8007", "21/3796", "21/8541", "21/4408", "21/8830"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59562"
@@ -86,7 +87,7 @@ Wie viele Schüler wurden seit 2015 an den Grundschulen des Alstertals und der W
 
 Wie viele Schüler wurden seit 2015 an den Grundschulen des Alstertals und der Walddörfer aus welchen Gründen abgelehnt? Bitte für jedes Jahr und jede Schule einzeln sowie jeweils einmal insgesamt angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/3866 und Drs. 21/8541.
 
@@ -100,7 +101,7 @@ Wie viele Schüler sind seit 2015 an weiterführende Schulen im Alstertal und in
 
 Wie viele Schüler wurden seit 2015 an den weiterführenden Schulen des Alstertals und der Walddörfer aus welchen Gründen abgelehnt? Bitte für Stadtteilschulen und Gymnasien getrennt für jedes Jahr und jede Schule einzeln sowie jeweils einmal insgesamt angeben.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/3866, 21/4408 und 21/8830. Im Übrigen siehe Antwort zu 3.
 

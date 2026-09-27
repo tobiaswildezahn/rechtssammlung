@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 19
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2108", "21/16674"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67290"
@@ -209,7 +210,7 @@ Welche Angebote werden den Flüchtlingen zu jeweils welchen Zeiten in welchen R�
 
 Wie viele Ehrenamtliche sind eingesetzt und wie helfen sie?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Neben den Angeboten im naheliegenden Quartier Tegelsbarg finden in den Gruppenräumen vor Ort Angebote statt, siehe Anlage.
 

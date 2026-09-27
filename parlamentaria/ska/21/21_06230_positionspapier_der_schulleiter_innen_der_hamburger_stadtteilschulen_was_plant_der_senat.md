@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11526", "21/3760"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54757"
@@ -74,7 +75,7 @@ Wie beurteilt der Senat beziehungsweise die zuständige Behörde zum Beispiel de
 
 Wie beurteilt der Senat beziehungsweise die zuständige Behörde zum Beispiel den Vorschlag, den Stadtteilschulen wieder ein besonderes Anmeldeverfahren zu gestatten, nach dem sie über die jetzt geltenden Kriterien (Schulwegentfernung, Geschwisterregelung) hinaus nach einer bestimmten Quote bestimmte Schüler/-innen aufnehmen können? (Bitte sachlich sowie fachlich Stellung nehmen.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Überlegungen der zuständigen Behörde sind noch nicht abgeschlossen.
 
@@ -94,7 +95,7 @@ Ist der Senat beziehungsweise die zuständige Behörde der Auffassung, dass die 
 
 Wie bewertet der Senat beziehungsweise die zuständige Behörde das derzeitig geltende Lehrer-/-innenarbeitszeitmodell, insbesondere an den Stadtteilschulen, vor dem Hintergrund der wachsenden Aufgaben durch die schulische Inklusion? (Bitte sachlich sowie fachlich Stellung nehmen.) a. Sieht der Senat beziehungsweise die zuständige Behörde hier womöglich einen Nachsteuerungs-/überarbeitungsbedarf? Wenn ja, in welcher Weise etwa? (Bitte Überlegungen in Möglichkeiten und Strategien erläutern.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die zuständige Behörde hält das geltende Lehrerzeitmodell aufgrund seiner Flexibilität für gut geeignet, um auf verändernde Rahmenbedingungen zu reagieren. Jede zugewiesene Lehrerstelle enthält einen Anteil von 15 Prozent für Funktionsaufgaben. Das bedeutet, dass in einer Schule mit 100 Lehrkräften 15 dieser Lehrkräfte rechnerisch betrachtet komplett vom Unterricht befreit sind und sich ausschließlich mit allgemeinen Aufgaben der Schulverwaltung, -organisation und -entwicklung befassen könnten. Im Zusammenhang mit den Bedarfssteigerungen seit 2010 (siehe Vorbemerkung) haben so die Stadtteilschulen insgesamt 200 zusätzliche Stellen allein für solche Funktionszeiten erhalten. Mit diesen zusätzlichen Zuweisungen verfügen die Schulen über ausreichend Mittel, um neue Aufgaben bewältigen zu können.
 

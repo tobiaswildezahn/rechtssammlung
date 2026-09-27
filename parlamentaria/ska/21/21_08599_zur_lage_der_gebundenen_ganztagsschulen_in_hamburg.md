@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 22
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4866", "21/7679"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57320"
@@ -65,7 +66,7 @@ Haben sich die seitens des Senates beziehungsweise der zuständigen Behörde im 
 
 Bezogen auf Frage 3.: Wenn es Abweichungen von der geplanten Zügigkeit gab/gibt, welche Gründe lagen/liegen laut Senat beziehungsweise zuständiger Fachbehörde dafür jeweils vor? (Bitte pro Schuljahr einzeln nennen und erläutern sowie darlegen, ob diese Abweichungen auf Dauer vorlagen/vorliegen oder singulär beziehungsweise vorübergehend auftraten/auftreten.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die im Schulentwicklungsplan (SEPL) angenommene Zügigkeit ist keine exakte Voraussage für jedes Schuljahr. Teilweise handelt es auch um Zielzahlen, die erst in Zukunft erreicht werden sollen. Eine entsprechende Begründung ist im SEPL immer dann beschrieben, wenn mittelfristig eine Veränderung der Zügigkeit erwartet wird (siehe www.hamburg.de/schulentwicklungsplan/). Da weder die Schülerzahl in jedem Jahr identisch ist noch das Anwahlverhalten beim Wechsel von der Grundschule auf weiterführende Schulen exakt prognostiziert werden kann, bilden diese Werte Annahmen ab, die auf statistischen Daten und Erfahrungswerten zum Zeitpunkt der Erstellung beruhen. Abweichungen sind zum Beispiel durch stärker steigende Schülerzahlen begründet, da neue Wohnquartiere oder Nachverdichtungen in Wohngebieten entstanden sind, die zum Zeitpunkt der Erstellung des SEPL noch nicht absehbar waren. Gleiches gilt umgekehrt, wenn sich die Errichtung eines Wohngebiets verzögert. Bei den Stadtteilschulen mussten sich neu gegründete Schulen zunächst etablieren und die Anmeldezahlen steigen langsam an. Im Regelfall sind die Abweichungen im Anwahlverhalten von Schulen aber nicht monokausal und von daher auch nicht eindeutig erklärbar. Im Übrigen siehe Anlage 1.
 

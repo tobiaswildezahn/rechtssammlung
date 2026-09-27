@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4637", "21/4835"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53471"
@@ -136,11 +137,11 @@ Der Statistik-Service der Bundesagentur für Arbeit weist in der „Zeitreihe de
 
 Erwerbstätige erwerbsfähige Leistungsberechtigte (ELB) sind Personen, die Arbeitslosengeld II beziehen und zugleich ein Einkommen aus Erwerbstätigkeit erzielen. Die Differenzierung nach Einkommensgrößenklassen zeigt einen Rückgang in der Gruppe der erwerbstätigen ELB, die ein Einkommen aus abhängiger Beschäftigung im Minijobbereich erzielt haben. Hierfür kommen unter anderem folgende Erklärungen in Betracht:
 
-• Diese Menschen benötigen keine ergänzenden Hilfen mehr,
+– Diese Menschen benötigen keine ergänzenden Hilfen mehr,
 
-• erzielen ein höheres Einkommen oder
+– erzielen ein höheres Einkommen oder
 
-• sie sind nicht mehr erwerbstätig.
+– sie sind nicht mehr erwerbstätig.
 
 Dennoch ist diese Entwicklung ein Indiz für die positiven Effekte der Einführung des Mindestlohns.
 

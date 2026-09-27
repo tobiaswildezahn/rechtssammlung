@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 24
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67558"
@@ -127,7 +128,7 @@ Sind dem Senat die Tätergruppen bekannt, welche die Geräte entwendeten beziehu
 
 Wurden hinsichtlich der abhandengekommenen Geräte Strafverfahren und disziplinarrechtliche Verfahren gegen Bedienstete der Freien und Hansestadt Hamburg eingeleitet? Wenn ja, gegen wie viele Personen und hinsichtlich welcher Tatbestände? Wie viele dieser Verfahren laufen noch und/oder wie viele wurden eingestellt und welche Dienstelle führt diese Ermittlungen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Ermittlungen richten sich bezüglich der bei der Polizei Hamburg entwendeten Digitalfunkgeräte und Sicherheitskarten gegen zwei Polizeivollzugsbeamte der Polizei Hamburg wegen des Verdachts des gewerbsmäßigen Diebstahls mit Waffen gemäß §§ 242, 244 StGB und gewerbsmäßiger Hehlerei gemäß §§ 259, 260 StGB sowie gegen weitere acht Personen (keine Amtsträger) wegen des Verdachts der Hehlerei gemäß § 259 StGB beziehungsweise gewerbsmäßigen Hehlerei gemäß §§ 259, 260 StGB. Der Tatvorwurf der Hehlerei umfasst sowohl das An- als auch Verkaufen der entwendeten Digitalfunkgeräte und Sicherheitskarten. Die Ermittlungen dauern an.
 

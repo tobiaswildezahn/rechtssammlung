@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12934", "20/8651"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48265"
@@ -66,7 +67,7 @@ Wie viele Stellen sind aktuell der Rettungsleitstelle zugeordnet? Bitte in Vollz
 
 Wie viele Stellen beziehungsweise VZÄ sind in der Rettungsleitstelle nicht besetzt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Zur Rettungsleitstelle gehören 82 VZÄ, von denen aktuell 7,5 nicht besetzt sind. Im Übrigen plant die Feuerwehr im Jahr 2015 in sechs Lehrgängen jeweils acht Personen zu Rettungsleitstellenpersonal auszubilden, um bei Pensionierungen oder bei hohem Arbeitsanfall zusätzliches Personal einsetzen zu können.
 

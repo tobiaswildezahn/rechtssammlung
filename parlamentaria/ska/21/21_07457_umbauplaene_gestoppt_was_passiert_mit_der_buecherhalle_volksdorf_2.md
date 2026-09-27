@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6672"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56072"
@@ -63,7 +64,7 @@ Wie viele und welche weiteren Standorte für die Bücherhalle befinden sich derz
 
 Wie sind der genaue Sachstand sowie der Zeitplan der Standortüberlegungen und der baulichen Modernisierung der Bücherhalle in Volksdorf?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Derzeit wird ein Alternativstandort geprüft und über Konditionen einer Anmietung verhandelt. Im Übrigen sind die Planungen noch nicht abgeschlossen.
 

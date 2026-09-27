@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1948", "21/3969", "21/253", "21/4109", "21/1154"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52511"
@@ -67,7 +68,7 @@ Warum wurden die Hamburger Radfahrer nie zu Ihren Bedürfnissen befragt? Sollten
 
 Warum sind empirische Erhebungen nicht innerhalb des „Bündnisses für den Radverkehr“ vorgesehen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine repräsentative Befragung von Radfahrerinnen und Radfahrern wurde aufgrund von Prioritätensetzungen und des hierfür zu erwartenden Kostenaufwandes nicht
 
@@ -237,7 +238,7 @@ An welcher Stelle im Ranking vergleichbarer Großstädte in Deutschland steht Ha
 
 An welcher Stelle steht Hamburg im europäischen Vergleich ähnlicher Metropolen?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Es gibt unterschiedliche Städterankings zur Situation des Radverkehrs, in denen Hamburg auch unterschiedlich abschneidet. Unter anderem gehören dazu:
 

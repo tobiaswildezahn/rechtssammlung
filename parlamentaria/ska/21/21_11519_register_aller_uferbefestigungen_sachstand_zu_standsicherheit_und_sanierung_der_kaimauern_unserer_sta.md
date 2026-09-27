@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11101", "20/4388", "21/10826"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60694"
@@ -79,6 +80,6 @@ Anfang des letzten Monats gab es zu den Schäden im Bereich des Elbuferwanderweg
 
 Welche Sicherungsmaßnahmen beziehungsweise Reparaturvorhaben sind gegebenenfalls infolge derselben durch wen und wann vorgenommen worden beziehungsweise geplant?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/10826 und 21/11101.

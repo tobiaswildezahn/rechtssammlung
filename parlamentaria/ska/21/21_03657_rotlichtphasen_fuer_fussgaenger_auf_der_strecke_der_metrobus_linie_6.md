@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52038"
@@ -43,7 +44,7 @@ Gibt es auf der MetroBus-Strecke zwischen U-Bahn Borgweg und der Mundsburger Br�
 
 Gibt es Überlegungen des Senats, auf der Strecke zwischen U-Bahn Borgweg und Mundsburger Brücke die Rotlichtphasen für Fußgänger in Zukunft zu verändern? Wenn ja, um welche Fußgängerampeln handelt es sich und welche Gründe sind für die geplante(n) Änderung(en) ausschlaggebend? Wenn nein, weshalb sieht der Senat hier keinen Handlungsbedarf?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In dem genannten Abschnitt sind seit dem 30. Juni 2014 die Lichtsignalanlagen Mühlenkamp/Gertigstraße, Mühlenkamp/Körnerstraße, Mühlenkamp/Poelchaukamp, Hofweg/Averhoffstraße, Hofweg/Heinrich-Hertz-Straße und Hofweg/Zimmerstraße signaltechnisch erneuert worden.
 

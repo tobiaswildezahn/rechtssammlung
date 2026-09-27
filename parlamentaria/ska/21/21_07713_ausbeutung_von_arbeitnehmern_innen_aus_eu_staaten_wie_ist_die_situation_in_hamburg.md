@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 22
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5352", "21/5474", "21/7540"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56343"
@@ -77,7 +78,7 @@ Sind dem Senat Arbeitnehmerüberlassungen bekannt, die gemäß § 1 Absatz 1 Sat
 
 Welche Ausnahmen gemäß § 1 Absatz 3 sind dem Senat bei Kenntnis von Arbeitnehmerüberlassungen bekannt? Bitte nach Branchen und jeweiligen Bezirken auflisten.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Den Bundesbehörden Agentur für Arbeit Hamburg und Zoll sind entsprechende Arbeitnehmerüberlassungen nicht bekannt. Der zuständigen Landesbehörde liegen keine Erkenntnisse hierzu vor.
 
@@ -123,41 +124,41 @@ standungen bei den regulären Betriebsprüfungen gekommen ist oder im Rahmen von
 
 Gemäß 7.7. (3) der Geschäftsanweisung zum Arbeitnehmerüberlassungsgesetz konzentrieren sich die Prüfungen dabei auf folgende Schwerpunkte:
 
- Anwendung von Tarifverträgen im Sinne des § 3 Absatz 1 Nummer 3 (einschließ-
+– Anwendung von Tarifverträgen im Sinne des § 3 Absatz 1 Nummer 3 (einschließ-
 
 lich der Tarifverträge über Branchenzuschläge); ansonsten Einfordern des Gleichstellungsgrundsatzes (Equal Treatment/Equal Pay),
 
- korrekte Eingruppierung des Leiharbeitnehmers entsprechend der tatsächlich aus-
+– korrekte Eingruppierung des Leiharbeitnehmers entsprechend der tatsächlich aus-
 
 geübten Tätigkeit,
 
- Gewährung von Mindestlöhnen einschließlich Lohnuntergrenze in der Arbeitneh-
+– Gewährung von Mindestlöhnen einschließlich Lohnuntergrenze in der Arbeitneh-
 
 merüberlassung,
 
- Gewährung von Aufwendungsersatz,
+– Gewährung von Aufwendungsersatz,
 
- Vollständigkeit von Vertragsunterlagen (Arbeitsverträge, Zusatzvereinbarungen,
+– Vollständigkeit von Vertragsunterlagen (Arbeitsverträge, Zusatzvereinbarungen,
 
 Aufhebungsverträge, Arbeitnehmerüberlassungsverträge, Änderungen),
 
- Nachweis über Aushändigung des aktuellen Merkblattes der BA,
+– Nachweis über Aushändigung des aktuellen Merkblattes der BA,
 
- Beachtung der Regelungen des Teilzeitbefristungsgesetzes (TzBfG),
+– Beachtung der Regelungen des Teilzeitbefristungsgesetzes (TzBfG),
 
- korrekte Gewährung von Entgelt- und Entgeltersatzleistungen und von Urlaub
+– korrekte Gewährung von Entgelt- und Entgeltersatzleistungen und von Urlaub
 
 beziehungsweise Urlaubsabgeltung auch während Zeiten des Nichteinsatzes (Garantielohn),
 
- Auffälligkeiten hinsichtlich des Arbeitsschutzes, der Arbeitssicherheit, arbeitsmedi-
+– Auffälligkeiten hinsichtlich des Arbeitsschutzes, der Arbeitssicherheit, arbeitsmedi-
 
 zinische Untersuchungen (bei Feststellungen Weiterleitung an die zuständigen Landesbehörden),
 
- Abführung von Beiträgen zu allen Zweigen der Sozialversicherung,
+– Abführung von Beiträgen zu allen Zweigen der Sozialversicherung,
 
- Abführung der Lohnsteuer und
+– Abführung der Lohnsteuer und
 
- Beachtung der Bestimmungen der Ausländerbeschäftigung.
+– Beachtung der Bestimmungen der Ausländerbeschäftigung.
 
 Ein Teil der Prüfungen wird standardmäßig zusammen mit den Behörden des Zolls durchgeführt; weitere gemeinsame Prüfungen finden bei konkreten Verdachtsfällen statt.
 
@@ -181,7 +182,7 @@ Wie bewertet der Senat die prekären Lebens- und Arbeitsverhältnisse von Arbeit
 
 Welche Handlungsrichtlinien gibt es für die zuständigen Behörden/den Senat im Umgang mit europäischen Arbeitssuchenden? Bitte ausführlich erläutern.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Vorbemerkung.
 

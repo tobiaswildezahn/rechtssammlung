@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3113", "21/3834"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52255"
@@ -103,21 +104,21 @@ Welche Marketing-Maßnahmen unternimmt die HWF, um Unternehmen auf den Wirtschaf
 
 Im Rahmen der Unternehmensansiedlung arbeitet die HWF arbeitsteilig mit der Hamburg Marketing GmbH (HMG) zusammen. Während die HMG zum Beispiel durch internationale Pressearbeit sowie das deutsch- und englischsprachige Internetportal „Hamburg News“ allgemein über den Wirtschaftsstandort Metropolregion Hamburg informiert, steht das einzelne Unternehmen im Fokus der Marketing Maßnahmen der HWF. Hierzu zählen insbesondere:
 
- Internetauftritt der HWF in sieben Sprachen,
+– Internetauftritt der HWF in sieben Sprachen,
 
- Netzwerk der ehrenamtlichen Hamburg Ambassadors,
+– Netzwerk der ehrenamtlichen Hamburg Ambassadors,
 
- Repräsentanznetzwerk der HWF,
+– Repräsentanznetzwerk der HWF,
 
- Einzelansprache von Unternehmen auf internationalen Messen im In- und Ausland,
+– Einzelansprache von Unternehmen auf internationalen Messen im In- und Ausland,
 
- Kooperationen mit anderen Partnern des Hamburg Marketings,
+– Kooperationen mit anderen Partnern des Hamburg Marketings,
 
- Einzelansprache von Unternehmen im Rahmen von Akquisitionsreisen im Ausland,
+– Einzelansprache von Unternehmen im Rahmen von Akquisitionsreisen im Ausland,
 
- individuelle Ansprache von Unternehmen zum Beispiel per Brief,
+– individuelle Ansprache von Unternehmen zum Beispiel per Brief,
 
- individuelle Standortpräsentationen.
+– individuelle Standortpräsentationen.
 
 ### Frage 8
 

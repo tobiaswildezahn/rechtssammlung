@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6867"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60204"
@@ -101,7 +102,7 @@ Wie lange waren die verletzten Mitarbeiterinnen und Mitarbeiter jeweils nicht di
 
 Wie hoch sind die dem Dienstherrn durch die zugeführten Verletzungen im jeweiligen Einzelfall entstandenen Kosten?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Bei der Polizei gab es im Dezember 2016 insgesamt 337 verletzungsbedingte Ausfalltage, davon neun Tage aufgrund von Verletzungen durch Angriffe und 328 Tage aufgrund von Verletzungen auf andere Weise.
 
@@ -134,19 +135,19 @@ Welche Verbesserungen sind in seit 1. Dezember 2016 hinsichtlich der Fürsorgepf
 
 Die Polizei hat folgende Maßnahmen ergriffen:
 
- Anschaffung von Oberschenkelprotektoren zur Vervollständigung der Schutzaus-
+– Anschaffung von Oberschenkelprotektoren zur Vervollständigung der Schutzaus-
 
 stattung der Bereitschaftspolizei und der Unterstützungseinheiten in der Direktion Einsatz (DE 3), der Alarmabteilung Hamburg, der Spezialeinsatzkräfte des Landeskriminalamtes (LKA 24) sowie des Einsatzzuges der Wasserschutzpolizei. Die Protektoren bewirken bei Bewurf mit harten Gegenständen einen besseren Schutz vor Verletzungen.
 
- Seit dem 1. Oktober 2017 erfolgt an den Polizeikommissariaten 23 und 38 für die
+– Seit dem 1. Oktober 2017 erfolgt an den Polizeikommissariaten 23 und 38 für die
 
 Dauer von einem Jahr eine Pilotierung der sogenannten Außentragehülle für die ballistischen Schutzpakete der Unterziehweste (ATH).
 
- Die Möglichkeit der flexiblen Trageweise des Körperschutzes soll dessen Trage-
+– Die Möglichkeit der flexiblen Trageweise des Körperschutzes soll dessen Trage-
 
 komfort erhöhen. Ferner sieht die ATH mehrere Tragemöglichkeiten für Ausrüstungsgegenstände vor, die primär einer Entlastung der Hüfte dienen, aber auch einen variablen Zugriff auf Einsatzmittel erlauben sollen.
 
- Seit dem 2. Januar 2017 befindet sich die aktuelle Richtlinie Dienstunfall in Kraft.
+– Seit dem 2. Januar 2017 befindet sich die aktuelle Richtlinie Dienstunfall in Kraft.
 
 Die letzte Modifizierung beinhaltete als wesentlichen Aspekt die Aufnahme der „Psychosozialen Notfallversorgung für Einsatzkräfte der Polizei (PSNV-E)“. Die PSNV-E gewährleistet eine frühzeitige Krisenintervention in enger Zusammenarbeit mit den Polizeiseelsorgern, dem Sozialtherapeutischen Dienst sowie den Polizeipsychologen. Sie gilt somit als wichtige Nachsorgemaßnahme nach belastenden Einsatzsituationen.
 

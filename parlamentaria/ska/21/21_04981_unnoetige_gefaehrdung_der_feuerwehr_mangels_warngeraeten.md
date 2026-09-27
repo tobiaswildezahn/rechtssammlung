@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53427"
@@ -98,7 +99,7 @@ Falls nicht schon mit Frage 1. beantwortet, wie viele Kohlenstoffmonoxid-Warnger
 
 In welchen Wachen wird auch nach dieser zusätzlichen Ausstattung mit Kohlenstoffmonoxid-Warngeräten keine ausreichende Anzahl vorhanden sein, um für alle Einsätze genutzt werden zu können? Bitte begründen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 In der Vollausstattung werden 298 Eingasmessgeräte und 183 Mehrgasmessgeräte sowie 56 Kalibrierstationen an den Wachen der Feuerwehr vorgehalten.
 
@@ -112,7 +113,7 @@ Wann hat die Feuerwehr ihren Bedarf angemeldet?
 
 Wann hat die Behördenleitung den Bedarf bestätigt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Das Gasmesskonzept der Feuerwehr wurde im Januar 2015 der Behördenleitung vorgestellt, anschließend erfolgte die weitere Umsetzung.
 

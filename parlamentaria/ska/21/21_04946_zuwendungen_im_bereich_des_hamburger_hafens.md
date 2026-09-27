@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53391"
@@ -47,7 +48,7 @@ Welche finanziellen oder geldwerten Leistungen haben Verbände, Organisationen o
 
 In welchem Umfang sind Leistungen in 2016 vorgesehen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 
@@ -59,15 +60,15 @@ Hat die HPA im letzten Jahr Veranstaltungen Dritter unterstützt? a. Wenn ja, we
 
 Die HPA hat im Jahr 2015 Veranstaltungen Dritter lediglich im Rahmen ihres sozialen Engagements unterstützt. Die HPA engagiert sich in den vier Handlungsfeldern Dialog, Maritim, Umwelt und Bildung und hat hieraus folgende Veranstaltungen unterstützt:
 
- Die Veranstaltung „Altenwerder Klönschnack“ der St. Gertrudkirche wurde von der
+– Die Veranstaltung „Altenwerder Klönschnack“ der St. Gertrudkirche wurde von der
 
 HPA mit einer Spende von 500 Euro unterstützt. Seit der Auflösung des Dorfes Altenwerder und der Errichtung des Container Terminals Altenwerder (CTA) befindet sich die Kirche im Hafengebiet. Die Thomasgemeinde (als Rechtsnachfolgerin der Altenwerder Kirchengemeinde) und die HPA bemühen sich gemeinsam darum, dass die St. Gertrudkirche als Wahrzeichen an der Autobahn und im Hafen sichtbar bleibt und auch in Zukunft mit geistlichem Leben erfüllt ist.
 
- „Zeit für Zukunft“ ist eine gemeinnützige und ehrenamtliche Hamburger Organisati-
+– „Zeit für Zukunft“ ist eine gemeinnützige und ehrenamtliche Hamburger Organisati-
 
 on, in der sich erwachsene „Mentoren“ für Kinder als Begleiterinnen und Begleiter sowie Ansprechpartnerinnen und Ansprechpartner engagieren. Der Organisation wurde eine Barkassenfahrt durch den Hafen ermöglicht. Die Kosten in Höhe von 170 Euro netto wurden von der HPA übernommen.
 
- Das Sommerfest der St. Katharinen-Kirche wurde vom HPA Printservice mit dem
+– Das Sommerfest der St. Katharinen-Kirche wurde vom HPA Printservice mit dem
 
 Druck der Flyer und Plakate unterstützt. Die Kosten werden auf circa 200 Euro geschätzt.
 

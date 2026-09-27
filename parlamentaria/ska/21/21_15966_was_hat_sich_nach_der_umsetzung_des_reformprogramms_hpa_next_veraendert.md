@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65460"
@@ -59,7 +60,7 @@ Wie viele Stellen wurden seit dem 1.1.2016 neubesetzt, verschoben, gestrichen od
 
 In wie vielen Fällen kam es seit dem 1.1.2016 zu Änderungen des Anstellungs- beziehungsweise Beschäftigungsverhältnisses (zum Beispiel Wechsel von Voll- zu Teilzeit oder Ähnliches) und aus welchen Gründen? Bitte jeweilige Ämter/Abteilungen/Bereiche und konkreten Zeitpunkt nennen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Bei dem Großteil der Änderungen handelt es sich um Arbeitszeitveränderungen (Elternzeit, Freistellungsphasen im Rahmen von Teilzeitmodellen („Sabbatical“), Altersteilzeit sowie Aufstockung und Reduzierung von Arbeitszeit), Besetzung von internen Stellenausschreibungen und Entfristungen. Eine detailliertere Darstellung würde die Prüfung jedes Einzelfalles erfordern (monatlich circa 30 – 50 Vorgänge). Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden nicht möglich. Im Übrigen siehe Vorbemerkung.
 

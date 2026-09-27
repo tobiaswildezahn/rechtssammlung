@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14517", "21/5000", "21/3283"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54592"
@@ -43,7 +44,7 @@ Wie weit sind die Arbeiten zum Online-System fortgeschritten? Was wurde bisher g
 
 Wann wird mit einem ersten Prototyp der Plattform zu rechnen sein und wann wird sie endgültig verfügbar sein?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die strategische Weiterentwicklung der Hamburg Open Online University wird in den kommenden Jahren (in der Phase 2017 – 2018) auf Basis des laufenden Vorprojektes (2015 – 2016) betrieben. Im Übrigen siehe Drs. 21/3283.
 
@@ -74,7 +75,7 @@ Wird weiterhin eine eigene Plattform entwickelt?
 
 Wurden und werden auch bereits verfügbare Softwarelösungen geprüft? Wenn nein, warum nicht, wenn ja, mit welchem Ergebnis?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Ja, es wird eine Plattform entwickelt, die auf bestehende Open Source Lösungen zurückgreift, diese anpasst und miteinander kombiniert, um nicht von Grund auf neue Lösungen zu erschaffen.
 

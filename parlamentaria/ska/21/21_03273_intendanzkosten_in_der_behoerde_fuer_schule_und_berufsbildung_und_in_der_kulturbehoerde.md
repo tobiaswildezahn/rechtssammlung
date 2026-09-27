@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2992", "20/12711"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51636"
@@ -57,7 +58,7 @@ Wie haben sich diese Bezugsgrößen seit 2014 entwickelt? Bitte quartalsweise an
 
 Welche konkrete Berechnung auf der Basis dieser Bezugsgrößen liegt der Kennzahl B_238_01_004 im Einzelplan 3.1 zugrunde? Wie hat sich der Wert dieser Kennzahl seit 2014 entwickelt? Bitte quartalsweise angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 2014  
 1. Quartal  
@@ -127,7 +128,7 @@ Wie haben sich diese Bezugsgrößen seit 2014 entwickelt? Bitte quartalsweise an
 
 Welche konkrete Berechnung auf der Basis dieser Bezugsgrößen liegt der Kennzahl B_250_01_004 im Einzelplan 3.3 zugrunde? Wie hat sich der Wert dieser Kennzahl seit 2014 entwickelt? Bitte quartalsweise angeben.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 2014  
 1. Quartal  

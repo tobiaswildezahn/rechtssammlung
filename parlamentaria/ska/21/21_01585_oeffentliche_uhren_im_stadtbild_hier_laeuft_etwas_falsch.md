@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49812"
@@ -47,7 +48,7 @@ Wie viele öffentliche Uhren sind den zuständigen Behörden im Hamburger Stadtb
 
 Wer betreibt diese Uhren und ist für die Wartung zuständig?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Uhren auf den Bahnhöfen und Stationen der DB AG werden von einem internen Dienstleister betrieben und gewartet. Jeder Bahnhof beziehungsweise jede Station hat mindestens eine Uhr im Zugangsbereich beziehungsweise auf dem Bahnsteig. Die HOCHBAHN betreibt und wartet derzeit 512 Uhren auf oder an den U-Bahnhöfen und Busumsteigeanlagen.
 

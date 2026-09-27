@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51373"
@@ -49,7 +50,7 @@ Wie viele Mitglieder wurden in den Jahren 2011 – 2015 neu gewählt? (Bitte nac
 
 Welche Mitglieder wurden in den Jahren 2011 – 2015 neu gewählt und aus welchen Gründen? (Bitte namentlich und mit Haupttätigkeit benennen.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zur Wahl der Vertreterinnen und Vertreter der Arbeitnehmerseite sowie zur Berufung der Senatsvertreter siehe Anlage 1.
 
@@ -392,73 +393,73 @@ Anlage 3
 
 Person Unternehmen Senator Dr. Peter Tschentscher
 
-  
+–  
 HafenCity Hamburg GmbH  
-  
+–  
 ReGe Hamburg Projekt-  
 Realisierungsgesellschaft mbH  
-  
+–  
 Hamburgische Investitions- und Förderbank  
 AöR  
 Senatorin Dr. Dorothee Stapelfeldt
 
-  
+–  
 Hamburg Marketing GmbH  
-  
+–  
 HafenCity Hamburg GmbH  
-  
+–  
 SAGA Siedlungs-Aktiengesellschaft Hamburg  
-  
+–  
 Hamburgische Investitions- und Förderbank  
 AöR  
 Senator Jens Kerstan  
-  
+–  
 HafenCity Hamburg GmbH  
-  
+–  
 Hamburger Stadtentwässerung AöR  
-  
+–  
 Hamburger Wasserwerke GmbH  
-  
+–  
 Hamburg Energie GmbH  
-  
+–  
 Hamburgische Investitions- und Förderbank  
 AöR (Ersatzmitglied)  
-  
+–  
 Stromnetz Hamburg GmbH  
-  
+–  
 Vattenfall Wärme GmbH  
 Staatsrat Dr. Rolf Bösinger  
-  
+–  
 Erneuerbare Energien Hamburg Clusteragentur GmbH  
-  
+–  
 HWF Hamburgische Gesellschaft für Wirtschaftsförderung mbH  
-  
+–  
 Hamburgische Investitions- und Förderbank  
 AöR  
-  
+–  
 Life Science Nord Management GmbH  
-  
+–  
 Wirtschaftsförderung und Technologietransfer  
 Schleswig-Holstein GmbH (Unternehmen  
 Schleswig-Holsteins)  
-  
+–  
 Zentrum für Angewandte Luftfahrtforschung  
 GmbH  
 Antonia Aschendorf  
-  
+–  
 Hamburger Friedhöfe AöR  
-  
+–  
 Perspektiv-Kontor Hamburg GmbH  
-  
+–  
 Grundeigentümer Versicherung VVaG  
-  
+–  
 Talanx AG  
 Prof. Dr. Birgit K. Peters  
 Keine  
 Julia Wöhlke  
-  
+–  
 Fielmann AG  
-  
+–  
 Hamburger Volksbank eG  
 Rolf Hentschel  
 Keine  
@@ -467,49 +468,49 @@ Keine
 Karl-Heinz Ehlers  
 Keine  
 Berthold Bose  
-  
+–  
 Generali Deutschland AG  
 Andreas Bahn  
-  
+–  
 Hapag Lloyd AG  
-  
+–  
 HHLA Container Terminals GmbH  
 Torsten Ballhause  
-  
+–  
 Hamburger Hafen und Logistik AG  
-  
+–  
 HHLA Container Terminals GmbH  
 Dirk Bestmann  
-  
+–  
 VDV-Kernapplikations-Verwaltungsgesellschaft  
 mbH  
-  
+–  
 ZOB Hamburg GmbH  
 Silke Kobow  
 Keine  
 Frank Ladwig  
-  
+–  
 Hamburger Hafen und Logistik AG  
-  
+–  
 HHLA Container Terminals GmbH  
 Thomas Mendrizk  
-  
+–  
 HHLA Container Terminals GmbH  
-  
+–  
 HHLA Container Terminal Altenwerder GmbH  
-  
+–  
 SCA Service Center Altenwerder GmbH  
 Thomas Scheel  
-  
+–  
 Verkehrsbetriebe Hamburg Holstein GmbH
 
 Person  
 Unternehmen  
 Torben Bartels  
-  
+–  
 Hamburger Wasserwerke GmbH  
 Horst-Hermann Schulz  
-  
+–  
 Bäderland Hamburg GmbH
 
 Anlage 4

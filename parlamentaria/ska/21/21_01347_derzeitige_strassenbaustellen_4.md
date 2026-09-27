@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12800"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49549"
@@ -75,6 +76,6 @@ Bei welchen dieser Baustellen wurde bei der Genehmigung eine maximale Dauer der 
 
 Bei welchen dieser Baustellen war die KOST mit der Koordination befasst? Falls dies bei einigen Baustellen nicht der Fall war: warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 20/12800.

@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 53467
 seiten: 9
 fragen: 3
-einzelfragen: 3
-antwortbloecke: 3
+einzelfragen: 15
+antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58446"
@@ -44,57 +45,91 @@ Dies vorausgeschickt, beantwortet der Senat die Fragen teilweise auf Grundlage v
 ### Frage 1
 
 Jahresabschluss 2016 von f&w:
-1.1. Wie hoch war das Jahresergebnis von f&w im Geschäftsjahr 2016?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Wie hoch war das Jahresergebnis von f&w im Geschäftsjahr 2016?
+
+#### Antwort zu Fragen 1 und 1.1
 
 Der Jahresüberschuss im Geschäftsjahr 2016 betrug 9.876.371,32 Euro.
 
-1.2. Wie hoch waren das Anlagevermögen sowie die Bilanzsumme von f&w am 31.12.2016?
+### Frage 1.2
+
+Wie hoch waren das Anlagevermögen sowie die Bilanzsumme von f&w am 31.12.2016?
+
+#### Antwort zu Frage 1.2
 
 Das Anlagevermögen belief sich zum 31.12.2016 auf 612.710.501,04 Euro (einschließlich Rückdeckungsansprüche aus Versorgungsleistungen – HVF).
 
 Die Bilanzsumme betrug zum 31.12.2016 731.442.981,87 Euro.
 
-1.3. Wie hoch waren das Eigenkapital sowie die Verbindlichkeiten gegenüber Kreditinstituten von f&w am 31.12.2016?
+### Frage 1.3
+
+Wie hoch waren das Eigenkapital sowie die Verbindlichkeiten gegenüber Kreditinstituten von f&w am 31.12.2016?
+
+#### Antwort zu Frage 1.3
 
 Das Eigenkapital betrug zum 31.12.2016 58.672.209,76 Euro.
 
 Die Verbindlichkeiten gegenüber Kreditinstituten beliefen sich zum 31.12.2016 auf 229.797.150,21 Euro.
 
-1.4. Wie hoch waren die kurzfristigen Forderungen sowie die kurzfristigen Verbindlichkeiten von f&w gegenüber der Freien und Hansestadt am 31.12.2016?
+### Frage 1.4
+
+Wie hoch waren die kurzfristigen Forderungen sowie die kurzfristigen Verbindlichkeiten von f&w gegenüber der Freien und Hansestadt am 31.12.2016?
+
+#### Antwort zu Frage 1.4
 
 Die kurzfristigen Forderungen gegenüber der Freien und Hansestadt betrugen zum
 31.12.2016 74,985.657,36 Euro.
 
 Die kurzfristigen Verbindlichkeiten gegenüber der Freien und Hansestadt betrugen zum 31.12.2016 124.560.543,00 Euro.
 
-1.5. Wie hoch waren am 31.12.2016 die nicht zu passivierenden sonstigen finanziellen Verpflichtungen aus von f&w abgeschlossenen längerfristigen Verträgen?
+### Frage 1.5
+
+Wie hoch waren am 31.12.2016 die nicht zu passivierenden sonstigen finanziellen Verpflichtungen aus von f&w abgeschlossenen längerfristigen Verträgen?
+
+#### Antwort zu Frage 1.5
 
 Die sonstigen finanziellen Verpflichtungen betrugen zum 31.12.2016 502.700.000,00 Euro.
 
-1.6. In welcher Höhe und für jeweils welche Standorte waren bei f&w am
+### Frage 1.6
+
+In welcher Höhe und für jeweils welche Standorte waren bei f&w am
 31.12.2016 Rückstellungen für vertraglich eingegangene Rückbauund Modernisierungsverpflichtungen gebildet?
+
+#### Antwort zu Frage 1.6
 
 Die Rückstellungen für Rückbauverpflichtungen betrugen zum 31.12.2016 insgesamt
 10.867.813,24 Euro. Zur Einzelaufstellung für die einzelnen Standorte siehe Anlage 1.
 
 Die Instandhaltungsverpflichtungen betrugen zum 31.12.2016 insgesamt 1.678.150,42 Euro. Zur Einzelaufstellung für die einzelnen Standorte siehe Anlage 2.
 
-1.7. Wie hoch waren die Auszahlungen für Investitionen bei f&w im Jahr 2016?
+### Frage 1.7
+
+Wie hoch waren die Auszahlungen für Investitionen bei f&w im Jahr 2016?
+
+#### Antwort zu Frage 1.7
 
 Die Auszahlungen für Investitionen bei f&w betrugen im Jahr 2016 187.915.639,15 Euro.
 
 ### Frage 2
 
 Kreditaufnahme von f&w:
-2.1. Wie ist das genaue Fälligkeitsprofil der bei f&w aufgenommenen Kreditverbindlichkeiten?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Wie ist das genaue Fälligkeitsprofil der bei f&w aufgenommenen Kreditverbindlichkeiten?
+
+#### Antwort zu Fragen 2 und 2.1
 
 Zum Fälligkeitsprofil der von f & w aufgenommenen Kreditverbindlichkeiten siehe Anlage 3.
 
-2.2. Welche weiteren Kreditaufnahmen sind inzwischen bei f&w erfolgt oder geplant? In welcher Höhe und für welche Laufzeiten wurden im Jahr 2017 Kreditverträge abgeschlossen?
+### Frage 2.2
+
+Welche weiteren Kreditaufnahmen sind inzwischen bei f&w erfolgt oder geplant? In welcher Höhe und für welche Laufzeiten wurden im Jahr 2017 Kreditverträge abgeschlossen?
+
+#### Antwort zu Frage 2.2
 
 Im Jahr 2015 erfolgte eine Kreditaufnahme in Höhe von 100 Millionen Euro.
 
@@ -102,30 +137,43 @@ Im Jahr 2016 erfolgte eine Kreditaufnahme in Höhe von 150 Millionen Euro.
 
 Im Jahr 2017 ist noch keine Kreditaufnahme erfolgt. Es ist eine Kreditaufnahme in Höhe von 80 Millionen Euro geplant.
 
-2.3. Gab es im Jahr 2017 bereits Bürgschaftszusagen der Freien und Hansestadt Hamburg für Kreditaufnahmen von f&w?
+### Frage 2.3
 
-Wenn ja, wann und in welcher Höhe?
+Gab es im Jahr 2017 bereits Bürgschaftszusagen der Freien und Hansestadt Hamburg für Kreditaufnahmen von f&w? Wenn ja, wann und in welcher Höhe?
+
+#### Antwort zu Frage 2.3
 
 Nein.
 
 ### Frage 3
 
 Ausblick 2017/2018:
-3.1. Mit welchem Umsatz und mit welchen Jahresergebnissen wird bei f&w in den Jahren 2017 und 2018 gerechnet?
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+Mit welchem Umsatz und mit welchen Jahresergebnissen wird bei f&w in den Jahren 2017 und 2018 gerechnet?
+
+#### Antwort zu Fragen 3 und 3.1
 
 Für das Jahr 2017 ist ein Umsatz von 299 Millionen Euro geplant. Das geplante Jahresergebnis für das Jahr 2017 beträgt 3 Millionen Euro. Im Übrigen siehe Vorbemerkung.
 
 Der Wirtschaftsplan für das Jahr 2018 ist noch nicht aufgestellt.
 
-3.2. In welcher Höhe werden zum Jahresende 2017 und zum Jahresende 2018 bei f&w Verbindlichkeiten gegenüber Kreditinstituten erwartet?
+### Frage 3.2
+
+In welcher Höhe werden zum Jahresende 2017 und zum Jahresende 2018 bei f&w Verbindlichkeiten gegenüber Kreditinstituten erwartet?
+
+#### Antwort zu Frage 3.2
 
 Zum Jahresende 2017 sind Verbindlichkeiten gegenüber Kreditinstituten in Höhe von 253 Millionen Euro geplant.
 
 Die voraussichtlichen Verbindlichkeiten gegenüber Kreditinstituten betragen zum Jahresende 2018 253 Millionen Euro.
 
-3.3. Welche Auszahlungen für Investitionen sind in den Jahren 2017 und 2018 bei f&w derzeit geplant?
+### Frage 3.3
+
+Welche Auszahlungen für Investitionen sind in den Jahren 2017 und 2018 bei f&w derzeit geplant?
+
+#### Antwort zu Frage 3.3
 
 Im Jahr 2017 sind Auszahlungen für Investitionen in Höhe von 158 Millionen Euro geplant. Die voraussichtlichen Auszahlungen für Investitionen im Jahr 2018 betragen 34 Millionen Euro.
 

@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 25
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66753"
@@ -43,7 +44,7 @@ Im B-Plan Winterhude 18 verbindet die Brücke zwei öffentliche Parkanlagen. Wie
 
 Befinden sich die Grundstücke, die der Parkanlage zugerechnet werden, mittlerweile in öffentlicher Hand?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Parkanlage auf der westlichen Seite des Mühlenkampkanals ist vorhanden und wird zurzeit vervollständigt. Die Grundstücke befinden sich in öffentlicher Hand. Die ursprünglich vorgesehene Parkanlage auf der östlichen Seite ist nicht mehr geplant. Seit 2005 ist hier im Bebauungsplan Winterhude 31 ein Kerngebiet ausgewiesen, um dort unter anderem die historischen Industriebauten zu sichern. Die im Bebauungsplan dargestellte Brücke kann durch ein festgesetztes Gehrecht durch dieses Kerngebiet an das öffentliche Wegenetz angebunden werden.
 
@@ -63,7 +64,7 @@ Wann wird mit der Realisierung der Fußgängerbrücke über den Mühlenkampkanal
 
 Welche Haushaltsmittel hat der Senat für die Umsetzung des Brückenbaus im Haushalt vorgesehen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Eine Realisierung der Fußgängerbrücke ist derzeit nicht absehbar.
 
@@ -117,7 +118,7 @@ Gibt es aus Sicht des Senats andere Möglichkeiten, wie zum Beispiel Änderungen
 
 Welche Alternativen wurden darüber hinaus geprüft und was waren jeweils die Ergebnisse der Prüfungen?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Grundsätzlich wäre eine Änderung des B-Plans möglich. Aufgrund der bisherigen Haltung der Grundeigentümer wäre dies aber nicht erfolgversprechend.
 

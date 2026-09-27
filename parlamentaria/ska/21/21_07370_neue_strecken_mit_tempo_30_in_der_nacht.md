@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5614"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55989"
@@ -165,7 +166,7 @@ Welche wissenschaftlichen Untersuchungen gab es bezogen auf diese Strecken zu de
 
 Wer hat diese Untersuchungen durchgeführt und welches Ergebnis hatten sie?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Ein aus Vertretern der Behörde für Wirtschaft, Verkehr und Innovation (BWVI), der Behörde für Umwelt und Energie (BUE) und der Behörde für Inneres und Sport (BIS) sowie des öffentlichen Personennahverkehrs (ÖPNV) gebildeter Arbeitskreis hat unter Federführung der BWVI mit Unterstützung eines Ingenieurbüros alle Straßen, die im Lärmaktionsplan 2013 (Stufe 2) als die 40 lautesten Straßen Hamburgs identifiziert wurden, systematisch auf eine nächtliche Geschwindigkeitsreduktion im Rahmen einer abgestimmten Vorgehensweise überprüft.
 

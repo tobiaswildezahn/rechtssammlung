@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4500", "20/8997"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53333"
@@ -55,7 +56,7 @@ Warum werden auf die Fragen 1. (nach Hinweisschildern zu unebenen Gehwegen) und 
 
 Lagen/liegen dem Senat beziehungsweise der zuständigen Behörde und/oder den jeweiligen Bezirksämtern wirklich keine Daten für die Bezirke Altona, Harburg, Mitte und Nord zur Beantwortung der Fragen 1. und 4. aus Drs. 21/4500 vor? Wenn ja, worin liegt der unterschiedliche Datenbestand genau begründet? Wenn nein, bitte die entsprechenden, bislang fehlenden Daten im Sinne der Fragen 1. und 4. aus Drs. 21/4500 beigefügen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Diese Daten werden statistisch nicht regelhaft erfasst. Die gemeldeten Daten der Bezirksämter Bergedorf, Eimsbüttel und Wandsbek sind in der Drs. 21/4500 dargestellt.
 
@@ -73,7 +74,7 @@ Warum werden auf die Frage 2. (nach Unfällen aufgrund unebener und kaputter Geh
 
 Lagen/liegen dem Senat beziehungsweise der zuständigen Behörde und/oder den jeweiligen Bezirksämtern wirklich keine Daten für die Bezirke Altona, Nord und Wandsbek zur Beantwortung der Frage 2. aus Drs. 21/4500 vor? Wenn ja, worin liegt der unterschiedliche Datenbestand genau begründet? Wenn nein, bitte die entsprechenden, bislang fehlenden Daten im Sinne der Frage 2. aus Drs. 21/4500 beigefügen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Diese Daten werden statistisch nicht regelhaft erfasst. Die gemeldeten Daten der Bezirksämter Bergedorf, Eimsbüttel und Wandsbek sind in der Drs. 21/4500 dargestellt.
 

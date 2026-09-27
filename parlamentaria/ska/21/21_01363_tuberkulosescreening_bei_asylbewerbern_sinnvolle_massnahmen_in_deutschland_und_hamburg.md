@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49558"
@@ -141,7 +142,7 @@ Welche anderen Maßnahmen zum Schutz des unmittelbaren Umfeldes sind getroffen w
 
 Welche anderen Maßnahmen zum Schutz der Allgemeinheit sind getroffen worden?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Schutzmaßnahmen richten sich nach den neuen Empfehlungen für die Umgebungsuntersuchungen bei Tuberkulose des Deutschen Zentralkomitees zur Bekämpfung der Tuberkulose und nach den Empfehlungen des RKI-Ratgebers für Ärzte (TB).
 

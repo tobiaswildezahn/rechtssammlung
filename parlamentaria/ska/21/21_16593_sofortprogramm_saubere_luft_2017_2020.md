@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16460"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66129"
@@ -53,6 +54,6 @@ Für welche Projekte außer „dem digitalen Radverkehrs-Zählnetz mit optischen
 
 Für welche Projekte außer „dem digitalen Radverkehrs-Zählnetz mit optischen Sensoren an Laternenmasten“ wurden beim Bund Förderungen im Sofortprogramm „Saubere Luft 2017 – 2020“ bewilligt? Bitte aufschlüsseln nach Projektname, Ort, Zeitpunkt der Beantragung, Zeitpunkt der Bewilligung, Gesamtkosten des Projekts und Höhe der Förderung aus dem Sofortprogramm „Saubere Luft 2017 – 2020“.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Anlage sind alle beantragten und bewilligten Projektvorhaben der Freien und Hansestadt Hamburg (FHH) für das Sofortprogramm „Saubere Luft“ (Digitalisierung kommunaler Verkehrssysteme, Informationen dazu unter: https://www.bmvi.de/ SharedDocs/DE/Artikel/DG/sofortprogramm-saubere-luft-2017-2020.html) zu entnehmen. Im Übrigen siehe Vorbemerkung.

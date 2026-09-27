@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60149"
@@ -95,7 +96,7 @@ Wie viele und welche Bäume welchen Durchmessers müssen nunmehr für die Realis
 
 Wie viele Knickwälle müssen auf welche Weise nunmehr für die Realisierung der Gewerbegebiete und Bauarbeiten entfernt werden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Nach dem derzeitigen Entwurfsstand des Plankonzepts zum Bebauungsplan Rahlstedt 131 bleibt mit circa 1.800 laufenden Metern Knick der größte Teil der vorhandenen Knickstrukturen mit ihrem Strauch- und Baumbestand erhalten und wird in das Plankonzept integriert. Etwa 1.370 laufende Meter Knick müssen für die Planung entfernt werden, werden aber innerhalb des Plangebietes durch neue Knicks ersetzt. Eine Einzelerhebung des Vegetationsbestandes innerhalb der Knicks ist daher nicht erfolgt.
 

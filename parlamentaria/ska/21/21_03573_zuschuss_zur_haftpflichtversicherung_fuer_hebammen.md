@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51925"
@@ -81,17 +82,17 @@ Welche Unterlagen und Informationen müssen Hebammen dem GKV- Spitzenverband vor
 
 Laut Anlage 1.4 zum Vertrag nach § 134a SGB V sind folgende Unterlagen beim GKV-Spitzenverband vorzulegen:
 
- Eidesstattliche Versicherung, dass sämtliche Angaben und Nachweise vollständig
+– Eidesstattliche Versicherung, dass sämtliche Angaben und Nachweise vollständig
 
 sind
 
- Nachweis über die Erbringung und Abrechnung einer geburtshilflichen Leistung
+– Nachweis über die Erbringung und Abrechnung einer geburtshilflichen Leistung
 
- Nachweis des Haftpflichtversicherungsunternehmens über den Versicherungszeit-
+– Nachweis des Haftpflichtversicherungsunternehmens über den Versicherungszeit-
 
 raum
 
- Qualitätsnachweis gemäß Qualitätsvereinbarung
+– Qualitätsnachweis gemäß Qualitätsvereinbarung
 
 ### Frage 6
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54902"
@@ -45,7 +46,7 @@ Wann wurde die oben genannte Demonstration angemeldet?
 
 Was war Gegenstand dieser Versammlung? Bitte den genauen Wortlaut der Anmeldung nennen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Aufzug wurde durch eine Privatperson am 10. Oktober 2016 unter dem Tenor „Ashura-Marsch!“ bei der Versammlungsbehörde angemeldet.
 

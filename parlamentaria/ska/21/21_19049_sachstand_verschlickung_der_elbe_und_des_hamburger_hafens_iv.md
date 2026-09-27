@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14960"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68755"
@@ -65,7 +66,7 @@ Welche Kosten sind in Hamburg bisher insgesamt im laufenden Jahr 2019 für die S
 
 Mit welchen Gesamtkosten für die Schlickbaggerei rechnet der Senat beziehungsweise die zuständige Behörde bis Ende 2019 und wie viel davon wird schätzungsweise auf die Umlagerungsbaggerei zur Tonne E3 zurückfallen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/14960.
 
@@ -77,7 +78,7 @@ Welche Maßnahmen wurden jeweils wie häufig in den ersten drei Quartalen 2019 s
 
 Welche Saugbagger beziehungsweise sonstigen Bagger wurden in den ersten drei Quartalen 2019 für jeweils wie lange in welchen Hafenbereichen und darüber hinaus eingesetzt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 In den ersten drei Quartalen 2019 wurden folgende Baggergeräte für Maßnahmen der Wassertiefeninstandhaltung eingesetzt:
 

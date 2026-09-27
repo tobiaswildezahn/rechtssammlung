@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/578"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49757"
@@ -203,7 +204,7 @@ Wodurch ergibt sich im Einzelnen der Rückstau bei der Herrichtung der Gehwegüb
 
 Wie viele Gehwegüberfahrten wurden jeweils in den Jahren 2013, 2014 sowie im ersten Halbjahr 2015 durch das Bezirksamt Wandsbek hergestellt?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Hergestellte Gehwegüberfahrten:
 

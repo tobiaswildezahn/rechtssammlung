@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3734"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56286"
@@ -51,7 +52,7 @@ Wie ist der aktuelle Erreichungsgrad der Feuerwehr Hamburg? Bitte erläutern.
 
 Wie haben sich die Zielerreichungsgrade 2016 entwickelt? Bitte monatsweise angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 2016  
 Schutzzielerreichungsgrad  
@@ -94,21 +95,21 @@ Welche konkreten Maßnahmen zur weiteren Steigerung der Zielerreichungsgrade sin
 
 Nachstehende konkrete Maßnahmen befinden sich derzeit in der Umsetzung beziehungsweise in der Planung:
 
- Einstellungsmaßnahmen Feuerwehr bis 2021
+– Einstellungsmaßnahmen Feuerwehr bis 2021
 
- Neubau Portalwachen A7
+– Neubau Portalwachen A7
 
- Neubau Feuerwehr Schnelsen
+– Neubau Feuerwehr Schnelsen
 
 Die Feuerwehr prüft zurzeit:
 
- Die Optimierung der Funktionsbesetzung bei tagesaktuellen Ausfallsituationen
+– Die Optimierung der Funktionsbesetzung bei tagesaktuellen Ausfallsituationen
 
- Die Optimierung der Ausrückzeiten durch bauliche Maßnahmen an den Feuer- und
+– Die Optimierung der Ausrückzeiten durch bauliche Maßnahmen an den Feuer- und
 
 Rettungswachen
 
- Die Einführung einer Bereitschaftsfeuerwehr
+– Die Einführung einer Bereitschaftsfeuerwehr
 
 Darüber hinaus wird in einem ständigen Prozess evaluiert, wie die Tagesverfügbarkeit der Freiwilligen Feuerwehr optimiert werden kann.
 

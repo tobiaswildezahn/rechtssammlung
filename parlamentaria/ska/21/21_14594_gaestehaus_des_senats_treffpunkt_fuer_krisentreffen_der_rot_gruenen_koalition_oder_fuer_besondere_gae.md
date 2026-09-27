@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["16/2751"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64030"
@@ -59,13 +60,13 @@ bestimmter Projekte dienen oder zu Ehren eines bestimmten Anlasses/einer bestimm
 
 mindestens zehn Jahre Abstand zum letzten Empfang liegen, es sich um zehn, 25, 50 oder 75 Jahre (und so weiter) handelt und die Vereine, Firmen, Institutionen et cetera darüber hinaus mindestens eine der folgenden Voraussetzungen erfüllen:
 
- ist von hamburgweitem oder bundespolitischem Interesse,
+– ist von hamburgweitem oder bundespolitischem Interesse,
 
- steht in einem direkten Zusammenhang mit den Schwerpunkten der Senatspoli-
+– steht in einem direkten Zusammenhang mit den Schwerpunkten der Senatspoli-
 
 tik,
 
- verfolgt einen Benefizzweck/gemeinnützigen Zweck, der mindestens hamburg-
+– verfolgt einen Benefizzweck/gemeinnützigen Zweck, der mindestens hamburg-
 
 weit von besonderem Interesse ist.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67773"
@@ -189,15 +190,15 @@ Im Arbeitsrecht können Er- und Abmahnungen nach drei Jahren auf Antrag des Betr
 
 Im Zeitraum 1. Januar 2015 bis 26. August 2019 wurden beim Dezernat Interne Ermittlungen (DIE) in insgesamt 72 Fällen, davon
 
- 37 Fälle wegen des Verdachts der Verletzung von Privatgeheimnissen gemäß §
+– 37 Fälle wegen des Verdachts der Verletzung von Privatgeheimnissen gemäß §
 
 203 Strafgesetzbuch (StGB),
 
- 28 Fällen wegen des Verdachts der Verletzung des Dienstgeheimnisses und einer
+– 28 Fällen wegen des Verdachts der Verletzung des Dienstgeheimnisses und einer
 
 besonderen Geheimhaltungspflicht gemäß § 353b StGB,
 
- 7 Fälle wegen des Verdachts der Bestechlichkeit gemäß § 332 StGB
+– 7 Fälle wegen des Verdachts der Bestechlichkeit gemäß § 332 StGB
 
 ermittelt. Zu den von der Justizbehörde hierzu übermittelten Erkenntnissen zu den Verfahrensausgängen siehe Anlage.
 
@@ -209,7 +210,7 @@ Welche technischen Mechanismen bestehen bei den jeweiligen polizeilichen Auskunf
 
 Inwieweit erfolgt eine Kontrolle, ob Zugriffe auf polizeiliche Auskunftssysteme ausschließlich zu dienstlichen Zwecken erfolgt? Bitte Art, Turnus und Umfang der Kontrollen angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Auskunftssysteme im Sinne der Fragestellung sind für die Polizei das von den Einwohnerzentralämtern geführte „Einwohnermeldesystem“ (EWO), das beim Kraftfahrtbundesamt geführte „Zentrales Fahrzeugregister“ (ZFZR/ZEVIS) und das „Polizeiliche Auskunftssystem“ (POLAS/INPOL). Bei jedem Zugriff auf von der Polizei genutzte Auskunftssysteme werden das Datum, die Uhrzeit und die abgefragten Daten sowie die vom Dienstausweis automatisiert ausgelesene individuelle Dienstnummer des jeweils abfragenden Mitarbeiters protokolliert. Die gesamten Daten werden in einer Protokolldatei gespeichert. In der Eingabemaske der Auskunftsdateien „EWO“ und „ZFZR/ZEVIS“ wird mittels Plausibilitätsprüfung vor einer Abfrage der Abfragegrund abgefragt.
 

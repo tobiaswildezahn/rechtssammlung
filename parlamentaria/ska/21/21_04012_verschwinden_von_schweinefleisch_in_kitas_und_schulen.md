@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3612", "20/8989", "21/3606", "21/1421"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52402"
@@ -53,7 +54,7 @@ In besagter Liste in Drs. 21/3606 steht, dass Gründe für die Entscheidung, auf
 
 Immer wieder ist in besagten Begründungen zu lesen, dass man auf Schweinefleisch aufgrund „verschiedener Religionen“ und „wegen Familien mit Migrationshintergrund“ verzichte. Um welche Religionen handelt es sich dabei? Um welche Nationalitäten?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die für Kindertagesbetreuung zuständige Behörde hat die in der Drs. 21/3606 aufgeführten Träger erneut angefragt, weitere Angaben und Auskünfte zu erteilen. Die eingegangenen Rückmeldungen sind im Wortlaut der nachfolgenden Übersicht zu entnehmen:
 
@@ -134,6 +135,6 @@ Hat es nicht muslimische Eltern von Kindern in besagten Kitas und Schulen ohne S
 
 Wenn aus religiösen Gründen auf Schweinefleisch verzichtet wird, warum wird nicht auch auf religiöse Befindlichkeiten von Anhängern anderer Religionen außer der des Islams von vorneherein Rücksicht genommen, etwa auf Hinduismus (unter anderem kein Rindfleisch), Jainismus (veganes Essen, das heißt nur Obst und Gemüse erlaubt, das nicht unter der Erde wächst) oder Judentum (koschere Zubereitung von Speisen) et cetera?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antwort zu 1. sowie Antwort zu 2. und 3.

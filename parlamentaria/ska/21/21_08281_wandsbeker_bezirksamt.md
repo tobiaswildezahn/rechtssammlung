@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56977"
@@ -47,7 +48,7 @@ Wann wurde die Befragung von wem durchgeführt?
 
 Wer hat die Befragung beauftragt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -91,7 +92,7 @@ Stimmt es, dass fast ein Drittel der Mitarbeiter meinen, dass sie ihr Arbeitspen
 
 Stimmt es, dass mehr als ein Drittel der Mitarbeiter mit ihren Vorgesetzten nicht zufrieden sind? Wenn ja: was unternimmt das Bezirksamt zur Besserung der Situation?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Nein.
 
@@ -111,7 +112,7 @@ Wann lagen die Ergebnisse der Befragung vor?
 
 Wann wurden die Ergebnisse wem bekannt gemacht?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Vorbemerkung.
 

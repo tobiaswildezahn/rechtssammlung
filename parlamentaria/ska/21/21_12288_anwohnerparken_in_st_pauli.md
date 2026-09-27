@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 20
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7125"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61568"
@@ -171,17 +172,17 @@ b) Nach welchen Kriterien wird ein solcher Nachweis als nicht ausreichend betrac
 
 Eine Genehmigung wird erteilt, sofern die zwingende Notwendigkeit des regelmäßigen Abstellens in einer Bewohnerparkzone ausreichend individuell begründet nachgewiesen wurde. Für die Entscheidung ist ausschlaggebend:
 
-• Wie gestaltet sich der Betriebsablauf?
+– Wie gestaltet sich der Betriebsablauf?
 
-• Welche Gegenstände/Produkte werden in welcher Menge transportiert?
+– Welche Gegenstände/Produkte werden in welcher Menge transportiert?
 
-• Wie häufig müssen Transporte durchgeführt werden?
+– Wie häufig müssen Transporte durchgeführt werden?
 
-• Wie weit sind die nächsten auch ohne Ausnahmegenehmigung nutzbaren Parkmöglichkeiten entfernt?
+– Wie weit sind die nächsten auch ohne Ausnahmegenehmigung nutzbaren Parkmöglichkeiten entfernt?
 
-• Warum kann in fußläufiger Entfernung kein Stellplatz angemietet werden?
+– Warum kann in fußläufiger Entfernung kein Stellplatz angemietet werden?
 
-• Warum können entsprechende Ladezonen nicht genutzt werden?
+– Warum können entsprechende Ladezonen nicht genutzt werden?
 
 Im Zuge des Verfahrens ist ein schriftlicher Nachweis darüber zu führen, dass sich der Betrieb bei den umliegenden Parkhäusern um Parkraum bemüht hat.
 

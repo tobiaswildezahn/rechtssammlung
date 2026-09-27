@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51705"
@@ -89,7 +90,7 @@ Gibt es zum Beispiel Bundesländer, in denen Kinder mit anerkanntem Anspruch auf
 
 In welchen Bundesländern wird der konkrete Nachteilsausgleich durch das jeweilige Kultusministerium und in welchen durch die jeweilige Schule geregelt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der zuständigen Behörde liegen hierzu keine Kenntnisse vor, im Übrigen siehe Antwort zu 4.
 

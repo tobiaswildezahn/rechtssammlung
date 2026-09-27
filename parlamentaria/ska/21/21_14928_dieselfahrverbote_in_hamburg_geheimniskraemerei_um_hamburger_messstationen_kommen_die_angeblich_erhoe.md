@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 30
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64381"
@@ -43,7 +44,7 @@ Wie viele Messstationen sind zur Überprüfung der Luftreinheit in Hamburg im Ei
 
 Wo befinden sich die einzelnen Messstationen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Überprüfung der Luftqualität in Hamburg erfolgt im Rahmen des Vollzugs der 39. Bundes-Immissionsschutzverordnung (BImSchV). Derzeit ist das Institut für Hygiene und Umwelt (HU) beauftragt, an zwölf Messstationen, die das Hamburger Luftmessnetz bilden, die Luftqualität kontinuierlich zu ermitteln.
 
@@ -145,7 +146,7 @@ b) der Rechtmäßigkeit der Aufstellung der Messstationen durch Experten aus? (B
 
 Welche Bedenken hat der Senat gegenüber unabhängigen Experten?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Der Senat hat sich weder gegen unabhängige Überprüfungen ausgesprochen noch hat er Bedenken gegenüber unabhängigen Experten.
 

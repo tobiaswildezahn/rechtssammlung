@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 14
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14942", "20/5317"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64565"
@@ -65,7 +66,7 @@ Welche Investitionen im Schulbau sind dem quantitativen Zuwachs an Schülern/-in
 
 Welche Investitionen im Schulbau sind der Qualitätsentwicklung des Schulwesens geschuldet? (Bitte für die letzten vier Schuljahre absolut und relativ zum gesamten Bauaufkommen in einer Excel-Tabelle angeben.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Frage nach den Investitionen in quantitative Zuwächse wird als Frage nach dem realisierten Neu-, Um- und Erweiterungsvolumen interpretiert, das überwiegend aus zusätzlichem Flächenbedarf resultiert. Qualitätsentwicklung wird auch bei Neu-, Umund Erweiterungsbauten berücksichtigt, umfasst darüber hinaus auch das realisierte Sanierungs- und Instandhaltungsvolumen. Eine Quotierung bei den Instandhaltungen ist nicht möglich.
 
@@ -177,7 +178,7 @@ Wer entscheidet über die Umwidmung von Fachräumen in Klassenräume beziehungsw
 
 Warum werden Umwandlungen des Schulraumes nicht zentral erfasst, wenn doch der in einem „dynamischen Prozess“ gestaltete, das heißt variierende SEPL Grundlage für Neu-, Zu- und Umbauten an Schulen ist?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die konkrete Nutzung aller Räume liegt in der Entscheidung der jeweiligen Schule, daher werden Umwandlungen von der für Bildung zuständigen Behörde nicht erfasst.
 

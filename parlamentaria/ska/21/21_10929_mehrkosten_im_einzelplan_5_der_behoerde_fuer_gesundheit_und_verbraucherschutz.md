@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10678"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59859"
@@ -69,39 +70,39 @@ Betroffenen nach einem externen Schadensereignis in einem Krankenhaus der Notund
 
 Mit der Übung wurden folgende Ziele verfolgt:
 
- Schulung der Übungsteilnehmer in taktischer, organisatorischer und technischer
+– Schulung der Übungsteilnehmer in taktischer, organisatorischer und technischer
 
 Hinsicht bezüglich des Krankenhausalarmplanes
 
- Erreichen von Handlungssicherheit bei Erarbeitung, Anordnung und Durchführung
+– Erreichen von Handlungssicherheit bei Erarbeitung, Anordnung und Durchführung
 
 von Maßnahmen
 
- Überprüfung des Führungssystems : Krankenhaus-Einsatzleitung, Leitender Not-
+– Überprüfung des Führungssystems : Krankenhaus-Einsatzleitung, Leitender Not-
 
 arzt – Krankenhäuser, Leitung der Versorgungsabschnitte
 
- Alarmierung und Bereitstellung von zusätzlichem Personal
+– Alarmierung und Bereitstellung von zusätzlichem Personal
 
- Aufbau und Betrieb einer Sichtungsstelle
+– Aufbau und Betrieb einer Sichtungsstelle
 
- Strukturiertes Weiterleiten der Verletzten gemäß Verletztenmuster
+– Strukturiertes Weiterleiten der Verletzten gemäß Verletztenmuster
 
- Dokumentation der Patientendaten
+– Dokumentation der Patientendaten
 
- Schaffung von geordneten Verkehrsströmen, Zugangsbeschränkungen
+– Schaffung von geordneten Verkehrsströmen, Zugangsbeschränkungen
 
- Bereitstellen von genügend Behandlungskapazitäten inklusive med. Material
+– Bereitstellen von genügend Behandlungskapazitäten inklusive med. Material
 
- Betreuung von Angehörigen und Presse durch benannte Ansprechpartner
+– Betreuung von Angehörigen und Presse durch benannte Ansprechpartner
 
- Abwicklung der Krankenhauslogistik
+– Abwicklung der Krankenhauslogistik
 
- Strukturaufbau der Versorgungsabschnitte (Kategorie Grün bis Rot)
+– Strukturaufbau der Versorgungsabschnitte (Kategorie Grün bis Rot)
 
- Ärztliche und pflegerische Versorgung der Verletzten
+– Ärztliche und pflegerische Versorgung der Verletzten
 
- Überprüfung der vorgenannten Abläufe ohne die Möglichkeit der Vorbereitung auf
+– Überprüfung der vorgenannten Abläufe ohne die Möglichkeit der Vorbereitung auf
 
 ein solches MANV-Szenario
 

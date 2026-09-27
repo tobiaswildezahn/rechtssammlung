@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54326"
@@ -53,7 +54,7 @@ Wie viele davon könnten von einer Methadongabe profitieren?
 
 Wird allen Gefangenen, die dies wünschen, Methadon oder ein ähnliches Mittel angeboten?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Grundsätzlich könnten alle Gefangenen, bei denen eine langjährige Opiatabhängigkeit vorliegt, von der Substitutionsbehandlung profitieren. Dies setzt jedoch einen entsprechenden Wunsch des Gefangenen und seine Mitwirkungsbereitschaft an der Behandlung voraus.
 
@@ -69,25 +70,25 @@ Welche Art von Therapie wird den drogenabhängigen Gefangenen angeboten?
 
 Zu den Beratungs- und Behandlungsangeboten für drogenabhängige Gefangene gehören:
 
- Medikamentengestützte Entzugsbehandlung mit dem Schwerpunkt in der Untersu-
+– Medikamentengestützte Entzugsbehandlung mit dem Schwerpunkt in der Untersu-
 
 chungshaftanstalt,
 
- Substitutionsbehandlung in allen Hamburger Justizvollzugsanstalten,
+– Substitutionsbehandlung in allen Hamburger Justizvollzugsanstalten,
 
- Rückfallprophylaxe durch externe Suchtberater in der Justizvollzugsanstalt (JVA)
+– Rückfallprophylaxe durch externe Suchtberater in der Justizvollzugsanstalt (JVA)
 
 Fuhlsbüttel,
 
- Gruppenprogramm „Can Stopp“ der JVA Hahnöfersand mit dem Schwerpunkt auf
+– Gruppenprogramm „Can Stopp“ der JVA Hahnöfersand mit dem Schwerpunkt auf
 
 Cannabis,
 
- Suchtberatung und Therapievermittlung durch externe Suchthilfeeinrichtungen
+– Suchtberatung und Therapievermittlung durch externe Suchthilfeeinrichtungen
 
 (Aktive Suchthilfe e.V., jugend hilft jugend e.V., Jugendhilfe e.V., therapiehilfe e.V.) in der JVA Billwerder, der JVA Fuhlsbüttel, der JVA Hahnöfersand, der Sozialtherapeutischen Anstalt Hamburg, der Teilanstalt für Frauen der JVA Billwerder und der Untersuchungshaftanstalt,
 
- Therapievorbereitungsstationen der JVA Billwerder und der Teilanstalt für Frauen
+– Therapievorbereitungsstationen der JVA Billwerder und der Teilanstalt für Frauen
 
 der JVA Billwerder.
 

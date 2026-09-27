@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 35
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2108", "21/6211", "21/5343", "21/4879", "21/5635"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55753"
@@ -43,7 +44,7 @@ Wie viele Personen sind in der EA Fiersbarg zurzeit untergebracht?
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Geschlecht  
 Kinder & Jugendliche  
@@ -90,17 +91,17 @@ Aus welchen Unterkünften kommen sie?
 
 Im November 2016 wurden Personen aus folgenden Erstaufnahmeeinrichtungen (EA) in die EA Fiersbarg verlegt:
 
-• Ankunftszentrum Rahlstedt
+– Ankunftszentrum Rahlstedt
 
-• Flagentwiet
+– Flagentwiet
 
-• Geutensweg
+– Geutensweg
 
-• Oktaviostraße
+– Oktaviostraße
 
-• Holstenhofweg
+– Holstenhofweg
 
-• Papenreye
+– Papenreye
 
 ### Frage 6
 
@@ -142,7 +143,7 @@ Gab es im November 2016 Menschen, die die Unterkunft nicht beziehen wollten? Wen
 
 Gab es im November 2016 Menschen, die die Unterkunft auf eigene Faust verlassen haben? Wenn ja, wie viele und aus welchen Gründen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Nein.
 

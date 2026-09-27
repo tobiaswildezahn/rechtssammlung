@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/2056"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61973"
@@ -61,7 +62,7 @@ In der Kleingartenbedarfsanalyse von 2015 wird auf die Akzeptanz der Befragten z
 
 Wie viele Einwohner/-innen Hamburgs können einen Kleingarten aufgrund einer größeren Entfernung oder fehlender freier KGV-Kapazitäten nicht innerhalb dieser zwanzigminütigen Anreise erreichen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 In der Kleingartenbedarfsanalyse 2015 haben rund 80 Prozent der befragten Pächter angegeben, dass sie eine maximale Anfahrtszeit von bis zu 20 Minuten haben. Eine Anfahrtsdauer von bis zu 20 Minuten haben sich auch circa 80 Prozent der befragten Anwärter gewünscht.
 

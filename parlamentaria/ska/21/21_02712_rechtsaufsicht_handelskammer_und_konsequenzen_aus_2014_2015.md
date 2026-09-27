@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 35
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1108", "20/14649", "21/40", "20/12684"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51048"
@@ -33,19 +34,19 @@ Nach dem bereits bekannten Gerichtsurteil zum Engagement der Handelskammer im Ra
 
 ## Einleitung für die Antworten des Senats
 
- 21/1108 (Kooptation von Mitgliedern in die Vollversammlung der IHK),
+– 21/1108 (Kooptation von Mitgliedern in die Vollversammlung der IHK),
 
- 21/40 (Stellungnahme des Hauptgeschäftsführers der Handelskammer Hamburg nach der Bürgerschaftswahl),
+– 21/40 (Stellungnahme des Hauptgeschäftsführers der Handelskammer Hamburg nach der Bürgerschaftswahl),
 
- 20/14649 (Stellungnahme des Handelskammer-Geschäftsführers zur Bürgerschaftswahl),
+– 20/14649 (Stellungnahme des Handelskammer-Geschäftsführers zur Bürgerschaftswahl),
 
- 20/12684 (Handelskammer und Olympische Spiele in Hamburg),
+– 20/12684 (Handelskammer und Olympische Spiele in Hamburg),
 
- 20/12589 (Präsidiumswahlen der Handelskammer Hamburg, Hier: Veröffentlichung der Wahlergebnisse),
+– 20/12589 (Präsidiumswahlen der Handelskammer Hamburg, Hier: Veröffentlichung der Wahlergebnisse),
 
- 20/11038 und 20/11243 (Rücklagen der Handelskammer) sowie
+– 20/11038 und 20/11243 (Rücklagen der Handelskammer) sowie
 
- 20/8932 (Parteinahme von Handelskammer und Handwerkskammer gegen die Volksinitiative und für Vattenfall),
+– 20/8932 (Parteinahme von Handelskammer und Handwerkskammer gegen die Volksinitiative und für Vattenfall),
 
 die sich mit der politischen Arbeit der Handelskammer, deren Aussagen und/ oder der Rechtsaufsicht durch den Senat sowie den Gerichtsurteil zu Kooptation von Mitgliedern in die Vollversammlung und der letztjährigen Diskussion um die Gehaltsgestaltung des Hauptgeschäftsführers der Handelskammer Hamburg befassen, liegen nunmehr verschiedene, den Senat als Aufsichtsbehörde betreffende Gerichtsurteile vor.
 
@@ -73,7 +74,7 @@ Hat sich der Senat, als Rechtsaufsicht der Handelskammer, mit dem Gerichtsurteil
 
 Wie beurteilt der Senat vor dem Hintergrund der Entscheidung des VG Hamburg die Stellungnahme des Hauptgeschäftsführers der Handelskammer zum Ausgang der Bürgerschaftswahlen? a. Ist der Senat im Zusammenhang mit dieser Stellungnahme gegenüber der Handelskammer tätig geworden? i. Wenn ja: mit welchem Ergebnis? ii. Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Urteilsgründe sind noch nicht bekannt.
 

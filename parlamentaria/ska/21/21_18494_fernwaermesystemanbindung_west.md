@@ -14,6 +14,7 @@ fragen: 34
 einzelfragen: 36
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68150"
@@ -49,7 +50,7 @@ Wann ist der Baubeginn der Fernwärmesystemanbindung geplant?
 
 Welche Bauzeit ist für die Bautätigkeiten vorgesehen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Baustart ist nach Vorliegen des Planfeststellungsbescheids für Mitte 2021 vorgesehen. Der Vorhabenträger geht gegenwärtig von einer Bauzeit von circa 2,5 Jahren bis zur Inbetriebnahme aus.
 
@@ -99,7 +100,7 @@ b) verworfen?
 
 Warum wurde der Elbtunnelverlauf nicht in die Trassenplanung einbezogen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antwort zu 6.
 
@@ -121,7 +122,7 @@ b) der Verkehrsteilnehmer im Trassenverlauf Rechnung getragen?
 
 Wie wurden die Belange aus Frage 10. bisher konkret berücksichtigt und welche weiteren Schritte sieht der Senat zur Berücksichtigung dieser Belange vor?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Vorbemerkung.
 
@@ -169,7 +170,7 @@ Welche weiteren Abstimmungen plant der Senat in diesem Zusammenhang für die Zuk
 
 Bis zu welchen Zeitpunkten werden welche weiteren Abstimmungen mit dem Bezirk erfolgen?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Die Abstimmungen sind Teil des Planfeststellungsverfahrens.
 
@@ -195,7 +196,7 @@ Wann und in welcher Form wurde der Energienetzbeirat in die Planungen zur Trasse
 
 Welche Ergebnisse zur Trasse gab es im Rahmen der Vorstellungen und Diskussionen im Energienetzbeirat?
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Der Energienetzbeirat war nicht in die Trassenfindung einbezogen.
 

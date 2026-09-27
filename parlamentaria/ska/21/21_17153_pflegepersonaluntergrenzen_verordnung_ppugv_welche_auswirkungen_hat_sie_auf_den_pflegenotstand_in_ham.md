@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16380", "21/16950"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66730"
@@ -55,7 +56,7 @@ Welche Daten hat das Institut für das Entgeltsystem im Krankenhaus (IneK) der B
 
 Falls diese Daten der Gesundheitsbehörde noch nicht vorliegen: Welche Daten haben die Hamburger Krankenhäuser an das Institut für das Entgeltsystem (IneK) für das 1. Quartal 2019 übermittelt? Bitte als Anlage beifügen. Sollte die Beschaffung dem Senat beziehungsweise der Behörde nicht möglich sein, bitte entsprechend darlegen, welche Bemühungen unternommen wurden, woran die Beschaffung gescheitert ist und inwiefern abzusehen ist, wann die Daten voraussichtlich vorliegen werden.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Behörde für Gesundheit und Verbraucherschutz wurden vom Institut für das Entgeltsystem im Krankenhaus (InEK) am 2. Mai 2019 die nach §137i SGB V und der PpUGV vorgesehenen Daten für das 1. Quartal 2019 übermittelt (Zur Verordnung siehe: http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl& jumpTo=bgbl118s1632.pdf).
 

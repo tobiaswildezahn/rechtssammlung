@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58921"
@@ -163,15 +164,15 @@ Welche Maßnahmen haben Polizei und Feuerwehr wann vor Ort ergriffen? Bitte gena
 
 Die Polizei hat folgende Maßnahmen getroffen:
 
- Löschen brennender Barrikade auf der Fahrbahn, Einsatz von Wasserwerfern
+– Löschen brennender Barrikade auf der Fahrbahn, Einsatz von Wasserwerfern
 
 gegen vor Ort befindliche Störer nach Stein- und Flaschenwürfen auf Polizeibeamte sowie Beiseiteräumen von auf die Fahrbahn gezogenen Betonpollern; darüber hinaus siehe Antworten zu 6.a. und 6.b.
 
- Schutz des REWE-Marktes zur Eigentums- und Tatortsicherung am 8. Juli 2017
+– Schutz des REWE-Marktes zur Eigentums- und Tatortsicherung am 8. Juli 2017
 
 von 00.37 Uhr bis zum Eintreffen der Kriminalpolizei.
 
- Tatortbefundaufnahme und Sicherung von Beweismitteln und Spuren; darüber
+– Tatortbefundaufnahme und Sicherung von Beweismitteln und Spuren; darüber
 
 hinaus siehe Antwort zu 5.c.
 

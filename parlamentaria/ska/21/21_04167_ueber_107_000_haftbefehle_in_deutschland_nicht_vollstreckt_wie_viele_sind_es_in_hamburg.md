@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14516"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52563"
@@ -43,7 +44,7 @@ Wie viele offene Haftbefehle wurden 2015 in Hamburg zur Fahndung ausgeschrieben?
 
 Wie viele dieser Haftbefehle wurden zwischenzeitlich vollstreckt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Statistische Daten im Sinne der Frage werden bei der Polizei nicht erhoben. Die Polizei kann Angaben zur Zahl der aktuell im bundesweiten Informationssystem der Polizei (INPOL) von der Polizei Hamburg ausgeschriebenen und noch nicht vollstreckten Haftbefehle machen.
 

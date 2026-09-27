@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11995", "20/13532", "21/2660"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64297"
@@ -57,7 +58,7 @@ Welche Sanierungs- und Bauvorhaben sollen bis 2022 im Mieter- Vermieter-Modell u
 
 In welcher Höhe sind für die unter Frage 2. genannten Sanierungs- und Bauvorhaben bereits Planungs- und Realisierungskosten angefallen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage 1.
 
@@ -87,7 +88,7 @@ In welcher Höhe wurden beziehungsweise werden für die unter Fragen
 In welcher Höhe wurden beziehungsweise werden für die unter Fragen
 1. und 2. genannten Sanierungs- und Bauvorhaben Mittel durch den Bund zur Verfügung gestellt? Bitte jeweils Projekt und Höhe der Mittel angeben.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Anlage 2.
 

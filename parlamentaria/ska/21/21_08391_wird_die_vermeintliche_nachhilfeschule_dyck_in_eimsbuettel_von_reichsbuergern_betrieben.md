@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57102"
@@ -61,7 +62,7 @@ Ist dem Senat beziehungsweise der zuständigen Behörde die „Nachhilfeschule D
 
 Handelt es sich bei der in der Presse beschrieben Verfassungsschutzaktivität in Bezug auf das vermeintliche Nachhilfeinstitut um eine formale Beobachtung beziehungsweise Ermittlung? Wenn nein, warum sind entsprechende Schritte noch nicht eingeleitet worden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

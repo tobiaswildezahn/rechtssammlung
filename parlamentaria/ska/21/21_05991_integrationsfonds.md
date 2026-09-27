@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 18
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5860", "21/5843", "21/5237", "21/1354", "21/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54498"
@@ -75,7 +76,7 @@ Was sind die Kriterien für die Bewilligung von Maßnahmen? Wo sind oder werden 
 
 Wie soll sichergestellt werden, dass die Mittel „regional angemessen“ (Drs. 21/5237) verteilt werden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/5843.
 

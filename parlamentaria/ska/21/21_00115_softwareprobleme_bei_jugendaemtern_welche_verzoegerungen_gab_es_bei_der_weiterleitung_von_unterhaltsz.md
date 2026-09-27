@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48248"
@@ -57,7 +58,7 @@ In wie vielen der unter 1. genannten Fälle wurden die rückständigen Unterhalt
 
 Welche genauen Probleme haben dazu geführt, dass die Unterhaltszahlungen mit Verzögerungen durch die Jugendämter weitergeleitet wurden und welche Maßnahmen werden zukünftig getroffen, um derartige Verzögerungen zu verhindern?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 

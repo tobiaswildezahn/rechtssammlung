@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51372"
@@ -57,7 +58,7 @@ Wie viele Reedereien routen ihre Containerschiffe bereits um und wie viele Conta
 
 Wohin werden die Containerschiffe aus Nummer 2. jeweils umgeroutet? (Bitte je Reeder auflisten.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nach Auskunft von HHM derzeit keine. Zuletzt wurde nach Kenntnis der HHM in den letzten Jahren nur der Transatlantik/Transpazifik-Containerdienst PAX der G6-Allianz
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 19
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13460", "21/5039", "21/5138", "20/13020", "20/13214", "20/13241", "20/13716", "21/58", "21/437", "21/954", "21/1204", "21/1706", "21/2622", "21/3355", "21/3445", "21/5139", "21/3877"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53826"
@@ -169,13 +170,13 @@ d) Welche Maßnahmen ergreift der LEB, um MuFls über die Gefahren durch Salafis
 
 Präventiv thematisiert der LEB mit den Betreuten in den Erstversorgungseinrichtungen die Themen religiöse Toleranz, religiös begründeter Extremismus und religiös legitimierte Gewalt in der Regel über
 
- Gruppengespräche durch das Betreuungspersonal,
+– Gruppengespräche durch das Betreuungspersonal,
 
- individuelle Ansprache durch das Betreuungspersonal bei Verdachtsmomenten wie
+– individuelle Ansprache durch das Betreuungspersonal bei Verdachtsmomenten wie
 
 insbesondere Veränderungen im Verhalten und der äußeren Erscheinung, gegebenenfalls auch unter Hinzuziehung der Beratungsstelle Legato,
 
- Aufklärung in Gruppen durch den polizeilichen Jugendschutz.
+– Aufklärung in Gruppen durch den polizeilichen Jugendschutz.
 
 ### Frage 12
 

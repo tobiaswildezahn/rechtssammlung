@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17347", "21/7482"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67476"
@@ -47,6 +48,6 @@ Warum hat der Senat in Drs. 21/17347 die Veranstaltung der DKP- Ortsgruppe Wilhe
 
 Hat die DKP oder eine ihrer Ortsgruppen nur einmal im Bürgerhaus Wilhelmsburg getagt oder finden beziehungsweise fanden solche Treffen mehrfach oder sogar regelmäßig statt? Bitte sämtliche hierzu vorliegenden Erkenntnisse darlegen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Am 07.06.2010 und am 21.06.2016 fanden parteiinterne Veranstaltungen der DKP Ortsgruppe Wilhelmsburg statt. Fördermittel wurden nicht gezahlt. Im Übrigen siehe Vorbemerkung.

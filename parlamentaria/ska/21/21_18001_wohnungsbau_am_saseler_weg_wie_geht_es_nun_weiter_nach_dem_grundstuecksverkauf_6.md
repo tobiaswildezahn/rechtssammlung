@@ -10,10 +10,11 @@ urheber: ["Thilo Kleibauer"]
 fraktionen: ["CDU"]
 vorgang: 61678
 seiten: 2
-fragen: 6
-einzelfragen: 6
-antwortbloecke: 4
+fragen: 8
+einzelfragen: 13
+antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16719"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67611"
@@ -33,35 +34,45 @@ Aus den bisherigen Antworten zu diesem Thema – zuletzt in Drs. 21/16719 – er
 
 Ich frage den Senat:
 
+## Fragen und Antworten
+
+### Frage 1
+
 1- Liegt inzwischen ein vollständiger Bauantrag für das Baufeld 1 vor?
 
 Wenn ja, welche Änderungen haben sich im beantragten Bauvorhaben ergeben und wie ist der Stand des Genehmigungsverfahrens?
 
 Wenn nein, bis wann wurde die Frist zum Einreichen von Unterlagen verlängert?
 
-## Einleitung für die Antworten des Senats
+#### Antwort zu Frage 1
 
 Bis auf die Unterlagen für die Grundstücksentwässerung ist der Bauantrag vollständig. Die Grundstücksentwässerung soll später geprüft und als Ergänzungsbescheid genehmigt werden. Seit dem 8. August 2019 läuft das Beteiligungsverfahren der betroffenen Behörden. Die Grundrisse für die Kita haben sich minimal geändert. Im 2. Obergeschoss sind weiterhin fünf rollstuhlgerechte Wohnungen und drei barrierefrei erreichbare Familienwohnungen vorgesehen. Die Grundrisse haben sich teilweise geändert. Im Staffelgeschoss sind weiterhin neun Appartements und ein Gemeinschaftsbereich für eine Demenz-Hausgemeinschaft vorgesehen.
 
-## Fragen und Antworten
-
 ### Frage 2
 
-Sind die mit dem Vorbescheid aus dem Jahr 2016 gemachten Bedingungen bezüglich der Genehmigung eines zusätzlichen Staffelgeschosses an dieser Stelle erfüllt? Wenn nein, welchen Änderungen haben sich aus welchen Gründen ergeben?
+2. Sind die mit dem Vorbescheid aus dem Jahr 2016 gemachten Bedingungen bezüglich der Genehmigung eines zusätzlichen Staffelgeschosses an dieser Stelle erfüllt?
+
+Wenn nein, welchen Änderungen haben sich aus welchen Gründen ergeben?
 
 #### Antwort zu Frage 2
 
 Ja. Siehe Antwort zu 1.
 
+### Frage 3
+
 3- Sind die Vereinbarungen des Kaufvertrages für das Grundstück bezüglich der Schaffung von Wohn- oder Hausgemeinschaften für neun junge Menschen mit Behinderungen sowie für neun Personen mit Demenzerkrankung vollständig umgesetzt?
 
 Wenn nein, welche Änderungen haben sich aus welchen Gründen ergeben?
+
+#### Antwort zu Frage 3
 
 Die Wohngemeinschaft für neun Personen mit Demenzerkrankung wird wie vertraglich vereinbart umgesetzt. Bei der Hausgemeinschaft für neun junge Menschen mit Behinderung laufen die Prüfungen hinsichtlich der genauen Ausgestaltung noch.
 
 ### Frage 4
 
-Inwiefern wurden zwischenzeitlich die Vereinbarungen des Kaufvertrages angepasst oder geändert? Wann genau wurde dies seitens der zuständigen Behörde in welcher Form und aus welchen Gründen entschieden und vereinbart?
+4. Inwiefern wurden zwischenzeitlich die Vereinbarungen des Kaufvertrages angepasst oder geändert? Wann genau wurde dies seitens der
+
+zuständigen Behörde in welcher Form und aus welchen Gründen entschieden und vereinbart?
 
 #### Antwort zu Frage 4
 
@@ -69,14 +80,19 @@ Es fanden mehrere Gespräche mit den beteiligten Behörden, dem Präses der Fina
 
 ### Frage 5
 
-Gemäß Antwort in Drs. 21/16719 kommt das vom Bauherrn eingereichte Verkehrsgutachten zu dem Ergebnis, dass „keine verkehrstechnischen Beeinträchtigungen des angrenzenden Straßennetzes zu erwarten“ seien.
+5. Gemäß Antwort in Drs. 21/16719 kommt das vom Bauherrn eingereichte Verkehrsgutachten zu dem Ergebnis, dass „keine verkehrstechnischen Beeinträchtigungen des angrenzenden Straßennetzes zu erwarten“ seien.
+
 5.1. Inwiefern hat die Genehmigungsbehörde die Plausibilität der Angaben des Verkehrsgutachtens überprüft?
 
 #### Antwort zu Frage 5
 
 Das Gutachten wurde auf Plausibilität geprüft.
 
+### Frage 6
+
 5.2. Von welchen zusätzlichen Verkehrsbewegungen wird im Verkehrsgutachten im Einzelnen ausgegangen?
+
+#### Antwort zu Frage 6
 
 Hol- und Bringeverkehre der Kinder (40 Prozent Pkw-Anteil),
 
@@ -84,14 +100,18 @@ Verkehrserzeugung Wohnen,
 
 Lieferverkehr (circa vier Kfz/Tag).
 
+### Frage 7
+
 5.3. In welchem Umfang ist gemäß Verkehrsgutachten die Inanspruchnahme des öffentlichen Parkraums zu erwarten?
+
+#### Antwort zu Frage 7
 
 Es sind laut Gutachten keine verkehrstechnischen Beeinträchtigungen des angrenzenden Straßennetzes zu erwarten. Die vorgesehenen ebenerdigen Stellplätze, Fahrradplätze und Plätze für Kinderwagen und Wegeflächen reichen für die zu erwartende Verkehrsnachfrage laut Gutachten aus.
 
-### Frage 6
+### Frage 8
 
-Welche weiteren Pläne zum Bau oder zur Erweiterung von Kindertagesstätten mit jeweils wie vielen Plätzen (beziehungsweise pädagogischer Fläche) sind den zuständigen Behörden im Stadtteil Volksdorf derzeit bekannt?
+6. Welche weiteren Pläne zum Bau oder zur Erweiterung von Kindertagesstätten mit jeweils wie vielen Plätzen (beziehungsweise pädagogischer Fläche) sind den zuständigen Behörden im Stadtteil Volksdorf derzeit bekannt?
 
-#### Antwort zu Frage 6
+#### Antwort zu Frage 8
 
 Mit dem Bebauungsplan-Entwurf Volksdorf 46 soll die Erweiterung der bestehenden Kita Ferckscher Hof um 40 bis 60 Plätze ermöglicht werden. Die Planungen und Überlegungen hierzu sind noch nicht abgeschlossen.

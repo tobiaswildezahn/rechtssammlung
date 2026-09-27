@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64304"
@@ -68,7 +69,7 @@ Geschlecht, Alter und Anstellungsverhältnis (Teil-/Vollzeit)).
 
 Wie hoch war die Fehlzeitenquote im abgefragten Zeitraum jeweils?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die krankheitsbedingten Fehlzeitenquoten bei Lehrkräften an staatlichen Schulen, differenziert nach Schuljahr, Schulform, Geschlecht und Alter sind der Anlage 1 zu entnehmen. Die Benennung des Anteils der bezahlten Fehltage der Lehrkräfte nach Altersgruppen ist nur mit Vollkräftebereinigung möglich.
 

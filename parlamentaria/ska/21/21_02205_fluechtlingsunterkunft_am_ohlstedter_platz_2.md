@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 20
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1530", "21/2108", "21/1914", "21/2014"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50486"
@@ -82,7 +83,7 @@ Wurde die ursprünglich vorgesehene Flüchtlingszahl angehoben? Wenn ja, warum u
 
 Ist es vorgesehen, die aktuelle Kapazität weiter zu erhöhen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nein.
 
@@ -116,13 +117,13 @@ Wie viele Beschwerden seitens der Anlieger gab es seit der Eröffnung der Unterb
 
 Eine Statistik über Beschwerden von Anwohnerinnen und Anwohnern wird weder vom Betreiber noch von den zuständigen Behörden geführt. Folgende Beschwerden, neben den in Drs. 21/1530 genannten, sind den Beteiligten bekannt:
 
- Verstärktes Müllaufkommen im Umfeld der Einrichtung
+– Verstärktes Müllaufkommen im Umfeld der Einrichtung
 
- Lärmbelästigung durch Heizungen und Kühlaggregate
+– Lärmbelästigung durch Heizungen und Kühlaggregate
 
- Nutzung des Platzes als Erstaufnahmeeinrichtung
+– Nutzung des Platzes als Erstaufnahmeeinrichtung
 
- Spielende Kinder in der Tempo-30-Zone
+– Spielende Kinder in der Tempo-30-Zone
 
 ### Frage 9
 
@@ -184,11 +185,11 @@ Welche Krankheiten wurden bisher in dem aufgestellten Isolierzelt behandelt? Wie
 
 Im Isolierzelt untergebracht waren Flüchtlinge mit folgenden behandelten Krankheiten:
 
- eine Familie mit einer Person mit Verdacht auf Hepatitis A, der sich nicht bestätigt
+– eine Familie mit einer Person mit Verdacht auf Hepatitis A, der sich nicht bestätigt
 
 hat, für zwei Wochen;
 
- eine Person mit Scabies; ebenfalls für zwei Wochen.
+– eine Person mit Scabies; ebenfalls für zwei Wochen.
 
 Eine Ausbreitung von infektiösen Krankheiten ist ausgeschlossen, da es sich um eine geschlossene Einheit mit eigenen sanitären Anlagen handelt.
 

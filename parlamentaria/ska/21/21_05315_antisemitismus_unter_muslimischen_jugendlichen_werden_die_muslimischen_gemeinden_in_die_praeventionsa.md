@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53800"
@@ -103,7 +104,7 @@ Inwieweit werden die Hamburger muslimischen Verbände/Gemeinden in die Präventi
 
 Inwieweit werden die Hamburger jüdischen Verbände/Gemeinden in die Präventionsarbeit gegen muslimischen Antisemitismus in den Schulen oder außerhalb der Schulen mit eingebunden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Sowohl die muslimischen Verbände und Gemeinden als auch die jüdischen Gemeinden sind wichtige Kooperationspartner der für Bildung zuständigen Behörde. Themenbezogen finden Treffen zur Abstimmung und Vernetzung statt.
 

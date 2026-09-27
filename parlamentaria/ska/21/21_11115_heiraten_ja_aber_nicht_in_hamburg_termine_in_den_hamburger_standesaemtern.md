@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1164", "21/1342", "21/9165", "21/9264"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60099"
@@ -65,7 +66,7 @@ In wie vielen dieser Fälle (in den Jahren 2015, 2016 und 2017) wurde Kunden mit
 
 In wie vielen Fällen mussten Kunden ein Jahr und mehr in Kauf nehmen, um ihren Wunschtermin zu bekommen? Bitte nach Bezirken aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Antwort zu 1.
 
@@ -85,7 +86,7 @@ In wie vielen Fällen in den Jahren 2015, 2016 und 2017 sind Kunden in andere Be
 
 In wie vielen Fällen in den Jahren 2015, 2016 und 2017 mussten Kunden aufgrund von Terminmangel auf Termine außerhalb Hamburgs ausweichen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 1.
 

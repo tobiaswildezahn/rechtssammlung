@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6388"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56037"
@@ -59,7 +60,7 @@ Zu welchem Ergebnis kommen die erstellten Lärmschutzgutachten im Bereich des Se
 
 Welche Maßnahmen resultieren als Konsequenz aus den Lärmschutzgutachten hinsichtlich der Planungen möglicher Flüchtlingsunterkünfte sowohl im Seelemannpark als auch an der Loogestraße?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Gutachten wurden durch die Firma OSJ Ingenieure, Beratende Ingenieure VBI für Bauwesen, 22767 Hamburg Ende November 2016 auf Grundlage der vorgeschriebenen Normen und Richtlinien erstellt. Die beiden Gutachten für den Seelemannpark und die Loogestraße kommen zu dem Ergebnis, dass an beiden Standorten für einen innerstädtischen Bereich keine ungewöhnlich hohe Lärmbelastung vorliegt und dass an beiden Standorten eine Bebauung aus Schallschutzkriterien ohne Weiteres möglich ist. Die Kosten des Gutachtens für den Seelemannpark betrugen 3.808 Euro und für die Loogestraße 3.451 Euro.
 
@@ -73,7 +74,7 @@ Zu welchem Ergebnis sind die Untersuchungen des LSBG im Seelemannpark hinsichtli
 
 Welche Maßnahmen resultieren als Konsequenz aus diesem Gutachten zur Ufermauer im Seelemannpark hinsichtlich der Planungen einer möglichen Unterkunft?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Zum Schutz der Ufermauer war die Erstellung eines Gutachtens entbehrlich. Der Weg entlang der Ufermauer wird nicht Bestandteil der öffentlichen Unterbringung und durch einen Zaun von der Einrichtung abgetrennt.
 
@@ -85,6 +86,6 @@ Mit welchen Gesamtkosten plant der Senat beziehungsweise die zuständigen Stelle
 
 Mit welchen Mehrkosten rechnet der Senat darüber hinaus aktuell bei der Umsetzung der Maßnahmen, die sich als Konsequenz aus dem Lärmschutzgutachten und der Untersuchung der Ufermauer im Seelemannpark für die Herstellung der Parkanlage für die Errichtung einer Flüchtlingsunterkunft ergeben?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Gesamtkosten beziehungsweise mögliche Mehrkosten können noch nicht abschließend ermittelt werden.

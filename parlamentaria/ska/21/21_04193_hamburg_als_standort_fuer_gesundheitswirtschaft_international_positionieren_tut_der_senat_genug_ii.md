@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3989"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52595"
@@ -72,30 +73,30 @@ In welchen Krankenhäusern lassen sich die aus Nummer 1. genannten Patienten beh
 
 Hamburger Plankrankenhäuser (alphabetisch geordnet):
 
-  
+–  
 Albertinen-Krankenhaus  
-  
+–  
 Altonaer Kinderkrankenhaus  
-  
+–  
 Asklepios Klinik Altona  
-  
+–  
 Asklepios Klinik Barmbek  
-  
+–  
 Asklepios Klinik Nord
 
-  
+–  
 Asklepios Klinik St. Georg  
-  
+–  
 Asklepios Klinikum Harburg  
-  
+–  
 BG Klinikum Hamburg gGmbH  
-  
+–  
 Helios Endo-Klinik Hamburg  
-  
+–  
 Katholisches Marienkrankenhaus  
-  
+–  
 Universitätsklinikum Hamburg-Eppendorf  
-  
+–  
 Wilhelmsburger Krankenhaus Groß-Sand
 
 ### Frage 3
@@ -106,25 +107,25 @@ Aus welchen Regionen stammen die aus Nummer 1. genannten Patienten?
 
 Wohnorte vollstationärer Krankenhausfälle in den Hamburger Krankenhäusern außerhalb der EU bezogen auf die Jahre 2011 bis 2014 sind insbesondere (alphabetisch geordnet):
 
-  
+–  
 Arabische Golfstaaten  
-  
+–  
 Armenien  
-  
+–  
 Libyen  
-  
+–  
 Norwegen  
-  
+–  
 Philippinen  
-  
+–  
 Russische Föderation  
-  
+–  
 Schweiz  
-  
+–  
 Türkei  
-  
+–  
 Ukraine  
-  
+–  
 Vereinigte Staaten
 
 ### Frage 4

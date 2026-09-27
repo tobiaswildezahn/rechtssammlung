@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/695", "21/839"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63872"
@@ -138,11 +139,11 @@ aufgeklärte Fälle
 
 Alle anderen Delikte im Sinne der Fragestellung werden in der PKS wie folgt erfasst:
 
- PKS-Schlüssel 522000 Vorenthalten/Veruntreuen von Arbeitsentgelt
+– PKS-Schlüssel 522000 Vorenthalten/Veruntreuen von Arbeitsentgelt
 
- PKS-Schlüssel 517100 Leistungsbetrug (nur teilweise einschlägig)
+– PKS-Schlüssel 517100 Leistungsbetrug (nur teilweise einschlägig)
 
- PKS-Schlüssel 710000 Strafrechtliche Nebengesetze Wirtschaft (Summenschlüssel)
+– PKS-Schlüssel 710000 Strafrechtliche Nebengesetze Wirtschaft (Summenschlüssel)
 
 Darüber hinaus ist eine Differenzierung von Delikten im Sinne der Fragestellung und anderen nicht im Sinne der Fragestellung einschlägigen Delikten unter den PKS- Schlüsseln 522000, 517100 sowie 710000 erfassten Delikte nicht möglich. So enthält zum Beispiel der PKS-Schlüssel 5222000 auch Delikte, in denen der Arbeitgeber aus anderen Gründen das fällige Arbeitsentgelt nicht zahlt.
 
@@ -158,7 +159,7 @@ Welche und wie viele Sanktionen wurden in den Jahren 2015 bis 2018 (Stichtag 30.
 
 Wie viele Bußgelder und Geldstrafen hat der Fiskus hierdurch jährlich eingenommen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die FKS ist für die Prüfung und Ahndung von Verstößen gegen Mindestlohnvorschriften gemäß Mindestlohngesetz (MiLoG), Arbeitnehmer-Entsendegesetz (AentG) und Arbeitnehmerüberlassungsgesetz (AÜG) zuständig. Für Straftaten nach dem AÜG liegt die Zuständigkeit auch bei der Polizei Hamburg. Für die Einhaltung der Arbeitsschutzvorschriften sind die Arbeitsschutzbehörden der Länder zuständig. Die von der FKS in Hamburg verhängten Sanktionen wegen Verstößen gegen Mindestlohnvorschriften (einschließlich Aufzeichnungs- und Meldepflichten) gemäß Mindestlohngesetz, Arbeitnehmer-Entsendegesetz und Arbeitnehmerüberlassungsgesetz ergeben sich aus der nachfolgenden Tabelle:
 

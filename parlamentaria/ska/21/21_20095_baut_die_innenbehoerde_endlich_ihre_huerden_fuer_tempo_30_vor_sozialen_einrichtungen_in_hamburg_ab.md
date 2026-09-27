@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16201", "21/15572", "21/12713", "21/18586"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69856"
@@ -170,7 +171,7 @@ Hat der Senat die Hamburger Richtlinien zur Anordnung von Verkehrszeichen und Ve
 
 Wer ist für die Änderung der HRVV zuständig?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Vorbemerkung.
 

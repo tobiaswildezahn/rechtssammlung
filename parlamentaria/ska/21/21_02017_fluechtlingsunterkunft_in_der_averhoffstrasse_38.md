@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 23
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50264"
@@ -43,7 +44,7 @@ Wie ist der aktuelle Planungsstand im Hinblick auf die oben genannte Unterkunft?
 
 Seit wann wird dieser Standort für eine mögliche Unterbringung in die Planungen einbezogen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Standort wurde erstmals im November 2014 für eine Nutzung für öffentliche Unterbringung und Zentrale Erstaufnahme geprüft. Er ist teilweise noch in Nutzung und steht frühestens im 1. Quartal 2016 zur Verfügung. Seit September 2015 ist der Standort erneut in der Prüfung für öffentlich-rechtliche Unterbringung. Erste Gespräche über eine mögliche Nutzung sind dazu mit dem Bezirk und dem Landesbetrieb Immobilienmanagement und Grundvermögen aufgenommen worden. Aktuell erfolgt erneut eine Wirtschaftlichkeitsberechnung zu den erforderlichen Umbauten.
 
@@ -71,7 +72,7 @@ Welches Konzept gibt es für die Beteiligung engagierter Bürger, sobald der Sta
 
 Inwiefern plant der Senat eine Einbindung der Bürgerinitiative „Welcome to Hamburg Uhlenhorst“ und des örtlichen Bürgervereins?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Sofern der Standort umgesetzt werden kann, erfolgt die Beteiligung der Initiativen im Rahmen der bezirklichen Öffentlichkeitsarbeit. Im Übrigen siehe Antwort zu 5.
 

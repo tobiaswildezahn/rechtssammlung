@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14323"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64570"
@@ -59,7 +60,7 @@ Wie begründet es der Senat beziehungsweise die zuständige Behörde, dass in de
 
 Aus welchen Gründen lehnt es der Senat beziehungsweise die zuständige Behörde ab, das Schuldgeld für private Gesundheitsfachschulen auch in Hamburg abzuschaffen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -111,7 +112,7 @@ Wie viele Gesundheitsfachschulen sind in Hamburg mit wie vielen Ausbildungsstell
 
 Wie hat sich die Zahl der Ausbildungsplätze seit 2010 entwickelt? Bitte jahresweise für jede Schule aufschlüsseln.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Zahl der Ausbildungsplätze ist nur für die Schulen an den Hamburger Plankrankenhäusern festgelegt, da diese über das KHG finanziert werden. Schulgeld wird dort nicht erhoben
 

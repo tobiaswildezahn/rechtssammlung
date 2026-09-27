@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9471", "20/5607", "20/10457", "21/455", "21/9187", "20/3410", "20/11296", "21/613", "21/3845", "21/7650"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58707"
@@ -61,15 +62,15 @@ Wie viele ASD-Beschäftigte haben in den Jahren 2013 – 2017 den ASD verlassen?
 
 Bei Personalbewegungen (umgangssprachlich Fluktuation) wird differenziert zwischen folgenden Bewegungsarten:
 
- dauerhaftes Verlassen der Freien und Hansestadt Hamburg zum Beispiel wegen
+– dauerhaftes Verlassen der Freien und Hansestadt Hamburg zum Beispiel wegen
 
 Kündigung, Erreichen der Altersgrenze (Grundfluktuation).
 
- temporäres Verlassen einer Fachkraft, unabhängig von der Dauer zum Beispiel
+– temporäres Verlassen einer Fachkraft, unabhängig von der Dauer zum Beispiel
 
 wegen Beurlaubung wegen Elternzeit, Beurlaubung wegen Betreuung sonstiger Angehöriger, Beschäftigungsverbot aufgrund von Schwangerschaft ohne Krankheitsausfälle (Zusatzfluktuation). Über 90 Prozent der Zusatzfluktuation ist auf Elternzeit zurückzuführen.
 
- Wechsel des Arbeitsplatzes innerhalb der Freien und Hansestadt Hamburg (Mobili-
+– Wechsel des Arbeitsplatzes innerhalb der Freien und Hansestadt Hamburg (Mobili-
 
 tät).
 

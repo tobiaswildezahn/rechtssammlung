@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/5012", "21/4034", "19/4918"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53517"
@@ -56,15 +57,15 @@ Ist dem Ersten Bürgermeister beziehungsweise der zuständigen Behörde bekannt,
 
 #### Antwort zu Frage 1
 
- „die Gründung eines selbständigen Instituts spätestens fünf Jah-
+– „die Gründung eines selbständigen Instituts spätestens fünf Jah-
 
 re nach Abschluss der Aufbauphase“,
 
- der „Beitritt Hamburgs zur Ausführungsvereinbarung der FhG
+– der „Beitritt Hamburgs zur Ausführungsvereinbarung der FhG
 
 über die gemeinsame Förderung der FhG durch den Bund und die Länder“ sowie
 
- die Weiterentwicklung des CML „zu einer dauerhaften, in der
+– die Weiterentwicklung des CML „zu einer dauerhaften, in der
 
 Satzung der FhG verankerten, Fraunhofer-Einrichtung“
 

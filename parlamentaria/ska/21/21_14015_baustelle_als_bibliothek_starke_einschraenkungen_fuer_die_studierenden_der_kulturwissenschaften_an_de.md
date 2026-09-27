@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63409"
@@ -63,7 +64,7 @@ Welche Sonderregelungen und Interimslösungen werden den Studierenden angeboten,
 
 Ist im Rahmen der laufenden Bauarbeiten eine temporäre vollständige Schließung der Fachbibliothek geplant? Wenn ja: Wann wird diese stattfinden und welche Ausgleichsangebote werden den Studierenden angeboten?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Fachbibliothek wird jederzeit benutzt werden können. Sonder- oder Interimslösungen bedarf es nicht. Die konkrete Terminplanung für die Baumaßnahme wird nach Vorlage der Baugenehmigung erstellt.
 

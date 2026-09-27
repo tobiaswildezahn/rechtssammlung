@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 11
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3453"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66305"
@@ -71,7 +72,7 @@ Wie viele Jugendliche wurden im letzten Quartal rückgeführt, die zwar nicht me
 
 Wie viele Kinder und Jugendliche aus Hamburg, die eine (Berufs-) Schule besucht haben, wurden im letzten Quartal rückgeführt? Bitte aufschlüsseln jeweils auch nach sogenannter freiwilliger Ausreise und Abschiebung: a. Wie viele davon sind in Hamburg geboren? b. Wie viele davon in Deutschland? c. Wie viele davon lebten zwischen zwei und vier Jahre in Hamburg? d. Wie viele davon lebten zwischen zwei und vier Jahre in Deutschland? e. Wie viele davon lebten länger als vier Jahre in Hamburg? f. Wie viele davon lebten länger als vier Jahre in Deutschland?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/3453.
 

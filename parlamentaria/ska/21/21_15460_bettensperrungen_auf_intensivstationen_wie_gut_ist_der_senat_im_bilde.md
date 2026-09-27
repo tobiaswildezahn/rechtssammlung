@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64996"
@@ -61,7 +62,7 @@ Wie informiert sich der Senat laufend darüber, dass die Versorgungssicherheit f
 
 Verfügt die zuständige Fachbehörde über jederzeit aktuelle Informationen, wie viele Intensivbetten zur Verfügung stehen, also nicht gesperrt sind? Wenn nein, wie überprüft und gewährleistet der Senat die Versorgungssicherheit?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Ein laufendes Monitoringsystem zu den Intensivstationen der Hamburger Plankrankenhäuser besteht nicht. Die zuständige Behörde ist aber sehr gut über den aktuellen Stand der Versorgungslage in den Hamburger Plankrankenhäusern informiert. Über eine verzögerte Patientenversorgung durch zeitlich befristete Sperrungen liegen der zuständigen Behörde keine Hinweise vor. Im Vordergrund der Notfallversorgung steht bei schwerverletzten oder schwererkrankten Patienten beziehungsweise einer Patientin die Sicherstellung der umgehenden Übernahme durch die Zentrale Notaufnahme und – soweit erforderlich – die Möglichkeit der Versorgung im Schockraum; dies ist gewährleistet.
 
@@ -220,7 +221,7 @@ Wie häufig haben Krankenhäuser seit 2016 die Aufnahme von Intensiv- Patienten/
 
 Welche Maßnahmen plant der Senat, um die Versorgungssicherheit für schwerkranke und schwerverletzte Intensivpatienten/-innen zu gewährleisten?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Derzeit wird die Einführung der digitalen Vernetzung des Rettungsdienstes mit den Krankenhäusern der Not- und Unfallversorgung vorbereitet. Durch eine digitale Voranmeldung in einem Krankenhaus, mit gleichzeitiger Übermittlung von Patientendaten und Behandlungspriorität, erhält das Krankenhaus einen Zeitvorsprung, um sich auf den eintreffenden Patienten/die eintreffende Patientin vorzubereiten. Insgesamt unterstützt das System effektiv den Rettungsdienst bei der präzisen Einbindung der benötigten Krankenhausressource und der bedarfsgerechten Steuerung der Patientenströme von Einsatzort. Final ist durch eine bidirektionale Vernetzung von Rettungsdienst zum Krankenhaus und umgekehrt, insbesondere bei zeitkritischen Krankheitsbildern, eine zusätzliche Optimierung der Patientenversorgung zu erwarten.
 

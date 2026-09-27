@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 39
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8383", "21/8385", "20/3641", "21/2278", "21/8059", "21/6590"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57292"
@@ -116,7 +117,7 @@ In sämtlichen betrachteten Schuljahren vor 2016/2017 sind laut Daten in der Ant
 
 Laut den Anlagen zur Antwort des Senats auf meine Schriftliche Kleine Anfrage (Drs. 21/8383) liegen die für 2016/2017 von den vordiagnostizierenden Schulen ermittelten sonderpädagogischen Förderbedarfe im Einzelförderbedarf Sprache (S) circa viermal höher als 2015/2016. Stehen diese hohen Werte der Schule im direkten Zusammenhang mit der Zuschulung von Schülern/-innen mit Migrationshintergrund ins Regelsystem? a. Wenn ja, wieso sind die von den ReBBZ diagnostizierten Werte demgegenüber jedoch zehnmal niedriger veranschlagt? (Bitte erklären und erläutern.) b. Wenn ja, wie kann es dann sein, dass trotz der hohen Einschulungsquote von Schülern/-innen aus teils schulfernen oder gar schulfremden Lern- und Lebenswelten anderer Länder ins Regelsystem der Grundschulen nicht nur keine Erhöhung im LSE- Einzelförderbedarf Lernen (L) erzeugt wird, sondern im Gegenteil die Quoten für 2016/2017 sogar nie gekannte Minderungen erfahren? (Bitte erklären und erläutern.) c. Wenn nein, welche Gründe sieht der Senat beziehungsweise die zuständige Fachbehörde dann für den enormen Anstieg im LSE- Einzelförderbedarf Sprache (S) und wie korreliert diese Erhöhung aus Senatssicht mit der enormen Abschwächung im Bereich Lernen (L)? (Bitte erklären und erläutern.)
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 In der Anlage 3 zu Drs. 21/8383 sind bei den einzelschulischen Angaben sowohl bei den Ergebnissen der schulischen Vorklärung als auch bei den Ergebnissen der ReBBZ-Diagnostik Spalten vertauscht worden. Die Vertauschung der Spalten hatte jedoch keine Auswirkung auf die Förderquoten, die sich auf die durch ein ReBBZ bestätigten sonderpädagogischen Förderbedarfe beziehen.
 
@@ -191,6 +192,6 @@ Welche Konsequenzen haben die gegenwärtig diagnostizierten LSE- Einzelförderbe
 
 Welche konkreten Auswirkungen haben sie jeweils für die betroffenen Standorte der weiterführenden Schulformen in 2017/2018? (Bitte jeweils mit Nennung von Standort, Schulform, Sozialindex und Bezirk, in absoluten Zahlen und in Prozent, in einer Excel-Tabelle angeben.)
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Die Ergebnisse des Diagnostikverfahrens im Schuljahr 2016/2017 bilden die Grundlage für die LSE-Ressourcenzuweisung der Klassenstufe 5 im Schuljahr 2017/2018. Die tatsächliche Zuweisung hängt jedoch auch von der Anzahl der Internationalen Vorbereitungs- und Basisklassen zum 01.08.2017 ab. Hier sind die Planungen noch nicht abgeschlossen.

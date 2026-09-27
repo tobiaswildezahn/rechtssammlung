@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58023"
@@ -103,7 +104,7 @@ Ist es zutreffend, dass die Behörden erst tätig wurden, als sie durch die Bena
 
 Wenn ja, warum wurden die Behörden auf die Mitteilung des Bürgers hin nicht aktiv, sondern erst nach Initiative der „Hamburger Morgenpost“?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Nein.
 
@@ -115,7 +116,7 @@ Wann erfuhr der Senat von den Ereignissen?
 
 Wie stellt sich aus Sicht des Senats der Sachverhalt dar? Wie konnte es insbesondere dazu kommen, dass das Wasser des Teichs abgelassen wurde, ohne eine Überlegung hinsichtlich der Fische anzustellen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Vorbemerkung. Im Übrigen hat sich der Senat hiermit nicht befasst.
 

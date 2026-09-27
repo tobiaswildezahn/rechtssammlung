@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7049", "20/9849", "20/12555"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53181"
@@ -47,7 +48,7 @@ Wie viele Klagen nach dem AGG wurden seit Januar 2012 in Hamburg eingereicht? Bi
 
 In wie vielen Fällen kam es seit Januar 2012 zu Verurteilungen nach dem AGG mit welchem Ausgang? Bitte aufgliedern nach Gerichten und Gründen (Benachteiligung aufgrund der Rasse, der ethnischen Herkunft, des Geschlechts, der Religion oder Weltanschauung, einer Behinderung, des Alters oder der sexuellen Identität). a. Wenn Verfahren eingestellt wurden, mit welcher Begründung?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Verfahrenseinstellung ist ein Begriff aus dem strafrechtlichen Verfahren. Aus einem Verstoß gegen das AGG folgen aber keine unmittelbaren strafrechtlichen Konsequenzen. Zielrichtung des Gesetzes sind vielmehr im Wesentlichen zivil-, sozial-, arbeits- und verwaltungsrechtliche Rechtsbeziehungen.
 
@@ -96,7 +97,7 @@ VZÄ Sachmittel
 01.07. bis  
 31.12.2014  
 57.563  
-  
+–  
 0,5 Stelle Projektleitung, E  
 11 TV-L,
 
@@ -109,12 +110,12 @@ Jahr Zuwendung
 VZÄ Sachmittel
 
 (Euro)  
-  
+–  
 0,5 Stelle Beratung, E 9 TV-  
 L,  
-  
+–  
 0,25 Stelle Verwaltungsass., E 8 TV-L,  
-  
+–  
 0,10 Stelle Leitung, E 11  
 TV-L  
 2015  

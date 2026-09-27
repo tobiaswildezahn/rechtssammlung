@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50134"
@@ -218,15 +219,15 @@ Welche neuen Messen mit welchen Ausrichtungen wurden für die kommenden Jahre ak
 
 Im Rahmen der Gastveranstaltungen finden regelmäßig wiederkehrende Messen (unter anderem jährlich die Aircraft Interiors Expo, Affordable Art Fair, Babywelt) auf dem Messegelände statt. Für 2016 konnten bis zum jetzigen Zeitpunkt nachfolgende neue Veranstaltungen akquiriert werden:
 
-• 10.02. – 11.02.2016 maintenance Hamburg – Fachmesse für industrielle Instandhaltung
+– 10.02. – 11.02.2016 maintenance Hamburg – Fachmesse für industrielle Instandhaltung
 
-• 25.02. – 26.02.2016 Online Marketing Rockstars – Festival mit Ausstellung und Konferenz
+– 25.02. – 26.02.2016 Online Marketing Rockstars – Festival mit Ausstellung und Konferenz
 
-• 27.04. – 28.04.2016 Schulbaumesse – Fachmesse für Investitionen im Bildungsbau
+– 27.04. – 28.04.2016 Schulbaumesse – Fachmesse für Investitionen im Bildungsbau
 
-• 30.04.2016 id infotage dental – Fachmesse für Zahnmedizintechnik
+– 30.04.2016 id infotage dental – Fachmesse für Zahnmedizintechnik
 
-• 17.06. – 19.06.2016 IRMA – Reha- und Mobilitätsmesse für Alle
+– 17.06. – 19.06.2016 IRMA – Reha- und Mobilitätsmesse für Alle
 
 Die Abteilung Gastveranstaltungen ist kontinuierlich damit beschäftigt, neue Messen und Corporate Events für die HMC zu akquirieren. Zurzeit sind neue Eigenveranstaltungen konkret nicht geplant.
 

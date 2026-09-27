@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 17
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54307"
@@ -187,7 +188,7 @@ Waren oder sind die angeschafften Elektrofahrzeuge jeweils seit der Anschaffung 
 
 Welche Ausfallquoten ergeben sich gegebenenfalls hierbei?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Nach den bisher vorliegenden Erkenntnissen zur Betriebsbereitschaft sind die Elektrofahrzeuge insgesamt unauffällig. Technisch bedingt sind die Fahrzeuge während der Ladezeiten nicht einsetzbar. Eine besondere Statistik zur Betriebsbereitschaft wird bei Feuerwehr und Polizei nicht geführt.
 

@@ -14,6 +14,7 @@ fragen: 35
 einzelfragen: 48
 antwortbloecke: 32
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4919", "21/4940", "21/4943", "21/5812", "21/4030", "21/6222"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55079"
@@ -124,7 +125,7 @@ Wie viele Asylverfahren Hamburger Antragsteller wurden im Oktober 2016 mit welch
 
 Wie war die Gesamtschutzquote im Oktober 2016?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 
@@ -154,7 +155,7 @@ Wie viele Personen waren in den Einrichtungen der Erstaufnahme (EA), der Folgeun
 
 Wie viele Plätze gibt es in EA und örU? Bitte nach Standort aufschlüsseln und jeweils Auslastungsquote mit angeben.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Belegungszahlen vom 30. Oktober 2016 mit Buchungsstand vom 2. November 2016 sind den folgenden zwei Tabellen zu entnehmen.
 
@@ -565,7 +566,7 @@ Wie viele Mitarbeiter beziehungsweise VZÄ welcher Bezirke beschäftigten sich i
 
 In welchen mit der Flüchtlingsverwaltung beauftragten Bereichen wurde aufgrund der zurückgehenden Flüchtlingszahlen im Oktober Personal abgebaut?
 
-#### Antwort zu Fragen 29 bis 30
+#### Antwort zu Fragen 29 und 30
 
 Ein Personalabbau findet aufgrund des weiterhin hohen Arbeitsaufkommens nicht statt. Durch Fluktuationen können sich niedrigere Personalzahlen als im Vormonat ergeben. Im Übrigen siehe Drs. 21/5812.
 

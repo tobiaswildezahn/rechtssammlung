@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60445"
@@ -45,7 +46,7 @@ Welche Bedeutung misst der Senat dem Pionierwald zu?
 
 Stimmt es, dass der Pionierwald oder Teile davon ein gesetzlich geschütztes Biotop oder geschützter Biotoptyp ist/sind? Falls ja, welche Bereiche und welche Restriktionen für eine andere Nutzung, zum Beispiel für eine Bebauung, ergeben sich daraus? Falls nein: Welchen (anderen) Status mit welcher Wertigkeit hat der Pionierwald?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Pionierwald hat laut Biotopkataster keinen gesetzlichen Schutz gemäß § 30 Bundesnaturschutzgesetz (BNatSchG).
 
@@ -65,7 +66,7 @@ In den Materialien zum Landschaftsprogramm (Lapro), hier: „Versorgungsanalyse 
 
 #### Antwort zu Frage 4
 
- im Süden: Veddel, Teile von Wilhelmsburg ... .“
+– im Süden: Veddel, Teile von Wilhelmsburg ... .“
 
 Bei der Erstellung des Lapro vor 20 Jahren waren weder die Planungen für das „Spreehafenviertel“ noch für die anderen Neubaugebiete in Wilhelmsburg mit mehreren 1.000 Wohnungen bekannt.
 

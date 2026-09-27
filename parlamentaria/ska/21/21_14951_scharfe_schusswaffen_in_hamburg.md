@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 17
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8373"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64418"
@@ -93,7 +94,7 @@ Wie oft hat die Polizei in den Jahren 2015, 2016, 2017 und 2018 Verstöße gegen
 
 Wie viele scharfe Schusswaffen hat die Polizei im besagten Zeitraum sichergestellt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Polizei erfasst Straftaten gemäß dem Straftatenkatalog der Richtlinien für die Erfassung und Verarbeitung der Daten in der Polizeilichen Kriminalstatistik (PKS).
 
@@ -169,7 +170,7 @@ Wie häufig sind der Polizei im besagten Zeitraum Dienstwaffen abhandengekommen 
 
 Um was für Waffen handelte es sich dabei?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Gemäß § 18 Absatz 4 des Gesetzes zum Schutz der öffentlichen Sicherheit und Ordnung (SOG) sind Schlagstock, Distanz-Elektroimpulsgerät, Pistole, Revolver, Gewehr und Maschinenpistole als Waffen zugelassen.
 

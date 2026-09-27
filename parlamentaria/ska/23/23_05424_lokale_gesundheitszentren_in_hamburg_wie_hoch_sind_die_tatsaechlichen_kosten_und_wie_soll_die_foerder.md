@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 0
 beantwortet: false
+status: "unbeantwortet"
 zitierte_drucksachen: ["22/17219", "23/4340"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105341"
@@ -27,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Christin Christ (CDU) vom 21.09.26 und Antwort des Senats · Drucksache vom 21.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105341) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105341/23_05424_lokale_gesundheitszentren_in_hamburg_wie_hoch_sind_die_tatsaechlichen_kosten_und_wie_soll_die_foerderung_ab_2027_fortgefuehrt_werden)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

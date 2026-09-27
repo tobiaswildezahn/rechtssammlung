@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50714"
@@ -67,6 +68,6 @@ Wann wurden wo in den letzten zehn Jahren auf Hamburger Straßen gesundheitsgef�
 
 Wann wurden wo in den letzten zehn Jahren auf Hamburger Straßen Fahrbahnbeläge ausgetauscht, weil eine Gesundheitsgefährdung vorlag?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Eine entsprechende Statistik im Sinne der Fragestellung wird nicht geführt. Im Übrigen siehe Antwort zu 1. Ein derartiger Fall ist der zuständigen Behörde nicht bekannt.

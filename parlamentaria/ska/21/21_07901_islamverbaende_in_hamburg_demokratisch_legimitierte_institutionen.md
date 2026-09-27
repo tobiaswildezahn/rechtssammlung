@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5830", "20/603", "20/4886", "21/5841"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56538"
@@ -71,7 +72,7 @@ d) Alevitische Gemeinde.
 
 Wie viele Mitglieder haben die oben genannten Verbände nach gegenwärtiger Kenntnis des Senats?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Mitglieder der Trägerverbände sind deren Unterorganisationen. Zu den islamischen Verbänden siehe Drs. 20/4886, zur Alevitischen Gemeinde Deutschland siehe Protokollerklärung zu Artikel 11 des Vertrages vom 13. November 2012 („Amtlicher Anzeiger“ 2013, S. 1001).
 
@@ -91,7 +92,7 @@ Angenommen der Senat hätte zu keinem Zeitpunkt über Belege für eine demokrati
 
 Hatte der Senat jemals konkrete Hinweise (ihm gegenüber erfolgte Erklärungen der Islamverbände ausgenommen) dafür, dass es sich bei den Islamverbänden um demokratisch legitimierte Institutionen handelt? Falls ja, welche? Falls nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung. Im Übrigen stellen Verträge mit Religionsgemeinschaften keine Begünstigung, sondern eine Grundlage für die Zusammenarbeit dar.
 

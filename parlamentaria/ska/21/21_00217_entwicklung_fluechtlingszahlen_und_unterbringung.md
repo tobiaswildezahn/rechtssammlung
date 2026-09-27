@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48346"
@@ -87,6 +88,6 @@ Ist aus Sicht des Senats davon auszugehen, dass die in diesem Zusammenhang im Ha
 
 Plant der Senat die Bürgerschaft mit diesem Sachverhalt zu befassen? Wenn ja, wann und in welcher Form? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der zusätzliche Bedarf wird derzeit ermittelt. Darüber hinaus sind die Planungen noch nicht abgeschlossen.

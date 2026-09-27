@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 18
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66956"
@@ -81,7 +82,7 @@ Stürze: Wie hat sich der Anteil Patienten/-innen entwickelt, die auf einer Stat
 
 Falls die Daten zu den Fragen 1. – 3. dem Senat nicht oder noch nicht vorliegen: Wann werden die Daten voraussichtlich dem Senat zugänglich sein?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Antworten zu 1. bis 2.
 

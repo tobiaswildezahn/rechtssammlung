@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51064"
@@ -43,6 +44,6 @@ Wie viele entsprechende Hinweise von Luxemburg beziehungsweise Luxemburger Steue
 
 Wie wurde seitens der Steuerbehörden mit diesen Hinweisen umgegangen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der internationale Informationsaustausch erfolgt über das Bundesministerium der Finanzen. Die Steuerverwaltung der Freien und Hansestadt Hamburg ordnet entsprechende Hinweise, die ihr übermittelt werden, grundsätzlich dem jeweiligen Steuerfall zu und verfolgt diese unter steuerfachlichen Gesichtspunkten nach den jeweiligen Anforderungen und konkreten Bedingungen des Einzelfalls. Eine gesonderte statistische Erfassung oder Auswertung erfolgt in dieser Hinsicht nicht. Die Ermittlung der erfragten Angaben würde eine Auswertung von mehreren Tausend Steuerakten erfordern, was in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich ist.

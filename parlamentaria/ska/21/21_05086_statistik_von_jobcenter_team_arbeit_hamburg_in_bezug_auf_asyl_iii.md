@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4543", "21/3068", "20/12394", "20/11168"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53535"
@@ -47,7 +48,7 @@ Wie errechnen sich die in Anlage 7 genannten „Zugeteilte Ausgabemittel 2016 (S
 
 Errechnet sich der in der Anlage 7 genannte Betrag für „Ausgabemittel gesamt“ in Höhe von 107.986.008 Euro aus den bis zum 30. April 2016 zugeteilten Bundesmitteln in Höhe von 113.115.624 Euro und geplanten und/oder erfolgten Umschichtungen in Höhe von 5.129.616 Euro in das Verwaltungskostenbudget?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die in der Drs. 21/4543 genannten „zugeteilten Ausgabemittel 2016“ aus der Anlage 7 in der Höhe von 107.986.008 Euro entsprechen der bis zum 30.4.2016 erfolgten ersten Zuteilung an Bundesmitteln für Eingliederungsleistungen durch das Bundesministerium für Arbeit und Soziales (BMAS) in Höhe von insgesamt 113.388.357 Euro sowie bis dahin erzielter Einnahmen aus Altforderungen in Höhe von 5.937 Euro und einem Abzug für die bis zu diesem Zeitpunkt vorgesehene Umschichtung in den Verwaltungshaushalt in Höhe von 5.408.286 Euro.
 

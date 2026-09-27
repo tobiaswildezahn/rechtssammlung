@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 21
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/723", "21/945"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49149"
@@ -57,7 +58,7 @@ Welche Kennzahlen in der Bekämpfung des Einbruchdiebstahls und/ oder weiterer D
 
 Auf welche Weise sollen diese Ziele erreicht werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Kriminalitätsentwicklung und die Fallzahlen in bestimmten Deliktsbereichen wie auch der Einbruchskriminalität unterliegen vielfältigen, auch temporären Einflussfaktoren, die eine unmittelbare Korrelation zwischen polizeilichen Maßnahmen und einer Ergebnismessung in Kennzahlen nicht immer zulassen. Eine Festlegung von konkreten Kennzahlen erfolgt daher nicht. Grundsätzlich ist das Ziel, weniger Menschen Opfer von Einbruchskriminalität werden zu lassen und begangene Delikte aufzuklären.
 

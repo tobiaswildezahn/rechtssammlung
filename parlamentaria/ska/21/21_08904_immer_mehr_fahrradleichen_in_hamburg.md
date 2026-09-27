@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10713", "21/5256"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57648"
@@ -97,7 +98,7 @@ Wie vielen der ermittelten Halter konnten 2016 und 2017 Bußgelder und Kosten de
 
 In welcher Höhe wurden Einnahmen gemäß Frage 5. generiert und in welchen Haushaltstiteln wurde diese vereinnahmt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Entfällt.
 

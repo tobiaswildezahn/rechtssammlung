@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51370"
@@ -82,7 +83,7 @@ Wie ist die durchschnittliche Nutzung der einzelnen Angebote und Dienstleistunge
 
 Wie viele Beschäftigte und ehrenamtlich Tätige sind jeweils in den Mehrgenerationenhäusern aktuell tätig? (Bitte einzeln pro Mehrgenerationenhaus aufschlüsseln.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage 1.
 
@@ -102,7 +103,7 @@ Erhalten die Mehrgenerationenhäuser darüber hinaus weitere Fördermittel? Wenn
 
 Erhalten die Mehrgenerationenhäuser darüber hinaus weitere Mittel aus dem Haushalt, zum Beispiel für erbrachte Leistungen? Wenn ja, bitte die Höhe der Mittel sowie den Zweck und den entsprechenden Haushaltstitel angeben.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Anlage 2.
 
@@ -148,61 +149,61 @@ gesamte Einrichtung
 
 Soziale Beratung und Hilfen:
 
- Telefonauskunft und Infothek
+– Telefonauskunft und Infothek
 
- Erstberatung zu allen Fragen im
+– Erstberatung zu allen Fragen im
 
 Alltag und Weitervermittlung in
 
 das Hamburger Hilfesystem
 
- Beratung für Mütter
+– Beratung für Mütter
 
- Sozialberatung, Formular- und
+– Sozialberatung, Formular- und
 
 Antragshilfe
 
- Rechtsberatung
+– Rechtsberatung
 
- Beratung zur beruflichen Orien-
+– Beratung zur beruflichen Orien-
 
 tierung für Bundesfreiwillige
 
- Gesundheitsförderung / Shiatsu
+– Gesundheitsförderung / Shiatsu
 
- Informationen zu aktuellen The-
+– Informationen zu aktuellen The-
 
 men
 
 Offene, angeleitete Treffpunkte:
 
- Info-Café
+– Info-Café
 
- Mütter-Café
+– Mütter-Café
 
- Information und Austausch für
+– Information und Austausch für
 
 Mütter in türkischer Sprache
 
- Mittagstische
+– Mittagstische
 
- Frühstückstreffpunkte
+– Frühstückstreffpunkte
 
- PC-Online-Treffpunkte bei Flaks
+– PC-Online-Treffpunkte bei Flaks
 
 und im Bürgertreff Altona-Nord
 
- Basteln für Jung und Alt gemein-
+– Basteln für Jung und Alt gemein-
 
 sam mit dem Spielhaus Alsen-
 
 park
 
- Hamburg entdecken für Jung
+– Hamburg entdecken für Jung
 
 und Alt
 
- Gesundheitsförderung Schwim-
+– Gesundheitsförderung Schwim-
 
 2013: insgesamt 20.441 Nut-
 
@@ -212,7 +213,7 @@ zungen
 
 2015: insgesamt 25.964 Nutzungen
 
- 6 hauptamtliche Beschäftigte in Teilzeit
+– 6 hauptamtliche Beschäftigte in Teilzeit
 
 mit insgesamt 4,4
 
@@ -222,11 +223,11 @@ Stellen, davon 10 Std.
 
 MGH finanziert
 
- 1 geringfügig Beschäftigte mit 8 Wochen-
+– 1 geringfügig Beschäftigte mit 8 Wochen-
 
 stunden
 
- 9 Honorarkräfte für unterschiedliche
+– 9 Honorarkräfte für unterschiedliche
 
 Kursangebote an je
 
@@ -240,17 +241,17 @@ desmittel MGH finan-
 
 ziert
 
- 4 Übungsleiter/innen mit Aufwandentschädigung,
+– 4 Übungsleiter/innen mit Aufwandentschädigung,
 
 über Bundesmittel MGH
 
 finanziert
 
- 10 Beschäftigte im Bundesfreiwilligendienst
+– 10 Beschäftigte im Bundesfreiwilligendienst
 
- 6 sonstige Ehrenamtliche
+– 6 sonstige Ehrenamtliche
 
- 1 Praktikantin
+– 1 Praktikantin
 
 Seite 2 von 10
 
@@ -280,49 +281,49 @@ Aktuell ehrenamtlich Tätige
 
 men für Jung und Alt
 
- Offener Kaffeetreff für geflüchte-
+– Offener Kaffeetreff für geflüchte-
 
 te Frauen und ihre Kinder
 
- Recycling Taschen häkeln
+– Recycling Taschen häkeln
 
- Offene Kinderbetreuung
+– Offene Kinderbetreuung
 
 Qualifizierung und Kurse:
 
- Vorbereitung auf die externe
+– Vorbereitung auf die externe
 
 Prüfung für den ersten allge-
 
 meinbildenden Schulabschluss
 
- Stark im Beruf – Mütter mit Mig-
+– Stark im Beruf – Mütter mit Mig-
 
 rationshintergrund steigen ein
 
 (Einstieg in den Arbeitsmarkt)
 
- Zukunftslotsen Altona in der
+– Zukunftslotsen Altona in der
 
 Flüchtlingsunterstützung
 
- Deutsch sprechen lernen für ge-
+– Deutsch sprechen lernen für ge-
 
 flüchtete Frauen mit begleiten-
 
 der, offener Kinderbetreuung
 
- PC Kurs für Anfängerinnen
+– PC Kurs für Anfängerinnen
 
- Sicherer Umgang mit PC und In-
+– Sicherer Umgang mit PC und In-
 
 ternet
 
- Deutsch im Alltag
+– Deutsch im Alltag
 
- Nähkurse
+– Nähkurse
 
- Theaterprojekt Lebenslust für
+– Theaterprojekt Lebenslust für
 
 Jung und Alt (in Kooperation mit
 
@@ -334,7 +335,7 @@ domizil und dem Bürgertreff Al-
 
 tona-Nord)
 
- Sprache im Alltag (in Kooperati-
+– Sprache im Alltag (in Kooperati-
 
 on mit der Sprachbrücke-
 
@@ -368,35 +369,35 @@ Aktuell ehrenamtlich Tätige
 
 (Stand 1.1.2016), Frage 5 b
 
- Bundesfreiwilligendienst bei
+– Bundesfreiwilligendienst bei
 
 Flaks
 
- Engagement im Ehrenamt oder
+– Engagement im Ehrenamt oder
 
 Praktikum
 
- Veranstaltungsreihe mit Informa-
+– Veranstaltungsreihe mit Informa-
 
 tionen zur Gesundheitsförderung
 
 und Pflege im Alter
 
- Service für Ältere nach Bedarf
+– Service für Ältere nach Bedarf
 
- Patinnen für Kursteilnehmerin-
+– Patinnen für Kursteilnehmerin-
 
 nen ESA
 
- PC-/ Internetnutzung und Skype
+– PC-/ Internetnutzung und Skype
 
 während der Öffnungszeiten
 
- Kopiere und FAX
+– Kopiere und FAX
 
- Tauschbücherei
+– Tauschbücherei
 
- Bereitstellen von Räumlichkeiten
+– Bereitstellen von Räumlichkeiten
 
 an andere Institutionen, Selbst-
 
@@ -404,7 +405,7 @@ hilfegruppen und Existenzgrün-
 
 derinnen
 
- Stadtteilprojekte in Kooperation
+– Stadtteilprojekte in Kooperation
 
 mit anderen Trägern und der
 
@@ -444,27 +445,27 @@ Umsetzung des MGH Aktionspro-
 
 gramms:
 
- Offener Treff
+– Offener Treff
 
- Mittagstisch f. Senioren
+– Mittagstisch f. Senioren
 
- Räume f. Familienfeiern
+– Räume f. Familienfeiern
 
- Sozialberatung
+– Sozialberatung
 
- Sprach- und Konversationstreff mit
+– Sprach- und Konversationstreff mit
 
 Kinderbetreuung
 
- Sprechzeit des Jugendmigrations-
+– Sprechzeit des Jugendmigrations-
 
 dienstes
 
- Sprechzeit des Vereins Bergedorfer
+– Sprechzeit des Vereins Bergedorfer
 
 für Völkerverständigung e.V.
 
- Helferbörse für Jung und Alt – Schü-
+– Helferbörse für Jung und Alt – Schü-
 
 2013: 75.555 Besuche
 
@@ -472,7 +473,7 @@ für Völkerverständigung e.V.
 
 2015: 47.085 Besuche
 
- 2 geringfügige Beschäftigung (je 11
+– 2 geringfügige Beschäftigung (je 11
 
 Wstd.) über Bun-
 
@@ -480,21 +481,21 @@ desmittel MGH fi-
 
 nanziert
 
- Bürgerhaus:
+– Bürgerhaus:
 
- 4 hauptamtlich Beschäftigte (je 30
+– 4 hauptamtlich Beschäftigte (je 30
 
 Wstd., Café)
 
- 1 hauptamtlich Beschäftigte (20 Wstd.,
+– 1 hauptamtlich Beschäftigte (20 Wstd.,
 
 Management)
 
- Aktionsprogramm: 15 Eh-
+– Aktionsprogramm: 15 Eh-
 
 renamtliche
 
- Bürgerhaus: 11 weitere
+– Bürgerhaus: 11 weitere
 
 Ehrenamtliche
 
@@ -528,61 +529,61 @@ nach Aktionsprogramm
 
 MGH II lerInnen helfen SeniorInnen
 
- Treff des Alevitischen Kulturvereins
+– Treff des Alevitischen Kulturvereins
 
 (BAKM)
 
- Schkola ASBUKA (Russische Kultur
+– Schkola ASBUKA (Russische Kultur
 
 f. Kinder)
 
- Offener Computertreff
+– Offener Computertreff
 
- Theater ohne Grenzen
+– Theater ohne Grenzen
 
- Seniorenberatung
+– Seniorenberatung
 
- Beratung für freiwillig Engagierte
+– Beratung für freiwillig Engagierte
 
- Quartiersbotschafter
+– Quartiersbotschafter
 
- Sozialzertifikat f. freiw. Engagierte
+– Sozialzertifikat f. freiw. Engagierte
 
- Beratung des Pflegestützpunkts
+– Beratung des Pflegestützpunkts
 
- Mittagstisch f. Jung und Alt
+– Mittagstisch f. Jung und Alt
 
- Schulungskurse/Computerkurse f.
+– Schulungskurse/Computerkurse f.
 
 Freiwillige
 
- Betreuungsangebote (z.B. ASB:
+– Betreuungsangebote (z.B. ASB:
 
 Café Freiraum)
 
- Nachbarschaftshilfe
+– Nachbarschaftshilfe
 
- Sprechzeit Freiwilligenagentur
+– Sprechzeit Freiwilligenagentur
 
- Gruppe f. pflegende Angehörige
+– Gruppe f. pflegende Angehörige
 
- Veranstaltungsreihe: Haushalt-
+– Veranstaltungsreihe: Haushalt-
 
 Familie-Pflege
 
- Seminar zu Haushalt-Familie-Pflege
+– Seminar zu Haushalt-Familie-Pflege
 
 mit Betreuungsangebot
 
- Begegnungsangebot für Menschen
+– Begegnungsangebot für Menschen
 
 mit und ohne Demenz
 
- Ganztagstreff für Alzheimer-
+– Ganztagstreff für Alzheimer-
 
 Betroffene
 
- 1 hauptamtlich Beschäftigte (39 Wstd.,
+– 1 hauptamtlich Beschäftigte (39 Wstd.,
 
 Telefon)
 
@@ -594,13 +595,13 @@ Nachbarschatz e.V.
 
 Fragen 2, 4, 5 a und b: An-
 
- Still- und Krabbelgruppen
+– Still- und Krabbelgruppen
 
- Hipp und Hopp für Minis
+– Hipp und Hopp für Minis
 
- Gedichte für Wichte
+– Gedichte für Wichte
 
- Chor für Jung und Alt
+– Chor für Jung und Alt
 
 2013 und 2014:
 
@@ -608,11 +609,11 @@ Jeweils 42.500 Nutze-
 
 rinnen/ Nutzer (ge-
 
- 32 Teilzeitangestellte
+– 32 Teilzeitangestellte
 
- 1 Vollzeitangestellte
+– 1 Vollzeitangestellte
 
- 10 Ehrenamtliche
+– 10 Ehrenamtliche
 
 Seite 5 von 10
 
@@ -642,71 +643,71 @@ Aktuell ehrenamtlich Tätige
 
 gaben beziehen sich auf
 
-gesamte Einrichtung  Kinderabgabe/-betreuung
+gesamte Einrichtung – Kinderabgabe/-betreuung
 
- Kita
+– Kita
 
- Fou Kunstlabor
+– Fou Kunstlabor
 
- Mittagstisch, offener Treff
+– Mittagstisch, offener Treff
 
- Familiäre Krisenintervention
+– Familiäre Krisenintervention
 
- Opstapje
+– Opstapje
 
- Improvisationstheater für Jung und
+– Improvisationstheater für Jung und
 
 Alt
 
- Bilinguale Theatergruppe für Kinder
+– Bilinguale Theatergruppe für Kinder
 
 (spanisch-deutsch)
 
- Patchwork für Jung und Alt
+– Patchwork für Jung und Alt
 
- Kosmetik für Jung und Alt
+– Kosmetik für Jung und Alt
 
- Fußpflege
+– Fußpflege
 
- Massage für Jung und Alt
+– Massage für Jung und Alt
 
- Friseur für Jung und Alt
+– Friseur für Jung und Alt
 
- Yoga für Schwangere
+– Yoga für Schwangere
 
- Hata Yoga
+– Hata Yoga
 
- Malkurs
+– Malkurs
 
- Bügel- und Wäscheservice
+– Bügel- und Wäscheservice
 
- Änderungsschneiderei
+– Änderungsschneiderei
 
- Stammtisch für pflegende Angehö-
+– Stammtisch für pflegende Angehö-
 
 rige
 
- Fortbildung Gastgeberinnen in
+– Fortbildung Gastgeberinnen in
 
 MGH
 
- Migrationsberatung
+– Migrationsberatung
 
- Beratung und Begleitung für Exis-
+– Beratung und Begleitung für Exis-
 
 tenzgründungen
 
- Spanisch
+– Spanisch
 
- Raumvermietung
+– Raumvermietung
 
- Integrationskrus
+– Integrationskrus
 
- Hol- und Bringservice für Essen
+– Hol- und Bringservice für Essen
 
- Verschenkbasar
+– Verschenkbasar
 
- Mitschi-Matschi für Kinder unter 1
+– Mitschi-Matschi für Kinder unter 1
 
 Jahr
 
@@ -714,7 +715,7 @@ schätzt)
 
 2015: 43.117 Nutzerinnen und Nutzer
 
- 5 Bundesfreiwillige
+– 5 Bundesfreiwillige
 
 Seite 6 von 10
 
@@ -742,49 +743,49 @@ Aktuell ehrenamtlich Tätige
 
 (Stand 1.1.2016), Frage 5 b
 
- Flohmarkt
+– Flohmarkt
 
- Wellnesstag
+– Wellnesstag
 
- Sommerfest
+– Sommerfest
 
- Halloween/Fasching
+– Halloween/Fasching
 
- Weihnachtsbasar
+– Weihnachtsbasar
 
- Benefiz-Konzert für in Syrien le-
+– Benefiz-Konzert für in Syrien le-
 
 bende Kinder
 
- Syrischer Kulturabend
+– Syrischer Kulturabend
 
- Tag der offenen Tür
+– Tag der offenen Tür
 
- Babymassage
+– Babymassage
 
- Geburtsvorbereitung
+– Geburtsvorbereitung
 
- Hebammensprechstunde
+– Hebammensprechstunde
 
- Busausflüge für Jung und Alt
+– Busausflüge für Jung und Alt
 
- Beratung und Therapie
+– Beratung und Therapie
 
- Sozialberatung
+– Sozialberatung
 
- Eltern-Kind-Brunch
+– Eltern-Kind-Brunch
 
- Erste Hilfe am Kind
+– Erste Hilfe am Kind
 
- Kinder-Disco
+– Kinder-Disco
 
- Basteln für Wichte
+– Basteln für Wichte
 
- Erzählcafé für Jung und Alt
+– Erzählcafé für Jung und Alt
 
- Spielenachmittag für Jung und Alt
+– Spielenachmittag für Jung und Alt
 
- Basteln für Senioren
+– Basteln für Senioren
 
 Hamburg-Mitte
 
@@ -820,23 +821,23 @@ Umsetzung des MGH Aktionspro-
 
 gramms:
 
-Jobcafé Billstedt zusammen mit der
+– Jobcafé Billstedt zusammen mit der
 
 Freiwilligenbörse
 
-kostenfreie Rechtsberatung
+– kostenfreie Rechtsberatung
 
-Elterncafé zusammen mit der KiTa
+– Elterncafé zusammen mit der KiTa
 
 Jubilate
 
-PC- Kurse für vorwiegend Menschen
+– PC- Kurse für vorwiegend Menschen
 
 mit Migrationshintergrund und PC-
 
 Kurse für Senioren
 
-PC Sprechstunde
+– PC Sprechstunde
 
 2013 und 2014:
 
@@ -855,11 +856,11 @@ MGH-Bereich:
 
 2 Beschäftigte (einmal mit 19 Wstd. und einmal mit 39 Wstd.)
 
- Aktionsprogramm: ca. 80
+– Aktionsprogramm: ca. 80
 
 Ehrenamtliche
 
- Weitere Bereiche der Kir-
+– Weitere Bereiche der Kir-
 
 chengemeinde: ca. 60
 
@@ -897,27 +898,27 @@ tung, Unterteilung nach Ak-
 
 tionsprogramm MGH II
 
-PC-Café
+– PC-Café
 
-Sozialberatung
+– Sozialberatung
 
-Beratung Mutter-Kind-Kuren
+– Beratung Mutter-Kind-Kuren
 
-Freiwilligenberatung
+– Freiwilligenberatung
 
-Freiwilligencoaching und -begleitung
+– Freiwilligencoaching und -begleitung
 
 in vielen Bereichen
 
-Senioren- und Seniorinnenberatung
+– Senioren- und Seniorinnenberatung
 
-Freiwilligenausbildung im Seniorenbe-
+– Freiwilligenausbildung im Seniorenbe-
 
 reich durch den Partner Seniorpartner
 
 der Diakonie im Haus
 
-Gönülli - Freiwilligengewinnung für
+– Gönülli - Freiwilligengewinnung für
 
 türkische Menschen zusammen mit
 
@@ -925,47 +926,47 @@ der Türkischen Gemeinde bei uns im
 
 Haus
 
-Nachbarschaftstreff
+– Nachbarschaftstreff
 
-Nähkurse für Frauen mit und ohne
+– Nähkurse für Frauen mit und ohne
 
 Migrationshintergrund
 
-Sprachförderkurse in Kooperation
+– Sprachförderkurse in Kooperation
 
-Einsatz mit Gewinn- Jugendliche un-
+– Einsatz mit Gewinn- Jugendliche un-
 
 terstützen Senioren und Seniorinnen
 
-Nintendo Wii Spieltage und Turniere
+– Nintendo Wii Spieltage und Turniere
 
 mit Senioren und auch mit Schulkin-
 
 dern
 
-Senioren und Seniorinnenkreise tlw.
+– Senioren und Seniorinnenkreise tlw.
 
 mit generationsübergreifenden Ange-
 
 boten
 
-Töpferangebote für Jung und Alt
+– Töpferangebote für Jung und Alt
 
-zusammen mit eigener KiTa generati-
+– zusammen mit eigener KiTa generati-
 
 onsübergreifende Angebote
 
-Kinderhotel
+– Kinderhotel
 
-Alle Welt Frauen Treff tlw. mit Kinder-
+– Alle Welt Frauen Treff tlw. mit Kinder-
 
 betreuung
 
-Freiwillige entlasten zuhause durch
+– Freiwillige entlasten zuhause durch
 
 Seniorpartner
 
-Väter-Kinder Reisen
+– Väter-Kinder Reisen
 
 Seite 8 von 10
 
@@ -993,63 +994,63 @@ Aktuell ehrenamtlich Tätige
 
 (Stand 1.1.2016), Frage 5 b
 
-Fahrdienste für Seniorinnen/Senioren
+– Fahrdienste für Seniorinnen/Senioren
 
-Lesebegleiter für Grundschulkinder
+– Lesebegleiter für Grundschulkinder
 
-Lesepaten zusammen mit KiTa
+– Lesepaten zusammen mit KiTa
 
-Frühstücks, - und Caféangebote in
+– Frühstücks, - und Caféangebote in
 
 den Öffnungszeiten
 
-Büchercafé mit Lesungen und Pro-
+– Büchercafé mit Lesungen und Pro-
 
 gramm
 
-Seniorenservicetag
+– Seniorenservicetag
 
-Angebote durch die Angehörigenschu-
+– Angebote durch die Angehörigenschu-
 
 le
 
-zusammen mit Alzheimergesellschaft
+– zusammen mit Alzheimergesellschaft
 
 – Angehörigentreff
 
-Frauentanzfest
+– Frauentanzfest
 
-Internationales Fest
+– Internationales Fest
 
-Fahrradkurse für Frauen
+– Fahrradkurse für Frauen
 
-Yoga
+– Yoga
 
-Feldenkrais
+– Feldenkrais
 
-Qi Gong
+– Qi Gong
 
-Kochprojekte - internationale Küche
+– Kochprojekte - internationale Küche
 
-Spielenachmittage für Jung und Alt
+– Spielenachmittage für Jung und Alt
 
-Denksport für Senioren
+– Denksport für Senioren
 
-Geburtsvorbereitung
+– Geburtsvorbereitung
 
-Sport und Bewegung für Familien
+– Sport und Bewegung für Familien
 
-Veranstaltungsprogramm am Do.
+– Veranstaltungsprogramm am Do.
 
 Abend
 
-Bandräume für Jugendliche
+– Bandräume für Jugendliche
 
-Musikunterreicht für Jugendliche
+– Musikunterreicht für Jugendliche
 
-Ausfahrten
+– Ausfahrten
 
-Stadtteilprojekte (Beteiligung an der
+– Stadtteilprojekte (Beteiligung an der
 
 Kulturachse Billstedt mit Programmen,
 
@@ -1089,67 +1090,67 @@ Aktuell ehrenamtlich Tätige
 
 ten:
 
-Überlassung der Räumlichkeiten für
+– Überlassung der Räumlichkeiten für
 
 Stadtteilveranstaltungen und Stadtteil-
 
 gruppen
 
-diverse selbstverwaltete Gruppen
+– diverse selbstverwaltete Gruppen
 
-Gospelchor
+– Gospelchor
 
-Kirchenmusik
+– Kirchenmusik
 
-Konzerte
+– Konzerte
 
-Informationsveranstaltungen
+– Informationsveranstaltungen
 
-Geselligkeitsveranstaltungen
+– Geselligkeitsveranstaltungen
 
-Förderung von Nachbarschaftskontak-
+– Förderung von Nachbarschaftskontak-
 
 ten
 
-Bewegungs-, Bildungs- und Entspan-
+– Bewegungs-, Bildungs- und Entspan-
 
 nungsangebote
 
-spirituelle Angebote
+– spirituelle Angebote
 
-Federführung Runder Tisch Flücht-
+– Federführung Runder Tisch Flücht-
 
 lingsarbeit Billstedt
 
-Flüchtlingsarbeit
+– Flüchtlingsarbeit
 
-Sozialkaufhaus
+– Sozialkaufhaus
 
-eigene KiTa
+– eigene KiTa
 
-Ausgabe Hamburger Tafel
+– Ausgabe Hamburger Tafel
 
-Raum- und Moderationsangebote für
+– Raum- und Moderationsangebote für
 
 Vernetzungstreffen
 
-Projekt Soundhouse mit Bandangebo-
+– Projekt Soundhouse mit Bandangebo-
 
 ten und Unterricht zusammen mit dem
 
 Haus der Jugend
 
-Stadtteilfeste und eigene themenbe-
+– Stadtteilfeste und eigene themenbe-
 
 zogene Feste
 
-Interessengruppen
+– Interessengruppen
 
-Konfirmandengruppen
+– Konfirmandengruppen
 
-Ausbildung von Konfi-Teamern
+– Ausbildung von Konfi-Teamern
 
-Vermietung von Räumlichkeiten für
+– Vermietung von Räumlichkeiten für
 
 Einrichtungen und Projekte im Stadt-
 
@@ -1193,25 +1194,25 @@ tungen im Bereich von Flüchtlingsar-
 
 beit:
 
-Kooperationsangebote mit anderen
+– Kooperationsangebote mit anderen
 
 Trägern im Bereich Café mit Angebo-
 
 ten und Hebammen
 
-Betreuung Haus, welches von Bauge-
+– Betreuung Haus, welches von Bauge-
 
 nossenschaft für Flüchtlinge zur Ver-
 
 fügung gestellt wird
 
-Monatliches Frühstücksangebot
+– Monatliches Frühstücksangebot
 
-Tafelausgabe
+– Tafelausgabe
 
-Flüchtlingsgottesdienste
+– Flüchtlingsgottesdienste
 
-Einbeziehung von Flüchtlingen bei der
+– Einbeziehung von Flüchtlingen bei der
 
 Kleiderkammer
 

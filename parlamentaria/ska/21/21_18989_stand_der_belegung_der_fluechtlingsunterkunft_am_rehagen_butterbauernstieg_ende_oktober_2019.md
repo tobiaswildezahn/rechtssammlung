@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 37
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5231", "21/2108", "21/14073", "21/17698", "21/14637"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68676"
@@ -78,7 +79,7 @@ Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kind
 
 Wie viele davon sind Familien, wie viele alleinstehende Männer und alleinstehende Frauen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Antwort zu 1.
 
@@ -275,7 +276,7 @@ Welche Angebote werden den Flüchtlingen zu jeweils welchen Zeiten in welchen R�
 
 Wie viele Ehrenamtliche sind eingesetzt und wie helfen sie?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Neben den Angeboten im naheliegenden Quartier Tegelsbarg finden in den Gruppenräumen vor Ort Angebote statt, siehe Anlage.
 

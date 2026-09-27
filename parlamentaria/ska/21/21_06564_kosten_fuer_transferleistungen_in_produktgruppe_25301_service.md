@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55097"
@@ -48,31 +49,31 @@ Die zuständige Behörde stellt den fünf Hamburger Spitzenverbänden Zuwendungs
 
 Die Spitzenverbände organisieren die Durchführung der Hilfen durch die Mitgliedsorganisationen in folgenden Hilfebereichen:
 
- Hilfen zur Arbeit,
+– Hilfen zur Arbeit,
 
- der Behindertenhilfe,
+– der Behindertenhilfe,
 
- der offenen Altenhilfe,
+– der offenen Altenhilfe,
 
- dem betreuten Wohnen,
+– dem betreuten Wohnen,
 
- der Beratung und Betreuung von Zuwanderern sowie
+– der Beratung und Betreuung von Zuwanderern sowie
 
- der Hilfen für Obdachlose.
+– der Hilfen für Obdachlose.
 
 Im Rahmen der Zuwendung nehmen die Spitzenverbände folgende Aufgaben wahr:
 
- Beratung, Information und Vertretung der Interessen der Mitgliedsorganisationen,
+– Beratung, Information und Vertretung der Interessen der Mitgliedsorganisationen,
 
- Zusammenarbeit mit Behörden und Verbänden, Beteiligung an gesetzgeberischen
+– Zusammenarbeit mit Behörden und Verbänden, Beteiligung an gesetzgeberischen
 
 Aktivitäten,
 
- Öffentlichkeitsarbeit,
+– Öffentlichkeitsarbeit,
 
- Fortbildungsmaßnahmen und Förderung der fachlich-methodischen Sozialarbeit,
+– Fortbildungsmaßnahmen und Förderung der fachlich-methodischen Sozialarbeit,
 
- Förderung und Pflege des bürgerschaftlichen Engagements.
+– Förderung und Pflege des bürgerschaftlichen Engagements.
 
 ### Frage 2
 

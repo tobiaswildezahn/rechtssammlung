@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70081"
@@ -79,19 +80,19 @@ d) In wie vielen und welchen der unter Ziffer 1. a) fallenden Verfahren ergingen
 
 Wie in der Vorbemerkung ausgeführt, sind einige Verfahren originär in den Jahren 2000 und 2004 eingegangen, andere haben durch Abtrennung von ihrem jeweiligen Stammverfahren neue Aktenzeichen erhalten. Dies vorausgeschickt, ergingen in den gegen den Planfeststellungbeschluss gerichteten Verfahren aus dem Jahr 2000 in vier Verfahren Urteile:
 
- 15 K 1383/02, Urteil vom 27. August 2002, Eingang: 16. Juni 2000, Dauer: zwei
+– 15 K 1383/02, Urteil vom 27. August 2002, Eingang: 16. Juni 2000, Dauer: zwei
 
 Jahre, zwei Monate und elf Tage.
 
- 15 K 3912/00, Urteil vom 9. Dezember 2003, Eingang: 30. Juni 2000, Dauer: drei
+– 15 K 3912/00, Urteil vom 9. Dezember 2003, Eingang: 30. Juni 2000, Dauer: drei
 
 Jahre, fünf Monate, neun Tage.
 
- 15 K 3393/08, Urteil vom 12. Juli 2010, Eingang: 17. Dezember 2008, Dauer: ein
+– 15 K 3393/08, Urteil vom 12. Juli 2010, Eingang: 17. Dezember 2008, Dauer: ein
 
 Jahr, sechs Monate, 25 Tage.
 
- 15 K 3156/15, Urteil vom 31. August 2015, Eingang: 4. Juni 2015, Dauer: zwei
+– 15 K 3156/15, Urteil vom 31. August 2015, Eingang: 4. Juni 2015, Dauer: zwei
 
 Monate, 27 Tage.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 19
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68101"
@@ -56,7 +57,7 @@ Wie oft hatte dies (in den Fällen nach Ziffer 1.) die Folge, dass der Betroffen
 
 In wie vielen Fällen wurde in dem in Ziffer 1. genannten Zeitraum im Rahmen der Mitwirkungspflicht die Unterzeichnung von Einwilligungen in die Entbindung von der ärztlichen Schweigepflicht verlangt? a. Wie oft haben Betroffene sich nicht bereit erklärt einzuwilligen? b. Welche Konsequenzen hatte dies?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 In Fällen von fehlender Mitwirkung ist das Vorliegen der Voraussetzungen der §§ 60 fortfolgende SGB I zu prüfen. Im Übrigen siehe Antwort zu 1. bis 1. c.
 

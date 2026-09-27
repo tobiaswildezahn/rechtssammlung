@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838", "21/3104"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52029"
@@ -61,11 +62,11 @@ c. Wurden bereits Bauanträge gestellt?
 
 Falls ja, wann und von wem für welche Flurstücke auf welcher Rechtsgrundlage?
 
- Am 12. November 2015 ging der Antrag auf Errichtung von Modulhäusern durch
+– Am 12. November 2015 ging der Antrag auf Errichtung von Modulhäusern durch
 
 f & w fördern und wohnen AöR (f & w) für Teile des Flurstücks 6540 der Gemarkung Poppenbüttel auf der Grundlage von § 31 Absatz 2 BauGB ein. Die Genehmigung erfolgte am 29. Februar 2016.
 
- Am 11. März 2016 ging der Antrag auf Errichtung von „Flüchtlingsunterkünften mit
+– Am 11. März 2016 ging der Antrag auf Errichtung von „Flüchtlingsunterkünften mit
 
 der Perspektive Wohnen“ durch f & w für Teile des Flurstücks 6540 der Gemarkung Poppenbüttel auf der Grundlage von § 31 (2) BauGB, hilfsweise nach § 246 (12 oder 14) Nummer 1 BauGB, ein.
 

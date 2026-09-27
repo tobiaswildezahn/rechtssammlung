@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 26
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1315"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62267"
@@ -362,7 +363,7 @@ Sollte nicht jeder Shisha-Betrieb als sogenannte Raucherkneipe deklariert werden
 
 Gemäß Hamburgischer Passivraucherschutzverordnung müssen Raucherkneipen mit weniger als 75 Quadratmetern im Eingangsbereich deutlich als Rauchergaststätte gekennzeichnet werden, womit für unter 18-Jährige der Zutritt verboten ist. Gilt dies auch für Shisha-Betriebe? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Nein, nur Shisha-Betriebe unter 75 m, die Tabak konsumieren. Sie sind gemäß § 2 Absatz 4 Hamburgisches Passivraucherschutzgesetz (HmbPschG) vom Rauchverbot ausgenommen. Es muss sich um Gaststätten mit nur einem Gastraum mit einer Gastfläche von weniger als 75 m² handeln, die keine zubereiteten Speisen anbieten und Personen unter 18 Jahren der Zutritt verwehrt ist.
 

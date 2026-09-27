@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 35
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7567", "21/6265", "18/8556", "20/9664", "20/9950", "21/4048"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56693"
@@ -97,7 +98,7 @@ c) Welche Mittel sollen eingesetzt werden?
 d) Wird darauf geachtet, Mitarbeiter/-innen einzustellen, die bereits berufliche Erfahrungen mit der Zielgruppe vorweisen können?
 e) Werden die Mitarbeiter/-innen sensibilisiert und geschult? Wenn ja, mit welchen Inhalten und in welchem Umfang? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/7567. Im Übrigen sind die Planungen noch nicht abgeschlossen.
 

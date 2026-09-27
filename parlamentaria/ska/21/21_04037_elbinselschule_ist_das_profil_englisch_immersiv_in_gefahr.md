@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3866"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52442"
@@ -45,7 +46,7 @@ Wie beurteilt die zuständige Behörde das Profil des englisch-immersiven Unterr
 
 An welchen Grundschulen in Hamburg neben der Elbinselschule wird englisch-immersiv unterrichtet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 An den Grundschulen Elbinselschule, Schule Max-Eichholz-Ring, Anton-Reé-Schule Allermöhe, Schule Vizelinstraße, Rudolf-Roß-Grundschule und Schule an der Gartenstadt können Kinder im Rahmen der vorhandenen Kapazitäten bereits in der Vorschule oder ab der ersten Klasse besonders intensiv Englisch lernen, da sämtliche Fächer
 – mit Ausnahme des Fachs Deutsch – auf Englisch unterrichtet werden. Besonders geschulte Lehrkräfte unterrichten nach dem international anerkannten Prinzip des »Immersive Learning«. Hauptziel dieses Ansatzes ist die explizite Förderung der Zweisprachigkeit, das heißt der gezielte Ausbau der kommunikativen Kompetenz der Lernenden in der englischen Sprache neben dem Ausbau der Sprachfertigkeiten in der Muttersprache. Am Ende der Grundschulzeit verfügen die Kinder über vielfältige Fähigkeiten im Fach Englisch, ohne dass ihre Kompetenzen im Fach Deutsch beein-

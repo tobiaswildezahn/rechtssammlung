@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 35
 antwortbloecke: 0
 beantwortet: false
+status: "unbeantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105345"
@@ -27,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Dennis Gladiator (CDU) vom 21.09.26 und Antwort des Senats · Drucksache vom 21.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105345) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105345/23_05428_harte_drogen_und_fahreignung_wie_konsequent_werden_erkenntnisse_ueber_drogenkonsum_an_die_fahrerlaubnisbehoerde_uebermittelt_und_fahrerlaubnisrechtlic)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

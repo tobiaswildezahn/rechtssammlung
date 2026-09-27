@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/471"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56735"
@@ -93,7 +94,7 @@ Aus welchen Motiven wurde die Reiterstaffel wann und in welchem Rahmen im Zusamm
 
 Welches Resümee zieht die zuständige Behörde aus diesem Einsatz?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Ein zielgerichteter Einsatz im Sinne der Fragestellungen erfolgte nicht.
 

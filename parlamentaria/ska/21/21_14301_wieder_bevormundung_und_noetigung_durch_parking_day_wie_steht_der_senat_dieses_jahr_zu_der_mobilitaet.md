@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 20
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10404"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63711"
@@ -119,7 +120,7 @@ Inwiefern werden der Senat beziehungsweise die zuständigen Behörden und/oder e
 
 Werden der Senat beziehungsweise die zuständigen Behörden und/oder einer der Landesbetriebe den „Parking Day“ 2018 personell unterstützen? Wenn ja, weshalb, in welcher Höhe und aus welcher Produktgruppe welches Einzelplans?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Eine Unterstützung durch den Senat beziehungsweise die zuständigen Behörden erfolgt nicht. Im Übrigen: entfällt.
 
@@ -133,15 +134,15 @@ Wie viele Anträge auf Anmeldungen von Kundgebungen/Demonstrationen im Rahmen de
 
 Mit welchen Mottos wurden die Kundgebungen/Demonstrationen im Rahmen des „Parking Day“ 2018 bisher jeweils als Veranstaltung angemeldet? Bitte für jede Veranstaltung das entsprechende Motto angeben.
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Bei der zuständigen Versammlungsbehörde bei der Polizei sind bis zum Stichtag 12. September 2018 zwei Anmeldungen für Versammlungen im Sinne der Fragestellung eingegangen:
 
- Anmeldung am 31. Juli 2018 durch eine Privatperson für den Allgemeinen Deut-
+– Anmeldung am 31. Juli 2018 durch eine Privatperson für den Allgemeinen Deut-
 
 schen Fahrrad-Club e.V. (ADFC) mit dem Tenor „Parking-Day – Mehr Raum für Menschen und fürs Rad!“
 
- Anmeldung am 31. August 2018 durch eine Privatperson für die Grünen Jugend
+– Anmeldung am 31. August 2018 durch eine Privatperson für die Grünen Jugend
 
 mit dem Tenor „Parking Day!“
 

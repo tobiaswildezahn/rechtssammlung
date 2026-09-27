@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14153"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48951"
@@ -45,7 +46,7 @@ Wie viele Fälle beziehungsweise Verdachtsfälle von vergifteten Hunden gab es b
 
 Womit wurden die unter 1. genannten Hunde jeweils vergiftet? Welcher Art waren die Giftköder und das Gift?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Vergiftete Hunde im Sinne der Fragestellung begründen entweder gemäß § 17 Tierschutzgesetz oder gemäß § 303 StGB den Anfangsverdacht für eine Straftat. Die für die betreffenden Ermittlungen zuständige Dienststelle der Polizei hat für das Jahr 2015 bisher nachfolgende Verdachtsfälle registriert:
 

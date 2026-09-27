@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4284", "21/7633", "21/11206", "21/16616", "21/13546"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67306"
@@ -72,7 +73,7 @@ Welche praktischen Anwendungen sehen der Senat und die zuständigen Behörden ak
 Welchen Ansatz verfolgt die Freie und Hansestadt Hamburg bei der Implementierung einer Bildungscloud für Hamburgs Schulen? Bitte insbesondere auf folgende Aspekte eingehen:
 a) Ob, seit wann und mit welchem bisherigen Ergebnis in Hamburg an einer Bildungscloud gearbeitet wird. Bitte ebenfalls konkret benennen, welche Definition einer Bildungscloud den Planungen des Senats und der zuständigen Behörden zugrunde liegt.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -136,7 +137,7 @@ Welche Gespräche fanden zwischen Vertretern der Freien und Hansestadt Hamburg u
 
 Findet ein regelmäßiger Kontakt und Austausch von Expertise zwischen den zuständigen Hamburger Behörden und den Entwicklern des Hasso- Plattner-Instituts und des MINT-EC statt? Wenn ja, inwiefern? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Hamburg hat mit dem Chief Digital Officer (CDO) der für Bildung zuständigen Behörde an den vom Schulausschuss der Kultusministerkonferenz initiierten länderübergreifenden Treffen zu dem Thema „Bildungscloud“ im Mai und im Dezember 2018 teilgenommen. Das Hasso-Plattner-Institut war anwesend und an den Austauschen beteiligt.
 

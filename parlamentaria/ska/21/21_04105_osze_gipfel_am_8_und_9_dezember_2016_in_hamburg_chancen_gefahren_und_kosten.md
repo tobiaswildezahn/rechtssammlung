@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52492"
@@ -75,7 +76,7 @@ Mit welchen Kosten für die Freie und Hansestadt Hamburg rechnet der Senat im Zu
 
 Welche Kosten in welcher Höhe wird der Bund voraussichtlich tragen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Einzelheiten der Kosten und ihrer Veranschlagung im Haushalt stehen noch nicht fest. Im Übrigen hat sich der Senat damit nicht befasst.
 

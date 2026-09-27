@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 18
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2944"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52459"
@@ -51,7 +52,7 @@ Wie viele Beamte/-innen können über die Speicherung in AURELIA entscheiden? Wi
 
 Welche Dienststellen sind zur Einspeisung von Daten berechtigt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Insgesamt sind 14 Beamtinnen und Beamte der Abteilung Staatsschutz, LKA 7, berechtigt, über die Speicherung in der Datei AURELIA zu entscheiden. Diese Beamtinnen und Beamten werden im Rahmen ihrer Aufgabenzuweisung in die Anwendung der Datei AURELIA eingewiesen. Darüber hinaus führt die Polizei fortlaufend themenbezogene Dienstunterrichte und allgemeine Anwenderlehrgänge für die Anwendung CRIME durch.
 
@@ -153,7 +154,7 @@ Welche Möglichkeiten haben Bürgerinnen und Bürger, um zu erfahren, welche Dat
 
 Welche Möglichkeiten haben Bürgerinnen und Bürger, um die Löschung dieser Daten zu veranlassen und welche Stelle entscheidet hierüber nach welchen Kriterien?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Drs. 21/2944.
 

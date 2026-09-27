@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10343"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51313"
@@ -158,7 +159,7 @@ Was tut der Senat zur Beschleunigung der Aufklärung von Identitäten? (Bitte j�
 
 Was tut der Senat, um die Beschaffung von Pass- beziehungsweise Passersatzpapieren zu beschleunigen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die zuständige Fachbehörde nutzt, im Rahmen der ihr zur Verfügung stehenden Ressourcen, ständig alle für die Identitätsklärung zur Verfügung stehenden Möglichkeiten. Dies umfasst Anhörungen und Befragungen, Auswertungen der Befragungen und Erkenntnisse anderer Behörden (zum Beispiel Bundesamt für Migration und Flüchtlinge (BAMF), Polizei), Durchsuchungen von Personen, Vorführungen bei den Auslandsvertretungen der (angeblichen) Herkunftsstaaten und Expertendelegationen sowie Text- und Sprachgutachten durch das BAMF et cetera. Darüber hinaus unterstützt Hamburg Bestrebungen auf Bundesebene zur Einrichtung einer gemeinsamen Organisationseinheit Passbeschaffung (Zusammenarbeit von Bundespolizei und Ländern) in Potsdam.
 
@@ -170,7 +171,7 @@ Welche Ansprüche auf Sozialleistungen haben abgelehnte Asylbewerber, die aufgru
 
 Setzt sich der Senat auf Bundesebene dafür ein, dass abgelehnten Asylbewerbern, die aufgrund mangelnder Pass- beziehungsweise Passersatzpapiere geduldet werden müssen, Ansprüche auf soziale Leistungen gekürzt werden? Wenn ja, in welcher Form? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Tatsache, dass eine Person nicht über Pass- oder Passersatzpapiere verfügt, berührt ihren Anspruch auf Leistungen nach dem Asylbewerberleistungsgesetz (AsylbLG) grundsätzlich nicht. Die Höhe der Grundleistungen nach § 3 AsylbLG ist unter der Ziffer II.1. der Arbeitshilfe zum AsylbLG (http://www.hamburg.de/basfi/ahasylblg/3733118/ah-asylblg-bverfg2012/) einsehbar. Der notwendige Bedarf wird in der Erstaufnahmeeinrichtung als Sachleistung gewährt.
 

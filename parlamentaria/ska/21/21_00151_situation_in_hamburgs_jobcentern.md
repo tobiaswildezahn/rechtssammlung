@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48283"
@@ -49,11 +50,11 @@ Das Bundesministerium für Arbeit und Soziales (BMAS) definiert den Betreuungssc
 
 Der Betreuungsschlüssel im Vermittlungsbereich ergibt sich aus § 44 c Absatz 4 SGB II und beträgt im Regelfall:
 
- 1 : 75 bei der Gewährung der Leistungen zur Eingliederung in Arbeit von erwerbs-
+– 1 : 75 bei der Gewährung der Leistungen zur Eingliederung in Arbeit von erwerbs-
 
 fähigen Leistungsberechtigten bis zur Vollendung des 25. Lebensjahres,
 
- 1 : 150 bei der Gewährung der Leistungen zur Eingliederung in Arbeit von erwerbs-
+– 1 : 150 bei der Gewährung der Leistungen zur Eingliederung in Arbeit von erwerbs-
 
 fähigen Leistungsberechtigten, die das 25. Lebensjahr vollendet haben.
 
@@ -65,7 +66,7 @@ Wie viele Hartz-IV-Empfänger werden von Hamburgs Jobcentern betreut? (Bitte auf
 
 Wie viele Leistungsempfänger kommen durchschnittlich auf einen Arbeitsvermittler? Bitte aufschlüsseln nach a. Anzahl der Hartz-IV-Empfänger laut Arbeitslosenstatistik, b. Anzahl krankgeschriebener Hartz-IV-Empfänger, c. Anzahl von Müttern und Vätern mit Hartz-IV-Bezug, die sich in Elternzeit befinden, d. Anzahl der Aufstocker mit Hartz-IV-Bezug, e. Teilnehmer in Weiterbildungsmaßnahmen, die Hartz IV beziehen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die statistisch erfassten Daten erlauben lediglich einen jährlichen Vergleich der Anzahl der Leistungsberechtigten zu der Anzahl der Vermittlerinnen und Vermittler bezogen auf Jobcenter team.arbeit.hamburg, nicht auf die einzelnen Standorte (siehe Statistik-Service der Bundesagentur für Arbeit „Zeitreihe zu Strukturen der Eckwerte und Geldleistungen nach dem SGB II – Deutschland mit Ländern“ seit dem Jahr 2005 (Reiter Hamburg), http://statistik.arbeitsagentur.de/nn_31994/SiteGlobals/ Forms/Rubrikensuche/Rubrikensuche_Form.html?view=processForm&resourceId=21 0368&input_=&pageLocale=de&topicId=17582&year_month=aktuell&year_month.GR OUP=1&search=Suchen.
 
@@ -140,7 +141,7 @@ Gibt es seitens der Jobcenter-Leitungen Vorgaben, wie viele erfolgreiche Vermitt
 
 Gibt es seitens der Jobcenter-Leitungen Ziele, a) wie viele Teilnehmer in einem bestimmten Zeitraum in Maßnahmen vermittelt werden sollten beziehungsweise b) wie viele Teilnehmer in einem bestimmten Zeitraum in eine bestimmte Maßnahme vermittelt werden sollten? Falls ja, wie sehen diese Zielvorgaben aus?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Es gibt für Jobcenter eine Zielvereinbarung gemäß § 48 b SGB II, siehe Anlage 3. Diese beinhaltet insbesondere die Ziele der Verringerung der Hilfebedürftigkeit, Verbesserung der Integration in Erwerbstätigkeit und Vermeidung von langfristigem Leistungsbezug. Darüber hinaus gibt es keine Zielvereinbarungen seitens der Jobcenter- Standortleitungen für Mitarbeiterinnen und Mitarbeiter in den Jobcentern.
 

@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4599", "21/4457", "21/1395"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53221"
@@ -56,18 +57,18 @@ Für die Eigenfinanzierung von Standorten durch f & w gemäß der Drs. 21/1395 w
 
 Der Anlagenabgang auf Seiten der FHH betraf die nachfolgenden sieben Standorte:
 
- HH-Altona W 807 Notkestraße 25
+– HH-Altona W 807 Notkestraße 25
 
- HH-Wandsbek W 834 Rodenbeker Straße
+– HH-Wandsbek W 834 Rodenbeker Straße
 
- HH-Wandsbek W 838 Ohlendieck
+– HH-Wandsbek W 838 Ohlendieck
 
- HH-Harburg W 789 Cuxhavener Straße
+– HH-Harburg W 789 Cuxhavener Straße
 
- HH-Bergedorf W 840 Sülzbrack
+– HH-Bergedorf W 840 Sülzbrack
 
- HH-Mitte W 805 Friesenstraße
+– HH-Mitte W 805 Friesenstraße
 
- HH-Mitte W 839 Schlenzigstraße
+– HH-Mitte W 839 Schlenzigstraße
 
 Dieser Buchungsvorgang löste bei f & w keinen zeitgleichen Zugang im Anlagevermögen aus. f & w buchte die Erstattung an die FHH in 2016 als Aufwand, für den in 2015 eine Verbindlichkeit gebildet wurde. Die Aktivierung der Bauten an diesen Standorten wird f & w nach Fertigstellung der Baumaßnahmen und Bestätigung der Schlussrechnungen vornehmen.

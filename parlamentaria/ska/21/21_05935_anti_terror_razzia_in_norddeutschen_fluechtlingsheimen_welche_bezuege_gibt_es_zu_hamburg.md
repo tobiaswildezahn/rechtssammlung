@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3922", "21/1513", "21/1542", "21/1703"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54471"
@@ -71,7 +72,7 @@ Hat der Senat Erkenntnisse darüber, ob in Hamburger Flüchtlingsunterkünften e
 
 Welche Konsequenzen zieht der Senat aus den Geschehnissen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 

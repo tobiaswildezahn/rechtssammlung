@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 27
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12430", "20/2929", "20/8361"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49197"
@@ -61,11 +62,11 @@ b) Wenn nein, warum unterstützt der Senat keine Mentoring-Projekte in Hamburg? 
 
 Folgende ehrenamtliche Mentoringprojekte werden aktuell unterstützt:
 
- Der Träger „Mentor e.V. – Die Leselernhelfer in Hamburg“ erhielt im Jahr 2013 von
+– Der Träger „Mentor e.V. – Die Leselernhelfer in Hamburg“ erhielt im Jahr 2013 von
 
 der BSB eine Zuwendung in Höhe von 12.000 Euro. In den Jahren 2014 und 2015 wurde eine jährliche Zuwendung in Höhe von 15.000 Euro zur Kofinanzierung einer hauptamtlichen Geschäftsstelle gewährt.
 
- Im „SchulMentorenprojekt – Hand in Hand für starke Schulen“ werden 27 Schulen
+– Im „SchulMentorenprojekt – Hand in Hand für starke Schulen“ werden 27 Schulen
 
 (siehe Anlage) in sozial schwieriger Lage beim Aufbau eines schulischen Mentoringsystems gefördert. Es handelt sich um ein Kooperationsprojekt der BSB und des Trägers KWB Koordinierungsstelle Weiterbildung und Beschäftigung e.V. (KWB), der unter anderem für die Weiterbildung der Mentorinnen und Mentoren zuständig ist. Das Projekt unterstützt Schülermentoren, Elternmentoren sowie externe freiwillige Mentorinnen und Mentoren aus den Hamburger Mentoringorganisationen. Die Mentorinnen/Mentoren helfen Schülerinnen und Schülern im Schulalltag, beraten Eltern zum Thema Schule und unterstützen beim Übergang Schule
 – Beruf.
@@ -74,7 +75,7 @@ Das Projekt hat eine Laufzeit von 2014 – 2017 und ein Volumen von insgesamt ru
 
 Die Sicherung der Qualität und Effizienz erfolgt durch Evaluation der Träger, die die Verantwortung für die Auswahl und Qualifizierung ihrer Mentorinnen und Mentoren tragen. Die BSB hat den Dachverband Mentor.Ring Hamburg bei der Entwicklung eines Leitfadens zum Qualitätsmanagement in Mentoringprojekten unterstützt (siehe Antwort zu 2.). Im Rahmen des Schulmentorenprojekts sichert die zuständige Behörde die Qualität durch eine begleitende Projektleitung, die Zusammenarbeit mit den schulischen Koordinatoren und jährlichen Zielvereinbarungen mit den beteiligten Schulen.
 
- Ebenfalls von der BSB wird das Projekt „Mentoring für den weiblichen Führungs-
+– Ebenfalls von der BSB wird das Projekt „Mentoring für den weiblichen Führungs-
 
 nachwuchs an Schule“ gefördert: Der Start des ersten Durchlaufs fand im September 2009 statt und dauerte bis 2010, ein zweiter Durchlauf erfolgte von Oktober 2010 bis Februar 2012, im August 2012 wurde das Projekt als Angebot verstetigt und wird seitdem dauerhaft umgesetzt. Die Unterstützung der zuständigen Behörde erfolgt durch die Organisation der Abläufe und das Erstellen relevanter Materialien für die Teilnehmerinnen, die für ein Jahr Mentoring-Teams bilden. Im Rahmen des Mentoringprojekts werden vielfältige Fortbildungen zu Führungsrolle, Karriere-
 
@@ -87,11 +88,11 @@ aufgelistet,
 siehe  
 http://www.mentoring.hamburg.de. Hier ist auch der Evaluationsbericht des Pilotprojekts einsehbar.
 
- Das Personalamt hat sich im Wintersemester 2012/2013 und Sommersemester
+– Das Personalamt hat sich im Wintersemester 2012/2013 und Sommersemester
 
 2013 mit einem Betrag von insgesamt 8.000 Euro an dem Berufseinstiegs- Mentoringprogramm UNICA beteiligt. UNICA ist eine Initiative der Universität Hamburg zur Förderung des weiblichen Führungsnachwuchses. Zielgruppe sind hochbegabte und besonders motivierte Studentinnen und Doktorandinnen. Die Teilnehmerinnen (Mentees) werden gezielt bei ihrem Berufseinstieg in Wirtschaft und Verwaltung beraten und unterstützt. Zu den Qualitätsanforderung und zur Organisation von UNICA siehe https://www.expertinnen-beratungsnetz.unihamburg.de/unica/die-organisation.html.
 
- Die Kulturbehörde hat dem Institut für Kultur- und Medienmanagement der Hoch-
+– Die Kulturbehörde hat dem Institut für Kultur- und Medienmanagement der Hoch-
 
 schule für Musik und Theater seit 2013 punktuell in Kultur- und Medienmanagement erfahrene Mentoren zur Verfügung gestellt. Kosten waren damit nicht verbunden. Die Effektivität und Effizienz des Vorhabens wird durch gemeinsame Zielsetzungen und Abschlussgespräche sichergestellt.
 
@@ -105,27 +106,27 @@ b) Wenn nein, warum fördert der Senat das Mentoring in Hamburg nicht? Wurde das
 
 Um die Bedeutung des Mentorings im Bildungsbereich weiter zu verbessern, hat die BSB folgende Maßnahmen ergriffen:
 
- 2011: Schaffung einer eine festen Anlaufstelle für die Beratung und Unterstützung
+– 2011: Schaffung einer eine festen Anlaufstelle für die Beratung und Unterstützung
 
 auch der Mentoringprojekte in Hamburg im Referat „Bürgerschaftliches Engagement für Bildung“.
 
- 2013 und 2014: Vernetzung von Mentoringprojekten am Standort Hamburg mit
+– 2013 und 2014: Vernetzung von Mentoringprojekten am Standort Hamburg mit
 
 Hilfe von Sondermitteln der „Aktion zusammen wachsen“ des Bundesamts für Familie und zivilgesellschaftliche Aufgaben (BAFzA) in Höhe von 5.000 Euro.
 
- Jährlich Beteiligung gemeinsam mit anderen Behörden an der AKTIVOLI Freiwilli-
+– Jährlich Beteiligung gemeinsam mit anderen Behörden an der AKTIVOLI Freiwilli-
 
 genbörse. Hier informiert die BSB über die Möglichkeiten des freiwilligen Engagements im Bildungsbereich.
 
- Unterstützung von Stiftungen und Organisationen, die Schülerstipendien an in der
+– Unterstützung von Stiftungen und Organisationen, die Schülerstipendien an in der
 
 Regel besonders begabte Schülerinnen und Schüler aus sozial und sprachlich heterogenen Herkunftsfamilien vergeben, wozu programmatisch ein begleitendes Mentoring gehört. Die zuständige Behörde fördert den Fachaustausch der beteiligten Akteure durch Organisation eines regelmäßig tagenden Runden Tisches im Landesinstitut für Lehrerbildung und Schulentwicklung (LI).
 
- Seit 2012: Unterstützung des Dachverbandes Mentor.Ring Hamburg e.V., um die
+– Seit 2012: Unterstützung des Dachverbandes Mentor.Ring Hamburg e.V., um die
 
 Vernetzung der Mentoringprojekte untereinander und den fachlichen Austausch auf Landesebene zu organisieren. Die zuständige Behörde fördert den Dachverband mit einer jährlichen Zuwendung von 6.000 Euro (in 2014 und 2015) zur Unterstützung der Arbeit in Administration und Koordination.
 
- Kofinanzierung – zusammen mit der Körber-Stiftung – des jährlich stattfindenden
+– Kofinanzierung – zusammen mit der Körber-Stiftung – des jährlich stattfindenden
 
 Mentoringtags mit rund 1.500 Euro für Tagungsvorbereitung und -management. Darüber hinaus werden andere geldwerte Leistungen erbracht wie Übernahme von Druck- und Vervielfältigungsarbeiten (Tagungsflyer, Programme, Dokumentationen).
 

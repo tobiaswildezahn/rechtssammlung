@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51883"
@@ -99,7 +100,7 @@ Welche Planungen und Überlegungen gibt es im Einzelnen zur baulichen Sanierung 
 
 Wann und für welche Vorhaben ist die Vergabe von Planungsaufträgen oder die Auslobung von Wettbewerben für den Campus Von-Melle-Park geplant?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Es sind zum jetzigen Zeitpunkt keine konkreten Vorhaben oder Wettbewerbe geplant. Die Entwicklung des Campus Von-Melle-Park wird aktuell zwischen der Behörde für Wissenschaft, Forschung und Gleichstellung und der Universität Hamburg diskutiert.
 

@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 26
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57103"
@@ -130,7 +131,7 @@ a) „Weser-Takt“ zwischen Bremen Hauptbahnhof und Hamburg Hauptbahnhof,
 b) „Nordsee-Takt“ zwischen Cuxhaven und Hamburg Hauptbahnhof,
 c) „Elbe-Takt“ zwischen Uelzen und Hamburg Hauptbahnhof auf die einzelnen Zugnummern? Bitte für jeden Fahrplan seit 2011 die Ausfälle nach Zugnummern sortiert aufschlüsseln.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Derartige Informationen unterliegen den Betriebs- und Geschäftsgeheimnissen des Unternehmens.
 
@@ -144,7 +145,7 @@ Die Metronom GmbH nutzt im Fall von Zugausfällen diverse Informationskanäle, u
 
 Einzelne Zugausfälle oder Teilausfälle
 
- Streckenmeldung (live) aus der Leitstelle inklusive:
+– Streckenmeldung (live) aus der Leitstelle inklusive:
 
 o Strecke (Start- und Zielbahnhof),
 
@@ -156,19 +157,19 @@ o Alternative Reisemöglichkeiten (SEV, S-Bahn et cetera),
 
 o Gründe und Ursachen für Verspätung,
 
- Facebook www.facebook.com/metronom.Eisenbahngesellschaft/,
+– Facebook www.facebook.com/metronom.Eisenbahngesellschaft/,
 
- Twitter https://twitter.com/metronom4me,
+– Twitter https://twitter.com/metronom4me,
 
- Website www.der-metronom.de/#meldungen,
+– Website www.der-metronom.de/#meldungen,
 
- Metronom App,
+– Metronom App,
 
- Informationsweitergabe an DB Station & Service (Durchsagen und Anzeigen an
+– Informationsweitergabe an DB Station & Service (Durchsagen und Anzeigen an
 
 den Bahnhöfen),
 
- Echtzeitdaten (App) werden automatisch auch an VBN-Datendrehscheibe und RIS
+– Echtzeitdaten (App) werden automatisch auch an VBN-Datendrehscheibe und RIS
 
 (DB-Auskunftssysteme) weitergeleitet. Über die „VBN-Datendrehscheibe“ werden auch die Verbundauskunftssysteme des HVV mit Echtzeitdaten versorgt.
 
@@ -178,19 +179,19 @@ per E-Mail. Weiterhin werden diese Zugausfälle in der Fahrplanauskunft mit Begr
 
 Bei geplanten Zugausfällen (zum Beispiel Baustellen) mit größeren Auswirkungen oder gravierend abweichenden Fahrzeiten informiert die Metronom GmbH ergänzend zu oben genannten Maßnahmen durch:
 
- frühzeitige Ankündigung auf der Website www.metronom.de und www.der-
+– frühzeitige Ankündigung auf der Website www.metronom.de und www.der-
 
 metronom.de/fahrplan/baustellen-uebersicht/,
 
- Ankündigung über die Website des HVV,
+– Ankündigung über die Website des HVV,
 
- Ankündigung an die Fahrgäste (Flyer mit Baustellenfahrplan, Promotion-Team in
+– Ankündigung an die Fahrgäste (Flyer mit Baustellenfahrplan, Promotion-Team in
 
 den Zügen, Plakate in Vitrinen),
 
- Durchsagen in den Zügen circa eine bis zwei Wochen vor der Maßnahme,
+– Durchsagen in den Zügen circa eine bis zwei Wochen vor der Maßnahme,
 
- Servicekräfte vor Ort.
+– Servicekräfte vor Ort.
 
 Darüber hinaus werden diese Zugausfälle in der Fahrplanauskunft mit Begründung und dem Angebot von SEV hinterlegt.
 
@@ -388,6 +389,6 @@ Durch welche konkreten Initiativen haben die Hamburger Vertreter im
 a) Aufsichtsrat,
 b) Vorstand der Metronom Eisenbahngesellschaft mbH seit 2011 versucht, eine Reduzierung der Zugausfälle auf den vom Metronom betriebenen Linien beziehungsweise Strecken von und nach Hamburg zu erreichen?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Die Freie und Hansestadt Hamburg (FHH) ist Auftraggeberin, nicht Gesellschafterin von Metronom. Daher ist die FHH weder in der Gesellschafterversammlung noch in der Geschäftsführung von Metronom vertreten.

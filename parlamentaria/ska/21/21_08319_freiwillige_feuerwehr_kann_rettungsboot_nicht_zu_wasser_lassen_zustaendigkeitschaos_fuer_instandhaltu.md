@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57036"
@@ -47,7 +48,7 @@ Wann wurde der Steendiekkanal zuletzt in seiner Gesamtheit entschlickt und wie h
 
 Wenn nur Teilbereich entschlickt wurden, warum, welche waren dies, wann wurde die Maßnahme durchgeführt und wie hoch waren die Kosten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In den vergangenen Jahren, einschließlich der Unterhaltungssaison 2016/2017, wurde jeweils der vordere Bereich des Kanals unterhalten, um den Zugang zu den Seeschiffsliegeplätzen zu gewährleisten. Die Unterhaltung des gesamten Kanals war für diesen Zweck nicht erforderlich.
 
@@ -80,7 +81,7 @@ Wie bewertet der Senat beziehungsweise die zuständige Behörde die oben dargest
 
 Wie wollen die zuständigen Stellen zukünftig mit der Problematik umgehen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Slipanlage wird einsatztaktisch nicht in vollem Umfang benötigt, da das Kleinboot der Freiwilligen Feuerwehr (FF) Finkenwerder hauptsächlich von Anfang März bis Ende Oktober im Wasser liegt. Darüber hinaus ist die Slipanlage am Rüschkanal (Rüschweg) tideunabhängig nutzbar. Somit sind keine Einschränkungen für die FF Finkenwerder vorhanden. Im Übrigen siehe Antwort zu 7.
 

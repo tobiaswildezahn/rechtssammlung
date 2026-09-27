@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 5
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7389", "21/6471"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57076"
@@ -49,7 +50,7 @@ Wurde f&w inzwischen in das erweiterte Verantwortungsmodell im Rahmen der Beteil
 
 Wird ein Vertreter der Finanzbehörde in den Aufsichtsrat von f&w entsendet? Wenn ja, wer und wann? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Bürgerschaft hat am 1. März 2017 das Vierte Gesetz zur Änderung des Gesetzes über die Anstalt öffentlichen Rechts f & w fördern und wohnen AöR (f & w) beschlossen; es wurde veröffentlicht im Hamburgischen Gesetz- und Verordnungsblatt am 17. März 2017.
 

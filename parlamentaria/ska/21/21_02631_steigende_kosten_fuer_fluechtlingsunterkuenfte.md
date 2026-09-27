@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/999", "21/1395"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50929"
@@ -43,7 +44,7 @@ Kann der Senat diese Preisentwicklung aus seiner eigenen Erfahrung heraus bestä
 
 Wie erklären sich die Preissteigerungen im Detail?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die durchschnittlichen Gesamtinvestitionskosten werden seit Juli 2015 mit 23.600 Euro pro Platz kalkuliert, siehe Drs. 21/999. Dieser Wert beinhaltet bereits eine Kostensteigerung von rund 350 Euro pro Platz.
 

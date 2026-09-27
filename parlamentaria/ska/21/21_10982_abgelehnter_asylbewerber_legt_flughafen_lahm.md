@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9975"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59917"
@@ -97,7 +98,7 @@ Wie viele Personen sind bisher aus dem Abschiebegewahrsam entflohen?
 
 Sind die bisher entflohenen Personen zwischenzeitlich wieder aufgefunden worden? Wie ist dann mit ihnen verfahren worden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Einschließlich des vorgenannten Sachverhalts gab es sechs Personen. Eine in Amtshilfe untergebrachte Person konnte noch am selben Abend wieder festgesetzt werden und wurde planmäßig an die zuständige auswärtige Ausländerbehörde zur Abschiebung übergeben. Eine weitere Person konnte ebenfalls unmittelbar nach dem Entweichen in der nahen Umgebung gefasst werden. Diese Person wurde inzwischen abgeschoben.
 

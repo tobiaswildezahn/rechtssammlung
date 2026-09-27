@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1354"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52061"
@@ -57,7 +58,7 @@ Welche Verwendung hat das Geld jeweils in den Bezirken genau gefunden? Bitte fü
 
 Inwiefern wurde das Geld auch zur Förderung der Angebote Ehrenamtlicher direkt (zum Beispiel Eintrittsgelder, Materialanschaffungen und so weiter) ausgegeben? Wie viel jeweils für welche Projekte?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Gemäß Drs. 21/1354 unterstützen und fördern die zuständige Behörde und die Bezirksämter das freiwillige Engagement für geflüchtete Menschen auf lokaler und bezirklicher Ebene. Die Förderziele, der Zuwendungszweck, damit korrespondierende Maßnahmen und die bisherige Mittelverwendung entsprechen den Regelungen der
 
@@ -118,52 +119,52 @@ Altona Die Mittel sind verplant und konnten aus technischen Gründen bisher nich
 
 März/ April 2016.
 
-Eimsbüttel  Vorgesehen ist die Schaffung von stadtteilbezogenen Verfügungsfonds in Stadtteilen mit Flüchtlingsunterkünften. Diese Verfügungsfonds
+Eimsbüttel – Vorgesehen ist die Schaffung von stadtteilbezogenen Verfügungsfonds in Stadtteilen mit Flüchtlingsunterkünften. Diese Verfügungsfonds
 
 sollen von Organisationen verwaltet werden, die in den Stadtteilen die ehrenamtliche Arbeit koordinieren. Überwiegend sind dies Kirchen-
 
 gemeinden.
 
- Die Entscheidung über die Verwendung der Mittel soll in den Händen lokaler Gremien liegen, die sich aus Ehrenamtlichen zusammenset-
+– Die Entscheidung über die Verwendung der Mittel soll in den Händen lokaler Gremien liegen, die sich aus Ehrenamtlichen zusammenset-
 
 zen. Sie können die Bedarfe für den Mitteleinsatz vor Ort am besten einschätzen. Verfügungsfonds sind in den Stadtteilen Lokstedt,
 
 Niendorf, Schnelsen, Eidelstedt und Stellingen im Aufbau.
 
-Hamburg-Nord  Dem Träger Internationaler Bund (IB) sind 90.000 € zugewendet worden, von denen, neben den Projektkosten des Trägers, 67.704 € für
+Hamburg-Nord – Dem Träger Internationaler Bund (IB) sind 90.000 € zugewendet worden, von denen, neben den Projektkosten des Trägers, 67.704 € für
 
 die Aktivitäten und Projekte der Ehrenamtlichen direkt zur Verfügung stehen. Der Träger hat bisher noch keine Mittelabforderung gestellt.
 
 Von den 67.704 € sind beim IB inzwischen Projektanträge in Höhe von 28.015 € gestellt und vom Bezirksamt befürwortet worden.
 
-
+–
 22.902 € möchte das Bezirksamt für ein Projekt im Bereich Patenschaften für junge Volljährige verwenden; das Projekt befindet sich noch in der Planung.
 
- Bislang wurden rd. 137 € für das Catering beim Gesamttreffen der Runden Tische im Bezirk Hamburg-Nord verausgabt.
+– Bislang wurden rd. 137 € für das Catering beim Gesamttreffen der Runden Tische im Bezirk Hamburg-Nord verausgabt.
 
 Wandsbek Die bisher abgerufenen Mittel i.H.v. 34.223 € verteilen sich auf folgende Maßnahmen:
 
 - Projekte von Trägern:
 
- Lawaetz-Stiftung: Beratung und Finanzabwicklung: 10.000 €
+– Lawaetz-Stiftung: Beratung und Finanzabwicklung: 10.000 €
 
- KifaZ Farmsen: Hallenkosten Bewegungsangebot: 364 €
+– KifaZ Farmsen: Hallenkosten Bewegungsangebot: 364 €
 
- SC Urania: Schwimmen für geflüchtete Frauen: 9.300 €
+– SC Urania: Schwimmen für geflüchtete Frauen: 9.300 €
 
 - Direkte Förderung der Angebote Ehrenamtlicher:
 
- Welcome Wandsbek: Honorare Koordination im Sozialraum: 11.745 €
+– Welcome Wandsbek: Honorare Koordination im Sozialraum: 11.745 €
 
- Unterstützer Walddörferstraße: Sachkosten Ausstattung offener Treff Geflüchtete: 680 €
+– Unterstützer Walddörferstraße: Sachkosten Ausstattung offener Treff Geflüchtete: 680 €
 
- Helferkreis Farmsen 2: Internetauftritt Initiative: 84 €
+– Helferkreis Farmsen 2: Internetauftritt Initiative: 84 €
 
- Unterstützung Stargarder Straße: Freizeitaktivitäten Frühjahr 2016: 700 €
+– Unterstützung Stargarder Straße: Freizeitaktivitäten Frühjahr 2016: 700 €
 
- Initiative Oktaviostraße: Müttercafé: 700 €
+– Initiative Oktaviostraße: Müttercafé: 700 €
 
- Unterstützer Walddörferstraße: Internetversorgung: 650 €
+– Unterstützer Walddörferstraße: Internetversorgung: 650 €
 
 Die Lawaetz-Stiftung ist damit beauftragt, die Verwendung von 100 Tsd. € zur Förderung und Unterstützung des freiwilligen Engagement für
 
@@ -173,13 +174,13 @@ fasst sich am 21.03.2016 damit, die gesamte Summe durch die Lawaetz-Stiftung koo
 
 Bezirk Erläuterungen
 
-Bergedorf  Es wird im Rahmen eines bereits initiierten Interessenbekundungsverfahrens ein Träger ausgewählt, der die Aufgabe „Förderung des En-
+Bergedorf – Es wird im Rahmen eines bereits initiierten Interessenbekundungsverfahrens ein Träger ausgewählt, der die Aufgabe „Förderung des En-
 
 gagements für geflüchtete Menschen auf lokaler und bezirklicher Ebene“ im Bezirk Bergedorf wahrnehmen soll. Hierfür werden 35.000 €
 
 zur Verfügung gestellt.
 
- Die weiteren Mittel werden entsprechend der geltenden Förderrichtlinie für Einzelprojekte eingesetzt.
+– Die weiteren Mittel werden entsprechend der geltenden Förderrichtlinie für Einzelprojekte eingesetzt.
 
 Harburg Das Bezirksamt vergibt eine Zuwendung in Höhe von rd. 97.587 € an die Lawaetz-Stiftung zur Förderung und Unterstützung des freiwilligen
 
@@ -195,7 +196,7 @@ Bislang wurden folgende Maßnahmen bewilligt:
 
 Projekte von Trägern:
 
- Antragstellerin: Lawaetz-Stiftung
+– Antragstellerin: Lawaetz-Stiftung
 
 Maßnahme: Unterstützungsfonds für ehrenamtliches Engagement im Rahmen der „Fach- und Koordinierungsstelle Lokale Partnerschaf-
 
@@ -203,7 +204,7 @@ ten Harburg - Demokratie leben!“ (Personalkosten)
 
 Antragssumme: 9.758,73 €
 
- Antragstellerin: „Fach- und Koordinierungsstelle Lokale Partnerschaften Harburg - Demokratie leben!“
+– Antragstellerin: „Fach- und Koordinierungsstelle Lokale Partnerschaften Harburg - Demokratie leben!“
 
 Maßnahme: Empfang für Ehrenamtliche in der Flüchtlingshilfe
 
@@ -213,19 +214,19 @@ Antragssumme: 4.690,00 €
 
 - Direkte Förderung der Angebote Ehrenamtlicher:
 
- Antragstellerin: „TUHH integrativ“ – Kochgruppe
+– Antragstellerin: „TUHH integrativ“ – Kochgruppe
 
 Maßnahme: Kochen mit Geflüchteten aus der Erstaufnahme Schwarzenbergplatz
 
 Antragssumme: 3.600,00 €
 
- Antragsteller: Elbdeich e.V.
+– Antragsteller: Elbdeich e.V.
 
 Maßnahme: Schulung von Ehrenamtlichen zur Fortführung der „offenen Kunstwerkstatt“ für Geflüchtete
 
 Antragssumme 2.440,00 €
 
- Antragsteller: Walking tours
+– Antragsteller: Walking tours
 
 Maßnahme: Wanderungen durch Hamburg mit Geflüchteten
 

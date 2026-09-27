@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 35
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10523", "21/11002", "21/9306", "21/7590", "21/5832", "21/8210", "21/11064", "21/7703"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60391"
@@ -91,27 +92,27 @@ KompAS umfasst folgende Inhalte zur Kompetenzfeststellung und frühzeitigen Akti
 
 Kompetenzbilanzierung:
 
- Durchführung einer Eignungsfeststellung anhand der vorhandenen Kenntnisse und
+– Durchführung einer Eignungsfeststellung anhand der vorhandenen Kenntnisse und
 
 Kompetenzen des Teilnehmers (ohne Durchführung klassischer Profiling- und Feststellungsverfahren)
 
- Unterstützung des Teilnehmers bei Vornahme einer realistischen Selbsteinschät-
+– Unterstützung des Teilnehmers bei Vornahme einer realistischen Selbsteinschät-
 
 zung
 
- Erstellung eines Aktivierungs- und Eingliederungsplanes
+– Erstellung eines Aktivierungs- und Eingliederungsplanes
 
 Ergänzung von Fördereinheiten je nach regionalem Bedarf:
 
- Berufsorientierung
+– Berufsorientierung
 
- Bewerbungstraining
+– Bewerbungstraining
 
- Vermittlung berufsfachlicher Kenntnisse
+– Vermittlung berufsfachlicher Kenntnisse
 
- Betriebliche Erprobung/Teile von Maßnahmen bei einem Arbeitgeber
+– Betriebliche Erprobung/Teile von Maßnahmen bei einem Arbeitgeber
 
- Stabilisierung der Beschäftigungsaufnahme
+– Stabilisierung der Beschäftigungsaufnahme
 
 ### Frage 8
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/92"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48401"
@@ -43,19 +44,19 @@ Betreffend Drs. 21/92 Frage 3. a.: Welche Stellenbeschreibungen umfassen die tar
 
 Im Bereich „Entschädigungsleistungen“ im Versorgungsamt Hamburg liegen den tariflichen Eingruppierungen die folgenden Stellenbeschreibungen zugrunde:
 
- E 5: Opferentschädigungsgesetz (OEG)-Assistenztätigkeiten; Assistenz für
+– E 5: Opferentschädigungsgesetz (OEG)-Assistenztätigkeiten; Assistenz für
 
 Rückforderung Lastenausgleichsgesetz (LAG);
 
- E 6: Assistenz für Rückforderung LAG und Archivpflege;
+– E 6: Assistenz für Rückforderung LAG und Archivpflege;
 
- E 8: Sachbearbeitung bestimmte Fälle OEG A-Z;
+– E 8: Sachbearbeitung bestimmte Fälle OEG A-Z;
 
- E 9: Beratung von ehemaligen Heimkindern; Sachbearbeitung Kriegsopfer-
+– E 9: Beratung von ehemaligen Heimkindern; Sachbearbeitung Kriegsopfer-
 
 versorgung (KOV) nach dem BVG; Sachbearbeitung im Vertriebenenamt und Amt für Wiedergutmachung; Sachbearbeitung in der Hauptfürsorgestelle Kriegsopferfürsorge (KOF); Sachbearbeitung in der Orthopädischen Versorgungsstelle (OVSt); Sachbearbeitung Rückforderung LAG und Schadenfeststellung Beweissicherungs-Feststellungsgesetz (BFG);
 
- E 10: Abschnittsleitung Vertriebenenamt und Amt für Wiedergutmachung;
+– E 10: Abschnittsleitung Vertriebenenamt und Amt für Wiedergutmachung;
 
 Sachbearbeitung  
 HUK  
@@ -64,7 +65,7 @@ Sondersachbearbeitung
 und  
 Stellvertretung Abschnittsleitung;
 
- E 11: Abschnittsleitung OEG, Sondersachbearbeitung und stellvertretende
+– E 11: Abschnittsleitung OEG, Sondersachbearbeitung und stellvertretende
 
 Sachgebietsleitung  
 (SGL); Abschnittsleitung  
@@ -78,9 +79,9 @@ Sachbearbeitung
 Lastenausgleichsamt,  
 Beschwerdestelle inklusive stellvertretende SGL;
 
- E 12: SGL Hauptfürsorgestelle KOF, OVSt, HuK;
+– E 12: SGL Hauptfürsorgestelle KOF, OVSt, HuK;
 
- E 15: Referatsleitung Soziale Entschädigungen inklusive stellvertretende
+– E 15: Referatsleitung Soziale Entschädigungen inklusive stellvertretende
 
 Abteilungsleitung.
 
@@ -92,20 +93,20 @@ Betreffend Drs. 21/92 Frage 3. a.: Welche Stellenbeschreibungen umfassen die Die
 
 Im Bereich „Entschädigungsleistungen“ im Versorgungsamt Hamburg liegen den Dienstposten die folgenden Stellenbeschreibungen zugrunde:
 
- A 9: Sachbearbeitung KOV nach dem Bundesversorgungsgesetz (BVG); Sachbearbeitung in der Hauptfürsorgestelle KOF;
+– A 9: Sachbearbeitung KOV nach dem Bundesversorgungsgesetz (BVG); Sachbearbeitung in der Hauptfürsorgestelle KOF;
 
- A 10: Sachbearbeitung OEG; Beratung ehemalige Heimkinder; Sonder-
+– A 10: Sachbearbeitung OEG; Beratung ehemalige Heimkinder; Sonder-
 
 sachbearbeitung Feststellung/Rückforderung beim LAG;
 
- A 11: Abschnittsleitung  
+– A 11: Abschnittsleitung  
 OEG;  
 SGL  
 Durchführung  
 Lastenausgleich,  
 Ausgleichsamt Hamburg;
 
- A 12: SGL OEG und andere Anwendungsgesetze; SGL KOV, BVG In- und
+– A 12: SGL OEG und andere Anwendungsgesetze; SGL KOV, BVG In- und
 
 Ausland, Spätaussiedler, Opferrentengesetz, Wiedergutmachung.
 
@@ -117,13 +118,13 @@ Betreffend Drs. 21/92 Frage 3. b.: Welche Stellenbeschreibungen umfassen die tar
 
 Im Bereich „Schwerbehindertenrecht“ des Versorgungsamtes Hamburg liegen den tariflichen Eingruppierungen die folgenden Stellenbeschreibungen zugrunde:
 
- E 5: Mitarbeit in der Sachbearbeitung Schwerbehindertenangelegenheiten;
+– E 5: Mitarbeit in der Sachbearbeitung Schwerbehindertenangelegenheiten;
 
- E 9: Sachbearbeitung Feststellungen nach dem Schwerbehindertenrecht;
+– E 9: Sachbearbeitung Feststellungen nach dem Schwerbehindertenrecht;
 
 SGL;
 
- E 11: SGL inklusive Sonderaufgaben und Stellvertretung Referatsleitung.
+– E 11: SGL inklusive Sonderaufgaben und Stellvertretung Referatsleitung.
 
 ### Frage 4
 
@@ -133,15 +134,15 @@ Betreffend Drs. 21/92 Frage 3. b.: Welche Stellenbeschreibungen umfassen die Die
 
 Im Bereich „Schwerbehindertenrecht“ des Versorgungsamtes Hamburg liegen den Dienstposten die folgenden Stellenbeschreibungen zugrunde:
 
- A 6: Mitarbeit in der Sachbearbeitung Schwerbehindertenangelegenheiten;
+– A 6: Mitarbeit in der Sachbearbeitung Schwerbehindertenangelegenheiten;
 
- A 8: Sachbearbeitung Feststellungen nach dem Schwerbehindertenrecht;
+– A 8: Sachbearbeitung Feststellungen nach dem Schwerbehindertenrecht;
 
- A 10: SGL;
+– A 10: SGL;
 
- A 11: SGL inklusive Sonderaufgaben;
+– A 11: SGL inklusive Sonderaufgaben;
 
- A 13: Referatsleitung.
+– A 13: Referatsleitung.
 
 ### Frage 5
 
@@ -151,11 +152,11 @@ Betreffend Drs. 21/92 Frage 6. c.: Welche Stellenbeschreibungen umfassen die tar
 
 Im Bereich „Erhebung und Verwendung der Ausgleichsabgabe, individuelle Förderung, Service-Leitung“ im Integrationsamt liegen den tariflichen Eingruppierungen die folgenden Stellenbeschreibungen zugrunde:
 
- E 5: Sachbearbeitung Service;
+– E 5: Sachbearbeitung Service;
 
- E 6: Sachbearbeitung Erhebung der Ausgleichsabgabe;
+– E 6: Sachbearbeitung Erhebung der Ausgleichsabgabe;
 
- E 9: Abschnittsleitung Erhebung der Ausgleichsabgabe; Sachbearbeitung
+– E 9: Abschnittsleitung Erhebung der Ausgleichsabgabe; Sachbearbeitung
 
 individuelle Förderung.
 
@@ -167,7 +168,7 @@ Betr. Drs. 21/92 Frage 6. c.: Welche Stellenbeschreibungen umfassen die Dienstpo
 
 Im Bereich „Erhebung und Verwendung der Ausgleichsabgabe, individuelle Förderung, Service-Leitung“ im Integrationsamt liegt dem Dienstposten die folgende Stellenbeschreibung zugrunde:
 
- A 9: Sachbearbeitung individuelle Förderung.
+– A 9: Sachbearbeitung individuelle Förderung.
 
 ### Frage 7
 

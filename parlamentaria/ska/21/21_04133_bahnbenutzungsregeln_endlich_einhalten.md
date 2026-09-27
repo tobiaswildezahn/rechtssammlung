@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3946"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52518"
@@ -49,7 +50,7 @@ An welchen Tagen seit 1. Januar 2015 wurde zwischen 22 Uhr und 7 Uhr nicht aussc
 
 Warum wurde jeweils von der BBR 2.3 abgewichen und wie waren im Einzelnen die Wetterverhältnisse? Bitte für jeden Flug einzeln auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Informationen über die genutzte Richtung für Landungen zwischen 22 und 7 Uhr sowie die maßgeblichen Gründe hierfür werden regelmäßig von der DFS an die Behörde für Umwelt und Energie übermittelt und von der Fluglärmschutzbeauftragten bezüglich der Wetterdaten auf Plausibilität geprüft. Die Fluglärmschutzbeauftragte erstellt aus den übermittelten Daten eine Übersicht zur Einhaltung der Bahnbenutzungsregeln, die seit Januar 2015 quartalsweise auf ihrer Internetseite veröffentlicht wird.
 

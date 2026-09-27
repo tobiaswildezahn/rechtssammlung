@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/4864"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57369"
@@ -61,7 +62,7 @@ Wie viele Anträge waren Erst- beziehungsweise Folgeanträge?
 
 Welche Schulen haben jeweils welches Prädikat beantragt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Es sind Anträge von 24 Schulen fristgerecht eingegangen, davon fünf Erstanträge und 19 Folgeanträge. Für die Schulen und beantragten Prädikate siehe folgende Tabelle:
 
@@ -163,7 +164,7 @@ Inwiefern können Schulen auch die Prädikate „Partnerschule des Leistungsspor
 
 Welche Voraussetzungen müssen die Schulen erfüllen, um die jeweiligen Prädikate zu erhalten?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Ein Bewerbungsverfahren ist im Eckpunktepapier für Partnerschulen des Leistungssports nicht vorgesehen. Aus diesem Grund entwickelt derzeit eine Arbeitsgruppe, bestehend aus Vertretern der für Bildung zuständigen Behörde, der für Sport zuständigen Behörde, des Olympiastützpunktes Hamburg/Schleswig-Holstein und des Hamburger Sportbundes, eine Neukonzeption. Diese soll nach derzeitigem Planungsstand zum Schuljahr 2017/2018 das Eckpunktepapier ersetzen. Im Übrigen siehe Vorbemerkung.
 

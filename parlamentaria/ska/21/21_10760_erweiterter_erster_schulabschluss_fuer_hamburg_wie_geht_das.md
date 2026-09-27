@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59666"
@@ -56,7 +57,7 @@ Wann und warum führt der Senat beziehungsweise die zuständige Behörde den erw
 
 Wird der erweiterte ESA ausschließlich für die Ausbildung zur Sozialpädagogischen Assistenz eingeführt? Wenn ja, warum? Wenn nein, wozu qualifiziert der erweiterte ESA außerdem?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

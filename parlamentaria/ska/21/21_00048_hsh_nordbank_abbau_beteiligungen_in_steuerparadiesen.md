@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8303", "20/12202"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48174"
@@ -49,7 +50,7 @@ Wie viele Tochtergesellschaften beziehungsweise Beteiligungen hat die HSH Nordba
 
 Befindet sich die Bank damit im von der EU-Kommission vorgegebenen zeitlichen Abbaukorridor? Falls nein, aus welchen Gründen nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die HSH hat hierzu auf ihren Geschäftsbericht 2013 verwiesen (siehe http://www.hshnordbank.de/de/investorrelations/investorrelations.jsp) und mitgeteilt, dass sie die mit der EU-Beihilfeentscheidung verbundene Abbauverpflichtung bezüglich dieser Tochtergesellschaften auch in Abstimmung mit dem EU-Treuhänder einhalte (siehe auch Drs. 20/8303 und 20/12202).
 

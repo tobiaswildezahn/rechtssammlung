@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 18
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65283"
@@ -153,7 +154,7 @@ Wie steht der Senat/die zuständige Behörde zu dem Faktum, dass Beschämung von
 
 Wie bewertet der Senat/die zuständige Behörde die Implementierung von Beschämung als pädagogischem Mittel vor dem Hintergrund, dass gerade Beschämung ein herabwürdigendes Erziehungsmittel ist und Beschämung nachweislich ein wesentliches Mittel des Mobbings ist – und damit eines der unmittelbaren Hauptgründe für Schulabsentismus? (Bitte detailliert begründen.)
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die Beschämung von Kindern und Jugendlichen durch Erwachsene wird in jedweder Form abgelehnt und ist kein ausdrückliches Mittel des Konzepts der „Neuen Autorität“. Im Übrigen siehe Vorbemerkung.
 

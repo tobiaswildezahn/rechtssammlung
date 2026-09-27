@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5757"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55408"
@@ -53,7 +54,7 @@ Wie hoch schätzt der Senat die Kosten für eine Person für die vom Bundesamt f
 
 Wie hoch schätzt der Senat die Kosten für eine Familie mit zwei Erwachsenen und zwei Kindern für die vom Bundesamt für Bevölkerungsschutz und Katastrophenhilfe empfohlene Notfallvorsorge/Notbevorratung ein?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nach Auskunft des Bundesministeriums des Inneren handelt es sich um unverbindliche Empfehlungen, die der einzelne Adressat unter Berücksichtigung seiner individuellen Verhältnisse und Konsumgewohnheiten anpassen muss. Eine Kostenschätzung wurde daher vom BBK nicht durchgeführt. Die Bevölkerung soll durch die behördlichen Empfehlungen dazu angeregt werden, eine geeignete Eigen- beziehungsweise Erstversorgung vorzunehmen, bis staatliche Maßnahmen zur Notversorgung greifen. Welches Niveau der Vorsorge von den Bürgerinnen und Bürgern als das Richtige empfunden wird, ist sehr individuell. Der Empfehlungen sollen helfen, einen persönlichen Notfallplan zu entwickeln. Im Übrigen siehe www.ernaehrungsvorsorge.de/ private-vorsorge/notvorrat/vorratskalkulator und Vorbemerkung.
 
@@ -67,7 +68,7 @@ Campingtoilette, Gartenschlauch, Campingkocher und Ähnliches oder extra Brennst
 
 Können Leistungsbezieher/-innen nach dem SGB II, SGB XII einen Antrag auf Übernahme der Kosten zum Anlegen der Notbevorratung formlos beantragen? Wann ja, wie ist der Ablauf? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nein. Die Sozialleistungsträger gewähren den notwendigen Lebensunterhalt. Eine Entscheidung darüber, ob Ausgaben für eine Notfallvorsorge im Rahmen der Einkommens- und Verbrauchsstichprobe (EVS) als gesonderter Bedarf zu berücksichtigen sind, trifft der Bund im Rahmen seiner Zuständigkeit für EVS und Regelbedarfsfestsetzung. Im Übrigen wird auf die fachliche Weisung der Bundesagentur für Arbeit zu § 24 SGB II „Abweichende Erbringung von Leistungen“ verwiesen:
 

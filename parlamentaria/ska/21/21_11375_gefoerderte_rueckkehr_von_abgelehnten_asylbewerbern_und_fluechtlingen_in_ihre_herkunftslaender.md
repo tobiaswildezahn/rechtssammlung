@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5547", "21/10179"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60434"
@@ -66,7 +67,7 @@ Gibt es zusätzliche landeseigene Programme für Rückkehrhilfen?
 
 Wenn ja, welche Hamburger Programme und wie haben sich diese entwickelt? Bitte aufschlüsseln nach den oben genannten Kriterien.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Zum Hamburger Landesprogramm zur Förderung der freiwilligen Rückkehr und Reintegration von Ausländerinnen und Ausländern siehe Drs. 21/5547 sowie Anlage 4. Die statistische Erfassung nach den erfragten Kriterien wurde erst im September dieses Jahres systematisch begonnen.
 

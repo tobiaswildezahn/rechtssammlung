@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 18
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15022", "21/16000", "21/11400", "21/10236", "21/7650"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65481"
@@ -89,7 +90,7 @@ Wie hoch sind die jährlichen Kosten für Heimunterbringung Hamburger Kinder und
 
 Welche Kosten zahlt das Jugendamt durchschnittlich pro Kind seit 2010 an den jeweiligen Träger und welche Kosten gelangen hiervon bei der Heimunterbringung?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage 3.
 
@@ -139,7 +140,7 @@ In wie vielen Fällen einer Inobhutnahme in den Jahren 2018 und 2018 waren die E
 
 In wie vielen Fällen lag die Inobhutnahme seit 2010 in Schulabsentismus begründet?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die zur Beantwortung benötigten Daten werden nicht gesondert statistisch erfasst. Es ist eine Einzelfallauswertung von mehreren Tausend Akten erforderlich. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -151,7 +152,7 @@ In wie vielen Fällen lag die Inobhutnahme seit 2010 in Kindesmissbrauch gemäß
 
 Welche sonstigen Gründe wurden/werden seit 2010 für Inobhutnahmen angeführt? Bitte nach Häufigkeit benennen.
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Anlage 1.
 
@@ -3863,7 +3864,7 @@ Haus Michael e.V.
 
 Haus Mignon - Heilpädagogisch-therap.Arbeitsgemeinschaft zur Förderung des entwicklungsgestörten Kindes gemn. e.V., Hamburg
 
-Haus Norderhofenden u. 3
+Haus Norderhofenden u.
 
 Seite 90 von 193
 
@@ -4539,7 +4540,7 @@ Haus Michael e.V.
 
 Haus Mignon - Heilpädagogisch-therap.Arbeitsgemeinschaft zur Förderung des entwicklungsgestörten Kindes gemn. e.V., Hamburg
 
-Haus Norderhofenden u. 2
+Haus Norderhofenden u.
 
 Haus Wörme gGmbH
 
@@ -5218,7 +5219,7 @@ Haus Michael e.V.
 
 Haus Mignon - Heilpädagogisch-therap.Arbeitsgemeinschaft zur Förderung des entwicklungsgestörten Kindes gemn. e.V., Hamburg
 
-Haus Norderhofenden u. 3
+Haus Norderhofenden u.
 
 Seite 123 von 193
 
@@ -5894,7 +5895,7 @@ Haus Michael e.V.
 
 Haus Mignon - Heilpädagogisch-therap.Arbeitsgemeinschaft zur Förderung des entwicklungsgestörten Kindes gemn. e.V., Hamburg
 
-Haus Norderhofenden u. 2
+Haus Norderhofenden u.
 
 Haus Regenbogen
 
@@ -6549,7 +6550,7 @@ Haus Michael e.V.
 
 Haus Mignon - Heilpädagogisch-therap.Arbeitsgemeinschaft zur Förderung des entwicklungsgestörten Kindes gemn. e.V., Hamburg
 
-Haus Norderhofenden u. 2
+Haus Norderhofenden u.
 
 Haus Regenbogen
 
@@ -7165,7 +7166,7 @@ Haus Michael e.V.
 
 Haus Mignon - Heilpädagogisch-therap.Arbeitsgemeinschaft zur Förderung des entwicklungsgestörten Kindes gemn. e.V., Hamburg
 
-Haus Norderhofenden u. 5
+Haus Norderhofenden u.
 
 Haus Regenbogen
 

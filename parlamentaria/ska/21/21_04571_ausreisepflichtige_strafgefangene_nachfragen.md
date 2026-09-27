@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4453", "21/4309"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52976"
@@ -133,15 +134,15 @@ Der Senat gibt an, dass der 44-jährige Gefangene mit Schreiben vom
 
 Kommt der Ausländer seiner Mitwirkungspflicht nicht nach, ergeben sich nachstehende Rechtsfolgen:
 
- Die nach dem Asylbewerberleistungsgesetz zustehenden Leistungen werden
+– Die nach dem Asylbewerberleistungsgesetz zustehenden Leistungen werden
 
 gekürzt und dem Ausländer ist keine selbständige oder unselbständige Erwerbstätigkeit gestattet.
 
- Weiterhin behält sich die Ausländerbehörde vor, Strafanzeige nach § 95 Absatz 1
+– Weiterhin behält sich die Ausländerbehörde vor, Strafanzeige nach § 95 Absatz 1
 
 Nummer 1 und/oder Absatz 2 Nummer 2 AufenthG zu stellen.
 
- Die fehlende Mitwirkung stellt zusätzlich einen Ausweisungsgrund dar und kann
+– Die fehlende Mitwirkung stellt zusätzlich einen Ausweisungsgrund dar und kann
 
 zum Erlass einer Ausweisungsverfügung nach § 55 AufenthG führen.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60980"
@@ -59,7 +60,7 @@ Welche präventiven Maßnahmen hat der Senat beziehungsweise die zuständige Beh
 
 Welche Maßnahmen beziehungsweise welche Strategie hat der Senat beziehungsweise plant der Senat, um solche Fälle mit Bediensteten, die ihre Amtsstellung rechtswidrig ausnutzen und sich bereichern, in Zukunft zu verhindern?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Aller Bewerberinnen und Bewerber, die zur Einstellung beziehungsweise Verbeamtung vorgesehen sind, werden vorab einer Sicherheitsüberprüfung in Form von Anfragen beim Bundeszentralregister und dem Landeskriminalamt (LKA) unterzogen. Daneben wird eine schriftliche Erklärung über die finanzielle Situation der Bewerberinnen und Bewerber abgefordert. Im Rahmen der Ausbildung beziehungsweise zu Beginn der Beschäftigung erfolgen Belehrungen, basierend auf den für den Justizvollzug relevanten Normen, unter anderem auch bezüglich des Verhaltens gegenüber Gefangenen. Beispielhaft sind das Distanzgebot und das Verbot der Annahme von Belohnungen und Geschenken zu nennen. Die relevanten Verfügungen und Belehrungen werden den Bediensteten in der Regel jährlich zur Kenntnis gegeben. Die Bediensteten erhalten im Rahmen der Ausbildung zudem Unterricht im Strafrecht und kennen somit die Voraussetzungen und Folgen strafbaren Handelns.
 

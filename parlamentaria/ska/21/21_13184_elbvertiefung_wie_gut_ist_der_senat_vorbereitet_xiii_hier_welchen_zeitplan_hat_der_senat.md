@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 19
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12875"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62519"
@@ -65,7 +66,7 @@ In welchem Zeitraum plant der Senat über die geforderten inhaltlichen Anpassung
 
 Welche weiteren Verfahrensschritte bis zur Erstellung eines dritten Planergänzungsbeschlusses plant der Senat in welchem Zeitrahmen vorzunehmen? Gibt es Abweichungen von den ursprünglichen Planungen? Wenn ja, welche und warum?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 
@@ -85,6 +86,6 @@ Wie ist der Zeitplan des Senats bis zur Fertigstellung der Fahrrinnenanpassung? 
 
 Wie weit sind die Vorbereitungen für eine europaweite Ausschreibung für Bauarbeiten/Baggerarbeiten in der Elbe?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die HPA wird unmittelbar nach Erlass des Planergänzungsbeschlusses mit den erforderlichen Vergabeverfahren für die Ausführung der Fahrrinnenanpassung beginnen. Unabhängig davon, ob die rechtlichen Voraussetzungen für den Start der Bauarbeiten noch im Jahr 2018 oder später vorliegen, können die hierfür erforderlichen, in der Regel europaweiten Verfahren zur Vergabe der Bauaufträge teilweise so gestartet werden, dass kurzfristig nach Erlass des Planergänzungsbeschlusses mit ersten Arbeiten begonnen werden kann. Aufgrund von im Planfeststellungsbeschluss verankerten bauzeitlichen Restriktionen zum Schutz von Natur und Umwelt sowie der engen zeitlichen Verknüpfung mit den entsprechenden Bauaktivitäten der Wasserstraßen- und Schifffahrtsverwaltung des Bundes kann der Bauablauf detailliert erst dann festgelegt werden, wenn der genaue Zeitpunkt des Baustarts bekannt ist.

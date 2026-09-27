@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 23
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61131"
@@ -127,7 +128,7 @@ Welche räumlichen Umbauten wurden wann und zu welchen Kosten dafür am CPG durc
 
 Wurde für die baulich notwendigen Veränderungen am CPG ein Innenarchitekt zu Rate gezogen? Wenn ja, mit welchem Ergebnis? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Das Kabinettsystem wurde zur Probe eingeführt. Demzufolge können keine baulichen Veränderungen erfolgen, bevor nicht im Sommer 2019 über eine endgültige Einführung entschieden wird. Es erfolgt zurzeit lediglich eine veränderte Nutzung von Räumen.
 
@@ -177,7 +178,7 @@ Welche Rückmeldungen gaben beziehungsweise geben die Schüler und Eltern bezieh
 
 Sind in den fünften und sechsten Klassen Befragungen der Schüler bezüglich der Einführung des Kabinettsystems nun nach einem Jahr vorgenommen worden? Wenn ja, mit welchem Ergebnis? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Das CPG erprobt erst seit neun Monaten das neue Kabinettsystem. Für diesen kurzen Zeitraum ist keine Evaluation geplant.
 

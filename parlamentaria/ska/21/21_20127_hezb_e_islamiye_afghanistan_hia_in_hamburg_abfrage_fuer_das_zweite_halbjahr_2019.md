@@ -14,6 +14,7 @@ fragen: 25
 einzelfragen: 28
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17186", "21/17354", "21/17361"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69902"
@@ -135,7 +136,7 @@ Wie viele Angehörige der Hezb-e Islamiye Afghanistan (HIA) sind in der Vergange
 
 Sind diese Leute zudem bereits in anderen Bundesländern strafrechtlich in Erscheinung getreten beziehungsweise verurteilt worden? Falls ja, bitte jeweils auch die zugrunde liegenden Delikte, das Strafmaß sowie die Staatsangehörigkeit und den aufenthaltsrechtlichen Status der Verurteilten nennen.
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Siehe Drs. 21/17354.
 
@@ -147,7 +148,7 @@ Wie viele Personen, die im zweiten Halbjahr 2019 der Hezb-e Islamiye Afghanistan
 
 Wie viele dieser Personen sind daraufhin nach Deutschland beziehungsweise Hamburg zurückgekehrt?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Hierzu liegen dem Landesamt für Verfassungsschutz (LfV) Hamburg keine Informationen vor.
 
@@ -159,7 +160,7 @@ Wie viele von ihnen sind nach ihrer Rückkehr im zweiten Halbjahr 2019 vor dem H
 
 Zu wie vielen Verurteilungen ist es dabei gekommen? Bitte jeweils auch die zugrunde liegenden Delikte, das Strafmaß sowie die Staatsangehörigkeit und den aufenthaltsrechtlichen Status der Verurteilten nennen.
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Siehe Drs. 21/17354.
 

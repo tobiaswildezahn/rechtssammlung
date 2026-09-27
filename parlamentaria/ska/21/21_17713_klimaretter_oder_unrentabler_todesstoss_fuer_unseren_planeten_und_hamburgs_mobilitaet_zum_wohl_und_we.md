@@ -14,6 +14,7 @@ fragen: 26
 einzelfragen: 31
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16431", "21/16148"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67310"
@@ -52,7 +53,7 @@ Wie viele Elektrobusse hat Hamburgs öffentlicher Nahverkehr aktuell bereits ins
 
 Wie viele der unter Ziffer 1. fallenden Elektrobusse werden aktuell regelmäßig auf jeweils welcher konkreten Linie eingesetzt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Unternehmen
 
@@ -153,7 +154,7 @@ Welche Anschaffungskosten fielen für die unter Ziffer 1. fallenden Elektrobusse
 
 Welche Anschaffungskosten fallen für die unter Ziffer 3. fallenden Elektrobusse pro Elektrobustyp beziehungsweise insgesamt an?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Diese Angaben unterliegen dem Geschäftsgeheimnis der Verkehrsunternehmen.
 
@@ -232,71 +233,71 @@ Gab es bezüglich etwaiger getesteter Elektrobusse beziehungsweise bezüglich de
 
 Bei den HOCHBAHN-Bussen des Typs Solaris nE12 (Opportunity-Charger) aus dem Jahr 2016 ist es bisher zu den folgenden wesentlichen Schäden hinsichtlich der innovativen Komponenten gekommen:
 
- Temperatursensor einer Hochvolt-Batterie defekt (Dezember 2016),
+– Temperatursensor einer Hochvolt-Batterie defekt (Dezember 2016),
 
- Steuergerät des Fahrerassistenzsystems zur Positionierung unter der Strecken-
+– Steuergerät des Fahrerassistenzsystems zur Positionierung unter der Strecken-
 
 ladeinfrastruktur defekt (September 2017),
 
- Störung Batterie-CAN (Januar 2018),
+– Störung Batterie-CAN (Januar 2018),
 
- Kühlwasserpumpe defekt (März und Juni 2018),
+– Kühlwasserpumpe defekt (März und Juni 2018),
 
- Temperatursensoren der elektrischen Heizung (Dezember 2018),
+– Temperatursensoren der elektrischen Heizung (Dezember 2018),
 
- Wassereintritt ins Öl der Antriebsachse (Mai 2019),
+– Wassereintritt ins Öl der Antriebsachse (Mai 2019),
 
- Defekt eines Widerstands zur Ladekommunikation (Dezember 2017),
+– Defekt eines Widerstands zur Ladekommunikation (Dezember 2017),
 
- Wicklungsschluss Antriebsmotor (September 2018),
+– Wicklungsschluss Antriebsmotor (September 2018),
 
- Sensor des Fahrerassistenzsystems zur Positionierung unter der Streckenladein-
+– Sensor des Fahrerassistenzsystems zur Positionierung unter der Streckenladein-
 
 frastruktur defekt (September 2018),
 
- Heizung eines Sensors des Fahrerassistenzsystems zur Positionierung unter der
+– Heizung eines Sensors des Fahrerassistenzsystems zur Positionierung unter der
 
 Streckenladeinfrastruktur defekt (Januar 2019).
 
 Bei den HOCHBAHN-Bussen aus den Jahren 2018 und 2019 ist es bisher zu den folgenden wesentlichen Schäden hinsichtlich der innovativen Komponenten gekommen:
 
- Isolationsfehler der Hochvolt-Anlage an Kabelverschraubungen (Januar und Juni
+– Isolationsfehler der Hochvolt-Anlage an Kabelverschraubungen (Januar und Juni
 
 2019).
 
 Der E-Midibus Rampini der VHH aus dem Jahr 2014 hatte folgende Defekte:
 
- Defekt und Tausch zwei einzelner Batteriezellen (September 2017),
+– Defekt und Tausch zwei einzelner Batteriezellen (September 2017),
 
- Hinterachse defekt (Oktober 2017),
+– Hinterachse defekt (Oktober 2017),
 
- Störung Batterie-Management-System (November 2017),
+– Störung Batterie-Management-System (November 2017),
 
- Luftbalg-Kompressor defekt (Dezember 2017),
+– Luftbalg-Kompressor defekt (Dezember 2017),
 
- Radlager defekt (Juli 2018),
+– Radlager defekt (Juli 2018),
 
- Differential defekt (August 2018),
+– Differential defekt (August 2018),
 
- Hinterachse erneut defekt Garantie (Januar 2019).
+– Hinterachse erneut defekt Garantie (Januar 2019).
 
 Der E-Midibus Rampini der VHH aus dem Jahr 2016 hatte folgende Defekte:
 
- Scheibenwischmotor defekt (August und September 2017),
+– Scheibenwischmotor defekt (August und September 2017),
 
- Temperaturgeber defekt (September 2017),
+– Temperaturgeber defekt (September 2017),
 
- Softwarefehler (Oktober 2017),
+– Softwarefehler (Oktober 2017),
 
- Fußboden Belag ablösend (November 2017),
+– Fußboden Belag ablösend (November 2017),
 
- Störung HV-System (November 2017),
+– Störung HV-System (November 2017),
 
- Luftpresser defekt (Sepember 2018),
+– Luftpresser defekt (Sepember 2018),
 
- Differential defekt (Januar 2019),
+– Differential defekt (Januar 2019),
 
- Differential erneut defekt Garantie (März 2019).
+– Differential erneut defekt Garantie (März 2019).
 
 ### Frage 11
 
@@ -421,7 +422,7 @@ Welche Ladedauer haben die unter Ziffern 1., 3. und 4. fallenden Elektrobusse je
 
 Wie viel Strom wird für die Ladung der unter Ziffern 1., 3. und 4. fallenden Elektrobusse jeweils im Einzelnen verbraucht beziehungsweise benötigt? Bitte bei Unterschieden nach jeweiliger Ziffer und jeweiligem Bustyp gesondert darstellen.
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Unternehmen
 
@@ -558,7 +559,7 @@ Hat der Senat beziehungsweise die zuständige Behörde bezüglich der nach Ziffe
 
 Inwiefern hat sich der Senat beziehungsweise die zuständige Behörde vor der Anschaffung beziehungsweise Bestellung der Elektrobusse versichert, dass die Gewinnung der zur Batterieherstellung erforderlichen seltenen Erden und des Metalls Lithium energiearm, ressourcenschonend, nachhaltig beziehungsweise ohne etwaige Folgeschäden in den Abbauländern sowie menschenrechtskonform erfolgt?
 
-#### Antwort zu Fragen 20 bis 21
+#### Antwort zu Fragen 20 und 21
 
 Das Thema nachhaltige Beschaffung spielt für die HOCHBAHN eine wichtige Rolle. Seit dem 01. Mai 2019 sind die Nachhaltigkeitsstandards für Lieferanten und Geschäftspartner verpflichtender Vertragsbestandteil der HOCHBAHN Beschaffungsvorgänge. Der Anspruch der HOCHBAHN ist es, mit Lieferanten und Geschäftspartnern zusammenzuarbeiten, die nach ökologischen und sozialen Standards handeln. Diese Erwartungshaltungen an Lieferanten sind in den Nachhaltigkeitsstandards formuliert und bilden die Basis für die Geschäftsbeziehungen mit Lieferanten und Geschäftspartnern (siehe https://www.hochbahn.de/hochbahn/hamburg/de/Home/ Unternehmen/Lieferantenbereich/Vertragsbedingungen). Bei den Batterien für Elektrobusse wird die HOCHBAHN erstmals im Jahr 2019 Nachhaltigkeitsleistungen bei Herstellern im Detail abfragen und mit in die Vergabeentscheidung einfließen lassen. Zu Nachhaltigkeit der Beschaffung steht die VHH in engem Austausch mit der HOCHBAHN und prüft derzeit die Übernahme der Standards der HOCHBAHN für die eigenen Ausschreibungen.
 
@@ -572,7 +573,7 @@ Wie viele mit Wasserstoff betriebene Busse jeweils welchen Typs wurden für Hamb
 
 Wie viele mit Wasserstoff betriebene Busse jeweils welchen Typs wurden in Hamburgs öffentlichem Nahverkehr bisher für jeweils wie lange getestet?
 
-#### Antwort zu Fragen 22 bis 23
+#### Antwort zu Fragen 22 und 23
 
 Derzeit befinden sich zwei Batterie-Gelenkbusse mit Brennstoffzelle als Range- Extender im Einsatz der HOCHBAHN. In der Vergangenheit hat die HOCHBAHN in den Jahren 2003 bis 2010 bis zu neun Brennstoffzellenbusse und von 2011 bis 2018 bis zu vier Brennstoffzellenbusse erprobt. Die VHH hat keine Wasserstoffbusse eingesetzt.
 
@@ -593,7 +594,7 @@ Hat der Senat beziehungsweise die zuständige Behörde die Gründung einer bezie
 
 Sollte der Senat die Gründung beziehungsweise Ausweitung der Hamburgischen Wasserstoff-Bus-Flotte konkret oder für die Zukunft planen: Wären für die Gründung beziehungsweise Ausweitung der Hamburgischen Wasserstoff-Bus-Flotte etwaige, über die Anschaffung von Wasserstoff-Bussen hinausgehende Maßnahmen erforderlich? Wenn ja, jeweils welche, in jeweils welchem Umfang und zu jeweils welchen Kosten?
 
-#### Antwort zu Fragen 25 bis 26
+#### Antwort zu Fragen 25 und 26
 
 Sobald die Bushersteller neben Batteriebussen auch E-Busse mit Brennstoffzellen in Serie produzieren, wird die HOCHBAHN diese im Linienbetrieb erproben.
 

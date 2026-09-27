@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 21
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49036"
@@ -136,7 +137,7 @@ Welcher finanzielle Aufwand entsteht privaten Unternehmen in Hamburg voraussicht
 
 Welcher bürokratische Aufwand entsteht privaten Unternehmen in Hamburg voraussichtlich dadurch, dass sie für Saunabesuche künftig den vollen Mehrwertsteuersatz von 19 Prozent abführen müssen?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 „Bürokratischer“ und damit finanzieller Aufwand entsteht für Unternehmen und die Steuerverwaltung grundsätzlich dann, wenn für einzelne Umsätze ein ermäßigter Umsatzsteuersatz erhoben wird, weil das Gesamtentgelt in diesen Fällen auf unterschiedliche Steuersätze aufgeteilt werden muss. Sofern im Übrigen kein ermäßigter Steuersatz angewendet wird, kann die Änderung der Besteuerung von Saunabesuchen auch zu geringerem Verwaltungsaufwand führen. Im Übrigen hängen die finanziellen Auswirkungen im Einzelfall von der unternehmerischen Entscheidung zur Einbeziehung der Umsatzsteuer in die Preisgestaltung sowie der Marktentwicklung ab.
 

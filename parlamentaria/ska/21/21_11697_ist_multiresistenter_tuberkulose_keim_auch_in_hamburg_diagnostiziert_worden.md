@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60930"
@@ -43,7 +44,7 @@ Welche und jeweils wie viele meldepflichtigen Krankheiten wurden im Jahr 2017 bi
 
 Welche und jeweils wie viele meldepflichtigen Krankheiten wurden im Jahr 2017 bisher aus örU gemeldet beziehungsweise sind f & w fördern und wohnen AöR bekannt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Alle meldepflichtigen Erkrankungen nach dem Infektionsschutzgesetz (IfSG), die in Unterkünften von f & fördern und wohnen AöR (f&w) bekannt werden, werden den zuständigen Gesundheitsämtern gemeldet.
 

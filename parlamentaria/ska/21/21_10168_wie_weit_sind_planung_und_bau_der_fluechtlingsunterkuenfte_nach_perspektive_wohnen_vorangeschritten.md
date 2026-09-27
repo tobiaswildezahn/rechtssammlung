@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838", "21/9949", "21/6666", "21/8661"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59000"
@@ -43,7 +44,7 @@ Die Standorte Haferblöcken, Duvenacker, Flughafenstraße/Ohkamp, Hörgensweg, P
 
 Laut Drs. 21/6666 lagen für die Standorte Suurheid, Elfsaal und Aschenland bereits B-Pläne vor. Bei allen anderen Standorten sind diese noch in Bearbeitung. In jeweils welchem Quartal rechnet der Senat mit Vorlage des jeweils regulären B-Plans für die einzelnen Standorte?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Flüchtlingsunterkunft mit der Perspektive Wohnen in der Eiffestraße ist im Bau.
 

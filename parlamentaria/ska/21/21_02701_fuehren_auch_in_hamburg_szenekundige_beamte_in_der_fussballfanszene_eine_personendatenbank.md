@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 19
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51040"
@@ -149,31 +150,31 @@ Eine Person wird unter den in § 16 PolDVG festgelegten Kriterien in der Datei �
 
 In der Datei „Gruppen- und Szenegewalt“ werden gespeichert:
 
- Name und Vorname
+– Name und Vorname
 
- Geburtsdatum und Geburtsort
+– Geburtsdatum und Geburtsort
 
- Geschlecht
+– Geschlecht
 
- Anschrift
+– Anschrift
 
- Telefonnummern
+– Telefonnummern
 
- E-Mail-Adressen
+– E-Mail-Adressen
 
- Anlass der Erfassung
+– Anlass der Erfassung
 
- Rolle der Person: Beschuldigter, Verdächtiger, Kontakt- und Begleitperson, Störer,
+– Rolle der Person: Beschuldigter, Verdächtiger, Kontakt- und Begleitperson, Störer,
 
 Störer (Waffen)
 
- Vereins-/Gruppenzugehörigkeit
+– Vereins-/Gruppenzugehörigkeit
 
- Bekanntgewordene Ermittlungsverfahren und Verfahrensausgänge
+– Bekanntgewordene Ermittlungsverfahren und Verfahrensausgänge
 
- Vorliegende Stadionverbote
+– Vorliegende Stadionverbote
 
- Bilddateien, sofern die Bilder für eine Identifizierung von Beschuldigten/Verdäch-
+– Bilddateien, sofern die Bilder für eine Identifizierung von Beschuldigten/Verdäch-
 
 tigen aufgrund fehlender erkennungsdienstlicher Bilder erforderlich sind beziehungsweise die Identität von Kontakt-/Begleitpersonen nicht feststeht.
 
@@ -185,25 +186,25 @@ Wie sind die Kategorien definiert, in die die eingetragenen Personen in der „S
 
 Die in der Datei „Gruppen- und Szenegewalt“ erfassten Personenkategorien (Beschuldigter, Verdächtiger, Kontakt- und Begleitperson, Störer, Störer (Waffen)) sind wie folgt definiert:
 
- Beschuldigte sind Personen, bei denen der hinreichende Verdacht einer Straftat
+– Beschuldigte sind Personen, bei denen der hinreichende Verdacht einer Straftat
 
 besteht.
 
- Verdächtige sind Personen, die wegen Fehlens eines hinreichenden Tatverdachts
+– Verdächtige sind Personen, die wegen Fehlens eines hinreichenden Tatverdachts
 
 nicht Beschuldigte sind, bei denen aber Tatsachen vorliegen, die auf eine mögliche Täterschaft oder Teilnahme an den der Datei zugrunde liegenden Straftaten schließen lassen. Kinder werden nur in begründeten Ausnahmefällen aufgenommen, wenn ein strafrechtliches Ermittlungsverfahren wegen erheblicher Gewalttaten eingeleitet worden ist und wegen der Art, Ausführung oder Schwere der Tat und der Persönlichkeit des Kindes die Besorgnis der Begehung weiterer erheblicher Gewalttaten besteht.
 
- Kontakt- und Begleitpersonen sind Personen, die mit Straftaten des Arbeitsbe-
+– Kontakt- und Begleitpersonen sind Personen, die mit Straftaten des Arbeitsbe-
 
 reichs Gruppen- und Szenegewalt in Verbindung stehen und bei denen tatsächli-
 
 che Anhaltspunkte die Annahme rechtfertigen, dass die Speicherung zur Aufklärung oder vorbeugenden Bekämpfung erheblicher Straftaten des Arbeitsbereichs Gruppen- und Szenegewalt, zur Ergreifung von zur Festnahme gesuchten Personen oder zur Abwehr einer im einzelnen Fall bestehenden erheblichen Gefahr erforderlich ist. Hierunter sind insbesondere Gruppenmitglieder zu verstehen, denen eine direkte Beteiligung an Straftaten nicht nachgewiesen werden kann, die aber durch ihre Zugehörigkeit zur Gruppe oder Anwesenheit vor, bei oder nach Straftaten diese fördern oder ermöglichen.
 
- Störer sind Personen, gegen die Personalienfeststellungen, Platzverweise und
+– Störer sind Personen, gegen die Personalienfeststellungen, Platzverweise und
 
 Ingewahrsamnahmen zur Verhinderung anlassbezogener Straftaten angeordnet wurden, weil bestimmte Tatsachen die Annahme rechtfertigen, dass die Betroffenen anlassbezogene Straftaten von erheblicher Bedeutung begehen werden.
 
- Störer (Waffen) sind Personen, bei denen Waffen oder andere gefährliche Gegen-
+– Störer (Waffen) sind Personen, bei denen Waffen oder andere gefährliche Gegen-
 
 stände sichergestellt beziehungsweise beschlagnahmt wurden, wenn bestimmte Tatsachen die Annahme rechtfertigen, dass sie diese bei Begehung anlassbezogener Straftaten benutzen wollen, soweit die Erfassung in der Datei nicht schon wegen des Verstoßes gegen das Waffengesetz erfolgte.
 

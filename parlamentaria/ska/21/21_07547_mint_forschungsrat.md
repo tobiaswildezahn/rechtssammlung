@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 16
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7326"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56164"
@@ -43,7 +44,7 @@ Wer ist der von der Handelskammer Hamburg benannte Unternehmensvertreter? In wel
 
 Wer ist der Vertreter einer großen Hamburger Stiftung? Welche Stiftung vertritt er?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe http://wissenschaft.hamburg.de/contentblob/7031920/e605a6cfd7bd12d6202575676c 2243d5/data/bild-mint-rat.pdf.
 
@@ -65,7 +66,7 @@ Wurden die beiden Mitarbeiter der Geschäftsstelle zusätzlich eingestellt? Wenn
 
 Sind die beiden Mitarbeiter ausschließlich mit dem MINT-Forschungsrat beschäftigt? Wenn ja: Wieso braucht man zwei Mitarbeiter, um circa drei Sitzungen eines Gremiums pro Jahr durchzuführen? Wenn nein: Welche sonstigen Aufgaben haben sie?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die beiden Mitarbeiter der Geschäftsstelle des MINT-Forschungsrates (1,5 VZÄ) wurden im Wege der zeitlich befristeten Abordnung vom Deutschen Elektronen-Synchrotron (DESY) sowie von der Hochschule für Angewandte Wissenschaften Hamburg (HAW) rekrutiert. Für die Dauer ihrer Abordnung werden sie aus dem Personal-
 
@@ -81,6 +82,6 @@ Welche Beschlüsse oder Empfehlungen hat der MINT-Forschungsrat auf seiner ganzt
 
 Inwieweit wurde der Antragsentwurf im Förderprogramm „Innovative Hochschule“ kritisch reflektiert?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der MINT-Forschungsrat hat sich in seiner Sitzung am 21. Dezember 2016 mit den Cluster-Bewerbungen der Universität Hamburg im Rahmen der Exzellenzstrategie und dem Verbundantragsentwurf der Technischen Universität Hamburg-Harburg (TUHH), der Hochschule für Angewandte Wissenschaften Hamburg (HAW) und der HafenCity Universität (HCU) im Förderprogramm „Innovative Hochschule“ sowie deren Einordnung in die Wissenschaftslandschaft Hamburgs befasst.

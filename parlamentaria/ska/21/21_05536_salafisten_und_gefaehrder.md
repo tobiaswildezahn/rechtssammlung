@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4700", "21/1278", "21/2807", "19/5628"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54022"
@@ -97,6 +98,6 @@ Wie viele der unter viertens genannten Personen sind in den letzten fünf Jahren
 
 Wie viele der unter viertens genannten Personen sind in den letzten fünf Jahren und im ersten Halbjahr dieses Jahres wieder nach Deutschland eingereist?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/4700.

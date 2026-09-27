@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 19
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838", "20/1838"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50867"
@@ -54,7 +55,7 @@ Grundstück umgesetzt werden?
 a. GRZ?  
 b. GFZ?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Es sollen circa 100 bis 120 Wohnungen entstehen. Erste Entwürfe befinden sich derzeit in der Abstimmung.
 
@@ -104,7 +105,7 @@ Wann beginnen die Arbeiten an der A 7 im Bereich des Grundstücks Duvenacker? Bi
 
 Welche Grundstücksfläche wird während der Bauphase von dem Grundstück Duvenacker für die Arbeiten an der A 7 benötigt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Grundstücksfläche wird im Rahmen der Ausführungsarbeiten des ÖPP-Vorhabens „Erweiterung der A 7 AD Bordesholm bis südl. AD HH-Nordwest-Abschnitt 7“ für den Bau eines Lärmschutzwalls und eines Betriebsweges in Anspruch genommen. Für den Bau des Lärmschutzwalls und des Betriebsweges wurden 1.510 m² Grundstücksfläche des Flurstücks dauerhaft erworben. Darüber hinaus ist eine vorübergehende Inanspruchnahme von 95 m² für Anpassungsarbeiten am Duvenackergraben beabsichtigt. Gemäß dem Bauzeitenplan des Auftragnehmers ist hier mit Bautätigkeiten ab März 2016 zu rechnen, die nach den derzeitigen Planungen im 2. Quartal 2017 abgeschlossen sein sollen.
 

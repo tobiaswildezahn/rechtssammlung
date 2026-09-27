@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 18
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13703"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51456"
@@ -141,7 +142,7 @@ Wird der Senat den bisherigen Kostenrahmen einhalten können (Drs. 20/13703: 6 M
 
 Sind die im Haushalt für die Realisierung der Maßnahme eingestellten Mittel auskömmlich? Wenn nein, auf welche Weise soll die Finanzierung der Mehrkosten erfolgen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Antworten zu 1., 2. und 8.
 

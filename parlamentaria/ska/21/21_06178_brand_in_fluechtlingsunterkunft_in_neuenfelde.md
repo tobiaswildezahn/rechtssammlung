@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54694"
@@ -81,7 +82,7 @@ Sind die Tatverdächtigen bereits in der Vergangenheit auffällig geworden? Wenn
 
 Sind die Tatverdächtigen in Haft? Wenn ja, wo? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der heranwachsende Tatverdächtige ist vor dem Anlassdelikt mit zwei Gewaltdelikten, zwei Straftaten gegen die öffentliche Ordnung sowie einem besonders schweren Diebstahl in Erscheinung getreten. Der erwachsene Tatverdächtige ist vorher polizeilich nicht in Erscheinung getreten. Rechtliche Voraussetzungen für den Erlass eines Haftbefehls lagen für beide Tatverdächtigen nicht vor.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 20
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13666", "21/13708"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66421"
@@ -206,7 +207,7 @@ Wie viele Personen nach den unter 1. genannten Kriterien erhielten eine Förderu
 
 Wie viele Personen nach den unter 1. genannten Kriterien erhielten eine Förderung durch das Jobcenter t.a.h.? a. Um welche Arten von Förderungen handelt es sich dabei genau? b. Wie viele Anträge auf Förderung wurden gestellt und jeweils abgelehnt? Bitte differenzieren nach Personen mit einem im Ausland erworbenen Schulabschluss sowie mit erweitertem ersten und mittleren Schulabschluss.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Eine genaue Beantwortung der Fragestellung ist nicht möglich. Ein Bezug der Daten zur Ausgangsmenge der Personen in Ziffer 1. kann nicht hergestellt werden. Auswertbar sind für die genannten Berufe die Eintritte von Teilnehmenden in Maßnahmen zur beruflichen Weiterbildung, siehe Anlage 1.
 
@@ -222,7 +223,7 @@ Wie viele Migranten/-innen erhielten seit 2014 jeweils von der Arbeitsagentur un
 
 Inwieweit sieht der Senat beziehungsweise die zuständige Behörde eine Lücke insbesondere in der Förderung von Personen, die eine Ausbildung als SPA machen möchten, und welche Möglichkeiten werden gesehen, um etwaige Lücken in der Förderung zu schließen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Förderung der Ausbildung zur Sozialpädagogischen Assistentin/zum Sozialpädagogischen Assistenten erfolgt analog zu allen anderen Berufen, die an einer vollqualifizierenden Berufsfachschule ausgebildet werden, das heißt unter anderem durch die Möglichkeit zum Bezug von Schüler-/Schülerinnen-BAFöG.
 

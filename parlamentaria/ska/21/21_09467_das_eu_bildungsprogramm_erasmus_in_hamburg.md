@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 35
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58231"
@@ -148,7 +149,7 @@ Unseren Informationen zufolge müsste der Zwischenbericht zu Erasmus+ mittlerwei
 
 Wird sich der Senat – bezogen auf Fragen 10. c. und 10. d. – noch innerhalb dieser Legislaturperiode auf Bundesebene gegenüber der Bundesregierung, mittels seiner Stimme in der Kultusministerkonferenz, sowie mittels seines Gewichtes im Bundesrat für die Abstellung dieser Schwachpunkte an Erasmus+ starkmachen? Wenn ja auf welche Weise? a. Wenn nein, mit welcher Begründung nicht? (Bitte Stellung nehmen.) b. Wenn nein, inwiefern ist das mit seiner Verantwortung für die Bildungslandschaft und Bildungsgerechtigkeit als Teil der Regierungskoalition im Bund und als Hauptkoalitionskraft in der hamburgischen Regierung vereinbar? (Bitte in beiden Dimensionen erläutern.) c. Wenn nein, wann und wie genau plant der Senat, sich auf Bundesebene für die Beseitigung der Defizite von Erasmus+ stark zu machen? (Bitte Terminierung und konkretes Verfahren darlegen.)
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 In der EU-Verordnung des Programms Erasmus+ ist festgelegt, dass im Jahr 2017 die Halbzeitbewertung des Programms stattfindet. Die am Programm teilnehmenden Staaten haben Gelegenheit, in einem Bericht an die EU-Kommission die bisherige Durchführung des Programms zu bewerten. In Deutschland wird zurzeit unter Beteiligung von BMBF, BMFSFJ und KMK ein gemeinsamer Bericht erstellt, der alle Bereiche des Programms bewertet. Nach Fertigstellung wird dieser Bericht an die EU-Kommission übermittelt.
 

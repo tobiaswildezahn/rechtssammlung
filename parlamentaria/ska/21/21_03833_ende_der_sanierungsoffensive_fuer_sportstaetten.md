@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13931", "20/2948"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52196"
@@ -45,7 +46,7 @@ Plant der Senat weiterhin mit einem Auslaufen der Sanierungsoffensive und einer 
 
 Plant der Senat, die Halbierung der Mittel der Sanierungsoffensive aus anderen Mitteln zu kompensieren? Wenn ja, aus welchen Mitteln soll diese Kompensation erfolgen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Überlegungen zum Haushaltsplanentwurf 2017/2018 sowie zur Fortschreibung der Finanzplanung sind noch nicht abgeschlossen.
 

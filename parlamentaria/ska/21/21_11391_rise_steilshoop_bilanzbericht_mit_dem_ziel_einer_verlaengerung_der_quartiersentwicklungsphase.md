@@ -11,9 +11,10 @@ fraktionen: ["Die Linke"]
 vorgang: 55224
 seiten: 6
 fragen: 7
-einzelfragen: 9
-antwortbloecke: 7
+einzelfragen: 17
+antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60449"
@@ -60,9 +61,12 @@ Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
 ### Frage 1
 
 Der Bilanzbericht führt aus: „Die Gebietsleitziele 2 und 4 sollten bei Verlängerung der Förderung nicht weiter verfolgt werden.“ Es handelt sich um folgende Ziele, die nun aufgegeben werden sollen: „Steilshoop soll über ein attraktives, barrierefreies Zentrum mit vielfältigen Angeboten verfügen“ und „Die Bewohner Steilshoops sollen an der gesamtstädtischen Wirtschaftsdynamik und an den positiven Entwicklungen des Hamburger Arbeitsmarktes teilhaben.“ Bislang wurde die Gestaltung eines attraktiven Zentrums immer als hohe Priorität eingestuft. Rein bauliche Maßnahmen vor der Tür des heruntergekommenen, leer stehenden Einkaufszentrums können aber eine attraktive Situation nicht herstellen. Allein eine Einflussnahme auf eine Umgestaltung des Einkaufszentrums könnte dafür sorgen, dass die bislang im Zentrum verausgabten RISE- Mittel nicht vollständig verpuffen.
-1.1. Aus welchem Grund werden gerade diese beiden für die Verbesserung der Lebenslage der Bewohner/-innen außerordentlich bedeutsamen Ziele, die bislang nicht erreicht wurden, bei einer Verlängerung nicht weiterverfolgt?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Aus welchem Grund werden gerade diese beiden für die Verbesserung der Lebenslage der Bewohner/-innen außerordentlich bedeutsamen Ziele, die bislang nicht erreicht wurden, bei einer Verlängerung nicht weiterverfolgt?
+
+#### Antwort zu Fragen 1 und 1.1
 
 Mit der Zwischenbilanzierung des Gebietsentwicklungsprozesses Steilshoop hat das zuständige Bezirksamt eine Bewertung der Zielerreichung der Gebietsleitziele auf Basis der jeweils zugeordneten Handlungsfelder und Handlungsfeldziele vorgenommen.
 
@@ -70,7 +74,11 @@ Die Zwischenbilanzierung hat bestätigt, dass die Gebietsentwicklung nur einen s
 
 Die städtebauliche Umgestaltung des Zentrums zu einer attraktiven und barrierefreien Markt- und Eventfläche soll im Verlängerungszeitraum planmäßig abgeschlossen werden.
 
-1.2. Welche Aktivitäten hat der Senat ergriffen, um das Einkaufszentrum vielfältig und attraktiv zu gestalten? Bitte alle Termine mit dem Eigentümer des Einkaufszentrums und Senatsvertretern/-innen mit Thema und Ergebnis auflisten.
+### Frage 1.2
+
+Welche Aktivitäten hat der Senat ergriffen, um das Einkaufszentrum vielfältig und attraktiv zu gestalten? Bitte alle Termine mit dem Eigentümer des Einkaufszentrums und Senatsvertretern/-innen mit Thema und Ergebnis auflisten.
+
+#### Antwort zu Frage 1.2
 
 Ab dem Jahr 2009 haben unter anderem im Zusammenhang mit der Planung und Umsetzung des Innovationsquartiers Steilshoop zahlreiche Gespräche zwischen dem Eigentümer des Einkaufszentrums Steilshoop beziehungsweise seinen Vertretern und den zuständigen Behörden stattgefunden. Eine genaue Auflistung dieser Gespräche ist nicht möglich, da diese zum Teil am Rande anderer Termine geführt und nicht protokolliert und im Übrigen vertraulich geführt wurden.
 
@@ -78,11 +86,11 @@ Die Attraktivität des angrenzenden öffentlichen Raums wie insbesondere die Mar
 
 Darüber hinaus hat es im Lenkungsausschuss für das Innovationsquartier Steilshoop einen regelmäßigen Austausch mit verschiedenen Vertretern des Einkaufszentrums gegeben.
 
-1.3. Ist das Jobcenter in die Gespräche im Quartier (Sitzungen des Stadtteilbeirates et cetera) regelhaft eingebunden worden?
+### Frage 1.3
 
-Wenn ja, welche gemeinsamen Aktivitäten erwuchsen aus den Gesprächen und Sitzungen? Bitte alle Termine mit dem regionalen Jobcenterleiter mit Thema und Ergebnis auflisten.
+Ist das Jobcenter in die Gespräche im Quartier (Sitzungen des Stadtteilbeirates et cetera) regelhaft eingebunden worden? Wenn ja, welche gemeinsamen Aktivitäten erwuchsen aus den Gesprächen und Sitzungen? Bitte alle Termine mit dem regionalen Jobcenterleiter mit Thema und Ergebnis auflisten. Wenn nein, warum wurde auf eine Einbindung des Jobcenters verzichtet?
 
-Wenn nein, warum wurde auf eine Einbindung des Jobcenters verzichtet?
+#### Antwort zu Frage 1.3
 
 Nein. Dies ist auch in den übrigen RISE-Fördergebieten nicht üblich. Im Übrigen hat sich der Senat hiermit nicht befasst.
 
@@ -107,34 +115,50 @@ Die Gebietsentwicklerin wird durch unterschiedliche Informationsangebote und Kom
 ### Frage 4
 
 Auch die „Rahmenplanung Steilshoop Nord“ soll von der beauftragten Gebietsentwicklung zusätzlich gesteuert werden: „Neben der Bestandspflege und Entwicklung wird der Neubau von Wohnungen in den nächsten Jahren einen hohen Stellenwert für die Wohnungswirtschaft bekommen. Der Rahmenplan Steilshoop-Nord sieht auf den nicht mehr benötigten Schularealen bzw. Sportanlagen neue Wohnbauflächen vor, wofür ein städtebaulich-freiraumplanerischer Wettbewerb geplant ist.“
-4.1. Wo konkret ist die Planungszuständigkeit für die „Rahmenplanung Steilshoop Nord“ aktuell verortet?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+Wo konkret ist die Planungszuständigkeit für die „Rahmenplanung Steilshoop Nord“ aktuell verortet?
+
+#### Antwort zu Fragen 4 und 4.1
 
 Die Zuständigkeit für die „Rahmenplanung Steilshoop Nord“ liegt im Bezirksamt Wandsbek. Die Rahmenplanung wurde nicht von der Gebietsentwicklerin gesteuert.
 
-4.2. Wer plant den Prozess seitens der Freien und Hansestadt Hamburg, welche Planungsbüros sind beauftragt und welches Mittelvolumen ist für die Planung seitens der Stadt für das beziehungsweise die beauftragten Büro/s vorgesehen?
+### Frage 4.2
+
+Wer plant den Prozess seitens der Freien und Hansestadt Hamburg, welche Planungsbüros sind beauftragt und welches Mittelvolumen ist für die Planung seitens der Stadt für das beziehungsweise die beauftragten Büro/s vorgesehen?
+
+#### Antwort zu Frage 4.2
 
 Siehe Antwort zu 4.1. Mit der Erarbeitung der „Rahmenplanung Steilshoop Nord“ wurde das Planungsbüro PPL Architektur und Stadtplanung beauftragt. Die Rahmenplanung Steilshoop-Nord ist abgeschlossen. Der auf die „Rahmenplanung Steilshoop- Nord“ aufsetzende städtebaulich-freiraumplanerische Wettbewerb soll durch die SAGA ausgelobt werden.
 
-4.3. Welche zusätzliche Einflussnahme soll durch die Gebietsentwicklung hier konkret in welchem Format, mit welcher Legitimation und Kompetenz ausgeübt werden?
+### Frage 4.3
+
+Welche zusätzliche Einflussnahme soll durch die Gebietsentwicklung hier konkret in welchem Format, mit welcher Legitimation und Kompetenz ausgeübt werden?
+
+#### Antwort zu Frage 4.3
 
 Abhängig vom konkreten Planungsstand wird das Gebietsmanagement im Rahmen der Gremien- und Öffentlichkeitsarbeit in erster Linie zur Transparenz der Prozesse beitragen und für die kommunikative Begleitung der Planungen im Rahmen des RISE- Gebietsentwicklungsprozesses sorgen. Im Übrigen siehe Vorbemerkung.
 
 ### Frage 5
 
 Angesichts der massiven infrastrukturellen Probleme (Einkaufszentrum, Arbeitsmarkt/Langzeiterwerbslosigkeit) plant der Senat, in der nun zur Verlängerung anstehenden Förderperiode eine Teil-Refinanzierung von Kosten der großen Wohnungsbaugesellschaften für Wohnumfeldverbesserungen in ihren Wohnringen (circa 1 Million Euro) sowie von Verschönerungsmaßnahmen am Bramfelder See, teilweise auch außerhalb Steilshoops, mit RISE Mitteln (hier insgesamt 800.000 Euro) zu finanzieren.
-5.1. Wie begründet der Senat eine Priorisierung von Zahlungen unter anderem an einen Hedgefonds und für Verschönerungsmaßnahmen am Bramfelder See (vor dem Eingang des Friedhofs Ohlsdorf) angesichts der drängenden Probleme rund um das Einkaufszentrum und der Notwendigkeit, arbeitsmarktliche Fördermaßnahmen im Gebiet zu verstärken, um der Bevölkerung den Anschluss an die Arbeitsmarktentwicklung im Land zu erleichtern?
 
-#### Antwort zu Frage 5
+### Frage 5.1
+
+Wie begründet der Senat eine Priorisierung von Zahlungen unter anderem an einen Hedgefonds und für Verschönerungsmaßnahmen am Bramfelder See (vor dem Eingang des Friedhofs Ohlsdorf) angesichts der drängenden Probleme rund um das Einkaufszentrum und der Notwendigkeit, arbeitsmarktliche Fördermaßnahmen im Gebiet zu verstärken, um der Bevölkerung den Anschluss an die Arbeitsmarktentwicklung im Land zu erleichtern?
+
+#### Antwort zu Fragen 5 und 5.1
 
 Die geplanten Wohnumfeldverbesserungen und die Aufwertung im Bereich des Bramfelder Sees stellen wichtige Maßnahmen zur Erreichung der Ziele der Gebietsentwicklung dar, insbesondere im Handlungsfeld Wohnumfeld und öffentlicher Raum. Dem Naherholungsgebiet Bramfelder See kommt dabei für die umliegenden Wohngebiete eine große Bedeutung zu. Mittels vielfältiger Maßnahmen soll das Gebiet qualifiziert sowie stärker mit umliegenden Freiräumen vernetzt werden.
 
 RISE kann flankierend aus Landesmitteln soziale-integrative Maßnahmen oder beispielsweise Maßnahmen des Europäischen Sozialfonds kofinanzieren. Mit Mitteln der Städtebauförderung können keine arbeitsmarktpolitischen Fördermaßnahmen finanziert werden.
 
-5.2. Wurden Alternativen für die Verausgabung der 1,8 Millionen Euro geprüft?
+### Frage 5.2
 
-Wenn ja, welche genau und aus welchem Grund wurden private Wohnungseigentümer/-innen und der Bramfelder See als Förderziele der Attraktivitätssteigerung des Quartierszentrums und zusätzlichen Arbeitsmarktinitiativen vorgezogen? Bitte die einzelnen Argumente auflisten, ebenso die demokratisch legitimierten Entscheidungen, das heißt die Gremien mit den jeweiligen Abstimmungsergebnissen.
+Wurden Alternativen für die Verausgabung der 1,8 Millionen Euro geprüft? Wenn ja, welche genau und aus welchem Grund wurden private Wohnungseigentümer/-innen und der Bramfelder See als Förderziele der Attraktivitätssteigerung des Quartierszentrums und zusätzlichen Arbeitsmarktinitiativen vorgezogen? Bitte die einzelnen Argumente auflisten, ebenso die demokratisch legitimierten Entscheidungen, das heißt die Gremien mit den jeweiligen Abstimmungsergebnissen.
+
+#### Antwort zu Frage 5.2
 
 Die Attraktivitätssteigerung im zentralen Bereich im direkten Umfeld des EKZ durch die Neugestaltung der Markt- und Eventfläche erfolgt parallel zu den unter 5.1 genannten Maßnahmen. Es gibt keine Rangfolge der geförderten Maßnahmen.
 
@@ -161,9 +185,15 @@ Die Hamburger Hochbahn AG hat keine Aufgaben an die Gebietsentwicklerin abgegebe
 ### Frage 7
 
 Bereits in der Startphase der jetzt zehnjährigen Quartiersentwicklung gab es Kritik aus Steilshoop in Bezug auf die Etablierung des Stadtteilbeirats als „Parallelstruktur“. Die durch Bewohner/-innen weiterhin selbst organisierte „Stadtteilkonferenz KOKO“ ist jedoch, anders als der zur Verlängerung anstehende staatlich finanzierte Stadtteilbeirat, nicht subventioniert, sondern muss sich auf die eigene Finanzkraft verlassen. Gleichzeitig ist für die Verlängerungsphase folgende Zielsetzung vorgesehen: „Der Prozess der Bürgerbeteiligung und -aktivierung wird mit den wesentlichen Formaten und Gremien - Stadtteilbeirat, Finanzkreis und Verfügungsfonds, Veranstaltungen und Öffentlichkeitsarbeit - fortgeführt. Im Verlängerungszeitraum wird der Beteiligungsprozess primär darauf ausgerichtet sein, sukzessiv Tätigkeiten und Verantwortlichkeiten an vor Ort aktive Menschen zu überführen.“
-7.1. Wie wird der Senat dafür Sorge tragen, dass die selbstorganisierte, langjährig bestehende Struktur der „offiziellen“ finanziell gleichgestellt wird?
-7.2. Welche Mittel sind konkret für die Stabilisierung der Arbeit der „Stadtteilkonferenz KOKO“ vorgesehen? Wenn keine Mittel vorgesehen sind, wie begründet der Senat diese Benachteiligung der Eigeninitiative, wo doch die Tätigkeiten und Verantwortlichkeiten sukzessive an „vor Ort aktive Menschen“ überführt werden sollen?
 
-#### Antwort zu Frage 7
+### Frage 7.1
+
+Wie wird der Senat dafür Sorge tragen, dass die selbstorganisierte, langjährig bestehende Struktur der „offiziellen“ finanziell gleichgestellt wird?
+
+### Frage 7.2
+
+Welche Mittel sind konkret für die Stabilisierung der Arbeit der „Stadtteilkonferenz KOKO“ vorgesehen? Wenn keine Mittel vorgesehen sind, wie begründet der Senat diese Benachteiligung der Eigeninitiative, wo doch die Tätigkeiten und Verantwortlichkeiten sukzessive an „vor Ort aktive Menschen“ überführt werden sollen?
+
+#### Antwort zu Fragen 7, 7.1 und 7.2
 
 Der Senat begrüßt grundsätzlich jedes ehrenamtliche Engagement im und für den Stadtteil. Der Stadtteilbeirat hat sich als zentrales Gremium zur Akteursbeteiligung im Fördergebiet bewährt und wird deshalb im Verlängerungszeitraum fortgeführt. Der Stadtteilbeirat steht weiterhin allen Interessierten offen, auch den Mitgliedern der Stadtteilkonferenz (KoKo). Eine zusätzliche Finanzaustattung der KoKo ist nicht vorgesehen. Nach dem Ende der Förderung wird eine Verstetigung der Tätigkeiten des Stadtteilbeirats auf ehrenamtlicher Basis angestrebt.

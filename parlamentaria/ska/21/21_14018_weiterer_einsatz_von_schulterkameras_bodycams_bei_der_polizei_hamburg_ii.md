@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10102", "21/8737"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63412"
@@ -53,15 +54,15 @@ In welchem Ausmaß (insbesondere wie viele Geräte, wie viele geplante Einsätze
 
 Die Polizei hat das Thema „Mobile Videotechnik – Bodycam“ in die „Vorschrift für den täglichen Dienst“ (Polizeidienstvorschrift (PDV) 350) aufgenommen. Ein Einsatz von Bodycams ist gemäß PDV 350 im gesamten Stadtgebiet zum Beispiel bei
 
- Konzeptionseinsätzen wie Einsatzmaßnahmen in Sachen „gefährliche Orte“,
+– Konzeptionseinsätzen wie Einsatzmaßnahmen in Sachen „gefährliche Orte“,
 
- Präsenzmaßnahmen zur Kriminalitätsbekämpfung (zum Beispiel Schwerpunktein-
+– Präsenzmaßnahmen zur Kriminalitätsbekämpfung (zum Beispiel Schwerpunktein-
 
 sätze zur Bekämpfung der Gewaltkriminalität),
 
- Großveranstaltungen oder Volksfesten sowie
+– Großveranstaltungen oder Volksfesten sowie
 
- Kontrollmaßnahmen in der Verkehrsüberwachung
+– Kontrollmaßnahmen in der Verkehrsüberwachung
 
 möglich.
 
@@ -91,7 +92,7 @@ Wie viele Bodycams besitzt die Hamburger Polizei aktuell und welche weiteren Ans
 
 Wie haben sich die Beschaffungs- und Einsatzkosten der Bodycams entwickelt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Polizei verfügt aktuell über 16 Bodycams (neun an den PK sowie sieben bei IT und der Akademie für Test- und Schulungszwecke). Zu den im erfragten Zeitraum angeschafften Modellen siehe folgende Tabelle:
 
@@ -129,7 +130,7 @@ In wie vielen Fällen welchen Delikts seit August 2017 hat der Einsatz der Bodyc
 
 In wie vielen Gerichtsverfahren zu welchen Delikten konnten die Videoaufnahmen als Beweismittel genutzt werden?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Beantwortung der Frage ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Die Polizei hat für den erfragten Zeitraum 20 Vorgänge händisch als relevant im Sinne der Fragestellung ausgewertet. Ein Anspruch auf Vollständigkeit kann damit nicht gewährleistet werden. Die von der Polizei Hamburg ermittelten Aktenzeichen zu den 20 Verfahren müssten zunächst durch die Staatsanwaltschaft dortigen Vorgängen zugeordnet werden. Eine Beantwortung der Fragen allein anhand der im Vorgangsverwaltungs- und Vorgangsbearbeitungssystem der Staatsanwaltschaft (MESTA) gespeicherten Daten wäre dabei nicht ausreichend. Vielmehr müssten sämtliche in Rede stehenden Akten angefordert und im Hinblick auf den Verfahrensgang durchgesehen und ausgewertet werden. Dies betrifft zum einen eine Bewertung der Ermittlungen bis zum Abschluss des Verfahrens
 

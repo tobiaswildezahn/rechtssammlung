@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9076"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58073"
@@ -79,6 +80,6 @@ Wie genau wird aus Sicht des Senats beziehungsweise der zuständigen Behörde di
 
 Wenn trotz eines seit 2011 bis 2017 nachweisbaren Anstiegs der in Altona-Altstadt gemeldeten Pkws, von 7.705 um 890 Fahrzeuge beziehungsweise rund 12 Prozent auf 8.595 Pkws, 68 öffentliche Parkplätze wegfallen, nehmen Parkdruck und Parksuchverkehre in diesem Gebiet unweigerlich zu. Inwiefern helfen Parksuchverkehre dabei, die erhöhten NO-Emissionswerte in der Max-Brauer-Allee zu senken?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Um die Mobilität der Menschen in einem Stadtteil beurteilen zu können, müssen auch die Nutzung des öffentlichen Personennahverkehrs (ÖPNV), der Radverkehr und das Zufußgehen berücksichtigt werden. Eine Reduzierung von Parkständen dürfte sich nur geringfügig auf die Mobilität der Menschen auswirken. Im Übrigen haben die Voruntersuchungen ergeben, dass im Zuge der Mittelinsel in der Max-Brauer-Allee überwiegend Langzeitparkende stehen, sodass Parkplatzwechsel und der Parksuchverkehr vergleichsweise gering ausfallen. Der mögliche zukünftige Parksuchverkehr wird somit nicht zu einer nachweisbaren Erhöhung der NO-Emissionswerte in der Max-Brauer- Allee führen.

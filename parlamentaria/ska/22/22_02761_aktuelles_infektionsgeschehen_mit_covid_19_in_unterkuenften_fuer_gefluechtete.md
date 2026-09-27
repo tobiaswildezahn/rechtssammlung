@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 36
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["22/2006", "22/590"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/74008"

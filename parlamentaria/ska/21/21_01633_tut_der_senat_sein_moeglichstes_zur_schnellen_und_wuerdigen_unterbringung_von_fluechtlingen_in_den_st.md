@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1431", "21/1067"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49845"
@@ -47,25 +48,25 @@ f & w fördern und wohnen AöR (f & w) hat aktuell 31 Objekte von privaten Eigen
 
 Hamburg-Nord:
 
- Holsteinischer Kamp (Barmbek-Süd);
+– Holsteinischer Kamp (Barmbek-Süd);
 
- Hufnerstraße (Barmbek-Süd);
+– Hufnerstraße (Barmbek-Süd);
 
- Heinrich-Hertz-Straße (Uhlenhorst);
+– Heinrich-Hertz-Straße (Uhlenhorst);
 
 Hamburg-Mitte:
 
- Eiffestr. (Hamm);
+– Eiffestr. (Hamm);
 
 Wandsbek:
 
- Sieker Landstraße (Rahlstedt);
+– Sieker Landstraße (Rahlstedt);
 
- Lademannbogen (Hummelsbüttel);
+– Lademannbogen (Hummelsbüttel);
 
 Bergedorf:
 
- Kurt A.-Körber-Chaussee (Bergedorf).
+– Kurt A.-Körber-Chaussee (Bergedorf).
 
 ### Frage 2
 
@@ -141,7 +142,7 @@ Wer trägt die Kosten, wenn eine von privaten Eigentümern angemietete Immobilie
 
 Wenn diese Kosten f & w trägt, wie viel wurde bislang für den Umbau von Immobilien ausgegeben, die Privateigentümern gehören?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Drs. 21/1431 und Drs. 21/1067.
 

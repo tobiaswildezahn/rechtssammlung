@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10048"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59145"
@@ -81,7 +82,7 @@ Welche konkreten Maßnahmen/Planungen wurden im Hinblick auf die One-Stop-Strate
 
 Wann sollen diese Maßnahmen/Planungen umgesetzt werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Das Ziel des sogenannten One-Stop-Shop wird festgelegt in Artikel 47 des Unionszollkodex (VO (EU) Nr. 952/2013). Danach haben die Zollbehörden eine enge Zusammenarbeit mit anderen Behörden in den Fällen anzustreben, in denen Waren nicht nur vom Zoll, sondern auch von anderen Behörden zu kontrollieren sind. Hierbei obliegt die Aufgabe der Koordinierung den Zollbehörden und in Deutschland der Bundeszollverwaltung.
 
@@ -103,7 +104,7 @@ Für welche konkreten Verfahren beziehungsweise Unterlagen soll eine stärkere V
 
 Kann die stärkere Vernetzung mit der Bundesbehörde Zoll im Bereich IT durch den Senat beschleunigt werden? Wenn ja, wie?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die zuständigen Behörden sehen im Ausbau der Digitalisierung einen wichtigen Impuls. Die Vereinfachung des Datenaustausches mit dem Zoll auf der Grundlage des Systems TRACES (TRAde Control and Expert System) spielt hier eine wichtige Rolle.
 

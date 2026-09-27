@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59916"
@@ -43,7 +44,7 @@ Wie hat sich die Höhe der Standgebühren für Schausteller auf dem Hamburger Do
 
 Sollte es zu Gebührenanhebungen gekommen sein, womit wurden diese im Einzelnen begründet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Jahr  
 Erhöhung/Begründung  
@@ -70,7 +71,7 @@ In welcher Höhe soll sich die Standgebühr für Schausteller auf dem Hamburger 
 
 Sollten weitere Gebührenanhebungen geplant sein, womit sollen diese begründet werden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Gebühren für das Marktwesen und im Speziellen die Standgebühren für Volksfeste auf dem Heiligengeistfeld sind in circa 50 einzelne Gebührentatbestände gegliedert und nach Sparten differenziert. Diese sind in der Gebührenordnung für das Marktwe-
 

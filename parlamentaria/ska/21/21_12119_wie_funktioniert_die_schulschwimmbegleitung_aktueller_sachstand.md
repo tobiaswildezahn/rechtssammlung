@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 44
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10477", "21/6984", "18/4119", "20/8276", "21/4918", "21/6123", "21/10666", "21/642", "21/5088", "21/10942", "21/1911"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61387"
@@ -76,7 +77,7 @@ Wie erfolgt die Zuweisung der in Drs. 21/10477 (beziehungsweise 21/6984) festgel
 
 Wie viele Schulstandorte haben diese zusätzliche Ressource (siehe Frage 1.) seit August 2017 bis heute (Stand 22.2.2018) beantragt/angefordert? (Bitte in absoluten Zahlen in einer Excel-Tabelle angeben.) a. Wie viele dieser Schulen haben diese Zuweisung erhalten, wie viele nicht und wenn nicht, warum? (Bitte entsprechend mit Begründung in der Tabelle zu 2. angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Zuweisung an die staatlichen Grundschulen erfolgt in standardisierter Form zu Schuljahresbeginn basierend auf den Klassenzahlen der Jahrgangsstufen 3 und 4. Siehe dazu Drs. 21/6123. Eine Beantragung der Ressourcen ist nicht erforderlich und es existieren keine Fristen. Alle Schulen, die obligatorischen Schwimmunterricht erteilen, haben die Ressourcen erhalten. Zuständiges Fachreferat für die Zuweisung von Ressourcen ist die Haushaltsabteilung der zuständigen Behörde.
 
@@ -112,7 +113,7 @@ Welche konkreten juristischen Konsequenzen im Sinne persönlicher und gegebenenf
 
 Wie genau werden nicht pädagogisch ausgebildete Kräfte, wie Eltern und Ehrenamtliche, über die Risiken und die juristischen Haftungskonsequenzen im Fall einer Schädigung von den durch sie begleiteten Schülern/-innen zum und vom Schulschwimmen aufgeklärt? (Bitte Verfahren erläutern und existierende Informationen/Materialien als Datei anfügen.) a. Durch wen mit welcher Qualifikation erfolgt eine solche Aufklärung?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung sowie Antwort zu 7. Damit ehrenamtlich Tätigen durch ihre Tätigkeit keine Nachteile entstehen, hat die Freie und Hansestadt Hamburg einen Sammelhaftpflichtvertrag für ehrenamtlich Tätige abgeschlossen.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/2948", "21/3114", "21/4523", "21/5598", "20/4967"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54271"
@@ -83,35 +84,35 @@ Welche Sportgroßveranstaltungen konnte Senator Grote während seines Besuchs de
 
 Während der Olympischen Sommerspiele in Rio de Janeiro hat es eine Vielzahl von Gesprächen zwischen Vertretern der Hamburger Delegation und Vertretern von nationalen und internationalen Verbänden sowie mit Veranstaltern von Sportgroßveranstaltungen gegeben, siehe Drs. 21/5598. Dabei wurden unter anderem die folgenden Gespräche zu Sportgroßveranstaltungen geführt:
 
- Fortsetzung der Beachvolleyball Major Series im Jahr 2017 – Entscheidung im
+– Fortsetzung der Beachvolleyball Major Series im Jahr 2017 – Entscheidung im
 
 Herbst 2016
 
- Mögliche Ausrichtung einer Beachvolleyball-EM 2020 oder -WM 2021 – Aus-
+– Mögliche Ausrichtung einer Beachvolleyball-EM 2020 oder -WM 2021 – Aus-
 
 schreibungen liegen noch nicht vor
 
- Hamburg als dauerhafter Austragungsort der ITU Mixed Team Triathlon WM –
+– Hamburg als dauerhafter Austragungsort der ITU Mixed Team Triathlon WM –
 
 Termin der Entscheidung noch nicht bekannt
 
- Ironman Triathlon ab 2017 mit der Möglichkeit einer EM ab 2020 – Entscheidung
+– Ironman Triathlon ab 2017 mit der Möglichkeit einer EM ab 2020 – Entscheidung
 
 erfolgt im September 2016
 
- Rollstuhlbasketball-WM 2018 – Entscheidung während der Paralympischen Som-
+– Rollstuhlbasketball-WM 2018 – Entscheidung während der Paralympischen Som-
 
 merspiele in Rio de Janeiro 2016
 
- Austragung der Halbfinalspiele der Handball-WM der Männer 2019 – Entscheidung
+– Austragung der Halbfinalspiele der Handball-WM der Männer 2019 – Entscheidung
 
 voraussichtlich Ende 2016
 
- Fortsetzung der Hamburger Bewerbung um eine Ruder-WM (U23-Ruder-WM 2019
+– Fortsetzung der Hamburger Bewerbung um eine Ruder-WM (U23-Ruder-WM 2019
 
 und/oder Ruder-WM 2022) – Bewerbungsfristen noch nicht bekannt
 
- EM Springreiten 2023 – Bewerbungsfristen noch nicht bekannt
+– EM Springreiten 2023 – Bewerbungsfristen noch nicht bekannt
 
 ### Frage 6
 
@@ -137,15 +138,15 @@ Welche Sportgroßveranstaltungen sind bereits geplant, für die noch keine Mitte
 
 Die Bewerbungen um die
 
- Beachvolleyball Major Series 2017,
+– Beachvolleyball Major Series 2017,
 
- die AIBA Box-WM 2017,
+– die AIBA Box-WM 2017,
 
- die Handball-WM der Frauen 2017,
+– die Handball-WM der Frauen 2017,
 
- den Ironman 2017 und 2018 sowie
+– den Ironman 2017 und 2018 sowie
 
- die Rollstuhlbasketball-WM 2018
+– die Rollstuhlbasketball-WM 2018
 
 erfolgen durch die Inanspruchnahme der im Einzelplan 8.1, Produktgruppe Sport, ausgebrachten Verpflichtungsermächtigung (VE für Kosten für Transferleistungen in Höhe von jährlich 18,25 Millionen Euro).
 

@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 36
 antwortbloecke: 22
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/917", "21/5231", "20/12697", "21/1716", "21/7529", "21/10093", "21/8825", "21/5832", "21/8434", "21/9939", "21/7612", "21/8462"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58989"
@@ -87,7 +88,7 @@ Wie viele Azubi-Wohnungen sind an diesem Standort bereits vorhanden?
 
 Wie viele Azubi-Wohnungen für insgesamt wie viele Azubis sollen bis wann errichtet werden? Wann hat der Investor seine Zustimmung hierfür erteilt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Antwort zu 1.
 

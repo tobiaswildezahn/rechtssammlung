@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 21
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1897", "21/6932"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62907"
@@ -51,7 +52,7 @@ Wie viele Drohnen gibt es nach Erkenntnissen des Senats derzeit in Hamburg?
 
 Welcher Anteil entfällt auf den Freizeitbereich, welcher auf den professionellen Bereich?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat hat hierzu keine Erkenntnisse, da es keine Registrierungspflicht für Drohnen gibt.
 

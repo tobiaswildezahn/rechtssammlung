@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56452"
@@ -58,7 +59,7 @@ Wie bewertet der Senat den Ausschluss betroffener Personen durch den HVV?
 
 Hält der Senat den Ausschluss betroffener Personen für vereinbar mit dem Artikel 9 (Zugänglichkeit) und dem Artikel 20 (Persönliche Mobilität) der UN-Behindertenrechtskonvention?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es werden bestimmte Mobilitätshilfen von der Mitnahme ausgeschlossen, die eine Gefahr für die Sicherheit der Fahrgäste darstellen.
 
@@ -70,7 +71,7 @@ Gab es nach dem 1. Januar 2017 Gespräche mit den Behindertenverbänden zum Auss
 
 Inwieweit werden die Vertreter/-innen der Verbände und Organisationen in den vom HVV angekündigten Lösungsprozess einbezogen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Das Ministerium für Bauen, Wohnen, Stadtentwicklung und Verkehr des Landes Nordrhein-Westfalen (MBWSV NW) hat stellvertretend für die Verkehrsressorts der Länder unter anderem den Behindertenverbänden die Gelegenheit gegeben, zu dem Entwurf des geplanten Erlasses Stellung zu nehmen. Die Anhörung der Verbände und Organisationen auf Landesebene erfolgte über die Landesbehindertenbeauftragten der Länder. In Hamburg hat die Senatskoordinatorin für die Gleichstellung behinderter Menschen (SKbM) unter anderem die Hamburger Landesarbeitsgemeinschaft für behinderte Menschen e.V. (LAG) angehört. Die Frist zur Stellungnahme zum Entwurf der bundesweiten Regelung endete am 27. Januar 2017.
 
@@ -82,6 +83,6 @@ Welche Ergebnisse sind dem Senat schon bekannt?
 
 Wenn noch keine Ergebnisse bekannt sind, wann rechnet der Senat mit Ergebnissen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der zuständigen Behörde liegen die Stellungnahmen der Verbände und Organisationen vor und werden derzeit ausgewertet. Der Erlass einer bundeseinheitlichen Regelung, der die Mitnahme von E-Scootern unter gewissen Voraussetzungen ermöglicht, wird einhellig begrüßt. Auch bezeichnen viele Verbände die getroffene Abwägung zwischen der Beförderungspflicht einerseits und dem Recht auf Leben und körperliche Unversehrtheit andererseits als ausgewogen. Bedauert wird, dass die Hersteller derzeit noch keine Fahrzeuge anbieten, die die technischen Anforderungen voll erfüllen.

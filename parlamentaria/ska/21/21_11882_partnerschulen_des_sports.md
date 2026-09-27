@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61125"
@@ -53,7 +54,7 @@ Wie viele Anträge zur Anerkennung als PdN sind bislang beim Sportreferat der Be
 
 Wie viele Anträge wurden abgelehnt, wie viele Anträge positiv beschieden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für die Schuljahre 2017/2018 und 2018/2019 haben sich neun Schulen für das Prädikat PdN beworben, es wurden sieben Anträge abgelehnt, weil die erforderlichen Kriterien nicht gänzlich erfüllt waren. Gründe für die Ablehnung dieser Anträge waren unter anderem nicht durchgewachsene Sportklassen und fehlende beziehungsweise nicht hinreichend ausgeprägte Kooperationen mit Sportarten aus der aktuellen HSB-Sportartenklassifizierung beziehungsweise entsprechenden Verbänden.
 

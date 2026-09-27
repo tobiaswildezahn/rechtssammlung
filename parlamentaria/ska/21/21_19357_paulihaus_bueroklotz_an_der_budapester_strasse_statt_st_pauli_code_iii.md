@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18906"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69072"
@@ -44,7 +45,7 @@ Seitens des Bezirksamtes Hamburg-Mitte wurde mit Protokoll vom
 
 Falls Mantelbebauungen beschlossen wurden: a. Welche Geschossigkeit und welches Bauvolumen wurden festgelegt? b. Welche Vorgaben zu Verkehr und Erschließung, wie zum Beispiel Tiefgaragen, Stellplätze et cetera, wurden gemacht c. Wie wurde die umfangreiche Tiefgarage, die im kooperativen Gutachterverfahren unterhalb der Mantelbebauungen sowie unterhalb der Jet-Tankstelle vorgesehen war, beurteilt? d. Weshalb und durch wen wurde die vorgeschlagene Bautiefe der Gebäude gegenüber den Angaben innerhalb des kooperativen Gutachterverfahrens geändert? e. Welche Art der Bürger-/-innenbeteiligung wurde in dem damaligen Zusammenhang gewünscht oder festgelegt? Wurden diese Festlegungen bis heute bereits erfüllt oder sind noch Aspekte offen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Bericht des Fachamtsleiters in der Ausschusssitzung vom 02. März 2017 ist nicht zutreffend wiedergegeben. Wörtlich heißt es in der Niederschrift: „Er erinnert an das zurückliegende kooperative Gutachterverfahren mit den beiden Varianten (Abbruch und Neubau) zur Nutzung der Fläche vor rd. fünf Jahren. Man habe sich seinerzeit für den Erhalt des denkmalgeschützten Bestandsgebäudes ausgesprochen und ebenso für sog. Mantelneubebauungen im Osten und im Westen.“ Diese Aussage bezieht sich auf die beiden im Juli 2010 gekürten Siegerentwürfe des kooperativen Gutachterverfahrens, die am 25. November 2010 öffentlich präsentiert wurden.
 
@@ -156,29 +157,29 @@ Folgende Angaben wurden vom Antragsteller gegenüber der Bauaufsicht gemacht.
 
 Bauantragstellerin:
 
- Mitteilung vom 07. März 2019 im Zusammenhang mit der Einreichung von Bauvor-
+– Mitteilung vom 07. März 2019 im Zusammenhang mit der Einreichung von Bauvor-
 
 lagen: HTP HAMBURG TEAM Gesellschaft für Projektentwicklung mbH, vertreten durch die im Handelsregister B Amtsgericht Hamburg HRB 55804 angegebenen Personen, Bauantragsformular,
 
- Schreiben zur Anzeige des Bauherrenwechsels nach § 54 Hamburgische Bauord-
+– Schreiben zur Anzeige des Bauherrenwechsels nach § 54 Hamburgische Bauord-
 
 nung (HBauO) vom 22. Mai 2019: Paulihaus GmbH & Co. KG, vertreten durch die im Handelsregister A Amtsgericht Hamburg HRA 124487 beziehungsweise im Handelsregister B Amtsgericht Hamburg HRB 156916 angegebenen Personen,
 
 Größe des Bauvorhabens:
 
- Mitteilung vom 07. März 2019 im Zusammenhang mit der Einreichung von Bauvor-
+– Mitteilung vom 07. März 2019 im Zusammenhang mit der Einreichung von Bauvor-
 
 lagen: Büro- und Gewerbehaus: 40 788 m³,
 
 Geschossigkeit:
 
- Mitteilung vom 07. März 2019 im Zusammenhang mit der Einreichung von Bauvor-
+– Mitteilung vom 07. März 2019 im Zusammenhang mit der Einreichung von Bauvor-
 
 lagen: sechs Geschosse,
 
 Grundstücksfläche:
 
- Mitteilung vom 07. März 2019 im Zusammenhang mit der Einreichung von Bauvor-
+– Mitteilung vom 07. März 2019 im Zusammenhang mit der Einreichung von Bauvor-
 
 lagen: 16,70 m x 113,90 m Außenmaße Baukörper.
 
@@ -186,23 +187,23 @@ b. Welche Punkte wurden beziehungsweise sind bisher im Rahmen des Baugenehmigung
 
 Bislang wurden folgende Rechtsbereiche im Rahmen des Prüfumfanges nach § 62 HBauO geprüft und das Vorhaben ist aus Sicht dieser Rechtsbereiche genehmigungsfähig:
 
- Bauplanungsrecht,
+– Bauplanungsrecht,
 
- Arbeitsschutz,
+– Arbeitsschutz,
 
- Denkmalschutz,
+– Denkmalschutz,
 
- Lebensmittelrecht,
+– Lebensmittelrecht,
 
- Naturschutz,
+– Naturschutz,
 
- Immissionsschutz,
+– Immissionsschutz,
 
- Bodenschutz,
+– Bodenschutz,
 
- Abfallrecht,
+– Abfallrecht,
 
- Wegerecht.
+– Wegerecht.
 
 c. Welche Punkte des St.-Pauli-Codes werden vom derzeitigen Bauantrag erfüllt, welche nicht? Bitte jeweils eine Begründung hinzufügen.
 

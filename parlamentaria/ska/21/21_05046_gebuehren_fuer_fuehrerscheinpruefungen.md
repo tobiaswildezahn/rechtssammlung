@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53506"
@@ -41,7 +42,7 @@ Welche Gebühren werden nach welcher Vorschrift für die theoretische und die pr
 
 Wie haben sich die Gebührenhöhen in den letzten zehn Jahren entwickelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Gebühren für die theoretische und praktische Prüfung um eine Fahrerlaubnis ergeben sich aus dem 3. Abschnitt (Gebührennummern 401 bis 402.9) der Anlage zu § 1 der Gebührenordnung für Maßnahmen im Straßenverkehr (GebOSt) vom 25. Januar 2011 in der Fassung vom 15. September 2015.
 

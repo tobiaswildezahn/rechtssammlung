@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14771"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69238"
@@ -107,7 +108,7 @@ In wie vielen Fällen ist es nach Abschluss der Ermittlungen zu Strafverfahren g
 
 Wie oft wurden hierbei Bewährungsstrafen, wie oft Haftstrafen verhängt?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Sämtliche in der PKS für den OT 207 vom Januar bis September 2019 seitens der Polizei in der PKS erfassten 593 BtM-Fälle wurden der Staatsanwaltschaft übersandt.
 

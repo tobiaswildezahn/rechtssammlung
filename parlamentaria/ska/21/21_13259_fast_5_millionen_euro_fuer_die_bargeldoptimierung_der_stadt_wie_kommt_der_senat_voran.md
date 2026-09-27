@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8842"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62602"
@@ -73,7 +74,7 @@ In welcher Höhe sind im Jahr 2017 sowie bislang im Jahr 2018 jeweils investive 
 
 Welcher weitere Einsatz von Haushaltsmitteln wird in den Jahren 2018 und 2019 erwartet?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im Jahr 2017 sind 86.100 Euro, im Jahr 2018 bislang 8.100 Euro (beides konsumtiv) verausgabt worden. Der Mittelabfluss wird sich im Wesentlichen auf die Jahre 2019 und 2020 verteilen. Hintergrund ist, dass die Bargeldoptimierung den dezentral organisierten Bereich der Zahlstellen, Geldannahmestellen, Handvorschüsse und Kassenautomaten betrifft. Optimierungen setzen eine enge Abstimmung mit benachbarten Themenfeldern voraus, da dort die Rahmenbedingungen für den reibungslosen Betrieb festgelegt werden. Hier sind insbesondere die Umstellung der Enterprise- Resource-Planning(ERP)-Landschaft der Freien und Hansestadt Hamburg auf SAP HANA, die Einführung der SAP-Barkasse und die Ablösung des Fachverfahrens PROSA (Projekt Sozialhilfe-Automation) zu nennen. Die jetzige technische Basis für einen Großteil der Zahlstellen entfällt durch die Ablösung von PROSA. Die Entwicklung einer Ersatzlösung ist hiervon abhängig und somit noch nicht abgeschlossen.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56252"
@@ -58,16 +59,28 @@ Wie viele Anmeldungen von Schülerinnen/Schülern weisen die einzelnen Privatsch
 ### Frage 4
 
 Wie hoch ist das jeweilige Schulgeld der unter 1. genannten Schulen:
-4.1. maximales Schulgeld,
-4.2. durchschnittliches Schulgeld
-4.3. Staffelungen des Schulgeldes nach Elterneinkommen von … bis sowie
-4.4. Zahl und Anteil der gänzlich von Schulgeld befreiten Schüler?
+
+### Frage 4.1
+
+maximales Schulgeld,
+
+### Frage 4.2
+
+durchschnittliches Schulgeld
+
+### Frage 4.3
+
+Staffelungen des Schulgeldes nach Elterneinkommen von … bis sowie
+
+### Frage 4.4
+
+Zahl und Anteil der gänzlich von Schulgeld befreiten Schüler?
 
 ### Frage 5
 
 Wird Schülerinnen und Schülern nach gleichen Anspruchsvoraussetzungen wie an staatlichen Schulen Lehrmittelfreiheit nach Bedürftigkeit gewährt? Bitte für jede Schule beziehungsweise für jeden Träger beantworten.
 
-#### Antwort zu Fragen 1 bis 5
+#### Antwort zu Fragen 1, 2, 3, 4, 4.1, 4.2, 4.3, 4.4 und 5
 
 Derzeit ist an allen Schulen in freier Trägerschaft von den Eltern grundsätzlich ein Schulgeld zu entrichten.
 

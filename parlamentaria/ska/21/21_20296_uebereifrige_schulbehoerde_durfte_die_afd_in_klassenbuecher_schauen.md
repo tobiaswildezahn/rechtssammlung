@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19119", "21/19297", "21/18721"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70082"
@@ -79,7 +80,7 @@ Aus welchen sachlichen und fachlichen Gründen hat der Senat beziehungsweise die
 
 Welche Antwort gibt der Senat beziehungsweise die zuständige Behörde auf die Anfrage der „Hamburger Morgenpost“? (Bitte so detailliert wie möglich auf die Anfrage antworten.)
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Presseanfragen werden regelhaft nicht dokumentiert.
 

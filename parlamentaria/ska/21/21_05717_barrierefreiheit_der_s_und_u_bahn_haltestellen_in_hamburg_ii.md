@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1177", "20/94", "21/5690", "21/4908", "20/12762"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54206"
@@ -304,15 +305,15 @@ Einzelkosten für die Schaffung der Barrierefreiheit können nicht angegeben wer
 
 e) Bei wie vielen und welchen S-Bahn-Haltestellen sind Bauarbeiten zur Herstellung der Stufen- und/oder Barrierefreiheit in den kommenden Jahren wann genau geplant? Bitte zusätzlich die jeweils veranschlagten Kosten sowie Kostenverteilung auf DB, Bund und so weiter angeben.
 
- Im Jahr 2017: Schaffung der Barrierefreiheit in der Haltestelle Blankenese (bisher
+– Im Jahr 2017: Schaffung der Barrierefreiheit in der Haltestelle Blankenese (bisher
 
 „teilweise stufenfrei“), Ausbau der Haltestelle Harburg (S-Bahn) um weitere Aufzüge
 
- Im Jahr 2018: Planung des barrierefreien Ausbaus der Haltestellen Jungfernstieg,
+– Im Jahr 2018: Planung des barrierefreien Ausbaus der Haltestellen Jungfernstieg,
 
 Reeperbahn, Kornweg und Wellingsbüttel
 
- Ab dem Jahr 2019: Anpassung der restlichen Haltestellen
+– Ab dem Jahr 2019: Anpassung der restlichen Haltestellen
 
 Bezüglich der Kosten siehe Antwort zu 2.d).
 

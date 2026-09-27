@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5002", "20/13000", "21/1392"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53839"
@@ -68,7 +69,7 @@ Welche einzelnen Produktgruppen in jeweils welchen Einzelplänen sollen mit dem 
 
 Welche einzelnen Produktgruppen in jeweils welchen Einzelplänen sollen im Haushalt 2017/2018 aus welchen Gründen neu enthalten sein?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Produktgruppen des Haushaltsjahres 2016 ergeben sich neben dem Haushaltsplan 2015/2016 (siehe Drs. 20/13000) insbesondere auch aus der Umsetzung der
 

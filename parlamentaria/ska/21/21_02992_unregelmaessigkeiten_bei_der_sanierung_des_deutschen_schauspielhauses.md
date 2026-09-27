@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 21
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/89", "21/51", "20/14486"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51340"
@@ -55,7 +56,7 @@ Wie hoch waren die Kosten gemäß ursprünglicher Planung?
 
 Wie hoch sind nach aktuellem Stand die tatsächlichen Kosten? Welche Budgetanpassungen ergaben sich aus jeweils welchen Gründen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -135,7 +136,7 @@ Das DSH hat im Zeitraum Juni 2013 bis Januar 2014 Bauleistungen beauftragt, die 
 
 Welche Konsequenzen struktureller Natur zieht die zuständige Behörde aus den Vorgängen? Welche Mechanismen wurden eingeführt, um künftig derartige Verfahrensfehler, die zu eklatanten Kostensteigerungen geführt haben, zu vermeiden?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14485"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65006"
@@ -85,6 +86,6 @@ Wurde die Fläche zur Vergabe zum Beispiel zur Nutzung durch Mobilitätsanbieter
 
 Wurden auch andere Anbieter als die P+R-Betriebsgesellschaft mbH angesprochen, um den U-Bahnhof Lattenkamp gut anzubinden? Wenn nein, warum nicht? Wenn ja, welche?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Das Bike+Ride-Entwicklungskonzept (Drs. 20/14485) und der zwischen P+R und der Behörde für Wirtschaft, Verkehr und Innovation abgeschlossene Bike+Ride-Rahmenvertrag sehen vor, dass P+R bis zum Jahr 2025 an allen Schnellbahn-Haltestellen auf dem Gebiet der Freien und Hansestadt Hamburg die Fahrrad-Abstellmöglichkeiten qualitativ und quantitativ verbessert. Die genannten Grundlagen zur Erfüllung dieser Aufgabe sehen vor, dass die Bezirke P+R für diesen Zweck öffentliche Flächen mittels Sondernutzungserlaubnissen gebührenfrei zur Verfügung stellen. Im Übrigen siehe Vorbemerkung.

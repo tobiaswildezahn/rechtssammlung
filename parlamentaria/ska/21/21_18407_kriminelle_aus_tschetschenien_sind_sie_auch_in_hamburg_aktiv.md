@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15180"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68053"
@@ -67,7 +68,7 @@ Wie viele Tschetschenen waren beziehungsweise sind seit 2014 in Hamburger Justiz
 
 Wie viele von diesen straffällig gewordenen Tschetschenen wurden seit 2014 ausgewiesen beziehungsweise abgeschoben? Bitte nach Jahren darstellen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Herkunft von Gefangenen wird nicht erfasst. Die Herkunft beziehungsweise Zugehörigkeit zu Teilrepubliken der Russischen Föderation wird weder im Ausländerzentralregister (AZR) noch im ausländerbehördlichen Fachverfahren in auswertbarer Form erfasst.
 

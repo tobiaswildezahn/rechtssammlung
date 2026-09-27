@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11402", "21/917", "21/1323", "21/1653", "21/2471"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55209"
@@ -179,7 +180,7 @@ Wie viele der unter 4. bis 6. aufgeführten neu gepflanzten Straßenbäume wurde
 
 Wie viele der unter 4. bis 6. aufgeführten neu gepflanzten Straßenbäume wurden jeweils aus Ausgleichsmaßnahmen öffentlicher Bauträger finanziert?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Keine.
 
@@ -199,7 +200,7 @@ An welchen Standorten stehen die gemäß Drucksache der BV-Nord, 20- 3519, in de
 
 An welchen Standorten stehen die gemäß Drucksache der BV-Nord, 20- 3519, in der Periode 2014/2015 neu erfassten 73 Straßenbäume? Bitte nach Stadtteilen und innerhalb der Stadtteile nach Straßen A – Z sortieren.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Anlage 1.
 

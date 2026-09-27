@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58115"
@@ -54,7 +55,7 @@ Wie ist der Stand der Belegung in den einzelnen Unterkünften, mit Ausnahme der 
 
 An welchen Standorten sind seit wann und wie viele Wohnungslose untergebracht? Bitte stellen Sie dieses tabellarisch dar.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In Bezug auf die Ist-Belegung der Unterkünfte und in Bezug auf deren Aufteilung in Zuwanderer und Wohnungslose siehe Anlage. In Bezug auf die Kapazitäten (Anzahl der Gesamtplätze) siehe Antwort zu 4.
 

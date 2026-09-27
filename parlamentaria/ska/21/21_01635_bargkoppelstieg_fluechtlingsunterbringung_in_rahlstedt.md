@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 19
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1568", "21/1409"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49847"
@@ -54,7 +55,7 @@ Wie ist der aktuelle Planungsstand im Hinblick auf die oben genannte Unterkunft?
 
 Ab wann plant der Senat die Unterbringung am vorgenannten Standort?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Flüchtlingsunterkunft wurde am 11. September 2015 in Betrieb genommen und mit Flüchtlingen belegt.
 
@@ -156,6 +157,6 @@ Zu welchem Kaufpreis und zu welchen Bedingungen hat der Senat die Halle von Glob
 
 Wer ist Eigentümer der Fläche? a. Falls die Freie und Hansestadt Hamburg neben dem Gebäude auch die Fläche erworben hat, zu welchem Preis? b. Falls die Freie und Hansestadt Hamburg nicht Eigentümer des Geländes ist, über welchen Zeitraum wurde ein Miet- oder Pachtverhältnis abgeschlossen und zu welchen Konditionen?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Die Freie und Hansestadt Hamburg hat das gesamte Grundstück einschließlich der darauf stehenden Gebäude erworben. Es wurde die sofortige Übergabe von Teilbereichen des Grundstücks an die Käuferin vertraglich vereinbart. Im Übrigen sieht der Senat zur Wahrung seiner Verhandlungsposition sowie der Betriebs- und Geschäftsgeheimnisse der Vertragspartner grundsätzlich davon ab, zu Kaufpreisen von Grundstücken beziehungsweise Einzelheiten von Grundstücksgeschäften Stellung zu beziehen.

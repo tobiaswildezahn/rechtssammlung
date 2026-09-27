@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10214", "21/9383"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59656"
@@ -45,29 +46,29 @@ Die Digitalisierung Hamburgs ist eine gesamtstädtische Aufgabe und daher Bestan
 
 Für die in Fußnote 1 aufgeführten Teilstrategien bestehen insbesondere folgende Zuständigkeiten:
 
- Digitale Verwaltung: Finanzbehörde
+– Digitale Verwaltung: Finanzbehörde
 
- Intelligente Verkehrssysteme: Behörde für Wirtschaft, Verkehr und Innovation
+– Intelligente Verkehrssysteme: Behörde für Wirtschaft, Verkehr und Innovation
 
- smartPORT: Behörde für Wirtschaft, Verkehr und Innovation, Hamburg Port Autho-
+– smartPORT: Behörde für Wirtschaft, Verkehr und Innovation, Hamburg Port Autho-
 
 rity
 
- Hamburg Open Online University: Behörde für Wissenschaft, Forschung und
+– Hamburg Open Online University: Behörde für Wissenschaft, Forschung und
 
 Gleichstellung
 
- Intelligente Bildungsnetze: Behörde für Schule und Berufsbildung, Behörde für
+– Intelligente Bildungsnetze: Behörde für Schule und Berufsbildung, Behörde für
 
 Wissenschaft, Forschung und Gleichstellung
 
- Smarte Geodaten: Behörde für Stadtentwicklung und Wohnen, Landesbetrieb
+– Smarte Geodaten: Behörde für Stadtentwicklung und Wohnen, Landesbetrieb
 
 Geoinformation und Vermessung.
 
- Smart Energy: Behörde für Umwelt und Energie
+– Smart Energy: Behörde für Umwelt und Energie
 
- eCulture: Behörde für Kultur und Medien
+– eCulture: Behörde für Kultur und Medien
 
 ### Frage 2
 
@@ -91,55 +92,55 @@ e. Welche 15 Verfahren oder Dienstleistungen wurden seitens der Bezirksverwaltun
 
 Die folgenden Dienstleistungen wurden seitens der Bezirksverwaltung vorgeschlagen:
 
- Online-Terminmanagement
+– Online-Terminmanagement
 
- Kundensteuerung (Aufrufanlagen)
+– Kundensteuerung (Aufrufanlagen)
 
- Einführung elektronischer Rechtsverkehr
+– Einführung elektronischer Rechtsverkehr
 
- Einführung eAkte (elektronische Sammelakte) in den Standesämtern
+– Einführung eAkte (elektronische Sammelakte) in den Standesämtern
 
- Geburtsanzeige
+– Geburtsanzeige
 
- Sterbeanzeige
+– Sterbeanzeige
 
- Urkundenbestellung
+– Urkundenbestellung
 
- Meldebescheinigung online
+– Meldebescheinigung online
 
- Meldebescheinigung (nur Antrag) online
+– Meldebescheinigung (nur Antrag) online
 
- Anmeldung – Zuzug von Außerhalb
+– Anmeldung – Zuzug von Außerhalb
 
- Ummeldung – Umzug innerhalb Hamburgs
+– Ummeldung – Umzug innerhalb Hamburgs
 
- Antrag Personalausweis (ohne Fingerabdrücke)
+– Antrag Personalausweis (ohne Fingerabdrücke)
 
- Antrag Kinderreisepass
+– Antrag Kinderreisepass
 
- Elterngeldantrag online
+– Elterngeldantrag online
 
- Kita-Gutschein (nur Rechtsanspruch) (Kooperation mit der Behörde für Arbeit,
+– Kita-Gutschein (nur Rechtsanspruch) (Kooperation mit der Behörde für Arbeit,
 
 Soziales, Familie und Integration)
 
- Einführung Digitales Baugenehmigungsverfahren
+– Einführung Digitales Baugenehmigungsverfahren
 
- Einführung eines Verfahrens für die Sondernutzung
+– Einführung eines Verfahrens für die Sondernutzung
 
- elektronischer Aufgrabeschein (Kooperationsprojekt mit dem Vorhaben „DigItAll“
+– elektronischer Aufgrabeschein (Kooperationsprojekt mit dem Vorhaben „DigItAll“
 
 des Landesbetriebs Straßen, Brücken und Gewässer)
 
- Einführung eines Verfahrens für Angelegenheiten im Naturschutz (zum Beispiel
+– Einführung eines Verfahrens für Angelegenheiten im Naturschutz (zum Beispiel
 
 Baumfällgenehmigungen)
 
- An- und Abmeldung von Hunden
+– An- und Abmeldung von Hunden
 
- Gewerbemeldung online
+– Gewerbemeldung online
 
- Gewerbeauskunft online
+– Gewerbeauskunft online
 
 ### Frage 3
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15866", "21/15593"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65522"
@@ -109,7 +110,7 @@ In meiner Schriftlichen Kleinen Anfrage an den Senat (Drs. 21/15866) wurde die F
 
 Bekamen die Auszubildenden, die BAföG bezogen haben, auch das Schulgeld gefördert? Falls ja, muss diese Förderung nach Abschluss der Ausbildung zurückgezahlt werden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Genaue Daten über den Umfang der einzelnen Förderungen können nicht erhoben werden. Die Förderbedingungen betreffen das Rechtsverhältnis zwischen Auszubildender beziehungsweise Auszubildendem und fördernder Institution (zum Beispiel Agentur für Arbeit).
 
@@ -121,7 +122,7 @@ Wie gedenkt der Senat mit über der Hälfte der Auszubildenden für den Beruf me
 
 Wenn es weiterhin keine Schulgeldfreiheit für die Ausbildung zur/zum medizinischen Bademeister/in/Masseur/in gibt, droht die Gefahr, dass die Auszubildenden und Fachkräfte in andere Bundeländer abwandern. Welche politischen Maßnahmen hat der Senat, um dem entgegenzuwirken?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Antwort zu 1.
 
@@ -170,16 +171,16 @@ Wilhelmsburger Krankenhaus Groß Sand
 
 Eingesetzt werden medizinische Bademeister und Masseure in folgenden Bereichen:
 
- klassische Massage (insbesondere im Bereich Palliativ, Geriatrie beziehungsweise
+– klassische Massage (insbesondere im Bereich Palliativ, Geriatrie beziehungsweise
 
 bei langer Liegedauer),
 
- manuelle Lymphdrainage (insbesondere in den Bereichen Onkologie, Gefäßmedi-
+– manuelle Lymphdrainage (insbesondere in den Bereichen Onkologie, Gefäßmedi-
 
 zin, Geriatrie, Unfallchirurgie),
 
- Elektrotherapie (Schmerzlinderung, Muskelstimulation),
+– Elektrotherapie (Schmerzlinderung, Muskelstimulation),
 
- Wärmeanwendungen (insbesondere Geriatrie).
+– Wärmeanwendungen (insbesondere Geriatrie).
 
 Diese Aufgaben könnten nach Darstellung der Krankenhäuser auch von Physiotherapeutinnen und Physiotherapeuten wahrgenommen werden, die vielseitiger einsetzbar wären. Die für entsprechende Tätigkeiten bevorzugte Berufsgruppe sei daher die der Physiotherapie.

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61635"
@@ -58,7 +59,7 @@ Wie viele Professorenstellen welcher Besoldungsgruppen und Fachrichtungen sollen
 Aus welchen inhaltlichen und/oder materiellen Gründen sollen die unter
 2. genannten Professorenstellen eingespart werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Zuständig ist die Fakultät für Erziehungswissenschaft. Es gibt keinen aktuellen Entwurf einer Ziel- und Leistungsvereinbarung zwischen Präsidium und der Fakultät für Erziehungswissenschaft.
 
@@ -79,7 +80,7 @@ Wie viele wissenschaftliche Mitarbeiter und/oder Lehrkräfte welcher Besoldungsg
 Aus welchen inhaltlichen und/oder materiellen Gründen sollen die unter
 5. genannten Stellen eingespart werden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antwort zu 2. und 3.
 

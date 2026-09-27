@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49759"
@@ -83,7 +84,7 @@ Bewegliche Brücken erfordern einen erhöhten Aufwand in der Unterhaltung. Wie v
 
 Welche Betriebskosten fallen für die beweglichen Brücken an? Bitte pro Brücke auflisten.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die nachstehenden fünf Brücken sind beweglich ausgelegt:
 
@@ -118,11 +119,11 @@ Sind zusätzliche Brückenneubauten vorgesehen?
 
 Ja, im Rahmen von Erschließungen sind derzeit folgende Brückenneubauten geplant:
 
- Fußgängerbrücke Tarpenbek Güterumgehungsbahn, Neubaugebiet
+– Fußgängerbrücke Tarpenbek Güterumgehungsbahn, Neubaugebiet
 
- Fußgängerbrücke Schleusengrabenbrücke, Bergedorf
+– Fußgängerbrücke Schleusengrabenbrücke, Bergedorf
 
- Fußgängerbrücke über die Wandse, Bereich Ring 2
+– Fußgängerbrücke über die Wandse, Bereich Ring 2
 
 ### Frage 10
 

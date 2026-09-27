@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70003"
@@ -71,6 +72,6 @@ Wie oft haben die Anwohner bislang staatliche Stellen zu den Vorgängen konsulti
 
 Wann ist dabei konkret Auskunft erteilt worden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Hierzu liegen dem zuständigen Bezirksamt keine Erkenntnisse vor.

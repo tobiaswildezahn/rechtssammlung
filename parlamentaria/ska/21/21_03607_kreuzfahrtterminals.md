@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 26
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10414", "20/5550"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51962"
@@ -79,7 +80,7 @@ Sind die Liege- beziehungsweise Abfertigungsgebühren für alle Terminals gleich
 
 Nach welchen Maßstäben berechnen sich die Liegegebühren für die Kreuzfahrtschiffe?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe: https://www.cruisegate-hamburg.de/sites/default/files/ preisliste_cgh_2016_agbs_deutsch_engl_2016_0.pdf
 

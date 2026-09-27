@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 24
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/624"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52803"
@@ -112,7 +113,7 @@ Wie hoch ist der Krankenstand in den Zulassungsstellen jeweils (Stand
 
 Seit wann werden der Personalbestand und der Krankenstand in den Zulassungsstellen statistisch erfasst? Wie haben sich Personalbestand und Krankenstand seitdem jeweils entwickelt? Bitte aufschlüsseln und für jedes Jahr (Stichtag 31. Dezember) angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Daten zum Stand 1. Mai 2016 liegen noch nicht vor. Eine differenzierte Auswertung der Fehlzeitenquote (FZQ) und des Personalbestandes in den jeweiligen Zulassungsstandorten des LBV erfolgt seit dem Jahr 2013 (siehe nachfolgende Tabelle). Bei der Fehlzeitenquote handelt es sich jeweils um kumulierte Jahreswerte. Beim Personalbestand handelt es sich um die Vollzeitäquivalente (VZÄ) des statistischen Personalbestandes.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62306"
@@ -116,7 +117,7 @@ In wie vielen Fällen handelte es sich jeweils um Wohnungen von Senioren?
 
 In wie vielen Fällen lag jeweils bekannter Missbrauch von Alkohol oder anderen Drogen vor?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Darüber liegen in den zuständigen Bezirksämtern keine statistischen Daten vor. Hierzu wäre eine gesonderte Einzelauswertung einer unbekannten Anzahl aller infrage kommenden Akten erforderlich, die in der für eine Parlamentarischen Anfrage zur Verfügung stehender Zeit nicht leistbar ist.
 
@@ -194,7 +195,7 @@ Welche Maßnahmen wurden ergriffen, nachdem der Zustand der Wohnungen bekannt ge
 
 Welche Maßnahmen wurden ergriffen, um eine erneute Verwahrlosung zu verhindern?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Nach Feststellung einer Verwahrlosung wird dem Verantwortlichen die Möglichkeit zur freiwilligen Abhilfe eingeräumt (§ 14 Absatz 1 HmbWoSchG). Je nach Sachverhalt wird im Einzelfall gegebenenfalls zum Vermieter oder Verwalter Kontakt aufgenommen.
 

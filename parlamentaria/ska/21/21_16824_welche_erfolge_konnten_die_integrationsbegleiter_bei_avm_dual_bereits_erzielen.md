@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66377"
@@ -51,15 +52,15 @@ Eine neue öffentliche Ausschreibung war notwendig, weil die seit dem Schuljahr 
 
 Die neue Ausschreibung deckt Leistungen der Träger in AvDual und AvM-Dual sowie die Leistung „Arbeitsassistenz“ ab und umfasst somit die folgenden Tätigkeitsfelder:
 
- Ausbildungsvorbereitung und Übergangsmanagement in Ausbildung oder Beschäf-
+– Ausbildungsvorbereitung und Übergangsmanagement in Ausbildung oder Beschäf-
 
 tigung (AvDual) – Tätigkeitsfeld 1,
 
- Ausbildungsvorbereitung und Übergangsmanagement in Ausbildung oder Beschäf-
+– Ausbildungsvorbereitung und Übergangsmanagement in Ausbildung oder Beschäf-
 
 tigung mit den Schwerpunkten „Betriebliche Integration und Sprachförderung“ (AvM-Dual) – Tätigkeitsfeld 2 und
 
- Ausbildungsvorbereitung und Übergangsmanagement in Ausbildung oder Beschäf-
+– Ausbildungsvorbereitung und Übergangsmanagement in Ausbildung oder Beschäf-
 
 tigung mit dem Schwerpunkt Arbeitsassistenz – Tätigkeitsfeld 3.
 

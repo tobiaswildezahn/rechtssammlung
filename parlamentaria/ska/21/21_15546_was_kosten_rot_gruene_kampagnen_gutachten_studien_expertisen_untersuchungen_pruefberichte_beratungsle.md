@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14204", "21/14025", "21/13834", "21/13813", "21/13657", "21/7555", "21/3041"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65026"
@@ -54,7 +55,7 @@ Welche Kampagnen, Gutachten, Studien, Expertisen, Untersuchungen, Prüfberichte,
 
 Was war beziehungsweise ist jeweils die zentrale Zielsetzung der Kampagnen, Gutachten, Studien, Expertisen, Untersuchungen, Prüfberichte, Beratungsleistungen oder Ähnliches von externen Dritten seit 2015? Bitte aufgegliedert jährlich nach jeweiliger Fachbehörde darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 
@@ -90,7 +91,7 @@ Wie viele Hamburgerinnen und Hamburger wurden mit welchen Kampagnen oder ähnlic
 
 Welche Kosten sind insgesamt sowie im Einzelnen für die Kampagnen, Gutachten, Studien, Expertisen, Untersuchungen, Prüfberichte, Beratungsleistungen oder Ähnliches von externen Dritten seit 2015 entstanden und aus welchen Mitteln wurden diese jeweils bezahlt? Bitte aufgegliedert jährlich nach jeweiliger Fachbehörde darstellen.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Anlage 1.
 

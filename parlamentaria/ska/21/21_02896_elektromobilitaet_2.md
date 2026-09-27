@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12811"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51228"
@@ -64,7 +65,7 @@ Wann will der Senat das Ziel von 592 Ladepunkten erreichen, dass er für „Mitt
 
 Was will der Senat unternehmen, damit die genannte Zahl möglichst früh erreicht wird?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die bereits vorbereiteten weiteren Umsetzungsstufen werden zeitnah und mit einer entsprechend hohen Anzahl installierter Ladepunkte an geeigneten Standorten umge-
 

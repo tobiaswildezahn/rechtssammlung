@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13491", "21/2837", "21/7420", "21/11650", "21/13796"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63347"
@@ -45,7 +46,7 @@ Wie viele Flüchtlingsunterkünfte gibt es in Hamburg? Bitte nach Erstaufnahme (
 
 Wie viele Bewohner haben diese Unterkünfte? Bitte nach Herkunftsland, Alter, Geschlecht, Art der Unterkunft (EA oder örU) für die Jahre 2015, 2016, 2017 und 2018 aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/2837, Drs. 21/7420, Drs. 21/11650, Drs. 21/13796 und https:// www.hamburg.de/fluechtlinge-unterbringung-standorte/.
 

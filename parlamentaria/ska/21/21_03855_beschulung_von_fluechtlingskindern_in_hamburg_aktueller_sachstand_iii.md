@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3051", "21/3646", "21/2644", "21/2991"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52204"
@@ -185,7 +186,7 @@ Welche allgemeinbildenden Schulen in welchen Stadtteilen haben aktuell jeweils w
 
 An welchen weiteren allgemeinbildenden Schulen in welchen Stadtteilen sollen jeweils zu wann wie viele ABC- und IV-Klassen eingerichtet werden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Zum aktuellen Stand siehe Anlage 2. Die weiteren Planungen und die dazugehörigen Gespräche laufen derzeit und sind noch nicht abgeschlossen.
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 18
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5043", "21/8117", "21/8162", "21/9440", "21/10592", "21/5039", "21/5331", "21/5711", "21/10107", "21/10481"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59622"
@@ -87,7 +88,7 @@ Wie wird sichergestellt, dass Lehrkräfte an Hamburger Schulen eine etwaige Hinw
 
 Werden womöglich Weiterbildungen zum Thema Salafismus angeboten? Falls ja, an welchen Schulen und ist die Teilnahme verbindlich?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Zu den Unterstützungsangeboten für die Schulen siehe Drs. 21/10592.
 

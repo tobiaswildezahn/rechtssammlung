@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 23
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69465"
@@ -93,7 +94,7 @@ Wie viel Hamburger Bauschutt wurde in den Jahren 2011 bis 2019 auf Hamburger Dep
 
 Wie viel Bauschutt wurde in den Jahren 2011 bis 2019 insgesamt jeweils auf Hamburger Deponien eingelagert? Bitte nach Jahren getrennt angeben.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Hamburg verfügt über keine in Betrieb befindliche Deponie für Bau- und Abbruchabfälle.
 
@@ -179,7 +180,7 @@ Hat der Senat im Jahr 2019 Gespräche mit der Hamburger Bauwirtschaft dahin gehe
 
 Was wird die Stadt veranlassen, damit Recycling-Bauschutt wieder verstärkt bei öffentlichen Baumaßnahmen eingesetzt wird?
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Zu Beginn des Jahres 2019 hat die zuständige Behörde entsprechende Gespräche mit der Hamburger Bau- und Ausbauwirtschaft geführt.
 

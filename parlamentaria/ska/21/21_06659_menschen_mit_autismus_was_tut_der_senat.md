@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 19
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11869", "20/12223", "20/12650"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55195"
@@ -70,7 +71,7 @@ Wie viele Schüler mit einer Autismus-Spektrum-Störung besuchen eine allgemeinb
 
 Wie viele besuchen eine Förderschule?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Schülerinnen und Schüler (SuS) mit dem sonderpädagogischen Förderschwerpunkt Autismus an Hamburger allgemeinen Schulen sowie Sonderschulen im Schuljahr 2015/2016nach Schulform
 
@@ -122,7 +123,7 @@ Welche Leistungsvoraussetzungen gelten für den Besuch von Spezialklassen an Gym
 
 Welche alternativen Bildungsangebote, zum Beispiel Lerngruppen gibt es für Schüler mit einer Autismus-Spektrum-Störung? Durch welche Merkmale unterscheiden sich diese von normalen Unterrichtsangeboten?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Für die Schülerinnen und Schüler in besonderen Lerngruppen, die an Schulen der Sekundarstufe I eingerichtet werden können, gelten die Leistungsanforderungen, die sich aus den jeweiligen Förderplänen der einzelnen Schülerinnen und Schüler ergeben. Die Gruppen werden so zusammengesetzt, dass eine gemeinsame Unterrichtung mit dem mittelfristigen Ziel einer Rückkehr in allgemeine Klassen möglich ist; eine Homogenität der erreichbaren Abschlüsse ist hierfür keine zwingende Voraussetzung: Das Angebot ist so ausgestaltet, dass Schülerinnen und Schüler unabhängig von ihrer Abschlussperspektive (Erster allgemeinbildender Schulabschluss, Mittlerer Schulabschluss oder Hochschulreife) dort entsprechend der Ausbildungs- und Prüfungsordnungen gefördert werden können. Im Übrigen siehe Vorbemerkung.
 

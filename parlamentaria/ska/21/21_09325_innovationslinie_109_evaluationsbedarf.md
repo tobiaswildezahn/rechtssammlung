@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 25
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58085"
@@ -161,7 +162,7 @@ Welche Informationen und Effekte hat die Innovationslinie 109 bislang insgesamt 
 
 Welche Schlussfolgerungen konnten wann und können aktuell für andere Linien und Strecken daraus gezogen werden? (Bitte jeweils einzeln aufschlüsseln.)
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Parallel zur derzeit laufenden Erprobung im Praxisbetrieb finden intensive Gespräche mit den Herstellern der Busse statt. Diese wurden ergänzt um wissenschaftliche Studien zu dezentralen Ladekonzepten, Wasserstoffinfrastruktur auf Busbetriebshöfen der HOCHBAHN sowie den Auswirkungen auf das Stromnetz bei Umstellung vollständiger Betriebshöfe auf elektrisches Laden. Ausgehend von diesen Erkenntnissen richtet sich die HOCHBAHN in den nächsten Jahren primär auf den Einsatz von Batteriebussen mit Laden auf Busbetriebshöfen, überwiegend in der Nacht, aus.
 

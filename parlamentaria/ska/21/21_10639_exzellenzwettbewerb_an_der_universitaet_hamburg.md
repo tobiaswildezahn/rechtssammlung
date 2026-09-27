@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 12
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4847"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59536"
@@ -47,7 +48,7 @@ Mit welchen Clusterinitiativen hat die Universität Hamburg ursprünglich am Wet
 
 Welche waren dies?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Universität Hamburg hat mit den Clusterinitiativen „Climate, Climatic Change, and Society (CLICCS)”, „Advanced Imaging of Matter: Structure, Dynamics and Control on the Atomic Scale (AIM)“, „Quantum Universe”, „Understanding Written Artefacts:
 

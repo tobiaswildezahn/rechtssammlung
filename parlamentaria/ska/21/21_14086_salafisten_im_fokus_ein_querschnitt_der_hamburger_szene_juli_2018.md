@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13488", "21/10721", "21/13930"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63476"
@@ -43,7 +44,7 @@ Wie war die Struktur der salafistischen Szene im Juli 2018 in Hinblick auf die S
 
 Wie viele von diesen Leuten verfügen über die doppelte Staatsbürgerschaft? Bitte die jeweils aktuellen Kombinationen einzeln nennen und nicht auf andere Drucksachen verweisen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/13488. Eine weitere statistische Differenzierung liegt nicht vor.
 
@@ -121,7 +122,7 @@ Gegen wie viele Personen, die vom Verfassungsschutz der salafistischen Szene zug
 
 Wie viele Personen, die vom Verfassungsschutz der salafistischen Szene zugerechnet werden, sind im Juli 2018 im Rahmen strafrechtlicher Prozesse verurteilt worden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/10721.
 

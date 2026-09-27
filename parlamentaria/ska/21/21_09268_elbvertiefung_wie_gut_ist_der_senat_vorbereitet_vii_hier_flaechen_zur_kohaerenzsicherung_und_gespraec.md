@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 33
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8790", "21/6194", "21/2368", "20/14001", "20/10595"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58031"
@@ -52,7 +53,7 @@ Gebiet gesucht?
 Wenn ja, mit welchem Ergebnis?  
 Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Um den Anforderungen des Bundesverwaltungsgerichts zu entsprechen, muss Lebensraum für den Schierlingswasserfenchel (SWF) in geeignetem Umfang (rund 200 Pflanzen) geschaffen werden. Im Hinblick auf die Lebensbedingungen dieser Pflanze eignen sich dafür nur Flächen, die tidebeeinflusst sind, unter keinem oder möglichst geringem Salzwassereinfluss stehen und im Übrigen auch eine Begleitvegetation möglich machen, die für den SWF günstig ist. Die Schaffung geeigneten, zusammenhängenden Wuchsraums darf aber nicht kehrseitig einhergehen mit anderen Eingriffen in Natur und Umwelt, die ihrerseits unzulässig wären. Zudem sind Flächen zu bevorzugen, die nicht bereits als Schutzgebiete nach der Fauna-Flora- Habitat-Richtlinie (FFH-RL) ausgewiesen oder auszuweisen sind. Schließlich ist die Möglichkeit einer unkomplizierten und zügigen Projektrealisierung anzustreben. An diesen Voraussetzungen gemessen prüfen die Behörden von Bund und Hamburg das gesamte Verbreitungsgebiet des SWF (von der Störmündung bis Geesthacht) nach prinzipiell geeigneten Wuchsorten.
 

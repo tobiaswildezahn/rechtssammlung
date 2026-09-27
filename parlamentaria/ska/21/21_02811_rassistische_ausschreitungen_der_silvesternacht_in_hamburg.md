@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2727", "21/2728", "21/2739"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51116"
@@ -124,7 +125,7 @@ In welchem Umfang wurden Menschen mit Raketen beschossen? Wie viele Personen wur
 
 Wurden auch Gebäude beschossen? Wenn ja, welche (bitte getrennt aufführen nach öffentlichen Gebäuden (zum Beispiel Rathaus), Sakralbauten, Geschäftshäusern, Wohnbauten, anderen)? Welche Schäden wurden festgestellt? Wie viele Tatverdächtige konnten festgestellt werden?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Antworten zu 5. und zu 6. Im Übrigen liegen der Polizei hierzu keine weiteren Erkenntnisse vor.
 

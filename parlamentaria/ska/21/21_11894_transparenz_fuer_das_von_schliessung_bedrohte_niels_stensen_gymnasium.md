@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61142"
@@ -113,7 +114,7 @@ Wird in Klasse 10 des Gymnasiums regelhaft die Prüfung für den MSA abgenommen?
 
 Welchen Abschluss hat ein Schüler, der das Gymnasium nach der zehnten Klasse verlässt und keine MSA-Prüfung geschrieben hat?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Nein, die Pflicht zur Teilnahme an der Prüfung für den MSA besteht im Gymnasium nach § 18 Absatz 1 Satz 1 der Ausbildungs- und Prüfungsordnung für die Grundschule und die Jahrgangsstufen 5 bis 10 der Stadtteilschule und des Gymnasiums (APO- GrundStGy) nur für Schülerinnen und Schüler, denen im Halbjahreszeugnis der Jahrgangsstufe 10 bescheinigt wurde, dass sie bei gleichbleibender Leistungsentwicklung voraussichtlich diesen Schulabschluss erreichen würden, nicht aber die Versetzung in die Studienstufe.
 

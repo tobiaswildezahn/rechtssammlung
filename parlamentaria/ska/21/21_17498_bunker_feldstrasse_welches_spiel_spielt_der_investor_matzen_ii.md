@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17295", "21/17452", "21/9172"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67085"
@@ -105,6 +106,6 @@ Welche Fristen, Vereinbarungen und Auflagen aus dem Erbbaurechtsvertrag und dem 
 
 Welche Folgen hat beziehungsweise hatte jeweils die unter Nummer 7. genannte Nichteinhaltung?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Soweit ersichtlich, wurden bisher alle Vereinbarungen und Auflagen aus beiden Verträgen fristgerecht eingehalten.

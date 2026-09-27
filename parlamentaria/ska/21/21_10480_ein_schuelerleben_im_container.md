@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10125", "21/10110"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59355"
@@ -51,7 +52,7 @@ Bei über 30 Schulen mit einem Investitionsvolumen von mehr als 1 Million Euro k
 
 Bei welchen Schulen rechnet der Senat außerdem zukünftig mit Verzögerungen im Bauablauf und worin sind diese begründet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Soweit wesentliche Änderungen im zeitlichen Ablauf der geplanten Maßnahmen vorliegen, werden diese im jährlichen Berichtswesen über Schulbaumaßnahmen (siehe Drs. 21/10110) ausgewiesen. Zur Erläuterung siehe Anlagen 1 und 2.
 

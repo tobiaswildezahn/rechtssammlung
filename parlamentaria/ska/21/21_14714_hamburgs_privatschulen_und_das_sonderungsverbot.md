@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 21
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1814", "21/3209", "20/7094", "21/13316", "21/2036", "21/10941", "21/7629"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64186"
@@ -302,7 +303,7 @@ Wie sieht die Entwicklung von Neugründungen von Schulen in freier Trägerschaft
 
 Wie ist das Verhältnis von Anträgen auf Gründung einer Schule in freier Trägerschaft und deren behördlicher Genehmigung beziehungsweise Ablehnung? Wie viele Anträge in den letzten fünf Jahren wurden nicht bewilligt und aus welchen Gründen jeweils?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 In den letzten fünf Schuljahren wurden insgesamt 22 Anträge auf die Erteilung von Ersatzschulgenehmigungen gestellt. Davon bezogen sich acht Anträge auf die Gründung allgemeinbildender Schulen und 14 Anträge auf die Gründung berufsbildender Schulen.
 

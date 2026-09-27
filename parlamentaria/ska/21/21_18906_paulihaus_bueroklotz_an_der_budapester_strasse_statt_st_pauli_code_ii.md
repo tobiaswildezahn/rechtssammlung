@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 25
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18503", "21/3325"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68606"
@@ -74,7 +75,7 @@ Wie viele zusätzliche Arbeitsplätze sollen für die drei unter Nummer 1. genan
 
 Die größte Arbeitgeberin der nunmehr vier beteiligten Unternehmen ist die Firma PAHNKE MARKENMACHEREI. a. Wie viele zusätzliche Arbeitsplätze sollen für dieses Unternehmen entstehen (nominal und prozentual)?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Bei der Grundstücksdisposition, die für das Gesamtvorhaben ausgesprochen wurde, gingen die Unternehmen zusammen von 25 neuen Arbeitsplätzen aus. Diese waren bereits zum Zeitpunkt der Anhandgabe übertroffen und es wurde damals ein zusätzliches Wachstum um weitere 37 Arbeitsplätze angenommen. Insgesamt wird nun von einem Arbeitsplatzwachstum von 64 Arbeitsplätzen (19 Prozent) ausgegangen. Im Übrigen sieht der Senat zur Wahrung der Betriebs- und Geschäftsgeheimnisse von Vertragspartnern davon ab, zu Einzelheiten Stellung zu nehmen.
 
@@ -154,9 +155,9 @@ Wenn nein, weshalb nicht?
 
 Ein Vorhaben muss sich in die Eigenart der Umgebung einfügen. Die Eigenart ist zu bestimmen in Bezug auf:
 
- die maßgebende Bebauung und deren gebündelte Merkmale und
+– die maßgebende Bebauung und deren gebündelte Merkmale und
 
- den Rahmen, den die maßgebende Bebauung vorgibt.
+– den Rahmen, den die maßgebende Bebauung vorgibt.
 
 Die maßgebende Bebauung ist in der näheren Umgebung zu bestimmen. Die maßgebende Umgebung umfasst die tatsächlich vorhandene Bebauung einschließlich des Antragsgrundstücks. Auch städtebaulich unerwünschte sowie ungenehmigte Gebäude können nicht unberücksichtigt bleiben, soweit ihre Beseitigung nicht absehbar ist. Geplante Vorhaben sind nur zu berücksichtigen, wenn mit dem Bau bereits begonnen wurde. Bei der Betrachtung werden nur die baulichen Anlagen berücksichtigt, die die nähere Umgebung tatsächlich beeinflussen. Die Firsthöhe des Gebäudes Neuer Pferdemarkt 33 wird nicht überschritten, sodass eine Einfügung gegeben ist.
 

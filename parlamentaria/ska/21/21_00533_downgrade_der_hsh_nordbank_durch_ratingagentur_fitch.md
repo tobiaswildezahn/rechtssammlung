@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 17
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/2428"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48682"
@@ -77,7 +78,7 @@ Ist die Herabstufung mit einer kritischen Beurteilung der Geschäftspolitik resp
 
 Welche Maßnahmen ergreifen Senat und HSH Nordbank, um das Rating und somit die Kreditwürdigkeit der Bank wieder zu verbessern? In welchem Zeitraum wird eine Verbesserung des Ratings angestrebt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Nach Angaben der HSH beziehen sich die Bewertungen der Ratingagenturen nicht isoliert auf das Geschäftsmodell der Kernbank, sondern auf die Gesamtbank, die durch große Altlasten (vor allem im Bereich Shipping) und hohe Garantiegebühren belastet ist. Die aktuellen Ratingentscheidungen berücksichtigten insbesondere die Unterstützung der Banken durch die jeweiligen Staaten vor dem Hintergrund der Einführung einer neuen EU-Richtlinie zur Sanierung und Abwicklung von Kreditinstituten und eines einheitlichen europäischen Bankenabwicklungsmechanismus. In diesem Zusammenhang habe Fitch auch andere Landes- und Geschäftsbanken herabgestuft. Eine Besonderheit der HSH stelle aus Sicht der Ratingagenturen das offene EU-Beihilfeverfahren dar.
 

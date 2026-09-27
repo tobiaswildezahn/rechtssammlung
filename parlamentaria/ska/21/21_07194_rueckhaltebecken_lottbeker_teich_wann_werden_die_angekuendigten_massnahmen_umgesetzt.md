@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13393"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55789"
@@ -64,7 +65,7 @@ Wann sollen welche Planungen umgesetzt werden und in welchem Ausmaß soll dabei 
 
 Wie sind der konkrete Sachstand und der Zeitplan bezüglich einer Entschlammung des Lottbeker Teichs?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Dieses wird Gegenstand des Planungsauftrages sein und kann erst mit Vorlage des daraus resultierenden Entwurfes beantwortet werden.
 

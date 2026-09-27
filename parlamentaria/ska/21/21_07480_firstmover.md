@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5537", "21/4969"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56082"
@@ -93,7 +94,7 @@ Wie viele Pkw-Besitzer haben sich jetzt im Rahmen der „firstmover“- Kampagne
 
 In Aussicht genommen wurden seinerzeit im August 2016 jeweils 300 Teilnehmer in beiden Gebieten. Steht die tatsächliche Teilnehmerzahl nunmehr fest und wie hoch ist diese jeweils?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Mit Stand 10. Januar 2017 haben sich bisher 400 Bewohnerinnen und Bewohner zu den Befragungen bereiterklärt, die bereits befragt wurden. Das vom Projekt beauftragte Marktforschungsinstitut wird in beiden Stadtteilen bis mindestens Ende Januar weiterhin Interviews durchführen. Die Zahl der Interviews wird sich absehbar weiter erhöhen.
 

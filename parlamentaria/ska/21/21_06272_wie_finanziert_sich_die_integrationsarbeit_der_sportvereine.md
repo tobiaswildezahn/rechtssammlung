@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5073", "21/5518"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54788"
@@ -54,15 +55,15 @@ Der Hamburger Sportbund (HSB) erhält aus dem laufenden Sportfördervertrag in d
 
 Darüber hinaus standen den Vereinen folgende Förderpositionen über den HSB zur Verfügung:
 
- Einmalig 110.000 Euro für die Jahre 2015 und 2016 über das Projekt „Willkommen
+– Einmalig 110.000 Euro für die Jahre 2015 und 2016 über das Projekt „Willkommen
 
 im Sport“ und „Beweg deinen Stadtteil“. Diese Förderposition wurde aus Bundesmitteln zur Verfügung gestellt.
 
- Einmalig 30.000 Euro über das Projekt „Willkommen im Sport“ für die Jahre 2015
+– Einmalig 30.000 Euro über das Projekt „Willkommen im Sport“ für die Jahre 2015
 
 und 2016. Die Mittel stammen aus der Produktgruppe Zentrale Ansätze I (Produktgruppe 283.01) des Einzelplans 9.2 des Hamburger Haushalts.
 
- Einmalig 10.000 Euro für das Projekt „Beweg deinen Stadtteil“ aus Mitteln der Ale-
+– Einmalig 10.000 Euro für das Projekt „Beweg deinen Stadtteil“ aus Mitteln der Ale-
 
 xander Otto Sportstiftung.
 

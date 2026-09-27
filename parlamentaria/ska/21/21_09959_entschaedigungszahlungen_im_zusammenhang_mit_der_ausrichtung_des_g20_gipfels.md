@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9611"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58779"
@@ -119,7 +120,7 @@ Wie hat der Senat die Bürger/-innen und die Gewerbetreibenden über die Möglic
 
 Wo können Interessierte Informationen zu den Antragskriterien und den Schadensregulierungen finden?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Der Senat hat die Schaffung des Fonds bei verschiedenen Anlässen öffentlich kommuniziert. So unter anderem der Erste Bürgermeister in seiner Regierungserklärung in der Hamburgischen Bürgerschaft am 12. Juli. Darüber hinaus informiert die Polizei in Hamburg, die IFB Hamburg unter https://www.ifbhh.de/aktuelles/news-details/ ?tx_news_pi1%5Bnews%5D=358&cHash=0a7236e9596e98a9bfc6d1a9b131301c
 

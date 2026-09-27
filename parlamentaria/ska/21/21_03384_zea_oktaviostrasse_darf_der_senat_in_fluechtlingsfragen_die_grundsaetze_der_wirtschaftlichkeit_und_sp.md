@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 38
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/1897", "19/2020"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51721"
@@ -89,7 +90,7 @@ Gibt oder gab es behördenintern Überlegungen oder aber auch konkrete Verhandlu
 
 Wer hat hierzu in welchem Rahmen Gespräche und Verhandlungen geführt und wie ist der Sachstand?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 

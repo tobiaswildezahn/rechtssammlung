@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67506"
@@ -47,7 +48,7 @@ Wie viele Immatrikulationen von Erstsemestern hat es in der Zeit vom Sommersemes
 
 Wie viele Studenten waren in der Zeit vom Sommersemester 2015 bis zum Sommersemester 2019 an den staatlichen wie privaten Hamburger Hochschulen und Universitäten jeweils eingeschrieben? Bitte differenziert nach Semestern und Hochschule/Universität getrennt auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

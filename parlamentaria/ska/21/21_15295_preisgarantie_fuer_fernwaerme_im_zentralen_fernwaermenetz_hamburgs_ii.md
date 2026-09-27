@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 19
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14778", "16/2308", "21/50"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64894"
@@ -96,7 +97,7 @@ Zur Entwicklung eines geeigneten Monitoringinstruments zur Überprüfung der Pre
 
 Soll das Monitoringinstrument noch vor der nächsten Bürgerschaftswahl fertig vorliegen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Ein Zeitpunkt für das Monitoring steht noch nicht fest. Die Preisgarantie wurde im engen Zusammenhang mit dem neuen Erzeugungskonzept gegeben. Das Monitoring wird spätestens mit Inbetriebnahme der Ersatzlösung Wedel entwickelt sein.
 
@@ -116,7 +117,7 @@ Welche Beispiele für andernorts eingesetzte Monitoringinstrumente ähnlicher Ar
 
 Wird das geplante Monitoringinstrument der Bürgerschaft zur Diskussion und Entscheidung vorgelegt werden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Hiermit hat sich der Senat nicht befasst.
 
@@ -154,6 +155,6 @@ Erhalten alle Kunden Änderungskündigungen, sobald das HKW Wedel seine Lieferun
 
 Sind von den Änderungskündigungen nach dem Lieferende des HKW Wedel alle Kunden des zentralen Fernwärmesystems betroffen oder nur die im westlichen Teil dieses Fernwärmenetzes?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Ja. Für die Preisermittlung wird das gesamte Fernwärmesystem betrachtet.

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6275", "21/10474"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59583"
@@ -49,7 +50,7 @@ Warum werden die in Anlage 1 der Drs. 21/10474 genannten Maßnahmen erst bis zu 
 
 Warum werden die in Anlage 2 der Drs. 21/10474 genannten Lichtsignalanlagen erst bis zu fünf Jahre nach dem vorgesehenen Abschluss des Ausbauziels A abgeschlossen? Bitte für jede LSA getrennt angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine Maßnahme, (Amsinckstraße – von den Elbbrücken bis zur Spaldingstraße) wird nach Abschluss des Ausbauziels A umgesetzt werden, da dort die dringend notwendige Grundinstandsetzung der Amsinckstraßenbrücke eine frühere Realisierung nicht zulässt.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52137"
@@ -91,6 +92,6 @@ Welche rechtlichen oder sonstigen Möglichkeiten bestehen nach Auffassung des Se
 
 Wie ist der Umgang mit erhaltenswerter Bausubstanz (abseits vom Denkmalschutz) in der übrigen Innenstadt rechtlich geregelt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Zur Verfügung stehen dazu insbesondere planungsrechtliche Instrumente, zum Beispiel die Aufstellung eines neuen Bebauungsplans, der die vorhandene Bebauung festschreibt, oder der Erlass einer Erhaltungsverordnung nach § 172 Baugesetzbuch (siehe dazu http://www.hamburg.de/altona/stadtebauliche-erhaltungsverordnung/).

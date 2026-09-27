@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7479", "21/6219", "21/6582"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57289"
@@ -61,7 +62,7 @@ Wie erfolgt derzeit in den einzelnen Fachbehörden und Landesbetrieben die Erfas
 
 Welche Daten über die Anzahl geleisteter Überstunden und nicht genommener Urlaubstage liegen für die einzelnen Fachbehörden und Landesbetriebe jeweils im Einzelnen zum Stichtag 31.12.2016 vor? Wie hat sich die Anzahl geleisteter Überstunden und nicht genommener Urlaubstage in den einzelnen Fachbehörden und Landesbetrieben gegenüber dem 31.12.2015 entwickelt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Überstunden (bei Tarifbeschäftigten) und Mehrarbeit (bei Beamtinnen und Beamten) sind auf Anordnung über die regelmäßige Arbeitszeit hinaus geleistete Arbeitsstunden. Die Anordnung unterliegt der Mitbestimmung durch die Personalräte. Der Ausgleich beziehungsweise die Bezahlung von Überstunden und Mehrarbeit richtet sich nach den tariflichen beziehungsweise gesetzlichen Bestimmungen.
 
@@ -131,7 +132,7 @@ Inwiefern ist die Anordnung von Mehrarbeit haushaltsrechtlich problematisch, wen
 
 In welcher Höhe und an jeweils welcher Stelle gibt es für den derzeitigen Bestand an Überstunden und nicht genommenen Urlaubstagen Kostenermächtigungen in den einzelnen Einzelplänen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Kosten, die aus angeordneter Mehrarbeit, Überstunden oder nicht genommenen Urlaubstagen entstehen, werden haushaltsrechtlich nicht gesondert ermächtigt. Sie sind Bestandteil der Ermächtigungen Personalkosten zu verursachen (Kontenbereich Personalkosten).
 

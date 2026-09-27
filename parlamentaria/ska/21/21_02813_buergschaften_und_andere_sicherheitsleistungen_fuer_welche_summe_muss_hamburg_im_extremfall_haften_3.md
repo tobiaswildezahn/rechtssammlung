@@ -5,7 +5,7 @@ wahlperiode: 21
 id: 51122
 titel: "Bürgschaften und andere Sicherheitsleistungen – Für welche Summe muss Hamburg im Extremfall haften? (3)"
 datum_anfrage: "2016-01-11"
-datum_drucksache: null
+datum_drucksache: "2016-01-19"
 urheber: ["Thilo Kleibauer"]
 fraktionen: ["CDU"]
 vorgang: 46706
@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/978", "21/2698"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51122"
@@ -24,7 +25,7 @@ generator: "ska_archiv 1.0"
 
 # Drs. 21/2813: Bürgschaften und andere Sicherheitsleistungen – Für welche Summe muss Hamburg im Extremfall haften? (3)
 
-> Schriftliche Kleine Anfrage und Antwort des Senats  
+> Schriftliche Kleine Anfrage des Abgeordneten Thilo Kleibauer (CDU) vom 11.01.16 und Antwort des Senats · Drucksache vom 19.01.2016  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/51122) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/51122/21_02813_buergschaften_und_andere_sicherheitsleistungen_fuer_welche_summe_muss_hamburg_im_extremfall_haften_3)
 
 ## Einleitung für die Fragen

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2372", "21/14674", "21/954", "21/14037", "21/5138"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64111"
@@ -106,9 +107,9 @@ Im Rahmen Beratungsnetzwerks „Prävention und Deradikalisierung“ wurde das T
 
 Darüber hinaus fanden für die Mitglieder des Beratungsnetzwerks „Prävention und Deradikalisierung“ sowie Fachkräfte folgende Fortbildungsveranstaltungen statt:
 
- 15.11.2017 Workshop zum Thema „Hate Speech“.
+– 15.11.2017 Workshop zum Thema „Hate Speech“.
 
- 04.05.2018 Fachtagung „Inshallah Online – Wie religiöse Extremisten das Internet
+– 04.05.2018 Fachtagung „Inshallah Online – Wie religiöse Extremisten das Internet
 
 nutzen und was wir dagegen tun können“ von der Bundesarbeitsgemeinschaft religiös begründeter Extremismus (BAG RelEx).
 

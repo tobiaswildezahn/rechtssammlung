@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12825", "21/16542"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67252"
@@ -61,7 +62,7 @@ f) das Gebot zur politischen Neutralität „im Innenverhältnis“ zum Diensthe
 
 Inwieweit gelten für Schulen in freier Trägerschaft darüber hinaus andere Rechtsvorschriften rund um das Neutralitätsgebot und inwieweit legitimieren welche Rechtsvorschriften eigene politische oder weltanschauliche Schwerpunkte, die mit dem Neutralitätsgebot an staatlichen Schulen konfligieren würden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -75,7 +76,7 @@ Unter welchen Umständen könnte eine Teilnahme an einer politischen Demonstrati
 a) staatliche Schulen und
 b) Schulen in privater Trägerschaft.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Zu den staatlichen Schulen siehe Drs. 21/16542 und siehe Vorbemerkung.
 

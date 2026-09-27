@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14485", "21/16286", "21/17078"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67292"
@@ -73,7 +74,7 @@ Nach welchen Kriterien wird Ort und Größe für den Neubau eines B+R- Fahrradpa
 
 Ist die Bauweise des geplanten B+R-Fahrradparkhauses an der Kellinghusenstraße so vorgesehen, dass es bei nicht ausreichender Nutzung abgebaut und an anderer Stelle aufgebaut werden kann? Wenn nein, warum wurde keine modulare Bauweise vorgesehen, bei welcher der Kapazitätsbedarf angepasst werden kann?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nein. Aufgrund der städtebaulichen und konstruktiven Rahmenbedingungen kommt nur ein dem Standort angepasstes Einzelbauwerk in Massivbauweise in Betracht, das hinsichtlich der zur Verfügung stehenden Grundstücksfläche optimiert ist. Im Übrigen siehe Vorbemerkung.
 

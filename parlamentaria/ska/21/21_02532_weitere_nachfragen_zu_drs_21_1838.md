@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 19
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838", "21/2489", "21/1395", "21/1851", "20/13014"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50828"
@@ -303,6 +304,6 @@ Warum agiert der Senat bei der Wohnunterbringung von Flüchtlingen nicht gemeins
 
 Ist der Senat auch der Meinung, dass ein Zusammenschluss der Metropolregion Hamburg bei der Wohnunterbringung der Flüchtlinge notwendig wäre, damit eine Flächenschonung im Sinne der Umwelt und der Finanzen erreicht werden kann? Wenn ja, wie wird dies vom Senat umgesetzt? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Nach § 45 Absatz 1 Satz 1 Asylgesetz können die Länder durch Vereinbarung einen Schlüssel für die Aufnahme von Asylbegehrenden durch die einzelnen Länder (Aufnahmequote) festlegen. Dies haben die Länder mit der Vereinbarung des sogenannten Königsteiner Schlüssels getan. Entsprechend dieses Schlüssels sind die Länder für die Betreuung der jeweils zugewiesenen Flüchtlinge zuständig. Darüber hinausgehend praktiziert Hamburg eine länderübergreifende Kooperation bei der Erstaufnahme von Flüchtlingen mit Mecklenburg-Vorpommern und ist im Übrigen mit den norddeutschen Bundesländern zu Fragen der Bewältigung der Flüchtlingszuwanderung im Gespräch. Unter anderem angesichts der auch in den Nachbarländern sehr hohen Zugangszahlen sind die Überlegungen noch nicht abgeschlossen, siehe Drs. 21/1851 und 20/13014.

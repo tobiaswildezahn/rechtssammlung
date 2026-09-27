@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 25
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57495"
@@ -127,7 +128,7 @@ Inwiefern kam/kommt es aufgrund der längeren Reinigungsintervalle zu hygienisch
 
 In welchem Intervall werden die Mülleimer, insbesondere die Griffe, desinfiziert? Welcher Mehraufwand geht damit einher und wie häufig werden „normale“ Mülleimer gereinigt und desinfiziert?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Es gibt keine längeren Reinigungsintervalle.
 

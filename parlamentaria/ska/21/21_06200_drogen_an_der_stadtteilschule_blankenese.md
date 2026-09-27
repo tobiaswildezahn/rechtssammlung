@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11636"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54718"
@@ -83,7 +84,7 @@ An welchen anderen Schulen ist es 2015 und 2016 zum Handel beziehungsweise zum V
 
 In wie vielen Fällen wurden Ermittlungsverfahren insgesamt und gegen Schüler der betreffenden Schule eingeleitet?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Polizei trifft bei allen ihr zur Kenntnis gelangten Sachverhalten im Sinne der Fragestellung die zur Verfolgung von Straftaten und zur Gefahrenabwehr erforderlichen Maßnahmen. Im Übrigen siehe Antwort zu 2. und Vorbemerkung.
 

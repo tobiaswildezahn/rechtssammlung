@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1269"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54209"
@@ -43,7 +44,7 @@ Wie hat sich die Zahl der Bürgernahen Beamten (BünaBes) seit 2015 für den Ber
 
 Welcher BünaBe ist dabei für wie viele und welche Stadtteile genau zuständig?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 2016:
 
@@ -92,6 +93,6 @@ Wie häufig sind die BünaBes in ihrem Stadtteil jeweils vor Ort?
 
 Ist die Anzahl der BünaBes für den Senat angesichts der generell gestiegenen polizeilichen Aufgaben im Alstertal und den Walddörfern noch ausreichend? Wenn ja, warum? Wenn nein, warum nicht und was tut er dagegen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/1269.

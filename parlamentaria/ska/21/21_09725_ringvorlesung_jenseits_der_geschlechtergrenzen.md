@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58533"
@@ -90,7 +91,7 @@ Wie viele Studenten/-innen beziehungsweise Lerninteressierte/-innen sind gegenw�
 
 Wie viele waren es im Wintersemester 2016/2017 und Sommersemester 2016?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Teilnehmerzahlen an den Vorträgen der Ringvorlesung werden statistisch nicht erfasst. Im Übrigen siehe Vorbemerkung.
 

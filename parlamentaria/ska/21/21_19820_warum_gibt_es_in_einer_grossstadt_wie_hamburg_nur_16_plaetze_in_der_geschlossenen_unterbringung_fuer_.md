@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16437", "21/17756"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69573"
@@ -52,11 +53,11 @@ beziehungsweise einen Betreuer. Voraussetzung für die Unterbringung psychisch e
 
 Die Unterbringung nach Betreuungsrecht ist eine mit Freiheitsentziehung verbundene zivilrechtliche Unterbringung in einem Krankenhaus, einem (Pflege-)Heim oder auch in einer Wohnung, die
 
- bei Volljährigen durch den Betreuer nach § 1906 BGB beim Amtsgericht (Betreu-
+– bei Volljährigen durch den Betreuer nach § 1906 BGB beim Amtsgericht (Betreu-
 
 ungsgericht),
 
- bei Minderjährigen durch den gesetzlichen Vertreter nach § 1631b BGB beim
+– bei Minderjährigen durch den gesetzlichen Vertreter nach § 1631b BGB beim
 
 Amtsgericht (Familiengericht)
 
@@ -66,11 +67,11 @@ Eine Unterbringung der/des Betreuten durch die Betreuerin beziehungsweise den Be
 
 Es müssen folgende Voraussetzungen für die Unterbringung nach Betreuungsrecht gegeben sein:
 
- Bei dem Betroffenen liegt eine psychiatrische Erkrankung oder seelische Behinde-
+– Bei dem Betroffenen liegt eine psychiatrische Erkrankung oder seelische Behinde-
 
 rung vor, die zu einer Eigengefährdung, aber nicht zu einer Fremdgefährdung führt.
 
- Ein ärztliches Attest über die Erfüllung oben genannter Punkte und eine vom Amts-
+– Ein ärztliches Attest über die Erfüllung oben genannter Punkte und eine vom Amts-
 
 gericht genehmigte Einwilligung des gesetzlichen Betreuers beziehungsweise Vertreters liegt vor.
 
@@ -84,11 +85,11 @@ Die Anordnung von Unterbringungen nach HmbPsychKG ist eine Schutzmaßnahme, wenn
 
 Es müssen folgende Voraussetzungen für die Anordnung von Unterbringung nach HmbPsychKG gegeben sein:
 
- Bei der betroffenen Person liegt eine psychiatrische Erkrankung vor, von der eine
+– Bei der betroffenen Person liegt eine psychiatrische Erkrankung vor, von der eine
 
 akute Eigengefährdung und/oder Fremdgefährdung ausgeht.
 
- Ein ärztliches Attest über die Erfüllung oben genannter Punkte liegt vor.
+– Ein ärztliches Attest über die Erfüllung oben genannter Punkte liegt vor.
 
 Ziel der Unterbringung nach HmbPsychKG, die in der Regel auf wenige Tage oder Wochen befristet wird, ist die Aufrechterhaltung der öffentlichen Ordnung. Unterbringungen nach HmbPsychKG werden ausschließlich in den nach § 13a HmbPsychKG beliehenen Krankenhäusern sowie dem Universitätsklinikum Hamburg-Eppendorf durchgeführt.
 
@@ -98,11 +99,11 @@ Freiheitsentziehende Maßregeln der Unterbringung, welche das zuständige Gerich
 
 Der Maßregelvollzug hat zwei Hauptaufgaben:
 
- die untergebrachten Patienten und Patientinnen sollen durch Behandlung und
+– die untergebrachten Patienten und Patientinnen sollen durch Behandlung und
 
 Betreuung befähigt werden, ein in die Gemeinschaft eingegliedertes Leben zu führen und
 
- die Bevölkerung soll vor psychisch kranken und suchtkranken Straftätern geschützt
+– die Bevölkerung soll vor psychisch kranken und suchtkranken Straftätern geschützt
 
 werden.
 
@@ -126,7 +127,7 @@ Wie viele Plätze in der geschlossenen Unterbringung für psychisch kranke Patie
 
 Warum sind es so wenige Plätze?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ziele der Eingliederungshilfe nach dem Bundesteilhabegesetz sind die Eröffnung und Sicherung der Teilhabechancen der Leistungsberechtigten und der Ausgleich von Nachteilen, die sich durch die (seelische) Behinderung ergeben. So soll das Leistungsangebot in der Sozialpsychiatrie dazu beitragen, eine drohende seelische Behinderung zu verhüten oder eine vorhandene seelische Behinderung beziehungsweise deren Folgen zu beseitigen oder zu mildern und den seelisch behinderten Menschen in die Gesellschaft einzugliedern. Hierzu gehört vor allem, dem seelisch behinderten Menschen die Teilnahme am Leben in der Gemeinschaft zu ermöglichen oder zu erleichtern und den betroffenen Personen eine eigenständige Lebensführung und Alltagsbewältigung in den unterschiedlichen Lebensbereichen (wieder) zu ermöglichen.
 

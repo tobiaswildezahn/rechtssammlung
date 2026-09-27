@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 22
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9086"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58801"
@@ -89,7 +90,7 @@ Welche weiteren Schritte werden dann in welchem Zeitraum im Verfahren zur Konzes
 
 Inwieweit ist der Abschluss eines Dienstleistungskonzessionsvertrages mit einem geeigneten Marktteilnehmer zum Ende des Jahres 2017 geplant? Gibt es bereits Abweichungen von diesen Planungen? Wenn ja, welche und warum?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Eine erste Verhandlungsrunde soll demnächst stattfinden, wo unter anderem über weitere Verhandlungsrunden entschieden wird. Der Abschluss eines Dienstleistungskonzessionsvertrages ist bis zum Ende des Jahres 2017 geplant.
 

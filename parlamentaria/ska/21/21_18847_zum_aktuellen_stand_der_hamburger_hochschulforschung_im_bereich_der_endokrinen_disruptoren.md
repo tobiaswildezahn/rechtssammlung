@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68530"
@@ -94,7 +95,7 @@ Welche Fördertöpfe gibt es aktuell auf Ebene der Europäischen Union, des Bund
 
 Mit welchen Mitteln sind die jeweiligen unter Ziffer 5. fallenden Fördertöpfe jeweils ausgestattet und was ist die jeweils maximale Grenze pro Fördermittelantrag zur Erforschung endokriner Disruptoren, ihrer Wirkweisen und möglichen Folgen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Derzeit bestehen insbesondere folgende Fördermöglichkeiten, die grundsätzlich auch der Erforschung des Themengebiets endokriner Disruptoren offen stehen:
 

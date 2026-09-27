@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 0
 beantwortet: false
+status: "unbeantwortet"
 zitierte_drucksachen: ["23/1882"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105281"
@@ -27,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Dr. Anke Frieling (CDU) vom 16.09.26 und Antwort des Senats · Drucksache vom 16.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105281) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105281/23_05378_jahrelang_verzoegert_was_hat_das_oekotarium_gekostet)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

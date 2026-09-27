@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2723", "21/1395", "21/999", "21/2867", "21/3417", "21/2139"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52211"
@@ -43,7 +44,7 @@ Wofür wurden die für das Jahr 2015 vorgesehenen 210,4 Millionen beziehungsweis
 
 Hat der im September nachbewilligte Betrag für 2015 ausgereicht? Wenn ja, blieben sogar Gelder übrig (bitte die Höhe nennen)? Wenn nein, um welchen Betrag wurde der bewilligte Mehrbedarf überschritten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/2867 und 21/3417.
 

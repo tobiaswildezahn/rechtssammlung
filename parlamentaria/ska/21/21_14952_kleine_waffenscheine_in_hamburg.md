@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64419"
@@ -67,7 +68,7 @@ Wie oft hat die Polizei in den Jahren 2015, 2016, 2017 und 2018 Verstöße gegen
 
 Wie viele Schreckschusswaffen hat die Polizei im besagten Zeitraum sichergestellt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Polizei erfasst Straftaten gemäß dem Straftatenkatalog der Richtlinien für die Erfassung und Verarbeitung der Daten in der Polizeilichen Kriminalstatistik (PKS).
 

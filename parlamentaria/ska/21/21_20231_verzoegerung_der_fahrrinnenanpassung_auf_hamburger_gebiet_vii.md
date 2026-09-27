@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19564", "21/19788"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70018"
@@ -47,7 +48,7 @@ Wie viel Baggergut fällt nach dem derzeitigen Kenntnisstand der HPA, der zustä
 
 Wo soll dies Baggergut entsorgt werden? (Bitte bei mehreren Ablagerungsflächen die jeweiligen Mengen angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Rahmen der Ausbaubaggerung zur Herstellung der neuen Solltiefe fallen rund 2 Millionen Kubikmeter Baggergut an. Dieses wird in der Unterwasserablagerungsfläche Neufelder Sand eingebaut. Zur Baggerung und Unterbringung des im Zuge der Wassertiefeninstandhaltung gewonnenen Baggergutes siehe Drs. 21/19788.
 

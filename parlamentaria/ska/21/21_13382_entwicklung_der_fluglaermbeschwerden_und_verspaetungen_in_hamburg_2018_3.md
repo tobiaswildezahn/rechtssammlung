@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13008"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62743"
@@ -83,7 +84,7 @@ Wie viele An- und Abflüge gab es im Monat Mai 2018 und für das Gesamtjahr 2018
 
 Wie viele An- und Abflüge gab es im Monat Mai 2018 und für das Gesamtjahr 2018 nach zwischen 6 und 7 Uhr über den Hamburger Nordosten und aus welchen Gründen jeweils?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Da der Zeitraum bis 23 Uhr zu den regulären Betriebszeiten zählt, erfolgt die Darstellung der An- und Abflüge nach 22 Uhr unterteilt in die Zeiträume 22 bis 23 sowie 23 bis 24 Uhr.
 

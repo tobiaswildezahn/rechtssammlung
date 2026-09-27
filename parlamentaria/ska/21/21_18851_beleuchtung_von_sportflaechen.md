@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68533"
@@ -62,7 +63,7 @@ Wie hoch ist der Anteil der Sportfl√§chen nach Frage 1. mit Beleuchtung im Verh√
 
 In wessen Eigentum steht die Beleuchtungsanlage nach Frage 1. jeweils?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung, entsprechende Daten werden nicht erfasst.
 

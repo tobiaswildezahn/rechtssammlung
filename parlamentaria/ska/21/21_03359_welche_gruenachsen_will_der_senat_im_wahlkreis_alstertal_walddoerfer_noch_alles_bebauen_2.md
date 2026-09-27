@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2786"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51698"
@@ -43,6 +44,6 @@ Wie ist jeweils der konkrete Sachstand der Prüfungen der in Drs. 21/2786 genann
 
 Was sind jeweils die Ergebnisse der einzelnen Flächenprüfungen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Beide Flächen wurden im Januar 2015 hinsichtlich ihrer Eignung durch das zuständige Bezirksamt geprüft. Eine Baulandentwicklung wurde vom zuständigen Bezirksamt nicht empfohlen. Die Behörde für Stadtentwicklung und Wohnen hat sich dieser Einschätzung angeschlossen.

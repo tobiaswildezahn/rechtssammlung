@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 16
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8276", "21/4918", "21/5088"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54646"
@@ -51,7 +52,7 @@ Welche Anforderungen stellt der Senat für die Vergabe der Personalressource fü
 
 Auf welche Weise wird die Erfüllung dieser Anforderungen überprüft?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Zuweisung der Personalressource an die staatlichen Grundschulen erfolgt zu Schuljahresbeginn basierend auf der Klassenzahl in Jahrgangsstufe 4. Im Übrigen siehe Vorbemerkung.
 
@@ -63,7 +64,7 @@ Müssen Schulen es der Behörde melden, wenn in der zweiten Schwimmlernphase kei
 
 Sind dem Senat Fälle bekannt, in denen seit der Reform des Schulschwimmens Schulen in der zweiten Schwimmlernphase keine Erzieher, sondern Ehrenamtliche eingesetzt haben? Wenn ja, an welchen Schulen wurde vom Einsatz von Erziehern in der zweiten Schwimmlernphase abgewichen und wie wurde im Einzelnen von der Behörde/dem Senat reagiert? Wenn nein, kann der Senat ausschließen, dass es solche Fälle gegeben hat?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nein. Im Übrigen siehe Vorbemerkung und Drs. 21/4918.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3724", "20/8154"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54052"
@@ -45,7 +46,7 @@ Wird die Hamburger Fachkräftestrategie aktuell fortgeführt? Wenn ja, auf welch
 
 Wie beurteilt der Senat die bisherige Wirkung der Fachkräftestrategie?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Gemäß Ausweis der Statistischen Ämter des Bundes und der Länder in seiner amtlichen Berichterstattung stieg die Erwerbstätigenquote in Hamburg kontinuierlich auf 74,7 Prozent im Jahr 2014. Aktuellere Werte sind dort noch nicht veröffentlicht. Die Erwerbsbeteiligung in Hamburg lag demzufolge 2014 über dem Bundesdurchschnitt (73,8 Prozent), über dem Durchschnitt des früheres Bundesgebiets ohne Berlin (74,0 Prozent) und über derjenigen der anderen Stadtstaaten (Berlin 69,0 Prozent und Bremen 68,2 Prozent).
 

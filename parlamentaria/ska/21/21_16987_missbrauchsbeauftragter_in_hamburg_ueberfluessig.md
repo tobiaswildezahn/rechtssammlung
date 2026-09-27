@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66546"
@@ -71,7 +72,7 @@ Welche der unter 1. genannten Aufgaben werden explizit durch welche Fachberatung
 
 Werden originäre Aufgaben des Unabhängigen Beauftragten für Fragen des sexuellen Kindesmissbrauchs der Bundesregierung durch die Fachberatungsstellen nicht abgedeckt? Wenn ja, warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Fachberatungsstellen sind eines der zentralen Elemente des Hilfesystems im Kinder- und Opferschutz. Die fachliche Sicherung und Weiterentwicklung des Hilfesystems obliegt jedoch den zuständigen Fachbehörden, siehe Vorbemerkung.
 

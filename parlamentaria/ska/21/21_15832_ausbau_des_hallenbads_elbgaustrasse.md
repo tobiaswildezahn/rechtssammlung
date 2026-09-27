@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65331"
@@ -48,7 +49,7 @@ Der Masterplan „Active City“ sieht vor, dass die Realisierung des Anbaus bis
 
 Ist die Finanzierung des Ausbaus geklärt? Wenn ja, wie?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Seitens BLH und der zuständigen Behörden wurden jeweils die Bedarfe für eine Wasserflächenerweiterung erhoben. Im Ergebnis war festzustellen, dass derzeit keine wirtschaftliche Auslastung einer zusätzlichen Wasserfläche absehbar ist. Insbesondere ist festgestellt worden, dass aus dem Bereich des Schulschwimmens keine zusätzliche Nachfrage nach Schwimmzeiten geltend gemacht wird. Ohne diese Nachfrage lässt sich der Ausbau des Hallenbades wirtschaftlich nicht darstellen. Vor diesem Hintergrund wurde die Realisierung zunächst ausgesetzt.
 

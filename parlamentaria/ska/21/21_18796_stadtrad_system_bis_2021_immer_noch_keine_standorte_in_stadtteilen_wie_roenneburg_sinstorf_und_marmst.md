@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18680", "21/16429"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68476"
@@ -93,6 +94,6 @@ Bis Ende April 2019 sind in den politischen Gremien der Bezirke potenzielle Stad
 
 Wie und wann sollen Stadtteile, welche bis dato noch nicht an das StadtRAD-Netz angeschlossen sind, an das System angeschlossen werden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Es ist weiterhin vorgesehen, die in den für Verkehr zuständigen Ausschüssen der Bezirksversammlungen vorgestellten potenziellen StadtRAD-Stationen zu realisieren. Im Übrigen siehe Vorbemerkung.

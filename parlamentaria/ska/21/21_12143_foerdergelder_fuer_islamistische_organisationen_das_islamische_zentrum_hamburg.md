@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 18
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5039", "19/545", "21/1706"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61416"
@@ -51,7 +52,7 @@ Welche Fördermittel hat die SCHURA seit dem 1. Juli 2016 erhalten? Bitte bis he
 
 Wie viel Geld stammt dabei aus Landes-, Bundes- beziehungsweise EU- Mitteln?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage und Drs. 21/5039. Im Übrigen liegen dem Senat keine Erkenntnisse darüber vor, ob die SCHURA EU-Mittel erhalten hat.
 
@@ -63,7 +64,7 @@ Ist dem Senat bekannt, ob das IZH über seine Mitgliedschaft in der SCHURA Antei
 
 Ist dem Senat bekannt, ob das IZH über die IGS Fördergelder aus EU- beziehungsweise Bundesmitteln erhalten hat? Falls ja, wie hoch belaufen sich diese?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Dem Senat legen hierzu keine Erkenntnisse vor.
 
@@ -83,7 +84,7 @@ Verfügt das IGS neben dem IZH weitere über Mitglieder in Hamburg? Falls ja, we
 
 Wie schätzt der Senat die politische Ausrichtung des IGS in Hinblick auf deren Verträglichkeit mit einer freiheitlich-demokratischen Grundordnung ein?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe BT.-Drs. 19/545 und Verfassungsschutzbericht 2016: http://www.hamburg.de/ contentblob/8873924/38b7f14ba1da5dd3693b6b1a833d9c43/data/ verfassungsschutzbericht-2016-lfv-hh.pdf.
 

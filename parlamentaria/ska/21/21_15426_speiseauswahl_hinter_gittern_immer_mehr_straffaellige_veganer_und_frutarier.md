@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64913"
@@ -50,7 +51,7 @@ Welche konkreten Vorgaben bestehen für die Verpflegung der Gefangenen?
 
 Gelten diese für alle Justizvollzugsanstalten einheitlich? Falls nein, welche Unterschiede bestehen aus welchen Gründen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Vorgaben richten sich nach § 24 HmbStVollzG, § 24 HmbJStVollzG sowie § 17 HmbUVollzG, die sämtlich einen Anspruch der Gefangenen auf eine ausgewogene Vollverpflegung normieren. Sie gelten einheitlich. Religiösen Bedarfen muss durch entsprechende Speisegebote Rechnung getragen werden. Zudem sind zur Sicherstellung der Qualität der Verpflegung die in der Anstalt tätigen Ärztinnen und Ärzte einzubinden.
 

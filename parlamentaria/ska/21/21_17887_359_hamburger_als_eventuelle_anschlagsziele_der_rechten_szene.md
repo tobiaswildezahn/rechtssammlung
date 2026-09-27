@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14032"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67496"
@@ -67,7 +68,7 @@ Informiert auch die Freie und Hansestadt Hamburg die Betroffenen über mögliche
 
 Welche Maßnahmen hat der Senat beziehungsweise die zuständige Behörde ergriffen, um die Gefährdung Betroffener auszuschließen, zu minimieren beziehungsweise welche Maßnahmen sind für die nahe Zukunft geplant?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nach bisherigen fachlichen Prüfungen haben sich keine Anhaltspunkte dafür ergeben, dass die Betroffenen einer konkreten Gefährdung unterliegen. Darüber hinaus betrifft die Fragestellung die Einsatztaktik der Polizei, zu der aus grundsätzlichen Erwägungen keine Angaben gemacht werden.
 

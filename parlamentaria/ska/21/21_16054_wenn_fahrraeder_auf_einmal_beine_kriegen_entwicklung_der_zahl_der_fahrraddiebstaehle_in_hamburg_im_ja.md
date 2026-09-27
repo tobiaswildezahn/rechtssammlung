@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11767"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65564"
@@ -43,7 +44,7 @@ Wie viele Diebstähle von Fahrrädern (inklusive Pedelecs) in Hamburg wurden 201
 
 Welches waren 2018 die zehn Stadtteile in Hamburg mit den meisten Fahrraddiebstählen (inklusive Pedelecs)? Wie viele Fälle waren es dort jeweils, wie viele konnten aufgeklärt werden und wie hoch war die Aufklärungsquote jeweils?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In der Polizeilichen Kriminalstatistik (PKS) erfolgt die Erfassung von Diebstählen von Fahrrädern und Pedelecs einschließlich unbefugter Ingebrauchnahme unter dem PKS-Straftatenschlüssel ***3**.
 

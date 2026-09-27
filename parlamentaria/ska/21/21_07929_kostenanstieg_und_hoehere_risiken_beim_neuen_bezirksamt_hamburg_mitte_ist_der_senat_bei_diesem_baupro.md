@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 20
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6484", "21/7484", "21/3100"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56566"
@@ -61,7 +62,7 @@ Warum wurde die Kostenprognose zum Stichtag 30.09.2016 in der Antwort des Senats
 
 Seit wann genau war welchen Stellen im Einzelnen jeweils bekannt, dass die in Drs. 21/6484 dargestellte Kostenschätzung über 19,61 Millionen Euro zu niedrig ist?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Entscheidung zur endgültigen Kostenzuordnung (siehe Antwort zu 1.) wurde im Zusammenhang mit der Erstellung der Drs. 21/7484 im Dezember 2016 getroffen und insofern in Drs. 21/7484, aber noch nicht in Drs. 21/6484 berücksichtigt.
 
@@ -112,12 +113,24 @@ Die Miete wird auf Grundlage der Gesamtkosten des Eigentümers ermittelt. Soweit
 ### Frage 13
 
 Gemäß Drs. 21/7484 liegen die zusätzlichen besonderen Kostenrisiken für dieses Projekt bei 10,38 Millionen Euro. Damit handelt es sich um eines der finanziell riskantesten Bauprojekte der Stadt innerhalb der im Bericht Bau-Monitoring aufgeführten Maßnahmen.
-13.1. Warum sind die besonderen Kostenrisiken für dieses Projekt im Zuge der konkretisierten Planungen gegenüber den Angaben in Drs. 21/3100 angestiegen?
-13.2. Aus welchen Teilbeträgen setzen sich die besonderen Kostenrisiken von 10,38 Millionen Euro im Einzelnen zusammen und wie wurden diese Beträge ermittelt?
-13.3. Welche Maßnahmen des Risikomanagements wurden im Einzelnen angesichts der hohen Kostenrisiken für dieses Projekt implementiert?
-13.4. Wie bewertet der Senat derzeit die Kostenrisiken für dieses Projekt?
 
-#### Antwort zu Frage 13
+### Frage 13.1
+
+Warum sind die besonderen Kostenrisiken für dieses Projekt im Zuge der konkretisierten Planungen gegenüber den Angaben in Drs. 21/3100 angestiegen?
+
+### Frage 13.2
+
+Aus welchen Teilbeträgen setzen sich die besonderen Kostenrisiken von 10,38 Millionen Euro im Einzelnen zusammen und wie wurden diese Beträge ermittelt?
+
+### Frage 13.3
+
+Welche Maßnahmen des Risikomanagements wurden im Einzelnen angesichts der hohen Kostenrisiken für dieses Projekt implementiert?
+
+### Frage 13.4
+
+Wie bewertet der Senat derzeit die Kostenrisiken für dieses Projekt?
+
+#### Antwort zu Fragen 13, 13.1, 13.2, 13.3 und 13.4
 
 Im Zuge der Baumaßnahmen haben sich neue Erkenntnisse zum Brandschutz sowie einer erforderlichen Betonsanierung in der Tiefgarage ergeben, die zu einem Anstieg der Risikokosten um rund 0,7 Millionen Euro geführt haben. Die Risikokosten beziehen sich auf Störungen durch Bauen im Bestand (rund 2,5 Millionen Euro), Preissteigerungen aufgrund angespannter Marktsituation im Baugewerbe (rund 1,0 Millionen Euro), Brandschutz (rund 2,5 Millionen Euro), Betonsanierung (rund 2,0 Millionen Euro), Bewirtschaftung (rund 0,8 Millionen Euro) und Bauliche Risiken der Umnutzung, zum Beispiel Statik (rund 1,6 Millionen Euro). Zur Verringerung der Risiken, die überwiegend mit einer geringen bis mittleren Eintrittswahrscheinlichkeit bewertet sind, wurden Fachplaner unter anderem für Brandschutz, Logistik, Gebäudebewirtschaftung und Statik eingebunden.
 

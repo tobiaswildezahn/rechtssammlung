@@ -14,6 +14,7 @@ fragen: 33
 einzelfragen: 49
 antwortbloecke: 24
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838", "21/2150", "21/2303"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50611"
@@ -272,7 +273,7 @@ In welcher Form werden eventuelle Planungen zu den Olympischen Spielen 2024 in d
 
 Wie wird gegebenenfalls das Wassersportzentrum in Allermöhe an der Dove Elbe überplant?
 
-#### Antwort zu Fragen 31 bis 32
+#### Antwort zu Fragen 31 und 32
 
 Für die Olympischen und Paralympischen Wettkämpfe werden die heute bereits für Regatten genutzten Flächen in Anspruch genommen. Sämtliche Maßnahmen im Bereich des Wassersportzentrums sind lediglich für die Dauer der Spiele angelegt.
 

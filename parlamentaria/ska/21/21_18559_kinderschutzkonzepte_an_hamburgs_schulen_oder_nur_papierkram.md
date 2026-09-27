@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14809", "21/13694"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68242"
@@ -79,7 +80,7 @@ Sofern noch nicht alle Hamburger Schulen Kinderschutzkonzepte implementiert habe
 
 Welche Schulen arbeiten aktuell an einem Kinderschutzkonzept? Bitte namentlich und nach Bezirk sortiert auflisten unter Angabe der Schulform und ob es sich um eine staatliche oder nicht staatliche Schule handelt.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Antwort zu 1.
 

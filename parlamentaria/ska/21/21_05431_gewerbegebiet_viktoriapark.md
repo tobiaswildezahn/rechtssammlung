@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 21
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3610", "21/4279"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53916"
@@ -48,7 +49,7 @@ km) zum geplanten Standort des Gewerbegebiets Viktoriapark? Bitte Gewerbegebiete
 
 Wie hat sich die Nachfrage nach Gewerbeflächen im Umfeld des geplanten Gewerbegebiets Viktoriapark entwickelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Spezielle Erkenntnisse über die Auslastung der Gewerbegebiete und die Nachfragesituation im Umfeld des Victoriaparks liegen nicht vor. Dies betrifft insbesondere auch die Standorte im Kreis Stormarn. Generelle Erkenntnisse zeigen aber, dass gewerbliche Bauflächen beiderseits der A 1 aufgrund ihrer sehr guten Lagequalität innerhalb der Metropolregion Hamburg eine hohe Nachfrage erfahren.
 
@@ -128,7 +129,7 @@ Wie wird mit den in Hamburg und Stapelfeld unterschiedlichen Gewerbesteuerhebese
 
 Welche Überlegungen gibt es im Hinblick auf die Zuschlüsselung der Gewerbesteuer? Wird es eine einheitliche Grundlage für die Verteilung geben? Wenn ja, welche?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die Hebesätze werden von den Gemeinden festgelegt. Befinden sich Betriebsstätten desselben Gewerbebetriebes in mehreren Gemeinden, so wird die Gewerbesteuer in jeder beteiligten Gemeinde nach dem Teil des Gewerbesteuermessbetrages erhoben, der auf sie entfällt (§4 Absatz 1 GewStG i.V.m. § 16 GewStG). Eine Gewerbesteuerzerlegung bei Unterhaltung von Betriebsstätten in mehreren Gemeinden erfolgt gemäß §§ 28 bis 34 GewStG.
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 24
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10683"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59997"
@@ -73,27 +74,27 @@ Die betreffenden Häuser sind alle in der Denkmalschutzliste (für den Bezirk No
 
 Werden die Häuser im Winter beheizt, regelmäßig auf Wasserschäden überprüft et cetera? Wenn nein, warum nicht und wie lange währt dieser Umstand jeweils schon?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Um Schäden an den Am Hasenberge 2, 4, 6, 10, 12, 14/16, 18/20, 22/24, 28/30, 32/34 und Suhrenkamp 86, 90, 106 befindlichen Dienstwohnhäusern frühzeitig erkennen und beheben zu können, finden regelmäßige Kontrollgänge in den Wohnungen und außerhalb der Gebäude statt.
 
 Zum Erhalt der Gebäude wurden und werden insbesondere folgende Maßnahmen durchgeführt:
 
- Dachreparaturen sowie gegebenenfalls Trocknung der Wohnungen bei Wasser-
+– Dachreparaturen sowie gegebenenfalls Trocknung der Wohnungen bei Wasser-
 
 schäden,
 
- Sanierungsarbeiten bei Durchfeuchtungen des Mauerwerks,
+– Sanierungsarbeiten bei Durchfeuchtungen des Mauerwerks,
 
- Ersatz defekter Fensterscheiben,
+– Ersatz defekter Fensterscheiben,
 
- Reparatur defekter Gasthermen,
+– Reparatur defekter Gasthermen,
 
- regelmäßige Überprüfung der elektrischen Anlagen,
+– regelmäßige Überprüfung der elektrischen Anlagen,
 
- Gartenpflegearbeiten und
+– Gartenpflegearbeiten und
 
- Winterbeheizung in den leerstehenden Wohnungen.
+– Winterbeheizung in den leerstehenden Wohnungen.
 
 Bei den Gebäuden Suhrenkamp 92, 96/96a und 100 handelt es sich nicht um Wohngebäude, sondern hinsichtlich Suhrenkamp 92 um den gemeinsamen Zugang der Sozialtherapeutischen Anstalt Hamburg und der JVA Fuhlsbüttel (Häuser I und III) und hinsichtlich Suhrenkamp 96/96a und 100 um Dienstgebäude mit Büronutzung.
 
@@ -127,7 +128,7 @@ Werden die freien Wohnungen den JVA-Angestellten-/innen/-Beamten/ -innen zur Mie
 
 Als Argument für die Nicht-Vermietbarkeit wird immer wieder die Nähe zur JVA angeführt. Da am Maienweg und in der Nesselstraße Neubauten in gleicher Nähe genehmigt und ausgeführt wurden, ist das nicht nachvollziehbar. Gibt es Überlegungen, die Wohnungen ausgewählten Mietergruppen, zum Beispiel Polizeischülern/-innen, anzubieten? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Für die im Verwaltungsvermögen der Justizbehörde befindlichen Gebäude steht die nutzungsbeschränkende Widmung als Dienstwohnungen für Bedienstete einer Vermietung auf dem allgemeinen Wohnungsmarkt entgegen. § 3 Absatz 1 HmbDDWV setzt für die Zuweisung voraus, dass die dienstlichen Verhältnisse eine solche erfordern, was laut Verordnung regelmäßig dann der Fall ist, wenn die ständige Dienstbereitschaft der Beamtin oder des Beamten auch außerhalb der Arbeitszeit erforderlich ist und auf andere Weise nicht gesichert werden kann und sie oder er deshalb im Gebäude, in dem sich die Dienststätte befindet, oder in dessen unmittelbarer Nähe wohnen muss. Der Justizvollzug in seiner heutigen Form ist jedoch nicht mehr auf einen jederzeitigen Zugriff auf in unmittelbarer Nähe wohnendes Personal angewiesen.
 
@@ -141,6 +142,6 @@ Warum wird in diesem eklatanten Fall langjähriger Leerstände nicht das Wohnrau
 
 Sind diesbezüglich Maßnahmen geplant? Wenn ja, welche und bis wann? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Das Hamburgische Wohnraumschutzgesetz (HmbWoSchG) ist auf diese Wohnungen nicht anwendbar, da sie zum Wohnen objektiv nicht geeignet beziehungsweise subjektiv nicht bestimmt sind im Sinne von § 2 Absatz 1 HmbWoSchG. Zum Teil liegen die betroffenen Gebäude in einem Sicherheitsbereich und sind deshalb zu Wohnzwecken objektiv nicht geeignet. Im Übrigen fehlt es an der subjektiven Bestimmung zum Wohnen, da die Wohnungen bislang auf Grund eines öffentlich-rechtlichen Nutzungsverhältnisses genutzt wurden und keine Umwidmung zum allgemeinen Wohnen vorliegt.

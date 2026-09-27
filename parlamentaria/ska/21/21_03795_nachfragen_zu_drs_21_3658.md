@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 47749
 seiten: 2
 fragen: 6
-einzelfragen: 6
-antwortbloecke: 6
+einzelfragen: 9
+antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3658", "20/6208", "20/14486"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52213"
@@ -62,15 +63,20 @@ Geplant ist, die Sprinkenhof GmbH mit den Bauvorhaben am Campus am Von-Melle- Pa
 ### Frage 4
 
 In der Antwort zur Schriftlichen Kleinen Anfrage Drs. 21/3658 begründet der Senat die Auswahlentscheidung für die Sprinkenhof GmbH insbesondere mit der beim Bau des CHYN belegten fachlichen Eignung.
-4.1. Inwiefern ist der komplette Neubau eines Forschungsgebäudes mit einem hohen Technik- und Laboranteil vergleichbar mit der Sanierung des Bestandsgebäudes Philosophenturm?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+Inwiefern ist der komplette Neubau eines Forschungsgebäudes mit einem hohen Technik- und Laboranteil vergleichbar mit der Sanierung des Bestandsgebäudes Philosophenturm?
+
+#### Antwort zu Fragen 4 und 4.1
 
 Die Modernisierung des Philosophenturms stellt insbesondere aufgrund der Nutzung (Seminarräume, Sprachlabore, Büros, Bibliotheken, Mensa), der Denkmalschutzanforderungen und des Bauens im Bestand eine komplexe Aufgabe dar. Im Übrigen sind Wissenschaftsbauten zumeist Unikate, die einer unmittelbaren, umfassenden und detaillierten Vergleichbarkeit in der Regel nur begrenzt zugänglich sind.
 
-4.2. Welche unterschiedlichen Erfahrungen bezüglich der fachlichen Eignung der jeweiligen Realisierungsträger wurden bislang bei den in der Umsetzung befindlichen Mieter-Vermieter-Modellen im Hoch-
+### Frage 4.2
 
-schulbereich (Neubau am Geomatikum, CHYN, Sanierung Trautwein-Gebäude) im Einzelnen gemacht?
+Welche unterschiedlichen Erfahrungen bezüglich der fachlichen Eignung der jeweiligen Realisierungsträger wurden bislang bei den in der Umsetzung befindlichen Mieter-Vermieter-Modellen im Hochschulbereich (Neubau am Geomatikum, CHYN, Sanierung Trautwein-Gebäude) im Einzelnen gemacht?
+
+#### Antwort zu Frage 4.2
 
 Die Realisierungsträger GMH und Sprinkenhof GmbH verfügen über die geforderte Kompetenz und Leistungsfähigkeit, große Bauvorhaben zu entwickeln und zu steuern.
 
@@ -85,14 +91,19 @@ Siehe Antwort zu 3.
 ### Frage 6
 
 Gemäß der Drs. 20/14486 sieht der Senat bei Mieter-Vermieter- Modellen regelhaft den Abschluss von Vorverträgen beziehungsweise eines Letter of Intent vor.
-6.1. Warum genau wird bei der Sanierung des Philosophenturms von dieser Vorgehensweise abgewichen?
 
-#### Antwort zu Frage 6
+### Frage 6.1
+
+Warum genau wird bei der Sanierung des Philosophenturms von dieser Vorgehensweise abgewichen?
+
+#### Antwort zu Fragen 6 und 6.1
 
 Es wurde nicht abgewichen. Der Generalplanervertrag ist ein Vorvertrag zum Mietvertrag.
 
-6.2. Gibt es Zusagen gegenüber der Sprinkenhof GmbH zur Erstattung von Aufwendungen im Zusammenhang mit Vorleistungen für die Sanierung des Philosophenturms, sofern das Projekt ohne die Sprinkenhof GmbH umgesetzt wird?
+### Frage 6.2
 
-Wenn ja, durch wen und in welcher Form und in welchem Umfang?
+Gibt es Zusagen gegenüber der Sprinkenhof GmbH zur Erstattung von Aufwendungen im Zusammenhang mit Vorleistungen für die Sanierung des Philosophenturms, sofern das Projekt ohne die Sprinkenhof GmbH umgesetzt wird? Wenn ja, durch wen und in welcher Form und in welchem Umfang?
+
+#### Antwort zu Frage 6.2
 
 Im Vorvertrag ist geregelt, dass der Realisierungsträger die ihm entstandenen Kosten für erbrachte Vorleistungen durch die zuständige Behörde erstattet bekommt.

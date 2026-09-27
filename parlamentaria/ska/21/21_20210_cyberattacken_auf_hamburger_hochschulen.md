@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69994"
@@ -95,55 +96,55 @@ An der UHH basiert die Sicherung der IT-Infrastruktur auf dem allgemein akzeptie
 
 Die TUHH unternimmt unter anderem die folgenden IT-Sicherheitsmaßnahmen:
 
- Firewalls,
+– Firewalls,
 
- Netzsegmentierung,
+– Netzsegmentierung,
 
- Netzwerküberwachung,
+– Netzwerküberwachung,
 
- Schwachstellenscans,
+– Schwachstellenscans,
 
- VPN,
+– VPN,
 
- Anti-Virus,
+– Anti-Virus,
 
- Spam-Filter,
+– Spam-Filter,
 
- Makro-Erkennung in Office-Dokumenten,
+– Makro-Erkennung in Office-Dokumenten,
 
- Back-ups,
+– Back-ups,
 
- Sicherheitsschulungen,
+– Sicherheitsschulungen,
 
- Vorfallsmanagement und
+– Vorfallsmanagement und
 
- Reporting.
+– Reporting.
 
 Die HCU setzt eine Vielzahl an präventiven technischen und organisatorischen Maßnahmen zum Informationssicherheitsmanagement nach dem IT-Grundschutzstandard des Bundesamts für Sicherheit in der Informationstechnik ein. Die Maßnahmen umfassen:
 
- Back-ups,
+– Back-ups,
 
- Patchmanagement,
+– Patchmanagement,
 
- Sicherheitsvorfallsmanagement,
+– Sicherheitsvorfallsmanagement,
 
- Änderungsmanagement,
+– Änderungsmanagement,
 
- Antivirensoftware,
+– Antivirensoftware,
 
- Sensibilisierung der Hochschulangehörigen,
+– Sensibilisierung der Hochschulangehörigen,
 
- Schulung des IT-Personals,
+– Schulung des IT-Personals,
 
- Firewalls,
+– Firewalls,
 
- Schwachstellenscans,
+– Schwachstellenscans,
 
- Elektronisches Schließsystem,
+– Elektronisches Schließsystem,
 
- Prozesse für die Vergabe von Rollen und Berechtigungen und
+– Prozesse für die Vergabe von Rollen und Berechtigungen und
 
- Logging und Monitoring.
+– Logging und Monitoring.
 
 An der HAW Hamburg werden die Systeme aktuell gehalten und durchgehend überwacht. Bei Überschreiten von Schwellwerten wird zeitnah – und dort wo es möglich ist, automatisch – eingeschritten.
 

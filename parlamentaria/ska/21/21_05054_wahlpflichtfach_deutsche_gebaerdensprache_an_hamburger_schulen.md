@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/900"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53512"
@@ -102,7 +103,7 @@ Wie viele zusätzliche Lehrkräfte hat der Senat an welchen Schulen für die Vor
 a) geplant und
 b) bereits veranlasst?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antworten zu 3., 10. und 11.
 
@@ -125,7 +126,7 @@ a) verbeamtete,
 b) angestellte Lehrkräfte und
 c) Honorarkräfte wurden beziehungsweise werden für die Durchführung und Planung des Unterrichtsfaches „Deutsche Gebärdensprache“ in den Schuljahren 2015/2016 und 2016/2017 eingesetzt?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Insgesamt stehen zehn unbefristet beschäftigte Lehrkräfte zur Verfügung, die zusammen 26 Unterrichtsstunden im Fach „Deutsche Gebärdensprache“ erteilen. Von diesen sind acht Lehrkräfte Beamte beziehungsweise Beamtinnen.
 

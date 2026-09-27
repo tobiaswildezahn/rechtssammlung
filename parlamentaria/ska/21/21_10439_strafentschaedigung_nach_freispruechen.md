@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59312"
@@ -78,7 +79,7 @@ Was ist unter der von der Pressesprecherin der Justizbehörde gegenüber der „
 
 In welchen Fällen beziehungsweise unter welchen Voraussetzungen ist eine „Aufrechnung der Justiz“ grundsätzlich möglich? Bitte unter Angabe der Rechtsgrundlagen darstellen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Aufrechnung gegen Entschädigungsansprüche nach dem StrEG richtet sich nach den allgemeinen Vorschriften der §§ 387 bis 396 BGB. Die Staatskasse kann insbesondere mit Forderungen aus unbezahlten Geldstrafen, ausstehenden Gerichtskosten und Wertersatz aufrechnen, die in anderen Verfahren gegen den Entschädigungsberechtigten entstanden sind. In den vorliegenden Verfahren war dies nicht der Fall.
 

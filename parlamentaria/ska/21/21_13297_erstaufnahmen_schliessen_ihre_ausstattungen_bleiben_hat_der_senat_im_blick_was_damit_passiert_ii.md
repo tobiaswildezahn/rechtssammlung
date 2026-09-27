@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13178", "21/7961"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62644"
@@ -63,7 +64,7 @@ Materialien welcher Art und mit jeweils welchen Werten hat der ZKF an jeweils we
 
 Materialien welcher Art und mit jeweils welchen Werten wurden im Rahmen der humanitären Hilfe abgegeben?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Es wurden kostenlos Betten und Matratzen an die Flüchtlingsunterkunft auf Lesbos über Hanseatic Help abgegeben. Im Übrigen siehe Vorbemerkung.
 
@@ -75,7 +76,7 @@ Materialien welcher Art und mit jeweils welchen Werten wurden an jeweils welche 
 
 Materialien mit insgesamt welchem Wert sind aktuell in den drei Lagern eingelagert?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 
@@ -87,7 +88,7 @@ Enthält die in der Drs. 21/13178 erwähnte Inventurliste alle eingelagerten Mat
 
 Listet die Inventurliste auch den Einkaufspreis und den aktuellen Wert auf? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Im Rahmen einer Inventur im Mai 2018 wurde der Materialbestand aktualisiert und wird derzeit in einer Inventarliste mit Stand Juni 2018 erfasst. Der Inventarbestand ändert sich jedoch kontinuierlich durch Zu- und Abgänge.
 

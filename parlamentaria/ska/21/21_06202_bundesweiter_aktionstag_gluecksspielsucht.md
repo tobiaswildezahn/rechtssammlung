@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54720"
@@ -59,19 +60,19 @@ Was hat die Hamburger Landesstelle für Suchtfragen anlässlich des bundesweiten
 
 Zum bundesweiten Aktionstag Glücksspielsucht wurden durch die Fachstelle Sucht.- Hamburg der HLS folgende Aktionen durchgeführt:
 
- Pressemitteilung anlässlich des Aktionstages
+– Pressemitteilung anlässlich des Aktionstages
 
- Veröffentlichung des Elternratgebers „Was Eltern über Glücksspiele wissen sollten“
+– Veröffentlichung des Elternratgebers „Was Eltern über Glücksspiele wissen sollten“
 
- Versand des neuen Elternratgebers sowie von Plakaten und Postkarten an die
+– Versand des neuen Elternratgebers sowie von Plakaten und Postkarten an die
 
 Fachberatungsstellen für Glücksspielsucht in Hamburg
 
- Sensibilisierung der Bevölkerung für die Risiken durch Bewerbung der Kampagne
+– Sensibilisierung der Bevölkerung für die Risiken durch Bewerbung der Kampagne
 
 „automatisch verloren“ durch Seitenscheibenplakate in der U-Bahn, das Fahrgastfernsehen in der U-Bahn, Postkartenverteilung in der Gastronomie und an den Berufsschulen sowie Versand von Postkarten und Plakaten an alle Kundenzentren der Bezirksämter und den Jobcentern in Hamburg
 
- Ergänzung des Informationsportals www.automatisch-verloren.de um den Bereich
+– Ergänzung des Informationsportals www.automatisch-verloren.de um den Bereich
 
 Jugendliche und Glücksspiel sowie Jugendschutz
 

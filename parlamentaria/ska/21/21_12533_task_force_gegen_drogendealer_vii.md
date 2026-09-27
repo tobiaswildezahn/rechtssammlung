@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10767", "21/5611"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61846"
@@ -139,7 +140,7 @@ Wie viele Personen wurden im Zeitraum vom 01.10.2017 bis zum
 Gegen wie viele Personen wurde im Zeitraum vom 01.10.2017 bis zum
 31.03.2018 ein Haftbefehl erlassen? Aus welchen Haftgründen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Maßnahme  
 Zeitraum  

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 13
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7568"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58756"
@@ -77,7 +78,7 @@ Wie viele der betroffenen Flächen (Grundstück oder Baufeld) mit Bomben-Blindg�
 
 Welche und wie viele Bomben-Blindgänger (Art, Gewicht) wurden pro freigemessenem Grundstück oder Baufeld gefunden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung, im Übrigen siehe Antwort zu 2.
 

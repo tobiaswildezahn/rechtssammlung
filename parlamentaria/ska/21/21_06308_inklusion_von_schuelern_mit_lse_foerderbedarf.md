@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54846"
@@ -73,6 +74,6 @@ In wie vielen der unter 3. genannten Klassen werden regelhaft mindestens zwei Le
 
 In wie vielen geschieht dies nicht und aus welchen Gründen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8851", "21/11310"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68853"
@@ -43,7 +44,7 @@ Wie viele Polizeibedienstete haben in den Jahren 2018 und 2019 (Stichtag 31.10.2
 
 Wie viele Polizeibedienstete haben in den Jahren 2018 und 2019 (Stichtag 31.10.2019) jeweils jährlich Nebentätigkeiten auf eigenen Wunsch ausgeübt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/8851.
 
@@ -63,7 +64,7 @@ Wie hat sich der Anteil der Polizeibediensteten mit Nebentätigkeiten in den ein
 
 Wie ist diese Entwicklung zu erklären?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/11310.
 

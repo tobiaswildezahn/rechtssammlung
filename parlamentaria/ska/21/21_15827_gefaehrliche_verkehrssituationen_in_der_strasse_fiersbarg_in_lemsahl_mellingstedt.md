@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65326"
@@ -63,11 +64,11 @@ Angaben zur durchschnittlichen täglichen Verkehrsstärke (DTV), zur durchschnit
 
 Bei der unter der Antwort zu 1. genannten Verkehrszählung am Knoten Fiersbarg/ Huulkamp vom 25. August 2005 wurde der folgende Tagesverkehr ermittelt:
 
- Fiersbarg nordwestlich Huulkamp: circa 2 300 Kfz/24 Stunden, Schwerverkehrsan-
+– Fiersbarg nordwestlich Huulkamp: circa 2 300 Kfz/24 Stunden, Schwerverkehrsan-
 
 teil circa 5 Prozent
 
- Fiersbarg südöstlich Huulkamp: circa 2 900 Kfz/24 Stunden, Schwerverkehrsanteil
+– Fiersbarg südöstlich Huulkamp: circa 2 900 Kfz/24 Stunden, Schwerverkehrsanteil
 
 circa 5 Prozent
 

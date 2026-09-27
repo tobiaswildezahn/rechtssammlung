@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 18
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/8909", "21/4043", "21/4238", "21/4843", "21/5124", "21/5453", "21/5812"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54386"
@@ -65,7 +66,7 @@ Wie viele SGB-II-Leistungsbezieher lebten mit Stichtag 15. Juni, 30. Juni, 15. J
 
 Falls der Senat die Anzahl der SGB-II-Bezieher noch immer nicht erhebt, warum nicht? Was unternimmt der Senat, um Klarheit in die Datenlage zu bringen? Wann ist mit entsprechenden Daten zu rechnen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/4043, 21/4238 und 21/4843. Die Feststellung der Leistungsbezieher nach dem SGB II ist weiterhin nur durch eine Sonderauswertung möglich (siehe Antworten zu 1.
 
@@ -79,7 +80,7 @@ Kann der Senat mittlerweile Auskünfte erteilen, inwiefern und in welcher Höhe 
 
 Wie viele Flüchtlinge im SGB-II-Bezug leben mit Stichtag 15. Juni, 30. Juni, 15. Juli, 31. Juli, 15. August, 31. August sowie zum aktuellen Stichtag in Hamburg? Welche Kenntnisse liegen dem Senat über diese Personen vor im Hinblick auf die Dauer des Bezugs von SGB II, die Aufenthaltsdauer in Deutschland sowie die Art der Unterbringung?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/4843.
 

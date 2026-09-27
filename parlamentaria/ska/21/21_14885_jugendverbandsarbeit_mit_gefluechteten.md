@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64329"
@@ -49,7 +50,7 @@ Welche Jugendverbände haben bislang für welchen Zeitraum Mittel aus der Zentra
 
 Wie wurde bei diesen Projekten die VV zu dem § 46 LHO angewendet? Bitte hinsichtlich der Förderungsart (Projekt- oder institutionelle Förderung), der Finanzierungsart (Anteil-, Fehlbedarfs- oder Festbetragsfinanzierung) und des Zuwendungszwecks sowie der Konkretisierung des Zuwendungszwecks angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

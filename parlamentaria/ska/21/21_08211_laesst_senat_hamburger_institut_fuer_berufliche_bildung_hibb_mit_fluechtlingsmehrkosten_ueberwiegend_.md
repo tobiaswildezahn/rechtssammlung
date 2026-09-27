@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7872", "21/1395"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56909"
@@ -90,7 +91,7 @@ Mehrkosten in welcher Höhe entstehen durch die Drs. 21/7872 insgesamt und für 
 
 Inwieweit sollen die geplanten Kosten und die aus Drs. 21/7872 resultierenden Mehrkosten jeweils anteilig durch „interne Umschichtungen“ beim HIBB und durch die „Zentrale Verstärkung Zuwanderung“ erfolgen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Soweit Maßnahmen für noch schulpflichte neu Zugewanderte sowie Maßnahmen zur Sprachförderung in der Modellphase an Berufsschulen für circa 400 Personen (siehe Drs. 21/7872, Punkt 3.1.3) betroffen sind, siehe Antworten zu 3. und 4. sowie Vorbemerkung.
 
@@ -106,9 +107,9 @@ Des Weiteren erfolgt die Finanzierung der Landesmittel für die Begleitstruktur 
 
 Im Einzelplan 4 sind für die Begleitstruktur folgende Kosten entstanden beziehungsweise werden künftig entstehen (Transferkosten im Rahmen von Zuwendungen):
 
-• für den Überbrückungszeitraum bis zum Start des aus Mitteln des Europäischen Sozialfonds (ESF) geförderten Projektes 132.498,62 Euro an Landesmitteln (Vorprojekt, 01.08.2016 bis 28.02.2017);
+– für den Überbrückungszeitraum bis zum Start des aus Mitteln des Europäischen Sozialfonds (ESF) geförderten Projektes 132.498,62 Euro an Landesmitteln (Vorprojekt, 01.08.2016 bis 28.02.2017);
 
-• für den Zeitraum vom 01.03.2017 bis 28.02.2021 werden für das ESF-Projekt „Chancengenerator – Begleitung junger Geflüchteter U 25“ voraussichtlich
+– für den Zeitraum vom 01.03.2017 bis 28.02.2021 werden für das ESF-Projekt „Chancengenerator – Begleitung junger Geflüchteter U 25“ voraussichtlich
 2.800.000 Euro aufgewandt, davon 1.400.000 Euro an Landesmitteln (Kofinanzierung).
 
 Im Übrigen siehe Vorbemerkung, Drs. 21/7872 sowie Antworten zu 3. und 4.

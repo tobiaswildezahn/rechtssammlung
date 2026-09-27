@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 33
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4499", "21/4566", "21/4765", "21/5126", "21/5454", "21/6543", "21/7163", "21/7829", "21/8191", "21/8556", "21/5811", "21/6223", "21/7421", "21/8566"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57691"
@@ -91,7 +92,7 @@ Wie viele Personen mit Fluchthintergrund sind derzeit beim Jobcenter, wie viele 
 
 Wie viele Personen wurden bereits vom Jobcenter, wie viele von der Arbeitsagentur in Sprachkurse, Praktika, Ausbildung, Arbeit oder Studium vermittelt? Bitte einzeln aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 
@@ -157,7 +158,7 @@ Wie viele Flüchtlinge haben mit Stand Ende April im Jahr 2017 bereits einen vom
 
 Wie viele Flüchtlinge haben mit Stand Ende April 2017 bereits einen vom Land finanzierten Sprachkurs absolviert? Wie viele davon sind Männer, wie viele Frauen? Bitte jeweils für „Deutschkurse für Flüchtlinge“ und „Erstorientierung für Flüchtlinge“ angeben.
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Aufgrund der Abrechnungsfrist von acht Wochen nach Abschluss der Sprachkursmodule (siehe Drs. 21/4499) haben die Sprachkursträger im Jahr 2017 (Stand Ende März) für das Programm „Deutschkurse für Flüchtlinge“ Abrechnungen für 22 Absolventen eingereicht, die im Jahr 2017 in das Programm aufgenommen wurden. Davon waren 16 männlich und sechs weiblich.
 

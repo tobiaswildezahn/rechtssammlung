@@ -10,12 +10,13 @@ urheber: ["Dennis Gladiator"]
 fraktionen: ["CDU"]
 vorgang: 51225
 seiten: 7
-fragen: 0
-einzelfragen: 0
-antwortbloecke: 0
+fragen: 1
+einzelfragen: 1
+antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2108"]
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55970"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/55970/21_07376_polizeieinsaetze_in_den_erstaufnahmeeinrichtungen_xv"
 abgerufen: "2026-09-26"
@@ -27,19 +28,25 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Dennis Gladiator (CDU) vom 02.01.17 und Antwort des Senats · Drucksache vom 10.01.2017  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/55970) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/55970/21_07376_polizeieinsaetze_in_den_erstaufnahmeeinrichtungen_xv)
 
-## Volltext
-
-Polizeieinsätze in den Erstaufnahmeeinrichtungen (XV)
+## Einleitung für die Fragen
 
 Im Jahr 2015 musste Hamburgs Polizei knapp 2.000 Mal in den Zentralen Erstaufnahmeeinrichtungen aus unterschiedlichsten Anlässen anrücken. So sorgten unter anderem Schlägereien, Sexualdelikte, ausgelöste Brandmelder, Selbstmordversuche und randalierende Personen immer wieder für Großeinsätze. Die regelmäßigen Einsätze in den Folgeeinrichtungen, die nach Angaben des Senats statistisch nicht gesondert erfasst werden, kommen noch hinzu.
 
 Vor diesem Hintergrund frage ich den Senat:
 
+## Einleitung für die Antworten des Senats
+
 Seit dem 1. Juni 2016 werden nur die Einrichtungen Bargkoppelstieg/Bargkoppelweg als Zentrale Erstaufnahmeeinrichtung (ZEA) gewertet. Alle anderen Einrichtungen werden als Erstaufnahmeeinrichtungen (EA) bezeichnet.
 
 Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
 
+## Fragen und Antworten
+
+### Frage 1
+
 Wie viele Polizeieinsätze gab es im Dezember 2016 in den Erstaufnahmeeinrichtungen? Bitte für jede Einrichtung jeweils mit Datum, Anlass und Anzahl der eingesetzten Streifenwagen angeben.
+
+#### Antwort zu Frage 1
 
 Die Frage wird auf Grundlage des Hamburger Einsatzleitsystems (HELS) beantwortet. Auf die in der Drs. 21/2108 dargestellten Besonderheiten der Daten des HELS wird hingewiesen. Die Daten sind der Anlage zu entnehmen.
 
@@ -47,34 +54,71 @@ Anlage
 
 1. EA Albert-Einstein-Ring, Albert-Einstein-Ring 1-3
 
-Lfd. Nummer Datum Anlassart Anzahl Streifenwagen 1 15.12.2016 Person vermisst 1 2 19.12.2016 Hausfriedensbruch 1
+Lfd. Nummer  
+Datum  
+Anlassart  
+Anzahl Streifenwagen  
+15.12.2016  
+Person vermisst  
+19.12.2016  
+Hausfriedensbruch
 
-2. ZEA Bargkoppelstieg, Bargkoppelstieg 10-14
-
-Lfd. Nummer Datum Anlassart Anzahl Streifenwagen  
-1 15.12.2016 Wohnungsüberprüfung 1  
-2 23.12.2016 Selbsttötungsversuch 1  
-3 29.12.2016 Ermittlungen 1
+2. ZEA Bargkoppelstieg, Bargkoppelstieg 10-14  
+Lfd. Nummer  
+Datum  
+Anlassart  
+Anzahl Streifenwagen  
+15.12.2016  
+Wohnungsüberprüfung  
+23.12.2016  
+Selbsttötungsversuch  
+29.12.2016  
+Ermittlungen
 
 3. ZEA Bargkoppelweg 60, Bargkoppelweg 60
 
-Lfd. Nummer Datum Anlassart Anzahl Streifenwagen 1 01.12.2016 Auftragsfahrt (Ingewahrsamnahme) 1 2 03.12.2016 Feuerbrandmelder ausgelöst 2 3 28.12.2016 Person zurückgekehrt/zugelaufen 1 4 29.12.2016 Personalienfeststellung 1
+Lfd. Nummer  
+Datum  
+Anlassart  
+Anzahl Streifenwagen  
+01.12.2016  
+Auftragsfahrt (Ingewahrsamnahme)  
+03.12.2016  
+Feuerbrandmelder ausgelöst  
+28.12.2016  
+Person zurückgekehrt/zugelaufen  
+29.12.2016  
+Personalienfeststellung
 
 4. ZEA Bargkoppelweg 66a, Bargkoppelweg 66a
 
-Lfd. Nummer Datum Anlassart Anzahl Streifenwagen  
-1 12.12.2016 Feuerbrandmelder ausgelöst 2  
-2 15.12.2016 Alarmanlage ausgelöst -Überfall- 4  
-3 17.12.2016 Hausfriedensbruch 1  
-4 18.12.2016 Hausfriedensbruch 1  
-5 19.12.2016 Person zurückgekehrt/zugelaufen 1  
-6 19.12.2016 Auftragsfahrt (Personentransport) 1  
-7 21.12.2016 Personenüberprüfung 2  
-8 22.12.2016 Personenüberprüfung 1  
-9 28.12.2016 Diebesgut gefunden 1  
-Auftragsfahrt (Ausweispapiere überge-  
-10 28.12.2016 ben) 1  
-11 30.12.2016 Unfug 1
+Lfd. Nummer  
+Datum  
+Anlassart  
+Anzahl Streifenwagen  
+12.12.2016  
+Feuerbrandmelder ausgelöst  
+15.12.2016  
+Alarmanlage ausgelöst -Überfall-  
+17.12.2016  
+Hausfriedensbruch  
+18.12.2016  
+Hausfriedensbruch  
+19.12.2016  
+Person zurückgekehrt/zugelaufen  
+19.12.2016  
+Auftragsfahrt (Personentransport)  
+21.12.2016  
+Personenüberprüfung  
+22.12.2016  
+Personenüberprüfung  
+28.12.2016  
+Diebesgut gefunden
+
+28.12.2016  
+Auftragsfahrt (Ausweispapiere übergeben)  
+30.12.2016  
+Unfug
 
 5. EA Behrmannplatz, Behrmannplatz 3
 
@@ -90,15 +134,24 @@ Kein Einsatz (z.Zt. nicht belegt)
 
 8. EA Dratelnstraße, Dratelnstraße 15
 
-Lfd. Num- Anzahl Streifenwamer Datum Anlassart gen  
-1 09.12.2016 Schlägerei 2  
-2 10.12.2016 Schlägerei 1  
-Unterstützung für die Ausländer-  
-3 14.12.2016 behörde 1  
-4 16.12.2016 Körperverletzung 1  
-5 17.12.2016 Fahrzeugüberprüfung 1  
-6 21.12.2016 Streit 1  
-7 29.12.2016 Körperverletzung 1
+Lfd. Nummer Datum Anlassart
+
+Anzahl Streifenwagen  
+09.12.2016  
+Schlägerei  
+10.12.2016  
+Schlägerei
+
+14.12.2016  
+Unterstützung für die Ausländerbehörde  
+16.12.2016  
+Körperverletzung  
+17.12.2016  
+Fahrzeugüberprüfung  
+21.12.2016  
+Streit  
+29.12.2016  
+Körperverletzung
 
 9. EA Eißendorfer Pferdeweg (Asklepios Klinik), Eißendorfer Pferdeweg 52
 
@@ -106,84 +159,143 @@ Kein Einsatz
 
 10. EA Fiersbarg, Fiersbarg 8
 
-Lfd. Num- Anzahl Streifenwamer Datum Anlassart gen 1 09.12.2016 Haftbefehl 1 2 30.12.2016 Überprüfung 1
+Lfd. Nummer Datum Anlassart
 
-11. EA Flagentwiet, Flagentwiet 42, 44
+Anzahl Streifenwagen  
+09.12.2016  
+Haftbefehl  
+30.12.2016  
+Überprüfung
 
-Lfd. Num- Anzahl Streifenwamer Datum Anlassart gen  
-Unterstützung für die Auslän-  
-1 07.12.2016 derbehörde 1  
-2 12.12.2016 Streit 1  
-3 20.12.2016 Schlägerei 3  
-Amtshilfe für die Ausländerbe-  
-4 22.12.2016 hörde 2  
-5 30.12.2016 Anzeigenaufnahme 2
+11. EA Flagentwiet, Flagentwiet 42, 44  
+Lfd. Nummer  
+Datum  
+Anlassart
+
+Anzahl Streifenwagen
+
+07.12.2016  
+Unterstützung für die Ausländerbehörde  
+12.12.2016  
+Streit  
+20.12.2016  
+Schlägerei
+
+22.12.2016  
+Amtshilfe für die Ausländerbehörde  
+30.12.2016  
+Anzeigenaufnahme
 
 12. EA Geutensweg, Geutensweg 30
 
-Lfd. Nummer Datum Anlassart Anzahl Streifenwagen  
-1 11.12.2016 Verdächtiges Fahrzeug 1  
-2 13.12.2016 Streit 1  
-3 30.12.2016 Bedrohung 4  
-4 31.12.2016 Streit 1
+Lfd. Nummer  
+Datum  
+Anlassart  
+Anzahl Streifenwagen  
+11.12.2016  
+Verdächtiges Fahrzeug  
+13.12.2016  
+Streit  
+30.12.2016  
+Bedrohung  
+31.12.2016  
+Streit
 
 13. EA Grellkamp, Grellkamp 40
 
-Lfd. Num- Anzahl Streifenwamer Datum Anlassart gen  
-1 03.12.2016 Anzeigenaufnahme 1  
-2 12.12.2016 Streit 4  
-3 15.12.2016 Körperverletzung 1  
-Unterstützung für das Landes-  
-4 18.12.2016 kriminalamt (LKA) 3  
-5 30.12.2016 Sachbeschädigung 1
+Lfd. Nummer Datum Anlassart
 
-14. EA Harburger Poststraße, Neuländer Platz/Harburger Poststraße 1
+Anzahl Streifenwagen  
+03.12.2016  
+Anzeigenaufnahme  
+12.12.2016  
+Streit  
+15.12.2016  
+Körperverletzung
 
-Lfd. Num- Anzahl Streifenwamer Datum Anlassart gen 1 31.12.2016 Feuerbrandmelder ausgelöst 2
+18.12.2016  
+Unterstützung für das Landeskriminalamt (LKA)  
+30.12.2016  
+Sachbeschädigung
 
-15. EA Hellmesbergerweg, Hellmesbergerweg 23
+14. EA Harburger Poststraße, Neuländer Platz/Harburger Poststraße 1  
+Lfd. Nummer  
+Datum  
+Anlassart
 
-Lfd. Num- Anzahl Streifenwamer Datum Anlassart gen  
-1 01.12.2016 Unterstützung für das LKA 1  
-Unterstützung für die Auslän-  
-2 01.12.2016 derbehörde 1  
-3 01.12.2016 Körperverletzung 2  
-4 01.12.2016 Schlägerei 7  
-5 02.12.2016 Person randaliert 1  
-6 17.12.2016 Körperverletzung 3  
-7 22.12.2016 Unterstützung für das LKA 1  
-8 29.12.2016 Körperverletzung 1  
-9 30.12.2016 Körperverletzung 1
+Anzahl Streifenwagen
+31.12.2016 Feuerbrandmelder ausgelöst
+
+15. EA Hellmesbergerweg, Hellmesbergerweg 23  
+Lfd. Nummer  
+Datum  
+Anlassart
+
+Anzahl Streifenwagen
+01.12.2016 Unterstützung für das LKA
+
+01.12.2016  
+Unterstützung für die Ausländerbehörde  
+01.12.2016  
+Körperverletzung  
+01.12.2016  
+Schlägerei  
+02.12.2016  
+Person randaliert  
+17.12.2016  
+Körperverletzung  
+22.12.2016  
+Unterstützung für das LKA  
+29.12.2016  
+Körperverletzung  
+30.12.2016  
+Körperverletzung
 
 16. EA Holstenhofweg, Holstenhofweg 84 a-h
 
-Lfd. Num- Anzahl Streifenwamer Datum Anlassart gen  
-1 29.12.2016 Fahrzeugüberprüfung 1  
-Unterstützung für einen Ret-  
-2 30.12.2016 tungswagen (RTW) 3
+Lfd. Nummer Datum Anlassart
+
+Anzahl Streifenwagen
+29.12.2016 Fahrzeugüberprüfung
+
+30.12.2016 Unterstützung für einen Rettungswagen (RTW)
 
 17. EA Jenfelder Moorpark, Jenfelder Straße 158
 
-Lfd. Num- Anzahl Streifenwamer Datum Anlassart gen  
-Unterstützung für die Auslän-  
-1 05.12.2016 derbehörde 1  
-2 05.12.2016 Unterstützung für das LKA 1  
-3 30.12.2016 Sachbeschädigung 3
+Lfd. Nummer Datum Anlassart
+
+Anzahl Streifenwagen
+
+05.12.2016  
+Unterstützung für die Ausländerbehörde  
+05.12.2016  
+Unterstützung für das LKA  
+30.12.2016  
+Sachbeschädigung
 
 18. EA Karl-Arnold-Ring, Karl-Arnold-Ring 11
 
-Lfd. Num- Anzahl Streifenwamer Datum Anlassart gen  
-1 05.12.2016 Person hilflos 1  
-2 09.12.2016 Streit 1  
-Unterstützung für die Auslän-  
-3 29.12.2016 derbehörde 2
+Lfd. Nummer Datum Anlassart
+
+Anzahl Streifenwagen  
+05.12.2016  
+Person hilflos  
+09.12.2016  
+Streit
+
+29.12.2016 Unterstützung für die Ausländerbehörde
 
 19. EA Kieler Straße, Kieler Straße 433
 
-Lfd. Num- Anzahl Streifenwamer Datum Anlassart gen  
-1 07.12.2016 Überprüfung 1  
-2 08.12.2016 Person randaliert 3  
-3 14.12.2016 Verkehrsunfall 1
+Lfd. Nummer Datum Anlassart
+
+Anzahl Streifenwagen  
+07.12.2016  
+Überprüfung  
+08.12.2016  
+Person randaliert  
+14.12.2016  
+Verkehrsunfall
 
 20. EA Kurdamm, Kurdamm 8
 
@@ -191,11 +303,17 @@ Kein Einsatz
 
 21. EA Niendorfer Straße, Niendorfer Straße 99
 
-Lfd. Num- Anzahl Streifenwamer Datum Anlassart gen  
-1 12.12.2016 Unterstützung für das LKA 1  
-2 15.12.2016 Streit 1  
-3 19.12.2016 Körperverletzung 1  
-4 19.12.2016 Wohnungsüberprüfung 1
+Lfd. Nummer Datum Anlassart
+
+Anzahl Streifenwagen  
+12.12.2016  
+Unterstützung für das LKA  
+15.12.2016  
+Streit  
+19.12.2016  
+Körperverletzung  
+19.12.2016  
+Wohnungsüberprüfung
 
 22. EA Oktaviostraße, Oktaviostraße 96-102
 
@@ -207,102 +325,182 @@ Kein Einsatz
 
 24. EA Osterrade, Osterrade 51
 
-Lfd. Num- Anzahl Streifenwamer Datum Anlassart gen 1 15.12.2016 Anzeigenaufnahme 1
+Lfd. Nummer Datum Anlassart
 
-25. EA Papenreye, Papenreye 1 a
+Anzahl Streifenwagen
+15.12.2016 Anzeigenaufnahme
 
-Lfd. Num- Anzahl Streifenwamer Datum Anlassart gen  
-1 01.12.2016 Person randaliert 2  
-2 01.12.2016 Ermittlungen 1  
-3 23.12.2016 Unterstützung für einen RTW 3
+25. EA Papenreye, Papenreye 1 a  
+Lfd. Nummer  
+Datum  
+Anlassart
 
-26. EA Rahlstedter Grenzweg, Rahlstedter Grenzweg 16
+Anzahl Streifenwagen  
+01.12.2016  
+Person randaliert  
+01.12.2016  
+Ermittlungen  
+23.12.2016  
+Unterstützung für einen RTW
 
-Lfd. Num- Anzahl Streifenwamer Datum Anlassart gen  
-1 03.12.2016 Person randaliert 2  
-2 11.12.2016 Körperverletzung 1  
-3 14.12.2016 Hausfriedensbruch 2
+26. EA Rahlstedter Grenzweg, Rahlstedter Grenzweg 16  
+Lfd. Nummer  
+Datum  
+Anlassart
+
+Anzahl Streifenwagen  
+03.12.2016  
+Person randaliert  
+11.12.2016  
+Körperverletzung  
+14.12.2016  
+Hausfriedensbruch
 
 27. EA Schenefelder Landstraße (Reichspräsident Ebert Kaserne), Schenefelder Landstraße 48
 
 Nicht mehr als EA in Betrieb.
 
-28. EA Neuland I, Schlachthofstraße 20 b
+28. EA Neuland I, Schlachthofstraße 20 b  
+Lfd. Nummer  
+Datum  
+Anlassart
 
-Lfd. Num- Anzahl Streifenwamer Datum Anlassart gen  
-1 03.12.2016 Schlägerei 4  
-2 05.12.2016 Sexualdelikt 2  
-3 05.12.2016 Streit 1  
-4 06.12.2016 Streit 1  
-5 14.12.2016 Streit 1  
-6 23.12.2016 Verdächtige Person 5  
-7 24.12.2016 Personenüberprüfung 1  
-8 30.12.2016 Personenüberprüfung 1  
-9 30.12.2016 Umweltdelikt 1
+Anzahl Streifenwagen  
+03.12.2016  
+Schlägerei  
+05.12.2016  
+Sexualdelikt  
+05.12.2016  
+Streit  
+06.12.2016  
+Streit  
+14.12.2016  
+Streit  
+23.12.2016  
+Verdächtige Person  
+24.12.2016  
+Personenüberprüfung  
+30.12.2016  
+Personenüberprüfung  
+30.12.2016  
+Umweltdelikt
 
-29. EA Neuland II, Schlachthofstraße 3
+29. EA Neuland II, Schlachthofstraße 3  
+Lfd. Nummer  
+Datum  
+Anlassart
 
-Lfd. Num- Anzahl Streifenwamer Datum Anlassart gen  
-1 12.12.2016 Unterstützung für das LKA 1  
-2 15.12.2016 Selbsttötungsversuch 1  
-Amtshilfe für die Ausländerbe-  
-3 20.12.2016 hörde 1  
-4 21.12.2016 Unterstützung für das LKA 2  
-5 31.12.2016 Hausfriedensbruch 1
+Anzahl Streifenwagen  
+12.12.2016  
+Unterstützung für das LKA  
+15.12.2016  
+Selbsttötungsversuch
+
+20.12.2016  
+Amtshilfe für die Ausländerbehörde  
+21.12.2016  
+Unterstützung für das LKA  
+31.12.2016  
+Hausfriedensbruch
 
 30. EA Schmiedekoppel, Schmiedekoppel 29, 30
 
-Lfd. Num- Anzahl Streifenwamer Datum Anlassart gen  
-1 10.12.2016 Ermittlungen 1  
-2 11.12.2016 Schlägerei 10  
-3 12.12.2016 Unterstützung 1  
-4 12.12.2016 Anzeigenaufnahme 4  
-5 13.12.2016 Körperverletzung 1  
-6 20.12.2016 Bedrohung mit Waffe 9
+Lfd. Nummer Datum Anlassart
+
+Anzahl Streifenwagen  
+10.12.2016  
+Ermittlungen  
+11.12.2016  
+Schlägerei  
+12.12.2016  
+Unterstützung  
+12.12.2016  
+Anzeigenaufnahme  
+13.12.2016  
+Körperverletzung  
+20.12.2016  
+Bedrohung mit Waffe
 
 31. EA Schnackenburgallee, Schnackenburgallee 81-83
 
-Lfd. Num- Anzahl Streifenwamer Datum Anlassart gen  
-Unterstützung für die Ausländer-  
-1 01.12.2016 behörde 4  
-2 01.12.2016 Unterstützung für das LKA 2  
-3 02.12.2016 Diebesgut gefunden 1  
-4 03.12.2016 Hilfeersuchen 1  
-5 04.12.2016 Hausfriedensbruch 1  
-6 09.12.2016 Hausfriedensbruch 1  
-Unterstützung für die Ausländer-  
-7 12.12.2016 behörde 2  
-8 18.12.2016 Schlägerei 2  
-9 22.12.2016 Unterstützung für das LKA 1  
-10 27.12.2016 Selbsttötungsversuch 2  
-11 30.12.2016 Anzeigenaufnahme 1  
-12 30.12.2016 Verdächtige Person 1  
-13 30.12.2016 Person gesucht 1
+Lfd. Nummer Datum Anlassart
 
-32. EA Schwarzenbergstraße, Schwarzenbergstraße 87, 91, Schwarzenberg
+Anzahl Streifenwagen
 
-Lfd. Num- Anzahl Streifenwamer Datum Anlassart gen  
-1 01.12.2016 Hausfriedensbruch 1  
-2 18.12.2016 Körperverletzung 2  
-3 26.12.2016 Körperverletzung 1  
-4 31.12.2016 Anzeigenaufnahme 1
+01.12.2016  
+Unterstützung für die Ausländerbehörde  
+01.12.2016  
+Unterstützung für das LKA  
+02.12.2016  
+Diebesgut gefunden  
+03.12.2016  
+Hilfeersuchen  
+04.12.2016  
+Hausfriedensbruch  
+09.12.2016  
+Hausfriedensbruch
+
+12.12.2016  
+Unterstützung für die Ausländerbehörde  
+18.12.2016  
+Schlägerei  
+22.12.2016  
+Unterstützung für das LKA  
+27.12.2016  
+Selbsttötungsversuch  
+30.12.2016  
+Anzeigenaufnahme  
+30.12.2016  
+Verdächtige Person  
+30.12.2016  
+Person gesucht
+
+32. EA Schwarzenbergstraße, Schwarzenbergstraße 87, 91, Schwarzenberg  
+Lfd. Nummer  
+Datum  
+Anlassart
+
+Anzahl Streifenwagen  
+01.12.2016  
+Hausfriedensbruch  
+18.12.2016  
+Körperverletzung  
+26.12.2016  
+Körperverletzung  
+31.12.2016  
+Anzeigenaufnahme
 
 33. EA Sportallee, Sportallee 70/Heselstücken 15+28
 
-Lfd. Num- Anzahl Streifenwamer Datum Anlassart gen 1 09.12.2016 Körperverletzung 1
+Lfd. Nummer Datum Anlassart
 
-34. EA Vogt-Kölln-Straße, Vogt-Kölln-Straße 30, 32
+Anzahl Streifenwagen
+09.12.2016 Körperverletzung
 
-Lfd. Num- Anzahl Streifenwamer Datum Anlassart gen  
-1 01.12.2016 Unterstützung für das LKA 1  
-2 10.12.2016 Betäubungsmitteldelikt 1  
-3 11.12.2016 Betäubungsmitteldelikt 1  
-4 11.12.2016 Überprüfung 4  
-5 14.12.2016 Betäubungsmitteldelikt 1  
-6 15.12.2016 Betäubungsmitteldelikt 2  
-7 20.12.2016 Betäubungsmitteldelikt 1  
-8 26.12.2016 Anzeigenaufnahme 1  
-9 28.12.2016 Anzeigenaufnahme 1
+34. EA Vogt-Kölln-Straße, Vogt-Kölln-Straße 30, 32  
+Lfd. Nummer  
+Datum  
+Anlassart
+
+Anzahl Streifenwagen  
+01.12.2016  
+Unterstützung für das LKA  
+10.12.2016  
+Betäubungsmitteldelikt  
+11.12.2016  
+Betäubungsmitteldelikt  
+11.12.2016  
+Überprüfung  
+14.12.2016  
+Betäubungsmitteldelikt  
+15.12.2016  
+Betäubungsmitteldelikt  
+20.12.2016  
+Betäubungsmitteldelikt  
+26.12.2016  
+Anzeigenaufnahme  
+28.12.2016  
+Anzeigenaufnahme
 
 35. EA Wendenstraße, Wendenstraße 162
 

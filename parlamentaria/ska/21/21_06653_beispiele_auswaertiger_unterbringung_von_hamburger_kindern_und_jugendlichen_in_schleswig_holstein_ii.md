@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2013", "21/4118", "21/4798"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55191"
@@ -204,7 +205,7 @@ HH-Mitte
 
 Bitte in gleicher Form die Platzzahlen für die Heilpädagogische Kinderund Jugendhilfe Dithmarschen in Dörpling angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/4118.
 
@@ -341,7 +342,7 @@ Bitte die derzeitigen Zielgruppen für die Einrichtungen des Therapiezentrums Ri
 
 Zu den Mitarbeitern/-innen und Fachkräften in den Einrichtungen Therapiezentrum Rimmelsberg und Heilpädagogischen Kinder-und Jugendhilfe Dithmarschen: a. Wie viele Mitarbeiter/-innen sind in den Einrichtungen Rimmelsberg und Dörpling angestellt? Bitte Gesamtzahl der Beschäftigten und Vollzeitäquivalente getrennt nach den Einrichtungen angeben. b. Wie viele davon sind Frauen? Wie viele Mitarbeiter/-innen davon sind ausgebildete Sozialpädagogen/-innen, wie viele Erzieher/ -innen, wie viele haben andere pädagogische Qualifikationen? Jeweils für die beiden Träger tabellarisch getrennt voneinander unter Nennung der jeweiligen pädagogischen Qualifikation oder anderer Qualifikationen aufführen. Bitte die entsprechende Fachkräftequote nennen.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Drs. 21/4118.
 

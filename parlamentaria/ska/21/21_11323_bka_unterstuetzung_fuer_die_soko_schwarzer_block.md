@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 19
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10009"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60316"
@@ -113,11 +114,11 @@ Welche Art von personellen und sachlichen Unterstützungsbedarfe wird über die 
 
 Nach Kenntnis der Polizei Hamburg hat die Koordinierungsstelle folgende Aufgaben:
 
- Koordinierung der Personalgestellung des BKA für die SoKo „Schwarzer Block“,
+– Koordinierung der Personalgestellung des BKA für die SoKo „Schwarzer Block“,
 
- Gewährleistung erforderlicher Auslandskoordinierungen und
+– Gewährleistung erforderlicher Auslandskoordinierungen und
 
- Bereitstellung/Koordinierung von Serviceleistungen des BKA.
+– Bereitstellung/Koordinierung von Serviceleistungen des BKA.
 
 ### Frage 10
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68329"
@@ -43,7 +44,7 @@ Welche Erkenntnisse haben der Senat oder die zuständige Behörde seit jeweils w
 
 Jeweils welchen endokrin aktiven Substanzen beziehungsweise Umwelthormonen ist ein Hamburger Verbraucher aktuell jeweils wie und mit jeweils welchen (möglichen) Folgen ausgesetzt? Bitte nach jeweiliger Substanz und Verbreitungsart gesondert detailliert erläutern.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zu den hier angefragten sogenannten Umwelthormonen wird zunächst zur Hintergrundinformation auf die Ausführungen des Umweltbundesamtes zu endokrinen Disruptoren verwiesen, abrufbar unter https://www.umweltbundesamt.de/endokrinedisruptoren#textpart-1.
 
@@ -79,6 +80,6 @@ Welche Maßnahmen haben der Senat oder die zuständige Behörde seit dem 1. Janu
 
 Welche Maßnahmen haben der Senat oder die zuständige Behörde seit dem 1. Januar 2018 jeweils wann ergriffen, um die Hamburger Bevölkerung über die Existenz, Verbreitung und Folgen jeweils welcher endokrin aktiver Substanzen beziehungsweise Umwelthormone aufzuklären? Bitte bei Unterschieden nach jeweiliger Substanz und Verbreitungsart gesondert detailliert erläutern.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die mögliche Belastung der Verbraucherinnen und Verbraucher in Hamburg unterscheidet sich im Grundsatz nicht von der anderer EU-Bürger, da die Zulassung von Stoffen zur Herstellung von Bedarfsgegenständen wie zum Beispiel Lebensmittelkontaktmaterialien oder Spielzeug, zur Herstellung von Kosmetika, zur Verwendung als Pestizide oder Biozide auf EU-Ebene erfolgt. Im Übrigen siehe Antwort zu 1. und 2.

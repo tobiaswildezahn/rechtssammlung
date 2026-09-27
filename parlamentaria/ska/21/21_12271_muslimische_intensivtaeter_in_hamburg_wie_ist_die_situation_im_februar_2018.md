@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61544"
@@ -53,25 +54,25 @@ Der Anteil der nicht deutschen TV an allen TV mit Gewaltdelikten betrug für das
 
 Gewaltkriminalität wird in der PKS mit dem Summenschlüssel 892000 dargestellt. Anders als in Fußnote 6 der Anfrage beschrieben, enthält er folgende Straftatenschlüssel oder Deliktsbereiche:
 
- Mord (PKS-Schlüssel 01****)
+– Mord (PKS-Schlüssel 01****)
 
- Totschlag und Tötung auf Verlangen (PKS-Schlüssel 0200**)
+– Totschlag und Tötung auf Verlangen (PKS-Schlüssel 0200**)
 
- Vergewaltigung/sexuelle Nötigung (PKS-Schlüssel 111***)
+– Vergewaltigung/sexuelle Nötigung (PKS-Schlüssel 111***)
 
- Raub, räuberische Erpressung und räuberischer Angriff auf Kraftfahrer (PKS-
+– Raub, räuberische Erpressung und räuberischer Angriff auf Kraftfahrer (PKS-
 
 Schlüssel 21****)
 
- Körperverletzung mit Todesfolge (PKS-Schlüssel 2210**)
+– Körperverletzung mit Todesfolge (PKS-Schlüssel 2210**)
 
- Gefährliche und schwere Körperverletzung (PKS-Schlüssel 222***)
+– Gefährliche und schwere Körperverletzung (PKS-Schlüssel 222***)
 
- Erpresserischer Menschenraub (PKS-Schlüssel 233***)
+– Erpresserischer Menschenraub (PKS-Schlüssel 233***)
 
- Geiselnahme (PKS-Schlüssel 234***)
+– Geiselnahme (PKS-Schlüssel 234***)
 
- Angriff auf den Luft- und Seeverkehr (PKS-Schlüssel 235000)
+– Angriff auf den Luft- und Seeverkehr (PKS-Schlüssel 235000)
 
 Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
 

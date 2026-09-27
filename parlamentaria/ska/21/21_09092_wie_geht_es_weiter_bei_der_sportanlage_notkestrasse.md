@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7486"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57851"
@@ -75,7 +76,7 @@ Wie ist der Planungs- beziehungsweise Umsetzungsstand für den Bau der Sporthall
 
 Wie hoch sind die Kosten für die Maßnahme?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Planung ist noch nicht abgeschlossen. Die Groß Flottbeker Spvg. v. 1912 e.V. stellte 2016 einen Fördermittelantrag. Dieser wird derzeit vom Hamburger Sportbund e.V. (HSB) geprüft.
 

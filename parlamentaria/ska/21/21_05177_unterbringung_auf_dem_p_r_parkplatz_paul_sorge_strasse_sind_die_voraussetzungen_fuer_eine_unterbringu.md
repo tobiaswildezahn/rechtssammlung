@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3258", "21/4940", "21/4925"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53655"
@@ -75,6 +76,6 @@ Gibt es Planungen, die Bewohner dieser Unterkünfte zeitnah auf reguläre Stando
 
 Wie dringlich schätzt der Senat das Anliegen ein, hier den ursprünglichen Zustand wieder herzustellen und die, nur in absoluten Notsituationen zu tolerierenden, Abweichungen von gültigen Bebauungsplänen zu beenden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antworten zu 1. und 3.

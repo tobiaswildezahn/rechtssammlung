@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9863"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61168"
@@ -70,7 +71,7 @@ Gibt es eine Erhebung über erstinstanzliche Urteile, die die Hamburger Mietprei
 
 Gibt es eine Erhebung über erstinstanzliche Urteile, die andere deutsche Mietpreisbegrenzungsverordnung für nichtig erklären? Wenn ja, bitte die Erhebung als Anlage beifügen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nein.
 

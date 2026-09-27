@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 20
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13124", "20/10337"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48410"
@@ -106,7 +107,7 @@ Gibt es bezüglich der unter Punkt II. 3. der Drs. 20/13124 dargestellten Sichtu
 
 Wurde seit dem Bericht vom 23.09.2014 (Drs. 20/13124) seitens der Vertragsparteien von der Möglichkeit den Feststellungen der Sachverständigen gemäß Ziffer 1.5.1 b) Neuordnungsvereinbarung zu widersprechen Gebrauch gemacht? Wenn ja, von wem und bezüglich welcher Punkte und in welchem Umfang (bitte genau darstellen)? Welche Auswirkungen hat dies auf das Projekt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Nein.
 

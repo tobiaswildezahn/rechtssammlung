@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15568"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65828"
@@ -98,11 +99,11 @@ Wie viele Quartiere mit mehr als 500 Wohneinheiten (WE) wurden in den letzten vi
 
 Im Bezirk Altona sind drei Quartiere mit mehr als 500 Wohneinheiten in Planung:
 
- Neue Mitte Altona, Baubeginn des ersten Entwicklungsabschnitts in 2016
+– Neue Mitte Altona, Baubeginn des ersten Entwicklungsabschnitts in 2016
 
- Holsten Areal, Baubeginn offen
+– Holsten Areal, Baubeginn offen
 
- Kolbenschmidt, Baubeginn offen
+– Kolbenschmidt, Baubeginn offen
 
 ### Frage 4
 

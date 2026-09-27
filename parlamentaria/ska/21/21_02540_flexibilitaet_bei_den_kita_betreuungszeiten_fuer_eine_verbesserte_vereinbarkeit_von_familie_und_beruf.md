@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9335", "20/13713", "20/14067"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50836"
@@ -51,7 +52,7 @@ Inwieweit wurden die Beschlüsse der Hamburgischen Bürgerschaft zur Flexibilisi
 
 Welche weiteren Schritte zu einer Flexibilisierung der Betreuungszeiten im Elementarbereich wurden unternommen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Flexibilisierung der Betreuungszeiten im Elementarbereich erfordert eine entsprechende Vereinbarung im „Landesrahmenvertrag Kinderbetreuung in Tageseinrichtungen“ und wurde von der für Kindertagesbetreuung zuständigen Behörde in die Verhandlungen zum neuen Landesrahmenvertrag eingebracht. Die Verhandlungen sind noch nicht abgeschlossen.
 
@@ -63,7 +64,7 @@ Wie erfasst der Senat die Bedarfe der Familien bei den Kita-Betreuungszeiten? Mi
 
 Wie erfasst der Senat Veränderungen bei den Bedarfen bei den Kita- Betreuungszeiten? Mit welchen Ergebnissen in den letzten fünf Jahren? Bitte aufschlüsseln nach Elementar- und Krippenbereich.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Senat erfasst die individuellen Bedarfe der Familien nicht. Das nachfrageorientierte Hamburger Kita-Gutschein-System ist darauf ausgerichtet, dass die Strukturen der Angebote in der Kindertagesbetreuung auch hinsichtlich der Betreuungszeiten sich an der Nachfrage der Familien orientieren und fortentwickeln. Die Träger der Tageseinrichtungen passen mit ihrer viel genaueren Kenntnis der örtlichen Bedarfslagen eigenverantwortlich die bestehenden Angebotsstrukturen in ihren Tageseinrichtungen an.
 

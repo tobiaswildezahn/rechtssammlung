@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["16/3909"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51673"
@@ -99,9 +100,9 @@ Mit welchen Fahrzeiten kann für die Relation Harburg – Jungfernstieg mit S3 o
 
 Mit folgenden Fahrzeiten ist zu rechnen:
 
- voraussichtliche Fahrzeit Harburg – Jungfernstieg mit S3 17,5 Minuten
+– voraussichtliche Fahrzeit Harburg – Jungfernstieg mit S3 17,5 Minuten
 
- voraussichtliche Fahrzeit Harburg – Jungfernstieg mit S3 und U4 (inklusive
+– voraussichtliche Fahrzeit Harburg – Jungfernstieg mit S3 und U4 (inklusive
 
 Umstieg Elbbrücken)
 

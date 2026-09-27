@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1364", "21/12825", "21/10085"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65321"
@@ -85,15 +86,15 @@ Im Haus der Gewerkschaft Erziehung und Wissenschaft (Landesverband Hamburg, Curi
 
 ## Einleitung für die Antworten des Senats
 
- Am 14. November 2018 veranstaltet die vom Hamburger Landesamt für
+– Am 14. November 2018 veranstaltet die vom Hamburger Landesamt für
 
 Verfassungsschutz im Bericht 2016 als linksextremistisch eingestufte und den „orthodoxen Kommunisten“ zugerechnete Gruppe „Marxistische Abendschule MASCH e.V.“ eine Veranstaltung unter dem Titel „Alle gegen alle. Die aktuellen Konflikte zwischen den großen Mächten und die Kriegsgefahr“ im Curiohaus (Rothenbaumchaussee 15). Seit 1948 ist das Curiohaus Eigentum und Sitz des Landesverbands Hamburg der Gewerkschaft Erziehung und Wissenschaft.
 
- Am 4. März 2017 veranstaltete die vom Hamburger Landesamt für Ver-
+– Am 4. März 2017 veranstaltete die vom Hamburger Landesamt für Ver-
 
 fassungsschutz im Bericht 2016 als linksextremistisch eingestufte und den „orthodoxen Kommunisten“ zugerechnete Gruppe „Marxistische Abendschule – MASCH e.V.“ einen Vortrag zum Thema „Der mörderische Krieg in Syrien“ im Curiohaus (Rothenbaumchaussee 15).
 
- Regelmäßig finden im Curiohaus (Rothenbaumchaussee 15) sogenannte
+– Regelmäßig finden im Curiohaus (Rothenbaumchaussee 15) sogenannte
 
 Stammtischkämpfer/-innen-Ausbildungs-Seminare des von verschiedenen Landesämtern für Verfassungsschutz aufgeführten linksextremistisch beeinflussten Bündnisses „Aufstehen gegen Rassismus“ statt.
 
@@ -117,13 +118,13 @@ Der stellvertretende Landesvorsitzende der GEW Hamburg, Fredrik Dehnerdt, gehör
 
 Immer wieder beteiligen sich Vertreter der GEW Hamburg (zumeist unter Benutzung ihres Erkennungszeichens) an Demonstrationen des (extrem) linken Spektrums, an denen auch linksextremistische, zum Teil auch gewaltorientierte linksextremistische Gruppierungen, teilnehmen. Öffentliche Distanzierungen der GEW Hamburg gegenüber linksextremistischen Gruppierungen sind nicht bekannt. Abschließend sollen exemplarisch noch zwei Hamburger Veranstaltungen der letzten beiden Jahre aufgeführt werden, an denen die GEW Hamburg sowie mehrere linksextremistische Gruppierungen mit erheblichem Einfluss beteiligt waren:
 
- Am 2. September 2018 fand in Hamburg die Demonstration „Seebrücke“
+– Am 2. September 2018 fand in Hamburg die Demonstration „Seebrücke“
 
 statt. Auf der Abschlusskundgebung auf dem Rathausmarktplatz sprachen an gleicher Stelle mit weitergereichtem Mikrophon unter anderem Christiane Schneider (Vizepräsidentin der Hamburgischen Bürgerschaft, DIE LINKE), Anna Gallina (Vorsitzende der GRÜNEN Hamburg) und Emily Laquer (Sprecherin Interventionistische Linke Deutschland). Auch unter den Teilnehmern wurden mehrere Fahnen der Parteien DIE LINKE und der GRÜNEN sowie weiterer Parteien/Parteiorganisationen (Piraten, Grüne Jugend, Sozialistische Linke (SoL)), Gewerkschaften und Organisationen aus dem (extrem) linken Spektrum geschwenkt, darunter unter anderem Fahnen in der ersten Reihe des Demonstrationszuges von der linksextremistischen SAV (Sozialistische Alternative), der linksextremen Türkischen Kommunistischen Partei/Marxisten-Leninisten (ATIK), dem linksextremen Kommunistischen Jugendverband (KJV), der DKP und der DIDF (Föderation der Demokratischen Arbeitervereine, türkisch: Demokratik İşçi Dernekleri Federasyonu). Die Organisatoren der Marktplatzkundgebung nennen in einem Videomitschnitt unter Beifall des Publikums folgende Unterstützer des Bündnisses „Seebrücke“: „AStA Universität Hamburg, Antifa Altona-Ost, Bündnis 90/Die Grünen, Caritas Hamburg, Paritätischer Wohlfahrtsverband Hamburg, DGB Hamburg, Diako-
 
 nie Hamburg, DIE LINKE Hamburg, FC St. Pauli, GEW, Hinz und Kunz, Interventionistische Linke, Jugend rettet, Mission Lifeline, Piraten Hamburg, Sea-Eye, Sea-Watch, Seemannsmission Hamburg Altona e.V., SOS Mediterranae, Welcome united (…)“. Bereits vor der Demonstration wurde die Veranstaltung auf der offiziellen Facebookseite www.facebook.com/seebrueckehamburg/ (mutmaßlich betrieben von den Organisatoren/Anmeldern der Demonstration) beworben und explizit auch auf die Teilnahme der Rednerin Emily Laquer von der Interventionistischen Linken hingewiesen. Auf dem offiziellen Twitter-Account https://twitter.com/seebrueckehh?lang=de (ebenfalls mutmaßlich betrieben von den Organisatoren/Anmeldern der Demonstration) werden Beiträge der Interventionistischen Linken Hamburg und der Sprecherin Emily Laquer retweetet. Unter anderem folgende Parteien oder Fraktionen riefen auf ihren Facebook- oder Twitter-Accounts zur Teilnahme an der Demonstration „Seebrücke“ auf und/oder berichteten von ihrer Teilnahme: DIE LINKE Landesverband Hamburg, Fraktion DIE LINKE in der Hamburgischen Bürgerschaft, Grüne Landesverband Hamburg und Bürgerschaftsfraktion, Grüne Jugend Hamburg, einzelne hochrangige Vertreter der Partei DIE LINKE und GRÜNE.
 
- Am 5. und 6. Juli 2017 fand auf dem Gelände des öffentlich geförderten
+– Am 5. und 6. Juli 2017 fand auf dem Gelände des öffentlich geförderten
 
 Kunstprojektes Kampnagel der „Gipfel für globale Solidarität“ statt. Unter dem Aufruf zum Gipfel befinden sich unter anderem folgende linksextremistische oder linke Unterstützergruppen: Interventionistische Linke, linksjugend [’solid], Föderation demokratischer Arbeitervereine (DIDF), Rosa-Luxemburg-Stiftung, Heinrich-Böll-Stiftung, GEW Hamburg, ver.di Jugend Hamburg, DGB-Jugend Hamburg. Im offiziellen Programm werden auch folgende Workshops unter Leitung linksextremistischer oder extrem linker Organisationen angekündigt: „Resilienzkapitalismus – Ein politisch-ökonomisches Konzept in Zeiten der Unsicherheit“, Veranstalter: Interventionistische Linke Münster; „Das Gesundheitssystem vergesellschaften“, Veranstalter: unter anderem Interventionistische Linke; Queerfeministische Ökonomiekritik, Veranstalter: FAntifa-Gruppe aus Berlin; „Aktionstraining“, Veranstalter: Interventionistische Linke; „Ein alternatives Gesellschaftskonzept“, Veranstalter: NAV-DEM; „Alternativen zu G20? Über Sozialismus und Rätedemokratie“, Veranstalter: Sozialisti-
 
@@ -165,7 +166,7 @@ Hatte die Behörde für Schule und Berufsbildung im Vorfeld der Demonstration Er
 
 Wurde in den behördlichen Räumlichkeiten der BSB, im Landesinstitut für Lehrerbildung und Schulentwicklung oder in der Landeszentrale für politische Bildung Hamburg für die Demonstration geworben oder darauf verwiesen? Bitte umfassend die Art der Bewerbung darlegen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nein.
 
@@ -177,7 +178,7 @@ An welchen Hamburger Schulen wurde durch wen, mit welchen Materialien (Plakate, 
 
 An welchen Schulen wurden Demonstrationsaufrufe darüber hinaus auch gegenüber Lerngruppen kommuniziert?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Da die erfragten Daten weder von der für Bildung zuständigen Behörde noch von den Schulen statistisch erfasst werden, wurde eine Abfrage an allen 341 staatlichen allgemeinbildenden Schulen durchgeführt.
 
@@ -195,7 +196,7 @@ Wie haben sich verbeamtete Lehrer der Freien und Hansestadt Hamburg gemäß § 3
 
 Wie haben sich verbeamtete Lehrer der Freien und Hansestadt Hamburg gemäß § 33 Beamtenstatusgesetz (BeamtStG) zu verhalten, wenn sie an einer Demonstration teilnehmen, auf der gleichzeitig und in unmittelbarer Nähe verschiedene Gruppierungen, die vom Bundes- oder von einzelnen Landesämtern für Verfassungsschutz als offen rechtsextremistisch eingestuft werden, unter sichtbarer Benutzung ihrer Erkennungszeichen, demonstrieren?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Auch bei einer Demonstrationsteilnahme sind die beamtenrechtlichen Pflichten (Treuepflicht, Neutralitätspflicht, Mäßigungspflicht) nach § 33 des Gesetzes zur Regelung des Statusrechts der Beamtinnen und Beamten in den Ländern zu befolgen. Im Übrigen siehe Drs. 21/12825.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2275"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55878"
@@ -39,17 +40,17 @@ Die verkaufsoffenen Sonntage nach § 8 des Hamburgischen Ladenöffnungsgesetzes 
 
 Die konkretisierende höchstrichterliche Rechtsprechung des Bundesverwaltungsgerichts vom 11. November 2015 (Az.: 8 CN 2.14) hat Relevanz für die Anwendung des § 8 Absatz 1 HmbLÖffG. Danach sind die Bezirksämter gehalten, die räumliche Wirkung einer Veranstaltung sowie die Art und Ausstrahlung des besonderen Ereignisses auf das Umfeld zu beurteilen. Dabei geht es um die Beschreibung/Charakterisierung der Veranstaltung mit den wesentlichen Parametern:
 
- Veranstaltung/Anlass,
+– Veranstaltung/Anlass,
 
- Veranstalter/-in,
+– Veranstalter/-in,
 
- Ort der Veranstaltung,
+– Ort der Veranstaltung,
 
- erwartete Besucherzahl,
+– erwartete Besucherzahl,
 
- gewünschter Bereich der Rechtsverordnung und
+– gewünschter Bereich der Rechtsverordnung und
 
- sonstige Hinweise/Erläuterungen.
+– sonstige Hinweise/Erläuterungen.
 
 Die Bezirksämter haben den Akteuren hierzu unter anderem Informationsveranstaltungen und Gespräche angeboten sowie in Informationsschreiben über die aktualisierte Rechtsprechung aufgeklärt. Dazu wurde zur Verfahrenserleichterung den Akteuren
 
@@ -91,35 +92,35 @@ Wie viele Anträge haben BWVI und/oder andere zuständige Stellen wie Bezirksäm
 
 Für welche Bereiche, Gebiete wurden die Anträge für Januar 2017 bisher gestellt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Es sind 23 Vorschläge beziehungsweise Anregungen für eine Ladenöffnung aus Anlass konkreter Veranstaltungen für den 29. Januar 2017 eingegangen. Diese betreffen folgende Bereiche beziehungsweise Gebiete:
 
- die Innenstadt innerhalb des Wallrings (Steintorwall, Glockengießerwall, Esplana-
+– die Innenstadt innerhalb des Wallrings (Steintorwall, Glockengießerwall, Esplana-
 
 de, Caffamacherreihe bis Graskeller, Willy-Brandt-Straße bis Klosterwall), den Überseeboulevard in der HafenCity, das Billstedt-Center, die Straßen Lange Reihe, Koppel, Greifswalder Straße, Soester Straße, Danziger Straße und Schmilinskystraße
 
- Osterstraße, Stellinger Weg, Heußweg 25 – 60, Fanny-Mendelssohn-Platz, Tibarg,
+– Osterstraße, Stellinger Weg, Heußweg 25 – 60, Fanny-Mendelssohn-Platz, Tibarg,
 
 Paul-Sorge-Straße 5, Wendlohstraße 13, Zum Markt 1, Holsteiner Chaussee 130 und Wunderbrunnen 1
 
- ausgehend vom Johann-Adolf-Hasse-Platz im näheren Umkreis zuzüglich Unterer
+– ausgehend vom Johann-Adolf-Hasse-Platz im näheren Umkreis zuzüglich Unterer
 
 Landweg 77
 
- Lüneburger Straße, Lüneburger Tor, Bremer Straße, Seevepassage, Herbert-
+– Lüneburger Straße, Lüneburger Tor, Bremer Straße, Seevepassage, Herbert-
 
 Wehner-Platz, Hölertwiete sowie Seeveplatz 1, Schloßmühlendamm 2, Hannoversche Straße 86, Großmoorbogen 6, 17 bis 19
 
- Shopping-Center Hamburger Meile, Mundsburg-Center, die Straßenzüge Mühlen-
+– Shopping-Center Hamburger Meile, Mundsburg-Center, die Straßenzüge Mühlen-
 
 kamp, Gertigstraße, Poelchaukamp, Semperstraße, Peter-Marquard-Straße, Preystraße, Schinkelstraße, Forsmannstraße, Geibelstraße, Goldbekplatz und Dorotheenstraße, Eichenlohweg 17
 
- Elbe-Einkaufszentrum – Centergebäude, Osdorfer Landstraße 131, IKEA Einrich-
+– Elbe-Einkaufszentrum – Centergebäude, Osdorfer Landstraße 131, IKEA Einrich-
 
 tungshaus Altona, Große Bergstraße 164 sowie eine Aktionsfläche vor dem Eingangsbereich, Mercado und das angrenzenden Geschäftshaus Ottensen, Ottenser Hauptstraße 2 – 10, Media Markt – Geschäftsgebäude im Bahnhof Altona, Paul- Nevermann-Platz 15
 
- ECE Alstertal Einkaufszentrum Kritenbarg/Heegbarg bis zum Saseler Damm,
+– ECE Alstertal Einkaufszentrum Kritenbarg/Heegbarg bis zum Saseler Damm,
 
 Marktplatzgalerie Bramfeld, Bramfelder Chaussee 230, Einkaufscenter Quarree, Wandsbeker Marktstraße zwischen Brauhausstraße und Ring 2, Schloßstraße von Wandsbeker Marktstraße bis zum Ring 2, Einkaufszentrum Farmsen, Berner Heerweg 175, Roller GmbH, Poppenbütteler Weg 15 – 21, Kabs PolsterWelt Wandsbek GmbH, Walddörferstraße 140
 

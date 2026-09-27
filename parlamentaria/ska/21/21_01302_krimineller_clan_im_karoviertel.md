@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49471"
@@ -81,7 +82,7 @@ Welche Ermittlungsverfahren gegen die betreffenden Personen bestanden beziehungs
 
 Zu welchen strafrechtlichen Verurteilungen der betreffenden Personen ist es bislang gekommen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Im Hinblick auf das Persönlichkeitsrecht der Betroffenen und die gesetzlichen Wertungen des Bundeszentralregistergesetzes sieht der Senat davon ab, etwaige Strafverfahren mitzuteilen, die zu einem Abschluss geführt haben, der entweder nicht in ein Führungszeugnis aufzunehmen oder nach den Tilgungsvorschriften des Bundeszentralregistergesetzes nicht mehr zu berücksichtigen ist. Unter dieser Maßgabe werden für die betreffenden Personen folgende rechtskräftige Verurteilungen mitgeteilt:
 

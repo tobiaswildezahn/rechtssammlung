@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 32
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5704"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57481"
@@ -75,7 +76,7 @@ Bis wann müssen die Räumlichkeiten des Cafés im Bergedorfer Schloss geräumt 
 
 Welche Ausstattung darf beziehungsweise muss nach der Räumung in den Räumlichkeiten verbleiben und insbesondere was passiert mit der Küche und dem eingebauten Inventar des „Café Möller“ auch in puncto Denkmalschutz?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die denkmalgeschützte Einrichtung des „Café Möller“ wurde dem Bergedorfer Schloss per Schenkungsvertrag vom 1. Mai 1991 zur Café-Nutzung überlassen und umfasst außer dem eingebauten Inventar auch die gesamte Einrichtung und Gebrauchsutensilien wie Geschirr und Backstubengegenstände. Veränderungen unterliegen dem Genehmigungsvorbehalt des Denkmalschutzamtes. Die Nutzungsrechte liegen beim Bezirksamt, das gesamte Inventar muss daher im Museum verbleiben.
 
@@ -145,6 +146,6 @@ Ist es zutreffend, dass die Leiterin der Bergedorfer Museumslandschaft den Verei
 
 Möchte die Leiterin der Bergedorfer Museumslandschaft das Café im Bergedorfer Schloss zugunsten von Beratungs- und Tagungsräumen aufgeben? Wenn ja, wie verhält sich das Bezirksamt beziehungsweise die Kulturbehörde dazu? Wenn nein, gibt es sonstige Alternativpläne zu einer gastronomischen Nutzung des „Schlosscafés“?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Nein. Die Überlegungen zur Nutzung der Räumlichkeiten im Bergedorfer Schloss sind noch nicht abgeschlossen. Im Übrigen siehe Antwort zu 7. bis 11.

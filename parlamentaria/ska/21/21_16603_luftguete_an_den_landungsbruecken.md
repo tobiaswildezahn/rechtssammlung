@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12903", "21/5797", "21/11567"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66139"
@@ -97,7 +98,7 @@ In Drs. 21/12903 heißt es: „Erkenntnisse sollen genutzt werden um die private
 
 Mit wie vielen und gegebenenfalls welchen Reedereien wurden Zielvereinbarungen zur schrittweisen Emissionsreduzierung getroffen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Barkassen und private Fahrgastschiffe werden im Hamburger Hafen von privatwirtschaftlichen Unternehmen betrieben. Es ist im Rahmen der Beantwortung des Bürgerschaftlichen Ersuchens Drs. 21/12903 unter anderem zu klären, wie die Unternehmen über aktuelle Möglichkeiten zur Emissionsreduzierung sowie über Förderungsmöglichkeiten informiert werden. Dieser Prozess ist noch nicht abgeschlossen.
 
@@ -109,7 +110,7 @@ Wie viele private Fähr- und Barkassenbetriebe sowie Schlepperunternehmen haben 
 
 Wie viele haben 2018 Nachrüstungen und Modernisierung ihrer Schiffsantriebe mit dem Zweck der Abgasminderung durchgeführt?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Entscheidung über einzelne Maßnahmen zur Emissionsminderung wie zum Beispiel die Nutzung alternativer Kraftstoffe obliegt ausschließlich den Unternehmen.
 

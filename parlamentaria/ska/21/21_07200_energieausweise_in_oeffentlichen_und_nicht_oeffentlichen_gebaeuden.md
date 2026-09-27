@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55794"
@@ -71,7 +72,7 @@ Für welche nicht öffentlichen Gebäude werden ebenfalls Energieausweise gemä�
 
 Für welche nicht öffentlichen Gebäude werden keine Energieausweise gemäß EnEV 2014 benötigt und aus welchem Grund jeweils nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Energieausweise werden im Falle der Errichtung oder des Verkaufs eines Gebäudes benötigt (§ 16 Absatz 1 und 2 EnEV). Der Eigentümer eines Gebäudes, in dem sich mehr als 500 Quadratmeter Nutzfläche mit starkem Publikumsverkehr befinden, der nicht auf behördlicher Nutzung beruht, hat einen Energieausweis auszuhängen, sobald für das Gebäude ein Energieausweis vorliegt (§ 16 Absatz 4 EnEV).
 

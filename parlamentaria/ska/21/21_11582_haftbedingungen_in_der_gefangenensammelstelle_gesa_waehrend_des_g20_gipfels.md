@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 27
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9793", "21/9787", "21/9829"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60809"
@@ -184,15 +185,15 @@ in den Einzelfällen (bitte einzeln aufführen)?
 
 Die Verpflegung von an Polizeidienststellen untergebrachten Personen ist in der als „Verschlusssache – nur für den Dienstgebrauch“ eingestuften Polizeidienstvorschrift (PDV) 350 (Hamburg) „Vorschrift für den täglichen Dienst“ geregelt. Laut PDV 350 ist nach folgenden Grundsätzen zu verfahren:
 
- Personen, die offenkundig oder erklärtermaßen unter Durst oder Hunger leiden,
+– Personen, die offenkundig oder erklärtermaßen unter Durst oder Hunger leiden,
 
 sind unverzüglich zu verpflegen.
 
- Spätestens nach Ablauf von sechs Stunden ist eine Erst-/Kaltverpflegung mit
+– Spätestens nach Ablauf von sechs Stunden ist eine Erst-/Kaltverpflegung mit
 
 Getränk anzubieten.
 
- Spätestens nach Ablauf von zwölf Stunden ist eine Zweit-/Warmverpflegung mit
+– Spätestens nach Ablauf von zwölf Stunden ist eine Zweit-/Warmverpflegung mit
 
 Getränk anzubieten.
 
@@ -280,7 +281,7 @@ Auf welcher Rechtsgrundlage wurden wie vielen Anwälte/-innen unter Anwendung vo
 
 Auf welcher Rechtsgrundlage wurde wie vielen Anwälte/-innen in der GeSa Hausverbot erteilt? (Bitte einzeln aufzählen.)
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Aufforderung zum Verlassen der GeSa und die Durchsetzung dieser Aufforderung stützen sich auf das Hausrecht beziehungsweise § 3 SOG. Der Polizei sind zwei Fälle bekannt, in denen jeweils im Rahmen des Hausrechts Rechtsanwälte aufgefordert wurden, das Gelände zu verlassen. Ein mündliches oder schriftliches, darüber hinausgehendes Hausverbot wurde in keinem der Fälle erlassen.
 

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 34
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4715", "21/4760", "21/446", "21/4295"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54765"
@@ -126,7 +127,7 @@ Wie bewertet der Senat den Umstand, dass Kinder in den Hamburger Grundschulen (z
 
 Wie stellt der Senat sicher, dass Kinder ohne politische Grundbildung (Politikunterricht wird in Hamburg erst ab Beginn der achten Jahrgangsstufe im Unterrichtsfach PGW gelehrt) eine mündige, freie und unbeeinflusste Entscheidung zu der Initiative SOR-SMC treffen können?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Bei der Selbstverpflichtung der teilnehmenden Schulen steht das soziale Miteinander im Vordergrund. Ein wertschätzender Umgang wird von der Grundschule an im Schulalltag und im Unterricht bei der Entwicklung und Einhaltung von Schul- und Klassenregeln sowie beim Aufgreifen von Themen wie „Kinderrechte“ beispielsweise im Sachunterricht eingeübt. Im Bildungsplan Sachunterricht wird im Kapitel 2.3 „Fachliche Kompetenzen“ dargelegt, dass Grundschulkinder für das Zusammenleben in einer demokratischen Gesellschaft Kompetenzen erwerben sollen. Im Übrigen siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 23
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68682"
@@ -61,7 +62,7 @@ Wie viele Antragsteller für Kita-Gutscheine mit Leistungen der Eingliederungshi
 
 Wie viele Antragsteller für Kita-Gutscheine mit Leistungen der Eingliederungshilfe haben sich in den Jahren 2017, 2018 sowie in den Monaten Januar bis einschließlich Oktober 2019 an das Beratungszentrum Sehen, Hören, Bewegen, Sprechen gewandt? Wie viele davon haben einen Gutachtertermin angefragt? Bitte nach Monaten aufschlüsseln.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Im IT-Fachverfahren ProCAB werden Anzahl der Antragsteller und Daten der Kontaktaufnahme zu den Jugendpsychiatrischen Diensten beziehungsweise zum Beratungszentrum Sehen, Hören, Bewegen, Sprechen (SHBS) nicht erfasst. Daher ist hilfsweise eine Auswertung zur Anzahl ausgestellter Gutachten in den Jahren 2017, 2018 und 2019 erfolgt, siehe Anlage 2.
 
@@ -76,7 +77,7 @@ Wie hat sich die Personalsituation in den JpD seit 2017 entwickelt? Bitte Stelle
 
 Wie hat sich die Personalsituation im Beratungszentrum Sehen, Hören, Bewegen, Sprechen seit 2017 entwickelt? Bitte Stellen-Soll und Besetzungsumfang jeweils zum 1. Januar, 1. April, 1. Juli und 1. Oktober eines Jahres darstellen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage 3.
 
@@ -88,7 +89,7 @@ Wie hoch war die Krankheitsquote in den einzelnen Jugendpsychiatrischen Diensten
 
 Wie hoch war die Krankheitsquote im Beratungszentrum Sehen, Hören, Bewegen, Sprechen in den Jahren 2017, 2018 sowie in den Monaten Januar bis einschließlich Oktober 2019?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Eine technische Auswertung für Organisationseinheiten mit weniger als fünf Beschäftigen ist aus datenschutzrechtlichen Gründen nicht möglich.
 
@@ -186,7 +187,7 @@ Wie hat sich die Fluktuation der Mitarbeiter in den einzelnen Jugendpsychiatrisc
 
 Wie hat sich die Fluktuation der Mitarbeiter im Beratungszentrum Sehen, Hören, Bewegen, Sprechen entwickelt? Bitte alle Zu- und Abgänge in Monaten und jeweils gesamt für die Jahre 2017, 2018 und für das Jahr 2019 auflisten.
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Siehe Anlage 5.
 

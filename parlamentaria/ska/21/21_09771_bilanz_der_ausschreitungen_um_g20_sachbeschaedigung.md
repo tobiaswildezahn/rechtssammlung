@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9765"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58577"
@@ -87,7 +88,7 @@ b) Privatpersonen und Unternehmen?
 
 Wie hoch belaufen sich die Kosten für die notwendigen Aufräum- und Instandsetzungsarbeiten, die die Hansestadt Hamburg tragen muss?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antworten zu 1. bis 3. und 5.
 

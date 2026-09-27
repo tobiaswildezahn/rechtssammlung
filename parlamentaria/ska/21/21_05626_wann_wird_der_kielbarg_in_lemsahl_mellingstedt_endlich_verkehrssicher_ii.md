@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1217"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54119"
@@ -61,7 +62,7 @@ Kann mit der Durchführung der Verkehrsberuhigungsmaßnahmen noch im Jahr 2016 g
 
 Wann werden die Verkehrsberuhigungsmaßnahmen fertiggestellt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Es ist beabsichtigt, die Maßnahme im 4. Quartal 2016 fertigzustellen.
 
@@ -73,7 +74,7 @@ Welche Gesamtkosten werden für die Baumaßnahme entstehen und wie haben sich di
 
 Hat sich an den Planungen etwas im Vergleich zur Schlussverschickung aus dem Jahr 2013 geändert? Wenn ja, was und welche zeitlichen und finanziellen Auswirkungen hat dies jeweils auf die Baumaßnahme?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Baukosten betragen nach derzeitigem Stand gemäß Bauauftrag 360.000 Euro. Im Übrigen siehe Antwort zu 1.
 

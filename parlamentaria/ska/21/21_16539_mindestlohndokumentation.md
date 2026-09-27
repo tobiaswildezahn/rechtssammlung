@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66062"
@@ -49,7 +50,7 @@ Wie viele Arbeitgeber in Hamburg waren 2018 von der Mindestlohndokumentation bet
 
 Wie viele Arbeitnehmer in Hamburg arbeiteten 2018 zum Mindestlohn?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Statistikamt Nord erhebt keine Daten, die über den Arbeitslohn pro Stunde Auskunft geben. So wird beispielsweise im Mikrozensus die gesamte Haushaltsnettoeinkommenssituation erfragt, die jedoch keinen Rückschluss auf eine Anzahl von Arbeitnehmern ermöglicht, die zum Mindestlohn beschäftigt werden.
 
@@ -83,7 +84,7 @@ Mindestlohndokumentation für:
 a. die Stadt Hamburg?  
 b. die Arbeitgeber in Hamburg?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die FHH als Arbeitgeberin für die Beschäftigten der Behörden, Ämter und Landesbetriebe hat in allen Bereichen Arbeitszeitregelungen kollektivrechtlich vereinbart. Diese Vereinbarungen sehen die Dokumentation der tatsächlich geleisteten Arbeitszeit grundsätzlich für alle Beschäftigten vor (Dokumentationspflicht im Sinne des § 16 Absatz 2 ArbeitszeitGesetz – ArbZG). Da es sich um eine allgemeine Regelung zur Optimierung der operativen Personalverwaltung handelt, sind die dabei entstehenden Kosten auch bei allen Beschäftigten gleich. Eine Differenzierung zwischen Kosten aufgrund der Dokumentationspflichten nach dem Mindestlohngesetz (MiLoG) und aufgrund der allgemeinen Nachweispflichtsdokumentationen ist daher nicht möglich.
 

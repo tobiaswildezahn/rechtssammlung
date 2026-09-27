@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/7662", "21/1502"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49750"
@@ -67,7 +68,7 @@ Hat die Radverkehrskoordinatorin Entscheidungsbefugnisse?
 
 Wem gegenüber hat die Radverkehrskoordinatorin Weisungsbefugnisse?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Radverkehrskoordinatorin ist im Rahmen ihrer Vorgesetztenfunktion gegenüber ihren Mitarbeiterinnen und Mitarbeitern weisungsbefugt. Sie erhält im Übrigen ein unmittelbares Vortragsrecht bei den Behördenleitungen der Behörde für Wirtschaft, Verkehr und Innovation, der Behörde für Umwelt und Energie, der Behörde für Stadtentwicklung und Wohnen und der Behörde für Inneres und Sport sowie den Bezirksamtsleitungen. In Fragen von grundsätzlicher Bedeutung hat die Radverkehrskoordinatorin ein direktes Vortragsrecht beim Ersten Bürgermeister. Sie hat außerdem Vortragsrecht in den Bezirksversammlungen und ihren Ausschüssen. Behörden und Bezirksämter sind ihr gegenüber in Bezug auf die Aufgabenstellung informationspflichtig.
 

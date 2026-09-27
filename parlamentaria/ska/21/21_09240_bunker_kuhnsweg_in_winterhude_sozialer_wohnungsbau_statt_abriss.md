@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58011"
@@ -35,15 +36,15 @@ Der Regionalausschuss Eppendorf-Winterhude (RegA EWI) hat
 
 ## Einleitung für die Antworten des Senats
 
- aufgrund der Erfahrungen in den letzten fünf Jahren mit drei abgerissenen
+– aufgrund der Erfahrungen in den letzten fünf Jahren mit drei abgerissenen
 
 Bunkern in Winterhude, die durch teure Eigentumswohnungen ersetzt wurden,
 
- aufgrund der Belastung der Anwohner/-innen beim Abriss der drei Bunker
+– aufgrund der Belastung der Anwohner/-innen beim Abriss der drei Bunker
 
 durch teilweise unerträgliche Lärm- und Staubimmissionen sowie Erschütterungen,
 
- aufgrund der Tatsache, dass der Bunker Kuhnsweg mitten im Wohngebiet
+– aufgrund der Tatsache, dass der Bunker Kuhnsweg mitten im Wohngebiet
 
 in einer kleinen Seitenstraße steht,
 
@@ -83,7 +84,7 @@ Welche Kriterien werden bei einem Hochbunker wie im Kuhnsweg für die Ermittlung
 
 Von welchem Verkehrswert (geschätzt) geht der Senat aus?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Senat sieht zur Wahrung seiner Verhandlungsposition in ständiger Praxis grundsätzlich davon ab, konkrete Buch- oder Verkehrswerte beziehungsweise Kaufpreisangebote zu einzelnen Immobilien zu veröffentlichen.
 
@@ -95,7 +96,7 @@ Gibt es von der BImA bereits Angaben zum Verkehrswert? Falls ja: Wie hoch wird d
 
 Hat der Senat bereits ein konkretes Gebot bei der BImA abgegeben? Wenn ja: in welcher Höhe?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Ja. Im Übrigen siehe Antwort zu 3. und 4.
 

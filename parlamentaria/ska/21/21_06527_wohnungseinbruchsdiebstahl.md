@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["16/4616"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55047"
@@ -59,7 +60,7 @@ Wie hat sich die Zahl der Wohnungseinbruchsdiebstähle im Zeitraum von September
 
 Wie hat sich die Aufklärungsquote jeweils entwickelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung und Anlage.
 

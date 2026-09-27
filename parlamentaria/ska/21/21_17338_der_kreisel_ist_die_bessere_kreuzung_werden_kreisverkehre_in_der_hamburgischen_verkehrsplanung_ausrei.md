@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/288", "20/1598", "20/11303", "21/11734"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66938"
@@ -65,7 +66,7 @@ Wie viele Kreisverkehre welcher Art gibt es wo in Hamburg und wann sind diese je
 
 Zu welchen Kosten wurden Kreisverkehre seit 2015 in Hamburg jeweils realisiert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1. Die genannten Kosten sind in der Regel die Kosten für das Gesamtprojekt, welches den Kreuzungsumbau und den Umbau und/oder die Sanierung der angrenzenden Streckenabschnitte beinhaltet. Eine präzise Zuordnung zu Kostenanteilen bedingt die Auswertung einer Vielzahl von einzelnen Bau- und Projektakten, die teilweise bereits archiviert sind. Daher können die Angaben nicht vollständig in der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit ermittelt werden. Im Übrigen siehe Drs. 20/288, 21/11734 und Vorbemerkung.
 

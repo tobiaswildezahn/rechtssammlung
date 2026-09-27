@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6874", "21/6715", "21/6739"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57579"
@@ -103,7 +104,7 @@ Gibt es neue Erkenntnisse zu dem Verdacht der Unterdrückung und Veränderung al
 
 Gibt es neue Erkenntnisse zu den auffällig niedrigen Sauerstoffsättigungen und den divergierenden Sauerstoffflussraten (vergleiche Seite 44 des Protokolls Nummer 21/13 der Sitzung des Gesundheitsausschusses vom 24. November 2016)?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Nein. Im Übrigen siehe Antwort zu 5.
 

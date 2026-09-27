@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 30
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13775", "21/15595"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66083"
@@ -53,7 +54,7 @@ Wie groß ist die Fläche des Freibades Wiesenredder, die verkauft werden soll? 
 
 Wie viele Wohnungen sollen durch den Investor auf der unter 1. aufgeführten Fläche entstehen und ist hier ein Drittelmix oder eine günstigere Aufteilung des Wohnungsbaus für bezahlbaren Wohnraum vorgesehen? Wenn ja, welche?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/13775. Die Größe der Fläche beträgt circa 30 000 m². Im Übrigen sind die Festlegungen im noch folgenden B-Planverfahren zu treffen.
 

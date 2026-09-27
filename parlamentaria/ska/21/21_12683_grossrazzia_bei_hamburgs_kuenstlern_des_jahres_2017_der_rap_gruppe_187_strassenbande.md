@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61986"
@@ -63,7 +64,7 @@ Wie setzte sich die Jury des Musikpreises zusammen?
 
 Hatte die BKM Mitspracherecht/oder ein Vetorecht sowohl bei der Auswahl der Jurymitglieder als auch bei der Auswahl der Gewinner? Falls ja, hat sie von diesem Gebrauch gemacht? Hat die BKM der Vergabe eines Preises an „187 Straßenbande“ zugestimmt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Jury setzt sich folgendermaßen zusammen:
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14429"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64619"
@@ -75,7 +76,7 @@ Wie viele Coaches setzen die Träger jeweils vor Ort ein; für wie viele Schüle
 
 Wie werden die Respekt Coaches in den Unterricht beziehungsweise in das Schulleben eingebunden? Nehmen sie zum Beispiel regelhaft an bestimmten Unterrichtsfächern teil oder gibt es bestimmte Projekttage beziehungsweise -stunden? Mit wie vielen Stunden sind sie an den Schulen vor Ort? Mit welchen Methoden arbeiten die Coaches?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Das Programm wird seit September 2018 an den Schulen umgesetzt, zum jetzigen Zeitpunkt befinden sich die Respekt Coaches und Schulen noch in der Planung beziehungsweise ersten Erprobung von Angeboten. Im Übrigen siehe Vorbemerkung.
 

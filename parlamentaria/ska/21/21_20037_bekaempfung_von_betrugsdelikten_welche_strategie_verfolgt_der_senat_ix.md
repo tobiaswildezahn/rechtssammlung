@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17542", "21/16598", "21/14575"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69797"
@@ -55,7 +56,7 @@ Wie haben sich nach der PKS folgende Deliktszahlen sowie die Aufklärungsquoten 
 - 518112 Abrechnungsbetrug im Gesundheitswesen § 263a StGB
 - 518302 Überweisungsbetrug § 263a StGB Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

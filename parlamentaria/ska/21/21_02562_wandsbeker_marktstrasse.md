@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50854"
@@ -57,11 +58,11 @@ Wie viele Unfälle ereigneten sich vor der Verengung? Bitte aufschlüsseln nach 
 
 Die Daten zu den Verkehrsunfällen in der Wandsbeker Markstraße sind aus der Unfalldatenbank Elektronische Unfalltypensteckkarte (EUSka) am 10. Dezember 2015 im Kontext für den Zeitraum vom 6. Mai 2009 bis zum 5. Mai 2010 (zeitlicher Beginn der Fahrstreifenreduzierung) für die
 
- Fahrtrichtung stadtauswärts zwischen der Fußgängerlichtzeichenanlage (FLZA)
+– Fahrtrichtung stadtauswärts zwischen der Fußgängerlichtzeichenanlage (FLZA)
 
 Wandsbeker Marktstraße 28 und der FLZA Wandsbeker Marktstraße 83 – 85 (Höhe Eingang Quarree/Cinemaxx-Kino),
 
- Fahrtrichtung stadteinwärts zwischen der Lichtzeichenanlage Wandsbeker Markt-
+– Fahrtrichtung stadteinwärts zwischen der Lichtzeichenanlage Wandsbeker Markt-
 
 straße/Wandsbeker Allee und der FLZA Wandsbeker Marktstraße 83 – 85 (Höhe Eingang Quarree/Cinemaxx-Kino)
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 25
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7477", "21/8327", "21/9150"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58610"
@@ -145,13 +146,13 @@ Wie sah beziehungsweise sieht der entsprechende Projekt-Meilensteinplan aus? a. 
 
 Folgende Meilensteine wurden bereits planmäßig erreicht:
 
- Start des Projektes am 01.11.2016
+– Start des Projektes am 01.11.2016
 
- Projekteinsetzungsverfügung unterzeichnet am 20.01.2017
+– Projekteinsetzungsverfügung unterzeichnet am 20.01.2017
 
- Start der Produktdefinitionsphase am 20.01.2017
+– Start der Produktdefinitionsphase am 20.01.2017
 
- Fertigstellung der Produktdefinition am 10.03.2017
+– Fertigstellung der Produktdefinition am 10.03.2017
 
 Weiterhin soll die Fertigstellung der Softwarelösung einschließlich Integration in die bestehende Struktur sowie der Abschlusstest der Softwarelösung (einschließlich Fehlerbehebung und gegebenenfalls notwendiger Änderungsanforderungen) bis voraussichtlich Ende 2017 erfolgen. Die Pilotierung der Softwarelösung (Produktivsetzung der neuen IT-Lösung im Echtbetrieb in einem ausgewählten Bezirk vor Gesamtproduktivsetzung in ganz Hamburg) soll voraussichtlich im 1. Quartal 2018 beginnen.
 

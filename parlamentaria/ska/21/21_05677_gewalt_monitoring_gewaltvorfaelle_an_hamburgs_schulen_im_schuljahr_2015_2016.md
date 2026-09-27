@@ -14,6 +14,7 @@ fragen: 26
 einzelfragen: 45
 antwortbloecke: 23
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4356", "21/4601", "21/425", "20/12882", "20/5972", "20/9125", "21/4794"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54225"
@@ -159,7 +160,7 @@ Seit welchem Stichtag galt die neue Richtlinie zur Bearbeitung und Meldung von G
 
 In welcher Form sind Meldungen nach alter Richtlinie aus dem Zeitraum zwischen Beginn des Schuljahres 2015/2016 und dem Stichtag aus Frage 3. in die Statistik eingeflossen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die veränderte Richtlinie trat mit dem Beginn des neuen Schuljahres 2015/2016 in Kraft. Schulen, die ab dem 26.08.2015 entsprechende Vorfälle mit dem bisherigen Meldebogen versendeten, wurden von der Beratungsstelle Gewaltprävention über das neue Formular informiert und gebeten, den Vorgang mit dem neuen Meldeformular zuzuschicken. Anschließend wurde die Meldung gemäß dem aktualisierten Verfahren dokumentiert.
 
@@ -175,7 +176,7 @@ d) Besonders schwerer Fall des Diebstahls, Diebstahl mit Waffen (§§ 243 bis 24
 
 Welche weiteren Erkenntnisse liegen dem Senat und seinen Behörden über andere Straftaten an Schulen im Schuljahr 2015/2016 vor?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Bei allen eingegangen Meldungen oder Anfragen mit Unterstützungsbedarf erhielten die meldenden Schulen diese erbetene Hilfestellung von den Schulaufsichtsbeamten, den ReBBZ, dem Landesinstitut für Lehrerbildung und Schulentwicklung (LI) oder der Beratungsstelle Gewaltprävention.
 
@@ -311,7 +312,7 @@ c) Wurde das Feedbackverfahren für die Schülerinnen und Schüler im Schuljahr 
 
 Wie beurteilen die zuständigen Behörden das im Schuljahr 2015/2016 zur Erprobung durchgeführte Feedbackverfahren der Schülerinnen und Schüler?
 
-#### Antwort zu Fragen 20 bis 21
+#### Antwort zu Fragen 20 und 21
 
 Die Ergebnisse des Feedbackverfahrens für Lehrkräfte werden seit 2012 fortgeschrieben. Der letzte Auswertungsstand (30.11.2015 mit 334 ausgewerteten Fragebögen) belegt, dass das Unterrichtsangebot der Polizeibeamten sehr gut angenommen wird. Anfängliche Defizite bei der Didaktik und der Methodenvielfalt konnten in den folgenden Schulungen der Präventionsbeamten thematisiert werden, um die Kompetenzen in diesen Feldern zu verbessern. Der Rücklauf dieses Feedbackverfahren hat sich in den letzten drei bis vier Schulhalbjahren stark reduziert (freiwillige und anonyme Teilnahme). Als Begründung ist zu benennen, dass die schulischen Ansprechpartner/ -innen immer denselben Präventionsbeamten beurteilen sollen – die Zuordnung zu den Schulen ist in der Regel kontinuierlich. Siehe auch Drs. 20/12882, Drs. 20/5972 und Drs. 20/9125.
 

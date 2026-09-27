@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 29
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838", "21/6356", "21/6529", "21/7382"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57513"
@@ -81,7 +82,7 @@ Wurden Auflagen für den betroffenen Bolzplatz aufgrund des Lärmschutzgutachten
 
 Wie rechtfertigt der Senat die im Bebauungsplan-Entwurf Eidelstedt 75 (Duvenacker) geplanten Nutzungsbeschränkung für den 226.000 Euro teuren Bolzplatz, der erst 2009 fertiggestellt wurde? Ist eine Einschränkung dieser Art nach fast acht Jahren Laufzeit ohne Weiteres möglich? Womit begründet der Senat dies?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4881"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54548"
@@ -55,19 +56,19 @@ Welche Zahlen liegen der Agentur für Arbeit und Jobcenter t.a.h. in der Gesamta
 
 Nach dem Geschäftsanweisungen „Eingliederungszuschuss (EGZ) zur Durchführung der §§ 88 – 92 SGB III“ heißt es: „Eine Förderung von Leiharbeitsverhältnissen kann in Betracht kommen, wenn dem Verleiher durch die Einstellung der förderungsbedürftigen Person tatsächlich ein finanzieller Nachteil entsteht“. Ab welcher Höhe in Euro wird solch ein finanzieller Nachteil durch die Arbeitsagentur Hamburg oder Jobcenter t.a.h. anerkannt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Wenn ein Eingliederungszuschuss für ein Leiharbeitsverhältnis beantragt wird, ist es erforderlich, dass durch den antragstellenden Arbeitgeber dargelegt wird, wodurch der finanzielle Nachteil entsteht, der mit dem Eingliederungszuschuss kompensiert werden soll. Der Umfang beziehungsweise die Höhe des finanziellen Nachteils sind hierbei nicht relevant und werden statisch nicht erfasst.
 
 Ein finanzieller Nachteil wird anerkannt, wenn dem Entleiher für die Überlassung der Arbeitnehmerin oder des Arbeitnehmers wesentlich günstigere als die üblichen Konditionen eingeräumt werden. Ein finanzieller Nachteil kann unter anderem auch dadurch entstehen, dass der Verleiher einen wichtigen Beitrag zum Ausgleich der Minderleistung leistet; zum Beispiel, indem er
 
- die Kosten für notwendige Qualifizierungen trägt,
+– die Kosten für notwendige Qualifizierungen trägt,
 
- sich in besonderem Maße an der Einarbeitung im Entleihunternehmen beteiligt
+– sich in besonderem Maße an der Einarbeitung im Entleihunternehmen beteiligt
 
 oder
 
- durch eigenes Personal die Arbeitnehmerin/den Arbeitnehmer begleitet und inten-
+– durch eigenes Personal die Arbeitnehmerin/den Arbeitnehmer begleitet und inten-
 
 siv unterstützt.
 
@@ -103,7 +104,7 @@ In welchem Verhältnis in der Anzahl steht der Eingliederungszuschuss zu weitere
 
 Wie hoch lag die Förderung durch den Eingliederungszuschuss für Menschen mit Behinderung in den Jahren 2010 bis dato bei der Agentur für Arbeit Hamburg und Jobcenter t.a.h.? Bitte jährlich auflisten sowie im Verhältnis zur Gesamtanzahl von weiteren Förderinstrumenten.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Anlage 2.
 

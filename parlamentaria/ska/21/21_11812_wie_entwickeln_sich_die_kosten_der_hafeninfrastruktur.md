@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 34
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10727", "21/2368", "21/8790", "21/11559"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61054"
@@ -51,7 +52,7 @@ Wann haben die Planungen für die jeweiligen Projekte der allgemeinen Hafeninfra
 
 Wie haben sich die Kosten für die Projekte der allgemeinen Hafeninfrastruktur der HPA gegenüber dem Wirtschaftsplan 2017 entwickelt? (Bitte ursprüngliche Kostenschätzung und aktuelle Kostenplanung insbesondere zu Zusatzmaßnahmen bei der Fahrrinnenanpassung benennen und für alle unter 1. genannten Projekte angeben.) a. Im Falle von Kostensteigerungen: Weshalb war die ursprüngliche Kostenplanung nicht ausreichend? b. Von wann stammt die aktuelle Kostenplanung? Bitte für die unter 1. genannten Projekte angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1. Die aktuelle Kostenplanung beruht auf dem Wirtschaftsplan 2018.
 
@@ -103,7 +104,7 @@ Auf welche Höhe beläuft sich der gesamte Investitionsbedarf für allgemeine In
 
 Wie groß ist die Differenz zwischen den Investitionsbedarfen und den bereits in den Finanzplanungen der Freien und Hansestadt Hamburg und der HPA vorgesehenen Investitionen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Anlage 3.
 
@@ -133,7 +134,7 @@ Welche Einnahmequellen hat die HPA? Welche Beträge konnten in den Jahren 2016 u
 
 Wie hoch ist das Eigenkapital der HPA und wie hoch war dieses seit der Gründung der HPA jeweils zum Jahresende?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Die Ist-Werte für das Jahr 2017 liegen noch nicht vor. Im Übrigen siehe Drs.21/8790.
 

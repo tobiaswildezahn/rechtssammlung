@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2912", "21/3649", "21/5581", "20/12626", "21/3166", "21/4174"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54166"
@@ -150,6 +151,6 @@ Längst wird in den Medien regelmäßig über das Phänomen von religiös motivi
 
 Die Diskriminierung christlicher Flüchtlinge zeichnet sich in erster Linie dadurch aus, dass die Opfer neben psychischer auch akuter physischer Gewalt ausgesetzt sind. Neben Morddrohungen kommt es daher immer wieder auch zu körperlichen Übergriffen. Mit den „LSBTI-Geflüchteten“ gewährt Senat nun einer Gruppe besonderen Schutz, um sie nach eigener Aussage „so gut wie möglich vor weiterem psychischen Druck zu bewahren.“ Mit welcher Begründung sind christliche Flüchtlinge trotz der gewaltsamen Übergriffe gegen sie bislang nicht in einer solchen Weise begünstigt worden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/2912 und 21/5581. Die in Drs. 21/4174 dargestellten konzeptionellen Maßnahmen gelten für alle schutzbedürftigen Personen. Hierzu gehört insbesondere die frühzeitige Vermittlung von Werten und Normen – auch zur Religionsfreiheit und Religionsausübung (http://www.hamburg.de/innenbehoerde/werte).

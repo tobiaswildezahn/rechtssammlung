@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 37
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13212"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48597"
@@ -249,17 +250,24 @@ h) Andere Personen, die keinen persönlichen Kontakt zu einem Bewohner der AE ha
 i) Flüchtlingen, die das Gelände verlassen möchten, ist der Hausausweis abzunehmen und bei Rückkehr wieder auszuhändigen.
 j) Personen,
 
- die mit einer Bescheinigung über die Meldung als Asylsuchender oder einer
+– die mit einer Bescheinigung über die Meldung als Asylsuchender oder einer
 
-anderen behördlichen Bescheinigung dem Land M-V zugewiesen wurden  die erstmals ein Asylbegehren äußern  die eine behördliche Aufforderung vorweisen können, sich am gleichen oder am
+anderen behördlichen Bescheinigung dem Land M-V zugewiesen wurden
+– die erstmals ein Asylbegehren äußern
+– die eine behördliche Aufforderung vorweisen können, sich am gleichen oder am
 
-folgenden Tag in der Einrichtung oder bei einer auf dem Gelände befindlichen Behörde (z.B. zur Stellung eines Asylfolgeantrages) zu melden  die von der Freien und Hansestadt Hamburg aufgefordert wurden, Unterkunft in
+folgenden Tag in der Einrichtung oder bei einer auf dem Gelände befindlichen Behörde (z.B. zur Stellung eines Asylfolgeantrages) zu melden
+– die von der Freien und Hansestadt Hamburg aufgefordert wurden, Unterkunft in
 
-der Einrichtung zu nehmen  bei denen unklare Sachverhalte vorliegen und ein asylrelevanter Hintergrund nicht
+der Einrichtung zu nehmen
+– bei denen unklare Sachverhalte vorliegen und ein asylrelevanter Hintergrund nicht
 
-ausgeschlossen werden kann  deren Wohnberechtigung seitens der Bedarfsstelle mündlich oder schriftlich
+ausgeschlossen werden kann
+– deren Wohnberechtigung seitens der Bedarfsstelle mündlich oder schriftlich
 
-angewiesen wurde  die als jüdische Emigranten eine Aufnahmezusage des BAMF vorlegen können  die als Spätaussiedler dem Land Mecklenburg-Vorpommern zugewiesen wurden
+angewiesen wurde
+– die als jüdische Emigranten eine Aufnahmezusage des BAMF vorlegen können
+– die als Spätaussiedler dem Land Mecklenburg-Vorpommern zugewiesen wurden
 
 und einen entsprechenden Registrierschein des Bundesverwaltungsamtes vorlegen können, sind während der Dienstzeiten dem Info-Center anzukündigen und zuzuführen. Außerhalb der Dienstzeiten des Info-Centers sind diese Personen dem Betreiber anzukündigen und in Begleitung einer Wachkraft zuzuführen.
 
@@ -304,7 +312,8 @@ a) Der Auftragnehmer ist verpflichtet, die Sicherheit und Ordnung innerhalb der 
 Zu diesem Zweck gewährleistet der vor Ort tätige Betreiber die Möglichkeit einer ständigen unmittelbaren Kommunikation zu all seinen im Dienst befindlichen Mitarbeitern. Der Schichtleiter ist in dieses Kommunikationsnetz mit eingebunden.
 b) Der Schichtleiter kann die Polizei bzw. die Feuerwehr oder den Rettungsdienst um Hilfe ersuchen bzw. alarmieren, wenn
 
- dies vom Betreiber für erforderlich gehalten wird oder  dies von einem Mitarbeiter der Bedarfsstelle angewiesen wird. Er kann im Ausnahmefall Alarmierungen eigenständig vornehmen, wenn nach eigener Lagebewertung Gefahr im Verzug sein könnte und unverzügliches Handeln geboten ist. Anschließend sind der Betreiber sowie die Bedarfsstelle zu informieren.
+– dies vom Betreiber für erforderlich gehalten wird oder
+– dies von einem Mitarbeiter der Bedarfsstelle angewiesen wird. Er kann im Ausnahmefall Alarmierungen eigenständig vornehmen, wenn nach eigener Lagebewertung Gefahr im Verzug sein könnte und unverzügliches Handeln geboten ist. Anschließend sind der Betreiber sowie die Bedarfsstelle zu informieren.
 c) Der Schichtleiter hat bei besonderen Vorkommnissen die Aufgabe, alle Informationen, Berichte über neue Situationen und Ereignisse oder durchgeführte Maßnahmen zu erfassen und im Dienstbuch zu dokumentieren.
 
 Daneben hat der Schichtleiter der vertretungsberechtigten Person der Bedarfsstelle – in Abwesenheit dessen Stellvertreter – täglich zu Dienstbeginn auf Verlangen einen mündlichen Bericht über eventuelle Vorkommnisse der vorangegangenen Nacht bzw. des Wochenendes zu erstatten. Bei besonderen Vorkommnissen ist gleichzeitig ein schriftlicher Bericht (Feststellungsprotokoll) zu übergeben.
@@ -312,9 +321,12 @@ d) Das BAMF und die Räumlichkeiten der Bedarfsstelle sowie die Unterkunftsgebä
 4. Sonstige Aufgaben
 a) Den Wachkräften obliegt die Mitwirkung bei der vorläufigen Aufnahme von Asylbewerbern und ausländischen Flüchtlingen. Dabei sind folgende Aufgaben zu übernehmen:
 
- Aufnahme der Personalien,  Annahme von freiwillig überlassenen Dokumenten wie Ausweise, BÜMA, BÜMI,
+– Aufnahme der Personalien,
+– Annahme von freiwillig überlassenen Dokumenten wie Ausweise, BÜMA, BÜMI,
 
-Rechtsanwaltsschreiben u. ä. sowie Übergabe der Dokumente an das Info- Center bzw. den Aufnahmebereich der Bedarfsstelle  Ausgabe eines vorläufigen Hausausweises  telefonische Information über Neuankömmlinge an den Diensthabenden des
+Rechtsanwaltsschreiben u. ä. sowie Übergabe der Dokumente an das Info- Center bzw. den Aufnahmebereich der Bedarfsstelle
+– Ausgabe eines vorläufigen Hausausweises
+– telefonische Information über Neuankömmlinge an den Diensthabenden des
 
 Polizeireviers  
 in  
@@ -324,34 +336,42 @@ Beantragung
 einer  
 Personendurchsuchung; sollte die Durchsuchung nicht innerhalb von 60  
 Minuten stattfinden, sind die Neuankömmlinge dem Betreiber zuzuführen  
- Vorführung des Videos des Hohen Flüchtlingskommissars der UN in der
+– Vorführung des Videos des Hohen Flüchtlingskommissars der UN in der
 
-Landessprache der Neuankömmlinge  Nach Information durch den Betreiber erfolgt am Morgen des folgenden
+Landessprache der Neuankömmlinge
+– Nach Information durch den Betreiber erfolgt am Morgen des folgenden
 
-Werktages eine Zuführung der neu angekommenen Flüchtlinge zum Bereich Aufnahme der Bedarfsstelle, bei Bedarf verbleibt eine Wachkraft im Aufenthaltsbereich der Aufnahme  Abholung der Neuankömmlinge aus dem medizinischen Bereich nach Information
+Werktages eine Zuführung der neu angekommenen Flüchtlinge zum Bereich Aufnahme der Bedarfsstelle, bei Bedarf verbleibt eine Wachkraft im Aufenthaltsbereich der Aufnahme
+– Abholung der Neuankömmlinge aus dem medizinischen Bereich nach Information
 
 durch die Mitarbeiter des medizinischen Dienstes und Weiterleitung an das Info-Center. (Dies gilt nicht bei der Aufnahme von jüd. Emigranten oder Ausländern der Freien und Hansestadt Hamburg)
 b) Den Wachkräften obliegt die Mitwirkung bei der vorläufigen Aufnahme von neu eintreffenden jüdischen Emigranten. Dabei sind folgende Aufgaben - vorbehaltlich einer endgültigen Festlegung der Bedarfsstelle - zu übernehmen:
 
- Aufnahme der Personalien
+– Aufnahme der Personalien
 
-Ausstellung eines vorläufigen Hausausweises Weiterleitung der Neuankömmlinge an den Betreiber. Eine Personendurchsuchung bzw. Gepäckdurchsuchung und die Vorführung des Videos des Hohen Flüchtlingskommissars der UN finden nicht statt!!
+– Ausstellung eines vorläufigen Hausausweises
+– Weiterleitung der Neuankömmlinge an den Betreiber. Eine Personendurchsuchung bzw. Gepäckdurchsuchung und die Vorführung des Videos des Hohen Flüchtlingskommissars der UN finden nicht statt!!
 
 c) Den Wachkräften obliegt die Mitwirkung bei der vorläufigen Aufnahme von Asylbewerbern und ausländischen Flüchtlingen der Freien und Hansestadt Hamburg.
 
 Werden die Hamburgischen Ausländer durch den Shuttleverkehr gebracht, sind folgende Aufgaben zu übernehmen:
 
-Unterstützung des Betreibers bei der Sicherstellung der Aufnahme, die in der
+– Unterstützung des Betreibers bei der Sicherstellung der Aufnahme, die in der
 
-Regel in der Zeit von 11:00 Uhr – 13:00 Uhr stattfindet, durch Begleitung und Zuführung der Neuankömmlinge Unterstützung des Betreibers bei der Sicherstellung der medizinischen
+Regel in der Zeit von 11:00 Uhr – 13:00 Uhr stattfindet, durch Begleitung und Zuführung der Neuankömmlinge
+– Unterstützung des Betreibers bei der Sicherstellung der medizinischen
 
 Erstuntersuchung, die in der Sprechstunde des nächstfolgenden Werktages stattfindet sowie bei der Vorbereitung des Röntgentransportes durch Begleitung und Zuführung der Neuankömmlinge. Werden die Hamburgischen Flüchtlinge nicht vom Shuttleverkehr gebracht (individuelle Anreise), sind folgende Aufgaben zu übernehmen:
 
-Aufnahme der Personalien, Annahme von freiwillig überlassenen Dokumenten wie z.B. Ausweise,
+– Aufnahme der Personalien,
+– Annahme von freiwillig überlassenen Dokumenten wie z.B. Ausweise,
 
-Aufforderungen der Ausländerbehörde Hamburg zur Wohnsitznahme in der Einrichtung Nostorf-Horst, Rechtsanwaltsschreiben u. ä. sowie Übergabe der Dokumente an das Info-Center, bzw. den Aufnahmebereich der Bedarfsstelle Ausgabe eines vorläufigen Hausausweises Zuführung der neu angekommenen Flüchtlinge zum „Bereich Aufnahme“ der
+Aufforderungen der Ausländerbehörde Hamburg zur Wohnsitznahme in der Einrichtung Nostorf-Horst, Rechtsanwaltsschreiben u. ä. sowie Übergabe der Dokumente an das Info-Center, bzw. den Aufnahmebereich der Bedarfsstelle
+– Ausgabe eines vorläufigen Hausausweises
+– Zuführung der neu angekommenen Flüchtlinge zum „Bereich Aufnahme“ der
 
-Bedarfsstelle am Morgen des folgenden Werktages nach Information durch den Betreiber; bei Bedarf verbleibt eine Wachkraft im Aufenthaltsbereich der Aufnahme Abholung der Neuankömmlinge aus dem medizinischen Bereich nach Information
+Bedarfsstelle am Morgen des folgenden Werktages nach Information durch den Betreiber; bei Bedarf verbleibt eine Wachkraft im Aufenthaltsbereich der Aufnahme
+– Abholung der Neuankömmlinge aus dem medizinischen Bereich nach Information
 
 durch die Mitarbeiter des medizinischen Dienstes und Weiterleitung an das Info-Center.
 
@@ -383,34 +403,41 @@ Der Wachdienst verwahrt dabei auch einen Schlüsselbund für das für die Bedarf
 
 i) Der Auftragnehmer stellt während der von der Bedarfsstelle festgelegten Essenszeiten die Aufsicht im Speisesaal durch eine Wachkraft sicher. Gegenwärtig gelten folgende Zeiten:
 
-Frühstück  
+– Frühstück  
 07:30 Uhr bis 08:45 Uhr  
-Mittagessen  
+– Mittagessen  
 12:00 Uhr bis 13:30 Uhr  
-Abendbrot  
+– Abendbrot  
 17:00 Uhr bis 18:15 Uhr  
 Dabei sind folgende Aufgaben zu erfüllen:
 
-Zugangskontrolle (Personen ohne Hausausweis haben keinen Zutritt; mittwochs
+– Zugangskontrolle (Personen ohne Hausausweis haben keinen Zutritt; mittwochs
 
-erfolgt die Kontrolle der Hausausweise für das Einwohnermeldeamt durch den Betreiber) Einlass nur durch die Eingangstür Auslass nur durch die Ausgangstür Gewährleistung von Ruhe, Ordnung, Sauberkeit und Hygiene (z.B. Verhinderung
+erfolgt die Kontrolle der Hausausweise für das Einwohnermeldeamt durch den Betreiber)
+– Einlass nur durch die Eingangstür
+– Auslass nur durch die Ausgangstür
+– Gewährleistung von Ruhe, Ordnung, Sauberkeit und Hygiene (z.B. Verhinderung
 
-von Drängeleien, Einflussnahme auf das saubere Verlassen der Tische und das Abräumen und Vorspülen des Geschirrs) Belehrung von Essenteilnehmern über das Verbot der Mitnahme von Speisen und
+von Drängeleien, Einflussnahme auf das saubere Verlassen der Tische und das Abräumen und Vorspülen des Geschirrs)
+– Belehrung von Essenteilnehmern über das Verbot der Mitnahme von Speisen und
 
-Getränken (Ausnahmen werden vom Betreiber benannt) sowie eine entsprechende Kontrolle bei vorliegenden Verdachtsmomenten Enges Zusammenwirken mit den Mitarbeitern der Küche pünktliche Schließung des Speisesaals
+Getränken (Ausnahmen werden vom Betreiber benannt) sowie eine entsprechende Kontrolle bei vorliegenden Verdachtsmomenten
+– Enges Zusammenwirken mit den Mitarbeitern der Küche
+– pünktliche Schließung des Speisesaals
 
 j) In Zusammenarbeit mit den in der Kleiderkammer eingesetzten Mitarbeitern des Betreibers ist durch eine Wachkraft der reibungslose Ablauf der Kleiderausgabe zu gewährleisten. Die Öffnungszeiten werden rechtzeitig bekannt gegeben. Gegenwärtig gelten folgende Zeiten:
 
-Montag  
+– Montag  
 13:30 Uhr bis 15:00 Uhr  
-Mittwoch  
+– Mittwoch  
 13:30 Uhr bis 15:00 Uhr  
-Freitag  
+– Freitag  
 9:00 Uhr bis 10:30 Uhr
 
 k) Der Auftragnehmer stellt während der von der Bedarfsstelle festgelegten Sprechzeiten der Ausländerbehörde die Aufsicht auf dem Flur in Verwaltungsgebäude I und II abwechselnd sicher, um die Sicherheit und Ordnung zu gewährleisten. Gegenwärtig gelten folgende Zeiten:
 
-dienstags / donnerstags: 10:00 Uhr bis 11:30 Uhr dienstags / donnerstags: 14:00 Uhr bis 14:30 Uhr bzw. nach Erforderlichkeit
+– dienstags / donnerstags: 10:00 Uhr bis 11:30 Uhr
+– dienstags / donnerstags: 14:00 Uhr bis 14:30 Uhr bzw. nach Erforderlichkeit
 
 l) Montags, mittwochs und freitags erfolgt in der Zeit von 10:30 Uhr bis ca. 11:00 Uhr in der Zahlstelle im Verwaltungsgebäude I die Auszahlung von Geldleistungen an die
 

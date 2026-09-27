@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 35
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17431", "21/15095"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67176"
@@ -176,7 +177,7 @@ Welche Auswirkungen hätte ein Verkauf der Gesellschaften auf die Kooperation mi
 
 Inwieweit ist der Standort der BS24 durch den mit dem Share Deal einhergehenden Grundstücksübergang gefährdet? Welche Vorkehrungen treffen Senat beziehungsweise zuständige Behörde zur Sicherstellung des Schulbetriebs? Welcher Reservestandort ist vorgesehen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Es entstehen keine Auswirkungen. Der entsprechende Kooperationsvertrag ginge (wie auch alle anderen Verträge) im Zuge des Verkaufs auf den Käufer über.
 
@@ -220,7 +221,7 @@ Inwieweit planen Senat beziehungsweise zuständige Behörde, einem Wunsch von Ka
 
 Inwieweit planen Senat beziehungsweise zuständige Behörde, sich angesichts der geschilderten finanziellen Situation anstelle eines Share Deals auch auf einen Asset Deal einzulassen, falls es nur so zu einem Verkauf kommen würde?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Vorbemerkung, Drs. 21/17431 und Antwort zu 7. a. bis f.
 

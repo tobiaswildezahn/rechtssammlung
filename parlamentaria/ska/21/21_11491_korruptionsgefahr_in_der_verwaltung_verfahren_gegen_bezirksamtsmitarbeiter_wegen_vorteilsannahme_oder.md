@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60619"
@@ -120,6 +121,6 @@ In wie vielen Fällen (aus Frage 4.) wurde jeweils der Täter verurteilt?
 
 In wie vielen Fällen (aus Frage 5.) hat das Gericht einen besonders schweren Fall gemäß § 335 Strafgesetzbuch angenommen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 In keinem der angeklagten Verfahren hat bisher eine Hauptverhandlung stattgefunden.

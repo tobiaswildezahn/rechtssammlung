@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13400"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49906"
@@ -51,7 +52,7 @@ Welche Erkenntnis hat der Senat über den zeitlichen Aufwand, den ein Gründer i
 
 Welche Erkenntnisse besitzt der Senat über den Bürokratieaufwand für Gründer in den Metropolen Berlin, München und Köln. Wie stellt sich dies im Vergleich zum Standort Hamburg dar und wie bewertet der Senat die Differenzen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe  
 Internetadresse  
@@ -68,7 +69,7 @@ Welche bürokratischen Hürden sieht der Senat als zentrale Innovationshemmnisse
 
 Was tut der Senat konkret, um die unter 1. und 3. genannten Hürden zu reduzieren? Welche konkreten Ziele verfolgt der Senat dabei bis 2020?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nach Auffassung der zuständigen Behörde gibt es keine bürokratischen Hürden, die zu zentralen Innovationshemmnissen für Unternehmensgründer, etablierte Unternehmen und Hochschulen werden könnten.
 
@@ -92,7 +93,7 @@ Ein mangelnder Zugang zu Mentoren schränkt Innovatoren und deren Innovationsvor
 
 Wie beurteilt der Senat die Idee der Schaffung eines Mentorennetzwerks, das Innovatoren und ehrenamtliche Mentoren zusammenbringt? Wie sollte dies nach den Vorstellung des Senats ausgestaltet, und wo sollte es angebunden sein?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Senat hat sich mit der Errichtung eines Mentorennetzwerks noch nicht befasst. Die Idee der Vernetzung von Innovatoren, etablierten Unternehmen und Wissenschaft wird von der zuständigen Behörde positiv bewertet.
 

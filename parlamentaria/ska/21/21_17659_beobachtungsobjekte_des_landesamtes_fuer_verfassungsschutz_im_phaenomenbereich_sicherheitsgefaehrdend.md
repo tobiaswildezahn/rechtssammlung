@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15989"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67254"
@@ -43,7 +44,7 @@ Welche Personenzusammenschlüsse/Organisationen/Strukturen/Einzelpersonen im Ph�
 
 Welche der in Frage 1. dargelegten Personenzusammenschlüsse/Organisationen/Strukturen/Einzelpersonen verfolgen eine linksgerichtete politisch-ideologische Agenda?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe  
 Verfassungsschutzberichte  

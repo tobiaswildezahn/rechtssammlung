@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 20
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18560", "20/7595", "21/9894", "20/5607", "20/10457", "21/455", "21/9187", "21/18333"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68616"
@@ -51,7 +52,7 @@ Wie viele ASD-Mitarbeiter/-innen sind insgesamt in Hamburg beschäftigt? Bitte a
 
 Wie viele unbesetzte Stellen in welchen Abteilungen und welchem Bezirksamt/Jugendamt gibt es zum Stichtag 01.11.2019?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Mit Stichtag vom 30.09.2019 waren 99,46 Prozent der Stellen für ASD-Fachkräfte tatsächlich besetzt.
 
@@ -141,7 +142,7 @@ Warum geht der Senat beziehungsweise die BASFI bei dem jungen Personalkörper re
 
 Welche Maßnahmen gedenkt der Senat beziehungsweise die Fachbehörde zu treffen, um einen altersgemischten Personalkörper in den ASD zu implementieren und diesen auch dauerhaft dort zu halten?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Durch Errichtung eines dualen Studiengangs beginnend ab Wintersemester 2020 setzt der Senat Anreize für Studierende, längerfristige Beschäftigungsverhältnisse in einem ASD einzugehen.
 

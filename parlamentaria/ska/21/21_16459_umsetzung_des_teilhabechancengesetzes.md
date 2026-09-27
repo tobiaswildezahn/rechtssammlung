@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65977"
@@ -100,7 +101,7 @@ Im Dezember 2018 waren 277 Beschäftigungsverhältnisse im Bundesprogramm „Soz
 
 Die Arbeitgeber aus dem Bundesprogramm „Soziale Teilhabe am Arbeitsmarkt“ haben aus dem Kreis der 277 Beschäftigungsverhältnisse zwischenzeitlich 98 Anträge auf eine (Weiter-)Beschäftigung nach § 16 i SGB II gestellt, von denen bisher 71 bewilligt wurden. Davon mit Beschäftigungsbeginn zum:
 
- Januar 2019: 29
+– Januar 2019: 29
 
 o zum 03. 01.2019 – acht Anträge gestellt, alle bewilligt
 
@@ -108,7 +109,7 @@ o zum 08.01.2019 – zwölf Anträge gestellt, alle bewilligt
 
 o zum 14.01.2019 – neun Anträge gestellt, alle bewilligt
 
- Februar 2019: 24
+– Februar 2019: 24
 
 o zum 01.02.2019 – 18 Anträge gestellt, alle bewilligt
 
@@ -116,11 +117,11 @@ o zum 15.02.2019 – vier Anträge gestellt, drei bewilligt; einer offen
 
 o zum 26.02.2019 – zwei Anträge gestellt, einer bewilligt, einer offen
 
- März 2019: 13
+– März 2019: 13
 
 o zum 01.03.2019 – 13 Anträge gestellt, zehn bewilligt, drei offen
 
- April 2019: 32
+– April 2019: 32
 
 o zum 01.04.2019 – 32 Anträge gestellt, zehn bewilligt, 22 offen
 

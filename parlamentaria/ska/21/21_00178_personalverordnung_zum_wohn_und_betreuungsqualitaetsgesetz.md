@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 16
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48303"
@@ -51,17 +52,17 @@ Die Wohn-und Betreuungspersonalverordnung (WBPersVO) regelt die personellen Anfo
 
 Zentrale Inhalte der Verordnung sind:
 
- Verpflichtung zur systematischen Personalentwicklung einschließlich Gesundheits-
+– Verpflichtung zur systematischen Personalentwicklung einschließlich Gesundheits-
 
 förderung und familienfreundlichen Arbeitszeiten,
 
- Fachkraftquote von 50 Prozent und Anteil ungelernter Kräfte nicht unter 40 Pro-
+– Fachkraftquote von 50 Prozent und Anteil ungelernter Kräfte nicht unter 40 Pro-
 
 zent,
 
- Differenzierte Anforderungen an Leitungskräfte,
+– Differenzierte Anforderungen an Leitungskräfte,
 
- Regelung zum Einsatz von Leiharbeitskräften.
+– Regelung zum Einsatz von Leiharbeitskräften.
 
 Im Übrigen siehe Antwort zu 1.
 
@@ -99,15 +100,15 @@ Derzeit verfügen acht Länder über eine eigene Landespersonalverordnung (Schle
 
 Von den Anforderungen der Verordnungen der anderen sieben Länder unterscheiden sich die Anforderungen an Leitungskräfte in Hamburg im Wesentlichen in folgenden Punkten:
 
- Abgestufte Anforderungen entsprechend den jeweiligen Anwendungsbereichen
+– Abgestufte Anforderungen entsprechend den jeweiligen Anwendungsbereichen
 
 des HmbWBG,
 
- Personen, die ausschließlich über eine kaufmännische oder betriebswirtschaftliche
+– Personen, die ausschließlich über eine kaufmännische oder betriebswirtschaftliche
 
 Ausbildung oder Verwaltungsausbildung verfügen, können keine Leitungsfunktion wahrnehmen,
 
- Festlegung der Verantwortungsbereiche.
+– Festlegung der Verantwortungsbereiche.
 
 Ferner müssen die nachzuweisenden Weiterbildungen bei einer akkreditierten oder staatlich anerkannten Weiterbildungseinrichtung erworben sein.
 
@@ -153,7 +154,7 @@ Wann und in welcher Form wurden die Betroffenen zu der geplanten Verordnung ange
 
 Wie haben die Betroffenen gegebenenfalls zu dem Verordnungsentwurf Stellung genommen?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Der Verordnungsentwurf wurde vor Inkrafttreten der Verordnung in einer längeren, intensiven Beratungsphase von mehreren Wochen mit Trägern, Verbänden, den Bezirksämtern, der Behörde für Arbeit, Soziales, Familie und Integration sowie anderen beteiligten Behörden erörtert beziehungsweise abgestimmt. Die Betroffenen wurden mündlich und schriftlich angehört.
 

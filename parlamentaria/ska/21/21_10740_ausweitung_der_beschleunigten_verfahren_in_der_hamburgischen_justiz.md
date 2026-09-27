@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7487"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59645"
@@ -106,7 +107,7 @@ Gerade in Anbetracht des Umstandes, dass die Haftplatzkapazitäten in Hamburgs J
 
 Wie bewertet die zuständige Behörde die Wirkung des beschleunigten Verfahrens auf das Verhalten der Angeklagten sowie auf die Abschreckung potenzieller Täter?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Zum Stichtag 24. Oktober 2017 befanden sich 115 Untersuchungshäftlinge in der Justizvollzugsanstalt (JVA) Billwerder und 104 Untersuchungshäftlinge in der UHA Hamburg, bei denen – möglicherweise neben weiteren Delikten – Diebstahlsvorwürfe gemäß §§ 242, 243 und 244 StGB (ohne Wohnungseinbruchsdiebstahl gemäß § 244 Absatz 1 Nummer 3 StGB) als Tatvorwurf notiert war.
 

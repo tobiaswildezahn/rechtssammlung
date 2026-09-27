@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8729"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49401"
@@ -55,7 +56,7 @@ Wie und warum sieht das Personalamt diese Verwaltungspraxis mit dem Wortlaut der
 
 Wie sieht und erklärt das Personalamt den Widerspruch dieser Verwaltungspraxis mit der Praxis des VBL, die im Jahr 2011 – bei exakt gleicher Ausgangslage und gleichem Wortlaut der Regelung – eine Zuschlagsberechnung, und zwar ohne Antrag, vorgenommen hat?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Hiermit hat sich der Senat nicht befasst.
 

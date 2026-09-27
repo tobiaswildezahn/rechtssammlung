@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8315"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57941"
@@ -51,27 +52,27 @@ Laut Senat kann die Sondernutzungserlaubnis mit Auflagen und Bedingungen versehe
 
 Die jeweiligen Auflagen richten sich nach der Art der Veranstaltung. Beispiele der Bezirksverwaltung Hamburg-Mitte:
 
- Zum Schutz der Straßenpassanten sind alle erforderlichen Maßnahmen zu treffen.
+– Zum Schutz der Straßenpassanten sind alle erforderlichen Maßnahmen zu treffen.
 
 Der Fußgängerverkehr darf nicht behindert werden.
 
- Der Erlaubnisinhaber hat der Freien und Hansestadt Hamburg alle Kosten zu
+– Der Erlaubnisinhaber hat der Freien und Hansestadt Hamburg alle Kosten zu
 
 erstatten, die ihr im Zusammenhang mit der Sondernutzung entstehen. Hierzu gehören auch Entschädigungs- und Schadenersatzleistungen, welche die Freie und Hansestadt Hamburg aufgrund einer Rechtspflicht erbringen muss.
 
- Der Erlaubnisinhaber hat unter Berücksichtigung der sich aus der Veranstaltung
+– Der Erlaubnisinhaber hat unter Berücksichtigung der sich aus der Veranstaltung
 
 ergebenden Risiken den Abschluss einer ausreichenden Veranstaltungshaftpflichtversicherung, die bei eigenem Verschulden im Rahmen der gesetzlichen Haftungsbestimmungen eintritt, vor Beginn der Veranstaltung nachzuweisen.
 
- Nach Beendigung der Sondernutzung sind die genutzte Fläche und deren Umge-
+– Nach Beendigung der Sondernutzung sind die genutzte Fläche und deren Umge-
 
 bung gründlich zu reinigen. Für den Fall, dass die Reinigung nicht fristgemäß durchgeführt wird, wird diese im Wege der Ersatzvornahme nach § 14 des Verwaltungsvollstreckungsgesetzes auf Kosten des Erlaubnisinhabers durchgeführt.
 
- Der Verantwortliche hat die Erlaubnis bei sich zu führen und den Wegeaufsichts-
+– Der Verantwortliche hat die Erlaubnis bei sich zu führen und den Wegeaufsichts-
 
 und Polizeibeamten auf Aufforderung vorzuzeigen. Ihre Anordnungen sind unverzüglich zu befolgen.
 
- Die öffentliche Fläche darf nach Umfang und Nutzungsart nur in der Form in
+– Die öffentliche Fläche darf nach Umfang und Nutzungsart nur in der Form in
 
 Anspruch genommen werden, wie es in der jeweiligen Erlaubnis festgelegt wird.
 

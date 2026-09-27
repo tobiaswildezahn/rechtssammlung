@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 26
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9699", "21/12656", "21/13572"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63593"
@@ -49,17 +50,17 @@ Wie viele Verteilerkästen gibt es im Hamburger Stadtgebiet?
 
 Wer ist beziehungsweise sind der oder die Eigentümer von wie vielen Verteilerkästen im Hamburger Stadtgebiet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es gibt insgesamt circa 25.300 Verteilerkästen im Stadtgebiet der Freien und Hansestadt Hamburg (FHH). Davon entfallen laut Angaben der Unternehmen als Eigentümer:
 
- circa 3.000 auf die Deutsche Post,
+– circa 3.000 auf die Deutsche Post,
 
- circa 7.300 auf die Deutsche Telekom,
+– circa 7.300 auf die Deutsche Telekom,
 
- circa 13.300 Verteilerschränke, Schaltschränke und Trennschränke auf die SNH,
+– circa 13.300 Verteilerschränke, Schaltschränke und Trennschränke auf die SNH,
 
- circa 1.700 Schaltschränke für Lichtsignalanlagen (LSA) im Zuständigkeitsbereich
+– circa 1.700 Schaltschränke für Lichtsignalanlagen (LSA) im Zuständigkeitsbereich
 
 der HHVA (Eigentümer ist die FHH).
 
@@ -95,17 +96,17 @@ Wie erfährt das verantwortliche Unternehmen von Verunstaltungen eines Verteiler
 
 Gibt es eine (zentrale) Anlaufstelle pro Unternehmen oder eine zentrale Anlaufstelle über alle Unternehmen hinweg für aufmerksame Bürger, um Verunstaltungen dieser Art zu melden? ^ Wenn ja, wie lautet diese beziehungsweise lauten diese?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Unternehmen erfahren auf unterschiedlichen Wegen von Verunstaltungen. So wurden zum einen im Rahmen der Sauberkeitsoffensive der SRH Vereinbarungen mit Versorgungsunternehmen (unter anderem der Telekom Technik GmbH und der Deutsche Post AG) abgeschlossen, in denen sich diese zur Mitverantwortung verpflichten. Die Mitverantwortung besteht aus der Einhaltung festgelegter Meldewege und Fristen und bei Nichteinhaltung aus der Übernahme der Kosten für eine Reinigung durch die SRH. Dazu wurde eine zentrale Meldestelle für Verunreinigungen und wilde Müllablagerungen eingerichtet. Über die „Hotline Saubere Stadt“ unter der Rufnummer 040/2576-11 der Stadtreinigung Hamburg können Verschmutzungsmeldungen gemeldet werden. Zudem können Verunreinigungen mitgeteilt werden:
 
- durch die App der SRH („SauberAPP“) mit Foto der Verunreinigung
+– durch die App der SRH („SauberAPP“) mit Foto der Verunreinigung
 
 https://www.stadtreinigung.hamburg/privatkunden/app/index.html,
 
- über das Kontaktformular auf der SRH-Internetseite,
+– über das Kontaktformular auf der SRH-Internetseite,
 
- per E-Mail über info@stadtreinigung.hamburg.
+– per E-Mail über info@stadtreinigung.hamburg.
 
 Außerdem können die Wegewarte der Bezirke sich bei festgestellten Verunreinigungen an eine Kontaktadresse der Verteilerkästen von Deutscher Post und Telekom wenden.
 
@@ -135,7 +136,7 @@ Gibt es Verteilerkästen im Stadtgebiet, die mit Zustimmung des verantwortlichen
 
 #### Antwort zu Frage 10
 
- bitten wir um Nennung einiger Beispiele.
+– bitten wir um Nennung einiger Beispiele.
 
 Die SNH nennt folgende Beispiele:
 
@@ -163,17 +164,17 @@ o Godenwind/Ecke Münterweg ein Postkasten
 
 o Godenwind/Ecke Gustav-Klimt-Weg ein Postkasten
 
- erfolgte eine Abstimmung hinsichtlich Motiv und Gestaltung in
+– erfolgte eine Abstimmung hinsichtlich Motiv und Gestaltung in
 
 Abstimmung mit dem für die Verteilerkästen verantwortlichen Unternehmen?
 
 Es gibt vertragliche Vorgaben, dass die Darstellungen keine politischen, diskriminierenden oder sexistischen Inhalte enthalten dürfen.
 
- gab es Anforderungen an die zu verwendenden Farben?
+– gab es Anforderungen an die zu verwendenden Farben?
 
 Nein.
 
- gibt es darüber hinaus feste Kriterien seitens des Unternehmens, hin-
+– gibt es darüber hinaus feste Kriterien seitens des Unternehmens, hin-
 
 sichtlich des Bemalens der Gestaltung von Verteilerkästen, wenn dieses in Abstimmung erfolgt?
 

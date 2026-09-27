@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13666", "21/13708", "21/16866", "20/12558", "21/19118"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69054"
@@ -197,13 +198,13 @@ Die Festsetzung der Schülerkostensätze erfolgt gemäß §§ 15 bis 17 des Hamb
 
 Schülerkostensätze 2020 betragen für
 
- Fachschule Vollzeit (Fachschule für Sozialpädagogik): 6.801,70 Euro,
+– Fachschule Vollzeit (Fachschule für Sozialpädagogik): 6.801,70 Euro,
 
- Fachschule Teilzeit (Fachschule für Sozialpädagogik (Teilzeit) sowie Erzieherinnen
+– Fachschule Teilzeit (Fachschule für Sozialpädagogik (Teilzeit) sowie Erzieherinnen
 
 beziehungsweise Erzieher (berufsbegleitend)): 4.714,10 Euro,
 
- Berufsfachschule vollqualifizierend nach mittlerem Schulabschluss (MSA) mit Pra-
+– Berufsfachschule vollqualifizierend nach mittlerem Schulabschluss (MSA) mit Pra-
 
 xisteil (Berufsfachschule für sozialpädagogische Assistenz; SPA): 6.448,95 Euro (gültig auch für Sozialpädagogische Assistenz nach erweitertem ersten Schulabschluss, SPA-ESA).
 
@@ -215,13 +216,13 @@ Wie sind die Kosten pro Schüler an den staatlichen Schulen? Bitte pro Schüler 
 
 Die staatlichen Schülerjahreskosten betragen im Haushaltsjahr 2019
 
- Fachschule Vollzeit (Fachschule für Sozialpädagogik): 8.002 Euro,
+– Fachschule Vollzeit (Fachschule für Sozialpädagogik): 8.002 Euro,
 
- Fachschule Teilzeit (Fachschule für Sozialpädagogik (Teilzeit) sowie Erzieherinnen
+– Fachschule Teilzeit (Fachschule für Sozialpädagogik (Teilzeit) sowie Erzieherinnen
 
 und Erzieher (berufsbegleitend)): 5.546 Euro,
 
- Berufsfachschule vollqualifizierend nach MSA mit Praxisteil (Berufsfachschule für
+– Berufsfachschule vollqualifizierend nach MSA mit Praxisteil (Berufsfachschule für
 
 sozialpädagogische Assistenz; SPA): 7.587 Euro (gültig auch für Sozialpädagogische Assistenz nach erweitertem ersten Schulabschluss, SPA-ESA).
 

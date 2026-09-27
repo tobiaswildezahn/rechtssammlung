@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12260", "21/10083", "21/14609", "21/16765", "21/18580", "21/13251", "21/16532"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69925"
@@ -68,7 +69,7 @@ Wie viele Ausbildungslehrgänge für AiP wurden seit dem 1. Februar 2019 eingest
 
 Wie viele AiP sind während der Ausbildungslehrgänge wieder aus dem jeweiligen Lehrgang ausgeschieden und was waren die Gründe dafür? Bitte nach dem Monat der Einstellungen seit dem 1. Februar 2019 auflisten und die jeweiligen Gründe dafür nennen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 An den in der nachfolgenden Tabelle aufgeführten Einstellungsterminen wurde jeweils ein Ausbildungslehrgang eingestellt.
 
@@ -160,7 +161,7 @@ Welche weiteren Arbeiten zur qualifizierten Unterstützung des Polizeivollzugsdi
 
 Welche weiteren Tätigkeiten sind zukünftig für die AiP vorgesehen? Bitte einzeln nach Tätigkeitsfeld aufführen.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 AiP werden vorwiegend im Verkehrsordnungsdienst, Objektschutz, im Rahmen der lokalen Präsenz und zu mobilen Verkehrsüberwachungsmaßnahmen eingesetzt.
 

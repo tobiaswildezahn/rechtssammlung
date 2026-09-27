@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11992", "21/8541", "21/8929"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61904"
@@ -101,6 +102,6 @@ In wie vielen Fällen wurde der Zweitwunsch nicht erfüllt und aus welchen Grün
 
 In wie vielen Fällen konnte auch der Drittwunsch nicht erfüllt werden und aus welchen Gründen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 In 319 Fällen konnte nach dem nicht erfüllbaren Erstwunsch der Zweitwunsch nicht erfüllt werden, in 246 Fällen konnte nach einem nicht erfüllbaren Erst- und Zweitwunsch der Drittwunsch nicht erfüllt werden. Im Übrigen siehe Vorbemerkung.

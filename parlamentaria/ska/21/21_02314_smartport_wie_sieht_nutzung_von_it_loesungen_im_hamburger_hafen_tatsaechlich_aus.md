@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50585"
@@ -47,7 +48,7 @@ Welche Projekte des Senats beziehungsweise der HPA werden unter den Begriff „s
 
 Wie ist der jeweilige aktuelle Stand zu den vorgenannten Projekten von „smartPORT logistics“?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 
@@ -83,7 +84,7 @@ Welche konkreten Zielgrößen haben der Senat beziehungsweise die HPA für die N
 
 In welchem Umfang sollen die einzelnen Projekte zur Effizienzsteigerung des Hamburger Hafenbetriebs beitragen (bitte für jedes smartPORT- Projekt darstellen)?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Grundsätzlich ist es das Ziel der HPA, mit smartPORT logistics (SPL) dazu beizutragen, alle Beteiligten der Logistikkette zu vernetzen und somit den Verkehr effizienter zu gestalten. Dabei dürfen die Projekte nicht einzeln betrachtet werden, denn sie entfalten ihre volle Effektivität erst in ihrer Verbindung zueinander.
 

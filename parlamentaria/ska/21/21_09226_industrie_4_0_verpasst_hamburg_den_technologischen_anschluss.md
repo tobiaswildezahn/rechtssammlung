@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3842"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57974"
@@ -51,43 +52,43 @@ Welche konkreten Maßnahmen und Projekte sind nach Annahme des Antrages aus Drs.
 
 Seit Beginn des Jahres 2016 wurden im Bereich Industrie 4.0 folgende, wesentliche Vorhaben, Veranstaltungen oder Arbeitsgruppen zur Förderung der Digitalisierung des Hamburger Wirtschaftsstandortes innerhalb und außerhalb der Hamburger Cluster durchgeführt und initiiert:
 
- Hamburg Aviation: Veranstaltungen am 23. Mai 2017 „Industrie 4.0: Zentrum für
+– Hamburg Aviation: Veranstaltungen am 23. Mai 2017 „Industrie 4.0: Zentrum für
 
 Angewandte Luftfahrtforschung (ZAL) Diskurs blickt auf die nächste industrielle Revolution“ und am 2. Juni 2017 „Digital Industry meets Aviation“
 
- Life Science Nord und Gesundheitswirtschaft: Kooperationsprojekt „eHealth“ zur
+– Life Science Nord und Gesundheitswirtschaft: Kooperationsprojekt „eHealth“ zur
 
 Digitalisierung im Gesundheitswesen, gefördert durch den Europäischen Fonds für regionale Entwicklung (EFRE) und Innovationsfonds Hamburg
 
- Logistikinitiative: Gemeinsam mit dem Senat und initiiert durch das Bundesministe-
+– Logistikinitiative: Gemeinsam mit dem Senat und initiiert durch das Bundesministe-
 
 rium für Wirtschaft und Energie unterstützt die Logistikinitiative die Realisierung eines Digital Hub Logistics in Hamburg zur Unterstützung der Logistikbranche bei der digitalen Transformation
 
- Aufbau des Next Logistics Accelerator (NLA), mit dem nationale und internationale
+– Aufbau des Next Logistics Accelerator (NLA), mit dem nationale und internationale
 
 Innovatoren bei der Unternehmensgründung und Umsetzung neuer Geschäftsmodelle begleitet und zugleich die Innovationskraft der Branche am Standort gestärkt werden sollen (Realisierung im Jahr 2018)
 
- Erneuerbare Energien Hamburg: Das Cluster sowie diverse Clustermitglieder
+– Erneuerbare Energien Hamburg: Das Cluster sowie diverse Clustermitglieder
 
 engagieren sich als Konsortialpartner im Projekt „NEW 4.0 – Norddeutsche digitale Energiewende“, einem sogenannten Schaufenster für intelligente Energie des Bundesministeriums für Wirtschaft und Energie
 
- Maritimes Cluster: Bereits seit dem Jahr 2012 engagieren sich viele Mitgliederin-
+– Maritimes Cluster: Bereits seit dem Jahr 2012 engagieren sich viele Mitgliederin-
 
 nen und Mitglieder in der Fachgruppe Informations- und Kommunikationstechnologie (IKT)
 
- Ständige Weiterführung des Projektes smartPORT, bei dem die Hamburg Port
+– Ständige Weiterführung des Projektes smartPORT, bei dem die Hamburg Port
 
 Authority seit dem Jahr 2013 die Digitalisierung des Hamburger Hafens weiter vorantreibt. Dabei werden digitale Technologien und Anwendungen unter Einbeziehung von Unternehmen auf ihre Prozesstauglichkeit erprobt und bei Erfolg in den Betrieb des Hafens implementiert.
 
- Das Kompetenzzentrum Mittelstand 4.0 wurde unter Federführung der Handels-
+– Das Kompetenzzentrum Mittelstand 4.0 wurde unter Federführung der Handels-
 
 kammer Hamburg und den Partnern Handwerkskammer Hamburg, Helmut- Schmidt Universität, Hochschule für angewandte Wissenschaften (HAW) und Technische Universität Hamburg-Harburg (TUHH) im März des Jahres 2017 gestartet. Ziel des Kompetenzzentrums ist, bei Mittelstand und Handwerk das Bewusstsein für Industrie 4.0 zu schärfen und Wissen zu vermitteln.
 
- Das im März des Jahres 2017 eingeweihte „Creative Space for Technical Innovati-
+– Das im März des Jahres 2017 eingeweihte „Creative Space for Technical Innovati-
 
 on“(„CSTI“), dient als Schnittstelle zwischen den Bereichen Forschung und Entwicklung, Gründung und Spin-offs sowie Weiterbildung für kleine und mittlere Unternehmen. Die Bereiche Informatik/Fahrzeugbau/Maschinenbau arbeiten im Labor gemeinsam an Fragestellungen der Mensch-Maschine-Interaktion, eines der Basisthemen von Industrie 4.0.
 
- Die Informatikbereiche der Universität Hamburg (UHH), der HAW, TUHH und
+– Die Informatikbereiche der Universität Hamburg (UHH), der HAW, TUHH und
 
 HafenCity Universität Hamburg (HCU) haben im Sommer des Jahres 2016 ein Konzept für eine Informatikplattform „ahoi.digital“ vorgelegt, das nun von den Hochschulen mit Unterstützung des Senats umgesetzt wird. Die Plattform soll Hamburg als Informatikstandort stärken und die Sichtbarkeit nach außen erhöhen. Sie basiert daher auf den drei tragenden Säulen „Bildung“, „Forschung“ und „Transfer“. Sie soll die Kooperation mit den städtischen Clustern stärken und die Verbindung zwischen Wissenschaft und Wirtschaft ausbauen. Damit trägt sie entscheidend zur gesamtstädtischen Digitalisierungsinitiative bei.
 

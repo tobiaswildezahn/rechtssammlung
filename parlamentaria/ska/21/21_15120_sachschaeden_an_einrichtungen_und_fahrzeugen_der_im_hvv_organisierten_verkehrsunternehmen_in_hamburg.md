@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64581"
@@ -150,13 +151,13 @@ HOCHBAHN
 
 Im nachfolgend dargestellten Aufwand für die Schadenbeseitigung sind verschiedene Positionen nicht enthalten. Das betrifft unter anderem:
 
- Kosten für die Beseitigung von Kleingraffitis an Haltestellen,
+– Kosten für die Beseitigung von Kleingraffitis an Haltestellen,
 
- Kosten für die Beseitigung von Kleingraffitis in Toiletten,
+– Kosten für die Beseitigung von Kleingraffitis in Toiletten,
 
- Beseitigung von Schäden an Bushaltestellenhäuschen,
+– Beseitigung von Schäden an Bushaltestellenhäuschen,
 
- Kosten für Sicherungsposten bei der Entfernung von Graffitischäden im Gleisbe-
+– Kosten für Sicherungsposten bei der Entfernung von Graffitischäden im Gleisbe-
 
 reich.
 
@@ -356,13 +357,13 @@ HOCHBAHN
 
 Im nachfolgend dargestellten Aufwand für die Schadenbeseitigung sind verschiedene Positionen nicht enthalten. Das betrifft unter anderem:
 
- Schäden durch Scratching, da die Scheiben in der Regel nicht ausgetauscht wer-
+– Schäden durch Scratching, da die Scheiben in der Regel nicht ausgetauscht wer-
 
 den,
 
- Kosten für die Beseitigung von kleinen Graffitis in Bussen,
+– Kosten für die Beseitigung von kleinen Graffitis in Bussen,
 
- Kosten für die Entfernung von Graffitis in U-Bahn-Fahrzeugen im Rahmen der
+– Kosten für die Entfernung von Graffitis in U-Bahn-Fahrzeugen im Rahmen der
 
 Reinigung in den Kehranlagen.
 
@@ -690,43 +691,43 @@ HOCHBAHN
 
 Im Rahmen des Sicherheitskonzeptes der Hochbahn-Wache wird der Prävention und der direkten Vorbeugung von Vandalismus mit folgenden Maßnahmen entgegengewirkt:
 
- Zusammenarbeit mit allen Organisationen entsprechend der Sicherheitspartner-
+– Zusammenarbeit mit allen Organisationen entsprechend der Sicherheitspartner-
 
 schaft
 
- Einsatz von Videotechnik in Objekten
+– Einsatz von Videotechnik in Objekten
 
- Objektschutz
+– Objektschutz
 
- Verstärkte Kontrollen an Fahrzeugen durch Betriebspersonal (Fahrdienst, Sicher-
+– Verstärkte Kontrollen an Fahrzeugen durch Betriebspersonal (Fahrdienst, Sicher-
 
 heitsdienst)
 
- Stellen von Strafanträgen
+– Stellen von Strafanträgen
 
 Betriebliche Maßnahmen:
 
- Spezielle Beschichtung an den Fahrzeugen zur schnellen Reinigung von Graffitis
+– Spezielle Beschichtung an den Fahrzeugen zur schnellen Reinigung von Graffitis
 
- Sofortige Reinigung von Graffitis, um hier dem Sprayer die Publikums- und Öffent-
+– Sofortige Reinigung von Graffitis, um hier dem Sprayer die Publikums- und Öffent-
 
 lichkeitswirkung zu nehmen
 
- Kampagne in Fahrzeugen über Bildschirm
+– Kampagne in Fahrzeugen über Bildschirm
 
- Plakatkampagne gegen Vandalismus und Graffitis
+– Plakatkampagne gegen Vandalismus und Graffitis
 
 S-Bahn Hamburg GmbH
 
 Der konzerninterne Sicherheitsdienstleister (DB Sicherheit) ist mit der Bewachung der S-Bahn-Abstellanlagen beauftragt. Das Sicherheitskonzept gliedert sich wie folgt:
 
- Bestreifung der Abstellanlagen in Unternehmensbekleidung (sichtbare Präsenz)
+– Bestreifung der Abstellanlagen in Unternehmensbekleidung (sichtbare Präsenz)
 
- Observation der Abstellanlagen in Zivil durch das „Einsatzteam Graffiti“
+– Observation der Abstellanlagen in Zivil durch das „Einsatzteam Graffiti“
 
- Unterstützung der Einsatzkräfte durch Sicherheitstechnik
+– Unterstützung der Einsatzkräfte durch Sicherheitstechnik
 
- Außenhautsicherung durch Zäune
+– Außenhautsicherung durch Zäune
 
 Zudem findet mit der Bundespolizei ein Austausch zur aktuellen Lageentwicklung statt. Grundsätzlich werden alle Graffitivorfälle zur Strafanzeige gebracht.
 
@@ -734,11 +735,11 @@ DB Station&Service AG
 
 Maßnahmen zur Vorbeugung von Vandalismus:
 
- Verstärkte Bestreifung an Vandalismusschwerpunkten
+– Verstärkte Bestreifung an Vandalismusschwerpunkten
 
- Einsatz von Antigraffiti-Beschichtungen
+– Einsatz von Antigraffiti-Beschichtungen
 
- Abschreckende Wirkung durch Kameras in den Bahnhöfen und Stationen der DB
+– Abschreckende Wirkung durch Kameras in den Bahnhöfen und Stationen der DB
 
 HADAG
 

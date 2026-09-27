@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 18
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15798", "20/11024"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66558"
@@ -44,7 +45,7 @@ An wie vielen Schulen rechnen die Schulleitungen sich wie viele F-Zeiten zu? (Bi
 In der Anlage 6 („Funktions-Aufgaben (F-Aufgaben)) des Berichtes der
 2. Hamburger Lehrerarbeitszeitkommission (17.2.2003, Stand 8.4.2003) werden Beispiele für Funktionszeitwerte vorgelegt. Diese Vorschläge gingen den Schulen mit der sogenannten LAZ-CD im Mai 2003 als „Planungswerkzeug“ aus dem Amt für Schule an die Schulen. a. Sind diese Vorschläge an die Schulen noch gültig (auch bezüglich der Funktionszeiten für Schulleitungen)? b. Gibt es neuere Vorschläge (bitte diese nach Schulform unterschieden angeben)? c. Wenn nicht, bis wann werden entsprechende Richtlinien erarbeitet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Katalog der Funktionen im Anhang des Berichtes der 2. Lehrerarbeitszeitkommission hat einen rein empfehlenden Charakter und gilt unverändert für die Schulleiterinnen und Schulleiter bei der Vergabe von „Funktionszeiten“ (F-Zeiten).
 
@@ -120,7 +121,7 @@ Welchen Beleg hat der Senat/die zuständige Behörde, dass Lehrkräfte in Hambur
 
 Welchen Nachweis kann der Senat/die zuständige Behörde darüber führen, dass „je nach Schulform und sozialer Lage … Hamburger Schulen beispielsweise rund 50 bis 150% mehr Organisationstunden zur Verfügung (stehen) als gleich großen Schulen in Schleswig-Holstein“? Kann der Senat/die zuständige Behörde diese Behauptung generell transparent machen und in konkreten Vergleichen belegen? (Bitte die Quelle angeben.)
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Auf Arbeitsebene (beispielsweise im Rahmen von Treffen auf Kultusministerkonferenz- Ebene) sind die verschiedenen Arbeitszeitmodelle regelmäßig Gegenstand von Beratungen.
 

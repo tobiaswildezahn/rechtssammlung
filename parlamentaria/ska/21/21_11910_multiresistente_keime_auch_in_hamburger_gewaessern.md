@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 19
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9470"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61152"
@@ -53,7 +54,7 @@ Welche Erkenntnisse hat der Senat über das Vorkommen von multiresistenten Keime
 
 Welchen Handlungsbedarf sieht der Senat? Welche Maßnahmen sind gegebenenfalls geplant?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

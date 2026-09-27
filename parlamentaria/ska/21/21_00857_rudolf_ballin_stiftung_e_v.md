@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49024"
@@ -80,7 +81,7 @@ Inwiefern wurden Vermögensbetreuungsverpflichtungen gegenüber der Freien und H
 
 Was waren die Gründe für die Übernahme der Pensionsverpflichtung, die andere Vereine in vergleichbarer Lage selbst stemmen müssen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Vermögensbetreuungspflichten wurden nicht verletzt.
 

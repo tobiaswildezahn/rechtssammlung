@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 24
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14267", "21/50", "21/52"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64500"
@@ -227,6 +228,6 @@ Welche Kosten-Ansätze wurden im Gutachten von LBD für Instandhaltungs- und fü
 
 Wie hoch sind die gesamten bisherigen finanziellen Aufwendungen für die Planungen der Wärmetrassen, für welche Planungsgelder im Dezember 2016 und Dezember 2017 freigegeben wurden: a. für die Trasse mit Elbquerung, b. für die Trasse zur Belieferung mit industrieller Abwärme von AURUBIS (ohne den Anteil von enercity), c. für eine Trasse zum ZRE?
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Die bei der VWH genehmigten Budgets sind vertrauliche Daten und unterliegen somit den Betriebs- und Geschäftsgeheimissen.

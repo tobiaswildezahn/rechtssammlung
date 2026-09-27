@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51108"
@@ -49,7 +50,7 @@ Trifft es zu, dass nur 90 Prozent der 890 Schlafplätze belegt sind? Wenn ja, vo
 
 Wie viele Schlafplätze sind am 4. Januar 2016 in Anspruch genommen worden? Bitte nach einzelnen Einrichtungen unter Angabe der jeweils maximalen Anzahl der Schlafplätze auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Zahl der Übernachter im Winternotprogramm verändert sich täglich. Die durchschnittliche Auslastung im Monat Dezember 2015 für das Winternotprogramm betrug 90 Prozent.
 

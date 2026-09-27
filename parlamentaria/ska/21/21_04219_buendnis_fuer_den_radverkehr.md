@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3969"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52630"
@@ -59,7 +60,7 @@ Gibt es in den Bezirksversammlungen offene Verfahren, wie zum Beispiel Anträge 
 
 Welche Stellungnahmen sind bisher bei dem Senat eingegangen, welchen Inhalt haben diese?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Derzeit liegen folgende Anträge aus den Bezirksversammlungen vor:
 

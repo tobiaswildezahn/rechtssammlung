@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 18
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9286"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59558"
@@ -55,7 +56,7 @@ Wie viele Flüchtlinge beendeten Ende Juli 2017 AvM-Dual am Hamburger Institut f
 
 Mit welchen Abschlüssen (ESA, MSA) beendeten die Flüchtlinge Ende Juli 2017 AvM-Dual? Wie viele erhielten nur ein Abgangszeugnis, da ihre Leistungen den Anforderungen für ein Abschlusszeugnis der Berufsvorbereitungsschule nicht genügten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -85,7 +86,7 @@ Wie viele Klassen AvM-Dual gibt es derzeit in Hamburg? Wie viele Klassen wurden 
 
 Wie viele Schüler/-innen wurden AvM-Dual seit Juni 2017 insgesamt neu zugewiesen? Bitte nach Monaten aufschlüsseln.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Zum Stichtag 12.10.2017 gibt es 145 Klassen AvM-Dual in Hamburg.
 

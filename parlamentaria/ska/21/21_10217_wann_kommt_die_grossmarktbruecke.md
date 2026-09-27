@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10049"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59053"
@@ -61,15 +62,15 @@ Welche konkreten Parameter/Kriterien werden bei der Wirtschaftlichkeitsuntersuch
 
 Es wurden die fachlichen Parameter einer Wirtschaftlichkeitsuntersuchung für Verkehrsanlagen zugrunde gelegt. Dazu gehören:
 
- Festlegung und Typisierung des Untersuchungsnetzes,
+– Festlegung und Typisierung des Untersuchungsnetzes,
 
- Ableitung der maßgebenden Verkehrsstärken,
+– Ableitung der maßgebenden Verkehrsstärken,
 
- Ermittlung des Nutzens,
+– Ermittlung des Nutzens,
 
- Ermittlung der Kosten,
+– Ermittlung der Kosten,
 
- Bestimmung des Nutzen-Kosten-Verhältnisses.
+– Bestimmung des Nutzen-Kosten-Verhältnisses.
 
 ### Frage 4
 
@@ -87,19 +88,19 @@ Welchen konkreten Nutzen verspricht sich der Senat von der Großmarktbrücke?
 
 Die betrachteten Nutzenkomponenten stellen sich in folgenden Feldern dar:
 
- Veränderung der Fahrzeit im Kfz-Verkehr,
+– Veränderung der Fahrzeit im Kfz-Verkehr,
 
- Veränderung der Betriebskosten im Kfz-Verkehr,
+– Veränderung der Betriebskosten im Kfz-Verkehr,
 
- Veränderung des Unfallgeschehens,
+– Veränderung des Unfallgeschehens,
 
- Veränderung der Umweltkosten,
+– Veränderung der Umweltkosten,
 
- Veränderung der Trennwirkung,
+– Veränderung der Trennwirkung,
 
- Veränderung der Flächenverfügbarkeit,
+– Veränderung der Flächenverfügbarkeit,
 
- Veränderung der laufenden Kosten.
+– Veränderung der laufenden Kosten.
 
 In der aktuellen Nutzenanalyse sind die positiven Effekte auf die Fußgänger- und Radfahrerverknüpfungen nicht bewertet worden, damit eine Vergleichbarkeit zur ursprünglichen Kosten-Nutzen-Analyse erhalten bleibt.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 16
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5888"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58549"
@@ -49,7 +50,7 @@ Wer hat die Befragungen durchgeführt und wer hat sie in Auftrag gegeben?
 
 Welchem konkreten Zweck dienen die Befragungen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -69,7 +70,7 @@ Was sind die Ergebnisse der Befragungen?
 
 Inwiefern haben der Senat beziehungsweise die zuständige Behörde bereits Maßnahmen aus den Ergebnissen abgeleitet oder planen, dies zu tun?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die in der Vorbemerkung benannte Studie zu Wechselwirkungen P+R/B+R soll im Frühjahr des Jahres 2018 abgeschlossen werden, Teilergebnisse liegen noch nicht vor.
 
@@ -405,28 +406,28 @@ Zu 7e)
 Fragen zur Qualität:
 
 Wie zufrieden sind Sie bei dieser Fahrt mit der/dem...  
-  
+–  
 Kompetenz und Freundlichkeit des Sicherheits- und Servicepersonals (U/S-Bahn) bzw.  
 Kompetenz und Freundlichkeit des Fahrers (Bus)  
-  
+–  
 Fahrstil (nur Bus/Schiff)  
-  
+–  
 Haltestellenansage (und -anzeige) im Fahrzeug  
-  
+–  
 Sauberkeit der Haltestellen  
-  
+–  
 Zustand der Haltestelleneinrichtung  
-  
+–  
 Sauberkeit der Fahrzeuge  
-  
+–  
 Zustand der Fahrzeugeinrichtung  
-  
+–  
 Klimatisierung der Fahrzeuge (Lüftung, Heizung)  
-  
+–  
 Vollständigkeit u. Lesbarkeit der Haltestelleninformation (nur Bus/Schiff)  
-  
+–  
 Funktion der Rolltreppen und Aufzüge (nur U/S-Bahn)  
-  
+–  
 Pünktlichkeit
 
 Zeitraum (7a)
@@ -466,35 +467,35 @@ Ohlsdorf, Wandsbek Gartenstadt, Veddel
 8.850,-€
 
 Wie zufrieden sind Sie insgesamt mit...  
-  
+–  
 Ansagen bei Betriebsstörungen  
-  
+–  
 Sicherheit / Belästigungsschutz  
-  
+–  
 Sicherstellung von Anschlüssen im Abendverkehr (nur Bus)  
 Wie zufrieden sind Sie bei dieser Fahrt mit...  
-  
+–  
 Fahrpreis  
-  
+–  
 Takt  
-  
+–  
 Erreichbarkeit  
-  
+–  
 Schnelligkeit  
 Allgemeine Fragen:  
-  
+–  
 Zweck der Fahrt  
-  
+–  
 Dauer der Fahrt  
-  
+–  
 Häufigkeit  
-  
+–  
 Beruf  
-  
+–  
 Alter  
-  
+–  
 Geschlecht  
-  
+–  
 PLZ  
 Zu 7f), 7g), 7i)  
 Die Ergebnisse dienen zur vertragsgemäßen Bonus-Malus-Ermittlung im Qualitätssteuerungsverfahren und werden darüber hinaus zu Planungszwecken verwendet. Die Ergebnisse sind auf hvv.de in  
@@ -869,16 +870,16 @@ führt, um zukünftig gezielte
 Ansätze der Kundenbindung  
 ergreifen zu können.  
 Mögliche Ansätze:  
-• Hoher Anteil an Pendlern  
+– Hoher Anteil an Pendlern  
 mit eigenem Auto?  
-• Arbeitsstandort nicht mit  
+– Arbeitsstandort nicht mit  
 ÖPNV erreichbar?  
-• P+R wird nicht genutzt? Zu  
+– P+R wird nicht genutzt? Zu  
 hohe P+R-Preise? P+R  
 unbekannt?  
-• Eigenes Auto wird aus  
+– Eigenes Auto wird aus  
 Bequemlichkeit bevorzugt?  
-• Wenige Pendler unter den  
+– Wenige Pendler unter den  
 Einwohnern?  
-• HVV-Abo zu teuer oder  
+– HVV-Abo zu teuer oder  
 unbekannt?

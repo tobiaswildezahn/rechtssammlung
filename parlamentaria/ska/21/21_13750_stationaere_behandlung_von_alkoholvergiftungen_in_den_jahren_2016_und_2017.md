@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5527", "21/9899"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63132"
@@ -114,7 +115,7 @@ Bei wie vielen der oben genannten Krankenhauseinlieferungen wegen einer Alkoholv
 
 In welcher Höhe müssen sich die betreffenden Personen (oder deren Erziehungsberechtigte) an diesen Kosten beteiligen? Schulden Patienten der Stadt Hamburg noch diverse Beträge? Wenn ja, in welcher Gesamthöhe?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/5527.
 
@@ -126,7 +127,7 @@ Welche Maßnahmen gedenkt der Senat beziehungsweise die zuständige Behörde zu 
 
 Welche Maßnahmen gedenkt der Senat beziehungsweise die zuständige Behörde zu ergreifen, um die Zahl der alkoholintoxikierten Personen in Hamburg kurzfristig zu reduzieren?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Senat hält am bisherigen Konzept fest. Grundsätzlich werden die bisher getroffenen Maßnahmen als erfolgreich angesehen. Die in der Drs. 21/5527 genannten Maßnahmen werden weiterhin verfolgt. Im Übrigen siehe Drs. 21/9899.
 
@@ -138,7 +139,7 @@ Wie hat sich die Summe der städtischen Zuwendungen an Alkoholpräventionsprojek
 
 Wie hat sich die Summe der städtischen Zuwendungen an Institutionen, die schwerpunktmäßig auf dem Gebiet der Alkoholprävention tätig sind, seit 2011 entwickelt? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Zuwendungen für das Jahr 2017 beliefen sich auf 1.014.718 Euro. Im Übrigen siehe Drs. 21/9899.
 
@@ -150,6 +151,6 @@ Wie hat sich die Summe der städtischen Zuwendungen an Projekte auf dem Gebiet d
 
 Wie hat sich die Summe der städtischen Zuwendungen an Institutionen, die schwerpunktmäßig auf dem Gebiet der Alkoholsuchthilfe tätig sind, seit 2011 entwickelt? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Zuwendungen für das Jahr 2017 beliefen sich auf 18.339.190 Euro. Im Übrigen siehe Drs. 21/9899.

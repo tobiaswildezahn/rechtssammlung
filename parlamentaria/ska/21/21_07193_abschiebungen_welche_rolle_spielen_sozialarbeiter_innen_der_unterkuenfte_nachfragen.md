@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 3
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6772"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55788"
@@ -45,6 +46,6 @@ Was ist die Rechtsgrundlage für a. das Eindringen in den privaten Wohnraum? b. 
 
 Auf welcher Rechtsgrundlage werden die Mitarbeiter/-innen der Unterkünfte verpflichtet, Stillschweigen über die Herausgabe des Zweitschlüssels zu wahren?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/6772.

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 27
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53576"
@@ -51,7 +52,7 @@ Ist es zutreffend, dass auf der vergangenen Hauptversammlung der HHLA von Aktion
 
 Wie bewertet der Senat das Verhältnis vom Aufsichtsratsvorsitzenden der HHLA zu den Anlegern? Gibt es aus Sicht des Senats Schwierigkeiten? Wenn ja, welche und warum?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat hat sich damit nicht befasst. Im Übrigen siehe Vorbemerkung.
 
@@ -63,7 +64,7 @@ Wie schätzt der Senat die bisherige Amtsführung des Aufsichtsratsvorsitzenden 
 
 Wie bewertet der Senat die Qualität des Aufsichtsrates der HHLA insgesamt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Damit hat sich der Senat nicht befasst.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4312", "21/17794"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67462"
@@ -63,11 +64,11 @@ Welche geplanten Umbaumaßnahmen, Sanierungen und Instandsetzungen finden gegenw
 
 #### Antwort zu Frage 3
 
- Restarbeiten Neubau Familienbad Ohlsdorf,
+– Restarbeiten Neubau Familienbad Ohlsdorf,
 
- Betonsanierung des Hallenbads Billstedt (Beginn 09/2019),
+– Betonsanierung des Hallenbads Billstedt (Beginn 09/2019),
 
- Modernisierung und Erweiterung der Alster-Schwimmhalle (voraussichtlicher
+– Modernisierung und Erweiterung der Alster-Schwimmhalle (voraussichtlicher
 
 Beginn 10/2020).
 

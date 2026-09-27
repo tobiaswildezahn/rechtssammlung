@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/3641"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69930"
@@ -43,19 +44,19 @@ Die Möglichkeit einer inklusiven Beschulung von Schülerinnen und Schülern mit
 
 In der Elbschule BildungsZentrum Hören und Kommunikation gibt es seit dem Schuljahr 2016/2017 einen gemeinsamen, zielgleichen Unterricht für Schülerinnen und Schüler mit und ohne Hörschädigung aufwachsend ab Klasse 5 in einer Lerngruppe mit 14 Schülerinnen und Schülern, davon sieben ohne einen sonderpädagogischen Förderbedarf. Dieses Lernmodell hat sich bereits in anderen Schulversuchen im Inund Ausland über Jahre hinweg erfolgreich bewährt und bietet gute Rahmenbedingungen. Es bestehen
 
- dieselben Bildungspläne und dieselben Schulabschlüsse wie in allen Stadtteilschu-
+– dieselben Bildungspläne und dieselben Schulabschlüsse wie in allen Stadtteilschu-
 
 len bis Jahrgang 10,
 
- es bestehen sehr gute Lernbedingungen durch eine Doppelbesetzung in den
+– es bestehen sehr gute Lernbedingungen durch eine Doppelbesetzung in den
 
 Hauptfächern, moderne Lehrmittelausstattung und beste Raumakustik,
 
- es gibt ein kreatives pädagogisches Konzept im Rahmen des Hamburger Kultur-
+– es gibt ein kreatives pädagogisches Konzept im Rahmen des Hamburger Kultur-
 
 schulprogrammes sowie
 
- eine Win-win-Situation im Bereich des sozialen Lernens für alle Beteiligten.
+– eine Win-win-Situation im Bereich des sozialen Lernens für alle Beteiligten.
 
 Zum Schuljahr 2017/2018 erfolgte die Einrichtung eines entsprechenden Grundschulangebots ab Klasse 1.
 
@@ -228,7 +229,7 @@ Wann ist die Entscheidung gefallen, inklusive Lerngruppen zu beenden, wie wurde 
 
 Wie bewertet der Senat das Ende von inklusiven Lerngruppen vor dem Hintergrund seiner Verpflichtung zur Umsetzung der UN-Behindertenrechtskonvention?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 

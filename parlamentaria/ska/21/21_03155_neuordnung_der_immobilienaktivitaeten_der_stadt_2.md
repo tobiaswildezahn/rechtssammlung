@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14486", "21/1188"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51493"
@@ -72,7 +73,7 @@ Wie hoch ist der geschätzte Aufwand für den Aufbau des Portfoliomanagements be
 
 In welcher Form liegen bereits jeweils welche Ergebnisse der von der HGV beauftragten Unternehmensberatung zur Entwicklung und zum Aufbau eines Portfoliomanagements vor? Wann sollen welche Maßnahmen umgesetzt werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der „Abschlussbericht zur Beratung und operativen Unterstützung beim Aufbau eines Portfoliomanagements für städtische Immobilien“ des beauftragten Gutachters liegt seit Ende Dezember 2015 vor. Derzeit plant die HGV für das Jahr 2016 keine Personalaufstockung für die Aufgaben des Portfoliomanagements.
 

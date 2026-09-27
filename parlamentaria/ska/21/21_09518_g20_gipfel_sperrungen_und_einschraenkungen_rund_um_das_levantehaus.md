@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 19
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6860", "21/7380", "21/9064", "21/9211"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58283"
@@ -53,21 +54,21 @@ Ein Geschäftsbetrieb wäre während des G20-Gipfels grundsätzlich möglich, Ku
 
 Betroffen im Sinne der Fragestellung sind
 
- 26 Einzelhandelsgeschäfte,
+– 26 Einzelhandelsgeschäfte,
 
- zehn Gastronomiebetriebe,
+– zehn Gastronomiebetriebe,
 
- ein Änderungs-Atelier,
+– ein Änderungs-Atelier,
 
- ein Fitnessstudio,
+– ein Fitnessstudio,
 
- ein Friseur,
+– ein Friseur,
 
- ein Ticketshop,
+– ein Ticketshop,
 
- eine Bank und
+– eine Bank und
 
- ein Hotelbetrieb.
+– ein Hotelbetrieb.
 
 ### Frage 2
 
@@ -85,11 +86,11 @@ Welche Kontrollen finden genau am Zugang zum Levantehaus statt? Bitte aufschlüs
 
 Die Polizei trifft an den Durchlass- und Kontrollstellen folgende Maßnahmen:
 
- Personalienüberprüfungen
+– Personalienüberprüfungen
 
- Erfragen und Überprüfen des Anlasses für einen Zugang in das Objekt
+– Erfragen und Überprüfen des Anlasses für einen Zugang in das Objekt
 
- Durchsuchungen von Personen und mitgeführten Sachen.
+– Durchsuchungen von Personen und mitgeführten Sachen.
 
 Die Zutrittsregelungen ergeben sich in erster Linie aus dem Bezug von Personen zum Objekt. Die Polizei prüft dabei einzelfallgerecht und unter Berücksichtigung der individuellen Gegebenheiten.
 

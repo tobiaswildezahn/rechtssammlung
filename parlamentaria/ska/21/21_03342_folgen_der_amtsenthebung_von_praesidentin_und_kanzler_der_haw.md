@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 26
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51679"
@@ -43,7 +44,7 @@ Wann wurden die Beschlüsse der Hochschulgremien gefasst, dass Präsidentin und 
 
 Wurden beide inzwischen formal ihrer Ämter enthoben? Wenn ja: wann und von wem? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Abwahl der Präsidentin durch den Hochschulsenat erfolgte gemäß § 80 Absatz 4 des Hamburgischen Hochschulgesetzes (HmbHG) am 2. November 2015 und wurde durch den Hochschulrat am 11. November 2015 mit Wirkung zum 31. Dezember 2015 bestätigt. Die Abwahl des Kanzlers wurde am 11.11.2015 gemäß § 83 Absatz 4 HmbHG mit Wirkung zum 31. Dezember 2015 vom Hochschulrat beschlossen.
 
@@ -63,7 +64,7 @@ Haben Präsidentin und Kanzler Anspruch nach Ausscheiden aus ihren Ämtern Anspr
 
 Können Präsidentin und Kanzler nach ihrem Ausscheiden auf frühere Anstellungen zurückkehren? Wenn ja: welche sind das?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nein.
 

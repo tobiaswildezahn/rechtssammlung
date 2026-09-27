@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7522"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56350"
@@ -88,19 +89,19 @@ Welche Fakultäten führen derzeit Lehrveranstaltungen im Philosophenturm und an
 
 Im Philosophenturm befinden sich zentrale Hörsäle, die allen Fakultäten gleichermaßen zur Verfügung stehen. Mit Ausnahme der Medizin führen daher alle Fakultäten dort Lehrveranstaltungen durch. Im Einzelnen sind es folgende Fakultäten:
 
-• Fakultät für Rechtswissenschaft
+– Fakultät für Rechtswissenschaft
 
-• Fakultät für Wirtschafts- und Sozialwissenschaften
+– Fakultät für Wirtschafts- und Sozialwissenschaften
 
-• Fakultät für Erziehungswissenschaft
+– Fakultät für Erziehungswissenschaft
 
-• Fakultät für Geisteswissenschaften
+– Fakultät für Geisteswissenschaften
 
-• Fakultät für Mathematik, Informatik und Naturwissenschaften
+– Fakultät für Mathematik, Informatik und Naturwissenschaften
 
-• Fakultät für Psychologie und Bewegungswissenschaft
+– Fakultät für Psychologie und Bewegungswissenschaft
 
-• Fakultät für Betriebswirtschaft
+– Fakultät für Betriebswirtschaft
 
 Die Seminarräume im Philosophenturm werden von der Fakultät für Geisteswissenschaften genutzt.
 

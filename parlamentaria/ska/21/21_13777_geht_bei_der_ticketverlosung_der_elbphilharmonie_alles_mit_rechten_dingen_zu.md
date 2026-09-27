@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 33
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3696", "21/2839"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63159"
@@ -59,7 +60,7 @@ Wie viele Abonnements der Elbphilharmonie wurden für die Saison 2018/2019 bisla
 
 Wie viele Freiverkaufs-Tickets sind für die Saison 2018/2019 bislang über das Zufallsprinzip zugeteilt worden (absolut und in Prozent der Bestellungen)? Wie viele Tickets (ohne Abonnements) sind für die Saison 2018/2019 bislang insgesamt verkauft worden? Wie viele Tickets wurden darüber hinaus gesondert kostenlos oder vergünstigt abgegeben?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für die Saison 2018/2019 wurden insgesamt 3.314 Abonnements nach dem Zufallsprinzip zugeteilt, dies entspricht 24,12 Prozent aller Abonnements. 5.887 Anfragen konnten nicht berücksichtigt werden.
 
@@ -75,7 +76,7 @@ Wie genau läuft das Zuteilungsverfahren nach dem „Zufallsprinzip“ ab? Bitte
 
 Wie wird sichergestellt, dass die Zuschläge tatsächlich nach dem Zufallsprinzip erfolgen? Wie wird weiterhin sichergestellt, dass keinerlei Manipulationen – bei der Vorbereitung der Zuteilung, während der Zuteilung und danach – erfolgen können?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nach der Anmeldung zum Vergabeverfahren, die sowohl online als auch offline möglich ist, wird die Bestellung aufgegeben: gewünschte Anzahl der Tickets je Konzert/ Abonnement, gewünschte Preiskategorie (optional können auch andere Preiskategorien akzeptiert werden), gegebenenfalls Angabe zu einem benötigten „Rollstuhlplatz“.
 

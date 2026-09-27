@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3740"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52240"
@@ -71,6 +72,6 @@ Gibt es außer Prof. Lenzen noch andere leitende Mitglieder der Hamburger staatl
 
 Hat Senatorin Fegebank mit diesen anderen Kritikern der Bologna- Reform über deren Kritik gesprochen? Wenn ja: Wann und was war das Ergebnis der Gespräche? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Derartige Äußerungen sind der zuständigen Behörde nicht bekannt. Im Übrigen: entfällt.

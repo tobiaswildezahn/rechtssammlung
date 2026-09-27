@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55324"
@@ -69,7 +70,7 @@ Inwiefern hat der Senat berufsethische Bedenken gegen das oben beschriebene Vorg
 
 Inwiefern gibt es arbeitsrechtliche Bedenken hinsichtlich der berufsethischen Verpflichtungen von Sozialarbeitern/-innen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Es begegnet weder berufsethischen noch arbeitsrechtlichen Bedenken, der zuständigen Behörde die Durchführung ihrer gesetzlichen Aufgaben zu ermöglichen. Vielmehr sind die im behördlichen Auftrag tätigen Unterkunftsbetreiber hierzu verpflichtet, siehe Vorbemerkung.
 

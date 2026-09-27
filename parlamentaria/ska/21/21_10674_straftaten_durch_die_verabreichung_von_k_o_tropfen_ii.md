@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5580", "20/6997", "19/2505", "20/6697"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59577"
@@ -149,6 +150,6 @@ Welche (neuen) Maßnahmen sollen von den zuständigen Behörden künftig ergriff
 
 Welche neuen Angebote der Information, Prävention und Unterstützung Betroffener sind in der Zwischenzeit geschaffen worden?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Der Zentralen Notaufnahme des UKE stehen Flyer über K.o.-Tropfen-Beibringung zur Verfügung. Den Geschädigten werden diese ausgehändigt und Proben zur Untersuchung und Asservierung in den Ar-beitsbereich Toxikologie des Instituts für Rechtsmedizin geschickt. Die bereits in der Drs. 21/5580 beschriebenen Angebote und Maßnahmen werden fortgeführt. Darüber hinaus siehe Drs. 20/6697.

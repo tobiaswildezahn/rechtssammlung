@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51039"
@@ -108,7 +109,7 @@ Kann der Kunde nach dem Verlust seiner HVV-Card noch den ÖPNV nutzen?
 
 Wie erhält der HVV-Kunde gegebenenfalls eine neue HVV-Card?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Für die Nutzung der Verkehrsmittel im HVV wird immer eine gültige Fahrkarte benötigt. Geht die HVV-Card verloren und ist eine gültige Zeitkarte gespeichert, erhält der Kunde zukünftig am eigenen PC oder in den HVV-Servicestellen eine personalisierte Übergangsfahrkarte für eine Woche als Papierausdruck (analog zum heutigen Printticket). In der Zwischenzeit wird die neue HVV-Card erstellt und zugeschickt. Die alte HVV-Card wird elektronisch gesperrt. Bis zur Ausstellung der Übergangsfahrkarte muss der Kunde einen Papierfahrschein oder ein MobilTicket erwerben.
 

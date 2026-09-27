@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 30
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4499", "21/4566", "21/4765", "21/5126", "21/5454", "21/5811", "21/5832"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54751"
@@ -97,7 +98,7 @@ Welchen Berufsgruppen sind die bisher erfassten Personen zuzuordnen?
 
 Wie viele Personen wurden bereits von W.I.R in Sprachkurse, Praktika, Ausbildung, Arbeit oder Studium vermittelt? Bitte einzeln aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/5832.
 

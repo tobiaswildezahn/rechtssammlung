@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 22
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/4754", "17/737", "17/158", "17/347", "17/752", "17/1300", "17/1803", "17/2658", "17/3519", "17/3554", "17/4009", "18/121", "18/1169", "18/1624", "18/2893", "17/479", "18/4680", "18/5851"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/76483"

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 20
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3724", "21/4046"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54067"
@@ -97,7 +98,7 @@ Gibt es laut der Polizei Hamburg besonders „sichere“ und „unsichere“ „
 
 Wie reagieren der Senat beziehungsweise die Verwaltung auf die vorgenannten Erkenntnisse? Wo wurden bisher welche Maßnahmen ergriffen, um Unfälle oder Verkehrsbehinderungen zu vermeiden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der zuständigen Behörde sind derzeit keine Einsatzanlässe aufgrund des in Rede stehenden Computerspiels bekannt, die Maßnahmen erforderlich machten, um Verkehrsbehinderungen oder Unfälle zu vermeiden. Darüber hinaus liegen der Polizei keine Erkenntnisse im Sinne der Fragestellung vor.
 

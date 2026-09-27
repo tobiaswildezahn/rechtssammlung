@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3516"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52002"
@@ -172,15 +173,15 @@ Seit Oktober 2013 ist ein dreitägiges „Deeskalationstraining“ curricularer 
 
 Der Arbeitskreis Rettungsdienst der AGBF hat in seinem Papier „Prävention und Umgang mit Aggression und Gewalt“ folgende Bausteine für die Ausbildung der Mitarbeiterinnen und Mitarbeiter abgestimmt:
 
- Prävention von Konfliktsituationen (unter anderem Verbesserung der Fähigkeiten
+– Prävention von Konfliktsituationen (unter anderem Verbesserung der Fähigkeiten
 
 zur Früherkennung potenzieller Gewaltsituationen an Einsatzstellen, angemessene psychologische Betreuung von Patienten und Angehörigen)
 
- Konfliktsituation und Aggression (insbesondere Deeskalationstrainings zum geziel-
+– Konfliktsituation und Aggression (insbesondere Deeskalationstrainings zum geziel-
 
 ten Aggressionsabbau, Verbesserung der Eigensicherungsgrundsätze).
 
- Konfliktsituationen mit physischer Gewalt (unter anderem Entwicklung von Rück-
+– Konfliktsituationen mit physischer Gewalt (unter anderem Entwicklung von Rück-
 
 zugstaktiken, Befreiungsgriffen und Fixierungstechniken, Vermittlung der einschlägigen rechtlichen Grundlagen).
 

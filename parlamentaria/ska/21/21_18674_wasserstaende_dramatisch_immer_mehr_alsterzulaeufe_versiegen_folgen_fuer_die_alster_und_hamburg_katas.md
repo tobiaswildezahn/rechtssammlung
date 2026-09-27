@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 23
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5692"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68340"
@@ -45,7 +46,7 @@ Wie viele dieser Zuläufe liegen
 a) ganz oder
 b) teilweise auf Hamburgischen Staatsgebiet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Alster hat 21 Zuläufe, davon liegen 16 ganz und einer teilweise auf hamburgischem Gebiet.
 
@@ -75,7 +76,7 @@ Welche Einflüsse hat diese Änderung der Wasserstände auf die Lebenssituation 
 
 In welchem Ausmaß ist es durch diese Entwicklung bereits zum Fischsterben im Bereich der Alster gekommen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Schwankende Wasserstände sind grundsätzlich ein natürlicher Vorgang der für aquatische Lebewesen unterschiedliche Auswirkungen haben kann. Insbesondere das länger anhaltende gänzliche Trockenfallen von Gewässern kann zum Absterben von
 
@@ -144,7 +145,7 @@ c) der Binnenalster in den letzten fünf Jahren jeweils entwickelt? Bitte Daten 
 
 Wie hat sich der Sauerstoffgehalt der Abschnitte unter 12. im Verlauf der letzten fünf Jahre verändert? Wie sieht hierbei das Tiefenprofil insbesondere der Außenalster bezüglich Sauerstoff und anderer gewässerrelevanter Parameter aus?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe hierzu: http://fhh1.hamburg.de/Behoerden/Umweltbehoerde/W1/ska2118674- Chemiedaten-Alster.xlsx .
 

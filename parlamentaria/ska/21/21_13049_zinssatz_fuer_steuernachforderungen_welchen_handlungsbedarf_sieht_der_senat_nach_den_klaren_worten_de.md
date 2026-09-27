@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62425"
@@ -45,7 +46,7 @@ Wie hoch war das Zinsaufkommen nach § 233a AO jeweils in den Jahren 2015, 2016 
 
 Wie hoch waren dabei in den Jahren 2015, 2016 und 2017 jeweils der Betrag aus Nachforderungszinsen in den einzelnen Steuerarten sowie die gezahlten Erstattungszinsen in den einzelnen Steuerarten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

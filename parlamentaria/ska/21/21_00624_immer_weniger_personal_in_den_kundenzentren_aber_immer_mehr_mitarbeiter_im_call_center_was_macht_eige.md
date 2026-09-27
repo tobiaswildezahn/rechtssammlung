@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 44572
 seiten: 7
 fragen: 14
-einzelfragen: 18
-antwortbloecke: 12
+einzelfragen: 20
+antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/455", "19/2194", "21/330"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48779"
@@ -43,7 +44,7 @@ Welche Aufgaben nimmt derzeit der Telefonische HamburgService (THS) im Einzelnen
 
 Wie genau hat sich das Aufgabenspektrum des THS seit dem 1.01.2012 jeweils wann, aus welchen Gründen und auf wessen Veranlassung verändert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Telefonische HamburgService (HS) erteilt zum einen Auskünfte zu rund 6.000 Dienstleistungen der Bezirksämter und Fachbehörden der Freien und Hansestadt Hamburg (FHH). Zum anderen werden im Rahmen des 115-Verbundes Auskünfte zu Dienstleistungen aller Verbundteilnehmer auf kommunaler-, Kreis-, Landes- und Bundesebene gegeben (siehe: http://www.115.de/SharedDocs/Publikationen/DE/Organisation/ 115-Leistungen_Kommunen_Laender_Bund.pdf?__blob=publicationFile&v=4).
 
@@ -61,7 +62,7 @@ Wie hoch war die Zahl der Mitarbeiter (gesamte Anzahl sowie VZÄ) am
 31.12.2012, 30.06.2013, am 31.12.2013, am 30.06.2014 sowie am
 31.12.2014?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Stichtag  
 Beschäftigte  
@@ -117,15 +118,20 @@ Siehe Anlage 3.
 
 Gemäß den Angaben des Senats in Drs. 21/330 wurden seit dem
 1.04.2014 über 300.000 Termine in den Kundenzentren vereinbart:
-9.1. Wie viele Terminvereinbarungen in den Kundenzentren sind seit Einführung der Terminvergabe telefonisch über den THS erfolgt?
 
-#### Antwort zu Frage 9
+### Frage 9.1
+
+Wie viele Terminvereinbarungen in den Kundenzentren sind seit Einführung der Terminvergabe telefonisch über den THS erfolgt?
+
+#### Antwort zu Fragen 9 und 9.1
 
 Bis zum 30. April 2015 wurden rund 110.000 Anrufe zur Dienstleistung Terminvereinbarung Kundenzentrum bearbeitet.
 
-9.2. Wurde im Zuge der Einführung der Terminvergabe in den Kundenzentren das Personal des THS aufgestockt?
+### Frage 9.2
 
-Wenn ja, wann und in welchem konkreten Umfang?
+Wurde im Zuge der Einführung der Terminvergabe in den Kundenzentren das Personal des THS aufgestockt? Wenn ja, wann und in welchem konkreten Umfang?
+
+#### Antwort zu Frage 9.2
 
 Ja, um 8,3 Stellen seit dem 3. Quartal 2014.
 

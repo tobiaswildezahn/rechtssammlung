@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/623", "21/1996", "17/1555", "21/2799", "21/4532"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55504"
@@ -54,7 +55,7 @@ Was war das eigentliche Ziel der gemeinsamen Personalvertretung/ Personalrat der
 
 Ist der gemeinsamen Personalvertretung/Personalrat der Freien und Hansestadt Hamburg/Jobcenter t.a.h. bekannt, dass diese keine Tarifverträge aushandeln können und sie bei außer- oder übertariflichen Vergütungen keine Mitbestimmung haben?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es existiert keine gemeinsame Personalvertretung der Personalkörper der Behörde für Arbeit, Soziales, Familie und Integration und der gemeinsamen Einrichtung Jobcenter team.arbeit.hamburg. Im Übrigen: entfällt.
 

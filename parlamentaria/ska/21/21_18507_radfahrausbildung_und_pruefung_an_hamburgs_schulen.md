@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13487"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68169"
@@ -143,6 +144,6 @@ Plant der Senat, die Zahl der Verkehrslehrerstellen bei der Polizei Hamburg aufz
 
 Inwiefern plant der Senat beziehungsweise die zuständige Behörde aktuell Verbesserungen beziehungsweise Veränderungen beim Einsatz von PVKL an Hamburgs Schulen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die polizeiliche Verkehrserziehungsarbeit wird kontinuierlich an veränderte Anforderungen angepasst. Hierzu gehört auch die Ausstattung zur Gewährleistung der Unterrichte. Die polizeiliche Verkehrserziehung entspricht in ihrer aktuellen Form im vollen Umfang den Bedarfen an eine kindgerechte Vermittlung der Unterrichtsinhalte. Maßnahmen im Sinne der Fragestellung sind derzeit nicht geplant und werden nicht als erforderlich angesehen.

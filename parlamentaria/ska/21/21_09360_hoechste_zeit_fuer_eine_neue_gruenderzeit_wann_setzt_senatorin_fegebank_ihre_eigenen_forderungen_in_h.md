@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9015", "21/8310", "18/12369", "21/1686", "21/5992", "21/5874"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58109"
@@ -67,13 +68,13 @@ Die Gestaltung guter Rahmenbedingungen für Gründungen und die Förderung von I
 
 Neben der institutionellen Förderung der staatlichen Hochschulen und Forschungseinrichtungen (inklusive ihrer jeweiligen Transfereinrichtungen und der Patentverwertungsagentur) gibt es zahlreiche Maßnahmen, mit denen der Senat Ausgründungen aus der Wissenschaft direkt und indirekt unterstützt:
 
- Förderprogramme für Ausgründungen:
+– Förderprogramme für Ausgründungen:
 
 Ausgründern aus Hochschulen und Forschungseinrichtungen stehen die vom Senat eingerichtete Förderprogramme „InnoRampUp“ und „Innovationsstarter Fonds Hamburg“ zur Verfügung. Die beiden Programme sind bei der Hamburgischen Investitions- und Förderbank (IFB Hamburg) angesiedelt und zielen auf überdurchschnittlich innovative Start-ups ab. Mittels InnoRampUp werden Zuschüsse von bis zu 150.000 Euro pro Unternehmen vergeben. Das Programm ist deutschlandweit einmalig. Der Innovationsstarter Fonds beteiligt sich an innovativen Start-ups mit bis zu 1 Million Euro pro Unternehmen. Die beiden Programme können kombiniert werden. Ausgründungen aus Forschungseinrichtungen, Universitäten und Hochschulen wurden von InnoRampUp und dem Innovationsstarter Fonds seit dem Jahr 2015 jeweils in sieben Fällen finanziell gefördert. Der Innovationsstarter Fonds ist mit 12 Millionen Euro (Mitteln des Europäischen Fonds für
 
 Regionale Entwicklung (EFRE) und dem Innovationsfonds der IFB Hamburg, je zur Hälfte) ausgestattet. Das Förderprogramm InnoRampUp ist mit einem jährlichen Fördervolumen in Höhe von 2,1 Millionen Euro ausgestattet. Daneben stehen den Ausgründern aus Hochschulen und Forschungseinrichtungen mit dem „Hamburg- Kredit Gründung und Nachfolge“ (maximal 500.000 Euro pro Vorhaben und bis zu 1 Million Euro in drei Kalenderjahren je Gründungsvorhaben) und dem „Hamburg- Kredit Innovation“ (bis 1,5 Millionen Euro pro Vorhaben) auch zwei darlehensbasierte Förderprogramme der IFB Hamburg zur Verfügung.
 
- F&I-Parks und Inkubatoren:
+– F&I-Parks und Inkubatoren:
 
 Der Senat verfolgt das Ziel, ein Netz von Forschungs- und Innovationsparks in der Stadt zu entwickeln. An den verschiedenen Standorten soll ein Nukleus für die Herausbildung eines wissenschaftlichen Umfelds für angewandte Forschung sowie die Gründung und Ansiedlung innovativer Unternehmen entstehen. In Inkubatoren wird jungen Existenzgründerinnen und Existenzgründern Raum zu attraktiven Mietkonditionen angeboten. Diese Möglichkeiten stellen eine entscheidende finanzielle Unterstützung für Start-ups und Existenzgründer in der Anlaufphase dar.
 
@@ -93,11 +94,11 @@ Das neue Innovationszentrum ICGT wurde am 03.03.2017 in Harburg eröffnet. Es is
 
 Auf dem Campus Bahrenfeld wird vom DESY, der UHH und dem Senat gemeinsam ein Inkubator für Firmenausgründungen aus der Forschung, Technologie-Start-ups und kleinere Unternehmen etabliert. Der Bau soll im Jahr 2017 beginnen, die Baukosten von 14,2 Millionen Euro werden von der Freien und Hansestadt Hamburg finanziert. Perspektivisch soll das Zentrum die Basis für einen benachbarten Technologiepark sein, der im Stadtteil Lurup entstehen soll.
 
- Informatikplattform „ahoi.digital“:
+– Informatikplattform „ahoi.digital“:
 
 Einer Empfehlung des MINT-Gutachtens des Wissenschaftsrates folgend, haben die Informatikbereiche der UHH, HAW, TUHH und HCU im Sommer 2016 ein Konzept für eine Informatikplattform „ahoi.digital“ vorgelegt, das nun mit Unterstützung des Hamburger Senats umgesetzt wird. Das ganzheitliche Konzept der Informatikplattform ist deutschlandweit einzigartig. Die Plattform soll Hamburg als Informatikstandort stärken und die Sichtbarkeit nach außen erhöhen. Sie basiert daher auf den drei tragenden Säulen „Bildung“, „Forschung“ und „Transfer“. Als Kompetenzzentrum und Netzwerk gibt sie außerdem Impulse für Gründung und Innovation. Sie soll die Kooperation mit den städtischen Clustern stärken und die Verbindung zwischen Wissenschaft und Wirtschaft ausbauen. Damit trägt sie entscheidend zur gesamtstädtischen Digitalisierungsinitiative bei. Das Projekt kann unter Berücksichtigung von weiteren Fördermitteln ein Gesamtfördervolumen von 32,9 Millionen erreichen.
 
- Digitale Plattform für wissensbasierte Gründungen:
+– Digitale Plattform für wissensbasierte Gründungen:
 
 Der Senat unterstützt die Gründungswilligen an Hochschulen und Forschungseinrichtungen mit der Einrichtung einer digitalen Plattform, die zunächst von der Hamburg Innovation GmbH, der Universität Hamburg, der Technischen Universität Hamburg, der Hochschule für Angewandte Wissenschaften sowie dem Deutschen Elektronen-Synchrotron DESY getragen wird. Die Konzepte für die Implementierung und den Betrieb liegen vor, sodass derzeit die Ausschreibung der Programmierung vorbereitet wird. Die Plattform wird voraussichtlich im Jahr 2018 freigeschaltet werden und dann sukzessive weiterentwickelt.
 
@@ -109,6 +110,6 @@ Hat der Senat den Vorschlag der Zweiten Bürgermeisterin zur Einführung eines n
 
 Wird der Senat den Vorschlag der Zweiten Bürgermeisterin zur Einführung eines neuen Gründungskapitals umsetzen? Wenn ja, wann und in welcher Form? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.

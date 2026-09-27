@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["15/2216"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50432"
@@ -65,7 +66,7 @@ In welchen Entgeltgruppen würden sich die Beschäftigten nach 1. und 2. befinde
 
 Welches ist die Differenz in den jeweiligen Einkommen der betreffenden Beschäftigten? (Bitte nach Behörden aufschlüsseln.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Entfällt.
 

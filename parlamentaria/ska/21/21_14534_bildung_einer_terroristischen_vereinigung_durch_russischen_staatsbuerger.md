@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14124"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63960"
@@ -65,7 +66,7 @@ Wann ist der Tatverdächtige erstmals in die Bundesrepublik Deutschland eingerei
 
 Ist nach Einreise ein Asylantrag gestellt worden? Falls ja, wann und wie ist dieser beschieden worden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die betreffende Person befindet sich laut Auskunft des Ausländerzentralregisters (AZR) in der Zuständigkeit einer auswärtigen Ausländerbehörde (Bremen). Im AZR ist
 
@@ -87,23 +88,23 @@ Ist der Tatverdächtige bereits vor seiner Überstellung in Untersuchungshaft st
 
 Im Hinblick auf das Persönlichkeitsrecht des Betroffenen und die gesetzlichen Wertungen des Bundeszentralregistergesetzes sieht der Senat davon ab, etwaige Ermittlungsverfahren mitzuteilen, die durch einen Freispruch oder eine Einstellung beendet worden sind. Dasselbe gilt für Ermittlungsverfahren, die zu einem Abschluss geführt haben, der entweder nicht in ein Führungszeugnis aufzunehmen oder nach den Tilgungsvorschriften des Bundeszentralregistergesetzes nicht mehr zu berücksichtigen ist. Die Auskunft des Bundeszentralregisters vom 1. Dezember 2017 enthält folgende mitteilungsfähige Verurteilungen:
 
- Urteil des Amtsgerichts Bremen vom 16. Oktober 2012 wegen Fahrens ohne Fahr-
+– Urteil des Amtsgerichts Bremen vom 16. Oktober 2012 wegen Fahrens ohne Fahr-
 
 erlaubnis zu einer Geldstrafe von 30 Tagessätzen,
 
- Urteil des Amtsgerichts Bremen vom 2. Mai 2013 wegen Verstoßes gegen das
+– Urteil des Amtsgerichts Bremen vom 2. Mai 2013 wegen Verstoßes gegen das
 
 Waffengesetz zu einer Geldstrafe von 90 Tagessätzen,
 
- Urteil des Amtsgerichts Bremen vom 30. Oktober 2015 wegen Fahrens ohne Fahr-
+– Urteil des Amtsgerichts Bremen vom 30. Oktober 2015 wegen Fahrens ohne Fahr-
 
 erlaubnis zu einer Geldstrafe von 60 Tagessätzen,
 
- Urteil des Amtsgerichts Bremen-Blumenthal vom 19. August 2016 wegen Geldwä-
+– Urteil des Amtsgerichts Bremen-Blumenthal vom 19. August 2016 wegen Geldwä-
 
 sche zu einer Freiheitsstrafe von drei Monaten mit Bewährung,
 
- Urteil des Amtsgerichts Bremen vom 30. September 2016 wegen Fahrens ohne
+– Urteil des Amtsgerichts Bremen vom 30. September 2016 wegen Fahrens ohne
 
 Fahrerlaubnis zu einer Geldstrafe von 100 Tagessätzen.
 
@@ -115,7 +116,7 @@ Welches Ereignis liegt dem Tatbestand der Bildung einer terroristischen Vereinig
 
 Handelt es sich bei besagter Person um den 29-jährigen Tschetschenen aus Bremen, der kürzlich verurteilt worden ist?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung.
 

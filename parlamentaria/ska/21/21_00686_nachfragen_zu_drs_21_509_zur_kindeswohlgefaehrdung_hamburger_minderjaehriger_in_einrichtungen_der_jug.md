@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 34
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/509", "21/193", "21/157", "21/656"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48837"
@@ -129,7 +130,7 @@ Das Bezirksamt Wandsbek wird in der Antwort auf die Fragen 12. und
 
 mit der Haltung widergegeben, dass „zusätzlich zu den stattfindenden Hilfeplangesprächen keine anlassbezogenen Gespräche geführt“ wurden, weil „die Auflagen des Landesjugendamtes Schleswig-Holstein als ausreichend angesehen werden.“ Gibt es eine geänderte Haltung vor dem Hintergrund der neuerlichen Entwicklung beim Bezirk Wandsbek?
 
-#### Antwort zu Fragen 11, 13
+#### Antwort zu Fragen 11 und 13
 
 Das Bezirksamt Wandsbek überprüft die Hilfeplanung gemäß § 36 SGB VIII zeitnah vor Ort und wird sie den Erfordernissen anpassen. Im Übrigen siehe Antwort zu 2.
 

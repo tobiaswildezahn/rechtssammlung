@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49560"
@@ -83,7 +84,7 @@ Wie haben sich die Fahrgastzahlen der Linien 143/543 an den Haltestellen Blätte
 
 Wie haben sich die Fahrgastzahlen der Linien 141/241 an den Haltestellen Radickestraße und Mensingstraße seit 2010 entwickelt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Verkehrserhebungen im Hamburger Verkehrsverbund (HVV) finden routinemäßig alle vier bis fünf Jahre statt. Für die Linie 543, die erst im Dezember 2014 ihren Betrieb aufnahm, liegen noch keine Werte vor. Zur Darstellung der Nachfrageentwicklung werden daher die letzten beiden Zählungen genannt.
 

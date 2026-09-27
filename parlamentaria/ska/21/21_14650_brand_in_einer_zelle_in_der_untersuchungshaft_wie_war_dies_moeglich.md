@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 21
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12324", "21/8096"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64086"
@@ -49,7 +50,7 @@ Wie konnte das Feuer in der Zelle ausbrechen? a. Hat der Inhaftierte der in Bran
 
 Wann wurde die zuständige Behörde vom dem Vorfall informiert und welche Schritte wurden dann eingeleitet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

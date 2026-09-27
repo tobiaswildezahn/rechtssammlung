@@ -11,9 +11,10 @@ fraktionen: ["fraktionslos"]
 vorgang: 46838
 seiten: 4
 fragen: 11
-einzelfragen: 14
-antwortbloecke: 11
+einzelfragen: 17
+antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/4195", "20/14641", "21/2075"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51263"
@@ -44,21 +45,50 @@ Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
 ### Frage 1
 
 In der Antwort des Senats auf meine Schriftliche Kleine Anfrage „Rechnet „Graf Zahl“ die Ausbildungszahlen schön?“ (Drs. 20/14641) heißt es: „Nach dem Schuljahr 2012/2013 gingen von 3.731 Schulabgängerinnen und -abgängern nach zehn Schuljahren 1.443 in Ausbildung (Stand 15. September 2013). Weiter schulpflichtige Jugendliche dieses Abgangsjahrganges ohne gesicherten Anschluss absolvierten im Schuljahr 2013/ 2014 ihr elftes Schulbesuchsjahr in der Ausbildungsvorbereitung. Im und nach dem Schuljahr 2013/2014 gingen aus der Ausbildungsvorbereitung 915 Jugendliche (Stand 19. September 2014) in Ausbildung. Von diesen haben 644 eine betriebliche Ausbildung, 178 eine außerbetriebliche und 93 eine schulische Berufsausbildung begonnen. Somit gingen 2014 insgesamt 2.358 Jugendliche aus dem Abgangsjahrgang 2012/2013 der allgemeinbildenden Schulen sowie aus dem darauffolgenden Jahr der Ausbildungsvorbereitung in Ausbildung. Bezogen auf die Grundgesamtheit von 3.731 Schulabgängerinnen und -abgängern in 2012/2013 entspricht dies einer Übergangsquote von „rund 60 Prozent“ (genau 63,2 Prozent).“
-1.1. Handelt es sich bei den 915 Jugendlichen, die nach der Ausbildungsvorbereitung in eine Ausbildung gingen (Stand 19. September 2014), wirklich um Schülerinnen und Schüler der Ausbildungsvorbereitung aus dem Schuljahr 2013/2014? Wenn ja, sind dann die Angaben des Senats auf meine Schriftliche Kleine Anfrage „Ausbildungszahlen (4)“ (Drs. 21/2075) falsch, in der eine Zahl von 810 Jugendlichen genannt wird (siehe auch die nachstehende Tabelle)? Wenn nein, wie lauten die richtigen Zahlen für Übergänge in Ausbildung nach AvDual und die Übergänge in Ausbildung nach Produktionsschule? Herleitung der Übergangsquote ohne Übergänge in Beschäftigung und weiterführende Schulen: Schuljahr 2012/13* Schuljahr 2013/14 Absolute Zahl der Schulabgänger
-3.731
-5.059 davon a) Übergänge von Schulabgängern in Ausbildung in absoluter Zahl (in Klammern Prozentangabe)
-1.443 (38,7)
-1.893 (37,4) davon b) Übergänge in Ausbildung nach AvDual davon c) Übergänge in Ausbildung nach Produktionsschule davon d) Abmeldungen aus Hamburg Übergangsquote ohne Übergänge in Beschäftigung und weiterführende Schulen ** 67,5 % 60,6 %
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Handelt es sich bei den 915 Jugendlichen, die nach der Ausbildungsvorbereitung in eine Ausbildung gingen (Stand 19. September  
+2014), wirklich um Schülerinnen und Schüler der Ausbildungsvorbereitung aus dem Schuljahr 2013/2014?  
+Wenn ja, sind dann die Angaben des Senats auf meine Schriftliche  
+Kleine Anfrage „Ausbildungszahlen (4)“ (Drs. 21/2075) falsch, in der  
+eine Zahl von 810 Jugendlichen genannt wird (siehe auch die nachstehende Tabelle)?  
+Wenn nein, wie lauten die richtigen Zahlen für Übergänge in Ausbildung nach AvDual und die Übergänge in Ausbildung nach Produktionsschule?  
+Herleitung der Übergangsquote ohne Übergänge in Beschäftigung  
+und weiterführende Schulen:  
+Schuljahr  
+2012/13*  
+Schuljahr  
+2013/14  
+Absolute Zahl der Schulabgänger  
+3.731  
+5.059  
+davon a) Übergänge von Schulabgängern in Ausbildung in absoluter Zahl (in  
+Klammern Prozentangabe)  
+1.443  
+(38,7)  
+1.893  
+(37,4)  
+davon b) Übergänge in Ausbildung nach  
+AvDual  
+davon c) Übergänge in Ausbildung nach  
+Produktionsschule  
+davon d) Abmeldungen aus Hamburg  
+Übergangsquote ohne Übergänge in  
+Beschäftigung und weiterführende  
+Schulen **  
+67,5 %  
+60,6 %
+
+#### Antwort zu Fragen 1 und 1.1
 
 Ja, es handelt sich bei den 915 Jugendlichen um Schülerinnen und Schüler, die während des Schuljahrs 2013/2014 die dualisierte Ausbildungsvorbereitung (AvDual) besuchten und von dort in die Ausbildung wechselten. Nach dem Schuljahr 2012/2013 verließen 810 Jugendliche AvDual, um in Ausbildung zu gehen.
 
-1.2. Handelt es sich bei den 915 Jugendlichen, die nach der Ausbildungsvorbereitung in eine Ausbildung gingen (Stand 19. September 2014), ausschließlich um eine Teilmenge der 3.731 Schulabgängerinnen und -abgänger, die in der Schulabgängerbefragung 2013 erfasst worden sind?
+### Frage 1.2
 
-Wenn nein, welche Jugendlichen wurden hier noch mitgezählt (zum Beispiel Abbrecher/-innen der Berufsschule)?
+Handelt es sich bei den 915 Jugendlichen, die nach der Ausbildungsvorbereitung in eine Ausbildung gingen (Stand 19. September 2014), ausschließlich um eine Teilmenge der 3.731 Schulabgängerinnen und -abgänger, die in der Schulabgängerbefragung 2013 erfasst worden sind? Wenn nein, welche Jugendlichen wurden hier noch mitgezählt (zum Beispiel Abbrecher/-innen der Berufsschule)? Wenn nein, wie sind die richtigen Zahlen für die Übergänge in Ausbildung nach AvDual und für die Übergänge in Ausbildung nach Produktionsschule?
 
-Wenn nein, wie sind die richtigen Zahlen für die Übergänge in Ausbildung nach AvDual und für die Übergänge in Ausbildung nach Produktionsschule?
+#### Antwort zu Frage 1.2
 
 Ganz überwiegend ja. Bei der Anzahl der unmittelbar nach Schuljahresende in AvDual aufgenommenen Schulabgängerinnen und -abgänger kann es zu geringfügigen unterjährigen Veränderungen kommen: Diese werden zum Beispiel durch Zuzügler nach Hamburg oder Abbrecherinnen und Abbrecher aus einer Ausbildung et cetera verursacht. Unter diesen Jugendlichen sind daher auch wenige Stadtteilschulabgängerinnen und -abgänger des vorherigen Schuljahres, die sich zum Beispiel zwischenzeitlich außerhalb von Hamburg oder in anderen Maßnahmen befanden. Diese werden statistisch nicht differenziert erfasst. Ebenso werden zum Beispiel die positiven Übergänge in Ausbildung derer, die aus Hamburg weggezogen sind, oder Übergänge in Ausbildung aus dem Freiwilligen Sozialen Jahr oder vergleichbaren Anschlussmaßnahmen statistisch nicht erfasst. Insofern ist davon auszugehen, dass sich die geringfügigen Abweichungen in ihren Effekten gegenseitig ausgleichen. Hinzu kommen außerdem die Übergänge in Ausbildung von Jugendlichen aus den Produktionsschulen.
 

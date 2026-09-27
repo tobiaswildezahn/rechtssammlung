@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65575"
@@ -193,7 +194,7 @@ Wie viele
 a) 17-Jährige,
 b) 18-Jährige je 1 000 in Hamburg gemeldete Personen dieser Altersgruppe haben in den Jahren 2011 bis einschließlich 2018 jeweils die praktische Führerscheinprüfung bestanden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Entfällt, siehe Vorbemerkung.
 

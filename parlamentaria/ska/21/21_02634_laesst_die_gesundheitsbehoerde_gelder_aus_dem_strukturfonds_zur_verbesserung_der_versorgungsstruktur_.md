@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50932"
@@ -99,7 +100,7 @@ Wie hat sich die Zahl der Krankenhausbetten in Hamburg in den vergangenen zehn J
 
 Wie hat sich der Auslastungsgrad der Krankenhausbetten in Hamburg in den vergangenen zehn Jahren entwickelt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Jahr
 

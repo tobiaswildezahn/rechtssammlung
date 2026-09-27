@@ -8,12 +8,13 @@ datum_anfrage: "2026-09-07"
 datum_drucksache: "2026-09-15"
 urheber: ["David Erkalp"]
 fraktionen: ["CDU"]
-vorgang: null
+vorgang: 89142
 seiten: 2
 fragen: 8
 einzelfragen: 8
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105169"

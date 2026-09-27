@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 21
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/150"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48457"
@@ -123,7 +124,7 @@ Plant die HOCHBAHN die Modernisierung alter Züge der DT3-Reihe? Wenn ja, für w
 
 Wie lange plant die HOCHBAHN den Einsatz dieser sanierten Züge der DT3-Reihe?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Derzeit wird geprüft, ob und in welchem Umfang entsprechende Maßnahmen an den DT3-Fahrzeugen sinnvoll sein könnten und wie viele Fahrzeuge dies gegebenenfalls betreffen sollte. Konkrete Kosten stehen in direktem Zusammenhang mit dem Modernisierungsumfang und können daher derzeit noch nicht angegeben werden.
 

@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 18
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58624"
@@ -140,7 +141,7 @@ Wie viele Schüler sind gegenwärtig im sogenannten Juniorstudium eingeschrieben
 
 Welche Schulklassen besuchen diese gegenwärtig?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Im Sommersemester 2017 sind an der UHH insgesamt 25 Juniorstudierende eingeschrieben, die die Schulklassen 8 bis 13 besuchen. Sie studieren in den Studiengängen Chemie, Computing in Science, Deutsche Sprache und Literatur, Informatik, Klassische Philologie, Kunstgeschichte, Mensch-Computer-Interaktion, Physik, Politikwissenschaft, Rechtswissenschaft und Sozialökonomie.
 

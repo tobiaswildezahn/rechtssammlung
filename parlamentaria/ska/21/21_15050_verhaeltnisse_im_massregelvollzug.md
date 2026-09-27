@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 21
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64508"
@@ -83,15 +84,15 @@ Die durchschnittliche Verweildauer (ab Rechtskraft des Beschlusses/Urteils bezie
 
 a) im Jahr 2017 für stationäre Patientinnen und Patienten (Stichtag: 31.12.2017)
 
-• nach § 63 StGB: 76,8 Monate,
+– nach § 63 StGB: 76,8 Monate,
 
-• nach § 64 StGB: 17,5 Monate,
+– nach § 64 StGB: 17,5 Monate,
 
 b) im Jahr 2018 für stationäre Patientinnen und Patienten (Stichtag: 19.11.2018)
 
-• nach § 63 StGB: 81,2 Monate,
+– nach § 63 StGB: 81,2 Monate,
 
-• nach § 64 StGB: 16,9 Monate.
+– nach § 64 StGB: 16,9 Monate.
 
 ### Frage 4
 

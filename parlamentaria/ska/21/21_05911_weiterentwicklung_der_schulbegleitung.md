@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54431"
@@ -45,17 +46,17 @@ Wie viele Fälle von Schulbegleitung gab es in den Schuljahren 2013/ 2014 bis 20
 
 Wie viele Fälle von Schulbegleitung gibt es im laufenden Schuljahr? Bitte aufschlüsseln nach Art der Schulbegleitung (SGB VIII oder SGB XII).
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Rahmen eines vereinfachten Verfahrens wird der Unterstützungsbedarf von Schülerinnen und Schülern mit erheblichem oder umfassendem Unterstützungsbedarf im Bereich der geistigen oder körperlich-motorischen Entwicklung seit dem Schuljahr 2014/2015 für SuS an Schwerpunkt- und speziellen Sonderschulen und seit dem Schuljahr 2015/2016 an allen Hamburger Schulen überprüft.
 
 Statt sozialhilferechtlicher Antragsverfahren durch die Sorgeberechtigten erfolgen nach Bedarfsanzeigen durch die Schulen eine Begutachtung durch die für Bildung zuständige Behörde, eine schulbezogene Beratung und schließlich die Zuweisung geeigneter Schulbegleitungen. Dabei werden Schulen auf Grundlage
 
- einer schülerbezogenen Bedarfserhebung mit einem festen Pool von FSJ-Schulbe-
+– einer schülerbezogenen Bedarfserhebung mit einem festen Pool von FSJ-Schulbe-
 
 gleitungen ausgestattet. Die Schulen können diesen Pool bedarfsgerecht und flexibel vor Ort einsetzen.
 
- von schülerindividuellen Unterstützungsbedarfen mit erhöhten Anforderungen mit
+– von schülerindividuellen Unterstützungsbedarfen mit erhöhten Anforderungen mit
 
 einer schülerbezogenen spezifisch geeigneten Schulbegleitung ausgestattet.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3213", "21/14648", "20/9849", "21/5039", "21/14037", "21/15498", "21/16132", "18/7941", "19/4295"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65971"
@@ -165,15 +166,15 @@ Durch die Polizei Hamburg sind ausgehend von Vorschlägen einer internen Arbeits
 
 Aus- und Fortbildung:
 
- Dienstunterrichte
+– Dienstunterrichte
 
- Unterstützung der Akademie der Polizei (AK) bei der Aus- und Fortbildung mit
+– Unterstützung der Akademie der Polizei (AK) bei der Aus- und Fortbildung mit
 
 gezielten Lehrinhalten zur Hasskriminalität
 
 Präventionsangebote:
 
- Diverse Veranstaltungen und Besuche für/bei interne/n und externe/n Bedarfsträ-
+– Diverse Veranstaltungen und Besuche für/bei interne/n und externe/n Bedarfsträ-
 
 ger/n zum Thema Hasskriminalität (beispielsweise Beteiligung am Opferschutztag)
 

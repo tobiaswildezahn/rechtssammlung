@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/212"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48890"
@@ -393,28 +394,28 @@ Wie untergliedert sich die Ursachengruppe „Straßenbenutzung“? Ist es mögli
 
 Die Ursachengruppe „Straßenbenutzung“ untergliedert sich in die Statistikmerkmale
 
- 10 – Benutzung der falschen Fahrbahn (auch Richtungsfahrbahn) oder verbotswidrige Benutzung anderer Straßenteile und
+– 10 – Benutzung der falschen Fahrbahn (auch Richtungsfahrbahn) oder verbotswidrige Benutzung anderer Straßenteile und
 
- 11 – Verstoß gegen das Rechtsfahrgebot.
+– 11 – Verstoß gegen das Rechtsfahrgebot.
 
 Zum 1. Januar 2016 werden auf Beschluss des Bundesamtes für Statistik (DESTA- TIS) folgende Statistikmerkmale textuell geändert:
 
- 10 – Verbotswidrige Benutzung der Fahrbahn oder anderer Straßenteile
+– 10 – Verbotswidrige Benutzung der Fahrbahn oder anderer Straßenteile
 
 Neu hinzugefügt werden die Statistikmerkmale:
 
- 8 – Falschfahrt auf Straßen mit nach Fahrtrichtung getrennten Fahrbahnen
+– 8 – Falschfahrt auf Straßen mit nach Fahrtrichtung getrennten Fahrbahnen
 
- 9 – Benutzung der Fahrbahn entgegen der vorgeschriebenen Fahrtrichtung in
+– 9 – Benutzung der Fahrbahn entgegen der vorgeschriebenen Fahrtrichtung in
 
 anderen Fällen
 
 Für zukünftige Untersuchungen von Fahrradunfällen werden in die Gruppe „Besonderheiten der Unfallstelle“ eingeführt:
 
- 8 – Radverkehrsanlage (RVA) auf der Fahrbahn oder lediglich durch Markierung
+– 8 – Radverkehrsanlage (RVA) auf der Fahrbahn oder lediglich durch Markierung
 
 von der Fahrbahn abgetrennt (Schutz- beziehungsweise Radfahrstreifen)
 
- 9 – Baulich von der Fahrbahn getrennte Radverkehrsanlage (RVA)
+– 9 – Baulich von der Fahrbahn getrennte Radverkehrsanlage (RVA)
 
- 0 – Benutzungspflicht der Radverkehrsanlage (RVA) (Zeichen 237, 240 oder 241)
+– 0 – Benutzungspflicht der Radverkehrsanlage (RVA) (Zeichen 237, 240 oder 241)

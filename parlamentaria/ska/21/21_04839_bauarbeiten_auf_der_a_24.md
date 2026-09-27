@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53284"
@@ -67,7 +68,7 @@ An welchen Tagen montags – samstags wurde bisher nicht von 7 – 22 Uhr gearbe
 
 Warum wurde nicht an allen Tagen wie unter 4. gefragt gearbeitet?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der Bauvertrag ermöglicht den beauftragten Unternehmen, in der Zeit von 7 Uhr bis 22 Uhr zu arbeiten. Der Baufortschritt macht derzeit ein regelmäßiges Arbeiten bis 22 Uhr nicht erforderlich.
 

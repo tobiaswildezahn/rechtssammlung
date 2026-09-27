@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10977"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48894"
@@ -57,7 +58,7 @@ Auf welche Art und Weise und durch welche Maßnahmen soll die Berufsfeuerwehr Ha
 
 Auf welche Art und Weise richtet sich die Feuerwehr Hamburg künftig auf Wohnungsbrände aus?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

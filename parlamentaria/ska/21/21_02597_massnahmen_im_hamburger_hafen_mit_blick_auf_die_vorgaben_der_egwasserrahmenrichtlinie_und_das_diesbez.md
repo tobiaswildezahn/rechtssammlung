@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2358"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50898"
@@ -95,7 +96,7 @@ Welche Maßnahmen/Projekte sind derzeit geplant, die sich wie unter
 
 Welche Maßnahmen/Projekte wurden seit dem 22.12.2000 im OWK Elbe-Hafen genehmigt, die a. zu einer Zunahme an Wasserfläche und damit Gewässerlebensraum geführt haben? b. zu einer Verringerung der Wassertiefe geführt haben? c. zu positiven ökologischen Veränderungen der Uferstrukturen geführt haben? Bitte die Informationen zu 3. a., 3. b. und 3. c. tabellarisch aufführen für relevante Maßnahmen mit einer Zunahme von Wasserfläche von mehr als 100 m² oder Flächen von mehr als 100 m², auf denen eine Verringerung der Wassertiefe um mehr als 10 cm vorgenommen wurde, oder mit einer betroffenen Uferlänge von mehr als 20 m (Uferstrukturen). Bitte folgende Informationen aufführen:
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 - Projekttitel und kurze Projektbeschreibung inklusive Projektziele
 
@@ -162,11 +163,11 @@ http://www.hamburg.de/contentblob/4237798/data/d-bewirtschaftungsplanhamburg.pdf
 
 Beispielhaft werden in diesem Zusammenhang aufgrund ihrer besonderen Bedeutung zwei Maßnahmen genannt:
 
- Wärmelastplan (Ziel: Reduzierung von Wärmeeinleitungen)
+– Wärmelastplan (Ziel: Reduzierung von Wärmeeinleitungen)
 
 Der Wärmelastplan für die Tideelbe definiert auf der Grundlage der aktuellen Wärmebelastung der Tideelbe einen zulässigen Belastungszustand. Potenzielle Kraftwerksbetreiber müssen nachweisen, dass sie die laut Wärmelastplan zulässige Temperaturerhöhung der Elbe nicht überschreiten. Beispielsweise stellen die Randbedingungen des Wärmelastplans sicher, dass eine Mindestsauerstoffkonzentration von 3 mg/l nicht unterschritten wird. In der Regel soll der Sauerstoffgehalt mindestens 6 mg/l betragen. Der „Wärmelastplan für die Tideelbe“ vom Dezember 2008 ist eine ermessenslenkende Verwaltungsvorschrift für die Genehmigungsbehörden in Hamburg, Niedersachsen und Schleswig-Holstein. Durch die Vermeidung von großflächigen Sauerstoffmangelsituationen in der Unterelbe und im Hafenbereich werden die Wandermöglichkeiten für Fische verbessert.
 
- Sedimentmanagementkonzept (Ziel: Sicherung der Schifffahrt)
+– Sedimentmanagementkonzept (Ziel: Sicherung der Schifffahrt)
 
 Inhalt dieser Maßnahme ist die übergreifende Koordinierung der Unterhaltungsarbeiten zur Sicherung der Wassertiefen mit dem Ziel eines optimierten quantitativen Sedimentmanagements an der Tideelbe. Dieses führt zu einer Reduzierung der aus Baggerarbeiten und Umlagerungen resultierenden ökologischen Beeinträchtigungen insbesondere der Qualitätskomponenten Fische (Schädigung von Laich durch Schwebstoffe) und Makrozoobenthos (Verschlickung in Nebenarmen und Hafenbecken).
 

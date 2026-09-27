@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14001", "21/7840", "21/10401"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66051"
@@ -53,7 +54,7 @@ Vor der Unterzeichnung des Staatsvertrages am 22. November 2012 hatte das IZH in
 
 Nach Unterzeichnung des Staatsvertrags hat das IZH nachweislich in den Jahren 2013, 2014, 2015, 2016, 2017 und 2018 am Al-Quds-Tag teilgenommen und die Veranstaltung abermals mit organisiert sowie führende Vertreter als Teilnehmer nach Berlin entsandt. Wie hat der Senat darauf jeweils reagiert? Bei der Beantwortung bitte für jedes einzelne Jahr gesondert antworten und deutlich machen, welche Maßnahmen (Gespräche, Auflagen, Sanktionen) erfolgt sind. Bitte jeweils auch das Datum, den Ort, die Gesprächsteilnehmer sowie die hier beschlossenen Vereinbarungen nennen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat pflegt keine unmittelbaren Kontakte zum IZH. Die zwischen den verschiedenen Behörden und den muslimischen Verbänden geführten Gespräche werden nicht zentral erfasst und regelhaft nicht protokolliert, sodass sich im Nachhinein nicht flächendeckend rekonstruieren lässt, in welchen Gesprächen die Beteiligung des IZH am sogenannten Al-Quds-Tag angesprochen wurde. In der für die Beantwortung zur Verfügung stehenden Zeit konnten über die in den Drs. 21/7840 sowie 21/10401 hinaus genannten Gespräche jedoch die folgenden Kontakte recherchiert werden:
 
@@ -90,7 +91,7 @@ Ist es korrekt, dass das IZH durch seine erneute Teilnahme 2018 vorsätzlich geg
 
 Wie hat der Senat darauf im Einzelnen reagiert?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Protokoll des Innenausschusses vom 24. Januar 2019 (Ausschussprotokoll Nummer 21/32). Darüber hinausgehende Erkenntnisse im Sinne der Fragestellung liegen nicht vor. Im Übrigen siehe Vorbemerkung sowie Antwort zu 1. und 2.
 

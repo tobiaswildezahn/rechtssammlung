@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/4967", "21/9700", "21/13089"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65897"
@@ -72,7 +73,7 @@ Bestehen Konzepte oder Richtlinien zur Überprüfung der Umweltverträglichkeit 
 
 Bestehen verbindliche Richtlinien zur Gewährleistung der Umweltverträglichkeit, die bei der Planung von sportlichen Großveranstaltungen in Hamburg beachtet werden müssen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ja.
 

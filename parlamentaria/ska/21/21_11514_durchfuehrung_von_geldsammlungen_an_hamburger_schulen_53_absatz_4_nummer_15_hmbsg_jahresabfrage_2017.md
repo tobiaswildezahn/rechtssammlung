@@ -10,12 +10,13 @@ urheber: ["Dr. Alexander Wolf"]
 fraktionen: ["AfD"]
 vorgang: 55334
 seiten: 4
-fragen: 0
-einzelfragen: 0
-antwortbloecke: 0
+fragen: 1
+einzelfragen: 1
+antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60689"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/60689/21_11514_durchfuehrung_von_geldsammlungen_an_hamburger_schulen_53_absatz_4_nummer_15_hmbsg_jahresabfrage_2017"
 abgerufen: "2026-09-26"
@@ -27,9 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Dr. Alexander Wolf (AfD) vom 04.01.18 und Antwort des Senats · Drucksache vom 12.01.2018  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/60689) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/60689/21_11514_durchfuehrung_von_geldsammlungen_an_hamburger_schulen_53_absatz_4_nummer_15_hmbsg_jahresabfrage_2017)
 
-## Volltext
-
-Durchführung von Geldsammlungen an Hamburger Schulen (§ 53 Absatz 4 Nummer 15 HmbSG) – Jahresabfrage 2017
+## Einleitung für die Fragen
 
 In § 53 Absatz 4 Nummer 15 des Hamburgischen Schulgesetzes (HmbSG) heißt es:
 
@@ -39,13 +38,19 @@ In § 53 Absatz 4 Nummer 15 des Hamburgischen Schulgesetzes (HmbSG) heißt es:
 
 Vor diesem Hintergrund frage ich den Senat:
 
+## Fragen und Antworten
+
+### Frage 1
+
 Welche Geld- oder Gegenstandssammlungen wurden im Jahr 2017 an Hamburger Schulen durchgeführt und für wen wurde gespendet?
 
-Bitte anhand einer Stichprobe1 unter Berücksichtigung der folgenden Kriterien beantworten:
+Bitte anhand einer Stichprobe unter Berücksichtigung der folgenden Kriterien beantworten:
 
 a) Art der Geld- oder Gegenstandssammlung
 
 b) Verwendungszweck/Verwendungsempfänger
+
+#### Antwort zu Frage 1
 
 Da die erfragten Daten von der zuständigen Behörde nicht statistisch erfasst werden, wurde eine Schulabfrage (Stichprobe) an 44 allgemeinen und 13 beruflichen Schulen durchgeführt.
 
@@ -53,22 +58,389 @@ In der Stichprobe wurden in alphabetischer Reihenfolge die jeweils ersten beiden
 
 Mit Stand vom 11.01.2018 haben 43 allgemeine und 13 berufliche Schulen eine Antwort geliefert. Davon haben 21 Schulen Spendensammlungen durchgeführt, siehe Anlage. Eine Qualitätssicherung war in der für die Beantwortung dieser Parlamentarischen Anfrage zur Verfügung stehenden Zeit nur begrenzt möglich.
 
-1 Bitte die nach alphabetischer Reihenfolge jeweils ersten zwei Schulen folgender Schultypen eines jeden Hamburger Bezirks einbeziehen: Gymnasium, Stadtteilschule, Grundschule, Berufsschule, Abendschule.
+Seite 1 von 3
 
-Anlage for for Steps Steps Hospiz e.V. Finken-
+Geld- oder Gegenstandssammlungen im Kalenderjahr 2017
 
-3 Hamburger Straße borders von Stiftung Stiftung 1 Fridtjof-Nansen- Fridtjof-Nansen- der Brasilien und und Hoheluft auf in der der Tafel Tafel Tierheim, Jugendhaus, without Gymnasium Seite Hommes e.V. e.V. Aqua Agua Agua und des International con con con Empfänger Schulverein Schule Schulverein Schule Terre Luur-Up Children Luur-Up Children PLAN Obdachlose Patenschule Schulverein Viva Viva Grundschule Hamburger Viva Hamburger Franziskus Kinder- Erlenbusch Storytellers Schulverein werder
+Bezirk  
+Schulform  
+Schulname  
+Art der Sammlung  
+Verwendungszweck  
+Empfänger
 
-für Pa- Einrich- Kriegs- in 2015 des Spielgerä- durch von Weltweit "Trommelapplaus" Schuljahr von Schulhof. 2018. im Harbarglose“ verschiedene traumatisierte Not für Unterstützung dem in för schon auf Frühjahr Anschaffung Verwendungszweck Projektwoche im Wie die ten Spende Spende Spende Kinder „Troost Spende Sportgeräte Spende Wasserprojekte Bibliothek Hungerhilfe Spende Spende Spende tungen Unterstützung erlebnisse lästina diverse, Schulvereins Fah- Walk Walk Ku- vom Pfandfla- Jg.3 Standort Standort von am am Spendenlauf Adventsbasar Adventskonzerte Schulfest aus Spendenlauf Pfandflaschen Spendenlauf Spendenlauf Sponsored Sponsored von (organisiert Weg selbstgebackene Sammlung Einsammeln der Dosen Art Sponsorenlauf renort Sponsorenlauf Swatten Geldsammlung Geldsammlung Geldsammlung Geldsammlung Gegenstände Geldsammlung Geldsammlung Sammlung und Schülerrat) Geldsammlung Bücher Lebensmittel Geldsammlung Nahrungsmittel Verkauf chen, schen Geldsammlung Geldsammlung Sozi- 23) Fusi- Aller- Ver- für Anckel- 2017/18; (BS 01); Bergedorf SJ und 2017 Anna- Berufliche - Hoheluft (BS Finkenwerder Schule Schule seit (H 2016 Handel 1) Jahr Kalenderjahr Schulname Fridtjof-Nansen-Schule Christianeum Goethe-Gymnasium Anton-Rée-Schule möhe Stadtteilschule Berufliche alpädagogik Warburg-Schule Grundschule Emilie-Wüstenfeld- Gymnasium Berufliche mannstraße onsschule im Schule waltung Gymnasium im Schule Schule Schulform Grundschule Gymnasium Gymnasium Grundschule Stadtteilschule Berufliche Grundschule Gymnasium Berufliche Gymnasium Gegenstandssammlungen oder Geld- Bezirk Altona Bergedorf Eimsbüttel Hamburg-Mitte
+Altona
 
-in dort e.V. e.V. e.V. Dia- Südafri- – unserer Erlöses); JEA! e.V. 3 ehem., schuleigene des Flüchtlinge für Schüler Herzbrücke Oldenfelde Knysna, eine 2 Hamburg für Welthungerhilfe Projekt Johanneum St.Pauli von in (Anzuchtgar- und (37,5% Erlöses); am über Tafel Seite Schülerin); Chittapur Schule Horst) Albert-Schweitzer- e.V., hommes Erlöses Werk Agua, Harburg Agua Agua School Kindertreff e.V. des des Borstel des con Tafel con con (Kontakt ka arbeitende Albertinenstiftung Verein Ellinikó Schlaufox (37,5% Schulverein (25% Projekte) Mitternachtsbus konisches Viva Schülerinnen Schule Terre Kinderhilfe Die Viva Viva Hamburger Empfänger Aidshilfe Bibliothek, Folgeunterkunft Klein ten/Große Deutsches Hilfswerk Oakhill Lam- Pre- Join Ham- (Brun- Rahmen am in Aidsprä- Werk School Schüler-AG im Welthunger- gestellten Ma- Paten- Schulranzen zur in Indien Tür der der genehmigte der schulischer in und eines Bedürftiger hilft" von der Verfügung etc.) offenen Projekt Projekt (Gabun) Diakonisches „Meninos“ Trinkwasserprojekt – zur der Weihnachtsbasars Verwendungszweck Aufklärungsarbeit vention Tag Fahrradhelme Albert-Schweitzer-Spital barene Soziales fects soziales "Johanneum schulbehördlich Weihnachtstombola des hanneum Obdachloseninitiative burg Wasserprojekte hilfe Wartung Seite Musikinstrumente Projekt puto/Mosambik Unterstützung schaftsprojekts Unterstützung Trinkwasserversorgung nenbau, Nepal
+Grundschule Fridtjof-Nansen-Schule
 
-die Rat- Klas- einen für 6. Bücher Weltaidstag für der Preise zum Kuchen Spendenlauf Spiele Harburger Spendenlauf Spendenlauf im Sammlung "Straßenkind 09.12.2017 der Art Geldsammlung Geldsammlung, Sachspende Geldsammlung Geldsammlung Kinderkleidung, unterschiedliche Weihnachtstombola Chorkonzert haus Geldsammlung Weihnachtskonzert sen Projekt Tag" Geldsammlung Lebensmittel Geldsammlung Geldsammlung Lebensmittel
+Sponsorenlauf am Standort Fah-
 
-Jodes Schulname Brüder-Grimm-Schule Albert-Schweitzer- Gymnasium Gelehrtenschule hanneums Alexander-von-Humboldt- Gymnasium Friedrich-Ebert- Gymnasium Goethe-Schule-Harburg Lessing-Stadtteilschule Schulform Stadtteilschulen Gymnasium Gymnasium Gymnasium Gymnasium Stadtteilschule Stadtteilschule Bezirk Hamburg-Nord Harburg
+renort Projektwoche "Trommelapplaus"
 
-den Kolle- Schüler "An Charlotte- Kohezio Kohezio 3 LKW- und dem Äthiopien von 3 in ehemaligen Vereine Vereine AIDS Unterkunft neben Ukraine, durch Seite der der Schülerinnen gegen in in Speranta Speranta Empfänger eigene Welthungerhilfe Jugend Schulgemeinde Kinder Bahngärten" Paulsen-Gymnasium Kinder Transport gen Gemeinnützige und Gemeinnützige und
+im Frühjahr 2018. Schulverein der Fridtjof-Nansen-
 
-in Familien Familien behinderten behinderten Weihnachtsge- Schulprojekt wiederkehrende bedürftige mit bedürftige mit / Weihnachtspaketen und Temeswar/Rumänien Temeswar/Rumänien von Kinder für Familien in für Familien in 45 Verwendungszweck Lesewoche Tauschbörse Spende Spende Unterstützung Äthiopien Packen für Bekleidung genstände Spenden und Kindern Spenden und Kindern
+Schule
 
-der der in in Verkauf Gebacke- und Kinder Kinder durch Weihnachtsbasar für Unterkunft für Sammlung der Gebasteltem Geldspenden Art Kinderbücher Geldsammlung Geldsammlung Geldsammlung von nem Sachspenden benachbarten Sachspenden Ukraine Weihnachtspakete Geldsammlung und 11.01.2018 Stand Schule Altrahlstedt Trebitsch Schulabfrage Gyula Tonndorf Schulname Grundschule Carl-von-Ossietzky- Gymnasium Charlotte-Paulsen- Gymnasium Berufsbildung, Schulform Grundschule Gymnasium Gymnasium Stadtteilschule undSchule für Behörde Bezirk Wandsbek Quelle:
+Sponsorenlauf am Standort
+
+Swatten Weg
+
+Wie schon im Schuljahr 2015 für
+
+die Anschaffung von Spielgerä-
+
+ten auf dem Schulhof.
+
+Schulverein der Fridtjof-Nansen-
+
+Schule
+
+Gymnasium Christianeum
+
+Geldsammlung Spendenlauf Spende Terre des Hommes
+
+Geldsammlung Adventsbasar Spende Luur-Up e.V. und Stiftung Steps for
+
+Children
+
+Geldsammlung Adventskonzerte Spende Luur-Up e.V. und Stiftung Steps for
+
+Children
+
+Gymnasium  
+Goethe-Gymnasium  
+Geldsammlung Schulfest  
+Kinder in Not  
+PLAN International
+
+Gegenstände „Troost för Harbarglose“ Obdachlose auf der Straße
+
+Bergedorf Grundschule Anton-Rée-Schule Aller-
+
+möhe  
+Geldsammlung aus Jg.3  
+Spende  
+Patenschule in Brasilien
+
+Stadtteilschule  
+Stadtteilschule Bergedorf  
+Geldsammlung Spendenlauf  
+Sportgeräte  
+Schulverein
+
+Eimsbüttel
+
+Berufliche Schule Berufliche Schule für Sozi-
+
+alpädagogik - Anna-
+
+Warburg-Schule (BS 23)
+
+Sammlung von Pfandflaschen
+
+und Dosen (organisiert vom
+
+Schülerrat) Spende Viva con Aqua
+
+Grundschule  
+Grundschule Hoheluft  
+Geldsammlung Spendenlauf  
+Wasserprojekte Weltweit  
+Viva con Agua
+
+Bücher Bibliothek Grundschule Hoheluft
+
+Lebensmittel Hungerhilfe Hamburger Tafel
+
+Gymnasium Emilie-Wüstenfeld-
+
+Gymnasium  
+Geldsammlung Spendenlauf  
+Spende  
+Viva con Agua
+
+Nahrungsmittel Spende Hamburger Tafel
+
+Hamburg-Mitte
+
+Berufliche Schule
+
+Berufliche Schule Anckel-
+
+mannstraße (BS 01); Fusi-
+
+onsschule seit SJ 2017/18;
+
+im Jahr 2016 Berufliche
+
+Schule Handel und Ver-
+
+waltung (H 1)
+
+Verkauf selbstgebackene Ku-
+
+chen, Einsammeln von Pfandfla-
+
+schen
+
+Spende für verschiedene Einrich-
+
+tungen
+
+Franziskus Tierheim, Hamburger
+
+Kinder- und Jugendhaus, Hospiz
+
+Erlenbusch
+
+Gymnasium  
+Gymnasium Finkenwerder  
+Geldsammlung Sponsored Walk  
+Unterstützung von durch Kriegs-
+
+erlebnisse traumatisierte in Pa-
+
+lästina Storytellers without borders e.V.
+
+Geldsammlung Sponsored Walk diverse, Unterstützung des
+
+Schulvereins Schulverein Gymnasium Finken-
+
+werder
+
+Seite 2 von 3
+
+Bezirk  
+Schulform  
+Schulname  
+Art der Sammlung  
+Verwendungszweck  
+Empfänger
+
+Geldsammlung zum Weltaidstag Aufklärungsarbeit zur Aidsprä-
+
+vention Aidshilfe
+
+Stadtteilschulen  
+Brüder-Grimm-Schule  
+Geldsammlung, Kuchen  
+Tag der offenen Tür  
+Bibliothek, Schule
+
+Hamburg-Nord
+
+Gymnasium Albert-Schweitzer-
+
+Gymnasium
+
+Sachspende Fahrradhelme und Schulranzen Folgeunterkunft für Flüchtlinge in
+
+Klein Borstel (Anzuchtgar-
+
+ten/Große Horst)
+
+Geldsammlung Albert-Schweitzer-Spital in Lam-
+
+barene (Gabun) Deutsches Albert-Schweitzer-
+
+Hilfswerk
+
+Gymnasium Gelehrtenschule des Jo-
+
+hanneums
+
+Geldsammlung Spendenlauf Soziales Projekt der School Pre-
+
+fects
+
+Oakhill School in Knysna, Südafri-
+
+ka (Kontakt über eine ehem., dort
+
+arbeitende Schülerin);
+
+Albertinenstiftung Herzbrücke e.V.
+
+Kinderkleidung, Spiele Bücher soziales Projekt der Schüler-AG
+
+"Johanneum hilft" Verein Kindertreff Oldenfelde e.V.
+
+unterschiedliche Preise für die
+
+Weihnachtstombola
+
+schulbehördlich genehmigte
+
+Weihnachtstombola im Rahmen
+
+des Weihnachtsbasars am Jo-
+
+hanneum
+
+Ellinikó e.V. (37,5% des Erlöses);
+
+Schlaufox e.V., Projekt JEA!
+
+(37,5% des Erlöses);
+
+Schulverein am Johanneum e.V.
+
+(25% des Erlöses für schuleigene
+
+Projekte)
+
+Harburg
+
+Gymnasium Alexander-von-Humboldt-
+
+Gymnasium
+
+Chorkonzert im Harburger Rat-
+
+haus 09.12.2017 Obdachloseninitiative in Ham-
+
+burg – Diakonisches Werk Mitternachtsbus Hamburg – Dia-
+
+konisches Werk
+
+Geldsammlung Spendenlauf Wasserprojekte der Welthunger-
+
+hilfe Viva con Agua, Welthungerhilfe
+
+Weihnachtskonzert der 6. Klas-
+
+sen
+
+Wartung der von schulischer
+
+Seite zur Verfügung gestellten
+
+Musikinstrumente
+
+Schülerinnen und Schüler unserer
+
+Schule
+
+Projekt "Straßenkind für einen
+
+Tag" Projekt „Meninos“ in Ma-
+
+puto/Mosambik Terre des hommes
+
+Gymnasium Friedrich-Ebert-
+
+Gymnasium Geldsammlung Unterstützung eines Paten-
+
+schaftsprojekts in Indien Kinderhilfe Chittapur
+
+Lebensmittel Unterstützung Bedürftiger Die Tafel Harburg
+
+Stadtteilschule  
+Goethe-Schule-Harburg  
+Geldsammlung  
+Trinkwasserversorgung (Brun-
+
+nenbau, etc.) Viva con Agua
+
+Stadtteilschule  
+Lessing-Stadtteilschule  
+Geldsammlung Spendenlauf  
+Nepal Trinkwasserprojekt  
+Viva con Agua St.Pauli e.V.
+
+Lebensmittel Hamburger Tafel
+
+Seite 3 von 3
+
+Bezirk  
+Schulform  
+Schulname  
+Art der Sammlung  
+Verwendungszweck  
+Empfänger
+
+Wandsbek
+
+Grundschule  
+Grundschule Altrahlstedt  
+Kinderbücher  
+Lesewoche / wiederkehrende
+
+Tauschbörse eigene Schülerinnen und Schüler
+
+Gymnasium Carl-von-Ossietzky-
+
+Gymnasium  
+Geldsammlung  
+Spende  
+Welthungerhilfe
+
+Geldsammlung Spende Jugend gegen AIDS
+
+Gymnasium Charlotte-Paulsen-
+
+Gymnasium
+
+Geldsammlung durch Verkauf
+
+von Gebasteltem und Gebacke-
+
+nem
+
+Unterstützung Schulprojekt in
+
+Äthiopien Schulgemeinde in Äthiopien
+
+Sachspenden für Kinder in der
+
+benachbarten Unterkunft Packen von Weihnachtspaketen
+
+für 45 Kinder
+
+Kinder in der Unterkunft "An den
+
+Bahngärten" neben dem Charlotte-
+
+Paulsen-Gymnasium
+
+Sachspenden für Kinder in der
+
+Ukraine Bekleidung und Weihnachtsge-
+
+genstände
+
+Kinder in der Ukraine, LKW-
+
+Transport durch ehemaligen Kolle-
+
+gen
+
+Stadtteilschule Gyula Trebitsch Schule
+
+Tonndorf
+
+Weihnachtspakete Spenden für bedürftige Familien
+
+und Familien mit behinderten
+
+Kindern in Temeswar/Rumänien
+
+Gemeinnützige Vereine Kohezio
+
+und Speranta
+
+Geldsammlung Weihnachtsbasar
+
+und Geldspenden
+
+Spenden für bedürftige Familien
+
+und Familien mit behinderten
+
+Kindern in Temeswar/Rumänien
+
+Gemeinnützige Vereine Kohezio
+
+und Speranta
+
+Quelle: Behörde für Schule und Berufsbildung, Schulabfrage Stand 11.01.2018

@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 26
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9806", "21/9803", "21/9203"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66889"
@@ -59,7 +60,7 @@ dieser Beeinträchtigungen der ansässigen Betriebe und Einrichtungen möglichst
 
 der Bürgerschaft über den Fortgang des Projekts im Jahr 2019 zu berichten.“ (Drs. 21/9803.) In der Senatsdrucksache „Medienbunker Feldstraße“ (Drs. 21/9203) heißt es unter 3.6 „Schutz der Bestandsmieter – Der Investor hat gegenüber den Bestandsmietern zugesichert, sie drei Monate vor Beginn der ersten Baumaßnahme über den Zeitplan zu informieren, um kritische Projektpfade frühzeitig zu identifizieren und bei akustisch sensiblen Nutzungen berücksichtigen zu können. Der Zeitplan soll kontinuierlich fortgeschrieben und kommuniziert werden, so dass wesentliche Beeinträchtigungen, sofern sie vorhersehbar sind, mit einem Vorlauf von vier Monaten erkennbar werden.“ Mit Blick auf die aktuelle Situation im Medienbunker scheint dieser Schutz der Bestandsmieter in keiner Weise gegriffen zu haben. Trotz dieser Vorgaben sind jetzt, im Mai 2019, nachdem die Bauarbeiten am Medienbunker begonnen haben, die kultur- und kreativwirtschaftlichen Betriebe im Medienbunker an der Feldstraße akut beeinträchtigt und womöglich sogar gefährdet. Ich frage den Senat:
 
-#### Antwort zu Fragen 1, 2, 4
+#### Antwort zu Fragen 1, 2 und 4
 
 Die Hochbunkeranlage an der Feldstraße im Stadtteil St. Pauli wurde während des Zweiten Weltkriegs errichtet. Grundeigentümerin ist die Freie und Hansestadt Hamburg. Die Matzen Immobilien GmbH & Co. KG (Matzen Immobilien) hat 1993 ein Erbbaurecht für die Dauer von 60 Jahren (bis Ende 2053) erhalten, den Bunker umgebaut und seitdem vermietet.
 
@@ -253,7 +254,7 @@ Welche Erkenntnisse hat der Senat über Einschränkungen von Parkund Zulieferung
 
 Ist es für im Medienbunker ansässige Betriebe durch die Bauarbeiten bereits zu Einnahme- beziehungsweise Umsatzverlusten gekommen? Wenn ja, in welchem Umfang? Wenn nein, auf welche Erkenntnisse stützt sich diese Einschätzung?
 
-#### Antwort zu Fragen 20 bis 21
+#### Antwort zu Fragen 20 und 21
 
 Siehe Vorbemerkung und Antwort zu 5.
 

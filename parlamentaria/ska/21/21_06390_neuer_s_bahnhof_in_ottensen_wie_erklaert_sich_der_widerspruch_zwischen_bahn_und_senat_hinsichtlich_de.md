@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5873"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54922"
@@ -51,7 +52,7 @@ Enthält der Planungsauftrag der Stadt an die DB AG hinsichtlich des S-Bahnhofs 
 
 Welche Stelle hat wann den Planungsauftrag an die DB AG hinsichtlich der S-Bahnhofs Ottensen erteilt und wie lautet dessen Inhalt? Bitte im Original beifügen beziehungsweise vollständig darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In dem zwischen Hamburg, der DB Netz AG und der DB Station&Service AG geschlossenen Planungsvertrag vom 12. Februar 2003 mit Nachtrag vom 28. Novem-
 
@@ -85,6 +86,6 @@ Um was für „wirtschaftliche Gründe“ handelt es sich im Einzelnen, wegen de
 
 Warum schreibt der Senat beziehungsweise die zuständige Behörde der DB AG in Drs. 21/5873 wirtschaftliche Gründe für eine vermeintlich ablehnende Haltung in Bezug auf eine Vollüberdachung zu, während die DB AG angibt, keine Kosten und damit keine wirtschaftlichen Gründe angeben zu können?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Eine Vollüberdachung entspricht nach Angaben der DB nicht dem DB-Ausstattungsstandard für die Stationskategorie des S-Bahn-Haltepunktes Ottensen. Vollüberdachungen von Bahnsteigen sind gegenüber Teilüberdachungen mit höheren Bau- und Instandhaltungskosten verbunden. Eine Refinanzierung von Vollüberdachungen aus Bundesmitteln ist nicht möglich.

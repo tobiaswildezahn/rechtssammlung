@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 21
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56916"
@@ -115,7 +116,7 @@ Wann genau und in welcher Form wurde die örtlich zuständige Bezirksversammlung
 
 Ist es zutreffend, dass normalerweise Bezirksversammlungen auch über Veränderungen bei temporären bezirklichen Dienststellen (zum Beispiel Wahldienststellen) informiert werden? Warum erfolgte keine Information der Bezirksversammlung über die Einrichtung des Kundenzentrums Meiendorf?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Ja. Die Bezirksversammlung des Bezirksamtes Hamburg-Mitte wurde am 16. Februar 2017 gemäß § 26 Nummer 1 Bezirksverwaltungsgesetz durch die Bezirksamtsleitung Hamburg-Mitte informiert.
 

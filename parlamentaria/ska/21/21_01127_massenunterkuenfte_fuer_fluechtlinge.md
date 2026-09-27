@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 30
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/999", "21/1110"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49308"
@@ -107,6 +108,6 @@ Wie bewertet der Senat a. das Risiko der Ghettoisierung durch Massenunterkünfte
 
 Welches Konzept verfolgt der Senat, um innerhalb der Hamburger Bevölkerung für die Akzeptanz von Massenunterkünften zu werben und Sicherheitsbedenken zu entkräften? Falls sich der Senat hiermit nicht befasst hat, ist eine Beschäftigung mit dieser Thematik vorgesehen? Wenn ja, wann? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Ankunftszahlen von Flüchtlingen und die Verpflichtungen der Freien und Hansestadt Hamburg erfordern geeignete Maßnahmen, um für diese ankommenden Menschen Unterkünfte bereitzustellen. Die Maßnahmen sind dabei der Situation entsprechend weiterzuentwickeln. Bei einer Einrichtung größerer Unterkünfte als bisher, wird auf die Erfahrungen aus vorhandenen Einrichtungen zurückgegriffen. Vorrangige Zielsetzung bleibt es, eine Obdachlosigkeit von Flüchtlingen und die damit verbundenen Auswirkungen auf die betroffenen Menschen zu vermeiden. Es wird davon ausgegangen, dass diese vorrangige Zielsetzung von allen gesellschaftlichen Kräften geteilt und unterstützt wird. Bei der Einrichtung von Unterkünften wird weiterhin die Information und Beteiligung der betroffenen Bevölkerung angestrebt. Die konkrete Ausgestaltung wird aber auch künftig in Einzelfällen abhängig von den tatsächlichen, vor allem zeitlichen Bedingungen zu beurteilen sein.

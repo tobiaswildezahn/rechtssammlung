@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13533", "21/11699", "21/4416", "21/13118"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62655"
@@ -101,6 +102,6 @@ Welcher Art werden die geschaffenen Wohneinheiten sein? Privater oder öffentlic
 
 Welche Mietpreise werden für die neu geschaffenen Wohneinheiten jeweils veranschlagt?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Drs. 20/13533, 21/11699, 21/4416 und Drs. 21/13118. Im Übrigen siehe Antwort zu 7.

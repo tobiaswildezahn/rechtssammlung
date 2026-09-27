@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 19
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14227"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63336"
@@ -49,7 +50,7 @@ Welche Erkenntnisse sind bisher durch das von einer Brennstoffzelle angetriebene
 
 Wie hoch waren die bisherigen Kosten für a. den Bau, b. den Betrieb und c. die Reparatur des Fahrgastschiffes MS „Alsterwasser“? d. Wurden Verbesserungen eingebaut? Wenn ja, welche und wo? e. Wer hat die Kosten für den Bau, den Betrieb und die Reparatur des Schiffes jeweils getragen? f. Aus welchen Mitteln vonseiten der Freien und Hansestadt Hamburg von welchem Einzelplan erfolgte eine Finanzierung?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Durch den Betrieb des Fahrgastschiffes Alsterwasser konnten wichtige Erkenntnisse insbesondere zur betrieblichen Einsatztauglichkeit gewonnen werden. Dabei zeigte sich, dass die Technologie grundsätzlich geeignet ist, Fahrgastschiffe auf der Alster zu betreiben und das eingebaute Brennstoffzellensystem mit einer Leistung von 50 kW die betrieblichen Leistungsanforderungen abdecken kann. Die Erkenntnisse zur Umweltverträglichkeit und Schadstoffminimierung waren positiv.
 
@@ -73,13 +74,13 @@ Welche Tankstellen für welche Beförderungsmittel mit Wasserstoff existieren bi
 
 Aktuell sind in Hamburg vier Wasserstofftankstellen an den Standorten
 
- HafenCity: Oberbaumbrücke 3,
+– HafenCity: Oberbaumbrücke 3,
 
- Altona: Schnackenburgallee 12,
+– Altona: Schnackenburgallee 12,
 
- Bramfeld: Bramfelder Chaussee 370,
+– Bramfeld: Bramfelder Chaussee 370,
 
- Finkenwerder: Aluminiumstraße 5
+– Finkenwerder: Aluminiumstraße 5
 
 in Betrieb, wobei die Tankstelle in Finkenwerder bis voraussichtlich September des Jahres 2018 technisch weiter ausgebaut wird. Mit Ausnahme der Wasserstofftankstelle in der HafenCity sind alle Anlagen jeweils in voll kommerzielle Tankstellen von Retailern wie Shell und TOTAL integriert.
 

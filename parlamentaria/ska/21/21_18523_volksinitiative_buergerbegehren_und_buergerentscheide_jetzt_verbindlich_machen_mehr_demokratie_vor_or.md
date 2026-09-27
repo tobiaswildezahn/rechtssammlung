@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/2291", "20/12076", "21/10313", "21/3802", "21/10857", "21/14284", "21/14285", "21/14363", "21/14364", "21/14377", "21/14378", "21/14419", "19/5304", "20/3433"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68182"
@@ -75,7 +76,7 @@ Welche der unter 1. aufgeführten Bürgerbegehren wurden durch den Senat mit wel
 
 Welche der unter 1. aufgeführten Bürgerbegehren wurden infolge von Anweisungen der Senatskommission für ungültig erklärt beziehungsweise außer Kraft gesetzt (das heißt die Bezirke angewiesen, die aufgeworfene Frage in seinem Sinne zu bearbeiten (sogenannte kalte Evokation))? Bitte nach Jahren und Bezirken getrennt auflisten.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/3802, 21/10857, 21/14284, 21/14285, 21/14363, 21/14364, 21/14377, 21/14378 und 21/14419.
 

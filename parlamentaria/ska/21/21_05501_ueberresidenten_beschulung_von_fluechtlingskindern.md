@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2644", "21/5124"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53983"
@@ -45,7 +46,7 @@ Wie viele schulpflichtige Flüchtlinge, die länger als sechs Monate in einer Er
 
 Wie viele dieser schulpflichtigen Flüchtlinge besuchen Lerngruppen in Erstaufnahmeeinrichtungen? (Bitte pro Erstaufnahmeeinrichtung darstellen.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bisher erfolgte die Auswertung zu den sogenannten Überresidenten aus einer beim Einwohner-Zentralamt geführten Datenbank, in die von f & w fördern und wohnen AöR (f & w) zugelieferte Belegungs- und Veränderungsmeldungen eingepflegt wurden. Dies konnte zu zeitversetzten Erfassungen und damit nicht aktuellen Sachständen führen. Die zuständige Behörde überprüft derzeit auf Grundlage des neu eingeführten Quartiersmanagements die Anzahl der Überresidenten in den Erstaufnahmeeinrichtungen. Diese Überprüfung ist noch nicht abgeschlossen.
 

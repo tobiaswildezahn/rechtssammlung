@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 98
 antwortbloecke: 23
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5231", "21/4991", "21/5733", "21/5812", "21/4940", "21/4943", "21/5765", "20/917", "21/3894", "21/4990", "21/5748", "21/3652", "21/5875", "21/5783"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54617"
@@ -59,7 +60,7 @@ Welche rechtlichen Folgen haben Handlungen oder Beschlüsse der beteiligten Vert
 
 Sind Verpflichtungen seitens der Freien und Hansestadt Hamburg eingegangen worden für den Fall, dass Zielsetzungen des Bürgervertrages nicht erreicht werden? Wenn ja, wann, welche und gegenüber wem?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/4991.
 

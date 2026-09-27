@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8276"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69053"
@@ -152,7 +153,7 @@ Die Bäderland Hamburg GmbH wendet mit den Abzeichen Junior Pinguin, Pinguin und
 
 Welche Beurteilungskriterien werden im schulischen Schwimmunterricht angewendet, welcher in den Bädern der Bäderland Hamburg GmbH stattfindet? a. Erhalten die Kinder in den Bädern der Bäderland Hamburg GmbH vorrangig die Abzeichen Junior Pinguin, Pinguin und Star Pinguin und nur auf Wunsch das klassische Seepferdchen, Bronze und Silber?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nein. Die Beurteilungsskala im schulischen Schwimmunterricht ist die des Deutschen Schwimmverbands, siehe auch Drs. 20/8276.
 

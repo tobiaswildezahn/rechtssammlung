@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3797"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52436"
@@ -86,7 +87,7 @@ An wie viele SGB-II-Bezieher in Erstaufnahmen wurden über insgesamt wie viele M
 
 Welche Kosten sind aufgrund der Ausgabe von Doppelleistungen zusätzlich entstanden? Welche Kosten sind davon der Freien und Hansestadt Hamburg beziehungsweise dem Bund entstanden a. zwischen dem 1.01.2015 und 31.12.2015? b. zwischen 1.01.2016 und 31.03.2016?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Durch den Statistik-Service der Bundesagentur für Arbeit erfolgt keine Auswertung im Sinne der Fragestellung.
 

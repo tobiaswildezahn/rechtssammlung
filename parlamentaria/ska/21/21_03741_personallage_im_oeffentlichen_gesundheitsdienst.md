@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2289", "20/581", "20/1168", "20/5081", "20/13111"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52110"
@@ -41,7 +42,7 @@ Wie viele Stellen gab es jeweils am 30. Juni der Jahre 2011, 2012, 2013, 2014 un
 
 Wie viel Prozent dieser Stellen waren an dem in Frage 1. genannten Stichtag besetzt? Bitte ebenso wie in Frage 1. aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Beschäftigten des nicht ärztlichen Dienstes der Behörde für Gesundheit und Verbraucherschutz (BGV) nehmen in vielen Fällen auch andere Aufgaben außerhalb des Öffentlichen Gesundheitsdienstes (ÖGD) wahr; diese sind nicht trennscharf voneinander abzugrenzen. Daher hat die BGV eine qualitative Abschätzung vorgenommen. Für die Angaben zu den Jahren 2015 und 2011 wird auf die Drs. 21/2289 sowie 20/581 und 20/1168 verwiesen. Die in den Drs. 20/581 und 20/1168 verwandte Spaltenüberschrift „besetzte Stellen“ ist mit der Spaltenüberschrift „VZÄ“ aus Drs. 21/2289 begrifflich identisch.
 

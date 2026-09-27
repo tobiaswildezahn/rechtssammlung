@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14495"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69518"
@@ -66,7 +67,7 @@ Stimmt es, dass Grundschulen, Stadtteilschulen und Gymnasien in Hamburg die Gewi
 
 Wenn jede Schule eigenverantwortlich und individuell festlegen kann, wie mündliche und schriftliche Leistungen gewertet werden: Sind die Schulen verpflichtet, dies gegenüber der Schüler- und Elternschaft transparent darzustellen? Wenn ja, in welcher Form?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

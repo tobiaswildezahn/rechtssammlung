@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 18
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1421", "21/1568"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49838"
@@ -51,7 +52,7 @@ Hatte die zuständige Behörde vor der Berichterstattung im „Hamburger Abendbl
 
 Mit welcher Begründung wurden die Versorgungsverträge gegenüber den einzelnen Schulen gekündigt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Schulleitungen haben zwischen Februar und April 2015 Kontakt zur zuständigen Behörde aufgenommen, um sich beraten zu lassen. Die Grundschule Goosacker hat von sich aus eine Kündigung ausgesprochen. Zu den seitens des Caterers den Schulen benannten Gründen für die Kündigung siehe Drs. 21/1421.
 
@@ -79,7 +80,7 @@ Welche weiteren Versorgungsverträge wurden seit dem Jahre 2012 aus welchen Grü
 
 Ist der zuständigen Behörde bekannt, ob bereits weitere Caterer Versorgungsverträge mit Schulen gekündigt haben? Falls ja, an welchen Schulen, zu welchem Kündigungszeitpunkt und aus welchen Gründen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/1421.
 
@@ -111,21 +112,21 @@ Wie viele Ausschreibungsverfahren liefen beziehungsweise laufen seit 2014 für d
 
 Seit 2014 wurde von f & w ein europaweites Ausschreibungsverfahren durchgeführt. Es wurden folgende Auswahlkriterien zugrunde gelegt:
 
-• Fachkunde
+– Fachkunde
 
-• Leistungsfähigkeit
+– Leistungsfähigkeit
 
-• Zuverlässigkeit
+– Zuverlässigkeit
 
-• Referenzen über vergleichbare Projekte (Herstellung, Lieferung und Ausgabe mehrerer Hundert Mahlzeiten, Versorgung von Personen unterschiedlichster Herkunftsländer)
+– Referenzen über vergleichbare Projekte (Herstellung, Lieferung und Ausgabe mehrerer Hundert Mahlzeiten, Versorgung von Personen unterschiedlichster Herkunftsländer)
 
-• Einhaltung von Hygiene- und Qualitätsmanagementanforderungen
+– Einhaltung von Hygiene- und Qualitätsmanagementanforderungen
 
-• Einhaltung der Anforderungen der Deutschen Gesellschaft für Ernährung e.V. (DGE), jedoch unter Berücksichtigung von Komponenten, die den Ernährungsgewohnheiten der Menschen aus den Herkunftsländern entsprechen
+– Einhaltung der Anforderungen der Deutschen Gesellschaft für Ernährung e.V. (DGE), jedoch unter Berücksichtigung von Komponenten, die den Ernährungsgewohnheiten der Menschen aus den Herkunftsländern entsprechen
 
-• Konzept zur Auftragsdurchführung
+– Konzept zur Auftragsdurchführung
 
-• Angebotspreis
+– Angebotspreis
 
 ### Frage 10
 

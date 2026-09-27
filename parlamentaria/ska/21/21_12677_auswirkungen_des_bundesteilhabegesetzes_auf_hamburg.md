@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 20
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/9522", "21/11198", "21/9890"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61980"
@@ -41,19 +42,19 @@ Schwerpunkt des Gesetzes ist die Neufassung des Neunten Buches Sozialgesetzbuch 
 
 Das Inkrafttreten der mit dem BTHG verbundenen Änderungen erfolgt stufenweise.
 
- Ab 01.01.2017 sind bereits die Änderungen im Schwerbehindertenrecht, die erste
+– Ab 01.01.2017 sind bereits die Änderungen im Schwerbehindertenrecht, die erste
 
 Stufe bei Verbesserungen in der Einkommens- und Vermögensheranziehung sowie die Verdoppelung des Arbeitsförderungsgeldes in Kraft getreten.
 
- Zum 01.01.2018 sind insbesondere die Teile 1 und 3 (allgemeines Rehabilitations-
+– Zum 01.01.2018 sind insbesondere die Teile 1 und 3 (allgemeines Rehabilitations-
 
 recht und Schwerbehindertenrecht) in Kraft getreten sowie die vorgezogenen Verbesserungen im Bereich der Leistungen zur Teilhabe am Arbeitsleben in der Eingliederungshilfe (im SGB XII).
 
- Zum 01.01. 2020 tritt schließlich mit der Reformstufe 3 das Leistungsrecht der
+– Zum 01.01. 2020 tritt schließlich mit der Reformstufe 3 das Leistungsrecht der
 
 Eingliederungshilfe (SGB IX Teil 2) in Kraft. Hieraus ergeben sich zahlreiche Umstellungsprozesse in der Sozialverwaltung. Dazu gehören zum Beispiel auch die Trennung der Fachleistungen der Eingliederungshilfe von den existenzsichernden Leistungen sowie die zweite Stufe bei Verbesserungen in der Einkommensund Vermögensheranziehung.
 
- Nach Artikel 25a BTHG soll schließlich zum 01.01.2023, nach erneuter Befassung
+– Nach Artikel 25a BTHG soll schließlich zum 01.01.2023, nach erneuter Befassung
 
 des Bundesrates und des Bundestages, der leistungsberechtigte Personenkreis in der Eingliederungshilfe nach § 99 SGB IX definiert werden.
 
@@ -71,19 +72,19 @@ Es sind alle Leistungen der Eingliederungshilfe sowie zum Teil die Leistungen na
 
 Davon sind in Hamburg auf der Durchführungsebene folgende Dienststellen berührt:
 
- die Grundsicherungs- und Sozialämter der Bezirksämter,
+– die Grundsicherungs- und Sozialämter der Bezirksämter,
 
- die Gesundheitsämter der Bezirksämter,
+– die Gesundheitsämter der Bezirksämter,
 
- das Fachamt Eingliederungshilfe beim Bezirksamt Wandsbek.
+– das Fachamt Eingliederungshilfe beim Bezirksamt Wandsbek.
 
 Auf der ministeriellen Ebene sind betroffen:
 
- die Behörde für Arbeit, Soziales, Familie und Integration,
+– die Behörde für Arbeit, Soziales, Familie und Integration,
 
- die Behörde für Gesundheit und Verbraucherschutz,
+– die Behörde für Gesundheit und Verbraucherschutz,
 
- die Finanzbehörde.
+– die Finanzbehörde.
 
 Außerdem sind die Anbieter von Leistungen der Eingliederungshilfe, die Verbände der Leistungsanbieter sowie die Interessenvertretungen der Menschen mit Behinderungen vom SGB IX betroffen.
 
@@ -142,7 +143,7 @@ Wird ein Wunsch- und Wahlrecht mit dem BTHG ermöglicht bezüglich der Wohnsitua
 
 Können Menschen mit Behinderungen sich mit dem BTHG aussuchen, ob sie im Heim wohnen oder in einer Privatwohnung?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe § 104 SGB IX neu (ab 01.01.2020). Im Übrigen siehe Antwort zu 2. bis 4.
 

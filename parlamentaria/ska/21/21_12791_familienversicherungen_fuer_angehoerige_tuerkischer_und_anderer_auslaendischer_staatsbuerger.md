@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62101"
@@ -49,7 +50,7 @@ Wie viele in Hamburg lebende türkische Staatsangehörige nutzen gegenwärtig ei
 
 Wie viele dieser Personen verfügen über neben der türkischen auch über die deutsche beziehungsweise eine weitere Staatsangehörigkeit?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine Differenzierung nach Städten ist nicht möglich. In der Regel sind die deutschen Krankenkassen in der gesamten Bundesrepublik Deutschland tätig.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 20
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/915", "21/1990", "21/4583"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53097"
@@ -101,7 +102,7 @@ geplant?
 Wenn ja, zu wann?  
 Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung.
 

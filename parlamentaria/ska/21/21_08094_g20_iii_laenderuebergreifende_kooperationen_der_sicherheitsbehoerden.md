@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56753"
@@ -77,6 +78,6 @@ Welche Gefahrenprognosen ausländischer Polizei- oder Geheimdienstbehörden lieg
 
 Sind zwischen Polizeien der Teilnehmerstaaten oder auch anderer Staaten und Hamburger Behörden bereits Absprachen über ausländische verdeckt ermittelnde Polizeibeamte/-innen während des Gipfels getroffen worden? Wenn ja, mit Polizeien welcher Staaten?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Fragestellungen betreffen die Einsatztaktik der Polizei, zu der aus grundsätzlichen Erwägungen keine Angaben gemacht werden.

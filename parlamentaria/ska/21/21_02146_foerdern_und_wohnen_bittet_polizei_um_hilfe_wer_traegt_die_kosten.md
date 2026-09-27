@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50402"
@@ -48,7 +49,7 @@ Stellt die Polizei Hamburg dem Unternehmen „fördern und wohnen“, die Kosten
 
 Ist der Verzicht einer Kostenrechnung mit dem Haushaltsrecht der Freien und Hansestadt Hamburg vereinbar? Wenn ja, warum?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für die Gestellung von Bediensteten der Polizei werden nur dann Gebühren nach § 2 Absatz 1 Satz 2 Gebührenordnung für Maßnahmen auf dem Gebiet der öffentlichen Sicherheit und Ordnung (SiO-GebO) in Verbindung mit § 2 Absatz 1 Hamburgisches Gebührengesetz (HmbGebG) erhoben, wenn die Gestellung auf Antrag oder aufgrund gesetzlicher Ermächtigung im überwiegenden Interesse eines Einzelnen vorgenommen wird. Dient die Gestellung der Bediensteten jedoch, wie im vorliegenden Fall, überwiegend der Abwehr von Gefahren für die öffentliche Sicherheit und Ordnung, werden keine Gebühren erhoben.
 

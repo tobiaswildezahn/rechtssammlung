@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19047"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69446"
@@ -41,23 +42,23 @@ Vor diesem Hintergrund frage ich den Senat:
 
 Die Software Digitale Verwaltung in Schule (DiViS) wird seit 2016 in den staatlichen Hamburger Schulen eingesetzt. Sie wird schrittweise hinsichtlich ihres Funktionsumfangs und ihrer Anwenderzahl erweitert:
 
- Seit November 2016 sind die Schulbüros aller allgemeinbildenden Schulen mit der
+– Seit November 2016 sind die Schulbüros aller allgemeinbildenden Schulen mit der
 
 neuen Software DiViS ausgestattet. Das Altverfahren LUSD wurde vollständig abgelöst.
 
- Im Schuljahr 2017/2018 konnte die Schulorganisation der Eingangsklassen erst-
+– Im Schuljahr 2017/2018 konnte die Schulorganisation der Eingangsklassen erst-
 
 mals durchgängig mit Unterstützung durch die Software DiViS durchgeführt werden.
 
- Im Schuljahr 2017/2018 erfolgte zudem eine Pilotierung der DiViS-Funktionen für
+– Im Schuljahr 2017/2018 erfolgte zudem eine Pilotierung der DiViS-Funktionen für
 
 die Unterrichtsverwaltung, Leistungserfassung und Zeugniserstellung in einer kleinen Anzahl von Schulen. In diesem Zuge wurde erstmals der Zugriff auf DiViS durch Lehrkräfte mittels zentraler stadtweiter Infrastrukturen (Zuvex) realisiert. Diese Lösung erlaubt Lehrkräften ortsunabhängig und endgeräteunabhängig auf das im gesicherten Verwaltungsnetz der Freien und Hansestadt Hamburg betriebene DiViS zuzugreifen.
 
- Im Schuljahr 2018/2019 wurden die erweiterten DiViS-Funktionen zur Unterrichts-
+– Im Schuljahr 2018/2019 wurden die erweiterten DiViS-Funktionen zur Unterrichts-
 
 verwaltung, Leistungserfassung und Zeugniserstellung für alle allgemeinbildenden Schulen bereitgestellt. Um in den weiterführenden Schulen einen schrittweisen Umstieg der Schulen auf DiViS als neue Zeugnis-Software zu ermöglichen, war der Zeugnisdruck mit DiViS nur in mindestens einer Klassenstufe verbindlich vorgesehen (Ausnahme: Teilnehmer im Schulversuch alles<<könner). In einer kleinen Anzahl von Grundschulen erfolgte in diesem Schuljahr die Pilotierung fachlich neu konzipierter kompetenzorientierter Zeugnisse mittels DiViS.
 
- Im aktuellen Schuljahr 2019/2020 sollen die weiterführenden Schulen die Zeugnis-
+– Im aktuellen Schuljahr 2019/2020 sollen die weiterführenden Schulen die Zeugnis-
 
 se aller Klassenstufen mit DiViS erstellen. In den Grundschulen ist die Nutzung von DiViS für den Zeugnisdruck in einer Klassenstufe zum Schuljahresende verbindlich vorgesehen (Ausnahme: Teilnehmer im Schulversuch alles<<könner).
 

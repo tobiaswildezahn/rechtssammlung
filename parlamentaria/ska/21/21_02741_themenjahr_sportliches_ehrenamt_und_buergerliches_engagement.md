@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51075"
@@ -63,7 +64,7 @@ Welche Behörden, Ämter und/oder privaten Auftragnehmer sind für die Planung d
 
 Wer ist für die Umsetzung der Aktionen im Rahmen des Themenjahrs „Sportliches Ehrenamt und bürgerliches Engagement“ verantwortlich?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Federführung für die sportlichen Themenjahre liegt bei der Behörde für Inneres und Sport. Gegebenenfalls werden je nach Maßnahmen weitere Behörden und Ämter hinzugezogen. Für das Themenjahr „Sportliches Ehrenamt und bürgerliches Engagement“ ist im Laufe des Planungsprozesses insbesondere eine Abstimmung mit der Behörde für Arbeit, Soziales, Familie und Integration vorgesehen. Im Übrigen siehe Antwort zu 2.
 

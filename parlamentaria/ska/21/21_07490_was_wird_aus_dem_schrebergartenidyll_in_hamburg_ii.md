@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 41
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7283", "21/3693"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56093"
@@ -91,7 +92,7 @@ Fördern aus der Sicht des Senats Kleingärten die Integration und den sozialen 
 
 Fördern aus der Sicht des Senats Kleingärten das Umweltbewusstsein beziehungsweise führen zu einem Abbau der immer häufiger zu beobachtenden Entfremdung von der Natur?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Kleingärten bieten die Chance, die Integration und den sozialen Zusammenhalt sowie das Umweltbewusstsein und die Naturnähe zu fördern.
 
@@ -173,7 +174,7 @@ Wie viele Kleingartenparzellen wies die Stadt Hamburg in den Jahren 2011, 2012, 
 
 Welche Gesamtgartenfläche wies/weist die Stadt Hamburg in den Jahren 2011, 2012, 2013, 2014, 2015 und 2016 innerhalb und außerhalb des Hamburger Stadtgebietes auf?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Drs. 21/7283.
 
@@ -185,7 +186,7 @@ Wie viele Gartenflächen wurden in den letzten Jahren außerhalb von Hamburg ges
 
 Wurden für diese Flächen eigene Kleingartenvereine gegründet? Wenn ja, welche?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Siehe Antwort zu 11. bis 11. d).
 
@@ -239,7 +240,7 @@ Wurden für die Ausweisung von Flächen außerhalb des Hamburger Stadtgebietes V
 
 Welche Vereinbarungen für die Ausweisung von Gartenflächen wurden mit den jeweiligen Gemeinden, Kreisen beziehungsweise der Landesregierung getroffen?
 
-#### Antwort zu Fragen 20 bis 21
+#### Antwort zu Fragen 20 und 21
 
 Zur Herstellung der in der Antwort zu 11. bis 11. d) genannten Anlage wurde im Vorfeld zwischen der Freien und Hansestadt Hamburg, vertreten durch die damalige Behörde für Bau und Verkehr, und der Gemeinde Barsbüttel, vertreten durch den Bürgermeister, am 28. April 2003 ein Städtebaulicher Vertrag abgeschlossen, der unter anderem die planungsrechtliche Sicherung der Fläche durch die Gemeinde Barsbüttel und die Übernahme aller Kosten für Hamburger Ersatzkleingärten (Erwerb der Flächen, Bauleitplanung, Bau der Kleingärten und die Erschließung) durch die Freie und Hansestadt Hamburg vorsieht. Der Bebauungsplan Nummer 1.43 „Kleingärten am Schleemer Bach“ ist am 3. Februar 2004 in Kraft getreten.
 

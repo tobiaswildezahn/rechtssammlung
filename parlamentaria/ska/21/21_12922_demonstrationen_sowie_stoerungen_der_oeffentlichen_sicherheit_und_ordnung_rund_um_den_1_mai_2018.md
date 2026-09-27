@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 15
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62244"
@@ -270,7 +271,7 @@ Wie viele Vollzugskräfte der Polizei der Freien und Hansestadt Hamburg, des Bun
 
 Wie viele Mitarbeiter der Hamburger Feuerwehr und Rettungsdienste waren jeweils vor Ort im Einsatz und wie viele wurden gegebenenfalls selber verletzt?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Keine.
 

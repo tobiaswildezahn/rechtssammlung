@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/4967", "20/8584", "20/1891", "20/12237", "20/13823"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48954"
@@ -49,7 +50,7 @@ Welche Großveranstaltungen mit welchen (erwarteten) Teilnehmerzahlen wurden bez
 
 Wer ist jeweils Veranstalter der Großveranstaltungen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Jahr 2015 sind folgende Veranstaltungen bereits durchgeführt beziehungsweise geplant. Dies ist jedoch auch von den Witterungsverhältnissen abhängig (siehe Drs. 20/4967):
 

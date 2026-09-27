@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 16
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17365"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67184"
@@ -55,11 +56,11 @@ Wie wird Abwasser in Hamburg gegenwärtig gereinigt? Die zugrunde liegende Behan
 
 Die Hamburger Kläranlage behandelt das Abwasser in folgenden Prozessschritten:
 
- Mechanische Reinigung: Rechen, Sandfang und Vorklärung
+– Mechanische Reinigung: Rechen, Sandfang und Vorklärung
 
- Biologische Reinigung: Belebungsanlage
+– Biologische Reinigung: Belebungsanlage
 
- Chemische Reinigung: Phosphorelimination durch chemische Fällung
+– Chemische Reinigung: Phosphorelimination durch chemische Fällung
 
 Die mechanische Reinigung, als erste Reinigungsstufe, besteht in Hamburg aus drei Feinrechen mit 22 mm Stababstand im Kläranlagenteil Köhlbrandhöft Nord und drei gestuften Rechen (2 x 30 mm, 1 x 60 mm als Grobrechen und 2 x 15 mm und 1 x 22 mm als Feinrechen). Nach Entzug des Rechengutes wird das Abwasser in der Sandfanganlage von überwiegend mineralischen Feststoffen befreit. Hierfür stehen auf dem Werksstandort Köhlbrandhöft insgesamt sieben Sandfangbecken mit einem Gesamtvolumen von 5 530 m³ zur Verfügung. Die Entfernung von überwiegend organischen, partikulären Stoffen erfolgt in der Vorkläranlage in insgesamt acht Vorklärbecken mit einem Gesamtvolumen von 33 140 m³.
 
@@ -218,7 +219,7 @@ Wann wurden Hamburger Klärschlämme zuletzt zu landwirtschaftlichem Dünger ver
 
 Welche Verfahren kamen dabei zum Einsatz?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Entfällt. Im Übrigen siehe Vorbemerkung.
 
@@ -260,7 +261,7 @@ Wie viele Tonnen Klärschlämme, die aus anderen Bundesländern stammen, wurden 
 
 An welchen Standorten hat diese Behandlung im Einzelnen stattgefunden?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Ab 2002 wurden kommunale Klärschlämme aus anderen Ländern (Schleswig- Holstein, Niedersachsen, Mecklenburg-Vorpommern und Bremen) in der VERA thermisch behandelt. Summarisch waren dies 744 495 Tonnen Originalsubstanz, das heißt eingedickter oder mechanisch behandelter Schlamm. Auf Trockenrückstand umgerechnet ergeben sich 163 789 Tonnen.
 

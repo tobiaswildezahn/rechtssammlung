@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10994", "21/2798", "21/4174", "21/5580"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59394"
@@ -43,7 +44,7 @@ Wie viele Sexualdelikte gab es in den Jahren 2015 und 2016 sowie im ersten Halbj
 
 Soweit eine Zunahme ersichtlich ist, wie erklärt sich diese?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Polizei erfasst Straftaten gemäß dem Straftatenkatalog der Richtlinien für die Erfassung und Verarbeitung der Daten in der Polizeilichen Kriminalstatistik (PKS). Die Aussagekraft der PKS ist auf Jahresauswertungen ausgelegt. Innerhalb eines Berichtsjahres unterliegt der PKS-Datenbestand einer ständigen Pflege, zum Beispiel durch Hinzufügen von nachträglich ermittelten Tatverdächtigen oder der Herausnahme von Taten, die sich im Nachhinein nicht als Straftat erwiesen haben.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15025", "21/17688"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68301"
@@ -69,7 +70,7 @@ a) Wie ist der aktuelle Sachstand der jeweiligen kurzfristigen Maßnahmen der DB
 b) Zu jeweils welchem konkreten Zeitpunkt ist mit dem Beginn beziehungsweise dem Abschluss der Umsetzung der jeweiligen unter Ziffer 2. a) fallenden kurzfristigen Maßnahmen jeweils zu rechnen? Bitte nach jeweiliger Maßnahme gesondert darstellen.
 c) Wie ist der aktuelle Sachstand der Pläne der DB AG für die provisorischen Zugänge von der Steintorbrücke zu den Bahnsteigen im Süden? Was sehen die Pläne im Speziellen inhaltlich vor? Zu jeweils welchem konkreten Zeitpunkt werden die Pläne der Bürgerschaft vorgelegt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Planungen der DB AG laufen. Zu den geplanten Maßnahmen siehe Vorbemerkung. Die Entwurfsplanung der zusätzlichen provisorischen Bahnsteigzugänge soll zum Ende des Jahres 2019 fertig gestellt werden. Eine Vorstellung der Maßnahmen kann Anfang des Jahres 2020 erfolgen.
 

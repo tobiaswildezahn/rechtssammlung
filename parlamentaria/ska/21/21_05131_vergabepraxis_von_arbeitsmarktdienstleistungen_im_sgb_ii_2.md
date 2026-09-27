@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53592"
@@ -47,7 +48,7 @@ Welche Fristen legt das REZ Nord zwischen Erteilung des Zuschlags und dem vorges
 
 Gab es nach Frage 1. in der Vergangenheit Ausnahmen? Wenn ja, warum und welche Beschaffungen nach dem Vergaberecht waren davon betroffen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zwischen der Erteilung des Zuschlags und dem Beginn der Maßnahme werden jeweils angemessene Fristen eingeräumt. Die konkrete Fristlänge hängt von den Umständen der einzelnen Ausschreibung ab. Zu beachten sind dabei die jeweilige Leistungsart, insbesondere die Komplexität der Maßnahmekonzeption und -einrichtung (zum Beispiel Werkstätten). Ein weiterer Faktor ist der Bestellzeitpunkt durch den Bedarfsträger im Hinblick auf Soll-Zeitpunkt des Beginn-Termins. Schließlich sind die Fristen auch abhängig von externen Parametern, wie zum Beispiel dem Beginn eines Ausbildungsjahres zum 01.08. oder 01.09. eines Jahres.
 
@@ -67,7 +68,7 @@ Welche Ausweichmöglichkeiten eines Vergabeverfahrens bestehen für die Fachkrä
 
 Wie bewertet der Senat technische Probleme der „e-Vergabe-Plattform“ und der damit verhinderten Bekanntmachung von Vergabeverfahren nach dem Transparenzgebot aus § 97 Absatz 1 GWB, § 2 Absatz 1 Satz 1 VOL/A?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Bekanntmachung erfolgt nicht über die e-Vergabe-Plattform des Bundes, sondern innerhalb der in § 23 EG eingeräumten 48-Tage-Frist über den vom Amt für amtliche Veröffentlichung der Europäischen Gemeinschaften verwalteten Online-Dienst „TED (Tenders Electronic Daily)“ als Online-Version des „Supplement zum Amtsblatt der Europäischen Union“ für das europäische öffentliche Auftragswesen.
 

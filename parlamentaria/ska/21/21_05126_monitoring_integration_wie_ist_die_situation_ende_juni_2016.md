@@ -14,6 +14,7 @@ fragen: 27
 einzelfragen: 45
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4499", "21/4765", "21/4566", "21/2382"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53609"
@@ -162,7 +163,7 @@ Wie viele Flüchtlinge üben derzeit eine sozialversicherungspflichtige Arbeit a
 
 Wie viele Flüchtlinge sind Ende Juni 2016 im Regelsystem des SGB II? Wie viele sind davon Männer, wie viele Frauen?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Der Statistik-Service der Bundesagentur für Arbeit wertet zu der Thematik Flucht/Asyl im „Migrationsmonitor Arbeitsmarkt“ die Eckwerte Arbeitsmarkt und Grundsicherung auf Länderebene aus (Zu 10. siehe Reiter (T-Arbeitsmarkt) und zu 11. siehe Reiter (T_Grundsicherung)):
 

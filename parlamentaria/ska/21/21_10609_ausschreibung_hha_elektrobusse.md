@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59500"
@@ -66,7 +67,7 @@ Wie viele Bewerber haben an der Ausschreibung teilgenommen und welche waren dies
 
 Sind die Teilnehmer aus der Sicht der HHA geeignet und in der Lage, die Lieferung der 60 serienmäßigen Elektrobusse in den Jahren 2019 und 2020 zu gewährleisten?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Da die Ausschreibung noch nicht abgeschlossen ist, können hierzu derzeit keine Angaben erfolgen.
 

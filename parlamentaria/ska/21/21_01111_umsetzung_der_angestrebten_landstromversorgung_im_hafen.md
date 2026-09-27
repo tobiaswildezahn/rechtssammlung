@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9298", "21/917"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49291"
@@ -80,7 +81,7 @@ Welcher Strompreis wird bei der Versorgung der Kreuzfahrtschiffe abgerechnet ode
 
 Wie viele Kunden werden für den wirtschaftlichen Betrieb dieser Einrichtungen jährlich benötigt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Hierzu liegen der zuständigen Behörde keine Informationen vor, da es sich um Betriebs- und Geschäftsgeheimnisse der beteiligten Unternehmen handelt. Im Übrigen siehe Drs. 20/9298.
 

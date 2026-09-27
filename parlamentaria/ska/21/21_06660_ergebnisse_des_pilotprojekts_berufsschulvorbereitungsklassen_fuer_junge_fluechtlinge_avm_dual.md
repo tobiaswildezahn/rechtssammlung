@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 18
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1953", "21/4655"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55204"
@@ -43,19 +44,19 @@ Der zweijährige Bildungsgang AvM-Dual steht allen schulpflichtigen, neu zugewan
 
 Übergeordnetes Ziel des zweijährigen Bildungsganges AvM-Dual ist es, die neu zugewanderten Jugendlichen im gleichen Lebensabschnitt wie die hiesigen Jugendlichen möglichst schnell fachlich und sprachlich in die Lage zu versetzen, ihren Alltag und den Übergang in Ausbildung, Arbeit oder weiterführende Bildungsangebote zu bewältigen. Damit dies gelingt, werden folgende Ziele mit dem dualisierten Konzept im Bildungsgang AvM-Dual verfolgt:
 
- Eine gezielte berufliche Orientierung und damit verbunden eine bessere Integration
+– Eine gezielte berufliche Orientierung und damit verbunden eine bessere Integration
 
 in den Ausbildungs- und Arbeitsmarkt
 
- Eine effektivere Sprachförderung durch die Orientierung an Sprachhandlungen im
+– Eine effektivere Sprachförderung durch die Orientierung an Sprachhandlungen im
 
 Betrieb, die im Unterricht wieder aufgegriffen werden
 
- Erwerb kultureller Kompetenzen durch Erfahrungen in der Arbeitswelt, die im
+– Erwerb kultureller Kompetenzen durch Erfahrungen in der Arbeitswelt, die im
 
 Unterricht reflektiert werden
 
- Vorbereitung auf den Erwerb des ersten und mittleren Schulabschlusses durch
+– Vorbereitung auf den Erwerb des ersten und mittleren Schulabschlusses durch
 
 individuell auf den einzelnen Jugendlichen ausgerichtete Unterrichtsangebote
 
@@ -63,19 +64,19 @@ Dabei sind die mitgebrachten formalen Qualifizierungen und informell erworbenen 
 
 Um das Lernen im Betrieb zu unterstützen und mit dem Lernen in der Schule zu verzahnen, werden die Schülerinnen und Schüler derzeit durch Betriebliche Integrations- Begleiterinnen und -Begleiter (BIB), die Beschäftigte bei Bildungsträgern sind, im Umfang von 72 vollen Stellen unterstützt. Aufgaben der Bildungsträger sind:
 
- den Spracherwerb im betrieblichen Umfeld systematisch zu unterstützen und in
+– den Spracherwerb im betrieblichen Umfeld systematisch zu unterstützen und in
 
 geeigneter Weise zu fördern,
 
- die pädagogischen Angebote im Ganztag nach Stundentafel durchzuführen und
+– die pädagogischen Angebote im Ganztag nach Stundentafel durchzuführen und
 
 Gruppen selbstständig zu leiten,
 
- die am Lernort Betrieb für den Spracherwerb relevanten Kommunikations- und
+– die am Lernort Betrieb für den Spracherwerb relevanten Kommunikations- und
 
 Sprachstrukturen zu identifizieren, hierfür ist eine fundierte Kenntnis der psychosozialen Lebenssituation neu zugewanderter Jugendlicher erforderlich,
 
- geeignete Arbeitshilfen für das berufliche Handeln mit den Jugendlichen im
+– geeignete Arbeitshilfen für das berufliche Handeln mit den Jugendlichen im
 
 betrieblichen Umfeld zu entwickeln und den Transfer ins schulische Lernen zu befördern.
 
@@ -143,19 +144,19 @@ Die Einführung des neuen Bildungsangebotes wird eng vom HIBB sowie vom Landesin
 
 #### Antwort zu Frage 7
 
- Für die neu eingestellten Lehrerinnen und Lehrer ohne abgeschlossene Lehramts-
+– Für die neu eingestellten Lehrerinnen und Lehrer ohne abgeschlossene Lehramts-
 
 ausbildung (sogenannte Quereinsteiger) wurde im laufenden Kalenderjahr eine Veranstaltungssequenz zum Thema „Grundlagen des Unterrichtens in Flüchtlingsklassen“ durchgeführt. Die Seminarreihe wird im Frühjahr 2017 fortgesetzt. Im Fokus steht dann der berufsbezogene Unterricht in AvM-Dual-Klassen.
 
- Allen Referendarinnen und Referendaren wird ab dem 1. Februar 2016 am Ende
+– Allen Referendarinnen und Referendaren wird ab dem 1. Februar 2016 am Ende
 
 ihrer Ausbildung eine zweiwöchige Qualifizierungsmaßnahme im Umfang von 40 Wochenstunden angeboten, in der ihnen grundlegende Qualifizierungsbausteine zum Einstieg in die Arbeit in AvM-Dual-Klassen angeboten werden. Ergänzt wird dieses Angebot durch Hospitationen im Bildungsgang AvM-Dual an ausgewählten berufsbildenden Schulen.
 
- Das HIBB gestaltet in Kooperation mit dem Landesinstitut für Lehrerbildung und
+– Das HIBB gestaltet in Kooperation mit dem Landesinstitut für Lehrerbildung und
 
 Schulentwicklung (LI) und gemeinsam mit den Schulen die Implementierung des neuen Bildungsangebots. Die Angebote des LI werden orientiert an der Nachfrage und den inhaltlichen Bedarfen umgesetzt.
 
- An neun berufsbildenden Schulen wurden im Laufe dieses Kalenderjahres schul-
+– An neun berufsbildenden Schulen wurden im Laufe dieses Kalenderjahres schul-
 
 genaue Prozessberatungen zur Implementierung des neuen Bildungsgangs im Umfang von 68 Stunden durchgeführt.
 
@@ -186,7 +187,7 @@ Interkulturalität, rechtliche
 Grundlagen, Englischunterricht  
 für Migranten
 
- Zur Begleitstruktur des Projektes AvM-Dual gehören die intensive Schulung der
+– Zur Begleitstruktur des Projektes AvM-Dual gehören die intensive Schulung der
 
 Lehrkräfte durch Schulbegleiter und Workshops, regelmäßige Fachtage und Netzwerktreffen zum fachlichen Austausch der Schulen, der Aufbau einer Schulsozialarbeit für AvM-Dual und die Erstellung von Lehrmaterialien und Konzepten zur integrierten Sprachförderung. Diese Begleitstruktur erreicht flächendeckend alle Lehrkräfte, die Schulleitungsmitglieder, die Sozialpädagogen und die über die Träger eingestellten BIB. Es werden Teamstrukturen aufgebaut, die ein Coaching der beteiligten Schulen und ihrer Lehrkräfte vor Ort ermöglichen. Anregungen aus Forschung und Wissenschaft wurden unter anderem im Herbst auf einem Kongress für Leitungskräfte, Lehrkräfte, betriebliche Begleiter und Verantwortliche der beteiligten Träger aufgegriffen und vertieft. Ziel ist es, alle berufsbildenden Schulen, unabhängig von ihren Vorerfahrungen mit dualisierten Angeboten in der Ausbildungsvorbereitung oder im Pilotprojekt AvM gleichermaßen zu ertüchtigen und so die Integration neu zugewanderter Jugendlicher durch AvM-Dual zu gewährleisten.
 

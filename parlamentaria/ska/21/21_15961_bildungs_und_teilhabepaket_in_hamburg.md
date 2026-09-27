@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14940"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65453"
@@ -77,7 +78,7 @@ Wie hoch beläuft sich der Anteil von Familien, in denen die Eltern nicht über 
 
 Wie hat sich die Anzahl solcher Familien seit 2010 verändert?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die zur Beantwortung benötigten Daten werden nicht gesondert statistisch erfasst. Eine Einzelfallauswertung von mehr als 30 000 Akten ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

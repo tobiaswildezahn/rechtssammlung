@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 18
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/2460", "21/10281", "21/10870", "21/5000", "21/10141", "21/11472", "21/11748", "20/3788", "21/2741", "21/5073", "21/5851", "21/11713", "21/11155", "21/11985"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61223"
@@ -55,11 +56,11 @@ Der in 2016 herausgegebene 4. Freiwilligensurvey beruht auf den Daten von 2014. 
 
 Über den Länderbericht zum 4. Freiwilligensurvey hinaus liegen keine aktuelleren Untersuchungen zum freiwilligen Engagement von Menschen mit Migrationshintergrund in Hamburg vor. Im Übrigen siehe Drs. 21/10281 sowie folgende Links:
 
- http://www.hamburg.de/contentblob/6931768/7beccbf2fb5e11ec6e12820239e23b9
+– http://www.hamburg.de/contentblob/6931768/7beccbf2fb5e11ec6e12820239e23b9
 
 e/data/freiwilligensurvey-hamburg-2014.pdf,
 
- https://sozialministerium.baden-wuerttemberg.de/fileadmin/redaktion/
+– https://sozialministerium.baden-wuerttemberg.de/fileadmin/redaktion/
 
 m-sm/intern/downloads/Downloads_B%C3%BCrgerengagement/Laenderbericht- Freiwilligensurvey_Tabellenanhang_2016-09-13.pdf.
 
@@ -79,7 +80,7 @@ In welcher Form fördert der Senat über welche Stelle mit finanziellen Mitteln 
 
 Welche speziellen Maßnahmen zur Förderung des ehrenamtlichen Engagements von Migrantinnen und Migranten in Hamburg gibt es? In welcher Form über welche Stelle mit finanziellen Mitteln in jeweils welcher Höhe aus welcher Quelle erfolgen sie?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/5000, Drs. 21/10141, Drs. 21/11472, Drs. 21/11748, Drs. 20/3788, Drs. 21/2741, Drs. 21/5073, Drs. 21/5851 sowie Anlagen 1 und 2.
 
@@ -103,6 +104,6 @@ In Drs. 21/11155 wird erwähnt, dass im Integrationsbeirat weitere Maßnahmen zu
 
 Und wie ist die Beteiligung in den verschiedenen Gremien des Integrationsbeirates? Welche Erkenntnisse sind aus der Bereitschaft zum gemeinsamen Austausch zu ziehen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/11985.

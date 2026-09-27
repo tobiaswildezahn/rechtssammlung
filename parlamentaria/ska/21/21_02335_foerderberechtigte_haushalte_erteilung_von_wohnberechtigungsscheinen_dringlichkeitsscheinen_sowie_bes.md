@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/7479", "20/3295"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50615"
@@ -43,7 +44,7 @@ Für wie viele Haushalte wurden in den Jahren 2012, 2013, 2014 und bislang 2015 
 
 Wie viele Haushalte wurden in den Jahren 2012, 2013, 2014 und bislang 2015 aufgrund eines Wohnberechtigungsscheins mit Wohnraum versorgt? Bitte sowohl gesamte als auch prozentuale Versorgungsquote ausweisen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 2012
 
@@ -185,7 +186,7 @@ Für wie viele Haushalte wurden in den Jahren 2012, 2013, 2014 und bislang 2015 
 
 Wie viele Haushalte wurden in den Jahren 2012, 2013, 2014 und bislang 2015 aufgrund eines Dringlichkeitsscheins mit Wohnraum versorgt? Bitte sowohl gesamte als auch prozentuale Versorgungsquote ausweisen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 2012
 
@@ -314,7 +315,7 @@ Für wie viele Haushalte wurden in den Jahren 2012, 2013, 2014 und bislang 2015 
 
 Wie viele Haushalte wurden in den Jahren 2012, 2013, 2014 und bislang 2015 aufgrund einer Dringlichkeitsbestätigung mit Wohnraum versorgt? Bitte sowohl gesamte als auch prozentuale Versorgungsquote ausweisen.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 2012
 

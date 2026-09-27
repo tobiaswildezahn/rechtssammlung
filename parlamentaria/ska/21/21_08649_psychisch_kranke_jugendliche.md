@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 16
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6289", "21/3174"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57368"
@@ -49,7 +50,7 @@ Wie häufig wurde der 15-Jährige seit seinem Aufgreifen durch die Polizei am 5.
 
 Wo befindet er sich jetzt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bei Informationen zu einer Einweisung in eine psychiatrische Abteilung/ein Krankenhaus handelt es sich um personenbezogene Daten beziehungsweise um Patientendaten. Diese dürfen nur unter den engen gesetzlichen Voraussetzungen des § 30 HmbPsychKG beziehungsweise des § 11 HmbKHG an Dritte übermittelt werden. Danach ist die Übermittlung nur zulässig, wenn die Patientin beziehungsweise der Patient zuvor eingewilligt hat oder dies durch Rechtsvorschrift zugelassen ist oder soweit dies aufgrund eines der in § 30 HmbPsychKG beziehungsweise § 11 HmbKHG benannten Gründe erforderlich ist. Vor diesem Hintergrund ist eine Übermittlung von Informationen zu etwaigen Einweisungen nicht zulässig.
 

@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 29
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55320"
@@ -165,7 +166,7 @@ Aus welchen Gründen hat die BFWG keine höheren Prozentzuwächse als 0 Prozent 
 
 Gibt es innerhalb der BFWG ein Monitoring, welches die Entwicklung der Hamburgischen Professorinnenquote mit der anderer Hochschulen im Bundesgebiet vergleicht? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Die BWFG hat sich bei der Festlegung der Planwerte auch an den Werten vergleichbarer Hochschulen in Deutschland orientiert. Im Übrigen siehe Erläuterungen der im Haushaltsplan-Entwurf 2017/2018 abgebildeten Kennzahlenwerte (Einzelplan 3.2, Aufgabenbereich 247 „Hochschulen“).
 

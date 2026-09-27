@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49299"
@@ -101,7 +102,7 @@ Wie viele VZÄ hatte der HVV zu den abgefragten Zeitpunkten?
 
 Wie war der Krankenstand beim HVV in den Jahren 2011, 2012, 2013, 2014 und 2015?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 1.
 

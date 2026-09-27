@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 22
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5512"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51361"
@@ -155,7 +156,7 @@ Wie hoch war das monatliche Verkehrsaufkommen für den Lkw- und den Pkw-Verkehr,
 
 Wie hoch ist derzeit das monatliche Verkehrsaufkommen für den Lkwund den Pkw-Verkehr, getrennt nach GVZ-Verkehr und CTA-Verkehr? Bitte monatlich seit September 2015 aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Es sind keine Dauermessstellen eingerichtet, die eine monatliche Auswertung in der angefragten Detaillierung ermöglichen.
 
@@ -215,7 +216,7 @@ Liegen dem Senat beziehungsweise der zuständigen Behörde bereits Planungen dar
 
 Liegen dem Senat beziehungsweise der zuständigen Behörde Planungen darüber vor, wie und auf welchem Wege eine südliche Straßenanbindung des GVZ für den Pkw-Verkehr realisierbar wäre? Wenn ja, welche Kosten würden dadurch entstehen?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Nein, derzeit liegen noch keine Planungen vor.
 

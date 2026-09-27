@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 28
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6294", "21/3693"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55884"
@@ -127,7 +128,7 @@ Wie viele Gartenparzellen weisen eine Fläche von weniger als 300 m auf?
 
 Wie viele Gartenparzellen weisen eine Fläche von mehr als 500 m,als 600 m und als 700 m auf?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Drs. 21/6294.
 
@@ -205,7 +206,7 @@ Welche Bedeutung misst der Senat den Kleingärten als Beitrag zur „Grünen Lun
 
 Welche Bedeutung misst der Senat den Kleingärten als Beitrag zur Freizeit- und Naherholung für die Hamburgerinnen und Hamburger bei?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Hamburgs Kleingärten sind Bestandteil des „Grünen Netzes Hamburg“ und sind als solche – wie andere Grünflächen auch – für die Verbesserung der klimatischen und lufthygienischen Bedingungen von großer Bedeutung.
 
@@ -236,7 +237,7 @@ Vertragsgegenstand sind ein Kleingarteninfrastrukturfonds sowie ein Laubenfonds.
 Die Vereinbarung wurde bereits wie vorgesehen evaluiert und Handlungsempfehlungen aufgezeigt (Kleingartenbedarf in Hamburg – Untersuchung 2015; http://www.hamburg.de/contentblob/6492296/ 55ac714ff5e6822028cc94a2a2d27e24/data/ kleingartenbedarfsanalyse.pdf).
 a) Welche Änderungen wird es bei einer Verlängerung des 10.000er Vertrages mit dem LGH geben und aus welchen Gründen?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Siehe Vorbemerkung.
 
@@ -252,17 +253,17 @@ Wie steht der Senat insbesondere zu der Handlungsempfehlung, der zufolge im Fall
 
 Wie steht der Senat insbesondere zu der Handlungsempfehlung, der zufolge bei größeren Wohnungsbauvorhaben verstärkt geprüft werden soll, auch Kleingärten als Teil der Freiraumausstattung herzurichten?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Bei den Handlungsempfehlungen handelt es sich um gutachterliche Vorschläge, die der Umsetzung von vier übergeordneten konzeptionellen Ansätzen dienen:
 
- Entwicklung von Strategien für den Kleingartenersatz,
+– Entwicklung von Strategien für den Kleingartenersatz,
 
- bessere Berücksichtigung von Kleingartenfläche im Stadtplanungsprozess,
+– bessere Berücksichtigung von Kleingartenfläche im Stadtplanungsprozess,
 
- Öffnung der Kleingartenanlagen,
+– Öffnung der Kleingartenanlagen,
 
- bedarfsgerechte Anpassung.
+– bedarfsgerechte Anpassung.
 
 Viele der Empfehlungen werden bereits umgesetzt.
 

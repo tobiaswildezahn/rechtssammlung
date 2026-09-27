@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 25
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58809"
@@ -65,7 +66,7 @@ Steht seine Identität eindeutig fest? Falls nein, welche Maßnahmen wurden jewe
 
 Wann wurden jeweils welche Maßnahmen von welcher Stelle zur Beschaffung der Heimreisedokumente ergriffen und warum waren diese bislang erfolglos?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Betroffene hat im Asylverfahren eine Geburtsurkunde, einen UNRWA-Registerauszug sowie eine Kopie eines palästinensischen Ausweises vorgelegt. Er sprach nach Aufforderung durch die zuständige Ausländerbehörde am 9. und 30. März 2017 bei der palästinensischen Mission in Berlin zur Beantragung von Passersatzpapieren vor. Nach Aussage der palästinensischen Mission werde die Identität nicht angezweifelt. Derzeit laufe die Überprüfung der eingereichten Dokumente auf Echtheit im Heimatland. Dieses Verfahren werde mindestens drei Monate dauern. Die zuständige Ausländerbehörde hat auf diese Verfahrensabläufe keine Einflussmöglichkeit.
 
@@ -94,7 +95,7 @@ Welche polizeilichen Erkenntnisse lagen über ihn vor?
 
 Ist es richtig, dass es Hinweise eines Freundes des Tatverdächtigen zu dessen Radikalisierung gab? Falls ja, wann gingen welche Hinweise bei welchen Stellen zur Radikalisierung des mutmaßlichen Attentäters ein? Was wurde daraufhin von jeweils welcher Stelle wann veranlasst?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Über den in der Antwort zu 6. dargestellten Vorgang hinaus liegen der Polizei drei Hinweise aus dem Jahr 2016 zu radikalen Äußerungen, religiöser Auffälligkeit und verbaler Aggressivität des Tatverdächtigen vor. Die Hinweise gingen in unterschiedlichen Polizeidienststellen ein und wurden an die Staatsschutzabteilung des Landeskriminalamtes (LKA 7) weitergeleitet. Zudem hatte die Polizei Hamburg Kontakt mit der Wohneinrichtung f & w fördern und wohnen AöR im Kiwittsmoor, im Zuge dessen wurde auch über den Beschuldigten gesprochen.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3478", "21/8110"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57051"
@@ -77,6 +78,6 @@ Wie bewertet der Senat rückblickend die Wirksamkeit des Programmes MobiPro-EU?
 
 Wird sich der Senat dafür einsetzen, diese oder eine vergleichbare Initiative fortzuführen? Wenn nein, warum nicht? Wenn ja, in welcher Form und in welchem Umfang?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Da die Freie und Hansestadt Hamburg für das Sonderprogramm MobiPro-EU nicht zuständig ist, liegen dem Senat hierzu keine Erkenntnisse vor. Im Übrigen siehe Vorbemerkung.

@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 22
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54717"
@@ -83,7 +84,7 @@ Ist dem Senat bekannt, dass der Erste Bürgermeister, Olaf Scholz, gegenüber Ve
 
 Was sind Anlass und Grund der geplanten Statusänderung?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 

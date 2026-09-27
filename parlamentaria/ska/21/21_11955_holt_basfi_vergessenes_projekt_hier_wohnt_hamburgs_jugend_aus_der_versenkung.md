@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61202"
@@ -191,7 +192,7 @@ In welcher Form werden die Mitarbeiter in den Jugendämtern, aber auch die Träg
 
 In welcher Form werden Bauträger und Investoren über das Projekt informiert?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Allgemeine Informationen zum Fortgang des Konzeptes „Hier wohnt Hamburgs Jugend“ an Bezirksämter und Träger erfolgen insbesondere in der Landesarbeitsgemeinschaft nach § 78 SGB VIII. Die Information des bezirklichen Jugendamtes erfolgt schriftlich, sobald ein Bezugsdatum feststeht.
 

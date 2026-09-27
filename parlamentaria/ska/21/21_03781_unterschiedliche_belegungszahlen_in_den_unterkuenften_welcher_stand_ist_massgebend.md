@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3073", "21/1838"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52179"
@@ -54,7 +55,7 @@ Wie erklärt sich der Senat beziehungsweise die entsprechende Behörde die Diffe
 
 Wie begründet der Senat die Diskrepanz zwischen der von uns eigens im Stadtportal aufaddierten Zahl von 7.303 untergebrachten Personen im Bezirk Mitte zur eingangs auf der Internetseite erfolgten Angabe von rund 8.000 Menschen (Stadtportal FuHH, Stand 11.03.2016)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

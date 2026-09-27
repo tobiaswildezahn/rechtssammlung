@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8986"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66612"
@@ -61,7 +62,7 @@ Wie ist laut dem Senat oder der zuständigen Behörde eine Integration der Flüc
 
 Wie stellt sich der Senat oder die zuständige Behörde vor dem Hintergrund der AKN-Überlastung und dem stockenden Verkehr auf der Holsteiner Chaussee die verkehrstechnische Anbindung zur Unterkunft am Dänenstein vor?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung. Es besteht eine langjährige und gute Einbindung der Bewohnerschaft in das soziale Umfeld. So nimmt f & w etwa am Runden Tisch des Stadtteils teil und es besteht über die Unterkünfte Holsteiner Chaussee und Pinneberger Straße ein enger Kontakt zum Kinder- und Familienzentrum in Schnelsen, zu Pflegediensten sowie zu weiteren Angeboten im Stadtteil. Die bereits bestehende Unterkunft Holsteiner Chaussee steht in gutem Kontakt mit den Nachbarn, der auch im Rahmen der Kleiderkammer auf dem Gelände offenbar wird. Versorgungsmöglichkeiten befinden sich in unmittelbarer Nähe (zum Beispiel am Roman-Zeller-Platz), ein größeres Nahversorgungszentrum am Eidelstedter Platz ist in 15 Minuten mit dem öffentlichen Personennahverkehr (ÖPNV) zu erreichen. Schulen und Kitas befinden sich ebenfalls im näheren Umfeld. Darüber hinaus entstehen im nördlichen Gebäude 55 Mietwohneinheiten sowie eine weitere Kita.
 

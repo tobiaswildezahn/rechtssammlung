@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53314"
@@ -77,17 +78,17 @@ Aus welchen Gründen wurden nicht allen Anfragern Termine vermittelt?
 
 Nach Auskunft der KVH wurden aus folgenden Gründen nicht allen Anfragern Termine vermittelt:
 
- Kein Überweisungscode (außer Gynäkologie und Augenheilkunde),
+– Kein Überweisungscode (außer Gynäkologie und Augenheilkunde),
 
- Fachgruppe nicht in TSS Service eingestellt (psychologische Psychotherapie,
+– Fachgruppe nicht in TSS Service eingestellt (psychologische Psychotherapie,
 
 hausärztliche Kinderärzte),
 
- Patient besteht auf Termin bei bestimmtem Arzt (genannter Termin wird daher
+– Patient besteht auf Termin bei bestimmtem Arzt (genannter Termin wird daher
 
 nicht gewünscht),
 
- Patient storniert gebuchten Termin, weil er über seinen Arzt oder in Eigenregie
+– Patient storniert gebuchten Termin, weil er über seinen Arzt oder in Eigenregie
 
 selbst bereits einen Termin beim Wunscharzt erhalten hat.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4822"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55501"
@@ -44,7 +45,7 @@ Wie haben sich die Fallzahlen in den Hamburger Krankenhäusern, ausgenommen der 
 Wie haben sich die Fallzahlen in den Hamburger Krankenhäusern in den psychiatrischen Abteilungen zwischen 2015 und 2016 (Stichtag
 31.10.2016) entwickelt? (Bitte aufschlüsseln nach Jahren und einzelnen Krankenhäusern – beim Klinikum Nord bitte getrennt nach Betriebsteil Heidberg und Betriebsteil Ochsenzoll.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/4822. Vergleichbare und geprüfte Zahlen liegen für 2016 noch nicht vor.
 
@@ -94,7 +95,7 @@ Wie hat sich der Case-Mix-Index der Hamburger Krankenhäuser zwischen 2012 und 2
 
 Welchen durchschnittlichen Case-Mix-Index weisen die Hamburger Krankenhäuser im Zeitraum von 2008 bis 2011 und von 2012 bis 2015 auf? (Bitte aufschlüsseln nach Zeitraum 2008 – 2011 und 2012 – 2015, einzelnen Krankenhäusern – beim Klinikum Nord bitte getrennt nach Betriebsteil Heidberg und Betriebsteil Ochsenzoll.)
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Drs. 21/4822.
 

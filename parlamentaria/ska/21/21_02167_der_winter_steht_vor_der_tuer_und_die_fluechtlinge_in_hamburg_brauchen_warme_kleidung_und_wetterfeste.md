@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50470"
@@ -58,7 +59,7 @@ c) der Verteilung beim Thema „Bekleidung für Flüchtlinge“?
 Bitte die Verfahrensschritte beschreiben und die zuständige/n Stelle/n  
 benennen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In den Erstaufnahmeeinrichtungen erfolgt die Bedarfsermittlung dezentral durch die jeweiligen Betreiber. Sofern die Person keine ausreichende Grundausstattung an Bekleidung besitzt, wird die benötigte Kleidung gemäß § 3 Asylbewerberleistungsgesetz (AsylbLG) grundsätzlich als Sachleistung ausgegeben. Dies kann durch eine in der Aufnahmeeinrichtung befindliche oder eine extern gelegene Kleiderkammer erfolgen. Die Einrichtungen haben zudem die Möglichkeit, festgestellte Bedarfe von der zentralen Kleiderkammer in der Messehalle abzufordern. Die Ausgabe erfolgt dann vor Ort in den Unterkünften.
 

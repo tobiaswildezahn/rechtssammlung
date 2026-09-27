@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 27
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12025", "21/14233", "21/13260", "21/6236", "21/7553", "21/11550"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65158"
@@ -38,19 +39,19 @@ Vor diesem Hintergrund fragen wir den Senat:
 
 Das Zentrum für Personaldienste (ZPD) hat in den vergangenen Monaten weitere Maßnahmen eingeleitet, um das Ziel von durchschnittlich zehn Tagen Antragsbearbeitungszeit nachhaltig abzusichern. Dazu zählen unter anderem
 
- Gründung des Geschäftsbereichs Beihilfe mit der Bündelung sämtlicher Prozesse
+– Gründung des Geschäftsbereichs Beihilfe mit der Bündelung sämtlicher Prozesse
 
 der Bearbeitung vom Inputmanagement über die Digitalisierung bis zur Antragsbearbeitung
 
- Frühzeitige Rekrutierung von Sachbearbeiterinnen und Sachbearbeiter, um die
+– Frühzeitige Rekrutierung von Sachbearbeiterinnen und Sachbearbeiter, um die
 
 Fluktuation und den damit korrespondierenden Einarbeitungsaufwand abzufedern
 
- Einführung des Antragsdienstes zur Bearbeitung einfacherer Sachverhalte der
+– Einführung des Antragsdienstes zur Bearbeitung einfacherer Sachverhalte der
 
 Beihilfe
 
- Einführung flexibler Arbeitsmodelle im Rahmen von Telearbeit und mobiler Arbeit
+– Einführung flexibler Arbeitsmodelle im Rahmen von Telearbeit und mobiler Arbeit
 
 Diese Maßnahmen zeigen Erfolg und haben bereits zu einem Rückgang der Bearbeitungsdauer und der Rückstandsmenge geführt.
 
@@ -74,7 +75,7 @@ Wie hoch waren die durchschnittliche und maximale Bearbeitungsdauer von Beihilfe
 
 Wie hoch waren die durchschnittliche und maximale Bearbeitungsdauer von Anträgen mit einer Aufwendungssumme ab 2 500 Euro in den Monaten September, Oktober, November und Dezember 2018? Bitte pro Monat angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage. Die Werte werden einer anonymen Fallstatistik entnommen, die die Zeit vom Antragseingang bis zum Tag der Festsetzung erfasst. Einzelne längere Bearbeitungszeiten entstehen vor allem durch unvollständige Antragsunterlagen und durch Widersprüche.
 

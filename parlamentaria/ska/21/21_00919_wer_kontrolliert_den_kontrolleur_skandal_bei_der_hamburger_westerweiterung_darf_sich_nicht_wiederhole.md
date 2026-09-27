@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 23
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49084"
@@ -43,7 +44,7 @@ Wann und in welchem Rahmen hat der Senat beziehungsweise die zuständige Behörd
 
 Welche Kenntnisse hatten der zuständige Amtsleiter und der zuständige Senator zu welchem Zeitpunkt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Behörde für Stadtentwicklung und Umwelt (BSU) hat auf Behördenleitungs- und Amtsebene im Februar 2015 von entsprechenden Vorhaltungen Kenntnis bekommen.
 

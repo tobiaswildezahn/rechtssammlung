@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 18
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11666"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67349"
@@ -45,7 +46,7 @@ Die Öffentlichkeitsfahndung nach einem Beschuldigten/einer Beschuldigten ist nu
 
 Inwiefern wurde in jedem Einzelfall gegenüber den Gerichten mit Beweisen oder ausführlicher Begründung dargelegt, dass die Feststellung der Identität eines unbekannten Täters/einer Täterin auf andere Weise erheblich weniger Erfolg versprechend oder wesentlich erschwert wäre? Bitte genau darlegen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bei allen Personen, deren Bilder im Rahmen der Öffentlichkeitsfahndung veröffentlicht wurden, erfolgte zuvor eine interne Fahndung im LKA-Blatt. Diese blieb erfolglos, weshalb eine Öffentlichkeitsfahndung zur Identifizierung der Beschuldigten geboten war. Der Umstand der Fahndung im LKA-Blatt ist jeweils aktenkundig.
 
@@ -91,7 +92,7 @@ Wurden Bilder der identifizierten Personen mittlerweile aus den Öffentlichkeits
 
 Wurden Fotos weiterer Personen entfernt? Wenn ja, von wie vielen und aus welchen Gründen jeweils?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Bilder der identifizierten Personen wurden aus den Öffentlichkeitsfahndungen herausgenommen, weil die jeweilige Person sicher identifiziert und das Fahndungsziel somit erreicht wurde. Die Staatsanwaltschaft Hamburg hat die Polizei Hamburg vor der Vollstreckung der Beschlüsse angewiesen, dass Bilder identifizierter Personen umgehend aus der Öffentlichkeitsfahndung zu entfernen sind. Die Einzelfallentscheidung trifft dann die jeweils zuständige kriminalpolizeiliche Sachbearbeiterin beziehungsweise der zuständige kriminalpolizeiliche Sachbearbeiter.
 

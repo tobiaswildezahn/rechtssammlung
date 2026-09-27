@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 22
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/3641", "21/7233", "21/5911"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55985"
@@ -64,7 +65,7 @@ Wie viele Schülerinnen und Schüler mit jeweils welchen sonderpädagogischen F�
 
 Wie viele Schülerinnen und Schüler mit jeweils welchen sonderpädagogischen Förderbedarfen besuchen aktuell in Hamburg Sonderschulen (einschließlich ReBBZ und Haus- und Krankenhausunterricht)? Bitte nach staatlichen und privaten Schulen getrennt nennen. a. In der Primarstufe? b. In der Sekundarstufe I?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Daten für das Schuljahr 2016/2017 liegen noch nicht vor und werden voraussichtlich im 1. Quartal 2017 mit der Schuljahresstatistik veröffentlicht. Daher werden die Daten für das Schuljahr 2015/2016 berichtet, siehe Anlagen 1 und 2. Im Übrigen siehe Vorbemerkung.
 

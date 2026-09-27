@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13229", "20/13110"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49259"
@@ -41,7 +42,7 @@ Wie viele Stellen für Zahnärzte bestanden im Jahre 2014 und im ersten Halbjahr
 
 Wie viele dieser Stellen waren im Jahre 2014 und im ersten Halbjahr 2015 unbesetzt? Bitte nach Bezirken und gegebenenfalls nach Zeitabschnitten aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

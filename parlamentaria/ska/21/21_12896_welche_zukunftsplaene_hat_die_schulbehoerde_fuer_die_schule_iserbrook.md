@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 22
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5317"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62237"
@@ -62,7 +63,7 @@ c) Bis wann sind diese abgeschlossen?
 d) Welche neuen Mieter sollen einziehen?
 e) Ist ein Verkauf der Gebäude geplant und wenn ja, an wen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Gebäude 01 (ehemaliges Verwaltungsgebäude) und 18 (ehemals ReBBZ) wurden zum 15. Juli 2015 von der für Bildung zuständigen Behörde abgemietet, siehe auch Vorbemerkung und Antwort zu 8.
 
@@ -86,7 +87,7 @@ Der ehrenamtliche Verein „Die Holzwürmer“ musste die Räumlichkeiten an der
 
 Durch den Wegfall der „Holzwürmer“ sind die Maschinen und das Werkmaterial für den Werkunterricht eingelagert, weshalb für die Schülerinnen und Schüler kein Werkunterricht mehr stattfinden kann. Wann und an welchem Ort kann der Werkunterricht wieder aufgenommen werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im Rahmen der Sanierung wurden auch die Fachräume überprüft. Räume, die von ihrer Ausstattung her nicht den Anforderungen des Musterflächenprogramms für Grundschulen entsprachen, wurden so umgebaut, dass sie dauerhaft für eine Grundschulnutzung zur Verfügung stehen. Da eine derart spezialisierte Holzwerkstatt mit entsprechendem Maschinenraum nur in der Sekundarstufe angemessen genutzt werden kann, wurde entschieden, diesen Raum umzubauen. Für die Grundschule stehen ausreichend Flächen für kreatives Lernen und Sachunterricht zur Verfügung.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 24
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/13033", "18/13146"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58765"
@@ -83,7 +84,7 @@ Existierte eine ähnliche Sperrliste bereits im Vorfeld des Gipfels im Rahmen de
 
 Aus welchen Gründen ist es zu den nachträglichen Entziehungen der Akkreditierung und der Erstellung der entsprechenden Sperrliste gekommen? a. Wurde nach Kenntnisstand von Senat beziehungsweise zuständigen Dienststellen der FHH durch Geheimdienste Einfluss auf die Erstellung dieser Sperrliste genommen oder in sonstiger Form hierzu beigetragen? Wenn ja, durch welche Dienste? Welche ausländischen Dienste waren hierunter? b. Was wusste der Senat beziehungsweise was wussten zuständige Dienststellen ab jeweils wann über diese Hintergründe?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Hierzu liegen der zuständigen Behörde keine Erkenntnisse vor. Darüber hinaus siehe Vorbemerkung.
 
@@ -117,7 +118,7 @@ Wie hat der Senat bislang aktiv dazu beigetragen, die Geschehnisse um den Akkred
 
 Welche Maßnahmen werden zudem durch den Senat getroffen, um den Hamburger Datenschutzbeauftragen bei dessen Untersuchungen dieser Vorgänge zu unterstützen? Wie ist der aktuelle Stand seiner Untersuchungen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Dem Hamburgischen Beauftragten für Datenschutz und Informationsfreiheit (HmbBf- DI) werden von der zuständigen Stelle auch zu diesen Vorgängen im Rahmen ihrer Möglichkeiten gemäß der gesetzlichen Verpflichtung Auskünfte zu seinen Fragen und Einsicht in von ihm abgeforderte Unterlagen gegeben. Die vom HmbBfDI an das Justitiariat der Polizei herangetragenen Fragen konnten bislang (Stand: 27. Juli 2017) noch nicht beantwortet werden, da eine erstmals am 13. Juli 2017 vom BKA erbetene Zulieferung zur Erläuterung des Sachverhalts noch aussteht. Der HmbBfDI hat der Polizei Hamburg am 26. Juli 2017 für die Beantwortung seiner Fragen eine Frist bis zum 1. August 2017 gesetzt. Im Übrigen siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 16
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4175", "21/2991", "21/3855", "19/8472", "21/3829"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52810"
@@ -126,7 +127,7 @@ Wie viele Lehrbeauftragte unterrichten gegenwärtig (Stand 9.5.2016) in den Vorb
 
 In welchem Beschäftigungsverhältnis befinden sich diese Lehrbeauftragten in ihrer Lehrtätigkeit dabei jeweils? (Bitte nach Anzahl der verbamteten Lehrkräfte, der unbefristet angestellten Lehrkräfte im Schuldienst, der befristet angestellten Lehrkräfte im Schuldienst, der befristet angestellten Lehrbeauftragten, der auf Honorarbasis beschäftigten Lehrbeauftragten aufgeschlüsselt und mit Beginn- und Ende der Befristung entsprechend den vorgegebenen Parametern in einer Tabelle angeben.) a. In welcher genauen Funktion werden die jeweiligen Lehrbeauftragten dabei in diesen Klassen eingesetzt? (Bitte jeweils mit Angaben, ob als Lehrer/-in, Berufsschullehrer/-in, Bildungsbegleiter/-in et cetera, den vorgegebenen Parametern entsprechend in die Tabelle zu 4. integrieren.) b. Welche berufliche Qualifikation bringen die jeweils eingesetzten Lehrbeauftragten dabei mit? (Bitte den vorgegebenen Parametern entsprechend in die Tabelle zu 4. integrieren.) c. Welcher Entgeltgruppe sind die betreffenden Lehrbeauftragten dabei zugeordnet? (Bitte den vorgegebenen Parametern entsprechend in die Tabelle zu 4. integrieren.) d. Welchen Umfang hat Ihr Lehrauftrag dabei jeweils durchschnittlich in WAZ? (Bitte den vorgegebenen Parametern entsprechend in die Tabelle zu 4. integrieren.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 In der Regel verfügen die eingesetzten Lehrbeauftragten mindestens über einen Hochschulabschluss, der fachlich zum Unterrichten in mindestens einem Schulfach qualifiziert. Die Entgeltgruppe der Lehrkräfte richtet sich in einer Bandbreite von Entgeltgruppe 9 bis Entgeltgruppe 13 nach dem Tarifvertrag der Länder TV-L sowie der Entgeltordnung Lehrkräfte. Weitergehende kombinierte Informationen zu den Lehrbeauftragten wie die berufliche Qualifikation sowie die Entgeltgruppen sind nicht verfügbar. Im Übrigen siehe Anlage 3.
 

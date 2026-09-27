@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 19
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9691"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59538"
@@ -91,7 +92,7 @@ Wie viele Kryo-Elektronenmikroskope sind in der Elektronenmikroskopie- Facility 
 
 Wurden diese gekauft oder werden sie gemietet?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Es wurden fünf Mikroskope gekauft, drei werden zurzeit installiert und zwei weitere werden noch dieses Jahr geliefert.
 
@@ -138,7 +139,7 @@ Welche technische Ausrüstung ist darüber hinaus am Standort vorhanden?
 
 Welche dieser Geräte wurden zur Eröffnung der CSSB neu angeschafft beziehungsweise angemietet und wie hoch belaufen sich die dafür anfallenden Anschaffungs- beziehungsweise Mietkosten?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Im CSSB bestehen derzeit neben der Kryo-Elektronenmikroskopie insbesondere vier Forschungsserviceeinrichtungen (Core Facilities) für Licht- und Fluoreszenzmikrosko-
 
@@ -152,7 +153,7 @@ Wie hoch belaufen sich die monatlichen Stromrechnungen des CSSB beziehungsweise 
 
 Wie hoch fällt der Anteil der Elektronenmikroskopie-Facility am monatlichen Gesamtenergieverbrauch der CSSB seit Juli 2017 aus?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Die Mikroskope sind noch nicht in Betrieb. Die voraussichtlichen Stromkosten werden mit etwa 31.000 Euro p.a. angenommen. Dies entspricht etwa 7,5 Prozent des Gesamtenergieverbrauchs des CSSB.
 

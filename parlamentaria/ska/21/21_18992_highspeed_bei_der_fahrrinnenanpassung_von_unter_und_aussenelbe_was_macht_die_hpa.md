@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68678"
@@ -97,7 +98,7 @@ Wann soll mit denen im Zuständigkeitsbereich der HPA liegenden Arbeiten für di
 
 Warum hat es die HPA nicht geschafft gleich „schnell“ wie die Bundesverwaltung, mit den entsprechenden Arbeiten zu beginnen und diese zu beenden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der gemeinsam von der WSV und der HPA entwickelte Bauablauf setzt einen versetzten Beginn der jeweiligen Baggerarbeiten voraus. Im Übrigen siehe Vorbemerkung
 
@@ -111,6 +112,6 @@ b) Wenn nein, warum nicht?
 
 Wie will der Senat/die zuständige Behörde/die HPA den Kunden des Hamburger Hafens die auf Hamburger Seite im Vergleich zur Bundesverwaltung nicht rechtzeitigen Baumaßnahmen für die Begegnungsbox erklären?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Hierzu besteht keine Veranlassung. Im Übrigen siehe Vorbemerkung.

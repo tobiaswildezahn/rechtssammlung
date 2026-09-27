@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 14
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/163"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52438"
@@ -54,7 +55,7 @@ Wie hoch sind die auf das Engagement der HSH Nordbank bei der HETA vorgenommenen
 Inwieweit wird die Entscheidung der österreichischen FMA vom
 10.04.2016 noch in den verschobenen Jahresabschluss 2015 der HSH Nordbank eingehen? Welche konkreten Auswirkungen hat sie auf das Ergebnis der HSH?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/163. Der Jahresabschluss 2015 liegt noch nicht vor. Weitergehende Auskünfte hat die HSH nicht erteilt, da es sich bei den erfragten Einzelheiten um Betriebs- und Geschäftsgeheimnisse im Sinne des § 93 Absatz 1 Satz 3 Aktiengesetz handele.
 

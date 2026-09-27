@@ -14,6 +14,7 @@ fragen: 25
 einzelfragen: 36
 antwortbloecke: 22
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13000", "21/5713", "21/2530", "20/5912"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57086"
@@ -57,7 +58,7 @@ Wie viel Personal ist derzeit in der Gerichtshilfe, Bewährungshilfe und Führun
 
 Wie viel Personal war in den Jahren 2014 bis 2016 in der Gerichtshilfe, in der Bewährungshilfe und in der Führungsaufsicht tätig (bitte Vollzeitäquivalente und Halbtagsstellen darstellen)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Stichtag  
 Bewährungshilfe  
@@ -360,7 +361,7 @@ Wie hoch sind die Rückfallraten nach Delikten in 2016 der jugendlichen ohne Bew
 
 Wie hoch sind die Rückfallraten nach Delikten in 2016 der mit zur Bewährung ausgesetzten Straftaten jugendlichen Straftäter (bitte nach Alter jünger als 18 Jahre und über 18 Jahren und Delikten darstellen)?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Eine auf Hamburg bezogene Rückfallstatistik für das Jahr 2016 wird nicht geführt. Im Übrigen siehe Drs. 21/5713.
 
@@ -468,7 +469,7 @@ Wie viele jugendliche Straftäter wurden in den Jahren 2015 und 2016 zu Haftstra
 
 Wie viele Verurteilungen zu Jugendarrest gab es in den Jahren 2015 und 2016? Bitte nach Arrestart darstellen.
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Mit Ausnahme der Differenzierung der Arten des verhängten Jugendarrestes können die erbetenen Daten aus der Strafverfolgungsstatistik beantwortet werden. Diese einmal jährlich erstellte Statistik liegt für 2016 noch nicht vor. Für 2015 wird auf die Drs. 21/5713 verwiesen. Die erbetene Auflistung der Jugendarrestarten wäre nur nach händischer Auswertung sämtlicher jugendgerichtlicher Strafverfahren (rund 3.500 Verfahren jährlich) möglich. Das ist in der für die Beantwortung Parlamentarischer Anfragen zur Verfügung stehenden Zeit nicht möglich.
 
@@ -573,11 +574,11 @@ Zur Kriminalitätsprävention wurde das Übergangsmanagement geschaffen, welches
 
 Am Übergangsmanagement wirken mit:
 
- Begleitung Übergang in Freiheit (BÜF)
+– Begleitung Übergang in Freiheit (BÜF)
 
- Berufliche Eingliederung Strafgefangener (BEST BW/FB)
+– Berufliche Eingliederung Strafgefangener (BEST BW/FB)
 
- RAN – Resozialisierung, Arbeit und Nachsorge
+– RAN – Resozialisierung, Arbeit und Nachsorge
 
 Eine Erhebung zur Kausalität einzelner Interventionen findet nicht statt. Im Übrigen siehe Antwort zu 11. und Drs. 21/2530.
 

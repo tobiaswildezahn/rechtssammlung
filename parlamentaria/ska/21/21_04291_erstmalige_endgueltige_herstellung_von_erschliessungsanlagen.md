@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 21
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9509", "21/3297"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52706"
@@ -58,7 +59,7 @@ Welche Straßen wurden bis Ende 2015 und welche sollen im laufenden Jahr bis End
 
 Welche Straßen wurden in den letzten fünf Jahren erstmalig endgültig hergestellt und schlussgerechnet? Bitte Straßen nach Bezirken differenziert angeben sowie das Datum der baulichen Fertigstellung der Maßnahmen darstellen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage 2.
 
@@ -102,7 +103,7 @@ In welcher Weise wurden und werden anliegende öffentliche Flächen sowie Natur-
 
 In welchen Bezirken und dort jeweils in welchen Straßen waren beziehungsweise sind anliegende Natur- und Landschaftsschutzflächen von den geplanten Herstellungsmaßnahmen betroffen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Grundsätzlich werden Wald-, Natur- und Landschaftsschutzflächen nicht einbezogen und die Baumaßnahmen auf den Straßenraum beschränkt.
 

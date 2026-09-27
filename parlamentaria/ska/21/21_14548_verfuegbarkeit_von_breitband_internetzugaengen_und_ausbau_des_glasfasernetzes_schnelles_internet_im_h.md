@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63978"
@@ -57,7 +58,7 @@ In welchen Sektoren des Hafengebietes sind die 30 Prozent von Unternehmen und Ge
 
 Welche der unter 2. genannten Gebiete werden nun in welchem Zeitplan ausgebaut?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nach Angaben der Telekom Deutschland GmbH rechnet diese mit der Fertigstellung im ersten Halbjahr 2019 für folgende Gebiete:
 

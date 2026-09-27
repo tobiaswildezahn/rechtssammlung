@@ -12,8 +12,9 @@ vorgang: 50984
 seiten: 9
 fragen: 46
 einzelfragen: 0
-antwortbloecke: 0
-beantwortet: false
+antwortbloecke: 1
+beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/7010", "18/7011"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55508"
@@ -26,8 +27,6 @@ generator: "ska_archiv 1.0"
 
 > Schriftliche Kleine Anfrage der Abgeordneten Dr. Alexander Wolf, Prof. Dr. Jörn Kruse, Dr. Bernd Baumann, Dirk Nockemann, Dr. Joachim Körner, Andrea Oelschlaeger, Detlef Ehlebracht (AfD) vom 01.12.16 und Antwort des Senats · Drucksache vom 09.12.2016  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/55508) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/55508/21_06926_abstimmung_hamburgs_in_der_951_sitzung_des_bundesrates)
->
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 26.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
 
 ## Einleitung für die Fragen
 
@@ -218,7 +217,9 @@ Wahl der Mitglieder des Nationalen Begleitgremiums gemäß § 8 Absatz 3 des Sta
 
 Gesetz zur Beteiligung des Bundes an den Kosten der Integration und zur weiteren Entlastung von Ländern und Kommunen
 
-Antwort zu Fragen 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 21, 22, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 42, 43, 44, 45, 46: Über die wichtigsten Ergebnisse der Bundesratssitzung sind die Fraktionsvorsitzenden und Parlamentarischen Geschäftsführer der in der Bürgerschaft vertretenen Parteien am 25. November 2016, wie üblich direkt im Anschluss an die Sitzung, am Freitagnachmittag informiert worden. Die entsprechende Information ist überdies im Transparenzportal verfügbar.
+#### Antwort zu Fragen 1 bis 13, 15 bis 22, 25 bis 40 und 42 bis 46
+
+Über die wichtigsten Ergebnisse der Bundesratssitzung sind die Fraktionsvorsitzenden und Parlamentarischen Geschäftsführer der in der Bürgerschaft vertretenen Parteien am 25. November 2016, wie üblich direkt im Anschluss an die Sitzung, am Freitagnachmittag informiert worden. Die entsprechende Information ist überdies im Transparenzportal verfügbar.
 
 Die Grunddrucksachen und Empfehlungsdrucksachen (sogenannte Strichdrucksachen), die gestellten Plenaranträge sowie die gefassten Beschlüsse zu den einzelnen Vorlagen sind auf der Internetseite des Bundesrates http://www.bundesrat.de zu jedem einzelnen Tagesordnungspunkt abrufbar. Zusätzlich gibt es eine umfangreiche Pressemitteilung der Landesvertretung mit den zentralen Themen, die im Internet unter http://www.hamburg.de/pressearchiv-fhh/7485320/2016-11-24-bundesrat-951/ zu finden ist.
 

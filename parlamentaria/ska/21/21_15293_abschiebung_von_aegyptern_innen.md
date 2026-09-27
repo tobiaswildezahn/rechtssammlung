@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64892"
@@ -103,11 +104,11 @@ Im Hinblick auf das Persönlichkeitsrecht der Betroffenen und die gesetzlichen W
 
 Nach diesen Maßstäben liegen zu einer Person folgende mitteilungsfähige Verurteilungen vor:
 
- Urteil des Amtsgerichts Göttingen vom 23.10.2017 wegen Erschleichens von Leis-
+– Urteil des Amtsgerichts Göttingen vom 23.10.2017 wegen Erschleichens von Leis-
 
 tungen (§§ 265 a Absatz 1, 265 a Absatz 3, 248 a StGB) zu 20 Tagessätzen, Datum der (letzten) Tat: 9.09.2017
 
- Urteil des Amtsgerichts Hamburg-St. Georg vom 27.03.2018 wegen Urkundenfäl-
+– Urteil des Amtsgerichts Hamburg-St. Georg vom 27.03.2018 wegen Urkundenfäl-
 
 schung (§ 267 Absatz 1 StGB) zu 60 Tagessätzen Geldstrafe; Datum der (letzten) Tat: 19.02.2018
 

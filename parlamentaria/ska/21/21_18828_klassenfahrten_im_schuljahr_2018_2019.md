@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68509"
@@ -51,7 +52,7 @@ Wie viele Klassenfahrten/Klassenreisen wurden im vergangenen Schuljahr (2018/201
 
 Zu welchen Zielorten fanden die Klassenfahrten beziehungsweise Klassenreisen statt und mit welchem Verkehrsmittel wurden die Reisen durchgeführt? Sofern der Behörde für Schule und Berufsbildung hierzu keine Statistik vorliegt, bitte anhand der Abrechnungen von Dienstreisekosten bei Schülerfahrten nach folgenden Kriterien aufschlüsseln: Schule, Zielort, Verkehrsmittel, Schule mit dem Gütesiegel „Klimaschule“ ja/nein.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Anzahl der durchgeführten Klassenreisen wird durch die für Bildung zuständige Behörde nicht zentral erfasst. Eine Schulabfrage war aufgrund des Feiertages am
 31. Oktober 2019 und des Ferientags am 1. November 2019 nicht möglich.

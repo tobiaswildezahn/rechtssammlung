@@ -14,6 +14,7 @@ fragen: 50
 einzelfragen: 85
 antwortbloecke: 43
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5231", "21/4991", "21/5733", "21/5765", "21/6110", "21/5335", "21/5875", "21/5812", "21/4990", "21/5748", "21/6105", "21/5783", "21/5832"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54693"
@@ -73,7 +74,7 @@ Von welchen Stellen wird ein integrationsförderlicher und gerechter Verteilungs
 
 Im Vertrag wird der Begriff der Sozialräume eingeführt. Was ist unter dem Begriff zu verstehen? Welche Sozialräume gibt es in Hamburg und welche Gebiete gehören zu den einzelnen Sozialräumen? Ist das gesamte Gebiet der Freien und Hansestadt Hamburg in Sozialräume aufgeteilt? Wenn nein, welche Gebiete sind nicht in Sozialräume integriert und warum nicht? Wer hat die Einteilung der Stadt in Sozialräume wann und mit welchen Vorgaben vorgenommen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/5765.
 
@@ -101,7 +102,7 @@ Wer entscheidet über die Einsetzung des in der Teilverständigung erwähnten St
 
 Wann soll sich der Stadtteilbeirat spätestens konstituieren und wie soll die in der Teilverständigung zu Punkt 7 festgeschriebene „ausführliche Beteiligung“ umgesetzt werden? Was bedeutet in diesem Zusammenhang konkret „ausführlich“?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Der Stadtteilbeirat wird nach Aufnahme des Gebietes in das Rahmenprogramm Integrierte Stadtteilentwicklung (RISE) gegründet. Der Interimsquartiersbeirat als dessen Vorläufer wird einen Vorschlag zur Zusammensetzung erarbeiten, die Entscheidung über die Zusammensetzung trifft die Bezirksversammlung Bergedorf. Im Übrigen siehe Drs. 21/6110.
 
@@ -314,7 +315,7 @@ Wie und wann wird die im Vertrag festgelegte Erhöhung der Polizeipräsenz in un
 
 Handelt es sich bei der Erhöhung der Polizeipräsenz um eine von anderen Maßnahmen unabhängige Kapazitätserhöhung zulasten anderer Aufgaben? Wenn nein, warum ist das nicht nötig und wo werden die Kapazitäten abgezogen?
 
-#### Antwort zu Fragen 35 bis 36
+#### Antwort zu Fragen 35 und 36
 
 Die polizeiliche Erreichbarkeit und Präsenz vor Ort ist mit der Belegung der entsprechenden Unterkünfte zu gewährleisten. Die erforderlichen Kapazitäten werden im Rahmen aktueller Lageerkenntnisse und unter Berücksichtigung der erforderlichen Prioritätensetzung sowie des Personalbestands der Polizei bereitgestellt. Die zeitgleiche Reduzierung der Polizeipräsenz an anderer Stelle ist nicht vorgesehen.
 
@@ -418,7 +419,7 @@ Gemäß Nummer 9. a. v. der Teilvereinbarungen soll ein Katalog für freiwillige
 
 Wurde(n) das oder die Gutachten für die Erstellung des Konzepts für die freiwilligen Ausgleichsmaßnahmen vom Sondervermögen Naturschutz und Landschaftspflege in der BUE beauftragt? Wenn ja, welche Gutachten zu welchen Inhalten wurden vergeben und wann liegen die Ergebnisse vor? Wenn nein, warum wurden die Gutachten noch nicht beauftragt? Wann werden die Gutachten beauftragt, wann sollen die Ergebnisse vorliegen und welche Finanzmittel werden hierfür bereitgestellt?
 
-#### Antwort zu Fragen 46 bis 47
+#### Antwort zu Fragen 46 und 47
 
 Die Umsetzung ist in Vorbereitung. Das Konzept wird nach Übertragung der erforderlichen Finanzmittel in das Sondervermögen beauftragt werden.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52960"
@@ -55,15 +56,15 @@ die durch Mittelstreifen oder sonstige bauliche Einrichtungen durchgehend – au
 
 #### Antwort zu Fragen 1 bis 4
 
- unabhängig von einer Mindestlänge unmittelbar an eine Bundesautobahn
+– unabhängig von einer Mindestlänge unmittelbar an eine Bundesautobahn
 
 angebunden sind oder
 
- unabhängig von einer Mindestlänge mittelbar über eine andere maut-
+– unabhängig von einer Mindestlänge mittelbar über eine andere maut-
 
 pflichtige Bundesstraße an eine Bundesautobahn angebunden sind oder,
 
- ohne an eine mautpflichtige Strecke angebunden zu sein, eine Mindest-
+– ohne an eine mautpflichtige Strecke angebunden zu sein, eine Mindest-
 
 länge von vier Kilometern aufweisen.
 

@@ -14,6 +14,7 @@ fragen: 29
 einzelfragen: 47
 antwortbloecke: 26
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9700", "21/12297", "21/8891", "21/10281"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66288"
@@ -89,7 +90,7 @@ Welche Partizipationsformate hat der Senat 2017 entwickelt und abgestimmt?
 
 Welche Vertreterinnen und Vertreter der Zivilgesellschaft wurden dabei in welcher Weise einbezogen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 In den Jahren 2017 und 2018 wurden von Vertreterinnen und Vertretern der Behörden und der Zivilgesellschaft das Mobilitätslabor, eine Veranstaltungsreihe zu nachhaltiger Flächennutzung sowie die Einrichtung des Nachhaltigkeitsforums entwickelt und abgestimmt. Der Senat unterstützt die Partizipationsformate durch Zuwendungen.
 
@@ -163,41 +164,41 @@ Das Nachhaltigkeitsforum hat folgende Schwerpunkte identifiziert, mit denen es s
 
 Umwelt und Stadt:
 
-• Klimaschutz und Klimaanpassung
+– Klimaschutz und Klimaanpassung
 
-• Verkehr
+– Verkehr
 
-• Wohnen und Stadtentwicklung
+– Wohnen und Stadtentwicklung
 
 Nachhaltige Wirtschafts- und Finanzpolitik
 
-• Finanzpolitik: Gesetz zur strategischen Neuausrichtung des Haushaltswesens
+– Finanzpolitik: Gesetz zur strategischen Neuausrichtung des Haushaltswesens
 
-• Landwirtschaft
+– Landwirtschaft
 
-• nachhaltigen Konsum fördern
+– nachhaltigen Konsum fördern
 
 Teilhabe und sozialer Zusammenhalt
 
-• Reduzierung der Armutsgefährdung und gesellschaftliche Teilhabe
+– Reduzierung der Armutsgefährdung und gesellschaftliche Teilhabe
 
-• Integration von Geflüchteten sowie Menschen mit Migrationshintergrund
+– Integration von Geflüchteten sowie Menschen mit Migrationshintergrund
 
-• Gute Arbeit
+– Gute Arbeit
 
 Bildung und Wissenschaft
 
-• Aktionsplan Bildung für Nachhaltige Entwicklung (BNE)
+– Aktionsplan Bildung für Nachhaltige Entwicklung (BNE)
 
-• Versorgung mit Bildungsangeboten
+– Versorgung mit Bildungsangeboten
 
 Aus dieser Fülle an möglichen Themen konzentriert sich das Forum, analog zu den Handlungsbereichen aus Drs. 21/9700, zunächst auf folgende Themenbereiche:
 
-• Umwelt und Stadt: hier vor allem Klimaschutz und Klimaanpassung
+– Umwelt und Stadt: hier vor allem Klimaschutz und Klimaanpassung
 
-• Teilhabe und sozialer Zusammenhalt: hier vor allem Reduzierung der Armutsgefährdung , gesellschaftliche Teilhabe und Gute Arbeit sowie
+– Teilhabe und sozialer Zusammenhalt: hier vor allem Reduzierung der Armutsgefährdung , gesellschaftliche Teilhabe und Gute Arbeit sowie
 
-• Bildung und Wissenschaft
+– Bildung und Wissenschaft
 
 Vorstellungen des Nachhaltigkeitsforums gegenüber dem Senat, auf die die Kommunikationsregel „Comply or explain“ angewandt wurde gab es nicht.
 
@@ -289,17 +290,17 @@ Welche „eigenen Beiträge“ hat der Senat hinsichtlich der „von der Agenda 
 
 Durch den Senat wurden neben der Unterstützung des Nachhaltigkeitsforums folgende Maßnahmen entwickelt:
 
- Mobilitätslabor, siehe dazu Antworten zu 5. und 6. sowie 13.
+– Mobilitätslabor, siehe dazu Antworten zu 5. und 6. sowie 13.
 
- Nachhaltigkeits-Check, siehe dazu Antworten zu 9. e. und f. sowie 27. bis 28. a.
+– Nachhaltigkeits-Check, siehe dazu Antworten zu 9. e. und f. sowie 27. bis 28. a.
 
- Kampagne „KEHR.WIEDER.“, siehe dazu Antwort zu 10.
+– Kampagne „KEHR.WIEDER.“, siehe dazu Antwort zu 10.
 
- Nachhaltige Veranstaltungen:
+– Nachhaltige Veranstaltungen:
 
 Die Stabsstelle Nachhaltigkeit hat im April 2019 ein Projekt gestartet, um eine hamburgweit gültige Handreichung mit Leitfaden sowie leicht anwendbaren Checklisten zur Durchführung von nachhaltigen Veranstaltungen im öffentlichen Raum erarbeiten. Die Entwicklung erfolgt in einem strukturierten partizipativen Prozess gemeinsam mit Behörden und Bezirksämtern sowie allen weiteren Stakeholdern (Veranstalter, Anbieter et cetera). Die SDGs sind dabei der Referenzrahmen. Veranstaltungen sind ein geeigneter Rahmen, um konkrete Aspekte einer nachhaltigen Lebensweise umzusetzen und den Bürgern/-innen ohne Zeigefinger zu kommunizieren. Ziel ist es auch, die bereits gemachten positiven Erfahrungen (zum Beispiel altonale goes green, Futur2- Festival, Dom) in die Breite zu bringen.
 
- Bildung für nachhaltige Entwicklung:
+– Bildung für nachhaltige Entwicklung:
 
 Im Rahmen der Initiative „Hamburg lernt Nachhaltigkeit“ wurde der Entwurf des „Hamburger Masterplans BNE 2030“ entwickelt. In den Arbeitsgruppen wirken mehr als 100 Menschen aus Hamburg mit. Der Großteil der Beteiligten setzt sich aus Mitgliedern der Zivilgesellschaft – zum Beispiel Umwelt- und Sozialverbände sowie Einzelpersonen – zusammen. Das Ziel der Strategie ist die Implementierung von Nachhaltigkeitsthemen flächendeckend in alle Bildungsbereiche (frühkindliche Bildung, Schule, berufliche Bildung, Hochschule und außerschulische Bildung).
 
@@ -388,7 +389,7 @@ Wurden für das Monitoringsystem Ziele und Indikatoren zur Messung der Zielerrei
 
 Wurde die Zivilgesellschaft – insbesondere der Zukunftsrat Hamburg mit seiner Expertise zu den „Hamburger Entwicklungs-Indikatoren Zukunftsfähigkeit – HEINZ“ – an ihrer Entwicklung beteiligt? a. Wenn ja: in welcher Form? b. Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 20 bis 21
+#### Antwort zu Fragen 20 und 21
 
 Die behördenübergreifende Arbeitsgruppe SDGs hat einen Entwurf des Monitoringsystems mit Zielen und Indikatoren entwickelt und dem Nachhaltigkeitsforum, dem der Zukunftsrat unter anderem angehört (siehe dazu Antwort zu 9. a.) übermittelt. Als nächste Schritte sind der Diskurs mit dem Nachhaltigkeitsforum darüber sowie die daraus resultierende Weiterentwicklung vorgesehen.
 
@@ -451,7 +452,7 @@ Wurde eine „Checkliste Nachhaltigkeit“ entwickelt und abgestimmt? a. Wenn ja
 
 Wurde/wird die Zivilgesellschaft – gegebenenfalls in welcher Form – an der Entwicklung und Abstimmung der Checkliste beteiligt? a. Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 27 bis 28
+#### Antwort zu Fragen 27 und 28
 
 Der Arbeitskreis SDGs hat einen Entwurf für die Checkliste Nachhaltigkeit entwickelt und dem Nachhaltigkeitsforum übermittelt. Als nächste Schritte sind der Diskurs mit dem Nachhaltigkeitsforum darüber sowie die daraus resultierende Weiterentwicklung vorgesehen.
 

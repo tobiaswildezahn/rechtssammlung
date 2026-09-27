@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 21
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/73"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55823"
@@ -51,7 +52,7 @@ Wann und aus welchen Gründen wurden seit dem Abschluss der Bauarbeiten jeweils 
 
 Warum konnte die letzte Anpassung am 14. September 2016 nicht vorher durchgeführt werden und welche Anpassungen wurden im Detail vorgenommen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Noch im Zusammenhang mit dem Abschluss der Bauarbeiten, als der aufgeweitete Radfahreraufstellbereich (ARAS) Ende Oktober des Jahres 2015 hergestellt wurde, war die LSA-Schaltung Mühlenkamp/Poelchaukamp erstmals anzupassen.
 
@@ -73,7 +74,7 @@ Gemäß dem vom Senat vorgelegten Evaluationsbericht sind die Verlustzeiten alle
 
 Auf Basis welcher Formulierung in der Vereinbarung Drs. 21/73 wurde die Betrachtung der Verlustzeiten auf die Zeit von 7 Uhr bis 20 Uhr und auf die Wochentage Montag bis Freitag deutlich beschränkt? Wer hat wann in Abstimmung mit wem entschieden, dass entgegen der klaren Formulierung in der Vereinbarung Drs. 21/73 nicht die durchschnittlichen Verlustzeiten aller Busfahrten als Basis für den Bericht herangezogen wurden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 
@@ -150,7 +151,7 @@ Wie stellen sich die mit der Übersicht auf Seite 15 des Berichts vergleichbaren
 
 Wie lauten die vergleichbaren Werte, wenn man für die betreffenden Kalenderwochen alle Fahrten als Basis nimmt?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Vorbemerkung.
 

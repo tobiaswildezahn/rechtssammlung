@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63163"
@@ -59,7 +60,7 @@ Wie viele Restaurants und Gastronomiebetriebe dürfen inzwischen ein Hygienesieg
 
 Wie viele Mitarbeiterkantinen der Freien und Hansestadt dürfen inzwischen ein Hygienesiegel führen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Verliehene Hamburger Hygienesiegel (Stand: 12. Juli 2018)  
 Speisegaststätten und Restaurants  

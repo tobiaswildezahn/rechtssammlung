@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8533"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64011"
@@ -71,7 +72,7 @@ b. als Zielverkehr,
 c. als Quellverkehr,  
 d. als Binnenverkehr?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Hierzu liegen dem Senat keine Informationen vor.
 

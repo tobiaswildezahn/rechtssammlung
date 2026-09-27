@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4030", "21/7486", "21/8487", "21/8557", "21/7422"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57486"
@@ -133,7 +134,7 @@ b) Und wieso plant der ZKF für Ende 2017 mit so vielen benötigten Plätzen in 
 
 In der Drs. 21/8487 ist für das Jahr 2016 die Kennzahl B_253_03_007 „Anzahl der Plätze zur öffentlichen Unterbringung bei fördern & wohnen“ beim Ist mit 26.903 Plätzen angegeben. Laut der Drs. 21/8557 und der Monatsbilanz März 2017 des ZKF liegt der Ist-Wert für den März 2017 aber nur bei 26.104 Plätzen. Warum liegt die Ist-Kennzahl 2016 der oben genannten Drs. 21/8487 über dem aktuellen Ist-Wert 2017, der zudem über den Ist-Werten der Vormonate laut Flüchtlingsmonitoring liegt (Januar 2017: 24.409, Februar 2017: 25.209)?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Bedarf an örU-Plätzen ergibt sich aus der Notwendigkeit, Flüchtlinge nach Ablauf von maximal sechs Monaten Aufenthaltszeit in einer Erstaufnahmeeinrichtung in einer Folgeunterbringung unterzubringen. Darüber hinaus besteht selbstverständlich das Ziel, die Personen aus den Folgeunterbringungen in normalen Wohnraum zu vermit-
 

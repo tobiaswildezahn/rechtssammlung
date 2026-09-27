@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49971"
@@ -43,7 +44,7 @@ Mit welchen Sicherheitskosten rechnet der Senat für die Olympischen Spiele? Bit
 
 Sofern anteilige Kosten anfallen: Welchen Anteil hat die Freie und Hansestadt Hamburg daran und welchen der Bund?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Erhebungen bezüglich der Kosten zu den Olympischen und Paralympischen Spielen 2024 sind noch nicht abgeschlossen, über diese wird der Senat noch gesondert berichten.
 
@@ -63,7 +64,7 @@ Unter anderem wurde in London das Militär zur Luft- und Seeraumüberwachung ein
 
 Wird sich der Senat dafür einsetzen, die Bundeswehr für die Gewährleistung der Sicherheit in Anspruch zu nehmen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im Aufgabenbereich Luftsicherheit/Luftraumüberwachung erfolgt erforderlichenfalls die Zusammenarbeit zwischen den Polizeien und der Bundeswehr im Rahmen bereits heute bestehender vertraglicher Regelungen.
 

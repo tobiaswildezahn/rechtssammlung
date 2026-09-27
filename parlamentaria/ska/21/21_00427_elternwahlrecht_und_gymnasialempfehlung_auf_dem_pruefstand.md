@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 17
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/225"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48572"
@@ -99,7 +100,7 @@ Wie viele Schüler mit Gymnasialempfehlung konnten beim Übergang in die Jahrgan
 
 Soweit ein Schüler ohne Gymnasialempfehlung, dessen Wohnort nahe am betroffenen Gymnasium liegt, einem distanzierter wohnhaften vorzuziehen ist, dem jedoch eine Gymnasialempfehlung ausgesprochen wurde: Wie begründet die zuständige Behörde diese Bevorzugung? Wie rechtfertigt die zuständige Behörde, dass hierdurch Schülern mit Gymnasialempfehlung der Besuch des von ihnen favorisierten Gymnasiums verwehrt bleibt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/225 sowie Antwort zu 4.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13492"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65710"
@@ -59,7 +60,7 @@ Wie viele Anträge an das Versorgungsamt wurden jeweils in den Jahren 2016, 2017
 
 Wie viele Anträge auf Feststellung des Grades einer Schwerbehinderung wurden jeweils in den Jahren 2016, 2017 und 2018 gestellt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Erst- und Neufeststellungsanträge gingen beim Versorgungsamt wie folgt ein:
 
@@ -100,7 +101,7 @@ Was waren jeweils die längsten Bearbeitungszeiten von Anträgen in den Jahren 2
 
 Wie viele Antragssteller verstarben jeweils in den Jahren 2016, 2017 und 2018, während sie noch auf eine Antwort des Versorgungsamts warteten?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 In 2016 sind 498, in 2017 540 und in 2018 523 Antragstellerinnen und Antragssteller verstorben, während noch ein Feststellungsverfahren lief, das Durchschnittsalter liegt bei 72,3 Jahren. Das Durchschnittsalter aller Antragstellerinnen und Antragssteller liegt derzeit bei circa 60 Jahren (in 2018 waren es 59,6 Jahre).
 

@@ -10,12 +10,13 @@ urheber: ["Norbert Hackbusch"]
 fraktionen: ["Die Linke"]
 vorgang: 47000
 seiten: 1
-fragen: 0
-einzelfragen: 0
-antwortbloecke: 0
+fragen: 1
+einzelfragen: 1
+antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51452"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/51452/21_03110_genmanipuliertes_futter"
 abgerufen: "2026-09-27"
@@ -27,15 +28,19 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Norbert Hackbusch (DIE LINKE) vom 02.02.16 und Antwort des Senats · Drucksache vom 09.02.2016  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/51452) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/51452/21_03110_genmanipuliertes_futter)
 
-## Volltext
-
-Genmanipuliertes Futter
+## Einleitung für die Fragen
 
 Über den Hamburger Hafen wird genmanipuliertes Futter umgeschlagen. Der Umschlag dieser Ware ist nicht unbedenklich.
 
 Daher frage ich den Senat:
 
+## Fragen und Antworten
+
+### Frage 1
+
 Wie wird dafür Sorge getragen, dass beim Umschlag von genmanipuliertem Futter im Hamburger Hafen und auf den Wegen vom Hafen zum Bestimmungsort kein Saatgut verstreut wird und sich aussät?
+
+#### Antwort zu Frage 1
 
 Über den Hamburger Hafen werden gentechnisch veränderte Produkte mit lebenden GVO (gentechnisch veränderter Organismus) angeliefert und umgeschlagen. In der Regel hat die GVO-Ware Lebensmittelstatus und wird weiterverarbeitet. Im Verarbeitungsprozess fällt unter anderem als Nebenprodukt Extraktionsschrot (Futtermittel) an. Die verarbeiteten Produkte sind inaktiviert und damit nicht mehr vermehrungsfähig.
 

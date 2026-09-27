@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/249"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49117"
@@ -45,7 +46,7 @@ War die im April 2014 gegründete Soko erfolgreich? Wenn ja, warum wurde sie auf
 
 Aus wie vielen Mitarbeitern bestand die damalige Soko?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine „Sonderkommission“ im Sinne der Fragestellung hatte die Polizei Hamburg im Jahr 2014 nicht eingerichtet.
 
@@ -67,7 +68,7 @@ Aus welchen Organisationseinheiten werden die Mitarbeiter abgezogen?
 
 Wie viele Überstunden sind in den Organisationseinheiten aufgelaufen, aus denen die Mitarbeiter der aktuellen Soko abgezogen werden sollen? Bitte diesbezüglich die kleinsten Organisationseinheiten zugrunde legen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Mitarbeiter rekrutieren sich zu einem erheblichen Teil aus Organisationsbereichen, die auch in der Alltagsorganisation unter anderem für die Bekämpfung des Einbruchs zuständig sind. Zu den Herkunftsdienststellen im Landeskriminalamt (LKA) und in der Direktion Polizeikommissariate und Verkehr (DPV) sowie den für diese Dienststellen zum Stichtag 30. Juni 2015 vermerkten Überstunden siehe die folgenden Tabellen:
 

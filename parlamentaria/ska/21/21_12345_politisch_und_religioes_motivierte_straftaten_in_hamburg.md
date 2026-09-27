@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/4795", "21/3165", "21/6214"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61634"
@@ -48,11 +49,20 @@ Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
 ### Frage 1
 
 Wie viele politisch motivierte Straftaten von Linksextremisten hat das Landeskriminalamt von 2015 bis 2017 registriert, die sich gegen
-1.1. Leib und Leben,
-1.2. Sachgüter Privater,
-1.3. Einrichtungen der Freien und Hansestadt Hamburg und des Bundes richteten?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Leib und Leben,
+
+### Frage 1.2
+
+Sachgüter Privater,
+
+### Frage 1.3
+
+Einrichtungen der Freien und Hansestadt Hamburg und des Bundes richteten?
+
+#### Antwort zu Fragen 1, 1.1, 1.2 und 1.3
 
 PMK - Links „extremistisch“  
 2016  
@@ -67,11 +77,20 @@ Im Übrigen siehe Vorbemerkung.
 ### Frage 2
 
 Wie viele politisch motivierte Straftaten von Rechtsextremisten hat das Landeskriminalamt von 2015 bis 2017 registriert, die sich gegen
-2.1. Leib und Leben,
-2.2. Sachgüter Privater,
-2.3. Einrichtungen der Freien und Hansestadt Hamburg und des Bundes richteten?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Leib und Leben,
+
+### Frage 2.2
+
+Sachgüter Privater,
+
+### Frage 2.3
+
+Einrichtungen der Freien und Hansestadt Hamburg und des Bundes richteten?
+
+#### Antwort zu Fragen 2, 2.1, 2.2 und 2.3
 
 PMK - Rechts „extremistisch“  
 2016  
@@ -85,11 +104,20 @@ Im Übrigen siehe Vorbemerkung.
 ### Frage 3
 
 Wie viele politisch motivierte Straftaten von ausländischen Extremisten hat das Landeskriminalamt von 2015 bis 2017 registriert, die sich gegen
-3.1. Leib und Leben,
-3.2. Sachgüter Privater,
-3.3. Einrichtungen der Freien und Hansestadt Hamburg und des Bundes richteten?
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+Leib und Leben,
+
+### Frage 3.2
+
+Sachgüter Privater,
+
+### Frage 3.3
+
+Einrichtungen der Freien und Hansestadt Hamburg und des Bundes richteten?
+
+#### Antwort zu Fragen 3, 3.1, 3.2 und 3.3
 
 Die nachfolgende Tabelle weist die politisch motivierten Straftaten des Phänomens „ausländische Ideologien“ aus.
 
@@ -105,11 +133,20 @@ Im Übrigen siehe Vorbemerkung.
 ### Frage 4
 
 Wie viele religiös motivierte Straftaten hat das Landeskriminalamt von 2015 bis 2017 registriert, die sich gegen
-4.1. Leib und Leben,
-4.2. Sachgüter Privater,
-4.3. Einrichtungen der Freien und Hansestadt Hamburg und des Bundes richteten?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+Leib und Leben,
+
+### Frage 4.2
+
+Sachgüter Privater,
+
+### Frage 4.3
+
+Einrichtungen der Freien und Hansestadt Hamburg und des Bundes richteten?
+
+#### Antwort zu Fragen 4, 4.1, 4.2 und 4.3
 
 PMK - religiöse Ideologie „extremistisch“  
 2016  

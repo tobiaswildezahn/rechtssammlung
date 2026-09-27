@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 11
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4782"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53996"
@@ -33,17 +34,17 @@ Bereits 2014 richtete das Land Nordrhein-Westfalen einen „Beirat Digitale Wirt
 
 ## Einleitung für die Antworten des Senats
 
- in Fragen der Digitalen Wirtschaft beraten,
+– in Fragen der Digitalen Wirtschaft beraten,
 
- die Herausforderungen und Chancen des digitalen Wandels für die nord-
+– die Herausforderungen und Chancen des digitalen Wandels für die nord-
 
 rhein-westfälische Wirtschaft diskutieren,
 
- helfen, die Schnittstellen zwischen Industrie, KMU, Start-ups, Finanzwelt
+– helfen, die Schnittstellen zwischen Industrie, KMU, Start-ups, Finanzwelt
 
 und den Universitäten in NRW zu verbessern und die Förderinstrumente weiterzuentwickeln sowie
 
- das Ministerium dabei unterstützen, die Umsetzung strategischer Maß-
+– das Ministerium dabei unterstützen, die Umsetzung strategischer Maß-
 
 nahmen und Initiativen zu begleiten.
 
@@ -63,7 +64,7 @@ Wie beurteilt der Senat die Tätigkeit des Beirats „Digitale Wirtschaft NRW“
 
 Sieht der Senat in Bezug auf die Arbeit der unter 1. genannten Einrichtungen inhaltliche Anknüpfungspunkte für Hamburg? Wenn ja, welche? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat sieht in ständiger Praxis grundsätzlich von einer Bewertung der Einrichtung und der Arbeit bestimmter Gremien beim Bund oder in anderen Ländern ab. Der Ansatz eines Dialogs unter den vom Thema Digitalisierung Betroffenen und daran Beteiligten ist jedoch ganz allgemein positiv zu bewerten und wird auch für Hamburg befürwortet.
 

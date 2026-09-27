@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56704"
@@ -95,6 +96,6 @@ Sind dem Senat beziehungsweise den zuständigen Behörden Verbindungen der Schul
 
 Sind außerdem Verbindungen zu anderen religiösen beziehungsweise nicht staatlichen Einrichtungen bekannt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Nein.

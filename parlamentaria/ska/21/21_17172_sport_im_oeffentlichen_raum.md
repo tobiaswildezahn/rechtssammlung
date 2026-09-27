@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16849", "21/6800"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66742"
@@ -246,11 +247,11 @@ Mitte
 
 Im Wilhelmsburger Inselpark wurde das Sportangebot seit 2014 kontinuierlich erweitert, z.B. Ergänzung Loop, Kanurundkurs, Beachsportanlage oder Disc Golf. Das Angebot wird hinsichtlich des weiteren Ausbaus laufend überprüft, da Sport und Bewegung Schwerpunkte des Parks sind. Weiterhin sind ein Ausbau am Rothenburgsorter Marktplatz (Rothenburgsort) und im Gorch-Fock Park (Finkenwerder) vorgesehen. Altona In Vorbereitung befinden sich folgende Erweiterungen/Ausbauten:
 
-  
+–  
 Sportpark Lurup für 2019/2020,  
-  
+–  
 Böverstpark für 2019 sowie  
-  
+–  
 Altonaer Volkspark: in Vorbereitung für 2020  
 Eimsbüttel  
 Aus sportfachlicher Sicht ist eine Erweiterung der im öffentlichen  
@@ -261,8 +262,8 @@ Nord
 
 Die Planungen zu angedachten Standorten sind noch nicht soweit konzipiert, dass sie umgesetzt werden können. Wandsbek Bei zukünftigen Grundinstandsetzungen von Spielplätzen und Parkanlagen ist die Aufstellung weiterer Outdoor-Fitnessgeräte und die Realisierung zusätzlicher Ballspielangebote vorgesehen. Aktuell werden auf dem eingeweihten Spielplatz im Wiesengrund in Oldenfelde ein Fitnessgerät, ein Mini-Bolzplatz und eine Tischtennisplatte neu errichtet. Bergedorf Zusätzliche Parksportangebote sind im Zusammenhang mit der Schaffung von Freianlagen im neuen Stadtteil Oberbillwerder vorgesehen. Harburg Vorgesehen sind:
 
- Sportband im Schwarzenbergpark, 2020/2021, Baustein eines
+– Sportband im Schwarzenbergpark, 2020/2021, Baustein eines
 
-neuen Parkkonzeptes  Grünanlage Vogelkamp, Bau von 5 Bewegungsinseln 2019,
+neuen Parkkonzeptes – Grünanlage Vogelkamp, Bau von 5 Bewegungsinseln 2019,
 
 Bedarf durch Neubaugebiet

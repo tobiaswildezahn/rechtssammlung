@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4116"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52915"
@@ -51,7 +52,7 @@ Welche weiteren Vergütungen von Vorständen und Geschäftsführern stehen für 
 
 Wie hoch war die Vergütung der in Nummer 2. genannten Personen jeweils? Bitte in fixe und variable Bestandteile unterteilen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage.
 

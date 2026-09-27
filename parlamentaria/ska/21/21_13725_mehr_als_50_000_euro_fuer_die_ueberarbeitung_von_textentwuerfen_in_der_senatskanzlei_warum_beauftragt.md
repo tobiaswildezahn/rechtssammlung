@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13587", "21/13592"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63104"
@@ -89,6 +90,6 @@ Warum genau wurde im Zuge der Bekanntmachung dieses Auftrages der 13.06.2018 als
 
 Warum genau wurde im Zuge der Bekanntmachung dieses Auftrages der Zeitraum der Leistungserbringung nicht wie in der Beschaffungsordnung vorgesehen angegeben?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Irrtümlich wurde statt des Datums des Vertragsschlusses und des Zeitraums der Leistungserbringung das Datum der Veröffentlichung angegeben.

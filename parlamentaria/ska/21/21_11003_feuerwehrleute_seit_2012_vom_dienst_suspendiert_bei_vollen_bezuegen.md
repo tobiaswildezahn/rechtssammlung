@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59933"
@@ -64,7 +65,7 @@ Wann hat die Staatsanwaltschaft in diesem Fall Anklage gegen die vier Feuerwehrl
 
 Wie konnte es passieren, dass es so lange gedauert hat, einen Termin für die Verhandlung zu finden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Es handelt sich bei dem gegen vier Beschuldigte geführten Verfahren um keine Haftsache, wenngleich um ein sehr aufwändiges Verfahren. Nach Anklageerhebung durch die Staatsanwaltschaft Hamburg am 20. Januar 2014 wurde im Zwischenverfahren ein weiteres medizinisches Sachverständigengutachten zu den Folgen eingeholt, zudem war eine Vielzahl von Anträgen der Verteidigung zu beraten und mit Eröffnung des Hauptverfahrens und Zulassung der Anklage mit Beschluss der Großen Strafkammer
 

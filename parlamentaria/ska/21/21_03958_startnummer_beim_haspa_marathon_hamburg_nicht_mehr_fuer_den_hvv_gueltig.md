@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 17
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52338"
@@ -85,7 +86,7 @@ Der Veranstalter übernimmt auch dieses Jahr keinerlei Haftung für den Verlust 
 
 Glaubt der Senat hinsichtlich dieses Umstandes, dass der damit verbundene Imageverlust und das Zeichen, welches dadurch auch für den Umweltschutz gesetzt wird zu vernachlässigen sind?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Hiermit hat sich der Senat nicht befasst.
 

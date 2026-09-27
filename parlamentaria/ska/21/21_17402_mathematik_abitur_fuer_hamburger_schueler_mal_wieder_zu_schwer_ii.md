@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17249"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66983"
@@ -93,7 +94,7 @@ Laut Drs. 21/17249 hat Hamburg seit Einrichtung des Pools alle Aufgaben aus dies
 
 Wie verliefen konkret die Entscheidungswege, keine individuellen, sondern nur Poolaufgaben zu nutzen, ohne diese länderspezifisch anzupassen? Hat dies die dreiköpfige Mathematik-Auswahlkommission allein entschieden? Wenn nein, wer hat schlussendlich die Entscheidung getroffen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Hamburg setzt sich für eine Angleichung der bundesweiten Abiturbedingungen und damit für eine höhere Vergleichbarkeit des Abiturs ein. Deshalb übernimmt Hamburg die Abituraufgaben aus dem IQB-Pool lückenlos.
 

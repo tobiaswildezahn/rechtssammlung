@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2818"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51345"
@@ -61,7 +62,7 @@ Welche Maßnahmen wurden von der Polizei konkret eingeleitet? Dauern diese Maßn
 
 Wie wurde ein etwaiger Zusammenhang zur Flüchtlingsunterkunft in der Dratelnstraße überprüft und was hat diese Prüfung ergeben?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Fragestellung betrifft ermittlungstaktische Maßnahmen der Polizei, zu denen aus grundsätzlichen Erwägungen keine Angaben gemacht werden, um den Ermittlungserfolg nicht zu gefährden.
 

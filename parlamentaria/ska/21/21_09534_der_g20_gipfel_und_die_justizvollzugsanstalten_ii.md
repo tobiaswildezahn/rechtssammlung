@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9059"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58307"
@@ -186,7 +187,7 @@ Wann wurden beziehungsweise werden wie viele und welche Insassen (Strafgefangene
 
 Konnten noch in weiteren Bundesländern Haftplätze für eine vorübergehende Unterbringung Hamburger Strafgefangener generiert werden? Falls ja, wie viele in welchen Justizvollzugsanstalten für jeweils welchen Zeitraum und wann erfolgt die Unterbringung wie vieler und welcher hamburgischer Insassen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Es wurden insgesamt 65 Gefangene in Justizvollzugseinrichtungen anderer Bundesländer überstellt. Mit den Bundesländern ist vereinbart, dass die Haftplätze bis längstens 21. Juli 2017 zur Verfügung gestellt werden.
 

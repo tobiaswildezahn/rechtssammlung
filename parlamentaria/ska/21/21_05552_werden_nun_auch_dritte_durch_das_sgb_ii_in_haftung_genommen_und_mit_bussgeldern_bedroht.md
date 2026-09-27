@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 21
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54049"
@@ -103,7 +104,7 @@ Wurde der „Hamburgischen Beauftragten für Datenschutz und Informationsfreihei
 
 Wurde die „Bundesbeauftragte für den Datenschutz und die Informationsfreiheit“ (BfDI) in die Planung der neunten Gesetzänderung SGB II im Vorfeld um sozialdatenschutzrechtlichen Rat durch den Senat, in Vertretung für Jobcenter t.a.h., angefragt? Wenn ja, welche Aussagen hat diese im Vorfeld zu den Gesetzänderungen gegeben? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Für die gemeinsamen Einrichtungen gilt das Informationsfreiheitsgesetz des Bundes. Zuständig ist der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI). Der Senat hat sich damit nicht befasst.
 

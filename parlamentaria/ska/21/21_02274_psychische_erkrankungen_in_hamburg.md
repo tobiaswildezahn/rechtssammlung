@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50535"
@@ -126,7 +127,7 @@ Wie viele Vertragssitze zur Behandlung gesetzlich versicherter Patienten gibt es
 
 Wie viele Psychotherapeuten sind in Hamburg zur Versorgung gesetzlich versicherter Patienten zugelassen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 In Hamburg sind 976,5 ärztliche und psychologische Psychotherapeuten/-innen (einschließlich Kinder- und Jugendlichenpsychotherapeuten/-innen) zugelassen oder angestellt tätig (KVH Bedarfsplan, Stand 01.01.15).
 

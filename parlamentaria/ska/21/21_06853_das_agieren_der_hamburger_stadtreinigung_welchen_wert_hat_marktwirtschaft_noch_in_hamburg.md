@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6818"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55397"
@@ -47,7 +48,7 @@ Welche Dienstleistungen werden seitens der Stadtreinigung angeboten?
 
 Erbringt die Stadtreinigung als Anstalt des öffentlichen Rechts naturgemäß Dienstleistungen im Verantwortungsbereich der öffentlichen Daseinsvorsorge oder werden auch Dienstleistungen erbracht, die von privaten Marktteilnehmern geleistet werden könnten? Wenn ja, welche sind diese und warum werden sie seitens der Stadtreinigung angeboten und erbracht und nicht dem Wettbewerb überlassen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die SRH erbringt Leistungen gemäß § 2 des Gesetzes über die Stadtreinigung (SRG) in Hamburg. Hierzu zählen neben Dienstleistungen im Verantwortungsbereich der öffentlichen Daseinsvorsorge auch gewerbliche Aufgaben, die in § 2 (4) SRG geregelt sind. Es ist unter wirtschaftlichen Gesichtspunkten und zur Entlastung des Gebührenzahlers sinnvoll, auch Dritten Leistungen (beispielsweise freie Verwertungskapazitäten) anzubieten.
 
@@ -55,21 +56,21 @@ Zu den gewerblichen Leistungen zählen Aufgaben, die unmittelbar dem abfallwirts
 
 Es handelt sich im Einzelnen um:
 
-• Betrieb von fünf Kantinen auf Betriebsplätzen der SRH zur Versorgung der eigenen Mitarbeiter; diese Kantinen sind auch für Dritte geöffnet,
+– Betrieb von fünf Kantinen auf Betriebsplätzen der SRH zur Versorgung der eigenen Mitarbeiter; diese Kantinen sind auch für Dritte geöffnet,
 
-• Kfz-Dienstleistungen wie Kfz-Werkstatt, Tankstellen und Fahrzeugvermietung; diese Leistungen werden überwiegend für Unternehmen des Konzerns erbracht,
+– Kfz-Dienstleistungen wie Kfz-Werkstatt, Tankstellen und Fahrzeugvermietung; diese Leistungen werden überwiegend für Unternehmen des Konzerns erbracht,
 
-• Reinigungsleistungen wie Depotcontainerstandplatzreinigung, sonstige gewerbliche Reinigungs- und Winterdienstleistungen,
+– Reinigungsleistungen wie Depotcontainerstandplatzreinigung, sonstige gewerbliche Reinigungs- und Winterdienstleistungen,
 
-• Duales System Deutschland (DSD)- und Recyclingstoffe; unter anderem Mitbenutzung der Papiersammlung durch die dualen Systeme,
+– Duales System Deutschland (DSD)- und Recyclingstoffe; unter anderem Mitbenutzung der Papiersammlung durch die dualen Systeme,
 
-• Abfallsammlung und Transporte; unter anderem Sperrmüll-Sprintservice für die Wohnungswirtschaft,
+– Abfallsammlung und Transporte; unter anderem Sperrmüll-Sprintservice für die Wohnungswirtschaft,
 
-• Sonstige Dienstleistungen; unter anderem Vermietung und Verpachtung von Grundstücken und Gebäuden auch im Konzern, zentrale Dienstleistungen für Konzernunternehmen wie Buchhaltung und Personalabrechnung,
+– Sonstige Dienstleistungen; unter anderem Vermietung und Verpachtung von Grundstücken und Gebäuden auch im Konzern, zentrale Dienstleistungen für Konzernunternehmen wie Buchhaltung und Personalabrechnung,
 
-• Abfallbehandlung; Verbrennung von Abfällen für andere öffentlich-rechtliche Entsorgungsträger sowie von Gewerbeabfällen,
+– Abfallbehandlung; Verbrennung von Abfällen für andere öffentlich-rechtliche Entsorgungsträger sowie von Gewerbeabfällen,
 
-• Energieerzeugung; Energieerzeugung aus Photovoltaik, Windkraft und Deponiegas überwiegend zur sinnvollen Nachnutzung geschlossener Deponien.
+– Energieerzeugung; Energieerzeugung aus Photovoltaik, Windkraft und Deponiegas überwiegend zur sinnvollen Nachnutzung geschlossener Deponien.
 
 ### Frage 3
 

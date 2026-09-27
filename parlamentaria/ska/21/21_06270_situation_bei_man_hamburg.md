@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54786"
@@ -49,7 +50,7 @@ Hat der Senat von den Planungen der MAN Deutschland Kenntnis erhalten? Und wenn 
 
 Welche Maßnahmen hat der Hamburger Senat eingeleitet, um diesen Abbau zu verhindern?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat wurde von MAN informiert. Derzeit hat MAN die Verhandlungen mit dem Betriebsrat über die Pläne des Vorstands noch nicht abgeschlossen. Es gibt keine abschließenden Beschlüsse. Die zuständige Behörde ist begleitend mit MAN im Gespräch. Im Übrigen siehe Vorbemerkung.
 
@@ -69,7 +70,7 @@ Welche Grundstücke im Hamburger Hafen werden von der MAN genutzt?
 
 Wie sind die Eigentumsverhältnisse beziehungsweise Pachtverträge bezüglich dieser Grundstücke?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 MAN ist kein Mieter der HPA im Hafen. Mögliche bestehende Untervermietungen unterliegen dem Betriebs- und Geschäftsgeheimnis der jeweiligen Vertragspartner.
 

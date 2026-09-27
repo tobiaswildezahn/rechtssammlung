@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5440", "21/5531"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56001"
@@ -67,7 +68,7 @@ Welche weiteren Schreiben hat es betreffend diese Professuren außer demjenigen 
 
 Wer hat wann wie auf die in Frage 5. abgefragten Schreiben geantwortet?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die UHH hat außer den genannten Schreiben die im Folgenden aufgeführten Schreiben erhalten, die sich mit dem steuerrechtlichen Schwerpunkts des Lehrstuhls befassen.
 

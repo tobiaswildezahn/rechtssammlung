@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 18
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10728", "21/15031", "21/15140", "20/6208"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65237"
@@ -63,11 +64,11 @@ b) Wie wurden die Bedarfe für die vorgesehenen Änderungen des Verkehrsraums er
 
 Gemäß aktueller Erhebungen an den Knoten Jungfernstieg/Ballindamm und Ballindamm/Alstertor vom 5. Oktober 2017 liegt die Kfz-Verkehrsbelastung
 
- im Querschnitt Ballindamm südwestlich der Einmündung Alstertor bei 13 500
+– im Querschnitt Ballindamm südwestlich der Einmündung Alstertor bei 13 500
 
 Kfz/24h mit 3,3 Prozent Schwerlastverkehr (davon 5 600 mit 2,6 Prozent Schwerlastanteil stadteinwärts und 7 900 mit 3,8 Prozent Schwerlastanteil stadtauswärts) und
 
- nordöstlich der Einmündung Alstertor bei 13 850 Kfz/24h mit 2,7 Prozent Schwer-
+– nordöstlich der Einmündung Alstertor bei 13 850 Kfz/24h mit 2,7 Prozent Schwer-
 
 lastverkehr (davon 5 850 mit 2,2 Prozent Schwerlastanteil stadteinwärts und 8 000 mit 3,0 Prozent Schwerlastanteil stadtauswärts).
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52945"
@@ -65,7 +66,7 @@ Wie häufig werden in der Straße Schönsberg Geschwindigkeitsmessungen durch di
 
 Wann wurde zuletzt eine Geschwindigkeitsmessung in der Straße Schönsberg vorgenommen, auf welcher Höhe wurde die Messung genau durchgeführt, wie viele Geschwindigkeitsübertretungen sind dabei festgestellt worden und welche Strafen wurden dabei jeweils verhängt? Bitte den genauen Messzeitraum angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Polizei hat aufgrund der Bitte eines Anwohners im Zeitraum vom 21. September 2015, 11 Uhr bis zum 23. September 2015, 11 Uhr in der Straße Schönsberg in Höhe der Hausnummer 21 eine präventive Langzeitmessung mit einem Temposys-Gerät und Display durchgeführt, das die jeweils gefahrene Geschwindigkeit anzeigt. Die Messung diente der Ermittlung des allgemeinen Geschwindigkeitsniveaus in der Tempo-30-Zone und nicht der Verfolgung von Geschwindigkeitsüberschreitungen. Bei der Auswertung von Temposys-Messungen wird grundsätzlich der V85-Prozent-Wert betrachtet. Dieser Wert bildet die Geschwindigkeit ab, die von 85 Prozent der gemessenen Fahrzeuge nicht überschritten wird. Der V85-Prozent-Wert lag bei der Langzeitmessung bei 33 km/h.
 
@@ -101,7 +102,7 @@ Was haben die zuständigen Behörden seit 2011 für die Verkehrssicherheit in de
 
 Welche konkreten baulichen Maßnahmen haben die zuständigen Behörden seit 2011 veranlasst?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Aufgrund des mäßigen Geschwindigkeitsniveaus, der unauffälligen Unfalllage und insofern insgesamt entspannten Verkehrssituation bestand bisher kein konkreter Anlass, verkehrliche Maßnahmen zu treffen. Das zuständige Bezirksamt hat seit 2011 regelmäßig punktuelle Unterhaltungsarbeiten zur Aufrechterhaltung der Verkehrssicherheit in der Straße Schönsberg durchgeführt.
 

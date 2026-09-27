@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 21
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4174"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53754"
@@ -41,31 +42,31 @@ Bei einem Besuch verschiedener Vertreter/-innen von Behörden, Politik und LGBTI
 
 ## Einleitung für die Antworten des Senats
 
- beengten Gängen im Wohntrakt
+– beengten Gängen im Wohntrakt
 
- nur einem Speisesaal
+– nur einem Speisesaal
 
- nach oben offenen Räumen
+– nach oben offenen Räumen
 
- nicht abschließbaren Duschen, keinen Kabinen, sondern Vorhängen (es
+– nicht abschließbaren Duschen, keinen Kabinen, sondern Vorhängen (es
 
 wird von verbaler und sexueller Belästigung berichtet)
 
- einem Kompartiment innerhalb der Unterkunft mit (ungeouteten, geoute-
+– einem Kompartiment innerhalb der Unterkunft mit (ungeouteten, geoute-
 
 ten und nur teilweise geouteten) LGBTI zu belegen, würde kurz bis mittelfristig ein Zwangsouting bedeuten
 
- keinem Diskretionsabstand beim Info-Point der Sozialarbeiter/-innen
+– keinem Diskretionsabstand beim Info-Point der Sozialarbeiter/-innen
 
- keinen schlüssigen Sicherheits- und Gewaltschutzkonzepten, die die
+– keinen schlüssigen Sicherheits- und Gewaltschutzkonzepten, die die
 
 spezifischen Lebensumstände von LGBTI berücksichtigen
 
- keinem Konzept im Umgang mit erneuter Unterdrückung, die ja oftmals
+– keinem Konzept im Umgang mit erneuter Unterdrückung, die ja oftmals
 
 nicht offensiv geäußert wird
 
- keinem Raumkonzept, dass nicht zu einem Zwangsouting führt
+– keinem Raumkonzept, dass nicht zu einem Zwangsouting führt
 
 Von LGBTI-Institutionen wird zu Recht kritisiert, dass es nicht sein darf, dass „LGBTI Personen als Toleranz-Übungsobjekte für Nicht-Tolerante Menschen instrumentalisiert werden.“
 
@@ -103,7 +104,7 @@ Bisher wird eine separate, geschützte Unterkunft abgelehnt. Dafür werden, wie 
 
 Auf welcher Grundlage wurden diese fachlichen Gründe festgestellt (empirische Erhebungen, Literatur, weitere Quellen)? Bitte Grundlage genau benennen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Separate Unterkünfte für Frauen – also auch für lesbische, bisexuelle Frauen und Trans*-Frauen – existieren (siehe Drs. 21/4174). Darüber hinaus sind die zuständigen Behörden im Gespräch mit den LSBTI*-Einrichtungen, den Betreibern der Unterkünfte und anderen Einrichtungen. Die Überlegungen hierzu sind noch nicht abgeschlossen.
 
@@ -125,7 +126,7 @@ Ist in dem Schutzkonzept der ZEA ein Schutz vor Mobbing und psychischer Gewalt m
 
 Ist der Schutz vor körperlicher Gewalt in dem Schutzkonzept so angelegt, dass körperliche Gewalt gegen LGBTI-Geflüchtete verhindert wird oder erst nach erfahrener Gewalt ein Schutz angeboten wird? Wenn Letzteres: Wird dies als ausreichender Schutz gewertet?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 
@@ -173,6 +174,6 @@ Sind dem Senat Übergriffe auf LGBTI-Unterkünfte für Geflüchtete in Berlin be
 
 Sind dem Senat Fälle von Dolmetschern/-innen bekannt, die im Auftrag des BAMF arbeiten oder über Länder und Kommunen in den Aufnahmeeinrichtungen beschäftigt werden, die es aufgrund ihrer Vorurteile und Ressentiments unterließen innerhalb eines Interviews oder Gesprächs Angaben einer beziehungsweise eines Asylsuchenden zu seiner/ihrer Homosexualität korrekt zu übersetzen?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Dem Senat liegen hierzu keine Erkenntnisse vor.

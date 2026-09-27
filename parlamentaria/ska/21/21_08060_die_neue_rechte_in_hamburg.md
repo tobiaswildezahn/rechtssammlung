@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/7615", "19/406", "20/198"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56721"
@@ -63,6 +64,6 @@ Es gab 2012/2013 schon eine Hamburger Identitäre Bewegung mit personellen Konta
 
 In Bremen wurde die IB schon 2013 durch das dortige LfV überwacht (http://www.taz.de/!501391/). Warum nicht in Hamburg?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Bis zum Sommer 2016 gab es in Hamburg keine eigenständigen lokalen Strukturen der „Identitären Bewegung“. Hamburger Aktivisten arbeiteten in anderen norddeutschen Strukturen mit, beispielsweise Niedersachsen. Im Übrigen siehe Internetbeitrag des LfV Hamburg vom 16. August 2016 (http://www.hamburg.de/innenbehoerde/ 6717702/verfassungsschutz-identitaere/).

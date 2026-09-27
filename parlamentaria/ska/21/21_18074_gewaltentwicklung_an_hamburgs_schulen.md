@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 17
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5677", "21/10344", "21/15456", "21/14537", "21/4794", "21/425"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67690"
@@ -269,7 +270,7 @@ Wie viele Meldungen und Einträge wurden seitens der Schulen im Schuljahr 2018/2
 
 Wie hat sich die Zahl der Meldungen und Einträge im ZSR in den vergangenen Jahren bis zum Ende des Schuljahres 2018/2019 absolut und prozentual entwickelt?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Eine Beantwortung ist nicht möglich: Die Einträge zu einem Schüler beziehungsweise einer Schülerin müssen laufend verändert werden können. Nicht archiviert wird die Aktivierung und Deaktivierung des Merkmales „Schulpflichtverletzung“. Es kann daher nicht ausgewertet werden, bei wie vielen Schülerinnen und Schülern in einem bestimmten Zeitraum an mindestens einem Tag dieses Merkmal vorgelegen hat.
 
@@ -291,17 +292,17 @@ Beim Landeskriminalamt Hamburg stehen den Hamburger Schulen die Angebote der Kri
 
 Um Vandalismus „von außen“ zu verringern, wurden in den letzten Jahren unter anderem Sicherungsmaßnahmen durch SBH ergriffen, um abzuschrecken und „Gelegenheitstätern“ den Zugang zu erschweren. Dazu gehören unter anderem an einzelnen Standorten:
 
-• Einschränkung der Zugänglichkeit von Schulgeländen und -gebäuden beispielsweise durch Zäune/Tore, elektronische Schließsysteme, Alarmierungsanlagen,
+– Einschränkung der Zugänglichkeit von Schulgeländen und -gebäuden beispielsweise durch Zäune/Tore, elektronische Schließsysteme, Alarmierungsanlagen,
 
-• Ausstattung von Gebäuden mit Präsenzmeldern im EG und an der Außenfassade zur schnelleren Erkennung von Fremdpersonen auf dem Schulgelände außerhalb der Schulzeiten,
+– Ausstattung von Gebäuden mit Präsenzmeldern im EG und an der Außenfassade zur schnelleren Erkennung von Fremdpersonen auf dem Schulgelände außerhalb der Schulzeiten,
 
-• Anhebung des Beleuchtungsniveaus im Außenbereich,
+– Anhebung des Beleuchtungsniveaus im Außenbereich,
 
-• Klassenweise Zuordnung von Sanitärräumen durch Anpassung der Schließanlage,
+– Klassenweise Zuordnung von Sanitärräumen durch Anpassung der Schließanlage,
 
-• Beauftragung einer Bewachung nach wiederholter Sachbeschädigung,
+– Beauftragung einer Bewachung nach wiederholter Sachbeschädigung,
 
-• Beschichtung von Außenwänden mit einer abwaschbaren Oberfläche zur besseren Beseitigung von Graffiti.
+– Beschichtung von Außenwänden mit einer abwaschbaren Oberfläche zur besseren Beseitigung von Graffiti.
 
 Siehe auch Drs. 21/14537, 21/4794 sowie 21/425.
 

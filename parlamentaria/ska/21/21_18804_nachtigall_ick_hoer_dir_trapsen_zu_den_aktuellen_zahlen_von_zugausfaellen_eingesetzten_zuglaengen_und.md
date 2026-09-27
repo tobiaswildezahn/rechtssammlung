@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68481"
@@ -336,7 +337,7 @@ Aus jeweils welchen konkreten Gründen wurde im Einzelfall entsprechend Ziffer 2
 
 Inwiefern und aus jeweils welchen konkreten Gründen wurde im Einzelfall entsprechend Ziffer 3. trotz Bestellung jeweils nicht bestellungsgemäß geleistet? Bitte detailliert erläutern.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Eine Einzelaufstellung für Fahrtausfälle und deren Gründe liegen der zuständigen Behörde vertragsgemäß nicht vor. Die in Frage 2. aufgelisteten, trotz Bestellung nicht erbrachten Leistungen umfassen Ausfallkilometer, etwa durch Störungen im Betrieb. Hierzu zählen insbesondere Polizei- und Rettungswageneinsätze, technische Störungen, Witterungseinflüsse sowie personalbedingte Ausfälle. Auch enthalten sind geplante Ausfälle aufgrund langfristig geplanter Baumaßnahmen beziehungsweise deren verkehrlichen Einschränkungen.
 

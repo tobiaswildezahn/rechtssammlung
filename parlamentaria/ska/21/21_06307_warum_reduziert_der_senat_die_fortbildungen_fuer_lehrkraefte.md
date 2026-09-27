@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13000", "21/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54845"
@@ -52,7 +53,7 @@ Aus welchen Gründen ist die Anzahl der Fortbildungen für pädagogisches Person
 
 Wie erklärt der Senat die Reduzierung der Fortbildungen in Anbetracht der Zunahme von Lehrkräften?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Entfällt, siehe Vorbemerkung.
 
@@ -64,7 +65,7 @@ Welche Kosten in welchen Produktgruppen des Einzelplans 3.1 sind in den Jahren 2
 
 Wie viel Geld kostet demnach durchschnittlich eine Fortbildung im Sinne der oben genannten Kennzahl?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Kosten im Bereich der Kennzahl B_239_02_002 „Anzahl der Teilnahmebuchungen von pädagogischem Personal an berufsbegleitenden Fortbildungsveranstaltungen und an Veranstaltungen zur Weiterbildung“ sind im Gesamtbereich berufsbegleitender Fortbildung, schulinterner Fortbildung und Schulentwicklungsberatung zusammengefasst und werden nicht gesondert erhoben.
 

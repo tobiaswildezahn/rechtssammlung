@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7049", "20/12843", "20/8962"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49237"
@@ -43,7 +44,7 @@ Wie viele Hamburger ohne deutsche Staatsangehörigkeit, die mindestens 16 Jahre 
 
 Wie hoch war jeweils die Anzahl der Beratungsgespräche, der beantragten und erfolgten Einbürgerungen sowie das sogenannte ausgeschöpfte Einbürgerungspotenzial (= das Verhältnis von erfolgten Einbürgerungen zur Zahl jener Ausländerinnen und Ausländer, die seit mindestens zehn Jahren in Hamburg leben und damit alle Voraussetzungen erfüllen) der zehn größten Ausländergruppen in Hamburg jährlich seit 2011?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Sinne des Begriffs „ausgeschöpftes Einbürgerungspotenzial“ legt das Statistische Bundesamt einen mindestens zehnjährigen Inlandsaufenthalt als Voraussetzung einer Einbürgerung zugrunde. Die Zahlen der Personen, die diese Voraussetzung erfüllen, sind in der folgenden Tabelle aufgeführt.
 

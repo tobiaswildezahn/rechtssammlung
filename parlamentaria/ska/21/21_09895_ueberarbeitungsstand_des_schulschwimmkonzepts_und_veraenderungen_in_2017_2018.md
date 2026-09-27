@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 53
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5088", "21/8421", "20/8276", "21/9222", "21/7254"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58714"
@@ -57,7 +58,7 @@ Welche Akteure/-innen gehörten/gehören dieser Arbeitsgruppe neben der zuständ
 
 Seit wann genau ist/war diese Arbeitsgruppe zur Beurteilung der Erfolge und zur möglichen Optimierung des Schulschwimmkonzepts tätig und wie häufig kommt/kam sie dafür pro Jahr zusammen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe  
 Vorbemerkung  

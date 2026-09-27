@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 20
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/371"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49260"
@@ -47,7 +48,7 @@ Wie haben sich die Nutzerzahlen der SPL-WEB-Anwendung von SPL App für Android s
 
 Wie hat sich der prozentuale Anteil der Speditionen, die von der IT- Lösung smartPORT logistics Gebrauch machen, seit Drs 21/371 entwickelt? Welche Planzahlen gibt es für die Entwicklung? (Bitte monatsweise angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Zahlen haben sich seit April nicht geändert, siehe Drs. 21/371.
 

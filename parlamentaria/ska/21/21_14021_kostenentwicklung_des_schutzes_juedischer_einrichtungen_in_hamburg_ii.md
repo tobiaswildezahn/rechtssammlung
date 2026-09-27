@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13618", "21/9096", "21/14020", "21/13537"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63420"
@@ -169,9 +170,7 @@ Antisemitische Straftaten
 gesamt  
 davon PMK-links-  
 -  
-davon PMK-rechts-  
-davon PMK-sonstige/nicht zuzuordnen-  
-davon PMAK  
+davon PMK-rechtsdavon PMK-sonstige/nicht zuzuordnendavon PMAK  
 entfällt  
 davon PMK-ausländische Ideologieentfällt  
 -  

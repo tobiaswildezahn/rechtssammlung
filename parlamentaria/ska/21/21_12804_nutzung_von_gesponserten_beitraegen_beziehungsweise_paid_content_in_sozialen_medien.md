@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 15
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12186"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62114"
@@ -258,17 +259,17 @@ Welche Content-Management-Systeme (CMS) werden durch den Senat, die Dienststelle
 
 Es werden für Social Media keine Content Management-Systeme eingesetzt. Häufig werden die jeweils den Kanälen eigenen Tools der Plattformen (beispielsweise Facebook-Business-Manager) direkt genutzt. Darüber hinaus kommen folgende Social- Media-Tools zum Einsatz:
 
- Facelift
+– Facelift
 
- Hootsuite
+– Hootsuite
 
- OnlyPult
+– OnlyPult
 
- Social Hub
+– Social Hub
 
- Sprout Social
+– Sprout Social
 
- Tweet Deck
+– Tweet Deck
 
 ### Frage 3
 
@@ -380,25 +381,25 @@ Unter welchen Voraussetzungen entscheiden sich der Senat, die Dienststellen sowi
 
 Siehe Vorbemerkung. Das Schalten von Werbung zur Erhöhung der Reichweite richtet sich unter anderem nach folgenden Kriterien:
 
- Relevanz der Beiträge beziehungsweise Kampagnen
+– Relevanz der Beiträge beziehungsweise Kampagnen
 
- Relevanz des beworbenen Produkts
+– Relevanz des beworbenen Produkts
 
- Zielgruppengenaue Ansprache beispielsweise zur Beseitigung des Fachkräfte-
+– Zielgruppengenaue Ansprache beispielsweise zur Beseitigung des Fachkräfte-
 
 mangels
 
- Gewinnung von Arbeitskräften
+– Gewinnung von Arbeitskräften
 
- Interesse der Bürgerinnen und Bürger
+– Interesse der Bürgerinnen und Bürger
 
- Vertriebssteigernde Maßnahmen für Produktionsbereiche
+– Vertriebssteigernde Maßnahmen für Produktionsbereiche
 
- Unterstützung von Marketing und Vertriebsaktivitäten
+– Unterstützung von Marketing und Vertriebsaktivitäten
 
- Steigerung der Besucherzahlen
+– Steigerung der Besucherzahlen
 
- Erhöhung der Reichweite von Inhalten
+– Erhöhung der Reichweite von Inhalten
 
 ### Frage 10
 
@@ -795,9 +796,9 @@ xiii. Hochschule für bildende Künste
 
 Die HFBK gibt für den abgefragten Zeitraum folgende Summen an:
 
- Facebook: 429,94 Euro
+– Facebook: 429,94 Euro
 
- e-flux.com: 1.950,99 Euro
+– e-flux.com: 1.950,99 Euro
 
 xiv. HOCHBAHN
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15495", "21/15551"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65052"
@@ -51,7 +52,7 @@ Wie hoch ist die Auslastungsquote der Unterkunft seit ihrer Eröffnung bis heute
 
 Wie viele Frauen und Kinder lebten in den Jahren 2017 und 2018 in dieser Unterkunft?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Monat (jeweils zum 1.)
 

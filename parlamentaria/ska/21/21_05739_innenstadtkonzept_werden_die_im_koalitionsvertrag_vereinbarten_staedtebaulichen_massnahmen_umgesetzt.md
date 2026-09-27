@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54231"
@@ -101,7 +102,7 @@ Auf welche Höhe belaufen sich die Kosten für die Realisierung der städtebauli
 
 In welchem Aufgabenbereich und welcher Produktgruppe welches Einzelplans sind die Kosten der geplanten städtebaulichen Maßnahmen im zu beschließenden Haushaltsplan 2017/2018 in jeweils welcher Höhe veranschlagt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die möglichen städtebaulichen Maßnahmen sowie entsprechende Kosten sind noch nicht ermittelt und die Kostenträgerschaft ist noch unbestimmt.
 
@@ -113,7 +114,7 @@ Welche darüber hinausgehenden Kompensationsmaßnahmen plant der Senat, um die A
 
 In welchem Aufgabenbereich und in welcher Produktgruppe welches Einzelplans sind diese Kosten der geplanten städtebaulichen Maßnahmen im zu beschließenden Haushaltsplan 2017/2018 in jeweils welcher Höhe veranschlagt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Das Überseequartier wird Teil der Hamburger Innenstadt. Gegenwärtig wird gutachterlich untersucht, wie die Verbindung der HafenCity mit der historischen Innenstadt gestärkt werden kann.
 

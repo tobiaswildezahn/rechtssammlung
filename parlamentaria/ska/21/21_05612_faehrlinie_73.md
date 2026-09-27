@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54103"
@@ -75,7 +76,7 @@ Warum wird die Fährlinie 73 an Wochenenden und Feiertags nicht betrieben?
 
 Gibt es Pläne, seitens des Senats, den Fährbetrieb auch auf Wochenenden und Feiertage auszuweiten? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Auswertung der Fahrgastzahlen in 2015 hat ergeben, dass die Fahrten der Linie 73 außerhalb der Hauptverkehrszeiten (6 – 9 Uhr und 16 – 18 Uhr) von circa 250 Fahrgästen je Werktag und Richtung an der Haltstelle Ernst-August-Schleuse genutzt werden. Es ist davon auszugehen, dass bei einer Ausweitung des Fährbetriebes der Linie 73 auf die Wochenenden mit einer ähnlichen Größenordnung zu rechnen wäre. Gemessen an dem Potenzial von circa acht Fahrgästen je Fahrt an der Ernst-August-
 

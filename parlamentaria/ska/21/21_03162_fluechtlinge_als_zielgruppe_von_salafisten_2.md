@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2965", "21/1987", "21/2469", "21/2483", "21/2578"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51499"
@@ -53,7 +54,7 @@ Wie schätzt der Senat die Gefahr ein, dass sich junge männliche Flüchtlinge m
 
 Warum beantwortet der Senat Anfragen zu wichtigen politischen Themen der Gegenwart, ohne die wesentlichen Erkenntnisse des aktuellen Forschungsstandes zu berücksichtigen, die dafür notwendig sind?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die zuständigen Fachbehörden berücksichtigen für ihre Arbeit aktuelle Studien, die sich unter anderem mit der Frage der Gründe für individuelle Radikalisierungsprozesse beschäftigen. Im Übrigen siehe Drs. 21/2965 sowie unter anderem Drs. 21/1987, Drs. 21/2469, Drs. 21/2483 und Drs. 21/2578.
 

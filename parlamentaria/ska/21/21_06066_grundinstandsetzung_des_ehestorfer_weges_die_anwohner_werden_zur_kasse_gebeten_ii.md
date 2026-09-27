@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5206", "20/8373"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54576"
@@ -53,7 +54,7 @@ Wann wurden jeweils die übrigen Teilabschnitte auf dem Ehestorfer Weg endgülti
 
 Welche Kosten wurden den Anwohnern dabei jeweils in Rechnung gestellt und welche Maßnahmen erfolgten jeweils in den Teilabschnitten?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage.
 
@@ -144,7 +145,7 @@ Die Hauptkosten der voraussichtlichen Erschließungsbeiträge in Höhe von 1,1 M
 
 Das Baugesetzbuch sieht in § 135 Absatz 5 folgende Möglichkeit vor: (5) Im Einzelfall kann die Gemeinde auch von der Erhebung des Erschließungsbeitrags ganz oder teilweise absehen, wenn dies im öffentlichen Interesse oder zur Vermeidung unbilliger Härten geboten ist. Die Freistellung kann auch für den Fall vorgesehen werden, dass die Beitragspflicht noch nicht entstanden ist. Was spricht aus Sicht des Senats dagegen, im Falle des Ehestorfer Weges von dieser Möglichkeit Gebrauch zu machen?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Der vorliegende Sachverhalt stellt im Vergleich zu anderen Hauptverkehrsstraßen keinen besonders gelagerten Einzelfall dar, der eine Freistellung von den Erschließungsbeiträgen rechtfertigen würde.
 

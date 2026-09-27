@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56997"
@@ -81,7 +82,7 @@ In welcher der Museumsstiftungen wird die Erhöhung der Eintrittspreise mit eine
 
 Mit welcher Preiselastizität rechnet der Senat, und welche Auswirkungen hat nach Einschätzung des Senats eine Erhöhung der Eintrittspreise auf die Besucherzahlen sowie das Publikumsverhalten?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Alle Erlöse der Hamburger Museen dienen zur Deckung des gesamten Aufwandes. Insofern besteht für die Hamburger Museen, ebenso wie für jede andere Einrichtung mit einem bestehenden Budget, generell die Anforderung, sowohl ihre Aufwendungen als auch ihre Erträge in einer Weise zu bewirtschaften und in Deckung zu bringen, dass ausgeglichene Jahresergebnisse erreicht werden. Dazu gehören auch die Eintrittserlöse. Diese grundlegende ökonomische Zielstellung ist eine Daueraufgabe, der sich jede Einrichtung fortlaufend stellt und für die keine konkreten Maßnahmen vorgegeben werden.
 

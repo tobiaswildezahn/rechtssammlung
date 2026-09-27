@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19564", "21/19454"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69536"
@@ -54,7 +55,7 @@ In welchen Projektbereichen des Projektes Fahrrinnenanpassung von Unter- und Au�
 
 Wann genau vor Baggerbeginn der Fahrrinnenanpassung soll in diesen Bereichen die entsprechende Solltiefe hergestellt werden (bitte genaue Zeitangaben machen)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Unterhaltung erfolgt wegen der permanenten Neusedimentation unmittelbar vor Einsatz des Ausbaugerätes. Vorgesehen ist, dass relativ kurzfristig mit der vorlaufenden Kampfmittelsondierung begonnen wird. Daran anschließend werden die Baggerarbeiten im Bereich der Unterelbe – dort insbesondere im Bereich der Begegnungsbox – starten. In diesem Bereich gibt es derzeit keine Mindertiefen. Im Übrigen siehe Vorbemerkung.
 

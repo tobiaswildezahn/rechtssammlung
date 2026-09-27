@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 23
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48463"
@@ -170,7 +171,7 @@ Gibt es Qualifikations- und Schulungsangebote für derartige Mitarbeiter? Wenn j
 
 Sind bestimmte Qualifikations- oder Schulungsmaßnahmen verpflichtend, um derart tätig zu sein?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 f & w schult eigene Mitarbeiterinnen und Mitarbeiter je nach ihrer Funktion über Pflichtveranstaltungen zum Beispiel zum Ausländerrecht. Darüber hinaus gibt es ein breites Angebot an Schulungen und Fortbildungen, die freiwillig wahrgenommen werden können. Für Honorarkräfte gibt es kein gesondertes Fortbildungsprogramm.
 

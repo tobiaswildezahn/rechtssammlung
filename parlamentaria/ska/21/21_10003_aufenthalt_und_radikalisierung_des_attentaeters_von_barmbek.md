@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 16
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9986"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58820"
@@ -117,7 +118,7 @@ Hätte es unter den gegebenen Umständen Möglichkeiten gegeben, den Attentäter
 
 Falls es die Möglichkeit der Inhaftierung gab, weshalb ist diese nicht erfolgt?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Nein. Und es lagen auch weder die Voraussetzungen für Abschiebungshaft (§ 62 Absatz 3 AufenthG) noch für Ausreisegewahrsam (62b AufenthG) vor.
 

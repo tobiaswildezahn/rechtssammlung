@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 24
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67168"
@@ -69,7 +70,7 @@ Wie hat der Senat bisher auf die Beschwerden reagiert?
 
 Wie hat der Senat bisher auf die Verschmutzungen reagiert?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die SRH hat gemeldete Verschmutzungen jeweils kurzfristig entfernt. Außerdem wurde die SRH in der Vergangenheit wiederholt in Aktionen des zuständigen Bezirksamtes eingebunden, bei denen Lagerstätten von obdachlosen Menschen geräumt wurden, um hinterlassene Abfälle zu entsorgen.
 
@@ -85,7 +86,7 @@ b) und c) getrennt seit 1.1.2019 angeben.
 
 In welchem Umfang unterscheiden sich diese Reinigungsintervalle von den normalerweise vorgesehenen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Grünanlagen und die Straßenflächen werden zweimal wöchentlich gereinigt, die Fläche unter dem Bahnsteiggebäude wird einmal wöchentlich gereinigt.
 
@@ -185,6 +186,6 @@ Welche auf die Zukunft gerichteten Pläne hat der Senat für die oben genannten 
 
 Welche Gespräche hat der Senat mit der übrigen anliegenden Bevölkerung über die gegenwärtige beziehungsweise zukünftige Nutzung der Flächen geführt und welche Gespräche sind darüber hinaus geplant?
 
-#### Antwort zu Fragen 20 bis 21
+#### Antwort zu Fragen 20 und 21
 
 Es sind keine gesonderten Planungen für die Parkanlage an der Uhlandstraße vorgesehen.

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52475"
@@ -53,7 +54,7 @@ Welche Ämter in welchen Behörden und wie viele Mitarbeiter sind für die Verwa
 
 In welchen zeitlichen Abständen werden die Daten in GEFIS aktualisiert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für die Verwaltung von GEFIS ist die Geschäftsstelle der Metropolregion Hamburg zuständig. Dieser Aufgabenbereich wird von einer Mitarbeiterin mit geringem Arbeitsanteil bearbeitet.
 

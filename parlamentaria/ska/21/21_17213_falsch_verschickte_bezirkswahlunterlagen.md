@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 14
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66784"
@@ -45,7 +46,7 @@ Wie viele Fälle von falsch verschickten Wahlunterlagen sind dem Senat bekannt?
 
 Welche Wahlkreise sind von falsch verschickten Wahlunterlagen betroffen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Bezirk Eimsbüttel wurde in einem Fall mit den Briefwahlunterlagen ein Stimmzettel für den Wahlkreis 1 anstatt für den Wahlkreis 7 versandt. In einem weiteren Fall wurde statt des Stimmzettels für den Wahlkreis 2 der Stimmzettel für den Wahlkreis 3 versandt. Auf die Mitteilung des jeweiligen Betroffenen hin wurde umgehend der Stimmzettel für den richtigen Wahlkreis zugeschickt.
 
@@ -84,6 +85,6 @@ Sind dem Senat Probleme bei der Zustellung von Wahlbenachrichtigungen bekannt? W
 
 In wie vielen Fällen sind Wahlbenachrichtigungen nicht angekommen? Wie viele Rückläufer gab es? Auf welche Art gedenkt der Senat diese Probleme zu beheben?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Im Zusammenhang mit dem Versand der Wahlbenachrichtigungen im Zeitraum zwischen dem 16.04. und dem 04.05.2019 sind keine Auffälligkeiten bekannt geworden; im Vergleich zu zurückliegenden Wahlen ist kein erhöhtes Beschwerdeaufkommen wegen nicht zugegangener Wahlbenachrichtigungen zu verzeichnen. Auch die Anzahl nicht zustellbarer Wahlbenachrichtigungen (Rückläufer) ist unauffällig: Die Anzahl der Rückläufer beträgt mit Stand vom 15.05.2019 insgesamt 27 765, dies entspricht einem Anteil von 1,95 Prozent (Europa- und Bezirksversammlungswahl 2014: 27 545 Rückläufer; Rückläuferquote: 1,96 Prozent).

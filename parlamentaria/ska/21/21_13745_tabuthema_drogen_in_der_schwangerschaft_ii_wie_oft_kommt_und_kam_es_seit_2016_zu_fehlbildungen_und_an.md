@@ -14,6 +14,7 @@ fragen: 36
 einzelfragen: 36
 antwortbloecke: 28
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/1482", "20/5224", "20/6369", "21/9911"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63124"
@@ -49,7 +50,7 @@ Welche Studien beziehungsweise Untersuchungen zum Alkoholkonsum in der Schwanger
 
 Welche Schädigungen, Krankheiten, Syndrome oder Ähnliches resultieren nach dem aktuellen Stand der Forschung aus dem Alkoholkonsum während der Schwangerschaft und wie häufig treten diese Fälle schätzungsweise bei 1.000 Geburten im Durchschnitt auf?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/9911.
 
@@ -153,7 +154,7 @@ Welche Studien beziehungsweise Untersuchungen zum Tabakkonsum in der Schwangersc
 
 Welche Schädigungen, Krankheiten, Syndrome oder Ähnliches resultieren nach dem aktuellen Stand der Forschung aus dem Tabakkonsum während der Schwangerschaft und wie häufig treten diese Fälle schätzungsweise bei 1.000 Geburten im Durchschnitt auf?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/9911.
 
@@ -199,7 +200,7 @@ Welche Studien beziehungsweise Untersuchungen zum Cannabiskonsum in der Schwange
 
 Welche Schädigungen, Krankheiten, Syndrome oder Ähnliches resultieren nach dem aktuellen Stand der Forschung aus dem Cannabiskonsum während der Schwangerschaft und wie häufig treten diese Fälle schätzungsweise bei 1.000 Geburten im Durchschnitt auf?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Drs. 21/9911.
 
@@ -245,7 +246,7 @@ Welche Studien beziehungsweise Untersuchungen zum Opioidkonsum in der Schwangers
 
 Welche Schädigungen, Krankheiten, Syndrome oder Ähnliches resultieren nach dem aktuellen Stand der Forschung aus dem Opioidkonsum während der Schwangerschaft und wie häufig treten diese Fälle schätzungsweise bei 1.000 Geburten im Durchschnitt auf?
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Siehe Drs. 21/9911.
 
@@ -277,7 +278,7 @@ Welche Studien beziehungsweise Untersuchungen zum Kokainkonsum in der Schwangers
 
 Welche Schädigungen, Krankheiten, Syndrome oder Ähnliches resultieren nach dem aktuellen Stand der Forschung aus dem Kokainkonsum während der Schwangerschaft und wie häufig treten diese Fälle schätzungsweise bei 1.000 Geburten im Durchschnitt auf?
 
-#### Antwort zu Fragen 21 bis 22
+#### Antwort zu Fragen 21 und 22
 
 Siehe Drs. 21/9911.
 
@@ -309,7 +310,7 @@ Welche Studien beziehungsweise Untersuchungen zum Amphetaminkonsum in der Schwan
 
 Welche Schädigungen, Krankheiten, Syndrome oder Ähnliches resultieren nach dem aktuellen Stand der Forschung aus dem Amphetaminkonsum während der Schwangerschaft und wie häufig treten diese Fälle schätzungsweise bei 1.000 Geburten im Durchschnitt auf?
 
-#### Antwort zu Fragen 25 bis 26
+#### Antwort zu Fragen 25 und 26
 
 Siehe Drs. 21/9911.
 
@@ -341,7 +342,7 @@ Welche Studien beziehungsweise Untersuchungen zum Halluzinogenkonsum in der Schw
 
 Welche Schädigungen, Krankheiten, Syndrome oder Ähnliches resultieren nach dem aktuellen Stand der Forschung aus dem Halluzinogenkonsum während der Schwangerschaft und wie häufig treten diese Fälle schätzungsweise bei 1.000 Geburten im Durchschnitt auf?
 
-#### Antwort zu Fragen 29 bis 30
+#### Antwort zu Fragen 29 und 30
 
 Siehe Drs. 21/9911.
 
@@ -373,7 +374,7 @@ Welche Studien beziehungsweise Untersuchungen zum NPS-Konsum in der Schwangersch
 
 Welche Schädigungen, Krankheiten, Syndrome oder Ähnliches resultieren nach dem aktuellen Stand der Forschung aus dem NPS-Konsum während der Schwangerschaft und wie häufig treten diese Fälle schätzungsweise bei 1.000 Geburten im Durchschnitt auf?
 
-#### Antwort zu Fragen 33 bis 34
+#### Antwort zu Fragen 33 und 34
 
 Hierzu liegen der zuständigen Behörde keine Erkenntnisse vor.
 

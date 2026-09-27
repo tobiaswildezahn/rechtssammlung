@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 20
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12166"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61933"
@@ -100,7 +101,7 @@ Der Senat wies darauf hin (vergleiche Drs. 21/12166), dass bei der Verteilung vo
 
 Welche konkreten Kriterien werden für die Vergabe von Beförderungsstellen A 14 (Funktionsstellen A 14) an den jeweiligen staatlichen Stadtteilschulen und Gymnasien je Schulform angelegt? (Bitte jeweils im Einzelnen erläutern und insbesondere den Bezug zu schulischen Aufgaben wie Inklusion, Ganztag, Flüchtlingsbeschulung und Sozialindex darlegen.) a. Wie kommen vor diesem Hintergrund die teils enormen Schwankungen der Ausstattungsquoten zwischen den Standorten und insbesondere den Schulformen zustande? (Bitte erläutern.) b. Weshalb ist vor diesem Hintergrund wie angesichts der Bekundung zu gleichmäßiger Verteilung die Stellenausstattung A 14 der Stadtteilschulen teils deutlich geringer wie auch im Gesamtschnitt niedriger als die der Gymnasien? (Bitte jeweils erläutern.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Verteilung der A14-Beförderungsmöglichkeiten erfolgt auf Basis des vorhandenen Stellenkegels der Stellen A 13 / A 14 (siehe Beförderungsgrundsätze, Drs. 21/12166). Dieser Grundsatz gilt sowohl für die Verteilung der Stellen zwischen den Schulformen als auch den einzelnen Schulen. Es werden vorrangig den Schulen Beförderungsmöglichkeiten zugewiesen, die im Vergleich über die wenigsten Beförderungsstellen verfügen. Da immer nur ganze Stellen zugeteilt werden können, ist eine einheitliche Quote nicht realisierbar.
 

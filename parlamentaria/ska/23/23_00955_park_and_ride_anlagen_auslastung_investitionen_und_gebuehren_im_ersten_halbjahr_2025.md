@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["22/11318", "23/387", "23/928", "22/17466", "22/16453", "22/7285", "22/12959"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/92636"
@@ -24,185 +25,470 @@ generator: "ska_archiv 1.0"
 
 # Drs. 23/955: Park-and-Ride-Anlagen, Auslastung, Investitionen und Gebühren im ersten Halbjahr 2025
 
-> Schriftliche Kleine Anfrage der Abgeordneten Philipp Heißner und Sandro Kappe (CDU) vom 15.07.25 und Antwort des Senats · Drucksache vom 22.07.2025  
+> Schriftliche Kleine Anfrage und Antwort des Senats · Drucksache vom 22.07.2025  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/92636) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/92636/23_00955_park_and_ride_anlagen_auslastung_investitionen_und_gebuehren_im_ersten_halbjahr_2025)
 
 ## Einleitung für die Fragen
 
-Der rot-grüne Senat hat sich selbst zum Ziel gesetzt, Mobilität so emissionsarm wie möglich zu gestalten. Die Nutzung des öffentlichen Personennahverkehrs ist dabei von wesentlicher Bedeutung, insbesondere Anreize zu dessen Nutzung. Für Pendler und Hamburger, die in den äußeren Bereichen der Stadt leben, stellen P+R-Anlagen einen Anreiz zur Nutzung der Bahn dar. Die 2014 durch die SPD eingeführten Gebühren für die Nutzung der P+R-Parkhäuser stehen einer niedrigschwelligen Nutzung entgegen. Viele Autofahrer verzichten lieber auf die Nutzung der öffentlichen Verkehrsmittel und fahren ausschließlich mit dem Auto in die Stadt oder parken in den Nebenstraßen der Bahnhöfe. Dadurch steigt der Parkdruck und der Frust der Anwohner, während die P+R-Häuser oftmals leer stehen (siehe Drs. 22/11318). Ein Antrag der CDU zur Abschaffung der P+R-Gebühren wurde von SPD und GRÜNEN abgelehnt.
+Der rot-grüne Senat hat sich selbst zum Ziel gesetzt, Mobilität so emissions­ armwiemöglichzugestalten.DieNutzungdesöffentlichenPersonennahver­ kehrsistdabeivonwesentlicherBedeutung,insbesondereAnreizezudessen Nutzung.FürPendlerundHamburger,dieindenäußerenBereichenderStadt leben,stellenP+R-AnlageneinenAnreizzurNutzungderBahndar.Die2014 durch die SPD eingeführten Gebühren für die Nutzung der P+R-Parkhäuser stehen einer niedrigschwelligen Nutzung entgegen. Viele Autofahrer verzich­ ten lieber auf die Nutzung der öffentlichen Verkehrsmittel und fahren aus­ schließlich mit dem Auto in die Stadt oder parken in den Nebenstraßen der Bahnhöfe.DadurchsteigtderParkdruckundderFrustderAnwohner,während die P+R-Häuser oftmals leer stehen (siehe Drs. 22/11318). Ein Antrag der CDU zur Abschaffung der P+R-Gebühren wurde von SPD und GRÜNEN abgelehnt.
 
-Vor diesem Hintergrund fragen wir den Senat:
+VordiesemHintergrundfragenwirdenSenat:
 
 ## Einleitung für die Antworten des Senats
 
-Der Senat beantwortet die Fragen teilweise auf Grundlage von Auskünften der P + R Betriebsgesellschaft mbH (P+R) wie folgt:
+Der Senat beantwortet die Fragen teilweise auf Grundlage von Auskünften der P + R BetriebsgesellschaftmbH(P+R)wiefolgt:
 
 ## Fragen und Antworten
 
 ### Frage 1
 
-Welchen Auslastungsgrad wiesen die jeweiligen Parkhäuser der Stadt im ersten Halbjahr 2025 auf (bitte pro Monat auflisten)?
+Welchen Auslastungsgrad wiesen die jeweiligen Parkhäuser der StadtimerstenHalbjahr2025auf(bitteproMonatauflisten)?
 
 ### Frage 2
 
-Wie hat sich der Auslastungsgrad im Vergleich zum ersten Halbjahr 2024 entwickelt (bitte Auslastungsveränderung pro Anlage in Prozent angeben)?
+Wie hat sich der Auslastungsgrad im Vergleich zum ersten Halbjahr 2024entwickelt(bitteAuslastungsveränderungproAnlageinProzent angeben)?
 
-#### Antwort zu Fragen 1 und 2
+#### Antwort zu Fragen 1und 2
 
-Tabelle 1
+Tabelle1
 
-Ø Ø Δ Ø Ø Δ Ø Ø Δ  
-P+R-Anlage April April in %- Mai Mai in %- Juni Juni in %-  
-2024 2025 Punkten 2024 2025 Punkten 2024 2025 Punkten  
-Bahrenfeld 100 % 100 % 0 98 % 99 % 1 100 % 99 % -1  
+P+R-Anlage
+
+Ø April 2024
+
+Ø April 2025
+
+Δ in%- Punkten
+
+Ø Mai 2024
+
+Ø Mai 2025
+
+Δ in%- Punkten
+
+Ø Juni 2024
+
+Ø Juni 2025
+
+Δ  
+in%-  
+Punkten  
+Bahrenfeld  
+100%  
+100%  
+98%  
+99%  
+100%  
+99%  
+-1  
 Bergedorf  
-99 % 98 % -1 96 % 94 % -2 95 % 96 % 1  
 (Palette)  
+99%  
+98%  
+-1  
+96%  
+94%  
+-2  
+95%  
+96%
+
 Bergedorf  
-99 % 98 % -1 98 % 96 % -2 95 % 100 % 5  
 (Parkhaus)  
-Berne 72 % 81 % 9 71 % 76 % 5 70 % 68 % -2  
-Elbgaustraße 60 % 95 % 35 54 % 98 % 44 55 % 95 % 40
+99%  
+98%  
+-1  
+98%  
+96%  
+-2  
+95%  
+100%
 
-Ø Ø Δ Ø Ø Δ Ø Ø Δ  
-P+R-Anlage April April in %- Mai Mai in %- Juni Juni in %-  
-2024 2025 Punkten 2024 2025 Punkten 2024 2025 Punkten  
-Fuhlsbüttel 100 % 99 % -1 100 % 99 % -1 100 % 97 % -3  
+Berne  
+72%  
+81%  
+71%  
+76%  
+70%  
+68%  
+-2  
+Elbgaustraße  
+60%  
+95%  
+54%  
+98%  
+55%  
+95%
+
+Drucksache23/955 BürgerschaftderFreienundHansestadtHamburg–23.Wahlperiode
+
+P+R-Anlage
+
+Ø April 2024
+
+Ø April 2025
+
+Δ in%- Punkten
+
+Ø Mai 2024
+
+Ø Mai 2025
+
+Δ in%- Punkten
+
+Ø Juni 2024
+
+Ø Juni 2025
+
+Δ  
+in%-  
+Punkten  
+Fuhlsbüttel  
+100%  
+99%  
+-1  
+100%  
+99%  
+-1  
+100%  
+97%  
+-3  
 Hagenbecks  
-Tierpark 99 % 99 % 0 98 % 99 % 1 98 % 99 % 1  
-(Parkplatz)  
-Hochkamp 67 % 75 % 8 65 % 85 % 20 72 % 86 % 14  
-Horner  
-98 % 100 % 2 100 % 62 % -38 100 % 55 % -45  
-Rennbahn  
-Kiwittsmoor 100 % 96 % -4 100 % 97 % -3 100 % 99 % -1  
-Klein Flottbek 51 % 56 % 5 57 % 62 % 5 52 % 63 % 11  
-Langenhorn  
-56 % 51 % -5 47 % 54 % 7 44 % 62 % 18  
-Markt  
-Langenhorn  
-63 % 98 % 35 78 % 96 % 18 75 % 98 % 23  
-Nord  
-Lattenkamp 100 % 100 % 0 100 % 100 % 0 100 % 98 % -2  
-Meiendorfer  
-34 % 41 % 7 32 % 44 % 12 31 % 44 % 13  
-Weg  
-Mittlerer  
-79 % 80 % 1 89 % 66 % -23 84 % 81 % -3  
-Landweg  
-Nettelnburg  
-17 % 26 % 9 15 % 20 % 5 19 % 24 % 5  
-(Nord)  
-Nettelnburg  
-49 % 58 % 9 52 % 40 % -12 52 % 65 % 13  
-(Süd-Ost)  
-Nettelnburg  
-49 % 56 % 7 47 % 50 % 3 48 % 63 % 15  
-(Süd-West)  
-Niendorf  
-100 % 100 % 0 100 % 100 % 0 100 % 100 % 0  
-Markt  
-Ohlsdorf 97 % 98 % 1 97 % 99 % 2 100 % 99 % -1  
-Ohlstedt - 100 % - - 91 % - - 93 % -  
-Poppenbüttel  
-64 % 78 % 14 67 % 82 % 15 72 % 82 % 10  
-(Parkhaus)  
-Poppenbüttel  
-83 % 99 % 16 96 % 99 % 3 97 % 99 % 2  
-(Parkplatz)  
-Rahlstedt 62 % 66 % 4 70 % 81 % 11 70 % 82 % 12  
-Schnelsen 100 % 96 % - 4 100 % 97 % -3 100 % 93 % -7  
-Steinfurther  
-19 % 30 % 11 36 % 63 % 27 36 % 63 % 27  
-Allee  
-Trabrennbahn 54 % 71 % 17 79 % 76 % -3 73 % 43 % -30  
-Veddel  
-47 % 59 % 12 51 % 64 % 13 50 % 67 % 17  
-(Parkhaus)  
-Veddel  
-65 % 65 % 0 71 % 70 % -1 66 % 73 % 7  
-(Parkplatz)  
-Volksdorf 32 % 53 % 21 28 % 51 % 23 33 % 77 % 44
+Tierpark  
+(Parkplatz)
 
-Für die Monate Januar bis März 2025 im Vergleich zum Vorjahreszeitraum siehe Drs. 23/387. Im Übrigen siehe Drs. 23/928.
+99%  
+99%  
+98%  
+99%  
+98%  
+99%
+
+Hochkamp  
+67%  
+75%  
+65%  
+85%  
+72%  
+86%  
+Horner  
+Rennbahn  
+98%  
+100%  
+100%  
+62%  
+-38  
+100%  
+55%  
+-45
+
+Kiwittsmoor  
+100%  
+96%  
+-4  
+100%  
+97%  
+-3  
+100%  
+99%  
+-1  
+KleinFlottbek 51%  
+56%  
+57%  
+62%  
+52%  
+63%  
+Langenhorn  
+Markt  
+56%  
+51%  
+-5  
+47%  
+54%  
+44%  
+62%
+
+Langenhorn  
+Nord  
+63%  
+98%  
+78%  
+96%  
+75%  
+98%
+
+Lattenkamp  
+100%  
+100%  
+100%  
+100%  
+100%  
+98%  
+-2  
+Meiendorfer  
+Weg  
+34%  
+41%  
+32%  
+44%  
+31%  
+44%
+
+Mittlerer  
+Landweg  
+79%  
+80%  
+89%  
+66%  
+-23  
+84%  
+81%  
+-3
+
+Nettelnburg  
+(Nord)  
+17%  
+26%  
+15%  
+20%  
+19%  
+24%
+
+Nettelnburg  
+(Süd-Ost)  
+49%  
+58%  
+52%  
+40%  
+-12  
+52%  
+65%
+
+Nettelnburg  
+(Süd-West)  
+49%  
+56%  
+47%  
+50%  
+48%  
+63%
+
+Niendorf  
+Markt  
+100%  
+100%  
+100%  
+100%  
+100%  
+100%
+
+Ohlsdorf  
+97%  
+98%  
+97%  
+99%  
+100%  
+99%  
+-1  
+Ohlstedt  
+-  
+100%  
+-  
+-  
+91%  
+-  
+-  
+93%  
+-  
+Poppenbüttel  
+(Parkhaus)  
+64%  
+78%  
+67%  
+82%  
+72%  
+82%
+
+Poppenbüttel  
+(Parkplatz)  
+83%  
+99%  
+96%  
+99%  
+97%  
+99%
+
+Rahlstedt  
+62%  
+66%  
+70%  
+81%  
+70%  
+82%  
+Schnelsen  
+100%  
+96%  
+-4  
+100%  
+97%  
+-3  
+100%  
+93%  
+-7  
+Steinfurther  
+Allee  
+19%  
+30%  
+36%  
+63%  
+36%  
+63%
+
+Trabrennbahn 54%  
+71%  
+79%  
+76%  
+-3  
+73%  
+43%  
+-30  
+Veddel  
+(Parkhaus)  
+47%  
+59%  
+51%  
+64%  
+50%  
+67%
+
+Veddel  
+(Parkplatz)  
+65%  
+65%  
+71%  
+70%  
+-1  
+66%  
+73%
+
+Volksdorf  
+32%  
+53%  
+28%  
+51%  
+33%  
+77%
+
+Für die Monate Januar bis März 2025 im Vergleich zum Vorjahreszeitraum siehe Drs. 23/387.Im ÜbrigensieheDrs.23/928.
 
 ### Frage 3
 
-Wie hat sich die durchschnittliche Jahresauslastung seit 2019 pro Anlage entwickelt?
+Wie hat sich die durchschnittliche Jahresauslastung seit 2019 pro Anlageentwickelt?
 
 #### Antwort zu Frage 3
 
-Siehe Drs. 22/17466.
+SieheDrs.22/17466.
 
 ### Frage 4
 
 Auf welche der existierenden Anlagen entfällt aktuell (Stand
-30.06.2025) keine Entgeltpflicht?
+30.06.2025)keineEntgeltpflicht?
 
 #### Antwort zu Frage 4
 
-Siehe Drs. 22/16453.
+SieheDrs.22/16453.
+
+BürgerschaftderFreienundHansestadtHamburg–23.Wahlperiode Drucksache23/955
 
 ### Frage 5
 
-Wie lange ist derzeit die durchschnittliche Aufenthaltsdauer der Autos in den Anlagen (bitte pro Anlage auflisten)? Sollte diese nicht erfasst werden, warum nicht?
+WielangeistderzeitdiedurchschnittlicheAufenthaltsdauerderAutos indenAnlagen(bitteproAnlageauflisten)?Solltediesenichterfasst werden,warumnicht?
 
 ### Frage 6
 
-Wie hat sich die durchschnittliche Aufenthaltsdauer der Autos im Jahr 2025 in den Anlagen im Vergleich zum Vorjahreszeitraum entwickelt (bitte pro Anlage angeben)?
+WiehatsichdiedurchschnittlicheAufenthaltsdauerderAutosimJahr 2025 indenAnlagenimVergleichzumVorjahreszeitraumentwickelt (bitteproAnlageangeben)?
 
-#### Antwort zu Fragen 5 und 6
+#### Antwort zu Fragen 5und 6
 
-Siehe Drs. 22/7285.
+SieheDrs.22/7285.
 
 ### Frage 7
 
-Welche Einnahmen konnten die jeweiligen Parkhäuser im Jahr 2025 bisher erzielen (bitte durchschnittlichen Wert pro Anlage ausweisen)? Wie hoch waren diese im Vorjahreszeitraum?
+WelcheEinnahmenkonntendiejeweiligenParkhäuser imJahr 2025 bishererzielen(bittedurchschnittlichenWertproAnlageausweisen)? WiehochwarendieseimVorjahreszeitraum?
 
 #### Antwort zu Frage 7
 
-Es werden die jährlichen Nettoeinnahmen (gerundet) aus der Entgelterhebung P+R für das Jahr 2024 aufgeteilt auf die einzelnen der Entgeltpflicht unterliegenden P+R-Anlagen aufgeführt:
+EswerdendiejährlichenNettoeinnahmen(gerundet)ausderEntgelterhebungP+Rfür das Jahr 2024aufgeteilt auf dieeinzelnender Entgeltpflicht unterliegendenP+R-Anla­ genaufgeführt:
 
-Tabelle 2
+Tabelle2
 
-P+R-Anlage Einnahmen 2024  
-Bahrenfeld 146.697 Euro  
-Bergedorf (Palette) 122.995 Euro  
-Bergedorf (Parkhaus) 180.321 Euro  
-Berne 56.173 Euro  
-Elbgaustraße 89.565 Euro  
-Fuhlsbüttel 27.829 Euro  
-Hagenbecks Tierpark (Parkplatz) 81.948 Euro  
-Hochkamp 27.249 Euro  
-Horner Rennbahn 44.206 Euro  
-Kiwittsmoor 46.623 Euro  
-Klein Flottbek 74.386 Euro  
-Langenhorn Markt 145.009 Euro  
-Langenhorn Nord 41.058 Euro  
-Meiendorfer Weg 44.525 Euro  
-Mittlerer Landweg 46.156 Euro  
-Nettelnburg (gesamt) 98.457 Euro  
-Niendorf Markt 92.754 Euro  
-Ohlsdorf 199.829 Euro  
-Ohlstedt 985 Euro  
-Poppenbüttel (Parkhaus) 127.175 Euro  
-Poppenbüttel (Parkplatz) 67.552 Euro  
-Rahlstedt 78.427 Euro  
-Schnelsen 30.426 Euro  
-Steinfurther Allee 52.126 Euro  
-Trabrennbahn 19.335 Euro  
-Veddel (gesamt) 205.761 Euro  
-Volksdorf 62.163 Euro
+P+R-Anlage  
+Einnahmen2024  
+Bahrenfeld  
+146.697Euro  
+Bergedorf(Palette)  
+122.995Euro  
+Bergedorf(Parkhaus)  
+180.321Euro  
+Berne  
+56.173Euro  
+Elbgaustraße  
+89.565Euro  
+Fuhlsbüttel  
+27.829Euro  
+HagenbecksTierpark(Parkplatz)  
+81.948Euro  
+Hochkamp  
+27.249Euro  
+HornerRennbahn  
+44.206Euro  
+Kiwittsmoor  
+46.623Euro  
+KleinFlottbek  
+74.386Euro  
+LangenhornMarkt  
+145.009Euro  
+LangenhornNord  
+41.058Euro  
+MeiendorferWeg  
+44.525Euro  
+MittlererLandweg  
+46.156Euro  
+Nettelnburg(gesamt)  
+98.457Euro  
+NiendorfMarkt  
+92.754Euro  
+Ohlsdorf  
+199.829Euro  
+Ohlstedt  
+985Euro  
+Poppenbüttel(Parkhaus)  
+127.175Euro  
+Poppenbüttel(Parkplatz)  
+67.552Euro  
+Rahlstedt  
+78.427Euro  
+Schnelsen  
+30.426Euro  
+SteinfurtherAllee  
+52.126Euro  
+Trabrennbahn  
+19.335Euro  
+Veddel(gesamt)  
+205.761Euro  
+Volksdorf  
+62.163Euro
 
-Im Übrigen siehe Drs. 22/12959 und 23/928.
+Im ÜbrigensieheDrs.22/12959und23/928.
 
 ### Frage 8
 
-Welche Kosten entfielen auf die Parkhäuser im Jahr 2024 beziehungsweise im ersten Halbjahr 2025?
+Welche Kosten entfielen auf die Parkhäuser im Jahr 2024 bezie­ hungsweiseimerstenHalbjahr2025?
 
 #### Antwort zu Frage 8
 
-Siehe Drs. 23/387.
+SieheDrs.23/387.
+
+Drucksache23/955 BürgerschaftderFreienundHansestadtHamburg–23.Wahlperiode
 
 ### Frage 9
 
@@ -211,4 +497,4 @@ Welche konkreten Aus- beziehungsweise Neubaupläne an welchen besonders und nach
 
 #### Antwort zu Frage 9
 
-Siehe Drs. 23/928.
+SieheDrs.23/928.

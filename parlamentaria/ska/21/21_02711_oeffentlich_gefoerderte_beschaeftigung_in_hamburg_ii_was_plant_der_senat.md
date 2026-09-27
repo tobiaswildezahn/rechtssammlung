@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51047"
@@ -62,7 +63,7 @@ Laufend werden weitere interessierte Arbeitgeber mit interessierten Bewerbern du
 In welchen Kontingenten sollen die verbleibenden 700 ögB bis 2020 geschaffen werden? Wenn hierzu keine Planungen bestehen, warum nicht und wie will der Senat die im Koalitionsvertrag angekündigten Beschäftigungsverhältnisse ohne dezidierte und programmatische Planungen bis zum Ende der Legislaturperiode schaffen?
 4.1 Wie stellen sich die Planungen für Zusammensetzung des sozialen Arbeitsmarktes für das Jahr 2016 − vor dem Hintergrund der bekannten Budgets der Eingliederungsmittelverordnung des Bundesministeriums und des daraus für Hamburg maßgeblichen Eingliederungstitels − bisher dar?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die zusätzlichen 200 Eintritte in sozialversicherungspflichtige Beschäftigungsverhältnisse nach § 16 e SGB II sollen 2016 vorrangig in öffentlichen Unternehmen realisiert werden. Hintergrund hierfür ist, dass die zuständige Behörde eine höhere Übernahmequote der geförderten Arbeitnehmerinnen und Arbeitnehmer in reguläre Beschäftigungsverhältnisse durch öffentliche Unternehmen erwartet.
 

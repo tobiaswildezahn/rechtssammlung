@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 17
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6674", "21/7178", "21/8609", "21/11187"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63327"
@@ -76,12 +77,30 @@ Die Überführung des GMV in einen reinen Verwaltervertrag soll erfolgen, um ein
 ### Frage 7
 
 Dem Geschäftsbericht der Sprinkenhof ist auch zu entnehmen, dass Verhandlungen zwischen Sprinkenhof und LIG über die Übertragung des rechtlichen Eigentums wesentlicher Teile des GMV-Portfolios geführt werden. Dabei „ist für eine erste Tranche von 64 Objekten weitgehend geklärt, dass diese in das wirtschaftliche Eigentum der Sprinkenhof übergehen können.“
-7.1. Wie sind der genaue Sachstand und der Zeitplan der Planungen und Verhandlungen zur Übertragung wesentlicher Teile des GMV- Portfolios auf die Sprinkenhof?
-7.2. Wer genau hat geklärt und entschieden, dass im Rahmen der ersten Tranche 64 Objekte in das wirtschaftliche Eigentum der Sprinkenhof übergehen können?
-7.3. Welche weiteren Beschlüsse welcher Gremien sind zur Umsetzung dieser Transaktion erforderlich?
-7.4. Um welche genauen Liegenschaften handelt es sich bei den 64 Objekten und nach welchen Kriterien wurden sie für die Übertragung ausgewählt?
-7.5. Wie hoch ist der Buchwert für das Portfolio der 64 Objekte? Wie hoch ist der ermittelte Verkehrswert für dieses Portfolio?
-7.6. Welche Festlegungen und Überlegungen gibt es bereits für die im Geschäftsbericht der Sprinkenhof für den Verlauf des Jahres 2018 angekündigte zweite Tranche dieser Immobilientransaktion?
+
+### Frage 7.1
+
+Wie sind der genaue Sachstand und der Zeitplan der Planungen und Verhandlungen zur Übertragung wesentlicher Teile des GMV- Portfolios auf die Sprinkenhof?
+
+### Frage 7.2
+
+Wer genau hat geklärt und entschieden, dass im Rahmen der ersten Tranche 64 Objekte in das wirtschaftliche Eigentum der Sprinkenhof übergehen können?
+
+### Frage 7.3
+
+Welche weiteren Beschlüsse welcher Gremien sind zur Umsetzung dieser Transaktion erforderlich?
+
+### Frage 7.4
+
+Um welche genauen Liegenschaften handelt es sich bei den 64 Objekten und nach welchen Kriterien wurden sie für die Übertragung ausgewählt?
+
+### Frage 7.5
+
+Wie hoch ist der Buchwert für das Portfolio der 64 Objekte? Wie hoch ist der ermittelte Verkehrswert für dieses Portfolio?
+
+### Frage 7.6
+
+Welche Festlegungen und Überlegungen gibt es bereits für die im Geschäftsbericht der Sprinkenhof für den Verlauf des Jahres 2018 angekündigte zweite Tranche dieser Immobilientransaktion?
 
 ### Frage 8
 
@@ -91,6 +110,6 @@ Welche weiteren Verkehrswertgutachten für welche Grundstücke wurden im Zusamme
 
 Wie hoch ist nach dem derzeitigen Kenntnisstand der Verkehrswert des gesamten GMV-Portfolios?
 
-#### Antwort zu Fragen 7 bis 9
+#### Antwort zu Fragen 7, 7.1, 7.2, 7.3, 7.4, 7.5, 7.6, 8 und 9
 
 Die Planungen und Überlegungen sind nach wie vor nicht abgeschlossen. Im Übrigen siehe Drs. 21/11187.

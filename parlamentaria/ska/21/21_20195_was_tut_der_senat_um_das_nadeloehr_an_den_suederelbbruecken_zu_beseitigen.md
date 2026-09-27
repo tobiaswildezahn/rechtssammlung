@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69968"
@@ -51,7 +52,7 @@ Liegt die Machbarkeitsstudie zum Neubau der Süderelbbrücken vor? Wo ist diese 
 
 Welche Optionen zum Neubau und zur Sanierung hat die Machbarkeitsstudie ergeben?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die einzelnen Untersuchungen zur Machbarkeitsstudie sind nach Angaben der DB AG weitgehend fertiggestellt. Aktuell erfolgen die internen Prüfungen und Bewertungen durch die DB AG. Aufgrund der Komplexität der Maßnahme und der vielfältigen Abhängigkeiten im Eisenbahnknoten Hamburg geht die DB AG davon aus, dass die Studie Mitte des Jahres 2020 fertiggestellt sein wird.
 
@@ -63,7 +64,7 @@ Wie lange kann der sichere Betrieb des Bahnverkehrs auf den Brücken noch aufrec
 
 Mit welchen Geschwindigkeiten können die Bahnen bis zum Neubau die Brücken passieren?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Derzeit führt die DB AG an den Süderelbbrücken umfangreiche Sanierungsarbeiten durch, um einen sicheren Betrieb bis zum Neubau der Brücken zu gewährleisten. Auf der Strecke 1280 (Güterzuggleise) konnte die DB AG hierdurch die zulässige Streckengeschwindigkeit bereits erfolgreich auf 60 km/h zulässige Streckengeschwindigkeit anheben. Das Ziel der DB AG ist es, diese 60 km/h zulässige Streckengeschwindigkeit auch auf der Strecke 2200 (Personenzuggleise) im Zuge der laufenden Sanierungsarbeiten herzustellen. Die zulässige Streckengeschwindigkeit von 60 km/h wird in den folgenden Fahrplanperioden berücksichtigt.
 
@@ -77,7 +78,7 @@ Wann haben die Vorplanungen für den Neubau begonnen beziehungsweise wann werden
 
 Wie ist der weitere Zeitplan bei der Sanierung beziehungsweise dem Neubau der Süderelbbahnbrücken? (Bitte Zeitplan angeben.) Sofern noch kein Zeitplan vorliegt: Wann wird ein Zeitplan für den Neubau und die Sanierung der Brücken feststehen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Machbarkeitsstudie ist die Basis für die kommenden Planungsschritte der Maßnahme. Erst nach Abschluss der Studie können seitens der DB AG genauere Planungen sowie belastbare Zeitpläne für die Erneuerung des Bauwerks erfolgen. Die aktuelle Planung für den Neubau sieht vor, die Vorplanung nach Abschluss der Machbarkeitsstudie im 2. Quartal 2020 auszuschreiben. Die Sanierungsarbeiten werden noch mindestens bis ins Jahr 2022 andauern.
 

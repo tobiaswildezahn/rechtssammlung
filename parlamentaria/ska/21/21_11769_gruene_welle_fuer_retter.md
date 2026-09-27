@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61001"
@@ -101,7 +102,7 @@ Wie viele Unfälle entstehen jedes Jahr in Kreuzungsbereichen durch Einsatzfahrz
 
 Wie viele Unfälle entstehen jedes Jahr in Kreuzungsbereichen infolge der Vorfahrtsregel der Rettungsfahrzeuge zwischen anderen Verkehrsteilnehmern? (Bitte die letzten fünf Jahre nach Jahres aufschlüsseln.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die erfragten Daten werden statistisch nicht erfasst. Die Beantwortung dieser Fragestellung würde die händische Auswertung von circa 15.000 Verkehrsunfällen für jedes Kalenderjahr an Kreuzungen und Einmündungen erfordern. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

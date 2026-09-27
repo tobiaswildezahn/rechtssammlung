@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13612"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63372"
@@ -65,11 +66,11 @@ Das Bundesprogramm „Demokratie leben!“ dient in erster Linie der Diskriminie
 
 Das Bundesprogramm „Demokratie leben! Aktiv gegen Rechtsextremismus, Gewalt und Menschenfeindlichkeit“ will mit seinen verschiedenen Fördermodulen unter anderem „ziviles Engagement und demokratisches Verhalten auf der kommunalen, regionalen und überregionalen Ebene fördern. Vereine, Projekte und Initiativen werden unterstützt, die sich der Förderung von Demokratie und Vielfalt widmen und insbesondere gegen Rechtsextremismus und Phänomene gruppenbezogener Menschenfeindlichkeit wie zum Beispiel Rassismus und Antisemitismus arbeiten. Dazu gehören unter anderem
 
- die „Stärkung der Selbstorganisation und -hilfe im Themenfeld unter verstärktem
+– die „Stärkung der Selbstorganisation und -hilfe im Themenfeld unter verstärktem
 
 Einbezug unter anderem von Migrantenselbstorganisationen und muslimischen Gemeinden sowie
 
- die „Entwicklung einer Kultur der Unterstützung und Wertschätzung ehrenamtli-
+– die „Entwicklung einer Kultur der Unterstützung und Wertschätzung ehrenamtli-
 
 chen Engagements in allen Themenfeldern des Programms, insbesondere zum Abbau von Ressentiments und zur Prävention vor Gewalt, Hetze und Feindseligkeiten gegenüber Zuwanderinnen und Zuwanderern“.
 
@@ -91,15 +92,15 @@ e) Islamischer Bund
 
 Es handelt sich um folgende Organisationen:
 
- Institut für konstruktive Konfliktaustragung und Mediation e.V. (IKM): Träger der
+– Institut für konstruktive Konfliktaustragung und Mediation e.V. (IKM): Träger der
 
 Erwachsenen und Jugendbildung; Weiterbildung, Trainings, Stadtteil-, Schul- und Teamentwicklung. Förderung der demokratischen Kultur durch Konfliktvermittlung, weitere Informationen siehe unter http://www.ikm-hamburg.de/das-ikm;
 
- Nouralhuda = Nooralhuda: Nooralhuda Gemeinschaft Hamburg e.V., irakische
+– Nouralhuda = Nooralhuda: Nooralhuda Gemeinschaft Hamburg e.V., irakische
 
 Gemeinde; Seelsorge, Unterrichtung und Unterstützung von Kindern und Jugendlichen in der Integration und Bildung; Beratung von Flüchtlingen und Deutschkurse. Förderung der Integration von Flüchtlingen;
 
- Islamischer Bund e.V., Muhajirin Gemeinde (arabische Gemeinde): Seelsorge,
+– Islamischer Bund e.V., Muhajirin Gemeinde (arabische Gemeinde): Seelsorge,
 
 Bildungs- und Integrationsarbeit. Förderung des interreligiösen Dialogs.
 
@@ -119,7 +120,7 @@ Wo haben die Begünstigten den Ramadan jeweils ausgerichtet?
 
 Wie viele Personen waren an den Feierlichkeiten beteiligt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 IKM und Islamischer Bund e.V.: St. Georg, täglich circa 400 – 500 Personen (Ramadan-Pavillon)
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50270"
@@ -80,29 +81,29 @@ Bereits nach kurzer Zeit haben die auf der Linie M5 durchgeführten Maßnahmen d
 
 Service und Barrierefreiheit für die Fahrgäste der Linie M5 wurden erheblich verbessert. Dazu haben unter anderem maßgeblich beigetragen:
 
- Barrierefreier Ausbau von 19 Haltestellen,
+– Barrierefreier Ausbau von 19 Haltestellen,
 
- Aufstellen oder Austauschen von 28 Fahrscheinautomaten,
+– Aufstellen oder Austauschen von 28 Fahrscheinautomaten,
 
- Installieren von zehn zusätzlichen Fahrgastinformationssystemen.
+– Installieren von zehn zusätzlichen Fahrgastinformationssystemen.
 
 Steigerungen der Fahrgastzahlen stellen sich erfahrungsgemäß erst über einen längeren Zeitraum ein. Eine seriöse Aussage hierzu ist erst nach zwei bis drei Jahren möglich. Mit weiter zunehmenden Fahrgastzahlen erhöhen sich die Fahrgelderlöse, gleichzeitig reduzieren Umsteiger vom Pkw-Verkehr die CO-Belastung.
 
 Die weitreichende Modernisierung der Infrastruktur hat auch zu Verbesserungen für die Allgemeinheit geführt:
 
- Einrichtung von 50 blindenrechten Lichtsignalanlagen,
+– Einrichtung von 50 blindenrechten Lichtsignalanlagen,
 
- Neubau oder Instandsetzung von 4 km Radverkehrsstreifen,
+– Neubau oder Instandsetzung von 4 km Radverkehrsstreifen,
 
- Sanieren von 18 km Fahrstreifen für den allgemeinen Verkehr,
+– Sanieren von 18 km Fahrstreifen für den allgemeinen Verkehr,
 
- Herstellung von 18 blindengerechten Kreuzungen,
+– Herstellung von 18 blindengerechten Kreuzungen,
 
- Verbesserung des Verkehrsflusses für alle Verkehrsteilnehmer in umgebauten
+– Verbesserung des Verkehrsflusses für alle Verkehrsteilnehmer in umgebauten
 
 Kreuzungen,
 
- Reisezeitersparnis für alle Fahrgäste der Linien M4 und M5.
+– Reisezeitersparnis für alle Fahrgäste der Linien M4 und M5.
 
 Aus Sicht der HOCHBAHN konnte bislang ein Doppelgelenkbus eingespart werden. Weitere Fahrzeugeinsparungen ergeben sich mit den Fahrzeitreduzierungen nördlich von Niendorf Markt.
 

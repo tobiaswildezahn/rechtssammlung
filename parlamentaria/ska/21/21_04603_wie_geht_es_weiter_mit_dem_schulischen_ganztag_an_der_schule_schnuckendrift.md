@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53010"
@@ -102,7 +103,7 @@ Wird es nun durch die zuständige Behörde Bemühungen geben, die Ganztagsbetreu
 
 Wann können die Eltern der Schule Schnuckendrift mit einem Ganztagskonzept für das kommende Schuljahr rechnen? Wann werden sie Planungssicherheit für die Versorgung und Unterbringung ihrer Kinder am Nachmittag im kommenden Schuljahr haben?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die zuständige Behörde wird die Schulleitung bei einer Lösung für die Ganztagsbetreuung unterstützen. Derzeit werden hierfür verschiedene Alternativen geprüft. Ziel ist es, den Ganztag an der Schule Schnuckendrift zukünftig so zu gestalten, dass – wie an den 77 anderen GTS-Grundschulen auch – ein verlässliches und pädagogisch vielfältiges Betreuungsangebot realisiert wird.
 

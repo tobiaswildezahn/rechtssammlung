@@ -10,10 +10,11 @@ urheber: ["Martin Bill"]
 fraktionen: ["GRÜNE"]
 vorgang: 60134
 seiten: 21
-fragen: 11
+fragen: 3
 einzelfragen: 11
-antwortbloecke: 14
+antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65945"
@@ -29,11 +30,7 @@ generator: "ska_archiv 1.0"
 
 ## Einleitung für die Fragen
 
-Zum 1. Februar 2019 startete das Fahrradverleihsystem StadtRAD mit einer neuen, vergrößerten Flotte. Die Anzahl der Stationen wird in den kommenden Jahren auf 350 steigen und 4 500 Räder werden dann zur Verfügung stehen.
-
-Derzeit werden durch Vertreterinnen und Vertreter der Behörde für Wirtschaft, Verkehr und Innovation potenzielle Standorte für neue StadtRAD- Stationen in den Bezirken vorgestellt. Bis 28.01.2018 konnten Bürgerinnen und Bürger im Internet auf der Seite www.hamburg.de/bwvi/stadtrad/ auf einer interaktiven Karte neue Stationen im Stadtgebiet vorschlagen und die Vorschläge anderer Nutzerinnen und Nutzer bewerten. Ebenso gab es die Möglichkeit, an einer Umfrage teilzunehmen.
-
-Ich frage den Senat:
+Zum 1. Februar 2019 startete das Fahrradverleihsystem StadtRAD mit einer neuen, vergrößerten Flotte. Die Anzahl der Stationen wird in den kommenden Jahren auf 350 steigen und 4 500 Räder werden dann zur Verfügung stehen. Derzeit werden durch Vertreterinnen und Vertreter der Behörde für Wirtschaft, Verkehr und Innovation potenzielle Standorte für neue StadtRAD- Stationen in den Bezirken vorgestellt. Bis 28.01.2018 konnten Bürgerinnen und Bürger im Internet auf der Seite www.hamburg.de/bwvi/stadtrad/ auf einer interaktiven Karte neue Stationen im Stadtgebiet vorschlagen und die Vorschläge anderer Nutzerinnen und Nutzer bewerten. Ebenso gab es die Möglichkeit, an einer Umfrage teilzunehmen. Ich frage den Senat:
 
 ## Einleitung für die Antworten des Senats
 
@@ -47,113 +44,33 @@ Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
 
 ## Fragen und Antworten
 
-### Frage 1
-
-Wie viele Standorte insgesamt beziehungsweise wie viele verschiedene Standorte für neue StadtRAD-Stationen wurden vorgeschlagen?
-
-#### Antwort zu Frage 1
-
-Die Möglichkeit zum Vorschlagen neuer StadtRAD-Stationsstandorte wurde in einem großen Ausmaß genutzt. Es wurden insgesamt über 2 100 verschiedene Standorte vorgeschlagen. Viele Standorte sind offensichtlich sehr stark nachgefragt und wurden mehrfach vorgeschlagen. Dazu gehören zahlreiche S- und U-Bahn-Haltestellen, aber auch Stadtteilzentren, große Arbeitgeber und verdichtete Wohngebiete.
-
-### Frage 2
-
-Wie viele davon sollen in der geplanten Erweiterung berücksichtigt werden?
-
-#### Antwort zu Frage 2
-
-Nach derzeitigem Stand sollen 177 Standortvorschläge in das Standortkonzept übernommen werden. Im Übrigen siehe Vorbemerkung und Antwort zu 11.
-
 ### Frage 3
 
-Welche Fragen wurden im Rahmen der Umfrage gestellt (gegebenenfalls Fragebogen bitte in Anlage beifügen)?
+1. Wie viele Standorte insgesamt beziehungsweise wie viele verschiedene Standorte für neue StadtRAD-Stationen wurden vorgeschlagen? Die Möglichkeit zum Vorschlagen neuer StadtRAD-Stationsstandorte wurde in einem großen Ausmaß genutzt. Es wurden insgesamt über 2 100 verschiedene Standorte vorgeschlagen. Viele Standorte sind offensichtlich sehr stark nachgefragt und wurden mehrfach vorgeschlagen. Dazu gehören zahlreiche S- und U-Bahn-Haltestellen, aber auch Stadtteilzentren, große Arbeitgeber und verdichtete Wohngebiete.
 
-#### Antwort zu Frage 3
+2. Wie viele davon sollen in der geplanten Erweiterung berücksichtigt werden? Nach derzeitigem Stand sollen 177 Standortvorschläge in das Standortkonzept übernommen werden. Im Übrigen siehe Vorbemerkung und Antwort zu 11.
 
-Der der Umfrage zugrundeliegende Fragebogen ist Anlage 1 zu entnehmen. Der Abschnitt „Standortvorschläge“ wurde über die interaktive Karte in der Onlinebeteiligung umgesetzt.
+3. Welche Fragen wurden im Rahmen der Umfrage gestellt (gegebenenfalls Fragebogen bitte in Anlage beifügen)? Der der Umfrage zugrundeliegende Fragebogen ist Anlage 1 zu entnehmen. Der Abschnitt „Standortvorschläge“ wurde über die interaktive Karte in der Onlinebeteiligung umgesetzt.
 
-### Frage 4
+4. Wie viele Personen beteiligten sich an der Umfrage?
 
-Wie viele Personen beteiligten sich an der Umfrage?
+5. Welche Erkenntnisse wurden aus der Umfrage gewonnen? An der nicht repräsentativen Umfrage zur Nutzung und zur Zufriedenheit mit dem StadtRAD-System beteiligten sich insgesamt 1 720 Personen. Von diesen haben 1 477 Personen (86 Prozent) schon einmal ein StadtRAD genutzt. Diese sind als regelmäßige StadtRAD-Nutzerinnen und -Nutzer einzustufen, denn zumindest im Sommer nutzen knapp 80 Prozent ein StadtRAD mehr als einmal pro Monat, davon die Hälfte sogar mehr als einmal pro Woche (im Winter knapp 50 Prozent mehr als einmal im Monat, davon knapp ein Drittel mehr als einmal pro Woche). 1 110 StadtRAD-Nutzerinnen und -Nutzer (75 Prozent) gaben an, das StadtRAD meistens spontan zu nutzen, 860 (58 Prozent) kombinieren das StadtRAD aber regelmäßig mit dem öffentlichen Personennahverkehr (ÖPNV). Vielfach wird das StadtRAD aber auch anstelle des ÖPNV genutzt, beispielsweise um Kurzfahrten zu machen oder um Auslastungsspitzen im ÖPNV zu umgehen. 49 Personen (3 Prozent) haben aufgrund von StadtRAD ein HVV-Abonnement erworben und 75 Personen (5 Prozent) gaben an, aufgrund von StadtRAD einen privaten Pkw abgeschafft zu haben. Bei den Fragen nach der Zufriedenheit mit dem StadtRAD-System wurden Spitzenwerte erreicht. Mit dem Gesamteindruck des Systems sind über 95 Prozent sehr zufrieden oder eher zufrieden. Ein ähnlicher Wert wurde in den Kategorien „Erstmalige Anmeldung“, Ausleihvorgang“, „Rückgabe“ und „Preis“ erzielt. Immerhin noch eine große Mehrheit der StadtRAD-Nutzerinnen und -Nutzer (80 Prozent) ist mit der Ausstattung und dem Zustand der Stationen sowie der Ausstattung und dem Zustand der Fahrräder sehr zufrieden oder eher zufrieden. Mit der Anzahl und Lage von Stationen sind 42 Prozent sehr zufrieden oder eher zufrieden, mit der Verfügbarkeit der Fahrräder sind 60 Prozent sehr zufrieden oder eher zufrieden. Diese Angaben decken sich mit den bereits in der Vergangenheit vielfach geäußerten Wünschen nach einer Ausdehnung und Vergrößerung des Stadt- RAD-Systems. Für 852 StadtRAD-Nutzerinnen und -Nutzer (58 Prozent) ist die geplante Einführung von elektrisch unterstützten Leih-Lastenrädern interessant. Weitere Hinweise werden bei künftigen Entscheidungen zum StadtRAD-System soweit wie möglich berücksichtigt. Beispielsweise wurden die vielfach geäußerten Wünsche nach einem etwas höheren Lenker und einem etwas tieferen Durchstieg bei dem neuen Leihradmodell umgesetzt.
 
-### Frage 5
+6. Wie viele neue StadtRAD-Stationen werden voraussichtlich jeweils in den sieben Hamburger Bezirken an welchen Standorten entstehen? Siehe Anlage 2. Die Tabelle dokumentiert das Ergebnis des Abgleichs von Nachfragepotenzial und Onlinebeteiligung, das bis Ende April des Jahres 2019 in den politischen Gremien der Bezirke vorgestellt wird. Da die in der Tabelle aufgeführten Stationen für eine Realisierung bis etwa 2022 vorgesehen sind, werden Standorte an zukünftigen Schnellbahnhaltestellen (Oldenfelde, Ottensen, Verlängerung U4, S-Bahn S4, Bau U5) zu einem späteren Zeitpunkt aufgenommen. Im Übrigen siehe Vorbemerkung.
 
-Welche Erkenntnisse wurden aus der Umfrage gewonnen?
-
-#### Antwort zu Fragen 4 bis 5
-
-An der nicht repräsentativen Umfrage zur Nutzung und zur Zufriedenheit mit dem StadtRAD-System beteiligten sich insgesamt 1 720 Personen. Von diesen haben 1 477 Personen (86 Prozent) schon einmal ein StadtRAD genutzt. Diese sind als regelmäßige StadtRAD-Nutzerinnen und -Nutzer einzustufen, denn zumindest im Sommer nutzen knapp 80 Prozent ein StadtRAD mehr als einmal pro Monat, davon die Hälfte sogar mehr als einmal pro Woche (im Winter knapp 50 Prozent mehr als einmal im Monat, davon knapp ein Drittel mehr als einmal pro Woche).
-
-1 110 StadtRAD-Nutzerinnen und -Nutzer (75 Prozent) gaben an, das StadtRAD meistens spontan zu nutzen, 860 (58 Prozent) kombinieren das StadtRAD aber regelmäßig mit dem öffentlichen Personennahverkehr (ÖPNV). Vielfach wird das StadtRAD aber auch anstelle des ÖPNV genutzt, beispielsweise um Kurzfahrten zu machen oder um Auslastungsspitzen im ÖPNV zu umgehen. 49 Personen (3 Prozent) haben aufgrund von StadtRAD ein HVV-Abonnement erworben und 75 Personen (5 Prozent) gaben an, aufgrund von StadtRAD einen privaten Pkw abgeschafft zu haben.
-
-Bei den Fragen nach der Zufriedenheit mit dem StadtRAD-System wurden Spitzenwerte erreicht. Mit dem Gesamteindruck des Systems sind über 95 Prozent sehr zufrieden oder eher zufrieden. Ein ähnlicher Wert wurde in den Kategorien „Erstmalige Anmeldung“, Ausleihvorgang“, „Rückgabe“ und „Preis“ erzielt. Immerhin noch eine große Mehrheit der StadtRAD-Nutzerinnen und -Nutzer (80 Prozent) ist mit der Ausstattung und dem Zustand der Stationen sowie der Ausstattung und dem Zustand der Fahrräder sehr zufrieden oder eher zufrieden.
-
-Mit der Anzahl und Lage von Stationen sind 42 Prozent sehr zufrieden oder eher zufrieden, mit der Verfügbarkeit der Fahrräder sind 60 Prozent sehr zufrieden oder eher zufrieden. Diese Angaben decken sich mit den bereits in der Vergangenheit vielfach geäußerten Wünschen nach einer Ausdehnung und Vergrößerung des Stadt- RAD-Systems.
-
-Für 852 StadtRAD-Nutzerinnen und -Nutzer (58 Prozent) ist die geplante Einführung von elektrisch unterstützten Leih-Lastenrädern interessant.
-
-Weitere Hinweise werden bei künftigen Entscheidungen zum StadtRAD-System soweit wie möglich berücksichtigt. Beispielsweise wurden die vielfach geäußerten Wünsche nach einem etwas höheren Lenker und einem etwas tieferen Durchstieg bei dem neuen Leihradmodell umgesetzt.
-
-### Frage 6
-
-Wie viele neue StadtRAD-Stationen werden voraussichtlich jeweils in den sieben Hamburger Bezirken an welchen Standorten entstehen?
-
-#### Antwort zu Frage 6
-
-Siehe Anlage 2. Die Tabelle dokumentiert das Ergebnis des Abgleichs von Nachfragepotenzial und Onlinebeteiligung, das bis Ende April des Jahres 2019 in den politischen Gremien der Bezirke vorgestellt wird. Da die in der Tabelle aufgeführten Stationen für eine Realisierung bis etwa 2022 vorgesehen sind, werden Standorte an zukünftigen Schnellbahnhaltestellen (Oldenfelde, Ottensen, Verlängerung U4, S-Bahn S4, Bau U5) zu einem späteren Zeitpunkt aufgenommen. Im Übrigen siehe Vorbemerkung.
-
-### Frage 7
-
-Welche neuen StadtRAD-Stationen befinden sich derzeit in der engeren Wahl für eine Umsetzung im Jahr 2019? Bitte nach Bezirken getrennt auflisten.
-
-#### Antwort zu Frage 7
-
+7.  
+Welche neuen StadtRAD-Stationen befinden sich derzeit in der engeren  
+Wahl für eine Umsetzung im Jahr 2019? Bitte nach Bezirken getrennt  
+auflisten.  
 Siehe Anlage 3.
 
-### Frage 8
+8. Nach welchen Kriterien erfolgt die Reihenfolge der Einrichtung neuer StadtRAD-Stationen? Die Reihenfolge der Realisierung richtet sich nach der Bedeutung des Standorts (Nachfragepotenzial, Netzzusammenhang) und der Häufigkeit der Nennungen in der Onlinebefragung. Des Weiteren werden Synergieeffekte mit Straßenbaumaßnahmen genutzt. Ein weiterer wichtiger Faktor ist, wie zügig die erforderlichen Flächen zur Verfügung gestellt werden können.
 
-Nach welchen Kriterien erfolgt die Reihenfolge der Einrichtung neuer StadtRAD-Stationen?
+9. Wie erfolgt die Bestimmung der Stationsflächen? Im ersten Schritt treffen die zuständige Behörde und/oder das zuständige Bezirksamt eine Vorauswahl von einer oder mehreren Flächenvarianten, damit die anschließenden Ortsbegehungen mit Vertreterinnen und Vertretern mehrerer Dienststellen erfolgen kann. Die an den Ortsbegehungen teilnehmenden Dienststellen sind üblicherweise das zuständige Bezirksamt (Tiefbau, Stadtgrün, Wegewart, Stadtplanung), die Polizei (Straßenverkehrsbehörde), ein Vertreter von DB Connect sowie der Projektkoordinator der zuständigen Behörde. Bei Standorten an S- und U-Bahn-Haltestellen nehmen zusätzlich ein Haltestellenumfeldkoordinator des Hamburger Verkehrsverbundes (HVV) und die Park+Ride-Betriebsgesellschaft mbH (P+R GmbH, wegen Wechselwirkung zu Bike+Ride-Flächen) teil. Darüber hinaus sind in Einzelfällen auch das Denkmalschutzamt sowie gegebenenfalls private Flächeneigentümer zu beteiligen. Ziel der Ortsbegehungen ist es, einen Konsens unter den Beteiligten für eine Fläche zu erzielen, die - dem StadtRAD-Kundenverhalten entgegenkommt (Sichtbarkeit und Bedienung der Station), - den funktionalen Anforderungen des StadtRAD-Betriebs entspricht, - den Fußverkehr nicht beeinträchtigt und - den Flächenherrichtungsaufwand in einem vertretbaren Rahmen hält. Wurde eine Einigung auf eine Fläche erzielt, erfolgen die Stationsplanung durch DB Connect und die finale Abstimmung. Auf Grundlage des abgestimmten Lageplans wird dann die Sondernutzungsgenehmigung vom zuständigen Bezirksamt erteilt. Der Stationsaufbau dauert – in Abhängigkeit vom Flächenherrichtungsaufwand – meist nur wenige Tage; zudem muss die Freischaltung der Stromzuführung durch Stromnetz Hamburg erfolgen.
 
-#### Antwort zu Frage 8
+10. Für welche neuen StadtRAD-Stationen stehen bereits die Flächen fest? Bitte nach Bezirken getrennt auflisten. Siehe Anlage 4.
 
-Die Reihenfolge der Realisierung richtet sich nach der Bedeutung des Standorts (Nachfragepotenzial, Netzzusammenhang) und der Häufigkeit der Nennungen in der Onlinebefragung. Des Weiteren werden Synergieeffekte mit Straßenbaumaßnahmen genutzt. Ein weiterer wichtiger Faktor ist, wie zügig die erforderlichen Flächen zur Verfügung gestellt werden können.
-
-### Frage 9
-
-Wie erfolgt die Bestimmung der Stationsflächen?
-
-#### Antwort zu Frage 9
-
-Im ersten Schritt treffen die zuständige Behörde und/oder das zuständige Bezirksamt eine Vorauswahl von einer oder mehreren Flächenvarianten, damit die anschließenden Ortsbegehungen mit Vertreterinnen und Vertretern mehrerer Dienststellen erfolgen kann. Die an den Ortsbegehungen teilnehmenden Dienststellen sind üblicherweise das zuständige Bezirksamt (Tiefbau, Stadtgrün, Wegewart, Stadtplanung), die Polizei (Straßenverkehrsbehörde), ein Vertreter von DB Connect sowie der Projektkoordinator der zuständigen Behörde. Bei Standorten an S- und U-Bahn-Haltestellen nehmen zusätzlich ein Haltestellenumfeldkoordinator des Hamburger Verkehrsverbundes (HVV) und die Park+Ride-Betriebsgesellschaft mbH (P+R GmbH, wegen Wechselwirkung zu Bike+Ride-Flächen) teil. Darüber hinaus sind in Einzelfällen auch das Denkmalschutzamt sowie gegebenenfalls private Flächeneigentümer zu beteiligen.
-
-Ziel der Ortsbegehungen ist es, einen Konsens unter den Beteiligten für eine Fläche zu erzielen, die
-
-- dem StadtRAD-Kundenverhalten entgegenkommt (Sichtbarkeit und Bedienung der Station),
-
-- den funktionalen Anforderungen des StadtRAD-Betriebs entspricht,
-
-- den Fußverkehr nicht beeinträchtigt und
-
-- den Flächenherrichtungsaufwand in einem vertretbaren Rahmen hält.
-
-Wurde eine Einigung auf eine Fläche erzielt, erfolgen die Stationsplanung durch DB Connect und die finale Abstimmung. Auf Grundlage des abgestimmten Lageplans wird dann die Sondernutzungsgenehmigung vom zuständigen Bezirksamt erteilt. Der Stationsaufbau dauert – in Abhängigkeit vom Flächenherrichtungsaufwand – meist nur wenige Tage; zudem muss die Freischaltung der Stromzuführung durch Stromnetz Hamburg erfolgen.
-
-### Frage 10
-
-Für welche neuen StadtRAD-Stationen stehen bereits die Flächen fest? Bitte nach Bezirken getrennt auflisten.
-
-#### Antwort zu Frage 10
-
-Siehe Anlage 4.
-
-### Frage 11
-
-Was waren die zentralen Ablehnungsgründe für nicht realisierbare vorgeschlagene StadtRAD-Stationen aus der Online-Beteiligung?
-
-#### Antwort zu Frage 11
-
-Von über 2 100 verschiedenen Standortvorschlägen konnten nicht alle berücksichtigt werden. Der zentrale Grund für die Ablehnung von Standortvorschlägen ist ein fehlendes oder zu geringes Kundenpotenzial im Alltagsverkehr. Solche Vorschläge wurden in der Regel nur einmal genannt und liegen in Wohngebieten mit geringer Siedlungsdichte oder an Zielen, die nur bei schönem Wetter oder an Wochenenden angefahren würden. Einige Vorschläge liegen auch dicht an bereits bestehenden Stationen. Soweit möglich und sinnvoll, wurden beim Abgleich der Vorschläge mit dem Nachfragepotenzial mehrere Vorschläge zu einem ins Konzept übernommenen Standort zusammengefasst.
-
-Insbesondere Unternehmen sind aufgerufen, die Anzahl der Stationen über eine vollständige oder teilweise Finanzierungsbeteiligung weiter zu erhöhen. Hierfür gibt es bereits zehn gelungene Beispiele.
+11. Was waren die zentralen Ablehnungsgründe für nicht realisierbare vorgeschlagene StadtRAD-Stationen aus der Online-Beteiligung? Von über 2 100 verschiedenen Standortvorschlägen konnten nicht alle berücksichtigt werden. Der zentrale Grund für die Ablehnung von Standortvorschlägen ist ein fehlendes oder zu geringes Kundenpotenzial im Alltagsverkehr. Solche Vorschläge wurden in der Regel nur einmal genannt und liegen in Wohngebieten mit geringer Siedlungsdichte oder an Zielen, die nur bei schönem Wetter oder an Wochenenden angefahren würden. Einige Vorschläge liegen auch dicht an bereits bestehenden Stationen. Soweit möglich und sinnvoll, wurden beim Abgleich der Vorschläge mit dem Nachfragepotenzial mehrere Vorschläge zu einem ins Konzept übernommenen Standort zusammengefasst. Insbesondere Unternehmen sind aufgerufen, die Anzahl der Stationen über eine vollständige oder teilweise Finanzierungsbeteiligung weiter zu erhöhen. Hierfür gibt es bereits zehn gelungene Beispiele.
 
 #### Antwort zu 3.
 
@@ -163,9 +80,9 @@ Eingangsfrage (Entscheidung Nutzer/Nichtnutzer)
 
 0. Haben Sie schon einmal ein StadtRAD in Hamburg genutzt?
 
- Ja
+– Ja
 
- Nein
+– Nein
 
 Nutzerbefragung
 
@@ -202,65 +119,65 @@ Nutzerverhalten StadtRAD
 
 Im Sommer: Im Winter:
 
- Pro Woche mehr als 1 x  
- Pro Monat mehr als 1 x  
- Seltener  
- Gar nicht
+– Pro Woche mehr als 1 x  
+– Pro Monat mehr als 1 x  
+– Seltener  
+– Gar nicht
 
- Pro Woche mehr als 1 x  
- Pro Monat mehr als 1 x  
- Seltener  
- Gar nicht
+– Pro Woche mehr als 1 x  
+– Pro Monat mehr als 1 x  
+– Seltener  
+– Gar nicht
 
 3. Für welche Wege nutzen Sie gewöhnlich ein StadtRAD? (Mehrfachnennung möglich)
 
- Weg zur und im Rahmen der Arbeit / Ausbildung
+– Weg zur und im Rahmen der Arbeit / Ausbildung
 
- Erledigungen / Einkauf
+– Erledigungen / Einkauf
 
- Freizeitwege
+– Freizeitwege
 
- Wege von oder zum Bahnhof / Haltestelle (U-Bahn, S-Bahn, Fernbahn, Bus, Fähre)
+– Wege von oder zum Bahnhof / Haltestelle (U-Bahn, S-Bahn, Fernbahn, Bus, Fähre)
 
- Sonstiges: ______________
+– Sonstiges: ______________
 
 4. Welches Verkehrsmittel würden Sie für diese Wege meistens nutzen, wenn es StadtRAD nicht gäbe? (Mehrfachnennung möglich)
 
- Privates Fahrrad, E-Bike, Pedelec
+– Privates Fahrrad, E-Bike, Pedelec
 
- ÖPNV (Bus oder Bahn)
+– ÖPNV (Bus oder Bahn)
 
- Privater Pkw, Motorrad, Roller
+– Privater Pkw, Motorrad, Roller
 
- Carsharing
+– Carsharing
 
- Zu Fuß
+– Zu Fuß
 
- Ich hätte den Weg gar nicht gemacht.
+– Ich hätte den Weg gar nicht gemacht.
 
 5. Wann entscheiden Sie sich für die Nutzung eines StadtRADs?
 
- meistens spontan
+– meistens spontan
 
- meistens geplant
+– meistens geplant
 
 6. Nutzen Sie StadtRAD regelmäßig in Kombination mit dem ÖPNV?
 
- Ja
+– Ja
 
- Nein
+– Nein
 
 7. Haben Sie auf Grund von StadtRAD ein HVV-Abonnement erworben?
 
- Ja
+– Ja
 
- Nein
+– Nein
 
 8. Haben Sie auf Grund von StadtRAD einen privaten Pkw abgeschafft?
 
- Ja
+– Ja
 
- Nein
+– Nein
 
 Zufriedenheit mit StadtRAD
 
@@ -298,21 +215,21 @@ Ausbau des Systems
 
 10. Es gibt Überlegungen, das Fahrradverleihsystem in Hamburg um Lastenräder zu erweitern, die zu speziellen Konditionen an ausgewählten Standorten bereitstehen würden und am gleichen Standort auch zurückgegeben werden müssten. Wäre ein solches Angebot für Sie interessant?
 
- Ja
+– Ja
 
- Nein
+– Nein
 
- Weiß nicht
+– Weiß nicht
 
 11. Falls Frage 10 mit „Ja“ beantwortet wurde: Für welchen Zweck würden Sie diese Lastenräder ggf. nutzen?
 
- Einkäufe
+– Einkäufe
 
- Transport von anderen Gegenständen
+– Transport von anderen Gegenständen
 
- Kindertransport
+– Kindertransport
 
- Sonstiges: _________________
+– Sonstiges: _________________
 
 12. Welches wäre Ihr Wunsch-Standort für eine Lastenrad-Ausleihe?
 
@@ -391,9 +308,9 @@ zu Fuß
 
 2. Haben Sie schon einmal ein Fahrradverleihsystem in einer anderen Stadt genutzt?
 
- Ja, in _____________________________________
+– Ja, in _____________________________________
 
- Nein
+– Nein
 
 Gründe der Nichtnutzung des StadtRAD
 
@@ -435,9 +352,9 @@ Standort-Vorschlag 3:
 
 9. Würden Sie ein Fahrradverleihsystem an den von Ihnen vorgeschlagenen Stationen selbst nutzen?
 
- Ja
+– Ja
 
- Nein
+– Nein
 
 #### Antwort zu 6.
 

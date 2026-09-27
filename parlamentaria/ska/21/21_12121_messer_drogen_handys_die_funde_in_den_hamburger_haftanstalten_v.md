@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 22
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/276", "21/358", "21/5544", "21/7245", "21/10391"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61389"
@@ -1059,11 +1060,11 @@ Justizvollzugsanstalt
 
 Angebote, Inhalt und Umfang
 
-JVA Billwerder  Freiwilliges Urinkontrollprogramm zur Unterstützung
+JVA Billwerder – Freiwilliges Urinkontrollprogramm zur Unterstützung
 
-von Abstinenzbemühungen  Drogenpräventions- und Hilfsangebote durch MAEX
+von Abstinenzbemühungen – Drogenpräventions- und Hilfsangebote durch MAEX
 
-(Schwerpunkt Alkohol und Spielsucht) und KODROPS (Schwerpunkt illegale Suchtmittel) und AKTIVE SUCHTHILFE, Suchtberatungsgespräche und Vermittlung in ambulante oder stationäre Therapien (in der Regel wöchentlich)  Therapievorbereitende Station zur intensiven Vorbe-
+(Schwerpunkt Alkohol und Spielsucht) und KODROPS (Schwerpunkt illegale Suchtmittel) und AKTIVE SUCHTHILFE, Suchtberatungsgespräche und Vermittlung in ambulante oder stationäre Therapien (in der Regel wöchentlich) – Therapievorbereitende Station zur intensiven Vorbe-
 
 reitung auf teilstationäre oder stationäre Therapie.  
 Betreuung durch eigenen Suchtberater und durch  
@@ -1072,34 +1073,34 @@ Gesprächsgruppen und Urinkontrollen. 7 Haftplätze
 für weibliche Gefangene, 20 Haftplätze für männliche  
 Gefangene  
 JVA Fuhlsbüttel  
-  
+–  
 Freiwilliges Urinkontrollprogramm zur Unterstützung
 
-von Abstinenzbemühungen  Drogenpräventions- und Hilfsangebote durch MAEX
+von Abstinenzbemühungen – Drogenpräventions- und Hilfsangebote durch MAEX
 
-(in der Regel wöchentlich, Schwerpunkt Alkohol und Spielsucht), Suchtberatungsgespräche und Vermittlung in ambulante oder stationäre Therapien JVA Glasmoor  Bei Bedarf werden Kontakte mit externen Beratungs-
+(in der Regel wöchentlich, Schwerpunkt Alkohol und Spielsucht), Suchtberatungsgespräche und Vermittlung in ambulante oder stationäre Therapien JVA Glasmoor – Bei Bedarf werden Kontakte mit externen Beratungs-
 
 stellen vermittelt.  
 JVA Hahnöfersand  
-  
+–  
 Drogenpräventions- und Hilfsangebote durch AKTI-
 
 VE SUCHTHILFE: Einzelberatungen und Gruppenangebote (Therapievorbereitende Gruppe, Informationsgruppe für arabisch sprechende Gefangene, Kurzinterventionsgruppe; in der Regel wöchentlich) Sozialtherapeutische Anstalt Hamburg
 
-  
+–  
 Interne Drogengruppe  
-  
+–  
 Psychotherapie  
-  
+–  
 Einzelgespräche  
-  
+–  
 Yoga  
-  
+–  
 Drogenpräventions- und Hilfsangebote durch AKTI-
 
 VE SUCHTHILFE, DROBIN und KODROPS (in der Regel wöchentlich) Untersuchungshaftanstalt
 
- Drogenpräventions- und Hilfsangebote durch AKTI-
+– Drogenpräventions- und Hilfsangebote durch AKTI-
 
 VE SUCHTHILFE und MAEX (in der Regel wöchentlich), Suchtberatungsgespräche und Vermittlung in ambulante oder stationäre Therapien
 

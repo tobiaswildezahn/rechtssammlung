@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15700", "21/6213"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65444"
@@ -45,11 +46,11 @@ Ergänzend werden folgende Hinweise gegeben:
 
 Mit dem Begriff des Flüchtlings werden in der öffentlichen Diskussion häufig nur Personengruppen assoziiert, die seit 2015 nach Deutschland beziehungsweise Hamburg migriert sind. Diese dynamische Größe kann in einer bundesweit einheitlich geführten Massenstatistik wie der PKS nicht abgebildet werden. Sie ergibt sich aus dem Ermittlungsvorgang selbst. In der PKS wird bei Erfassung der Daten von Tatverdächtigen (TV) der Aufenthaltsstatus erhoben. Für die Erfassung des Aufenthaltsstatus/Grund des Aufenthalts werden seit dem 1. Januar 2018 die TV mit Flüchtlingsstatus nur noch nach drei Unterkategorien wie folgt erfasst:
 
- Asylbewerber,
+– Asylbewerber,
 
- Schutz- und Asylberechtigte, Kontingentflüchtlinge sowie
+– Schutz- und Asylberechtigte, Kontingentflüchtlinge sowie
 
- Duldung (Abschiebungshindernisse nach Abschluss des Asylverfahrens).
+– Duldung (Abschiebungshindernisse nach Abschluss des Asylverfahrens).
 
 Die Polizei weist darauf hin, dass TV mit dem erfragten Aufenthaltsstatus (siehe oben) zu sehr unterschiedlichen Zeitpunkten migriert sind. Der Migrationszeitpunkt kann bereits lang- bis mittelfristig zurückliegen oder erst kürzlich erfolgt sein. Schlussfolgerungen auf die Anzahl der TV, die erst seit 2015 migrierten, sind nicht möglich. Sie können Teilmenge jeder der drei oben genannten Unterkategorien sein.
 

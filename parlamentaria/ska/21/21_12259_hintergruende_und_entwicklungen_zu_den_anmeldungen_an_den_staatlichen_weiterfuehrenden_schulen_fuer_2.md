@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 20
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/3149", "20/7676", "20/11503", "21/3866", "21/4408", "21/8830", "21/12258", "21/11992", "21/12038", "21/6503", "21/3329"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61533"
@@ -62,7 +63,7 @@ In wie vielen Fällen wird es nach gegenwärtigem Kenntnisstand des Senats/der z
 
 Welche Ursachen sehen Senat beziehungsweise zuständige Fachbehörde nach gegenwärtigem Kenntnisstand für die in Frage 2. genannten Überschreitungen der Organisationsfrequenzen in den Klassenstufen 5 und 7 zum Schuljahresstart 2018/2019 als maßgeblich an? (Bitte jeweils nennen und erläutern.) a. Welche Rolle spielen dabei Übergänge aus den Gymnasien an die Stadtteilschulen nach Klasse 6 und welchen Umfang zeitigen diese? (Bitte erläutern und beziffern.) b. Welche Rolle spielen dabei Übergänge aus Vorbereitungsklassen für Migranten/-innen ins schulische Regelsystem ab Klasse 5? (Bitte erläutern und beziffern.) c. Welche Rolle spielen dabei Schüler/-innen aus Gastschulabkommen mit umliegenden Bundesländern? (Bitte erläutern und beziffern.) d. Welche Rolle spielen dabei Neuschüler/-innen durch Zuzüge nach Hamburg?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die gewünschten Informationen liegen derzeit noch nicht vor. Siehe Drs. 21/12258 und 21/11992.
 
@@ -82,7 +83,7 @@ Wie viele Schüler/-innen wurden nach gegenwärtigem Kenntnisstand des Senats/de
 
 Wie viele Schüler/-innen werden aus einer Internationalen Vorbereitungsklasse (IVK) nach gegenwärtigem Kenntnisstand des Senats/der zuständigen Fachbehörde (Stand 6.3.2018) zum Schuljahresstart 2018/2019 in welchen weiteren Klassenstufen der staatlichen weiterführenden Schulen welcher Schulform angemeldet? (Bitte mit Angabe des betreffenden Jahrgangs und der Schulform nach Sozialindex aufgeschlüsselt in absoluten Zahlen und in Prozent in einer Excel-Tabelle angeben.) a. Wie viele dieser Schüler/-innen wurden dabei aus einer IVK an einem Gymnasium an einer Klasse einer Stadtteilschule angemeldet? (Bitte entsprechend in der Tabelle zu 6. angeben.)
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Übergang der Schülerinnen und Schüler aus IVK in Regelklassen erfolgt unterjährig. Die Erfassung erfolgt nicht im Rahmen der Anmelderunde, sondern für alle Klassen zum 1.8. und 1.2 eines Jahres. Siehe Drs. 21/12038, 21/6503 und 21/3329.
 

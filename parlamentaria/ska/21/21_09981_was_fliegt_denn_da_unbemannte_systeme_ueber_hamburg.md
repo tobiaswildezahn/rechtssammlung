@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58804"
@@ -47,7 +48,7 @@ Wo kommen im Hamburger Hafen oder auf Wasserstraßen der Freien und Hansestadt u
 
 Wie viele dieser unbemannten maritimen Systeme sind in Hamburg im Einsatz?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es kommen keine unbemannten Systeme auf oder unter Wasser zum Einsatz.
 

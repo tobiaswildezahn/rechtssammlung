@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54553"
@@ -162,9 +163,9 @@ a. Inwieweit werden hierauf – ohne vorheriges Erreichen der Regelaltersgrenze 
 
 Versorgungsabschläge gemäß § 16 Absatz 2 HmbBeamtVG werden vorgenommen, wenn die Beamtin oder der Beamte
 
- aufgrund eines eigenen Antrags gemäß § 36 HmbBG oder
+– aufgrund eines eigenen Antrags gemäß § 36 HmbBG oder
 
- wegen Dienstunfähigkeit, die nicht auf einem Dienstunfall beruht,
+– wegen Dienstunfähigkeit, die nicht auf einem Dienstunfall beruht,
 
 vorzeitig in den (dauernden) Ruhestand versetzt wird.
 

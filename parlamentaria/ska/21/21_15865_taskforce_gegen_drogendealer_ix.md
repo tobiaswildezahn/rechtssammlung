@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12533"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65354"
@@ -195,7 +196,7 @@ Wie viele Personen wurden im Zeitraum vom 01.08.2018 bis zum
 Gegen wie viele Personen wurde im Zeitraum vom 01.08.2018 bis zum
 31.12.2018 ein Haftbefehl erlassen? Aus welchen Haftgründen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Anzahl der einem Haftrichter vorgeführten Personen und die Anzahl der erlassenen Haftbefehle sind der nachstehenden Tabelle zu entnehmen:
 

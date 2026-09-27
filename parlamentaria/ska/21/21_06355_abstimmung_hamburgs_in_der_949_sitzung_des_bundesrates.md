@@ -10,12 +10,13 @@ urheber: ["Dr. Alexander Wolf", "Prof. Dr. Jörn Kruse", "Dr. Bernd Baumann", "D
 fraktionen: ["AfD"]
 vorgang: 50222
 seiten: 10
-fragen: 0
+fragen: 1
 einzelfragen: 0
-antwortbloecke: 0
+antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6088"]
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54874"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/54874/21_06355_abstimmung_hamburgs_in_der_949_sitzung_des_bundesrates"
 abgerufen: "2026-09-26"
@@ -27,13 +28,15 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Dr. Alexander Wolf, Prof. Dr. Jörn Kruse, Dr. Bernd Baumann, Dirk Nockemann, Dr. Joachim Körner, Andrea Oelschlaeger, Detlef Ehlebracht (AfD) vom 13.10.16 und Antwort des Senats · Drucksache vom 21.10.2016  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/54874) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/54874/21_06355_abstimmung_hamburgs_in_der_949_sitzung_des_bundesrates)
 
-## Volltext
-
-Abstimmung Hamburgs in der 949. Sitzung des Bundesrates
+## Einleitung für die Fragen
 
 Am 14.10.2016 findet die 949. Sitzung des Deutschen Bundesrates statt. Wir bitten um Beantwortung unserer Anfrage kurzfristig nach der Bundesratssitzung. Angesichts einer schwer lesbaren Beantwortung unserer Anfrage anlässlich der letztes Bundesratssitzung vom 23.09.2016 (Drs. 21/6088) möchten wir als Anregung auf die Veröffentlichung der Ergebnisse der Bundesratssitzungen der Landesvertretung Sachsen-Anhalts verweisen.
 
 Vor diesem Hintergrund fragen wir den Senat:
+
+## Fragen und Antworten
+
+### Frage 1
 
 Wie hat der Senat zu folgenden Tagesordnungspunkten abgestimmt:
 
@@ -133,6 +136,8 @@ COM(2016) 551 final; Ratsdok. 11774/16
 
 47. Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates über die Bedingungen für die Einreise und den Aufenthalt von Drittstaatsangehörigen zur Ausübung einer umfassende Qualifikationen voraussetzenden Beschäftigung
 
+#### Antwort zu Frage 1
+
 Über die wichtigsten Ergebnisse der Bundesratssitzung sind die Fraktionsvorsitzenden und Parlamentarischen Geschäftsführer der in der Bürgerschaft vertretenen Parteien am 14. Oktober 2016, wie üblich direkt im Anschluss an die Sitzung, am Freitagnachmittag informiert worden. Die entsprechende Information ist überdies im Transparenzportal verfügbar.
 
 Die Grunddrucksachen und Empfehlungsdrucksachen (sogenannte Strichdrucksachen), die gestellten Plenaranträge sowie die gefassten Beschlüsse zu den einzelnen Vorlagen sind auf der Internetseite des Bundesrates www.bundesrat.de zu jedem einzelnen Tagesordnungspunkt abrufbar. Zusätzlich gibt es eine umfangreiche Pressemitteilung der Landesvertretung mit den zentralen Themen, die im Internet unter http://www.hamburg.de/pressearchiv-fhh/7147990/2016-10-13-bundesratssitzung-949/ zu finden ist.
@@ -157,7 +162,8 @@ Drs. 525/16
 
 Drs. 526/16
 
-11. a) Gesetz zur Änderung bewachungsrechtlicher Vorschriften
+11.
+a) Gesetz zur Änderung bewachungsrechtlicher Vorschriften
 
 Drs. 529/16
 
@@ -177,11 +183,12 @@ III.
 
 Zu den Vorlagen die Stellungnahmen abzugeben oder ihnen nach Maßgabe der Empfehlungen zuzustimmen, die in der jeweils zitierten Empfehlungsdrucksache wiedergegeben sind:
 
-11. b) Verordnung zur Änderung der Bewachungsverordnung
+11.
+b) Verordnung zur Änderung der Bewachungsverordnung
 
 Drs. 449/16
 
-Drs. 449/1/161
+Drs. 449/1/16
 
 27. Bericht über die Ergebnisse der Modellvorhaben zur Einführung einer Modellklausel in die Berufsgesetze der Hebammen, Logopäden, Physiotherapeuten und Ergotherapeuten
 
@@ -189,25 +196,36 @@ Drs. 479/16
 
 Drs. 479/1/16
 
-28. Gemeinsame Mitteilung an das Europäische Parlament und den Rat: Künftige Strategie der EU für internationale Kulturbeziehungen JOIN(2016) 29 final
+28.  
+Gemeinsame Mitteilung an das Europäische Parlament und den Rat:  
+Künftige Strategie der EU für internationale Kulturbeziehungen  
+JOIN(2016) 29 final
 
 Drs. 382/16
 
 Drs. 382/1/16
 
-30. Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen: Aktionsplan für die Integration von Drittstaatsangehörigen COM(2016) 377 final
+30.  
+Mitteilung der Kommission an das Europäische Parlament, den Rat, den  
+Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der  
+Regionen:  
+Aktionsplan für die Integration von Drittstaatsangehörigen  
+COM(2016) 377 final
 
 Drs. 380/16
 
-Drs. 380/1/162
+Drs. 380/1/16
 
-32. Vorschlag für einen Beschluss des Europäischen Parlaments und des Rates über ein Europäisches Jahr des Kulturerbes COM(2016) 543 final
+32.  
+Vorschlag für einen Beschluss des Europäischen Parlaments und des Rates  
+über ein Europäisches Jahr des Kulturerbes  
+COM(2016) 543 final
 
 Drs. 481/16
 
 zu Drs. 481/16
 
-Drs. 481/1/163
+Drs. 481/1/16
 
 33. Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Schaffung eines gemeinsamen Rahmens für europäische Statistiken über Personen und Haushalte auf der Grundlage von Einzelpersonendaten aus Stichprobenerhebungen COM(2016) 551 final; Ratsdok. 11774/16
 
@@ -215,9 +233,7 @@ Drs. 478/16
 
 zu Drs. 478/16
 
-Drs. 478/1/164
-
-1-Wi und In empfehlen Zustimmung ohne Änderungen. 2-AIS, FJ, G und In empfehlen Kenntnisnahme. 3-Wi empfiehlt Kenntnisnahme. 4-AIS, Fz, G und Wi empfehlen Kenntnisnahme.
+Drs. 478/1/16
 
 IV.
 
@@ -255,7 +271,7 @@ Der Verordnung zuzustimmen und die in der Empfehlungsdrucksache unter Buchstabe 
 
 Drs. 470/16
 
-Drs. 470/1/165
+Drs. 470/1/16
 
 VI.
 
@@ -270,8 +286,6 @@ Drs. 472/16
 Drs. 511/16
 
 zu Drs. 511/16
-
-5-U und Wi empfehlen Zustimmung und keine Entschließung.
 
 VII.
 
@@ -295,7 +309,10 @@ Zu den übrigen TOPs der 949. Sitzung des Bundesrates hat der Senat wie folgt ab
 
 In der Plenarsitzung werden bei einigen Tagesordnungspunkten nicht alle Empfehlungen einzeln abgestimmt, sondern es werden sogenannte Sammelabstimmungen durchgeführt. In die Sammelabstimmung werden diejenigen Empfehlungen aufgenommen, die in den Ausschussberatungen weniger als fünf Gegenstimmen erhalten haben. Auch hier können fünf Länder beziehungsweise aus politischen Gründen auch ein einzelnes Land eine Empfehlungen wieder aus der Sammelabstimmung herausnehmen lassen. Zudem wird über Empfehlungen nicht mehr abgestimmt, wenn sie im Ausschlussverhältnis zu beschlossenen Empfehlungen stehen, die weitergehend sind.
 
-5. Gesetz zur Anpassung des Erbschaftsteuer- und Schenkungsteuergesetzes an die Rechtsprechung des Bundesverfassungsgerichts Drs. 555/16
+5.  
+Gesetz zur Anpassung des Erbschaftsteuer- und Schenkungsteuergesetzes  
+an die Rechtsprechung des Bundesverfassungsgerichts  
+Drs. 555/16
 
 Zustimmung
 
@@ -311,7 +328,10 @@ Drs. 505/1/16
 
 Einbringung wie Ziffer 1, Beauftragtenbestellung wie Ziffer 2
 
-14. Entschließung des Bunderates „Freiwilligendienste stärker unterstützen und anerkennen“ Antrag des Landes Nordrhein-Westfalen
+14.  
+Entschließung des Bunderates „Freiwilligendienste stärker unterstützen und  
+anerkennen“  
+Antrag des Landes Nordrhein-Westfalen
 
 Drs. 516/16
 
@@ -325,7 +345,10 @@ Drs. 517/16
 
 Entschließung fassen
 
-17. Entwurf eines Gesetzes zur Stärkung der Heil- und Hilfsmittelversorgung (Heil- und Hilfsmittelversorgungsgesetz - HHVG) Drs. 490/16
+17.  
+Entwurf eines Gesetzes zur Stärkung der Heil- und Hilfsmittelversorgung  
+(Heil- und Hilfsmittelversorgungsgesetz - HHVG)  
+Drs. 490/16
 
 Drs. 490/1/16
 
@@ -395,7 +418,10 @@ Drs. 386/1/16
 
 Stellungnahme wie Ziffern 1, 3, 4, 7, 8, 10-12, 16 Tiret 2-4; Enthaltung zu Ziffern 9, 13-15, 16 Tiret 1; Enthaltung zu Ziffer 6;
 
-34. Verordnung zur Umsetzung der Richtlinie 2013/35/EU und zur Änderung von Arbeitsschutzverordnungen Drs. 469/16
+34.  
+Verordnung zur Umsetzung der Richtlinie 2013/35/EU und zur Änderung von  
+Arbeitsschutzverordnungen  
+Drs. 469/16
 
 Drs. 469/1/16
 

@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 36
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5453", "21/4940", "21/4327", "21/3070"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54114"
@@ -360,7 +361,7 @@ Wie viele Bewohner von EA in Hamburg waren im Juli 2016 bereits über den gesetz
 
 In Drs. 21/5453 legt der Senat dar, dass das Verfahren zur Ermittlung der Anzahl der Überresidenten geändert wird, worin bestehen die Änderungen im Einzelnen? Welche Auswirkungen hat dieses neue Verfahren auf die bisher ermittelten Zahlen an Überresidenten und worin besteht der Unterschied zum bisherigen Ermittlungsverfahren im Detail? Zu wann kann der Senat belastbare Zahlen auf der Basis dieses neuen Ermittlungsverfahrens bereitstellen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Bisher erfolgte die Erfassung und Auswertung der Anzahl der Überresidenten in einer gesonderten Access-Datenbank parallel zum Belegungssystem von f & w fördern und wohnen AöR (f & w) sowie zu dem im Aufbau befindlichen Quartiersmanagement(QMM)-System. Dies erforderte Datenübertragungen und führte zu Zeitverzögerungen bei der Datenanpassung. Die Erfassung von Überresidenten wurde daher auf eine Auswertungsmöglichkeit in QMM umgestellt, in welches das Datum der Erstankunft eingepflegt wurde und das im Rahmen des Belegungsmanagements für die EA ständig aktuell gehalten werden muss. Nach Einpflegen der entsprechenden Parameter und Abgleich der Systeme wurde die Access-Datenbank, die nur zur Feststellung der Aufenthaltsdauer bestand, eingestellt. Durch die Zusammenführung der Daten können diese nunmehr ausschließlich auf Basis des QMM-Systems ausgewertet und somit eine redundante Datenerfassung vermieden werden. Zur Anzahl der Überresidenten siehe Anlage 2 mit Stichtag 25. August 2016. Aufgrund der Verfahrensumstellung ist eine nachträgliche Auswertung nicht möglich.
 

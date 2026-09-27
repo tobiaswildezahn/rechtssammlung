@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64564"
@@ -53,7 +54,7 @@ Wie lange hat die Entwicklung des neuen, am 13.11.2018 vorgestellten SIS gedauer
 
 Was war der Grund für die konzeptionelle Überarbeitung? a. Wie ist das SIS im Verhältnis zu anderen Informationsangeboten (Tag der offenen Tür und andere Formate) gewichtet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -96,7 +97,7 @@ Wer hat unter Zuhilfenahme welcher Mittel und Methoden die Daten über die Schul
 
 Wie pflegt der Senat/die zuständige Behörde die dem SIS zugrunde liegenden Daten?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Alle Daten werden vom Data Warehouse der für Bildung zuständigen Behörde regelhaft für SISy bereitgestellt. Basis ist die jährliche Schuljahreserhebung (zum Beispiel Schülerzahlen, Zügigkeit in Klasse 1 und Klasse 5), die jährlich an den Schulen durchgeführten Umfragen zur Aktualisierung der Broschüren „Den richtigen Weg wählen“ und „Hamburgs Grundschulen“, die Auswertung zu Buchungen GBS/GTS (zum Beispiel Ganztagsbetreuung Klasse 1 – 4). Informationen wie der Schulname oder die Adresse entstammen dem zentralen Stammdatenmanagement der für Bildung zuständigen Behörde.
 

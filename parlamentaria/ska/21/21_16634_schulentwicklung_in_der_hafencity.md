@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16467"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66174"
@@ -57,7 +58,7 @@ Wie ist der aktuelle Stand der Zeitplanung für die Schulentwicklung im Bereich 
 
 Welche Aussagen trifft der Senat beziehungsweise die zuständige Behörde (BSB) vor dem Hintergrund der aktuellen Zahlen für die zu erwartenden Bedarfe/Zahlen der Schülerinnen und Schüler mit Blick auf diese Stadtgebiete für die nächsten fünf/die nächsten zehn Jahre?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die für Bildung zuständige Behörde nimmt derzeit alle Regionen und alle Schulstandorte neu in den Blick, um darauf aufbauend einen Referentenentwurf für einen fortgeschriebenen Schulentwicklungsplan zu entwerfen, siehe Drs. 21/16467. Insofern sind die Überlegungen der für Bildung zuständigen Behörde noch nicht abgeschlossen.
 
@@ -69,7 +70,7 @@ Wann genau eröffnet die Grundschule Baakenhafen mit wie vielen geplanten Klasse
 
 Falls ja, von welchen Bedarfen an Schulplätzen für diese ausgelagerten ersten Jahrgänge geht die BSB für einen solchen Start im Baakenhafen aus?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Eröffnung der Grundschule am Baakenhafen ist für das Schuljahr 2021/2022 vorgesehen. Wie viele Klassen/Züge eingerichtet werden, ist von den Anmeldezahlen zu diesem Zeitpunkt abhängig. Es ist weiterhin eine Option, die ersten Klassen des Schulcampus HafenCity temporär in der Schule Am Baakenhafen zu beschulen. Auch hier ist der Umfang von den Anmeldezahlen zum Zeitpunkt der Einrichtung abhängig.
 

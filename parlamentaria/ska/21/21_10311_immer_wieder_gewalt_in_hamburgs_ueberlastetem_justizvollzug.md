@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4309", "21/6092", "21/6562", "21/7772", "21/9876", "21/8178"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59155"
@@ -55,27 +56,27 @@ Auch unterliegt der Vollzug ständigen Veränderungen aufgrund nur schwer voraus
 
 Die zuständige Behörde arbeitet kontinuierlich mit Nachdruck an der ständigen Weiterentwicklung der Rahmenbedingungen im Justizvollzug:
 
- Die Personalbedarfsplanung wird jährlich fortgeschrieben. Elementarer Bestandteil
+– Die Personalbedarfsplanung wird jährlich fortgeschrieben. Elementarer Bestandteil
 
 der mittel- und langfristigen Verbesserung der Situation ist die kontinuierliche Ausbildung von bis zu 100 Anwärterinnen und Anwärtern im Allgemeinen Vollzugsdienst (AVD) pro Jahr. Die Ausbildungsanstrengungen wurden im Jahr 2013 wieder aufgenommen und werden seit 2015 deutlich verstärkt. Insgesamt werden seit dem Jahr 2017 155 Auszubildende in acht Lehrgängen gleichzeitig ausgebildet.
 
- Um eine hinreichende Anzahl und Qualität von Bewerbungen für die gesteigerten
+– Um eine hinreichende Anzahl und Qualität von Bewerbungen für die gesteigerten
 
 Ausbildungskapazitäten im AVD zu erhalten, werden die Rekrutierungsmaßnahmen überprüft.
 
- Die Planungen zur Neustrukturierungen des Justizvollzuges sind Bestandteil der
+– Die Planungen zur Neustrukturierungen des Justizvollzuges sind Bestandteil der
 
 ergriffenen Maßnahmen zur Verbesserung der Situation im Justizvollzug. Im Rahmen des breit angelegten Prüfungsprozesses im Projekt Justizvollzug 2020 hat sich herauskristallisiert, dass es zwei gute Lösungen gibt, wie der Hamburger Justizvollzug zukünftig aufgestellt werden kann.
 
- Zusätzlich werden die Sanierung und der Ausbau des offenen Vollzuges in der
+– Zusätzlich werden die Sanierung und der Ausbau des offenen Vollzuges in der
 
 Justizvollzugsanstalt (JVA) Glasmoor vorangetrieben.
 
- Um auf zukünftige Belegungsschwankungen im geschlossenen Männervollzug
+– Um auf zukünftige Belegungsschwankungen im geschlossenen Männervollzug
 
 reagieren zu können, ist die Sanierung des D-Flügels der JVA Fuhlsbüttel erforderlich. Hierzu wird derzeit eine Kostenberechnung erstellt.
 
- Nach Abschluss der Sanierung im März 2018 wird die Wiederinbetriebnahme des
+– Nach Abschluss der Sanierung im März 2018 wird die Wiederinbetriebnahme des
 
 B-Flügels der UHA erfolgen.
 

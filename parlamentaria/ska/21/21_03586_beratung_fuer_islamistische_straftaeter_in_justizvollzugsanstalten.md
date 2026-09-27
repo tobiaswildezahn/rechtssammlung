@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3069"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51942"
@@ -97,7 +98,7 @@ Werden die Beschuldigten während der Verfahren mit Jugendgerichtshilfe und Juge
 
 Nach welchen Kriterien werden die beratenden Personen ausgesucht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Jugendgerichtshilfe (JGH) und die Jugendbewährungshilfe (JBH) wirken im Rahmen ihrer Zuständigkeiten im Jugendstrafverfahren mit. Die Jugendgerichtshilfe ist gegenüber allen sieben Beschuldigten der noch nicht abgeschlossenen Ermittlungsund Strafverfahren tätig geworden. Die Jugendbewährungshilfe ist nicht in laufenden Ermittlungs- oder Strafverfahren tätig, sondern betreut Verurteilte. Die Betreuung und Beratung der Jugendlichen beziehungsweise Heranwachsenden richtet sich immer nach den aktuellen Problemlagen des Betroffenen. JGH und JBH wurden über Fortbildungen beziehungsweise Informationsveranstaltungen für das Thema sensibilisiert und über die Beratungsangebote/Interventionsmöglichkeiten des Beratungsnetzwerkes „Prävention und Deradikalisierung“ aufgeklärt. So sind beide Dienste in der Lage, das Problem der Radikalisierung in der Betreuung der Jugendlichen beziehungsweise Heranwachsenden zu berücksichtigen.
 

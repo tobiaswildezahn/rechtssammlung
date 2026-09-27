@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5352", "21/6559"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55505"
@@ -144,11 +145,11 @@ Viele Arbeitgeber profitieren von den sogenannten Tagelöhnern, die aus Not weit
 
 Die zuständige Behörde hat zahlreiche Aktivitäten ergriffen, um die Situation der Betroffenen zu verbessern. Für Arbeitnehmerinnen und Arbeitnehmer, die im Rahmen der Personen- und Arbeitnehmerfreizügigkeit aus anderen EU-Mitgliedstaaten und insbesondere aus den ost- und südosteuropäischen Mitgliedstaaten nach Hamburg kommen, stehen in Hamburg zwei Anlaufstellen zur Verfügung, die im Rahmen des Operationellen Programms der Freien und Hansestadt Hamburg für die Umsetzung des Europäischen Sozialfonds (ESF-OP) in der Förderperiode 2014 – 2020 gefördert werden:
 
- Servicestelle Arbeitnehmerfreizügigkeit:
+– Servicestelle Arbeitnehmerfreizügigkeit:
 
 http://www.esf-hamburg.de/projekte-neu/4635508/beratungsstellearbeitnehmerfreizuegigkeit/
 
- S-O-S – Süd-Osteuropa Servicestelle:
+– S-O-S – Süd-Osteuropa Servicestelle:
 
 http://www.esf-hamburg.de/projekte-neu/4635772/sos-servicestelle/
 
@@ -158,19 +159,19 @@ http://www.esf-hamburg.de/contentblob/4647784/data/esf-projektbroschuere.pdf (Se
 
 Zur Bekämpfung von Armut und sozialer Ausgrenzung werden darüber hinaus mit Mitteln des Europäischen Hilfsfonds für die am stärksten benachteiligten Personen (EHAP) weitere Beratungsangebote gefördert, die sich speziell an zugewanderte Personen aus osteuropäischen EU-Ländern richten. Hierzu zählen:
 
- BulRom (CASA blanca), Information und Orientierung für marginalisierte Migran-
+– BulRom (CASA blanca), Information und Orientierung für marginalisierte Migran-
 
 tinnen und Migranten aus Bulgarien und Rumänien,
 
- ABB-SERVICE-Team – Aufsuchende Beratung und Begleitung für besonders
+– ABB-SERVICE-Team – Aufsuchende Beratung und Begleitung für besonders
 
 benachteiligte EU-Zuwanderer (GM Jugendhilfe GmbH),
 
- Perspektiven in Europa schaffen – Ein Modellprojekt für neuzugewanderte Unions-
+– Perspektiven in Europa schaffen – Ein Modellprojekt für neuzugewanderte Unions-
 
 bürger/-innen in prekären Lebenssituationen in Hamburg (Diakonisches Werk Hamburg),
 
- Step.in – beratung mobil (verikom, IKB, BI Wilhelmsburg).
+– Step.in – beratung mobil (verikom, IKB, BI Wilhelmsburg).
 
 Weitere Information hierzu siehe: http://t.hh.de/4127910.
 

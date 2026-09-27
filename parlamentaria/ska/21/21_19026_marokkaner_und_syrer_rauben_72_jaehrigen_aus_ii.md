@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12710"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68709"
@@ -69,7 +70,7 @@ Wenn ja, wie wird aus aufenthaltsrechtlicher Hinsicht mit diesen Männern verfah
 
 Steht eine Abschiebung dieser Personen bevor?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Eine Person wurde im Oktober 2018 im Rahmen einer Botschaftsvorführung als algerischer Staatsangehöriger identifiziert. Aufgrund der strafrechtlichen Verurteilung verbüßt der Betroffene derzeit seine Freiheitsstrafe. Frühestens nach Ablauf der Hälfte der Haftstrafe könnte nach § 456a Strafprozessordnung zum Zwecke der Abschiebung von der weiteren Vollstreckung der Haftstrafe abgesehen werden. Der Erlass einer Ausweisungsverfügung ist derzeit in der Prüfung.
 

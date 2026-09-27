@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 18
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11206", "21/7633", "21/15103", "21/14563", "21/14579"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65055"
@@ -124,7 +125,7 @@ Zur Verhandlung und Umsetzung des Digitalpaktes: Würde der Senat eine Verfassun
 
 Sollte der Paragraf Bestand haben, dass die Länder bei künftigen Bildungsprogrammen eine Kofinanzierung von 50 Prozent leisten müssten: Würde der Senat dieses mittragen? Auf welche Summe schätzt der Senat die erforderlichen Kofinanzierungsmittel? Sind entsprechende Mittel im Haushalt verankert? Wenn ja, wo konkret und in welcher Höhe? Wenn nein, wie geht der Senat mit der erforderlichen Kofinanzierung um?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 1. Das Ergebnis der Verhandlungen im Vermittlungsausschuss ist abzuwarten.
 

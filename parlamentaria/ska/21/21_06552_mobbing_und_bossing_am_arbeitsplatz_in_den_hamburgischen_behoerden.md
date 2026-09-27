@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7428", "21/4142", "19/4755"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55086"
@@ -77,7 +78,7 @@ Wie hat sich die Zahl der Arbeitsunfähigkeiten wegen Mobbing oder Bossing am Ar
 
 Wie hat sich die Zahl der Arbeitsunfähigkeiten aufgrund psychischer Probleme am Arbeitsplatz in den letzten Jahren seit 2010 bis aktuell entwickelt? Bitte tabellarisch nach Frage 1. (a. – c.) darstellen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/4142.
 

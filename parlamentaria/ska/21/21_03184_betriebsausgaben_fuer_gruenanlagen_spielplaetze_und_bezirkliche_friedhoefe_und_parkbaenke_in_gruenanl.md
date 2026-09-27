@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11722"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51517"
@@ -57,7 +58,7 @@ Welche weiteren vergleichbaren Grünanlagen gibt es in Hamburg und warum wurden 
 
 Was spricht aus Sicht des Senats beziehungsweise der zuständigen Behörden dagegen beziehungsweise dafür, für Hamburgs bekanntesten Park, den Hamburger Stadtpark, ebenfalls einen Einzelansatz einzurichten?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die zuständige Fachbehörde sieht, gemessen an den Kriterien der in Antwort zu 1. genannten Anlagen, keine vergleichbaren Grünanlagen, die hinsichtlich ihrer stadtgeschichtlichen Voraussetzungen, ihres Entstehungskontextes wie den Gartenbauausstellungen sowie hinsichtlich der städtebaulichen Bedingungen Einzelansätze begründen können.
 

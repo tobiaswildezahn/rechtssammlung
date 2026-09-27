@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/438"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48605"
@@ -88,7 +89,7 @@ Wie wird der Senat künftig sicherstellen, dass mögliche Verstöße bei Auswahl
 
 Welche weiteren Konsequenzen zieht der Senat aus den Vorgängen im laufenden Auswahlverfahren zur Nachfolge des HOCHBAHN-Vorstandsvorsitzes?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der Senat wird weiterhin auf die Einhaltung der aufgestellten Verfahrensregeln achten. Darüber hinaus hat sich der Senat damit nicht befasst.
 

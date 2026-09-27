@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8334", "21/11634"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62324"
@@ -107,7 +108,7 @@ Wie haben sich die Zahlen der Neuzugänge von 2017 bis zum Mai 2018 in den einze
 
 Wie viele anhängige Verfahren lagen im Jahr 2017 bis Mai 2018 in den einzelnen Kammern bezogen auf a. Klagen in allgemeinen Sachen, b. Klagen in Asylsachen, c. Verfahren im einstweiligen Rechtsschutz in allgemeinen Sachen, d. Verfahren im asylrechtlichen Eilverfahren vor? Bitte nach der jeweiligen Kammer insbesondere der Dublin- Verfahren darstellen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der zuständigen Behörde liegen die Ergebnisse der Justizstatistik nicht kammerbezogen vor. Diese Regelung ist mit dem Aufbau der Justizstatistik bewusst vorgesehen worden, damit die Landesjustizverwaltung kein leistungsbezogenes Controlling einzelner Richterinnen und Richter sowie Spruchkörper durchführen kann.
 
@@ -230,7 +231,7 @@ Welche krankheitsbedingte Fehlzeitenquote ist für das Verwaltungsgericht und da
 
 Wie hoch ist die krankheitsbedingte Fehlzeitenquote für Justizangestellte und Servicekräfte am Verwaltungsgericht? Wie bewertet der Senat beziehungsweise die zuständige Behörde die Belastungssituation am Verwaltungsgericht anhand der gestiegenen Komplexität der gerichtlichen Verfahren?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Oberverwaltungsgericht  
 2017  

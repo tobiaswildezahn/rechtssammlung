@@ -14,6 +14,7 @@ fragen: 26
 einzelfragen: 28
 antwortbloecke: 24
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12826", "21/12280", "21/12782", "21/3111", "21/13125"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62696"
@@ -43,7 +44,7 @@ die Rechte älterer, behinderter oder auf Betreuung angewiesener Menschen als Nu
 
 geeignete Rahmenbedingungen für die Erhaltung und Förderung der Gesundheit, Mobilität und Selbstbestimmung der Nutzerinnen und Nutzer zu schaffen. Nun gab Gesundheitssenatorin, Cornelia Prüfer-Storcks (SPD) in einem Interview mit dem „Hamburger Abendblatt“ vom 23. Mai 2018 zu, dass in den vergangenen Jahren die Beschwerden über Pflegeeinrichtungen deutlich zugenommen hätten und daher seien auch die anlassbezogenen Prüfungen gestiegen. Bei 85 Prozent der 474 Prüfungen im Jahr 2017 hätte es konkrete Beschwerden von Heimbewohnern oder ihren Angehörigen gegeben. In fünf Fällen sei sogar die eine Schließung oder Teilschließung von Stationen durch die Wohn-Pflege-Aufsicht angeordnet worden. Daraus lässt sich schließen, dass der Senat genaue Kenntnisse über die Zustände in Pflegeheimen und über die ambulanten Pflegedienste hat. Vor diesem Hintergrund fragen wir den Senat:
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Auf der Pressekonferenz am 22. Mai 2018 im Hamburger Rathaus legte die Gesundheitssenatorin dar, dass im Jahr 2017 durch die Wohn-Pflege-Aufsicht insgesamt 474 Prüfungen durchgeführt wurden. Diese Zahl bezieht sich auf alle Wohn- und Betreuungsformen, die dem Hamburgischen Wohn- und Betreuungsqualitätsgesetz (HmbWBG) unterliegen. Hierzu zählen gemäß § 2 HmbWBG Servicewohnanlagen, Wohngemeinschaften, Wohneinrichtungen (insbesondere vollstationäre Pflegeeinrichtungen und Einrichtungen der Behindertenhilfe), Gasteinrichtungen (Hospize, Tages-, Nacht- und Kurzzeitpflege) und Ambulante Dienste (Pflegedienste und Dienste der
 
@@ -263,7 +264,7 @@ In wie vielen und welchen Pflegeheimen wird durch einen dort angestellten Koch i
 
 Wie viele und welche Pflegeheime werden mit vorgekochten Menüs beliefert? Bitte listen Sie diese einzeln auf.
 
-#### Antwort zu Fragen 24 bis 25
+#### Antwort zu Fragen 24 und 25
 
 Die Beschäftigung von Köchen wird weder von den Kostenträgern noch von der Wohn-Pflege-Aufsicht statistisch erhoben. Diese Frage kann daher nur auf Grundlage einer freiwilligen Befragung der 152 vollstationären Pflegeeinrichtungen erfolgen. Eine solche Befragung ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

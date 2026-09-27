@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 3
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10610", "20/14125", "21/1974"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59756"
@@ -55,6 +56,6 @@ Wann und wo soll das oben genannte Bürgerforum stattfinden?
 
 Wie wird der Senat beziehungsweise die zuständige Behörde auf das Bürgerforum aufmerksam machen? Wird der Senat beziehungsweise die zuständige Behörde beispielsweise auf eine Plakatierung und/oder Flyer an betroffene Haushalte zurückgreifen oder auf welche sonstigen Informationsmittel und -kanäle soll zurückgegriffen werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es gilt weiterhin die Aussage der Drs. 21/10610. Im Übrigen siehe Vorbemerkung.

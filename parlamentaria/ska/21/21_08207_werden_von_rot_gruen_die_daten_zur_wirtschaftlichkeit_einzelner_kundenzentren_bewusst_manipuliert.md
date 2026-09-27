@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 52054
 seiten: 4
 fragen: 10
-einzelfragen: 19
-antwortbloecke: 10
+einzelfragen: 23
+antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7456", "21/7805", "21/4682", "21/3725", "21/3824", "21/4213", "21/4506"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56905"
@@ -115,17 +116,28 @@ Siehe Drs. 21/7456.
 
 In der oben genannten Niederschrift des Regionalausschusses wird der Bezirksamtsleiter dahin gehend zitiert, dass die weitere Entwicklung des Kundenzentrums Walddörfer von einer „Entscheidung auf Landesebene“ abhängt, die voraussichtlich im 1. Quartal vorliege.
 10.1 Welche Entscheidung auf Landesebene ist damit genau gemeint?
-10.2. Liegt diese Entscheidung mittlerweile vor? Wenn ja, welche Auswirkungen im Einzelnen hat diese Entscheidung aus welchen Gründen für das Kundenzentrum Walddörfer? Wenn nein, wann wird mit einer Entscheidung gerechnet?
 
-#### Antwort zu Frage 10
+### Frage 10.2
+
+Liegt diese Entscheidung mittlerweile vor? Wenn ja, welche Auswirkungen im Einzelnen hat diese Entscheidung aus welchen Gründen für das Kundenzentrum Walddörfer? Wenn nein, wann wird mit einer Entscheidung gerechnet?
+
+#### Antwort zu Fragen 10 und 10.2
 
 Siehe Drs. 21/7805. Die Planungen und Überlegungen zur Umsetzung des Bürgerschaftlichen Ersuchens sind nicht abgeschlossen.
 
-10.3. Seit wann ist dem Bezirksamtsleiter bekannt, dass eine Entscheidung auf Landesebene ansteht? Wann und in welcher Form war die Leitung des Bezirksamtes Wandsbek an vorbereitenden Überlegungen für diese Entscheidung beteiligt?
+### Frage 10.3
+
+Seit wann ist dem Bezirksamtsleiter bekannt, dass eine Entscheidung auf Landesebene ansteht? Wann und in welcher Form war die Leitung des Bezirksamtes Wandsbek an vorbereitenden Überlegungen für diese Entscheidung beteiligt?
+
+#### Antwort zu Frage 10.3
 
 Die Bezirksamtsleitungen haben mit der Finanzbehörde nach Überprüfung der betrieblichen Situation zuletzt Ende 2016 weitere Verbesserungen im Bereich der Kundenzentren vereinbart. Im Übrigen siehe Drs. 21/4682, 21/3725, 21/3824, 21/4213, 21/4506 und 6520.
 
-10.4. Warum ist die Zukunft des Kundenzentrums Walddörfer als bezirkliche Dienststelle von einer Entscheidung auf Landesebene abhängig? Sind Weisungen des Senats erfolgt oder geplant, die die Standortfrage des Kundenzentrums Walddörfer betreffen?
+### Frage 10.4
+
+Warum ist die Zukunft des Kundenzentrums Walddörfer als bezirkliche Dienststelle von einer Entscheidung auf Landesebene abhängig? Sind Weisungen des Senats erfolgt oder geplant, die die Standortfrage des Kundenzentrums Walddörfer betreffen?
+
+#### Antwort zu Frage 10.4
 
 Siehe Antwort zu 10. bis 10.2.
 

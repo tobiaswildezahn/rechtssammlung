@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14780", "21/14939", "21/14886", "21/14998"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66803"
@@ -107,6 +108,6 @@ In den letzten Anfragen zum Landstrom hat der Senat auf Testbetriebe bei Kreuzfa
 
 Gibt es technische Gründe beziehungsweise Bedingungen, wegen derer die Versorgung der Kreuzfahrtschiffe mit Landstrom nicht gewährleistet oder nur beschränkt geleistet werden kann (zum Beispiel Versorgung bei besonderen Tidekonstellationen)?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Es erfolgten Testbetriebe in den Jahren 2017 und 2018 auf der MS „Europa 2“. Vor Versorgung eines Schiffes an der Landstromanlage müssen unterschiedliche Tests durchgeführt und Einstellungen vorgenommen werden. Eine erfolgreiche Testphase endet in der Regel mit einer sogenannten Präqualifizierung. Bei der Frage, ob Landstrom durch Schiffe mit Präqualifizierung genutzt wird, handelt es sich grundsätzlich um eine Unternehmensentscheidung, welche ausschließlich die Reederei trifft. Darüber hinaus gibt es operative und nautische Bedingungen, die erfüllt sein müssen. Im Übrigen siehe Drs. 21/14998 und 21/14780.

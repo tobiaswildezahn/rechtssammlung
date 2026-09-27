@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66779"
@@ -66,12 +67,24 @@ Siehe Vorbemerkung.
 ### Frage 4
 
 Laut einer Pressemitteilung des Käufers der BeNEX-Anteile vom 2. April 2019 wird die Kaufpreiszahlung gestundet und voraussichtlich erst bis 2026 gezahlt.
-4.1. Ist es zutreffend, dass der Kaufpreis nicht sofort gezahlt wird?
-4.2. Welche Regelungen wurden zur Zahlung des Kaufpreises vereinbart?
-4.3. Welche Risiken ergeben sich daraus für die HOCHBAHN?
-4.4. Warum haben Senat und HOCHBAHN weniger Details zum abgeschlossenen Kaufvertrag veröffentlicht als der Käufer und bisherige Mitgesellschafter?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+Ist es zutreffend, dass der Kaufpreis nicht sofort gezahlt wird?
+
+### Frage 4.2
+
+Welche Regelungen wurden zur Zahlung des Kaufpreises vereinbart?
+
+### Frage 4.3
+
+Welche Risiken ergeben sich daraus für die HOCHBAHN?
+
+### Frage 4.4
+
+Warum haben Senat und HOCHBAHN weniger Details zum abgeschlossenen Kaufvertrag veröffentlicht als der Käufer und bisherige Mitgesellschafter?
+
+#### Antwort zu Fragen 4, 4.1, 4.2, 4.3 und 4.4
 
 Die hinter dem Käufer stehende Fondsgesellschaft unterliegt als börsennotiertes Unternehmen einer Veröffentlichungspflicht hinsichtlich dort relevanter Umstände. Im Übrigen siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6772", "21/14668", "21/11368"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67092"
@@ -62,7 +63,7 @@ Auf welcher Rechtsgrundlage erfolgt nach Auffassung des Senates beziehungsweise 
 
 Welche Rechtsauffassung hat der Senat beziehungsweise die zuständige Behörde zur Erforderlichkeit eines Durchsuchungsbeschlusses zum Zweck der Abholung von Personen zur Durchführung der Abschiebung aus Gemeinschaftsunterkünften?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

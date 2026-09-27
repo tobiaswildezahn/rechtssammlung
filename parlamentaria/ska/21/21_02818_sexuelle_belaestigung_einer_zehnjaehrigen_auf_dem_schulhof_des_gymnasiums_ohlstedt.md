@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51132"
@@ -75,17 +76,17 @@ c. Welche Maßnahmen wurden nach seiner Festnahme durchgeführt?
 
 Durch die Polizei wurden im Anschluss an die Festnahme des Beschuldigten folgende Maßnahmen getroffen:
 
- Hinzuziehung eines Dolmetschers,
+– Hinzuziehung eines Dolmetschers,
 
- Vernehmung des Beschuldigten,
+– Vernehmung des Beschuldigten,
 
- Durchführung einer erkennungsdienstlichen Behandlung des Beschuldigten,
+– Durchführung einer erkennungsdienstlichen Behandlung des Beschuldigten,
 
- Rücksprache mit der Staatsanwaltschaft Hamburg,
+– Rücksprache mit der Staatsanwaltschaft Hamburg,
 
- „Gefährderansprache“ des Beschuldigten,
+– „Gefährderansprache“ des Beschuldigten,
 
- Entlassung des Beschuldigten.
+– Entlassung des Beschuldigten.
 
 ### Frage 3
 

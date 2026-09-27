@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 21
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1154", "21/1974", "21/2206", "21/2549", "21/2366"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50927"
@@ -104,21 +105,21 @@ Welche Kosten sind bisher durch den Umbau des Harvestehuder Wegs zur Fahrradstra
 
 Mit welchen Gesamtkosten für den Umbau des Harvestehuder Wegs zur Fahrradstraße und den Rückbau des Radwegs rechnet der Senat beziehungsweise die zuständige Behörde?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Im Rahmen des Umbaus erfolgte eine Grundinstandsetzung der Straße Harvestehuder Weg, die auch ohne Einrichtung der Fahrradstraße erforderlich gewesen wäre. Bisher sind insgesamt rund 913.000 Euro Baukosten entstanden, davon
 
- 875.000 Euro für Straßenbau, einschließlich Grundinstandsetzung der Fahrbahn,
+– 875.000 Euro für Straßenbau, einschließlich Grundinstandsetzung der Fahrbahn,
 
 Erneuerung des Entwässerungssystems, Pflasterarbeiten,
 
- 13.000 Euro für Markierungsarbeiten und Beschilderung,
+– 13.000 Euro für Markierungsarbeiten und Beschilderung,
 
- 6.500 Euro für Baumpflegearbeiten,
+– 6.500 Euro für Baumpflegearbeiten,
 
- 6.500 Euro für Anpassungsarbeiten an Laternen,
+– 6.500 Euro für Anpassungsarbeiten an Laternen,
 
- 7.000 Euro für Verkehrssicherung.
+– 7.000 Euro für Verkehrssicherung.
 
 Eine weitere Aufgliederung der bisherigen Baukosten ist nicht möglich, da die Arbeiten nicht nach Einzelmaßnahmen, sondern nach Gewerken ausgeschrieben und vergeben werden.
 
@@ -148,7 +149,7 @@ Welches genau sind aus Sicht des Senats beziehungsweise der zuständigen Behörd
 
 Inwieweit stehen die laut Drs. 21/2549 zu berücksichtigenden Belange der Fußgängerinnen und Fußgänger aus Sicht des Senats beziehungsweise der zuständigen Behörde im Widerspruch mit den Forderungen aus Drs. 21/2366, den Radweg an der Außenalster entlang des Harvestehuder Wegs in seiner jetzigen Form zu erhalten und auf die angekündigte Einrichtung von Umlaufsperren am Nordende der Grünanlage sowie nördlich und südlich des Fährdamms zu verzichten?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Bei der Drs. 21/2549 handelt es sich um einen Antrag, den die Bürgerschaft beschlossen hat. Die zuständige Behörde hat sich mit dem Antrag und den darin genannten Sachverhalten noch nicht abschließend befasst.
 
@@ -172,21 +173,21 @@ Wie viele Verkehrsunfälle haben sich von Januar bis November 2014 auf dem entla
 
 Ein Vergleich der Unfallzahlen der Zeiträume vor und nach Einrichtung der Fahrradstraße im Dezember 2014 liefert keine validen und belastbaren Ergebnisse und erlaubt keine abschließende Aussage zur Verkehrssicherheit der Fahrradstraße, weil
 
- zurzeit noch Bautätigkeiten stattfinden, deren Ergebnis positive Auswirkungen auf
+– zurzeit noch Bautätigkeiten stattfinden, deren Ergebnis positive Auswirkungen auf
 
 den Kfz- und Radverkehr hat,
 
- das Verkehrsaufkommen auf der Fahrbahn während der Bauzeit im Oktober 2014
+– das Verkehrsaufkommen auf der Fahrbahn während der Bauzeit im Oktober 2014
 
 deutlich reduziert war,
 
- vor Einrichtung der Fahrradstraße kaum Radverkehr auf der Fahrbahn stattfand,
+– vor Einrichtung der Fahrradstraße kaum Radverkehr auf der Fahrbahn stattfand,
 
- seit Einrichtung der Fahrradstraße das Radverkehrsaufkommen insgesamt sehr
+– seit Einrichtung der Fahrradstraße das Radverkehrsaufkommen insgesamt sehr
 
 stark zugenommen hat und
 
- die Zahlen in Relation zum Verkehrsaufkommen gesetzt werden müssen.
+– die Zahlen in Relation zum Verkehrsaufkommen gesetzt werden müssen.
 
 Nach Abschluss der Bautätigkeiten ist daher eine weitere Evaluation vorgesehen.
 
@@ -196,11 +197,11 @@ Ergebnisse im Überblick:
 
 Die Anzahl der polizeilich registrierten Verkehrsunfälle ist seit Einrichtung der Fahrradstraße insgesamt deutlich zurückgegangen. Die Zahlen geben keinen Hinweis auf mögliche Unfallursachen. So wurden
 
- in den elf Monaten vor Einrichtung der Fahrradstraße (01. Januar bis 30. Novem-
+– in den elf Monaten vor Einrichtung der Fahrradstraße (01. Januar bis 30. Novem-
 
 ber 2014) insgesamt 26 Verkehrsunfälle auf der Fahrbahn und vier Verkehrsunfälle auf dem Radweg sowie
 
- in den elf Monaten seit Einrichtung der Fahrradstraße (01. Dezember bis 31. Okto-
+– in den elf Monaten seit Einrichtung der Fahrradstraße (01. Dezember bis 31. Okto-
 
 ber 2015) insgesamt 17 Verkehrsunfälle auf der Fahrbahn und ein Verkehrsunfall auf dem Radweg
 

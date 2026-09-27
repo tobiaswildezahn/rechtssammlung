@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 23
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12555", "20/9849"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49378"
@@ -61,7 +62,7 @@ Wie viele den Roma zuzurechnenden Personen sind derzeit in Hamburg erfasst? Bitt
 
 Welchen Aufenthaltsstatus besitzen die zugewanderten Roma-Familien?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -97,7 +98,7 @@ Werden die Einnahmen aus der Tätigkeit des Bettelns im gegebenen Falle auf die 
 
 Welche Nachweise müssen die Betroffenen über ihre Einnahmen aus dem Betteln vorlegen? Wenn sie keine Nachweise geben, wie werden die Einnahmen errechnet? (Bei Trinkgeldern für Friseure und Kellner wird nach Schätzungen verfahren.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Zum anrechenbaren Einkommen gehören alle Einkünfte in Geld oder Geldeswert, sodass auch Einnahmen aus der Tätigkeit des Bettelns grundsätzlich anzurechnen wären. Im Übrigen siehe Vorbemerkung.
 
@@ -109,7 +110,7 @@ Nehmen Mitglieder der Roma-Familien regelmäßig an Integrationssprachkursen tei
 
 Welche Sprachniveaus erreichen die Betroffenen im Durchschnitt nach sechs – zwölf Monaten Deutschunterricht? A2? B1?B2?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Vorbemerkung.
 
@@ -133,6 +134,6 @@ Welche speziellen Programme gibt es für die Erwachsenen zur beruflichen Einglie
 
 Wird regelmäßig der Fortschritt von Integrationsmaßnahmen, zum Beispiel schulische Leistungen, Sprachniveau, Ausbildung, Qualifikation, Bewerbungsaktivitäten, Arbeitsaufnahmen, geprüft?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Vorbemerkung.

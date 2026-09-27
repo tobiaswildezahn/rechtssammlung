@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66383"
@@ -55,7 +56,7 @@ Auf welches Datum ist die E-Mail mit der Bombendrohung an die Ida Ehre Schule da
 
 Wann haben welche Mitarbeiter der Ida Ehre Schule Kenntnis von der E-Mail mit der Bombendrohung gegen die Ida Ehre Schule erhalten? Bitte den Tag und die genaue Uhrzeit angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Am 28. März 2019 fand an der Ida Ehre Schule eine Ganztagskonferenz des Lehrerkollegiums statt, die um 08.30 Uhr begann. Die Bombendrohung ging am 28. März 2019 um 10.17 Uhr per E-Mail ein und wurde gegen 10.45 Uhr von der Büroleitung der Schule zur Kenntnis genommen.
 
@@ -69,7 +70,7 @@ Welche Korrespondenzen fanden zwischen Mitgliedern der Schulleitung und Abgeordn
 
 Insbesondere: Hat ein Mitglied der Schulleitung oder eine Lehrkraft der Ida Ehre Schule der Abgeordneten Christiane Schneider oder einem/ einer ihrer Mitarbeiter/-innen den Inhalt der E-Mail wörtlich oder sinngemäß mitgeteilt oder weitergeleitet? Bitte das Datum und die genaue Uhrzeit angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nein, es gab keine Korrespondenz.
 
@@ -81,7 +82,7 @@ Ist die Information aus der „Frankfurter Allgemeine Zeitung“ vom 5. April 20
 
 Hat die BSB von der Bombendrohung auch erst zu einem Zeitpunkt erfahren, nach dem bereits die vom Landesamt für Verfassungsschutz Hamburg beobachtete und dem gewaltorientierten Spektrum zugeordnete Gruppierung „Antifa Altona Ost“ um 06.39 Uhr am 28. März 2019 über die Bombendrohung in einer „Eilmeldung“ twitterte?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Nein. Im Übrigen siehe Vorbemerkung.
 
@@ -93,7 +94,7 @@ Wann hat die Schulleitung der BSB mitgeteilt, dass per E-Mail eine Bombendrohung
 
 Wie hat die BSB nach Kenntnisnahme der Bombendrohung reagiert? Insbesondere auch: Welche Anweisungen gab es hinsichtlich der Kommunikation des Vorfalls und etwaiger politischer Hintergründe gegenüber dritten Personen und der Öffentlichkeit durch die Schulleitung?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Während der Wartezeit auf den Streifenwagen hat die Schulleitung um circa 10.55 Uhr telefonisch den Pressesprecher der für Bildung zuständigen Behörde informiert und ihm die E-Mail mit der Bombendrohung um circa 11.00 Uhr weitergeleitet.
 
@@ -107,6 +108,6 @@ Wann ist bei der Polizei von wem die Information eingegangen, dass es gegen die 
 
 Wie ist der aktuelle Ermittlungsstand hinsichtlich der Bombendrohung und möglicher politischer Hintergründe? Insbesondere: Belegen die Ermittlungen einen tatsächlichen rechtsextremistischen Hintergrund der Bombendrohung?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Bombendrohung gegen die Ida Ehre Schule ist Gegenstand eines bei der Staatsanwaltschaft Berlin und dem Landeskriminalamt Berlin geführten Ermittlungsverfahrens. Die Tätigkeiten dieser Behörden unterliegen nicht dem Kontrollrecht und dem damit korrelierenden Fragerecht der Hamburgischen Bürgerschaft.

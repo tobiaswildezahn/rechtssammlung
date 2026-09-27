@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18560", "21/17158", "21/3649", "21/3980", "21/4174", "21/11908"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69055"
@@ -94,19 +95,19 @@ Darüber hinaus hat sich Hamburg seit 2014 als Standard gesetzt, dass jede Einri
 
 Die Kontrollen zu den Standards und Rechtsvorschriften werden in den Unterkünften der öffentlich-rechtlichen Unterbringung wie folgt durchgeführt:
 
- Die Einhaltung des Schutzkonzeptes ist Bestandteil der regulären Aufgaben des
+– Die Einhaltung des Schutzkonzeptes ist Bestandteil der regulären Aufgaben des
 
 Unterkunfts- und Sozialmanagements und wird durch die jeweiligen Teamleitungen kontrolliert und sichergestellt.
 
- Alle Unterkünfte werden im Rahmen des Hygieneplans mindestens einmal im Jahr
+– Alle Unterkünfte werden im Rahmen des Hygieneplans mindestens einmal im Jahr
 
 durch den Hygienebeauftragten von f & w kontrolliert. Die bezirklichen Gesundheitsämter begehen die Unterkünfte alle fünf Jahre. Zu den Hygienestandards finden regelmäßig Belehrungen der Mitarbeiterinnen und Mitarbeiter statt.
 
- Die Brandschutzmaßnahmen werden einmal jährlich durch Brandverhütungs-
+– Die Brandschutzmaßnahmen werden einmal jährlich durch Brandverhütungs-
 
 schauen der Feuerwehr kontrolliert. Darüber hinaus gibt es interne Kontrollen durch den Brandschutzbeauftragten von f & w.
 
- Die Spielplätze werden durch die Fachfirmen gewartet und kontrolliert. Bei offen-
+– Die Spielplätze werden durch die Fachfirmen gewartet und kontrolliert. Bei offen-
 
 sichtlichen Mängeln werden diese bezüglich Wartung und Instandsetzung direkt beauftragt.
 
@@ -125,6 +126,6 @@ e) und Küchen abgesichert werden?
 
 Wie wird die Einhaltung der in Ziffer 3. abgefragten Kriterien jeweils kontrolliert?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Bei Hausbesuchen werden die möglichen Gefahrenquellen der Wohnung in Augenschein genommen. Was als Gefahrenquelle angesehen wird, ist nicht zuletzt von dem Alter und der Entwicklung des Kindes abhängig. Hier dient der Orientierungskatalog der Kinderschutzdiagnostik für die unterschiedlichen Altersgruppen unter der Rubrik „Gefahrenquellen im Innen- und Außenbereich“ als Hinweisgeber. Die Einhaltung wird im Rahmen von Hausbesuchen kontrolliert.

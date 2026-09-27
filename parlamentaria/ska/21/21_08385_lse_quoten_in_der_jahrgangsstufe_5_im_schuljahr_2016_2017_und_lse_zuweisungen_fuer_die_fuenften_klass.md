@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 21
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2278", "21/8007"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57096"
@@ -116,7 +117,7 @@ Bezogen auf Frage 1.: Wie hoch war der Prozentsatz der Schüler/-innen mit LSE d
 
 Bei wie vielen Schülern/-innen des Jahrgangs 5 der staatlichen sechsjährigen Grundschulen (Primarschulen) beziehungsweise der staatlichen Stadtteilschulen und Gymnasien wurde im Schuljahr 2016/2017 pro Standort sonderpädagogischer Förderbedarf im Bereich LSE diagnostiziert? Wie viele Schüler/-innen gab es in diesem Jahrgang an der betreffenden Schule insgesamt? (Bitte nach Schulformen getrennt mit Nennung von Standort, Sozialindex und Bezirk in absoluten Zahlen und in Prozent in einer Excel-Tabelle angeben.) a. Wie viele Schüler/-innen waren es dabei pro Standort jeweils in den einzelnen Förderschwer-punkten L, S und E? (Bitte für jeden Schwerpunkt gesondert entsprechend in der Tabelle zu 3. angeben.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage.
 
@@ -128,23 +129,23 @@ Gemäß der Handreichung inklusive Bildung und sonderpädagogische Förderung au
 
 Folgende Grundlagen können unter anderem für eine Diagnostik eines sonderpädagogischen Förderbedarfs LSE in Jahrgang 5 durch die Schule herangezogen werden:
 
- Zeugnisse und Hinweise aus dem Schülerbogen,
+– Zeugnisse und Hinweise aus dem Schülerbogen,
 
- Lernentwicklungsberichte und KERMIT-Ergebnisse,
+– Lernentwicklungsberichte und KERMIT-Ergebnisse,
 
- Ergebnisse der Hamburger Schreibprobe (HSP),
+– Ergebnisse der Hamburger Schreibprobe (HSP),
 
- Einschätzungen zur Motivation sowie zur Lern- und Leistungsbereitschaft,
+– Einschätzungen zur Motivation sowie zur Lern- und Leistungsbereitschaft,
 
- ein bisher angewandter Nachteilsausgleich und eine Förderung nach § 45 HmbSG,
+– ein bisher angewandter Nachteilsausgleich und eine Förderung nach § 45 HmbSG,
 
- Fördern statt Wiederholen beziehungsweise Förderung nach § 28a HmbSG sowie
+– Fördern statt Wiederholen beziehungsweise Förderung nach § 28a HmbSG sowie
 
 additive Sprachförderung,
 
- Beobachtungen des multiprofessionellen Teams der besuchten Lerngruppe,
+– Beobachtungen des multiprofessionellen Teams der besuchten Lerngruppe,
 
- Berichte externer Institutionen (Ärzte, Therapeuten, Schularztstellen, ReBBZ, ASD)
+– Berichte externer Institutionen (Ärzte, Therapeuten, Schularztstellen, ReBBZ, ASD)
 
 bei Freigabe durch die Sorgeberechtigten unter Berücksichtigung der datenschutzrechtlichen Vorgaben.
 
@@ -168,7 +169,7 @@ Wie viele Schüler/-innen mit von den ReBBZ diagnostiziertem sonderpädagogische
 
 Wie viele Schüler/-innen mit von den ReBBZ diagnostiziertem sonderpädagogischem Förderbedarf LSE in der jetzigen Jahrgangsstufe 4 (2016/17) werden nach den Ergebnissen der Verteilerkonferenzen im kommenden Schuljahr 2017/2018 jeweils die Jahrgangsstufe 5 welcher staatlichen sechsjährigen Grundschulen (Primarschulen) beziehungsweise welcher staatlichen Stadtteilschulen und Gymnasien besuchen? Wie viele Schüler/-innen werden den Jahrgang 5 in 2017/2018 an diesen Standorten insgesamt besuchen? (Bitte nach Schulformen, unterschieden mir Nennung von Standort, Sozialindex und Bezirk, in absoluten Zahlen und in Prozent in einer Excel-Tabelle angeben.) a. Wie viele Schüler/-innen werden es dabei pro Standort jeweils in den einzelnen Förderschwerpunkten L, S und E sein? (Bitte für jeden Schwerpunkt gesondert entsprechend in der Tabelle zu 7. angeben.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Schulorganisation für die fünften Klassen zum Schuljahr 2017/2018 ist noch nicht abgeschlossen. Im Übrigen siehe Drs. 21/8007.
 

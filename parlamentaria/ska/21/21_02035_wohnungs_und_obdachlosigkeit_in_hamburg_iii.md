@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/4077", "20/11858", "20/11608"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50283"
@@ -163,7 +164,7 @@ Welche Maßnahmen hat der Senat ergriffen, damit die Kooperationspartner ihre Ve
 
 Welche Maßnahmen ergreift der Senat, damit die Vertragspartner ihr Versorgungssoll in den kommenden Jahren erfüllen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 20/11858.
 

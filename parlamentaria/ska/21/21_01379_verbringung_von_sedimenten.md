@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/77", "21/714", "21/389"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49575"
@@ -97,7 +98,7 @@ Aus welchen konkreten Gründen ist die Verlagerung von Sedimenten in den Sommerm
 
 Welche Voraussetzungen müssen erfüllt sein, damit die Behörde für Umwelt und Energie eine Ausnahmegenehmigung Verlagerung von Sedimenten in den Sommermonaten erteilt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die HPA richtet ihr Handeln am Handlungskonzept zur Umlagerung von Baggergut aus dem Hamburger Hafen in der Stromelbe aus, welches gemeinsam mit der Behörde für Umwelt und Energie erstellt und abgestimmt wurde. In Abwägung mit den Notwendigkeiten der Wassertiefeninstandhaltung für die Sicherung der Schifffahrt wurde in diesem Rahmen die genannte Ausnahmezeit vom 1. April bis 6. November für die Umlagerung bei Neßsand festgelegt, um eine Beeinträchtigung der Gewässergüte zu vermeiden, die sich insbesondere in den Frühlings- und Sommermonaten auf aquatisches Leben und Habitate auswirkt. Bei dringend gebotenen Unterhaltungsmaßnahmen kann jedoch ausnahmsweise in der Zeit vom 1. Oktober bis 6. November Sediment nach Neßsand umgelagert werden, sofern dies mit Blick auf Sauerstoffgehalt und Temperatur des Gewässers ökologisch vertretbar ist.
 

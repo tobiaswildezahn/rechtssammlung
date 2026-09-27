@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51621"
@@ -297,6 +298,6 @@ Welche Flüchtlingsunterkünfte sind bereits in Planung und sollen in den nächs
 
 Welche Potenzialflächen für Flüchtlingsunterkünfte sieht der Senat in den direkt an Lokstedt, Niendorf und Schnelsen angrenzenden Stadtteilen darüber hinaus?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antwort zu 2.

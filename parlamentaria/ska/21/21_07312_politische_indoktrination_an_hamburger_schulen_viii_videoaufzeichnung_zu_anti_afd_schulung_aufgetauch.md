@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 7
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6316", "21/6512", "21/6832"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55910"
@@ -67,7 +68,7 @@ Wie bewertet der Senat beziehungsweise die Behörde für Schule und Berufsbildun
 
 Ein Lehrer aus dem Hamburger Schuldienst moniert den indoktrinären Schulungscharakter der Veranstaltung (siehe Einleitung). Hat es bezogen auf diese Kritik oder in Bezug auf die bereits bekannt gewordenen Vorgänge rund um diese Veranstaltung eine interne Auswertung dieser Veranstaltung in der Behörde für Schule und Berufsbildung gegeben? Wenn nein: warum nicht? Wenn ja: Zu welchen Ergebnissen ist der Senat beziehungsweise die Behörde für Schule und Berufsbildung gekommen? Welche Maßnahmen wurden ergriffen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Angebote des Landesinstituts für Lehrerbildung und Schulentwicklung werden regelhaft intern zur Qualitätssicherung reflektiert. Im Übrigen siehe hierzu Drs. 21/6316, 21/6512 und 21/6832.
 

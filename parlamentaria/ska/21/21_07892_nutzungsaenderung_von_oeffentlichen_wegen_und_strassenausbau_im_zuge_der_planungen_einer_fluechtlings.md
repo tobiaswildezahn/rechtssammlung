@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7564", "21/5525", "21/2864"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56531"
@@ -61,7 +62,7 @@ b) Welche besonderen Ansprüche sollen diese Häusertypen erfüllen und wie viel
 
 Wie verhält es sich bezüglich der zuvor geäußerten „baurechtlichen und feuerpolizeilichen Vorgaben“? Bitte jeweils angeben, welche Bedenken es gab und warum es diese plötzlich nicht mehr gibt.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Häusertyp muss in seiner Grundfläche wesentlich kleiner sein als die bisher verbauten Standardcontainer, Modulhäuser und Pavillons, damit die durch den Grund-
 

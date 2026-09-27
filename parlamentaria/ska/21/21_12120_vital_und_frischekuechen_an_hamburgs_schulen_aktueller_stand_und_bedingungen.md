@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 55
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11561", "21/8441"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61388"
@@ -64,7 +65,7 @@ An wie vielen und welchen staatlichen Schulstandorten sind nach gegenwärtigem P
 
 An wie vielen und welchen staatlichen Schulstandorten laufen nach gegenwärtigem Planungs-/Kenntnisstand des Senats/der zuständigen Fachbehörde (Stand 22.2.2018) Prüfungen für eine mögliche Einrichtung von Vitalküchen, an wie vielen für die von Frischeküchen und wann sollen diese abgeschlossen sein? (Bitte jeweils mit Angabe von Standort, Schulform, Sozialindex und Bezirk samt Prüfungsdauer in absoluten Zahlen und in Prozent zur Gesamtanzahl der Schulen in der jeweiligen Schulform in einer Excel-Tabelle angeben.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage 2 und Vorbemerkung.
 
@@ -76,7 +77,7 @@ Welche technischen Kriterien und Voraussetzungen sind hinsichtlich der Einrichtu
 
 Welche baulichen Kriterien und Voraussetzungen sind hinsichtlich der Einrichtung einer Vital- beziehungsweise einer Frischeküche an einem Schulstandort zu erfüllen/müssen gegeben sein? (Bitte jeweils einzeln nennen und erläutern.) a. Wo sind diese Kriterien und Voraussetzungen festgelegt/geregelt? (Bitte Grundlage nennen und als Datei anfügen.) b. Inwiefern unterscheiden sich diese Kriterien und Voraussetzungen von denen, die für die Einrichtung einer konventionellen „Aufwärmküche“, wie sie an den meisten Standorten vorherrschen, vorhanden sind/gegeben sein müssen? (Bitte jeweils in Bezug auf Vital- und auf Frischeküchen erläutern.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Einrichtung einer Vitalküche setzt im Vergleich zu einer Ganztagsküche erweiterte Anforderungen an die Lüftungsanlage mit Zu- und Abluftkanälen, an die Elektroversorgung sowie erweiterte Kühl- beziehungsweise Tiefkühlkapazitäten. Daneben ist eine ausreichende Wasserver- und Abwasserentsorgung einschließlich Fettabscheider Voraussetzung. Im Vergleich zu einer Ganztagsküche erfordert die Einrichtung einer Vitalküche einen Flächenmehrbedarf zwischen 14 und 56 Quadratmetern (abhängig von der Anzahl der Verpflegungsteilnehmer). Für eine Vitalküche wird ein größerer Produktionsbereich mit Platz für zusätzliche Geräte benötigt, ein größerer Lagerbereich mit entsprechender Kühl/Tiefkühlkapazität, zusätzliche Sanitärräume mit einer Personaldusche abhängig von der Anzahl der beschäftigten Mitarbeiterinnen und Mitarbeiter, gegebenenfalls zusätzlicher Platz für die Ausgabe der Speisen über Büffets im Speisebereich sowie eine ausreichend bemessene Lieferzufahrt.
 
@@ -134,7 +135,7 @@ Wie und nach welchen Kriterien werden Standorte im Allgemeinen seitens des Senat
 Welche Kriterien finden bei der Entscheidung für einen Standort zur Installation von Vital- beziehungsweise von Frischeküchen (siehe Frage
 11.) seitens des Senats/der zuständigen Fachbehörde besondere Berücksichtigung und mit welcher Begründung? (Bitte Kriterien angeben und jeweils begründen.) a. Welchen Ausschlag geben dabei bauliche und welchen technische Gegebenheiten vor Ort? (Bitte jeweils erläutern.) b. Welchen Ausschlag geben dabei die Schüler-/-innenzahlen, der Sozialindex und die Schulform? (Bitte jeweils erläutern.) c. Welchen Ausschlag geben dabei die Anmeldesituation und welchen die Bevölkerungsentwicklung im schulischen Umfeld? (Bitte jeweils erläutern.) d. Welchen Ausschlag gibt dabei die Frage betreffend Bestandsgebäude, Umbau oder Neubau des Standorts? (Bitte jeweils erläutern.)
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Antwort zu 8 und Drs. 21/11561.
 

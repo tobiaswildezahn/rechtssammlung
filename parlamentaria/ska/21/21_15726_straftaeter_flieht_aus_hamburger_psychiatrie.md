@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65223"
@@ -47,7 +48,7 @@ Nach § 4 des HmbMVollzG ist für Gefangene mit psychischer Erkrankung im Rahmen
 
 Wenn ja, mit welchem Inhalt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Freie und Hansestadt Hamburg hat das Albertinen-Krankenhaus nicht mit den für die Durchführung von Unterbringungen nach § 61 Nummern 1 und 2 StGB (Maßregelvollzug) erforderlichen hoheitlichen Befugnissen gemäß § 4 Absatz 1 HmbMVollzG beliehen.
 
@@ -96,27 +97,27 @@ In der betroffenen Abteilung werden keine Gefangenen untergebracht, siehe auch A
 
 Im Zentrum für Psychiatrie und Psychotherapie des Albertinen-Krankenhauses werden auf der geschlossen Station KE unter anderem psychisch Kranke nach § 12 HmbPsychKG beziehungsweise § 1906 BGB behandelt. Deshalb bestehen in diesem Bereich umfangreiche Sicherheitsmaßnahmen wie zum Beispiel:
 
- Der Zugang zur Station ist durch eine Schleuse gesichert.
+– Der Zugang zur Station ist durch eine Schleuse gesichert.
 
- Die Fenster der Station KE sind gesondert gesichert (bruchsichere Spezialvergla-
+– Die Fenster der Station KE sind gesondert gesichert (bruchsichere Spezialvergla-
 
 sung, verstärkte Rahmen et cetera).
 
- Zugangstüren und Fenster der Station können nur durch befugte Mitarbeiterinnen
+– Zugangstüren und Fenster der Station können nur durch befugte Mitarbeiterinnen
 
 und Mitarbeiter der Station geöffnet werden.
 
- Der für die Patientinnen und Patienten der Station KE frei zugängliche Garten ist
+– Der für die Patientinnen und Patienten der Station KE frei zugängliche Garten ist
 
 durch eine Mauer beziehungsweise einen Zaun (Höhe circa 3,8 m) geschützt.
 
- Außerhalb der Regelarbeitszeit (in der Zeit zwischen 18.00 und 24.00 Uhr) ist ein
+– Außerhalb der Regelarbeitszeit (in der Zeit zwischen 18.00 und 24.00 Uhr) ist ein
 
 Sicherheitsdienst auf der Station präsent.
 
- Die Station hält drei Isolierzimmer mit sogenannten Fixierbetten vor.
+– Die Station hält drei Isolierzimmer mit sogenannten Fixierbetten vor.
 
- Das Mobiliar der Station ist in den besonders sensiblen Bereichen mit dem Boden
+– Das Mobiliar der Station ist in den besonders sensiblen Bereichen mit dem Boden
 
 verschraubt.
 

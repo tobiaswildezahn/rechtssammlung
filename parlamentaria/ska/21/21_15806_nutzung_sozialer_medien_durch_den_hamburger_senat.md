@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 3
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14963", "21/15606", "21/12186", "21/12804"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65309"
@@ -78,15 +79,15 @@ Siehe Vorbemerkung und Drs. 21/12186.
 
 Folgende Senatsbehörden unterstützen die Social-Media-Aktivitäten:
 
- Die Senatskanzlei betreibt einen von ihr verantworteten persönlichen, amtsbezo-
+– Die Senatskanzlei betreibt einen von ihr verantworteten persönlichen, amtsbezo-
 
 genen Instagram-Kanal (@buergermeister.hamburg), um über die Aufgaben des Ersten Bürgermeisters von Hamburg zu informieren. Die Betreuung erfolgt im Zuge der täglichen Aufgabenerledigung durch Mitarbeiterinnen und Mitarbeiter der Internetredaktion der Pressestelle des Senats.
 
- Die Profile von Senator Andy Grote werden auch durch die Pressestelle der
+– Die Profile von Senator Andy Grote werden auch durch die Pressestelle der
 
 Behörde für Inneres und Sport betreut. Der Umfang variiert je nach Terminlage.
 
- Senatorin Dr. Melanie Leonhard wird in der Betreuung ihrer persönlichen Face-
+– Senatorin Dr. Melanie Leonhard wird in der Betreuung ihrer persönlichen Face-
 
 book-Seite und ihres Instagram-Accounts durch den Pressesprecher der Behörde für Arbeit, Soziales, Familie und Integration im Rahmen der alltäglichen Aufgabenerledigung unterstützt, da es sich um amtsbezogene Informationen handelt. Eine Auswertung nach Stunden wird nicht gesondert erhoben. Der persönliche Twitter-Account ist privat.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18395"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69964"
@@ -69,10 +70,16 @@ Flüchtlingsunterkünfte mit der Perspektive Wohnen Gesamt 3 717
 ### Frage 3
 
 Wie viele der jeweils im Jahr 2019 neu erstellten Sozialwohnungen haben zusätzlich eine Bindung für vordringlich wohnungssuchende Haushalte (WA-Bindung)?
-3.1. Wie viele dieser Wohnungen haben ein, zwei, drei oder mehr Zimmer?
-3.2. Wie lang ist die Laufzeit der Bindungen?
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+Wie viele dieser Wohnungen haben ein, zwei, drei oder mehr Zimmer?
+
+### Frage 3.2
+
+Wie lang ist die Laufzeit der Bindungen?
+
+#### Antwort zu Fragen 3, 3.1 und 3.2
 
 Anzahl Personen*) (pro WE)
 
@@ -89,16 +96,22 @@ Bindungslaufzeit Jahre Gesamt
 ### Frage 4
 
 Für wie viele Wohnungen wurden im Jahr 2019 Belegungsbindungen für vordringlich wohnungssuchende Haushalte angekauft?
-4.1. Wie verteilen sich diese angekauften Bindungen auf die unterschiedlichen Programmsegmente?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+Wie verteilen sich diese angekauften Bindungen auf die unterschiedlichen Programmsegmente?
+
+#### Antwort zu Fragen 4 und 4.1
 
 Im Rahmen des Förderprogramms Ankauf von Belegungsbindungen für Haushalte mit besonderen Marktzugangsschwierigkeiten wurden im Jahr 2019 insgesamt 118 Bindungen, davon 65 Bindungen im Programmsegment A und 53 Bindungen im Programmsegment B, angekauft.
 
 ### Frage 5
 
 Wie viele anerkannt vordringlich wohnungssuchende Haushalte wurden im Jahr 2019 mit einer WA-gebundenen Wohnung versorgt?
-5.1. Wie viele waren davon Einpersonenhaushalte?
+
+### Frage 5.1
+
+Wie viele waren davon Einpersonenhaushalte?
 
 ### Frage 6
 
@@ -112,7 +125,7 @@ Wie viele anerkannt vordringlich wohnungssuchende Haushalte blieben im Jahr 2019
 
 Wie viele Haushalte wurden in 2019 als vordringlich wohnungssuchende Haushalte neu anerkannt?
 
-#### Antwort zu Fragen 5 bis 8
+#### Antwort zu Fragen 5, 5.1, 6, 7 und 8
 
 Statistisch erfasst werden die vordringlich Wohnungssuchenden, die mit Wohnraum versorgt werden. Nach den Bindungen der betreffenden Wohnungen wird dabei nicht differenziert.
 

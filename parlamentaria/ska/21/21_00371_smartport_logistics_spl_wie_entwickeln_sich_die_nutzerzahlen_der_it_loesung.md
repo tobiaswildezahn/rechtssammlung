@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48511"
@@ -47,7 +48,7 @@ Wie viele Kunden nutzen inzwischen im Leistungsspektrum von SPL a. die SPL WEB A
 
 Wie haben sich die Nutzerzahlen seit November 2014 im Einzelnen entwickelt? Bitte monatlich ausweisen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nutzerzahlen SPL
 
@@ -105,32 +106,32 @@ Welche zusätzlichen Anreize könnten nach Ansicht des Senats gesetzt werden, um
 
 Auf der diesjährigen CeBIT in Hannover hat die HPA weitere Funktionen von SPL vorgestellt. Welche waren dies im Einzelnen und wie gliedern sich diese in das Gesamtsystem der IT-Lösung SPL ein?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Um langfristig die Verkehrssteuerung im Hafen und auch in Hamburg bestmöglich zu optimieren und Staus für alle Verkehrsteilnehmer zu minimieren, soll die digitale Verkehrssteuerung weiter ausgebaut werden. Dazu wird SPL stetig weiterentwickelt. Weitere Anreize könnten über die Standardisierung der Software über den Hamburger Hafen hinaus auf andere Logistikknoten erzielt werden.
 
 In der Planung sind:
 
- die Einbindung digitaler Tachographen zur Vereinfachung der Lenkzeitauswertung
+– die Einbindung digitaler Tachographen zur Vereinfachung der Lenkzeitauswertung
 
 sowie zur Berücksichtigung der Restlenkzeit bei der Parkplatzsuche.
 
- smartDrive, zur Optimierung des Fahrverhaltens der Lkw-Fahrer, was zu Treibstof-
+– smartDrive, zur Optimierung des Fahrverhaltens der Lkw-Fahrer, was zu Treibstof-
 
 feinsparungen und so zu Emissionseinsparungen führt.
 
- die Einbindung der Leercontainerdepots im Hamburger Hafen, zum Beispiel um die
+– die Einbindung der Leercontainerdepots im Hamburger Hafen, zum Beispiel um die
 
 Abfertigungsleistung der Depots zu beschleunigen.
 
- die Information der erwarteten Ankunftszeit eines Lkws an einem Betrieb (zum
+– die Information der erwarteten Ankunftszeit eines Lkws an einem Betrieb (zum
 
 Beispiel Containerterminal) zur optimierten Disposition aller an der Logistikkette Beteiligten.
 
- die verbesserte Parkplatzsuche mit direkter Verbindung zur Navigation.
+– die verbesserte Parkplatzsuche mit direkter Verbindung zur Navigation.
 
- die Information verfügbarer Stellplätze im Hafen.
+– die Information verfügbarer Stellplätze im Hafen.
 
- die Anbindung an die TR02-Schnittstelle für die elektronische Kommunikation zwi-
+– die Anbindung an die TR02-Schnittstelle für die elektronische Kommunikation zwi-
 
 schen Trucking-Unternehmen und Kaiumschlagsbetrieben, zum Beispiel zur Voranmeldung am Terminal.

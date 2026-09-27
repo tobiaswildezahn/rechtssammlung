@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/5600", "21/768", "21/2591"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58187"
@@ -95,17 +96,17 @@ Wie sehen die Vergabepraxen/Dienstanweisungen für die Vergabe von Darlehen aus?
 
 Siehe hierzu die geltenden Regelungen der fachlichen Weisung der Bundesagentur für Arbeit zum Verfahren bei der Gewährung von Darlehen gemäß § 24 SGB II:
 
- https://www3.arbeitsagentur.de/web/wcm/idc/groups/public/documents/webdatei/
+– https://www3.arbeitsagentur.de/web/wcm/idc/groups/public/documents/webdatei/
 
 mdaw/mdix/~edisp/l6019022dstbai772358.pdf?_ba.sid=L6019022DSTBAI772367.
 
 Die fachlichen Regelungen der Freien und Hansestadt Hamburg sind in der Infoline veröffentlicht. Maßgeblich sind insoweit die Fachanweisung zu § 22 SGB II sowie die Fachanweisungen zu § 24 SGB II:
 
- http://www.hamburg.de/contentblob/8333700/fd3c3bfb8f858e66e6d6ec54977291c
+– http://www.hamburg.de/contentblob/8333700/fd3c3bfb8f858e66e6d6ec54977291c
 
 7/data/fa-sgbii-22-kdu-00.pdf,
 
- http://www.hamburg.de/basfi/fa-sgbii-kap03-24/.
+– http://www.hamburg.de/basfi/fa-sgbii-kap03-24/.
 
 ### Frage 9
 

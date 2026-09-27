@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 19
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2205", "21/2014", "21/1914", "21/1530"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51124"
@@ -82,7 +83,7 @@ Sollen die circa 450 Flüchtlinge am Ohlstedter Platz die Zelte noch verlassen, 
 
 Wieso wurden die Flüchtlinge entgegen der Versprechungen des Senats immer noch nicht umquartiert und die Zelte am Ohlstedter Platz abgebaut?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Standort verfügt über 410 Schlafplätze in winter- und sturmfesten sowie beheizten Zelten der Bundeswehr. Aufgrund der derzeitigen hohen Flüchtlingszahlen kann kein konkreter Termin für einen Abbau der Zelte genannt werden. Ein Versprechen im Sinne der Fragestellung wurde nicht gegeben. Siehe hierzu Drs. 21/2205. Im Übrigen siehe auch Drs. 21/2014 sowie Drs. 21/1914.
 
@@ -105,31 +106,31 @@ Zurzeit besteht das Praxis-Team aus sechs Personen (ein Facharzt für Innere Med
 Allgemeinärztliche Sprechstunden Personal (Arzt und Assistenz)
 
 Dienstag 14:00-17:00 Uhr  
-  
+–  
 Fachärztin für Allgemeinmedizin  
-  
+–  
 Krankenschwester
 
 Donnerstag 10:00-13:00 Uhr  
-  
+–  
 Facharzt für Innere Medizin  
-  
+–  
 Krankenpfleger  
 Kinderärztliche Sprechstunden  
 Personal (Arzt und Assistenz)
 
 Montag 10:00-12:00 Uhr
 
-  
+–  
 Facharzt für Kinder- und Jugendmedizin  
-  
+–  
 Arzthelferin
 
 Freitag 10:00-12:00 Uhr
 
-  
+–  
 Facharzt für Kinder- und Jugendmedizin  
-  
+–  
 Krankenpfleger
 
 ### Frage 7

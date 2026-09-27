@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59344"
@@ -47,7 +48,7 @@ Wie viele Fahrgäste wurden im ersten Halbjahr 2017 auf den S-Bahn- Linien in Ha
 
 Wie viele S-Bahn-Fahrgäste wurden jeweils in den ersten sechs Monaten der Jahre 2011 – 2016 gezählt? Bitte jahresweise aufschlüsseln und jeweils die absolute Fahrgastzahl sowie die prozentuale Veränderung gegenüber dem Vorjahreszeitraum angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 S-Bahn
 
@@ -87,7 +88,7 @@ Wie viele Fahrgäste wurden im ersten Halbjahr 2017 auf den U-Bahn- Linien in Ha
 
 Wie viele U-Bahn-Fahrgäste wurden jeweils in den ersten sechs Monaten der Jahre 2011 – 2016 gezählt? Bitte jahresweise aufschlüsseln und jeweils die absolute Fahrgastzahl sowie die prozentuale Veränderung gegenüber dem Vorjahreszeitraum angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 U-Bahn
 
@@ -127,7 +128,7 @@ Wie viele Fahrgäste wurden in Hamburg im ersten Halbjahr 2017auf den von der Ve
 
 Wie viele Fahrgäste wurden jeweils in den ersten sechs Monaten der Jahre 2011 – 2016 auf den von der VHH betriebenen Buslinien gezählt? Bitte jahresweise aufschlüsseln und jeweils die absolute Fahrgastzahl sowie die prozentuale Veränderung gegenüber dem Vorjahreszeitraum angeben.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Busse VHH
 
@@ -167,7 +168,7 @@ Wie viele Fahrgäste wurden in Hamburg im ersten Halbjahr 2017auf den von der Ha
 
 Wie viele Fahrgäste wurden jeweils in den ersten sechs Monaten der Jahre 2011 – 2016 auf den von der HOCHBAHN betriebenen Buslinien gezählt? Bitte jahresweise aufschlüsseln und jeweils die absolute Fahrgastzahl sowie die prozentuale Veränderung gegenüber dem Vorjahreszeitraum angeben.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Busse HOCHBAHN
 
@@ -207,7 +208,7 @@ Wie viele Fahrgäste wurden in Hamburg im ersten Halbjahr 2017 auf den von der H
 
 Wie viele Fahrgäste wurden jeweils in den ersten sechs Monaten der Jahre 2011 – 2016 auf den von der HADAG betriebenen Fährlinien gezählt? Bitte jahresweise aufschlüsseln und jeweils die absolute Fahrgastzahl sowie die prozentuale Veränderung gegenüber dem Vorjahreszeitraum angeben.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Fähren Fahrgastzahlen
 

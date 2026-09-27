@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51759"
@@ -71,7 +72,7 @@ In wie vielen Fällen wurden in den Jahren 2011 – 2015 Autofahrer bei der Nutz
 
 Welche Bußgeld- oder Verwarnungstatbestände sanktionieren die Benutzung eines Mobiltelefons im Auto? Welche Buß- beziehungsweise Verwarnungsgelder werden jeweils fällig?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die verbotswidrige Nutzung eines Mobil- oder Autotelefons beim Autofahren ist nach § 23 Absatz 1a in Verbindung mit § 49 Straßenverkehrs-Ordnung ordnungswidrig und wird mit einer Geldbuße von 60 Euro nach Nummer 246.1 Bußgeldkatalog geahndet. Die Anzahl der Anzeigen sind der Statistik der zuständigen Abteilung für Bußgeld- und Verwarnungsangelegenheiten des Einwohner-Zentralamtes der Behörde für Inneres und Sport in der nachfolgenden Tabelle zu entnehmen.
 

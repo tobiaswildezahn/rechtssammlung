@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15521", "19/897", "19/5628", "21/8652", "21/18927"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69449"
@@ -73,7 +74,7 @@ Wie viele Islamisten beziehungsweise islamistische Gefährder wurden zwischen de
 
 Wie viele in diesem Zeitraum angeordnete Abschiebungen konnten bis heute nicht durchgeführt werden? Bitte jeweils das Jahr und den Grund nennen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Maßnahmen im Sinne der Fragestellung werden seitens der Sicherheitsbehörden statistisch nicht erfasst. Im Übrigen siehe Drs. 21/15521.
 
@@ -111,6 +112,6 @@ Wie viele angeordnete Abschiebungen gegen Islamisten und islamistische Gefährde
 
 Wann sind diese Abschiebungen zur Durchführung vorgesehen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Antwort zu 2.

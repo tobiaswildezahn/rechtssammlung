@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 24
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3011"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51366"
@@ -77,7 +78,7 @@ Auf welche Weise werden den jungen Menschen mehr Möglichkeiten der Mitwirkung u
 
 Welches Ergebnis resultierte aus der Beratung von Bezirksversammlung und Bezirksamt über die Ausgestaltung von §33 BezVG?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/3011.
 

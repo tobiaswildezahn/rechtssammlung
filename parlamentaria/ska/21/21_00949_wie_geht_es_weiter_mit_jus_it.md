@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12605", "21/817"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49120"
@@ -55,7 +56,7 @@ Ist nun eine Überprüfung der bereits installierten Releases in fachlicher und 
 
 Ist es möglich, dass durch Vereinfachung der bereits installierten Software und damit nicht mehr genutzter Features oder Module sich das Programm bedienerfreundlicher gestalten lässt und nicht zuletzt sich die Pflegekosten reduzieren lassen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

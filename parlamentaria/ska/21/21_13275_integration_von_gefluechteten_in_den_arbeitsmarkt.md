@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13054", "21/12482"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62618"
@@ -97,19 +98,19 @@ Welche beruflichen Kompetenzen der Geflüchteten werden erfasst und wie (Selbsta
 
 In einem persönlichen Erstgespräch werden standardisiert (bei allen Kundinnen und Kunden ohne Unterscheidung nach Nationalität oder Ähnliches) berufliche Kompetenzen als Ergebnis der eigenen Aussagen und anhand vorhandener Nachweise der Kundinnen und Kunden erfasst. Im IT-Fachverfahren (VerBIS) wird ein Lebenslauf mit folgenden Merkmalen erfasst:
 
- Höchste Schulabschlüsse
+– Höchste Schulabschlüsse
 
- Dauer der jeweiligen Schulabschlüsse „von – bis“
+– Dauer der jeweiligen Schulabschlüsse „von – bis“
 
- Berufsausbildung mit und ohne Abschluss
+– Berufsausbildung mit und ohne Abschluss
 
- Berufliche Erfahrungen „von – bis“
+– Berufliche Erfahrungen „von – bis“
 
- Hochschulausbildung mit und ohne Abschluss
+– Hochschulausbildung mit und ohne Abschluss
 
- Dauer des/der Hochschulbesuche „von – bis“
+– Dauer des/der Hochschulbesuche „von – bis“
 
- Sprachkompetenzen (inklusive Ausprägungen von Grundkenntnissen bis verhand-
+– Sprachkompetenzen (inklusive Ausprägungen von Grundkenntnissen bis verhand-
 
 lungssichere Kenntnisse); Deutsch und Fremdsprachen
 
@@ -172,7 +173,7 @@ Wie viele Geflüchtete haben in 2015, 2016 und 2017 eine Ausbildung abgeschlosse
 
 Wie viele Geflüchtete haben in 2015, 2016 und 2017 eine Ausbildung abgebrochen? Bitte wie in Frage 2. aufschlüsseln.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Anlage 3. Die Gründe für die Beendigung von Ausbildungsverhältnissen werden nicht erhoben.
 

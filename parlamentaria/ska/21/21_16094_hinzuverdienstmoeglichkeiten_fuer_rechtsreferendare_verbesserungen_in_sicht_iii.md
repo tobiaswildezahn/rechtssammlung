@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 15
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14188"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65600"
@@ -66,7 +67,7 @@ Spart die Freie und Hansestadt Hamburg, aus Sicht der zuständigen Behörde, fin
 
 In der Anfrage Drs. 21/14188 antwortete der Senat, dass aufgrund der Einsparungen die Zahl der Referendare und Referendarinnen nochmal gesteigert werden konnte. Wie viele Referendare und Referendarinnen genau konnten aufgrund der Einsparungen im Jahr 2017 und im Jahr 2018 mehr ausgebildet werden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Antwort zu 1.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12547"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67330"
@@ -57,7 +58,7 @@ Welche Architekten haben welche Entwürfe für die Planungen der Jugendanstalt B
 
 Welche inhaltlichen und baulichen Vorgaben wurden gemacht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Sprinkenhof GmbH hat als mögliche Realisierungsträgerin nach Durchführung des Verfahrens nach der Vergabeverordnung (VgV-Verfahren) das Architektenbüro agn Niederberghaus & Partner GmbH mit der Planungsleistung bis zur Leistungsphase 3 (Kostenberechnung) der Honorarordnung für Architekten und Ingenieure (HOAI) beauftragt.
 
@@ -73,7 +74,7 @@ Gibt es Jugendanstalten mit vergleichbar verdichteter Anordnung der Gebäude? We
 
 Wie ist die fast genaue Übereinstimmung der Planungen mit der Untersuchungshaftanstalt in Augsburg-Gablingen zu erklären? Inwiefern wurden dieselben Architekten in Bayern und in der Freien und Hansestadt Hamburg beauftragt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Das von der zuständigen Behörde eingesetzte Projekt Justizvollzug Hamburg 2020 hat im Zuge seiner Prüfungen und Planungen diverse Jugendanstalten sowie auch Justizvollzugsanstalten besucht beziehungsweise kontaktiert. Die auf diese Weise zusammengetragenen Erfahrungswerte – negative wie positive – sind in die Planungen der Jugendanstalt Hamburg eingeflossen. Die aktuelle bauliche Planung vereint Vorzüge einiger anderer Anstalten. Soweit sich bauliche Gegebenheiten anderer Anstalten in der Praxis als nachteilig erwiesen haben, sind hierfür andere Lösungen gefunden worden.
 
@@ -89,7 +90,7 @@ Warum wurden bisher acht kleine Innenhöfe mit eng begrenzten Möglichkeiten fü
 
 Inwieweit wird der Vorschlag der Ergänzung/Erweiterung bezogen auf die freie grüne Fläche bereits jetzt in die Planung einbezogen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Für die vier Hafthäuser zuzüglich des Gebäudeteils für die Sozialtherapeutische Abteilung sind insgesamt zehn Freistundenhöfe für den geschlossenen Jugendvollzug vorgesehen. Sie ermöglichen die Realisierung gesetzlich oder gerichtlich vorgegebener und vollzugsfachlich angezeigter Gefangenentrennungen sowie Binnendifferenzierungen. Mit jeweils einer Fläche von circa 550 m bis circa 1 000 m bieten die Freistundenhöfe, auf denen sich zeitgleich jeweils in der Regel bis zu zwölf junge Gefangene aufhalten werden, hinreichend Raum für Sport- und sonstige Freizeitaktivitäten. Darüber hinaus wird die Jugendanstalt Hamburg über eine eigene Sporthalle verfügen. Die aktuellen Planungen sehen neben einer Begrünung der Freistundenhöfe insbesondere vor, dass dort jeweils ein Kleinspielfeld errichtet wird.
 

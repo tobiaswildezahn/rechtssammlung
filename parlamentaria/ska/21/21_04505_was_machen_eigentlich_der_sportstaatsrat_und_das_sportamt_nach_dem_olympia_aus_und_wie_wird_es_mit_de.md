@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 32
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1985", "20/2948", "21/4340", "21/3659"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52908"
@@ -349,7 +350,7 @@ Zu wann sollen die einzelnen Maßnahmen des jüngst vorgestellten Masterplans �
 
 Mit welchen Kosten für die einzelnen Maßnahmen des jüngst vorgestellten Masterplans „Active City“ rechnet der Senat beziehungsweise die zuständige Behörde und aus welcher Produktgruppe welcher Einzelpläne werden die dafür benötigten Finanzmittel in welcher Höhe bereitgestellt?
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Der Senat hat sich mit der Realisierung des Masterplans Active City noch nicht befasst. Der Masterplan befindet sich derzeit im Abstimmungsverfahren zwischen den beteiligten Stellen. Verbindliche Aussagen zur Realisierungen im Detail, Zeitplänen und Finanzierungsfragen sind derzeit noch nicht möglich.
 

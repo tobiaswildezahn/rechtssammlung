@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 28
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16901", "21/16101", "21/16427", "21/16620", "21/8165", "21/8553", "21/2905", "21/16285", "21/12780", "21/11695", "21/11357", "21/9327", "21/7713", "21/6559", "21/5474", "21/5292", "20/14119", "20/11145", "20/11484", "21/16863", "21/16437", "21/17008"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66666"
@@ -66,7 +67,7 @@ a) Was ist der Hintergrund für die lange Vorlaufzeit von über vier Jahren?
 b) Ist für die Jahre nach 2020 damit zu rechnen, dass ab dann das Ziel von 200 WA-Wohnungen jährlich erreicht werden wird? Wenn nein, warum nicht?
 c) Ist der Senat der Auffassung, dass angesichts des Rückgangs von 35 084 WA-Wohnungen im Jahr 2019 auf 18 000 im Jahr 2030 (Drs. 21/16620) der Neubau von 200 WA-Wohnungen pro Jahr ausreicht? Wenn ja, warum? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -94,7 +95,7 @@ Der Senat hebt hervor, dass sich die Bund-Länder-Arbeitsgemeinschaft „Armutsw
 
 Ferner habe sich die Freie und Hansestadt Hamburg in dem im Jahr 2014 eingerichteten Staatssekretärsausschuss zu „Rechtsfragen und Herausforderungen bei der Inanspruchnahme der sozialen Sicherungssysteme durch Angehörige der EU-Mitgliedstaaten“ eingebracht. Welchen Maßnahmen wurden infolge der Erkenntnisse aus dem Staatssekretärsausschuss durch den Senat ergriffen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Ergebnisse der in den Fragestellungen genannten Arbeitsgruppen und Ausschüsse sind als richtungsweisende Bestandsaufnahmen in die Arbeitsprogramme und Vernetzungsaktivitäten der jeweils zuständigen Behörden eingegangen. Sie haben sich insbesondere im Ausbau niedrigschwelliger Unterstützungs- und Beratungsangebote für wohnungslose und nicht wohnungslose EU-Zuwanderinnen und EU- Zuwanderer, in strukturierten behördenübergreifenden Erörterungen der Auswirkungen und des Managements der Freizügigkeit sowie in Maßnahmen zur Bekämpfung ausbeuterischer Strukturen und prekärer Wohnverhältnisse niedergeschlagen, siehe neben Drs. 21/16901 auch Drs. 21/16285, 21/12780, 21/11695, 21/11357, 21/9327, 21/7713, 21/6559, 21/5474, 21/5292, 20/14119, 20/11145 und 20/11484.
 

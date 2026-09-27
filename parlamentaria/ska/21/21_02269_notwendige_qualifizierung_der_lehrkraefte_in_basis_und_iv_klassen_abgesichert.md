@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 33
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1065", "21/1912", "21/1532"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50541"
@@ -78,7 +79,7 @@ Zu welchen vertraglichen Bedingungen werden die Lehrenden in Basisund IV-Klassen
 
 Zu welchen finanziellen Konditionen werden die Lehrenden in Basis- und IV-Klassen aktuell (Stand seit 31. Oktober 2015) beschäftigt und bei wem sind sie genau angestellt? Die Angaben zu 5. a. – e. bitte mit Brutto-Stundenlohnangabe, unter Nennung von beruflicher Qualifikation/ beruflichem Abschluss und gegebenenfalls nach Tarifstufen gestaffelt in einer Tabelle angeben.) a. Wie hoch ist der durchschnittliche Brutto-Stundenlohn der eingesetzten verbeamteten Lehrkräfte? b. Wie hoch ist der durchschnittliche Brutto-Stundenlohn der eingesetzten unbefristeten Lehrkräfte? c. Wie hoch ist der durchschnittliche Brutto-Stundenlohn der eingesetzten befristeten Lehrkräfte? d. Wie hoch ist die durchschnittliche Stundenvergütung der eingesetzten Lehrkräfte mit Honorarvertrag? (Bitte in die Tabelle zu 4. a. integrieren.) e. Wie hoch ist der durchschnittliche Brutto-Stundenlohn der eingesetzten, geringfügig beschäftigten Lehrkräfte?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage 3.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12258", "21/8830", "21/4408"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65184"
@@ -51,7 +52,7 @@ Aus welchem Einzugsbereich kommen die Kinder in die jeweilige angegliederte Grun
 
 Aus welchem Einzugsbereich kommen die Kinder in die Stadtteilschule? (Bitte für die letzten drei Schuljahre gegliedert nach Schulregion und Schule angeben.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Erfassung der Einzugsgebiete der Schülerinnen und Schüler der Jahrgangsstufe 1 der Grundschule und der Jahrgangsstufe 5 der Stadtteilschule beziehungsweise der Grundschule Sek I ergeben sich aus der Anlage 2.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8400"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54327"
@@ -44,7 +45,7 @@ Wie viele Stellen bestanden im Bereich der BGV am 30. Juni und am
 
 Bei wie vielen dieser Stellen handelte es sich um Beamtenstellen und bei wie vielen um Angestelltenstellen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 
@@ -56,7 +57,7 @@ Wie viele Stellen wird es nach den derzeitigen Planungen im Bereich der BGV am 3
 
 Bei wie vielen dieser Stellen handelte es sich um Beamtenstellen und bei wie vielen um Angestelltenstellen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der geplante Abbau von Vollkräften wird auch im Stellenplan nachvollzogen. Insofern ist es beabsichtigt, den Stellenbestand der BGV nach derzeitigen Planungen in den Jahren 2016, 2017 und 2018 begleitend zum entsprechenden Abbau von Vollkräften um jeweils elf ganze Stellen (acht BGV-Kern, drei Institut für Hygiene und Umwelt) zu reduzieren. Welche Stellenbestände sich im Ergebnis zu den genannten Stichtagen ergeben und wie sich der geplante Abbau auf Beamten- beziehungsweise Angestelltenstellen auswirkt, steht derzeit noch nicht fest, da die zu streichenden Stellen noch nicht im Detail festgelegt sind und sich auch noch andere Entwicklungen – wie im aktuellen Plan der Aufbau des Klinischen Krebsregisters – ergeben können.
 

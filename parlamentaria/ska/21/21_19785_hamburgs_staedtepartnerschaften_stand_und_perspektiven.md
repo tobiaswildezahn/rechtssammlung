@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69533"
@@ -186,43 +187,43 @@ Die Senatskanzlei fördert in Bezug auf die Städtepartnerschaften überwiegend 
 
 Bei einer geringeren Anzahl von Maßnahmen vergibt die Senatskanzlei mit den ihr zur Verfügung stehenden Mitteln auch größere Förderbeträge:
 
- St. Petersburg: Austauschprogramm für Studierende der HAW (Journalistik und
+– St. Petersburg: Austauschprogramm für Studierende der HAW (Journalistik und
 
 Medien) mit russischen Studierenden, 2016 bis 2019 jährlich mit 17 500 bis 20 000 Euro gefördert
 
- Dar es Salaam: wissenschaftlicher Austausch der HCU mit der Ardhi University zu
+– Dar es Salaam: wissenschaftlicher Austausch der HCU mit der Ardhi University zu
 
 Themen der Stadtentwicklung 2018/2019, gefördert mit insgesamt 20 000 Euro
 
- León: Straßenkinderprojekt Chavaladas (2016), Förderbetrag 14 406 Euro
+– León: Straßenkinderprojekt Chavaladas (2016), Förderbetrag 14 406 Euro
 
- León: Gründung einer Schuleinheit (Projekt der Hochschule ULSA, 2017), Förder-
+– León: Gründung einer Schuleinheit (Projekt der Hochschule ULSA, 2017), Förder-
 
 betrag 14 078 Euro
 
- León: Straßenkinderprojekt Chavaladas (2019), Förderbetrag 16 000 Euro
+– León: Straßenkinderprojekt Chavaladas (2019), Förderbetrag 16 000 Euro
 
 Aus Anlass der Deutschen Woche in St. Petersburg 2017 (zugleich Jubiläumsjahr 60 Jahre Städtepartnerschaft) unterstützte die Senatskanzlei Veranstaltungen in der Partnerstadt mit insgesamt 51 000 Euro.
 
 Die Städtepartnerschaften mit León und Dar es Salaam enthalten auch Elemente kommunaler Entwicklungszusammenarbeit. Daher kann Hamburg für entsprechende Projekte auch Fördermittel des Bundes nutzen, die das Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung über seine Durchführungsgesellschaft Engagement Global gGmbH vergibt. Aufgrund des Finanzierungsschlüssels (im Einzelfall bis zu 90 Prozent Bundesanteil möglich) lassen sich auch mehrjährige, größere Investitionsprojekte in León und Dar es Salaam mit Hamburger Kofinanzierung realisieren. Im Zeitraum seit 2015 sind dies folgende:
 
- Dar es Salaam: Bau einer Kompostierungsanlage für Marktabfälle, in zwei Projekt-
+– Dar es Salaam: Bau einer Kompostierungsanlage für Marktabfälle, in zwei Projekt-
 
 phasen (2015 bis 2017 und 2018 bis 2020). Der Bundesanteil der Finanzierung beläuft sich auf 1 352 000 Euro. Hamburgs Anteil in Höhe von 752 000 Euro wurde von der Behörde für Umwelt und Energie aus den Kompensationszahlungen der Behörden für dienstliche Flüge erbracht, da das Projekt zur Reduzierung von Treibhausgasen beitragen wird.
 
- León: Nachhaltiges Abwasser- und Abfallmanagement für den städtischen
+– León: Nachhaltiges Abwasser- und Abfallmanagement für den städtischen
 
 Schlachthof (Laufzeit 2013 bis 2015), Bundesanteil 80 563 Euro, Hamburger Anteil 24 914 Euro.
 
- León: Bau einer Feuerwache im indigenen Stadtteil Sutiaba (Laufzeit 2014 bis
+– León: Bau einer Feuerwache im indigenen Stadtteil Sutiaba (Laufzeit 2014 bis
 
 2016), Bundesanteil: 79 761 Euro, Hamburger Anteil: 40 870 Euro.
 
- León: Ertüchtigung der Werkstatt der Stadtreinigung León (Laufzeit 2015 bis
+– León: Ertüchtigung der Werkstatt der Stadtreinigung León (Laufzeit 2015 bis
 
 2017), Bundesanteil 138 310 Euro, Hamburger Anteil 15 654 Euro
 
- León: Verbesserung der hygienischen und sanitären Situation am städtischen
+– León: Verbesserung der hygienischen und sanitären Situation am städtischen
 
 Schlachthof und Beitrag zum Schutz des Wassereinzugsgebietes in León (Laufzeit 2017 bis 2019), Bundesanteil 126 283 Euro, Hamburger Anteil 12 600 Euro.
 

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16136"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65735"
@@ -101,7 +102,7 @@ Welche Abteilung innerhalb der Bürgerschaftskanzlei hat die am 8. Februar 2019 
 
 Zu welchem Zeitpunkt ist die Schriftliche Kleine Anfrage an welche Abteilungen/Behörden zur Beantwortung weitergeleitet worden? Bitte den Tag und die genaue Uhrzeit angeben.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Hier wurde die Bürgerschaftskanzlei um einen Antwortbeitrag gebeten. Sie hat mitgeteilt, dass sie von einem Antwortbeitrag im Rahmen der gestellten Schriftlichen Kleinen Anfrage absieht, da der Fragesteller sich die begehrten Informationen auf direktem Wege bei der Bürgerschaft beziehungsweise deren Präsidentin beschaffen könnte.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 11
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13481", "21/14000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64036"
@@ -67,7 +68,7 @@ Wenn nein, warum nicht?
 
 Wann entscheidet welche Stelle, wer Träger des zusätzlichen Frauenhauses werden soll?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Suche orientiert sich insbesondere an der anvisierten Zahl von 30 Plätzen und entsprechenden Gemeinschaftsflächen (Innen- und Außenbereich) für die Frauenhausbewohnerinnen, Büro- und Beratungsräume sowie an der möglichen strukturellen Anbindung (Nahverkehr, Kita, Schule). Eine Orientierungshilfe bieten die bereits bestehenden drei Hamburger Frauenhäuser mit je 30 Plätzen. Die für die Förderung der Frauenhäuser zuständige Behörde für Arbeit, Soziales, Familie und Integration ist hierzu im Gespräch mit dem Landesbetrieb Immobilienmanagement (LIG). Angesichts der bestehenden Immobiliensituation ist allen Beteiligten – auch den Hamburger Frauenhäusern – bewusst, dass die gemeinsame Suche zeitintensiv ist. Im Übrigen sind die Planungen noch nicht abgeschlossen.
 

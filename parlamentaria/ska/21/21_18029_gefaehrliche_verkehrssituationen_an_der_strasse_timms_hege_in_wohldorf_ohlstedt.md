@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67640"
@@ -138,7 +139,7 @@ Was hat die zuständige Fachbehörde in den letzten Jahren für die Verkehrssich
 
 Welche konkreten baulichen Maßnahmen hat die zuständige Fachbehörde seit 2011 veranlasst?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Zum Schutz der Bäume und der beschädigten Seitenbereiche wurden in den letzten Jahren durch das zuständige Bezirksamt Eichenspaltpfähle eingebaut und an punktuellen Stellen wurde der Gehweg mit Wegebaumaterial instandgesetzt. Im Weiteren wurde 2017 eine Risssanierung an der Mittelnaht durchgeführt. In diesem Jahr wurden abgenutzte Fahrbahnmarkierungen erneuert. Darüber hinaus waren keine Maßnahmen erforderlich.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61720"
@@ -55,7 +56,7 @@ Wie viele Osterfeuer wurden in Hamburg 2018 beantragt?
 
 Wie viele Osterfeuer wurden in Hamburg 2018 genehmigt und werden stattfinden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 beantragt genehmigt  
 Anzahl der voraussichtlich stattfindenden Osterfeuer (abhängig vom Veranstalter, der Wetterlage etc.)  
@@ -88,7 +89,7 @@ Welche sind die konkreten Änderungen der Verordnungen, die die zuständigen Beh
 
 Welche Osterfeuer sind durch dieses Änderungen der Verordnungen in Gefahr?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 

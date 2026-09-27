@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53937"
@@ -53,7 +54,7 @@ Wie viele Einrichtungen, die der Gülen-Bewegung nahestehen beziehungsweise ihr 
 
 Gehören der Gülen-Bewegung auch Hamburger Moscheen an? Falls ja, welche?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Für die sogenannte Gülen-Bewegung liegen in Hamburg keine gesicherten Erkenntnisse über extremistische oder strafrechtliche Sachverhalte vor, die eine Beobachtung oder Ermittlungen durch die Sicherheitsbehörden begründen könnten.
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 20
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14366"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50156"
@@ -50,7 +51,7 @@ Wie viele Wohneinheiten hat die SAGA GWG in 2014 fertiggestellt, wie viele werde
 Davon ausgehend, dass eine Verdopplung des Neubauvolumens von
 1.000 auf 2.000 WE anvisiert ist, wie viele WE sollen 2016 im regulären Geschosswohnungsbau, wie viele als Reihenhäuser errichtet werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 SAGA GWG hat im Jahre 2014 1.009 Wohnungen fertigstellt, nach derzeitigem Baufortschritt werden im Jahre 2015 voraussichtlich ebenfalls über 1.000 Wohnungen fertiggestellt.
 

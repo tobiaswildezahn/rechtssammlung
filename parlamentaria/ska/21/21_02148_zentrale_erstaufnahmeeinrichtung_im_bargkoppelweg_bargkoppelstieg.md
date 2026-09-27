@@ -14,6 +14,7 @@ fragen: 35
 einzelfragen: 85
 antwortbloecke: 29
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1934", "21/1635", "21/1843", "21/2041", "21/1716"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50427"
@@ -101,7 +102,7 @@ Wie bewertet der Senat die ÖPNV- und Fernverkehr-Anbindung des Standorts? Ist e
 
 Medienberichten zufolge sollen die Schutzsuchenden mit Shuttlebussen vom Hauptbahnhof nach Meiendorf gebracht werden. Ist diese Information zutreffend? a. Falls ja, wie soll dieser logistische Aufwand in der Praxis umgesetzt werden? Wie viele Busverbindungen soll es täglich geben? Mit wie vielen Ankömmlingen kalkuliert der Senat durchschnittlich pro Tag? b. Falls nein, wie sollen die Ankömmlinge den Standort erreichen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Zur aktuellen Verkehrsanbindung siehe Drs. 21/1934. Ein Einsatz von Shuttlebussen ist geplant. Derzeit laufen Gespräche mit allen beteiligten Stellen. Die konkreten Planungen sind noch nicht abgeschlossen. Derzeit treffen täglich in der Regel zwischen 300 und 500 Asylsuchende in Hamburg ein.
 
@@ -265,7 +266,7 @@ In welchem Umfang soll der angekündigte 24-Stunden-Betrieb stattfinden? (Bitte 
 
 Berichten zufolge wird die Ausländerbehörde direkt vor Ort sein. Welche personelle Ausstattung ist hierfür vorgesehen? a. Wie viele Vollzeitäquivalente werden für die Registrierung zuständig sein? b. Welche Öffnungszeiten sind für die Registrierung vorgesehen? c. Wie viel Zeit nimmt die Registrierung eines Flüchtlings durchschnittlich in Anspruch? d. Wie viele Vollzeitäquivalente sind für die Asylantragsstellung zuständig? e. Wie viele Vollzeitäquivalente sind darüber hinaus mit welchen weiteren Funktionen für die Ausländerbehörde vor Ort tätig?
 
-#### Antwort zu Fragen 25 bis 26
+#### Antwort zu Fragen 25 und 26
 
 Zur aktuellen Stellensituation siehe Drs. 21/2041. Im Übrigen sind die Überlegungen zur künftigen Personalausstattung und zu den künftigen Präsenzzeiten der Beschäftigten vor Ort noch nicht abgeschlossen. Die durchschnittliche Dauer der Registrierung wird statistisch nicht erfasst; sie variiert abhängig von verschiedenen Faktoren, zum Beispiel dem Vorhandensein von Ausweispapieren, den Kommunikationsmöglichkeiten, der Familienzusammensetzung et cetera. Die Entgegennahme von Asylanträgen obliegt nicht der Ausländerbehörde, sondern dem Bundesamt für Migration und Flüchtlinge (§ 14 AsylG).
 
@@ -301,7 +302,7 @@ Wie viele Ärzte sollen für die Erstuntersuchung vor Ort sein? Handelt es sich 
 
 Wie viele Vollzeitäquivalente sind darüber hinaus für die Erstversorgung der Flüchtlinge, Verpflegung und Unterkunft zuständig?
 
-#### Antwort zu Fragen 29 bis 30
+#### Antwort zu Fragen 29 und 30
 
 Im Bargkoppelweg 66 a wird eine Grundversorgung für ankommende Personen möglich sein. Im Bargkoppelstieg 10 – 14 ist das Durchführen der Erstuntersuchung vorgesehen. Die konkrete Ausgestaltung wird derzeit erarbeitet.
 

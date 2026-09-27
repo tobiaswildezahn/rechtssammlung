@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63410"
@@ -45,7 +46,7 @@ Trifft es zu, dass Mounir al-Motassadeq vor Ablauf seiner Freiheitsstrafe aus de
 
 Wann und von welchen Behörden wurden welche vorbereitenden Maßnahmen für die Ausreise getroffen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Generalbundesanwalt beim Bundesgerichtshof hat auf Antrag der zuständigen Hamburger Behörde in der Strafvollstreckungssache des Betreffenden einen Bescheid nach § 456a der Strafprozessordnung (StPO) mit Wirksamkeit zum 15. Oktober 2018 erlassen. Dieses bedeutet, dass der Betreffende ausschließlich zum Zwecke des Vollzugs seiner Abschiebung frühestens ab dem 15. Oktober 2018 vorzeitig aus der Haft entlassen werden kann. Zu welchem konkreten Zeitpunkt ab dem 15. Oktober 2018 geplant ist, die Abschiebung zu vollziehen, wird nicht öffentlich gemacht, um die Maßnahme nicht zu gefährden. Sollte es im Zeitraum zwischen der Wirksamkeit des Bescheides nach § 456a StPO und dem regulären Strafende nicht zu einer Abschiebung kommen, so muss der Betreffende seine Freiheitsstrafe bis zum Ende verbüßen.
 
@@ -59,7 +60,7 @@ Auf welcher Rechtsgrundlage erfolgte wann die Ausweisung?
 
 Wann und aus welchen Gründen wurde die Ausreisepflicht vollziehbar?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Betroffene wurde mit Verfügung vom 12. Juli 2004 gemäß §§ 45 Absatz 1 und 47 Absatz 2 Nummer 4 des in der damaligen Fassung geltenden Ausländergesetzes ausgewiesen. Zugleich wurde ihm die Abschiebung in sein Heimatland angedroht. Hiergegen legte der damals bevollmächtigte Rechtsbeistand am 14. Juli 2004 Widerspruch ein, der mit Bescheid vom 13. September 2004 zurückgewiesen wurde. Die am 20. September 2004 dagegen erhobene Klage wurde mit Urteil des Verwaltungsgerichts Hamburg vom 22. Januar 2009 abgewiesen. Das Verfahren ist rechtskräftig abgeschlossen und die Abschiebungsandrohung vollziehbar.
 

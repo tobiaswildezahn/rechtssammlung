@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62923"
@@ -59,27 +60,27 @@ Ist der Täter in der Vergangenheit wegen Straftaten verurteilt worden?
 
 Im Hinblick auf das Persönlichkeitsrecht des Betroffenen und die gesetzlichen Wertungen des Bundeszentralregistergesetzes sieht der Senat davon ab, etwaige Ermittlungsverfahren mitzuteilen, die durch einen Freispruch oder eine Einstellung beendet worden sind. Dasselbe gilt für Ermittlungsverfahren, die zu einem Abschluss geführt haben, der entweder nicht in ein Führungszeugnis aufzunehmen oder nach den Tilgungsvorschriften des Bundeszentralregistergesetzes nicht mehr zu berücksichtigen ist. Die Auskünfte des Bundeszentralregisters vom 20. Juni 2018 enthalten folgende mitteilungsfähige Eintragungen:
 
- Urteil des AG Hamburg vom 5. September 2001 wegen Raubes zu einer Jugend-
+– Urteil des AG Hamburg vom 5. September 2001 wegen Raubes zu einer Jugend-
 
 strafe von drei Jahren (unter Einbeziehung von drei Vorverurteilungen unter anderem wegen Diebstahls-, Raub- und Erpressungstaten)
 
- Urteil des AG Hamburg-St. Georg vom 18. Februar 2015 wegen Diebstahls und
+– Urteil des AG Hamburg-St. Georg vom 18. Februar 2015 wegen Diebstahls und
 
 Wohnungseinbruchdiebstahls zu einer Freiheitsstrafe von sieben Monaten
 
- Urteil des AG Hamburg-St. Georg vom 13. April. 2015 wegen unerlaubten Handel-
+– Urteil des AG Hamburg-St. Georg vom 13. April. 2015 wegen unerlaubten Handel-
 
 treibens mit Arzneimitteln sowie unerlaubten Besitzes von Betäubungsmitteln zu einer Geldstrafe von 50 Tagessätzen
 
- Urteil des AG Hamburg-Wandsbek vom 24. Oktober 2016 wegen vorsätzlichen
+– Urteil des AG Hamburg-Wandsbek vom 24. Oktober 2016 wegen vorsätzlichen
 
 Führens eines Kraftfahrzeugs ohne Fahrerlaubnis zu einer Geldstrafe von 30 Tagessätzen
 
- Urteil des AG Hamburg vom 7. Juni 2017 wegen vorsätzlichen Fahrens ohne
+– Urteil des AG Hamburg vom 7. Juni 2017 wegen vorsätzlichen Fahrens ohne
 
 Fahrerlaubnis zu einer Geldstrafe von 50 Tagessätzen
 
- Urteil des AG Hamburg-Altona vom 9. Februar 2018 wegen Diebstahls in zwei
+– Urteil des AG Hamburg-Altona vom 9. Februar 2018 wegen Diebstahls in zwei
 
 Fällen zu einer Geldstrafe von 60 Tagessätzen
 

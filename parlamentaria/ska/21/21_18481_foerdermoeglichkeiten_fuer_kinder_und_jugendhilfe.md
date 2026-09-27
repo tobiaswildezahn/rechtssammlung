@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12585"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68139"
@@ -57,7 +58,7 @@ Welche Fördermöglichkeiten durch die Freie und Hansestadt Hamburg (FHH) stehen
 
 An welche Art von Angeboten der Kinder- und Jugendhilfe richten sich die Fördermöglichkeiten nach Frage 1. jeweils?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -107,6 +108,6 @@ Jeweils welche Freien Träger der Kinder- und Jugendhilfe erhielten 2018 sowie i
 
 Welche Freien Träger der Kinder- und Jugendhilfe erhielten beziehungsweise erhalten in den Haushaltsjahren 2018 und 2019 in jeweils welcher Höhe eine institutionelle Förderung aus dem Haushalt? (Bitte jahresweise auflisten.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Zu den ausgezahlten Förderbeträgen siehe Anlage. Der Jahresbericht 2018 zu den Förderhöhen des Sammelfonds für Bußgelder liegt noch nicht vor. Im Übrigen siehe Vorbemerkung.

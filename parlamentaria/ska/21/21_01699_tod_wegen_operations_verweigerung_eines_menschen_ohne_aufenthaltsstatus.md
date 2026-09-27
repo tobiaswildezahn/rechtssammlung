@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49916"
@@ -51,7 +52,7 @@ Gab es vor circa 14 Tagen in der Asklepios Klinik Wandsbek einen Todesfall eines
 
 Wenn es multiples Organversagen war, was waren die Gründe, die zu diesem Organversagen geführt haben?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zu den näheren Umständen des in der Vorbemerkung genannten Todesfalls hat die beteiligte Asklepios Kliniken Hamburg GmbH unter Hinweis auf die ärztliche Schweigepflicht und das eingeleitete staatsanwaltliche Ermittlungsverfahren keine Auskünfte erteilt.
 
@@ -97,7 +98,7 @@ Wenn nein, mit welcher Begründung wurde der Patient von diesen Kliniken abgewie
 
 An welchem Tag und zu welcher Uhrzeit haben die behandelnden Ärzte und Ärztinnen festgestellt, dass der Patient nicht mehr transportfähig war?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Umstände, die zum Tod des Patienten geführt haben, und die jeweilige Rolle der Beteiligten sind Gegenstand der staatsanwaltlichen Ermittlungen.
 

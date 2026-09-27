@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 60069
 seiten: 2
 fragen: 8
-einzelfragen: 15
-antwortbloecke: 7
+einzelfragen: 16
+antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14880", "21/16071"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65881"
@@ -67,20 +68,27 @@ Hält die zuständige Behörde das Staffelgeschoss für genehmigungsfähig, obwo
 
 Entspricht eine Höhe von drei Vollgeschossen und einem Staffelgeschoss im Einzelnen der Eigenart der näheren Umgebung nach § 34 BauGB? Ist eine bauliche Höhe an dieser Stelle auf dieser Basis genehmigungsfähig?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Prüfung des Antrages ist noch nicht abgeschlossen.
 
 ### Frage 6
 
 Gemäß Angaben in Drs. 21/14880 wurde im Kaufvertrag für das Grundstück vereinbart, auf der Fläche unter anderem eine Wohngemeinschaft für neun junge Menschen mit Behinderungen zu errichten.
-6.1. Halten die zuständigen Dienststellen es weiterhin für sinnvoll und notwendig, an dieser Stelle eine solche Wohngemeinschaft für junge Behinderte zu errichten? Wenn nein, warum nicht?
 
-#### Antwort zu Frage 6
+### Frage 6.1
+
+Halten die zuständigen Dienststellen es weiterhin für sinnvoll und notwendig, an dieser Stelle eine solche Wohngemeinschaft für junge Behinderte zu errichten? Wenn nein, warum nicht?
+
+#### Antwort zu Fragen 6 und 6.1
 
 Ja.
 
-6.2. Inwiefern gab oder gibt es Gespräche der für Immobilien zuständigen Behörde, die im Kaufvertrag vorgesehene Nutzung in diesem Punkt zu verändern?
+### Frage 6.2
+
+Inwiefern gab oder gibt es Gespräche der für Immobilien zuständigen Behörde, die im Kaufvertrag vorgesehene Nutzung in diesem Punkt zu verändern?
+
+#### Antwort zu Frage 6.2
 
 Es gab und gibt keine Gespräche bezüglich einer Nutzungsänderung.
 

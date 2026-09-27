@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1223", "21/1364"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49860"
@@ -87,7 +88,7 @@ Welche Organisationen haben einerseits Zuwendungen der Stadt erhalten und arbeit
 
 Auf welcher gesetzlichen Grundlage respektive nach welchen Kriterien entscheiden die jeweiligen Behörden über die Vergabe der Mittel im Einzelnen? Bitte jeweils die gesetzliche Grundlage der entsprechenden Behörde als Zuwendungsgeber zuordnen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die zur Beantwortung benötigten Daten werden statistisch nicht erhoben. Im Übrigen entscheidet die jeweils zuständige Behörde unter Berücksichtigung der fachlichen Vorgaben sowie den einschlägigen Regelungen zur Zuwendungsvergabe in der Freien und Hansestadt Hamburg. Dies sind insbesondere die Landeshaushaltsordnung (LHO), die Verwaltungsvorschriften zu § 46 LHO, die Dienstvorschrift Zuwendungen der zuständigen Behörde sowie diverse fachliche Förderrichtlinien.
 

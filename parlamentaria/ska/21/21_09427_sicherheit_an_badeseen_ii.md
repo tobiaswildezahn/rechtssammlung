@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4973"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58194"
@@ -49,7 +50,7 @@ Wie viele und welche Hamburger Badeseen und Badeorte kommen derzeit ohne Rettung
 
 Wie viele und welche Hamburger Badeseen und Badeorte werden derzeit von der DLRG oder ähnlichen Akteuren betreut? Bitte angeben, welcher Akteur welchen Badesee/Badeort betreut.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Badeseen/Badeorte  
 Badeaufsicht  

@@ -13,9 +13,10 @@ seiten: 1
 fragen: 0
 einzelfragen: 0
 antwortbloecke: 0
-beantwortet: true
+beantwortet: false
+status: "zurückgezogen"
 zitierte_drucksachen: []
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52452"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/52452/21_04072_auftragsvergabe_an_externe_planungsbueros_fuer_radverkehrskonzepte"
 abgerufen: "2026-09-27"
@@ -24,11 +25,9 @@ generator: "ska_archiv 1.0"
 
 # Drs. 21/4072: Auftragsvergabe an externe Planungsbüros für Radverkehrskonzepte
 
-> Schriftliche Kleine Anfrage der Abgeordneten Ralf Niedmers und Dennis Thering (CDU) vom 14.04.16 und Antwort des Senats · Drucksache vom 14.04.2016  
+> Schriftliche Kleine Anfrage der Abgeordneten Ralf Niedmers und Dennis Thering (CDU) vom 14.04.16 · zurückgezogen · Drucksache vom 14.04.2016  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/52452) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/52452/21_04072_auftragsvergabe_an_externe_planungsbueros_fuer_radverkehrskonzepte)
 
-## Volltext
-
-Auftragsvergabe an externe Planungsbüros für Radverkehrskonzepte
+## Hinweis
 
 Die Anfrage wurde zurückgezogen.

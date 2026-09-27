@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52660"
@@ -134,7 +135,7 @@ Was wird Senator Steffen nun konkret tun, um bei solchen Verfahren einen bessere
 
 Was wird Senator Steffen unternehmen, damit die Justizbehörde die JVA Fuhlsbüttel bei der Planung und Umsetzung von Resozialisierungsmaßnahmen für Sicherungsverwahrte künftig enger begleitet (bitte genau erklären)?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Der Informationsaustausch zwischen der Fachabteilung der zuständigen Behörde und der JVA Fuhlsbüttel wurde intensiviert. In ähnlich gelagerten Fällen werden künftig die betroffene JVA und die Aufsichtsabteilung der zuständigen Behörde gemeinsam prüfen, wie im konkreten Fall zu verfahren ist.
 

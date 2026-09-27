@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62849"
@@ -53,7 +54,7 @@ Wie viele und welche Schulen haben sich bisher zusätzlich als Partnerschule des
 
 Welche dieser Schulen sind für 2018 als Partnerschule des Nachwuchsleistungssportes ausgezeichnet worden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Partnerschulen des Nachwuchsleistungssports sind bisher das Gymnasium Heidberg sowie die Stadtteilschule Fischbek-Falkenberg. Die Stadtteilschule Alter Teichweg wurde zur Partnerschule des Spitzensports ernannt. Darüber hinaus haben sich die Heinrich-Hertz-Schule, die Otto-Hahn-Schule, das Gymnasium Rissen, das Matthias- Claudius-Gymnasium, das Carl-von-Ossietzky-Gymnasium und das Gymnasium Hochrad für das Prädikat Partnerschule des Nachwuchsleistungssports beworben.
 
@@ -75,7 +76,7 @@ Wie viele Unterrichtsstunden im Sportunterricht sind in diesen Schulen seit 2015
 
 Wie viele Unterrichtsstunden im Sportunterricht sind an alle sonstigen allgemeinbildenden Schulen seit 2015 jeweils ausgefallen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im Rahmen der Erhebung der Unterrichtsausfallstatistik werden von der zuständigen Behörde keine fächerbezogenen Daten erfasst.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 18
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56300"
@@ -63,7 +64,7 @@ An wie vielen und welchen weiterführenden staatlichen Schulen in Hamburg wurde/
 
 Wie viele Schüler/-innen welcher Jahrgangsstufe nahmen/nehmen seit 2015/2016 bis heute (Stand Januar 2017) insgesamt an diesen Mathe- Ferienförderangeboten teil? (Bitte für jedes Schuljahr einzeln in einer Excel-Tabelle angeben.) a. Wie viele waren es dabei an den betreffenden weiterführenden Schulen im Einzelnen? (Bitte mit Nennung des Standorts, der Schulform, des Sozialindexes und der Jahrgangsstufe in absoluten Zahlen und in Prozent zur Gesamtschüler-/-innenschaft des Jahrgangs an der betreffenden Schule in der Tabelle zu 2. angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die für Bildung zuständige Behörde erhebt keine zentralen Daten über diese zusätzlichen, freiwilligen Angebote der Schulen. Die Durchführung einer Schulabfrage war im Rahmen dieser Parlamentarischen Anfrage aufgrund des Ferientags (30.01.2017) zum Ende des Schulhalbjahres nicht möglich.
 
@@ -99,7 +100,7 @@ Wurde/wird dieser Ferienförderunterricht in Mathematik seit 2015/2016 bis heute
 
 Sollten keine schuleigenen Fachlehrer/-innen für Mathematik diesen Ferienförderunterricht betreut haben/betreuen: Welche Kräfte in welchem Anstellungs- beziehungsweise Vertragsverhältnis, von welchem Träger und mit welcher fachlichen sowie pädagogischen Qualifikation taten/tun dies dann? (Bitte fachliche und pädagogische Qualifikation sowie das Anstellungsverhältnis angeben.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Schulen entscheiden in eigener Verantwortung, welche Fachkräfte – wie zum Beispiel Lehrkräfte im Vorbereitungsdienst, Vertretungslehrkräfte, Honorarkräfte einzelner Träger – mit der Durchführung etwaiger Ferienförderungskurse betreut werden. Mit der Beauftragung sichern die Schulen die fachliche Qualität der zusätzlichen Lernförderung ab. Ziel ist es, die für die Abiturprüfung vorbereitenden Unterlagen und Beispielaufgaben vertiefend zu bearbeiten. Im Übrigen siehe Antwort zu 1. bis 2. a.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57913"
@@ -105,7 +106,7 @@ Welche Fortschritte sind bei der Netzwerkarbeit der BGV mit Migranten als Akteur
 
 Wie genau stellen sich die Pflegestützpunkte den Themen Migration und Demenz?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 4).
 

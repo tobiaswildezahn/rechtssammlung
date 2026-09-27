@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 22
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19202", "21/10878"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69848"
@@ -73,7 +74,7 @@ Hat die Wissenschaftsbehörde nach dem Polizeieinsatz auf dem Gelände der Unive
 
 Hat die Universitätsleitung nach dem Polizeieinsatz auf dem eigenen Gelände eine Untersuchung des Vorfalls eingeleitet? Wenn ja, wann und mit welchem Ergebnis? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Nein. Die Untersuchung von Straftaten obliegt den Strafverfolgungsbehörden.
 

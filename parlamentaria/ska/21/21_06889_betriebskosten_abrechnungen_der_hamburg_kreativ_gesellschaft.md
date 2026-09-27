@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55745"
@@ -105,7 +106,7 @@ In welchem Rhythmus erstellt die Hamburg Kreativ Gesellschaft ihren Mietern Betr
 
 Trifft es zu, dass die Hamburg Kreativ Gesellschaft einzelnen Mietern keine oder nur unregelmäßig Betriebskosten-Abrechnungen zukommen lässt? Wenn ja: aus welchen Gründen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Sofern in den Untermietverträgen die Abrechnung von Nebenkosten vertraglich vereinbart wurde, erfolgt nach Angaben der HKG auch eine Abrechnung, in der Regel ist der Abrechnungszeitraum das Kalenderjahr. Eine Frist, innerhalb derer die Abrechnung zu erfolgen hat, ist vertraglich nicht festgelegt. Voraussetzung für die Abrechnung ist das Vorliegen der vollständigen Abrechnungsunterlagen des Vermieters. Aufgrund dieser Abhängigkeit und des darauf folgenden Bearbeitungsaufwands durch
 

@@ -11,9 +11,10 @@ fraktionen: ["Die Linke"]
 vorgang: 59290
 seiten: 3
 fragen: 9
-einzelfragen: 16
-antwortbloecke: 8
+einzelfragen: 18
+antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12610"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65027"
@@ -58,38 +59,62 @@ In diesem Bürgerschaftsbeschluss ist auch davon die Rede, dass das Denkmalschut
 ### Frage 3
 
 In einem Artikel der „Bild“-Zeitung Hamburg vom 11. Oktober 2018 wird Behördensprecher Enno Isermann mit diesen Worten zitiert: „Wir bereiten eine Sicherungsverfügung vor, d.h. eine detaillierte Festlegung notwendiger Maßnahmen mit sorgfältiger Begründung und einer Aufforderung zur unverzügliche n Umsetzung.“
-3.1. Was ist zwischenzeitlich aus dieser Ankündigung geworden?
-3.2. Liegen die Sicherungsverfügung und die Aufforderung zur unverzüglichen Umsetzung vor? Wenn ja, seit wann und mit welchen Inhalten/Maßnahmen? Wenn nein, warum nicht und bis wann soll diese seit Jahren überfällig Maßnahme endlich realisiert werden?
 
-#### Antwort zu Fragen 2 bis 3
+### Frage 3.1
+
+Was ist zwischenzeitlich aus dieser Ankündigung geworden?
+
+### Frage 3.2
+
+Liegen die Sicherungsverfügung und die Aufforderung zur unverzüglichen Umsetzung vor? Wenn ja, seit wann und mit welchen Inhalten/Maßnahmen? Wenn nein, warum nicht und bis wann soll diese seit Jahren überfällig Maßnahme endlich realisiert werden?
+
+#### Antwort zu Fragen 2, 3, 3.1 und 3.2
 
 Aus Sicht der zuständigen Behörde sind aufgrund der gutachterlichen Stellungnahme Sicherungsmaßnahmen erforderlich. Die zuständige Behörde hat aufgrund der besonderen fachlichen und rechtlichen Anforderungen die Behörde für Stadtentwicklung und Wohnen/Amt für Bauordnung und Hochbau mit der Erarbeitung eines ausführungsreifen Sicherungskonzepts beauftragt.
 
 Aufgrund der komplexen Anforderungen ist der Erlass der Verfügung voraussichtlich erst Anfang 2019 möglich.
 
-3.3. Wie lange benötigen die verantwortlichen Behörden im Durchschnitt, um eine solche Sicherungsverfügung vorzubereiten – allemal angesichts einer absoluten Gefahrenlage wie im Falle der Schiller-Oper?
+### Frage 3.3
 
-3.4. Was unternehmen die zuständigen Stellen im vorliegenden und in vergleichbaren Fällen, das Tempo behördlicher Maßnahmen deutlich zu steigern?
+Wie lange benötigen die verantwortlichen Behörden im Durchschnitt, um eine solche Sicherungsverfügung vorzubereiten – allemal angesichts einer absoluten Gefahrenlage wie im Falle der Schiller-Oper?
+
+### Frage 3.4
+
+Was unternehmen die zuständigen Stellen im vorliegenden und in vergleichbaren Fällen, das Tempo behördlicher Maßnahmen deutlich zu steigern?
+
+#### Antwort zu Fragen 3.3 und 3.4
 
 Da eine Sicherungsverfügung eine sehr seltene Ausnahme aufgrund eines Einzelfalls ist, gibt es keine validen Durchschnittswerte.
 
 ### Frage 4
 
 Was ist möglicherweise, auch unabhängig von dieser Ankündigung des Behördensprechers, in den vergangenen Wochen unternommen worden, um das Objekt winterfest zu machen?
-4.1. Was ist überhaupt in dieser Richtung geschehen, seitdem ich vor fast genau einem Jahr eine ähnliche Frage an den Senat gerichtet hatte?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+Was ist überhaupt in dieser Richtung geschehen, seitdem ich vor fast genau einem Jahr eine ähnliche Frage an den Senat gerichtet hatte?
+
+#### Antwort zu Fragen 4 und 4.1
 
 Siehe Antwort zu 2. bis 3.2.
 
 ### Frage 5
 
 Laut „der tageszeitung“ Hamburg vom 12. November 2018 hat die Eigentümerin ein im November angesetztes Gespräch mit dem Denkmalschutz durch Fernbleiben „gewürdigt“.
-5.1. Wie viele Gespräche hat es im vergangenen Jahr mit dieser Person gegeben?
-5.2. Wie viele haben wann mit jeweils welchem Ergebnis stattgefunden?
-5.3. Wann sind anberaumte Termine warum abgesagt oder gänzlich missachtet worden?
 
-#### Antwort zu Frage 5
+### Frage 5.1
+
+Wie viele Gespräche hat es im vergangenen Jahr mit dieser Person gegeben?
+
+### Frage 5.2
+
+Wie viele haben wann mit jeweils welchem Ergebnis stattgefunden?
+
+### Frage 5.3
+
+Wann sind anberaumte Termine warum abgesagt oder gänzlich missachtet worden?
+
+#### Antwort zu Fragen 5, 5.1, 5.2 und 5.3
 
 Das Denkmalschutzamt hat ein Gespräch geführt, das am 7. Februar 2018 im Rahmen der Begehung des Objektes stattfand (vergleiche Drs. 21/12610). Die weitere Kommunikation fand schriftlich statt.
 

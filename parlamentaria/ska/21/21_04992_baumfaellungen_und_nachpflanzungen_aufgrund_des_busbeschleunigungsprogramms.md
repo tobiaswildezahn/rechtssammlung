@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/2508", "21/73"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53437"
@@ -59,7 +60,7 @@ An welchen Straßen wurden im Rahmen des Busbeschleunigungsprogramms bisher wie 
 
 Wie viele Bäume wurden an den unter 2. aufgeführten Straßen als Ausgleichsmaßnahmen nachgepflanzt beziehungsweise neu gepflanzt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage.
 

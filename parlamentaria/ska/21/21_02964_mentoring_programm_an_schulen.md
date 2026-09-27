@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 18
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/8472", "21/1930", "20/6934"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51290"
@@ -49,7 +50,7 @@ Seit wann gibt es dieses Mentoring-System?
 
 Handelt es sich um ein Pilot-Projekt oder ist es flächendeckend im Rahmen von AvDual eingeführt worden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -113,7 +114,7 @@ Wie viele Mentoren gibt es?
 
 Welche Personen stehen als Mentoren zur Verfügung?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Als Mentoren stehen für die Beratung und Unterstützung der Schülerinnen und Schüler insgesamt 351 Lehrkräfte der berufsbildenden Schulen sowie Av-Begleiterinnen und -Begleiter zur Verfügung (Stand 27. Januar 2016). Im Übrigen siehe Vorbemerkung.
 

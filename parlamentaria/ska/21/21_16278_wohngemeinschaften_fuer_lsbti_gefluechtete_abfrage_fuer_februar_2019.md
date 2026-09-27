@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10994", "21/4174", "21/5581", "21/6163", "21/6891", "21/7485", "21/10281", "21/10457", "21/3649", "21/4569", "21/15678", "21/5584"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65793"
@@ -49,7 +50,7 @@ Hat der Senat mittlerweile Kenntnis davon, wie groß der Anteil von LSBTI* an de
 
 Auf der Grundlage welcher gesicherten Informationen (denn weder die Größe der LSBTI*-Gruppe unter den Migranten noch die Anzahl von Fällen transphober Gewalt wurden nach Aussage des Senats statistisch erfasst) hat sich der Senat 2016 im Rahmen neuer Schutzkonzepte dazu entschlossen, LSBTI*-Migranten als „besonders schutzbedürftig“ einzustufen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung, Drs. 21/3649, 21/4569 und Drs. 21/10457.
 
@@ -85,7 +86,7 @@ In wie vielen Fällen wurden Immobilien angemietet beziehungsweise neu gebaut?
 
 Wie viel Geld hat der Senat 2018 für die „besondere Schutzbedürftigkeit“ von LSBTI*-Migranten ausgegeben?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/15678 und 21/10457.
 
@@ -131,6 +132,6 @@ Was ist bis heute aus den angemieteten Appartements für LSBTI*- Migranten gewor
 
 Ist gegenwärtig geplant, in Zukunft Wohnprojekte für LSBTI*-Migranten zu schaffen? Falls ja, welche und wie hoch belaufen sich die dafür anfallenden Kosten? Falls nein, warum nicht?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Nein. Im Übrigen siehe Antwort zu 3.

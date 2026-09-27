@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5830", "21/7661", "21/9040", "21/9053"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57788"
@@ -75,6 +76,6 @@ Warum bekennen sich die islamischen Glaubensgemeinschaften in Artikel 4 explizit
 
 Impliziert dieses Bekenntnis, die Tatsache, dass in vielen islamischen Ländern religiöse Bildungseinrichtungen existieren, die staatliche Strukturen überlagern und Kinder dahin gehend beeinflussen, den Unterricht an staatlichen Schulen zugunsten von religiösem zu vernachlässigen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung. Im Übrigen hat sich der Senat hiermit nicht befasst.

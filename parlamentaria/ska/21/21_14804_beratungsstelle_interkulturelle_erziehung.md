@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/3163"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64239"
@@ -91,15 +92,15 @@ Welche bedeutsamen Beiträge hat die Beratungsstelle zur Thematik „Vielfalt“
 
 Die Angebote der Beratungsstelle Interkulturelle Erziehung umfassen unter anderem folgende Bereiche und werden von den Hamburger Schulen und schulischen Unterstützungssystemen regelhaft genutzt:
 
- Beratung und Information zu interkulturellen Fragen,
+– Beratung und Information zu interkulturellen Fragen,
 
- die Vermittlung von Sprach- und Kulturmittlerinnen und -mittlern an Schulen,
+– die Vermittlung von Sprach- und Kulturmittlerinnen und -mittlern an Schulen,
 
- Fortbildung und Schulbegleitung zu interkulturellen Themen mit einem Themen-
+– Fortbildung und Schulbegleitung zu interkulturellen Themen mit einem Themen-
 
 spektrum von interkultureller Kommunikation über Konfliktprävention sowie Elternkooperation,
 
- die Qualifizierungsmaßnahmen zu:
+– die Qualifizierungsmaßnahmen zu:
 
 a) Sprach- und Kulturmittlerinnen und -mittlern,
 
@@ -107,11 +108,11 @@ b) interkulturellen Trainerinnen und Trainern (Interkulturelles Kompetenztrainin
 
 c) interkulturellen Koordination (Qualifizierung zur interkulturellen Koordination),
 
- Tagungen und Fachmessen,
+– Tagungen und Fachmessen,
 
- Publikationen und Newsletter und
+– Publikationen und Newsletter und
 
- Tätigkeiten des Hamburger Netzwerks „Lehrkräfte mit Migrationsgeschichte“.
+– Tätigkeiten des Hamburger Netzwerks „Lehrkräfte mit Migrationsgeschichte“.
 
 ### Frage 8
 

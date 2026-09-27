@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14668", "21/14777", "21/14861", "21/14941", "19/3572", "20/12697"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64504"
@@ -101,7 +102,7 @@ Wie bekannt wurde, ist es in manchen Unterkünften mit Verweis auf die Hausordnu
 
 Wie stellt sich die Situation in den nicht von f & w betriebenen Folgeunterkünften dar? Welche Vorgaben gibt es dort und wie unterscheiden sich diese von denen bei f & w? Bitte ausführlich darstellen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Durch die Hausordnungen der Betreiber f & w, DRK sowie AWO wird die Nutzung eigener elektrischer, nicht fest installierter Geräte nicht reglementiert. Es gelten die allgemeinen Brandschutzvorschriften.
 

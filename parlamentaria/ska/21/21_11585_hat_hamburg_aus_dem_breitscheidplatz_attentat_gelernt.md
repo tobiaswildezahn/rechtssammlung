@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3165"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60812"
@@ -370,7 +371,7 @@ Liegen der zuständigen Behörde Informationen über Erfahrungswerte aus anderen
 
 Inwiefern bestehen seitens der zuständigen Behörde Planungen zur Einrichtung beziehungsweise zu dem Ausbau zu einer Zentralstelle zur gezielten Bekämpfung von Extremismus und Terrorismus – auch unter dem Gesichtspunkt der Anwendung und Berücksichtigung des „Al Capone-Prinzips“?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Bei der Polizei Hamburg ist das LKA 7 die zentrale Stelle zur gezielten Bekämpfung von Extremismus und Terrorismus; darüber hinaus bestehen derzeit keine Planungen zum weiteren Ausbau der polizeilichen Zuständigkeiten.
 

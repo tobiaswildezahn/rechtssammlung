@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7390", "21/3877", "21/5121", "21/6822", "21/5780", "21/7435"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56984"
@@ -51,7 +52,7 @@ Welche erforderlichen Daten für die Ermittlung der notwendigen Haftplatzbedarfe
 
 Lässt sich die zuständige Behörde regelmäßig die Belegungszahlen des Jugend- und Frauenvollzuges aus Schleswig-Holstein nennen? Falls nein, weshalb nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es erfolgt ein fortgesetztes Haftplatzmonitoring entsprechend des in der Drs. 21/5780 beschriebenen Verfahrens, in dessen Rahmen die hierfür erforderlichen Daten mitgeteilt werden.
 
@@ -63,7 +64,7 @@ Wie haben sich Belegungsfähigkeit und tatsächliche Belegung im Frauenvollzug d
 
 Wie haben sich Belegungsfähigkeit und tatsächliche Belegung im Jugendvollzug in der JVA Neumünster sowie in der JVA Schleswig einschließlich Sozialtherapie monatlich seit August 2016 entwickelt? (Bitte jeweils zum Monatsersten als Stichtag, differenziert nach Strafhaft, Sozialtherapie, Untersuchungshaft und offenem Vollzug darstellen.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die erfragten Daten liegen nicht vor. Informationen, die andere Länder betreffen, liegen außerhalb des Verantwortungsbereichs des Senats und der parlamentarischen Kontrolle der Bürgerschaft und werden daher vom parlamentarischen Fragerecht nicht erfasst.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10035"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59616"
@@ -157,13 +158,13 @@ Wie konnten die vorhandenen Busse eingesetzt werden? Bitte für jedes der oben g
 
 Die Linieneinsätze teilen sich folgendermaßen auf:
 
- Solaris Batteriebusse ausschließlich auf der Linie 109.
+– Solaris Batteriebusse ausschließlich auf der Linie 109.
 
- Solaris Brennstoffzellen-Hybrid-Gelenkbusse überwiegend auf der Linie 109 und
+– Solaris Brennstoffzellen-Hybrid-Gelenkbusse überwiegend auf der Linie 109 und
 
 einzelne Fahrten umlaufbedingt auf den Linien 176 und 276.
 
- EvoBus Brennstoffzellen-Hybrid-Busse überwiegend auf der Linie 109, vereinzelter
+– EvoBus Brennstoffzellen-Hybrid-Busse überwiegend auf der Linie 109, vereinzelter
 
 Einsatz auf anderen Linien.
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 20
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/928"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49177"
@@ -95,7 +96,7 @@ Auf welche personellen Ressourcen plant der Schulsenator zur Umsetzung seiner �
 
 Sofern Neueinstellungen von Fachlehrern notwendig sind: Wie viele zusätzliche Fachlehrer werden zu welchem Zeitpunkt, das heißt kurz-, mittel- und langfristig benötigt, um den Mehrbedarf abzudecken und sind diese zusätzlich benötigten Fachlehrkräfte am Arbeitsmarkt abrufbar? Falls nein, wie soll dieses Problem nach den Plänen der Schulbehörde gelöst werden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Zahl der den Hamburger Schulen zur Verfügung stehenden Mathematiklehrkräfte ist insgesamt ausreichend.
 

@@ -14,6 +14,7 @@ fragen: 49
 einzelfragen: 138
 antwortbloecke: 42
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5231", "21/4991", "21/4940", "21/4943", "21/5109", "21/5729", "21/5634", "21/5636", "20/917", "21/3894", "21/5765", "21/2312", "21/2718", "21/3549", "21/4159", "21/4328", "21/5511", "21/5635", "21/5663", "21/5000", "21/4949", "21/732"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54283"
@@ -55,7 +56,7 @@ Sind durch den Bürgervertrag Handlungen oder Beschlüsse der beteiligten Vertra
 
 Welche Konsequenzen haben welche Verstöße gegen den Vertrag?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/4991.
 
@@ -67,7 +68,7 @@ In welchen Einrichtungen in den Stadtteilen Lurup, Osdorf und Bahrenfeld sind ge
 
 Welche der unter Punkt 4. genannten Einrichtungen sollen bis wann über welche Zwischenschritte geschlossen und aufgegeben werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/4940 und 21/4943. Im Übrigen sind die Planungen noch nicht konkretisiert.
 
@@ -186,7 +187,7 @@ Welche Nutzungen sind nach dem 31. Dezember 2020 auf den beiden Baufeldern vorge
 
 Sieht der Senat weitere Flüchtlingsunterkünfte nach Ende 2021 auf dem Gelände der Graf-Baudissin-Kaserne vor? Verzichtet der Senat auf weitere Flüchtlingsunterkünfte auf dem Gelände der Graf-Baudissin-Kaserne nach dem 31. Dezember 2020?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Es handelt sich um befristet verfügbare Flächen der Bundeswehr (Bw), die nach Ablauf der Nutzungsdauer wieder an die Bw zurückgegeben werden.
 
@@ -305,7 +306,7 @@ Wie viele Flüchtlinge sollen an diesem Standort untergebracht werden?
 
 Wie sieht der genaue Nutzungs- und Belegungszeitplan für diese Einrichtung aus?
 
-#### Antwort zu Fragen 30 bis 31
+#### Antwort zu Fragen 30 und 31
 
 Die Planungen sind noch nicht abgeschlossen. Zur Belegung siehe Drs. 21/3894.
 
@@ -357,7 +358,7 @@ Welche Polizeistationen sind jeweils für die Unterkünfte in Lurup, Osdorf und 
 
 In welcher Form wird die Polizei zusätzlich zu den bisherigen Maßnahmen für Sicherheit in den und im Umfeld der Unterkünfte/n sorgen?
 
-#### Antwort zu Fragen 37 bis 38
+#### Antwort zu Fragen 37 und 38
 
 Das Polizeikommissariat (PK) 25 ist für die Unterkünfte in Bahrenfeld und Lurup und das PK 26 für die Unterkünfte in Osdorf zuständig.
 
@@ -452,31 +453,31 @@ Unabhängig von dem in der Anfrage thematisierten Bürgervertrag investiert der 
 
 Schule Langbargheide (Langbargheide 40):
 
-• Sporthalle (Sanierung) – Baubeginn 2016/Baufertigstellung 2016
+– Sporthalle (Sanierung) – Baubeginn 2016/Baufertigstellung 2016
 
 Geschwister-Scholl-Stadtteilschule (Böttcherkamp 181):
 
-• Sporthalle (Zubau) – Baubeginn 2017/Baufertigstellung 2019
+– Sporthalle (Zubau) – Baubeginn 2017/Baufertigstellung 2019
 
 Stadtteilschule Lurup (Standort in Erschließung):
 
-• Sporthalle (Zubau) – Baubeginn 2017/Baufertigstellung 2019
+– Sporthalle (Zubau) – Baubeginn 2017/Baufertigstellung 2019
 
 Grundschule Wesperloh (Wesperloh 19):
 
-• Sporthalle (Zubau) – Baubeginn 2015/Baufertigstellung 2016
+– Sporthalle (Zubau) – Baubeginn 2015/Baufertigstellung 2016
 
 Stadtteilschule Flottbek (Ohlenkamp 15):
 
-• Sporthalle (Zubau) – Baubeginn 2017/Baufertigstellung 2018
+– Sporthalle (Zubau) – Baubeginn 2017/Baufertigstellung 2018
 
 Grundschule Groß Flottbek (Osdorfer Weg 24):
 
-• Sporthalle (Zubau) – Baubeginn 2016/Baufertigstellung 2017
+– Sporthalle (Zubau) – Baubeginn 2016/Baufertigstellung 2017
 
 Schule Kielkamp (Kielkamp 16):
 
-• Sporthalle (Sanierung) – Baubeginn 2016/Baufertigstellung 2016
+– Sporthalle (Sanierung) – Baubeginn 2016/Baufertigstellung 2016
 
 Weitere Bestandshallen im Gebiet Lurup/Osdorf/Bahrenfeld sind vollumfänglich nutzbar und bedürfen keiner Sanierung gemäß Rahmenplan Schulbau.
 

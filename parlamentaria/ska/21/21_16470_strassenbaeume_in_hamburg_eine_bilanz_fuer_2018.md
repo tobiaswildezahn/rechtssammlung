@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13771"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65985"
@@ -69,7 +70,7 @@ Wie viele Anträge auf Fällung von Bäumen auf privatem Grund gab es im Jahr 20
 
 Wie viele Anträge gemäß Frage 4. wurden im Jahr 2018 bewilligt? (Bitte nach Bezirk aufschlüsseln.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Bezirk  
 Anträge auf Fällung  

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11486"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62304"
@@ -43,7 +44,7 @@ Wurden zwischenzeitlich die Identität und die Herkunft der Person zweifelsfrei 
 
 Wurde das Alter der Person zweifelsfrei festgestellt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nein. Der Betroffene kommt seinen Mitwirkungspflichten weiterhin nur unzureichend nach. Er wird von der Ausländerbehörde regelmäßig zu seinen Bemühungen und seiner Identität befragt und auf seine Mitwirkungspflichten hingewiesen. Bemühungen bei der Auslandsvertretung Marokkos, die marokkanische Staatsangehörigkeit anerkennen zu lassen, sind bisher aufgrund von Identitätsfragen erfolglos geblieben. Weitere Möglichkeiten der Identitätsaufklärung seitens der Ausländerbehörde werden derzeit geprüft.
 

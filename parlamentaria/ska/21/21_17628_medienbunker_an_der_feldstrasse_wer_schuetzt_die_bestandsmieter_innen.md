@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 28
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17306"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67228"
@@ -136,7 +137,7 @@ Welche Schäden und/oder Beeinträchtigungen hat die Freie und Hansestadt Hambur
 a) Welche Vereinbarungen wurden gegebenenfalls getroffen, die eine Dachsanierung betreffen?
 b) Welche Kosten sind für die Freie und Hansestadt Hamburg entstanden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Das Bezirksamt Hamburg-Mitte hatte im Jahr 2016 ein Sachverständigen-Gutachten über die fachtechnische Beurteilung der Gründachplanung in Auftrag gegeben, siehe: http://daten.transparenz.hamburg.de/Dataport.HmbTG.ZS.Webservice.GetRessource 100/GetRessource100.svc/aab3f513-6ebd-4dc5-be70-a37fd6a01132/Akte_000.00-
 04.pdf.

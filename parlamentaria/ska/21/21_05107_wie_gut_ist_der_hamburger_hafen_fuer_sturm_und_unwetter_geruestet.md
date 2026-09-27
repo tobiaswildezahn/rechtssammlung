@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11550"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53575"
@@ -55,7 +56,7 @@ Welche Schiffe haben sich in den Jahren 2011 bis 2016 von den Liegeplätzen losg
 
 Was waren die konkreten Ursachen für ein Losreißen der Schiffe (bitte im Einzelnen nach Jahren gegliedert erläutern)?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Schiffstyp und Größe  
 Ursache  

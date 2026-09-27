@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3280", "21/93"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51931"
@@ -55,7 +56,7 @@ Inwieweit genügt die in Niedersachsen betriebene Anlage zur Telefonüberwachung
 
 Wie werden die bisher in Hamburg praktizierte Telefonüberwachung und die in Niedersachsen genutzte Anlage hinsichtlich des Datenschutzes bewertet? Inwiefern wird etwaigen Bedenken abgeholfen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die geäußerten datenschutzrechtlichen Bedenken beziehen sich auf technische Aspekte der aktuell in Niedersachsen betriebenen TKÜ-Anlage.
 
@@ -83,6 +84,6 @@ Inwieweit werden die Mitarbeiter der Hamburger Polizei bei der Entwicklung der K
 
 Inwieweit wurde und wird die in der Presse geäußerte Kritik der Polizeibeamten intern bei der Entwicklung der Kooperation der norddeutschen Bundesländer zur Telefonüberwachung berücksichtigt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 In das länderübergreifende Projekt zur Zentralisierung der TKÜ der Polizeien der Nordländer sind bereits seit Projektbeginn Fachleute der Polizei Hamburg wie der Behörde für Inneres und Sport eingebunden, die dort die spezifischen Interessen Hamburgs im Rahmen einer Kooperationslösung vertreten.

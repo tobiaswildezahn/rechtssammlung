@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7734"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65818"
@@ -67,31 +68,31 @@ Wie sind die Zahlen der Schulabgängerbefragung 2018 in den beteiligten Schulen?
 
 #### Antwort zu Frage 1
 
- Schulform
+– Schulform
 
- Sozialindex
+– Sozialindex
 
- Schulnummer
+– Schulnummer
 
- Zahl der Schulabgängerinnen und -abgänger absolut und in Prozent
+– Zahl der Schulabgängerinnen und -abgänger absolut und in Prozent
 
- Zahl der an der Schulabgängerbefragung beteiligten Schulabgänger/-
+– Zahl der an der Schulabgängerbefragung beteiligten Schulabgänger/-
 
 innen absolut und in Prozent
 
- Zahl der Schulabgänger/-innen, die angaben, dass sie in eine betrieb-
+– Zahl der Schulabgänger/-innen, die angaben, dass sie in eine betrieb-
 
 liche, schulische, außerbetriebliche oder berufsqualifizierende Ausbildung wechseln würden absolut und in Prozent
 
- Zahl der Schulabgänger/-innen, die angaben, dass sie eine betriebli-
+– Zahl der Schulabgänger/-innen, die angaben, dass sie eine betriebli-
 
 che Ausbildung aufnehmen würden, absolut und in Prozent
 
- Zahl der Schulabgänger/-innen, die „gesicherte und geklärte Verblei-
+– Zahl der Schulabgänger/-innen, die „gesicherte und geklärte Verblei-
 
 be“ angaben, absolut und in Prozent
 
- Zahl der Schulabgänger/-innen, die „Sonstiges“ nannten absolut und
+– Zahl der Schulabgänger/-innen, die „Sonstiges“ nannten absolut und
 
 in Prozent
 
@@ -103,6 +104,6 @@ Wie sind die Zahlen der Schulabgängerbefragung 2018 in den Stadtteilen Hamburgs
 
 Wie sind die Zahlen der Schulabgängerbefragung 2018 in den Bezirken Hamburgs? Bitte für jeden Bezirk die Zahlen für die unter 1. genannten Merkmale in einer Excel-Tabelle aufführen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die schulgenauen Daten der Verbleibanalyse 2018, den Bezirken und Stadtteilen zugeordnet, ergeben sich für die Stadtteilschulen aus der Anlage 1, für die ReBBZ aus der Anlage 2 und für Schulen in privater Trägerschaft aus der Anlage 3. Im Übrigen siehe Vorbemerkung.

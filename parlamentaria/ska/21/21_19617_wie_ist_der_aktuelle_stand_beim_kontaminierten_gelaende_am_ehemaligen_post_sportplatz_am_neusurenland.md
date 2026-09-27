@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69344"
@@ -43,7 +44,7 @@ Wie lauten die Ergebnisse der durchgeführten Machbarkeitsstudie?
 
 Welche Kosten werden für die Sanierung des Geländes veranschlagt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Rahmen einer Machbarkeitsstudie der Behörde für Umwelt und Energie (BUE) wurden verschiedene Sanierungsvarianten mit dem Ergebnis untersucht, dass eine Sanierung technisch machbar ist. Dabei unterscheiden sich allerdings Aufwand und Ausführungsrisiken der Varianten deutlich voneinander. Eine Sanierungsnotwendigkeit der Altablagerung bei Beibehaltung der gegenwärtigen Nutzung ergibt sich jedoch nicht.
 
@@ -95,7 +96,7 @@ Wann gedenkt das Bezirksamt beziehungsweise die Fachbehörde die Ergebnisse der 
 
 In welcher Form soll dies passieren?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Das zuständige Bezirksamt plant gemeinsam mit der zuständigen Fachbehörde einen Termin für das 1. Quartal im Jahr 2020.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48795"
@@ -57,7 +58,7 @@ Wer entscheidet über die Genehmigung von Veranstaltungen auf dieser Fläche?
 
 Nach welchen Kriterien wird die Genehmigung erteilt beziehungsweise verweigert?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Entscheidung über die Genehmigung von Veranstaltungen erfolgt durch das zuständige Bezirksamt unter Zugrundelegung der Kriterien aus dem für die Nutzung des Platzes geltenden Nutzungskonzept.
 

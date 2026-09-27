@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/2428", "20/3220", "21/2177"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54285"
@@ -55,7 +56,7 @@ Wie genau soll die weitere Freigabe der Ländergarantie aus Sicht des Senates er
 
 Aus welchem Grund sind für die Assetübernahme über 5 Milliarden Euro nicht 5 Milliarden Euro an Garantie freigegeben worden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bei der Garantie der hsh finanzfonds AöR (finfo) gegenüber der HSH vom 2. Juni 2009 handelt es sich um eine Zweitverlustgarantie (siehe Drs. 19/2428 und 20/3220). Aus der Übertragung von Portfolien auf die hsh portfoliomanagement AöR ist der HSH nach Zahlung des von der EU-Kommission festgelegten Kaufpreises in Höhe von rund 2,4 Milliarden Euro ein Verlust in Höhe von rund 2,6 Milliarden Euro entstanden, der bis zur Ausschöpfung der Erstverlusttranche in Höhe von 3,2 Milliarden Euro auf diese und darüber hinaus auf die Zweitverlusttranche angerechnet wurde. Die Anrechnung
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 21
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["16/4616"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61443"
@@ -57,7 +58,7 @@ Welche Erkenntnisse hat der Senat über Abrechnungsbetrug in der Pflege?
 
 Welche Informationen besitzt der Senat über die Strukturen und die Vorgehensweise beim Abrechnungsbetrug? Welche Methoden wenden die Betrüger an?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In einem Bericht des Bundeskriminalamts (BKA) über Abrechnungsbetrug durch Pflegedienste spricht das BKA 2016 von organisiertem Vorgehen, das durch mangelnde Vernetzung der Krankenkassen, Pflegekassen und Sozialämter begünstigt werde. Eigene Erkenntnisse liegen dem Senat dazu nicht vor.
 
@@ -141,27 +142,27 @@ Das Projekt Abrechnungsprüfdienst des Sozialhilfeträgers (PApSt) startete am
 
 Das beim Bezirksamt Eimsbüttel angesiedelte Projektteam sollte für den Zuständigkeitsbereich der Freien und Hansestadt Hamburg
 
- Bewilligungen, Rechnungen, Leistungsnachweise, Dienst- und Tourenpläne in
+– Bewilligungen, Rechnungen, Leistungsnachweise, Dienst- und Tourenpläne in
 
 Bezug zu ausgewählten Personen im Sozialhilfebezug zum Abgleich mit den Daten der Pflegekassen sammeln,
 
- Abweichungen und Unregelmäßigkeiten zusammenstellen, in Zusammenarbeit mit
+– Abweichungen und Unregelmäßigkeiten zusammenstellen, in Zusammenarbeit mit
 
 den bezirklichen Rechtsämtern Informationen für eine Strafanzeige und Unterlagen zur Begründung eines Durchsuchungsbeschlusses vorbereiten,
 
- an kombinierten Qualitäts- und Abrechnungsprüfungen des MDK bei ambulanten
+– an kombinierten Qualitäts- und Abrechnungsprüfungen des MDK bei ambulanten
 
 Diensten gegebenenfalls in Zusammenarbeit mit der Wohn-Pflege-Aufsicht (WPA) teilnehmen,
 
- mit der bezirklichen WPA, den Pflegekassen, dem MDK, der Behörde für Gesund-
+– mit der bezirklichen WPA, den Pflegekassen, dem MDK, der Behörde für Gesund-
 
 heit und Verbraucherschutz und gegebenenfalls dem Landeskriminalamt kommunizieren und gegebenenfalls Vorgehensweisen absprechen,
 
- durch den Sozialhilfeträger gezahlte Beträge für nicht erbrachte Leistungen zurück-
+– durch den Sozialhilfeträger gezahlte Beträge für nicht erbrachte Leistungen zurück-
 
 fordern und dies für die Sachbearbeitung in den bezirklichen Fachämtern für Grundsicherung und Soziales vorbereiten und
 
- aufdecken, ob Angehörige, die ihre eigenen pflegebedürftigen Angehörigen pfle-
+– aufdecken, ob Angehörige, die ihre eigenen pflegebedürftigen Angehörigen pfle-
 
 gen, beim diese Leistungen abrechnenden Pflegedienst angestellt sind, um dann auf Pflegegeldbezug umzusteuern.
 

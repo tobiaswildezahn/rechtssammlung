@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5611", "21/6363", "21/6943", "21/8571"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59686"
@@ -117,7 +118,7 @@ Wie viele Personen wurden im Zeitraum 31.03. bis 31.09.2017 dem Haftrichter vorg
 
 Gegen wie viele Personen wurde im Zeitraum 31.03. bis 31.09.2017 ein Haftbefehl erlassen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Maßnahme  
 Zeitraum  

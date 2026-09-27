@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 16
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7049", "20/7126", "20/6337"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51410"
@@ -53,33 +54,33 @@ das patriarchalische Männerbild. Alle drei Merkmale treffen auf die Asylzuwande
 
 Die Polizei erfasst Straftaten gemäß dem Straftatenkatalog der bundeseinheitlichen Richtlinien für die Erfassung und Verarbeitung der Daten in der Polizeilichen Kriminalstatistik (PKS). Der Bereich Gewaltkriminalität wird unter dem bundesweiten Straftatenschlüssel 8920 geführt und umfasst folgende Deliktsbereiche:
 
- 01**** Mord
+– 01**** Mord
 
- 0200** Totschlag und Tötung auf Verlangen §§ 212, 213, 216 StGB
+– 0200** Totschlag und Tötung auf Verlangen §§ 212, 213, 216 StGB
 
- 111*** Vergewaltigung/sexuelle Nötigung
+– 111*** Vergewaltigung/sexuelle Nötigung
 
- 21**** Raub, räuberische Erpressung und räuberischer Angriff auf Kraftfahrer gemäß §§ 249 bis 252, 255, 316a StGB
+– 21**** Raub, räuberische Erpressung und räuberischer Angriff auf Kraftfahrer gemäß §§ 249 bis 252, 255, 316a StGB
 
- 2210** Körperverletzung mit Todesfolge gem. §§ 227, 231 StGB
+– 2210** Körperverletzung mit Todesfolge gem. §§ 227, 231 StGB
 
- 222*** Gefährliche und schwere Körperverletzung, Verstümmelung weibl. Genitalien gemäß §§ 224, 226, 226a, 231 StGB
+– 222*** Gefährliche und schwere Körperverletzung, Verstümmelung weibl. Genitalien gemäß §§ 224, 226, 226a, 231 StGB
 
- 233*** Erpresserischer Menschenraub gemäß § 239a StGB
+– 233*** Erpresserischer Menschenraub gemäß § 239a StGB
 
- 234*** Geiselnahme gemäß § 239b StGB
+– 234*** Geiselnahme gemäß § 239b StGB
 
- 235000 Angriff auf den Luft- und Seeverkehr gemäß § 316c StGB
+– 235000 Angriff auf den Luft- und Seeverkehr gemäß § 316c StGB
 
 Die Fallzahlen für Sexualstraftaten werden anhand des Straftatenschlüssels 100000 „Straftaten gegen die sexuelle Selbstbestimmung“ dargestellt.
 
 In der PKS werden durch Gruppen begangene Straftaten der Gewaltkriminalität nicht gesondert erhoben. Durch Gruppen begangene Sexualstraftaten werden in der PKS bei Vergewaltigung/sexuelle Nötigung gesondert erfasst:
 
- Vergewaltigung/sexuelle Nötigung überfallartig (durch Gruppen) gemäß § 177
+– Vergewaltigung/sexuelle Nötigung überfallartig (durch Gruppen) gemäß § 177
 
 Absatz 2 Nummer 2 StGB (Straftatenschlüssel 111200)
 
- Vergewaltigung/sexuelle Nötigung durch Gruppen gemäß § 177 Absatz 2 Nummer
+– Vergewaltigung/sexuelle Nötigung durch Gruppen gemäß § 177 Absatz 2 Nummer
 
 2 StGB (Straftatenschlüssel 111300)
 
@@ -122,25 +123,25 @@ Für die Vergewaltigung und sexuelle Nötigung überfallartig durch Gruppen und 
 
 Bezüglich der Vorfälle in der Silvesternacht sind die Ermittlungen noch nicht abgeschlossen. Mit Stand 2. Februar 2016 wurden folgende Straftaten angezeigt:
 
- zwei Anzeigen (zwei Geschädigte) wegen Vergewaltigung,
+– zwei Anzeigen (zwei Geschädigte) wegen Vergewaltigung,
 
- 187 Anzeigen (333 Geschädigte) wegen Beleidigung auf sexueller Basis/sexueller
+– 187 Anzeigen (333 Geschädigte) wegen Beleidigung auf sexueller Basis/sexueller
 
 Nötigung,
 
- 31 Anzeigen (36 Geschädigte) wegen Beleidigung auf sexueller Basis/sexueller
+– 31 Anzeigen (36 Geschädigte) wegen Beleidigung auf sexueller Basis/sexueller
 
 Nötigung und anschließendem Diebstahl,
 
- acht Anzeigen (neun Geschädigte) wegen Beleidigung auf sexueller Basis/
+– acht Anzeigen (neun Geschädigte) wegen Beleidigung auf sexueller Basis/
 
 sexueller Nötigung und anschließendem Raub,
 
- fünf Anzeigen (sechs Geschädigte) wegen Beleidigung auf sexueller Basis/
+– fünf Anzeigen (sechs Geschädigte) wegen Beleidigung auf sexueller Basis/
 
 sexueller Nötigung sowie Körperverletzung,
 
- drei Anzeigen (sieben Geschädigte) wegen sonstiger Fälle (kein Sexualdelikt).
+– drei Anzeigen (sieben Geschädigte) wegen sonstiger Fälle (kein Sexualdelikt).
 
 Zur Koppelung der Daten „Asylbewerber“ und „Herkunftsland“ siehe Vorbemerkung.
 
@@ -157,7 +158,7 @@ c) Wenn sich der Senat nicht damit befasst hat, betrachtet er die Befassung mit 
 
 Ab dem Jahr 2016 erfolgt bei nicht deutschen Tatverdächtigen bei der Erfassung in der PKS bezüglich des Aufenthaltsstatus eine erweiterte Differenzierung nach folgenden Kategorien und Unterkategorien:
 
- Asylverfahren
+– Asylverfahren
 
 o Asylbewerber
 
@@ -165,7 +166,7 @@ o International/national Schutzberechtigte (Flüchtlingsstatus, subsidiärer Sch
 
 nationale Abschiebungsverbote) und Asylberechtigte
 
- Duldung, Kontingentflüchtlinge
+– Duldung, Kontingentflüchtlinge
 
 o Duldung (Abschiebungshindernisse nach Abschluss des Asylverfahrens)
 

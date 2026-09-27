@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 11
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10485"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59945"
@@ -47,7 +48,7 @@ Wann wird der Senat gemäß der Empfehlung der Enquete-Kommission „Kultur in D
 
 Wird dieses Gesetz neben den Hamburger Öffentlichen Bücherhallen auch die Bibliotheken der Universitäten und Hochschulen umfassen? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Empfehlung der Enquete-Kommission, auf Länderebene Bibliotheksgesetze zu verabschieden, wurde seinerzeit auch in Hamburg umfassend durch die zuständigen Behörden geprüft mit dem Ergebnis, dass es in Hamburg keines gesonderten Bibliotheksgesetzes bedarf. In Hamburg wird das öffentliche Bibliothekswesen durch die private Stiftung Hamburger Öffentliche Bücherhallen (HÖB) gewährleistet, über deren Finanzausstattung die Bürgerschaft mit der Beschlussfassung über den Kulturhaushalt unmittelbar entscheidet. Das wissenschaftliche Bibliothekswesen Hamburgs wird durch § 94 HmbHG (Hamburgisches Hochschulgesetz) gesetzlich geregelt.
 

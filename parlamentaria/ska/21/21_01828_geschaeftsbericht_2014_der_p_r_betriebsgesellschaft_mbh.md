@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9662"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50058"
@@ -71,7 +72,7 @@ Wurden die Forderungen gegenüber der Freien und Hansestadt Hamburg in Höhe von
 
 Wieso hat die HGV Forderungen gegenüber der P+R-Betriebsgesellschaft in Höhe von fast 2 Millionen Euro (vergleiche Seite 16)?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die zum 31. Dezember 2014 ausgewiesenen Forderungen gegen die Freie und Hansestadt Hamburg (FHH) ergaben sich hauptsächlich aus Zuschussansprüchen für von der Freien und Hansestadt Hamburg geförderte Maßnahmen der P+R (zum Beispiel Neubaumaßnahme Poppenbüttel mit 440.000 Euro oder Grundinstandsetzungen Elbgaustraße und Berne mit 512.000 beziehungsweise 502.000 Euro).
 
@@ -104,6 +105,6 @@ Wieso beziehen diese ihre Bezüge seit 1. Juni 2014 nicht mehr „direkt“ von 
 
 Woher beziehen die Geschäftsführer seit dem 1. Juni 2014 ihr Gehalt (vergleiche Seite 19)?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Da beide Geschäftsführer innerhalb des Hochbahnkonzerns tätig sind und ihre Geschäftsführertätigkeit nur im Nebenamt für die P+R wahrnehmen, werden die hierfür entstehenden Kosten nur anteilig – als Pauschalbetrag im Rahmen des bestehenden Geschäftsbesorgungsvertrages – an die P+R weiterverrechnet.

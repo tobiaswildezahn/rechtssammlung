@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14404", "21/15546", "21/14636"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65529"
@@ -49,7 +50,7 @@ Welche Mengen Müll werden derzeit auf dem Gebiet der Freien und Hansestadt Hamb
 
 Welche Mengen Müll werden derzeit woher auf das Gebiet der Freien und Hansestadt Hamburg eingeführt und wo werden diese verwertet? Bitte die Entwicklung für die letzten fünf Jahre aufführen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Gesamtliefermengen zu den MVA durch die SRH und gegebenenfalls Dritte hat sich in den Jahren seit 2014 wie folgt entwickelt:
 

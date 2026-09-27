@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13504", "21/13455", "21/12516"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64022"
@@ -64,6 +65,6 @@ Mit welchen Verbindlichkeiten rechnet der Senat bei der Beendigung der Aktivitä
 
 Wie und zu welchen Lasten will der Senat diese „xxx“ Verbindlichkeiten bezahlen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Planungen zu einer möglichen Beendigung der Aktivitäten der HSH Beteiligungs Management GmbH sind noch nicht abgeschlossen.

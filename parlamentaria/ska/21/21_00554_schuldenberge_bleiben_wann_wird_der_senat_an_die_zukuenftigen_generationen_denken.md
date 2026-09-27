@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/1678", "21/355", "20/13000", "21/521"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48706"
@@ -64,7 +65,7 @@ Nach der Steuerschätzung im Mai 2015 rechnet der Senat mit Mehreinnahmen in Hö
 
 Hat der Senat beziehungsweise die zuständige Behörde eine eigene Sensitivitätsanalyse der Ausgabenstruktur auf Basis des Haushaltsplans 2015/2016 für den Hamburger Haushalt bis 2018 vorgenommen, in Bezug auf a. Personalausgaben, b. gesetzliche Leistungen, c. Zinsen, d. andere Ausgaben? Wenn ja, welche Abweichungen zu den bisherigen Haushaltsplanungen können daraus generiert werden (bitte genau darstellen) und wann wird die Bürgerschaft darüber in Kenntnis gesetzt? Wenn nein, warum nicht (bitte genau begründen) und hat der Senat in anderen Analysen externe Faktoren bei der Ausgabenentwicklung mit welchem Ergebnis berücksichtigt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Haushalts- und Finanzplanung orientiert sich nicht an aktuellen Steuerschätzungen, sondern am langfristigen Trend der Steuereinnahmen beziehungsweise Steuererträge. Das Finanzkonzept des Senats mit einer konsequenten Ausgabenbegrenzung hat im Jahr 2014 zu einem Überschuss im Gesamthaushalt von rund 400 Millionen Euro geführt, der weitestgehend zur Tilgung alter Schulden eingesetzt wurde beziehungsweise wird (siehe Drs. 21/355). Nach Einschätzung der Finanzbehörde sind derzeit keine hinreichend belastbaren Prognosen zum tatsächlichen Haushaltsergebnis des Jahres 2015 möglich. Externe (Risiko-)Faktoren werden bei der Haushalts- und Finanzplanung berücksichtigt (siehe Drs. 20/13000). Insofern werden unterjährig keine gesonderten Sensitivitätsanalysen vorgenommen. Im Rahmen des Quartalsberichtswesens wird die Bürgerschaft regelmäßig über den aktuellen Bewirtschaftungsstand und den Zielerreichungsgrad informiert (siehe Drs. 21/521).
 
@@ -76,6 +77,6 @@ Verändernde Zinssätze haben direkte Auswirkungen auf die Ausgaben. Wie reagier
 
 Welche finanziellen Mittel wird der Senat in den nächsten Jahren bis 2018 für die Tilgung der Nettokredite und damit für den Abbau der Neuverschuldung verwenden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Senat hat einen möglichen Anstieg des Zinsniveaus in seinen Planungen bis 2018 durch eine auf dem Grundsatz der kaufmännischen Vorsicht beruhende langfristige Zinsaufwandsplanung berücksichtigt. Im Übrigen siehe Drs. 20/13000.

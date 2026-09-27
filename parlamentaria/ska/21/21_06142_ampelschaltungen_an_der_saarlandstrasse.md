@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54681"
@@ -65,29 +66,29 @@ Welche weiteren Ampelanlagen gibt es an den Straßen Saarlandstraße und Wiesend
 
 Ampelanlagen im Straßenzug Saarlandstraße:
 
- Jahnring/Saarlandstraße
+– Jahnring/Saarlandstraße
 
- Saarlandstraße/Alte Wöhr
+– Saarlandstraße/Alte Wöhr
 
- Saarlandstraße/Südring-Nord
+– Saarlandstraße/Südring-Nord
 
- Saarlandstraße/Südring-Süd
+– Saarlandstraße/Südring-Süd
 
- Saarlandstraße/Hellbrookstraße
+– Saarlandstraße/Hellbrookstraße
 
- Saarlandstraße/Wiesendamm
+– Saarlandstraße/Wiesendamm
 
 Ampelanlagen im Straßenzug Wiesendamm:
 
- Hufnerstraße/Wiesendamm
+– Hufnerstraße/Wiesendamm
 
- Saarlandstraße/Wiesendamm
+– Saarlandstraße/Wiesendamm
 
- Wiesendamm/Goldbekufer
+– Wiesendamm/Goldbekufer
 
- Wiesendamm/Borgweg
+– Wiesendamm/Borgweg
 
- Barmbeker Straße/Wiesendamm
+– Barmbeker Straße/Wiesendamm
 
 ### Frage 5
 

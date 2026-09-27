@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 19
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11061"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62517"
@@ -92,7 +93,7 @@ Am 11.05.2018 wurden in der Hafenstraße mehrere Oury-Jalloh-Plakate entfernt. B
 
 Inwieweit war in den anderen Fällen die Staatsanwaltschaft involviert?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die erfragten Sachverhalte sind ungeachtet jedes Einzelfalles Gegenstand regelmäßiger Konsultationen zwischen Landeskriminalamt (LKA) und Staatsanwaltschaft (StA). Mit dem zitierten Tweet wurde eine Bürgeranfrage beantwortet, dies unter Bezug auf den genannten anlassunabhängigen regelmäßigen Austausch. Das Thema wurde zwischen den beteiligten Stellen zuletzt Mitte Mai erörtert.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53793"
@@ -43,7 +44,7 @@ Auf welcher Rechtsgrundlage, aus welchem Anlass und mit welcher Zielsetzung werd
 
 Wo werden die Vorstellungsverfahren durchgeführt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das kooperative Vorstellungsverfahren für Viereinhalbjährige wird gemeinsam von Kitas und Schulen gestaltet. Rechtsgrundlagen sind § 42 Absatz 1 Hamburgisches Schulgesetz (HmbSG) für die Schulen und § 9 Absatz 2 Landesrahmenvertrag (LRV) für die Kitas. Es findet sowohl in Kitas als auch in Schulen statt.
 
@@ -109,7 +110,7 @@ Existieren Programme des Senats, um bei Kindern im Kindergartenalter besondere B
 
 Wie ist das Verfahren, wenn bei einem Kind im Rahmen des Vorstellungsverfahrens eine besondere Begabung festgestellt wird? Werden auch für diese Kinder beispielsweise Förderpläne aufgestellt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Förderung der Kinder erfolgt auf Grundlage der für alle Kitas verbindlichen „Hamburger Bildungsempfehlungen für die Bildung und Erziehung von Kindern in Tageseinrichtungen“. Diese sehen die bewusste Beobachtung und Dokumentation der individuellen Entwicklungsfortschritte eines jeden Kindes vor. Es liegt in der Trägerverantwortung, zu entscheiden, welche Beobachtungsinstrumente in einer Kita eingesetzt werden. Ausgehend von den Beobachtungsergebnissen beziehungsweise vom individuellen Entwicklungsstand erfolgt die gezielte Förderung in der Kita. Im Übrigen siehe Antworten zu 4. und 5.
 

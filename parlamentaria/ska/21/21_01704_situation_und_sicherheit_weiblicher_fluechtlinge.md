@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1570", "21/915", "20/10994"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49921"
@@ -185,23 +186,23 @@ Welche Programme und Angebote gibt es speziell für weibliche Flüchtlinge und w
 
 In den Erstaufnahmeeinrichtungen gibt es Angebote, die sich an Frauen und Mädchen verschiedener Altersgruppen richten. Hierzu gehören:
 
- Deutschkurse für Frauen (auch mit Kinderbetreuung),
+– Deutschkurse für Frauen (auch mit Kinderbetreuung),
 
- Mutter-Kind-Gruppen,
+– Mutter-Kind-Gruppen,
 
- Hebammensprechstunden,
+– Hebammensprechstunden,
 
- Mütterberatung,
+– Mütterberatung,
 
- Frauencafés,
+– Frauencafés,
 
- Handarbeitsgruppen,
+– Handarbeitsgruppen,
 
- Sport- und Bewegungsveranstaltungen (unter anderem Yoga, Entspannungsthera-
+– Sport- und Bewegungsveranstaltungen (unter anderem Yoga, Entspannungsthera-
 
 pie, Kampfkunst/Selbstverteidigung),
 
- Mädchenfreizeitgruppen, „Girls only“-Mädchentreff und Ähnliches.
+– Mädchenfreizeitgruppen, „Girls only“-Mädchentreff und Ähnliches.
 
 Der größere Teil der Angebote in den Einrichtungen wird in eigener Regie durchgeführt. Insofern ist der Zugang sehr niedrigschwellig. Ein Teil der Angebote findet außerhalb der Einrichtungen statt, unter anderem um die Bewohnerinnen auch mit dem sozialräumlichen Umfeld vertraut zu machen. Der betroffene Personenkreis wird durch Hinweise am Schwarzen Brett, über eine Bekanntgabe während der Sozialberatung oder während des Erstinformationsgesprächs sowie über die gezielte Ansprache von einzelnen Personen informiert. Männer werden bei Angeboten für Frauen nicht berücksichtigt.
 

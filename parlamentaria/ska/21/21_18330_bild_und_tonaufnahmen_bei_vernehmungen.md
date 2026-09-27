@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 18
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67966"
@@ -93,7 +94,7 @@ Welchen Personalaufwand nimmt der Senat pro Anlange für die Bedienung und Wartu
 
 Wie viel Personalkosten nimmt der Senat jährlich im Durchschnitt pro Anlage an?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der genaue Personalaufwand lässt sich nicht differenzieren.
 

@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 7
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4137"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52847"
@@ -51,7 +52,7 @@ Die Wiedergabe des Senats: „Die Fachempfehlung des Deutschen Feuerwehrverbande
 
 Wie soll die Feuerwehr in die Lage versetzt werden, bei markantem Wind einen Mindestsicherheitsbereich von 1.000 m einzurichten, wenn dieser Bereich bebaut ist? Die Fachempfehlung „mindestens 1.000 m Sicherheitsbereich“ erfolgt nicht nur wegen der Gefahr durch Funkenflug, sondern auch, weil bei „dem Abbrennen (…) von herabfallenden Teilen auszugehen (ist).“ Hat der Senat Letzteres in die Bestimmung der Abstände einbezogen? Wenn ja, bitte ausführen. Wenn nein, wieso nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die in der Fachempfehlung „Einsatzstrategien an Windenergieanlagen“ des Deutschen Feuerwehrverbandes e.V. (DFV) genannten Sicherheitsabstände gelten für den Einsatzfall Brand. Innerhalb dieser Abstände erfolgen bei einem Brandereignis Räumung und Sicherung, vergleichbar mit den Maßnahmen bei einem Kampfmittelfund. Sie beziehen sich nicht auf allgemeine „Betriebsabstände“.
 

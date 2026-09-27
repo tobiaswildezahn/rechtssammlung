@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 22
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3344"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52817"
@@ -47,33 +48,33 @@ Die Fachstelle für Suchtfragen „Sucht.Hamburg“ fördert die öffentliche Wa
 
 Folgende übergeordnete Aufgaben ergeben unter anderem sich daraus:
 
- Beobachtung der Entwicklung und Beurteilung zu Suchtmitteln und suchthaften
+– Beobachtung der Entwicklung und Beurteilung zu Suchtmitteln und suchthaften
 
 Verhaltensweisen
 
- Erhebung notwendiger epidemiologischer Daten zum Substanzkonsum und sub-
+– Erhebung notwendiger epidemiologischer Daten zum Substanzkonsum und sub-
 
 stanzungebundenen Auffälligkeiten und deren Aus- und Bewertung
 
- Information über Daten und Fakten zu Suchtfragen
+– Information über Daten und Fakten zu Suchtfragen
 
- Ermittlung des Informationsbedarfs zu Suchtfragen in unterschiedlichen Praxisfel-
+– Ermittlung des Informationsbedarfs zu Suchtfragen in unterschiedlichen Praxisfel-
 
 dern und gemeinsame Entwicklung und Etablierung von Methoden und Inhalten
 
- Sicherstellung und Weiterentwicklung eines systematischen Fachaustauschs und
+– Sicherstellung und Weiterentwicklung eines systematischen Fachaustauschs und
 
 der Vernetzung mit den Praxisfeldern
 
- Entwicklung, Planung und Koordination übergreifender anlassbezogener Kampag-
+– Entwicklung, Planung und Koordination übergreifender anlassbezogener Kampag-
 
 nen, Maßnahmen, Aktionen oder Projekte
 
- Entwicklung, Erprobung und Transfer von zielgruppengerechten Konzepten und
+– Entwicklung, Erprobung und Transfer von zielgruppengerechten Konzepten und
 
 Methoden
 
- Monitoring der Wirksamkeit der suchpräventiven Aktivitäten in Hamburg
+– Monitoring der Wirksamkeit der suchpräventiven Aktivitäten in Hamburg
 
 ### Frage 2
 
@@ -260,7 +261,7 @@ Wie lautet die genaue Zweckbestimmung der von städtischer Seite gewährten Zuwe
 
 Welchen konkreten Inhalt hat das neue Konzept für die HLS?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Die HLS ist als Geschäftsstelle für die Mitgliedsorganisationen tätig. Ziele und Aufgaben sind die Bündelung und die Moderation von Mitgliederinteressen und ihre Vertretung nach außen. Darüber hinaus wird die HLS spezifische vermittelnde Aufgaben im Hamburger Suchthilfesystem wahrnehmen, die an der Schnittstelle zwischen den Fachbehörden und den verschiedenen Trägern der Suchthilfe anzusiedeln sind.
 

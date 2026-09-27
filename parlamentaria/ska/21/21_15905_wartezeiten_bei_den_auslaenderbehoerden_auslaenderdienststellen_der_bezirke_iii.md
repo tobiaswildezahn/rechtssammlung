@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14406", "21/11568"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65404"
@@ -81,7 +82,7 @@ Wie viele Unterstützungskräfte werden aktuell in den bezirklichen Ausländerab
 
 Wie viele Unterstützungskräfte wurden seit 2014 durchschnittlich in den bezirklichen Ausländerabteilungen eingesetzt? Bitte nach Quartalen und Bezirken aufschlüsseln.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Anlage 2.
 
@@ -93,7 +94,7 @@ Wie viele Sachbearbeiter-/-innenstellen sind derzeit ausgeschrieben?
 
 Welche Planungen hat der Senat hinsichtlich der Personalaufstockung in den bezirklichen Ausländerdienststellen für das Jahr 2019?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Es sind 18 Stellen für die Sachbearbeitung und zwei für die Hauptsachbearbeitung ausgeschrieben. Darüber hinaus sind die Überlegungen hierzu noch nicht abgeschlossen. Im Übrigen siehe Vorbemerkung und Antwort zu 1.
 

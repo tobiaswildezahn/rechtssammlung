@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48799"
@@ -87,12 +88,12 @@ An welchen bereits fertiggestellten, im Bau befindlichen oder geplanten Fahrstü
 
 Ein Übereck-Aufzug wurde bereits an folgenden U-Bahn-Haltestellen erfolgreich integriert:
 
- Horner Rennbahn (Kabinenmaß 1,4 x 1,4 m),
+– Horner Rennbahn (Kabinenmaß 1,4 x 1,4 m),
 
- Barmbek (Kabinenmaß 1,5 x 2,1 m),
+– Barmbek (Kabinenmaß 1,5 x 2,1 m),
 
- Dehnhaide (Kabinenmaß 1,5 x 1,65 m),
+– Dehnhaide (Kabinenmaß 1,5 x 1,65 m),
 
- Rödingsmarkt (Kabinenmaß 1,6 x 2,0 m).
+– Rödingsmarkt (Kabinenmaß 1,6 x 2,0 m).
 
 Geplant ist der Einsatz eines Übereck-Aufzuges an der Haltestelle Ochsenzoll und der Haltestelle Buckhorn. Weitere Angaben dazu können aufgrund der derzeit laufenden Planungen noch nicht gemacht werden.

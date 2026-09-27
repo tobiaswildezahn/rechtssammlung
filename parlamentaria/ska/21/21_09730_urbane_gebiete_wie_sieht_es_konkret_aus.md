@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8917"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58538"
@@ -69,23 +70,23 @@ Für „Urbane Gebiete“ sind bislang in der Achtzehnten Verordnung zur Durchf�
 
 18. BImSchV:
 
- tags außerhalb der Ruhezeiten 63 dB(A)
+– tags außerhalb der Ruhezeiten 63 dB(A)
 
- tags innerhalb der Ruhezeiten am Morgen (werktags 6 – 8 Uhr, sonn- und feiertags
+– tags innerhalb der Ruhezeiten am Morgen (werktags 6 – 8 Uhr, sonn- und feiertags
 
 7 – 9 Uhr) 58 dB(A)
 
- tags in den übrigen Ruhezeiten (werktags 20 – 22 Uhr, sonn- und feiertags 13 – 15
+– tags in den übrigen Ruhezeiten (werktags 20 – 22 Uhr, sonn- und feiertags 13 – 15
 
 Uhr und 20 – 22 Uhr) 63 dB(A)
 
- nachts (werktags 22 – 6 Uhr, sonn- und feiertags 22 – 7 Uhr) 45 dB(A)
+– nachts (werktags 22 – 6 Uhr, sonn- und feiertags 22 – 7 Uhr) 45 dB(A)
 
 TA Lärm:
 
- tags (6 – 22 Uhr) 63 dB(A)
+– tags (6 – 22 Uhr) 63 dB(A)
 
- nachts (22 – 6 Uhr) 45 dB(A) in der sogenannten „lautesten Nachtstunde“
+– nachts (22 – 6 Uhr) 45 dB(A) in der sogenannten „lautesten Nachtstunde“
 
 ### Frage 5
 

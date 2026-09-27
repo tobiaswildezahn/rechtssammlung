@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19114"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68867"
@@ -69,7 +70,7 @@ Inwiefern wird bei der Planung und Ausführung von Arbeiten im Straßenseitenrau
 
 Inwiefern wird bei der Planung und Ausführung von Arbeiten im Straßenseitenraum der Zustand der verlegten Platten und Verbund- beziehungsweise Pflastersteine berücksichtigt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Grundsätzlich wird das Hamburger Standardmaterial für öffentliche Baumaßnahmen gemäß DIN EN 1339 verbaut. Die Nutzungsdauer der eingesetzten Beton- und Klinkerflächen spielt im Zuge des Neubaus und der Unterhaltung eine untergeordnete Rolle.
 

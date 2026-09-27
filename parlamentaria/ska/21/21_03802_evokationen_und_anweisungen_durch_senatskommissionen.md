@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 4
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52219"
@@ -73,7 +74,7 @@ Welche Anweisungen von Senatskommissionen gegenüber den Bezirksverwaltungen hat
 
 Welche der Anweisungen von Senatskommissionen betrafen beziehungsweise betreffen Sachverhalte, die auch Gegenstand von (geplanten oder durchgeführten) Bürgerentscheiden oder anderen Instrumenten direkter Demokratie sind beziehungsweise waren. Bitte die Auswirkung der jeweiligen Anweisung auf den Bürgerentscheid (oder ein anderes Instrument direkter Demokratie) erläutern.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Gegenstand der Weisung
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 21
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64159"
@@ -39,15 +40,15 @@ Der Inhalt der Information war in Kürze:
 
 ## Einleitung für die Antworten des Senats
 
- Die beiden Schulstandorte Genslerstraße und Ballerstaedtweg werden
+– Die beiden Schulstandorte Genslerstraße und Ballerstaedtweg werden
 
 mit Abschluss des Schuljahrs 2018/2019 entfusioniert und zu eigenständigen Grundschulen. Dies hat sofortige Auswirkungen auf die Anmeldephase.
 
- Die Schule Fränkelstraße wird zum Schuljahresende 2018/2019 von der
+– Die Schule Fränkelstraße wird zum Schuljahresende 2018/2019 von der
 
 Stadtteilschule Barmbek geräumt und im Schuljahr 2019/2020 grundschulgerecht saniert und umgebaut.
 
- Im Schuljahr 2020/2021 wird die Schule Fränkelstraße als Standort der
+– Im Schuljahr 2020/2021 wird die Schule Fränkelstraße als Standort der
 
 Grundschule Genslerstraße in Betrieb genommen.
 
@@ -195,7 +196,7 @@ Welche Zügigkeit hat die Schule Genslerstraße gemäß dem Schulentwicklungspla
 
 Ist die Auslegung der Schule aufgrund steigender Schülerzahlen und steigendem Bedarf in der Ganztagsbetreuung sowie den Herausforderungen von Integration und Inklusion im Nachhinein zu knapp bemessen worden? Wenn ja, wie wird nun nachgesteuert? Wenn nein, wie begegnet der Senat der Kapazitätsüberschreitung?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Schule Genslerstraße ist gemäß Schulentwicklungsplan 2012 fünfzügig. Zur aktuellen Belegung der Schule siehe Antwort zu 1. Sie führt momentan, hervorgerufen durch den Spitzenbedarf aus dem jüngst fertiggestellten Wohnungsbau, überzügige Klassen. Diese können im vorhandenen Raumbestand weitestgehend untergebracht werden. Zudem sind zum Schuljahr 2018/2019 zusätzliche Raumkapazitäten am Standort Ballerstaedtweg entstanden, weil die Beruflichen Schule City Nord Räumlichkeiten freigegeben hat.
 
@@ -207,7 +208,7 @@ Wie wird die Kapazität der beiden neu gebildeten Grundschulen Genslerstraße un
 
 Wird eine erneute Kapazitätserweiterung auch für das Schuljahr 2019/ 2020 in Erwägung gezogen? Wenn ja, wie kann der Zuwachs an der Schule Genslerstraße für Schülerinnen und Schüler, Lehrer und Eltern verträglich gestaltet werden?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Über die Einrichtung der Klassen für das Schuljahr 2019/2020 wird im Rahmen der jährlichen Schulorganisation entschieden. Ziel der Organisation ist neben einer möglichst hohen Erfüllung von Elternwünschen die Versorgung der Schülerinnen und Schüler mit Schulplätzen, die mit altersangemessenen Schulwegen erreicht werden können. Im Übrigen siehe Vorbemerkung.
 
@@ -219,7 +220,7 @@ Wie genau sieht die detaillierte Zeit- und Projektplanung aus, mit der sicherges
 
 Wie ist die Planungsgruppe dazu besetzt? Wie werden Schule und Eltern in den Planungs- und Umsetzungsprozess einbezogen?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 SBH I Schulbau Hamburg plant und führt im Rahmen des Mieter-Vermieter-Modells Sanierungen und Umbauten regelhaft durch. Dabei werden zunächst gemeinsam mit
 

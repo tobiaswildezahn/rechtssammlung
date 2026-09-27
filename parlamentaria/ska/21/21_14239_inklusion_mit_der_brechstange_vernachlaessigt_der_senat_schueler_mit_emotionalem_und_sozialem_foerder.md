@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 14
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13802", "21/12544"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63644"
@@ -140,7 +141,7 @@ In wie vielen Fällen und aus welchen Gründen sind in den letzten zwei Schuljah
 
 Welche Lösungen sind für die unter 9. angesprochenen Fälle vorgesehen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die in der Fragestellung dargestellte Annahme ist nicht korrekt, da Maßnahmen von Schule, Jugendhilfe und klinisch/therapeutischen Einrichtungen Hand in Hand greifen, um auch Schülerinnen und Schülern mit besonders herausforderndem Verhalten
 

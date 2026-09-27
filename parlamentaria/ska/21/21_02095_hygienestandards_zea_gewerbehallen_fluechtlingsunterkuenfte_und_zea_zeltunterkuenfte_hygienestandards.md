@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1259", "21/1801", "21/1570"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50356"
@@ -62,7 +63,7 @@ Raumausstattung, Sanitäreinrichtungen, Gemeinschaftsräumen und
 Verpflegung?  
 Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Betreiber der Erstaufnahmeeinrichtungen orientieren sich in der Regel an dem als Anlage beigefügten Rahmen-Hygieneplan für Gemeinschaftsunterkünfte für Erwachsene in den Kreisen, Städten und Gemeinden des Länder-Arbeitskreises zur Erstellung von Hygieneplänen nach § 36 Infektionsschutzgesetz. Daneben besteht für einen gesonderten Hamburger Muster-Hygieneplan für Flüchtlings- Erstaufnahmeeinrichtungen kein Bedarf.
 
@@ -378,12 +379,12 @@ Anlage 2:Reinigungs- und Desinfektionsplan für Erwachsenen-/ Gemeinschaftsunter
 3.1 Mindestanforderungen an Art, Größe und Ausstattung von Gemeinschaftsunterkünften in den Kreisen, Städten und Gemeinden
 
 3.1.1 für Asylbewerber, Spätaussiedler und Flüchtlinge Hinsichtlich Art, Größe, Ausstattung und Betrieb von Gemeinschaftsunterkünften gelten die jeweiligen Gesetze, Verordnungen und Richtlinien der Länder. Liegen solche nicht oder nur teilweise vor, können folgende Empfehlungen, die den Anforderungen aus Sachsen /16/), aus Mecklenburg-Vorpommern /5,6/, Brandenburg /14/, Thüringen /19/ und dem Musterhygieneplan für Erwachsenen-Gemeinschaftseinrichtungen aus Frankfurt a. M. /15/ angelehnt sind, als Anhalt für die Planung, Sanierung, Eigenbewertung, den Betrieb und die Überwachung verwendet werden. Grundsätze der Unterbringung:
-• Gemeinschaftsunterkünfte sind nach Größe und Ausstattung menschenwürdig zu gestalten. Insbesondere Gesundheit und sittliches Empfinden der Bewohner dürfen nicht beeinträchtigt werden.
-• Um die Teilnahme am Gemeinschaftsleben zu ermöglichen, dürfen Gemeinschaftsunterkünfte nur in oder im Anschluss an einen im Zusammenhang bebauten Ortsteil eingerichtet werden. Individueller Wohnbereich:
-• Zum individuellen Wohnbereich zählen die Wohn-/Schlafräume. Pro Bewohner soll die Wohn-/Schlafraumfläche von sechs Quadratmetern nicht unterschritten werden.
-• In einem Raum sollen nicht mehr als vier bis maximal sechs Bewohner untergebracht werden. Handelt es sich nicht um eine Familie, sind die Bewohner nach Geschlechtern getrennt unterzubringen. Soweit die Platzkapazität der Gemeinschaftsunterkunft dies zulässt, sind Nationalitäten, Religionen sowie Alters- und Familienstrukturen zu berücksichtigen.
-• Der Raum muss auf geeignete Weise vor Sonne und Einsicht geschützt werden können. Er muss belüft- und abschließbar sein.
-• Zur Grundausstattung eines Raumes gehören für jeden Bewohner − eine geeignete und separate Schlafgelegenheit mit entsprechender Ausstattung − ein Tischteil mit Sitzgelegenheit − ein abschließbarer Schrank oder Schrankteil − eine Kühleinrichtung von 20 bis 30 Litern, wenn sie nicht in anderen Räumlichkei-
+– Gemeinschaftsunterkünfte sind nach Größe und Ausstattung menschenwürdig zu gestalten. Insbesondere Gesundheit und sittliches Empfinden der Bewohner dürfen nicht beeinträchtigt werden.
+– Um die Teilnahme am Gemeinschaftsleben zu ermöglichen, dürfen Gemeinschaftsunterkünfte nur in oder im Anschluss an einen im Zusammenhang bebauten Ortsteil eingerichtet werden. Individueller Wohnbereich:
+– Zum individuellen Wohnbereich zählen die Wohn-/Schlafräume. Pro Bewohner soll die Wohn-/Schlafraumfläche von sechs Quadratmetern nicht unterschritten werden.
+– In einem Raum sollen nicht mehr als vier bis maximal sechs Bewohner untergebracht werden. Handelt es sich nicht um eine Familie, sind die Bewohner nach Geschlechtern getrennt unterzubringen. Soweit die Platzkapazität der Gemeinschaftsunterkunft dies zulässt, sind Nationalitäten, Religionen sowie Alters- und Familienstrukturen zu berücksichtigen.
+– Der Raum muss auf geeignete Weise vor Sonne und Einsicht geschützt werden können. Er muss belüft- und abschließbar sein.
+– Zur Grundausstattung eines Raumes gehören für jeden Bewohner − eine geeignete und separate Schlafgelegenheit mit entsprechender Ausstattung − ein Tischteil mit Sitzgelegenheit − ein abschließbarer Schrank oder Schrankteil − eine Kühleinrichtung von 20 bis 30 Litern, wenn sie nicht in anderen Räumlichkei-
 
 ten zur Verfügung gestellt wird − Grundausstattung pro Zimmer mit Küchenutensilien, insbesondere mit Geschirr,
 
@@ -392,7 +393,7 @@ Besteck, Töpfen und Pfannen, sowie Abfalleimer und die notwendigen Reinigungsge
 in abgeschlossenen Wohneinheiten zur Verfügung stehen; Kochplatte, Spültisch und Möglichkeit zum Aufbewahren von Speisen − Bettwäsche und Handtücher zum regelmäßigen Wechseln
 
 Sanitäreinrichtungen:
-• Verfügt die Gemeinschaftsunterkunft nicht oder nur teilweise über abgeschlossene Wohnbereiche, die mit eigenen Nasszellen ausgestattet sind, müssen Gemeinschaftswasch- und Duschräume sowie Gemeinschaftstoiletten für männliche und weibliche Bewohner getrennt und abschließbar eingerichtet werden. Dabei sind mindestens
+– Verfügt die Gemeinschaftsunterkunft nicht oder nur teilweise über abgeschlossene Wohnbereiche, die mit eigenen Nasszellen ausgestattet sind, müssen Gemeinschaftswasch- und Duschräume sowie Gemeinschaftstoiletten für männliche und weibliche Bewohner getrennt und abschließbar eingerichtet werden. Dabei sind mindestens
 
 − ein Waschbecken je fünf bis maximal sieben Bewohner, − ein Duschplatz je zehn Bewohner, [Sollte eine Abtrennung gewünscht werden, ist
 
@@ -403,47 +404,47 @@ wohner. − ein Toilettenplatz (Abortsitz oder bei Bedarf Hockklosetts) und ein 
 15 männliche Bewohner sowie − Zubehör für Wasch- und Toilettenräume (Toilettenpapier, Toilettenbürste, Hygie-
 
 neeimer, Ablagemöglichkeiten am Waschplatz, Wandhaken, Spender für Flüssigseife und Papierhandtücher) vorzusehen.
-• Die Sanitäreinrichtungen sollen ausreichende Ablagemöglichkeiten für persönliche Körperpflegemittel, Hand- und Badetücher sowie für die Bekleidung ausweisen.
-• Sanitärräume sind auf geeignete Weise vor Einsicht zu schützen.
-• Die Be- und Entlüftung der Sanitärräume hat entweder direkt über Fenster oder mittels Zwangslüftung zu erfolgen. Fußböden und Wände müssen leicht und feucht zu reinigen sein. Gemeinschaftsküchen:
-• Stehen für die Verpflegung keine oder nur teilweise separate Kochgelegenheiten (zum Beispiel in abgeschlossenen Wohneinheiten) zur Verfügung, sind gemeinschaftliche Küchenräume (Etagen- und Teeküchen) einzurichten.
-• Für die Ausstattung einer Etagenküche sind mindestens vorzusehen: − ein Herd (Backröhre und vier Kochstellen) für je acht Bewohner − eine Kühleinrichtung von 20 bis 30 Litern je Bewohner, wenn sie nicht in einem
+– Die Sanitäreinrichtungen sollen ausreichende Ablagemöglichkeiten für persönliche Körperpflegemittel, Hand- und Badetücher sowie für die Bekleidung ausweisen.
+– Sanitärräume sind auf geeignete Weise vor Einsicht zu schützen.
+– Die Be- und Entlüftung der Sanitärräume hat entweder direkt über Fenster oder mittels Zwangslüftung zu erfolgen. Fußböden und Wände müssen leicht und feucht zu reinigen sein. Gemeinschaftsküchen:
+– Stehen für die Verpflegung keine oder nur teilweise separate Kochgelegenheiten (zum Beispiel in abgeschlossenen Wohneinheiten) zur Verfügung, sind gemeinschaftliche Küchenräume (Etagen- und Teeküchen) einzurichten.
+– Für die Ausstattung einer Etagenküche sind mindestens vorzusehen: − ein Herd (Backröhre und vier Kochstellen) für je acht Bewohner − eine Kühleinrichtung von 20 bis 30 Litern je Bewohner, wenn sie nicht in einem
 
 anderen Raum zur Verfügung gestellt wird − Arbeitsplatten zur Nahrungs- und Getränkezubereitung − Abwasch- und Spültische mit Warm- und Kaltwasseranschluß einschließlich Ab-
 
 stellmöglichkeiten − Funktionsschränke, insbesondere zur Aufbewahrung von Reinigungsmitteln
-• Für die Ausstattung einer Teeküche sind mindestens vorzusehen: − eine Kochstelle (Kochplatte oder Wasserkocher) für 20 Bewohner − Arbeitsplatten zur Nahrungs- und Getränkezubereitung − Abwasch- und Spültische mit Warm- und Kaltwasseranschluss einschließlich Ab-
+– Für die Ausstattung einer Teeküche sind mindestens vorzusehen: − eine Kochstelle (Kochplatte oder Wasserkocher) für 20 Bewohner − Arbeitsplatten zur Nahrungs- und Getränkezubereitung − Abwasch- und Spültische mit Warm- und Kaltwasseranschluss einschließlich Ab-
 
 stellmöglichkeiten sowie − Funktionsschränke, insbesondere zur Aufbewahrung von Reinigungsmitteln Gemeinschaftsräume und Außenanlagen zur Freizeitgestaltung:
-• Die Gemeinschaftsunterkünfte sind mit Gemeinschaftsräumen und, soweit die örtlichen Verhältnisse es zulassen, mit Außenanlagen zur Freizeitgestaltung auszustatten.
-• Gemeinschaftsräume können als Klub-, Fernseh-, Schulungs-, Gebets-, Sport- und Spielzimmer oder mit Ausnahme des Spielzimmers kombiniert für zwei oder mehrere der vorgenannten Nutzungen gestaltet sein.
+– Die Gemeinschaftsunterkünfte sind mit Gemeinschaftsräumen und, soweit die örtlichen Verhältnisse es zulassen, mit Außenanlagen zur Freizeitgestaltung auszustatten.
+– Gemeinschaftsräume können als Klub-, Fernseh-, Schulungs-, Gebets-, Sport- und Spielzimmer oder mit Ausnahme des Spielzimmers kombiniert für zwei oder mehrere der vorgenannten Nutzungen gestaltet sein.
 
-• In jeder Gemeinschaftsunterkunft sind ausreichende, der tatsächlichen Belegung entsprechende Gemeinschaftsräume einzurichten.
-• Sofern Kinder in einer Gemeinschaftsunterkunft wohnen, ist zusätzlich mindestens ein Spielzimmer in ausreichender Größe und mit entsprechender Ausstattung einzurichten, das bei Bedarf auch zur Erledigung der Hausaufgaben von Schulkindern zur Verfügung steht.
-• Die Außenanlagen zur Freizeitgestaltung sollen Freiflächen für Sport und Spiel sowie zur Erholung ausweisen. Funktionsräume für die Bewohner:
-• In den Gemeinschaftsunterkünften sind Räume für das Waschen, Trocknen und Bügeln der Kleidungsstücke der Bewohner mit entsprechender Ausstattung vorzuhalten. Räume, die dem Waschen und Trocknen dienen, sollen natürlich belüftet sein.
-• Zur kurzzeitigen Unterbringung erkrankter Bewohner ist ein Krankenzimmer mit entsprechender Ausstattung vorzuhalten. Weiterer Raumbedarf:
-• Wenn möglich, sollten Abstellräume für Fahrräder, Kinderwagen, sperrige Güter oder Reinigungsutensilien vorgehalten werden.
-• Beratungsraum
-• ggf. Untersuchungsraum für Aufnahmeuntersuchungen Sicherheitstechnische Ausstattung:
-• Die Gemeinschaftsunterkünfte müssen über technische Voraussetzungen verfügen, die eine schnellstmögliche Alarmierung der zuständigen Polizeidienststelle, der Feuerwehr, des Notarztes und des Trägers ermöglichen.
-• Zur Vermeidung von Gefahren ist sicherzustellen, dass sich Kochstellen und Herde nach einem bestimmten Zeitablauf automatisch ausschalten.
+– In jeder Gemeinschaftsunterkunft sind ausreichende, der tatsächlichen Belegung entsprechende Gemeinschaftsräume einzurichten.
+– Sofern Kinder in einer Gemeinschaftsunterkunft wohnen, ist zusätzlich mindestens ein Spielzimmer in ausreichender Größe und mit entsprechender Ausstattung einzurichten, das bei Bedarf auch zur Erledigung der Hausaufgaben von Schulkindern zur Verfügung steht.
+– Die Außenanlagen zur Freizeitgestaltung sollen Freiflächen für Sport und Spiel sowie zur Erholung ausweisen. Funktionsräume für die Bewohner:
+– In den Gemeinschaftsunterkünften sind Räume für das Waschen, Trocknen und Bügeln der Kleidungsstücke der Bewohner mit entsprechender Ausstattung vorzuhalten. Räume, die dem Waschen und Trocknen dienen, sollen natürlich belüftet sein.
+– Zur kurzzeitigen Unterbringung erkrankter Bewohner ist ein Krankenzimmer mit entsprechender Ausstattung vorzuhalten. Weiterer Raumbedarf:
+– Wenn möglich, sollten Abstellräume für Fahrräder, Kinderwagen, sperrige Güter oder Reinigungsutensilien vorgehalten werden.
+– Beratungsraum
+– ggf. Untersuchungsraum für Aufnahmeuntersuchungen Sicherheitstechnische Ausstattung:
+– Die Gemeinschaftsunterkünfte müssen über technische Voraussetzungen verfügen, die eine schnellstmögliche Alarmierung der zuständigen Polizeidienststelle, der Feuerwehr, des Notarztes und des Trägers ermöglichen.
+– Zur Vermeidung von Gefahren ist sicherzustellen, dass sich Kochstellen und Herde nach einem bestimmten Zeitablauf automatisch ausschalten.
 
 3.1.2 für Obdachlose
-• Gemeinschaftsunterkünfte für Obdachlose sind nach Größe und Ausstattung menschenwürdig zu gestalten. Dabei ist zu berücksichtigen, daß die Aufenthaltsdauer oft kurz (minimal 1 Nacht) ist.
-• Pro Person soll die Wohn- und Schlafraumfläche von 4,5 bis 6 m²/Platz nicht unterschritten werden. In einem Raum sollten nicht mehr als 6 bis 8 Personen untergebracht werden. Sie sind nach Geschlechtern zu trennen. Die Räume sind abschließbar zu gestalten.
-• Für Familien mit Kindern sollten mindestens 2 Räume, eine ausreichende Spielfläche, eine Mindestgröße von 8 m2/Person und möglichst eine Dusche zur Verfügung stehen.
-• Grundausstattung eines Raumes: − geeignete und separate Schlafgelegenheit (Bettgestell, Matratze, Kopfkissen,
+– Gemeinschaftsunterkünfte für Obdachlose sind nach Größe und Ausstattung menschenwürdig zu gestalten. Dabei ist zu berücksichtigen, daß die Aufenthaltsdauer oft kurz (minimal 1 Nacht) ist.
+– Pro Person soll die Wohn- und Schlafraumfläche von 4,5 bis 6 m²/Platz nicht unterschritten werden. In einem Raum sollten nicht mehr als 6 bis 8 Personen untergebracht werden. Sie sind nach Geschlechtern zu trennen. Die Räume sind abschließbar zu gestalten.
+– Für Familien mit Kindern sollten mindestens 2 Räume, eine ausreichende Spielfläche, eine Mindestgröße von 8 m2/Person und möglichst eine Dusche zur Verfügung stehen.
+– Grundausstattung eines Raumes: − geeignete und separate Schlafgelegenheit (Bettgestell, Matratze, Kopfkissen,
 
 Decken, inkl. Bettwäsche in ausreichender Anzahl) − Tischteil mit Sitzgelegenheit − Regal und 1 abschließbarer Schrankteil − Kühleinrichtung von mindestens 10 l − Küchenutensilien zur Esseneinnahme, Mülleimer, Reinigungsgeräte
-• Sanitäreinrichtungen: − Gemeinschaftswasch- und Duschräume sowie Gemeinschaftstoiletten für männ-
+– Sanitäreinrichtungen: − Gemeinschaftswasch- und Duschräume sowie Gemeinschaftstoiletten für männ-
 
 liche und weibliche Bewohner (möglichst abschließbar) − ein Waschplatz für 5 bis 8 Bewohner − ein Duschplatz für 10 bis 15 Bewohner
 
 − ein Abortsitz für mindestens 10 weibliche Bewohner − ein Abortsitz und ein Urinalbecken je 15 männliche Bewohner − Toilettenpapier, Toilettenbürste, Hygieneeimer, Ablagemöglichkeiten am
 
 Waschplatz, Wandhaken
-• weiterer Raumbedarf: − Aufenthaltsraum/Speiseraum, evtl. Raucherzimmer, ca. 1 m²/Person bei maxi-
+– weiterer Raumbedarf: − Aufenthaltsraum/Speiseraum, evtl. Raucherzimmer, ca. 1 m²/Person bei maxi-
 
 maler Auslastung  
 − Küche mit Vorratsräumen  
@@ -453,92 +454,92 @@ maler Auslastung
 − Krankenzimmer mit Erste-Hilfe-Ausstattung (siehe Punkt 3.9)
 
 3.2 Persönliche Hygiene der Bewohner und Reinigung Die Privatsphäre der Bewohner ist soweit als möglich zu schützen, damit ethnische und persönliche Besonderheiten nicht unberücksichtigt bleiben. Grundsätzlich hat jeder Bewohner für die persönliche Hygiene selbst zu sorgen. Das betrifft insbesondere die Körper-, Haar-, Bart- und Nagelreinigung und -pflege und die Bekleidung. Weiterhin ist für Ordnung und Reinigung im Zimmer selbst zu sorgen. In der Unterkunft gelten für die Ordnung und Reinigung folgende allgemeine Regeln:
-• Die Ausstattung (Möbel, technische Ausstattung) ist im Ausgangszustand zu bewahren.
-• Die Zimmer sind sauber zu halten.
-• Verunreinigungen sind sofort zu beseitigen.
-• Textile Böden sind mindestens 2x wöchentlich abzusaugen und halbjährlich oder mindestens jährlich einer Grundreinigung zu unterziehen.
-• Nichttextile Bodenbeläge sind mindestens 2x wöchentlich feucht zu wischen. Rutschgefahr durch Pfützenbildung ist zu vermeiden.
-• Aschenbecher sind täglich zu leeren und zu reinigen.
-• Der Müll ist in Tüten und in Behältern mit Deckel zu sammeln und 2 x/Woche zu entsorgen.
-• Für Reinigungsmittel ist ein abschließbarer Aufbewahrungsort (Schrank oder Raum) vorzusehen.
-• Tische und andere Einrichtungsgegenstände und insbesondere gemeinschaftlich genutzte Möbel (Gemeinschaftsräume, Speiseräume, Besucherzimmer) sind bei Verunreinigung sofort und sonst wöchentlich feucht zu reinigen.
-• Mit Blut oder mit anderen Körperausscheidungen kontaminierte Flächen müssen sofort desinfiziert werden. Dazu wird die Ausscheidung mit Handschuhen und saugfähigem Material (Zellstoff oder Tuch, Desinfektionsmittel getränkt) aufgenommen und beseitigt. Die Fläche wird dann regelrecht wischdesinfiziert. Auch hierbei ist nach dem Ablegen der Handschuhe eine Händedesinfektion vonnöten.
-• Die Zimmer sind mehrmals täglich zu lüften (Quer- oder Stoßlüftung). Das betrifft die Bewohnerzimmer und die gemeinschaftlich genutzten Räume.
+– Die Ausstattung (Möbel, technische Ausstattung) ist im Ausgangszustand zu bewahren.
+– Die Zimmer sind sauber zu halten.
+– Verunreinigungen sind sofort zu beseitigen.
+– Textile Böden sind mindestens 2x wöchentlich abzusaugen und halbjährlich oder mindestens jährlich einer Grundreinigung zu unterziehen.
+– Nichttextile Bodenbeläge sind mindestens 2x wöchentlich feucht zu wischen. Rutschgefahr durch Pfützenbildung ist zu vermeiden.
+– Aschenbecher sind täglich zu leeren und zu reinigen.
+– Der Müll ist in Tüten und in Behältern mit Deckel zu sammeln und 2 x/Woche zu entsorgen.
+– Für Reinigungsmittel ist ein abschließbarer Aufbewahrungsort (Schrank oder Raum) vorzusehen.
+– Tische und andere Einrichtungsgegenstände und insbesondere gemeinschaftlich genutzte Möbel (Gemeinschaftsräume, Speiseräume, Besucherzimmer) sind bei Verunreinigung sofort und sonst wöchentlich feucht zu reinigen.
+– Mit Blut oder mit anderen Körperausscheidungen kontaminierte Flächen müssen sofort desinfiziert werden. Dazu wird die Ausscheidung mit Handschuhen und saugfähigem Material (Zellstoff oder Tuch, Desinfektionsmittel getränkt) aufgenommen und beseitigt. Die Fläche wird dann regelrecht wischdesinfiziert. Auch hierbei ist nach dem Ablegen der Handschuhe eine Händedesinfektion vonnöten.
+– Die Zimmer sind mehrmals täglich zu lüften (Quer- oder Stoßlüftung). Das betrifft die Bewohnerzimmer und die gemeinschaftlich genutzten Räume.
 
 3.3 Wäschehygiene (15) Jeder Bewohner ist für die Reinigung seiner Bekleidung (Ober- und Unterbekleidung) und den Wechsel der Wäsche selbst verantwortlich. Als Anhalt kann gelten:
-• Zum Waschen der privaten Kleidung sind geeignete Waschprogramme zwischen 30 - 60 °C einzusetzen.
-• Wird Unterwäsche gemeinschaftlich gewaschen, ist mindestens ein 60 °C-Programm zu verwenden. Das trifft auch für Handtücher, Waschlappen und die Bettwäsche zu.
-• Zum Trocknen der Wäsche müssen zu jeder Jahreszeit ausreichende Möglichkeiten bestehen (empfehlenswert sind Wäschetrockner).
-• Bettwäsche, Handtücher und Waschlappen sind sofort nach Verunreinigung und sonst wöchentlich bzw. nach Bewohnerwechsel auszutauschen (Bettwäsche spätestens alle 14 Tage bis 3 Wochen). Benutzte Handtücher und Waschlappen müssen zum Trocknen aufgehängt werden können.
+– Zum Waschen der privaten Kleidung sind geeignete Waschprogramme zwischen 30 - 60 °C einzusetzen.
+– Wird Unterwäsche gemeinschaftlich gewaschen, ist mindestens ein 60 °C-Programm zu verwenden. Das trifft auch für Handtücher, Waschlappen und die Bettwäsche zu.
+– Zum Trocknen der Wäsche müssen zu jeder Jahreszeit ausreichende Möglichkeiten bestehen (empfehlenswert sind Wäschetrockner).
+– Bettwäsche, Handtücher und Waschlappen sind sofort nach Verunreinigung und sonst wöchentlich bzw. nach Bewohnerwechsel auszutauschen (Bettwäsche spätestens alle 14 Tage bis 3 Wochen). Benutzte Handtücher und Waschlappen müssen zum Trocknen aufgehängt werden können.
 
 3.4 Hygiene in den Gemeinschaftsduschen und –WC
-• Es sind personengebundene Handtücher zu verwenden oder Einmalhandtücher (Papierhandtücher oder Retraktivhandtuchspender) bereit zu stellen.
-• Handwaschbecken sind mit Flüssigseifenspendern auszustatten. Stückseife ist nicht zu verwenden.
-• In den Damentoiletten sind Tüten und verschließbare Abfallbehälter für Monatsbinden bereit zu stellen.
-• Die WC sind nach jeder Benutzung sauber zu verlassen.
-• Nach Verunreinigung und einmal täglich sind die WC-Sitzflächen, Zieh- und Drückhebel und die Fußböden einer Wischdesinfektion mit Desinfektionsreiniger bzw. Desinfektionsmittel zu unterziehen. Bei der Desinfektion sind Handschuhe und Schutzkleidung zu tragen. Die Mittel müssen im Haus verfügbar sein. Die Gebrauchslösung ist unter Anleitung herzustellen. Die Konzentrate sind sicher aufzubewahren. Die Durchführung der Desinfektion sollte einer geeigneten Person übertragen werden. Ein Einsatz gewerblicher Reinigungsfirmen ist zur Durchführung der Desinfektion nicht erforderlich.
-• Bei Verunreinigung sind auch die Wandfliesen zu desinfizieren.
-• Toiletten und Duschen sind gut zu lüften. Bei Stockflecken mit Schimmelpilzbildung sind die Ursachen zu klären und entsprechende Maßnahmen einzuleiten. Bei Be- und Entlüftungsanlagen sind insbesondere die Entlüftungssiebe regelmäßig zu reinigen.
-• Kalkablagerungen sind zu entfernen.
-• Die Fußböden der Gemeinschaftsduschen sind täglich zu desinfizieren. Gemeinschaftlich genutzte Badewannen sind nach jeder Benutzung zu desinfizieren. Das dafür erforderliche Mittel muß verfügbar sein. Die Gebrauchslösung ist unter Anleitung herzustellen. Die Konzentrate sind sicher aufzubewahren. Die Durchführung der Desinfektion sollte einer geeigneten Person übertragen werden. Ein Einsatz gewerblicher Reinigungsfirmen ist zur Durchführung der Desinfektion nicht erforderlich.
-• WC, Badewannen und Duschen, die Einzelpersonen und Familien zugeordnet sind, müssen nach Benutzung nur gereinigt werden. Eine Desinfektion ist nur i. S. einer Schlußdesinfektion vor Neubelegung erforderlich.
+– Es sind personengebundene Handtücher zu verwenden oder Einmalhandtücher (Papierhandtücher oder Retraktivhandtuchspender) bereit zu stellen.
+– Handwaschbecken sind mit Flüssigseifenspendern auszustatten. Stückseife ist nicht zu verwenden.
+– In den Damentoiletten sind Tüten und verschließbare Abfallbehälter für Monatsbinden bereit zu stellen.
+– Die WC sind nach jeder Benutzung sauber zu verlassen.
+– Nach Verunreinigung und einmal täglich sind die WC-Sitzflächen, Zieh- und Drückhebel und die Fußböden einer Wischdesinfektion mit Desinfektionsreiniger bzw. Desinfektionsmittel zu unterziehen. Bei der Desinfektion sind Handschuhe und Schutzkleidung zu tragen. Die Mittel müssen im Haus verfügbar sein. Die Gebrauchslösung ist unter Anleitung herzustellen. Die Konzentrate sind sicher aufzubewahren. Die Durchführung der Desinfektion sollte einer geeigneten Person übertragen werden. Ein Einsatz gewerblicher Reinigungsfirmen ist zur Durchführung der Desinfektion nicht erforderlich.
+– Bei Verunreinigung sind auch die Wandfliesen zu desinfizieren.
+– Toiletten und Duschen sind gut zu lüften. Bei Stockflecken mit Schimmelpilzbildung sind die Ursachen zu klären und entsprechende Maßnahmen einzuleiten. Bei Be- und Entlüftungsanlagen sind insbesondere die Entlüftungssiebe regelmäßig zu reinigen.
+– Kalkablagerungen sind zu entfernen.
+– Die Fußböden der Gemeinschaftsduschen sind täglich zu desinfizieren. Gemeinschaftlich genutzte Badewannen sind nach jeder Benutzung zu desinfizieren. Das dafür erforderliche Mittel muß verfügbar sein. Die Gebrauchslösung ist unter Anleitung herzustellen. Die Konzentrate sind sicher aufzubewahren. Die Durchführung der Desinfektion sollte einer geeigneten Person übertragen werden. Ein Einsatz gewerblicher Reinigungsfirmen ist zur Durchführung der Desinfektion nicht erforderlich.
+– WC, Badewannen und Duschen, die Einzelpersonen und Familien zugeordnet sind, müssen nach Benutzung nur gereinigt werden. Eine Desinfektion ist nur i. S. einer Schlußdesinfektion vor Neubelegung erforderlich.
 
 3.5 Trinkwasserhygiene
-• Das verwendete Warm- und Kaltwasser für den menschlichen Gebrauch (Trinken, Waschen, Baden) muss generell der Trinkwasserverordnung entsprechen.
-• Bei Manipulation im Trinkwasserleitungsnetz, bei Rekonstruktion, Erneuerung und langer Nichtnutzung von Trinkwasserleitungen oder Warmwasserbereitungsanlagen (Boiler) sind beim Gesundheitsamt Wasserproben zur Leitungsüberprüfung und Freigabe zu beantragen.
-• Installationen sind nach den anerkannten Regeln der Technik und nur von bei dem Wasserversorger registrierten Firmen durchführen zu lassen.
-• Warmwasseranlagen müssen so betrieben werden, dass eine gesundheitsgefährdende Vermehrung von Legionellen vermieden wird.
-• Regenwasser darf für den menschlichen Gebrauch nicht verwendet, jedoch bei Bedarf zum Spülen der WC eingesetzt werden.
+– Das verwendete Warm- und Kaltwasser für den menschlichen Gebrauch (Trinken, Waschen, Baden) muss generell der Trinkwasserverordnung entsprechen.
+– Bei Manipulation im Trinkwasserleitungsnetz, bei Rekonstruktion, Erneuerung und langer Nichtnutzung von Trinkwasserleitungen oder Warmwasserbereitungsanlagen (Boiler) sind beim Gesundheitsamt Wasserproben zur Leitungsüberprüfung und Freigabe zu beantragen.
+– Installationen sind nach den anerkannten Regeln der Technik und nur von bei dem Wasserversorger registrierten Firmen durchführen zu lassen.
+– Warmwasseranlagen müssen so betrieben werden, dass eine gesundheitsgefährdende Vermehrung von Legionellen vermieden wird.
+– Regenwasser darf für den menschlichen Gebrauch nicht verwendet, jedoch bei Bedarf zum Spülen der WC eingesetzt werden.
 
 3.6 Gewerblich genutzte Küchen In von Personal bewirtschafteten Küchen gelten spezielle Anforderungen nach §§ 42 und 43 des Infektionsschutzgesetzes (IfSG), Lebensmittelhygieneverordnung und anderen rechtlichen Bestimmungen. Es gelten z. B. Regelungen für die Belehrung der Beschäftigten, die Straßen- und Arbeitsbekleidung, hygienische Händewaschung sowie Händedesinfektion, Flächenreinigung und –desinfektion, Lebensmittelhygiene, Rückstellprobe, Schädlingsprophylaxe und –bekämpfung. Nach 3 42 des IfSG gilt: Personen, die im Küchen- bzw. Lebensmittelbereich von Gemeinschaftseinrichtungen beschäftigt sind, dürfen, wenn sie
-• an Typhus, Paratyphus, Cholera, Shigellenruhr, Salmonellose, einer anderen infektiösen Darmerkrankung oder Virushepatitis A oder E (infektiöse Gelbsucht) erkrankt oder dessen verdächtig sind,
-• an infizierten Wunden oder Hauterkrankungen erkrankt sind, bei denen die Möglichkeit besteht, dass deren Krankheitserreger über Lebensmittel übertragen werden können,
-• die Krankheitserreger Shigellen, Salmonellen, enterohämorrhagische Escherichia coli oder Choleravibrionen ausscheiden, nicht tätig sein oder beschäftigt werden. Nach § 43 des IfSG gilt:
-• Die Erstausübung der Tätigkeiten im Küchen- bzw. Lebensmittelbereich ist nur möglich, wenn sie eine nicht mehr als 3 Monate alte Bescheinigung des Gesundheitsamtes oder eines vom Gesundheitsamt beauftragten Arztes nachweisen können. Diese muss eine in mündlicher und schriftlicher Form durchgeführte Belehrung über genannte Tätigkeitsverbote und Verpflichtungen enthalten. Außerdem muss der Beschäftigte darin schriftlich erklären, dass bei ihm keine Tatsachen für ein Tätigkeitsverbot vorliegen.
-• Treten nach Tätigkeitsaufnahme Hinderungsgründe auf, so hat der Beschäftigte dieses unverzüglich dem Arbeitgeber mitzuteilen.
+– an Typhus, Paratyphus, Cholera, Shigellenruhr, Salmonellose, einer anderen infektiösen Darmerkrankung oder Virushepatitis A oder E (infektiöse Gelbsucht) erkrankt oder dessen verdächtig sind,
+– an infizierten Wunden oder Hauterkrankungen erkrankt sind, bei denen die Möglichkeit besteht, dass deren Krankheitserreger über Lebensmittel übertragen werden können,
+– die Krankheitserreger Shigellen, Salmonellen, enterohämorrhagische Escherichia coli oder Choleravibrionen ausscheiden, nicht tätig sein oder beschäftigt werden. Nach § 43 des IfSG gilt:
+– Die Erstausübung der Tätigkeiten im Küchen- bzw. Lebensmittelbereich ist nur möglich, wenn sie eine nicht mehr als 3 Monate alte Bescheinigung des Gesundheitsamtes oder eines vom Gesundheitsamt beauftragten Arztes nachweisen können. Diese muss eine in mündlicher und schriftlicher Form durchgeführte Belehrung über genannte Tätigkeitsverbote und Verpflichtungen enthalten. Außerdem muss der Beschäftigte darin schriftlich erklären, dass bei ihm keine Tatsachen für ein Tätigkeitsverbot vorliegen.
+– Treten nach Tätigkeitsaufnahme Hinderungsgründe auf, so hat der Beschäftigte dieses unverzüglich dem Arbeitgeber mitzuteilen.
 
-• Der Arbeitgeber hat die Belehrung für die Beschäftigten im Küchen- bzw. Lebensmittelbereich nach Aufnahme der Tätigkeit und im Weiteren jährlich zu wiederholen, den Nachweis über die Belehrung zu dokumentieren und der zuständigen Behörde auf Verlangen vorzulegen.
+– Der Arbeitgeber hat die Belehrung für die Beschäftigten im Küchen- bzw. Lebensmittelbereich nach Aufnahme der Tätigkeit und im Weiteren jährlich zu wiederholen, den Nachweis über die Belehrung zu dokumentieren und der zuständigen Behörde auf Verlangen vorzulegen.
 
 3.7 Lebensmittelhygiene und Hygiene in von Bewohnern gemeinschaftlich genutzten Küchen
-• Nach Benutzung sind die Kochstelle und alle benutzten Geräte und Flächen zu säubern und der Müll in den Container zu entsorgen.
-• Der Fußboden ist bei Verunreinigung und sonst täglich zu reinigen.
-• Bei der Verarbeitung von Lebensmitteln sind die Arbeitsflächen abschließend mit einem für Küchen gelisteten Mittel zu desinfizieren. Dazu sind geeignete Informationen (z. B. mehrsprachige Texte, Bilder) bereitzustellen: Flächendesinfektionsmittel, Dosierhilfe (z. B. Beutel), Wassermenge, Aufbringen, Wischen, Einwirkzeit, Klarwischen mit Wasser und trocknen. Die Konzentrate sind sicher aufzubewahren. Ggf. ist eine geeignete Person mit der Durchführung der Desinfektion zu beauftragen, kein Einsatz gewerblicher Reinigungsfirmen.
-• Sachgemäße Verpackung (verschlossene Behälter), Lagerung (im Schrank) der Lebensmittel und Kennzeichnung der Behälter.
-• Kühllagerung von Lebensmitteln im Kühlschrank bei 2 °C bis 7 °C und in Gefrierfächern bei mind. -18 °C.
-• Futterstellen für Katzen sind in der Küche nicht zuzulassen.
+– Nach Benutzung sind die Kochstelle und alle benutzten Geräte und Flächen zu säubern und der Müll in den Container zu entsorgen.
+– Der Fußboden ist bei Verunreinigung und sonst täglich zu reinigen.
+– Bei der Verarbeitung von Lebensmitteln sind die Arbeitsflächen abschließend mit einem für Küchen gelisteten Mittel zu desinfizieren. Dazu sind geeignete Informationen (z. B. mehrsprachige Texte, Bilder) bereitzustellen: Flächendesinfektionsmittel, Dosierhilfe (z. B. Beutel), Wassermenge, Aufbringen, Wischen, Einwirkzeit, Klarwischen mit Wasser und trocknen. Die Konzentrate sind sicher aufzubewahren. Ggf. ist eine geeignete Person mit der Durchführung der Desinfektion zu beauftragen, kein Einsatz gewerblicher Reinigungsfirmen.
+– Sachgemäße Verpackung (verschlossene Behälter), Lagerung (im Schrank) der Lebensmittel und Kennzeichnung der Behälter.
+– Kühllagerung von Lebensmitteln im Kühlschrank bei 2 °C bis 7 °C und in Gefrierfächern bei mind. -18 °C.
+– Futterstellen für Katzen sind in der Küche nicht zuzulassen.
 
 3.8 Schädlingsprophylaxe und –bekämpfung
-• Durch das Unterbinden von Zutritts- bzw. Zuflugsmöglichkeiten für Schädlinge, das Vermeiden von Verbergeorten, das Beseitigen baulicher Mängel und die Einhaltung von Ordnung und Sauberkeit im Gebäude, im Küchenbereich und auf dem Außengelände ist einem Schädlingsbefall vorzubeugen.
-• Im Küchenbereich Fenster mit Fliegengaze ausstatten und Lebensmittelabfälle in geschlossenen Behältern lagern, die täglich zu leeren und zu reinigen sind.
-• Abfallcontainer gut verschließen und an einem schattigen Platz (nicht in unmittelbarer Nähe des Gebäudes) aufstellen, um keine Schädlinge anzulocken.
-• Es sind regelmäßig Befallskontrollen durchzuführen und zu dokumentieren.
-• Im Küchenbereich sind nach Erarbeitung einer Gefahrenanalyse Kontrollpunkte festzulegen, die regelmäßig zu überwachen sind (Dokumentation). Dabei sollte täglich eine Sichtkontrolle vorgenommen werden.
-• Bei Feststellung von Schädlingen ist unverzüglich das zuständige Gesundheitsamt zu informieren (ggf. Einsendung von Belegexemplaren zur Artbestimmung über das Gesundheitsamt an ein entomologisches Labor, von welchem eine sachkundige Beratung zur Schädlingsart und zur Bekämpfung erfolgt).
-• Bei Befall mit Gesundheitsschädlingen ist umgehend ein sachkundiger Schädlingsbekämpfer mit der Bekämpfung zu beauftragen (Anschrift, Telefon-Nr.).
+– Durch das Unterbinden von Zutritts- bzw. Zuflugsmöglichkeiten für Schädlinge, das Vermeiden von Verbergeorten, das Beseitigen baulicher Mängel und die Einhaltung von Ordnung und Sauberkeit im Gebäude, im Küchenbereich und auf dem Außengelände ist einem Schädlingsbefall vorzubeugen.
+– Im Küchenbereich Fenster mit Fliegengaze ausstatten und Lebensmittelabfälle in geschlossenen Behältern lagern, die täglich zu leeren und zu reinigen sind.
+– Abfallcontainer gut verschließen und an einem schattigen Platz (nicht in unmittelbarer Nähe des Gebäudes) aufstellen, um keine Schädlinge anzulocken.
+– Es sind regelmäßig Befallskontrollen durchzuführen und zu dokumentieren.
+– Im Küchenbereich sind nach Erarbeitung einer Gefahrenanalyse Kontrollpunkte festzulegen, die regelmäßig zu überwachen sind (Dokumentation). Dabei sollte täglich eine Sichtkontrolle vorgenommen werden.
+– Bei Feststellung von Schädlingen ist unverzüglich das zuständige Gesundheitsamt zu informieren (ggf. Einsendung von Belegexemplaren zur Artbestimmung über das Gesundheitsamt an ein entomologisches Labor, von welchem eine sachkundige Beratung zur Schädlingsart und zur Bekämpfung erfolgt).
+– Bei Befall mit Gesundheitsschädlingen ist umgehend ein sachkundiger Schädlingsbekämpfer mit der Bekämpfung zu beauftragen (Anschrift, Telefon-Nr.).
 
 3.9 Erste Hilfe und Personalschutz
-• Bei der Versorgung von Wunden sind Einmalhandschuhe zu tragen.
-• Nach Blutkontamination der Hände und dem Ablegen der Handschuhe muß eine Händedesinfektion ausgeführt werden.
-• Bei Fremdblutkontamination des Ersthelfers ist eine Desinfektion der Haut bzw. Wunde mit hochprozentigem Alkohol (z. B. Hautdesinfektionsmittel) oder Spülungen von Schleimhäuten notwendig. Bei Stich- oder Schnittverletzungen ist vorher durch Drücken auf die Umgebung der Wunde Blut zur Selbstreinigung auszudrücken (>1 min.). Es sollte umgehend ein Arzt aufgesucht werden.
-• Der Verbandkasten ist monatlich auf Vollständigkeit und Verfallsfristen zu prüfen (insbesondere Einmalhandschuhe, alkoholisches Desinfektionsmittel, Pflaster und Verbandmaterial).
-• Für bestimmte Situationen (z. B. Umgang mit Körperausscheidungen, Erstversorgung Obdachloser) sollte Schutzkleidung in ausreichender Anzahl bereitstehen.
-• Geeignetes Erste-Hilfe-Material enthält gemäß BGV A5/GUV 0.3: − Großer Verbandskasten nach DIN 13169 “Verbandskasten E” − Kleiner Verbandskasten nach DIN 13157 “Verbandskasten C”
-• Die Notrufnummern sollten offen ausgehängt werden. Polizei: Feuerwehr: Kinderarzt: Notarzt/Rettungsdienst: Gesundheitsamt: Giftinformationszentrum: Drogenberatungsstelle:
+– Bei der Versorgung von Wunden sind Einmalhandschuhe zu tragen.
+– Nach Blutkontamination der Hände und dem Ablegen der Handschuhe muß eine Händedesinfektion ausgeführt werden.
+– Bei Fremdblutkontamination des Ersthelfers ist eine Desinfektion der Haut bzw. Wunde mit hochprozentigem Alkohol (z. B. Hautdesinfektionsmittel) oder Spülungen von Schleimhäuten notwendig. Bei Stich- oder Schnittverletzungen ist vorher durch Drücken auf die Umgebung der Wunde Blut zur Selbstreinigung auszudrücken (>1 min.). Es sollte umgehend ein Arzt aufgesucht werden.
+– Der Verbandkasten ist monatlich auf Vollständigkeit und Verfallsfristen zu prüfen (insbesondere Einmalhandschuhe, alkoholisches Desinfektionsmittel, Pflaster und Verbandmaterial).
+– Für bestimmte Situationen (z. B. Umgang mit Körperausscheidungen, Erstversorgung Obdachloser) sollte Schutzkleidung in ausreichender Anzahl bereitstehen.
+– Geeignetes Erste-Hilfe-Material enthält gemäß BGV A5/GUV 0.3: − Großer Verbandskasten nach DIN 13169 “Verbandskasten E” − Kleiner Verbandskasten nach DIN 13157 “Verbandskasten C”
+– Die Notrufnummern sollten offen ausgehängt werden. Polizei: Feuerwehr: Kinderarzt: Notarzt/Rettungsdienst: Gesundheitsamt: Giftinformationszentrum: Drogenberatungsstelle:
 
 3.10 Anforderungen nach Biostoffverordnung Gefährdungsbeurteilung:
-• Tätigkeiten in Gemeinschaftsunterkünften für Erwachsene im Sinne dieses Rahmenhygieneplanes können auch im Gefahrenbereich biologischer Arbeitsstoffe (humanpathogene Bakterien, Viren, Parasiten) ausgeübt werden. Gemäß § 5 Arbeitsschutzgesetz (ArbSchG) ist der Arbeitgeber verpflichtet, durch eine Beurteilung der arbeitsplatzbedingten Gefährdungen die notwendigen Schutzmaßnahmen zu ermitteln. Diese allgemein gültige Vorschrift wird für Tätigkeiten mit biologischen Arbeitsstoffen in der Biostoffverordnung (BioStoffV) und in der Technischen Regel für Biologische Arbeitsstoffe (TRBA) 400 "Handlungsanleitung zur Gefährdungsbeurteilung bei Tätigkeiten mit biologischen Arbeitsstoffen" konkretisiert. Es liegen nicht gezielte Tätigkeiten im Sinne der BioStoffV vor.
-• Bei der Gefährdungsbeurteilung sind die Mitarbeitervertretung, der Betriebsarzt sowie die Fachkraft für Arbeitssicherheit zu beteiligen. Darüber hinaus kann sich der Arbeitgeber extern beraten und unterstützen lassen, z.B. durch die staatliche Arbeitsschutzbehörde, die Berufsgenossenschaft, sicherheitstechnische und arbeitsmedizinische Dienste u. a.. Arbeitsmedizinische Vorsorgeuntersuchungen:
-• Nach § 15 (1) BioStoffV i. V. m. Anhang IV sind Beschäftigte bei Tätigkeiten in der Wohlfahrtspflege mit einer Exposition gegenüber Hepatitis B-Virus, Hepatitis C-Virus ar-
+– Tätigkeiten in Gemeinschaftsunterkünften für Erwachsene im Sinne dieses Rahmenhygieneplanes können auch im Gefahrenbereich biologischer Arbeitsstoffe (humanpathogene Bakterien, Viren, Parasiten) ausgeübt werden. Gemäß § 5 Arbeitsschutzgesetz (ArbSchG) ist der Arbeitgeber verpflichtet, durch eine Beurteilung der arbeitsplatzbedingten Gefährdungen die notwendigen Schutzmaßnahmen zu ermitteln. Diese allgemein gültige Vorschrift wird für Tätigkeiten mit biologischen Arbeitsstoffen in der Biostoffverordnung (BioStoffV) und in der Technischen Regel für Biologische Arbeitsstoffe (TRBA) 400 "Handlungsanleitung zur Gefährdungsbeurteilung bei Tätigkeiten mit biologischen Arbeitsstoffen" konkretisiert. Es liegen nicht gezielte Tätigkeiten im Sinne der BioStoffV vor.
+– Bei der Gefährdungsbeurteilung sind die Mitarbeitervertretung, der Betriebsarzt sowie die Fachkraft für Arbeitssicherheit zu beteiligen. Darüber hinaus kann sich der Arbeitgeber extern beraten und unterstützen lassen, z.B. durch die staatliche Arbeitsschutzbehörde, die Berufsgenossenschaft, sicherheitstechnische und arbeitsmedizinische Dienste u. a.. Arbeitsmedizinische Vorsorgeuntersuchungen:
+– Nach § 15 (1) BioStoffV i. V. m. Anhang IV sind Beschäftigte bei Tätigkeiten in der Wohlfahrtspflege mit einer Exposition gegenüber Hepatitis B-Virus, Hepatitis C-Virus ar-
 
 beitsmedizinisch zu untersuchen und zu beraten. Zur Wohlfahrtspflege gehören auch Gemeinschaftsunterkünfte für Personen in besonderen sozialen Lebenslagen (Obdachlose, Asylbewerber, Flüchtlinge, Spätaussiedler).
-• Entsprechende Tätigkeiten liegen z. B. für den Ersthelfer vor, der Umgang mit Körperflüssigkeiten und Ausscheidungen haben kann. Bei Tätigkeiten der allgemeinen Betreuung (Verwaltung) wird in der Regel keine arbeitsmedizinische Vorsorgeuntersuchung nach BioStoffV erforderlich sein.
-• Im Einzelfall kann jedoch im Ergebnis der Gefährdungsbeurteilung eine tätigkeitsspezifische Infektionsgefährdung durch biologische Arbeitsstoffe der Risikogruppe 2 oder 3 z. B. für Reinigungs- und Reparaturarbeiten festgestellt werden. In diesen Fällen hat der Arbeitgeber arbeitsmedizinische Vorsorgeuntersuchungen gemäß § 15 (2) BioStoffV anzubieten.
-• Mit der Durchführung der arbeitsmedizinischen Vorsorgeuntersuchungen ist der an der Gefährdungsbeurteilung beteiligte Arzt – in der Regel der Betriebsarzt – zu beauftragen.
-• Im Anhang zur TRBA 300 ”Arbeitsmedizinische Vorsorge” (Tabelle II – 1 und 2) sind beispielhaft Tätigkeiten und biologische Arbeitsstoffe aufgelistet, für die der Arbeitgeber arbeitsmedizinische Vorsorgeuntersuchungen anbieten muss. Bis zur Veröffentlichung der TRBA 300 können diese Informationen auch aus dem BG-Grundsatz 42 “Infektionsgefährdung” – Spezieller Teil (BGG 904-42) entnommen werden. Impfungen für das Personal:
-• Wenn im Ergebnis der Gefährdungsbeurteilung eine tätigkeitsspezifische Infektionsgefährdung durch biologische Arbeitsstoffe der Risikogruppe 2 oder 3 festgestellt wird und ein wirksamer Impfstoff zur Verfügung steht, hat der Arbeitgeber den Beschäftigten gemäß § 15 (4) BioStoffV eine Impfung anzubieten.
-• Die notwendigen Impfungen sind in den Impfempfehlungen der Ständigen Impfkommission (STIKO) veröffentlicht.
-• Im Anhang zur TRBA 300 ”Arbeitsmedizinische Vorsorge” (Tabelle II – 1 und 2) sind beispielhaft Tätigkeiten und biologische Arbeitsstoffe aufgelistet, für die der Arbeitgeber Impfungen anbieten muss. Bis zur Veröffentlichung der TRBA 300 können diese Informationen auch aus dem BG-Grundsatz 42 “Infektionsgefährdung” – Spezieller Teil (BGG 904-42) entnommen werden.
-• Ein aktueller Impfschutz soll in Abhängigkeit von der Tätigkeit und Expositionsmöglichkeit vorliegen für Diphtherie, Poliomyelitis, Hepatitis A und Hepatitis B.
+– Entsprechende Tätigkeiten liegen z. B. für den Ersthelfer vor, der Umgang mit Körperflüssigkeiten und Ausscheidungen haben kann. Bei Tätigkeiten der allgemeinen Betreuung (Verwaltung) wird in der Regel keine arbeitsmedizinische Vorsorgeuntersuchung nach BioStoffV erforderlich sein.
+– Im Einzelfall kann jedoch im Ergebnis der Gefährdungsbeurteilung eine tätigkeitsspezifische Infektionsgefährdung durch biologische Arbeitsstoffe der Risikogruppe 2 oder 3 z. B. für Reinigungs- und Reparaturarbeiten festgestellt werden. In diesen Fällen hat der Arbeitgeber arbeitsmedizinische Vorsorgeuntersuchungen gemäß § 15 (2) BioStoffV anzubieten.
+– Mit der Durchführung der arbeitsmedizinischen Vorsorgeuntersuchungen ist der an der Gefährdungsbeurteilung beteiligte Arzt – in der Regel der Betriebsarzt – zu beauftragen.
+– Im Anhang zur TRBA 300 ”Arbeitsmedizinische Vorsorge” (Tabelle II – 1 und 2) sind beispielhaft Tätigkeiten und biologische Arbeitsstoffe aufgelistet, für die der Arbeitgeber arbeitsmedizinische Vorsorgeuntersuchungen anbieten muss. Bis zur Veröffentlichung der TRBA 300 können diese Informationen auch aus dem BG-Grundsatz 42 “Infektionsgefährdung” – Spezieller Teil (BGG 904-42) entnommen werden. Impfungen für das Personal:
+– Wenn im Ergebnis der Gefährdungsbeurteilung eine tätigkeitsspezifische Infektionsgefährdung durch biologische Arbeitsstoffe der Risikogruppe 2 oder 3 festgestellt wird und ein wirksamer Impfstoff zur Verfügung steht, hat der Arbeitgeber den Beschäftigten gemäß § 15 (4) BioStoffV eine Impfung anzubieten.
+– Die notwendigen Impfungen sind in den Impfempfehlungen der Ständigen Impfkommission (STIKO) veröffentlicht.
+– Im Anhang zur TRBA 300 ”Arbeitsmedizinische Vorsorge” (Tabelle II – 1 und 2) sind beispielhaft Tätigkeiten und biologische Arbeitsstoffe aufgelistet, für die der Arbeitgeber Impfungen anbieten muss. Bis zur Veröffentlichung der TRBA 300 können diese Informationen auch aus dem BG-Grundsatz 42 “Infektionsgefährdung” – Spezieller Teil (BGG 904-42) entnommen werden.
+– Ein aktueller Impfschutz soll in Abhängigkeit von der Tätigkeit und Expositionsmöglichkeit vorliegen für Diphtherie, Poliomyelitis, Hepatitis A und Hepatitis B.
 
 4 Gesundheitliche Betreuung für Asylbewerber
 
@@ -546,35 +547,35 @@ beitsmedizinisch zu untersuchen und zu beraten. Zur Wohlfahrtspflege gehören au
 4.1.1 Leistungen bei Krankheit, Schwangerschaft und Geburt (1) Zur Behandlung akuter Erkrankungen und Schmerzzustände sind die erforderliche ärztliche und zahnärztliche Behandlung einschließlich der Versorgung mit Arznei- und Verbandmitteln sowie sonstiger zur Genesung, zur Besserung oder zur Linderung von Krankheiten oder Krankheitsfolgen erforderlichen Leistungen zu gewähren. Eine Versorgung mit Zahnersatz erfolgt nur, soweit dies im Einzelfall aus medizinischen Gründen unaufschiebbar ist. (2) Werdenden Müttern und Wöchnerinnen sind ärztliche und pflegerische Hilfe und Betreuung, Hebammenhilfe, Arznei-, Verband- und Heilmittel zu gewähren. (3) Die zuständige Behörde stellt die ärztliche und zahnärztliche Versorgung einschließlich der amtlich empfohlenen Schutzimpfungen und medizinisch gebotenen Vorsorgeuntersuchungen sicher. Soweit die Leistungen durch niedergelassene Ärzte oder Zahnärzte erfolgen, richtet sich die Vergütung nach den am Ort der Niederlassung des Arztes oder Zahnarztes geltenden Verträgen nach § 72 Abs. 2 des Fünften Buches Sozialgesetzbuch. Die zuständige Behörde bestimmt, welcher Vertrag Anwendung findet. Zur Aufnahme, Verteilung und Unterbringung in den Bundesländern gibt es spezifische Verordnungen (2) oder Richtlinien.
 
 4.2 Untersuchungen nach § 62 des Asylverfahrensgesetzes (3) Die ärztliche Untersuchung für Asylbewerber leitet sich von § 62 Absatz 1 des Asylverfahrensgesetzes ab. In den Bundesländern gibt es jeweilige Erlasse und Verordnungen oder Richtlinien zur Durchführung der ärztlichen Untersuchung. Gibt es solche Regelungen nicht, kann beispielsweise für die ärztliche Untersuchung von Asylbewerbern folgende Regelung (4, 18, 20) herangezogen werden:
-• Die ärztliche Untersuchung umfaßt:
+– Die ärztliche Untersuchung umfaßt:
 a) Erhebung der Anamnese und körperliche Untersuchung,
 b) Röntgenaufnahme der Lunge zum Ausschluß einer Lungentuberkulose unter Be-
 
 achtung von Kontraindikationen; bei Kindern bis zur Vollendung des 15. Lebensjahres genügt der Ausschluß durch eine Tuberkulinprobe.
-• Diese Untersuchungen sind vom Asylbewerber zu duldende Pflichtuntersuchungen. Der Asylbewerber soll über Zweck, Umfang und Ergebnis der Untersuchungen in geeigneter Form informiert werden.
-• Weitere Untersuchungen, die nach ärztlicher Indikation für notwendig erachtet werden, müssen ggf. mit Einverständnis des Asylbewerbers erfolgen. Werden zusätzlich Laboruntersuchungen notwendig, sind diese von der zuständigen Behörde zu veranlassen.
-• Die Asylbewerber können die von den Gesundheitsämtern unentgeltlich angebotenen Schutzimpfungen sowie bestehende Beratungsangebote in Anspruch nehmen. Sie sollen auf die Möglichkeit der anonymen HIV-Testung hingewiesen werden.
+– Diese Untersuchungen sind vom Asylbewerber zu duldende Pflichtuntersuchungen. Der Asylbewerber soll über Zweck, Umfang und Ergebnis der Untersuchungen in geeigneter Form informiert werden.
+– Weitere Untersuchungen, die nach ärztlicher Indikation für notwendig erachtet werden, müssen ggf. mit Einverständnis des Asylbewerbers erfolgen. Werden zusätzlich Laboruntersuchungen notwendig, sind diese von der zuständigen Behörde zu veranlassen.
+– Die Asylbewerber können die von den Gesundheitsämtern unentgeltlich angebotenen Schutzimpfungen sowie bestehende Beratungsangebote in Anspruch nehmen. Sie sollen auf die Möglichkeit der anonymen HIV-Testung hingewiesen werden.
 
 5 Anforderungen nach Infektionsschutzgesetz
 
 5.1 Anforderungen des § 36 Abs. 4 IfSG Aufnahme von Personen in eine Gemeinschaftsunterkunft für Flüchtlinge, Asylbewerber oder eine Erstaufnahmeeinrichtung des Bundes für Spätaussiedler:
-• Vorlage eines ärztlichen Zeugnisses, dass bei ihnen keine Anhaltspunkte für das Vorliegen einer ansteckungsfähigen Lungentuberkulose vorhanden sind (vor oder unverzüglich nach der Aufnahme).
-• Bei Personen, die das 15. Lebensjahr vollendet haben, muß sich dieses Zeugnis auf eine in Deutschland erstellte Röntgenaufnahme der Lunge stützen.
-• Bei erstmaliger Aufnahme in die Einrichtung darf die Röntgenaufnahme nicht länger als 6 Monate, bei erneuter Aufnahme nicht länger als 12 Monate zurückliegen.
-• Bei Personen, die das 15. Lebensjahr noch nicht vollendet haben, bzw. bei Schwangeren ist von einer Röntgenaufnahme abzusehen. Stattdessen ist ein ärztliches Zeugnis vorzulegen, dass nach sonstigen Befunden (z. B. Tuberkulintest, Sputumuntersuchung) eine ansteckungsfähige Lungentuberkulose nicht zu befürchten ist.
-• Über den zur Ausstellung des Zeugnisses erforderlichen Untersuchungsumfang entscheidet der Arzt.
-• Erstellung eines Hygieneplanes. Aufnahme von Personen in eine Gemeinschaftsunterkunft für Obdachlose:
-• Vorlage eines ärztlichen Zeugnisses, dass bei ihnen keine Anhaltspunkte für das Vorliegen einer ansteckungsfähigen Lungentuberkulose vorhanden sind (vor oder unverzüglich nach der Aufnahme).
-• Eine Vorlage des Zeugnisses ist nicht erforderlich, wenn die Personen weniger als 3 Tage in der Gemeinschaftsunterkunft verbleiben.
-• Eine Röntgenaufnahme der Lunge ist gesetzlich nicht vorgeschrieben.
-• Hinweis: Bei erstmaliger Aufnahme in die Gemeinschaftsunterkunft sollte das ärztliche Zeugnis nicht älter als 6 Monate, bei Wiederaufnahme nicht älter als 12 Monate sein.
+– Vorlage eines ärztlichen Zeugnisses, dass bei ihnen keine Anhaltspunkte für das Vorliegen einer ansteckungsfähigen Lungentuberkulose vorhanden sind (vor oder unverzüglich nach der Aufnahme).
+– Bei Personen, die das 15. Lebensjahr vollendet haben, muß sich dieses Zeugnis auf eine in Deutschland erstellte Röntgenaufnahme der Lunge stützen.
+– Bei erstmaliger Aufnahme in die Einrichtung darf die Röntgenaufnahme nicht länger als 6 Monate, bei erneuter Aufnahme nicht länger als 12 Monate zurückliegen.
+– Bei Personen, die das 15. Lebensjahr noch nicht vollendet haben, bzw. bei Schwangeren ist von einer Röntgenaufnahme abzusehen. Stattdessen ist ein ärztliches Zeugnis vorzulegen, dass nach sonstigen Befunden (z. B. Tuberkulintest, Sputumuntersuchung) eine ansteckungsfähige Lungentuberkulose nicht zu befürchten ist.
+– Über den zur Ausstellung des Zeugnisses erforderlichen Untersuchungsumfang entscheidet der Arzt.
+– Erstellung eines Hygieneplanes. Aufnahme von Personen in eine Gemeinschaftsunterkunft für Obdachlose:
+– Vorlage eines ärztlichen Zeugnisses, dass bei ihnen keine Anhaltspunkte für das Vorliegen einer ansteckungsfähigen Lungentuberkulose vorhanden sind (vor oder unverzüglich nach der Aufnahme).
+– Eine Vorlage des Zeugnisses ist nicht erforderlich, wenn die Personen weniger als 3 Tage in der Gemeinschaftsunterkunft verbleiben.
+– Eine Röntgenaufnahme der Lunge ist gesetzlich nicht vorgeschrieben.
+– Hinweis: Bei erstmaliger Aufnahme in die Gemeinschaftsunterkunft sollte das ärztliche Zeugnis nicht älter als 6 Monate, bei Wiederaufnahme nicht älter als 12 Monate sein.
 
 5.2 Meldepflicht gemäß Infektionsschutzgesetz
 
 5.2.1 Wer muß melden? Eine Vielzahl von Infektionskrankheiten sind nach dem Infektionsschutzgesetz meldepflichtig. Grundsätzlich ist nach § 8 IfSG der feststellende Arzt verpflichtet, die im IfSG § 6 genannten Krankheiten zu melden. Ist das jedoch primär nicht erfolgt oder steht in der Gemeinschaftsunterkunft ein Arzt nicht sofort zur Verfügung (oder wird z. B. eine ärztliche Betreuung durch die erkrankte Person abgelehnt), besteht gemäß § 8 (1) Nr. 7 IfSG eine Pflicht zur Meldung für den Leiter der Gemeinschaftsunterkunft, damit keine Verzögerung der Meldung entsteht und ggf. notwendige antiepidemische Maßnahmen sofort eingeleitet werden können.
 
 5.2.2 Meldepflichtige Krankheiten gemäß § 6 (1) Nr. 1, 2 und 5 Durch den Leiter der Gemeinschaftsunterkunft ist namentlich zu melden (wenn die Meldung nicht bereits durch den Arzt erfolgte):
-• der Krankheitsverdacht, die Erkrankung sowie der Tod an
+– der Krankheitsverdacht, die Erkrankung sowie der Tod an
 a) Botulismus
 b) Cholera
 c) Diphtherie
@@ -594,20 +595,20 @@ n) Typhus abdominalis/Paratyphus
 sowie die Erkrankung und der Tod an einer behandlungsbedürftigen Tuberkulose, auch
 
 wenn ein bakteriologischer Nachweis nicht vorliegt,
-• der Verdacht auf und die Erkrankung an einer mikrobiell bedingten Lebensmittelvergiftung oder an einer akuten infektiösen Gastroenteritis, wenn
+– der Verdacht auf und die Erkrankung an einer mikrobiell bedingten Lebensmittelvergiftung oder an einer akuten infektiösen Gastroenteritis, wenn
 a) eine Person betroffen ist, die eine Tätigkeit im Sinne des § 42 Abs. 1 ausübt
 b) zwei oder mehr gleichartige Erkrankungen auftreten, bei denen ein epidemischer Zusammenhang wahrscheinlich ist oder vermutet wird.
-• das Auftreten (soweit nicht bereits nach Nr. 1 und 2 meldepflichtig)
+– das Auftreten (soweit nicht bereits nach Nr. 1 und 2 meldepflichtig)
 a) einer bedrohlichen Krankheit oder
 b) von zwei oder mehr gleichartigen Erkrankungen, bei denen ein epidemischer Zusammenhang wahrscheinlich ist oder vermutet wird, wenn dies auf eine schwerwiegende Gefahr für die Allgemeinheit hinweist. Die im Bundesland bestehende zusätzliche Meldeverordnung ist darüber hinaus zu beachten.
 
 5.2.3 Meldeweg und -inhalt Die Meldung erfolgt unverzüglich (innerhalb von 24 Stunden) an das für den Aufenthalt des Betroffenen zuständige Gesundheitsamt. Anschrift Telefon-Nr. Die an das Gesundheitsamt zu übermittelnden Meldeinhalte gemäß § 9 IfSG beschränken sich für die Leiter der Gemeinschaftsunterkünfte auf die ihnen vorliegenden Angaben z. B.:
-• Art der Erkrankung bzw. des Verdachtes
-• Name, Vorname, Geschlecht, Geburtsdatum des Erkrankten
-• derzeitiger Aufenthaltsort
-• Herkunftsland
-• Kontaktpersonen u. a.
-• Name, Anschrift und Telefon-Nr. des Meldenden
+– Art der Erkrankung bzw. des Verdachtes
+– Name, Vorname, Geschlecht, Geburtsdatum des Erkrankten
+– derzeitiger Aufenthaltsort
+– Herkunftsland
+– Kontaktpersonen u. a.
+– Name, Anschrift und Telefon-Nr. des Meldenden
 
 5.3 Impfempfehlungen für Aussiedler, Flüchtlinge oder Asylbewerber in Gemeinschaftsunterkünften (13) Es wird empfohlen, Schutzimpfungen bei Bewohnern von Gemeinschaftsunterkünften möglichst frühzeitig durch den öffentlichen Gesundheitsdienst oder durch vom ÖGD beauftragte Ärzte zumindest zu beginnen. Die Vervollständigung der Grundimmunisierung sollte nach dem Verlassen der Gemeinschaftsunterkünfte durch die am späteren Aufenthaltsort niedergelassenen Ärzte oder durch den ÖGD erfolgen. Vorliegende Impfdokumentationen sollten nach Möglichkeit berücksichtigt werden; die Empfehlungen der STIKO sollten dem Vorgehen zugrunde gelegt werden. − Bei Erwachsenen sollten Impfungen gegen Diphtherie und Tetanus (Td-Impfstoff), gegen
 
@@ -618,62 +619,62 @@ omyelitis, Masern, Mumps, Röteln und gegen Hepatitis B, bei Kleinkindern auch g
 6 Sondermaßnahmen bei Auftreten bestimmter Infektions-/ Befallskrankheiten Bei Infektions-/Befallskrankheiten ist grundsätzlich Rücksprache mit dem zuständigen Gesundheitsamt zu halten.
 
 6.1 Durchfallerkrankungen Maßnahmen bei Erkrankten/Ausscheidern:
-• Absonderung in der Einrichtung, Hospitalisierung nur aus klinischer Indikation.
-• Erkrankte sollten in der akuten Phase Bettruhe einhalten und bis zu 48 Stunden nach Sistie-ren der klinischen Symptome den Kontakt mit anderen Personen einschränken.
-• Erkrankte und Erkrankungsverdächtige, die das 6. Lebensjahr noch nicht vollendet haben, dürfen eine Gemeinschaftseinrichtung nicht besuchen, bis nach ärztlichem Urteil eine Weiterverbreitung der Erkrankung nicht mehr zu befürchten ist. (§34 Abs.1 Satz 3 IfSG)
-• Die Zulassung zur Kita nach Krankheit erfolgt nach dem Abklingen des Durchfalls (geformter Stuhl). Ein schriftliches ärztliches Attest ist dafür nicht erforderlich.
-• Schulkinder dürfen die Schule besuchen, da bei Beachtung einfacher Hygieneregeln eine Übertragung in der Schule nicht zu befürchten ist. Schulkinder sind in der Lage, durch Waschen der Hände und ggf. deren Desinfektion (Festlegung des Gesundheitsamtes) eine Weiterverbreitung der Erreger durch Schmierinfektion zu verhindern. Die Benutzung von Gemeinschaftstoiletten stellt kein besonderes Risiko dar, wenn sie mit Toilettenpapier, Seifenspender, Waschbecken und Einmalhandtüchern ausgestattet sind und regelmäßig gereinigt werden.
-• Die Übertragung der Erreger von Durchfallerkrankungen kann wirksam durch Vermeiden von fäkal-oralen Schmierinfektionen, vor allem durch Händehygiene, vemieden werden.
-• Tätigkeits- und Beschäftigungsverbot im Lebensmittelbereich nach § 42 Abs. 1 Ziffer 1. und 3 und Abs. 2 IfSG für bestimmte Erkrankte, Krankheitsverdächtige und Ausscheider
+– Absonderung in der Einrichtung, Hospitalisierung nur aus klinischer Indikation.
+– Erkrankte sollten in der akuten Phase Bettruhe einhalten und bis zu 48 Stunden nach Sistie-ren der klinischen Symptome den Kontakt mit anderen Personen einschränken.
+– Erkrankte und Erkrankungsverdächtige, die das 6. Lebensjahr noch nicht vollendet haben, dürfen eine Gemeinschaftseinrichtung nicht besuchen, bis nach ärztlichem Urteil eine Weiterverbreitung der Erkrankung nicht mehr zu befürchten ist. (§34 Abs.1 Satz 3 IfSG)
+– Die Zulassung zur Kita nach Krankheit erfolgt nach dem Abklingen des Durchfalls (geformter Stuhl). Ein schriftliches ärztliches Attest ist dafür nicht erforderlich.
+– Schulkinder dürfen die Schule besuchen, da bei Beachtung einfacher Hygieneregeln eine Übertragung in der Schule nicht zu befürchten ist. Schulkinder sind in der Lage, durch Waschen der Hände und ggf. deren Desinfektion (Festlegung des Gesundheitsamtes) eine Weiterverbreitung der Erreger durch Schmierinfektion zu verhindern. Die Benutzung von Gemeinschaftstoiletten stellt kein besonderes Risiko dar, wenn sie mit Toilettenpapier, Seifenspender, Waschbecken und Einmalhandtüchern ausgestattet sind und regelmäßig gereinigt werden.
+– Die Übertragung der Erreger von Durchfallerkrankungen kann wirksam durch Vermeiden von fäkal-oralen Schmierinfektionen, vor allem durch Händehygiene, vemieden werden.
+– Tätigkeits- und Beschäftigungsverbot im Lebensmittelbereich nach § 42 Abs. 1 Ziffer 1. und 3 und Abs. 2 IfSG für bestimmte Erkrankte, Krankheitsverdächtige und Ausscheider
 a) beim Herstellen, Behandeln oder Inverkehrbringen der in Abs. 2 genannten Lebensmit-
 
 tel, wenn sie dabei mit diesen in Berührung kommen oder
 b) in Küchen von Gaststätten und sonstigen Einrichtungen, Einrichtungen mit oder zur
 
 Gemeinschaftsverpflegung.
-• Ausnahmen von den Verboten kann nach § 42 Abs. 4 IfSG das Gesundheitsamt dann zulassen, wenn Maßnahmen durchgeführt werden, mit denen eine Übertragung der aufgeführten Erreger verhütet werden kann. Solche Maßnahmen können sein: Nichtdurchführung einzelner risikobehafteter Tätigkeiten, strikte Beachtung der für die jeweiligen Tätigkeiten geltenden hygienischen Grundregeln, gute Personalhygiene, insbesondere Händehygiene, Zuverlässigkeit und andere persönliche wie sachliche Umstände. Maßnahmen bei Kontaktpersonen
-• Personen, die Kontakt mit Stuhl bzw. Erbrochenem eines Erkrankten hatten, sollen sich für die Dauer des Inkubationszeitraumes und die folgenden 2 Wochen die Hände nach jedem Stuhlgang gründlich waschen, die Hände mit Einmalpapierhandtüchern abtrocknen und anschließend desinfizieren (alkoholisches Desinfektionsmittel).
-• Ein Ausschluß von Gemeinschaftseinrichtungen ist nicht erforderlich, solange keine enteritischen Symptome auftreten.
-• Eine wirksame medikamentöse Prophylaxe nach Exposition ist nicht bekannt. Maßnahmen bei Ausbrüchen
+– Ausnahmen von den Verboten kann nach § 42 Abs. 4 IfSG das Gesundheitsamt dann zulassen, wenn Maßnahmen durchgeführt werden, mit denen eine Übertragung der aufgeführten Erreger verhütet werden kann. Solche Maßnahmen können sein: Nichtdurchführung einzelner risikobehafteter Tätigkeiten, strikte Beachtung der für die jeweiligen Tätigkeiten geltenden hygienischen Grundregeln, gute Personalhygiene, insbesondere Händehygiene, Zuverlässigkeit und andere persönliche wie sachliche Umstände. Maßnahmen bei Kontaktpersonen
+– Personen, die Kontakt mit Stuhl bzw. Erbrochenem eines Erkrankten hatten, sollen sich für die Dauer des Inkubationszeitraumes und die folgenden 2 Wochen die Hände nach jedem Stuhlgang gründlich waschen, die Hände mit Einmalpapierhandtüchern abtrocknen und anschließend desinfizieren (alkoholisches Desinfektionsmittel).
+– Ein Ausschluß von Gemeinschaftseinrichtungen ist nicht erforderlich, solange keine enteritischen Symptome auftreten.
+– Eine wirksame medikamentöse Prophylaxe nach Exposition ist nicht bekannt. Maßnahmen bei Ausbrüchen
 
-• Sofortige Information an das zuständige Gesundheitsamt zur Abstimmung der erforderlichen antiepidemischen Maßnahmen.
-• Bei Ausbrüchen (≥ 2 Fälle) ist es wichtig, die Infektionsquelle schnell zu erkennen. Kommen als Ursache kontaminiertes Essen oder Getränke in Frage, müssen durch das zuständige Veterinärüberwachungsamt umgehend Maßnahmen eingeleitet werden, um die Infektionsquelle auszuschalten.
-• Zur Vermeidung einer fäkal-oralen Übertragung ist es notwendig, alle bei den Einzelerkrankungen aufgeführten Maßnahmen konsequent auszuführen.
-• Die Durchführung von Händedesinfektionsmaßnahmen ist von entscheidender Bedeutung. Eine wirksame Desinfektion ausgewählter Flächen (Festlegung des Gesundheitsamtes), wie z. B. WC-Sitzfläche, Zieh- oder Druckvorrichtung, Türklinke und Handwaschbecken ist auszuführen.
+– Sofortige Information an das zuständige Gesundheitsamt zur Abstimmung der erforderlichen antiepidemischen Maßnahmen.
+– Bei Ausbrüchen (≥ 2 Fälle) ist es wichtig, die Infektionsquelle schnell zu erkennen. Kommen als Ursache kontaminiertes Essen oder Getränke in Frage, müssen durch das zuständige Veterinärüberwachungsamt umgehend Maßnahmen eingeleitet werden, um die Infektionsquelle auszuschalten.
+– Zur Vermeidung einer fäkal-oralen Übertragung ist es notwendig, alle bei den Einzelerkrankungen aufgeführten Maßnahmen konsequent auszuführen.
+– Die Durchführung von Händedesinfektionsmaßnahmen ist von entscheidender Bedeutung. Eine wirksame Desinfektion ausgewählter Flächen (Festlegung des Gesundheitsamtes), wie z. B. WC-Sitzfläche, Zieh- oder Druckvorrichtung, Türklinke und Handwaschbecken ist auszuführen.
 
 6.2 Krätze
-• Information des Gesundheitsamtes.
-• Isolierung des Bewohners.
-• Vorstellung beim Hautarzt zur Therapie.
-• Begrenzung der Betreuung auf möglichst wenige Personen, die bei Kontakt mit dem Betroffenen Schutzkleidung und Schutzhandschuhe zu tragen haben.
-• Konsequente Kontrolle und Mitbehandlung aller Kontaktpersonen (Mitbewohner, Angehörige, betreuendes Personal ohne ausreichende Schutzkleidung).
-• Wäschewechsel (Körperkleidung, Unterwäsche, Bettwäsche, Bettdecken, Handtücher) mindestens 1x täglich.
-• Bett- und Unterwäsche so heiß wie möglich waschen, Buntwäsche bei 60 °C mind. 20 min., Bettstaub vorher absaugen.
-• Schlecht zu waschende Textilien usw. können in verschweißten Plastiksäcken bei Zimmertemperatur 14 Tage aufbewahrt werden (bei ≥ 25 °C genügt 1 Woche). Danach sind die Krätzmilben abgestorben.
-• Zur Entwesung von Matratzen, Polstermöbeln und Fußbodenbelägen gründliches und wiederholtes Absaugen mit einem starken Staubsauger. Ggf. Matratzen und kontaminierte Polsterstühle etc. in dicke Einschicht- oder Zweischichtfolie einschweißen und bei ≥ 25 °C 1 Woche in einem gesonderten Raum abstellen.
-• Mit Krätzmilben kontaminierte Plüschtiere und Schuhe können auch eingefroren werden. (Temperatur unter – 10 °C).
-• Eine Entwesung der Räume mit chemischen Mitteln ist nicht erforderlich.
-• Ständige Überwachung aller Behandelten und potentiellen Kontaktpersonen über einen Zeitraum von 6 Wochen (verantwortlich für die Koordinierung: Gesundheitsamt).
-• Bei einem Skabiesausbruch ist dafür zu sorgen, dass alle Erkrankten und ungeschützten Kontaktpersonen (einschl. betreuendes Personal) gleichzeitig behandelt werden.
+– Information des Gesundheitsamtes.
+– Isolierung des Bewohners.
+– Vorstellung beim Hautarzt zur Therapie.
+– Begrenzung der Betreuung auf möglichst wenige Personen, die bei Kontakt mit dem Betroffenen Schutzkleidung und Schutzhandschuhe zu tragen haben.
+– Konsequente Kontrolle und Mitbehandlung aller Kontaktpersonen (Mitbewohner, Angehörige, betreuendes Personal ohne ausreichende Schutzkleidung).
+– Wäschewechsel (Körperkleidung, Unterwäsche, Bettwäsche, Bettdecken, Handtücher) mindestens 1x täglich.
+– Bett- und Unterwäsche so heiß wie möglich waschen, Buntwäsche bei 60 °C mind. 20 min., Bettstaub vorher absaugen.
+– Schlecht zu waschende Textilien usw. können in verschweißten Plastiksäcken bei Zimmertemperatur 14 Tage aufbewahrt werden (bei ≥ 25 °C genügt 1 Woche). Danach sind die Krätzmilben abgestorben.
+– Zur Entwesung von Matratzen, Polstermöbeln und Fußbodenbelägen gründliches und wiederholtes Absaugen mit einem starken Staubsauger. Ggf. Matratzen und kontaminierte Polsterstühle etc. in dicke Einschicht- oder Zweischichtfolie einschweißen und bei ≥ 25 °C 1 Woche in einem gesonderten Raum abstellen.
+– Mit Krätzmilben kontaminierte Plüschtiere und Schuhe können auch eingefroren werden. (Temperatur unter – 10 °C).
+– Eine Entwesung der Räume mit chemischen Mitteln ist nicht erforderlich.
+– Ständige Überwachung aller Behandelten und potentiellen Kontaktpersonen über einen Zeitraum von 6 Wochen (verantwortlich für die Koordinierung: Gesundheitsamt).
+– Bei einem Skabiesausbruch ist dafür zu sorgen, dass alle Erkrankten und ungeschützten Kontaktpersonen (einschl. betreuendes Personal) gleichzeitig behandelt werden.
 
 6.3 Befall mit Kleider-, Filz- und Kopfläusen
-• Information des Gesundheitsamtes.
-• Isolierung des betroffenen Bewohners.
-• Vorstellung beim Arzt und unverzügliche Behandlung.
-• Nachkontrolle und Wiederholungsbehandlung nach 9-10 Tagen.
-• Sofortiger Wäschewechsel.
-• Handtücher, Leib- und Bettwäsche bei mind. 60 °C (≥ 15 min.) waschen oder Anwendung feuchter oder trockener Hitze (Dampf 50 °C 15 min. bzw. Heißluft 45°C 60 min.).
-• Wenn thermische Behandlung nicht möglich ist, Aufbewahrung der Textilien in einem gut zu verschließenden dichten Plastiksack für mindestens 3 (Kopfläuse) bzw. 6 Wochen (Kleiderläuse) bei Zimmertemperatur.
-• Das Tieffrieren unter –10 °C über mindestens 24 Stunden in Kälteboxen ist eine weitere Variante (z. B. textiles Spielzeug, Kleidungsstücke u. a.).
-• Bei Auftreten von Kleiderläusen sind auch Decken und Matratzen einer Entlausung zu unterziehen.
-• Entwesen von Kämmen, Haar- und Kleiderbürsten durch Einlegen in mind. 60 °C heißes Seifenwasser über 15 min..
-• Insbesondere bei Filz- und Kleiderlausbefall konsequente Einhaltung der Körperhygiene.
-• Begrenzung der Betreuung auf möglichst wenige Personen.
-• Beschränkung des Kontaktes zu den übrigen Mitbewohnern.
-• Überwachung bzw. Information von Personen, die Kontakt mit dem betroffenen Bewohner hatten (Personal, Bewohner, Angehörige).
-• Personen mit engem Kontakt zum Betroffenen sind auf Befall zu kontrollieren und bei Feststellen von Läusen bzw. Nissen (Läuseeier) sofort zu behandeln..
-• Die betroffenen Wohnbereiche/ Gemeinschaftsräume sind von ausgestreuten Läusen zu befreien (gründliches Absaugen der Polstermöbel, Fußböden etc.).
-• Bei Kleiderlausbefall erfolgen weitere Maßnahmen nach Vorgabe des Gesundheitsamtes (z. B. Einschaltung eines Schädlingsbekämpfers). In diesem Zusammenhang ist auch das Wäschelager zu kontrollieren.
+– Information des Gesundheitsamtes.
+– Isolierung des betroffenen Bewohners.
+– Vorstellung beim Arzt und unverzügliche Behandlung.
+– Nachkontrolle und Wiederholungsbehandlung nach 9-10 Tagen.
+– Sofortiger Wäschewechsel.
+– Handtücher, Leib- und Bettwäsche bei mind. 60 °C (≥ 15 min.) waschen oder Anwendung feuchter oder trockener Hitze (Dampf 50 °C 15 min. bzw. Heißluft 45°C 60 min.).
+– Wenn thermische Behandlung nicht möglich ist, Aufbewahrung der Textilien in einem gut zu verschließenden dichten Plastiksack für mindestens 3 (Kopfläuse) bzw. 6 Wochen (Kleiderläuse) bei Zimmertemperatur.
+– Das Tieffrieren unter –10 °C über mindestens 24 Stunden in Kälteboxen ist eine weitere Variante (z. B. textiles Spielzeug, Kleidungsstücke u. a.).
+– Bei Auftreten von Kleiderläusen sind auch Decken und Matratzen einer Entlausung zu unterziehen.
+– Entwesen von Kämmen, Haar- und Kleiderbürsten durch Einlegen in mind. 60 °C heißes Seifenwasser über 15 min..
+– Insbesondere bei Filz- und Kleiderlausbefall konsequente Einhaltung der Körperhygiene.
+– Begrenzung der Betreuung auf möglichst wenige Personen.
+– Beschränkung des Kontaktes zu den übrigen Mitbewohnern.
+– Überwachung bzw. Information von Personen, die Kontakt mit dem betroffenen Bewohner hatten (Personal, Bewohner, Angehörige).
+– Personen mit engem Kontakt zum Betroffenen sind auf Befall zu kontrollieren und bei Feststellen von Läusen bzw. Nissen (Läuseeier) sofort zu behandeln..
+– Die betroffenen Wohnbereiche/ Gemeinschaftsräume sind von ausgestreuten Läusen zu befreien (gründliches Absaugen der Polstermöbel, Fußböden etc.).
+– Bei Kleiderlausbefall erfolgen weitere Maßnahmen nach Vorgabe des Gesundheitsamtes (z. B. Einschaltung eines Schädlingsbekämpfers). In diesem Zusammenhang ist auch das Wäschelager zu kontrollieren.
 
 Anlage 1: Literaturstellen
 1. Asylbewerberleistungsgesetz vom 05.08.1997 (BGBl. I S. 2022 ff), geändert am

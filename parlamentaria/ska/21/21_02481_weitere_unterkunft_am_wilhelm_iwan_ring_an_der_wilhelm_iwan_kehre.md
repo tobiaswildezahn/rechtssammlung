@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 17
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2040", "21/2303"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50765"
@@ -73,7 +74,7 @@ Wie viele Betreuer werden rund um die Uhr vor Ort sein?
 
 Wann wurde mit der Prüfung der Belegschaft am Wilhelm-Iwan-Ring/an der Wilhelm-Iwan-Kehre als Unterkunft begonnen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Im Übrigen: entfällt.
 

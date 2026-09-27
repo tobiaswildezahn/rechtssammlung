@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50743"
@@ -47,7 +48,7 @@ Stimmt es, dass einige Jobcenter bei der Bearbeitung von Anträgen deutlich im R
 
 Welchen Zeitraum sollte die reguläre Bearbeitungszeit der Anträge ab Eingang umfassen? Bitte nach jeweiligem Bereich auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Neu- sowie Weiterbewilligungsanträge werden mit Priorität bearbeitet. Die durchschnittliche Bearbeitungsdauer beträgt bei Jobcenter neun Arbeitstage. Der „Mindeststandard Bearbeitungsdauer“ liegt bei einer Frist von 14 Arbeitstagen. Diese Frist wird durch Jobcenter team.arbeit.hamburg nicht überschritten.
 

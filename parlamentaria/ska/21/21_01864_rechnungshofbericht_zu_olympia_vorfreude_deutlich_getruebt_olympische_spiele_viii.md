@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/795", "20/12962", "21/793", "21/1755"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50105"
@@ -55,7 +56,7 @@ Der RH kritisiert, dass die Projektvorbereitung sich derzeit überwiegend in der
 
 Es gelten in Hamburg Restriktionen, nach denen der Kostenrahmen von Baumaßnahmen vorab exakt kalkuliert worden sein muss – Schuldenbremse, Finanzrahmengesetz, Anforderungen kostenstabiles Bauen zum Beispiel. Der Rechnungshof weist explizit darauf hin. Aus welchem Grund existiert noch keine Kosten-Nutzen-Rechnung wie für den Haushalt zwingend vorgeschrieben und wann wird diese gegebenenfalls der Bürgerschaft – und zwar vor Entscheidung - vorliegen? Wann ist mit der vom RH angemahnten Bedarfsermittlung beziehungsweise -planung zu rechnen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -115,7 +116,7 @@ Der RH fordert vor weiteren Planungen von Einzelmaßnahmen Wirtschaftlichkeitsun
 
 Der RH weist darauf hin, dass durch Kreditaufnahmen und Vorfinanzierungen durch Tochterorganisationen eine mittelbare Umgehung der Schuldenbremse möglich wäre. (Textziffern 67 bis 73). Welche konkreten Maßnahmen und Modelle zur Finanzierung werden diskutiert beziehungsweise kommen infrage und welche Tochterorganisationen werden in welcher Höhe involviert werden?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Schuldenbremse gilt. Eine Entscheidung darüber, welche Modelle der Finanzierung gewählt werden, wurde bisher nicht getroffen.
 

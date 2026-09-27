@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56876"
@@ -49,7 +50,7 @@ Wie groß schätzt der Senat die Gefahr ein, dass Menschen süchtig nach der Nut
 
 Welche Studien gibt es zu diesem Thema? Was war deren wesentliches Ergebnis?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit ist keine Auswertung der Studienlage zum Thema möglich.
 
@@ -93,13 +94,13 @@ Die Fachberatung Medien des Jugendinformationszentrums (JIZ) ist ebenfalls Anspr
 
 Außerdem können Schulen folgende Unterstützungsangebote des SPZ nutzen:
 
- Beratung im Landesinstitut von Eltern und Kindern oder Jugendlichen, die elektro-
+– Beratung im Landesinstitut von Eltern und Kindern oder Jugendlichen, die elektro-
 
 nische Medien exzessiv konsumieren (Internet, Spiel, Smartphone oder Anderes)
 
- Beratung von Lehrkräften im Umgang mit gefährdeten Jugendlichen
+– Beratung von Lehrkräften im Umgang mit gefährdeten Jugendlichen
 
- Durchführung von Elterninformationsabenden zum Thema „Gesundheitsförderliche
+– Durchführung von Elterninformationsabenden zum Thema „Gesundheitsförderliche
 
 Mediennutzung“.
 

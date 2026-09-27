@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67636"
@@ -138,6 +139,6 @@ Wenn nein, wieso nicht?
 
 Gibt es Zielvereinbarungen zur Erreichung der kompletten Barrierefreiheit des öffentlich-rechtlichen Rundfunks? Wenn ja, welche? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antwort zu 2. b. und 3.

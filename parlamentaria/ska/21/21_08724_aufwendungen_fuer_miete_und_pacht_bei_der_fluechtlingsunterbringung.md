@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 1
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57455"
@@ -55,20 +56,20 @@ Wie viele Immobilien und Grundstücke sind angemietet beziehungsweise gepachtet?
 
 Mit Stichtag 31.12.2016 hatte f & w fördern und wohnen AöR
 
- 41 Grundstücke angemietet (zum Anmietungszeitraum unbebaut) sowie
+– 41 Grundstücke angemietet (zum Anmietungszeitraum unbebaut) sowie
 
- 59 Immobilien (inklusive Grundstück) angemietet.
+– 59 Immobilien (inklusive Grundstück) angemietet.
 
 Eine gepachtete Immobilie wird vom DRK betrieben.
 
 Aktuell hat das Einwohnerzentralamt
 
- 18 Grundstücke,
+– 18 Grundstücke,
 
- sieben Grundstücke mit Gebäuden,
+– sieben Grundstücke mit Gebäuden,
 
- vier Gebäude und
+– vier Gebäude und
 
- vier Schulimmobilien
+– vier Schulimmobilien
 
 angemietet.

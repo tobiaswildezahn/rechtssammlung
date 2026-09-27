@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8397", "21/7234", "21/7380", "18/8772", "21/8144"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57310"
@@ -67,7 +68,7 @@ Wie hoch waren die Kosten, die im Zusammenhang mit dem Treffen des OSZE-Minister
 
 Wie hoch waren die Kosten für den Einsatz der auswärtigen Polizeikräfte? Bestehen diesbezüglich Verabredungen mit anderen Bundesländern und wenn ja, welche?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zu den Kosten, die im Zusammenhang mit dem Treffen des OSZE-Ministerrates am
 8./9. Dezember 2016 entstanden sind, liegen noch keine abschließenden Angaben vor.

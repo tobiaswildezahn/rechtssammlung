@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1488"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50237"
@@ -61,7 +62,7 @@ Stellt fehlende Kooperationsfähigkeit oder -willigkeit der Eltern aus Sicht der
 
 Gibt es Kriterien, wie eine Elternbeziehung aus Sicht der Behörde beschaffen sein sollte, um das Modell der Doppelresidenz erfolgsversprechend erscheinen zu lassen? Wenn ja, wie werden diese im konkreten Falle ermittelt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nach Auffassung der zuständigen Behörde ist die Kooperationsfähigkeit und -willigkeit der Eltern ein entscheidender Aspekt für das Gelingen eines Wechselmodells. Ob die Eltern über die Bereitschaft und Fähigkeit verfügen oder durch flankierende sozialpädagogische Beratung/Mediation in die Lage versetzt werden können, sich am Kindes-
 
@@ -79,7 +80,7 @@ Wer ist für die Koordination des Arbeitskreises „Hamburger Praxis“ zuständ
 
 Inwiefern ist es für einen Bürger und/oder Betroffenen möglich sich über die Beratungs- beziehungsweise Erkenntnisinhalte aus den regelmäßigen Zusammenkünften zu informieren beziehungsweise sich einzubringen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Informationen über die Arbeit des Arbeitskreises zur Entwicklung einer Hamburger Praxis in Sorge- und Umgangsverfahren befinden sich im Hamburger Familienwegweiser unter http://www.hamburg.de/hamburger-praxis/. Eine Veröffentlichung/ Darstellung weiterer Themen, mit denen sich der Arbeitskreis beschäftigt, soll erfolgen, sobald eine Abstimmung der erarbeiteten Ergebnisse in den einzelnen Berufsgruppen über den Arbeitskreis hinaus stattgefunden hat. Hieran wird derzeit gearbeitet.
 
@@ -99,7 +100,7 @@ Welche Themen folgen der behördeneigenen Definition von „herausgehobenem fach
 
 Ist geplant das Angebot an Fortbildungen über Inhalte des Wechselmodells beziehungsweise der paritätischen Doppelresidenz zu forcieren?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Themen mit herausgehobenem fachpolitischem Stellenwert orientieren sich an den Inhalten und den Zielen der Reform des Kindschaftsrechts, der sich daraus ergebenden Rechtsprechung sowie der Mitwirkung des Jugendamtes im familiengerichtlichen Verfahren. Bei der Planung und Durchführung der Fortbildung wird das Wechselmodell beziehungsweise die paritätische Doppelresidenz als eine von verschiedenen Möglichkeiten einbezogen (siehe Drs. 21/1488).
 

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 25
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5186", "21/7572"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57129"
@@ -132,7 +133,7 @@ Bitte für die einzelnen Modellprojekte jeweils detailliert angeben.
 
 Gibt es sonstige signifikante Einschränkungen des üblichen Baustandards um zu Kostenreduzierungen zu kommen? Wenn ja: bitte aufführen in welchen Bereichen.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung. Die Anforderungen des Bauplanungs- und Bauordnungsrechtes sind auch bei diesen Vorhaben einzuhalten.
 
@@ -160,6 +161,6 @@ Sollen über die jetzt realisierten Vorhaben hinaus weitere Modellvorhaben durch
 
 Hält man den Erkenntnisgewinn aus zwei Projekten für ausreichend für ein so ambitioniertes Ziel? Bitte begründen.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Es ist beabsichtigt, weitere Vorhaben durchzuführen. Siehe auch Drs. 21/7572.

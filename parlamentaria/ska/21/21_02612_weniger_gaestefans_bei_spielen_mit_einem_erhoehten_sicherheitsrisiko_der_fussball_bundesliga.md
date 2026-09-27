@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50913"
@@ -67,7 +68,7 @@ Welche Heimspiele des Hamburger Sportvereins sind hiervon betroffen?
 
 Nach welchen Kriterien wird ein Spiel als ein Spiel mit einem erhöhten Sicherheitsrisiko eingestuft?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Einstufung eines Spiels als Risikospiel obliegt grundsätzlich dem Veranstalter. Daneben ist der Deutsche Fußball-Bund (DFB) berechtigt, aufgrund eigener Erkenntnisse eine Begegnung als Risikospiel einzustufen.
 

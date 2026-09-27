@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12471", "21/11869", "20/11921"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61977"
@@ -47,7 +48,7 @@ Wie viele sozialversicherungspflichtige Beschäftigungsstellen gab es in den Jah
 
 Wie viele Personen waren 2010 bis heute bei der Staatsoper geringfügig beschäftigt? Bitte nach Monaten aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Gesamtbeschäftigtenzahl und die Anzahl von geringfügig Beschäftigten in den Jahren 2010 – 2017 ergeben sich aus der Anlage. Monatswerte konnten in der zur Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht ermittelt werden. Auch eine Umrechnung der Beschäftigungsverhältnisse im Minijob gemäß § 8 Absatz 1 Nummer 1 SGB IV in Vollzeitäquivalente ist im Rahmen der für die zur Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich, da die Minijobs durch eine Höchstverdienstgrenze von zurzeit 450 Euro definiert werden. In Abhängigkeit von der Tätigkeit, die nach der Entgeltordnung zum TV2 L bewertet wird, kann sich bei der daraus ergebenden unterschiedlichen stundenweisen Vergütung eine ebenfalls hohe Anzahl unterschiedlicher Wochenarbeitszeiten bezogen auf den Zahlbetrag von 450 Euro ergeben. Hier hätte für jedes Jahr der Erhebung, bei Tariferhöhungen in dieser Zeit gegebenenfalls sogar mehrfach pro Jahr, die Wochenarbeitszeit pro Minijob im Einzelfall aus der Personalakte erhoben werden müssen.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58037"
@@ -68,7 +69,7 @@ Inwieweit hätte das Deutsche Internet-Institut aus Sicht des Senats beziehungsw
 
 Welche Aspekte und Strukturen des neuen Deutschen Internet-Instituts Berlin sind aus Sicht des Senats beziehungsweise der zuständigen Behörde auf das Hamburger Projekt ahoi.digital übertragbar beziehungsweise bei welchen fachlichen Aspekten können Wettbewerbssituationen entstehen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Zielsetzungen und Strukturen des Projekts ahoi.digital und des Berliner Instituts sind sehr unterschiedlich, insofern erscheinen Übertragungen nicht sinnvoll und Konkurrenzsituationen unwahrscheinlich. Beim Themenschwerpunkt „Information Governance Technologies“, der im Konzept von ahoi.digital vorgesehen ist, ist eine Zusammenarbeit denkbar. Im Rahmen der Landesforschungsförderung arbeiten derzeit die TUHH, der Fachbereich Informatik der UHH und das Hans-Bredow-Institut an einem entsprechenden Projekt, das die Bildung eines größeren, interdisziplinären Forschungsverbundes ermöglichen soll. Im Übrigen entstand die Projektinitiative zu einer Hamburger Informatikplattform im Jahre 2016 im Anschluss an die Empfehlungen des Wissenschaftsrates bezüglich der MINT-Studiengänge in Hamburg, ist also wesentlich jünger als die Ausschreibung für das Deutsche Internet-Institut.
 

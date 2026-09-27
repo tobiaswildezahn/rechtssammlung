@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13458", "20/8564", "20/13685"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48490"
@@ -63,7 +64,7 @@ An welchen Schulen wird nach dem Prinzip „Lesen durch Schreiben“ beziehungsw
 
 An welchen Schulen wird nicht nach dem Prinzip „Lesen durch Schreiben“ beziehungsweise mit davon abgewandelten Methoden unterrichtet?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nach Kenntnis der zuständigen Behörde wird zur Vermittlung von Rechtschreibung an keiner Schule nach dem Prinzip „Lesen durch Schreiben“ unterrichtet.
 

@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 56181
 seiten: 1
 fragen: 3
-einzelfragen: 3
-antwortbloecke: 3
+einzelfragen: 4
+antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11712"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61633"
@@ -46,13 +47,20 @@ Der Kaufvertrag wurde noch nicht beurkundet.
 ### Frage 2
 
 Die Ausweisung als Fläche für Dauerkleingärten auf den Flurstücken 260 und 7777 (beziehungsweise ehemals 261.2) erfolgte gemäß Begründung des Bebauungsplans Bergstedt 17 aus dem Jahr 1999, weil diese Flächen für die Landwirtschaft nicht mehr benötigt würden.
-2.1. Gehen der Senat beziehungsweise die zuständigen Behörden weiter davon aus, dass diese Flächen nicht mehr für die Landwirtschaft benötigt werden?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Gehen der Senat beziehungsweise die zuständigen Behörden weiter davon aus, dass diese Flächen nicht mehr für die Landwirtschaft benötigt werden?
+
+#### Antwort zu Fragen 2 und 2.1
 
 Die Fläche wird von dem gemeinnützigen Gartenbaubetrieb Gärtnerhof am Stüffel e.V. bewirtschaftet und wird von ihm auch weiterhin benötigt. Die Ausweisung für Dauerkleingärten stellt eine langfristige Flächenreserve dar, die dann realistisch wird, wenn der Betrieb Gärtnerhof am Stüffel e.V. die Fläche nicht mehr benötigt. Eine vorzeitige Umnutzung könnte den Fortbestand des Betriebes Gärtnerhof am Stüffel e.V. gefährden und ist nicht vorgesehen.
 
-2.2. Wie beurteilen der Senat beziehungsweise die zuständigen Behörden insgesamt den Umfang verfügbarer landwirtschaftlicher Flächen in Bergstedt und den angrenzenden Stadtteilen zur Sicherung des ausreichenden Bedarfs der örtlichen Betriebe?
+### Frage 2.2
+
+Wie beurteilen der Senat beziehungsweise die zuständigen Behörden insgesamt den Umfang verfügbarer landwirtschaftlicher Flächen in Bergstedt und den angrenzenden Stadtteilen zur Sicherung des ausreichenden Bedarfs der örtlichen Betriebe?
+
+#### Antwort zu Frage 2.2
 
 Die Flächenausstattung der örtlichen Betriebe ist sehr knapp. Ein lokales Flächenwachstum ist nur noch möglich, wenn ein bisher vorhandener Betrieb aufgibt und seine Flächen anderen Betrieben zur Verfügung stellt.
 

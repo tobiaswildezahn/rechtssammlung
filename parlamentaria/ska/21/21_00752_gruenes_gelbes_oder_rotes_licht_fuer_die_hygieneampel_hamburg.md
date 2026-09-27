@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/3420", "20/5423", "20/5538", "20/8086"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48912"
@@ -73,7 +74,7 @@ In welchem Verfahrensstand befindet sich die Einführung einer Hygieneampel aktu
 a) im Bundesrat und
 b) im Bundestag?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die zuständige Behörde hat sich gemeinsam mit anderen Ländern um die Einbringung der Regelungsentwürfe bemüht. Nachdem der Bundesrat die Bundesregierung bereits zu einem geschlossenen Konzept für Transparenzregelungen aufgefordert hatte, setzten sich im Juni 2013 die in der Drs. 20/8086 aufgeführten Länder für das Erreichen der notwendigen Mehrheit zur Einführung der Hygieneampel ein.
 
@@ -93,7 +94,7 @@ Wann hat es seitens des Senats beziehungsweise der zuständigen Behörden mit we
 
 Wann sind seitens des Senats beziehungsweise der zuständigen Behörden mit welchen Ministerien beziehungsweise Behörden welcher Bundesländer Gespräche zur Einführung einer freiwilligen Regelung im einheitlichen Format nach aktuellem Stand geplant?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die zuständige Behörde führt fortlaufend Gespräche zum Thema. Die Einführung einer „Hygieneampel“ war mehrfach Gegenstand der Beratungen der Gremien zur Verbraucherschutzministerkonferenz (VSMK). Zuletzt hat am 8. Mai 2015 die VSMK den Bund aufgefordert, „möglichst bis zur Sommerpause 2015 den Entwurf einer Rechtsgrundlage zur Schaffung bundesweit einheitlicher Standards für die Transpa-
 

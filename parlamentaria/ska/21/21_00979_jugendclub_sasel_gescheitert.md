@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6242", "20/7566", "20/13618"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49153"
@@ -43,7 +44,7 @@ Warum ist entgegen der Ankündigungen des Bezirksamtes Wandsbek noch immer nicht
 
 Wie ist der aktuelle Stand bei der Realisierung eines Jugendclubs in Sasel?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Vor der Realisierung einer baulichen Investition muss sichergestellt sein, dass die Finanzierung der durch die Investitionsmaßnahme ausgelösten Betriebskosten langfristig gewährleistet ist. Nach Auskunft des zuständigen Bezirksamts Wandsbek stehen die notwendigen Betriebskosten angesichts der derzeitigen Haushaltslage strukturell nicht zur Verfügung, sofern nicht Mittel umgeschichtet werden können.
 

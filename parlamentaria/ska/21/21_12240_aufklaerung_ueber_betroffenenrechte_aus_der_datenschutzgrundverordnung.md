@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61513"
@@ -43,6 +44,6 @@ Welche Anstrengungen unternimmt der Senat, um die Bürgerinnen und Bürger über
 
 Welche Hilfestellungen gibt der Senat Hamburger Unternehmen, damit diese die neuen Transparenz- und Informationspflichten rechtzeitig implementieren, um Verstöße gegen die neuen Rechtsnormen vermeiden zu können?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Sensibilisierung und Aufklärung der Öffentlichkeit über die Risiken, Vorschriften, Garantien und Rechte im Zusammenhang mit der Verarbeitung von personenbezogenen Daten zählt gemäß Artikel 57 Absatz 1 Buchstabe b der Datenschutzgrundverordnung (DSGVO) ebenso wie die Sensibilisierung der Verantwortlichen und der Auftragsverarbeitenden für die ihnen aus der DSGVO entstehenden Pflichten nach Artikel 57 Absatz 1 Buchstabe d DSGVO zu den Aufgaben der unabhängigen Aufsichtsbehörden. Zuständige Aufsichtsbehörde für die Freie und Hansestadt Hamburg ist der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit (HmbBfDI). Nach Artikel 60a Absatz 2 der Verfassung der Freien und Hansestadt Hamburg ist der HmbBfDI unabhängig und nur dem Gesetz unterworfen. Die Hamburgische Bürgerschaft kann sich direkt an ihn wenden.

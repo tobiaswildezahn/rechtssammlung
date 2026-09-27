@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 16
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64611"
@@ -47,7 +48,7 @@ Gibt es bereits Prüfungen an der Universität Hamburg im Studienfach Rechtswiss
 
 Ist es geplant, zukünftig Klausuren in elektronischer Form anfertigen zu lassen? Wenn ja, in welchem Zeitrahmen und welche Voraussetzungen müssen dazu noch umgesetzt werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Derzeit finden keine Prüfungen an der UHH im Studienfach Rechtswissenschaften in elektronischer Form statt. Es gibt an der UHH keine konkreten Pläne zur Einführung von Klausuren in elektronischer Form.
 

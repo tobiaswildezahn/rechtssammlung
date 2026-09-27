@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 45
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/908", "21/927"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49162"
@@ -106,7 +107,7 @@ Trifft es zu, dass das Grundstück der Grundschule am See (Borchertring)
 
 Wenn 5. ja, wurden genossenschaftliche Wohnungsinvestoren für den Verkauf in Betracht gezogen? Wenn ja, woran scheiterte der Verkauf an diese? Wenn nein, warum nicht? a. Wie viele Wohneinheiten sollen dort geplant entstehen? b. Wie viele von diesen Wohneinheiten werden sozialgeförderter beziehungsweise bezahlbarer Wohnraum sein? c. Welches Konzept hat der Senat, um dortig sozialgebundenes Wohnen zu sichern?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Ja, das heutige Grundstück der Schule am See soll zukünftig für den Wohnungsbau genutzt werden. Im Übrigen sind die Planungen noch nicht abgeschlossen.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3165", "21/16277", "21/12434"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69230"
@@ -71,7 +72,7 @@ In wie vielen Fällen hat es laut Kenntnis des Senats Drohungen gegen türkische
 
 Wie viele Fälle sind dem Senat bekannt, bei denen es zu öffentlichen Aufrufen zu Gewalt gegen türkische Einrichtungen gekommen ist? Bitte die zugrunde liegenden Fälle jeweils einzeln beschreiben.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Recherchen zu den einschlägigen Straftatbeständen (zum Beispiel Bedrohung gemäß § 241 Strafgesetzbuch (StGB) und Öffentliche Aufforderung zu Straftaten gemäß § 111 StGB) ergaben für den erfragten Zeitraum keine Fälle im Sinne der Fragestellungen. Im Übrigen siehe Vorbemerkung.
 
@@ -83,7 +84,7 @@ Wie schätzt der Senat die Bedrohungslage türkischer Einrichtungen in Hamburg g
 
 Wie hat sich die Bedrohungslage türkischer Einrichtungen nach Einschätzung des Senats 2019 verändert?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Nach Einschätzung des Landeskriminalamtes beeinflussen die Konflikte in der Türkei zwischen den Anhängern der Regierung und ihren Gegnern sowie die Aktionen der türkischen Sicherheitskräfte in Nordsyrien die Sicherheitslage für türkische Einrichtungen in Deutschland, auch in Abhängigkeit zu den tagesaktuellen Geschehnissen.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60729"
@@ -43,7 +44,7 @@ Wie beurteilt der Senat das Phänomen der „Lootboxen“ oder „Beuteboxen“ 
 
 Sind nach Auffassung des Senats „Lootboxen“ als Form des Glücksspiels anzusehen und sieht der Senat in diesem Bereich politischen Handlungsbedarf? a. Wenn ja, welche Initiativen wird der Senat dazu ergreifen? b. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nach § 3 Absatz 1 Satz 1 des Ersten Staatsvertrages zur Änderung des Staatsvertrages zum Glücksspielwesen in Deutschland vom 15. Dezember 2011 (GlüStV) liegt ein Glücksspiel vor, wenn im Rahmen eines Spiels für den Erwerb einer Gewinnchance ein Entgelt verlangt wird und die Entscheidung über den Gewinn ganz oder überwiegend vom Zufall abhängt.
 
@@ -85,7 +86,7 @@ Hamburg hat einen wiederholt herausgestellten IT-Sektor, in dem auch Spiele entw
 
 Sofern Spiele entwickelnde Firmen aus Hamburg solche Lootboxen in ihre Spiele mit einbeziehen: Welchen Beitrag hat das Angebot einer Lootbox nach Einschätzung des Senats für die Wirtschaftlichkeit dieser Firmen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Hierzu liegen der zuständigen Behörde keine Erkenntnisse vor.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55503"
@@ -51,19 +52,19 @@ Wenn ja, welche Reaktionen durch die jeweiligen Leitungsebenen – und zwar welc
 
 #### Antwort zu Fragen 1 bis 3
 
- Gespräche?
+– Gespräche?
 
 Wenn ja, mit welchem Ergebnis?
 
- Umsetzung?
+– Umsetzung?
 
 Wenn ja, von welcher Position auf welche neu?
 
- Abmahnung?
+– Abmahnung?
 
 Wenn ja, welchen Inhalts?
 
- Andere Sanktionierungen?
+– Andere Sanktionierungen?
 
 Wenn ja, welche im Einzelnen?
 

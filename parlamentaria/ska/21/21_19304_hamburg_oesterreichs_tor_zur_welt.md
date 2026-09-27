@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69013"
@@ -92,7 +93,7 @@ Wie hoch ist das Handelsvolumen zwischen Hamburg und der Republik Österreich in
 
 Wie hat sich das Handelsvolumen zwischen Hamburg und der Republik Österreich in den letzten fünf Jahren entwickelt? Bitte jedes Jahr einzeln angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Entwicklung des Handelsvolumens zwischen Hamburg und der Republik Österreich in den letzten fünf Jahren:
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15134", "21/16473", "21/16474"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66049"
@@ -148,6 +149,6 @@ Welche Erkenntnisse liegen dem Landesamt für Verfassungsschutz über extremisti
 
 Welche Erkenntnisse liegen dem Landesamt für Verfassungsschutz über verfassungsfeindliche Äußerungen der beiden Diskutanten Karl-Heinz Dellwo und Andreas Blechschmidt während der Veranstaltung im Museum für Völkerkunde vor?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Der Senat kann aufgrund der schutzwürdigen Interessen der Betroffenen personenbezogene Daten der Öffentlichkeit nicht übermitteln. Darüber hinausgehende Erkenntnisse liegen dem Landesamt für Verfassungsschutz Hamburg nicht vor.

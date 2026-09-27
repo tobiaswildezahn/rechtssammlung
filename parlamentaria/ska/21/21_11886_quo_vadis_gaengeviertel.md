@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/54", "20/2736"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61130"
@@ -131,7 +132,7 @@ Welche kulturellen Nutzungen gibt es im Gängeviertel?
 
 Wie viele und welche Arten von Veranstaltungen fanden in den vergangenen Jahren im Gängeviertel statt und wie viele Besucher hatten diese?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Gebäude im Gängeviertel ermöglichen eine vielfältige kulturelle Nutzung, siehe auch http://das-gaengeviertel.info/. Die Häuser im Gängeviertel beherbergen diverse
 

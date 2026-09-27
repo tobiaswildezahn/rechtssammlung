@@ -14,6 +14,7 @@ fragen: 33
 einzelfragen: 45
 antwortbloecke: 32
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4919", "21/5124", "21/8192", "21/7828", "21/6544", "21/7162", "21/5812"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57281"
@@ -119,7 +120,7 @@ Wie viele Asylverfahren Hamburger Antragsteller wurden im März 2017 mit welchem
 
 Wie war die Gesamtschutzquote im März 2017?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 

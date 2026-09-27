@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10630"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63779"
@@ -45,7 +46,7 @@ Wie viele wissenschaftliche Mitarbeiter (VZÄ) assistieren den Richtern am Verwa
 
 Wann wurden diese eingesetzt und welchen beruflichen Hintergrund haben sie?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Wissenschaftliche Mitarbeiterinnen und Mitarbeiter sind am Verwaltungsgericht Hamburg seit dem 1. Februar 2017 insbesondere zur Bewältigung der erhöhten Eingänge in Asylsachen tätig, zunächst in einem Umfang von 2,0 VZÄ. Nach erster Evaluation wurde die Anzahl im weiteren Verlauf mehrfach gesteigert, derzeit hat sie einen Umfang von 5,2 VZÄ. Alle wissenschaftlichen Mitarbeiterinnen und Mitarbeiter haben akademische Abschlüsse in den Bereichen Rechtswissenschaften, Politologie oder Geschichtswissenschaften, bis hin zur abgeschlossenen Promotion.
 

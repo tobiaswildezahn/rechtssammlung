@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15147"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65617"
@@ -71,7 +72,7 @@ Welche einzelnen Projektphasen lassen sich mittlerweile benennen? Sofern sich im
 
 Welche der Projektphasen sind bei welchen Projekten schon erreicht worden, welche wurden bereits abgeschlossen und in welchen Phasen gibt es bereits jetzt einen zeitlichen Verzug (bitte Zwischenstand mitteilen und den Umsetzungsgrad in Prozent angeben) und welchen Zeitbedarf hat der Senat für die verschiedenen Schritte der jeweiligen Projekte jeweils angesetzt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Folgende Projektphasen lassen sich benennen:
 

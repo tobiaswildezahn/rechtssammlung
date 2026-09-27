@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51733"
@@ -59,11 +60,11 @@ Wie viele der in Hamburg lebenden Flüchtlinge haben die Karte bisher erhalten?
 
 Anzahl ausgegebener Fahrkarten mit Stand zum 1. März 2016:
 
- Bestandsflüchtlinge: 10.221
+– Bestandsflüchtlinge: 10.221
 
- Neuankommende Flüchtlinge: 1.028
+– Neuankommende Flüchtlinge: 1.028
 
- Gesamt: 11.249
+– Gesamt: 11.249
 
 Kinder unter sechs Jahren benötigen im HVV keine Fahrkarte.
 

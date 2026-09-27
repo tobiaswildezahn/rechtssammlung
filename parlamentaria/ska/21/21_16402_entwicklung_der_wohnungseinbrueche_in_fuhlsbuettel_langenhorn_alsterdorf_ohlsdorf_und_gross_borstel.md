@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 3
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65906"
@@ -45,7 +46,7 @@ Wie viele Wohnungseinbrüche (PKS 435*) wurden im Jahr 2017 sowie im Jahr 2018 i
 
 Wie viele dieser Fälle wurden im Jahr 2017 sowie im Jahr 2018 jeweils aufgeklärt? Bitte nach Stadtteilen getrennt darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die im Sinne der Fragestellungen in der Polizeilichen Kriminalstatistik registrierten Fälle und die Aufklärungsquoten (AQ) sind in der folgenden Tabelle dargestellt:
 

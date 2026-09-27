@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 23
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5798"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54430"
@@ -109,7 +110,7 @@ Welche Mengen an Schlick in Kubikmetern sind im April und Mai 2016 bisher auf Gr
 
 Welche Mengen an Schlick in Kubikmetern sind im April und Mai 2016 bisher in die Elbe vor Neßsand verbracht worden? (Bitte monatlich differenziert angeben.) a. Welche Kosten sind dabei entstanden? b. Warum sind diese Mengen nicht in der Schriftlichen Kleinen Anfrage Drs. 21/5798 aufgeführt worden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Zum Ende der Umlagersaison im März 2016 war der Hamburger Hafen in einem guten Unterhaltungszustand, sodass im April und Mai schwerpunktmäßig Nacharbeiten zur Glättung der Gewässersohle durchgeführt wurden. Es mussten in diesem Zeitraum keine Baggerarbeiten zur Verbringung von Sedimenten im Gewässer stattfinden. Mit Einsetzen der Neusedimentation im späten Frühjahr 2016 wurden die Baggerarbeiten planmäßig wieder aufgenommen.
 

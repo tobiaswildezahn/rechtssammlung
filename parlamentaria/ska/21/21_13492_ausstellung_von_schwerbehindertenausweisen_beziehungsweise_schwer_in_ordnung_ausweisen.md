@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62865"
@@ -153,6 +154,6 @@ Inwiefern wurde der Inklusionsbeirat des Bundes zu Rate gezogen bei der Frage de
 
 Inwiefern wird die Landesarbeitsgemeinschaft für behinderte Menschen in Hamburg zur Frage der Ausstellung und Bezeichnung von Schwerbehindertenausweisen oder deren Alternativbenennung in Hamburg zu Rate gezogen? Bitte auflisten nach Anzahl der Treffen dazu, Datum, Angabe der Teilnehmenden und Zusammenfassung der Ergebnisse der Treffen. Wenn nicht, warum nicht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Bezeichnung und das Layout des Ausweises nach § 152 Absatz 5 SGB IX über die Eigenschaft als schwerbehinderter Mensch sind in der Schwerbehindertenausweisverordnung (SchwbAwV) bundeseinheitlich geregelt. Im Sinne des behinderungspolitischen Grundsatzes „Nichts über uns, ohne uns!“ hat sich die Präses der Behörde für Arbeit, Soziales, Familie und Integration im Dezember 2017 bei der damaligen Behindertenbeauftragten des Bundes dafür eingesetzt, dass die Diskussion um eine Neubezeichnung ergebnisoffen in den Inklusionsbeirat des Bundes getragen wird, um hierüber eine qualifizierte Empfehlung für eine bundeseinheitliche Bezeichnung zu erzielen, die im Sinne der Menschen mit Behinderung ist. Eine weitere Beratung in der Sache mit der Landesarbeitsgemeinschaft für behinderte Menschen in Hamburg war insofern nicht angezeigt.

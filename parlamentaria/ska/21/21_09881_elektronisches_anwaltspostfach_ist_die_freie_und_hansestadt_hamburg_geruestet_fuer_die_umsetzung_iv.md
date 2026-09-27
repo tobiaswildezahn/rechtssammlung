@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5350", "21/6068", "21/7182"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58697"
@@ -83,7 +84,7 @@ Wo und bei welchen Gerichten gibt es Probleme bei der Umsetzung? Wie unterstütz
 
 Welche Gerichte können keinen vollständigen elektronischen Rechtsverkehr mit den Rechtsanwälten gewährleisten (bitte begründen)? Welche alternativen Lösungen gibt es für Rechtsanwälte, da das Postfach nun freigeschaltet ist?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/7182.
 

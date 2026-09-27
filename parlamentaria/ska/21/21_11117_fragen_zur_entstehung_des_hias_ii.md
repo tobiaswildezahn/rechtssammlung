@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 16
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4889", "21/7091", "21/6987"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60101"
@@ -43,7 +44,7 @@ Wie ist es um den Aufbau des von der Bürgerschaft Ende 2016 beschlossenen Hambu
 
 Der Evaluierungsbericht empfiehlt für die Einrichtung eines Institutes of Advanced Studies als Weiterentwicklung der Akademie eine Anhebung des jährlichen Etats auf 2,5 bis 3 Millionen Euro. Auf Initiative von SPD und GRÜNEN sollen 2017 und 2018 jedoch jeweils nur 500.000 Euro zusätzlich zur Verfügung gestellt werden. Reicht dieses Budget nach Einschätzung des Senats beziehungsweise der zuständigen Behörde, um das HIAS im nationalen Wettbewerb bestmöglich aufzustellen und so die Empfehlungen des Evaluierungsberichts zu erfüllen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Hamburg Institute for Advanced Study (HIAS) befindet sich derzeit in der Vorgründungsphase. Die Akademie der Wissenschaften in Hamburg und die Universität
 

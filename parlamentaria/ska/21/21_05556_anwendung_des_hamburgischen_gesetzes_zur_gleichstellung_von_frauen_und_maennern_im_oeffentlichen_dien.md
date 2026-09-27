@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12157"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54095"
@@ -57,7 +58,7 @@ In wie vielen dieser Fälle wurde aus sozialen Gründen trotz Unterrepräsentati
 
 In wie vielen dieser Fälle wurde aus sozialen Gründen trotz Unterrepräsentation von Männern eine Frau eingestellt, befördert et cetera? (Angabe bitte in absoluten Zahlen!)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Entfällt.
 

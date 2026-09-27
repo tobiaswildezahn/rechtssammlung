@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19046", "21/19032", "21/15670"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69256"
@@ -69,7 +70,7 @@ Wie hat sich die Auslastung der Tagesaufenthaltsstätten des diesjährigen Winte
 
 Wie hat sich die Inanspruchnahme der Wärmestube in der Hinrichsenstraße seit dem 1. November 2019 bis heute entwickelt? Bitte einzeln nach Kalendertagen auflisten.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlagen 2 und 3.
 

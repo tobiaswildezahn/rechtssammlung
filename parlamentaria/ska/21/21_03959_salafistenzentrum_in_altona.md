@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52339"
@@ -82,7 +83,7 @@ a) dass von dieser Person eine Gefahr für die freiheitliche demokratische Grund
 b) dass diese Person bereits in anderen Bundesländern Aktivitäten in der salafistischen Szene organisiert und/oder daran teilgenommen hat? Wenn ja, diese Aktivitäten nennen.
 c) ob und wenn ja, für welche Delikte/Straftatbestände diese Person bereits polizeilich aufgefallen und/oder vorbestraft ist?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Hinsichtlich der Einzelpersonen liegen dem LfV Hamburg Informationen vor, die gemäß § 18 Hamburgisches Verfassungsschutzgesetz (HmbVerfSchG) grundsätzlich nicht mitgeteilt werden dürfen. Darüber hinaus bestünde in diesem Fall die Gefahr, dass die beobachteten Gruppierungen Rückschlüsse auf die Arbeitsweise und Einblickstiefe des LfV Hamburg ziehen könnten und eine künftige Beobachtung unverhältnismäßig erschwert würde. Detaillierte Angaben im Sinne der Fragestellung können daher aus Gründen des Staatswohls nur gegenüber dem nach § 24 HmbVerf- SchG für die parlamentarische Kontrolle des Senats auf dem Gebiet des Verfassungsschutzes zuständigen Kontrollausschuss (PKA) gemacht werden.
 

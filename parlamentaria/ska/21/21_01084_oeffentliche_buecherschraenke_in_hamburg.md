@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 19
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49261"
@@ -49,7 +50,7 @@ Wie viele öffentliche, festinstallierte Bücherschränke gibt beziehungsweise g
 
 Aus welchem Grund wurden unter 1. aufgeführte Bücherschränke wieder abgebaut?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Bezirk Wandsbek gibt es im Stadtteil Tonndorf, Tonndorfer Hauptstraße gegenüber Hausnummer 69, einen Bücherschrank mit einer Stellfläche von etwa einem Quadratmeter, der am 24. Juni 2015 von der Initiative „Ich mag Tonndorf“ aufgestellt wurde. Das Bezirksamt ist für die Erteilung erforderlicher Genehmigungen (zum Beispiel Sondernutzung, wenn eine gewidmete öffentliche Wegefläche genutzt wird) zuständig. Der Betrieb, die Wartung und die Reinigung des Bücherschranks obliegen den Betreibern selbst. Das Bezirksamt kann lediglich im Rahmen seiner Funktion als Wegeaufsichtsbehörde die Einhaltung der mit der wegerechtlichen Erlaubnis verbundenen Auflagen kontrollieren.
 

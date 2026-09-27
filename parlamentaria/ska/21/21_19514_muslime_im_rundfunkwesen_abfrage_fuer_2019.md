@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8941", "21/15680"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69254"
@@ -97,6 +98,6 @@ In welchen der in § 3 genannten Gremien sind gegenwärtig Muslime vertreten? Gi
 
 Hätte die Berufung eines muslimischen Mitgliedes oder mehrerer muslimischer Mitglieder eine Aufstockung der Mitgliedssitze zur Folge? Falls ja, gibt es dabei ein Limit?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Drs. 21/15680.

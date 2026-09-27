@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57225"
@@ -51,7 +52,7 @@ Von wo bis wo verläuft der Elberadweg?
 
 Läuft der Elberadweg auf der gesamten Strecke in unmittelbarer Nähe der Elbe? Wenn nein: Auf welchen Streckenabschnitten verläuft er aus welchen Gründen wie weit weg von der Elbe?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe: http://www.hamburg.de/radtour/318124/radtour-elberadweg/.
 

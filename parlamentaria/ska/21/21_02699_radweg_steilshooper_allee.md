@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51006"
@@ -43,7 +44,7 @@ Auf welchen Abschnitten und auf welchen Seiten der Steilshooper Allee gibt es ei
 
 Trifft es zu, dass dieser Radweg in sehr schlechtem Zustand ist? Wenn nein: In welchem Zustand ist er nach Ansicht des Senates?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die gesamte Steilhooper Allee ist circa 3,4 Kilometer lang. Überwiegend sind beidseitig benutzbare und in einem verkehrssicheren Zustand befindliche Radwege in unterschiedlicher Beschaffenheit und Qualität vorhanden. Auf einem kurzen Teilstück gibt es auch einen gemeinsamen Geh- und Radweg. Es besteht Radwegebenutzungspflicht.
 
@@ -115,7 +116,7 @@ Wann werden die Radwege an der Steilshooper Allee saniert? Falls das noch nicht 
 
 Trifft es zu, dass die Radverkehrskoordinatorin nicht angeben konnte, wann die Radwege saniert werden beziehungsweise wann darüber entschieden wird?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Einen Termin für eine Sanierung der Steilhooper Allee gibt es derzeit nicht. Die Notwendigkeit einer Sanierung wird im Rahmen des Erhaltungsmanagementsystems für Hamburgs Straßen (EMS-HH) überprüft.
 

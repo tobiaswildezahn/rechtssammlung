@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 11
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55150"
@@ -74,7 +75,7 @@ b) Gibt es nach Ansicht des Senats beziehungsweise der zuständigen Behörde and
 a) Welche Positionen nehmen die Hamburger Universitäten und Hochschulen zu den Neuregelungen des neuen Rahmenvertrages zwischen KMK und VG WORT ein?
 b) Welche Erfahrungen haben die Hamburger Universitäten und Hochschulen bisher, sofern möglich, mit dieser Neuregelung gemacht beziehungsweise welche Auswirkungen erwarten diese durch die nun anstehenden Neuregelungen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Entscheidung über den Beitritt zum Rahmenvertrag bleibt der jeweiligen Hochschule vorbehalten. Die Hamburger Landeshochschulkonferenz (LHK) hat sich in ihrer Sitzung am 1. November 2016 einstimmig dafür ausgesprochen, dass die Hamburger Hochschulen dem Rahmenvertrag zum § 52a UrhG nicht beitreten. Die Universität Hamburg (UHH) war in dieser Sitzung nicht vertreten; das Präsidium der UHH wird über die Frage des Beitritts gesondert beraten. Gegenwärtig haben sich nach Kenntnisstand der zuständigen Behörde weitere fünf Landeshochschulkonferenzen anderer Länder gegen den Beitritt zum Rahmenvertrag ausgesprochen. Erfahrungen mit den Neuregelungen liegen noch nicht vor, da diese erst zum 1. Januar 2017 greifen.
 

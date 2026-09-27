@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3646", "21/1395", "21/1748", "21/2868"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52262"
@@ -123,9 +124,9 @@ Die Förderangebote, die Jobcenter anbietet, stehen grundsätzlich allen Kundinn
 
 Da bei Flüchtlingen jedoch Problemlagen bestehen können, von der andere Kundengruppen nicht in gleicher Weise betroffen sind, werden einzelne Förderangebote speziell für die Kundengruppe der Flüchtlinge angeboten. Dies sind:
 
-• Eine Maßnahme zum Profiling und zur Standortbestimmung für Neukundinnen und Neukunden mit Trägerpersonal, das über Sprachkenntnisse in Arabisch oder Dari/ Farsi sowie Englisch oder Französisch verfügt. Künftig gibt es dieses Angebot auch für die Sprache Tigrinya.
+– Eine Maßnahme zum Profiling und zur Standortbestimmung für Neukundinnen und Neukunden mit Trägerpersonal, das über Sprachkenntnisse in Arabisch oder Dari/ Farsi sowie Englisch oder Französisch verfügt. Künftig gibt es dieses Angebot auch für die Sprache Tigrinya.
 
-• Eine Förderung mit einem Aktivierungs- und Vermittlungsgutschein für Angebote, die sich speziell mit Sprach- und Integrationselementen an die Kundengruppe der Flüchtlinge richten.
+– Eine Förderung mit einem Aktivierungs- und Vermittlungsgutschein für Angebote, die sich speziell mit Sprach- und Integrationselementen an die Kundengruppe der Flüchtlinge richten.
 
 Darüber hinaus nutzt Jobcenter umfänglich die Sprachförderangebote des BAMF – Integrationskurs und berufsbezogene Sprachförderung (ESF-BAMF).
 
@@ -162,13 +163,13 @@ Erwerbsfähige Leistungsberechtigte (eLb) werden durch den Bildungsgutschein (BG
 
 Zu den Aktivierungs- und Vermittlungsmaßnahmen für Flüchtlinge zählen:
 
-• Profiling und Standortbestimmung für Flüchtlinge (Maßnahmeinhalte: ausführliche Erfassung der persönlichen Situation und der beruflichen Kenntnisse, Klärung der Vermittlungsfähigkeit),
+– Profiling und Standortbestimmung für Flüchtlinge (Maßnahmeinhalte: ausführliche Erfassung der persönlichen Situation und der beruflichen Kenntnisse, Klärung der Vermittlungsfähigkeit),
 
-• Perspektiven für Flüchtlinge (Maßnahmeinhalte: Potenzialidentifizierung durch Maßnahmeteile in Echtbetrieben, Aufzeigen von Perspektiven, Information über die Bedingungen des deutschen Arbeitsmarktes, Unterstützung der Bewerbungsaktivitäten),
+– Perspektiven für Flüchtlinge (Maßnahmeinhalte: Potenzialidentifizierung durch Maßnahmeteile in Echtbetrieben, Aufzeigen von Perspektiven, Information über die Bedingungen des deutschen Arbeitsmarktes, Unterstützung der Bewerbungsaktivitäten),
 
-• Nordchance für Flüchtlinge (Die Maßnahme besteht aus einer fünfmonatigen Aktivierungs- und fachpraktischen Grundausbildungsphase und einer anschließenden betriebspraktischen Einstiegsqualifizierung in Unternehmen. Die Maßnahme ist geprägt von einer intensiven begleitenden Sprachförderung und einer begrenzten Gruppengröße von zwölf Teilnehmern/Teilnehmerinnen),
+– Nordchance für Flüchtlinge (Die Maßnahme besteht aus einer fünfmonatigen Aktivierungs- und fachpraktischen Grundausbildungsphase und einer anschließenden betriebspraktischen Einstiegsqualifizierung in Unternehmen. Die Maßnahme ist geprägt von einer intensiven begleitenden Sprachförderung und einer begrenzten Gruppengröße von zwölf Teilnehmern/Teilnehmerinnen),
 
-• Kombination von Integrationskursen mit Maßnahmen zur Aktivierung und beruflichen Eingliederung.
+– Kombination von Integrationskursen mit Maßnahmen zur Aktivierung und beruflichen Eingliederung.
 
 9.4 Gibt es bereits Ausschreibungs-/Vergabeverfahren bezogen auf zusätzliche Maßnahmen?
 

@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52561"
@@ -43,7 +44,7 @@ Wie viele Verfallsanordnungen sind im Jahr 2015 und im 1. Quartal 2016 jeweils l
 
 Wie viele Einziehungsentscheidungen sind im Jahr 2015 und im 1. Quartal 2016 jeweils laut MESTA rechtskräftig geworden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die zur Beantwortung benötigten Daten werden nicht gesondert statistisch erfasst. Eine Auswertung der im nicht als Statistikprogramm konzipierten Vorgangsverwaltungs- und -bearbeitungssystem MESTA der Staatsanwaltschaft erfassten Daten liefert keine aussagekräftigen Daten, weil Einziehungs- und Verfallsentscheidungen nur zu einem geringen Anteil überhaupt in MESTA erfasst werden.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2340"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50977"
@@ -58,7 +59,7 @@ Welche weiteren Verfahrensschritte erfolgen wann nach Eingang dieser Antworten?
 
 Wird die endgültige Planung noch welchen bezirklichen Gremien und in einer öffentlichen Informationsveranstaltung vorgestellt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die TÖB geben Stellungnahmen mit Anforderungen aus ihren Zuständigkeitsbereichen ab. Die Stellungnahmen werden nach Eingang abgewogen und gegebenenfalls in die Planung eingearbeitet und als sogenannte Schlussverschickung den TÖB zur Kenntnis gegeben. Die Planung gilt mit der Schlussverschickung als genehmigt. Um im Sommer 2016 bauen zu können, soll die Schlussverschickung im 1. Quartal des Jahres 2016 fertiggestellt werden.
 

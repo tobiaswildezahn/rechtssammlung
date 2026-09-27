@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7363"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56668"
@@ -49,7 +50,7 @@ Wie stellt sich der aktuelle Planungs- und Verfahrensstand für den zweiten Baua
 
 Wann soll die Schlussverschickung der Planung erfolgen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Derzeit wird die Schlussverschickung vorbereitet. Die weiteren Schritte sind wie folgt geplant:
 
@@ -84,15 +85,15 @@ b) Was genau umfassen die Leitungsbauarbeiten im Einzelnen?
 
 Sie umfassen die Verlegung vorhandener Leitungen aus der Fahrbahn in die Nebenflächen sowie eine Tieferlegung von fahrbahnquerenden Leitungen. Davon sind folgende Leitungsunternehmen betroffen:
 
- Stromnetz Hamburg GmbH,
+– Stromnetz Hamburg GmbH,
 
- Hamburg Netz GmbH,
+– Hamburg Netz GmbH,
 
- DTK Deutsche Telekabel GmbH/Vodafone GmbH,
+– DTK Deutsche Telekabel GmbH/Vodafone GmbH,
 
- Dataport Anstalt des öffentlichen Rechts,
+– Dataport Anstalt des öffentlichen Rechts,
 
- Hamburger Wasserwerke GmbH.
+– Hamburger Wasserwerke GmbH.
 
 c) Inwieweit kommt es hier bereits zu Verkehrseinschränkungen?
 

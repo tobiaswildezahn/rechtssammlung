@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 22
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2289"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51355"
@@ -81,7 +82,7 @@ In Anlage 3 von Drs. 21/2289 (Seite 5) fällt auf, dass es bezüglich der Stelle
 
 Welche Sachgründe gibt es für die Nichtbesetzung der in Frage 5. benannten Stellen in der Abteilung Kinder- und Jugendgesundheit im ÖGD?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Anlage 3.
 
@@ -151,7 +152,7 @@ Findet eine Bedarfsplanung für die Besetzung der Stellen im ÖGD statt? Wenn ja
 
 Für Krankenhäuser gibt es einen Krankenhausbedarfsplan, der die Stellenbedarfe festlegen kann. Gibt es ebenfalls Verfahren oder Richtlinieninstrumente zur Ermittlung von Bedarfen zur Personalplanung/-entwicklung im ÖGD? Wenn ja, welche?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Mit dem Krankenhausplan werden keine Stellenbedarfe festgelegt. Die Bedarfsplanung für die Besetzung der Stellen im ÖGD wird kontinuierlich vorgenommen. Vakante Stellen werden im Rahmen der zur Verfügung stehenden Ressourcen zeitnah anhand der jeweiligen Bedarfe nachbesetzt. Bei steigendem Bedarf können jederzeit neue Stellen geschaffen werden und bei sinkendem Bedarf beziehungsweise aufgabenkritischen Überlegungen und entsprechenden Vakanzen werden Stellen gestrichen.
 

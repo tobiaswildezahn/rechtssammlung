@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2280", "21/2281"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50648"
@@ -84,7 +85,7 @@ Wie sind der genaue Sachstand sowie der Zeitplan bezüglich der Prüfung der Sch
 
 Plant der Senat, der Bürgerschaft eine entsprechende Drucksache vorzulegen? Wenn ja, wann? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Prüfung der rechtlichen Voraussetzungen für eine andere Grundstücksbewertung wurde mit dem Ergebnis abgeschlossen, dass eine Neubewertung der Grundstücke handelsrechtlich zulässig und geboten ist.
 

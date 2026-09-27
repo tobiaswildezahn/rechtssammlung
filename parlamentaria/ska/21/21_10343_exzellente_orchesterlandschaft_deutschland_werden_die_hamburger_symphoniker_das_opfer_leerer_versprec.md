@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8640"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59180"
@@ -55,7 +56,7 @@ Haben die Hamburger Symphoniker fristgerecht einen Antrag bei der Kulturstaatsmi
 
 Wie viele Orchester haben sich nach Kenntnisstand des Senats beziehungsweise der zuständigen Dienststellen der Freien und Hansestadt Hamburg auf diese Förderung beworben?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

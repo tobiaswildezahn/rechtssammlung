@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7880"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66090"
@@ -35,23 +36,23 @@ Außerdem wurden weitere Ausgleichsmaßnahmen durch die Bauherren auf den Grunds
 
 ## Einleitung für die Antworten des Senats
 
- Umsetzung des mit dem Bauantrag vorgelegten Außenanlagenkonzepts,
+– Umsetzung des mit dem Bauantrag vorgelegten Außenanlagenkonzepts,
 
 ergänzt um drei weitere Baumpflanzungen auf den Grundstücken Sieker Landstraße 41/43 gemäß Bauvorlagen.
 
- Errichtung von Photovoltaikanlagen auf jeweils einem Gebäude der
+– Errichtung von Photovoltaikanlagen auf jeweils einem Gebäude der
 
 WGW (südlicher Grundstücksteil-Flurstück 2311) und einem der OWP (nördlicher Grundstücksteil-Flurstück 2316) zur Allgemeinstromversorgung (Tiefgaragen) beziehungsweise Einspeisung ins öffentliche Netz.
 
- Die Ausrüstung der drei OWP-Gebäude mit weiteren Photovoltaikanlagen
+– Die Ausrüstung der drei OWP-Gebäude mit weiteren Photovoltaikanlagen
 
 zur Stromversorgung der Eigentumswohnungen beziehungsweise zur Einspeisung ins öffentliche Netz.
 
- Beteiligung an der Spendenaktion „Mein Baum – meine Stadt“ für den
+– Beteiligung an der Spendenaktion „Mein Baum – meine Stadt“ für den
 
 Stadtteil Rahlstedt, Übernahme der zum Stand 30. Mai 2016 freien Standorte von 36 Straßenbäumen à 500 Euro.
 
- Pflanzung von circa zehn großkronigen Bäumen im Bestand der WGW.
+– Pflanzung von circa zehn großkronigen Bäumen im Bestand der WGW.
 
 Vor diesem Hintergrund frage ich den Senat:
 
@@ -95,7 +96,7 @@ Wurde die Errichtung von Photovoltaikanlagen auf jeweils einem Gebäude der WGW 
 
 Wurde die Ausrüstung der drei OWP-Gebäude mit weiteren Photovoltaikanlagen zur Stromversorgung der Eigentumswohnungen beziehungsweise zur Einspeisung ins öffentliche Netz vorgenommen, kontrolliert und abgenommen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Errichtung von Photovoltaikanlagen ist eine freiwillige Leistung des Bauherren und kein Prüfinhalt nach § 62 HBauO. Entsprechend entzieht es sich der Kenntnis des zuständigen Bezirksamtes, ob der erzeugte Strom zur Allgemeinnutzung oder Einspeisung ins öffentliche Netz verwendet wird. Daher entfällt auch die Kontrolle und Abnahme. Im Übrigen siehe Vorbemerkung.
 
@@ -115,7 +116,7 @@ Wurde die Pflanzung von circa zehn großkronigen Bäumen im Bestand der WGW vorg
 
 Welche Standorte wurden für die Pflanzungen der zehn großkronigen Bäume ausgewählt? Bitte nach Stadtteilen aufschlüsseln.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die zusätzliche freiwillige Pflanzung von zehn großkronigen Bäumen im Bestand der WGW ist nicht Bestandteil der naturschutzrechtlichen Auflagen aus der Baugenehmigung. Eine Kontrolle durch das zuständige Bezirksamt erfolgt daher nicht.
 
@@ -143,9 +144,9 @@ Wie viele Stellplätze wurden in der Tiefgarage erstellt und welche Anzahl von d
 
 Es wurde folgende Anzahl von Stellplätzen genehmigt:
 
- Flurstück 2311: 48 Stellplätze
+– Flurstück 2311: 48 Stellplätze
 
- Flurstück 2316: 61 Stellplätze
+– Flurstück 2316: 61 Stellplätze
 
 Über den Nutzungsgrad der Stellplätze liegen dem zuständigen Bezirksamt keine Kenntnisse vor.
 

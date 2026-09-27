@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54187"
@@ -43,7 +44,7 @@ Wann wurde der Boden des Gerhart-Hauptmann-Platzes zuletzt saniert?
 
 Welche Maßnahmen wurden dabei getroffen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 2001 wurde im Rahmen einer Grundinstandsetzung der Gerhart-Hauptmann-Platz neu gepflastert.
 
@@ -55,7 +56,7 @@ An welchen Stellen kommt es zu Bodenabsenkungen?
 
 Wie sind diese zu erklären? Wieso wurden bei der letzten Sanierung nicht ausreichende Maßnahmen gegen Bodenabsenkungen getroffen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Platz ist in drei Zonen aufgeteilt, die unterschiedlichen Belastungsbeschränkungen unterliegen (3,5 t, 7,5 t und 12 t), um eine Befahrbarkeit mittels Rettungswagen im Einsatzfall und mittels Lastkraftwagen bis 7,5 t für Anlieferung bei Veranstaltungen zu gewährleisten. Diese Zonen haben entsprechend der Belastungsgrenzen unterschiedliche Aufbaustärken. Die aktuellen Unebenheiten an drei Stellen befinden sich in den Bereichen der 3,5-t-Beschränkung, das heißt in dem Bereich, der lediglich für Fußgängerinnen und Fußgänger sowie „kleine“ Stände bei Veranstaltungen vorgesehen ist. Trotz der Belastungsbeschränkungen kann es aufgrund eines hohen Nutzungsdrucks in diesem Bereich wiederholt zu Schäden kommen.
 

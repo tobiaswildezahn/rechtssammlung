@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61934"
@@ -99,19 +100,19 @@ Die entsprechende Statistik wurde im Jahr 2014 erstmals erhoben. Die noch nicht 
 
 Im Fachreferat des Statistikamts Nord sind unter anderem folgende Maßnahmen durchgeführt worden, die zu einer umfassenden und rechtzeitigen Datenlieferung an das Statistische Bundesamt für das Berichtsjahr 2016 geführt haben:
 
- Im September 2016 wurden in Zusammenarbeit mit der BASFI die Träger der Ein-
+– Im September 2016 wurden in Zusammenarbeit mit der BASFI die Träger der Ein-
 
 richtungen umfassend recherchiert und anschließend angeschrieben.
 
- Die Träger wurden mit der Bitte angeschrieben, dem Statistikamt Nord ihre jeweils
+– Die Träger wurden mit der Bitte angeschrieben, dem Statistikamt Nord ihre jeweils
 
 zugehörigen Einrichtungen zu benennen.
 
- Es wurde eine aktuelle Datenbank mit den Trägern und den Einrichtungen aufge-
+– Es wurde eine aktuelle Datenbank mit den Trägern und den Einrichtungen aufge-
 
 baut.
 
- An die einzelnen Einrichtungen beziehungsweise deren Träger wurden zeitnah
+– An die einzelnen Einrichtungen beziehungsweise deren Träger wurden zeitnah
 
 Erinnerungen und Mahnungen bei ausstehenden Datenlieferungen versandt.
 
@@ -155,43 +156,43 @@ Art des Trägers der Kinder- und Jugendhilfe
 
 Öffentliche Träger
 
- Jugendamt (örtlicher Träger)
+– Jugendamt (örtlicher Träger)
 
- Landesjugendamt (überörtlicher Träger)
+– Landesjugendamt (überörtlicher Träger)
 
- Oberste Landesjugendbehörde (Ministerium/Senat)
+– Oberste Landesjugendbehörde (Ministerium/Senat)
 
- Gemeinde oder Gemeindeverband ohne eigenes Jugendamt
+– Gemeinde oder Gemeindeverband ohne eigenes Jugendamt
 
- Andere Gebietskörperschaft, welche als Träger der Kinder- und Jugendhilfe auftritt
+– Andere Gebietskörperschaft, welche als Träger der Kinder- und Jugendhilfe auftritt
 
 Freie Träger
 
- Jugendverband (einschließlich Sportjugend und Jugendabteilung im Sportver-
+– Jugendverband (einschließlich Sportjugend und Jugendabteilung im Sportver-
 
 band/-verein)
 
- Jugendring
+– Jugendring
 
- Jugendgruppe (nicht verbandlich organisiert), Initiative
+– Jugendgruppe (nicht verbandlich organisiert), Initiative
 
- Arbeiterwohlfahrt (AWO) oder deren Mitgliedsorganisationen
+– Arbeiterwohlfahrt (AWO) oder deren Mitgliedsorganisationen
 
- Deutscher Paritätischer Wohlfahrtsverband oder dessen Mitgliedsorganisationen
+– Deutscher Paritätischer Wohlfahrtsverband oder dessen Mitgliedsorganisationen
 
- Deutsches Rotes Kreuz (DRK) oder dessen Mitgliedsorganisationen
+– Deutsches Rotes Kreuz (DRK) oder dessen Mitgliedsorganisationen
 
- Diakonisches Werk und andere der EKD angeschlossene Träger
+– Diakonisches Werk und andere der EKD angeschlossene Träger
 
- Caritasverband und andere der katholischen Kirche angehörige Träger
+– Caritasverband und andere der katholischen Kirche angehörige Träger
 
- Zentralwohlfahrtsstelle der Juden in Deutschland
+– Zentralwohlfahrtsstelle der Juden in Deutschland
 
- Andere Religionsgemeinschaften des öffentlichen Rechts oder ihnen angeschlos-
+– Andere Religionsgemeinschaften des öffentlichen Rechts oder ihnen angeschlos-
 
 sene Träger
 
- Sonstige juristische Personen, andere Vereinigungen
+– Sonstige juristische Personen, andere Vereinigungen
 
 ### Frage 8
 

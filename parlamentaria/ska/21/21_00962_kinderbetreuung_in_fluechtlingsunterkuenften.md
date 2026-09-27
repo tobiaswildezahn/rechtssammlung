@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 15
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49130"
@@ -51,7 +52,7 @@ Besitzt jede Hamburger Flüchtlingsunterkunft ein halboffenes Kinderbetreuungsan
 
 Welche Kapazitäten haben die halboffenen Kinderbetreuungsangebote in den jeweiligen Unterkünften? Wie viele Betreuer sind dort jeweils tätig? Wie groß sind die Gruppen? Wie ist die Betreuer-Kind-Relation? Wie hoch ist jeweils die Auslastung der Kinderbetreuungsangebote? Zu welchen Tageszeiten ist eine Betreuung möglich?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage 1.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13666"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51221"
@@ -56,9 +57,9 @@ Jahresmittelwert 2015
 
 TMW 2015
 
-  
+–  
 Durchschnittl. TMW  
-  
+–  
 Höchster TMW
 
 2 µg/m³ 14 µg/m³
@@ -75,9 +76,9 @@ Jahresmittelwert 2015
 
 HMW 2015
 
-  
+–  
 Durchschnittl. HMW  
-  
+–  
 Höchster HMW
 
 2 µg/m³ 21 µg/m³

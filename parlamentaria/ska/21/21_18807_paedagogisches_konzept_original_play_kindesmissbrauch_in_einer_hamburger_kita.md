@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68484"
@@ -95,7 +96,7 @@ b) Wenn nein, wird sich der Senat beziehungsweise die zuständige Behörde mit d
 
 Plant der Senat beziehungsweise die zuständige Behörde das pädagogische Konzept „Original Play“ zu verbieten? Wenn ja, wann? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der zuständigen Behörde sind seit dem 28. Oktober 2019 drei Kitas des Trägers evangelisch-lutherischer Kirchenkreis Hamburg-West/Südholstein und der Kinderladen Chamäleon bekannt, die das Konzept „Original Play“ anbieten. Alle Einrichtungen befinden sich im Bezirk Altona, die zuletzt genannte im Stadtteil Altona-Nord.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6433", "21/6644", "21/6423"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55750"
@@ -51,7 +52,7 @@ Seit wann war dem Senat bekannt, dass Mitglieder der IZH aktiv an den Feierlichk
 
 Warum hat der Senat trotz der Einschätzungen des Verfassungsschutzberichts 2015 nicht umgehend auf die israelfeindlichen Aktivitäten des IZH reagiert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/6433.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/184", "21/13264", "21/8230", "21/14684", "21/12097", "21/16321", "20/5300"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66482"
@@ -1820,23 +1821,23 @@ h. Wann wurden in der laufenden Legislaturperiode welche der Spielplätze mit we
 
 In der laufenden Legislaturperiode wurden die folgenden Spielplätze saniert:
 
- Alsterberg, 2019, 280 000 Euro, Grundinstandsetzung, finanziert aus Mitteln der
+– Alsterberg, 2019, 280 000 Euro, Grundinstandsetzung, finanziert aus Mitteln der
 
 Behörde für Umwelt und Energie,
 
- Ratsmühlendamm, 2019, 145 000 Euro, umfassende Instandsetzung, finanziert
+– Ratsmühlendamm, 2019, 145 000 Euro, umfassende Instandsetzung, finanziert
 
 aus BV-Sondermittel,
 
- Hammenmacherstieg, 2016, 450 000 Euro, Neubau, finanziert durch eine Einzel-
+– Hammenmacherstieg, 2016, 450 000 Euro, Neubau, finanziert durch eine Einzel-
 
 anmeldung bei der Behörde für Umwelt und Energie, Bebauungsplan Langenhorn 22,
 
- Immenhöven, 2015, 90 000 Euro, Instandsetzung, finanziert durch die Rahmenzu-
+– Immenhöven, 2015, 90 000 Euro, Instandsetzung, finanziert durch die Rahmenzu-
 
 weisung der Behörde für Umwelt und Energie und
 
- Heerbuckhoop/Masenkamp, 2018, 75 0000 Euro, Neubau, zweiter Bauabschnitt,
+– Heerbuckhoop/Masenkamp, 2018, 75 0000 Euro, Neubau, zweiter Bauabschnitt,
 
 finanziert durch die Rahmenzuweisung der Behörde für Umwelt und Energie.
 

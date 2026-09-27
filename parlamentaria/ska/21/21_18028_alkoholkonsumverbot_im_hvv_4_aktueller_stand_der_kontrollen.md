@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6888", "21/2374"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67639"
@@ -54,7 +55,7 @@ d) VHH
 mit den Kontrollen zu Einhaltung des AKV beauftragt? Bitte jahresweise  
 aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/6888.
 
@@ -66,7 +67,7 @@ Wie viele Verstöße gegen das Verbot wurden vom Sicherheitspersonal in den Jahr
 
 Welche Strafen hatten die Verstöße gegen das Konsumverbot im Jahr 2017, 2018 und im laufenden Jahr 2019 zur Folge? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Jahr  
 HOCHBAHN  

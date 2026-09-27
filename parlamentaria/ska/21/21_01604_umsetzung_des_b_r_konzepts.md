@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14485"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49835"
@@ -49,31 +50,31 @@ Mit Stand zum 17. September 2015 wurden rund 84.000 Euro für den Zweck Bike+Rid
 
 Für das Jahr 2015 ist weiterhin ein Mittelabfluss in Höhe von 300.000 Euro für Planung und Herstellung der B+R-Anlage Saarlandstraße sowie in Höhe von 450.000 Euro für die Planung und Herstellung der B+R-Anlage Poppenbüttel vorgesehen. Darüber hinaus ist ein Mittelabfluss für 2015 folgende Planungsleistungen geplant:
 
- B+R Schlump, 350.000 Euro
+– B+R Schlump, 350.000 Euro
 
- B+R Kellinghusenstraße 350.000 Euro
+– B+R Kellinghusenstraße 350.000 Euro
 
- B+R Berne, 50.000 Euro
+– B+R Berne, 50.000 Euro
 
- B+R Ohlstedt, 10.000 Euro
+– B+R Ohlstedt, 10.000 Euro
 
- B+R Buckhorn, 5.000 Euro
+– B+R Buckhorn, 5.000 Euro
 
- B+R Rauhes Haus, 5.000 Euro
+– B+R Rauhes Haus, 5.000 Euro
 
- B+R Hoheluftbrücke, 25.000 Euro
+– B+R Hoheluftbrücke, 25.000 Euro
 
- B+R Hagendeel, 15.000 Euro
+– B+R Hagendeel, 15.000 Euro
 
- B+R J.-Mähl-Straße, 5.000 Euro
+– B+R J.-Mähl-Straße, 5.000 Euro
 
- B+R Alte Wöhr, 15.000 Euro
+– B+R Alte Wöhr, 15.000 Euro
 
- B+R Wandsbek Gartenstadt, 20.000 Euro
+– B+R Wandsbek Gartenstadt, 20.000 Euro
 
- B+R Rübenkamp, 5.000 Euro
+– B+R Rübenkamp, 5.000 Euro
 
- B+R Wellingsbüttel, 5.000 Euro
+– B+R Wellingsbüttel, 5.000 Euro
 
 Insgesamt werden im Jahr 2015 rund 1,6 Millionen Euro an investiven Mitteln benötigt. Die verbleibenden Mittel sind durch geschlossene Ingenieurverträge gebunden.
 

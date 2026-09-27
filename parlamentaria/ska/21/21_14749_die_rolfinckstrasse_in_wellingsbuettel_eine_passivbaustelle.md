@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 24
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14500"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64192"
@@ -109,7 +110,7 @@ Sind die Arbeiten nach heutigem Stand im Terminplan? Wie viele Werktage sind am 
 
 An wie vielen Werktagen wurde auf der Baustelle gearbeitet?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Der Terminplan musste wegen unvorhersehbarer Behinderungen bis Ende November des Jahres 2018 verlängert werden. Es sind 181 Werktage seit Baubeginn vergangen. Es wurde an 149 Werktagen auf der Baustelle gearbeitet.
 
@@ -131,7 +132,7 @@ Welche Priorität hat bei der Vergabe von Aufträgen im Bereich des Straßenbaus
 
 Ist die die Gewichtung einzelner Kriteriums „schnelle Bauausführung/ kurze Bauzeit“ bei unterschiedlichen Bauvorhaben unterschiedlich gewichtet?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Das Kriterium der Bauzeit wird bei Ausschreibungen von Straßen- und Tiefbaumaßnahmen gemäß den in Hamburg allgemein gültigen und einheitlichen Vertragsvorlagen der Verwaltungsvorschriften über die Durchführung von Bauaufgaben der Freien und Hansestadt Hamburg (VV-Bau) in den Besonderen Vertragsbedingungen (BVB) geregelt. Hier werden die Ausführungsfristen (Beginn der Ausführung, Zeitpunkt der Fertigstellung, gegebenenfalls Einzelfristen) vorgegeben und stellen bei der späteren Wertung der eingegangenen Angebote kein Wertungskriterium dar, da sich alle Bieterinnen und Bieter durch die Einreichung eines unterschriebenen Angebotes mit den Vertragsvorlagen und deren Inhalten einverstanden erklären. In der Regel ist der Preis das einzige Wertungskriterium, wobei natürlich die Leistungsfähigkeit und die Zuverlässigkeit der Bieterinnen und Bieter als Voraussetzung für die fristgerechte Ausführung der Bauleistungen untersucht und hinterfragt werden.
 

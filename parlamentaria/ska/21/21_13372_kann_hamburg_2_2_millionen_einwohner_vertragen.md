@@ -14,6 +14,7 @@ fragen: 1
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7748", "21/12248", "21/11742", "21/12513", "21/12374", "21/12373", "21/11339", "21/13135", "21/11416", "21/11266", "21/9491", "21/12090", "21/7346", "21/12188", "20/8204", "20/13931", "21/1618", "21/6800", "21/7029", "21/7030", "21/7031", "21/10510", "21/10871", "21/11340", "21/10605"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62723"
@@ -43,43 +44,43 @@ Der Senat steht für einen verantwortungsvollen und erfolgreichen Umgang mit dem
 
 Dabei wird die Lebensqualität der Hamburgerinnen und Hamburger insbesondere durch folgende Maßnahmen stetig verbessert:
 
- Der Senat sorgt über seine Sicherheitsorgane professionell und mit einem hohen
+– Der Senat sorgt über seine Sicherheitsorgane professionell und mit einem hohen
 
 Leistungsstand für die individuelle Sicherheit der Menschen in Hamburg. Dafür werden die Sicherheitsorganisationen beständig den veränderten Bedingungen in der Gesellschaft und der Sicherheitslage angepasst, um die hohe Leistungsfähig-
 
 keit zu erhalten und auszubauen. Ein wesentlicher Baustein ist hier die nachhaltige Erhöhung des Personalbestandes.
 
- Der Senat betreibt aktiv die Weiterentwicklung der Mobilität, sodass sich alle Ham-
+– Der Senat betreibt aktiv die Weiterentwicklung der Mobilität, sodass sich alle Ham-
 
 burgerinnen und Hamburger sicher mit unterschiedlichen Verkehrsmitteln bewegen können. Hierzu ist Hamburg bereits 2013 mit dem Mobilitätsprogramm in die kontinuierliche Verkehrsentwicklungsplanung eingestiegen. Das Maßnahmenspektrum reicht vom Ausbau wichtiger Straßen- und Bahninfrastrukturen über die Umsetzung der Busbeschleunigung und der Radverkehrsstrategie bis hin zur Förderung des Zufußgehens. Der Umsetzungsstand wird jährlich aktualisiert. Siehe http://www.hamburg.de/bwvi/mobilitaetsprogramm/.
 
 Im Übrigen siehe Drs. 21/7748.
 
- Der Senat treibt den Ausbau Hamburgs als Wissenschaftsstandort voran, da die
+– Der Senat treibt den Ausbau Hamburgs als Wissenschaftsstandort voran, da die
 
 zukünftige Wirtschaftskraft in einer wachsenden Stadt von einer erfolgreichen Verknüpfung von Forschung und Wirtschaft abhängt. Siehe unter anderem Drs. 21/12248, Drs. 21/11742, Drs. 21/12513.
 
- Mit dem Wohnungsneubau vor allem im Rahmen der Innenentwicklung sowie wei-
+– Mit dem Wohnungsneubau vor allem im Rahmen der Innenentwicklung sowie wei-
 
 teren wohnungspolitischen Maßnahmen wird bezahlbares und attraktives Wohnen für alle Bevölkerungsgruppen und insbesondere für die, die es besonders schwer haben am Wohnungsmarkt, weiter verfolgt. Siehe Drs. 21/12374, 21/12373, 21/11339, 21/13135, 21/11416, 21/11266 und 21/9491.
 
- Umwelt-, Klima- und Naturschutz sichern die natürlichen Grundlagen des Lebens
+– Umwelt-, Klima- und Naturschutz sichern die natürlichen Grundlagen des Lebens
 
 und Wirtschaftens, tragen wesentlich zu Lebensqualität und Wohlstand aller Menschen in der Stadt bei und schaffen neue Perspektiven für eine nachhaltige Entwicklung Hamburgs. Hierzu gehört gleichermaßen die Sauberkeit und Instandhaltung unter anderem von Wegen, Parkanlagen und Spielplätzen. Siehe unter anderem 21/10901, 21/7937.
 
- Der Senat aktualisiert die Prognose zu Schülerzahlen jährlich und baut mit erhebli-
+– Der Senat aktualisiert die Prognose zu Schülerzahlen jährlich und baut mit erhebli-
 
 chen finanziellen Ressourcen Hamburgs Schulen aus, um allen Hamburger Kindern und Jugendlichen vielfältige Zukunftschancen in einer wachsenden Stadt zu eröffnen. Außerdem investiert der Senat nicht nur in gute Kinderbetreuung und kostengünstige Kita-Angebote, sondern auch in viele familienpolitische Maßnahmen. Siehe unter anderem Drs. 21/12090.
 
- Der Senat ergreift laufend die notwendigen Maßnahmen zur Sicherstellung der
+– Der Senat ergreift laufend die notwendigen Maßnahmen zur Sicherstellung der
 
 Pflege in Krankenhäusern und in der Langzeitpflege. Er schreibt dazu unter anderem die Krankenhausplanung und Rahmenplanung der pflegerischen Versorgungsstruktur fort, setzt die Reform der Pflegeberufe um und reformiert die Aufsicht über Langzeitpflegeeinrichtungen.
 
- Der Senat geht planvoll mit den erheblich gestiegenen Touristenzahlen um und
+– Der Senat geht planvoll mit den erheblich gestiegenen Touristenzahlen um und
 
 nutzt dieses Wachstum durch gesonderte Einnahmen für eine Stärkung von Kultur und Sport in Hamburg. Siehe Drs. 21/7346 und 21/12188.
 
- Der Senat steht der Grundidee „Active City“ folgend für den Ausbau einer sportlich
+– Der Senat steht der Grundidee „Active City“ folgend für den Ausbau einer sportlich
 
 aktiven Stadt und investiert in Sportanlagen und die Förderung des Spitzen-, Freizeit- und Breitensports. Siehe unter anderem Drs. 20/8204, 20/13931, 21/1618, 21/6800, 21/7029, 21/7030, 21/7031, 21/10510, 21/10871, 21/11340.
 

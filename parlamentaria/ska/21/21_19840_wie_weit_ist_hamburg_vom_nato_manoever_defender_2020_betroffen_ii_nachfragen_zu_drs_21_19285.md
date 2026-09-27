@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 28
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19285"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69636"
@@ -85,7 +86,7 @@ Wie erklärt der Senat, dass andere Landesregierungen, wie zum Beispiel die hess
 
 Wie erklärt der Senat, dass Verteidigungsministerin Annegret Kramp- Karrenbauer Abgeordneten ohne einen Hinweis auf Verschlusssache detaillierte Antworten zu einigen der oben genannten Aspekte der Drs. 21/19285 gibt, während der Senat pauschal Antworten verweigert, weil sämtliche Auskünfte Verschlusssache seien?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat sieht in ständiger Praxis davon ab, Äußerungen von Mitgliedern anderer Landesregierungen oder der Bundesregierung zu kommentieren. Im Übrigen siehe Vorbemerkung.
 
@@ -105,7 +106,7 @@ Werden militärisches Material oder Infrastruktur für das Manöver „DEFENDER 
 
 Werden Soldaten der USA, weiterer NATO-Staaten und der Bundeswehr für das Manöver „DEFENDER 2020“ über das Territorium der Freien und Hansestadt Hamburg verlegt? (Bitte einzeln und nach Hafen, Flughafen, Schiene, Straße und andere Wege und Anzahl der Soldaten auflisten.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Ja. Darüber hinaus liegen zur Weitergabe geeignete Informationen den zuständigen Stellen nicht vor. Im Übrigen siehe Vorbemerkung.
 
@@ -125,7 +126,7 @@ Rechnet der Senat mit verkehrlichen Einschränkungen im Zusammenhang mit „DEFE
 
 Ist beabsichtigt, die Hamburger Bevölkerung über zu erwartende Einschränkungen zu informieren, damit es nicht zum Beispiel zu unnötigen Staus und überlangen Wartezeiten an Bahnhöfen kommt? Wenn ja, auf welche Weise? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Hinweise auf mögliche Verkehrsbeeinträchtigungen und verkehrliche Einschränkungen sind den zuständigen Stellen derzeit nicht bekannt. Sollten im Rahmen der Durchführung der Transporte Verkehrsbeeinträchtigungen konkret bevorstehen oder eingetreten sein, wird die Bevölkerung über die regelmäßig genutzten Verfahren, insbesondere die Medien und den Verkehrswarndienst informiert.
 

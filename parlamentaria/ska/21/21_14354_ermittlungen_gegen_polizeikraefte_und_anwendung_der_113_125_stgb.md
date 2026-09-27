@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14067"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63768"
@@ -88,7 +89,7 @@ Wie viele der in Frage 1. genannten Ermittlungsverfahren wurden gegen Polizeikr�
 
 Wie viele der in Frage 1. genannten Ermittlungsverfahren wurden gegen weibliche Polizeikräfte geführt? Bitte pro Kalenderjahr angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Statistiken im Sinne der Fragestellungen 3. und 4. führt das DIE nicht. Zur Beantwortung der Fragen wäre eine händische Auswertung der 1.345 Ermittlungsverfahren erforderlich. Dies ist in der zur Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -112,11 +113,11 @@ Bei Einstellungen im Disziplinarrecht wird grundsätzlich zwischen zwei Einstell
 
 2. Einstellung unter Feststellung eines Dienstvergehens
 
- gemäß § 32 Absatz 1 Nummer 2 HmbDG, in Fällen, in denen ein Dienstver-
+– gemäß § 32 Absatz 1 Nummer 2 HmbDG, in Fällen, in denen ein Dienstver-
 
 gehen erwiesen ist jedoch eine Disziplinarmaßnahme nicht angezeigt erscheint, oder
 
- gemäß § 32 Absatz 1 Nummer 3 HmbDG, in Fällen, in denen eine Diszipli-
+– gemäß § 32 Absatz 1 Nummer 3 HmbDG, in Fällen, in denen eine Diszipli-
 
 narmaßnahme aus Rechtsgründen beispielsweise wegen des sogenannten
 

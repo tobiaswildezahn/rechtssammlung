@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 30
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62721"
@@ -95,7 +96,7 @@ Welche Maßnahmen ergriffen welche Einheiten jeweils wann?
 
 Wie lange verschanzte sich der Flüchtling?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Antwort zu 2. bis 5.
 
@@ -123,7 +124,7 @@ Wie geht es dem Flüchtling?
 
 Wo ist der Afghane aktuell untergebracht und für wie lange soll er dort bleiben?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Vorbemerkung.
 
@@ -211,6 +212,6 @@ Welche Integrationsleistungen hat der junge Mann erhalten?
 
 Geht der Afghane einer Arbeit nach oder wie gestaltet er seinen Alltag?
 
-#### Antwort zu Fragen 23 bis 24
+#### Antwort zu Fragen 23 und 24
 
 Siehe Vorbemerkung.

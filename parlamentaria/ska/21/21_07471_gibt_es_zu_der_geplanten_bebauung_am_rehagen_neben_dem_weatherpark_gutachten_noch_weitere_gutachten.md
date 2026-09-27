@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6594"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56076"
@@ -43,11 +44,11 @@ Wurden weitere Gutachten in Auftrag gegeben, die sich auch mit den Auswirkungen 
 
 Die Auswirkungen einer Bebauung am Rehagen wurden gutachterlich in verschiedener Hinsicht geprüft. Das Bezirksamt Wandsbek hat folgende Gutachten vergeben:
 
- Artenschutzfachliche Potenzialabschätzung, Auftragnehmer Planungsgruppe Mari-
+– Artenschutzfachliche Potenzialabschätzung, Auftragnehmer Planungsgruppe Mari-
 
 enau (PGM), März 2016.
 
- Kurzbericht zur Kontrolle möglicher Vorkommen des Moorfrosches und arten-
+– Kurzbericht zur Kontrolle möglicher Vorkommen des Moorfrosches und arten-
 
 schutzfachliche Bewertung, Auftragnehmer PGM, März 2016.
 
@@ -55,11 +56,11 @@ Gegenstand der Gutachten war die Klärung, inwieweit durch die Umsetzung der Pla
 
 Die Hamburger Immobilienentwicklungsgesellschaft mbH (HIG) hat folgende Gutachten vergeben:
 
- Baumgutachterliche Bestandsaufnahme, Berechnung des Ersatzbedarfs, Auftrag-
+– Baumgutachterliche Bestandsaufnahme, Berechnung des Ersatzbedarfs, Auftrag-
 
 nehmer Uwe Thomsen, November 2016, Artenschutzfachliche Überprüfung von Rodungsmaßnahmen, Auftragnehmer PGM, November 2016.
 
- Gutachterliche Stellungnahme zum potenziellen Vorkommen der Käferart Eremit,
+– Gutachterliche Stellungnahme zum potenziellen Vorkommen der Käferart Eremit,
 
 Auftragnehmer Stephan Gürlich, Dezember 2016.
 

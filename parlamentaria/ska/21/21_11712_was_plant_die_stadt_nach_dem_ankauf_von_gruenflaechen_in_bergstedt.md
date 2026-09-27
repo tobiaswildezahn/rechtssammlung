@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11546"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60946"
@@ -47,7 +48,7 @@ Wie werden diese Grundstücke derzeit genutzt? Welche Veränderungen sind geplan
 
 Welche Pläne gibt es zur Anlage einer öffentlichen Park- oder Grünanlage oder einer Wegeverbindung auf dem Flurstück 261 im Einzelnen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Fläche nördlich des Volksdorfer Damms (Flurstücke 7777 und 7778, Gemarkung Bergstedt, ehemals Flurstück 261) ist derzeit landwirtschaftliche Nutzfläche und an den Hof Stüffel verpachtet. Die beiden Flächen südlich des Volksdorfer Damms (Flurstücke 2952 und 2953 Gemarkung Bergstedt) sind mit Bäumen und Sträuchern einer Spontanvegetation besetzt.
 

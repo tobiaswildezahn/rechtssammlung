@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54873"
@@ -92,7 +93,7 @@ Ist dem Senat bekannt, wie viele Tonnen an HBCD-behandelten Styropordämmstoffen
 
 Ist dem Senat bekannt, wie viele Gebäude in Hamburg mit HBCD- behandelten Styropordämmstoffen gedämmt sind? Wenn ja, bitte angeben.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der zuständigen Behörde liegen keine Daten vor. Im Übrigen gehört nach § 3 des Hochbaustatistikgesetzes (HBauStatG) die Art der verwendeten Dämmung in Außenfassaden nicht zu den Erhebungsmerkmalen.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55151"
@@ -43,7 +44,7 @@ Unter welcher Prämisse wurde die Weatherpark GmbH mit Sitz in Wien als Gutachte
 
 Das Gutachten baut auf das Klimagutachten aus dem Jahr 2012 auf. Warum wurde nicht die Firma Geonet mit Sitz in Hannover, die das Klimagutachten 2012 erstellt hat und damit bereits eine umfassende Expertise über Hamburgs klimabeeinflussende Gegebenheiten und Besonderheiten erworben hat, mit der Detailierung beauftragt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Vergabe des Gutachtens ist in einem öffentlichen Vergabeverfahren erfolgt, das von der zentralen Vergabestelle der Bezirksämter im Bezirksamt Altona durchgeführt wurde. Im Ergebnis des Vergabeverfahrens war der Zuschlag an das Unternehmen Weatherpark zu erteilen.
 
@@ -55,7 +56,7 @@ Welches Gutachten wird bei gegenteiligen (Teil-)Aussagen bevorzugt und mit welch
 
 Wird eine wissenschaftliche Aufarbeitung über gegebenenfalls vorhandene widersprüchliche Aussagen beider Gutachten stattfinden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Den Gutachten liegen unterschiedliche Fragestellungen zugrunde. Insofern sind die jeweiligen Aussagen nicht vergleichbar, da sie sich auch in ihrem Maßstab und Betrachtungsraum unterscheiden.
 
@@ -67,23 +68,23 @@ Wie genau lautet die Beauftragung an die Firma Weatherpark, welche Vorgaben wurd
 
 Die Aufgabenstellung an das Unternehmen Weatherpark erfolgte durch die Fachverwaltung des Bezirksamts. Sie umfasst insbesondere die folgenden Punkte:
 
- Bestandsaufnahme und Beschreibung der klimatischen Ausgangslage
+– Bestandsaufnahme und Beschreibung der klimatischen Ausgangslage
 
- Abgrenzung der Wirkungsbereiche der Kaltluftentstehungsgebiete mit ihren Kalt-
+– Abgrenzung der Wirkungsbereiche der Kaltluftentstehungsgebiete mit ihren Kalt-
 
 luftleitbahnen und Beschreibung ihrer Wirkungen
 
- Modellierung der Auswirkungen der vorgesehenen Bebauung auf Kaltluftentste-
+– Modellierung der Auswirkungen der vorgesehenen Bebauung auf Kaltluftentste-
 
 hung, Kaltluftleitbahnen und Luftaustausch
 
- Einschätzung der Erheblichkeit von möglichen Auswirkungen der vorgesehenen
+– Einschätzung der Erheblichkeit von möglichen Auswirkungen der vorgesehenen
 
 Bebauung unter Berücksichtigung der klimatischen Gesamtsituation
 
- Einschätzung möglicher Minderungsmaßnahmen
+– Einschätzung möglicher Minderungsmaßnahmen
 
- Beispielhafter Vergleich der lokalen klimatischen Situation mit anderen Großstäd-
+– Beispielhafter Vergleich der lokalen klimatischen Situation mit anderen Großstäd-
 
 ten.
 

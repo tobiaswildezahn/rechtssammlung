@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 9
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17711", "21/14753"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67911"
@@ -53,7 +54,7 @@ Hat die Bundesregierung den Mitgliedern der JFMK und der GMK mitgeteilt, ob ein 
 
 Wurde ein entsprechendes Gesetzgebungsverfahren ohne eine entsprechende Information der Mitglieder der JFMK und der GMK eingeleitet? Wenn ja, welcher Sachstand ist dem Senat bekannt? Wenn nein: a. Wird seitens des Senats eine Bundesratsinitiative vorbereitet? Wenn ja, welchen aktuellen Stand haben die Vorbereitungen? Wenn nein, warum nicht? b. Mit welchen Mitgliedern ist der Senat diesbezüglich aktuell in konkreten Gesprächen? c. Bis wann geht der Senat von einer erfolgreichen Umsetzung einer entsprechenden Bundesratsinitiative aus?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Gesetzentwurf für den Bundeshaushalt 2020 enthält keine Mittelerhöhung für die Bundesstiftung Frühe Hilfen. Eine bedarfsgerechte Anpassung der Mittel und regelhafte Dynamisierung ist gesetzlich nicht geregelt. Der Bund hat die beiden Fachministerkonferenzen bisher auch nicht hierüber informiert.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15645", "21/17783", "21/17880"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70079"
@@ -114,6 +115,6 @@ Welche konkreten Ereignisse liegen der Forderung zugrunde, im Landesamt für Ver
 
 Wie ist diese Entscheidung vor dem Hintergrund zu sehen, dass es in Hamburg keinen einzigen Gefährder aus dem Phänomenbereich der Politisch motivierten Kriminalität – rechts (PMK-rechts) gibt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Ermordung von Regierungspräsident Walter Lübcke, die Morde und der Anschlag auf die Synagoge in Halle und zuletzt die Morde in Hanau haben gezeigt, dass eine tödliche Gefahr auch von Personen ausgehen kann, die nicht als Gefährder eingestuft sind. Im Übrigen siehe Drs. 21/17783 und 21/17880.

@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 33
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3652", "21/5765", "21/5733", "21/4943", "21/4940", "21/5875", "21/5853", "21/5832"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54815"
@@ -139,15 +140,15 @@ Die zuständige Behörde hat in Zusammenarbeit mit den bezirklichen Dienststelle
 
 Die nachfolgenden fünf Kindertageseinrichtungen im Einzugsbereich der örU erhalten bereits im Rahmen des Kita-Plus-Programms eine zusätzliche finanzielle Ressource für die sprachliche Bildung beziehungsweise Sprachförderung und damit auch zur Förderung der Integration der Kinder:
 
-• Ev. Integrations-Kita Christophorus, Poppenbüttler Stieg 25
+– Ev. Integrations-Kita Christophorus, Poppenbüttler Stieg 25
 
-• Kinderkrippe Mikuteit, Hummelsbütteler Weg 34
+– Kinderkrippe Mikuteit, Hummelsbütteler Weg 34
 
-• Kita Johannes-Büll-Weg, Johannes-Büll-Weg 1
+– Kita Johannes-Büll-Weg, Johannes-Büll-Weg 1
 
-• Ev. KiGa Eirene, Willersweg 31 d
+– Ev. KiGa Eirene, Willersweg 31 d
 
-• Kita Schritt für Schritt, Tangstedter Landstraße 41
+– Kita Schritt für Schritt, Tangstedter Landstraße 41
 
 Für weitere Kindertageseinrichtungen im Umfeld besteht die Möglichkeit, zusätzliche Mittel für die Sprachförderung zu erhalten, wenn insbesondere der Anteil der Kinder mit einer nicht deutschen Familiensprache ansteigt, zum Beispiel durch die Aufnahme von Flüchtlingskindern.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69549"
@@ -51,7 +52,7 @@ Wie viele Anzeigen wegen Fahrerflucht lagen zum 31. Dezember 2019 bei Hamburgs P
 
 Wie viele Anzeigen wegen Fahrerflucht sind seit dem 1. Januar 2020 bei Hamburgs Polizei eingegangen? Wurden bereits Fälle aus dem aktuellen Jahr abgearbeitet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für den Zeitraum 1. Januar bis 30. November 2019 ist bei 17 576 Verkehrsunfällen mindestens ein Beteiligter mit dem Merkmal „Unfallflucht“' versehen, von denen 16 708 Verkehrsunfälle an die Staatsanwaltschaft weitergeleitet wurden.
 

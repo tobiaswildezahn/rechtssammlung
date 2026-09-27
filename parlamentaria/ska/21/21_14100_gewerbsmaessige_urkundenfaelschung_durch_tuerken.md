@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63498"
@@ -75,7 +76,7 @@ Konnte die Polizei ermitteln, ob er bereits seit längerer Zeit Urkunden fälsch
 
 Von wie vielen bereits in Verkehr gebrachten gefälschten Identitätskarten und Führerscheinen gehen die Ermittler aus?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Fragestellungen betreffen ein laufendes Ermittlungsverfahren. Um einen möglichen Ermittlungserfolg nicht zu gefährden, sieht der Senat von über die veröffentlichte Pressemeldung der Polizei (https://www.presseportal.de/blaulicht/pm/6337/4027401) hinausgehenden Angaben ab.
 

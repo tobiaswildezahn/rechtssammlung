@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57778"
@@ -57,7 +58,7 @@ Wie viele Carsharing-Plätze sollen an der U-Bahn-Haltestelle Schlump entstehen 
 
 Wie werden sich die Baumaßnahmen sowie die zusätzlichen CS-Plätze auf die Durchführung des Wochenmarktes zukünftig auswirken? Bitte umfassend erläutern, mit welchen Einschränkungen und flächenmäßigen Verdrängungen zu rechnen ist.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

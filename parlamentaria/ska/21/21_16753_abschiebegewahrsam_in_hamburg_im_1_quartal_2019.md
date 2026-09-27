@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 4
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66304"
@@ -48,6 +49,6 @@ Wie viele Menschen befanden sich im vergangenen Quartal im Abschiebegewahrsam am
 
 Wie viele der unter 1. genannten Menschen wurden von wo, auf welche Art, in welche Länder abgeschoben und welcher Staatangehörigkeit waren sie jeweils? a. Wie viele wurden aus welchen Gründen wieder frei gelassen? b. Wie viele wurden in welche Straf- oder Abschiebehaftanstalten überstellt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im 1. Quartal 2019 befand sich keine Person im Abschiebungsgewahrsam nach § 62b Aufenthaltsgesetz, im Übrigen: entfällt.

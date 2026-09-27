@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54295"
@@ -65,7 +66,7 @@ Welche Rechtsfolgen hat die neue Regelung für jene Flüchtlinge, die sich gegen
 
 Was kann und was wird der Senat bei Verstoß gegen die geltende Regelung unternehmen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Flüchtlinge, die entgegen einer nach § 12a Absatz 1 AufenthG geltenden Wohnsitzregelung nach Hamburg zuziehen wollen, können nach § 12a Absatz 5 AufenthG bei der für den zugewiesenen Wohnort zuständigen Ausländerbehörde beantragen, die Wohnsitzverpflichtung aufzuheben. Die Ausländerbehörde des zugewiesenen Wohnorts soll dabei nach der Gesetzesbegründung diejenige des Zuzugsorts beteiligen. Wird dem Antrag stattgegeben, so kann der Zuzug nach Hamburg erfolgen. Wurde kein Antrag gestellt oder wurde ein gestellter Antrag bestandskräftig abgelehnt und wird gleichwohl nach Hamburg zugezogen, so wird damit eine Ordnungswidrigkeit nach § 98 Absatz 3 Nummer 2a AufenthG begangen, die mit einem Bußgeld geahndet werden kann.
 

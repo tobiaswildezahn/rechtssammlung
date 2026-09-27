@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60948"
@@ -55,7 +56,7 @@ Für viele, die an der berufsbegleitenden Weiterbildung zur Erzieherin/ zum Erzi
 
 Gibt es gegenwärtig Planungen, diese berufsbegleitende Weiterbildung zur Erzieherin/zum Erzieher an allen vier Fachschulstandorten anzubieten? Wenn ja, wie genau sehen diese aus? (Bitte im Einzelnen mit Terminierung erläutern.) a. Wenn nein, warum nicht und wie ist das vor dem Hintergrund der nachweislichen Bedarfe und angesichts der im Koalitionsvertrag von Rot-Grün im Hamburger Rathaus festgeschriebenen Ausstattungsverbesserungen im Kita-Bereich gerechtfertigt? (Bitte jeweils fachlich und sachlich erläutern.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung. Um den Wahlpflichtbereich der berufsbegleitenden Weiterbildung in angemessener Tiefe und Qualität konzipieren zu können, benötigen die anbietenden Schulen eine ausreichende Anzahl von Schülerinnen und Schülern. Eine breite Palette fachlich differenzierter Wahlpflichtangebote, wie zum Beispiel eine Vertiefung zu den Themen interkulturelle oder frühkindliche Bildung, lässt sich nur dann schaffen und in der Schule sinnvoll organisieren, wenn in diesem Ausbildungsformat mehrere Klassen parallel beschult werden können. Dies muss über einen längeren Zeitraum sichergestellt sein, um stabile Strukturen in den Bildungsgängen aufzubauen.
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 25
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10362", "21/10173"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59667"
@@ -142,7 +143,7 @@ Welcher personelle und sonstige Mehrbedarf ergibt sich aus der Umsetzung der ang
 
 Welche personellen Mehrbedarfe ergeben sich aus den bisherigen Planungen und deren Umsetzung zur Verbesserung der Fachkraft-Kind- Relation?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die ursprüngliche Planung des Senats sah vor, im Jahr 2019 den Fachkraftschlüssel von 1:4 zu realisieren. Die Kita-Verbände haben der für die Kindertagesbetreuung zuständigen Behörde mitgeteilt, dass die zur Umsetzung erforderlichen rund 2.000 Fachkräfte auf dem Arbeitsmarkt nicht zur Verfügung stehen werden. Auf Wunsch der Kita-Verbände wurde daher eine schrittweise Umsetzung des Ziels vereinbart, wobei der erste Schritt um ein Jahr vorgezogen wurde. Danach werden in 2018 circa 530, in 2019 circa 1.100, in 2020 circa 2.100 (inklusive Verbesserung des Elementar- Fachkraftschlüssels auf 1:10) und ab 2021 circa 2.700 zusätzliche pädagogische Fachkräfte zur Verfügung gestellt.
 
@@ -243,7 +244,7 @@ Im Hinblick auf den angekündigten Gesetzentwurf der Initiative: Können aufgrun
 
 Im Hinblick auf den angekündigten Gesetzentwurf der Initiative: Welche Folgen würde eine Nichteinhaltung der gesetzlich normierten Fachkraft- Kind-Relation haben? Inwiefern würden Aufnahmestopps oder ein Abbau von Plätzen drohen?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Antwort zu 6.
 

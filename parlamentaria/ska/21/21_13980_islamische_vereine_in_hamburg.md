@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3150", "21/7661", "20/4886", "21/13702", "21/9104"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63367"
@@ -61,35 +62,35 @@ c) Verband der Islamischen Kulturzentren
 
 Wie viele beziehungsweise welche islamischen Vereine sind seit November 2012 in einen der oben genannten Dachverbände ein- beziehungsweise ausgetreten?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 20/4886 (Stand August 2012).
 
 Bei SCHURA sind seitdem die folgenden Vereine neu aufgenommen worden:
 
- Komitee der Völkerverständigung e.V. (Assalam Moschee)
+– Komitee der Völkerverständigung e.V. (Assalam Moschee)
 
- Islamisch-Afghanisches Zentrum Abu Hanifa e.V. (Abu-Hanifa-Moschee)
+– Islamisch-Afghanisches Zentrum Abu Hanifa e.V. (Abu-Hanifa-Moschee)
 
- Verein der Maghariba – Imam Malik Moschee e.V. (Imam-Malik-Moschee)
+– Verein der Maghariba – Imam Malik Moschee e.V. (Imam-Malik-Moschee)
 
- Libanesische Kulturelle Wohlfahrtsgemeinschaft e.V. (Libanesische Kulturelle
+– Libanesische Kulturelle Wohlfahrtsgemeinschaft e.V. (Libanesische Kulturelle
 
 Wohlfahrtsgemeinschaft e.V.)
 
- Islamisch-Afghanischer Verein Süderelbe e.V. (Kholafaie Raschadin Moschee)
+– Islamisch-Afghanischer Verein Süderelbe e.V. (Kholafaie Raschadin Moschee)
 
- Deutsch-Afrikanischer-Islamischer Kultur Verein e.V. (Al-Wahdah-Moschee)
+– Deutsch-Afrikanischer-Islamischer Kultur Verein e.V. (Al-Wahdah-Moschee)
 
- Engagierte Menschen in Norddeutschland e.V.
+– Engagierte Menschen in Norddeutschland e.V.
 
- Institut für Human- und Islamwissenschaften e.V.
+– Institut für Human- und Islamwissenschaften e.V.
 
- EBDAA CREATIVE – Zentrum für Bildung & Integration e.V.
+– EBDAA CREATIVE – Zentrum für Bildung & Integration e.V.
 
- Muslimisches Integrationszentrum Hamburg e.V.
+– Muslimisches Integrationszentrum Hamburg e.V.
 
- Interkulturelle Dienste Kirchdorf e.V.
+– Interkulturelle Dienste Kirchdorf e.V.
 
 Der neu aufgenommene Verein „Assahaba Moschee“ hat SCHURA wieder verlassen. Hinsichtlich DITIB liegen dem Senat keine Informationen über Veränderungen vor. Bei VIKZ haben sich seit 2012 keine Veränderungen ergeben.
 

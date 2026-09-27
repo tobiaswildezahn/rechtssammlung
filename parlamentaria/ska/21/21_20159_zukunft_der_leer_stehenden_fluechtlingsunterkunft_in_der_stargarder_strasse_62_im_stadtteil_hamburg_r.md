@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17895", "21/19241", "21/19572", "21/19777", "21/753"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69934"
@@ -47,7 +48,7 @@ Auf welchem Stand befinden sich die Renovierungsarbeiten und Ausstattung der kü
 
 Wann ist vor dem Hintergrund der Schwierigkeiten um die Gewinnung von Handwerksunternehmen mit einem Beginn der Arbeiten und einem Einzug von Auszubildenden zu rechnen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Instandsetzungsarbeiten werden voraussichtlich noch im Februar beginnen. Nachdem für die erforderlichen Instandsetzungsarbeiten Angebote eingeholt und geprüft wurden, erfolgen derzeit die Vertragsschlüsse mit den Leistungserbringern (Malerei, Gebäudereinigung, Wartung der Heizungsanlage sowie in Kürze Elektro- Handwerk). Angebote für erforderliche Ausstattungsgegenstände liegen vor, Bestellungen werden ausgelöst, sobald die Instandsetzungsarbeiten eine Anlieferung und einen Auf- beziehungsweise Einbau zulassen. Diese werden voraussichtlich noch im Februar beginnen.
 

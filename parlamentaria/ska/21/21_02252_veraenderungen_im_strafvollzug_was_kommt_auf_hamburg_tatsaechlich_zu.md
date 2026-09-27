@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 24
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1723", "21/2015", "21/1802", "20/4930", "21/1220", "21/1357"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50523"
@@ -43,7 +44,7 @@ Wie ist der aktuelle Sachstand zu den Planungen den Frauenvollzug aus Lübeck-La
 
 Wie ist der aktuelle Stand der Planungen den Jugendstrafvollzug Hahnöfersand dergestalt aufzuteilen, dass a. die jugendlichen Gefangenen nach Neumünster und Schleswig verlegt werden, b. die Jugend-Untersuchungshaft nach Billwerder verlegt wird und c. der offene Jugendstrafvollzug in ein Gebäude am Gefängnis Hamburg-Fuhlsbüttel untergebracht werden soll? d. Wie hoch werden die Kosten geschätzt und welchen Anteil in welcher Höhe wird die Freie und Hansestadt Hamburg tragen müssen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Überlegungen zu einer Neustrukturierung des Hamburger Justizvollzugs über die in der 20. Legislaturperiode beschlossenen Maßnahmen hinaus befinden sich derzeit noch am Anfang. Ein konkretes Konzept liegt noch nicht vor. Es ist angestrebt, mögliche Modellvarianten einer Vollzugskooperation zu prüfen und damit zusammenhängende Kosten zu ermitteln. Siehe auch Drs. 21/1723.
 

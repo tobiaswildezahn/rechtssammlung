@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4466"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53098"
@@ -123,6 +124,6 @@ Gedenkt der Senat beziehungsweise die zuständige Behörde, die Förderempfehlun
 
 Wann und in welcher Form wird die vollständige Evaluation der Förderung Hamburger Privattheater mit allen Empfehlungen 2016 den Abgeordneten zugeleitet? Wenn diese Evaluation den Abgeordneten nicht zugeleitet wird: warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Empfehlungen werden nach Abschluss der rechtlichen Prüfung gemäß § 7 des Hamburgischen Transparenzgesetzes im Transparenzportal veröffentlicht.

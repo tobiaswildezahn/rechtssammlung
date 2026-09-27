@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 22
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/573", "19/2428", "20/3220"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49271"
@@ -103,7 +104,7 @@ Gibt es die Möglichkeit einer Ausgliederung der NPL aus der HSH Nordbank AG? a.
 
 Wie und von wem wird eine etwaige Ausgliederung finanziert?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Drs. 21/573.
 

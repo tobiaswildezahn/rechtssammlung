@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 17
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18102", "21/15602"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69214"
@@ -80,7 +81,7 @@ b) bis zu drei Monaten?
 c) bis zu sechs Monaten?
 d) bis zu einem Jahr oder länger? Bitte nach jeweiliger Baustelle gesondert darstellen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Eine Aussage über die jeweiligen Mehrkosten und Dauer der Verzögerung der unter der Antwort zu 3. fallenden Verzögerungen ist in der für die Bearbeitung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht möglich, da hierfür die gesamte Dokumentation jeder einzelnen Maßnahme manuell durchgesehen werden müsste.
 

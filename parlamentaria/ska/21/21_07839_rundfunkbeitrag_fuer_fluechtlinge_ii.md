@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/608", "21/2501"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56455"
@@ -47,7 +48,7 @@ Ist es seit Juni 2015 vorgekommen, dass in Einrichtungen der Freien und Hansesta
 
 Ist es seit Juni 2015 vorgekommen, dass in Einrichtungen der FHH gemeldete Asylbewerberinnen und Asylbewerber Rundfunkbeitrags- Mahnbescheide und/oder Besuch von Vollstreckungsbeamten erhielten? Wenn ja, wann, wo und in circa wie vielen Fällen? (Bitte jahresweise auflisten.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In den Erstaufnahmeeinrichtungen und in der öffentlich-rechtlichen Unterbringung von Zuwanderern und Wohnungslosen (örU) werden Fälle fälschlich angeschriebener Bewohnerinnen und Bewohner bei den Trägern nicht statistisch erfasst.
 

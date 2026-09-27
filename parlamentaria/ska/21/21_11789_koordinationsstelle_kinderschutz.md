@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7850", "21/9471", "21/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61033"
@@ -37,17 +38,17 @@ Vor diesem Hintergrund fragen wir den Senat:
 
 Die Koordinationsstelle Kinderschutz beschreibt die Arbeit der Kinderschutzkoordinatoren im Bezirksamt. Jedes Bezirksamt hat ein bis zwei Fachkräfte als Kinderschutzkoordinatoren. Die Kinderschutzkoordinatorinnen und -koordinatoren können gemäß dem in 2017 zertifizierten Qualitätsmamagementsystem (QMS) von den fallführenden Fachkräften des ASD, den Abteilungsleitungen und Jugendamtsleitungen einbezogen werden unter anderem wenn:
 
- die fallzuständige Fachkraft einen Beratungsbedarf sieht,
+– die fallzuständige Fachkraft einen Beratungsbedarf sieht,
 
- die Gefährdungslage für das Kind unklar ist,
+– die Gefährdungslage für das Kind unklar ist,
 
- es um spezielle Kinderschutzthemen geht, die sich nicht regelhaft im Arbeitsalltag
+– es um spezielle Kinderschutzthemen geht, die sich nicht regelhaft im Arbeitsalltag
 
 des ASD wiederfinden,
 
- der Fallverlauf unklar und schwierig ist oder
+– der Fallverlauf unklar und schwierig ist oder
 
- es divergierende Gefährdungseinschätzungen im Helfersystem gibt.
+– es divergierende Gefährdungseinschätzungen im Helfersystem gibt.
 
 Sie unterstützen die Mitarbeiterinnen und Mitarbeiter im ASD sowie deren Leitungskräfte durch Fachberatungen, Teilnahme an kollegialen Beratungen, fachliche Begleitung im Einzelfall oder durch die Koordination von Fällen zum Beispiel im bezirksübergreifenden Krisenmanagement.
 
@@ -69,7 +70,7 @@ Wie groß ist Organisationseinheit der Koordinierungsstelle?
 
 Welche Maßnahmen zum Kinderschutz können von der Koordinationsstelle ergriffen werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Koordinationsstelle Kinderschutz im Bezirksamt Altona umfasst 1,0 VZÄ. Im Übrigen siehe Vorbemerkung.
 
@@ -89,13 +90,13 @@ Worin bestehen die Ziele einheitlicher Standards und welche Anforderungen werden
 
 Die Ziele einheitlicher Standards sind:
 
- einheitliche Vorgehensweisen im Kinderschutz;
+– einheitliche Vorgehensweisen im Kinderschutz;
 
- Transparenz von Maßnahmen und Arbeitsweisen im Kinderschutz;
+– Transparenz von Maßnahmen und Arbeitsweisen im Kinderschutz;
 
- Risikominimierung durch fachliche Standards;
+– Risikominimierung durch fachliche Standards;
 
- Steigerung der fachlichen Expertise.
+– Steigerung der fachlichen Expertise.
 
 Im Übrigen siehe Antwort zu 12. und Vorbemerkung.
 
@@ -107,7 +108,7 @@ Was verbirgt sich hinter der sogenannten Sicherstellung und welche Maßnahmen um
 
 Wie viele Sicherstellungen haben im Jahr 2017 stattgefunden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Sicherstellung bezieht sich auf die verbindliche Umsetzung der im QMS definierten Standards zum Kinderschutz. Dies wird unter anderem unterstützt durch die Vorgesetzten mit ihrer Dienst- und Fachaufsicht. Im Übrigen siehe Vorbemerkung, Drs. 21/7850 und Drs. 21/9471.
 

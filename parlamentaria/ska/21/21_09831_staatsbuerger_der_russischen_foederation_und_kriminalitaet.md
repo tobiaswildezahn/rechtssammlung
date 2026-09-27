@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 16
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58645"
@@ -59,7 +60,7 @@ g) männlich und jünger als 50,
 h) weiblich und jünger als 50,  
 i) älter als 50?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Ankunftszentrum wurden in dem gefragten Zeitraum 590 Personen aus der Russischen Föderation registriert.
 
@@ -153,7 +154,7 @@ Wie viele dieser Personen sind seit ihrer Einreise strafrechtlich in Erscheinung
 
 Wie viele Bürger der Russischen Föderation waren in Hamburg zwischen dem 1. Januar 2013 und dem 31. Dezember 2015 strafrechtlich aufgefallen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Bei der Berechnung der Tatverdächtigen wird in der Polizeilichen Kriminalstatistik (PKS) jeder Tatverdächtige nur einmal gezählt, auch wenn er mehrfach registriert wurde.
 
@@ -271,7 +272,7 @@ Wie viele Bürger der Russischen Föderation werden von den Sicherheitsbehörden
 
 Wie viele Bürger der Russischen Föderation werden von den Behörden gegenwärtig dem Jihadismus zugerechnet und gelten deswegen als Gefährder?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die erfragten Daten werden aufgrund der programmierten Abläufe nur zu bestimmten Stichtagen aus den Dateien generiert. Außerhalb dieser Stichtage wäre eine händische Auswertung der Dateien erforderlich, die in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich ist. Es werden daher die jeweiligen Stichtage angegeben.
 
@@ -333,6 +334,6 @@ Wo befinden sich die im Oktober 2016 in Hamburg bei einer Razzia gegen islamisch
 
 In wie vielen Fällen ist es bei dieser Personengruppe zu einer Verurteilung gekommen? Bitte jeweils das zugrundeliegende Delikt und das Strafmaß nennen.
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Bei dem in Rede stehenden Sachverhalt handelt es sich um ein laufendes Ermittlungsverfahren des Landeskriminalamtes (LKA) Thüringen. Der Stand des Ermittlungsverfahrens ist hier nicht bekannt. Die Beantwortung liegt im Zuständigkeitsbereich des LKA Thüringen beziehungsweise der Staatsanwaltschaft Thüringen.

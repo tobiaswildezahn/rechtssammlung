@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10287"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59943"
@@ -47,7 +48,7 @@ Wie lautet der aktuelle Planungsstand bezüglich des zukünftigen Standortes der
 
 Wie stellt sich die Projektstruktur bei der Planung bezüglich des zukünftigen Standortes der Verladestation für Autoreisezüge in Hamburg schematisch dar? Bitte eine Skizze beziehungsweise ein Schema beifügen, aus der/dem die dafür eingesetzten Gremien mit ihren jeweiligen Mitgliedern sowie die jeweiligen Aufgabenzuschnitte dieser Gremien inklusive der Letztentscheidungsbefugnisse hervorgehen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Planung für den zukünftigen Standort erfolgt durch die DB Netz AG. Nach Angaben der DB Netz AG wird derzeit eine Machbarkeitsstudie für den zukünftigen Standort erstellt, die im 1. Quartal des Jahres 2018 abgeschlossen sein soll. Die DB Netz AG plant, die Verladeanlage für Autoreisezüge an einen Standort nördlich des Bahnhofs Hamburg-Altona zu verlegen.
 
@@ -152,6 +153,6 @@ Welche Beschlüsse zur Förderung des Angebots und der Rahmenbedingungen von Aut
 a) im Bundesrat,
 b) in der VMK gefasst und wie hat Hamburg dabei jeweils abgestimmt?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Keine. Das Angebot von Autoreisezügen ist eine unternehmerische Entscheidung der DB AG sowie der anderen Bahnunternehmen.

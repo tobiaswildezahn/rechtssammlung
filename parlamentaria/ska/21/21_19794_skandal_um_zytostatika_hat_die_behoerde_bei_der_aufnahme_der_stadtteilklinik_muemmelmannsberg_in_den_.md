@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69543"
@@ -43,7 +44,7 @@ Zu welchem Zeitpunkt hat die Stadtteilklinik Mümmelmannsberg die Aufnahme in de
 
 Wann wurde die Stadtteilklinik Mümmelmannsberg erstmals durch den Landesausschuss für Krankenhaus- und Investitionsplanung aufgenommen und zu welchen Zeitpunkten entschied der Ausschuss jeweils, dass die Stadtteilklinik weiterhin im Krankenhausplan bleibt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ein Antrag auf Aufnahme in den Krankenhausplan der Freien und Hansestadt Hamburg ist bei einem Trägerwechsel, so wie es bei dem Übergang von der Praxisklinik Mümmelmannsberg in der Trägerschaft der Klinik Gruppe Dr. Guth auf die SKH Stadtteilklinik Hamburg GmbH der Fall war, nicht erforderlich. Die frühere Praxisklinik Mümmelmannsberg war seit 1990 in den Krankenhausplan der Freien und Hansestadt Hamburg aufgenommen. Die Trägerschaft des somatischen Teils der Praxisklinik Mümmelmannsberg ist zum 01.07.2014 auf den neuen Träger SKH Stadtteilklinik Hamburg GmbH übergegangen.
 
@@ -82,7 +83,7 @@ Die Stadtteilklinik zeichnet sich aus durch eine große Vielfalt an Behandlungsa
 
 Welche Strukturvoraussetzungen muss die Stadtteilklinik Mümmelmannsberg erfüllen? Wann wurde die Einhaltung der Strukturvoraussetzungen seit 2014 geprüft, durch wen und mit welchem Ergebnis?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der neue Träger der Somatik der damaligen Praxisklinik Mümmelmannsberg, die SKH Stadtteilklinik, hat das Versorgungsangebot in 2014 unverändert übernommen und diese dann weiter entwickelt, insbesondere auch in der kurzstationären Patientenversorgung für den Stadtteil Billstedt/Horn.
 

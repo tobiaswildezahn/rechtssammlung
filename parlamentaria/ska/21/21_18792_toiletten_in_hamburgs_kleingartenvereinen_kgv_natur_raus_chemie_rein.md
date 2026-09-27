@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68468"
@@ -63,7 +64,7 @@ Um welche Art von Abfall beziehungsweise Abwasser entsteht durch die Entsorgung 
 
 Durch welche Schritte und Prozesse wird dieser Abfall beziehungsweise dieses Abwasser von der Stadtreinigung entsorgt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 In Camping- beziehungsweise Chemietoiletten wird ausschließlich häusliches Abwasser gesammelt. Dessen Entsorgung erfolgt nicht über die SRH.
 

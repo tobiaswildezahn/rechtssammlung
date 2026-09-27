@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7689", "20/10680", "21/4939"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57942"
@@ -121,7 +122,7 @@ b) gezahlten Bußgelder im Jahr 2016 und im laufenden Jahr 2017? Bitte für beid
 
 Wie hat sich die Anzahl der Kontrolleure im ÖPNV seit 2011 entwickelt? Bitte jahresweise sowie nach Verkehrsunternehmen aufschlüsseln und die Beschäftigtenzahl und die Zahl der Vollzeitäquivalente angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Anzahl der eingesetzten Mitarbeiterinnen und Mitarbeiter ergibt sich aus der Vorgabe des HVV für die zu leistenden Prüfstunden. Der HVV gibt jährliche Mindestprüfstunden vor (siehe Antwort zu 5.), die nach der Fahrgastentwicklung fortgeschrieben werden. Eine genaue Zahl der Prüfdienstmitarbeiterinnen und Prüfdienstmitarbeiter kann allerdings nicht für alle Verkehrsunternehmen angegeben werden. Dies resultiert aus sogenannten Mischarbeitsplätzen der Sicherheitsdienste beziehungsweise Fahrdienste bei der S-Bahn Hamburg und der VHH.
 

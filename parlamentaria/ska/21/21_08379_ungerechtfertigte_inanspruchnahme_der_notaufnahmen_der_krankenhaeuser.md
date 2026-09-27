@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1092"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57088"
@@ -45,9 +46,9 @@ Siehe Drs. 21/1092.
 
 Eingeschränkt an der Notfallversorgung nehmen teil:
 
- BG Klinikum Hamburg (nur Chirurgie, Schwerbrandverletzte),
+– BG Klinikum Hamburg (nur Chirurgie, Schwerbrandverletzte),
 
- Universitäres Herzzentrum am Universitätsklinikum Hamburg-Eppendorf (nur Herz-
+– Universitäres Herzzentrum am Universitätsklinikum Hamburg-Eppendorf (nur Herz-
 
 und Gefäßchirurgie, Notfallversorgung zusammen mit dem UKE).
 

@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 20
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12229"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52947"
@@ -57,7 +58,7 @@ Hat die Freiwillige Feuerwehr (FF) einen eigenen Reservepool?
 
 Wie groß ist der Reservepool an den einzelnen Wachen (Berufsfeuerwehr/FF) beziehungsweise bei F03?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der regelhafte Poolbestand an den einzelnen Feuer- und Rettungswachen beträgt mindestens zehn Garnituren, bei der Technischen Abteilung (F03) werden circa 200 weitere Garnituren vorgehalten, die jedoch neben der reinen Ersatzgestellung auch für andere Bedarfszwecke bewirtschaftet werden. Die Freiwilligen Feuerwehren haben keinen Reservepool für Einsatzbekleidung.
 
@@ -143,7 +144,7 @@ Warum hält die Feuerwehr Hamburg an ihrer „blauen“ Montur fest, obgleich Be
 
 Oftmals müssen sich die Einsatzkräfte die Schutzbekleidung aus den Pools anderer Feuerwachen „ausleihen“, da die Ersatzanzüge an der eigenen Wache nicht mehr oder nicht mehr ausreichend vorhanden sind. Wird dabei kurzfristig auf die Sicherstellung der Funktionsbesetzung (Umsetzung des AGBF-Schutzzieles) verzichtet? Wenn ja, welche Funktionen werden temporär nicht besetzt, um eine Versorgungsfahrt durchzuführen?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Nein.
 

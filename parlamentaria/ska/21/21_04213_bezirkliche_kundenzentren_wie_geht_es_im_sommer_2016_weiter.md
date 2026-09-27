@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52624"
@@ -91,7 +92,7 @@ Inwieweit sind Dienstkräfte der Freien und Hansestadt Hamburg verpflichtend, vo
 
 Wie viele Abordnungen und von welchen Dienststellen sind für den Zeitraum April 2016 bis Oktober 2016 an welchen KuZ geplant und wie lange sollen – im Durschnitt – die Abordnungen dauern?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 26 Beschäftigte der Kasse.Hamburg wurden auf freiwilliger Basis vom 13. April 2016 bis 30. September 2016 mit einem Anteil von 10 Prozent der regelmäßigen Arbeitszeit zum Bezirksamt Altona, Dezernat Bürgerservice, Fachamt Einwohnerwesen zur Bearbeitung von Melderegisterauskünften teilabgeordnet. Sie erledigen die übertragenen Aufgaben in der Kasse.Hamburg.
 

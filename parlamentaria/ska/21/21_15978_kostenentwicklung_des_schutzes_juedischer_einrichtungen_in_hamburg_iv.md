@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14339", "21/14021", "21/13618", "21/13537"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65484"
@@ -121,13 +122,9 @@ Zur Beantwortung der Frage nach der Motivation werden die im KPMD-PMK zu den fes
 antisemitische Straftaten  
 2018*  
 gesamt  
-davon PMK-links-  
-davon PMK-rechts-  
-davon PMK-sonstige/nicht zuzuordnen-  
-davon PMAK  
+davon PMK-linksdavon PMK-rechtsdavon PMK-sonstige/nicht zuzuordnendavon PMAK  
 entfällt  
-davon PMK-ausländische Ideologie-  
-davon PMK-religiöse Ideologie-
+davon PMK-ausländische Ideologiedavon PMK-religiöse Ideologie-
 
 ### Frage 5
 

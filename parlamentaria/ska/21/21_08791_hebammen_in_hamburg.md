@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57530"
@@ -67,7 +68,7 @@ Wie viele Geburten gab es jeweils in den Jahren 2011, 2012, 2013, 2014, 2015 und
 
 Wie viele dieser Geburten fanden in Krankenhäusern statt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die folgende Tabelle gibt eine Übersicht zu den Geburten in den Hamburger Krankenhäusern und im Geburtshaus Hamburg unabhängig vom Wohnort der Mutter an. Gegebenenfalls an anderen Orten stattgefundene Geburten (zum Beispiel Hausgeburten) sind hier nicht mit enthalten.
 

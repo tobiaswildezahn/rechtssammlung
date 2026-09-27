@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2603"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52217"
@@ -55,7 +56,7 @@ Wo wurden in den Jahren 2012 – 2015 in Hamburg Parkplätze geschaffen? Bitte j
 
 Welche dieser Parkplätze sind frei und ohne Gebühren benutzbar?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Folgende Informationen liegen zur Beantwortung vor:
 
@@ -336,19 +337,19 @@ Welche Parkhäuser und Quartiersgaragen sind derzeit in Hamburg in Planung? Bitt
 
 Im Bezirk Hamburg-Nord sind folgende Maßnahmen geplant:
 
- Bau einer Tiefgarage unter den Einzelhandelsimmobilien Fuhlsbüttler Straße 100
+– Bau einer Tiefgarage unter den Einzelhandelsimmobilien Fuhlsbüttler Straße 100
 
 (ehemals Hertie) und dem Neubau der Hauptverwaltung für die Verwaltungs- Berufsgenossenschaft (VBG) mit insgesamt circa 300 neuen Stellplätzen,
 
- Bau eines Parkhauses an der Fuhlsbüttler Straße 32 – 36 (Bahnhofslinse) für
+– Bau eines Parkhauses an der Fuhlsbüttler Straße 32 – 36 (Bahnhofslinse) für
 
 einen Hotelneubau und Einzelhandelsnutzung mit circa 35 Stellplätzen,
 
- Bau eines Parkhauses an der Drosselstraße 18 – 20 für Anwohnerinnen und
+– Bau eines Parkhauses an der Drosselstraße 18 – 20 für Anwohnerinnen und
 
 Anwohner und Einzelhandelsnutzung mit circa 16 Stellplätzen,
 
- Bau eines Parkhauses an der Ecke Fuhlsbüttler Straße/Hellbrookstraße für
+– Bau eines Parkhauses an der Ecke Fuhlsbüttler Straße/Hellbrookstraße für
 
 Anwohnerinnen und Anwohner und Einzelhandelsnutzung mit circa 70 Stellplätzen.
 

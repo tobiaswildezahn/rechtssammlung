@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12589"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63454"
@@ -120,7 +121,7 @@ Wie beurteilt der Senat die Entwicklung der Schulen im Stadtteil Eilbek? Teilt d
 
 Die Eltern befürchten eine „soziale Verschiebung“ und wehren sich dagegen. Wie will der Senat dieser entgegenwirken?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die drei Grundschulen wurden in den vergangenen Anmelderunden von den Sorgeberechtigten im hohen Maße angewählt. In der aktuellen Anmelderunde gehört die Schule Richardstraße mit 36 Anmeldungen mehr als in der vorherigen Anmelderunde zu den Grundschulen mit der höchsten Steigerung in den Anmeldezahlen. In der Anmelderunde für das Schuljahr 2017/2018 waren die Anmeldezahlen der Schule Richardstraße und der Schule Hasselbrook dagegen mit jeweils 69 Anmeldungen noch identisch. Es ist davon auszugehen, dass ein attraktiver Neubau, wie er für die Schule Richardstraße errichtet wurde, auch im besonderen Maße Sorgeberechtigte in der Wahl der Schule beeinflusst.
 

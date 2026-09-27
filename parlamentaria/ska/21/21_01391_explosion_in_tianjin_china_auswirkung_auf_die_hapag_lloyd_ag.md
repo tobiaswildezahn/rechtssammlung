@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 15
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49608"
@@ -49,7 +50,7 @@ Besitzt die Hapag-Lloyd AG am Standort Tianjin einen oder mehrere Terminals oder
 
 Wie viel Prozent des Jahresumschlages von Hapag-Lloyd gehen jährlich über Tianjin? Bitte für 2011 – 2015 aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung. Im Übrigen sieht der Vorstand der HL die erfragten Einzelheiten als Betriebs- und Geschäftsgeheimnisse des Unternehmens an, zu denen nach § 93 Absatz 1 Satz 3 Aktiengesetz keine weitergehenden Auskünfte erteilt werden.
 
@@ -61,7 +62,7 @@ Wurden Container, Fracht und/oder Schiffe von Hapag-Lloyd beschädigt? a. Wenn j
 
 Wie viele Schiffe werden an andere Häfen umgeleitet? a. Werden dadurch zusätzliche Verzögerungen und Liegekosten erwartet? b. Mit welcher Verzögerung bei der Auslieferung wird durch den Unfall insgesamt pro Schiff, das Tianjin ansteuerte oder dort lag, gerechnet?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Eine geringe Anzahl von Containern der HL befindet sich in der Sperrzone des Unglücks. Angaben zu deren Zustand sind derzeit nicht möglich. Im Übrigen: entfällt.
 
@@ -73,7 +74,7 @@ Gibt es kurz-, mittel- oder langfristig Umsatzeinbußen durch die Beschädigunge
 
 Gibt es kurz-, mittel- oder langfristig Umsatzeinbußen durch verzögerte Zollkontrollen beziehungsweise Freigaben? a. Wenn ja, wie hoch werden diese Einbußen eingeschätzt? b. Wenn nein, aus welchen Gründen nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Nein, nach Kenntnis von HL wurde der normale Containerumschlagsbetrieb bereits wieder aufgenommen.
 

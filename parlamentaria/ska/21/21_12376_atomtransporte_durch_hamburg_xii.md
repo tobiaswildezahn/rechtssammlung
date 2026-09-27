@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 22
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11317", "21/4565", "21/9289", "21/11227", "20/13644", "20/14621", "21/5719", "21/1224"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61666"
@@ -163,7 +164,7 @@ Aus diversen Drucksachen zum Thema, zuletzt Drs. 21/11227, geht hervor, dass die
 
 Auf die Frage, ob weitere Gespräche zu freiwilligem Selbstverzicht stattgefunden beziehungsweise Termine vereinbart sind, antwortete der Senat in Drs. 21/11227, „die zuständige Behörde befindet sich im kontinuierlichen Austausch mit der Hafenwirtschaft. Es sind weitere Termine vorgesehen. Aus Vertraulichkeitsgründen können die Gesprächspartnerinnen und -partner nicht genannt werden.“ Fanden diese Termine mittlerweile statt? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Es haben weitere Gespräche stattgefunden. Im Übrigen ist der Prozess noch nicht abgeschlossen.
 

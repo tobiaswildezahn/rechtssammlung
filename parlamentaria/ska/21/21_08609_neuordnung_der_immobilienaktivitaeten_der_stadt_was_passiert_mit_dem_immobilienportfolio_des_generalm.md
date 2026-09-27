@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6674", "21/7178"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57330"
@@ -63,7 +64,7 @@ Wie ist derzeit der genaue Stand der Planungen und Überlegungen bezüglich eine
 
 Welche Überlegungen und Planungen gibt es zur Refinanzierung einer solchen Transaktion auf Seiten der Sprinkenhof GmbH?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Planungen und Überlegungen hierzu sind noch nicht abgeschlossen.
 
@@ -75,7 +76,7 @@ Welche Objekte des GMV-Portfolios sollen aus welchen Gründen an andere Erwerber
 
 Für welche Objekte des GMV-Portfolios schließt der Senat aus welchen Gründen eine Veräußerung aus?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Das Objekt Georg-Wilhelm-Straße/Hohe-Schaar-Straße soll für den Autobahnbau an die DEGES Deutsche Einheit Fernstraßenplanungs- und -bau GmbH veräußert werden. Darüber hinaus sind die Planungen und Überlegungen noch nicht abgeschlossen.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60882"
@@ -87,6 +88,6 @@ Entspricht die Schutzausrüstung dem Stand der Technik?
 
 Welche Planungen bestehen zu Neuanschaffungen und/oder Änderungen, die die Sicherheit betreffen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die im Justizvollzug vorhandene Schutzausrüstung wird fortlaufend unter Fachaufsicht der zuständigen Referatsleitung der zuständigen Behörde auf ihre Praxistauglichkeit überprüft. Die Sicherausrüstung bildet unterschiedliche technische Standards ab und entspricht in allen Anstalten den Sicherheitsanforderungen. Aktuell ist keine Beschaffung neuer Sicherheitstechnik geplant.

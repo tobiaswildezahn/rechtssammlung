@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 20
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48261"
@@ -51,7 +52,7 @@ Wie viele Flüchtlinge kamen in den Jahren 2010 bis 2014 nach Hamburg? Bitte nac
 
 Wie viele Flüchtlinge kamen jeweils im Januar und Februar 2015 nach Hamburg?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Zahl der neu eingereisten Asylsuchenden und Duldungsantragsteller, die sich in Hamburg gemeldet haben und die Zahl der Personen, die davon Hamburg im Rahmen des bundesweiten Verteilungsverfahrens zugewiesen wurden, ergeben sich aus der folgenden Übersicht:
 

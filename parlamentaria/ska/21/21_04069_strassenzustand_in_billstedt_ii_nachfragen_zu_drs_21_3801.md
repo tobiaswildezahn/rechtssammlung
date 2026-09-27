@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3801"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52455"
@@ -43,7 +44,7 @@ Wird die Straße Kaltenbergen grundsaniert? Falls ja: Wann werden welche Maßnah
 
 Woher kommen die finanziellen Mittel dafür?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nein, eine Grundsanierung ist vor dem Hintergrund der noch vorhandenen Setzungen des Untergrundes derzeit nicht sinnvoll. Das zuständige Bezirksamt beabsichtigt noch im laufenden Kalenderjahr eine Instandsetzung der Straße Kaltenbergen vorzunehmen, um die Verkehrssicherheit für die nächsten Jahre zu gewährleisten. Diese soll aus der bezirklichen Rahmenzuweisung finanziert werden.
 

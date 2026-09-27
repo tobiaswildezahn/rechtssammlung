@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65373"
@@ -43,7 +44,7 @@ Wie viele Bäume wurden in den Eimsbütteler Stadtteilen auf öffentlichem Grund
 
 Wie viele Bäume wurden in den Eimsbütteler Stadtteilen auf öffentlichem Grund und Boden seit 2015 neu gepflanzt? Bitte pro Jahr und Stadtteil tabellarisch auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die zuständige Fachbehörde hat in Zusammenarbeit mit den Hamburger Bezirksämtern bezüglich der Straßenbäume ein Baumkataster (BK) als zentrales Werkzeug für die Wahrnehmung der Verkehrssicherungspflicht entwickelt, um die Baumkontrollen und ihre Dokumentation zu unterstützen.
 
@@ -75,7 +76,7 @@ Wie viele Bäume wurden in den Eimsbütteler Stadtteilen auf privatem Grund und 
 
 Wie viele Bäume wurden in den Eimsbütteler Stadtteilen auf privatem Grund und Boden seit 2015 neu gepflanzt? Bitte pro Jahr und Stadtteil tabellarisch auflisten.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Dem zuständigen Bezirksamt liegen die Daten zu Fällungen oder Neupflanzungen von Bäumen auf privatem Grund und Boden in der erfragten Form nicht vor. Um diese Daten zu ermitteln, wäre die Durchsicht und Auswertung von Akten zu tausenden Vorgängen von Fällungen bzw. geforderten Ersatzpflanzungen notwendig. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

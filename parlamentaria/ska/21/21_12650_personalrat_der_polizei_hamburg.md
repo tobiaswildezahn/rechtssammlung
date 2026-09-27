@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61963"
@@ -61,17 +62,17 @@ Die Freistellung erfolgt auf Grundlage des § 50 Absatz 2 HmbPersVG.
 
 Danach können im Einvernehmen mit der Dienststelle weitere Mitglieder des Personalrates von der dienstlichen Tätigkeit freigestellt werden, soweit es nach Art und Umfang der Dienststelle zur Wahrnehmung der Personalratsarbeit notwendig ist. Aus Sicht der Polizei ergeben sich im Unterschied zur allgemeinen Verwaltung vor allem folgende Unterschiede:
 
- Betreuung von Beschäftigten in vier Laufbahnzweigen (Kriminalpolizei, Schutzpoli-
+– Betreuung von Beschäftigten in vier Laufbahnzweigen (Kriminalpolizei, Schutzpoli-
 
 zei, Wasserschutzpolizei und Verwaltung – wobei sich der Zweig Verwaltung aus einer Vielzahl verschiedener Berufsgruppen zusammensetzt)
 
- Betreuung der Bediensteten an einer Vielzahl von Standorten im gesamten Stadt-
+– Betreuung der Bediensteten an einer Vielzahl von Standorten im gesamten Stadt-
 
 gebiet sowie am Standort Cuxhaven
 
- Vielzahl unterschiedlicher Dienstzeitregelungen
+– Vielzahl unterschiedlicher Dienstzeitregelungen
 
- Intensive Einsatzbegleitung
+– Intensive Einsatzbegleitung
 
 ### Frage 4
 

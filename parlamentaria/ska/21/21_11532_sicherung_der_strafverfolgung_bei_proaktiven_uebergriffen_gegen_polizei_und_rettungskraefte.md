@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3516", "21/11079"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60704"
@@ -61,7 +62,7 @@ Wie viele Fälle von proaktiven tätlichen Übergriffen gegen Polizeikräfte im 
 
 In wie vielen Fällen kam es dabei zu gefährlichen Körperverletzungen oder zu Verstößen gegen das Waffengesetz oder das Sprengstoffgesetz?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Polizei führt keine Statistik im Sinne der Fragestellungen. Zur Beantwortung wäre eine händische Auswertung mehrerer Hunderttausend Hand- und Ermittlungsakten erforderlich, dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Im Übrigen siehe Vorbemerkung.
 
@@ -125,7 +126,7 @@ Wie viele Anzeigen von angegriffenen Polizisten und wie viele von angegriffenen 
 
 Wie viele dieser Verfahren gegen Unbekannt wurden eingestellt und aus welchen Gründen? (Bitte um getrennte Darstellung der Jahre 2016 und 2017.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Für die Polizei siehe Antwort zu 1. und 2. sowie Vorbemerkung.
 

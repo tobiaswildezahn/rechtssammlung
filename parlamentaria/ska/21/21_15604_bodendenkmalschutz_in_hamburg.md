@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 22
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65100"
@@ -56,7 +57,7 @@ Wie viele Grundstückseigentümer wurden durch das Archäologische Museum angesc
 
 Wurden alle Eigentümer gesammelt Ende November 2018 angeschrieben? Wenn ja, warum wird der sich aus dem DSchG ergebenden Informationspflicht erst jetzt, also mehr als fünf Jahre nach Inkrafttreten der Neufassung, nachgekommen? Wenn nein, über welchen Zeitraum läuft das Verfahren bereits?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ja. Im November 2018 wurden insgesamt 8 322 im Grundbuch eingetragene Grundstückseigentümer, Miteigentümer oder Grundstücksverwalter angeschrieben, um auf der Basis einer aktualisierten Datenlage eine möglichst konkrete Information über die Erfassung ihrer Bodendenkmäler zu geben. Diesem Schreiben sind eine zeitaufwendige Bestandsüberprüfung der bis dato bekannten Bodendenkmäler und der Aufbau einer Datenbank vorausgegangen.
 

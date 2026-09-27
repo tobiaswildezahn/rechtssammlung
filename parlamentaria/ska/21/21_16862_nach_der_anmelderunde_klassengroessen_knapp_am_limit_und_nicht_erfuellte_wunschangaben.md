@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12589"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66419"
@@ -45,7 +46,7 @@ Laut Schulbehörde liegt die Durchschnittsgröße pro erster Klasse im Schuljahr
 
 An neun Stadtteilschulen wird laut Schulbehörde ebenfalls die Klassengröße von gesetzlich vorgeschrieben 23 Schülerinnen und Schülern überschritten; an vier Gymnasien werden Klassen über der Soll- Obergrenze von 28 Kindern gebildet. Welche Schulen mit jeweils wie vielen Klassen sind hiervon betroffen und wie hoch ist hier jeweils die Schülerzahl pro Klasse? Bitte jeweils auch die Zahl der Inklusionskinder in den betroffenen Klassen nennen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 
@@ -59,7 +60,7 @@ Wie oft wurde bei den künftigen Erstklässlern jeweils der Erst-, Zweitoder Dri
 
 Wie oft wurde bei den künftigen Fünftklässlern jeweils der Erst-, Zweitoder Drittwunsch erfüllt? In wie vielen Fällen konnte keine Wunschangabe berücksichtigt werden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Zur Erstwunscherfüllung siehe Anlagen 2 und 3. Im Rahmen der Schulplatzvergabe wird die Erfüllung von Zweit- und Drittwünschen statistisch nicht erfasst, siehe auch Drs. 21/12589.
 

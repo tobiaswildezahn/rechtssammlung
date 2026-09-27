@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 54451
 seiten: 2
 fragen: 5
-einzelfragen: 6
-antwortbloecke: 4
+einzelfragen: 8
+antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7785", "21/10110", "20/3591"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59533"
@@ -51,7 +52,7 @@ Welche Unterschriften und Zustimmungen stehen für diese Mietverträge im Einzel
 
 Welche offenen Punkte gibt es noch bezüglich der Mietvereinbarung für die HIBB-Tranche, sodass laut Drs. 21/10110 hieraus eventuell resultierende Effekte beim HIBB im ersten Halbjahr noch nicht berücksichtigt werden konnten?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Für die im Rahmen des ÖPP-Vertrags mit der HEOS Berufsschulen Hamburg GmbH & Co. KG zusammengefassten Objekte (sogenannte HIBB-Tranche, siehe Drs. 20/3591) sind die Grundzüge einer Mietvereinbarung festgelegt, die gebäudebezogenen Kostenmieten sowie eine Anlage zu Mit- und Drittnutzungsverhältnissen werden aber noch abschließend festgelegt.
 
@@ -66,12 +67,19 @@ Die unter 1. genannten Mietvereinbarungen sind grundsätzlich unbefristet. Sie k
 ### Frage 5
 
 Im Bereich der allgemeinbildenden Schulen liegen die im Einzelplan 3.1 im ersten Halbjahr 2017 in Drs. 21/10110 ausgewiesenen Mietkosten in den Produktgruppen 241.01 bis 241.04 nur bei rund 40 Prozent der Gesamtjahresansätze und insgesamt deutlich unter den beim Sondervermögen gebuchten Mieteinnahmen.
-5.1. Werden die Mietkosten für die Schulimmobilien im Halbjahresbericht des Einzelplans 3.1 sachgerecht abgegrenzt? Wenn nein, warum nicht?
 
-#### Antwort zu Frage 5
+### Frage 5.1
+
+Werden die Mietkosten für die Schulimmobilien im Halbjahresbericht des Einzelplans 3.1 sachgerecht abgegrenzt? Wenn nein, warum nicht?
+
+#### Antwort zu Fragen 5 und 5.1
 
 Grundsätzlich ja. Die Miete für den Monat Juni 2017 in Höhe von rund 25,6 Millionen Euro ist jedoch erst am 6. Juli gebucht worden.
 
-5.2. Warum wurden in den ersten sechs Monaten in den Produktgruppen 241.01, 241.02, 241.03, 241.04 deutlich weniger als 50 Prozent der Gesamtjahresansätze für die Mietkosten gebucht? In welcher Höhe bestanden zum 30.06.2017 im Einzelplan 3.1 nicht in der Ergebnisrechnung erfasste Verpflichtungen aus dem Mietvertrag mit dem Sondervermögen?
+### Frage 5.2
+
+Warum wurden in den ersten sechs Monaten in den Produktgruppen 241.01, 241.02, 241.03, 241.04 deutlich weniger als 50 Prozent der Gesamtjahresansätze für die Mietkosten gebucht? In welcher Höhe bestanden zum 30.06.2017 im Einzelplan 3.1 nicht in der Ergebnisrechnung erfasste Verpflichtungen aus dem Mietvertrag mit dem Sondervermögen?
+
+#### Antwort zu Frage 5.2
 
 Siehe Antwort zu 5.1. Darüber hinaus bestanden keine Verpflichtungen aus dem Mietvertrag mit dem Sondervermögen.

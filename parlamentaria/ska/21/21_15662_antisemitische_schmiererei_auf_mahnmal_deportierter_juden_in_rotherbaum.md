@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65164"
@@ -43,7 +44,7 @@ Was ist dem Senat über die „Amal-Bewegung“ bekannt?
 
 Sind dem Senat Aktivitäten der „Amal-Bewegung“ in Hamburg bekannt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die „Amal-Bewegung“ ist eine 1975 im Libanon gegründete sozialkonservative und populistische Partei, die seit 1990 kontinuierlich im dortigen Parlament vertreten ist. Sie ist dem schiitischen Islamismus zuzuordnen. Von ihr spaltete sich 1982 die libanesische Hizb-Allah ab.
 
@@ -63,7 +64,7 @@ Welche polizeilichen Maßnahmen wurden ergriffen und wann?
 
 Gibt es neue Erkenntnisse zum Tathergang und zum Täter?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der Senat sieht von der Beantwortung dieser Fragen ab, da die Fragestellungen Gegenstand von laufenden Ermittlungsverfahren sind und eine Beantwortung den Untersuchungszweck gefährden könnte.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61055"
@@ -51,7 +52,7 @@ Wurden die unter 1. genannten Bereiche in den Jahren 2016 bis 2018 systematisch 
 
 Wie hoch waren die Kosten für die vorgenannten Untersuchungen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Eine systematische und flächendeckende Sondierung fand in den Jahren 2016 bis 2018 nicht statt, da das Gelände größtenteils bebaut ist. Kosten sind somit nicht entstanden.
 

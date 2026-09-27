@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 61561
 seiten: 2
 fragen: 5
-einzelfragen: 7
-antwortbloecke: 4
+einzelfragen: 9
+antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67482"
@@ -47,7 +48,7 @@ Warum werden keine Jahresabschlüsse und Lageberichte der HHVA veröffentlicht?
 
 Warum hat die HGV in den letzten Jahren jeweils der Befreiung der HHVA von der Pflicht zur Offenlegung von Jahresabschluss und Lagebericht zugestimmt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Auf der Grundlage von § 264 (3) HGB wird im Rahmen der sogenannten Offenlegungserleichterung gehandelt, um Kosten bei der HHVA für den Jahresabschluss zu sparen. Im Übrigen siehe Antwort zu 4.
 
@@ -74,16 +75,27 @@ Weiterführende Informationen können insbesondere dem jährlichen Beteiligungsb
 ### Frage 5
 
 Gemäß einer aktuellen Ausschreibung plant die HHVA den Neubau ihrer Firmenzentrale. Darin heißt es, dass das zur Verfügung stehende Budget ohne Grunderwerbs- und Notarkosten 29 Millionen Euro netto beträgt.
-5.1. Wer entscheidet über die Umsetzung einer baulichen Investitionsmaßnahme bei der HHVA in dieser Größenordnung?
 
-#### Antwort zu Frage 5
+### Frage 5.1
+
+Wer entscheidet über die Umsetzung einer baulichen Investitionsmaßnahme bei der HHVA in dieser Größenordnung?
+
+#### Antwort zu Fragen 5 und 5.1
 
 Gemäß des Gesellschaftsvertrags beziehungsweise der Geschäftsanweisung für die Geschäftsführung der HHVA beschließt der Aufsichtsrat den Wirtschaftsplan und damit grundsätzlich auch die von der Gesellschaft geplanten Investitionen. Darüber hinaus gibt es einen Zustimmungsvorbehalt des Aufsichtsrates im Zusammenhang mit Grundstücksgeschäften (zustimmungsbedürftiges Geschäft).
 
-5.2. Wer hat das genannte zur Verfügung stehende Budget beschlossen?
+### Frage 5.2
+
+Wer hat das genannte zur Verfügung stehende Budget beschlossen?
+
+#### Antwort zu Frage 5.2
 
 Die HHVA hat in Absprache mit dem Aufsichtsrat Recherchen durchgeführt und Berater eingebunden, um das Budget zu verifizieren. Vorbereitende Planungsmittel wurden mit Zustimmung des Aufsichtsrates mit dem Wirtschaftsplan 2019 eingeworben. Auf der Grundlage einer fortlaufenden Unterrichtung des Aufsichtsrats zum Projekt ist aus Zeitgründen inzwischen die Ausschreibung erfolgt. Eine abschließende Vergabeentscheidung steht unter dem Vorbehalt der entsprechenden Mittelbereitstellung im Wirtschaftsplan durch den Aufsichtsrat, die gegebenenfalls zeitnah beantragt werden wird.
 
-5.3. Wie soll diese Investition finanziert werden?
+### Frage 5.3
+
+Wie soll diese Investition finanziert werden?
+
+#### Antwort zu Frage 5.3
 
 Die Investition soll mit Eigenmitteln der Gesellschaft finanziert werden.

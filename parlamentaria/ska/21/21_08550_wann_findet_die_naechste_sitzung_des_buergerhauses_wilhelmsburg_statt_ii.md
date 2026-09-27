@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 3
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7934"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57274"
@@ -47,6 +48,6 @@ Hat der Stiftungsrat des Bürgerhauses Wilhelmsburg bereits zu dieser Frage geta
 
 Falls nein, wann wird der Stiftungsrat Bürgerhaus Wilhelmsburg eine Sitzung einberufen, auf der diese Frage behandelt wird?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Stiftungsrat hat am 28. Februar 2017 getagt und folgende Kriterien für die Raumvergabe beschlossen: „Bei der Vermietung/Vergabe von Räumen des Bürgerhauses zur Nutzung durch Dritte ist sicherzustellen, dass keine Störung des sonstigen Betriebes im Bürgerhaus zu erwarten ist, die fachliche Alltagsarbeit durch die Raumnutzung und/oder deren Inhalte sowie der Ruf der Stiftung Bürgerhaus Wilhelmsburg nicht beeinträchtigt werden. Die Prüfung dieser Kriterien in jedem Einzelfall einer Miet- oder Nutzungsanfrage obliegt der zuständigen Fachleitung, die nach fachlichem Ermessen den Vorstand und/oder das Team des Bürgerhauses hinzuzieht. Der Vorstand kann Entscheidungen anlassbezogen an den Stiftungsrat verweisen. Der Stiftungsrat kann Raumvergaben z.B. an bestimmte Organisationen zur Grundsatzfrage erklären und damit die alleinige Entscheidungsbefugnis im jeweiligen Einzelfall ausüben.“

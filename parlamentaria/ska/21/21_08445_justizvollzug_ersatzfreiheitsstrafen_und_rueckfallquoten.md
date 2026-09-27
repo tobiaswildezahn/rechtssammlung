@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8377"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57158"
@@ -51,7 +52,7 @@ Wie hoch sind die Rückfallraten nach Delikten ohne Bewährung von erwachsenen I
 
 Wie hoch sind die Rückfallraten nach Delikten von zur Bewährung ausgesetzten Straftaten erwachsener Straftäter in den Jahren 2014 bis 2017 (bitte nach Alter über 21 Jahren, über 30 Jahren, über 40 Jahren und über 50 Jahren und Delikten darstellen)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/8377.
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 23
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62438"
@@ -43,7 +44,7 @@ Welchen Abgeordneten wurden gemäß derzeitigem Erkenntnisstand Konzertkarten an
 
 Welche 13 Abgeordneten haben gemäß derzeitigem Erkenntnisstand Karten angenommen? Bitte nach Partei, Amt und Art der Karte aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat sieht mit Blick auf das laufende staatsanwaltschaftliche Ermittlungsverfahren von einer Beantwortung ab.
 

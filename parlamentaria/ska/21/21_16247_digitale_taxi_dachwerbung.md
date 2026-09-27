@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 21
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65762"
@@ -142,7 +143,7 @@ Gab es seit entsprechender Zulassung beziehungsweise im Versuchszeitraum für di
 
 Gab es in dem Versuchszeitraum oder danach Anzeigen von Verkehrsteilnehmern, die sich durch die digitale Dachwerbung eingeschränkt oder unsicher fühlten? Gab es Anzeigen gegen die beleuchtete Dachwerbung im Allgemeinen? Wenn ja, jeweils wie viele und auf welcher Rechtsgrundlage? (Bitte einzeln aufführen.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der zuständigen Behörde sind im Rahmen des Testverfahrens keine entsprechenden Vorkommnisse oder Anzeigen bekannt geworden.
 

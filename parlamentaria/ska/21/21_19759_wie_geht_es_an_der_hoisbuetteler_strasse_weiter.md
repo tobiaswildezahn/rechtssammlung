@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17285"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69483"
@@ -43,7 +44,7 @@ Welche konkreten Aufgabenstellungen wurden, nach Ankündigung des Finanzsenators
 
 Liegen bereits Rückmeldungen aus den einzelnen Behörden vor? Wenn ja, welche? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Beantwortung des Bürgerschaftlichen Ersuchens aus Drs. 21/17285 ist derzeit in Vorbereitung.
 

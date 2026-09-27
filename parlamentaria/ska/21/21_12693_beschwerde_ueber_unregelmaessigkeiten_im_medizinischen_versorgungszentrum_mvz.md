@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12263"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61997"
@@ -53,7 +54,7 @@ Hat der Senat Kenntnis von der Beschäftigung von Ärzten ohne deutsche Approbat
 
 Unter welchen Voraussetzungen darf medizinisches Personal ohne deutsche Approbation – insofern eine Approbation gesetzlich vorgeschrieben ist – in deutschen Kliniken oder Medizinischen Versorgungszentren eingesetzt werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Voraussetzung für eine ärztliche Tätigkeit in Deutschland ist das Vorliegen einer Approbation nach § 3 Bundesärzteordnung (BÄO) oder einer Berufserlaubnis nach § 10 BÄO. Nach § 10 BÄO kann für eine eingeschränkte ärztliche Tätigkeit eine Berufserlaubnis unter der Voraussetzung erteilt werden, dass die Antragstellenden im Ausbildungsland die ärztliche Ausbildung erfolgreich absolviert haben, dort zur Ausübung des ärztlichen Berufes berechtigt sind und zudem die weiteren Voraussetzungen nach § 3 Absatz 1 BÄO (Sprachkenntnisse, strafrechtliche Unbescholtenheit, gesundheitliche Eignung) erfüllen. Dies bedeutet, dass die Erlaubnisinhaber unter Aufsicht und Verantwortung eines approbierten Berufsangehörigen in nicht selbständiger und nicht
 

@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 24
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1506"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59030"
@@ -71,7 +72,7 @@ Wie hat sich der Zeitraum (in Tagen), der zwischen der Mängelmeldung durch den 
 
 Wie hat sich der Zeitraum (in Tagen), der zwischen der Mängelmeldung durch den Bürger und der ersten Rückmeldung des Telefonischen HamburgServices an den Bürger vergeht, seit der Inbetriebnahme des Portals entwickelt? Bitte die Jahresdurchschnittswerte seit 2014 angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Gemäß dem Serviceangebot des Melde-Michels prüft der Telefonische HamburgService die Veröffentlichung der Meldung innerhalb von zwei Arbeitstagen. Die Einhaltung dieser Kennzahl wird seit Oktober 2015 kontrolliert und regelmäßig erreicht. Sobald der Telefonische HamburgService die Meldung geprüft und zur Bearbeitung an das Bezirksamt beziehungsweise Betrieb freigegeben hat, wird die Meldung automatisch an die zuständige Stelle weitergeleitet und auf der öffentlichen Plattform angezeigt. Der Zeitraum bis zur Veröffentlichung wird nicht gesondert statistisch erfasst. Eine Rückmeldung an die Bürgerin beziehungsweise den Bürger kann nur erfolgen, wenn eine E-Mail-Adresse angegeben wurde.
 

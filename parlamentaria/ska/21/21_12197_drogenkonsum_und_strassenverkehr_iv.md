@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 6
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10956", "21/7374"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61469"
@@ -157,7 +158,7 @@ Welche Geldbußen wurden diebsbezüglich durchschnittlich und innerhalb welcher 
 
 In wie vielen Fällen wurden 2017 sowie bis zum Stichtag 28. Februar 2018 zusätzlich Fahrverbote verhängt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Bußgeldregelsätze und Fahrverbote bei Verstößen von Kraftfahrzeugführern unter der Wirkung von Alkohol und berauschenden Mitteln nach § 24 a StVG sind in der bundeseinheitlichen Bußgeldkatalog-Verordnung (BKatV) geregelt. Die Höhe der Geldbußen, Fahrverbote sowie Fallzahlen ist den nachfolgenden Tabellen zu entnehmen.
 

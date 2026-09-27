@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7638", "21/5325"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57294"
@@ -116,7 +117,7 @@ Wie viele Straftaten wurden insgesamt festgestellt? Bitte nach Deliktsgruppen an
 
 Wie viele Straftaten in den Deliktsgruppen, die zur Ausweisung des jeweiligen „gefährlichen Ortes“ geführt haben, wurden festgestellt? Bitte nach Deliktsgruppen an den jeweiligen „gefährlichen Orten“ sowie nach den in Ziffer 2. genannten Zeiträumen differenzieren.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die statistische Erfassung von Straftaten erfolgt bei der Polizei nach Abschluss der kriminalpolizeilichen Ermittlungen und Abgabe des Vorgangs an die Staatsanwaltschaft in der bundeseinheilt geführten Polizeilichen Kriminalstatistik (PKS). Die räumliche Erfassung in der PKS erfolgt in der kleinsten Einheit nach Ortsteilen; Straßen werden als Tatort in der PKS nicht gesondert erfasst. Eine örtlich „gefährlichen Orten“ zuzuordnende Auswertung ist in der PKS daher nicht möglich.
 

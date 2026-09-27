@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60122"
@@ -81,15 +82,15 @@ Liegen Gutachten für die Sinnhaftigkeit der Maßnahme vor?
 
 Die Straße Bellevue ist Bestandteil des Projekts „Alster Fahrradachsen“, dessen Ziel eine Verbesserung der Radverkehrsstrecken entlang der Außenalster ist. Dem Gesamtprojekt liegen Untersuchungen zugrunde, die zahlreiche Defizite im Bestand aufweisen. In der Straße Bellevue sind dies insbesondere
 
- der für Zweirichtungsradverkehr viel zu schmale und aufgrund der Platzverhältnis-
+– der für Zweirichtungsradverkehr viel zu schmale und aufgrund der Platzverhältnis-
 
 se nicht verbreiterungsfähige Radweg,
 
- der schlechte bauliche Zustand des Radwegs, der aufgrund der Lage direkt neben
+– der schlechte bauliche Zustand des Radwegs, der aufgrund der Lage direkt neben
 
 den Bäumen und der Baumwurzeln nicht behebbar ist,
 
- Konflikte zwischen Rad- und Fußverkehr aufgrund der Ausweichmanöver, die auf
+– Konflikte zwischen Rad- und Fußverkehr aufgrund der Ausweichmanöver, die auf
 
 Grund der beiden ersten Punkte erfolgen.
 

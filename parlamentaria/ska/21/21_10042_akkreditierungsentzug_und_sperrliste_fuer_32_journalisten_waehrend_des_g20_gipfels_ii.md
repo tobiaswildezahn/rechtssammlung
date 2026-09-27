@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 12
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9947", "18/13033", "18/13146"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58857"
@@ -55,7 +56,7 @@ Hat die Polizei beziehungsweise Innenbehörde mittlerweile den Fragenkatalog des
 
 Wurden Dienststellen der Freien und Hansestadt Hamburg beziehungsweise dem HmbBfDI zwischenzeitlich weitere Informationen zum Sachverhalt oder „Antwortbeiträge“ durch das Bundesministerium des Innern (BMI), das Bundeskriminalamt (BKA) oder die Bundesbeauftragte für Datenschutz und Informationsfreiheit (BfDI) zugeliefert? a. Wenn ja, jeweils wann? Welche Informationen und Antwortbeiträge hinsichtlich der Sperrliste beziehungsweise der Rücknahme der Akkreditierung von 82 Personen wurden zugeliefert? Welche zusätzlichen Erkenntnisse ergeben sich hieraus insbesondere für die in den Fragenblöcken 2. bis 4. der Drs. 21/9947 erfragten Sachverhalte? b. Wenn nein, warum nicht? Mit welcher Begründung wurden diese durch jeweils wen abgelehnt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das BKA hat dem Justiziariat der Polizei am 28. Juli 2017 eine Antwort (ein Schreiben mit Datum vom 27. Juli 2017) zum Fragenkatalog des HmbBfDI übermittelt; darüber hinaus sind keine Informationen im Sinne der Fragestellung bei der Polizei eingegangen. Die Polizei hat unter Verwendung dieser Informationen zum 1. August 2017 dem Hamburgischen Beauftragten für Datenschutz und Informationsfreiheit ein Antwortschreiben übersandt.
 

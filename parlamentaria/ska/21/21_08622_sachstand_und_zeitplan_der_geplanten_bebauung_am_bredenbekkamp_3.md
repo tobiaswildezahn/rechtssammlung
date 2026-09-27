@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 52479
 seiten: 3
 fragen: 8
-einzelfragen: 9
-antwortbloecke: 8
+einzelfragen: 14
+antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2373"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57342"
@@ -54,13 +55,20 @@ Im Rahmen der Ausarbeitung des Bebauungsplanentwurfes erfolgen derzeit Vorabstim
 ### Frage 3
 
 Gemäß Angaben in Drs. 21/2373 wurde die Fläche an den Vorhabenträger bis zum 30.06.2017 anhand gegeben.
-3.1. Ist eine Verlängerung der Anhandgabe geplant oder beabsichtigt?
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+Ist eine Verlängerung der Anhandgabe geplant oder beabsichtigt?
+
+#### Antwort zu Fragen 3 und 3.1
 
 Ja.
 
-3.2. Wann wird mit einem Verkauf des Grundstücks gerechnet?
+### Frage 3.2
+
+Wann wird mit einem Verkauf des Grundstücks gerechnet?
+
+#### Antwort zu Frage 3.2
 
 Dies ist im Rahmen des Anhandgabeverfahrens zu klären.
 
@@ -75,47 +83,57 @@ Der städtebauliche Vertrag soll vor der öffentlichen Auslegung des Bebauungspl
 ### Frage 5
 
 Gemäß Angaben in Drs. 21/2373 waren für das Bebauungsplanverfahren Wohldorf-Ohlstedt 19 mehrere Gutachten erforderlich.
-5.1. Welche Gutachten liegen jeweils seit wann mit welchen wesentlichen Ergebnissen vor?
 
-#### Antwort zu Frage 5
+### Frage 5.1
 
- Städtebaulich-landschaftsplanerisches Gutachten mit verkehrlichem Beitrag –
+Welche Gutachten liegen jeweils seit wann mit welchen wesentlichen Ergebnissen vor?
+
+#### Antwort zu Fragen 5 und 5.1
+
+– Städtebaulich-landschaftsplanerisches Gutachten mit verkehrlichem Beitrag –
 
 Wohnungsbau am Bredenbekkamp Juni 2014 Ergebnis: städtebaulich-landschaftsplanerisches Konzept als Grundlage für das nachfolgende Bebauungsplanverfahren
 
- Verkehrstechnische Untersuchung für eine Wohnbebauung Bredenbekkamp,
+– Verkehrstechnische Untersuchung für eine Wohnbebauung Bredenbekkamp,
 
 Hamburg, Wandsbek November 2012 Ergebnis: Empfehlungen für die Erschließung der geplanten Wohnbebauung
 
- Bericht über die naturschutzfachlichen Erhebungen und Potenzialabschätzungen
+– Bericht über die naturschutzfachlichen Erhebungen und Potenzialabschätzungen
 
 im Erschließungsgebiet Bredenbekkamp Juni 2015 Ergebnis: Artenschutzrechtliche Belange stehen den Vorhaben nicht grundsätzlich entgegen
 
- Baumerfassung und -bewertung Juli 2016 Ergebnis: Darstellung der Bestandsbäume und Bewertung ihres Erhaltungszustandes
+– Baumerfassung und -bewertung Juli 2016 Ergebnis: Darstellung der Bestandsbäume und Bewertung ihres Erhaltungszustandes
 
-5.2. Wurden die Gutachten jeweils im Transparenzportal der Freien und Hansestadt Hamburg veröffentlicht?
+### Frage 5.2
 
-Wenn ja, wann?
-
+Wurden die Gutachten jeweils im Transparenzportal der Freien und  
+Hansestadt Hamburg veröffentlicht?  
+Wenn ja, wann?  
 Wenn nein, warum nicht?
+
+#### Antwort zu Frage 5.2
 
 Das städtebaulich-landschaftsplanerische Gutachten mit verkehrlichem Beitrag und die Verkehrstechnische Untersuchung wurden 2014 im Transparenzportal veröffentlicht. Die weiteren vorliegenden Gutachten befinden sich im Veröffentlichungsprozess.
 
-5.3. Welche Gutachten liegen noch nicht vor?
+### Frage 5.3
+
+Welche Gutachten liegen noch nicht vor?
+
+#### Antwort zu Frage 5.3
 
 Folgende Gutachten befinden sich noch in der Bearbeitung:
 
- Schalltechnische Untersuchung
+– Schalltechnische Untersuchung
 
- Landschaftsplanerische Grundlagenerfassung und -bewertung mit naturschutz-
+– Landschaftsplanerische Grundlagenerfassung und -bewertung mit naturschutz-
 
 fachlicher Eingriffs-Ausgleichs-Bilanzierung
 
- Erschließungskonzept
+– Erschließungskonzept
 
- Entwässerungskonzept
+– Entwässerungskonzept
 
- Untersuchungen zum Baugrund und zur Hydrologie
+– Untersuchungen zum Baugrund und zur Hydrologie
 
 ### Frage 6
 

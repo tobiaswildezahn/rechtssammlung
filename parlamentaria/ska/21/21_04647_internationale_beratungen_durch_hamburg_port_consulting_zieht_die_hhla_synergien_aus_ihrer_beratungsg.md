@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53068"
@@ -49,7 +50,7 @@ In welchen Geschäftsfeldern ist HPC weltweit tätig und welchen Geschäftsantei
 
 An welchen Standorten berät HPC derzeit in jeweils welchen Geschäftsfeldern?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Aus den Geschäftsberichten der HHLA der Jahre 2010 bis 2015 geht hervor, dass Hamburg Port Consulting (HPC) in der Hafenberatung weltweit an wegweisenden Entwicklungsprojekten arbeitet und die Kompetenz der HHLA bei Infrastruktur- und Projektentwicklungen vermarktet. Dazu gehörten unter anderem Projekte zur besseren Schienen-Hinterlandanbindung von Containerterminals in Nordamerika und zur Automatisierung von Containerterminals in Kolumbien. Im Übrigen siehe Vorbemerkung.
 

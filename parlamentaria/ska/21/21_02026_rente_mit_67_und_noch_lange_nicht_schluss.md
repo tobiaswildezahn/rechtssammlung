@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 18
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50274"
@@ -47,11 +48,11 @@ Welche Möglichkeiten gibt es für Beamte und Richter, den Eintritt in den Ruhes
 
 Für Beamtinnen und Beamte kann der automatische Eintritt in den Ruhestand mit Erreichen der Altersgrenze (§ 25 Beamtenstatusgesetz) nach § 35 Absatz 4 des Hamburgischen Beamtengesetzes (HmbBG)
 
- aus dienstlichen Gründen mit Zustimmung der Beamtin beziehungsweise des
+– aus dienstlichen Gründen mit Zustimmung der Beamtin beziehungsweise des
 
 Beamten (§ 35 Absatz 4 Nummer 1 HmbBG) oder
 
- auf Antrag der Beamtin beziehungsweise des Beamten, wenn dies im dienstlichen
+– auf Antrag der Beamtin beziehungsweise des Beamten, wenn dies im dienstlichen
 
 Interesse liegt (§ 35 Absatz 4 Nummer 2 HmbBG),
 

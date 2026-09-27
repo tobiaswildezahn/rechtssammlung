@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10994"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52005"
@@ -47,7 +48,7 @@ Wie bewerten der Senat und die zuständige Behörde die durch den Verein Allerle
 
 Inwieweit weicht diese Dunkelziffer von den Annahmen zu einer Dunkelziffer der zuständigen Behörden ab?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Dem Senat und den zuständigen Behörden ist nicht bekannt, aus welchen Quellen die vom Verein angenommene Dunkelziffer hergeleitet wird. Empirische Daten, aus denen die Häufigkeit von sexueller Gewalt an Kindern und Jugendlichen in Hamburg abgeleitet werden könnten, sind in Bezug auf das Dunkelfeld nicht vorhanden. Dies wird gestützt durch die aktuelle Expertise des Unabhängigen Beauftragten für Fragen des sexuellen Kindesmissbrauchs, die zu dem Ergebnis kommt, dass es in Deutschland an validen Zahlen zur Häufigkeit von sexuellem Missbrauch fehlt. Die Expertise weist zudem darauf hin, dass der Vergleich der vorliegenden Hell- und Dunkelfeldstudien aufgrund unterschiedlicher Definitionen und Studiendesigns sowie zum Teil deutlich abweichender Daten zur Häufigkeit kaum möglich ist (siehe https://beauftragtermissbrauch.de/presse-service/hintergrundmaterialien/).
 

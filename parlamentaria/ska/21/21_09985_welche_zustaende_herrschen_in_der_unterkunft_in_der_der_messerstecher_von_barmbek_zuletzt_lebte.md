@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 32
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9342", "21/7387", "21/9389", "21/8751", "21/5039", "21/9440", "21/2196"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58808"
@@ -47,7 +48,7 @@ In welcher Unterkunft war der Attentäter von Barmbek untergebracht?
 
 Seit wann lebte er dort?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Herr A. war seit dem 15. Oktober 2015 in der Unterkunft Kiwittsmoor in Langenhorn untergebracht.
 
@@ -67,7 +68,7 @@ Gab es Pläne, die noch auf der Rechtsgrundlage der Generalklausel des Gesetzes 
 
 Warum ist jetzt erst von Schließung Ende 2018 die Rede? Warum wird diese Unterkunft nicht zeitnah wie alle anderen Einrichtungen auf P+R- Parkplätzen geschlossen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 In Drs. 21/7387 wurde für die öffentlich-rechtliche Unterbringung (örU) Kiwittsmoor kein Schließungsdatum genannt. Die Schließungsplanung wurde erstmals in Drs. 21/9389 für das Ende des Jahres 2018 konkretisiert. Der Standort, der im Oktober 2015 in Betrieb genommen wurde, wird zur Unterbringung von Überresidenten aus Erstaufnahmeeinrichtungen bis zur Fertigstellung weiterer Unterkünfte, unter anderem
 
@@ -113,7 +114,7 @@ Wann wurde wem vom Personal in der Unterkunft bewusst, dass eine Radikalisierung
 
 Was wurde vonseiten der Unterkunft unternommen, um der Radikalisierung Einhalt zu gebieten? Wer wurde wann mit welchem Ziel zur Unterstützung kontaktiert (Sicherheitsbehörden, Beratungsstellen)?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Veränderungen im Verhalten und im Aussehen von Herrn A. (unter anderem deutliche Hinwendung zu religiösen Themen und Tragen von weißen Gewändern) hat das Unterkunftsmanagement erstmals Anfang März 2016 wahrgenommen und waren Anlass für Gespräche mit ihm im Laufe des Monats. Ende März wandte sich das Unterkunftsmanagement von f & w an die Beratungsstelle Legato – Systematische Ausstiegsberatung – Fachstelle für religiös begründete Radikalisierung. Ab dem 31. März 2016 kam es zu Beratungsgesprächen zwischen Legato und dem Team der Unterkunft und in der Folgezeit zu Kontakten zwischen Legato und Herrn A. Im Juni des Jahres fand ein Gespräch zwischen dem Landeskriminalamt (LKA) und dem Unterkunftsmanagement von f & w statt. Die Situation von Herrn A. wurde jedoch als normalisiert eingeschätzt. Nach Hinweisen einer Nachbarsfamilie wurden im November erneut Gespräche mit Legato geführt. Nach gemeinsamen Gesprächen zwischen Legato und dem Unterkunftsmanagement von f & w am 1. Dezember 2016 wurde am
 16. Dezember 2016 erneut das LKA kontaktiert. Konkrete Hinweise auf Eigen- oder Fremdgefährdung gab es nicht. Herr A. verhielt sich in der Folgezeit wieder unauffällig.

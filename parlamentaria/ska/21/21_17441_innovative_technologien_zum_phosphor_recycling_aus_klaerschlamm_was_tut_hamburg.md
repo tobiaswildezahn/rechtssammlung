@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17365"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67042"
@@ -77,7 +78,7 @@ Wie viele solcher Verfahren haben sich als ungenügend erwiesen, wie viele haben
 
 Wie viele dieser Verfahren wurden von privaten Unternehmen beziehungsweise staatlichen Institutionen entwickelt? Bitte jeweils den Namen der Unternehmen/Institutionen sowie die bereitgestellte Technologie nennen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Derzeit sind zahlreiche Verfahren zur Phosphorrückgewinnung entweder aus dem Klärschlamm oder der Klärschlammasche in Entwicklung. Die bekannten Verfahren zur Phosphorrückgewinnung sind in dem Abschlussbericht des Umweltbundesamtes veröffentlicht: https://www.umweltbundesamt.de/publikationen/oekobilanziellervergleich-der-p-rueckgewinnung-aus.
 
@@ -155,6 +156,6 @@ Welche Labore sind in Hamburg für die Bestimmung des Schadstoffgehalts in Luft 
 
 Bei welchen von ihnen handelt es um private Unternehmen beziehungsweise staatliche Einrichtungen?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Labore besitzen keine rechtliche Zuständigkeit für Luft- oder Bodenuntersuchungen. Die zuständigen Behörden geben auf Antrag Untersuchungsstellen bekannt, die bestimmte Anforderungen für umweltrechtlich geregelte Bereiche erfüllen. Die notifizierten Untersuchungsstellen sind auf www.resymesa.de veröffentlicht und werden von den Untersuchungspflichtigen nach eigenem Ermessen beauftragt. Bei den notifizierten Untersuchungsstellen handelt es sich in der Regel um private Unternehmen.

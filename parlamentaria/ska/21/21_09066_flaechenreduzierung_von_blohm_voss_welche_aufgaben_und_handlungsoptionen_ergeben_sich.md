@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 23
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57830"
@@ -57,7 +58,7 @@ Seit wann ist dem Senat bekannt, dass Blohm+Voss die Fläche des Werftgeländes 
 
 Um wie viele Quadratmeter soll die Fläche des Werftgeländes von Blohm+Voss verkleinert werden? Wann genau soll die Fläche der Werft verkleinert werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 
@@ -95,7 +96,7 @@ Wann beabsichtigt Blohm+Voss die Flächen an die Freie und Hansestadt Hamburg/HP
 
 In welchem Zustand sollen welche Teile der Flächen an die Freie und Hansestadt Hamburg/HPA zurückgegeben werden? Welche Flächenteile der Werft kommen für jeweils welche Folgenutzung in Betracht (bitte begründen)?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Dies ist nicht bekannt. Im Übrigen siehe Vorbemerkung.
 
@@ -115,7 +116,7 @@ Gibt es Unternehmen, denen eine Zwischennutzung beziehungsweise Nutzung von Flä
 
 Gibt es Unternehmen, die Interesse an den Flächen von Blohm+Voss haben? Wenn ja, welche sind dies und inwieweit haben der Senat beziehungsweise die HPA Kenntnis von diesem Interesse?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 HPA hat bislang weder anderen Unternehmen die Flächen zur Zwischennutzung angeboten noch entsprechende Anfragen erhalten.
 

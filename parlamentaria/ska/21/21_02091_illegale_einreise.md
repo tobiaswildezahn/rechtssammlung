@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50331"
@@ -46,7 +47,7 @@ Die vertragschließenden Staaten werden wegen unrechtmäßiger Einreise oder Auf
 Die vertragschließenden Staaten werden den Flüchtlingen beim Wechsel des Aufenthaltsorts keine Beschränkungen auferlegen, außer denen, die notwendig sind; diese Beschränkungen werden jedoch nur solange Anwendung finden, bis die Rechtsstellung dieser Flüchtlinge im Aufnahmeland geregelt oder es ihnen gelungen ist, in einem anderen Land Aufnahme zu erhalten. Die vertragschließenden Staaten werden diesen Flüchtlingen eine angemessene Frist sowie alle notwendigen Erleichterungen zur Aufnahme in einem anderen Land gewähren. Vor diesem Hintergrund frage ich den Senat:
 1. Wie viele Fälle illegaler Einreise wurden in den letzten Jahren in Hamburg festgestellt? Bitte ab 2010 pro Jahr und für 2015 pro Quartal angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In der nachfolgend aufgeführten Anzahl von der Staatsanwaltschaft Hamburg eingeleiteten Ermittlungsverfahren wurde als Vorwurf ein Delikt gemäß § 95 Absatz 1 Nummer 3 Aufenthaltsgesetz in dem Vorgangserfassungs- und Bearbeitungssystem der Staatsanwaltschaft MESTA notiert:
 

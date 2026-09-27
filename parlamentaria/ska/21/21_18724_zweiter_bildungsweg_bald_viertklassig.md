@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 18
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68401"
@@ -147,7 +148,7 @@ Aus welchen fachlichen und sachlichen Gründen wird dieses Vorhaben nicht im Sch
 
 Der Senator sprach im Zusammenhang mit dem veröffentlichten Entwurf des Schulentwicklungsplanes von einer demokratischen Schulpolitik in Hamburg, zu welcher auch die Schulgemeinschaften befragt und Einwände berücksichtigt werden würden. Ist es richtig, dass in Bezug auf die angedachten Fusionierungspläne lediglich die drei Schulleitungen in Kenntnis gesetzt wurden und diesen nicht gestattet wurde, das Strategiepapier zur Fusionierung an die Kollegien weiterzuleiten? Wenn dem so ist, teilt der Senat beziehungsweise die zuständige Behörde die Einschätzung, dass die betreffenden Kollegien in die Vorgänge nicht eingebunden sind und keine Möglichkeit zur Partizipation hatten? (Bitte detailliert Stellung beziehen.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 3. bis 5.
 
@@ -159,7 +160,7 @@ Aus welchen Gründen wurde bis jetzt eine Einbindung der Schulgemeinschaften in 
 
 Aus welchen Gründen wird eine Einsicht in das existierende Strategiepapier nicht gegeben? (Bitte detailliert ausführen und das Strategiepapier anhängen.)
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Leitungen der Abendschulen und des Hansa-Kollegs haben gemeinsam mit der zuständigen Schulaufsicht der für Bildung zuständigen Behörde in einer Arbeitsgruppe eine Standortbestimmung der Angebote des zweiten Bildungswegs vorgenommen und Ideen für eine Weiterentwicklung vorgeschlagen. Die dabei entstandenen Arbeitspapiere haben nicht den Charakter eines Strategiepapiers der für Bildung zuständigen Behörde. Sie bilden eine erste Grundlage für einen noch aufzulegenden Arbeitsprozess. Die internen Überlegungen sind noch nicht abgeschlossen.
 
@@ -179,7 +180,7 @@ Welche Einsparungen erwartet der Senat beziehungsweise die zuständige Behörde 
 
 Gibt es Pläne des Senats das eingesparte Geld an anderer Stelle im Haushalt der zuständigen Behörde einzusetzen?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Antwort zu 3. bis 5.
 

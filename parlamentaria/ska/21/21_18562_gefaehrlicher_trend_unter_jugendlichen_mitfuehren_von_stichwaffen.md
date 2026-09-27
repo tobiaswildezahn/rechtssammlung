@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68266"
@@ -85,7 +86,7 @@ Hat die zuständige Behörde Erkenntnisse darüber, wie viele Stichwaffen seit 2
 
 Hat die zuständige Behörde Erkenntnisse darüber, wie viele Jugendliche Messer in ihrem Alltag mitführen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Statistiken im Sinne der Fragestellungen werden bei der Polizei nicht geführt. Zur Beantwortung wäre eine Durchsicht aller Hand- und Ermittlungsakten des erfragten Zeitraums bei der Polizei erforderlich. Die Auswertung von mehreren Hunderttausend Akten ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Bei der Behörde für Schule und Berufsbildung werden entsprechende Daten nicht erfasst und können daher auch rückwirkend nicht ausgewertet werden.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12310", "21/11139"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60957"
@@ -98,27 +99,27 @@ Mit dem Abschluss der Abwendungsvereinbarungen sind Regelungen zu den folgenden 
 St.  
 Georg
 
-• Umwandlung des Gebäudes  
-• Kündigungsschutz für bestehende Mietverhältnisse  
-• Bauliche Änderungen und Nutzungsänderungen  
+– Umwandlung des Gebäudes  
+– Kündigungsschutz für bestehende Mietverhältnisse  
+– Bauliche Änderungen und Nutzungsänderungen  
 St.  
 Pauli
 
-• Umwandlung des Gebäudes  
-• Verfahren und Herstellungsfrist  
-• Abbruch und Neubau, bauliche Änderungen und Nutzungsänderungen  
-• Kündigungsschutz für bestehende Mietverhältnisse  
-• Verzicht auf Mieterhöhung bei Modernisierung  
-• Regelung von Miethöhen bei Wiedervermietung  
-• Bereitstellung von Ersatzwohnraum und Rückkehrrechte  
+– Umwandlung des Gebäudes  
+– Verfahren und Herstellungsfrist  
+– Abbruch und Neubau, bauliche Änderungen und Nutzungsänderungen  
+– Kündigungsschutz für bestehende Mietverhältnisse  
+– Verzicht auf Mieterhöhung bei Modernisierung  
+– Regelung von Miethöhen bei Wiedervermietung  
+– Bereitstellung von Ersatzwohnraum und Rückkehrrechte  
 St.  
 Pauli
 
-• Umwandlung des Gebäudes
-• Bauliche Änderungen und Nutzungsänderungen
-• Kündigungsschutz für bestehende Mietverhältnisse
-• Verzicht auf Mieterhöhung bei Modernisierung
-• Bereitstellung von Ersatzwohnraum und Rückkehrrechte
+– Umwandlung des Gebäudes
+– Bauliche Änderungen und Nutzungsänderungen
+– Kündigungsschutz für bestehende Mietverhältnisse
+– Verzicht auf Mieterhöhung bei Modernisierung
+– Bereitstellung von Ersatzwohnraum und Rückkehrrechte
 
 Gebiete mit Sozialen Erhaltungsverordnungen in Altona:
 
@@ -130,22 +131,22 @@ folgenden Punkten Vereinbarungen getroffen worden
 Altona-  
 Altstadt
 
-• Verzicht auf Eigenbedarfskündigung für die bestehenden Wohnungen
-• Verzicht auf bauliche Aufwertungsmaßnahmen (Luxussanierung) für die bestehenden Wohnungen
-• Rechtliche Absicherung aller Bestandsmieterinnen und -mietern gegen Mieterhöhungen nach Modernisierungsmaßnahmen im Sinne des § 559 Bürgerliches Gesetzbuch
-• Unbefristete Neuvermietung freier oder frei werdender Wohnungen gemäß den Bestimmungen des § 9 Hamburgischen Wohnraumschutzgesetzes (Verbot der Zweckentfremdung von Wohnraum)
-• Veräußerung der bestehenden Wohnungen für die Dauer von 7 Jahren ab der Begründung von Wohnungseigentum nur an Mieterinnen und Mieter
-• Nutzung des Grundstücks im Einklang mit den Zielen der Sozialen Erhaltungsverordnung
-• Unterlassen einer Nutzungsänderung
+– Verzicht auf Eigenbedarfskündigung für die bestehenden Wohnungen
+– Verzicht auf bauliche Aufwertungsmaßnahmen (Luxussanierung) für die bestehenden Wohnungen
+– Rechtliche Absicherung aller Bestandsmieterinnen und -mietern gegen Mieterhöhungen nach Modernisierungsmaßnahmen im Sinne des § 559 Bürgerliches Gesetzbuch
+– Unbefristete Neuvermietung freier oder frei werdender Wohnungen gemäß den Bestimmungen des § 9 Hamburgischen Wohnraumschutzgesetzes (Verbot der Zweckentfremdung von Wohnraum)
+– Veräußerung der bestehenden Wohnungen für die Dauer von 7 Jahren ab der Begründung von Wohnungseigentum nur an Mieterinnen und Mieter
+– Nutzung des Grundstücks im Einklang mit den Zielen der Sozialen Erhaltungsverordnung
+– Unterlassen einer Nutzungsänderung
 
 Ottensen
 
 Altona- Altstadt
 
-• Veräußerung der bestehenden Wohnungen für die Dauer von  
+– Veräußerung der bestehenden Wohnungen für die Dauer von  
 10 Jahren ab Begründung von Wohnungseigentum nur an die  
 Mieter  
-• Verzicht auf Eigenbedarfskündigung für die bestehenden  
+– Verzicht auf Eigenbedarfskündigung für die bestehenden  
 Wohnungen
 
 ### Frage 5

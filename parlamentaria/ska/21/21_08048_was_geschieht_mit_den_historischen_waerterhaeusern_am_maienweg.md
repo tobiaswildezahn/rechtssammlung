@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56714"
@@ -74,7 +75,7 @@ Ist es richtig, dass die SAGA GWG mit der Sanierung der Häuser am Maienweg 177 
 
 Ist es richtig, dass die SAGA GWG die Sanierung der Häuser am Maienweg 177 – 185 gestoppt hat? Falls ja, wann und aus welchem Grund?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nein. Im Übrigen siehe Vorbemerkung.
 

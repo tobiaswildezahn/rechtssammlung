@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54382"
@@ -77,7 +78,7 @@ Wie definiert Jobcenter t.a.h. nach § 34 SGB II den Begriff der „Härte“, u
 
 Wie definiert Jobcenter t.a.h. nach § 34 SGB II die Begrenzung nach „begründete und eng zu fassenden Ausnahmefälle? Bitte Beispiele auflisten.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Für die Auslegung sind die Fachlichen Weisungen zu § 34 SGB II der Bundesagentur für Arbeit, Rz. 34.19 ff anzuwenden. Diese sind einzusehen unter dem Link:
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63263"
@@ -57,7 +58,7 @@ Welche Hamburger Kliniken nehmen an der internistischen Notfallversorgung teil?
 
 Welche Hamburger Kliniken nehmen an der chirurgischen Notfallversorgung teil?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Krankenhaus Teilnahme Internistische Notfallversorgung
 
@@ -153,19 +154,19 @@ Die Übersichten über die Sperrungen in den Monaten Juli 2017 bis Juni 2018 sin
 
 Differenziert wird bei den Sperrungen insbesondere zwischen
 
- Zentraler Notaufnahme (ZNA),
+– Zentraler Notaufnahme (ZNA),
 
- Innerer Medizin (Med.),
+– Innerer Medizin (Med.),
 
- Medizinischer Intensivstation (Med. Intensiv),
+– Medizinischer Intensivstation (Med. Intensiv),
 
- Schockraum,
+– Schockraum,
 
- Stroke Unit,
+– Stroke Unit,
 
- Herzkatheter-Labor,
+– Herzkatheter-Labor,
 
- Kreißsaal (nur sofern die Notwendigkeit eines Bettes in der Neonatologie wegen
+– Kreißsaal (nur sofern die Notwendigkeit eines Bettes in der Neonatologie wegen
 
 Frühgeburt  
 beziehungsweise  
@@ -174,9 +175,9 @@ unter
 36./37.Schwangerschaftswoche  
 besteht),
 
- technischen Einschränkungen beispielsweise beim CT, MRT (Wartung, Ausfall)
+– technischen Einschränkungen beispielsweise beim CT, MRT (Wartung, Ausfall)
 
- und weiteren Einzelbereichen wie Neurologie, HNO-Heilkunde, Urologie, Beat-
+– und weiteren Einzelbereichen wie Neurologie, HNO-Heilkunde, Urologie, Beat-
 
 mungskapazität.
 

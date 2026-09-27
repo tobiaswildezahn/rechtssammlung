@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4021"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52540"
@@ -45,7 +46,7 @@ Welche variablen Vergütungen stehen für das Jahr 2015 schon fest? Bitte Untern
 
 Wie hoch waren die in Nummer 1. genannten variablen Vergütungen der Vorstände/Geschäftsführer jeweils?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 
@@ -57,7 +58,7 @@ Wann wird der variable Anteil der Bezüge jeweils mit den Vorständen/ Geschäft
 
 Wann fließen die variablen Anteile der Bezüge für das Jahr 2015 den Vorständen/Geschäftsführern jeweils zu?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Festvergütung, die maximale erreichbare variable Vergütung und der Zeitpunkt des Anspruchs auf Auszahlung der variablen Vergütung – in der Regel zehn Tage nach Feststellung des Grades der Zielerreichung durch den Aufsichtsrat – werden im Anstellungsvertrag geregelt.
 

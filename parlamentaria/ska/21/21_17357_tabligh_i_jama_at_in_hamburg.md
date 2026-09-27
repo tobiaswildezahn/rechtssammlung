@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 27
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17186", "21/17354", "21/17355", "21/17356", "21/17358", "21/17359", "21/17360", "21/17361", "21/17362"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66932"
@@ -165,7 +166,7 @@ Wie schätzt der Senat etwaige Verbindungen der Tabligh-i Jama‘at zu Terrororg
 
 Wie schätzt der Senat etwaige Verbindungen der Tabligh-i Jama‘at zu kriminellen Gruppierungen ein?
 
-#### Antwort zu Fragen 21 bis 22
+#### Antwort zu Fragen 21 und 22
 
 Hierzu liegen dem LfV keine Informationen vor.
 

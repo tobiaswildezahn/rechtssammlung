@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9481", "21/15456"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66130"
@@ -98,7 +99,7 @@ Wie viele Strafanzeigen/Strafanträge wurden jeweils jährlich gestellt?
 
 Wie viele Hausverbote wurden jeweils jährlich gegen Täter/-innen beziehungsweise Tatverdächtige ausgesprochen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlagen 1 und 2.
 
@@ -200,13 +201,13 @@ Behörde / Amt / Landesbetrieb
 Maßnahmen, die im Zeitraum vom 23.06.2017 bis 21.03.2019 zum Schutz der Beschäftigten ergriffen wurden
 
 - Bauliche und räumliche Sicherung sensibler Bereiche - Installation PC-gestützter Notrufsysteme - Einrichtung von zentralen Alarmnummern - Veranlassung sitzungspolizeilicher Maßnahmen bei konkreten Gefährdungshinweisen - Durchführung von „Abdeckungsmaßnahmen“ im Einzelfall - diverse Dienstanweisungen für potenziell gefährliche Situationen wie z.B. die Nachtdienstverfügung - Der Zugang zum Strafjustizgebäude ist für die Öffentlichkeit nur nach einer Personenkontrolle möglich. Darüber hinaus besteht für die Richterschaft die Möglichkeit, bei einer konkreten Gefährdung (etwa aufgrund eines aktuellen Strafverfahrens) einen Parkplatz im Innenhof des Gebäudes zu nutzen, um von dort aus direkt in das Gebäude zu gelangen. Hinzuziehung des LKA soweit erforderlich. - Beim Finanzgericht wurde die Flureingangstür verriegelt, so dass Publikum den „internen“ Bereich (Geschäftsstelle/Rechtsantragsdienst) nur nach vorheriger „Freigabe“ betreten kann. - Bei der Staatsanwaltschaft ist die Erweiterung des Videoüberwachungssystems am Gebäude Gorch-Fock-Wall 15 um mehrere zusätzliche Kameras in die Wege geleitet worden. Verteilen der Broschüre für schulische Führungskräfte „Übergriffe und Gewalt gegen Beschäftigte“
-• Handreichung für Schulleitungen
-• Checkliste zum Vorgehen bei Gewalt Dienstvereinbarung zu fairem Verhalten am Arbeitsplatz in der BSB (überarbeitet Oktober 2016)
-• Definition von unfairem Verhalten
-• Handlungsabfolge und Verantwortlichkeiten bei Konfliktlösungen / unfairem Verhalten Beratungsstelle für Krisen und Abhängigkeitsprobleme (BST) am Landesinstitut für Lehrerbildung und Schulentwicklung (LI)
+– Handreichung für Schulleitungen
+– Checkliste zum Vorgehen bei Gewalt Dienstvereinbarung zu fairem Verhalten am Arbeitsplatz in der BSB (überarbeitet Oktober 2016)
+– Definition von unfairem Verhalten
+– Handlungsabfolge und Verantwortlichkeiten bei Konfliktlösungen / unfairem Verhalten Beratungsstelle für Krisen und Abhängigkeitsprobleme (BST) am Landesinstitut für Lehrerbildung und Schulentwicklung (LI)
 
-• Erstanlaufstelle für alle Beschäftigten bei beruflichen (und / oder) privaten Krisen, Konflikten, Problemen
-• Beratung, Information, Weitervermittlung an externe Fachleute, Coaching Systemische Schulberatungen zum Umgang mit Regeln im Schulalltag Fortbildungsangebote für schulisches Personal zum Umgang mit Konflikten und Gewalt (siehe unten Nr. 5 bis 7) Schulberatungen zur Verankerung von Regeln im Schulalltag (Schwerpunkt Konflikte und Gewalt) Fachliche Unterstützung und Beratung von schulinternen Krisenteams Dokumentation der schulischen Gewaltmeldungen (Gewaltkriminalitätsdelikte), inkl. der Vorfälle, bei denen schulisches Personal betroffen ist. Telefonische Beratung der Schulen und ggf. der Betroffenen nach entsprechenden Meldungen von Vorfällen
+– Erstanlaufstelle für alle Beschäftigten bei beruflichen (und / oder) privaten Krisen, Konflikten, Problemen
+– Beratung, Information, Weitervermittlung an externe Fachleute, Coaching Systemische Schulberatungen zum Umgang mit Regeln im Schulalltag Fortbildungsangebote für schulisches Personal zum Umgang mit Konflikten und Gewalt (siehe unten Nr. 5 bis 7) Schulberatungen zur Verankerung von Regeln im Schulalltag (Schwerpunkt Konflikte und Gewalt) Fachliche Unterstützung und Beratung von schulinternen Krisenteams Dokumentation der schulischen Gewaltmeldungen (Gewaltkriminalitätsdelikte), inkl. der Vorfälle, bei denen schulisches Personal betroffen ist. Telefonische Beratung der Schulen und ggf. der Betroffenen nach entsprechenden Meldungen von Vorfällen
 
 Justizbehörde  
 einschließlich Gerichte  

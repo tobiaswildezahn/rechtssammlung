@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 20
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18758", "21/11589", "21/13964"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68761"
@@ -109,7 +110,7 @@ Hat § 4 Nummer 6 lit. d Raumvergabebestimmungen Ausstrahlungswirkung auf § 3 R
 
 Hatte eine Veranstaltung in diesem Raum eine parteipolitische Ausrichtung? Falls ja, welche und warum durfte diese durchgeführt werden?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Vorbemerkung.
 

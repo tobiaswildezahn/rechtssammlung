@@ -8,12 +8,13 @@ datum_anfrage: "2026-09-08"
 datum_drucksache: "2026-09-15"
 urheber: ["Ralf Niedmers"]
 fraktionen: ["CDU"]
-vorgang: null
+vorgang: 89158
 seiten: 6
 fragen: 22
 einzelfragen: 29
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105181"

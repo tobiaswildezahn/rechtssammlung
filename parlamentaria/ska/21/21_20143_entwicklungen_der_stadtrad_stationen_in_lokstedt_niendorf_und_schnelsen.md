@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16926"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69920"
@@ -51,7 +52,7 @@ Welche StadtRAD-Stationen sind momentan in den Stadtteilen Lokstedt, Niendorf un
 
 Wie viele Entleihungen gab es an den Stationen in besagten Stadtteilen seit 2018? Bitte soweit möglich nach Jahren für die einzelnen Stationen getrennt aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Station Andock-
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14500", "20/10333", "21/12968", "21/5922"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64350"
@@ -102,7 +103,7 @@ Wie haben sich die Mittel für die Straßensanierung in Hamburg in den Jahren 19
 
 Wie haben sich die Mittel für den Straßenaus- und -neubau in Hamburg in den Jahren 1990 bis einschließlich 2010 im Plan, Soll und Ist entwickelt? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Seit dem Jahr 1990 hat es in der Freien und Hansestadt Hamburg vielfältige Umorganisationen mit Änderungen der Zuständigkeiten, Buchungsstrukturen und Rechnungslegung gegeben. Parallel hierzu sind Rechnungs- und Buchungssysteme den technischen Entwicklungen angepasst worden. Im Sinne der Fragestellungen liegen hierdurch für diesen Zeitraum keine elektronisch auswertbaren Daten vor. Eine händische Auswertung der vorliegenden Haushaltspläne und Haushaltsrechnungen im Sinne der Fragestellungen ist in der für die Beantwortung einer parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

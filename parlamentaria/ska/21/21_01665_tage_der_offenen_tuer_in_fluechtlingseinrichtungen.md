@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1409"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49879"
@@ -47,7 +48,7 @@ Seit wann werden „Tage der offenen Tür“ in Flüchtlingseinrichtungen durchg
 
 Wie viele „Tage der offenen Tür“ haben bisher in welchen Flüchtlingsunterkünften (Erstaufnahme, Folgeunterbringung, Unterbringung für minderjährige unbegleitete Flüchtlinge) stattgefunden? (Bitte einzeln aufschlüsseln nach Standort, Datum, Besucherzahl.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 f & w organisiert in seinen Einrichtungen der Folgeunterbringung bereits seit den Neunzigerjahren Begegnungsmöglichkeiten und Feste zwischen Bewohnern und Anwohnern, um den direkten Kontakt zwischen Bewohnern, Anwohnern, Ehrenamtlichen und Mitarbeitern herzustellen beziehungsweise zu verbessern. Eine Dokumentation nach Standorten, Veranstaltungsterminen und Teilnehmerzahlen erfolgt grundsätzlich nicht.
 

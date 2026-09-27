@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67406"
@@ -65,7 +66,7 @@ Welche Kenntnisse hat das Landesamt für Verfassungsschutz über die Zugehörigk
 
 Insbesondere: Sind die Personen Mitglieder oder Unterstützer vom Verfassungsschutz beobachteter Gruppierungen? Was wissen die Ordnungsbehörden oder der Verfassungsschutz über die Zugehörigkeit der festgenommenen Personen zu politischen (linksextremistischen) Parteien?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Dem Hamburger Landesamt für Verfassungsschutz (LfV) sind die festgenommenen Personen aus linksextremistischen Zusammenhängen bekannt. Im Übrigen siehe Vorbemerkung.
 

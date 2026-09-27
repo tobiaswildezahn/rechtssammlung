@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6637", "20/6208", "21/2368"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55786"
@@ -63,7 +64,7 @@ Trifft es zu, dass die Verriegelung der Schienen an den Schnittstellen zwischen 
 
 Trifft es zu, dass bei Probefahrten allein das Gewicht eines leeren Waggons ausreichend gewesen ist, um die Schienen zu verschieben?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nein.
 
@@ -85,7 +86,7 @@ Welcher Zeitplan liegt den noch durchzuführenden restlichen Bauarbeiten zugrund
 
 Wann rechnet die HPA mit einer Gesamtinbetriebnahme der neugebauten Rethebrücke?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/6637 sowie Antwort zu 5.
 

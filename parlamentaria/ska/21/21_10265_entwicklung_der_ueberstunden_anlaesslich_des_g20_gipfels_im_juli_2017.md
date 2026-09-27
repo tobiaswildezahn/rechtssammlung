@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9991", "21/7479"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59108"
@@ -57,7 +58,7 @@ Wie hat sich die Überstundensituation bei der Hamburger Polizei inzwischen zum 
 
 Wie viele Überstunden haben die Bediensteten der Polizei nunmehr durchschnittlich (Stand 31.07.2017)? Bitte insgesamt und nach Bereichen aufschlüsseln.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die geleistete Mehrarbeit von Mitarbeiterinnen und Mitarbeitern kann gemäß § 61 des Hamburgischen Beamtengesetz in Verbindung mit § 3 der Hamburgischen Verordnung über die Gewährung von Mehrarbeitsvergütungen für Beamtinnen und Beamte (HmbMVergVO) und § 3 der Verwaltungsvorschriften zur HmbMVergVO erst am Ende eines Kalendermonats festgestellt werden.
 
@@ -95,7 +96,7 @@ Wie soll insbesondere den durch den G20-Gipfel entstandenen Überstunden bei der
 
 Wann wurden seit 01.07.2017 Überstunden in welcher Anzahl und Geldsumme ausbezahlt und für wann sind Auszahlungen in welcher Anzahl und Geldsumme geplant?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im 3. Quartal 2017 hat die Polizei Anfang September für Beamte 30.526 Stunden Mehrarbeit mit einem Wert von insgesamt 572.673 Euro zur Auszahlung angewiesen. Bei diesen Beträgen handelt es sich jedoch ausschließlich um nachträgliche Auszahlungen aus der nunmehr abgeschlossenen ersten Auszahlungsrunde 2017, in der insbesondere Mehrarbeitsstunden aus Anlass der OSZE-Ministerkonferenz im Dezember 2016 ausbezahlt wurden. Auszahlungen für Einsätze zum G20-Gipfel sind darin bislang noch nicht enthalten. Im Bereich der Tarifbeschäftigten wurden 33.271 Euro für die Auszahlung von Über- und Mehrarbeitsstunden einschließlich entsprechender Zeitzuschläge gemäß Tarifvertrag der Länder verwendet, sodass insgesamt 605.944 Euro ausgezahlt wurden. Darüber hinaus siehe Drs. 21/7479.
 

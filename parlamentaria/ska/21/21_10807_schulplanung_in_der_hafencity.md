@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 21
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8830", "21/8541"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59715"
@@ -153,7 +154,7 @@ Welche Schulen welcher Schulform mit welchen Standorten und welcher Anzahl von Z
 
 Welche Schulen welcher Schulform mit welchen Standorten und welcher Anzahl von Zügen gibt es aktuell in der HafenCity?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Sowohl im Jahr 2012 als auch aktuell gab beziehungsweise gibt es in der HafenCity die Katharinenschule (Grundschule) mit drei Zügen.
 

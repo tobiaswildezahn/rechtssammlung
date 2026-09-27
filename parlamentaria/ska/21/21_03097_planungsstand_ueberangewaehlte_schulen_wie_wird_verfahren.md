@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 1
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51421"
@@ -56,11 +57,11 @@ Eine entsprechende Handlungsanweisung zur Reduzierung eines Überhangs an Anmeld
 
 Um die Schulen bei der Organisation der Eingangsklassen 1 und 5 zu unterstützen, versendet die Behörde für Schule und Berufsbildung rechtzeitig vor Beginn des Anmeldezeitraumes unter anderem folgende Unterlagen:
 
- Handreichung zur Organisation der Aufnahme in Klasse 1 Schuljahr 2016/2017
+– Handreichung zur Organisation der Aufnahme in Klasse 1 Schuljahr 2016/2017
 
 Stand: Dezember 2015,
 
- Handreichung zur Organisation der Aufnahme in Klasse 5 an weiterführenden
+– Handreichung zur Organisation der Aufnahme in Klasse 5 an weiterführenden
 
 Schulen Stand: Dezember 2015,
 

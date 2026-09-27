@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60418"
@@ -85,6 +86,6 @@ Welche auf der Veranstaltung vorgestellten Maßnahmen aus den anderen Städten w
 
 Konnten die Radverkehrskoordinatorin beziehungsweise andere anwesende Mitarbeiter der Freien und Hansestadt Hamburg zusätzliche Fördergelder für den Radverkehr in Hamburg im Rahmen der Veranstaltung einwerben?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Veranstaltung diente insbesondere dem strategisch-fachlichen Austausch über die verschiedenen Herangehensweisen in London, Brüssel und Hamburg, um Radverkehrsförderung in Metropolen zielgerichtet umzusetzen und gegenseitig Impulse zu erhalten sowie der Außendarstellung Hamburgs. Zu den Schwerpunkten und der inhaltlichen Ausrichtung siehe http://www.hamburg.de/pressearchiv-fhh/10032358/ 2017-12-06-bwvi-fachaustausch-im-hanse-office/. Im Übrigen siehe Vorbemerkung.

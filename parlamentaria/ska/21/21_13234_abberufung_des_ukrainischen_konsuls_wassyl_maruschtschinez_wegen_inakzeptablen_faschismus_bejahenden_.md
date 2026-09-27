@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62598"
@@ -69,7 +70,7 @@ Wie bewertet der Senat die Äußerungen, die dem abberufenen Konsul vorgeworfen 
 
 Teilt der Senat die Einschätzung des Auswärtigen Amtes?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11040", "20/11982"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48191"
@@ -81,6 +82,6 @@ Hat die Inhaberin der Erlaubnis die im genehmigten Arbeitsprogramm für das Jahr
 
 Sollte es für das Arbeitsprogramm 2014 keine Defizite geben: Sind die bisherigen Arbeiten zügiger vorangekommen, als in den Arbeitsprogrammen für die Jahre 2013 und 2014 vorgesehen, und was bedeutet das gegebenenfalls für das genehmigte Arbeitsprogramm für das Jahr 2015?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Eine Auswertung der dem LBEG vorliegenden Jahresberichte ist gegenwärtig noch nicht abgeschlossen.

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 21
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12647", "21/13572"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64607"
@@ -123,7 +124,7 @@ Welchen Aufwand betreibt die Stadtreinigung Hamburg gegenwärtig, um die geschil
 
 Wie viele Mitarbeiter sind in diesem Jahr mit der Räumung des Laubs betraut und wie viele waren es zum Vergleich in den Jahren seit 2015?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Vorbemerkung.
 

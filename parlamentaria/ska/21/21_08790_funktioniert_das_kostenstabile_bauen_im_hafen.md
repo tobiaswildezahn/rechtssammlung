@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 41
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2368", "20/14001", "21/5000", "20/6208", "21/4389"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57529"
@@ -129,7 +130,7 @@ Auf welche Höhe beläuft sich der gesamte Investitionsbedarf für allgemeine In
 
 Wie groß ist die Differenz zwischen den Investitionsbedarfen und den bereits in den Finanzplanungen der Freien und Hansestadt Hamburg und der HPA vorgesehenen Investitionen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Anlage 3.
 
@@ -193,23 +194,23 @@ Die HPA richtet sich bei der Durchführung ihrer Investitionsvorhaben nach den V
 
 Folgende Umsetzungsschritte sind nach den Grundsätzen des Kostenstabilen Bauens bei der HPA wie folgt umgesetzt worden:
 
- Es wird eine interne organisatorische Rollenaufteilung zwischen Bedarfs- und Rea-
+– Es wird eine interne organisatorische Rollenaufteilung zwischen Bedarfs- und Rea-
 
 lisierungsträger praktiziert.
 
- Die Anforderungen der Drs. 20/6208 sind in die HPA-Systematik der Projektkos-
+– Die Anforderungen der Drs. 20/6208 sind in die HPA-Systematik der Projektkos-
 
 tenunterlagen (PKU) integriert.
 
- Es wurde ein zentrales Projekt-Management-Office (PMO) installiert, das Prozesse
+– Es wurde ein zentrales Projekt-Management-Office (PMO) installiert, das Prozesse
 
 und Vorlagen standardisiert.
 
- Für alle aufgeführten Projekte werden vierteljährliche und anlassbezogene Fort-
+– Für alle aufgeführten Projekte werden vierteljährliche und anlassbezogene Fort-
 
 schrittsberichte entsprechend der Anforderungen der Drs. 20/6208 erstellt.
 
- Kostenrisiken werden entsprechend der Anforderungen der Drs. 20/6208 berück-
+– Kostenrisiken werden entsprechend der Anforderungen der Drs. 20/6208 berück-
 
 sichtigt. Das Management der vorhersehbaren Kostenrisiken erfolgt entsprechend der Anforderungen des Internationalen Projektmanagementstandards International Project Management Association (IPMA). Untersuchungen von Kostenrisiken gehören zum Regelgeschäft bei mittleren und großen Projekten. Eine konkrete Zahl lässt sich daher nicht benennen.
 

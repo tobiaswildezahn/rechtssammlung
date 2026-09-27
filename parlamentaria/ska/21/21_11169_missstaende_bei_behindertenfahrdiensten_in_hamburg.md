@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60150"
@@ -89,7 +90,7 @@ Nach welchen Kriterien und durch welche Behörde und Träger der Sozialversicher
 
 Insbesondere welche Voraussetzungen werden dabei an die Ausstattung und Anzahl von Fahrzeugen sowie die Qualifikationen und Bezahlung der Fahrer gestellt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Entfällt.
 
@@ -135,7 +136,7 @@ Welche Mängel wurden in den letzten zehn Jahren (01.01.2007 bis Stand 30.11.201
 
 Inwieweit sind den zuständigen Hamburger Behörden oder Trägern der Sozialversicherungen welche Art von Missständen bei den Behindertenfahrdiensten bekannt?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die für Bildung zuständige Behörde führt keine Statistik über die gemeldeten Mängel und Beschwerden in ihrem Zuständigkeitsbereich. Im Rahmen des Beschwerdemanagements müssen alle Mängel von den Vertragspartnern unmittelbar beziehungsweise in einer angemessenen Zeit abgestellt werden.
 

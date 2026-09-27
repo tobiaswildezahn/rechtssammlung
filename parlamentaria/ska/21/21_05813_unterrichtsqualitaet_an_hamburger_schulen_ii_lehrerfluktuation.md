@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54319"
@@ -59,7 +60,7 @@ Unter welchen Umständen betrachtet der Senat die Lehrerfluktuation innerhalb de
 
 Welche Maßnahmen ergreift die zuständige Behörde für Schule und Berufsbildung, um eine problematisch hohe Lehrerfluktuation zu vermeiden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Fluktuation von Lehrkräften hat verschiedene Ursachen, zum Beispiel Erkrankungen, Familienplanung, Wohnortwechsel oder Frühpensionierung. Diese Ursachen entziehen sich einer direkten Steuerung durch die für Bildung zuständige Behörde oder die Schulleitungen. Die Frage, ab welchem Umfang sich der Wechsel von Lehrkräften möglicherweise negativ auf den Lernerfolg der Schülerinnen und Schüler auswirken kann, ist nur anhand der Umstände des jeweiligen Einzelfalls zu beurteilen. Die Schulleitungen sind bei der Einsatzplanung bestrebt, unnötige Wechsel von Lehrkräften zu vermeiden.
 

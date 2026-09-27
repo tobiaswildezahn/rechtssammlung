@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4570"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53812"
@@ -119,7 +120,7 @@ Wurden in den im Durchsuchungsbeschluss genannten Räumlichkeiten Drogen sicherg
 
 Wurden bei dem genannten Einsatz Drogen sichergestellt? Wenn ja, welche und in welcher Menge?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Im Zuge der Ermittlungen wurden nach derzeitigem Stand 70 Tütchen mit Marihuana und 13 Kügelchen Kokain sichergestellt.
 

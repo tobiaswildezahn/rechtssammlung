@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9040", "21/7840", "21/8833", "21/9106", "21/9108"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58539"
@@ -74,7 +75,7 @@ War dem Senat bekannt, dass Muslime sich eben gerade dadurch auszeichnen, dass s
 
 Wusste der Senat bei Vertragsschluss, dass es für Muslime kaum akzeptabel ist, das zu unterschreiben?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 

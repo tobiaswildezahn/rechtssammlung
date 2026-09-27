@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68034"
@@ -45,7 +46,7 @@ Wozu diente der Messcontainer am Moorfleeter Brack und von wann bis wann war er 
 
 Weshalb und auf wessen Veranlassung wurde der Container nunmehr abgebaut?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In den Jahren von 2003 bis 2010 wurde eine Stauwasserförderung in der gesicherten Altablagerung Deponie Moorfleeter Brack durchgeführt. Im Jahr 2010 wurde die Stauwasserförderung eingestellt. Die Überwachungsergebnisse der darauffolgenden Jahre zeigten auf, dass eine Wiederinbetriebnahme der Stauwasserförderung nicht erforderlich ist.
 

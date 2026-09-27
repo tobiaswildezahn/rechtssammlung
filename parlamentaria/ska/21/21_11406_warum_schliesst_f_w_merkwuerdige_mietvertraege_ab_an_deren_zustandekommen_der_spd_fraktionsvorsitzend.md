@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 55237
 seiten: 3
 fragen: 5
-einzelfragen: 20
-antwortbloecke: 5
+einzelfragen: 25
+antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9084", "21/8733"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60484"
@@ -44,13 +45,28 @@ Der Senat beantwortet die Fragen teilweise auf Grundlage von f & w fördern und 
 ### Frage 1
 
 Gemäß Antwort des Senats in der Drs. 21/9084 vom 19.05.2017 lag der Mietvertrag dem Aufsichtsrat nicht vor und es bestand aufgrund der Wertgrenzen auch keine Zustimmungspflicht des Aufsichtsrats. Allerdings enthält der (im Transparenzregister veröffentlichte) Mietvertrag unter Punkt 17.9 die aufschiebende Bedingung, dass der Abschluss des Mietvertrages erst wirksam ist, wenn die zuständigen Aufsichtsgremien von f & w dem Abschluss des Vertrages zugestimmt haben beziehungsweise wenn eine solche Zustimmung dem Vermieter schriftlich mitgeteilt wurde.
-1.1. Wurde der Aufsichtsrat über die aufschiebende Bedingung im Mietvertrag informiert? Wenn ja, wann und in welcher Form? Wenn nein, warum nicht?
-1.2. Gehört der gemäß f&w-Gesetz eingesetzte Aufsichtsrat zu den „Aufsichtsgremien“ von f & w? Wenn nein, warum nicht?
-1.3. Welche weiteren „Aufsichtsgremien“ gibt es bei f & w und wann waren sie in welcher Form mit diesem Mietvertrag befasst?
-1.4. In welchen anderen Fällen hat f & w in den letzten drei Jahren Mietverträge unter der aufschiebenden Bedingung der Zustimmung der Aufsichtsgremien abgeschlossen, ohne dass der Aufsichtsrat den Mietverträgen zugestimmt hat?
-1.5. Ist es üblich, dass in öffentlichen Unternehmen Verträge unter dem Vorbehalt der Zustimmung von Aufsichtsgremien abgeschlossen werden und dann keine Beschlussfassung über den Vertrag in den Aufsichtsgremien stattfindet? Wenn ja, warum?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Wurde der Aufsichtsrat über die aufschiebende Bedingung im Mietvertrag informiert? Wenn ja, wann und in welcher Form? Wenn nein, warum nicht?
+
+### Frage 1.2
+
+Gehört der gemäß f&w-Gesetz eingesetzte Aufsichtsrat zu den „Aufsichtsgremien“ von f & w? Wenn nein, warum nicht?
+
+### Frage 1.3
+
+Welche weiteren „Aufsichtsgremien“ gibt es bei f & w und wann waren sie in welcher Form mit diesem Mietvertrag befasst?
+
+### Frage 1.4
+
+In welchen anderen Fällen hat f & w in den letzten drei Jahren Mietverträge unter der aufschiebenden Bedingung der Zustimmung der Aufsichtsgremien abgeschlossen, ohne dass der Aufsichtsrat den Mietverträgen zugestimmt hat?
+
+### Frage 1.5
+
+Ist es üblich, dass in öffentlichen Unternehmen Verträge unter dem Vorbehalt der Zustimmung von Aufsichtsgremien abgeschlossen werden und dann keine Beschlussfassung über den Vertrag in den Aufsichtsgremien stattfindet? Wenn ja, warum?
+
+#### Antwort zu Fragen 1, 1.1, 1.2, 1.3, 1.4 und 1.5
 
 Regelungen für öffentliche Unternehmen zu Aufsichtsgremien und deren Zustimmungsbedürftigkeit ergeben sich aus dem jeweiligen Gesetz und der Satzung. Sofern Verträge Zustimmungsvorbehalte der Aufsichtsgremien der öffentlichen Unternehmen beinhalten, werden in jedem Fall Beschlüsse gefasst.
 
@@ -66,24 +82,39 @@ Der Aufsichtsratsvorsitzende hat in seiner Funktion als Staatsrat am 30. Septemb
 
 Im Übrigen siehe Drs. 21/8733 und Drs. 21/9084.
 
-1.6. Wurde dem Vermieter auf Basis der aufschiebenden Bedingung unter Punkt 17.9 des Mietvertrages mitgeteilt, dass die Aufsichtsgremien von f & w dem Abschluss des Mietvertrages zugestimmt haben?
+### Frage 1.6
 
-Wenn ja, wann genau, in welcher Form, warum und durch wen?
+Wurde dem Vermieter auf Basis der aufschiebenden Bedingung unter Punkt 17.9 des Mietvertrages mitgeteilt, dass die Aufsichtsgremien von f & w dem Abschluss des Mietvertrages zugestimmt haben? Wenn ja, wann genau, in welcher Form, warum und durch wen?
+
+#### Antwort zu Frage 1.6
 
 Dem Vermieter wurde entsprechend § 17.9 des Mietvertrags mit Schreiben der f&w- Geschäftsführung vom 11. April 2017 die Zustimmung des Aufsichtsrats mitgeteilt.
 
-1.7. Seit wann genau war dem Aufsichtsratsvorsitzenden von f & w, der gleichzeitig Staatsrat der zuständigen Fachbehörde ist, der Mietvertrag und die darin in Punkt 17.9 enthaltene aufschiebende Bedingung bekannt?
+### Frage 1.7
+
+Seit wann genau war dem Aufsichtsratsvorsitzenden von f & w, der gleichzeitig Staatsrat der zuständigen Fachbehörde ist, der Mietvertrag und die darin in Punkt 17.9 enthaltene aufschiebende Bedingung bekannt?
+
+#### Antwort zu Frage 1.7
 
 Siehe Antwort zu 1. bis 1.5.
 
 ### Frage 2
 
 Weiterhin antwortet der Senat in Drs. 21/9084, dass gemäß diesem Mietvertrag „die erste Spendenzahlung bis zum letzten Werktag des Kalenderjahres 2017 an eine gemeinnützige Stiftung entsprechend der vertraglich festgelegten Zwecksetzung zu entrichten“ ist.
-2.1. Ist entsprechend der Regelungen des Mietvertrages im Kalenderjahr 2017 eine Spende zu entrichten? Wenn nein, seit wann ist das den zuständigen Stellen bekannt?
-2.2. Welche Kenntnis haben die zuständigen Stellen inzwischen über den oder die Spendenempfänger und die Gründung einer entsprechenden Stiftung?
-2.3. In welcher Form und seit wann liegt die in Drs. 21/9084 erwähnte Erklärung des Vermieters zur Abstimmung des Spendenempfängers vor?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Ist entsprechend der Regelungen des Mietvertrages im Kalenderjahr 2017 eine Spende zu entrichten? Wenn nein, seit wann ist das den zuständigen Stellen bekannt?
+
+### Frage 2.2
+
+Welche Kenntnis haben die zuständigen Stellen inzwischen über den oder die Spendenempfänger und die Gründung einer entsprechenden Stiftung?
+
+### Frage 2.3
+
+In welcher Form und seit wann liegt die in Drs. 21/9084 erwähnte Erklärung des Vermieters zur Abstimmung des Spendenempfängers vor?
+
+#### Antwort zu Fragen 2, 2.1, 2.2 und 2.3
 
 Die Fälligkeit der Spende ist nach § 6.3 i.V.m. § 6.1 lit. b) des Mietvertrags ab dem Zeitpunkt zu entrichten, zu dem hinsichtlich der Bebauung des Mietgegenstands mit der Wohnanlage die Vorweggenehmigungsreife nach § 33 BauGB eingetreten ist, spätestens aber mit Bezugsfertigkeit der Wohnanlage. Im Mai 2017 wurde davon ausgegangen, dass diese Bedingungen noch im Jahr 2017 erfüllt werden können. Bis heute sind aber weder Vorweggenehmigungsreife noch Bezugsfertigkeit gegeben, sodass die Zahlung der Spende und die Information über Spendenempfänger noch nicht fällig geworden sind.
 
@@ -106,13 +137,23 @@ Die Mieterdienstbarkeit wurde am 2. Mai 2017 im Rang vor dem Grundpfandrecht aus
 ### Frage 5
 
 Gemäß dem im Transparenzregister veröffentlichten Dokument wurde der Mietvertrag am 15.12.2016 abgeschlossen. Der Senat berichtet in der Drs. 21/9084 allerdings nur vom Abschluss des Mietvertrages „im Dezember 2016“. Bis Dezember 2016 hat nach Angaben in Drs. 21/8733 auch der SPD-Fraktionsvorsitzende Informationen an das ZKF in dieser Angelegenheit weitergeleitet beziehungsweise auf Nachfrage vom ZKF Informationen erhalten.
-5.1. Wann genau wurde der Mietvertrag unterschrieben?
-5.2. Weicht das tatsächliche Datum des Vertragsabschlusses von dem im Transparenzregister angegebenen 15.12.2016 ab? Wenn ja, aus welchen Gründen?
 
-#### Antwort zu Frage 5
+### Frage 5.1
+
+Wann genau wurde der Mietvertrag unterschrieben?
+
+### Frage 5.2
+
+Weicht das tatsächliche Datum des Vertragsabschlusses von dem im Transparenzregister angegebenen 15.12.2016 ab? Wenn ja, aus welchen Gründen?
+
+#### Antwort zu Fragen 5, 5.1 und 5.2
 
 Siehe Antwort zu 1. bis 1.5.
 
-5.3. Welche Stellen im Einzelnen waren nach der Aufsichtsratssitzung von f & w zur Standortentscheidung am 12.12.2016 bis zur Unterzeichnung des Mietvertrages im selben Monat mit einzelnen Fragestellungen bezüglich des Mietvertrags befasst? In welcher Form haben in diesem Zeitraum die Sozialsenatorin, der f&w-Aufsichtsratsvorsitzende oder der SPD-Fraktionsvorsitzende Einfluss auf den Verhandlungsprozess zum Abschluss des Mietvertrages durch f & w und ZKF genommen?
+### Frage 5.3
+
+Welche Stellen im Einzelnen waren nach der Aufsichtsratssitzung von f & w zur Standortentscheidung am 12.12.2016 bis zur Unterzeichnung des Mietvertrages im selben Monat mit einzelnen Fragestellungen bezüglich des Mietvertrags befasst? In welcher Form haben in diesem Zeitraum die Sozialsenatorin, der f&w-Aufsichtsratsvorsitzende oder der SPD-Fraktionsvorsitzende Einfluss auf den Verhandlungsprozess zum Abschluss des Mietvertrages durch f & w und ZKF genommen?
+
+#### Antwort zu Frage 5.3
 
 Siehe Drs. 21/8733.

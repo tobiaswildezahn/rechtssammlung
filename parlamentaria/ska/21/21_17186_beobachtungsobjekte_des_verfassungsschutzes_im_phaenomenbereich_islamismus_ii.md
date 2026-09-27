@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17033", "21/15989", "21/8100"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66758"
@@ -43,7 +44,7 @@ Welche Personenzusammenschlüsse/Organisationen/Strukturen/Einzelpersonen im Ph�
 
 Nach welchen Kriterien werden Personenzusammenschlüsse/Organisationen/Strukturen/Einzelpersonen im Bericht erwähnt beziehungsweise nicht erwähnt und gelten diese Kriterien für Personenzusammenschlüsse sämtlicher politisch/religiöser Spektren gleichermaßen? Bitte umfassend darlegen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 BO*/VSB**  
 BO*/VSB**  
@@ -143,7 +144,7 @@ Welche Anhaltspunkte und welche gesicherten Erkenntnisse liegen dem LfV hinsicht
 
 Wer sind deren Hauptakteure (Vorstand, Vorstandsmitglieder, Einzelpersonen) in Hamburg?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Hezb-e Islami-ye Afghanistan (HIA)/Islamische Partei Afghanistan
 

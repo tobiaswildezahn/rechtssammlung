@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/93", "20/2751", "20/9412"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51643"
@@ -65,7 +66,7 @@ Wie ist die Telefonüberwachung bis zur Umsetzung der Kooperation zurzeit und in
 
 Wie viele Telefonüberwachungen wurden in Hamburg in den Jahren 2009 bis 2015 jeweils durch welche Behörde aus welchem Anlass beziehungsweise wegen welcher Straftatbestände pro Jahr durchgeführt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Rechtsgrundlagen für die Telekommunikationsüberwachung sind in Hamburg für den Bereich der Strafverfolgung in §§ 100a, 100 b Strafprozessordnung und für den Bereich der Gefahrenabwehr in §§ 10b, 10c Gesetz über die Datenverarbeitung der Polizei geregelt.
 

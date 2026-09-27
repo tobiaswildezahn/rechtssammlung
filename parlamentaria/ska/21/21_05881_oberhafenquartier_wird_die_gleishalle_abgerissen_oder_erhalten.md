@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 20
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4905"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54385"
@@ -113,7 +114,7 @@ Welche Vertragslaufzeiten sehen die Planungen der HCH für die Mietverhältnisse
 
 In der Drs. 21/4905 gibt der Senat an: Mit „neun aktuell noch im Verfahren verbliebenen Bewerbern werden derzeit die Mietverträge vorbereitet und der Einzug für Anfang 2017 avisiert.“ Mit welchen Bewerbern/-innen existieren mittlerweile Mietverhältnisse? Welche Laufzeiten haben die abgeschlossenen Mietverträge? Welchen Mietpreis pro Quadratmeter sehen die abgeschlossenen Mietverträge vor? Ist der Einzug der Nutzer/-innen nach wie vor für 2017 avisiert? Wenn ja, zu wann genau? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Grundsätzlich werden unbefristete Mietverträge abgeschlossen. Mindestlaufzeiten beziehungsweise Kündigungsfristen werden mit den Nutzern im Einzelfall abgestimmt, abhängig unter anderem von der Höhe mieterseitiger Ausbauinvestitionen.
 

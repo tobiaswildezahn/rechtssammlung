@@ -14,6 +14,7 @@ fragen: 25
 einzelfragen: 26
 antwortbloecke: 24
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52004"
@@ -63,7 +64,7 @@ Welche technischen Folgen hat der Brand gehabt?
 
 Wie kam es zur Stilllegung der Kattwykbrücke? Wer hat dazu welche Entscheidung getroffen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Wegen des Brands ist die Antriebstechnik der Brücke vorerst ausgefallen.
 

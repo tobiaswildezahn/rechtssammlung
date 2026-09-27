@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 30
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2570"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54164"
@@ -107,7 +108,7 @@ Wie und wann wurden die Anwohner in die Entscheidung einbezogen?
 
 Wurden Schulleitung und Elternrat der angrenzenden Albert-Schweitzer- Schule in die Planungen zur Nutzung des Flurstücks 1042 einbezogen? Wenn ja, wie und wann wurden sie beteiligt? Welche Stellungnahme haben sie gegebenenfalls wann mit welchem Inhalt abgegeben?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Schulleitung und die für Bildung zuständige Behörde sind im Zusammenhang mit der Flächenplanung beteiligt worden. Die Öffentlichkeit wurde im Laufe des ersten Halbjahres 2016 mehrfach durch Sachstandsberichte im Regionalausschuss Langenhorn-Fuhlsbüttel-Ohlsdorf-Alsterdorf-Groß Borstel informiert. Am 18. Juli 2016 erfolgte eine öffentliche Sitzung des Ausschusses vor Ort in der Albert-Schweitzer-Schule, an der die Schulleitung und der Elternrat der Schule teilgenommen haben. Gesonderte Stellungnahmen wurden dabei nicht abgegeben.
 
@@ -145,7 +146,7 @@ Welchen Wortlaut, welche Wirkung und welchen Inhalt hat der 2003 beschlossene B�
 
 Sperrt dieser Entscheid die Umsiedlung des vorhandenen Bauwagenplatzes? Falls nein, warum nicht?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Der Wortlaut der Fragestellung „Sind Sie gegen die Einrichtung von neuen Bauwagensiedlungen in Hamburg-Nord?“ bezog sich auf die damalige Diskussion über die mögliche Einrichtung zusätzlicher Bauwagenplätze im Bezirk Hamburg-Nord. Seit Durchführung des Bürgerentscheids sind keine neuen Bauwagenplätze im Bezirk Hamburg-Nord eingeführt worden. Die zuständigen Behörden sehen keine Sperrwirkung des Bürgerentscheids, sofern es nicht um die Einrichtung eines neuen, sondern um die Verlagerung eines bestehenden Platzes geht.
 

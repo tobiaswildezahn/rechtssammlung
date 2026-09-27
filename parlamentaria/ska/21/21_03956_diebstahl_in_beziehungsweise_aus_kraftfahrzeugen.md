@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["16/4616", "21/3936", "21/3939", "21/3943", "21/3947", "21/3955", "21/3957", "21/3959", "21/3961", "20/1728"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52336"
@@ -63,7 +64,7 @@ Wie hat sich die Zahl der Diebstähle in/aus Kraftfahrzeugen (PKS- Schlüssel **
 
 Wie hat sich entsprechend zu Frage 1. die Aufklärungsquote in den Jahren 2010 bis 2015 und laufend bis zum 31.3.2016 quartalsweise entwickelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung und Anlage.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13971"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64209"
@@ -103,7 +104,7 @@ Mit welchen Kosten rechnet die zuständige Fachbehörde nach aktuellem Planungss
 
 Wer genau trägt die Kosten für den Umbau des Saseler Marktes? Werden alle Kosten für den Saseler Markt durch die 10 Millionen Euro der zuständigen Fachbehörde für die 13 Hamburger Plätze gedeckt?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Das zuständige Bezirksamt hat nach grober Schätzung Kosten für den Umbau des Saseler Marktes in Höhe von circa 2,7 Millionen Euro (brutto) angemeldet. Die Bezirksversammlung Wandsbek stellt 300.000 Euro zur Verfügung. Seitens der zuständigen Behörde werden 2,4 Millionen Euro aus dem Sanierungsprogramm Hamburger Plätze reserviert.
 

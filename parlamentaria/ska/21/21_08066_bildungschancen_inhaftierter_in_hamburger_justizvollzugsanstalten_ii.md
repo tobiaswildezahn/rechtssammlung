@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4307"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56727"
@@ -82,7 +83,7 @@ Welche Erfahrungen des Senats beziehungsweise der zuständigen Behörde bestehen
 
 Welche Kooperationen zwischen der Schule und Institutionen außerhalb der Gefängnisse bestehen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Bei der Gewinnung von Lehrkräften für den Unterricht für Gefangene kooperiert die zuständige Behörde mit der Behörde für Schule und Berufsbildung. Die Zusammenarbeit mit der Behörde für Schule und Berufsbildung bei der Gewinnung von Lehrkräften hat sich bewährt und wird fortgesetzt. Im Übrigen siehe Drs. 21/4307.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7098"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48831"
@@ -69,6 +70,6 @@ Welchen Anteil machen Arbeiten pro Stelle aus, die nicht im direkten Bereich der
 
 Wie viele Wochenstunden stehen tatsächlich für die persönliche Betreuung von Flüchtlingen pro Planstelle (Vollzeitäquivalent) netto zur Verfügung?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der administrative Arbeitsanteil für das Unterkunfts- und Sozialmanagement beträgt gemäß Arbeitsplatzbeschreibung 40 Prozent des Vollzeitäquivalents. 60 Prozent der Anwesenheit stehen für die individuelle Beratung zur Verfügung.

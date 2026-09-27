@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54359"
@@ -73,7 +74,7 @@ Etwa welcher prozentuale Umfang des zu einem Marktpreis von circa 2,4 Milliarden
 
 Inwieweit und auf welche Weise verfolgen HSH Nordbank und/oder hsh portfoliomanagement AöR eine Sicherung der Insolvenzmasse und Begleichung ihrer Forderungen sowie gegebenenfalls der offenen Forderungen weiterer Kreditkunden? Wurde beispielsweise das „In-die-Kette- Legen“ von Hanjin-Schiffen veranlasst?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die erfragten Angaben unterliegen nach Auskunft der hsh pm dem Bankgeheimnis und können insofern nicht im Rahmen der Beantwortung Parlamentarischer Anfragen veröffentlicht werden. Im Übrigen siehe Antwort zu 3.
 

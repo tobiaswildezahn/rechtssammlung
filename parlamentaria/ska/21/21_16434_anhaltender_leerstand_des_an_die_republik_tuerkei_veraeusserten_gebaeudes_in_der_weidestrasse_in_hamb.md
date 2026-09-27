@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 18
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65950"
@@ -47,7 +48,7 @@ Steht der Senat nach wie vor im Kontakt mit der konsularischen Vertretung der Re
 
 Ist dem Senat bekannt, in welcher Art und in welchem Umfang das Gebäude derzeit genutzt wird? Wenn ja, seit wann wird das Gebäude in welcher Art genutzt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat steht regelmäßig zu diversen Themen mit dem Generalkonsulat der Republik Türkei in Kontakt. Auch der geplante Umzug an den Standort Weidestraße ist Bestandteil dieser Gespräche. Laut Auskunft des Generalkonsulats ist das aktuell noch nicht genutzte Gebäude zukünftig als Kanzleigebäude des Generalkonsulats vorgesehen. Es bestehen auf Seiten der türkischen Republik noch Abstimmungsbe-
 

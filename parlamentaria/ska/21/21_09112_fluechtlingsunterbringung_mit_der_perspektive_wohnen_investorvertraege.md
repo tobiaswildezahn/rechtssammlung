@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 18
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8946", "21/1838", "21/6666"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57870"
@@ -79,7 +80,7 @@ Wann haben Freie und Hansestadt Hamburg und die jeweiligen Investoren mit den Ve
 
 Aus welchen Gründen konnten bei den übrigen fünf Standorten noch keine Mietverträge abgeschlossen werden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Mit dem Investor wurde seit Januar 2016 einzelfallbezogen über Standorte verhandelt. Für die Standorte östlich Haferblöcken, Eiffestraße und Rehagen sind die Verhandlungen noch nicht abgeschlossen. Für die Standorte Ohlendieck/Poppenbüttler Berg und Suurheid siehe Antwort zu 1. bis 5.
 

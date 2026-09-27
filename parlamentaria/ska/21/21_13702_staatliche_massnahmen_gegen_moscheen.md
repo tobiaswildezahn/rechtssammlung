@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 8
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10722", "20/5741", "20/11615", "20/13511", "21/334", "21/5385", "21/10598", "21/3031", "21/5039", "21/7026", "21/9259"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63082"
@@ -89,7 +90,7 @@ Wie viele islamische Gemeinschaften, die über die Rechtsform des eingetragenen 
 
 Wie viele Moscheen sind in Hamburg seit dem 1. Januar 1990 eröffnet worden, wie viele von ihnen stellten ihren Betrieb später ein?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die erfragten Daten werden nicht systematisch erfasst.
 

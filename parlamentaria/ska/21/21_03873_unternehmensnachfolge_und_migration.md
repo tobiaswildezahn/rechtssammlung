@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 15
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11316", "20/13812"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52238"
@@ -53,7 +54,7 @@ Welche der in Drs. 20/13812 aufgeführten Empfehlungen und Maßnahmen sind jewei
 
 Welche der in Drs. 20/13812 aufgeführten Empfehlungen und Maßnahmen sind nicht umgesetzt? Warum wurden diese Empfehlungen und Maßnahmen nicht umgesetzt? Werden diese Empfehlungen und Maßnahmen noch umgesetzt und wenn ja, wann?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Informations- und Erfahrungsaustausch zwischen den Mitgliedern des Hamburger Netzwerks Existenzgründung International wurde nicht institutionalisiert, sondern erfolgt anlassbezogen unter Nutzung bereits vorhandener Arbeitsstrukturen. Die Planungen zur Initiierung eines Unternehmerinnen- und Unternehmer-Stammtischs auf lokaler Ebene sowie zur Veröffentlichung eines mehrsprachigen Leitfadens zu Gründungsfragen und Unternehmensnachfolge sind noch nicht abgeschlossen. Eine Umsetzung ist im Laufe des Jahres 2016 vorgesehen. Kosten können daher noch nicht beziffert werden.
 
@@ -65,7 +66,7 @@ Welche Erkenntnisse hat der Senat inzwischen über das Gründungsinteresse von M
 
 Welche Erkenntnisse hat der Senat inzwischen über das Interesse der Übernahme von bislang durch deutsche Unternehmer (ohne Migrationshintergrund) geführten Betrieben durch bereits selbstständige Migranten?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 1. bis 1.e.
 

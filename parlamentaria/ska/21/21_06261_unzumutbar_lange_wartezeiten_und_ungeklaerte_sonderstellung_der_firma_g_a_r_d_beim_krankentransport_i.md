@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 25
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6179"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54772"
@@ -144,7 +145,7 @@ Wie oft wurde das Unternehmen GARD in diesem Zeitraum und den Jahren davor über
 
 Welche Ergebnisse erbrachte die Kontrolle dieses Unternehmens?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Das Unternehmen GARD wurde im Zeitraum von 2012 bis 2016 142-mal hinsichtlich der Auflagen der Genehmigung durch die zuständige Behörde kontrolliert. Dabei wurden keine gravierenden Verstöße festgestellt.
 
@@ -191,7 +192,7 @@ Existiert eine zentrale Beschwerde- oder sonstige Anlaufstelle, an die sich unzu
 
 Wie viele Beschwerden sind in diesem Jahr sowie im Vorjahr erfasst worden? Bitte aufschlüsseln nach Anzahl und Grund der Beschwerden pro Dienstleister.
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Bei der Feuerwehr gibt es eine zentrale Beschwerdestelle, die auch Beschwerden hinsichtlich Krankenbeförderungen bearbeitet.
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 25
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3017", "21/3193"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54391"
@@ -134,23 +135,23 @@ Die verlängerten Aufenthaltszeiten in den Erstaufnahmen sollten dafür genutzt 
 
 Welche weiteren Möglichkeiten bieten der Senat und seine Behörden den Flüchtlingen an, sich mit den Werten und Normen in diesem Land vertraut zu machen?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Vermittlung von Werten und Normen ist integraler Bestandteil der behördlichen Fachpolitiken sowie der bezirklichen und der zivilgesellschaftlichen Arbeit vor Ort. Ziel ist, das Alltagsleben, die Schul- und Bildungssysteme, die Gesundheitssysteme und gesellschaftlichen sowie staatlichen Strukturen besser verstehen zu können. In der Ankommensphase, die die ersten vier Wochen in den Erstaufnahmeeinrichtung umfasst, stehen für die Geflüchteten die Orientierung über das Zusammenleben in der Unterkunft sowie die nächsten Schritte des Asylverfahrens im Vordergrund. Jede Form der Sozialberatung und jedes Angebot von Haupt- und Ehrenamtlichen, das in den Erstaufnahmen angeboten wird, beinhaltet immer auch die Auseinandersetzung mit Werten und Normen. Dies gilt für die Erläuterung der Hausregeln genauso wie für das frühe Heranführen von Eltern an die Elternarbeit in der Kindertagesbetreuung oder der Schule. Die schulpflichtigen Kinder und Jugendlichen werden unmittelbar nach der Ankunft bereits in den Lerngruppen beschult. Die zuständige Behörde hat Unterrichtsmaterialien entwickelt: „Miteinander leben – Grundrechte vertreten – Gesellschaft gestalten“, siehe http://li.hamburg.de/wertebildung/.
 
 In den Erstaufnahmen werden ferner seit Sommer 2016 drei unterschiedliche freiwillige Veranstaltungsformate angeboten:
 
- Akademie der Polizei: Projekt „Kriterien für den beruflichen und sozialen Erfolg in
+– Akademie der Polizei: Projekt „Kriterien für den beruflichen und sozialen Erfolg in
 
 Deutschland“ – Hamburg verstehen, Erfolge haben, ich bin dabei!“
 
 Das Projekt setzt auf eine zielgruppenorientierte Vermittlung von Normen und Werten, die nach Sprachgruppen unterteilt ist. Ein Team aus Bürgernahen Beamtinnen und Beamten und muttersprachlichen Vermittlerinnen und Vermittlern führt eine Informationsveranstaltung durch mit dem Ziel, gegenseitiges Vertrauen aufzubauen und die grundlegenden Werte alltagsbezogen zu vermitteln. Der Auftaktveranstaltung folgen weitere, vertiefende Veranstaltungen.
 
- Landeszentrale für politische Bildung: Informationsveranstaltungen
+– Landeszentrale für politische Bildung: Informationsveranstaltungen
 
 Gemäß ihrer Aufträge liegt der Fokus dieser Veranstaltungen auf der politischen Bildung. Ebenfalls nach Sprachgruppen unterteilt werden Informationen über das politische System in Deutschland und in Hamburg sowie die jüngere Zeitgeschichte vermittelt. Für einen höheren Praxisbezug werden die Veranstaltungen mit einer Exkursion, beispielsweise ins Rathaus, verknüpft. Eine einfach verständliche Publikation für Asylsuchende ist in mehreren Sprachen in Vorbereitung.
 
- Hamburgischer Richterverein e.V.: Gesprächsforen in den Unterkünften
+– Hamburgischer Richterverein e.V.: Gesprächsforen in den Unterkünften
 
 Dieses Format wird von einer Richterin und einem Richter im Tandem ehrenamtlich durchgeführt. Der inhaltliche Schwerpunkt liegt auf der Gewaltenteilung und der Arbeit der Justiz. Anhand von alltagspraktischen Beispielen soll eine adressatengerechte Vermittlung stattfinden.
 

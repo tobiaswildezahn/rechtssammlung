@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10065", "21/11272"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61914"
@@ -52,9 +53,18 @@ Was ist seit meiner letzten Schriftlichen Kleinen Anfrage (Drs. 21/11272 vom 7.1
 ### Frage 2
 
 Am 8. Februar 2018 hat endlich (wieder) eine Begehung des betreffenden Grundstücks mit Behördenvertretern/-innen stattgefunden.
-2.1. Auf wessen Initiative hat diese Begehung stattgefunden?
-2.2. Wer hat daran teilgenommen?
-2.3. Waren Vertreter/-innen der Initiative Schiller-Oper beziehungsweise der umliegenden Bevölkerung eingeladen und/oder zugegen? Wenn nein, warum nicht?
+
+### Frage 2.1
+
+Auf wessen Initiative hat diese Begehung stattgefunden?
+
+### Frage 2.2
+
+Wer hat daran teilgenommen?
+
+### Frage 2.3
+
+Waren Vertreter/-innen der Initiative Schiller-Oper beziehungsweise der umliegenden Bevölkerung eingeladen und/oder zugegen? Wenn nein, warum nicht?
 
 ### Frage 3
 
@@ -80,7 +90,7 @@ Wenn dieses Gutachten noch in Arbeit ist, wann ist mit dessen Fertigstellung zu 
 
 Welche Bedeutung hat dieses Gutachten überhaupt für den Erhalt des Denkmals und die Planungen der Eigentümerin?
 
-#### Antwort zu Fragen 1 bis 8
+#### Antwort zu Fragen 1, 2, 2.1, 2.2, 2.3, 3, 4, 5, 6, 7 und 8
 
 Siehe Vorbemerkung.
 
@@ -92,7 +102,7 @@ Wer legt den verbleibenden Denkmalwert des besagten Objekts fest und wie beziehu
 
 Wer legt die Wirtschaftlichkeit des Denkmals Schiller-Oper fest und wie beziehungsweise nach welchen Kriterien erfolgt die entsprechende Bewertung?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Bewertung des verbleibenden Denkmalwerts erfolgt durch das Denkmalschutzamt. Dazu müssen die Erkenntnisse über den physischen Zustand und die technischen Notwendigkeiten einer Substanzsanierung, aber auch ein das Denkmal möglichst weitgehend integrierendes Bebauungskonzept vorliegen, woraus sich der Umfang der unter physischen, technischen und wirtschaftlichen Aspekten mögliche Erhalt von Originalsubstanz ergibt. Auch die Bewertung der wirtschaftlichen Zumutbarkeit der Erhaltung gemäß § 7 Denkmalschutzgesetz wird in diesem Zusammenhang seitens des Denkmalschutzamts einfließen.
 

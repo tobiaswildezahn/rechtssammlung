@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 10
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5596"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58273"
@@ -193,7 +194,7 @@ Auf welche Summe belaufen sich die Verwarn- und Bußgelder aus Anzeigen des ruhe
 
 Auf welche Summe belaufen sich die Verwarn- und Bußgelder aus Anzeigen des ruhenden Verkehrs im laufenden Jahr 2017?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Summe aus Verwarnungsgeldern/Bußgeldern und Gebühren (§ 107 Gesetz über Ordnungswidrigkeiten – OWiG –) ist nachstehender Tabelle zu entnehmen.
 

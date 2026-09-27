@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63823"
@@ -59,17 +60,17 @@ Bestehen vonseiten des Senats oder der zuständigen Behörde Pläne, Bücherhall
 
 Nein. Die Maßnahmen zur Erweiterung des Angebots konzentrieren sich auf die bestehende Standortstruktur. So wird es
 
- Optimierungen von Standorten durch Umzug (zum Beispiel Bücherhalle Volksdorf,
+– Optimierungen von Standorten durch Umzug (zum Beispiel Bücherhalle Volksdorf,
 
 geplante Integration der Bücherhalle Eidelstedt in das Bürgerhaus, der Bücherhalle Steilshoop in das Stadtteilhaus Campus, der Bücherhalle Bergedorf in das KörberHaus et cetera),
 
- Flächenerweiterungen und Modernisierungen,
+– Flächenerweiterungen und Modernisierungen,
 
- Erweiterung der Öffnungszeiten (flächendeckende Einführung früherer und späte-
+– Erweiterung der Öffnungszeiten (flächendeckende Einführung früherer und späte-
 
 rer Öffnungsstunden, Einführung von Open-Library-Optionen et cetera)
 
- sowie die Erweiterung des Angebots der Bücherbusse durch Anschaffung attrakti-
+– sowie die Erweiterung des Angebots der Bücherbusse durch Anschaffung attrakti-
 
 verer neuer Busse und Aktualisierung der Fahrtrouten geben.
 

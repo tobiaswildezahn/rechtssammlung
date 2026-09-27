@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49546"
@@ -45,7 +46,7 @@ Wie viele Antworten auf Schriftliche Kleine Anfragen und Große Anfragen wurden 
 
 Welche drei Behörden weisen den Anteil der prozentual am häufigsten korrigierten Anfragen aus? Wie hoch ist er jeweils?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Artikel 25 der Verfassung der Freien und Hansestadt Hamburg legt die Pflicht zur Beantwortung von Parlamentarischen Anfragen allein dem Senat auf. Dieser beantwortet die Anfragen durch Plenumsbeschluss in seinen regelmäßigen Sitzungen beziehungsweise durch die Senatskommission für Große und Schriftliche Kleine Anfragen.
 

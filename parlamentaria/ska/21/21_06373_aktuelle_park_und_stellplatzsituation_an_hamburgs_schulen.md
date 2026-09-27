@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54910"
@@ -53,7 +54,7 @@ Wie viele Kfz-Park- und Stellplätze wurden seit 2011 bei den Schulbauvorhaben j
 
 Wie viele Fahrradstellplätze wurden seit 2011 bei den Schulbauvorhaben jeweils errichtet und wie viele hätten gemäß der unter 1. dargelegten Kriterien jeweils errichtet werden müssen? Bitte jahresweise aufschlüsseln und je Bauvorhaben einzeln angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die erfragten Angaben werden nicht gesondert statistisch erfasst und müssten durch eine manuelle Auswertung der Bauantrags- beziehungsweise Zustimmungsverfahren sowie der Planunterlagen von rund 800 Baumaßnahmen erhoben werden, was in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich ist.
 

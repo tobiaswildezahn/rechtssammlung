@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11103", "20/9681", "20/13192"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50224"
@@ -58,7 +59,7 @@ Welche Programme und Maßnahmen werden derzeit in Hamburg mit dem Ziel, Übergew
 
 Wie schätzt der Senat die Qualität dieser Aktionen ein? (Bitte differenzierte Darstellung nach Programm und Altersstufen der Kinder und Jugendlichen.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 In Hamburg gibt es eine Fülle von Maßnahmen unterschiedlicher Träger in verschiedenem Umfang, die hier im Einzelnen nicht nach Altersstufen gegliedert aufgelistet werden können, da sie nach diesem Kriterium nicht systematisch erfasst werden.
 
@@ -150,7 +151,7 @@ Wie schätzt der Senat die Wirksamkeit der Programme und Maßnahmen ein?
 
 Plant der Senat, diese Programme und Maßnahmen in den kommenden Jahren bis 2020 durch weitere zu ergänzen? Wenn ja, durch welche und wann soll die Umsetzung dieser Programme und Maßnahmen jeweils beginnen? Wenn nein, hält der Senat die derzeitigen Programme und Maßnahmen für ausreichend?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Das Präventionsgesetz ist im Juli 2015 in Kraft getreten. Die zuständige Behörde wertet die gemeinsamen Anstrengungen aller Akteure in diesem Feld über einen Vergleich der Daten der schulärztlichen Untersuchungen von 2004 und 2014 aus. Die Auswertung ist noch nicht abgeschlossen.
 

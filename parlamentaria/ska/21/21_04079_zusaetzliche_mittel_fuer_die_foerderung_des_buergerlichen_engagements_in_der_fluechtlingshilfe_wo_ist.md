@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1354", "21/3705", "21/3914", "21/1395", "21/3692"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52463"
@@ -79,7 +80,7 @@ Wann flossen die 1 Million Euro an die Bezirke?
 
 Wie lautet der Verteilungsschüssel?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die zuständige Behörde und die Bezirksämter haben sich im November 2015 auf den Verteilungsschlüssel und die finanztechnische Abwicklung (Fremdbewirtschaftung) verständigt. Im Übrigen siehe Drs. 21/3705.
 
@@ -145,11 +146,11 @@ Es wurde ein Interessenbekundungsverfahren für die Regionale Koordination und U
 
 ments rund um Flüchtlingsunterkünfte durchgeführt. Die Maßnahmen starteten im März/ April 2016.
 
- in der Region Mitte-Kern, Caritas: 40.000 €
+– in der Region Mitte-Kern, Caritas: 40.000 €
 
- in der Region Billstedt / Horn, Raues Haus /Mehrgenerationenhaus Doppelfisch: 40.000 €
+– in der Region Billstedt / Horn, Raues Haus /Mehrgenerationenhaus Doppelfisch: 40.000 €
 
- in der Region Elbinseln, BI Elbinseln gGmbH: 40.000 €
+– in der Region Elbinseln, BI Elbinseln gGmbH: 40.000 €
 
 Der Hauptausschuss der Bezirksversammlung Hamburg-Mitte entscheidet über die Vergabe von 50.000 Euro zur Förde-
 
@@ -163,41 +164,41 @@ Die Mittel sind verplant und konnten bis Ende März aufgrund von technischen Pro
 
 Mittelabforderung erfolgte bis zum 15.04.2016 in Höhe von 10.558,51 €. Im Einzelnen:
 
- Quartiersmanagement Bahrenfeld - Großstadtmission Jugendhilfe gmbH: 57.000 €
+– Quartiersmanagement Bahrenfeld - Großstadtmission Jugendhilfe gmbH: 57.000 €
 
- Rückzugsräume für geflüchtete Frauen KiTa-Werk Blankenese - Ev. Luth. Kirchenkreis Hamburg-West / Südhol-
+– Rückzugsräume für geflüchtete Frauen KiTa-Werk Blankenese - Ev. Luth. Kirchenkreis Hamburg-West / Südhol-
 
 stein: 5.000 €
 
- Kofinanzierung 2 Stellen Bundesfreiwilligendienst zur Unterstützung bei der Flüchtlingshilfe in Osdorf - Kindermu-
+– Kofinanzierung 2 Stellen Bundesfreiwilligendienst zur Unterstützung bei der Flüchtlingshilfe in Osdorf - Kindermu-
 
 seum e.V.:6.000 €
 
- Fachveranstaltung für Ehrenamtliche am 22.01.2016 - Gebärdendolmetscher, Musikbegleitung,
+– Fachveranstaltung für Ehrenamtliche am 22.01.2016 - Gebärdendolmetscher, Musikbegleitung,
 
 Catering: 1.660,24 €
 
- Honorar Fachvortrag für Ehrenamtliche –Thema Trauma am 10.02.2016: 300 €
+– Honorar Fachvortrag für Ehrenamtliche –Thema Trauma am 10.02.2016: 300 €
 
- Fortbildungsmodule für Freiwillige in der Flüchtlingsarbeit im Bezirk Altona - Diakonisches Werk Hamburg: 1.250 €
+– Fortbildungsmodule für Freiwillige in der Flüchtlingsarbeit im Bezirk Altona - Diakonisches Werk Hamburg: 1.250 €
 
- Noch nicht festgelegte Zweckbindung 92.904 €
+– Noch nicht festgelegte Zweckbindung 92.904 €
 
 Eimsbüttel keine
 
- Vorgesehen ist die Schaffung von stadtteilbezogenen Verfügungsfonds in Stadtteilen mit Flüchtlingsunterkünften.
+– Vorgesehen ist die Schaffung von stadtteilbezogenen Verfügungsfonds in Stadtteilen mit Flüchtlingsunterkünften.
 
 Diese Verfügungsfonds sollen von Organisationen verwaltet werden, die in den Stadtteilen die ehrenamtliche Arbeit
 
 koordinieren. Überwiegend sind dies Kirchengemeinden.
 
- Die Entscheidung über die Verwendung der Mittel soll in den Händen lokaler Gremien liegen, die sich aus Ehren-
+– Die Entscheidung über die Verwendung der Mittel soll in den Händen lokaler Gremien liegen, die sich aus Ehren-
 
 amtlichen zusammensetzen. Sie können die Bedarfe für den Mitteleinsatz vor Ort am besten einschätzen. Verfü-
 
 gungsfonds sind in den Stadtteilen Lokstedt, Niendorf, Schnelsen, Eidelstedt und Stellingen im Aufbau.
 
- In Lokstedt und Niendorf haben sich bereits entsprechende Gremien konstituiert. Die Auszahlung einer ersten Ver-
+– In Lokstedt und Niendorf haben sich bereits entsprechende Gremien konstituiert. Die Auszahlung einer ersten Ver-
 
 fügungs-Tranche über jeweils 5 Tsd. € erfolgt in Kürze. Über die konkrete Verwendung entscheiden die Gremien
 
@@ -216,13 +217,13 @@ die Unterstützung der Integrationsarbeit in den geplanten neuen Wohnquartieren 
 Hamburg-Nord
 33.262
 
- Catering beim Gesamttreffen der Runden Tische im Bezirk Hamburg-Nord: 137 €
+– Catering beim Gesamttreffen der Runden Tische im Bezirk Hamburg-Nord: 137 €
 
- Raummiete Info Veranstaltung Flüchtlingsunterbringung im Museum für Arbeit am 04.02.16: 400 €
+– Raummiete Info Veranstaltung Flüchtlingsunterbringung im Museum für Arbeit am 04.02.16: 400 €
 
- Tonanlage Info Veranstaltung Flüchtlingsunterbringung Expresswohnen Osterfeldstraße am 29.02.16: 2.725 €
+– Tonanlage Info Veranstaltung Flüchtlingsunterbringung Expresswohnen Osterfeldstraße am 29.02.16: 2.725 €
 
- Dem Träger Internationaler Bund (IB) sind 90.000 € zugewendet worden. Neben den Projektkosten des Trägers
+– Dem Träger Internationaler Bund (IB) sind 90.000 € zugewendet worden. Neben den Projektkosten des Trägers
 
 stehen 67.704 € für Aktivitäten und Projekte von Ehrenamtlichen zur Verfügung. Von den 67.704 € sind beim IB in-
 
@@ -230,7 +231,7 @@ zwischen Projektanträge in Höhe von 28.015 € gestellt und vom Bezirksamt bef
 
 30.000 Euro am 18.03.16 abgefordert.
 
- Projekt im Bereich Patenschaften für junge Volljährige befindet sich noch in der Planung: 22.902 €
+– Projekt im Bereich Patenschaften für junge Volljährige befindet sich noch in der Planung: 22.902 €
 
 Wandsbek
 34.223
@@ -239,53 +240,53 @@ Die bisher abgerufenen Mittel verteilen sich auf folgende Maßnahmen:
 
 Projekte von Trägern:
 
- Lawaetz-Stiftung: Beratung und Finanzabwicklung: 19.100 €
+– Lawaetz-Stiftung: Beratung und Finanzabwicklung: 19.100 €
 
- KifaZ Farmsen: Hallenkosten Bewegungsangebot: 364 €
+– KifaZ Farmsen: Hallenkosten Bewegungsangebot: 364 €
 
- SC Urania: Schwimmen für geflüchtete Frauen: 9.300 €
+– SC Urania: Schwimmen für geflüchtete Frauen: 9.300 €
 
- TSV Wandsetal : Sportangebote und Freizeitaktivitäten wie Ostereiersuche für die Bewohner der Unterkunft
+– TSV Wandsetal : Sportangebote und Freizeitaktivitäten wie Ostereiersuche für die Bewohner der Unterkunft
 
 Litzowstraße, Walddörfer und Bahngärten
 
- CVJM Oberalster: Cafe Global 2016: 750 €
+– CVJM Oberalster: Cafe Global 2016: 750 €
 
- Jenfeld-Haus: Musik-Werkstatt: 2.700 €
+– Jenfeld-Haus: Musik-Werkstatt: 2.700 €
 
- CVJM Oberalster: Deutschunterricht für Flüchtlinge: 1.000 €
+– CVJM Oberalster: Deutschunterricht für Flüchtlinge: 1.000 €
 
- Quadriga gGmbH: Kinderbetreuung in den DOMO Zelten: 9.360 €
+– Quadriga gGmbH: Kinderbetreuung in den DOMO Zelten: 9.360 €
 
- Quadriga gGmbH: Materialcontainer für Aktivitäten für die Bewohner am Jenfelder Moorpark: 4.000 €
+– Quadriga gGmbH: Materialcontainer für Aktivitäten für die Bewohner am Jenfelder Moorpark: 4.000 €
 
- Jugendclub mittendrin: Aktivitäten für die Kinder der Unterkünfte Barkoppelstieg und Hellmesbergerweg: 4.814€
+– Jugendclub mittendrin: Aktivitäten für die Kinder der Unterkünfte Barkoppelstieg und Hellmesbergerweg: 4.814€
 
 Direkte Förderung der Angebote Ehrenamtlicher:
 
- Welcome Wandsbek: Honorare Koordination im Sozialraum: 11.745 €
+– Welcome Wandsbek: Honorare Koordination im Sozialraum: 11.745 €
 
- Unterstützer Walddörferstraße: Sachkosten Ausstattung offener Treff Geflüchtete: 680 €
+– Unterstützer Walddörferstraße: Sachkosten Ausstattung offener Treff Geflüchtete: 680 €
 
 Bezirk abgerufene
 
 Mittel (€) * Erläuterungen
 
- Helferkreis Farmsen 2: Internetauftritt Initiative: 84 €
+– Helferkreis Farmsen 2: Internetauftritt Initiative: 84 €
 
- Unterstützung Stargarder Straße: Freizeitaktivitäten Frühjahr 2016: 700 €
+– Unterstützung Stargarder Straße: Freizeitaktivitäten Frühjahr 2016: 700 €
 
- Initiative Oktaviostraße: Müttercafé: 700 €
+– Initiative Oktaviostraße: Müttercafé: 700 €
 
- Unterstützer Walddörferstraße: Internetversorgung: 650 €
+– Unterstützer Walddörferstraße: Internetversorgung: 650 €
 
- Müttercafe ZEA Oktaviostrasse: 700 €
+– Müttercafe ZEA Oktaviostrasse: 700 €
 
- Poppenbüttel hilft !: Laptop: 470 €
+– Poppenbüttel hilft !: Laptop: 470 €
 
- Initiative Jenfelder Moorpark: Material Nähstube Kleiderkammer Jenfelder Moorpark: 700 €
+– Initiative Jenfelder Moorpark: Material Nähstube Kleiderkammer Jenfelder Moorpark: 700 €
 
- Unterstützung Stargarder Straße : Unterstützung der unbegleiteten, minderjährigen Flüchtlinge: 5.000 €
+– Unterstützung Stargarder Straße : Unterstützung der unbegleiteten, minderjährigen Flüchtlinge: 5.000 €
 
 Die Lawaetz-Stiftung ist damit beauftragt, die Verwendung von 191.000 € zur Förderung und Unterstützung des freiwilligen
 
@@ -293,7 +294,7 @@ Engagement für Flüchtlinge in Zusammenarbeit mit den Trägern vor Ort zu koord
 
 Bergedorf  
 keine  
-  
+–  
 Es wird im Rahmen eines bereits initiierten Interessenbekundungsverfahrens ein Träger ausgewählt, der die Aufga-
 
 be „Förderung des Engagements für geflüchtete Menschen auf lokaler und bezirklicher Ebene“ im Bezirk Bergedorf
@@ -302,20 +303,20 @@ wahrnehmen soll. Hierfür werden 35.000 € zur Verfügung gestellt. Das Interes
 
 nicht abgeschlossen.
 
- Die weiteren Mittel werden entsprechend der geltenden Förderrichtlinie für Einzelprojekte eingesetzt. Über die ers-
+– Die weiteren Mittel werden entsprechend der geltenden Förderrichtlinie für Einzelprojekte eingesetzt. Über die ers-
 
 ten Anträge wird in Kürze entschieden.
 
 Harburg  
 keine  
-  
+–  
 Das Bezirksamt vergibt eine Zuwendung in Höhe von rd. 97.587 € an die Lawaetz-Stiftung zur Förderung und Un-
 
 terstützung des freiwilligen Engagements für Flüchtlinge. Davon erhält die Lawaetz-Stiftung für die Verwaltung des
 
 Unterstützungsfonds 9.758,73 €
 
- Die Entscheidungen über die zu vergebenen Projektmittel werden im Harburger Begleitausschuss (Vorsitz Bezirk-
+– Die Entscheidungen über die zu vergebenen Projektmittel werden im Harburger Begleitausschuss (Vorsitz Bezirk-
 
 samtsleiter) getroffen, im Rahmen der „Fach- und Koordinierungsstelle Lokale Partnerschaften Harburg - Demokra-
 
@@ -327,7 +328,7 @@ Bis zum 16.03.2016 wurden folgende Maßnahmen bewilligt:
 
 Projekte von Trägern:
 
- Antragstellerin: „Bezirksamt Harburg/ Koordination ehrenamtliches Engagement in der Flüchtlingshilfe: Maßnahme:
+– Antragstellerin: „Bezirksamt Harburg/ Koordination ehrenamtliches Engagement in der Flüchtlingshilfe: Maßnahme:
 
 Empfang für Ehrenamtliche in der Flüchtlingshilfe, Zielsetzung: Anerkennungskultur, Antragssumme: 4.690,00 €
 
@@ -337,16 +338,16 @@ Mittel (€) * Erläuterungen
 
 Direkte Förderung der Angebote Ehrenamtlicher:
 
- Antragstellerin: „TUHH integrativ“ – Kochgruppe, Maßnahme: Kochen mit Geflüchteten aus der Erstaufnahme
+– Antragstellerin: „TUHH integrativ“ – Kochgruppe, Maßnahme: Kochen mit Geflüchteten aus der Erstaufnahme
 
 Schwarzenbergplatz: 3.600 €
 
- Antragsteller: Elbdeich e.V., Maßnahme: Schulung von Ehrenamtlichen zur Fortführung der „offenen Kunstwerk-
+– Antragsteller: Elbdeich e.V., Maßnahme: Schulung von Ehrenamtlichen zur Fortführung der „offenen Kunstwerk-
 
 statt“ für Geflüchtete: 2.440 €
 
- Antragsteller: Walking tours, Maßnahme: Wanderungen durch Hamburg mit Geflüchteten: 119,60 €
+– Antragsteller: Walking tours, Maßnahme: Wanderungen durch Hamburg mit Geflüchteten: 119,60 €
 
- Antragsteller: Willkommen in Süderelbe, Maßnahme: Karnevalsparty in EA Geutensweg: 200 €
+– Antragsteller: Willkommen in Süderelbe, Maßnahme: Karnevalsparty in EA Geutensweg: 200 €
 
- Antragsteller: TUHH Integrativ – Musikgruppe, Maßnahme: Klaviertransport einer Klavierspende:153 €
+– Antragsteller: TUHH Integrativ – Musikgruppe, Maßnahme: Klaviertransport einer Klavierspende:153 €

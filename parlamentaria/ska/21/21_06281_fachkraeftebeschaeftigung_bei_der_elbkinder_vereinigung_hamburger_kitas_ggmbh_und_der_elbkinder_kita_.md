@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54802"
@@ -61,7 +62,7 @@ Werden bei den „Elbkindern“ beziehungsweise der ausgelagerten Servicegesells
 
 Wenn ja, gelten diese Werkverträge auch für pädagogische Leistungen der Elbkinder?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Gemäß § 631 fortfolgende BGB werden Werkverträge zur Unterstützung des festen Personals bei pädagogischen Aufgaben oder für zeitlich befristete Projekte in Verwaltung und Kita nur abgeschlossen, wenn es um die Erledigung eines vorher klar definierten Auftrags zum Beispiel mit Bindung an ein konkretes Projekt geht, dessen Erfolg messbar ist.
 
@@ -93,7 +94,7 @@ Wie viele befristet Beschäftigte gibt es bei den „Elbkindern“?
 
 Bei wie viele davon handelt es sich um sachgrundlose Befristungen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 
@@ -105,7 +106,7 @@ Wie viele Beschäftigte der Servicegesellschaft sind befristet beschäftigt? Bei
 
 Wenn es sachgrundlos befristet Beschäftigte gibt: Bis wann gedenkt der Senat diesen Zustand für den Träger „Elbkinder“ und die ausgelagerte Servicegesellschaft zu beenden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 100 der 771 sozialversicherungspflichtigen Arbeitsverhältnisse sind befristet, davon 41 sachgrundlos. Im Übrigen siehe Vorbemerkung.
 
@@ -117,7 +118,7 @@ Wie hoch sind die Ausfallzeiten aufgrund von Krankheit beim Träger „Elbkinder
 
 Wie viele unbesetzte Stellen gibt es bei den „Elbkindern“? Bitte als Tabelle nach Leitungsstellen- und pädagogischen Personal und dem Krippen- und Elementarbereich darstellen.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Mit dem Kita-Gutschein-System und dem Landesrahmenvertrag Kindertagesbetreuung vom Juni 2005 ist ein System der Steuerung und Finanzierung geschaffen worden, das für alle Träger von Kindertagesstätten gleiche Bedingungen schafft. Der Grundsatz eines fairen Wettbewerbs verlangt es, dass diese Bedingungen für die Elbkinder als öffentliches Unternehmen ebenso Anwendung finden wie für alle anderen Leistungsanbieter. Da die erfragten Informationen den Bereich geschützter Betriebs- und Geschäftsgeheimnisse berühren und potenziell geeignet sein könnten, die Position der Elbkinder vor allem im Wettbewerb um einzustellendes Fachpersonal nachteilig zu beeinflussen, sieht der Senat von einer Beantwortung ab.
 

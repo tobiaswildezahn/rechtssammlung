@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57592"
@@ -48,7 +49,7 @@ Warum gibt es – im Gegensatz zu den meisten anderen deutschen Flughäfen – i
 
 Liegt den Kontrollbehörden (BUE und BWVI) ein aktueller Flugplan mit konkreten Ankunft- und Abflugzeiten vor? a. Wenn ja, warum wird dieser nicht der Öffentlichkeit zur Verfügung gestellt? b. Wenn nein, wie nehmen die Behörden ihre Kontrollpflicht (zum Beispiel bezüglich Flügen nach 23 Uhr, die von der Verspätungsregelung („Genehmigungsfiktion“) Gebrauch machen) wahr?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Fluggesellschaften passen ihre Flugplanungen fortlaufend an, sodass es auch während eines laufenden Flugplans immer wieder zu Verschiebungen einzelner Planzeiten kommt. Mit Blick auf die sicherzustellende Aktualität der Daten sowie im Zuge der Digitalisierung hat sich die FHG daher entschlossen, anstatt eines gedruckten Sommerflugplans alle Informationen tagesaktuell im Internet bereitzustellen. Auf der Internetseite www.hamburg-airport.de/ und unter www.hamburg-airport.de/de/ ankunft.php sowie unter www.hamburg-airport.de/de/abflug.php ist es möglich, sich über die geplanten Flugzeiten für den laufenden sowie für den nächsten Tag zu informieren.
 
@@ -185,7 +186,7 @@ Wie hoch ist das Aufkommen an zusätzlichen Flugbewegungen zwischen 23 und 24 Uh
 
 Über welche Start- und Landebahnkonstellationen sollen diese Flüge abgewickelt werden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Derzeit sind konkrete Aussagen über den Umfang möglicher Beeinträchtigungen der allgemeinen Luftfahrt sowie über das Aufkommen an zusätzlichen Flugbewegungen, die im Zusammenhang mit dem G20-Gipfel stehen werden, noch nicht möglich.
 

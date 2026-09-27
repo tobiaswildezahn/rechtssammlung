@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 16
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["16/4616", "21/2727", "21/2728", "21/2739"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51084"
@@ -111,7 +112,7 @@ Welche Besonderheiten lassen sich hinsichtlich einer Häufung der Zahl, Tätergr
 
 Welche Besonderheiten lassen sich hinsichtlich der Entwicklung der Zahl, Tätergruppen und Opfer der in den Fragen 1. bis 7. abgefragten Straftaten zu Silvester von 2010 bis 2015 feststellen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Nach Bewertung der Polizei handelt es sich bei den Vorfällen in der Silvesternacht 2015 um ein in dieser Form bisher unbekanntes, besonders gravierendes Phänomen sexueller Übergriffe auf Frauen, auf die sich die Polizei mit den Maßnahmen vor Ort konzeptionell neu einstellen wird; siehe im Übrigen Drs. 21/2727, 21/2728, 21/2739.
 

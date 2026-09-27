@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15533", "21/16358", "21/11374", "21/8256", "21/4902", "21/4500", "21/5922", "20/10333"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68810"
@@ -55,7 +56,7 @@ Wie viele Hinweisschilder zu unebenen Gehwegen wurden seitens des Senats beziehu
 
 Wie viele Hinweisschilder zu unebenen Gehwegen, die laut Drs. 21/8256, Drs. 21/11374 und Drs. 21/15533 seitens des Senats beziehungsweise der zuständigen Behörde und/oder der Bezirksämter zwischen 2011 bis 2018 aufgestellt wurden, stehen immer noch? Bitte nach Bezirken, Stadtteilen und den genauen Adressen aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Jahr 2019 haben lediglich die Bezirksämter Wandsbek und Bergedorf Hinweisschilder aufgestellt (siehe Anlage 1). In Bergedorf und Wandsbek ist der Sachstand zur Drs. 21/15533 unverändert. In allen anderen Bezirken und der HPA sind die Maßnahmen abgeschlossen.
 
@@ -75,7 +76,7 @@ Wie oft und in welcher Höhe wurden 2019 von Verkehrsteilnehmern Schadensersatza
 
 Wie oft und in welcher Höhe wurden im Jahr 2018 und im laufenden Jahr 2019 von Verkehrsteilnehmern Schadensersatzansprüche gegen die Stadt Hamburg infolge schadhafter Gehwege geltend gemacht und welche Zahlungen hat die Stadt Hamburg in dieser Zeit geleistet? Bitte nach Jahren, Bezirken, Stadtteilen und den genauen Adressen aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage 3. Zu den übrigen Schadensersatzansprüchen im Jahr 2018 siehe Drs. 21/15533.
 
@@ -87,7 +88,7 @@ Wann plant der Senat beziehungsweise wann planen die zuständigen Behörden, die
 
 Wann plant der Senat beziehungsweise wann planen die zuständigen Behörden, die unter 2. aufgelisteten Gehwege zu sanieren und welche Kosten fallen dabei jeweils an?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Anlage 1. Im Übrigen siehe Antwort zu 1. und 2.
 

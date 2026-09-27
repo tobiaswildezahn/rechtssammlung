@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16215"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68603"
@@ -75,7 +76,7 @@ Wie viele Treffen hat der „Nutzungsbeirat Schulsportanlagen“ im Jahr 2019 bi
 
 Wie viele Treffen sind für das restliche Jahr 2019 geplant?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Nutzungsbeirat hat am 9. Mai 2019 zu seiner konstituierenden Sitzung getagt. Das zweite Treffen wird im Dezember 2019 stattfinden.
 
@@ -87,6 +88,6 @@ Welche Themen wurden während der bisherigen Treffen besprochen?
 
 Welche konkreten Vereinbarungen und Ergebnisse haben sich aus den bisherigen Treffen herausgebildet?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Thematisiert wurde der zum Zeitpunkt der konstituierenden Sitzung vorgestellte Schulentwicklungsplan mit weiteren schulischen Sportstättenbedarfen, die Reinigungssituation sowie insbesondere ein Pilotprojekt, das erweiterte Nutzungszeiten für ausgewählte Schulsporthallen vorsieht, siehe Drs. 21/16215. Zudem wurden die bestehenden Regelungen für Bau und Bewirtschaftung der Hamburger Schulsporthallen erläutert.

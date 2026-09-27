@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10994", "21/14069", "21/11526", "21/10899", "21/10146", "21/12234"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63584"
@@ -84,7 +85,7 @@ Welche präventiven Angebote gibt es in Hamburg für Suizidgefährdete?
 
 Auf welche Zielgruppen sind die Angebote zugeschnitten?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Angebote für suizidgefährdete Menschen sind in dem von der Behörde für Gesundheit  
 und Verbraucherschutz veröffentlichten Informationsflyer „Wo suizidgefährdete Menschen  

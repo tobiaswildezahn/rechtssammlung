@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5313"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53858"
@@ -75,7 +76,7 @@ Rechnet der Senat mit einem baldigen Abschluss der Umsetzung der Abänderung der
 a) Wenn ja, bis wann rechnet der Senat hiermit?
 b) Wenn nein, welche Umstände verzögern derzeit die Umsetzung? Welche Anstrengungen unternimmt der Senat um diese Probleme zu beseitigen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Am 7. Juli 2016 hat das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit die abschließende Ressortabstimmung der Novelle der Sportanlagenlärmschutzverordnung zur Vorbereitung eines Kabinettbeschlusses der Bundesregierung eingeleitet.
 

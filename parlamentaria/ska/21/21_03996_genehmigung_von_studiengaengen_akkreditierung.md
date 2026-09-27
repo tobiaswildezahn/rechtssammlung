@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52383"
@@ -53,7 +54,7 @@ Welche Konsequenzen hat der Beschluss des BVerfG vom 17. Februar 2016 – 1 BvL 
 
 Ist die BWFG aktiv in die Diskussionen des Akkreditierungsrates und der KMK über die Folgen des oben genannten Beschlusses des BVerfG – 1 BvL 8/10 – eingebunden? Falls nein, warum nicht? Falls ja, in welcher Art und Weise nimmt es Einfluss?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

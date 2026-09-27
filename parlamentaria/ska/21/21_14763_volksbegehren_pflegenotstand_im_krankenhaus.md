@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64206"
@@ -63,7 +64,7 @@ d) Wenn nein, wann ist mit einer Entscheidung zu rechnen?
 
 Wie bewertet der Senat beziehungsweise die zuständige Behörde inhaltlich das zum „Volksbegehren gegen den Pflegenotstand“ vorgelegte „Hamburger Gesetz für mehr Personal und gute Versorgung im Krankenhaus“ hinsichtlich der Mindestpersonalzahlen für Pflegekräfte und andere Berufsgruppen im Krankenhaus?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Volksentscheide dürfen nur durchgeführt werden, wenn sie mit höherrangigem Recht vereinbar sind. Der von den Initiatoren der Volksinitiative mit dem Antrag auf Durchführung des Volksbegehrens vorgelegte Gesetzentwurf verstößt nach Auffassung des Senats auch nach seiner Überarbeitung gegen höherrangiges Recht. Insbesondere verletzt der Gesetzentwurf durch die Verknüpfung mehrerer unterschiedlicher Materien das Kopplungsverbot (HVerfG, U. v. 13.10.2016, Az.: 2/16), greift in bundesrechtlich geregelte Materien des SGB V ein und enthält Regelungen, die gegen den Grundsatz der Verhältnismäßigkeit verstoßen.
 

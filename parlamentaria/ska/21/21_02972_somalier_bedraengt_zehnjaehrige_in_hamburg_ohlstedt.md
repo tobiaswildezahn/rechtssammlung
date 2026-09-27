@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 22
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2818", "16/4616", "21/2829"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51304"
@@ -83,13 +84,13 @@ Welche Maßnahmen wurden im Rahmen der erkennungsdienstlichen Behandlung durchge
 
 Die erkennungsdienstliche Behandlung des Beschuldigten bei der Polizei umfasste:
 
- Fertigung von Lichtbildern,
+– Fertigung von Lichtbildern,
 
- Abnahme von Finger- und Handflächenabdrücken,
+– Abnahme von Finger- und Handflächenabdrücken,
 
- Dokumentation äußerlich wahrnehmbarer Merkmale,
+– Dokumentation äußerlich wahrnehmbarer Merkmale,
 
- freiwillige Abgabe einer Speichelprobe.
+– freiwillige Abgabe einer Speichelprobe.
 
 ### Frage 6
 
@@ -107,7 +108,7 @@ Steht der mutmaßliche Täter unter polizeilicher oder sonstiger Beobachtung sei
 
 Wie wird gewährleistet, dass der mutmaßliche Täter sich den weiteren Ermittlungen nicht entzieht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Eine Meldepflicht im Hinblick auf das Strafverfahren käme nur in Betracht, wenn ein Haftbefehl erlassen, sodann aber dessen Vollzug gemäß § 116 Absatz 1 Nummer 1
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 18
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10286"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59279"
@@ -131,13 +132,13 @@ Im Innenausschuss sprach Staatsrat Krösser davon, dass „die Stadtreinigung (�
 
 Nach den der Polizei derzeit vorliegenden Erkenntnissen sind der Stadtreinigung im Sinne der Fragestellung folgende Örtlichkeiten benannt worden:
 
- Neuer Kamp gegenüber Tankstelle
+– Neuer Kamp gegenüber Tankstelle
 
- Stadthausbrücke
+– Stadthausbrücke
 
- Veranstaltungsort Messehallen, Sicherheitszone 2
+– Veranstaltungsort Messehallen, Sicherheitszone 2
 
- Glacischaussee, Mitte
+– Glacischaussee, Mitte
 
 ### Frage 8
 

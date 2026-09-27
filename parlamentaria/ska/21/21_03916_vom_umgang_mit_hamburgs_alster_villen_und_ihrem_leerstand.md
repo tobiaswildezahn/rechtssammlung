@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/985", "21/1721"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52305"
@@ -45,11 +46,11 @@ Welche allgemeinen Vorschriften gibt es für die Bebauung (städtebauliche Erhal
 
 #### Antwort zu Frage 1
 
- Gestaltungsverordnung
+– Gestaltungsverordnung
 
 o Außenalsterverordnung vom 29. Mai 1953
 
- Städtebauliche Erhaltungsverordnungen (ErhVO)
+– Städtebauliche Erhaltungsverordnungen (ErhVO)
 
 o ErhVORotherbaum-Harvestehude vom 12. August 1997
 
@@ -61,17 +62,17 @@ o ErhVOSchmilinskystrasse - An der Alster vom 19. Mai 2008
 
 o ErhVOHolzdamm vom 19. Mai 2008
 
- Milieugebiet (M_)
+– Milieugebiet (M_)
 
 o M_Poeseldorf von 1985
 
 o M_Harvestehude von 1985
 
- Erhaltungsbereiche
+– Erhaltungsbereiche
 
- Harvestehude10 vom 20. November 1979
+– Harvestehude10 vom 20. November 1979
 
- St.Georg40 vom 06. April 2005
+– St.Georg40 vom 06. April 2005
 
 Im Übrigen hat das Planrecht der Bebauungspläne, Teil-Bebauungspläne und Baustufenpläne Gültigkeit.
 
@@ -341,7 +342,7 @@ b) Fährhausstraße 14
 c) Fährhausstraße 14 a
 d) Leinpfad 21
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Senat sieht in ständiger Praxis davon ab, konkrete Leerstände und Details zu Leerstandsobjekten zu benennen (siehe Drs. 21/1721).
 

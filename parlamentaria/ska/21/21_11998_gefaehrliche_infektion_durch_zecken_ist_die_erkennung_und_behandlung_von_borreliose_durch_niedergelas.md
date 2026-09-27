@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61256"
@@ -97,7 +98,7 @@ Welche Kenntnisse hat der Senat über die Ausbereitung und Folgen von Lyme-Borre
 
 Welche Kenntnisse hat der Senat, wie häufig zu spät erkannte Lyme- Borreliose zur Ausbreitung von anhaltenden Nervenschmerzen, Gelenkund Muskelschmerzen, chronischen Hautveränderungen und Lähmungserscheinungen führt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Lyme-Borreliose ist in Hamburg keine meldepflichtige Erkrankung. Belastbare Daten liegen der zuständigen Behörde nicht vor.
 

@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 47
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/3149", "20/7676", "20/11503", "21/3866", "21/4408", "21/8830"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61113"
@@ -171,7 +172,7 @@ Im SEPL 2012 (vergleiche Seite 35) wird darauf hingewiesen, dass mit starken Sch
 
 Falls die unter 6. und 6. a. erfragten erforderlichen baulichen Erweiterungen noch nicht stattfanden: Wann genau sollen diese erfolgen und welche Gründe liegen für die Verzögerung seit 2012 bis heute (Stand 1. Februar 2018) vor? (Bitte genauer erläutern und eine Einschätzung des Senats/der zuständigen Fachbehörde zu den resultierenden Auswirkungen für die erwartete Versorgungssituation in Schulentwicklungsplan- Region 4 bis 2020 abgeben.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Für den Stand der Zu-und Neubauten in der Schulentwicklungsplanregion 4 siehe folgende Tabelle:
 
@@ -288,7 +289,7 @@ Wie viele Züge hatten/haben die Eingangsklassen 5, 7 und 11 an den Stadtteilsch
 
 Wie viele Züge hatten/haben die Stadtteilschulen in der Schulentwicklungsplan-Region 4 in den Klassenstufen 5 – 10 und den Klassenstufen 11 – 13 gesamtdurchschnittlich seit 2011/2012 bis 2017/2018 (Stand 1. Februar 2018)? (Bitte pro Standort mit Unterstandorten, für jedes betreffende Schuljahr einzeln, in absoluten Zahlen in einer Tabelle angeben.) a. Um wie viel weichen diese durchschnittlichen Klassenanzahlen der Klassen 5 – 10 und der Klassen 11 – 13 von den 2012 für diese Standorte angestellten Entwicklungsprognosen ab? (Bitte in absoluten Zahlen sowie in Prozent im Vergleich zu den tatsächlichen Eingangsklassenanzahlen entsprechend den vorgegebenen Parametern in die Tabelle zu 11. integrieren.) b. Um wie viel weichen diese durchschnittlichen Klassenanzahlen der Klassen 5 – 10 und der Klassen 11 – 13 von den im SEPL 2012 für diese Standorte angestrebten Entwicklungszielen ab? (Bitte in absoluten Zahlen sowie in Prozent im Vergleich zu den tatsächlichen durchschnittlichen Zuganzahlen entsprechend den vorgegebenen Parametern in die Tabelle zu 11. integrieren.) c. Welcher zusätzliche Zugbedarf ergibt sich, eingedenk diesen Entwicklungen, nach Prognose des Senats am jeweiligen Standort beziehungsweise innerhalb der SEPL-Region 4 perspektivisch bis zum Schuljahr 2018/2019? (Bitte entsprechend den vorgegebenen Parametern in absoluten Zahlen wie in Prozent in die Tabelle zu 11. integrieren sowie den Gesamtrestbedarf gesondert angeben.)
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Für die Anzahl der Klassen je Klassenstufe an den staatlichen Stadtteilschulen in der Region 4 des Schulentwicklungsplans in den Schuljahren 2011/12 bis 2016/17 siehe folgende Tabelle: Schulname Klassenstufe 2011/12 2012/13 2013/14 2014/15 2015/16 2016/17 Kurt-Tucholsky-Schule Max-Brauer-Schule Stadtteilschule Bahrenfeld
 
@@ -311,7 +312,7 @@ Plant der Senat (Stand 1. Februar 2018) die Schließung/en von Schulstandort/en 
 
 Plant der Senat (Stand 1. Februar 2018) die Schließung von Zweigstellen von Schulstandorten in der SEPL-Region 4? Wenn ja, welche sind das konkret und bis wann sollen diese Schließungen erfolgen? (Bitte mit Standort, Schulform, KESS-Faktor und Stadtteil, Schließungsdatum und Grund in einer Excel-Tabelle angeben.) a. Welche sachlichen und fachlichen Gründe liegen für diese Schließungen jeweils vor? (Bitte jeweils entsprechend in die Tabelle zu 14. integrieren.) b. Welcher Verbleib ist für die am jeweiligen Standort beschulte Schüler-/-innenschaft an welchen anderen Standorten vorgesehen? (Bitte jeweils mit Ausgleichsstandort, SEPL-Region, Stadtteil und Bezirk, Schulform, KESS-Faktor, Schüler-/-innenzahlen, Jahrgängen und Zügen in die Tabelle zu 14. integrieren.)
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Nein.
 

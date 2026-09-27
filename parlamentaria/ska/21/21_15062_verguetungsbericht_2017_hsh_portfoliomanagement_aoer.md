@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 58805
 seiten: 2
 fragen: 3
-einzelfragen: 6
-antwortbloecke: 3
+einzelfragen: 7
+antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64520"
@@ -42,13 +43,20 @@ Der Senat beantwortet die Fragen teilweise auf der Grundlage von Auskünften der
 ### Frage 1
 
 Gemäß § 9 und § 16 Absatz 4 Nummer 7 der Satzung der hsh portfoliomanagement AöR entscheidet die Trägerversammlung der Anstalt über die Vergütungssysteme für Mitarbeiter.
-1.1. Wann genau wurde welches Vergütungssystem mit welchen wesentlichen Inhalten von der Trägerversammlung für die hsh portfoliomanagement AöR festgelegt?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Wann genau wurde welches Vergütungssystem mit welchen wesentlichen Inhalten von der Trägerversammlung für die hsh portfoliomanagement AöR festgelegt?
+
+#### Antwort zu Fragen 1 und 1.1
 
 Die Trägerversammlung der hsh pm hat mit Umlaufverfahren vom 13. Mai 2016 dem Vergütungssystem zugestimmt. Das Vergütungssystem orientiert sich an den marktüblichen Gehältern, die durch eine unabhängige Marktanalyse der Kienbaum Consultants International GmbH ermittelt worden sind. Aufgrund der hohen Spezialisierung der Mitarbeiterinnen und Mitarbeiter der hsh pm sowie der Tatsache, dass die Abwicklungsanstalt nur für einen begrenzten Zeitraum besteht, wurde das Vergütungssystem von der Trägerversammlung als sachgerecht eingestuft.
 
-1.2. Wann genau wurde das Vergütungssystem in welchen Punkten und aus welchen Gründen von der Trägerversammlung jeweils geändert?
+### Frage 1.2
+
+Wann genau wurde das Vergütungssystem in welchen Punkten und aus welchen Gründen von der Trägerversammlung jeweils geändert?
+
+#### Antwort zu Frage 1.2
 
 Das Vergütungssystem ist nicht geändert worden.
 

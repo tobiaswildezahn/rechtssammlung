@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10994"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48850"
@@ -69,7 +70,7 @@ Wie viele Fälle von Tätigkeit ohne Arbeitserlaubnis wurden im 1. Quartal 2015 
 
 Welche und wie viele Sanktionen wurden im 1. Quartal 2015 für die illegale Beschäftigung von Arbeitskräften, mangels Arbeitserlaubnis, verhängt? Bitte aufschlüsseln. Sofern eine genaue Angabe nicht möglich ist, bitte Näherungswerte angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nach Auskunft der Bundesfinanzdirektion Nord können für das Jahr 2015 derzeit noch keine Angaben gemacht werden.
 

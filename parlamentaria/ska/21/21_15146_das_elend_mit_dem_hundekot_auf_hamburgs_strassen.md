@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 27
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64608"
@@ -157,7 +158,7 @@ Was ist genau mit der ordnungsgemäßen Entsorgung des eingesammelten Kotes geme
 
 Was passiert mit dem eingesammelten Kot? Was passiert mit den Plastiktüten? Wie sieht der weitere Entsorgungs- beziehungsweise Recyclingweg aus?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Die ordnungsgemäße Entsorgung erfolgt durch den Einwurf des gefüllten und verschlossenen Kotbeutels in einen der rund 18.000 Papierkörbe der SRH oder in die schwarze Restmülltonne.
 

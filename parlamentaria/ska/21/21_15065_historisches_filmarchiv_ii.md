@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7632"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64523"
@@ -43,7 +44,7 @@ Wie viele Filme oder Videoaufzeichnungen sind seit 2017 in das Filmarchiv aufgen
 
 Bei wie vielen der unter 1. genannten archivierten Filme und Videoaufzeichnungen liegen die Rechte bei der Freien und Hansestadt Hamburg beziehungsweise für wie viele Filme liegen die Rechte möglicherweise bei Privatpersonen, Organisationen oder Unternehmen? Bitte aufschlüsseln nach Filmtiteln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es sind seit 2017 keine Titel neu aufgenommen worden.
 

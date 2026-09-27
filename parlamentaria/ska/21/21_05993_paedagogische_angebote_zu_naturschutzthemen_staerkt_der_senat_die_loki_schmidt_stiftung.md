@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54500"
@@ -86,7 +87,7 @@ Welche Lehrstühle an Hamburgs staatlichen Universitäten und Hochschulen besch�
 
 Welche Lehrstühle an Hamburgs staatlichen Universitäten und Hochschulen kooperieren bei welchen umweltpädagogischen Maßnahmen und Projekten mit der Loki Schmidt Stiftung?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Umweltpädagogische Fragestellungen werden unter anderem unter professoraler Leitung der MIN-Fakultät derzeit in den Arbeitsgruppen „Didaktik der Biologie“ und
 
@@ -128,98 +129,98 @@ Umweltpädagogische Aktivitäten der Loki Schmidt Stiftung in ihren Naturschutz-
 
 Themen und Zielgruppen
 
-  
+–  
 Naturerlebnisführungen für Kitas, Vor- u. Grundschulen  
-  
+–  
 Großeltern-Enkel-Erlebnisführungen  
-  
+–  
 Führungen zu kulturellen, wirtschaftlichen und geschichtlichen Themen wie z.
 
-B. Apfelsaftherstellung, Schafhaltung, Landschaftsgeschichte, Landschaftsentstehung, Landnutzung in verschiedenen Naturräumen wie Heide, Marsch, Moor, Geest)  Spezielle Ferienangebote  NaturEntdecker - Das Projekt bietet Vor- und Grundschulgruppen jahreszeitli-
+B. Apfelsaftherstellung, Schafhaltung, Landschaftsgeschichte, Landschaftsentstehung, Landnutzung in verschiedenen Naturräumen wie Heide, Marsch, Moor, Geest) – Spezielle Ferienangebote – NaturEntdecker - Das Projekt bietet Vor- und Grundschulgruppen jahreszeitli-
 
-che Naturerlebnisführungen in und an der Kita.  NaturForscher - Das Projekt bietet Vor- und Grundschulgruppen ein Jahr lang
+che Naturerlebnisführungen in und an der Kita. – NaturForscher - Das Projekt bietet Vor- und Grundschulgruppen ein Jahr lang
 
-regelmäßig einmal im Monat Naturerlebnisführungen. Themen: Naturerkundungen, Jahreszeiten, Boden, Klima erleben, Landwirtschaft und Ernährung, heimische Tiere und Pflanzen kennen lernen.  Naturführungen für weiterführende Schulen (z.B. Oberstufenkurse Biologie,
+regelmäßig einmal im Monat Naturerlebnisführungen. Themen: Naturerkundungen, Jahreszeiten, Boden, Klima erleben, Landwirtschaft und Ernährung, heimische Tiere und Pflanzen kennen lernen. – Naturführungen für weiterführende Schulen (z.B. Oberstufenkurse Biologie,
 
-Geografie, Berufsschulen)  Praktische Arbeitseinsätze und Vermittlung von Fachwissen in Zusammenar-
+Geografie, Berufsschulen) – Praktische Arbeitseinsätze und Vermittlung von Fachwissen in Zusammenar-
 
 beit mit dem Landesinstitut für Lehrerfortbildung für Schulklassen der Mittelund Oberstufen  
-  
+–  
 Exkursionen für Studenten und Naturinteressierte  
-  
+–  
 Eltern-Kind-Gruppe, Kindergruppe, Jugendgruppe und Ehrenamtliche  
-  
+–  
 Geburtstage in der Natur  
-  
+–  
 GPS° Bildungsrouten  
-  
+–  
 Erkundungen auf eigene Faust (u. a. Eulenpfad, Ausleihe von Schafmobil o-
 
 der Spurenrucksack)  
-  
+–  
 Betriebsausflüge  
-  
+–  
 Fortbildungen/Tagungen(z.B. Lehrerfortbildungen, Kurse für Pädagogen)  
-  
+–  
 Vorträge  
-  
+–  
 Fachtagungen zu Biologie- und Naturschutzhemen  
-  
+–  
 Bestimmungsübungen (z.B. Bäume im Winter)  
-  
+–  
 jahreszeitliche Tagesaktionen mit Führung und Aktionen wie Nistkastenbau  
-  
+–  
 Großes Sommer- bzw. Herbstfest um Führungen, Bastelaktionen und Spielen  
-  
+–  
 Angebote zum Langen Tag der StadtNatur Hamburg  
-  
+–  
 Pflanze und Standort  
-  
+–  
 Sukzession: Vom offenen Sandboden zum Eichen-Birken-Wald  
-  
+–  
 Naturschutz in der Großstadt  
-  
+–  
 Biologische und chemische Gewässergütebestimmung  
-  
+–  
 Heimische Amphibien  
-  
+–  
 Vogelstimmen  
-  
+–  
 Baumarten kennenlernen  
-  
+–  
 Elbe – Leben am großen Strom  
-  
+–  
 Bäume in der Stadt  
-  
+–  
 Lebensraum Wald  
-  
+–  
 Insekten  
-  
+–  
 Hilfsmaßnahmen für Tiere  
-  
+–  
 Kanutouren in das Reich des Bibers an der Doven Elbe  
-  
+–  
 Heimische Wildkräuter  
-  
+–  
 LandArt: künstlerisches Gestalten in der Natur  
-  
+–  
 Fledermäuse  
-  
+–  
 Gestalten mit Naturmaterialien  
-  
+–  
 Kulturlandschaft / Naturlandschaft  
-  
+–  
 Bienen und Wildbienen
 
-  
+–  
 Der Naturschutz in der Gesellschaft  
-  
+–  
 Mit allen Sinnen Natur erleben  
-  
+–  
 Lebensraum Apfelwiese  
-  
+–  
 Natur in der Innenstadt und im Gewerbegebiet  
-  
+–  
 Parks und Grünanlagen als Lebensräume für heimische Pflanze und Tiere
 
 Im Jahr 2015 insgesamt 1002 Veranstaltungen mit 27.868 Teilnehmerinnen und Teilnehmern

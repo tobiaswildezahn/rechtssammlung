@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/7538"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51708"
@@ -57,7 +58,7 @@ Wenn ja, wann hat der Senat diesen Entschluss gefasst und auf welcher Grundlage 
 
 Wie sieht dieser aus?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Senat hat das Abstimmungsverhalten Hamburgs für die 942. Sitzung des Bundesrates am 26. Februar 2016 in seiner Sitzung am 23. Februar 2016 festgelegt. Im Übrigen siehe Vorbemerkung.
 
@@ -69,6 +70,6 @@ Sollte der Senat noch keine Positionierung vorgenommen haben, wann beabsichtigt 
 
 Für den Fall, dass Hamburg im Bundesrat dem Asylpaket II nicht zustimmen sollte, welches sind die Überlegungen/Gründe, die zu diesem Ergebnis geführt haben?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Entfällt.

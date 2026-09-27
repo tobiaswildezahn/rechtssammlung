@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 18
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10994", "21/8016", "21/8388", "21/6791", "21/6215", "21/8233", "21/7939", "21/9538", "21/5039", "21/10107", "21/11343", "21/11573", "21/10597", "21/10118"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61102"
@@ -103,7 +104,7 @@ Welche Evaluationen der Täterarbeit in Hamburg existieren beziehungsweise sind 
 
 Welche Erkenntnisse hat der Senat über die Wirksamkeit der Hamburger Täterberatung?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Im Rahmen der zuwendungsfinanzierten Angebote findet regelmäßig eine Erfolgskontrolle statt (siehe Drs. 21/11573). Belastbare Daten, ob Personen nach einer Beratung noch immer gewalttätig sind, liegen den zuständigen Behörden dagegen nicht vor.
 

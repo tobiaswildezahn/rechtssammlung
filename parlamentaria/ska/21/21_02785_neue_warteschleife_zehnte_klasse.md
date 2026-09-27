@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/3195"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51089"
@@ -87,7 +88,7 @@ Bei wie vielen Schülerinnen und Schüler der Jahrgangsstufe 9 beziehungsweise 1
 
 Bei wie vielen der unter 0. genannten Schülerinnen und Schüler hat sich der Schulabschluss von Klasse 9 nach 10 verbessert? Bitte absolute Zahlen nennen ab 2011 für (gegebenenfalls Schulform,) Vermerk beziehungsweise Prognose nach Schuljahrgangsstufe 9 und Schulabschluss nach Klasse 10.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die erfragten Daten werden von der zuständigen Behörde nicht zentral erfasst. Eine Schulabfrage hätte zur Folge, dass allein für das Schuljahr 2014/2015 circa 15.000 Schülerakten der Jahrgänge 9 und 10 händisch ausgewertet werden müssten. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

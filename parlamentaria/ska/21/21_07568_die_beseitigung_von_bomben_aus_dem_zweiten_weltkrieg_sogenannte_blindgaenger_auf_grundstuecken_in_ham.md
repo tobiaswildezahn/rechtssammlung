@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2030", "21/6011"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56192"
@@ -43,7 +44,7 @@ Wie viele Blindgänger sind vom 1. Oktober 2015 bis 31. Dezember 2016 jeweils pr
 
 Wie viele Blindgänger werden noch auf dem Hamburger Stadtgebiet vermutet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Quartale  
 4/2015  

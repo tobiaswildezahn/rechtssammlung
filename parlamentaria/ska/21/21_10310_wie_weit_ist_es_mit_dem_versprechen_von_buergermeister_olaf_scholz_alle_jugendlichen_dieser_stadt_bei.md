@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8422", "21/7734", "21/7729"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59154"
@@ -105,7 +106,7 @@ Welche Schulabschlüsse können Schüler, die sich in der Ausbildungsvorbereitun
 
 In welcher Art und in welcher Regelmäßigkeit sind Schüler, die sich in der Ausbildungsvorbereitung (AvDual) befinden, an den Schulen eingebunden? Gibt es für diese Schüler einen regelmäßigen Unterricht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der berufsbezogene und berufsübergreifende Unterricht wird entsprechend der ausgewiesenen Stundentafel in der APO-BVS regelmäßig erteilt. (Siehe APO-BVS http://www.schulrecht.hamburg.de/jportal/portal/t/1bht/bs/18/page/sammlung.psml?do c.hl=1&doc.id=jlr-BerVorbSchulAPOHA2006rahmen&documentnumber= 1&numberofresults=19&doctyp=Norm&showdoccase=1&doc.part=R&paramfromHL= true#focuspoint.)
 

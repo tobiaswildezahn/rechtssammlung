@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/131", "21/14874"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65789"
@@ -112,7 +113,7 @@ Wie viele minderjährige Flüchtlinge sind seit September 2015 freiwillig in ihr
 
 Um welche Länder handelt es sich hierbei?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Seit dem 1. Oktober 2018 reisten insgesamt 23 minderjährige Personen nachweislich freiwillig aus. Die Herkunftsländer sind der folgenden Übersicht zu entnehmen.
 

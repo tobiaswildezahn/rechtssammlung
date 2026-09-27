@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 20
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/478"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50512"
@@ -113,7 +114,7 @@ Aus welchem Grund und mit welcher Konsequenz soll eine „umfassende Beratung de
 
 Aus welchem Grund und mit welcher Konsequenz soll der „erfolgte Entscheidungsprozess“, „insbesondere warum ein Bieter ausgeschlossen wurde“, nachvollzogen werden?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Der Senat sieht grundsätzlich davon ab, zu Pressemitteilungen von Bürgerschaftsfraktionen Stellung zu nehmen.
 

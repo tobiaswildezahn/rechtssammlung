@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9408", "20/8154", "21/9329"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58499"
@@ -73,7 +74,7 @@ Wann ist mit Fertigstellung der Handlungsansätze zu rechnen?
 
 Werden diese veröffentlicht? Wenn ja, an welcher Stelle? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Veröffentlichung der Handlungsansätze ist auf der Internetseite des Fachkräftenetzwerkes (http://www.hamburg.de/fachkraefte/) geplant. Im Übrigen sind die Überlegungen hierzu noch nicht abgeschlossen.
 

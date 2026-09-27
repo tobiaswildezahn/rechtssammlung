@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15953", "21/14575", "21/15659", "21/7184"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66134"
@@ -50,7 +51,7 @@ Welche konkreten Maßnahmen umfasst das von der Arbeitsgruppe „Betrug“ erarb
 
 Das von der Arbeitsgruppe (AG) „Betrug“ seit Anfang 2018 erarbeitete Konzept für die Neuordnung des Betruges besteht aus folgenden Elementen:
 
- Anpassung der Organisationsstruktur sowie neue Zuständigkeitskriterien:
+– Anpassung der Organisationsstruktur sowie neue Zuständigkeitskriterien:
 
 Aus sieben Sachgebieten in drei Dienststellen werden acht Sachgebiete in einer neu einzurichtenden Dienststelle. Diese neue Dienststelle wird in der Abteilung „Regionale Kriminalitätsbekämpfung“ (LKA 1) als Dienststelle „LKA 1 Betrug“ angegliedert.
 
@@ -60,7 +61,7 @@ Das Deliktsphänomen Warenkreditbetrug wird zukünftig in drei Sachgebieten bear
 
 Vereinzelt aufgrund der jeweiligen Tatausführung bestehende Unklarheiten bei den Zuständigkeiten für die Sachbearbeitung sollen durch Verlagerungen der Deliktsbereiche Falschgeld und Skimming in das Fachkommissariat Schleusung und Dokumentenhandel (LKA 64), des Deliktes Untreue in das Fachkommissariat Spezielle Wirtschaftskriminalität (LKA 51) sowie des Deliktsbereiches der „Vertrauensdelikte“ (Callcenter-Betrug, Love Scamming, Trick in Wohnung) in das Fachkommissariat Schwerer Diebstahl/Trickdiebstahl (LKA 433) reduziert werden.
 
- Erkennung von Tatzusammenhängen/Zentrale Vorermittlungen:
+– Erkennung von Tatzusammenhängen/Zentrale Vorermittlungen:
 
 Es wird ein Sachgebiet Zentrale Vorermittlungen (ZVE) zur Einholung von Informationen zu vordefinierten deliktspezifischen Parametern eingerichtet, da bei Betrugsanzeigen in einer Vielzahl der Fälle die erforderlichen Informationen, die für die Erkennung von Tatzusammenhängen relevant sind, fehlen. Die erforderlichen Informationen unterscheiden sich je nach betrugsspezifischem Deliktsbereich. Aufgrund der durch die ZVE erhobenen Informationen, beispielsweise der Lieferanschrift, Bezahlarten, gegebenenfalls Kontodaten, im Deliktsbereich Warenkreditbetrug, ist von Anfang an eine kriminalistisch sinnvollere Zuschreibung von Ermittlungsverfahren an die Sachbearbeitung möglich, welche gewährleistet, dass Ermittlungsverfahren mit möglichen Tatzusammenhängen im selben Sachgebiet beziehungsweise beim selben kriminalpolizeilichen Sachbearbeiter und Sachbearbeiterinnen bearbeitet werden.
 
@@ -68,15 +69,15 @@ Durch die veränderten Zuständigkeitskriterien und die Implementierung des Sach
 
 Zur Entlastung der ermittelnden Kriminalbeamten und Kriminalbeamtinnen werden im Bereich der ZVE vorwiegend Tarifbeschäftigte eingesetzt.
 
- Vereinbarung zwischen Staatsanwaltschaft und Polizei:
+– Vereinbarung zwischen Staatsanwaltschaft und Polizei:
 
 Zurzeit erarbeiten die Staatsanwaltschaft Hamburg und die Polizei eine Vereinbarung zur verfahrensökonomisierten Bearbeitung minderschwerer allgemeiner Betrugsdelikte; diese befindet sich in der finalen Abstimmung. Die Vereinbarung soll inhaltliche Standards der an die Staatsanwaltschaft Hamburg übersandten Vorgänge gewährleisten und gleichzeitig nicht erfolgversprechende, polizeiliche Ermittlungsschritte minimieren. Dadurch wird eine Effizienzsteigerung in der Sachbearbeitung angestrebt.
 
- Controllingkonzept:
+– Controllingkonzept:
 
 Die AG „Betrug“ entwickelt zur Verbesserung der Kapazitätssteuerung im Bereich des Betruges ein Controllingkonzept; dieser Prozess ist aufgrund der notwendigen Abstimmungen mit den Beteiligten derzeit noch nicht abgeschlossen.
 
- Personal:
+– Personal:
 
 Die Neuorganisation erfolgt auf Grundlage der bestehenden Stellen- und Personalausstattung der mit dem Themenfeld Betrug befassten Bereiche im LKA 55, LKA 52 und LKA 5012. Diese Bereiche umfassen derzeit 104 Stellen.
 

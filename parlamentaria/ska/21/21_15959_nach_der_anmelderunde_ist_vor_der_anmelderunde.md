@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12258", "21/11992"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65451"
@@ -43,7 +44,7 @@ Wie viele Schüler/-innen sind zum Schuljahr 2018/2019 insgesamt jeweils für di
 
 Bei wie vielen dieser in Frage 1. genannten bisherigen Anmeldungen für 2018/2019 konnten Erstwünsche erfüllt werden, bei wie vielen nicht? (Bitte, nach Schulform getrennt und nach Sozialindex aufgeschlüsselt, mit Erstwunscherfüllungsgrad in absoluten Zahlen und in Prozent in einer Excel-Tabelle angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 
@@ -63,7 +64,7 @@ Wie viele Schüler/-innen sind zum Schuljahr 2018/2019 jeweils für die fünften
 
 Bei wie vielen dieser in Frage 4. genannten bisherigen Anmeldungen für 2018/2019 an den betreffenden Stadtteilschulstandorten konnten dabei jeweils Erstwünsche erfüllt werden, bei wie vielen nicht? (Bitte, mit Nennung von Standort, Sozialindex und Bezirk, in absoluten Zahlen und in Prozent zur Gesamterstwunschbewilligung in Klasse 5 am Standort in einer Excel-Tabelle angeben.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage.
 
@@ -83,7 +84,7 @@ Wie viele Schüler/-innen sind zum Schuljahr 2018/2019 jeweils für die fünften
 
 Bei wie vielen dieser in Frage 7. genannten bisherigen Anmeldungen an den betreffenden Stadtteilschulstandorten konnten dabei jeweils Erstwünsche erfüllt werden, bei wie vielen nicht? (Bitte, mit Nennung von Standort, Sozialindex und Bezirk, in absoluten Zahlen und in Prozent zur Gesamterstwunschbewilligung in Klasse 5 am Standort in einer Excel- Tabelle angeben.)
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Anlage.
 

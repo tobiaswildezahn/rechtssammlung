@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9040", "21/8100", "21/9101", "20/5830"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62488"
@@ -81,7 +82,7 @@ Was ist mit „besonderem islamischen Religionsunterricht“ vor dem Hintergrund
 
 Welche Initiativen haben die im Staatsvertrag genannten islamischen Glaubensgemeinschaften bis heute verfolgt, um als Religionsgemeinschaften anerkannt zu werden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Antwort zu 1. und Drs. 20/5830.
 
@@ -101,7 +102,7 @@ Hat die der Protokollerklärung zu Artikel 6 genannte Arbeitsgruppe bereits ihre
 
 Womit beschäftigt sich diese Arbeitsgruppe gegenwärtig?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/9101.
 

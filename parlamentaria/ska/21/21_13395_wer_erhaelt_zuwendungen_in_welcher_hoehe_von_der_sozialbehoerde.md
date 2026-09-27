@@ -10,12 +10,13 @@ urheber: ["Birgit Stöver", "Philipp Heißner"]
 fraktionen: ["CDU"]
 vorgang: 57196
 seiten: 97
-fragen: 0
-einzelfragen: 0
-antwortbloecke: 0
+fragen: 1
+einzelfragen: 1
+antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7033", "21/6766", "21/6754", "21/6387", "21/7762", "21/6993", "21/7415", "21/6999", "21/6914", "21/7995", "21/7989", "21/7615", "21/7612", "21/7413", "21/7997", "21/7994", "21/7990", "21/7001", "21/8893", "21/6441", "21/7992", "21/6998"]
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62755"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/62755/21_13395_wer_erhaelt_zuwendungen_in_welcher_hoehe_von_der_sozialbehoerde"
 abgerufen: "2026-09-26"
@@ -27,1914 +28,2865 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Birgit Stöver und Philipp Heißner (CDU) vom 11.06.18 und Antwort des Senats · Drucksache vom 19.06.2018  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/62755) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/62755/21_13395_wer_erhaelt_zuwendungen_in_welcher_hoehe_von_der_sozialbehoerde)
 
-## Volltext
-
-Wer erhält Zuwendungen in welcher Höhe von der Sozialbehörde?
+## Einleitung für die Fragen
 
 Da es dem Senat, wie im Einzelplan 4 des Haushaltsplan-Entwurfs 2017/ 2018 betont, jederzeit möglich ist, über das Verfahren „Integrierte Erfassung und Bearbeitung von Zuwendungen“ Auskunft über Zuwendungsfälle und deren Volumen zu erhalten, möchten wir diese Option nutzen.
 
 Vor diesem Hintergrund fragen wir den Senat:
 
+## Fragen und Antworten
+
+### Frage 1
+
 Welche Zuwendungsempfänger erhielten im Jahr 2017 und im Jahr 2018 bisher jeweils Zuwendungen in welcher Höhe aus welcher Produktgruppe/ welchem Aufgabenbereich des Einzelplans 4?
+
+#### Antwort zu Frage 1
 
 Zu den für 2017 und bisher für 2018 erlassenen Zuwendungen siehe Anlagen 1 und 2.
 
 Die betroffenen Produktgruppen ergeben sich aus den Projektstrukturplanelementen (kurz: PSP-Elemente) in der Spalte „Finanzposition“. Darüber hinaus wird auf die quartalsweisen Veröffentlichungen aller Zuwendungen einschließlich der Zuwendungen der Behörde für Arbeit, Soziales, Familie und Integration im Transparenzportal unter https://transparenz.hamburg.de/ verwiesen.
 
-Zuwendungen 2017 Anlage 1
+Zuwendungen 2017
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-SpielTiger e.V. Ersatzbeschaffung Spielgeräte und Zubehör 26.884,31 1-254.02.01.001.001  
-Institut für Bewegung,  
-Kultur und Spiel (e.V.)
+Zuwendungs-
 
-Diakonisches Werk die Schaffung von Krippenplätzen in der 253.358,00 2-25406001-00002.12 Hamburg - Kita "Ev. Kindergarten Nienstedten am Landesverband der Standort Nienstedtener Marktplatz 19a" im Inneren Mission e.V. Rahmen der Förderrichtlinie zum (e.V.) Zusatzprogramm Krippenausbau 2015- 2018. Wichtel K.G. e.V. die Betreuung von Kindern in der Wichtel 59.860,00 1-254.06.02.002.001 (e.V.) KG im Weg beim Jäger 127, 22453 Hamburg, im Rahmen einer Elterninitiative nach § 25 SGB VIII Verein für Gemeinwesenorientierte Hilfen für Familien 167.812,95 1-254.04.02.002.228 stadtteilbezogene im Stadtteil milieunahe Erziehungshilfen e.V. (e.V.) Diakonisches Werk Betrieb der Fachberatungsstelle Prostitution 786.852,80 1-255.03.04.002.001 Hamburg - Landesverband der Inneren Mission e.V. (e.V.) Arbeiterwohlfahrt Betrieb der Freiwilligenagentur im Bezirk 42.382,58 1-255.03.02.001.001 Landesverband Altona Hamburg e.V. (e.V.) "Dolle Deerns" Verein Schaffung der Voraussetzungen für die 3.990,00 1-254.02.01.001.001 zur Förderung organisatorische Durchführung des feministischer Girls'Day 2017 Mädchenarbeit e.V. (e.V.)
+empfänger
 
-Jugendsozialarbeit Finanzierung von vier Lehrkräften für die 28.320,00 3-25502001-021119.01 Schanzenviertel e.V. Durchführung des Angebotes "Vorbereitung (e.V.) auf den externen Hauptschulabschluss" im Rahmen des Projektes "JobKontor"
+Zuwendungszweck (kurz) Zuwendungs-
 
-Deutsche Kinder- und Jugenderholungsmaßnahmen 198.024,70 1-254.02.01.001.001 Hilfsgemeinschaft für Kinder und Jugendliche aus Familien mit e.V. (e.V.) geringem Einkommen
+höhe (in Euro)
 
-Theater Jugend Kulturelle Jugendarbeit 8.300,00 1-254.02.01.001.001 Hamburg e.V. (e.V.) Theater Projekte / Produktion Theater Jugend Kulturelle Jugendarbeit 3.700,00 1-254.02.01.001.001 Hamburg e.V. (e.V.) Theater - Kurse - Schule Arbeitsgemeinschaft Förderung der AKTIVOLI Landesnetzwerk 50.817,62 1-255.03.02.001.001 der Freien Geschäftsstelle Wohlfahrtspflege Hamburg e.V. (e.V.) Hamburger Verein Integrationsförderung der Deutschen aus 19.364,80 1-255.03.01.004.001 der Deutschen aus Russland und Pflege der Kultur Rußland e.V. (e.V.)
+Finanzposition
+
+SpielTiger e.V. Institut für Bewegung, Kultur und Spiel (e.V.)
+
+Ersatzbeschaffung Spielgeräte und Zubehör
+26.884,31 1-254.02.01.001.001
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+die Schaffung von Krippenplätzen in der  
+Kita "Ev. Kindergarten Nienstedten am  
+Standort Nienstedtener Marktplatz 19a" im  
+Rahmen der Förderrichtlinie zum  
+Zusatzprogramm Krippenausbau 2015-  
+2018.
+
+253.358,00 2-25406001-00002.12
+
+Wichtel K.G. e.V. (e.V.)
+
+die Betreuung von Kindern in der Wichtel  
+KG im Weg beim Jäger 127, 22453  
+Hamburg, im Rahmen einer Elterninitiative  
+nach § 25 SGB VIII
+
+59.860,00 1-254.06.02.002.001
+
+Verein für  
+stadtteilbezogene  
+milieunahe  
+Erziehungshilfen e.V.  
+(e.V.)
+
+Gemeinwesenorientierte Hilfen für Familien im Stadtteil
+
+167.812,95 1-254.04.02.002.228
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+Betrieb der Fachberatungsstelle Prostitution 786.852,80 1-255.03.04.002.001
+
+Arbeiterwohlfahrt Landesverband Hamburg e.V. (e.V.)
+
+Betrieb der Freiwilligenagentur im Bezirk Altona
+
+42.382,58 1-255.03.02.001.001
+
+"Dolle Deerns" Verein  
+zur Förderung  
+feministischer  
+Mädchenarbeit e.V.  
+(e.V.)
+
+Schaffung der Voraussetzungen für die organisatorische Durchführung des Girls'Day 2017
+
+3.990,00 1-254.02.01.001.001
+
+Jugendsozialarbeit Schanzenviertel e.V. (e.V.)
+
+Finanzierung von vier Lehrkräften für die Durchführung des Angebotes "Vorbereitung auf den externen Hauptschulabschluss" im Rahmen des Projektes "JobKontor"
+
+28.320,00 3-25502001-021119.01
+
+Deutsche Hilfsgemeinschaft e.V. (e.V.)
+
+Kinder- und Jugenderholungsmaßnahmen für Kinder und Jugendliche aus Familien mit geringem Einkommen
+
+198.024,70 1-254.02.01.001.001
+
+Theater Jugend Hamburg e.V. (e.V.)
+
+Kulturelle Jugendarbeit Theater Projekte / Produktion
+
+8.300,00 1-254.02.01.001.001
+
+Theater Jugend Hamburg e.V. (e.V.)
+
+Kulturelle Jugendarbeit Theater - Kurse - Schule
+
+3.700,00 1-254.02.01.001.001
+
+Arbeitsgemeinschaft  
+der Freien  
+Wohlfahrtspflege  
+Hamburg e.V. (e.V.)
+
+Förderung der AKTIVOLI Landesnetzwerk Geschäftsstelle
+
+50.817,62 1-255.03.02.001.001
+
+Hamburger Verein der Deutschen aus Rußland e.V. (e.V.)
+
+Integrationsförderung der Deutschen aus Russland und Pflege der Kultur
+
+19.364,80 1-255.03.01.004.001
 
 Seite 1 von 54
 
 Zuwendungen 2017
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Landesverband der Wahrung und Pflege des Kulturgutes der 191.584,52 1-255.03.01.004.001 vertriebenen Vertriebenen und Spätaussiedler und Deutschen in entsprechende Beratung und Betreuung der Hamburg e.V. (e.V.) Vertriebenen und Spätaussiedler Ev.-Luth. Betrieb der Freiwilligenagentur im Bezirk 50.000,00 1-255.03.02.001.001 Kirchenkreis Harburg Hamburg-Ost (Öffentlich-rechtliche Körperschaft)
+Zuwendungs-
 
-Sprungbrett Projekt "Tagwerk" (Tagelöhner für 114.267,41 3-25502001-021615.01 Dienstleistungen Langzeitarbeitslose mit gGmbH (gGmbH) Vermittlungshemmnissen) Allerleirauh e.V. (e.V.) Betrieb einer Beratungsstelle bei sexuellem 205.932,44 1-254.03.02.010.001 Missbrauch Johann Daniel Existenzgründungsberatung und Seminare 375.000,00 3-25502001-006678.01 Lawaetz-Stiftung (Stiftung des öffentlichen Rechts) BASIS & WOGE e.V. Prävention von religiös motivierter 26.000,00 3-25503001-000211.01 (e.V.) Radikalisierung von Kindern und Jugendlichen: "SelbstSicherSein" im Rahmen des Bundesprogramms "Demokratie leben" BASIS & WOGE e.V. Prävention von religiös motivierter 130.000,00 3-25503001-000213.01 (e.V.) Radikalisierung von Kindern und Jugendlichen: "SelbstSicherSein" im Rahmen des Bundesprogramms "Demokratie leben" Diakonisches Werk Anlaufstelle zur Begegnung und zum 5.000,00 1-254.05.03.001.001 Hamburg - interkulturellen Austausch von jungen Landesverband der Menschen in Hamburg des Vereins für Inneren Mission e.V. Internationale Jugendarbeit Hamburg e.V. (e.V.) Vaeter e.V. (e.V.) Betrieb des Väterzentrums 89.209,21 1-254.03.02.006.001 Christliches Sozialraumorientierte Ausstiegshilfe und 19.132,10 3-25503001-000210.01 Jugenddorfwerk Unterstützung von Distanzierungsprozessen Deutschlands rechtsaffiner junger Menschen im Rahmen gemeinnütziger e.V. des Bundesprogramms "Demokratie leben" (CJD) (e.V.) Christliches Sozialraumorientierte Ausstiegshilfe und 93.000,00 3-25503001-000213.01 Jugenddorfwerk Unterstützung von Distanzierungsprozessen Deutschlands rechtsaffiner junger Menschen im Rahmen gemeinnütziger e.V. des Bundesprogramms "Demokratie leben" (CJD) (e.V.) Arbeit und Leben Beratungsstelle "empower" im Rahmen des 54.824,12 3-25503001-000210.01 DGB/VHS Hamburg Bundesprogramms "Demokratie leben" e.V. (e.V.) Arbeit und Leben Beratungsstelle "empower" im Rahmen des 244.000,00 3-25503001-000213.01 DGB/VHS Hamburg Bundesprogramms "Demokratie leben" e.V. (e.V.) Arbeit und Leben Mobile Beratung im Rahmen des 72.741,91 3-25503001-000210.01 DGB/VHS Hamburg Bundesprogramms "Demokratie leben" e.V. (e.V.)
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Landesverband der  
+vertriebenen  
+Deutschen in  
+Hamburg e.V. (e.V.)
+
+Wahrung und Pflege des Kulturgutes der  
+Vertriebenen und Spätaussiedler und  
+entsprechende Beratung und Betreuung der  
+Vertriebenen und Spätaussiedler
+
+191.584,52 1-255.03.01.004.001
+
+Ev.-Luth.  
+Kirchenkreis  
+Hamburg-Ost  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+Betrieb der Freiwilligenagentur im Bezirk Harburg
+
+50.000,00 1-255.03.02.001.001
+
+Sprungbrett Dienstleistungen gGmbH (gGmbH)
+
+Projekt "Tagwerk" (Tagelöhner für Langzeitarbeitslose mit Vermittlungshemmnissen)
+
+114.267,41 3-25502001-021615.01
+
+Allerleirauh e.V. (e.V.) Betrieb einer Beratungsstelle bei sexuellem
+
+Missbrauch
+
+205.932,44 1-254.03.02.010.001
+
+Johann Daniel  
+Lawaetz-Stiftung  
+(Stiftung des  
+öffentlichen Rechts)
+
+Existenzgründungsberatung und Seminare 375.000,00 3-25502001-006678.01
+
+BASIS & WOGE e.V. (e.V.)
+
+Prävention von religiös motivierter  
+Radikalisierung von Kindern und  
+Jugendlichen: "SelbstSicherSein" im  
+Rahmen des Bundesprogramms  
+"Demokratie leben"
+
+26.000,00 3-25503001-000211.01
+
+BASIS & WOGE e.V. (e.V.)
+
+Prävention von religiös motivierter  
+Radikalisierung von Kindern und  
+Jugendlichen: "SelbstSicherSein" im  
+Rahmen des Bundesprogramms  
+"Demokratie leben"
+
+130.000,00 3-25503001-000213.01
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+Anlaufstelle zur Begegnung und zum  
+interkulturellen Austausch von jungen  
+Menschen in Hamburg des Vereins für  
+Internationale Jugendarbeit Hamburg e.V.
+
+5.000,00 1-254.05.03.001.001
+
+Vaeter e.V. (e.V.)  
+Betrieb des Väterzentrums  
+89.209,21 1-254.03.02.006.001  
+Christliches  
+Jugenddorfwerk  
+Deutschlands  
+gemeinnütziger e.V.  
+(CJD) (e.V.)
+
+Sozialraumorientierte Ausstiegshilfe und Unterstützung von Distanzierungsprozessen rechtsaffiner junger Menschen im Rahmen des Bundesprogramms "Demokratie leben"
+
+19.132,10 3-25503001-000210.01
+
+Christliches  
+Jugenddorfwerk  
+Deutschlands  
+gemeinnütziger e.V.  
+(CJD) (e.V.)
+
+Sozialraumorientierte Ausstiegshilfe und Unterstützung von Distanzierungsprozessen rechtsaffiner junger Menschen im Rahmen des Bundesprogramms "Demokratie leben"
+
+93.000,00 3-25503001-000213.01
+
+Arbeit und Leben DGB/VHS Hamburg e.V. (e.V.)
+
+Beratungsstelle "empower" im Rahmen des Bundesprogramms "Demokratie leben"
+
+54.824,12 3-25503001-000210.01
+
+Arbeit und Leben DGB/VHS Hamburg e.V. (e.V.)
+
+Beratungsstelle "empower" im Rahmen des Bundesprogramms "Demokratie leben"
+
+244.000,00 3-25503001-000213.01
+
+Arbeit und Leben DGB/VHS Hamburg e.V. (e.V.)
+
+Mobile Beratung im Rahmen des Bundesprogramms "Demokratie leben"
+
+72.741,91 3-25503001-000210.01
 
 Seite 2 von 54
 
 Zuwendungen 2017
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-Arbeit und Leben Mobile Beratung im Rahmen des 238.000,00 3-25503001-000213.01  
-DGB/VHS Hamburg Bundesprogramms "Demokratie leben"  
-e.V. (e.V.)  
-Türkische Gemeinde Flankierende Maßnahme zur 217.826,55 1-255.03.01.003.001  
-in Hamburg und Einbürgerungsinitiative des Senats  
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Arbeit und Leben DGB/VHS Hamburg e.V. (e.V.)
+
+Mobile Beratung im Rahmen des Bundesprogramms "Demokratie leben"
+
+238.000,00 3-25503001-000213.01
+
+Türkische Gemeinde  
+in Hamburg und  
 Umgebung (TGH)  
 e.V. (e.V.)
 
-Türkische Gemeinde Förderung der chancengerechten Teilhabe 128.000,00 1-255.03.01.003.001 in Hamburg und von Menschen mit Migrationshintergrund im Umgebung (TGH) Sinne des Integrationskonzepts „Teilhabe, e.V. (e.V.) Interkulturelle Öffnung und Zusammenhalt" Projekt: Förderung einer Geschäftsführung bei der Türkischen Gemeinde in Hamburg und...
+Flankierende Maßnahme zur Einbürgerungsinitiative des Senats
 
-Arbeit und Leben "Fachstelle Migration und Vielfalt" 265.500,29 3-25502001-021119.01 DGB/VHS Hamburg e.V. (e.V.) Arbeit und Leben "Fachstelle Migration und Vielfalt" 25.633,98 DGB/VHS Hamburg e.V. (e.V.) Arbeitsgemeinschaft Qualifizierung von freien Trägern im 19.753,95 1-254.02.01.001.001 Kinder- und Rahmen der Islamismus-Prävention Jugendschutz Hamburg e.V. (e.V.) Jugenderholungswer Durchführung von Kinder- und 1.134.744,60 1-254.02.01.001.001 k Hamburg e.V. (e.V.) Jugenderholungsfreizeiten
+217.826,55 1-255.03.01.003.001
 
-jhj Hamburg e.V. Lebenslagenberatung / aktivierende 105.270,08 3-25502001-021517.01 (e.V.) Maßnahmen gemäß § 16 a Abs.2 Nr.3 SGBII Diakonisches Werk Vormundschaften Mündelbetreuung 60.586,33 1-254.03.02.006.001 Hamburg - Landesverband der Inneren Mission e.V. (e.V.) ARINET Arbeits- PiCo - Personenindividueller Coaching für 205.554,83 3-25502001-000004.01 Integrations-Netzwerk Menschen mit Behinderung und GmbH (GmbH) psychischer Erkrankung
+Türkische Gemeinde  
+in Hamburg und  
+Umgebung (TGH)  
+e.V. (e.V.)
 
-"Dolle Deerns" Verein Beratungsstelle gegen sexuelle Gewalt an 145.840,50 1-254.03.02.010.001  
-zur Förderung Mädchen und jungen Frauen  
+Förderung der chancengerechten Teilhabe  
+von Menschen mit Migrationshintergrund im  
+Sinne des Integrationskonzepts „Teilhabe,  
+Interkulturelle Öffnung und Zusammenhalt"  
+Projekt: Förderung einer Geschäftsführung  
+bei der Türkischen Gemeinde in Hamburg  
+und...
+
+128.000,00 1-255.03.01.003.001
+
+Arbeit und Leben DGB/VHS Hamburg e.V. (e.V.)
+
+"Fachstelle Migration und Vielfalt" 265.500,29
+
+Arbeit und Leben DGB/VHS Hamburg e.V. (e.V.)
+
+"Fachstelle Migration und Vielfalt"
+25.633,98
+
+Arbeitsgemeinschaft  
+Kinder- und  
+Jugendschutz  
+Hamburg e.V. (e.V.)
+
+Qualifizierung von freien Trägern im Rahmen der Islamismus-Prävention
+
+19.753,95 1-254.02.01.001.001
+
+Jugenderholungswer k Hamburg e.V. (e.V.)
+
+Durchführung von Kinder- und Jugenderholungsfreizeiten
+
+1.134.744,60 1-254.02.01.001.001
+
+jhj Hamburg e.V. (e.V.)
+
+Lebenslagenberatung / aktivierende Maßnahmen gemäß § 16 a Abs.2 Nr.3 SGBII
+
+105.270,08 3-25502001-021517.01
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+Vormundschaften Mündelbetreuung
+60.586,33 1-254.03.02.006.001
+
+ARINET Arbeits- Integrations-Netzwerk GmbH (GmbH)
+
+PiCo - Personenindividueller Coaching für Menschen mit Behinderung und psychischer Erkrankung
+
+205.554,83 3-25502001-000004.01
+
+"Dolle Deerns" Verein  
+zur Förderung  
 feministischer  
 Mädchenarbeit e.V.  
 (e.V.)
 
-"Dolle Deerns" Verein Durchführung von Projekten zur praktischen 6.494,00 1-254.02.02.001.001 zur Förderung Unterstützung des Berufswahlprozesses feministischer von Mädchen "Mädchen erfahren Berufe" Mädchenarbeit e.V. (e.V.)
+Beratungsstelle gegen sexuelle Gewalt an Mädchen und jungen Frauen
+
+145.840,50 1-254.03.02.010.001
+
+"Dolle Deerns" Verein  
+zur Förderung  
+feministischer  
+Mädchenarbeit e.V.  
+(e.V.)
+
+Durchführung von Projekten zur praktischen Unterstützung des Berufswahlprozesses von Mädchen "Mädchen erfahren Berufe"
+
+6.494,00 1-254.02.02.001.001
+
+3-25502001-021119.01
 
 Seite 3 von 54
 
 Zuwendungen 2017
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-"Dolle Deerns" Verein Betrieb der Kontakt- und Informationsstelle 60.265,14 1-254.02.02.001.001  
-zur Förderung Berufsorientierung und Lebensplanung von  
-feministischer Mädchen  
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+"Dolle Deerns" Verein  
+zur Förderung  
+feministischer  
 Mädchenarbeit e.V.  
 (e.V.)
 
-Trägerinnenverbund Sicherung der Geschäftsfähigkeit von 191.013,71 1-254.03.02.009.001 FLAKS e.V. (Frauen FLAKS e.V. - Zentrum für Frauen in Altona- Lernen Arbeit Kontakt Nord Service) (e.V.)
+Betrieb der Kontakt- und Informationsstelle Berufsorientierung und Lebensplanung von Mädchen
 
-AKTION Betreute Spielangebote auf 51.939,08 1-254.02.01.001.001 KINDERPARADIES Kleinkinderspielplätzen Betreute Kinderspielplätze Hamburg e.V. (e.V.) Jugend und Sport Sicherstellung der Arbeit der Fanprojekte 255.000,00 1-254.02.02.001.001 e.V. (e.V.) Arbeitsgemeinschaft Betrieb einer Beratungsstelle zum Schutz 203.628,71 1-254.02.02.001.001 Kinder- und von Kindern und Jugendlichen Jugendschutz Hamburg e.V. (e.V.) Trägerinnenverbund Förderung 0,5 Stelle "Hauswirtschafter/in" 19.910,79 1-254.03.02.009.001 FLAKS e.V. (Frauen für das Infocafé des Lernen Arbeit Kontakt Mehrgenerationenhauses Service) (e.V.)
+60.265,14 1-254.02.02.001.001
 
-BUND-Jugend Anschaffung eines Zaunes sowie eines 1.959,65 1-254.02.03.001.001 Hamburg (Sonstige) Eingangstores am Verbandshaus im Kellinghusenpark Wendepunkt e.V. Beratungsstelle für sexuell auffällige Kinder, 129.960,77 1-254.03.02.010.001 (e.V.) Jugendliche und junge Erwachsene bis 21 Jahre in Hamburg Wohnschiffprojekt Neue Integrationsangebote in der 31.684,68 2540599912 Altona - Hilfe für Berzeliusstraße für Kinder und Jugendliche Flüchtlingskinder e.V. aus Flüchtlingsfamilien mit ungesichertem (e.V.) Aufenthalt Wohnschiffprojekt Integrationshilfe für Kinder und Jugendliche 49.301,50 2540599912 Altona - Hilfe für aus Flüchtlingsfamilien mit ungesichertem Flüchtlingskinder e.V. Aufenthalt (e.V.) Bücherhallen Dialog in Deutsch - Gesprächsgruppen für 184.503,26 1-255.03.01.002.001 Medienprojekte Menschen mit Migrationshintergrund in den gGmbH (gGmbH) Bücherhallen Arbeiterwohlfahrt Wahrnehmung von 110.000,00 1-253.01.01.003.001 Landesverband Spitzenverbandsförderung Hamburg e.V. (e.V.) Caritasverband für Wahrnehmung von 35.000,00 1-253.01.01.003.001 Hamburg e.V. (e.V.) Spitzenverbandsfunktionen Der Paritätische Wahrnehmung von 120.000,00 1-253.01.01.003.001 Wohlfahrtsverband Spitzenverbandsfunktionen Hamburg e.V. (e.V.)
+Trägerinnenverbund  
+FLAKS e.V. (Frauen  
+Lernen Arbeit Kontakt  
+Service) (e.V.)
+
+Sicherung der Geschäftsfähigkeit von FLAKS e.V. - Zentrum für Frauen in Altona- Nord
+
+191.013,71 1-254.03.02.009.001
+
+AKTION  
+KINDERPARADIES  
+Betreute  
+Kinderspielplätze  
+Hamburg e.V. (e.V.)
+
+Betreute Spielangebote auf Kleinkinderspielplätzen
+
+51.939,08 1-254.02.01.001.001
+
+Jugend und Sport e.V. (e.V.)
+
+Sicherstellung der Arbeit der Fanprojekte 255.000,00 1-254.02.02.001.001
+
+Arbeitsgemeinschaft  
+Kinder- und  
+Jugendschutz  
+Hamburg e.V. (e.V.)
+
+Betrieb einer Beratungsstelle zum Schutz von Kindern und Jugendlichen
+
+203.628,71 1-254.02.02.001.001
+
+Trägerinnenverbund  
+FLAKS e.V. (Frauen  
+Lernen Arbeit Kontakt  
+Service) (e.V.)
+
+Förderung 0,5 Stelle "Hauswirtschafter/in" für das Infocafé des Mehrgenerationenhauses
+
+19.910,79 1-254.03.02.009.001
+
+BUND-Jugend Hamburg (Sonstige)
+
+Anschaffung eines Zaunes sowie eines Eingangstores am Verbandshaus im Kellinghusenpark
+
+1.959,65 1-254.02.03.001.001
+
+Wendepunkt e.V. (e.V.)
+
+Beratungsstelle für sexuell auffällige Kinder, Jugendliche und junge Erwachsene bis 21 Jahre in Hamburg
+
+129.960,77 1-254.03.02.010.001
+
+Wohnschiffprojekt  
+Altona - Hilfe für  
+Flüchtlingskinder e.V.  
+(e.V.)
+
+Neue Integrationsangebote in der  
+Berzeliusstraße für Kinder und Jugendliche  
+aus Flüchtlingsfamilien mit ungesichertem  
+Aufenthalt
+
+31.684,68 2540599912
+
+Wohnschiffprojekt  
+Altona - Hilfe für  
+Flüchtlingskinder e.V.  
+(e.V.)
+
+Integrationshilfe für Kinder und Jugendliche aus Flüchtlingsfamilien mit ungesichertem Aufenthalt
+
+49.301,50 2540599912
+
+Bücherhallen Medienprojekte gGmbH (gGmbH)
+
+Dialog in Deutsch - Gesprächsgruppen für Menschen mit Migrationshintergrund in den Bücherhallen
+
+184.503,26 1-255.03.01.002.001
+
+Arbeiterwohlfahrt Landesverband Hamburg e.V. (e.V.)
+
+Wahrnehmung von Spitzenverbandsförderung
+
+110.000,00 1-253.01.01.003.001
+
+Caritasverband für Hamburg e.V. (e.V.)
+
+Wahrnehmung von Spitzenverbandsfunktionen
+
+35.000,00 1-253.01.01.003.001
+
+Der Paritätische Wohlfahrtsverband Hamburg e.V. (e.V.)
+
+Wahrnehmung von Spitzenverbandsfunktionen
+
+120.000,00 1-253.01.01.003.001
 
 Seite 4 von 54
 
 Zuwendungen 2017
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-Deutsches Rotes Wahrnehmung von 65.000,00 1-253.01.01.003.001  
-Kreuz Landesverband Spitzenverbandsfunktionen  
-Hamburg e.V. (e.V.)
+Zuwendungs-
 
-Diakonisches Werk Wahrnehmung von 135.000,00 1-253.01.01.003.001  
-Hamburg - Spitzenverbandsfunktionen  
-Landesverband der  
-Inneren Mission e.V.  
-(e.V.)  
-Integrationshilfen e.V. Berufliche Eingliederung für Haftentlassene 60.609,73 1-253.03.02.003.001  
-(e.V.) "Sprungbrett"  
-Gemeinnützige Ambulante Wohnbegleitung für 66.885,07 1-253.03.02.003.001  
-Wohnheimgesellscha Haftentlassene  
-ft des Hamburger  
-Fürsorgevereins von  
-1948 m.b.H.  
-(gGmbH)  
-Arbeiter-Samariter- Sozialpädagogische Betreuung und 100.000,00 1-253.03.03.005.001  
-Bund Beratung in der Mistralstraße 3 - 5  
-Sozialeinrichtungen  
-(Hamburg) GmbH  
-(GmbH)  
-Integrationshilfen e.V. Wohnprojekt für Haftentlassene "Trotzdem" 174.621,07 1-253.03.02.003.001  
-(e.V.)  
-Jugendhilfe e.V. Betrieb der Sozialen Beratungsstelle 393.468,64 1-253.03.02.003.001  
-(e.V.) Wandsbek  
-Diakonisches Werk Betrieb der Sozialen Beratungsstelle 353.646,83 1-253.03.02.003.001  
-Hamburg - Bergedorf/Billstedt  
-Landesverband der  
-Inneren Mission e.V.  
-(e.V.)  
-Deutsches Rotes Betrieb der Sozialen Beratungsstelle 382.570,42 1-253.03.02.003.001  
-Kreuz Landesverband Barmbek (Hamburg Nord)  
-Hamburg e.V. (e.V.)
+empfänger
 
-Diakonisches Werk Betrieb der Sozialen Beratungsstelle Altona 381.787,21 1-253.03.02.003.001  
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Deutsches Rotes Kreuz Landesverband Hamburg e.V. (e.V.)
+
+Wahrnehmung von Spitzenverbandsfunktionen
+
+65.000,00 1-253.01.01.003.001
+
+Diakonisches Werk  
 Hamburg -  
 Landesverband der  
 Inneren Mission e.V.  
-(e.V.)  
-Sozialdienst Betrieb der Sozialen Beratungsstelle 379.185,23 1-253.03.02.003.001  
-katholischer Frauen Hamburg-Mitte  
-e.V. Hamburg-Altona  
-(e.V.)  
-Diakonisches Werk Betrieb der Sozialen Beratungsstelle 363.996,22 1-253.03.02.003.001  
-Hamburg - Hamburg-Harburg  
+(e.V.)
+
+Wahrnehmung von Spitzenverbandsfunktionen
+
+135.000,00 1-253.01.01.003.001
+
+Integrationshilfen e.V. (e.V.)
+
+Berufliche Eingliederung für Haftentlassene "Sprungbrett"
+
+60.609,73 1-253.03.02.003.001
+
+Gemeinnützige  
+Wohnheimgesellscha  
+ft des Hamburger  
+Fürsorgevereins von  
+1948 m.b.H.  
+(gGmbH)
+
+Ambulante Wohnbegleitung für Haftentlassene
+
+66.885,07 1-253.03.02.003.001
+
+Arbeiter-Samariter-  
+Bund  
+Sozialeinrichtungen  
+(Hamburg) GmbH  
+(GmbH)
+
+Sozialpädagogische Betreuung und Beratung in der Mistralstraße 3 - 5
+
+100.000,00 1-253.03.03.005.001
+
+Integrationshilfen e.V. (e.V.)
+
+Wohnprojekt für Haftentlassene "Trotzdem" 174.621,07 1-253.03.02.003.001
+
+Jugendhilfe e.V. (e.V.)
+
+Betrieb der Sozialen Beratungsstelle Wandsbek
+
+393.468,64 1-253.03.02.003.001
+
+Diakonisches Werk  
+Hamburg -  
 Landesverband der  
 Inneren Mission e.V.  
-(e.V.)  
-Hamburger Betrieb der Sozialen Beratungsstelle 368.824,29 1-253.03.02.003.001  
-Fürsorgeverein von Eimsbüttel  
-1948 e.V. (e.V.)
+(e.V.)
+
+Betrieb der Sozialen Beratungsstelle Bergedorf/Billstedt
+
+353.646,83 1-253.03.02.003.001
+
+Deutsches Rotes Kreuz Landesverband Hamburg e.V. (e.V.)
+
+Betrieb der Sozialen Beratungsstelle Barmbek (Hamburg Nord)
+
+382.570,42 1-253.03.02.003.001
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+Betrieb der Sozialen Beratungsstelle Altona 381.787,21 1-253.03.02.003.001
+
+Sozialdienst  
+katholischer Frauen  
+e.V. Hamburg-Altona  
+(e.V.)
+
+Betrieb der Sozialen Beratungsstelle Hamburg-Mitte
+
+379.185,23 1-253.03.02.003.001
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+Betrieb der Sozialen Beratungsstelle Hamburg-Harburg
+
+363.996,22 1-253.03.02.003.001
+
+Hamburger Fürsorgeverein von 1948 e.V. (e.V.)
+
+Betrieb der Sozialen Beratungsstelle Eimsbüttel
+
+368.824,29 1-253.03.02.003.001
 
 Seite 5 von 54
 
-Zuwendungen 2017 noch Anlage 1
+Zuwendungen 2017
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Diakonisches Werk Betrieb der Tagesaufenthaltsstätte Herz As 302.845,21 1-253.03.01.001.001 Hamburg - Landesverband der Inneren Mission e.V. (e.V.) alsterdorf assistenz Betrieb der Freiwilligenagentur im Bezirk 50.000,00 1-255.03.02.001.001 west gemeinnützige Hamburg-Nord GmbH (gGmbH) Johann Daniel Landeskoordinierungsstelle für das 41.270,65 3-25503001-000210.01 Lawaetz-Stiftung Beratungsnetzwerk gegen (Stiftung des Rechtsextremismus im Rahmen des öffentlichen Rechts) Bundesprogramms "Demokratie leben" Johann Daniel Landeskoordinierungsstelle für das 93.216,33 3-25503001-000213.01 Lawaetz-Stiftung Beratungsnetzwerk gegen (Stiftung des Rechtsextremismus im Rahmen des öffentlichen Rechts) Bundesprogramms "Demokratie leben" verikom - Verbund für Ergänzende Sprachförderung für besondere 39.500,00 1-255.03.01.002.001 interkulturelle Lernbedarfe Kommunikation und Projekt: Niedrigschwellige Sprachkurse - Bildung e.V. (e.V.) Alphakurse in der Herkunftssprache Notruf für Betrieb einer Fachberatungsstelle bei 370.391,78 1-255.03.04.002.001 vergewaltigte Frauen sexualisierter Gewalt und Mädchen e.V. (e.V.) Fünftes Hamburger Unterhalt und Betrieb des 5. Hamburger 819.594,49 1-255.03.04.001.001 Frauenhaus e.V. Frauenhauses (e.V.)
-2. Hamburger Unterhalt und Betrieb des 2. Hamburger 1.227.756,31 1-255.03.04.001.001 Frauenhaus e.V. Frauenhauses. (e.V.) Diakonisches Werk Unterhalt und Betrieb des Frauenhauses 908.400,28 1-255.03.04.001.001 Hamburg - des Diakonischen Werkes Hamburg Landesverband der Inneren Mission e.V. (e.V.) KOOFRA - Betrieb einer Koordinierungsstelle gegen 348.291,07 1-255.03.04.002.001 Koordinierungsstelle Frauenhandel und gegen Menschenhandel gegen Frauenhandel zum Zwecke der Arbeitsausbeutung e.V. (e.V.) Interkulturelle Betrieb einer interkulturellen Beratungsstelle 531.219,92 1-255.03.04.002.001 Begegnungsstätte für Opfer von häuslicher Gewalt und e.V. (e.V.) Zwangsheirat (LÂLE + SAVÎA)
+Zuwendungs-
 
-4.Hamburger Unterhalt und Betrieb des 4. Hamburger 841.225,50 1-255.03.04.001.001 Frauenhaus e.V. Frauenhauses (e.V.) Frauen helfen Frauen Unterhalt und Betrieb des 1. & 3. 1.496.433,81 1-255.03.04.001.001 Hamburg e.V. (e.V.) Hamburger Frauenhauses
+empfänger
 
-SterniPark GmbH die Schaffung von Krippenplätzen in der 377.530,00 2-25406001-00002.17 (GmbH) Kita Buxtehuder Str. 7, 21073 Hamburg im Rahmen der Förderrichtlinie zum Zusatzprogramm Krippenausbau 2015- 2018
+Zuwendungszweck (kurz) Zuwendungs-
 
-Seite 6 von 54
+höhe (in Euro)
 
-Zuwendungen 2017 noch Anlage 1
+Finanzposition
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Opferhilfe Hamburg Betrieb einer Beratungsstelle bei 612.640,16 1-255.03.04.002.001 e.V. (e.V.) Gewaltstraftaten jeglicher Form Zukunft Arbeit Tagwerk Grün 153.945,82 3-25502001-021615.01 gemeinnützige GmbH (gGmbH) verikom - Verbund für amira - Beratung bei Diskriminierung wegen 117.034,00 1-255.03.01.003.001 interkulturelle (zugeschriebener) Herkunft und Religion Kommunikation und Bildung e.V. (e.V.) SpielTiger e.V. Spielaktonen in Unterkünften der öffentlich- 575.343,02 1-254.02.01.001.001 Institut für Bewegung, rechtlichen Unterbringung Kultur und Spiel (e.V.)
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
 
-Caritasverband für Stützpunkt für obdachlose Menschen 32.000,00 1-253.03.01.001.001 Hamburg e.V. (e.V.) Caritasverband für Bahnhofsmission 64.000,00 1-253.03.01.001.001 Hamburg e.V. (e.V.) Diakonisches Werk Hamburger Stadtmission, anteilige 202.500,00 1-253.03.01.001.001 Hamburg - Personalkosten für die "Bahnhofsmission" Landesverband der Inneren Mission e.V. (e.V.) Diakonisches Werk Betrieb der Tagesaufenthaltsstätte 81.000,00 1-253.03.01.001.001 Hamburg - Bundesstraße Landesverband der Inneren Mission e.V. (e.V.) Diakonisches Werk Straßensozialarbeit in der Hamburger City 58.427,50 1-253.03.01.001.001 Hamburg - Landesverband der Inneren Mission e.V. (e.V.) Diakonisches Werk Straßensozialarbeit Projekt 171.546,76 1-253.03.01.001.001 Hamburg - Plata/Anlaufstelle für wohnungslose EU- Landesverband der Bürger Inneren Mission e.V. (e.V.) Kemenate-Frauen- Betrieb eines Tagestreffs für wohnungslose 258.553,52 1-253.03.01.001.001 Wohnen e.V. (e.V.) Frauen AQtivus Lebenslagenberatung / aktivierende 788.454,98 3-25502001-021517.01 Servicegesellschaft Maßnahmen gem. § 16 a Abs. 2 Nr. 3 SGB für Aktivität auf dem II Arbeitsmarkt gGmbH (gGmbH) Verein zur Förderung Durchführung von Spielaktionen in und bei 207.882,89 1-254.02.01.001.001 der Jugendarbeit e.V. Durch- und Übergangseinrichtungen für (e.V.) Zuwanderer und wohnungslose Familien und in infrastrukturell wenig erschlossenen Stadtteilen und isolierten Wohnlagen in Hamburg Rom und Cinti Union Beratungsstelle für Roma und Sinti in 666.760,82 1-255.03.01.003.001 e.V. (e.V.) Hamburg
+Betrieb der Tagesaufenthaltsstätte Herz As 302.845,21 1-253.03.01.001.001
 
-Seite 7 von 54
+alsterdorf assistenz west gemeinnützige GmbH (gGmbH)
 
-Zuwendungen 2017 noch Anlage 1
+Betrieb der Freiwilligenagentur im Bezirk Hamburg-Nord
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-jaf-Verein für FILM DIR EINEN - Medienprojekte mit 7.290,00 1-254.02.01.001.001  
-medienpädagogische Kindern und Jugendlichen  
-Praxis Hamburg e.V.  
-(e.V.)  
-Solidarische Lebenslagenberatung / aktivierende 300.751,29 3-25502001-021517.01  
-Psychosoziale Hilfe Maßnahmen gemäß § 16 a Abs Nr. 3 SGB  
-Hamburg e.V. (e.V.) II  
-Ev.-Luth. Konfessionelle Familienbildung 280.000,00 1-254.03.02.006.001  
-Kirchenkreis  
-Hamburg-  
-West/Südholstein  
-(Öffentlich-rechtliche  
-Körperschaft)
+50.000,00 1-255.03.02.001.001
 
-Beschäftigung und Vormundschaften für minderjährige 222.402,47 1-254.03.02.006.001 Bildung e.V. (e.V.) unbegleitete Flüchtlinge Deutscher Betrieb des Elterntelefons Hamburg 51.730,86 1-254.03.02.006.001 Kinderschutzbund Landesverband Hamburg e.V. (e.V.) Deutscher Projekt "Familienpaten" 54.411,33 1-254.03.02.006.001 Kinderschutzbund Landesverband Hamburg e.V. (e.V.) Beratungs- und Psychosoziale Beratung von Frauen in 170.327,71 1-254.03.02.009.001 Informationsstelle von Krisensituationen Frauen für Frauen - Winterhude- e.V. (e.V.) verikom - Verbund für Betrieb einer Interventionsstelle bei 840.406,16 1-255.03.04.002.001 interkulturelle häuslicher Gewalt und Stalking sowie einer Kommunikation und Koordinierungsstelle bei Bildung e.V. (e.V.) geschlechtsspezifischer Gewalt verikom - Verbund für Betrieb einer interkulturellen Beratungsstelle 463.969,76 1-255.03.04.002.001 interkulturelle gegen häusliche Gewalt und Zwangsheirat Kommunikation und (i.bera und savîa) Bildung e.V. (e.V.) Verband Kinder- und Landesweiter Fachverband für offene 163.041,20 1-254.02.01.001.001 Jugendarbeit Kinder- und Jugendarbeit Hamburg e.V. (e.V.) Zentrale Information Betrieb der Beratungsstelle "Zentrale 1.443.931,93 1-255.03.01.005.001 und Beratung für Information und Beratung für Flüchtlinge Flüchtlinge gGmbH gGmbH" (ZIB) - Flüchtlingszentrum (gGmbH) Beratungs- und Projekt Biff Harburg, Psychosoziale 91.122,80 1-254.03.02.009.001 Informationsstelle von Beratung von Frauen in Krisensituationen Frauen für Frauen - Winterhude- e.V. (e.V.) Bund der Betrieb des Beratungszentrums für 51.858,98 1-253.04.01.001.001 Schwerhörigen e.V. Schwerhörige und Ertaubte Hamburg (e.V.)
-
-Seite 8 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Alleinerziehenden Beratungs- und Begegnungsstätte für 242.339,93 1-254.04.02.002.228 Treffpunkt und Alleinerziehende und Beratung sowie Beratung e.V. (ATB) Gruppenarbeit für Schwangere in der (e.V.) Trennungskrise SpielTiger e.V. Begleitende Kinder- und Jugendarbeit in 147.116,76 1-254.02.01.001.001 Institut für Bewegung, den Einrichtungen der ZEA und der Kultur und Spiel (e.V.) öffentlichen Unterbringung
-
-Gehörlosenverband Betrieb einer Kontakt- und Beratungsstelle 135.836,00 1-253.04.01.001.001 Hamburg e.V. (e.V.) für gehörlose, schwerhörige und ertaubte Menschen Gehörlosenverband Betrieb einer Kontakt- und Beratungsstelle 15.400,00 2530499911 Hamburg e.V. (e.V.) für gehörlose, schwerhörige und ertaubte Menschen Gehörlosenverband Betrieb einer Kontakt- und Beratungsstelle 4.600,00 2530499912 Hamburg e.V. (e.V.) für gehörlose, schwerhörige und ertaubte Menschen Sozialdienst SKF vor Ort-Stärkung der 24.097,37 1-254.03.02.006.001 katholischer Frauen Familienkompetenz durch die e.V. (e.V.) stadtteilorientierten Angebote vor Ort Zentrale Information Clearingstelle Gersundheitsversorgung 55.200,00 5-25302999-000001.01 und Beratung für Ausländer Flüchtlinge gGmbH (gGmbH) Zentrale Information Clearingstelle Gersundheitsversorgung 265.508,94 1-253.02.03.003.001 und Beratung für Ausländer Flüchtlinge gGmbH (gGmbH) European Förderung des Europa-JUGEND-Büros, 164.723,78 1-254.05.03.001.001 PLAYWORK Zuschuss zu den Personalkosten Association e.V. (e.V.) AUTONOM LEBEN Betrieb einer Beratungsstelle für Menschen 120.650,83 1-253.04.01.001.001 e.V. (e.V.) mit Behinderung Koordinierungsstelle Fachkräftesicherung bei Kleinen und 617.576,96 3-25502001-000009.01 Weiterbildung und Mittleren Unternehmen (KMU) im Rahmen Beschäftigung e.V. der Hamburger Fachkräftestrategie (KWB) (e.V.) Deutscher Vormundschaften für Flüchtlingskinder 156.177,49 1-254.03.02.006.001 Kinderschutzbund Landesverband Hamburg e.V. (e.V.) Barrierefrei Leben Betrieb eines Beratungszentrums für 297.921,89 1-253.04.01.001.001 e.V.-Verein für technische Hilfen und Hilfsmittelberatung, Wohnraumanpassung Wohnraumanpassun g und barrierefreie Bauberatung (e.V.) Jugend der Ersatzbeschaffung von Mobiliar für die 2.147,18 1-254.02.03.001.001 Deutschen Geschäftsstelle im Ladenbeker Furtweg 120 Lebensrettungs- Gesellschaft Landesverband Hamburg e.V. (Sonstige)
-
-Seite 9 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-MV-Jugend Hamburg Erstausstattung Jugendräume Bramfeld mit 4.399,00 1-254.02.03.001.001  
-(Sonstige) Musiktechnik  
-PFIFF gGmbH Bereitschaftspflege 97.803,73 1-254.04.02.002.228  
-Pflegekinder und ihre  
-Familien -  
-Fortbildung,  
-Information,  
-Öffentlichkeitsarbeit  
-(gGmbH)  
-PFIFF gGmbH Vermittlung und Begleitung von 198.846,57 1-254.04.02.002.228  
-Pflegekinder und ihre Patenschaften für Kinder psychisch kranker  
-Familien - Mütter und Väter  
-Fortbildung,  
-Information,  
-Öffentlichkeitsarbeit  
-(gGmbH)  
-AKTION Modernisierung der Internetseite 2.682,00 1-254.02.01.001.001  
-KINDERPARADIES  
-Betreute  
-Kinderspielplätze  
-Hamburg e.V. (e.V.)  
-Hamburger Betrieb einer Geschäftsstelle und 90.000,00 1-253.04.01.001.001  
-Landesarbeitsgemein Vereinstätigkeit der Hamburger  
-schaft für behinderte Landesarbeitsgemeinschaft für behinderte  
-Menschen e.V. (e.V.) Menschen
-
-PFIFF gGmbH Hamburger Pflegeelternschule 193.512,42 1-254.04.02.002.228  
-Pflegekinder und ihre  
-Familien -  
-Fortbildung,  
-Information,  
-Öffentlichkeitsarbeit  
-(gGmbH)  
-PFIFF gGmbH Overhead und Öffentlichkeitsarbeit 266.166,16 1-254.04.02.002.228  
-Pflegekinder und ihre  
-Familien -  
-Fortbildung,  
-Information,  
-Öffentlichkeitsarbeit  
-(gGmbH)  
-Institut für Entwicklung, Durchführung und 15.000,00 1-254.02.02.001.001  
-konstruktive Unterstützung von regionsbezogenen  
-Konfliktaustragung Qualifizierungsmaßnahmen zur  
-und Mediation e.V. Gewaltprävention für den Bereich der  
-(e.V.) Kinder- und Jugendarbeit  
-BIFF - Psychosoziale Betrieb einer Frauenberatungsstelle 210.372,83 1-254.03.02.009.001  
-Beratung und Eimsbüttel-Altona  
-Information für  
-Frauen und Mädchen  
-e.V. (e.V.)
-
-Seite 10 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Hamburger Deckung der Personalkosten für die 94.938,23 1-253.04.01.001.001 Gehörlosen- notwendige Beschäftigung eines Sportverein von 1904 Geschäftsführers im Sportbetrieb für e.V. (e.V.) gehörlose, ertaubte, scherhörige, CI- trägerische Menschen sowie die teilweise Deckung der Sachkosten der Geschäftsstelle im HGSV Diakonisches Werk Förderung von regionalen 335.169,79 1-255.03.01.001.001 Hamburg - Integrationszentren (IZ) für Zugewanderte in Landesverband der Hamburg Inneren Mission e.V. gem. der Richtlinie der Behörde für Arbeit, (e.V.) Soziales, Familie und Integration (BASFI) vom 29.07.2016 Carl von Ossietzky Evaluation des Hamburger Programms 157.039,06 1-254.04.02.004.228 Universität Oldenburg "Sozialräumliche Hilfen und Angebote" (Öffentlich-rechtliche (SHA) Körperschaft)
-
-Behinderten- und Betrieb der Geschäftsstelle des Behinderten- 81.970,38 1-253.04.01.001.001 Rehabilitations- und Rehabilitations-Sportverbands Sportverband Hamburg e.V. Hamburg e.V. (BRS Hamburg) (e.V.) wellcome ggmbh Landeskoordination wellcome Hamburg 37.028,37 1-254.03.02.006.001 (gGmbH) Sprungbrett Finanzierung einer Anleiterstelle 33.953,97 3-25502001-021615.01 Dienstleistungen Gedenkstätte Neuengamme gGmbH (gGmbH) Deutscher Durchführung des Projekts "Starke Eltern - 27.781,93 1-254.03.02.006.001 Kinderschutzbund Starke Kinder" Landesverband Hamburg e.V. (e.V.) Diakonisches Werk Anschaffung und Implementierung einer 12.500,00 2-25502001-68608.15 Hamburg - Beratungssoftware zur elektronischen Landesverband der Teilnehmendenverwaltung in der Zentralen Inneren Mission e.V. Anlaufstelle Anerkennung (ZAA) (e.V.) Kooperation Arbeiten, Tagwerk-Projekt "La Cantina/Suppenküche" 30.382,41 3-25502001-021615.01 Lernen und Ausbildung e.V. (e.V.)
-
-Caritasverband für Betrieb der Erziehungsberatungsstellen des 47.200,00 1-254.03.02.006.001 Hamburg e.V. (e.V.) Caritasverbandes für Hamburg e.V. in St. Georg, Billstedt und Rothenburgsort
-
-BI Bildung und Förderung von regionalen 249.825,00 1-255.03.01.001.001 Integration Hamburg Integrationszentren für Zugewanderte (IZ) Süd gGmbH im Bezirk Hamburg-Mitte gem. der Richtlinie (gGmbH) der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) vom 29.07.2016
-
-Seite 11 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) BI Bildung und Förderung von regionalen 253.927,95 1-255.03.01.001.001 Integration Hamburg Integrationszentren für Zugewanderte (IZ) Süd gGmbH im Bezirk Hamburg Harburg gem. der (gGmbH) Richtlinie der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) vom
-29.07.2016 Caritasverband für Förderung von regionalen 249.825,00 1-255.03.01.001.001 das Erzbistum Integrationszentren für Zugewanderte (IZ) Hamburg e.V. (e.V.) im Bezirk Hamburg Wandsbek gem. der Richtlinie der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) vom
-29.07.2016 Caritasverband für Förderung von regionalen 83.275,00 1-255.03.01.001.001 das Erzbistum Integrationszentren für Zugewanderte (IZ) Hamburg e.V. (e.V.) im Bezirk Hamburg Bergedorf gem. der Richtlinie der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) vom
-29.07.2016 Internationaler Bund Förderung von regionalen 166.550,00 1-255.03.01.001.001 (IB) Freier Träger der Integrationszentren für Zugewanderte (IZ) Jugend-, Sozial- und im Bezirk Hamburg Wandsbek gem. der Bildungsarbeit (e.V.) Richtlinie der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) vom
-29.07.2016 Internationaler Bund Förderung von regionalen 83.275,00 1-255.03.01.001.001 (IB) Freier Träger der Integrationszentren für Zugewanderte (IZ) Jugend-, Sozial- und im Bezirk Hamburg Bergedorf gem. der Bildungsarbeit (e.V.) Richtlinie der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) vom
-29.07.2016 Interkulturelle Förderung von regionalen 249.825,00 1-255.03.01.001.001 Begegnungsstätte Integrationszentren für Zugewanderte (IZ) e.V. (e.V.) im Bezirk Hamburg Eimsbüttel gem. der Richtlinie der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) vom
-29.07.2016 Interkulturelle Förderung von regionalen 83.275,00 1-255.03.01.001.001 Begegnungsstätte Integrationszentren für Zugewanderte (IZ) e.V. (e.V.) im Bezirk Hamburg-Mitte/St. Pauli gem. der Richtlinie der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) vom
-29.07.2016 verikom - Verbund für Förderung von regionalen 333.100,00 1-255.03.01.001.001 interkulturelle Integrationszentren für Zugewanderte (IZ) Kommunikation und im Bezirk Hamburg Altona gem. der Bildung e.V. (e.V.) Richtlinie der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) vom
-29.07.2016 verikom - Verbund für Förderung von regionalen 374.737,50 1-255.03.01.001.001 interkulturelle Integrationszentren für Zugewanderte (IZ) Kommunikation und im Bezirk Hamburg-Mitte gem. der Richtlinie Bildung e.V. (e.V.) der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) vom 29.07.2016
-
-Seite 12 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Verein zur Förderung Spielaktionen in Unterkünften der öffentlich- 176.658,57 1-254.02.01.001.001 der Jugendarbeit e.V. rechtlichen Unterbringung (Erweiterung 1) (e.V.)
-
-Landesarbeitsgemein Zwei halbtägige Fachveranstaltungen 650,00 1-254.03.02.006.001 schaft für (Fortbildungen für Fachkräfte) Erziehungsberatung in der Freien und Hansestadt Hamburg (Sonstige) Arbeitslosen- Lebenslagenberatung / aktivierende 2.413.546,06 3-25502001-021517.01 Telefonhilfe e.V. Maßnahmen gemäß § 16 a Abs. 2 Nr. 3 (e.V.) SGB II Bildungswerk der Intensivierung der Zusammenarbeit 48.172,00 3-25502001-021119.01 Wirtschaft Hamburg zwischen Schulen und Unternehmen in e.V. (e.V.) regionalen Arbeitskreisen SCHULEWIRTSCHAFT für eine bessere Berufs- und Studienorientierung Mook wat-Verein zur Tagwerk - Projekt "Arbeitsladen Dulsberg 97.102,46 3-25502001-021615.01 Förderung der für Langzeitarbeitslose mit Selbsthilfe-e.V. (e.V.) Vermittlungshemmnissen
-
-Mook wat-Verein zur Tagwerk - Projekt: "Mook wat PC" 23.361,53 3-25502001-021615.01 Förderung der Selbsthilfe-e.V. (e.V.)
-
-Zentrale Information Intergrationsförderung von Zugewanderten 1.459.398,40 1-255.03.01.002.001 und Beratung für in Hamburg Flüchtlinge gGmbH Förderung: Deutschkurse für Flüchtlinge (gGmbH) Ev.-Luth. die laufende Förderung des EKiZ in der Kita 77.012,17 3-25406001-000010.05 Kirchenkreis Maria Magdalena, Achtern Born 127, 22549 Hamburg- Hamburg West/Südholstein (Öffentlich-rechtliche Körperschaft)
-
-Rudolf Ballin-Stiftung die laufende Förderung des EKiZ in der Kita 61.609,73 3-25406001-000010.05 e.V. (e.V.) Spielnetz, Bockhorster Weg 3, 21031 Hamburg Ev.-Luth. die laufende Förderung des EKiZ in der Kita 61.609,73 3-25406001-000010.05 Kirchenkreis Sonnengarten, Bornheide 76, 22549 Hamburg- Hamburg West/Südholstein (Öffentlich-rechtliche Körperschaft)
-
-Deutsches Rotes die laufende Förderung des EKiZ in der Kita 61.609,73 3-25406001-000010.05  
-Kreuz Hamburg "Bluma Mekler", Brüder-Hornemann-Straße  
-gemeinnützige 3, 22457 Hamburg  
-Gesellschaft zur  
-Förderung der Kinder-  
-und Jugendhilfe mbH  
-(gGmbH)
-
-Seite 13 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Kinderwelt Hamburg die laufende Förderung des EKiZ in der Kita 61.609,73 3-25406001-000010.05 e.V. (e.V.) Rappelkiste, Hermann-Balk-Str. 47, 22147 Hamburg WABE e.V. (e.V.) die laufende Förderung des EKiZ in der Kita 61.609,73 3-25406001-000010.05 Neuer Mohnhof, Hinterm Graben 37, 21029 Hamburg Verein für die Förderung des EKiZ in der Kita 51.341,44 1-254.06.01.002.001 stadtteilbezogene Schilleroper, Lerchenstraße 28, 22767 milieunahe Hamburg Erziehungshilfen e.V. (e.V.) Verein für die Förderung des EKiZ in der Kita 25.670,73 3-25406001-000010.05 stadtteilbezogene Schilleroper, Lerchenstraße 28, 22767 milieunahe Hamburg Erziehungshilfen e.V. (e.V.) Deutsches Rotes die laufende Förderung des EKiZ in der Kita 61.609,73 3-25406001-000010.05 Kreuz, Kreisverband "DRK Kinderzentrum Neuenfelde", Hamburg-Harburg Liedendkummer Bogen 2, 21129 Hamburg e.V. (e.V.) Ev.-Luth. die laufende Förderung des EKiZ in der Kita 77.012,17 3-25406001-000010.05 Kirchenkreis Luther, Lühmannstr. 13a, 21075 Hamburg Hamburg-Ost (Öffentlich-rechtliche Körperschaft)
-
-Ev.-Luth. Luther- die laufende Förderung des EKiZ in der Kita 58.227,84 3-25406001-000010.05 Kirchengemeinde Luthergemeinde Hamburg-Bahrenfeld, Hamburg-Bahrenfeld Lyerstraße 25, 22761 Hamburg (Öffentlich-rechtliche Körperschaft)
-
-Ev.-Luth. die laufende Förderung des EKiZ in der Kita 77.012,17 3-25406001-000010.05  
-Kirchenkreis Emmaus, Mannesallee 13, 21107 Hamburg  
-Hamburg-Ost  
-(Öffentlich-rechtliche  
-Körperschaft)
-
-Evangelische Stiftung die laufende Förderung des EKiZ in der Kita 61.609,73 3-25406001-000010.05 Alsterdorf (Stiftung Moorwisch, Moorwisch 2, 22547 Hamburg des privaten Rechts)
-
-Rudolf Ballin-Stiftung die laufende Förderung des EKiZ in der Kita 61.609,73 3-25406001-000010.05 e.V. (e.V.) Kinderhaus Mümmelmaus, Paul-Klee- Straße 3, 22115 Hamburg Deutsches Rotes die laufende Förderung des EKiZ in der Kita 77.012,17 3-25406001-000010.05 Kreuz Hamburg Regenbogen, Röpraredder 70, 21031 gemeinnützige Hamburg Gesellschaft zur Förderung der Kinder- und Jugendhilfe mbH (gGmbH)
-
-Seite 14 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Arbeiterwohlfahrt die laufende Förderung des EKiZ in der Kita 51.341,44 1-254.06.01.002.001 Landesverband Johanna-Kirchner-Haus, Rosa-Schapiere- Hamburg e.V. (e.V.) Weg 8, 21035 Hamburg Arbeiterwohlfahrt die laufende Förderung des EKiZ in der Kita 25.670,73 3-25406001-000010.05 Landesverband Johanna-Kirchner-Haus, Rosa-Schapiere- Hamburg e.V. (e.V.) Weg 8, 21035 Hamburg Ev.-Luth. die laufende Förderung des EKiZ in der Kita 61.609,73 3-25406001-000010.05 Kirchenkreis Iserbrook, Schenefelder Landstr. 198, Hamburg- 22589 Hamburg West/Südholstein (Öffentlich-rechtliche Körperschaft)
-
-Deutsches Rotes die laufende Förderung des EKiZ in der Kita 77.012,17 3-25406001-000010.05 Kreuz, Kreisverband Lelka Birnbaum, St. Pauli Hafenstraße 100, Hamburg-Harburg 20359 Hamburg e.V. (e.V.) Deutsches Rotes die laufende Förderung für das EKiZ in der 77.012,17 3-25406001-000010.05 Kreuz, Kreisverband Kita Stubbenhof, Dr. Ernst-Hinze-Haus, Hamburg-Harburg Stubbenhof 20, 21147 Hamburg e.V. (e.V.) Arbeiterwohlfahrt die laufende Förderung des EKiZ in der Kita 77.012,17 3-25406001-000010.05 Landesverband Löwenzahn, Tegelsbarg 2h, 22399 Hamburg e.V. (e.V.) Hamburg Elbkinder die laufende Förderung des EKiZ in der Kita 64.176,81 3-25406001-000010.05 Vereinigung An der Falkenbek, An der Falkenbek 4, Hamburger Kitas 21149 Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 12.835,36 Vereinigung An der Falkenbek, An der Falkenbek 4, Hamburger Kitas 21149 Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 51.341,44 3-25406001-000010.05 Vereinigung Bengelsdorfstraße, Bengelsdorfstraße 7, Hamburger Kitas 22179 Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 10.268,29 Vereinigung Bengelsdorfstraße, Bengelsdorfstraße 7, Hamburger Kitas 22179 Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 64.176,81 3-25406001-000010.05 Vereinigung Dahlemer Ring, Dahlemer Ring 3, 22045 Hamburger Kitas Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 12.835,36 Vereinigung Dahlemer Ring, Dahlemer Ring 3, 22045 Hamburger Kitas Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 51.341,44 3-25406001-000010.05 Vereinigung Dortmunder Straße, Dortmunder Straße 44, Hamburger Kitas 22419 Hamburg gGmbH (gGmbH)
-
-Seite 15 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Elbkinder die laufende Förderung des EKiZ in der Kita 10.268,29 Vereinigung Dortmunder Straße, Dortmunder Straße 44, Hamburger Kitas 22419 Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 51.341,44 3-25406001-000010.05 Vereinigung Druckerstraße, Druckerstr. 19 22117 Hamburger Kitas Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 10.268,29 Vereinigung Druckerstraße, Druckerstr. 19 22117 Hamburger Kitas Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 51.341,44 3-25406001-000010.05 Vereinigung Eddelbüttelstraße, Eddelbüttelstraße 9, Hamburger Kitas 21149 Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 10.268,29 Vereinigung Eddelbüttelstraße, Eddelbüttelstraße 9, Hamburger Kitas 21149 Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 51.341,44 3-25406001-000010.05 Vereinigung Hartzloh, Hartzloh 50, 22307 Hamburg Hamburger Kitas gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 10.268,29 Vereinigung Hartzloh, Hartzloh 50, 22307 Hamburg Hamburger Kitas gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 51.341,44 3-25406001-000010.05 Vereinigung Hermannstal, Hermannstal 88, 22119 Hamburger Kitas Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 10.268,29 Vereinigung Hermannstal, Hermannstal 88, 22119 Hamburger Kitas Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 51.341,44 3-25406001-000010.05 Vereinigung Stadt Oase, Lohkampstraße 41, 22523 Hamburger Kitas Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 10.268,29 Vereinigung Stadt Oase, Lohkampstraße 41, 22523 Hamburger Kitas Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 51.341,44 3-25406001-000010.05 Vereinigung Lothringer Straße, Lothringer Str. 18, 22049 Hamburger Kitas Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 10.268,29 Vereinigung Lothringer Straße, Lothringer Str. 18, 22049 Hamburger Kitas Hamburg gGmbH (gGmbH)
-
-Seite 16 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Elbkinder die laufende Förderung des EKiZ in der Kita 48.523,20 3-25406001-000010.05 Vereinigung Osterbrook, Osterbrook 49, 20537 Hamburger Kitas Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 9.704,64 Vereinigung Osterbrook, Osterbrook 49, 20537 Hamburger Kitas Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 51.341,44 3-25406001-000010.05 Vereinigung Elb-Kinder, Prassekstraße 3, 21109 Hamburger Kitas Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 10.268,29 Vereinigung Elb-Kinder, Prassekstraße 3, 21109 Hamburger Kitas Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 48.523,20 3-25406001-000010.05 Vereinigung Sandfoort, Sandfoort 39, 22415 Hamburg Hamburger Kitas gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 9.704,64 Vereinigung Sandfoort, Sandfoort 39, 22415 Hamburg Hamburger Kitas gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 51.341,44 3-25406001-000010.05 Vereinigung Scheplerstraße, Scheplerstraße 5, 22767 Hamburger Kitas Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 10.268,29 Vereinigung Scheplerstraße, Scheplerstraße 5, 22767 Hamburger Kitas Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 48.523,20 3-25406001-000010.05 Vereinigung Spitzbergenweg, Spitzbergenweg 40, 22145 Hamburger Kitas Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 9.704,64 Vereinigung Spitzbergenweg, Spitzbergenweg 40, 22145 Hamburger Kitas Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 51.341,44 3-25406001-000010.05 Vereinigung Steilshooper Allee, Steilshooper Allee 30, Hamburger Kitas 22309 Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 10.268,29 Vereinigung Steilshooper Allee, Steilshooper Allee 30, Hamburger Kitas 22309 Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 51.341,44 3-25406001-000010.05 Vereinigung Uffelnsweg, Uffelnsweg 1, 20539 Hamburg Hamburger Kitas gGmbH (gGmbH)
-
-Seite 17 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Elbkinder die laufende Förderung des EKiZ in der Kita 10.268,29 Vereinigung Uffelnsweg, Uffelnsweg 1, 20539 Hamburg Hamburger Kitas gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 51.341,44 3-25406001-000010.05 Vereinigung Vizelinstraße, Vizelinstraße 48, 22529 Hamburger Kitas Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 10.268,29 Vereinigung Vizelinstraße, Vizelinstraße 48, 22529 Hamburger Kitas Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 64.176,81 1-254.06.01.002.001 Vereinigung Wagrierweg, Wagrierweg 16, 22455 Hamburger Kitas Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 12.835,36 Vereinigung Wagrierweg, Wagrierweg 16, 22455 Hamburger Kitas Hamburg gGmbH (gGmbH) ISIS-Beratungsstelle Miete inkl. Betriebs- und Heizkosten für das 7.109,38 1-254.03.02.009.001 für Frauen und Jahr 2017 Mädchen e.V. (e.V.)
-
-Caritasverband für Zuschuss für den Betrieb der Krankenstube 367.948,71 1-253.03.01.001.001 das Erzbistum für Obdachlose Hamburg e.V. (e.V.) SCHURA - Rat der Maßnahmen zur Vorbeugung und 102.532,36 3-25503001-000211.01 islamischen Bekämpfung von religiös motiviertem Gemeinschaften in Extremismus und antimuslimischer Hamburg e.V. (e.V.) Diskriminierung. BI Bildung und Ergänzende Sprachförderung für besondere 11.000,00 1-255.03.01.002.001 Integration Hamburg Lernbedarfe im Rahmen des EHAP- Süd gGmbH Projektes step.in (gGmbH) Deutsches Rotes den Betrieb eines halboffenen 54.243,00 2540699917 Kreuz, Kreisverband Kinderbetreuungsangebots (HOB) in der Hamburg-Harburg Erstaufnahmeeinrichtung Dratelnstraße 15 e.V. (e.V.) Deutsches Rotes den Betrieb eines halboffenen 67.987,50 2540699917 Kreuz, Kreisverband Kinderbetreuungsangebots (HOB) in der Hamburg-Harburg Erstaufnahmeeinrichtung Flagentwiet e.V. (e.V.) Deutsches Rotes den Betrieb eines halboffenen 22.050,00 2540699917 Kreuz, Kreisverband Kinderbetreuungsangebots (HOB) in der Hamburg-Harburg Erstaufnahmeeinrichtung Geutensweg e.V. (e.V.) Deutsches Rotes den Betrieb eines halboffenen 27.342,00 2540699917 Kreuz, Kreisverband Kinderbetreuungsangebots (HOB) in der Hamburg-Harburg Erstaufnahmeeinrichtung Grellkamp e.V. (e.V.)
-
-Seite 18 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-AWO Hamburg - für den Betrieb eines Halboffenen 24.696,00 2540699917  
-Gesellschaft für Kinderbetreuungsangebots (HOB) in der  
-Bildung, Integration Erstaufnahmeeinrichtung Hellmesberger  
-und Beratung gGmbH Weg 23  
-(gGmbH)  
-Deutsches Rotes den Betrieb eines Halboffenen 6.615,00 2540699917  
-Kreuz Hamburg Kinderbetreuungsangebots (HOB) in der  
-gemeinnützige Erstaufnahmeeinrichtung Holstenhofweg  
-Gesellschaft zur  
-Förderung der Kinder-  
-und Jugendhilfe mbH  
-(gGmbH)
-
-Deutsches Rotes den Betrieb eines halboffenen 48.510,00 2540699917 Kreuz, Kreisverband Kinderbetreuungsangebots (HOB) in der Hamburg-Harburg Erstaufnahmeeinrichtung Poststraße e.V. (e.V.) Malteser Hilfsdienst den Betrieb eines halboffenen 57.338,00 2540699917 gemeinnützige GmbH Kinderbetreuungsangebots (HOB) in der (gGmbH) Erstaufnahmeeinrichtung Rahlstedter Grenzweg Deutsches Rotes den Betrieb eines halboffenen 5.365,50 2540699917 Kreuz, Kreisverband Kinderbetreuungsangebots (HOB) in der Hamburg-Harburg Erstaufnahmeeinrichtung Schlachthofstraße e.V. (e.V.) 3 Deutsches Rotes den Betrieb eines Halboffenen 49.980,00 2540699917 Kreuz Hamburg Kinderbetreuungsangebots (HOB) in der Altona und Mitte Erstaufnahmeeinrichtung gemeinnützige Schnackenburgsallee Gesellschaft für Kinder, Soziales und Jugend KISO mbH (gGmbH) Deutsches Rotes den Betrieb eines halboffenen 67.032,00 2540699917 Kreuz, Kreisverband Kinderbetreuungsangebots (HOB) in der Hamburg-Harburg Erstaufnahmeeinrichtung e.V. (e.V.) Sportallee/Heselstücken Deutsches Rotes den Betrieb eines halboffenen 27.562,50 2540699917 Kreuz, Kreisverband Kinderbetreuungsangebots (HOB) in der Hamburg-Harburg Erstaufnahmeeinrichtung Vogt-Kölln-Straße e.V. (e.V.) Deutsches Rotes halboffene Kindertagesbetreuungsangebote 22.050,00 1-254.06.02.002.001 Kreuz, Kreisverband in Wohnunterkünften für Aussiedler und Hamburg-Harburg Asylbewerber, WUK Billbrookdeich e.V. (e.V.) Deutsches Rotes halboffene Kindertagesbetreuungsangebote 26.460,00 2540699911 Kreuz, Kreisverband in Wohnunterkünften für Aussiedler und Hamburg-Harburg Asylbewerber, WUK Billbrookdeich e.V. (e.V.) Bergedorfer für halboffene Kindertagesbetreuungsangebote 12.936,00 1-254.06.02.002.001 Völkerverständigung in Wohnunterkünften für Aussiedler und e.V. (e.V.) Asylbewerber, WUK Curslacker Deich
-
-Seite 19 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Bergedorfer für halboffene Kindertagesbetreuungsangebote 25.872,00 2540699911 Völkerverständigung in Wohnunterkünften für Aussiedler und e.V. (e.V.) Asylbewerber, WUK Curslacker Deich
-
-Freundeskreis für für Halboffene Kinderbetreuungsangebote 5.880,00 1-254.06.02.002.001 Asylbewerber e.V. in Wohnunterkünften für Aussiedler und (e.V.) Asylbewerber, WUK Waldweg Freundeskreis für für Halboffene Kinderbetreuungsangebote 11.760,00 2540699911 Asylbewerber e.V. in Wohnunterkünften für Aussiedler und (e.V.) Asylbewerber, WUK Waldweg Arbeit und Leben Servicestelle Arbeitnehmerfreizügigkeit 739.482,05 3-25502001-030010.01 DGB/VHS Hamburg e.V. (e.V.) Arbeit und Leben Servicestelle Arbeitnehmerfreizügigkeit 1.000.475,70 3-25502001-030055.01 DGB/VHS Hamburg e.V. (e.V.) Handwerkskammer INa -Integrierte Nachwuchsgewinnung im 1.139.308,36 3-25502001-030010.01 Hamburg (Öffentlich- Handwerk rechtliche Körperschaft) Handwerkskammer INa -Integrierte Nachwuchsgewinnung im 1.258.569,80 3-25502001-030055.01 Hamburg (Öffentlich- Handwerk rechtliche Körperschaft) Diakonisches Werk Home Support - Unterstützung für Dein 358.223,22 1-254.04.02.002.228 Hamburg - Zuhause der Evangelischen Stiftung Landesverband der Bodelschwingh Inneren Mission e.V. (e.V.) Hamburg Innovation Pro Exzellenzia 4.0 1.624.520,19 3-25502001-030010.01 GmbH (GmbH) 3-25502001-031150.01 Stiftung Berufliche Servicestelle ZAQ 2017 1.315.185,72 3-25502001-030010.01 Bildung (Stiftung des privaten Rechts)
-
-Stiftung Berufliche Servicestelle ZAQ 2017 2.400.000,00 3-25502001-030055.01 Bildung (Stiftung des privaten Rechts)
-
-Unternehmer ohne Frühstart für Erfolg + 365.000,00 3-25502001-031135.01 Grenzen e.V. (e.V.) 5-25502999-030060.02 Unternehmer ohne Frühstart für Erfolg + 380.000,00 3-25502001-030010.01 Grenzen e.V. (e.V.) Unternehmer ohne Frühstart für Erfolg + 95.000,00 3-25502001-030060.01 Grenzen e.V. (e.V.) Unternehmer ohne LokalChance + 878.851,85 3-25502001-031135.01 Grenzen e.V. (e.V.) Unternehmer ohne LokalChance + 646.148,15 3-25502001-030010.01 Grenzen e.V. (e.V.) Deutsches Rotes den Betrieb eines Elterncafés für 21.213,63 3-25406001-000010.05 Kreuz, Kreisverband Flüchtlingsfamilien in der Hamburg-Harburg Erstaufnahmeeinrichtung (EA) für e.V. (e.V.) Asylbewerber in der Dratelnstraße
-
-Seite 20 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Deutsches Rotes den Betrieb eines Elterncafés für 28.284,87 3-25406001-000010.05 Kreuz, Kreisverband Flüchtlingsfamilien in der Hamburg-Harburg Erstaufnahmeeinrichtung (EA) für e.V. (e.V.) Asylbewerber im Flagentwiet Deutsches Rotes den Betrieb eines Elterncafés für 14.142,44 3-25406001-000010.05 Kreuz, Kreisverband Flüchtlingsfamilien in der Hamburg-Harburg Erstaufnahmeeinrichtung (EA) für e.V. (e.V.) Asylbewerber im Geutensweg Deutsches Rotes den Betrieb eines Elterncafés für 14.142,44 3-25406001-000010.05 Kreuz, Kreisverband Flüchtlingsfamilien in der Hamburg-Harburg Erstaufnahmeeinrichtung (EA) für e.V. (e.V.) Asylbewerber im Grellkamp Deutsches Rotes den Betrieb eines Elterncafés für 4.714,14 3-25406001-000010.05 Kreuz, Kreisverband Flüchtlingsfamilien in der Hamburg-Harburg Erstaufnahmeeinrichtung (EA) für e.V. (e.V.) Asylbewerber in der Schlachthofstraße 3 (Neuland II) Deutsches Rotes den Betrieb eines Elterncafés für 28.284,87 3-25406001-000010.05 Kreuz, Kreisverband Flüchtlingsfamilien in der Hamburg-Harburg Erstaufnahmeeinrichtung (EA) für e.V. (e.V.) Asylbewerber in der Sportallee/Heselstücken Deutsches Rotes den Betrieb eines Elterncafés für 14.142,44 3-25406001-000010.05 Kreuz, Kreisverband Flüchtlingsfamilien in der Hamburg-Harburg Erstaufnahmeeinrichtung (EA) für e.V. (e.V.) Asylbewerber in der Vogt-Kölln-Straße GSM Training & CatchUp - Psychologische Unterstützung 1.000.000,00 3-25502001-030010.01 Integration GmbH 3-25502001-030055.01 (GmbH) GSM Training & come in - wir bewegen was 4.950.000,00 3-25502001-030010.01 Integration GmbH (GmbH) Hamburgische 4. Hamburger Pflegeoffensive in der Pflege 43.949,71 5-25502999-030110.01 Pflegegesellschaft e.V. (HPG) (e.V.) Hamburgische 4. Hamburger Pflegeoffensive in der Pflege 2.278.447,19 3-25502001-030010.01 Pflegegesellschaft e.V. (HPG) (e.V.) Hamburgische 4. Hamburger Pflegeoffensive in der Pflege 50.000,00 3-25502001-030055.01 Pflegegesellschaft e.V. (HPG) (e.V.) Hamburgische 4. Hamburger Pflegeoffensive in der Pflege 6.050,29 3-25502001-030110.01 Pflegegesellschaft e.V. (HPG) (e.V.) Der Paritätische Förderung der chancengerechten Teilhabe 99.430,52 1-255.03.01.003.001 Wohlfahrtsverband von Menschen mit Migrationshintergrund Hamburg e.V. (e.V.) Projekt: Empowerment von Migrantinnen- /Migrantenselbstorganisationen (MSO)
-
-Johann Daniel JUGEND AKTIV PLUS 2017 3.723.643,02 5-25502999-030060.02  
+Johann Daniel  
 Lawaetz-Stiftung  
 (Stiftung des  
 öffentlichen Rechts)
 
-Seite 21 von 54
+Landeskoordinierungsstelle für das  
+Beratungsnetzwerk gegen  
+Rechtsextremismus im Rahmen des  
+Bundesprogramms "Demokratie leben"
 
-Zuwendungen 2017 noch Anlage 1
+41.270,65 3-25503001-000210.01
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-Johann Daniel JUGEND AKTIV PLUS 2017 2.637.498,20 3-25502001-030010.01  
+Johann Daniel  
 Lawaetz-Stiftung  
 (Stiftung des  
-öffentlichen Rechts)  
-Johann Daniel JUGEND AKTIV PLUS 2017 1.952.000,00 3-25502001-030055.01  
-Lawaetz-Stiftung  
-(Stiftung des  
-öffentlichen Rechts)  
-Johann Daniel JUGEND AKTIV PLUS 2017 1.212.356,98 3-25502001-030060.01  
-Lawaetz-Stiftung  
-(Stiftung des  
-öffentlichen Rechts)  
-Deutsche Make it in Hamburg! 2017-2020 174.596,27 3-25502001-030055.01  
-Gesellschaft für 3-25502001-030010.01  
-Internationale  
-Zusammenarbeit  
-(GIZ) GmbH (GmbH)
+öffentlichen Rechts)
 
-Justizbehörde DurchDas - Aktive Eingliederung von 698.718,60 3-25502001-030010.01 (Öffentlich-rechtliche Frauen Körperschaft)
+Landeskoordinierungsstelle für das  
+Beratungsnetzwerk gegen  
+Rechtsextremismus im Rahmen des  
+Bundesprogramms "Demokratie leben"
 
-Justizbehörde Leinen los 664.000,00 3-25502001-030010.01 (Öffentlich-rechtliche Körperschaft)
+93.216,33 3-25503001-000213.01
 
-Landesverein der Qualifizierungen und berufliche Einstiege für 446.443,90 3-25502001-030010.01 Sinti in Hamburg e.V. Sinti und Roma 2017 (e.V.) Landesverein der Qualifizierungen und berufliche Einstiege für 371.968,37 3-25502001-030055.01 Sinti in Hamburg e.V. Sinti und Roma 2017 (e.V.) Arbeit und Leben Wege ins Ausland für alle 2017 223.500,00 5-25502999-030120.02 DGB/VHS Hamburg 5-25502999-031140.01 e.V. (e.V.) 5-25502999-030110.02 Arbeit und Leben Wege ins Ausland für alle 2017 1.017.144,97 3-25502001-030010.01 DGB/VHS Hamburg e.V. (e.V.) Arbeit und Leben Wege ins Ausland für alle 2017 17.788,44 3-25502001-030055.01 DGB/VHS Hamburg e.V. (e.V.) Arbeit und Leben Wege ins Ausland für alle 2017 30.000,00 3-25502001-030110.01 DGB/VHS Hamburg e.V. (e.V.) Arbeit und Leben Wege ins Ausland für alle 2017 42.500,00 3-25502001-030120.01 DGB/VHS Hamburg e.V. (e.V.) Arbeit und Leben Wege ins Ausland für alle 2017 435.600,00 3-25502001-031125.01 DGB/VHS Hamburg e.V. (e.V.) Arbeit und Leben Wege ins Ausland für alle 2017 2.000,00 3-25502001-031140.01 DGB/VHS Hamburg e.V. (e.V.)
+verikom - Verbund für  
+interkulturelle  
+Kommunikation und  
+Bildung e.V. (e.V.)
 
-Seite 22 von 54
+Ergänzende Sprachförderung für besondere  
+Lernbedarfe  
+Projekt: Niedrigschwellige Sprachkurse -  
+Alphakurse in der Herkunftssprache
 
-Zuwendungen 2017 noch Anlage 1
+39.500,00 1-255.03.01.002.001
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) verikom - Verbund für 2ter Aufbruch ! Coaching zu Bildung und 172.745,00 3-25503001-000301.01 interkulturelle Beruf A4_3 5-25502999-030050.01 Kommunikation und Bildung e.V. (e.V.) verikom - Verbund für 2ter Aufbruch ! Coaching zu Bildung und 230.245,00 3-25502001-030010.01 interkulturelle Beruf A4_3 Kommunikation und Bildung e.V. (e.V.) verikom - Verbund für 2ter Aufbruch ! Coaching zu Bildung und 57.500,00 3-25502001-030050.01 interkulturelle Beruf A4_3 Kommunikation und Bildung e.V. (e.V.) verikom - Verbund für Ergänzende Sprachförderung für besondere 16.500,00 1-255.03.01.002.001 interkulturelle Lernbedarfe im Rahmen des EHAP- Kommunikation und Projektes step.in Bildung e.V. (e.V.) Hamburger Förderung nach dem Landesförderplan 1.404,00 1-254.02.03.001.001 Gebärdensprachjuge Pos 2.3.1.5 Bereitstellung von Räumen für ndclub "Nordlicht" die Jugendarbeit e.V. (e.V.) Ausbildungsförderung Vermittlung in Einstiegsqualifizierung (EQ) 183.522,89 3-25502001-021119.01 der Hamburger zum Übergang in duale Wirtschaft e.V. (e.V.) Ausbildungsverhältnisse bei Hamburger Unternehmen Liberale Jüdische Kinder- und Jugendgruppen Keshet- 13.008,02 1-254.02.01.001.001 Gemeinde Hamburg Regenbogen e.V. (e.V.) Alsterstürmer GmbH die Schaffung von Krippenplätzen in der 2.882,00 2-25406001-00002.26 (GmbH) Kita Bramfelder Straße 16, 22305 Hamburg im Rahmen des Zusatzprogramms zum Krippenausbau 2015 - 2018
-
-Alsterstürmer GmbH die Schaffung von Krippenplätzen in der 54.756,00 2-25406001-76145.17 (GmbH) Kita Bramfelder Straße 16, 22305 Hamburg im Rahmen des Zusatzprogramms zum Krippenausbau 2015 - 2018
-
-Hamburger Selbstlernzentren in den RISE-Gebieten 483.327,88 3-25502001-030010.01 Volkshochschule Essener Str. und Hohenhorst 3-25502001-030120.01 (Öffentlich-rechtliche 3-25502001-031125.01 Körperschaft) 3-25502001-031135.01 3-25502001-031210.01 3-25502001-031220.01 5-25502999-030120.02 5-25502999-031210.01 5-25502999-031220.01 einfal GmbH (GmbH) Jobclub Soloturn Plus - Coaching für 1.240.356,92 3-25502001-030010.01 Erziehende 3-25502001-030055.01 3-25502001-031135.01 Beschäftigung und Regionale Qualifizierung für Inhaber/innen 677.148,15 3-25502001-031135.01 Bildung e.V. (e.V.) und Beschäftigte von KMU 2017 (ReQ 2020) Beschäftigung und Regionale Qualifizierung für Inhaber/innen 497.851,85 3-25502001-030010.01 Bildung e.V. (e.V.) und Beschäftigte von KMU 2017 (ReQ 2020)
-
-Seite 23 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-ALRAUNE gGmbH Tagwerk Alraune Steilshoop 416.329,12 3-25502001-021615.01  
-Gemeinnützige  
-Gesellschaft zur  
-Förderung der  
-Teilhabechancen und  
-Verbesserung der  
-Lebensqualität  
-benachteiligter  
-Menschen (gGmbH)  
-ALRAUNE gGmbH Tagwerk Alraune Steilshoop 90.070,57  
-Gemeinnützige  
-Gesellschaft zur  
-Förderung der  
-Teilhabechancen und  
-Verbesserung der  
-Lebensqualität  
-benachteiligter  
-Menschen (gGmbH)  
-ARINET Arbeits- Aktionsbündnis Inklusive Arbeit Hamburg 655.861,77 3-25502001-030010.01  
-Integrations-Netzwerk 3-25502001-030055.01  
-GmbH (GmbH)
-
-PASSAGE Tagwerk-Projekt "Laurens-Janssen- 244.712,32 3-25502001-021615.01  
-gemeinnützige Haus/Kirchdorf-Süd"  
-Gesellschaft für  
-Arbeit und Integration  
-mbH (gGmbH)
-
-Ev.-Luth. Beteiligung an den Kosten für die 7.000,00 1-255.03.02.001.001 Kirchenkreis Projektkoordination und der Hamburg-Ost Öffentlichkeitsarbeit für den 8. AKTIVOLI - (Öffentlich-rechtliche Marktplatz Gute Geschäfte Hamburg 2017 Körperschaft)
-
-Kooperation Arbeiten, Tagwerk Projekt "Strandläufer" 128.991,24 3-25502001-021615.01 Lernen und Ausbildung e.V. (e.V.)
-
-Koordinierungsstelle Weiterführung des Demographie Netzwerk 205.843,28 3-25502001-000016.01 Weiterbildung und Hamburg (ddn Hamburg) Beschäftigung e.V. (KWB) (e.V.) Universitätsklinikum Förderung des Kinder-Kompetenz- 343.636,87 1-254.04.02.002.228 Hamburg-Eppendorf Zentrums im UKE (Öffentlich-rechtliche Körperschaft)
-
-Deutscher Projekt "Patenschaften für unbegleitete 14.322,00 1-254.04.02.002.228 Kinderschutzbund minderjährige Flüchtlinge" Landesverband Hamburg e.V. (e.V.) Deutscher Projekt "Patenschaften für unbegleitete 77.661,25 1-254.04.02.002.228 Kinderschutzbund minderjährige Flüchtlinge" Landesverband Hamburg e.V. (e.V.)
-
-Seite 24 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-Stiftung Deutsch- Zuwendung für Personalkosten 79.946,46 1-254.05.03.001.001  
-Russischer  
-Jugendaustausch  
-Gemeinnützige  
-GmbH (gGmbH)  
-Deutsches Rotes ein zusätzliches Angebot für 32.336,91 3-25406001-000010.05  
-Kreuz Hamburg Flüchtlingsfamilien durch das EKiZ  
-gemeinnützige Regenbogen in der WUK Brookkehre  
-Gesellschaft zur  
-Förderung der Kinder-  
-und Jugendhilfe mbH  
-(gGmbH)
-
-Zentrale Information die Vermittlung des Zugangs von Kindern 250.000,00 3-25406001-000010.05 und Beratung für ohne Aufenthaltsstatus zu frühkindlichen Flüchtlinge gGmbH Bildungsangeboten in (gGmbH) Kindertageseinrichtungen in Hamburg Geschwister-Scholl- Zuwendung für Geschwister-Scholl-Stiftung 105.200,00 1-254.07.02.004.001 Stiftung (Stiftung des ( auch Gräberfürsorge ) privaten Rechts)
-
-Deutscher Betrieb des Kinderschutzzentrums Hamburg 442.218,92 1-254.03.02.010.001  
-Kinderschutzbund  
-Landesverband  
-Hamburg e.V. (e.V.)  
-Deutsches Rotes den Betrieb eines Halboffenen 7.350,00 1-254.06.02.002.001  
-Kreuz Hamburg Kinderbetreuungsangebots (HOB) in der  
-gemeinnützige Wohnunterkunft Albert-Einstein-Ring  
-Gesellschaft zur  
-Förderung der Kinder-  
-und Jugendhilfe mbH  
-(gGmbH)
-
-Deutsches Rotes den Betrieb eines Halboffenen 29.400,00 2540699911  
-Kreuz Hamburg Kinderbetreuungsangebots (HOB) in der  
-gemeinnützige Wohnunterkunft Albert-Einstein-Ring  
-Gesellschaft zur  
-Förderung der Kinder-  
-und Jugendhilfe mbH  
-(gGmbH)
-
-Deutsches Rotes den Betrieb eines Eltercafés für 9.428,30 3-25406001-000010.05 Kreuz Hamburg Flüchtlingsfamilien in der Altona und Mitte Erstaufnahmeeinrichtung (EA) für gemeinnützige Asylbewerber in der Schnackenburgsallee Gesellschaft für Kinder, Soziales und Jugend KISO mbH (gGmbH) Lawaetz-Service Wohnraumversorgung und -sicherung von 133.000,00 1-254.03.02.008.001 GmbH (GmbH) jungen Familien, jungen Erwachsenen und Einzelpersonen mit besonderem Unterstützungsbedarf
-
-Seite 25 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Lawaetz-Service Wohnraumversorgung und -sicherung von 20.283,10 1-254.04.02.002.228 GmbH (GmbH) jungen Familien, jungen Erwachsenen und Einzelpersonen mit besonderem Unterstützungsbedarf hamburger arbeit Verwaltung-Intendanz 712.094,27 3-25502001-026678.01 GmbH (GmbH) hamburger arbeit Navigator 16 a flankierende Sozial- und 2.416.949,42 3-25502001-026678.01 GmbH (GmbH) Gesundheitsberatung Pfadfinder & Beschafffung von diversen 459,53 1-254.02.03.001.001 Pfadfinderinnenbund Ausstattungsgegenständen für das Nordlicht e.V. (PBNL) Pfadfinderheim Volksdorf (e.V.) Deutscher Neuanschaffung/Ergänzung des Mobiliars 5.755,20 1-254.03.02.006.001 Kinderschutzbund und Anschaffung einer Telefonanlage Landesverband Hamburg e.V. (e.V.) Internationale Zuwendung nach dem Landesförderplan 2.852,00 1-254.02.03.001.001 Jugendgemeinschaft Pos. 2.3.2.4 Förderung sdienste - gemeinschaftsdienlicher Freizeiten Landesverein Hamburg-Schleswig- Holstein e.V. (e.V.) Alevitische Gemeinde Maßnahme zur Vorbeugung und 42.191,00 3-25503001-000211.01 Hamburg e.V. (e.V.) Bekämpfung von religiös motiviertem Extremismus und anti-muslimischer Diskriminierung BÜRGER HELFEN Erwerbslose auf dem Weg in ein 14.700,00 1-255.03.02.001.001 BÜRGERN e.V. ehrenamtliches Engagement beraten und (e.V.) unterstützen (im Rahmen der Engagementstrategie 2020) Ambulanzzentrum Dolmetscherleistungen im Rahmen 10.000,00 1-253.02.04.003.001 des UKE GmbH ambulanter Psychotherapien für (GmbH) Flüchtlingskinder und -jugendliche in der Flüchtlingsambulanz des Ambulanzzentrums des UKE Ambulanzzentrum Dolmetscherleistungen im Rahmen 90.000,00 2530299911 des UKE GmbH ambulanter Psychotherapien für (GmbH) Flüchtlingskinder und -jugendliche in der Flüchtlingsambulanz des Ambulanzzentrums des UKE Beratungs- und Proket Biff Harburg - Erweiterungsprojekt - 21.294,21 1-254.03.02.009.001 Informationsstelle von Förderung der Integration von geflüchteten Frauen für Frauen - Frauen unter traumasensiblen Winterhude- e.V. Gesichtspunkten (e.V.) Deutsches Rotes ein zusätzliches Angebot für 10.778,97 3-25406001-000010.05 Kreuz, Kreisverband Flüchtlingsfamilien durch das EKiZ Kita Hamburg-Harburg Neuenfelde in der WUK Neuenfelder e.V. (e.V.) Fährdeich 80 jhj Hamburg e.V. Gesellschaftsfähig 345.894,04 1-254.02.02.001.001 (e.V.) BASIS & WOGE e.V. Betrieb der Anlaufstelle KIDS 792.988,29 1-254.02.02.001.001 (e.V.)
-
-Seite 26 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-Ev.-Luth. Luther- ein zusätzliches Angebot für 14.488,59 3-25406001-000010.05  
-Kirchengemeinde Flüchtlingsfamilien durch das EKiZ  
-Hamburg-Bahrenfeld Lyserstraße in der WUK Holstenkamp 117  
-(Öffentlich-rechtliche  
-Körperschaft)
-
-Bündnis der Think Social Now 2.0 - Verantwortung 32.500,00 3-25503001-000211.01 Islamischen übernehmen im Internet Gemeinden in Norddeutschland e.V. (e.V.) AWO Hamburg - den Betrieb eines Elterncafés für 21.213,63 3-25406001-000010.05 Gesellschaft für Flüchtlingsfamilien in der Bildung, Integration Erstaufnahmeeinrichtung (EA) für und Beratung gGmbH Asylbewerber Hellmesberger Weg 23 (gGmbH) Trockendock e.V. Betrieb des Projektes "Lass 1000 Steine 421.810,52 1-254.02.02.001.001 (e.V.) rollen" und der Geschäftstelle Zornrot e.V. (e.V.) Beratungstelle für von sexualisierter Gewalt 142.790,16 1-254.03.02.010.001 betroffene Mädchen und Jungen Lawaetz-wohnen & Jugend & Wohnen 638.005,60 1-254.04.02.002.228 leben gGmbH (gGmbH) BASIS & WOGE e.V. Betrieb der anonymen Schutzeinrichtung 398.627,18 1-254.04.02.002.228 (e.V.) "Zuflucht" für akut gefährdete Mädchen und Frauen in interkulturellen Konflikten Johann Daniel Projektberatung, -entwicklung und - 397.000,00 1-254.03.02.008.001 Lawaetz-Stiftung betreuung - Wohnen für Familien in (Stiftung des Hamburg öffentlichen Rechts) BASIS & WOGE e.V. Betrieb einer Notschlafstelle für 91.135,36 1-254.02.02.001.001 (e.V.) minderjährige Mädchen und Jungen im Harvighorster Redder 64 c Johann Daniel Personal- und Sachkosten für die 178.000,00 1-254.03.02.008.001 Lawaetz-Stiftung Geschäftsführung (Stiftung des öffentlichen Rechts) BASIS & WOGE e.V. Überregionale Straßensozialarbeit für junge 220.956,06 1-254.02.01.001.001 (e.V.) Menschen ohne geringe regionale Bezüge - Projekt "Sidewalx" PASSAGE Soziale Integration suchtgefährdeter 216.000,00 5-25502999-031240.01 gemeinnützige Menschen 3-25502001-031135.01 Gesellschaft für Arbeit und Integration mbH (gGmbH)
-
-PASSAGE Soziale Integration suchtgefährdeter 527.000,00 3-25502001-030010.01  
-gemeinnützige Menschen  
-Gesellschaft für  
-Arbeit und Integration  
-mbH (gGmbH)
-
-Seite 27 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-PASSAGE Soziale Integration suchtgefährdeter 364.000,00 3-25502001-030055.01  
-gemeinnützige Menschen  
-Gesellschaft für  
-Arbeit und Integration  
-mbH (gGmbH)
-
-PASSAGE Soziale Integration suchtgefährdeter 32.000,00 3-25502001-031240.01  
-gemeinnützige Menschen  
-Gesellschaft für  
-Arbeit und Integration  
-mbH (gGmbH)
-
-Koordinierungsstelle Worklife – Wiedereinstieg mit Zukunft 511.999,99 3-25502001-030010.01  
-Weiterbildung und  
-Beschäftigung e.V.  
-(KWB) (e.V.)  
-Koordinierungsstelle Worklife – Wiedereinstieg mit Zukunft 600.000,00 3-25502001-030055.01  
-Weiterbildung und  
-Beschäftigung e.V.  
-(KWB) (e.V.)  
-Koordinierungsstelle Netz 3L - Hamburg bildet 114.167,96 5-25502999-030120.02  
-Weiterbildung und  
-Beschäftigung e.V.  
-(KWB) (e.V.)  
-Koordinierungsstelle Netz 3L - Hamburg bildet 200.000,00 3-25502001-030010.01  
-Weiterbildung und  
-Beschäftigung e.V.  
-(KWB) (e.V.)  
-Koordinierungsstelle Netz 3L - Hamburg bildet 85.832,04 3-25502001-030120.01  
-Weiterbildung und  
-Beschäftigung e.V.  
-(KWB) (e.V.)  
-PASSAGE Chancen am FLUCHTOrt Hamburg Plus 76.281,41 5-25502999-030120.02  
-gemeinnützige  
-Gesellschaft für  
-Arbeit und Integration  
-mbH (gGmbH)
-
-PASSAGE Chancen am FLUCHTOrt Hamburg Plus 757.735,98 3-25502001-030010.01  
-gemeinnützige  
-Gesellschaft für  
-Arbeit und Integration  
-mbH (gGmbH)
-
-PASSAGE Chancen am FLUCHTOrt Hamburg Plus 850.000,00 3-25502001-030055.01  
-gemeinnützige  
-Gesellschaft für  
-Arbeit und Integration  
-mbH (gGmbH)
-
-Seite 28 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-PASSAGE Chancen am FLUCHTOrt Hamburg Plus 9.372,44 3-25502001-030120.01  
-gemeinnützige  
-Gesellschaft für  
-Arbeit und Integration  
-mbH (gGmbH)
-
-PASSAGE Chancen am FLUCHTOrt Hamburg Plus 15.350,41 3-25502001-031125.01  
-gemeinnützige  
-Gesellschaft für  
-Arbeit und Integration  
-mbH (gGmbH)
-
-Koordinierungsstelle TALENTS Hamburg – Zeig, was in dir 494.999,99 3-25502001-030010.01 Weiterbildung und steckt! Beschäftigung e.V. (KWB) (e.V.) Koordinierungsstelle TALENTS Hamburg – Zeig, was in dir 450.000,00 3-25502001-030055.01 Weiterbildung und steckt! Beschäftigung e.V. (KWB) (e.V.) BASIS & WOGE e.V. Betrieb der Übernachtungsstellen St. 272.169,07 1-254.02.02.001.001 (e.V.) Georgstraße 15 und 17 Amnesty for Women, Betrieb einer Beratungsstelle für 158.172,97 1-254.03.02.009.001 Städtegruppe Migrantinnen Hamburg e.V. (e.V.)
-
-zwei P Hamburger Weiterbildungsbonus 2017- 5.894.294,54 3-25502001-030010.01 PLAN:PERSONAL 2020 GmbH (GmbH) Integrationshilfen e.V. RAN – Resozialisierung, Arbeit und 441.233,63 5-25502999-030060.03 (e.V.) Nachsorge 5-25502999-031080.01 5-25502999-031190.01 Integrationshilfen e.V. RAN – Resozialisierung, Arbeit und 1.295.000,00 3-25502001-030010.01 (e.V.) Nachsorge Integrationshilfen e.V. RAN – Resozialisierung, Arbeit und 194.000,00 3-25502001-030055.01 (e.V.) Nachsorge Integrationshilfen e.V. RAN – Resozialisierung, Arbeit und 23.945,55 3-25502001-030060.01 (e.V.) Nachsorge Integrationshilfen e.V. RAN – Resozialisierung, Arbeit und 380.820,82 3-25502001-031190.01 (e.V.) Nachsorge Trockendock e.V. Spielaktionen in Unterkünften der öffentlich- 182.528,34 1-254.02.01.001.001 (e.V.) rechtlichen Unterbringung Verband binationaler Beratung von binationaler/bikultureller 112.808,70 1-254.04.02.002.228 Familien und Paare und Familien Partnerschaften, iaf (e.V.)
-
-SterniPark GmbH die laufende Förderung des EKiZ im 78.227,84 3-25406001-000010.05 (GmbH) Kinderhaus Berner Heerweg, Berner Heerweg 162, 22159 Hamburg Zündfunke e.V. (e.V.) Betrieb einer Beratungsstelle gegen 216.442,95 1-254.03.02.010.001 sexuellen Missbrauch an Kindern und Frauen
-
-Seite 29 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Islamisches Al Wasat - Die Mitte im Rahmen des 32.500,00 3-25503001-000211.01 Wissenschafts- und Bundesprogramms "Demokratie leben" Bildungsinstitut e.V. (e.V.) BASIS & WOGE e.V. Partizipationsprojekt "Ständige Vertretung 33.725,87 1-254.02.02.001.001 (e.V.) der Straßenkinder-HH"/Projekt Momo
-
-Arbeit und Leben Lehrstellenatlas Hamburger Osten 2018 10.000,00 3-25502001-021119.01 DGB/VHS Hamburg e.V. (e.V.) Gehörlosenverband den Einsatz von Gebärdendolmetschern in 40.000,00 3-25406001-000010.05 Hamburg e.V. (e.V.) Kita-Einrichtungen und bei Hamburger Tagespflegepersonen (auch Großtagespflegestellen) Türkische Gemeinde "Neue Wege" - Prävention von 31.417,61 3-25503001-000210.01 in Hamburg und Antisemitismus bei Jugendlichen mit Umgebung (TGH) Migrationshintergrund im Rahmen des e.V. (e.V.) Bundesprogramms "Demokratie leben"
-
-Trockendock e.V. Spielaktionen in Unterkünften der öffentlich- 29.855,19 1-254.02.01.001.001 (e.V.) rechtlichen Unterbringung (Erweiterung 1)
-
-Deutsches Rotes den Betrieb eines Elterncafés für 28.284,87 3-25406001-000010.05 Kreuz, Kreisverband Flüchtlingsfamilien in der Hamburg-Harburg Erstaufnahmeeinrichtung (EA) für e.V. (e.V.) Asylbewerber in der Schlachthofstraße 20
-
-Handwerkskammer Projekt "Inklusions-Lotse im Hamburger 208.372,00 SoVermSchwbG Hamburg (Öffentlich- Handwerk" rechtliche Körperschaft) Freunde der Kinder Beratungsstelle für Pflege- und 194.847,45 1-254.04.02.002.228 e.V. (e.V.) Adoptivpersonen sowie deren Kinder und Herkunftsfamilien STATTBAU Projektberatung und -entwicklung Wohnen 165.000,00 1-254.03.02.008.001 HAMBURG für Familienin Hamburg Stadtentwicklungsges ellschaft mbH (GmbH) Elbkinder ein zusätzliches Angebot für 12.073,82 3-25406001-000010.05 Vereinigung Flüchtlingsfamilien durch das EKiZ Hamburger Kitas Druckerstraße für die WUK Billstieg und gGmbH (gGmbH) Berzeliusstraße in den Räumen der Kita Berzeliusstraße Elbkinder ein zusätzliches Angebot für 2.414,77 Vereinigung Flüchtlingsfamilien durch das EKiZ Hamburger Kitas Druckerstraße für die WUK Billstieg und gGmbH (gGmbH) Berzeliusstraße in den Räumen der Kita Berzeliusstraße Elbkinder ein zusätzliches Angebot für 12.073,82 3-25406001-000010.05 Vereinigung Flüchtlingsfamilien durch das EKiZ Hamburger Kitas Sandfoort in der WUK Jugendparkweg gGmbH (gGmbH)
-
-Seite 30 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Elbkinder ein zusätzliches Angebot für 2.414,77 Vereinigung Flüchtlingsfamilien durch das EKiZ Hamburger Kitas Sandfoort in der WUK Jugendparkweg gGmbH (gGmbH) Elbkinder ein zusätzliches Angebot für 3.592,99 3-25406001-000010.05 Vereinigung Flüchtlingsfamilien durch das EKiZ Hamburger Kitas Steilshooper Allee in der WUK Eschenweg gGmbH (gGmbH) Elbkinder ein zusätzliches Angebot für 1.796,50 Vereinigung Flüchtlingsfamilien durch das EKiZ Hamburger Kitas Steilshooper Allee in der WUK Eschenweg gGmbH (gGmbH) Plus Punkt PlusPunkt W.I.R. - Berufsbezogene 264.730,89 3-25502001-000017.01 Personaldienstleistun Feststellung von Eingliederungspotenzialen gen GmbH (GmbH) und ab 01.08.2017: "W.I.R" - Unterstützungsleistungen für akademisch vorgebildete Geflüchtete mit Arbeitsmarktperspektive für die Integration in den Arbeitsmarkt
-
-Arbeitsgemeinschaft Puppenbau-Workshops in Hamburger 24.920,00 1-254.02.01.001.001 für das Puppenspiel Flüchtlingsunterkünften e.V. (e.V.)
-
-Ev.-Luth. ein zusätzliches Angebot für 14.488,59 3-25406001-000010.05 Kirchenkreis Flüchtlingsfamilien durch das EKiZ Hamburg- Schenefelder Landstraße für die WUK West/Südholstein Sieversstücken 3 in den Räumen der Kita (Öffentlich-rechtliche Sülldorfer Kirchenweg 187 Körperschaft)
-
-Vereinigung der Beratung und Unterstützung entsprechend 8.500,00 1-254.07.02.004.001 Verfolgten des den Erfordernissen der Naziregimes -VVN Entschädigungsgesetzgebung des Bundes, Bund der der Länder sowie der Vergabe von Antifaschisten e.V. Leistungen von Härtefonds und Stiftungen Land Hamburg (e.V.) für NS-Verfolgte
-
-Deutscher Durchführung des Projektes "rundum 10.286,48 1-254.03.02.006.001 Kinderschutzbund willkommen" Landesverband Hamburg e.V. (e.V.) Deutscher Durchführung des Projektes "rundum 10.000,00 2540399910 Kinderschutzbund willkommen" Landesverband Hamburg e.V. (e.V.) Arbeitsgemeinschaft Betreuung, Beratung, Kontaktpflege von 9.050,00 1-254.07.02.004.001 ehemals Verfolgter während der Zeit des Nationalsozialismus Sozialdemokraten und des Kommunismus (SBZ/DDR) (Sonstige) verfolgten Sozialdemokraten
-
-ab ausblick hamburg Bereitstellung bezahlbaren Wohnraums für 108.808,70 3-25502001-000013.01 gmbh (GmbH) Auszubildende aus anderen (Bundes-) Ländern
-
-Seite 31 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-Vereinigung Förderung nach dem Landesförderplan 2.000,00 1-254.02.03.001.001  
-Hamburger Deutsch- Pos. 2.3.1.1 Förderung der allgemeinen  
-Türken e.V. (e.V.) Jugendarbeit  
-Pos. 2.3.1.2 Förderung von Seminaren und  
-Veranstaltungen  
-Deutsches Rotes Projekt Hippy 210.018,87 1-254.03.02.006.001  
-Kreuz Hamburg  
-gemeinnützige  
-Gesellschaft zur  
-Förderung der Kinder-  
-und Jugendhilfe mbH  
-(gGmbH)
-
-SMAG-Soziales Förderung demokratischer Kultur, 2.990,00 3-25503001-000210.01 Miteinander Aktiv Vorbeugung und Bekämpfung von Gestalten e.V. (e.V.) Rechtsextremismus, Landesprogramm Hamburg - Stadt mit Courage; Projekt: "Politkneipe" Hamburger Beratungs- und Vermittlungsangebote für 25.000,00 1-254.06.03.002.001 Tagesmütter und - Eltern, Tagesmütter- und väter väter e.V. (e.V.) Jugendarbeitskreis Hamburg Memory: Was bedeutet Hamburg 24.883,15 1-254.02.03.001.001 Hamburg im für mich? Volksbund Deutsche Kriegsgräberfürsorge e.V. (Sonstige)
-
-Diakonisches Werk die laufende Förderung des 58.546,16 1-254.06.02.002.001 Hamburg - Domkindergartens in den Räumen Landesverband der Rindermarkthalle, Neuer Kamp 31, 20359 Inneren Mission e.V. Hamburg (e.V.) i-Punkt Skateland Betrieb der Skaterhalle 69.632,86 1-254.02.01.001.001 e.V. (e.V.) Ev.-Luth. "Gemeinsam kochen-gemeinsam essen- 3.051,20 1-254.03.02.006.001 Kirchenkreis gemeinsam Zeit verbringen". Hamburg-Ost Ein Kochprojekt für zugewanderte und (Öffentlich-rechtliche einheimische Familien mit Kindern. Körperschaft)
-
-HELM AG (AG) die Betreuung von Kindern im 20.700,00 1-254.06.02.002.001 Betriebskindergarten Ev.-Luth. Familienfördernde Angebote in der 3.907,80 1-254.03.02.006.001 Kirchenkreis Erstaufnahme Schlachthofstraße durch die Hamburg-Ost Evangelische Familienbildung Harburg (Öffentlich-rechtliche Körperschaft)
-
-Die Mission. Miet- und Raumkostenzuschuss für eine 6.900,00 1-253.03.01.001.001 Künstlerische Tagesaufenthaltsstätte für Obdachlose Maßnahmen gegen die Kälte e.V. (e.V.)
-
-Seite 32 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) ASB Flüchtlingshilfe den Betrieb eines halboffenen 98.200,00 2540699917 Hamburg GmbH Kinderbetreuungsangebots (HOB) in der (GmbH) Erstaufnahmeeinrichtung Schmiedekoppel
-
-ASB Flüchtlingshilfe den Betrieb eines halboffenen 27.050,00 2540699917 Hamburg GmbH Kinderbetreuungsangebots (HOB) in der (GmbH) Erstaufnahmestelle Papenreye Deutscher Patenschaften für geflüchtete Familien 50.106,63 1-254.03.02.006.001 Kinderschutzbund Landesverband Hamburg e.V. (e.V.) Verein zur Förderung Spielaktionen in Unterkünften der öffentlich- 103.187,98 1-254.02.01.001.001 der Jugendarbeit e.V. rechtlichen Unterbringung ( Erweiterung 2 ) (e.V.)
-
-Kulturherz e.V. (e.V.) Förderung demokratischer Kultur, 2.250,00 3-25503001-000210.01  
-Vorbeugung und Bekämpfung von  
-Rechtsextremismus Landesprogramm  
-"Hamburg - Stadt mit Courage" Projekt:  
-Lese- und Schreib-Werkstatt  
-SIMCONSULT Anpassung der Übersetzung der TN- 380,80 3-25502001-000012.01  
-Sprachendienst Fragebögen  
-GmbH (GmbH)  
-M.U.T. - Musik und Förderung demokratischer Kultur, 5.000,00 3-25503001-000210.01  
-Toleranz e.V. (e.V.) Vorbeugung und Bekämpfung von  
-Rechtsextremismus "PARTY -  
-PARTIZIPATION - keine Chance dem  
-Rechtsradikalismus und Extremismus"  
-Arbeitskreis Musik in Musikkurse für Kinder, Jugendliche und 3.000,00 1-254.02.01.001.001  
-der Jugend - Familien  
-Landesverband  
-Hamburg e.V. (e.V.)  
-PASSAGE W.I.R - Arbeitstelle "FLUCHT-BILDUNG- 79.502,73 3-25502001-000017.01  
-gemeinnützige ARBEIT"  
-Gesellschaft für  
-Arbeit und Integration  
-mbH (gGmbH)
-
-Berufsfortbildungswer Pflegeberufe als Chance – Qualifizierung für 183.720,43 3-25502001-030010.01  
-k Gemeinnützige Geflüchtete  
-Bildungseinrichtung  
-des Deutschen  
-Gewerkschaftsbunde  
-s Gesellschaft mit  
-beschränkter Haftung  
-(bfw) (gGmbH)
-
-Koordinierungsstelle ServiceCenter Teilzeitausbildung 115.098,25 5-25502999-030120.02  
-Weiterbildung und  
-Beschäftigung e.V.  
-(KWB) (e.V.)  
-Koordinierungsstelle ServiceCenter Teilzeitausbildung 200.000,00 3-25502001-030010.01  
-Weiterbildung und  
-Beschäftigung e.V.  
-(KWB) (e.V.)
-
-Seite 33 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-Koordinierungsstelle ServiceCenter Teilzeitausbildung 45.000,00 3-25502001-030055.01  
-Weiterbildung und  
-Beschäftigung e.V.  
-(KWB) (e.V.)  
-Koordinierungsstelle ServiceCenter Teilzeitausbildung 84.901,75 3-25502001-030120.01  
-Weiterbildung und  
-Beschäftigung e.V.  
-(KWB) (e.V.)  
-SterniPark GmbH die Anlauffinanzierung und die laufende 73.375,30 3-25406001-000010.05  
-(GmbH) Förderung des EKiZ in der Kita Kinderhaus  
-Hafen City, Am Hannoverschen Bahnhof  
-25, 20457 Hamburg
-
-Jungenarbeit Umsetzung eines präventiven Projekts zum 237.401,28 1-255.03.04.004.001 Hamburg e.V. (e.V.) Schutz von Mädchen und Frauen in Hamburg - ComMIT!ment - Engagiert für Achtsamkeit, Vielfalt und Würde. Deutsches Rotes die Ausstattung un den Betrieb eines 42.425,00 2540699917 Kreuz Hamburg halboffenen Kinderbetreuungsangebotes Altona und Mitte (HOB) in der Erstaufnahmestelle gemeinnützige Kaltenkirchener Platz 1-2, 22769 Hamburg Gesellschaft für Kinder, Soziales und Jugend KISO mbH (gGmbH) Deutsches Rotes den Betrieb eins halboffenen 53.728,50 2540699917 Kreuz, Kreisverband Kinderbetreuungsangebotes (HOB) in der Hamburg-Harburg Erstaufnahmeeinrichtung Schlachthofstraße e.V. (e.V.) 20 (Neuland I) Deutsches Rotes die Einrichtung und den Betrieb eines 26.927,77 3-25406001-000010.05 Kreuz, Kreisverband Elterncafés für Flüchtlingsfamilien in der Hamburg-Harburg Erstaufnahmeeinrichtung für Asylbewerber e.V. (e.V.) in der Poststraße Hamburger Institut für Ausbildungsvorbereitung für Migranten dual 1.390.000,00 3-25502001-030010.01 Berufliche Bildung & inklusiv (HIBB) (Öffentlichrechtliche Körperschaft)
-
-KOMCIWAN / Präventionsprojekt Flüchtlingshilfe 3.000,00 1-254.02.03.001.001  
-Jugend- und  
-Kulturverein aus  
-Kurdistan e.V. (e.V.)
-
-Universitätsklinikum Integration Geflüchtete in die 540.892,37 3-25502001-030010.01 Hamburg-Eppendorf Patientenversorgung (Öffentlich-rechtliche Körperschaft)
-
-Vereinigung Legato - Angehörigen- und 560.635,95 3-25503001-000211.01 Pestalozzi Ausstiegsberatungsstelle für religiös gemeinnützige GmbH begründeten Extremismus. (gGmbH)
-
-Seite 34 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) HKS Handelskammer Organisation und Durchführung von 75.035,72 3-25502001-000019.01 Hamburg Service Bewerbungstrainings für Geflüchtete GmbH (GmbH)
-
-Diakonisches Werk Kooperation zur Unterstützung von EU- 30.000,00 1-253.02.03.003.001 Hamburg - Bürgern/innen beim Zugang zur Landesverband der Krankenversicherung Inneren Mission e.V. (e.V.) Arbeitsgemeinschaft Tronc-Mittel 2014/15 Drucksache 21/7033 3.600,00 3-25502001-000010.01 selbstständiger Migranten e.V. (e.V.)
-
-Duenbostel, Jürgen Förderung demokratischer Kultur, 4.000,00 3-25503001-000210.01 Vorbeugung und Bekämpfung von Rechtsextremismus, Landesprogramm Hamburg-Stadt mit Courage, Projekt: Fotodokumentation und -ausstellung "Solidarität mit chilenischen Flüchtlingen"
-
-AQtivus Chancengenerator- Begleitung junger 1.779.161,74 3-25502001-030010.01  
-Servicegesellschaft Geflüchteter U25  
-für Aktivität auf dem  
-Arbeitsmarkt gGmbH  
-(gGmbH)  
-AQtivus Chancengenerator- Begleitung junger 1.779.161,75 3-25502001-030055.01  
-Servicegesellschaft Geflüchteter U25  
-für Aktivität auf dem  
-Arbeitsmarkt gGmbH  
-(gGmbH)  
-Trägerinnenverbund Erste Schritte für geflüchtete Frauen in den 119.918,60 3-25502001-000017.01  
-FLAKS e.V. (Frauen Arbeitsmarkt  
-Lernen Arbeit Kontakt  
-Service) (e.V.)
-
-Ev.-Luth. ein zusätzliches Angebot für 11.470,12 3-25406001-000010.05 Kirchenkreis Flüchtlingsfamilien durch das EKiZ Achtern Hamburg- Born für WUK Notkestraße in den West/Südholstein Räumlichkeiten der Ev. Kita Bugenhagen, (Öffentlich-rechtliche Bei der Flottbeker Mühle 25b, 22607 Körperschaft) Hamburg
-
-Ev.-Luth. ein zusätzliches Angebot für 11.470,12 3-25406001-000010.05 Kirchenkreis Flüchtlingsfamilien durch das EKiZ Achtern Hamburg- Born für die WUK Luruper Hauptstraße in West/Südholstein den Räumlichkeiten der Ev. Luth. Kita (Öffentlich-rechtliche Auferstehung, Binsenort 10, 22547 Körperschaft) Hamburg
-
-Seite 35 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-Deutsches Rotes Angebote für Flüchtlingsfamilien, 14.186,55 1-254.03.02.006.001  
-Kreuz Hamburg Willkommen mit IMPULS  
-gemeinnützige  
-Gesellschaft zur  
-Förderung der Kinder-  
-und Jugendhilfe mbH  
-(gGmbH)
-
-Großtagespflege den Erhalt von Betreuungsplätzen in der 5.429,04 2-25406001-00002.14 Mien Lüttjenwelt - Großtagespflege Leisner, Pishdad, Stemmler GbR (GbR)
-
-S.O.F. Save Our die Finanzierung von 6.674,34 3-25406001-000010.05 Future Umwelt- Unterstützungsangeboten für Kitas im Stiftung (Stiftung des Rahmen der Bildungsinitiative "Kita 21" privaten Rechts)
-
-Johanniter Jugend in Förderung nach dem Landesförderplan 300,00 1-254.02.03.001.001 der Johanniter Pos 2.3.2.1 Freizeiten Unfallhilfe e.V. - Regionalverband Hamburg (Sonstige) Johanniter Jugend in Förderung nach dem Landesförderplan 2.000,00 1-254.02.03.001.001 der Johanniter Pos. 2.3.1.1 Förderung der allgemeinen Unfallhilfe e.V. - Jugendarbeit Regionalverband Pos. 2.3.1.2 Förderung von Seminaren und Hamburg (Sonstige) Veranstaltungen Sprachbrücke- Hamburger Integrationsfonds - Förderung 37.600,00 3-25503001-000050.01 Hamburg e.V. (e.V.) des Projekts "Sprache im Alltag" - Drs. 21/6766 Arbeit und Leben Hamburger Integrationsfonds - Flüchtlinge 106.812,06 3-25502001-000023.01 DGB/VHS Hamburg und freiwillig Engagierte in der e.V. (e.V.) Flüchtlingshilfe über die Rechte als Arbeitnehmerinnen und Arbeitnehmer informieren - Drs. 21/6754 AQtivus W.I.R - Unternehmensservice in den W.I.R - 196.201,88 3-25502001-000017.01 Servicegesellschaft Dependancen Bergedorf und Harburg: für Aktivität auf dem Integrationsförderung von Geflüchteten Arbeitsmarkt gGmbH durch die Vernetzungsarbeit mit der lokalen (gGmbH) Wirtschaft
-
-Lawaetz-wohnen & Hamburger Integrationsfonds - Vermittlung 94.024,42 3-25503001-000100.01 leben gGmbH in privaten Wohnraum steigern - Stiftung (gGmbH) Wohnbrücke unterstützen - Drs. 21/6387
-
-Der Paritätische Hamburger Integrationsfonds - Vermittlung 88.890,05 3-25503001-000100.01 Wohlfahrtsverband in privaten Wohnraum steigern - Stiftung Hamburg e.V. (e.V.) Wohnbrücke unterstützen - Drs. 21/6387
-
-Fachrat Islamische Qualifizierung muslimischer Jugendlicher 123.129,00 3-25503001-000211.01 Studien e.V. (e.V.) als Peers in Hamburger Moscheen (Prävention von religiös motiviertem Extremismus)
-
-Seite 36 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Elbinstitut Hamburg Hamburger Integrationsfonds - Community 64.302,68 3-25502001-000023.01 e.V. (e.V.) Spirit - Drs. 21/7762 Westwind Hamburg Hamburger Integrationsfonds - Mit 96.577,86 3-25503001-000050.01 e.V. (e.V.) Westwind Mobilität von Geflüchteten stärken - Drs. 21/6993 MUT Antrag über BVA / KJP des Bundes für eine 7.900,00 1-254.05.03.001.001 Theater/Interkulturell Jugendbegegnung in Chicago im Juli 2017 e.V. (e.V.) Internationales Förderung der chancengerechten Teilhabe 2.500,00 1-255.03.01.003.001 Diakoniecafé von Menschen mit Migrationshintergrund WhyNot? (Sonstige) Projekt: Multikulturelles Sommerfest – von und mit Migranten- und Flüchtlingsinitiativen
-- Honorarmittel für Festorganisation -
-
-MUT KJP-Antrag über BVA für 4.458,00 1-254.05.03.001.001 Theater/Interkulturell Jugendbegegnung mit der Türkei (OUT) in e.V. (e.V.) Izmir im August 2017 "Nutzmüll e.V." (e.V.) Tronc-Mittel 2014/15 Drucksache 21/7033 2.300,00 3-25502001-000011.01
-
-"Nutzmüll e.V." (e.V.) Tronc-Mittel 2014/15 Drs.21/7033 12.000,00 3-25502001-000011.01
-
-MUT Antrag über KJP des Bundes und SK für 9.160,00 1-254.05.03.001.001 Theater/Interkulturell Jugendbegegnung mit Chicago in Hamburg e.V. (e.V.) im August 2017 MUT Antrag über KJP des Bundes und SK für 700,00 5-25405999-000001.08 Theater/Interkulturell Jugendbegegnung mit Chicago in Hamburg e.V. (e.V.) im August 2017 MUT Antrag über BVA / KJP des Bundes für 7.600,00 1-254.05.03.001.001 Theater/Interkulturell Jugendbegegnung mit der Türkei in e.V. (e.V.) Hamburg (IN) vom 22.12.2017-01.01.2018
-
-Stiftung Kulturpalast International Music Education 250.000,00 3-25502001-030010.01 Hamburg (Stiftung des privaten Rechts)
-
-MitOst Hamburg - KJP-Antrag über Stiftung DRJA und 27.500,00 1-254.05.03.001.001 Verein für Sprach-, Senatskanzlei für trilaterale Kultur- und Jugendbegegnung "critical kitchen" im Jugendaustausch in August/September 2017 in Hamburg Europa e.V. (e.V.) MitOst Hamburg - KJP-Antrag über Stiftung DRJA und 4.000,00 5-25405999-000001.09 Verein für Sprach-, Senatskanzlei für trilaterale Kultur- und Jugendbegegnung "critical kitchen" im Jugendaustausch in August/September 2017 in Hamburg Europa e.V. (e.V.) MitOst Hamburg - KJP-Antrag über Stiftung DRJA, 16.625,00 1-254.05.03.001.001 Verein für Sprach-, Senatskanzlei und LFP für bilaterales Kultur- und Netzwerktreffen im November/Dezember Jugendaustausch in 2017 in Hamburg Europa e.V. (e.V.)
-
-Seite 37 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) MitOst Hamburg - KJP-Antrag über Stiftung DRJA, 500,00 5-25405999-000001.02 Verein für Sprach-, Senatskanzlei und LFP für bilaterales Kultur- und Netzwerktreffen im November/Dezember Jugendaustausch in 2017 in Hamburg Europa e.V. (e.V.) Treffpunkt der Vorbereitungstreffen der trilateralen 1.000,00 1-254.05.03.001.001 Jugend Harburg Süd Jugendbegegnung mit Frankreich und e.V. (e.V.) Slowenien über DFJW im April 2017 in Hamburg Psychosoziale Arbeit Förderung demokratischer Kultur, 4.525,00 3-25503001-000210.01 mit Verfolgten e.V. Vorbeugung und Bekämpfung von (e.V.) Rechtsextremismus; Projekt: Beteiligung am Ohlsdorfer Friedensfest 2017
-
-Deutsches Rotes den Betrieb eines halboffenen 27.650,00 1-254.06.02.002.001 Kreuz, Kreisverband Kinderbetreuungsangebots (HOB) für die Hamburg-Harburg WUK Am Röhricht in den Räumlichkeiten e.V. (e.V.) der EA Geutensweg BilleVue GbR (GbR) Finanzierungsbeitrag zu den Kosten der 8.000,00 3-25502001-021119.01 Ausbildungsmesse Hamburger Osten 2017
-
-Deutsches Rotes den Betrieb eines halboffenen 20.580,00 1-254.06.02.002.001 Kreuz Hamburg Kinderbetreuungsangebots (HOB) für die gemeinnützige Wohnunterkünfte Jugendparkweg und Gesellschaft zur Kiwittsmoor in den Räumen der WUK Förderung der Kinder- Jugendparkweg und Jugendhilfe mbH (gGmbH)
-
-Deutsches Rotes den Betrieb eines halboffenen 23.780,50 2540699911 Kreuz Hamburg Kinderbetreuungsangebots (HOB) für die gemeinnützige Wohnunterkünfte Jugendparkweg und Gesellschaft zur Kiwittsmoor in den Räumen der WUK Förderung der Kinder- Jugendparkweg und Jugendhilfe mbH (gGmbH)
-
-Wurzeln in zwei Förderung der chancengerechten Teilhabe 2.500,00 3-25503001-000020.01 Welten e.V. (e.V.) von Menschen mit Migrationshintergrund Projekt: "Matadjaat - Afrika-Festival am
-17.09.2017" - Honorare für Bühnenprogramm
-
-Jugendfeuerwehr Antrag über Senatskanzlei für 4.000,00 5-25405999-000001.09 Hamburg (Sonstige) Städtepartnerschaft mit Dar es Salaam/Tansania (OUT-Maßnahme) im Oktober 2017 Jugendfeuerwehr Antrag über Senatskanzlei für 3.000,00 5-25405999-000001.06 Hamburg (Sonstige) Städtepartnerschaft mit León/Nicaragua (IN- Maßnahme) im August 2017 Sinnestaumel Organisation und Durchführung der 4. 13.500,00 3-25406001-000010.05 Hamburg e.V. (e.V.) Kitalympics
-
-Seite 38 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Jugendarbeitskreis Antrag über Senatskanzlei für 2.000,00 5-25405999-000001.10 Hamburg im Jugendbegegnung in Hamburg vom Volksbund Deutsche 30.06.2017 bis zum 04.07.2017 im Rahmen Kriegsgräberfürsorge des Projekts "Hamburg Memory" e.V. (Sonstige)
-
-Deutsches Rotes den Betrieb eines halboffenen 26.460,00 1-254.06.02.002.001  
-Kreuz Hamburg Kinderbetreuungsangebots in der WUK  
-gemeinnützige Große Horst  
-Gesellschaft zur  
-Förderung der Kinder-  
-und Jugendhilfe mbH  
-(gGmbH)
-
-Deutsches Rotes den Betrieb eines halboffenen 39.382,50 2550399911  
-Kreuz Hamburg Kinderbetreuungsangebots in der WUK  
-gemeinnützige Große Horst  
-Gesellschaft zur  
-Förderung der Kinder-  
-und Jugendhilfe mbH  
-(gGmbH)
-
-Johann Daniel Ausstattung der durch das Kolpingwerk 360.000,00 2-25402001-78242.17 Lawaetz-Stiftung betriebenen Azubi-Apartments im IFZ St. (Stiftung des Georg öffentlichen Rechts) Hamburger Förderung demokratischer Kultur, 4.140,00 3-25503001-000210.01 Turngesellschaft Vorbeugung und Bekämpfung von Barmbeck-Uhlenhorst Rechtsextremismus, Landesprogramm e.V. (e.V.) "Hamburg - Stadt mit Courage", Projekt: Hamburg bekennt Farbe im Sand MitOst Hamburg - Jugendaustausch zur See Törn 3 Turku- 12.900,00 1-254.05.03.001.001 Verein für Sprach-, Klaipeda "veter i volny-Jugendaustausch zur Kultur- und See" über Landesförderplan und Jugendaustausch in Senatskanzlei im Juli/August 2017 Europa e.V. (e.V.) MitOst Hamburg - Jugendaustausch zur See Törn 3 Turku- 500,00 5-25405999-000001.02 Verein für Sprach-, Klaipeda "veter i volny-Jugendaustausch zur Kultur- und See" über Landesförderplan und Jugendaustausch in Senatskanzlei im Juli/August 2017 Europa e.V. (e.V.) MitOst Hamburg - Jugendaustausch zur See Törn 2 3.915,00 1-254.05.03.001.001 Verein für Sprach-, St.Petersburg - St.Petersburg "veter i volny - Kultur- und Jugendaustausch zur See" über Stiftung Jugendaustausch in DRJA und Senatskanzlei im Juli 2017 Europa e.V. (e.V.) MitOst Hamburg - Jugendaustausch zur See Törn 2 500,00 5-25405999-000001.02 Verein für Sprach-, St.Petersburg - St.Petersburg "veter i volny - Kultur- und Jugendaustausch zur See" über Stiftung Jugendaustausch in DRJA und Senatskanzlei im Juli 2017 Europa e.V. (e.V.)
-
-Seite 39 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) MitOst Hamburg - Jugendaustausch zur See Törn 1 Hamburg - 20.178,00 1-254.05.03.001.001 Verein für Sprach-, St.Petersburg "veter i volny - Kultur- und Jugendaustausch zur See" über Stiftung Jugendaustausch in DRJA und Senatskanzlei im Juni/Juli 2017 Europa e.V. (e.V.) MitOst Hamburg - Jugendaustausch zur See Törn 1 Hamburg - 500,00 5-25405999-000001.02 Verein für Sprach-, St.Petersburg "veter i volny - Kultur- und Jugendaustausch zur See" über Stiftung Jugendaustausch in DRJA und Senatskanzlei im Juni/Juli 2017 Europa e.V. (e.V.) MitOst Hamburg - Jugendaustausch zur See Törn 4 Klaipeda- 13.729,50 1-254.05.03.001.001 Verein für Sprach-, Hamburg "veter i volny - Jugendaustausch Kultur- und zur See" über Stiftung DRJA, Senatskanzlei Jugendaustausch in und Landesförderplan im Juli/August 2017 Europa e.V. (e.V.) MitOst Hamburg - Jugendaustausch zur See Törn 4 Klaipeda- 500,00 5-25405999-000001.11 Verein für Sprach-, Hamburg "veter i volny - Jugendaustausch Kultur- und zur See" über Stiftung DRJA, Senatskanzlei Jugendaustausch in und Landesförderplan im Juli/August 2017 Europa e.V. (e.V.) Kulturbrücke Hamburger Integrationsfonds - 25.000,00 3-25503001-000050.01 Hamburg e.V. (e.V.) Auseinandersetzung mit gesellschaftlichen Grundsätzen befördern - Projekt "SWITCHMind" - Drs. 21/7415
-
-Kulturbrücke Förderung der chancengerechten Teilhabe 5.000,00 3-25503001-000020.01 Hamburg e.V. (e.V.) von Menschen mit Migrationshintergrund Projekt: Frauen- / Migrantinnen- / Migrantenmarsch am 13. Mai 2017
-
-Freies Kinder- und Fachkräfteaustausch mit Shanghai in 4.820,00 1-254.05.03.001.001 Stadtteilzentrum e.V. Hamburg BVA/KJP Kofinanzierung (e.V.) Senatskanzlei und Landesförderplan im Juli 2017 Freies Kinder- und Fachkräfteaustausch mit Shanghai in 1.000,00 5-25405999-000001.04 Stadtteilzentrum e.V. Hamburg BVA/KJP Kofinanzierung (e.V.) Senatskanzlei und Landesförderplan im Juli 2017 SpielTiger e.V. Spielaktionen in Unterkünften der öffentlich- 74.188,08 1-254.02.01.001.001 Institut für Bewegung, rechtlichen Unterbringung -Erweiterung 2- Kultur und Spiel (e.V.)
-
-Trägerinnenverbund Hamburger Integrationsfonds - Förderung 32.226,26 1-254.03.02.009.001 FLAKS e.V. (Frauen des Projekts "Geflüchtete Mädchen und Lernen Arbeit Kontakt Frauen in Bewegung" - Drs. 21/6999 Service) (e.V.)
-
-GWA St. Pauli e.V. Antrag über DFJW für eine deutsch- 11.274,61 1-254.05.03.001.001 (e.V.) französische Jugendbegegnung im Juli 2017 (IN-Maßnahme) Arbeitsausschuss der Durchführung gemeinsamer 2.400,00 1-254.07.02.004.001 Organisationen Angelegenheiten ehemals Verfolgter des ehemals Verfolgter in Nationalsozialismus Hamburg (Sonstige)
-
-Seite 40 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) "Mädchentreff", Gestaltung und Durchführung des 22. 11.978,00 1-254.02.02.001.001 Verein zur Förderung Hamburger mädCHENspektakels ohne feministischer Kostenübernahme der Miete- und stadtteilbezogener Leasingkosten für die Aktionsgeräte, Mädchenarbeit e.V. Instrumente und Transportkosten (e.V.)
-
-MOTTE - Verein für Antrag über DFJW für ein 1.028,80 1-254.05.03.001.001 stadtteilbezogene Vorbereitungstreffen im September 2017 Kultur- und (IN-Maßnahme) Sozialarbeit e.V. (e.V.) Vaeter e.V. (e.V.) Tronc: Gestaltung und Druck eines 2.800,00 1-254.03.02.006.001 Imageflyers und zweier Programmflyer Treffpunkt der Antrag über DFJW und Kofi LFP Pos. 3.3 15.874,00 1-254.05.03.001.001 Jugend Harburg Süd für eine deutsch-französisch-slowenische e.V. (e.V.) Jugendbegegnung im August 2017 (IN- Maßnahme) Mehrgenerationenha Tronc: Anschaffung von Außenspielgeräten 4.414,85 1-254.03.02.006.001 us Nachbarschatz e.V. (e.V.) Verwaiste Eltern und Tronc: Neustrukturierung der Homepage 3.015,00 1-254.03.02.006.001 Geschwister Hamburg e.V. (e.V.) MOTTE - Verein für Antrag über DFJW, Senatskanzlei und Kofi 9.866,77 1-254.05.03.001.001 stadtteilbezogene LFP Pos. 3.3 für bilaterale Kultur- und Jugendbegegnung mit Marseille im Oktober Sozialarbeit e.V. 2017 (IN-Maßnahme) (e.V.) MOTTE - Verein für Antrag über DFJW, Senatskanzlei und Kofi 3.000,00 5-25405999-000001.01 stadtteilbezogene LFP Pos. 3.3 für bilaterale Kultur- und Jugendbegegnung mit Marseille im Oktober Sozialarbeit e.V. 2017 (IN-Maßnahme) (e.V.) WSB Wirtschaft und W.I.R - Unternehmensservice in der W.I.R - 16.914,11 3-25502001-000017.01 Stadtmarketing für Dependance Bergedorf: Unterstützung der die Region Bergedorf Arbeitsmarktintegration von Geflüchteten e.V. (e.V.)
-
-Schmied, Saliha Förderung demokratischer Kultur, 720,00 3-25503001-000210.01 Yvonne Vorbeugung und Bekämpfung von Rechtsextremismus, Landesprogramm Hamburg-Stadt mit Courage, Projekt: Veranstaltungsreihe "Gemeinsamkeiten zwischen Christen und Muslimen"- Auftaktveranstaltung "Nächstenliebe" Pfadfinder- und KJP-Antrag über ConAct für eine deutsch- 9.960,00 1-254.05.03.001.001 Pfadfinderinnenbund israelische Jugendbegegnung im Mai 2017 Nord (Sonstige) (IN-Maßnahme) Eriträischer Jugend- Renovierung und Einrichtung der neuen 27.069,11 1-254.02.03.001.001 und Kulturverein Räume, Bahrenfelder Straße 7 Hamburg e.V. (e.V.)
-
-Seite 41 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) "Das Haus"- Bilaterale Jugendbegegnung mit Südkorea 23.500,00 1-254.05.03.001.001 Förderverein Haus 18.07.-31.07.2017 in Hamburg der Jugend KJP Programm längerfristige Förderung Steilshoop e.V. (e.V.) und JPE
-
-Abenteuerspielplatz Bilaterale Jugendbegegnung mit Slowenien 4.992,00 1-254.05.03.001.001 am Brunnenhof e.V. im Juni/Juli 2017 in Hamburg über BVA/KJP (e.V.) Diakonisches Werk die Schaffung von Krippenplätzen in der 35.435,00 2-25406001-00002.15 Hamburg - Kita St. Andreas, Bogenstraße 26 in 20144 Landesverband der Hamburg, im Rahmen der Förderrichtlinie Inneren Mission e.V. zum Zusatzprogramm Krippenausbau 2015- (e.V.) 2018 Diakonisches Werk die Schaffung von Krippenplätzen in der 7.842,16 2-25406001-00002.16 Hamburg - Kita Leuchtboje, Lerchenkamp 8a, 22459 Landesverband der Hamburg im Rahmen der Förderrichtlinie Inneren Mission e.V. zum Zusatzprogramm Krippenausbau 2015- (e.V.) 2018 ALRAUNE gGmbH Tagwerk Suchtmittelberatungsstelle 251.140,39 3-25502001-021615.01 Gemeinnützige "Subway" Gesellschaft zur Förderung der Teilhabechancen und Verbesserung der Lebensqualität benachteiligter Menschen (gGmbH) Jugendfeuerwehr Antrag über die Senatskanzlei für eine 1.000,00 5-25405999-000001.02 Hamburg (Sonstige) Jugendbegegnung mit St. Petersburg im August 2017 (IN-Maßnahme) Internationaler Förderung nach dem Landesförderplan 12.330,00 1-254.05.03.001.001 Jugendverband Pos. 2.3.3 Internationale Jugendarbeit und Europa- Begegnung Hamburg-Mexiko in Hamburg Lateinamerika e.V. (e.V.) Internationaler Antrag über BVA/KJP des Bundes für 4.886,00 1-254.05.03.001.001 Jugendverband bilaterale Multiplikatoren-Begegnung in Europa- Havanna / Kuba 26.05.-02.06.2017 Lateinamerika e.V. (e.V.) Lesben- und KJP-Antrag über die Senatskanzlei und die 1.245,00 1-254.05.03.001.001 Schwulenverband in LFP Position 3.3 für einen Deutschland Fachkräfteaustausch mit St. Petersburg im Landesverband August 2017 (OUT-Maßnahme) Hamburg (LSVD- Hamburg) e.V. (e.V.)
-
-Lesben- und KJP-Antrag über die Senatskanzlei und die 2.500,00 5-25405999-000001.02 Schwulenverband in LFP Position 3.3 für einen Deutschland Fachkräfteaustausch mit St. Petersburg im Landesverband August 2017 (OUT-Maßnahme) Hamburg (LSVD- Hamburg) e.V. (e.V.)
-
-Seite 42 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Zukunft Arbeit Zuwendung für ein betriebswirtschaftliches 5.000,00 Bundesmittel gemeinnützige GmbH Gutachten zur Bewertung der Übernahme "AlleImBetrieb" AIB (gGmbH) eines Fahrradladens
-
-Arbeitsgemeinschaft Förderung nach dem Landesförderplan 2.688,00 1-254.05.03.001.001 freier Pos. 2.3.3 Internationale Jugendarbeit und Jugendverbände in Begegnung mit Leon/Nicaraqua in Hamburg - AGfJ - Nicaragua vom 01.08.2017 - 31.08.2017 e.V. (e.V.) Arbeitsgemeinschaft Förderung nach dem Landesförderplan 4.000,00 5-25405999-000001.06 freier Pos. 2.3.3 Internationale Jugendarbeit und Jugendverbände in Begegnung mit Leon/Nicaraqua in Hamburg - AGfJ - Nicaragua vom 01.08.2017 - 31.08.2017 e.V. (e.V.) hwg hamburg work Zuwendung für die Erweiterung des 1.686,98 SoVermSchwbG gGmbH (gGmbH) Integrationsprojektes - Schaffung eines neuen Arbeitsplatzes im Verwaltungsbereich Hamburger mit Herz Hamburger Integrationsfonds - 68.878,43 3-25503001-000100.01 e.V. (e.V.) Integrationspatenschaften fördern - Projekt "Brücken bauen" - Drs. 21/6914 Haus 3, Antrag über das DFJW und LFP Pos. 3.3 14.492,72 1-254.05.03.001.001 Stadtteilzentrum in Kofinanzierung für eine Jugendbegegnung Altona e.V. (e.V.) mit Marrakesch und Marseille im Juni/Juli 2017 (IN-Maßnahme)
-
-Altonaer Fußball-Club Jugendbegegnung zwischen FC 500,00 1-254.05.03.001.001 von 1893 (Altona 93) Lokomotive St. Petersburg und Altona 93 in e.V. (e.V.) St. Petersburg über Senatskanzlei und LFP Pos. 3.3 im August 2017 (OUT) Altonaer Fußball-Club Jugendbegegnung zwischen FC 500,00 5-25405999-000001.02 von 1893 (Altona 93) Lokomotive St. Petersburg und Altona 93 in e.V. (e.V.) St. Petersburg über Senatskanzlei und LFP Pos. 3.3 im August 2017 (OUT) Integrationspunkt Förderung der chancengerechten Teilhabe 8.334,00 1-255.03.01.003.001 Hamburg IPV von Menschen mit Migrationshintergrund gemeinnützige UG Projekt: Koordinierung "Muslimische (haftungsbeschränkt) Gemeinden als kommunale Netzwerker" (UG - Unternehmergesellsc haft) Deutscher Planung, Organisation und Durchführung 78.270,17 1-254.03.02.008.001 Kinderschutzbund des 14. Hamburger Familientages Landesverband Hamburg e.V. (e.V.) MOTTE - Verein für Antrag über LFP Pos. 3.3 KoFi für 2.730,00 1-254.05.03.001.001 stadtteilbezogene Weiterbildungs- und Begegnungsprojekt mit Kultur- und Frankreich und Spanien im September Sozialarbeit e.V. 2017 (OUT-Maßnahme) (e.V.)
-
-Seite 43 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Ev.-luth. Förderung demokratischer Kultur, 5.000,00 3-25503001-000210.01 Kirchengemeinde St. Vorbeugung und Bekämpfung von Georg-Borgfelde Rechtsextremismus, Landesprogramm (Öffentlich-rechtliche Hamburg-Stadt mit Courage, Projekt: Körperschaft) Interkulturelle Stadtteilfreizeit St. Georg 2017. Pfadfinder- und KJP-Antrag über ConAct für eine deutsch- 5.783,00 1-254.05.03.001.001 Pfadfinderinnenbund israelische Jugendbgegenung in Israel im Nord (Sonstige) Oktober 2017 (OUT-Maßnahme)
-
-BI Bildung und W.I.R - Lebenslagenberatung in der 121.241,74 3-25502001-000017.01 Integration Hamburg Dependance Harburg Süd gGmbH (gGmbH) Bucerius Law School Hamburger Integrationsfonds - Information 114.236,42 3-25503001-000100.01 Hochschule für von Geflüchteten im Netz und vor Ort Rechtswissenschaft verbessern: Projekt "We.Inform" gGmbH (gGmbH) unterstützen - Drs. 21/7995
-
-Landesmusikrat in Förderung demokratischer Kultur, 5.000,00 3-25503001-000210.01 der Freien und Vorbeugung und Bekämpfung von Hansestadt Hamburg Rechtsextremismus: "Kick Off" der Bildung e.V. (e.V.) und Koordination der Initiative "Hamburg handelt. Gemeinsam.Offen.Vielfältig."
-
-Landesmusikrat in Förderung demokratischer Kultur, 5.000,00 3-25503001-000210.01 der Freien und Vorbeugung und Bekämpfung von Hansestadt Hamburg Rechtsextremismus: Beteiligung an einer e.V. (e.V.) Kundgebung für Vielvalt, Toleranz und Demokratie am 18.06.2017 durch Finanzierung von Werbung sowie Bühne, Ton- und Lichttechnik Stiftung Kulturpalast Antrag über LFP Pos. 3.1 für 2.820,00 1-254.05.03.001.001 Hamburg (Stiftung Jugendbegegnung mit Marokko im August des privaten Rechts) 2017 (IN-Maßnahme)
-
-Internationaler Bund W.I.R - Lebenslagenberatung in der 49.179,66 3-25502001-000017.01 (IB) Freier Träger der Dependance Bergedorf Jugend-, Sozial- und Bildungsarbeit (e.V.)
-
-Caritasverband für W.I.R - Lebenslagenberatung in der 59.517,05 3-25502001-000017.01 Hamburg e.V. (e.V.) Dependance Bergedorf Naturschutzbund Tronc: Vortragsreihe und Kinderfest der 3.800,00 1-254.02.01.001.001 Deutschland NABU Gruppe West Landesverband Hamburg e.V. (e.V.) Interkulturelles Förderung der chancengerechten Teilhabe 2.500,00 1-255.03.01.003.001 Migranten von Menschen mit Migrationshintergrund Integrations Center Projekt: Africa Day 2017 - Anteilige e.V. (e.V.) Kostenbeteiligung für die Bühnentechnik
-
-Interkulturelle Ergänzende Sprachförderung für besondere 13.000,00 1-255.03.01.002.001 Begegnungsstätte Lernbedarfe im Rahmen des EHAP- e.V. (e.V.) Projektes step.in
-
-Seite 44 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-Lesben- und Antrag über Senatskanzlei und DRJA für 2.962,00 1-254.05.03.001.001  
-Schwulenverband in Jugendbegegnung mit St. Petersburg im  
-Deutschland Juli/August 2017 (IN-Maßnahme)  
-Landesverband  
-Hamburg (LSVD-  
-Hamburg) e.V. (e.V.)
-
-Lesben- und Antrag über Senatskanzlei und DRJA für 3.270,00 5-25405999-000001.02  
-Schwulenverband in Jugendbegegnung mit St. Petersburg im  
-Deutschland Juli/August 2017 (IN-Maßnahme)  
-Landesverband  
-Hamburg (LSVD-  
-Hamburg) e.V. (e.V.)
-
-Islamisches Förderung demokratischer Kultur, 4.523,00 3-25503001-000210.01 Kulturzentrum der Vorbeugung und Bekämpfung von Bosniaken in Rechtsextremismus Landesprogramm Hamburg und "Hamburg - Stadt mit Courage", Projekt: Umgebung e.V. (e.V.) Gedenkveranstaltung anlässlich des Gedenktages des Genozids von Srebrenica
-
-Verband Kinder- und Antrag über Tandem für Jugendaustausch 9.685,00 1-254.05.03.001.001 Jugendarbeit mit Prag im Juli 2017 (IN-Maßnahme) Hamburg e.V. (e.V.) PFIFF gGmbH Hamburger Integrationsfonds - Zuwendung 11.000,00 1-254.04.02.002.228 Pflegekinder und ihre für eine Werbekampagne zur Akquise Familien - zukünftiger Patinnen und Paten im Rahmen Fortbildung, des Projektes "Patenschaften für Information, minderjährige unbegleitete Flüchtlinge" - Öffentlichkeitsarbeit Drs. 21/7989 (gGmbH) BASIS & WOGE e.V. Kaution Mietvertrag "KIDS", Lange Reihe 24 28.000,00 1-254.02.02.001.001 (e.V.) Hamburger Institut für Hamburger Integrationsfonds - 93.365,73 3-25503001-000100.01 Mediation e.V. (e.V.) Mediationsbrücke - Drs. 21/7615
-
-Bergedorfer Impuls Catering Delegation des estnischen 189,80 3-25502001-030012.01 Betriebsstätten Sozialministeriums am 27.04.2017 GmbH (GmbH) Rechnungsnummer Cas/ 1012 Schulverein Förderung demokratischer Kultur, 1.557,00 3-25503001-000210.01 Gymnasium Vorbeugung und Bekämpfung von Corveystraße e.V. Rechtsextremismus, Landesprogramm (e.V.) "Hamburg - Stadt mit Courage", Projekt: Veranstaltung "Esther Bejerano & die Microphone Mafia" Internationaler Antrag über BVA / KJP des Bundes für 23.540,00 1-254.05.03.001.001 Jugendverband bilaterale Jugendbegegnung mit Kolumbien Europa- im Juni/Juli 2017 (IN-Maßnahme) Lateinamerika e.V. (e.V.)
-
-Seite 45 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) TopAfric e.V. (e.V.) Förderung der chancengerechten Teilhabe 2.500,00 1-255.03.01.003.001 von Menschen mit Migrationshintergrund Projekt: Förderung der Öffentlichkeitsarbeit für den "7th African Youth Education Award"
-
-i3 e.V. (e.V.) Hamburger Integrationsfonds - Vermittlung 339.026,61 3-25502001-000023.01 in Arbeit sowie digitale Bildung integrativ gestalten - i3 e. V. (Initiative Informatik Inspiration) Haus5 Service Zuwendung für eine betriebswirtschaftliche 5.000,00 Bundesmittel gemeinnützige GmbH Beratung im Rahmen der Neugründung des "AlleImBetrieb" AIB (gGmbH) Geschäftsfeldes "GaLa".
-
-Runder Tisch Tronc-Mittel 2015/2015 Drucksache 3.392,77 1-255.03.02.001.001 Blankenese 21/7033 (Sonstige) Projekt"Buntes Haus" hwg hamburg work Zuwendung für die Erweiterung des 250.000,00 Bundesmittel gGmbH (gGmbH) Integrationsunternehmens durch den "AlleImBetrieb" AIB Betrieb einer Zentralküche zur Belieferung von Kitas in Hamburg Jugenderholungswer Umstellung der Nummernvergabe auf ein 7.291,74 1-254.02.01.001.001 k Hamburg e.V. (e.V.) online basiertes Anmeldeverfahren
-
-Alevitische Jugend Zuwendung nach dem Landesförderplan 2.000,00 1-254.02.03.001.001 Hamburg e.V. (e.V.) Pos. 2.3.4 Besondere Maßnahmen Phoenix Eingliederung in eine technische bzw. 93.080,00 3-25502001-021175.01 Compounding gewerbliche Berufsorientierungsphase der Technology GmbH Phoenix Compounding Technology GmbH (GmbH) oder einem anderen Partnerbetrieb (12 Teilnehmende) CISV Germany, Förderung über LFP Pos. 3.1 für 10.500,00 1-254.05.03.001.001 Group Hamburg Internationale Jugendarbeit und Deutsche Begegnung: Internationales Kindercamp in Gesellschaft für Hamburg vom 28.07.2017-24.08.2017 (IN) internationale Kinder- und Jugendbegegnungen e.V. (e.V.) BIFF - Psychosoziale Modernisierung der gemeinsamen Website 6.783,00 1-254.03.02.009.001 Beratung und der biff Eimsbüttel, Harburg und Winterhude Information für Frauen und Mädchen e.V. (e.V.)
-
-ABC Bildungs- und Bilateraler Fachkräfteaustausch in Ruanda 2.400,00 1-254.05.03.001.001 Tagungszentrum e.V. vom 03.12.2017 bis 11.12.2017 (OUT), LFP (e.V.) Teil I Pos 3.3 Landesjugendwerk Anschaffung einer Jurte sowie eines 2.693,49 1-254.02.03.001.001 Hamburg des Bundes Tischkickers Freikirchlicher Pfingstgemeinden (Sonstige)
-
-Seite 46 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-Pfadfinder & Anschaffung neuer Materialien 5.465,04 1-254.02.03.001.001  
-Pfadfinderinnenbund  
-Nordlicht e.V. (PBNL)  
-(e.V.)  
-Sozialistische Jugend Ersatzbeschaffung Kopierer 5.625,61 2-25402001-79311.17  
-Deutschlands "Die  
-Falken" (Sonstige)
-
-DIDF Jugend Anschaffung Büroausstattung und 5.749,63 1-254.02.03.001.001 Hamburg e.V. (e.V.) technischer Geräte Arbeitsgemeinschaft Renovierungsarbeiten in den 2.375,00 1-254.02.03.001.001 Interkultureller Vereinsräumen Thedestraße 99 Jugendverbände Hamburg e.V. (A.G.I.J. e.V.) (e.V.) Bund Christlicher Beschaffung von diversen Zeltmaterial und 5.872,94 1-254.02.03.001.001 Gemeinde-Pfadfinder ein Musikinstrument für Kinder- und (CGP) (Sonstige) Jugendfreizeiten
-
-ASB Flüchtlingshilfe die Einrichtung und den Betrieb eines 3.000,00 3-25406001-000010.05 Hamburg GmbH Elterncafés für Flüchtlingsfamilien in der (GmbH) Erstaufnahmeeinrichtung (EA) für Asylbewerber in der Schmiedekoppel SpielTiger e.V. Mietkaution für die Nutzung der 8.884,09 1-254.02.01.001.001 Institut für Bewegung, Räumlichkeiten in 22761 Hamburg, Kultur und Spiel (e.V.) Theodorstraße 42-90, Haus 6 im Scout sowie eine Gewerbefläche in der Halle 12c, Teil 2 im EG Deutsches Rotes den Betrieb eines Elterncafés für 11.785,35 3-25406001-000010.05 Kreuz, Kreisverband Flüchtlingsfamilien in der Wohnunterkunft Hamburg-Harburg (WUK) für Asylbewerber Billbrookdeich e.V. (e.V.) (W900) PFIFF gGmbH Ersatzbeschaffung eines Geschirrspülers 610,75 1-254.04.02.002.228 Pflegekinder und ihre Familien - Fortbildung, Information, Öffentlichkeitsarbeit (gGmbH) Borchardt, Lena Förderung demokratischer Kultur, 4.490,00 3-25503001-000210.01 Vorbeugung und Bekämpfung von Rechtsextremismus Projekt "Bitte einsteigen" MV-Jugend Hamburg Anschaffung eines Tischkickers für den 725,27 1-254.02.03.001.001 (Sonstige) Standort Gluckstraße 7 Flüchtlingshilfe Hamburger Integrationsfonds - 38.591,51 3-25503001-000050.01 Harvestehude e.V. Integrationsprojekte in den Bezirken stärken (e.V.) - Sprachförderung durch den Verein Flüchtlingshilfe Harvestehude - Drs. 21/7612 Berufliche Integration Hamburger Integrationsfonds - Mit LibertA 172.443,31 3-25502001-000023.01 Bin e.V. (e.V.) die Arbeitsmarktintegration geflüchteter Frauen unterstützen - Drs. 21/7413
-
-Seite 47 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Weko Förderung demokratischer Kultur, 4.000,00 3-25503001-000216.01 Sicherheitsdienste Vorbeugung und Bekämpfung von GmbH (GmbH) Rechtsextremismus, Landesprogramm "Hamburg - Stadt mit Courage": Schulung von Mitarbeiterinnen und Mitarbeitern "Herausforderung in der Arbeit als Sicherheitsmitarbeiter von Geflüchtetenun...
-
-Diakonisches Werk Erneuerung der Hard- und Software in der 17.000,00 2-25303001-00004.01 Hamburg - Sozialen Beratungsstelle Bergedorf/Billstedt Landesverband der Inneren Mission e.V. (e.V.) Abenteuerspielplatz Beteiligung von jungen Menschen aus 1.000,00 1-254.05.03.001.001 am Brunnenhof e.V. einkommensschwachen Familien an (e.V.) internationalen Jugendbegegnungen im Juli 2017 (OUT-Maßnahme) Arbeitsgemeinschaft Förderung der 19. AKTIVOLI- 13.700,00 1-255.03.02.001.001 der Freien Freiwilligenbörse am 11.02.2018 Wohlfahrtspflege Hamburg e.V. (e.V.) ABED Deutschland Antrag über DFJW für ein trilaterales 1.067,69 1-254.05.03.001.001 e.V. (e.V.) Vorbereitungstreffen mit Frankreich und Sénégal im August 2017 (IN-Maßnahme) Landesverein der Förderung demokratischer Kultur, 2.954,50 3-25503001-000210.01 Sinti in Hamburg e.V. Vorbeugung und Bekämpfung von (e.V.) Rechtsextremismus, Landesprogramm "Hamburg - Stadt mit Courage", Projekt: "Ohh Porajmos. Illustrationen zur Diskriminierungs- und Verfolgungsgeschichte der Sinti und Roma" - Druck 2. Aufla... Deutsches Rotes den Betrieb eines Elterncafés für 5.927,62 3-25406001-000010.05 Kreuz, Kreisverband Flüchlingsfamilien in der Wohnunterkunft Hamburg-Harburg (WUK) Am Röhricht e.V. (e.V.) Elbkinder ein zusätzliches Angebot für 3.593,00 3-25406001-000010.05 Vereinigung Flüchtlingsfamilien durch das EKiZ Hamburger Kitas Steilshooper Allee in der WUK Große Horst gGmbH (gGmbH) Arbeit & Gesundheit Gewährleistung eines 174.435,24 3-25502001-000011.01 e.V. (e.V.) zielgruppenspezifischen Beratungsangebots zur Erhaltung und Förderung der psychischen Gesundheit und der Beschäftigungsfähigkeit durch die Anlaufstelle „PAG – Perspektive Arbeit und Gesundheit“ ABC Bildungs- und Sanierung der Außenhülle (Fachwerk, 30.000,00 1-254.02.01.001.001 Tagungszentrum e.V. Reetdach) (e.V.) BASIS & WOGE e.V. Umbau der neuen Räume in der Langen 192.000,00 2-25402001-79898.17 (e.V.) Reihe 24 für das "KIDS" Zündfunke e.V. (e.V.) Neuanschaffung und Installation einer 2.707,86 1-254.03.02.010.001 Telefonanlage
-
-Seite 48 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) PASSAGE Optimierung der Beschäftigungsfähigkeit 97.943,68 3-25502001-000007.01 gemeinnützige und Arbeitsmarktintegration von öffentlich Gesellschaft für geförderten, sozialversicherungspflichtigen Arbeit und Integration Arbeitsverhältnissen in der Rathauspassage mbH (gGmbH)
-
-SpielTiger e.V. Beschaffung und Ausstattung eines 92.978,80 2-25402001-79923.17 Institut für Bewegung, Spielmobils mit Anhänger Kultur und Spiel (e.V.)
-
-Von Anfang an e.V. Entwicklungspsychologische Beratung von 3.456,00 1-254.03.02.006.001 (e.V.) Eltern mit Kindern bis 3 Jahren in den Elternschulen Barmbek und Veddel Thalia Theater Hamburger Integrationsfonds - Sprachcafé 51.396,13 3-25503001-000100.01 Gesellschaft mit Embassy of Hope absichern - Drs. 21/7997 beschränkter Haftung (GmbH) Klasing, Jannis Förderung demokratischer Kultur, 2.005,00 3-25503001-000210.01 Vorbeugung und Bekämpfung von Rechtsextremismus; Landesprogramm "Hamburg - Stadt mit Courage", Projekt: Publikumsgespräche zum Thema "Rechtsextremismus, Humanismus, Transhumanismus und die Ideologiekämpfe um das Mensch... WABE e.V. (e.V.) die Schaffung von Betreuungsplätzen für 1.644.240,00 2-25406001-00041.01 Kinder im Alter von 0 Jahren bis zum Schuleintritt im Rahmen des Investitionsprogramms 2017-2020 in der Kita "Jenfelder Au", 22045 Hamburg Haas, Claudia Förderung demokratischer Kultur, 5.000,00 3-25503001-000210.01 Corinna Vorbeugung und Bekämpfung von Rechtsextremismus "Ausstellung für junge Menschen über die Emigration von Architekt und Bausenator G. Oelsner in die Türkei von 1939-1949" Arbeiter-Samariter- Hamburger Integrationsfonds - 150.000,00 3-25503001-000100.01 Bund Landesverband Integrationspatenschaften fördern - Projekt Hamburg e.V. (e.V.) "Realisierung einer Vermittlungs- und Vernetzungsplattform und einer Öffentlichkeitskampagne zur Gewinnung neuer Patinnen und Paten" - Drs. 21/6914
-
-Verein für ein zusätzliches Angebot für 18.110,70 3-25406001-000010.05 stadtteilbezogene Flüchtlingsfamilein durch das EKiZ milieunahe Lerchenstraße für WUK Erziehungshilfen e.V. Kirchenpauerstraße (e.V.) Lufthansa Technical Durchführung einer berufsorientierten 85.000,00 3-25502001-021175.01 Training GmbH Ausbildungsvorbereitung für gewerblich- (GmbH) technische Berufe SpielTiger e.V. Ausstattung der Räume am Standort 24.060,80 1-254.02.01.001.001 Institut für Bewegung, Theodorstrasse Kultur und Spiel (e.V.)
-
-Seite 49 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-LITTLE IVY GmbH die Schaffung von Betreuungsplätzen für 240.023,00 2-25406001-00041.03  
-(GmbH) Kinder im Alter von 0 Jahren bis zum  
-Schuleintritt im Rahmen des  
-Investitionsprogramms 2017-2020 in der  
-Kita Quedlinburger Weg 34 in 22455  
-Hamburg  
-PASSAGE Tagwerk-Projekt St. Georg 2017/2018 196.334,68 3-25502001-021615.01  
-gemeinnützige  
-Gesellschaft für  
-Arbeit und Integration  
-mbH (gGmbH)
-
-TÜV NORD BQ-Anschluss 2017 - Ausbildung zum 31.201,71 3-25502001-000025.01 Technisches Fahrzeuglackierer/zur Fahrzeuglackiererin Schulungszentrum GmbH & Co. KG. (GmbH & Co KG) Trägerinnenverbund Ersatzbeschaffung eines Druckers, 507,59 1-254.03.02.009.001 FLAKS e.V. (Frauen Einrichtung und Einbindung ins Lernen Arbeit Kontakt Schulungsnetz Service) (e.V.)
-
-Bäcker-Innung Eingliederung in eine Berufsausbildung 17.268,00 3-25502001-000025.01 Hamburg (Öffentlich- zum/zur Bäckereifachverkäufer/in, zum rechtliche Bäcker/in (1 Teilnehmende Körperschaft) Christliches "Dekonstrukt" - Praxis-Forschungs-Projekt: 16.250,00 3-25503001-000210.01 Jugenddorfwerk Proaktive Auseinandersetzung mit Deutschlands neurechten Ideologien und Strukturen gemeinnütziger e.V. (CJD) (e.V.) Der Paritätische Hamburger Integrationsfonds - 6.784,90 3-25503001-000050.01 Wohlfahrtsverband Umbaumaßnahme für das Paritätische Hamburg e.V. (e.V.) Kompetenzzentrum Migration (KomMig) zur Vernetzung von Integrationsinitiativen - Drs. 21/7994 Bleibe e.V. (e.V.) Hamburger Integrationsfonds - Vermittlung, 65.000,00 1-254.03.02.006.001 Koordination und Begleitung von Privatvormundschaften für unbegleitete minderjährige Flüchtlinge - Drs. 21/7990
-
-Koordinierungsstelle Schulmentoren - Hand in Hand für starke 411.000,00 3-25502001-031135.01 Weiterbildung und Schulen 2.0 (KWB) Beschäftigung e.V. (KWB) (e.V.) Koordinierungsstelle Schulmentoren - Hand in Hand für starke 1.033.000,00 3-25502001-030010.01 Weiterbildung und Schulen 2.0 (KWB) Beschäftigung e.V. (KWB) (e.V.) Behörde für Schule Schulmentoren - Hand in Hand für starke 792.000,00 3-25502001-030010.01 und Berufsbildung Schulen 2.0 (BSB) (Öffentlich-rechtliche Körperschaft)
-
-Seite 50 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-inab - Ausbildungs- BQ-Anschluss 2017 – Ausbildung zum 24.420,00 3-25502001-000021.01  
-und Verkäufer / zur Verkäuferin  
-Beschäftigungsgesell  
-schaft des bfw mbH  
-(GmbH)  
-inab - Ausbildungs- BQ-Anschluss 2017 – Ausbildung zum 25.088,98 3-25502001-000025.01  
-und Kaufmann für Büromanagement / zur  
-Beschäftigungsgesell Kauffrau für Büromanagement  
-schaft des bfw mbH  
-(GmbH)  
-Johann Daniel Baumehrkosten für die Instandsetzung von 380.000,00 2-25404228-80709.17  
-Lawaetz-Stiftung Lutherpark, Haus 2  
-(Stiftung des  
-öffentlichen Rechts)  
-PASSAGE BQ-Anschluss 2017 - Ausbildung zum 14.467,92 3-25502001-000025.01  
-gemeinnützige Fachlagerist / zur Fachlageristin  
-Gesellschaft für  
-Arbeit und Integration  
-mbH (gGmbH)
-
-Zukunft Arbeit Kauf eines Fahrradladens mit 46.736,86 Bundesmittel gemeinnützige GmbH Fahrradwerkstatt "AlleImBetrieb" AIB (gGmbH) Leseleo e.V. (e.V.) Förderung demokratischer Kultur, 4.770,99 3-25503001-000210.01 Vorbeugung und Bekämpfung von Rechtsextremismus Landesprogramm "Hamburg - Stadt mit Courage" Projekt: Wertebildung anbahnen durch Sprache und den Einsatz künstlerischer Mittel Allerleirauh e.V. (e.V.) Umzug in neue Räume und 11.238,36 1-254.03.02.010.001 Renovierungsarbeiten in den alten Räumen
-
-Landesinstitut für "bildmachen" von ufuq.de im Rahmen des 2.600,00 3-25503001-000213.01 Lehrerbildung und Bundesprogramms "Demokratie leben" 3-25503001-000213.01 Schulentwicklung (Öffentlich-rechtliche Körperschaft)
-
-Landesinstitut für "bildmachen" von ufuq.de im Rahmen des 11.000,00 3-25503001-000213.01 Lehrerbildung und Bundesprogramms "Demokratie leben" Schulentwicklung (Öffentlich-rechtliche Körperschaft)
-
-MitOst Hamburg - Antrag über die Stiftung DRJA für das 1.000,00 1-254.05.03.001.001  
-Verein für Sprach-, Kleinprojekt "Kalender 2018"  
-Kultur- und  
-Jugendaustausch in  
-Europa e.V. (e.V.)
-
-Seite 51 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-Kaufmann, Fabian Förderung demokratischer Kultur, 3.690,00 3-25503001-000210.01  
-Vorbeugung und Bekämpfung von  
-Rechtsextremismus "Hamburg- Stadt mit  
-Courage" Broschüre über die Modemarke  
-"Thor Steinar"  
-Johanniter-Unfall- den Betrieb eines halboffenen 13.230,00 2540699917  
-Hilfe e. V. (e.V.) Kinderbetreuungsangebotes (HOB) in der  
-Erstaufnahmestelle (EA) Fiersbarg,  
-Fiersbarg 8, 22397 Hamburg  
-Deutsches Rotes die Einrichtung und den Betrieb eines 11.416,50 1-254.06.02.002.001  
-Kreuz Hamburg halboffenen Kinderbetreuungsangebotes  
-gemeinnützige (HOB) in der WUK Grunewaldstraße  
-Gesellschaft zur  
-Förderung der Kinder-  
-und Jugendhilfe mbH  
-(gGmbH)
-
-Tumaini e.V. (e.V.) Förderung der chancengerechten Teilhabe 9.249,00 1-255.03.01.003.001 von Menschen mit Migrationshintergrund. Projekt „Speziell - Normal: Perspektiven für MigrantInnen mit Handicap"
-
-Asmara´s World e.V. Förderung der chancengerechten Teilhabe 9.499,00 1-255.03.01.003.001 (e.V.) von Menschen mit Migrationshintergrund. Projekt „Aufbau eines Bewohnerrates“
-
-Deutsches Rotes ein zusätzliches Angebot für 3.018,46 3-25406001-000010.05 Kreuz, Kreisverband Flüchtlingsfamilien durch das EKiZ Hamburg-Harburg Stubbenhof in der WUK Am Röhricht e.V. (e.V.) Arbeiter-Samariter- die Schaffung von Betreuungsplätzen für 2.369.940,00 2-25406001-00041.23 Bund Kinder im Alter von 0 Jahren bis zum Sozialeinrichtungen Schuleintritt im Rahmen des (Hamburg) GmbH Investitionsprogramms 2017-2020 in der (GmbH) Kita "Tarpenbeker Ufer", 22453 Hamburg Cekirdek, Sezen die Schaffung von Betreuungsplätzen für 331.825,00 2-25406001-00041.02 Kinder im Alter von 0 Jahren bis zum Schuleintritt im Rahmen des Investitionsprogramms 2017-2020 in der Kita "Die Glückskinder", Haferacker 14 in 21149 Hamburg Deutsches Rotes die Anlauffinanzierung des Eltern-Kind- 20.978,75 2-25406001-81374.17 Kreuz Hamburg Zentrums in der Kita Albert-Einstein-Ring 1- Altona und Mitte 3, 22761 Hamburg gemeinnützige Gesellschaft für Kinder, Soziales und Jugend KISO mbH (gGmbH)
-
-Seite 52 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-Deutsches Rotes die Anlauffinanzierung des Eltern-Kind- 9.021,25 3-25406001-000010.05  
-Kreuz Hamburg Zentrums in der Kita Albert-Einstein-Ring 1-  
-Altona und Mitte 3, 22761 Hamburg  
-gemeinnützige  
-Gesellschaft für  
-Kinder, Soziales und  
-Jugend KISO mbH  
-(gGmbH)  
-Deutsches Rotes die laufende Förderung des EKiZ in der Kita 7.278,48 3-25406001-000010.05  
-Kreuz Hamburg Albert-Einstein-Ring, Albert-Einstein-Ring 1-  
-Altona und Mitte 3, 22761 Hamburg  
-gemeinnützige  
-Gesellschaft für  
-Kinder, Soziales und  
-Jugend KISO mbH  
-(gGmbH)  
-WABE e.V. (e.V.) ein zusätzliches Angebot für 2.414,76 3-25406001-000010.05  
-Flüchtlingsfamilien durch das EKiZ Hinterm  
-Graben in der WUK Curslacker Neuer  
-Deich 57  
-PMP Projekt die Anlauffinanzierung des EKiZ in der Kita 7.000,00 2-25406001-81510.17  
-Management Partner Frosch, Am Gleisdreieck 19a+b, 21033  
-GmbH (GmbH) Hamburg
-
-PMP Projekt die Anlauffinanzierung des EKiZ in der Kita 22.900,00 3-25406001-000010.05 Management Partner Frosch, Am Gleisdreieck 19a+b, 21033 GmbH (GmbH) Hamburg
-
-Zündfunke e.V. (e.V.) Anschaffung Kopiergerät 655,69 1-254.03.02.010.001
-
-PMP Projekt die laufende Förderung des EKiZ in der 9.704,64 3-25406001-000010.05 Management Partner Frosch Kita, Gleisdreieck 19a+b, 21033 GmbH (GmbH) Hamburg
-
-Jugendgruppe des Anschaffung Laptop und Software 2.819,60 1-254.02.03.001.001 Bundes der Schwerhörigen e.V. Hamburg (Sonstige) Hülsemann-Wagner, die Schaffung von Betreuungsplätzen für 213.285,00 2-25406001-00041.06 Anja Kinder im Alter von 0 Jahren bis zum Schuleintritt im Rahmen des Investitionsprogramms 2017-2020 in der Kita "Das Kinderhaus" Gryphiusstraße 1 in 22299 Hamburg Schönemann, Julia die Schaffung von Betreuungsplätzen für 545.250,00 2-25406001-00041.07 Kinder im Alter von 0 Jahren bis zum Schuleintritt im Rahmen des Investitionsprogramms 2017-2020 in der Kita "Glücksnoten", Lübecker Straße 129- 131 in 22087 Hamburg MitOst Hamburg - Fachkräfteaustausch veter i volny 3.915,00 1-254.05.03.001.001 Verein für Sprach-, Vernetzungstreffen über Stftung DRJA in Kultur- und Maschen/Hamburg im November 2017 Jugendaustausch in Europa e.V. (e.V.)
-
-Seite 53 von 54
-
-Zuwendungen 2017 noch Anlage 1
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) MitOst Hamburg - Fachkräfteaustausch KJP-Antrag über 2.328,00 1-254.05.03.001.001 Verein für Sprach-, Stiftung DRJA und Senatskanzlei in Kultur- und St.Petersburg im Januar 2018 Jugendaustausch in Europa e.V. (e.V.) MitOst Hamburg - Fachkräfteaustausch KJP-Antrag über 500,00 5-25405999-000001.02 Verein für Sprach-, Stiftung DRJA und Senatskanzlei in Kultur- und St.Petersburg im Januar 2018 Jugendaustausch in Europa e.V. (e.V.) MitOst Hamburg - Jugendbegegnung "Chronos und Kairos - 9.650,00 1-254.05.03.001.001 Verein für Sprach-, Winter in Sibirien", Antrag über Stiftung Kultur- und DRJA in Sibirien im Dezember 2017/Januar Jugendaustausch in 2018 Europa e.V. (e.V.) PFIFF gGmbH Anschaffung einer neuen Software für 13.499,77 1-254.04.02.002.228 Pflegekinder und ihre Seminarmanagement Familien - Fortbildung, Information, Öffentlichkeitsarbeit (gGmbH) Jugendfeuerwehr Drucksache 21/7001 vom 02.12.2016 - 50.000,00 1-254.02.01.001.001 Hamburg Mitgliederkampagne der Jugendfeuerwehr Förderverein e.V. Hamburg (e.V.) Arbeitsgemeinschaft Zuwendung nach dem Landesförderplan 4.200,00 1-254.02.03.001.001 Hamburger Pos. 2.3.4 Besondere Maßnahmen - Pfadfinderverbände Unterstützung des Hamburger e.V. (e.V.) Singewettstreites Ebenezer Hilfsfonds KJP-Antrag über ConAct für deutsch- 8.736,00 1-254.05.03.001.001 Deutschland e.V. israelische Jugendbegegnung in Hamburg (e.V.) im März 2018 (IN-Maßnahme) Ebenezer Hilfsfonds KJP-Antrag über ConAct für deutsch- 3.920,00 1-254.05.03.001.001 Deutschland e.V. israelische Jugendbegegnung in Tel Mond (e.V.) im Februar/März 2018 (OUT-Maßnahme)
-
-Haus5 Service Zuwendung für die Modernisierung des 84.480,38 SoVermSchwbG gemeinnützige GmbH Haus5-Restaurants innerhalb des (gGmbH) Tätigkeitsfeldes Gastronomie Arbeitsgemeinschaft die Umsetzung des Projektes "Kita-Einstieg 418.637,14 1-254.06.02.002.001 der Freien Hamburg" im Rahmen des Wohlfahrtspflege Bundesprogramms "Kita-Einstieg: Brücken Hamburg e.V. (e.V.) bauen in frühe Bildung" des BMFSFJ
-
-Haus5 Service Zuwendung für die Ausstattung von 2 neuen 50.000,00 Bundesmittel gemeinnützige GmbH Arbeitsplätzen im Bereich "AlleImBetrieb" AIB (gGmbH) Gastronomie/Restaurant durch Erweiterung eines zusätzlichen Gastraumes/Gesellschaftsraumes
-
-Seite 54 von 54
-
-Zuwendungen 2018 Anlage 2
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Elbe-Werkstätten Zuwendung an die Elbe Werkstätten GmbH 2.317.388,00 SoVermSchwbG GmbH (GmbH) für Brandschutzsanierung am Standort Rahel-Varnhagen-Weg Theater Jugend kulturelle Jugendarbeit "Theater Projekte / 8.300,00 1-254.02.01.001.001 Hamburg e.V. (e.V.) Produktion" Theater Jugend kulturelle Jugendarbeit "Theater - Kurse - 3.700,00 1-254.02.01.001.001 Hamburg e.V. (e.V.) Schule" "Dolle Deerns" Verein Schaffung der Voraussetzungen für die 3.990,00 1-254.02.01.001.001 zur Förderung organisatorische Durchführung des Girls'Day feministischer 2018 Mädchenarbeit e.V. (e.V.)
-
-Verband Kinder- und Landesweiter Fachverband für offene Kinder- 162.821,89 1-254.02.01.001.001  
-Jugendarbeit und Jugendarbeit  
-Hamburg e.V. (e.V.)  
-Verein für Gemeinwesenorientierte Hilfen für Familien 172.136,77 1-254.04.02.002.228  
-stadtteilbezogene in Stadtteilen  
-milieunahe  
-Erziehungshilfen e.V.  
-(e.V.)  
-"Dolle Deerns" Verein Betrieb der Kontakt- und Informationsstelle 50.159,96 1-254.02.02.001.001  
-zur Förderung Berufsorientierung und Lebensplanung von  
-feministischer Mädchen  
-Mädchenarbeit e.V.  
+Notruf für  
+vergewaltigte Frauen  
+und Mädchen e.V.  
 (e.V.)
 
-Arbeitsgemeinschaft Qualifizierung sozialpädagogischer 20.828,61 1-254.02.01.001.001 Kinder- und Fachkräfte in der Hamburger Jugendhilfe Jugendschutz und Recherchemaßnahmen zum Thema Hamburg e.V. (e.V.) Salafismus Arbeitsgemeinschaft Betrieb einer Beratungsstelle zum Schutz 213.790,33 1-254.02.02.001.001 Kinder- und von Kindern und Jugendlichen Jugendschutz Hamburg e.V. (e.V.) Arbeitsausschuss der Durchführung gemeinsamer 2.400,00 1-254.07.02.004.001 Organisationen Angelegenheiten ehemals Verfolgter in ehemals Verfolgter in Hamburg Hamburg (Sonstige)
+Betrieb einer Fachberatungsstelle bei sexualisierter Gewalt
 
-"Dolle Deerns" Verein Durchführung von Projekten zur praktischen 7.906,74 1-254.02.02.001.001 zur Förderung Unterstützung des Berufswahlprozesses von feministischer Mädchen "Mädchen erfahren Berufe" Mädchenarbeit e.V. (e.V.)
+370.391,78 1-255.03.04.002.001
 
-Behinderten- und Betrieb der Geschäftsstelle des Behinderten- 84.871,76 1-253.04.01.001.001 Rehabilitations- und Rehabilitationssportverbands Hamburg Sportverband e.V. Hamburg e.V. (BRS Hamburg) (e.V.)
+Fünftes Hamburger Frauenhaus e.V. (e.V.)
 
-Seite 1 von 42
+Unterhalt und Betrieb des 5. Hamburger Frauenhauses
 
-Zuwendungen 2018
+819.594,49 1-255.03.04.001.001
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Diakonisches Werk Förderung von regionalen 341.650,00 1-255.03.01.001.001 Hamburg - Integrationszentren (IZ) für Zugewanderte in Landesverband der Hamburg Inneren Mission e.V. gem. Richtlinie der Behörde für Arbeit, (e.V.) Soziales, Familie und Integration (BASFI) vom 18.07.2017 Trägerinnenverbund Sozialpädagogisches Angebot und 195.040,27 1-254.03.02.009.001 FLAKS e.V. (Frauen Geschäftsführung für das Zentrum für Lernen Arbeit Kontakt Frauen in Altona-Nord von FLAKS e.V. Service) (e.V.)
+2. Hamburger Frauenhaus e.V. (e.V.)
 
-Trägerinnenverbund Förderung 0,5 Stelle "Hauswirtschafter/in" 20.461,45 1-254.03.02.009.001 FLAKS e.V. (Frauen für das Infocafé des Lernen Arbeit Kontakt Mehrgenerationenhauses Service) (e.V.)
+Unterhalt und Betrieb des 2. Hamburger Frauenhauses.
 
-Jugendsozialarbeit Finanzierung von vier Lehrkräften für die 28.320,00 3-25502001-021119.01 Schanzenviertel e.V. Durchführung des Angebotes "Vorbereitung (e.V.) des externen Hauptschulabschluss" im Rahmen des Projektes "JobKontor"
+1.227.756,31 1-255.03.04.001.001
 
-Johann Daniel Existenzgründungberatung und Seminare 300.000,00 3-25502001-006678.01 Lawaetz-Stiftung (Stiftung des öffentlichen Rechts) Trockendock e.V. Betrieb des Projektes "Lass 1000 Steine 432.918,76 1-254.02.02.001.001 (e.V.) rollen" und der Geschäftsstelle Allerleirauh e.V. (e.V.) Betrieb einer Beratungsstelle bei sexuellem 212.456,38 1-254.03.02.010.001 Missbrauch Trockendock e.V. Spielaktionen in Unterkünften der öffentlich- 200.390,08 1-254.02.01.001.001 (e.V.) rechtlichen Unterbringung - Hauptprojekt -
-
-Trockendock e.V. Spielaktionen in Unterkünften der öffentlich- 31.280,50 1-254.02.01.001.001 (e.V.) rechtlichen Unterbringung (Erweiterung 1)
-
-Zündfunke e.V. (e.V.) Betrieb einer Beratungsstelle gegen 251.356,70 1-254.03.02.010.001  
-sexuellen Missbrauch an Kindern und  
-Frauen  
-"Dolle Deerns" Verein Beratungsstelle gegen sexuelle Gewalt an 148.852,83 1-254.03.02.010.001  
-zur Förderung Mädchen und jungen Frauen  
-feministischer  
-Mädchenarbeit e.V.  
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
 (e.V.)
 
-Zentrale Information Clearingstelle zur medizinischen Versorgung 76.000,00 5-25302999-000001.01 und Beratung für von Ausländerinnen und Ausländern Flüchtlinge gGmbH (gGmbH) Zentrale Information Clearingstelle zur medizinischen Versorgung 271.548,27 1-253.02.03.003.001 und Beratung für von Ausländerinnen und Ausländern Flüchtlinge gGmbH (gGmbH)
+Unterhalt und Betrieb des Frauenhauses des Diakonischen Werkes Hamburg
 
-Seite 2 von 42
+908.400,28 1-255.03.04.001.001
 
-Zuwendungen 2018
+KOOFRA -  
+Koordinierungsstelle  
+gegen Frauenhandel  
+e.V. (e.V.)
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-Deutsches Rotes Projekt Hippy 217.206,21 1-254.03.02.006.001  
-Kreuz Hamburg  
-gemeinnützige  
-Gesellschaft zur  
-Förderung der Kinder-  
-und Jugendhilfe mbH  
+Betrieb einer Koordinierungsstelle gegen Frauenhandel und gegen Menschenhandel zum Zwecke der Arbeitsausbeutung
+
+348.291,07 1-255.03.04.002.001
+
+Interkulturelle Begegnungsstätte e.V. (e.V.)
+
+Betrieb einer interkulturellen Beratungsstelle für Opfer von häuslicher Gewalt und Zwangsheirat (LÂLE + SAVÎA)
+
+531.219,92 1-255.03.04.002.001
+
+4.Hamburger Frauenhaus e.V. (e.V.)
+
+Unterhalt und Betrieb des 4. Hamburger Frauenhauses
+
+841.225,50 1-255.03.04.001.001
+
+Frauen helfen Frauen Hamburg e.V. (e.V.)
+
+Unterhalt und Betrieb des 1. & 3. Hamburger Frauenhauses
+
+1.496.433,81 1-255.03.04.001.001
+
+SterniPark GmbH (GmbH)
+
+die Schaffung von Krippenplätzen in der  
+Kita Buxtehuder Str. 7, 21073 Hamburg im  
+Rahmen der Förderrichtlinie zum  
+Zusatzprogramm Krippenausbau 2015-  
+2018
+
+377.530,00 2-25406001-00002.17
+
+Seite 6 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Opferhilfe Hamburg e.V. (e.V.)
+
+Betrieb einer Beratungsstelle bei Gewaltstraftaten jeglicher Form
+
+612.640,16 1-255.03.04.002.001
+
+Zukunft Arbeit gemeinnützige GmbH (gGmbH)
+
+Tagwerk Grün 153.945,82 3-25502001-021615.01
+
+verikom - Verbund für  
+interkulturelle  
+Kommunikation und  
+Bildung e.V. (e.V.)
+
+amira - Beratung bei Diskriminierung wegen (zugeschriebener) Herkunft und Religion
+
+117.034,00 1-255.03.01.003.001
+
+SpielTiger e.V. Institut für Bewegung, Kultur und Spiel (e.V.)
+
+Spielaktonen in Unterkünften der öffentlichrechtlichen Unterbringung
+
+575.343,02 1-254.02.01.001.001
+
+Caritasverband für Hamburg e.V. (e.V.)
+
+Stützpunkt für obdachlose Menschen
+32.000,00 1-253.03.01.001.001
+
+Caritasverband für Hamburg e.V. (e.V.)
+
+Bahnhofsmission
+64.000,00 1-253.03.01.001.001
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+Hamburger Stadtmission, anteilige Personalkosten für die "Bahnhofsmission"
+
+202.500,00 1-253.03.01.001.001
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+Betrieb der Tagesaufenthaltsstätte Bundesstraße
+
+81.000,00 1-253.03.01.001.001
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+Straßensozialarbeit in der Hamburger City
+58.427,50 1-253.03.01.001.001
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+Straßensozialarbeit Projekt Plata/Anlaufstelle für wohnungslose EU- Bürger
+
+171.546,76 1-253.03.01.001.001
+
+Kemenate-Frauen- Wohnen e.V. (e.V.)
+
+Betrieb eines Tagestreffs für wohnungslose Frauen
+
+258.553,52 1-253.03.01.001.001
+
+AQtivus  
+Servicegesellschaft  
+für Aktivität auf dem  
+Arbeitsmarkt gGmbH  
 (gGmbH)
 
-Jugenderholungswer Durchführung von Kinder- und 1.139.926,83 1-254.02.01.001.001 k Hamburg e.V. (e.V.) Jugenderholungsfreizeiten
+Lebenslagenberatung / aktivierende Maßnahmen gem. § 16 a Abs. 2 Nr. 3 SGB II
 
-AKTION Betreute Spielangebote auf 50.370,25 1-254.02.01.001.001 KINDERPARADIES Kleinkinderspielplätzen Betreute Kinderspielplätze Hamburg e.V. (e.V.) Johann Daniel Personal- und Sachkosten für die 178.000,00 1-254.03.02.008.001 Lawaetz-Stiftung Geschäftsführung (Stiftung des öffentlichen Rechts) Johann Daniel Projektberatung, -entwicklung und - 397.000,00 1-254.03.02.008.001 Lawaetz-Stiftung betreuung - Wohnen für Familien in (Stiftung des Hamburg öffentlichen Rechts) Jugend und Sport Sicherstellung der Arbeit der Fanprojekte 255.000,00 1-254.02.02.001.001 e.V. (e.V.) Wohnschiffprojekt Integrationshilfe für Kinder und Jugendliche 49.335,44 2540599912 Altona - Hilfe für aus Flüchtlingsfamilien mit ungesichertem Flüchtlingskinder e.V. Aufenthalt (e.V.) Wohnschiffprojekt Neue Integrationsangebote in der 31.727,12 2540599912 Altona - Hilfe für Berzeliusstraße für Kinder und Jugendliche Flüchtlingskinder e.V. aus Flüchtlingsfamilien mit ungesichertem (e.V.) Aufenthalt Diakonisches Werk Home Support- Unterstützung für Dein 179.192,37 1-254.04.02.002.228 Hamburg - Zuhause der Evangelischen Stiftung Landesverband der Bodelschwingh Inneren Mission e.V. (e.V.) Bund der Betrieb des Beratungszentrums für 54.178,67 1-253.04.01.001.001 Schwerhörigen e.V. Schwerhörige und Ertaubte Hamburg (e.V.) Zornrot e.V. (e.V.) Beratungsstelle für von sexualisierter Gewalt 148.791,36 1-254.03.02.010.001 betroffene Mädchen und Jungen Gehörlosenverband Betrieb einer Kontakt- und Beratungsstelle 135.836,00 1-253.04.01.001.001 Hamburg e.V. (e.V.) für gehörlose, schwerhörige und ertaubte Menschen Gehörlosenverband Betrieb einer Kontakt- und Beratungsstelle 15.400,00 2530499911 Hamburg e.V. (e.V.) für gehörlose, schwerhörige und ertaubte Menschen Gehörlosenverband Betrieb einer Kontakt- und Beratungsstelle 4.600,00 2530499912 Hamburg e.V. (e.V.) für gehörlose, schwerhörige und ertaubte Menschen
+788.454,98 3-25502001-021517.01
 
-Seite 3 von 42
+Verein zur Förderung der Jugendarbeit e.V. (e.V.)
 
-Zuwendungen 2018
+Durchführung von Spielaktionen in und bei  
+Durch- und Übergangseinrichtungen für  
+Zuwanderer und wohnungslose Familien  
+und in infrastrukturell wenig erschlossenen  
+Stadtteilen und isolierten Wohnlagen in  
+Hamburg
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Stiftung Kulturpalast ein mobiles Musikangebot der Klangstrolche 50.000,00 3-25406001-000010.05 Hamburg (Stiftung in Wohnunterkünften (WUK) des privaten Rechts)
+207.882,89 1-254.02.01.001.001
 
-Diakonisches Werk Betrieb der Tagesaufenthaltsstätte Herz As 295.593,64 1-253.03.01.001.001 Hamburg - Landesverband der Inneren Mission e.V. (e.V.) Diakonisches Werk Betrieb der Tagesaufenthaltsstätte 81.000,00 1-253.03.01.001.001 Hamburg - Bundesstraße Landesverband der Inneren Mission e.V. (e.V.) Diakonisches Werk Hamburger Stadtmission, anteilige 210.500,00 1-253.03.01.001.001 Hamburg - Personalkosten für die "Bahnhofsmission" Landesverband der Inneren Mission e.V. (e.V.) Diakonisches Werk Straßensozialarbeit in der Hamburger City 60.537,86 1-253.03.01.001.001 Hamburg - Landesverband der Inneren Mission e.V. (e.V.) Diakonisches Werk Kooperation zur Unterstützung von EU- 30.000,00 1-253.02.03.003.001 Hamburg - Bürgern beim Zugang zur Landesverband der Krankenversicherung Inneren Mission e.V. (e.V.) Diakonisches Werk Straßensozialarbeit Projekt 177.928,44 1-253.03.01.001.001 Hamburg - Plata/Anlaufstelle für wohnungslose, Landesverband der vorwiegend osteuropäische Bürger Inneren Mission e.V. (e.V.) Hamburger Deckung der Personalkosten für die 122.136,33 1-253.04.01.001.001 Gehörlosen- notwendige Beschäftigung eines Sportverein von 1904 Geschäftsführersim Sportbetrieb für e.V. (e.V.) gehörlose, ertaubte, schwerhörige, CI- trägerische Menschen sowie die teilweise Deckung der Sachkosten der Geschäftsstelle im HGSV Interkulturelle Ergänzende Sprachförderung für besondere 30.800,00 1-255.03.01.002.001 Begegnungsstätte Lernbedarfe im Rahmen des EHAP- e.V. (e.V.) Projektes step.in Zentrale Information Integrationsförderung von Zugewanderte in 736.513,18 1-255.03.01.002.001 und Beratung für Hamburg Flüchtlinge gGmbH Förderung: Deutschkurse für Flüchtlinge (gGmbH) Bildungswerk der Intensivierung der Zusammenarbeit 49.152,55 3-25502001-021119.01 Wirtschaft Hamburg zwischen Schulen und Unternehmen in e.V. (e.V.) regionaen Arbeitskreisen SCHULEWIRTSCHAFT für eine bessere Berufs- und Studienorientierung
+Rom und Cinti Union e.V. (e.V.)
 
-Seite 4 von 42
+Beratungsstelle für Roma und Sinti in Hamburg
 
-Zuwendungen 2018
+666.760,82 1-255.03.01.003.001
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) STATTBAU Projektberatung und -entwicklung Wohnen 165.000,00 1-254.03.02.008.001 HAMBURG für Familien in Hamburg Stadtentwicklungsges ellschaft mbH (GmbH) Vaeter e.V. (e.V.) Betrieb des Väterzentrums 89.533,80 1-254.03.02.006.001 BASIS & WOGE e.V. Betrieb der Anlaufstelle KIDS 817.779,82 1-254.02.02.001.001 (e.V.) BASIS & WOGE e.V. Betrieb einer Notschlafstelle für 92.324,85 1-254.02.02.001.001 (e.V.) minderjährige Mädchen und Jungen im Harvighorster Redder 46 c BASIS & WOGE e.V. Betrieb der Übernachtungsstelle St. 282.025,18 1-254.02.02.001.001 (e.V.) Georgstraße 15 + 17 Türkische Gemeinde "Neue Wege" - Prävention von 14.857,15 3-25503001-000210.01 in Hamburg und Antisemitismus bei Jugendlichen mit Umgebung (TGH) Migrationshintergrund im Rahmen des e.V. (e.V.) Bundesprogramms "Demokratie leben"
+Seite 7 von 54
 
-BASIS & WOGE e.V. Überregionale Straßensozialarbeit für junge 248.823,16 1-254.04.02.002.228 (e.V.) Menschen, ohne oder geringe regionale Bezüge - Projekt "Sidewalx" Arbeit und Leben Beratungsstelle "empower" im Rahmen des 114.114,84 3-25503001-000214.01 DGB/VHS Hamburg Bundesprogramms "Demokratie leben" e.V. (e.V.) Arbeit und Leben Beratungsstelle "empower" im Rahmen des 25.127,72 3-25503001-000210.01 DGB/VHS Hamburg Bundesprogramms "Demokratie leben" e.V. (e.V.) Arbeit und Leben Mobile Beratung im Rahmen des 111.364,84 3-25503001-000214.01 DGB/VHS Hamburg Bundesprogramms "Demokratie leben" e.V. (e.V.) Arbeit und Leben Mobile Beratung im Rahmen des 33.340,04 3-25503001-000210.01 DGB/VHS Hamburg Bundesprogramms "Demokratie leben" e.V. (e.V.) BASIS & WOGE e.V. Partizipationsprojekt "Ständige Vertretung 41.594,27 1-254.02.02.001.001 (e.V.) der Straßenkinder-HH" Projekt MOMO
+Zuwendungen 2017
 
-BASIS & WOGE e.V. Betrieb einer anonymen Schutzeinrichtung 408.153,75 1-254.04.02.002.228 (e.V.) für akut gefährdete junge Mädchen und Frauen in interkulturellen Konflikten
+Zuwendungs-
 
-Islamisches Al Wasat – Die Mitte 14.895,83 3-25503001-000211.01 Wissenschafts- und im Rahmen des Bundesprogramms Bildungsinstitut e.V. "Demokratie leben (e.V.) BASIS & WOGE e.V. Ersatzbeschaffung Notebook für die 1.000,81 1-254.02.02.001.001 (e.V.) Übernachtungsstelle Diakonisches Werk Anlaufstelle zur Begegnung von jungen 5.000,00 1-254.05.03.001.001 Hamburg - Menschen im interkulturellem Austausch in Landesverband der Hamburg Inneren Mission e.V. (e.V.) Von Anfang an e.V. Entwicklungspsychologische Beratung von 11.520,00 1-254.03.02.006.001 (e.V.) Eltern mit Kindern bis 3 Jahren in den Elternschulen Barmbek und Veddel AUTONOM LEBEN Betrieb einer Beratungsstelle für Menschen 129.170,27 1-253.04.01.001.001 e.V. (e.V.) mit Behinderung
+empfänger
 
-Seite 5 von 42
+Zuwendungszweck (kurz) Zuwendungs-
 
-Zuwendungen 2018
+höhe (in Euro)
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Deutsche Kinder- und Jugenderholungsmaßnahmen 200.554,73 1-254.02.01.001.001 Hilfsgemeinschaft für Kinder und Jugendliche aus Familien mit e.V. (e.V.) geringem Einkommen
+Finanzposition
 
-BASIS & WOGE e.V. Tagesstrukturierendes Angebot "peopel 58.602,63 1-254.02.02.001.001 (e.V.) collection" Barrierefrei Leben Betrieb eine Beratungszentrums für 301.703,39 1-253.04.01.001.001 e.V.-Verein für technische Hilfen und Wohnraumanpassung Hilfsmittelberatung, Wohnraumanpassun g und barrierefreie Bauberatung (e.V.) Notruf für Betrieb einer Fachberatungsstelle bei 385.637,80 1-255.03.04.002.001 vergewaltigte Frauen sexualisierter Gewalt und Mädchen e.V. (e.V.)
-2. Hamburger Betrieb der Koordinierungs- und 36.372,60 5-25503999-000001.01 Frauenhaus e.V. Servicestelle 24/7 (e.V.)
-2. Hamburger Betrieb der Koordinierungs- und 506.982,57 1-255.03.04.001.001 Frauenhaus e.V. Servicestelle 24/7 (e.V.) Arbeitsgemeinschaft Betrieb und Weiterentwicklung der 45.000,00 1-255.03.02.001.001 der Freien internetgestützten AKTIVOLI- Wohlfahrtspflege Freiwilligenakademie Hamburg Hamburg e.V. (e.V.) Johann Daniel Landeskoordinierungsstelle für das 36.666,67 3-25503001-000214.01 Lawaetz-Stiftung Beratungsnetzwerk gegen (Stiftung des Rechtsextremismus im Rahmen des öffentlichen Rechts) Bundesprogramms "Demokratie leben" Johann Daniel Landeskoordinierungsstelle für das 18.705,49 3-25503001-000210.01 Lawaetz-Stiftung Beratungsnetzwerk gegen (Stiftung des Rechtsextremismus im Rahmen des öffentlichen Rechts) Bundesprogramms "Demokratie leben" Sprachbrücke- "Sprache im Alltag" - Qualifizierung, 58.063,44 1-255.03.01.002.001 Hamburg e.V. (e.V.) Koordination und Begleitung der ehrenamtlichen dezentralen Sprachförderung für Zugewanderte und Geflüchtete Diakonisches Werk Vormundschaften Mündelbetreuung 68.220,82 1-254.03.02.006.001 Hamburg - Landesverband der Inneren Mission e.V. (e.V.) verikom - Verbund für amira - Beratung bei Diskriminierung wegen 179.880,00 1-255.03.01.003.001 interkulturelle (zugeschriebener) Herkunft und Religion Kommunikation und Bildung e.V. (e.V.) Wendepunkt e.V. Beratungsstelle für sexuell auffällige Kinder, 133.771,70 1-254.03.02.010.001 (e.V.) Jugendliche und junge Erwachsene bis 21 Jahre in Hamburg SpielTiger e.V. Spielaktionen in Unterkünften der öffentlich- 602.889,44 1-254.02.01.001.001 Institut für Bewegung, rechlichen Unterbringung - Hauptprojekt - Kultur und Spiel (e.V.)
+jaf-Verein für  
+medienpädagogische  
+Praxis Hamburg e.V.  
+(e.V.)
 
-Seite 6 von 42
+FILM DIR EINEN - Medienprojekte mit Kindern und Jugendlichen
 
-Zuwendungen 2018
+7.290,00 1-254.02.01.001.001
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Caritasverband für Zuschuss für den Betrieb der Krankenstube 372.643,01 1-253.03.01.001.001 das Erzbistum für Obdachlose Hamburg e.V. (e.V.) Mehrgenerationenha Projekt Opstapje: Frühförderung von 107.791,42 1-254.03.02.006.001 us Nachbarschatz Kindern und deren Eltern 01/2018-07/2019 e.V. (e.V.) Caritasverband für Wahrnehmung der 35.000,00 1-253.01.01.003.001 das Erzbistum Spitzenverbandsfunktionen Hamburg e.V. (e.V.) Hamburger Betrieb einer Geschäftsstelle und 114.961,85 1-253.04.01.001.001 Landesarbeitsgemein Vereinstätigkeit der Hamburger schaft für behinderte Landesarbeitsgemeinschaft für behinderte Menschen e.V. (e.V.) Menschen
+Solidarische Psychosoziale Hilfe Hamburg e.V. (e.V.)
 
-ARINET Arbeits- PICo - Personenindividuelles Coaching für 202.337,89 3-25502001-000004.01 Integrations-Netzwerk Menschen mit Behinderung und psychischer GmbH (GmbH) Erkrankung
+Lebenslagenberatung / aktivierende Maßnahmen gemäß § 16 a Abs Nr. 3 SGB II
 
-PFIFF gGmbH Vermittlung und Begleitung von 213.645,61 1-254.04.02.002.228  
-Pflegekinder und ihre Patenschaften für Kinder psychisch  
-Familien - belasteter und kranker Mütter bzw. Väter  
-Fortbildung,  
-Information,  
-Öffentlichkeitsarbeit  
-(gGmbH)  
-PFIFF gGmbH Bereitschaftspflege 102.169,24 1-254.04.02.002.228  
-Pflegekinder und ihre  
-Familien -  
-Fortbildung,  
-Information,  
-Öffentlichkeitsarbeit  
-(gGmbH)  
-Amnesty for Women, Betrieb einer Beratungsstelle für 140.936,00 1-254.03.02.009.001  
-Städtegruppe Migrantinnen  
-Hamburg e.V. (e.V.)
+300.751,29 3-25502001-021517.01
 
-Ev.-Luth. Evangelische Familienbildung 280.000,00 1-254.03.02.006.001  
+Ev.-Luth.  
 Kirchenkreis  
 Hamburg-  
 West/Südholstein  
 (Öffentlich-rechtliche  
 Körperschaft)
 
-Sozialdienst SkF vor Ort -Stärkung der 11.608,60 1-254.03.02.006.001 katholischer Frauen Familienkompetenz durch die e.V. (e.V.) stadtteilorientierten Angebote vor Ort Jugendarbeitskreis Hamburg Memory: Was bedeutet Hamburg 27.390,02 1-254.02.03.001.001 Hamburg im für mich? Volksbund Deutsche Kriegsgräberfürsorge e.V. (Sonstige)
+Konfessionelle Familienbildung 280.000,00 1-254.03.02.006.001
 
-Seite 7 von 42
+Beschäftigung und Bildung e.V. (e.V.)
 
-Zuwendungen 2018
+Vormundschaften für minderjährige unbegleitete Flüchtlinge
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Liberale Jüdische Kinder- und Jugendgruppen Keshet- 11.820,00 1-254.02.01.001.001 Gemeinde Hamburg Regenbogen e.V. (e.V.) BASIS & WOGE e.V. Prävention von religiös motivierter 59.583,33 3-25503001-000215.01 (e.V.) Radikalisierung von Kindern und Jugendlichen: "SelbstSicherSein" im Rahmen des Bundesprogramms "Demokratie leben" BASIS & WOGE e.V. Prävention von religiös motivierter 19.559,35 3-25503001-000211.01 (e.V.) Radikalisierung von Kindern und Jugendlichen: "SelbstSicherSein" im Rahmen des Bundesprogramms "Demokratie leben" Arbeitskreis Musik in Musikkurse für Kinder, Jugendliche und 3.000,00 1-254.02.01.001.001 der Jugend - Familien Landesverband Hamburg e.V. (e.V.) Lebenshilfe Hamburger Integrationsfonds - Geflüchtete 55.958,06 3-25503001-000050.01 Landesverband mit Behinderung und ihre Angehörigen mit Hamburg e. V. (e.V.) den Projekten "We Are Family" und "Flucht und Behinderung" sowie der Einrichtung eines Dolmetscherpools unterstützen - Drs. 21/8893
+222.402,47 1-254.03.02.006.001
 
-Zentrale Information Betrieb "Zentrale Information und Beratung 1.426.130,47 1-255.03.01.005.001  
-und Beratung für für Flüchtlinge gGmbH" (ZIB) -  
-Flüchtlinge gGmbH Flüchtlingszentrum  
-(gGmbH)  
-PFIFF gGmbH Pflegeelternschule 202.172,15 1-254.04.02.002.228  
+Deutscher  
+Kinderschutzbund  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Betrieb des Elterntelefons Hamburg
+51.730,86 1-254.03.02.006.001
+
+Deutscher  
+Kinderschutzbund  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Projekt "Familienpaten"
+54.411,33 1-254.03.02.006.001
+
+Beratungs- und  
+Informationsstelle von  
+Frauen für Frauen -  
+Winterhude- e.V.  
+(e.V.)
+
+Psychosoziale Beratung von Frauen in Krisensituationen
+
+170.327,71 1-254.03.02.009.001
+
+verikom - Verbund für  
+interkulturelle  
+Kommunikation und  
+Bildung e.V. (e.V.)
+
+Betrieb einer Interventionsstelle bei  
+häuslicher Gewalt und Stalking sowie einer  
+Koordinierungsstelle bei  
+geschlechtsspezifischer Gewalt
+
+840.406,16 1-255.03.04.002.001
+
+verikom - Verbund für  
+interkulturelle  
+Kommunikation und  
+Bildung e.V. (e.V.)
+
+Betrieb einer interkulturellen Beratungsstelle gegen häusliche Gewalt und Zwangsheirat (i.bera und savîa)
+
+463.969,76 1-255.03.04.002.001
+
+Verband Kinder- und Jugendarbeit Hamburg e.V. (e.V.)
+
+Landesweiter Fachverband für offene Kinder- und Jugendarbeit
+
+163.041,20 1-254.02.01.001.001
+
+Zentrale Information  
+und Beratung für  
+Flüchtlinge gGmbH  
+(gGmbH)
+
+Betrieb der Beratungsstelle "Zentrale Information und Beratung für Flüchtlinge gGmbH" (ZIB) - Flüchtlingszentrum
+
+1.443.931,93 1-255.03.01.005.001
+
+Beratungs- und  
+Informationsstelle von  
+Frauen für Frauen -  
+Winterhude- e.V.  
+(e.V.)
+
+Projekt Biff Harburg, Psychosoziale Beratung von Frauen in Krisensituationen
+
+91.122,80 1-254.03.02.009.001
+
+Bund der Schwerhörigen e.V. Hamburg (e.V.)
+
+Betrieb des Beratungszentrums für Schwerhörige und Ertaubte
+
+51.858,98 1-253.04.01.001.001
+
+Seite 8 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Alleinerziehenden  
+Treffpunkt und  
+Beratung e.V. (ATB)  
+(e.V.)
+
+Beratungs- und Begegnungsstätte für  
+Alleinerziehende und Beratung sowie  
+Gruppenarbeit für Schwangere in der  
+Trennungskrise
+
+242.339,93 1-254.04.02.002.228
+
+SpielTiger e.V. Institut für Bewegung, Kultur und Spiel (e.V.)
+
+Begleitende Kinder- und Jugendarbeit in den Einrichtungen der ZEA und der öffentlichen Unterbringung
+
+147.116,76 1-254.02.01.001.001
+
+Gehörlosenverband Hamburg e.V. (e.V.)
+
+Betrieb einer Kontakt- und Beratungsstelle für gehörlose, schwerhörige und ertaubte Menschen
+
+135.836,00 1-253.04.01.001.001
+
+Gehörlosenverband Hamburg e.V. (e.V.)
+
+Betrieb einer Kontakt- und Beratungsstelle für gehörlose, schwerhörige und ertaubte Menschen
+
+15.400,00 2530499911
+
+Gehörlosenverband Hamburg e.V. (e.V.)
+
+Betrieb einer Kontakt- und Beratungsstelle für gehörlose, schwerhörige und ertaubte Menschen
+
+4.600,00 2530499912
+
+Sozialdienst katholischer Frauen e.V. (e.V.)
+
+SKF vor Ort-Stärkung der Familienkompetenz durch die stadtteilorientierten Angebote vor Ort
+
+24.097,37 1-254.03.02.006.001
+
+Zentrale Information  
+und Beratung für  
+Flüchtlinge gGmbH  
+(gGmbH)
+
+Clearingstelle Gersundheitsversorgung Ausländer
+
+55.200,00 5-25302999-000001.01
+
+Zentrale Information  
+und Beratung für  
+Flüchtlinge gGmbH  
+(gGmbH)
+
+Clearingstelle Gersundheitsversorgung Ausländer
+
+265.508,94 1-253.02.03.003.001
+
+European  
+PLAYWORK  
+Association e.V.  
+(e.V.)
+
+Förderung des Europa-JUGEND-Büros, Zuschuss zu den Personalkosten
+
+164.723,78 1-254.05.03.001.001
+
+AUTONOM LEBEN e.V. (e.V.)
+
+Betrieb einer Beratungsstelle für Menschen mit Behinderung
+
+120.650,83 1-253.04.01.001.001
+
+Koordinierungsstelle  
+Weiterbildung und  
+Beschäftigung e.V.  
+(KWB) (e.V.)
+
+Fachkräftesicherung bei Kleinen und Mittleren Unternehmen (KMU) im Rahmen der Hamburger Fachkräftestrategie
+
+617.576,96 3-25502001-000009.01
+
+Deutscher  
+Kinderschutzbund  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Vormundschaften für Flüchtlingskinder 156.177,49 1-254.03.02.006.001
+
+Barrierefrei Leben  
+e.V.-Verein für  
+Hilfsmittelberatung,  
+Wohnraumanpassun  
+g und barrierefreie  
+Bauberatung (e.V.)
+
+Betrieb eines Beratungszentrums für technische Hilfen und Wohnraumanpassung
+
+297.921,89 1-253.04.01.001.001
+
+Jugend der  
+Deutschen  
+Lebensrettungs-  
+Gesellschaft  
+Landesverband  
+Hamburg e.V.  
+(Sonstige)
+
+Ersatzbeschaffung von Mobiliar für die Geschäftsstelle im Ladenbeker Furtweg 120
+
+2.147,18 1-254.02.03.001.001
+
+Seite 9 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+MV-Jugend Hamburg (Sonstige)
+
+Erstausstattung Jugendräume Bramfeld mit Musiktechnik
+
+4.399,00 1-254.02.03.001.001
+
+PFIFF gGmbH  
 Pflegekinder und ihre  
 Familien -  
 Fortbildung,  
 Information,  
 Öffentlichkeitsarbeit  
-(gGmbH)  
-Verein zur Förderung Spielaktionen in Unterkünften der öffentlich- 209.091,25 1-254.02.01.001.001  
-der Jugendarbeit e.V. rechtlichen Unterbringung (Hauptprojekt)  
-(e.V.)
+(gGmbH)
 
-Beschäftigung und Vormundschaften für minderjährige 183.303,41 1-254.03.02.006.001 Bildung e.V. (e.V.) unbegleitete Flüchtlinge Arbeitsgemeinschaft Arbeit mit jungen Geflüchteten in den 68.859,64 1-254.02.03.001.001 Interkultureller migrantischen Jugendverbänden Jugendverbände Hamburg e.V. (A.G.I.J. e.V.) (e.V.) Ev.-Luth. Familienförderndes Angebot für 3.476,60 1-254.03.02.006.001 Kirchenkreis zugewanderte und einheimische Familien Hamburg-Ost mit Kindern in der Evangelischen (Öffentlich-rechtliche Familienbildungsstätte Eppendorf Körperschaft) (Kochprojekt)
+Bereitschaftspflege
+97.803,73 1-254.04.02.002.228
 
-jhj Hamburg e.V. Gesellschaftsfähig 2018 362.714,28 1-254.02.02.001.001 (e.V.)
+PFIFF gGmbH  
+Pflegekinder und ihre  
+Familien -  
+Fortbildung,  
+Information,  
+Öffentlichkeitsarbeit  
+(gGmbH)
 
-Seite 8 von 42
+Vermittlung und Begleitung von Patenschaften für Kinder psychisch kranker Mütter und Väter
 
-Zuwendungen 2018
+198.846,57 1-254.04.02.002.228
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-AKTIVOLI- Förderung der AKTIVOLI-Landesnetzwerk 59.000,00 1-255.03.02.001.001  
-Landesnetzwerk Geschäftsstelle  
-Hamburg e.V. (e.V.)  
-Ev.-Luth. Familienfördernde Angebote für 4.044,08 1-254.03.02.006.001  
-Kirchenkreis zugewanderte und einheimische Familien  
-Hamburg-Ost und ihre Kinder in Harburg  
-(Öffentlich-rechtliche  
-Körperschaft)
+AKTION  
+KINDERPARADIES  
+Betreute  
+Kinderspielplätze  
+Hamburg e.V. (e.V.)
 
-Institut für Qualifizierungsarbeit zur Gewaltprävention 15.000,00 1-254.02.02.001.001  
+Modernisierung der Internetseite
+2.682,00 1-254.02.01.001.001
+
+Hamburger  
+Landesarbeitsgemein  
+schaft für behinderte  
+Menschen e.V. (e.V.)
+
+Betrieb einer Geschäftsstelle und  
+Vereinstätigkeit der Hamburger  
+Landesarbeitsgemeinschaft für behinderte  
+Menschen
+
+90.000,00 1-253.04.01.001.001
+
+PFIFF gGmbH  
+Pflegekinder und ihre  
+Familien -  
+Fortbildung,  
+Information,  
+Öffentlichkeitsarbeit  
+(gGmbH)
+
+Hamburger Pflegeelternschule 193.512,42 1-254.04.02.002.228
+
+PFIFF gGmbH  
+Pflegekinder und ihre  
+Familien -  
+Fortbildung,  
+Information,  
+Öffentlichkeitsarbeit  
+(gGmbH)
+
+Overhead und Öffentlichkeitsarbeit 266.166,16 1-254.04.02.002.228
+
+Institut für  
 konstruktive  
 Konfliktaustragung  
 und Mediation e.V.  
-(e.V.)  
-ab ausblick hamburg Azubi-Wohnen in Farmsen 221.566,22 3-25502001-000013.01  
-gmbh (GmbH)
+(e.V.)
 
-Hamburger Förderung nach dem Landesförderplan 5.000,00 1-254.02.03.001.001 Gebärdensprachjuge Pos. 2.3.1.1 Förderung der allgemeinen ndclub "Nordlicht" Jugendarbeit e.V. (e.V.) Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen verikom - Verbund für Ergänzende Sprachförderung für besondere 55.900,00 1-255.03.01.002.001 interkulturelle Lernbedarfe Kommunikation und Projekt: Niedrigschwellige Sprachkurse - Bildung e.V. (e.V.) Alphakurse in der Herkunftssprache verikom - Verbund für Ergänzende Sprachförderung für besondere 24.100,00 1-255.03.01.002.001 interkulturelle Lernbedarfe im Rahmen des EHAP- Kommunikation und Projektes step.in Bildung e.V. (e.V.) BI Bildung und Ergänzende Sprachförderung für besondere 23.100,00 1-255.03.01.002.001 Integration Hamburg Lernbedarfe im Rahmen des EHAP- Süd gGmbH Projektes step.in (gGmbH) Universitätsklinikum Förderung des Kinder-Kompetenz-Zentrums 328.806,17 1-254.04.02.002.228 Hamburg-Eppendorf im UKE (Öffentlich-rechtliche Körperschaft)
+Entwicklung, Durchführung und  
+Unterstützung von regionsbezogenen  
+Qualifizierungsmaßnahmen zur  
+Gewaltprävention für den Bereich der  
+Kinder- und Jugendarbeit
 
-Ev.-Luth. die laufende Förderung des EKiZ in der Kita 79.524,85 3-25406001-000010.05  
-Kirchenkreis Maria Magdalena, Achtern Born 127, 22549  
-Hamburg- Hamburg  
-West/Südholstein  
-(Öffentlich-rechtliche  
-Körperschaft)
+15.000,00 1-254.02.02.001.001
 
-Rudolf Ballin-Stiftung für die laufende Förderung des EKiZ in der 63.619,89 3-25406001-000010.05 e.V. (e.V.) Kita Das Spielnetz, Bockhorster Weg 3, 21031 Hamburg
-
-Seite 9 von 42
-
-Zuwendungen 2018
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-Ev.-Luth. die laufende Förderung des EKiZ in der Kita 63.619,89 3-25406001-000010.05  
-Kirchenkreis Sonnengarten, Bornheide 76, 22549  
-Hamburg- Hamburg  
-West/Südholstein  
-(Öffentlich-rechtliche  
-Körperschaft)
-
-Deutsches Rotes die laufende Förderung des EKiZ in der Kita 63.619,89 3-25406001-000010.05  
-Kreuz Hamburg "Bluma Mekler", Brüder-Hornemann-Straße  
-gemeinnützige 3, 22457 Hamburg  
-Gesellschaft zur  
-Förderung der Kinder-  
-und Jugendhilfe mbH  
-(gGmbH)
-
-Kinderwelt Hamburg die laufende Förderung des EKiZ in der Kita 63.619,89 3-25406001-000010.05 e.V. (e.V.) Rappelkiste, Hermann-Balk-Str. 47, 22147 Hamburg WABE e.V. (e.V.) die laufende Förderung des EKiZ in der Kita 63.619,89 3-25406001-000010.05 Neuer Mohnhof, Hinterm Graben 37, 21029 Hamburg Verein für die laufende Förderung des EKiZ in der Kita 79.524,85 3-25406001-000010.05 stadtteilbezogene Schilleroper, Lerchenstr. 28, 22767 milieunahe Hamburg Erziehungshilfen e.V. (e.V.) Deutsches Rotes die laufende Förderung des EKiZ in der Kita 58.769,38 3-25406001-000010.05 Kreuz, Kreisverband DRK Kinderzentrum Neuenfelde, Hamburg-Harburg Liedenkummer Bogen 2, 21129 Hamburg e.V. (e.V.) Ev.-Luth. die laufende Förderung des EKiZ in der Kita 79.524,85 3-25406001-000010.05 Kirchenkreis Luther, Lühmannstr. 13a, 21075 Hamburg Hamburg-Ost (Öffentlich-rechtliche Körperschaft)
-
-Ev.-Luth. Luther- die laufende Förderung eines EKiZ in der 63.619,89 3-25406001-000010.05 Kirchengemeinde Kita der Luthergemeinde Hamburg- Hamburg-Bahrenfeld Bahrenfeld, Lyserstr. 25, 22761 Hamburg (Öffentlich-rechtliche Körperschaft)
-
-Ev.-Luth. die laufende Förderung des EKiZ in der Kita 79.524,85 3-25406001-000010.05  
-Kirchenkreis Emmaus, Mannesallee 13, 21107 Hamburg  
-Hamburg-Ost  
-(Öffentlich-rechtliche  
-Körperschaft)
-
-Evangelische Stiftung die laufende Förderung des EKiZ in der Kita 60.094,95 3-25406001-000010.05 Alsterdorf (Stiftung Moorwisch, Moorwisch2, 22547 Hamburg des privaten Rechts)
-
-Rudolf Ballin-Stiftung die laufende Förderung des EKiZ in der Kita 79.524,85 3-25406001-000010.05 e.V. (e.V.) Mümmelmaus, Paul-Klee-Str. 3, 22115 Hamburg
-
-Seite 10 von 42
-
-Zuwendungen 2018
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-Deutsches Rotes die laufende Förderung des EKiZ in der Kita 79.524,85 3-25406001-000010.05  
-Kreuz Hamburg Regenbogen, Röpraredder 70, 21031  
-gemeinnützige Hamburg  
-Gesellschaft zur  
-Förderung der Kinder-  
-und Jugendhilfe mbH  
-(gGmbH)
-
-Arbeiterwohlfahrt die laufende Förderung des EKiZ in der Kita 79.524,85 3-25406001-000010.05 Landesverband am Jonanna-Kirchner-Haus, Rosa-Schapire- Hamburg e.V. (e.V.) Weg 8, 21035 Hamburg Ev.-Luth. die laufende Förderung des EKiZ in der Kita 63.619,89 3-25406001-000010.05 Kirchenkreis Iserbrook, Schenefelder Landstr. 198, 22589 Hamburg- Hamburg West/Südholstein (Öffentlich-rechtliche Körperschaft)
-
-Deutsches Rotes die laufende Förderung des EKiZ in der Kita 77.728,38 3-25406001-000010.05 Kreuz, Kreisverband Lelka Birnbaum, St. Pauli Hafenstraße 100, Hamburg-Harburg 20359 Hamburg e.V. (e.V.) Deutsches Rotes die laufende Förderung des EKiZ in der Kita 77.728,38 3-25406001-000010.05 Kreuz, Kreisverband Stubbenhof, Dr. Ernst-Hinze-Haus, Hamburg-Harburg Stubbenhof 20, 21147 Hamburg e.V. (e.V.) Arbeiterwohlfahrt die laufende Förderung des EKiZ in der Kita 63.619,89 3-25406001-000010.05 Landesverband Löwenzahn, Tegelsbarg 2h, 22399 Hamburg Hamburg e.V. (e.V.) Caritasverband für Förderung von regionalen 256.237,50 1-255.03.01.001.001 das Erzbistum Integrationszentren für Zugewanderte (IZ) im Hamburg e.V. (e.V.) Bezirk Hamburg Wandsbek gem. der Richtlinie der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) vom
-18.07.2017 Caritasverband für Förderung von regionalen 85.412,50 1-255.03.01.001.001 das Erzbistum Integrationszentren für Zugewanderte (IZ) im Hamburg e.V. (e.V.) Bezirk Hamburg Bergedorf gem. der Richtline der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) vom
-18.07.2017 BI Bildung und Förderung von regionalen 256.237,50 1-255.03.01.001.001 Integration Hamburg Integrationszentren für Zugewanderte (IZ) im Süd gGmbH Bezirk Hamburg-Mitte gem. der Richtlinie (gGmbH) der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) vom 18.07.2017
-
-BI Bildung und Förderung von regionalen 256.237,50 1-255.03.01.001.001 Integration Hamburg Integrationszentren für Zugewanderte (IZ) im Süd gGmbH Bezirk Hamburg Harburg gem. der Richtlinie (gGmbH) der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) vom 18.07.2017
-
-Seite 11 von 42
-
-Zuwendungen 2018
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Interkulturelle Förderung von regionalen 85.412,50 1-255.03.01.001.001 Begegnungsstätte Integrationszentren für Zugewanderte (IZ) im e.V. (e.V.) Bezirk Hamburg Mitte / St. Pauli gem.der Richtlinie der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) vom
-18.07.2017 Interkulturelle Richtlinie von regionalen Integrationszentren 256.237,50 1-255.03.01.001.001 Begegnungsstätte für Zugewanderte (IZ) im Bezirk Hamburg e.V. (e.V.) Eimsbüttel gem. der Richtlinie der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) vom 18.07.2017
-
-verikom - Verbund für Förderung von regionalen 341.650,00 1-255.03.01.001.001 interkulturelle Integrationszentren für Zugewanderte (IZ) im Kommunikation und Bezirk Hamburg Altona gem. Richtlinie der Bildung e.V. (e.V.) Behörde für Arbeit , Soziales, Familie und Integration (BASFI) vom 18.07.2017
-
-verikom - Verbund für Föderung von regionalen 384.356,25 1-255.03.01.001.001 interkulturelle Integrationszentren für Zugewanderte (IZ) im Kommunikation und Bezirk Hamburg Mitte gem. Richtlinie der Bildung e.V. (e.V.) Behörde für Arbeit , Soziales, Fammilie und Integration (BASFI) vom 18.07.2017
-
-Internationaler Bund Förderung von regionalen 170.825,00 1-255.03.01.001.001 (IB) Freier Träger der Integrationszentren für Zugewanderte (IZ) im Jugend-, Sozial- und Bezirk Hamburg Wandsbek gem. der Bildungsarbeit (e.V.) Richtlinie der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) vom
-18.07.2017 Internationaler Bund Förderung von regionalen 85.412,50 1-255.03.01.001.001 (IB) Freier Träger der Integrationszentren für Zugewanderte (IZ) im Jugend-, Sozial- und Bezirk Hamburg Bergedorf gem. der Bildungsarbeit (e.V.) Richtlinie der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) vom
-18.07.2017 PFIFF gGmbH Overhead und Öffentlichkeitsarbeit 280.271,97 1-254.04.02.002.228 Pflegekinder und ihre Familien - Fortbildung, Information, Öffentlichkeitsarbeit (gGmbH) Die Mission. Miet- und Raumkostenzuschuss für eine 6.900,00 1-253.03.01.001.001 Künstlerische Tagesaufenthaltsstätte für Obdachlose Maßnahmen gegen die Kälte e.V. (e.V.) Christliches Sozialraumorientierte Ausstiegshilfe und 42.625,00 3-25503001-000214.01 Jugenddorfwerk Unterstützung von Distanzierungsprozessen Deutschlands rechtsaffiner junger Menschen gemeinnütziger e.V. (CJD) (e.V.)
-
-Seite 12 von 42
-
-Zuwendungen 2018
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Christliches Sozialraumorientierte Ausstiegshilfe und 8.768,88 3-25503001-000210.01 Jugenddorfwerk Unterstützung von Distanzierungsprozessen Deutschlands rechtsaffiner junger Menschen gemeinnütziger e.V. (CJD) (e.V.) Christliches "Dekonstrukt" - Praxis-Forschungs-Projekt: 14.899,22 3-25503001-000210.01 Jugenddorfwerk Proaktive Auseinandersetzung mit Deutschlands neurechten Ideologien und Strukturen gemeinnütziger e.V. (CJD) (e.V.) Theater Jugend Förderung nach dem Landesförderplan 8.520,00 1-254.02.03.001.001 Hamburg e.V. (e.V.) Pos. 2.3.1.1 Förderung der allgemeinen Jugendarbeit Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen Caritasverband für Stützpunkt für obdachlose Menschen 32.000,00 1-253.03.01.001.001 Hamburg e.V. (e.V.) Caritasverband für Bahnhofsmission 66.000,00 1-253.03.01.001.001 Hamburg e.V. (e.V.) Theater Jugend Förderung nach dem Landesförderplan 2.070,00 1-254.02.03.001.001 Hamburg e.V. (e.V.) Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit Hamburger Förderung nach dem Landesförderplan 130.000,00 1-254.02.03.001.001 Sportjugend im HSB Pos. 2.3.1.1 Förderung der allgemeinen (Sonstige) Jugendarbeit Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen Verein der kulturellen Förderung nach dem Landesförderplan 7.148,00 1-254.02.03.001.001 medialen Pos 2.3.1.5 Bereitstellung von Räumen für Kommunikationsstell die Jugendarbeit e der Migration (Mig- Zentrum) e.V. (e.V.)
-
-Bündnis der Think Social Now 2.0 - Verantwortung 14.895,83 3-25503001-000211.01 Islamischen übernehmen im Internet im Rahmen des Gemeinden in Bundesprogramms "Demokratie leben" Norddeutschland e.V. (e.V.) Verein der kulturellen Förderung nach dem Landesförderplan 20.000,00 1-254.02.03.001.001 medialen Pos. 2.3.1.1 Förderung der allgemeinen Kommunikationsstell Jugendarbeit e der Migration (Mig- Pos. 2.3.1.2 Förderung von Seminaren und Zentrum) e.V. (e.V.) Veranstaltungen
-
-Elbkinder die laufende Förderung des EKiZ in der Kita 79.524,85 3-25406001-000010.05 Vereinigung An der Falkenbek, An der Falkenbek 4, Hamburger Kitas 22149 Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 63.619,89 3-25406001-000010.05 Vereinigung Bengelsdorfstraße, Bengelsdorfstr. 7, 22179 Hamburger Kitas Hamburg gGmbH (gGmbH)
-
-Seite 13 von 42
-
-Zuwendungen 2018
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Elbkinder die laufende Förderung des EKiZ in der Kita 79.524,85 3-25406001-000010.05 Vereinigung Dahlemer Ring, Dahlemer Ring 3, 22045 Hamburger Kitas Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 63.619,89 3-25406001-000010.05 Vereinigung Dortmunder Straße, Dortmunder Str. 44, Hamburger Kitas 22419 Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 60.094,95 3-25406001-000010.05 Vereinigung Druckerstraße, Druckerstraße 19, 22117 Hamburger Kitas Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 63.619,89 3-25406001-000010.05 Vereinigung Eddelbüttelstraße, Eddelbüttelstr. 9, 21149 Hamburger Kitas Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 63.619,89 3-25406001-000010.05 Vereinigung Hartzloh, Hartzloh 50, 22307 Hamburg Hamburger Kitas gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 79.524,85 3-25406001-000010.05 Vereinigung Hermannstal, Hermannstal 88, 22119 Hamburger Kitas Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 63.619,89 3-25406001-000010.05 Vereinigung Stadt Oase, Lohkampstr. 41, 22523 Hamburger Kitas Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 63.619,89 3-25406001-000010.05 Vereinigung Lothringer Straße, Lothringer Straße 18, Hamburger Kitas 22049 Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in den 63.619,89 3-25406001-000010.05 Vereinigung Räumen der Kita Osterbrook, Osterbrook Hamburger Kitas 49, 20537 Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in den 60.094,95 3-25406001-000010.05 Vereinigung Räumen der Kita Prassekstraße, Prassekstr. Hamburger Kitas 3, 21109 Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in den 60.094,95 3-25406001-000010.05 Vereinigung Räumen der Kita Sandfoort, Sandfoort 39, Hamburger Kitas 22415 Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in den 63.619,89 3-25406001-000010.05 Vereinigung Räumen der Kita Scheplerstraße, Hamburger Kitas Scheplerstr. 5, 22767 Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in der Kita 60.094,95 3-25406001-000010.05 Vereinigung Spitzbergenweg, Spitzbergenweg 40, 22145 Hamburger Kitas Hamburg gGmbH (gGmbH)
-
-Seite 14 von 42
-
-Zuwendungen 2018
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Elbkinder die laufende Förderung des EKiZ in den 63.619,89 3-25406001-000010.05 Vereinigung Räumen der Kita Steilshooper Allee, Hamburger Kitas Steilshooper Allee 30, 22309 Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in den 63.619,89 3-25406001-000010.05 Vereinigung Räumen der Kita Uffelnsweg, Uffelnsweg 1, Hamburger Kitas 20539 Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in den 63.619,89 3-25406001-000010.05 Vereinigung Räumen der Kita Vizelinstraße, Vizelinstr. Hamburger Kitas 48, 22529 Hamburg gGmbH (gGmbH) Elbkinder die laufende Förderung des EKiZ in den 79.524,85 3-25406001-000010.05 Vereinigung Räumen der Kita Wagrierweg, Wagrierweg Hamburger Kitas 16, 22455 Hamburg gGmbH (gGmbH) jaf-Verein für FILM DIR EINEN - Medienprojekte mit 7.290,00 1-254.02.01.001.001 medienpädagogische Kindern und Jugendlichen Praxis Hamburg e.V. (e.V.) Hamburger Zuwendung nach dem Landesförderplan 45.340,00 1-254.02.03.001.001 Sportjugend im HSB Pos. 2.3.1.3 Bildungsreferentinnnen und - (Sonstige) referenten der Jugendarbeit Naturschutzjugend Förderung nach dem Landesförderplan 939,00 1-254.02.03.001.001 Hamburg, Pos 2.3.1.5 Bereitstellung von Räumen für Landesverband die Jugendarbeit Hamburg (e.V.) Naturschutzjugend Förderung nach dem Landesförderplan 19.000,00 1-254.02.03.001.001 Hamburg, Pos. 2.3.1.1 Förderung der allgemeinen Landesverband Jugendarbeit Hamburg (e.V.) Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen Jugendrotkreuz im Zuwendung nach dem Landesförderplan 45.340,00 1-254.02.03.001.001 DRK-Landesverband Pos. 2.3.1.3 Bildungsreferentinnnen und - Hamburg e.V. referenten der Jugendarbeit (Sonstige) Kemenate-Frauen- Betrieb eines Tagestreffs für wohnungslose 268.079,31 1-253.03.01.001.001 Wohnen e.V. (e.V.) Frauen MV-Jugend Hamburg Förderung nach dem Landesförderplan 575,00 1-254.02.03.001.001 (Sonstige) Pos 2.3.2.1 Freizeiten Sprungbrett Finanzierung einer Anleiterstelle 35.730,83 3-25502001-021615.01 Dienstleistungen Gedenkstätte Neuengamme gGmbH (gGmbH) MV-Jugend Hamburg Förderung nach dem Landesförderplan 880,00 1-254.02.03.001.001 (Sonstige) Pos. 2.3.1.1 Förderung der allgemeinen Jugendarbeit Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen Evangelisch- Zuwendung nach dem Landesförderplan 22.670,00 1-254.02.03.001.001 methodistische Pos. 2.3.1.3 Bildungsreferentinnnen und - Jugend in der Freien referenten der Jugendarbeit und Hansestadt Hamburg (Sonstige)
-
-Seite 15 von 42
-
-Zuwendungen 2018
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Landesjugendring Förderung der Arbeit des Landesjugendrings 265.287,50 1-254.02.03.001.001 Hamburg e.V. (e.V.) Hamburg gem. LFP Position 2.3.5
-
-Jugendfeuerwehr Zuwendung nach dem Landesförderplan 45.340,00 1-254.02.03.001.001 Hamburg (Sonstige) Pos. 2.3.1.3 Bildungsreferentinnnen und - referenten der Jugendarbeit DGB-Jugend Land Förderung nach dem Landesförderplan 16.794,78 1-254.02.03.001.001 Hamburg (Sonstige) Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit Bund der Deutschen Zuwendung nach dem Landesförderplan 45.340,00 1-254.02.03.001.001 Katholischen Jugend - Pos. 2.3.1.3 Bildungsreferentinnnen und - Landesarbeitsgemein referenten der Jugendarbeit schaft in der Freien und Hansestadt Hamburg (BDKJ-LAG- HH) (Sonstige)
-
-Sozialistische Jugend Zuwendung nach dem Landesförderplan 45.340,00 1-254.02.03.001.001 Deutschlands "Die Pos. 2.3.1.3 Bildungsreferentinnnen und - Falken" (Sonstige) referenten der Jugendarbeit
-
-Beratungs- und Biff Harburg - Hauptprojekt -Psychosoziale 93.202,15 1-254.03.02.009.001 Informationsstelle von Beratung von Frauen in Krisensituationen Frauen für Frauen - Winterhude- e.V. (e.V.) Sozialistische Jugend Förderung nach dem Landesförderplan 26.900,00 1-254.02.03.001.001 Deutschlands "Die Pos. 2.3.1.1 Förderung der allgemeinen Falken" (Sonstige) Jugendarbeit Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen Sozialistische Jugend Förderung nach dem Landesförderplan 520,00 1-254.02.03.001.001 Deutschlands "Die Pos 2.3.2.1 Freizeiten Falken" (Sonstige)
-
-Sozialistische Jugend Förderung nach dem Landesförderplan 12.000,00 1-254.02.03.001.001 Deutschlands "Die Pos. 2.3.2.2 Förderung für junge Menschen Falken" (Sonstige) aus einkommensschwachen Familien
-
-Integrationshilfen e.V. Berufliche Eingliederung für Haftentlassene 63.149,99 1-253.03.02.003.001 (e.V.) "Sprungbrett" Sozialistische Jugend Förderung nach dem Landesförderplan 120,00 1-254.02.03.001.001 Deutschlands "Die Pos 2.3.1.5 Bereitstellung von Räumen für Falken" (Sonstige) die Jugendarbeit
-
-Landesjugendwerk Förderung nach dem Landesförderplan 18.500,00 1-254.02.03.001.001 Hamburg des Bundes Pos. 2.3.1.1 Förderung der allgemeinen Freikirchlicher Jugendarbeit Pfingstgemeinden Pos. 2.3.1.2 Förderung von Seminaren und (Sonstige) Veranstaltungen
-
-Seite 16 von 42
-
-Zuwendungen 2018
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-Landesjugendwerk Förderung nach dem Landesförderplan 25.000,00 1-254.02.03.001.001  
-Hamburg des Bundes Pos. 2.3.2.2 Förderung für junge Menschen  
-Freikirchlicher aus einkommensschwachen Familien  
-Pfingstgemeinden  
-(Sonstige)
-
-Landesjugendwerk Förderung nach dem Landesförderplan 5.000,00 1-254.02.03.001.001  
-Hamburg des Bundes Pos 2.3.2.1 Freizeiten  
-Freikirchlicher  
-Pfingstgemeinden  
-(Sonstige)
-
-KOMCIWAN / Förderung nach dem Landesförderplan 2.400,00 1-254.02.03.001.001 Jugend- und Pos 2.3.1.5 Bereitstellung von Räumen für Kulturverein aus die Jugendarbeit Kurdistan e.V. (e.V.)
-
-Deutsche Förderung nach dem Landesförderplan 20.800,00 1-254.02.03.001.001 Pfadfinderschaft St. Pos. 2.3.1.1 Förderung der allgemeinen Georg - DPSG - Jugendarbeit Diözesanverband Pos. 2.3.1.2 Förderung von Seminaren und Hamburg (Sonstige) Veranstaltungen Deutsche Förderung nach dem Landesförderplan 7.500,00 1-254.02.03.001.001 Pfadfinderschaft St. Pos 2.3.2.1 Freizeiten Georg - DPSG - Diözesanverband Hamburg (Sonstige) Deutsche Förderung nach dem Landesförderplan 5.000,00 1-254.02.03.001.001 Pfadfinderschaft St. Pos. 2.3.2.2 Förderung für junge Menschen Georg - DPSG - aus einkommensschwachen Familien Diözesanverband Hamburg (Sonstige) Junge Presse Förderung nach dem Landesförderplan 2.600,00 1-254.02.03.001.001 Hamburg e.V. (kurz: Pos. 2.3.1.1 Förderung der allgemeinen jphh) (e.V.) Jugendarbeit Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen Christlicher Verein Förderung nach dem Landesförderplan 18.000,00 1-254.02.03.001.001 Junger Menschen, Pos. 2.3.1.1 Förderung der allgemeinen Landesverband Jugendarbeit Hamburg e.V. (e.V.) Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen Christlicher Verein Förderung nach dem Landesförderplan 12.000,00 1-254.02.03.001.001 Junger Menschen, Pos. 2.3.2.2 Förderung für junge Menschen Landesverband aus einkommensschwachen Familien Hamburg e.V. (e.V.) Christlicher Verein Förderung nach dem Landesförderplan 1.575,00 1-254.02.03.001.001 Junger Menschen, Pos 2.3.2.1 Freizeiten Landesverband Hamburg e.V. (e.V.) Verband Christlicher Förderung nach dem Landesförderplan 1.300,00 1-254.02.03.001.001 Pfadfinderinnen und Pos 2.3.1.5 Bereitstellung von Räumen für Pfadfinder in die Jugendarbeit Hamburg e.V. (e.V.)
-
-Seite 17 von 42
-
-Zuwendungen 2018
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) DGB-Jugend Land Zuwendung nach dem Landesförderplan 45.340,00 1-254.02.03.001.001 Hamburg (Sonstige) Pos. 2.3.1.3 Bildungsreferentinnnen und - referenten der Jugendarbeit fkk - jugend e.V. Förderung nach dem Landesförderplan 2.500,00 1-254.02.03.001.001 Landesverband Nord Pos. 2.3.1.1 Förderung der allgemeinen (e.V.) Jugendarbeit Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen fkk - jugend e.V. Förderung nach dem Landesförderplan 555,00 1-254.02.03.001.001 Landesverband Nord Pos 2.3.2.1 Freizeiten (e.V.) Deutsche Förderung nach dem Landesförderplan 14.700,00 1-254.02.03.001.001 Schreberjugend Pos. 2.3.1.1 Förderung der allgemeinen Hamburg e.V. (e.V.) Jugendarbeit Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen Deutsche Förderung nach dem Landesförderplan 3.208,42 1-254.02.03.001.001 Schreberjugend Pos 2.3.1.5 Bereitstellung von Räumen für Hamburg e.V. (e.V.) die Jugendarbeit Deutsche Förderung nach dem Landesförderplan 415,00 1-254.02.03.001.001 Schreberjugend Pos. 2.3.2.1 Freizeiten Hamburg e.V. (e.V.) Deutsche Förderung nach dem Landesförderplan 14.000,00 1-254.02.03.001.001 Schreberjugend Pos. 2.3.2.2 Förderung für junge Menschen Hamburg e.V. (e.V.) aus einkommensschwachen Familien
-
-Arbeitsgemeinschaft Zuwendung nach dem Landesförderplan 45.340,00 1-254.02.03.001.001  
-freier Pos. 2.3.1.3 Bildungsreferentinnnen und -  
-Jugendverbände in referenten der Jugendarbeit  
-Hamburg - AGfJ -  
-e.V. (e.V.)  
-Integrationshilfen e.V. Wohnprojekt für Haftentlassene "Trotzdem" 181.901,27 1-253.03.02.003.001  
-(e.V.)  
-BIFF - Psychosoziale Betrieb einer Frauenberatungsstelle 2018 213.575,42 1-254.03.02.009.001  
+BIFF - Psychosoziale  
 Beratung und  
 Information für  
 Frauen und Mädchen  
 e.V. (e.V.)
 
-Gemeinnützige Ambulante Wohnbegleitung für 70.008,69 1-253.03.02.003.001 Wohnheimgesellscha Haftentlassene ft des Hamburger Fürsorgevereins von 1948 m.b.H. (gGmbH) Verband Christlicher Zuwendung nach dem Landesförderplan 45.340,00 1-254.02.03.001.001 Pfadfinderinnen und Pos. 2.3.1.3 Bildungsreferentinnnen und - Pfadfinder in referenten der Jugendarbeit Hamburg e.V. (e.V.) Hamburger Förderung nach dem Landesförderplan 11.500,00 1-254.02.03.001.001 Sportjugend im HSB Pos 2.3.1.5 Bereitstellung von Räumen für (Sonstige) die Jugendarbeit
+Betrieb einer Frauenberatungsstelle Eimsbüttel-Altona
 
-Seite 18 von 42
+210.372,83 1-254.03.02.009.001
 
-Zuwendungen 2018
+Seite 10 von 54
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) THW-Jugend Förderung nach dem Landesförderplan 4.000,00 1-254.02.03.001.001 Hamburg e.V. (e.V.) Pos. 2.3.1.1 Förderung der allgemeinen Jugendarbeit Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen THW-Jugend Förderung nach dem Landesförderplan 1.400,00 1-254.02.03.001.001 Hamburg e.V. (e.V.) Pos 2.3.2.1 Freizeiten Lawaetz-Service Wohnraumversorgung und -sicherung von 179.546,58 1-254.03.02.008.001 GmbH (GmbH) jungen Familien, jungen Erwachsenen und Einzelpersonen mit besonderem Unterstützungsbedarf-Institutionelle Förderung der Lawaetz-Service GmbH von Overheadkosten THW-Jugend Förderung nach dem Landesförderplan 600,00 1-254.02.03.001.001 Hamburg e.V. (e.V.) Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit JEF-Hamburg e.V. Förderung nach dem Landesförderplan 8.700,00 1-254.02.03.001.001 (e.V.) Pos. 2.3.1.1 Förderung der allgemeinen Jugendarbeit Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen KOMCIWAN / Förderung nach dem Landesförderplan 4.120,00 1-254.02.03.001.001 Jugend- und Pos. 2.3.1.1 Förderung der allgemeinen Kulturverein aus Jugendarbeit Kurdistan e.V. (e.V.) Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen Lawaetz-Service Wohnraumversorgung und -sicherung von 12.931,11 1-254.03.02.008.001 GmbH (GmbH) jungen Familien, jungen Erwachsenen und Einzelpersonen mit besonderem Unterstützungsbedarf - Soziale Hausverwaltung Lawaetz-wohnen & Jugend & Wohnen 2018 687.812,49 1-254.04.02.002.228 leben gGmbH (gGmbH) Pfadfinder & Förderung nach dem Landesförderplan 1.080,00 1-254.02.03.001.001 Pfadfinderinnenbund Pos 2.3.1.5 Bereitstellung von Räumen für Nordlicht e.V. (PBNL) die Jugendarbeit (e.V.) Beratungs- und Projekt Biff Harburg - Erweiterungsprojekt - 21.029,75 1-254.03.02.009.001 Informationsstelle von Förderung der Integration von geflüchteten Frauen für Frauen - Frauen unter traumasensiblen Winterhude- e.V. Gesichtspunkten (e.V.) Jugend der freien Jugendverbandsarbeit Grundförderung Pos. 9.410,00 1-254.02.03.001.001 Evangelischen 2.3.1.1 und 2.3.1.2 LFP Gemeinden Norddeutschland (Sonstige) Jugend der freien Allgemeine Fördeurng von Freizeiten Pos 1.300,00 1-254.02.03.001.001 Evangelischen 2.3.2.1 LFP Gemeinden Norddeutschland (Sonstige)
+Zuwendungen 2017
 
-Seite 19 von 42
+Zuwendungs-
 
-Zuwendungen 2018
+empfänger
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Jugend der freien Förderung für junge Menschen aus 1.398,00 1-254.02.03.001.001 Evangelischen einkommensschwachen Familien Pos. Gemeinden 2.3.2.2 LFP Norddeutschland (Sonstige) Hamburger Allgemeiner Zuschuss zu Freizeiten Pos. 55.000,00 1-254.02.03.001.001 Sportjugend im HSB 2.3.2.1 LFP (Sonstige) KITA SONNEN- die Schaffung von Betreuungsplätzen für 273.033,00 2-25406001-00041.05 KINDER HAMBURG Kinder im Alter von 0 Jahren bis zum GmbH (GmbH) Schuleintritt im Rahmen des Investitionsprogramms 2017-2020 in der Kita "Sonnen-Kinder", Fruchtallee 106 in 20259 Hamburg Arbeiter-Samariter- Sozialpädagogische Betreuung und 106.491,34 1-253.03.03.005.001 Bund Beratung in der Mistralstraße 3 - 5 Sozialeinrichtungen (Hamburg) GmbH (GmbH) Evangelisch- Förderung nach dem Landesförderplan 7.350,00 1-254.02.03.001.001 methodistische Pos. 2.3.1.1 Förderung der allgemeinen Jugend in der Freien Jugendarbeit und Hansestadt Pos. 2.3.1.2 Förderung von Seminaren und Hamburg (Sonstige) Veranstaltungen MALCA e.V. Deutsch Anschaffung Laptop, externe Festplatte, 1.063,20 1-254.02.03.001.001 Lateinamerikanischer Handy und Kamera Jugend- und Kulturverband (e.V.)
+Zuwendungszweck (kurz) Zuwendungs-
 
-Hamburger Betrieb der Sozialen Beratungsstelle 366.868,06 1-253.03.02.003.001 Fürsorgeverein von Eimsbüttel 1948 e.V. (e.V.) Deutsches Rotes Betrieb der Sozialen Beratungsstelle 398.648,99 1-253.03.02.003.001 Kreuz Landesverband Barmbek (Hamburg-Nord) Hamburg e.V. (e.V.)
+höhe (in Euro)
 
-Diakonisches Werk Betrieb der Sozialen Beratungsstelle 369.841,08 1-253.03.02.003.001  
-Hamburg - Bergedorf/Billstedt  
-Landesverband der  
-Inneren Mission e.V.  
-(e.V.)  
-Sozialdienst Betrieb der Sozialen Beratungsstelle 389.058,40 1-253.03.02.003.001  
-katholischer Frauen Hamburg-Mitte  
-e.V. Hamburg-Altona  
-(e.V.)  
-Diakonisches Werk Betrieb der Sozialen Beratungsstelle 378.014,59 1-253.03.02.003.001  
-Hamburg - Hamburg-Harburg  
-Landesverband der  
-Inneren Mission e.V.  
-(e.V.)  
-Jugendhilfe e.V. Betrieb der Sozialen Beratungsstelle 411.037,69 1-253.03.02.003.001  
-(e.V.) Wandsbek
+Finanzposition
 
-Seite 20 von 42
+Hamburger  
+Gehörlosen-  
+Sportverein von 1904  
+e.V. (e.V.)
 
-Zuwendungen 2018
+Deckung der Personalkosten für die  
+notwendige Beschäftigung eines  
+Geschäftsführers im Sportbetrieb für  
+gehörlose, ertaubte, scherhörige, CI-  
+trägerische Menschen sowie die teilweise  
+Deckung der Sachkosten der  
+Geschäftsstelle im HGSV
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-Diakonisches Werk Betrieb der sozialen Beratungsstelle Altona 399.646,69 1-253.03.02.003.001  
+94.938,23 1-253.04.01.001.001
+
+Diakonisches Werk  
 Hamburg -  
 Landesverband der  
 Inneren Mission e.V.  
-(e.V.)  
-Verein zur Förderung Spielaktionen in Unterkünften der öffentlich- 171.358,83 1-254.02.01.001.001  
-der Jugendarbeit e.V. rechtlichen Unterbringung (Erweiterung 1)  
 (e.V.)
 
-Landesinstitut für "bildmachen" von ufuq.de im Rahmen des 13.750,00 3-25503001-000215.01 Lehrerbildung und Bundesprogramms "Demokratie leben" Schulentwicklung (Öffentlich-rechtliche Körperschaft)
+Förderung von regionalen  
+Integrationszentren (IZ) für Zugewanderte in  
+Hamburg  
+gem. der Richtlinie der Behörde für Arbeit,  
+Soziales, Familie und Integration (BASFI)  
+vom 29.07.2016
 
-Advent-Jugend Förderung für junge Menschen aus 1.460,00 1-254.02.03.001.001 Hamburg (Sonstige) einkommensschwachen Familien Pos.
-2.3.2.2 LFP Advent-Jugend Jugendverbandsarbeit Grundförderung Pos. 8.738,80 1-254.02.03.001.001 Hamburg (Sonstige) 2.3.1.1 und 2.3.1.2 LFP Advent-Jugend Allgemeine Förderung von Freizeiten Pos 500,00 1-254.02.03.001.001 Hamburg (Sonstige) 2.3.2.1 LFP Jugendrotkreuz im Allgemeine Förderung von Freizeiten Pos 975,00 1-254.02.03.001.001 DRK-Landesverband 2.3.2.1 LFP Hamburg e.V. (Sonstige) Jugendrotkreuz im Förderung für junge Menschen aus 4.095,00 1-254.02.03.001.001 DRK-Landesverband einkommensschwachen Familien Pos. Hamburg e.V. 2.3.2.2 LFP (Sonstige) Arbeitsgemeinschaft Jugendverbandsarbeit Grundförderung Pos. 36.409,09 1-254.02.03.001.001 Hamburger 2.3.1.1 und 2.3.1.2 LFP Pfadfinderverbände e.V. (e.V.) Arbeitsgemeinschaft Bereitstellung von Räumen für die 1.710,00 1-254.02.03.001.001 Hamburger Jugendarbeit Pos. 2.3.1.5 LFP Pfadfinderverbände e.V. (e.V.) Arbeiter-Samariter- Jugendverbandsarbeit Grundförderung Pos. 2.000,00 1-254.02.03.001.001 Jugend Hamburg 2.3.1.1 und 2.3.1.2 LFP Landesjugend Hamburg (Sonstige) wellcome ggmbh Landeskoordination wellcome Hamburg 37.116,40 1-254.03.02.006.001 (gGmbH) ver.di - Vereinte Förderung nach dem Landesförderplan 37.500,00 1-254.02.03.001.001 Dienstleistungsgewer Pos. 2.3.1.1 Förderung der allgemeinen kschaft, Jugendarbeit Landesbezirke Pos. 2.3.1.2 Förderung von Seminaren und Hamburg und Nord Veranstaltungen (Sonstige) Alleinerziehenden Beratungs- und Begegnungsstätte für 246.707,35 1-254.04.02.002.228 Treffpunkt und Alleinerziehende und Beratung sowie Beratung e.V. (ATB) Gruppenarbeit für Schwangere in der (e.V.) Trennungskrise
+335.169,79 1-255.03.01.001.001
 
-Seite 21 von 42
+Carl von Ossietzky  
+Universität Oldenburg  
+(Öffentlich-rechtliche  
+Körperschaft)
 
-Zuwendungen 2018
+Evaluation des Hamburger Programms "Sozialräumliche Hilfen und Angebote" (SHA)
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Jugendrotkreuz im Förderung nach dem Landesförderplan 24.000,00 1-254.02.03.001.001 DRK-Landesverband Pos. 2.3.1.1 Förderung der allgemeinen Hamburg e.V. Jugendarbeit (Sonstige) Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen Pfadfinder- und Förderung nach dem Landesförderplan 16.846,00 1-254.02.03.001.001 Pfadfinderinnenbund Pos 2.3.1.5 Bereitstellung von Räumen für Nord (Sonstige) die Jugendarbeit Pfadfinder- und Förderung nach dem Landesförderplan 45.000,00 1-254.02.03.001.001 Pfadfinderinnenbund Pos. 2.3.1.1 Förderung der allgemeinen Nord (Sonstige) Jugendarbeit Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen Deutscher Betrieb des Elterntelefons Hamburg 52.603,18 1-254.03.02.006.001 Kinderschutzbund Landesverband Hamburg e.V. (e.V.) DGB-Jugend Land Förderung nach dem Landesförderplan 67.500,00 1-254.02.03.001.001 Hamburg (Sonstige) Pos. 2.3.1.1 Förderung der allgemeinen Jugendarbeit Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen Pfadfinder- und Förderung nach dem Landesförderplan 30.000,00 1-254.02.03.001.001 Pfadfinderinnenbund Pos 2.3.2.1 Freizeiten Nord (Sonstige) Pfadfinder- und Förderung nach dem Landesförderplan 30.000,00 1-254.02.03.001.001 Pfadfinderinnenbund Pos. 2.3.2.2 Förderung für junge Menschen Nord (Sonstige) aus einkommensschwachen Familien
+157.039,06 1-254.04.02.004.228
 
-Bund der Förderung nach dem Landesförderplan 175,00 1-254.02.03.001.001  
-Pfadfinderinnen und Pos 2.3.1.5 Bereitstellung von Räumen für  
-Pfadfinder (BdP) die Jugendarbeit  
+Behinderten- und  
+Rehabilitations-  
+Sportverband  
+Hamburg e.V. (BRS  
+Hamburg) (e.V.)
+
+Betrieb der Geschäftsstelle des Behindertenund Rehabilitations-Sportverbands Hamburg e.V.
+
+81.970,38 1-253.04.01.001.001
+
+wellcome ggmbh (gGmbH)
+
+Landeskoordination wellcome Hamburg
+37.028,37 1-254.03.02.006.001
+
+Sprungbrett Dienstleistungen gGmbH (gGmbH)
+
+Finanzierung einer Anleiterstelle Gedenkstätte Neuengamme
+
+33.953,97 3-25502001-021615.01
+
+Deutscher  
+Kinderschutzbund  
 Landesverband  
-Schleswig-  
-Holstein/Hamburg  
-(e.V.)  
-Bund der Förderung nach dem Landesförderplan 2.384,00 1-254.02.03.001.001  
-Pfadfinderinnen und Pos. 2.3.1.1 Förderung der allgemeinen  
-Pfadfinder (BdP) Jugendarbeit  
-Landesverband Pos. 2.3.1.2 Förderung von Seminaren und  
-Schleswig- Veranstaltungen  
-Holstein/Hamburg  
-(e.V.)  
-Bund der Förderung nach dem Landesförderplan 805,00 1-254.02.03.001.001  
-Pfadfinderinnen und Pos 2.3.2.1 Freizeiten  
-Pfadfinder (BdP)  
-Landesverband  
-Schleswig-  
-Holstein/Hamburg  
+Hamburg e.V. (e.V.)
+
+Durchführung des Projekts "Starke Eltern - Starke Kinder"
+
+27.781,93 1-254.03.02.006.001
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
 (e.V.)
 
-Seite 22 von 42
+Anschaffung und Implementierung einer  
+Beratungssoftware zur elektronischen  
+Teilnehmendenverwaltung in der Zentralen  
+Anlaufstelle Anerkennung (ZAA)
 
-Zuwendungen 2018
+12.500,00 2-25502001-68608.15
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Bund der Förderung nach dem Landesförderplan 1.225,00 1-254.02.03.001.001 Pfadfinderinnen und Pos. 2.3.2.2 Förderung für junge Menschen Pfadfinder (BdP) aus einkommensschwachen Familien Landesverband Schleswig- Holstein/Hamburg (e.V.) Evangelische Jugend Zuwendung nach dem Landesförderplan 45.340,00 1-254.02.03.001.001 Hamburg (Sonstige) Pos. 2.3.1.3 Bildungsreferentinnnen und - referenten der Jugendarbeit MALCA e.V. Deutsch Förderung nach dem Landesförderplan 3.120,00 1-254.02.03.001.001 Lateinamerikanischer Pos. 2.3.1.1 Förderung der allgemeinen Jugend- und Jugendarbeit Kulturverband (e.V.) Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen BUND-Jugend Förderung nach dem Landesförderplan 1.575,00 1-254.02.03.001.001 Hamburg (Sonstige) Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit BUND-Jugend Förderung nach dem Landesförderplan 17.000,00 1-254.02.03.001.001 Hamburg (Sonstige) Pos. 2.3.1.1 Förderung der allgemeinen Jugendarbeit Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen Bund der Deutschen Förderung nach dem Landesförderplan 52.000,00 1-254.02.03.001.001 Katholischen Jugend - Pos. 2.3.1.1 Förderung der allgemeinen Landesarbeitsgemein Jugendarbeit schaft in der Freien Pos. 2.3.1.2 Förderung von Seminaren und und Hansestadt Veranstaltungen Hamburg (BDKJ-LAG- HH) (Sonstige)
+Kooperation Arbeiten, Lernen und Ausbildung e.V. (e.V.)
 
-Bund der Deutschen Förderung nach dem Landesförderplan 32.000,00 1-254.02.03.001.001  
-Katholischen Jugend - Pos. 2.3.2.2 Förderung für junge Menschen  
-Landesarbeitsgemein aus einkommensschwachen Familien  
-schaft in der Freien  
-und Hansestadt  
-Hamburg (BDKJ-LAG-  
-HH) (Sonstige)
+Tagwerk-Projekt "La Cantina/Suppenküche"
+30.382,41 3-25502001-021615.01
 
-Johann Daniel Entwicklung, Steuerung und Koordinerung 20.500,84 1-254.04.02.002.228 Lawaetz-Stiftung des Projekts "Haus- und (Stiftung des Quartiersmanagement für das Haus 2 und öffentlichen Rechts) das Park-Café im Lutherpark" Jugendarbeitskreis Förderung nach dem Landesförderplan 5.400,00 1-254.02.03.001.001 Hamburg im Pos. 2.3.1.1 Förderung der allgemeinen Volksbund Deutsche Jugendarbeit Kriegsgräberfürsorge Pos. 2.3.1.2 Förderung von Seminaren und e.V. (Sonstige) Veranstaltungen
+Caritasverband für Hamburg e.V. (e.V.)
 
-Seite 23 von 42
+Betrieb der Erziehungsberatungsstellen des Caritasverbandes für Hamburg e.V. in St. Georg, Billstedt und Rothenburgsort
 
-Zuwendungen 2018
+47.200,00 1-254.03.02.006.001
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-Arbeiter-Wassersport- Anschaffung von Betten/Matratzen und Sitz- 4.110,25 1-254.02.03.001.001  
-Verein für Hamburg Garnitur für das Vereinshaus  
-und Umgegend  
-gegründet 1909 e.V.  
-(e.V.)
+BI Bildung und  
+Integration Hamburg  
+Süd gGmbH  
+(gGmbH)
 
-Bund Deutscher Förderung nach dem Landesförderplan 4.440,00 1-254.02.03.001.001 PfadfinderInnen - Pos. 2.3.1.1 Förderung der allgemeinen Landesverband Jugendarbeit Hamburg e.V. (e.V.) Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen Bund Deutscher Förderung nach dem Landesförderplan 200,00 1-254.02.03.001.001 PfadfinderInnen - Pos 2.3.1.5 Bereitstellung von Räumen für Landesverband die Jugendarbeit Hamburg e.V. (e.V.) Pfadfinder & Förderung nach dem Landesförderplan 10.200,00 1-254.02.03.001.001 Pfadfinderinnenbund Pos. 2.3.1.1 Förderung der allgemeinen Nordlicht e.V. (PBNL) Jugendarbeit (e.V.) Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen Eriträischer Jugend- Förderung nach dem Landesförderplan 8.000,00 1-254.02.03.001.001 und Kulturverein Pos. 2.3.1.1 Förderung der allgemeinen Hamburg e.V. (e.V.) Jugendarbeit Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen Eriträischer Jugend- Förderung nach dem Landesförderplan 10.200,00 1-254.02.03.001.001 und Kulturverein Pos 2.3.1.5 Bereitstellung von Räumen für Hamburg e.V. (e.V.) die Jugendarbeit Bund Deutsch- Förderung nach dem Landesförderplan 1.600,00 1-254.02.03.001.001 Unitarischer Jugend Pos. 2.3.1.1 Förderung der allgemeinen e.V. (e.V.) Jugendarbeit Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen Verband binationaler Beratung von binationalen/bikulturellen 113.113,78 1-254.04.02.002.228 Familien und Paaren und Familien sowie Koordinierung, Partnerschaften, iaf Anleitung und Qualifizierung der (e.V.) ehrenamtlichen Beratung dieser Zielgruppe
+Förderung von regionalen  
+Integrationszentren für Zugewanderte (IZ)  
+im Bezirk Hamburg-Mitte gem. der Richtlinie  
+der Behörde für Arbeit, Soziales, Familie  
+und Integration (BASFI) vom 29.07.2016
 
-Bund der Deutschen Förderung nach dem Landesförderplan 14.000,00 1-254.02.03.001.001  
-Katholischen Jugend - Pos 2.3.2.1 Freizeiten  
+249.825,00 1-255.03.01.001.001
+
+Seite 11 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+BI Bildung und  
+Integration Hamburg  
+Süd gGmbH  
+(gGmbH)
+
+Förderung von regionalen  
+Integrationszentren für Zugewanderte (IZ)  
+im Bezirk Hamburg Harburg gem. der  
+Richtlinie der Behörde für Arbeit, Soziales,  
+Familie und Integration (BASFI) vom  
+29.07.2016
+
+253.927,95 1-255.03.01.001.001
+
+Caritasverband für das Erzbistum Hamburg e.V. (e.V.)
+
+Förderung von regionalen  
+Integrationszentren für Zugewanderte (IZ)  
+im Bezirk Hamburg Wandsbek gem. der  
+Richtlinie der Behörde für Arbeit, Soziales,  
+Familie und Integration (BASFI) vom  
+29.07.2016
+
+249.825,00 1-255.03.01.001.001
+
+Caritasverband für das Erzbistum Hamburg e.V. (e.V.)
+
+Förderung von regionalen  
+Integrationszentren für Zugewanderte (IZ)  
+im Bezirk Hamburg Bergedorf gem. der  
+Richtlinie der Behörde für Arbeit, Soziales,  
+Familie und Integration (BASFI) vom  
+29.07.2016
+
+83.275,00 1-255.03.01.001.001
+
+Internationaler Bund  
+(IB) Freier Träger der  
+Jugend-, Sozial- und  
+Bildungsarbeit (e.V.)
+
+Förderung von regionalen  
+Integrationszentren für Zugewanderte (IZ)  
+im Bezirk Hamburg Wandsbek gem. der  
+Richtlinie der Behörde für Arbeit, Soziales,  
+Familie und Integration (BASFI) vom  
+29.07.2016
+
+166.550,00 1-255.03.01.001.001
+
+Internationaler Bund  
+(IB) Freier Träger der  
+Jugend-, Sozial- und  
+Bildungsarbeit (e.V.)
+
+Förderung von regionalen  
+Integrationszentren für Zugewanderte (IZ)  
+im Bezirk Hamburg Bergedorf gem. der  
+Richtlinie der Behörde für Arbeit, Soziales,  
+Familie und Integration (BASFI) vom  
+29.07.2016
+
+83.275,00 1-255.03.01.001.001
+
+Interkulturelle Begegnungsstätte e.V. (e.V.)
+
+Förderung von regionalen  
+Integrationszentren für Zugewanderte (IZ)  
+im Bezirk Hamburg Eimsbüttel gem. der  
+Richtlinie der Behörde für Arbeit, Soziales,  
+Familie und Integration (BASFI) vom  
+29.07.2016
+
+249.825,00 1-255.03.01.001.001
+
+Interkulturelle Begegnungsstätte e.V. (e.V.)
+
+Förderung von regionalen  
+Integrationszentren für Zugewanderte (IZ)  
+im Bezirk Hamburg-Mitte/St. Pauli gem. der  
+Richtlinie der Behörde für Arbeit, Soziales,  
+Familie und Integration (BASFI) vom  
+29.07.2016
+
+83.275,00 1-255.03.01.001.001
+
+verikom - Verbund für  
+interkulturelle  
+Kommunikation und  
+Bildung e.V. (e.V.)
+
+Förderung von regionalen  
+Integrationszentren für Zugewanderte (IZ)  
+im Bezirk Hamburg Altona gem. der  
+Richtlinie der Behörde für Arbeit, Soziales,  
+Familie und Integration (BASFI) vom  
+29.07.2016
+
+333.100,00 1-255.03.01.001.001
+
+verikom - Verbund für  
+interkulturelle  
+Kommunikation und  
+Bildung e.V. (e.V.)
+
+Förderung von regionalen  
+Integrationszentren für Zugewanderte (IZ)  
+im Bezirk Hamburg-Mitte gem. der Richtlinie  
+der Behörde für Arbeit, Soziales, Familie  
+und Integration (BASFI) vom 29.07.2016
+
+374.737,50 1-255.03.01.001.001
+
+Seite 12 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Verein zur Förderung der Jugendarbeit e.V. (e.V.)
+
+Spielaktionen in Unterkünften der öffentlichrechtlichen Unterbringung (Erweiterung 1)
+
+176.658,57 1-254.02.01.001.001
+
 Landesarbeitsgemein  
-schaft in der Freien  
-und Hansestadt  
-Hamburg (BDKJ-LAG-  
-HH) (Sonstige)
+schaft für  
+Erziehungsberatung  
+in der Freien und  
+Hansestadt Hamburg  
+(Sonstige)
 
-Evangelische Jugend Förderung nach dem Landesförderplan 115.000,00 1-254.02.03.001.001 Hamburg (Sonstige) Pos. 2.3.1.1 Förderung der allgemeinen Jugendarbeit Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen
+Zwei halbtägige Fachveranstaltungen (Fortbildungen für Fachkräfte)
 
-Seite 24 von 42
+650,00 1-254.03.02.006.001
 
-Zuwendungen 2018
+Arbeitslosen- Telefonhilfe e.V. (e.V.)
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Evangelische Jugend Förderung nach dem Landesförderplan 5.221,00 1-254.02.03.001.001 Hamburg (Sonstige) Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit Evangelische Jugend Förderung nach dem Landesförderplan 32.500,00 1-254.02.03.001.001 Hamburg (Sonstige) Pos 2.3.2.1 Freizeiten
+Lebenslagenberatung / aktivierende Maßnahmen gemäß § 16 a Abs. 2 Nr. 3 SGB II
 
-Deutscher Förderung nach dem Landesförderplan 1.248,00 1-254.02.03.001.001 Pfadfinderbund Pos 2.3.2.1 Freizeiten Hamburg e.V. (e.V.) Deutscher Förderung nach dem Landesförderplan 1.461,99 1-254.02.03.001.001 Pfadfinderbund Pos 2.3.1.5 Bereitstellung von Räumen für Hamburg e.V. (e.V.) die Jugendarbeit Deutscher Durchführung des Projekts "Starke Eltern - 23.729,87 1-254.03.02.006.001 Kinderschutzbund Starke Kinder" Landesverband Hamburg e.V. (e.V.) Arbeitsgemeinschaft Förderung nach dem Landesförderplan 37.727,26 1-254.02.03.001.001 Interkultureller Pos 2.3.1.5 Bereitstellung von Räumen für Jugendverbände die Jugendarbeit Hamburg e.V. (A.G.I.J. e.V.) (e.V.) Arbeitsgemeinschaft Förderung nach dem Landesförderplan 40.000,00 1-254.02.03.001.001 freier Pos. 2.3.1.1 Förderung der allgemeinen Jugendverbände in Jugendarbeit Hamburg - AGfJ - Pos. 2.3.1.2 Förderung von Seminaren und e.V. (e.V.) Veranstaltungen Deutscher Förderung nach dem Landesförderplan 6.400,00 1-254.02.03.001.001 Pfadfinderbund Pos. 2.3.1.1 Förderung der allgemeinen Hamburg e.V. (e.V.) Jugendarbeit Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen Verband Christlicher Förderung nach dem Landesförderplan 50.000,00 1-254.02.03.001.001 Pfadfinderinnen und Pos. 2.3.1.1 Förderung der allgemeinen Pfadfinder in Jugendarbeit Hamburg e.V. (e.V.) Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen BilleVue GbR (GbR) Ausbildungsmesse Hamburger Osten 2018 8.000,00 3-25502001-021119.01
+2.413.546,06 3-25502001-021517.01
 
-DJO - Deutsche Förderung nach dem Landesförderplan 2.300,00 1-254.02.03.001.001 Jugend in Europa Pos. 2.3.1.1 Förderung der allgemeinen Landesverband Jugendarbeit Hamburg (Sonstige) Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen European Förderung des Europa JUGEND-Büros: 176.196,87 1-254.05.03.001.001 PLAYWORK Zuschuss zu den Personalkosten Association e.V. (e.V.) Vereinigung Förderung nach dem Landesförderplan 2.000,00 1-254.02.03.001.001 Hamburger Deutsch- Pos. 2.3.1.1 Förderung der allgemeinen Türken e.V. (e.V.) Jugendarbeit Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen
+Bildungswerk der Wirtschaft Hamburg e.V. (e.V.)
 
-Seite 25 von 42
+Intensivierung der Zusammenarbeit  
+zwischen Schulen und Unternehmen in  
+regionalen Arbeitskreisen  
+SCHULEWIRTSCHAFT für eine bessere  
+Berufs- und Studienorientierung
 
-Zuwendungen 2018
+48.172,00 3-25502001-021119.01
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Zentrale Information die Vermittlung des Zugangs von Kindern 250.000,00 3-25406001-000010.05 und Beratung für ohne Aufenthaltsstatus zu frühkindlichen Flüchtlinge gGmbH Bildungsangeboten in (gGmbH) Kindertageseinrichtungen in Hamburg Ausbildungsförderung Vermittlung in Einstiegsqualifizierungen für 177.073,95 3-25502001-021119.01 der Hamburger Ausbildungsplatzsuchende mit Wirtschaft e.V. (e.V.) Vermittlungshemmnissen zum Übergang in reguläre Ausbildungen bei Hamburger Unternehmen Deutscher Projekt "Patenschaften für unbegleitete 102.047,97 1-254.04.02.002.228 Kinderschutzbund minderjährige Flüchtlinge" Landesverband Hamburg e.V. (e.V.) SpielTiger e.V. Spielaktionen in Unterkünften der öffentlich- 184.994,13 1-254.02.01.001.001 Institut für Bewegung, rechtlichen Unterbringung - Erweiterung 2- Kultur und Spiel (e.V.)
+Mook wat-Verein zur Förderung der Selbsthilfe-e.V. (e.V.)
 
-Arbeitsgemeinschaft Puppenbau-Workshops in Hamburger 22.354,00 1-254.02.01.001.001 für das Puppenspiel Flüchtlingsunterkünften e.V. (e.V.)
+Tagwerk - Projekt "Arbeitsladen Dulsberg für Langzeitarbeitslose mit Vermittlungshemmnissen
 
-Katholische Katholische Familienbildung 2018 32.000,00 1-254.03.02.006.001 Familienbildungsstätt e Hamburg e.V. (e.V.)
+97.102,46 3-25502001-021615.01
 
-Johanniter-Unfall- den Betrieb eines halboffenen 39.690,00 2540699917 Hilfe e. V. (e.V.) Kinderbetreuungsangebotes (HOB) in der Erstaufnahmestelle Fiersbarg, Fiersbarg 8, 22397 Hamburg Deutsches Rotes den Betrieb eines halboffenen 19.845,00 2540699917 Kreuz, Kreisverband Kinderbetreuungsangebots (HOB) in der Hamburg-Harburg Erstaufnahmestelle Flagentwiet, Flagentwiet e.V. (e.V.) 44, 22457 Hamburg Malteser Hilfsdienst den Betrieb eines halboffenen 57.330,00 2540699917 gemeinnützige GmbH Kinderbetreuungsangebots (HOB) in der (gGmbH) Erstaufnahmestelle Neuer Höltigbaum, Neuer Höltigbaum 4, 22143 Hamburg Deutsches Rotes den Betrieb eines halboffenen 17.640,00 2540699917 Kreuz, Kreisverband Kinderbetreuungsangebots (HOB) in der Hamburg-Harburg Erstaufnahmestelle Harburger Poststraße, e.V. (e.V.) Harburger Poststraße 1, 21073 Hamburg
+Mook wat-Verein zur Förderung der Selbsthilfe-e.V. (e.V.)
 
-Deutsches Rotes den Betrieb eines halboffenen 3.675,00 2540699917 Kreuz, Kreisverband Kinderbetreuungsangebots (HOB) in der Hamburg-Harburg Erstaufnahmestelle Neuland I, e.V. (e.V.) Schlachthofstr. 20b, 21079 Hamburg ASB Flüchtlingshilfe den Betrieb eines halboffenen 88.200,00 2540699917 Hamburg GmbH Kinderbetreuungsangebots (HOB) in der (GmbH) Erstaufnahmestelle Schmiedekoppel, Schmiedekoppel 29/30, 22453 Hamburg
+Tagwerk - Projekt: "Mook wat PC"
+23.361,53 3-25502001-021615.01
 
-Seite 26 von 42
+Zentrale Information  
+und Beratung für  
+Flüchtlinge gGmbH  
+(gGmbH)
 
-Zuwendungen 2018
+Intergrationsförderung von Zugewanderten in Hamburg Förderung: Deutschkurse für Flüchtlinge
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Deutsches Rotes den Betrieb eines halboffenen 26.460,00 2540699917 Kreuz Hamburg Betreuungsangebotes (HOB) in der EA Altona und Mitte Schnackenburgsallee, Schnackenburgsallee gemeinnützige 83a, 22525 Hamburg Gesellschaft für Kinder, Soziales und Jugend KISO mbH (gGmbH) Deutsches Rotes den Betrieb eines halboffenen 35.280,00 2540699917 Kreuz, Kreisverband Kinderbetreuungsangebots (HOB) in der Hamburg-Harburg Erstaufnahmestelle Sportallee/Heselstücken e.V. (e.V.) Deutsches Rotes den Betrieb eines Elterncafés für 10.705,51 3-25406001-000010.05 Kreuz, Kreisverband Flüchtlingsfamilien in der Erstaufnahmestelle Hamburg-Harburg Flagentwiet, Flagentwiet 44, 22457 Hamburg e.V. (e.V.) Deutsches Rotes den Betrieb eines Elterncafés für 28.547,97 3-25406001-000010.05 Kreuz, Kreisverband Flüchtlingsfamilien in der Erstaufnahmestelle Hamburg-Harburg Harburger Poststraße, Harburger Poststr. 1, e.V. (e.V.) 21079 Hamburg
+1.459.398,40 1-255.03.01.002.001
 
-Deutsches Rotes den Betrieb eines Elterncafés für 2.379,00 3-25406001-000010.05 Kreuz, Kreisverband Flüchtlingsfamilien in der Erstaufnahmestelle Hamburg-Harburg Neuland I, Schlachthofstr. 20b, 21079 e.V. (e.V.) Hamburg ASB Flüchtlingshilfe den Betrieb eines Elterncafés für 29.234,35 3-25406001-000010.05 Hamburg GmbH Flüchtlingsfamilien in der Erstaufnahmestelle (GmbH) Schmiedekoppel, Schmiedekoppel29/30, 22453 Hamburg Deutsches Rotes den Betrieb eines Elterncafés für 14.273,99 3-25406001-000010.05 Kreuz, Kreisverband Flüchtlingsfamilien in der Hamburg-Harburg Erstaufnahmeeinrichtung für Asylbewerber e.V. (e.V.) in der Sportalle/Heselstücken
+Ev.-Luth.  
+Kirchenkreis  
+Hamburg-  
+West/Südholstein  
+(Öffentlich-rechtliche  
+Körperschaft)
 
-Deutsches Rotes die laufende Förderung des Elter-Kind- 58.769,18 3-25406001-000010.05  
-Kreuz Hamburg Zentrums in der Kita Albert-Einstein-Ring,  
-Altona und Mitte Albert-Einstein-Ring 1-3, 22761 Hamburg  
+die laufende Förderung des EKiZ in der Kita Maria Magdalena, Achtern Born 127, 22549 Hamburg
+
+77.012,17 3-25406001-000010.05
+
+Rudolf Ballin-Stiftung e.V. (e.V.)
+
+die laufende Förderung des EKiZ in der Kita Spielnetz, Bockhorster Weg 3, 21031 Hamburg
+
+61.609,73 3-25406001-000010.05
+
+Ev.-Luth.  
+Kirchenkreis  
+Hamburg-  
+West/Südholstein  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+die laufende Förderung des EKiZ in der Kita Sonnengarten, Bornheide 76, 22549 Hamburg
+
+61.609,73 3-25406001-000010.05
+
+Deutsches Rotes  
+Kreuz Hamburg  
+gemeinnützige  
+Gesellschaft zur  
+Förderung der Kinderund Jugendhilfe mbH  
+(gGmbH)
+
+die laufende Förderung des EKiZ in der Kita "Bluma Mekler", Brüder-Hornemann-Straße 3, 22457 Hamburg
+
+61.609,73 3-25406001-000010.05
+
+Seite 13 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Kinderwelt Hamburg e.V. (e.V.)
+
+die laufende Förderung des EKiZ in der Kita Rappelkiste, Hermann-Balk-Str. 47, 22147 Hamburg
+
+61.609,73 3-25406001-000010.05
+
+WABE e.V. (e.V.)  
+die laufende Förderung des EKiZ in der Kita  
+Neuer Mohnhof, Hinterm Graben 37, 21029  
+Hamburg
+
+61.609,73 3-25406001-000010.05
+
+Verein für  
+stadtteilbezogene  
+milieunahe  
+Erziehungshilfen e.V.  
+(e.V.)
+
+die Förderung des EKiZ in der Kita Schilleroper, Lerchenstraße 28, 22767 Hamburg
+
+51.341,44 1-254.06.01.002.001
+
+Verein für  
+stadtteilbezogene  
+milieunahe  
+Erziehungshilfen e.V.  
+(e.V.)
+
+die Förderung des EKiZ in der Kita Schilleroper, Lerchenstraße 28, 22767 Hamburg
+
+25.670,73 3-25406001-000010.05
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+die laufende Förderung des EKiZ in der Kita "DRK Kinderzentrum Neuenfelde", Liedendkummer Bogen 2, 21129 Hamburg
+
+61.609,73 3-25406001-000010.05
+
+Ev.-Luth.  
+Kirchenkreis  
+Hamburg-Ost  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+die laufende Förderung des EKiZ in der Kita Luther, Lühmannstr. 13a, 21075 Hamburg
+
+77.012,17 3-25406001-000010.05
+
+Ev.-Luth. Luther-  
+Kirchengemeinde  
+Hamburg-Bahrenfeld  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+die laufende Förderung des EKiZ in der Kita Luthergemeinde Hamburg-Bahrenfeld, Lyerstraße 25, 22761 Hamburg
+
+58.227,84 3-25406001-000010.05
+
+Ev.-Luth.  
+Kirchenkreis  
+Hamburg-Ost  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+die laufende Förderung des EKiZ in der Kita Emmaus, Mannesallee 13, 21107 Hamburg
+
+77.012,17 3-25406001-000010.05
+
+Evangelische Stiftung Alsterdorf (Stiftung des privaten Rechts)
+
+die laufende Förderung des EKiZ in der Kita Moorwisch, Moorwisch 2, 22547 Hamburg
+
+61.609,73 3-25406001-000010.05
+
+Rudolf Ballin-Stiftung e.V. (e.V.)
+
+die laufende Förderung des EKiZ in der Kita Kinderhaus Mümmelmaus, Paul-Klee- Straße 3, 22115 Hamburg
+
+61.609,73 3-25406001-000010.05
+
+Deutsches Rotes  
+Kreuz Hamburg  
+gemeinnützige  
+Gesellschaft zur  
+Förderung der Kinderund Jugendhilfe mbH  
+(gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Regenbogen, Röpraredder 70, 21031 Hamburg
+
+77.012,17 3-25406001-000010.05
+
+Seite 14 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Arbeiterwohlfahrt Landesverband Hamburg e.V. (e.V.)
+
+die laufende Förderung des EKiZ in der Kita Johanna-Kirchner-Haus, Rosa-Schapiere- Weg 8, 21035 Hamburg
+
+51.341,44 1-254.06.01.002.001
+
+Arbeiterwohlfahrt Landesverband Hamburg e.V. (e.V.)
+
+die laufende Förderung des EKiZ in der Kita Johanna-Kirchner-Haus, Rosa-Schapiere- Weg 8, 21035 Hamburg
+
+25.670,73 3-25406001-000010.05
+
+Ev.-Luth.  
+Kirchenkreis  
+Hamburg-  
+West/Südholstein  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+die laufende Förderung des EKiZ in der Kita Iserbrook, Schenefelder Landstr. 198, 22589 Hamburg
+
+61.609,73 3-25406001-000010.05
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+die laufende Förderung des EKiZ in der Kita Lelka Birnbaum, St. Pauli Hafenstraße 100, 20359 Hamburg
+
+77.012,17 3-25406001-000010.05
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+die laufende Förderung für das EKiZ in der Kita Stubbenhof, Dr. Ernst-Hinze-Haus, Stubbenhof 20, 21147 Hamburg
+
+77.012,17 3-25406001-000010.05
+
+Arbeiterwohlfahrt Landesverband Hamburg e.V. (e.V.)
+
+die laufende Förderung des EKiZ in der Kita Löwenzahn, Tegelsbarg 2h, 22399 Hamburg
+
+77.012,17 3-25406001-000010.05
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita An der Falkenbek, An der Falkenbek 4, 21149 Hamburg
+
+64.176,81
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita An der Falkenbek, An der Falkenbek 4, 21149 Hamburg
+
+12.835,36
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Bengelsdorfstraße, Bengelsdorfstraße 7, 22179 Hamburg
+
+51.341,44
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Bengelsdorfstraße, Bengelsdorfstraße 7, 22179 Hamburg
+
+10.268,29
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Dahlemer Ring, Dahlemer Ring 3, 22045 Hamburg
+
+64.176,81
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Dahlemer Ring, Dahlemer Ring 3, 22045 Hamburg
+
+12.835,36
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Dortmunder Straße, Dortmunder Straße 44, 22419 Hamburg
+
+51.341,44
+
+3-25406001-000010.05
+
+3-25406001-000010.05
+
+3-25406001-000010.05
+
+3-25406001-000010.05
+
+Seite 15 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Dortmunder Straße, Dortmunder Straße 44, 22419 Hamburg
+
+10.268,29
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Druckerstraße, Druckerstr. 19 22117 Hamburg
+
+51.341,44
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Druckerstraße, Druckerstr. 19 22117 Hamburg
+
+10.268,29
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Eddelbüttelstraße, Eddelbüttelstraße 9, 21149 Hamburg
+
+51.341,44
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Eddelbüttelstraße, Eddelbüttelstraße 9, 21149 Hamburg
+
+10.268,29
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Hartzloh, Hartzloh 50, 22307 Hamburg
+
+51.341,44
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Hartzloh, Hartzloh 50, 22307 Hamburg
+
+10.268,29
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Hermannstal, Hermannstal 88, 22119 Hamburg
+
+51.341,44
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Hermannstal, Hermannstal 88, 22119 Hamburg
+
+10.268,29
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Stadt Oase, Lohkampstraße 41, 22523 Hamburg
+
+51.341,44
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Stadt Oase, Lohkampstraße 41, 22523 Hamburg
+
+10.268,29
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Lothringer Straße, Lothringer Str. 18, 22049 Hamburg
+
+51.341,44
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Lothringer Straße, Lothringer Str. 18, 22049 Hamburg
+
+10.268,29
+
+3-25406001-000010.05
+
+3-25406001-000010.05
+
+3-25406001-000010.05
+
+3-25406001-000010.05
+
+3-25406001-000010.05
+
+3-25406001-000010.05
+
+Seite 16 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Osterbrook, Osterbrook 49, 20537 Hamburg
+
+48.523,20
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Osterbrook, Osterbrook 49, 20537 Hamburg
+
+9.704,64
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Elb-Kinder, Prassekstraße 3, 21109 Hamburg
+
+51.341,44
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Elb-Kinder, Prassekstraße 3, 21109 Hamburg
+
+10.268,29
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Sandfoort, Sandfoort 39, 22415 Hamburg
+
+48.523,20
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Sandfoort, Sandfoort 39, 22415 Hamburg
+
+9.704,64
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Scheplerstraße, Scheplerstraße 5, 22767 Hamburg
+
+51.341,44
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Scheplerstraße, Scheplerstraße 5, 22767 Hamburg
+
+10.268,29
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Spitzbergenweg, Spitzbergenweg 40, 22145 Hamburg
+
+48.523,20
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Spitzbergenweg, Spitzbergenweg 40, 22145 Hamburg
+
+9.704,64
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Steilshooper Allee, Steilshooper Allee 30, 22309 Hamburg
+
+51.341,44
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Steilshooper Allee, Steilshooper Allee 30, 22309 Hamburg
+
+10.268,29
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Uffelnsweg, Uffelnsweg 1, 20539 Hamburg
+
+51.341,44
+
+3-25406001-000010.05
+
+3-25406001-000010.05
+
+3-25406001-000010.05
+
+3-25406001-000010.05
+
+3-25406001-000010.05
+
+3-25406001-000010.05
+
+3-25406001-000010.05
+
+Seite 17 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Uffelnsweg, Uffelnsweg 1, 20539 Hamburg
+
+10.268,29
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Vizelinstraße, Vizelinstraße 48, 22529 Hamburg
+
+51.341,44
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Vizelinstraße, Vizelinstraße 48, 22529 Hamburg
+
+10.268,29
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Wagrierweg, Wagrierweg 16, 22455 Hamburg
+
+64.176,81
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Wagrierweg, Wagrierweg 16, 22455 Hamburg
+
+12.835,36
+
+ISIS-Beratungsstelle für Frauen und Mädchen e.V. (e.V.)
+
+Miete inkl. Betriebs- und Heizkosten für das Jahr 2017
+
+7.109,38 1-254.03.02.009.001
+
+Caritasverband für das Erzbistum Hamburg e.V. (e.V.)
+
+Zuschuss für den Betrieb der Krankenstube für Obdachlose
+
+367.948,71 1-253.03.01.001.001
+
+SCHURA - Rat der  
+islamischen  
+Gemeinschaften in  
+Hamburg e.V. (e.V.)
+
+Maßnahmen zur Vorbeugung und  
+Bekämpfung von religiös motiviertem  
+Extremismus und antimuslimischer  
+Diskriminierung.
+
+102.532,36 3-25503001-000211.01
+
+BI Bildung und  
+Integration Hamburg  
+Süd gGmbH  
+(gGmbH)
+
+Ergänzende Sprachförderung für besondere Lernbedarfe im Rahmen des EHAP- Projektes step.in
+
+11.000,00 1-255.03.01.002.001
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+den Betrieb eines halboffenen Kinderbetreuungsangebots (HOB) in der Erstaufnahmeeinrichtung Dratelnstraße 15
+
+54.243,00 2540699917
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+den Betrieb eines halboffenen Kinderbetreuungsangebots (HOB) in der Erstaufnahmeeinrichtung Flagentwiet
+
+67.987,50 2540699917
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+den Betrieb eines halboffenen Kinderbetreuungsangebots (HOB) in der Erstaufnahmeeinrichtung Geutensweg
+
+22.050,00 2540699917
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+den Betrieb eines halboffenen Kinderbetreuungsangebots (HOB) in der Erstaufnahmeeinrichtung Grellkamp
+
+27.342,00 2540699917
+
+3-25406001-000010.05
+
+1-254.06.01.002.001
+
+Seite 18 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+AWO Hamburg -  
+Gesellschaft für  
+Bildung, Integration  
+und Beratung gGmbH  
+(gGmbH)
+
+für den Betrieb eines Halboffenen  
+Kinderbetreuungsangebots (HOB) in der  
+Erstaufnahmeeinrichtung Hellmesberger  
+Weg 23
+
+24.696,00 2540699917
+
+Deutsches Rotes  
+Kreuz Hamburg  
+gemeinnützige  
+Gesellschaft zur  
+Förderung der Kinderund Jugendhilfe mbH  
+(gGmbH)
+
+den Betrieb eines Halboffenen Kinderbetreuungsangebots (HOB) in der Erstaufnahmeeinrichtung Holstenhofweg
+
+6.615,00 2540699917
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+den Betrieb eines halboffenen Kinderbetreuungsangebots (HOB) in der Erstaufnahmeeinrichtung Poststraße
+
+48.510,00 2540699917
+
+Malteser Hilfsdienst gemeinnützige GmbH (gGmbH)
+
+den Betrieb eines halboffenen  
+Kinderbetreuungsangebots (HOB) in der  
+Erstaufnahmeeinrichtung Rahlstedter  
+Grenzweg
+
+57.338,00 2540699917
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+den Betrieb eines halboffenen Kinderbetreuungsangebots (HOB) in der Erstaufnahmeeinrichtung Schlachthofstraße
+
+5.365,50 2540699917
+
+Deutsches Rotes  
+Kreuz Hamburg  
+Altona und Mitte  
 gemeinnützige  
 Gesellschaft für  
 Kinder, Soziales und  
 Jugend KISO mbH  
-(gGmbH)  
-Deutscher Vormundschaften für Flüchtlingskinder 161.885,92 1-254.03.02.006.001  
-Kinderschutzbund  
-Landesverband  
-Hamburg e.V. (e.V.)  
-Pfadfinder & Förderung nach dem Landesförderplan 4.000,00 1-254.02.03.001.001  
-Pfadfinderinnenbund Pos 2.3.2.1 Freizeiten  
-Nordlicht e.V. (PBNL)  
-(e.V.)  
-hamburger arbeit Gesundheitsförderung durch die hamburger 663.365,15 3-25502001-026678.01  
-GmbH (GmbH) arbeit GmbH
-
-Seite 27 von 42
-
-Zuwendungen 2018
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) hamburger arbeit Verwaltung-Intendanz 691.751,85 3-25502001-026678.01 GmbH (GmbH) Verwaltung der Gesellschaft zur Steuerung der Bereiche Navigator, Gesundheitsförderung und Schuldnerberatung hamburger arbeit Navigator 16a Flankierende Sozialberatung 1.672.723,05 3-25502001-026678.01 GmbH (GmbH) durch die hamburger arbeit GmbH
-
-Stiftung Deutsch- Zuwendung für Personalkosten 2018 58.689,45 1-254.05.03.001.001  
-Russischer  
-Jugendaustausch  
-Gemeinnützige  
-GmbH (gGmbH)  
-Stiftung Deutsch- Zuwendung für Personalkosten 2018 24.000,00  
-Russischer  
-Jugendaustausch  
-Gemeinnützige  
-GmbH (gGmbH)  
-Deutscher Projekt "Familienpaten" 50.375,41 1-254.03.02.006.001  
-Kinderschutzbund  
-Landesverband  
-Hamburg e.V. (e.V.)  
-Internationaler Förderung nach dem Landesförderplan 3.477,00 1-254.02.03.001.001  
-Jugendverband Pos 2.3.1.5 Bereitstellung von Räumen für  
-Europa- die Jugendarbeit  
-Lateinamerika e.V.  
-(e.V.)  
-Beratungs- und Psychosoziale Beratung von Frauen in 177.221,40 1-254.03.02.009.001  
-Informationsstelle von Krisensituationen  
-Frauen für Frauen -  
-Winterhude- e.V.  
-(e.V.)  
-Freunde der Kinder Beratungsstelle für Pflege- und 209.582,42 1-254.04.02.002.228  
-e.V. (e.V.) Adoptivpersonen sowie deren Kinder und  
-Herkunftsfamilien  
-Verein zur Förderung Spielaktionen in Unterkünften der öffentlich- 155.788,50 1-254.02.01.001.001  
-der Jugendarbeit e.V. rechtlichen Unterbringung (Erweiterung 2)  
-(e.V.)
-
-Verein der kulturellen Organisatorische Unterstützung der 50.540,52 1-254.02.03.001.001 medialen pädagogischen jugendverbandlichen Arbeit Kommunikationsstell mit jungen Geflüchteten im Mig-Zentrum e der Migration (Mig- Zentrum) e.V. (e.V.)
-
-Geschwister-Scholl- Zuwendung für Geschwister-Scholl-Stiftung ( 105.200,00 1-254.07.02.004.001 Stiftung (Stiftung des auch Gräberfürsorge ) privaten Rechts)
-
-Seite 28 von 42
-
-Zuwendungen 2018
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Arbeitsgemeinschaft Förderung nach dem Landesförderplan 126.200,00 1-254.02.03.001.001 Interkultureller Pos. 2.3.1.1 Förderung der allgemeinen Jugendverbände Jugendarbeit Hamburg e.V. Pos. 2.3.1.2 Förderung von Seminaren und (A.G.I.J. e.V.) (e.V.) Veranstaltungen sowie einer pädagogischen Fachkraft in der Beratungs- und Koordinierungsstelle Internationaler Förderung nach dem Landesförderplan 17.000,00 1-254.02.03.001.001 Jugendverband Pos. 2.3.1.1 Förderung der allgemeinen Europa- Jugendarbeit Lateinamerika e.V. Pos. 2.3.1.2 Förderung von Seminaren und (e.V.) Veranstaltungen Arbeit und Leben your way: make it in Hamburg 347.227,05 3-25502001-030010.01 DGB/VHS Hamburg e.V. (e.V.) Arbeit und Leben your way: make it in Hamburg 446.434,77 3-25502001-030055.01 DGB/VHS Hamburg e.V. (e.V.) SpielTiger e.V. Spielaktionen in Unterkünften der öffentlich- 176.002,04 1-254.02.01.001.001 Institut für Bewegung, rechtlichen Unterbringung - Erweiterung 1 - Kultur und Spiel (e.V.)
-
-ISIS-Beratungsstelle Miete inkl. Betriebs-u. Heizkosten 2018 7.630,85 1-254.03.02.009.001 für Frauen und Mädchen e.V. (e.V.)
-
-Deutscher Betrieb des Kinderschutzzentrums Hamburg 506.305,99 1-254.03.02.010.001 Kinderschutzbund Landesverband Hamburg e.V. (e.V.) Hanseatic Help e.V. Hamburger Integrationsfonds - Hanseatic 355.098,64 3-25503001-000100.01 (e.V.) Help e. V. als herausragendes Projekt für ehrenamtliche Flüchtlingshilfe bei der Etablierung von professionellen Strukturen unterstützen - Drs. 21/6441 Christliches Ausstiegsberatung im Nordverbund im 5.500,00 3-25503001-000214.01 Jugenddorfwerk Rahmen des Bundesprogramms Deutschlands „Demokratie leben“ gemeinnütziger e.V. (CJD) (e.V.) Christliches Ausstiegsberatung im Nordverbund im 1.375,00 3-25503001-000210.01 Jugenddorfwerk Rahmen des Bundesprogramms Deutschlands „Demokratie leben“ gemeinnütziger e.V. (CJD) (e.V.) BIFF - Psychosoziale Gruppenangebote für Ehrenamtliche und 15.713,69 1-254.03.02.009.001 Beratung und geflüchtete Frauen in der Flüchtlingshilfe Information für Frauen und Mädchen e.V. (e.V.)
-
-Caritasverband für Betrieb der Erziehnungsberatungsstellen 47.200,00 1-254.03.02.006.001 das Erzbistum des Caritasverbandes für Hamburg e.V. in Hamburg e.V. (e.V.) St. Georg, Billstedt und Rothenburgsort
-
-Seite 29 von 42
-
-Zuwendungen 2018
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-KOMCIWAN / Integratives Präventionsprojekt 3.200,00 1-254.02.03.001.001  
-Jugend- und Flüchtlingshilfe  
-Kulturverein aus  
-Kurdistan e.V. (e.V.)
-
-Hamburger Förderung nach dem Landesförderplan 250.000,00 1-254.02.03.001.001 Sportjugend im HSB Pos. 2.3.2.2 Förderung für junge Menschen (Sonstige) aus einkommensschwachen Familien
-
-DJO - Deutsche Förderung nach dem Landesförderplan 540,00 1-254.02.03.001.001 Jugend in Europa Pos 2.3.2.1 Freizeiten Landesverband Hamburg (Sonstige) Evangelische Jugend Förderung nach dem Landesförderplan 105.350,00 1-254.02.03.001.001 Hamburg (Sonstige) Pos. 2.3.2.2 Förderung für junge Menschen aus einkommensschwachen Familien
-
-Pfadfinder & Förderung nach dem Landesförderplan 2.355,00 1-254.02.03.001.001 Pfadfinderinnenbund Pos. 2.3.2.2 Förderung für junge Menschen Nordlicht e.V. (PBNL) aus einkommensschwachen Familien (e.V.) Jugendfeuerwehr Förderung nach dem Landesförderplan 55.000,00 1-254.02.03.001.001 Hamburg (Sonstige) Pos. 2.3.1.1 Förderung der allgemeinen Jugendarbeit Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen Freunde des Förderung demokratischer Kultur, 2.425,00 3-25503001-000216.01 Museums der Arbeit Vorbeugung und Bekämpfung von e.V. (e.V.) Rechtsextremismus "Hamburg-Stadt mit Courage" Projekt "Lesung und Konzert mit Esther Bejarano & Microphone Mafia" Vereinigung der Beratung und Unterstützung entsprechend 8.500,00 1-254.07.02.004.001 Verfolgten des den Erfordernissen der Naziregimes -VVN Entschädigungsgesetzgebung des Bundes, Bund der der Länder sowie der Vergabe von Antifaschisten e.V. Leistungen von Härtefonds und Stiftungen Land Hamburg (e.V.) für NS-Verfolgte
-
-Deutsches Rotes den Betrieb eines halboffenen 18.375,00 2540699917 Kreuz, Kreisverband Kinderbetreuungsangebots (HOB) in der Hamburg-Harburg Erstaufnahmestelle Vogt-Kölln-Straße, Vogte.V. (e.V.) Kölln-Straße 30a, 22527 Hamburg Junge Gemeinschaft Förderung nach dem Landesförderplan 4.016,00 1-254.02.03.001.001 e.V. (e.V.) Pos. 2.3.1.1 Förderung der allgemeinen Jugendarbeit Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen Bergedorfer für den Betrieb eines halboffenen 38.808,00 1-254.06.02.002.001 Völkerverständigung Kinderbetreuungsangebots (HOB) in der e.V. (e.V.) Wohnunterkunft (WUK) Curslacker Neuer Deich, Curslacker Neuer Deich 78+80, 21029 Hamburg
-
-Seite 30 von 42
-
-Zuwendungen 2018
-
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition  
-empfänger höhe  
-(in Euro)  
-Deutsches Rotes den Betrieb eines halboffenen 20.212,50 1-254.06.02.002.001  
-Kreuz Hamburg Kinderbetreuungsangebots (HOB) in der  
-gemeinnützige Wohnunterkunft (WUK) Große Horst, Große  
-Gesellschaft zur Horst 2, 22337 Hamburg  
-Förderung der Kinder-  
-und Jugendhilfe mbH  
 (gGmbH)
 
-Freundeskreis für den Betrieb eines halboffenen 17.640,00 1-254.06.02.002.001 Asylbewerber e.V. Kinderbetreuungsangebots (HOB) in der (e.V.) Wohnunterkunft Waldweg, Waldweg 185, 22359 Hamburg DIDF Jugend Förderung nach dem Landesförderplan 6.500,00 1-254.02.03.001.001 Hamburg e.V. (e.V.) Pos. 2.3.1.1 Förderung der allgemeinen Jugendarbeit Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen Arbeit und Leben Lehrstellenatlas Hamburger Osten 2019 10.000,00 3-25502001-021119.01 DGB/VHS Hamburg e.V. (e.V.) Landesjugendwerk Förderung nach dem Landesförderplan 8.000,00 1-254.02.03.001.001 der Arbeiterwohlfahrt Pos. 2.3.1.1 Förderung der allgemeinen des Jugendarbeit Landesverbandes der Pos. 2.3.1.2 Förderung von Seminaren und Arbeiterwohlfahrt Veranstaltungen Hamburg e.V. (e.V.)
+den Betrieb eines Halboffenen  
+Kinderbetreuungsangebots (HOB) in der  
+Erstaufnahmeeinrichtung  
+Schnackenburgsallee
 
-DIDF Jugend Förderung nach dem Landesförderplan 4.200,00 1-254.02.03.001.001 Hamburg e.V. (e.V.) Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit Deutsche Förderung nach dem Landesförderplan 5.555,00 1-254.02.03.001.001 Waldjugend Pos 2.3.1.5 Bereitstellung von Räumen für Landesverband die Jugendarbeit Hamburg e.V. (e.V.) Junge Förderung nach dem Landesförderplan 4.500,00 1-254.02.03.001.001 Briefmarkenfreunde Pos. 2.3.1.1 Förderung der allgemeinen Landesring Hamburg Jugendarbeit e.V. (e.V.) Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen Jugendgruppe des Förderung nach dem Landesförderplan 4.400,00 1-254.02.03.001.001 Bundes der Pos. 2.3.1.1 Förderung der allgemeinen Schwerhörigen e.V. Jugendarbeit Hamburg (Sonstige) Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen Deutscher Durchführung des Projektes "Patenschaften 55.803,59 1-254.03.02.006.001 Kinderschutzbund für geflüchtete Familien" Landesverband Hamburg e.V. (e.V.) Deutsche Förderung nach dem Landesförderplan 4.500,00 1-254.02.03.001.001 Waldjugend Pos. 2.3.1.1 Förderung der allgemeinen Landesverband Jugendarbeit Hamburg e.V. (e.V.) Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen
+49.980,00 2540699917
 
-Seite 31 von 42
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
 
-Zuwendungen 2018
+den Betrieb eines halboffenen  
+Kinderbetreuungsangebots (HOB) in der  
+Erstaufnahmeeinrichtung  
+Sportallee/Heselstücken
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) PMP Projekt die laufende Förderung des EKiZ in der Kita 58.769,38 3-25406001-000010.05 Management Partner Frosch, Am Gleisdreieck 19 a + b, 21033 GmbH (GmbH) Hamburg
+67.032,00 2540699917
 
-Arbeiter-Samariter- die Schaffung von Betreuungsplätzen für 339.293,46 2-25406001-00041.09 Bund Kinder im Alter von 0 Jahren bis zum Sozialeinrichtungen Schuleintritt im Rahmen des (Hamburg) GmbH Investitionsprogramms 2017-2020 in der (GmbH) Kita Burgwedel 3b in 22547 Hamburg Christliche Förderung nach dem Landesförderplan 1.100,00 1-254.02.03.001.001 Pfadfinderschaft Pos. 2.3.1.1 Förderung der allgemeinen Deutschlands e.V. Jugendarbeit (CPD) (e.V.) Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen Christliche Förderung nach dem Landesförderplan 500,00 1-254.02.03.001.001 Pfadfinderschaft Pos 2.3.2.1 Freizeiten Deutschlands e.V. (CPD) (e.V.) Hamburger Hamburger Jugendbegegnungs- und 200.000,00 1-254.02.02.001.001 Jugendbegegnungs- Bildungsstätte Puan Klent auf Sylt und Bildungsstätte Puan Klent auf Sylt (Stiftung des privaten Rechts) Sozialistische Jugend Integration von jungen Geflüchteten in der 15.204,00 1-254.02.03.001.001 Deutschlands "Die Jugendverbandsarbeit der SDJ- Die Falken Falken" (Sonstige) Hamburg
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
 
-Jugend der Förderung nach dem Landesförderplan 1.700,00 1-254.02.03.001.001 Deutschen Pos. 2.3.1.1 Förderung der allgemeinen Lebensrettungs- Jugendarbeit Gesellschaft Pos. 2.3.1.2 Förderung von Seminaren und Landesverband Veranstaltungen Hamburg e.V. (Sonstige) Jugendgruppe der Förderung nach dem Landesförderplan 2.502,00 1-254.02.03.001.001 Gemeinde Gottes Pos. 2.3.1.1 Förderung der allgemeinen e.V. (e.V.) Jugendarbeit Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen Alevitische Jugend Förderung nach dem Landesförderplan 10.968,00 1-254.02.03.001.001 Hamburg e.V. (e.V.) Pos. 2.3.1.1 Förderung der allgemeinen Jugendarbeit Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen Wichtel K.G. e.V. die Betreuung von Kindern in der Wichtel 62.400,00 1-254.06.02.002.001 (e.V.) KG im Weg beim Jäger 127 in 22453 Hamburg, im Rahmen einer Elterninitiative nach § 25 SGB VIII Bund Christlicher Förderung nach dem Landesförderplan 3.136,00 1-254.02.03.001.001 Gemeinde-Pfadfinder Pos. 2.3.1.1 Förderung der allgemeinen (CGP) (Sonstige) Jugendarbeit Pos. 2.3.1.2 Förderung von Seminaren und Veranstaltungen
+den Betrieb eines halboffenen Kinderbetreuungsangebots (HOB) in der Erstaufnahmeeinrichtung Vogt-Kölln-Straße
 
-Seite 32 von 42
+27.562,50 2540699917
 
-Zuwendungen 2018
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Bund Christlicher Förderung nach dem Landesförderplan 890,00 1-254.02.03.001.001 Gemeinde-Pfadfinder Pos. 2.3.2.2 Förderung für junge Menschen (CGP) (Sonstige) aus einkommensschwachen Familien
+halboffene Kindertagesbetreuungsangebote in Wohnunterkünften für Aussiedler und Asylbewerber, WUK Billbrookdeich
 
-Institut für Kofinanzierung des Modellprojektes 10.900,00 1-254.02.02.001.001 konstruktive "Deradikalisierung im Sozialraum" - im Konfliktaustragung Rahmen des Bundesprogramms und Mediation e.V. "Demokratie leben!" (e.V.) Bund Christlicher Förderung nach dem Landesförderplan 2.000,00 1-254.02.03.001.001 Gemeinde-Pfadfinder Pos 2.3.2.1 Freizeiten (CGP) (Sonstige)
+22.050,00 1-254.06.02.002.001
 
-Stadtkultur Hamburg Förderung demokratischer Kultur, 1.350,00 3-25503001-000216.01 e.V. (e.V.) Vorbeugung und Bekämpfung von Rechtsextremismus, Landesprogramm Hamburg-Stadt mit Courage Projekt: BarCamp #KULTURmachtAUF Hamburger Sicherstellung der Beratungs- und 25.000,00 1-254.06.03.002.001 Tagesmütter und - Vermittlungsangebote für Eltern und väter e.V. (e.V.) Tagespflegepersonen Diakonisches Werk die laufende Förderung des 58.251,00 1-254.06.02.002.001 Hamburg - Domkindergartens in den Räumen der Landesverband der Rindermarkthalle Inneren Mission e.V. (e.V.) Gehörlosenverband Vermittlung und Einsatz von 40.000,00 3-25406001-000010.05 Hamburg e.V. (e.V.) Gebärdendolmetschern in Kita- Einrichtungen und bei Hamburger Tagespflegepersonen (auch Großtagespflegestellen) Children for Hamburger Integrationsfonds - 128.268,72 3-25502001-000023.01 Tomorrow (Stiftung Traumatisierten Kindern und Jugendlichen des privaten Rechts) helfen - Stiftung Children for Tomorrow und Verein Ankerland e. V. unterstützen - Drs. 21/7992 Deutscher Durchführung des Projektes "rundum 15.287,19 1-254.03.02.006.001 Kinderschutzbund willkommen" Landesverband Hamburg e.V. (e.V.) Deutscher Durchführung des Projektes "rundum 10.000,00 2540399910 Kinderschutzbund willkommen" Landesverband Hamburg e.V. (e.V.) Villa Vivendi GbR die Schaffung von Betreuungsplätzen für 373.796,00 2-25406001-00041.10 (GbR) Kinder im Alter von 0 Jahren bis zum Schuleintritt im Rahmen des Investitionsprogramms 2017-2020 in der Kita Neanderstraße 21-23 in 20459 Hamburg SEGEMI - Seelische Hamburger Integrationsfonds – 90.000,00 3-25503001-000100.01 Gesundheit · Sprachmittlerpool zur Integration Migration und Flucht Geflüchteter mit Behinderungen in die e.V. (e.V.) ambulante Gesundheitsversorgung – Drs. 21/8893
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
 
-Seite 33 von 42
+halboffene Kindertagesbetreuungsangebote in Wohnunterkünften für Aussiedler und Asylbewerber, WUK Billbrookdeich
 
-Zuwendungen 2018
+26.460,00 2540699911
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Jugendfeuerwehr Förderung nach dem Landesförderplan 3.000,00 684.11 Hamburg (Sonstige) Pos. 2.3.2.2 Förderung für junge Menschen aus einkommensschwachen Familien
+Bergedorfer für Völkerverständigung e.V. (e.V.)
 
-Deutsche Förderung nach dem Landesförderplan 915,00 684.11 Waldjugend Pos. 2.3.2.2 Förderung für junge Menschen Landesverband aus einkommensschwachen Familien Hamburg e.V. (e.V.) "Mädchentreff", Gestaltung und Durchführung des 11.978,00 1-254.02.02.001.001 Verein zur Förderung 23.Hamburger MädCHENspektakels ohne feministischer Kostenübernahme der Miete-und stadtteilbezogener Leasingkosten für die Aktonsgeräte, Mädchenarbeit e.V. Instrumente und Transportkosten (e.V.)
+halboffene Kindertagesbetreuungsangebote in Wohnunterkünften für Aussiedler und Asylbewerber, WUK Curslacker Deich
 
-Landesjugendwerk Förderung nach dem Landesförderplan 18.500,00 1-254.02.03.001.001 der Arbeiterwohlfahrt Pos. 2.3.2.2 Förderung für junge Menschen des aus einkommensschwachen Familien Landesverbandes der Arbeiterwohlfahrt Hamburg e.V. (e.V.)
+12.936,00 1-254.06.02.002.001
 
-Jugendfeuerwehr Förderung nach dem Landesförderplan 2.000,00 1-254.02.03.001.001 Hamburg (Sonstige) Pos 2.3.2.1 Freizeiten Verband Christlicher Förderung nach dem Landesförderplan 5.000,00 1-254.02.03.001.001 Pfadfinderinnen und Pos 2.3.2.1 Freizeiten Pfadfinder in Hamburg e.V. (e.V.) Deutsche Förderung nach dem Landesförderplan 370,00 1-254.02.03.001.001 Waldjugend Pos 2.3.2.1 Freizeiten Landesverband Hamburg e.V. (e.V.) DIDF Jugend Förderung nach dem Landesförderplan 500,00 1-254.02.03.001.001 Hamburg e.V. (e.V.) Pos 2.3.2.1 Freizeiten Landesjugendwerk Förderung nach dem Landesförderplan 450,00 1-254.02.03.001.001 der Arbeiterwohlfahrt Pos 2.3.2.1 Freizeiten des Landesverbandes der Arbeiterwohlfahrt Hamburg e.V. (e.V.)
+Seite 19 von 54
 
-Osterkus(S) gGmbH Investitionskostenzuschuss zur 176.575,49 SoVermSchwbG (gGmbH) Modernisierung/Erweiterung in Verbindung mit dem Umzug von Druckerei und Küche
+Zuwendungen 2017
 
-Kidspace SA GmbH die Schaffung von Betreuungsplätzen für 407.000,00 2-25406001-00041.11 (GmbH) Kinder im Alter von 0 Jahren bis zum Schuleintritt im Rahmen des Investitionsprogramms 2017-2020 in der Kita "Kidspace", Paul-Dessau-Straße 3g in 22761 Hamburg Osterkus(S) gGmbH Zuwendung für die Ausstattung eines neuen 17.261,60 Bundesmittel (gGmbH) Arbeitsplatzes im Bereich Küche "AlleImBetrieb" AIB
+Zuwendungs-
 
-Seite 34 von 42
+empfänger
 
-Zuwendungen 2018
+Zuwendungszweck (kurz) Zuwendungs-
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Haus5 Service Zuwendung für die Modernisierungen 37.993,70 SoVermSchwbG gemeinnützige GmbH innerhalb des Tätigkeitsfeldes Reinigung (gGmbH) Institut für Nachfolgeprojekt "Junge Islam Konferenz 69.500,00 3-25503001-000211.01 konstruktive Hamburg - Volle Vielfalt voraus!" Konfliktaustragung Verstetigung und Erweiterung der und Mediation e.V. Maßnahmen zur Aktivierung junger (e.V.) Menschen in Hamburg Deutsches Rotes ein zusätzliches Angebot für 14.623,34 3-25406001-000010.05 Kreuz, Kreisverband Flüchtlingsfamilien durch das EKiZ Hamburg-Harburg Stubbenhof in der WUK Am Röhricht e.V. (e.V.) Elbkinder ein zusätzliches Angebot für 7.482,46 3-25406001-000010.05 Vereinigung Flüchtlingsfamilien durch das EKiZ Hamburger Kitas Druckerstraße für die Wohnunterkünfte gGmbH (gGmbH) Billstieg und Berzeliusstraße in den Räumen der Kita Berzeliusstraße Deutsches Rotes ein zusätzliches Angebot für 16.684,44 3-25406001-000010.05 Kreuz Hamburg Flüchtlingsfamilien durch das EKiZ gemeinnützige Röpraredder in der WUK Brookkehre Gesellschaft zur Förderung der Kinder- und Jugendhilfe mbH (gGmbH)
+höhe (in Euro)
 
-WABE e.V. (e.V.) ein zusätzliches Angebot für 14.964,60 3-25406001-000010.05 Flüchtlingsfamilien durch das EKiZ Hinerm Graben in der WUK Curslacker Neuer Deich
+Finanzposition
 
-Deutsches Rotes ein zusätzliches Angebot für 7.311,68 3-25406001-000010.05 Kreuz, Kreisverband Flüchtlingsfamilien durch das EKiZ Hamburg-Harburg Liedenkummer Bogen in der WUK e.V. (e.V.) Neuenfelder Fährdeich Elbkinder ein zusätzlliches Angebot für 11.123,19 3-25406001-000010.05 Vereinigung Flüchtlingsfamilien durch das EKiZ Hamburger Kitas Steilshooper Allee in der WUK Große Horst gGmbH (gGmbH) Ev.-Luth. Luther- ein zusätzliches Angebot für 6.235,35 3-25406001-000010.05 Kirchengemeinde Flüchtlingsfamilien durch das EKiZ Hamburg-Bahrenfeld Lyserstraße für die WUK Holstenkamp in (Öffentlich-rechtliche den Räumen der Ev. Körperschaft) Lutherkirchengemeinde, Lutherhöhe 22, 22761 Hamburg Verein für ein zusätzliches Angebot für 44.893,20 3-25406001-000010.05 stadtteilbezogene Flüchtlingsfamilien durch das EKiZ milieunahe Lerchenstraße für die WUK Erziehungshilfen e.V. Kirchenpauerstraße in den Räumlichkeiten (e.V.) Koreastraße 3, 20457 Hamburg
+Bergedorfer für Völkerverständigung e.V. (e.V.)
 
-Seite 35 von 42
+halboffene Kindertagesbetreuungsangebote in Wohnunterkünften für Aussiedler und Asylbewerber, WUK Curslacker Deich
 
-Zuwendungen 2018
+25.872,00 2540699911
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Ev.-Luth. ein zusätzliches Angebot für 14.964,90 3-25406001-000010.05 Kirchenkreis Flüchtlingsfamilien durch das EKiZ Achtern Hamburg- Born für die WUK Luruper Haupstraße in West/Südholstein den Räumlichkeiten des Ev. Luth. Kita (Öffentlich-rechtliche Werks Altona Blankenese, Binsenort 10, Körperschaft) 22547 Hamburg
+Freundeskreis für Asylbewerber e.V. (e.V.)
 
-Ev.-Luth. ein zusätzliches Angebot für 14.964,90 3-25406001-000010.05 Kirchenkreis Flüchtlingsfamilien durch das EKiZ Achtern Hamburg- Born für die WUK Notkestraße in den West/Südholstein Räumlichkeiten des Ev. Luth. Kita-Werk (Öffentlich-rechtliche Altona-Blankenese, Bei der Flottbeker Mühle Körperschaft) 25b, 22607 Hamburg
+für Halboffene Kinderbetreuungsangebote in Wohnunterkünften für Aussiedler und Asylbewerber, WUK Waldweg
 
-Ev.-Luth. ein zusätzliches Angebot für 14.964,90 3-25406001-000010.05 Kirchenkreis Flüchtlingsfamilien durch das EKiZ Hamburg- Schenefelder Landstr. für die WUK West/Südholstein Sieversstücken in den Räumlichkeiten des (Öffentlich-rechtliche Ev. Luth. Kita-Werk Altona Blankenese, Körperschaft) Sülldorfer Kirchenweg 187, 22589 Hamburg
+5.880,00 1-254.06.02.002.001
 
-Help Here e.V. (e.V.) Hamburger Integrationsfonds - Forum 28.892,01 3-25503001-000100.01 Flüchtlingshilfe weiter stärken - Drs. 21/6998
+Freundeskreis für Asylbewerber e.V. (e.V.)
 
-MitOst Hamburg - KJP-Antrag über Stiftung DRJA, LFP und 10.500,00 1-254.05.03.001.001 Verein für Sprach-, Senatskanzlei für trilaterale Kultur- und Jugendbegegnung "Critical kitchen 3.0 - Jugendaustausch in trilaterale Jugendbegegnung im Dialog über Europa e.V. (e.V.) globale Fairness auf dem Küchentisch" im August 2018 in Krasnojarsk
+für Halboffene Kinderbetreuungsangebote in Wohnunterkünften für Aussiedler und Asylbewerber, WUK Waldweg
 
-MitOst Hamburg - KJP-Antrag über Stiftung DRJA, LFP und 4.000,00 5-25405999-000001.09 Verein für Sprach-, Senatskanzlei für trilaterale Kultur- und Jugendbegegnung "Critical kitchen 3.0 - Jugendaustausch in trilaterale Jugendbegegnung im Dialog über Europa e.V. (e.V.) globale Fairness auf dem Küchentisch" im August 2018 in Krasnojarsk
+11.760,00 2540699911
 
-S.O.F. Save Our die Finanzierung von 12.338,03 3-25406001-000010.05 Future Umwelt- Unterstützungsangeboten für Kitas im Stiftung (Stiftung des Rahmen der Bildungsinitiative "Kita 21" privaten Rechts)
+Arbeit und Leben DGB/VHS Hamburg e.V. (e.V.)
 
-Allerleirauh e.V. (e.V.) Möbelausstattung für die neuen Räume 11.503,38 1-254.03.02.010.001 Hammer Steindamm 44 HKS Handelskammer Bewerbungstraining für Geflüchtete 82.195,11 3-25502001-000019.01 Hamburg Service GmbH (GmbH)
+Servicestelle Arbeitnehmerfreizügigkeit 739.482,05 3-25502001-030010.01
 
-DIDF Jugend Zuwendung nach dem Landesförderplan 3.500,00 1-254.02.03.001.001 Hamburg e.V. (e.V.) Pos. 2.3.4 Besondere Maßnahmen - Stadtteilfest gegen Rassismus in Altona
+Arbeit und Leben DGB/VHS Hamburg e.V. (e.V.)
 
-Seite 36 von 42
+Servicestelle Arbeitnehmerfreizügigkeit
+1.000.475,70 3-25502001-030055.01
 
-Zuwendungen 2018
+Handwerkskammer Hamburg (Öffentlichrechtliche Körperschaft)
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Hamburger Förderung demokratischer Kultur, 4.680,00 3-25503001-000216.01 Turngesellschaft Vorbeugung und Bekämpfung von Barmbeck-Uhlenhorst Rechtsextremismus "Courage im Sand" e.V. (e.V.)
+INa -Integrierte Nachwuchsgewinnung im Handwerk
 
-PASSAGE Tagwerk-Projekt Laurens-Janssen- 140.382,03 3-25502001-021615.01 gemeinnützige Haus/Kirchdorf-Süd mit Kinderbauernhof 3-25503001-000260.01 Gesellschaft für Arbeit und Integration mbH (gGmbH)
+1.139.308,36 3-25502001-030010.01
 
-European Förderung nach dem Landesförderplan 2.400,00 1-254.05.03.001.001 PLAYWORK "Familie und Jugend" Association e.V. Pos. 3.3 Kofinanzierung internationaler (e.V.) Jugendbegegnungen und internationaler Begegnungen von Fachkräften der Jugendhilfe von besonderem politischen Interesse ABED Deutschland Trilaterale Jugendbegegnung (in Hamburg) 16.228,60 1-254.05.03.001.001 e.V. (e.V.) Burkina Farso, FR und D im August 2018 gefördert durch das Deutsch-Französische Jugendwerk und Pos. 3.3 des Landesförderplan AWO Hamburg - den Betrieb und die Ausstattung eines 38.075,00 1-254.06.02.002.001 Gesellschaft für halboffenen Kinderbetreuungsangebots Bildung, Integration (HOB) in der Wohnunterkunft Suurheid, und Beratung gGmbH Suurheid 119, 22559 Hamburg (gGmbH) AWO Hamburg - für den Betrieb und die Ausstattung eines 21.489,52 3-25406001-000010.05 Gesellschaft für Elterncafés für Flüchtlingsfamilien in der Bildung, Integration WUK Suurheid, Suurheid 119, 22559 und Beratung gGmbH Hamburg (gGmbH) Deutscher Durchführung des Projektes 15.930,43 1-254.03.02.006.001 Kinderschutzbund "Integrationsbausteine für Eltern mit Landesverband Zuwanderungsgeschichte" (Erweiterung des Hamburg e.V. (e.V.) Elternkureses SESK) Verein für Allianz für Familien: Medienpädagogisches 4.200,00 1-254.03.02.008.001 stadtteilbezogene Radioprojekt in den Ferien milieunahe Erziehungshilfen e.V. (e.V.) MUT Antrag über BVA/KJP des Bundes Kinder- 8.000,00 1-254.05.03.001.001 Theater/Interkulturell und Jugendplan des Bundes längerfristige e.V. (e.V.) Förderung Bilaterale Jugendbegegnung mit Izmir (IN) Baugenossenschaft Allianz für Familien: Gärtnern im 10.400,00 1-254.03.02.008.001 freier Gewerkschafter Osterbrookviertel eG (e.G.)
+Handwerkskammer Hamburg (Öffentlichrechtliche Körperschaft)
 
-Seite 37 von 42
+INa -Integrierte Nachwuchsgewinnung im Handwerk
 
-Zuwendungen 2018
+1.258.569,80 3-25502001-030055.01
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Jugendarbeitskreis Antrag über die Senatskanzlei für eine 1.500,00 5-25405999-000001.10 Hamburg im Jugendbegegnung im Rahmen der Volksbund Deutsche Erinnerungskultur im Oktober 2018 (IN- Kriegsgräberfürsorge Maßnahme) e.V. (Sonstige)
-
-Evangelisch- Anschaffung technischer Ausstattung für 1.600,00 1-254.02.03.001.001  
-methodistische das Musikprojekt  
-Jugend in der Freien  
-und Hansestadt  
-Hamburg (Sonstige)  
-Kooperation Arbeiten, Tagwerk - La Cantina/Suppenküche 11.638,09 3-25502001-021615.01  
-Lernen und  
-Ausbildung e.V. (e.V.)
-
-Alleinerziehenden Anschaffung eines PC-Rechners und PC- 1.173,01 1-254.04.02.002.228  
-Treffpunkt und Bildschirm  
-Beratung e.V. (ATB)  
-(e.V.)  
-Kooperation Arbeiten, Tagwerkprojekt "Strandläufer" 80.297,64 3-25502001-021615.01  
-Lernen und  
-Ausbildung e.V. (e.V.)
-
-Verband Christlicher Anschaffung neuer Rechner und Zubehör für 5.550,03 1-254.02.03.001.001  
-Pfadfinderinnen und die Geschäftsstelle  
-Pfadfinder in  
-Hamburg e.V. (e.V.)  
-Hamburger Erneuerung und Erweiterung der IT- 14.800,00 1-254.02.03.001.001  
-Sportjugend im HSB Infrastruktur  
-(Sonstige)  
-Alleinerziehenden Renovierung des ersten Stocks der 7.582,77 1-254.04.02.002.228  
-Treffpunkt und Beratungsstelle, Güntherstraße 102  
-Beratung e.V. (ATB)  
-(e.V.)  
-"Dolle Deerns" Verein Anschaffung von 3 PC-Arbeitsplätzen und 2.533,00 1-254.03.02.010.001  
-zur Förderung Installation  
-feministischer  
-Mädchenarbeit e.V.  
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
 (e.V.)
 
-Freies Kinder- und KJP-Antrag über ConAct und Pos. 3.3 LFP 3.786,00 1-254.05.03.001.001  
-Stadtteilzentrum e.V. für deutsch-israelischen  
-(e.V.) Fachkräfteaustausch im Juni 2018 in Israel  
-(OUT-Maßnahme)  
-ALRAUNE gGmbH Beschäftigungsprojekte Steilshoop 10,00 3-25502001-021615.01  
+Home Support - Unterstützung für Dein Zuhause der Evangelischen Stiftung Bodelschwingh
+
+358.223,22 1-254.04.02.002.228
+
+Hamburg Innovation GmbH (GmbH)
+
+Pro Exzellenzia 4.0  
+1.624.520,19 3-25502001-030010.01  
+3-25502001-031150.01  
+Stiftung Berufliche  
+Bildung (Stiftung des  
+privaten Rechts)
+
+Servicestelle ZAQ 2017
+1.315.185,72 3-25502001-030010.01
+
+Stiftung Berufliche Bildung (Stiftung des privaten Rechts)
+
+Servicestelle ZAQ 2017
+2.400.000,00 3-25502001-030055.01
+
+Unternehmer ohne Grenzen e.V. (e.V.)
+
+Frühstart für Erfolg +  
+365.000,00 3-25502001-031135.01  
+5-25502999-030060.02  
+Unternehmer ohne  
+Grenzen e.V. (e.V.)
+
+Frühstart für Erfolg + 380.000,00 3-25502001-030010.01
+
+Unternehmer ohne Grenzen e.V. (e.V.)
+
+Frühstart für Erfolg +
+95.000,00 3-25502001-030060.01
+
+Unternehmer ohne Grenzen e.V. (e.V.)
+
+LokalChance + 878.851,85 3-25502001-031135.01
+
+Unternehmer ohne Grenzen e.V. (e.V.)
+
+LokalChance + 646.148,15 3-25502001-030010.01
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+den Betrieb eines Elterncafés für  
+Flüchtlingsfamilien in der  
+Erstaufnahmeeinrichtung (EA) für  
+Asylbewerber in der Dratelnstraße
+
+21.213,63 3-25406001-000010.05
+
+Seite 20 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+den Betrieb eines Elterncafés für  
+Flüchtlingsfamilien in der  
+Erstaufnahmeeinrichtung (EA) für  
+Asylbewerber im Flagentwiet
+
+28.284,87 3-25406001-000010.05
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+den Betrieb eines Elterncafés für  
+Flüchtlingsfamilien in der  
+Erstaufnahmeeinrichtung (EA) für  
+Asylbewerber im Geutensweg
+
+14.142,44 3-25406001-000010.05
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+den Betrieb eines Elterncafés für  
+Flüchtlingsfamilien in der  
+Erstaufnahmeeinrichtung (EA) für  
+Asylbewerber im Grellkamp
+
+14.142,44 3-25406001-000010.05
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+den Betrieb eines Elterncafés für  
+Flüchtlingsfamilien in der  
+Erstaufnahmeeinrichtung (EA) für  
+Asylbewerber in der Schlachthofstraße 3  
+(Neuland II)
+
+4.714,14 3-25406001-000010.05
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+den Betrieb eines Elterncafés für  
+Flüchtlingsfamilien in der  
+Erstaufnahmeeinrichtung (EA) für  
+Asylbewerber in der  
+Sportallee/Heselstücken
+
+28.284,87 3-25406001-000010.05
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+den Betrieb eines Elterncafés für  
+Flüchtlingsfamilien in der  
+Erstaufnahmeeinrichtung (EA) für  
+Asylbewerber in der Vogt-Kölln-Straße
+
+14.142,44 3-25406001-000010.05
+
+GSM Training & Integration GmbH (GmbH)
+
+CatchUp - Psychologische Unterstützung
+1.000.000,00 3-25502001-030010.01 3-25502001-030055.01
+
+GSM Training & Integration GmbH (GmbH)
+
+come in - wir bewegen was
+4.950.000,00 3-25502001-030010.01
+
+Hamburgische Pflegegesellschaft e.V. (HPG) (e.V.)
+
+4. Hamburger Pflegeoffensive in der Pflege
+43.949,71 5-25502999-030110.01
+
+Hamburgische Pflegegesellschaft e.V. (HPG) (e.V.)
+
+4. Hamburger Pflegeoffensive in der Pflege
+2.278.447,19 3-25502001-030010.01
+
+Hamburgische Pflegegesellschaft e.V. (HPG) (e.V.)
+
+4. Hamburger Pflegeoffensive in der Pflege
+50.000,00 3-25502001-030055.01
+
+Hamburgische Pflegegesellschaft e.V. (HPG) (e.V.)
+
+4. Hamburger Pflegeoffensive in der Pflege
+6.050,29 3-25502001-030110.01
+
+Der Paritätische Wohlfahrtsverband Hamburg e.V. (e.V.)
+
+Förderung der chancengerechten Teilhabe  
+von Menschen mit Migrationshintergrund  
+Projekt: Empowerment von Migrantinnen-  
+/Migrantenselbstorganisationen (MSO)
+
+99.430,52 1-255.03.01.003.001
+
+Johann Daniel  
+Lawaetz-Stiftung  
+(Stiftung des  
+öffentlichen Rechts)
+
+JUGEND AKTIV PLUS 2017
+3.723.643,02 5-25502999-030060.02
+
+Seite 21 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Johann Daniel  
+Lawaetz-Stiftung  
+(Stiftung des  
+öffentlichen Rechts)
+
+JUGEND AKTIV PLUS 2017
+2.637.498,20 3-25502001-030010.01
+
+Johann Daniel  
+Lawaetz-Stiftung  
+(Stiftung des  
+öffentlichen Rechts)
+
+JUGEND AKTIV PLUS 2017
+1.952.000,00 3-25502001-030055.01
+
+Johann Daniel  
+Lawaetz-Stiftung  
+(Stiftung des  
+öffentlichen Rechts)
+
+JUGEND AKTIV PLUS 2017
+1.212.356,98 3-25502001-030060.01
+
+Deutsche  
+Gesellschaft für  
+Internationale  
+Zusammenarbeit  
+(GIZ) GmbH (GmbH)
+
+Make it in Hamburg! 2017-2020 174.596,27 3-25502001-030055.01 3-25502001-030010.01
+
+Justizbehörde (Öffentlich-rechtliche Körperschaft)
+
+DurchDas - Aktive Eingliederung von Frauen
+
+698.718,60 3-25502001-030010.01
+
+Justizbehörde (Öffentlich-rechtliche Körperschaft)
+
+Leinen los 664.000,00 3-25502001-030010.01
+
+Landesverein der Sinti in Hamburg e.V. (e.V.)
+
+Qualifizierungen und berufliche Einstiege für Sinti und Roma 2017
+
+446.443,90 3-25502001-030010.01
+
+Landesverein der Sinti in Hamburg e.V. (e.V.)
+
+Qualifizierungen und berufliche Einstiege für Sinti und Roma 2017
+
+371.968,37 3-25502001-030055.01
+
+Arbeit und Leben DGB/VHS Hamburg e.V. (e.V.)
+
+Wege ins Ausland für alle 2017  
+223.500,00 5-25502999-030120.02  
+5-25502999-031140.01  
+5-25502999-030110.02  
+Arbeit und Leben  
+DGB/VHS Hamburg  
+e.V. (e.V.)
+
+Wege ins Ausland für alle 2017
+1.017.144,97 3-25502001-030010.01
+
+Arbeit und Leben DGB/VHS Hamburg e.V. (e.V.)
+
+Wege ins Ausland für alle 2017
+17.788,44 3-25502001-030055.01
+
+Arbeit und Leben DGB/VHS Hamburg e.V. (e.V.)
+
+Wege ins Ausland für alle 2017
+30.000,00 3-25502001-030110.01
+
+Arbeit und Leben DGB/VHS Hamburg e.V. (e.V.)
+
+Wege ins Ausland für alle 2017
+42.500,00 3-25502001-030120.01
+
+Arbeit und Leben DGB/VHS Hamburg e.V. (e.V.)
+
+Wege ins Ausland für alle 2017 435.600,00 3-25502001-031125.01
+
+Arbeit und Leben DGB/VHS Hamburg e.V. (e.V.)
+
+Wege ins Ausland für alle 2017
+2.000,00 3-25502001-031140.01
+
+Seite 22 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+verikom - Verbund für  
+interkulturelle  
+Kommunikation und  
+Bildung e.V. (e.V.)
+
+2ter Aufbruch ! Coaching zu Bildung und Beruf A4_3
+
+172.745,00 3-25503001-000301.01 5-25502999-030050.01
+
+verikom - Verbund für  
+interkulturelle  
+Kommunikation und  
+Bildung e.V. (e.V.)
+
+2ter Aufbruch ! Coaching zu Bildung und Beruf A4_3
+
+230.245,00 3-25502001-030010.01
+
+verikom - Verbund für  
+interkulturelle  
+Kommunikation und  
+Bildung e.V. (e.V.)
+
+2ter Aufbruch ! Coaching zu Bildung und Beruf A4_3
+
+57.500,00 3-25502001-030050.01
+
+verikom - Verbund für  
+interkulturelle  
+Kommunikation und  
+Bildung e.V. (e.V.)
+
+Ergänzende Sprachförderung für besondere Lernbedarfe im Rahmen des EHAP- Projektes step.in
+
+16.500,00 1-255.03.01.002.001
+
+Hamburger  
+Gebärdensprachjuge  
+ndclub "Nordlicht"  
+e.V. (e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit
+
+1.404,00 1-254.02.03.001.001
+
+Ausbildungsförderung der Hamburger Wirtschaft e.V. (e.V.)
+
+Vermittlung in Einstiegsqualifizierung (EQ)  
+zum Übergang in duale  
+Ausbildungsverhältnisse bei Hamburger  
+Unternehmen
+
+183.522,89 3-25502001-021119.01
+
+Liberale Jüdische Gemeinde Hamburg e.V. (e.V.)
+
+Kinder- und Jugendgruppen Keshet- Regenbogen
+
+13.008,02 1-254.02.01.001.001
+
+Alsterstürmer GmbH (GmbH)
+
+die Schaffung von Krippenplätzen in der  
+Kita Bramfelder Straße 16, 22305 Hamburg  
+im Rahmen des Zusatzprogramms zum  
+Krippenausbau 2015 - 2018
+
+2.882,00 2-25406001-00002.26
+
+Alsterstürmer GmbH (GmbH)
+
+die Schaffung von Krippenplätzen in der  
+Kita Bramfelder Straße 16, 22305 Hamburg  
+im Rahmen des Zusatzprogramms zum  
+Krippenausbau 2015 - 2018
+
+54.756,00 2-25406001-76145.17
+
+Hamburger  
+Volkshochschule  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+Selbstlernzentren in den RISE-Gebieten Essener Str. und Hohenhorst
+
+483.327,88 3-25502001-030010.01  
+3-25502001-030120.01  
+3-25502001-031125.01  
+3-25502001-031135.01  
+3-25502001-031210.01  
+3-25502001-031220.01  
+5-25502999-030120.02  
+5-25502999-031210.01  
+5-25502999-031220.01  
+einfal GmbH (GmbH) Jobclub Soloturn Plus - Coaching für
+
+Erziehende
+
+1.240.356,92 3-25502001-030010.01  
+3-25502001-030055.01  
+3-25502001-031135.01  
+Beschäftigung und  
+Bildung e.V. (e.V.)
+
+Regionale Qualifizierung für Inhaber/innen und Beschäftigte von KMU 2017 (ReQ 2020)
+
+677.148,15 3-25502001-031135.01
+
+Beschäftigung und Bildung e.V. (e.V.)
+
+Regionale Qualifizierung für Inhaber/innen und Beschäftigte von KMU 2017 (ReQ 2020)
+
+497.851,85 3-25502001-030010.01
+
+Seite 23 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+ALRAUNE gGmbH  
 Gemeinnützige  
 Gesellschaft zur  
 Förderung der  
@@ -1944,57 +2896,8645 @@ Lebensqualität
 benachteiligter  
 Menschen (gGmbH)
 
-Seite 38 von 42
+Tagwerk Alraune Steilshoop 416.329,12
 
-Zuwendungen 2018
+ALRAUNE gGmbH  
+Gemeinnützige  
+Gesellschaft zur  
+Förderung der  
+Teilhabechancen und  
+Verbesserung der  
+Lebensqualität  
+benachteiligter  
+Menschen (gGmbH)
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Arbeitsgemeinschaft Antrag über BVA / KJP des Bundes, 9.232,00 1-254.05.03.001.001 freier längerfristige Förderung und Senatskanzlei Jugendverbände in im Rahmen der Städtepartnerschaft Hamburg - AGfJ - Bilateraler Fachkräfteaustausch mit e.V. (e.V.) Nicaragua León (IN) 14.04.-27.04.2018 in Hamburg Arbeitsgemeinschaft Antrag über BVA / KJP des Bundes, 3.000,00 5-25405999-000001.06 freier längerfristige Förderung und Senatskanzlei Jugendverbände in im Rahmen der Städtepartnerschaft Hamburg - AGfJ - Bilateraler Fachkräfteaustausch mit e.V. (e.V.) Nicaragua León (IN) 14.04.-27.04.2018 in Hamburg Jugendarbeitskreis Antrag über die Senatskanzlei für eine 1.500,00 5-25405999-000001.02 Hamburg im Veranstaltungsreihe im Rahmen der Volksbund Deutsche Erinnerungskultur von April bis Juni 2018 (IN- Kriegsgräberfürsorge Maßnahme) e.V. (Sonstige)
+Tagwerk Alraune Steilshoop
+90.070,57
 
-CISV Germany, Förderung nach dem Landesförderplan 4.950,00 1-254.05.03.001.001 Group Hamburg Pos. 3.1 Allgemeine internationale Deutsche Jugendarbeit und Jugendbegegnung Gesellschaft für Internationales Summercamp in Hamburg internationale Kinder- vom 20.07.2018 bis 11.08.2018 und Jugendbegegnungen e.V. (e.V.) Jakobi, Amal Förderung demokratischer Kultur, 4.711,10 3-25503001-000216.01 Vorbeugung und Bekämpfung von Rechtsextremismus Landesprogramm "Hamburg - Stadt mit Courage", Projekt: Auftritt des Medina Mädchenchors im Rahmen des Ramadanpavillons 2018 Nowak, Maren Förderung demokratischer Kultur, 5.000,00 3-25503001-000216.01 Vorbeugung und Bekämpfung von Rechtsextremismus, Landesprogramm "Hamburg - Stadt mit Courage", Projekt: "Barmbek gegen Rassismus" Hamburger Fuerpolizeiliche Anpassungsmaßnahmen in 3.976,00 1-254.02.03.001.001 Gebärdensprachjuge den Jugendräumen Bernadottestraße 126 - ndclub "Nordlicht" 128 e.V. (e.V.) Arbeitsgemeinschaft Förderung nach dem Landesförderplan 10.020,00 1-254.05.03.001.001 freier Pos. 2.3.3 Internationale Jugendarbeit und Jugendverbände in Begegnung mit Leon/Nicaragua und Hamburg - AGfJ - Hamburg in Hamburg e.V. (e.V.) Arbeitsgemeinschaft Förderung nach dem Landesförderplan 3.000,00 5-25405999-000001.06 freier Pos. 2.3.3 Internationale Jugendarbeit und Jugendverbände in Begegnung mit Leon/Nicaragua und Hamburg - AGfJ - Hamburg in Hamburg e.V. (e.V.)
+ARINET Arbeits- Integrations-Netzwerk GmbH (GmbH)
 
-Seite 39 von 42
+Aktionsbündnis Inklusive Arbeit Hamburg 655.861,77 3-25502001-030010.01 3-25502001-030055.01
 
-Zuwendungen 2018
+PASSAGE  
+gemeinnützige  
+Gesellschaft für  
+Arbeit und Integration  
+mbH (gGmbH)
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Internationale Internationales Jugendworkcamp in der 2.998,68 1-254.02.03.001.001 Jugendgemeinschaft Fischbeker Heide vom 04.-25.08.2018 gem. sdienste - Pos. 2.3.2.4 LFP Landesverein Hamburg-Schleswig- Holstein e.V. (e.V.) Vaeter e.V. (e.V.) Allianz für Familien: Wochenend-Familien- 2.652,20 1-254.03.02.008.001 Workshop "Viele Stimmen- ein Klang"
+Tagwerk-Projekt "Laurens-Janssen- Haus/Kirchdorf-Süd"
 
-Jugendrotkreuz im Antrag über die Senatskanzlei für eine 2.000,00 5-25405999-000001.04 DRK-Landesverband Jugendbegegnung mit Shanghai im Juli Hamburg e.V. 2018 (OUT-Maßnahme) (Sonstige) "Das Haus"- Bilaterale Jugendbegegnung mit Südkorea 14.862,00 1-254.05.03.001.001 Förderverein Haus (OUT) 29.09.-14.10.2018 in Cheongju, der Jugend Südkorea KJP und KoFi für Steilshoop e.V. (e.V.) Einkommensschwache in der Pos. 3.4 LFP
+244.712,32 3-25502001-021615.01
 
-MUT Förderung nach dem Landesförderplan 5.376,00 1-254.05.03.001.001 Theater/Interkulturell Pos. 3.1 Allgemeine internationale e.V. (e.V.) Jugendarbeit und Jugendbegegnung, Hamburg - Chicago in Chicago in der Zeit vom 14.07.2018 bis 24.07.2018 plus Förderung der Senatskanzlei im Rahmen der Städtepartnerschaft Chica...
+Ev.-Luth.  
+Kirchenkreis  
+Hamburg-Ost  
+(Öffentlich-rechtliche  
+Körperschaft)
 
-MUT Förderung nach dem Landesförderplan 1.400,00 5-25405999-000001.01 Theater/Interkulturell Pos. 3.1 Allgemeine internationale e.V. (e.V.) Jugendarbeit und Jugendbegegnung, Hamburg - Chicago in Chicago in der Zeit vom 14.07.2018 bis 24.07.2018 plus Förderung der Senatskanzlei im Rahmen der Städtepartnerschaft Chica...
+Beteiligung an den Kosten für die  
+Projektkoordination und der  
+Öffentlichkeitsarbeit für den 8. AKTIVOLI -  
+Marktplatz Gute Geschäfte Hamburg 2017
 
-Arbeitsgemeinschaft Beschaffung neuer Tische und Stühle für die 10.500,00 1-254.02.03.001.001 Interkultureller Vereinsräume Jugendverbände Hamburg e.V. (A.G.I.J. e.V.) (e.V.) Abenteuerspielplatz Förderung nach dem Landesförderplan 2.688,27 1-254.05.03.001.001 am Brunnenhof e.V. Pos. 3.1 Allgemeine internationale (e.V.) Jugendarbeit und Jugendbegegnung Kinderbetreuungszent KJP-Antrag Trinationale Begegnung 9.945,00 1-254.05.03.001.001 rum Bunte Biene "Sprachspiele Deutsch-Russisch" über gemeinnützige UG Stiftung DRJA im Juli/August 2018 in (haftungsbeschränkt) Cuxhaven (UG - Unternehmergesellsc haft) Freies Kinder- und KJP Antrag über BVA/KJP des Bundes, 2.610,00 1-254.05.03.001.001 Stadtteilzentrum e.V. Sonderprogramm China und Senatskanzlei (e.V.) im Rahmen der Städtepartnerschaft mit Shanghai für bilateralen Fachkräfteaustausch im Juni/Juli 2018 in Shanghai (OUT)
+7.000,00 1-255.03.02.001.001
 
-Seite 40 von 42
+Kooperation Arbeiten, Lernen und Ausbildung e.V. (e.V.)
 
-Zuwendungen 2018
+Tagwerk Projekt "Strandläufer" 128.991,24 3-25502001-021615.01
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Freies Kinder- und KJP Antrag über BVA/KJP des Bundes, 1.000,00 5-25405999-000001.04 Stadtteilzentrum e.V. Sonderprogramm China und Senatskanzlei (e.V.) im Rahmen der Städtepartnerschaft mit Shanghai für bilateralen Fachkräfteaustausch im Juni/Juli 2018 in Shanghai (OUT) Mouse House GmbH die Schaffung von Betreuungsplätzen für 514.800,00 2-25406001-00041.26 & Co. KG (GmbH & Kinder im Alter von 0 Jahren bis zum Co KG) Schuleintritt im Rahmen des Investitionsprogramms 2017-2020 in der Kita "Mouse House", Kätnermoor 10a in 22175 Hamburg Ev.-luth. Förderung demokratischer Kultur, 5.000,00 3-25503001-000216.01 Kirchengemeinde St. Vorbeugung und Bekämpfung von Georg-Borgfelde Rechtsextremismus und zum Konzept des (Öffentlich-rechtliche Senats "Effektive Maßnahmen gegen Körperschaft) gewaltbereiten Salafismus und religiösen Extremismus ergreifen" Interkulturelle Stadtteilfreizeit St. Georg 2018
+Koordinierungsstelle  
+Weiterbildung und  
+Beschäftigung e.V.  
+(KWB) (e.V.)
 
-Landesjugendwerk Ersatzbeschaffung Computer 2.311,20 1-254.02.03.001.001  
+Weiterführung des Demographie Netzwerk Hamburg (ddn Hamburg)
+
+205.843,28 3-25502001-000016.01
+
+Universitätsklinikum  
+Hamburg-Eppendorf  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+Förderung des Kinder-Kompetenz- Zentrums im UKE
+
+343.636,87 1-254.04.02.002.228
+
+Deutscher  
+Kinderschutzbund  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Projekt "Patenschaften für unbegleitete minderjährige Flüchtlinge"
+
+14.322,00 1-254.04.02.002.228
+
+Deutscher  
+Kinderschutzbund  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Projekt "Patenschaften für unbegleitete minderjährige Flüchtlinge"
+
+77.661,25 1-254.04.02.002.228
+
+3-25502001-021615.01
+
+Seite 24 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Stiftung Deutsch-  
+Russischer  
+Jugendaustausch  
+Gemeinnützige  
+GmbH (gGmbH)
+
+Zuwendung für Personalkosten
+79.946,46 1-254.05.03.001.001
+
+Deutsches Rotes  
+Kreuz Hamburg  
+gemeinnützige  
+Gesellschaft zur  
+Förderung der Kinderund Jugendhilfe mbH  
+(gGmbH)
+
+ein zusätzliches Angebot für Flüchtlingsfamilien durch das EKiZ Regenbogen in der WUK Brookkehre
+
+32.336,91 3-25406001-000010.05
+
+Zentrale Information  
+und Beratung für  
+Flüchtlinge gGmbH  
+(gGmbH)
+
+die Vermittlung des Zugangs von Kindern  
+ohne Aufenthaltsstatus zu frühkindlichen  
+Bildungsangeboten in  
+Kindertageseinrichtungen in Hamburg
+
+250.000,00 3-25406001-000010.05
+
+Geschwister-Scholl- Stiftung (Stiftung des privaten Rechts)
+
+Zuwendung für Geschwister-Scholl-Stiftung ( auch Gräberfürsorge )
+
+105.200,00 1-254.07.02.004.001
+
+Deutscher  
+Kinderschutzbund  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Betrieb des Kinderschutzzentrums Hamburg 442.218,92 1-254.03.02.010.001
+
+Deutsches Rotes  
+Kreuz Hamburg  
+gemeinnützige  
+Gesellschaft zur  
+Förderung der Kinderund Jugendhilfe mbH  
+(gGmbH)
+
+den Betrieb eines Halboffenen Kinderbetreuungsangebots (HOB) in der Wohnunterkunft Albert-Einstein-Ring
+
+7.350,00 1-254.06.02.002.001
+
+Deutsches Rotes  
+Kreuz Hamburg  
+gemeinnützige  
+Gesellschaft zur  
+Förderung der Kinderund Jugendhilfe mbH  
+(gGmbH)
+
+den Betrieb eines Halboffenen Kinderbetreuungsangebots (HOB) in der Wohnunterkunft Albert-Einstein-Ring
+
+29.400,00 2540699911
+
+Deutsches Rotes  
+Kreuz Hamburg  
+Altona und Mitte  
+gemeinnützige  
+Gesellschaft für  
+Kinder, Soziales und  
+Jugend KISO mbH  
+(gGmbH)
+
+den Betrieb eines Eltercafés für  
+Flüchtlingsfamilien in der  
+Erstaufnahmeeinrichtung (EA) für  
+Asylbewerber in der Schnackenburgsallee
+
+9.428,30 3-25406001-000010.05
+
+Lawaetz-Service GmbH (GmbH)
+
+Wohnraumversorgung und -sicherung von  
+jungen Familien, jungen Erwachsenen und  
+Einzelpersonen mit besonderem  
+Unterstützungsbedarf
+
+133.000,00 1-254.03.02.008.001
+
+Seite 25 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Lawaetz-Service GmbH (GmbH)
+
+Wohnraumversorgung und -sicherung von  
+jungen Familien, jungen Erwachsenen und  
+Einzelpersonen mit besonderem  
+Unterstützungsbedarf
+
+20.283,10 1-254.04.02.002.228
+
+hamburger arbeit GmbH (GmbH)
+
+Verwaltung-Intendanz 712.094,27 3-25502001-026678.01
+
+hamburger arbeit GmbH (GmbH)
+
+Navigator 16 a flankierende Sozial- und Gesundheitsberatung
+
+2.416.949,42 3-25502001-026678.01
+
+Pfadfinder &  
+Pfadfinderinnenbund  
+Nordlicht e.V. (PBNL)  
+(e.V.)
+
+Beschafffung von diversen Ausstattungsgegenständen für das Pfadfinderheim Volksdorf
+
+459,53 1-254.02.03.001.001
+
+Deutscher  
+Kinderschutzbund  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Neuanschaffung/Ergänzung des Mobiliars und Anschaffung einer Telefonanlage
+
+5.755,20 1-254.03.02.006.001
+
+Internationale  
+Jugendgemeinschaft  
+sdienste -  
+Landesverein  
+Hamburg-Schleswig-  
+Holstein e.V. (e.V.)
+
+Zuwendung nach dem Landesförderplan Pos. 2.3.2.4 Förderung gemeinschaftsdienlicher Freizeiten
+
+2.852,00 1-254.02.03.001.001
+
+Alevitische Gemeinde Hamburg e.V. (e.V.)
+
+Maßnahme zur Vorbeugung und  
+Bekämpfung von religiös motiviertem  
+Extremismus und anti-muslimischer  
+Diskriminierung
+
+42.191,00 3-25503001-000211.01
+
+BÜRGER HELFEN BÜRGERN e.V. (e.V.)
+
+Erwerbslose auf dem Weg in ein  
+ehrenamtliches Engagement beraten und  
+unterstützen (im Rahmen der  
+Engagementstrategie 2020)
+
+14.700,00 1-255.03.02.001.001
+
+Ambulanzzentrum des UKE GmbH (GmbH)
+
+Dolmetscherleistungen im Rahmen  
+ambulanter Psychotherapien für  
+Flüchtlingskinder und -jugendliche in der  
+Flüchtlingsambulanz des  
+Ambulanzzentrums des UKE
+
+10.000,00 1-253.02.04.003.001
+
+Ambulanzzentrum des UKE GmbH (GmbH)
+
+Dolmetscherleistungen im Rahmen  
+ambulanter Psychotherapien für  
+Flüchtlingskinder und -jugendliche in der  
+Flüchtlingsambulanz des  
+Ambulanzzentrums des UKE
+
+90.000,00 2530299911
+
+Beratungs- und  
+Informationsstelle von  
+Frauen für Frauen -  
+Winterhude- e.V.  
+(e.V.)
+
+Proket Biff Harburg - Erweiterungsprojekt -  
+Förderung der Integration von geflüchteten  
+Frauen unter traumasensiblen  
+Gesichtspunkten
+
+21.294,21 1-254.03.02.009.001
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+ein zusätzliches Angebot für  
+Flüchtlingsfamilien durch das EKiZ Kita  
+Neuenfelde in der WUK Neuenfelder  
+Fährdeich 80
+
+10.778,97 3-25406001-000010.05
+
+jhj Hamburg e.V. (e.V.)
+
+Gesellschaftsfähig 345.894,04 1-254.02.02.001.001
+
+BASIS & WOGE e.V. (e.V.)
+
+Betrieb der Anlaufstelle KIDS 792.988,29 1-254.02.02.001.001
+
+Seite 26 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Ev.-Luth. Luther-  
+Kirchengemeinde  
+Hamburg-Bahrenfeld  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+ein zusätzliches Angebot für Flüchtlingsfamilien durch das EKiZ Lyserstraße in der WUK Holstenkamp 117
+
+14.488,59 3-25406001-000010.05
+
+Bündnis der  
+Islamischen  
+Gemeinden in  
+Norddeutschland e.V.  
+(e.V.)
+
+Think Social Now 2.0 - Verantwortung übernehmen im Internet
+
+32.500,00 3-25503001-000211.01
+
+AWO Hamburg -  
+Gesellschaft für  
+Bildung, Integration  
+und Beratung gGmbH  
+(gGmbH)
+
+den Betrieb eines Elterncafés für  
+Flüchtlingsfamilien in der  
+Erstaufnahmeeinrichtung (EA) für  
+Asylbewerber Hellmesberger Weg 23
+
+21.213,63 3-25406001-000010.05
+
+Trockendock e.V. (e.V.)
+
+Betrieb des Projektes "Lass 1000 Steine rollen" und der Geschäftstelle
+
+421.810,52 1-254.02.02.001.001
+
+Zornrot e.V. (e.V.) Beratungstelle für von sexualisierter Gewalt betroffene Mädchen und Jungen
+
+142.790,16 1-254.03.02.010.001
+
+Lawaetz-wohnen & leben gGmbH (gGmbH)
+
+Jugend & Wohnen 638.005,60 1-254.04.02.002.228
+
+BASIS & WOGE e.V. (e.V.)
+
+Betrieb der anonymen Schutzeinrichtung "Zuflucht" für akut gefährdete Mädchen und Frauen in interkulturellen Konflikten
+
+398.627,18 1-254.04.02.002.228
+
+Johann Daniel  
+Lawaetz-Stiftung  
+(Stiftung des  
+öffentlichen Rechts)
+
+Projektberatung, -entwicklung und - betreuung - Wohnen für Familien in Hamburg
+
+397.000,00 1-254.03.02.008.001
+
+BASIS & WOGE e.V. (e.V.)
+
+Betrieb einer Notschlafstelle für minderjährige Mädchen und Jungen im Harvighorster Redder 64 c
+
+91.135,36 1-254.02.02.001.001
+
+Johann Daniel  
+Lawaetz-Stiftung  
+(Stiftung des  
+öffentlichen Rechts)
+
+Personal- und Sachkosten für die Geschäftsführung
+
+178.000,00 1-254.03.02.008.001
+
+BASIS & WOGE e.V. (e.V.)
+
+Überregionale Straßensozialarbeit für junge Menschen ohne geringe regionale Bezüge - Projekt "Sidewalx"
+
+220.956,06 1-254.02.01.001.001
+
+PASSAGE  
+gemeinnützige  
+Gesellschaft für  
+Arbeit und Integration  
+mbH (gGmbH)
+
+Soziale Integration suchtgefährdeter Menschen
+
+216.000,00 5-25502999-031240.01 3-25502001-031135.01
+
+PASSAGE  
+gemeinnützige  
+Gesellschaft für  
+Arbeit und Integration  
+mbH (gGmbH)
+
+Soziale Integration suchtgefährdeter Menschen
+
+527.000,00 3-25502001-030010.01
+
+Seite 27 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+PASSAGE  
+gemeinnützige  
+Gesellschaft für  
+Arbeit und Integration  
+mbH (gGmbH)
+
+Soziale Integration suchtgefährdeter Menschen
+
+364.000,00 3-25502001-030055.01
+
+PASSAGE  
+gemeinnützige  
+Gesellschaft für  
+Arbeit und Integration  
+mbH (gGmbH)
+
+Soziale Integration suchtgefährdeter Menschen
+
+32.000,00 3-25502001-031240.01
+
+Koordinierungsstelle  
+Weiterbildung und  
+Beschäftigung e.V.  
+(KWB) (e.V.)
+
+Worklife – Wiedereinstieg mit Zukunft 511.999,99 3-25502001-030010.01
+
+Koordinierungsstelle  
+Weiterbildung und  
+Beschäftigung e.V.  
+(KWB) (e.V.)
+
+Worklife – Wiedereinstieg mit Zukunft 600.000,00 3-25502001-030055.01
+
+Koordinierungsstelle  
+Weiterbildung und  
+Beschäftigung e.V.  
+(KWB) (e.V.)
+
+Netz 3L - Hamburg bildet 114.167,96 5-25502999-030120.02
+
+Koordinierungsstelle  
+Weiterbildung und  
+Beschäftigung e.V.  
+(KWB) (e.V.)
+
+Netz 3L - Hamburg bildet 200.000,00 3-25502001-030010.01
+
+Koordinierungsstelle  
+Weiterbildung und  
+Beschäftigung e.V.  
+(KWB) (e.V.)
+
+Netz 3L - Hamburg bildet
+85.832,04 3-25502001-030120.01
+
+PASSAGE  
+gemeinnützige  
+Gesellschaft für  
+Arbeit und Integration  
+mbH (gGmbH)
+
+Chancen am FLUCHTOrt Hamburg Plus
+76.281,41 5-25502999-030120.02
+
+PASSAGE  
+gemeinnützige  
+Gesellschaft für  
+Arbeit und Integration  
+mbH (gGmbH)
+
+Chancen am FLUCHTOrt Hamburg Plus 757.735,98 3-25502001-030010.01
+
+PASSAGE  
+gemeinnützige  
+Gesellschaft für  
+Arbeit und Integration  
+mbH (gGmbH)
+
+Chancen am FLUCHTOrt Hamburg Plus 850.000,00 3-25502001-030055.01
+
+Seite 28 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+PASSAGE  
+gemeinnützige  
+Gesellschaft für  
+Arbeit und Integration  
+mbH (gGmbH)
+
+Chancen am FLUCHTOrt Hamburg Plus
+9.372,44 3-25502001-030120.01
+
+PASSAGE  
+gemeinnützige  
+Gesellschaft für  
+Arbeit und Integration  
+mbH (gGmbH)
+
+Chancen am FLUCHTOrt Hamburg Plus
+15.350,41 3-25502001-031125.01
+
+Koordinierungsstelle  
+Weiterbildung und  
+Beschäftigung e.V.  
+(KWB) (e.V.)
+
+TALENTS Hamburg – Zeig, was in dir steckt!
+
+494.999,99 3-25502001-030010.01
+
+Koordinierungsstelle  
+Weiterbildung und  
+Beschäftigung e.V.  
+(KWB) (e.V.)
+
+TALENTS Hamburg – Zeig, was in dir steckt!
+
+450.000,00 3-25502001-030055.01
+
+BASIS & WOGE e.V. (e.V.)
+
+Betrieb der Übernachtungsstellen St. Georgstraße 15 und 17
+
+272.169,07 1-254.02.02.001.001
+
+Amnesty for Women, Städtegruppe Hamburg e.V. (e.V.)
+
+Betrieb einer Beratungsstelle für Migrantinnen
+
+158.172,97 1-254.03.02.009.001
+
+zwei P PLAN:PERSONAL GmbH (GmbH)
+
+Hamburger Weiterbildungsbonus 2017- 2020
+5.894.294,54 3-25502001-030010.01
+
+Integrationshilfen e.V. (e.V.)
+
+RAN – Resozialisierung, Arbeit und Nachsorge
+
+441.233,63 5-25502999-030060.03  
+5-25502999-031080.01  
+5-25502999-031190.01  
+Integrationshilfen e.V.  
+(e.V.)
+
+RAN – Resozialisierung, Arbeit und Nachsorge
+
+1.295.000,00 3-25502001-030010.01
+
+Integrationshilfen e.V. (e.V.)
+
+RAN – Resozialisierung, Arbeit und Nachsorge
+
+194.000,00 3-25502001-030055.01
+
+Integrationshilfen e.V. (e.V.)
+
+RAN – Resozialisierung, Arbeit und Nachsorge
+
+23.945,55 3-25502001-030060.01
+
+Integrationshilfen e.V. (e.V.)
+
+RAN – Resozialisierung, Arbeit und Nachsorge
+
+380.820,82 3-25502001-031190.01
+
+Trockendock e.V. (e.V.)
+
+Spielaktionen in Unterkünften der öffentlichrechtlichen Unterbringung
+
+182.528,34 1-254.02.01.001.001
+
+Verband binationaler  
+Familien und  
+Partnerschaften, iaf  
+(e.V.)
+
+Beratung von binationaler/bikultureller Paare und Familien
+
+112.808,70 1-254.04.02.002.228
+
+SterniPark GmbH (GmbH)
+
+die laufende Förderung des EKiZ im Kinderhaus Berner Heerweg, Berner Heerweg 162, 22159 Hamburg
+
+78.227,84 3-25406001-000010.05
+
+Zündfunke e.V. (e.V.) Betrieb einer Beratungsstelle gegen
+
+sexuellen Missbrauch an Kindern und Frauen
+
+216.442,95 1-254.03.02.010.001
+
+Seite 29 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Islamisches  
+Wissenschafts- und  
+Bildungsinstitut e.V.  
+(e.V.)
+
+Al Wasat - Die Mitte im Rahmen des Bundesprogramms "Demokratie leben"
+
+32.500,00 3-25503001-000211.01
+
+BASIS & WOGE e.V. (e.V.)
+
+Partizipationsprojekt "Ständige Vertretung der Straßenkinder-HH"/Projekt Momo
+
+33.725,87 1-254.02.02.001.001
+
+Arbeit und Leben DGB/VHS Hamburg e.V. (e.V.)
+
+Lehrstellenatlas Hamburger Osten 2018
+10.000,00 3-25502001-021119.01
+
+Gehörlosenverband Hamburg e.V. (e.V.)
+
+den Einsatz von Gebärdendolmetschern in  
+Kita-Einrichtungen und bei Hamburger  
+Tagespflegepersonen (auch  
+Großtagespflegestellen)
+
+40.000,00 3-25406001-000010.05
+
+Türkische Gemeinde  
+in Hamburg und  
+Umgebung (TGH)  
+e.V. (e.V.)
+
+"Neue Wege" - Prävention von  
+Antisemitismus bei Jugendlichen mit  
+Migrationshintergrund im Rahmen des  
+Bundesprogramms "Demokratie leben"
+
+31.417,61 3-25503001-000210.01
+
+Trockendock e.V. (e.V.)
+
+Spielaktionen in Unterkünften der öffentlichrechtlichen Unterbringung (Erweiterung 1)
+
+29.855,19 1-254.02.01.001.001
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+den Betrieb eines Elterncafés für  
+Flüchtlingsfamilien in der  
+Erstaufnahmeeinrichtung (EA) für  
+Asylbewerber in der Schlachthofstraße 20
+
+28.284,87 3-25406001-000010.05
+
+Handwerkskammer Hamburg (Öffentlichrechtliche Körperschaft)
+
+Projekt "Inklusions-Lotse im Hamburger Handwerk"
+
+208.372,00 SoVermSchwbG
+
+Freunde der Kinder e.V. (e.V.)
+
+Beratungsstelle für Pflege- und Adoptivpersonen sowie deren Kinder und Herkunftsfamilien
+
+194.847,45 1-254.04.02.002.228
+
+STATTBAU  
+HAMBURG  
+Stadtentwicklungsges  
+ellschaft mbH  
+(GmbH)
+
+Projektberatung und -entwicklung Wohnen für Familienin Hamburg
+
+165.000,00 1-254.03.02.008.001
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+ein zusätzliches Angebot für  
+Flüchtlingsfamilien durch das EKiZ  
+Druckerstraße für die WUK Billstieg und  
+Berzeliusstraße in den Räumen der Kita  
+Berzeliusstraße
+
+12.073,82
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+ein zusätzliches Angebot für  
+Flüchtlingsfamilien durch das EKiZ  
+Druckerstraße für die WUK Billstieg und  
+Berzeliusstraße in den Räumen der Kita  
+Berzeliusstraße
+
+2.414,77
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+ein zusätzliches Angebot für Flüchtlingsfamilien durch das EKiZ Sandfoort in der WUK Jugendparkweg
+
+12.073,82 3-25406001-000010.05
+
+3-25406001-000010.05
+
+Seite 30 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+ein zusätzliches Angebot für Flüchtlingsfamilien durch das EKiZ Sandfoort in der WUK Jugendparkweg
+
+2.414,77
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+ein zusätzliches Angebot für Flüchtlingsfamilien durch das EKiZ Steilshooper Allee in der WUK Eschenweg
+
+3.592,99
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+ein zusätzliches Angebot für Flüchtlingsfamilien durch das EKiZ Steilshooper Allee in der WUK Eschenweg
+
+1.796,50
+
+Plus Punkt Personaldienstleistun gen GmbH (GmbH)
+
+PlusPunkt W.I.R. - Berufsbezogene  
+Feststellung von Eingliederungspotenzialen  
+und ab 01.08.2017: "W.I.R" -  
+Unterstützungsleistungen für akademisch  
+vorgebildete Geflüchtete mit  
+Arbeitsmarktperspektive für die Integration  
+in den Arbeitsmarkt
+
+264.730,89 3-25502001-000017.01
+
+Arbeitsgemeinschaft für das Puppenspiel e.V. (e.V.)
+
+Puppenbau-Workshops in Hamburger Flüchtlingsunterkünften
+
+24.920,00 1-254.02.01.001.001
+
+Ev.-Luth.  
+Kirchenkreis  
+Hamburg-  
+West/Südholstein  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+ein zusätzliches Angebot für  
+Flüchtlingsfamilien durch das EKiZ  
+Schenefelder Landstraße für die WUK  
+Sieversstücken 3 in den Räumen der Kita  
+Sülldorfer Kirchenweg 187
+
+14.488,59 3-25406001-000010.05
+
+Vereinigung der  
+Verfolgten des  
+Naziregimes -VVN  
+Bund der  
+Antifaschisten e.V.  
+Land Hamburg (e.V.)
+
+Beratung und Unterstützung entsprechend  
+den Erfordernissen der  
+Entschädigungsgesetzgebung des Bundes,  
+der Länder sowie der Vergabe von  
+Leistungen von Härtefonds und Stiftungen  
+für NS-Verfolgte
+
+8.500,00 1-254.07.02.004.001
+
+Deutscher  
+Kinderschutzbund  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Durchführung des Projektes "rundum willkommen"
+
+10.286,48 1-254.03.02.006.001
+
+Deutscher  
+Kinderschutzbund  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Durchführung des Projektes "rundum willkommen"
+
+10.000,00 2540399910
+
+Arbeitsgemeinschaft  
+ehemals Verfolgter  
+Sozialdemokraten  
+(Sonstige)
+
+Betreuung, Beratung, Kontaktpflege von  
+während der Zeit des Nationalsozialismus  
+und des Kommunismus (SBZ/DDR)  
+verfolgten Sozialdemokraten
+
+9.050,00 1-254.07.02.004.001
+
+ab ausblick hamburg gmbh (GmbH)
+
+Bereitstellung bezahlbaren Wohnraums für Auszubildende aus anderen (Bundes-) Ländern
+
+108.808,70 3-25502001-000013.01
+
+3-25406001-000010.05
+
+Seite 31 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Vereinigung Hamburger Deutsch- Türken e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+2.000,00 1-254.02.03.001.001
+
+Deutsches Rotes  
+Kreuz Hamburg  
+gemeinnützige  
+Gesellschaft zur  
+Förderung der Kinderund Jugendhilfe mbH  
+(gGmbH)
+
+Projekt Hippy 210.018,87 1-254.03.02.006.001
+
+SMAG-Soziales Miteinander Aktiv Gestalten e.V. (e.V.)
+
+Förderung demokratischer Kultur,  
+Vorbeugung und Bekämpfung von  
+Rechtsextremismus, Landesprogramm  
+Hamburg - Stadt mit Courage; Projekt:  
+"Politkneipe"
+
+2.990,00 3-25503001-000210.01
+
+Hamburger Tagesmütter und - väter e.V. (e.V.)
+
+Beratungs- und Vermittlungsangebote für Eltern, Tagesmütter- und väter
+
+25.000,00 1-254.06.03.002.001
+
+Jugendarbeitskreis  
+Hamburg im  
+Volksbund Deutsche  
+Kriegsgräberfürsorge  
+e.V. (Sonstige)
+
+Hamburg Memory: Was bedeutet Hamburg für mich?
+
+24.883,15 1-254.02.03.001.001
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+die laufende Förderung des  
+Domkindergartens in den Räumen  
+Rindermarkthalle, Neuer Kamp 31, 20359  
+Hamburg
+
+58.546,16 1-254.06.02.002.001
+
+i-Punkt Skateland e.V. (e.V.)
+
+Betrieb der Skaterhalle
+69.632,86 1-254.02.01.001.001
+
+Ev.-Luth.  
+Kirchenkreis  
+Hamburg-Ost  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+"Gemeinsam kochen-gemeinsam essengemeinsam Zeit verbringen". Ein Kochprojekt für zugewanderte und einheimische Familien mit Kindern.
+
+3.051,20 1-254.03.02.006.001
+
+HELM AG (AG) die Betreuung von Kindern im Betriebskindergarten
+
+20.700,00 1-254.06.02.002.001
+
+Ev.-Luth.  
+Kirchenkreis  
+Hamburg-Ost  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+Familienfördernde Angebote in der Erstaufnahme Schlachthofstraße durch die Evangelische Familienbildung Harburg
+
+3.907,80 1-254.03.02.006.001
+
+Die Mission.  
+Künstlerische  
+Maßnahmen gegen  
+die Kälte e.V. (e.V.)
+
+Miet- und Raumkostenzuschuss für eine Tagesaufenthaltsstätte für Obdachlose
+
+6.900,00 1-253.03.01.001.001
+
+Seite 32 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+ASB Flüchtlingshilfe Hamburg GmbH (GmbH)
+
+den Betrieb eines halboffenen Kinderbetreuungsangebots (HOB) in der Erstaufnahmeeinrichtung Schmiedekoppel
+
+98.200,00 2540699917
+
+ASB Flüchtlingshilfe Hamburg GmbH (GmbH)
+
+den Betrieb eines halboffenen Kinderbetreuungsangebots (HOB) in der Erstaufnahmestelle Papenreye
+
+27.050,00 2540699917
+
+Deutscher  
+Kinderschutzbund  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Patenschaften für geflüchtete Familien
+50.106,63 1-254.03.02.006.001
+
+Verein zur Förderung der Jugendarbeit e.V. (e.V.)
+
+Spielaktionen in Unterkünften der öffentlichrechtlichen Unterbringung ( Erweiterung 2 )
+
+103.187,98 1-254.02.01.001.001
+
+Kulturherz e.V. (e.V.)  
+Förderung demokratischer Kultur,  
+Vorbeugung und Bekämpfung von  
+Rechtsextremismus Landesprogramm  
+"Hamburg - Stadt mit Courage" Projekt:  
+Lese- und Schreib-Werkstatt
+
+2.250,00 3-25503001-000210.01
+
+SIMCONSULT Sprachendienst GmbH (GmbH)
+
+Anpassung der Übersetzung der TN- Fragebögen
+
+380,80 3-25502001-000012.01
+
+M.U.T. - Musik und Toleranz e.V. (e.V.)
+
+Förderung demokratischer Kultur,  
+Vorbeugung und Bekämpfung von  
+Rechtsextremismus "PARTY -  
+PARTIZIPATION - keine Chance dem  
+Rechtsradikalismus und Extremismus"
+
+5.000,00 3-25503001-000210.01
+
+Arbeitskreis Musik in  
+der Jugend -  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Musikkurse für Kinder, Jugendliche und Familien
+
+3.000,00 1-254.02.01.001.001
+
+PASSAGE  
+gemeinnützige  
+Gesellschaft für  
+Arbeit und Integration  
+mbH (gGmbH)
+
+W.I.R - Arbeitstelle "FLUCHT-BILDUNG- ARBEIT"
+
+79.502,73 3-25502001-000017.01
+
+Berufsfortbildungswer  
+k Gemeinnützige  
+Bildungseinrichtung  
+des Deutschen  
+Gewerkschaftsbunde  
+s Gesellschaft mit  
+beschränkter Haftung  
+(bfw) (gGmbH)
+
+Pflegeberufe als Chance – Qualifizierung für Geflüchtete
+
+183.720,43 3-25502001-030010.01
+
+Koordinierungsstelle  
+Weiterbildung und  
+Beschäftigung e.V.  
+(KWB) (e.V.)
+
+ServiceCenter Teilzeitausbildung 115.098,25 5-25502999-030120.02
+
+Koordinierungsstelle  
+Weiterbildung und  
+Beschäftigung e.V.  
+(KWB) (e.V.)
+
+ServiceCenter Teilzeitausbildung 200.000,00 3-25502001-030010.01
+
+Seite 33 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Koordinierungsstelle  
+Weiterbildung und  
+Beschäftigung e.V.  
+(KWB) (e.V.)
+
+ServiceCenter Teilzeitausbildung
+45.000,00 3-25502001-030055.01
+
+Koordinierungsstelle  
+Weiterbildung und  
+Beschäftigung e.V.  
+(KWB) (e.V.)
+
+ServiceCenter Teilzeitausbildung
+84.901,75 3-25502001-030120.01
+
+SterniPark GmbH (GmbH)
+
+die Anlauffinanzierung und die laufende  
+Förderung des EKiZ in der Kita Kinderhaus  
+Hafen City, Am Hannoverschen Bahnhof  
+25, 20457 Hamburg
+
+73.375,30 3-25406001-000010.05
+
+Jungenarbeit Hamburg e.V. (e.V.)
+
+Umsetzung eines präventiven Projekts zum  
+Schutz von Mädchen und Frauen in  
+Hamburg - ComMIT!ment - Engagiert für  
+Achtsamkeit, Vielfalt und Würde.
+
+237.401,28 1-255.03.04.004.001
+
+Deutsches Rotes  
+Kreuz Hamburg  
+Altona und Mitte  
+gemeinnützige  
+Gesellschaft für  
+Kinder, Soziales und  
+Jugend KISO mbH  
+(gGmbH)
+
+die Ausstattung un den Betrieb eines  
+halboffenen Kinderbetreuungsangebotes  
+(HOB) in der Erstaufnahmestelle  
+Kaltenkirchener Platz 1-2, 22769 Hamburg
+
+42.425,00 2540699917
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+den Betrieb eins halboffenen  
+Kinderbetreuungsangebotes (HOB) in der  
+Erstaufnahmeeinrichtung Schlachthofstraße  
+20 (Neuland I)
+
+53.728,50 2540699917
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+die Einrichtung und den Betrieb eines  
+Elterncafés für Flüchtlingsfamilien in der  
+Erstaufnahmeeinrichtung für Asylbewerber  
+in der Poststraße
+
+26.927,77 3-25406001-000010.05
+
+Hamburger Institut für  
+Berufliche Bildung  
+(HIBB) (Öffentlichrechtliche  
+Körperschaft)
+
+Ausbildungsvorbereitung für Migranten dual & inklusiv
+
+1.390.000,00 3-25502001-030010.01
+
+KOMCIWAN /  
+Jugend- und  
+Kulturverein aus  
+Kurdistan e.V. (e.V.)
+
+Präventionsprojekt Flüchtlingshilfe
+3.000,00 1-254.02.03.001.001
+
+Universitätsklinikum  
+Hamburg-Eppendorf  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+Integration Geflüchtete in die Patientenversorgung
+
+540.892,37 3-25502001-030010.01
+
+Vereinigung  
+Pestalozzi  
+gemeinnützige GmbH  
+(gGmbH)
+
+Legato - Angehörigen- und Ausstiegsberatungsstelle für religiös begründeten Extremismus.
+
+560.635,95 3-25503001-000211.01
+
+Seite 34 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+HKS Handelskammer Hamburg Service GmbH (GmbH)
+
+Organisation und Durchführung von Bewerbungstrainings für Geflüchtete
+
+75.035,72 3-25502001-000019.01
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+Kooperation zur Unterstützung von EU- Bürgern/innen beim Zugang zur Krankenversicherung
+
+30.000,00 1-253.02.03.003.001
+
+Arbeitsgemeinschaft selbstständiger Migranten e.V. (e.V.)
+
+Tronc-Mittel 2014/15 Drucksache 21/7033
+3.600,00 3-25502001-000010.01
+
+Duenbostel, Jürgen  
+Förderung demokratischer Kultur,  
+Vorbeugung und Bekämpfung von  
+Rechtsextremismus, Landesprogramm  
+Hamburg-Stadt mit Courage, Projekt:  
+Fotodokumentation und -ausstellung  
+"Solidarität mit chilenischen Flüchtlingen"
+
+4.000,00 3-25503001-000210.01
+
+AQtivus  
+Servicegesellschaft  
+für Aktivität auf dem  
+Arbeitsmarkt gGmbH  
+(gGmbH)
+
+Chancengenerator- Begleitung junger Geflüchteter U25
+
+1.779.161,74 3-25502001-030010.01
+
+AQtivus  
+Servicegesellschaft  
+für Aktivität auf dem  
+Arbeitsmarkt gGmbH  
+(gGmbH)
+
+Chancengenerator- Begleitung junger Geflüchteter U25
+
+1.779.161,75 3-25502001-030055.01
+
+Trägerinnenverbund  
+FLAKS e.V. (Frauen  
+Lernen Arbeit Kontakt  
+Service) (e.V.)
+
+Erste Schritte für geflüchtete Frauen in den Arbeitsmarkt
+
+119.918,60 3-25502001-000017.01
+
+Ev.-Luth.  
+Kirchenkreis  
+Hamburg-  
+West/Südholstein  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+ein zusätzliches Angebot für  
+Flüchtlingsfamilien durch das EKiZ Achtern  
+Born für WUK Notkestraße in den  
+Räumlichkeiten der Ev. Kita Bugenhagen,  
+Bei der Flottbeker Mühle 25b, 22607  
+Hamburg
+
+11.470,12 3-25406001-000010.05
+
+Ev.-Luth.  
+Kirchenkreis  
+Hamburg-  
+West/Südholstein  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+ein zusätzliches Angebot für  
+Flüchtlingsfamilien durch das EKiZ Achtern  
+Born für die WUK Luruper Hauptstraße in  
+den Räumlichkeiten der Ev. Luth. Kita  
+Auferstehung, Binsenort 10, 22547  
+Hamburg
+
+11.470,12 3-25406001-000010.05
+
+Seite 35 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Deutsches Rotes  
+Kreuz Hamburg  
+gemeinnützige  
+Gesellschaft zur  
+Förderung der Kinderund Jugendhilfe mbH  
+(gGmbH)
+
+Angebote für Flüchtlingsfamilien, Willkommen mit IMPULS
+
+14.186,55 1-254.03.02.006.001
+
+Großtagespflege  
+Mien Lüttjenwelt -  
+Leisner, Pishdad,  
+Stemmler GbR (GbR)
+
+den Erhalt von Betreuungsplätzen in der Großtagespflege
+
+5.429,04 2-25406001-00002.14
+
+S.O.F. Save Our  
+Future Umwelt-  
+Stiftung (Stiftung des  
+privaten Rechts)
+
+die Finanzierung von Unterstützungsangeboten für Kitas im Rahmen der Bildungsinitiative "Kita 21"
+
+6.674,34 3-25406001-000010.05
+
+Johanniter Jugend in  
+der Johanniter  
+Unfallhilfe e.V. -  
+Regionalverband  
+Hamburg (Sonstige)
+
+Förderung nach dem Landesförderplan Pos 2.3.2.1 Freizeiten
+
+300,00 1-254.02.03.001.001
+
+Johanniter Jugend in  
+der Johanniter  
+Unfallhilfe e.V. -  
+Regionalverband  
+Hamburg (Sonstige)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+2.000,00 1-254.02.03.001.001
+
+Sprachbrücke- Hamburg e.V. (e.V.)
+
+Hamburger Integrationsfonds - Förderung des Projekts "Sprache im Alltag" - Drs. 21/6766
+
+37.600,00 3-25503001-000050.01
+
+Arbeit und Leben DGB/VHS Hamburg e.V. (e.V.)
+
+Hamburger Integrationsfonds - Flüchtlinge  
+und freiwillig Engagierte in der  
+Flüchtlingshilfe über die Rechte als  
+Arbeitnehmerinnen und Arbeitnehmer  
+informieren - Drs. 21/6754
+
+106.812,06 3-25502001-000023.01
+
+AQtivus  
+Servicegesellschaft  
+für Aktivität auf dem  
+Arbeitsmarkt gGmbH  
+(gGmbH)
+
+W.I.R - Unternehmensservice in den W.I.R -  
+Dependancen Bergedorf und Harburg:  
+Integrationsförderung von Geflüchteten  
+durch die Vernetzungsarbeit mit der lokalen  
+Wirtschaft
+
+196.201,88 3-25502001-000017.01
+
+Lawaetz-wohnen & leben gGmbH (gGmbH)
+
+Hamburger Integrationsfonds - Vermittlung in privaten Wohnraum steigern - Stiftung Wohnbrücke unterstützen - Drs. 21/6387
+
+94.024,42 3-25503001-000100.01
+
+Der Paritätische Wohlfahrtsverband Hamburg e.V. (e.V.)
+
+Hamburger Integrationsfonds - Vermittlung in privaten Wohnraum steigern - Stiftung Wohnbrücke unterstützen - Drs. 21/6387
+
+88.890,05 3-25503001-000100.01
+
+Fachrat Islamische Studien e.V. (e.V.)
+
+Qualifizierung muslimischer Jugendlicher  
+als Peers in Hamburger Moscheen  
+(Prävention von religiös motiviertem  
+Extremismus)
+
+123.129,00 3-25503001-000211.01
+
+Seite 36 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Elbinstitut Hamburg e.V. (e.V.)
+
+Hamburger Integrationsfonds - Community Spirit - Drs. 21/7762
+
+64.302,68 3-25502001-000023.01
+
+Westwind Hamburg e.V. (e.V.)
+
+Hamburger Integrationsfonds - Mit Westwind Mobilität von Geflüchteten stärken - Drs. 21/6993
+
+96.577,86 3-25503001-000050.01
+
+MUT Theater/Interkulturell e.V. (e.V.)
+
+Antrag über BVA / KJP des Bundes für eine Jugendbegegnung in Chicago im Juli 2017
+
+7.900,00 1-254.05.03.001.001
+
+Internationales Diakoniecafé WhyNot? (Sonstige)
+
+Förderung der chancengerechten Teilhabe von Menschen mit Migrationshintergrund Projekt: Multikulturelles Sommerfest – von und mit Migranten- und Flüchtlingsinitiativen
+- Honorarmittel für Festorganisation -
+
+2.500,00 1-255.03.01.003.001
+
+MUT Theater/Interkulturell e.V. (e.V.)
+
+KJP-Antrag über BVA für Jugendbegegnung mit der Türkei (OUT) in Izmir im August 2017
+
+4.458,00 1-254.05.03.001.001
+
+"Nutzmüll e.V." (e.V.) Tronc-Mittel 2014/15 Drucksache 21/7033
+2.300,00 3-25502001-000011.01
+
+"Nutzmüll e.V." (e.V.) Tronc-Mittel 2014/15 Drs.21/7033
+12.000,00 3-25502001-000011.01
+
+MUT Theater/Interkulturell e.V. (e.V.)
+
+Antrag über KJP des Bundes und SK für Jugendbegegnung mit Chicago in Hamburg im August 2017
+
+9.160,00 1-254.05.03.001.001
+
+MUT Theater/Interkulturell e.V. (e.V.)
+
+Antrag über KJP des Bundes und SK für Jugendbegegnung mit Chicago in Hamburg im August 2017
+
+700,00 5-25405999-000001.08
+
+MUT Theater/Interkulturell e.V. (e.V.)
+
+Antrag über BVA / KJP des Bundes für Jugendbegegnung mit der Türkei in Hamburg (IN) vom 22.12.2017-01.01.2018
+
+7.600,00 1-254.05.03.001.001
+
+Stiftung Kulturpalast Hamburg (Stiftung des privaten Rechts)
+
+International Music Education 250.000,00 3-25502001-030010.01
+
+MitOst Hamburg -  
+Verein für Sprach-,  
+Kultur- und  
+Jugendaustausch in  
+Europa e.V. (e.V.)
+
+KJP-Antrag über Stiftung DRJA und  
+Senatskanzlei für trilaterale  
+Jugendbegegnung "critical kitchen" im  
+August/September 2017 in Hamburg
+
+27.500,00 1-254.05.03.001.001
+
+MitOst Hamburg -  
+Verein für Sprach-,  
+Kultur- und  
+Jugendaustausch in  
+Europa e.V. (e.V.)
+
+KJP-Antrag über Stiftung DRJA und  
+Senatskanzlei für trilaterale  
+Jugendbegegnung "critical kitchen" im  
+August/September 2017 in Hamburg
+
+4.000,00 5-25405999-000001.09
+
+MitOst Hamburg -  
+Verein für Sprach-,  
+Kultur- und  
+Jugendaustausch in  
+Europa e.V. (e.V.)
+
+KJP-Antrag über Stiftung DRJA,  
+Senatskanzlei und LFP für bilaterales  
+Netzwerktreffen im November/Dezember  
+2017 in Hamburg
+
+16.625,00 1-254.05.03.001.001
+
+Seite 37 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+MitOst Hamburg -  
+Verein für Sprach-,  
+Kultur- und  
+Jugendaustausch in  
+Europa e.V. (e.V.)
+
+KJP-Antrag über Stiftung DRJA,  
+Senatskanzlei und LFP für bilaterales  
+Netzwerktreffen im November/Dezember  
+2017 in Hamburg
+
+500,00 5-25405999-000001.02
+
+Treffpunkt der Jugend Harburg Süd e.V. (e.V.)
+
+Vorbereitungstreffen der trilateralen  
+Jugendbegegnung mit Frankreich und  
+Slowenien über DFJW im April 2017 in  
+Hamburg
+
+1.000,00 1-254.05.03.001.001
+
+Psychosoziale Arbeit mit Verfolgten e.V. (e.V.)
+
+Förderung demokratischer Kultur,  
+Vorbeugung und Bekämpfung von  
+Rechtsextremismus; Projekt: Beteiligung  
+am Ohlsdorfer Friedensfest 2017
+
+4.525,00 3-25503001-000210.01
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+den Betrieb eines halboffenen  
+Kinderbetreuungsangebots (HOB) für die  
+WUK Am Röhricht in den Räumlichkeiten  
+der EA Geutensweg
+
+27.650,00 1-254.06.02.002.001
+
+BilleVue GbR (GbR) Finanzierungsbeitrag zu den Kosten der Ausbildungsmesse Hamburger Osten 2017
+
+8.000,00 3-25502001-021119.01
+
+Deutsches Rotes  
+Kreuz Hamburg  
+gemeinnützige  
+Gesellschaft zur  
+Förderung der Kinderund Jugendhilfe mbH  
+(gGmbH)
+
+den Betrieb eines halboffenen  
+Kinderbetreuungsangebots (HOB) für die  
+Wohnunterkünfte Jugendparkweg und  
+Kiwittsmoor in den Räumen der WUK  
+Jugendparkweg
+
+20.580,00 1-254.06.02.002.001
+
+Deutsches Rotes  
+Kreuz Hamburg  
+gemeinnützige  
+Gesellschaft zur  
+Förderung der Kinderund Jugendhilfe mbH  
+(gGmbH)
+
+den Betrieb eines halboffenen  
+Kinderbetreuungsangebots (HOB) für die  
+Wohnunterkünfte Jugendparkweg und  
+Kiwittsmoor in den Räumen der WUK  
+Jugendparkweg
+
+23.780,50 2540699911
+
+Wurzeln in zwei Welten e.V. (e.V.)
+
+Förderung der chancengerechten Teilhabe  
+von Menschen mit Migrationshintergrund  
+Projekt: "Matadjaat - Afrika-Festival am  
+17.09.2017" - Honorare für  
+Bühnenprogramm
+
+2.500,00 3-25503001-000020.01
+
+Jugendfeuerwehr Hamburg (Sonstige)
+
+Antrag über Senatskanzlei für  
+Städtepartnerschaft mit Dar es  
+Salaam/Tansania (OUT-Maßnahme) im  
+Oktober 2017
+
+4.000,00 5-25405999-000001.09
+
+Jugendfeuerwehr Hamburg (Sonstige)
+
+Antrag über Senatskanzlei für Städtepartnerschaft mit León/Nicaragua (IN- Maßnahme) im August 2017
+
+3.000,00 5-25405999-000001.06
+
+Sinnestaumel Hamburg e.V. (e.V.)
+
+Organisation und Durchführung der 4. Kitalympics
+
+13.500,00 3-25406001-000010.05
+
+Seite 38 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Jugendarbeitskreis  
+Hamburg im  
+Volksbund Deutsche  
+Kriegsgräberfürsorge  
+e.V. (Sonstige)
+
+Antrag über Senatskanzlei für  
+Jugendbegegnung in Hamburg vom  
+30.06.2017 bis zum 04.07.2017 im Rahmen  
+des Projekts "Hamburg Memory"
+
+2.000,00 5-25405999-000001.10
+
+Deutsches Rotes  
+Kreuz Hamburg  
+gemeinnützige  
+Gesellschaft zur  
+Förderung der Kinderund Jugendhilfe mbH  
+(gGmbH)
+
+den Betrieb eines halboffenen Kinderbetreuungsangebots in der WUK Große Horst
+
+26.460,00 1-254.06.02.002.001
+
+Deutsches Rotes  
+Kreuz Hamburg  
+gemeinnützige  
+Gesellschaft zur  
+Förderung der Kinderund Jugendhilfe mbH  
+(gGmbH)
+
+den Betrieb eines halboffenen Kinderbetreuungsangebots in der WUK Große Horst
+
+39.382,50 2550399911
+
+Johann Daniel  
+Lawaetz-Stiftung  
+(Stiftung des  
+öffentlichen Rechts)
+
+Ausstattung der durch das Kolpingwerk betriebenen Azubi-Apartments im IFZ St. Georg
+
+360.000,00 2-25402001-78242.17
+
+Hamburger  
+Turngesellschaft  
+Barmbeck-Uhlenhorst  
+e.V. (e.V.)
+
+Förderung demokratischer Kultur,  
+Vorbeugung und Bekämpfung von  
+Rechtsextremismus, Landesprogramm  
+"Hamburg - Stadt mit Courage", Projekt:  
+Hamburg bekennt Farbe im Sand
+
+4.140,00 3-25503001-000210.01
+
+MitOst Hamburg -  
+Verein für Sprach-,  
+Kultur- und  
+Jugendaustausch in  
+Europa e.V. (e.V.)
+
+Jugendaustausch zur See Törn 3 Turku-  
+Klaipeda "veter i volny-Jugendaustausch zur  
+See" über Landesförderplan und  
+Senatskanzlei im Juli/August 2017
+
+12.900,00 1-254.05.03.001.001
+
+MitOst Hamburg -  
+Verein für Sprach-,  
+Kultur- und  
+Jugendaustausch in  
+Europa e.V. (e.V.)
+
+Jugendaustausch zur See Törn 3 Turku-  
+Klaipeda "veter i volny-Jugendaustausch zur  
+See" über Landesförderplan und  
+Senatskanzlei im Juli/August 2017
+
+500,00 5-25405999-000001.02
+
+MitOst Hamburg -  
+Verein für Sprach-,  
+Kultur- und  
+Jugendaustausch in  
+Europa e.V. (e.V.)
+
+Jugendaustausch zur See Törn 2  
+St.Petersburg - St.Petersburg "veter i volny -  
+Jugendaustausch zur See" über Stiftung  
+DRJA und Senatskanzlei im Juli 2017
+
+3.915,00 1-254.05.03.001.001
+
+MitOst Hamburg -  
+Verein für Sprach-,  
+Kultur- und  
+Jugendaustausch in  
+Europa e.V. (e.V.)
+
+Jugendaustausch zur See Törn 2  
+St.Petersburg - St.Petersburg "veter i volny -  
+Jugendaustausch zur See" über Stiftung  
+DRJA und Senatskanzlei im Juli 2017
+
+500,00 5-25405999-000001.02
+
+Seite 39 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+MitOst Hamburg -  
+Verein für Sprach-,  
+Kultur- und  
+Jugendaustausch in  
+Europa e.V. (e.V.)
+
+Jugendaustausch zur See Törn 1 Hamburg -  
+St.Petersburg "veter i volny -  
+Jugendaustausch zur See" über Stiftung  
+DRJA und Senatskanzlei im Juni/Juli 2017
+
+20.178,00 1-254.05.03.001.001
+
+MitOst Hamburg -  
+Verein für Sprach-,  
+Kultur- und  
+Jugendaustausch in  
+Europa e.V. (e.V.)
+
+Jugendaustausch zur See Törn 1 Hamburg -  
+St.Petersburg "veter i volny -  
+Jugendaustausch zur See" über Stiftung  
+DRJA und Senatskanzlei im Juni/Juli 2017
+
+500,00 5-25405999-000001.02
+
+MitOst Hamburg -  
+Verein für Sprach-,  
+Kultur- und  
+Jugendaustausch in  
+Europa e.V. (e.V.)
+
+Jugendaustausch zur See Törn 4 Klaipeda- Hamburg "veter i volny - Jugendaustausch zur See" über Stiftung DRJA, Senatskanzlei und Landesförderplan im Juli/August 2017
+
+13.729,50 1-254.05.03.001.001
+
+MitOst Hamburg -  
+Verein für Sprach-,  
+Kultur- und  
+Jugendaustausch in  
+Europa e.V. (e.V.)
+
+Jugendaustausch zur See Törn 4 Klaipeda- Hamburg "veter i volny - Jugendaustausch zur See" über Stiftung DRJA, Senatskanzlei und Landesförderplan im Juli/August 2017
+
+500,00 5-25405999-000001.11
+
+Kulturbrücke Hamburg e.V. (e.V.)
+
+Hamburger Integrationsfonds -  
+Auseinandersetzung mit gesellschaftlichen  
+Grundsätzen befördern - Projekt  
+"SWITCHMind" - Drs. 21/7415
+
+25.000,00 3-25503001-000050.01
+
+Kulturbrücke Hamburg e.V. (e.V.)
+
+Förderung der chancengerechten Teilhabe  
+von Menschen mit Migrationshintergrund  
+Projekt: Frauen- / Migrantinnen- /  
+Migrantenmarsch am 13. Mai 2017
+
+5.000,00 3-25503001-000020.01
+
+Freies Kinder- und Stadtteilzentrum e.V. (e.V.)
+
+Fachkräfteaustausch mit Shanghai in  
+Hamburg BVA/KJP Kofinanzierung  
+Senatskanzlei und Landesförderplan im Juli  
+2017
+
+4.820,00 1-254.05.03.001.001
+
+Freies Kinder- und Stadtteilzentrum e.V. (e.V.)
+
+Fachkräfteaustausch mit Shanghai in  
+Hamburg BVA/KJP Kofinanzierung  
+Senatskanzlei und Landesförderplan im Juli  
+2017
+
+1.000,00 5-25405999-000001.04
+
+SpielTiger e.V. Institut für Bewegung, Kultur und Spiel (e.V.)
+
+Spielaktionen in Unterkünften der öffentlichrechtlichen Unterbringung -Erweiterung 2-
+
+74.188,08 1-254.02.01.001.001
+
+Trägerinnenverbund  
+FLAKS e.V. (Frauen  
+Lernen Arbeit Kontakt  
+Service) (e.V.)
+
+Hamburger Integrationsfonds - Förderung des Projekts "Geflüchtete Mädchen und Frauen in Bewegung" - Drs. 21/6999
+
+32.226,26 1-254.03.02.009.001
+
+GWA St. Pauli e.V. (e.V.)
+
+Antrag über DFJW für eine deutschfranzösische Jugendbegegnung im Juli 2017 (IN-Maßnahme)
+
+11.274,61 1-254.05.03.001.001
+
+Arbeitsausschuss der  
+Organisationen  
+ehemals Verfolgter in  
+Hamburg (Sonstige)
+
+Durchführung gemeinsamer Angelegenheiten ehemals Verfolgter des Nationalsozialismus
+
+2.400,00 1-254.07.02.004.001
+
+Seite 40 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+"Mädchentreff",  
+Verein zur Förderung  
+feministischer  
+stadtteilbezogener  
+Mädchenarbeit e.V.  
+(e.V.)
+
+Gestaltung und Durchführung des 22.  
+Hamburger mädCHENspektakels ohne  
+Kostenübernahme der Miete- und  
+Leasingkosten für die Aktionsgeräte,  
+Instrumente und Transportkosten
+
+11.978,00 1-254.02.02.001.001
+
+MOTTE - Verein für  
+stadtteilbezogene  
+Kultur- und  
+Sozialarbeit e.V.  
+(e.V.)
+
+Antrag über DFJW für ein Vorbereitungstreffen im September 2017 (IN-Maßnahme)
+
+1.028,80 1-254.05.03.001.001
+
+Vaeter e.V. (e.V.) Tronc: Gestaltung und Druck eines Imageflyers und zweier Programmflyer
+
+2.800,00 1-254.03.02.006.001
+
+Treffpunkt der Jugend Harburg Süd e.V. (e.V.)
+
+Antrag über DFJW und Kofi LFP Pos. 3.3  
+für eine deutsch-französisch-slowenische  
+Jugendbegegnung im August 2017 (IN-  
+Maßnahme)
+
+15.874,00 1-254.05.03.001.001
+
+Mehrgenerationenha us Nachbarschatz e.V. (e.V.)
+
+Tronc: Anschaffung von Außenspielgeräten
+4.414,85 1-254.03.02.006.001
+
+Verwaiste Eltern und Geschwister Hamburg e.V. (e.V.)
+
+Tronc: Neustrukturierung der Homepage
+3.015,00 1-254.03.02.006.001
+
+MOTTE - Verein für  
+stadtteilbezogene  
+Kultur- und  
+Sozialarbeit e.V.  
+(e.V.)
+
+Antrag über DFJW, Senatskanzlei und Kofi  
+LFP Pos. 3.3 für bilaterale  
+Jugendbegegnung mit Marseille im Oktober  
+2017 (IN-Maßnahme)
+
+9.866,77 1-254.05.03.001.001
+
+MOTTE - Verein für  
+stadtteilbezogene  
+Kultur- und  
+Sozialarbeit e.V.  
+(e.V.)
+
+Antrag über DFJW, Senatskanzlei und Kofi  
+LFP Pos. 3.3 für bilaterale  
+Jugendbegegnung mit Marseille im Oktober  
+2017 (IN-Maßnahme)
+
+3.000,00 5-25405999-000001.01
+
+WSB Wirtschaft und  
+Stadtmarketing für  
+die Region Bergedorf  
+e.V. (e.V.)
+
+W.I.R - Unternehmensservice in der W.I.R - Dependance Bergedorf: Unterstützung der Arbeitsmarktintegration von Geflüchteten
+
+16.914,11 3-25502001-000017.01
+
+Schmied, Saliha Yvonne
+
+Förderung demokratischer Kultur,  
+Vorbeugung und Bekämpfung von  
+Rechtsextremismus, Landesprogramm  
+Hamburg-Stadt mit Courage, Projekt:  
+Veranstaltungsreihe "Gemeinsamkeiten  
+zwischen Christen und Muslimen"-  
+Auftaktveranstaltung "Nächstenliebe"
+
+720,00 3-25503001-000210.01
+
+Pfadfinder- und Pfadfinderinnenbund Nord (Sonstige)
+
+KJP-Antrag über ConAct für eine deutschisraelische Jugendbegegnung im Mai 2017 (IN-Maßnahme)
+
+9.960,00 1-254.05.03.001.001
+
+Eriträischer Jugendund Kulturverein Hamburg e.V. (e.V.)
+
+Renovierung und Einrichtung der neuen Räume, Bahrenfelder Straße 7
+
+27.069,11 1-254.02.03.001.001
+
+Seite 41 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+"Das Haus"-  
+Förderverein Haus  
+der Jugend  
+Steilshoop e.V. (e.V.)
+
+Bilaterale Jugendbegegnung mit Südkorea  
+18.07.-31.07.2017 in Hamburg  
+KJP Programm längerfristige Förderung  
+und JPE
+
+23.500,00 1-254.05.03.001.001
+
+Abenteuerspielplatz am Brunnenhof e.V. (e.V.)
+
+Bilaterale Jugendbegegnung mit Slowenien im Juni/Juli 2017 in Hamburg über BVA/KJP
+
+4.992,00 1-254.05.03.001.001
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+die Schaffung von Krippenplätzen in der  
+Kita St. Andreas, Bogenstraße 26 in 20144  
+Hamburg, im Rahmen der Förderrichtlinie  
+zum Zusatzprogramm Krippenausbau 2015-  
+2018
+
+35.435,00 2-25406001-00002.15
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+die Schaffung von Krippenplätzen in der  
+Kita Leuchtboje, Lerchenkamp 8a, 22459  
+Hamburg im Rahmen der Förderrichtlinie  
+zum Zusatzprogramm Krippenausbau 2015-  
+2018
+
+7.842,16 2-25406001-00002.16
+
+ALRAUNE gGmbH  
+Gemeinnützige  
+Gesellschaft zur  
+Förderung der  
+Teilhabechancen und  
+Verbesserung der  
+Lebensqualität  
+benachteiligter  
+Menschen (gGmbH)
+
+Tagwerk Suchtmittelberatungsstelle "Subway"
+
+251.140,39 3-25502001-021615.01
+
+Jugendfeuerwehr Hamburg (Sonstige)
+
+Antrag über die Senatskanzlei für eine Jugendbegegnung mit St. Petersburg im August 2017 (IN-Maßnahme)
+
+1.000,00 5-25405999-000001.02
+
+Internationaler  
+Jugendverband  
+Europa-  
+Lateinamerika e.V.  
+(e.V.)
+
+Förderung nach dem Landesförderplan Pos. 2.3.3 Internationale Jugendarbeit und Begegnung Hamburg-Mexiko in Hamburg
+
+12.330,00 1-254.05.03.001.001
+
+Internationaler  
+Jugendverband  
+Europa-  
+Lateinamerika e.V.  
+(e.V.)
+
+Antrag über BVA/KJP des Bundes für bilaterale Multiplikatoren-Begegnung in Havanna / Kuba 26.05.-02.06.2017
+
+4.886,00 1-254.05.03.001.001
+
+Lesben- und  
+Schwulenverband in  
+Deutschland  
+Landesverband  
+Hamburg (LSVD-  
+Hamburg) e.V. (e.V.)
+
+KJP-Antrag über die Senatskanzlei und die  
+LFP Position 3.3 für einen  
+Fachkräfteaustausch mit St. Petersburg im  
+August 2017 (OUT-Maßnahme)
+
+1.245,00 1-254.05.03.001.001
+
+Lesben- und  
+Schwulenverband in  
+Deutschland  
+Landesverband  
+Hamburg (LSVD-  
+Hamburg) e.V. (e.V.)
+
+KJP-Antrag über die Senatskanzlei und die  
+LFP Position 3.3 für einen  
+Fachkräfteaustausch mit St. Petersburg im  
+August 2017 (OUT-Maßnahme)
+
+2.500,00 5-25405999-000001.02
+
+Seite 42 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Zukunft Arbeit gemeinnützige GmbH (gGmbH)
+
+Zuwendung für ein betriebswirtschaftliches Gutachten zur Bewertung der Übernahme eines Fahrradladens
+
+5.000,00 Bundesmittel "AlleImBetrieb" AIB
+
+Arbeitsgemeinschaft  
+freier  
+Jugendverbände in  
+Hamburg - AGfJ -  
+e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.3 Internationale Jugendarbeit und  
+Begegnung mit Leon/Nicaraqua in  
+Nicaragua vom 01.08.2017 - 31.08.2017
+
+2.688,00 1-254.05.03.001.001
+
+Arbeitsgemeinschaft  
+freier  
+Jugendverbände in  
+Hamburg - AGfJ -  
+e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.3 Internationale Jugendarbeit und  
+Begegnung mit Leon/Nicaraqua in  
+Nicaragua vom 01.08.2017 - 31.08.2017
+
+4.000,00 5-25405999-000001.06
+
+hwg hamburg work gGmbH (gGmbH)
+
+Zuwendung für die Erweiterung des  
+Integrationsprojektes - Schaffung eines  
+neuen Arbeitsplatzes im  
+Verwaltungsbereich
+
+1.686,98 SoVermSchwbG
+
+Hamburger mit Herz e.V. (e.V.)
+
+Hamburger Integrationsfonds - Integrationspatenschaften fördern - Projekt "Brücken bauen" - Drs. 21/6914
+
+68.878,43 3-25503001-000100.01
+
+Haus 3, Stadtteilzentrum in Altona e.V. (e.V.)
+
+Antrag über das DFJW und LFP Pos. 3.3  
+Kofinanzierung für eine Jugendbegegnung  
+mit Marrakesch und Marseille im Juni/Juli  
+2017 (IN-Maßnahme)
+
+14.492,72 1-254.05.03.001.001
+
+Altonaer Fußball-Club von 1893 (Altona 93) e.V. (e.V.)
+
+Jugendbegegnung zwischen FC  
+Lokomotive St. Petersburg und Altona 93 in  
+St. Petersburg über Senatskanzlei und LFP  
+Pos. 3.3 im August 2017 (OUT)
+
+500,00 1-254.05.03.001.001
+
+Altonaer Fußball-Club von 1893 (Altona 93) e.V. (e.V.)
+
+Jugendbegegnung zwischen FC  
+Lokomotive St. Petersburg und Altona 93 in  
+St. Petersburg über Senatskanzlei und LFP  
+Pos. 3.3 im August 2017 (OUT)
+
+500,00 5-25405999-000001.02
+
+Integrationspunkt  
+Hamburg IPV  
+gemeinnützige UG  
+(haftungsbeschränkt)  
+(UG -  
+Unternehmergesellsc  
+haft)
+
+Förderung der chancengerechten Teilhabe  
+von Menschen mit Migrationshintergrund  
+Projekt: Koordinierung "Muslimische  
+Gemeinden als kommunale Netzwerker"
+
+8.334,00 1-255.03.01.003.001
+
+Deutscher  
+Kinderschutzbund  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Planung, Organisation und Durchführung des 14. Hamburger Familientages
+
+78.270,17 1-254.03.02.008.001
+
+MOTTE - Verein für  
+stadtteilbezogene  
+Kultur- und  
+Sozialarbeit e.V.  
+(e.V.)
+
+Antrag über LFP Pos. 3.3 KoFi für  
+Weiterbildungs- und Begegnungsprojekt mit  
+Frankreich und Spanien im September  
+2017 (OUT-Maßnahme)
+
+2.730,00 1-254.05.03.001.001
+
+Seite 43 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Ev.-luth.  
+Kirchengemeinde St.  
+Georg-Borgfelde  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+Förderung demokratischer Kultur,  
+Vorbeugung und Bekämpfung von  
+Rechtsextremismus, Landesprogramm  
+Hamburg-Stadt mit Courage, Projekt:  
+Interkulturelle Stadtteilfreizeit St. Georg  
+2017.
+
+5.000,00 3-25503001-000210.01
+
+Pfadfinder- und Pfadfinderinnenbund Nord (Sonstige)
+
+KJP-Antrag über ConAct für eine deutschisraelische Jugendbgegenung in Israel im Oktober 2017 (OUT-Maßnahme)
+
+5.783,00 1-254.05.03.001.001
+
+BI Bildung und  
+Integration Hamburg  
+Süd gGmbH  
+(gGmbH)
+
+W.I.R - Lebenslagenberatung in der Dependance Harburg
+
+121.241,74 3-25502001-000017.01
+
+Bucerius Law School  
+Hochschule für  
+Rechtswissenschaft  
+gGmbH (gGmbH)
+
+Hamburger Integrationsfonds - Information  
+von Geflüchteten im Netz und vor Ort  
+verbessern: Projekt "We.Inform"  
+unterstützen - Drs. 21/7995
+
+114.236,42 3-25503001-000100.01
+
+Landesmusikrat in  
+der Freien und  
+Hansestadt Hamburg  
+e.V. (e.V.)
+
+Förderung demokratischer Kultur,  
+Vorbeugung und Bekämpfung von  
+Rechtsextremismus: "Kick Off" der Bildung  
+und Koordination der Initiative "Hamburg  
+handelt. Gemeinsam.Offen.Vielfältig."
+
+5.000,00 3-25503001-000210.01
+
+Landesmusikrat in  
+der Freien und  
+Hansestadt Hamburg  
+e.V. (e.V.)
+
+Förderung demokratischer Kultur,  
+Vorbeugung und Bekämpfung von  
+Rechtsextremismus: Beteiligung an einer  
+Kundgebung für Vielvalt, Toleranz und  
+Demokratie am 18.06.2017 durch  
+Finanzierung von Werbung sowie Bühne,  
+Ton- und Lichttechnik
+
+5.000,00 3-25503001-000210.01
+
+Stiftung Kulturpalast Hamburg (Stiftung des privaten Rechts)
+
+Antrag über LFP Pos. 3.1 für Jugendbegegnung mit Marokko im August 2017 (IN-Maßnahme)
+
+2.820,00 1-254.05.03.001.001
+
+Internationaler Bund  
+(IB) Freier Träger der  
+Jugend-, Sozial- und  
+Bildungsarbeit (e.V.)
+
+W.I.R - Lebenslagenberatung in der Dependance Bergedorf
+
+49.179,66 3-25502001-000017.01
+
+Caritasverband für Hamburg e.V. (e.V.)
+
+W.I.R - Lebenslagenberatung in der Dependance Bergedorf
+
+59.517,05 3-25502001-000017.01
+
+Naturschutzbund  
+Deutschland  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Tronc: Vortragsreihe und Kinderfest der NABU Gruppe West
+
+3.800,00 1-254.02.01.001.001
+
+Interkulturelles  
+Migranten  
+Integrations Center  
+e.V. (e.V.)
+
+Förderung der chancengerechten Teilhabe von Menschen mit Migrationshintergrund Projekt: Africa Day 2017 - Anteilige Kostenbeteiligung für die Bühnentechnik
+
+2.500,00 1-255.03.01.003.001
+
+Interkulturelle Begegnungsstätte e.V. (e.V.)
+
+Ergänzende Sprachförderung für besondere Lernbedarfe im Rahmen des EHAP- Projektes step.in
+
+13.000,00 1-255.03.01.002.001
+
+Seite 44 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Lesben- und  
+Schwulenverband in  
+Deutschland  
+Landesverband  
+Hamburg (LSVD-  
+Hamburg) e.V. (e.V.)
+
+Antrag über Senatskanzlei und DRJA für Jugendbegegnung mit St. Petersburg im Juli/August 2017 (IN-Maßnahme)
+
+2.962,00 1-254.05.03.001.001
+
+Lesben- und  
+Schwulenverband in  
+Deutschland  
+Landesverband  
+Hamburg (LSVD-  
+Hamburg) e.V. (e.V.)
+
+Antrag über Senatskanzlei und DRJA für Jugendbegegnung mit St. Petersburg im Juli/August 2017 (IN-Maßnahme)
+
+3.270,00 5-25405999-000001.02
+
+Islamisches  
+Kulturzentrum der  
+Bosniaken in  
+Hamburg und  
+Umgebung e.V. (e.V.)
+
+Förderung demokratischer Kultur,  
+Vorbeugung und Bekämpfung von  
+Rechtsextremismus Landesprogramm  
+"Hamburg - Stadt mit Courage", Projekt:  
+Gedenkveranstaltung anlässlich des  
+Gedenktages des Genozids von Srebrenica
+
+4.523,00 3-25503001-000210.01
+
+Verband Kinder- und Jugendarbeit Hamburg e.V. (e.V.)
+
+Antrag über Tandem für Jugendaustausch mit Prag im Juli 2017 (IN-Maßnahme)
+
+9.685,00 1-254.05.03.001.001
+
+PFIFF gGmbH  
+Pflegekinder und ihre  
+Familien -  
+Fortbildung,  
+Information,  
+Öffentlichkeitsarbeit  
+(gGmbH)
+
+Hamburger Integrationsfonds - Zuwendung  
+für eine Werbekampagne zur Akquise  
+zukünftiger Patinnen und Paten im Rahmen  
+des Projektes "Patenschaften für  
+minderjährige unbegleitete Flüchtlinge" -  
+Drs. 21/7989
+
+11.000,00 1-254.04.02.002.228
+
+BASIS & WOGE e.V. (e.V.)
+
+Kaution Mietvertrag "KIDS", Lange Reihe 24
+28.000,00 1-254.02.02.001.001
+
+Hamburger Institut für Mediation e.V. (e.V.)
+
+Hamburger Integrationsfonds - Mediationsbrücke - Drs. 21/7615
+
+93.365,73 3-25503001-000100.01
+
+Bergedorfer Impuls Betriebsstätten GmbH (GmbH)
+
+Catering Delegation des estnischen Sozialministeriums am 27.04.2017 Rechnungsnummer Cas/ 1012
+
+189,80 3-25502001-030012.01
+
+Schulverein  
+Gymnasium  
+Corveystraße e.V.  
+(e.V.)
+
+Förderung demokratischer Kultur,  
+Vorbeugung und Bekämpfung von  
+Rechtsextremismus, Landesprogramm  
+"Hamburg - Stadt mit Courage", Projekt:  
+Veranstaltung "Esther Bejerano & die  
+Microphone Mafia"
+
+1.557,00 3-25503001-000210.01
+
+Internationaler  
+Jugendverband  
+Europa-  
+Lateinamerika e.V.  
+(e.V.)
+
+Antrag über BVA / KJP des Bundes für bilaterale Jugendbegegnung mit Kolumbien im Juni/Juli 2017 (IN-Maßnahme)
+
+23.540,00 1-254.05.03.001.001
+
+Seite 45 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+TopAfric e.V. (e.V.)  
+Förderung der chancengerechten Teilhabe  
+von Menschen mit Migrationshintergrund  
+Projekt: Förderung der Öffentlichkeitsarbeit  
+für den "7th African Youth Education Award"
+
+2.500,00 1-255.03.01.003.001
+
+i3 e.V. (e.V.)  
+Hamburger Integrationsfonds - Vermittlung  
+in Arbeit sowie digitale Bildung integrativ  
+gestalten - i3 e. V. (Initiative Informatik  
+Inspiration)
+
+339.026,61 3-25502001-000023.01
+
+Haus5 Service gemeinnützige GmbH (gGmbH)
+
+Zuwendung für eine betriebswirtschaftliche Beratung im Rahmen der Neugründung des Geschäftsfeldes "GaLa".
+
+5.000,00 Bundesmittel "AlleImBetrieb" AIB
+
+Runder Tisch Blankenese (Sonstige)
+
+Tronc-Mittel 2015/2015 Drucksache 21/7033 Projekt"Buntes Haus"
+
+3.392,77 1-255.03.02.001.001
+
+hwg hamburg work gGmbH (gGmbH)
+
+Zuwendung für die Erweiterung des  
+Integrationsunternehmens durch den  
+Betrieb einer Zentralküche zur Belieferung  
+von Kitas in Hamburg
+
+250.000,00 Bundesmittel "AlleImBetrieb" AIB
+
+Jugenderholungswer k Hamburg e.V. (e.V.)
+
+Umstellung der Nummernvergabe auf ein online basiertes Anmeldeverfahren
+
+7.291,74 1-254.02.01.001.001
+
+Alevitische Jugend Hamburg e.V. (e.V.)
+
+Zuwendung nach dem Landesförderplan Pos. 2.3.4 Besondere Maßnahmen
+
+2.000,00 1-254.02.03.001.001
+
+Phoenix  
+Compounding  
+Technology GmbH  
+(GmbH)
+
+Eingliederung in eine technische bzw.  
+gewerbliche Berufsorientierungsphase der  
+Phoenix Compounding Technology GmbH  
+oder einem anderen Partnerbetrieb (12  
+Teilnehmende)
+
+93.080,00 3-25502001-021175.01
+
+CISV Germany,  
+Group Hamburg  
+Deutsche  
+Gesellschaft für  
+internationale Kinderund  
+Jugendbegegnungen  
+e.V. (e.V.)
+
+Förderung über LFP Pos. 3.1 für  
+Internationale Jugendarbeit und  
+Begegnung: Internationales Kindercamp in  
+Hamburg vom 28.07.2017-24.08.2017 (IN)
+
+10.500,00 1-254.05.03.001.001
+
+BIFF - Psychosoziale  
+Beratung und  
+Information für  
+Frauen und Mädchen  
+e.V. (e.V.)
+
+Modernisierung der gemeinsamen Website der biff Eimsbüttel, Harburg und Winterhude
+
+6.783,00 1-254.03.02.009.001
+
+ABC Bildungs- und Tagungszentrum e.V. (e.V.)
+
+Bilateraler Fachkräfteaustausch in Ruanda vom 03.12.2017 bis 11.12.2017 (OUT), LFP Teil I Pos 3.3
+
+2.400,00 1-254.05.03.001.001
+
+Landesjugendwerk  
 Hamburg des Bundes  
 Freikirchlicher  
 Pfingstgemeinden  
 (Sonstige)
 
-Lesben- und KJP-Antrag für eine Jugendbegegnung mit 3.267,00 1-254.05.03.001.001 Schwulenverband in Jugendlichen aus Deutschland und Deutschland Russland über Stiftung DRJA und Landesverband Senatskanzlei in Hamburg im Juli/August Hamburg (LSVD- 2018 Hamburg) e.V. (e.V.)
+Anschaffung einer Jurte sowie eines Tischkickers
 
-Lesben- und KJP-Antrag für eine Jugendbegegnung mit 3.000,00 5-25405999-000001.02 Schwulenverband in Jugendlichen aus Deutschland und Deutschland Russland über Stiftung DRJA und Landesverband Senatskanzlei in Hamburg im Juli/August Hamburg (LSVD- 2018 Hamburg) e.V. (e.V.)
+2.693,49 1-254.02.03.001.001
 
-Interkulturelles Förderung der chancengerechten Teilhabe 2.500,00 1-255.03.01.003.001 Migranten von Menschen mit Migrationshintergrund Integrations Center Projekt: Africa Day 2018 - Anteilige e.V. (e.V.) Kostenbeteiligung für die Toilettenwagen, Müllcontainer und Kinder-Hüpfburg
+Seite 46 von 54
 
-Internationaler Antrag für eine internationale 5.753,00 1-254.05.03.001.001 Jugendverband Jugendbegegnung in Mexiko im August Europa- 2018 über LFP Pos. 2.3.3 (OUT-Maßnahme) Lateinamerika e.V. (e.V.)
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Pfadfinder &  
+Pfadfinderinnenbund  
+Nordlicht e.V. (PBNL)  
+(e.V.)
+
+Anschaffung neuer Materialien
+5.465,04 1-254.02.03.001.001
+
+Sozialistische Jugend Deutschlands "Die Falken" (Sonstige)
+
+Ersatzbeschaffung Kopierer
+5.625,61 2-25402001-79311.17
+
+DIDF Jugend Hamburg e.V. (e.V.)
+
+Anschaffung Büroausstattung und technischer Geräte
+
+5.749,63 1-254.02.03.001.001
+
+Arbeitsgemeinschaft  
+Interkultureller  
+Jugendverbände  
+Hamburg e.V.  
+(A.G.I.J. e.V.) (e.V.)
+
+Renovierungsarbeiten in den Vereinsräumen Thedestraße 99
+
+2.375,00 1-254.02.03.001.001
+
+Bund Christlicher Gemeinde-Pfadfinder (CGP) (Sonstige)
+
+Beschaffung von diversen Zeltmaterial und ein Musikinstrument für Kinder- und Jugendfreizeiten
+
+5.872,94 1-254.02.03.001.001
+
+ASB Flüchtlingshilfe Hamburg GmbH (GmbH)
+
+die Einrichtung und den Betrieb eines  
+Elterncafés für Flüchtlingsfamilien in der  
+Erstaufnahmeeinrichtung (EA) für  
+Asylbewerber in der Schmiedekoppel
+
+3.000,00 3-25406001-000010.05
+
+SpielTiger e.V. Institut für Bewegung, Kultur und Spiel (e.V.)
+
+Mietkaution für die Nutzung der  
+Räumlichkeiten in 22761 Hamburg,  
+Theodorstraße 42-90, Haus 6 im Scout  
+sowie eine Gewerbefläche in der Halle 12c,  
+Teil 2 im EG
+
+8.884,09 1-254.02.01.001.001
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+den Betrieb eines Elterncafés für  
+Flüchtlingsfamilien in der Wohnunterkunft  
+(WUK) für Asylbewerber Billbrookdeich  
+(W900)
+
+11.785,35 3-25406001-000010.05
+
+PFIFF gGmbH  
+Pflegekinder und ihre  
+Familien -  
+Fortbildung,  
+Information,  
+Öffentlichkeitsarbeit  
+(gGmbH)
+
+Ersatzbeschaffung eines Geschirrspülers 610,75 1-254.04.02.002.228
+
+Borchardt, Lena  
+Förderung demokratischer Kultur,  
+Vorbeugung und Bekämpfung von  
+Rechtsextremismus Projekt "Bitte  
+einsteigen"
+
+4.490,00 3-25503001-000210.01
+
+MV-Jugend Hamburg (Sonstige)
+
+Anschaffung eines Tischkickers für den Standort Gluckstraße 7
+
+725,27 1-254.02.03.001.001
+
+Flüchtlingshilfe Harvestehude e.V. (e.V.)
+
+Hamburger Integrationsfonds -  
+Integrationsprojekte in den Bezirken stärken  
+- Sprachförderung durch den Verein  
+Flüchtlingshilfe Harvestehude - Drs.  
+21/7612
+
+38.591,51 3-25503001-000050.01
+
+Berufliche Integration Bin e.V. (e.V.)
+
+Hamburger Integrationsfonds - Mit LibertA die Arbeitsmarktintegration geflüchteter Frauen unterstützen - Drs. 21/7413
+
+172.443,31 3-25502001-000023.01
+
+Seite 47 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Weko Sicherheitsdienste GmbH (GmbH)
+
+Förderung demokratischer Kultur,  
+Vorbeugung und Bekämpfung von  
+Rechtsextremismus, Landesprogramm  
+"Hamburg - Stadt mit Courage": Schulung  
+von Mitarbeiterinnen und Mitarbeitern  
+"Herausforderung in der Arbeit als  
+Sicherheitsmitarbeiter von Geflüchtetenun...
+
+4.000,00 3-25503001-000216.01
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+Erneuerung der Hard- und Software in der Sozialen Beratungsstelle Bergedorf/Billstedt
+
+17.000,00 2-25303001-00004.01
+
+Abenteuerspielplatz am Brunnenhof e.V. (e.V.)
+
+Beteiligung von jungen Menschen aus  
+einkommensschwachen Familien an  
+internationalen Jugendbegegnungen im Juli  
+2017 (OUT-Maßnahme)
+
+1.000,00 1-254.05.03.001.001
+
+Arbeitsgemeinschaft  
+der Freien  
+Wohlfahrtspflege  
+Hamburg e.V. (e.V.)
+
+Förderung der 19. AKTIVOLI- Freiwilligenbörse am 11.02.2018
+
+13.700,00 1-255.03.02.001.001
+
+ABED Deutschland e.V. (e.V.)
+
+Antrag über DFJW für ein trilaterales Vorbereitungstreffen mit Frankreich und Sénégal im August 2017 (IN-Maßnahme)
+
+1.067,69 1-254.05.03.001.001
+
+Landesverein der Sinti in Hamburg e.V. (e.V.)
+
+Förderung demokratischer Kultur,  
+Vorbeugung und Bekämpfung von  
+Rechtsextremismus, Landesprogramm  
+"Hamburg - Stadt mit Courage", Projekt:  
+"Ohh Porajmos. Illustrationen zur  
+Diskriminierungs- und  
+Verfolgungsgeschichte der Sinti und Roma" -  
+Druck 2. Aufla...
+
+2.954,50 3-25503001-000210.01
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+den Betrieb eines Elterncafés für Flüchlingsfamilien in der Wohnunterkunft (WUK) Am Röhricht
+
+5.927,62 3-25406001-000010.05
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+ein zusätzliches Angebot für Flüchtlingsfamilien durch das EKiZ Steilshooper Allee in der WUK Große Horst
+
+3.593,00 3-25406001-000010.05
+
+Arbeit & Gesundheit e.V. (e.V.)
+
+Gewährleistung eines  
+zielgruppenspezifischen Beratungsangebots  
+zur Erhaltung und Förderung der  
+psychischen Gesundheit und der  
+Beschäftigungsfähigkeit durch die  
+Anlaufstelle „PAG – Perspektive Arbeit und  
+Gesundheit“
+
+174.435,24 3-25502001-000011.01
+
+ABC Bildungs- und Tagungszentrum e.V. (e.V.)
+
+Sanierung der Außenhülle (Fachwerk, Reetdach)
+
+30.000,00 1-254.02.01.001.001
+
+BASIS & WOGE e.V. (e.V.)
+
+Umbau der neuen Räume in der Langen Reihe 24 für das "KIDS"
+
+192.000,00 2-25402001-79898.17
+
+Zündfunke e.V. (e.V.) Neuanschaffung und Installation einer
+
+Telefonanlage
+
+2.707,86 1-254.03.02.010.001
+
+Seite 48 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+PASSAGE  
+gemeinnützige  
+Gesellschaft für  
+Arbeit und Integration  
+mbH (gGmbH)
+
+Optimierung der Beschäftigungsfähigkeit und Arbeitsmarktintegration von öffentlich geförderten, sozialversicherungspflichtigen Arbeitsverhältnissen in der Rathauspassage
+
+97.943,68 3-25502001-000007.01
+
+SpielTiger e.V. Institut für Bewegung, Kultur und Spiel (e.V.)
+
+Beschaffung und Ausstattung eines Spielmobils mit Anhänger
+
+92.978,80 2-25402001-79923.17
+
+Von Anfang an e.V. (e.V.)
+
+Entwicklungspsychologische Beratung von Eltern mit Kindern bis 3 Jahren in den Elternschulen Barmbek und Veddel
+
+3.456,00 1-254.03.02.006.001
+
+Thalia Theater  
+Gesellschaft mit  
+beschränkter Haftung  
+(GmbH)
+
+Hamburger Integrationsfonds - Sprachcafé Embassy of Hope absichern - Drs. 21/7997
+
+51.396,13 3-25503001-000100.01
+
+Klasing, Jannis  
+Förderung demokratischer Kultur,  
+Vorbeugung und Bekämpfung von  
+Rechtsextremismus; Landesprogramm  
+"Hamburg - Stadt mit Courage", Projekt:  
+Publikumsgespräche zum Thema  
+"Rechtsextremismus, Humanismus,  
+Transhumanismus und die Ideologiekämpfe  
+um das Mensch...
+
+2.005,00 3-25503001-000210.01
+
+WABE e.V. (e.V.)  
+die Schaffung von Betreuungsplätzen für  
+Kinder im Alter von 0 Jahren bis zum  
+Schuleintritt im Rahmen des  
+Investitionsprogramms 2017-2020 in der  
+Kita "Jenfelder Au", 22045 Hamburg
+
+1.644.240,00 2-25406001-00041.01
+
+Haas, Claudia Corinna
+
+Förderung demokratischer Kultur,  
+Vorbeugung und Bekämpfung von  
+Rechtsextremismus "Ausstellung für junge  
+Menschen über die Emigration von Architekt  
+und Bausenator G. Oelsner in die Türkei  
+von 1939-1949"
+
+5.000,00 3-25503001-000210.01
+
+Arbeiter-Samariter- Bund Landesverband Hamburg e.V. (e.V.)
+
+Hamburger Integrationsfonds -  
+Integrationspatenschaften fördern - Projekt  
+"Realisierung einer Vermittlungs- und  
+Vernetzungsplattform und einer  
+Öffentlichkeitskampagne zur Gewinnung  
+neuer Patinnen und Paten" - Drs. 21/6914
+
+150.000,00 3-25503001-000100.01
+
+Verein für  
+stadtteilbezogene  
+milieunahe  
+Erziehungshilfen e.V.  
+(e.V.)
+
+ein zusätzliches Angebot für  
+Flüchtlingsfamilein durch das EKiZ  
+Lerchenstraße für WUK  
+Kirchenpauerstraße
+
+18.110,70 3-25406001-000010.05
+
+Lufthansa Technical Training GmbH (GmbH)
+
+Durchführung einer berufsorientierten Ausbildungsvorbereitung für gewerblichtechnische Berufe
+
+85.000,00 3-25502001-021175.01
+
+SpielTiger e.V. Institut für Bewegung, Kultur und Spiel (e.V.)
+
+Ausstattung der Räume am Standort Theodorstrasse
+
+24.060,80 1-254.02.01.001.001
+
+Seite 49 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+LITTLE IVY GmbH (GmbH)
+
+die Schaffung von Betreuungsplätzen für  
+Kinder im Alter von 0 Jahren bis zum  
+Schuleintritt im Rahmen des  
+Investitionsprogramms 2017-2020 in der  
+Kita Quedlinburger Weg 34 in 22455  
+Hamburg
+
+240.023,00 2-25406001-00041.03
+
+PASSAGE  
+gemeinnützige  
+Gesellschaft für  
+Arbeit und Integration  
+mbH (gGmbH)
+
+Tagwerk-Projekt St. Georg 2017/2018 196.334,68 3-25502001-021615.01
+
+TÜV NORD  
+Technisches  
+Schulungszentrum  
+GmbH & Co. KG.  
+(GmbH & Co KG)
+
+BQ-Anschluss 2017 - Ausbildung zum Fahrzeuglackierer/zur Fahrzeuglackiererin
+
+31.201,71 3-25502001-000025.01
+
+Trägerinnenverbund  
+FLAKS e.V. (Frauen  
+Lernen Arbeit Kontakt  
+Service) (e.V.)
+
+Ersatzbeschaffung eines Druckers, Einrichtung und Einbindung ins Schulungsnetz
+
+507,59 1-254.03.02.009.001
+
+Bäcker-Innung Hamburg (Öffentlichrechtliche Körperschaft)
+
+Eingliederung in eine Berufsausbildung zum/zur Bäckereifachverkäufer/in, zum Bäcker/in (1 Teilnehmende
+
+17.268,00 3-25502001-000025.01
+
+Christliches  
+Jugenddorfwerk  
+Deutschlands  
+gemeinnütziger e.V.  
+(CJD) (e.V.)
+
+"Dekonstrukt" - Praxis-Forschungs-Projekt: Proaktive Auseinandersetzung mit neurechten Ideologien und Strukturen
+
+16.250,00 3-25503001-000210.01
+
+Der Paritätische Wohlfahrtsverband Hamburg e.V. (e.V.)
+
+Hamburger Integrationsfonds -  
+Umbaumaßnahme für das Paritätische  
+Kompetenzzentrum Migration (KomMig) zur  
+Vernetzung von Integrationsinitiativen - Drs.  
+21/7994
+
+6.784,90 3-25503001-000050.01
+
+Bleibe e.V. (e.V.)  
+Hamburger Integrationsfonds - Vermittlung,  
+Koordination und Begleitung von  
+Privatvormundschaften für unbegleitete  
+minderjährige Flüchtlinge - Drs. 21/7990
+
+65.000,00 1-254.03.02.006.001
+
+Koordinierungsstelle  
+Weiterbildung und  
+Beschäftigung e.V.  
+(KWB) (e.V.)
+
+Schulmentoren - Hand in Hand für starke Schulen 2.0 (KWB)
+
+411.000,00 3-25502001-031135.01
+
+Koordinierungsstelle  
+Weiterbildung und  
+Beschäftigung e.V.  
+(KWB) (e.V.)
+
+Schulmentoren - Hand in Hand für starke Schulen 2.0 (KWB)
+
+1.033.000,00 3-25502001-030010.01
+
+Behörde für Schule  
+und Berufsbildung  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+Schulmentoren - Hand in Hand für starke Schulen 2.0 (BSB)
+
+792.000,00 3-25502001-030010.01
+
+Seite 50 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+inab - Ausbildungsund  
+Beschäftigungsgesell  
+schaft des bfw mbH  
+(GmbH)
+
+BQ-Anschluss 2017 – Ausbildung zum Verkäufer / zur Verkäuferin
+
+24.420,00 3-25502001-000021.01
+
+inab - Ausbildungsund  
+Beschäftigungsgesell  
+schaft des bfw mbH  
+(GmbH)
+
+BQ-Anschluss 2017 – Ausbildung zum Kaufmann für Büromanagement / zur Kauffrau für Büromanagement
+
+25.088,98 3-25502001-000025.01
+
+Johann Daniel  
+Lawaetz-Stiftung  
+(Stiftung des  
+öffentlichen Rechts)
+
+Baumehrkosten für die Instandsetzung von Lutherpark, Haus 2
+
+380.000,00 2-25404228-80709.17
+
+PASSAGE  
+gemeinnützige  
+Gesellschaft für  
+Arbeit und Integration  
+mbH (gGmbH)
+
+BQ-Anschluss 2017 - Ausbildung zum Fachlagerist / zur Fachlageristin
+
+14.467,92 3-25502001-000025.01
+
+Zukunft Arbeit gemeinnützige GmbH (gGmbH)
+
+Kauf eines Fahrradladens mit Fahrradwerkstatt
+
+46.736,86 Bundesmittel "AlleImBetrieb" AIB
+
+Leseleo e.V. (e.V.)  
+Förderung demokratischer Kultur,  
+Vorbeugung und Bekämpfung von  
+Rechtsextremismus  
+Landesprogramm "Hamburg - Stadt mit  
+Courage"  
+Projekt: Wertebildung anbahnen durch  
+Sprache und den Einsatz künstlerischer  
+Mittel
+
+4.770,99 3-25503001-000210.01
+
+Allerleirauh e.V. (e.V.) Umzug in neue Räume und
+
+Renovierungsarbeiten in den alten Räumen
+
+11.238,36 1-254.03.02.010.001
+
+Landesinstitut für  
+Lehrerbildung und  
+Schulentwicklung  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+"bildmachen" von ufuq.de im Rahmen des Bundesprogramms "Demokratie leben"
+
+2.600,00 3-25503001-000213.01 3-25503001-000213.01
+
+Landesinstitut für  
+Lehrerbildung und  
+Schulentwicklung  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+"bildmachen" von ufuq.de im Rahmen des Bundesprogramms "Demokratie leben"
+
+11.000,00 3-25503001-000213.01
+
+MitOst Hamburg -  
+Verein für Sprach-,  
+Kultur- und  
+Jugendaustausch in  
+Europa e.V. (e.V.)
+
+Antrag über die Stiftung DRJA für das Kleinprojekt "Kalender 2018"
+
+1.000,00 1-254.05.03.001.001
+
+Seite 51 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Kaufmann, Fabian  
+Förderung demokratischer Kultur,  
+Vorbeugung und Bekämpfung von  
+Rechtsextremismus "Hamburg- Stadt mit  
+Courage" Broschüre über die Modemarke  
+"Thor Steinar"
+
+3.690,00 3-25503001-000210.01
+
+Johanniter-Unfall- Hilfe e. V. (e.V.)
+
+den Betrieb eines halboffenen  
+Kinderbetreuungsangebotes (HOB) in der  
+Erstaufnahmestelle (EA) Fiersbarg,  
+Fiersbarg 8, 22397 Hamburg
+
+13.230,00 2540699917
+
+Deutsches Rotes  
+Kreuz Hamburg  
+gemeinnützige  
+Gesellschaft zur  
+Förderung der Kinderund Jugendhilfe mbH  
+(gGmbH)
+
+die Einrichtung und den Betrieb eines halboffenen Kinderbetreuungsangebotes (HOB) in der WUK Grunewaldstraße
+
+11.416,50 1-254.06.02.002.001
+
+Tumaini e.V. (e.V.)  
+Förderung der chancengerechten Teilhabe  
+von Menschen mit Migrationshintergrund.  
+Projekt „Speziell - Normal: Perspektiven für  
+MigrantInnen mit Handicap"
+
+9.249,00 1-255.03.01.003.001
+
+Asmara´s World e.V. (e.V.)
+
+Förderung der chancengerechten Teilhabe von Menschen mit Migrationshintergrund. Projekt „Aufbau eines Bewohnerrates“
+
+9.499,00 1-255.03.01.003.001
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+ein zusätzliches Angebot für Flüchtlingsfamilien durch das EKiZ Stubbenhof in der WUK Am Röhricht
+
+3.018,46 3-25406001-000010.05
+
+Arbeiter-Samariter-  
+Bund  
+Sozialeinrichtungen  
+(Hamburg) GmbH  
+(GmbH)
+
+die Schaffung von Betreuungsplätzen für  
+Kinder im Alter von 0 Jahren bis zum  
+Schuleintritt im Rahmen des  
+Investitionsprogramms 2017-2020 in der  
+Kita "Tarpenbeker Ufer", 22453 Hamburg
+
+2.369.940,00 2-25406001-00041.23
+
+Cekirdek, Sezen  
+die Schaffung von Betreuungsplätzen für  
+Kinder im Alter von 0 Jahren bis zum  
+Schuleintritt im Rahmen des  
+Investitionsprogramms 2017-2020 in der  
+Kita "Die Glückskinder", Haferacker 14 in  
+21149 Hamburg
+
+331.825,00 2-25406001-00041.02
+
+Deutsches Rotes  
+Kreuz Hamburg  
+Altona und Mitte  
+gemeinnützige  
+Gesellschaft für  
+Kinder, Soziales und  
+Jugend KISO mbH  
+(gGmbH)
+
+die Anlauffinanzierung des Eltern-Kind- Zentrums in der Kita Albert-Einstein-Ring 1- 3, 22761 Hamburg
+
+20.978,75 2-25406001-81374.17
+
+Seite 52 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Deutsches Rotes  
+Kreuz Hamburg  
+Altona und Mitte  
+gemeinnützige  
+Gesellschaft für  
+Kinder, Soziales und  
+Jugend KISO mbH  
+(gGmbH)
+
+die Anlauffinanzierung des Eltern-Kind- Zentrums in der Kita Albert-Einstein-Ring 1- 3, 22761 Hamburg
+
+9.021,25 3-25406001-000010.05
+
+Deutsches Rotes  
+Kreuz Hamburg  
+Altona und Mitte  
+gemeinnützige  
+Gesellschaft für  
+Kinder, Soziales und  
+Jugend KISO mbH  
+(gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Albert-Einstein-Ring, Albert-Einstein-Ring 1- 3, 22761 Hamburg
+
+7.278,48 3-25406001-000010.05
+
+WABE e.V. (e.V.)  
+ein zusätzliches Angebot für  
+Flüchtlingsfamilien durch das EKiZ Hinterm  
+Graben in der WUK Curslacker Neuer  
+Deich 57
+
+2.414,76 3-25406001-000010.05
+
+PMP Projekt Management Partner GmbH (GmbH)
+
+die Anlauffinanzierung des EKiZ in der Kita Frosch, Am Gleisdreieck 19a+b, 21033 Hamburg
+
+7.000,00 2-25406001-81510.17
+
+PMP Projekt Management Partner GmbH (GmbH)
+
+die Anlauffinanzierung des EKiZ in der Kita Frosch, Am Gleisdreieck 19a+b, 21033 Hamburg
+
+22.900,00 3-25406001-000010.05
+
+Zündfunke e.V. (e.V.) Anschaffung Kopiergerät 655,69 1-254.03.02.010.001
+
+PMP Projekt Management Partner GmbH (GmbH)
+
+die laufende Förderung des EKiZ in der Frosch Kita, Gleisdreieck 19a+b, 21033 Hamburg
+
+9.704,64 3-25406001-000010.05
+
+Jugendgruppe des  
+Bundes der  
+Schwerhörigen e.V.  
+Hamburg (Sonstige)
+
+Anschaffung Laptop und Software
+2.819,60 1-254.02.03.001.001
+
+Hülsemann-Wagner, Anja
+
+die Schaffung von Betreuungsplätzen für  
+Kinder im Alter von 0 Jahren bis zum  
+Schuleintritt im Rahmen des  
+Investitionsprogramms 2017-2020 in der  
+Kita "Das Kinderhaus" Gryphiusstraße 1 in  
+22299 Hamburg
+
+213.285,00 2-25406001-00041.06
+
+Schönemann, Julia  
+die Schaffung von Betreuungsplätzen für  
+Kinder im Alter von 0 Jahren bis zum  
+Schuleintritt im Rahmen des  
+Investitionsprogramms 2017-2020 in der  
+Kita "Glücksnoten", Lübecker Straße 129-  
+131 in 22087 Hamburg
+
+545.250,00 2-25406001-00041.07
+
+MitOst Hamburg -  
+Verein für Sprach-,  
+Kultur- und  
+Jugendaustausch in  
+Europa e.V. (e.V.)
+
+Fachkräfteaustausch veter i volny Vernetzungstreffen über Stftung DRJA in Maschen/Hamburg im November 2017
+
+3.915,00 1-254.05.03.001.001
+
+Seite 53 von 54
+
+Zuwendungen 2017
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+MitOst Hamburg -  
+Verein für Sprach-,  
+Kultur- und  
+Jugendaustausch in  
+Europa e.V. (e.V.)
+
+Fachkräfteaustausch KJP-Antrag über Stiftung DRJA und Senatskanzlei in St.Petersburg im Januar 2018
+
+2.328,00 1-254.05.03.001.001
+
+MitOst Hamburg -  
+Verein für Sprach-,  
+Kultur- und  
+Jugendaustausch in  
+Europa e.V. (e.V.)
+
+Fachkräfteaustausch KJP-Antrag über Stiftung DRJA und Senatskanzlei in St.Petersburg im Januar 2018
+
+500,00 5-25405999-000001.02
+
+MitOst Hamburg -  
+Verein für Sprach-,  
+Kultur- und  
+Jugendaustausch in  
+Europa e.V. (e.V.)
+
+Jugendbegegnung "Chronos und Kairos -  
+Winter in Sibirien", Antrag über Stiftung  
+DRJA in Sibirien im Dezember 2017/Januar  
+2018
+
+9.650,00 1-254.05.03.001.001
+
+PFIFF gGmbH  
+Pflegekinder und ihre  
+Familien -  
+Fortbildung,  
+Information,  
+Öffentlichkeitsarbeit  
+(gGmbH)
+
+Anschaffung einer neuen Software für Seminarmanagement
+
+13.499,77 1-254.04.02.002.228
+
+Jugendfeuerwehr  
+Hamburg  
+Förderverein e.V.  
+(e.V.)
+
+Drucksache 21/7001 vom 02.12.2016 - Mitgliederkampagne der Jugendfeuerwehr Hamburg
+
+50.000,00 1-254.02.01.001.001
+
+Arbeitsgemeinschaft  
+Hamburger  
+Pfadfinderverbände  
+e.V. (e.V.)
+
+Zuwendung nach dem Landesförderplan  
+Pos. 2.3.4 Besondere Maßnahmen -  
+Unterstützung des Hamburger  
+Singewettstreites
+
+4.200,00 1-254.02.03.001.001
+
+Ebenezer Hilfsfonds Deutschland e.V. (e.V.)
+
+KJP-Antrag über ConAct für deutschisraelische Jugendbegegnung in Hamburg im März 2018 (IN-Maßnahme)
+
+8.736,00 1-254.05.03.001.001
+
+Ebenezer Hilfsfonds Deutschland e.V. (e.V.)
+
+KJP-Antrag über ConAct für deutschisraelische Jugendbegegnung in Tel Mond im Februar/März 2018 (OUT-Maßnahme)
+
+3.920,00 1-254.05.03.001.001
+
+Haus5 Service gemeinnützige GmbH (gGmbH)
+
+Zuwendung für die Modernisierung des Haus5-Restaurants innerhalb des Tätigkeitsfeldes Gastronomie
+
+84.480,38 SoVermSchwbG
+
+Arbeitsgemeinschaft  
+der Freien  
+Wohlfahrtspflege  
+Hamburg e.V. (e.V.)
+
+die Umsetzung des Projektes "Kita-Einstieg  
+Hamburg" im Rahmen des  
+Bundesprogramms "Kita-Einstieg: Brücken  
+bauen in frühe Bildung" des BMFSFJ
+
+418.637,14 1-254.06.02.002.001
+
+Haus5 Service gemeinnützige GmbH (gGmbH)
+
+Zuwendung für die Ausstattung von 2 neuen  
+Arbeitsplätzen im Bereich  
+Gastronomie/Restaurant durch Erweiterung  
+eines zusätzlichen  
+Gastraumes/Gesellschaftsraumes
+
+50.000,00 Bundesmittel "AlleImBetrieb" AIB
+
+Seite 54 von 54
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Elbe-Werkstätten GmbH (GmbH)
+
+Zuwendung an die Elbe Werkstätten GmbH für Brandschutzsanierung am Standort Rahel-Varnhagen-Weg
+
+2.317.388,00 SoVermSchwbG
+
+Theater Jugend Hamburg e.V. (e.V.)
+
+kulturelle Jugendarbeit "Theater Projekte / Produktion"
+
+8.300,00 1-254.02.01.001.001
+
+Theater Jugend Hamburg e.V. (e.V.)
+
+kulturelle Jugendarbeit "Theater - Kurse - Schule"
+
+3.700,00 1-254.02.01.001.001
+
+"Dolle Deerns" Verein  
+zur Förderung  
+feministischer  
+Mädchenarbeit e.V.  
+(e.V.)
+
+Schaffung der Voraussetzungen für die organisatorische Durchführung des Girls'Day 2018
+
+3.990,00 1-254.02.01.001.001
+
+Verband Kinder- und Jugendarbeit Hamburg e.V. (e.V.)
+
+Landesweiter Fachverband für offene Kinderund Jugendarbeit
+
+162.821,89 1-254.02.01.001.001
+
+Verein für  
+stadtteilbezogene  
+milieunahe  
+Erziehungshilfen e.V.  
+(e.V.)
+
+Gemeinwesenorientierte Hilfen für Familien in Stadtteilen
+
+172.136,77 1-254.04.02.002.228
+
+"Dolle Deerns" Verein  
+zur Förderung  
+feministischer  
+Mädchenarbeit e.V.  
+(e.V.)
+
+Betrieb der Kontakt- und Informationsstelle Berufsorientierung und Lebensplanung von Mädchen
+
+50.159,96 1-254.02.02.001.001
+
+Arbeitsgemeinschaft  
+Kinder- und  
+Jugendschutz  
+Hamburg e.V. (e.V.)
+
+Qualifizierung sozialpädagogischer  
+Fachkräfte in der Hamburger Jugendhilfe  
+und Recherchemaßnahmen zum Thema  
+Salafismus
+
+20.828,61 1-254.02.01.001.001
+
+Arbeitsgemeinschaft  
+Kinder- und  
+Jugendschutz  
+Hamburg e.V. (e.V.)
+
+Betrieb einer Beratungsstelle zum Schutz von Kindern und Jugendlichen
+
+213.790,33 1-254.02.02.001.001
+
+Arbeitsausschuss der  
+Organisationen  
+ehemals Verfolgter in  
+Hamburg (Sonstige)
+
+Durchführung gemeinsamer Angelegenheiten ehemals Verfolgter in Hamburg
+
+2.400,00 1-254.07.02.004.001
+
+"Dolle Deerns" Verein  
+zur Förderung  
+feministischer  
+Mädchenarbeit e.V.  
+(e.V.)
+
+Durchführung von Projekten zur praktischen Unterstützung des Berufswahlprozesses von Mädchen "Mädchen erfahren Berufe"
+
+7.906,74 1-254.02.02.001.001
+
+Behinderten- und  
+Rehabilitations-  
+Sportverband  
+Hamburg e.V. (BRS  
+Hamburg) (e.V.)
+
+Betrieb der Geschäftsstelle des Behindertenund Rehabilitationssportverbands Hamburg e.V.
+
+84.871,76 1-253.04.01.001.001
+
+Seite 1 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+Förderung von regionalen  
+Integrationszentren (IZ) für Zugewanderte in  
+Hamburg  
+gem. Richtlinie der Behörde für Arbeit,  
+Soziales, Familie und Integration (BASFI)  
+vom 18.07.2017
+
+341.650,00 1-255.03.01.001.001
+
+Trägerinnenverbund  
+FLAKS e.V. (Frauen  
+Lernen Arbeit Kontakt  
+Service) (e.V.)
+
+Sozialpädagogisches Angebot und Geschäftsführung für das Zentrum für Frauen in Altona-Nord von FLAKS e.V.
+
+195.040,27 1-254.03.02.009.001
+
+Trägerinnenverbund  
+FLAKS e.V. (Frauen  
+Lernen Arbeit Kontakt  
+Service) (e.V.)
+
+Förderung 0,5 Stelle "Hauswirtschafter/in" für das Infocafé des Mehrgenerationenhauses
+
+20.461,45 1-254.03.02.009.001
+
+Jugendsozialarbeit Schanzenviertel e.V. (e.V.)
+
+Finanzierung von vier Lehrkräften für die  
+Durchführung des Angebotes "Vorbereitung  
+des externen Hauptschulabschluss" im  
+Rahmen des Projektes "JobKontor"
+
+28.320,00 3-25502001-021119.01
+
+Johann Daniel  
+Lawaetz-Stiftung  
+(Stiftung des  
+öffentlichen Rechts)
+
+Existenzgründungberatung und Seminare 300.000,00 3-25502001-006678.01
+
+Trockendock e.V. (e.V.)
+
+Betrieb des Projektes "Lass 1000 Steine rollen" und der Geschäftsstelle
+
+432.918,76 1-254.02.02.001.001
+
+Allerleirauh e.V. (e.V.) Betrieb einer Beratungsstelle bei sexuellem
+
+Missbrauch
+
+212.456,38 1-254.03.02.010.001
+
+Trockendock e.V. (e.V.)
+
+Spielaktionen in Unterkünften der öffentlichrechtlichen Unterbringung - Hauptprojekt -
+
+200.390,08 1-254.02.01.001.001
+
+Trockendock e.V. (e.V.)
+
+Spielaktionen in Unterkünften der öffentlichrechtlichen Unterbringung (Erweiterung 1)
+
+31.280,50 1-254.02.01.001.001
+
+Zündfunke e.V. (e.V.) Betrieb einer Beratungsstelle gegen
+
+sexuellen Missbrauch an Kindern und Frauen
+
+251.356,70 1-254.03.02.010.001
+
+"Dolle Deerns" Verein  
+zur Förderung  
+feministischer  
+Mädchenarbeit e.V.  
+(e.V.)
+
+Beratungsstelle gegen sexuelle Gewalt an Mädchen und jungen Frauen
+
+148.852,83 1-254.03.02.010.001
+
+Zentrale Information  
+und Beratung für  
+Flüchtlinge gGmbH  
+(gGmbH)
+
+Clearingstelle zur medizinischen Versorgung von Ausländerinnen und Ausländern
+
+76.000,00 5-25302999-000001.01
+
+Zentrale Information  
+und Beratung für  
+Flüchtlinge gGmbH  
+(gGmbH)
+
+Clearingstelle zur medizinischen Versorgung von Ausländerinnen und Ausländern
+
+271.548,27 1-253.02.03.003.001
+
+Seite 2 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Deutsches Rotes  
+Kreuz Hamburg  
+gemeinnützige  
+Gesellschaft zur  
+Förderung der Kinderund Jugendhilfe mbH  
+(gGmbH)
+
+Projekt Hippy 217.206,21 1-254.03.02.006.001
+
+Jugenderholungswer k Hamburg e.V. (e.V.)
+
+Durchführung von Kinder- und Jugenderholungsfreizeiten
+
+1.139.926,83 1-254.02.01.001.001
+
+AKTION  
+KINDERPARADIES  
+Betreute  
+Kinderspielplätze  
+Hamburg e.V. (e.V.)
+
+Betreute Spielangebote auf Kleinkinderspielplätzen
+
+50.370,25 1-254.02.01.001.001
+
+Johann Daniel  
+Lawaetz-Stiftung  
+(Stiftung des  
+öffentlichen Rechts)
+
+Personal- und Sachkosten für die Geschäftsführung
+
+178.000,00 1-254.03.02.008.001
+
+Johann Daniel  
+Lawaetz-Stiftung  
+(Stiftung des  
+öffentlichen Rechts)
+
+Projektberatung, -entwicklung und - betreuung - Wohnen für Familien in Hamburg
+
+397.000,00 1-254.03.02.008.001
+
+Jugend und Sport e.V. (e.V.)
+
+Sicherstellung der Arbeit der Fanprojekte 255.000,00 1-254.02.02.001.001
+
+Wohnschiffprojekt  
+Altona - Hilfe für  
+Flüchtlingskinder e.V.  
+(e.V.)
+
+Integrationshilfe für Kinder und Jugendliche aus Flüchtlingsfamilien mit ungesichertem Aufenthalt
+
+49.335,44 2540599912
+
+Wohnschiffprojekt  
+Altona - Hilfe für  
+Flüchtlingskinder e.V.  
+(e.V.)
+
+Neue Integrationsangebote in der  
+Berzeliusstraße für Kinder und Jugendliche  
+aus Flüchtlingsfamilien mit ungesichertem  
+Aufenthalt
+
+31.727,12 2540599912
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+Home Support- Unterstützung für Dein Zuhause der Evangelischen Stiftung Bodelschwingh
+
+179.192,37 1-254.04.02.002.228
+
+Bund der Schwerhörigen e.V. Hamburg (e.V.)
+
+Betrieb des Beratungszentrums für Schwerhörige und Ertaubte
+
+54.178,67 1-253.04.01.001.001
+
+Zornrot e.V. (e.V.) Beratungsstelle für von sexualisierter Gewalt betroffene Mädchen und Jungen
+
+148.791,36 1-254.03.02.010.001
+
+Gehörlosenverband Hamburg e.V. (e.V.)
+
+Betrieb einer Kontakt- und Beratungsstelle für gehörlose, schwerhörige und ertaubte Menschen
+
+135.836,00 1-253.04.01.001.001
+
+Gehörlosenverband Hamburg e.V. (e.V.)
+
+Betrieb einer Kontakt- und Beratungsstelle für gehörlose, schwerhörige und ertaubte Menschen
+
+15.400,00 2530499911
+
+Gehörlosenverband Hamburg e.V. (e.V.)
+
+Betrieb einer Kontakt- und Beratungsstelle für gehörlose, schwerhörige und ertaubte Menschen
+
+4.600,00 2530499912
+
+Seite 3 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Stiftung Kulturpalast Hamburg (Stiftung des privaten Rechts)
+
+ein mobiles Musikangebot der Klangstrolche in Wohnunterkünften (WUK)
+
+50.000,00 3-25406001-000010.05
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+Betrieb der Tagesaufenthaltsstätte Herz As 295.593,64 1-253.03.01.001.001
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+Betrieb der Tagesaufenthaltsstätte Bundesstraße
+
+81.000,00 1-253.03.01.001.001
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+Hamburger Stadtmission, anteilige Personalkosten für die "Bahnhofsmission"
+
+210.500,00 1-253.03.01.001.001
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+Straßensozialarbeit in der Hamburger City
+60.537,86 1-253.03.01.001.001
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+Kooperation zur Unterstützung von EU- Bürgern beim Zugang zur Krankenversicherung
+
+30.000,00 1-253.02.03.003.001
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+Straßensozialarbeit Projekt Plata/Anlaufstelle für wohnungslose, vorwiegend osteuropäische Bürger
+
+177.928,44 1-253.03.01.001.001
+
+Hamburger  
+Gehörlosen-  
+Sportverein von 1904  
+e.V. (e.V.)
+
+Deckung der Personalkosten für die  
+notwendige Beschäftigung eines  
+Geschäftsführersim Sportbetrieb für  
+gehörlose, ertaubte, schwerhörige, CI-  
+trägerische Menschen sowie die teilweise  
+Deckung der Sachkosten der  
+Geschäftsstelle im HGSV
+
+122.136,33 1-253.04.01.001.001
+
+Interkulturelle Begegnungsstätte e.V. (e.V.)
+
+Ergänzende Sprachförderung für besondere Lernbedarfe im Rahmen des EHAP- Projektes step.in
+
+30.800,00 1-255.03.01.002.001
+
+Zentrale Information  
+und Beratung für  
+Flüchtlinge gGmbH  
+(gGmbH)
+
+Integrationsförderung von Zugewanderte in Hamburg Förderung: Deutschkurse für Flüchtlinge
+
+736.513,18 1-255.03.01.002.001
+
+Bildungswerk der Wirtschaft Hamburg e.V. (e.V.)
+
+Intensivierung der Zusammenarbeit  
+zwischen Schulen und Unternehmen in  
+regionaen Arbeitskreisen  
+SCHULEWIRTSCHAFT für eine bessere  
+Berufs- und Studienorientierung
+
+49.152,55 3-25502001-021119.01
+
+Seite 4 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+STATTBAU  
+HAMBURG  
+Stadtentwicklungsges  
+ellschaft mbH  
+(GmbH)
+
+Projektberatung und -entwicklung Wohnen für Familien in Hamburg
+
+165.000,00 1-254.03.02.008.001
+
+Vaeter e.V. (e.V.)  
+Betrieb des Väterzentrums  
+89.533,80 1-254.03.02.006.001  
+BASIS & WOGE e.V.  
+(e.V.)
+
+Betrieb der Anlaufstelle KIDS 817.779,82 1-254.02.02.001.001
+
+BASIS & WOGE e.V. (e.V.)
+
+Betrieb einer Notschlafstelle für minderjährige Mädchen und Jungen im Harvighorster Redder 46 c
+
+92.324,85 1-254.02.02.001.001
+
+BASIS & WOGE e.V. (e.V.)
+
+Betrieb der Übernachtungsstelle St. Georgstraße 15 + 17
+
+282.025,18 1-254.02.02.001.001
+
+Türkische Gemeinde  
+in Hamburg und  
+Umgebung (TGH)  
+e.V. (e.V.)
+
+"Neue Wege" - Prävention von  
+Antisemitismus bei Jugendlichen mit  
+Migrationshintergrund im Rahmen des  
+Bundesprogramms "Demokratie leben"
+
+14.857,15 3-25503001-000210.01
+
+BASIS & WOGE e.V. (e.V.)
+
+Überregionale Straßensozialarbeit für junge Menschen, ohne oder geringe regionale Bezüge - Projekt "Sidewalx"
+
+248.823,16 1-254.04.02.002.228
+
+Arbeit und Leben DGB/VHS Hamburg e.V. (e.V.)
+
+Beratungsstelle "empower" im Rahmen des Bundesprogramms "Demokratie leben"
+
+114.114,84 3-25503001-000214.01
+
+Arbeit und Leben DGB/VHS Hamburg e.V. (e.V.)
+
+Beratungsstelle "empower" im Rahmen des Bundesprogramms "Demokratie leben"
+
+25.127,72 3-25503001-000210.01
+
+Arbeit und Leben DGB/VHS Hamburg e.V. (e.V.)
+
+Mobile Beratung im Rahmen des Bundesprogramms "Demokratie leben"
+
+111.364,84 3-25503001-000214.01
+
+Arbeit und Leben DGB/VHS Hamburg e.V. (e.V.)
+
+Mobile Beratung im Rahmen des Bundesprogramms "Demokratie leben"
+
+33.340,04 3-25503001-000210.01
+
+BASIS & WOGE e.V. (e.V.)
+
+Partizipationsprojekt "Ständige Vertretung der Straßenkinder-HH" Projekt MOMO
+
+41.594,27 1-254.02.02.001.001
+
+BASIS & WOGE e.V. (e.V.)
+
+Betrieb einer anonymen Schutzeinrichtung für akut gefährdete junge Mädchen und Frauen in interkulturellen Konflikten
+
+408.153,75 1-254.04.02.002.228
+
+Islamisches  
+Wissenschafts- und  
+Bildungsinstitut e.V.  
+(e.V.)
+
+Al Wasat – Die Mitte im Rahmen des Bundesprogramms "Demokratie leben
+
+14.895,83 3-25503001-000211.01
+
+BASIS & WOGE e.V. (e.V.)
+
+Ersatzbeschaffung Notebook für die Übernachtungsstelle
+
+1.000,81 1-254.02.02.001.001
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+Anlaufstelle zur Begegnung von jungen Menschen im interkulturellem Austausch in Hamburg
+
+5.000,00 1-254.05.03.001.001
+
+Von Anfang an e.V. (e.V.)
+
+Entwicklungspsychologische Beratung von Eltern mit Kindern bis 3 Jahren in den Elternschulen Barmbek und Veddel
+
+11.520,00 1-254.03.02.006.001
+
+AUTONOM LEBEN e.V. (e.V.)
+
+Betrieb einer Beratungsstelle für Menschen mit Behinderung
+
+129.170,27 1-253.04.01.001.001
+
+Seite 5 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Deutsche Hilfsgemeinschaft e.V. (e.V.)
+
+Kinder- und Jugenderholungsmaßnahmen für Kinder und Jugendliche aus Familien mit geringem Einkommen
+
+200.554,73 1-254.02.01.001.001
+
+BASIS & WOGE e.V. (e.V.)
+
+Tagesstrukturierendes Angebot "peopel collection"
+
+58.602,63 1-254.02.02.001.001
+
+Barrierefrei Leben  
+e.V.-Verein für  
+Hilfsmittelberatung,  
+Wohnraumanpassun  
+g und barrierefreie  
+Bauberatung (e.V.)
+
+Betrieb eine Beratungszentrums für technische Hilfen und Wohnraumanpassung
+
+301.703,39 1-253.04.01.001.001
+
+Notruf für  
+vergewaltigte Frauen  
+und Mädchen e.V.  
+(e.V.)
+
+Betrieb einer Fachberatungsstelle bei sexualisierter Gewalt
+
+385.637,80 1-255.03.04.002.001
+
+2. Hamburger Frauenhaus e.V. (e.V.)
+
+Betrieb der Koordinierungs- und Servicestelle 24/7
+
+36.372,60 5-25503999-000001.01
+
+2. Hamburger Frauenhaus e.V. (e.V.)
+
+Betrieb der Koordinierungs- und Servicestelle 24/7
+
+506.982,57 1-255.03.04.001.001
+
+Arbeitsgemeinschaft  
+der Freien  
+Wohlfahrtspflege  
+Hamburg e.V. (e.V.)
+
+Betrieb und Weiterentwicklung der internetgestützten AKTIVOLI- Freiwilligenakademie Hamburg
+
+45.000,00 1-255.03.02.001.001
+
+Johann Daniel  
+Lawaetz-Stiftung  
+(Stiftung des  
+öffentlichen Rechts)
+
+Landeskoordinierungsstelle für das  
+Beratungsnetzwerk gegen  
+Rechtsextremismus im Rahmen des  
+Bundesprogramms "Demokratie leben"
+
+36.666,67 3-25503001-000214.01
+
+Johann Daniel  
+Lawaetz-Stiftung  
+(Stiftung des  
+öffentlichen Rechts)
+
+Landeskoordinierungsstelle für das  
+Beratungsnetzwerk gegen  
+Rechtsextremismus im Rahmen des  
+Bundesprogramms "Demokratie leben"
+
+18.705,49 3-25503001-000210.01
+
+Sprachbrücke- Hamburg e.V. (e.V.)
+
+"Sprache im Alltag" - Qualifizierung,  
+Koordination und Begleitung der  
+ehrenamtlichen dezentralen  
+Sprachförderung für Zugewanderte und  
+Geflüchtete
+
+58.063,44 1-255.03.01.002.001
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+Vormundschaften Mündelbetreuung
+68.220,82 1-254.03.02.006.001
+
+verikom - Verbund für  
+interkulturelle  
+Kommunikation und  
+Bildung e.V. (e.V.)
+
+amira - Beratung bei Diskriminierung wegen (zugeschriebener) Herkunft und Religion
+
+179.880,00 1-255.03.01.003.001
+
+Wendepunkt e.V. (e.V.)
+
+Beratungsstelle für sexuell auffällige Kinder, Jugendliche und junge Erwachsene bis 21 Jahre in Hamburg
+
+133.771,70 1-254.03.02.010.001
+
+SpielTiger e.V. Institut für Bewegung, Kultur und Spiel (e.V.)
+
+Spielaktionen in Unterkünften der öffentlichrechlichen Unterbringung - Hauptprojekt -
+
+602.889,44 1-254.02.01.001.001
+
+Seite 6 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Caritasverband für das Erzbistum Hamburg e.V. (e.V.)
+
+Zuschuss für den Betrieb der Krankenstube für Obdachlose
+
+372.643,01 1-253.03.01.001.001
+
+Mehrgenerationenha us Nachbarschatz e.V. (e.V.)
+
+Projekt Opstapje: Frühförderung von Kindern und deren Eltern 01/2018-07/2019
+
+107.791,42 1-254.03.02.006.001
+
+Caritasverband für das Erzbistum Hamburg e.V. (e.V.)
+
+Wahrnehmung der Spitzenverbandsfunktionen
+
+35.000,00 1-253.01.01.003.001
+
+Hamburger  
+Landesarbeitsgemein  
+schaft für behinderte  
+Menschen e.V. (e.V.)
+
+Betrieb einer Geschäftsstelle und  
+Vereinstätigkeit der Hamburger  
+Landesarbeitsgemeinschaft für behinderte  
+Menschen
+
+114.961,85 1-253.04.01.001.001
+
+ARINET Arbeits- Integrations-Netzwerk GmbH (GmbH)
+
+PICo - Personenindividuelles Coaching für Menschen mit Behinderung und psychischer Erkrankung
+
+202.337,89 3-25502001-000004.01
+
+PFIFF gGmbH  
+Pflegekinder und ihre  
+Familien -  
+Fortbildung,  
+Information,  
+Öffentlichkeitsarbeit  
+(gGmbH)
+
+Vermittlung und Begleitung von Patenschaften für Kinder psychisch belasteter und kranker Mütter bzw. Väter
+
+213.645,61 1-254.04.02.002.228
+
+PFIFF gGmbH  
+Pflegekinder und ihre  
+Familien -  
+Fortbildung,  
+Information,  
+Öffentlichkeitsarbeit  
+(gGmbH)
+
+Bereitschaftspflege 102.169,24 1-254.04.02.002.228
+
+Amnesty for Women, Städtegruppe Hamburg e.V. (e.V.)
+
+Betrieb einer Beratungsstelle für Migrantinnen
+
+140.936,00 1-254.03.02.009.001
+
+Ev.-Luth.  
+Kirchenkreis  
+Hamburg-  
+West/Südholstein  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+Evangelische Familienbildung 280.000,00 1-254.03.02.006.001
+
+Sozialdienst katholischer Frauen e.V. (e.V.)
+
+SkF vor Ort -Stärkung der Familienkompetenz durch die stadtteilorientierten Angebote vor Ort
+
+11.608,60 1-254.03.02.006.001
+
+Jugendarbeitskreis  
+Hamburg im  
+Volksbund Deutsche  
+Kriegsgräberfürsorge  
+e.V. (Sonstige)
+
+Hamburg Memory: Was bedeutet Hamburg für mich?
+
+27.390,02 1-254.02.03.001.001
+
+Seite 7 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Liberale Jüdische Gemeinde Hamburg e.V. (e.V.)
+
+Kinder- und Jugendgruppen Keshet- Regenbogen
+
+11.820,00 1-254.02.01.001.001
+
+BASIS & WOGE e.V. (e.V.)
+
+Prävention von religiös motivierter  
+Radikalisierung von Kindern und  
+Jugendlichen: "SelbstSicherSein" im  
+Rahmen des Bundesprogramms  
+"Demokratie leben"
+
+59.583,33 3-25503001-000215.01
+
+BASIS & WOGE e.V. (e.V.)
+
+Prävention von religiös motivierter  
+Radikalisierung von Kindern und  
+Jugendlichen: "SelbstSicherSein" im  
+Rahmen des Bundesprogramms  
+"Demokratie leben"
+
+19.559,35 3-25503001-000211.01
+
+Arbeitskreis Musik in  
+der Jugend -  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Musikkurse für Kinder, Jugendliche und Familien
+
+3.000,00 1-254.02.01.001.001
+
+Lebenshilfe Landesverband Hamburg e. V. (e.V.)
+
+Hamburger Integrationsfonds - Geflüchtete  
+mit Behinderung und ihre Angehörigen mit  
+den Projekten "We Are Family" und "Flucht  
+und Behinderung" sowie der Einrichtung  
+eines Dolmetscherpools unterstützen - Drs.  
+21/8893
+
+55.958,06 3-25503001-000050.01
+
+Zentrale Information  
+und Beratung für  
+Flüchtlinge gGmbH  
+(gGmbH)
+
+Betrieb "Zentrale Information und Beratung für Flüchtlinge gGmbH" (ZIB) - Flüchtlingszentrum
+
+1.426.130,47 1-255.03.01.005.001
+
+PFIFF gGmbH  
+Pflegekinder und ihre  
+Familien -  
+Fortbildung,  
+Information,  
+Öffentlichkeitsarbeit  
+(gGmbH)
+
+Pflegeelternschule 202.172,15 1-254.04.02.002.228
+
+Verein zur Förderung der Jugendarbeit e.V. (e.V.)
+
+Spielaktionen in Unterkünften der öffentlichrechtlichen Unterbringung (Hauptprojekt)
+
+209.091,25 1-254.02.01.001.001
+
+Beschäftigung und Bildung e.V. (e.V.)
+
+Vormundschaften für minderjährige unbegleitete Flüchtlinge
+
+183.303,41 1-254.03.02.006.001
+
+Arbeitsgemeinschaft  
+Interkultureller  
+Jugendverbände  
+Hamburg e.V.  
+(A.G.I.J. e.V.) (e.V.)
+
+Arbeit mit jungen Geflüchteten in den migrantischen Jugendverbänden
+
+68.859,64 1-254.02.03.001.001
+
+Ev.-Luth.  
+Kirchenkreis  
+Hamburg-Ost  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+Familienförderndes Angebot für  
+zugewanderte und einheimische Familien  
+mit Kindern in der Evangelischen  
+Familienbildungsstätte Eppendorf  
+(Kochprojekt)
+
+3.476,60 1-254.03.02.006.001
+
+jhj Hamburg e.V. (e.V.)
+
+Gesellschaftsfähig 2018 362.714,28 1-254.02.02.001.001
+
+Seite 8 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+AKTIVOLI- Landesnetzwerk Hamburg e.V. (e.V.)
+
+Förderung der AKTIVOLI-Landesnetzwerk Geschäftsstelle
+
+59.000,00 1-255.03.02.001.001
+
+Ev.-Luth.  
+Kirchenkreis  
+Hamburg-Ost  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+Familienfördernde Angebote für zugewanderte und einheimische Familien und ihre Kinder in Harburg
+
+4.044,08 1-254.03.02.006.001
+
+Institut für  
+konstruktive  
+Konfliktaustragung  
+und Mediation e.V.  
+(e.V.)
+
+Qualifizierungsarbeit zur Gewaltprävention
+15.000,00 1-254.02.02.001.001
+
+ab ausblick hamburg gmbh (GmbH)
+
+Azubi-Wohnen in Farmsen 221.566,22 3-25502001-000013.01
+
+Hamburger  
+Gebärdensprachjuge  
+ndclub "Nordlicht"  
+e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+5.000,00 1-254.02.03.001.001
+
+verikom - Verbund für  
+interkulturelle  
+Kommunikation und  
+Bildung e.V. (e.V.)
+
+Ergänzende Sprachförderung für besondere  
+Lernbedarfe  
+Projekt: Niedrigschwellige Sprachkurse -  
+Alphakurse in der Herkunftssprache
+
+55.900,00 1-255.03.01.002.001
+
+verikom - Verbund für  
+interkulturelle  
+Kommunikation und  
+Bildung e.V. (e.V.)
+
+Ergänzende Sprachförderung für besondere Lernbedarfe im Rahmen des EHAP- Projektes step.in
+
+24.100,00 1-255.03.01.002.001
+
+BI Bildung und  
+Integration Hamburg  
+Süd gGmbH  
+(gGmbH)
+
+Ergänzende Sprachförderung für besondere Lernbedarfe im Rahmen des EHAP- Projektes step.in
+
+23.100,00 1-255.03.01.002.001
+
+Universitätsklinikum  
+Hamburg-Eppendorf  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+Förderung des Kinder-Kompetenz-Zentrums im UKE
+
+328.806,17 1-254.04.02.002.228
+
+Ev.-Luth.  
+Kirchenkreis  
+Hamburg-  
+West/Südholstein  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+die laufende Förderung des EKiZ in der Kita Maria Magdalena, Achtern Born 127, 22549 Hamburg
+
+79.524,85 3-25406001-000010.05
+
+Rudolf Ballin-Stiftung e.V. (e.V.)
+
+für die laufende Förderung des EKiZ in der Kita Das Spielnetz, Bockhorster Weg 3, 21031 Hamburg
+
+63.619,89 3-25406001-000010.05
+
+Seite 9 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Ev.-Luth.  
+Kirchenkreis  
+Hamburg-  
+West/Südholstein  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+die laufende Förderung des EKiZ in der Kita Sonnengarten, Bornheide 76, 22549 Hamburg
+
+63.619,89 3-25406001-000010.05
+
+Deutsches Rotes  
+Kreuz Hamburg  
+gemeinnützige  
+Gesellschaft zur  
+Förderung der Kinderund Jugendhilfe mbH  
+(gGmbH)
+
+die laufende Förderung des EKiZ in der Kita "Bluma Mekler", Brüder-Hornemann-Straße 3, 22457 Hamburg
+
+63.619,89 3-25406001-000010.05
+
+Kinderwelt Hamburg e.V. (e.V.)
+
+die laufende Förderung des EKiZ in der Kita Rappelkiste, Hermann-Balk-Str. 47, 22147 Hamburg
+
+63.619,89 3-25406001-000010.05
+
+WABE e.V. (e.V.)  
+die laufende Förderung des EKiZ in der Kita  
+Neuer Mohnhof, Hinterm Graben 37, 21029  
+Hamburg
+
+63.619,89 3-25406001-000010.05
+
+Verein für  
+stadtteilbezogene  
+milieunahe  
+Erziehungshilfen e.V.  
+(e.V.)
+
+die laufende Förderung des EKiZ in der Kita Schilleroper, Lerchenstr. 28, 22767 Hamburg
+
+79.524,85 3-25406001-000010.05
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+die laufende Förderung des EKiZ in der Kita DRK Kinderzentrum Neuenfelde, Liedenkummer Bogen 2, 21129 Hamburg
+
+58.769,38 3-25406001-000010.05
+
+Ev.-Luth.  
+Kirchenkreis  
+Hamburg-Ost  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+die laufende Förderung des EKiZ in der Kita Luther, Lühmannstr. 13a, 21075 Hamburg
+
+79.524,85 3-25406001-000010.05
+
+Ev.-Luth. Luther-  
+Kirchengemeinde  
+Hamburg-Bahrenfeld  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+die laufende Förderung eines EKiZ in der Kita der Luthergemeinde Hamburg- Bahrenfeld, Lyserstr. 25, 22761 Hamburg
+
+63.619,89 3-25406001-000010.05
+
+Ev.-Luth.  
+Kirchenkreis  
+Hamburg-Ost  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+die laufende Förderung des EKiZ in der Kita Emmaus, Mannesallee 13, 21107 Hamburg
+
+79.524,85 3-25406001-000010.05
+
+Evangelische Stiftung Alsterdorf (Stiftung des privaten Rechts)
+
+die laufende Förderung des EKiZ in der Kita Moorwisch, Moorwisch2, 22547 Hamburg
+
+60.094,95 3-25406001-000010.05
+
+Rudolf Ballin-Stiftung e.V. (e.V.)
+
+die laufende Förderung des EKiZ in der Kita Mümmelmaus, Paul-Klee-Str. 3, 22115 Hamburg
+
+79.524,85 3-25406001-000010.05
+
+Seite 10 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Deutsches Rotes  
+Kreuz Hamburg  
+gemeinnützige  
+Gesellschaft zur  
+Förderung der Kinderund Jugendhilfe mbH  
+(gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Regenbogen, Röpraredder 70, 21031 Hamburg
+
+79.524,85 3-25406001-000010.05
+
+Arbeiterwohlfahrt Landesverband Hamburg e.V. (e.V.)
+
+die laufende Förderung des EKiZ in der Kita am Jonanna-Kirchner-Haus, Rosa-Schapire- Weg 8, 21035 Hamburg
+
+79.524,85 3-25406001-000010.05
+
+Ev.-Luth.  
+Kirchenkreis  
+Hamburg-  
+West/Südholstein  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+die laufende Förderung des EKiZ in der Kita Iserbrook, Schenefelder Landstr. 198, 22589 Hamburg
+
+63.619,89 3-25406001-000010.05
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+die laufende Förderung des EKiZ in der Kita Lelka Birnbaum, St. Pauli Hafenstraße 100, 20359 Hamburg
+
+77.728,38 3-25406001-000010.05
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+die laufende Förderung des EKiZ in der Kita Stubbenhof, Dr. Ernst-Hinze-Haus, Stubbenhof 20, 21147 Hamburg
+
+77.728,38 3-25406001-000010.05
+
+Arbeiterwohlfahrt Landesverband Hamburg e.V. (e.V.)
+
+die laufende Förderung des EKiZ in der Kita Löwenzahn, Tegelsbarg 2h, 22399 Hamburg
+
+63.619,89 3-25406001-000010.05
+
+Caritasverband für das Erzbistum Hamburg e.V. (e.V.)
+
+Förderung von regionalen  
+Integrationszentren für Zugewanderte (IZ) im  
+Bezirk Hamburg Wandsbek gem. der  
+Richtlinie der Behörde für Arbeit, Soziales,  
+Familie und Integration (BASFI) vom  
+18.07.2017
+
+256.237,50 1-255.03.01.001.001
+
+Caritasverband für das Erzbistum Hamburg e.V. (e.V.)
+
+Förderung von regionalen  
+Integrationszentren für Zugewanderte (IZ) im  
+Bezirk Hamburg Bergedorf gem. der  
+Richtline der Behörde für Arbeit, Soziales,  
+Familie und Integration (BASFI) vom  
+18.07.2017
+
+85.412,50 1-255.03.01.001.001
+
+BI Bildung und  
+Integration Hamburg  
+Süd gGmbH  
+(gGmbH)
+
+Förderung von regionalen  
+Integrationszentren für Zugewanderte (IZ) im  
+Bezirk Hamburg-Mitte gem. der Richtlinie  
+der Behörde für Arbeit, Soziales, Familie und  
+Integration (BASFI) vom 18.07.2017
+
+256.237,50 1-255.03.01.001.001
+
+BI Bildung und  
+Integration Hamburg  
+Süd gGmbH  
+(gGmbH)
+
+Förderung von regionalen  
+Integrationszentren für Zugewanderte (IZ) im  
+Bezirk Hamburg Harburg gem. der Richtlinie  
+der Behörde für Arbeit, Soziales, Familie und  
+Integration (BASFI) vom 18.07.2017
+
+256.237,50 1-255.03.01.001.001
+
+Seite 11 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Interkulturelle Begegnungsstätte e.V. (e.V.)
+
+Förderung von regionalen  
+Integrationszentren für Zugewanderte (IZ) im  
+Bezirk Hamburg Mitte / St. Pauli gem.der  
+Richtlinie der Behörde für Arbeit, Soziales,  
+Familie und Integration (BASFI) vom  
+18.07.2017
+
+85.412,50 1-255.03.01.001.001
+
+Interkulturelle Begegnungsstätte e.V. (e.V.)
+
+Richtlinie von regionalen Integrationszentren für Zugewanderte (IZ) im Bezirk Hamburg Eimsbüttel gem. der Richtlinie der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) vom 18.07.2017
+
+256.237,50 1-255.03.01.001.001
+
+verikom - Verbund für  
+interkulturelle  
+Kommunikation und  
+Bildung e.V. (e.V.)
+
+Förderung von regionalen  
+Integrationszentren für Zugewanderte (IZ) im  
+Bezirk Hamburg Altona gem. Richtlinie der  
+Behörde für Arbeit , Soziales, Familie und  
+Integration (BASFI) vom 18.07.2017
+
+341.650,00 1-255.03.01.001.001
+
+verikom - Verbund für  
+interkulturelle  
+Kommunikation und  
+Bildung e.V. (e.V.)
+
+Föderung von regionalen  
+Integrationszentren für Zugewanderte (IZ) im  
+Bezirk Hamburg Mitte gem. Richtlinie der  
+Behörde für Arbeit , Soziales, Fammilie und  
+Integration (BASFI) vom 18.07.2017
+
+384.356,25 1-255.03.01.001.001
+
+Internationaler Bund  
+(IB) Freier Träger der  
+Jugend-, Sozial- und  
+Bildungsarbeit (e.V.)
+
+Förderung von regionalen  
+Integrationszentren für Zugewanderte (IZ) im  
+Bezirk Hamburg Wandsbek gem. der  
+Richtlinie der Behörde für Arbeit, Soziales,  
+Familie und Integration (BASFI) vom  
+18.07.2017
+
+170.825,00 1-255.03.01.001.001
+
+Internationaler Bund  
+(IB) Freier Träger der  
+Jugend-, Sozial- und  
+Bildungsarbeit (e.V.)
+
+Förderung von regionalen  
+Integrationszentren für Zugewanderte (IZ) im  
+Bezirk Hamburg Bergedorf gem. der  
+Richtlinie der Behörde für Arbeit, Soziales,  
+Familie und Integration (BASFI) vom  
+18.07.2017
+
+85.412,50 1-255.03.01.001.001
+
+PFIFF gGmbH  
+Pflegekinder und ihre  
+Familien -  
+Fortbildung,  
+Information,  
+Öffentlichkeitsarbeit  
+(gGmbH)
+
+Overhead und Öffentlichkeitsarbeit 280.271,97 1-254.04.02.002.228
+
+Die Mission.  
+Künstlerische  
+Maßnahmen gegen  
+die Kälte e.V. (e.V.)
+
+Miet- und Raumkostenzuschuss für eine Tagesaufenthaltsstätte für Obdachlose
+
+6.900,00 1-253.03.01.001.001
+
+Christliches  
+Jugenddorfwerk  
+Deutschlands  
+gemeinnütziger e.V.  
+(CJD) (e.V.)
+
+Sozialraumorientierte Ausstiegshilfe und Unterstützung von Distanzierungsprozessen rechtsaffiner junger Menschen
+
+42.625,00 3-25503001-000214.01
+
+Seite 12 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Christliches  
+Jugenddorfwerk  
+Deutschlands  
+gemeinnütziger e.V.  
+(CJD) (e.V.)
+
+Sozialraumorientierte Ausstiegshilfe und Unterstützung von Distanzierungsprozessen rechtsaffiner junger Menschen
+
+8.768,88 3-25503001-000210.01
+
+Christliches  
+Jugenddorfwerk  
+Deutschlands  
+gemeinnütziger e.V.  
+(CJD) (e.V.)
+
+"Dekonstrukt" - Praxis-Forschungs-Projekt: Proaktive Auseinandersetzung mit neurechten Ideologien und Strukturen
+
+14.899,22 3-25503001-000210.01
+
+Theater Jugend Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+8.520,00 1-254.02.03.001.001
+
+Caritasverband für Hamburg e.V. (e.V.)
+
+Stützpunkt für obdachlose Menschen
+32.000,00 1-253.03.01.001.001
+
+Caritasverband für Hamburg e.V. (e.V.)
+
+Bahnhofsmission
+66.000,00 1-253.03.01.001.001
+
+Theater Jugend Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit
+
+2.070,00 1-254.02.03.001.001
+
+Hamburger Sportjugend im HSB (Sonstige)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+130.000,00 1-254.02.03.001.001
+
+Verein der kulturellen  
+medialen  
+Kommunikationsstell  
+e der Migration (Mig-  
+Zentrum) e.V. (e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit
+
+7.148,00 1-254.02.03.001.001
+
+Bündnis der  
+Islamischen  
+Gemeinden in  
+Norddeutschland e.V.  
+(e.V.)
+
+Think Social Now 2.0 - Verantwortung übernehmen im Internet im Rahmen des Bundesprogramms "Demokratie leben"
+
+14.895,83 3-25503001-000211.01
+
+Verein der kulturellen  
+medialen  
+Kommunikationsstell  
+e der Migration (Mig-  
+Zentrum) e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+20.000,00 1-254.02.03.001.001
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita An der Falkenbek, An der Falkenbek 4, 22149 Hamburg
+
+79.524,85 3-25406001-000010.05
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Bengelsdorfstraße, Bengelsdorfstr. 7, 22179 Hamburg
+
+63.619,89 3-25406001-000010.05
+
+Seite 13 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Dahlemer Ring, Dahlemer Ring 3, 22045 Hamburg
+
+79.524,85 3-25406001-000010.05
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Dortmunder Straße, Dortmunder Str. 44, 22419 Hamburg
+
+63.619,89 3-25406001-000010.05
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Druckerstraße, Druckerstraße 19, 22117 Hamburg
+
+60.094,95 3-25406001-000010.05
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Eddelbüttelstraße, Eddelbüttelstr. 9, 21149 Hamburg
+
+63.619,89 3-25406001-000010.05
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Hartzloh, Hartzloh 50, 22307 Hamburg
+
+63.619,89 3-25406001-000010.05
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Hermannstal, Hermannstal 88, 22119 Hamburg
+
+79.524,85 3-25406001-000010.05
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Stadt Oase, Lohkampstr. 41, 22523 Hamburg
+
+63.619,89 3-25406001-000010.05
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Lothringer Straße, Lothringer Straße 18, 22049 Hamburg
+
+63.619,89 3-25406001-000010.05
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in den Räumen der Kita Osterbrook, Osterbrook 49, 20537 Hamburg
+
+63.619,89 3-25406001-000010.05
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in den Räumen der Kita Prassekstraße, Prassekstr. 3, 21109 Hamburg
+
+60.094,95 3-25406001-000010.05
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in den Räumen der Kita Sandfoort, Sandfoort 39, 22415 Hamburg
+
+60.094,95 3-25406001-000010.05
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in den Räumen der Kita Scheplerstraße, Scheplerstr. 5, 22767 Hamburg
+
+63.619,89 3-25406001-000010.05
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in der Kita Spitzbergenweg, Spitzbergenweg 40, 22145 Hamburg
+
+60.094,95 3-25406001-000010.05
+
+Seite 14 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in den Räumen der Kita Steilshooper Allee, Steilshooper Allee 30, 22309 Hamburg
+
+63.619,89 3-25406001-000010.05
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in den Räumen der Kita Uffelnsweg, Uffelnsweg 1, 20539 Hamburg
+
+63.619,89 3-25406001-000010.05
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in den Räumen der Kita Vizelinstraße, Vizelinstr. 48, 22529 Hamburg
+
+63.619,89 3-25406001-000010.05
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+die laufende Förderung des EKiZ in den Räumen der Kita Wagrierweg, Wagrierweg 16, 22455 Hamburg
+
+79.524,85 3-25406001-000010.05
+
+jaf-Verein für  
+medienpädagogische  
+Praxis Hamburg e.V.  
+(e.V.)
+
+FILM DIR EINEN - Medienprojekte mit Kindern und Jugendlichen
+
+7.290,00 1-254.02.01.001.001
+
+Hamburger Sportjugend im HSB (Sonstige)
+
+Zuwendung nach dem Landesförderplan Pos. 2.3.1.3 Bildungsreferentinnnen und - referenten der Jugendarbeit
+
+45.340,00 1-254.02.03.001.001
+
+Naturschutzjugend  
+Hamburg,  
+Landesverband  
+Hamburg (e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit
+
+939,00 1-254.02.03.001.001
+
+Naturschutzjugend  
+Hamburg,  
+Landesverband  
+Hamburg (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+19.000,00 1-254.02.03.001.001
+
+Jugendrotkreuz im  
+DRK-Landesverband  
+Hamburg e.V.  
+(Sonstige)
+
+Zuwendung nach dem Landesförderplan Pos. 2.3.1.3 Bildungsreferentinnnen und - referenten der Jugendarbeit
+
+45.340,00 1-254.02.03.001.001
+
+Kemenate-Frauen- Wohnen e.V. (e.V.)
+
+Betrieb eines Tagestreffs für wohnungslose Frauen
+
+268.079,31 1-253.03.01.001.001
+
+MV-Jugend Hamburg (Sonstige)
+
+Förderung nach dem Landesförderplan Pos 2.3.2.1 Freizeiten
+
+575,00 1-254.02.03.001.001
+
+Sprungbrett Dienstleistungen gGmbH (gGmbH)
+
+Finanzierung einer Anleiterstelle Gedenkstätte Neuengamme
+
+35.730,83 3-25502001-021615.01
+
+MV-Jugend Hamburg (Sonstige)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+880,00 1-254.02.03.001.001
+
+Evangelischmethodistische  
+Jugend in der Freien  
+und Hansestadt  
+Hamburg (Sonstige)
+
+Zuwendung nach dem Landesförderplan Pos. 2.3.1.3 Bildungsreferentinnnen und - referenten der Jugendarbeit
+
+22.670,00 1-254.02.03.001.001
+
+Seite 15 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Landesjugendring Hamburg e.V. (e.V.)
+
+Förderung der Arbeit des Landesjugendrings Hamburg gem. LFP Position 2.3.5
+
+265.287,50 1-254.02.03.001.001
+
+Jugendfeuerwehr Hamburg (Sonstige)
+
+Zuwendung nach dem Landesförderplan Pos. 2.3.1.3 Bildungsreferentinnnen und - referenten der Jugendarbeit
+
+45.340,00 1-254.02.03.001.001
+
+DGB-Jugend Land Hamburg (Sonstige)
+
+Förderung nach dem Landesförderplan Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit
+
+16.794,78 1-254.02.03.001.001
+
+Bund der Deutschen  
+Katholischen Jugend -  
+Landesarbeitsgemein  
+schaft in der Freien  
+und Hansestadt  
+Hamburg (BDKJ-LAG-  
+HH) (Sonstige)
+
+Zuwendung nach dem Landesförderplan Pos. 2.3.1.3 Bildungsreferentinnnen und - referenten der Jugendarbeit
+
+45.340,00 1-254.02.03.001.001
+
+Sozialistische Jugend Deutschlands "Die Falken" (Sonstige)
+
+Zuwendung nach dem Landesförderplan Pos. 2.3.1.3 Bildungsreferentinnnen und - referenten der Jugendarbeit
+
+45.340,00 1-254.02.03.001.001
+
+Beratungs- und  
+Informationsstelle von  
+Frauen für Frauen -  
+Winterhude- e.V.  
+(e.V.)
+
+Biff Harburg - Hauptprojekt -Psychosoziale Beratung von Frauen in Krisensituationen
+
+93.202,15 1-254.03.02.009.001
+
+Sozialistische Jugend Deutschlands "Die Falken" (Sonstige)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+26.900,00 1-254.02.03.001.001
+
+Sozialistische Jugend Deutschlands "Die Falken" (Sonstige)
+
+Förderung nach dem Landesförderplan Pos 2.3.2.1 Freizeiten
+
+520,00 1-254.02.03.001.001
+
+Sozialistische Jugend Deutschlands "Die Falken" (Sonstige)
+
+Förderung nach dem Landesförderplan Pos. 2.3.2.2 Förderung für junge Menschen aus einkommensschwachen Familien
+
+12.000,00 1-254.02.03.001.001
+
+Integrationshilfen e.V. (e.V.)
+
+Berufliche Eingliederung für Haftentlassene "Sprungbrett"
+
+63.149,99 1-253.03.02.003.001
+
+Sozialistische Jugend Deutschlands "Die Falken" (Sonstige)
+
+Förderung nach dem Landesförderplan Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit
+
+120,00 1-254.02.03.001.001
+
+Landesjugendwerk  
+Hamburg des Bundes  
+Freikirchlicher  
+Pfingstgemeinden  
+(Sonstige)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+18.500,00 1-254.02.03.001.001
+
+Seite 16 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Landesjugendwerk  
+Hamburg des Bundes  
+Freikirchlicher  
+Pfingstgemeinden  
+(Sonstige)
+
+Förderung nach dem Landesförderplan Pos. 2.3.2.2 Förderung für junge Menschen aus einkommensschwachen Familien
+
+25.000,00 1-254.02.03.001.001
+
+Landesjugendwerk  
+Hamburg des Bundes  
+Freikirchlicher  
+Pfingstgemeinden  
+(Sonstige)
+
+Förderung nach dem Landesförderplan Pos 2.3.2.1 Freizeiten
+
+5.000,00 1-254.02.03.001.001
+
+KOMCIWAN /  
+Jugend- und  
+Kulturverein aus  
+Kurdistan e.V. (e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit
+
+2.400,00 1-254.02.03.001.001
+
+Deutsche  
+Pfadfinderschaft St.  
+Georg - DPSG -  
+Diözesanverband  
+Hamburg (Sonstige)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+20.800,00 1-254.02.03.001.001
+
+Deutsche  
+Pfadfinderschaft St.  
+Georg - DPSG -  
+Diözesanverband  
+Hamburg (Sonstige)
+
+Förderung nach dem Landesförderplan Pos 2.3.2.1 Freizeiten
+
+7.500,00 1-254.02.03.001.001
+
+Deutsche  
+Pfadfinderschaft St.  
+Georg - DPSG -  
+Diözesanverband  
+Hamburg (Sonstige)
+
+Förderung nach dem Landesförderplan Pos. 2.3.2.2 Förderung für junge Menschen aus einkommensschwachen Familien
+
+5.000,00 1-254.02.03.001.001
+
+Junge Presse Hamburg e.V. (kurz: jphh) (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+2.600,00 1-254.02.03.001.001
+
+Christlicher Verein  
+Junger Menschen,  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+18.000,00 1-254.02.03.001.001
+
+Christlicher Verein  
+Junger Menschen,  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan Pos. 2.3.2.2 Förderung für junge Menschen aus einkommensschwachen Familien
+
+12.000,00 1-254.02.03.001.001
+
+Christlicher Verein  
+Junger Menschen,  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.2.1 Freizeiten
+
+1.575,00 1-254.02.03.001.001
+
+Verband Christlicher  
+Pfadfinderinnen und  
+Pfadfinder in  
+Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit
+
+1.300,00 1-254.02.03.001.001
+
+Seite 17 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+DGB-Jugend Land Hamburg (Sonstige)
+
+Zuwendung nach dem Landesförderplan Pos. 2.3.1.3 Bildungsreferentinnnen und - referenten der Jugendarbeit
+
+45.340,00 1-254.02.03.001.001
+
+fkk - jugend e.V. Landesverband Nord (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+2.500,00 1-254.02.03.001.001
+
+fkk - jugend e.V. Landesverband Nord (e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.2.1 Freizeiten
+
+555,00 1-254.02.03.001.001
+
+Deutsche Schreberjugend Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+14.700,00 1-254.02.03.001.001
+
+Deutsche Schreberjugend Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit
+
+3.208,42 1-254.02.03.001.001
+
+Deutsche Schreberjugend Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan Pos. 2.3.2.1 Freizeiten
+
+415,00 1-254.02.03.001.001
+
+Deutsche Schreberjugend Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan Pos. 2.3.2.2 Förderung für junge Menschen aus einkommensschwachen Familien
+
+14.000,00 1-254.02.03.001.001
+
+Arbeitsgemeinschaft  
+freier  
+Jugendverbände in  
+Hamburg - AGfJ -  
+e.V. (e.V.)
+
+Zuwendung nach dem Landesförderplan Pos. 2.3.1.3 Bildungsreferentinnnen und - referenten der Jugendarbeit
+
+45.340,00 1-254.02.03.001.001
+
+Integrationshilfen e.V. (e.V.)
+
+Wohnprojekt für Haftentlassene "Trotzdem" 181.901,27 1-253.03.02.003.001
+
+BIFF - Psychosoziale  
+Beratung und  
+Information für  
+Frauen und Mädchen  
+e.V. (e.V.)
+
+Betrieb einer Frauenberatungsstelle 2018 213.575,42 1-254.03.02.009.001
+
+Gemeinnützige  
+Wohnheimgesellscha  
+ft des Hamburger  
+Fürsorgevereins von  
+1948 m.b.H.  
+(gGmbH)
+
+Ambulante Wohnbegleitung für Haftentlassene
+
+70.008,69 1-253.03.02.003.001
+
+Verband Christlicher  
+Pfadfinderinnen und  
+Pfadfinder in  
+Hamburg e.V. (e.V.)
+
+Zuwendung nach dem Landesförderplan Pos. 2.3.1.3 Bildungsreferentinnnen und - referenten der Jugendarbeit
+
+45.340,00 1-254.02.03.001.001
+
+Hamburger Sportjugend im HSB (Sonstige)
+
+Förderung nach dem Landesförderplan Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit
+
+11.500,00 1-254.02.03.001.001
+
+Seite 18 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+THW-Jugend Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+4.000,00 1-254.02.03.001.001
+
+THW-Jugend Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.2.1 Freizeiten
+
+1.400,00 1-254.02.03.001.001
+
+Lawaetz-Service GmbH (GmbH)
+
+Wohnraumversorgung und -sicherung von  
+jungen Familien, jungen Erwachsenen und  
+Einzelpersonen mit besonderem  
+Unterstützungsbedarf-Institutionelle  
+Förderung der Lawaetz-Service GmbH von  
+Overheadkosten
+
+179.546,58 1-254.03.02.008.001
+
+THW-Jugend Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit
+
+600,00 1-254.02.03.001.001
+
+JEF-Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+8.700,00 1-254.02.03.001.001
+
+KOMCIWAN /  
+Jugend- und  
+Kulturverein aus  
+Kurdistan e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+4.120,00 1-254.02.03.001.001
+
+Lawaetz-Service GmbH (GmbH)
+
+Wohnraumversorgung und -sicherung von  
+jungen Familien, jungen Erwachsenen und  
+Einzelpersonen mit besonderem  
+Unterstützungsbedarf - Soziale  
+Hausverwaltung
+
+12.931,11 1-254.03.02.008.001
+
+Lawaetz-wohnen & leben gGmbH (gGmbH)
+
+Jugend & Wohnen 2018 687.812,49 1-254.04.02.002.228
+
+Pfadfinder &  
+Pfadfinderinnenbund  
+Nordlicht e.V. (PBNL)  
+(e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit
+
+1.080,00 1-254.02.03.001.001
+
+Beratungs- und  
+Informationsstelle von  
+Frauen für Frauen -  
+Winterhude- e.V.  
+(e.V.)
+
+Projekt Biff Harburg - Erweiterungsprojekt -  
+Förderung der Integration von geflüchteten  
+Frauen unter traumasensiblen  
+Gesichtspunkten
+
+21.029,75 1-254.03.02.009.001
+
+Jugend der freien  
+Evangelischen  
+Gemeinden  
+Norddeutschland  
+(Sonstige)
+
+Jugendverbandsarbeit Grundförderung Pos.
+2.3.1.1 und 2.3.1.2 LFP
+9.410,00 1-254.02.03.001.001
+
+Jugend der freien  
+Evangelischen  
+Gemeinden  
+Norddeutschland  
+(Sonstige)
+
+Allgemeine Fördeurng von Freizeiten Pos
+2.3.2.1 LFP
+1.300,00 1-254.02.03.001.001
+
+Seite 19 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Jugend der freien  
+Evangelischen  
+Gemeinden  
+Norddeutschland  
+(Sonstige)
+
+Förderung für junge Menschen aus einkommensschwachen Familien Pos.
+2.3.2.2 LFP
+
+1.398,00 1-254.02.03.001.001
+
+Hamburger Sportjugend im HSB (Sonstige)
+
+Allgemeiner Zuschuss zu Freizeiten Pos.
+2.3.2.1 LFP
+55.000,00 1-254.02.03.001.001
+
+KITA SONNEN- KINDER HAMBURG GmbH (GmbH)
+
+die Schaffung von Betreuungsplätzen für  
+Kinder im Alter von 0 Jahren bis zum  
+Schuleintritt im Rahmen des  
+Investitionsprogramms 2017-2020 in der  
+Kita "Sonnen-Kinder", Fruchtallee 106 in  
+20259 Hamburg
+
+273.033,00 2-25406001-00041.05
+
+Arbeiter-Samariter-  
+Bund  
+Sozialeinrichtungen  
+(Hamburg) GmbH  
+(GmbH)
+
+Sozialpädagogische Betreuung und Beratung in der Mistralstraße 3 - 5
+
+106.491,34 1-253.03.03.005.001
+
+Evangelischmethodistische  
+Jugend in der Freien  
+und Hansestadt  
+Hamburg (Sonstige)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+7.350,00 1-254.02.03.001.001
+
+MALCA e.V. Deutsch  
+Lateinamerikanischer  
+Jugend- und  
+Kulturverband (e.V.)
+
+Anschaffung Laptop, externe Festplatte, Handy und Kamera
+
+1.063,20 1-254.02.03.001.001
+
+Hamburger Fürsorgeverein von 1948 e.V. (e.V.)
+
+Betrieb der Sozialen Beratungsstelle Eimsbüttel
+
+366.868,06 1-253.03.02.003.001
+
+Deutsches Rotes Kreuz Landesverband Hamburg e.V. (e.V.)
+
+Betrieb der Sozialen Beratungsstelle Barmbek (Hamburg-Nord)
+
+398.648,99 1-253.03.02.003.001
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+Betrieb der Sozialen Beratungsstelle Bergedorf/Billstedt
+
+369.841,08 1-253.03.02.003.001
+
+Sozialdienst  
+katholischer Frauen  
+e.V. Hamburg-Altona  
+(e.V.)
+
+Betrieb der Sozialen Beratungsstelle Hamburg-Mitte
+
+389.058,40 1-253.03.02.003.001
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+Betrieb der Sozialen Beratungsstelle Hamburg-Harburg
+
+378.014,59 1-253.03.02.003.001
+
+Jugendhilfe e.V. (e.V.)
+
+Betrieb der Sozialen Beratungsstelle Wandsbek
+
+411.037,69 1-253.03.02.003.001
+
+Seite 20 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+Betrieb der sozialen Beratungsstelle Altona 399.646,69 1-253.03.02.003.001
+
+Verein zur Förderung der Jugendarbeit e.V. (e.V.)
+
+Spielaktionen in Unterkünften der öffentlichrechtlichen Unterbringung (Erweiterung 1)
+
+171.358,83 1-254.02.01.001.001
+
+Landesinstitut für  
+Lehrerbildung und  
+Schulentwicklung  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+"bildmachen" von ufuq.de im Rahmen des Bundesprogramms "Demokratie leben"
+
+13.750,00 3-25503001-000215.01
+
+Advent-Jugend Hamburg (Sonstige)
+
+Förderung für junge Menschen aus einkommensschwachen Familien Pos.
+2.3.2.2 LFP
+
+1.460,00 1-254.02.03.001.001
+
+Advent-Jugend Hamburg (Sonstige)
+
+Jugendverbandsarbeit Grundförderung Pos.
+2.3.1.1 und 2.3.1.2 LFP
+8.738,80 1-254.02.03.001.001
+
+Advent-Jugend Hamburg (Sonstige)
+
+Allgemeine Förderung von Freizeiten Pos
+2.3.2.1 LFP 500,00 1-254.02.03.001.001
+
+Jugendrotkreuz im  
+DRK-Landesverband  
+Hamburg e.V.  
+(Sonstige)
+
+Allgemeine Förderung von Freizeiten Pos
+2.3.2.1 LFP 975,00 1-254.02.03.001.001
+
+Jugendrotkreuz im  
+DRK-Landesverband  
+Hamburg e.V.  
+(Sonstige)
+
+Förderung für junge Menschen aus einkommensschwachen Familien Pos.
+2.3.2.2 LFP
+
+4.095,00 1-254.02.03.001.001
+
+Arbeitsgemeinschaft  
+Hamburger  
+Pfadfinderverbände  
+e.V. (e.V.)
+
+Jugendverbandsarbeit Grundförderung Pos.
+2.3.1.1 und 2.3.1.2 LFP
+36.409,09 1-254.02.03.001.001
+
+Arbeitsgemeinschaft  
+Hamburger  
+Pfadfinderverbände  
+e.V. (e.V.)
+
+Bereitstellung von Räumen für die Jugendarbeit Pos. 2.3.1.5 LFP
+
+1.710,00 1-254.02.03.001.001
+
+Arbeiter-Samariter-  
+Jugend Hamburg  
+Landesjugend  
+Hamburg (Sonstige)
+
+Jugendverbandsarbeit Grundförderung Pos.
+2.3.1.1 und 2.3.1.2 LFP
+2.000,00 1-254.02.03.001.001
+
+wellcome ggmbh (gGmbH)
+
+Landeskoordination wellcome Hamburg
+37.116,40 1-254.03.02.006.001
+
+ver.di - Vereinte  
+Dienstleistungsgewer  
+kschaft,  
+Landesbezirke  
+Hamburg und Nord  
+(Sonstige)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+37.500,00 1-254.02.03.001.001
+
+Alleinerziehenden  
+Treffpunkt und  
+Beratung e.V. (ATB)  
+(e.V.)
+
+Beratungs- und Begegnungsstätte für  
+Alleinerziehende und Beratung sowie  
+Gruppenarbeit für Schwangere in der  
+Trennungskrise
+
+246.707,35 1-254.04.02.002.228
+
+Seite 21 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Jugendrotkreuz im  
+DRK-Landesverband  
+Hamburg e.V.  
+(Sonstige)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+24.000,00 1-254.02.03.001.001
+
+Pfadfinder- und Pfadfinderinnenbund Nord (Sonstige)
+
+Förderung nach dem Landesförderplan Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit
+
+16.846,00 1-254.02.03.001.001
+
+Pfadfinder- und Pfadfinderinnenbund Nord (Sonstige)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+45.000,00 1-254.02.03.001.001
+
+Deutscher  
+Kinderschutzbund  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Betrieb des Elterntelefons Hamburg
+52.603,18 1-254.03.02.006.001
+
+DGB-Jugend Land Hamburg (Sonstige)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+67.500,00 1-254.02.03.001.001
+
+Pfadfinder- und Pfadfinderinnenbund Nord (Sonstige)
+
+Förderung nach dem Landesförderplan Pos 2.3.2.1 Freizeiten
+
+30.000,00 1-254.02.03.001.001
+
+Pfadfinder- und Pfadfinderinnenbund Nord (Sonstige)
+
+Förderung nach dem Landesförderplan Pos. 2.3.2.2 Förderung für junge Menschen aus einkommensschwachen Familien
+
+30.000,00 1-254.02.03.001.001
+
+Bund der  
+Pfadfinderinnen und  
+Pfadfinder (BdP)  
+Landesverband  
+Schleswig-  
+Holstein/Hamburg  
+(e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit
+
+175,00 1-254.02.03.001.001
+
+Bund der  
+Pfadfinderinnen und  
+Pfadfinder (BdP)  
+Landesverband  
+Schleswig-  
+Holstein/Hamburg  
+(e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+2.384,00 1-254.02.03.001.001
+
+Bund der  
+Pfadfinderinnen und  
+Pfadfinder (BdP)  
+Landesverband  
+Schleswig-  
+Holstein/Hamburg  
+(e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.2.1 Freizeiten
+
+805,00 1-254.02.03.001.001
+
+Seite 22 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Bund der  
+Pfadfinderinnen und  
+Pfadfinder (BdP)  
+Landesverband  
+Schleswig-  
+Holstein/Hamburg  
+(e.V.)
+
+Förderung nach dem Landesförderplan Pos. 2.3.2.2 Förderung für junge Menschen aus einkommensschwachen Familien
+
+1.225,00 1-254.02.03.001.001
+
+Evangelische Jugend Hamburg (Sonstige)
+
+Zuwendung nach dem Landesförderplan Pos. 2.3.1.3 Bildungsreferentinnnen und - referenten der Jugendarbeit
+
+45.340,00 1-254.02.03.001.001
+
+MALCA e.V. Deutsch  
+Lateinamerikanischer  
+Jugend- und  
+Kulturverband (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+3.120,00 1-254.02.03.001.001
+
+BUND-Jugend Hamburg (Sonstige)
+
+Förderung nach dem Landesförderplan Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit
+
+1.575,00 1-254.02.03.001.001
+
+BUND-Jugend Hamburg (Sonstige)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+17.000,00 1-254.02.03.001.001
+
+Bund der Deutschen  
+Katholischen Jugend -  
+Landesarbeitsgemein  
+schaft in der Freien  
+und Hansestadt  
+Hamburg (BDKJ-LAG-  
+HH) (Sonstige)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+52.000,00 1-254.02.03.001.001
+
+Bund der Deutschen  
+Katholischen Jugend -  
+Landesarbeitsgemein  
+schaft in der Freien  
+und Hansestadt  
+Hamburg (BDKJ-LAG-  
+HH) (Sonstige)
+
+Förderung nach dem Landesförderplan Pos. 2.3.2.2 Förderung für junge Menschen aus einkommensschwachen Familien
+
+32.000,00 1-254.02.03.001.001
+
+Johann Daniel  
+Lawaetz-Stiftung  
+(Stiftung des  
+öffentlichen Rechts)
+
+Entwicklung, Steuerung und Koordinerung  
+des Projekts "Haus- und  
+Quartiersmanagement für das Haus 2 und  
+das Park-Café im Lutherpark"
+
+20.500,84 1-254.04.02.002.228
+
+Jugendarbeitskreis  
+Hamburg im  
+Volksbund Deutsche  
+Kriegsgräberfürsorge  
+e.V. (Sonstige)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+5.400,00 1-254.02.03.001.001
+
+Seite 23 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Arbeiter-Wassersport-  
+Verein für Hamburg  
+und Umgegend  
+gegründet 1909 e.V.  
+(e.V.)
+
+Anschaffung von Betten/Matratzen und Sitz- Garnitur für das Vereinshaus
+
+4.110,25 1-254.02.03.001.001
+
+Bund Deutscher  
+PfadfinderInnen -  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+4.440,00 1-254.02.03.001.001
+
+Bund Deutscher  
+PfadfinderInnen -  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit
+
+200,00 1-254.02.03.001.001
+
+Pfadfinder &  
+Pfadfinderinnenbund  
+Nordlicht e.V. (PBNL)  
+(e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+10.200,00 1-254.02.03.001.001
+
+Eriträischer Jugendund Kulturverein Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+8.000,00 1-254.02.03.001.001
+
+Eriträischer Jugendund Kulturverein Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit
+
+10.200,00 1-254.02.03.001.001
+
+Bund Deutsch- Unitarischer Jugend e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+1.600,00 1-254.02.03.001.001
+
+Verband binationaler  
+Familien und  
+Partnerschaften, iaf  
+(e.V.)
+
+Beratung von binationalen/bikulturellen Paaren und Familien sowie Koordinierung, Anleitung und Qualifizierung der ehrenamtlichen Beratung dieser Zielgruppe
+
+113.113,78 1-254.04.02.002.228
+
+Bund der Deutschen  
+Katholischen Jugend -  
+Landesarbeitsgemein  
+schaft in der Freien  
+und Hansestadt  
+Hamburg (BDKJ-LAG-  
+HH) (Sonstige)
+
+Förderung nach dem Landesförderplan Pos 2.3.2.1 Freizeiten
+
+14.000,00 1-254.02.03.001.001
+
+Evangelische Jugend Hamburg (Sonstige)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+115.000,00 1-254.02.03.001.001
+
+Seite 24 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Evangelische Jugend Hamburg (Sonstige)
+
+Förderung nach dem Landesförderplan Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit
+
+5.221,00 1-254.02.03.001.001
+
+Evangelische Jugend Hamburg (Sonstige)
+
+Förderung nach dem Landesförderplan Pos 2.3.2.1 Freizeiten
+
+32.500,00 1-254.02.03.001.001
+
+Deutscher Pfadfinderbund Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.2.1 Freizeiten
+
+1.248,00 1-254.02.03.001.001
+
+Deutscher Pfadfinderbund Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit
+
+1.461,99 1-254.02.03.001.001
+
+Deutscher  
+Kinderschutzbund  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Durchführung des Projekts "Starke Eltern - Starke Kinder"
+
+23.729,87 1-254.03.02.006.001
+
+Arbeitsgemeinschaft  
+Interkultureller  
+Jugendverbände  
+Hamburg e.V.  
+(A.G.I.J. e.V.) (e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit
+
+37.727,26 1-254.02.03.001.001
+
+Arbeitsgemeinschaft  
+freier  
+Jugendverbände in  
+Hamburg - AGfJ -  
+e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+40.000,00 1-254.02.03.001.001
+
+Deutscher Pfadfinderbund Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+6.400,00 1-254.02.03.001.001
+
+Verband Christlicher  
+Pfadfinderinnen und  
+Pfadfinder in  
+Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+50.000,00 1-254.02.03.001.001
+
+BilleVue GbR (GbR) Ausbildungsmesse Hamburger Osten 2018
+8.000,00 3-25502001-021119.01
+
+DJO - Deutsche  
+Jugend in Europa  
+Landesverband  
+Hamburg (Sonstige)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+2.300,00 1-254.02.03.001.001
+
+European  
+PLAYWORK  
+Association e.V.  
+(e.V.)
+
+Förderung des Europa JUGEND-Büros: Zuschuss zu den Personalkosten
+
+176.196,87 1-254.05.03.001.001
+
+Vereinigung Hamburger Deutsch- Türken e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+2.000,00 1-254.02.03.001.001
+
+Seite 25 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Zentrale Information  
+und Beratung für  
+Flüchtlinge gGmbH  
+(gGmbH)
+
+die Vermittlung des Zugangs von Kindern  
+ohne Aufenthaltsstatus zu frühkindlichen  
+Bildungsangeboten in  
+Kindertageseinrichtungen in Hamburg
+
+250.000,00 3-25406001-000010.05
+
+Ausbildungsförderung der Hamburger Wirtschaft e.V. (e.V.)
+
+Vermittlung in Einstiegsqualifizierungen für  
+Ausbildungsplatzsuchende mit  
+Vermittlungshemmnissen zum Übergang in  
+reguläre Ausbildungen bei Hamburger  
+Unternehmen
+
+177.073,95 3-25502001-021119.01
+
+Deutscher  
+Kinderschutzbund  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Projekt "Patenschaften für unbegleitete minderjährige Flüchtlinge"
+
+102.047,97 1-254.04.02.002.228
+
+SpielTiger e.V. Institut für Bewegung, Kultur und Spiel (e.V.)
+
+Spielaktionen in Unterkünften der öffentlichrechtlichen Unterbringung - Erweiterung 2-
+
+184.994,13 1-254.02.01.001.001
+
+Arbeitsgemeinschaft für das Puppenspiel e.V. (e.V.)
+
+Puppenbau-Workshops in Hamburger Flüchtlingsunterkünften
+
+22.354,00 1-254.02.01.001.001
+
+Katholische Familienbildungsstätt e Hamburg e.V. (e.V.)
+
+Katholische Familienbildung 2018
+32.000,00 1-254.03.02.006.001
+
+Johanniter-Unfall- Hilfe e. V. (e.V.)
+
+den Betrieb eines halboffenen  
+Kinderbetreuungsangebotes (HOB) in der  
+Erstaufnahmestelle Fiersbarg, Fiersbarg 8,  
+22397 Hamburg
+
+39.690,00 2540699917
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+den Betrieb eines halboffenen  
+Kinderbetreuungsangebots (HOB) in der  
+Erstaufnahmestelle Flagentwiet, Flagentwiet  
+44, 22457 Hamburg
+
+19.845,00 2540699917
+
+Malteser Hilfsdienst gemeinnützige GmbH (gGmbH)
+
+den Betrieb eines halboffenen  
+Kinderbetreuungsangebots (HOB) in der  
+Erstaufnahmestelle Neuer Höltigbaum,  
+Neuer Höltigbaum 4, 22143 Hamburg
+
+57.330,00 2540699917
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+den Betrieb eines halboffenen  
+Kinderbetreuungsangebots (HOB) in der  
+Erstaufnahmestelle Harburger Poststraße,  
+Harburger Poststraße 1, 21073 Hamburg
+
+17.640,00 2540699917
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+den Betrieb eines halboffenen  
+Kinderbetreuungsangebots (HOB) in der  
+Erstaufnahmestelle Neuland I,  
+Schlachthofstr. 20b, 21079 Hamburg
+
+3.675,00 2540699917
+
+ASB Flüchtlingshilfe Hamburg GmbH (GmbH)
+
+den Betrieb eines halboffenen  
+Kinderbetreuungsangebots (HOB) in der  
+Erstaufnahmestelle Schmiedekoppel,  
+Schmiedekoppel 29/30, 22453 Hamburg
+
+88.200,00 2540699917
+
+Seite 26 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Deutsches Rotes  
+Kreuz Hamburg  
+Altona und Mitte  
+gemeinnützige  
+Gesellschaft für  
+Kinder, Soziales und  
+Jugend KISO mbH  
+(gGmbH)
+
+den Betrieb eines halboffenen  
+Betreuungsangebotes (HOB) in der EA  
+Schnackenburgsallee, Schnackenburgsallee  
+83a, 22525 Hamburg
+
+26.460,00 2540699917
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+den Betrieb eines halboffenen Kinderbetreuungsangebots (HOB) in der Erstaufnahmestelle Sportallee/Heselstücken
+
+35.280,00 2540699917
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+den Betrieb eines Elterncafés für Flüchtlingsfamilien in der Erstaufnahmestelle Flagentwiet, Flagentwiet 44, 22457 Hamburg
+
+10.705,51 3-25406001-000010.05
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+den Betrieb eines Elterncafés für  
+Flüchtlingsfamilien in der Erstaufnahmestelle  
+Harburger Poststraße, Harburger Poststr. 1,  
+21079 Hamburg
+
+28.547,97 3-25406001-000010.05
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+den Betrieb eines Elterncafés für  
+Flüchtlingsfamilien in der Erstaufnahmestelle  
+Neuland I, Schlachthofstr. 20b, 21079  
+Hamburg
+
+2.379,00 3-25406001-000010.05
+
+ASB Flüchtlingshilfe Hamburg GmbH (GmbH)
+
+den Betrieb eines Elterncafés für  
+Flüchtlingsfamilien in der Erstaufnahmestelle  
+Schmiedekoppel, Schmiedekoppel29/30,  
+22453 Hamburg
+
+29.234,35 3-25406001-000010.05
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+den Betrieb eines Elterncafés für  
+Flüchtlingsfamilien in der  
+Erstaufnahmeeinrichtung für Asylbewerber  
+in der Sportalle/Heselstücken
+
+14.273,99 3-25406001-000010.05
+
+Deutsches Rotes  
+Kreuz Hamburg  
+Altona und Mitte  
+gemeinnützige  
+Gesellschaft für  
+Kinder, Soziales und  
+Jugend KISO mbH  
+(gGmbH)
+
+die laufende Förderung des Elter-Kind- Zentrums in der Kita Albert-Einstein-Ring, Albert-Einstein-Ring 1-3, 22761 Hamburg
+
+58.769,18 3-25406001-000010.05
+
+Deutscher  
+Kinderschutzbund  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Vormundschaften für Flüchtlingskinder 161.885,92 1-254.03.02.006.001
+
+Pfadfinder &  
+Pfadfinderinnenbund  
+Nordlicht e.V. (PBNL)  
+(e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.2.1 Freizeiten
+
+4.000,00 1-254.02.03.001.001
+
+hamburger arbeit GmbH (GmbH)
+
+Gesundheitsförderung durch die hamburger arbeit GmbH
+
+663.365,15 3-25502001-026678.01
+
+Seite 27 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+hamburger arbeit GmbH (GmbH)
+
+Verwaltung-Intendanz  
+Verwaltung der Gesellschaft zur Steuerung  
+der Bereiche Navigator,  
+Gesundheitsförderung und  
+Schuldnerberatung
+
+691.751,85 3-25502001-026678.01
+
+hamburger arbeit GmbH (GmbH)
+
+Navigator 16a Flankierende Sozialberatung durch die hamburger arbeit GmbH
+
+1.672.723,05 3-25502001-026678.01
+
+Stiftung Deutsch-  
+Russischer  
+Jugendaustausch  
+Gemeinnützige  
+GmbH (gGmbH)
+
+Zuwendung für Personalkosten 2018
+58.689,45
+
+Stiftung Deutsch-  
+Russischer  
+Jugendaustausch  
+Gemeinnützige  
+GmbH (gGmbH)
+
+Zuwendung für Personalkosten 2018
+24.000,00
+
+Deutscher  
+Kinderschutzbund  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Projekt "Familienpaten"
+50.375,41 1-254.03.02.006.001
+
+Internationaler  
+Jugendverband  
+Europa-  
+Lateinamerika e.V.  
+(e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit
+
+3.477,00 1-254.02.03.001.001
+
+Beratungs- und  
+Informationsstelle von  
+Frauen für Frauen -  
+Winterhude- e.V.  
+(e.V.)
+
+Psychosoziale Beratung von Frauen in Krisensituationen
+
+177.221,40 1-254.03.02.009.001
+
+Freunde der Kinder e.V. (e.V.)
+
+Beratungsstelle für Pflege- und Adoptivpersonen sowie deren Kinder und Herkunftsfamilien
+
+209.582,42 1-254.04.02.002.228
+
+Verein zur Förderung der Jugendarbeit e.V. (e.V.)
+
+Spielaktionen in Unterkünften der öffentlichrechtlichen Unterbringung (Erweiterung 2)
+
+155.788,50 1-254.02.01.001.001
+
+Verein der kulturellen  
+medialen  
+Kommunikationsstell  
+e der Migration (Mig-  
+Zentrum) e.V. (e.V.)
+
+Organisatorische Unterstützung der pädagogischen jugendverbandlichen Arbeit mit jungen Geflüchteten im Mig-Zentrum
+
+50.540,52 1-254.02.03.001.001
+
+Geschwister-Scholl- Stiftung (Stiftung des privaten Rechts)
+
+Zuwendung für Geschwister-Scholl-Stiftung ( auch Gräberfürsorge )
+
+105.200,00 1-254.07.02.004.001
+
+1-254.05.03.001.001
+
+Seite 28 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Arbeitsgemeinschaft  
+Interkultureller  
+Jugendverbände  
+Hamburg e.V.  
+(A.G.I.J. e.V.) (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen sowie einer pädagogischen  
+Fachkraft in der Beratungs- und  
+Koordinierungsstelle
+
+126.200,00 1-254.02.03.001.001
+
+Internationaler  
+Jugendverband  
+Europa-  
+Lateinamerika e.V.  
+(e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+17.000,00 1-254.02.03.001.001
+
+Arbeit und Leben DGB/VHS Hamburg e.V. (e.V.)
+
+your way: make it in Hamburg 347.227,05 3-25502001-030010.01
+
+Arbeit und Leben DGB/VHS Hamburg e.V. (e.V.)
+
+your way: make it in Hamburg 446.434,77 3-25502001-030055.01
+
+SpielTiger e.V. Institut für Bewegung, Kultur und Spiel (e.V.)
+
+Spielaktionen in Unterkünften der öffentlichrechtlichen Unterbringung - Erweiterung 1 -
+
+176.002,04 1-254.02.01.001.001
+
+ISIS-Beratungsstelle für Frauen und Mädchen e.V. (e.V.)
+
+Miete inkl. Betriebs-u. Heizkosten 2018
+7.630,85 1-254.03.02.009.001
+
+Deutscher  
+Kinderschutzbund  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Betrieb des Kinderschutzzentrums Hamburg 506.305,99 1-254.03.02.010.001
+
+Hanseatic Help e.V. (e.V.)
+
+Hamburger Integrationsfonds - Hanseatic  
+Help e. V. als herausragendes Projekt für  
+ehrenamtliche Flüchtlingshilfe bei der  
+Etablierung von professionellen Strukturen  
+unterstützen - Drs. 21/6441
+
+355.098,64 3-25503001-000100.01
+
+Christliches  
+Jugenddorfwerk  
+Deutschlands  
+gemeinnütziger e.V.  
+(CJD) (e.V.)
+
+Ausstiegsberatung im Nordverbund im Rahmen des Bundesprogramms „Demokratie leben“
+
+5.500,00 3-25503001-000214.01
+
+Christliches  
+Jugenddorfwerk  
+Deutschlands  
+gemeinnütziger e.V.  
+(CJD) (e.V.)
+
+Ausstiegsberatung im Nordverbund im Rahmen des Bundesprogramms „Demokratie leben“
+
+1.375,00 3-25503001-000210.01
+
+BIFF - Psychosoziale  
+Beratung und  
+Information für  
+Frauen und Mädchen  
+e.V. (e.V.)
+
+Gruppenangebote für Ehrenamtliche und geflüchtete Frauen in der Flüchtlingshilfe
+
+15.713,69 1-254.03.02.009.001
+
+Caritasverband für das Erzbistum Hamburg e.V. (e.V.)
+
+Betrieb der Erziehnungsberatungsstellen des Caritasverbandes für Hamburg e.V. in St. Georg, Billstedt und Rothenburgsort
+
+47.200,00 1-254.03.02.006.001
+
+Seite 29 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+KOMCIWAN /  
+Jugend- und  
+Kulturverein aus  
+Kurdistan e.V. (e.V.)
+
+Integratives Präventionsprojekt Flüchtlingshilfe
+
+3.200,00 1-254.02.03.001.001
+
+Hamburger Sportjugend im HSB (Sonstige)
+
+Förderung nach dem Landesförderplan Pos. 2.3.2.2 Förderung für junge Menschen aus einkommensschwachen Familien
+
+250.000,00 1-254.02.03.001.001
+
+DJO - Deutsche  
+Jugend in Europa  
+Landesverband  
+Hamburg (Sonstige)
+
+Förderung nach dem Landesförderplan Pos 2.3.2.1 Freizeiten
+
+540,00 1-254.02.03.001.001
+
+Evangelische Jugend Hamburg (Sonstige)
+
+Förderung nach dem Landesförderplan Pos. 2.3.2.2 Förderung für junge Menschen aus einkommensschwachen Familien
+
+105.350,00 1-254.02.03.001.001
+
+Pfadfinder &  
+Pfadfinderinnenbund  
+Nordlicht e.V. (PBNL)  
+(e.V.)
+
+Förderung nach dem Landesförderplan Pos. 2.3.2.2 Förderung für junge Menschen aus einkommensschwachen Familien
+
+2.355,00 1-254.02.03.001.001
+
+Jugendfeuerwehr Hamburg (Sonstige)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+55.000,00 1-254.02.03.001.001
+
+Freunde des Museums der Arbeit e.V. (e.V.)
+
+Förderung demokratischer Kultur,  
+Vorbeugung und Bekämpfung von  
+Rechtsextremismus "Hamburg-Stadt mit  
+Courage" Projekt "Lesung und Konzert mit  
+Esther Bejarano & Microphone Mafia"
+
+2.425,00 3-25503001-000216.01
+
+Vereinigung der  
+Verfolgten des  
+Naziregimes -VVN  
+Bund der  
+Antifaschisten e.V.  
+Land Hamburg (e.V.)
+
+Beratung und Unterstützung entsprechend  
+den Erfordernissen der  
+Entschädigungsgesetzgebung des Bundes,  
+der Länder sowie der Vergabe von  
+Leistungen von Härtefonds und Stiftungen  
+für NS-Verfolgte
+
+8.500,00 1-254.07.02.004.001
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+den Betrieb eines halboffenen  
+Kinderbetreuungsangebots (HOB) in der  
+Erstaufnahmestelle Vogt-Kölln-Straße, Vogt-  
+Kölln-Straße 30a, 22527 Hamburg
+
+18.375,00 2540699917
+
+Junge Gemeinschaft e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+4.016,00 1-254.02.03.001.001
+
+Bergedorfer für Völkerverständigung e.V. (e.V.)
+
+den Betrieb eines halboffenen  
+Kinderbetreuungsangebots (HOB) in der  
+Wohnunterkunft (WUK) Curslacker Neuer  
+Deich, Curslacker Neuer Deich 78+80,  
+21029 Hamburg
+
+38.808,00 1-254.06.02.002.001
+
+Seite 30 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Deutsches Rotes  
+Kreuz Hamburg  
+gemeinnützige  
+Gesellschaft zur  
+Förderung der Kinderund Jugendhilfe mbH  
+(gGmbH)
+
+den Betrieb eines halboffenen  
+Kinderbetreuungsangebots (HOB) in der  
+Wohnunterkunft (WUK) Große Horst, Große  
+Horst 2, 22337 Hamburg
+
+20.212,50 1-254.06.02.002.001
+
+Freundeskreis für Asylbewerber e.V. (e.V.)
+
+den Betrieb eines halboffenen  
+Kinderbetreuungsangebots (HOB) in der  
+Wohnunterkunft Waldweg, Waldweg 185,  
+22359 Hamburg
+
+17.640,00 1-254.06.02.002.001
+
+DIDF Jugend Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+6.500,00 1-254.02.03.001.001
+
+Arbeit und Leben DGB/VHS Hamburg e.V. (e.V.)
+
+Lehrstellenatlas Hamburger Osten 2019
+10.000,00 3-25502001-021119.01
+
+Landesjugendwerk  
+der Arbeiterwohlfahrt  
+des  
+Landesverbandes der  
+Arbeiterwohlfahrt  
+Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+8.000,00 1-254.02.03.001.001
+
+DIDF Jugend Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit
+
+4.200,00 1-254.02.03.001.001
+
+Deutsche  
+Waldjugend  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.1.5 Bereitstellung von Räumen für die Jugendarbeit
+
+5.555,00 1-254.02.03.001.001
+
+Junge  
+Briefmarkenfreunde  
+Landesring Hamburg  
+e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+4.500,00 1-254.02.03.001.001
+
+Jugendgruppe des  
+Bundes der  
+Schwerhörigen e.V.  
+Hamburg (Sonstige)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+4.400,00 1-254.02.03.001.001
+
+Deutscher  
+Kinderschutzbund  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Durchführung des Projektes "Patenschaften für geflüchtete Familien"
+
+55.803,59 1-254.03.02.006.001
+
+Deutsche  
+Waldjugend  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+4.500,00 1-254.02.03.001.001
+
+Seite 31 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+PMP Projekt Management Partner GmbH (GmbH)
+
+die laufende Förderung des EKiZ in der Kita Frosch, Am Gleisdreieck 19 a + b, 21033 Hamburg
+
+58.769,38 3-25406001-000010.05
+
+Arbeiter-Samariter-  
+Bund  
+Sozialeinrichtungen  
+(Hamburg) GmbH  
+(GmbH)
+
+die Schaffung von Betreuungsplätzen für  
+Kinder im Alter von 0 Jahren bis zum  
+Schuleintritt im Rahmen des  
+Investitionsprogramms 2017-2020 in der  
+Kita Burgwedel 3b in 22547 Hamburg
+
+339.293,46 2-25406001-00041.09
+
+Christliche  
+Pfadfinderschaft  
+Deutschlands e.V.  
+(CPD) (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+1.100,00 1-254.02.03.001.001
+
+Christliche  
+Pfadfinderschaft  
+Deutschlands e.V.  
+(CPD) (e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.2.1 Freizeiten
+
+500,00 1-254.02.03.001.001
+
+Hamburger  
+Jugendbegegnungsund Bildungsstätte  
+Puan Klent auf Sylt  
+(Stiftung des privaten  
+Rechts)
+
+Hamburger Jugendbegegnungs- und Bildungsstätte Puan Klent auf Sylt
+
+200.000,00 1-254.02.02.001.001
+
+Sozialistische Jugend Deutschlands "Die Falken" (Sonstige)
+
+Integration von jungen Geflüchteten in der Jugendverbandsarbeit der SDJ- Die Falken Hamburg
+
+15.204,00 1-254.02.03.001.001
+
+Jugend der  
+Deutschen  
+Lebensrettungs-  
+Gesellschaft  
+Landesverband  
+Hamburg e.V.  
+(Sonstige)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+1.700,00 1-254.02.03.001.001
+
+Jugendgruppe der Gemeinde Gottes e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+2.502,00 1-254.02.03.001.001
+
+Alevitische Jugend Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+10.968,00 1-254.02.03.001.001
+
+Wichtel K.G. e.V. (e.V.)
+
+die Betreuung von Kindern in der Wichtel  
+KG im Weg beim Jäger 127 in 22453  
+Hamburg, im Rahmen einer Elterninitiative  
+nach § 25 SGB VIII
+
+62.400,00 1-254.06.02.002.001
+
+Bund Christlicher Gemeinde-Pfadfinder (CGP) (Sonstige)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.1.1 Förderung der allgemeinen  
+Jugendarbeit  
+Pos. 2.3.1.2 Förderung von Seminaren und  
+Veranstaltungen
+
+3.136,00 1-254.02.03.001.001
+
+Seite 32 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Bund Christlicher Gemeinde-Pfadfinder (CGP) (Sonstige)
+
+Förderung nach dem Landesförderplan Pos. 2.3.2.2 Förderung für junge Menschen aus einkommensschwachen Familien
+
+890,00 1-254.02.03.001.001
+
+Institut für  
+konstruktive  
+Konfliktaustragung  
+und Mediation e.V.  
+(e.V.)
+
+Kofinanzierung des Modellprojektes  
+"Deradikalisierung im Sozialraum" - im  
+Rahmen des Bundesprogramms  
+"Demokratie leben!"
+
+10.900,00 1-254.02.02.001.001
+
+Bund Christlicher Gemeinde-Pfadfinder (CGP) (Sonstige)
+
+Förderung nach dem Landesförderplan Pos 2.3.2.1 Freizeiten
+
+2.000,00 1-254.02.03.001.001
+
+Stadtkultur Hamburg e.V. (e.V.)
+
+Förderung demokratischer Kultur,  
+Vorbeugung und Bekämpfung von  
+Rechtsextremismus, Landesprogramm  
+Hamburg-Stadt mit Courage  
+Projekt: BarCamp #KULTURmachtAUF
+
+1.350,00 3-25503001-000216.01
+
+Hamburger Tagesmütter und - väter e.V. (e.V.)
+
+Sicherstellung der Beratungs- und Vermittlungsangebote für Eltern und Tagespflegepersonen
+
+25.000,00 1-254.06.03.002.001
+
+Diakonisches Werk  
+Hamburg -  
+Landesverband der  
+Inneren Mission e.V.  
+(e.V.)
+
+die laufende Förderung des Domkindergartens in den Räumen der Rindermarkthalle
+
+58.251,00 1-254.06.02.002.001
+
+Gehörlosenverband Hamburg e.V. (e.V.)
+
+Vermittlung und Einsatz von  
+Gebärdendolmetschern in Kita-  
+Einrichtungen und bei Hamburger  
+Tagespflegepersonen (auch  
+Großtagespflegestellen)
+
+40.000,00 3-25406001-000010.05
+
+Children for Tomorrow (Stiftung des privaten Rechts)
+
+Hamburger Integrationsfonds -  
+Traumatisierten Kindern und Jugendlichen  
+helfen - Stiftung Children for Tomorrow und  
+Verein Ankerland e. V. unterstützen - Drs.  
+21/7992
+
+128.268,72 3-25502001-000023.01
+
+Deutscher  
+Kinderschutzbund  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Durchführung des Projektes "rundum willkommen"
+
+15.287,19 1-254.03.02.006.001
+
+Deutscher  
+Kinderschutzbund  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Durchführung des Projektes "rundum willkommen"
+
+10.000,00 2540399910
+
+Villa Vivendi GbR (GbR)
+
+die Schaffung von Betreuungsplätzen für  
+Kinder im Alter von 0 Jahren bis zum  
+Schuleintritt im Rahmen des  
+Investitionsprogramms 2017-2020 in der  
+Kita Neanderstraße 21-23 in 20459  
+Hamburg
+
+373.796,00 2-25406001-00041.10
+
+SEGEMI - Seelische  
+Gesundheit ·  
+Migration und Flucht  
+e.V. (e.V.)
+
+Hamburger Integrationsfonds –  
+Sprachmittlerpool zur Integration  
+Geflüchteter mit Behinderungen in die  
+ambulante Gesundheitsversorgung – Drs.  
+21/8893
+
+90.000,00 3-25503001-000100.01
+
+Seite 33 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Jugendfeuerwehr Hamburg (Sonstige)
+
+Förderung nach dem Landesförderplan Pos. 2.3.2.2 Förderung für junge Menschen aus einkommensschwachen Familien
+
+3.000,00 684.11
+
+Deutsche  
+Waldjugend  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan Pos. 2.3.2.2 Förderung für junge Menschen aus einkommensschwachen Familien
+
+915,00 684.11
+
+"Mädchentreff",  
+Verein zur Förderung  
+feministischer  
+stadtteilbezogener  
+Mädchenarbeit e.V.  
+(e.V.)
+
+Gestaltung und Durchführung des  
+23.Hamburger MädCHENspektakels ohne  
+Kostenübernahme der Miete-und  
+Leasingkosten für die Aktonsgeräte,  
+Instrumente und Transportkosten
+
+11.978,00 1-254.02.02.001.001
+
+Landesjugendwerk  
+der Arbeiterwohlfahrt  
+des  
+Landesverbandes der  
+Arbeiterwohlfahrt  
+Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan Pos. 2.3.2.2 Förderung für junge Menschen aus einkommensschwachen Familien
+
+18.500,00 1-254.02.03.001.001
+
+Jugendfeuerwehr Hamburg (Sonstige)
+
+Förderung nach dem Landesförderplan Pos 2.3.2.1 Freizeiten
+
+2.000,00 1-254.02.03.001.001
+
+Verband Christlicher  
+Pfadfinderinnen und  
+Pfadfinder in  
+Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.2.1 Freizeiten
+
+5.000,00 1-254.02.03.001.001
+
+Deutsche  
+Waldjugend  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.2.1 Freizeiten
+
+370,00 1-254.02.03.001.001
+
+DIDF Jugend Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.2.1 Freizeiten
+
+500,00 1-254.02.03.001.001
+
+Landesjugendwerk  
+der Arbeiterwohlfahrt  
+des  
+Landesverbandes der  
+Arbeiterwohlfahrt  
+Hamburg e.V. (e.V.)
+
+Förderung nach dem Landesförderplan Pos 2.3.2.1 Freizeiten
+
+450,00 1-254.02.03.001.001
+
+Osterkus(S) gGmbH (gGmbH)
+
+Investitionskostenzuschuss zur Modernisierung/Erweiterung in Verbindung mit dem Umzug von Druckerei und Küche
+
+176.575,49 SoVermSchwbG
+
+Kidspace SA GmbH (GmbH)
+
+die Schaffung von Betreuungsplätzen für  
+Kinder im Alter von 0 Jahren bis zum  
+Schuleintritt im Rahmen des  
+Investitionsprogramms 2017-2020 in der  
+Kita "Kidspace", Paul-Dessau-Straße 3g in  
+22761 Hamburg
+
+407.000,00 2-25406001-00041.11
+
+Osterkus(S) gGmbH (gGmbH)
+
+Zuwendung für die Ausstattung eines neuen Arbeitsplatzes im Bereich Küche
+
+17.261,60 Bundesmittel "AlleImBetrieb" AIB
+
+Seite 34 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Haus5 Service gemeinnützige GmbH (gGmbH)
+
+Zuwendung für die Modernisierungen innerhalb des Tätigkeitsfeldes Reinigung
+
+37.993,70 SoVermSchwbG
+
+Institut für  
+konstruktive  
+Konfliktaustragung  
+und Mediation e.V.  
+(e.V.)
+
+Nachfolgeprojekt "Junge Islam Konferenz  
+Hamburg - Volle Vielfalt voraus!"  
+Verstetigung und Erweiterung der  
+Maßnahmen zur Aktivierung junger  
+Menschen in Hamburg
+
+69.500,00 3-25503001-000211.01
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+ein zusätzliches Angebot für Flüchtlingsfamilien durch das EKiZ Stubbenhof in der WUK Am Röhricht
+
+14.623,34 3-25406001-000010.05
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+ein zusätzliches Angebot für  
+Flüchtlingsfamilien durch das EKiZ  
+Druckerstraße für die Wohnunterkünfte  
+Billstieg und Berzeliusstraße in den Räumen  
+der Kita Berzeliusstraße
+
+7.482,46 3-25406001-000010.05
+
+Deutsches Rotes  
+Kreuz Hamburg  
+gemeinnützige  
+Gesellschaft zur  
+Förderung der Kinderund Jugendhilfe mbH  
+(gGmbH)
+
+ein zusätzliches Angebot für Flüchtlingsfamilien durch das EKiZ Röpraredder in der WUK Brookkehre
+
+16.684,44 3-25406001-000010.05
+
+WABE e.V. (e.V.)  
+ein zusätzliches Angebot für  
+Flüchtlingsfamilien durch das EKiZ Hinerm  
+Graben in der WUK Curslacker Neuer Deich
+
+14.964,60 3-25406001-000010.05
+
+Deutsches Rotes  
+Kreuz, Kreisverband  
+Hamburg-Harburg  
+e.V. (e.V.)
+
+ein zusätzliches Angebot für  
+Flüchtlingsfamilien durch das EKiZ  
+Liedenkummer Bogen in der WUK  
+Neuenfelder Fährdeich
+
+7.311,68 3-25406001-000010.05
+
+Elbkinder  
+Vereinigung  
+Hamburger Kitas  
+gGmbH (gGmbH)
+
+ein zusätzlliches Angebot für Flüchtlingsfamilien durch das EKiZ Steilshooper Allee in der WUK Große Horst
+
+11.123,19 3-25406001-000010.05
+
+Ev.-Luth. Luther-  
+Kirchengemeinde  
+Hamburg-Bahrenfeld  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+ein zusätzliches Angebot für  
+Flüchtlingsfamilien durch das EKiZ  
+Lyserstraße für die WUK Holstenkamp in  
+den Räumen der Ev.  
+Lutherkirchengemeinde, Lutherhöhe 22,  
+22761 Hamburg
+
+6.235,35 3-25406001-000010.05
+
+Verein für  
+stadtteilbezogene  
+milieunahe  
+Erziehungshilfen e.V.  
+(e.V.)
+
+ein zusätzliches Angebot für  
+Flüchtlingsfamilien durch das EKiZ  
+Lerchenstraße für die WUK  
+Kirchenpauerstraße in den Räumlichkeiten  
+Koreastraße 3, 20457 Hamburg
+
+44.893,20 3-25406001-000010.05
+
+Seite 35 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Ev.-Luth.  
+Kirchenkreis  
+Hamburg-  
+West/Südholstein  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+ein zusätzliches Angebot für  
+Flüchtlingsfamilien durch das EKiZ Achtern  
+Born für die WUK Luruper Haupstraße in  
+den Räumlichkeiten des Ev. Luth. Kita  
+Werks Altona Blankenese, Binsenort 10,  
+22547 Hamburg
+
+14.964,90 3-25406001-000010.05
+
+Ev.-Luth.  
+Kirchenkreis  
+Hamburg-  
+West/Südholstein  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+ein zusätzliches Angebot für  
+Flüchtlingsfamilien durch das EKiZ Achtern  
+Born für die WUK Notkestraße in den  
+Räumlichkeiten des Ev. Luth. Kita-Werk  
+Altona-Blankenese, Bei der Flottbeker Mühle  
+25b, 22607 Hamburg
+
+14.964,90 3-25406001-000010.05
+
+Ev.-Luth.  
+Kirchenkreis  
+Hamburg-  
+West/Südholstein  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+ein zusätzliches Angebot für  
+Flüchtlingsfamilien durch das EKiZ  
+Schenefelder Landstr. für die WUK  
+Sieversstücken in den Räumlichkeiten des  
+Ev. Luth. Kita-Werk Altona Blankenese,  
+Sülldorfer Kirchenweg 187, 22589 Hamburg
+
+14.964,90 3-25406001-000010.05
+
+Help Here e.V. (e.V.) Hamburger Integrationsfonds - Forum Flüchtlingshilfe weiter stärken - Drs. 21/6998
+
+28.892,01 3-25503001-000100.01
+
+MitOst Hamburg -  
+Verein für Sprach-,  
+Kultur- und  
+Jugendaustausch in  
+Europa e.V. (e.V.)
+
+KJP-Antrag über Stiftung DRJA, LFP und  
+Senatskanzlei für trilaterale  
+Jugendbegegnung "Critical kitchen 3.0 -  
+trilaterale Jugendbegegnung im Dialog über  
+globale Fairness auf dem Küchentisch" im  
+August 2018 in Krasnojarsk
+
+10.500,00 1-254.05.03.001.001
+
+MitOst Hamburg -  
+Verein für Sprach-,  
+Kultur- und  
+Jugendaustausch in  
+Europa e.V. (e.V.)
+
+KJP-Antrag über Stiftung DRJA, LFP und  
+Senatskanzlei für trilaterale  
+Jugendbegegnung "Critical kitchen 3.0 -  
+trilaterale Jugendbegegnung im Dialog über  
+globale Fairness auf dem Küchentisch" im  
+August 2018 in Krasnojarsk
+
+4.000,00 5-25405999-000001.09
+
+S.O.F. Save Our  
+Future Umwelt-  
+Stiftung (Stiftung des  
+privaten Rechts)
+
+die Finanzierung von Unterstützungsangeboten für Kitas im Rahmen der Bildungsinitiative "Kita 21"
+
+12.338,03 3-25406001-000010.05
+
+Allerleirauh e.V. (e.V.) Möbelausstattung für die neuen Räume
+
+Hammer Steindamm 44
+
+11.503,38 1-254.03.02.010.001
+
+HKS Handelskammer Hamburg Service GmbH (GmbH)
+
+Bewerbungstraining für Geflüchtete
+82.195,11 3-25502001-000019.01
+
+DIDF Jugend Hamburg e.V. (e.V.)
+
+Zuwendung nach dem Landesförderplan Pos. 2.3.4 Besondere Maßnahmen - Stadtteilfest gegen Rassismus in Altona
+
+3.500,00 1-254.02.03.001.001
+
+Seite 36 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Hamburger  
+Turngesellschaft  
+Barmbeck-Uhlenhorst  
+e.V. (e.V.)
+
+Förderung demokratischer Kultur, Vorbeugung und Bekämpfung von Rechtsextremismus "Courage im Sand"
+
+4.680,00 3-25503001-000216.01
+
+PASSAGE  
+gemeinnützige  
+Gesellschaft für  
+Arbeit und Integration  
+mbH (gGmbH)
+
+Tagwerk-Projekt Laurens-Janssen- Haus/Kirchdorf-Süd mit Kinderbauernhof
+
+140.382,03 3-25502001-021615.01 3-25503001-000260.01
+
+European  
+PLAYWORK  
+Association e.V.  
+(e.V.)
+
+Förderung nach dem Landesförderplan  
+"Familie und Jugend"  
+Pos. 3.3 Kofinanzierung internationaler  
+Jugendbegegnungen und internationaler  
+Begegnungen von Fachkräften der  
+Jugendhilfe von besonderem politischen  
+Interesse
+
+2.400,00 1-254.05.03.001.001
+
+ABED Deutschland e.V. (e.V.)
+
+Trilaterale Jugendbegegnung (in Hamburg)  
+Burkina Farso, FR und D im August 2018  
+gefördert durch das Deutsch-Französische  
+Jugendwerk und Pos. 3.3 des  
+Landesförderplan
+
+16.228,60 1-254.05.03.001.001
+
+AWO Hamburg -  
+Gesellschaft für  
+Bildung, Integration  
+und Beratung gGmbH  
+(gGmbH)
+
+den Betrieb und die Ausstattung eines  
+halboffenen Kinderbetreuungsangebots  
+(HOB) in der Wohnunterkunft Suurheid,  
+Suurheid 119, 22559 Hamburg
+
+38.075,00 1-254.06.02.002.001
+
+AWO Hamburg -  
+Gesellschaft für  
+Bildung, Integration  
+und Beratung gGmbH  
+(gGmbH)
+
+für den Betrieb und die Ausstattung eines  
+Elterncafés für Flüchtlingsfamilien in der  
+WUK Suurheid, Suurheid 119, 22559  
+Hamburg
+
+21.489,52 3-25406001-000010.05
+
+Deutscher  
+Kinderschutzbund  
+Landesverband  
+Hamburg e.V. (e.V.)
+
+Durchführung des Projektes  
+"Integrationsbausteine für Eltern mit  
+Zuwanderungsgeschichte" (Erweiterung des  
+Elternkureses SESK)
+
+15.930,43 1-254.03.02.006.001
+
+Verein für  
+stadtteilbezogene  
+milieunahe  
+Erziehungshilfen e.V.  
+(e.V.)
+
+Allianz für Familien: Medienpädagogisches Radioprojekt in den Ferien
+
+4.200,00 1-254.03.02.008.001
+
+MUT Theater/Interkulturell e.V. (e.V.)
+
+Antrag über BVA/KJP des Bundes Kinderund Jugendplan des Bundes längerfristige Förderung Bilaterale Jugendbegegnung mit Izmir (IN)
+
+8.000,00 1-254.05.03.001.001
+
+Baugenossenschaft freier Gewerkschafter eG (e.G.)
+
+Allianz für Familien: Gärtnern im Osterbrookviertel
+
+10.400,00 1-254.03.02.008.001
+
+Seite 37 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Jugendarbeitskreis  
+Hamburg im  
+Volksbund Deutsche  
+Kriegsgräberfürsorge  
+e.V. (Sonstige)
+
+Antrag über die Senatskanzlei für eine  
+Jugendbegegnung im Rahmen der  
+Erinnerungskultur im Oktober 2018 (IN-  
+Maßnahme)
+
+1.500,00 5-25405999-000001.10
+
+Evangelischmethodistische  
+Jugend in der Freien  
+und Hansestadt  
+Hamburg (Sonstige)
+
+Anschaffung technischer Ausstattung für das Musikprojekt
+
+1.600,00 1-254.02.03.001.001
+
+Kooperation Arbeiten, Lernen und Ausbildung e.V. (e.V.)
+
+Tagwerk - La Cantina/Suppenküche
+11.638,09 3-25502001-021615.01
+
+Alleinerziehenden  
+Treffpunkt und  
+Beratung e.V. (ATB)  
+(e.V.)
+
+Anschaffung eines PC-Rechners und PC- Bildschirm
+
+1.173,01 1-254.04.02.002.228
+
+Kooperation Arbeiten, Lernen und Ausbildung e.V. (e.V.)
+
+Tagwerkprojekt "Strandläufer"
+80.297,64 3-25502001-021615.01
+
+Verband Christlicher  
+Pfadfinderinnen und  
+Pfadfinder in  
+Hamburg e.V. (e.V.)
+
+Anschaffung neuer Rechner und Zubehör für die Geschäftsstelle
+
+5.550,03 1-254.02.03.001.001
+
+Hamburger Sportjugend im HSB (Sonstige)
+
+Erneuerung und Erweiterung der IT- Infrastruktur
+
+14.800,00 1-254.02.03.001.001
+
+Alleinerziehenden  
+Treffpunkt und  
+Beratung e.V. (ATB)  
+(e.V.)
+
+Renovierung des ersten Stocks der Beratungsstelle, Güntherstraße 102
+
+7.582,77 1-254.04.02.002.228
+
+"Dolle Deerns" Verein  
+zur Förderung  
+feministischer  
+Mädchenarbeit e.V.  
+(e.V.)
+
+Anschaffung von 3 PC-Arbeitsplätzen und Installation
+
+2.533,00 1-254.03.02.010.001
+
+Freies Kinder- und Stadtteilzentrum e.V. (e.V.)
+
+KJP-Antrag über ConAct und Pos. 3.3 LFP  
+für deutsch-israelischen  
+Fachkräfteaustausch im Juni 2018 in Israel  
+(OUT-Maßnahme)
+
+3.786,00 1-254.05.03.001.001
+
+ALRAUNE gGmbH  
+Gemeinnützige  
+Gesellschaft zur  
+Förderung der  
+Teilhabechancen und  
+Verbesserung der  
+Lebensqualität  
+benachteiligter  
+Menschen (gGmbH)
+
+Beschäftigungsprojekte Steilshoop 10,00 3-25502001-021615.01
+
+Seite 38 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Arbeitsgemeinschaft  
+freier  
+Jugendverbände in  
+Hamburg - AGfJ -  
+e.V. (e.V.)
+
+Antrag über BVA / KJP des Bundes,  
+längerfristige Förderung und Senatskanzlei  
+im Rahmen der Städtepartnerschaft  
+Bilateraler Fachkräfteaustausch mit  
+Nicaragua León (IN) 14.04.-27.04.2018 in  
+Hamburg
+
+9.232,00 1-254.05.03.001.001
+
+Arbeitsgemeinschaft  
+freier  
+Jugendverbände in  
+Hamburg - AGfJ -  
+e.V. (e.V.)
+
+Antrag über BVA / KJP des Bundes,  
+längerfristige Förderung und Senatskanzlei  
+im Rahmen der Städtepartnerschaft  
+Bilateraler Fachkräfteaustausch mit  
+Nicaragua León (IN) 14.04.-27.04.2018 in  
+Hamburg
+
+3.000,00 5-25405999-000001.06
+
+Jugendarbeitskreis  
+Hamburg im  
+Volksbund Deutsche  
+Kriegsgräberfürsorge  
+e.V. (Sonstige)
+
+Antrag über die Senatskanzlei für eine  
+Veranstaltungsreihe im Rahmen der  
+Erinnerungskultur von April bis Juni 2018 (IN-  
+Maßnahme)
+
+1.500,00 5-25405999-000001.02
+
+CISV Germany,  
+Group Hamburg  
+Deutsche  
+Gesellschaft für  
+internationale Kinderund  
+Jugendbegegnungen  
+e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 3.1 Allgemeine internationale  
+Jugendarbeit und Jugendbegegnung  
+Internationales Summercamp in Hamburg  
+vom 20.07.2018 bis 11.08.2018
+
+4.950,00 1-254.05.03.001.001
+
+Jakobi, Amal  
+Förderung demokratischer Kultur,  
+Vorbeugung und Bekämpfung von  
+Rechtsextremismus Landesprogramm  
+"Hamburg - Stadt mit Courage", Projekt:  
+Auftritt des Medina Mädchenchors im  
+Rahmen des Ramadanpavillons 2018
+
+4.711,10 3-25503001-000216.01
+
+Nowak, Maren  
+Förderung demokratischer Kultur,  
+Vorbeugung und Bekämpfung von  
+Rechtsextremismus, Landesprogramm  
+"Hamburg - Stadt mit Courage", Projekt:  
+"Barmbek gegen Rassismus"
+
+5.000,00 3-25503001-000216.01
+
+Hamburger  
+Gebärdensprachjuge  
+ndclub "Nordlicht"  
+e.V. (e.V.)
+
+Fuerpolizeiliche Anpassungsmaßnahmen in den Jugendräumen Bernadottestraße 126 -
+
+3.976,00 1-254.02.03.001.001
+
+Arbeitsgemeinschaft  
+freier  
+Jugendverbände in  
+Hamburg - AGfJ -  
+e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.3 Internationale Jugendarbeit und  
+Begegnung mit Leon/Nicaragua und  
+Hamburg in Hamburg
+
+10.020,00 1-254.05.03.001.001
+
+Arbeitsgemeinschaft  
+freier  
+Jugendverbände in  
+Hamburg - AGfJ -  
+e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 2.3.3 Internationale Jugendarbeit und  
+Begegnung mit Leon/Nicaragua und  
+Hamburg in Hamburg
+
+3.000,00 5-25405999-000001.06
+
+Seite 39 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Internationale  
+Jugendgemeinschaft  
+sdienste -  
+Landesverein  
+Hamburg-Schleswig-  
+Holstein e.V. (e.V.)
+
+Internationales Jugendworkcamp in der Fischbeker Heide vom 04.-25.08.2018 gem. Pos. 2.3.2.4 LFP
+
+2.998,68 1-254.02.03.001.001
+
+Vaeter e.V. (e.V.) Allianz für Familien: Wochenend-Familien- Workshop "Viele Stimmen- ein Klang"
+
+2.652,20 1-254.03.02.008.001
+
+Jugendrotkreuz im  
+DRK-Landesverband  
+Hamburg e.V.  
+(Sonstige)
+
+Antrag über die Senatskanzlei für eine Jugendbegegnung mit Shanghai im Juli 2018 (OUT-Maßnahme)
+
+2.000,00 5-25405999-000001.04
+
+"Das Haus"-  
+Förderverein Haus  
+der Jugend  
+Steilshoop e.V. (e.V.)
+
+Bilaterale Jugendbegegnung mit Südkorea  
+(OUT) 29.09.-14.10.2018 in Cheongju,  
+Südkorea KJP und KoFi für  
+Einkommensschwache in der Pos. 3.4 LFP
+
+14.862,00 1-254.05.03.001.001
+
+MUT Theater/Interkulturell e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 3.1 Allgemeine internationale  
+Jugendarbeit und Jugendbegegnung,  
+Hamburg - Chicago in Chicago in der Zeit  
+vom 14.07.2018 bis 24.07.2018  
+plus Förderung der Senatskanzlei im  
+Rahmen der Städtepartnerschaft Chica...
+
+5.376,00 1-254.05.03.001.001
+
+MUT Theater/Interkulturell e.V. (e.V.)
+
+Förderung nach dem Landesförderplan  
+Pos. 3.1 Allgemeine internationale  
+Jugendarbeit und Jugendbegegnung,  
+Hamburg - Chicago in Chicago in der Zeit  
+vom 14.07.2018 bis 24.07.2018  
+plus Förderung der Senatskanzlei im  
+Rahmen der Städtepartnerschaft Chica...
+
+1.400,00 5-25405999-000001.01
+
+Arbeitsgemeinschaft  
+Interkultureller  
+Jugendverbände  
+Hamburg e.V.  
+(A.G.I.J. e.V.) (e.V.)
+
+Beschaffung neuer Tische und Stühle für die Vereinsräume
+
+10.500,00 1-254.02.03.001.001
+
+Abenteuerspielplatz am Brunnenhof e.V. (e.V.)
+
+Förderung nach dem Landesförderplan Pos. 3.1 Allgemeine internationale Jugendarbeit und Jugendbegegnung
+
+2.688,27 1-254.05.03.001.001
+
+Kinderbetreuungszent  
+rum Bunte Biene  
+gemeinnützige UG  
+(haftungsbeschränkt)  
+(UG -  
+Unternehmergesellsc  
+haft)
+
+KJP-Antrag Trinationale Begegnung  
+"Sprachspiele Deutsch-Russisch" über  
+Stiftung DRJA im Juli/August 2018 in  
+Cuxhaven
+
+9.945,00 1-254.05.03.001.001
+
+Freies Kinder- und Stadtteilzentrum e.V. (e.V.)
+
+KJP Antrag über BVA/KJP des Bundes,  
+Sonderprogramm China und Senatskanzlei  
+im Rahmen der Städtepartnerschaft mit  
+Shanghai für bilateralen  
+Fachkräfteaustausch im Juni/Juli 2018 in  
+Shanghai (OUT)
+
+2.610,00 1-254.05.03.001.001
+
+Seite 40 von 42
+
+Zuwendungen 2018
+
+Zuwendungs-
+
+empfänger
+
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Freies Kinder- und Stadtteilzentrum e.V. (e.V.)
+
+KJP Antrag über BVA/KJP des Bundes,  
+Sonderprogramm China und Senatskanzlei  
+im Rahmen der Städtepartnerschaft mit  
+Shanghai für bilateralen  
+Fachkräfteaustausch im Juni/Juli 2018 in  
+Shanghai (OUT)
+
+1.000,00 5-25405999-000001.04
+
+Mouse House GmbH & Co. KG (GmbH & Co KG)
+
+die Schaffung von Betreuungsplätzen für  
+Kinder im Alter von 0 Jahren bis zum  
+Schuleintritt im Rahmen des  
+Investitionsprogramms 2017-2020 in der  
+Kita "Mouse House", Kätnermoor 10a in  
+22175 Hamburg
+
+514.800,00 2-25406001-00041.26
+
+Ev.-luth.  
+Kirchengemeinde St.  
+Georg-Borgfelde  
+(Öffentlich-rechtliche  
+Körperschaft)
+
+Förderung demokratischer Kultur,  
+Vorbeugung und Bekämpfung von  
+Rechtsextremismus und zum Konzept des  
+Senats "Effektive Maßnahmen gegen  
+gewaltbereiten Salafismus und religiösen  
+Extremismus ergreifen"  
+Interkulturelle Stadtteilfreizeit St. Georg 2018
+
+5.000,00 3-25503001-000216.01
+
+Landesjugendwerk  
+Hamburg des Bundes  
+Freikirchlicher  
+Pfingstgemeinden  
+(Sonstige)
+
+Ersatzbeschaffung Computer
+2.311,20 1-254.02.03.001.001
+
+Lesben- und  
+Schwulenverband in  
+Deutschland  
+Landesverband  
+Hamburg (LSVD-  
+Hamburg) e.V. (e.V.)
+
+KJP-Antrag für eine Jugendbegegnung mit  
+Jugendlichen aus Deutschland und  
+Russland über Stiftung DRJA und  
+Senatskanzlei in Hamburg im Juli/August  
+2018
+
+3.267,00 1-254.05.03.001.001
+
+Lesben- und  
+Schwulenverband in  
+Deutschland  
+Landesverband  
+Hamburg (LSVD-  
+Hamburg) e.V. (e.V.)
+
+KJP-Antrag für eine Jugendbegegnung mit  
+Jugendlichen aus Deutschland und  
+Russland über Stiftung DRJA und  
+Senatskanzlei in Hamburg im Juli/August  
+2018
+
+3.000,00 5-25405999-000001.02
+
+Interkulturelles  
+Migranten  
+Integrations Center  
+e.V. (e.V.)
+
+Förderung der chancengerechten Teilhabe  
+von Menschen mit Migrationshintergrund  
+Projekt: Africa Day 2018 - Anteilige  
+Kostenbeteiligung für die Toilettenwagen,  
+Müllcontainer und Kinder-Hüpfburg
+
+2.500,00 1-255.03.01.003.001
+
+Internationaler  
+Jugendverband  
+Europa-  
+Lateinamerika e.V.  
+(e.V.)
+
+Antrag für eine internationale Jugendbegegnung in Mexiko im August 2018 über LFP Pos. 2.3.3 (OUT-Maßnahme)
+
+5.753,00 1-254.05.03.001.001
 
 Seite 41 von 42
 
 Zuwendungen 2018
 
-Zuwendungs- Zuwendungszweck (kurz) Zuwendungs- Finanzposition empfänger höhe (in Euro) Internationaler Antrag für eine internationale 5.753,00 1-254.05.03.001.001 Jugendverband Jugendbegegnung in Kuba im Juli 2018 über Europa- LFP Pos. 2.3.3 (OUT-Maßnahme) Lateinamerika e.V. (e.V.) dock europe e.V. Bilaterale Jugendbegegnung mit Marseille 2.800,00 1-254.05.03.001.001 (e.V.) zum Thema deutsch-französiches Tandem in Hamburg im Juli 2018. Kofinanzierung im Rahmen der Städtepartnerschaft mit Marseille und Pos. 3.3 LFP
+Zuwendungs-
 
-dock europe e.V. Bilaterale Jugendbegegnung mit Marseille 1.000,00 5-25405999-000001.01 (e.V.) zum Thema deutsch-französiches Tandem in Hamburg im Juli 2018. Kofinanzierung im Rahmen der Städtepartnerschaft mit Marseille und Pos. 3.3 LFP
+empfänger
 
-Internationaler Antrag über BVA/KJP des Bundes, Kinder 23.000,00 1-254.05.03.001.001 Jugendverband und Jugendplan des Bundes, längerfristige Europa- Förderung, Jugendbegegnung im Inland Lateinamerika e.V. Hamburg (IN) 13.09.-03.10.2018 (e.V.) Deutsches Gemeinsamer Länderfonds "Rechte und 20.000,00 1-254.02.01.001.001 Kinderhilfswerk e.V. Beteiligung von Kindern und Jugendlichen" (e.V.) Jugendfeuerwehr Antrag über Senatskanzlei für bilaterale 2.000,00 5-25405999-000001.09 Hamburg (Sonstige) Jugendbegegnung im Inland über Städtepartnerschaft mit Dar es Salaam/Tansania im Juli/August 2018 (IN- Maßnahme) Jugendfeuerwehr Antrag über Senatskanzlei für bilaterale 3.000,00 5-25405999-000001.09 Hamburg (Sonstige) Jugendbegegnung im Ausland über Städtepartnerschaft mit Dar es Salaam/Tansania im September/Oktober 2018 (OUT-Maßnahme) Stiftung Kulturpalast Antrag über Senatskanzlei für bilaterale 1.500,00 5-25405999-000001.01 Hamburg (Stiftung Jugendbegegnung im Inland über des privaten Rechts) Städtepartnerschaft mit Marseille im Juni 2018 (IN-Maßnahme) Jugendfeuerwehr Antrag über Senatskanzlei für eine 1.000,00 5-25405999-000001.02 Hamburg (Sonstige) Jugendbegegnung im Ausland über Städtepartnerschaft mit St. Petersburg im Juli 2018 (OUT-Maßnahme)
+Zuwendungszweck (kurz) Zuwendungs-
+
+höhe (in Euro)
+
+Finanzposition
+
+Internationaler  
+Jugendverband  
+Europa-  
+Lateinamerika e.V.  
+(e.V.)
+
+Antrag für eine internationale Jugendbegegnung in Kuba im Juli 2018 über LFP Pos. 2.3.3 (OUT-Maßnahme)
+
+5.753,00 1-254.05.03.001.001
+
+dock europe e.V. (e.V.)
+
+Bilaterale Jugendbegegnung mit Marseille  
+zum Thema deutsch-französiches Tandem  
+in Hamburg im Juli 2018. Kofinanzierung im  
+Rahmen der Städtepartnerschaft mit  
+Marseille und Pos. 3.3 LFP
+
+2.800,00 1-254.05.03.001.001
+
+dock europe e.V. (e.V.)
+
+Bilaterale Jugendbegegnung mit Marseille  
+zum Thema deutsch-französiches Tandem  
+in Hamburg im Juli 2018. Kofinanzierung im  
+Rahmen der Städtepartnerschaft mit  
+Marseille und Pos. 3.3 LFP
+
+1.000,00 5-25405999-000001.01
+
+Internationaler  
+Jugendverband  
+Europa-  
+Lateinamerika e.V.  
+(e.V.)
+
+Antrag über BVA/KJP des Bundes, Kinder  
+und Jugendplan des Bundes, längerfristige  
+Förderung, Jugendbegegnung im Inland  
+Hamburg (IN) 13.09.-03.10.2018
+
+23.000,00 1-254.05.03.001.001
+
+Deutsches Kinderhilfswerk e.V. (e.V.)
+
+Gemeinsamer Länderfonds "Rechte und Beteiligung von Kindern und Jugendlichen"
+
+20.000,00 1-254.02.01.001.001
+
+Jugendfeuerwehr Hamburg (Sonstige)
+
+Antrag über Senatskanzlei für bilaterale  
+Jugendbegegnung im Inland über  
+Städtepartnerschaft mit Dar es  
+Salaam/Tansania im Juli/August 2018 (IN-  
+Maßnahme)
+
+2.000,00 5-25405999-000001.09
+
+Jugendfeuerwehr Hamburg (Sonstige)
+
+Antrag über Senatskanzlei für bilaterale  
+Jugendbegegnung im Ausland über  
+Städtepartnerschaft mit Dar es  
+Salaam/Tansania im September/Oktober  
+2018 (OUT-Maßnahme)
+
+3.000,00 5-25405999-000001.09
+
+Stiftung Kulturpalast Hamburg (Stiftung des privaten Rechts)
+
+Antrag über Senatskanzlei für bilaterale  
+Jugendbegegnung im Inland über  
+Städtepartnerschaft mit Marseille im Juni  
+2018 (IN-Maßnahme)
+
+1.500,00 5-25405999-000001.01
+
+Jugendfeuerwehr Hamburg (Sonstige)
+
+Antrag über Senatskanzlei für eine  
+Jugendbegegnung im Ausland über  
+Städtepartnerschaft mit St. Petersburg im  
+Juli 2018 (OUT-Maßnahme)
+
+1.000,00 5-25405999-000001.02
 
 Stand: Juni 2018
 

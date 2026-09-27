@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 3
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7667"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61165"
@@ -44,6 +45,6 @@ Erhalten die Privattheater die zugesagte Erhöhung von 1,5 Prozent ihrer Zuwendu
 a) Werden alle Privattheater in Bezug auf die Erhöhung von 1,5 Prozent gleich behandelt oder wird das Geld unterschiedlich verteilt?
 b) Welche Summen macht das für die einzelnen Theater aus?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Privattheater erhalten die institutionelle Förderung im Rahmen von zwei- oder vierjährigen Förderperioden. Für die Berechnung der Zuwendung wurde der Mittelwert der Spielzeitförderung 2017/2018 und 2018/2019 beziehungsweise bei der vierjährigen Förderung der Mittelwert der Spielzeitförderungen 2017/2018 bis 2020/2021 berechnet und diese Summe wird gleichbleibend zugewiesen. Im Übrigen siehe Drs. 21/7667.

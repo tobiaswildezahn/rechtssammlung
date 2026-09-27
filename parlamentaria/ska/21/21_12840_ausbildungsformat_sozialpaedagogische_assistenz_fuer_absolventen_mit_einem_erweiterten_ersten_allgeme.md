@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11897", "21/8854", "21/4749"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62153"
@@ -47,7 +48,7 @@ Das neue Ausbildungsformat Sozialpädagogische Assistenz für Absolventen mit ei
 
 Die Schulleitungen wurden laut Senatsantwort (siehe oben) zu einzelnen Ideen und möglichen Maßnahmen informiert. Was genau ist darunter zu verstehen? (Bitte diese Treffen zeitlich und inhaltlich dokumentieren.) Um welche Ideen und mögliche Maßnahmen handelte es sich dabei genau? (Bitte jeweils erläutern.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ab Januar 2017 erfolgten behördenübergreifend Überlegungen zu Maßnahmen der verstärkten Fachkräftegewinnung im sozialpädagogischen Berufsfeld (siehe Drs. 21/8854, Drs. 21/11897).
 
@@ -75,34 +76,34 @@ Datum Teilnehmende Institutionen Inhalt/Ergebnis
 
 AG Fachkräfte  
 14.02.2017  
-  
+–  
 Behörde für Arbeit, Sozia-
 
 les Familie und Integration  
 (BASFI)  
-  
+–  
 Hamburger Institut für Be-
 
 rufliche Bildung (HIBB)  
-  
+–  
 Caritasverband  
-  
+–  
 Diakonisches Werk  
-  
+–  
 Deutsches Rotes Kreuz  
-  
+–  
 Elbkinder Vereinigung
 
-Hamburger Kitas gGmbH  Kindermitte – Bündnis für
+Hamburger Kitas gGmbH – Kindermitte – Bündnis für
 
 Soziales Unternehmertum  
 und Qualität in der Kindertagesbetreuung e.V.  
-  
+–  
 Der PARITÄTISCHE Ham-
 
-burg  SOAL Alternativer Wohl-
+burg – SOAL Alternativer Wohl-
 
-fahrtsverband e.V.  Landeselternausschuss
+fahrtsverband e.V. – Landeselternausschuss
 
 Kindertagesbetreuung (LEA)
 
@@ -114,22 +115,22 @@ Datum Teilnehmende Institutionen Inhalt/Ergebnis
 
 AG Fachkräfte  
 03.04.2017  
-  
+–  
 BASFI  
-  
+–  
 HIBB  
-  
+–  
 Caritasverband  
-  
+–  
 Diakonisches Werk  
-  
+–  
 Elbkinder Vereinigung
 
-Hamburger Kitas gGmbH  Der PARITÄTISCHE Ham-
+Hamburger Kitas gGmbH – Der PARITÄTISCHE Ham-
 
-burg  SOAL Alternativer Wohl-
+burg – SOAL Alternativer Wohl-
 
-fahrtsverband e.V.  LEA
+fahrtsverband e.V. – LEA
 
 Information  
 durch das HIBB  
@@ -139,38 +140,38 @@ Planungsstand
 Qualifizierungskuratorium
 
 30.05.2017  
-  
+–  
 BASFI  
-  
+–  
 HIBB  
-  
+–  
 Arbeiterwohlfahrt (AWO)  
-  
+–  
 Caritasverband  
-  
+–  
 Diakonisches Werk  
-  
+–  
 Elbkinder Vereinigung
 
 Hamburger Kitas gGmbH  
-  
+–  
 Ev. Stiftung Alsterdorf  
-  
+–  
 Kindermitte – Bündnis für
 
 Soziales Unternehmertum  
 und Qualität in der Kindertagesbetreuung e.V.  
-  
+–  
 Euro Akademie  
-  
+–  
 Ev. Hochschule Rauhes
 
-Haus  Hochschule für Angewand-
+Haus – Hochschule für Angewand-
 
 te Wissenschaften (HAW)  
-  
+–  
 Universität Hamburg  
-  
+–  
 LEA
 
 Information durch das HIBB zur Maßnahme
@@ -193,15 +194,15 @@ Was waren die inhaltlichen Vorschläge seitens der Fachschulen, die dann entspre
 
 Folgende Vorschläge wurden im Rahmen von AG-Sitzungen und Gesprächen zwischen den Schulleitungen und dem HIBB berücksichtigt:
 
- der Zugang zur zweijährigen Erzieherausbildung über die Fachoberschule Sozial-
+– der Zugang zur zweijährigen Erzieherausbildung über die Fachoberschule Sozial-
 
 pädagogik und das Berufliche Gymnasium Pädagogik Psychologie,
 
- die Verkürzung des Praktikums als Zugangsvoraussetzung für Bewerberinnen und
+– die Verkürzung des Praktikums als Zugangsvoraussetzung für Bewerberinnen und
 
 Bewerber in die Erzieherausbildung von zwölf auf vier Monate,
 
- die Einrichtung von Umschulungsmaßnahmen in der Erzieherausbildung.
+– die Einrichtung von Umschulungsmaßnahmen in der Erzieherausbildung.
 
 ### Frage 7
 

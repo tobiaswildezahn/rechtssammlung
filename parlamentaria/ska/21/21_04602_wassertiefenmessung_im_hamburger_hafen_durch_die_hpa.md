@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53009"
@@ -146,21 +147,21 @@ Welche Standards liegen der verwendeten Messmethode zugrunde?
 
 Der verwendeten Messmethode liegen folgende Standards zugrunde:
 
- International Hydrographyc Organization (IHO) C-13,
+– International Hydrographyc Organization (IHO) C-13,
 
- Manual On Hydrography, IHO S-5,
+– Manual On Hydrography, IHO S-5,
 
- Standards Of Competence For Hydrographic Surveyors, IHO S-44,
+– Standards Of Competence For Hydrographic Surveyors, IHO S-44,
 
- Standards For Hydrographic Surveys, DIN 18710,
+– Standards For Hydrographic Surveys, DIN 18710,
 
- Ingenieurvermessung aQua,
+– Ingenieurvermessung aQua,
 
- Angewandtes Qualitätsmanagement in der Gewässervermessung U.S. Army
+– Angewandtes Qualitätsmanagement in der Gewässervermessung U.S. Army
 
 Corps of Engineers,
 
- Hydrographic Surveying.
+– Hydrographic Surveying.
 
 Im Übrigen siehe Antwort zu 3.
 
@@ -194,6 +195,6 @@ Wie erfolgt im Einzelnen die Abrechnung der tatsächlich erbrachten Baggerleistu
 
 Abhängig von der Baggeraufgabe und der darauf abgestimmten Vertragsgestaltung gibt es unterschiedliche Abrechnungsgrundlagen. Häufig werden verwendet:
 
- bewerteter Laderaum-Kubikmeter,
+– bewerteter Laderaum-Kubikmeter,
 
- Leistungsstunden.
+– Leistungsstunden.

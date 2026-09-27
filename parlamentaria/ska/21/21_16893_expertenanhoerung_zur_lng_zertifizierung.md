@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15588", "21/15792"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66441"
@@ -63,15 +64,15 @@ Sind die Ergebnisse dieser Anhörung beziehungsweise ein Beschluss zur LNG-Zerti
 
 Eine offizielle Ergebnisdokumentation hat es nicht gegeben. Auf dem Workshop wurden drei Gründe thematisiert, die eine Kennzeichnung von Liquefied Natural Gas (LNG) als Instrument für verbesserten Klimaschutz wenig aussichtsreich erscheinen lassen:
 
- Klimawirkung: Schiefergas variiert nach der Darstellung auf dem Workshop sehr
+– Klimawirkung: Schiefergas variiert nach der Darstellung auf dem Workshop sehr
 
 stark in den Klimagas-Emissionen. Außerdem ergeben sich wegen Erdgasleckagen bei langen Transportwegen und bei der Förderung auch bei konventioneller Förderung teilweise hohe Klimagasemissionen. Daher lässt sich per se nicht zweifelsfrei feststellen, ob Schiefergas im Vergleich zu konventionellen Erdgas klimaschädlicher ist.
 
- Wirksamkeit: Die durch ein Zertifizierungssystem angeregte europäische Nachfra-
+– Wirksamkeit: Die durch ein Zertifizierungssystem angeregte europäische Nachfra-
 
 ge nach LNG aus konventioneller Produktion wäre vermutlich zu gering, um Einfluss auf die weltweite Produktion zu nehmen.
 
- Praktikabilität: Eine lückenlose und verlässliche Dokumentation der weltweiten
+– Praktikabilität: Eine lückenlose und verlässliche Dokumentation der weltweiten
 
 Produktion über die gesamte Lieferkette hinweg wäre angesichts der internationalen Handelsaktivitäten und der Vermischung verschiedener Gasqualitäten beim Transport ein sehr aufwändiges System und entsprechend schwer durchsetzbar.
 

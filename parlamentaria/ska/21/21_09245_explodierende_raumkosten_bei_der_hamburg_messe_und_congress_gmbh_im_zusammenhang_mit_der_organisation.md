@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58016"
@@ -47,7 +48,7 @@ Wie haben sich die letztlich vom Steuerzahler zu tragenden Mietkosten der HMC f�
 
 Falls der oben genannte dramatische Anstieg der Mietkosten so oder ähnlich zutreffend sein sollte: Welche Gründe sind für den Anstieg der Mietkosten maßgeblich gewesen? Bitte detailliert erläutern.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Mieten sind in den letzten Jahren gestiegen. Bei der konkreten Höhe der Miete handelt es sich um ein Geschäftsgeheimnis des Hafen-Klub Hamburg e.V. Der Verein hat einer Veröffentlichung nicht zugestimmt.
 

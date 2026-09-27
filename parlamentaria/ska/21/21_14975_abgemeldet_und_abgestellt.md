@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64465"
@@ -57,7 +58,7 @@ Wie viele Aufforderungen, ein solches Fahrzeug zu entfernen, haben die zuständi
 
 Wie viele dieser Fahrzeuge haben die zuständigen Behörden im letzten und in diesem Jahr entfernen lassen? Bitte pro Monat pro Bezirk angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage.
 

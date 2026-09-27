@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4637"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53280"
@@ -55,7 +56,7 @@ Wie stellt der Senat sicher, dass die einzelnen Ziele und Ergänzungsgrößen na
 
 Wie steuert der Senat dagegen, wenn der Stand der Zielerreichung bei Jobcenter team.arbeit.hamburg und Agentur für Arbeit Hamburg vom Prognosewert in den einzelnen Berichtsmonaten abweicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Es finden in der Regel vier Controlling-Dienstbesprechungen zur Nachhaltung der Ziele und Ergänzungsgrößen im Jahr statt, in der die Agentur und die zuständige
 
@@ -89,7 +90,7 @@ Wie ist der aktuelle Stand der Analyse zu den Gründen differierender Aktivierun
 
 Wie ist der aktuelle Stand der Wirkungsanalyse über die Förderwirkung der Maßnahmen, unterschieden nach weiblichen und männlichen Leistungsberechtigten sowie jeweils dem Anteil der Alleinerziehenden? Gibt es dazu bereits ein (Zwischen-)Ergebnis? Wenn ja, wo ist dieses einzusehen, wenn nein, warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Zielvereinbarungen gelten für das gesamte Jahr 2016. Die Ergebnisse der Wirkungsanalyse zu den Gründen differierender Aktivierungsquoten liegen noch nicht vor.
 

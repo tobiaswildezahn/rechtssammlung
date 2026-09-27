@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50037"
@@ -53,7 +54,7 @@ Um wie viele Fälle handelt es sich? Bitte für 2014 und 2015 angeben.
 
 Hat es in diesem Zusammenhang bereits Zugriffe, Verhaftungen und entsprechende Strafverfahren gegeben oder wurden diese eingeleitet? Bitte für 2014 und 2015 angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Polizeiliche Kriminalstatistik (PKS) weist im Jahr 2014 für das Land Hamburg 44 Fälle von Schleusungskriminalität gemäß PKS-Schlüssel 7252 (Einschleusen gemäß § 96 Aufenthaltsgesetz) aus.
 

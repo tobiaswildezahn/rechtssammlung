@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50132"
@@ -56,7 +57,7 @@ bereitgestellt?
 
 Welche Art von Bussen (zum Beispiel Gelenkbusse) wurde beim Schienenersatzverkehr eingesetzt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für die Bemessung der Kapazitäten im Schienenersatzverkehr liegen Fahrgastzahlen zugrunde, die abschnittsweise erhoben werden. Die Entscheidung, wie viele Busse eine S-Bahn ersetzen, hängt von den Fahrgastzahlen ab. Die Erfahrung hat gezeigt, dass generell bei der Einrichtung eines Schienenersatzverkehrs die Fahrgastzahlen um etwa 10 Prozent zurückgehen.
 

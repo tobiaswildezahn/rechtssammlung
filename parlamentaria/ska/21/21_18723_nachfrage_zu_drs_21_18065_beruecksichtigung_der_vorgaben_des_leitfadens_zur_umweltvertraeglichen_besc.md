@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18065"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68396"
@@ -77,7 +78,7 @@ Auf meine Fragen 7. bis 7. b. nach der Interessentenkonferenz und deren Protokol
 
 Gibt es eine Arbeitsanweisung oder vergleichbare Regelung bezüglich des Zeitraums, in dem ein solches Protokoll erstellt und im Transparenzportal publiziert werden muss? a. Wenn ja, welche ist dies und wie lautet diese Regelung? b. Wenn nein, ist der Senat der Auffassung, dass hier Nachbesserungsbedarf besteht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Das Protokoll der Interessentenkonferenz wurde am 19. Oktober 2018 erstellt und  
 freigegeben, sowie im Rahmen der europaweiten Bekanntmachung der Ausschreibung  

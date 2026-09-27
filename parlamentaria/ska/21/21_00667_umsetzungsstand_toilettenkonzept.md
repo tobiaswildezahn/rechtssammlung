@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5638"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48804"
@@ -111,15 +112,15 @@ Welche Varianten wurden im Rahmen der Ausarbeitung des Betriebskonzepts untersuc
 
 Im Rahmen des Projekts „Bau und Betrieb öffentlicher Toiletten“ wurden die Varianten
 
- Aufgabenwahrnehmung durch die Bezirksämter (beziehungsweise ein federfüh-
+– Aufgabenwahrnehmung durch die Bezirksämter (beziehungsweise ein federfüh-
 
 rendes Bezirksamt),
 
- Gründung eines Landesbetriebs,
+– Gründung eines Landesbetriebs,
 
- Beauftragung eines öffentlichen Unternehmens,
+– Beauftragung eines öffentlichen Unternehmens,
 
- Privatisierung
+– Privatisierung
 
 untersucht.
 

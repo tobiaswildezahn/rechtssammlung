@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67707"
@@ -65,7 +66,7 @@ Ist dem Senat bekannt, dass Anbieter von Alignern kieferorthopädische Behandlun
 
 Ist dem Senat bekannt, dass nicht jeder Patient für Aligner geeignet ist und es hierdurch zu Risiken für die Bevölkerung kommen kann? Wenn ja, was hat der Senat in dieser Angelegenheit bisher unternommen beziehungsweise was plant er zu tun?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 

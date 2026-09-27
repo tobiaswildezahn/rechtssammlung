@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 32
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7406", "21/2108", "21/8190", "21/10137", "21/8936", "21/9358"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59115"
@@ -43,7 +44,7 @@ Wie viele Personen waren in der EA Fiersbarg Ende August untergebracht?
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Geschlecht  
 Kinder & Jugendliche  
@@ -96,7 +97,7 @@ Aus welchen Unterkünften kommen sie jeweils?
 
 Wie viele sind Neuankömmlinge und kamen im August direkt aus dem Ankunftszentrum?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Im August 2017 wurden 26 Personen aus dem Ankunftszentrum Rahlstedt in der EA Fiersbarg aufgenommen. Weitere Unterkünfte, aus denen eine Verlegung in die EA Fiersbarg erfolgte, sind der nachstehenden Tabelle zu entnehmen:
 
@@ -248,7 +249,7 @@ c) Sicherheit?
 
 Wie viele davon tagsüber (7 – 18 Uhr), wie viele davon nachts (18 – 7 Uhr)? Wenn es abweichende Dienstzeiten gibt, bitte diese nennen und die Aufschlüsselung hiernach geben.
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Drs. 21/8936.
 

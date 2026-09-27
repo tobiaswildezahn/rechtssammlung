@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13635", "21/2603", "21/7282", "21/9882", "21/8274", "21/5888", "21/3044", "21/2242", "21/516", "20/9662", "21/9810"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60457"
@@ -51,11 +52,11 @@ Das Stellplatzangebot in Hamburg setzt sich zusammen aus Stellplätzen auf öffe
 
 Auf öffentlichen Wegen ist die Stellplatzzahl leicht zurückgegangen. Dieser Rückgang hat drei wesentliche Ursachen:
 
- Wenn im privaten Hochbau neue Gehwegüberfahrten erstellt werden, fallen im
+– Wenn im privaten Hochbau neue Gehwegüberfahrten erstellt werden, fallen im
 
 Bereich der Gehwegüberfahrt vorhandene Stellplätze weg. Zusätzliche Verkehrsflächen werden für den fließenden Verkehr benötigt. Nach der von der Hamburgischen Bürgerschaft in § 16 Absatz 1 Satz 3 HWG getroffenen Grundentscheidung hat der fließende Verkehr Vorrang vor dem ruhenden Verkehr.
 
- Die ständig wachsende Durchschnittsgröße privater Fahrzeuge erfordert eine
+– Die ständig wachsende Durchschnittsgröße privater Fahrzeuge erfordert eine
 
 Anpassung der Stellplatzmaße an die höheren Breiten und Längen der Fahrzeuge. Neu zugelassene Fahrzeuge wurden in den vergangenen zehn Jahren um durchschnittlich 15 cm breiter; zugleich wurden sie 19 cm länger und 25 cm höher. So betrug die Länge eines Pkws im Jahr 2001 im Durchschnitt 4,5m; im Jahr 2011 musste bereits mit 4,75m Länge geplant werden.
 
@@ -67,15 +68,15 @@ Auch eine vorsichtige Schätzung ergibt daher, dass im Betrachtungszeitraum 2011
 
 Auch die Verfügbarkeit der Stellplätze wurde entscheidend verbessert. Dazu dienen folgende Maßnahmen:
 
- Die Einführung und konsequente Erweiterung und Umsetzung einer systemati-
+– Die Einführung und konsequente Erweiterung und Umsetzung einer systemati-
 
 schen Parkraumüberwachung sorgt dafür, dass auch in der inneren Stadt jederzeit Kurzzeitparkplätze im öffentlichen Raum erreichbar sind.
 
- Die Einführung der Entgeltpflicht für Park+Ride-Anlagen führt dazu, dass die Anla-
+– Die Einführung der Entgeltpflicht für Park+Ride-Anlagen führt dazu, dass die Anla-
 
 gen für Park+Ride-Zwecke genutzt werden können und damit der Stellplatzbedarf in der inneren Stadt reduziert wird.
 
- Die Ergänzung des Angebots an Bewohnerparkgebieten führt zu einer Erhöhung
+– Die Ergänzung des Angebots an Bewohnerparkgebieten führt zu einer Erhöhung
 
 des Stellplatzangebots für die Wohnbevölkerung in von hohem Fremdparkerdruck belasteten Gebieten.
 

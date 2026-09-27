@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 14
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4087"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54257"
@@ -65,7 +66,7 @@ Auf dem Gewerbeflächenportal GEFIS zur Metropolregion Hamburg wird aktuell (25.
 
 Auf dem Gewerbeflächenportal GEFIS zur Metropolregion Hamburg wird aktuell (25.8.2016) bei Eingabe einer Nachfrage nach freien Gewerbegebieten im Landkreis Harburg folgendes Gewerbegebiet zu sofortigem Kauf angeboten: Gewerbegebiet Luhdorf II BA104.000 qm. Ist diese Quadratmeteranzahl noch aktuell? a. Wenn ja, wie, wann und von wem werden die Bürgerinnen und Bürger bei Interesse von Unternehmen an diesem Gewerbegebiet informiert? b. Gibt es zurzeit Anfragen von Unternehmen mit Interesse an diesem Gewerbegebiet? Wenn ja, welche Unternehmen sind das und wie groß ist die dabei von diesen jeweils angefragte Grundstücksfläche? (Bitte jeweils Nennung der Branche, der Anzahl der sozialversicherungspflichtigen Arbeitsplätze und der Notwendigkeit einer Verkehrsanbindung für das Unternehmen über Straße und/oder Bahn angeben.) c. Wenn nein, welche Unternehmen haben wann Gewerbeflächen am Gewerbestandort erworben und wie groß ist die dabei von diesen jeweils erworbene Grundstücksfläche? (Bitte jeweils Nennung der Branche, der Anzahl der sozialversicherungspflichtigen Arbeitsplätze und der Notwendigkeit einer Verkehrsanbindung für das Unternehmen über Straße und/oder Bahn angeben.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Das Gewerbeflächen-Informationssystem GEFIS wird über Online-Schnittstellen zu den Gewerbeflächenlandesportalen der an der Metropolregion Hamburg beteiligten Länder aktualisiert. Im GEFIS wird sichergestellt, dass eine laufende Aktualisierung möglich ist. Die Aktualisierung für Flächen im Landkreis Harburg erfolgt jede Nacht über das Landesportal KomSIS Niedersachsen. Im Übrigen siehe Drs. 21/4087.
 

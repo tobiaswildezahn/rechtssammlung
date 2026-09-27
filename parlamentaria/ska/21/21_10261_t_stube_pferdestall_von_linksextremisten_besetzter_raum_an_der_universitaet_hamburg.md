@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59104"
@@ -63,17 +64,17 @@ Welche Kosten für Miete, Abwasser, Elektrizität, Reparaturen/Instandhaltung, M
 
 Die Kosten, welche von der Universität Hamburg getragen werden, gliedern sich wie folgt:
 
- Stromverbrauch: 761,97 Euro/Jahr
+– Stromverbrauch: 761,97 Euro/Jahr
 
- Wärmeverbrauch: 917,70 Euro/Jahr
+– Wärmeverbrauch: 917,70 Euro/Jahr
 
- Wasserverbrauch: 263,73 Euro/Jahr
+– Wasserverbrauch: 263,73 Euro/Jahr
 
- Abfall u. Entsorgung: 409,89 Euro/Jahr
+– Abfall u. Entsorgung: 409,89 Euro/Jahr
 
- Instandhaltung: 783,49 Euro/Jahr
+– Instandhaltung: 783,49 Euro/Jahr
 
- Objektschutz:
+– Objektschutz:
 1.870.75 Euro/Jahr
 
 ### Frage 4
@@ -100,6 +101,6 @@ Welche Erkenntnisse hat das Landesamt für Verfassungsschutz über Kontakte/Unte
 
 Welche Kenntnisse haben die Sicherheitsbehörden über Rauschmittel- Delikte innerhalb der T-Stube? Bitte für den Zeitraum der letzten fünf Jahre angeben.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 4.

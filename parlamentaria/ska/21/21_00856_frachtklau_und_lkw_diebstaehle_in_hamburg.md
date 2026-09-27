@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49023"
@@ -77,6 +78,6 @@ Wie hoch ist die Aufklärungsquote der unter 1. und 2. genannten Fälle?
 
 Wie hoch wird der gesamtwirtschaftliche Schaden der unter 1. und 2. genannten Fälle eingeschätzt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antworten zu 1 bis 4.

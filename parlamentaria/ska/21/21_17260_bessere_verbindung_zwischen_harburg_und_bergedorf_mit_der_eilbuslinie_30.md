@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66837"
@@ -50,15 +51,15 @@ Die Linie E30 bedient die Haltestellen S Harburg Rathaus, S Harburg Rathaus (Ei�
 
 Die Linie verkehrt
 
- montags bis freitags von 4 bis 7 Uhr und von 20 bis 1 Uhr im Stundetakt sowie von
+– montags bis freitags von 4 bis 7 Uhr und von 20 bis 1 Uhr im Stundetakt sowie von
 
 7 bis 20 Uhr im Halbstundentakt,
 
- samstags von 4 bis 10 Uhr und von 20 bis 1 Uhr im Stundentakt sowie von 10 bis
+– samstags von 4 bis 10 Uhr und von 20 bis 1 Uhr im Stundentakt sowie von 10 bis
 
 20 Uhr im Halbstundetakt,
 
- sonntags von 4 bis 1 Uhr im Stundentakt.
+– sonntags von 4 bis 1 Uhr im Stundentakt.
 
 ### Frage 2
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2950", "21/3372"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56734"
@@ -47,7 +48,7 @@ Wie viele Kunden nutzen inzwischen im Leistungsspektrum von SPL a. die SPL-WEB-A
 
 Wie haben sich die Nutzerzahlen seit Dezember 2015 im Einzelnen entwickelt? Bitte monatlich ausweisen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zeitpunkt  
 SPL WEB  
@@ -84,7 +85,7 @@ Wie hoch ist der an der Gesamtheit gemessene prozentuale Anteil der Speditionen,
 
 Laut der Drs. 21/3372 vom 22. Februar 2016 können die Projektkosten in Höhe von 210.000 Euro aus Sicht des Senats und der zuständigen Behörden, trotz des geringen Nutzens von gerade einmal 1 Prozent aller Transport- und Speditionsunternehmen, gerechtfertigt werden. Es hieß, es sei davon auszugehen, dass die Nutzerzahlen der Anwendung weiter gesteigert werden könnten. Als Gründe wurden das Zusammenspiel von SPL mit den angebundenen Transportmanagementsystemen, die Ausweitung auf andere Häfen, die Weiterentwicklung von SPL bezüglich der Digitalisierung des Hafens sowie die Integration weiterer Funktionalitäten genannt. Konnte bisher die erwartete Steigerung der Nutzung erzielt werden? Wenn ja, wie hoch fällt die konkrete Steigerung aus? Wenn nein, welche Konsequenzen ergeben sich daraus?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der Gesamtanteil liegt derzeit noch unter 1 Prozent, gemessen an der Gesamtzahl der Speditionen, die SPL nutzen könnten. Die direkten SPL Nutzerzahlen sind im Jahr 2016 leicht gestiegen. Es zeigt sich weiterhin ein großes Potenzial für das SPL System aufgrund der technisch einfach handhabbaren Ausweitung auf andere Logistik- Hubs, zum Beispiel andere Häfen, Güterverteilzentren, die intermodale Anbindung von Schiene und Luftfracht sowie die Vernetzung von Häfen und Produktionsstätten mit starker logistischer Auslastung. Dies wurde unter anderem durch die große Resonanz aus dem Ausland, im Nachgang der IAPH Welthafenkonferenz im Jahr 2015 bestätigt.
 

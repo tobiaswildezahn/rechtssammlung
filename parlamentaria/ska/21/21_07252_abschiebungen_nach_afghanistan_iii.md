@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 20
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55838"
@@ -59,7 +60,7 @@ Vor dem Hintergrund, dass die neue Einschätzung der Sicherheitslage in Afghanis
 
 Hat der Senat beziehungsweise die zuständige Behörde Kenntnis von der mit Stand 9. Dezember 2016 nochmals aktualisierten umfangreichen Erkenntnissammlung zur Lage in Afghanistan (http://www.frsh.de/ fileadmin/pdf/Aktuelles/sicherheit-afghanistan3-161209.pdf)? Wenn ja, bitte begründen, warum der Senat trotz der Erkenntnislage abschieben will. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die in Bezug genommene Erkenntnissammlung ist der zuständigen Behörde bekannt. Gleichwohl ist die Ausländerbehörde gemäß § 58 Aufenthaltsgesetz (AufenthG) bundesgesetzlich gehalten, gegenüber vollziehbar ausreisepflichtigen Personen die Ausreisepflicht durchzusetzen, wenn sie trotz Beratungs- und Hilfsangeboten nicht freiwillig ausreisen. Dieses betrifft afghanische Staatsangehörige ebenso wie Angehörige anderer Staaten. Im Rahmen der aktuell am 14. Dezember 2016 durchgeführten Sammelrückführung wurden aus Hamburger Zuständigkeit ausschließlich afghanische Staatsangehörige zurückgeführt, welche vollziehbar ausreisepflichtig waren und für welche seitens des für diese Prüfung zuständigen Bundesamtes für Migration und Flüchtlinge (BAMF) keine Gründe festgestellt wurden, wonach diesen Personen hätte Schutz nach dem Asylgesetz gewährt werden oder wegen gegebener Abschiebungsverbote von einer Rückführung hätte abgesehen werden müssen. An die Entscheidung des zuständigen Bundesamtes oder gegebenenfalls des Verwaltungsgerichts ist die Ausländerbehörde gebunden, siehe §§ 6, 42 Asylgesetz. Das BAMF sowie im Falle ihrer Anrufung die Verwaltungsgerichte prüfen den asylrechtlichen Schutzstatus auf Grundlage der auch über die Sicherheitslage im Herkunftsland verfügbaren Informationen.
 

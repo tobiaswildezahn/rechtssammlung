@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54945"
@@ -69,7 +70,7 @@ Wie viele Alarmanlagen existieren in Hamburg bei Unternehmen, öffentlichen Einr
 
 Wie viele Alarmanlagen davon sind in Hamburg jeweils von Unternehmen, öffentlichen Einrichtungen und Privathaushalten jeweils direkt oder über Sicherheitsfirmen an die Polizei und Feuerwehr Hamburg angeschlossen? Bitte nach Bezirken aufschlüsseln.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Gesamtzahl aller Alarmanlagen in Hamburg ist der Polizei nicht bekannt.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 17
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10946"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69950"
@@ -63,7 +64,7 @@ b) Welche Kosten werden für die Sanierungsarbeiten erwartet?
 c) Wie lange werden die Sanierungsarbeiten dauern?
 d) Wann sollen die Sanierungsarbeiten beginnen? Und wann werden sie abgeschlossen sein?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

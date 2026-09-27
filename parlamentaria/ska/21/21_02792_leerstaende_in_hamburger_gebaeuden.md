@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 28
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6171", "21/1264", "20/13283"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51100"
@@ -149,7 +150,7 @@ Wie stellt sich die Lage dar bei dem Gebäude der ehemaligen Oberpostdirektion i
 
 Hat es Planungen oder gegebenenfalls auch Begehungen gegeben, um dieses Gebäude für Zwecke der Unterbringung von wohnungs- und obdachlosen Menschen wenigstens zu prüfen? Wenn ja, mit welchem Ergebnis? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Es handelt sich um einen privaten Eigentümer.
 
@@ -179,7 +180,7 @@ Wie stellt sich die Lage dar beim derzeitigen Sitz des Einwohnerzentralamtes bez
 
 Gibt es aktuelle Überlegungen, das absehbar von dem Einwohnerzentralamt/der Ausländerbehörde geräumte Gebäude für Unterbringungszwecke umzunutzen und herzurichten? Wenn ja, mit welchem Tenor? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die Gebäude Amsinckstraße 28 und 34 befinden sich in Privateigentum. Das Gebäude Amsinckstraße 28 hat eine Gesamtfläche von rund 8.132 m², die Gesamtfläche des Gebäudes Amsinckstraße 34 beträgt rund 6.185 m². Beide sind zu 100 Prozent an die Freie und Hansestadt Hamburg vermietet und werden durch das Einwohner- Zentralamt der Behörde für Inneres und Sport genutzt. Das Einwohner-Zentralamt wird voraussichtlich Ende 2016 einen neuen Standort beziehen.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2541"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51415"
@@ -118,7 +119,7 @@ Auf welcher Grundlage wurde beschlossen, das Projekt 2014 zu wiederholen und aus
 
 Wurde das Projekt evaluiert? Wenn ja: mit welchen Ergebnissen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Das Projekt wurde nach der Vergabe 2013 und der Vergabe 2014 intensiv evaluiert.
 

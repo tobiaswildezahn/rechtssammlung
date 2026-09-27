@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 19
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/8579", "21/3590"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55148"
@@ -56,7 +57,7 @@ Wie kommt diese Droge in der Regel nach Hamburg?
 In der Sitzung des Gesundheitsausschusses vom 24. September 2015 sagte die Sachverständige Prof. Dr. Gundula Barsch: „… wir haben faktisch über verschiedene, meistens über Internetwege die Möglichkeit, synthetische Cannabinoide, die irgendwo aufgetragen werden, zu beschaffen.“ (siehe Protokoll 21/3 des Gesundheitsausschusses).
 a) Trifft es auch auf K2 zu, dass diese Substanz hauptsächlich über das Internet vertrieben wird? Wenn nein, inwiefern nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Erkenntnisse im Sinne der Fragestellung liegen dem Senat nicht vor.
 
@@ -133,7 +134,7 @@ Wie viele Fälle von Krankenhauseinlieferungen aufgrund einer akuten Intoxikatio
 
 Wie hat sich die Fallzahl von Krankenhauseinlieferungen aufgrund einer akuten Intoxikation durch synthetische Cannabinoide seit 2011 in Deutschland entwickelt? Bitte jahresweise angeben.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die genaue Zahl der Krankenhauseinlieferungen (stationäre und gegebenenfalls ambulante Fälle) aufgrund einer akuten Intoxikation durch synthetische Cannabinoide liegen der zuständigen Behörde nicht vor. Hilfsweise kann auf die Zahl der vollstationär behandelten Fälle verwiesen werden.
 
@@ -160,7 +161,7 @@ Wie viele Todesfälle aufgrund des Konsums synthetischer Cannabinoide wurden sei
 
 Wie viele Todesfälle aufgrund des Konsums synthetischer Cannabinoide wurden seit 2011 in Deutschland festgestellt? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Nach Auskunft des Instituts für Rechtsmedizin (IfR) des UKE können nach dortigem Ad-hoc-Kenntnisstand in der Kürze der Zeit die nachfolgenden Hinweise gegeben werden:
 

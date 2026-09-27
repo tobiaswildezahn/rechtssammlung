@@ -8,12 +8,13 @@ datum_anfrage: "2026-09-10"
 datum_drucksache: "2026-09-18"
 urheber: ["Dirk Kienscherf"]
 fraktionen: ["SPD"]
-vorgang: null
+vorgang: 89167
 seiten: 29
 fragen: 8
 einzelfragen: 11
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105211"

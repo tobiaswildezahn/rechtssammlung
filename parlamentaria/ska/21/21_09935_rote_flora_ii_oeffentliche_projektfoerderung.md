@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9793", "21/9822", "21/9906", "21/8962", "21/9538", "21/1986"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58747"
@@ -51,7 +52,7 @@ Welche Projekte haben im laufenden Kalenderjahr Zuwendungen als Kulturprojekte a
 
 Welche Projekte haben im laufenden Kalenderjahr Zuwendungen als Kulturprojekte aus Mitteln des Bezirkes Altona erhalten? Bitte einzeln aufschlüsseln, Projektträger und Fördersumme nennen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe: http://transparenz.hamburg.de/.
 

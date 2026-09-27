@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53868"
@@ -87,7 +88,7 @@ Wie hat sich die Zahl der Verkehrsunfälle von und mit Rollstuhl- und Rollatorfa
 
 Wie hat sich die Zahl der Verkehrsunfälle an Querungsstellen seit 2011 entwickelt? (Bitte jahresweise sowie nach Verkehrsteilnehmern aufschlüsseln und, wenn möglich, jeweils die Unfallursachen angeben.)
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Eine Querungsstelle stellt kein such- und auswertefähiges Kriterium der Verkehrsunfalldatenbank EUSka dar. Eine Auswertung ist daher nicht möglich. Im Übrigen siehe Antwort zu 4.
 

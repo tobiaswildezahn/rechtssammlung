@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7706"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57344"
@@ -45,15 +46,15 @@ Geschädigte, die einen Anspruch auf das Betreuungsangebot haben, erhalten bei d
 
 Darüber hinaus gibt es auf folgenden Internetseiten Informationen zur psychosozialen Prozessbegleitung:
 
- Justizbehörde http://www.hamburg.de/justizbehoerde/service/7823368/psychpbg/
+– Justizbehörde http://www.hamburg.de/justizbehoerde/service/7823368/psychpbg/
 
- Opferschutz in Hamburg:
+– Opferschutz in Hamburg:
 
- www.hamburg.de/opferschutz
+– www.hamburg.de/opferschutz
 
- www.hamburg.de/hilfen-fuer-opfer
+– www.hamburg.de/hilfen-fuer-opfer
 
- www.hamburg.de/hilfen-fuer-opfer/4632022/rechtliche-beratung
+– www.hamburg.de/hilfen-fuer-opfer/4632022/rechtliche-beratung
 
 a. Wie können Betroffene und Interessierte erfahren, welche Personen als psychosoziale Prozessbegleiter/-innen (PPB) zertifiziert sind und zur Verfügung stehen? Ist eine Liste, ein Informationsflyer oder Ähnliches geplant oder in Arbeit, wenn ja, zu wann?
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 15
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55917"
@@ -59,7 +60,7 @@ Was genau beinhaltet die Überarbeitung des Straßenzugs Adolph- Schönfelder-St
 
 Gemäß Antwort des Bezirksamtes HH-Nord auf die Bezirks-Drs. 20- 3084 „Ehemaliges Polizeirevier Weidestraße“ war am Antworttag 6. Juni 2016 zwar bekannt, dass die Kreuzung Dehnhaide mittelfristig überplant wird, ein genauer Zeitpunkt war jedoch noch nicht. Sind mittlerweile konkretere Planungen bekannt? Wenn ja, wie lauten diese im Detail?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Konkrete Planungen liegen derzeit nicht vor. Im Übrigen siehe Antwort zu 1.
 

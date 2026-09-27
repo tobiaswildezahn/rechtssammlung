@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59535"
@@ -33,22 +34,22 @@ In diesem Jahr feiert die Universität Hamburg das fünfzehnjährige Jubiläum i
 
 ## Einleitung für die Antworten des Senats
 
-
+–
 09.10.: Wie funktioniert unser Gedächtnis? Dr. Jasper Grendel.
 
-
+–
 16.10.: Warum sind Spinnen wichtig? Dr. Danilo Harms.
 
-
+–
 23.10.: Wie lebten die Neandertaler? Jun.-Prof. Dr. Daniela Hofmann.
 
-
+–
 30.10.: Was ist Licht? Dr. Juliette Simonet.
 
-
+–
 06.11.: Warum gehen Erwachsene wählen? Prof. Dr. Andreas Nicklisch.
 
-
+–
 13.11.: Warum sind Böden mehr als Dreck? Prof. Dr. Eva-Maria Pfeiffer.
 
 Die Vorlesungen dauern etwa 45 Minuten und sind kostenfrei. Jedes Kind erhält bei seinem ersten Besuch der diesjährigen Kinder-Uni Hamburg einen Studierendenausweis. Für jede besuchte Vorlesung können sich Teilnehmer einen Stempel abholen. Wer mindestens bei vier Vorlesungen dabei war, besucht die Abschlussveranstaltung kostenlos. Zusätzliche Eintrittskarten für die Abschlussveranstaltung – auch für Eltern und Geschwister – sind während der Vorlesungen im Foyer des Audimax oder ab Oktober im Uni-Kontor (Allendeplatz 1) und im „Hamburger Abendblatt Ticketshop“ im Bahnhof Dammtor erhältlich (Preis: 6,50 Euro). Der Veranstaltungsort befindet sich auf dem Campusgelände der Universität Hamburg (S-Bahn Dammtor, U-

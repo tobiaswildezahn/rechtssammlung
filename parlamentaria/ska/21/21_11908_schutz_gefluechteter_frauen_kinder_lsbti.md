@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 24
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1570", "21/3204", "21/3542", "21/4174", "21/5359", "21/6163", "21/6548", "21/6891", "21/7485", "21/9660", "21/10457", "21/10582", "21/10281"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61150"
@@ -107,7 +108,7 @@ a) Welche Initiative hat der Senat ergriffen, um einen fachlichen Austausch zwis
 b) Wie viele Austauschgespräche zwischen Beratungsstellen gegen geschlechtsspezifische Gewalt haben seither stattgefunden?
 c) An wie vielen dieser Gespräche haben sich Vertreter der BASFI und Ausländerbehörde beteiligt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Bei der Verbesserung des Schutzes von Frauen und Mädchen sowie von LSBTI* kommt den Flüchtlingseinrichtungen eine zentrale Rolle zu. Sie standen und stehen daher zunächst im Fokus von Sensibilisierungsmaßnahmen der zuständigen Behörden. Im Rahmen der einrichtungsspezifischen Schutzkonzepte hat daher das Zentrum für Aus- und Fortbildung (ZAF) im Auftrag der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) seit September 2017 eine Fortbildungsreihe zu allen geschlechtsspezifischen Gewaltthemen einschließlich Menschenhandel sowie zum Thema Gewalt gegen LSBTI*-Geflüchtete angeboten. Die Fortbildungsreihe wird in 2018 fortgesetzt. Sie richtet sich an die in den Schutzkonzepten benannten Ansprechpersonen für den Gewaltschutz in den Flüchtlingsunterkünften sowie weitere Fachkräfte, die in diesen Unterkünften arbeiten.
 

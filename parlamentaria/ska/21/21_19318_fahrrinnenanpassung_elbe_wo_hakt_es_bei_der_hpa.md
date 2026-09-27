@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7256", "21/18992", "21/19201"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69024"
@@ -79,7 +80,7 @@ Ist es richtig, dass die zuständige Berufsgenossenschaft den von der HPA im Rah
 
 Warum hat die HPA dies vorab nicht mit der Berufsgenossenschaft abgestimmt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/19201.
 

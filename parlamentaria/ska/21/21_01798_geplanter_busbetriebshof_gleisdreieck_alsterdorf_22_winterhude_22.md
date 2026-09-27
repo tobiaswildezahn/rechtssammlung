@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 23
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13205"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50029"
@@ -65,31 +66,31 @@ Welche acht Alternativstandtorte für den neuen Busbetriebshof wurden seitens de
 
 Insgesamt wurden acht Standorte durch die HOCHBAHN geprüft. Die Prüfungen erfolgten im Zeitraum zwischen den Jahren 2010 und 2014. Neben dem gewählten Standort Gleisdreieck Alsterdorf waren dies die folgenden Grundstücke:
 
- Schmiedekoppel: Langenhorst 23 beziehungsweise Brandfurt 32 (Niendorf). Flä-
+– Schmiedekoppel: Langenhorst 23 beziehungsweise Brandfurt 32 (Niendorf). Flä-
 
 che liegt im Überschwemmungsgebiet der Kollau und grenzt an Wohnbebauung.
 
- Ruwoldtweg 14 (Steilshoop): Fläche bebaut, Bebauung nicht sinnvoll nutzbar,
+– Ruwoldtweg 14 (Steilshoop): Fläche bebaut, Bebauung nicht sinnvoll nutzbar,
 
 Abriss unwirtschaftlich. Fläche zu klein, sodass der Betriebshof Mesterkamp erhalten bleiben müsste.
 
- Albert-Schweizer-Ring 35 (Tonndorf): Fläche bebaut, Bebauung nicht sinnvoll
+– Albert-Schweizer-Ring 35 (Tonndorf): Fläche bebaut, Bebauung nicht sinnvoll
 
 nutzbar, Abriss unwirtschaftlich, Fläche zu klein, sodass der Betriebshof Mesterkamp erhalten bleiben müsste, angrenzende Wohnbebauung.
 
- Bargkoppelstieg 10 – 14 (Rahlstedt): Fläche bebaut, Bebauung nicht sinnvoll nutz-
+– Bargkoppelstieg 10 – 14 (Rahlstedt): Fläche bebaut, Bebauung nicht sinnvoll nutz-
 
 bar, Abriss zu teuer. Ungünstige Lage im Liniennetz der HOCHBAHN, lange Einsetzwege in das geplante Bedienungsgebiet und damit unwirtschaftlich.
 
- Wendenstraße 412 – 424 (Rothenburgsort): Fläche bebaut, Bebauung nicht sinn-
+– Wendenstraße 412 – 424 (Rothenburgsort): Fläche bebaut, Bebauung nicht sinn-
 
 voll nutzbar, Abriss zu teuer.
 
- Moorfleeter Kanal/Halskestraße 65 (Billbrook): Sehr ungünstige Lage im Liniennetz
+– Moorfleeter Kanal/Halskestraße 65 (Billbrook): Sehr ungünstige Lage im Liniennetz
 
 der HOCHBAHN, lange Einsetzwege in das geplante Bedienungsgebiet und damit unwirtschaftlich.
 
- Bredowstraße 34 (Billbrook): Sehr ungünstige Lage im Liniennetz der
+– Bredowstraße 34 (Billbrook): Sehr ungünstige Lage im Liniennetz der
 
 HOCHBAHN, lange Einsetzwege in das geplante Bedienungsgebiet und damit unwirtschaftlich.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["16/4616"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52306"
@@ -53,13 +54,13 @@ In der Polizeilichen Kriminalstatistik (PKS) wird das Merkmal „Flüchtling“ 
 
 In der PKS wird bei der Erfassung der Daten von Tatverdächtigen (TV) der Aufenthaltsstatus erfasst. Für die Erfassung des Aufenthaltsstatus wurden am 1. Januar 2016 die Kategorien International/national Schutzberechtigte und Asylberechtigte neu eingeführt. TV mit Flüchtlingsstatus werden in folgenden Kategorien des Aufenthaltsstatus in der PKS erfasst:
 
- Asylverfahren, unterteilt in
+– Asylverfahren, unterteilt in
 
 o Asylbewerber,
 
 o International/national Schutzberechtigte und Asylberechtigte sowie
 
- Duldung/Kontingentflüchtlinge, unterteilt in
+– Duldung/Kontingentflüchtlinge, unterteilt in
 
 o Duldung (Abschiebungshindernisse nach Abschluss des Asylverfahrens) und
 

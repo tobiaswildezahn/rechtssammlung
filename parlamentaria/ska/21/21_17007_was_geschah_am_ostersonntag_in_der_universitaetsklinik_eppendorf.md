@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 25
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66565"
@@ -99,7 +100,7 @@ Wie viele Security-Mitarbeiter waren beteiligt und sind sie suspendiert worden? 
 
 Wurde der Patient rechtsmedizinisch untersucht? Falls ja, wann (Datum und Uhrzeit) wurde die Untersuchung durchgeführt und von welcher Institution wurde sie durchgeführt?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Vorbemerkung.
 

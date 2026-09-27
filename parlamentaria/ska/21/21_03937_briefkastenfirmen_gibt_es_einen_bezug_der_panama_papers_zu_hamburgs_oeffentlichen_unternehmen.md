@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 18
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8303", "20/12202", "21/48", "21/1345", "21/1386", "20/13025", "20/1250"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52315"
@@ -92,7 +93,7 @@ Wie hoch ist das Außenhandelsvolumen Hamburgs mit dem Land Panama in den Jahren
 
 Wie hoch ist das Volumen der Finanztransaktionen zwischen Hamburg und Panama in den genannten Jahren gewesen? (Bitte jahresweise auflisten.)
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Anlage. Zwischen der FHH und dem Staat Panama gab es keine Finanztransaktionen. Darüber hinaus liegen der zuständigen Behörde keine Erkenntnisse vor.
 

@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 20
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6199", "21/5523"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55001"
@@ -217,7 +218,7 @@ Auf welcher rechtlichen Grundlage kann – grundsätzlich – eine Verstaatlichu
 
 Wie oft ist das seit 2010 geschehen? Bitte die jeweilige Schule mit Begründung angeben.
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Die Freie und Hansestadt Hamburg kann in den Formen und Grenzen des privaten Rechtes eine Schule in privater Trägerschaft als einen eingerichteten Gewerbebetrieb erwerben und sodann in eine staatliche Schule umwandeln. Die wichtigsten Rechtsfolgen ergeben sich aus § 613 a Bürgerliches Gesetzbuch (BGB). Dies ist zuletzt geschehen in Bezug auf die Nikolai Schule, die der ehemalige Träger, die Evangelische Stiftung Alsterdorf, mit allen Rechten und Pflichten und einvernehmlich mit der Elternschaft mit Wirkung ab dem 1.Februar 2011 auf die Freie und Hansestadt Hamburg übertragen hat. Die Freie und Hansestadt Hamburg hat diese Schule übernommen, weil sie zur Versorgung des Stadtteils erforderlich war.
 
@@ -229,6 +230,6 @@ Auf welcher rechtlichen Grundlage kann – grundsätzlich – eine Privatisierun
 
 Wie oft ist das seit 2010 geschehen? Bitte die jeweilige Schule mit Begründung angeben.
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Gemäß § 111 Absatz 2 Hamburgisches Schulgesetz (HmbSG) sind staatliche Schulen nicht rechtsfähige Anstalten des öffentlichen Rechtes. Solche können aus Rechtsgründen nicht privatisiert werden und dies ist bisher auch nicht geschehen. In Einzelfällen sind einige Gebäude ehemaliger staatlicher Schulen an private Schulträger veräußert oder vermietet worden.

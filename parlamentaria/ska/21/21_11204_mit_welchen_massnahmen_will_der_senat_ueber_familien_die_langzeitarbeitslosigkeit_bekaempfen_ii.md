@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 10
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8668", "21/8909"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60178"
@@ -57,29 +58,29 @@ Welche konkreten Regelungen zur Zusammenarbeit wurden erarbeitet?
 
 Aus den Kooperationen in den beiden Modellstandorten Eimsbüttel und Wilhelmsburg können bereits erste Erkenntnisse gezogen werden:
 
- Mit Erfolg wurden Informationsveranstaltungen und Workshops durchgeführt. Die
+– Mit Erfolg wurden Informationsveranstaltungen und Workshops durchgeführt. Die
 
 Mitarbeiterinnen und Mitarbeiter von Allgemeinen Sozialen Dienst (ASD) und Jobcenter können somit die Familien auf das Angebot und die Unterstützungsmöglichkeiten beider Institutionen hinweisen.
 
- Es finden gemeinsame Fallbesprechungen und die gegenseitige Vermittlung in
+– Es finden gemeinsame Fallbesprechungen und die gegenseitige Vermittlung in
 
 Hilfsangebote unter Beachtung des Datenschutzes statt.
 
 Die Kooperationsvereinbarungen in den Standorten werden derzeit erarbeitet. Diese Kooperationsvereinbarungen beinhalten voraussichtlich folgende Regelungen:
 
- Zusammenarbeit von ASD und Jobcenter zum Wohle der Familien;
+– Zusammenarbeit von ASD und Jobcenter zum Wohle der Familien;
 
- Gegenseitige Informationen über die Zugangswege und Angebote;
+– Gegenseitige Informationen über die Zugangswege und Angebote;
 
- Bei Bedarf gemeinsame Beratungsgespräche im Jobcenter-Standort beziehungs-
+– Bei Bedarf gemeinsame Beratungsgespräche im Jobcenter-Standort beziehungs-
 
 weise Hilfeplangespräche im ASD;
 
- Gegenseitiger Informationsaustausch unter Beachtung des Datenschutzes bezo-
+– Gegenseitiger Informationsaustausch unter Beachtung des Datenschutzes bezo-
 
 gen auf leistungsrelevante Informationen;
 
- Sicherstellung des Datenschutzes.
+– Sicherstellung des Datenschutzes.
 
 Im Übrigen sind die Planungen noch nicht abgeschlossen.
 

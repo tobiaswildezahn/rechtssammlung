@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 16
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/204", "20/3877", "20/11502", "21/224"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49890"
@@ -137,7 +138,7 @@ Welche Termine für Messe- und Ausstellungsbeteiligungen der Bundeswehr stehen z
 
 Welche Termine stehen derzeit für Truppenbesuche von Schülerinnen und Schülern fest? Bitte aufschlüsseln nach Datum, Truppenteil, der besucht wird, Name der Schule und Klassenstufe.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Der zuständigen Behörde liegen hierzu keine Informationen vor. Im Übrigen siehe Vorbemerkung.
 

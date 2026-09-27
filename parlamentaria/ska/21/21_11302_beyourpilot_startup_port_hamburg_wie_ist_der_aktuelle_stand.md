@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 16
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60299"
@@ -83,7 +84,7 @@ Gibt es inhaltliche Überscheidungen mit dem von der evers & jung GmbH geplanten
 
 Beinhaltet „beyourpilot“ den von der evers & jung GmbH konzeptionierten „SmartBusinessPlan“, der kommerziell über smartbusinessplan.de angeboten wird, über das Kammerangebot gruenderwerkstatthamburg.de nutzbar und als White-Label-Angebot in „gruenderportal.de“ integriert ist? a. Wenn ja, seit wann und warum? b. Wenn nein, warum nicht und an welchen Plänen und/oder Angeboten hat sich die zuständige Stelle für „beyourpilot“ orientiert?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Nein. Das von der Kreditanstalt für Wiederaufbau geplante Gründerportal richtet sich bundesweit an alle Gründungsinteressierte und bedient das gesamte Spektrum von Gründungen in Deutschland. Wesentlicher Kern des Portals soll eine Businessplan- Software mit dem Fokus „Finanzierung“ sein.
 

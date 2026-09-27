@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 15
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["17/2811"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50384"
@@ -61,7 +62,7 @@ Wann hat der Senat zum ersten Mal von den genannten Problemen in der Solarsiedlu
 
 Was hat er erfahren?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Juni 2008 informierte E.ON Hanse Wärme GmbH das zuständige Bezirksamt über eine Leckage im Rohrnetz und den Austritt von circa 5 – 10 m Wasser-Glykol- Gemisch im Erdreich.
 

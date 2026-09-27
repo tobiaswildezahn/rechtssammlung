@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 16
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3969", "21/1791", "21/4062", "21/4109"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52510"
@@ -107,7 +108,7 @@ Nach welchen Gesichtspunkten soll denn die Aufstellung der zusätzlich geplanten
 
 Welche Kosten werden für die Anschaffung der zusätzlichen Zählsäulen eingeplant?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Drs. 21/3969.
 
@@ -135,7 +136,7 @@ Hat der Senat schon einmal ermittelt, welche Kosten alternativ für die Beauftra
 
 Teilt der Senat die Auffassung, dass sich durch eine Befragung qualitativ erheblich aussagekräftigere Ergebnisse für den Ausbau des Radverkehrs in Hamburg erzielen ließen, als durch rein quantitativ wirksame, automatische Zählstellen?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Drs. 21/3969. Befragungen sind sinnvolle Ergänzungen, die allerdings Zählungen nicht ersetzen können. Es werden deshalb vielfältige Erkenntnisse aus zahlreichen Quellen bei der Planung herangezogen. Diese sind zum Beispiel
 

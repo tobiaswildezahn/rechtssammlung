@@ -10,12 +10,13 @@ urheber: ["Dennis Gladiator"]
 fraktionen: ["CDU"]
 vorgang: 45517
 seiten: 3
-fragen: 0
-einzelfragen: 0
-antwortbloecke: 0
+fragen: 1
+einzelfragen: 1
+antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1454"]
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49766"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/49766/21_01558_stoerfaktoren_fuer_anlieger_von_windenergieanlagen_wea_nachfrage"
 abgerufen: "2026-09-27"
@@ -27,15 +28,19 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Dennis Gladiator (CDU) vom 11.09.15 und Antwort des Senats · Drucksache vom 18.09.2015  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/49766) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/49766/21_01558_stoerfaktoren_fuer_anlieger_von_windenergieanlagen_wea_nachfrage)
 
-## Volltext
-
-Störfaktoren für Anlieger von Windenergieanlagen (WEA) – Nachfrage
+## Einleitung für die Fragen
 
 Unter Bezugnahme auf meine Schriftliche Kleine Anfrage Drs. 21/1454 ergibt sich folgende Nachfrage (zur Antwort auf Frage 3.).
 
 Ich frage den Senat:
 
+## Fragen und Antworten
+
+### Frage 1
+
 Welche konkreten Messergebnisse ergaben die Lärmmessungen nach dem Ersatz alter beziehungsweise Neubau von WEA an den Messpunkten vor Ort entsprechend der Vorgabe der technischen Richtlinie (Rohdaten)? Bitte einzeln angeben.
+
+#### Antwort zu Frage 1
 
 Für die Windkraftanlage Vestas V90 am Standort Francop ergibt sich als Vorab- Ergebnis für die FGW-konforme Emissionsmessung ein maximaler Schalleistungspegel von 103,4 dB(A). Siehe hierzu auch Anlage 1.
 
@@ -45,6 +50,6 @@ Für die Anlage Senvion MM100 im Windpark Neuengamme West wurde durch ein 62 Sei
 
 In der Genehmigung wurde festgelegt, dass die von diesen Anlagen ausgehenden Schallemissionen einen maximalen Schallleistungspegel von 105,8 dB(A) nicht überschreiten dürfen. Damit ist nachgewiesen, dass der genehmigte Schallemissionswert eingehalten wird.
 
-Anlage 1: Vorabergebnisse Francop Anlage 1
+Anlage 1: Vorabergebnisse Francop
 
-Anlage 2: Auszug aus Schallemissionsgutachten Neuengamme West Anlage 2
+Anlage 2: Auszug aus Schallemissionsgutachten Neuengamme West

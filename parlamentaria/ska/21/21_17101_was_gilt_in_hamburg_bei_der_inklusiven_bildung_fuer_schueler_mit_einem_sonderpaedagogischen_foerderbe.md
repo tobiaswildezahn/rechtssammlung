@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 24
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/3641", "20/10803", "20/10965", "21/17051", "21/16947", "21/16862", "21/16868", "21/11428", "20/8998", "21/5911", "21/9950", "21/12544", "21/17083"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66649"
@@ -119,7 +120,7 @@ Wie viele Schwerpunktschulen gab es zu Beginn der schulischen Wahlfreiheit 2010 
 
 Sind die unter Nummer 8. genannten Schwerpunktschulen offen für alle Förderschwerpunkte? Wenn nein, welche nicht und mit welcher Begründung?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Zu Beginn der Umsetzung der Drs. 20/3641 „Inklusion an Hamburgs Schulen“ gab es 56 Schwerpunktschulen. Zwischenzeitlich hat sich die Anzahl der Schwerpunktschulen auf insgesamt 61 gesteigert. Eine Auflistung der Schwerpunktschulen ist der Anlage zu entnehmen.
 

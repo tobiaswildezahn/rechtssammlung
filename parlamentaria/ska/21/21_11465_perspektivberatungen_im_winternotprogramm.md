@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 24
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6922", "21/7219", "21/6426", "21/10846"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60585"
@@ -43,7 +44,7 @@ Wie wird unfreiwillige Obdachlosigkeit im Gegensatz zu freiwilliger Obdachlosigk
 
 Wie wird Selbsthilfe in diesem Zusammenhang definiert? Wann gelten Selbsthilfemöglichkeiten als gegeben und welche Stelle entscheidet darüber?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/6922 und Drs. 21/7219. Soweit in diesem Kontext zum Teil von „freiwilliger Obdachlosigkeit“ gesprochen wird, bezieht sich dies auf die Ausschöpfung von Selbsthilfemöglichkeiten.
 
@@ -63,7 +64,7 @@ Wer führt die Beratungsgespräche im Rahmen des Winternotprogramms? Wie sind di
 
 In welchen Sprachen wird die Perspektivberatung im Rahmen des Winternotprogramms angeboten?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/6426 und Drs. 21/10846. Die Inanspruchnahme von Dolmetscherdienstleistungen richtet sich nach dem tatsächlichen Bedarf und ist nicht auf bestimmte Sprachen begrenzt. Entsprechend der Belegungsstruktur finden Beratungen überwiegend in bulgarischer, rumänischer, polnischer und englischer Sprache statt.
 

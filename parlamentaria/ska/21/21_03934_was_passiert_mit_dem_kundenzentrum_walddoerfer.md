@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7862", "21/3725"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52312"
@@ -43,7 +44,7 @@ Planen, prüfen oder erwägen die zuständigen Stellen eine Schließung des Kund
 
 Soll der Mietvertrag für das Kundenzentrum Walddörfer auf Basis der bestehenden Option für fünf Jahre verlängert werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Planungen und Überlegungen hierzu sind noch nicht abgeschlossen.
 

@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 22
 antwortbloecke: 0
 beantwortet: false
+status: "unbeantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105344"
@@ -27,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Stephan Jersch (Die Linke) vom 21.09.26 und Antwort des Senats · Drucksache vom 21.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105344) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105344/23_05427_behelfsheime_in_den_hamburger_kleingartenvereinen_kgv)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

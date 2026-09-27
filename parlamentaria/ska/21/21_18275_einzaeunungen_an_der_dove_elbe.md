@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67908"
@@ -99,7 +100,7 @@ Warum gab es im Vorfeld keinen Dialog mit den Betroffenen?
 
 Aktuell ist ein Betreten der Flächen aufgrund der Einzäunung bis in das Wasser nicht möglich. Auf welcher rechtlichen Grundlage wurde den Anglern das Uferbetretungsrecht entzogen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Es gibt keine Veränderung in der Erreichbarkeit des Ufers.
 

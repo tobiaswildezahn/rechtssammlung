@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63924"
@@ -65,7 +66,7 @@ Ist die zitierte Richtlinie (Stand 12.10.2007) noch gültig? Wenn nein: Welche R
 
 Entspricht ein „ausreichendes Ergebnis“ im Sinne dieser Richtlinie einem Punkte-Wert von mindestens 50 Prozent der maximal zu erreichenden Punktzahl in einer Klassenarbeit?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -77,6 +78,6 @@ Wie hoch ist der Prozentsatz an Klassenarbeiten in den Kernfächern Mathematik, 
 
 Wie häufig wird die Entscheidung getroffen, eine Klassenarbeit nicht zu bewerten und zu wiederholen, wenn „mehr als ein Drittel der Schülerinnen und Schüler kein ausreichendes Ergebnis in einer Klassenarbeit erzielt“? Welche Erfahrungswerte oder welche statistischen Werte liegen der BSB hierzu vor?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Von der für Bildung zuständigen Behörde wird nicht erfasst, wie oft mehr als ein Drittel der Schülerinnen und Schüler in nicht zentral gestellten Klassenarbeiten die Mindestanforderungen nicht erfüllen. Ebenso wenig wird erfasst, wie oft Arbeiten nicht bewertet beziehungsweise wiederholt werden müssen. Aufgrund der Hamburger Herbstferien war eine Schulabfrage nicht möglich.

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65188"
@@ -77,7 +78,7 @@ Welche Auswirkungen werden auf die Hamburger Hochschullandschaft erwartet?
 
 Werden aufgrund dessen Maßnahmen ergriffen? Wenn ja, welche? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Wechsel von G8 auf G9 in Schleswig-Holstein und Niedersachsen hat einen temporären Effekt auf die Hamburger Hochschullandschaft. Diese wird hierdurch sehr wahrscheinlich geringfügig beeinflusst, da sich etwaige Auswirkungen aller Voraussicht nach in der üblichen Schwankungsbreite der Bewerberzahlen bewegen werden. Von einem „Null-Abiturjahrgang“ kann mit Blick auf die Hochschulen nicht ausgegangen werden, da nicht alle Abiturientinnen und Abiturienten direkt nach ihrem Schulabschluss bedingt durch Ausbildungen, Auslandsaufenthalte oder andere Aktivitäten (zum Beispiel Freiwilliges Soziales Jahr, Praktikum) ihr Studium aufnehmen. Die Hamburger Hochschulen ergreifen regelmäßig Maßnahmen, um potenzielle Studierende für die Aufnahme eines Studiums an ihren Einrichtungen zu interessieren.
 
@@ -97,7 +98,7 @@ Werden aufgrund der geschilderten Veränderungen Auswirkungen auf den Hamburger 
 
 Werden aufgrund dessen Maßnahmen ergriffen? Wenn ja, welche? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Nach bisherigen Erfahrungen nehmen viele Abiturientinnen und Abiturienten nur zum Teil unmittelbar nach Schulabschluss eine duale Berufsausbildung auf. Anschließende Auslandsaufenthalte, Freiwilligendienste, zunächst begonnene hochschulische Bildungswege und Anderes liegen oft vor dem Beginn einer dualen Berufsausbildung. Im Übrigen könnten sich Hamburger Betriebe alternativ verstärkt Hamburger Bewerberinnen und Bewerbern sowie solchen mit mittlerem Bildungsabschluss zuwenden.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56058"
@@ -49,11 +50,11 @@ Seit wann können in Hamburg aufgrund welcher Vorschrift 17-Jährige unter welch
 
 Vom 01. Juni 2005 befristet bis 31. Dezember 2010 war in Hamburg durch den Modellversuch „Begleitetes Fahren ab 17“
 
- zunächst auf der Grundlage von Ausnahmegenehmigungen nach § 70 Absatz 1
+– zunächst auf der Grundlage von Ausnahmegenehmigungen nach § 70 Absatz 1
 
 Fahrerlaubnis-Verordnung (FeV) und
 
- nach bundesrechtlicher Regelung mit der inzwischen aufgehobenen landesrechtli-
+– nach bundesrechtlicher Regelung mit der inzwischen aufgehobenen landesrechtli-
 
 chen Verordnung über die Erprobung des „Begleiteten Fahrens ab 17 Jahren“ vom
 1. November 2005 möglich.
@@ -119,6 +120,6 @@ Welche rechtlichen Voraussetzungen müssen erfüllt sein, um ein begleitetes Fah
 
 Befürwortet der Senat die Einführung des begleiteten Fahrens ab 16 Jahren und wird er gegebenenfalls Gesetzesinitiativen in dieser Richtung ergreifen beziehungsweise unterstützen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 17
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13796", "21/10387", "21/11649", "21/12038"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63354"
@@ -43,7 +44,7 @@ Erfolgt im Ankunftszentrum die geplante Einteilung in Cluster? Wenn ja, wie viel
 
 Wie lange dauert die Bearbeitung eines Asylbescheids je nach Cluster durchschnittlich?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Bundesamt für Migration und Flüchtlinge (BAMF) führt die Asylverfahren gemäß § 5 Asylgesetz (AsylG) in alleiniger Zuständigkeit durch. Das BAMF hat mitgeteilt, es sei grundsätzlich nicht verpflichtet, und auf freiwilliger Grundlage aufgrund der anhaltenden Arbeitsbelastung aktuell nicht in der Lage, Parlamentarische Anfragen aus Hamburg zu beantworten.
 
@@ -83,55 +84,55 @@ Welche Stellen sind aktuell im Ankunftszentrum mit jeweils wie vielen VZÄ und j
 
 Das Einwohner-Zentralamt ist mit 91,91 Vollzeitäquivalenten (VZÄ) und folgenden Aufgaben im Ankunftszentrum vertreten:
 
- Ausländerrechtliche Erstbearbeitung, insbesondere asylrechtliche Erfassung und
+– Ausländerrechtliche Erstbearbeitung, insbesondere asylrechtliche Erfassung und
 
 Verteilung von Asylsuchenden und unerlaubt eingereisten Ausländern
 
- Rückkehrberatung und Organisation freiwilliger Ausreisen, Beantragung und
+– Rückkehrberatung und Organisation freiwilliger Ausreisen, Beantragung und
 
 Gewährung von Fördermitteln
 
- Erteilung von elektronischen Aufenthaltstiteln
+– Erteilung von elektronischen Aufenthaltstiteln
 
- Prüfung der Freizügigkeit obdachloser EU-Bürger
+– Prüfung der Freizügigkeit obdachloser EU-Bürger
 
- Interner Service (Bereitstellung sensibler Dokumente, Materialbeschaffung, Steue-
+– Interner Service (Bereitstellung sensibler Dokumente, Materialbeschaffung, Steue-
 
 rung der Prozesse, Bau und Betrieb, Rechnungsprüfung)
 
- Leistungssachbearbeitung, insbesondere
+– Leistungssachbearbeitung, insbesondere
 
- Grundbewilligung von Leistungen
+– Grundbewilligung von Leistungen
 
- Leistungseinschränkung
+– Leistungseinschränkung
 
- Rückforderungen
+– Rückforderungen
 
- Verwaltungsaußenstelle:
+– Verwaltungsaußenstelle:
 
- laufende Leistungen, einmalige Leistungen nach § 5,6 Asylbewerber-
+– laufende Leistungen, einmalige Leistungen nach § 5,6 Asylbewerber-
 
 leistungsgesetzt (AsylbLG)
 
- Analogumstellungen nach § 2 AsylbLG
+– Analogumstellungen nach § 2 AsylbLG
 
- Ersatzansprüche gegen vorrangige Leistungsträger
+– Ersatzansprüche gegen vorrangige Leistungsträger
 
- Verlängerung der Mobilitätskarten
+– Verlängerung der Mobilitätskarten
 
 f & w fördern und wohnen AöR (f & w) ist mit 40,91 VZÄ und folgenden Aufgaben im Ankunftszentrum vertreten:
 
- Teamleitung: betriebliche Steuerung und Personalführung
+– Teamleitung: betriebliche Steuerung und Personalführung
 
- Unterkunftsmanagement: Belegungssteuerung und Transfermanagement, Monito-
+– Unterkunftsmanagement: Belegungssteuerung und Transfermanagement, Monito-
 
 ring des Bearbeitungsstands und Aktivierung der Bewohner/-innen zur Wahrnehmung der Mitwirkungspflicht, Begehungen, allgemeine Verwaltungstätigkeiten
 
- Sozialmanagement: Erstgespräche zur Erläuterung der Abläufe und Erfassung von
+– Sozialmanagement: Erstgespräche zur Erläuterung der Abläufe und Erfassung von
 
 Akutbedarfen, Verweisberatung in Akutfällen, Krisenintervention, Information über soziale Angebote
 
- Technischer Dienst: Instandhaltung und Pflege der Liegenschaft
+– Technischer Dienst: Instandhaltung und Pflege der Liegenschaft
 
 Nach Auskunft der BA sind aktuell 3,0 VZÄ im Ankunftszentrum tätig. Das Gesundheitsamt Hamburg-Mitte ist mit 2,64 VZÄ im Ankunftszentrum vertreten.
 

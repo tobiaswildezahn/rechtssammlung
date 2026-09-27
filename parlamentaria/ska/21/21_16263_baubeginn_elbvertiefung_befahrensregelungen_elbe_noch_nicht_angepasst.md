@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 21
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65778"
@@ -49,7 +50,7 @@ Warum sind bisher Befahrensregelungen im Raum Hamburg, insbesondere die Befahren
 
 Vor dem Hintergrund der Fahrrinnenanpassungen müssen welche Regelungen wie geändert werden beziehungsweise wie ist geplant, in welchem Zeitraum Regelungen anzupassen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -93,6 +94,6 @@ Müssen auch Änderungen an der Hamburg-Naturschutzgebietsbefahrensverordnung vo
 
 Bis zu welchem Datum beziehungsweise in welchem Zeitraum plant der Senat, für die notwendigen Änderungen in den Befahrensverordnungen zu sorgen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Vorbemerkung.

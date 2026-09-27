@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62817"
@@ -287,33 +288,33 @@ Welches sind die maßgeblichen Gründe für nicht durchgeführte Untersuchungen?
 
 #### Antwort zu Frage 3
 
- Nichterscheinen trotz Einladung: Bezirksämter HH-Mitte, Altona, Eimsbüttel, HH-
+– Nichterscheinen trotz Einladung: Bezirksämter HH-Mitte, Altona, Eimsbüttel, HH-
 
 Nord, Wandsbek, Bergedorf, Harburg
 
- Eltern lehnen Untersuchung ab: Bezirksämter Altona, HH-Nord
+– Eltern lehnen Untersuchung ab: Bezirksämter Altona, HH-Nord
 
- Wegzug aus dem Bezirk im Erhebungszeitraum: Bezirksämter HH-Mitte, Altona,
+– Wegzug aus dem Bezirk im Erhebungszeitraum: Bezirksämter HH-Mitte, Altona,
 
 HH-Nord, Wandsbek, Bergedorf
 
- Terminschwierigkeiten (zum Beispiel bei Auslandsaufenthalten der Familie oder
+– Terminschwierigkeiten (zum Beispiel bei Auslandsaufenthalten der Familie oder
 
 wenn das Kind bis zur Einschulung nicht in Hamburg lebt): Bezirksämter HH-Mitte, Altona, HH-Nord
 
- Krankheitsbedingte oder sonstige Personalausfälle: Bezirksämter Altona, Eimsbüt-
+– Krankheitsbedingte oder sonstige Personalausfälle: Bezirksämter Altona, Eimsbüt-
 
 tel, HH-Nord, Wandsbek, Bergedorf, Harburg
 
- Kinder wurden zu spät oder gar nicht gemeldet (z.B. Zuzug erst kurz vor der Ein-
+– Kinder wurden zu spät oder gar nicht gemeldet (z.B. Zuzug erst kurz vor der Ein-
 
 schulung oder vorzeitige Einschulung im Vorjahr): Bezirksamt Altona, HH-Nord
 
- Kinder wurden zu spät in der zentralen Schülerdatenbank (ZSD) als Einschulkinder
+– Kinder wurden zu spät in der zentralen Schülerdatenbank (ZSD) als Einschulkinder
 
 erfasst: Bezirksamt Altona
 
- Sprachschwierigkeiten (Einladung in Deutsch): Bezirksamt HH-Nord
+– Sprachschwierigkeiten (Einladung in Deutsch): Bezirksamt HH-Nord
 
 ### Frage 4
 
@@ -390,7 +391,7 @@ Wie viele Stellen für Schulärzte (VZÄ) gab es in den Schuljahren 2016/ 2017 u
 
 Wie viele dieser Stellen waren wann und aus welchem Grund jeweils unbesetzt? (Bitte pro Bezirk darstellen.)
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Schulärzte  
 (Stichtag 01.01.2017)  

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64510"
@@ -45,13 +46,13 @@ Wie wird „Schlafen und Ruhen“ in den Hamburger Kitas gehandhabt (insbesonder
 
 In den Hamburger Kindertageseinrichtungen, die am Kita-Gutschein-System teilnehmen, sind gemäß „Landesrahmenvertrag Kinderbetreuung in Tageseinrichtungen“ Kindern mit erhöhtem Ruhebedarf adäquate Ruhebereiche zur Verfügung zu stellen (§ 6 LRV). Für Kitas ist es nicht möglich, Räume ausschließlich zum Schlafen vorzuhalten, da diese – dann in den nicht zum Schlafen benötigten Zeiten – für andere Aktivitäten nicht zur Verfügung stehen würden. Die Lösungen sind vielfältig – einige Beispiele:
 
-• Ein mit Tür abschließbarer Raum, der sonst einem anderen Zweck dient (Lesen, Snoozeln, Bewegungsraum), wird während der Schlafenszeit von den Fachkräften mit Schlafpolstern und Decken oder Schlafsäcken ausgestattet.
+– Ein mit Tür abschließbarer Raum, der sonst einem anderen Zweck dient (Lesen, Snoozeln, Bewegungsraum), wird während der Schlafenszeit von den Fachkräften mit Schlafpolstern und Decken oder Schlafsäcken ausgestattet.
 
-• Im multifunktionalen Gruppenraum gibt es Zonen, besonders beliebt sind die Einbauten mit Höhlen und zweiter Ebene, die von den Fachkräften zum Schlafen hergerichtet werden.
+– Im multifunktionalen Gruppenraum gibt es Zonen, besonders beliebt sind die Einbauten mit Höhlen und zweiter Ebene, die von den Fachkräften zum Schlafen hergerichtet werden.
 
-• Gemütlich hergerichtete Holzbettchen, die draußen auf einer Terrasse aufgestellt werden.
+– Gemütlich hergerichtete Holzbettchen, die draußen auf einer Terrasse aufgestellt werden.
 
-• Ein multifunktionaler Gruppenraum im Krippenbereich besteht aus mehreren Ebenen, die die Kinder zur Bewegung und zum Klettern auffordern. In den Stufen der einzelnen Ebenen sind große Schubladen verborgen, die, wenn man sie herauszieht, ein komplettes Bett enthalten. Jedes Kind hat sein eigenes Bett und dort werden Dinge aufbewahrt, die dieses Kind zum Schlafen benötigt – zum Beispiel Kuscheltier, Schnuller.
+– Ein multifunktionaler Gruppenraum im Krippenbereich besteht aus mehreren Ebenen, die die Kinder zur Bewegung und zum Klettern auffordern. In den Stufen der einzelnen Ebenen sind große Schubladen verborgen, die, wenn man sie herauszieht, ein komplettes Bett enthalten. Jedes Kind hat sein eigenes Bett und dort werden Dinge aufbewahrt, die dieses Kind zum Schlafen benötigt – zum Beispiel Kuscheltier, Schnuller.
 
 Immer hat jedes Kind seine individuelle Bettwäsche. Fast alle Kitas der Elbkinder stellen zusätzlich einzelne Ruhemöglichkeiten wie Hängematten, Hängekörbe, Kuschelhöhlen den ganzen Tag zur Verfügung, um dem individuellen Ruhebedürfnis aller Kinder entsprechen zu können.
 
@@ -83,7 +84,7 @@ Werden kulturelle Schlafgewohnheiten in die Handhabung von „Schlafen und Ruhen
 
 Besteht ein abgestimmtes Schlafkonzept für die Hamburger Kitas?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 2.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 7
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14591", "18/433", "20/8057", "20/10408", "20/12302"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51088"
@@ -116,7 +117,7 @@ Welche Geldbußen wurden diesbezüglich durchschnittlich und innerhalb welcher S
 
 In wie vielen Fällen wurden 2014 und 2015 zusätzlich Fahrverbote verhängt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Bußgeldregelsätze und Fahrverbote bei Verstößen von Kraftfahrzeugführern unter der Wirkung von Alkohol und berauschenden Mitteln nach § 24 a StVG sind in der bundeseinheitlichen Bußgeldkatalog-Verordnung (BKatV) geregelt. Die Höhe der Geldbußen, Fahrverbote sowie Fallzahlen ist der nachfolgenden Tabelle zu entnehmen.
 

@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 22
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64890"
@@ -261,7 +262,7 @@ An welchen Krankenhäusern werden die betreffenden Gesundheitsfachberufe ausgebi
 
 Wie hat sich die Anzahl der Ausbildungsplätze an den Hamburger Krankenhäusern in den letzten drei Jahren entwickelt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Krankenhäuser, an denen die betreffenden Gesundheitsfachberufe ausgebildet werden sowie die Entwicklung der Ausbildungsplätze in den letzten 3 Jahren sind in der folgenden Tabelle zusammengefasst.
 
@@ -511,6 +512,6 @@ Wie viele Praxen welcher Berufsgruppen sind in den letzten drei Jahren geschloss
 
 Wie viele Praxen welcher Berufsgruppen wurden in den letzten drei Jahren eröffnet?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Eine Angabe, wie viele Praxen in den letzten drei Jahren geschlossen oder geöffnet wurden, kann aufgrund fehlender Datenbasis nicht gemacht werden.

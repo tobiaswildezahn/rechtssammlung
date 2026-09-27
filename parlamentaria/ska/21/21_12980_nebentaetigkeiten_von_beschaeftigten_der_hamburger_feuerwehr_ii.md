@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9091"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62305"
@@ -43,7 +44,7 @@ Wie viele Feuerwehrleute welcher Besoldungsgruppen haben zwischen 2017 und dem 1
 
 Wie viele Feuerwehrleute welcher Besoldungsgruppen haben zwischen 2017 und dem 1. Quartal des Jahres 2018 jeweils jährlich welche Nebentätigkeit auf eigenen Wunsch ausgeübt? (Bitte auch die prozentuale Veränderung zum Vorjahreszeitraum angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Statistische Daten im Sinne der Fragestellung werden bei der Feuerwehr nicht erhoben. Für die Beantwortung der Frage wäre eine Durchsicht sämtlicher Personalakten der in dem angefragten Zeitraum bei der Feuerwehr Hamburg beschäftigten Beamtinnen und Beamten erforderlich. Die Auswertung von zu diesem Zeitpunkt 2.526 Personalakten ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 19
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52877"
@@ -87,19 +88,19 @@ Wie lange waren bei den abgeschobenen Personen die Fristen zur freiwilligen Ausr
 
 Die Ausreisefrist beträgt nach §§ 36 fortfolgende Asylgesetz in Fällen der Unbeachtlichkeit und der offensichtlichen Unbegründetheit eine Woche, in allen anderen Fällen 30 Tage.
 
- Bei einer Person endete die Ausreisefrist am 15. Februar2015,
+– Bei einer Person endete die Ausreisefrist am 15. Februar2015,
 
- bei vier Personen am 23. Juni 2015,
+– bei vier Personen am 23. Juni 2015,
 
- bei vier Personen am 30. Juli 2015,
+– bei vier Personen am 30. Juli 2015,
 
- bei einer Person am 7. Januar 2016,
+– bei einer Person am 7. Januar 2016,
 
- bei sechs Personen am 27. Januar 2016,
+– bei sechs Personen am 27. Januar 2016,
 
- bei vier Personen am 12. Februar 2016,
+– bei vier Personen am 12. Februar 2016,
 
- bei einer Person am 19. April 2016.
+– bei einer Person am 19. April 2016.
 
 ### Frage 5
 
@@ -133,7 +134,7 @@ Inwiefern stellt der Flughafen Rostock-Laage einen neuen, festen Standort für d
 
 Inwiefern dient der Flughafen Rostock-Laage für Abschiebungen in bestimmte Zielländer, zum Beispiel Balkanstaaten?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die zuständige Behörde hat von dem Angebot des Landes Mecklenburg-Vorpommern Gebrauch gemacht, sich an der Chartermaßnahme zu beteiligen. Ob und in welcher Weise dieser Standort durch Mecklenburg-Vorpommern auch künftig genutzt werden wird, ist der zuständigen Behörde nicht bekannt.
 

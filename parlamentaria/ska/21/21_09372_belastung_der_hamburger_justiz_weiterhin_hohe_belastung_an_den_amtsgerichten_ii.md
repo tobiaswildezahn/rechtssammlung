@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 31
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8696", "21/8358"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58135"
@@ -514,11 +515,11 @@ Amtsgericht Mitte (Standort Strafjustiz): Die angegebenen Maßnahmen und deren K
 
 Laufende Baumaßnahmen:
 
- Austausch Bürobeleuchtung bis 3. Quartal 2017 (Kosten circa 325.000 Euro)
+– Austausch Bürobeleuchtung bis 3. Quartal 2017 (Kosten circa 325.000 Euro)
 
- Einrichtung 2. Staatsschutzsenat bis 3 Quartal 2017 (Kosten circa 300.000 Euro)
+– Einrichtung 2. Staatsschutzsenat bis 3 Quartal 2017 (Kosten circa 300.000 Euro)
 
- Renovierung Saal 142 ab 4 Q 2017 (Kosten circa 70.000 Euro)
+– Renovierung Saal 142 ab 4 Q 2017 (Kosten circa 70.000 Euro)
 
 Vermieter plant Brandschutzmaßnahme des Vermieters bis Ende des Jahres 2018 (Beginn und Kosten unbekannt).
 

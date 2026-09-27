@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17895", "21/19241", "21/19572"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69520"
@@ -58,7 +59,7 @@ Sind inzwischen Mietverträge mit Auszubildenden geschlossen worden? Wenn ja, wi
 
 Warum muss die Unterkunft Stargarder Straße 62 so umfassend auf Kosten der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) instand gesetzt werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -120,7 +121,7 @@ Warum konnte das Mobiliar gegebenenfalls nicht in dieser oder in anderen Einrich
 
 Warum wurde das nicht mehr genutzte Mobiliar gegebenenfalls nicht verkauft beziehungsweise gegebenenfalls dem neuen Eigentümer kostenfrei überlassen beziehungsweise gegebenenfalls entsorgt?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Antwort zu 6. bis 8.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4295"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52841"
@@ -110,7 +111,7 @@ Wie kann nach Meinung des Senats auf Grundlage eines singulären Einsatzes diese
 
 Wie kann nach Meinung des Senats auf Grundlage eines singulären Einsatzes dieser Arbeitsblätter ein pluralistisch und multiperspektivisch ausgerichteter Politikunterricht unterstützt werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 2.a) und b).
 
@@ -138,7 +139,7 @@ In Drs. 21/4295 wurde die folgende Frage nicht beantwortet: An welchen Hamburger
 
 In Drs. 21/4295 wurde die folgende Frage nicht beantwortet: Welche Lehrwerke aus dem Schroedel Schulbuchverlag (Westermann Gruppe) werden im Hamburger PGW-Unterricht noch eingesetzt? Bitte alle zuständigen Fachleitungen sämtlicher Hamburger Schulen abfragen und die Ergebnisse auflisten! Warum wurde die Frage nicht beantwortet (eine Beantwortung der Frage ist durch eine Abfrage möglich, auch wenn die Lehrmaterialien nicht standardmäßig erfasst werden)? Bitte die Frage nun beantworten.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die für die vollständige Beantwortung erforderliche Schulabfrage war in der für die Beantwortung dieser Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht möglich. In den Bearbeitungszeitraum der Drs. 21/4295 sind der Feiertag Christi Himmelfahrt und der schulfreie Freitag (6. Mai 2016) gefallen.
 

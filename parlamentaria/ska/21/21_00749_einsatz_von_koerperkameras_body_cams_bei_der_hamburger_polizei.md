@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12895"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48909"
@@ -51,37 +52,37 @@ Jeweils wann konkret fanden Gespräche zwischen jeweils welchen Vertretern der P
 
 An jeweils welchen konkreten Terminen wurden dabei jeweils welche der Kritikpunkte und Bedenken des HmbBfDI thematisiert? Inwiefern wurden diese nach Auffassung des HmbBfDI dabei jeweils vollumfänglich ausgeräumt beziehungsweise inwieweit bestanden sie in welchem Umfang fort?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Mit Schreiben vom 16. März 2015 hat die Polizei dem HmbBfDI die polizeiliche Handlungsanweisung zum „Einsatz mobiler Videotechnik im Rahmen des Pilotprojekts am PK 15“ im Rahmen des Abstimmungsverfahrens übersandt. Der HmbBfDI hat mit Schreiben vom 10. April 2015 seine Bedenken gegen einzelne Punkte in der Handlungsanweisung geäußert. Mit Schreiben vom 30. April 2015 hat die Polizei dem HmbBfDI die berücksichtigten Änderungen der Handlungsanweisung übermittelt. Im Übrigen siehe Vorbemerkung.
 
 Die wesentlichen Kritikpunkte des HmbBfDI betrafen folgende Fragen:
 
- Aus Sicht des HmbBfDI ließ die geschilderte Zielrichtung der Body-Cam den Ein-
+– Aus Sicht des HmbBfDI ließ die geschilderte Zielrichtung der Body-Cam den Ein-
 
 druck entstehen, dass auch der strafverfolgende und nicht allein der präventive Zweck Primärziel des Einsatzes sei.
 
 Die Polizei hat die Handlungsanweisung zur Klarstellung geändert.
 
- Neben der Kennzeichnung der die Body-Cam führenden Polizeibeamten regte der
+– Neben der Kennzeichnung der die Body-Cam führenden Polizeibeamten regte der
 
 HmbBfDI an, dass ein mündlicher Hinweis unmittelbar nach dem Einschalten der Body-Cam erfolgt.
 
 Eine entsprechende Änderung der Handlungsanweisung ist durch die Polizei erfolgt.
 
- Der HmbBfDI kritisierte die Darstellung der genannten öffentlich zugänglichen Orte
+– Der HmbBfDI kritisierte die Darstellung der genannten öffentlich zugänglichen Orte
 
 sowie der besonders geschützten Bereiche und regte Änderungen an.
 
 Die vorgeschlagenen Änderungen sind von der Polizei in die Handlungsanweisung aufgenommen worden.
 
- Die Vorgaben zur Speicherung und Löschung von Daten wurden aus Sicht des
+– Die Vorgaben zur Speicherung und Löschung von Daten wurden aus Sicht des
 
 HmbBfDI nicht ausreichend verständlich dargestellt.
 
 Die Polizei hat klarstellende Hinweise in die Handlungsanweisung aufgenommen.
 
- Der HmbBfDI hatte Fragen zu den technischen Möglichkeiten des Echtzeit-
+– Der HmbBfDI hatte Fragen zu den technischen Möglichkeiten des Echtzeit-
 
 Streaming und Pre-Recording und bat um Hinweise bezüglich der geplanten Verwendung im Projekt.
 

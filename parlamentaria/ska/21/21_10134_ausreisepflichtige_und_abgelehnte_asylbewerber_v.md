@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9977", "21/9896", "21/9967"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58961"
@@ -61,7 +62,7 @@ Aus welchem Grund erfolgt keine Erfassung des psychischen Zustandes von abgelehn
 
 Plant der Senat, diese Praxis zu überdenken? Wenn nein, warum hält der Senat eine Erfassung des psychischen Zustandes von abgelehnten Asylbewerbern und ausreisepflichtigen Ausländern für nicht erforderlich?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Das bestehende Aufenthaltsrecht und die datenschutzrechtlichen Regelungen beschränken die Erfassung und Speicherung von Informationen auf den jeweiligen gesetzlichen Zweck aus der Aufgabenstellung. Hinweise auf psychische Erkrankungen dürfen daher nur in den Fällen bei der Ausländerbehörde erfasst werden, in denen dies für die aufenthaltsrechtliche Beurteilung von Bedeutung ist. Bei anerkannt Schutzberechtigten ist dies regelmäßig nicht der Fall, bei geduldeten Personen nur dann, wenn die psychische Erkrankung einer Abschiebung entgegensteht oder dabei besondere Berücksichtigung finden muss. Im Übrigen hat sich der Senat nicht damit befasst.
 
@@ -75,6 +76,6 @@ Was hat der Senat seit Beginn des Jahres unternommen, um den Anteil der gescheit
 
 Was plant der Senat zukünftig, um den Anteil der gescheiterten Rückführungen zu senken?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Viele Gründe, die zum Scheitern einer Rückführungsmaßnahme führen, entziehen sich dem Verantwortungsbereich der zuständigen Behörde. Um insbesondere die Quote der angetroffenen Personen zu erhöhen, führt die zuständige Behörde im Rahmen ihrer rechtlichen Möglichkeiten Vorermittlungen durch. Hierbei werden im Vorfeld Informationen zu Möglichkeiten, die Betroffenen anzutreffen, gesammelt. Darüber hinaus werden zur Abschiebung vorgesehene Personen mittels Ordnungsverfügung verpflichtet, sich nachts in dem ihnen zugewiesenen Zimmer aufzuhalten. Hinzu kommt die konsequente Beantragung von Abschiebungshaft, sofern die rechtlichen Voraussetzungen im Einzelfall gegeben sind. Diese Maßnahmen werden auch zukünftig genutzt und laufend den weiteren Erfordernissen angepasst.

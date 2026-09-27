@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 30
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18426", "21/17725"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69066"
@@ -113,7 +114,7 @@ Bezüglich der Frage, ob es einen Bedarf an Mitarbeitern gäbe, welche eine weit
 
 In Drs. 21/18426 gab der Senat an, bei der Suche nach neuen Besuchskräften Fremdsprachenkenntnisse zu berücksichtigen, um bei Bedarf gezielt vermitteln zu können. Wieso ist dies nicht erfolgt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 
@@ -125,7 +126,7 @@ In Drs. 21/18426 war von einem aktualisierten Flyer im Rahmen der Ausweitung der
 
 Welche Kosten sind für die Aktualisierung der Flyer sowie deren Gestaltung und Druck angefallen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der Flyer mit den Kontaktdaten der Zweigstelle in Volksdorf wird aktualisiert und veröffentlicht, sobald der Standort technisch eingerichtet ist und den Betrieb aufnimmt. Bis zu diesem Zeitpunkt ist die Erreichbarkeit für alle Bürger und Bürgerinnen über die bekannten Kontaktdaten der Fachstelle Hamburger Hausbesuch in Schnelsen sichergestellt. Im Übrigen siehe Drs. 21/18426.
 
@@ -185,7 +186,7 @@ Sind inzwischen die Planungen für die Öffentlichkeitsarbeit im Jahr 2020 konkr
 
 Drs. 21/18426 kündigt für das Jahr 2020 die Vernetzung mit weiteren Akteuren an? Ist schon geplant, welche hier beteiligt werden sollen?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Siehe Vorbemerkung.
 

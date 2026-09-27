@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 36
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2599", "21/2837", "21/3227", "21/3646", "21/3915", "21/4293", "21/4734", "21/5124", "21/5453", "21/5812", "21/6222", "21/6544", "21/7162", "21/7420", "21/7828", "21/8192", "21/8557", "21/8934", "21/9357", "21/9757", "21/10092", "21/10400", "21/10677", "21/11001", "21/11394", "21/11650", "21/12037", "21/12359", "21/12704", "21/13055"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62515"
@@ -75,7 +76,7 @@ Nach welchen Kriterien werden die Materialien und Ausstattungsgegenstände im Ra
 
 In welchem Umfang wurden Materialien und Ausstattungsgegenstände auf welcher Grundlage entsorgt? Wie hoch waren die Entsorgungskosten in den einzelnen Jahren?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Grundlage für die Entsorgung ist § 63 LHO und die dazu ergangenen Verwaltungsvorschriften. Im Übrigen siehe Antwort zu 2. sowie Vorbemerkung.
 

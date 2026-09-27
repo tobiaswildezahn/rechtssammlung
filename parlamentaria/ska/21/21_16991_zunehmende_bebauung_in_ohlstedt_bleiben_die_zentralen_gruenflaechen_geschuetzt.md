@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 60689
 seiten: 6
 fragen: 10
-einzelfragen: 15
-antwortbloecke: 9
+einzelfragen: 19
+antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16257", "21/16410"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66549"
@@ -89,7 +90,7 @@ Gab es innerhalb der letzten fünf Jahre Veränderungen innerhalb der Zuständig
 
 Wurden in den letzten fünf Jahren die Flurstücke der städtischen Grünanlage verändert oder neu zugeschnitten? Wenn ja, in welchen Fällen und aus welchen Gründen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 In 2015 wurde die schmale Wegeverlängerung Stahmer Straße (Teilfläche des Flurstück 1673) bis zum Wegeanschluss an den Brunskrogweg innerhalb des zuständigen Bezirksamts vom Verwaltungsvermögen Straße an das Verwaltungsvermögen Stadtgrün übertragen, da es sich um einen im B-Plan festgesetzten Grünanlagenweg handelt.
 
@@ -156,35 +157,48 @@ Es gibt keine derartigen Überlegungen.
 ### Frage 10
 
 Angrenzend an die städtischen Flächen der ausgewiesenen Parkanlage sind zum Teil „private Grünflächen“ in diesem Bereich im Bebauungsplan ausgewiesen.
-10.1. Welche besonderen Vorgaben ergeben sich durch den Ausweis einer privaten Grünfläche in diesem Bereich?
 
-#### Antwort zu Frage 10
+### Frage 10.1
+
+Welche besonderen Vorgaben ergeben sich durch den Ausweis einer privaten Grünfläche in diesem Bereich?
+
+#### Antwort zu Fragen 10 und 10.1
 
 Die Ausweisung einer privaten Grünfläche in rückwärtigen privaten Gartenbereichen dient der planungsrechtlichen Sicherung dieser Grünflächen, für die ausschließlich eine Gartennutzung vorgesehen ist.
 
-10.2. Inwiefern werden die privaten Grünflächen im Zuge von Bauanträgen bei der Berechnung der Mindestgrundstücksgröße sowie der GRZ einbezogen?
+### Frage 10.2
 
-10.3. Wie wird die private Grünfläche im Rahmen des aktuellen Vorbescheidsantrags für das an der Alte Dorfstraße gelegene Flurstück 1907 behandelt?
+Inwiefern werden die privaten Grünflächen im Zuge von Bauanträgen bei der Berechnung der Mindestgrundstücksgröße sowie der GRZ einbezogen?
+
+### Frage 10.3
+
+Wie wird die private Grünfläche im Rahmen des aktuellen Vorbescheidsantrags für das an der Alte Dorfstraße gelegene Flurstück 1907 behandelt?
+
+#### Antwort zu Fragen 10.2 und 10.3
 
 Die im Bebauungsplan Wohldorf-Ohlstedt 17 ausgewiesenen Mindestgrundstücksgrößen beziehen sich gemäß Begründung zum Bebauungsplan auf die „Baugebiete“. Die im Bebauungsplan ausgewiesenen privaten Grünflächen sind gemäß §19, Absatz 2 Baunutzungsverordnung (BauNVO) kein „Bauland“ und daher bei der Grundfläche nicht anzurechnen.
 
 Die private Grünfläche der Flurstücks 1907 wurde in der Antragsprüfung als nicht anrechenbare Grundstücksfläche behandelt.
 
-10.4. Wie ist der genaue Stand des Genehmigungsverfahrens der in den Drs. 21/16257 und 21/16410 genannten Vorbescheidsanträge für die Bebauung Alte Dorfstraße/Brunskrogweg? Mit welchem Ergebnis im Einzelnen sind die Prüfungen der Anträge inzwischen ganz oder teilweise abgeschlossen?
+### Frage 10.4
+
+Wie ist der genaue Stand des Genehmigungsverfahrens der in den Drs. 21/16257 und 21/16410 genannten Vorbescheidsanträge für die Bebauung Alte Dorfstraße/Brunskrogweg? Mit welchem Ergebnis im Einzelnen sind die Prüfungen der Anträge inzwischen ganz oder teilweise abgeschlossen?
+
+#### Antwort zu Frage 10.4
 
 Die Baukommission am 19. März und der Bauprüfausschuss am 9. April 2019 haben den Vorbescheidsantrag vom 12. Februar 2019 negativ beschieden.
 
 Im Einzelnen wurden abgelehnt:
 
- Ausweitung der Anzahl der Vollgeschosse von zwei auf drei,
+– Ausweitung der Anzahl der Vollgeschosse von zwei auf drei,
 
- Überschreitung der zulässigen GRZ II von 0,45 auf 0,5,
+– Überschreitung der zulässigen GRZ II von 0,45 auf 0,5,
 
- Überschreitung der Anzahl der zulässigen Wohneinheiten von zwölf beziehungs-
+– Überschreitung der Anzahl der zulässigen Wohneinheiten von zwölf beziehungs-
 
 weise 18 (je nach Grundstücksteilung) auf insgesamt 20 WE sowie
 
- Überschreitung diverser Baugrenzen.
+– Überschreitung diverser Baugrenzen.
 
 Der Vorbescheid vom 12. Juni 2018 ruhte mit negativer Entscheidung und wurde zusammen mit dem Vorbescheid vom 12. Februar 2019 abgeschlossen.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61736"
@@ -47,13 +48,13 @@ Um wie viel Uhr trat der auslösende Zwischenfall auf der Bahnstrecke Harburg-Ha
 
 Der Zug ICE 273 kam aus Richtung Hamburg Hauptbahnhof um 18.34 Uhr im Bereich zwischen Wilhelmsburg und Harburg außerplanmäßig zum Halten. Die Notfallleitstelle der DB Netz AG Hannover hat folgende Stellen informiert:
 
- Die Rettungsleitstelle der Feuerwehr Hamburg wurde um 18.37 Uhr telefonisch
+– Die Rettungsleitstelle der Feuerwehr Hamburg wurde um 18.37 Uhr telefonisch
 
 informiert
 
- Die Notfallleitstelle der S-Bahn Hamburg wurde um 18.41 Uhr verständigt
+– Die Notfallleitstelle der S-Bahn Hamburg wurde um 18.41 Uhr verständigt
 
- Die Bundespolizei Hamburg wurde um 18.44 Uhr telefonisch informiert
+– Die Bundespolizei Hamburg wurde um 18.44 Uhr telefonisch informiert
 
 Die Gleise in der Zuständigkeit der Betriebszentrale Hannover beziehungsweise des Stellwerks Hamburg-Harburg wurden um 18.37 Uhr gesperrt. Zu den gesperrten Gleisen gehörten die Hafengleise (Strecke 1255), die Fernbahn (Strecke 2200) und die Güterbahn (Strecke 1280). Die Sperrungen wurden um 20.22 Uhr wieder aufgehoben.
 

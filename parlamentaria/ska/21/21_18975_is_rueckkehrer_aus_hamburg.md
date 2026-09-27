@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16273", "21/16311"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68665"
@@ -101,7 +102,7 @@ Ist dem Senat bekannt, wie viele Angehörige (Ehepartner und Kinder) deutscher J
 
 Ist dem Senat bekannt, wie viele Angehörige (Ehepartner und Kinder) deutscher Jihadisten aus Hamburg sich vor dem Einmarsch türkischer Streitkräfte in Nordsyrien in kurdischem Gewahrsam befunden haben?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Das Landesamt für Verfassungsschutz (LfV) Hamburg erfasst Personen, die sich an extremistischen Bestrebungen beteiligen. Zu Familienangehörigen und Kindern liegen keine Erkenntnisse im Sinne der Fragestellung vor. Im Übrigen siehe Antwort zu 1. c.
 

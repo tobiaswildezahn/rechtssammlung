@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 24
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2108"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58600"
@@ -43,7 +44,7 @@ Ist die Johann Daniel Lawaetz-Stiftung (JDLS) weiterhin die Eigentümerin des Gr
 
 Auf welcher Basis wird die Rote Flora seit dem Ankauf durch die JDLS im Jahre 2014 von Aktivisten bewohnt und genutzt? Liegt der Nutzung ein Mietvertrag zugrunde? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Johann Daniel Lawaetz-Stiftung (JDLS) ist Eigentümerin des Grundstücks der Roten Flora. Der Kauf erfolgte im Jahr 2014 mit der Zielsetzung, die bestehenden Nutzungsverhältnisse unverändert fortbestehen zu lassen und eine friedliche Entwicklung im Stadtteil zu ermöglichen. Ein Mietvertrag bestand zu diesem Zeitpunkt nicht und wurde auch nicht neu abgeschlossen.
 
@@ -55,7 +56,7 @@ Wer kommt für die laufenden Betriebskosten des Grundstücks auf? Liegen dazu ve
 
 Werden öffentliche Mittel für den Betrieb (Gebäudeunterhalt und Kulturveranstaltungen) der Roten Flora gezahlt? Wenn ja: Aus welchen Produktgruppen welcher Behörde und mit jeweils welcher inhaltlichen Zielrichtung? Bitte für 2016 und 2017 nach Art und Summe aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Treuhandvertrag enthält Regelungen bezüglich der laufenden Betriebskosten des Grundstücks. Danach trägt die Stadt für das Jahr 2016 und bisher für das Jahr 2017 die Kosten für Gehwegreinigung (insgesamt rund 3.400 Euro), Niederschlagwasser (rund 2.250 Euro), Winterdienst (rund 500 Euro), Grundsteuer (rund 3.050 Euro), Gebäude-/Feuerversicherung sowie Feuerstättenbescheid (rund 400 Euro).
 

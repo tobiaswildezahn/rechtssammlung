@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 31
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11814", "21/6678"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55842"
@@ -57,7 +58,7 @@ Stehen den obdachlosen Menschen in Hamburgs Innenstadt mobile Beratungsangebote 
 
 Welche Hilfsangebote stehen den obdachlosen Menschen im Hamburger Innenstadtbereich an den Wochenenden zur Verfügung? Bitte nach Standort und Öffnungszeiten auflisten.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Im Innenstadtbereich halten sich obdachlose Menschen mit besonderen und oftmals multiplen Problemlagen auf; neben der Wohnungslosigkeit können dies zum Beispiel Suchtproblematiken, der Ausstieg aus der Prostitution, medizinische Versorgungsangebote oder Hilfen bei prekären Arbeitsverhältnissen sein. In der Regel haben die meisten Einrichtungen von Montag bis Freitag geöffnet. Hamburg hat für diese Menschen ein umfangreiches Hilfesystem eingerichtet, das von einem Großteil der Betroffenen auch angenommen wird. Nicht die Ortsansässigkeit eines Projektes steht
 
@@ -246,7 +247,7 @@ Hat der Senat Maßnahmen ergriffen, um speziell die Situation der Menschen im Ha
 
 Wurden sanitäre und hygienische Maßnahmen zur Verbesserung der Situation der Obdachlosen im Hamburger Innenstadtbereich ergriffen? Wenn ja, welche? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Ja. Siehe Antworten zu 2. und 3. Im Übrigen siehe Drs. 21/6678.
 

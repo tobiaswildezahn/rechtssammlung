@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 21
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5600", "21/3490", "21/7484", "20/3641", "21/2644", "21/7233", "21/5962", "21/8008", "21/5740", "21/3405"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58639"
@@ -57,7 +58,7 @@ Wie bewertet der Senat die Ergebnisse der Bertelsmann Stiftung?
 
 Welchen Anstieg in absoluten Zahlen an Schülerzahlen bedeutet dies für Hamburg? Welche Anpassungen sind erforderlich?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Bertelsmann-Studie vergleicht die Ergebnisse ihrer eigenen Berechnungen mit Angaben der KMK-Vorausberechnung der Schüler- und Absolventenzahlen aus dem Jahr 2013. Dabei werden keine Ergebnisse für einzelne Länder benannt, sondern Aussagen für Flächenländer und Stadtstaaten getroffen, die nicht weiter ausdifferenziert dargestellt werden.
 
@@ -87,7 +88,7 @@ Wie hoch schätzt der Senat den Investitionsstau an Hamburgs allgemeinbildenden 
 
 Mit welchen finanziellen Mitteln will der Senat dem Investitionsstau an Hamburgs allgemeinbildenden und berufsbildenden Schulen begegnen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung sowie Drs. 21/3490, Drs. 21/5600 und Drs. 21/7484.
 
@@ -99,7 +100,7 @@ Mit welchen Konzepten will der Senat die Aufgaben Integration und Inklusion ange
 
 Hält der Senat am Konzept des Ausbaus von Inklusion fest und wenn ja, mit welchen personellen und finanziellen Mitteln will er die Inklusion zu einem Erfolg führen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Das Konzept der schulischen Inklusion für Hamburg ist in der Drs. 20/3641 dargelegt. Diese Drucksache beinhaltet den gesamten, von der Hamburgischen Bürgerschaft verabschiedeten Rahmen und umfasst alle Bereiche der schulischen inklusiven Bildung. Auf ihr basieren alle Weiterentwicklungen im Bereich der inklusiven Bildung seit 2012.
 

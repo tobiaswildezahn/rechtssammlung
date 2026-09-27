@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65894"
@@ -51,7 +52,7 @@ Was hat die Fällung dieser drei Robinien gekostet? Wurde der Wert des Holzes ge
 
 Verwertet die BUE die Stämme selbst? Welche Erlöse werden aus dem Holzverkauf erzielt? Wenn keine Erlöse erzielt wurden: Wird das Holz seitens der BUE einer Weiterverwendung zugeführt (zum Beispiel für Spielplatzgestaltung)?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Rechnung des Auftragnehmers liegt dem zuständigen Bezirksamt Wandsbek noch nicht vor. Das Holz geht in das Eigentum des Auftragnehmers über. Dies ist Teil der Leistung an den Auftragnehmer.
 

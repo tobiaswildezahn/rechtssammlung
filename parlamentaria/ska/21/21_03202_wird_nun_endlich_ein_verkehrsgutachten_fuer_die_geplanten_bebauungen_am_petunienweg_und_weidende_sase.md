@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11619", "20/14510"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51535"
@@ -63,19 +64,19 @@ Welches Gebiet wird aus welchen Gründen in das Verkehrsgutachten einbezogen (bi
 
 Folgende Knotenpunkte sind in der Untersuchung berücksichtigt worden:
 
- Saseler Damm/Heegbarg,
+– Saseler Damm/Heegbarg,
 
- Saseler Damm/Weidende Nord,
+– Saseler Damm/Weidende Nord,
 
- Stadtbahnstraße/Eekbusch,
+– Stadtbahnstraße/Eekbusch,
 
- Saseler Chaussee/Saseler Mühlenweg,
+– Saseler Chaussee/Saseler Mühlenweg,
 
- Petunienweg/Alsterredder,
+– Petunienweg/Alsterredder,
 
- Saseler Mühlenweg/Alsterredder,
+– Saseler Mühlenweg/Alsterredder,
 
- Mellingburgredder/Aalkrautweg.
+– Mellingburgredder/Aalkrautweg.
 
 Ermittelt werden die Werte des werktäglichen durchschnittlichen täglichen Verkehrs (DTV-Werte), der Lkw-Anteil sowie die Belastung in der morgendlichen und abendlichen Spitzenstunde. Parallel erfolgt die richtungsgetrennte Erfassung der nicht motorisierten Verkehrsteilnehmer.
 
@@ -88,7 +89,7 @@ Werden andere und zukünftige Bauvorhaben berücksichtigt? Wenn ja, welche und w
 Wie wird dem einstimmig von der Bezirksversammlung Wandsbek am
 09.10.2014 beschlossenen CDU-Antrag (Drs. 20-0252) Rechnung getragen, dass die Bebauung des Grundstücks Ecke Weidende/Saseler Damm mit in das Verkehrsgutachten am Petunienweg einfließen soll?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Anlass für das Verkehrsgutachten ist die geplante Bebauung am Petunienweg/Saselbergring Hausnummern 14 – 22 mit der Realisierung von circa 100 Wohneinheiten (WE), darin erster Bauabschnitt mit circa 60 WE und zweiter Bauabschnitt mit circa 40 WE. Berücksichtigung finden die verkehrlichen Auswirkungen der geplanten Ansiedlung eines Lebensmittelmarktes am Saseler Damm, Ecke Weidende (56 Stellplätze). Darüber hinaus erfolgt eine Bewertung hinsichtlich des Einflusses der geplanten Realisierung von Radfahrstreifen auf der Stadtbahnstraße.
 
@@ -116,6 +117,6 @@ Wann und wie werden die Ergebnisse des Verkehrsgutachtens öffentlich gemacht un
 
 Wann und wie werden die Ergebnisse des Verkehrsgutachtens in die Genehmigung des Bauvorhabens der ADSG am Petunienweg einfließen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Das Verkehrsgutachten wird Ende März des Jahres 2016 vorliegen. Nach abgeschlossener interner Prüfung wird das Verkehrsgutachten dann an den zuständigen Fachausschuss der zuständigen Bezirksversammlung weitergeleitet. Im Anschluss daran wird das zuständige Bezirksamt das Ergebnis des Verkehrsgutachtens in angemessener Weise berücksichtigen.

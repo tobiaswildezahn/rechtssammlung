@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 14
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7125", "21/70"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51172"
@@ -85,11 +86,11 @@ Seit Jahresbeginn 2016 werden die Parkscheinautomaten zur Vereinheitlichung der 
 
 Als grundsätzliche Regel für das gebührenpflichtige Parken im öffentlichen Straßenraum gilt, dass Gebühren von Montag bis Samstag in der Zeit von 9 bis 20 Uhr zu zahlen sind, wobei drei unterschiedliche Gebührenzonen vorhanden sind:
 
-• Die Zone 1 umfasst im Wesentlichen das Gebiet der Hamburger City. Die Parkgebühren betragen hier 2,50 Euro pro Stunde, die Mindestparkdauer beträgt zwölf Minuten, für die 50 Cent zu zahlen sind.
+– Die Zone 1 umfasst im Wesentlichen das Gebiet der Hamburger City. Die Parkgebühren betragen hier 2,50 Euro pro Stunde, die Mindestparkdauer beträgt zwölf Minuten, für die 50 Cent zu zahlen sind.
 
-• Die Zone 2 verteilt sich über das Stadtgebiet und die bezirklichen Zentren. In der Zone 2 betragen die Parkgebühren 1,20 Euro pro Stunde bei einer Mindestparkdauer von zehn Minuten, für die 20 Cent zu zahlen sind.
+– Die Zone 2 verteilt sich über das Stadtgebiet und die bezirklichen Zentren. In der Zone 2 betragen die Parkgebühren 1,20 Euro pro Stunde bei einer Mindestparkdauer von zehn Minuten, für die 20 Cent zu zahlen sind.
 
-• Die Zone 3 umfasst einzelne Straßenzüge außerhalb der Zentren der Bezirke. Die Gebühren betragen hier 60 Cent pro Stunde bei einer Mindestparkdauer von 20 Minuten
+– Die Zone 3 umfasst einzelne Straßenzüge außerhalb der Zentren der Bezirke. Die Gebühren betragen hier 60 Cent pro Stunde bei einer Mindestparkdauer von 20 Minuten
 
 Als Höchstparkzeiten gelten einheitlich in Zone 1 60 Minuten und in den Zonen 1 und 2 120 Minuten. Bei den Bewirtschaftungszeiten gelten vereinzelt abweichende Zeiten, wenn die örtlichen Verhältnisse dies aus besonderen Gründen erfordern. Dies betrifft hauptsächlich die Zone 2, wo an einigen Straßen bereits ab 8 Uhr Gebühren zu zahlen sind, dies jedoch auf die Zeit bis 18 Uhr begrenzt ist. In einigen Gebieten, in denen auch abends starker Parkverkehr auftritt, sind bis 24 Uhr Gebühren zu entrichten. Im Umfeld der Fernbahnhöfe besteht auch am Sonntag eine Gebührenpflicht.
 
@@ -113,7 +114,7 @@ In welchen Gebieten wurden durch das Parkraum-Management seit 2013 Kontrollen du
 
 Wie viel Personal wurde seit Beginn des Projektes „Parkraumüberwachung“ in den Jahren 2013, 2014 und 2015 jeweils eingesetzt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Im März 2013 begann die verstärkte Überwachung des ruhenden Verkehrs zunächst in einem begrenzten Bereich der City im Gebiet um die Altstädter Straße und den Burchardplatz. Einhergehend mit einem Aufwachsen der Personalkapazitäten wurde die Überwachung ausgedehnt auf weitere Teile der City innerhalb des Ring 1. Zum Jahresende 2013 waren insgesamt 16 Kräfte in der Überwachung des ruhenden Verkehrs tätig. Im Jahr 2014 wurde das Überwachungsgebiet in weiteren Teilen der City, der HafenCity, dem Portugiesenviertel sowie rund um die Neue Große Bergstraße in Altona ausgedehnt und das Personal bis zum Jahresende auf 34 operativ tätige Kräfte aufgebaut. Im letzten Jahr wurde das Überwachungsgebiet auf St. Georg, Hammerbrook, Winterhude (Mühlenkamp), St. Pauli, Sternschanze, Eimsbüttel, Harvestehude, Rotherbaum, Eppendorf und Hoheluft erweitert und das Personal bis zum Jahresende 2015 auf 49 operativ tätige Kräfte erhöht.
 
@@ -142,7 +143,7 @@ Wie viele Ordnungswidrigkeitsanzeigen im ruhenden Verkehr gab es seit Beginn des
 
 Wie entwickelten sich die Einnahmen aus den Ordnungswidrigkeitsanzeigen im ruhenden Verkehr seit Beginn des Projektes „Parkraumüberwachung“ in 2013, 2014 und 2015?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Die Anzeigen und Einnahmen, die aus dem Bereich des ruhenden Verkehrs eingehen, wurden der Statistik der zuständigen Abteilung des Einwohner-Zentralamtes der Behörde für Inneres und Sport entnommen und sind in der nachfolgenden Tabelle dargestellt. Hierin enthalten sind Anzeigen der Polizei, des Projektes Parkraumüberwachung beziehungsweise des Parkraummanagements des Landesbetriebs Verkehr, aber auch von Privaten.
 

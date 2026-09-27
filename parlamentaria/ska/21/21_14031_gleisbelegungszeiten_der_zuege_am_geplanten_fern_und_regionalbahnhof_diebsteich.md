@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63430"
@@ -47,7 +48,7 @@ Mit welcher Gleisbelegungszeit wird bei in Diebsteich endenden Zügen gerechnet?
 
 Mit welcher Gleisbelegungszeit wird bei in Diebsteich beginnenden Zügen gerechnet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Unter der Annahme, dass das im heutigen Bahnhof Altona bestehende Betriebsprogramm im SPFV und SPNV mit den dort verkehrenden ICE-, EC/IC-, RE- und RB- Linien weiterhin Bestand hat, wären am neuen Bahnhof Hamburg-Altona in den Spitzenzeiten pro Stunde circa 24 Zugfahrten an sechs Bahnsteiggleisen abzufertigen, das heißt pro Zugfahrt stünden rechnerisch Zeitfenster von je 15 Minuten (für Ein- und Ausfahrt, Bereitstellungs- oder Standzeiten am Gleis) zur Verfügung.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19007"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68854"
@@ -61,7 +62,7 @@ In welcher Höhe wird die Ergebnisrechnung der GMH im Jahr 2019 durch ungeplante
 
 Ist für das Jahr 2019 nach derzeitigem Planungsstand ein Verlustausgleich durch die HGV bei der GMH erforderlich?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Ob und in welcher Höhe aus dem Projektverlauf für die GMH | Gebäudemanagement Hamburg GmbH zusätzliche ergebnisbelastende Effekte resultieren, ist Gegenstand der aktuellen Prüfung und Sachverhaltsaufarbeitung.
 

@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 4
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11428", "21/18819", "21/18872"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68546"
@@ -61,6 +62,6 @@ Bei welchen der unter Frage 1. genannten Schulen wird/wurde die oben genannte Re
 a) Bei welchen der unter Frage 1. genannten Schulen wird/wurde die oben genannte Regelung des Musterflächenprogramms nicht oder nicht in vollem Umfang umgesetzt? (Bitte alle betreffenden Schulen namentlich mitsamt der Schulregion, des Sozialindexes und der Schulform in einer Excel-Tabelle angeben.)
 b) Was sind die Gründe für jede einzelne dieser Schulen dafür, dass die oben genannte Regelung nicht oder nicht vollständig umgesetzt wird/wurde? (Bitte pro Schule im Detail begründen.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.

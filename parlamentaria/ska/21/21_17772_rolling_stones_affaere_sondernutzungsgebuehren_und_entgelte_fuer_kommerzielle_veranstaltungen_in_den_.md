@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17300", "21/17511", "21/17670"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67376"
@@ -43,17 +44,17 @@ Vor diesem Hintergrund fragen wir den Senat:
 
 Die oben genannten internen Anordnungen der drei Staatstheater regeln die Vergabe ermäßigter und kostenloser Eintrittskarten an bestimmte Personengruppen, insbesondere
 
- aus sozialen Gründen (Schulkinder und Schulgruppen, Auszubildende, Wehr- und
+– aus sozialen Gründen (Schulkinder und Schulgruppen, Auszubildende, Wehr- und
 
 Zivildienstleistende, Arbeitslose, Empfänger von Sozialhilfe, Schwerbehinderte und ihre Begleitung),
 
- an Betriebsangehörige und Personen, für die der Besuch zu ihren dienstlichen
+– an Betriebsangehörige und Personen, für die der Besuch zu ihren dienstlichen
 
 Aufgaben gehört,
 
- von Presse-, Gast-, Ehren- und Geschäftskarten sowie
+– von Presse-, Gast-, Ehren- und Geschäftskarten sowie
 
- Steuerkarten für Vorstellungen, die nicht ausverkauft sind.
+– Steuerkarten für Vorstellungen, die nicht ausverkauft sind.
 
 Im Übrigen siehe Drs. 21/17511 und 21/17670.
 
@@ -63,11 +64,11 @@ b. Wann wurden diese internen Anordnungen jeweils im Transparenzprotal veröffen
 
 Die internen Anordnungen des Thalia Theaters, des Deutschen Schauspielhauses und der Hamburgischen Staatsoper unterliegen nicht der Veröffentlichungspflicht nach dem Hamburgischen Transparenzgesetz (HmbTG), insbesondere da
 
- es sich nicht um „in öffentlicher Sitzung gefasste Beschlüsse“ im Sinne des § 3
+– es sich nicht um „in öffentlicher Sitzung gefasste Beschlüsse“ im Sinne des § 3
 
 Absatz 1 Nummer 3 HmbTG handelt. Die Aufsichtsräte der GmbHs haben die jeweiligen Rahmenbedingungen in nicht-öffentlicher Sitzung beschlossen.
 
- es sich nicht um „Globalrichtlinien, Fachanweisungen und Verwaltungsvorschriften“
+– es sich nicht um „Globalrichtlinien, Fachanweisungen und Verwaltungsvorschriften“
 
 gemäß § 3 Absatz 1 Nummer 6 HmbTG handelt. Hierunter sind nur Anordnungen für die gesamte Hamburger Verwaltung zu verstehen (Maatsch/Schnabel, HmbTG, 2015, § 3 Rn. 52).
 

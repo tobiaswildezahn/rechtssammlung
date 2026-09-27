@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3198"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53553"
@@ -48,7 +49,7 @@ Wie ist der aktuelle Sachstand zur Reform der Lehrerbildung?
 
 Wann haben Projektgruppe und Expertenkommission bislang zu welchen Themenfeldern getagt und welche Erkenntnisse wurden jeweils bereits gewonnen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 An folgenden Terminen haben Arbeitssitzungen der Expertenkommission stattgefunden:
 

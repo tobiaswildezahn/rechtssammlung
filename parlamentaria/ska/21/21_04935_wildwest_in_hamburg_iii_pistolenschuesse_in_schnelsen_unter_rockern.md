@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 33
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53380"
@@ -125,7 +126,7 @@ Wie viele Zeugen konnten bisher tatrelevante Hinweise an die Ermittlungsbehörde
 
 Mit welchen Maßnahmen beziehungsweise kriminaltechnischen Untersuchungen sind die Ermittlungsbehörden im Rahmen des Einsatzes betraut? Wenn die Untersuchungen noch nicht abgeschlossen sind, wann ist mit einem Ergebnis zu rechnen?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Antwort zu 5. bis 8.
 

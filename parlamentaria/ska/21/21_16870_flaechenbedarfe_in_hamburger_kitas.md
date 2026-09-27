@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 35
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66425"
@@ -57,7 +58,7 @@ In welchen Quartieren hat die zuständige Behörde seit Inkrafttreten des Kita-G
 
 Welche Interessensbekundungsverfahren sind mit welchem Ausgang durchführt worden? Es wird um Angabe des Quartiers, des Jahres des Interessensbekundungsverfahrens, der Anzahl der Teilnehmer am Verfahren und des Trägers, der den Zuschlag erhalten hat, gebeten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Zusammenhang mit der Realisierung von Wohnungsneubauvorhaben oder der Einrichtung von Wohnunterkünften wurde seit Inkrafttreten des Kita-Gutscheinsystems von der für Kindertagesbetreuung zuständigen Behörde in insgesamt 16 Fällen von einem erheblichen Bedarfsüberhang an Kita-Plätzen ausgegangen. In diesen Fällen standen städtische Flächen für eine Kita-Nutzung oder für den Bau einer Kita zur Verfügung. Für diese Flächen wurden jeweils IBV durchgeführt. In fünf der insgesamt 16 Fälle wurde im IBV eine ergänzende Finanzierung gemäß des LRV in Aussicht gestellt. In zwei Fällen wurde die Förderung in Anspruch genommen. Im Übrigen siehe Anlage 1.
 
@@ -77,7 +78,7 @@ Welche Gemeinbedarfsflächen, die für den Kita-Bau geeignet sind, sind derzeit 
 
 Liegen dafür schon Bebauungspläne vor und sind da auch Flächen für Kitas vorgesehen und in welchem Umfang? Wenn keine Pläne vorliegen, warum wurden in den entsprechenden Stadtteilen bisher noch keine Kitas gebaut?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage 2.
 
@@ -151,7 +152,7 @@ Zum Bundesprogramm Kita-Einstieg: Wie hoch ist der Anteil der Bundesmittel, der 
 
 Für welche Zwecke (Kita-Qualität, Beitragsfreiheit, Kita-Ausbau) wird der Senat beziehungsweise die Fachbehörde diese Mittel einsetzen?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Das Bundesprogramm Kita-Einstieg wird in Hamburg von der Arbeitsgemeinschaft der Freien Wohlfahrtspflege (AGFW) koordiniert und gemeinsam von den Kita-Verbänden in Kooperation mit der für Kindertagesbetreuung zuständigen Behörde durchgeführt.
 
@@ -175,7 +176,7 @@ Wie viel Prozent der Bundesmittel kommen der Arbeit in der Kita zugute und wie v
 
 Welche Stellen des Programms wurden neu ausgeschrieben? Welche Mitarbeiter/-innen waren bereits vormalige Mitarbeiter/-innen? (Bitte für jede Stelle aufschlüsseln!)
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Der für Kindertagesbetreuung zuständigen Behörde liegen die für die Beantwortung notwendigen Informationen nicht vor. Sie hat daher die AGFW als Koordinierungsstelle für das Bundesprojekt Kita-Einstieg gebeten, die entsprechenden Auskünfte zu erteilen. In der für die Beantwortung dieser Anfrage zur Verfügung stehenden Zeit hat die AGFW folgendes zurückgemeldet:
 

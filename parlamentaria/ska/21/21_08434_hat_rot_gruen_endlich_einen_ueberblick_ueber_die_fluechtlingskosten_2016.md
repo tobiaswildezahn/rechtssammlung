@@ -14,6 +14,7 @@ fragen: 29
 einzelfragen: 36
 antwortbloecke: 25
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/999", "21/1395", "21/4472", "21/6619", "21/8487", "21/4635", "21/4327", "21/7422", "21/8262", "21/7914", "21/7488", "21/4566", "21/1354", "21/5547", "21/6055", "21/4174", "21/8279", "21/5235"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57146"
@@ -319,7 +320,7 @@ Wie viele zusätzliche VZÄ wurden im Rahmen der Versorgung und der Betreuung de
 
 Wie viele der zusätzlichen VZÄ sind befristet? Bitte zusätzlich nach Behörden aufschlüsseln und angeben bis wann.
 
-#### Antwort zu Fragen 22 bis 23
+#### Antwort zu Fragen 22 und 23
 
 Von den Bezirken sind im Laufe des Jahres 2016 Mitarbeiterinnen und Mitarbeiter zur BIS gewechselt, auch wurden Stellen nachbesetzt. Da für die geforderten Angaben
 
@@ -370,7 +371,7 @@ Kosten in welcher Höhe fielen im Rahmen der Flüchtlingsversorgung und -betreuu
 
 Bezüglich der Finanzierung der Kosten, die bei den Bezirken anfielen: Was davon erfolgte durch bezirkliche Mittel, wofür erfolgten Erstattungen vom Senat? Bitte nach Bezirken und Art der Kosten aufschlüsseln.
 
-#### Antwort zu Fragen 26 bis 27
+#### Antwort zu Fragen 26 und 27
 
 Siehe Antworten zu 5. bis 25. und Anlage 1. Die Bezirksämter erhalten 1 Million Euro aus der Zentralen Verstärkung Zuwanderung im Einzelplan 9.2. Darüber hinaus entstanden weitere Kosten in den Behörden, Bezirken und Ämtern, die den Regelaufgaben zugeordnet werden, siehe Vorbemerkung.
 

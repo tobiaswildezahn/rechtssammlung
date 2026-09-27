@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18310"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68018"
@@ -57,7 +58,7 @@ Auf welche öffentlichen Unternehmen und sonstigen Organisationen entfällt jewe
 
 Welche der aufgelisteten Verbindlichkeiten werden jeweils dem Konsolidierungskreis der Hamburger Kernverwaltung zugerechnet, welche dem Konsolidierungskreis des Konzerns Hamburg?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

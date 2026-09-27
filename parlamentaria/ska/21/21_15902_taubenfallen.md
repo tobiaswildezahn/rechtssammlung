@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11093"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65401"
@@ -49,7 +50,7 @@ Gibt es derzeit in der Freien und Hansestadt Hamburg von Bezirksämtern genehmig
 
 Welche Firmen in Hamburg haben grundsätzlich eine Genehmigung nach §11 Tierschutzgesetz, Taubenfallen aufzustellen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Jahr 2006 erhielt die Firma Rentokil im Rahmen einer von dem zuständigen Verbraucherschutzamt des Bezirksamts Altona erteilten Erlaubnis nach § 11 Tierschutzgesetz eine Genehmigung zur Taubenfallen-Nutzung. Im Übrigen ist bei Schädlingsbekämpfern mit Betriebssitz außerhalb Hamburgs und einer Erlaubnis zur Aufstellung von Taubenfallen durch die dort zuständige Behörde eine tierschutzrechtliche Genehmigung der Stadt Hamburg bei Tätigwerden auf dem Gebiet der Freien und Hansestadt Hamburg (FHH) nicht vorgeschrieben. Insofern liegen den Bezirksämtern keine konkreten Kenntnisse über aufgestellte Taubenfallen vor.
 

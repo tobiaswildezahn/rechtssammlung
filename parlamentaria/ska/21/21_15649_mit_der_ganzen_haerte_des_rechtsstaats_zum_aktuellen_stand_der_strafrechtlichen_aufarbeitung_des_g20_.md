@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65150"
@@ -996,7 +997,7 @@ Wie viele Verfahren, die hinsichtlich des Verdachtsmoments besagten G20-Chaostag
 
 Wurden in Verbindung mit den unter Ziffer 7. fallenden Einstellungen Auflagen erteilt? Wenn ja, in wie vielen dieser Fälle, durch jeweils wen und jeweils welche? Bitte nach Staatsanwaltschaft und jeweiligem Gericht gesondert darstellen.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Ausweislich einer programmtechnischen und in Teilen händischen (Einzel-)Auswertung des Registers 7120 Js unter Berücksichtigung der zu Ziffer 1 genannten drei weiteren Verfahren ergaben sich 327 staatsanwaltschaftliche Einstellungen. Die Daten stehen unter dem Vorbehalt der vollständigen und richtigen Erfassung in MESTA, welches nicht als Statistikprogramm konzipiert ist (Stand der Auswertung 02.01.2019 beziehungsweise 09.01.2019).
 

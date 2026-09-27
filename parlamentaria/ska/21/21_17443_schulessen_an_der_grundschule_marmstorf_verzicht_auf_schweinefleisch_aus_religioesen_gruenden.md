@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14157"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67044"
@@ -55,7 +56,7 @@ Trifft es zu, dass an der Grundschule Marmstorf überwiegend oder überhaupt kei
 
 Welches Gremium hat die Entscheidung, auf Schweinefleisch weitestgehend zu verzichten, legitimiert und wie wurde diese Entscheidung begründet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

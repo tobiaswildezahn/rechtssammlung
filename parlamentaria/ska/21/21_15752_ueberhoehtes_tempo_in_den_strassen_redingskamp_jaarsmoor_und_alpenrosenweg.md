@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65255"
@@ -79,7 +80,7 @@ Wann wurden zuletzt jeweils Geschwindigkeitsmessungen in den oben genannten Stra
 
 Zu welchen Tageszeiten fanden diese Messungen statt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Polizei hat im Redingskamp zuletzt vom 10. April 2018, 11.00 Uhr bis zum 16. April, 09.00 Uhr eine Geschwindigkeitsmessung mit dem Verkehrsstatistikgerät durchgeführt. Die Anzahl der Überschreitungen wird nicht erfasst. Die durchschnittlichen Geschwindigkeiten (Vd) und jeweiligen Höchstgeschwindigkeiten (Vmax) über den gesamten Messzeitraum sind in km/h in der nachfolgenden Tabelle dargestellt:
 

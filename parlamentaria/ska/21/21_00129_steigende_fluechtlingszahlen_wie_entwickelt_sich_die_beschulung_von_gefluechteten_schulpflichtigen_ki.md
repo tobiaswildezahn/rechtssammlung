@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 30
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13705", "20/12288"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48259"
@@ -177,7 +178,7 @@ Mit welcher Wartezeit ist derzeit zwischen Ankunft in Hamburg, Feststellung der 
 
 Wie viele schulpflichtige Flüchtlinge warten derzeit auf einen Schulplatz und steht für die Wartenden bereits fest, welche Schule sie jeweils wird aufnehmen können?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 20/13705.
 
@@ -322,7 +323,7 @@ Wie verteilen sich die schulpflichtigen Flüchtlinge zahlenmäßig innerhalb der
 
 Wie sind die aktuellen Klassenfrequenzen der vorgenannten Schulen beziehungsweise der Schulklassen, wo liegt die Höchstfrequenz gemäß § 87 HmbSG dieser Schulen und welche Altersstruktur ist in den jeweiligen Klassen anzutreffen? Bitte jeweils nach Bezirk, Schulform und Klasse auflisten.
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Da das Merkmal Flüchtling für die Beschulung nicht relevant ist und deshalb nicht erhoben wird, können Angaben zu der Verteilung der schulpflichtigen Flüchtlinge auf die Schulen beziehungsweise Schulklassen, zu den aktuellen Klassenfrequenzen und zu der Altersstruktur in Klassen mit Flüchtlingen nicht vorgenommen werden. Im Übrigen siehe www.hamburg.de/schulstatistiken.
 

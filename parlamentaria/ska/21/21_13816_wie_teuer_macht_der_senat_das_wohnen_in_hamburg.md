@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2172", "21/6509", "21/10744"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63201"
@@ -51,7 +52,7 @@ Wie stellt sich die durchschnittliche Preisentwicklung für die oben genannten B
 
 Wie stellt sich die durchschnittliche Preisentwicklung für Wasserentgelt, Gehwegreinigungsgebühr, Winterdienstgebühr und den Anwohnerparkausweis in Hamburg in den letzten drei Jahren dar und durch welche Faktoren kommen diese Entwicklungen im Einzelnen zustande? Bitte soweit wie möglich aufschlüsseln und in absoluten Zahlen angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Gebührenanpassungen für Sielbenutzung (umfasst die Schmutz- und Niederschlagswassergebühr), Abfallentsorgung sowie Gehwegreinigung werden jährlich – mit Gültigkeit für das Folgejahr – im Gesetz- und Verordnungsblatt (HmbGVBl.) veröffentlicht (Siehe HmbGVBl. Nummer 53 vom 29. Dezember 2015: S. 402 und 403; Nummer 54 vom 23. Dezember 2016, S. 554 und 555; Nummer 41 vom 22. Dezember 2017, S. 455 und 456). Die Gebührenentwicklung wird im Wesentlichen durch Tarif- und Preissteigerungen verursacht. Zu den Anpassungen der Wasserpreise siehe Drs. 21/2172, Drs. 21/6509 und Drs. 21/10744.
 
@@ -69,7 +70,7 @@ Wie bewerten der Senat und/oder die zuständigen Behörden die Tatsache, dass di
 
 Wie rechtfertigt der Senat die Preissteigerungen einzelner Bereiche (Gebühren, Steuern, sonstige Abgaben), aus denen sich letztendlich die Gesamtwohnnebenkosten zusammensetzen, vor dem Hintergrund der aktuell und zukünftig zu erwartenden hohen Steuereinnahmen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nach § 6 Absatz 1, Satz 1 Gebührengesetz (GebG) werden Gebühren grundsätzlich kostendeckend erhoben. Diese werden jährlich auf Kostendeckung geprüft und bei Bedarf angepasst. Ein Zusammenhang mit der Höhe der Steuereinnahmen besteht nicht.
 
@@ -81,7 +82,7 @@ Sind für die kommenden Jahre weitere Preissteigerungen einzelner Bereiche der W
 
 Gibt es seitens des Senats und den zuständigen Behörden Überlegungen, die darauf abzielen, die Wohnnebenkosten in einzelnen Bereichen zu senken? Wenn ja, welche Bereiche betrifft dies und auf welchem Stand befinden sich die Überlegungen? Wenn nein, warum nicht und wie will der Senat aktuell und zukünftig mit den zuvor erwähnten Preissteigerungen umgehen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Das Bundesverfassungsgericht hat in seinem Urteil vom 10. April 2018 (Aktenzeichen: 1 BvL 11/14, 1 BvL 12/14, 1 BvL 1/15, 1 BvR 639/11, 1 BvR 889/12) die Vorschriften zur Einheitsbewertung für die Bemessung der Grundsteuer für verfassungswidrig erklärt und bestimmt, dass der Gesetzgeber spätestens bis zum 31. Dezember 2019 eine Neuregelung zu treffen hat. Bis zu diesem Zeitpunkt dürfen die bisherigen Regeln weiter angewandt werden. Dies gilt auch nach Inkrafttreten einer Neuregelung für weitere fünf Jahre ab der Verkündung, längstens aber bis zum 31. Dezember 2024.
 

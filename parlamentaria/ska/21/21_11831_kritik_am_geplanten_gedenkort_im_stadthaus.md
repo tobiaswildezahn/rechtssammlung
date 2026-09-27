@@ -14,6 +14,7 @@ fragen: 25
 einzelfragen: 43
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/4555", "21/11165", "20/12554", "21/10997"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61076"
@@ -63,7 +64,7 @@ b) im notariell beglaubigten Angebot der Quantum AG vorgesehen?
 
 Hat die Freie und Hansestadt Hamburg im Rahmen des Kaufvertrages eine Mindestfläche für die Gedenkstätte festgelegt? Wenn ja, bitte die genaue Quadratmeterzahl angeben? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In der Ausschreibung war die geforderte Berücksichtigung der historischen Bedeutung des Gebäudeensembles nicht mit einer Angabe zum Flächenbedarf hinterlegt, im Angebot und im Kaufvertrag sind 750 m² Bruttogrundfläche (BGF) vorgesehen.
 

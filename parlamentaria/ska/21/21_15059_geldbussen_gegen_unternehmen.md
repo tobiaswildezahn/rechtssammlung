@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64518"
@@ -57,7 +58,7 @@ Wie viele Geldbußen gegen juristische Personen und Personenvereinigungen wurden
 
 In welcher Höhe wurden diese Geldbußen jeweils festgesetzt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Vorgangsverwaltungs- und Vorgangsbearbeitungssystem MESTA der Staatsanwaltschaft wird nicht erfasst, ob es sich bei einer Entscheidung über eine Geldbuße um eine solche nach § 30 OWiG handelt. Es müssten sämtliche Verfahrensakten, bei denen als Entscheidungsart „nur wg. OWi (…) – Geldbuße“ vermerkt ist, händisch ausgewertet werden. Hierbei handelt es sich allein bei den vom Amtsgericht ausgeurteilten Geldbußen jährlich um eine Anzahl im oberen drei- bis vierstelligen Bereich. Eine Beiziehung und Auswertung dieser Akten ist in der für die Beantwortung Parlamentarischer Anfragen zur Verfügung stehenden Zeit nicht möglich.
 

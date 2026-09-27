@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 18
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/4388"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59432"
@@ -93,7 +94,7 @@ Wie ist der Zustand der Standpfähle, auf denen die Speicher ruhen? Beobachter g
 
 Gibt es eine von der LIG oder einer anderen Stelle beauftragte Begutachtung des Problems? Ist doch davon auszugehen, dass noch mehr Kaimauern instand zu setzen sind als zunächst angenommen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Standpfähle der Uferwände weisen altersentsprechende biologische Schädigungen auf. Holzzerstörende Pilze oder Moderfäule wurden nur in einem so geringen Umfang festgestellt, dass diese für die weiteren Betrachtungen nicht relevant sind. Im Übrigen siehe Antworten zu 2. und 3.
 

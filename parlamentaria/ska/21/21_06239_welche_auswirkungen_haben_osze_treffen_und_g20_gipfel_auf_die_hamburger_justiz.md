@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5171"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54763"
@@ -46,7 +47,7 @@ Die Untersuchungshaftanstalt ist seit Monaten durchgängig fast zu 100 Prozent b
 
 Zu welchen personellen Mehrbedarfen wird die Reaktivierung stillgelegter Einheiten führen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die zuständigen Behörden gehen von einem friedlichen Verlauf des OSZE-Treffens und des G20-Gipfels aus. Vorsorglich bereiten sie sich gleichwohl auf Notfallszenarien vor und halten entsprechende Reserven vor. Vor diesem Hintergrund richtet die zuständige Behörde ihre Planungen darauf aus, dass zusätzliche Plätze in einzelnen Justizvollzugsanstalten vorgehalten werden.
 

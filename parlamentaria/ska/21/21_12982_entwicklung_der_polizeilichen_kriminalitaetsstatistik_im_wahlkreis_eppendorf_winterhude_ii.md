@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62343"
@@ -87,7 +88,7 @@ Wie viele versuchte und vollendete Einbrüche wurden in den Jahren 2016 und 2017
 
 Wie viele versuchte und vollendete Einbrüche wurden in den Jahren 2016 und 2017 in Eppendorf und Winterhude jeweils aufgeklärt? Bitte die Zahlen für jeden Monat einzeln aufgeben.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Aussagekraft der PKS ist auf Jahresauswertungen ausgelegt. Innerhalb eines Berichtsjahres unterliegt der PKS-Datenbestand einer ständigen Pflege, zum Beispiel durch Hinzufügen von nachträglich ermittelten Tatverdächtigen oder der Herausnahme von Taten, die sich im Nachhinein nicht als Straftat erwiesen haben; es wird immer nur der eine Fall mit der letzten Änderung gezählt. Auf einzelne Monate aufgegliederten Fallzahlen sind nicht valide; unterjährige Auswertungen erfolgen immer kumulativ. Für die Beantwortung werden daher die kumulativen Quartalszahlen der erfragten Stadtteile übermittelt.
 

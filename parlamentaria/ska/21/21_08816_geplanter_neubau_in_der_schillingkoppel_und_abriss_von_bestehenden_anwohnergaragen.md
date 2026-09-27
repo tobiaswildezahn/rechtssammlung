@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1561"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57556"
@@ -78,7 +79,7 @@ Inzwischen liegen Pläne für die Schillingkoppel 14 und die Bauernvogtkoppel 63
 
 Wann werden die baurechtlichen Verfahren und die damit verbundene Prüfung abgeschlossen sein?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der vorliegende Bauantrag für Bauernvogtkoppel 63 – 67 ruht zurzeit auf Wunsch des Bauherrn. Der Vorscheid für das Grundstück Schillingkoppel 14 zum Neubau von drei zweigeschossigen Stadthäusern mit insgesamt 6 WE und einer Tiefgarage wurde vom Antragsteller zurückgezogen. Im Übrigen: nein.
 

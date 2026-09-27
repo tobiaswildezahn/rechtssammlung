@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17591", "21/16121", "21/11428"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67183"
@@ -105,7 +106,7 @@ Wie bewertet der Senat beziehungsweise die zuständige Behörde die massive Ungl
 
 Sollte der Senat beziehungsweise die zuständige Behörde diese Ungleichverteilung kritisch sehen, was sind genau die Maßnahmen, mit denen der Senat, beziehungsweise die zuständige Behörde plant, dieser Entwicklung wirksam entgegenzusteuern?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Entwicklung der Schülerzahl in den einzelnen Jahrgängen in einem Bezirk ist von vielen Faktoren abhängig, wie den zu erwartenden Zuzügen in öffentlich rechtliche Unterkünfte und deren Lage, dem Alter der zugezogenen Kinder, der Akzeptanz von Wohnunterkünften in der Bevölkerung sowie den normalen Umzügen und Bauaktivitäten. Eine Steuerung dieser sich dynamisch verändernden Schülerströme ist daher nur begrenzt möglich. Im Übrigen siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16864", "21/16008", "20/14531", "18/5772", "19/1470", "19/2909", "20/400", "20/1156", "20/2508", "20/1397", "20/4386", "20/5702", "20/3527", "20/4515", "20/5434", "20/4578", "20/5703", "20/5483", "20/7964", "20/6722", "20/4530", "20/10866", "20/12455", "20/7403", "20/7574", "20/11593", "20/13612", "20/13623", "21/468", "21/73", "21/10141", "21/6765", "21/17173"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67825"
@@ -53,7 +54,7 @@ Warum liegt der Bericht über die Modellrechnungen zum Passiv-Aktiv- Transfer no
 
 Wann ist mit einer Berichterstattung zu rechnen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die für die Modellrechnung erforderlichen Daten sind nicht automatisiert auswertbar, sondern erfordern eine einzelfallbezogene Vollauswertung einzelner kundenbezogener Datensätze durch Jobcenter team.arbeit.hamburg. Für eine belastbare Modellrechnung wurden weit über 100 Auswertungen vorgenommen, die wegen der Vielzahl der für die Modellrechnung zu berücksichtigenden Einflussfaktoren sehr komplex und zeitaufwändig sind.
 

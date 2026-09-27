@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1736", "21/12322"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62522"
@@ -85,7 +86,7 @@ Wann wurde die Verlängerung der U2 nach Bergedorf zuletzt geprüft?
 
 Wie steht der Senat zu einer Verlängerung der U2 nach Bergedorf?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die im Auftrag der Behörde für Wirtschaft, Verkehr und Innovation erstellte und im Jahr 2014 von der HOCHBAHN vorgelegte Konzeptstudie zur U-Bahn-Netzerweiterung betrachtete auch eine mögliche Verlängerung der Linie U2 über Lohbrügge in Richtung Bahnhof Bergedorf im Hinblick auf den verkehrsbezogenen Nutzen.
 

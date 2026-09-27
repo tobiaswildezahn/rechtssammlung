@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52173"
@@ -54,7 +55,7 @@ der HEG?
 
 Wie sieht die (vorläufige) Gewinn- und Verlustrechnung (GuV) der HEG für das Geschäftsjahr 2015 aus?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Jahresabschluss der Hamburg Energienetze GmbH (HEG) für das Jahr 2015 ist bisher weder geprüft noch vom Gesellschafter festgestellt. Der Senat sieht in ständiger Praxis grundsätzlich davon ab, Zwischenstände oder vorläufige Zahlen zu veröffentlichen, um der Arbeit der hierzu berufenen Organe nicht vorzugreifen.
 

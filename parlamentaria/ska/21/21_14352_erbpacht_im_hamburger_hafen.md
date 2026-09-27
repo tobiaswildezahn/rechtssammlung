@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14137"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63766"
@@ -64,7 +65,7 @@ Wird das Erbbaurecht nach der Entscheidung für alle Flächen des Hamburger Hafe
 
 Welchen Einfluss hat die Stadt bei Erbbaupacht darauf, wie die Errichtung der Infrastruktur durchgeführt wird? a. Technische Bestimmungen b. Die sozialen Kriterien bei der Auftragsvergabe
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Das aktuell in der Prüfung befindliche Erbbaurechtsmodell ist auf Großprojekte mit erheblichem Investitionsumfang (wie Steinwerder Süd) beschränkt.
 

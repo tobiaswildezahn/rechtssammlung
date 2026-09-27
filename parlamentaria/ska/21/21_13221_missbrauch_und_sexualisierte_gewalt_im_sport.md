@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 26
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2829"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62565"
@@ -162,13 +163,13 @@ Ausrichter der Amateur Box-Weltmeisterschaft 2017 in Hamburg war der Deutsche Bo
 
 Der Geschäftsführer von m-fights persönlich hat in Absprache mit dem DBV und auf eigenes Angebot hin lediglich einzelne Aufgaben übernommen. Beispielhaft genannt wurden vom DBV:
 
- Organisation und Durchführung von Promotion-Aktionen rund um die Bewerbung
+– Organisation und Durchführung von Promotion-Aktionen rund um die Bewerbung
 
 der WM in Hamburg und Umgebung,
 
- Plakatierungsmaßnahmen,
+– Plakatierungsmaßnahmen,
 
- Realisierung und Organisation von Presseaktivitäten.
+– Realisierung und Organisation von Presseaktivitäten.
 
 d. Wie beurteilt der Senat die Reaktion des HABV, den Trainer trotz eines noch nicht abgeschlossenen Verfahrens zu rehabilitieren und die Unterstützer/-innen der jungen Boxerin aus dem Verband auszuschließen?
 

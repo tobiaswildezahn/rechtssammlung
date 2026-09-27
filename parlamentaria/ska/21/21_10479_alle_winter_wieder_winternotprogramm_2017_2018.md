@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6426", "21/8371", "21/3892", "21/6191", "21/8165", "21/6922"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59354"
@@ -43,7 +44,7 @@ Mit wie vielen Menschen, die durchschnittlich pro Tag einen Notschlafplatz im Ra
 
 Wie viele Notschlafplätze werden für Obdachlose im November 2017 bis März 2018 insgesamt zur Verfügung gestellt? Bitte aufschlüsseln nach Einrichtung, Anzahl der Schlafplätze und Bezirk.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Grundlage der Planungen des Winternotprogramms (WNP) 2017/2018 sind die Erfahrungen aus den vorangegangenen Jahren mit einem im Ergebnis stets auskömmlichen Platzangebot.
 
@@ -109,7 +110,7 @@ Wie sind die Tagesaufenthaltsstätten ausgestattet? Wie viele Duschen gibt es? V
 
 Welche Beratung erhalten die Obdachlosen in den Tagesaufenthaltsstätten?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Zu den üblichen Angeboten einer Tagesaufenthaltsstätte siehe Drs. 21/8165. Eine etwaige Verpflegung wird grundsätzlich nicht durch Kochstellen, sondern durch die Verteilung von zubereiteten Speisen und Getränken sichergestellt.
 

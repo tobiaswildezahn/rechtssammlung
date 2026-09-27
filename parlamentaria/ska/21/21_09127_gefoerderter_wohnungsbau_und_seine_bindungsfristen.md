@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 5
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/780", "21/7447", "21/7630"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57896"
@@ -224,7 +225,7 @@ Wie viele Wohnungen des öffentlich geförderten Wohnungsbaus, die sich im Eigen
 
 Wie viele Wohnungen des öffentlich geförderten Wohnungsbaus, die sich nicht im Eigentum der SAGA befinden, haben noch welche Restlaufzeiten hinsichtlich ihrer Bindungsfrist? Bitte in vollen Jahren angeben.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Bindungslaufzeit  
 Jahre  

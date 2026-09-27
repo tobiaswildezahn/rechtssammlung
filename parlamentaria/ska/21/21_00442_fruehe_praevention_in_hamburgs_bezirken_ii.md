@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 15
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6287", "21/305", "20/10665"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48588"
@@ -175,7 +176,7 @@ Was wird evaluiert?
 
 Welche Ergebnisse der Evaluation liegen bisher vor?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Gemäß Drs. 20/10665 ist nach Ablauf von vier Jahren eine Überprüfung des dann noch dauerhaft erforderlichen Ressourceneinsatzes in den Bezirksämtern und eine Überprüfung, inwieweit dieser weiter von Asklepios-Rückkehrerinnen gedeckt werden kann, vorgesehen.
 

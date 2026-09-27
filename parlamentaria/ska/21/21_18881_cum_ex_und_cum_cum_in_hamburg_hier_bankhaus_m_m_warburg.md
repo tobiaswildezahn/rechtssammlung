@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 11
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11683", "21/12088", "21/18036"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68567"
@@ -95,6 +96,6 @@ Gab es Gespräche mit der Amtsleitung und dem Bankhaus M.M.Warburg in den Jahren
 
 Im April 2019 wurde bekannt, dass gegen das Bankhaus und Herrn Olearius persönlich wegen besonders schwerer Steuerhinterziehung ermittelt wird. Würden sich bei einer Verurteilung des Bankhauses oder Herrn Olearius die Verjährungen des Jahres 2016 und 2017 auf eine Verjährung von zehn Jahren ausdehnen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.

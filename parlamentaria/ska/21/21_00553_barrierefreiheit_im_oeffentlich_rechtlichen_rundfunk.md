@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48705"
@@ -100,21 +101,21 @@ Die direkten Aufwände des NDR für barrierefreie Angebote betragen laut Plan de
 
 In den vorangegangenen Jahren betrug der Aufwand
 
- 2007: 233.000 Euro,
+– 2007: 233.000 Euro,
 
- 2008: 233.000 Euro,
+– 2008: 233.000 Euro,
 
- 2009: 233.000 Euro,
+– 2009: 233.000 Euro,
 
- 2010: 447.000 Euro,
+– 2010: 447.000 Euro,
 
- 2011: 688.000 Euro,
+– 2011: 688.000 Euro,
 
- 2012: 769.000 Euro,
+– 2012: 769.000 Euro,
 
- 2013: 1,255 Millionen Euro,
+– 2013: 1,255 Millionen Euro,
 
- 2014: 2,437 Millionen Euro.
+– 2014: 2,437 Millionen Euro.
 
 Eine systematische Erfassung der Kosten der barrierefreien Angebote erfolgt beim NDR erst seit 2007. Vor 2007 hat der NDR nur vereinzelt Filme untertitelt und mit einer Audiodeskription versehen. Die Kosten dafür lagen unter 100.000 Euro p.a.
 
@@ -142,17 +143,17 @@ Auf welche Weise wird im Internetangebot des NDR der Barrierefreiheit Rechnung g
 
 Der NDR trägt in seinem Online-Auftritt der Barrierefreiheit dadurch Rechnung, dass er darauf achtet, dass
 
- die Schrift vergrößert werden kann,
+– die Schrift vergrößert werden kann,
 
- die Kontraste ausreichend groß sind,
+– die Kontraste ausreichend groß sind,
 
- jeder Link mit einem Zielverweis gekennzeichnet ist,
+– jeder Link mit einem Zielverweis gekennzeichnet ist,
 
- bei allen visuellen Inhalten (Bild/Grafiken) ein Alternativtext vorhanden ist, der das
+– bei allen visuellen Inhalten (Bild/Grafiken) ein Alternativtext vorhanden ist, der das
 
 Abgebildete beschreibt,
 
- Texte in einer Braille-Zeile wiedergegeben und/oder mithilfe einer speziellen Soft-
+– Texte in einer Braille-Zeile wiedergegeben und/oder mithilfe einer speziellen Soft-
 
 ware (Screen-Reader) vorgelesen werden können.
 
@@ -160,12 +161,12 @@ In den vergangenen Jahren hat der NDR Angebote, die er selbst als nicht optimal 
 
 Bis 2016 sind folgende konkrete Verbesserungen geplant:
 
- Erhöhung der Zugänglichkeit beim Relaunch von N-JOY.de,
+– Erhöhung der Zugänglichkeit beim Relaunch von N-JOY.de,
 
- Verbesserungen der Barrierefreiheit bei der Einbindung von Social-Media-Inhalten,
+– Verbesserungen der Barrierefreiheit bei der Einbindung von Social-Media-Inhalten,
 
- Integration der Untertitel und Audiodeskription in den TV-Livestream,
+– Integration der Untertitel und Audiodeskription in den TV-Livestream,
 
- stärkere Integration der TV-Untertitel in das On-Demand-Angebot,
+– stärkere Integration der TV-Untertitel in das On-Demand-Angebot,
 
- Verbesserung der Zugänglichkeit über mobile Endgeräte.
+– Verbesserung der Zugänglichkeit über mobile Endgeräte.

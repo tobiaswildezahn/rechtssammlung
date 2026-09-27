@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 17
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9395", "21/8565"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58681"
@@ -51,7 +52,7 @@ Wie viele Überlastungsanzeigen aus den Jahren 2015, 2016 und früher bestehen f
 
 In wie vielen Fällen von Überlastung im Sinne von Frage 2. konnte keine Abhilfe geschaffen werden und warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage 1.
 

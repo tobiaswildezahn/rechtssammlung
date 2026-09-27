@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 27
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14261"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56507"
@@ -473,7 +474,7 @@ Wie hat sich die Zahl der „Einrichtungen“ im Sinne des Hamburgischen Wohn- u
 
 Wie viele der Einrichtungen im Sinne des HmbWBG hätten seit 2011 im Sinne eines Wirkungsgrades von 100 jährlich geprüft werden müssen? Bitte jahresweise und nach Bezirken aufschlüsseln.
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Der folgenden Tabelle ist die Anzahl der Wohn- und Betreuungsformen im Sinne des HmbWBG zu entnehmen.
 

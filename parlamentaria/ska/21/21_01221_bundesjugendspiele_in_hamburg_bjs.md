@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/3584"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49413"
@@ -75,7 +76,7 @@ Wie hat Hamburg im Ländervergleich der BJS im Durchschnitt abgeschnitten?
 
 Wie hat Hamburgs Spitzengruppe im Ländervergleich der BJS abgeschnitten? Bitte die Antworten auf alle Fragen für die Jahre 2011 bis 2015 angeben und jahresweise aufschlüsseln. Bitte die Fragen 1. – 6. nach Bezirk und Schule aufschlüsseln.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antwort zu 1. bis 5.
 

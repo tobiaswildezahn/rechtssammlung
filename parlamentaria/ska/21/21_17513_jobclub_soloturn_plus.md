@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67100"
@@ -64,31 +65,31 @@ Wie viele Jobclub-Soloturn-Plus-Beratungsstellen existieren seit wann in welchen
 
 Zurzeit wird das Coaching des Jobclub Soloturn Plus an zwölf Standorten angeboten:
 
- seit 2017 Altona/Osdorfer Born - Elternschule
+– seit 2017 Altona/Osdorfer Born - Elternschule
 
- seit 2017 Altona-Altstadt - Elternschule
+– seit 2017 Altona-Altstadt - Elternschule
 
- seit 2017 Wilhelmsburg – Kita Sternipark
+– seit 2017 Wilhelmsburg – Kita Sternipark
 
- seit 2017 Billstedt - AWO Sola
+– seit 2017 Billstedt - AWO Sola
 
- seit 2019 Billstedt – Elternschule
+– seit 2019 Billstedt – Elternschule
 
- seit 2017 Harburg – Phönix-Viertel
+– seit 2017 Harburg – Phönix-Viertel
 
- seit 2017 Harburg – Neuwiedenthal - Elternschule
+– seit 2017 Harburg – Neuwiedenthal - Elternschule
 
- seit 2017 Langenhorn - Elternschule
+– seit 2017 Langenhorn - Elternschule
 
- 2017 – 01/2019 Barmbek - Projektzentrale Elsässer Straße
+– 2017 – 01/2019 Barmbek - Projektzentrale Elsässer Straße
 
- seit 02/2019 Barmbek – Elternschule
+– seit 02/2019 Barmbek – Elternschule
 
- seit 02/2019 Barmbek – Projektzentrale Am Stadtrand
+– seit 02/2019 Barmbek – Projektzentrale Am Stadtrand
 
- seit 2017 Wandsbek – Hohenhorst – Haus am See
+– seit 2017 Wandsbek – Hohenhorst – Haus am See
 
- seit 2017 Wandsbek – Steilshoop – Stadtteilbüro
+– seit 2017 Wandsbek – Steilshoop – Stadtteilbüro
 
 Zu Adressen, Öffnungszeiten und Ansprechpartnern siehe https://www.einfal.de/ projekte/soloturn-plus/soloturn-beratung-vor-ort/.
 
@@ -137,23 +138,23 @@ teilt (Arbeit, Qualifikation, Familiäre Situation/Kinderbetreuung, Gesundheit, 
 
 Die Hilfsangebote der Aktionsfelder stellen sich wie folgt dar:
 
- Berufsorientierung/Recherche geeigneter Angebote/Erstellung von Bewerbungsun-
+– Berufsorientierung/Recherche geeigneter Angebote/Erstellung von Bewerbungsun-
 
 terlagen,
 
- Klärung der finanziellen Rahmenbedingungen bei Ausbildungen,
+– Klärung der finanziellen Rahmenbedingungen bei Ausbildungen,
 
- Vorbereitung auf Vorstellungsgespräche/Eignungstests,
+– Vorbereitung auf Vorstellungsgespräche/Eignungstests,
 
- Unterstützung bei der Suche nach Kita-Plätzen,
+– Unterstützung bei der Suche nach Kita-Plätzen,
 
- Stellungnahmen für Vermieter/Unterstützung bei der Klärung mit dem Jobcenter
+– Stellungnahmen für Vermieter/Unterstützung bei der Klärung mit dem Jobcenter
 
 (im Einzelfall Unterstützung bei der Suche nach einer geeigneten Wohnung),
 
- Unterstützung bei der Lösung innerfamiliärer Konflikte,
+– Unterstützung bei der Lösung innerfamiliärer Konflikte,
 
- Verweisberatung beim Erfordernis einer Mutter-Kind-Kur, Therapie.
+– Verweisberatung beim Erfordernis einer Mutter-Kind-Kur, Therapie.
 
 Alle Themenangebote werden gut angenommen.
 

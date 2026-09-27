@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12479"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62316"
@@ -45,11 +46,11 @@ Wo wurden 2013 switchh-Punkte eingerichtet?
 
 #### Antwort zu Frage 1
 
- U/S Berliner Tor
+– U/S Berliner Tor
 
- S Harburg
+– S Harburg
 
- S Bergedorf
+– S Bergedorf
 
 ### Frage 2
 
@@ -65,31 +66,31 @@ Welche switchh-Punkte kamen zwischen 2013 und 2018 hinzu?
 
 #### Antwort zu Frage 3
 
- U Wandsbek Markt
+– U Wandsbek Markt
 
- U Kellinghusenstraße
+– U Kellinghusenstraße
 
- S Altona
+– S Altona
 
- U Saarlandstraße
+– U Saarlandstraße
 
- U Lattenkamp
+– U Lattenkamp
 
- U Rödingsmarkt
+– U Rödingsmarkt
 
- U Hamburger Straße
+– U Hamburger Straße
 
- Hauptbahnhof
+– Hauptbahnhof
 
- Dammtor
+– Dammtor
 
- U/S Barmbek
+– U/S Barmbek
 
- U Hallerstraße
+– U Hallerstraße
 
- U Schlump
+– U Schlump
 
- Bei der Reitbahn
+– Bei der Reitbahn
 
 ### Frage 4
 

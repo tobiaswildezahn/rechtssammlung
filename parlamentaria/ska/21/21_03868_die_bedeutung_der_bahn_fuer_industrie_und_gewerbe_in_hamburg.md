@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 18
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52233"
@@ -49,7 +50,7 @@ Nach den Gewerbeflächenkonzepten der Bezirke von 2012 gibt es insgesamt 141 Ind
 
 In den einzelnen Bezirken befinden sich folgende gewerbliche Standorte:
 
- Hamburg Mitte
+– Hamburg Mitte
 
 Billbrook Rothenburgsort/Tiefstack Hammerbrook/Borgfelde
 
@@ -64,7 +65,7 @@ Finkenwerder/Airbus
 Finkenwerder/Rüschhalbinsel  
 Hafengebiet
 
- Altona
+– Altona
 
 Altona-Altstadt/Mörkenstraße  
 Altona-Nord  
@@ -79,7 +80,7 @@ Bahrenfeld/Lurup
 Lurup  
 Osdorf
 
- Eimsbüttel
+– Eimsbüttel
 
 Lokstedt/Hoheluft‐West  
 Waterloohain  
@@ -93,7 +94,7 @@ Eidelstedt – Holsteiner Chaussee
 Schnelsen West  
 Schnelsen – Modezentrum
 
- Hamburg-Nord
+– Hamburg-Nord
 
 Stadtteilzentrum Alsterdorf  
 Deelböge (Teilweise Eppendorf)  
@@ -146,7 +147,7 @@ Borgweg
 Krohnskamp  
 Poßmoorweg
 
- Wandsbek
+– Wandsbek
 
 Barkhausenweg  
 Lademannbogen  
@@ -167,7 +168,7 @@ Neumann-Reichardt-Straße
 Rahlau / Holstenhofweg  
 Wandsbeker Zollstraße, Wandsbek
 
- Bergedorf
+– Bergedorf
 
 Allermöhe  
 Billwerder Billdeich Ost  
@@ -187,7 +188,7 @@ Randersweide
 Schleusengärten  
 Walter-Rudolphi-Weg
 
- Harburg
+– Harburg
 
 Großmoorbogen  
 Großmoordamm  
@@ -312,33 +313,33 @@ Welche zentralen Güterverladestationen der Deutschen Bahn AG gibt es in Hamburg
 
 #### Antwort zu Frage 11
 
- Hamburg Altona (nur für Tankanlage DB Energie)
+– Hamburg Altona (nur für Tankanlage DB Energie)
 
- Hamburg Barmbek
+– Hamburg Barmbek
 
- Hamburg Billbrook
+– Hamburg Billbrook
 
- Hamburg Billstedt
+– Hamburg Billstedt
 
- Hamburg Billwerder
+– Hamburg Billwerder
 
- Hamburg Eidelstedt
+– Hamburg Eidelstedt
 
- Hamburg Harburg
+– Hamburg Harburg
 
- Hamburg Hohe Schaar
+– Hamburg Hohe Schaar
 
- Hamburg Langenfelde
+– Hamburg Langenfelde
 
- Hamburg Moorfleet
+– Hamburg Moorfleet
 
- Hamburg Süd
+– Hamburg Süd
 
- Hamburg Unterelbe
+– Hamburg Unterelbe
 
- Hamburg Wilhelmsburg Peute
+– Hamburg Wilhelmsburg Peute
 
- Hamburg Waltershof
+– Hamburg Waltershof
 
 Eine Auflistung/Übersicht nach Nutzung der Güterverkehrsstellen durch Hamburger Firmen liegt der DB nach deren Auskunft nicht vor.
 

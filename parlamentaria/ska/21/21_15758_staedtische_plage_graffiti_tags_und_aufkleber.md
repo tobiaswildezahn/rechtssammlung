@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11899", "20/1961", "20/8842", "21/14463", "21/14368", "19/4795", "20/3215"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65261"
@@ -55,7 +56,7 @@ Welche durch illegal angebrachte Graffiti, Tags und Aufkleber verursachten Sachb
 
 An welchen Objekten wurden Graffiti, Tags oder Aufkleber angebracht und anschließend durch die Stadtreinigung Hamburg entfernt und wer war betroffen, etwa Private, Stadt, Bund, Kirchen, Stiftungen des öffentlichen Rechts et cetera? Bitte von 2016 bis 2018 jahresweise und nach Bezirk und Stadtteil untergliedert darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlagen 1 bis 3 sowie Drs. 21/11899.
 
@@ -85,17 +86,17 @@ Der Verkehrssicherungsdienst der SRH hat zudem im Jahr 2018 in 200 Einsätzen Gr
 
 Die übrigen Meldungen betrafen den Zuständigkeitsbereich der folgenden Stellen:
 
-• Deutsche Post,
+– Deutsche Post,
 
-• Stromnetz Hamburg,
+– Stromnetz Hamburg,
 
-• Telekom,
+– Telekom,
 
-• Vodafone,
+– Vodafone,
 
-• Verkehrsanlagen,
+– Verkehrsanlagen,
 
-• alle Bezirksämter.
+– alle Bezirksämter.
 
 ### Frage 3
 
@@ -105,7 +106,7 @@ Wie viele der unter 1. und 2. bekannten angebrachten Graffiti, Tags und Aufklebe
 
 Wie viele der unter 3. genannten Symbole enthielten rechtsextremistische, linksextremistische beziehungsweise islamistische Botschaften?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Daten im Sinne der Fragestellung werden statistisch nicht erhoben.
 
@@ -151,7 +152,7 @@ Welche Maßnahmen hat der Senat getroffen, um Graffiti sowie die Entschuldigung 
 
 Wurde seitens der zuständigen Behörden und Ämter in Betracht gezogen, in Anlehnung an die zahlreichen Werbeanzeigen im öffentlichen Raum, in welchen Bürgern etwa der gebotene Umgang mit abgelaufenen Medikamenten erklärt wird, auch eine solche Kampagne hinsichtlich der gesamtgesellschaftlichen Schädlichkeit von Graffiti durchzuführen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung.
 

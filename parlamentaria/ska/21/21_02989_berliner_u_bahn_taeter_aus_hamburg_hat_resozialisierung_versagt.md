@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 19
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2958"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51337"
@@ -59,7 +60,7 @@ Wurde der Täter nach seiner Entlassung aus der JVA Hahnöfersand durch zuständ
 
 Wie viele Personen von welcher zuständigen Stelle haben den Täter in welchem Zeitraum mit welchem Ergebnis nach seiner Entlassung betreut (bitte gliedern nach Sachverständigen der Sozialen Dienste der Justiz und der Freien Straffälligenhilfe)? Welche Beobachtungen wurden festgehalten?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Antwort zu 2. Im Übrigen wird darauf verwiesen, dass gemäß der Aufbewahrungs- und Löschfristen aus der Aktenordnung der Bezirksämter vorhandene Akten fünf Jahre nach Fallabschluss beziehungsweise fünf Jahre nach Erreichen der Volljährigkeit gelöscht beziehungsweise vernichtet werden müssen. Im Übrigen siehe Drs. 21/2958.
 

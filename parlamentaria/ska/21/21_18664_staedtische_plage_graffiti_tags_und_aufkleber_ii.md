@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11899", "21/15758", "20/1961", "20/8842", "21/14463", "21/14368"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68332"
@@ -57,7 +58,7 @@ Welche durch illegal angebrachte Graffiti, Tags und Aufkleber verursachten Sachb
 
 An welchen Objekten wurden Graffiti, Tags oder Aufkleber angebracht und anschließend durch die Stadtreinigung Hamburg entfernt und wer war betroffen, etwa Private, Stadt, Bund, Kirchen, Stiftungen des öffentlichen Rechts et cetera? Bitte für die Jahre 2018 und 2019 monatsweise und nach Bezirk und Stadtteil untergliedert darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlagen 1 bis 3 sowie Drs. 21/15758.
 
@@ -83,7 +84,7 @@ Wie viele der unter 1. und 2. bekannten angebrachten Graffiti, Tags und Aufklebe
 
 Wie viele der unter 3. genannten Symbole enthielten rechtsextremistische, linksextremistische beziehungsweise islamistische Botschaften?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/15758.
 

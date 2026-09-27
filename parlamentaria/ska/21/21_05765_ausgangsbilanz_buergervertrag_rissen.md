@@ -14,6 +14,7 @@ fragen: 46
 einzelfragen: 97
 antwortbloecke: 43
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5231", "21/4991", "21/5634", "19/3572", "20/917", "21/3652", "21/732"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54255"
@@ -55,7 +56,7 @@ Sind damit Handlungen oder Beschlüsse der beteiligten Vertragspartner (insbeson
 
 Welche Konsequenzen haben welche Verstöße gegen den Vertrag?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/4991.
 
@@ -243,7 +244,7 @@ Wie sieht der Belegungszeitplan für die ÖrU mit Flüchtlingen im Bereich Suurh
 
 Wie sieht der Belegungszeitplan laut Bürgervertrag Rissen für den Bereich Sieversstücken I aus und wie für den Bereich Sieversstücken II? Bitte die Zeit von Planungs- und Baubeginn bis Ende der Nutzung angeben.
 
-#### Antwort zu Fragen 23 bis 24
+#### Antwort zu Fragen 23 und 24
 
 Zum Belegungszeitplan siehe:
 
@@ -416,7 +417,7 @@ Wie und wann wird die im Vertrag festgelegte Erhöhung der Polizeipräsenz in un
 
 Handelt es sich hierbei um eine von anderen Maßnahmen unabhängige Kapazitätserhöhung? Wenn nein: Warum ist das nicht nötig und wo werden die Kapazitäten abgezogen?
 
-#### Antwort zu Fragen 39 bis 40
+#### Antwort zu Fragen 39 und 40
 
 Die polizeiliche Erreichbarkeit und Präsenz vor Ort ist mit der Belegung der entsprechenden Unterkünfte zu gewährleisten. Die für diesen Standort vorzusehenden Präsenzmaßnahmen werden zeitnah zu diesem Zeitpunkt festgelegt und, wie im Bürgervertrag vorgesehen, im Stadtteilbeirat vorgestellt. Die erforderlichen Kapazitäten werden im Rahmen aktueller Lageerkenntnisse und unter Berücksichtigung der erforderlichen Prioritätensetzung sowie des Personalbestands der Polizei bereitgestellt.
 

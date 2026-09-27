@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11722"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51852"
@@ -59,11 +60,11 @@ Wie hoch waren die zur Abwicklung der igs noch verfügbaren Mittel jeweils am 31
 
 Die verfügbaren Mittel für die Abwicklung der igs i.L. betrugen am
 
- 31. Dezember 2014: 6.787.000 Euro
+– 31. Dezember 2014: 6.787.000 Euro
 
- 31. Dezember 2015: 6.627.000 Euro
+– 31. Dezember 2015: 6.627.000 Euro
 
- 20. Februar 2016: 6.537.000 Euro
+– 20. Februar 2016: 6.537.000 Euro
 
 ### Frage 3
 
@@ -73,6 +74,6 @@ In welcher Höhe wird derzeit wann eine Inanspruchnahme aus der abgegebenen Patr
 
 In welcher Höhe werden voraussichtlich für die igs 2013 zur Verfügung gestellte Mittel nicht mehr benötigt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Antwort zu 1.

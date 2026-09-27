@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16954", "21/12303", "21/8967", "21/7813", "21/5480", "21/574"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69182"
@@ -67,7 +68,7 @@ Gibt es regelmäßige Gespräche mit der Deutsche Funkturm GmbH (DFMG) über die
 
 Auf welcher Ebene werden die Gespräche zwischen dem Senat und der DFMG geführt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Ja. Das Projekt der DFMG wird von der FHH und dem Bund durch eine Begleitgruppe auf Arbeitsebene unterstützt.
 

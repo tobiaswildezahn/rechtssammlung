@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15105", "21/15431", "21/14954", "21/15182"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66009"
@@ -36,13 +37,13 @@ Mit der Antwort zu meiner Schriftlichen Kleinen Anfrage Drs. 21/15105 vom
 
 ## Einleitung für die Antworten des Senats
 
- den Berichtsentwurf von ICOMOS schon seit Wochen kannte;
+– den Berichtsentwurf von ICOMOS schon seit Wochen kannte;
 
- wusste, dass ICOMOS Bedenken zum Abriss und Neubau des City-Hofs
+– wusste, dass ICOMOS Bedenken zum Abriss und Neubau des City-Hofs
 
 hat;
 
- trotz einer am 6. November 2018 in Paris auf Wunsch des UNESCO-
+– trotz einer am 6. November 2018 in Paris auf Wunsch des UNESCO-
 
 Welterbezentrums vereinbarten Vorbereitung einer gemeinsamen Erklärung des UNESCO-Welterbezentrums, ICOMOS und der Stadt Hamburg zu den Ergebnissen der Beratungsmission am 27. November alleine per Pressemitteilung grünes Licht für den Abriss erteilt.
 
@@ -79,15 +80,15 @@ In welcher Form hat es seit dem 27. November 2018 einen Austausch mit dem Auswä
 
 Vor und nach dem 27. November hat es einen regelmäßigen fachlichen Austausch zum Welterbe mit dem Auswärtigen Amt, ICOMOS Deutschland, ICOMOS International und dem UNESCO-Welterbezentrum, sowohl schriftlich als auch telefonisch, gegeben. So wurde unter anderem
 
- auf Nachfrage des UNESCO-Welterbezentrums die Entwurfsfassung des Berichts
+– auf Nachfrage des UNESCO-Welterbezentrums die Entwurfsfassung des Berichts
 
 von ICOMOS International hinsichtlich der Fakten überprüft, siehe zum Ablauf vor dem 27. November auch Drs. 21/15431, 21/14954,21/15105 und 21/15182,
 
- am 11. Dezember 2018 schriftlich bei ICOMOS International nachgefragt und um
+– am 11. Dezember 2018 schriftlich bei ICOMOS International nachgefragt und um
 
 Gespräche gebeten, um die Bewertung der Ergebnisse der Beratungsmission durch die FHH abschließen zu können und eine Veröffentlichung des Berichts zu ermöglichen,
 
- um für Klarheit im weiteren Verfahren zu sorgen, am 23. Januar 2019 eine Bewer-
+– um für Klarheit im weiteren Verfahren zu sorgen, am 23. Januar 2019 eine Bewer-
 
 tung der vorliegenden Argumente aus der Entwurfsfassung des Berichts und der vorliegenden Korrespondenzen an das UNESCO-Welterbezentrum und ICOMOS International übermittelt.
 

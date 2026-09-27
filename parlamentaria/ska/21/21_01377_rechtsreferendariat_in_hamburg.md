@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49571"
@@ -805,7 +806,7 @@ davon Wiederholer
 
 Es entstehen gegenüber dem regulären Versuch zusätzliche Kosten für die Durchführung der Prüfung und die Vergütung der im Nebenamt tätigen Dozentinnen und Dozenten des Ergänzungsvorbereitungsdienstes (im Folgenden: Kosten des Prüfungsverfahrens) sowie für die Unterhaltsbeihilfe (im Folgenden: Personalkosten).
 
- Kosten der Prüfungsverfahren einschließlich der Entgelte für die Dozentinnen und
+– Kosten der Prüfungsverfahren einschließlich der Entgelte für die Dozentinnen und
 
 Dozenten:
 
@@ -826,7 +827,7 @@ Dozenten:
 
 Die Kosten für die Prüfungsverfahren enthalten Teilkosten für Arbeitsgemeinschaften, Teilkosten für die A- und B-Klausurenkurse, Teilkosten für die Korrekturen der A- und B-Klausuren, die Kosten eines Kurzvortrages und der mündlichen Prüfung.
 
- Personalkosten der Referendare und Referendarinnen: 
+– Personalkosten der Referendare und Referendarinnen: –
 
 2010 16.200 Euro für sechs Monate = 97.200 Euro
 

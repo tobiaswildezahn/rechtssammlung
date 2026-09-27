@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60754"
@@ -49,49 +50,49 @@ Welche Einrichtungen und zuständigen Stellen gibt es in Hamburg, die dazu beitr
 
 In der Freien und Hansestadt Hamburg leisten zahlreiche Einrichtungen durch ihre engagierte europapolitische Öffentlichkeitsarbeit einen wichtigen Beitrag, um die Bürgerinnen und Bürger über europapolitische Fragen zu informieren.
 
- Die Europa-Union Hamburg ist eine überparteiliche und unabhängige politische
+– Die Europa-Union Hamburg ist eine überparteiliche und unabhängige politische
 
 Organisation, die sich seit über 70 Jahren für die Einigung Europas einsetzt.
 
- Der Info-Point Europa fungiert als zentrale Anlaufstelle für europapolitische Fra-
+– Der Info-Point Europa fungiert als zentrale Anlaufstelle für europapolitische Fra-
 
 gen. Träger des Info-Points ist die Europa-Union.
 
- Die Landeszentrale für politische Bildung nimmt im Rahmen ihres Gesamtauftrags
+– Die Landeszentrale für politische Bildung nimmt im Rahmen ihres Gesamtauftrags
 
 auch die Aufgabe der Vermittlung von Information und Bildung zu Europa wahr.
 
- Die Hamburger Volkshochschule (VHS) bietet in Kursen im Bereich Politik explizit,
+– Die Hamburger Volkshochschule (VHS) bietet in Kursen im Bereich Politik explizit,
 
 aber auch innerhalb „allgemeiner Politikkurse“ Informationen zu Europa, der EU und der Europapolitik an.
 
- Die Verwaltungsbehörde des Europäischen Fonds für regionale Entwicklung
+– Die Verwaltungsbehörde des Europäischen Fonds für regionale Entwicklung
 
 (EFRE) in der Behörde für Wirtschaft, Verkehr und Innovation (BWVI) ist unter anderem dafür zuständig, die Funktion und die Ergebnisse des EFRE in Hamburg bei den Bürgerinnen und Bürgern bekannt zu machen und damit das Europabewusstsein zu fördern.
 
- Das Enterprise Europe Network Hamburg/Schleswig-Holstein unterstützt Unter-
+– Das Enterprise Europe Network Hamburg/Schleswig-Holstein unterstützt Unter-
 
 nehmen, Hochschulen und Forschungseinrichtungen bei der Suche von internationalen Geschäfts- und Projektpartnern sowie Netzwerken und bei der Akquise von
 
 Fördermitteln. In Hamburg wird das Netzwerk von der Hamburgischen Investitionsund Förderbank sowie der TuTech getragen.
 
- Die Verwaltungsbehörde des Europäischen Sozialfonds (ESF) in der Behörde für
+– Die Verwaltungsbehörde des Europäischen Sozialfonds (ESF) in der Behörde für
 
 Arbeit, Soziales, Familie und Integration (BASFI) ist unter anderem dafür zuständig, die Rolle und Ergebnisse des ESF bei den Bürgerinnen und Bürgern bekannt zu machen und damit das Europabewusstsein zu fördern.
 
- Das Europa JUGEND Büro verfolgt das Ziel, Hamburger Jugendhilfeträgern, Schu-
+– Das Europa JUGEND Büro verfolgt das Ziel, Hamburger Jugendhilfeträgern, Schu-
 
 len und interessierten jungen Menschen in der Freien Hansestadt den Zugang zu und die Teilhabe an jugendpolitisch relevanten EU-Förderprogrammen zu erschließen und zu sichern.
 
- Das Creative Europe Desk (CED) ist eine der Nationalen Kontaktstellen des EU-
+– Das Creative Europe Desk (CED) ist eine der Nationalen Kontaktstellen des EU-
 
 Programms Creative Europe. Es umfasst zwei Teilprogramme: Das Teilprogramm MEDIA zur Förderung der audiovisuellen Branche und das Teilprogramm KULTUR zur Förderung der darstellenden und bildenden Kunst, des Kulturerbes und anderer Kulturbereiche.
 
- Der Verein „European Film Promotion e.V.“ (EFP) ist ein europäisches Netzwerk
+– Der Verein „European Film Promotion e.V.“ (EFP) ist ein europäisches Netzwerk
 
 mit Sitz in Hamburg, das international den europäischen Film und seine Schauspieler, Regisseure und Produzenten fördert und über das Medium Film die Vielfalt Europas spiegelt.
 
- Alle EU-geförderten Projekte mit Hamburger Beteiligten leisten für ihr jeweiliges
+– Alle EU-geförderten Projekte mit Hamburger Beteiligten leisten für ihr jeweiliges
 
 Projekt Öffentlichkeitsarbeit.
 
@@ -251,23 +252,23 @@ Welche Einrichtungen und zuständigen Stellen gibt es in Hamburg, die persönlic
 
 Folgende, unter 1. genannte Stellen, bieten persönliche Beratung an:
 
- Der Info-Point Europa berät individuell zu Fragen der europäischen Gesetzgebung,
+– Der Info-Point Europa berät individuell zu Fragen der europäischen Gesetzgebung,
 
 über die Möglichkeiten des Lebens, Arbeitens, Lernens und Studierens in Europa und zu europäischen Initiativen und Förderprogrammen.
 
- Das Enterprise Europe Network Hamburg/Schleswig-Holstein bietet Informations-
+– Das Enterprise Europe Network Hamburg/Schleswig-Holstein bietet Informations-
 
 veranstaltungen und persönliche Beratung insbesondere für Vertreterinnen und Vertreter von kleinen und mittleren Unternehmen, aber auch für größere Unternehmen, Forschungseinrichtungen und Universitäten sowie Multiplikatoren an.
 
- Der Creative Europe Desk richtet sich mit seinen Beratungen an Kultur- und Medi-
+– Der Creative Europe Desk richtet sich mit seinen Beratungen an Kultur- und Medi-
 
 enschaffende.
 
- Das Europa Jugend Büro informiert Jugendliche über Wege und Möglichkeiten, ins
+– Das Europa Jugend Büro informiert Jugendliche über Wege und Möglichkeiten, ins
 
 Ausland zu gehen, mit dem Ziel Hamburger Jugendhilfeträgern, Schulen sowie interessierten jungen Menschen in der Hansestadt den Zugang zu und die Teilhabe an jugendpolitisch relevanten EU-Förderprogrammen zu erschließen und zu sichern. Das beinhaltet die persönliche Beratung zur Teilnahme an EU-Mobilitätsprogrammen. Zusätzlich hat der Träger die Aufgabe über EU-Fördermöglichkeiten für Austauschmaßnahmen in Schulen zu informieren und Veranstaltungen für sozialpädagogische Fach- und Führungskräfte zum Thema: „Fördermöglichkeiten europäischer Mobilitätsprogramme“ durchzuführen.
 
- Bezogen auf ihre speziellen Schwerpunkte und Zielgruppen bieten auch die Ham-
+– Bezogen auf ihre speziellen Schwerpunkte und Zielgruppen bieten auch die Ham-
 
 burger Universitäten und Hochschulen persönliche Beratung an, zum Beispiel zur Nutzung der Erasmus-Programme für Studierendenaustausche oder zur Einwerbung von Forschungsgeldern aus den europäischen Förderprogrammen (allen voran Horizon 2020).
 
@@ -303,13 +304,13 @@ b. Welche Veranstaltungen sind in welchem Zeitraum dazu geplant?
 
 Die Europawoche wird in diesem Jahr vom 2. bis 15. Mai stattfinden. Traditionell finden in Hamburg jedoch von Ende April bis Anfang Juni Veranstaltungen zum Themenkomplex Europa statt. Konkret geplant sind bereits folgende Veranstaltungen:
 
- 4. Mai 2018: EU-Projekttag an Hamburger Schulen
+– 4. Mai 2018: EU-Projekttag an Hamburger Schulen
 
- 14. Mai 2018: Senatsveranstaltung zur Europawoche im Rathaus
+– 14. Mai 2018: Senatsveranstaltung zur Europawoche im Rathaus
 
- 15. Mai 2018: Lange Nacht der Konsulate
+– 15. Mai 2018: Lange Nacht der Konsulate
 
- 2. bis 15. Mai 2018: Ausstellung zum europäischen Jahr des kulturellen Erbes mit
+– 2. bis 15. Mai 2018: Ausstellung zum europäischen Jahr des kulturellen Erbes mit
 
 dem Hamburger Denkmalschutzamt
 
@@ -347,11 +348,11 @@ Zuständige Mitarbeiter für Belange zum Thema Europa
 2017  
 2018  
 Senatskanzlei  
-  
+–  
 Hanse Office  
-  
+–  
 Landesvertretung  
-  
+–  
 Europareferat  
 BUE (seit 2015)  
 BWFG (VZÄ)  
@@ -368,17 +369,17 @@ Europathemen betroffen. Im Zeitraum von 2011 bis 2018 arbeiteten
 in den Steuerfachabteilungen der Finanzbehörde 42 Mitarbeiterinnen  
 und Mitarbeiter.  
 BKM  
-  
+–  
 Stabsstelle EU-
 
 Förderung, Fundraising, Stiftungen
 
-  
+–  
 Co2ol Bricks  
 1,5  
 1,5  
 1,7  
-  
+–  
 Jahr des europäischen
 
 kulturellen Erbes
@@ -387,9 +388,9 @@ kulturellen Erbes
 
 BGV  
 BWVI  
-  
+–  
 Referat Europa  
-  
+–  
 EFRE-
 
 Verwaltungsbehörde
@@ -404,25 +405,25 @@ Verwaltungsbehörde
 4-5
 
 BASFI  
-  
+–  
 Präsidialabteilung  
-  
+–  
 ESF-
 
 Verwaltungsbehörde
 
 Justizbehörde (zeitanteilig)  
-  
+–  
 Europäische und internationale Angelegenheiten  
 des Justizvollzuges
 
-  
+–  
 Europäischer Sozialfonds  
-  
+–  
 Europarecht sowie Verfahren vor europäischen  
 Gerichten aus dem Bereich der Justizbehörde
 
-  
+–  
 Leitung Teilprojekt Recht  
 -  
 -  
@@ -441,38 +442,38 @@ des Projekts „Einrichtung
 einer Lokalkammer des  
 Europäischen Patentgerichts“  
 Bezirksamt Bergedorf  
-  
+–  
 Sachbearbeitung
 
 Sozialraumplanung (ESF)
 
 0,5 0,5 0,5
 
- Leitung Projekt
+– Leitung Projekt
 
 mySmartLife
 
 1,0 1,0 1,0
 
- Sachbearbeitung Pro-
+– Sachbearbeitung Pro-
 
 jekt mySmartLife
 
 0,8 0,8
 
- Sachbearbeitung Pro-
+– Sachbearbeitung Pro-
 
 jekt mySmartLife
 
 1,0
 
- Sachbearbeitung Pro-
+– Sachbearbeitung Pro-
 
 jekt mySmartLife
 
 1,0
 
- Sachbearbeitung Pro-
+– Sachbearbeitung Pro-
 
 jekt BSR electric
 
@@ -510,22 +511,22 @@ Was konkret plant der Senat an Mitteln aus dem Haushalt in 2018 für europapolit
 2017  
 2018  
 Senatskanzlei  
-  
+–  
 Europawoche  
 28.029,54 Euro  
 22.470,05 Euro  
 ca. 25.000 Euro  
-  
+–  
 Weitere Veranstaltungen  
 15.184,08 Euro  
 4.159,95 Euro  
 In Planung  
-  
+–  
 Info-Point Europa  
 52.000,00 Euro  
 58.000,00 Euro  
 58.000,00 Euro  
-  
+–  
 Europa-Union Hamburg  
 40.000,00 Euro  
 37.000,00 Euro  
@@ -557,7 +558,7 @@ In Planung
 
 BSB
 
-Die von der für Bildung zuständigen Behörde durchgeführten europäischen Maßnahmen und Veranstaltungen wurden bzw. werden u.a. über den Pädagogischen Austauschdienst der Kultusministerkonferenz finanziert.  Landeszentrale für politi-
+Die von der für Bildung zuständigen Behörde durchgeführten europäischen Maßnahmen und Veranstaltungen wurden bzw. werden u.a. über den Pädagogischen Austauschdienst der Kultusministerkonferenz finanziert. – Landeszentrale für politi-
 
 sche Bildung
 
@@ -565,7 +566,7 @@ sche Bildung
 5.000 Euro  
 In Planung  
 BWVI  
-  
+–  
 EFRE-
 
 Verwaltungsbehörde
@@ -577,7 +578,7 @@ Seit dem Jahr 2016 konnten die Beteiligungen der EFRE-Verwaltungsbehörde an div
 Informationsmaterialien sowie für eine  
 größere Veranstaltung)  
 BASFI  
-  
+–  
 ESF-Verwaltungsbehörde
 
 (Zur Umsetzung der  

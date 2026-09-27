@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 35
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8916", "20/13678", "21/1642", "21/1037"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50947"
@@ -75,7 +76,7 @@ Welche wissenschaftlichen Kongresse sind bislang für 2016 – 2020 in Zusammena
 
 Wo werden die unter Punkt 4. aufgeführten Kongresse jeweils (hauptsächlich) stattfinden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Aus Datenschutz- und Wettbewerbsgründen kann das HCB die Veranstaltungstitel nicht nennen. In der folgenden Tabelle finden sich ausschließlich Veranstaltungen, für die die Verträge bereits geschlossen sind:
 
@@ -154,23 +155,23 @@ Welche Dienstleistungen bietet das Hamburg Convention Bureau für Hamburger Hoch
 
 Das HCB bietet den Mitarbeiterinnen und Mitarbeitern von Universitäten und Hochschulen folgende Dienstleistungen an:
 
-• Recherche adäquater Veranstaltungsräume
+– Recherche adäquater Veranstaltungsräume
 
-• Erstellung der Bewerbungsunterlagen für Veranstaltungen
+– Erstellung der Bewerbungsunterlagen für Veranstaltungen
 
-• Vorschläge für Empfänge/Begleitprogramme
+– Vorschläge für Empfänge/Begleitprogramme
 
-• Organisation und Durchführung von Vor-Ort-Besichtigungen
+– Organisation und Durchführung von Vor-Ort-Besichtigungen
 
-• Einholung von Zimmerkontingenten
+– Einholung von Zimmerkontingenten
 
-• Vermittlung von Kongress- und Veranstaltungsagenturen
+– Vermittlung von Kongress- und Veranstaltungsagenturen
 
-• Kontakte zur Stadt und zu Clusterinitiativen
+– Kontakte zur Stadt und zu Clusterinitiativen
 
-• Beratung bei örtlichen Dienstleistungen (Behörden, ÖPNV, Service-Unternehmen)
+– Beratung bei örtlichen Dienstleistungen (Behörden, ÖPNV, Service-Unternehmen)
 
-• Kostenfreie Bereitstellung von Informationsmaterialien
+– Kostenfreie Bereitstellung von Informationsmaterialien
 
 Für die Dienstleistungen des HCB fallen bei den wissenschaftlichen Einrichtungen keine Kosten an.
 
@@ -238,6 +239,6 @@ Um internationale Fachtagungen und Kongresse nach Hamburg zu holen, ist auch ein
 
 Ist es geplant, Vertreter der Hochschulen und Universitäten im kommenden Jahr an internationalen Delegationsreisen teilnehmen zu lassen? Wenn ja: bei welchen Reisen? Inwiefern wird es im Ausland Gespräche mit anderen wissenschaftlichen Einrichtungen und Verbänden geben?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Ja. Unter anderem ist geplant, dass an einer Delegationsreise der Zweiten Bürgermeisterin nach Groningen im Januar auch Vertreterinnen und Vertreter der Hochschulen teilnehmen. Im Übrigen siehe Drs. 21/1642 und 21/1037.

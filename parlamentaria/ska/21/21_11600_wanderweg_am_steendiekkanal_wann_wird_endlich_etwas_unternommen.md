@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6114", "21/6505", "21/10643", "21/11519"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60827"

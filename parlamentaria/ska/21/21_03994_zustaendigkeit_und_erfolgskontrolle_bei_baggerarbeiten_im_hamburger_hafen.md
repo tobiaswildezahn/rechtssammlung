@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2474"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52381"
@@ -91,15 +92,15 @@ Auf welcher Entscheidungsgrundlage entscheidet wer darüber, in welcher Reihenfo
 
 Die HPA unterhält das Gewässer. Ziel ist es, mit einem effizienten, wirtschaftlichen Einsatz der Geräte und Mittel einen möglichst großen Nutzen für den Hafen und die Hafenkunden zu erreichen. Für die Abarbeitung der Instandhaltungsmaßnahmen werden zusätzlich unter anderem die folgenden Kriterien berücksichtigt:
 
- Ausmaß der Mindertiefe,
+– Ausmaß der Mindertiefe,
 
- Grad und Umfang der Kundenbetroffenheit,
+– Grad und Umfang der Kundenbetroffenheit,
 
- Verbringort für das Baggergut (Land, Gewässer, Kapazitäten),
+– Verbringort für das Baggergut (Land, Gewässer, Kapazitäten),
 
- Gesetzlicher und genehmigungsrechtlicher Rahmen,
+– Gesetzlicher und genehmigungsrechtlicher Rahmen,
 
- Umweltauflagen.
+– Umweltauflagen.
 
 Um flexibel unter anderem auf die Belegung von Kaistrecken reagieren zu können, haben die Geräte immer gleichzeitig mehrere Aufträge für unterschiedliche Gebiete.
 
@@ -121,12 +122,12 @@ Wann wurden zuletzt im Binnenhafen, Zollkanal, Nikolaifleet, Kehrwiederfleet und
 
 #### Antwort zu Frage 8
 
- Binnenhafen: April 2014 (im Bereich der Flussschifferkirche)
+– Binnenhafen: April 2014 (im Bereich der Flussschifferkirche)
 
- Zollkanal: September 2013
+– Zollkanal: September 2013
 
- Kehrwiederfleet: keine Baggerung seit 2000*
+– Kehrwiederfleet: keine Baggerung seit 2000*
 
- Brooksfleet: keine Baggerung seit 2000
+– Brooksfleet: keine Baggerung seit 2000
 
- Nikolaifleet: 2011
+– Nikolaifleet: 2011

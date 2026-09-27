@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 19
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14044"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63446"
@@ -129,7 +130,7 @@ War der Täter in der Vergangenheit bereits strafrechtlich in Erscheinung getret
 
 Hat es in diesem Zusammenhang Verurteilungen gegeben? Falls ja, welche und wann?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Drs. 21/14044.
 
@@ -141,6 +142,6 @@ Hat der Täter zum Zeitpunkt des Verbrechens Waffen mit sich geführt? Falls ja,
 
 Wie viele Zeugenaussagen sind mittlerweile bei der Polizei eingegangen?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Antwort zu 1.

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10829", "21/13258"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63422"
@@ -122,21 +123,21 @@ Das Deutsche Elektronen-Synchrotron (DESY) unterhält insgesamt 137 Kooperations
 
 Beispiele für Themen der Forschungs- und Entwicklungszusammenarbeit am DESY sind:
 
- Zusammenarbeit im Bereich Photon Science/Synchrotronstrahlung
+– Zusammenarbeit im Bereich Photon Science/Synchrotronstrahlung
 
- Zusammenarbeit im Bereich Detektorentwicklung (zum Beispiel Development of a
+– Zusammenarbeit im Bereich Detektorentwicklung (zum Beispiel Development of a
 
 CMOS Image Sensor for Low Energy x-ray detection)
 
- Zusammenarbeit PETRA und HERA-Beschleuniger, zum Beispiel ZEUS-
+– Zusammenarbeit PETRA und HERA-Beschleuniger, zum Beispiel ZEUS-
 
 Experiment
 
- Zusammenarbeit im Bereich Serial femtosecond crystallography, molecular biology
+– Zusammenarbeit im Bereich Serial femtosecond crystallography, molecular biology
 
 use of FEL
 
- Zusammenarbeit auch im Bereich der Ausbildung von Doktoranden und Doktoran-
+– Zusammenarbeit auch im Bereich der Ausbildung von Doktoranden und Doktoran-
 
 dinnen, bei Industrieausstellungen sowie bei gemeinsamen EU-Projekten
 
@@ -148,31 +149,31 @@ Das Bernhard-Nocht-Institut für Tropenmedizin (BNITM) hat zur Zeit aktive Partn
 
 Das Helmholtz-Zentrum Geesthacht Zentrum für Material- und Küstenforschung (HZG) arbeitet mit folgenden wissenschaftlichen Einrichtungen in Großbritannien zusammen:
 
- University of Hertfordshire (EU Projekt: Enviguard/Development of a biosensor
+– University of Hertfordshire (EU Projekt: Enviguard/Development of a biosensor
 
 technology for environmental monitoring and disease prevention in aquaculture ensuring food safety)
 
- Natural Environment Research Council: (EU Projekt: CEASELESS/Copernicus
+– Natural Environment Research Council: (EU Projekt: CEASELESS/Copernicus
 
 Evolution and Applications with Sentinel Enhancements and Land Effluents for Shores and Seas)
 
- Science and Technology Facilities Council/Swindon (EU Projekt: Tumocs/Tuneable
+– Science and Technology Facilities Council/Swindon (EU Projekt: Tumocs/Tuneable
 
 multiferroics based on oxygen octahedral structures);
 
- University of York (EU-Projekt: EMMC-CSA European Materials Modelling Council)
+– University of York (EU-Projekt: EMMC-CSA European Materials Modelling Council)
 
- University of Newcastle (EU Projekt: CLINSH/Clean Inland Shipping);
+– University of Newcastle (EU Projekt: CLINSH/Clean Inland Shipping);
 
- Cranfield University (EU Projekt: LASIMM/Large Additive Subtractive Integrated
+– Cranfield University (EU Projekt: LASIMM/Large Additive Subtractive Integrated
 
 Modular Machine);
 
- University of Birmingham/University of Stirling / University College York (EU Pro-
+– University of Birmingham/University of Stirling / University College York (EU Pro-
 
 jekt: DANUBIUS-PP/Preparatory Phase for the Pan-European Research Infrastructure Danubius–Ri “The International Centre for Advanced Studies on River-Sea Systems”)
 
- The  
+– The  
 Glasgow  
 Caledonian  
 University/University  
@@ -182,11 +183,11 @@ Surrey
 Projekt:  
 OPERANDUM/OPEn-air laboRAtories for Nature baseD solUtions to Manage environmental risks)
 
- NERC-Southampton Oceanography Centre/European Centre for Medium-Range
+– NERC-Southampton Oceanography Centre/European Centre for Medium-Range
 
 Weather Forecast/Reading (EU-Projekt: WAVEFLOW/Consistent wave-mean flow modelling in coupled atmosphere-wave-ocean models)
 
- University of Reading (Climpre_Pacmedy/Klimasimulation für verschiedene
+– University of Reading (Climpre_Pacmedy/Klimasimulation für verschiedene
 
 Abschnitte der Erdgeschichte)
 
@@ -202,53 +203,53 @@ Der amtierende Direktor des DHI London, Prof. Dr. Andreas Gestrich, ist Mitglied
 
 Am Hans-Bredow-Institut für Medienforschung bestehen folgende Partnerschaften mit britischen Einrichtungen:
 
- Projekt COST-Action „The Digital Literacy and Multimodal Practices of Young Chil-
+– Projekt COST-Action „The Digital Literacy and Multimodal Practices of Young Chil-
 
 dren (DigiLitEY)” mit der University of Sheffield
 
- Forschungsnetzwerk Entangled Media Histories (EMHIS) mit der Bournemouth
+– Forschungsnetzwerk Entangled Media Histories (EMHIS) mit der Bournemouth
 
 University und der Aberystwyth University
 
- Projekt „EU Kids Online – Internetnutzung von Kindern und Jugendlichen im euro-
+– Projekt „EU Kids Online – Internetnutzung von Kindern und Jugendlichen im euro-
 
 päischen Vergleich“ mit der London School of Economics and Political Science
 
- Projekt „Journalism Elsewhere“ mit der Cardiff University
+– Projekt „Journalism Elsewhere“ mit der Cardiff University
 
- Projekt „Reuters Institute Digital News Survey“ mit dem Reuters Insitute for the
+– Projekt „Reuters Institute Digital News Survey“ mit dem Reuters Insitute for the
 
 Study of Journalism
 
- Forschungsnetzwerk „Network of Internet and Society Research Centers (NoC)”
+– Forschungsnetzwerk „Network of Internet and Society Research Centers (NoC)”
 
 mit der University of Oxford
 
- Projekt (beantragt) „Coordination and Support Action” mit der London School of
+– Projekt (beantragt) „Coordination and Support Action” mit der London School of
 
 Economics and Political Science
 
 Am European Molecular Biology Laboratory (EMBL) bestehen folgende Partnerschaften mit britischen Einrichtungen:
 
- Projekt „Utilisation of Staphylococcal immune evasion protein Sbi as a novel vac-
+– Projekt „Utilisation of Staphylococcal immune evasion protein Sbi as a novel vac-
 
 cine adjuvant“ mit der University of Bath
 
- Projekt „Structure-specific recognition protein-1 (SSRP1): overall shape and his-
+– Projekt „Structure-specific recognition protein-1 (SSRP1): overall shape and his-
 
 tone binding” mit dem Cancer Research UK Beatson Institute
 
- Projekt „Conformational transition of FGFR kinase activation” mit dem Institute of
+– Projekt „Conformational transition of FGFR kinase activation” mit dem Institute of
 
 Structural and Molecular Biology der University College London
 
- Projekt „Structural studies of the intrinsically unfolded protein ataxin-3” mit dem
+– Projekt „Structural studies of the intrinsically unfolded protein ataxin-3” mit dem
 
 Laboratory Maurice Wohl Clinical Neuroscience Institute
 
- Projekt „Struktur von Muskelproteinen” mit dem King´s College London
+– Projekt „Struktur von Muskelproteinen” mit dem King´s College London
 
- Einrichtung des European Bioinformatics Institute des EMBL
+– Einrichtung des European Bioinformatics Institute des EMBL
 
 ### Frage 3
 
@@ -325,6 +326,6 @@ Welche Strategie verfolgt der Hamburger Senat in der Wissenschaftspolitik, um di
 
 Was unternimmt der Senat konkret, um die bestehenden Austausch- und Kooperationsprogramme zwischen Universitäten, Hochschulen und Forschungseinrichtungen in Hamburg und Großbritannien auch bei einem harten Brexit zu schützen beziehungsweise ein Fortbestehen zu sichern?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung.

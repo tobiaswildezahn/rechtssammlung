@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 32
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3456", "21/3337", "21/5171", "21/5686", "21/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55076"
@@ -51,7 +52,7 @@ Wer hat wann die Entscheidung in Hamburg getroffen, dem Wunsch der Bundeskanzler
 
 Ist die Entscheidung über die Austragung des G20-Gipfels für Hamburg verpflichtend und bindend? a. Im Falle von Ziffern 1. a. und b.: Könnte eine solche Entscheidung rückgängig gemacht werden und wenn ja, bis wann? b. Im Falle von Ziffer 1. c.: Hat Hamburg noch die Möglichkeit einer Ablehnung und wenn ja, bis wann?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/3456 und 21/3337. Im Übrigen hat sich der Senat damit nicht befasst.
 
@@ -79,7 +80,7 @@ Welche anderen Veranstaltungsorte sind vom Auswärtigen Amt geprüft worden und 
 
 Hatte Hamburg Mitspracherechte bei der Auswahl des Veranstaltungsortes? a. Wenn nein, auf welcher Rechtsgrundlage kann die Bundesregierung dies ohne Mitsprache von Hamburg allein entscheiden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung. Im Übrigen hat sich der Senat damit nicht befasst.
 

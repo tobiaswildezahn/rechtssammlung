@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 25
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/1681", "21/5000", "21/2368"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56130"
@@ -94,7 +95,7 @@ Wann hat die HPA erstmalig Unterlagen im Zusammenhang mit diesem Projekt bei der
 
 Wann hat die HPA den förmlichen Antrag auf Planfeststellung gestellt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Am 19. Juni 2009.
 

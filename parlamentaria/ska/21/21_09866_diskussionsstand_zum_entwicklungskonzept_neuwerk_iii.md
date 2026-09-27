@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5593", "21/9761"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58679"
@@ -58,19 +59,19 @@ Wie lautete die Tagesordnung?
 
 Folgende Tagesordnungspunkte wurden besprochen:
 
- Begrüßung und technische Fragen
+– Begrüßung und technische Fragen
 
- Themenkatalog
+– Themenkatalog
 
- Weiteres Vorgehen
+– Weiteres Vorgehen
 
- Hinweise weiterer Beteiligter
+– Hinweise weiterer Beteiligter
 
- Fachlicher Einstieg
+– Fachlicher Einstieg
 
- Schlussvereinbarungen
+– Schlussvereinbarungen
 
- Arbeitsaufträge
+– Arbeitsaufträge
 
 ### Frage 3
 
@@ -80,29 +81,29 @@ Welche konkretisierenden Arbeitsaufträge und Aufgabenverteilung wurden zu welch
 
 Wer hat dabei welchen Arbeitsauftrag beziehungsweise welche Aufgabe erhalten?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Das Bezirksamt:
 
- moderiert, protokolliert und informiert,
+– moderiert, protokolliert und informiert,
 
- führt bilaterale Gespräche mit HPA, der BWVI, der BSB, Hamburg-Marketing, der
+– führt bilaterale Gespräche mit HPA, der BWVI, der BSB, Hamburg-Marketing, der
 
 Stadt Cuxhaven, dem Amt für Denkmalschutz und dem Verein Jordsand,
 
- prüft, ob das Strategiepapier für die Vier- und Marschlande ein geeignetes Instru-
+– prüft, ob das Strategiepapier für die Vier- und Marschlande ein geeignetes Instru-
 
 ment darstellt,
 
- prüft den rechtlichen Rahmen,
+– prüft den rechtlichen Rahmen,
 
- erstellt einen Zeitplan,
+– erstellt einen Zeitplan,
 
- prüft, ob es messbare Schäden durch die zunehmende Zahl der Gänse gibt und
+– prüft, ob es messbare Schäden durch die zunehmende Zahl der Gänse gibt und
 
 welche Konsequenzen sich daraus ableiten lassen,
 
- führt alle Gespräche mit der Presse beziehungsweise die Kommunikation nach
+– führt alle Gespräche mit der Presse beziehungsweise die Kommunikation nach
 
 außen.
 
@@ -121,6 +122,6 @@ vereinbart?
 a) Wenn ja, wann?  
 b) Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Termine wurden noch nicht festgesetzt. Zunächst sollen auf Arbeitsebene die offenen Punkte ausgetauscht, erörtert und anschließend einvernehmlich abgestimmt werden. Hierzu haben zwischen dem Bezirksamt Hamburg-Mitte und der Behörde für Umwelt und Energie bereits zwei vorbereitende Treffen stattgefunden. Die Gespräche sollen abhängig vom Arbeitsfortschritt nach der Sommerpause wieder aufgenommen werden.

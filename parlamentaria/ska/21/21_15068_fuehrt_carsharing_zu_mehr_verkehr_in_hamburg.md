@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64526"
@@ -70,25 +71,25 @@ Wie viele Carsharing-Angebote gibt es in Hamburg? Bitte nach Anbieter und Anzahl
 
 Der zuständigen Behörde sind folgende Anbieter in Hamburg bekannt:
 
- Cambio
+– Cambio
 
- Car2go
+– Car2go
 
- DriveNow
+– DriveNow
 
- Flinkster
+– Flinkster
 
- Greenwheels
+– Greenwheels
 
- Hertz 24/7
+– Hertz 24/7
 
- Miles (vorher Drive by)
+– Miles (vorher Drive by)
 
- Oply
+– Oply
 
- Share a Starcar
+– Share a Starcar
 
- Ubeequo
+– Ubeequo
 
 Zur  
 jeweiligen  
@@ -109,7 +110,7 @@ Wie hoch ist der Anteil an Carsharing-Angebote am Verkehrsaufkommen im Stadtgebi
 
 Wie hoch wird der Anteil an Carsharing-Angeboten am Verkehrsaufkommen im Stadtgebiet bis 2030 vom Senat eingeschätzt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der zuständigen Behörde liegen hierzu keine belastbaren Erkenntnisse vor.
 

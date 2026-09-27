@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 27
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13679", "21/6387", "21/14468", "21/15509", "21/15805", "21/16426"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66120"
@@ -57,7 +58,7 @@ Wie viel Geld wird für dieses Projekt aus welchen Fördertöpfen und von welche
 
 „Die Stiftung finanziert sich ausschließlich durch Spenden“, heißt es bei der Haspa Stiftung. Wie kommt sie zu dieser Behauptung?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung sowie Drs. 21/6387.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6849"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57247"
@@ -55,11 +56,11 @@ Welche Gremien der HCU haben sich im Jahre 2016 wann mit dem International Offic
 
 Folgende Gremien der HCU haben sich mit dem Thema „International Office“ befasst:
 
- Präsidium (14. Juli 2016, 13. Oktober 2016)
+– Präsidium (14. Juli 2016, 13. Oktober 2016)
 
- Haushaltsausschuss des Hochschulsenats (6. Juli 2016)
+– Haushaltsausschuss des Hochschulsenats (6. Juli 2016)
 
- Hochschulsenat (12. Oktober 2016)
+– Hochschulsenat (12. Oktober 2016)
 
 Dem Präsidium der HCU ist bekannt, dass sich auch der Personalrat und der Allgemeine Studierendenausschuss der HCU (AStA) im Jahr 2016 mit dem Thema „International Office“ befasst haben. Konkrete Termine können allerdings nicht benannt werden.
 

@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 25
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/551"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51130"
@@ -104,7 +105,7 @@ Sind im Falle der Einrichtung einer Fahrradstraße in der und/oder Radfahr- bezi
 
 Wie sieht der genaue Zeitplan, was die weitere Entwicklung und Umsetzung der Pläne – insbesondere der Pläne für die Walddörferstraße/den Berner Heerweg (bis Kreuzung Friedrich-Ebert-Damm) – anbelangt aus? Falls noch kein genauer Zeitablauf vorliegt, bitte grobe Schätzung inklusive Reihenfolge der Abschnitte und jeweils geplanter Maßnahmen angeben.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Diese Aspekte wären Bestandteil einer etwaigen Entwurfsplanung.
 
@@ -124,7 +125,7 @@ Wie viele Parkstände/Parkplätze befinden sich aktuell im Verlauf der Walddörf
 
 Wie würde sich insbesondere mit der Einrichtung einer Fahrradstraße und/oder Radfahr-/Schutzstreifen in der Walddörferstraße und dem Berner Heerweg (bis Kreuzung Friedrich-Ebert-Damm) die Parkplatzsituation entwickeln? a. Wie viele Parkplätze würden wann, wo und warum entfallen? b. Wie viele Parkplätze würden wann, wo und warum verlegt werden? c. Wie viele Parkplätze würden wann, wo und warum neu geschaffen werden?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Zahl der derzeitigen Parkplätze sowie die Auswirkungen auf die zukünftige Parkplatzsituation würden erst im Rahmen einer etwaigen Entwurfsplanung geklärt werden.
 

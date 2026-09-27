@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55106"
@@ -106,13 +107,13 @@ In den Jahren 2014 und 2015 haben insgesamt 24 Frauen Kurzberatungen (unter acht
 
 Abbrüche auf eigenen Wunsch haben insgesamt 26 Personen in den Jahren 2014 und 2015 vorgenommen (von allen bei Aufbruch gemeldeten). Die Ursachen sind individuell und häufig mehrfach gelagert, wobei drei Hauptgründe auszumachen sind:
 
- Fehlende psychosoziale Stabilität (latente oder neu auftretende Probleme, die
+– Fehlende psychosoziale Stabilität (latente oder neu auftretende Probleme, die
 
 zunächst bewältigt werden müssen, bevor (Re-)Integration in Beschäftigung beziehungsweise Ausbildung stattfinden kann)
 
- Umzug oder Rückkehr in die Familie außerhalb Hamburgs
+– Umzug oder Rückkehr in die Familie außerhalb Hamburgs
 
- erforderliche Eigenverantwortung und -leistung für das Coaching nicht aufgebracht
+– erforderliche Eigenverantwortung und -leistung für das Coaching nicht aufgebracht
 
 (Einzelfälle)
 

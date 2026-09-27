@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68513"
@@ -53,7 +54,7 @@ Wurde dem Bund ein Bericht vorgelegt, aus dem die Stellenschaffungen an den Geri
 
 Welche weiteren Voraussetzungen muss die Freie und Hansestadt Hamburg erfüllen, um finanzielle Mittel aus der ersten Tranche des „Pakts für den Rechtsstaat“ zu erhalten? Wie viele Mittel in welcher Höhe sollen an die Freie und Hansestadt Hamburg für die Stellenschaffungen in der Justiz fließen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die vollständige Wiedergabe des Inhalts des Berichts käme einer Aktenvorlage gleich, die gemäß Artikel 30 Verfassung der Freien und Hansestadt Hamburg an Voraussetzungen gebunden ist, die hier nicht vorliegen. Im Übrigen siehe Vorbemerkung.
 

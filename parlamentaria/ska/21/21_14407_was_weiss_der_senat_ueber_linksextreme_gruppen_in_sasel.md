@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3165"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63836"
@@ -59,7 +60,7 @@ Sind dem Senat beziehungsweise der zuständigen Fachbehörde die vermehrt aufkom
 
 Wie viele Sachbeschädigungen in Form von Graffitis, Aufklebern oder ähnlichen sind dem Senat beziehungsweise der zuständigen Fachbehörde seit Januar 2017 in Sasel bekannt? Wie viele dieser Schmierereien hatten einen politischen Hintergrund und wie viele konnten konkret einem Verursacher zugeordnet werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die statistische Erfassung von Straftaten erfolgt bei der Polizei grundsätzlich in der Polizeilichen Kriminalstatistik (PKS); darüber hinaus werden in der Abteilung Staatsschutz im Landeskriminalamt (LKA 7) Straftaten der PMK gesondert im Kriminalpolizeilichen Meldedienst-PMK (KPMD-PMK) erfasst.
 
@@ -81,7 +82,7 @@ Welche anderen Straftaten mit politischem Hintergrund sind dem Senat beziehungsw
 
 Wie viele dieser Straftaten wurden seit Januar 2017 aufgeklärt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage 2.
 

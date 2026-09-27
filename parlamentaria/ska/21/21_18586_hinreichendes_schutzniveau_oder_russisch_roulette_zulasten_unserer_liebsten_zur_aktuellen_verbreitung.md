@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68232"
@@ -59,7 +60,7 @@ Wie viele Kitas, Schulen und Altenheime hat Hamburg aktuell insgesamt? Bitte nac
 
 Wie viele Tempo-30-Zonen hat Hamburg aktuell vor jeweils welchen Hamburger Kitas, Schulen und Altenheimen insgesamt? Bitte nach Kategorie (Kita, Schule, Altenheim) insgesamt und nach jeweiligem Bezirk gesondert darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Auflistung der bestehenden Tempo-30-Zonen beziehungsweise -Strecken befindet sich in den Anlagen 1 (Stand 26.04.2018) sowie um seit diesem Datum neu hinzu gekommene Strecken in Anlage 2 (Stand 10.10.2019).
 

@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4924"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53502"
@@ -43,7 +44,7 @@ Zwar wird erwähnt, dass Fewa Grundstücksgesellschaft GmbH & Co. KG den Auftrag
 
 Zwar wird für den Standort Duvenacker dargestellt, welche Ergebnisse das Gutachten zu den Luftschadstoffen erbracht hat, allerdings wird nichts über die Erkenntnisse der lärmtechnischen Untersuchung geschrieben. Liegen die Ergebnisse bereits vor? Wenn ja, wie sind dort die maßgeblichen Grenzwerte und die Standortwerte? Wenn nein, zu wann ist mit Ergebnissen zu rechnen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Ergebnisse liegen vor, wenn die Gutachten geprüft sind. Dies geschieht in den Baugenehmigungsverfahren beziehungsweise in den Bebauungsplanverfahren.
 

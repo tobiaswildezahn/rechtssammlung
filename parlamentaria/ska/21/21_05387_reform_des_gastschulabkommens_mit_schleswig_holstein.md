@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 36
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1249", "21/4089"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53876"
@@ -81,7 +82,7 @@ Gilt diese Regelung ab dem Schuljahr 2017/2018 für alle Schüler oder aufwachse
 
 Haben Schüler in anderen Klassenstufen zu Beginn des neuen Abkommens einmalig die Chance, ihre Schule frei zu wählen, oder werden alle, die nicht in den Klassen 4 und 10 sind, weiter nach dem alten Abkommen behandelt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Regelung gilt für alle Schülerinnen und Schüler, sofern sie zum Schuljahresbeginn 2017/2018 in eine fünfte oder elfte Jahrgangsstufe übergehen. Im Übrigen siehe Antwort zu 4.
 

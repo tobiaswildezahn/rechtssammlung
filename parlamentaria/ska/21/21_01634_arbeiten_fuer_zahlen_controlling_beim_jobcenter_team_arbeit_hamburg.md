@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/151"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49846"
@@ -65,7 +66,7 @@ Wie viele strukturell ähnliche Jobcenter befinden sich im Cluster, in dem sich 
 
 In wie viele verschiedene Vergleichstypen sind die bundesweiten Jobcenter kategorisiert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Jobcenter team.arbeit.hamburg ist dem Vergleichstyp IIIb zugeordnet. In diesem Vergleichstyp befinden sich 36 Jobcenter mit überdurchschnittlicher Quote erwerbsfähiger Leistungsberechtigter (eLb-Quote) in überwiegend städtischen beziehungsweise verstädterten Regionen mit hohen Wohnkosten, Dienstleistungsarbeitsmärkten und geringer Arbeitsplatzdichte.
 
@@ -93,7 +94,7 @@ Wie hoch ist die Zielerreichung der Gesamt-Integrationen in 2015 von Jobcenter t
 
 Wie hoch ist die Zielerreichung der Integrationen U25 in 2015 von Jobcenter team.arbeit.hamburg? Bitte aufschlüsseln in Anzahl, Monaten und einzelnen Jobcentern.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Es werden keine Zielwerte zu den Gesamt-Integrationen sowie den Integrationen U25 vereinbart. Im Übrigen siehe Vorbemerkung.
 

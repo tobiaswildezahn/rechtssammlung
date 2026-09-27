@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11613"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62356"
@@ -59,7 +60,7 @@ In welcher Anzahl sind solche Vorfälle für den Hamburger Flughafen in den letz
 
 An welchen Orten und mit welcher genauen Datierung fanden diese Vorfälle statt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Auf dem Hamburger Stadtgebiet gab es folgende Vorfälle:
 

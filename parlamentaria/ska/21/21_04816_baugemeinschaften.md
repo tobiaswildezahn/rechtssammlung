@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53247"
@@ -51,7 +52,7 @@ Wie viele Wohneinheiten wurden in 2015 von Baugemeinschaften erstellt? Bitte Anz
 
 Wie viele der erstellten Wohneinheiten sind geförderte Wohnungen? Bitte nach den verschiedenen Förderwegen/Fördersegmenten sowie Rechtsform der Baugemeinschaft als Fördermittelempfänger differenziert angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Bezugsfertige Wohneinheiten (WE) in Baugemeinschaften in 2015 insgesamt 94 WE
 

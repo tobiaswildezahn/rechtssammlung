@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 36
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/37", "21/1958", "21/8426"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57542"
@@ -128,7 +129,7 @@ Bezogen auf Frage 3.: Wie viele dieser aus staatlichen Sonderschulen in andere s
 
 Wie viele Stellen an staatlichen Sonderschulen wurden seit 2011 bis heute (April 2017) bedarfsorientiert beziehungsweise bedarfsbedingt in andere Bereiche als in staatliche Regelschulformen für die Inklusion verlagert und in welche genau? (Bitte für jedes Kalenderjahr und Schuljahr einzeln mit Angabe des Bereiches, in welche die Verlagerungen jeweils erfolgten, mit Nennung der Produktgruppe in absoluten Zahlen und in Prozent in einer Excel-Tabelle angeben.) a. An welchen der einzelnen Standorte waren davon jeweils wie viele Stellen betroffen? (Bitte entsprechend mit Nennung des Standorts samt Bezirk und Stadtteil in der Tabelle zu 5. angeben.) b. Um welche Professionen handelte es sich bei diesen verlagerten Stellen jeweils und von welchem vorherigen in welchen neuen Tätigkeitsbereich/welches neue Tätigkeitsfeld fanden die jeweiligen Verlagerungen statt? (Bitte mit Angabe der Profession in Lehrer/-in, Sonderpädagoge/-in, Erzieher/-in oder PTF und Nennung des Tätigkeitsbereichs mit Produktgruppe entsprechend in der Tabelle zu 5. angeben.) c. Welche sachlichen und fachlichen Gründe bestanden für diese Verlagerungen in nicht Regelschulbereiche jeweils? (Bitte für jedes Kalenderjahr und Schuljahr entsprechend benennen und erläutern.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 

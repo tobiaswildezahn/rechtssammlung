@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 20
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16258", "21/12619", "21/12605"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66283"
@@ -56,7 +57,7 @@ Wie haben sich Belegungsfähigkeit und tatsächliche Belegung in den einzelnen J
 
 Wie hoch waren jeweils Anzahl und Anteil der ausländischen Gefangenen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 

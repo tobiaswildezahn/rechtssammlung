@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 26
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2709"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66141"
@@ -49,7 +50,7 @@ Welche konkreten Erkenntnisse liegen dem Senat über Bodenverunreinigungen der F
 
 Seit wann liegen dem Senat diese Erkenntnisse vor?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Dem zuständigen Bezirksamt liegen drei Gutachten aus den Jahren 2016, 2017 und März 2019 zu Bodenverunreinigungen auf dem Grundstück des Busbetriebshofes vor. Auftraggeber waren die Hamburger Hochbahn AG, das Bezirksamt Hamburg-Nord und der Landesbetrieb Immobilienmanagement und Grundvermögen.
 
@@ -65,7 +66,7 @@ Wer ist rechtlich für die Fläche zuständig?
 
 Seit wann gilt diese Zuständigkeit?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Zuständig ist die derzeitige Eigentümerin Hamburger Hochbahn AG für das Flurstück 4999 seit 1918/1919, für das Flurstück 2172 seit 1951, für das Flurstück 1063 seit 1954 und für das Flurstück 2889 seit 1976.
 
@@ -152,7 +153,7 @@ Inwieweit fand eine Untersuchung der konkreten Flächen dieser potenziellen Veru
 
 Was waren die Ergebnisse dieser Untersuchungen?
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Siehe Antworten zu 1. und 2. sowie 15.
 

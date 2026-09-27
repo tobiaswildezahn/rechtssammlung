@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16788", "21/16804"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67280"
@@ -37,15 +38,15 @@ In einer Antwort auf eine Schriftliche Kleine Anfrage der CDU vom 16. April 2019
 
 ## Einleitung für die Antworten des Senats
 
- Für den Start eines Sharing-Dienstes ist keine gesonderte Genehmigung
+– Für den Start eines Sharing-Dienstes ist keine gesonderte Genehmigung
 
 erforderlich. (Nummer 1.)
 
- „Die Vergabe von Lizenzen oder Konzessionen ist derzeit nicht vorgese-
+– „Die Vergabe von Lizenzen oder Konzessionen ist derzeit nicht vorgese-
 
 hen.“ (Nummer 2.)
 
- „Das Befahren öffentlicher Wege mit und das Abstellen von Elektro-
+– „Das Befahren öffentlicher Wege mit und das Abstellen von Elektro-
 
 Tretrollern und anderen Elektrokleinstfahrzeugen (analog zu Fahrrädern) auf öffentlichen Wegen im Rahmen der Teilnahme am Verkehr ist vom Gemeingebrauch umfasst.“ (Nummer 4.)
 
@@ -81,7 +82,7 @@ Welche Regelungen sind in einem Rahmenvertrag überhaupt möglich?
 
 Welche Inhalte oder Vorgaben können in Lizenzen oder Konzessionen behandelt werden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Ob und welche Regelungen, Inhalte und Vorgaben in Rahmenverträgen, Konzessionen und Lizenzen getroffen werden können, hängt vom Einzelfall ab; enumerative Vorgaben, Regelungen oder Inhalte bestehen nicht.
 

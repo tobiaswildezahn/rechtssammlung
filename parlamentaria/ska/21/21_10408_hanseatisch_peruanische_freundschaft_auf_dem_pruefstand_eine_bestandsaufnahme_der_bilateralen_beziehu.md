@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 24
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59278"
@@ -83,11 +84,11 @@ Darüber hinaus steht auch der wissenschaftliche Austausch zwischen Peru und Ham
 
 Aktuell existiert eine Kooperation zwischen der Universität Hamburg (UHH)/Fakultät MIN, Fachbereich Biologie und der Universidad Nacional Agraria La Molina (UNALM) in Lima/Peru. Dies beinhaltet:
 
- seit 04/2016: Memorandum of Understanding; Vereinbarung über einen Studieren-
+– seit 04/2016: Memorandum of Understanding; Vereinbarung über einen Studieren-
 
 denaustausch
 
- seit 09/2014: Memorandum of Understanding; allgemeine Absichtserklärung zur
+– seit 09/2014: Memorandum of Understanding; allgemeine Absichtserklärung zur
 
 Zusammenarbeit in der Forschung und Lehre
 
@@ -95,11 +96,11 @@ Es existiert ein MoU zwischen der UHH/Fakultät für Geisteswissenschaften und d
 
 In der Vergangenheit gab es einzelne Kontakte und Vereinbarungen auf Fakultätsebene (Geisteswissenschaften, Medizin):
 
- 2013: Gastvortrag von Jose Antonio de Echave (peruanischer Wirtschaftswissen-
+– 2013: Gastvortrag von Jose Antonio de Echave (peruanischer Wirtschaftswissen-
 
 schaftler und ehemaliger Vizeminister für Umweltmanagement) an der UHH/Lateinamerikastudien
 
- 2010 – 2013: Studierendenaustausch mit der Universidad Católica de Santa Maria
+– 2010 – 2013: Studierendenaustausch mit der Universidad Católica de Santa Maria
 
 (UCSM); UHH/Medizin
 

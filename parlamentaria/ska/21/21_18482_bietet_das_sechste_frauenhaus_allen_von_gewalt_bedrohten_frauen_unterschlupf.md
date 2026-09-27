@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18357", "21/17237", "21/17975"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68141"
@@ -66,7 +67,7 @@ Die Service- und Koordinierungsstelle 24/7 nimmt zunächst alle gewaltbedrohten 
 
 Drs. 21/17237 informiert darüber, dass im Jahr 2018 967 Frauen und Kinder nach Aufnahme von 24/7 von dort aus weitervermittelt wurden. 540 Personen (55 Prozent) wurden in Frauenhäuser in Hamburg, Schleswig-Holstein und in andere Bundesländer vermittelt. 427 kamen aber nicht in ein Frauenhaus. Wie viele dieser 427 Personen waren nicht anspruchsberechtigt, um in ein Frauenhaus vermittelt zu werden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Aufnahme und Weitervermittlung schutzsuchender Frauen ist in Hamburg unabhängig von möglichen Rechtsansprüchen. Ob eine Frau aus der Notaufnahme der Service- und Koordinierungsstelle 24/7 in ein Frauenhaus oder eine andere Einrichtung vermittelt wird beziehungsweise sich andere Lösungen, wie zum Beispiel die Unterkunft bei Freunden oder Verwandten, finden, ist eine individuelle Entscheidung, die von den Mitarbeiterinnen der 24/7 im Clearinggespräch gemeinsam mit den Betroffenen getroffen wird. Im Übrigen siehe Drs. 21/17975.
 

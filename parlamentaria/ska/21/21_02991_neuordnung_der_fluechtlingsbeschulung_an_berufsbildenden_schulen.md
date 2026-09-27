@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1953", "21/2644"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51339"
@@ -178,7 +179,7 @@ Wie viele Lehrkräfte sind für den Unterricht dieser Klassen notwendig? Bitte i
 
 Wie viele Lehrkräfte sind hierfür zusätzlich eingestellt worden? Bitte in Vollzeitäquivalenten angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Für jede zusätzliche Klasse werden im erforderlichen Umfang Lehrkräfte eingestellt, sofern an der Schule nicht bereits eine ausreichende Anzahl an Lehrkräften vorhanden ist. Die Zahl der zu besetzenden Stellen entwickelt sich aufgrund der sich laufend verändernden Bedarfssituation dynamisch, siehe Drs. 21/2644. Mit Stand 26. Januar
 
@@ -202,7 +203,7 @@ Wie viele Praktikumsplätze stehen zum 1. Februar zur Verfügung im Rahmen des n
 
 Kann der Bedarf an Praktikumsplätzen wie geplant vollständig gedeckt werden? Wenn nein: in welchem Umfang und warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Ja. Siehe Drs. 21/2644.
 

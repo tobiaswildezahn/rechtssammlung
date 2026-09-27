@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14106"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53402"
@@ -75,7 +76,7 @@ Wie viele Stellen sind bei welchen Unternehmen der Windkraftbranche in Hamburg w
 
 Wie viele Stellen waren bei welchen Unternehmen der Windkraftbranche in Hamburg wann jeweils jährlich seit 2012 vorhanden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Konkrete Informationen zu einzelnen Unternehmen liegen der zuständigen Behörde nicht vor. Für die gesamte Branche in Hamburg wurde im Jahr 2012 ein Gutachten durch die Firma Prognos erstellt, das in Hamburg 14.100 und in der Metropolregion circa 24.700 Mitarbeiterinnen und Mitarbeiter in circa 1.500 Unternehmen der Erneuerbare-Energien-Branche ausweist. Davon sind geschätzt 60 Prozent im Bereich der Windenergie tätig. Seit 2012 hat sich die Branche infolge der starken Veränderungen der gesetzlichen Rahmenbedingungen konsolidiert. In Abstimmung mit dem Cluster Erneuerbare Energien Hamburg (EEHH) ist die Beschäftigungslage in der Metropolregion geschätzt etwa gleich geblieben.
 

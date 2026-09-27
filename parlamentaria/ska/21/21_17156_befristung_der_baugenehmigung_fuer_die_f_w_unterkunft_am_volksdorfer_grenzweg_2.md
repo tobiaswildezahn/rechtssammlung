@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2797", "21/16651"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66733"
@@ -75,7 +76,7 @@ Ist es zutreffend, dass sich aus der ursprünglichen Baugenehmigung die Vorgabe 
 
 Inwiefern ergibt sich durch den am 20.03.2019 eingegangenen Antrag eine aufschiebende Wirkung für die Befristung der bisherigen Baugenehmigung?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Das Einreichen eines Verlängerungsantrages hat keine Auswirkung auf die Gültigkeit einer Genehmigung. Während des Prüfverfahrens eines Antrages auf Verlängerung wird jedoch ein Rückbau seitens der Verwaltung nicht durchgesetzt, da dies nicht verhältnismäßig wäre.
 

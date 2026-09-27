@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 35
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3165", "21/6207"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67058"
@@ -47,23 +48,23 @@ Die Bewertung bestimmter Verhaltensweisen als Bestrebungen gegen die freiheitlic
 
 Entsprechende Beiträge ziehen die Verfassungsschutzbehörden zur Bewertung heran. Vergleiche hierzu insbesondere:
 
- Hans-Gerd Jaschke: Rechtsextremismus und Fremdenfeindlichkeit. Begriffe, Posi-
+– Hans-Gerd Jaschke: Rechtsextremismus und Fremdenfeindlichkeit. Begriffe, Posi-
 
 tionen, Praxisfelder. 2. Auflage, Wiesbaden 2001.
 
- Richard Stöss: Rechtsextremismus im Wandel, Berlin 2010 (herausgegeben von
+– Richard Stöss: Rechtsextremismus im Wandel, Berlin 2010 (herausgegeben von
 
 der Friedrich-Ebert-Stiftung).
 
- Julian Bruns/Kathrin Glösel/Natascha Strobl: Die Identitären. Handbuch zur
+– Julian Bruns/Kathrin Glösel/Natascha Strobl: Die Identitären. Handbuch zur
 
 Jugendbewegung der Neuen Rechten in Europa. 3., aktualisierte Auflage, Münster 2017.
 
- Uwe Backes: Gestalt und Bedeutung des intellektuellen Rechtsextremismus in
+– Uwe Backes: Gestalt und Bedeutung des intellektuellen Rechtsextremismus in
 
 Deutschland, in: Aus Politik und Zeitgeschichte B 46/2001, Seiten 24 – 30.
 
- Florian Finkbeiner: Armin Mohler und die Frühgeschichte der Neuen Rechten in
+– Florian Finkbeiner: Armin Mohler und die Frühgeschichte der Neuen Rechten in
 
 Deutschland, in: Armin Pfahl-Traughber: Jahrbuch Extremismus und Terrorismusforschung 2015/2016 (I), Brühl 2016, Seiten 209 – 233.
 
@@ -109,7 +110,7 @@ Wie haben sich die bis heute gesammelten Belege gemäß Frage 5. in ihrem Verlau
 
 Hat das LfV Kenntnis von Quellen/Aussagen/Aktionen, aus denen hervorgeht, dass sich die „Identitäre Bewegung Hamburg“ glaubhaft von einer pauschalen und rassistisch motivierten Abwertung beziehungsweise Herabwürdigung anderer ethnischer Gruppen distanziert? Bitte darlegen. Sollte das LfV mögliche dahingehende Quellen/Aussagen/Aktionen als „unglaubwürdig“ oder als „taktisch“ einstufen: Welche Gründe führen zu dieser Einstufung als „unglaubwürdig“ oder „taktisch“? Bitte detailliert anhand einzelner Beispiele inklusive der Kontexte erläutern.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Nein.
 
@@ -134,7 +135,7 @@ Wie viele Gewaltdelikte sind den Ordnungsbehörden und/oder dem LfV eigentlich b
 
 Inwieweit hat das LfV die Öffentlichkeit jemals über Gewalttaten mit deutschfeindlichem Hintergrund informiert? Inwieweit plant das LfV, darüber zu informieren? Insbesondere: Warum hat Torsten Voß weder auf dem Symposium noch sonst wann in der Öffentlichkeit als Leiter des Amtes für Verfassungsschutz über Gewalttaten mit einem deutschfeindlichen Hintergrund gesprochen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Daten im Sinne der Fragestellung werden in der Kriminaltaktischen Anfrage in Fällen Politisch motivierter Kriminalität (KTA-PMK) erst seit dem 1. Januar 2019 statistisch auswertbar erfasst. Im Zeitraum 1. Januar bis 31. Mai 2019 wurden mit Stand 7. Juni 2019 keine Straftaten im Sinne der Fragestellung in der KTA-PMK registriert. Darüber hinaus werden Statistiken im Sinne der Fragestellung bei der Polizei nicht geführt. Zur Beantwortung wäre eine Durchsicht aller Hand- und Ermittlungsakten des erfragten Zeitraums beim Landeskriminalamt (LKA 7 – Staatsschutz) erforderlich. Die Auswertung mehrerer Tausend Akten ist in der für die Beantwortung Parlamentarischer Anfragen zur Verfügung stehenden Zeit nicht möglich.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5907"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54719"
@@ -51,7 +52,7 @@ Trifft es zu, dass das Netzwerk psychenet im Jahre 2015 anlässlich der Aktionsw
 
 Welche Förderung erhält das Netzwerk psychenet pro Jahr? Wie viel ist sind für Veranstaltungen im Rahmen der Aktionswochen Seelische Gesundheit vorgesehen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 „psychenet Hamburger Netz psychische Gesundheit!“ war ein in den Jahren 2011 bis 2015 vom Bundesministerium für Bildung und Forschung (BMBF) gefördertes, primär wissenschaftliches Projekt. Es ist nicht Auftrag des Netzwerkes anlässlich der Aktionswochen Seelische Gesundheit aktiv zu werden. Der zuständigen Behörde liegen keine Informationen über die Beteiligung an den Aktionswochen Seelische Gesundheit vor. Seit Anfang 2016 besteht keine öffentliche Förderung mehr. Die bestehende Webseite wird derzeit mit Mitteln der Fachgesellschaft DGPPN für eine Förderdauer von zwei Jahren weiterentwickelt.
 
@@ -121,11 +122,11 @@ Die Eimsbütteler Gesundheits- und Pflegekonferenz lädt regelmäßig in wechsel
 
 Die Arbeitsgruppe Demenz der Eimsbütteler Gesundheits- und Pflegekonferenz trifft sich vierteljährlich zur Beratung psychosozialer Aspekte des Themas Demenz. Die Arbeitsgruppe hat im Jahr 2016 zwei Veranstaltungen durchgeführt:
 
- Vortrag:
+– Vortrag:
 
 „Demenz, Delir und Depression – Unterschiede und Gemeinsamkeiten“ im Agaplesion Diakonieklinikum;
 
- Film und Gespräch:
+– Film und Gespräch:
 
 „Vergiss mein nicht“ mit der Demenzbotschafterin Susanne Fink- Knodel aus dem Mehrgenerationenhaus Billstedt;
 

@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10471"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59532"
@@ -51,7 +52,7 @@ Aus welchen Gründen wurde die regelmäßige Grundwasserbeprobung an dieser Stel
 
 Kann die zuständige Behörde ausschließen, dass seit den letzten Untersuchungen die Schadstoffbelastung des Grundwassers an dieser Stelle zugenommen hat?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Grundwasserprobenahme findet regelmäßig im Abstand von ein bis zwei Jahren statt. Da die Grundwasserstände im Bereich der Altablagerung starken jahreszeitlichen Schwankungen unterliegen, erfolgt die Probenahme immer am Ende des Winterhalbjahres im April.
 

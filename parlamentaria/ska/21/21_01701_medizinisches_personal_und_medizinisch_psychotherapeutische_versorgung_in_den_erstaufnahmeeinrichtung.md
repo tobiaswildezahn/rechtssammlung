@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 17
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1006", "20/11112", "21/548", "21/947", "21/973", "21/1116", "21/1132", "21/1259"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49918"
@@ -75,13 +76,13 @@ Den Honorarverträgen liegen jeweils Stundensätze zugrunde. In den Erstaufnahme
 
 Das vom Bezirksamt Altona eingesetzte Personal wird wie folgt vergütet:
 
- Fachärztinnen und Fachärzte: Vergütung nach TV Ärzte für Festangestellte bezie-
+– Fachärztinnen und Fachärzte: Vergütung nach TV Ärzte für Festangestellte bezie-
 
 hungsweise Honorarordnung der Kassenärztlichen Vereinigung (KV),
 
- Gesundheits- und Krankenpfleger: E 8/E 9,
+– Gesundheits- und Krankenpfleger: E 8/E 9,
 
- Medizinische Fachangestellte: E 5/E 8 TV-L beziehungsweise Honorarordnung der
+– Medizinische Fachangestellte: E 5/E 8 TV-L beziehungsweise Honorarordnung der
 
 KV.
 

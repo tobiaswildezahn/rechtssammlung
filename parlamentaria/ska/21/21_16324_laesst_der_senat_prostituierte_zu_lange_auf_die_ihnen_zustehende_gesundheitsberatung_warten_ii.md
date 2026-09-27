@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 35
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11140", "21/12044", "21/13157", "19/7810", "21/9460"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65853"
@@ -80,7 +81,7 @@ Wie viele Personen warten derzeit auf einen Termin zur Gesundheitsberatung?
 
 Wie lange sind die Wartezeiten durchschnittlich? Wann ist momentan der späteste Termin vergeben?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Termine sind direkt verfügbar, eine offene Sprechstunde ohne Termin gibt es dienstags ganztags und mittwochs vormittags. Termine, die für einen späteren Zeitpunkt vergeben werden, bestehen aufgrund eines Wunsches der Sexarbeiterin beziehungsweise des Sexarbeiters.
 

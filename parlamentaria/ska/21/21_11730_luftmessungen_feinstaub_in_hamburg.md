@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60963"
@@ -65,6 +66,6 @@ Wurden die Messverfahren, die dem Open-Data-Projekt zugrunde liegen, durch die z
 
 Beteiligen sich auch behördliche Stellen mit eigenen Messgeräten an dem Projekt? Wenn ja, an welchen Standorten? Wenn nein, ist dies für die Zukunft geplant?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nein, bisher hat keine Firma eine Eignungsprüfung in Hamburg beantragt.

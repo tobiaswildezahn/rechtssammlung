@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16472"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66751"
@@ -43,7 +44,7 @@ Wie hat sich der Bestand an Windkraftanlagen (WKA) auf dem Gebiet der Freien und
 
 Welche Größe haben die einzelnen in Hamburg stehenden Windkraftanlagen? Bitte die technisch und geometrisch relevanten Daten, Baujahr und Standort angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zu den aktuellen WKA siehe Anlage.
 
@@ -111,7 +112,7 @@ Wird der Vogelschlag durch WKA systematisch erfasst? Wenn ja, seit wann und durc
 
 Wie viele Vögel und Fledermäuse (aufgeschlüsselt nach Arten) sind in den jeweiligen Jahren 2011 bis heute den Hamburger WKA zum Opfer gefallen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Eine systematische Erfassung des Vogel- und Fledermausschlages ist aus fachlichen und technischen Gründen nicht möglich, da mögliche verletzte oder getötete Tiere entweder im Gelände nicht aufgefunden werden und/oder von Prädatoren gefressen werden.
 

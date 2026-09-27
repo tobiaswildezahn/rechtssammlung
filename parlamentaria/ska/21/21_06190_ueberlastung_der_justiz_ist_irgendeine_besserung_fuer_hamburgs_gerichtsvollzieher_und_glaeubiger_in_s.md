@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 18
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1741", "21/4308", "21/5019"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54706"
@@ -66,7 +67,7 @@ Ist der Gerichtsvollzieherbezirk am Amtsgericht Wandsbek, der zum Zeitpunkt der 
 
 Wie viele Gerichtsvollzieherbezirke sind an jeweils welchem Amtsgericht seit jeweils wann aus welchen Gründen unbesetzt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Bezirk beim Amtsgericht Wandsbek ist zu Beginn des 4. Quartals besetzt worden. Im Übrigen siehe Drs. 21/5019.
 

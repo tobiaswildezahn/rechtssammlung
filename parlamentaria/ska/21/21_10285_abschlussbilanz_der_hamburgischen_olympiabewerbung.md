@@ -11,9 +11,10 @@ fraktionen: ["Die Linke"]
 vorgang: 54085
 seiten: 2
 fragen: 3
-einzelfragen: 4
-antwortbloecke: 3
+einzelfragen: 11
+antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9238", "21/1969", "21/2933", "21/3080", "21/6588", "21/6774"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59127"
@@ -51,42 +52,66 @@ Wie sieht nun das Ergebnis des testierten Abschlusses und der Liquidationssteuer
 
 Siehe Vorbemerkung.
 
-1.1. Wie hoch sind die Gesamtkosten, die für die hamburgische Olympiabewerbung in welchem Zeitraum angefallen sind? Bitte aufschlüsseln nach Personal-, Sach-, Miet-, Öffentlichkeits- und sonstigen Mitteln?
+### Frage 1.1
+
+Wie hoch sind die Gesamtkosten, die für die hamburgische Olympiabewerbung in welchem Zeitraum angefallen sind? Bitte aufschlüsseln nach Personal-, Sach-, Miet-, Öffentlichkeits- und sonstigen Mitteln?
+
+#### Antwort zu Frage 1.1
 
 Die Gesamtkosten stehen erst nach Löschung der Bewerbungsgesellschaft im Handelsregister fest. Zu den bisher entstandenen Kosten siehe zunächst Drs. 21/1969, 21/2933, 21/3080, 21/6588, 21/6774 und 21/9238. Bei der Freien und Hansestadt Hamburg sind im in Rede stehenden weiteren Zeitraum keine weiteren Kosten entstanden, bei der Bewerbungsgesellschaft sind vom 6. Juni bis 4. September 2017 Kosten für den Liquidator in Höhe von 4.012,50 Euro insbesondere für die Korrespondenz mit dem Wirtschaftsprüfer sowie dem Steuerberater, die Koordinierung der Gesellschafterbeschlüsse und Rechnungsfreigaben entstanden.
 
-1.2. Aus welchen Mitteln beziehungsweise „Töpfen“ wurden diese Gesamtkosten bestritten? Bitte nach staatlichen und privaten Zuwendungen gesondert aufschlüsseln.
+### Frage 1.2
+
+Aus welchen Mitteln beziehungsweise „Töpfen“ wurden diese Gesamtkosten bestritten? Bitte nach staatlichen und privaten Zuwendungen gesondert aufschlüsseln.
+
+#### Antwort zu Frage 1.2
 
 Siehe zunächst Antwort zu 1. 1., die seit dem 6. Juni bei der Bewerbungsgesellschaft entstandenen Kosten sind aus den Rücklagen der Gesellschaft bestritten worden.
 
 ### Frage 2
 
 Die Olympia-Bewerbungsgesellschaft ist offenbar noch immer nicht aufgelöst worden.
-2.1. Welche Tätigkeiten wurden seitens dieser Gesellschaft seit meiner letzten Anfrage (Drs. 21/9238 vom 6.6.2017) verrichtet und wie hoch war der seither angefallene Kostenaufwand?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Welche Tätigkeiten wurden seitens dieser Gesellschaft seit meiner letzten Anfrage (Drs. 21/9238 vom 6.6.2017) verrichtet und wie hoch war der seither angefallene Kostenaufwand?
+
+#### Antwort zu Fragen 2 und 2.1
 
 Siehe Antwort zu 1. 1.
 
-2.2. Welche Tätigkeiten stehen weiterhin an und wie hoch wird der damit verbundene Kostenaufwand absehbar sein?
+### Frage 2.2
+
+Welche Tätigkeiten stehen weiterhin an und wie hoch wird der damit verbundene Kostenaufwand absehbar sein?
+
+#### Antwort zu Frage 2.2
 
 Siehe Vorbemerkung. Da der noch entstehende Arbeitsaufwand und damit korrespondierend der Kostenaufwand auch von etwaigen Nachfragen des Finanzamts, der Gesellschafter sowie der Zuarbeit bei der Beantwortung Parlamentarischer Anfragen abhängig ist, ist dieser derzeit nicht seriös bezifferbar.
 
-2.3. Ist Herr Dr. Hill nach seinem Ausscheiden aus dem Dienst der Freien und Hansestadt Hamburg für die Gesellschaft tätig gewesen?
+### Frage 2.3
 
-Wenn ja, mit welchem Zeitaufwand und zu welchen Kosten?
+Ist Herr Dr. Hill nach seinem Ausscheiden aus dem Dienst der Freien und Hansestadt Hamburg für die Gesellschaft tätig gewesen? Wenn ja, mit welchem Zeitaufwand und zu welchen Kosten?
+
+#### Antwort zu Frage 2.3
 
 Nein.
 
-2.4. Wann ist mit der endgültigen Abwicklung dieser Gesellschaft zu rechnen?
+### Frage 2.4
+
+Wann ist mit der endgültigen Abwicklung dieser Gesellschaft zu rechnen?
+
+#### Antwort zu Frage 2.4
 
 Zu den noch anstehenden Aufgaben siehe Vorbemerkung. Sobald der Bescheid des Finanzamts zur Liquidationssteuererklärung vorliegt, wird die Liquidationsschlussrechnung erstellt sowie nach deren Genehmigung durch die Gesellschafter die Löschung der Gesellschaft beim Notar beantragt. Ein konkreter Zeitpunkt ist somit abhängig von der Mitwirkung verschiedener Parteien und auch externer Akteure, sodass ein exakter Zeitpunkt derzeit nicht seriös benannt werden kann.
 
 ### Frage 3
 
 Wie bewertet der Senat die Absage der Olympiabewerbung heute, also knapp zwei Jahre nach dem eingangs erwähnten Referendum?
-3.1. Welche Konsequenzen hinsichtlich dieser Bewerbung und anderer Großevents hat der Senat aus seiner Niederlage beim Referendum seitdem gezogen?
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+Welche Konsequenzen hinsichtlich dieser Bewerbung und anderer Großevents hat der Senat aus seiner Niederlage beim Referendum seitdem gezogen?
+
+#### Antwort zu Fragen 3 und 3.1
 
 Der Senat misst den Instrumenten der Volksgesetzgebungen, die in der Verfassung der Freien und Hansestadt Hamburg vorgesehen sind, eine hohe Bedeutung bei, siehe Drs. 21/6774. Er sieht seine Aufgabe daher nicht in einer wertenden Kommentierung, sondern vorrangig darin, die Ergebnisse im vorliegenden wie auch anderen Fällen im Rahmen der rechtlichen Vorgaben zügig umzusetzen.

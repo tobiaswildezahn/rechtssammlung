@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 5
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16180", "21/12912"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66577"
@@ -74,6 +75,6 @@ Im Schulausschuss am 28. Februar 2019 (Protokoll Nummer 21/37) betonte der Senat
 a) Wie passen die Aussagen der BSB im Schulausschuss mit der Anerkennung der BSB der Kritik des Rechnungshofs, der ausdrücklich „eine flächendeckende Erfolgskontrolle“ gefordert hat, zusammen?
 b) Im Schulausschuss merkte die BSB zudem an: „Es werde der Hamburger Stadtgesellschaft stärker gerecht und helfe auch den Lehrkräften mehr, wenn die Schülerinnen und Schüler vielmehr als Individuen gesehen würden, anstatt noch sehr lange bestimmte Gruppenkennzeichen durchzuhalten und dabei immer besondere Überprüfungsverfahren anzusetzen.“ Wie passt aus Sicht des Senats die im Fall IVK erfolgte Abwehr von flächendeckenden Erfolgskontrollen mit anderen flächendeckenden Erfolgskontrollen wie KERMIT oder dem Hamburger Basiswortschatz zusammen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.

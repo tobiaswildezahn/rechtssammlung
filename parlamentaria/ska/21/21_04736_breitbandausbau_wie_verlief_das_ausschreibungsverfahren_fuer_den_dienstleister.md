@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3538"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53164"
@@ -69,21 +70,21 @@ Wo genau liegen die beschriebenen einschlägigen Erfahrungen der Broadband Acade
 
 Die Broadband Academy ist ein 2010 gegründetes, auf Beratungsdienstleistungen beim Aufbau von Breitbandinfrastrukturen spezialisiertes Unternehmen. Im Rahmen des Angebots wurde eine umfangreiche Liste von Referenzprojekten vorgelegt. Beispielhaft sind daraus zu nennen:
 
- Studie für das Bundesministerium für Verkehr und Digitales „Erfolgreiche Investiti-
+– Studie für das Bundesministerium für Verkehr und Digitales „Erfolgreiche Investiti-
 
 onen in Breitbandnetze im ländlichen Raum“
 
- Teilprojektleitung des Projekts „Breitband“ in Hessen“, Teilbereich „Marktversor-
+– Teilprojektleitung des Projekts „Breitband“ in Hessen“, Teilbereich „Marktversor-
 
 gung“ für das hessische Ministerium für Wirtschaft, Verkehr und Landesentwicklung
 
- Projekt „NGA-Cluster Nordhessen“
+– Projekt „NGA-Cluster Nordhessen“
 
- Begleitung des landkreisweiten NGA-Projekts im Main-Taunus-Kreis
+– Begleitung des landkreisweiten NGA-Projekts im Main-Taunus-Kreis
 
- Erstellung von Breitbandstudien für das Saarland und für Schleswig Holstein
+– Erstellung von Breitbandstudien für das Saarland und für Schleswig Holstein
 
- Einzelausbauprojekte mit Kommunen und Landkreisen
+– Einzelausbauprojekte mit Kommunen und Landkreisen
 
 ### Frage 3
 

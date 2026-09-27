@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 24
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10677", "21/2108", "21/11867", "21/9358", "21/10819", "21/14613"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64337"
@@ -43,7 +44,7 @@ Wie viele Personen waren in der EA Fiersbarg Ende Oktober untergebracht?
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Geschlecht  
 Kinder & Jugendliche  
@@ -92,7 +93,7 @@ Aus welchen Unterkünften kommen sie jeweils?
 
 Wie viele sind Neuankömmlinge und kamen im Oktober direkt aus dem Ankunftszentrum?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Im Oktober 2018 wurden zwei Personen aus dem Ankunftszentrum Rahlstedt und eine Person aus der Sportallee aufgenommen.
 
@@ -220,7 +221,7 @@ c) Sicherheit?
 
 Wie viele davon tagsüber (7 – 18 Uhr), wie viele davon abends und nachts (18 – 7 Uhr)? Wenn es abweichende Dienstzeiten gibt, bitte diese nennen und die Aufschlüsselung hiernach geben.
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Drs. 21/11867.
 
@@ -240,7 +241,7 @@ Welche Angebote werden den Flüchtlingen gemacht (Bildung, Freizeitgestaltung)?
 
 Wie viele Ehrenamtliche sind eingesetzt und wie helfen sie?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Siehe Drs. 21/9358.
 

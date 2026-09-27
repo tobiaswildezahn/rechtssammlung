@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1506", "20/9148", "21/99"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54197"
@@ -47,7 +48,7 @@ d) aktuell?
 
 Wie viele der Plan-VZÄ waren beziehungsweise sind zu den Stichtagen gemäß Frage 1. tatsächlich besetzt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 

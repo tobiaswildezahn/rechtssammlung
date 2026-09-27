@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67934"
@@ -45,35 +46,35 @@ Im Übrigen spricht der Verbleib von 93,8 Prozent der Schülerinnen und Schüler
 
 Die Attraktivität des schulischen Bildungsangebotes in Wilhelmsburg konnte im Kontext des Projektes 23+ Starke Schulen deutlich gesteigert werden (siehe https://www.hamburg.de/23plus/). Hierzu zählen im Primarbereich die Weiterentwicklung und der Ausbau des Vorschulangebotes sowie die Ausdifferenzierung der pädagogischen Konzepte an allen Grundschulen und in der Grundschulabteilung der Stadtteilschule Wilhelmsburg, beispielhaft zu nennen sind hier
 
- das jahrgangsübergreifende Lernen und die Arbeit mit Landlandkarten an der
+– das jahrgangsübergreifende Lernen und die Arbeit mit Landlandkarten an der
 
 Schule An der Burgweide,
 
- das Fach WiKi – Wissen für Kids – und die sportbetonte Profilierung Schule an der
+– das Fach WiKi – Wissen für Kids – und die sportbetonte Profilierung Schule an der
 
 Grundschule Stübenhofer Weg,
 
- die Leseförderung nach BISS und Mathematikkonferenzen für Schülerinnen und
+– die Leseförderung nach BISS und Mathematikkonferenzen für Schülerinnen und
 
 Schüler an der Grundschule Kirchdorf,
 
- die Profile Kunst-Musik, Natur und Umwelt sowie das Englisch-Immersiv-Angebot
+– die Profile Kunst-Musik, Natur und Umwelt sowie das Englisch-Immersiv-Angebot
 
 an der Elbinselschule und dessen Fortführung an der Nelson-Mandela-Schule,
 
- das individualisiertes Arbeiten mit Lernpässen und das Lesetraining MITSPRACHE
+– das individualisiertes Arbeiten mit Lernpässen und das Lesetraining MITSPRACHE
 
 an der Grundschule Rotenhäuser Damm,
 
- das Profil „Maritime Welten“ und Lesetraining nach BISS an der Grundschulabtei-
+– das Profil „Maritime Welten“ und Lesetraining nach BISS an der Grundschulabtei-
 
 lung der Stadtteilschule Wilhelmsburg,
 
- der Schulversuch „Reformpädagogische Elemente“ an der Ganztagsgrundschule
+– der Schulversuch „Reformpädagogische Elemente“ an der Ganztagsgrundschule
 
 Fährstraße,
 
- die Lerninseln für leistungsstarke und weniger starke Schülerinnen und Schüler
+– die Lerninseln für leistungsstarke und weniger starke Schülerinnen und Schüler
 
 und der neue teilgebundene Ganztag an der Stadtteilschule auf der Veddel.
 
@@ -83,15 +84,15 @@ In der Sekundarstufe II gibt es im Wilhelmsburger Oberstufenverbund der weiterf�
 
 Außerdem wurden zahlreiche Baumaßnahmen an den Schulen in der Region 3 durchgeführt, zu nennen sind
 
- der Neubau des Standorts Perlstieg der Stadtteilschule Wilhelmsburg,
+– der Neubau des Standorts Perlstieg der Stadtteilschule Wilhelmsburg,
 
- der Zubau Rotenhäuser Damm,
+– der Zubau Rotenhäuser Damm,
 
- die Sanierung zum Neubau Stübenhofer Weg (Grundschule),
+– die Sanierung zum Neubau Stübenhofer Weg (Grundschule),
 
- die Sanierung Fährstraße und
+– die Sanierung Fährstraße und
 
- die Sanierung und Sporthallenerweiterung Stübenhofer Weg (Stadtteilschule).
+– die Sanierung und Sporthallenerweiterung Stübenhofer Weg (Stadtteilschule).
 
 Weitere bauliche Maßnahmen sind an der Nelson-Mandela-Schule, an der Elbinselschule Rahmwerder Straße, an der Fährstraße und an der Rotenhäuser Straße (Stadtteilschule Wilhelmsburg) geplant.
 
@@ -113,7 +114,7 @@ Wie stellt sich das „signifikante Abwanderungsverhalten“ aus der Region 3 au
 
 Zu welchem Zeitpunkt der schulischen Laufbahn tritt dieses „signifikante Abwanderungsverhalten“ mit welchen Konsequenzen im Einzelnen aus Sicht des Senates beziehungsweise der zuständigen Behörde auf?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

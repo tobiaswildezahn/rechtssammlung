@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 18
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61321"
@@ -98,7 +99,7 @@ Ablehnungen?
 Wenn ja, in wie vielen Fällen, in welcher Behörde und aus welchen  
 Gründen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Hierzu liegen dem Senat keine Erkenntnisse vor, im Übrigen siehe Vorbemerkungen.
 

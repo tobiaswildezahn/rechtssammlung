@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 27
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/1804", "20/1937", "20/1938"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48916"

@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 19
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66607"
@@ -257,7 +258,7 @@ Wie viele der nach Ziffer 1. kostenpflichtigen Verurteilten starben seit dem 1. 
 
 Falls ein Fall/Fälle der Ziffer 8. gegeben wäre/n: Auf welche Gesamtsumme beläuft sich der durch den Todesfall/die Todesfälle bedingte Ausfall für die Staatskasse? Bitte nach Anfallsjahr gesondert darstellen.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die zur Beantwortung erforderlichen Daten werden statistisch nicht erfasst. Die händische Auswertung mehrerer Tausend Vorgänge ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

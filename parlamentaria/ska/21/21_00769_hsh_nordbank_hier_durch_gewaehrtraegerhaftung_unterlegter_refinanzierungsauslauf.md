@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48932"
@@ -51,7 +52,7 @@ Zu genau welchen Terminen laufen Tranchen in welcher Größenordnung in 2015 aus
 
 Ein angeblich geringer Teil läuft zu späteren Zeitpunkten aus. Zu welchen Terminen laufen welche weiteren Tranchen in welchen Größenordnungen aus? Bitte ebenfalls einzeln aufführen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Jahr 2015 bis zum 31. März 2,3 Milliarden Euro, bis zum 30. Juni 3,5 Milliarden Euro, bis zum 30. September 2,3 Milliarden Euro und bis zum 31. Dezember 10,0 Milliarden Euro. Bis jeweils zum 31. Dezember der Folgejahre 251 Millionen Euro (2016), 41 Millionen Euro (2017), 20 Millionen Euro (2018), 119 Millionen Euro (2019), 253 Millionen Euro (2020), 9 Millionen Euro (2021), 27 Millionen Euro (2022), 1 Million Euro (2023), 2 Millionen Euro (2024), 166 Millionen Euro (2025), 240 Millionen Euro (2026), 99 Millionen Euro (2027), 64 Millionen Euro (2028), 134 Millionen Euro (2029), 392 Millionen Euro (2030), 212 Millionen Euro (2031), 0 Millionen Euro (2032), 7 Millionen Euro (2033), 0 Millionen Euro (2034), 0 Millionen Euro (2035), 0 Millionen Euro (2036), 121 Millionen Euro (2037), 206 Millionen Euro (2038), 109 Millionen Euro (2039), 101 Millionen Euro (2040) und 92 Millionen Euro (2041).
 

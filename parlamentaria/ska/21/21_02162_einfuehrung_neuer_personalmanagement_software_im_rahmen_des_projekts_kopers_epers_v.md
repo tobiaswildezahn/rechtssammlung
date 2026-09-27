@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 16
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/922", "21/1837", "20/11182", "21/496"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50438"
@@ -57,7 +58,7 @@ Welche Quality Gates sollten im laufenden Jahr gemäß Planungsstand zu Jahresbe
 
 Wurde die Analyse der Quality Gates wie gemäß Drs. 21/922 geplant im Oktober abgeschlossen? Wurde auch die Bewertung bereits vorgenommen? a. Wenn ja, mit welchem Ergebnis? b. Wenn nein, welche Schritte erfolgten aus welchen Gründen noch nicht? Bis wann sollen sie abgeschlossen sein?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Das Quality Gate 1 zur Überprüfung der Basisfunktionalitäten für die Einführung der Stufe 1 wurde planmäßig im Juni 2015 durchgeführt. Dabei wurde deutlich, dass die Basisfunktionalitäten grundsätzlich vorhanden waren, aber in den Themenfeldern Migration, Abrechnung, Monatsabschluss, Dokumente, Auswertungen und Schnittstellen noch Entwicklungsbedarf besteht. Offene Punkte wurden im August 2015 auf Basis eines neuen Softwarereleases (15.6.1) nachgetestet. Hierbei ergab sich eine Qualitätsverbesserung, allerdings noch keine vollständige Beseitigung der Mängel.
 

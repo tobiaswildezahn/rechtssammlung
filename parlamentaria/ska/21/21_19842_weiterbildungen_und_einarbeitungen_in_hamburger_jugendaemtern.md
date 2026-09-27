@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18560", "21/18333", "21/15022", "21/10236"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69638"
@@ -69,7 +70,7 @@ Welche Entscheidungs- und Gütekriterien werden vom Senat beziehungsweise der Fa
 
 Welche Stelle hat die unter Frage 1. erfragten Weiterbildungen beauftragt beziehungsweise freigegeben? Wurden diese vorab unabhängig, auch gegebenenfalls auf ihre Inhalte und wissenschaftliche Fundierung geprüft und falls ja, wie und durch welche Stelle?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Für jede Veranstaltung bewertet das SPFZ Fortbildungskonzept und fachliche sowie didaktische Qualifikation der Fortbildungsreferentinnen und -referenten. Für die Auswahl der Fortbildungen sind aktuelle fachliche, fachpolitische und wissenschaftliche Entwicklungen, rechtliche Änderungen an der Aufgabenwahrnehmung der Fachkräfte und politische Zielvorgaben bedeutsam, soweit sich daraus Anforderungen an die Qualifikation der Fachkräfte ergeben. Im Rahmen einer Bedarfserhebung werden die aktuellen Bedarfe der bezirklichen Fachämter und Fachreferate der Fachbehörden erhoben, um zu bewerten, inwieweit und in welchem Umfang ein Qualifikationsbedarf besteht. Besonders relevante Themen finden regelhaften Einzug in das Jahresprogramm. Das offen ausgeschriebene Fortbildungsprogramm des SPFZ wird durch einen Fortbildungsbeirat geprüft und bestätigt oder gegebenenfalls ergänzt oder verändert. Der Beirat setzt sich aus Vertreterinnen und Vertretern der Fachbehörden, der bezirklichen Fachämter, freier Träger, Experten und Expertinnen, Personalräten sowie Fachreferenten und -referentinnen des SPFZ zusammen. Das Programm wird durch den Beirat fachlich, inhaltlich und in Bezug auf die Referenten/-innen geprüft und diskutiert. Gegebenenfalls werden im Rahmen der Beiratssitzung Änderungen veranlasst und abschließend freigegeben. Die letzte Freigabe erfolgt durch die Leitung des Amtes für Familie der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) und die beteiligten Personalräte. Darüber hinaus ist es möglich, dass die Fachämter für Jugend- und Familienhilfe der Bezirksämter mit Unterstützung des SPFZ weitere Fortbildungen anbieten.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/7296", "19/8174", "20/5972"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63075"
@@ -57,15 +58,15 @@ Wie sehen die zu erarbeitenden Handlungsstrategien zur besseren Bewältigung von
 
 Konzeptionell versucht das Trainingsangebot die folgenden Ziele durch Übungen mit den Jugendlichen zu erarbeiten beziehungsweise zu erreichen: Die Teilnehmenden
 
- erkennen, dass es umsetzbare Handlungsalternativen zum jetzigen Konfliktverhal-
+– erkennen, dass es umsetzbare Handlungsalternativen zum jetzigen Konfliktverhal-
 
 ten gibt,
 
- sollen die Nachteile gewalttätiger Konfliktlösungen erkennen,
+– sollen die Nachteile gewalttätiger Konfliktlösungen erkennen,
 
- erkennen und reflektieren Körpersprache,
+– erkennen und reflektieren Körpersprache,
 
- erfahren einen Erkenntnisgewinn über mögliche Hilfen für die eigene Lebenslage.
+– erfahren einen Erkenntnisgewinn über mögliche Hilfen für die eigene Lebenslage.
 
 ### Frage 2
 
@@ -130,7 +131,7 @@ Wie viele schwierige Einzelfälle hat es seit dem Beginn des Salam- Trainings ge
 
 Aus welchen Staaten stammt das Klientel des Salam-Trainings gegenwärtig?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Hierzu liegen der zuständigen Behörde keine Erkenntnisse vor. Im Übrigen siehe Antwort zu 5.
 

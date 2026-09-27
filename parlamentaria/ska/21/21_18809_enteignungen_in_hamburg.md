@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17503"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68486"
@@ -39,37 +40,37 @@ Der Senat zieht die Enteignung von Grundeigentum ausschließlich in den gesetzli
 
 Gesetzliche Grundlagen für die Enteignung finden sich in folgenden Bundesgesetzen:
 
- Baugesetzbuch (§§ 85 bis 122 BauGB),
+– Baugesetzbuch (§§ 85 bis 122 BauGB),
 
- Allgemeines Eisenbahngesetz (§ 22 AEG),
+– Allgemeines Eisenbahngesetz (§ 22 AEG),
 
- Bundesfernstraßengesetz (§ 19 FStrG),
+– Bundesfernstraßengesetz (§ 19 FStrG),
 
- Bundeskleingartengesetz (§ 15 BKleingG),
+– Bundeskleingartengesetz (§ 15 BKleingG),
 
- Bundeswasserstraßengesetz (§ 44 WaStrG),
+– Bundeswasserstraßengesetz (§ 44 WaStrG),
 
- Energiewirtschaftsgesetz (§ 45 EnWG),
+– Energiewirtschaftsgesetz (§ 45 EnWG),
 
- Luftverkehrsgesetz (§ 28 LuftVG),
+– Luftverkehrsgesetz (§ 28 LuftVG),
 
- Magnetschwebebahnplanungsgesetz (§ 7 MBPlG),
+– Magnetschwebebahnplanungsgesetz (§ 7 MBPlG),
 
- Personenbeförderungsgesetz (§ 30 PBefG)
+– Personenbeförderungsgesetz (§ 30 PBefG)
 
 sowie in folgenden Landesgesetzen:
 
- Hamburgisches Enteignungsgesetz (HEG),
+– Hamburgisches Enteignungsgesetz (HEG),
 
- Hafenentwicklungsgesetz (§ 15),
+– Hafenentwicklungsgesetz (§ 15),
 
- Hamburgisches Abfallwirtschaftsgesetz (§ 12 HmbAbfG),
+– Hamburgisches Abfallwirtschaftsgesetz (§ 12 HmbAbfG),
 
- Hamburgisches Denkmalschutzgesetz (§ 20 fortfolgende),
+– Hamburgisches Denkmalschutzgesetz (§ 20 fortfolgende),
 
- Hamburgisches Wassergesetz (§ 74 HWaG),
+– Hamburgisches Wassergesetz (§ 74 HWaG),
 
- Hamburgisches Wegegesetz (§ 15b HWG).
+– Hamburgisches Wegegesetz (§ 15b HWG).
 
 Neben der Enteignung, die auf den dauerhaften Entzug und die Übertragung von Grundeigentum gerichtet ist, eröffnet das Enteignungsrecht auch die Besitzeinweisung
 

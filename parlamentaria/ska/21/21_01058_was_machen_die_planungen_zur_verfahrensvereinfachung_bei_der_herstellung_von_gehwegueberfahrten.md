@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10799", "20/5221"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49235"
@@ -103,10 +104,16 @@ Nach Vorliegen der Auswertung wird ein zusammenfassender Bericht vorgelegt werde
 ### Frage 8
 
 In der Drs. 20/5221 hatte der Senat die durchschnittlichen Kosten für die Herstellung von Gehwegüberfahrten „nach Mitteilung der Bezirksämter“ mit 120 bis 260 Euro pro Quadratmeter angegeben.
-8.1. Ist diese Angabe zu den Kosten der Herstellung einer Gehwegüberfahrt noch aktuell? Wenn nein, wie hoch sind derzeit die Kosten der Erstellung einer Gehwegüberfahrt je Quadratmeter?
-8.2. Inwiefern und aus welchen Gründen unterscheiden sich die durchschnittlichen Kosten der Herstellung einer Gehwegüberfahrt in den einzelnen Bezirken?
 
-#### Antwort zu Frage 8
+### Frage 8.1
+
+Ist diese Angabe zu den Kosten der Herstellung einer Gehwegüberfahrt noch aktuell? Wenn nein, wie hoch sind derzeit die Kosten der Erstellung einer Gehwegüberfahrt je Quadratmeter?
+
+### Frage 8.2
+
+Inwiefern und aus welchen Gründen unterscheiden sich die durchschnittlichen Kosten der Herstellung einer Gehwegüberfahrt in den einzelnen Bezirken?
+
+#### Antwort zu Fragen 8, 8.1 und 8.2
 
 Sie variieren und können bis zu 360 Euro pro Quadratmeter betragen. Entscheidend sind unter anderem die Verkehrsbelastung, die Materialauswahl, die Flächenbeanspruchung, der Mehraufwand durch erforderliche Anpassungsarbeiten sowie ergänzende Maßnahmen zur Verkehrssicherung (zum Beispiel Baumschutz).
 

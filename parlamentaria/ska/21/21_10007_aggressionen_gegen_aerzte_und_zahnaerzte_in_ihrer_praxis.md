@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58824"
@@ -51,7 +52,7 @@ Wie viele Fälle von Beschimpfungen und Beleidigungen von Ärzten, Zahnärzten u
 
 Wie viele Fälle von körperlichen Angriffen auf Ärzte, Zahnärzte und ihre Mitarbeiter sind den zuständigen Stellen bekannt? Bitte für die Jahre 2011 – 2016 getrennt angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Laut Auskunft der Ärztekammer und der Zahnärztekammer sowie der Kassenärztlichen Vereinigung Hamburg (KVH) und der Kassenzahnärztlichen Vereinigung Hamburg (KZVH) liegen keine Informationen über Aggressionen gegen Ärzte/-innen und Zahnärzte/-innen in ihren Praxen vor. Berichtet wurde über das Thema in den jeweiligen Mitgliederzeitschriften (siehe „KVH Journal“ 7-8/2014 und „zm-online“ 12/2017 Praxis). Nach einer Umfrage der KZVH infolge des Artikels auf „zm-online“ wurden keine entsprechenden Fälle gemeldet.
 

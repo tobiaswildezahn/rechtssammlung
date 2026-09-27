@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19507", "21/15989", "21/17186"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69481"
@@ -43,7 +44,7 @@ Welche Personenzusammenschlüsse/Organisationen/Strukturen/Einzelpersonen im Ph�
 
 Nach welchen Kriterien werden Personenzusammenschlüsse/Organisationen/Strukturen/Einzelpersonen im Bericht erwähnt beziehungsweise nicht erwähnt und gelten diese Kriterien für Personenzusammenschlüsse sämtlicher politisch/religiöser Spektren gleichermaßen? Bitte umfassend darlegen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Beobachtungsobjekte 2019  
 Salafismus inkl. Islamistischer Terrorismus  
@@ -72,6 +73,6 @@ Welche Anhaltspunkte und welche gesicherten Erkenntnisse liegen dem LfV im Janua
 
 Wer sind deren Hauptakteure (Vorstand, Vorstandsmitglieder, Einzelpersonen) in Hamburg?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe den am 8. Juli 2019 veröffentlichten Verfassungsschutzbericht 2018 https://www.hamburg.de/verfassungsschutz/ und Drs. 21/17186. Wesentliche Veränderungen im Sinne der Fragestellung haben sich nicht ergeben.

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12045"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66528"
@@ -49,7 +50,7 @@ Wie viele Anträge auf Allgemeinverbindlichkeitserklärung eines Tarifvertrages 
 
 Für welche konkreten Tarifverträge wurden in den Jahren 2008 – 2018 jeweils Allgemeinverbindlichkeitserklärungen beantragt und wie wurden diese Anträge beschieden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die elektronische Erfassung der Anträge auf regionale Allgemeinverbindlicherklärungen von Tarifverträgen erfolgt für Hamburg seit dem Jahr 2007. Eine händische Auswertung von circa 100 Akten für frühere Zeiträume ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Seit 2007 wurden folgende Anträge auf Allgemeinverbindlicherklärung gestellt und vom Tarifausschuss beschlossen:
 

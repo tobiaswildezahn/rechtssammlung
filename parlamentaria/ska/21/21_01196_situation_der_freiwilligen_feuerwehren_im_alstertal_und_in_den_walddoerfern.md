@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49386"
@@ -43,7 +44,7 @@ Wie hat sich die Personalsituation bei den Freiwilligen Feuerwehren im Alstertal
 
 Wie viele Jugendliche sind derzeit bei den Jugendfeuerwehren im Alstertal und in den Walddörfern aktiv? Bitte für jede Wehr einzeln angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Mitgliederentwicklung der Einsatzabteilung und der Jugendfeuerwehr der fraglichen Wehren im fraglichen Zeitraum kann der nachfolgenden Tabelle entnommen werden.
 
@@ -183,11 +184,11 @@ Zurzeit gibt es am Standort der Freiwilligen Feuerwehr Poppenbüttel keinen Ger�
 
 Die Freiwillige Feuerwehr Poppenbüttel verfügt aktuell über:
 
- Ein Löschgruppenfahrzeug LF16/12 beziehungsweise LF20/10
+– Ein Löschgruppenfahrzeug LF16/12 beziehungsweise LF20/10
 
- Ein Löschgruppenfahrzeug LFKatS (Bund oder Land)
+– Ein Löschgruppenfahrzeug LFKatS (Bund oder Land)
 
- Ein Schlauchboot auf einem Trailer
+– Ein Schlauchboot auf einem Trailer
 
 Dies entspricht der Standardausstattung einer Freiwilligen Feuerwehr.
 

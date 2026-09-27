@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5872"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57380"
@@ -57,7 +58,7 @@ Wird für 2017 ein positiver Jahresabschluss des HU erwartet?
 
 In welcher Höhe hat und wird die Freie und Hansestadt Hamburg im Jahr 2017 das HU zusätzlich unterstützen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Vorbehaltlich der Ergebnisse des unter 2. beschriebenen laufenden Prozesses ist von den im Wirtschaftsplan des HU für 2017/2018 geplanten Ergebnissen auszugehen. Anpassungen können – wie für 2016 bereits erfolgt – im Rahmen der Bewirtschaftung vorgenommen werden.
 

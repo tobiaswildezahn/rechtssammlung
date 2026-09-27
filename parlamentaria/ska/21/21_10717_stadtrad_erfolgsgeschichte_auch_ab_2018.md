@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 19
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10608", "21/5383"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59619"
@@ -87,39 +88,39 @@ Die in der Leistungsbeschreibung formulierten Anforderungen und vielfach auch de
 
 Die Anforderungen dienen allgemein dem Ziel, die außerordentliche Erfolgsgeschichte des Hamburger StadtRAD-Systems fortzusetzen, das System weiter auszubauen und um innovative Funktionen zu ergänzen. Zum Erfolg des bisherigen StadtRAD- Systems tragen insbesondere bei:
 
- Große Anzahl von Stationen, hohe Stationsdichte und Lage an Orten mit hohem
+– Große Anzahl von Stationen, hohe Stationsdichte und Lage an Orten mit hohem
 
 Kundenpotenzial sowie hoher Einwohnerzahl im Umkreis von 500 Metern um die Stationen,
 
- Hohe Präsenz der roten Leihräder und der StadtRAD-Stationen im Straßenraum
+– Hohe Präsenz der roten Leihräder und der StadtRAD-Stationen im Straßenraum
 
 sowie hohe Verfügbarkeit,
 
- Hochwertiges und gepflegtes Erscheinungsbild des StadtRAD-Systems,
+– Hochwertiges und gepflegtes Erscheinungsbild des StadtRAD-Systems,
 
- Name, Design und Farbgebung mit unverwechselbarem Bezug zu Hamburg und
+– Name, Design und Farbgebung mit unverwechselbarem Bezug zu Hamburg und
 
 damit Hamburger Identität („Hamburger Wahrzeichen“),
 
- Schnelle und einfache Bedienung über Terminal, App und Telefon,
+– Schnelle und einfache Bedienung über Terminal, App und Telefon,
 
- Attraktives Tarifsystem mit 30 Minuten kostenfreier Nutzung.
+– Attraktives Tarifsystem mit 30 Minuten kostenfreier Nutzung.
 
 Um diese Erfolgsfaktoren weiterhin zu gewährleisten und zu stärken, sind die folgenden Punkte in die Entwürfe der Leistungsbeschreibung und des Betreibervertrages eingeflossen:
 
- Erfahrungen mit der Einführung und dem Betrieb des bisherigen Hamburger
+– Erfahrungen mit der Einführung und dem Betrieb des bisherigen Hamburger
 
 StadtRAD-Systems,
 
- Erfahrungen mit Fahrradverleihsystemen in anderen Städten und
+– Erfahrungen mit Fahrradverleihsystemen in anderen Städten und
 
- Überregionale Untersuchungen und Forschungsergebnisse zu Fahrradverleihsys-
+– Überregionale Untersuchungen und Forschungsergebnisse zu Fahrradverleihsys-
 
 temen,
 
- Markterkundungen im Vorfeld der Neuausschreibung,
+– Markterkundungen im Vorfeld der Neuausschreibung,
 
- rechtliche Vorgaben und technische Normen wie zum Beispiel die Straßenver-
+– rechtliche Vorgaben und technische Normen wie zum Beispiel die Straßenver-
 
 kehrs-Zulassungsordnung (StVZO).
 
@@ -131,11 +132,11 @@ Nach Presseangaben soll weiterhin die erste Stunde jedes Ausleihvorgangs kostenl
 
 Die kostenlose erste halbe Stunde jeder Fahrt ist ein wesentlicher Bestandteil des attraktiven Tarifsystems und einer der Garanten für eine hohe Nutzung, da die Hemmschwelle für die Nutzung damit sehr niedrig ist. Die zuständige Behörde geht davon aus, dass die Nutzung geringer wäre, wenn die kostenlose halbe Stunde entfiele. Einer detaillierten Kosten-Nutzen-Analyse bedurfte es nicht, da der Nutzen eines stark nachgefragten Fahrradmietsystems mit mehr als 3 Millionen Ausleihen im Jahr 2016 aus sich selbst heraus deutlich erkennbar ist. Im Übrigen weisen Studien darauf hin, dass kostenlose Minuten zu Fahrtbeginn die Nachfrage erhöhen und eine höhere Nutzungsintensität begünstigen:
 
- Optimising Bike Sharing in European Cities – OBIS 2011:
+– Optimising Bike Sharing in European Cities – OBIS 2011:
 
 https://ec.europa.eu/energy/intelligent/projects/sites/iee-projects/files/projects/ documents/obis_handbook_en.pdf.
 
- Bundesministerium für Verkehr, Bau und Stadtentwicklung (BMVBS): BMVBS-
+– Bundesministerium für Verkehr, Bau und Stadtentwicklung (BMVBS): BMVBS-
 
 Online-Publikation, Nummer 29/2013: Öffentliche Fahrradverleihsysteme – Innovative Mobilität in Städten. Ergebnisse der Evaluationen der Modellprojekte:
 
@@ -151,7 +152,7 @@ Wird die Anmeldegebühr auch künftig vom Senat vorgegeben sein und wenn ja, in 
 
 Nach welchen Kriterien wurden die Nutzungsgebühren festgelegt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Angaben zur Ausgestaltung des Tarifsystems können dem mit der EU-Bekanntmachung veröffentlichten Entwurf der Leistungsbeschreibung entnommen werden.
 
@@ -163,17 +164,17 @@ Welche Überlegungen hat der Senat angestellt, den Zuschussbedarf für das Stadt
 
 Um den Zuschussbedarf zu reduzieren,
 
- wird die bestehende Stationsinfrastruktur weitergenutzt,
+– wird die bestehende Stationsinfrastruktur weitergenutzt,
 
- wurde im Rahmen der Ergänzung neuer Funktionen die Einführung von Pedelecs
+– wurde im Rahmen der Ergänzung neuer Funktionen die Einführung von Pedelecs
 
 aus Kostengründen verworfen,
 
- werden im Rahmen des Systemausbaus neue Stationsstandorte wie bisher auf
+– werden im Rahmen des Systemausbaus neue Stationsstandorte wie bisher auf
 
 Basis der zu erwartenden Nachfrage gewählt,
 
- wurden die erwarteten Erlöse abgeschätzt und bewertet.
+– wurden die erwarteten Erlöse abgeschätzt und bewertet.
 
 Geprüft, aber nicht weiter verfolgt, wurde eine Kopplung mit Werbung sowie verschiedene neue Tarifsysteme.
 
@@ -231,6 +232,6 @@ Wie verfährt der Senat mit Leihradanbietern (zum Beispiel bei der Ausschreibung
 
 Wie ist die kostenlose Nutzung des öffentlichen Raumes durch abgestellte Leihfahrräder derartiger Anbieter aus der Sicht des Senats zu bewerten?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Fahrradleihstationen auf öffentlichen Wegen stellen genehmigungspflichtige Sondernutzungen nach § 19 Absatz 1 HWG dar. Die Freie und Hansestadt Hamburg wird aufgrund von § 19 Absatz 5 HWG anderen Anbieterinnen und Anbietern keine Sondernutzungsgenehmigungen für etwaige Leihstationsflächen erteilen, sondern wie bisher nur mit dem aufgrund der Ausschreibung ausgewählten Bieter einen Vertrag zum Betrieb eines stationsgebundenen Systems schließen. Im Übrigen nimmt der Senat zu hypothetischen Fragen grundsätzlich nicht Stellung.

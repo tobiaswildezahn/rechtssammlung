@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 35
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9744", "21/11184", "21/1838", "21/2108", "21/10137", "21/11183"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60649"
@@ -81,7 +82,7 @@ Aus welchen Unterkünften kommen sie jeweils? Wieso kamen im November nur 33 Per
 
 Welchen Aufenthaltsstatus haben die Bewohner der Unterkunft? Laut Drs. 21/11184 wurden auch mehrere Personen mit Aufenthaltsgestattung hier untergebracht. Eine Aufenthaltsgestattung entspricht aber keiner guten Bleibeperspektive. Wieso wurden die Personen trotzdem hier untergebracht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Für die Belegung in Standorte der Perspektive Wohnen (UPW) sind grundsätzlich Bewohnerinnen und Bewohner vorgesehen, die eine Bleibeperspektive, das heißt einen Aufenthaltstitel, haben (siehe auch Drs. 21/1838). Dabei werden die Personen vorrangig verlegt, die sich schon länger in einer öffentlich-rechtlichen Folgeunterkunft (örU), zum Beispiel Gemeinschaftsunterkunft mit oder ohne eigenem abgeschlossenen Wohnraum, aufhalten, da davon ausgegangen wird, dass die Selbstständigkeit der Lebensführung einschließlich der Eigenversorgung dort eingeübt ist und diese zum Teil integrativ im Stadtteil angekommen sind (zum Beispiel Kita- oder Schulbesuch der Kinder). Diese Personen machen dann Plätze in ihren bisherigen Standorten der örU frei, in die Bewohnerinnen und Bewohner der Erstaufnahmeeinrichtungen (EA) ziehen.
 
@@ -177,23 +178,23 @@ Laut Drs. 21/11184 erhielt die Firma BIG Städtebau den Zuschlag für die Quarti
 
 Unter Berücksichtigung der Stärkung der sozialen Infrastruktur soll das Quartiersmanagement am Poppenbütteler Berg dazu beitragen, dass
 
-• eine ganzheitliche Quartiersentwicklung aktiv unterstützt wird,
+– eine ganzheitliche Quartiersentwicklung aktiv unterstützt wird,
 
-• die Akzeptanz gegenüber Menschen mit Fluchterfahrungen in der Anwohnerschaft weiterhin sichergestellt oder weiter gefördert wird,
+– die Akzeptanz gegenüber Menschen mit Fluchterfahrungen in der Anwohnerschaft weiterhin sichergestellt oder weiter gefördert wird,
 
-• die Entwicklung unterstützungsfähiger Nachbarschaften gefördert wird,
+– die Entwicklung unterstützungsfähiger Nachbarschaften gefördert wird,
 
-• die Unterstützungsbedarfe der geflüchteten Menschen erhoben werden und in Angebotsplanungen der Einrichtungen (zum Beispiel Kirchengemeinden, Sportvereinen, Schulen, Kindertageseinrichtungen, Kinder-und Jugendfreizeiteinrichtungen) im Stadtteil und gegebenenfalls auch darüber hinaus berücksichtigt werden,
+– die Unterstützungsbedarfe der geflüchteten Menschen erhoben werden und in Angebotsplanungen der Einrichtungen (zum Beispiel Kirchengemeinden, Sportvereinen, Schulen, Kindertageseinrichtungen, Kinder-und Jugendfreizeiteinrichtungen) im Stadtteil und gegebenenfalls auch darüber hinaus berücksichtigt werden,
 
-• eine größtmögliche Transparenz über Entwicklungen, Anforderungen, Veränderungen im Stadtteil herbeigeführt wird,
+– eine größtmögliche Transparenz über Entwicklungen, Anforderungen, Veränderungen im Stadtteil herbeigeführt wird,
 
-• eine transparente und koordinierte Angebotsstruktur der unterschiedlichen Akteure sichergestellt und weiterentwickelt wird,
+– eine transparente und koordinierte Angebotsstruktur der unterschiedlichen Akteure sichergestellt und weiterentwickelt wird,
 
-• Transparenz über Stadtteilfinanzen hergestellt wird,
+– Transparenz über Stadtteilfinanzen hergestellt wird,
 
-• sicherheitsrelevante Themen unter Hinzuziehung der Polizei erörtert werden,
+– sicherheitsrelevante Themen unter Hinzuziehung der Polizei erörtert werden,
 
-• Wegemöglichkeiten für die Flüchtlinge so entwickelt und gestaltet werden (Schilder/Hinweise/einfache, sprachunabhängig Pläne), dass diese sich leicht orientieren und dadurch schnell selbstständig in der näheren Umgebung agieren können (zum Beispiel Spielplätze finden und aufsuchen).
+– Wegemöglichkeiten für die Flüchtlinge so entwickelt und gestaltet werden (Schilder/Hinweise/einfache, sprachunabhängig Pläne), dass diese sich leicht orientieren und dadurch schnell selbstständig in der näheren Umgebung agieren können (zum Beispiel Spielplätze finden und aufsuchen).
 
 Daraus resultierende Vorschläge und Ideen können entweder im Rahmen der Selbstverwaltung des Quartiersbeirates umgesetzt oder an das Bezirksamt herangetragen werden. Für die Tätigkeit der Gebietsentwickler stehen jährlich 50.000 Euro zur Verfügung, weiterhin 8.000 Euro für einen Verfügungsfonds, 20.000 Euro für Betriebskosten, 5.000 Euro für Dolmetschertätigkeiten und weitere 5.000 Euro für Öffentlichkeitsarbeit.
 

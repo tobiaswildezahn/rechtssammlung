@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1380", "20/11718", "21/296", "21/817", "21/931"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49761"
@@ -43,7 +44,7 @@ Falls der eingangs erwähnte „Risikopuffer“ bereits vor dem 06.05.2014 so ge
 
 Wie oft und jeweils wann genau wurden aus beziehungsweise bei jeweils welchem Anlass die (Zeit-)“Planungen für eine Lösung mit dem Fachverfahren JUS-IT“ hinsichtlich der Ablösung von PROSA, insbesondere die „Risikopuffer“, von jeweils welchem alten auf jeweils welchen neuen Zeithorizont angepasst? Wann genau wurde insbesondere der eingangs genannte Zeitplan mit einem Risikopuffer bis zum zweiten Halbjahr 2017 festgestellt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die in Drs. 20/11718 getroffenen Annahmen basierten auf einem Angebot vom Februar 2014, das zwischen Dataport, der Freien und Hansestadt Hamburg und dem für die Planung und Steuerung des Projekts verantwortlichen Generalunternehmer verhandelt, aber von IBM nicht mehr aufrechterhalten wurde. Der Risikopuffer bis zum Jahr 2017 basierte auf einer neuen Planung, die IBM im Rahmen der Angebotsverhandlungen im Frühjahr 2015 vorlegte.
 

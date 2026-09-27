@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59330"
@@ -97,7 +98,7 @@ Welche Bedeutung kommt der Präexpositionsprophylaxe in einem umfassenden HIV-Pr
 
 Wie beurteilt der Senat das Pilotprojekt insgesamt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Unabhängig von dem konkret beschriebenen Pilotprojekt begrüßt es der Senat grundsätzlich, wenn die Präexpositionsprophylaxe bestimmten Personen mit einem erhöhten HIV-Risiko kostengünstig und leicht zugänglich zur Verfügung steht. Die Einführung der PrEP ergänzt die Primärprävention, die die biochemische Prävention sowie die Verhältnis- und die Verhaltensprävention umfasst. Als zusätzlicher Methode einer umfassenden HIV-Strategie muss sie jedoch engmaschig durch ausführliche Beratung und Testangebote begleitet werden, weshalb seit Ende 2016 eine intensivierte Kooperation zwischen HIV-Schwerpunktpraxen, freien Trägern und der zuständigen Behörde besteht.
 

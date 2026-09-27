@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 27
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8446"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57765"
@@ -68,19 +69,19 @@ Die DTV- und DTVw-Werte der Jahre 2004 bis 2015 für die Julius-Leber-Straße we
 
 Für die Heimfelder Straße liegen nur Tageswerte vor, keine DTV- und DTVw-Werte:
 
- Dienstag, 20.08.2013, Heimfelder Straße östlich Wattenbergstraße: circa 5.700
+– Dienstag, 20.08.2013, Heimfelder Straße östlich Wattenbergstraße: circa 5.700
 
 Kfz/24h, circa 8 Prozent SV.
 
- Dienstag, 20.08.2013, Heimfelder Straße westlich Wattenbergstraße: circa 5.700
+– Dienstag, 20.08.2013, Heimfelder Straße westlich Wattenbergstraße: circa 5.700
 
 Kfz/24h, circa 8 Prozent SV.
 
- Donnerstag, 08.12.2016, Heimfelder Straße östlich Milchgrund: circa 6.100
+– Donnerstag, 08.12.2016, Heimfelder Straße östlich Milchgrund: circa 6.100
 
 Kfz/24h, circa 8 Prozent SV.
 
- Donnerstag, 08.12.2016, Heimfelder Straße westlich Milchgrund: circa 5.100
+– Donnerstag, 08.12.2016, Heimfelder Straße westlich Milchgrund: circa 5.100
 
 Kfz/24h, circa 9 Prozent SV.
 
@@ -268,11 +269,11 @@ f) Wie hoch war die gemessene Spitzen- beziehungsweise Maximalgeschwindigkeit be
 
 Vor und nach der Einführung der nächtlichen Geschwindigkeitsbegrenzung wurden
 
-• Verkehrsstärke- und Zusammensetzung,
+– Verkehrsstärke- und Zusammensetzung,
 
-• gefahrene Geschwindigkeiten und
+– gefahrene Geschwindigkeiten und
 
-• Lärmpegel
+– Lärmpegel
 
 von unterschiedlichen Dienststellen erhoben. Ein vom Senat beauftragtes Ingenieurbüro hat im Anschluss die Daten zusammengestellt und ausgewertet. Eine Zusammenstellung der Ergebnisse für die V85 ist in nachfolgender Tabelle dargestellt. Eine Auswertung nach Spitzengeschwindigkeiten und mittleren Geschwindigkeiten ist nicht erfolgt, allerdings wurden die Datensätze zu den Spitzengeschwindigkeiten und mittleren Geschwindigkeiten in der Auswertung berücksichtigt (zum Beispiel Plausibilitätskontrollen).
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12471", "21/2413"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51534"
@@ -84,6 +85,6 @@ Welche Verkehrsbehinderungen werden sich während der Bauphase in der Straße We
 
 Wie möchte der Senat für die Schulwegsicherung zu den umliegenden Schulen während der Bauphase und nach Fertigstellung des Bauprojekts Sorge tragen? Welche konkreten Maßnahmen sollen dazu umgesetzt werden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/2413.

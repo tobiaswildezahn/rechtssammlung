@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 5
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9652"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58870"
@@ -43,6 +44,6 @@ Wurde der Mietvertrag für diesen f&w-Standort inzwischen verlängert? Wenn ja, 
 
 Für welchen genauen Nutzungszeitraum steht diese Wohnanlage f & w zur Verfügung? Welche Verlängerungsoptionen gibt es gegebenenfalls?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der bisherige Mietvertrag läuft noch bis zum 31. August 2017. Die Plätze werden auch in der Zukunft zum Abbau der Überresidenten an diesem gut akzeptierten Standort dringend benötigt. Derzeit finden Verhandlungen zur Vertragsverlängerung statt. Im Übrigen sind die Planungen hierzu noch nicht abgeschlossen.

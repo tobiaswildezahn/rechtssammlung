@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 19
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13923"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48337"
@@ -65,7 +66,7 @@ Existiert mittlerweile eine entsprechende Senatsdrucksache? Wenn ja, wie stellt 
 
 Zu welchem Zeitpunkt und auf welchem Wege wird der Senat die Bürgerschaft damit befassen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Planungen sind noch nicht abgeschlossen. Im Übrigen siehe Drs. 20/13923.
 

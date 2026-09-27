@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5780", "21/7435", "21/3769"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56985"
@@ -95,19 +96,19 @@ Wie ist der zeitliche Rahmen der Prüfung des Projekts Justizvollzug Hamburg 202
 
 Folgende Modelle werden geprüft und gegeneinander abgewogen:
 
- Modell A: Jugenduntersuchungshaft verbleibt in Hahnöfersand, ebenso der
+– Modell A: Jugenduntersuchungshaft verbleibt in Hahnöfersand, ebenso der
 
 Jugendarrest und der offene Jugendvollzug, im Übrigen Kooperation mit Schleswig-Holstein im Jugendstraf- und Frauenvollzug.
 
- Modell B: Keine Kooperation mit Schleswig-Holstein in den Bereichen des
+– Modell B: Keine Kooperation mit Schleswig-Holstein in den Bereichen des
 
 Jugendstraf- und Frauenvollzuges. Verlagerung des gesamten Jugendvollzugs in Haus I und III der Justizvollzugsanstalt (JVA) Fuhlsbüttel.
 
- Modell C: Ebenfalls keine Kooperation mit Schleswig-Holstein. Verlagerung des
+– Modell C: Ebenfalls keine Kooperation mit Schleswig-Holstein. Verlagerung des
 
 gesamten Jugendvollzuges an den Standort der JVA Billwerder.
 
- Modell D: Neubau einer Teilanstalt für Jugenduntersuchungshaft am Standort der
+– Modell D: Neubau einer Teilanstalt für Jugenduntersuchungshaft am Standort der
 
 JVA Billwerder und Kooperation im Bereich des Jugendstraf- und Frauenvollzuges mit Schleswig-Holstein.
 
@@ -117,27 +118,27 @@ Alle Modelle werden interdisziplinär nach einem einheitlichen Muster geprüft, 
 
 Untersucht werden jeweils folgende Prüfungsgegenstände:
 
- Es erfolgt ein fortlaufendes Monitoring der Haftplatzkapazitäten und -bedarfe ent-
+– Es erfolgt ein fortlaufendes Monitoring der Haftplatzkapazitäten und -bedarfe ent-
 
 sprechend des im Zwischenbericht unter A.II. (Drs. 21/5780) beschrieben Verfahrens, das heißt, die Jahresspitzenbelegungen werden fortlaufend gegenübergestellt, wobei theoretisch davon ausgegangen wird, dass diese Belegungen an einem Tag zusammenfallen.
 
- Es werden die vollzugsfachlichen Anforderungen an einen zukunftsfähigen
+– Es werden die vollzugsfachlichen Anforderungen an einen zukunftsfähigen
 
 Jugendvollzug erarbeitet und entsprechend dem vertieften Prüfungsprozess fortlaufend überprüft, sodass in jedem Prüfmodell das angestrebte Ziel einer Standardverbesserung erreicht werden kann. Ziel ist es, den Bereich Entlassungsvorbereitung/Übergangsmanagement zu optimieren und die Kontinuität der Betreuung sicherzustellen. Des Weiteren soll der Bereich Schule und Ausbildung/Qualifizierung zukunftsfähig und arbeitsmarktbezogen ausgestaltet werden.
 
- Baukostenermittlung für die einzelnen Modelle nach der Maßgabe des Kosten-
+– Baukostenermittlung für die einzelnen Modelle nach der Maßgabe des Kosten-
 
 stabilen Bauens.
 
- Gesonderte Personalbedarfsprognose wird für jedes Prüfmodell erstellt, da die
+– Gesonderte Personalbedarfsprognose wird für jedes Prüfmodell erstellt, da die
 
 Auswirkungen auf den Investitions-, Betriebs- und Personalhaushalt sowie auf die Arbeitsbedingungen der Mitarbeiter zu untersuchen sind.
 
- Es erfolgt eine Kostenermittlung und gegebenenfalls die Festlegung von Aus-
+– Es erfolgt eine Kostenermittlung und gegebenenfalls die Festlegung von Aus-
 
 gleichzahlungen im Falle der Kooperation.
 
- Es werden rechtliche Anpassungsbedarfe für jede Alternative geprüft.
+– Es werden rechtliche Anpassungsbedarfe für jede Alternative geprüft.
 
 Das Vorgehen stellt sicher, dass die Vor- und Nachteile des jeweiligen Modells transparent abgebildet werden. Gleichzeitig werden die Vor- und Nachteile eines Modells zueinander sowie zu den Vor- und Nachteilen der übrigen zu prüfenden Modelle ins Verhältnis gesetzt. Auf diese Weise wird ein hohes Maß an Vergleichbarkeit gewährleistet. Eine von vornherein gewichtende Bewertungsmatrix gibt es dabei nicht. Die Baukostenermittlung für sämtliche Varianten erfolgt nach den Maßgaben der Drucksache zum Kostenstabilen Bauen.
 

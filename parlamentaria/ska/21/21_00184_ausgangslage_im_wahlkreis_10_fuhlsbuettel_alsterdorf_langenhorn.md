@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11181", "20/5317", "20/14467", "20/3641", "20/37", "20/12562", "20/12229", "21/136", "20/12627", "20/13744", "20/13138", "20/5300"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48313"
@@ -792,15 +793,15 @@ tion Schule-Jugendhilfe und des schulbezogenen Netzwerks zusammen und welche Ang
 
 Im Wahlkreis 10 gibt es folgende Kooperationen Schule – Jugendhilfe im Kontext der Rahmenvereinbarung Regionale Kooperationen zwischen Schule und Jugendhilfe für die Bildung und Betreuung von Kindern und Jugendlichen mit besonders herausforderndem Verhalten:
 
- nach Modell I (integrierte Gruppe in der allgemeinen Schule): Eine gemeinsame
+– nach Modell I (integrierte Gruppe in der allgemeinen Schule): Eine gemeinsame
 
 Gruppe der Stadtteilschule Fritz-Schumacher und der Stadtteilschule Am Heidberg mit zehn Plätzen für die Jahrgangsstufen 5 bis 10; Träger Nordlicht e.V.
 
- nach Modell II (temporäre Gruppe im Regionalen Bildungs- und Beratungszent-
+– nach Modell II (temporäre Gruppe im Regionalen Bildungs- und Beratungszent-
 
 rum/ReBBZ): ReBBZ Winterhude eine Gruppe mit sechs Plätzen für die Jahrgangsstufen 5 bis 10; Träger Hamburger Kinder- und Jugendhilfe e. V. (HaKiJu)
 
- nach Modell II (temporäre Gruppe im Regionalen Bildungs- und Beratungszent-
+– nach Modell II (temporäre Gruppe im Regionalen Bildungs- und Beratungszent-
 
 rum/ReBBZ): ReBBZ Nord eine Gruppe mit sechs Plätzen jahrgangsoffen; Träger Für Soziales
 
@@ -1476,19 +1477,19 @@ Im Stadtteil Alsterdorf befindet sich die Freiwilligenagentur Nord mit einem Hau
 
 Zu den Aufgaben der Freiwilligenagentur gehören:
 
- Information und Beratung für freiwillig Engagierte und Interessierte,
+– Information und Beratung für freiwillig Engagierte und Interessierte,
 
- Unterstützung gemeinwohlorientierter Organisationen und Initiativen,
+– Unterstützung gemeinwohlorientierter Organisationen und Initiativen,
 
- Qualitätsentwicklung und Controlling der Freiwilligenarbeit,
+– Qualitätsentwicklung und Controlling der Freiwilligenarbeit,
 
- Entwicklung, Realisierung und Evaluierung neuer Ideen und Projekte des bürger-
+– Entwicklung, Realisierung und Evaluierung neuer Ideen und Projekte des bürger-
 
 schaftlichen Engagements,
 
- Vernetzung der Freiwilligenagentur Nord im lokalen Zusammenhang,
+– Vernetzung der Freiwilligenagentur Nord im lokalen Zusammenhang,
 
- Öffentlichkeitsarbeit.
+– Öffentlichkeitsarbeit.
 
 Die Freiwilligenagentur Nord wird seit dem 1. September 2012 durch die Behörde für Arbeit, Soziales, Familie und Integration (BASFI) im Rahmen einer Zuwendung (zweckgebundener Zuschuss zur Projektförderung, Festbetragsfinanzierung) mit
 25.000 Euro pro Jahr gefördert.

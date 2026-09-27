@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/68"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50011"
@@ -87,6 +88,6 @@ Ist eine Beteiligung der IFB an weiteren im Mieter-Vermieter-Modell umzusetzende
 
 In welchem Umfang und unter welchen Voraussetzungen soll das Geschäft mit Konsortialfinanzierungen der IFB weiter ausgeweitet werden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Als Förderbank darf die IFB nur an Konsortialgeschäften teilnehmen, diese aber selbst nicht initiieren. Damit sind Konsortialgeschäfte nicht planbar.

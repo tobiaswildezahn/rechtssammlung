@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10261"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62322"
@@ -122,7 +123,7 @@ Welche Maßnahmen hat die Behörde für Wissenschaft, Forschung und Gleichstellu
 
 Welche Konsequenzen zieht die Behörde aus der Veranstaltung gegenüber der Universität? Bitte gegebenenfalls erläutern.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Keine. Der Umgang mit Veranstaltungen der genannten Art unterliegt der Verantwortung der UHH im Rahmen der Hochschulautonomie.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11606", "21/11917"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61590"
@@ -59,7 +60,7 @@ Welche Kenntnisse liegen dem Senat darüber vor, wie sich die Zahl der Drogentot
 
 Welche Kenntnisse liegen dem Senat darüber vor, wie sich die Zahl der Drogentoten je 100.000 Einwohner in Hamburg im Vergleich mit anderen deutschen Großstädten im Jahr 2017 entwickelt hat?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im Gegensatz zu den Daten über die Hamburger Drogentoten liegt das „Bundeslagebild Rauschgiftkriminalität“ des Bundeskriminalamts für das Jahr 2017 noch nicht vor. Die Veröffentlichung erfolgt voraussichtlich erst in der zweiten Jahreshälfte 2018.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3550", "21/7644", "21/7844", "21/2108"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61449"
@@ -49,19 +50,19 @@ Wie viele Flüchtlinge aus welchen Ländern sind aktuell in der Flüchtlingsunte
 
 Sind noch Familien in der Flüchtlingsunterkunft Tessenowweg untergebracht? Wenn ja, wie viele und bis wann soll auf die Unterbringung von Familien in der Unterkunft vollumfänglich verzichtet werden? Wenn nein, seit wann nicht mehr?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Unterkunft Tessenowweg hat eine Größenordnung von 540 Plätzen und es halten sich dort – mit Stand 31.1.2018 – 505 Personen auf. Von den 505 Personen sind
 
- 18 Prozent afghanische Staatsangehörige,
+– 18 Prozent afghanische Staatsangehörige,
 
- 13 Prozent deutsche Staatsangehörige,
+– 13 Prozent deutsche Staatsangehörige,
 
- 10 Prozent syrische Staatsangehörige,
+– 10 Prozent syrische Staatsangehörige,
 
- 9 Prozent ghanaische Staatsangehörige,
+– 9 Prozent ghanaische Staatsangehörige,
 
- 6 Prozent eritreische Staatsangehörige.
+– 6 Prozent eritreische Staatsangehörige.
 
 Die übrigen 44 Prozent der Bewohner setzen sich aus Staatsangehörigen weiterer 49 Nationen zusammen. Aus Datenschutzgründen können diese nicht einzeln aufgeschlüsselt werden, um aufgrund der geringen Fallzahlen keine direkten Rückschlüsse auf einzelne Personen zu ermöglichen.
 
@@ -113,7 +114,7 @@ Wie häufig kam es seit 2016 zu Verlegungen wegen Gewaltvorfällen oder Verstö�
 
 Wie oft kam es seit 2016 zu Verlegungen wegen Gewaltvorfällen oder Verstößen gegen die Hausordnung aus der Flüchtlingsunterkunft Tessenowweg in anderen Einrichtungen? (Bitte jahresweise aufschlüsseln.)
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Diese Daten werden nicht gesondert statistisch erfasst. Hierzu wäre eine händische Erfassung von mehreren Hundert Belegungen und Verlegungen aus anderen Unterkünften sowie der Verfolgung der Verlegungen in den Tessenowweg erforderlich. Dies
 

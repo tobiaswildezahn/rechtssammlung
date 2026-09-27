@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57969"
@@ -134,7 +135,7 @@ Wie viele Teilnehmer im HAP in den Jahren 2010 bis 2015 konnten dieses jeweils m
 
 Gibt es Untersuchungen, wie viele der Teilnehmer des HAP am Ende auch von dem Betrieb übernommen wurden, anderweitig eine Arbeitsstelle direkt im Anschluss fanden und wie viele danach sofort arbeitslos gemeldet waren? Wenn ja, welche Ergebnisse erbrachten die Untersuchungen? Wenn nein, warum wurde ein seit 1983 laufendes Programm noch nicht auf seinen Erfolg hin untersucht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Angaben zu 4. und 5. sind den nachfolgenden Tabellen zu entnehmen. Die Daten zum Verbleib beruhen auf Rückmeldungen durch die Träger drei Monate nach Beendigung der Maßnahmen. Aufgrund der unterschiedlichen Ausbildungsdauer und gegebenenfalls Nachlernzeiten werden Jugendliche aus unterschiedlichen Einstiegsjahren erfasst.
 

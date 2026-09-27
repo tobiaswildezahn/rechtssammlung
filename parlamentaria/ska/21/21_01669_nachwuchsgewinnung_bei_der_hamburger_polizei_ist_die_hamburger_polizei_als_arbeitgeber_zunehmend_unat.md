@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49883"
@@ -43,7 +44,7 @@ Wie hoch ist das Verhältnis zwischen Einstellungen und eingegangenen Bewerbunge
 
 Wie hat sich dieses Verhältnis seit 2013 entwickelt? Bitte auch nach Schutz-, Kriminal- und Wasserschutzpolizei sowie Laufbahngruppen aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Jahr  
 2013  
@@ -148,7 +149,7 @@ Auf welche Weise beabsichtigt der Senat beziehungsweise die zuständige Behörde
 
 Inwiefern hilft der angeschaffte MINI Cooper in Polizeioptik dabei, Bewerber zu finden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Zielgruppe bezieht ihre Informationen im zunehmenden Maße über Internet und Facebook, die Polizei unternimmt daher verstärkt Werbemaßnahmen in diesem Bereich.
 

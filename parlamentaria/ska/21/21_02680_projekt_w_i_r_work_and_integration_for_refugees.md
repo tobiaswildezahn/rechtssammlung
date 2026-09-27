@@ -14,6 +14,7 @@ fragen: 25
 einzelfragen: 35
 antwortbloecke: 24
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2074", "21/2272", "21/2271", "21/1532"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50989"
@@ -310,7 +311,7 @@ Was soll bei dem Projekt W.I.R anders gemacht werden, um einen besseren Erfolg z
 
 Was unterscheidet die beiden Projekte zusätzlich voneinander?
 
-#### Antwort zu Fragen 23 bis 24
+#### Antwort zu Fragen 23 und 24
 
 Um diese Aufgabe systematisch bewältigen zu können, bedarf es einer anderen und neuen Kooperation der beteiligten Regelstrukturen des Bundes und des Landes. Die zuständige Fachbehörde hat sich daher – unter Beteiligung des „Aktionsbündnisses Bildung und Beschäftigung Hamburg – Hamburger Fachkräftenetzwerk“ – mit der Agentur für Arbeit und Jobcenter darauf verständigt, nach dem Vorbild der Hamburger Jugendberufsagentur für Arbeit systematisch, rechtskreisübergreifend die Ausbildungs- und Arbeitsmarktintegration für die Gruppe der Flüchtlinge zu entwickeln.
 

@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 24
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63188"
@@ -274,7 +275,7 @@ H2. Wie viele Kinderunter 14 Jahren leben in diesem Haushalt?
 3. Kind  Geburtsjahr
 4. Kind  Geburtsjahr
 
- Interview-ID aus Excel-Liste Auswählen und im Screener eintragen (Beispiel)
+– Interview-ID aus Excel-Liste Auswählen und im Screener eintragen (Beispiel)
 
 Straße Haus- Nr
 
@@ -324,43 +325,43 @@ INT.: Maßnahme erläutern und Vorlage mit aktueller und alternativer Linienfüh
 
 F1 Wie ist Ihre persönliche Meinung zur neuen Linienführung der Buslinie 143? Welche Linienführung wünschen Sie sich? INT.: Bitte 1 und 2 vorlesen
 
-  
+–  
 Ich wünsche mir die Einführung der neuen Linienführung.  
-  
+–  
 Ich möchte, dass die bisherige Linienführung beibehalten wird  
-  
+–  
 Ich habe keine Meinung zu dem Thema  
-  
+–  
 Es ist mir egal
 
 Fragen zur Bewertung an alle Befragten! F2. Bitte begründen Sie Ihre Meinung. Warum bevorzugen Sie neue Linienführung? <Code 1 in F8> Warum bevorzugen Sie bisherige Linienführung? <Code 2 in F8> Warum haben Sie keine Meinung zu dem Thema bzw. ist es Ihnen egal? <Code 3 und 4>
 
- Offenes Textfeld
+– Offenes Textfeld
 
 F3. Wie oft fahren Sie mit den öffentlichen Verkehrsmitteln des HVV generell? INT.: Bitte vorlesen!
 
-  
+–  
 täglich/fast täglich  
-  
+–  
 1 bis 3-mal pro Woche  
-  
+–  
 1 bis 3-mal pro Monat  
-  
+–  
 seltener  
-  
+–  
 Nie
 
 FILTER: Falls HVV-Nutzung lt. Frage 3 F4. Und wie oft fahren Sie derzeit mit der Buslinie 143? (Anm: Max Einblenden Antwortvorgabe F3) INT.: Bitte vorlesen!
 
-  
+–  
 täglich/fast täglich  
-  
+–  
 1 bis 3-mal pro Woche  
-  
+–  
 1 bis 3-mal pro Monat  
-  
+–  
 seltener  
-  
+–  
 Nie
 
 F5. Falls die Linienführung so wie hier vorgestellt geändert werden sollte,
@@ -368,69 +369,69 @@ a) würden Sie dann die Buslinie 143 zukünftig ...
 
 INT.: Bitte vorlesen
 
-  
+–  
 Sehr viel häufiger  
-  
+–  
 Etwas häufiger  
-  
+–  
 Genauso wie jetzt  
-  
+–  
 Etwas seltener oder  
- nur einblenden, falls 143 genutzt wird (F4)  
-  
+– nur einblenden, falls 143 genutzt wird (F4)  
+–  
 Sehr viel seltener nutzen? oder  
- nur einblenden, falls 143 genutzt wird (F4)
+– nur einblenden, falls 143 genutzt wird (F4)
 
 b) würden Sie dann zukünftig den HVV … INT.: Bitte vorlesen
 
-  
+–  
 Sehr viel häufiger  
-  
+–  
 Etwas häufiger  
-  
+–  
 Genauso wie jetzt  
-  
+–  
 Etwas seltener oder  
- nur einblenden, falls HVV genutzt wird (F3)  
-  
+– nur einblenden, falls HVV genutzt wird (F3)  
+–  
 Sehr viel seltener nutzen?  
- nur einblenden, falls HVV genutzt wird (F3)
+– nur einblenden, falls HVV genutzt wird (F3)
 
 FILTER: Falls der HVV zukünftig häufiger genutzt werden wird lt. F5b
 
 F6. Sie haben gerade gesagt, sie würden mit der neuen Linienführung der Linie 143 den HVV sehr viel/etwas häufiger benutzen. Welche Verkehrsmittel nutzen Sie zurzeit anstelle des HVV stattdessen? Bitte bei Bedarf vorlesen.- Mehrfachnennungen möglich.
 
-  
+–  
 PKW/(Fahrer und/oder Mitfahrer)  
-  
+–  
 motorisiertes Zweirad  
-  
+–  
 Fahrrad  
-  
+–  
 zu Fuß
 
-  
+–  
 wäre mit der neuen Linienführung generell häufiger unterwegs  
-  
+–  
 weiß nicht
 
 FILTER: Falls zumindest seltene HVV Nutzung laut F3 F7. Zu welchen Fahrzwecken nutzen Sie die öffentlichen Verkehrsmittel des HVV hauptsächlich? INT.: Mehrfachnennungen möglich
 
-  
+–  
 Für Wege von und zur Arbeit  
-  
+–  
 Für Wege von und zur Schule/Ausbildung/Universität  
-  
+–  
 Für Einkäufe  
-  
+–  
 Für Freizeitaktivitäten  
-  
+–  
 Für Arzt- und Behörden-Besuche  
-  
+–  
 Private Erledigungen  
-  
+–  
 Begleitung von Kindern oder hilfsbedürftigen Personen  
-  
+–  
 Sonstige Fahrzwecke: ______________________
 
 Statistik
@@ -445,60 +446,60 @@ S3. Sind Sie zurzeit berufstätig?
 
 INT.: Antwortvorgaben können bei Bedarf vorgelesen werden
 
-  
+–  
 Vollzeit erwerbstätig  
-  
+–  
 Teilzeit erwerbstätig  
-  
+–  
 Geringfügig erwerbstätig  
-  
+–  
 Auszubildende(r)  
-  
+–  
 Schüler  
-  
+–  
 Student(in)  
-  
+–  
 z. Zt. arbeitslos  
-  
+–  
 Vorübergehend freigestellt (z.B. Erziehungsurlaub)  
-  
+–  
 Hausfrau/Hausmann  
-  
+–  
 Rentner/Pensionär  
-  
+–  
 Freiwilliges Jahr/Bundeswehr  
-  
+–  
 Sonstiges
 
 S4. Welche der folgenden Verkehrsmittel stehen Ihnen zur regelmäßigen Nutzung zur
 
 Verfügung? INT.: Antwortvorgaben können bei Bedarf vorgelesen werden
 
-  
+–  
 PKW/(Fahrer und/oder Mitfahrer)  
-  
+–  
 Motorrad  
-  
+–  
 Fahrrad
 
-  
+–  
 Roller/Inliner  
-  
+–  
 Leihfahrrad  
-  
+–  
 Car-Sharing - Angebote  
-  
+–  
 Taxi  
-  
+–  
 Nichts davon
 
 S5. Sind Sie generell in Ihrer Mobilität eingeschränkt? INT.: Antwortvorgaben bitte vorgelesen
 
-  
+–  
 Ja, ich bin stark eingeschränkt  
-  
+–  
 Ja, ich bin etwas eingeschränkt  
-  
+–  
 Nein, ich bin nicht eingeschränkt.
 
 Haushaltsbefragung zur Erweiterung des ÖPNV-Angebotes in den Ortsteilen Wilstorf, Rönneburg und Langenbek.

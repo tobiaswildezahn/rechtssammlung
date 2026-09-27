@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 22
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48786"
@@ -160,7 +161,7 @@ Inwiefern wird der Wiedererkennungswert eines Geschäftes/Standes in dem Punktes
 
 Inwiefern berücksichtigt das Punktesystem, ob ein Geschäft/Stand bereits im Vorjahr sowie in den vorherigen Jahren erfolgreich auf dem Dom bestanden hat?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Siehe Antwort zu 12.
 

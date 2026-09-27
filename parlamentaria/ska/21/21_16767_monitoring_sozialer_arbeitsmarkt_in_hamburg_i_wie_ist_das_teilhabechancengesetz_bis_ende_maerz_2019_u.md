@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16237", "21/16459"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66319"
@@ -143,7 +144,7 @@ Wie viele Gutscheine für ein vorbereitendes Coaching wurden für den eingangs g
 Wie viele der eingangs genannten Personen hatten jeweils bis zum
 31.01., 28.02. und 31.03.2019 einen Rentenantrag gestellt? Bitte aufschlüsseln nach Art der Rente und nach Bewilligung des Rentenantrags.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung.
 

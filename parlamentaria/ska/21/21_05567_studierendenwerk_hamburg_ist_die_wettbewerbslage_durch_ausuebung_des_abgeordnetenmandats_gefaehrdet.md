@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4416"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54060"
@@ -62,7 +63,7 @@ Mit welchen Unternehmen und mit welchen Waren-/Dienstleistungen steht das Studie
 
 Welche dieser (unter 1. genannten) Wettbewerber aus der Gastronomie sind in der Lage, durchschnittlich 5,2 Millionen Kunden im Jahr zu versorgen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Hierüber liegen dem Senat keine Kenntnisse vor. Im Übrigen siehe Vorbemerkung.
 

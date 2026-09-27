@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49245"
@@ -49,7 +50,7 @@ Wie viele Zweitwohnsitze sind derzeit in Hamburg angemeldet? Wie viele waren es 
 
 Wie viele Hamburgerinnen und Hamburger haben Zweitwohnsitze angemeldet? a. Wie viele haben diese aus beruflichen Gründen angemeldet? b. Wie viele waren es jeweils 2012 und 2014?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die zur Beantwortung der Fragen benötigten Daten werden von der für Finanzen zuständigen Behörde nicht gesondert statistisch erfasst. Hierfür wäre eine Einzelfallauswertung von circa 10.000 Akten je gefragten Kalenderjahr notwendig. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

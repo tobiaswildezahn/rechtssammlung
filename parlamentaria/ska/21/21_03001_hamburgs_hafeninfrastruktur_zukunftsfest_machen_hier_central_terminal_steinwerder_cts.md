@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 20
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2956", "21/2368", "20/7395", "20/10595", "20/14001", "18/1680", "20/5550"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51344"
@@ -113,7 +114,7 @@ Wie haben sich die aktuellen Kostenermittlungen für die Projekte der allgemeine
 
 Welche Unterschiede ergeben sich zwischen den Investitionsbedarfen und den bereits in den Planungen der Finanzen der Freien und Hansestadt Hamburg sowie der HPA vorgesehenen Investitionen (bitte anhand der Projekte der HPA darstellen)?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Drs. 21/2368.
 

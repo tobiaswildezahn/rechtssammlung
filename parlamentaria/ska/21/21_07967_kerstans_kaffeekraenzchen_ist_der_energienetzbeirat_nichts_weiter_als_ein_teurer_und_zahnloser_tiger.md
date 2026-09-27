@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 23
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3581"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56616"
@@ -111,7 +112,7 @@ Wie viele schriftliche Bürgeranfragen (im Rahmen der Fragestunde) hat es bislan
 
 Wie viele schriftliche Bürgeranfragen (aus Frage 5.) wurden bislang in den öffentlichen Sitzungen des Energienetzbeirates besprochen und wie viele wurden auf einen späteren Zeitpunkt vertagt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Alle Bürgeranfragen sind in den Sitzungsprotokollen dokumentiert, siehe dazu auch www.hamburg.de/energienetzbeirat.
 
@@ -179,7 +180,7 @@ Welche ökonomischen Kosten sind den Hamburger Fernwärmekunden bereits dadurch 
 
 Welche ökologischen Schäden sind in Hamburg und in Wedel dadurch entstanden, dass eine Ersatzlösung für das Fernwärmekraftwerk Wedel selbst heute noch nicht wie im rot-grünen Koalitionsvertrag (im Jahr 2015) vereinbart, gefunden worden ist?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Keine.
 

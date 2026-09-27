@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 25
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/536", "21/1324", "20/14104"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49664"
@@ -91,7 +92,7 @@ Waren der Kulturbehörde die genannten Musikgruppen „Slime“, „Die Goldenen
 
 Hat sich die Kulturbehörde die Mühe gemacht, die Musikgruppen auf der Internetseite des besagten Festivals anzuschauen? Wenn ja, welche Bedenken hat die Kulturbehörde zu einem Auftritt der besagten Gruppen im Einzelnen gehabt und zu welchem Ergebnis ist die Behörde gekommen? Wenn nein, warum hat die Kulturbehörde als Partner keinen Überblick beziehungsweise setzt sich nicht mit Veranstaltern und den Musikgruppen auseinander?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antworten zu 1. und zu 3.
 

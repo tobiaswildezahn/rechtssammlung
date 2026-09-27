@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57428"
@@ -49,7 +50,7 @@ Dies vorausgeschickt, beantwortet der Senat die Fragen auf der Grundlage von Aus
 
 Nach welchen Kriterien werden die Räume für Aktivitäten von Hochschulgruppen zur Verfügung gestellt? Bitte nach Hochschule aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 
@@ -61,7 +62,7 @@ Wie oft wurden in den Jahren 2015, 2016 und 2017 jeweils Räume für Aktivitäte
 
 Welche Hochschulgruppen haben die Räume jeweils nutzen dürfen? Bitte nach Hochschule aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage 2.
 
@@ -89,7 +90,7 @@ Wie oft wurden in den Jahren 2015, 2016 und 2017 jeweils Räume für externe Ver
 
 Welche Veranstalter haben die Räume jeweils gemietet? Bitte nach Hochschule aufschlüsseln.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Anlage 3 sowie Vorbemerkung.
 
@@ -101,7 +102,7 @@ Wie oft wurden in den Jahren 2015, 2016 und 2017 Anfragen für Veranstaltungen a
 
 Wie oft wurden in den Jahren 2015, 2016 und 2017 Anfragen für Veranstaltungen an Hochschulen durch externe Veranstalter abgelehnt? Mit welchen Begründungen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 An der UHH sind keine entsprechenden Ablehnungen dokumentiert. An der TUHH wurde im Jahr 2017 eine Veranstaltung der Hochschulgruppen zusammen mit politischen Parteien abgelehnt, die in einem Zeitraum von sechs Wochen vor der Bundestagswahl stattfinden sollte. Im Übrigen lehnt die TUHH alle Veranstaltungen ab, die unter die in der Antwort zu 5. genannten Kriterien fallen. Die HAW kann die Fragen nicht beantworten, da die Ablehnungen nicht systematisch erfasst werden. Grundsätzlich werden nur Veranstaltungen abgelehnt, welche nicht den Vergabebestimmungen der HAW entsprechen. An der HCU wurden im Jahr 2017 50, im Jahr 2016 76 und im Jahr 2015 circa 90 Veranstaltungen externer Veranstalter abgelehnt. Die Gründe hierfür waren Beeinträchtigungen des studentischen Betriebs, Kapazitätsgrenzen oder fehlender Fachbezug der Veranstaltungen. Die HfMT schätzt, dass dort jährlich circa zehn bis 15 Anfragen zur Ausrichtung von Veranstaltungen abgelehnt werden. Auch hier gibt die HfMT den Eigenbedarf der Räumlichkeiten als Begründung an.
 
@@ -154,7 +155,7 @@ Wie hoch ist die Auslastung der Räume durch Lehrveranstaltungen der Hochschulen
 
 Wie hoch ist die Auslastung der Räume durch Lehrveranstaltungen der Hochschulen plus Veranstaltungen von Hochschulgruppen oder externen Organisationen? Bitte nach Hochschule aufschlüsseln.
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Die UHH gibt an, dass gemäß einer Auslastungsuntersuchung im Wintersemester 2015/2016 für die Hörsäle eine im Bundesvergleich durchschnittliche Auslastung ermittelt wurde. Die UHH erfasst jedoch nicht, wie hoch die Gesamtauslastung ihrer Räumlichkeiten inklusive der Nutzung durch externer Veranstalter ist. An der TUHH wird alleine durch Lehrveranstaltungen eine nahezu volle Auslastung erreicht. Dies sei auch an der HFBK der Fall. Die HAW gibt an, dass die Auslastung ihrer Räume durch Lehrveranstaltungen bei 75 Prozent läge. Da die Veranstaltungen von externen Organisationen oder Hochschulgruppen überwiegend in der Zeit nach 18 Uhr, am Wochenende und in der vorlesungsfreien Zeit stattfinden würden, würde sich keine deutliche Erhöhung der Auslastung durch eine solche Vergabe von Räumen bemerkbar machen. Die HfMT verfüge gegenwärtig nicht über geeignete Systeme, um Auswertungen zum Auslastungsgrad ihrer Räume vorzunehmen. Seit Beginn des Wintersemesters 2016/2017 ist an der HfMT ein speziell für Musik- und Theaterhochschulen entwickeltes webbasiertes Raummanagementsystem im Einsatz, das bereits nach kurzer Zeit für eine weitere Effizienzsteigerung in Bezug auf die Ausschöpfung der knappen Ressource Raum gesorgt hat. Vor diesem Hintergrund spricht die HfMT trotz fehlender Daten von einer sehr hohen Auslastung der verfügbaren Räume. Im Übrigen siehe Vorbemerkung.
 

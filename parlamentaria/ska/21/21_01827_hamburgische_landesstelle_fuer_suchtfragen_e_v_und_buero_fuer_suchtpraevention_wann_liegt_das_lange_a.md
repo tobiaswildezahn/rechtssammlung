@@ -14,6 +14,7 @@ fragen: 31
 einzelfragen: 44
 antwortbloecke: 28
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1346", "20/12063", "20/14461", "20/14582"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50068"
@@ -136,7 +137,7 @@ Welche Aufgaben und Zuständigkeiten jeweils hinsichtlich Suchtprävention und S
 
 Soll die neue Fachstelle auch für den Bereich der Suchtselbsthilfe zuständig sein? Wenn nein, warum konkret nicht und bei wem soll diese zukünftig liegen?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Antwort zu 7.
 

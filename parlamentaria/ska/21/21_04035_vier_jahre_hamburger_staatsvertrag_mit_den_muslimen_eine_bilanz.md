@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 19
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3166", "21/2581", "20/13083", "20/13460", "21/476", "21/954", "21/1703", "21/1706", "21/1987", "21/2483", "21/2578", "21/2623", "21/2965"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52440"
@@ -57,11 +58,11 @@ Zudem war SCHURA in der 20. Legislaturperiode im Hamburger Integrationsbeirat ve
 
 Die islamischen Religionsgemeinschaften haben zudem ihre Öffentlichkeitsarbeit verstärkt und setzen sich nicht nur für den interreligiösen Dialog, sondern auch für den Dialog mit der Zivilgesellschaft ein. Siehe zum Beispiel:
 
-• http://schurahamburg.de/index.php/2-uncategorised/158-eroeffnungsrede-desvorsitzenden-der-schura-zur-konferent-in-der-gesellschaft-wirken-muslime-alszivilgesellschaftliche-akteure;
+– http://schurahamburg.de/index.php/2-uncategorised/158-eroeffnungsrede-desvorsitzenden-der-schura-zur-konferent-in-der-gesellschaft-wirken-muslime-alszivilgesellschaftliche-akteure;
 
-• http://ditib-nord.de/content/wir-verurteilen-den-terror-von-br%C3%BCssel-aufssch%C3%A4rfste;
+– http://ditib-nord.de/content/wir-verurteilen-den-terror-von-br%C3%BCssel-aufssch%C3%A4rfste;
 
-• http://vikz.de/index.php/aktuelle-pressemitteilungen-krm/items/jeder-fluechtling-istzu-allererst-ein-mensch-begegnung-von-ekd-und-krm-delegation-inmuenchen.html.
+– http://vikz.de/index.php/aktuelle-pressemitteilungen-krm/items/jeder-fluechtling-istzu-allererst-ein-mensch-begegnung-von-ekd-und-krm-delegation-inmuenchen.html.
 
 ### Frage 2
 
@@ -71,9 +72,9 @@ Welche Anstrengungen haben die MGH seit November 2012 unternommen, um Gewalt und
 
 Die Arbeit der islamischen Religionsgemeinschaften und der ihnen angehörenden Gemeinden geht über die religiöse Betreuung der Gemeindemitglieder hinaus; siehe zum Beispiel:
 
-• http://vikz.de/index.php/soziale-dienste.html;
+– http://vikz.de/index.php/soziale-dienste.html;
 
-• http://ditib-nord.de/content/ditib-hotline-telefonische-familien-und-sozialberatung.
+– http://ditib-nord.de/content/ditib-hotline-telefonische-familien-und-sozialberatung.
 
 In der Antidiskriminierungsberatungsstelle amira werden Menschen, die aufgrund ihrer (gegebenenfalls auch nur zugeschriebenen) Herkunft, Religion, Hautfarbe oder Sprache Diskriminierung erlebt haben, über ihre Rechte und Handlungsmöglichkeiten informiert und beraten, um gegebenenfalls einer unzulässigen Ungleichbehandlung und Ungerechtigkeit wirksam entgegenzutreten (siehe Drs. 21/3166).
 

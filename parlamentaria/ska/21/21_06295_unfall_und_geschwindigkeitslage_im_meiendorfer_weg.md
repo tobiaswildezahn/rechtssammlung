@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 17
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/1379"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54829"
@@ -49,7 +50,7 @@ Wie viele Verkehrsunfälle – gegliedert nach Unfällen mit Sachschäden, mit L
 
 Wie hoch waren in diesem Zusammenhang die volkswirtschaftlichen Unfallkosten in den jeweiligen Jahren unter Zugrundelegung der Kostensätze des Verbandes der Sachversicherer (herausgegeben von der Bundesanstalt für Straßenwesen)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Verkehrsunfälle im Knotenbereich Meiendorfer Weg/Nordlandstraße:
 
@@ -150,7 +151,7 @@ Wie viele Verkehrsunfälle – gegliedert nach Unfällen mit Sachschäden, mit L
 
 Wie hoch waren in diesem Zusammenhang die volkswirtschaftlichen Unfallkosten in den jeweiligen Jahren unter Zugrundelegung der Kostensätze des Verbandes der Sachversicherer (herausgegeben von der Bundesanstalt für Straßenwesen)?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Verkehrsunfälle im Abschnitt des Meiendorfer Weges zwischen den Knoten Nordlandstraße und Ringstraße (jeweils ohne Endknoten):
 
@@ -254,7 +255,7 @@ Wie viele Verkehrsunfälle – gegliedert nach Unfällen mit Sachschäden, mit L
 
 Wie hoch waren in diesem Zusammenhang die volkswirtschaftlichen Unfallkosten in den jeweiligen Jahren unter Zugrundelegung der Kostensätze des Verbandes der Sachversicherer (herausgegeben von der Bundesanstalt für Straßenwesen)?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Verkehrsunfälle im Knotenbereich Meiendorfer Weg/Ringstraße:
 
@@ -322,7 +323,7 @@ Wie viele Verkehrsunfälle – gegliedert nach Unfällen mit Sachschäden, mit L
 
 Wie hoch waren in diesem Zusammenhang die volkswirtschaftlichen Unfallkosten in den jeweiligen Jahren unter Zugrundelegung der Kostensätze des Verbandes der Sachversicherer (herausgegeben von der Bundesanstalt für Straßenwesen)?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Verkehrsunfälle im Abschnitt des Meiendorfer Weges zwischen den Knoten Ringstraße und Farmsener Landstraße (jeweils ohne Endknoten):
 
@@ -403,7 +404,7 @@ Wie viele Verkehrsunfälle – gegliedert nach Unfällen mit Sachschäden, mit L
 
 Wie hoch waren in diesem Zusammenhang die volkswirtschaftlichen Unfallkosten in den jeweiligen Jahren unter Zugrundelegung der Kostensätze des Verbandes der Sachversicherer (herausgegeben von der Bundesanstalt für Straßenwesen)?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Verkehrsunfälle im Knotenbereich Meiendorfer Weg/Farmsener Landstraße:
 

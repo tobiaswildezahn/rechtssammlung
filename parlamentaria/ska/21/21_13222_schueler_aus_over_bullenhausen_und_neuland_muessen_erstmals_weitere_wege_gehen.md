@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62566"
@@ -115,7 +116,7 @@ Wie viel weiter sind die unter 7. genannten Alternativen entfernt (bitte Angabe 
 
 Hält der Senat beziehungsweise die zuständige Behörde diese Differenzen für zumutbar? Wenn ja, warum?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Da in allen Fällen Elternwünsche erfüllt werden konnten, ist seitens der zuständigen Behörde keine Auswertung nach Schulweglängen vorgenommen worden. Im Übrigen sieht die zuständige Behörde in derartigen Fällen grundsätzlich von einer Bewertung von Elternwünschen ab.
 

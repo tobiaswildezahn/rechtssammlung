@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 19
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50015"
@@ -176,7 +177,7 @@ Wie viele Hamburgerinnen und Hamburger wohnen im Bereich von bisher deklarierten
 
 Wie sieht die regelmäßige Information der unter 9. aufgeführten Gruppe konkret aus und wie häufig wird informiert?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 In Hamburg fallen zurzeit 63 Betriebe unter die Pflichten der Störfall-Verordnung. Davon liegt die Hälfte im Hafengebiet. Insgesamt leben circa 100.000 Hamburgerinnen und Hamburger im Bereich von Störfallbetrieben.
 

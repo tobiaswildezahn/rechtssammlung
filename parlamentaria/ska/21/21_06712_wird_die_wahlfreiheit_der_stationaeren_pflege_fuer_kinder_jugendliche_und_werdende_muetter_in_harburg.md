@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 21
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6603"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55298"
@@ -209,11 +210,11 @@ Die HELIOS Mariahilf Klinik ist sowohl fachlich als auch personell sehr gut auf 
 
 Folgende Maßnahmen sind bis jetzt zur Umsetzung bis 1. Januar 2017 geplant:
 
- Etablierung von gynäkologischen Untersuchungsmöglichkeiten in der ZNA
+– Etablierung von gynäkologischen Untersuchungsmöglichkeiten in der ZNA
 
- Schulung der ZNA-Mitarbeiter in Kreißsaal und Wochenstation
+– Schulung der ZNA-Mitarbeiter in Kreißsaal und Wochenstation
 
- Erweiterung der gynäkologischen Sprechstunden und Geburtsplanungssprech-
+– Erweiterung der gynäkologischen Sprechstunden und Geburtsplanungssprech-
 
 stunden.
 

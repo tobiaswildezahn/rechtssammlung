@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10767"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49358"
@@ -43,7 +44,7 @@ Wie ist der aktuelle Stand des Verfahrens zur Planfeststellung der Fernwärmetra
 
 Wurden von dem Antragsteller alle für die Genehmigung erforderlichen Unterlagen eingereicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Antragsteller hat die für die Genehmigung erforderlichen Unterlagen eingereicht. Der Antrag wird zurzeit insbesondere in rechtlicher Hinsicht geprüft.
 

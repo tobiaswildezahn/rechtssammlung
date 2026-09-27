@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 14
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5375"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54156"
@@ -75,6 +76,6 @@ Aus der Zuordnung zu welchem Förderschwerpunkt mit welcher Zielsetzung von EFRE
 
 Nach welchen Kriterien entscheidet der Senat, wie Mittel für den Ausbau der Breitbandversorgung aus dem EFRE verwendet werden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antwort zu 1. bis 3.

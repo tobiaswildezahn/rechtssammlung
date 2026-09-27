@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 21
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10957", "21/11011", "21/10140", "21/10817"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60814"
@@ -83,7 +84,7 @@ Inwieweit gibt es Gespräche zwischen den zuständigen Stellen der Freien und Ha
 
 Gab es konkrete Gespräche zum Thema Mengenbefristung der Sedimente zur Tonne E 3 mit Vertretern aus Schleswig-Holstein? Wenn ja, wann und mit welchem Ergebnis? Wenn nein warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Ende des Jahres 2017 haben zwei Gespräche zwischen der zuständigen Behörde und dem schleswig-holsteinischen Ministerium für Wirtschaft, Verkehr, Arbeit, Technologie und Tourismus stattgefunden, im Rahmen derer sich unter anderem zur Verbringung von Sedimenten in die Nordsee ausgetauscht wurde. Im Übrigen stehen die zuständigen Stellen beider Länder im Austausch hinsichtlich einer möglicherweise erforderlichen Anpassung der bestehenden Zulassungen. Dieser Prozess ist derzeit noch nicht abgeschlossen.
 

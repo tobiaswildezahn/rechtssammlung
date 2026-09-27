@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3348", "21/4651"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54708"
@@ -135,6 +136,6 @@ Welche Flächen kommen aus Sicht der HWF derzeit für die Ansiedlung von Hotels 
 
 Welche Maßnahmen ergreift der Senat, um insbesondere auch die Hotelkapazitäten in Randlagen zu stärken?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Antwort zu 7.

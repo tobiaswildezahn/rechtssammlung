@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/4429", "20/6311"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50530"
@@ -58,11 +59,11 @@ Wie viele „Bettelampeln“ wurden seit 2013 abgebaut? Bitte pro Jahr angeben.
 
 Die beschriebene Funktionalität wurde an
 
- 24 Lichtsignalanlagen im Jahre 2013,
+– 24 Lichtsignalanlagen im Jahre 2013,
 
- sieben Lichtsignalanlagen im Jahre 2014 und
+– sieben Lichtsignalanlagen im Jahre 2014 und
 
- elf Lichtsignalanlagen von Januar bis Oktober 2015
+– elf Lichtsignalanlagen von Januar bis Oktober 2015
 
 entfernt.
 
@@ -90,19 +91,19 @@ Wo, wann und aus welchem Grunde sind welche seit 2012 hinzugekommen?
 
 Seit 2012 sind an zwölf Lichtsignalanlagen die genannten Schaltungen ergänzt worden, an denen der parallele Fuß- und Radverkehr nicht automatisch parallel zum Kfz- Verkehr Grün erhält:
 
- 2012: LSA Bramfelder Chaussee/Haldesdorfer Straße, Bramfelder Chaussee/Krau-
+– 2012: LSA Bramfelder Chaussee/Haldesdorfer Straße, Bramfelder Chaussee/Krau-
 
 sestraße, Horner Rampe/Bergedorfer Straße/Südrampe, Mittelweg/Neue Rabenstraße, Bergedorfer Straße/P+R Haus Bergedorf-Nord
 
- 2013: LSA Hannoversche Straße/Buxtehuder Straße, LSA Rahlstedter Weg/Alter
+– 2013: LSA Hannoversche Straße/Buxtehuder Straße, LSA Rahlstedter Weg/Alter
 
 Zollweg
 
- 2014: LSA Saseler Chaussee/Stadtbahnstraße, LSA Bramfelder Straße/Pfennings-
+– 2014: LSA Saseler Chaussee/Stadtbahnstraße, LSA Bramfelder Straße/Pfennings-
 
 busch, LSA Osdorfer Landstraße/Notkestraße, LSA Alsterkrugchaussee/Wilhelm- Metzger-Straße
 
- 2015: LSA Kollaustraße/Papenreye
+– 2015: LSA Kollaustraße/Papenreye
 
 Vor dem Hintergrund komplexer Verkehrsabläufe und unter Berücksichtigung von Busbevorzugungsmaßnahmen war es zum Nutzen aller Verkehrsteilnehmer an den genannten Lichtsignalanlagen erforderlich, flexible Verkehrssteuerungen vorzusehen.
 

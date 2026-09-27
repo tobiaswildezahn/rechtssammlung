@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 35
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10486", "21/11835", "21/8696", "21/11038", "21/9372", "21/10847"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61756"
@@ -51,7 +52,7 @@ Wie hoch sind die Fallzahlen bezogen auf Eingänge, Bestände und Erledigungen a
 
 Wie lange dauern durchschnittlich Verfahren an den folgenden Amtsgerichten: a. Amtsgericht Hamburg-Mitte? b. Amtsgericht Hamburg-Altona? c. Amtsgericht Hamburg-St. Georg? d. Amtsgericht Hamburg-Barmbek? e. Amtsgericht Hamburg-Bergedorf? f. Amtsgericht Hamburg-Blankenese? g. Amtsgericht Hamburg-Harburg? h. Amtsgericht Hamburg-Wandsbek? (Bitte darstellen je nach Amtsgericht für 2017 bis Ende März 2018.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Strafverfahren
 
@@ -617,8 +618,8 @@ Beim Amtsgericht Mitte (Standort Ziviljustizgebäude) beziehen sich die angegebe
 Beim Amtsgericht Mitte (Standort Strafjustizgebäude) beziehen sich die angegebenen Maßnahmen und deren Kosten jeweils auf das Gesamtgebäude. Durch die gemeinsame Nutzung mit Staatsanwaltschaft, Landgericht und Oberlandesgericht sowie einen Kantinenpächter lassen sich die Maßnahmen nicht auf das Amtsgericht eingrenzen. Derzeit erfolgt die Renovierung von Saal 142 mit Gesamtkosten von rund
 70.000 Euro, die voraussichtlich im April 2018 beendet wird. Bezüglich der vermieterseitig laufenden Restarbeiten einer Brandschutzmaßnahme siehe Drs. 21/10847 und Drs. 21/9372. Für die Jahre 2018/2019 hat der Vermieter die Umsetzung der nachfolgend aufgeführten Baumaßnahmen angekündigt (konkrete Termine oder Kosten wurden nicht benannt):
 
- Sanierung der Heizungsstränge,
+– Sanierung der Heizungsstränge,
 
- Sanierung der Sielleitungen und
+– Sanierung der Sielleitungen und
 
- Ertüchtigung der elektrischen Unterverteilungen.
+– Ertüchtigung der elektrischen Unterverteilungen.

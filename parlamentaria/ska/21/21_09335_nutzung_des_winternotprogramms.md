@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6982"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58092"
@@ -43,7 +44,7 @@ Wie entwickelte sich die Zahl der Plätze im Winternotprogramm seit 2010/2011 in
 
 Wie entwickelte sich die Auslastung des Winternotprogramms seit 2010/2011 insgesamt? (Bitte tabellarisch jahresweise nach Minimal-, Maximalwerten und Durchschnitt aufschlüsseln.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die in den Winternotprogrammen (WNP) zur Verfügung stehenden Platzzahlen und Auslastungsgrade stellen sich für den erfragten Zeitraum wie folgt dar:
 

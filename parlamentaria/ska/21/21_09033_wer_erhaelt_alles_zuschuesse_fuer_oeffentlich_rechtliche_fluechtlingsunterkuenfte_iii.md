@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8872", "21/8881", "21/8133"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57779"
@@ -79,6 +80,6 @@ Die oben genannten Drucksachen machen deutlich, dass dem Investor für den Stand
 
 Zieht der Senat im Fall Hörgensweg als Alternative eine Einmalzahlung in Betracht? Wenn ja, in welcher Höhe aufgrund welcher rechtlichen Basis aus welcher finanziellen Quelle?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/8872.

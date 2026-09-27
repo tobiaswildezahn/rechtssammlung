@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 23
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7362", "21/7550"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56262"
@@ -56,16 +57,34 @@ Dies vorausgeschickt, beantwortet der Senat die Fragen teilweise auf der Grundla
 ### Frage 1
 
 Gab es hinsichtlich der Neuausrichtung der HPA aufgrund der Forderungen im Zuge des EU-Prüfungsverfahrens in der Vergangenheit bereits Beschlüsse im Aufsichtsrat der HPA?
-1.1. Wenn ja, was wurde im Detail beschlossen?
-1.2. Wenn ja, wann wurde dieser Beschluss getroffen?
-1.3. Wenn nein, warum nicht?
+
+### Frage 1.1
+
+Wenn ja, was wurde im Detail beschlossen?
+
+### Frage 1.2
+
+Wenn ja, wann wurde dieser Beschluss getroffen?
+
+### Frage 1.3
+
+Wenn nein, warum nicht?
 
 ### Frage 2
 
 Wird es hinsichtlich einer organisatorischen Neuausrichtung im Zuge von HPA next in 2017 und in den kommenden Jahren Aufsichtsratssitzungen/-beschlüsse geben?
-2.1. Wenn ja, wann sind welche weiteren Beschlüsse genau geplant?
-2.2. Wenn ja, welche Themen werden im Detail verhandelt/beschlossen?
-2.3. Wenn nein, warum nicht?
+
+### Frage 2.1
+
+Wenn ja, wann sind welche weiteren Beschlüsse genau geplant?
+
+### Frage 2.2
+
+Wenn ja, welche Themen werden im Detail verhandelt/beschlossen?
+
+### Frage 2.3
+
+Wenn nein, warum nicht?
 
 ### Frage 3
 
@@ -91,18 +110,27 @@ Wie sieht die neue Organisationsstruktur im Detail aus?
 
 Wie sieht der neue Geschäftsverteilungsplan im Detail aus?
 
-#### Antwort zu Fragen 1 bis 8
+#### Antwort zu Fragen 1, 1.1, 1.2, 1.3, 2, 2.1, 2.2, 2.3, 3, 4, 5, 6, 7 und 8
 
 Siehe Vorbemerkung.
 
 ### Frage 9
 
 Ist die die im Wirtschaftsausschuss angesprochene Kommissionsdarlegung der EU, wovon weitere Schritte abgeleitet werden und die Spartenorganisation aufgebaut werden soll, bereits bei der Freien und Hansestadt Hamburg beziehungsweise HPA eingegangen?
-9.1. Wenn ja, welche Kernaussagen wurden getroffen?
-9.2. Welche Schritte seitens des Senats werden nun folgen?
-9.3. Wenn nein, bis wann soll sie eintreffen?
 
-#### Antwort zu Frage 9
+### Frage 9.1
+
+Wenn ja, welche Kernaussagen wurden getroffen?
+
+### Frage 9.2
+
+Welche Schritte seitens des Senats werden nun folgen?
+
+### Frage 9.3
+
+Wenn nein, bis wann soll sie eintreffen?
+
+#### Antwort zu Fragen 9, 9.1, 9.2 und 9.3
 
 Bislang liegt keine offizielle Stellungnahme der Europäischen Kommission vor. Die Europäische Kommission hat auch nicht bekannt gegeben, bis wann sie beabsichtigt, das vorläufige Prüfverfahren abzuschließen.
 
@@ -116,7 +144,7 @@ Aus der Antwort auf Nummer 1. der Anfrage 21/7362 geht hervor, dass mit der Reor
 
 Aus der Antwort auf Nummer 1. der Anfrage 21/7362 geht hervor, dass „Anlass für die einvernehmlich beschlossene Niederlegung der Geschäftsführertätigkeit von Herrn Hurtienne ist die vom Aufsichtsrat beschlossene Umstrukturierung der HPA (HPA next), die unter Mitwirkung von Herrn Hurtienne entwickelt wurde“ (vergleiche Drs. 21/7362 Nummer 1.). Welche genauen Vorschläge kamen dabei von Herrn Hurtienne und hat Herr Hurtienne an seiner eigenen Vertragsbeendigung mitgewirkt? Wenn ja, was waren die Gründe für die einvernehmlich beschlossene Niederlegung der Geschäftsführertätigkeit von Herrn Hurtienne?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Entwicklung des neuen Organisationsmodells für die HPA ist ein gemeinschaftlicher Prozess unter Beteiligung verschiedener Akteure. Es ist daher nicht möglich, einzelne Facetten des Konzepts konkreten Personen zuzuordnen. Im Übrigen siehe Drs. 21/7550.
 

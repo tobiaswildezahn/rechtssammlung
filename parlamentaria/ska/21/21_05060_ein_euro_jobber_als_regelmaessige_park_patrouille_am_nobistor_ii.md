@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 17
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4937", "21/4936"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53522"
@@ -51,7 +52,7 @@ Stimmt der Senat der Berichtserstattung in der „Hamburger Morgenpost“ vom 18
 
 Wie bewertet der Senat die Planung und den Einsatz von Ein-Euro- Jobbern an benannten Plätzen durch das Bezirksamt Altona, wenn vonseiten Jobcenter t.a.h. entsprechendes nicht geplant und/oder ausgeschrieben ist und Arbeitsgelegenheiten nach § 16d SGB II auf Grundlage der Vergabe- und Vertragsordnung für Leistungen, Teil A (VOL/A), im Rahmen eines Vergabeverfahrens der Regionalen Einkaufszentren (REZ Nord) im Auftrag der Jobcenter ausgeschrieben werden müssen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung sowie Drs. 21/4936 und Drs. 21/4937.
 
@@ -68,7 +69,7 @@ Gibt es sogenannte Ausnahmeregelungen für die Vergabe von Arbeitsgelegenheiten 
 Besteht für das Bezirksamt Altona eine Ausnahmeregelung nach Frage
 3. für den Einsatz von Ein-Euro-Jobbern an benannten Plätzen und Sonstiges? Wenn ja, warum?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Das Vergaberecht (VOL) ist für die Beschaffung von Arbeitsgelegenheiten nicht anzuwenden.
 
@@ -100,7 +101,7 @@ Laut Drs. 21/4936 beschäftigt die SRH Personen in Arbeitsgelegenheiten nach § 
 
 Wie hoch ist die Anzahl der eingesetzten Person in Arbeitsgelegenheiten bei der SRH seit 2013 bis aktuell? Bitte jeweils nach Anzahl, Abteilungen und Einsatzorte auflisten.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die SRH stellt keine Arbeitskräfte nach §16d SGB II (Ein-Euro-Jobber) ein, sondern ausschließlich Arbeitskräfte nach §16e SGB II (Förderung von Arbeitsverhältnissen, sogenannte FAV-Beschäftigte). In Drs. 21/4936 hat die SRH die Beschäftigen nach §16e SGB II irrtümlich als Beschäftige nach §16d SGB II angegeben.
 
@@ -137,7 +138,7 @@ Wie bewertet der Senat den Personalabbau innerhalb der letzten drei Jahre beim B
 
 Inwiefern besteht hier eine Zusätzlichkeit und Wettbewerbsneutralität nach Frage 12.? Bitte ausführlich begründen.
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Aufgrund der regelhaft getrennten Zuständigkeit für Reinigungsarbeiten der Grünanlagen (Bezirksamt Altona) und Reinigungsarbeiten auf Verkehrsflächen (SRH) besteht kein Zusammenhang.
 

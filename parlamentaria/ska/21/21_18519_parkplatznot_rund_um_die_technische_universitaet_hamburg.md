@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68178"
@@ -86,7 +87,7 @@ b) pro Monat?
 
 Gibt es vergünstigte Parkgebühren für Mitarbeiter der TUHH? Wenn ja, inwiefern und für wen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Maximal pro Tag beträgt die Parkgebühr für einen Tiefgaragenstellplatz 3,00 Euro. Für einen Monat beträgt die Parkgebühr für einen beliebigen Tiefgaragenstellplatz 30,00 Euro und für einen fest zugewiesenen (personalisierten) Tiefgaragenstellplatz 50,00 Euro. Im Übrigen nein.
 

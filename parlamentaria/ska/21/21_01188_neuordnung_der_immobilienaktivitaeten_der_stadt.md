@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 45090
 seiten: 3
 fragen: 4
-einzelfragen: 9
-antwortbloecke: 4
+einzelfragen: 27
+antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14486", "20/5317", "20/5318"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49376"
@@ -41,67 +42,102 @@ Der Senat beantwortet die Fragen teilweise auf Grundlage von Auskünften der HGV
 
 ### Frage 1
 
-Rolle des LIG:  
-1.1. Welche Aufgaben im Einzelnen soll der LIG jeweils wann abgeben?  
-1.2. Rechnet der Senat mit sinkenden Erträgen im Wirtschaftsplan des  
-LIG?  
-Wenn ja, in welcher Höhe?
+Rolle des LIG:
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Welche Aufgaben im Einzelnen soll der LIG jeweils wann abgeben?
+
+### Frage 1.2
+
+Rechnet der Senat mit sinkenden Erträgen im Wirtschaftsplan des LIG? Wenn ja, in welcher Höhe?
+
+#### Antwort zu Fragen 1, 1.1 und 1.2
 
 Die Überlegungen und Planungen zur konkreten Umsetzung sind noch nicht abgeschlossen.
 
-1.3. Ist es richtig, dass beim LIG in den letzten Jahren zum Aufbau der Steuerung des Sondervermögens Schulbau und des Portfoliomanagements neue Stellen geschaffen wurden und Stellenhebungen stattfanden?
+### Frage 1.3
 
-Wenn ja, in welchem Ausmaß?
+Ist es richtig, dass beim LIG in den letzten Jahren zum Aufbau der Steuerung des Sondervermögens Schulbau und des Portfoliomanagements neue Stellen geschaffen wurden und Stellenhebungen stattfanden? Wenn ja, in welchem Ausmaß?
+
+#### Antwort zu Frage 1.3
 
 Zu den Personalveränderungen siehe Drs. 20/5317 und 20/5318. Seitdem waren in vier Fällen aufgrund eines veränderten Aufgabenprofils höhere tarifliche Eingruppierungen erforderlich. Analog dazu wurden zwei Beamtenstellen gehoben.
 
-1.4. Sollen beim LIG Stellen abgebaut werden?
+### Frage 1.4
 
-Wenn ja, wann und in welchem Ausmaß?
+Sollen beim LIG Stellen abgebaut werden? Wenn ja, wann und in welchem Ausmaß?
+
+#### Antwort zu Frage 1.4
 
 Siehe Antwort zu 1.1. und 1.2.
 
-1.5. Welche städtischen Gebäude im Einzelnen werden derzeit vom LIG verwaltet? Wann soll der Übergang auf die HGV erfolgen?
+### Frage 1.5
+
+Welche städtischen Gebäude im Einzelnen werden derzeit vom LIG verwaltet? Wann soll der Übergang auf die HGV erfolgen?
+
+#### Antwort zu Frage 1.5
 
 Es werden drei Objekte vom LIG verwaltet: Billstraße 82 – 84, Neuenfelder Straße 19 und Sophienterrasse 1 a.
 
-1.6. Wer ist Geschäftsführer des Sondervermögens Schulbau? Sind diesbezüglich Änderungen geplant?
+### Frage 1.6
 
-1.7. Sind Änderungen bezüglich der Aufsicht und Steuerung des Landesbetriebs Schulbau Hamburg geplant?
+Wer ist Geschäftsführer des Sondervermögens Schulbau? Sind diesbezüglich Änderungen geplant?
 
-Wenn ja, welche im Einzelnen?
+### Frage 1.7
+
+Sind Änderungen bezüglich der Aufsicht und Steuerung des Landesbetriebs Schulbau Hamburg geplant? Wenn ja, welche im Einzelnen?
+
+#### Antwort zu Fragen 1.6 und 1.7
 
 Geschäftsführer des Sondervermögens Schulbau ist der Geschäftsführer des LIG (siehe Drs. 20/5318). Im Übrigen siehe Antwort zu 1.1. und 1.2.
 
 ### Frage 2
 
 Neuordnung städtischer Immobiliengesellschaften:
-2.1. Wann und auf welchem Wege ist die Angliederung der ReGe Hamburg Projekt-Realisierungsgesellschaft mbH (ReGe) an die HGV erfolgt? Welche genauen Auswirkungen auf den Haushalt der Freien und Hansestadt Hamburg ergeben sich daraus?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Wann und auf welchem Wege ist die Angliederung der ReGe Hamburg Projekt-Realisierungsgesellschaft mbH (ReGe) an die HGV erfolgt? Welche genauen Auswirkungen auf den Haushalt der Freien und Hansestadt Hamburg ergeben sich daraus?
+
+#### Antwort zu Fragen 2 und 2.1
 
 Der Geschäftsanteil der Freien und Hansestadt Hamburg (FHH) an der ReGe Hamburg Projekt-Realisierungsgesellschaft mbH wurde mit Unterzeichnung des Einbringungs- und Abtretungsvertrags vom 16. Juli 2015 mit wirtschaftlicher Wirkung zum
 1. Januar 2015 in die HGV eingebracht und an diese abgetreten. Die Einbringung der Finanzanlage „ReGe“ in die HGV erfolgte als Sacheinlage in Höhe ihres Buchwertes bei der FHH. Der Wert des Anlagevermögens der FHH bleibt demnach unverändert. Es ergeben sich keine Auswirkungen auf die Ergebnisrechnung der FHH.
 
-2.2. Wie hoch war das Eigenkapital der ReGe zum 31.12.2014? Wie hoch war der Buchwert der ReGe im Finanzanlagevermögen der Finanzbehörde?
+### Frage 2.2
+
+Wie hoch war das Eigenkapital der ReGe zum 31.12.2014? Wie hoch war der Buchwert der ReGe im Finanzanlagevermögen der Finanzbehörde?
+
+#### Antwort zu Frage 2.2
 
 Das Eigenkapital der ReGe beträgt zum Stichtag 31. Dezember 2014 1.344.916,07 Euro. Dies entspricht dem Buchwert der ReGe im Finanzanlagevermögen der Finanzbehörde.
 
-2.3. Wie und bis wann sollen ReGe, IMPF Hamburgische Immobilien Management Gesellschaft mbH (IMPF) und Sprinkenhof zu einem Gleichordnungskonzern zusammengeführt werden?
+### Frage 2.3
 
-2.4. Behält die Innenbehörde die fachpolitische Aufsicht über die IMPF oder sind diesbezüglich Änderungen geplant?
+Wie und bis wann sollen ReGe, IMPF Hamburgische Immobilien Management Gesellschaft mbH (IMPF) und Sprinkenhof zu einem Gleichordnungskonzern zusammengeführt werden?
 
-Wenn ja, welche?
+### Frage 2.4
+
+Behält die Innenbehörde die fachpolitische Aufsicht über die IMPF oder sind diesbezüglich Änderungen geplant? Wenn ja, welche?
+
+#### Antwort zu Fragen 2.3 und 2.4
 
 Die Überlegungen hierzu sind noch nicht abgeschlossen.
 
-2.5. Bis wann soll die Anpassung der Zielbilder der Gesellschaften und der Tantiemeregelungen der Geschäftsführer abgeschlossen sein?
+### Frage 2.5
+
+Bis wann soll die Anpassung der Zielbilder der Gesellschaften und der Tantiemeregelungen der Geschäftsführer abgeschlossen sein?
+
+#### Antwort zu Frage 2.5
 
 Die Anpassung der Zielbilder der Gesellschaften und der Tantiemeregelungen der Geschäftsführer erfolgt in Abhängigkeit der Art und des Zeitpunkts der Zusammenführung der Gesellschaften.
 
-2.6. Wie hoch ist der geschätzte Aufwand für den Aufbau des Portfoliomanagements bei der HGV? In welchem Umfang soll für die erweiterten Aufgaben das Personal der HGV aufgestockt werden?
+### Frage 2.6
+
+Wie hoch ist der geschätzte Aufwand für den Aufbau des Portfoliomanagements bei der HGV? In welchem Umfang soll für die erweiterten Aufgaben das Personal der HGV aufgestockt werden?
+
+#### Antwort zu Frage 2.6
 
 Die HGV hat eine Unternehmensberatung mit der Entwicklung und dem Aufbau eines Portfoliomanagements für die von der FHH selbst genutzten Immobilien beauftragt, die von den Realisierungsträgern Sprinkenhof GmbH, IMPF Hamburgische Immobilien Management Gesellschaft mbH, ReGe Projekt-Realisierungsgesellschaft mbH und GMH | Gebäudemanagement Hamburg GmbH/SBH | Schulbau Hamburg gebaut worden sind beziehungsweise bewirtschaftet werden. Die Kosten betragen rund 200.000 Euro. Die sachgerechte Bemessung des notwendigen Personal- und Sachaufwandes
 

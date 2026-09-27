@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59664"
@@ -67,7 +68,7 @@ Ist dem Senat bekannt, mit was für einer Handfeuerwaffe (Kaliber et cetera) ges
 
 Hat die Spurensicherung der Polizei Projektile am Tatort sichergestellt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 1.
 
@@ -79,7 +80,7 @@ Wann hat die Polizei Kenntnis von der Schießerei erhalten?
 
 Welche Maßnahmen hat sie wann daraufhin ergriffen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Notruf ging bei der Polizeieinsatzzentrale am 22. Oktober 2017 um 05.51 Uhr ein. Um 05.53 Uhr erhielten Funkstreifenwagen den Einsatz: „Dag-Hammarskjöld-Platz wird geschossen“. Die eingesetzten Polizeikräfte leiteten unmittelbar nach Eintreffen am Einsatzort polizeiliche Sofortmaßnahmen zur Gefahrenabwehr sowie zur Strafverfolgung inklusive Fahndungsmaßnahmen ein. Im weiteren Verlauf übernahmen Mitarbeiterinnen und Mitarbeiter des Landeskriminalamtes die Ermittlungen; im Übrigen siehe Antwort zu 1.
 
@@ -91,9 +92,9 @@ Wann hat die Polizei die Öffentlichkeit über die Schießerei informiert?
 
 Die Dienststelle Presse- und Öffentlichkeitsarbeit (PÖA) der Polizei Hamburg hat die Öffentlichkeit im Rahmen eines Zeugenaufrufes durch
 
-• eine Pressemitteilung am 23. Oktober 2017, 17.45 Uhr, und
+– eine Pressemitteilung am 23. Oktober 2017, 17.45 Uhr, und
 
-• Social Media Kommunikation über Twitter am 23. Oktober 2017, 17.48 Uhr,
+– Social Media Kommunikation über Twitter am 23. Oktober 2017, 17.48 Uhr,
 
 über die Vorfälle am Dag-Hammarskjöld-Platz informiert.
 

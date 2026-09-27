@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5520", "21/8096", "21/10983", "21/12605", "21/10302"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62023"
@@ -76,7 +77,7 @@ Welche Änderungen in dem praktischen Ausbildungsabschnitt in den jeweiligen Vol
 
 Hat sich zugunsten einer Vollzugsart (beispielsweise offener Vollzug) in den vergangenen Jahren eine Zunahme der Einsätze beziehungsweise eine Verlängerung des Ausbildungsabschnitts ergeben? Bitte begründen. Gegebenenfalls: Ist eine Änderung geplant?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Seit dem 1. November 2017 wurde innerhalb des dreimonatigen Ausbildungsabschnitts in der Untersuchungshaftanstalt der Einsatz der Anwärterinnen und Anwärter in der Vorführabteilung von bisher einer Woche auf vier Wochen ausgeweitet.
 

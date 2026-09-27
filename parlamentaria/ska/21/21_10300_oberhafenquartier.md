@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 23
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59147"
@@ -65,7 +66,7 @@ Welcher Gebäudebestand ist derzeit vorhanden? Bitte detailliert die einzelnen G
 
 Welche Flächen der unter 3. aufgeführten Mieteinheiten sind vermietet und zu welchen Preis? Nach welchen Gesichtspunkten wurde der Mietpreis festgelegt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Vorhandene Gebäude:
 

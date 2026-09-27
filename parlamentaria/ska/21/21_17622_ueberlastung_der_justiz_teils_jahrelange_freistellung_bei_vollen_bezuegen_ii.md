@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13139"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67216"
@@ -59,7 +60,7 @@ Wie hat sich die Anzahl der a. vom Dienstherrn ausgesprochenen Verbote zur Führ
 
 Wie lange dauerten die unter 1. a. und b. genannten Maßnahmen jeweils an? Bitte gegebenenfalls in Zeitspannen null bis sechs Monate, sechs Monate bis ein Jahr, mehr als ein Jahr angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zu Fragen 1. a. und 2. (bezogen auf 1. a.):
 

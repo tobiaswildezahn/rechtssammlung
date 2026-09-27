@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13796"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63202"
@@ -48,7 +49,7 @@ In welchen Unterkünften wird die IT-Lösung „Quartiersmanagement“ aktuell e
 
 In welchen Unterkünften wird die IT-Lösung „Quartiersmanagement“ aktuell aus welchen Gründen nicht eingesetzt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die IT-Lösung Quartiersmanagement (QMM) wird in allen in Betrieb befindlichen Erstaufnahmeeinrichtungen (EA) eingesetzt. Zu den Einrichtungen siehe Drs. 21/13796. Eine Ausnahme besteht für die außerhamburgische EA Nostorf/Horst, da das Land Mecklenburg-Vorpommern für die Verwaltung der Gesamteinrichtung zuständig ist.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 51
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9651", "20/6989", "19/6273", "18/525", "20/3642", "20/433", "21/1395"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59255"
@@ -106,7 +107,7 @@ Welche einzelnen Aufgaben haben Alleinkräfte beziehungsweise Mitarbeiter/-innen
 
 Welche einzelnen Aufgaben haben Büroleitungen der Schulbüros an staatlichen allgemeinbildenden Schulen in Hamburg (Stand September 2017) laut Stellenanforderungen zu erfüllen? (Bitte nach Schulformen einzeln erläutern.) a. Welcher Stundenumfang ist für die einzelnen Aufgabenbereiche dabei pro Woche veranschlagt? (Bitte nach Schulformen einzeln erläutern.) b. Auf welcher konkreten fachlichen und sachlichen Grundlage wird diese Aufgaben- und Zeitanforderung nach Ansicht von Senat und zuständiger Fachbehörde als angemessen und real angesehen? (Bitte erläutern.) c. Wurden diese Aufgaben- und Zielanforderungen mit den Interessensvertretungen der Verwaltungsangestellten in Hamburger Schulbüros gemeinsam entwickelt, wenn ja, mit welchen und nach welchem Verfahren geschah das? Wenn nein, mit welcher Rechtfertigung nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die aktuell gültigen Stellenbeschreibungen wurden im Rahmen eines Projekts unter Beteiligung von Schulbürokräften aller Schulformen gemeinsam erarbeitet. Über das Ergebnis wurden sowohl der Gesamtpersonalrat der Schulen als auch der für die Ämter und Dienststellen der BSB zuständige Personalrat informiert. Im Übrigen siehe Drs. 20/6989.
 
@@ -118,7 +119,7 @@ Welche einzelnen Aufgaben haben Alleinkräfte oder Mitarbeiterinnen in Schulbür
 
 Welche einzelnen Aufgaben haben Büroleitungen an Schulbüros der staatlichen beruflichen Schulen in Hamburg (Stand September 2017) laut Stellenanforderungen zu erfüllen? (Bitte erläutern.) a. Welcher Stundenumfang ist für die einzelnen Aufgabenbereiche dabei pro Woche veranschlagt? (Bitte erläutern.) b. Auf welcher konkreten fachlichen und sachlichen Grundlage wird diese Aufgaben- und Zeitanforderung nach Ansicht von Senat und zuständiger Fachbehörde als angemessen und real angesehen? (Bitte erläutern.) c. Wurden diese Aufgaben- und Zielanforderungen mit den Interessensvertretungen der Verwaltungsangestellten in Hamburger Schulbüros gemeinsam entwickelt, wenn ja, mit welchen und nach welchem Verfahren geschah das? Wenn nein, mit welcher Rechtfertigung nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage. Die fachliche und sachliche Grundlage zur Bestimmung der Aufgaben der Beschäftigten in den Schulbüros der beruflichen staatlichen Schulen erfolgte anhand einer mit den beruflichen Schulen abgestimmten Aufgabenplanung, die anschließend anhand der rechtlichen Vorgaben bewertet wurde. Die Stellenbeschreibung für die Tätigkeit in den Schulbüros erfolgte in Abstimmung mit den beruflichen Schulen, den Sprecherinnen und Sprechern der Schulbüros der beruflichen Schulen sowie mit dem Gesamtpersonalrat.
 
@@ -150,27 +151,27 @@ Ausgehend von den Antworten auf unsere jüngste Schriftliche Kleine Anfrage (ver
 
 In den zurückliegenden Jahren wurde das Gesamtkontingent an Schulbürostellen aufgrund von Aufgabenzuwächsen erhöht. Die Zuweisung erfolgt auf Grundlage eines Gesamtkontingents an Schulbürostellen für die allgemeinbildenden Schulen, das in den letzten Jahren infolge von Aufgabenzuwächsen deutlich erhöht wurde. Auf wesentliche Aufgabenzuwächse wurde in den vergangenen Jahren mit Erhöhungen des Stellenkontingents reagiert. Es handelte sich zum Beispiel um
 
- den Anstieg der Anzahl von Schulklassen infolge von Frequenzabsenkungen (14,0
+– den Anstieg der Anzahl von Schulklassen infolge von Frequenzabsenkungen (14,0
 
 Stellen), siehe Drs. 19/6273,
 
- den Ausbau der Ganztagsschulen nach Rahmenkonzept (17,5 Stellen in den Jah-
+– den Ausbau der Ganztagsschulen nach Rahmenkonzept (17,5 Stellen in den Jah-
 
 ren 2010 bis 2016), siehe Drs. 18/525,
 
- die ganztägige Betreuung in Zusammenarbeit mit Kooperationspartnern (47,0 Stel-
+– die ganztägige Betreuung in Zusammenarbeit mit Kooperationspartnern (47,0 Stel-
 
 len), siehe Drs. 20/3642,
 
- die Umsetzung des Bildungs- und Teilhabepakets (45,8 Stellen), siehe Drs.
+– die Umsetzung des Bildungs- und Teilhabepakets (45,8 Stellen), siehe Drs.
 
 20/433,
 
- die erhöhten Anforderungen durch Zuwanderung (20,0 Stellen), siehe Drs. 21/1395
+– die erhöhten Anforderungen durch Zuwanderung (20,0 Stellen), siehe Drs. 21/1395
 
 und
 
- den Einsatz von Verwaltungsleitungen an berufsbildenden Schulen.
+– den Einsatz von Verwaltungsleitungen an berufsbildenden Schulen.
 
 Für die Ausbringung zusätzlicher Personalressourcen ist die Zustimmung der Bürgerschaft erforderlich. Im Übrigen siehe Drs. 21/9651.
 

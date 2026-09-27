@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 18
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52289"
@@ -135,6 +136,6 @@ Mit welcher Sicherheit geht der Senat von einer Fertigstellung der Theatermeile 
 
 Wie hoch sind die Kosten nur für die Verlagerung der TAH in die Theatermeile, und wer trägt diese?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Antworten zu 7. und 10.

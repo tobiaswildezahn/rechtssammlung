@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8433"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68144"
@@ -80,7 +81,7 @@ Welche Arten der Ordnungswidrigkeiten wurden dabei jeweils in den Jahren 2017 bi
 
 In welcher Form wurden diese Parkverstöße durch Dritte jeweils in den Jahren 2017 bis 2019 zur Anzeige gebracht (Beweisfoto, E-Mail et cetera)?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drucksache 21/8433.
 

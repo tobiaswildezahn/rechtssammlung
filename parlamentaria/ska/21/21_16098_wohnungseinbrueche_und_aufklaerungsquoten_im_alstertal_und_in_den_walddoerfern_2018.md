@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1121", "21/11648"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65604"
@@ -51,7 +52,7 @@ Wie hat sich die Zahl der Einbrüche im Jahr 2018 im Alstertal und in den Waldd�
 
 Wie viele Einbrüche wurden im Jahr 2018 im Alstertal und in den Walddörfern aufgeklärt? Bitte die Zahlen für jeden Monat einzeln angeben und nach Stadtteilen sowie in Wohnungen/Häuser und Gewerbeobjekte aufgliedern.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Polizeiliche Kriminalstatistik (PKS) ist auf Jahresauswertungen ausgelegt. Innerhalb eines Berichtsjahres unterliegt der PKS-Datenbestand einer ständigen Pflege, zum Beispiel durch Hinzufügen von nachträglich ermittelten Tatverdächtigen oder der Herausnahme von Taten, die sich im Nachhinein nicht als Straftat erwiesen haben.
 

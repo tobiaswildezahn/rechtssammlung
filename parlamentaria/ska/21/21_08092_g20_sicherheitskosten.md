@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7380"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56751"
@@ -63,6 +64,6 @@ Sind die Gespräche zwischen dem Senat und der Bundesregierung über die Verteil
 
 Werden bereits Gespräche zwischen dem Senat und der Bundesregierung über die Verteilung der Sicherheitskosten des G20-Gipfels geführt? Wenn ja, wird sich die Verteilung der Kosten am Schlüssel für die Verteilung der OSZE-Kosten orientieren?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Gespräche zwischen dem Senat und der Bundesregierung über die Verteilung der Kosten für den OSZE-Ministerrat 2016 und den G20-Gipfel 2017 sind noch nicht abgeschlossen. Im Übrigen siehe Vorbemerkung.

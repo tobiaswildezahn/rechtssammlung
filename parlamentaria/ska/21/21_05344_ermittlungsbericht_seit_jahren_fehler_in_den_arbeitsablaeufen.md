@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53819"
@@ -45,7 +46,7 @@ Warum war kein Vertreter der JVA Fuhlsbüttel bei der Anhörung im Landgericht i
 
 Stimmt es, dass der für die Teilnahme an der Anhörung im Februar 2016 zuständige Vollzugsleiter am Tag der Anhörung nicht im Dienst war?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ja. Der für den Bereich der Sicherungsverwahrung zuständige Vollzugsleiter war an dem Tag der Anhörung nicht im Dienst. Ein Vertreter für die Wahrnehmung des Termins wurde nicht bestimmt.
 

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 20
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1093"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51049"
@@ -158,17 +159,17 @@ Was waren beziehungsweise sind Gründe sowie Ziele der Fusion der VK und JW? Inw
 
 Im Zuge der Fusion wurden
 
- der bis dato zwischen den beiden Unternehmen bestandene Wettbewerb bei den
+– der bis dato zwischen den beiden Unternehmen bestandene Wettbewerb bei den
 
 Leistungsangeboten aufgelöst,
 
- die sozialräumliche Ausrichtung der Leistungsangebote optimiert,
+– die sozialräumliche Ausrichtung der Leistungsangebote optimiert,
 
- die Möglichkeiten einer flexiblen Einsatzplanung des Personals verbessert,
+– die Möglichkeiten einer flexiblen Einsatzplanung des Personals verbessert,
 
- das bestehende Sonderwissen zusammengeführt sowie
+– das bestehende Sonderwissen zusammengeführt sowie
 
- ein angemessener Tarifvertrag für alle Beschäftigten realisiert.
+– ein angemessener Tarifvertrag für alle Beschäftigten realisiert.
 
 Ohne Berücksichtigung der Einmalkosten (siehe Antworten zu 7. a. bis 7. d.) ergeben sich kurz- bis mittelfristig Mehrkosten aus dem neuen Tarifvertrag von 2.000 Euro p.a. (2016 – 2019) sowie zusätzliche Personalkosten für die fusionierte Konzerntochter ah ausblick GmbH in Höhe von 15.000 Euro p.a.
 
@@ -182,19 +183,19 @@ Die Unternehmensgruppe und deren Einzelunternehmen verfügen über wirkungsvolle
 
 Im Übrigen ergeben sich folgende Vorteile:
 
- Die Unternehmen der Gruppe können nicht durch wirtschaftliche Probleme anderer
+– Die Unternehmen der Gruppe können nicht durch wirtschaftliche Probleme anderer
 
 Gruppenunternehmen gefährdet werden (Risikoabgrenzung).
 
- Durch interne Dienstleistungen (Shared Services) werden Doppelstrukturen redu-
+– Durch interne Dienstleistungen (Shared Services) werden Doppelstrukturen redu-
 
 ziert; durch größere Funktionseinheiten wird die Störanfälligkeit zum Beispiel infolge von Personalausfall gesenkt.
 
- Durch konturierte Unternehmensprofile sowie eine gemeinsame Markt- und eine
+– Durch konturierte Unternehmensprofile sowie eine gemeinsame Markt- und eine
 
 abgestimmte Wettbewerbsstrategie wird die Stellung der einzelnen Konzernunternehmen im Markt gesichert.
 
- Die Unternehmen der Gruppe sind so groß und umsatzstark, dass der Ausfall ein-
+– Die Unternehmen der Gruppe sind so groß und umsatzstark, dass der Ausfall ein-
 
 zelner Aufträge nicht zu existentiellen Krisen führt.
 

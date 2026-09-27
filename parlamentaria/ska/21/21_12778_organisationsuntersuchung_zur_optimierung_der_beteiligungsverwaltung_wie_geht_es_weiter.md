@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11962", "21/5113"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62075"
@@ -43,7 +44,7 @@ Wie sind derzeit der genaue Sachstand und der Zeitplan der Organisationsuntersuc
 
 Liegt der zuständigen Stelle bereits ein Abschlussbericht der beauftragten Untersuchung in finaler Fassung vor? Wenn ja, seit wann? Wenn nein, wann wird damit gerechnet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die finale Fassung des Abschlussberichts wurde Ende März 2018 vorgelegt. Damit ist die Organisationsuntersuchung durch ein Beratungsunternehmen abgeschlossen.
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63070"
@@ -49,7 +50,7 @@ Sind diese Informationen zu den geplanten Änderungen korrekt? Wenn nein: Welche
 
 Hat Vattenfall seine Zustimmung zu den geplanten Veränderungen in der MVR gegeben?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es gibt Planungen, unter Einbeziehung der MVR die Leistung des erforderlichen Gas- Heizwerks zu reduzieren. Die Gespräche dazu sind noch nicht abgeschlossen.
 
@@ -86,7 +87,7 @@ In der Präsentation von Dr. Beckereit (Folie 12) im Energienetzbeirat am
 
 Ebenso wurde der Aquiferspeicher Dradenau (29 MW) als „ungesichert“ bezeichnet und gelb gefärbt. Bedeutet dies, dass keine Besicherung vorgenommen wird oder dass ungesichert ist, ob dieser Beitrag Bestandteil der Südvariante ist?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Ungesichert bedeutet in diesem Fall, dass der Wärmelieferant eine Wärmelieferung nicht garantieren kann. Fällt beispielsweise die Produktion aus, kann auch keine Wärme geliefert werden. In diesem Fall hat der Wärmeabnehmer für eine Besicherung zu sorgen.
 
@@ -122,7 +123,7 @@ Zu welchen Maßnahmen, die Teil der Südvariante sind, soll öffentliche Förder
 
 Zu welchen Maßnahmen, die Teil der Südvariante sind, kann mit öffentlicher Förderung gerechnet werden und in welcher Höhe?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Für eine Förderung kommen verschiedene Instrumente infrage, unter anderem Programme der Kreditanstalt für Wiederaufbau (KfW), das Umweltinnovationsprogramm sowie das Kraft-Wärme-Kopplungsgesetz (KWKG). Im Rahmen des Projekts Erneuerbare Wärme Hamburg werden große Anstrengungen unternommen, den bestehenden Förderrahmen möglichst weitgehend auszuschöpfen. Die Prüfungen hierzu sind noch nicht abgeschlossen.
 

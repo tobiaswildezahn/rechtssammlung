@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2868", "21/2977", "21/4566", "21/4499", "21/5126", "21/3649"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53827"
@@ -75,7 +76,7 @@ Wie viel Prozent der Teilnehmer waren Flüchtlinge? Falls keine genauen Zahlen v
 
 Wie viele Plätze in Integrationskurse sind für 2016 für Hamburg vorgesehen? Wie viele Plätze sollen davon in etwa an Flüchtlinge gehen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Antwort zu 1. Im Übrigen siehe Drs. 21/4566.
 

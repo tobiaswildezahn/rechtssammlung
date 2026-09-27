@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 4
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11638", "21/11636", "21/12720", "21/11906", "21/13046", "21/13804", "21/13502", "21/14908"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64982"
@@ -43,7 +44,7 @@ Hat sich der Senat inzwischen einen Überblick verschaffen können, in welchen B
 
 Für welche Landesgesetze im formellen und materiellen Sinn hat der Senat Anpassungsbedarf ausgemacht? (Bitte getrennte Darstellung nach Ressortverantwortung.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Aufgrund bestehenden Anpassungsbedarfs hat der Senat zur weiteren Umsetzung der EU-Datenschutzreform folgende Gesetzentwürfe in die Hamburgische Bürgerschaft eingebracht:
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/371"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51273"
@@ -47,7 +48,7 @@ Wie viele Kunden nutzen inzwischen im Leistungsspektrum von SPL a. die SPL WEB A
 
 Wie haben sich die Nutzerzahlen seit April 2015 im Einzelnen entwickelt? Bitte monatlich ausweisen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zeitpunkt  
 SPL-WEB  
@@ -94,6 +95,6 @@ In der Drs. 21/371 führt der Senat aus, welche zusätzlichen Anreize gesetzt we
 
 Laut Drs. 21/371 sollten weitere Anreize auch über die Standardisierung der Software über den Hamburger Hafen hinaus auf andere Logistik- Knoten erzielt werden. Welche Fortschritte/Weiterentwicklungen lassen sich in Bezug auf a. die Einbindung digitaler Tachographen zur Vereinfachung der Lenkzeitauswertung sowie zur Berücksichtigung der Restlenkzeit bei der Parkplatzsuche, b. SmartDrive, zur Optimierung des Fahrverhaltens der Lkw-Fahrer, was zu Treibstoffeinsparungen und so zu Emissionseinsparungen führt, c. die Einbindung der Leercontainerdepots im Hamburger Hafen, zum Beispiel um die Abfertigungsleistung der Depots zu beschleunigen, d. die Information der erwarteten Ankunftszeit eines Lkw an einem Betrieb (zum Beispiel Containerterminal) zur optimierten Disposition aller an der Logistikkette Beteiligten, e. die verbesserte Parkplatzsuche mit direkter Verbindung zur Navigation, f. die Information verfügbarer Stellplätze im Hafen sowie g. die Anbindung an die TR02-Schnittstelle für die elektronische Kommunikation zwischen Trucking-Unternehmen und Kaiumschlagsbetrieben, zum Beispiel zur Voranmeldung am Terminal anführen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der digitale Tachograph wird von der Firma TSI Connected Car hergestellt und befindest sich derzeit in der Produktentwicklung. Die Einbindung des Leercontainerdepots, SmartDrive, die Information der erwarteten Ankunftszeit eines Lkw, die verbesserte Parkplatzsuche sowie die Anbindung an die TR02-Schnittstelle sind bereits als Bestandteil der App produktiv und können genutzt werden. Das Projekt Smart Area Parking befindet sich derzeit in der Testphase.

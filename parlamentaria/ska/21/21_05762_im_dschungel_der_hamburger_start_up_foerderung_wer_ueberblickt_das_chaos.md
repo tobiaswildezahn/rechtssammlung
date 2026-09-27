@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4656", "21/3834", "21/1687", "21/4456", "21/5402", "20/6335"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54250"
@@ -57,7 +58,7 @@ Welche Beratungs-, Vernetzungs- und sonstigen Förderangebote gibt es für Grün
 
 Wie häufig wurden die einzelnen Angebote in den letzten fünf Jahren in Anspruch genommen? Wie bewertet der Senat die einzelnen Angebote?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Hamburg zählt auch wegen seiner hervorragenden Beratungs- und Förderangebote zu den führenden Gründungsmetropolen in Deutschland, wie es die fachliche Berichterstattung (zum Beispiel der KfW-Gründungsmonitor) regelmäßig belegt. Die vielfältigen Unterstützungsangebote in den Bereichen Beratung, Finanzierung, Coaching und Vernetzung tragen den Bedürfnissen der Gründerinnen und Gründer und dem kom-
 

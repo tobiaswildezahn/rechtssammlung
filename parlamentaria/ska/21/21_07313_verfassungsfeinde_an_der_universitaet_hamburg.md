@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55911"
@@ -79,6 +80,6 @@ Gab es in der Vergangenheit Veranstaltungen an der Universität oder (anderen) H
 
 Sind in Zukunft weitere Veranstaltungen mit dem Referenten Dr. Peter Decker oder anderen Mitgliedern der GegenStandpunkt-Gruppierung an der Universität Hamburg oder (anderen) Hamburger staatlichen Stellen/ Institutionen geplant?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Nach Auskunft der UHH hat der AStA der UHH im Sommersemester 2015 eine Veranstaltung „Was von Marx zu lernen wäre – Eine Einführung ins Kapital“ mit Dr. Peter Decker durchgeführt. Entsprechende Veranstaltungen staatlicher Stellen sind den zuständigen Behörden nicht bekannt.

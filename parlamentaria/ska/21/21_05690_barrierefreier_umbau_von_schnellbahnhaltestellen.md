@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9376", "21/4908", "21/1177"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54186"
@@ -57,7 +58,7 @@ Wann wurde vom Aufgabenträger der Nahverkehrsplan aufgestellt?
 
 Welche der in der Vorbemerkung genannten Institutionen wurden wann an der Aufstellung des Nahverkehrsplans beteiligt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Es ist nicht beabsichtigt, einen Nahverkehrsplan (NVP) für Hamburg zu erstellen. Grundlage für eine kontinuierliche Verkehrsentwicklungsplanung in Hamburg ist das Mobilitätsprogramm 2013 (Drs. 20/9376). Im Übrigen siehe Drs. 21/4908.
 

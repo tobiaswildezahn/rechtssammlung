@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11389", "21/11573"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61285"
@@ -52,7 +53,7 @@ Welche Vereine, Organisationen, Institutionen oder Personen haben sich in den Ja
 Aus welchen Grünen wurden die Zuwendungen oder Förderungen unter
 2. nicht bewilligt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Für die Jahre 2016 und 2017 gab es keine Anträge auf Maßnahmen, die sich explizit an geflüchtete Frauen und Mädchen richten, die nicht bewilligt worden sind.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63679"
@@ -55,7 +56,7 @@ In welcher Höhe wurde der Landesmusikrat regelhaft durch die Freie und Hansesta
 
 Welche projektbezogenen Förderungen hat der Landesmusikrat in den letzten fünf Jahren in welcher Höhe erhalten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die institutionelle Förderung für den Landesmusikrat Hamburg e.V. (LMR) seitens der zuständigen Behörde betrug in den Jahren 2003 bis 2011 je 42.000 Euro.
 

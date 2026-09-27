@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68302"
@@ -53,7 +54,7 @@ Wie viele und in welcher Form sind Flächen für den Sport im zukünftigen Quart
 
 Wie viele und in welcher Form sind Flächen für den Sozialraum im zukünftigen Quartier Kleiner Grasbrook vorgesehen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -77,6 +78,6 @@ Wie groß wird die durchschnittliche Sportfläche sein, die einem Bewohner des z
 
 Wie groß wird die durchschnittliche Sozialfläche nach Frage 2. sein, die einem Bewohner des zukünftigen Quartiers Kleiner Grasbrook zur Verfügung stehen wird?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.

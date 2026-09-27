@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52524"
@@ -64,7 +65,7 @@ Welche Vorsorge hat der Senat beziehungsweise die zuständige Behörde getroffen
 
 Wie schätzt der Senat beziehungsweise die zuständige Behörde die Gefährdung für die Bevölkerung und für die umliegende Bebauung durch einen Brand von Windkraftanlagen ein?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Antworten zu 1. und 2.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11034", "20/13995", "20/10633", "20/12161"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48234"
@@ -35,19 +36,19 @@ Daher war und ist es besorgniserregend und bedauerlich zugleich, dass unter dem 
 
 ## Einleitung für die Antworten des Senats
 
- Hamburg-Mitte: 40 Prozent,
+– Hamburg-Mitte: 40 Prozent,
 
- Eimsbüttel: 50 Prozent,
+– Eimsbüttel: 50 Prozent,
 
- Altona: 60 Prozent,
+– Altona: 60 Prozent,
 
- Hamburg-Nord: 74 Prozent,
+– Hamburg-Nord: 74 Prozent,
 
- Wandsbek: 75 Prozent,
+– Wandsbek: 75 Prozent,
 
- Bergedorf: 80 Prozent,
+– Bergedorf: 80 Prozent,
 
- Harburg: 81 Prozent.
+– Harburg: 81 Prozent.
 
 Dies entsprach für das Jahr 2013 über alle Bezirke hinweg einem Durchschnittswirkungsgrad von 65,35 Prozent. Mit dem Beschluss über den Doppelhaushalt 2015/2016 hat die SPD für alle Bezirke das Ziel definiert, einen Wirkungsgrad von 80 Prozent zu erreichen. Um diesem ambitionierten Ziel näherkommen zu können und weil das notwendige Kontrollniveau nur erreicht werden kann, wenn den zuständigen Einrichtungen genügend quali-
 

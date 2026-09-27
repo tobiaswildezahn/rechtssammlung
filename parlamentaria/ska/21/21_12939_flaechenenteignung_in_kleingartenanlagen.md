@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/2056", "21/12669", "21/6050"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62262"
@@ -49,7 +50,7 @@ Warum wurden nicht unter das Kleingartengesetz fallende Kleingärten von der sta
 
 Bestehen die aus der Statistik herausgenommenen Kleingärten weiterhin oder wurden diese aufgelöst? Wie werden eventuell weiterbestehende Kleingärten behördlich verwaltet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Maßgeblich für die Definition eines Kleingartens ist § 1 BKleingG. In § 1 (2) Nummer 5 BKleingG heißt es: „Kein Kleingarten ist … ein Grundstück, das vertraglich nur mit einjährigen Pflanzen bestellt werden darf (Grabeland)“. Aus diesem Grund wurde die Kleingartenstatistik um die irrtümlich darin enthaltenen Grabelandparzellen bereinigt.
 

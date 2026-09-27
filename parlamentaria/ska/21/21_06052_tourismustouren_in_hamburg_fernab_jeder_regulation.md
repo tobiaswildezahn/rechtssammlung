@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54564"
@@ -49,27 +50,27 @@ Der zuständigen Behörde liegen hierzu keine gesicherten Erkenntnisse vor. Nach
 
 Kostenpflichtige Führungen:
 
- Einzelne Gästeführerinnen und Gästeführer, die ihre Touren auf eigene Rechnung
+– Einzelne Gästeführerinnen und Gästeführer, die ihre Touren auf eigene Rechnung
 
 anbieten
 
- Unternehmen, die für Rundgänge Gästeführerinnen und Gästeführer einsetzen
+– Unternehmen, die für Rundgänge Gästeführerinnen und Gästeführer einsetzen
 
 („Land“)
 
- Unternehmen, die für den Tourkommentar auf Rundfahrtbussen Tourbegleiterin-
+– Unternehmen, die für den Tourkommentar auf Rundfahrtbussen Tourbegleiterin-
 
 nen und Tourbegleiter einsetzen („Straße“)
 
- Unternehmen, die Gästeführerinnen und Gästeführer beziehungsweise Tourkom-
+– Unternehmen, die Gästeführerinnen und Gästeführer beziehungsweise Tourkom-
 
 mentatoren auf Barkassen einsetzen („Wasser“)
 
 Kostenfreie Führungen und Touren (beziehungsweise auf Basis von Trinkgeldern):
 
- Free-Walking-Tours
+– Free-Walking-Tours
 
- Hamburg-Greeter e.V. und gegebenenfalls weitere
+– Hamburg-Greeter e.V. und gegebenenfalls weitere
 
 ### Frage 2
 
@@ -79,7 +80,7 @@ Hat der Senat beziehungsweise die zuständige Behörde einen Überblick über di
 
 Welche gewerblichen Anbieter von Nachtwächtertouren und/oder ähnlichen Touren – außerhalb der IG St. Pauli – sind dem Senat beziehungsweise den Zuständigen im Kernbereich St. Pauli bekannt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nein. Maßgeblich für die Gewerbeanmeldung ist der jeweilige Betriebssitz. Dabei wird nicht erfasst, wo die Personen tätig sind und in welcher Form sie ihrem Gewerbe nachgehen. Ein Teil der Gästeführerinnen und Gästeführer ist in einem der beiden Gästeführervereine „Hamburger Gästeführerverein“ beziehungsweise „Hamburg Guides“ organisiert und ein weiterer Teil sowie gästeführende Unternehmen sind Mitglied beim TVH. Die Mitgliedschaft bei einem der vorgenannten Vereine ist freiwillig. Die Gästeführerinnen und Gästeführer entscheiden individuell Art und Umfang ihres Engagements.
 
@@ -91,7 +92,7 @@ Welchen Auflagen unterliegen die Anbieter von Stadtführungen in Hamburg? Bitte 
 
 Wann und durch wen werden diese Auflagen kontrolliert?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Stadtführerinnen und Stadtführer sowie Tourismusführerinnen und Tourismusführer unterliegen keiner gewerberechtlichen Erlaubnis- oder Überwachungspflicht. Für gewerberechtliche Auflagen existiert keine Rechtsgrundlage.
 

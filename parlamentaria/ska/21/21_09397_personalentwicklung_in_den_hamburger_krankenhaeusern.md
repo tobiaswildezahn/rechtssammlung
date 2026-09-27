@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58160"
@@ -48,7 +49,7 @@ Wie haben sich die Fallzahlen in den Hamburger Krankenhäusern, ausgenommen der 
 Wie haben sich die Fallzahlen in den Hamburger Krankenhäusern in den psychiatrischen Abteilungen zwischen 2016 und 2017 (Stichtag
 09.06.2017) entwickelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Fallzahlen in den Hamburger Plankrankenhäusern stellen sich wie folgt dar:
 

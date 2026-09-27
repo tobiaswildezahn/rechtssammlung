@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57309"
@@ -71,13 +72,13 @@ An die zuständige Behörde wurde seitens des ortsansässigen Hotels herangetrag
 
 Darüber hinaus erhielt die zuständige Behörde am 28. März 2017 vom Quartiersmanager eine E-Mail mit zusammengefassten Beschwerden von Bewohnern, die an ihn gerichtet worden waren. Alle genannten Beschwerden wurden im März 2017 formuliert. Folgende Themen wurden dabei benannt:
 
- Bitte um Austausch zum WNP
+– Bitte um Austausch zum WNP
 
- Beschwerde wegen Urinierens der Nutzer in der Umgebung und Vermüllung
+– Beschwerde wegen Urinierens der Nutzer in der Umgebung und Vermüllung
 
- Information über die weitere Nutzung des Schaarsteinwegs
+– Information über die weitere Nutzung des Schaarsteinwegs
 
- Lärmbelästigung und Belastung des Stadtteils durch WNP und Touristen
+– Lärmbelästigung und Belastung des Stadtteils durch WNP und Touristen
 
 Im Hinblick auf die Vermeidung des Urinierens in der Öffentlichkeit hat f & w Dixie- Toiletten aufgestellt. Auch die Stadtreinigung wurde gebeten, in der näheren Umgebung öfter zu reinigen. Aufgrund der Erfahrungen aus dem vorherigen WNP wies f & w während der Betriebszeit des WNP den Wachdienst an, in halbstündigen Abständen sowohl das Gelände mit den Dixie-Toiletten, wie auch die nahegelegene Michelwiese und den dortigen Spielplatz zu bestreifen und gegebenenfalls Nutzer des WNP dort abzuholen, um solche Konflikte zu vermeiden. Dies war tagsüber wegen der Schließung des WNP jedoch nicht möglich. Im Übrigen siehe Antwort zu 3.
 

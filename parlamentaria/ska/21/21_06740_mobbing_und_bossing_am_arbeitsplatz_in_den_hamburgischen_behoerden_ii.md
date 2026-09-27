@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6552", "19/4755"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55312"
@@ -84,51 +85,51 @@ Gibt es bei den einzelnen (Fach-)Behörden, Landesbetrieben und Beteiligungsbetr
 
 Dienstvereinbarungen liegen vor:
 
- Behörde für Arbeit, Soziales, Familie und Integration
+– Behörde für Arbeit, Soziales, Familie und Integration
 
- Behörde für Schule und Berufsbildung
+– Behörde für Schule und Berufsbildung
 
- Kulturbehörde
+– Kulturbehörde
 
- Behörde für Inneres und Sport (inklusive Landesfeuerwehrschule und Hochschule
+– Behörde für Inneres und Sport (inklusive Landesfeuerwehrschule und Hochschule
 
 der Polizei)
 
- Universität Hamburg
+– Universität Hamburg
 
- Hochschule für Angewandte Wissenschaften Hamburg
+– Hochschule für Angewandte Wissenschaften Hamburg
 
- Landesinstitut für Lehrerbildung und Schulentwicklung
+– Landesinstitut für Lehrerbildung und Schulentwicklung
 
- Hamburger Institut für Berufliche Bildung
+– Hamburger Institut für Berufliche Bildung
 
- Bezirksamt Hamburg-Mitte
+– Bezirksamt Hamburg-Mitte
 
- Bezirksamt Altona
+– Bezirksamt Altona
 
- Bezirksamt Hamburg-Nord
+– Bezirksamt Hamburg-Nord
 
- Bezirksamt Harburg
+– Bezirksamt Harburg
 
- Landesbetrieb Erziehung und Beratung
+– Landesbetrieb Erziehung und Beratung
 
- Landesbetrieb Verkehr
+– Landesbetrieb Verkehr
 
- Planetarium Hamburg
+– Planetarium Hamburg
 
- Elbkinder Vereinigung Hamburger Kitas gGmbH
+– Elbkinder Vereinigung Hamburger Kitas gGmbH
 
 Dienstvereinbarungen sind geplant:
 
- Bezirksamt Wandsbek
+– Bezirksamt Wandsbek
 
- Bezirksamt Bergedorf
+– Bezirksamt Bergedorf
 
- Staats- und Universitätsbibliothek
+– Staats- und Universitätsbibliothek
 
- Universitätsklinikum Hamburg-Eppendorf
+– Universitätsklinikum Hamburg-Eppendorf
 
- Elbe-Werkstätten GmbH
+– Elbe-Werkstätten GmbH
 
 In den übrigen Dienststellen und Beteiligungsbetrieben gibt es keine Dienstvereinbarungen und es sind auch keine geplant, da kein Bedarf gesehen wird.
 

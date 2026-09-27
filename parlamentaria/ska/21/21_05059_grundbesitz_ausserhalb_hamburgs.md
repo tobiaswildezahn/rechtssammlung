@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13321"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53521"
@@ -53,7 +54,7 @@ Wie hoch ist der aktuelle Bestand an bebauten und unbebauten Grundstücken auße
 
 Wo befinden sich die Grundstücke genau, wie groß sind sie jeweils und sind sie bebaut oder unbebaut?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 
@@ -65,7 +66,7 @@ Welche Grundstücke außerhalb Hamburg sind seit November 2014 neu hinzugekommen
 
 Welche dieser unter 3. genannten Flächen sollen als Ausgleichsflächen dienen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage 2.
 

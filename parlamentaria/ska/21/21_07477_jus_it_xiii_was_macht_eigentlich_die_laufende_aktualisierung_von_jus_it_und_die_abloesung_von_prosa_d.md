@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 29
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2016", "21/4386", "21/4869", "21/903"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56079"
@@ -99,7 +100,7 @@ Welche Überplanung des Vergabeverfahrens und weiteren Projektverlaufs hat es im
 
 Ist der Auftrag zur Beschaffung der PROSA-Nachfolgesoftware zwischenzeitlich bereits vergeben? Wenn ja, seit wann an wen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Nach derzeitiger Planung soll der Abschluss des Vergabeverfahrens mit der Zuschlagserteilung voraussichtlich im Juli 2017 erreicht werden. Der Beginn des Umsetzungsprojektes wird anschließend mit dem ausgewählten Bieter abgestimmt. Derzeit wird unter der Voraussetzung, dass keiner der nicht berücksichtigten Bieter eine gerichtliche Überprüfung der Vergabeentscheidung einleitet, davon ausgegan-
 

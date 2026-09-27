@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2904"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52136"
@@ -104,6 +105,6 @@ War der Senat insgesamt mit dem Verlauf der Sitzung und seiner Beantwortung der 
 
 Vor dem Hintergrund, dass der Senat gegenüber fachlichen Expertisen Dritter offensichtlich beratungsresistent ist: Sind Aufwand und Ertrag derartiger Expertenanhörungen eigentlich zu rechtfertigen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Der Senat hat sich hiermit nicht befasst.

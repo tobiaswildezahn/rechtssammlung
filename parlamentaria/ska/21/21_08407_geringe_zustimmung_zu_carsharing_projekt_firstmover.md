@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 31
 antwortbloecke: 21
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6470"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57116"
@@ -63,11 +64,11 @@ Wie viele Beamte beziehungsweise Angestellte der Freien und Hansestadt Hamburg w
 
 #### Antwort zu Frage 3
 
- Personaleinsatz (grob geschätzt) in der Behörde für Wirtschaft, Verkehr und Inno-
+– Personaleinsatz (grob geschätzt) in der Behörde für Wirtschaft, Verkehr und Inno-
 
 vation (BWVI): seit Oktober des Jahres 2015 eine Person respektive Stelle E14/A14 mit circa 2 Prozent der Tätigkeit,
 
- in den Bezirksämtern Altona und Eimsbüttel: seit April des Jahres 2016 jeweils
+– in den Bezirksämtern Altona und Eimsbüttel: seit April des Jahres 2016 jeweils
 
 eine Person E 12 mit (grob geschätzt) circa 2 Prozent der Tätigkeit und seit Februar des Jahres 2016 jeweils eine Person E/A 14 mit (grob geschätzt) circa 1 Prozent der Tätigkeit.
 
@@ -87,7 +88,7 @@ In Drs. 21/6470 schrieb der Senat: „Beide Pilotgebiete verfügen über eine ho
 
 Wird das Pilotprojekt vor dem Hintergrund, dass gerade einmal 15 Befragte erklärt haben, auf ihr Auto zugunsten von Carsharing- Angeboten zu verzichten, fortgeführt? Wenn ja, warum?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Das Projekt hat das Ziel, alternative Mobilitätsangebote basierend auf der Nachfrage der Bewohnerinnen und Bewohner zu schaffen. Es geht dabei nicht nur um Carsharing. Das im Quartier zu schaffende alternative Mobilitätsangebot soll es Personen, die heute einen privaten Pkw besitzen, ermöglichen, ihren Mobilitätsbedarf künftig ohne Verzicht auf das Autofahren sicherzustellen. Der Entscheidung der befragten Personen über die Abschaffung ihres Pkws wird ein umfassender Abwägungsprozess vorausgegangen sein, da sie das Mobilitätsverhalten und die Gewohnheiten der Personen in besonderem Maße betrifft. Von den rund 270 Hauhalten mit Pkw kommen circa 120 Personen überhaupt als firstmover infrage. Vor diesem Hintergrund und wenn man in Betracht zieht, dass bisher erst mit circa 80 Personen Gespräche über eine mögliche Abschaffung des Fahrzeugs geführt werden konnten, bewertet die zuständige Behörde dies als eine gute Quote.
 
@@ -103,15 +104,15 @@ Im Segment der free-floating-Anbieter liegen beide Stadtteile in den Geschäftsg
 
 Im stationsgebundenen Carsharing gibt es gemäß der Recherche der BWVI auf offen zugänglichen Portalen ein Angebot folgender Unternehmen:
 
- cambio Hamburg CarSharing GmbH: Angebot von sechs Stationen im Stadtteil
+– cambio Hamburg CarSharing GmbH: Angebot von sechs Stationen im Stadtteil
 
 Eimsbüttel und im Stadtteil Ottensen Altona/Ottensen/St. Pauli zehn Stationen,
 
- Ubeeqo GmbH: im Stadtteil Eimsbüttel zwei Stationen und im Stadtteil Ottensen
+– Ubeeqo GmbH: im Stadtteil Eimsbüttel zwei Stationen und im Stadtteil Ottensen
 
 ebenfalls zwei Stationen,
 
- Greenwheels GmbH: im Stadtteil Eimsbüttel drei Stationen und im Stadtteil Otten-
+– Greenwheels GmbH: im Stadtteil Eimsbüttel drei Stationen und im Stadtteil Otten-
 
 sen eine Station,
 
@@ -171,7 +172,7 @@ berücksichtigt?
 Wenn ja, in welcher Form?  
 Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Das Projekt fokussiert auf den privaten Pkw-Besitz, nicht auf Wirtschaftsverkehr. Durch eine Reduzierung des Verkehrs und des Parkdrucks kann auch die lokale Wirtschaft indirekt davon profitieren.
 

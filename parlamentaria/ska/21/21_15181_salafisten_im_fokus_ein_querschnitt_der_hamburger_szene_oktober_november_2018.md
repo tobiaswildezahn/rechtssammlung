@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14702", "21/10721", "21/12273", "21/14086", "21/13488"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64888"
@@ -43,7 +44,7 @@ Wie war die Struktur der salafistischen Szene im Oktober/November 2018 in Hinbli
 
 Wie viele von diesen Leuten verfügen über die doppelte Staatsbürgerschaft? Bitte die jeweils aktuellen Kombinationen einzeln nennen und nicht auf andere Drucksachen verweisen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/14702.
 
@@ -125,7 +126,7 @@ Gegen wie viele Personen, die vom Verfassungsschutz der salafistischen Szene zug
 
 Wie viele Personen, die vom Verfassungsschutz der salafistischen Szene zugerechnet werden, sind im Oktober/November 2018 im Rahmen strafrechtlicher Prozesse verurteilt worden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Im Vorgangserfassungs- und Vorgangsverwaltungssystem MESTA der Staatsanwaltschaften Hamburg wird der Umstand, ob ein Beschuldigter der salafistischen Szene zuzurechnen ist, nicht erfasst. Zur Beantwortung der Fragen im Hinblick auf eine entsprechende Orientierung der Beschuldigten müssten daher alle Ermittlungsverfahren des abgefragten Zeitraums händisch ausgewertet werden, was in der für eine Parlamentarische Anfrage zur Verfügung stehenden Zeit nicht möglich ist.
 

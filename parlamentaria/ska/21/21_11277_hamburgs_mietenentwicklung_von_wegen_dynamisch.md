@@ -11,9 +11,10 @@ fraktionen: ["Die Linke"]
 vorgang: 55100
 seiten: 5
 fragen: 7
-einzelfragen: 12
-antwortbloecke: 7
+einzelfragen: 17
+antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/499", "21/9491"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60266"
@@ -44,15 +45,24 @@ Der Senat beantwortet die Fragen, teilweise auf Grundlage von Auskünften der SA
 ### Frage 1
 
 In den auf der Landespressekonferenz am 5. Dezember 2017 verteilten Unterlagen zum „Mietenspiegel 2017“ ist zu lesen, dass es eine „komplette Aktualisierung aller Wohnlageneinstufungen in Hamburg“ und eine „Erweiterung des Indikatorenkatalogs“ gegeben habe.
-1.1. Was meint die in diesem Papier angegebene „Möglichkeit zur flächendeckenden Aktualisierung aller Wohnlageneinstufungen in Hamburg“?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Was meint die in diesem Papier angegebene „Möglichkeit zur flächendeckenden Aktualisierung aller Wohnlageneinstufungen in Hamburg“?
+
+#### Antwort zu Fragen 1 und 1.1
 
 Die bisher aus Begehungen gewonnenen Daten konnten erstmals durch amtliche Daten ersetzt werden. Die rein datenbasierte Bewertung der Wohnlagen ist mit erheblich reduziertem Aufwand möglich und schafft damit die Voraussetzungen, für jede Neuerhebung des Mietenspiegels alle Wohnlageneinstufungen zu überprüfen. Mit dem Wohnlagenverzeichnis 2017 ist erstmals seit 1995 eine flächendeckende Überprüfung aller Wohnlageneinstufungen erfolgt.
 
-1.2. Welche Indikatoren sind gegebenenfalls verändert worden, welche neu in die Wohnlageneinstufung eingeflossen?
+### Frage 1.2
 
-1.3. Welche (prozentualen) Anteile haben die genannten neun Indikatoren bei der „Berechnung“ der Wohnlageneinstufung neuerdings?
+Welche Indikatoren sind gegebenenfalls verändert worden, welche neu in die Wohnlageneinstufung eingeflossen?
+
+### Frage 1.3
+
+Welche (prozentualen) Anteile haben die genannten neun Indikatoren bei der „Berechnung“ der Wohnlageneinstufung neuerdings?
+
+#### Antwort zu Fragen 1.2 und 1.3
 
 Folgende neun Indikatoren liegen der Wohnlageneinstufung 2017 zugrunde. Die Prozentzahl beschreibt den Einfluss des jeweiligen Merkmals für die Wohnlagenbewertung.
 
@@ -76,7 +86,11 @@ Entfernung zum Einzelhandel (circa 1 Prozent).
 
 Beim Wohnlagenverzeichnis 2017 wurde auf Mischindikatoren, wie den zuvor verwendeten „Gebietsstatus“ und die „Verdichtung“, verzichtet. Der Bodenrichtwert, der zuvor Teilindikator des Gebietsstatus war, fließt nunmehr als Einzelindikator ein. Ebenso der Statusindex des Sozialmonitorings, der die Bevölkerungsstruktur, die ebenfalls Teilindikator des Gebietsstatus war, ersetzt. Die Einwohnerdichte ersetzt den Indikator Verdichtung. Die Indikatoren „Entfernung zum Metrobus“ und „Entfernung Einzelhandel“ sind neu. Im Übrigen siehe Drs. 21/499.
 
-1.4. Wie „berechnet“ sich der sogenannte Statusindex, wie berechnen sich die Bodenrichtwerte?
+### Frage 1.4
+
+Wie „berechnet“ sich der sogenannte Statusindex, wie berechnen sich die Bodenrichtwerte?
+
+#### Antwort zu Frage 1.4
 
 In den Statusindex des Sozialmonitorings fließen die folgenden Indikatoren ein:
 
@@ -102,11 +116,19 @@ Die Bodenrichtwerte für Mehrfamilienhausgrundstücke werden vom Gutachteraussch
 
 Der Bodenrichtwert erfasst den Normschichtwert „Wohnen“ (Bodenrichtwert für Wohnnutzung, umgerechnet auf eine wertrelevante Geschossflächenzahl (WGFZ) von 1,0) in Euro pro Quadratmeter Grundstücksfläche auf Ebene der Bodenrichtwertzonen, die weitgehend mit den Blockseiten übereinstimmen. Um die auf der kleinräumigen Ebene der Bodenrichtwertzonen teilweise bestehenden hohen Volatilitäten zu verringern, werden im Indikator „Bodenrichtwert“ die Bodenrichtwerte der letzten drei verfügbaren Jahre gemittelt. Zur Übernahme der Werte der Bodenrichtwertzonen in die Adressdatenbank erfolgt eine räumliche Verschneidung der Datensätze mittels eines Geoinformationssystems (GIS).
 
-1.5. Was meint der Indikator „Art der Straße (4+ Spuren)“ und wie wird der objektive Wert bei der „Berechnung“ der Wohnlageneinstufung gemessen?
+### Frage 1.5
+
+Was meint der Indikator „Art der Straße (4+ Spuren)“ und wie wird der objektive Wert bei der „Berechnung“ der Wohnlageneinstufung gemessen?
+
+#### Antwort zu Frage 1.5
 
 Der Indikator „Art der Straße (4+ Spuren)“ gibt an, ob eine Blockseite an einer Straße mit mindestens vier Fahrspuren liegt oder nicht. Mit dem Straßennetz der Hamburger Straßeninformationsbank (HH-SIB) liegt hierfür eine städtische Datengrundlage vor, die Angaben zur Anzahl der Fahrspuren einzelner Straßenabschnitte enthält und in einem GIS genutzt werden kann. Mittels einer räumlichen Verschneidung mit den Straßenabschnitten kann jeder Adresse die Zahl der an dieser Stelle bestehenden Fahrspuren zugerechnet werden. Für die Wohnlagenberechnung werden alle Blockseiten, die vier und mehr Fahrspuren aufweisen, mit „1“ und alle Blockseiten mit weniger Fahrspuren mit „0“ bewertet. Die Bewertung mit „0“ bedeutet, dass der Indikator keinen Einfluss auf die Wohnlage hat, wohingegen die Bewertung mit „1“ sich negativ auf die Wohnlageneinstufung auswirkt.
 
-1.6. Wie lässt sich die „Entfernung Einzelhandel“ objektiv messen und welche Geschäftsvielfalt beziehungsweise welcher Grad der Nahversorgung ist nötig, um zu objektiven Daten zu kommen?
+### Frage 1.6
+
+Wie lässt sich die „Entfernung Einzelhandel“ objektiv messen und welche Geschäftsvielfalt beziehungsweise welcher Grad der Nahversorgung ist nötig, um zu objektiven Daten zu kommen?
+
+#### Antwort zu Frage 1.6
 
 Mit der Entfernung zum Einzelhandel werden die Versorgungsmöglichkeiten und -qualitäten im näheren Umfeld bestimmt. Dieser Aspekt wurde bisher bei der Wohnlagenzuordnung nicht berücksichtigt. Um nicht nur eine Grundversorgung, sondern eine gewisse Differenzierung des Angebotes als wohnwerterhöhend sicherzustellen, werden die jeweils nächstgelegenen drei Supermärkte in die Betrachtung einbezogen. Mittels GIS wurde die durchschnittliche Entfernung jeder Wohnadresse zu den Adresspunkten der nächstgelegenen drei Supermärkten in Metern ermittelt.
 

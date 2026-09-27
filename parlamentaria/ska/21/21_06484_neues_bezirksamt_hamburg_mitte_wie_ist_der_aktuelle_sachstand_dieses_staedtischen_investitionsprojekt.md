@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 22
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3100"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55023"
@@ -88,11 +89,20 @@ Temporäre Anmietungen sind nicht vorgesehen.
 ### Frage 7
 
 Bei der Entscheidung der Standortfrage des Bezirksamtes Hamburg- Mitte im Juli 2014 hatte die Finanzbehörde in einer Pressemitteilung eine Miethöhe für das Bezirksamt von 11,00 Euro (kalt) pro Quadratmeter beziehungsweise 5,2 Millionen Euro p.a. Warmmiete insgesamt mitgeteilt. In der Drs. 21/3100 hatte der Senat die Jahresmiete für das Bezirksamt dann mit 6,41 Millionen Euro angegeben.
-7.1. Warum weichen diese beiden Angaben des Senats zur Miete so deutlich voneinander ab?
-7.2. Welche Änderungen hat es im Einzelnen seit Juli 2014 in der Kalkulation der Miete für das Bezirksamt Hamburg-Mitte gegeben?
-7.3. Wie hoch ist die derzeit erwartete Miethöhe? (Bitte sowohl Kaltmiete pro Quadratmeter als auch die Jahres-Gesamtmiete angeben.) Ist diese Miete bereits vertraglich vereinbart?
 
-#### Antwort zu Frage 7
+### Frage 7.1
+
+Warum weichen diese beiden Angaben des Senats zur Miete so deutlich voneinander ab?
+
+### Frage 7.2
+
+Welche Änderungen hat es im Einzelnen seit Juli 2014 in der Kalkulation der Miete für das Bezirksamt Hamburg-Mitte gegeben?
+
+### Frage 7.3
+
+Wie hoch ist die derzeit erwartete Miethöhe? (Bitte sowohl Kaltmiete pro Quadratmeter als auch die Jahres-Gesamtmiete angeben.) Ist diese Miete bereits vertraglich vereinbart?
+
+#### Antwort zu Fragen 7, 7.1, 7.2 und 7.3
 
 Die in Drs. 21/3100 aufgeführte Jahres-Warmmiete berücksichtigt zusätzlich eine größere Mietfläche, die Detaillierung des Grundausbaus, eine Aktualisierung der Nebenkosten sowie die Finanzierung von Mietereinbauten und Ausstattung der Räume. Eine endgültige Miethöhe steht noch nicht fest, da die Planungen zur genauen Größe der Mietfläche sowie der Einbeziehung einer Finanzierung weiterer Kosten (zum Beispiel der Ausstattung und IT-Infrastruktur) noch nicht abgeschlossen sind.
 

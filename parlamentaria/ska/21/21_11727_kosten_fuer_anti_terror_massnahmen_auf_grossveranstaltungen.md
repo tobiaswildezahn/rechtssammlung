@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11257", "21/10376", "21/10450", "21/10981", "21/8777"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60960"
@@ -120,6 +121,6 @@ Anlage 1 der Drs. 21/8777 liefert eine Übersicht der geplanten Sanierungsmaßna
 
 Die in der Anlage 1 der Drs. 21/8777 genannten Maßnahmen enthalten keine Maßnahmen, die gegen Terror-Anschläge schützen. Bestehen darüber hinaus Planungen für Sicherheitsmaßnahmen auf dem Heiligengeistfeld? Wenn ja, welche konkret und welche Kosten sind damit jeweils verbunden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Das Sicherheitskonzept befindet sich derzeit in der Weiterentwicklung und Abstimmung mit allen Beteiligten. Eine Kostenschätzung liegt noch nicht vor.

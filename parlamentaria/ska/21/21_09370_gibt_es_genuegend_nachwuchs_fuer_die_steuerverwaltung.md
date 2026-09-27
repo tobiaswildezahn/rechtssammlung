@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9100"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58133"
@@ -77,7 +78,7 @@ Wie bewertet der Senat das Verfehlen seiner Ziele für die Ausbildung in der Ste
 
 Welche Maßnahmen wurden eingeleitet, um die Zielzahlen für die Jahre nach 2016 zu erreichen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Ziele des Senats für die Ausbildung in der Steuerverwaltung wurden nicht verfehlt. Neben der quantitativen Verstärkung der Ausbildung gehören dazu auch qualitative Anforderungen an den fachlichen Ausbildungserfolg, die in Einzelfällen zu einem Nichtbestehen von Zwischen- oder Abschlussprüfungen führen können. Die Anzahl der nicht erfolgreich abgeschlossenen Ausbildungen ist jährlichen Schwankungen unterworfen, die von der zuständigen Behörde im Einzelfall nicht wesentlich zu beeinflussen sind. Unvorhergesehene Abgänge werden in dem gebotenen Umfang durch eine Erhöhung der Ausbildungszahlen in den Folgejahren ausgeglichen. Als zusätzliche Maßnahme plant die zuständige Behörde derzeit die Durchführung eines Intensivlehrgangs zur Vorbereitung auf Wiederholungsprüfungen für die Laufbahngruppe 2, 1. Einstiegsamt, um möglichst vielen Anwärterinnen und Anwärter ein Bestehen der Laufbahnprüfung zu ermöglichen. Der in Drs. 21/9100 dargestellte Kostenvergleich lässt wegen der unterschiedlichen Zeitpunkte der Haushaltsplanung für das Jahr 2016 und der Erstellung des Personalberichts 2016 keine unmittelbaren Rückschlüsse auf die Erreichung der Ausbildungsziele zu. Die Zielzahlen für die Ausbildung 2016 wurden – wie im Personalbericht 2016 dargestellt – mit geringen Abweichungen erreicht.
 

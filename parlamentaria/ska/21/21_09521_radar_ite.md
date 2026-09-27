@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8930"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58286"
@@ -76,7 +77,7 @@ Was bedeuten die Farbkategorien für die Arbeit des Staatsschutzes?
 
 Welche Maßnahmen werden für Personen getroffen, die in RADAR-iTE eingeordnet werden? Bitte für jede Farbkategorie benennen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 RADAR-iTE ist ein Instrument zur Bewertung eines Risikos, ausgehend von einer Person eines bestimmten extremistischen Spektrums. Ziel ist es, das Risikopotenzial verlässlich zu differenzieren und damit eine Priorisierung polizeilicher Maßnahmen zu unterstützen.
 

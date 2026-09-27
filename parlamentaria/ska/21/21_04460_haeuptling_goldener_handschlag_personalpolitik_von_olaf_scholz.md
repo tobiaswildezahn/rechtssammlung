@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 24
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4116"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52868"
@@ -53,7 +54,7 @@ In welchen öffentlichen Unternehmen (Beteiligungen mittelbar und unmittelbar mi
 
 In welchen öffentlichen Unternehmen (Beteiligungen mittelbar und unmittelbar mit mindestens 20 Prozent Anteilsbesitz durch die Stadt Hamburg) wurden im Zeitraum 2011 – 2016 Verträge mit Geschäftsführern, Vorständen oder Aufsichtsräten vor Ablauf der Vertragslaufzeit aufgelöst? a. Um welche Person und welche Position handelte es sich dabei jeweils? b. Aus welchen Gründen wurde der Vertrag aufgelöst? c. Handelt es sich um einen Angestelltenvertrag? Wenn nein, um welche Vertragsart handelt es sich dann? d. Welche Seite bat um vorzeitige Vertragsauflösung? e. Zu welchem Zeitpunkt wurde der/die Betreffende freigestellt? f. Zu welchem Zeitpunkt wurde der Vertrag jeweils aufgelöst? g. Welchen Zeitraum umfasste die ursprüngliche Vertragslaufzeit jeweils? h. Welche vertraglichen Regelungen gab es bezüglich einer etwaigen vorzeitigen Vertragsauflösung? i. Wie lange wurden wie viele Bezüge weitergezahlt? j. Gab es eine Abfindungszahlung, wenn ja, in welcher Höhe?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage. Bei den aufgeführten 58 vorzeitigen Vertragsauflösungen wurde in 35 Fällen keine Abfindung gezahlt. In elf Fällen ist eine Abfindung gezahlt worden. In zwölf Fällen ist von den Unternehmen auf Vertraulichkeit verwiesen worden. Mit den Mitgliedern der Aufsichtsorgane werden keine Verträge geschlossen. Im Übrigen handelt es sich bei den erfragten Angaben um schutzwürdige personenbezogene Daten, zu deren Übermittlung an Dritte keine rechtfertigende Einwilligung der Betroffenen vorliegt.
 

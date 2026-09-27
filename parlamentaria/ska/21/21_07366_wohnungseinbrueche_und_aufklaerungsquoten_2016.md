@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1121", "21/1584", "21/3616"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55986"
@@ -47,7 +48,7 @@ Wie hat sich die Zahl der Einbrüche im Jahr 2016 im Alstertal und den Walddörf
 
 Wie viele Einbrüche wurden im Jahr 2016 im Alstertal und den Walddörfern aufgeklärt? Bitte die Zahlen für jeden Monat einzeln angeben und nach Stadtteilen sowie in Wohnungen/Häuser und Gewerbeobjekte aufgliedern.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zur Aussagekraft der Polizeilichen Kriminalstatistik (PKS) siehe Drs. 21/1121.
 

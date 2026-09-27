@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3069", "21/5039", "21/3445", "21/7026"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57150"
@@ -65,7 +66,7 @@ Erwägt der Senat beziehungsweise die zuständige Behörde, zukünftig – gegeb
 
 Liegen der zuständigen Behörde Erkenntnisse darüber vor, gegen wie viele Personen Abschiebungsanordnungen gemäß § 58a AufenthG erlassen werden könnten? Wenn ja, welche?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 In welchem Umfang von der Möglichkeit des § 58a AufenthG Gebrauch gemacht werden kann, richtet sich nach den jeweiligen Umständen des Einzelfalles, siehe im Übrigen Antwort zu 1. Die Erkenntnisse der beteiligten Stellen unterliegen Veränderungen, sodass die Prüfung von Voraussetzungen für die Anwendung einzelner Vorschriften regelmäßig erfolgen muss.
 

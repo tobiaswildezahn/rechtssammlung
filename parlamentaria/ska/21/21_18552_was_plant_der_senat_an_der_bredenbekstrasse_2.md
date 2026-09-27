@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17873", "21/14986", "21/18109"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68196"
@@ -38,11 +39,20 @@ Ich frage den Senat:
 ### Frage 1
 
 Laut Drs. 21/18109 wurde „im Sommer 2018“ entschieden, das Objekt Bredenbekstraße 63 aus dem Verkauf einer Tranche von Bestandsobjekten an die Sprinkenhof GmbH herauszunehmen.
-1.1. Wer genau hat wann genau im Sommer 2018 diese Entscheidung getroffen?
-1.2. Warum genau hat der Senat dann im November 2018 den Verkauf des Objektes Bredenbekstraße 63 an die Sprinkenhof GmbH beschlossen und die Bürgerschaft mit Drs. 21/14986 hierfür um Zustimmung gebeten?
-1.3. Stand zum Zeitpunkt der Beratung und Beschlussfassung der Drs. 21/14986 fest, dass das Grundstück Bredenbekstraße 63 nicht im Rahmen dieser Tranche an die Sprinkenhof GmbH verkauft werden sollte? Wenn ja, warum hat der Senat die Drs. 21/14986 nicht korrigiert oder in den Ausschussberatungen auf diese Änderung hingewiesen?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Wer genau hat wann genau im Sommer 2018 diese Entscheidung getroffen?
+
+### Frage 1.2
+
+Warum genau hat der Senat dann im November 2018 den Verkauf des Objektes Bredenbekstraße 63 an die Sprinkenhof GmbH beschlossen und die Bürgerschaft mit Drs. 21/14986 hierfür um Zustimmung gebeten?
+
+### Frage 1.3
+
+Stand zum Zeitpunkt der Beratung und Beschlussfassung der Drs. 21/14986 fest, dass das Grundstück Bredenbekstraße 63 nicht im Rahmen dieser Tranche an die Sprinkenhof GmbH verkauft werden sollte? Wenn ja, warum hat der Senat die Drs. 21/14986 nicht korrigiert oder in den Ausschussberatungen auf diese Änderung hingewiesen?
+
+#### Antwort zu Fragen 1, 1.1, 1.2 und 1.3
 
 Anders als in Drs. 21/18109 beschrieben, wurde die abschließende Entscheidung erst im Januar 2019 getroffen.
 

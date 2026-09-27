@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 25
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8946", "21/11452", "21/19744", "21/11447", "21/19576"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69575"
@@ -111,7 +112,7 @@ Wie viele Quadratmeter Wohnfläche werden im Durchschnitt jedem Ausländer mit A
 
 Über welche Einrichtungsstandards verfügen die Neubauten? Bitte angeben für folgende Kriterien: Tiefgarage, Privatparkplätze, Spielplätze, Einbauküchen (Küchenmobiliar), Balkone, Fahrstühle, Kellerräume, Waschküchen, Parkettböden, Holzdielen, Möblierung, Badezimmerausstattung, elektronische Geräte, Freizeiträume, Waschräume, Waschmaschinen, Sonstiges.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/11447 und 21/11452.
 
@@ -125,7 +126,7 @@ Welche durchschnittliche Miete pro Quadratmeter pro Monat zahlt oder wird die Fr
 
 Welchen Betrag zahlt die Freie und Hansestadt Hamburg (einschließlich ihrer Tochterunternehmen) aktuell jährlich für die Anmietung von Wohnraum für Ausländer mit Asylhintergrund in der Anlage?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Drs. 21/11447 und 21/11452.
 
@@ -176,7 +177,7 @@ Aus welchen Herkunftsländern kommen die Ausländer mit Asylhintergrund, die in 
 
 Welche der Herkunftsländer sind derzeit als sichere Herkunftsstaaten eingestuft?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Die Staatsangehörigkeit der im ausländerbehördlichen Fachverfahren unter der Adresse der Einrichtung gemeldeten Personen ist der folgenden Übersicht zu entnehmen:
 
@@ -199,7 +200,7 @@ Welches Geschlechterverhältnis weisen die Ausländer mit Asylhintergrund auf, d
 
 Welche Familienstände weisen die Ausländer mit Asylhintergrund auf, die in der Anlage bereits untergebracht sind oder untergebracht werden sollen?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 In der Einrichtung sind 49 Prozent weibliche und 51 Prozent männliche Personen untergebracht. Davon leben 87 Prozent in Familien und 13 Prozent sind alleinstehend. Bei den Alleinstehenden können auch volljährige Mitglieder einer Familie enthalten sein.
 
@@ -211,7 +212,7 @@ Welche beruflichen oder akademischen Qualifikationen weisen die Ausländer mit A
 
 Wie viele der Ausländer mit Asylhintergrund, die in den Wohnungen bereits untergebracht sind oder untergebracht werden sollen, gehen aktuell einer sozialversicherungspflichtigen Beschäftigung nach?
 
-#### Antwort zu Fragen 20 bis 21
+#### Antwort zu Fragen 20 und 21
 
 Siehe Drs. 21/11447 und 21/11452.
 
@@ -235,6 +236,6 @@ Wie will der Senat eine ethnisch-kulturelle Ballung von Ausländern mit Asylhint
 
 Wie stellt der Senat die Integration von Ausländern mit Asylhintergrund, die einen dauerhaften Aufenthaltsstatus in Deutschland erhalten, in die deutsche Leitkultur sicher, wenn in der Anlage überwiegend oder zu einem großen Teil Ausländer wohnen?
 
-#### Antwort zu Fragen 23 bis 24
+#### Antwort zu Fragen 23 und 24
 
 Siehe Drs. 21/19576, 21/11447, 21/11452 und https://www.hamburg.de/fluechtlingegrundlagen/13337968/lebenlagenbericht-gefluechtete/.

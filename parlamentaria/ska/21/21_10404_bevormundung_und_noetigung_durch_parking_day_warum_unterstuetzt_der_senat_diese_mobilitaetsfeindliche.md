@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 26
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59274"
@@ -149,7 +150,7 @@ Wie viele Anträge auf Anmeldungen von Kundgebungen/Demonstrationen im Rahmen de
 
 Mit welchen Mottos wurden die Kundgebungen/Demonstrationen im Rahmen des „Parking Day“ jeweils als Veranstaltung angemeldet? Bitte für jede Veranstaltung das entsprechende Motto angeben.
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Bei der Versammlungsbehörde der Polizei wurden drei Versammlungen im Rahmen des Park(ing) Day angemeldet, die im versammlungsrechtlichen Anmeldeverfahren bestätigt wurden.
 

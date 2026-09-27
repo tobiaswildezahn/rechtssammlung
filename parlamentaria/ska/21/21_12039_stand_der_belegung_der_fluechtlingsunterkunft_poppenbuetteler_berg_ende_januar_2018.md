@@ -14,6 +14,7 @@ fragen: 25
 einzelfragen: 32
 antwortbloecke: 21
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9744", "21/11504", "21/11632", "21/11184", "21/2108", "21/10137", "21/10093", "21/5875"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61298"
@@ -43,7 +44,7 @@ Wie viele Personen waren in der örU Poppenbütteler Berg Ende Januar 2018 unter
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Geschlecht  
 Kinder & Jugendliche  
@@ -120,7 +121,7 @@ Wie viele Kleinkinder und Kinder im Vorschulalter gibt es und wie viele besuchen
 
 Im Baufeld 3 hat das DRK KiJu die Trägerschaft der Kita mit 50 Plätzen übernommen und eröffnet laut Drs. 21/11632 im April 2018. Auf die Frage, welcher Träger die Kita in Baufeld 6 mit 80 Plätzen, in der auch das Eltern-Kind-Zentrum (EKiZ) seinen Betrieb aufnehmen soll, übernimmt und wann diese Kita eröffnen soll, hüllt sich der Senat allerdings in Schweigen. Wie ist der aktuelle Stand der Planungen für die zweite Kita?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Drs. 21/11184 und 21/11632. Der Sachstand ist unverändert.
 
@@ -206,7 +207,7 @@ Wie viele Kleinkinder und Kinder im Vorschulalter gibt es und wie viele besuchen
 
 Im Baufeld 3 hat das DRK KiJu die Trägerschaft der Kita mit 50 Plätzen übernommen. Welcher Träger übernimmt die Kita in Baufeld 6 mit 80 Plätzen, in der auch das Eltern-Kind-Zentrum (EKiZ) seinen Betrieb aufnehmen soll? Wann werden die beiden Kitas jeweils eröffnen?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Siehe Antwort zu 8. und 9.
 
@@ -218,37 +219,37 @@ Welche Angebote werden den Flüchtlingen zu jeweils welchen Zeiten in welchen R�
 
 Es gibt folgende Angebote:
 
- Eine Hebamme besucht (gemeinsam mit einer Dolmetscherin) jeden Mittwoch für
+– Eine Hebamme besucht (gemeinsam mit einer Dolmetscherin) jeden Mittwoch für
 
 zwei Stunden die Unterkunft und bietet ihre Sprechstunde in den Gemeinschaftsräumen an.
 
- Der SC Poppenbüttel bietet jeden Freitag in einer nahegelegenen Turnhalle Sport
+– Der SC Poppenbüttel bietet jeden Freitag in einer nahegelegenen Turnhalle Sport
 
 an und holt die Bewohner dazu ab.
 
- Eine Sprachmittlerin für Arabisch, Farsi, Dari unterrichtet zwei Stunden pro Woche
+– Eine Sprachmittlerin für Arabisch, Farsi, Dari unterrichtet zwei Stunden pro Woche
 
 und dolmetscht bei Bedarf.
 
- Eine allgemeine Sprechstunde wird in den Gemeinschaftsräumen angeboten.
+– Eine allgemeine Sprechstunde wird in den Gemeinschaftsräumen angeboten.
 
- Ehrenamtliche unterstützen montags bis freitags von 16.00 bis 18.00 Uhr Bewoh-
+– Ehrenamtliche unterstützen montags bis freitags von 16.00 bis 18.00 Uhr Bewoh-
 
 nerinnen und Bewohner beim Erlernen der deutschen Sprache, bieten Hausaufgabenhilfe an und spielen mit den Kindern. Für dieses offene Angebot stehen den Ehrenamtlichen sechs Räume unterschiedlicher Größe zur Verfügung.
 
- „Klönschnack“ (Deutschdialog) mit Ehrenamtlichen jeden Dienstag von 18.30 bis
+– „Klönschnack“ (Deutschdialog) mit Ehrenamtlichen jeden Dienstag von 18.30 bis
 
 20.30 Uhr in den Verwaltungsräumen.
 
- Regelmäßige offene Treffen von Bewohnerinnen und Bewohnern, Hauptamtlichen
+– Regelmäßige offene Treffen von Bewohnerinnen und Bewohnern, Hauptamtlichen
 
 und Ehrenamtlichen sowie allen Interessierten montags um 14.30 Uhr.
 
- Einzelfallbegleitung von Personen mit besonderem Unterstützungsbedarf (zum
+– Einzelfallbegleitung von Personen mit besonderem Unterstützungsbedarf (zum
 
 Beispiel alleinerziehende Mütter).
 
- Ab dem 19. Februar kommt der Spieltiger montags von 15.00 bis18.00 Uhr, um mit
+– Ab dem 19. Februar kommt der Spieltiger montags von 15.00 bis18.00 Uhr, um mit
 
 den Kindern draußen zu spielen. Das Angebot richtet sich an Kinder im Alter von fünf bis dreizehn Jahren.
 

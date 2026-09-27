@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 31
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49983"
@@ -128,7 +129,7 @@ War die Flüchtlingsunterkunft in der Kurt-A.-Körber-Chaussee vor dem Einzug hi
 
 Sind die Vorwürfe einer etwaigen Gesundheitsgefährdung für die Bewohner geprüft worden? Wenn ja, durch wen und mit welchem Ergebnis? Wenn nein, wieso nicht?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Der Boden der Halle wurde vorher zweimal gereinigt.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65450"
@@ -47,23 +48,23 @@ Darüber hinaus sieht die Stellenanordnung weitere Konstellationen für einen Au
 
 Im Landesinstitut für Lehrerbildung und Schulentwicklung (LI) wird die Institutsleitung zum 1. Februar 2019 um die im Vortext dieser Anfrage genannte Stelle erweitert, um die anstehenden Entwicklungsaufgaben erfolgreich steuern zu können. Zu den anstehenden besonderen Herausforderungen gehören unter anderem:
 
- der intensive Ausbau und die Modernisierung der IT-Infrastruktur und Digitalisie-
+– der intensive Ausbau und die Modernisierung der IT-Infrastruktur und Digitalisie-
 
 rung des LI,
 
- die Bereitstellung zusätzlicher Raumkapazitäten insbesondere für die umfangrei-
+– die Bereitstellung zusätzlicher Raumkapazitäten insbesondere für die umfangrei-
 
 che Ausweitung des Vorbereitungsdienstes,
 
- die Implementierung der Reform der Lehrerbildung,
+– die Implementierung der Reform der Lehrerbildung,
 
- die Weiterentwicklung der institutionenübergreifenden Zusammenarbeit und Quali-
+– die Weiterentwicklung der institutionenübergreifenden Zusammenarbeit und Quali-
 
 tätsentwicklung,
 
- die Weiterentwicklung der datengestützten Schulentwicklung und
+– die Weiterentwicklung der datengestützten Schulentwicklung und
 
- die Weiterentwicklung der digitalen Bildung.
+– die Weiterentwicklung der digitalen Bildung.
 
 Ein Ausschreibungsverfahren war nicht erforderlich, weil es sich im vorliegenden Fall um eine wertgleiche Umsetzung handelt. Die zuständigen Personalräte haben der Maßnahme zugestimmt, die Deputation hat Kenntnis genommen.
 
@@ -119,7 +120,7 @@ Wie sieht das gängige Verfahren aus, wenn eine Stelle frei wird und wieder bese
 
 Welche Akteure/-innen sind an dem unter 2. beschriebenen Verfahren jeweils beteiligt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Haushaltsabteilung der für Bildung zuständigen Behörde prüft das Vorhandensein einer entsprechenden Stelle und holt die Freigabeentscheidung durch den hierfür zuständigen Staatsrat ein. Die Dienststelle, an der die Stelle besetzt werden soll, fertigt einen Ausschreibungstext auf Basis einer Stellenbeschreibung an und leitet diesen dem Personalrat und der Gleichstellungsbeauftragten zur Stellungnahme weiter. Danach wird der Ausschreibungstext über das Personalamt im Intranet beziehungs-
 

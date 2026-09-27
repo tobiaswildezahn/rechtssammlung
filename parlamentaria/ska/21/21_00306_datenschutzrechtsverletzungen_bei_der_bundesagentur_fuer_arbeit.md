@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48453"
@@ -57,7 +58,7 @@ Welches Unternehmen hat den Auftrag für die rechtssichere Entsorgung von Papier
 
 Auf welche Gesamtsumme in Euro beläuft sich das Auftragsvolumen für die Aufträge unter 2. und wie erfolgte die Auftragsvergabe?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Vergabe erfolgte zentral durch das BA-Service-Haus im Rahmen einer europaweiten Ausschreibung.
 
@@ -79,35 +80,35 @@ Wie ist es sichergestellt, dass interne Papiere über interne Abläufe oder von 
 
 Die Beschäftigten werden bei ihrer Einstellung gemäß § 5 des Bundesdatenschutzgesetzes (BDSG) auf das Datengeheimnis verpflichtet. Alle Büros sind standardmäßig mit verschließbaren Aktenschränken ausgestattet. Der Bereich Behördlicher Datenschutz von Jobcenter informiert die Beschäftigten regelmäßig durch Schulungen über die Verhaltenspflichten. Eine Nachhaltung erfolgt durch Beratungs- und Kontrollbesuche in den Standorten. Zu den Verhaltenspflichten der Beschäftigten gehört, unter anderem dafür Sorge zu tragen, dass
 
- Bürotüren bei Kundengesprächen grundsätzlich verschlossen sind.
+– Bürotüren bei Kundengesprächen grundsätzlich verschlossen sind.
 
- Aktenschränke bei Kundengesprächen und bei Abwesenheit der Mitarbeiter/-innen
+– Aktenschränke bei Kundengesprächen und bei Abwesenheit der Mitarbeiter/-innen
 
 verschlossen sind.
 
- bei Vorspracheterminen nur die für das jeweilige Kundengespräch benötigten
+– bei Vorspracheterminen nur die für das jeweilige Kundengespräch benötigten
 
 Unterlagen einsehbar sind.
 
- eine Entsorgung von sensiblem Schriftgut nur über die Datenmülltonnen und durch
+– eine Entsorgung von sensiblem Schriftgut nur über die Datenmülltonnen und durch
 
 die Mitarbeiter/-innen selbst stattfindet.
 
- die Poststellen Unbefugten nicht zugänglich sind.
+– die Poststellen Unbefugten nicht zugänglich sind.
 
 Entsprechende Unterlagen dürfen nur den dienstlich damit befassten Beschäftigten zugänglich gemacht werden und sind ansonsten unter Verschluss zu halten.
 
 Der Grundsatz wird sichergestellt durch:
 
- gesicherte Postzustellung (zum Beispiel verplombte Behältnisse),
+– gesicherte Postzustellung (zum Beispiel verplombte Behältnisse),
 
- Zuordnung von Schriftstücken entsprechend Kundennummer beziehungsweise
+– Zuordnung von Schriftstücken entsprechend Kundennummer beziehungsweise
 
 Tätigkeitsschwerpunkt zu den konkreten Beschäftigten,
 
- verschlossene Postzielzimmer,
+– verschlossene Postzielzimmer,
 
- getrennte Schließkreise bei unterschiedlichen Aufgabenbereichen.
+– getrennte Schließkreise bei unterschiedlichen Aufgabenbereichen.
 
 ### Frage 6
 
@@ -119,19 +120,19 @@ Die Arbeitsschritte umfassen unterschiedliche Maßnahmen, die sich von der Zutri
 
 Bei Anwesenheit Dritter halten die Mitarbeiterinnen und Mitarbeiter:
 
- ihren Bildschirm geschützt vor Blicken unbeteiligter Dritter,
+– ihren Bildschirm geschützt vor Blicken unbeteiligter Dritter,
 
- stellen sicher, dass Kunden nicht allein im Zimmer sind,
+– stellen sicher, dass Kunden nicht allein im Zimmer sind,
 
- halten eventuelle Schriftstücke und Akten so vor den Blicken der Kunden
+– halten eventuelle Schriftstücke und Akten so vor den Blicken der Kunden
 
 geschützt, dass keine Namen, Adressen et cetera zugänglich werden.
 
 Bei Abwesenheit der Mitarbeiterinnen und Mitarbeiter werden:
 
- Unterlagen in verschließbaren Räumen oder
+– Unterlagen in verschließbaren Räumen oder
 
- in verschließbaren Behältnissen untergebracht.
+– in verschließbaren Behältnissen untergebracht.
 
 ### Frage 7
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9958", "20/10994"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58784"
@@ -77,7 +78,7 @@ Gibt es eine Strategie des Senats zur Bekämpfung MH/A? Falls ja, wie sieht dies
 
 Welche Ansätze bestehen, um die Erreichbarkeit von Opfern von MH/A zu erhöhen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Neben den Abstimmungsprozessen und Vereinbarungen des „Runden Tisches Menschenhandel/Arbeitsausbeutung“ (vergleiche Vorbemerkung) ist die Koordinierungsstelle KOOFRA mit der regelmäßigen Umsetzung konkreter Maßnahmen zur Bekämpfung von MH/A beauftragt. Hierzu zählen insbesondere Vorträge und Schulungen, um verschiedene Akteure in Hamburg für die Problematik MH/A zu sensibilisieren. Außerdem werden Informationsmaterialien in insgesamt 35 Sprachen für Opfer von MH/A vorgehalten. Die Öffentlichkeitsarbeit von KOOFRA wurde im Zuge der Profilerweiterung an das Thema MH/A angepasst und für 2018 ist ein eigener Fachtag zu MH/A geplant, der von KOOFRA organisiert wird.
 

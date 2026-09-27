@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/806", "20/1891"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50079"
@@ -43,7 +44,7 @@ Welche Großveranstaltungen stehen mit welchen Terminen für das Jahr 2016 endg�
 
 Welche Großveranstaltungen werden von der zuständigen Behörde derzeit noch geprüft? a. Für welche Termine werden diese Veranstaltungen geprüft? b. Welche Termine sind jeweils als Wunschtermine angegeben?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zum jetzigen Zeitpunkt liegen für Großveranstaltungen noch keine Anträge vor, da das Verfahren im Eventausschuss vorgeschaltet ist. Dort werden Kurzkonzepte eingereicht, die durch die Mitglieder des Eventausschusses nach festgelegten Kriterien bewertet werden. Hier findet auch eine Sichtung nach Terminüberschneidungen statt. Erst wenn der Eventausschuss Empfehlungen abgegeben hat, beginnt das Genehmigungsverfahren in den zuständigen Behörden. Im Übrigen siehe Drs. 20/1891.
 

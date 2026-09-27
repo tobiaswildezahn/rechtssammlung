@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12654", "21/29", "21/8357"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62869"
@@ -53,7 +54,7 @@ Wie viele Kinderkrippen, Kindergärten, Kindertagesstätten, Kinderhorte, Schule
 
 Wie viele Kinderkrippen, Kindergärten, Kindertagesstätten, Kinderhorte, Schulen oder sonstige Ausbildungseinrichtungen verlangen keinerlei Gesundschreibungen für Krankheiten, die nicht im § 34 des Gesetzes zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen aufgeführt sind? (Bitte aufschlüsseln nach Anzahl der Kinderkrippen, Kindergärten, Kindertagesstätten, Kinderhorte, Schulen oder sonstigen Ausbildungseinrichtungen.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die für Kindertagesbetreuung zuständige Behörde verfügt nicht über die zur Beantwortung dieser Fragestellung erforderlichen Informationen. Sie hat deshalb die Vertragspartner des Landesrahmenvertrages „Kinderbetreuung in Tageseinrichtungen“ (Arbeiterwohlfahrt Landesverband Hamburg e.V.; Caritasverband für Hamburg e.V.; Deutsches Rotes Kreuz Landesverband Hamburg; Der PARITÄTISCHE Wohlfahrtsverband Hamburg e.V. Landesverband Hamburg; Diakonisches Werk Hamburg e.V., Kindermitte e.V. – Bündnis für soziales Unternehmertum und Qualität in der Kindertagesbetreuung e.V.; SOAL – Alternativer Wohlfahrtsverband e.V. Landesverband Hamburg, Elbkinder – Vereinigung Hamburger Kindertagesstätten gGmbH) und die nicht organisierten Träger von Kindertageseinrichtungen gebeten, die entsprechenden Auskünfte zu erteilen.
 
@@ -101,6 +102,6 @@ Welche Bindungswirkung wird voraussichtlich der geplante Leitfaden auf die Kinde
 
 Wer wurde und wer wird voraussichtlich bei der Erstellung des Leitfadens aus welchem Grunde zu Rate gezogen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Planungen zum Kita-Gesundheitsleitfaden sind noch nicht abgeschlossen. Es ist vorgesehen, die relevanten Akteure bei der Erstellung des Kita-Gesundheitsleitfadens einzubeziehen. Im Übrigen siehe Drs. 21/12654.

@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 18
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65589"
@@ -63,7 +64,7 @@ Wer hat den Notruf abgesetzt?
 
 Wann haben Polizei und Rettungsdienst einen Notruf erhalten?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der den Einsatz auslösende Notruf ging bei der Feuerwehr am 2. Februar 2019 um
 18.05 Uhr ein.
@@ -122,7 +123,7 @@ Wie ist das Opfer ins Krankenhaus verbracht worden?
 
 Wann erfolgte die Notoperation?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Nach erfolgter Stabilisierung wurde das Opfer durch Rettungskräfte mit Notarzt- und Polizeibegleitung einem Krankenhaus zugeführt. Unmittelbar nach deren Eintreffen erfolgte die weitere ärztliche Versorgung.
 

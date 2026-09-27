@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66169"
@@ -47,7 +48,7 @@ Wie ist der benannte CampusShop rechtlich strukturiert? Ist der CampusShop selbs
 
 Welche Einrichtungen halten Anteile am CampusShop?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der CampusShop wird in der Rechtsform einer Unternehmergesellschaft (UG) (haftungsbeschränkt) geführt und ist eine im Eigentum des AStA beziehungsweise der Studierendenschaft stehende, rechtlich eigenständige Gesellschaft.
 

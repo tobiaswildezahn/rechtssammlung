@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15088"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65426"
@@ -115,7 +116,7 @@ Gibt es seitens der Behörden Pläne wie es mit der Familie R. weitergehen soll?
 
 Wurden der Familie R. konkrete Vorschläge und Hilfeleistungen angeboten?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Es ist der Ausgang der durch die Betroffenen betriebenen verwaltungsgerichtlichen Verfahren hinsichtlich ihres geltend gemachten Aufenthaltsrechts abzuwarten. Das weitere Vorgehen wird sich sodann an den bindenden gerichtlichen Entscheidungen orientieren.
 
@@ -175,6 +176,6 @@ Wie ist der Krankenschutz der Familie gesichert?
 
 Was für finanzielle Hilfen (zum Beispiel Kindergeld oder Ähnliches) erhält die Familie R.?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Vorbemerkung.

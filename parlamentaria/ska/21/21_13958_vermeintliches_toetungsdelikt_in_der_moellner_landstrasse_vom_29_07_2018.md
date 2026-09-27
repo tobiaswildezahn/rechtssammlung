@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2322"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63345"
@@ -61,17 +62,17 @@ Welche Maßnahmen wurden im Zuge der Tat durch die Einsatzkräfte durchgeführt?
 
 Die Polizei hat am Einsatzort folgende Maßnahmen getroffen:
 
- Absperren des Einsatzortes,
+– Absperren des Einsatzortes,
 
- Aufsuchen der Ereigniswohnung,
+– Aufsuchen der Ereigniswohnung,
 
- Suchen nach Spuren zum Geschehensablauf,
+– Suchen nach Spuren zum Geschehensablauf,
 
- Feststellen von Zeugen und deren Vernehmungen,
+– Feststellen von Zeugen und deren Vernehmungen,
 
- Ermitteln von Angehörigen,
+– Ermitteln von Angehörigen,
 
- Anforderung eines Kriseninterventionsteams.
+– Anforderung eines Kriseninterventionsteams.
 
 Es wurden medizinische Maßnahmen durch das Rettungsdienstpersonal vollzogen. Einzelheiten unterliegen der ärztlichen Schweigepflicht.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9488"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59597"
@@ -53,7 +54,7 @@ Möchte der Senat beziehungsweise die zuständige Fachbehörde dem Vorschlag des
 
 Wie bewertet der Senat beziehungsweise die zuständige Fachbehörde das einstimmige Votum des Runden Tisches für eine neue Mehrzweckhalle in Hummelsbüttel, an dem Vertreter aller in der BV Wandsbek vertretenen Fraktionen, Bürgerverein, Sportverein, Schulen und weitere Institutionen teilnahmen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat hat sich mit dieser Frage nicht befasst.
 
@@ -65,7 +66,7 @@ Gibt es seitens des Senats beziehungsweise der zuständigen Fachbehörde bereits
 
 Wie steht der Senat beziehungsweise die zuständige Fachbehörde zur politischen Selbstverpflichtung, im Besonderen zu Punkt 26, der besagt, dass zu einer Flüchtlingsunterkunft in der Feldmark den Hummelsbüttlern für eine gelingende Integration auch eine neue Mehrzweckhalle in Aussicht gestellt wird?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung sowie Antwort zu 1. und 2.
 

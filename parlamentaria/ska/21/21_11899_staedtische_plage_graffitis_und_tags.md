@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61147"
@@ -43,7 +44,7 @@ Welche durch illegal angebrachte Graffiti beziehungsweise Tags verursachten Sach
 
 An welchen Objekten wurden Graffiti beziehungsweise Tags angebracht und wer war betroffen, zum Beispiel Private, Stadt, Bund, Kirchen, Stiftungen des öffentlichen Rechts et cetera? Bitte von 2015 bis 2017 jahresweise und nach Bezirk und Stadtteil untergliedert darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die erfragten Informationen werden nicht in einer vergleichbaren und statistisch auswertbaren Form erfasst, sodass die Fragen zum Teil nur eingeschränkt beantwortet werden können. Dies bezieht sich auch auf die durch Graffiti und Tags entstandenen Schäden. Hierzu werden vielfach keine gesonderten Statistiken geführt. Die benannten Schäden beinhalten Kostenschätzungen, Einzelkosten oder Gesamtkosten. In verschiedenen Fällen war eine Kostenschätzung überhaupt nicht möglich, zum Beispiel aufgrund fehlender Erkenntnisse oder des Umstandes, dass die Beseitigung der Schäden durch den Vermieter erfolgte und die Schadenshöhe daher nicht bekannt war. Zudem wurden die Schäden in einigen Fällen durch eigenes Personal behoben. Eine Schätzung der Schadenshöhe war in diesen Fällen aufgrund mangelnder Dokumentierung der Arbeitsvorgänge ebenfalls nicht möglich. Eine Vergleichbarkeit der Schäden ist aus den vorstehend genannten Gründen nicht gegeben. Ermittelt werden konnten die in Anlage 1 aufgeführten Sachverhalte.
 

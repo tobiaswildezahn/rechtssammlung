@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/208"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48675"
@@ -47,25 +48,25 @@ b) Welche Fachbehörde ist mit welcher Detailfrage befasst?
 
 Es handelt sich um folgende Fragen:
 
- Verlängerung des laufenden Erbbaurechtsvertrages (Finanzbehörde/Landesbetrieb
+– Verlängerung des laufenden Erbbaurechtsvertrages (Finanzbehörde/Landesbetrieb
 
 Immobilienmanagement und Grundvermögen),
 
- Konkretisierung der Planungen bezüglich der beabsichtigten Grünanlage (Bezirks-
+– Konkretisierung der Planungen bezüglich der beabsichtigten Grünanlage (Bezirks-
 
 amt Hamburg-Mitte),
 
- Konkretisierung der zukünftigen Nutzung der Erweiterungsflächen (Kulturbehörde
+– Konkretisierung der zukünftigen Nutzung der Erweiterungsflächen (Kulturbehörde
 
 und Bezirksamt),
 
- denkmalschutzrechtliche Belange (Kulturbehörde),
+– denkmalschutzrechtliche Belange (Kulturbehörde),
 
- baurechtliche Fragen, unter anderem Brandschutz/Entfluchtung, Dimension der
+– baurechtliche Fragen, unter anderem Brandschutz/Entfluchtung, Dimension der
 
 Erweiterung, Stellplätze, Verkehrskonzept et cetera (Bezirksamt und Behörde für Stadtentwicklung und Umwelt) sowie
 
- Fragen der Bürgerbeteiligung (Bezirksamt).
+– Fragen der Bürgerbeteiligung (Bezirksamt).
 
 ### Frage 2
 
@@ -115,11 +116,11 @@ In der Antwort auf Frage 5. heißt es in der Senatsantwort: „Das Projekt ist d
 
 Nach Auskunft des Vorhabenträgers sind Informationsveranstaltungen des Planungsbüros geplant
 
- am 11. Juni 2015, 18.30 Uhr im Bunker Feldstraße 66 zu den Themen öffentliche
+– am 11. Juni 2015, 18.30 Uhr im Bunker Feldstraße 66 zu den Themen öffentliche
 
 Nutzung (Stadtgarten/Stadtteilflächen), Innennutzung (Kulturgästehäuser/Kultursaal), Stand der Gesamtplanung und Zeitplan sowie
 
- am 25. Juni 2015, 18.30 Uhr im Bunker Feldstraße 66 zu den Themen Verkehr/Mo-
+– am 25. Juni 2015, 18.30 Uhr im Bunker Feldstraße 66 zu den Themen Verkehr/Mo-
 
 bilitätskonzept, Begrünungskonzept, Nachhaltigkeit/ökologisches Konzept, Brandschutz, Entfluchtung und Lärmgutachten.
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69601"
@@ -59,7 +60,7 @@ Wie verteilen sich die seit dem Programmstart von „#moinzukunft- Lastenräder�
 
 Wie verteilen sich die seit dem Programmstart von „#moinzukunft- Lastenräder“ gestellten Förderanträge zahlenmäßig auf die Stadtteile?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Förderprogrammvertrag zwischen der zuständigen Behörde und der IFB sieht für das Reporting eine Auflistung der gestellten Förderanträge nach Bezirken und Stadtteilen nicht vor, da diese Information als nicht steuerungsrelevant für den Erfolg des Förderprogramms angesehen wird. Insofern liegen der zuständigen Behörde keine Daten im Sinne der Fragestellung vor. Eine Auswertung von über 1 000 Anträgen ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -123,7 +124,7 @@ Welche Merkmale beziehungsweise Kategorien wurden/werden bei der Bearbeitung der
 
 Welche Merkmale beziehungsweise Kategorien sind aus Sicht des Senats beziehungsweise der zuständigen Behörden steuerungsrelevant bei der Bearbeitung der Anträge auf Förderung aus dem Programm „#moinzukunft-Lastenräder“?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Neben den Daten der Antragsstellerinnen und Antragsteller werden die Daten den Förderkonditionen entsprechend erfasst. Für die Bearbeitung eines Antrags musste der Antragsgegenstand, also Lastenrad, e-Lastenrad, Fahrradanhänger oder e-Lastenrad in Kombination mit Abwrackbonus angegeben werden. Für Privatpersonen war maximal ein Antrag/Jahr je Haushalt erlaubt. Vereine und Wohnungseigentümergemeinschaften konnten maximal drei Anträge und Unternehmen, Selbstständige und sonstige gewerblich handelnde Personen konnten bis zu zehn Anträge/Jahr stellen. Mit allen zuvor genannten Anträgen konnte jeweils ein Rad beantragt werden. Es waren Kostenvoranschläge von mindestens drei geeigneten Unternehmen einzuholen. Dem Antrag war das Angebot beizufügen, dass unter Berücksichtigung der jeweiligen individuellen Anforderungen die Kriterien von Wirtschaftlichkeit und Sparsamkeit erfüllt. Auf dieser Basis wird die Förderwürdigkeit und die Förderhöhe (33 Prozent der förderfähigen Kosten gemäß Kostenvoranschlag bis zu den folgenden Höchstbeträgen: 500,- Euro bei Lastenrädern, 2 000,- Euro bei e-Lastenrädern, 500,- Euro bei Fahrradanhängern und 500,- Euro Abwrackbonus) festgestellt.
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 21
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13002", "21/19200"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69981"
@@ -45,117 +46,117 @@ Wo wurden seit 2018 switchh-Punkte eingerichtet?
 
 #### Antwort zu Frage 1
 
-• U Christuskirche
+– U Christuskirche
 
-• U Elbbrücken
+– U Elbbrücken
 
-• Amundsenstraße
+– Amundsenstraße
 
-• Bartelsstraße
+– Bartelsstraße
 
-• Bernhard-Nocht-Straße
+– Bernhard-Nocht-Straße
 
-• Breitenfelder Straße
+– Breitenfelder Straße
 
-• Bundesstraße
+– Bundesstraße
 
-• Caspar-Voght-Straße
+– Caspar-Voght-Straße
 
-• Dorotheenstraße
+– Dorotheenstraße
 
-• Eichenstraße/Bismarckstraße
+– Eichenstraße/Bismarckstraße
 
-• Eichenstraße/Heußweg
+– Eichenstraße/Heußweg
 
-• Eimsbütteler Chaussee
+– Eimsbütteler Chaussee
 
-• Eimsbütteler Marktplatz
+– Eimsbütteler Marktplatz
 
-• Eimsbütteler Straße
+– Eimsbütteler Straße
 
-• Englische Planke
+– Englische Planke
 
-• Erika-Mann-Bogen
+– Erika-Mann-Bogen
 
-• Esmarchstraße
+– Esmarchstraße
 
-• Feldstraße
+– Feldstraße
 
-• Frickestraße
+– Frickestraße
 
-• Fuhlsbüttler Straße
+– Fuhlsbüttler Straße
 
-• Gerichtstraße
+– Gerichtstraße
 
-• Griesstraße
+– Griesstraße
 
-• Grindelberg
+– Grindelberg
 
-• Großheidestraße
+– Großheidestraße
 
-• Grindelhof
+– Grindelhof
 
-• Hartzloh
+– Hartzloh
 
-• Hegestieg
+– Hegestieg
 
-• Himmelstraße
+– Himmelstraße
 
-• Holländische Reihe
+– Holländische Reihe
 
-• Kurze Straße
+– Kurze Straße
 
-• Lange Reihe
+– Lange Reihe
 
-• Lange Straße
+– Lange Straße
 
-• Löwenstraße
+– Löwenstraße
 
-• Mansteinstraße
+– Mansteinstraße
 
-• Mozartstraße
+– Mozartstraße
 
-• Nernstweg
+– Nernstweg
 
-• Neuer Pferdemarkt
+– Neuer Pferdemarkt
 
-• Neuer Steinweg
+– Neuer Steinweg
 
-• Oelkersallee
+– Oelkersallee
 
-• Paulinenplatz
+– Paulinenplatz
 
-• Paul-Roosen-Straße
+– Paul-Roosen-Straße
 
-• Planckstraße
+– Planckstraße
 
-• Poßmoorweg
+– Poßmoorweg
 
-• Probsteier Straße
+– Probsteier Straße
 
-• Rostocker Straße
+– Rostocker Straße
 
-• Seumestraße
+– Seumestraße
 
-• Schinkelstraße
+– Schinkelstraße
 
-• Schubackstraße
+– Schubackstraße
 
-• Seilerstraße
+– Seilerstraße
 
-• Semperstraße
+– Semperstraße
 
-• Semperstraße/Goldbekplatz
+– Semperstraße/Goldbekplatz
 
-• Sillemstraße
+– Sillemstraße
 
-• Stolbergstraße
+– Stolbergstraße
 
-• Vorsetzen
+– Vorsetzen
 
-• Wendloher Weg
+– Wendloher Weg
 
-• Wrangelstraße
+– Wrangelstraße
 
 ### Frage 2
 
@@ -195,7 +196,7 @@ Welche Maßnahmen hat der Senat seit 2013 unternommen, um die Nutzerzahlen von s
 
 Welches künftige Optimierungspotenzial sehen der Senat und seine Unternehmen bei switchh, um die Nutzerzahlen zu steigern?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Um die Nutzerzahlen zu steigern erfolgt die Regelkommunikation vorwiegend über die einschlägigen Kanäle. Hierzu zählen unter anderem die Webseiten www.hvv.de und www.switchh.de, Printmedien, Fahrgastfernsehen und Postwurfsendungen. Auch Marketingkampagnen sowie Werbeveranstaltungen wurden initiiert und dienen der Steigerung der Bekanntheit und Nutzung von switchh. Die Eröffnung neuer switchh- Punkte wird sowohl durch die HOCHBAHN in Form von Presseinformationen als auch durch die Carsharing-Anbieter kommuniziert.
 

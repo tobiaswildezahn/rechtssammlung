@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 23
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11550", "21/11716", "21/12025", "21/6236", "21/7553"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62603"
@@ -52,7 +53,7 @@ Wie hoch waren die durchschnittliche und maximale Bearbeitungsdauer von Beihilfe
 
 Wie hoch waren die durchschnittliche und maximale Bearbeitungsdauer von Anträgen mit einer Aufwendungssumme ab 2.500 Euro? Bitte pro Monat angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage. Die Werte werden einer anonymen Fallstatistik entnommen, die die Zeit vom Antragseingang bis zum Tag der Festsetzung erfasst. Einzelne längere Bearbeitungszeiten entstehen vor allem durch unvollständige Antragsunterlagen und durch Widersprüche.
 

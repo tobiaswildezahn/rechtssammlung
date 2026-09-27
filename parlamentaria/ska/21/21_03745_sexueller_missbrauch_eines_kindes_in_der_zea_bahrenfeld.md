@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3549", "21/2379", "21/3461"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52114"
@@ -58,7 +59,7 @@ Wenn dieser Fall, wie der Presse zu entnehmen ist, bereits am
 
 Wann wurde der Fall in einer Bekanntmachung der Polizei erstmalig erwähnt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Staatsanwaltschaft wurde von der Polizei, LKA 42, am 17. März 2016 über den Fall informiert. Seitens der Polizei ist in Absprache mit der Pressestelle der Staatsanwaltschaft keine Information der Öffentlichkeit über die Medien erfolgt, um die Persönlichkeitsrechte des sechsjährigen Jungen zu schützen.
 

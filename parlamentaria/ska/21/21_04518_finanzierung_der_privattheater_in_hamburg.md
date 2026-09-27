@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 12
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13000", "21/4466"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52923"
@@ -69,7 +70,7 @@ Wie bewertet der Senat die finanzielle Situation der Privattheater?
 
 Plant der Senat die Erhöhung der Zuschüsse? Wenn ja: in welcher Höhe? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Senat hat sich hiermit nicht befasst. Im Übrigen sind die Planungen noch nicht abgeschlossen.
 

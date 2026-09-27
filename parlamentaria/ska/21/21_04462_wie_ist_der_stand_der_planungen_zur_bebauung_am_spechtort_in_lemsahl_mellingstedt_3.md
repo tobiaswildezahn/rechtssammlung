@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12422", "21/2815"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52870"
@@ -55,7 +56,7 @@ Wann soll mit den Bautätigkeiten der Immobilien begonnen werden und wann sollen
 
 Ist es vonseiten des Bauträgers zu einem Baustopp gekommen? Wenn ja, warum und wann ist mit einem Weiterbau zu rechnen und verzögert sich die Fertigstellung der Bauten dadurch?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/2815.
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 27
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56755"
@@ -95,7 +96,7 @@ Wie hoch ist der Krankenstand bezogen auf die Vollzeitäquivalente und die Teilz
 
 Wie hoch ist der Krankenstand bezogen auf die Vollzeitäquivalente und die Teilzeitstellen bei den weiteren JVAs (bitte die tatsächlichen Zahlen und in Prozenten in den Jahren 2012 bis Januar 2017 darstellen)? Was sind Hauptursachen für gegebenenfalls den Anstieg des Krankenstands/der Krankenquote?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Zur Fehlzeitenquote siehe Anlage 1.
 
@@ -135,7 +136,7 @@ Wie viele Mittel in welcher Höhe sind im Haushaltsplan 2017/2018 für den Hambu
 
 Wie viele zusätzliche Mittel sind im Haushaltsplan 2017/2018 für den Justizvollzug eingestellt?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die im Haushalt eingestellten Mittel sind für die Erledigung der gesamten Aufgaben im Justizvollzug vorgesehen. Einzelermächtigungen für Justizvollzugsanstalten gibt es nicht. Die zur Verfügung gestellten Mittel sind dem Haushaltsplan zu entnehmen.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52450"
@@ -41,23 +42,23 @@ Von wann bis wann wird die Autobahn 253 auf welchen Abschnitten in welchem Umfan
 
 Eine Vollsperrung ist nicht geplant. Sämtliche nachfolgend beschriebenen Sperrungen finden im Abschnitt zwischen den Anschlussstellen HH-Neuland und HH-Wilhelmsburg Süd statt:
 
- 19. bis 24. April 2016 – wechselweise Sperrung der Haupt- und der Überholfahr-
+– 19. bis 24. April 2016 – wechselweise Sperrung der Haupt- und der Überholfahr-
 
 streifen in beiden Fahrtrichtungen mit jeweils einstreifiger Verkehrsführung,
 
- 25. April bis 13. Mai 2016 – Sperrung des Überholfahrstreifens in Fahrtrichtung
+– 25. April bis 13. Mai 2016 – Sperrung des Überholfahrstreifens in Fahrtrichtung
 
 Wilhelmsburg mit zwei eingeengten Fahrstreifen auf dem Hauptfahr- und dem Standstreifen sowie Sperrung des Haupt- und des Überholfahrstreifens in Fahrtrichtung Harburg mit einem eingeengten Fahrstreifen auf dem Standstreifen,
 
- 14. Mai bis 4. August 2016 – Verschwenkung des Verkehrs auf die Richtungsfahr-
+– 14. Mai bis 4. August 2016 – Verschwenkung des Verkehrs auf die Richtungsfahr-
 
 bahn Süden und Sperrung der Richtungsfahrbahn Norden. Dabei bleibt die vorherige Verkehrsführung erhalten, indem in Fahrtrichtung Wilhelmsburg zwei eingeengte Fahrstreifen und in Fahrtrichtung Harburg ein eingeengter Fahrstreifen zur Verfügung stehen,
 
- 5. August bis 8. Oktober 2016 – Sperrung des Haupt- und des Überholfahrstreifens
+– 5. August bis 8. Oktober 2016 – Sperrung des Haupt- und des Überholfahrstreifens
 
 in Fahrtrichtung Wilhelmsburg mit einem eingeengten Fahrstreifen auf dem Standstreifen und Sperrung des Überholfahrstreifens in Fahrtrichtung Harburg mit zwei eingeengten Fahrstreifen,
 
- 16. Oktober bis 15. November 2016 – Sperrung des Überholfahrstreifens in Fahrt-
+– 16. Oktober bis 15. November 2016 – Sperrung des Überholfahrstreifens in Fahrt-
 
 richtung Wilhelmsburg mit zwei eingeengten Fahrstreifen auf dem Hauptfahr- und dem Standstreifen und Sperrung des Überholfahrstreifens in Fahrtrichtung Harburg mit zwei eingeengten Fahrstreifen auf dem Hauptfahr- und dem Standstreifen.
 
@@ -69,19 +70,19 @@ Welche Arbeiten werden durchgeführt?
 
 Die Baumaßnahme gliedert sich in den Straßen- und Brückenbau mit folgenden Arbeiten:
 
- Straßenbau: Grundinstandsetzung und Kampfmittelsondierung
+– Straßenbau: Grundinstandsetzung und Kampfmittelsondierung
 
- Brücke Neuländer Straße: Instandsetzungsarbeiten der Unterseite
+– Brücke Neuländer Straße: Instandsetzungsarbeiten der Unterseite
 
- Trogbauwerk A 253: Grundinstandsetzung des Fahrbahnaufbaus und Instandset-
+– Trogbauwerk A 253: Grundinstandsetzung des Fahrbahnaufbaus und Instandset-
 
 zungsarbeiten
 
- Brücke Neuländer Hauptdeich: Instandsetzungsarbeiten
+– Brücke Neuländer Hauptdeich: Instandsetzungsarbeiten
 
- Europabrücke: Instandsetzungsarbeiten
+– Europabrücke: Instandsetzungsarbeiten
 
- Brücke König-Georg-Deich: Instandsetzungsarbeiten
+– Brücke König-Georg-Deich: Instandsetzungsarbeiten
 
 ### Frage 3
 
@@ -133,6 +134,6 @@ Welche Ausweichstrecken stehen zur Verfügung?
 
 Welche Bauarbeiten oder Verkehrseinschränkungen finden während der teilweisen Sperrung der BAB 253 auf den Ausweichstrecken statt?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Es werden keine Umleitungsstrecken ausgeschildert, da der Verkehr weiterhin auf der Autobahn geführt werden soll.

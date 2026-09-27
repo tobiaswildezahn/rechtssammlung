@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 23
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3804"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52852"
@@ -126,7 +127,7 @@ Ist der Senat der Auffassung, dass die maximal angedachte Teilnehmerzahl von 1.2
 
 Unter welchen Voraussetzungen plant der Senat die Ausweitung der Anzahl an Veranstaltungen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die CityScopes stehen als Simulationslabore zur Verfügung. Die Workshops der FindingPlaces haben damit Pilotprojektcharakter, für den momentan noch nicht absehbar ist, ob über die bislang veröffentlichten Termine hinaus weiterer Durchführungsbedarf besteht. Sinn ist es, dass die Hamburger Bürgerinnen und Bürger exemplarisch ihre Expertise als Nutzer der Stadt einbringen, um über potenzielle Flächen mit allen Vorund Nachteilen für weitere Unterkünfte zu diskutieren.
 

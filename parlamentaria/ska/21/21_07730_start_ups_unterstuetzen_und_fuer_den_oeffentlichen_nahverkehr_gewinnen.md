@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1451"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56360"
@@ -65,6 +66,6 @@ Haben der Senat oder die zuständige Behörde seit September 2015 eigene Initiat
 
 Beabsichtigen der Senat, die zuständige Behörde oder der HVV in Zukunft entsprechende Angebote zu entwickeln?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nein. Im Übrigen siehe Antwort zu 1. und Vorbemerkung.

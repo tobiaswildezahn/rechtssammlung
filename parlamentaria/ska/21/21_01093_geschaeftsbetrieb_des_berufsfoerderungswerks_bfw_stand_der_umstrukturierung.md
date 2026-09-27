@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 32
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5765"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49270"
@@ -131,7 +132,7 @@ Wird es Maßnahmen zur Umstrukturierung beziehungsweise Ausgliederung des Gesch�
 
 Wie wird die Zukunftsfähigkeit der BFW-Unternehmensgruppe in 2015 und in den folgenden Jahren gesichert werden? Welche Maßnahmen sind aus Sicht des Senats dazu notwendig und bereits in Planung? Wann wird die Bürgerschaft darüber informiert?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung. Im Übrigen wird die Bürgerschaft turnusmäßig im Rahmen des Beteiligungsberichtes der hamburgischen öffentlichen Unternehmen über Umstrukturierungen informiert.
 

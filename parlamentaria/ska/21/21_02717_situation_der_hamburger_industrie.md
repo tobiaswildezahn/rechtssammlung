@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 33
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11859"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51053"
@@ -131,7 +132,7 @@ Wie viele Industrieunternehmen sind von 2010 bis 2015 von Hamburg in welche Bund
 
 Wie viele Industrieunternehmen sind von 2010 bis 2015 von Hamburg in welche Länder in Europa oder in andere Kontinente abgewandert? Wie viele Arbeitsplätze sind Hamburg von 2010 bis 2015 dadurch verloren gegangen? Wodurch wird der Senat dieser Abwanderung von Industrieunternehmen entgegenwirken?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Nach Auskunft der HWF war im abgefragten Zeitraum keine komplette Unternehmensabwanderung zu verzeichnen. Im Übrigen werden die zur Beantwortung benötigten Daten statistisch nicht erfasst. Sie können daher nicht nachträglich in der für die
 

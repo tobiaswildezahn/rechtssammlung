@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68234"
@@ -75,7 +76,7 @@ Finanzielle Mittel in jeweils welcher Höhe für jeweils welchen Zeitraum sind m
 
 Welche IT-Großprojekte in zweistelliger Millionenhöhe sehen die Digitalstrategien jeweils vor?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die inhaltlich-strategische Ausrichtung und Orientierung der behördlichen Digitalstrategien gemäß Rahmenwerk erfolgt ohne konkrete Zuordnung finanzieller Mittel. Eine derartige Zuordnung kann erst erfolgen, wenn die strategische Vorhabenplanung behördenintern sowie gegebenenfalls gesamtstädtisch priorisiert und mit konkreter Umsetzungsperspektive ausgeplant wurde.
 
@@ -97,15 +98,15 @@ Bei der genannten multimandantenfähigen Plattform handelt es sich um die Online
 
 Die OSI-Plattform bietet Funktionen, die von vielen Onlinediensten genutzt werden, zentral für alle Onlinedienste an. Zu diesen Funktionen gehören unter anderem:
 
- Das Servicekonto gemäß Onlinezugangsgesetz zur Anmeldung der Nutzer.
+– Das Servicekonto gemäß Onlinezugangsgesetz zur Anmeldung der Nutzer.
 
- Ein Postfach zum Versand von Mitteilungen an die Nutzer.
+– Ein Postfach zum Versand von Mitteilungen an die Nutzer.
 
- Die Mechanismen für einen verlässlichen und sicheren Datenaustausch zwischen
+– Die Mechanismen für einen verlässlichen und sicheren Datenaustausch zwischen
 
 verschiedenen Systemen.
 
- Eine Payment-Funktion über die Nutzer Gebühren entrichten können.
+– Eine Payment-Funktion über die Nutzer Gebühren entrichten können.
 
 ### Frage 8
 

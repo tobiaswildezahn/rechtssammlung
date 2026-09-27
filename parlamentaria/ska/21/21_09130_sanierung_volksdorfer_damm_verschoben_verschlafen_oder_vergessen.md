@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 52956
 seiten: 3
 fragen: 11
-einzelfragen: 12
-antwortbloecke: 9
+einzelfragen: 14
+antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1519", "21/7835", "21/5922", "20/14041"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57897"
@@ -67,7 +68,7 @@ Wodurch ergeben sich im Einzelnen zeitliche Verzögerungen bei der Sanierung des
 
 Welche Veränderungen in der Prioritätensetzung des EMS-Programms wurden im Einzelnen seit Anfang 2016 aus welchen Gründen vorgenommen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Mit der Einrichtung des Erhaltungsmanagements Straßen (EMS-HH) im Jahr 2013 werden jährliche Bauprogramme mit einem Zeithorizont von fünf Jahren aufgestellt. Abhängig von neuen Erkenntnissen zum Straßenzustand (zweijährliche ZEB-Befah-
 
@@ -157,24 +158,35 @@ Wird die Einrichtung der Bushaltestelle von der zuständigen Fachbehörde für s
 
 Die Planung einer Bushaltestelle an dieser Stelle wird seit über vier Jahren geprüft und geplant. Welche genaue Priorität hat diese Bushaltestelle für die zuständigen Stellen der Stadt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Errichtung der Bushaltestelle wird als grundsätzlich sinnvoll erachtet. Um einen doppelten Eingriff in den Verkehr zu vermeiden, wurde entschieden, diese im Zuge der Baumaßnahme Volksdorfer Damm mit herzustellen.
 
 ### Frage 10
 
 Bereits vor Jahren haben Asphaltuntersuchungen ergeben, dass die Fahrbahn des Volksdorfer Damms in diesem Abschnitt sanierungsbedürftig ist (siehe Drs. 20/14041).
-10.1. Wie beurteilen die zuständigen Stellen derzeit den Zustand der Fahrbahn des Volksdorfer Damms?
 
-#### Antwort zu Frage 10
+### Frage 10.1
+
+Wie beurteilen die zuständigen Stellen derzeit den Zustand der Fahrbahn des Volksdorfer Damms?
+
+#### Antwort zu Fragen 10 und 10.1
 
 Die Fahrbahn ist weiterhin sanierungsbedürftig (siehe auch Drs. 21/5922).
 
-10.2. Welche Maßnahmen sind bis zur geplanten Grundinstandsetzung notwendig oder vorgesehen, um einen verkehrssicheren Zustand aufrechtzuhalten?
+### Frage 10.2
+
+Welche Maßnahmen sind bis zur geplanten Grundinstandsetzung notwendig oder vorgesehen, um einen verkehrssicheren Zustand aufrechtzuhalten?
+
+#### Antwort zu Frage 10.2
 
 Es ist geplant, im Jahr 2017 eine Deckschichterneuerung durchzuführen, um einen verkehrssicheren Zustand bis zur Sanierung gewährleisten zu können. Im Übrigen siehe Antwort zu 6.
 
-10.3. Ist es sinnvoll, die Grundinstandsetzung um mehrere Jahre zu verschieben?
+### Frage 10.3
+
+Ist es sinnvoll, die Grundinstandsetzung um mehrere Jahre zu verschieben?
+
+#### Antwort zu Frage 10.3
 
 Ja. Im Übrigen siehe Antwort zu 5.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 14
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1006", "21/962", "21/1395"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50064"
@@ -43,7 +44,7 @@ Sind in den Hamburger Kitas ausreichend Plätze für die Betreuung der Flüchtli
 
 Sind zusätzliche Kitas zur Betreuung der Flüchtlingskinder geplant? Wenn ja, werden in diesen Kitas ausschließlich Flüchtlingskinder betreut? Wenn ja, wie gewährleistet der Senat eine gute Integration der Kinder? Gibt es mittel- und langfristige Planungen? Welche?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die zuständige Behörde arbeitet derzeit an einem Gesamtkonzept, um allen Kindern aus Flüchtlingsfamilien, unabhängig von ihrem Aufenthaltsstatus und der Verweildauer in Deutschland, einen frühen Zugang zu Angeboten der frühkindlichen Bildung zu ermöglichen. In Folge- beziehungsweise Wohnunterkünften lebende Kinder haben dieselben Rechtsansprüche auf Kindertagesbetreuung wie alle anderen in Hamburg lebenden Kinder. Vorrangiges Ziel ist es, diese Kinder in wohnortnahe Kindertageseinrichtungen zu integrieren. Im Rahmen des flexiblen, nachfrageorientieren Kita- Gutschein-Systems passen die Kita-Träger durch die Erweiterung bestehender oder den Bau neuer Kitas ihre Betreuungskapazitäten den veränderten Nachfragestrukturen an. Ein Vielzahl Hamburger Kitas (siehe auch Antwort zu 4.) betreut bereits Kinder aus Wohnunterkünften beziehungsweise Flüchtlingsfamilien. Statistiken über freie Plätze in den Kitas liegen der für Kindertagesbetreuung zuständigen Behörde nicht vor. Es erfolgt keine Belegung von Plätzen durch den öffentlichen Jugendhilfeträger. Vor dem Hintergrund der besonderen Situation der Flüchtlingsfamilien kommt der Beratung und Unterstützung der Familien bei der Platzsuche durch das bezirkliche Jugendamt, das Sozialmanagement von f & w fördern und wohnen AöR, durch Kita- Träger und durch weitere im Sozialraum und Unterkünften aktive Institutionen und Personen eine besondere Bedeutung zu.
 

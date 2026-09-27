@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70050"
@@ -51,7 +52,7 @@ Welche rechtlichen Regelungen hat die zuständige Behörde beziehungsweise die S
 
 Wurden diese Regelungen allgemeinverbindlich oder nur mit gewissen Gruppen beziehungsweise Vereinen im Rahmen von Nutzungs- oder Gestattungsverträgen getroffen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Zwischen dem Bezirksamt Harburg und dem Mountainbikeverein MC Pirate e.V. wurde der bisher einzige privatrechtliche Gestattungsvertrag in Hamburg über die Nutzung von Mountainbiketrails im Waldgebiet Haake/Emme und Eißendorfer Forst geschlossen.
 

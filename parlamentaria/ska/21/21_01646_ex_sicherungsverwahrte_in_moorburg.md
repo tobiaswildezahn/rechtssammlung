@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49859"
@@ -43,7 +44,7 @@ Wie viele ehemalige Sicherungsverwahrte leben zurzeit jeweils wo und seit wann i
 
 Wie hat sich deren Anzahl seit Jahresbeginn verändert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Polizei sind aktuell zwei Personen im Sinne der Fragestellung bekannt; diese Zahl hat sich seit Jahresbeginn nicht verändert. Im Übrigen sieht der Senat aus Gründen des Persönlichkeitsschutzes von weiteren Angaben zu diesen Personen ab.
 

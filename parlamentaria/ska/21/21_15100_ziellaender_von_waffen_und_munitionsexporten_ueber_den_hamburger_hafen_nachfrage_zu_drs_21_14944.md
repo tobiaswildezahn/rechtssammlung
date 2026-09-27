@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14944", "21/268"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64548"
@@ -53,7 +54,7 @@ Ein Hafen, der in Drs. 21/14944 mehrmals genannt wird, ist Santos – der größ
 
 Ein weiterer Hafen, der in Drs. 21/14944 angegeben wurde, ist Cartagena in Kolumbien. Laut Angaben des UN-Hochkommissariats für Menschenrechte wurden in Kolumbien im Laufe des Jahres 2017 mindestens 105 Menschenrechtsverteidiger/-innen getötet. Anhaltende Besorgnis erregte der Anstieg von Angriffen auf Menschenrechts-verteidiger, insbesondere Sprecher/-innen von Gemeinschaften, Landrechtsaktivisten/- innen, Umweltschützer/-innen und Personen, die sich für die Unterzeichnung des Schlussabkommens mit der FARC einsetzten (vergleiche https://www.amnesty.de/jahresbericht/2018/kolumbien). Gedenkt der Senat, zukünftig etwas in Hamburg und auf Bundesebene zu unternehmen, um Lieferungen von Munition und Waffen nach Kolumbien zu verhindern?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/268.
 

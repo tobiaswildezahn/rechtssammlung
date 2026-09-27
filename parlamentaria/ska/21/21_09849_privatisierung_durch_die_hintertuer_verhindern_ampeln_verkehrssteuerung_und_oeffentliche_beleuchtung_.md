@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58663"
@@ -107,15 +108,15 @@ d. Welche neuen Schnittstellen werden nach der geplanten Umorganisation entstehe
 
 In einem sogenannten gemeinsamen Betrieb werden die Mitarbeiterinnen und Mitarbeiter der HHVA und des LSBG zunächst ihre jeweiligen operativen Aufgaben im Zusammenhang mit der Planung, dem Bau und dem Betrieb der Beleuchtungs-, Lichtsignal- und Verkehrstelematikanlagen wie bisher ausführen. Darüber hinaus sind unter anderem die folgenden Aufträge zu bearbeiten:
 
- Prozesstechnische Aufnahme und Optimierung der Aufgabenverteilung der öffent-
+– Prozesstechnische Aufnahme und Optimierung der Aufgabenverteilung der öffent-
 
 lichen Außenbeleuchtung und Verkehrstechnik sowie der zugehörigen Schnittstellen zwischen dem gemeinsamen Betrieb, den Organisationseinheiten vom LSBG sowie Dritten (Ämter, Bezirke, Bund, Polizei, DEGES, HafenCity, ReGe, BID, HOCHBAHN et cetera).
 
- Optimierung der internen Abläufe und Nutzung von Synergien, um bei steigender
+– Optimierung der internen Abläufe und Nutzung von Synergien, um bei steigender
 
 Flexibilität, Effektivität und Effizienz die Kosten zu senken.
 
- Herbeiführung einer Klärung, gegebenenfalls Herauslösung und Zuweisung etwai-
+– Herbeiführung einer Klärung, gegebenenfalls Herauslösung und Zuweisung etwai-
 
 ger weiterer Richtlinienkompetenzen der öffentlichen Außenbeleuchtung oder Verkehrstechnik oder Bestandteilen davon in künftige dafür zuständige Bereiche des LSBG, damit dieser seine nicht delegierbaren Bauherrenkernfunktionen wahrnehmen kann.
 

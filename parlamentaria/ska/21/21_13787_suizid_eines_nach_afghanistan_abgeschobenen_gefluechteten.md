@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 21
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63171"
@@ -90,7 +91,7 @@ Lagen dem Senat oder der zuständigen Behörde vor der Abschiebung von Jamal M. 
 
 Welche Erkenntnisse hat der Senat beziehungsweise die zuständige Behörde darüber, ob und in welchem Umfang sich Jamal M. in Deutschland in psychiatrischer (gegebenenfalls auch medikamentöser) oder psychotherapeutischer Behandlung befand?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Betreffende hat ein auf den 19. März 2018 datiertes Attest eingereicht, das eine psychische Erkrankung erwähnt, jedoch keine spezifische Diagnose enthält. Dem Attest nach befand er sich seit Juni 2017 in ambulanter krankenhausnaher psychiatrischer Behandlung und erhielt nicht näher genannte Medikamente. Dem Inhalt nach war der Betreffende nicht in der Lage, öffentliche Verkehrsmittel zu nutzen. Hinweise auf eine mögliche Suizidgefahr enthielt das Attest nicht.
 

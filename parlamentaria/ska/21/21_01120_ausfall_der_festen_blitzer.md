@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11375", "20/14606"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49300"
@@ -49,7 +50,7 @@ Wann waren diese Anlagen in den Jahren 2012 – 2015 nicht einsatzbereit? Bitte 
 
 Aus welchen Gründen waren sie jeweils nicht einsatzbereit? Bitte für jeden Ausfallzeitraum getrennt angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage 1 und Drs. 20/14606.
 

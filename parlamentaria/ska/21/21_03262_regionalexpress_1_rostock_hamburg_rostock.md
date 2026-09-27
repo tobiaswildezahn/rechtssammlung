@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51625"
@@ -71,7 +72,7 @@ Ist es vorgesehen, die Verschlechterung des Angebots auf der Strecke des RE 1 r�
 
 Welche Hindernisse stehen gegebenenfalls einer R체cknahme der l채ngeren Fahrtzeiten entgegen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Bereits zum 13. Dezember 2015 konnten Verbesserungen bei zwei stark betroffenen Z체gen (Abfahrten des RE 1 in Hamburg Hbf um 17.27 Uhr statt 17.13 Uhr sowie 6.46 Uhr ab Schwerin Hbf mit Ankunft Hamburg Hbf 8.38 Uhr statt 8.49 Uhr) umgesetzt werden. Ab 21. M채rz 2016 werden f체r Pendler drei Zusatzz체ge zwischen B체chen und Hagenow Land beziehungsweise Schwerin Hbf verkehren, die in B체chen Anschluss zum und vom Fernverkehr in beziehungsweise aus Richtung Hamburg haben.
 

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 20
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10344"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62797"
@@ -57,11 +58,11 @@ Welche Standtorte hat die Stadtteilschule am Hafen?
 
 Die Stadtteilschule am Hafen verfügt über folgende Standorte:
 
- Standort Neustadt, Neustädter Straße 60, 20355 Hamburg, Klassen 5 – 10,
+– Standort Neustadt, Neustädter Straße 60, 20355 Hamburg, Klassen 5 – 10,
 
- Standort St. Pauli, Friedrichstraße 55, 20359 Hamburg, Klassen 5 – 10,
+– Standort St. Pauli, Friedrichstraße 55, 20359 Hamburg, Klassen 5 – 10,
 
- Standort Budapester Straße, Budapester Straße 58, 20359 Hamburg, Klassen 11
+– Standort Budapester Straße, Budapester Straße 58, 20359 Hamburg, Klassen 11
 
 – 13, in den Räumen und in Kooperation mit der der Beruflichen Schule St. Pauli (BS 11).
 
@@ -73,7 +74,7 @@ Wie viele Schüler hat die Stadtteilschule am Hafen aktuell?
 
 Wie war die Entwicklung der Schülerzahl in den Jahren seit Bestehen der Schule? Bitte nach Schuljahren aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Schülerzahl der Stadtteilschule am Hafen hat sich seit ihrer Gründung wie folgt entwickelt:
 
@@ -114,7 +115,7 @@ Wie viele Lehrer hat die Stadtteilschule am Hafen aktuell?
 
 Wie war die Entwicklung der Lehrerzahl in den Jahren seit Bestehen der Schule? Bitte nach Schuljahren aufschlüsseln.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Derzeit sind 123 Lehrkräfte (Stand: Mai 2018) an der Stadtteilschule am Hafen beschäftigt. Für die Entwicklung siehe folgende Tabelle:
 

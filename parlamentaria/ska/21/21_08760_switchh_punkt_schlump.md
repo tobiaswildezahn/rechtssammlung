@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8567"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57494"
@@ -71,7 +72,7 @@ Ist geplant, für den switchh-Punkt Parkplätze zu beseitigen? Wenn ja: wo?
 
 Wer entscheidet über den switchh-Punkt – die Hamburger Hochbahn AG oder bezirkliche Gremien?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Einrichtung von Mobilitäts-Service-Punkten erfolgt in der Regel durch die Genehmigung einer Sondernutzung. Hierdurch werden öffentliche Flächen Nutzerinnen und Nutzern von Carsharing-Angeboten zur Verfügung gestellt. Die erforderliche Geneh-
 

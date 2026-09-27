@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 37
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4519", "20/10414"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53420"
@@ -107,7 +108,7 @@ Bei der Fertigstellung des Terminals sind bei der Ausschilderung für die ankomm
 
 Warum sind die erwähnten Hinweisschilder auch heute noch – ein Jahr nach Inbetriebnahme der Terminals – vorhanden und wurden nicht gleich, als den Beteiligten klar wurde, dass die Voraussetzungen für einen fahrplanmäßigen Fährverkehr gar nicht gegeben sind, wieder abgebaut?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Der Fähranleger wird in Einzelfällen zum Beispiel für Barkassen-Shuttles während des Hafengeburtstages oder bei Veranstaltungen am Cruise Center Steinwerder genutzt. Die Ausschilderung des Fähranlegers ist daher sinnvoll.
 
@@ -119,7 +120,7 @@ Der Zugang zum „ÖPNV-Anleger“ ist heute stattdessen durch einen 2 m hohen M
 
 Wie beurteilt man die Wirkung auf den in Hamburg ankommenden Touristen, der vor diesem Gitterzaun steht und dort keine Fähre erreichen kann?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Bei der Absperrung handelt es sich um die generelle Einzäunung des Betriebsgeländes des Cruise Center Steinwerder. Die Zuwegung zum Anleger erfolgt durch eine Tür in der Umzäunung. Aus Sicherheitsgründen ist diese Tür nur geöffnet, wenn der Anleger genutzt wird.
 
@@ -192,7 +193,7 @@ geprüft worden?
 Wenn ja: mit welchem Ergebnis?  
 Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 23 bis 24
+#### Antwort zu Fragen 23 und 24
 
 Voraussetzung für die Einrichtung einer ÖPNV-Verbindung, die durch Fahrplanbindung und Betriebspflicht gekennzeichnet ist, ist eine regelmäßige und ausreichende Verkehrsnachfrage über den gesamten Bedienungszeitraum. Nahverkehrslinien wer-
 

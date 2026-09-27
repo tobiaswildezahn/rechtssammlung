@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5632", "21/7912", "21/10109"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59150"
@@ -863,7 +864,7 @@ Hat der Senat beziehungsweise die zuständige Behörde die Daten zu den unter 1.
 
 Inwieweit wird in Hamburg eine Statistik geführt, in der die Inhaftierten der JVAs nach registrierten Straftaten aufgeführt sind? Wenn nein, warum nicht und plant der Senat, eine solche Statistik einzurichten?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/5632.
 

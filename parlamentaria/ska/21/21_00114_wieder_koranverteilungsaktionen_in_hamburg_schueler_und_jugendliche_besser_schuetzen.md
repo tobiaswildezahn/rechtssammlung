@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 25
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13460", "20/10743", "20/13214", "20/13241", "20/13716"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48247"
@@ -88,7 +89,7 @@ Welche rechtlichen Regelungen haben die Veranstalter der Koranverteilungsaktione
 
 Welche wegerechtlichen Vorgaben für die Größe und Ausgestaltung von Infotischen, Werbematerial sowie Abstandsflächen haben die Veranstalter einzuhalten? In welchen der zu 1. – 3. genannten Fälle wurde die Einhaltung dieser Vorgaben kontrolliert und nicht eingehalten? Welche Konsequenzen hat welche Behörde im Einzelfall jeweils daraus gezogen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Veranstalter benötigen eine Sondernutzungserlaubnis nach § 19 Absatz 1 Hamburgisches Wegegesetz. Es wurden punktuelle Kontrollen der Behörden durchgeführt, bei denen keine Verstöße nach dem Wegerecht festgestellt wurden.
 

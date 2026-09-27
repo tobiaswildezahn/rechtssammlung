@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55899"
@@ -67,6 +68,6 @@ Bei welchen der Sitzungen, bei denen sie anwesend war, hat Senatorin Fegebank si
 
 Bei welchen der Sitzungen, bei denen sie anwesend war, hat Senatorin Fegebank sich erkundigt, ob es Probleme betreffend Organtransplantationen gibt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Beratungen des Kuratoriums sind vertraulich.

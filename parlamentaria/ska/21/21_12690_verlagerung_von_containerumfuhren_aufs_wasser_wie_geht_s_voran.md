@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11327", "20/9954"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61994"
@@ -86,7 +87,7 @@ Ist dem Senat bekannt, dass ein privates Pilotvorhaben, welches die Verlagerung 
 
 Welche Kenntnisse hat der Senat darüber, dass externe Hafenlogistiker Umfuhren auf dem Wasser von/zu Anlagen der HHLA aufgrund hoher terminalseitiger Gebühren wieder einstellen mussten?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die HHLA hat keine wesentlichen Anpassungen oder Veränderungen ihrer Gebühren gegenüber den Jahren 2016 oder 2017 vorgenommen. Im Übrigen unterliegt die Anzahl der wasserseitig umgefahrenen Container Schwankungen, da Marktentwicklungen in den gesamten jeweiligen logistischen Transportketten einen großen Einfluss auf die Menge der Containerumfuhren haben. Zu nicht konkretisierten Einzelfällen kann der Senat keine Aussagen treffen.
 

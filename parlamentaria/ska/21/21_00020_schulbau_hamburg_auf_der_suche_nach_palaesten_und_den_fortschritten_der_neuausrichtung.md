@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14542", "20/5317", "20/3174", "20/8048", "20/14118", "20/10664", "20/14645", "20/13226", "20/14644"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48147"
@@ -100,7 +101,7 @@ In der Drs. 20/14118 werden unter „Schulbau Hamburg“ bei den Gesamtbaubrutto
 
 Laut Drs. 20/14542 werden die Jahresabschluss- beziehungsweise Quartalszahlen zum 31. Dezember von SBH | Schulbau Hamburg/GMH | Gebäudemanagement regelhaft bis Mitte Februar des Folgejahres erstellt. Sofern die Zahlen nach wie vor nicht vorliegen, wann ist mit ihnen zu rechnen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage. Im Übrigen: entfällt.
 

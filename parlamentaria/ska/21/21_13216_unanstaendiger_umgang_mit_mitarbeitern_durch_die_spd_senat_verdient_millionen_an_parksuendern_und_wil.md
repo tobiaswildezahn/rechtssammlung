@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 20
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12532"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62560"
@@ -119,7 +120,7 @@ Wie viele Mitarbeiter/-innen sind aktuell aus jeweils welchen Gründen noch befr
 
 Sollen diese Befristungen aufgehoben werden und in unbefristete Arbeitsverhältnisse überführt werden? Wenn nein, warum nicht (Angabe der Gründe)?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Derzeit befinden sich noch 31 Mitarbeiterinnen und Mitarbeiter in einem noch sachgrundlos, vor April 2017 geschlossenen, befristeten Beschäftigungsverhältnis. Die Befristungen sollen zum 1. Juni 2018 vorzeitig aufgehoben werden, soweit keine verhaltens- oder personenbedingten Gründe entgegenstehen.
 

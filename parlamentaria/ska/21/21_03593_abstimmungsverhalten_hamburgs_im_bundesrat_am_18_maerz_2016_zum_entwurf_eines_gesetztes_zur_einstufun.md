@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3371"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51949"
@@ -72,7 +73,7 @@ Wenn ja, wann hat der Senat diesen Entschluss gefasst und auf welcher Grundlage 
 
 Wie sieht dieser Entschluss aus?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Entfällt.
 
@@ -108,6 +109,6 @@ Wird der Einfluss des Ersten Bürgermeister Olaf Scholz und Hamburgs auf Bundese
 
 Welche konkreten Auswirkungen in organisatorischer und finanzieller gibt es für den Stadtstaat Hamburg, wenn dieser Teil des Asylpakets II keine Mehrheit im Bundesrat finden würde?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Damit hat sich der Senat nicht befasst. Im Übrigen siehe Vorbemerkung.

@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 25
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58841"
@@ -97,7 +98,7 @@ Wann wird eine Ausbildungsverordnung für den Beruf Kaufmann/ Kauffrau im E-Comm
 
 Liegt bereits ein gültiger Rahmenlehrplan für den Beruf Kaufmann/ Kauffrau im E-Commerce vor? Wenn nein, bis wann ist damit zu rechnen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Verordnung über die Berufsausbildung für den Beruf „Kaufmann/-frau im E-Commerce“ und damit der Ausbildungsrahmenplan sowie der Rahmenlehrplan werden derzeit auf Bundesebene erarbeitet. Die Beauftragten der Kultusminister der Länder im Bund-Länder-Koordinierungsausschuss „Ausbildungsordnungen/Rahmenlehrpläne“ sind für den 25. August 2017 zur ersten gemeinsamen Sitzung eingeladen, um unter anderem die Entwürfe der Ausbildungsordnung (Stand 1. Juni 2017) und des Rahmenlehrplans (Stand 25. Juli 2017) zu beraten. Aufgrund der zeitlichen Begrenzung des Verfahrens auf maximal ein Jahr ist damit zu rechnen, dass im 4. Quartal 2017 ein abgestimmter Rahmenlehrplan vorliegt. Gültigkeit erhält dieser durch das Inkrafttreten der Verordnung über die Berufsausbildung, voraussichtlich zum 1. August 2018.
 

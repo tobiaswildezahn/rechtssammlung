@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4081", "21/6224", "21/7388", "21/8610", "21/9682", "21/10563", "21/11527", "21/12584", "20/13852", "21/218", "21/13505", "21/12516"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63029"
@@ -44,22 +45,40 @@ Der Senat beantwortet die Fragen teilweise auf Grundlage von Auskünften der HGV
 ### Frage 1
 
 Nutzung der Liquiditätshilfen:
-1.1. Welchen der im jeweiligen Haushaltsbeschluss genannten Unternehmen und Einrichtungen hat der Senat beziehungsweise die zuständige Behörde wann und warum im Zeitraum April bis Juni 2018 Liquiditätshilfen zur Verfügung gestellt?
-1.2. In welcher Höhe wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte jeweils zum Monatsende angeben.
-1.3. Wie lange und zu welchem Zins wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte keinen Durchschnittszins über alle Unternehmen wie in Drs. 20/13852 angeben.
-1.4. Woran orientiert sich jeweils die Höhe des Zinssatzes beziehungsweise wie wird sie ermittelt?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Welchen der im jeweiligen Haushaltsbeschluss genannten Unternehmen und Einrichtungen hat der Senat beziehungsweise die zuständige Behörde wann und warum im Zeitraum April bis Juni 2018 Liquiditätshilfen zur Verfügung gestellt?
+
+### Frage 1.2
+
+In welcher Höhe wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte jeweils zum Monatsende angeben.
+
+### Frage 1.3
+
+Wie lange und zu welchem Zins wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte keinen Durchschnittszins über alle Unternehmen wie in Drs. 20/13852 angeben.
+
+### Frage 1.4
+
+Woran orientiert sich jeweils die Höhe des Zinssatzes beziehungsweise wie wird sie ermittelt?
+
+#### Antwort zu Fragen 1, 1.1, 1.2, 1.3 und 1.4
 
 Siehe Anlage 1. Der Zinssatz betrug einheitlich 0,0 Prozent. Im Übrigen siehe Drs. 21/218 und 21/4081.
 
 ### Frage 2
 
 Limite für die Liquiditätshilfen:
-2.1. Welche Veränderungen der für die Liquiditätshilfen festgelegten Limite hat es jeweils wann und aus welchen Gründen im 2. Quartal 2018 gegeben?
-2.2. Wie häufig, aus welchen Gründen und für jeweils welchen Zeitraum gab es im 2. Quartal 2018 bei welchen einzelnen Unternehmen und Einrichtungen Überschreitungen der Limite?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Welche Veränderungen der für die Liquiditätshilfen festgelegten Limite hat es jeweils wann und aus welchen Gründen im 2. Quartal 2018 gegeben?
+
+### Frage 2.2
+
+Wie häufig, aus welchen Gründen und für jeweils welchen Zeitraum gab es im 2. Quartal 2018 bei welchen einzelnen Unternehmen und Einrichtungen Überschreitungen der Limite?
+
+#### Antwort zu Fragen 2, 2.1 und 2.2
 
 Das Limit für das Betriebsmittelkonto der Hamburg Port Authority AöR (HPA) wurde ab 20. Juni 2018 befristet bis zum 31. Dezember 2018 von 70 auf 100 Millionen Euro und das Limit des Betriebsmittelkontos des Universitätsklinikums Hamburg-Eppendorf ab 7. Mai 2018 von 27 auf 61 Millionen Euro erhöht, um die zu erwartenden Liquiditätsbedarfe der Unternehmen zu decken.
 

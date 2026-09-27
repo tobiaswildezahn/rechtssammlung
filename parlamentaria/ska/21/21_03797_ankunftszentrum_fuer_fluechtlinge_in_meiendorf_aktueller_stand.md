@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 32
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2883", "21/2724", "21/3124", "21/3766"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52215"
@@ -47,39 +48,39 @@ Um das Modellverfahren umsetzen zu können, sind Baumaßnahmen in den folgenden 
 
 Bauabschnitt 1 bis zum 30. April 2016:
 
- Fertigstellung der Halle 4 Bargkoppelweg 66 a zur Registrierung der Flüchtlinge
+– Fertigstellung der Halle 4 Bargkoppelweg 66 a zur Registrierung der Flüchtlinge
 
- Fertigstellung der Hallen 1 und 2 im Bargkoppelweg 60 als Unterkunft
+– Fertigstellung der Hallen 1 und 2 im Bargkoppelweg 60 als Unterkunft
 
- Fertigstellung Bürokomplex Halle 8 im Bargkoppelstieg 10 – 14 für die asylrechtli-
+– Fertigstellung Bürokomplex Halle 8 im Bargkoppelstieg 10 – 14 für die asylrechtli-
 
 che Bearbeitung durch das BAMF
 
- Fertigstellung der Hallen 1 und 2 im Bargkoppelstieg 10 – 14 als Unterkunft
+– Fertigstellung der Hallen 1 und 2 im Bargkoppelstieg 10 – 14 als Unterkunft
 
- Fertigstellung des Arztzentrums im Bargkoppelstieg 10 – 14
+– Fertigstellung des Arztzentrums im Bargkoppelstieg 10 – 14
 
 Bauabschnitt 1 a bis zum 30. Mai 2016:
 
- Fertigstellung der Halle 7 Bargkoppelstieg 10 – 14 als Büroarbeitsplätze
+– Fertigstellung der Halle 7 Bargkoppelstieg 10 – 14 als Büroarbeitsplätze
 
- Fertigstellung Arztzentrum (Röntgen) Bargkoppelstieg 10 – 14
+– Fertigstellung Arztzentrum (Röntgen) Bargkoppelstieg 10 – 14
 
 Bauabschnitt 2 bis zum 15. Juli 2016:
 
- Fertigstellung der Halle 4 Bargkoppelstieg 10 – 14 als Unterkunft
+– Fertigstellung der Halle 4 Bargkoppelstieg 10 – 14 als Unterkunft
 
- Fertigstellung der Hallen 2, 3, 6 im Obergeschoss Bargkoppelstieg 10 – 14 als
+– Fertigstellung der Hallen 2, 3, 6 im Obergeschoss Bargkoppelstieg 10 – 14 als
 
 Unterkunft
 
 Bauabschnitt 2a bis zum 31. Juli 2016:
 
- Fertigstellung der Hallen 3, 5, 6 Erdgeschoss Bargkoppelstieg 10 – 14 Küche/
+– Fertigstellung der Hallen 3, 5, 6 Erdgeschoss Bargkoppelstieg 10 – 14 Küche/
 
 Kantine, Sanitär
 
- Fertigstellung der Halle 4 im Erdgeschoss Bargkoppelstieg 10 – 14 als Unterkunft
+– Fertigstellung der Halle 4 im Erdgeschoss Bargkoppelstieg 10 – 14 als Unterkunft
 
 Die weiteren Arbeitspakete „Informationstechnologie“, „Prozesse“ und „Personal“ sind in verschiedenen Gesprächen der Beteiligten aufgenommen und geplant worden und orientieren sich in der Umsetzung an den Terminvorgaben der baulichen Maßnahmen.
 

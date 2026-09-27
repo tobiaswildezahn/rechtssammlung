@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 17
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55303"
@@ -101,7 +102,7 @@ Welche Veranstaltungen fanden 2016 in der Alsterdorfer Sporthalle statt?
 
 Welche Veranstaltungen sind für 2017 in der Alsterdorfer Sporthalle geplant?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Anlagen 1 und 2.
 
@@ -147,7 +148,7 @@ In welcher Höhe wurden seit 2011 städtische Mittel für Investitionen für die
 
 In welcher Höhe wurden seit 2011 städtische Mittel für konsumtive Zwecke für die Alsterdorfer Sporthalle verausgabt? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 2011  
 2012  

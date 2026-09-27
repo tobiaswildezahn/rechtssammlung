@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12626", "21/2912", "21/3166"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51617"
@@ -49,7 +50,7 @@ Hat der Senat beziehungsweise die zuständige Behörde Kenntnis darüber, dass e
 
 Laut Aussage des jungen Christen hat die angeforderte Polizei keinerlei Polizeiberichte aufgenommen beziehungsweise den Fall nicht weiter verfolgt oder ein Aktenzeichen erstellt. Trifft dieses so zu? Wenn ja, warum hat die Polizei hier den Fall nicht weiter verfolgt? Wenn nein, was wurde bisher ermittelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der zuständigen Behörde ist dieser Fall nicht bekannt. Diesbezügliche Erkundigungen des Trägers der Unterkunft, f & w fördern und wohnen – Anstalt öffentlichen Rechts (f & w), haben weder in der Einrichtung selbst noch bei den örtlich zuständigen Polizeidienststellen zu einem Ergebnis geführt. Ebenso ist der Behörde für Inneres und Sport das genannte Delikt, trotz intensiver Recherche, durch die Polizei nicht bekannt. Insofern konnten keine konkreten Maßnahmen in diesem Fall erfolgen.
 
@@ -69,7 +70,7 @@ Durch immer wiederkehrende Fälle dieser Art ist es unsere Pflicht, Christen zu 
 
 Aufgrund der vielen Übergriffe auf Christen haben die Stadt Stuttgart und das Land Baden Württemberg nun beschlossen, zunächst 30 von Moslems verfolgte Christen aus Stuttgarter Flüchtlingsunterkünften in einem separaten Haus unterzubringen, um sie somit vor Anfeindungen der muslimischen Flüchtlinge zu schützen. Wie beurteilt der Senat beziehungsweise die zuständige Behörde diese Entscheidung der dortigen grün-roten Regierung? Und ist es auch in Hamburg denkbar, analog zum Stuttgarter Modell, Verfolgte gemeinsam in einer sicheren Unterkunft zusammenzulegen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Weder die zuständige Behörde noch f & w planen derzeit öffentlich-rechtliche Unterkünfte, in denen Menschen nach ihrer Religionszugehörigkeit separiert würden. Dies wäre aufgrund der Vielzahl vertretener Glaubensrichtungen weder durchführbar noch mit dem Grundsatz des interreligiösen Zusammenlebens vereinbar.
 

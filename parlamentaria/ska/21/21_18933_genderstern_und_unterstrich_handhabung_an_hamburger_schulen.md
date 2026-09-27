@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68618"
@@ -65,7 +66,7 @@ Ist die – derzeit mit der deutschen Rechtschreibung nicht konforme – Benutzu
 
 Wie bewertet die Behörde für Schule und Berufsbildung die Kritik hinsichtlich einer erschwerten Lesbarkeit bei der Benutzung von „Genderstern“ und „Unterstrich“?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3827", "21/3231"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52869"
@@ -63,7 +64,7 @@ b) Hat dieser die Schadensersatzforderung anerkannt?
 c) Ist hier ein gerichtliches Verfahren geplant? Wenn ja, wann soll dieses angestrebt werden?
 d) Wurde bereits eine Anwaltskanzlei beauftragt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Derzeit finden Verhandlungen mit dem Container-Lieferanten unter Hinzuziehung von Rechtsbeiständen statt. Dabei werden die Interessen der Freien und Hansestadt Hamburg (FHH) auch durch eine beauftragte Anwaltskanzlei vertreten. Vor dem Hintergrund, dass die gesamten Kosten für die Ertüchtigungen zur Herstellung des Brandschutzes derzeit vom Lieferanten getragen werden und bisher keine Miete für die Container gezahlt wurde, werden durch die FHH gegenüber dem Lieferanten noch keine Kosten geltend gemacht.
 

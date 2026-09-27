@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67859"
@@ -45,7 +46,7 @@ Waren die unter dem Motto „Stand with Hong Kong“ am 17. und 31. August erfol
 
 Wie wurden die Demonstrationen vom Senat hinsichtlich ihrer potenziellen Gefährdung durch Störer eingeschätzt und welche Maßnahmen wurden daraufhin getroffen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es handelte sich jeweils um eine angemeldete Versammlung im Sinne des Versammlungsgesetzes.
 
@@ -78,7 +79,7 @@ Welche Kenntnisse hatte und hat der Senat von systematischen und/ oder organisie
 
 Welche Kenntnisse hatte und hat der Senat, ob und in welchem Umfang es im Kontext der Demonstrationen am 17. und 31. August zu Einschüchterungsversuchen und/oder Drohungen von Pro-VR-China- Akteuren gegen Demonstranten durch die Gewinnung personenbezogener Daten (gegebenenfalls auch biometrischen Daten) kam?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Am 17. August 2019 äußerten Versammlungsteilnehmer die Vermutung, dass ein mutmaßlich regierungsfreundlicher Versammlungsteilnehmer Portraitaufnahmen von regierungskritischen Teilnehmern fertige. Diesem Hinweis gingen Polizeikräfte umgehend nach und sahen das entsprechende Handy ein. Hierbei wurden lediglich zulässige Übersichtsaufnahmen festgestellt.
 

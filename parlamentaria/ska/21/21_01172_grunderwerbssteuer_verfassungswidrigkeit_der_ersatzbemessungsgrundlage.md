@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49359"
@@ -43,7 +44,7 @@ Bei wie vielen Grunderwerbssteuerfällen in der Freien und Hansestadt Hamburg wu
 
 Wie hoch war die gemäß § 8 Absatz 2 Grunderwerbsteuergesetzes ermittelte Grunderwerbssteuer? Bitte für die letzten sechs Jahre jährlich differenziert angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Jahr  
 Fälle  

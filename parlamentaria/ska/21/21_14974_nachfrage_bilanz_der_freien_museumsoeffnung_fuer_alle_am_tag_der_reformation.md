@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 7
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14863", "21/12153"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64464"
@@ -55,7 +56,7 @@ Ist die Umsetzung eines Beschlusses der Bürgerschaft für den Senat beziehungsw
 
 Bedeutet diese Antwort des Senats, dass er die Einnahmeausfälle der öffentlichen Museen weiterhin nicht erstatten möchte? Wenn ja, warum? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Entfällt, siehe Vorbemerkung.
 

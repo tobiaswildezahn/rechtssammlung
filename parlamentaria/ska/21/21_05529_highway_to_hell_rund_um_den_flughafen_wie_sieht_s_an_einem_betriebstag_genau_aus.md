@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 18
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54015"
@@ -85,7 +86,7 @@ Welche weiteren Airlines haben darüber hinaus die Vereinbarung unterschrieben?
 
 Sind seit dem Start der Pünktlichkeitsoffensive weitere Airlines der Vereinbarung beigetreten?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Neben airberlin, Eurowings/Germanwings und Condor haben Lufthansa und easyJet die Vereinbarung unterzeichnet. Um die Beteiligung weiterer Airlines (unter anderem Air France/KLM und British Airways) wird seitens der FHG derzeit aktiv geworben.
 
@@ -145,7 +146,7 @@ Wie viele Ordnungswidrigkeitsverfahren sind 2016 bezüglich der Nachtflugbeschr�
 
 Welche Ergebnisse hatten diese Verfahren bezüglich der verhängten Geldbußen/Gewinnabschöpfungen und gab es weitere Konsequenzen aus den Verfahren?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Es wurden bisher zwölf Ordnungswidrigkeitsverfahren eingeleitet. Die Verfahren sind noch nicht abgeschlossen.
 

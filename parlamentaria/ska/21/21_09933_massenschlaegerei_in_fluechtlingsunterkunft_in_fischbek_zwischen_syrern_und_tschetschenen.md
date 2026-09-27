@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9913"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58745"
@@ -43,7 +44,7 @@ Wie viele Personen waren an dieser Auseinandersetzung beteiligt und wer waren di
 
 Was war die Ursache für die Auseinandersetzung? Wie kam es zur Schlägerei und weshalb waren so viele Personen beteiligt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/9913.
 

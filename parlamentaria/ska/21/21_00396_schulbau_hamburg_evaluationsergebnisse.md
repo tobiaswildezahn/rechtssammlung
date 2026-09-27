@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 20
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/4471", "20/5317", "20/14486", "20/6208", "20/12720", "20/14118"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48554"
@@ -43,7 +44,7 @@ Wann wird der Bürgerschaft der in Drs. 20/4471 geforderte Bericht vorgelegt?
 
 Was sind die Gründe für die verspätete Berichtsdrucksache?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Ersuchen wurde bereits mit den Drs. 20/5317 und 20/14486 beantwortet. Die Evaluation erfolgt im Übrigen fortlaufend unter Berücksichtigung der tatsächlichen Erfahrungen beziehungsweise Ergebnisse im Schulbau.
 
@@ -103,7 +104,7 @@ Wie viele der bereits fertiggestellten Bauprojekte im Programm Schulbau Hamburg 
 
 Welche konkreten Projekte konnten nicht innerhalb des ursprünglich geplanten Zeit- und Kostenrahmens realisiert werden? a. Welche Gründe haben jeweils zu der Überschreitung des Zeit- und Kostenrahmens geführt? b. Wie hoch ist die jeweilige Überschreitung?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Der Senat berichtet über laufende und abgeschlossene Schulbaumaßnahmen von SBH und GMH ab einem Kostenvolumen von 1 Million Euro jährlich im Rahmen des Berichts über das 2. Quartal (siehe zuletzt Drs. 20/12720). Die Bau- und Sanierungsleistung der ÖPP mit HEOS werden gemäß Drs. 20/14118 in einem gesonderten Investitionsprogramm ausgewiesen. Im Rahmen der Bau- und Sanierungsphase wurden 21 Abnahmeeinheiten (fertig gestellte Gebäude/-abschnitte) gemäß den vertraglichen Termin- und Kostenvorgaben realisiert (siehe Anlage). Aufgrund eines unerwarteten umfangreichen Schadstoffbefundes verzögern sich einige Abnahmeeinheiten am Standort Museumstraße. Die Projektkosten liegen innerhalb des prognostizierten und veranschlagten Rahmens. Die Planungen am Standort Budapester Straße 58 wurden nach Vertragsabschluss aufgrund des Schulentwicklungsplans geändert: Um zusätzlich die H19 aufnehmen und den Standort an der Eckernförder Straße aufgeben zu können, wurde der Neubau um ein weiteres Geschoss erweitert. Die Fertigstellung hat sich daher vereinbarungsgemäß um rund sechs Monate gegenüber dem ursprünglich vertraglich geplanten Fertigstellungstermin verschoben. Die Fertigstellung ist mittlerweile vereinbarungsgemäß erfolgt. Der vertraglich vereinbarte Kostenansatz unter Berücksichtigung der vereinbarten Leistungsanpassung (Aufstockung) wurde eingehalten.
 

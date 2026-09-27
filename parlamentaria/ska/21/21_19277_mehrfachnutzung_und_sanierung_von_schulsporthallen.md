@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18884"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68995"
@@ -103,7 +104,7 @@ Wie viele Schulsporthallen wurden in Hamburg seit 2015 abgerissen? Bitte nach Ja
 
 In wie vielen Fällen ist dem Senat eine geplante oder tatsächliche Verkleinerung der Sportflächen durch Abriss und Neubau oder durch Sanierung von Schulsporthallen bekannt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Für Schulsporthallen ist kein Fall einer tatsächlichen Verkleinerung bekannt, da abgerissene Hallen in der Regel durch einen gleich großen Ersatzbau oder einen größeren Neubau ersetzt werden.
 

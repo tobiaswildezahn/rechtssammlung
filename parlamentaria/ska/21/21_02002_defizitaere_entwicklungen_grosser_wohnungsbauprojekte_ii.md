@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1821"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50243"
@@ -35,19 +36,19 @@ In meiner Schriftlichen Kleinen Anfrage (21/1821) antwortet der Senat unter ande
 
 ## Einleitung für die Antworten des Senats
 
- nördlich Finkenwerder Landscheideweg (Finkenwerder 32),
+– nördlich Finkenwerder Landscheideweg (Finkenwerder 32),
 
- Dieselstraße (Barmbek-Nord 11),
+– Dieselstraße (Barmbek-Nord 11),
 
- Stadtteilschule Sportplatzring (Stellingen 62),
+– Stadtteilschule Sportplatzring (Stellingen 62),
 
- Dratelnstraße,
+– Dratelnstraße,
 
- Georg-Wilhelm-Höfe (Wilhelmsburg 95),
+– Georg-Wilhelm-Höfe (Wilhelmsburg 95),
 
- Georgswerder,
+– Georgswerder,
 
- Vogelkamp (Neugraben-Fischbek 65).
+– Vogelkamp (Neugraben-Fischbek 65).
 
 Die Projekte unterliegen einer ständigen planerischen Fortentwicklung, mögliche Defizite können deshalb derzeit nicht seriös prognostiziert werden.“
 

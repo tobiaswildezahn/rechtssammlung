@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14204"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50649"
@@ -51,7 +52,7 @@ Wann genau wurde mit der Pilotierung von eBeihilfe begonnen?
 
 Wann genau soll die erste Projektstufe abgeschlossen sein?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Antwort zu 1.
 
@@ -71,7 +72,7 @@ Wie hoch sind die aktuell geschätzten Kosten für die Stufe 1a?
 
 Ist gegenüber den zuletzt angegebenen Kosten von 4,484 Millionen Euro für die Stufe 1a mit weiteren Kostensteigerungen zu rechnen? Wenn ja, warum und in welchem Umfang?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Kosten von 4.483.950 Euro (siehe Drs. 20/14204) beziehen sich auf das geplante Vorhaben bis zum Abschluss der Stufen 1a und 1b. Für Stufe 1a besteht durch einen mit Dataport geschlossenen Werkvertrag weitgehende Kostenstabilität, allerdings führen Verzögerungen zu einer insgesamt längeren Projektdauer, die kostensteigernd wirkt. Die Kosten für die Stufe 1b (Beschaffung und Einführung von Prüfsoftware) können weiterhin noch nicht abschließend geschätzt werden.
 

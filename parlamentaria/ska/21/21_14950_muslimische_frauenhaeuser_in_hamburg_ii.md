@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10994", "21/4174", "21/10281", "21/9053", "21/4035", "21/13288", "21/11794", "21/11156", "20/5830"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64417"
@@ -98,7 +99,7 @@ Welche Schritte hat der Senat seit November 2017 unternommen, um die islamischen
 
 Wie haben die Vertreter der islamischen Religionsgemeinschaften darauf reagiert und welche Initiativen haben sie daraufhin ergriffen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Am 16. Oktober 2018 haben Imame der SCHURA – Rat der Islamischen Gemeinschaften in Hamburg e.V. an einer von der Behörde für Arbeit, Soziales, Familie und Integration mit organisierten Informationsveranstaltung von i.bera – Interkulturelle Beratungsstelle für Opfer von häuslicher Gewalt und Zwangsheirat und LÂLE – Interkulturelle Beratung für Opfer von häuslicher Gewalt und Zwangsheirat teilgenommen.
 

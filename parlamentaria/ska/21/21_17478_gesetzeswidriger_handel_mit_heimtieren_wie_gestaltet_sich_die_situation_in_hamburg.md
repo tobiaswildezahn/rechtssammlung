@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 16
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14581"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67061"
@@ -83,7 +84,7 @@ Sind dem Senat Urteile zu artenschutz-, tierschutz- oder tiergesundheitswidrigen
 
 Wie hoch ist der Anteil von eingestellten Verfahren in diesem Bereich und was sind die häufigsten Gründe für die Einstellung?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Im Vorgangsverwaltungs- und Vorgangsbearbeitungssystem MESTA der Staatsanwaltschaft Hamburg wird nicht erfasst, ob eine Tat im Zusammenhang mit dem Onoder Offlinehandel mit Heimtieren steht. Zur Beantwortung der Fragen müssten daher zumindest alle Verfahren beigezogen und händisch ausgewertet werden, für die in MESTA als Tatvorwurf § 17 TierSchG oder § 71 BNatSchG notiert ist. Hierbei handelt es sich für die Jahre 2014 – 2019 (Stichtag 7. Juni 2019) um eine vierstellige Anzahl von Verfahren.
 

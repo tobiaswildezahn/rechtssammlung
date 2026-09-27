@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 29
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["22/2738", "22/3553", "22/2714", "22/3486", "22/2518", "22/3875", "21/19200", "22/2883", "22/3908", "22/4336", "22/4759"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/76472"

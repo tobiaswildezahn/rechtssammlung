@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 17
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64167"
@@ -43,7 +44,7 @@ Befinden sich die Tatverdächtigen in Untersuchungshaft? Falls ja, seit wann und
 
 Hat die Staatsanwaltschaft gegen die Tatverdächtigen Klage erhoben? Falls ja, wie lautet die Anklage?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nein. Die Ermittlungen dauern an.
 
@@ -71,19 +72,19 @@ Haben die Tatverdächtigen in der Vergangenheit bereits Haftstrafen verbüßt? F
 
 Im Hinblick auf das Persönlichkeitsrecht des Betroffenen und die gesetzlichen Wertungen des Bundeszentralregistergesetzes sieht der Senat davon ab, etwaige Ermittlungsverfahren mitzuteilen, die durch einen Freispruch oder eine Einstellung beendet worden sind. Dasselbe gilt für Ermittlungsverfahren, die zu einem Abschluss geführt haben, der entweder nicht in ein Führungszeugnis aufzunehmen oder nach den Tilgungsvorschriften des Bundeszentralregistergesetzes nicht mehr zu berücksichtigen ist. Die Auskunft des Bundeszentralregisters enthält für einen der beiden Beschuldigten folgende mitteilungsfähige Eintragungen:
 
- Urteil des Amtsgerichts Hamburg-Bergedorf vom 5. November 2010 wegen Belei-
+– Urteil des Amtsgerichts Hamburg-Bergedorf vom 5. November 2010 wegen Belei-
 
 digung in drei Fällen zu 40 Tagessätzen,
 
- Urteil des Amtsgerichts Hamburg-Bergedorf vom 20. August 2013 wegen Beleidi-
+– Urteil des Amtsgerichts Hamburg-Bergedorf vom 20. August 2013 wegen Beleidi-
 
 gung in zwei Fällen zu 60 Tagessätzen Geldstrafe,
 
- Urteil des Amtsgerichts Augsburg vom 29. Februar 2016 wegen Beleidigung in vier
+– Urteil des Amtsgerichts Augsburg vom 29. Februar 2016 wegen Beleidigung in vier
 
 Fällen zu 90 Tagessätzen,
 
- Urteil des Amtsgerichts Hamburg-Bergedorf vom 11. August 2016 wegen gefährli-
+– Urteil des Amtsgerichts Hamburg-Bergedorf vom 11. August 2016 wegen gefährli-
 
 cher Körperverletzung und versuchter Nötigung zu 6 Monaten Freiheitsstrafe, ausgesetzt zur Bewährung bis 23. Dezember 2018.
 

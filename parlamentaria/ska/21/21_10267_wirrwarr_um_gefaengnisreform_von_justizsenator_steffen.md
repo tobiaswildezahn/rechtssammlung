@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5973", "21/5780", "21/8288"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59110"
@@ -87,7 +88,7 @@ Wie ist der aktuelle Stand der Prüfungen in Bezug auf eine Verlegung des Jugend
 
 Welche Kosten werden für den Umzug des Jugendvollzugs an den Standort Billwerder entstehen? Wie setzen sich diese Kosten im Einzelnen zusammen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/8288.
 
@@ -107,6 +108,6 @@ Wie hoch sind die Kosten für einen dauerhaften Verbleib des Jugendvollzugs in d
 
 Sind weitere Optionen für die Zukunft des Jugendvollzugs in Prüfung? Wenn ja, bitte darstellen.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Drs. 21/8288.

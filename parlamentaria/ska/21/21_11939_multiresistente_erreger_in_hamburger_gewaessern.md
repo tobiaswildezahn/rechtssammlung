@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 19
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11910"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61190"
@@ -59,7 +60,7 @@ Sieht der Senat die Notwendigkeit, zukünftig die regelhaften Tests der Wasserqu
 
 Welche Maßnahmen ergreift der Senat mit welchem Erfolg, um die Ausbreitung von MRE in Hamburgischen Gewässern zu vermeiden beziehungsweise einzudämmen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Senat sieht keine Notwendigkeit, regelhafte Tests der Oberflächengewässer auf multiresistente Erreger durchzuführen.
 

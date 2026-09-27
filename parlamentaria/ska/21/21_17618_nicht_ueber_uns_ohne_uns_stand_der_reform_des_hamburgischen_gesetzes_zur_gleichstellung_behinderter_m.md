@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/7824", "21/37", "21/17639"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67212"
@@ -114,7 +115,7 @@ Prioritäten:
 2. Der Finanzierungsvorbehalt der Wirtschaftlichkeit ist zu streichen.
 3. Die Menschenrechte dürfen nicht gegen den Denkmalschutz eingetauscht werden.
 4. Die Frist 1. Juni 2024 für die Erfassung des Standes der Barrierefreiheit in Bestandsgebäuden ist zu lang. Alle Angaben hinsichtlich der anschließenden Umsetzung sind zu vage.
-5. Alle weiteren Forderungen (ebenso wichtig wie 1-4): • Die Gesetzesvorgaben dürfen nicht nur für Publikumsbereiche gelten, sondern müssen auch auf die Arbeitsbereiche der Mitarbeitenden Anwendung finden. • Das Kompetenzzentrum Barrierefreiheit muss vom Senat abgesichert und im Gesetz verankert werden. • Der gesamte öffentliche Raum muss barrierefrei werden, nicht nur die Bahnhöfe und Haltestellen. Es darf keine Insellösungen geben. • Alle Bushaltestellen müssen barrierefrei werden. • Fahrstühle müssen auch im Falle eines Brandes nutzbar sein. • Streugut und sonstiges Material auf den Gehwegen ist zu beseitigen. • Öffentliche Gelder dürfen nur an Unternehmen vergeben werden, die barrierefrei sind und die Beschäftigungsquote erfüllen. • Senior*innen sollen als Personengruppe mit in das Gesetz aufgenommen werden. • Begriffe „angemessen“ und „unangemessen“ sind in „zumutbar“ bzw. „unzumutbar“ zu ändern. • Begriffe wie „grundsätzlich“, „soll“ etc. sind in verbindliche Formulierungen zu ändern.
+5. Alle weiteren Forderungen (ebenso wichtig wie 1-4): – Die Gesetzesvorgaben dürfen nicht nur für Publikumsbereiche gelten, sondern müssen auch auf die Arbeitsbereiche der Mitarbeitenden Anwendung finden. – Das Kompetenzzentrum Barrierefreiheit muss vom Senat abgesichert und im Gesetz verankert werden. – Der gesamte öffentliche Raum muss barrierefrei werden, nicht nur die Bahnhöfe und Haltestellen. Es darf keine Insellösungen geben. – Alle Bushaltestellen müssen barrierefrei werden. – Fahrstühle müssen auch im Falle eines Brandes nutzbar sein. – Streugut und sonstiges Material auf den Gehwegen ist zu beseitigen. – Öffentliche Gelder dürfen nur an Unternehmen vergeben werden, die barrierefrei sind und die Beschäftigungsquote erfüllen. – Senior*innen sollen als Personengruppe mit in das Gesetz aufgenommen werden. – Begriffe „angemessen“ und „unangemessen“ sind in „zumutbar“ bzw. „unzumutbar“ zu ändern. – Begriffe wie „grundsätzlich“, „soll“ etc. sind in verbindliche Formulierungen zu ändern.
 
 Workshop 2 | Barrierefreies Internet (§ 11)
 
@@ -128,7 +129,7 @@ Prioritäten:
 
 Ferner:
 
-• Hamburg soll bei der Umsetzung der Barrierefreiheit im Internet (→ hamburg.de) und in der IT insgesamt eine Vorreiterrolle einnehmen. • Es soll nicht „Menschen mit Behinderungen“ sondern „Menschen mit Einschränkungen“ heißen. • (Abs. 1): Websites, mobile Anwendungen, Intranet und grafische Programmoberflächen müssen hinsichtlich Barrierefreiheit zertifiziert sein. • Die Schwerbehindertenvertretungen sind bei der Umsetzung der Barrierefreiheit im IT-Bereich zu beteiligen. • Es sollen nicht nur die Gehörlosenverbände, sondern auch die der Schwerhörigen einbezogen werden, weil Schwerhörige andere Bedarfe haben. • Für Hörgeschädigte soll es im Kontaktbereich von Webseiten eine spezifische E-Mail- Adresse geben, damit sie direkt Kontakt aufnehmen können. • Erste Behörden und Verwaltungseinheiten sehen offenbar nur noch die digitale Möglichkeit der Kontaktaufnahme durch die Bürger*innen vor. Ein klassischer analoger Behördenzugang muss weiterhin für alle möglich bleiben.
+– Hamburg soll bei der Umsetzung der Barrierefreiheit im Internet (→ hamburg.de) und in der IT insgesamt eine Vorreiterrolle einnehmen. – Es soll nicht „Menschen mit Behinderungen“ sondern „Menschen mit Einschränkungen“ heißen. – (Abs. 1): Websites, mobile Anwendungen, Intranet und grafische Programmoberflächen müssen hinsichtlich Barrierefreiheit zertifiziert sein. – Die Schwerbehindertenvertretungen sind bei der Umsetzung der Barrierefreiheit im IT-Bereich zu beteiligen. – Es sollen nicht nur die Gehörlosenverbände, sondern auch die der Schwerhörigen einbezogen werden, weil Schwerhörige andere Bedarfe haben. – Für Hörgeschädigte soll es im Kontaktbereich von Webseiten eine spezifische E-Mail- Adresse geben, damit sie direkt Kontakt aufnehmen können. – Erste Behörden und Verwaltungseinheiten sehen offenbar nur noch die digitale Möglichkeit der Kontaktaufnahme durch die Bürger*innen vor. Ein klassischer analoger Behördenzugang muss weiterhin für alle möglich bleiben.
 
 Workshop 3 | Barrierefreie Kommunikation (§§ 8-10)
 
@@ -144,62 +145,62 @@ Ferner:
 
 § 8 Barrierefreie Kommunikation, Gebärdensprache
 
-•  
+–  
 Internat / WG → Kinder besser unterstützen mit Gebärdensprache.  
-•  
+–  
 Trägereinrichtungen verpflichten, barrierefreie Kommunikation für gehörlose Kunden  
 anzubieten.  
-•  
+–  
 Bei Bildungsangeboten (auch in der Erwachsenenbildung) viel mehr eigene  
 Entscheidungen und Rücksicht auf Individuelle Wünsche.  
-•  
+–  
 Gehörlose Eltern unterstützen.  
-•  
+–  
 Budgets auch für Gebärdensprachdolmetschung außerhalb von Verwaltung z.B. bei  
 Gewerkschaften, Parteien, Rechtsanwälten.  
-•  
+–  
 Eltern gehörloser Kinder sensibel, fachlich kompetent und neutral beraten.  
-•  
+–  
 Die Förderung muss unabhängig vom Grad der Behinderung erfolgen.  
-•  
+–  
 Gehörlose Pädagog*innen und Gebärdensprachpädagog*innen einbinden.  
-•  
+–  
 Anspruch auf Assistenz für Taubblinde.
 
 § 9 Gestaltung von Bescheiden und Vordrucken
 
-•  
+–  
 Informationen und Bescheide auch in Gebärdensprache anbieten.  
-•  
+–  
 Definition einheitlicher Standards umsetzen.  
-•  
+–  
 Es braucht ggf. Hausbesuche und/oder Assistenz für Menschen, die aufgrund  
 psychischer Behinderung keine Termine wahrnehmen können.  
-•  
+–  
 Ansprechpersonen klar benennen, schriftlich mit Tel-Nr.  
-•  
+–  
 Erreichbar sein und Rückmeldungen geben.  
-•  
+–  
 Das Gesetz ist unsortiert hinsichtlich seiner Begrifflichkeiten.  
-•  
+–  
 Barrieren im Kopf werden nicht berücksichtigt.  
-•  
+–  
 Alle Beeinträchtigungen berücksichtigen.  
-•  
+–  
 „muss“ statt „soll“ in Absätzen 1 und 5.  
-•  
+–  
 Bescheide, Rechnungen etc. sollten zweifach ausgestellt werden: normal und in  
 leichter Sprache.
 
 § 10 Verständlichkeit und Leichte Sprache
 
-•  
+–  
 Mitarbeitende schulen in einfacher, verständlicher Sprache (Leichte Sprache).  
-•  
+–  
 Der Personenkreis ist zu eng gefasst, es fehlen z.B. funktionale Analphabeten.  
-•  
+–  
 § 10, Abs. 4 schließt eventuell Personen aus.  
-•  
+–  
 Schriftsprache und Deutsch müssen für Gehörlose als Fremdsprache anerkannt und  
 entsprechend gefördert werden.
 
@@ -217,66 +218,66 @@ Ferner:
 
 § 6 Benachteiligungsverbot
 
-•  
+–  
 § 6, Abs. 1: Muss auf private Sektoren erweitert werden.  
-•  
+–  
 § 6, Abs. 1, Nr. 3: (…) eingeführt werden müssen, (…)  
-•  
+–  
 § 6, Abs. 2: wer legt fest, was angemessene Vorkehrungen sind – die Betroffenen?  
-•  
+–  
 § 5 Barrierefreiheit ergänzen: „Mitnahme von Hilfsmitteln, wie beispielsweise  
 Blindenführhunden und Assistenzhunden, in Gebäuden“.  
-•  
+–  
 An den Türen aller öffentlichen Gebäude soll es einen Hinweis geben: Assistenzhunde  
 erlaubt.  
-•  
+–  
 Behinderten WC: zusätzlich soll zum Rollstuhlsymbol soll es auch ein  
 Assistenzhundesymbol geben.  
-•  
+–  
 Die externe Unterbringung von psychisch Kranken verstößt gegen das Grundgesetz.  
 Wie soll damit umgegangen werden?  
-•  
+–  
 Welche Nachweismöglichkeiten sind bei einer Benachteiligung aufgrund seelischer  
 Beeinträchtigung vorgesehen?
 
 § 12 + 13 Rechtsbehelfe
 
-•  
+–  
 Beschwerdestelle: Wo wird sie angebunden? Wie wird Neutralität gewährleistet?  
-•  
+–  
 Wäre der Hamburger Sportbund auch ein Betroffenenverband im Sinne des  
 Gesetzes?
 
 § 14 + 15 Koordination
 
-•  
+–  
 SkBM: Die hauptamtliche Besetzung soll verpflichtend sein, nicht nur möglich.  
-•  
+–  
 SkBM soll in Vollzeit tätig sein.  
-•  
+–  
 SkBM muss selbst betroffen sein (Peer Group Konzept).  
-•  
+–  
 SkBM soll an Bürgerschaft angebunden sein, statt an der Fachbehörde.
 
-•  
+–  
 SkBM bei der Senatskanzlei anbinden?  
-•  
+–  
 Bürgerschaft soll Bericht von SkBM zustimmen.  
-•  
+–  
 Berichtshäufigkeit SkBm (§ 14, Abs. 6) soll von zwei Jahren auf ein Jahr reduziert  
 werden.  
-•  
+–  
 Landesbeirat: Autistenvertretung soll einen der 20 Plätze erhalten.  
-•  
+–  
 Landesbeirat: LApK soll einen der 20 Plätze erhalten.  
-•  
+–  
 Die Bedarfe sollen in den Bezirken erfasst werden.  
-•  
+–  
 Es soll mehr kommunale Vertretungen für Menschen mit Behinderungen geben.
 
 Weitere Rückmeldungen:
 
-• Stellen für Menschen mit Behinderung möglichst mit Betroffenen besetzen. • Quote für Künstlerinnen auszuüben, zu entwickeln und zu präsentieren. (Die Bedeutung dieser Aussage ließ sich auch nach mehrmaliger Nachfrage nicht klären) • Erweiterung des Gesetzes auf Privatwirtschaft bei Ermessensentscheidungen und Mittelvergabe. • Quote bei Stellenbesetzung in der Wirtschaft ohne „Freikauf“. • § 4 (Besondere Belange Frauen und Kinder): Wer ist in den einzelnen Behörden / öffentlichen Stellen zu beteiligen?
+– Stellen für Menschen mit Behinderung möglichst mit Betroffenen besetzen. – Quote für Künstlerinnen auszuüben, zu entwickeln und zu präsentieren. (Die Bedeutung dieser Aussage ließ sich auch nach mehrmaliger Nachfrage nicht klären) – Erweiterung des Gesetzes auf Privatwirtschaft bei Ermessensentscheidungen und Mittelvergabe. – Quote bei Stellenbesetzung in der Wirtschaft ohne „Freikauf“. – § 4 (Besondere Belange Frauen und Kinder): Wer ist in den einzelnen Behörden / öffentlichen Stellen zu beteiligen?
 
 o  
 Vertretung der Schwerbehinderten  
@@ -286,27 +287,27 @@ o
 Bereich Inklusion in BSB  
 o  
 Stabstelle Vielfalt (BWFG)  
-•  
+–  
 Wie wird die Neuerung den Bürger*innen bekanntgegeben?  
-•  
+–  
 Keine Trennung der Eingänge für Menschen mit und ohne Behinderung (→  
 Inklusion!).  
-•  
+–  
 Infos über die Gesetze für Ärzte.  
-•  
+–  
 Verbesserte Assistenzsysteme, angepasst an Behinderungen.  
-•  
+–  
 Unsichtbare Barrierefreiheit: geräuscharm, visuelle und olfaktorische Reize  
 minimieren, Rückzugsmöglichkeit bieten (betrifft Autisten und Hypersensitive).  
 Vorab: Wegepläne und Bilder des Eingangs im Internet.  
-•  
+–  
 Bundesgesetzblätter müssen auch in leichter Sprache und mit Vorlesefunktion  
 veröffentlicht werden.  
-•  
+–  
 Leichte Sprache als Standard auch in den Behördenformularen.  
-•  
+–  
 Veröffentlichung aller Themen der heutigen Veranstaltung auf dem  
 Transparenzportal.  
-•  
+–  
 Den Geltungsbereich des Gesetzes erweitern auf andere öffentliche Träger und  
 private Krankenhäuser.

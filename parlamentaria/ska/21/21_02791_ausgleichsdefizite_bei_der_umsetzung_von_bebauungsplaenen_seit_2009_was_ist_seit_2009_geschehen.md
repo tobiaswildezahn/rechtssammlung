@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/2518"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51099"
@@ -45,7 +46,7 @@ Welche der damals noch nicht begonnenen oder noch nicht abgeschlossenen Ausgleic
 
 Aus welchen Bebauungsplänen wurden die Maßnahmen nicht umgesetzt und aus welchen Gründen? Bitte nach Bezirken auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In den folgenden Tabellen wird teilweise auch angegeben, ob die Umsetzung der Ausgleichsmaßnahmen bereits abgeschlossen werden konnte (++), ob mit der Umsetzung begonnen wurde (+) oder ob die Maßnahme noch nicht begonnen wurde (-).
 
@@ -383,7 +384,7 @@ Wie viele und welche Bebauungspläne wurden seit 2009 mit festgesetzten Ausgleic
 
 Wie sieht bei diesen Bebauungsplänen der Umsetzungsstand aus? Bitte aufführen, bei welchen Bebauungsplänen die Ausgleichsmaßnahmen bereits durchgeführt wurden, bei welchen mit den Ausgleichsmaßnahmen begonnen und bei welchen noch nicht begonnen wurde?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 HAMBURG-
 
@@ -954,7 +955,7 @@ Inwiefern hat sich die personelle Situation bei der Umsetzung und Betreuung von 
 
 Wie viele Personalstellen sind in welchem Fachamt der Behörde und in den Bezirken direkt mit der Umsetzung und Betreuung von Ausgleichsmaßnahmen betraut? Bitte nach Bezirken auflisten.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Personelle Situation bei der Umsetzung und Betreuung
 

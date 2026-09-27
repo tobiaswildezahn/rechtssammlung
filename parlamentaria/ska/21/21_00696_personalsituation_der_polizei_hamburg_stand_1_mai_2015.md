@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 14
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48851"
@@ -191,7 +192,7 @@ Welche Stellen sind den verschiedenen Organisationsbereichen/ Dienststellen der 
 
 Wie viele dieser Stellen waren jeweils zum 1. Mai 2015 unbesetzt?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Anlagen 1 und 2. und Vorbemerkung.
 

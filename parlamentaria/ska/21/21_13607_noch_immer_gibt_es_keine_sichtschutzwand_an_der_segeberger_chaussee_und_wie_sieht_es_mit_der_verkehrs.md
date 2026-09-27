@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8679", "20/10986", "20/11089"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62973"
@@ -85,7 +86,7 @@ Wie viele Fahrzeuge verkehren in der Segeberger Chaussee durchschnittlich wochen
 
 Wie beurteilen der Senat beziehungsweise die Fachbehörde die Ergebnisse der letzten Verkehrszählung?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 3.
 
@@ -97,7 +98,7 @@ Wie häufig werden in der Segeberger Chaussee Geschwindigkeitsmessungen vorgenom
 
 Wann hat die zuständige Fachbehörde zuletzt eine Geschwindigkeitsmessung in der Straße Segeberger Chaussee vorgenommen, auf welcher Höhe wurde die Messung genau durchgeführt, wie viele Geschwindigkeitsübertretungen sind dabei festgestellt worden und welche Strafen wurden dabei jeweils verhängt (bitte den genauen Messzeitraum angeben)?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Durchgeführte Geschwindigkeitsmessungen seit dem Jahr 2011 in der Segeberger Chaussee:
 

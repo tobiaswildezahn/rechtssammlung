@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11521", "21/11631", "21/8434", "21/12244"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61693"
@@ -142,7 +143,7 @@ Wurden im Jahr 2017 unbegleitete minderjährige Ausländer aus Deutschland ausge
 
 Wie viele ehemalige unbegleitete minderjährige Ausländer wurden in den Jahren 2016 und 2017 aus Deutschland ausgewiesen oder abgeschoben? Wie viele reisten freiwillig aus?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Ob es sich bei einer Person um einen unbegleiteten minderjährigen Ausländer handelt, ergibt sich in jedem Hamburger Einzelfall aus der Ausländerakte. Darüber hinaus ist dieses Merkmal im ausländerbehördlichen Fachverfahren nur hinterlegt, sofern ein Asylantrag gestellt wurde. Vorbehaltlich einer vollständigen und korrekten Erfassung wurde im Jahr 2017 ein unbegleiteter minderjähriger Ausländer ausgewiesen. Der Ausweisung lagen drei rechtskräftige Verurteilungen zugrunde, ein schwerwiegendes Ausweisungsinteresse im Sinne des § 54 Absatz 2 Nummer 2 Aufenthaltsgesetz lag vor.
 

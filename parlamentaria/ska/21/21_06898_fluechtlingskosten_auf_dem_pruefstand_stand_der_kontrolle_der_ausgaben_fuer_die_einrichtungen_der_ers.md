@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 28
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2707", "21/4583", "21/4635", "21/4677", "21/6488"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55488"
@@ -49,7 +50,7 @@ Welche Erstaufnahmeeinrichtungen wurden in den Monaten Oktober 2015 bis August 2
 
 Welche Kosten sind in den jeweiligen Einrichtungen für das Catering entstanden? Bitte unter Angabe der jeweiligen Belegungszahlen für jede einzelne Einrichtung nach Monaten sortiert für den Zeitraum Oktober 2015 bis August 2016 aufführen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung und Anlage.
 

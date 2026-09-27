@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 24
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5758"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61230"
@@ -276,7 +277,7 @@ Ein Gutachten von LBD zu „Energiemarktszenarien“ sollte nach Drs. 21/5758 (2
 
 Welche vertragsinhaltlichen Veränderungen wurden beim Gutachten von LBD zu „Energiemarktszenarien“ vorgenommen? Welche Inhalte wurden geändert, durch wen und aus welchen Gründen?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die zuständige Behörde hat unter Einsatz von Gutachtern (BET) und in einem offenen Partizipationsprozess mit relevanten Stakeholdern in 2015/2016 mögliche Handlungsalternativen als Szenarien aufgezeigt und diese mit dem Mehrheitsgesellschafter der VWH eingehend erörtert. Das Gutachten von LBD wurde im Oktober 2016 vergeben. Grundlage waren diese Szenarien für eine Ersatzlösung.
 

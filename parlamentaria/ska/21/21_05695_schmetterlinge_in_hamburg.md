@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54191"
@@ -47,7 +48,7 @@ Gibt es einen konkreten Plan für das durchzuführende Monitoring? Welche unters
 
 Welche Kriterien liegen der Auswahl der zu untersuchenden Flächen zugrunde?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Auftrag der zuständigen Behörde wurde durch einen ausgewiesenen Schmetterlingsexperten ein Monitoringkonzept entwickelt (siehe www.hamburg.de/naturschutz/). Die Auswahl der Monitoringflächen erfolgte nach folgenden Kriterien:
 

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 14
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51134"
@@ -71,11 +72,11 @@ Gemeinsam verfolgen die Kooperationspartner das Ziel, allen Kindern und Jugendli
 
 Bei den Angeboten gemäß Rahmenvereinbarung werden zwei Modelle unterschieden:
 
- Modell I ist ein in der Regelschule integriertes und individualisiertes temporäres
+– Modell I ist ein in der Regelschule integriertes und individualisiertes temporäres
 
 Unterstützungsangebot für acht bis zehn Kinder und Jugendliche aus einer oder mehreren Schulen. Nach diesem Modell werden Angebote für insgesamt circa 300 Kinder und Jugendliche realisiert, die noch in ihrer Schule erreicht werden können.
 
- Modell II ist ein temporäres Lerngruppenangebot für sechs Kinder und Jugendliche
+– Modell II ist ein temporäres Lerngruppenangebot für sechs Kinder und Jugendliche
 
 aus mehreren Schulen in einem ReBBZ mit anschließender etwa einjähriger (Re-) Integrationsphase in ihre Stammschule beziehungsweise in eine neue Zielschule. Insgesamt gibt es solche Angebote für circa 100 Kinder und Jugendliche mit manifestierten Störungsbildern und gravierenden multiplen sozialen Problemlagen, die zunächst ein Lernangebot außerhalb ihrer Stammschule benötigen.
 
@@ -95,7 +96,7 @@ Wie viele Fallkonferenzen zu „Auszeiten“ hat es ab dem Schuljahr 2011/ 2012 
 
 Wie viele Schülerinnen und Schüler haben das „Auszeit“-Modell jeweils in den Schuljahren 2011/2012, 2012/2013, 2013/2014, 2014/2015 in Anspruch genommen? Bitte absolute Zahlen nennen für Schülerinnen und Schüler insgesamt sowie für die mit einer „Auszeit“ ab dem Schuljahr 2011/2012 nach Schuljahrgangsstufe.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Pro Schülerin beziehungsweise Schüler, die beziehungsweise der das „Auszeit“- Modell in Anspruch nimmt, sind jeweils zwei Fallkonferenzen zu veranschlagen. Für die Anzahl der Schülerinnen und Schüler im „Auszeit“-Modell und die entsprechenden Fallkonferenzen siehe folgende Tabelle:
 
@@ -254,17 +255,17 @@ In einer Evaluation der Bundeswehrhochschule zu der 1. Kohorte ist das „Auszei
 
 #### Antwort zu Frage 11
 
- hoher bürokratischer Aufwand,
+– hoher bürokratischer Aufwand,
 
- drei Monate „Auszeit“ sind zu kurz,
+– drei Monate „Auszeit“ sind zu kurz,
 
- Einstieg mitten im Schuljahr ist kontraproduktiv,
+– Einstieg mitten im Schuljahr ist kontraproduktiv,
 
- Eingliederung in die Stammschule nach „Auszeit“ oftmals nicht mög-
+– Eingliederung in die Stammschule nach „Auszeit“ oftmals nicht mög-
 
 lich,
 
- fehlende Verzahnung von Stammschule und Produktionsschule.
+– fehlende Verzahnung von Stammschule und Produktionsschule.
 
 Wie beurteilt der Senat beziehungsweise wie beurteilen die zuständigen Behörden die oben genannten Kritikpunkte? Ist bisher etwas unternommen worden, um die genannten Problem anzugehen?
 
@@ -320,9 +321,9 @@ Das „Auszeit“-Modell für Schülerinnen und Schüler aus den Stadtteilschule
 
 Ansprechpartner sind:
 
- für Produktionsschulen im Amt W : xxxxxxxxxx (W 114)
+– für Produktionsschulen im Amt W : xxxxxxxxxx (W 114)
 
- für die Stadtteilschulen im Amt B: xxxxxxxxxxxxxxx (B 2)
+– für die Stadtteilschulen im Amt B: xxxxxxxxxxxxxxx (B 2)
 
 Der Kostensatz pro Platz/ Monat beträgt 599 Euro (Laufzeit: 01.08.2015 – 31.07.2016) – aufgeteilt in einen „Sockelbetrag“ von 449 Euro pro Monat/ pro Platz (Sperrung von Lehrerstellen) sowie einen
 
@@ -332,27 +333,27 @@ platzbezogenen Beitrag von 150 Euro pro Platz/ pro Monat (Eigenanteil der jeweil
 
 Die „Sockelfinanzierung“ soll weiterhin als Festbetrag finanziert werden und dient der qualifizierten pädagogischen Betreuung der Auszeit-Schüler/innen.
 
- Die Produktionsschule hält das zur Betreuung der „Auszeit“-Schüler/innen notwendige zusätzliche Personal vor.
+– Die Produktionsschule hält das zur Betreuung der „Auszeit“-Schüler/innen notwendige zusätzliche Personal vor.
 
- Je Produktionsschule werden als „Sockelfinanzierung“ insgesamt 2.245 Euro monatlich zum
+– Je Produktionsschule werden als „Sockelfinanzierung“ insgesamt 2.245 Euro monatlich zum
 15. eines jeden Monates gezahlt, für insgesamt 12 Monate(Laufzeit: 01.08.2015 – 31.07.2016).
 
- Damit wird den Produktionsschulen eine verlässliche Personalplanung ermöglicht.
+– Damit wird den Produktionsschulen eine verlässliche Personalplanung ermöglicht.
 
- Die Produktionsschule stellt eine formlose Einzelrechnung an die Behörde für Schule und Berufsbildung (BSB), Postleitzahl 22222. Als Adressat ist das Leitzeichen „V2411“ anzugeben. Die Rechnungen müssen die Voraussetzungen des § 14 Absatz 2 UStG erfüllen.
+– Die Produktionsschule stellt eine formlose Einzelrechnung an die Behörde für Schule und Berufsbildung (BSB), Postleitzahl 22222. Als Adressat ist das Leitzeichen „V2411“ anzugeben. Die Rechnungen müssen die Voraussetzungen des § 14 Absatz 2 UStG erfüllen.
 
 Der platzbezogene Beitrag in Höhe von 150 Euro pro Schüler/in erfolgt belegungsabhängig.
 
- Die Jugendberufsagentur (Datenmanagement und Zentrales Schülerregister: HI 16-34,
+– Die Jugendberufsagentur (Datenmanagement und Zentrales Schülerregister: HI 16-34,
 xxxxxxxxxx) ist über die Teilnahme des/ der Schüler/in im „Auszeit“-Modell umgehend zu informieren.
 
- Die zuständige Fachaufsicht (W114) erhält zum Monatsende eine fortzuschreibende Liste mit Name, Geburtsdatum, Stammschule, Datum der Fallkonferenz, Datum des Eintritts, Datum des geplanten Austritts und Datum des tatsächlichen Austritts.
+– Die zuständige Fachaufsicht (W114) erhält zum Monatsende eine fortzuschreibende Liste mit Name, Geburtsdatum, Stammschule, Datum der Fallkonferenz, Datum des Eintritts, Datum des geplanten Austritts und Datum des tatsächlichen Austritts.
 
- Verlässt ein/e Schüler/in das „Auszeit“-Modell vorzeitig, erfolgt eine umgehende Information an HI 16-34.
+– Verlässt ein/e Schüler/in das „Auszeit“-Modell vorzeitig, erfolgt eine umgehende Information an HI 16-34.
 
- Die Schülerinnen und Schüler, die die „Auszeit“ nutzen, sind in der Teilnehmerdatenbank ichblickdurch.de – anonymisiert – zu führen. Das Sekretariat für Kooperation (SfK) muss bei der Anmeldung der betreffenden Teilnehmerin/ des betreffenden Teilnehmers auf den Status „Auszeit“ hingewiesen werden. Die Verantwortung hierfür liegt bei der Produktionsschule.
+– Die Schülerinnen und Schüler, die die „Auszeit“ nutzen, sind in der Teilnehmerdatenbank ichblickdurch.de – anonymisiert – zu führen. Das Sekretariat für Kooperation (SfK) muss bei der Anmeldung der betreffenden Teilnehmerin/ des betreffenden Teilnehmers auf den Status „Auszeit“ hingewiesen werden. Die Verantwortung hierfür liegt bei der Produktionsschule.
 
- Die Produktionsschulen stellen zur Begleichung des platzbezogenen Beitrags direkt an die Stadtteilschule formlos eine Rechnung. Adressat ist die jeweilige Stadtteilschule (Stammschule) des/ der jeweiligen Schülers/ Schülerin, der/ die am „Auszeit“-Modell teilnimmt. Die Rechnungen müssen die Voraussetzungen des § 14 Absatz 2 UStG erfüllen.
+– Die Produktionsschulen stellen zur Begleichung des platzbezogenen Beitrags direkt an die Stadtteilschule formlos eine Rechnung. Adressat ist die jeweilige Stadtteilschule (Stammschule) des/ der jeweiligen Schülers/ Schülerin, der/ die am „Auszeit“-Modell teilnimmt. Die Rechnungen müssen die Voraussetzungen des § 14 Absatz 2 UStG erfüllen.
 
 B2/ W 114 „Auszeit“ (01.08.2015 – 31.07.2016)
 

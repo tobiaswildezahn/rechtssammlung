@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 17
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6140"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54814"
@@ -77,7 +78,7 @@ Auf welche Weise werden die Bezirke in die besagten Prüfungen bisher miteingebu
 
 Beabsichtigt der Senat in Hinblick auf die zur Umsetzung empfohlenen Flächen in die Planungshoheit der Bezirke einzugreifen beziehungsweise von seinem Weisungsrecht Gebrauch zu machen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Zentrale Koordinierungsstab Flüchtlinge (ZKF) hat innerhalb einer 14-tägigen Prüffrist zu jeder Fläche eine fachliche Ersteinschätzung erstellt, in die Beiträge der jeweiligen Bezirke eingeflossen sind.
 
@@ -91,7 +92,7 @@ Werden Bedenken und Einwände der Anwohner im Rahmen des Prüfungsverfahrens ber
 
 Sind Bürgerinitiativen, ortsansässige Vereine, Schulen und Kitas und so weiter am Prüfungsprozess beteiligt beziehungsweise wurden diese bei den bereits vorgeschlagenen Flächen zuvor befragt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Bei dem Projekt FindingPlaces handelt es sich um einen offenen Diskussionsprozess, an dem alle Interessierten – auch Bürgerinitiativen und so weiter – teilnehmen konnten. Aus diesem Grund erhielt das Projekt im Vorwege umfangreiche Medienresonanz in Print, Funk und Fernsehen auf Grundlage der Pressemitteilung und Pressekonferenz vom 11. Mai 2016 durch Veröffentlichungen beziehungsweise Ausstrahlungen mit Hinweis zu den Workshops. Der Prüfungsprozess umfasst fachliche Gesichtspunkte und bindet die für die Themen Schule und Kita zuständigen Fachbehörden mit ein. Eine Einbindung der lokalen Netzwerkpartner (Vereine et cetera) ist dann sinnvoll, wenn konkrete Planungen vorliegen. Im Verlauf der Prüfungen wurden die vorgeschlagenen Flächen mit den Inhalten der abgeschlossenen Bürgerverträge und (Teil-) Verständigungen abgeglichen und zu einzelnen Flächen Gespräche mit Anwohnern geführt, aus denen weitere Prüfungen resultieren wie zum Beispiel bei der Fläche Rönneburger Stieg.
 
@@ -103,7 +104,7 @@ Welche Fortschritte wurden seit Veröffentlichung der Ergebnisse bereits erzielt
 
 Welchen konkreten Planungsstand gibt es zum jetzigen Zeitpunkt beim ZKF beziehungsweise beim Bezirk für die Fläche Moorkamp/Landesinstitut für Lehrerbildung? Sollen dort Container aufgestellt werden oder Wohnungsbau gegebenenfalls mit Perspektive Wohnen erfolgen? Soll dort im Drittel-Mix gebaut werden? Wie ist konkret der weitere Verfahrensablauf für diese Fläche?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Antwort zu 1. bis 3. Darüber hinaus sind die Planungen noch nicht abgeschlossen.
 

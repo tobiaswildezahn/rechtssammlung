@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11767"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61160"
@@ -53,7 +54,7 @@ Wie viele Diebstähle von Fahrrädern (inklusive Pedelecs) im Alstertal und in d
 
 Wie viele Diebstähle von Fahrrädern (inklusive Pedelecs) im Alstertal und in den Walddörfern wurden in den Jahren 2011 – 2016 erfasst und wie viele dieser Fälle konnten aufgeklärt werden? Bitte jahresweise nach Stadtteilen aufschlüsseln und für das Alstertal und die Walddörfer gesamt angeben sowie die absolute Zahl der aufgeklärten Fälle und den Wert der Aufklärungsquote angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In der Polizeilichen Kriminalstatistik (PKS) erfolgt die Erfassung von Diebstählen von Fahrrädern und Pedelecs einschließlich unbefugter Ingebrauchnahme unter dem PKS-Straftatenschlüssel ***3**.
 
@@ -69,6 +70,6 @@ Wie viele Diebstähle von E-Bikes im Alstertal und in den Walddörfern wurden 20
 
 Wie viele Diebstähle von E-Bikes im Alstertal und in den Walddörfern wurden in den Jahren 2011 – 2016 erfasst und wie viele dieser Fälle konnten aufgeklärt werden? Bitte jahresweise nach Stadtteilen aufschlüsseln und für das Alstertal und die Walddörfer gesamt angeben sowie die absolute Zahl der aufgeklärten Fälle und den Wert der Aufklärungsquote angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/11767.

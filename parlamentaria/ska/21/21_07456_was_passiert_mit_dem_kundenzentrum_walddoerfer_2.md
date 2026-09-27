@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 51319
 seiten: 3
 fragen: 6
-einzelfragen: 10
-antwortbloecke: 4
+einzelfragen: 18
+antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3934", "21/7000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56071"
@@ -66,36 +67,64 @@ Gespräche oder Besichtigungstermine mit der Sprinkenhof oder möglichen Mietint
 ### Frage 5
 
 In der Drs. 21/3934 hatte der Senat die Personalkosten sowie die geleisteten Geschäftsvorfälle der einzelnen Kundenzentren angegeben.
-5.1. Liegt inzwischen eine abschließende Bewertung dieser Daten vor? Wenn ja, mit welchem Ergebnis?
 
-#### Antwort zu Frage 5
+### Frage 5.1
+
+Liegt inzwischen eine abschließende Bewertung dieser Daten vor? Wenn ja, mit welchem Ergebnis?
+
+#### Antwort zu Fragen 5 und 5.1
 
 Die Untersuchungen beziehungsweise die Auswertung der erhobenen Daten sind noch nicht abgeschlossen.
 
-5.2. Warum wird in den Fußnoten zur Darstellung in Drs. 21/3934 lediglich auf die temporäre Schließung des Kundenzentrums Wilhelmsburg verwiesen, nicht aber auf die neunwöchige Schließung des Kundenzentrums Walddörfer im Jahr 2015?
+### Frage 5.2
+
+Warum wird in den Fußnoten zur Darstellung in Drs. 21/3934 lediglich auf die temporäre Schließung des Kundenzentrums Wilhelmsburg verwiesen, nicht aber auf die neunwöchige Schließung des Kundenzentrums Walddörfer im Jahr 2015?
+
+#### Antwort zu Frage 5.2
 
 Die Anlage der Drs. 21/3934 bezieht sich auf Personalkosten. Während der temporären Schließung des Kundenzentrums Walddörfer im Jahr 2015 wurde das Personal in den anderen Kundenzentren des Bezirksamtes Wandsbek eingesetzt, sodass die Personalkosten unverändert blieben. Das Personal des Bezirksamtes Hamburg-Mitte ist während der Schließung des Kundenzentrums Wilhelmsburg in verschiedenen Bezirksämtern eingesetzt worden.
 
-5.3. Wie waren die Personalkosten (einschließlich Verwaltungsgemeinkostenzuschlag) sowie die Anzahl der Geschäftsvorfälle in den einzelnen Kundenzentren im Jahr 2016?
+### Frage 5.3
+
+Wie waren die Personalkosten (einschließlich Verwaltungsgemeinkostenzuschlag) sowie die Anzahl der Geschäftsvorfälle in den einzelnen Kundenzentren im Jahr 2016?
+
+#### Antwort zu Frage 5.3
 
 Siehe Anlage.
 
-5.4. Ist es zutreffend, dass die angegebenen Personalkosten für das Kundenzentrum Walddörfer auch die Kosten während der neunwöchigen Schließung enthalten, in denen das Personal an anderen Standorten eingesetzt wurde? Halten der Senat und die zuständigen Stellen dies für sachgerecht? Wie hoch sind die um diesen Effekt bereinigten Personalkosten für das Kundenzentrum Walddörfer in den Jahren 2015 und 2016?
+### Frage 5.4
+
+Ist es zutreffend, dass die angegebenen Personalkosten für das Kundenzentrum Walddörfer auch die Kosten während der neunwöchigen Schließung enthalten, in denen das Personal an anderen Standorten eingesetzt wurde? Halten der Senat und die zuständigen Stellen dies für sachgerecht? Wie hoch sind die um diesen Effekt bereinigten Personalkosten für das Kundenzentrum Walddörfer in den Jahren 2015 und 2016?
+
+#### Antwort zu Frage 5.4
 
 Ja, siehe Antwort zu 5.2. Die kalkulatorischen Jahrespersonalkosten im Kundenzentrum Walddörfer gemindert um die Schließungszeit betrugen im Jahr 2015 204.661 Euro und im Jahr 2016 209.902 Euro.
 
-5.5. Ist es zutreffend, dass die angegebenen Personalkosten für das Kundenzentrum Walddörfer auch die Kosten für die Leitung des Kundenzentrums Alstertal enthalten? Halten der Senat und die zuständigen Stellen dies für sachgerecht? Wie hoch sind die um diesen Effekt bereinigten Personalkosten für das Kundenzentrum Walddörfer in den Jahren 2014 bis 2016?
+### Frage 5.5
+
+Ist es zutreffend, dass die angegebenen Personalkosten für das Kundenzentrum Walddörfer auch die Kosten für die Leitung des Kundenzentrums Alstertal enthalten? Halten der Senat und die zuständigen Stellen dies für sachgerecht? Wie hoch sind die um diesen Effekt bereinigten Personalkosten für das Kundenzentrum Walddörfer in den Jahren 2014 bis 2016?
+
+#### Antwort zu Frage 5.5
 
 Nein. Im Übrigen: entfällt.
 
 ### Frage 6
 
 Im Rahmen der Haushaltsberatungen hatte der Senat ausgeführt, dass im Zuge der Überlegungen zur Zukunft der Kundenzentren im Oktober 2016 erste Untersuchungsergebnisse der Kasse.Hamburg vorliegen sollen (siehe Drs. 21/7000, Band 1, Seite 40).
-6.1. Welche Auswertungen und Untersuchungsergebnisse liegen im Einzelnen inzwischen vor?
-6.2. Welche Bewertungen und Schlussfolgerungen ergeben sich aus Sicht des Senats sowie der zuständigen Behörden daraus?
-6.3. Wie ist der weitere Zeitplan der Untersuchung? Wann wird mit einem entsprechenden Ergebnis gerechnet?
 
-#### Antwort zu Frage 6
+### Frage 6.1
+
+Welche Auswertungen und Untersuchungsergebnisse liegen im Einzelnen inzwischen vor?
+
+### Frage 6.2
+
+Welche Bewertungen und Schlussfolgerungen ergeben sich aus Sicht des Senats sowie der zuständigen Behörden daraus?
+
+### Frage 6.3
+
+Wie ist der weitere Zeitplan der Untersuchung? Wann wird mit einem entsprechenden Ergebnis gerechnet?
+
+#### Antwort zu Fragen 6, 6.1, 6.2 und 6.3
 
 Siehe Antworten zu 5.
 

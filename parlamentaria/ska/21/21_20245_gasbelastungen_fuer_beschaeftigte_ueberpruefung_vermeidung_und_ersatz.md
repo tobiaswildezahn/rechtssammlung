@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19518"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70045"
@@ -110,7 +111,7 @@ Welche Aktivitäten entwickelt wer in der Freien und Hansestadt Hamburg um Arbei
 
 Für Container, die aktiv begast werden, um Schädlinge zu bekämpfen, gelten strikte Regeln. Welche Maßnahmen ergreifen Hamburger Arbeitsschutzbehörden zum Schutz der Beschäftigten vor potenziell schadstoffbelasteten Containern in der Freien und Hansestadt Hamburg?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Zum Schutz von Beschäftigten der FHH, die an Import-Containern tätig werden, berücksichtigen die jeweiligen Dienststellen als Arbeitgeber derartige Tätigkeiten in der Gefährdungsbeurteilung und treffen die für den Arbeitsschutz erforderlichen Maßnahmen (siehe Vorbemerkung). Hierdurch soll – im Sinne der Fragestellung – gewährleistet werden, dass an Import-Containern tätige Beschäftigte der FHH über möglicherweise auftretende Gefahrstoffe informiert sind und dass ihre Exposition gegenüber derartigen Gefahrstoffen soweit wie möglich ausgeschlossen wird.
 

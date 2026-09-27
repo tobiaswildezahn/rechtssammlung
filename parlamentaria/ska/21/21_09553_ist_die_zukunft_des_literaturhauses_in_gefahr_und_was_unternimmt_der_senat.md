@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9447"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58382"
@@ -329,6 +330,6 @@ Gab es bereits Gespräche des Senats beziehungsweise der zuständigen Behörde m
 
 Welche Maßnahmen kann sich die zuständige Behörde vorstellen zu ergreifen, um den steten Kaufkraftverlust der Förderung aufzuhalten beziehungsweise die Kostensteigerungen zukünftig bei der Förderung zu berücksichtigen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.

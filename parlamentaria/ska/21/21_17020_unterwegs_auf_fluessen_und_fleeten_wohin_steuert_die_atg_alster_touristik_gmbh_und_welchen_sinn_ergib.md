@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 19
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66582"
@@ -164,7 +165,7 @@ In welcher Höhe wurden seit 2011 entweder Gewinne von der ATG an die HOCHBAHN a
 
 Wie hat sich der Kostendeckungsgrad der ATG seit 2011 entwickelt? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Siehe Vorbemerkung.
 

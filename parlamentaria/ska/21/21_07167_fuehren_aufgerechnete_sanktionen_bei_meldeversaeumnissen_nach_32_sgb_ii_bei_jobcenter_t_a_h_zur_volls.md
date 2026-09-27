@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 22
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55776"
@@ -64,7 +65,7 @@ für Arbeit hinterlegt?
 Wenn ja, seit wann?  
 Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Alle Beschäftigten von Jobcenter und der Agentur haben die Möglichkeit, Entscheidungen des Bundessozialgerichts über die Verknüpfung http://www.bsg.bund.de/DE/ Home/home_node.html im Intranet der Bundesagentur für Arbeit einzusehen.
 
@@ -87,7 +88,7 @@ Gibt es bei Jobcenter t.a.h. eine Gegenkontrolle beim Erlass einer Sanktionsverf
 
 Gibt es bei Jobcenter t.a.h. eine Gegenkontrolle, wenn Sanktionen nach §§ 31, 32 SGB II durch die Integrationsfachkraft wieder aufgehoben werden? Wenn ja, durch wen und wie ist der Ablauf?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe hierzu die Fachlichen Weisungen der Bundesagentur für Arbeit zu § 31, 31a, 31b Sanktionen bei Pflichtverletzungen unter dem Link:
 
@@ -111,7 +112,7 @@ Wie viele Sanktionen nach § 32 SGB II hat Jobcenter t.a.h. seit 2015 bis heute 
 
 In wie vielen Fällen wurden Leistungskürzungen nach § 32 SGB II im Jahr 2015 und bis heute (in absoluten, Prozentzahlen, Alters- und Personengruppen) jeweils wieder zurückgenommen und was war der Anlass hierfür?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Es erfolgt durch den Statistik-Service der Bundesagentur für Arbeit keine Auswertung im Sinne der Fragestellung. Im Übrigen siehe hierzu die öffentlich zugänglichen Auswertungen des Statistik-Service der Bundesagentur für Arbeit zu „Sanktionen“ unter dem Link: https://statistik.arbeitsagentur.de/Navigation/Statistik/Statistik-nach- Themen/Grundsicherung-fuer-Arbeitsuchende-SGBII/Sanktionen-Widersprueche- Klagen/Sanktionen-Widersprueche-Klagen-Nav.html.
 
@@ -123,6 +124,6 @@ Welche Auffassung vertritt der Senat, wenn durch aufgerechnete Sanktionen jeweil
 
 Welche Auffassung vertritt der Senat, wenn durch aufgerechnete Sanktionen jeweils nach § 31, § 32 und im Mischverhältnis das physische Existenzminimum unterschritten wird?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe BR.-Drs. 66/16. Im Übrigen hat sich der Senat nicht befasst.

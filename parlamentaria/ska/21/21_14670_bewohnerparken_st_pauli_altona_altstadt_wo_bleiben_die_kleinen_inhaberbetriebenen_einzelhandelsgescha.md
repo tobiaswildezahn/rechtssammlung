@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14353", "20/7125", "21/14562"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64110"
@@ -49,15 +50,15 @@ Die Fragen 1. a. bis 1. c. der Drs. 21/14353 wurden vom Senat nicht beantwortet.
 
 #### Antwort zu Frage 1
 
- Anlieferung von Ware vor Geschäftsöffnung im Firmenfahrzeug,
+– Anlieferung von Ware vor Geschäftsöffnung im Firmenfahrzeug,
 
- Lagerung von Ware tagsüber im Firmenahrzeug, bis sie im
+– Lagerung von Ware tagsüber im Firmenahrzeug, bis sie im
 
 Ladengeschäft gebraucht werden beziehungsweise Platz vorhanden ist,
 
- verschiedentlichen Auslieferungsfahrten von Waren am Tage,
+– verschiedentlichen Auslieferungsfahrten von Waren am Tage,
 
- mit Abtransport von Ware nach Geschäftsschluss
+– mit Abtransport von Ware nach Geschäftsschluss
 
 ein wichtiges Kriterium oder gar alleiniges Kriterium für eine Ausnahmegenehmigung sein?
 
@@ -104,7 +105,7 @@ bei Teilabschnitten Straßenname mit Hausnummern) angeben.
 
 Auch diese Frage wurde nicht konkret beantwortet, deshalb jetzt erneut: Auf welcher Grundlage (zum Beispiel Umsatz, Gewinn, Steuern, …) wird beurteilt, ob die Anmietung eines Kfz-Stellplatzes zumutbar ist?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Möglichkeit der Anmietung eines in zumutbarer Entfernung freien Stellplatzes schließt die Erteilung einer Ausnahmegenehmigung grundsätzlich aus. Wirtschaftliche Gründe finden im Rahmen der Prüfung keine Berücksichtigung. Im Übrigen siehe Drs. 21/14353.
 
@@ -190,7 +191,7 @@ Wie viele Anträge auf Ausnahmegenehmigung von inhaberbetriebenen Einzelhandelsg
 
 Wie viele Widerspruchsverfahren gegen abgelehnte Ausnahmegenehmigungen gibt es dort bisher?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Keine.
 

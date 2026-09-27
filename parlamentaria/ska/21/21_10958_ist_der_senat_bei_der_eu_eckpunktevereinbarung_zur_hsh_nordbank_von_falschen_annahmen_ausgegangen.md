@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 54773
 seiten: 3
 fragen: 7
-einzelfragen: 10
-antwortbloecke: 4
+einzelfragen: 12
+antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2177", "21/769", "18/5080"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59887"
@@ -79,22 +80,31 @@ Seit wann genau sind jeweils dem Senat, der zuständigen Fachbehörde sowie dem 
 
 Seit wann genau sind jeweils dem Senat, der zuständigen Fachbehörde sowie dem für Finanzen zuständigen Senatsmitglied bekannt, dass die voraussichtliche Garantieinanspruchnahme bei mehr als 7 Milliarden Euro liegt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die voraussichtliche Inanspruchnahme aus der Garantie hat sich nach den Prognosen der HSH seit der Übernahme der Garantie durch die Länder im Jahr 2009 fortlaufend erhöht. Die entsprechenden Prognosen wurden den Parlamenten beziehungsweise deren zuständigen Ausschüssen jeweils zeitnah berichtet und von der HSH in ihrer regelmäßigen Finanzberichterstattung veröffentlicht. Eine Inanspruchnahme von über 7 Milliarden Euro hat die HSH erstmalig im Juni 2016 prognostiziert, der Finanzbehörde und damit dem zuständigen Senatsmitglied anschließend im Rahmen der laufenden Unterrichtung zur Kenntnis gegeben und im August 2016 im Rahmen der Finanzberichterstattung veröffentlicht.
 
 ### Frage 7
 
 In der Sitzung des Haushaltsausschusses am 4.12.2015 hatte der Finanzsenator ausgeführt, dass die Gewährträgerhaftung „derzeit 12 Milliarden Euro“ beträgt und mit dem Jahresende 2015 auf dann „2,5 bis 3 Milliarden Euro“ zurückgeht. Laut der Antwort der Schleswig- Holsteinischen Landesregierung auf eine Anfrage des Abgeordneten Wolfgang Kubicki (Drs. 18/5080 des Schleswig-Holsteinischen Landtags) lag die Höhe der Gewährträgerhaftung am 30.11.2015 jedoch bereits nur noch bei 10,5 Milliarden Euro, bevor sie sich mit dem 31.12.2015 auf 2,6 Milliarden Euro reduziert hat. Demnach hat sich die Gewährträgerhaftung Ende 2015 nicht, wie vom Senat dargestellt, um 10 Milliarden Euro, sondern lediglich um 8 Milliarden Euro verringert.
-7.1. Hat der Finanzsenator den Haushaltsausschuss am 4.12.2015 zutreffend über die Höhe der Gewährträgerhaftung für die HSH Nordbank zu diesem Zeitpunkt und die Verringerung der Gewährträgerhaftung zum Jahresende 2015 informiert? Wenn nein, warum nicht?
 
-#### Antwort zu Frage 7
+### Frage 7.1
+
+Hat der Finanzsenator den Haushaltsausschuss am 4.12.2015 zutreffend über die Höhe der Gewährträgerhaftung für die HSH Nordbank zu diesem Zeitpunkt und die Verringerung der Gewährträgerhaftung zum Jahresende 2015 informiert? Wenn nein, warum nicht?
+
+#### Antwort zu Fragen 7 und 7.1
 
 Ja. Siehe Vorbemerkung.
 
-7.2. Wie hoch war die Gewährträgerhaftung für die HSH Nordbank jeweils am 30.09.2015, am 31.10.2015, am 30.11.2015 sowie am
+### Frage 7.2
+
+Wie hoch war die Gewährträgerhaftung für die HSH Nordbank jeweils am 30.09.2015, am 31.10.2015, am 30.11.2015 sowie am
 31.12.2015?
 
-7.3. Welche genaue Kenntnis und welche Annahmen hatte die Finanzbehörde zum Stand und zur Entwicklung der Gewährträgerhaftung bei der Entscheidung zur EU-Eckpunktevereinbarung und der anschließenden Erstellung, Beratung und Beschlussfassung der Drs. 21/2177?
+### Frage 7.3
+
+Welche genaue Kenntnis und welche Annahmen hatte die Finanzbehörde zum Stand und zur Entwicklung der Gewährträgerhaftung bei der Entscheidung zur EU-Eckpunktevereinbarung und der anschließenden Erstellung, Beratung und Beschlussfassung der Drs. 21/2177?
+
+#### Antwort zu Fragen 7.2 und 7.3
 
 12,4 Milliarden Euro am 30. September 2015, 11,1 Milliarden Euro am 31. Oktober 2015, 10,6 Milliarden Euro am 30. November 2015 und 2,6 Milliarden Euro am 31. Dezember 2015. Im Übrigen siehe Vorbemerkung und Antworten zu 1. bis 4.

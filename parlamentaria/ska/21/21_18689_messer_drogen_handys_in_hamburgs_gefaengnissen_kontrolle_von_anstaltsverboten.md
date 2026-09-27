@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/276", "21/358", "21/5544", "21/7245", "21/10391", "21/12121", "21/16068", "21/16608"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68359"
@@ -90,7 +91,7 @@ Auf welche Weise wird gewährleistet, dass Personen, denen gegenüber ein Anstal
 
 Haben die Mitarbeiter an den Pforten in allen JVA Kenntnis darüber, gegen welche Personen ein Anstaltsverbot ausgesprochen wurde? Falls ja, wie wird das sichergestellt? Falls nein, weshalb nicht und wie sollen sie dann dafür sorgen, dass die Person die Anstalt nicht betritt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Alle verantwortlichen Mitarbeiterinnen und Mitarbeiter an allen Pforten und Toren in allen Justizvollzugsanstalten sind durch die Nutzung der entsprechenden Module des Datenverarbeitungsverfahrens BasisWeb zu bestehenden Anstaltsverboten informiert.
 

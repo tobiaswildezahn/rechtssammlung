@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1330", "20/13636"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49669"
@@ -45,7 +46,7 @@ Warum ist vom Schuljahr 2013/2014 zum Schuljahr 2014/2015 in allen Jahrgangsstuf
 
 Warum ist die Anzahl der Kinder mit additiver Sprachförderung in den Jahrgangsstufen 2, 3 und 4 jeweils ungefähr doppelt so hoch wie in der Jahrgangsstufe 1? Warum wird offenbar der Sprachförderbedarf erst in der ersten Klasse festgestellt und erst ab der zweiten Klasse erfüllt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Angaben zum festgestellten Sprachförderbedarf der Viereinhalbjährigen und zur Sprachförderung in den Jahrgangsstufen 1 bis 4 der Grundschulen stammen aus unterschiedlichen Datenquellen (Viereinhalbjährige: Protokollbögen der Vorstellungsgespräche; Jahrgangsstufe 1 bis 4: Schuljahresstatistik). Der Stichtag der Erhebung für die Schuljahresstatistik liegt zu einem frühen Zeitpunkt im Schuljahr, sodass davon auszugehen ist, dass noch nicht alle Sprachförderdiagnosen abgeschlossen und alle Förderbedarfe vollständig dokumentiert sind. Dies trifft insbesondere für die neu eingeschulten Kinder in der Jahrgangsstufe 1 zu.
 

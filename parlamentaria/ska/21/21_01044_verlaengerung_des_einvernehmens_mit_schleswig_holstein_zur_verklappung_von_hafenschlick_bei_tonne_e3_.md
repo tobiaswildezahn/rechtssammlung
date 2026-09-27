@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/910", "20/13706", "21/389"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49215"
@@ -121,7 +122,7 @@ Aufgrund der fehlenden Monitoringberichte für 2013 und 2014 können zusätzlich
 
 Für die Veröffentlichung des Monitoringberichts zu E3 für das Jahr 2013 standen laut Drs. 20/13706 von Ende November 2014 noch „die letzten Ergebnisse“ aus. Der ausstehende bereits für den Frühsommer 2014 erwartete Bericht ist Stand 09.07.2015 weiterhin nicht veröffentlicht. a. Warum? b. Wann ist mit einer Veröffentlichung des überfälligen Monitoringberichtes 2013 zu rechnen? c. Wann ist mit der Veröffentlichung des für diese Tage erwarteten Monitoringberichts 2014 zu rechnen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der Monitoringbericht 2013 befindet sich derzeit zur Prüfung im MELUR. Die Daten für den Monitoringbericht 2014 liegen nicht abschließend vor. Im Jahr 2013 wurde kein Baggergut zur Tonne E3 verbracht. Im Jahr 2014 wurden 992.503 m (Laderaumvolumen) zur Tonne E3 verbracht. Die Obergrenze von 6,5 Millionen m aus dem Einvernehmen des Jahres 2008, einschließlich Verlängerung, ist damit noch um rund 3,5 Millionen m (Laderaumvolumen) unterschritten. Die Veröffentlichungstermine für die Berichte stehen derzeit noch nicht fest.
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 27
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62109"
@@ -319,7 +320,7 @@ Wie beurteilt der Senat die derzeitige Verkehrssituation in Finkenwerder?
 
 Auf welcher Grundlage erfolgt die Beurteilung? Gibt es ein integriertes Entwicklungskonzept für Finkenwerder, in dem insbesondere die baulichen Nutzungen und die verkehrlichen Aspekte miteinander abgeglichen und in Bezug gesetzt werden oder ist etwas Derartiges gegebenenfalls in Aufstellung begriffen? Wenn ja, bitte über den Inhalt ausführlich berichten oder angeben, wo es einsehbar ist. Wenn nein: betrachtet der Senat es nicht angesichts der verkehrlichen Probleme für erforderlich?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Das Ziel, die Ortsdurchfahrt Finkenwerder von Durchgangsverkehr zu entlasten, ist aus der Sicht der zuständigen Behörde durch den Bau der Umgehung Finkenwerder in vollem Umfang erreicht worden.
 

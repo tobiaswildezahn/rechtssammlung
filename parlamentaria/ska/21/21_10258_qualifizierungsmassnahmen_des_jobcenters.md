@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59098"
@@ -57,7 +58,7 @@ Wie viele Angebote für unterschiedliche Qualifizierungsmaßnahmen mit dem Ziel 
 
 Wie viele Personen nahmen im Jahr 2017 an unterschiedlichen Qualifizierungsmaßnahmen mit dem Ziel der Vermeidung, Verminderung, Verkürzung und Beseitigung der Hilfsbedürftigkeit durch Erwerbstätigkeit teil, welche aus Mitteln des ESF und/oder der Produktgruppe 25502 Arbeitsmarktpolitik finanziert wurden? (Bitte nach Monat und Art des qualifizierenden Abschlusses aufschlüsseln.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Daten zu den Ausbildungsprogrammen des HIBB finden sich in nachstehender Tabelle. Die Angaben beziehen sich auf bereits vollständig abgeschlossene Ausbildungsmaßnahmen. Bei bis zu 3,5-jähriger Ausbildungsdauer und inklusive möglicher Nachlernzeiten sind Ausbildungsmaßnahmen erst fünf Jahre nach Ausbildungsbeginn vollständig abgeschlossen und damit auswertbar.
 

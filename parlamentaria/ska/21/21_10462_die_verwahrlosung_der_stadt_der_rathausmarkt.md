@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9727"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59336"
@@ -59,7 +60,7 @@ Aktuell sind zahlreiche Steinplatten zerbrochen, teilweise Pflastersteine heraus
 
 Hält der Senat angesichts der oben geschilderten Mängelliste die derzeitigen Unterhaltungsmaßnahmen auf der Platzfläche für ausreichend und wie wird dies begründet?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Schäden beruhen auf einer hohen Anzahl an Veranstaltungen auf dem Rathausmarkt und werden schnellstmöglich beseitigt. Das Bezirksamt Hamburg-Mitte hat in diesem Jahr rund 80.000 Euro für die Unterhaltung des Rathausplatzes aufgewendet und Gefahrenstellen sowie optische Mängel beseitigt.
 

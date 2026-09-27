@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5143"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59051"
@@ -47,7 +48,7 @@ Wie schätzt der Senat die Situation im Bereich des Hansaplatzes in Bezug auf di
 
 Was genau plant der Senat nun an Verbesserungen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die SRH plant zur Verbesserung der Situation am Hansaplatz in Abstimmung mit den zuständigen Behörden und dem zuständigen Bezirksamt im Bereich des Hansaplatzes eine öffentliche WC-Anlage mit einer barrierefreien (verschließbaren) Unisex- Kabine und automatischer Reinigungstechnik sowie einem separaten Urinal. Darüber hinaus soll die Anlage, wie bei den neuen SRH-Automatiktoiletten üblich, mit einer Fahrraddruckluftstation und einem Wasserspender an der Außenfassade ausgestattet werden. Weiterhin soll das auf dem Hansaplatz vorhandene Urinal saniert und als zusätzliches Angebot weiterbetrieben werden. Dazu wird die Urinalrinne erneuert und mit einem Geruchsverschluss versehen sowie der Boden ausgetauscht und versiegelt, um die Geruchsbelästigung zu reduzieren.
 

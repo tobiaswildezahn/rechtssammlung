@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68128"
@@ -107,7 +108,7 @@ Wann wird die Genehmigung für die Fernwärmeleitung vom ZRE zum Fernwärmenetz 
 
 In welchem Zeitraum soll sie gebaut werden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Sofern die geplante Leitung einer Trassenzuweisung nach dem Hamburger Wegegesetz bedarf, müsste diese beim zuständigen Bezirksamt beantragt werden. Sollte die Leitung einer Plangenehmigung bedürfen, müsste diese bei der zuständigen Fachbehörde beantragt werden.
 
@@ -129,7 +130,7 @@ Welche Mindestabnahme-Wärmemengen und Vollbenutzungsstunden sind für das Zentr
 
 Wurden diese Werte mit der Wärme Hamburg GmbH vertraglich vereinbart beziehungsweise ist eine vertragliche Vereinbarung vorgesehen?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Verhandlungen mit dem Netzbetreiber sind hierzu noch nicht abgeschlossen.
 

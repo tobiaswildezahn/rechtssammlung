@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11330", "21/11660", "21/11636"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61836"
@@ -47,7 +48,7 @@ Wie ist der Sachstand des Entwurfs des novellierten PolDVG?
 
 Wann wird der Entwurf des novellierten PolDVG der Hamburgischen Bürgerschaft zugeleitet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bundesweit befinden sich derzeit die Polizeigesetze in der Überarbeitung. Es handelt sich hierbei um ein anspruchsvolles Verfahren, weil neben der JI-Richtlinie auch die Regelungen der DSGVO und die Entscheidung des Bundesverfassungsgerichts zum BKA-Gesetz zu berücksichtigen sind. Der Referentenentwurf der zuständigen Behörde befindet sich derzeit in der internen Behördenabstimmung. Die Zuleitung an die Bürgerschaft erfolgt nach Befassung des Senats. Im Übrigen siehe Drs. 21/11660.
 

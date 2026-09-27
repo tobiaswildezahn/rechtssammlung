@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53666"
@@ -67,7 +68,7 @@ Welche Förderung erhielten diese Stadtteilkulturzentren in den Jahren 2011 – 
 
 Erhalten die Stadtteilkulturzentren neben der in den bezirklichen Rahmenzuweisungen Stadtteilkultur weitere institutionelle Förderungen durch die Stadt? Wenn ja, wie hoch waren diese jeweils?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Zu den Förderungshöhen und zur Förderungsart siehe Transparenzportal: http://suche.transparenz.hamburg.de/dataset/zuwendungsvorgaenge-2016-quartal-1.
 

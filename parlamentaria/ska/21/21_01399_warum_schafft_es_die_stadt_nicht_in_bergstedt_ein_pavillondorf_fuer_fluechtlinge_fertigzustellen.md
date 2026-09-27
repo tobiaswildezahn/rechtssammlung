@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49607"
@@ -53,7 +54,7 @@ Was sind im Einzelnen die Ursachen für die zeitlichen Verzögerungen bei diesem
 
 Welche Maßnahmen wurden zu jeweils welchem Zeitpunkt von welcher Stelle im Einzelnen ergriffen, um eine schnelle Fertigstellung des Pavillondorfs am Volksdorfer Grenzweg zu erreichen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Für die Herstellung von langfristig nutzbaren Einrichtungen der öffentlichen Unterbringung mit Pavillons gehen die zuständige Behörde und der Bauträger erfahrungsgemäß von einer Planungs- und Vorbereitungszeit von mindestens zwölf Monaten aus. Im Einzelfall kann die Planung und der Aufbau durch unterschiedliche Faktoren, wie zum Beispiel durch Auflagen im Baubescheid, Herstellung des Untergrundes et cetera, verzögert werden. Darüber hinaus können auch weitere unvorhersehbare Ereignisse Baumaßnahmen verzögern. Am Volksdorfer Grenzweg wurden entsprechend der Planung Pavillons mit einer anerkannten Typengenehmigung bestellt und verwendet. Im Juli 2015 wurde von der für den Ausbau der Pavillons verantwortlichen Baufirma eine Bedenkenanzeige bezüglich des Brandschutzkonzeptes aufgegeben. Diese
 

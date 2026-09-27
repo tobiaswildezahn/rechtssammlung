@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3165", "21/11621", "21/11599"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60897"
@@ -65,7 +66,7 @@ Welche linksextremistisch motivierten Straftaten gab es im 4. Quartal 2017? Bitt
 
 Wie viele Tatverdächtige wurden im 4. Quartal 2017 wegen linksextremistisch motivierter Straftaten festgenommen? Bitte nach Geschlecht aufschlüsseln und die zugrunde liegende Straftat nennen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage 1. Die dort aufgeführten drei Tatverdächtigen (TV) wurden vorläufig festgenommen. Im Übrigen siehe Vorbemerkung.
 
@@ -85,7 +86,7 @@ Welche rechtsextremistisch motivierten Straftaten gab es im 4. Quartal 2017? Bit
 
 Wie viele Tatverdächtige wurden im 4. Quartal 2017 wegen rechtsextremistisch motivierter Straftaten festgenommen? Bitte nach Geschlecht aufschlüsseln und die zugrunde liegende Straftat nennen.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Anlage 2. Von den dort aufgeführten 16 TV wurden zwei TV vorläufig festgenommen. Im Übrigen siehe Vorbemerkung und Drs. 21/11621.
 

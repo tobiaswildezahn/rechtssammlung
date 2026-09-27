@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51305"
@@ -51,7 +52,7 @@ Wie hoch sind die derzeitig geplanten Gesamtkosten für das Quartierszentrum? Bi
 
 Wird mit einer weiteren Kostensteigerung für die Errichtung des Quartierszentrums gerechnet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der von SBH | Schulbau Hamburg (SBH) veranschlagte Angebotspreis beläuft sich auf 7,868 Millionen Euro (Kostengruppe 200 0,15 Millionen Euro, 300 4,46 Millionen Euro, 400 1,25 Millionen Euro, 500 0,57 Millionen Euro, 600 0,10 Millionen Euro und 700 1,34 Millionen Euro) und beinhaltet mögliche Preissteigerungen. Nach aktueller Planung wird der Kostenrahmen eingehalten. Im Übrigen siehe Antwort zu 6.
 

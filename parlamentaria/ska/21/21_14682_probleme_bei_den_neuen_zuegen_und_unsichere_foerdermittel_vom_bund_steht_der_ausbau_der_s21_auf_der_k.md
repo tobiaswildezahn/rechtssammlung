@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 19
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12104", "21/11900", "21/11801"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64122"
@@ -63,7 +64,7 @@ Wann rechnet der Senat beziehungsweise die zuständige Behörde aktuell mit der 
 
 Treffen die Medienberichte zu, dass die für den Betrieb der ausgebauten S21 benötigten 20 S-Bahn-Züge bis November 2018 bestellt sein müssen, damit die mit dem Hersteller Bombardier vereinbarte Preisbindung nicht verfällt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

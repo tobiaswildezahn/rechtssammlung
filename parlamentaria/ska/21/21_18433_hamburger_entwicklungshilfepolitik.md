@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 20
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68082"
@@ -45,13 +46,13 @@ ländern oder an internationale Organisationen zugunsten von Entwicklungsländer
 
 Als ODA-Leistungen Hamburgs, die jährlich vom Statistischen Bundesamt erhoben werden, sind auch anrechenbar:
 
- Leistungen an Hamburger Nichtregierungsorganisationen (NRO) zur Förderung
+– Leistungen an Hamburger Nichtregierungsorganisationen (NRO) zur Förderung
 
 von Projekten in Entwicklungsländern,
 
- Stipendien für Studierende aus Entwicklungsländern an Hamburger Hochschulen
+– Stipendien für Studierende aus Entwicklungsländern an Hamburger Hochschulen
 
- sowie Maßnahmen zur Förderung des Entwicklungsbewusstseins in Hamburg
+– sowie Maßnahmen zur Förderung des Entwicklungsbewusstseins in Hamburg
 
 (entwicklungspolitische Bildungs- und Öffentlichkeitsarbeit).
 
@@ -129,25 +130,25 @@ Welche Entwicklungshilfeprojekte laufen derzeit zwischen Hamburg und einer der n
 
 León:
 
- Verbesserung der hygienischen Verhältnisse und Abläufe am städtischen
+– Verbesserung der hygienischen Verhältnisse und Abläufe am städtischen
 
 Schlachthof von León (seit 2017)
 
- Betreuung von Straßenkindern
+– Betreuung von Straßenkindern
 
- Vorschulprojekt
+– Vorschulprojekt
 
 Daressalam:
 
- Bau einer Kompostierungsanlage für pflanzliche Marktabfälle
+– Bau einer Kompostierungsanlage für pflanzliche Marktabfälle
 
- Austausch mit der Feuerwehr (Training und Geräteausstattung)
+– Austausch mit der Feuerwehr (Training und Geräteausstattung)
 
- Qualifizierung von Fachkräften für erneuerbare Energien
+– Qualifizierung von Fachkräften für erneuerbare Energien
 
- Wissenschaftlicher Austausch zur Stadtentwicklung
+– Wissenschaftlicher Austausch zur Stadtentwicklung
 
- Austausch von Fachkräften der Jugendarbeit
+– Austausch von Fachkräften der Jugendarbeit
 
 ### Frage 9
 
@@ -159,49 +160,49 @@ In den Jahren 2014 – 2018 wurden folgende Projekte erfolgreich abgeschlossen:
 
 León:
 
- Nachhaltiges Abwasser- und Abfallmanagement für den städtischen Schlachthof
+– Nachhaltiges Abwasser- und Abfallmanagement für den städtischen Schlachthof
 
 von León (2013 – 2015)
 
- Bau einer Feuerwache in dem indigenen Stadtteil Sutiaba (2014 – 2016)
+– Bau einer Feuerwache in dem indigenen Stadtteil Sutiaba (2014 – 2016)
 
- Ertüchtigung der Werkstatt der Stadtreinigung León (2015 – 2017)
+– Ertüchtigung der Werkstatt der Stadtreinigung León (2015 – 2017)
 
- Lieferung eines Löschfahrzeugs an die Feuerwehr in León
+– Lieferung eines Löschfahrzeugs an die Feuerwehr in León
 
- Installation solargestützter Energieversorgung in der Gesundheitsstation El Tololar
+– Installation solargestützter Energieversorgung in der Gesundheitsstation El Tololar
 
- Verbesserung der Infrastruktur einer Touristenunterkunft mit Umweltinformation im
+– Verbesserung der Infrastruktur einer Touristenunterkunft mit Umweltinformation im
 
 ländlichen Bereich
 
- Aufbau und Betrieb eines ökologischen Modell-Bauernhofs in El Tololar
+– Aufbau und Betrieb eines ökologischen Modell-Bauernhofs in El Tololar
 
- Betreuung von Kindern, die Müll sammeln (Projekt Niños del Fortín)
+– Betreuung von Kindern, die Müll sammeln (Projekt Niños del Fortín)
 
- Betreuung von Straßenkindern (Projekt Chavaladas)
+– Betreuung von Straßenkindern (Projekt Chavaladas)
 
- Ausbildung von Umwelt-Führern (Projekt Sonati)
+– Ausbildung von Umwelt-Führern (Projekt Sonati)
 
- Gründung einer Schuleinheit in León (Projekt der ULSA-Hochschule)
+– Gründung einer Schuleinheit in León (Projekt der ULSA-Hochschule)
 
- Installation diverser Solaranlagen im Rahmen von Projektreisen der Erich-Kästner-
+– Installation diverser Solaranlagen im Rahmen von Projektreisen der Erich-Kästner-
 
 Stadtteilschule
 
 Daressalam:
 
- Coaching-Workshop für Hafen- und Logistikexperten aus Daressalam
+– Coaching-Workshop für Hafen- und Logistikexperten aus Daressalam
 
- Medizinische Geräteausstattung des Amana Hospital
+– Medizinische Geräteausstattung des Amana Hospital
 
- Partnerschaft der Wasserversorger zum Zweck einer nachhaltigen Betriebsführung
+– Partnerschaft der Wasserversorger zum Zweck einer nachhaltigen Betriebsführung
 
 bei der Wasserversorgung in Daressalam
 
- Workshop zur Entwicklung eines Curriculums für Heilerzieher
+– Workshop zur Entwicklung eines Curriculums für Heilerzieher
 
- Die unter Z. 8 genannten laufenden Projekte in den Bereichen Feuerwehr und
+– Die unter Z. 8 genannten laufenden Projekte in den Bereichen Feuerwehr und
 
 erneuerbare Energien werden in jährlich abgeschlossenen, aufeinander aufbauenden Projektphasen schon seit mehr als fünf Jahren durchgeführt.
 
@@ -253,7 +254,7 @@ Wie bewertet der Senat insgesamt die Erfolge der Hamburger Entwicklungshilfepoli
 
 Wie bewertet der Senat spezifisch die Erfolge der Hamburger Entwicklungshilfepolitik in Verbindung mit den Partnerstädten?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Die bilaterale Entwicklungszusammenarbeit im Rahmen der Städtepartnerschaften mit León und Daressalam ist besonders erfolgreich, denn sie kann einerseits die Expertise kommunaler öffentlicher Dienstleister einsetzen (Abfallbehandlung, Wasserversorgung, Feuerwehr, Kliniken). Zum anderen baut sie auf Engagement, langjährigen Kontakten und Landeskenntnis von Hamburger Ehrenamtlichen auf, deren Vereine mit verlässlichen Partnerorganisationen Projekte zur Verbesserung der konkreten Lebensbedingungen der örtlichen Bevölkerung umsetzen.
 

@@ -10,12 +10,13 @@ urheber: ["Carsten Ovens"]
 fraktionen: ["CDU"]
 vorgang: 48093
 seiten: 2
-fragen: 0
-einzelfragen: 0
-antwortbloecke: 0
+fragen: 3
+einzelfragen: 11
+antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10491"]
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52588"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/52588/21_04183_fragen_zum_hochschulrahmengesetz_und_zum_hamburger_hochschulgesetz"
 abgerufen: "2026-09-27"
@@ -27,9 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Carsten Ovens (CDU) vom 25.04.16 und Antwort des Senats · Drucksache vom 03.05.2016  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/52588) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/52588/21_04183_fragen_zum_hochschulrahmengesetz_und_zum_hamburger_hochschulgesetz)
 
-## Volltext
-
-Fragen zum Hochschulrahmengesetz und zum Hamburger Hochschulgesetz
+## Einleitung für die Fragen
 
 Das Hamburgische Hochschulgesetz vom 3. Juli 2014 regelt in § 80 Absatz 3 die Amtszeit von Hochschulpräsidenten wie folgt:
 
@@ -39,7 +38,13 @@ In der Drs. 20/10491 vom 14. Januar 2014 zur Änderung des Hamburgischen Hochsch
 
 Vor diesem Hintergrund frage ich den Senat:
 
+## Einleitung für die Antworten des Senats
+
 Die letzte Novelle des Hamburgischen Hochschulgesetzes ist vor weniger als zwei Jahren zum 1. Juli 2014 in Kraft getreten. Nach dieser kurzen Zeit ist es noch zu früh für eine fundierte Bewertung der geschaffenen Regelungen. Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
+
+## Fragen und Antworten
+
+### Frage 1
 
 Laut Hamburgischen Hochschulgesetz werden die Hochschulpräsidenten mit der Neufassung vom 14. Januar 2014 durch den Hochschulsenat und nicht mehr durch den Hochschulrat gewählt:
 
@@ -49,13 +54,21 @@ Wenn ja: inwieweit?
 
 Wenn nein: warum nicht?
 
+#### Antwort zu Frage 1
+
 Siehe Vorbemerkung.
+
+### Frage 2
 
 b) Kann sich ein Hochschulpräsident auf Grundlage des Hamburgischen Hochschulgesetzes unbegrenzt wiederwählen lassen beziehungsweise ist die Anzahl seiner Amtszeiten begrenzt?
 
 Wenn ja: Für wie viele Amtszeiten kann ein Hochschulpräsident in Hamburg wiedergewählt werden?
 
+#### Antwort zu Frage 2
+
 Die Anzahl der Amtszeiten ist hochschulrechtlich nicht begrenzt.
+
+### Frage 3
 
 c) Hat sich die Tatsache, dass die Anzahl der Amtszeiten der Hamburger Hochschulen nicht begrenzt ist, aus Sicht des Senats bewährt?
 
@@ -68,5 +81,7 @@ d) Gedenkt der Senat die Anzahl der Amtszeiten von Hochschulpräsidenten zu begr
 Wenn ja: in welcher Weise und wann?
 
 Wenn nein: warum nicht?
+
+#### Antwort zu Frage 3
 
 Siehe Vorbemerkung.

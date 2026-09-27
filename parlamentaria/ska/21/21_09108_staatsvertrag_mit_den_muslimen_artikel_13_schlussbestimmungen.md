@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5830", "21/9040", "21/4035", "21/9107"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57866"
@@ -75,7 +76,7 @@ Wie sieht der Senat die bislang gewonnen Erfahrungen über den Staatsvertrag, in
 
 Warum hält der Senat trotz des skandalösen Verhaltens der genannten Organisationen unbeirrt an dem Vertrag fest?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung sowie Drs. 21/4035 und 21/9107.
 

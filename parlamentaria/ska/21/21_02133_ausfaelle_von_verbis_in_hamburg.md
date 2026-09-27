@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50386"
@@ -121,7 +122,7 @@ Bei welchen Ausfällen von „VerBIS“ wurde die Zentrale in Nürnberg als Ursa
 
 In wie vielen Fällen, gemessen an der Gesamtzahl, ist „VerBIS“ bundesweit oder nur in Hamburg ausgefallen? Bitte seit 2012 aufschlüsseln.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Dem zuständigen regionalen IT-Service Kiel der BA liegen über die zentral vorliegenden Daten zu Ausfällen von VerBIS hinaus keine besonderen Daten oder Erkenntnisse vor.
 

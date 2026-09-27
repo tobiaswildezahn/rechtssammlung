@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15043"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65012"
@@ -51,21 +52,21 @@ Wann wurde der Ausbauantrag durch wen und wo eingereicht?
 
 Folgende luftverkehrliche Genehmigungen hat die FHG beim zuständigen Luftverkehrsreferat der Behörde für Wirtschaft, Verkehr und Innovation (BWVI) beantragt:
 
- Antrag auf Plangenehmigung des Vorhabens „Umgestaltung Pier Süd/Vorfeld 1
+– Antrag auf Plangenehmigung des Vorhabens „Umgestaltung Pier Süd/Vorfeld 1
 
 Süd“ am 22. Oktober 2012.
 
- Antrag auf Änderung des Planfeststellungsbeschlusses vom 26.05.1998 (Erweite-
+– Antrag auf Änderung des Planfeststellungsbeschlusses vom 26.05.1998 (Erweite-
 
 rung des Vorfelds 2) im Hinblick auf die Gestaltung des Satellitengebäudes (Shuttle Gates)“ am 16. Mai 2018.
 
 Wie bereits in Drs. 21/15043 erläutert, war die Herstellung eines sogenannten Satellitengebäudes auf dem Vorfeld 2 mit bestandskräftigem Planfeststellungsbeschluss der damaligen Wirtschaftsbehörde vom 26. Mai 1998 als dritte Ausbaustufe zugelassen worden. Mit der am 16. Mai 2018 beantragten Plangenehmigung wurde der Planfeststellungsbeschluss in folgenden Punkten geändert:
 
- Abweichend vom Planfeststellungsbeschluss soll es keine Fluggastbrücken (soge-
+– Abweichend vom Planfeststellungsbeschluss soll es keine Fluggastbrücken (soge-
 
 nannte Finger) geben. Die 14 Flugzeugpositionen, die durch das Gebäude erschlossen werden, werden über ebenerdige sog. Walk-In-/Walk-Out-Gates erreicht.
 
- Auf die unterirdische Verbindung vom Terminal zum Shuttle-Gebäude durch ein
+– Auf die unterirdische Verbindung vom Terminal zum Shuttle-Gebäude durch ein
 
 Personentransportsystem wird verzichtet. Stattdessen wird das Abfertigungsgebäude mit vergrößerten Bussen im Shuttledienst angefahren.
 
@@ -181,7 +182,7 @@ k) Bei Starts über die RWY23 und Landungen über die RWY15
 l) Bei Starts über die RWY23 und Landungen über die RWY23
 m) Bei Starts über die RWY23 und Landungen über die RWY33
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Der Koordinierungseckwert, also die Zahl der am Hamburger Flughafen in der (Spitzen-)Stunde maximal zulässigen Starts und Landungen, beträgt 48. Der Eckwert wird vom Bundesministerium für Verkehr und digitale Infrastruktur nach § 27c LuftVG unter Berücksichtigung einer Vielzahl an Faktoren festgelegt. Ein Koordinierungseckwert für einzelne Start- oder Landerichtungen besteht nicht.
 

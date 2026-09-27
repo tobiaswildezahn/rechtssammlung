@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11589"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63351"
@@ -55,7 +56,7 @@ Wie unterscheidet sich das neue Verfahren zur Anerkennung als studentische Verei
 
 Welche Rechte und Pflichten haben studentische Vereinigungen nach dem neuen Verfahren? Wie unterscheiden sich diese von den bisherigen Regelungen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Entfällt.
 
@@ -67,7 +68,7 @@ Wie viele studentische Vereinigungen gibt es derzeit an der Universität Hamburg
 
 Wie viele Gruppierungen gibt es derzeit, die „als studentische Vereinigung anerkannt waren oder diesen Status anstreben“ und damit nach Ansicht des Senats berechtigt sind, nach einer jeweiligen Einzelfallprüfung Räumlichkeiten an der Universität Hamburg zu nutzen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/11589. Im Übrigen wird an der UHH statistisch nicht erfasst, welche und wie viele Gruppierungen den Status „Studentische Vereinigung“ anstreben.
 

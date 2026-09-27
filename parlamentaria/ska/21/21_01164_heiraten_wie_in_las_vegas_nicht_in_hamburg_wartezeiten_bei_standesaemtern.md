@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/330", "20/11565"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49351"
@@ -47,7 +48,7 @@ Wie lang ist die durchschnittliche Wartezeit auf einen Termin beim Standesamt in
 
 Wie lang war diese Wartezeit in den Jahren 2005, 2010 und 2014?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Zeitspanne zwischen Feststellung der Ehefähigkeit und Eheschließung ergibt sich unter anderem durch den vom Brautpaar gewählten Termin zur Anmeldung und den eigentlichen Trautermin. Sie kann zwischen einem Tag und sechs Monaten betragen. Die Wartezeit auf einen Termin zur Beantragung der Feststellung der Ehefähigkeit wird nicht erfasst und kann nachträglich nicht ermittelt werden. Die Bearbeitungszeit des Antrags beziehungsweise die Wartezeit bis zur Feststellung der Ehefähigkeit wird statistisch nicht erfasst. Hierzu müssten circa 7.000 Akten pro Jahr manuell ausgewertet werden. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Im Übrigen: entfällt.
 

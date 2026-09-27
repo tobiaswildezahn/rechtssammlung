@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/918"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49089"
@@ -45,7 +46,7 @@ Welche Flüchtlingsunterkünfte mit jeweils wie vielen Plätzen gibt es zurzeit 
 
 Wie stellt sich die tatsächliche Belegung in den einzelnen Einrichtungen dar? Bitte pro Stadtteil und Einrichtung darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bestehende Standorte öffentlich-rechtlicher Unterbringung in den einzelnen Stadtteilen des Bezirks Hamburg-Nord:
 

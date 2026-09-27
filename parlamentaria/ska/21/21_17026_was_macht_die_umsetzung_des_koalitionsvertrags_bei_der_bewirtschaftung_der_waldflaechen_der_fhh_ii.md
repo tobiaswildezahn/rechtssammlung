@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3940"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66591"
@@ -63,7 +64,7 @@ Welche Änderungen haben sich seit meiner Schriftlichen Kleinen Anfrage an den d
 
 Welche Ergebnisse wurden bezüglich der Prüfung zu „Repräsentativität, der Eignung vor dem Hintergrund der Erholungswaldfunktion und weiterer Parameter“ mit den Bezirksämtern erzielt und welche Änderungen haben sich aus dieser Prüfung ergeben. Bitte für die Bezirksämter mit Zeitraum der Prüfung, deren Abschluss und der Spezifizierung der „weiteren Parameter“ angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

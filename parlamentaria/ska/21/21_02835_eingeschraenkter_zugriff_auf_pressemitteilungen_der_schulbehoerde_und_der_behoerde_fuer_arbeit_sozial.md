@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51151"
@@ -64,7 +65,7 @@ Wann wurde der Internetauftritt der Behörde für Schule und Berufsbildung bezie
 
 Aus welchem Grund wurde dies wann, in welcher Form und von welcher Stelle entschieden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die aktuellsten Pressemitteilungen der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) und der Behörde für Schule und Berufsbildung (BSB) werden jeweils auf den Startseiten (http://www.hamburg.de/basfi/ und http://www.hamburg.de/ bsb/) angezeigt. Ausführlichere Listen weiterer aktueller Pressemitteilungen werden im jeweiligen Pressebereich der genannten Behörden vorgehalten. Die zusätzliche redaktionelle Archivierung der Pressemitteilungen nach Jahrgängen und Monaten ist vor dem Hintergrund der umfangreichen Funktionalitäten der Suche des zentralen Pressearchivs des Senats unter http://www.hamburg.de/pressearchiv-fhh/ nicht erforderlich.
 

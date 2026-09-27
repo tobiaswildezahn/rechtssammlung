@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10332", "21/2174"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56369"
@@ -59,7 +60,7 @@ Mit welchen Kosten wird derzeit gerechnet? Auf welches Jahr bezieht sich diese K
 
 Sofern die Kosten höher als in der Drs. 21/2174 kalkuliert werden: Warum werden die Kosten höher kalkuliert?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Da die Untersuchungen zur Optimierung der Planung noch nicht abgeschlossen sind, kann kein neuer Sachstand angegeben werden.
 
@@ -105,6 +106,6 @@ Welches ist die federführende Behörde?
 
 Welche weiteren Behörden sind beteiligt?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Für das Projekt S4 hat die Behörde für Wirtschaft, Verkehr und Innovation (BWVI) die Federführung. Im Rahmen der Fachplanung wurden die Behörde für Stadtentwicklung und Wohnen, die Behörde für Inneres und Sport sowie der Bezirk Wandsbek beteiligt.

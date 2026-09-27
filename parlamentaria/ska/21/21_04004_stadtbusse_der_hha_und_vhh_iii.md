@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 20
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3404"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52394"
@@ -153,7 +154,7 @@ Wann ist damit zu rechnen, dass die Öffentlichkeit laufend detailliert und konk
 
 Obwohl die Testphase nun schon seit sieben Jahren andauert: Warum erfolgte bisher keine Veröffentlichung der mit den neuen Technologien gemachten Erfahrungen?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Mit der konkreten Erprobung und der daraus folgenden Bewertung der Antriebe unter gleichen Rahmenbedingungen auf der Innovationslinie 109 wurde erst im Frühjahr des Jahres 2015 begonnen. Da die Bewertung und die begleitende Abstimmung mit der Industrie noch andauern, können die für eine umfassende Darstellung in der Öffentlichkeit notwendigen konkreten Aussagen derzeit nicht getroffen werden.
 

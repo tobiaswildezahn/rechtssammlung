@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 22
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56487"
@@ -84,7 +85,7 @@ worden?
 Falls ja, wie lange?  
 Falls nein, warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antworten zu 1 und 2.
 
@@ -96,6 +97,6 @@ Hat die Staatsanwaltschaft bereits ein Ermittlungsverfahren gegen Zulhajrat S. a
 
 Ist geplant, Zulhajrat S. an Deutschland auszuliefern?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Bei der Staatsanwaltschaft Hamburg ist kein Ermittlungsverfahren gegen Zulhajrat S. anhängig. Da dieser zuletzt in Niedersachsen wohnhaft gewesen ist, würde ein etwaiges Strafverfahren durch die dortigen Behörden geführt werden.

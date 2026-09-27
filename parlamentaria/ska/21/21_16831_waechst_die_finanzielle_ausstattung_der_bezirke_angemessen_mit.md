@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15523", "21/13971", "21/6399", "21/10405", "21/14210", "21/14050"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66384"
@@ -83,7 +84,7 @@ Wie gestaltet sich aktuell die Verteilung der Gelder aus dem investiven Quartier
 
 Ist die in Drs. 21/15523 erwähnte Meinungsbildung in und zwischen den beteiligten Behörden bezüglich der Verteilung der Gelder für Spielplätze und Gebäude der sozialen und kulturellen Infrastruktur inzwischen abgeschlossen? Wenn ja, mit welchen Ergebnissen? Wenn nein, warum nicht? Bitte nach Bezirken aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage 3.
 

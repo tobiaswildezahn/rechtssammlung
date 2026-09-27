@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49315"
@@ -61,7 +62,7 @@ Gibt es bereits ein Konzept, welche Flächen aus der Nutzung genommen werden sol
 
 Sind bereits Flächen stillgelegt worden? Wenn ja, welche?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nein, im Übrigen siehe Vorbemerkung.
 
@@ -89,7 +90,7 @@ Mit welchen Hiebsätzen arbeiten die Hamburger Revierförstereien und werden die
 
 Wird mit der Flächenstilllegung auch ein Umbau der Waldgesellschaften angestrebt oder sollen die Flächen der natürlichen Sukzession überlassen werden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 
@@ -117,6 +118,6 @@ Sofern mit den Stilllegungen Ertragsminderungen der Revierförstereien einhergeh
 
 Wie hoch schätzt der Senat die jährlichen Ertragsminderungen ein?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Pflege und Bewirtschaftung der Hamburger Wälder dient nur nachrangig der Holzproduktion. Der schon jetzt praktizierte Nutzungsverzicht und die noch erforderlichen weiteren Flächenstilllegungen führen zu keinen messbaren Ertragsminderungen.

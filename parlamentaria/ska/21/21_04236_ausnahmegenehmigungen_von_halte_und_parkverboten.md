@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4003"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52640"
@@ -88,75 +89,75 @@ Bei der Polizei und dem LBV werden Statistiken im Sinne der Fragestellungen nich
 
 Eine Recherche des LBV hat ergeben, dass im Jahr 2015 Ausnahmegenehmigungen zum Halten und Parken an folgende Behörden erteilt wurden:
 
- Amtsgericht Hamburg St. Georg
+– Amtsgericht Hamburg St. Georg
 
- Behörde für Stadtentwicklung und Umwelt
+– Behörde für Stadtentwicklung und Umwelt
 
- Behörde für Umwelt und Energie
+– Behörde für Umwelt und Energie
 
- Betreuungsstelle Hamburg
+– Betreuungsstelle Hamburg
 
- Bezirksamt Hamburg-Mitte
+– Bezirksamt Hamburg-Mitte
 
- Bezirksamt Altona
+– Bezirksamt Altona
 
- Bezirksamt Bergedorf
+– Bezirksamt Bergedorf
 
- Bezirksamt Eimsbüttel
+– Bezirksamt Eimsbüttel
 
- Bezirksamt Hamburg-Nord
+– Bezirksamt Hamburg-Nord
 
- Bezirksamt Harburg
+– Bezirksamt Harburg
 
- Bezirksamt Wandsbek
+– Bezirksamt Wandsbek
 
- Bundesfinanzdirektion Nord
+– Bundesfinanzdirektion Nord
 
- Bundesfinanzdirektion West
+– Bundesfinanzdirektion West
 
- Deutsche Rentenversicherung Bund
+– Deutsche Rentenversicherung Bund
 
- Deutsche Rentenversicherung Nord
+– Deutsche Rentenversicherung Nord
 
- Einwohnerzentralamt
+– Einwohnerzentralamt
 
- Finanzamt Hamburg Eimsbüttel
+– Finanzamt Hamburg Eimsbüttel
 
- Finanzamt für Verkehrssteuern und Grundbesitz
+– Finanzamt für Verkehrssteuern und Grundbesitz
 
- Finanzamt Hamburg am Tierpark
+– Finanzamt Hamburg am Tierpark
 
- Finanzamt Hamburg Altona
+– Finanzamt Hamburg Altona
 
- Finanzamt Hamburg Bergedorf
+– Finanzamt Hamburg Bergedorf
 
- Finanzamt Hamburg Hansa
+– Finanzamt Hamburg Hansa
 
- Finanzamt Hamburg Harburg
+– Finanzamt Hamburg Harburg
 
- Finanzamt Hamburg Mitte
+– Finanzamt Hamburg Mitte
 
- Finanzamt Hamburg Nord
+– Finanzamt Hamburg Nord
 
- Finanzamt Hamburg Oberalster
+– Finanzamt Hamburg Oberalster
 
- Finanzamt Hamburg Wandsbek
+– Finanzamt Hamburg Wandsbek
 
- Finanzbehörde Kasse Hamburg
+– Finanzbehörde Kasse Hamburg
 
- Hamburg Port Authority
+– Hamburg Port Authority
 
- Institut für Hygiene und Umwelt
+– Institut für Hygiene und Umwelt
 
- Jobcenter team.arbeit Hamburg
+– Jobcenter team.arbeit Hamburg
 
- Justizvollzugsanstalt Fuhlsbüttel
+– Justizvollzugsanstalt Fuhlsbüttel
 
- Kasse.Hamburg
+– Kasse.Hamburg
 
- Landesbetrieb Straßen, Brücken und Gewässer
+– Landesbetrieb Straßen, Brücken und Gewässer
 
- Polizei Hamburg
+– Polizei Hamburg
 
 Für detaillierte Angaben zu Dauer und Grund der Ausnahmegenehmigungen wäre auch hier eine manuelle Auswertung aller im Jahr 2015 vom LBV erteilten Genehmigungen erforderlich. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

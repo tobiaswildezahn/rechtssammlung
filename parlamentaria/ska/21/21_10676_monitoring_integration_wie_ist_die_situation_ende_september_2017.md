@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 31
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9758", "21/7421", "21/8825", "21/5832", "21/10093", "21/10399", "21/7858", "21/10204", "21/131"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59579"
@@ -90,11 +91,11 @@ Seitens der BASFI, des Jobcenters und der Agentur für Arbeit Hamburg wurden zum
 
 Eine Präsentation der nachfolgenen Ergebnisse war gemäß Tagesordnung für die Sitzung des Ausschusses für Soziales, Arbeit und Integration am 28. September 2017 vorgesehen (siehe auch Drs. 21/10399). Der Tagesordnungspunkt wurde jedoch verschoben. Zu den Ergebnissen:
 
- Von den 1.068 Geflüchteten, deren Kundenprofile ausgewertet wurden, befinden
+– Von den 1.068 Geflüchteten, deren Kundenprofile ausgewertet wurden, befinden
 
 sich noch 981 Geflüchtete in Hamburg. Nur diese wurden in die Auswertung einbezogen.
 
- Insgesamt konnten 42 Prozent (249 Personen in einem Beschäftigungsverhältnis
+– Insgesamt konnten 42 Prozent (249 Personen in einem Beschäftigungsverhältnis
 
 bzw. Selbständigkeit und 167 Personen in Praktika) erste berufliche Erfahrungen auf dem deutschen Arbeitsmarkt sammeln, davon
 
@@ -110,11 +111,11 @@ bzw. Selbständigkeit und 167 Personen in Praktika) erste berufliche Erfahrungen
 
 - Praktika: 167 Personen.
 
- In der Stichprobe wird die Anzahl der Personen, die in einen Sprachkurs vermittelt
+– In der Stichprobe wird die Anzahl der Personen, die in einen Sprachkurs vermittelt
 
 wurden, nicht gesondert statistisch erfasst.
 
- Die Gesamtzahl der Personen, die im Jahr 2017 aus W.I.R für Sprachkurse zuge-
+– Die Gesamtzahl der Personen, die im Jahr 2017 aus W.I.R für Sprachkurse zuge-
 
 lassen wurde, kann allerdings der Statistik des Flüchtlingszentrums entnommen werden. Demnach wurden vom 1. Januar 2017 bis 30. September 2017 aus W.I.R 162 Personen für die Teilnahme an einem Sprachkurs zugelassen.
 
@@ -126,7 +127,7 @@ Wie viele Personen mit Fluchthintergrund sind derzeit beim Jobcenter, wie viele 
 
 Wie viele Personen wurden bereits vom Jobcenter, wie viele von der Arbeitsagentur in Sprachkurse, Praktika, Ausbildung, Arbeit oder Studium vermittelt? Bitte einzeln aufschlüsseln.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 
@@ -199,7 +200,7 @@ Wie viele Asylsuchende haben im September 2017 in der zentralen Test- und Meldes
 
 Welche Einstufungen und Überweisung in jeweils welche Kurse (Alphabetisierungskurs, regulärer Integrationskurs und so weiter) ergaben sich aus den Tests im September 2017?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Siehe Antwort zu 13.
 

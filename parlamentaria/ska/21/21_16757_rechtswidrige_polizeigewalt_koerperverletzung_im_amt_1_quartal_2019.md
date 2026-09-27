@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14067", "21/15862"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66309"
@@ -52,7 +53,7 @@ Welchen Verfahrensstand haben die Disziplinarverfahren gegen Polizeibedienstete 
 
 Welchen Verfahrensausgang haben die seit dem 01.01.2019 abgeschlossenen Disziplinarverfahren gegen Polizeibedienstete wegen Körperverletzung im Amt aufgrund welcher Sachverhalte genommen und welche Disziplinarmaßnahmen wurden angeordnet?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Am 12. Januar 2017 soll ein Polizeivollzugsbeamter in Uniform auf dem Weg zum Dienst einem schlafenden, unbekannt gebliebenen Geschädigten in der S-Bahn gegen die Beine getreten haben, die dieser auf einer Sitzbank abgelegt hatte. Das Verhalten des Beamten war für weitere Fahrgäste so auffällig, dass ein Zeuge im Anschluss eine Strafanzeige wegen Verdachts der Körperverletzung im Amt erstattete. Das Strafverfahren wurde zwischenzeitlich gemäß § 170 Absatz 2 Strafprozessordnung eingestellt. Nach dienstrechtlicher Bewertung des Sachverhalts wurde am 12. Juni 2018 ein Disziplinarverfahren gegen den Beamten eingeleitet, das am 18. Februar 2019 unter Feststellung eines Dienstvergehens abgeschlossen wurde. Im Übrigen siehe Drs. 21/14067.
 
@@ -73,7 +74,7 @@ Wie viele Strafverfahren werden gegen Polizeibedienstete wegen Körperverletzung
 
 Wie viele Strafverfahren sind gegen Polizeibedienstete wegen Körperverletzung im Amt im letzten Quartal aufgrund welcher Sachverhalte mit welchen Verfahrensausgängen zu welchem Zeitpunkt abgeschlossen worden? Bei Einstellungen bitte die jeweilige Rechtsgrundlage; bei Verurteilungen bitte die Art und Höhe der Sanktion benennen.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Zu den Verfahrensständen und -ausgängen siehe Anlage 1. Im Übrigen siehe Drs. 21/15862.
 

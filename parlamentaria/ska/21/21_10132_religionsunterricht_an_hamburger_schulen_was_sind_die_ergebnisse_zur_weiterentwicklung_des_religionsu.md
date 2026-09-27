@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 20
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5841", "21/4140", "20/12206", "20/5715", "20/5500", "21/2581", "21/8701"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58959"
@@ -45,7 +46,7 @@ Liegen die Ergebnisse der Arbeitsgruppe zur Weiterentwicklung des Religionsunter
 
 Was sind die bisherigen Ergebnisse der Arbeitsgruppe zur Weiterentwicklung des Religionsunterrichts und welche Zielstellungen des Senats sind bisher erreicht und welche sind nicht erreicht worden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Tätigkeit der Arbeitsgruppe zur Weiterentwicklung des Religionsunterrichts ist nicht beendet. Es gibt auch kein „Laufzeitende August 2017“, denn die fünfjährige Entwicklungszeit hat nach der Zustimmung der Bürgerschaft am 13. Juni 2013 begonnen. Die Arbeitsgruppe konstituierte sich 2013 nach dem Abschluss der Verträge mit den muslimischen Gemeinschaften (DITIB, SCHURA, VIKZ) sowie der Alevitischen Gemeinde Deutschlands und der Zustimmung der Bürgerschaft auf der Basis von Vorgesprächen einer parallel zusammengesetzten Arbeitsgruppe aus dem Jahr 2012. Ihre Arbeit wird im Schuljahr 2017/2018 – auch auf Basis der Evaluationsergebnisse aus den Pilotversuchen – fortgeführt. Qualitätsgesicherte Ergebnisse liegen noch nicht vor. Im Übrigen siehe Drs. 21/5841, Drs. 21/4140, Drs. 20/12206, Drs. 20/5715 und Drs. 20/5500.
 
@@ -105,7 +106,7 @@ Wie wird der Pilotversuch von den mehr oder weniger direkt Beteiligten der zwei 
 
 Welche Bedingungen scheinen die Einführung dieser Unterrichtskonzeption zu erleichtern, welche erschweren gegebenenfalls die Einführung eines Religionsunterrichts für alle?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antwort zu 1. und 2.
 

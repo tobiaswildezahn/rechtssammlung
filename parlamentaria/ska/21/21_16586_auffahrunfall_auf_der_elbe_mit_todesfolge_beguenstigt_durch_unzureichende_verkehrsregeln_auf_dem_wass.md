@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66119"
@@ -131,13 +132,13 @@ A. Nein, aber § 1.04 BinSchStrO (Allgemeine Sorgfaltspflicht) regelt unter ande
 
 dass jeder Verkehrsteilnehmer auf Binnenschifffahrtsstraßen alle Vorsichtsmaßnahmen zu treffen hat, um insbesondere
 
-• Gefährdungen von Menschenleben zu vermeiden,
+– Gefährdungen von Menschenleben zu vermeiden,
 
-• Beschädigungen anderer Fahrzeuge oder Schwimmkörper, der Ufer, der Regelungsbauwerke sowie von Anlagen jeder Art in der Wasserstraße oder an ihren Ufern zu vermeiden,
+– Beschädigungen anderer Fahrzeuge oder Schwimmkörper, der Ufer, der Regelungsbauwerke sowie von Anlagen jeder Art in der Wasserstraße oder an ihren Ufern zu vermeiden,
 
-• Behinderungen der Schifffahrt zu vermeiden und
+– Behinderungen der Schifffahrt zu vermeiden und
 
-• jede vermeidbare Beeinträchtigungen der Umwelt zu verhindern.
+– jede vermeidbare Beeinträchtigungen der Umwelt zu verhindern.
 
 Das heißt unter anderem, dass jeder Schiffsführer seine Geschwindigkeit so zu wählen hat, dass niemand durch seinen Sog oder Wellenschlag gefährdet wird. Das gilt auch für das Überholen.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2107", "20/14000", "20/8499", "20/12865", "21/1486"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50630"
@@ -43,7 +44,7 @@ Welche Förderung erhielt dieses Angebot bisher?
 
 Warum ist die bisherige Förderung nicht auskömmlich?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bisher konnten suchtkranke Menschen auf Antrag Leistungen der Eingliederungshilfe in Form eines persönlichen Budgets gemäß § 57 SBGXII erhalten und dabei dieses Angebot in Anspruch nehmen.
 

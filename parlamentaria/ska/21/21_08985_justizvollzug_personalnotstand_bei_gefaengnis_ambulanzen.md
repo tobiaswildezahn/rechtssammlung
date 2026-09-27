@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 30
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8980"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57728"
@@ -59,7 +60,7 @@ Wie viele Stellen sind derzeit im medizinischen Dienst der JVAs unbesetzt (bitte
 
 Wie viel Personal war in den Jahren 2014 bis 2017 im medizinischen Dienst der JVAs tätig (bitte Vollzeitäquivalente und Halbtagsstellen sowie getrennt nach den JVAs darstellen)?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die medizinische Versorgung im Justizvollzug ist sichergestellt. Dass nicht immer alle Stellen vollständig besetzt werden können, ist in Teilen der Fluktuation geschuldet. Darüber hinaus ergeben sich aus Teilzeitresten freie Stellenteile, die jedoch wegen unterschiedlicher Dauer nicht zu Ausschreibungen hinzugezogen werden können.
 
@@ -748,7 +749,7 @@ Wie viele Mittel aus dem Hamburger Haushalt hat der Senat in 2016 für Personal 
 
 Wie viele Mittel hat der Senat für den medizinischen Dienst der JVAs in 2016 aufgewendet (bitte insbesondere Personal- und Sachkosten darstellen)? Wie viele Mittel sind dazu in welcher Produktgruppe im Haushaltsplan 2017/2018 bereitgestellt?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Haushaltsmittel für medizinische Dienste werden in Unterkonten der Plankostenart Kosten für Rechtshilfe und andere bezogenen Leistungen geführt. Die Kosten für den medizinischen Dienst der Justizvollzugsanstalten sind die Summe diverse Kostenarten dieser Plankostenart. Haushaltsplanungen werden nur auf Ermächtigungsebenen erstellt (Plankostenarten). Daher gibt es im Haushaltsplan keine Planzahlen für die Kosten für den medizinischen Dienst der Justizvollzugsanstalten.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 24
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8887", "20/9173", "20/9465", "20/10039", "20/10685", "20/10910"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55322"
@@ -99,7 +100,7 @@ Gibt es bei der SAGA GWG oder gegebenenfalls auch der Freien und Hansestadt Hamb
 
 Hat die SAGA GWG eigene Fachleute für die Asbestsanierung? a. Führt die SAGA GWG die Sanierungsarbeiten selbst durch? Wenn ja, wie groß ist das betreffende Team? Wenn nein, warum nicht? b. Verfügt die SAGA GWG über Experten/-innen, die, wenn sie schon nicht selbst die Asbestsanierung durchführen, so doch die inhaltliche Qualifikation zur Begleitung und Kontrolle etwaiger Asbestsanierungsarbeiten haben? Wenn ja, wie groß ist dieses Team? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Vorschriften für Schutzmaßnahmen bei Asbestsanierungen enthält die Gefahrstoffverordnung. Konkretisiert sind diese in der Technischen Regel für Gefahrstoffe: Asbest Abbruch-, Sanierungs- oder Instandhaltungsarbeiten (TRGS 519). Entsprechend diesen rechtlichen Vorgaben sind für die Baustellen unter anderem Arbeitspläne und Gefährdungsbeurteilungen im Einzelfall zu erstellen. Diese Unterlagen sind zusammen mit der Anzeige über die geplanten Maßnahmen der Behörde für Gesundheit und Verbraucherschutz, von der ausführenden Fachfirma vorzulegen.
 

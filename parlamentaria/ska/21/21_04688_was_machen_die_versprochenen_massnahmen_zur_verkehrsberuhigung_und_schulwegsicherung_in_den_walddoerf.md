@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/578", "21/1550"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53108"
@@ -43,25 +44,25 @@ Wie sind der genaue Sachstand und der konkrete Zeitplan zur Einrichtung von Temp
 
 Wie sind der genaue Sachstand und der konkrete Zeitplan für die Umsetzung jeweils welcher baulicher Maßnahmen zur Verkehrsberuhigung in den folgenden Straßen beziehungsweise Straßenabschnitten? Welche der Maßnahmen wurden bereits beauftragt und wann werden die Maßnahmen ausgeführt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
- Rügelsbarg (West)
+– Rügelsbarg (West)
 
- Lottbeker Weg (Einmündungen Elersstieg und Heiddiek)
+– Lottbeker Weg (Einmündungen Elersstieg und Heiddiek)
 
- Iloh
+– Iloh
 
- Rodenbekredder
+– Rodenbekredder
 
- Brunskrogweg
+– Brunskrogweg
 
- Ohlstedter Platz
+– Ohlstedter Platz
 
- Mellenbergweg (Langfeld bis Künnekestraße)
+– Mellenbergweg (Langfeld bis Künnekestraße)
 
- Schemmannstraße
+– Schemmannstraße
 
- Sarenweg
+– Sarenweg
 
 Das Planungsverfahren für das Gesamtpaket „Tempo-30-Zonen/Maßnahmen mit baulichen Verkehrsberuhigungen“ ist abgeschlossen. Dieses beinhaltet unter anderem Maßnahmen auf den aufgeführten Straßen. Derzeit wird die für die Umsetzung erforderliche Ausführungsunterlage erstellt. Die Reihenfolge der Einzelmaßnahmen wird in Abstimmung mit dem ausführenden Bauunternehmen erfolgen. Die Umsetzung der neu entstehenden Tempo-30-Zonen mit baulichen Verkehrsberuhigungen wird
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4761"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53472"
@@ -57,7 +58,7 @@ Haben Bürgerhäuser im Zeitraum von 2012 bis heute die Durchführung von Verans
 
 Wurde anderen Gruppierungen die Nutzung von Bürgerhäusern im Zeitraum von 2012 bis heute verwehrt? Wenn ja, welche Gruppierungen waren davon betroffen? An welchem Zeitpunkt und mit welcher Begründung (jeweils nach Einzelfall beantworten)?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nein, mit Ausnahme von Ablehnungen mangels zeitlicher Verfügbarkeit oder aus technischen Gründen (zum Beispiel wegen unzureichender Raumgrößen oder Ausstattung). Im Übrigen siehe Vorbemerkung.
 

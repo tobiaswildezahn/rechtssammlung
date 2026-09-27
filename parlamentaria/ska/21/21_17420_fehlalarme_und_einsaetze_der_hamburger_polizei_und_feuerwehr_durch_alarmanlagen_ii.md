@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6415"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67005"
@@ -114,7 +115,7 @@ Wie viele Gebührenbescheide infolge von Fehlalarmen wurden in den Jahren 2016 b
 
 Gegen wie viele dieser Gebührenbescheide wurde Widerspruch beziehungsweise Klage eingelegt und wie sind die jeweiligen Erfolgsquoten?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die erfragten Daten für ÜEA (Polizei) sind in der nachfolgenden Tabelle aufgeführt.
 

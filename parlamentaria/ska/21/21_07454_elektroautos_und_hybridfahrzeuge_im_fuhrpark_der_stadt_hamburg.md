@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2521", "21/5362"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56052"
@@ -57,7 +58,7 @@ Wie viele motorgetriebene Fahrzeuge befinden sich im Fuhrpark des Senates, der L
 
 Welche Antriebsarten haben diese Fahrzeuge (Elektromotor, Hybridantrieb, Benzinmotor, Dieselmotor)? Bitte angeben, welchen Anteil die jeweilige Antriebsart an den Fahrzeugen der einzelnen Stellen hat.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zu den vom LBV – gemäß Vorbemerkung – erhobenen Fahrzeugdaten siehe Anlage
 1.
@@ -162,7 +163,7 @@ Welche Anstrengungen hat der Senat seit April 2015 unternommen, um den Schadstof
 
 Was müsste aus Sicht des Senates geschehen, damit schneller auf eine schadstofffreie Antriebsart wie den Elektromotor umgerüstet werden kann?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Im November 2016 trat eine Aktualisierung der Leitlinie „Fahrzeugbeschaffung“ (Allgemeine KFZ-Bestimmungen mit der Anlage „Leitlinie für die Beschaffung von Fahrzeugen mit geringen CO- und Schadstoffemissionen) in Kraft. Demzufolge sind bei der Beschaffung von Fahrzeugen der Klasse M1 und N1 für den Fuhrpark der FHH Dieselfahrzeuge nur nachrangig zu berücksichtigen. Die Leitlinie Fahrzeugbeschaffung orientiert sich am Stand der Fahrzeugtechnik und trägt zur Förderung emissionsfreier und -armer Antriebstechnologien bei. Im Übrigen siehe Drs. 21/2521 und Drs. 21/5362 und http://suche.transparenz.hamburg.de/dataset/allgemeinekraftfahrzeugbestimmungen-der-freien-und-hansestadt-hamburg-vom-1-08-2014.
 

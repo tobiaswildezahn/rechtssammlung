@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9220", "21/9380", "21/9490", "21/10150"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59160"
@@ -55,7 +56,7 @@ Wie hoch war der durch Verkehrsunfälle in Hamburg entstandene volkswirtschaftli
 
 Wie hoch war der durch Verkehrsunfälle in Hamburg entstandene volkswirtschaftliche Schaden in den ersten Halbjahren der Jahre seit 2011? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für das jeweils erste Halbjahr der Jahre 2011 bis 2017 ergeben sich folgende Werte. Im Übrigen siehe Vorbemerkung.
 

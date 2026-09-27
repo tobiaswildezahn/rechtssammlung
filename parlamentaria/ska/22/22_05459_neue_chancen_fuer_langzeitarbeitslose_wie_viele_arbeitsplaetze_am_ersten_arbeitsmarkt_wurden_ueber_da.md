@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["22/1919", "22/3696", "22/1950"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/76887"

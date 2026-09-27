@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48270"
@@ -47,7 +48,7 @@ Von wann bis wann werden beziehungsweise wurden zwischen Waltershof und Moorburg
 
 Warum erfolgen beziehungsweise erfolgten diese Sperrungen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Seit Juli 2014 wurden folgende Sperrungen angeordnet:
 

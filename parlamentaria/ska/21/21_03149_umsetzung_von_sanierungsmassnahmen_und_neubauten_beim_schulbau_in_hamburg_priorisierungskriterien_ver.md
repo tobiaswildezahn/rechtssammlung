@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 24
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2943", "20/13169", "20/13292", "20/5317"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51478"
@@ -59,7 +60,7 @@ Wie viele Schulgebäude in Hamburg wurden seit 2011 zu Gesamtkosten von über 50
 
 An welchen Schulstandorten und wann genau wurden seit 2011 Sanierungsmaßnahmen beziehungsweise Neubauten zu Gesamtkosten von über 50.000 Euro durchgeführt? (Bitte mit Nennung des jeweiligen Standorts, dessen Schulform, Gebäudezustandsklasse vor sowie nach der Sanierungs-/Neubaumaßnahme, nach Monat und Jahr des Baubeginns chronologisch geordnet, als auch mit Angabe des Fertigstellungsdatums in einer Tabelle abbilden.) a. Welche dieser Schulgebäude erhielten dabei eine bauliche Sanierung und zu welchen Kosten? (Bitte den gegebenen Parametern entsprechend in der Tabelle zu 2. kenntlich machen.) b. Welche dieser Schulgebäude erhielten eine technische Sanierung und zu welchen Kosten? (Bitte den gegebenen Parametern entsprechend in der Tabelle zu 2. kenntlich machen.) c. Welche dieser Schulgebäude erhielten Zubauten und zu welchen Kosten? (Bitte den gegebenen Parametern entsprechend in der Tabelle zu 2. kenntlich machen.) d. Welche dieser Schulgebäude erhielten einen gänzlichen Neubau und zu welchen Kosten? (Bitte den gegebenen Parametern entsprechend in der Tabelle zu 2. kenntlich machen.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 
@@ -79,7 +80,7 @@ Laut Antwort auf die Schriftliche Kleine Anfrage Drs. 21/2943 folgte/folgt die P
 
 Welche Gewichtung kommt den Faktoren Gebäudezustandsklasse, Anmeldezahlen, Zukunftssicherheit des Standorts, Schüler/-innenanzahl/ Zügigkeit und schulischer Mehrbedarf in der SEPL-Region (Schulentwicklungsplanregion) hinsichtlich der Priorisierung von Standorten in der Fortschreibung des Schulsanierungsplans des Senats generell zu? (Bitte Gewichtung der Faktoren jeweils erläutern und deren Auswirkung auf die Überplanung der Schulbausanierungsmaßnahmen erklären.) a. Welche sonstigen Kriterien bedingen eine mögliche Bevorzugung von Standorten in der senatorischen Sanierungsplanung im Schulbau? (Bitte erläutern.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Alle erforderlichen Maßnahmen werden in Abstimmung mit den betroffenen Schulen und entsprechend ihrer Dringlichkeit durchgeführt. Hierbei erfolgt die Priorisierung grundsätzlich in Abwägung des baulich Notwendigen und der pädagogischen Erfordernisse. Während die baulichen Mängel kategorisiert werden können (Klassifizierung der Schulgebäude in Zustandsklassen siehe Drs. 20/13169 und 20/13292), ist die Beurteilung der pädagogischen Erfordernisse vielschichtig. Sie ergibt sich zum Beispiel aus der Reaktion auf sich verändernde Schülerzahlen oder der Profilbildung einer Schule. Im Übrigen siehe Vorbemerkung und Drs. 21/2943.
 

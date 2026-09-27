@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56590"
@@ -78,6 +79,6 @@ Sind dem Senat weitere Veranstaltungen in Hamburg in ähnlicher Form bekannt bez
 
 Verfügt der Senat über Erkenntnisse, inwiefern es einen Zusammenhang zwischen der türkischen Regierung und dem Theaterstück beziehungsweise der Gruppe gibt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Den zuständigen Behörden liegen hierzu keine Erkenntnisse vor.

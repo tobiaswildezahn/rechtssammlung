@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 26
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4866", "21/5940", "21/8699", "21/7319", "21/3198", "21/7756"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58025"
@@ -81,7 +82,7 @@ Sind die Mittelausschüttungen an die einzelnen Schulen bereit durchgeführt wor
 
 Wurde beziehungsweise wird bei diesen Zahlungen differenziert nach Schulform, Trägerschaft der Schule, Sozialindex KESS oder anderen Faktoren? Wenn ja: bitte begründen.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Zuweisung von Mitteln aus dem „Sonderfonds Guter Ganztag“ ist gemäß Beschluss der Hamburgischen Bürgerschaft zu Ziffer 3. b der Drs. 21/4866 an ein kriteriengestütztes Antragsverfahren sowie die Erstellung von schulischen Raumkonzepten gebunden. Die hierfür notwendigen Formulare und Unterstützungsmaterialien sind den Schulen im März 2017 zugegangen. Derzeit liegen noch keine Anträge von Schulen zur Bescheidung vor.
 
@@ -119,7 +120,7 @@ Gibt es an allen Schulen einen Ganztagsausschuss? Wenn nein: an welchen nicht un
 
 Wenn nein: Leitet der Senat hieraus ein Handlungserfordernis ab? Wenn ja: welches? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Von 335 allgemeinbildenden Schulen (ohne Inselschule Neuwerk) hatten mit Stand
 21. April 2017 255 Schulen einen Ganztagsausschuss gebildet. 64 weitere Schulen haben die Einsetzung des Ganztagsausschusses bis zum Ende des Schuljahres 2016/2017 geplant. Bei 16 Schulen wird die Planung zur Einsetzung des Ganztagsausschusses derzeit mit der jeweils zuständigen Schulaufsicht abgestimmt.

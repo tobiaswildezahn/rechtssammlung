@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 25
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1991", "21/2072", "21/2711"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51495"
@@ -47,7 +48,7 @@ Werden am Standort der Flüchtlingsunterkunft Schnackenburgallee Ein- Euro-Jobbe
 
 Werden über Frage 1. hinaus in den restlichen Flüchtlingsunterkünften Ein-Euro-Jobber beispielsweise im Bereich Kleiderkammer oder Essensausgabe als „Alltagshelfer“ eingesetzt? Wenn ja, bitte alle Stellen und Tätigkeiten nach Standorten, Trägern und Stundenzahl auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es werden keine Arbeitsgelegenheiten (AGH) nach § 16 d des Zweiten Buches Sozialgesetzbuch (SGB II) in Flüchtlingsunterkünften eingesetzt.
 
@@ -135,7 +136,7 @@ Wie wird die Zumutbarkeit nach § 10 SGB II (1) Satz 1 durch einen schriftlichen
 
 Besteht für den oder die Arbeitslosengeld-II-Leistungsberechtigte(n) nach § 10 SGB II (1) Satz 1 die Möglichkeit einer Ablehnung des in Frage 10. benannten Vermittlungsvorschlages? Wenn ja, welche Konsequenzen hat dieses für die Arbeitslosgengeld-II- Leistungsberechtigten? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Bei der schriftlichen Zuweisung in eine Arbeitsgelegenheit wird anhand der aus dem Profiling gewonnen Daten und der bisherigen Integrationsstrategie die Zumutbarkeit geprüft. In der Regel erfolgt die Zuweisung im Rahmen eines Beratungsgesprächs bei der zuständigen Integrationsfachkraft (IFK), sodass die Kundin/der Kunde gegebenenfalls Einwendungen beispielsweise bezüglich der Zumutbarkeit äußern kann.
 
@@ -165,7 +166,7 @@ Wie hoch ist das Entgelt für die Beschäftigungs- und Bildungsträger und Arbei
 
 Wie hoch ist das Entgelt für die Teilnehmer/-innen an einer FAV und Arbeitsgelegenheit (MAE)? Bitte jeweils auflisten in Mindeststundenanzahl und Maximalstundenanzahl pro Monat.
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Siehe Antworten zu 3. und zu 5.
 

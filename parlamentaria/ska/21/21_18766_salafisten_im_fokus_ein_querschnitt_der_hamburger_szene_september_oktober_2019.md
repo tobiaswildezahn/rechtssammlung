@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10721", "21/12273", "21/14086", "21/14702", "21/15181", "21/16149", "21/16845", "21/17978"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68437"
@@ -43,7 +44,7 @@ Wie war die Struktur der salafistischen Szene im September/Oktober 2019 in Hinbl
 
 Wie viele von diesen Leuten verfügen über die doppelte Staatsbürgerschaft? Bitte die jeweils aktuellen Kombinationen einzeln nennen und nicht auf andere Drucksachen verweisen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Salafisten  
 Jihadisten  
@@ -259,7 +260,7 @@ Gegen wie viele Personen, die vom Verfassungsschutz der salafistischen Szene zug
 
 Wie viele Personen, die vom Verfassungsschutz der salafistischen Szene zugerechnet werden, sind in diesem Zeitraum im Rahmen strafrechtlicher Prozesse verurteilt worden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/15181.
 

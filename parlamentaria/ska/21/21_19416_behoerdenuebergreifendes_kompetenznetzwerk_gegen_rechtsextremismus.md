@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 19
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18643", "21/19404", "21/14466", "21/14470", "21/18972", "20/2047", "21/15498"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69142"
@@ -131,7 +132,7 @@ g) Steht das Referat „Protestbewegungen“ auch Schulen beratend oder interven
 
 Wie viele Beratungen oder Interventionen hat das Referat „Protestbewegungen“ bislang durchgeführt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Behörde für Arbeit, Soziales, Familie und Integration (BASFI) hat zum 01.12.2018 das Referat „Protestbewegungen“ eingerichtet. Eine Stelle (E14/A14) wurde zum
 01.12.2018 besetzt, die zweite Stelle (E11/A11) zum 01.04.2019. Das Referat nimmt konzeptionelle Aufgaben in den Themenbereichen Prävention von linker Militanz und Prävention gewaltbereiter und distanzloser Jugendlicher und Jungerwachsener wahr. Das Referat ist keine Beratungs- oder Interventionsstelle. Die Erarbeitung des behördenübergreifenden Konzeptes ist Bestandteil der Regelaufgaben des Referats, darüber hinaus wurden keine weiteren Personal- und Sachmittel für die Erarbeitung aufgewandt.

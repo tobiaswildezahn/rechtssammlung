@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 22
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2466", "21/5039", "21/8105"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56813"
@@ -73,7 +74,7 @@ c) Wie lange sind diese Personen im Einzelnen bereits als Seelsorger tätig? Bit
 
 In welchen Justizvollzugsanstalten sind islamische Gefängnisseelsorger derzeit aktiv?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Zwei islamische Seelsorger, die beide Imame sind, wirken derzeit in Hamburger Justizvollzugsanstalten. Einer ist in der JVA Billwerder und der Untersuchungshaftanstalt tätig. Der andere übt diese Tätigkeit in der JVA Fuhlsbüttel und der Sozialtherapeutischen Anstalt aus.
 
@@ -151,7 +152,7 @@ b) Falls nein, warum nicht?
 
 Sind weitere Maßnahmen sind für die Zukunft geplant?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Drs. 21/8105.
 

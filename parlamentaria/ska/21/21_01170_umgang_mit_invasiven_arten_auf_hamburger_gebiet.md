@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 16
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49357"
@@ -111,7 +112,7 @@ Welche Behörde/Amt/Dienststelle ist für die Kontrolle und die Koordination von
 
 Wie hoch sind die für solche Maßnahmen zur Verfügung stehenden Haushaltsmittel? Wie hoch waren die zur Verfügung stehenden Haushaltsmittel in den vergangenen zehn Jahren (bitte jahresweise ausweisen)? Welche Maßnahmen wurden im Einzelnen damit finanziert?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die fachliche Verantwortung liegt je nach Wirkungsweise der jeweiligen Art bei der Behörde für Umwelt und Energie (für ökologische Probleme), bei der Behörde für Gesundheit und Verbraucherschutz (für gesundheitliche Probleme) und bei der Behörde für Wirtschaft, Verkehr und Innovation (für wirtschaftliche Probleme). Die Bezirksämter werden im Rahmen ihrer operativen Zuständigkeiten gegebenenfalls tätig, besitzen jedoch keine förmliche Zuständigkeit oder besondere Ressourcen für die Bekämpfung invasiver Arten.
 

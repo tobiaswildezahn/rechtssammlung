@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 17
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10291", "20/11402", "21/1323", "21/917"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49865"
@@ -53,7 +54,7 @@ Wie hoch ist die Gesamtzahl der Straßenbäume? Jeweils bitte nach Bezirken für
 
 Wie viele Straßenbäume wurden jeweils in der Fällsaison 2013/2014 und 2014/2015 gefällt? Jeweils bitte nach Bezirken aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung, Drs. 20/11402 sowie 21/1323.
 

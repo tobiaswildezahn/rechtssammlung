@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 19
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8048"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59586"
@@ -275,7 +276,7 @@ Für den Fall, dass man plant, die noch nicht sanierten Gebäude abzureißen: Wi
 
 Inwiefern sind die bereits sanierten Gebäude und die noch unsanierten unterschiedlich zu bewerten, sind sie doch alle in gleicher Bauweise und zu gleicher Zeit entstanden?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die Gebäude, für die die SAGA einen Abriss und Neubau beabsichtigt, stehen nicht unter Denkmalschutz. Im Übrigen siehe Drs. 21/8048.
 

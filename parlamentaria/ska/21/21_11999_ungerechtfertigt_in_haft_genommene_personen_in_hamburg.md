@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 38
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61257"
@@ -111,7 +112,7 @@ Wie viele Antragsteller/-innen haben neben der Entschädigung des Nichtvermögen
 
 Wie viele Anträge auf Entschädigung wurden 2017 hinsichtlich anderer Strafverfolgungsmaßnahmen im Sinne des § 2 Absatz 2 StrEG gestellt? Bitte aufschlüsseln nach Maßnahme des § 2 Absatz 2 Nummern 1 bis 6 und § 2 Absatz 3 StrEG. a. Wie viele der Anträge wurden aus welchen Gründen angelehnt? Bitte nach den jeweiligen Strafverfolgungsmaßnahmen aufschlüsseln. b. Wie hoch waren die jeweiligen Entschädigungszahlungen? Bitte nach den jeweiligen Strafverfolgungsmaßnahmen aufschlüsseln.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Antwort zu 1. bis 6. d.
 

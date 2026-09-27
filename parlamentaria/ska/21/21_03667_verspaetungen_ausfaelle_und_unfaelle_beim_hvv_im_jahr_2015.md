@@ -14,6 +14,7 @@ fragen: 26
 einzelfragen: 38
 antwortbloecke: 25
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52046"
@@ -790,7 +791,7 @@ zufrieden?
 Wenn ja, warum?  
 Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 22 bis 23
+#### Antwort zu Fragen 22 und 23
 
 Ja. Die Unfallzahlen verdeutlichen, dass – gemessen an der Verkehrsleistung – es sich um eine geringe Anzahl von Fällen handelt. Dieses geringe Niveau gilt auch für die Zahl der Unfälle mit schweren Personenschäden bei mehr als 400 Millionen Fahrgästen im Jahr. Die Unfallursachen zeigen, dass es sich um keine systembedingten Ursachen handelte.
 

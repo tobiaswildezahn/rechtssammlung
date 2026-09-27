@@ -10,12 +10,13 @@ urheber: ["Dr. Alexander Wolf"]
 fraktionen: ["AfD"]
 vorgang: 54046
 seiten: 1
-fragen: 0
-einzelfragen: 0
-antwortbloecke: 0
+fragen: 1
+einzelfragen: 1
+antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59034"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/59034/21_10193_durchfuehrung_von_geldsammlungen_an_hamburger_schulen_53_absatz_4_nummer_15_hmbsg_jahresabfrage_2015"
 abgerufen: "2026-09-26"
@@ -27,22 +28,24 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Dr. Alexander Wolf (AfD) vom 28.08.17 und Antwort des Senats · Drucksache vom 05.09.2017  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/59034) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/59034/21_10193_durchfuehrung_von_geldsammlungen_an_hamburger_schulen_53_absatz_4_nummer_15_hmbsg_jahresabfrage_2015)
 
-## Volltext
-
-Durchführung von Geldsammlungen an Hamburger Schulen (§ 53 Absatz 4 Nummer 15 HmbSG) – Jahresabfrage 2015
+## Einleitung für die Fragen
 
 Nach § 53 Absatz 4 Nummer 15 des Hamburgischen Schulgesetzes (HmbSG) entscheidet dezentral die jeweilige Schulkonferenz über die „Durchführung von Geldsammlungen“. Hierzu kann auch die Sammlung von Gegenständen zu sozialen Zwecken gezählt werden. Die Entscheidung über eine eventuelle Zweckbindung der im Rahmen einer Spendenaktion eingesammelten Gegenstände liegt ebenfalls bei der Schulkonferenz. Hierbei und bei anderen Spendenaktionen gilt das Gebot der Freiwilligkeit.
 
 Vor diesem Hintergrund frage ich den Senat:
 
+## Fragen und Antworten
+
+### Frage 1
+
 Welche Geld- oder Gegenstandssammlungen wurden im Jahr 2015 an Hamburger Schulen durchgeführt und für wen wurde gespendet?
 
-Bitte anhand einer Stichprobe1 unter Berücksichtigung der folgenden Kriterien beantworten:
+Bitte anhand einer Stichprobe unter Berücksichtigung der folgenden Kriterien beantworten:
 
 a) Art der Geld- oder Gegenstandssammlung,
 
 b) Verwendungszweck/Verwendungsempfänger.
 
-Die in § 53 Absatz 4 Nummer 15 des Hamburgischen Schulgesetzes (HmbSG) genannten Sammlungen mildtätiger Art werden von der für Bildung zuständigen Behörde statistisch nicht erfasst. Die Durchführung einer Schulabfrage ist während der Schulferien nicht möglich.
+#### Antwort zu Frage 1
 
-1 Bitte die nach alphabetischer Reihenfolge jeweils ersten zwei Schulen folgender Schultypen eines jeden Hamburger Bezirks einbeziehen: Gymnasium, Stadtteilschule, Grundschule, Berufsschule, Abendschule.
+Die in § 53 Absatz 4 Nummer 15 des Hamburgischen Schulgesetzes (HmbSG) genannten Sammlungen mildtätiger Art werden von der für Bildung zuständigen Behörde statistisch nicht erfasst. Die Durchführung einer Schulabfrage ist während der Schulferien nicht möglich.

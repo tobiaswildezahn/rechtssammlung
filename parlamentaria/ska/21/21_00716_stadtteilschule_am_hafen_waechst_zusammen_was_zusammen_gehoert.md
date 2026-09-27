@@ -14,6 +14,7 @@ fragen: 53
 einzelfragen: 60
 antwortbloecke: 52
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/302", "19/6273", "20/13784", "20/10163", "20/10935", "20/13193"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48871"
@@ -467,7 +468,7 @@ Wie viele Stellen sind derzeit im Lehrerkollegium vakant, wie viele dauererkrank
 
 Wie verteilen sich diese Personallücken auf die verschiedenen Standorte, wie ist die Praxis in Bezug auf standortübergreifende Vertretungen? (Falls nicht ohnehin regelhaft vorgesehen, siehe Frage 19.)
 
-#### Antwort zu Fragen 21 bis 22
+#### Antwort zu Fragen 21 und 22
 
 Zum Stichtag 15. Mai 2015 hat die Stadtteilschule am Hafen 1,34 Planstellen nicht besetzt. Die Fehlzeitenstatistik für das laufende Schuljahr liegt noch nicht vor, siehe auch Drs. 21/302. Mit insgesamt 13 Lehraufträgen und Aufstockungen im Volumen von rund drei Stellen konnten die vorhandenen Lücken geschlossen werden.
 

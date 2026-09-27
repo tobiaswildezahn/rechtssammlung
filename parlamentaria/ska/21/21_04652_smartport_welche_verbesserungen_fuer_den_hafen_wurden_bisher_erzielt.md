@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3967", "21/2314", "21/2164", "21/2950"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53077"
@@ -85,15 +86,15 @@ Eine Einstellung von smartPORT logistics (SPL) ist nicht vorgesehen. Siehe Vorbe
 
 b. Welche Maßnahmen haben Senat beziehungsweise HPA unternommen, um die Teilnahme an diesem Projekt zu erhöhen?
 
- Anbindung von SPL an bestehende IT-Lösungen für Fuhrunternehmer (zum Bei-
+– Anbindung von SPL an bestehende IT-Lösungen für Fuhrunternehmer (zum Bei-
 
 spiel UNIKAT GE Truck von DAKOSY),
 
- Kooperation und gemeinsame Weiterentwicklung mit dem Institut ISL, Bremen,
+– Kooperation und gemeinsame Weiterentwicklung mit dem Institut ISL, Bremen,
 
 Einreichung eines gemeinsamen Fördermittelantrags,
 
- Identifizierung des spezifischen Nutzens der Spediteure sowie entsprechende Wei-
+– Identifizierung des spezifischen Nutzens der Spediteure sowie entsprechende Wei-
 
 terentwicklung von SPL für den Nutzer Spediteur.
 

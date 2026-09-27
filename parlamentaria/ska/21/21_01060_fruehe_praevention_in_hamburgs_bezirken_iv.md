@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6287", "21/570", "20/9129", "20/10994"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49232"
@@ -201,17 +202,17 @@ Gelingende gesundheitliche Primärprävention setzt ein geringes soziales Risiko
 
 Gelingende gesundheitliche Primärprävention setzt auf Veränderung riskanter oder krankmachender Lebenswelten oder Milieus, um dadurch gesundheitsriskantes Verhalten zu beeinflussen. Welche Maßnahmen der Milieuveränderung hat der Senat unternommen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Im Rahmenprogramm Integrierte Stadtteilentwicklung werden Quartiere mit besonderem Entwicklungsbedarf gefördert. Unter anderem kann auch Gesundheitsförderung zu den Handlungsansätzen gehören.
 
 Die Ziele der Gesundheitsförderung sind mit denen der Integrierten Stadtteilentwicklung in festgelegten RISE-Gebieten und deren Einzugsbereichen sowie in ehemaligen Fördergebieten durch die folgenden Projekte der BGV konkret miteinander verknüpft:
 
-• Koordinierungsbausteine für Gesundheitsförderung (KoBA) – in den Gebieten Lurup, Phönix-Viertel, Hohenhorst, Rothenburgsort und Langenhorn für Koordinierungsaufgaben, Qualifizierungsmaßnahmen und Mikroprojekte zur Gesundheitsförderung.
+– Koordinierungsbausteine für Gesundheitsförderung (KoBA) – in den Gebieten Lurup, Phönix-Viertel, Hohenhorst, Rothenburgsort und Langenhorn für Koordinierungsaufgaben, Qualifizierungsmaßnahmen und Mikroprojekte zur Gesundheitsförderung.
 
-• Aufbau einer Gesundheits- und Präventionskette in Rothenburgsort.
+– Aufbau einer Gesundheits- und Präventionskette in Rothenburgsort.
 
-• „Gesunde Kinder in Harburg“ zur Förderung der gesunden Ernährung und Bewegung von Kindern und Jugendlichen insbesondere mit Migrationshintergrund, im Bezirk Harburg mit dem Schwerpunkt auf RISE-Gebieten (Phoenix-Viertel, Neugraben, Neuwiedenthal).
+– „Gesunde Kinder in Harburg“ zur Förderung der gesunden Ernährung und Bewegung von Kindern und Jugendlichen insbesondere mit Migrationshintergrund, im Bezirk Harburg mit dem Schwerpunkt auf RISE-Gebieten (Phoenix-Viertel, Neugraben, Neuwiedenthal).
 
 Seit dem 1. August 2014 ist die täglich fünfstündige Kita-Betreuung für alle Kinder von der Geburt bis zur Einschulung beitragsfrei. Dies stärkt insbesondere die Bildungsund Integrationschancen für Kinder aus sozial benachteiligten Familien. Eltern erhalten somit unabhängig von ihren finanziellen Möglichkeiten die Chance, ihre Kinder sowohl in der Krippe als auch im Elementarbereich an den frühkindlichen Bildungsangeboten teilhaben zu lassen.
 
@@ -225,16 +226,16 @@ Bestandteil der Programme Kita-Plus und Eltern-Kind-Zentren ist es, die Aspekte 
 
 Ausgehend vom Beschluss der Kultusministerkonferenz (KMK) „Empfehlung zur Gesundheitsförderung und Prävention in der Schule“ und den Handlungsempfehlungen zur Stärkung von Kindern in belasteten Lebenslagen des bundesweiten Kooperationsverbundes zur gesundheitlichen Chancengleichheit (siehe http://www.gesundheitliche-chancengleichheit.de/gesundheitsfoerderung-bei-kindernund-jugendlichen/) werden bei Maßnahmen zur schulischen Gesundheitsförderung die lebensweltlichen und sozialräumlichen Voraussetzungen der Kinder und Jugendlichen und ihrer Familien miteinbezogen. Bei der Unterstützung von Schulen durch das Landesinstitut für Lehrerbildung und Schulentwicklung (LI) werden deshalb sowohl die Verhältnis- als auch die Verhaltensprävention berücksichtigt. So lernen Schülerinnen und Schüler im Rahmen der Lebenskompetenzförderung, schwierige Lebenssituationen zu bewältigen, Unterstützungsmöglichkeiten zu nutzen und Einfluss auf die Gestaltung von Lebenswelten zu nehmen. In der Beratung und Fortbildung von schulischen Fachkräften sowie auf Fachveranstaltungen zur guten gesunden Schule und zu spezifischen Themenfeldern der Gesundheitsförderung, wie zum Beispiel Ernährungs- und Verbraucherbildung und Suchtprävention, werden regelhaft sozialräumliche Bezüge und die Wirksamkeit von Präventions- und Bildungsketten (siehe http://www.bzga.de/?sid=1144) in den Blick genommen. Beispielhaft können dazu folgende Maßnahmen genannt werden:
 
-• jährliche Ausschreibung „Gesunde Schule“ der Hamburgischen Arbeitsgemeinschaft für Gesundheitsförderung e.V. (HAG, siehe http://www.hag-gesundheit.de/ lebenswelt/schule/gesunde-schule),
+– jährliche Ausschreibung „Gesunde Schule“ der Hamburgischen Arbeitsgemeinschaft für Gesundheitsförderung e.V. (HAG, siehe http://www.hag-gesundheit.de/ lebenswelt/schule/gesunde-schule),
 
-• Lernarrangements  
+– Lernarrangements  
 zur  
 Suchtprävention  
 (siehe  
 http://li.hamburg.de/  
 unterrichtswerkstaetten/),
 
-• jährlich stattfindende Fachmesse „Pakt für Prävention – Gesundheitsförderung an Hamburger Schulen“ am LI.
+– jährlich stattfindende Fachmesse „Pakt für Prävention – Gesundheitsförderung an Hamburger Schulen“ am LI.
 
 Gewalt ist einer der Hauptrisikofaktoren für die Gesundheit von Frauen und Mädchen, aber auch von Männern und Jungen. Gewaltbetroffenheit kann das Gesundheitsverhalten insgesamt negativ beeinflussen. Mit dem Konzept zur Bekämpfung von Gewalt gegen Frauen und Mädchen, Menschenhandel und Gewalt in der Pflege hat der Senat Maßnahmen beschlossen, bei denen es im Kern darum geht, Gewalt zu erkennen, sich gegen sie auszusprechen, konsequent einzugreifen und die Opfer nach Kräften zu unterstützen (siehe Drs. 20/10994).
 
@@ -262,35 +263,35 @@ Mitte
 
 Zentrales FT im Fachamt HH-Mitte
 
-  
+–  
 0,75 Stelle Soz. Päd  
-  
+–  
 2,25 Stellen FGKiKP  
 Billstedt
 
-  
+–  
 33 WS FH  
-  
+–  
 11 WS Soz.Päd  
 Rothenburgsort
 
-  
+–  
 0,85 Stelle FH  
-  
+–  
 0,12 Stelle Soz.Päd  
 Elbinsel
 
-  
+–  
 0,9 Stelle FH  
-  
+–  
 0,23 Stelle FGKIKP  
-  
+–  
 0,4 Stelle Soz.Päd  
 Mümmelmannsberg
 
-  
+–  
 0,5 Stelle FH  
-  
+–  
 0,5 Stelle Soz. Päd.  
 Altona  
 3 FT  
@@ -301,29 +302,29 @@ Iserbrook) (DKSB)
 
 Für den Träger Deutscher Kinderschutzbund (DKSB):
 
-  
+–  
 1,0 Stelle Soz.Päd  
-  
+–  
 19,5 WS FH  
-  
+–  
 4 WS Soz. Päd  
-  
+–  
 19,5 WS Soz. Päd.  
-  
+–  
 22 WS FH  
 Für den Träger Adebar:
 
-  
+–  
 14 WS FH  
-  
+–  
 25 WS FH  
-  
+–  
 15 WS FH  
-  
+–  
 20 WS FH  
-  
+–  
 10 WS Soz.Päd.  
-  
+–  
 10WS Soz.Päd  
 Eimsbüttel
 
@@ -336,12 +337,12 @@ Familien,
 Lappenbergsallee,  
 4 regionale Standorte in Lokstedt, Stellingen, Eidelstedt und Schnelsen
 
-  
+–  
 3 x 19,5 Wochen-  
 Std. FH  
-  
+–  
 1x WS 19,5 FGKiKP  
-  
+–  
 1 x 19,5 WS. Netzwerkerin (Sozpäd)  
 Hamburg-  
 Nord
@@ -355,10 +356,10 @@ Barmbek Basch
 
 FT Barmbek/Dulsberg
 
-  
+–  
 39 Std./WS., aufgeteilt auf 2 FH  
 FT Langenhorn:  
-•  
+–  
 28,5 Std/WS. Aufgeteilt auf 2 FH  
 In beiden Teams stehen Familiengesundheits-  
 Kinderkrankenschwestern  
@@ -384,48 +385,48 @@ Wandsbek
 
 FT Bramfeld/Steilshoop
 
-  
+–  
 12,5 WS Soz.Päd  
-  
+–  
 20 WS FH  
-  
+–  
 10,5 WS FGKIKP  
 FT Jenfeld/Hohenhorst
 
-  
+–  
 12,5 WS Soz.Päd  
-  
+–  
 14,5 WS FH  
-  
+–  
 9,5 WS FGKiKP  
 Wandsbek-Kern;  
 Marienthal,EIlbek
 
-  
+–  
 10 WS Soz.Päd  
-  
+–  
 20 WS FH  
 Farmsen-Berrne; Meiendorf
 
-  
+–  
 40 WS 2 FH  
-  
+–  
 12,5 WS 2 Soz.Päd  
 FT Alstertal
 
-  
+–  
 12,5 WS Soz.Päd  
-  
+–  
 11 WS FH  
-  
+–  
 9 WS FGKiKP  
 Walddörfer
 
-  
+–  
 5 WS Soz.Päd  
-  
+–  
 5 WS Soz. Päd  
-  
+–  
 20 WS 1 FH  
 Bergedorf  
 3 FT  
@@ -435,20 +436,20 @@ Bergedorf
 
 KiFaz Lohbrügge
 
-  
+–  
 19,5 WS Soz. Päd  
-  
+–  
 19,5 WS Hebamme  
 Standort Neuallermöhe  
-  
+–  
 40 WS Soz.Päd  
-  
+–  
 40 WS Hebamme  
 FT Nestlotsen
 
-  
+–  
 42 WS FH  
-  
+–  
 30 WS Soz.Päd  
 Für alle drei FT stehen 9 WS  
 FGKiKP der Mütterberatung  
@@ -459,19 +460,19 @@ Harburg
 2. FT Harburg  
 Süderelbe
 
-  
+–  
 39 WS FH  
-  
+–  
 90,7 WS FGKiKP  
 Krankenschwestern  
 und Kinderkrankenschwestern  
-  
+–  
 39 WS Soz.Päd  
 Harburg
 
-  
+–  
 20 WS FH  
-  
+–  
 127,5 WS FGKiKP;  
 Krankenschwestern  
 und Kinderkrankenschwestern  

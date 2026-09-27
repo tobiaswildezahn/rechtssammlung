@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 31
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4879", "21/2108", "21/5303"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53818"
@@ -43,7 +44,7 @@ Wie viele Personen sind dort zurzeit untergebracht?
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungs, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Geschlecht  
 davon Erwachsene  

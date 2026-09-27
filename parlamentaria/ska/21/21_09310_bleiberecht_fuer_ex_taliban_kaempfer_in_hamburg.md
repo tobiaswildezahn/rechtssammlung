@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7304"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58071"
@@ -77,7 +78,7 @@ Bei wie vielen Flüchtlingen in Hamburg gehen die Behörden davon aus, dass die 
 
 In wie vielen Fällen von in Hamburg lebenden Flüchtlingen gehen die Behörden davon aus, dass die entsprechende Behauptung in nicht zutreffender Weise erfolgte?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Polizei hat in den zu Antwort zu 1. genannten Fällen Ermittlungsverfahren eingeleitet, die noch nicht abgeschlossen sind; von weiterführenden Angaben hierzu wird daher abgesehen.
 

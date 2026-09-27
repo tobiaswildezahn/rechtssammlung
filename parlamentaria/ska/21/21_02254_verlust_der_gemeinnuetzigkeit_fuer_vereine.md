@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50525"
@@ -45,7 +46,7 @@ Welche Kenntnisse hat der Senat im Hinblick auf die beschriebene Problematik?
 
 Wie bewertet der Senat die eingangs beschriebene Problematik im Hinblick auf Hamburger Sportvereine?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der zuständigen Behörde ist bekannt, dass in anderen Ländern einige Sportvereine von dem für sie zuständigen Finanzamt darauf hingewiesen wurden, dass eine nach der Vereinssatzung nicht zulässige Nutzung der Vereinsressourcen durch Nichtmitglieder zur Aberkennung der steuerlichen Gemeinnützigkeit führen kann. Vor diesem Hintergrund haben die Finanzministerinnen und -minister und die Finanzsenatoreninnen und -senatoren der Länder mit Zustimmung Hamburgs anlässlich der Finanzministerkonferenz am 12. November 2015 festgestellt, dass die Aufnahme von Flüchtlingen als beitragsbefreite Mitglieder in gemeinnützigen Vereinen nicht dazu führt, dass die Gemeinnützigkeit der Vereine gefährdet wird. Auch weitergehendes Engagement der Vereine wurde auf Grundlage der geltenden Rechts- und Anweisungslage als gemeinnützigkeitsrechtlich unproblematisch erachtet.
 
@@ -57,7 +58,7 @@ Gab/gibt es in der Freien und Hansestadt Hamburg Fälle, in welchen Vereinen der
 
 Gab/gibt es in der Freien und Hansestadt Hamburg Vereine, welche von einem Entzug der Gemeinnützigkeit bedroht sind? Wenn ja, in welchen Fällen und basierend auf welcher Regelung?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 In der Bundesrepublik Deutschland und damit auch in der Freien und Hansestadt Hamburg ist die Gemeinnützigkeit an Voraussetzungen gebunden, bei deren Nichteinhaltung die Gemeinnützigkeit zu entziehen ist. Ein Hinweis auf diese Rechtsfolge erfolgt insbesondere dann, wenn deren Eintritt durch eine Änderung des Verhaltens
 
@@ -82,6 +83,6 @@ geäußert?
 Wenn ja, wie?  
 Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 1. und 2.

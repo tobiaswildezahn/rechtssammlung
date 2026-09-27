@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10837"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65191"
@@ -51,7 +52,7 @@ Wie sind der genaue Sachstand und der aktuelle Zeitplan bezüglich der Veräuße
 
 Aus welchen Gründen konnte ein Verkauf gegebenenfalls noch nicht abgeschlossen werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die für den Dezember des Jahres 2018 vorgesehene Veräußerung des HOCHBAHN- Geschäftsanteils an der BeNEX und des Kommanditanteils an der agilis Eisenbahngesellschaft mbH & Co. KG konnte aus käuferseitigen Gründen noch nicht realisiert werden. Nach den derzeitigen Verabredungen ist vorgesehen, eine notarielle Beurkundung der Veräußerung zu Beginn des Jahres 2019 zu vollziehen.
 

@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 23
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2108", "21/10137", "21/14071", "21/13044"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64025"
@@ -43,7 +44,7 @@ Wie viele Personen waren in der örU Duvenacker seit ihrer Erstbelegung jeweils 
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Dezember 2017 Geschlecht
 
@@ -402,7 +403,7 @@ c) Sicherheit?
 
 Wie viele davon tagsüber (7 – 18 Uhr), wie viele davon abends und nachts (18 – 7 Uhr)? Wenn es abweichende Dienstzeiten gibt, bitte diese nennen und die Aufschlüsselung hiernach geben.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 In der Unterkunft sind vier Mitarbeitende im Unterkunfts- und Sozialmanagement und drei Mitarbeitende im Technischen Dienst eingesetzt. Alle Mitarbeiterinnen und Mitarbeiter sind tagsüber tätig.
 
@@ -481,17 +482,17 @@ Welche Angebote werden den Flüchtlingen gemacht (Bildung, Freizeitgestaltung)?
 
 Es gibt folgende Angebote:
 
-• Duvencafé (Freizeitgestaltung),
+– Duvencafé (Freizeitgestaltung),
 
-• Musik mit Kindern (Freizeitgestaltung),
+– Musik mit Kindern (Freizeitgestaltung),
 
-• Deutsch AG und Hausaufgabenhilfe (Bildungsangebot),
+– Deutsch AG und Hausaufgabenhilfe (Bildungsangebot),
 
-• Tanz und Musik für Frauen (Freizeitgestaltung),
+– Tanz und Musik für Frauen (Freizeitgestaltung),
 
-• Spieletiger (Freizeitgestaltung),
+– Spieletiger (Freizeitgestaltung),
 
-• Hebammen-Sprechstunde (Bildungs- und Vorsorgeangebot).
+– Hebammen-Sprechstunde (Bildungs- und Vorsorgeangebot).
 
 ### Frage 14
 
@@ -509,7 +510,7 @@ Welcher Quartiersentwickler erhielt den Zuschlag und wann nahm er die Arbeit auf
 
 Wie viele Mitglieder hat der Quartiersbeirat, was ist ihr jeweiliger Hintergrund und wann nahm/nimmt er seine Arbeit auf?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Siehe Drs. 21/13044. Darüber hinaus siehe http://www.eidelstedt-mitte.de/.
 

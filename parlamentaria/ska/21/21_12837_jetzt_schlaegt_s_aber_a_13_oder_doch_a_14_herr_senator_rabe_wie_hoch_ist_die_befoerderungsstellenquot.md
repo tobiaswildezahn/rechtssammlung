@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12166", "21/12608"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62158"
@@ -58,7 +59,7 @@ Da bisherig (vergleiche Anlagen zu Drs. 21/12166 und 21/12608) nicht die tatsäc
 
 An wie vielen und welchen staatlichen Standorten welcher Schulformen in Hamburg wurde/wird die ausgegebene Quote von 40 Prozent zur Verfügung stehender Beförderungsstellen/Funktionsstellen A 13 pro Jahr, gemessen an der Anzahl neu eingestellter Lehrer/-innen (siehe 4. Gesetz zur Änderung des Hamburgischen Besoldungsgesetzes 2003) seit 2015/2016 bis heute (Ist-Stand 26.4.2018) nicht eingehalten? (Bitte für jedes Schuljahr einzeln pro Schulform, mit Standort, Sozialindex und Bezirk in absoluten Zahlen und in Prozent zur Gesamt-Lehrer-/ -innenschaft am Standort in einer Excel-Tabelle angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlagen 1 bis 6. Bei Beförderungen nach A 13 werden im zentralen Bezügeabrechnungsverfahren (PAISY) zwei Schlüssel verwendet („LehrFunk A13“ bei Übernahme herausgehobener Aufgaben; „LehrFuA13“ bei Übernahme von Beurteilungsfunktionen). Im Sinne der Fragestellung wurden beide Schlüssel bei der Erhebung der Daten berücksichtigt. Da Beförderungen laufbahnabhängig sind, kann die geforderte Berechnung der Anteile nicht auf alle Lehrkräfte bezogen werden. In den Anlagen wurde daher Bezug auf alle mit A 12 eingestiegenen Lehrkräfte genommen.
 

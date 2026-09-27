@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 20
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62939"
@@ -245,7 +246,7 @@ den Wahlkreis 13.
 
 Wie viele Sporthallenfelder gab es am 1.8.2011 insgesamt im Wahlkreis 13 und wie viele wird es 2020 geben?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Gab es im Jahr 2011 46 Sporthallenfelder, so waren es im Jahr 2017 56. Für das Jahr 2020 sind 59 Sporthallenfelder geplant. Das sind 13 zusätzliche Sporthallenfelder, die nicht nur den Schulen, sondern auch den Sportvereinen zusätzlich zur Verfügung stehen werden.
 

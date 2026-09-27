@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 40
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10216"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62608"
@@ -77,7 +78,7 @@ Welche sachlichen und fachlichen Zwänge begründen die zum 1. August 2018 in Kr
 
 Wurde die ab 1. August 2018 einsetzende veränderte Dienstzeitregelung für die PTF auf Drängen beziehungsweise auf Weisung/Anregung von außerhalb des Ressorts Schule und Berufsbildung auf den Weg gebracht? Wenn ja, von wo genau, wie und wann geschah das? a. Wenn ja, inwiefern waren dabei die Finanzbehörde Hamburg beziehungsweise Haushaltszwänge welcher Art relevant und um welche Überlegungen handelte es sich diesbezüglich konkret? b. Wenn ja, inwiefern war dabei der Rechnungshof relevant und um welche Überlegungen handelte es sich diesbezüglich konkret?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -159,7 +160,7 @@ Wie wird seitens des Senats beziehungsweise der zuständigen Fachbehörde sicher
 
 Wie wird seitens des Senats beziehungsweise der zuständigen Fachbehörde sichergestellt, dass die PTF an den Schulen, trotz größerer Verfügungsrechte der jeweiligen Schulen über deren Arbeitszeitkontingente, nicht unangemessen eingesetzt und belastet werden? a. Welche Abteilung ist dafür zuständig und welcher Verfahrensweg ist dafür vorgesehen?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Durch die Dienstanweisung an die Schulleitung stellt die für Bildung zuständige Behörde sicher, dass das PTF nicht unangemessen eingesetzt wird und die notwendige pädagogisch-therapeutische Arbeit geleistet werden kann. Die zuständige Schulaufsicht nimmt im Rahmen der Schulbesuche und der Gespräche mit den Schulleitungen die Vorgesetztenaufgabe wahr und ist der Ansprechpartner bei eventuellen Problemen oder der Notwendigkeit von Regulierung.
 
@@ -213,6 +214,6 @@ Nach aktuellen Zahlen des Senats (siehe Drs. 21/10216) sind gegenwärtig zwei Dr
 
 Inwiefern und mit welcher Rechtfertigung erachtet der Senat/die zuständige Fachbehörde den Einsatz von PTF in der Unterrichtsvertretung als vertretbar, den Betroffenen gegenüber gerechtfertigt und zumutbar? (Bitte sachlich und fachlich erläutern.) a. Inwiefern und mit welcher Rechtfertigung erachtet der Senat/die zuständige Fachbehörde diesen Einsatz von PTF in der Unterrichtsvertretung als vertretbar in Bezug auf das Bildungsanrecht der betroffenen Schüler/-innen und auf deren zu erreichende Lern und Bildungsziele? (Bitte sachlich und fachlich erläutern.)
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Grundsätzlich ist das pädagogisch-therapeutische Fachpersonal nicht für die Erteilung von Unterricht vorgesehen. So dürfen beispielsweise Personen, die über die Qualifikationen des PTF verfügen, keine Lehraufträge zur Vertretung von Unterricht übernehmen. Weder in der Stellenbeschreibung noch in der Dienstzeitregelung ist Vertretungsunterricht vorgesehen. Lediglich die Vertretung des PTF untereinander ist in der K-Zeit verankert.

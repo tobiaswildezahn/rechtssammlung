@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 21
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18855", "21/19263", "21/19412", "21/20116", "21/18319"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70023"
@@ -128,7 +129,7 @@ Wie viele VZÄ sind aktuell jeweils in den zuständigen Behörden beziehungsweis
 
 Sind für das Jahr 2020 personelle Aufstockungen für die Bearbeitung der Anerkennungsverfahren geplant? Wenn ja, wo in jeweils welcher Höhe? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Zum Stellenbestand siehe Drs. 21/18855.
 

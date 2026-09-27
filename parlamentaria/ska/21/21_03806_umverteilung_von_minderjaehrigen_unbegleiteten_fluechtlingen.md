@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 19
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3174", "21/3345", "21/3646"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52223"
@@ -188,17 +189,17 @@ Wie hat der Senat die Bedarfsplanung für die Unterbringung minderjähriger unbe
 
 Der LEB hat seit dem 1. November 2015 folgende Maßnahmen ergriffen:
 
- Abbau von zusätzlichen temporären Platzkapazitäten (insbesondere von Zelten/
+– Abbau von zusätzlichen temporären Platzkapazitäten (insbesondere von Zelten/
 
 Hallen) für die Erstaufnahme im Kinder- und Jugendnotdienst am Standort Feuerbergstraße und weiteren Standorten
 
- Abbau von Überbelegungen in bestehenden Erstversorgungseinrichtungen
+– Abbau von Überbelegungen in bestehenden Erstversorgungseinrichtungen
 
- Reduzierung der Sollplätze in bestehenden Erstversorgungseinrichtungen und
+– Reduzierung der Sollplätze in bestehenden Erstversorgungseinrichtungen und
 
 damit Schaffung eines angemesseneren Standards (zum Beispiel durch Reduzierung der Anzahl der Betten pro Zimmer)
 
- Umwandlung einer Erstversorgungseinrichtung mit 52 Plätzen in eine Einrichtung
+– Umwandlung einer Erstversorgungseinrichtung mit 52 Plätzen in eine Einrichtung
 
 nach § 41/34 SGB VIII für volljährig gewordene unbegleitete Flüchtlinge.
 

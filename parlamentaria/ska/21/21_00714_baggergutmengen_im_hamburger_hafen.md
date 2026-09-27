@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/389"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48869"
@@ -113,63 +114,63 @@ a. Delegationsstrecke Elbe
 
 b. Hafenbecken (bitte Aufteilung nach den verschiedenen Hafenbecken im Hamburger Hafen), insbesondere:
 
- Köhlfleet
+– Köhlfleet
 
- Finkenwerder Vorhafen
+– Finkenwerder Vorhafen
 
- Dradenau Hafen
+– Dradenau Hafen
 
- Parkhafen
+– Parkhafen
 
- Waltershofer Hafen
+– Waltershofer Hafen
 
- Sandauhafen
+– Sandauhafen
 
- Blumensand Hafen
+– Blumensand Hafen
 
- Neuhöfer Hafen
+– Neuhöfer Hafen
 
- Kattwyk Hafen
+– Kattwyk Hafen
 
- Vorhafen
+– Vorhafen
 
- Werfthafen
+– Werfthafen
 
- Kuhwerderhafen
+– Kuhwerderhafen
 
- Kaiser-Wilhelm-Hafen
+– Kaiser-Wilhelm-Hafen
 
- Roßhafen
+– Roßhafen
 
- Ellerholzhafen
+– Ellerholzhafen
 
- Oderhafen
+– Oderhafen
 
- Travehafen
+– Travehafen
 
- Südwesthafen
+– Südwesthafen
 
- Segelschiffhafen
+– Segelschiffhafen
 
- Hansahafen
+– Hansahafen
 
- Moldauhafen
+– Moldauhafen
 
- Saalehafen
+– Saalehafen
 
- Spreehafen
+– Spreehafen
 
- Klütjenhafen
+– Klütjenhafen
 
- Steinwerder Hafen
+– Steinwerder Hafen
 
- Südwesthafen
+– Südwesthafen
 
- Peutehafen
+– Peutehafen
 
- Schluisgrovehafen
+– Schluisgrovehafen
 
- Seehafen 1 – 4
+– Seehafen 1 – 4
 
 2012 2013 2014***
 

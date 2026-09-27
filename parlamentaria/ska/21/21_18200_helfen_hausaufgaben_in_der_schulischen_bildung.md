@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15798", "21/16902", "21/17000", "21/16319"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67829"
@@ -69,7 +70,7 @@ Inwiefern sind die Bemerkungen des Schulsenators über zusätzliche Hausaufgaben
 
 Wenn die Bemerkungen des Schulsenators konzeptionell aufgegriffen wurden, welche zusätzlichen Ressourcen wurden entsprechend bereitgestellt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -89,7 +90,7 @@ Werden Hausaufgaben erteilt, wie ist vorgesehen, diese Arbeiten von Schülern/-i
 
 Welche Ressourcen werden Lehrkräften zur angemessenen Vor- und Nachbereitung von Hausaufgaben bereitgestellt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 
@@ -109,6 +110,6 @@ Wie bewertet die BSB den pädagogischen Wert von Hausaufgaben?
 
 Welches Verhältnis erachtet die BSB für angemessen zwischen der zur Verfügung stehenden außerschulischen Arbeitszeit der Schüler/-innen und dem Umfang der Hausaufgaben?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung.

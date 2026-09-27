@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3614", "21/3747"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55361"
@@ -61,7 +62,7 @@ Wie erfolgen die Auswahl und die Vergabe der Leistungen?
 
 Nach welchen Kriterien und unter welchen Voraussetzungen werden die Sportvereine von den Schulen als Kooperationspartner ausgewählt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Auswahl und Vergabe nach dem Angebots- und Vereinsmodell liegt in der Verantwortung der jeweiligen Schule. Die Auswahl eines GBS-Trägers und die Vergabe der Leistungen erfolgt über ein im Landesrahmenvertrag GBS geregeltes und in der Vertragskommission vereinbartes Verfahren, siehe auch Drs. 21/3747. Im Übrigen siehe Vorbemerkung.
 
@@ -81,7 +82,7 @@ Welche Sportarten werden an welchen Schulen im Rahmen des GBS angeboten und wie 
 
 Kann das Angebot diese Nachfrage decken, oder kam es in der Vergangenheit zu einem Unterangebot bei bestimmten Sportarten? Wenn ja, in welchen Schulen und bei welchen Sportarten hat die Nachfrage das Angebot überschritten? Wie wurde darauf reagiert?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die erfragten Angaben zur Nachfrage an den Schulen werden nicht durch die zuständige Behörde zentral erfasst, da die Steuerung über die Einzelschule entsprechend den Bedarfen vor Ort erfolgt. Zu den Angeboten des Schuljahres 2015/2016 nach dem Angebots- und Vereinsmodell siehe Anlage 2.
 

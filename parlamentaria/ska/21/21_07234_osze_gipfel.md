@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55828"
@@ -97,7 +98,7 @@ In welcher Höhe hat der Einsatz Kosten verursacht? Wie gestalten sich die Koste
 
 Welche Kosten hat die Freie und Hansestadt Hamburg zu tragen? Wer bezahlt den Einsatz der auswärtigen Kräfte? Bestehen diesbezüglich Verabredungen mit anderen Bundesländern und wenn ja, welche?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Kosten auswärtiger Polizeikräfte der Länder – soweit sie im Rahmen der BAO „Hammonia“ unterstellt waren – werden im Rahmen der „Verwaltungsvereinbarung über vereinfachte Regelungen und einheitliche Pauschalen für die Abrechnung von Unterstützungseinsätzen“ mit Hamburg abgerechnet. Für den Einsatz von Kräften und Einsatzmitteln des Bundes besteht ein Kostenverzicht.
 
@@ -113,29 +114,29 @@ Die Frage nach „Zwischenfällen“ bezieht sich auf keine polizeiliche Begriff
 
 Anzeigen wurden wegen folgender Strafrechtsverstöße erstattet beziehungsweise von Amts wegen eingeleitet:
 
- 1x § 111 Strafgesetzbuch (StGB) (Aufforderung zu Straftaten)
+– 1x § 111 Strafgesetzbuch (StGB) (Aufforderung zu Straftaten)
 
- 1x § 126 StGB (Störung des öffentlichen Friedens durch Androhung von Strafta-
+– 1x § 126 StGB (Störung des öffentlichen Friedens durch Androhung von Strafta-
 
 ten)
 
- 1x § 130a StGB (Anleitung zu Straftaten)
+– 1x § 130a StGB (Anleitung zu Straftaten)
 
- 2x § 140 StGB (Billigung von Straftaten)
+– 2x § 140 StGB (Billigung von Straftaten)
 
- 1x § 185 StGB (Beleidigung)
+– 1x § 185 StGB (Beleidigung)
 
- 1x §§ 185 StGB i.V.m. § 33 i.V.m. §§ 22, 23 Kunsturhebergesetz
+– 1x §§ 185 StGB i.V.m. § 33 i.V.m. §§ 22, 23 Kunsturhebergesetz
 
 (Beleidigung in Verbindung mit einem Verstoß gegen das Kunsturhebergesetz)
 
- 1x §§ 224, 22, 23 StGB (versuchte gefährliche Körperverletzung)
+– 1x §§ 224, 22, 23 StGB (versuchte gefährliche Körperverletzung)
 
- 16x § 303 StGB (Sachbeschädigung)
+– 16x § 303 StGB (Sachbeschädigung)
 
- 1x § 304 StGB (gemeinschädliche Sachbeschädigung)
+– 1x § 304 StGB (gemeinschädliche Sachbeschädigung)
 
- 2x § 27 (2) Nummer 2 Versammlungsgesetz
+– 2x § 27 (2) Nummer 2 Versammlungsgesetz
 
 (Führen von Gegenständen, die die Feststellung der Identität verhindern/ Vermummung)
 

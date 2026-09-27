@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 19
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7669"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56796"
@@ -101,7 +102,7 @@ Was spricht aus Sicht des Senats beziehungsweise der zuständigen Behörde dageg
 
 Welche konkreten Schritte plant der Senat beziehungsweise die zuständige Behörde, damit auch im Bezirk Hamburg-Nord endlich Luftstationen installiert werden?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Entscheidung über die Einrichtung von Luftstationen sowie deren Umsetzung liegt in der Zuständigkeit der Bezirksämter. Im Übrigen siehe Antwort zu 1. bis 5.
 

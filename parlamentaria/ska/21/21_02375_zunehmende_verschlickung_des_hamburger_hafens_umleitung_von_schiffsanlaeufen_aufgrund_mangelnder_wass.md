@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 11
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1981", "21/910", "21/2239"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50661"
@@ -47,7 +48,7 @@ Wie viele Forderungen nach Mietminderungen liegen der HPA inzwischen vor und auf
 
 Wie viele Beschwerden und wie viele Schadensersatzforderungen aufgrund mangelnder Wassertiefen in den Hafenbecken liegen der HPA inzwischen vor? Wie wurde damit im Einzelnen umgegangen? Wie viele Beschwerden und wie viele Schadensersatzforderungen aufgrund mangelnder Wassertiefen in den Hafenbecken sind bei der HPA seit 1. Januar 2015 eingegangen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/910 und 21/2239.
 

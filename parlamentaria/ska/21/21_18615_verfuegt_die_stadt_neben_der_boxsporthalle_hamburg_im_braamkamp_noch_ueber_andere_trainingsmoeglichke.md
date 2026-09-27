@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68281"
@@ -51,7 +52,7 @@ Wann hat die Behörde für Inneres und Sport (BIS) sich jeweils mit der Problema
 
 Welche Maßnahmen wurden durch die BIS ergriffen, um das Problem zu lösen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

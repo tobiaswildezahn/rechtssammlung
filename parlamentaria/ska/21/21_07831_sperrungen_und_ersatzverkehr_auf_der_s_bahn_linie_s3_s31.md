@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56466"
@@ -41,23 +42,23 @@ Aus Wilhelmsburg kommen viele Vorschläge für einen verbesserten Ersatzverkehr 
 
 ## Einleitung für die Antworten des Senats
 
- Betrieb der Fähre 73 auch an Wochenenden; dieses ist auch bei einer
+– Betrieb der Fähre 73 auch an Wochenenden; dieses ist auch bei einer
 
 Sperrung der S-Bahn die einzige Möglichkeit, Fahrräder mitzunehmen,
 
- durchgehender 20-Minuten-Betrieb der Fähre 73,
+– durchgehender 20-Minuten-Betrieb der Fähre 73,
 
- Öffnung des Schnellbusses 34 für Fahrgäste ohne Zuschläge,
+– Öffnung des Schnellbusses 34 für Fahrgäste ohne Zuschläge,
 
- Verdichtung des Schnellbusses 34 auf einen durchgehenden 20-Minuten-
+– Verdichtung des Schnellbusses 34 auf einen durchgehenden 20-Minuten-
 
 Betrieb,
 
- Verlängerung der MetroBus-Linie 13 über die Veddel zur U-Bahn HafenCi-
+– Verlängerung der MetroBus-Linie 13 über die Veddel zur U-Bahn HafenCi-
 
 ty-Universität (Station mit Fahrstuhl und freien Sitzplätzen in den U-Bahnen),
 
- Verstärkung der Regionalbahn (Metronom) zwischen Harburg und Ham-
+– Verstärkung der Regionalbahn (Metronom) zwischen Harburg und Ham-
 
 burg Hbf.
 
@@ -93,31 +94,31 @@ Für welche Zeiträume in 2017 und in den Folgejahren sind bisher Sperrungen auf
 
 Folgende Sperrungen sind derzeit für den südlich des Hauptbahnhofs liegenden Ast der S3/S31 vorgesehen:
 
- 18.2., 1 Uhr – 19.2.2017, Betriebsschluss: Hauptbahnhof – Wilhelmsburg; S3/S31
+– 18.2., 1 Uhr – 19.2.2017, Betriebsschluss: Hauptbahnhof – Wilhelmsburg; S3/S31
 
 mindestens bis Berliner Tor, Schienenersatzverkehr (SEV) Berliner Tor – Wilhelmsburg (Bau Station Elbbrücken)
 
- 25.2., 1 Uhr – 26.2.2017, Betriebsschluss: Hauptbahnhof – Wilhelmsburg; S3/S31
+– 25.2., 1 Uhr – 26.2.2017, Betriebsschluss: Hauptbahnhof – Wilhelmsburg; S3/S31
 
 mindestens bis Berliner Tor, SEV Berliner Tor – Wilhelmsburg (Bau Station Elbbrücken)
 
- 12.4., Betriebsbeginn – 17.4.2017, Betriebsschluss: Harburg Rathaus – Neugra-
+– 12.4., Betriebsbeginn – 17.4.2017, Betriebsschluss: Harburg Rathaus – Neugra-
 
 ben; SEV Harburg Rathaus – Neugraben (Weichenerneuerungen Neugraben)
 
- 10.6., 1 Uhr – 11.6.2017, Betriebsschluss: Hammerbrook – Wilhelmsburg; S3 bis
+– 10.6., 1 Uhr – 11.6.2017, Betriebsschluss: Hammerbrook – Wilhelmsburg; S3 bis
 
 Berliner Tor, S31 bis Hammerbrook, SEV Berliner Tor/Hammerbrook – Wilhelmsburg (Bau Station Elbbrücken)
 
- 14.10., 1 Uhr – 27.10.2017, 3 Uhr: Wilhelmsburg – Harburg Rathaus; S3 bis Wil-
+– 14.10., 1 Uhr – 27.10.2017, 3 Uhr: Wilhelmsburg – Harburg Rathaus; S3 bis Wil-
 
 helmsburg, S31 bis Berliner Tor, SEV Wilhelmsburg – Harburg Rathaus (Gleiserneuerung Wilhelmsburg – Harburg und Stationssanierung Harburg)
 
- 18.11., 1 Uhr – 19.11.2017, Betriebsschluss: Harburg Rathaus – Neugraben; SEV
+– 18.11., 1 Uhr – 19.11.2017, Betriebsschluss: Harburg Rathaus – Neugraben; SEV
 
 Harburg Rathaus – Neugraben (Stationssanierung Harburg Rathaus und Heimfeld)
 
- 25.11., 1 Uhr – 26.11.2017, Betriebsschluss: Harburg Rathaus – Neugraben; SEV
+– 25.11., 1 Uhr – 26.11.2017, Betriebsschluss: Harburg Rathaus – Neugraben; SEV
 
 Harburg Rathaus – Neugraben (Stationssanierung Harburg Rathaus und Heimfeld)
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 21
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2656", "21/7296"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57098"
@@ -147,47 +148,47 @@ In welcher Form kommt das Denkmalschutzamt seinem Auftrag nach, die Verbreitung 
 
 Aktuelle Presse:
 
- Beiträge und Interviews (Printmedien und Funk/Fernsehen)
+– Beiträge und Interviews (Printmedien und Funk/Fernsehen)
 
 Publikationen:
 
- Veröffentlichungen des Denkmalschutzamtes (Reihen, Faltblätter)
+– Veröffentlichungen des Denkmalschutzamtes (Reihen, Faltblätter)
 
- Beiträge in Fachzeitschriften und Zeitungen
+– Beiträge in Fachzeitschriften und Zeitungen
 
- Faltblätter
+– Faltblätter
 
 Tafelprogramme:
 
- Sogenannte Blaue Tafeln (Erläuterung des Denkmalwertes von Gebäuden und
+– Sogenannte Blaue Tafeln (Erläuterung des Denkmalwertes von Gebäuden und
 
 Anlagen)
 
- Sogenannte Schwarze Tafeln (für Stätten der Verfolgung und des Widerstands)
+– Sogenannte Schwarze Tafeln (für Stätten der Verfolgung und des Widerstands)
 
 Veranstaltungen:
 
- Tag des offenen Denkmals
+– Tag des offenen Denkmals
 
- Tag der Denkmalpflege
+– Tag der Denkmalpflege
 
- Denkmalsalon
+– Denkmalsalon
 
- „Werkstattgespräche“ (Veranstaltungsreihe des Denkmalschutzamtes)
+– „Werkstattgespräche“ (Veranstaltungsreihe des Denkmalschutzamtes)
 
- „Weiterbauen“ (Veranstaltungsreihe Denkmalschutzamt – Bund Deutscher Archi-
+– „Weiterbauen“ (Veranstaltungsreihe Denkmalschutzamt – Bund Deutscher Archi-
 
 tekten)
 
- Informationsveranstaltungen (zum Beispiel Bürgerveranstaltungen, Podiumsdis-
+– Informationsveranstaltungen (zum Beispiel Bürgerveranstaltungen, Podiumsdis-
 
 kussionen)
 
- Ausstellungen
+– Ausstellungen
 
- Tagungen
+– Tagungen
 
- Projekte an Schulen (siehe Antwort zu 11.).
+– Projekte an Schulen (siehe Antwort zu 11.).
 
 ### Frage 11
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10382", "21/11700"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61181"
@@ -51,7 +52,7 @@ Wie viele IT-Fachkräfte (hier Mitarbeiter) beschäftigt die Freie und Hansestad
 
 Wie ist die Gehaltsstruktur bei den IT-Fachkräften der Freien und Hansestadt Hamburg?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage 2.
 

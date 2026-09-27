@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 36
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11912"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65667"
@@ -55,7 +56,7 @@ Wann haben Senat und HOCHBAHN beschlossen, von dem 2010 verkündeten Plan eines 
 
 In dem Artikel wird von „zunächst 2 von insgesamt 10“ Citaro FuelCell Hybrid Bussen berichtet. Wie viele dieser Busse wurden tatsächlich und wann an die HOCHBAHN geliefert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Rahmen der Erprobung hat die HOCHBAHN in sukzessive aufeinander folgenden Schritten vier Brennstoffzellenbusse von EvoBus sowie zwei Batteriebusse mit einer Brennstoffzelle als Range-Extender von Solaris beschafft. Die Brennstoffzellenbusse von EvoBus wurden zwischen November 2011 und Februar 2012 ausgeliefert, die Version von Solaris im Dezember 2014 beziehungsweise Januar 2015.
 
@@ -103,7 +104,7 @@ Bitte nach a), b), und c) getrennt angeben.
 
 Wie viele der unter 7.a), 7.b) und 7.c) genannten Brennstoffzellenbusse wurden im Jahr 2018 tatsächlich geliefert? Wann wird der Rest geliefert? Bitte nach a), b) und c) getrennt angeben.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Im Jahr 2018 hat die HOCHBAHN keine Brennstoffzellenbusse bestellt, beschafft oder in Dienst gestellt. Im Übrigen siehe Vorbemerkung.
 
@@ -128,7 +129,7 @@ Bitte nach a), b) und c) getrennt angeben.
 
 Wie viele der unter 10.a), 10.b) und 1.0c) genannten Dieselbusse wurden im Jahr 2018 tatsächlich geliefert? Wann wird der Rest geliefert? Bitte nach a), b) und c) getrennt angeben.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Im Jahr 2018 wurden 169 Dieselbusse bestellt. Hiervon wurden 15 Busse im 1. Quartal zur Auslieferung im 4. Quartal 2018 bestellt. Die verbleibenden 154 Busse werden im Laufe des Jahres 2019 an die HOCHBAHN geliefert. Insgesamt wurden 135 Dieselbusse im Jahr 2018 in Dienst gestellt, die zum Großteil bereits im Jahr 2017 bestellt worden waren. Im Übrigen siehe Vorbemerkung.
 
@@ -153,7 +154,7 @@ c) erworben und in Dienst gestellt?
 
 Wie viele der unter 13.a), 13.b) und 13.c) genannten Elektrobusse wurden im Jahr 2018 tatsächlich geliefert? Wann wird der Rest geliefert? Bitte nach a), b) und c) getrennt angeben.
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Die HOCHBAHN hat im Jahr 2018 vier Elektrobusse beschafft, erworben und in Dienst gestellt. Im Übrigen siehe Vorbemerkung.
 
@@ -177,7 +178,7 @@ Bitte nach a), b) und c) getrennt angeben.
 
 Wie viele der unter 16. a), 16. b) und 16. c) genannten Hybridbusse wurden im Jahr 2018 tatsächlich geliefert? Wann wird der Rest geliefert? Bitte nach a), b) und c) getrennt angeben.
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Im Jahr 2018 hat die HOCHBAHN keine Hybridbusse bestellt, beschafft oder in Dienst gestellt.
 

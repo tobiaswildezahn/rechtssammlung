@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60364"
@@ -57,7 +58,7 @@ Gibt es noch andere vergleichbare Provisorien in anderen Feuerwachen? Wenn ja, w
 
 Was gedenkt Senat beziehungsweise die Innenbörde dagegen zu tun?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nein, es handelt sich hier um eine spezifische Situation der Interimsrettungswache. Im Übrigen: entfällt.
 

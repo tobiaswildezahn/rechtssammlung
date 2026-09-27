@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 14
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2539", "21/2864", "21/2837"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51240"
@@ -51,33 +52,33 @@ Gemäß Ausstattungsbeschreibung des Bauherrn/Vermieters wird die nun angemietet
 
 Oder wird das Gebäude nunmehr spartanischer ausgestattet? Wenn ja, bitte Minderausstattung aufführen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Das Gebäude wird nicht entsprechend den vom Fragesteller beschriebenen für eine Vermietung auf dem freien Wohnungsmarkt veröffentlichten Standards ausgestattet. Das heißt im Einzelnen:
 
- Die Sanitärinstallation entspricht dem üblichen Standard im sozialen Wohnungs-
+– Die Sanitärinstallation entspricht dem üblichen Standard im sozialen Wohnungs-
 
 bau.
 
- Die Beheizung aller Wohnungen erfolgt durch Plattenheizkörper, die mit Thermos-
+– Die Beheizung aller Wohnungen erfolgt durch Plattenheizkörper, die mit Thermos-
 
 tatventilen ausgestattet sind.
 
- Die Wohnungen im Erdgeschoss werden mit einem Rollladenkasten versehen, in
+– Die Wohnungen im Erdgeschoss werden mit einem Rollladenkasten versehen, in
 
 den jederzeit ein Rolladenpanzer für den Sicht- und Einbruchschutz installiert werden kann.
 
- Die Fenster sind nach dem heute üblichen Standard und den Anforderungen der
+– Die Fenster sind nach dem heute üblichen Standard und den Anforderungen der
 
 Energieeinsparverordnung dreifach verglast.
 
- Alle Wohnräume erhalten einen Fußbodenbelag aus Kunststoff.
+– Alle Wohnräume erhalten einen Fußbodenbelag aus Kunststoff.
 
- Bei dem Air-Regelsystem handelt es sich lediglich um ein Zwangsbelüftungs-
+– Bei dem Air-Regelsystem handelt es sich lediglich um ein Zwangsbelüftungs-
 
 system, das in die Fensterflügel eingelassen wird, um ohne Energieverlust einen Mindestluftaustausch zu gewährleisten. Anders als in Komfortwohnungen kommt in diesem Objekt keine elektrische, sondern nur eine mechanische Lüftung zum Einsatz.
 
- Die Ausstattung der Küchen erfolgt auf einem Minimalstandard. Ein Fahrstuhl-
+– Die Ausstattung der Küchen erfolgt auf einem Minimalstandard. Ein Fahrstuhl-
 
 schacht ist für eine spätere Nutzung hergerichtet, es wird aber für die vorgesehene Nutzung als Jugendhilfeeinrichtung kein Fahrstuhl eingebaut.
 

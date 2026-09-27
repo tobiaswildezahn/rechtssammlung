@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7423", "21/13219"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62813"
@@ -53,27 +54,27 @@ Wann gilt in Hamburg jemand als Intensivtäter, wann als Mehrfachtäter?
 
 Die Polizei erklärt grundsätzlich jede Person zum Intensivtäter, die das 25. Lebensjahr noch nicht vollendet hat und im Verdacht steht, innerhalb der letzten zwölf Monate in mindestens zwei Fällen an folgenden rechtswidrigen Taten beteiligt gewesen zu sein:
 
- Raub/räuberische Erpressung,
+– Raub/räuberische Erpressung,
 
- schwerer Diebstahl,
+– schwerer Diebstahl,
 
- sonstige Gewaltdelikte gegen Personen, die sich durch besondere Brutalität aus-
+– sonstige Gewaltdelikte gegen Personen, die sich durch besondere Brutalität aus-
 
 zeichnen, insbesondere wenn sie unter Waffengewalt begangen wurden oder im unmittelbaren Zusammenhang mit Gruppen- oder Szenegewalt stehen,
 
- Taten, die das Sicherheitsgefühl der Bevölkerung besonders beeinträchtigen,
+– Taten, die das Sicherheitsgefühl der Bevölkerung besonders beeinträchtigen,
 
 wenn hinreichende Anhaltspunkte dafür bestehen, dass sie weiter Taten aus dem genannten Deliktsbereich begehen wird (Negativprognose, Bewertung des Einzelfalles) und die Erklärung zum Intensivtäter aus kriminalistischen Aspekten geboten ist.
 
 Bei Vorliegen der vorstehenden Kriterien können in besonders begründeten Fällen auch Personen als Intensivtäter ausgeschrieben werden, die älter als 25 Jahre sind. Ein besonders begründeter Fall liegt zum Beispiel vor, wenn
 
- die Person bereits Intensivtäter gewesen ist und Feststellungen ergeben, dass die
+– die Person bereits Intensivtäter gewesen ist und Feststellungen ergeben, dass die
 
 Person wieder im Zuständigkeitsbereich der Polizei Hamburg aufhältlich ist und erneut Straftaten begeht
 
 oder
 
- sich die Person in einem Umfeld von ausgeschriebenen Intensivtätern bewegt und
+– sich die Person in einem Umfeld von ausgeschriebenen Intensivtätern bewegt und
 
 mit diesen an rechtswidrigen Taten beteiligt ist.
 

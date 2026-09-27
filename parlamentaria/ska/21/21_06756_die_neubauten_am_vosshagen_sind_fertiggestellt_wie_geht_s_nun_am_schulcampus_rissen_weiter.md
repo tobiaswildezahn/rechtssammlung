@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 32
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3149", "21/3490", "21/4866", "21/4408"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55317"
@@ -218,7 +219,7 @@ Inwieweit wirkt sich der starke Zuwachs bei den Anmeldezahlen in diesem Jahr, so
 
 Geht die Schulbehörde davon aus, dass die Schülerzahlen in Rissen beziehungsweise im Einzugsgebiet der Schulen in den kommenden Jahren weiter ansteigen werden?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Es ist insgesamt weiter mit einem leichten Anstieg der Schülerzahlen im Westen des Bezirks Altona zu rechnen. Dabei sind die Schülerströme aber unter Berücksichtigung aller weiterführenden Schulen der Region 6 und zum Teil auch der aus benachbarten Regionen zu betrachten. Die weiterführenden Schulen in Blankenese werden derzeit alle durch Um- beziehungsweise Zubauten erweitert, sodass hier weitere Aufnahmekapazitäten geschaffen werden.
 

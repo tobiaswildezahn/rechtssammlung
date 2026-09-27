@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61482"
@@ -43,7 +44,7 @@ Warum wurde die betreffende Zeugin rund sechs Monate lang nicht über das gegen 
 
 Warum wurde die Zeugin bei den erfolgten Ladungen zu den Verhandlungen im Prozess nicht über das gegen sie laufende Verfahren informiert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zu welchem Zeitpunkt einer beschuldigten Person im Rahmen eines Ermittlungsverfahrens rechtliches Gehör anzubieten ist, entscheidet die Staatsanwaltschaft im Rahmen ihrer Sachaufklärungspflicht. In Verfahren wegen des Verdachts der versuchten Strafvereitelung oder der uneidlichen Falschaussage wird in der Regel der Ausgang des Bezugsverfahrens abgewartet. Dies geschieht deshalb, weil in dem Ursprungsverfahren im Rahmen der Hauptverhandlung Informationen anfallen können, die auch für das Verfahren wegen des Verdachts der versuchten Strafvereitelung bedeutsam sind. Wird der Verdacht der versuchten Strafvereitelung bestärkt, kann der beschuldigten Person auf einer verbreiterten Tatsachengrundlage rechtliches Gehör angeboten wer-
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 18
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5317"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61924"
@@ -89,7 +90,7 @@ Für welchen Termin ist der Baubeginn geplant?
 
 Wann sollen die Baumaßnahmen abgeschlossen sein?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der Baubeginn ist für Juni 2018 und die Fertigstellung für September 2019 geplant.
 

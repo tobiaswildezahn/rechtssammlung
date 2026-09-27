@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 18
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9927", "21/10126", "20/11997", "21/12513", "21/10464"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61909"
@@ -99,6 +100,6 @@ Wie groß sind die Grundstücke der betroffenen, nicht mehr sanierungsfähigen G
 
 Ist es nach bisheriger Rechtslage möglich, auf den frei werdenden Grundstücken beispielsweise studentisches Wohnen, ein Gründer- und Transferzentrum sowie neue Gebäude für Forschung und Lehre zu errichten? Wenn ja, in welchen Dimensionen? Wenn nein, welche planungsrechtlichen Änderungen sind hierfür notwendig?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung. Im Übrigen sind die Planungen hierzu noch nicht abgeschlossen.

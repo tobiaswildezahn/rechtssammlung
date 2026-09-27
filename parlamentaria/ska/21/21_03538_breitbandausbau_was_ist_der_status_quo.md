@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2726", "21/1651", "21/1125"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51903"
@@ -55,19 +56,19 @@ Die gemeinsame Arbeit der zuständigen Behörde und des Dienstleisters an den vo
 
 Dabei handelt es sich um folgende Module (die Zeitangaben beruhen auf Schätzungen des Dienstleisters und gehen von einem weitgehend komplikationsfreien Verfahrensverlauf aus):
 
- Feststellung des Ist-Zustandes
+– Feststellung des Ist-Zustandes
 
 Dieses Modul wurde begonnen und soll unter Auswertung umfangreicher Datenbestände und des Infrastrukturatlasses in der zweiten Aprilhälfte abgeschlossen sein.
 
- Markterkundungsverfahren
+– Markterkundungsverfahren
 
 Darin werden die in Betracht kommenden Provider nach ihren in Hamburg vorhandenen Netzen und möglichen Ausbauabsichten für die kommenden drei Jahre befragt. Entsprechende Schreiben wurden am 15. Februar 2016 versandt. Außerdem wurde das Anschreiben auf www.Breitbandausschreibungen.de veröffentlicht. Rückläufe liegen noch nicht vor. Mit relevanten Betreibern sind außerdem Sondierungsgespräche vorgesehen. Auf dieser Grundlage werden dann die „weißen NGA-Flecken“ (NGA: Next Generation Access Network, Zugangsnetze der nächsten Generation) identifiziert und ein Ausbau- und Förderkonzept wird erarbeitet, das im Verlauf des Mai fertiggestellt sein wird. Gleichzeitig sollen ein Vorschlag für den Ausbau und dessen Finanzierung sowie eine Versorgungsprognose vorgelegt werden. In diesem Zusammenhang wird auch die Möglichkeit geprüft, Mittel aus dem Breitbandausbauförderprogramm des Bundes in die Finanzierung der Ausbaumaßnahmen einzubeziehen. Mit dem für die Bewilligung von Mitteln zuständigen Bundesministerium soll gegebenenfalls ein Vorgespräch geführt werden. Der Abschluss des Moduls wird für Mai erwartet.
 
- Ausschreibungsverfahren und Vertragsschluss beziehungsweise -schlüsse
+– Ausschreibungsverfahren und Vertragsschluss beziehungsweise -schlüsse
 
 Auf Grundlage der vorhergehenden Module wird eine Ausschreibung zur Erschließung der unterversorgten Gebiete gestartet mit dem Ziel, einen oder mehrere Netzbetreiber mit dieser Aufgabe zu beauftragen und hierfür durch finanzielle Förderung die Deckung einer Wirtschaftlichkeitslücke zu gewähren. Entsprechende Vertragsschlüsse werden bis zum Jahresende erwartet.
 
- Ausbaubegleitung und Evaluation
+– Ausbaubegleitung und Evaluation
 
 Der Dienstleister hält einen Beginn von Baumaßnahmen ab Mai 2017 für möglich. Seine Dienstleistung umfasst die Begleitung der Baumaßnahmen und eine Evaluation, ob die im Rahmen der Förderung gesteckten Ziele erreicht werden.
 

@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 17
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51239"
@@ -132,7 +133,7 @@ Welcher Streckenpreis liegt der Linienschifffahrt im HVV zugrunde?
 
 Welcher Streckenpreis kann im Gelegenheitsverkehr erzielt werden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Das Einnahmeaufteilungsverfahren innerhalb des HVV orientiert sich lediglich an der Anzahl der durchfahrenen Tarifzonen. Im Übrigen siehe Vorbemerkung.
 
@@ -144,7 +145,7 @@ Welchen Anteil am Gesamtergebnis haben die Hafenrundfahrten und wie kostendecken
 
 Zahlen die großen privaten Kunden wie Airbus beziehungsweise Stage Entertainment kostendeckende Preise oder werden deren Shuttleverkehre auch vom Steuerzahler subventioniert? Wenn subventioniert: in welcher Höhe?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Vorbemerkung. Anfang des Jahres 2015 wurde der HADAG durch einen Wirtschaftsprüfer testiert, dass keine Subventionierung des Touristikbereiches und der Shuttleverkehre durch den öffentlichen Nahverkehr erfolgt, sondern diese voll kostendeckend sind.
 
@@ -173,7 +174,7 @@ Wie hoch sind die Einnahmen aus dem sonstigen Niederelbetarif?
 
 Wie hoch sind die Einnahmen aus Charterverkehr (Vermietung kompletter Schiffe im Gelegenheitsverkehr)?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 18
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17417", "21/14077", "21/11270", "21/4110", "21/5500"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67341"
@@ -57,7 +58,7 @@ In Drs. 21/14077 (24.08.2018) heißt es, die Veröffentlichung der Ausschreibung
 
 In Drs. 21/14077 heißt es, dass voraussichtlich im ersten Halbjahr 2019 mit der Errichtung von WLAN in örR begonnen werde. In Drs. 21/17417 (11.06.2019) heißt es jedoch, dass die für die WLAN-Zugänge erforderliche Ausschreibung noch gar nicht abgeschlossen sei, weshalb der Zuschlag bisher nicht erteilt wurde. a. Warum konnte bisher keinem Anbieter für die WLAN-Zugänge der Zuschlag erteilt werden? b. Inwieweit gibt es vergaberechtliche Verfahren, die den Abschluss des Ausschreibungsverfahrens verhindern? Wenn ja, aus welchen Gründen? Bitte genau darlegen. c. Welche allgemeinen Schwierigkeiten zeichnen sich im Zuge der Ausschreibung und Errichtung der WLAN-Zugänge ab? d. Warum konnte nun seit Jahren kein verlässlicher Partner für die Bereitstellung der WLAN-Zugänge in öffentlich-rechtlichen Unterkünften gefunden werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

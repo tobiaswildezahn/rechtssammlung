@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14454", "21/268"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58005"
@@ -147,7 +148,7 @@ Stimmt nach Ansicht des Senats mit der von der Bundesregierung verfolgten Linie 
 
 Gedenkt der Senat zukünftig etwas in Hamburg und auf Bundesebene zu unternehmen, um Lieferungen von Munition in Staaten zu verhindern, die mit dem IS zusammenarbeiten oder in denen in großer Anzahl Menschenrechtsverletzungen stattfinden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Rüstungsexporte unterliegen der ausschließlichen Kompetenz des Bundes. Die Präambel der Hamburgischen Verfassung dient dem Senat als Maßstab und Richtschnur seines Handelns, auch außerhalb seiner Rechtsetzungskompetenz. Im Übrigen siehe Drs. 21/268.
 

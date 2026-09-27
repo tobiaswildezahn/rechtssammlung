@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7911"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59623"
@@ -43,7 +44,7 @@ Wie ist die Struktur der salafistischen Szene gegenwärtig in Hinblick auf die S
 
 Wie viele von diesen Leuten verfügen über die doppelte Staatsbürgerschaft? Bitte die jeweiligen Kombinationen einzeln nennen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die zu Fragen 1. und 2. erfragten Daten werden aufgrund der programmierten Abläufe nur zu bestimmten Stichtagen aus den Dateien generiert (Stand: 30. September 2017). Darüber hinaus werden Kombinationen der einzelnen Staatsangehörigkeiten im Sinne der Fragestellung statistisch nicht erfasst, sodass hier eine händische Auswertung mehrerer Hundert Datensätze erforderlich wäre, dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich ist. Zudem unterliegen die Zahlen aufgrund der sich ständig verändernden Informationslage, datenschutzrechtlicher Pflegemaßnahmen der gespeicherten Daten sowie Länderzuständigkeiten einer ständigen Fluktuation. Derzeit werden 775 Personen dem salafistischem Spektrum zugerechnet:
 
@@ -258,7 +259,7 @@ Gegen wie viele Personen, die vom Verfassungsschutz der salafistischen Szene zug
 Wie viele Personen, die vom Verfassungsschutz der salafistischen Szene zugerechnet werden, sind zwischen dem 1.1.2015 und dem
 1.10.2017 im Rahmen von strafrechtlichen Prozessen verurteilt worden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Im Zuständigkeitsbereich der Generalstaatsanwaltschaft Hamburg sind keine Verfahren im Sinne der Fragestellungen bekannt.
 

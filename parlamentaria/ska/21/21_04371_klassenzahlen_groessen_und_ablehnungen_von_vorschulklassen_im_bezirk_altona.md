@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/142", "21/245", "20/11503", "21/3796"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52798"
@@ -43,7 +44,7 @@ Wie viele Vorschulanmeldungen gab es an den einzelnen Schulen im Bezirk Altona u
 
 An jeweils welcher Schule wurden jeweils wie viele Kinder mit Erstwunsch angemeldet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 

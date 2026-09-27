@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55143"
@@ -49,7 +50,7 @@ Wann sollen die vorbereitenden Arbeiten für die Neugestaltung des „Marktplatz
 
 Wann soll mit dem eigentlichen Bau begonnen werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die vorbereitenden Arbeiten für die Neugestaltung des Marktplatzes/Zentrum Steilshoop beginnen, abhängig von der Witterung, voraussichtlich Anfang 2017.
 
@@ -79,7 +80,7 @@ Wann ist mit einer Entscheidung über die Lage des U-Bahnhofes Steilshoop zu rec
 
 Ist eine endgültige Entscheidung zur Lage des U-Bahnhofes vor Abschluss des Planfeststellungsverfahrens möglich? Falls ja, mit welcher Begründung?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Hierzu wird die HOCHBAHN mit den Bürgerinnen und Bürgern erneut im Rahmen der Vorentwurfsplanung in den Dialog treten. Eine erste Bürgerbeteiligung hat dazu am
 12. Juli 2016 stattgefunden.

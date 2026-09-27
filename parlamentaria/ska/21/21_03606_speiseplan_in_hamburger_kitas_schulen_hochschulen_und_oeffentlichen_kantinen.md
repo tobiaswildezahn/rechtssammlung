@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 5
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/3947", "20/8989"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51961"
@@ -43,7 +44,7 @@ Gibt es Kitas, Schulen, Hochschulen oder öffentliche Kantinen in Hamburg, die k
 
 Wie hat sich die Zahl der Kitas, Schulen, Hochschulen oder öffentlichen Kantinen, die kein Schweinefleisch anbieten, seit Anfang des Jahres 2015 bis heute entwickelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In den öffentlichen Kantinen der Behörden, Senats- und Bezirksämter wird nicht auf Schweinefleisch verzichtet. Darüber hinaus erfolgt weder an den einzelnen Einrichtungen noch durch die zuständigen Behörden eine systematische Erfassung, ob und welche Nahrungsmittel in den sonstigen Kantinen nicht angeboten werden und welches die Begründung hierfür ist beziehungsweise auf wessen Anregung dies zurückgeht. Hinzu kommt, dass dies, abhängig von der Betriebsgröße und der Anzahl der bis zu täglich zwischen drei bis sieben Warmspeisen sowie hinsichtlich eines großen Angebots über Salatbars und teilweise Pastabars oder dergleichen, auch in praktischer Hinsicht nicht umsetzbar ist. Die erfragten Daten werden insofern in der Regel nicht statistisch erfasst und mussten teilweise durch aufwändige Abfragen und Recherchen in den Behörden und Einrichtungen zusammengestellt werden. Die Angabe erfolgt in dem Umfang beziehungsweise der Vollständigkeit, die in der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit möglich sind.
 

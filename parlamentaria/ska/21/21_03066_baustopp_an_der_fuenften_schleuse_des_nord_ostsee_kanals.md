@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7302"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51391"
@@ -138,7 +139,7 @@ Vor dem Hintergrund der langen Wartezeiten am NOK und der sich abzeichnenden wei
 
 Welche Maßnahmen hat der Senat gegenüber dem Bund und dem Land Schleswig-Holstein unternommen, damit die Bauarbeiten an der fünften Schleuse schnellstmöglich wieder aufgenommen werden und eine zügige Instandsetzung des NOK für eine dauerhafte Funktionsfähigkeit erreicht wird?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Der Senat setzt sich für den Ausbau und die Herstellung eines gesichert leistungsfähigen NOK ein. Hierzu findet ein laufender Austausch mit Vertretern der verantwortlichen Stellen auf Bundes- und Landesebene statt. Als zusätzliches Zeichen des gemeinsamen wirtschaftlichen und politischen Interesses ist Hamburg der „Initiative Kiel Canal e.V.“ beigetreten, um sich gemeinsam mit allen Beteiligten für eine zügige Umsetzung der erforderlichen Maßnahmen einzusetzen.
 

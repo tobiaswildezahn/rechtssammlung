@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/691"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49452"
@@ -41,7 +42,7 @@ Wie viele Ärzte und Krankenschwestern unter den Flüchtlingen befinden sich zur
 
 Unterliegen diese Berufsgruppen dem Arbeitsverbot des Asylverfahrensgesetzes?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nach § 61 Absatz 1 Asylverfahrensgesetz dürfen Asylbewerberinnen und Asylbewerber in den ersten drei Monaten ihres Aufenthalts keine Erwerbstätigkeit ausüben. Im Rahmen der erstmaligen Meldung in der Anlaufstelle der Zentralen Erstaufnahmeeinrichtung in der Harburger Poststraße werden berufliche Qualifikationen daher nicht abgefragt und somit statistisch nicht erfasst. Auch die Berufsausbildungen der Bewohner/-innen in der Folgeunterbringung werden durch f & w fördern und wohnen – Anstalt öffentlichen Rechts – (f & w) im Rahmen der Folgeunterbringung nicht regelhaft erfasst. Für Duldungsantragsteller ergibt sich eine entsprechende Wartezeit bis zur Aufnahme einer Beschäftigung aus § 32 Absatz 1 Beschäftigungsverordnung (BeschV). Im Übrigen siehe Drs. 21/691.
 

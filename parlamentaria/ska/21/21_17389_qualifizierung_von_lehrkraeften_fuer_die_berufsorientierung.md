@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13591", "21/15067", "21/15366"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66969"
@@ -89,7 +90,7 @@ In welcher Weise werden die Lehrkräfte, die an den Stadtteilschulen mit der Ber
 
 In welcher Weise werden die Lehrkräfte, die an den Gymnasien mit der Berufsorientierung befasst sind, auf diese Aufgabe vorbereitet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 47
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60860"
@@ -103,7 +104,7 @@ Trifft es zu, dass Lehrer/-innen in besonderer Verantwortung ihrerseits Kollegen
 
 Bezogen auf Frage 9.: Wie wird sichergestellt, dass diese fortbildungsverantwortlichen Lehrer/-innen ihrerseits am Herkunftsstandort im Umgang mit religiöser Radikalisierung beziehungsweise Nahostpolitik fortbildend tätig sind und in wessen Zuständigkeit? (Bitte Verfahren erklären und Verantwortliche nennen.) a. Wie viele von fortbildungsverantwortlichen Lehrern/-innen durchgeführte Kurse zu diesen Themen wurden seit 2015/2016 bis heute (Stand Januar 2018) an staatlichen Schulstandorten in Hamburg insgesamt durchgeführt? (Bitte für jedes Schuljahr einzeln mit Schulform und jeweils nach Themen getrennt in absoluten Zahlen in einer eigenen Excel-Tabelle angeben.)
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Im Rahmen der selbstverantworteten Schule entscheiden die Schulleitungen über inhaltliche Schwerpunktsetzungen. Schulleitungen entscheiden darüber hinaus im Rahmen der Schul-, Unterrichts- und Personalentwicklung welche Fortbildungsmaßnahmen für den Standort umgesetzt werden sollen und welche Veranstaltungen für das Kontingent der Fortbildungsverpflichtung anerkannt werden.
 
@@ -133,7 +134,7 @@ Wie genau und mit welcher Gewichtung wurden/werden Inhalte zu religiöser Radika
 
 Wie genau und mit welcher Gewichtung wurden/werden Inhalte zu aktuellen politischen Entwicklungen in der islamischen Welt (zum Beispiel Nahostkonflikt, Türkei, Syrienkrieg, IS, Fluchtursachen et cetera) seit 2015/2016 bis heute (Stand Januar 2018) in den Bildungsplänen der staatlichen Schulen in Hamburg verankert? (Bitte für jedes Schuljahr und jede Schulform einzeln darlegen.) a. In welchen Unterrichtsfächern fand/findet diese Verankerung statt? b. Wer war/ist für diese Bildungsplanung verantwortlich? (Bitte behördlichen Fachbereich/Abteilung nennen.) c. Auf Grundlage welcher Überlegungen/Impulse fanden/finden die jeweiligen Inhalte im Bildungsplan Berücksichtigung? (Bitte erläutern.)
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Die inhaltliche Erarbeitung von Bildungsplänen erfolgt durch von der zuständigen Behörde berufene Bildungsplankommissionen; Rechtsgrundlage ist die Verordnung über das Verfahren zum Erlass von Bildungsplänen (BildungsplanVO) vom
 01.07.1997 (HmbGVBl. 1997, S. 329, siehe http://www.hamburg.de/contentblob/ 69578/88d6c3e797d61ee97adafb4214d8faf6/data/bbs-vo-verfahr-erlassbildungsplaene-07-97.pdf). Die in der BildungsplanVO genannten Gremien sind in die Erarbeitung der Bildungspläne einzubeziehen. Genehmigt werden Bildungspläne durch die Deputation der zuständigen Behörde.

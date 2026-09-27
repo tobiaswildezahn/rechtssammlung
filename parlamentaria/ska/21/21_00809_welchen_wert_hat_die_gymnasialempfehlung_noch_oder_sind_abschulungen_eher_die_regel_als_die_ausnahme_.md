@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 25
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/655", "21/302", "20/12702", "21/427", "20/12769"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48957"
@@ -47,7 +48,7 @@ Wie stellte sich das Verhältnis von Abschulungswarnungen im Halbjahreszeugnis 2
 
 In wie vielen Fällen fand eine freiwillige Abschulung zum Schuljahresbeginn 2014/2015 auf Eltern-/Schülerwunsch statt, ohne dass zuvor eine Warnung ausgesprochen worden war? Bitte aufschlüsseln nach Klassenstufen sowie Schülerinnen und Schülern.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zu der Anzahl der Schulformwechsel vom Gymnasium auf eine Stadtteilschule zum Schuljahr 2014/2015 nach Jahrgangsstufe, aus der gewechselt wurde (nur Wechsel auf staatliche Schulen) siehe Tabelle:
 
@@ -97,7 +98,7 @@ Bei wie vielen dieser Wiederholer waren zuvor Maßnahmen im Rahmen von „Förde
 
 Im Vergleich dazu: In wie vielen Fällen konnten Wiederholungen durch derartige Fördermaßnahmen abgewendet werden, das heißt wurde das vereinbarte Lernziel im Wege der individuellen Förderung erreicht? Wenn möglich bitte nach Schulformen aufschlüsseln.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/302.
 

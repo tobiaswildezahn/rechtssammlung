@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 29
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12430", "21/11966", "21/13611", "20/14127"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64041"
@@ -49,7 +50,7 @@ Wie der Name „Engagementstrategie 2020“ schon sagt, war diese bei ihrer Erar
 
 Welche Verbesserungs- und Änderungsbedarfe sieht der Senat bereits jetzt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die zuständige Behörde arbeitet federführend an der Fortschreibung der Engagementstrategie und wird im Laufe des Verfahrens alle betroffenen Fachbehörden, Bezirksämter und die Zivilgesellschaft beteiligen. Nach dem jetzigen Planungs-
 

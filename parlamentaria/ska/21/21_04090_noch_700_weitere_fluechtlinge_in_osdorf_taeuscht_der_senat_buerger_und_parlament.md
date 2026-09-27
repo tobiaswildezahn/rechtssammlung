@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3828", "21/3915"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52478"
@@ -56,7 +57,7 @@ Ist es zutreffend, dass der Senat trotz seiner anderslautenden Darstellung in Fr
 
 Wenn ja, wie kommt es zu dieser wahrheitswidrigen Darstellung in der Drs. 21/3828 vom 5. April 2016? Wer hat diese zu verantworten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine wahrheitswidrige Darstellung ist nicht erfolgt.
 

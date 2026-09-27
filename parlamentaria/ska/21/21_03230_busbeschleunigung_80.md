@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51570"
@@ -41,7 +42,7 @@ Wie viel wurde bisher für die Busbeschleunigung ausgegeben? Bitte die Gesamtsum
 
 Wie viel davon wurde für Planungskosten, wie viel für echte Baumaßnahmen ausgegeben? Bitte ebenfalls für die Jahre 2012, 2013, 2014 und 2015 angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Kosten stellen sich wie folgt dar:
 

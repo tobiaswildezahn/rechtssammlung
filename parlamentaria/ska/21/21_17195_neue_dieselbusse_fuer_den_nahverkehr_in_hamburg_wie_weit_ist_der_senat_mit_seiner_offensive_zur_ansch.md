@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 38
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16148"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66766"
@@ -65,7 +66,7 @@ Wie viele Dieselbusse zur Verwendung in Hamburg wurden im Januar 2019 der VHH zu
 
 Wie viele Dieselbusse der VHH, die in Hamburg verwandt wurden, wurden im Januar 2019 außer Dienst gestellt und um welche Typen handelte es sich dabei konkret? Bitte auch die Schadstoffklasse angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Keine.
 
@@ -93,7 +94,7 @@ Wie viele Dieselbusse zur Verwendung in Hamburg wurden im Februar 2019 der VHH z
 
 Wie viele Dieselbusse der VHH, die in Hamburg verwandt wurden, wurden im Februar 2019 außer Dienst gestellt und um welche Typen handelte es sich dabei konkret? Bitte auch die Schadstoffklasse angeben.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Keine.
 

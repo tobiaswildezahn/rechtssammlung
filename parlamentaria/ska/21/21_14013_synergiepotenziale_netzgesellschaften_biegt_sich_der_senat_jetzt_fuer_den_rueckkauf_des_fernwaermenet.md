@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 13
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63407"
@@ -65,7 +66,7 @@ Wurde auch eine Betrachtung des Wertes unter Berücksichtigung möglicher Synerg
 
 Welche konkreten Synergieeffekte können nach Auffassung des Senats sowie der zuständigen Behörden und betroffenen Unternehmen zwischen den städtischen Netzgesellschaften jeweils erzielt werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nein, soweit es die gemeinsame Wertermittlung (IDW S1) betrifft.
 

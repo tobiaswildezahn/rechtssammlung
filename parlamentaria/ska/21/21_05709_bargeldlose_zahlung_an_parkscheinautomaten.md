@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54200"
@@ -106,7 +107,7 @@ Wie viele Kunden haben sich auf den verschiedenen Online-Bezahlportalen seit Ein
 
 Wie viele Downloads der verschiedenen „Park-Apps“ gab es seit Einführung?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die zur Beantwortung benötigten Daten liegen der zuständigen Behörde nicht vor.
 

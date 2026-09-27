@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16579", "21/2904"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66274"
@@ -39,22 +40,22 @@ Der Denkmalverein stellt fest:
 
 ## Einleitung für die Antworten des Senats
 
- Die Aussage in der Stellungnahme des Senats, dass die Frage des
+– Die Aussage in der Stellungnahme des Senats, dass die Frage des
 
 Senats, ob ein Abbruch des City-Hofs den Welterbestatus gefährden würde, im ICOMOS-Bericht negativ beantwortet worden sei, ist falsch. Eine solche Aussage ist im Bericht nicht zu finden. Entgegen der Darstellung des Senats macht der ICOMOS-Bericht keine Aussage darüber, ob ein Abbruch des City-Hofs und der projektierte Neubau den Welterbestatus des Kontorhausviertels gefährdet. ICOMOS verweist einzig darauf, dass der City-Hof – wie alle anderen Gebäude in der Pufferzone
 – aufgrund seines Standortes außerhalb des unmittelbaren Welterbe- Bereichs nicht direkt zum außerordentlichen und universellen Wert des Kontorhausviertels beitrage. Gleichwohl „leiste er einen starken Beitrag zur Pufferzone des Welterbes und dazu, wie diese dem Schutz des Welterbes unterstützt“.
 
- Der Senat verschweigt in seiner Stellungnahme, dass ICOMOS sich im
+– Der Senat verschweigt in seiner Stellungnahme, dass ICOMOS sich im
 
 Bericht mehrmals klar und deutlich für den Erhalt des City-Hofs ausspricht. ICOMOS ist der Ansicht, dass der City-Hof „einen wesentlichen Beitrag zur Bedeutung der Pufferzone als Übergangszone zwischen Welterbe und der umgebenen Stadt leistet, die ein Verständnis für den sozialen, politischen und historischen Kontext des Welterbe ermöglicht.“ Der Ansatz der Stadt (gemeint ist Abriss des City-Hofs und Neubau) steht aus Sicht von ICOMOS „nicht wirklich im Einklang mit den Verpflichtungen aus der Welterbekonvention und dem Denkmalschutzgesetz“.
 
- Der Senat verschweigt, dass ICOMOS mehrere Aspekte des geplanten
+– Der Senat verschweigt, dass ICOMOS mehrere Aspekte des geplanten
 
 Abrisses und Neubaus kritisiert: So werde die Geschichte, die sich in der Pufferzone wiederspiegelt, verloren gehen, weil die Nachkriegszeit nicht
 
 mehr präsent wäre. Ein Neubau in Backstein-Optik würde stattdessen „Geschichte verunklaren, indem er an dieser Stelle eine ungebrochene Backsteintradition nach dem Zweiten Weltkrieg suggeriert. Er könnte als historisches Fake-Gebäude verstanden werden…“. Auch die Kritik von ICOMOS, dass der geplante Neubau durch seine monolithische Form und Größe visuell undurchdringlich erscheine und durchseine Länge wichtige visuelle Bezüge wie die Sichtachse vom Deichtorplatz auf die Hauptfassade des Chilehauses abschneide, bleibt unerwähnt.
 
- Insgesamt kommt ICOMOS im Bericht zu dem Schluss, „dass die Sanie-
+– Insgesamt kommt ICOMOS im Bericht zu dem Schluss, „dass die Sanie-
 
 rung und nicht die Zerstörung des City-Hofs die geeignete Vorgehensweise ist“.
 
@@ -78,7 +79,7 @@ Die Aussage in der Stellungnahme des Senats, dass die Frage des Senats, ob ein A
 
 Der Senat verschweigt in seiner Stellungnahme, dass ICOMOS sich im Bericht mehrmals klar und deutlich für den Erhalt des City-Hofs ausspricht. a. Weshalb hat der Senat das verschwiegen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

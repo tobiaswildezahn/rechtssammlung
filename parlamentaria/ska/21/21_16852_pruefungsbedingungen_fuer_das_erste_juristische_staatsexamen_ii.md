@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 29
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16714", "21/15376"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66417"
@@ -114,7 +115,7 @@ Welche externen Räumlichkeiten wurden vom JPA bisher hinsichtlich ihrer Geeigne
 
 Wurden Räumlichkeiten an der Universität Hamburg, der Bucerius Law School oder einer anderen Universität in Hamburg für die Durchführung der Prüfung angefragt? Falls ja, mit welchem Ergebnis? Falls nein, warum nicht?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Antwort zu 1.
 
@@ -140,7 +141,7 @@ Wie viele Prüfer korrigieren im Schnitt die Klausuren eines Examenstermins? Bit
 
 Ist die Einstellung weiterer Prüfer geplant, um mehr Studierenden die Teilnahme an der Prüfung zu ermöglichen? Falls ja, bis wann und wie viele weitere Prüfer sollen eingestellt werden? Falls nein, warum nicht?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die Anzahl der pro Prüferin oder Prüfer korrigierten Klausuren beruht in jedem Fall auf einer persönlichen Absprache zwischen Prüfungsamt und Prüferin oder Prüfer und richtet sich nach den zeitlichen Kapazitäten der Prüferinnen und Prüfer. Entsprechend der gesetzlichen Vorgabe in § 17 Absatz 2 Satz 3 HmbJAG muss dabei eine Prüferin oder ein Prüfer mindestens 20 Voten erstellen. Im Schnitt werden drei bis sechs unterschiedliche Prüferin oder Prüfer pro Klausur eingesetzt.
 
@@ -154,7 +155,7 @@ Auf welche Weise wird die Korrektur von Examensklausuren vergütet?
 
 Wie hoch ist die Vergütung pro korrigierter Examensklausur?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Die Prüfertätigkeit erfolgt in Form einer genehmigten Nebentätigkeit. Die Prüferinnen und Prüfer im ersten Staatsexamen erhalten für ihre Tätigkeit eine Prüfervergütung, die 18 Euro pro Klausurvotum beträgt. Im zweiten Staatsexamen erhalten die Prüferinnen und Prüfer pro Klausurvotum 20 Euro.
 

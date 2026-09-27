@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 18
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49280"
@@ -63,7 +64,7 @@ Wie viele Fahrradfahrer wurden seit Freigabe des umgebauten Mühlenkamps verletz
 
 Wie viele Fußgänger wurden seit Freigabe des umgebauten Mühlenkamps verletzt? Bitte für jeden dieser Fälle das Datum und die Art der Verletzung angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Verkehrsunfälle mit Fahrradfahrern oder Fußgängern wurden seit der Freigabe des umgebauten Mühlenkamps in dem in Rede stehenden Streckenabschnitt polizeilich nicht registriert. Im Übrigen siehe Vorbemerkung.
 
@@ -107,7 +108,7 @@ Wie viele Fahrradfahrer wurden seit Freigabe der umgebauten Langen Reihe verletz
 
 Wie viele Fußgänger wurden seit Freigabe der umgebauten Langen Reihe verletzt? Bitte für jeden dieser Fälle das Datum und die Art der Verletzung angeben.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Freigabe der Langen Reihe zwischen St. Georg-Kirchhof und Schmilinskystraße erfolgte am 23. Juni 2015 nach Beendigung der Bauarbeiten zur Busbeschleunigung in diesem Bereich. Für den Zeitraum danach liegen noch keine validen auswertbaren Daten in der Unfalldatenbank EUSka zu Verkehrsunfällen vor. Aus diesem Grund können die Fragen derzeit noch nicht beantwortet werden. Im Übrigen siehe Vorbemerkung.
 

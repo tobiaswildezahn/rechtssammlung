@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58074"
@@ -134,7 +135,7 @@ Ist in einer oder mehreren Hamburger Haftanstalten die Videoüberwachung von Fra
 
 Plant der Senat eine Verpixelung der Videoüberwachung der Toilettenbereiche? Falls nein, warum nicht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Videoaufnahmen der Toilettenbereiche in der TAF sowie in der JVA Hahnöfersand sind bereits verpixelt. Eine Ausweitung der Anwendung dieser Technik auf andere Standorte wird geprüft. Im Übrigen siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12288", "20/7125"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63767"
@@ -57,13 +58,13 @@ Ausnahmegenehmigungen für Gewerbetreibende werden laut Informationen des „Lan
 
 #### Antwort zu Frage 1
 
- Anlieferung von Ware vor Geschäftsöffnung im Firmenfahrzeug,
+– Anlieferung von Ware vor Geschäftsöffnung im Firmenfahrzeug,
 
- Lagerung von Ware tagsüber im Firmenahrzeug, bis sie im Ladengeschäft gebraucht wird beziehungsweise Platz vorhanden ist,
+– Lagerung von Ware tagsüber im Firmenahrzeug, bis sie im Ladengeschäft gebraucht wird beziehungsweise Platz vorhanden ist,
 
- verschiedentlichen Auslieferungsfahrten von Waren am Tage,
+– verschiedentlichen Auslieferungsfahrten von Waren am Tage,
 
- mit Abtransport von Ware nach Geschäftsschluss
+– mit Abtransport von Ware nach Geschäftsschluss
 
 ein wichtiges Kriterium oder gar alleiniges Kriterium für eine Ausnahmegemehmigung sein?
 
@@ -75,19 +76,19 @@ c. In welcher Entfernung werden die nächsten ohne Ausnahmegenehmigung nutzbaren
 
 Bei jeder Ausnahmegenehmigung wird anhand der folgenden Kriterien geprüft:
 
- Wie gestaltet sich der Betriebsablauf?
+– Wie gestaltet sich der Betriebsablauf?
 
- Welche Gegenstände/Produkte werden in welcher Menge transportiert?
+– Welche Gegenstände/Produkte werden in welcher Menge transportiert?
 
- Wie häufig müssen Transporte durchgeführt werden?
+– Wie häufig müssen Transporte durchgeführt werden?
 
- Wie weit sind die nächsten auch ohne Ausnahmegenehmigung nutzbaren Park-
+– Wie weit sind die nächsten auch ohne Ausnahmegenehmigung nutzbaren Park-
 
 möglichkeiten entfernt?
 
- Ist die Anmietung eines Kfz-Stellplatzes zumutbar?
+– Ist die Anmietung eines Kfz-Stellplatzes zumutbar?
 
- Wurde sich um eine Anmietung einer Parkmöglichkeit bemüht (zum Beispiel Park-
+– Wurde sich um eine Anmietung einer Parkmöglichkeit bemüht (zum Beispiel Park-
 
 haus)?
 

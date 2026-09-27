@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 18
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7243"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66977"
@@ -131,13 +132,13 @@ Hinsichtlich notwendiger und zusätzlicher Kenntnisse wurden zusammen mit Kongre
 
 Dies umfasste
 
- 2015 Fortbildungsmaßnahmen in 866 Fällen,
+– 2015 Fortbildungsmaßnahmen in 866 Fällen,
 
- 2016 Fortbildungsmaßnahmen in 807 Fällen,
+– 2016 Fortbildungsmaßnahmen in 807 Fällen,
 
- 2017 Fortbildungsmaßnahmen in 631 Fällen,
+– 2017 Fortbildungsmaßnahmen in 631 Fällen,
 
- 2018 Fortbildungsmaßnahmen in 1 013 Fällen.
+– 2018 Fortbildungsmaßnahmen in 1 013 Fällen.
 
 ### Frage 6
 

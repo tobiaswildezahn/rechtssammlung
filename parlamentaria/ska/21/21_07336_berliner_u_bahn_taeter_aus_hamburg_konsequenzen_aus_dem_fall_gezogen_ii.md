@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 23
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4160", "21/2989"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55942"
@@ -113,7 +114,7 @@ Welche angekündigten Vorschläge zur Weiterentwicklung der psychiatrischen Vers
 
 Wie hat sich die Zusammenarbeit der Behörden und zuständigen Stellen nach dem Fall des Hamin E. verbessert beziehungsweise kann sich verbessern (bitte erläutern)?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Vorbemerkung.
 

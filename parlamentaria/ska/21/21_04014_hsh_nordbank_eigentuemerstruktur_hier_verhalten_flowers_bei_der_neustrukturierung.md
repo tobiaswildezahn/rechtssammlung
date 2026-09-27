@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/5269", "19/8300"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52403"
@@ -83,7 +84,7 @@ Die jetzigen 9,31 Prozent der Flowers-Trusts an der HSH gehörten vormals der We
 
 Sind die neun Flowers-Fonds alle zu 100 Prozent gezeichnet?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 19/8300. Im Übrigen siehe Antwort zu 4. bis 6.
 

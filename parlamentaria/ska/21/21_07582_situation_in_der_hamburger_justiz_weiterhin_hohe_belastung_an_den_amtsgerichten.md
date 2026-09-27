@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 41
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1979", "21/4290"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56198"
@@ -67,7 +68,7 @@ Inwieweit existiert am Amtsgericht Hamburg-Wandsbek weiterhin ein personeller En
 
 Was hat die Justizbehörde mit welchem Ergebnis seit August 2015 unternommen, um einen Geschäftsbetrieb ohne zeitliche Verzögerungen in den Geschäftsstellen der Zivilabteilungen insbesondere am Amtsgericht Wandsbek zu gewährleisten?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Das Amtsgericht Wandsbek ist nach dem amtsgerichtsinternen Steuerungssystem stark, aber im Vergleich mit den anderen Amtsgerichten nicht überdurchschnittlich belastet. Ein personeller Engpass beim Amtsgericht Hamburg Wandsbek, der Notfallmaßnahmen notwendig macht, besteht zurzeit nicht.
 

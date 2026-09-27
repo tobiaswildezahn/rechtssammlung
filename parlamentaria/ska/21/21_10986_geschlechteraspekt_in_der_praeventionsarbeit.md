@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2196", "21/5139", "21/9538", "21/10107", "21/10592"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59911"
@@ -57,27 +58,27 @@ Welche frauenspezifischen Präventionsprojekte und -stellen für religiös motiv
 
 Welche frauenspezifischen Präventionsprojekte und -stellen sind noch geplant (in welchen Bereichen und Institutionen)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Entwicklung von mädchen-/frauenspezifischen Präventionsmaßnahmen ist eine Querschnittsaufgabe in allen Fachaufgaben der Regelsysteme sowie der im Beratungsnetzwerk Prävention und Deradikalsierung vertretenen Präventionsprojekte. Inhaltlich umfassen diese Angebote Informationen zum Islam im Allgemeinen, aber auch zu geschlechterspezifischen Themen wie Frauenbilder, Rolle der Frau, Umgang mit Diskriminierung und Ressentiments. Siehe hierzu Drs. 21/5139, Drs. 21/9538, Drs. 21/10107, Drs. 21/10592.
 
 Die Aufgaben der Regelsysteme werden durch ergänzende Maßnahmen flankiert:
 
- Die vom Landesinstitut für Lehrerbildung und Schulentwicklung (LI) angebotenen
+– Die vom Landesinstitut für Lehrerbildung und Schulentwicklung (LI) angebotenen
 
 präventiven Schülerprojekte sind primär-präventiv ausgerichtet und werden daher mit der ganzen Klasse durchgeführt. Es ist dabei möglich, temporär in geschlechterhomogenen Gruppen zu arbeiten, wenn es inhaltlich sinnvoll ist. Daher werden die durchführenden Teams, sofern organisatorisch möglich, gemischtgeschlechtlich besetzt. Insbesondere die Module des Projektes „Wie wollen wir leben?“ wie auch Angebote des Trägers „Arbeit und Leben Hamburg“ gehen auf geschlechtersensible Fragestellungen ein.
 
- In der Elterngruppe der Beratungsstelle Legato wird die Thematik unter den Aspek-
+– In der Elterngruppe der Beratungsstelle Legato wird die Thematik unter den Aspek-
 
 ten „Zugang und Motive von Mädchen in die salafistische Szene“ sowie „Frauenbild innerhalb der salafistischen Szene“ behandelt.
 
- Im Rahmen des Peer-Projektes des Fachrates Islamische Studien e.V. wurde im
+– Im Rahmen des Peer-Projektes des Fachrates Islamische Studien e.V. wurde im
 
 September 2017 planmäßig ein weiteres Bildungs- und Gesprächsangebot nur für
 
 Mädchen und Frauen in der Gemeinde Muslimisches Integrationszentrum e.V. in Rothenburgsort gestartet.
 
- Im Rahmen der Partnerschaften für Demokratie (Bundesprogramm „Demokratie
+– Im Rahmen der Partnerschaften für Demokratie (Bundesprogramm „Demokratie
 
 leben!“) St. Georg, Mümmelmannsberg und Wilhelmsburg wurden in St. Georg folgende frauen-/mädchenspezifischen Einzelmaßnahmen gefördert:
 

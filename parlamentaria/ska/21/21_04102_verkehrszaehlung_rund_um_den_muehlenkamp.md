@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/73"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52489"
@@ -86,6 +87,6 @@ Bei den beiden Zählungen im März 2016 und im April 2016 wurde auch die Anzahl 
 
 Wie lauten die Rohdaten für den Busverkehr vor und nach dem Umbau gemäß der Drs. 21/73? Sollten die Daten nach dem Umbau noch nicht vorliegen, warum nicht und bis wann werden diese Daten vorliegen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.

@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 33
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8395", "21/3672"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57450"
@@ -113,7 +114,7 @@ Warum soll die Anrechnung der Verdienste aus Nebentätigkeiten auf die Unterhalt
 
 Sofern der Sinn der Anrechnung nicht in einer Entlastung des Haushalts der Freien und Hansestadt Hamburg zu sehen sein sollte, wieso wird die nach dem Gesetz zulässige und offenbar mit dem Ausbildungszweck für vereinbar gehaltene Nebentätigkeit bis zu 19,5 Wochenstunden durch die Anrechnung der hieraus folgenden Verdienste auf die Unterhaltsbeihilfe faktisch sanktioniert?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Anrechnung im bisherigen Umfang hat den Zweck zu verhindern, dass durch übermäßige Nebentätigkeit der Ausbildungszweck aus den Augen verloren wird. Überdies handelt es sich bei der Unterhaltsbeihilfe um eine soziale Absicherung während der Ausbildung, deren Notwendigkeit bei Zuverdienst entsprechend anteilig oder vollständig entfällt. Im Übrigen siehe Vorbemerkung.
 

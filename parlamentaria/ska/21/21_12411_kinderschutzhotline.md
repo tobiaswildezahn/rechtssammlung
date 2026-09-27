@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61703"
@@ -43,7 +44,7 @@ Zu welchen Uhrzeiten ist über die Kinderschutzhotline des KJND ein persönliche
 
 Zu welchen Uhrzeiten ist über die Kinderschutzhotline des KJND eine automatische Anrufbeantwortung eingerichtet? Wie lang dauert es höchstens, bis die Aufzeichnungen abgehört werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Kinderschutzhotline wird vom ambulanten Notdienst des Kinder- und Jugendnotdienstes bedient und ist rund um die Uhr an allen Tagen des Jahres besetzt.
 
@@ -91,7 +92,7 @@ Wie viele Verdachtsfälle auf Vernachlässigung, Kindesmissbrauch, mögliche Ino
 
 Welche Personen nutzten die Kinderschutzhotline in den Jahren 2011 – 2017? (Bitte um Aufgliederung nach Jahren und Personengruppen „Kind“, „Eltern“, „nahes Umfeld“, „Dritte“.)
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der KJND führt keine gesonderte Statistik für die Kinderschutzhotline, da Verdachtsfällen auf Vernachlässigung, Kindesmissbrauch oder notwendige Inobhutnahmen vom Ambulanten Notdienst unverzüglich selbst nachgegangen wird und die jeweils zuständigen Bezirksämter am nächsten Werktag hierüber informiert werden. Diese Fälle gehen in die Statistiken des KJND und der Bezirksämter ein, ohne dass sie als Fälle der Kinderschutzhotline ausgewiesen werden.
 

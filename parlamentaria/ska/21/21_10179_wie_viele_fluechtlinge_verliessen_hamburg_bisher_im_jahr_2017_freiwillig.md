@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 19
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8017", "21/8312", "21/8436", "21/8752", "21/9195", "21/9357", "21/9757", "21/6055", "21/8434", "21/3105", "21/5547"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59013"

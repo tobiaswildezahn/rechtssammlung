@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65396"
@@ -91,13 +92,13 @@ Aus Sicht des Senats ist es angemessen, im Zusammenhang mit einer solchen Großm
 
 Mit den Vereinbarungen zum Süderelbefonds und zum Biotopkorridor im Bereich der alten Süderelbe sind mehrere Ziele erreicht worden:
 
- die verträgliche Integration der A26-West in Natur und Landschaft,
+– die verträgliche Integration der A26-West in Natur und Landschaft,
 
- die Einrichtung eines funktionsfähigen Biotopkorridors im Süderelberaum,
+– die Einrichtung eines funktionsfähigen Biotopkorridors im Süderelberaum,
 
- die Stärkung der Landwirtschaft und
+– die Stärkung der Landwirtschaft und
 
- die Verbesserung der Rechtssicherheit der Planung.
+– die Verbesserung der Rechtssicherheit der Planung.
 
 ### Frage 4
 

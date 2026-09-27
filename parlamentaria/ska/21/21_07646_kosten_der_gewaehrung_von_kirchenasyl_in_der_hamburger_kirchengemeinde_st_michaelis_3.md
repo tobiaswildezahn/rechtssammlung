@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4317", "21/4785"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56271"
@@ -43,7 +44,7 @@ Wie viele der im September 2015 zu den mit Abschiebung bedrohten „Besetzern“
 
 Fall sich derartige Personen weiterhin in Hamburg befinden, weshalb ist deren Abschiebung noch nicht vollzogen worden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die zuständige Behörde besitzt keine Kenntnis über die Identitäten der betroffenen Personen, soweit diese nicht nach der Medienberichterstattung identifizierbar waren, siehe auch Drs. 21/4317. Im Übrigen siehe Antwort zu 3. a. bis d.
 

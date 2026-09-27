@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 22
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/129", "21/1002", "20/9683", "20/13705", "20/12697"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49239"
@@ -43,7 +44,7 @@ Wie viele Flüchtlinge, die der Schulpflicht des Hamburger Schulgesetzes unterli
 
 An welchen Standorten sind diese schulpflichtigen Flüchtlinge untergebracht? Bitte nach Standorten und Geburtsjahr aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In den Standorten der Zentralen Erstaufnahmeeinrichtung (ZEA) sind folgende schulpflichtige Flüchtlinge untergebracht:
 
@@ -269,7 +270,7 @@ Nach welchen Kriterien werden die Schulen ausgewählt, an denen ABC- und/oder IV
 
 Wie wird eine ausreichend Einbeziehung der von der zuständigen Behörde ausgewählten Schule bei der Einrichtung von ABC- und/oder IVK-Klassen sichergestellt?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Die Einrichtung von Basisklassen oder IVK erfolgt in enger Abstimmung mit der Schule. Die Auswahl der Standorte richtet sich nach der Zahl verfügbarer Räume und der Nähe zu bestehenden und/oder geplanten Wohnunterkünften.
 
@@ -295,15 +296,15 @@ Das Aufnahmesystem umfasst
 
 2. eine anschließende Beschulung in den allgemeinbildenden Schulen, in die die Kinder und Jugendlichen in der Regel nach dem Wechsel in eine öffentliche Unterbringung übergehen:
 
- Im vorschulischen Bereich und in den Jahrgangsstufen 1 und 2 werden die Kinder gleich in die entsprechenden Regelklassen aufgenommen und erhalten dort eine zusätzliche sprachliche Förderung,
+– Im vorschulischen Bereich und in den Jahrgangsstufen 1 und 2 werden die Kinder gleich in die entsprechenden Regelklassen aufgenommen und erhalten dort eine zusätzliche sprachliche Förderung,
 
- Basisklassen für noch nicht (im lateinischen Alphabet) alphabetisierte Schülerinnen und Schüler,
+– Basisklassen für noch nicht (im lateinischen Alphabet) alphabetisierte Schülerinnen und Schüler,
 
- Internationale Vorbereitungsklassen für Schülerinnen und Schüler, die alphabetisiert sind, aber noch nicht über ausreichende Deutschkenntnisse verfügen,
+– Internationale Vorbereitungsklassen für Schülerinnen und Schüler, die alphabetisiert sind, aber noch nicht über ausreichende Deutschkenntnisse verfügen,
 
- weitere flankierende Sprachfördermaßnahmen
+– weitere flankierende Sprachfördermaßnahmen
 
- und eine gegebenenfalls erforderliche sozialpädagogische Begleitung.
+– und eine gegebenenfalls erforderliche sozialpädagogische Begleitung.
 
 3. oder alternativ eine anschließende Beschulung in berufsbildenden Schulen für Jugendliche, die entsprechend ihres Alters und ihrer Vorerfahrungen eher für eine berufsbildende Vorbereitungsmaßnahme in Frage kommen.
 

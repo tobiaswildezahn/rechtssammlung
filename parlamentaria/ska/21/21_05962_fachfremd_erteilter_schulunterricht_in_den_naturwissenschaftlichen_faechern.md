@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2874"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54477"
@@ -43,7 +44,7 @@ Welche Befähigungen müssen Lehrkräfte nachweisen, um in den naturwissenschaft
 
 Nach welchen Grundsätzen und Vorschriften erfolgt der fachfremde Einsatz von Lehrkräften in diesen Fächern?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/2874. Für die naturwissenschaftlichen Fächer Biologie, Chemie und Physik sowie für das Fach Informatik gelten dieselben Regelungen wie für die gesellschaftswissenschaftlichen Fächer.
 
@@ -65,7 +66,7 @@ Gibt es an allen Schulen Lehrkräfte für die naturwissenschaftlichen Fächer (M
 
 In welchem Umfang wird Unterricht in den naturwissenschaftlichen (Mathematik, Naturwissenschaften/Technik, Physik, Chemie, Biologie, Informatik, gegebenenfalls weitere) fachfremd erteilt? Bitte wie in Drs. 21/2874 darstellen und zusätzlich nach Schulform aufschlüsseln (Stadtteilschule, Gymnasium, Förderschule).
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Da die erfragten Angaben von der für Bildung zuständigen Behörde nicht zentral erfasst werden, wurde eine Schulabfrage an allen staatlichen Gymnasien und Stadtteilschulen und an den Regionalen Bildungs- und Beratungszentren (ReBBZ) durchgeführt, siehe Anlagen 1 bis 3. Eine Qualitätssicherung der angegebenen Daten konnte aufgrund der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nur in begrenztem Umfang erfolgen.
 

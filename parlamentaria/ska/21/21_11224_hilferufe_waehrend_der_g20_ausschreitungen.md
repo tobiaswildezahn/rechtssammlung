@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10405", "21/10110", "21/10312", "21/6857"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60211"
@@ -110,15 +111,15 @@ Für die Polizei:
 
 Die durchschnittliche Anrufannahmezeit hängt von mehreren Faktoren ab. Diese sind unter anderem:
 
- Anzahl der Mitarbeiter im Aufnahmebereich
+– Anzahl der Mitarbeiter im Aufnahmebereich
 
- Anrufaufkommen
+– Anrufaufkommen
 
- Dauer der Telefonate
+– Dauer der Telefonate
 
- Deliktsart
+– Deliktsart
 
- Maßnahmen, die während oder nach dem Telefonat eingeleitet werden müssen
+– Maßnahmen, die während oder nach dem Telefonat eingeleitet werden müssen
 
 Am 6. Juli 2017 im Zeitraum von 01.00 bis 02.00 Uhr gab es insgesamt drei Einsätze „vermisste Person“. In diesen Fällen müssen Fahndungen durch den aufnehmenden Beamten der Polizeieinsatzzentrale erlassen werden. Auch ein Einsatz „Einbrecher am Werk“ in diesem Zeitraum machte es erforderlich, den Anrufer bis zum Eintreffen des Funkstreifenwagens in der Leitung zu halten. Diese Umstände sind mitursächlich für den erhöhten Wert von 16,2 Sekunden.
 
@@ -208,11 +209,11 @@ Die in HELS technisch als Anrufversuch registrierten Notrufe werden von der Poli
 
 Gründe für ein Nichtzustandekommen eines Gesprächs können unter anderem sein:
 
- der Bürger hat sich verwählt,
+– der Bürger hat sich verwählt,
 
- der Bürger hat es sich anders überlegt,
+– der Bürger hat es sich anders überlegt,
 
- die Situation hat sich erledigt,
+– die Situation hat sich erledigt,
 
 Die Anzahl der an den einzelnen Tagen nicht zustande gekommenen Gespräche ist in der folgenden Tabelle dargestellt:
 

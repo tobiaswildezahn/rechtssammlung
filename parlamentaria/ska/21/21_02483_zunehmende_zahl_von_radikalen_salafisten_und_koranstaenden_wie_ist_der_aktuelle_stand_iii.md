@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 30
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1954", "20/11767", "20/13460", "21/1703", "21/1674", "21/1204", "21/954", "21/476", "21/1306", "21/114", "21/1278", "21/1542", "21/2196", "21/2370"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50767"
@@ -124,7 +125,7 @@ Gab es bisher Anlass, Verstöße gegen gesetzliche Vorgaben bezogen auf Veransta
 
 Wie bewertet der Senat die rechtlichen Möglichkeiten eines Verbots von Info- beziehungsweise Koranständen von salafistischen Gruppierungen angesichts der neuen Bedrohungslage durch den islamistisch motivierten Terrorismus (bitte genau begründen)?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Beurteilung eines Verbots von Informationsständen, auch von Informationsständen salafistischer Gruppierungen, muss sich auf die konkrete Situation der einzelnen Informationsstände beziehen. Die allgemeine Bedrohungslage an sich vermag daher ein Verbot eines Informationsstandes nicht zu begründen. Im Übrigen siehe Drs. 21/1204 sowie 21/114.
 

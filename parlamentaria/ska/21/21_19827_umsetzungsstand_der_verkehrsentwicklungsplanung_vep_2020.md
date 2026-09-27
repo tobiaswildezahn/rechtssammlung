@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 5
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9376", "21/7748"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69589"
@@ -55,6 +56,6 @@ Welche im „Mobilität in Hamburg – Ziele“ genannten Maßnahmen a. wurden b
 
 Welche Hindernisse bei der Umsetzung der Maßnahmen sind dem Senat bekannt und welche Schritte hat er unternommen, um diesen zu begegnen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.

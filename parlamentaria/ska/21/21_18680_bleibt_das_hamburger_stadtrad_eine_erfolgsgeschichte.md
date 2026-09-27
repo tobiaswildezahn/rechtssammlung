@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 17
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16429", "21/17107"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68350"
@@ -58,7 +59,7 @@ Welche Ausleihstationen sind bereits für jeweils wann an jeweils welchen Stando
 
 Zu jeweils welchem konkreten Zeitpunkt ist mit Beginn beziehungsweise Abschluss der jeweiligen Umsetzungsarbeiten der nach Ziffer 2. geplanten Ausleihstationen zu rechnen? Bitte nach jeweils geplanter Ausleihstation gesondert angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Zurzeit sind die folgenden neuen StadtRAD-Stationen konkret geplant:
 
@@ -230,7 +231,7 @@ Wie viele StadtRÄDER stehen in Hamburg seit dem 1. Januar 2019 jeweils insgesam
 
 Wie viele StadtRÄDER stehen den Hamburgern seit dem 1. Januar 2019 jeweils zur Tages- beziehungsweise Nachtzeit insgesamt zur Verfügung? Bitte unter Angabe der jeweiligen Gesamtzahl monatlich (für Oktober 2019 zum Stichtag 15.10.2019) angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die monatliche Flottengröße von StadtRAD Hamburg ist der nachfolgenden Tabelle zu entnehmen. Das Wachstum der Flotte resultiert aus der Inbetriebnahme zusätzlicher StadtRAD-Stationen.
 
@@ -368,7 +369,7 @@ Welche Erlöse wurden durch das Fahrradverleihsystem StadtRAD Hamburg seit dem 1
 Welche Erlöse wurden an jeweils welcher Ausleihstation seit dem
 1. Januar 2019 jeweils insgesamt erzielt? Bitte monatlich (für Oktober 2019 zum Stichtag 15.10.2019) angeben.
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Die Erlöse aus Nutzungsgebühren und Serviceentgelten verbleiben vertragsgemäß beim Betreiber. Angaben zur Höhe der Erlöse stellen eine wesentliche interne Unternehmensinformation dar, die dem Bereich der geschützten Betriebs- und Geschäftsgeheimnisse unterliegt. Eine Zugänglichkeit dieser Information für Marktkonkurrenten wäre geeignet, die Wettbewerbsposition der StadtRAD-Betreiberfirma Deutsche Bahn Connect GmbH nachteilig zu beeinflussen.
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 15
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14366", "20/10492", "21/5758"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55732"
@@ -178,7 +179,7 @@ Unter welchen Bedingungen werden Zuschüsse seitens der IFB für die Überschrei
 
 Wie hoch fallen die Zuschüsse bei der Überschreitung der gesetzlichen energiesparenden Standards jeweils aus? Bitte nach den einzelnen Finanzierungsarten und energetischen Standards auflisten.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antwort zu 3. bis 5.
 

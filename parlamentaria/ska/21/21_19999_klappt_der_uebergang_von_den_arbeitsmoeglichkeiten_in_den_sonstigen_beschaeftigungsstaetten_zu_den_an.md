@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17638", "21/15538"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69764"
@@ -108,7 +109,7 @@ Wann können die Menschen, die in den „Sonstigen Beschäftigungsstätten“ mi
 
 Wie wird sichergestellt, dass die Menschen, die nun Rentner/-innen sind, weil die Umstellung der Beschäftigungen bei den „Sonstigen Beschäftigungsstätten“ hin zu den „anderen Leistungsanbietern“ nicht geklappt hat, ihre Rentenpunkte erlangen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4662"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53112"
@@ -131,7 +132,7 @@ Welche Maßnahmen plant der Senat, um den bislang auf mehrere Jahre im Voraus de
 
 Wird es auch über das Jahr 2016 hinaus einen Zuschuss aus dem Haushalt der Freien und Hansestadt Hamburg an die HPA geben (sogenannter Ersatz der HHLA-Milliarde)? Wenn ja, in welchem Umfang? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Überlegungen hierzu sind noch nicht abgeschlossen. Der Haushaltsplan 2017/ 2018 befindet sich derzeit in Aufstellung. Im Übrigen wurde eine Anschlussfinanzierung für die sogenannte HHLA-Milliarde bereits erstmalig im Doppelhaushalt 2015/ 2016 vorgesehen.
 

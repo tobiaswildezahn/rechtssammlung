@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13184"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63429"
@@ -57,15 +58,15 @@ Wie weit sind die konkreten Vorbereitungen für eine europaweite Ausschreibung f
 
 Im Bereich der Hamburger Delegationsstrecke gliedert sich die Ausführung der Fahrrinnenanpassung in die fünf Teilprojekte:
 
- Vertiefung und Verbreiterung der Fahrrinne,
+– Vertiefung und Verbreiterung der Fahrrinne,
 
- Neubau der Richtfeuerlinie,
+– Neubau der Richtfeuerlinie,
 
- Neubau des Dükers bei der Insel Neßsand,
+– Neubau des Dükers bei der Insel Neßsand,
 
- Sicherung des Ostufers des Köhlbrands und
+– Sicherung des Ostufers des Köhlbrands und
 
- Bau der Kompensationsmaßnahme Billwerder Insel.
+– Bau der Kompensationsmaßnahme Billwerder Insel.
 
 Die HPA hat bereits mit einzelnen Ausschreibungsverfahren zur Umsetzung des Fahrrinnenausbaus begonnen. Konkret wurden das Vergabeverfahren zur Kampfmittelräumung für den Bau der neuen Richtfeuerlinie sowie die europaweiten Vergabeverfahren (Teilnahmewettbewerb) für den Neubau des Dükers nach Neßsand sowie für den Neubau der Richtfeuerlinie bereits eingeleitet. Im Übrigen siehe Drs. 21/13184
 

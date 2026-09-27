@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/931", "21/629", "21/296", "21/817"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49576"
@@ -77,6 +78,6 @@ Bis wann sollen welche Anpassungen und Software-Updates an PROSA vorgenommen wer
 
 Inwieweit sind vor dem Hintergrund möglicher zusätzlicher Änderungsanforderungen die in Drs. 21/817 für die Jahre 2015 und 2016 angesetzten PROSA-Betriebskostenbudgets noch als auskömmlich anzusehen? Mit welchen Mehrbedarfen ist gegebenenfalls zu rechnen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 3. Im Übrigen handelt es sich um eine hypothetische Frage, auf die der Senat grundsätzlich nicht antwortet.

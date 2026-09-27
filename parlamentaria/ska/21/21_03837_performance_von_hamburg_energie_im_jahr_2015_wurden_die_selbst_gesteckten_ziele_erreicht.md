@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 7
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52200"
@@ -49,13 +50,13 @@ Gemäß vorläufigem, noch nicht testierten, Jahresabschluss beträgt der Jahres
 
 Im Wesentlichen sind die Abweichungen von der Prognose wie folgt zu erklären:
 
- Nicht so positiv wie geplant verlaufende Kundenentwicklung im Bereich Strom
+– Nicht so positiv wie geplant verlaufende Kundenentwicklung im Bereich Strom
 
- Niedrigere Absatzmengen im Gasbereich aufgrund der warmen Witterung trotz
+– Niedrigere Absatzmengen im Gasbereich aufgrund der warmen Witterung trotz
 
 positiver Kundenentwicklung
 
- Verzögerungen im Projektablauf zweier Windkraftanlagen (WKA) im Hamburger
+– Verzögerungen im Projektablauf zweier Windkraftanlagen (WKA) im Hamburger
 
 Hafen und dadurch geringere Ergebnisbeiträge, siehe dazu auch Antwort zu 2
 

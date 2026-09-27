@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 20
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2478", "21/5023", "21/8424", "21/5124", "21/5453", "21/5812", "21/6222", "21/6544", "21/7162", "21/7420", "21/7828", "21/8192", "21/8557", "21/8934", "21/9357", "21/9757", "21/9389", "21/8434", "21/2069"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58683"
@@ -112,7 +113,7 @@ Wurde der Mitarbeiterstab des ZKF den geänderten Prognosen zum erwarteten Flüc
 
 Wie entwickelte sich die Personalstruktur des ZKF in Abhängigkeit zu den aufgetretenen Flüchtlingszahlen? (Bitte monatsweise aufschlüsseln.)
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/5124, Drs. 21/5453, Drs. 21/5812, Drs. 21/6222, Drs. 21/6544, Drs. 21/7162, Drs. 21/7420, Drs. 21/7828, Drs. 21/8192, Drs. 21/8557, Drs. 21/8934, Drs. 21/9357 und Drs. 21/9757. Darüber hinaus siehe Antwort zu 1.
 
@@ -233,7 +234,7 @@ Wie viele Mitarbeiter von Behörden sind außerhalb des ZKF mit Angelegenheiten 
 
 Wie viele Mitarbeiter von Behörden sind außerhalb des ZKF über die in Frage 10. genannten Aufgabenbereiche mit Angelegenheiten im Kontext zu Flüchtlingen befasst? (Bitte aufschlüsseln nach Tätigkeitsbereich, Behörden, Ämtern und VZÄ.)
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Im Rahmen der Regelversorgung sind sämtliche Behörden und Ämter der Freien und Hansestadt Hamburg auch für Geflüchtete zuständig. Ein wichtiges Ziel war es daher, die regelhaften Angebote auch für die Geflüchteten zugänglich zu machen. Zum Integrationsverständnis siehe Drs. 21/2069.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/355", "21/521"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48977"
@@ -91,7 +92,7 @@ Wie werden Kontrollen bezogen auf eventuelle Steuernachzahlungen bei Altersbezü
 
 Welche Konsequenzen zieht der Senat beziehungsweise die zuständige Behörde daraus?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Gemäß § 22a EStG erhält die Finanzverwaltung RBM von den auszahlenden Stellen. Im Übrigen siehe Vorbemerkung.
 

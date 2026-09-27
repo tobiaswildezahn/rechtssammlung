@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 21
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3932"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54828"
@@ -47,7 +48,7 @@ Die in der Kleingartenbedarfsanalyse empfohlen Nachverdichtung der Kleingartenan
 
 Wie groß sind die Nebenflächen der Kleingartenanlagen in Summe, die nicht in Parzellen unterteilt sind?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Statistiken zu Einzelparzellengrößen werden nicht geführt. Eine Darstellung im Sinne der Fragestellung ist daher nicht möglich.
 

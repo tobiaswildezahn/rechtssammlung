@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48460"
@@ -47,7 +48,7 @@ b. auf wessen Veranlassung,
 c. auf welcher rechtlichen Grundlage erfolgt diese Aufforderung,  
 d. aus welchem Grund?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Aus Anlass eines Einzelfalls hat die zuständige Bereichsleitung von f & w fördern und wohnen AöR (f & w) mit einer E-Mail die Mitarbeiterinnen und Mitarbeiter darum gebeten, in ihrer Eigenschaft als Auftragnehmer der Behörde für Inneres und Sport auf Geschäftspapier von f & w keine Eingaben oder sonstige Schreiben zu verfassen, die gegen das Verwaltungshandeln der auftraggebenden Behörde gerichtet sind. Das Verfassen von Petitionen für Bewohnerinnen und Bewohner gehört nicht zu den Aufgaben der Mitarbeiterinnen und Mitarbeiter von f & w. Beratungsleistungen, die die Mitarbeiterinnen und Mitarbeiter für die Bewohnerinnen und Bewohner erbringen, erfolgen nach dem Prinzip der Verweisberatung. Dementsprechend wurde in der E-Mail ausdrücklich der Weg aufgezeigt, Bewohner an Flüchtlingsberatungsstellen oder die ÖRA zu verweisen. Einer Rechtsgrundlage für diese Bitten und Hinweise bedarf es nicht.
 

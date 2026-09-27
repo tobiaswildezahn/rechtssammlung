@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 15
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9979", "21/2368", "21/6194", "21/7169"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59632"
@@ -55,7 +56,7 @@ In welchem Zeitraum ist der Übergang der Fläche „Tideanschluss Billwerder In
 
 Welche Kosten entstehen der HPA durch die Übertragung der Fläche? Welches Unternehmen ist zur Bewertung der Fläche durch HAMBURG WASSER beauftragt und zu welchem Ergebnis ist es gekommen beziehungsweise wann ist mit einem Ergebnis zu rechnen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Derzeit werden von der HPA Gespräche mit HAMBURG WASSER zum Flächenübergang geführt. Diese sind noch nicht abgeschlossen. Im Übrigen siehe Drs. 21/9979.
 

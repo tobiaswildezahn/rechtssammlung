@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 26
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/428"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50158"
@@ -185,7 +186,7 @@ Laut HmbAbwG § 1 gilt „Abwasser soll beseitigen werden, ohne der Allgemeinhei
 
 Laut HmbAbwG §4 (1) sind „Abwasseranlagen in einem ordnungsgemäßen Zustand“ zu halten und (5) „weder beschädigt noch in ihrer Funktionsfähigkeit beeinträchtigt“ zu sein: a. Inwieweit ist die Berner Au in einem ordnungsgemäßen und funktionsfähigen Zustand, wenn laut Prognose der BUE alle zehn Jahre (HQ10) direkt nach einem RHB Überschwemmungen erwartet werden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die benannten Gräben sind Gewässer und unterliegen somit nicht dem Hamburgischen Abwassergesetz. Die Berner Au und die benannten Gräben sind Gewässer und unterliegen somit nicht dem Hamburgischen Abwassergesetz.
 
@@ -287,11 +288,11 @@ Auf Grundlage der EU-Richtlinie und in Zusammenarbeit mit der FGG- Elbe hat die 
 
 Im Falle Berner Au werden folgende Signifikanzgrenzen erreicht beziehungsweise überschritten:
 
- Schutzgut menschliche Gesundheit – Die im Falle eines Hochwassers gemäß HQ
+– Schutzgut menschliche Gesundheit – Die im Falle eines Hochwassers gemäß HQ
 
 100 überschwemmte Fläche würde 100 oder mehr Einwohner betreffen.
 
- Schutzgut wirtschaftliche Tätigkeiten – Die im Falle eines Hochwassers gemäß HQ
+– Schutzgut wirtschaftliche Tätigkeiten – Die im Falle eines Hochwassers gemäß HQ
 
 100 überschwemmte Fläche würde eine oder mehr Schulen beziehungsweise zehn oder mehr Gebäude betreffen.
 

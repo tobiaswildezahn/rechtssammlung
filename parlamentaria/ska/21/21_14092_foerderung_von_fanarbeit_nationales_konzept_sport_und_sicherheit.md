@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63487"
@@ -65,39 +66,39 @@ Spiele mit erhöhtem Risiko sind Spiele, bei denen aufgrund allgemeiner Erfahrun
 
 Maßnahmen der Polizei Hamburg im Sinne der Fragestellung sind insbesondere:
 
- Durchführen von Gefährderansprachen und Versenden von Gefährderanschrei-
+– Durchführen von Gefährderansprachen und Versenden von Gefährderanschrei-
 
 ben,
 
- Veranlassen von Meldeauflagen,
+– Veranlassen von Meldeauflagen,
 
- Initiieren von Bereichsbetretungs- und Aufenthaltsverboten sowie deren Überwa-
+– Initiieren von Bereichsbetretungs- und Aufenthaltsverboten sowie deren Überwa-
 
 chung,
 
- Anregen von Stadionverboten,
+– Anregen von Stadionverboten,
 
- Verbot des Ausschanks von Alkohol im Stadion,
+– Verbot des Ausschanks von Alkohol im Stadion,
 
- strikte Trennung gewaltbereiter Fanszenen bei der An- und Abreise.
+– strikte Trennung gewaltbereiter Fanszenen bei der An- und Abreise.
 
 Im Rahmen einer zwischen der Polizei und den Vereinen abgestimmten Kommunikation wird versucht, deeskalierend auf die Gesamtstimmung Einfluss zu nehmen und den sportlichen Aspekt in den Vordergrund zu rücken. In den jeweiligen Sicherheitsbesprechungen mit den Vereinen werden neben den polizeilichen Maßnahmen darüber hinaus weitere Maßnahmen zur Vermeidung von Auseinandersetzungen besprochen. Hierzu zählen unter anderem:
 
- Begrenzung des Verkaufs der Eintrittskarten sowohl für Steh- als auch Sitzplatzbe-
+– Begrenzung des Verkaufs der Eintrittskarten sowohl für Steh- als auch Sitzplatzbe-
 
 reiche der Gäste,
 
- strikte Trennung der Anhänger in den Zuschauerbereichen,
+– strikte Trennung der Anhänger in den Zuschauerbereichen,
 
- Einrichten und Freihalten sogenannter Pufferblöcke (Freiblöcke zwischen Gast-
+– Einrichten und Freihalten sogenannter Pufferblöcke (Freiblöcke zwischen Gast-
 
 und Heimbereich),
 
- Verstärkung des Ordnungsdienstes, insbesondere an den Zu- und Ausgängen der
+– Verstärkung des Ordnungsdienstes, insbesondere an den Zu- und Ausgängen der
 
 Zuschauerbereiche und
 
- Durchführen verstärkter Personenkontrollen.
+– Durchführen verstärkter Personenkontrollen.
 
 Daneben werden einzelfallbezogen weitere einsatztaktische Maßnahmen ergriffen.
 

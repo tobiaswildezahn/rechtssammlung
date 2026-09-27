@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68465"
@@ -151,7 +152,7 @@ Wie viele der gemäß Ziffer 1. a) erteilten Bau- beziehungsweise Teilbaugenehmi
 
 Wie viele der gemäß Ziffer 1. a) erteilten Bau- beziehungsweise Teilbaugenehmigungen sind infolge eines Ablaufs der gesetzlichen Einjahresfrist des § 73 Absatz 1 HBauO jeweils insgesamt erloschen? Bitte insgesamt sowie nach Jahr, jeweiligem Bezirk und Bau- beziehungsweise Teilbaugenehmigungen gesondert darstellen.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Bau- beziehungsweise Teilbaugenehmigungen, die erloschen sind, weil innerhalb von drei Jahren nach ihrer Erteilung mit der Ausführung des Vorhabens nicht begonnen oder die Bauausführung länger als ein Jahr unterbrochen worden ist (§ 73 Absatz 1 Hamburgische Bauordnung, HBauO) werden von den Bezirksämtern nicht erfasst. Es wären mindestens 10 000 Vorgänge auszuwerten. Eine händische Auswertung ist in der für eine Parlamentarische Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -163,7 +164,7 @@ Wie viele (Teil-)Beseitigungs- beziehungsweise (Teil-)Abrissverfügungen bezügl
 
 Wie viele Wohnungen beziehungsweise Wohngebäude mit jeweils wie vielen Wohneinheiten wurden im Zeitraum Anfang März 2011 bis Ende September 2019 infolge einer (Teil-)Beseitigungs- beziehungsweise (Teil-)Abrissverfügung jeweils insgesamt beseitigt? Bitte nach Jahr und jeweiligem Bezirk gesondert darstellen.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Es wurden keine Abbruch- oder Beseitigungsverfügungen erlassen.
 
@@ -175,7 +176,7 @@ Wie viele Nutzungsuntersagungen bezüglich jeweils wie vieler Wohnungen beziehun
 
 Wie viele der nach Ziffer 11. erlassenen Nutzungsuntersagungen wurden bezüglich jeweils wie vieler Wohnungen beziehungsweise Wohngebäude mit jeweils wie vielen Wohneinheiten im Zeitraum Anfang März 2011 bis Ende September 2019 aus jeweils welchen Gründen und nach jeweils welcher durchschnittlichen Geltungsdauer wieder aufgehoben? Bitte nach Jahr und jeweiligem Bezirk gesondert darstellen.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Nutzungsuntersagungen werden nicht gesondert erfasst.
 

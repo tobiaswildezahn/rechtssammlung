@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7920"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62641"
@@ -43,7 +44,7 @@ Wie viele Fälle von Gewalt gegen Obdachlose durch nicht wohnungslose Täter sin
 
 Wie viele Fälle von Gewalt gegen Obdachlose durch wohnungslose Täter sind dem Senat bekannt? Bitte nach Geschlecht der Opfer und Täter/-innen sowie nach Tatvorwurf, Verfahrensstand und Verfahrensausgang für 2017 bis aktuell auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In den Medien ist in den Jahren 2017 und 2018 über einzelne Vorfälle mit Obdachlosen als Opfer berichtet worden. Es gibt hierzu keine spezielle statistische Erfassung bei der Polizei, siehe Drs. 21/7920.
 

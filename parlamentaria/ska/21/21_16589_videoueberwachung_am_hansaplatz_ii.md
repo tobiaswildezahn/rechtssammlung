@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 18
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16099", "21/15724", "21/526", "21/3335", "21/5410", "21/10452", "21/11279", "21/12753"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66122"
@@ -44,17 +45,17 @@ Wie viele Kameras werden an welchen Standorten am Hansaplatz aufgestellt?
 
 Nach derzeitigem Stand sind insgesamt 22 Kameras an folgenden Standorten vorgesehen:
 
- Hansaplatz/Bremer Reihe (vier Kameras),
+– Hansaplatz/Bremer Reihe (vier Kameras),
 
- Hansaplatz/Stralsunder Straße/Brennerstraße (fünf Kameras),
+– Hansaplatz/Stralsunder Straße/Brennerstraße (fünf Kameras),
 
- Hansaplatz/Zimmerpforte/Rostocker Straße (vier Kameras),
+– Hansaplatz/Zimmerpforte/Rostocker Straße (vier Kameras),
 
- Hansaplatz/Baumeisterstraße/Ellmenreichstraße (vier Kameras),
+– Hansaplatz/Baumeisterstraße/Ellmenreichstraße (vier Kameras),
 
- Robert-Nhil-Straße/Bremer Reihe/Steintorweg (drei Kameras),
+– Robert-Nhil-Straße/Bremer Reihe/Steintorweg (drei Kameras),
 
- Zimmerpforte/Kirchenweg (zwei Kameras).
+– Zimmerpforte/Kirchenweg (zwei Kameras).
 
 ### Frage 2
 
@@ -84,13 +85,13 @@ Geplant ist der Einsatz des Kameratyps Hikvision DS-2DF8225IX-AEL.
 
 Die wesentlichen technischen Merkmale sind:
 
- Zoom: 5,7mm - 142mm,
+– Zoom: 5,7mm - 142mm,
 
- Auflösung: 1920 x 1080 Pixel (Full HD),
+– Auflösung: 1920 x 1080 Pixel (Full HD),
 
- Schwenkbar: 360 Grad endlos,
+– Schwenkbar: 360 Grad endlos,
 
- Verpixelung: geschieht per Definition in der Kamera. Die Verpixelung erfolgt auch
+– Verpixelung: geschieht per Definition in der Kamera. Die Verpixelung erfolgt auch
 
 bei Kameraschwenks und Nutzung des Zooms.
 
@@ -205,19 +206,19 @@ Vergewaltigungen (PKS 111100, 111200) zählen gemäß der PKS-Richtlinie seit 20
 
 Die Summe der Fälle der Delikte der Straßenkriminalität kann höher sein als die Anzahl der Fälle des Summenschlüssels Straßenkriminalität (PKS-Summenschlüssel 899000). Dies liegt daran, dass die Delikte
 
- Diebstahl insgesamt von Kraftwagen (einschließlich unbefugter Ingebrauchnahme)
+– Diebstahl insgesamt von Kraftwagen (einschließlich unbefugter Ingebrauchnahme)
 
 (PKS-Schlüssel *001**),
 
- Diebstahl insgesamt von Mopeds und Krafträdern (einschließlich unbefugter Inge-
+– Diebstahl insgesamt von Mopeds und Krafträdern (einschließlich unbefugter Inge-
 
 brauchnahme) (PKS-Schlüssel *002**),
 
- Diebstahl insgesamt von Fahrrädern (einschließlich unbefugter Ingebrauchnahme)
+– Diebstahl insgesamt von Fahrrädern (einschließlich unbefugter Ingebrauchnahme)
 
 (PKS-Schlüssel *003**) und
 
- Diebstahl insgesamt von/aus Automaten (PKS-Schlüssel *007**)
+– Diebstahl insgesamt von/aus Automaten (PKS-Schlüssel *007**)
 
 auch Fälle enthalten, die nicht der Straßenkriminalität zugeordnet werden, zum Beispiel Diebstähle aus Neu- und Rohbauten, Baustellen, Keller, Böden, Dienst-, Büro-, Fabrikations-, Werkstatt- und Lagerräumen. Bei Diebstahl von/aus Automaten kommen noch die Diebstähle von/aus Gaststätten, Kantinen Hotels und Pensionen dazu. Diese Fälle werden im Summenschlüssel nicht mit berechnet.
 

@@ -14,6 +14,7 @@ fragen: 28
 einzelfragen: 51
 antwortbloecke: 27
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5673", "21/3278", "21/4686", "21/5635", "21/5152"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54329"
@@ -115,7 +116,7 @@ Welche Subunternehmen welcher Sicherheitsdienste in welchen Erstaufnahmen betraf
 
 Welche Subunternehmen waren und sind in 2015 und 2016 in den Erstaufnahmen am Albert-Einstein-Ring und am Behrmannplatz für das beauftragte Sicherheitsunternehmen tätig? Wann wurde die Zustimmung zur Beschäftigung der Subunternehmer jeweils erteilt?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 In beiden Einrichtungen des Deutschen Rotes Kreuzes Landesverband Hamburg e.V. wurde die SOD Bergedorf UG als Sicherheitsdienst beauftragt. Die SOD Bergedorf UG hat im Rahmen der hohen Zugangszahlen im Oktober 2015 und wegen des dringenden Bedarfs an Wachpersonal die SHALA Sicherheit & Service als Subunternehmer beauftragt. Im Oktober 2015 war die Erforderlichkeit der Zustimmung beim Einsatz von Subunternehmern nicht ausdrücklich geregelt, sodass keine Zustimmung oder nachträgliche Genehmigung erfolgte. Aufgrund des geänderten Verfahrens im Rahmen der Verhandlung der Betreiberverträge und den Regelungen zum Einsatz von Sicherheitsdiensten in der Leistungsbeschreibung wurde ein Zustimmungsvorbehalt eingeführt. Derzeit ist die Firma Strategos Security Hamburg als Subunternehmer tätig. Dieser Subunternehmer wurden der Behörde angezeigt und die Beauftragung am 05. Juli 2016 genehmigt.
 

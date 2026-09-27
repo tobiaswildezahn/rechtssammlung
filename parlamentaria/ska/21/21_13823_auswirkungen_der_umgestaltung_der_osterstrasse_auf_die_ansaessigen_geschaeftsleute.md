@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63208"
@@ -49,21 +50,21 @@ Wie viel Verkehr floss täglich über die Osterstraße vor der Umgestaltung? Wie
 
 Aus der Zeit vor der Umgestaltung der Osterstraße liegen für die einzelnen Straßenabschnitte folgende Angaben zur durchschnittlichen täglichen Verkehrsstärke (DTV) vor:
 
- Osterstraße, südöstlich Methfesselstraße:
+– Osterstraße, südöstlich Methfesselstraße:
 
- DTV 2013 circa 7.700 Kraftfahrzeuge/24Stunden (Kfz/24Std),
+– DTV 2013 circa 7.700 Kraftfahrzeuge/24Stunden (Kfz/24Std),
 
- Osterstraße, westlich Heußweg:
+– Osterstraße, westlich Heußweg:
 
- DTV 2013 circa 9.900 Kfz/24Std,
+– DTV 2013 circa 9.900 Kfz/24Std,
 
- Osterstraße, östlich Heußweg:
+– Osterstraße, östlich Heußweg:
 
- DTV 2013 circa 11.300 Kfz/24Std,
+– DTV 2013 circa 11.300 Kfz/24Std,
 
- Osterstraße, westlich Schulweg:
+– Osterstraße, westlich Schulweg:
 
- DTV 2012 circa 12.800 Kfz/24Std.
+– DTV 2012 circa 12.800 Kfz/24Std.
 
 Aktuelle Verkehrsmengendaten für die Zeit nach der Umgestaltung der Osterstraße liegen derzeit nicht vor.
 
@@ -76,11 +77,11 @@ a) Wie hoch war die ungefähre Auslastung der Parkplätze vor der Umgestaltung?
 
 Untersuchungen im Vorfeld der Planung zur Auslastung der Parkplätze haben folgende Erkenntnisse gebracht:
 
- Belegung nachts: zu 100 Prozent von Anwohnerinnen und Anwohnern
+– Belegung nachts: zu 100 Prozent von Anwohnerinnen und Anwohnern
 
- Belegung tagsüber: weniger als 20 Prozent von Anwohnerinnen und Anwohnern
+– Belegung tagsüber: weniger als 20 Prozent von Anwohnerinnen und Anwohnern
 
- Belegung freier Parkplätze: zu einem Drittel von Langzeitbesucherinnen und
+– Belegung freier Parkplätze: zu einem Drittel von Langzeitbesucherinnen und
 
 -besuchern und Beschäftigten und zu zwei Dritteln von Kurzzeitparkenden
 

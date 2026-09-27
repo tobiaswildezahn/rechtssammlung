@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 46
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51850"
@@ -51,7 +52,7 @@ Wann genau wurden seit 2007 bis 2012 welche Sanierungsmaßnahmen am Standort der
 
 Wann genau wurden seit 2012 bis 2016 welche Sanierungsmaßnahmen am Standort der Stadtteilschule Süderelbe durchgeführt? (Bitte mit Nennung des jeweiligen Jahres der Durchführung und der Art der Maßnahmen in einer Tabelle angeben.) a. Welche Gebäude waren davon betroffen? (Bitte entsprechend den vorgegebenen Parametern in der Tabelle zu 2. angeben.) b. Welche Maßnahmen wurden im Einzelnen an diesen durchgeführt? (Bitte getrennt nach baulicher, technischer, sanitärer, heizungsbezogener oder sonstiger Sanierung entsprechend den vorgegebenen Parametern in die Tabelle zu 2. integrieren.) c. Welche Kosten entstanden dabei jeweils und wie beziehungsweise durch wen wurden sie finanziert? (Bitte entsprechend den vorgegebenen Parametern in absoluten Anzahlen, mit Nennung der Finanzquelle (Behörde, GMH, SBH, Schule et cetera) in die Tabelle zu 2. integrieren.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In den Jahren 2010 und 2012 wurden Sanierungsmaßnahmen an Gebäudefassaden und Fenstern durchgeführt sowie eine Metallbauhalle (Bootshaus) errichtet. Dafür wurden im Rahmen des im Schulbau bestehenden Mieter-Vermieter-Modells rund 1,25 Millionen Euro investiert.
 
@@ -63,7 +64,7 @@ Welche Neu- beziehungsweise Umbaumaßnahmen wurden mit dem Schulentwicklungsplan
 
 Aus welchen Gründen verzögert sich der Neu- beziehungsweise Umbau des Schulstandortes, insbesondere der Schulgebäude, seit 2012 und welche Schritte wurden bis 2016 zu dessen Umsetzung im Einzelnen eingeleitet? (Bitte chronologisch auflisten und erläutern.) a. Wie weit ist die Bauplanung für die Schule derzeit vorangeschritten? (Bitte Stand und Umfang der Planungen zeitlich wie inhaltlich darstellen.) b. Welche Maßnahmen sieht sie im Einzelnen zu welchen Kosten vor? c. Inwiefern wurden dabei veränderte Faktoren am Standort, wie etwa das Wachsen des Stadtteils, die zusätzlichen Klassen der Flüchtlingsbeschulung et cetera, berücksichtigt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Im Rahmen der Aufstellung des Investitionsplans Schulbau wurden die Anforderungen des Schulentwicklungsplans baulich konkretisiert. Zu den konkreten Planungen an der Stadtteilschule Süderelbe siehe Antwort zu 6. bis 6. f.
 

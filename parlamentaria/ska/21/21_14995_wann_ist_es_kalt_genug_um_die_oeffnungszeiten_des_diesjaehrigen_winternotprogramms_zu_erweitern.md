@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14333", "21/11192", "21/10479"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64474"
@@ -51,7 +52,7 @@ Ab welchen Temperaturen ist es nach Erachten des Senats „sehr kalt“, um auch
 
 In einem Beschluss des OVG Nordrhein-Westfalen von 1992 heißt es, das „obdachlose Personen regelmäßig so unterzubringen sind, dass sie die Möglichkeit haben sich in der Unterkunft ganztägig aufzuhalten, weil den Obdachlosen nicht nur nachts, sondern auch tagsüber Schutz vor der Witterung zu bieten ist“. Inwieweit ist nach Meinung des Senats eine ganztägige Aufenthaltsmöglichkeit – auch an den Wochenenden und Feiertagen – im Winternotprogramm gegeben?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Als nächtlicher Kälte- und Erfrierungsschutz ergänzt das WNP in den Wintermonaten das ganzjährige Angebot von Notschlafstellen, in deren Zusammenspiel mit den Tagesaufenthaltsstätten ein durchgehender Schutz obdachloser Menschen gewährleistet wird (siehe Drs. 21/10479 sowie https://www.hamburg.de/winternotprogrammobdachlose/10327604/tagesoeffnung/ und https://www.hamburg.de/beratung-hilfen/ 2674330/tagestreffpunkte-obdachlose-hamburg/).
 

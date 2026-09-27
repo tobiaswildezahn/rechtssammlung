@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64609"
@@ -63,6 +64,6 @@ Welche der folgenden Projektphasen sind bei welchen Projekten schon erreicht wor
 
 Orientiert sich der Senat an den unter Frage 2. aufgezeigten Projektschritten und falls nicht, welche Projektphasen und Detailschritte verwendet der Senat in seinem Projektmanagement (bitte detailliert auflisten)?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Eine detaillierte Projektphasenplanung in der abgefragten Detailtiefe liegt noch nicht vor. Im Rahmen der Gespräche mit Vattenfall werden aktuell die erforderlichen Planungsleistungen definiert und in der ersten Jahreshälfte 2019 ausgeschrieben.

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11196"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60883"
@@ -247,6 +248,6 @@ Wie viele dieser Ermittlungsverfahren haben mit Stand 15.1.18 zu einer Anklage g
 
 Wie viele Strafverfahren gegen Polizeibedienstete wegen Strafvorwürfen im Zusammenhang mit dem G20-Gipfel und den Gipfelprotesten wurden bis zum 15.1.18 mit welchen Verfahrensständen beziehungsweise -ausgängen geführt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antworten zu 1. a. und 1. b. und 3. a. bis 3. d.

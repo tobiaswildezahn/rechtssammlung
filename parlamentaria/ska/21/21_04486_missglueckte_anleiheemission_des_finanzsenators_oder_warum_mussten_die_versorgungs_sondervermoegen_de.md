@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4210"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52889"
@@ -47,7 +48,7 @@ Warum genau hat die Finanzbehörde im August 2015 entschieden, dass die Versorgu
 
 Auf wessen Vorschlag erfolgte der Erwerb dieser Landesschatzanweisung und wie sah im Einzelnen die in Drs. 21/4210 erwähnte Abstimmung mit der Bundesbank in diesem Zusammenhang aus?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Aufgrund des Anlagebedarfs der Sondervermögen und der Kenntnis über die bevorstehende Emission der Freien und Hansestadt Hamburg hat die Finanzbehörde im Rahmen des fortlaufenden Austausches zur Kapitalmarktlage mit der Deutschen Bundesbank eine anteilige Zeichnung der Emission erörtert, die von beiden Seiten als sinnvoll erachtet wurde. Die Deutsche Bundesbank hat im Anschluss an das ihr obliegenden Risikocontrolling und die Marktgerechtigkeitsprüfung den Zeichnungsauftrag bei der emissionsbegleitenden Geschäftsbank erteilt.
 
@@ -59,7 +60,7 @@ Welche weiteren einzelnen Anlageentscheidungen für die Versorgungsrücklage, de
 
 Welche Stellen innerhalb der Finanzbehörde sind jeweils innerhalb der Entscheidungsfindung beteiligt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Grundsätzlich werden alle wesentlichen Anlageentscheidungen zwischen der Abteilung Vermögensmanagement der Finanzbehörde und der Deutschen Bundesbank im Rahmen eines fortlaufenden fachlichen Austausches abgestimmt.
 

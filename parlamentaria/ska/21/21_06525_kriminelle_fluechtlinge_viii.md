@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["16/4616", "21/6213"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55045"
@@ -37,13 +38,13 @@ Vor diesem Hintergrund frage ich den Senat:
 
 Mit dem Begriff des Flüchtlings werden in der öffentlichen Diskussion häufig nur die Personengruppen assoziiert, die seit 2015 nach Deutschland beziehungsweise Hamburg migriert sind. Diese dynamische Größe kann in einer bundesweit einheitlich geführten Massenstatistik wie der Polizeilichen Kriminalstatistik (PKS) nicht abgebildet werden. Sie ergibt sich aus dem Ermittlungsvorgang selbst. In der PKS wird bei der Erfassung der Daten von Tatverdächtigen (TV) der Aufenthaltsstatus erhoben. Für die Erfassung des Aufenthaltsstatus/Grund des Aufenthalts wurden zum 1. Januar 2016 die Kategorien „International/national Schutzberechtigte“ und „Asylberechtigte“ neu eingeführt. TV mit Flüchtlingsstatus werden nach vier Unterkategorien wie folgt erfasst:
 
- Asylverfahren, unterteilt in
+– Asylverfahren, unterteilt in
 
 o Asylbewerber,
 
 o international/national Schutzberechtigte und Asylberechtigte sowie
 
- Duldung/Kontingentflüchtlinge, unterteilt in
+– Duldung/Kontingentflüchtlinge, unterteilt in
 
 o Duldung (Abschiebungshindernisse nach Abschluss des Asylverfahrens),
 

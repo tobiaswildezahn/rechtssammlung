@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7507", "21/6814", "21/5303", "21/5511", "21/3231", "21/6938", "21/7488"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56319"
@@ -102,7 +103,7 @@ Gibt es inzwischen konkrete Interessenten für die Anmietung oder den Kauf einge
 
 In Drs. 21/7507 heißt es, bisher hätten Vereine, Verbände, Bauunternehmen und eine Stadt angefragt. Haben auch der Stadt Hamburg zugehörige Institutionen angefragt? Wenn ja, welche? Kam es zu einer Anmietung oder einem Kauf? Wenn nein, was sprach sachlich dagegen und wie wird stattdessen der Bedarf gedeckt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Mietcontainer wurden von folgenden Behörden angefragt:
 

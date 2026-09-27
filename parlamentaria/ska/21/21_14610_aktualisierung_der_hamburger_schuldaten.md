@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 26
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3405", "18/3780", "20/11398", "21/10443", "21/14050", "21/10125", "21/14376"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64057"
@@ -211,7 +212,7 @@ Im Vergleich dazu: In wie vielen Fällen konnten drohende Wiederholungen durch d
 
 Welcher Gesamtbetrag wurde im relevanten Förderzeitraum, das heißt im Schuljahr 2017/2018, für die Fördermaßnahmen ausgegeben? Bitte aufgegliedert nach Gymnasien und Stadtteilschulen angeben.
 
-#### Antwort zu Fragen 22 bis 23
+#### Antwort zu Fragen 22 und 23
 
 Siehe Drs. 21/14376.
 

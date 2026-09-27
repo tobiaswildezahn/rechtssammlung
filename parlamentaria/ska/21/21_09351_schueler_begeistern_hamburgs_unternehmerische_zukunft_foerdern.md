@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 19
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58124"
@@ -47,7 +48,7 @@ Wurde der Orientierungsrahmen, den die Europäische Kommission gemeinsam mit der
 
 Ist die Schlüsselkompetenz „Unternehmertum“ in den Lehrpläner der Primar-, Sekundar-, Berufs-, Hochschul- und Erwachsenenbildung übernommen worden? Wenn ja, in jeweils welcher Form? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bereits in den in den Jahren 2009 (gymnasiale Oberstufe) beziehungsweise 2011 (Stadtteilschule, Jahrgangsstufen 5 bis 11, Gymnasium Sekundarstufe I) neu herausgegebenen Bildungsplänen für die Sekundarstufe der allgemeinbildenden Hamburger Schulen sind in vielfältiger Weise Kompetenzen und Inhalte zu Wirtschaft, wirtschaftli-
 
@@ -65,25 +66,25 @@ In den Curricula der Universität Hamburg ist das Thema „Unternehmertum“ in 
 
 Die Hochschule für Angewandte Wissenschaften Hamburg (HAW) stellt in Lehre und Forschung systematisch und in verschiedener Art und Weise Bezüge zur Praxis und zur Anwendung des erlernten Wissens her. Das Thema „Unternehmertum“ ist teilweise in Curricula verankert (insbesondere in den Studiengängen der Departments Wirtschaft, Ökotrophologie und Medientechnik). Außerdem besteht an der HAW für die Studierenden die Möglichkeit, unternehmerisches Wissen durch die Angebote des GründungsService zu erwerben:
 
- In 2015 wurden zu diesem Zweck zehn Workshops angeboten, in 2016 15 Work-
+– In 2015 wurden zu diesem Zweck zehn Workshops angeboten, in 2016 15 Work-
 
 shops. Dabei wurden Themen wie der Gründungsprozess, Businesspläne, Entwicklung der Geschäftsidee, Freiberuflichkeit, Kundenakquise, Finanzplanung, Finanzierungs- und Förderinstrumente, Post-Gründungsphase, Selbstständigkeit in der Kreativwirtschaft und die Unternehmerpersönlichkeit behandelt, aber auch die praktische Umsetzung erprobt.
 
- In beiden Jahren wurde jeweils ein Planspielwettbewerb (primeCup) durchgeführt.
+– In beiden Jahren wurde jeweils ein Planspielwettbewerb (primeCup) durchgeführt.
 
- In Kooperation mit Professoren/-innen und Unternehmern/-innen der Metropolregi-
+– In Kooperation mit Professoren/-innen und Unternehmern/-innen der Metropolregi-
 
 on Hamburg wurde in beiden Jahren zusätzlich eine achtteilige Ringvorlesung „Entrepreneurship“ durchgeführt.
 
- In 2016 wurde das erste Mal der „Tag der Gründung an der HAW Hamburg“
+– In 2016 wurde das erste Mal der „Tag der Gründung an der HAW Hamburg“
 
 durchgeführt.
 
- Über die Gruppenangebote hinaus besteht für Gründungsinteressierte die Mög-
+– Über die Gruppenangebote hinaus besteht für Gründungsinteressierte die Mög-
 
 lichkeit, eine Einzelberatung durch eine/n Mitarbeiter/in des GründungsService in Anspruch zu nehmen.
 
- Schließlich stehen für konkret werdende Gründungsideen in der Konzeptionsphase
+– Schließlich stehen für konkret werdende Gründungsideen in der Konzeptionsphase
 
 (bis zur Marktreife) sechs Räume für Teams aus Gründerinnen und Gründern und ein gemeinsam genutzter Konferenzraum zur Verfügung.
 
@@ -109,7 +110,7 @@ Wie viele Projekte zur Förderung des Unternehmergeistes (Planspiele, Gründerwe
 
 Welche Hamburger Schulen haben an Gründerwettbewerben oder vergleichbaren Wirtschaftsplanspielen in und außerhalb Hamburg teilgenommen? Welche Preise beziehungsweise Platzierungen wurden dabei erzielt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Folgende Schülerwettbewerbe werden regelmäßig durchgeführt und in der Hamburger Wettbewerbsbroschüre (siehe für das Jahr 2016 unter http://www.hamburg.de/ contentblob/3918764/8a5775261dc2db0c5a243086c779a935/data/wms-heft-dl.pdf) beworben:
 

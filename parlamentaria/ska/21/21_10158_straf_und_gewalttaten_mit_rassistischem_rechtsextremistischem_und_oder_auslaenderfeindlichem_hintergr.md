@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3165", "21/5257", "21/8633"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58990"
@@ -87,7 +88,7 @@ c) Welche davon fallen nach Einschätzung der Sicherheitsbehörden in den Bereic
 Zu welchen konkreten in Frage 5. abgefragten Taten konnten mutmaßliche Täter beziehungsweise Täterinnen ermittelt werden und welche Kenntnisse zum politischen Hintergrund dieser mutmaßlichen Täterinnen und Täter liegen dem Senat jeweils vor?
 a) In welchen Fällen kam es zur Eröffnung eines Strafverfahrens, gegebenenfalls mit welchem Ausgang?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Anlage 3. Die Polizei hat in allen Fällen Strafverfahren eingeleitet. Tatverdächtige konnten bisher nicht ermittelt werden.
 

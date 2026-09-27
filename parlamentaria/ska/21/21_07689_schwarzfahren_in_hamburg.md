@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 28
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5660", "21/7513"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56320"
@@ -348,7 +349,7 @@ Plant der Senat beziehungsweise die zuständige Behörde in der laufenden Wahlpe
 
 Plant der HVV in der laufenden Wahlperiode eine Anhebung des „erhöhten Beförderungsentgelts“? Wenn ja, um welchen Betrag und mit welcher Zielsetzung?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Nein. Die derzeitige Höhe des „erhöhten Beförderungsentgelts“ ergibt sich aus der entsprechenden Regelung in § 9 Absatz 2 der Verordnung über die Allgemeinen Beförderungsbedingungen für den Straßenbahn- und Obusverkehr sowie den Linienverkehr mit Kraftfahrzeugen (BefBedV) und § 12 Absatz 2 der Eisenbahn-Verkehrsordnung (EVO).
 

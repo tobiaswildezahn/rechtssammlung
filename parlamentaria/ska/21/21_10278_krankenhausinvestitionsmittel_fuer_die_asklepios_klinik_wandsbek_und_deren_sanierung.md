@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 20
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59136"
@@ -49,7 +50,7 @@ Wie weit ist der Baustand der ZSVA? Inwieweit wurden Bauvorleistungen getroffen?
 
 Wieso wurde die ZSVA nicht wie geplant gebaut? Weshalb erfolgte die Verlagerung an den Standort Barmbek?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die vorgesehene Verlagerung der Urologie der Asklepios Klinik St. Georg an den Standort der Asklepios Klinik Wandsbek hat zu einer Änderung der ursprünglichen Bauplanung geführt. Die optimale Anbindung der neuen Urologie an den OP erforderte die Verlagerung der Sterilgutaufbereitung an einen anderen Standort. Die Verlagerung an den Standort Barmbek wurde betriebsintern entschieden.
 
@@ -119,7 +120,7 @@ Wie sehen die Planungen bezüglich der Renovierung der Bereiche Verwaltung, Bere
 
 Wie sehen die weiteren Pläne bezüglich Bauvorhaben und Renovierung der Klinik aus?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Antwort zu 8. Weitere Planungen gibt es derzeit nicht.
 

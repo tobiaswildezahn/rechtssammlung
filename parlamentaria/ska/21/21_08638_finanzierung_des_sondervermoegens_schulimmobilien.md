@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7785", "21/6224", "21/6358"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57358"
@@ -45,7 +46,7 @@ Welche Änderungen hat es im Einzelnen in den Wirtschaftsplänen des Landesbetri
 
 Welche Änderungen haben sich in der geplanten Kreditaufnahme des Sondervermögens Schulimmobilien für die Jahre 2017 und 2018 ergeben?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Keine.
 
@@ -81,7 +82,7 @@ Wie sieht die Kapitalflussrechnung des Sondervermögens Schulimmobilien für das
 
 Wie sieht die Kapitalflussrechnung des SBH für das Jahr 2016 nach dem derzeitigen Stand im Einzelnen aus?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Prüfung der Kapitalflussrechnungen im Rahmen des Jahresabschlusses 2016 ist noch nicht abgeschlossen.
 

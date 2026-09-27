@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 20
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51494"
@@ -103,7 +104,7 @@ Auf welchen Erkenntnissen beruht die Behauptung der Staatsanwaltschaft nach Absc
 
 Was ist der zweifelsfrei ermittelte Sachstand bei Einstellung des Verfahrens?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Staatsanwaltschaft stellt im Ermittlungsverfahren keinen „zweifelsfrei ermittelten Sachstand“ fest, sondern prüft, ob die Ermittlungen Anlass zur Erhebung der öffentlichen Klage bieten. Dies ist vorliegend nicht der Fall, weil ein Tatverdächtiger nicht zu ermitteln war.
 

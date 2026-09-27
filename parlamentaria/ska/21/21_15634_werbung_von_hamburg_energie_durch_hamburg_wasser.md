@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 30
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65145"
@@ -119,7 +120,7 @@ In welchem Umfang wurde bislang wie viel Personal für diese Aktion in welchem U
 
 In welchem Umfang wird für diese Aktion in der Zukunft wie viel Personal in welchem Unternehmen und in welchen Abteilungen eingesetzt werden? Bitte Angabe in Plan-Personenstunden getrennt nach Unternehmen und Abteilungen.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Bei HE fielen im Bereich Marketing/Vertrieb entsprechend einer qualifizierten Schätzung circa 200 Arbeitsstunden an. Bei HW fielen entsprechend einer qualifizierten Schätzung circa 370 Arbeitsstunden in den Bereichen Kundenservice (200 Arbeitsstunden), digitales Informationsmanagement (110 Arbeitsstunden), Konzernkommunikation (35 Arbeitsstunden) und Justiziariat (25 Arbeitsstunden) an.
 
@@ -144,7 +145,7 @@ Wie hoch schätzt HAMBURG WASSER den Wert einer solchen Marketingaktion für ein
 a) der zu erwartenden Neuabschlüsse sowie
 b) des mittels der Aktion generierten Adressbestandes?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Die Jubiläumsaktion beinhaltete kein konkretes Vertragsangebot zu bestimmten Produkten. Auskünfte zu Vertragsabschlüssen in einem bestimmten Zeitraum betreffen den Bereich der geschützten Betriebs- und Geschäftsgeheimnisse. Eine Offenlegung der Daten wäre geeignet, die Wettbewerbsposition nachteilig zu beeinflussen, da Wettbewerber Rückschlüsse auf die Vertriebsstrategie und entsprechende Resultate ziehen könnten.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51422"
@@ -81,7 +82,7 @@ Wie sehen auf Grundlage der derzeit vorliegenden Beschlusslage der Fortgeschrieb
 
 Wie hoch lagen die jeweiligen Ist-Werte der Gesamtfinanzrechnung 2015 gemäß aktuellstem Sachstand? Von wann datiert dieser? Wie hoch lagen insbesondere a. die Einzahlungen, Auszahlungen und der daraus resultierende Saldo aus Verwaltungstätigkeit, b. der Saldo aus Investitionen und c. der Saldo aus gegebenen Darlehen im Jahr 2015?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Anlage 4.
 

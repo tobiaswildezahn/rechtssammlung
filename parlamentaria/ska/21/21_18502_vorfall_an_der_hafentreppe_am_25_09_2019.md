@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 20
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68164"
@@ -63,7 +64,7 @@ Aus welchen Gründen wurde die von der Durchsuchung betroffene Person von der Po
 
 Aus welchen Gründen wurde die betroffene Person durchsucht? Wie wurde die Durchsuchung durchgeführt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

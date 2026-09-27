@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 39
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11908", "21/4731"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64380"
@@ -84,65 +85,65 @@ d. Welche weiteren Angebote bestehen?
 
 Die Angebotsstruktur im Ankunftszentrum soll drei Zielbereiche abdecken:
 
- vorbereitende Maßnahmen für das Leben im Herkunfts- oder Überstellungsland,
+– vorbereitende Maßnahmen für das Leben im Herkunfts- oder Überstellungsland,
 
- Freizeitgestaltung und Beschäftigung und
+– Freizeitgestaltung und Beschäftigung und
 
- Sicherung des sozialen Friedens und Schutzkonzept.
+– Sicherung des sozialen Friedens und Schutzkonzept.
 
 Folgende Angebote sollen dazu im Einzelnen eingerichtet werden:
 
 Zu den vorbereitende Maßnahmen:
 
- Basissprachkurse Italienisch, Griechisch, Polnisch, Schwedisch mit dem Ziel,
+– Basissprachkurse Italienisch, Griechisch, Polnisch, Schwedisch mit dem Ziel,
 
 einen Grundwortschatz der jeweiligen Sprache zu verinnerlichen
 
- Alphabetisierung
+– Alphabetisierung
 
- Computer-Grundlagen
+– Computer-Grundlagen
 
- Länder-Informationsreihen (Dublin-Überstellungsländer) mit Schwerpunkten auf
+– Länder-Informationsreihen (Dublin-Überstellungsländer) mit Schwerpunkten auf
 
 Länderkunde, Arbeitsmarkt, Schul- und Bildungssystem, Gesundheit
 
 Zur Freizeitgestaltung und Beschäftigung:
 
- Laufgruppe
+– Laufgruppe
 
- Gymnastik für Frauen
+– Gymnastik für Frauen
 
- Schneidern und Handarbeiten
+– Schneidern und Handarbeiten
 
- Musikangebot (angeleitetes Musizieren mit Gesang und Instrumenten)
+– Musikangebot (angeleitetes Musizieren mit Gesang und Instrumenten)
 
- Kreativangebot (Malen, Zeichnen, Basteln et cetera)
+– Kreativangebot (Malen, Zeichnen, Basteln et cetera)
 
- Fußball
+– Fußball
 
- Einrichtung eines Sportraumes
+– Einrichtung eines Sportraumes
 
 Zur Unterstützung sozialen Verhaltens und zum Schutzkonzept:
 
- Atementspannung
+– Atementspannung
 
- Community Resilience Model (CRM, Entspannung in akuten Stresssituationen)
+– Community Resilience Model (CRM, Entspannung in akuten Stresssituationen)
 
- Elterngruppe
+– Elterngruppe
 
 Die Angebotsstruktur für Kleinkinder umfasst:
 
- Offene Kinderbetreuung
+– Offene Kinderbetreuung
 
- Kreativangebot (Malen, Basteln, Gestalten)
+– Kreativangebot (Malen, Basteln, Gestalten)
 
- Musikangebot (gemeinsames Singen, Musizieren)
+– Musikangebot (gemeinsames Singen, Musizieren)
 
- Spielmobil
+– Spielmobil
 
- Spiel und Bewegung im Freien
+– Spiel und Bewegung im Freien
 
- Fußball
+– Fußball
 
 Das Sozialmanagement von f & w wurde um vier Vollzeitäquivalente aufgestockt, um eine Beratung der Personen sicherzustellen. Der Umfang entspricht den Aufgaben in den dezentralen Einrichtungen.
 

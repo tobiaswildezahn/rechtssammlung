@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7483", "21/7421", "21/5126"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56473"
@@ -89,6 +90,6 @@ Welche Auswirkungen hat dies auf die Arbeitslosenquote?
 
 Wie viele Personen sind zum Stichtag 31.01.2017 in Hamburg als arbeitssuchend registriert? (Bitte aufschlüsseln, welche statistischen Merkmale im Hinblick auf Qualifikation, Staatsangehörigkeit, Dauer des Status „arbeitssuchende“ bekannt sind.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antworten zu 1. bis 4.

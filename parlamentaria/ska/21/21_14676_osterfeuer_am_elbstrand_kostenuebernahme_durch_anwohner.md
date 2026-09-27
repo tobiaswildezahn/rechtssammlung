@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64116"
@@ -47,7 +48,7 @@ Wurden Anwohner rund um die Veranstaltungsorte an den Kosten der Nachlöscharbei
 
 Wie hat sich der Sachverhalt in diesem Jahr dargestellt? Gab es erneut Nachlöscharbeiten der Feuerwehr, deren Einsatzkosten auf die Anwohnerschaft umgelegt wurden? Falls ja: Wie viele Personen waren davon betroffen? Um welche Summe handelte es sich?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es wurden keine Gebühren- und/oder Kostenerstattungsbescheide für Nachlöscharbeiten im Zusammenhang mit Osterfeuern an Anwohner ausgestellt. Im Übrigen: entfällt.
 

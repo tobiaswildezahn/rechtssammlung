@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15432"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65173"
@@ -57,7 +58,7 @@ Welche schulischen Gremien sind zu welchem Zeitpunkt in die Planungen einbezogen
 
 Zu welchem Zeitpunkt werden in Zukunft diese Gremien einbezogen? (Bitte konkret im chronologischen planerischen Verlauf je Schule darlegen.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In Bezug auf die Planung einer weiterführenden Schule in Neugraben steht die für Bildung zuständige Behörde mit den Schulleitungen des Gymnasiums Süderelbe, der Stadtteilschule Süderelbe, der Stadtteilschule Fischbek-Falkenberg und der Grundschule Neugraben seit 2017 in einem ständigem Austausch, zuletzt hat die für Bildung zuständige Behörde am 1. November 2018 über die Überlegungen informiert.
 

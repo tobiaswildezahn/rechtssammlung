@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67245"
@@ -47,7 +48,7 @@ Seit wann gibt es die Nebenstellen der ÖRA?
 
 Wie erfahren die Ratsuchenden von diesen neuen Nebenstellen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Öffentliche Rechtsauskunft- und Vergleichsstelle (ÖRA) leistet unter ihrem heutigen Namen seit 1946 als Teil der für Soziales zuständigen Behörde Rechtsberatung für einkommensschwache Hamburgerinnen und Hamburger und außergerichtliche Streitbeilegung in Form der Durchführung von Güteverfahren nach der Zivilprozessordnung, als strafrechtliche Sühnestelle und seit jüngerer Zeit auch als außergerichtliche Mediationsstelle. Organisatorisch verfügt die ÖRA bereits seit 1946 über eine Hauptstelle sowie bezirkliche Nebenstellen.
 

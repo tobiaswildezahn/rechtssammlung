@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 21
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6824", "21/1006", "21/10692", "21/10062", "21/10102"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63566"
@@ -43,11 +44,11 @@ An welchen Standorten sind derzeit wie viele Kameras der Polizei Hamburg mit wel
 
 Die Polizei setzt eigene Kameras im Sinne der Fragestellung zu folgenden Zwecken ein:
 
- Verkehrsmanagement,
+– Verkehrsmanagement,
 
- Überwachung gefährlicher Orte und von Kriminalitätsbrennpunkten sowie
+– Überwachung gefährlicher Orte und von Kriminalitätsbrennpunkten sowie
 
- anlassbezogen bei Veranstaltungen und Ansammlungen.
+– anlassbezogen bei Veranstaltungen und Ansammlungen.
 
 Bei den von der Polizei Hamburg im öffentlichen Raum betriebenen Kameras handelt es sich überwiegend um Verkehrskameras. Im Übrigen siehe auch Drs. 21/10692 und 21/10062. Verkehrsbeobachtungskameras der Polizei sind dauerhaft in Betrieb.
 
@@ -174,21 +175,21 @@ Der Polizei werden (Live-)Kamerabilder im Sinne der Fragestellung dauerhaft von 
 
 Die Kamerastandorte der HHA sind:
 
- Gänsemarkt/Dammtorstraße
+– Gänsemarkt/Dammtorstraße
 
- U-Bahnhof Hagenbeck/Koppelstraße
+– U-Bahnhof Hagenbeck/Koppelstraße
 
- U-Bahnhof Schlump/Schäferkampsallee
+– U-Bahnhof Schlump/Schäferkampsallee
 
- Winterhuder Marktplatz
+– Winterhuder Marktplatz
 
- U-Bahn Dehnhaide
+– U-Bahn Dehnhaide
 
- Steinstraße/Altmannbrücke
+– Steinstraße/Altmannbrücke
 
- Winsener Straße
+– Winsener Straße
 
- U-Bahn Horner Rennbahn
+– U-Bahn Horner Rennbahn
 
 Der LSBG übermittelt der Polizei aus dem Bereich des Elbtunnels zur Verkehrsbeobachtung ein Videobild aus dem Videomanagementsystem der Tunnelbetriebszentrale. Darüber hinaus wurde kein dauerhafter Zugang zu Videobildern anderer Stellen beantragt. Statistische Erhebungen zu anlassbezogenen Anfragen im Einzelfall werden von der Polizei nicht erhoben. Für die Beantwortung der Fragestellung wäre eine Durchsicht sämtlicher infrage kommender Vorgänge des erfragten Zeitraums bei der Polizei erforderlich. Die Auswertung mehrerer Zehntausend Vorgänge ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

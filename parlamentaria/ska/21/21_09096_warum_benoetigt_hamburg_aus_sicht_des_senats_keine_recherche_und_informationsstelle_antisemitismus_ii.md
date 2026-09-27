@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 18
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8611", "21/7105", "21/5315", "21/8708", "21/7939"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57855"
@@ -60,21 +61,21 @@ Erkenntnisse aus der Präventionsarbeit bringt die Polizei in die jeweiligen Ber
 
 Zu den genannten einzelfallbezogenen Maßnahmen gehören unter anderem:
 
- Beratung beziehungsweise Betreuung von Angehörigen durch eine der Beratungs-
+– Beratung beziehungsweise Betreuung von Angehörigen durch eine der Beratungs-
 
 stellen oder das LKA 702,
 
- Ausstiegs- beziehungsweise Distanzierungsangebote durch die Beratungsstellen,
+– Ausstiegs- beziehungsweise Distanzierungsangebote durch die Beratungsstellen,
 
- Einbindung muslimischer Imame beziehungsweise Seelsorger,
+– Einbindung muslimischer Imame beziehungsweise Seelsorger,
 
- Einsetzen von Familienbetreuern, Amtsvormündern,
+– Einsetzen von Familienbetreuern, Amtsvormündern,
 
- psychologische Beratungsangebote,
+– psychologische Beratungsangebote,
 
- Einbindung von Sozialarbeitern, Schulbetreuern, Sportvereinen,
+– Einbindung von Sozialarbeitern, Schulbetreuern, Sportvereinen,
 
- Anbindung des Probanden in Projekte (zum Beispiel Praktikum, Anti-Aggressions-
+– Anbindung des Probanden in Projekte (zum Beispiel Praktikum, Anti-Aggressions-
 
 Training).
 
@@ -211,19 +212,19 @@ b) Welche Maßnahmen sind damit verbunden?
 
 Die Projektstruktur gliedert sich in vier Säulen, die die inhaltliche Arbeit bestimmen und in denen Maßnahmen stattfinden:
 
- Das Projekt setzt in Form von Workshops interreligiöse Begegnungen mit Jugend-
+– Das Projekt setzt in Form von Workshops interreligiöse Begegnungen mit Jugend-
 
 lichen um, in denen sich diese mit unterschiedlichen Erscheinungsformen des Antisemitismus in Geschichte und Gegenwart auseinandersetzen.
 
- Mit dem methodischen Ansatz der Biografiearbeit werden Peer Guides aktiv,
+– Mit dem methodischen Ansatz der Biografiearbeit werden Peer Guides aktiv,
 
 indem diese jüdische Biografien recherchieren, die Berührungspunkte in Hamburg und der Türkei aufweisen.
 
- Ein Fachkräfte-Arbeitskreis, der aus Sozialwissenschaftlerinnen und Sozialwissen-
+– Ein Fachkräfte-Arbeitskreis, der aus Sozialwissenschaftlerinnen und Sozialwissen-
 
 schaftlern, Lehrerinnen und Lehrern sowie Sozialarbeiterinnen und Sozialarbeitern besteht, begleitet kritisch und beratend die Jugendarbeit und die Projektaktivitäten.
 
- Es finden regelmäßig Veranstaltungen rund um das Thema Antisemitismus statt,
+– Es finden regelmäßig Veranstaltungen rund um das Thema Antisemitismus statt,
 
 um auch weitere Zielgruppen aus der muslimisch-migrantischen Gesellschaft zu erreichen und eine Debatte anzustoßen.
 

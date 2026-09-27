@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54707"
@@ -59,7 +60,7 @@ Mit welchen Kosten rechnet der Senat für das Winternotprogramm 2016/2017? In we
 
 Mit welchen Kosten rechnet der Senat für die Umsetzung des Winternotprogramms 2017/2018? In welcher Produktgruppe des Haushaltsplan- Entwurfes 2017/2018 schlagen sie sich jeweils nieder?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/5000. Die Kosten für das Winternotprogramm sind im Aufgabenbereich 253 Soziales in der Produktgruppe 253.03 Wohnungslosenhilfe und öffentliche Unterbringung bei den Kosten des Produkts Besondere Hilfe zum Wohnen und zur Unterbringung enthalten und werden im Abschnitt „Wesentliche Gesetzliche Leistung“ gesondert ausgewiesen.
 

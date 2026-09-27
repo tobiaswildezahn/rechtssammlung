@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4142", "21/10200"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59640"
@@ -73,7 +74,7 @@ Gibt es Zahlen beziehungsweise Schätzungen, wie viele Mitarbeiter mit einem Suc
 
 Wie viele Krankschreibungen beziehungsweise Freistellungen gab es aufgrund von Suchtproblematiken 2014, 2015, 2016 und bislang 2017? Bitte nach Behörden aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 

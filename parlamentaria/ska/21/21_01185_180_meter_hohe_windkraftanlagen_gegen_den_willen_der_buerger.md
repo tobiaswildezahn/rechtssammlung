@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/27", "20/32"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49373"
@@ -64,7 +65,7 @@ Ist es zutreffend, dass das Genehmigungsverfahren, entgegen der in der Ausschuss
 
 Wird der Senat beziehungsweise die zuständige Behörde sich dafür einsetzen, dass die zugesagte öffentliche Beteiligung im Rahmen des Genehmigungsverfahrens ermöglicht wird? Wenn ja, wie? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Antragstellerin hat bei der zuständigen Behörde ein vereinfachtes Genehmigungsverfahren (ohne Öffentlichkeitsbeteiligung) beantragt. Ein förmliches Verfahren (mit Öffentlichkeitsbeteiligung) hält die Antragstellerin nicht für notwendig, da die Öffentlichkeit im Rahmen der Bauleitplanung bereits beteiligt wurde und auf dem Internetauftritt des Competence Center Erneuerbare Energien und Energieeffizienz (CC4E) der HAW Hamburg proaktiv über Projekte des Energie-Campus und des geplanten Windparks Curslack berichtet wird.
 

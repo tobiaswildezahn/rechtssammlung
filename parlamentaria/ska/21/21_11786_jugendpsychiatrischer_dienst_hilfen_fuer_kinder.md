@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 24
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61030"
@@ -43,15 +44,15 @@ Bei Problemen des Zusammenlebens mit Kindern und Jugendlichen, insbesondere bei 
 
 Zu den Aufgaben gehören:
 
-• Multiprofessionelle Diagnostik und Beratung bezüglich geeigneter Maßnahmen bei verhaltensauffälligen, psychisch kranken, entwicklungsverzögerten, geistig- und mehrfach behinderten Kindern und Jugendlichen
+– Multiprofessionelle Diagnostik und Beratung bezüglich geeigneter Maßnahmen bei verhaltensauffälligen, psychisch kranken, entwicklungsverzögerten, geistig- und mehrfach behinderten Kindern und Jugendlichen
 
-• Gutachterliche Stellungnahmen im Hinblick auf Eingliederungshilfemaßnahmen nach § 53 SGB XII und § 35a SGB VIII der Jugendämter, der Grundsicherungsämter und der Behörde für Schule und Berufsbildung
+– Gutachterliche Stellungnahmen im Hinblick auf Eingliederungshilfemaßnahmen nach § 53 SGB XII und § 35a SGB VIII der Jugendämter, der Grundsicherungsämter und der Behörde für Schule und Berufsbildung
 
-• Beteiligung an der Aufstellung des Hilfeplans nach § 36 SGB VIII
+– Beteiligung an der Aufstellung des Hilfeplans nach § 36 SGB VIII
 
-• Krisenintervention bei psychisch kranken Kindern und Jugendlichen
+– Krisenintervention bei psychisch kranken Kindern und Jugendlichen
 
-• Landesarztfunktion für geistig und mehrfach behinderte Kinder und Jugendliche
+– Landesarztfunktion für geistig und mehrfach behinderte Kinder und Jugendliche
 
 Die Ärztinnen und Ärzte der JpD in Hamburg haben keine kurativen Aufgaben, das heißt, sie dürfen nicht behandeln. Zudem muss darauf hingewiesen werden, dass die Freie und Hansestadt Hamburg keinen Jugendpsychiatrischen Notdienst unterhält. Vielmehr stehen die JpD der bezirklichen Fachämter Gesundheit in der Woche tagsüber von 8 Uhr bis 16 Uhr unter anderem für die Krisenintervention in psychiatrischen Notfällen zur Verfügung. Sie nehmen während der Dienstzeit auch die Aufgaben nach dem Hamburgischen Gesetz über Hilfen und Schutzmaßnahmen bei psychischen Krankheiten (HmbPsychKG) wahr. Dazu gehört unter anderem, dass im Zusammenhang mit der Frage einer Unterbringung nach § 12 HmbPsychKG die Betroffenen von einem „in der Psychiatrie erfahrenen Arzt der zuständigen Behörde“ untersucht werden. Außerhalb der regulären Dienstzeiten des JpD (nachts, an Feiertagen und am Wochenende) ist dafür der Psychiatrische Notdienst (PND) zuständig.
 
@@ -160,11 +161,11 @@ Harburg
 
 Darüber hinaus verfügen
 
- die JpD über Dipl. Psychologinnen/Psychologen in einem Beschäftigungsumfang
+– die JpD über Dipl. Psychologinnen/Psychologen in einem Beschäftigungsumfang
 
 von 7,26 Vollzeitäquivalente (Stichtag 31.07.2017);
 
- der JPPD über Dipl. Psychologinnen/Psychologen in einem Beschäftigungsumfang
+– der JPPD über Dipl. Psychologinnen/Psychologen in einem Beschäftigungsumfang
 
 von 5,43 Vollzeitäquivalenten inklusive Leitung.
 
@@ -295,7 +296,7 @@ Seit wann besteht die Partnerschaft mit dem Kinderkrankenhaus Wilhelmstift?
 
 Hat es in der Vergangenheit noch andere Kooperationspartner gegeben? Falls ja, welche und warum hat die Zusammenarbeit mit diesen geendet?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Es gibt keine formalisierte Partnerschaft der JpD mit dem Katholischen Kinderkrankenhaus Wilhelmstift. § 5 HmbPsychKG bestimmt, dass die für die Gewährung der Hilfen zuständige Behörde mit den in Betracht kommenden Organisationen, den Einrichtungen der freien Wohlfahrtspflege, den psychiatrischen Krankenhausabteilungen und sonstigen psychiatrischen Einrichtungen einschließlich den dort tätigen Sozialdiensten sowie den niedergelassenen Ärztinnen und Ärzten zur Unterstützung und Ergänzung der eigenen Maßnahmen zusammenarbeitet. Entsprechend kooperieren die JpD einzelfallbezogen mit allen Diensten, Trägern, Einrichtungen und Personen, die zur Erfüllung des individuellen Hilfebedarfs der betroffenen Person erforderlich sind.
 

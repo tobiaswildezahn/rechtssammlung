@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56723"
@@ -51,7 +52,7 @@ Gibt es Kontakte, Gespräche oder andere Aktivitäten von Asklepios in Bezug auf
 
 Gibt es einen Aufnahmeantrag der Asklepios-Kliniken Hamburg für die AVH? Falls ja, wann wurde er eingereicht und wie wurde er entschieden beziehungsweise wann wird darüber entschieden werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bei den erfragten Daten handelt es sich nach Angaben der Asklepios Kliniken Hamburg GmbH um Betriebs- und Geschäftsgeheimnisse, die im Rahmen der Beantwortung von Parlamentarischen Anfragen nicht veröffentlicht werden können.
 

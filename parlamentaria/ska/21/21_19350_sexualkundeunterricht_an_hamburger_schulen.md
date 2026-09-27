@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 27
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13694", "21/13405", "21/11788", "21/3611", "20/14189", "20/9401", "20/1909"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69063"
@@ -209,11 +210,11 @@ Auf ihrer Internetseite schreibt die Antidiskriminierungsstelle des Bundes (ADS)
 
 Im Bildungs- und Erziehungsauftrag der Schule (§ 2 HmbSG) ist Folgendes festgehalten: „Es ist Aufgabe der Schule, die Schülerinnen und Schüler zu befähigen und ihre Bereitschaft zu stärken,
 
- ihre Beziehungen zu anderen Menschen nach den Grundsätzen der Achtung und
+– ihre Beziehungen zu anderen Menschen nach den Grundsätzen der Achtung und
 
 Toleranz, der Gerechtigkeit und Solidarität sowie der Gleichberechtigung der Geschlechter zu gestalten und Verantwortung für sich und andere zu übernehmen,
 
- an der Gestaltung einer der Humanität verpflichteten demokratischen Gesellschaft
+– an der Gestaltung einer der Humanität verpflichteten demokratischen Gesellschaft
 
 mitzuwirken und für ein friedliches Zusammenleben der Kulturen sowie für die Gleichheit und das Lebensrecht aller Menschen einzutreten (…).“
 

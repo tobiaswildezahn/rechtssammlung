@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53652"
@@ -95,7 +96,7 @@ Welche Gründe liegen für die Verwendung von Kunstharz bei der Befestigung vor?
 
 Warum wurde für die Befestigung kein Asphalt, Beton oder ähnliches Material genutzt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung.
 
@@ -115,7 +116,7 @@ Welche Erfahrungen liegen für die Haltbarkeit der Übergänge zwischen der best
 
 Wäre die Gebrauchsfähigkeit durch eine Randstreifenbefestigung mit Beton, Asphalt oder ähnlichen Materialien ähnlich, besser oder schlechter als bei der Befestigung mit Kunstharz? a. Wenn es Unterschiede in der Gebrauchsfähigkeit gibt, bitte ausführen.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Vorbemerkung.
 

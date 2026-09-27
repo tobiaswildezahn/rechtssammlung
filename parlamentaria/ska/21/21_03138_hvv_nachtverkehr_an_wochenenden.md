@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51468"
@@ -75,7 +76,7 @@ Wird die Frequentierung der einzelnen Linien regelmäßig erhoben? Wenn ja: Wie 
 
 Wie hat sich die Auslastung in den Jahren seit Einführung des Nachtverkehrs entwickelt? Bitte in Zahlen tabellarisch in monatlicher Unterteilung darstellen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Angebotsrelevante Nachfrageänderungen werden durch die Auswertung der Nachfragedaten ausgewählter Einzelfahrten und durch die Erkenntnisse aus betrieblichen Beobachtungen ermittelt. Das Fahrgastaufkommen in den Wochenendnächten wird von vielfältigen Veranstaltungen beeinflusst, sodass es zu Schwankungen in der Nachfrage kommt. Aus diesem Grunde gibt es keine statistisch verwertbaren Daten zur Nachfrage. Bei den Schnellbahnen werden Nachfragedaten aus den automatischen Fahrgastzählsystemen ermittelt, die aus oben genannten Gründen nicht im gleichen Maße angewendet werden können, wie die Daten aus den Zählungen im Tagesbetrieb. Aus diesen Daten und aus dem Betrieb der Buslinien im durchgehenden Nachtverkehr liegen keine Hinweise auf unzureichende Platzangebote vor, sodass das Fahrplanangebot ausreichend dimensioniert ist. Vor diesem Hintergrund ist eine regelmäßige Erfassung der Nachfrage im Busbetrieb zur Dimensionierung des Angebotes nicht erforderlich. Auch ist zu berücksichtigen, dass die Fahrgasterhebungen und -befragungen in den Wochenendnächten mit einem erheblichen finanziellen Aufwand verbunden sind.
 

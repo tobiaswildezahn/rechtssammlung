@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 23
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6200", "20/5422", "20/9125", "20/12882", "21/1599"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56417"
@@ -111,7 +112,7 @@ An welchen Schulen ist es in den vergangenen 24 Monaten zum Handel beziehungswei
 
 Wie viele Drogendelikte kommen in Hamburg auf je 1.000 Schüler und wie sehen die Zahlen im Vergleich zu anderen Bundesländern aus?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Vorbemerkung und Antwort zu 1.
 

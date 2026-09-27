@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59782"
@@ -67,31 +68,31 @@ Die Beratung von Versicherten ist eine Serviceaufgabe der Krankenkassen vor Ort.
 
 Der GKV Spitzenverband bietet auf seiner Homepage Informationen an unter anderem zu
 
- Beratungsmöglichkeiten: Telefonnummern, Internetangebote wie zum Beispiel
+– Beratungsmöglichkeiten: Telefonnummern, Internetangebote wie zum Beispiel
 
 o das Bürgertelefon des Bundesministeriums für Gesundheit oder
 
 o die Unabhängige Patientenberatung (UPD).
 
- Informationen zu Zuzahlungen, Befreiungsmöglichkeiten und Eigenbeteiligungen in
+– Informationen zu Zuzahlungen, Befreiungsmöglichkeiten und Eigenbeteiligungen in
 
 den Leistungsbereichen,
 
- Überblick über die Zusatzbeitragssätze der Krankenkassen als Krankenkassenlis-
+– Überblick über die Zusatzbeitragssätze der Krankenkassen als Krankenkassenlis-
 
 te,
 
- Präventionskurse,
+– Präventionskurse,
 
- IGeL-Leistungen – privat bezahlte Angebote in der Arztpraxis,
+– IGeL-Leistungen – privat bezahlte Angebote in der Arztpraxis,
 
- Beitragsschulden-Erlass, -Ermäßigung,
+– Beitragsschulden-Erlass, -Ermäßigung,
 
- Informationen zur Elektronischen Gesundheitskarte (eGK),
+– Informationen zur Elektronischen Gesundheitskarte (eGK),
 
- Transparenz über Leistungen und Kosten: Patientenquittung nach § 305 SGB V,
+– Transparenz über Leistungen und Kosten: Patientenquittung nach § 305 SGB V,
 
- Hinweise auf Suchmaschinen: um Ärzte, Kliniken und Pflegeheim zu finden.
+– Hinweise auf Suchmaschinen: um Ärzte, Kliniken und Pflegeheim zu finden.
 
 Die Beauftragte der Bundesregierung für die Belange der Patientinnen und Patienten hat die Aufgabe darauf hinzuwirken, dass die Belange der Versicherten „besonders hinsichtlich ihrer Rechte auf umfassende Beratung und objektive Information durch Leistungserbringer, Kostenträger und Behörden im Gesundheitswesen“ berücksichtigt werden (§ 140 h Absatz 2 S 1).
 

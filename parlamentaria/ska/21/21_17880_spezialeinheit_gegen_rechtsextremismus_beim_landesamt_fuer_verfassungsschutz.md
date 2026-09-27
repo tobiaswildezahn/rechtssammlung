@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 21
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17783", "21/15498", "21/5039", "21/3031"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67486"
@@ -97,7 +98,7 @@ Welche spezifischen Erkenntnisse erhofft sich das LfV von der Spezialeinheit und
 
 Was passiert mit der Spezialeinheit und den Mitarbeitern, wenn sie zu der Erkenntnis gelangen sollten, dass es keine rechtsextremistischen Strukturen, Vernetzungen und Aktivitäten Hamburger Akteure im Internet gibt, die eine Beteiligung oder Ausführung an Gewalthandlungen gegenüber Vertretern des Staates belegen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Unter anderem soll eine verbesserte Einblickstiefe in rechtsextremistische Strukturen mit lokalen Bezügen im Internet erzielt werden, um Senat, andere Stellen und Öffentlichkeit im Sinne von § 4 Absatz 1 HmbVerfSchG über rechtsextremistische Bestrebungen und ihre Verbindungen zu informieren. Damit wird ein wichtiger Beitrag für die Sicherheit der Menschen in Hamburg erzielt. Das LfV Hamburg arbeitet nach den Kriterien des HmbVerSchG. Im Übrigen siehe Antwort zu 3. bis 8. Eine Beschränkung auf eine Gewaltorientierung ist damit nicht verbunden.
 
@@ -133,7 +134,7 @@ Welche Kenntnisse hat das LfV über linksextremistische Strukturen, Vernetzungen
 
 Gibt es bereits eine Spezialeinheit, die sich mit linksextremistischen Strukturen, Vernetzungen und Aktivitäten Hamburger Akteure im Internet befasst? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Durch personelle Rekrutierungen – zum Teil mit wissenschaftlicher Ausbildung – wurde die Analysekompetenz des LfV Hamburg gestärkt. Für die Arbeit des LfV Hamburg ist das Thema „Linksextremismus“, inklusive der Information über Entwicklung, Strukturen und die verschiedenen Gruppierungen, eine wichtige Aufgabe. Die Öffentlichkeit sowie Behörden, Institutionen und Einrichtungen wurden durch Internetbeiträge, Interviews, Medienstatements und Vorträge informiert. Auch im aktuellen Verfassungsschutzbericht und auf der Pressekonferenz im Juli 2019 anlässlich seiner Vorstellung bildete das Arbeitsfeld „Linksextremismus“ einen Schwerpunkt. Im Übrigen siehe Antwort zu 3. bis 8., den Verfassungsschutzbericht 2018 und der vergangenen Jahre (https://www.hamburg.de/innenbehoerde/publikationen-verfassungsschutz/231572/
 
@@ -159,6 +160,6 @@ Wie hat sich das Personal des Fachreferats „Sicherheitsgefährdende und extrem
 
 Gibt es eine Spezialeinheit in diesem Fachreferat, welche die Strukturen, Netzwerke und Aktivitäten von Islamisten überwacht? Wenn ja, wie viele Stellen und mit welchen Gehalts- beziehungsweise Besoldungsgruppen sind diese besetzt? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Angaben im Sinne der Fragestellungen könnten Rückschlüsse auf die Arbeitsweise und Einblickstiefe des Verfassungsschutzes zulassen und eine künftige Beobachtung würde dadurch unverhältnismäßig erschwert werden. Detaillierte Angaben können daher aus Gründen des Staatswohls nur gegenüber dem nach § 24 HmbVerfSchG für die parlamentarische Kontrolle des Senats auf dem Gebiet des Verfassungsschutzes zuständigen Kontrollausschusses gemacht werden. Im Übrigen siehe Drs. 21/5039 sowie Drs. 21/3031.

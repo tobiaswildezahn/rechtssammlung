@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 27
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838", "21/8462", "21/3652", "21/8132", "21/8250", "21/4991", "21/6110"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57306"
@@ -76,7 +77,7 @@ umgangen?
 Wenn ja, wie?  
 Wenn nein, wieso nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/1838, Drs. 21/3652, Drs. 21/8132 und Drs. 21/8250.
 

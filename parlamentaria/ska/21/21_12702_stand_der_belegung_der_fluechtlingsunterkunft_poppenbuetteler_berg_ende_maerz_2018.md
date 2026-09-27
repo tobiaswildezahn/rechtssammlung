@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 31
 antwortbloecke: 21
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9744", "21/11504", "21/2108", "21/10137", "21/11184", "21/11632", "21/12039", "21/12357"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62007"
@@ -43,7 +44,7 @@ Wie viele Personen waren in der örU Poppenbütteler Berg Ende März 2018 unterg
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Geschlecht  
 Kinder & Jugendliche  

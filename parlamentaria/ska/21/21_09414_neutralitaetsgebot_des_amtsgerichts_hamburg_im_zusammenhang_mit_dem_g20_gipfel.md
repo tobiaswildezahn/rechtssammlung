@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58176"
@@ -49,7 +50,7 @@ Sieht der Senat durch diesen Vorgang das richterliche und beamtenrechtliche Neut
 
 Sieht der Senat für Richter/-innen, die im Zuge von Sonder- und/oder Eildiensten in dem im zeitlichen Umfeld des „G20-Gipfels“ tätigen „AG Neuland“ mit Verfahren befasst sind, die sich aus dem Geschehen rund um den G20-Gipfel ergeben können, die erforderliche Neutralität und Unbefangenheit noch gewahrt, wenn deren unmittelbarer und für ihre Beurteilungen zuständige Dienstvorgesetzte in der geschilderten Form dieses politische Ereignis über eine avisierte Danksagung an die beteiligten Mitarbeiter/-innen bereits im Vorwege begrüßt und nachträglich zu feiern beabsichtigt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Damit hat sich der Senat nicht befasst. Die zuständige Behörde weist darauf hin, dass es sich bei dem Motto der Veranstaltung offenkundig lediglich um einen Dank für geleistete Arbeit handelt, es liegt kein politisches Statement vor. Mangels Vorliegens eines politischen Statements durch Dienstvorgesetzte ist die richterliche Neutralität
 

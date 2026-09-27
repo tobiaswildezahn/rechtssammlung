@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 26
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10649", "21/2905", "20/4588", "21/1838", "17/496"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52097"
@@ -53,7 +54,7 @@ Die städtische Gesellschaft SAGA GWG wird dieses Jahr 2.000 Sozialwohnungen her
 
 Wie viele Wohnungen im 1. Förderweg wurde von privaten Investoren zwischen 2011 bis 2015 jeweils erstellt? Welchen Anteil hatten hieran Wohnungsbaugenossenschaften?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 2011  
 2012  
@@ -90,7 +91,7 @@ Laut Drs. 20/4588 aus dem Jahr 2012 fallen im Jahr 2016 5.805 Wohnungen aus der 
 
 2015 sollen es 8.019 gewesen sein. Wie sahen die Ist-Zahlen im vergangenen Jahr aus?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 2016 werden Sozialbindungen für 5.393 Wohnungen planmäßig enden. Im Jahr 2015 endeten Sozialbindungen für 7.715 Wohnungen. Bei den in Drs. 20/4588 aufgeführten Wohnungen handelt es sich auch um Bestände, bei denen die Darlehen teilweise prolongiert werden konnten und damit die Bindung weiter besteht.
 

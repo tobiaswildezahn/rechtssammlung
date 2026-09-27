@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10194", "21/9822", "21/9906", "21/10415"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60690"
@@ -55,7 +56,7 @@ Welche Überlegungen beziehungsweise Maßnahmen sind seit der letzten Anfrage an
 
 In welchem Gremium werden die Beratungen zum weiteren Vorgehen im Bereich des Linksextremismus durchgeführt und wer gehört diesem Gremium an?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

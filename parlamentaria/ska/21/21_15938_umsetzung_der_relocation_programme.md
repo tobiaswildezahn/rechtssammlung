@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65431"
@@ -52,7 +53,7 @@ b. 31.12.2018?
 
 Wie viele Geflüchtete hat Hamburg im Rahmen dieser Relocation- Programme aus Italien, wie viele aus Griechenland aufgenommen? (Stand 31.12.2018.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Rahmen der Relocation-Programme erfolgten die ersten Aufnahmen im November 2016. Die Angaben zur Anzahl der jährlich aufgenommenen Personen ist der nachfolgenden Übersicht zu entnehmen:
 

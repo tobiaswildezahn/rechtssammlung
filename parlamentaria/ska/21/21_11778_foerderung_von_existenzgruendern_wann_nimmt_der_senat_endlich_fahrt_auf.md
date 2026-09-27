@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9015", "21/8310", "21/9360"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61016"
@@ -81,7 +82,7 @@ Was plant der Senat beziehungsweise die zuständige Wissenschaftsbehörde, konkr
 
 Aus welchen Etats und in welcher Höhe werden von heute bis 2020 zusätzliche Mittel durch den Senat, beziehungsweise die zuständige Wissenschaftsbehörde zur Verfügung gestellt, um die Anzahl sowie die Qualität von Ausgründungen aus Forschungseinrichtungen, Universitäten und Hochschulen zu steigern?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe hierzu Drs. 21/9360.
 

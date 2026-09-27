@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16492", "21/7476"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69893"
@@ -56,7 +57,7 @@ Welche konkreten OZG-Leistungen sind dem Themenfeld Unternehmensführung und -en
 
 Bei welchen der unter 1. genannten Leistungen ist die digitale Verfügbarkeit bereits gegeben? Bei welchen ist die digitale Verfügbarkeit noch in Planung und bis wann sollen diese Dienste online erstmals verfügbar sein?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Derzeit wird für die OZG-Leistungen in Hamburger Umsetzungsverantwortung, für die noch keine digitalisierte Leistung verfügbar ist, die Umsetzung geplant. Die entsprechenden Planungen sind noch nicht abgeschlossen.
 
@@ -70,19 +71,19 @@ Wie hoch schätzt der Senat die Kosten für die digitale Verfügbarkeit der einz
 
 Eine vollständige Schätzung der Kosten aller Einzelmaßnahmen ist vorab nicht möglich. Immer wenn ein neues Arbeitspaket begonnen wird, wird analysiert,
 
- ob es schon Onlinedienste gibt, die genutzt, gegebenenfalls erweitert oder geän-
+– ob es schon Onlinedienste gibt, die genutzt, gegebenenfalls erweitert oder geän-
 
 dert werden können,
 
- ob mehrere Aufgaben zusammengefasst werden können, um so einen größeren
+– ob mehrere Aufgaben zusammengefasst werden können, um so einen größeren
 
 Reformeffekt zu erreichen,
 
- ob der Geschäftsprozess sehr einfach und eine umfassende Geschäftsprozess-
+– ob der Geschäftsprozess sehr einfach und eine umfassende Geschäftsprozess-
 
 analyse daher entbehrlich ist und
 
- auf welchem technischen Weg der Dienst bereitgestellt wird (Generierung mit
+– auf welchem technischen Weg der Dienst bereitgestellt wird (Generierung mit
 
 einem Formular oder einer Programmierung).
 

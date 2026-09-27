@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 6
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3707"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53727"
@@ -45,6 +46,6 @@ b) in die Ausländerbehörde gewechselt? Wurden durch die Personalwechsel Stelle
 
 Wie viele der durch Wechsel des Stelleninhabers in andere Behörden frei gewordenen Stellen in den Kundenzentren sind bis zum 30. Juni 2016 wieder besetzt worden? Wie viele Vakanzen gibt es derzeit noch und warum?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Durch einen Wechsel von Beschäftigten in die Ausländerbehörde sind in den Kundenzentren (KuZ) Hamburg-Mitte 0,5, Hamburg-Nord 1,0, Barmbek-Uhlenhorst 1,0, Fuhlsbüttel 1,0 und Süderelbe 1,0 Stellen sowie durch einen Wechsel in andere Behörden aus dem KuZ Altona 1,0, Hamburg-Nord 2,0 und Barmbek-Uhlenhorst 1,0 Stellen frei geworden. Alle Stellen wurden bis zum 30. Juni 2016 wieder besetzt. Darüber hinaus sind derzeit noch 17,42 Stellen unbesetzt.

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 20
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16062"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65904"
@@ -62,7 +63,7 @@ Wann wurde das Projekt „§ 2b Umsatzsteuergesetz“ durch wen für welchen Zei
 
 Was sind die genauen Ziele des Projektes?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -101,7 +102,7 @@ Inwiefern strebt der Senat die Erarbeitung einheitlicher Verfahren und Vorgaben 
 
 In welcher Form sind die einzelnen Fachbehörden an dem Projekt und der Erarbeitung einheitlicher Verfahren und Vorgaben beteiligt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Erarbeitung einheitlicher Verfahren und Vorgaben zur Umsetzung § 2b UStG für die FHH als umsatzsteuerrechtliche Unternehmerin (Kernverwaltung einschließlich Landesbetrieben und Sondervermögen) auf Grundlage der dezentralen Sachverhaltserhebung ist Aufgabe des Projekts. Die juristischen Personen des öffentlichen Rechts außerhalb der FHH im obigen Sinne müssen als eigenständige Unternehmer ihrer Umsatzsteuerpflicht und damit auch der Vorbereitung auf die Anwendung der Neuregelung selbstständig nachkommen. Im Übrigen siehe Vorbemerkung.
 

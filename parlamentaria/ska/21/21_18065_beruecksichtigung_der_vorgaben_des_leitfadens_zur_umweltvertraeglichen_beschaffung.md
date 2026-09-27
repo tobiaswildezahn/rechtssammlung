@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 22
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14669"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67681"
@@ -75,13 +76,13 @@ Wurde die vollständige oder teilweise Neuanschaffung der Leuchten im Vorfeld de
 
 #### Antwort zu Frage 3
 
- der Energiekosteneinsparungen,
+– der Energiekosteneinsparungen,
 
- der CO-Bilanz und
+– der CO-Bilanz und
 
- der Anschaffungskosten sowie
+– der Anschaffungskosten sowie
 
- der laufenden Kosten bezüglich des Wartungsaufwands
+– der laufenden Kosten bezüglich des Wartungsaufwands
 
 und mit welchen Ergebnissen jeweils im Einzelnen pro Ausschreibung der Lose 1 bis 8? Bitte sowohl für den zweijährigen Ausschreibungszeitraum, wie auch für den vierjährigen Zeitraum (der Verlängerungsoption), aufführen.
 
@@ -118,21 +119,21 @@ Entfällt.
 
 i. Wie beurteilt der Senat die Vergabe der Lose unter den Gesichtspunkten des Leitfadens:
 
-  
+–  
 „Auftraggeber haben im Rahmen der Beschaffung dafür  
 Sorge zu tragen, dass (...) negative Umweltauswirkungen  
 vermieden werden (...).“
 
- Bei der Ermittlung des wirtschaftlichsten Angebotes sollen auch Kriterien des Umweltschutzes und der Energieeffizienz berücksichtigt werden.
+– Bei der Ermittlung des wirtschaftlichsten Angebotes sollen auch Kriterien des Umweltschutzes und der Energieeffizienz berücksichtigt werden.
 
-  
+–  
 Umweltfreundliche Beschaffung leistet einen Beitrag zur  
 Reduzierung des klimaschädlichen Treibhausgases CO2.  
 (Seite 17 in der Fassung von 2016.)
 
- Umweltfreundliche Beschaffung berücksichtigt die Lebenszykluskosten eines Produktes (...). (Seite 17 in der Fassung von 2016.)
+– Umweltfreundliche Beschaffung berücksichtigt die Lebenszykluskosten eines Produktes (...). (Seite 17 in der Fassung von 2016.)
 
- Große Potenziale bei der umweltfreundlichen Beschaffung hinsichtlich des Energieverbrauchs und der Steigerung von Energieeffizienz liegen bei Produkten mit hohem Energiebedarf, wie (...) Innen- und Außenbeleuchtung (...). (Seite 17 in der Fassung von 2016.)
+– Große Potenziale bei der umweltfreundlichen Beschaffung hinsichtlich des Energieverbrauchs und der Steigerung von Energieeffizienz liegen bei Produkten mit hohem Energiebedarf, wie (...) Innen- und Außenbeleuchtung (...). (Seite 17 in der Fassung von 2016.)
 
 ii. War der Behörde zum Zeitpunkt der Ausschreibung bereits die Neufassung des Leitfadens für 2019 bekannt?
 
@@ -166,17 +167,17 @@ Hat es eine im Leitfaden beschriebene (Seite 24) „Interessenskonferenz“ gege
 
 Ja; eine Interessentenkonferenz hat am 12. September 2018 stattgefunden. Das Protokoll der Interessentenkonferenz wurde den Vergabeunterlagen beigefügt und zusammen mit den Ausschreibungsunterlagen am 24. Oktober 2018 bei folgenden Veröffentlichungsorganen bekanntgemacht:
 
- Submissions-Anzeiger
+– Submissions-Anzeiger
 
- Subreport Verlag Schawe GmbH
+– Subreport Verlag Schawe GmbH
 
- Amtlicher Anzeiger
+– Amtlicher Anzeiger
 
- B_I Ausschreibungsdienste
+– B_I Ausschreibungsdienste
 
- www.bieterportal.hamburg.de
+– www.bieterportal.hamburg.de
 
- www.ted.europa.eu
+– www.ted.europa.eu
 
 Die Ausschreibungsunterlagen stehen im Transparenzportal zur Verfügung.
 

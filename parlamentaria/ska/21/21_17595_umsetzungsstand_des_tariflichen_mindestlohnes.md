@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 20
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10914", "21/13031", "21/12916", "21/14592", "21/12930", "21/14647", "21/1601"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67182"
@@ -67,7 +68,7 @@ Wie viele Menschen in den Unternehmen, an denen die Freie und Hansestadt mittelb
 
 Wie vielen Vollzeitäquivalenten entsprechen die Personenzahlen der Frage 3. jeweils?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage.
 
@@ -79,7 +80,7 @@ Wie viele Menschen Unternehmen und Einrichtungen, die von der Freien und Hansest
 
 Wie vielen Vollzeitäquivalenten entsprechen die Personenzahlen der Frage 5. jeweils?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/12930 und 21/14647.
 
@@ -91,7 +92,7 @@ Nach welchen Tarifverträgen (TV-L, TVöD, Branchen- oder Haustarife) ist die Be
 
 Zu welchem Zeitpunkt können die Entgelttarifverträge gemäß Frage 7. gekündigt werden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/12930 und 21/14647 sowie Anlage. Im Übrigen: entfällt.
 
@@ -112,7 +113,7 @@ Wie viele Mitarbeiter/-innen haben die Auftragnehmer/-innen nach Frage
 
 Plant der Senat, einen vergabespezifischen Mindestlohn von 12 Euro einzuführen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Drs. 21/12930.
 
@@ -134,7 +135,7 @@ Wie viele Beschäftigte haben von dem bis 1.1.2017 geltenden Landesmindestlohn b
 
 Wie wird die Einhaltung der Bestimmungen des Landesvergabegesetzes, unter anderem die Tariftreue, gewährleistet beziehungsweise kontrolliert?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Drs. 21/12930.
 
@@ -146,7 +147,7 @@ Wie viele konkrete Anhaltspunkte und Hinweise auf Verstöße gegen das Landesver
 
 Wie viele Kontrollen auf Einhaltung des Gesetzes wurden bisher nach Auftragsverteilung durchgeführt? Wie viele davon erfolgten anlassbezogen, also nach Eingang von Hinweisen?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Im Baubereich wurden in den Jahren 2018 und 2019 von der Soko-Bau bisher 215 Kontrollen durchgeführt. Keine dieser Kontrollen war durch den vorherigen Eingang von Hinweisen veranlasst. In 63 Fällen ergaben sich bei der Kontrolle Anhaltspunkte für Verstöße gegen die auf dem Hamburgischen Vergabegesetz beruhenden vertraglichen Verpflichtungen.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5832"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55069"
@@ -81,6 +82,6 @@ Wie viele durch das Projekt W.I.R vermittelte Flüchtlinge befinden sich im Mome
 
 Wie viele durch das Projekt W.I.R vermittelte Flüchtlinge befinden sich im Moment bei unterschiedlichen Arbeitgebern in der sogenannten sozialversicherungspflichtigen Beschäftigung mit begleitender Qualifizierung, bei welcher dem Arbeitgeber ein Teil des Lohnes in Form eines Zuschusses gewährt wird?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Der Statistik-Service der Bundesagentur für Arbeit erfasst keine Daten im Sinne der Fragestellung. Eine händische Auswertung aller oben genannten 5.670 Personen bezogen auf die Fragestellung ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.

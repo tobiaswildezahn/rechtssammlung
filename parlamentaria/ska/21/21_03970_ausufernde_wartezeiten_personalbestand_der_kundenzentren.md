@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3725", "21/3824", "21/330"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52355"
@@ -70,7 +71,7 @@ Wie bewertet der Senat die Arbeitsbedingungen für die Mitarbeiter in den Kunden
 
 Ist nach Kenntnis des Senats seitens der Bezirksämter kurz-, mittel- oder langfristig vorgesehen, mehr Mitarbeiter in den Kundenzentren einzusetzen? Wenn ja, wann und in welchem Umfang?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Aufgrund der in Drs. 21/3725 und 21/3824 dargestellten Personalsituation beurteilt die zuständige Behörde die Arbeitsbedingungen in den Kundenzentren derzeit als angespannt. Im Übrigen: siehe Drs. 21/3725 und 21/3824. Darüber hinaus sind die Überlegungen und Planungen noch nicht abgeschlossen.
 

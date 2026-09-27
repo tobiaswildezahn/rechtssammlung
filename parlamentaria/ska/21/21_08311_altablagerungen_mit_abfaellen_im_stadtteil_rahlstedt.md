@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/569"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57009"
@@ -69,13 +70,13 @@ Wurden bei dieser Altlast bereits die Gefährdungspotenziale für die Wirkungspf
 
 Untersuchungen wurden für den Pfad „Boden – Oberflächengewässer“ durchgeführt.
 
- Wenn ja, wann, und zu welchem Ergebnis ist die Überprüfung
+– Wenn ja, wann, und zu welchem Ergebnis ist die Überprüfung
 
 gekommen?
 
 Untersuchungen des Oberflächengewässers (Wasser und Sediment) zwischen 1992 und 1996, nach Beendigung der Ablagerungen, lassen keine Auffälligkeiten erkennen.
 
- Wenn nein, warum nicht, und inwieweit ist dies noch beabsichtigt?
+– Wenn nein, warum nicht, und inwieweit ist dies noch beabsichtigt?
 
 Die Fläche ist mit Ausnahme von zwei belüfteten Unterständen unbebaut und durchgängig bewachsen. Sie wird als Weide genutzt. Bei der gegenwärtigen Nutzung sind Untersuchungen hinsichtlich der Wirkungspfade Boden – Mensch, Boden – Nutzpflanze und Boden – Deponiegas nicht erforderlich. Das Gaspotenzial der Altablagerung wird aufgrund der Zusammensetzung der Ablagerung als gering eingeschätzt.
 
@@ -107,13 +108,13 @@ In der Zeit zwischen 1976 und 1988 durfte die Fläche mit den in der Antwort zu 
 
 Untersuchungen wurden für den Pfad „Boden – Oberflächengewässer“ durchgeführt.
 
- Wenn ja, wann, und zu welchem Ergebnis ist die Überprüfung
+– Wenn ja, wann, und zu welchem Ergebnis ist die Überprüfung
 
 gekommen?
 
 Untersuchungen des Oberflächengewässers (Wasser und Sediment) zwischen 1992 und 1996, nach Beendigung der Ablagerungen, lassen keine Auffälligkeiten erkennen.
 
- Wenn nein, warum nicht, und inwieweit ist dies noch beabsichtigt?
+– Wenn nein, warum nicht, und inwieweit ist dies noch beabsichtigt?
 
 Die Fläche ist unbebaut und durchgängig bewachsen und liegt brach. Bei der gegenwärtigen Nutzung sind Untersuchungen hinsichtlich der Wirkungspfade Boden – Mensch, Boden – Nutzpflanze und Boden – Deponiegas nicht erforderlich. Das Gaspotenzial der Altablagerung wird trotz des Verdachtes auf die Beimengung hausmüllähnlicher Bestandteile als gering eingeschätzt.
 

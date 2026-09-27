@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7105", "21/1986", "20/9849", "21/7939"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57332"
@@ -52,11 +53,11 @@ Darüber hinaus bietet das Aufgabengebiet Sozial- und Rechtserziehung auf der Gr
 
 Präventive Aufgaben erfüllt darüber hinaus der Träger Arbeit und Leben Hamburg als eine gemeinnützige Bildungseinrichtung mit seinen beiden Beratungsstellen im Themenfeld rechter, rassistischer und antisemitischer Gewalt in Hamburg:
 
- empower – Beratung für Betroffene rechter, rassistischer und antisemitischer
+– empower – Beratung für Betroffene rechter, rassistischer und antisemitischer
 
 Gewalt und
 
- Mobiles Beratungsteam gegen Rechtextremismus (MBT Hamburg) – Beratung,
+– Mobiles Beratungsteam gegen Rechtextremismus (MBT Hamburg) – Beratung,
 
 Bildung, Berichterstattung gegen Ideologien der Ungleichwertigkeit.
 
@@ -135,13 +136,13 @@ Recherche- und Informations-(Bildungs-)Arbeit gehört zu den konzeptionellen Bes
 
 Die Arbeitsfelder der beiden Beratungsstellen umfassen jeweils drei Säulen:
 
- Beratungsarbeit zu den jeweiligen Zielgruppen in den Themenschwerpunkten,
+– Beratungsarbeit zu den jeweiligen Zielgruppen in den Themenschwerpunkten,
 
- Recherche- und Monitoringarbeit zur rechten, rassistischen und antisemitischen
+– Recherche- und Monitoringarbeit zur rechten, rassistischen und antisemitischen
 
 Gewalt und Aktivitäten in Hamburg,
 
- Bildungsarbeit zu rechten Ideologieelementen, Rassismus und Antisemitismus.
+– Bildungsarbeit zu rechten Ideologieelementen, Rassismus und Antisemitismus.
 
 Hierzu führen die Projekte verschiedene Veranstaltungen zum Themenfeld Antisemitismus durch und haben zum Beispiel auch den Bildungsbaustein „Was tun gegen Antisemitismus?! – Anregungen zu einer Pädagogik gegen Judenfeindschaft im 21. Jahrhundert“ herausgegeben (siehe: https://hamburg.arbeitundleben.de/img/daten/ D291676298.pdf).
 

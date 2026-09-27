@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51799"
@@ -93,7 +94,7 @@ Was planen die Stadt beziehungsweise der Bezirk mit dem/den Grundstück/en?
 
 Inwieweit ist der Bezirk bisher in die Planung involviert?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Das Grundstück eignet sich für eine Wohnbebauung und soll als sogenannte Potenzialfläche gekauft werden. Das Bezirksamt Altona hat den Grundstückserwerb befürwortet. Eine Flüchtlingsunterbringung ist auf dem Grundstück derzeit nicht vorgesehen.
 

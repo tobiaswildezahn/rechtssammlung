@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55511"
@@ -79,7 +80,7 @@ Auf welche Weise bekämpft oder verhindert die Hamburger Polizei derartige Delik
 
 Inwieweit haben derartige Delikte eine geringe Priorität bei der Arbeit der Hamburger Polizei und was folgt daraus für die oftmals hilflosen Betroffenen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Polizei richtet ihre Maßnahmen stets lageangepasst aus.
 

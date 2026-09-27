@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 27
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4592", "21/4356"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53008"
@@ -122,7 +123,7 @@ Waren die mutmaßlichen Täter der Polizei bereits bekannt? Falls ja, mit welche
 
 Welche Erkenntnisse liegen den zuständigen Behörden über die Opfer vor? Welche Verletzungen haben sie jeweils erlitten? Bitte Alter und Nationalität angeben.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Nach derzeitigem Ermittlungsstand der Polizei ist es im vorliegenden Sachverhalt zu wechselseitig begangenen Straftaten von allen Beteiligten gekommen, sodass alle Opfer auch gleichzeitig Beschuldigte sind. Sieben der Beschuldigten sind bereits aufgrund der Begehung von Eigentums- und Gewaltdelikten, Straßenverkehrsdelikten, Bedrohungen und Sachbeschädigungen polizeilich in Erscheinung getreten; im Übrigen siehe Anlage.
 

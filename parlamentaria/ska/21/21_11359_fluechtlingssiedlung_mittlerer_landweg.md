@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 21
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838", "19/3572", "21/3827", "21/3318", "21/5393"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60388"
@@ -51,7 +52,7 @@ Welche Baukosten sind insgesamt entstanden? Bitte aufteilen nach den Kostengrupp
 
 Welche Kosten/Quadratmeter Wohnfläche ergeben sich bei dem Vorhaben? Bitte ebenfalls für die einzelnen Kostengruppen angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Flüchtlingsunterkunft mit Perspektive Wohnen Mittlerer Landweg wurde durch einen privaten Bauherrn errichtet. Dem Senat sind die Baukosten daher nicht bekannt.
 
@@ -158,7 +159,7 @@ Soll nach Rechtskraft des Bebauungsplanes sofort die Belegung frei werdender Woh
 
 Welche Vereinbarungen bestehen in dieser Hinsicht mit dem Investor der Flüchtlingssiedlung?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Die Planungen sowie die Gespräche mit dem Investor sind hierzu noch nicht abgeschlossen.
 

@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2859"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51298"
@@ -45,7 +46,7 @@ Lediglich eines der sieben in der Schriftlichen Kleinen Anfrage Drs. 21/2859 mit
 
 Im Einzelnen:
 
- Person 1 (in beiden Fällen keine Haftbefehle zur Strafvollstreckung, sondern Haft-
+– Person 1 (in beiden Fällen keine Haftbefehle zur Strafvollstreckung, sondern Haft-
 
 befehl wegen Ausbleibens in der Hauptverhandlung und Untersuchungshaftbefehl wegen Fluchtgefahr)
 
@@ -59,17 +60,17 @@ In diesem Verfahren erging ein Untersuchungs-Haftbefehl gemäß § 112 StPO wege
 
 „rechter“ Kriminalität ersichtlich. Das Opfer der Tat war – ebenso wie der Beschuldigte – ein obdachloser Deutscher.
 
- Person 2
+– Person 2
 
 Nach Verurteilung wegen Diebstahls in zwei Fällen zu einer Geldstrafe von 90 Tagessätzen erging Haftbefehl zur Vollstreckung einer Ersatzfreiheitsstrafe von 47 Tagen. Es ist kein Bezug der Tat zu „rechter“ Kriminalität ersichtlich. Bei der Tat handelte es sich um Ladendiebstahl von Bekleidung. Anlass für die Einstufung „PMK rechts“ war ein Ermittlungsverfahren wegen Verwendens von Kennzeichen verfassungswidriger Organisationen und Beleidigung aus Baden-Württemberg.
 
- Person 3
+– Person 3
 
 Nach Verurteilung wegen vorsätzlicher Körperverletzung zu einer Geldstrafe von 30 Tagessätzen erging Haftbefehl zur Vollstreckung einer Ersatzfreiheitsstrafe von 30 Tagen. Es ist kein Bezug der Tat zu „rechter“ Kriminalität ersichtlich. Es handelte sich um eine Beziehungstat zum Nachteil des (deutschen) Lebensgefährten des Beschuldigten. Anlass für die Einstufung „PMK rechts“ war ein Verfahren wegen gefährlicher Körperverletzung, in dem er letztlich zu einer Geldstrafe von 150 Tagessätzen verurteilt wurde. Geschädigter war eine Person mit türkischem Namen. Die Tat wurde bei der StA in der Amtsanwaltschaft bearbeitet, also nicht als politisch motiviert eingestuft.
 
 Der Beschuldigte wurde letztes Jahr festgenommen und hat die Strafe inzwischen verbüßt.
 
- Person 4
+– Person 4
 
 Verfahren 1
 
@@ -81,13 +82,13 @@ Nach Verurteilung wegen Leistungserschleichung in vier Fällen zu einer Geldstra
 
 Anlass für die Einstufung PMK „rechts“ war ein Verfahren wegen Verwendens von Kennzeichen verfassungswidriger Organisationen, das bei der Staatsanwaltschaft aufgrund der Löschungs- und Vernichtungsfristen (Tatzeit 2006) nicht mehr vorliegt.
 
- Person 5
+– Person 5
 
 Nach Verurteilung wegen Leistungserschleichung in zwei Fällen zu einer Geldstrafe von 60 Tagessätzen erging Haftbefehl zur Vollstreckung einer Ersatzfreiheitsstrafe von 25 Tagen. Es ist kein Bezug der Tat zu „rechter“ Kriminalität ersichtlich.
 
 Anlass für die Einstufung „PMK“ rechts war ein Verfahren wegen Beleidigung, bei dem der Beschuldigten den Geschädigten im Rahmen eines Streites wegen einer Ruhestörung mit den Worten „Sieg Heil im Deutschen Land, du Scheißkanacke“ beschimpft hat.
 
- Person 6 (war in der Drs. 21/2859 noch nicht benannt)
+– Person 6 (war in der Drs. 21/2859 noch nicht benannt)
 
 Die Person war in Hamburg zuletzt in einer Obdachlosenunterkunft aufhältig, später in Leipzig, wo sie später amtlich abgemeldet wurde.
 
@@ -104,7 +105,7 @@ Nach Strafbefehl über 75 Tagessätze wegen Beförderungserschleichung in drei F
 
 Anlass für die Einstufung „PMK rechts“ war ein Ermittlungsverfahren wegen fremdenfeindliche Beleidigung aus Berlin.
 
- Person 7 (war in der Drs. 21/2859 noch nicht benannt)
+– Person 7 (war in der Drs. 21/2859 noch nicht benannt)
 
 Nach Verurteilung wegen Körperverletzung zu einer Geldstrafe von 50 Tagessätzen wegen einer Kopfnuss gegen einen Mitgefangenen in der JVA nach Beleidigung erging Haftbefehl zur Vollstreckung einer Ersatzfreiheitsstrafe. Es ist kein Bezug der Tat zu rechter Kriminalität ersichtlich.
 

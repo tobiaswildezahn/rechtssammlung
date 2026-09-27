@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5368", "21/7890", "21/12087"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63091"
@@ -95,7 +96,7 @@ Wie viele Anwärterinnen und Anwärter haben im Jahr 2017 sowie im ersten Halbja
 
 Wie viele Anwärterinnen und Anwärter haben im Jahr 2017 sowie im ersten Halbjahr 2018 die Laufbahnprüfung nicht beim ersten Mal bestanden? Wie viele Anwärterinnen und Anwärter haben jeweils in den Jahren 2017 und im ersten Halbjahr 2018 auch die Wiederholungsprüfung nicht bestanden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Wie viele Anwärterinnen und Anwärter die Zwischenprüfung, Laufbahnprüfung oder Wiederholungsprüfung 2017 und im ersten Halbjahr 2018 nicht bestanden haben, ist nachfolgender Tabelle zu entnehmen:
 

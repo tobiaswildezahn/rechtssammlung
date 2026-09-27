@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7047"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50531"
@@ -100,7 +101,7 @@ Wann sollen diese Projekte jeweils begonnen und abgeschlossen werden?
 
 Betreffend welche dieser Projekte gibt es bereits dem Grunde und der Höhe nach feste Finanzierungszusagen des Bundes? Bitte jeweils die Höhe der Gesamtkosten und der fest zugesagten Bundeszusage angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Antwort zu 1.
 

@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 24
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4981", "21/1315"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54100"
@@ -87,21 +88,21 @@ In welche Krankenhäuser wurden die Verletzten verbracht und in welcher Form erf
 
 Folgende Krankenhäuser haben mitgeteilt, dass sie in der Vergangenheit bereits Patientinnen und Patienten mit einer Kohlenmonoxid-Vergiftung versorgt haben:
 
-  
+–  
 Asklepios Klinik Altona  
-  
+–  
 Asklepios Klinik Barmbek  
-  
+–  
 Asklepios Klinik Harburg  
-  
+–  
 Asklepios Klinik Wandsbek  
-  
+–  
 Asklepios Klinik Nord  
-  
+–  
 Asklepios Klinik St. Georg  
-  
+–  
 BG Klinikum Hamburg  
-  
+–  
 Universitätsklinikum Hamburg-Eppendorf
 
 Über Therapien haben die Krankenhäuser keine Angaben gemacht.
@@ -166,29 +167,29 @@ Welche Indikationen können neben CO-Vergiftungen in Druckkammern behandelt werd
 
 Genannt werden von den Zentren zum Beispiel in Hamburg:
 
- Morbus Ahlbäck
+– Morbus Ahlbäck
 
- Chronische Wunden, Problemwunden bei Diabetes mellitus und arterieller Ver-
+– Chronische Wunden, Problemwunden bei Diabetes mellitus und arterieller Ver-
 
 schlusskrankheit
 
- Hörsturz mit und ohne Tinnitus
+– Hörsturz mit und ohne Tinnitus
 
- Schalltrauma – Knallschaden
+– Schalltrauma – Knallschaden
 
- Migräne
+– Migräne
 
- Bestrahlungs-Spätfolgen
+– Bestrahlungs-Spätfolgen
 
- Aseptische Knochennekrosen,
+– Aseptische Knochennekrosen,
 
- Chronische Borreliose/Lyme-Arthritis
+– Chronische Borreliose/Lyme-Arthritis
 
- Harnblasen- und Enddarmschäden nach Bestrahlung (Strahlenzystitis und Strah-
+– Harnblasen- und Enddarmschäden nach Bestrahlung (Strahlenzystitis und Strah-
 
 lenproktitis)
 
- Interstitielle Zystitis
+– Interstitielle Zystitis
 
 Nach eigener Darstellung litten bisher 90 Prozent der Patientinnen/Patienten an Innenohrstörungen.
 

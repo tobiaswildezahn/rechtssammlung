@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1330", "21/1532", "21/915", "20/12430", "21/1395"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49984"
@@ -51,27 +52,27 @@ Welche hamburgweiten beziehungsweise bezirklichen Angebote beziehungsweise Kurse
 
 Die zuständigen Fachbehörden BSB und BASFI fördern folgende Sprachförderangebote, die sich an Flüchtlinge richten:
 
- Projekt „Deutschkurse für Flüchtlinge“, BASFI, (vergleiche http://www.fz-hh.de/de/
+– Projekt „Deutschkurse für Flüchtlinge“, BASFI, (vergleiche http://www.fz-hh.de/de/
 
 projekte/deutschkurse.php)
 
- Chancen am FLUCHTort/Teilprojekt PerLe, ESF-Projekt, verikom – Verbund für
+– Chancen am FLUCHTort/Teilprojekt PerLe, ESF-Projekt, verikom – Verbund für
 
 interkulturelle Kommunikation und Bildung e.V. (vergleiche http://www.verikom.de/ projekte/perle-perspektiven-fur-ein-leben-in-hamburg/)
 
- Speziell für Flüchtlinge bietet die VHS seit Herbst 2014 Kurse zur Erstorientierung
+– Speziell für Flüchtlinge bietet die VHS seit Herbst 2014 Kurse zur Erstorientierung
 
 und Sprache (EOF) an. Ein EOF-Kurs dauert jeweils acht Wochen und umfasst insgesamt 100 Unterrichtseinheiten.
 
- Offenes Kursangebot „Deutsch als Fremdsprache“ Hamburger Volkshochschule –
+– Offenes Kursangebot „Deutsch als Fremdsprache“ Hamburger Volkshochschule –
 
 VHS (vergleiche http://www.vhs-hamburg.de/kurse/kurse/deutsch-145)
 
- Projekt „Dialog in Deutsch“, Bücherhallen Medienprojekte gGmbH, (vergleiche
+– Projekt „Dialog in Deutsch“, Bücherhallen Medienprojekte gGmbH, (vergleiche
 
 https://www.buecherhallen.de/ehrenamt-dialog-in-deutsch)
 
- Darüber hinaus führt die VHS im Auftrag der für Bildung zuständigen Behörde der-
+– Darüber hinaus führt die VHS im Auftrag der für Bildung zuständigen Behörde der-
 
 zeit an 45 Hamburger Grundschulen Sprachkurse „Deutsch für Mütter“. Das Angebot richtet sich an die Mütter der jeweiligen Schule und steht allen betroffenen Müttern mit Migrationshintergrund unabhängig vom Aufenthaltsstatus offen. Eine Erfassung des Aufenthaltsstatus erfolgt nicht und gemäß Rückmeldung der Kursleitenden sind bisher keine Flüchtlinge in diesen Kursen vertreten. Daher werden bei den Folgefragen keine Angaben zu diesem Angebot gemacht. Es ist beabsichtigt, an weiteren Schulen mit hohem Anteil an Flüchtlingskindern zusätzliche Sprachkurse für Mütter einzurichten. An diesen Schulen werden dann voraussichtlich auch Mütter mit Flüchtlingshintergrund erreicht.
 
@@ -337,7 +338,7 @@ Schätzt der Senat die bisherigen seitens der Freien und Hansestadt Hamburg durc
 
 Ist die Freie und Hansestadt Hamburg derzeit in der Lage, ohne ehrenamtliche oder andere Sprachangebote eine ausreichende Sprachförderung für die Flüchtlinge zu gewährleisten? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die stark ansteigende Zahl von Asylsuchenden in Hamburg führt analog zu einem stark ansteigenden Bedarf an Sprachförderangeboten. Die Angebotsplanung berücksichtigt diese Entwicklung, indem die Landesmittel für Sprachförderung aufgestockt werden, siehe Drs.21/1395.
 

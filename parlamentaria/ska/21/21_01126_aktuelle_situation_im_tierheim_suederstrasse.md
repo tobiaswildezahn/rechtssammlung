@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7369"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49307"
@@ -45,7 +46,7 @@ Wie viele und was für Tiere beherbergt das Tierheim Süderstraße derzeit? Bitt
 
 Wie viele und was für Tiere beherbergte das Tierheim Süderstraße in den Jahren 2013 und 2014? Bitte jahresweise sowie nach einzelnen Tierarten aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Aufgrund des mit dem Tierheim in der Süderstraße „Hamburger Tierschutzverein von 1864 e.V.“ (HTV) geschlossenen Vertrages liegen Daten lediglich zu den im Auftrag der Stadt untergebrachten Tieren vor, für die im Übrigen eine quartalsweise Abrechnung erfolgt.
 
@@ -150,6 +151,6 @@ Wie ist der Stand der angedachten Flächenerweiterung des Tierheims (siehe Drs. 
 
 Welche Gespräche wurden seit dem 2. April 2013 zur Erweiterung des Tierheims geführt und wann und in wieweit hat die zuständige Fachbehörde das Tierheim dabei unterstützt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Vertrag über die Erweiterung des Erbbaurechts wurde am 10. Februar 2014 beurkundet.

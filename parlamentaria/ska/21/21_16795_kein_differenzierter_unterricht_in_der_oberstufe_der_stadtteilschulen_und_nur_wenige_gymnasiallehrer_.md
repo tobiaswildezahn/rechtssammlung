@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16541", "21/8003"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66341"
@@ -82,7 +83,7 @@ Wenn nein, warum nicht?
 
 Wie bewertet der Senat die großen Unterschiede der Schulen bezüglich ihrer unterschiedlichen Quoten von Lehrkräften mit dem Lehramt Gymnasium?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der konkrete Bedarf an Lehrkräften mit dem Lehramt Gymnasium ist von Stadtteilschule zu Stadtteilschule unterschiedlich.
 
@@ -114,7 +115,7 @@ Offensichtlich bieten entgegen des Hamburgischen Schulgesetzes und der öffentli
 
 Sofern unter Antwort auf Frage 6. genannte Schulen mit anderen Schulen bezüglich der weiteren Beschulung hin zur allgemeinen Hochschulreife kooperieren: Welche Schulen kooperieren miteinander? Bitte in einer eigenen Excel-Tabelle aufzeigen. Welche Schulen bieten keine Kooperation an?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Anlage. Im Übrigen siehe Vorbemerkung.
 

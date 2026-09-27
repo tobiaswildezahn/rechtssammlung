@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 22
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5000", "21/4560", "21/5154", "21/3883"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54277"
@@ -47,7 +48,7 @@ Welche Mengen an Schlick in Kubikmetern sind in 2016 bisher auf Grundlage der Ve
 
 Welche Mengen an Schlick in Kubikmetern sind in 2016 bisher in die Elbe vor Neßsand verbracht worden? Bitte monatlich differenziert angeben. Welche Kosten sind dabei entstanden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die HPA hat bisher alle ihr im Jahr 2016 zur Verfügung stehenden räumlichen Verbringoptionen nach Plan ausgenutzt. Der Genehmigungsrahmen des Landes Schleswig-Holstein zur Verbringung von Sedimenten bei „Tonne E3“ in der Nordsee ist bisher volumenbezogen bestmöglich ausgeschöpft worden. Einschließlich des Monats Juli sind im Jahr 2016 insgesamt 1,38 Millionen Kubikmeter Laderaumvolumen (LRV) in das Schlickfallgebiet in der Nordsee verbracht worden. Die Mengen schlüsseln sich nach Monaten wie folgt auf:
 

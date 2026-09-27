@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3107", "21/2312", "21/2718", "21/2775"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52727"
@@ -224,6 +225,6 @@ Plant der Senat beziehungsweise die zuständige Behörde zukünftig auch Folgeun
 
 In der Öffentlichkeit wird die Vergabe der Folgeunterkunft Am Aschenland an das Deutsche Rote Kreuz kontrovers diskutiert. Inwieweit ist dieser Vorgang vergaberechtlich vorangetrieben worden? Wie ist der Verfahrensstand?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/3107. Für die Vergabe zum Betrieb der Einrichtung zur Folgeunterbringung „Am Aschenland II“ ist ein offenes Ausschreibungsverfahren auf der Grundlage von § 130 Gesetz gegen Wettbewerbsbeschränkungen (GWB) i.V.m. § 64 und § 65 der Verordnung über die Vergabe öffentlicher Aufträge (VgV) geplant. Die förmliche Ausschreibung der Dienstleistung erfolgt durch die Finanzbehörde. Die Kriterien werden mit der Veröffentlichung der Ausschreibungsunterlagen bekannt gegeben. Die Veröffentlichung der Vergabebekanntmachung soll im Mai 2016 erfolgen.

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 19
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12245"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61623"
@@ -149,19 +150,19 @@ Welche Maßnahmen sind in den vergangen vier Jahren ergriffen worden, um die Ver
 
 In den vergangenen vier Jahren wurden folgende Maßnahmen im Sinne der Fragestellung ergriffen:
 
- Im Jahr 2015 wurde ein Pilotprojekt zur Einführung der alternierenden Telearbeit
+– Im Jahr 2015 wurde ein Pilotprojekt zur Einführung der alternierenden Telearbeit
 
 gestartet. Nach erfolgreicher Evaluation konnten bisher 81 alternierende Telearbeitsplätze besetzt werden; diese sollen im Jahr 2018 auf 100 alternierende Telearbeitsplätze aufgestockt werden.
 
- Am 24. Mai 2016 hat die Polizei nach einjähriger Pilotierung eine Dienstvereinba-
+– Am 24. Mai 2016 hat die Polizei nach einjähriger Pilotierung eine Dienstvereinba-
 
 rung über die neue Gleitzeit in Kraft gesetzt; diese beinhaltet unter anderem die Ausweitung des Arbeitszeitrahmens und des persönlichen Zeitkontos.
 
- Anlässlich des G20-Gipfels im Juli 2017 wurde eine Kinderversorgung für Zeiten
+– Anlässlich des G20-Gipfels im Juli 2017 wurde eine Kinderversorgung für Zeiten
 
 besonderer Einsatzlagen organisiert. Die Kindernotfallbetreuung durch den Hamburger Kinderhafen wurde für die Zeit ausgeweitet.
 
- An fast allen Polizeikommissariaten wurde jeweils nach einer Pilotierungsphase ein
+– An fast allen Polizeikommissariaten wurde jeweils nach einer Pilotierungsphase ein
 
 neues Schichtdienstmodell (sogenanntes Berliner Modell) eingeführt, das der einzelnen Mitarbeiterin beziehungsweise dem einzelnen Mitarbeiter dienstplanimmanent mehr zusammenhängende Freizeit bietet.
 
@@ -173,29 +174,29 @@ Welche Maßnahmen sind in den vergangenen vier Jahren ergriffen worden, um den A
 
 Der Begriff „Unterrepräsentanz“ wurde erst zum 1. Januar 2015 mit dem Gleichstellungsgesetz definiert. Die Polizei hat mit ihrem am 1. Januar 2017 in Kraft getretenen Gleichstellungsplan 2017 – 2020 erstmalig Unterrepräsentanzen in der Polizei ermittelt und Maßnahmen entwickelt, die zum Ziel haben, den Anteil von Unterrepräsentanzen in den Arbeits- und Organisationseinheiten abzubauen. Dieses sind insbesondere:
 
- Durchführung von Frauennetzwerkveranstaltungen
+– Durchführung von Frauennetzwerkveranstaltungen
 
- Fortbildungsangebote zur Unterstützung der Karriereplanung von Frauen in der
+– Fortbildungsangebote zur Unterstützung der Karriereplanung von Frauen in der
 
 Polizei („Start Now“)
 
- Implementierung von Vergleichsauswertungen zu Männern und Frauen in Maß-
+– Implementierung von Vergleichsauswertungen zu Männern und Frauen in Maß-
 
 stabsprozessen
 
- Implementierung der Themen „Gendergerechtes Führungsverhalten und gender-
+– Implementierung der Themen „Gendergerechtes Führungsverhalten und gender-
 
 gerechte Beurteilung in der Führungsfortbildung“ an der Akademie der Polizei
 
- Aufnahme von zwei neuen Beurteilungskriterien mit den Titeln „Chancengerechte
+– Aufnahme von zwei neuen Beurteilungskriterien mit den Titeln „Chancengerechte
 
 Förderung und Motivation“ und „Erkennen und Berücksichtigen insbesondere geschlechterspezifischer Unterschiede“ im Beurteilungssystem
 
- Im Rahmen der jährlichen Beurteilungsgespräche soll der Aspekt „Karrierepla-
+– Im Rahmen der jährlichen Beurteilungsgespräche soll der Aspekt „Karrierepla-
 
 nung“ zwischen jeder Polizeivollzugsbeamtin und ihrem unmittelbaren Vorgesetzten besprochen und entsprechend dokumentiert werden
 
- Ermöglichen von Hospitationen, bei denen Polizeivollzugsbeamtinnen vor dem
+– Ermöglichen von Hospitationen, bei denen Polizeivollzugsbeamtinnen vor dem
 
 Hintergrund der Vereinbarkeit von Beruf und Familie Einblick in die Aufgaben der nächsthöheren Besoldungsstufe erhalten können
 

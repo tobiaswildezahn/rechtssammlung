@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/4021", "19/5119", "19/5521", "20/8784"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57580"
@@ -43,69 +44,69 @@ Zu den Unterstützungsmaßnahmen in den Jahren 2007 – 2013 siehe Drs. 19/4021;
 
 Seit 2013 hat der Senat die folgenden Projekte gefördert:
 
- Verbesserung der Infrastruktur einer Touristenunterkunft mit Umweltinformation im
+– Verbesserung der Infrastruktur einer Touristenunterkunft mit Umweltinformation im
 
 ländlichen Bereich (Cerro Negro)
 
- Abfall- und Abwassermanagement am städtischen Schlachthof von León. Bau
+– Abfall- und Abwassermanagement am städtischen Schlachthof von León. Bau
 
 einer dezentralen Kleinkläranlage zum Schutz des Río Chiquito
 
- Müllfahrzeuge der Stadtreinigung Hamburg für León
+– Müllfahrzeuge der Stadtreinigung Hamburg für León
 
- Modell- und Lehrfinca für Landwirte in erneuerbaren Technologien und nachhalti-
+– Modell- und Lehrfinca für Landwirte in erneuerbaren Technologien und nachhalti-
 
 ger Landwirtschaft (Ausbildung und Kurse)
 
- Ausbildungsprojekt für Studierende der Technischen Universität La Salle in erneu-
+– Ausbildungsprojekt für Studierende der Technischen Universität La Salle in erneu-
 
 erbaren Energien (Herstellung von Biogas und Biodiesel)
 
- „Niños del Fortín“: Schulbesuch und Betreuung der Kinder, die Müll sammeln
+– „Niños del Fortín“: Schulbesuch und Betreuung der Kinder, die Müll sammeln
 
- Umzäunung einer kleinen Fischproduktefabrik in Poneloya (Forderung der
+– Umzäunung einer kleinen Fischproduktefabrik in Poneloya (Forderung der
 
 Gesundheitsbehörde)
 
- Recycling auf Rädern: Umgestaltung eines Areals am Ufer des Río Chiquito in
+– Recycling auf Rädern: Umgestaltung eines Areals am Ufer des Río Chiquito in
 
 einen Park
 
- Müllfahrzeuge der Hamburger Stadtreinigung für León
+– Müllfahrzeuge der Hamburger Stadtreinigung für León
 
- Installation einer Solaranlage und eines „Solar Medicus“ auf der Gesundheitsstati-
+– Installation einer Solaranlage und eines „Solar Medicus“ auf der Gesundheitsstati-
 
 on der Modell-Finca „El Tololar“
 
- Bau einer Feuerwache in dem indigenen Stadtteil Sutiaba
+– Bau einer Feuerwache in dem indigenen Stadtteil Sutiaba
 
- „Chavaladas“ Straßenkinderprojekt
+– „Chavaladas“ Straßenkinderprojekt
 
- Ausbildung von Kindern/Jugendlichen zu Umweltbotschaftern/-führern in Tangara
+– Ausbildung von Kindern/Jugendlichen zu Umweltbotschaftern/-führern in Tangara
 
 durch eine Umwelt-NGO (SONATI)
 
- Ertüchtigung der Lkw-Werkstatt der Stadtreinigung León
+– Ertüchtigung der Lkw-Werkstatt der Stadtreinigung León
 
- Ausbildungsprojekt: Urbane Landwirtschaft (Hydrokultur)
+– Ausbildungsprojekt: Urbane Landwirtschaft (Hydrokultur)
 
- Schulpaket: Schulrucksäcke und -uniformen für benachteiligte Kinder, die aufgrund
+– Schulpaket: Schulrucksäcke und -uniformen für benachteiligte Kinder, die aufgrund
 
 des Fehlens der Grundausstattung nicht zur Schule gehen könnten
 
- Solarenergie für das Umweltzentrum CIMAC in León
+– Solarenergie für das Umweltzentrum CIMAC in León
 
- Austauschmaßnahme Jugendrotkreuz
+– Austauschmaßnahme Jugendrotkreuz
 
- Jungendaustausch der AGfJ (Arbeitsgemeinschaft freier Jugendverbände in Ham-
+– Jungendaustausch der AGfJ (Arbeitsgemeinschaft freier Jugendverbände in Ham-
 
 burg e.V.) und ASIJUL (Asociación Intercambio Júvenil León) jedes Jahr
 
- Austausch der Jugendheuerwehr, jedes Jahr
+– Austausch der Jugendheuerwehr, jedes Jahr
 
- Solarwerkstatt/Agua es Vida der StS Blankenese
+– Solarwerkstatt/Agua es Vida der StS Blankenese
 
- „Hilfe für Las Tías“ und „Demokratie für alle?“ der Schulen StS Stellingen, Gymna-
+– „Hilfe für Las Tías“ und „Demokratie für alle?“ der Schulen StS Stellingen, Gymna-
 
 sien Dörpsweg und Bondenwald
 

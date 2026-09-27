@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 29
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68621"
@@ -79,7 +80,7 @@ Ist der Gewaltschutz und ist die Gewaltprävention strukturell im Studierendenwe
 
 Inwieweit gibt es ein Gewaltschutzkonzept für Studierendenwohnheime? a. Wenn ja, was beinhaltet dieses Konzept genau und wer prüft dies regelhaft? b. Wenn nein, warum bisher nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3516", "21/3635", "21/7662"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68477"
@@ -119,15 +120,15 @@ Welche Art der Betreuung kommt den Feuerwehrleuten zugute, wenn sie während des
 
 Betroffenen Einsatzkräften stehen durchgehend an allen Tagen des Jahres mehrere Betreuungsangebote offen:
 
- Sondereinsatzgruppe Gesprächsnachsorge (SEGG) der Feuerwehr: Ein Team der
+– Sondereinsatzgruppe Gesprächsnachsorge (SEGG) der Feuerwehr: Ein Team der
 
 SEGG sucht die betroffenen Einsatzkräfte vor Ort auf, führt Gespräche, unterstützt und begleitet.
 
- Feuerwehrseelsorge: Die Feuerwehrseelsorge kann jederzeit über die Leitstelle
+– Feuerwehrseelsorge: Die Feuerwehrseelsorge kann jederzeit über die Leitstelle
 
 erreicht werden.
 
- Soziale Ansprechpartner (seit 2018): Die Sozialen Ansprechpartner wurden in
+– Soziale Ansprechpartner (seit 2018): Die Sozialen Ansprechpartner wurden in
 
 einem zweitägigen Seminar geschult, um Kolleginnen und Kollegen gerade nach solchen Angriffen zu begleiten und auch hinsichtlich der Meldung des Ereignisses an die Dienststelle zu beraten. Sie sind an allen Feuer- und Rettungswachen tätig.
 
@@ -143,7 +144,7 @@ Wie viele Kräfte sind seit 2017 nach gewalttätigen Angriffen im Einsatz dienst
 
 Wie viele der als dienstunfähig gemeldeten Kräfte seit 2017 sind dauerhaft dienstunfähig? Bitte nach Quartalen aufschlüsseln.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Im Jahr 2017 kam es bei einer Einsatzkraft im 2. Quartal zu krankheitsbedingten Ausfallzeiten in Höhe von neun Tagen.
 

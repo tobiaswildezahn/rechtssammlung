@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/501", "21/629", "19/7712", "20/11781", "21/14000", "21/521", "21/711", "20/14130", "20/11718"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48968"
@@ -41,13 +42,13 @@ Wie verteilen sich die per 31.03.2015 für Release 3 ausgegebenen 10,08 Millione
 
 #### Antwort zu Frage 1
 
- Beschreibung der fachlichen Anforderungen,
+– Beschreibung der fachlichen Anforderungen,
 
- Beschreibung der technischen Anforderungen,
+– Beschreibung der technischen Anforderungen,
 
- Lizenzen und
+– Lizenzen und
 
- Steuerung?
+– Steuerung?
 
 a. Inwieweit handelt es sich dabei um originär investive Mittel beziehungsweise wie wird eine entsprechende Charakterisierung begründet?
 

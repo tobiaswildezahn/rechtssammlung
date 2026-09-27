@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 29
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6800", "21/9706", "21/18645"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68388"
@@ -47,7 +48,7 @@ Wie viele und jeweils welche Vereine bieten in Hamburg aktuell Eishockey als Lei
 
 Wie viele Mannschaften jeweils welcher Vereine sind aktuell für den Punktspielbetrieb gemeldet? Bitte nach Kategorie Leistungs- beziehungsweise Breitensport sowie nach Nachwuchs, Herren, Frauen und Mixed getrennt insgesamt und nach Vereinen sowie Bezirken gesondert darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Verein  
 Bezirk  
@@ -86,19 +87,19 @@ Wie viele und jeweils welche Eishallen, in denen Eishockey gespielt werden kann,
 
 Welchen Baujahrs sind die unter Ziffer 3. fallenden Eishallen jeweils und wie hoch ist ihre maximale Zuschauerkapazität jeweils? Bitte nach Bezirken aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Es gibt folgende Eishallen:
 
- Bezirk Eimsbüttel, Kunsteisbahn Stellingen, Hagenbeckstraße 124, 22527 Ham-
+– Bezirk Eimsbüttel, Kunsteisbahn Stellingen, Hagenbeckstraße 124, 22527 Ham-
 
 burg, Eisfläche von rund 1 800 m², Baujahr 1969, Zuschauerkapazität: 1 000,
 
- Bezirk Wandsbek, Eissporthalle Farmsen („Eisland“), Berner Heerweg 152, 22159
+– Bezirk Wandsbek, Eissporthalle Farmsen („Eisland“), Berner Heerweg 152, 22159
 
 Hamburg, Eisfläche von rund 1 800 m², Baujahr 1977/1978, Zuschauerkapazität maximal 2 300,
 
- Bezirk Altona, Volksbank Arena, Hellgrundweg 50, 22525 Hamburg, Eisfläche von
+– Bezirk Altona, Volksbank Arena, Hellgrundweg 50, 22525 Hamburg, Eisfläche von
 
 rund 1 800 m², Baujahr 2007/2008, Zuschauerkapazität Tribüne: 300.
 
@@ -118,7 +119,7 @@ Wann wurde der bauliche Zustand der unter Ziffer 3. fallenden Eishallen jeweils 
 
 In welchem baulichen Zustand befinden sich die unter Ziffer 3. fallenden Eishallen jeweils aktuell beziehungsweise in welcher finanziellen Höhe bestehen jeweils welche Sanierungsbedarfe? Bitte detailliert erläutern.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die letzte Überprüfung der Kunsteisbahn Stellingen erfolgte 2018 in Form einer Hauptprüfung. Bei dieser Prüfung wurde unter anderem bestätigt, dass sich das Membrandach in einem insgesamt schlechten Zustand befindet. Die technischen Anlagen haben eine restliche Lebensdauer von circa drei – fünf Jahren. Ein Neubau wird daher erforderlich (siehe Drs 21/6800).
 

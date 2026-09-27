@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66548"
@@ -43,7 +44,7 @@ Welche unterschiedlichen Module beziehungsweise thematischen Schwerpunkte gibt e
 
 Welchen Anteil nimmt Gesundheitserziehung an der gesamten frühkindlichen beziehungsweise schulischen Bildung ein? (Bitte aufschlüsseln nach frühkindlichen Angeboten und Klassenstufe bei schulischen Angeboten.) Bitte für die Fragen 1. und 2. aufführen, inwieweit die Teilnahme an diesen Modulen und Themenangeboten verpflichtend ist und inwieweit es sich um freiwillige Angebote handelt.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Grundlage der pädagogischen Arbeit in den Hamburger Kindertageseinrichtungen sind die „Hamburger Bildungsempfehlungen für die Bildung und Erziehung von Kindern in Tageseinrichtungen“. Der Bildungsbereich „Körper, Bewegung und Gesundheit“ wird in den Bildungsempfehlungen an erster Stelle platziert und unterstreicht somit die grundlegende Bedeutung von Gesundheit für die allgemeine kindliche Entwicklung in Kindertageseinrichtungen für alle Kinder. In diesem Bildungsbereich werden die Aufgaben und thematischen Schwerpunkte des pädagogischen Personals beschrieben. Dazu gehören die allgemeine Förderung von Gesundheit und Wohlbefinden von Kindern, Hygiene und Körperpflege, Bewegungsförderung, gesunde Ernährung, Körper- und Sexualitätsentwicklung, Resilienzförderung und auch die Gesundheit des pädagogischen Personals. Gesundheitsförderung und Prävention gehören zur täglichen Aufgabe von pädagogischen Fachkräften und durchziehen den gesamten Kita-Alltag sowohl im Krippen- als auch Elementarbereich und sind somit Bestandteil der pädagogischen Arbeit aller Fachkräfte in einer Kindertageseinrichtung. Vorgaben im Sinne eines Curriculums gibt es für den Bereich der frühkindlichen Bildung nicht. Die konkrete Umsetzung der Kita-Bildungsempfehlungen beziehungsweise des
 
@@ -138,21 +139,21 @@ Suchtpräventionszentrum (SPZ) des LI umfassende Unterrichtsmaterialien zur Verf
 
 In diesem Rahmen werden regelhaft Hinweise zu qualitätsgesicherten Angeboten außerschulischen Kooperationspartner wie Krankenkassen, Universitäten, Stiftungen und außerschulischen Fachberatungen gegeben. Beispielhaft sind hier zu benennen:
 
- Fit4future (https://www.fit-4-future.de/),
+– Fit4future (https://www.fit-4-future.de/),
 
- Fit durch die Schule (https://www.aok.de/pk/rh/inhalt/spass-an-bewegung-und-
+– Fit durch die Schule (https://www.aok.de/pk/rh/inhalt/spass-an-bewegung-und-
 
 sport-61-schulen-im-rheinland-starten-neu-mit-fit-durch-die-schule/),
 
- Sherlock Watson (https://www.tk.de/techniker/unternehmensseiten/unternehmen/
+– Sherlock Watson (https://www.tk.de/techniker/unternehmensseiten/unternehmen/
 
 gesunde-lebenswelten/sherlock-sugar-dem-zucker-auf-der-spur-2032002),
 
- Gesund macht Schule (https://www.gesundmachtschule.de/),
+– Gesund macht Schule (https://www.gesundmachtschule.de/),
 
- „Weniger ist mehr“ (https://li.hamburg.de/contentblob/3853976/ db7eccf728d6d304f1072436eff779b0/data/projektbeschreibung-weniger-istmehr.pdf),
+– „Weniger ist mehr“ (https://li.hamburg.de/contentblob/3853976/ db7eccf728d6d304f1072436eff779b0/data/projektbeschreibung-weniger-istmehr.pdf),
 
- „Be  
+– „Be  
 smart  
 don‘t  
 start,  
@@ -162,7 +163,7 @@ rauchfreie
 Schulklassen  
 (https://www.besmart.info/be-smart/),
 
- Sendepause“(https://www.vigozone.de/sendepause).
+– Sendepause“(https://www.vigozone.de/sendepause).
 
 Das LI veranstaltet zukünftig alle zwei Jahre die Messe „Pakt für Prävention– Gesundheitsförderung an Hamburger Schulen“. Auf der Messe präsentieren Koopera-
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1372"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52806"
@@ -71,19 +72,19 @@ Die technische Einsatzzeit eines Mastes beträgt im Mittel 50 Jahre. Ein Mast wi
 
 Die folgenden Regelabstände wurden in der Vergangenheit wie folgt angewendet:
 
- Hauptverkehrsstraßen – der Regelabstand beträgt üblicherweise 30 bis 35 Meter,
+– Hauptverkehrsstraßen – der Regelabstand beträgt üblicherweise 30 bis 35 Meter,
 
 wobei auf einigen zweispurigen Hauptverkehrsstraßen auch 60 Meter Abstände anzutreffen sind. Sehr selten sind Längsabstände von 45 Metern anzutreffen.
 
- Sammelstraßen – üblicherweise herrscht hier ein Mastabstand von 60 Meter. In
+– Sammelstraßen – üblicherweise herrscht hier ein Mastabstand von 60 Meter. In
 
 Einmündungen und in Kurven beträgt der Abstand häufig 30 Meter.
 
- Anliegerstraßen – wie Sammelstraßen; in der Vergangenheit wurden auch Rege-
+– Anliegerstraßen – wie Sammelstraßen; in der Vergangenheit wurden auch Rege-
 
 labstände von 45 Meter gewählt.
 
- Wohnwege – die Beleuchtung beträgt gewöhnlich einen Abstand von 50 Meter.
+– Wohnwege – die Beleuchtung beträgt gewöhnlich einen Abstand von 50 Meter.
 
 Diese Abstände sind auch häufig in Parkanlagen anzutreffen.
 
@@ -105,13 +106,13 @@ Nach dem zweiten Weltkrieg wurden in Hamburg regelhaft Leuchten mit mehreren Lam
 
 Das Beleuchtungsniveau wurde mehrfach wie folgt verändert:
 
- Ab dem Jahr 1975 wurde die „Halbnachtschaltung“ im Zeitraum von 21.00 Uhr bis
+– Ab dem Jahr 1975 wurde die „Halbnachtschaltung“ im Zeitraum von 21.00 Uhr bis
 
 5.00 Uhr,
 
- ab dem Jahr 1981 die „Halbnachtschaltung“ in der gesamten Nachtzeit und
+– ab dem Jahr 1981 die „Halbnachtschaltung“ in der gesamten Nachtzeit und
 
- ab dem Jahr 1984 jeweils eine Lampe pro Leuchte betrieben.
+– ab dem Jahr 1984 jeweils eine Lampe pro Leuchte betrieben.
 
 ### Frage 5
 

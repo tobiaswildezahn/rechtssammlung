@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14543"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69977"
@@ -55,6 +56,6 @@ Bewertet der Hamburger Senat die Sperrfristregelungen der „Richtlinie Hämothe
 
 Für den Fall, dass eine Diskriminierung im Hinblick auf homosexuelle Männer und transsexuelle Personen auch vom Hamburger Senat behauptet wird: Wird der Hamburger Senat die anstehende Initiative der Landesregierung Niedersachsens unterstützen, auf Bundesebene auf eine deutliche Reduzierung der Sperrfrist für diese Risikogruppe(n) hinzuwirken?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/14543.

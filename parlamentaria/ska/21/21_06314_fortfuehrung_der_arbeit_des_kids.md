@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5745"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54852"
@@ -76,7 +77,7 @@ Wie lange soll so ein Provisorium aus Sicht der Behörde im Höchstfall andauern
 
 Wann genau kann der Träger basis & woge e.V. mit seiner Einrichtung KIDS davon ausgehen, seine Arbeit wieder in vollem Umfang aufnehmen zu können? Was braucht das KIDS aus Sicht des Senates beziehungsweise der zuständigen Behörde genau dafür? Bitte räumliche, sachliche und personelle Mittel angeben.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Genehmigung zur Sondernutzung gilt wie beantragt bis zum 31. Dezember 2016. Sobald geeignete Gewerbeflächen gefunden sind, soll der Träger dort den Betrieb aufnehmen. Benötigt wird eine Fläche von 150 qm bis 180 qm. Der Träger setzt im Einvernehmen mit der BASFI weiterhin 9,18 Stellen sozialpädagogische Fachkräfte sowie 1,01 Stellen sonstiges Personal für die Arbeit des KIDS ein. In 2016 wurde die Einrichtung mit rund 750.000 Euro gefördert. Der künftige Finanzbedarf kann schon wegen der unklaren Höhe des Mietzinses derzeit nicht prognostiziert werden.
 

@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 30
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14665", "21/18", "20/11503"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48189"
@@ -75,7 +76,7 @@ Wie groß und mit welchen Ausstattungsmerkmalen versehen sollte grundsätzlich e
 
 Welche Minderung des Kaufpreises für die oben genannte städtische Fläche, die zum Wohnungsbau vorgesehen ist, würde die Reduktion der Verkaufsfläche um die für eine angemessene Außensportfläche notwendige Fläche bedeuten?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Größe und Ausstattung einer Außensportfläche sind jeweils im Einzelfall und in Abhängigkeit von den örtlichen Gegebenheiten festzulegen. Dabei sind die Möglichkeiten des Grundstücks, aber auch Angebote in der Schulumgebung zu berücksichtigen. Im Übrigen handelt es sich um hypothetische Fragen, die der Senat in ständiger Praxis grundsätzlich nicht beantwortet.
 
@@ -95,7 +96,7 @@ Wo sollen die Schülerinnen und Schüler der Schule Iserbarg nach Vorstellungen 
 
 Ist es für die Behörde vorstellbar, zukünftig ohne Außensportfläche an der Schule Iserbarg Sport und GBS zu unterrichten?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Schule verfügt über ein Grundstück, das ausreichend Platz für Bewegung bietet. Darüber hinaus können, wie bei anderen Schulen, grundsätzlich die bezirklichen Sportplätze in der Region sowie Grünflächen im Umfeld der Schule genutzt werden.
 

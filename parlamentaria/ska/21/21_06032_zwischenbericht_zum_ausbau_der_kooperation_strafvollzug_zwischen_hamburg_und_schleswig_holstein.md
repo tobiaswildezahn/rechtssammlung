@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 26
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5780", "21/5713", "21/5936"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54541"
@@ -43,7 +44,7 @@ Wer war neben der zuständigen Behörde vonseiten der Freien und Hansestadt Hamb
 
 Waren unabhängige Experten und Sachverständige bei der Erstellung des Zwischenberichts beteiligt? Wenn ja, welche und wie wurden diese durch die Justizbehörde in Hamburg eingebunden? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Entsprechend der Projektstruktur wird das Projekt fortlaufend durch den projektbegleitenden Beirat beraten (siehe „Projekteinsetzungsverfügung Justizvollzug 2020“, abrufbar unter http://suche.transparenz.hamburg.de/dataset/ projekteinsetzungsverfuegung-justizvollzug-hamburg-2020-neustrukturierung-undzukunftssicherun). Die Projektgruppe erhält hierdurch wertvolle Hinweise aus Wissenschaft und Praxis, die in die Arbeit der Projektgruppe einfließen. Daneben waren über die Lenkungsgruppe Vertreter der Behörde für Arbeit, Soziales, Familie und Integration und des Fachamtes für Straffälligen- und Gerichtshilfe des Bezirksamtes Eimsbüttel eng eingebunden.
 
@@ -57,7 +58,7 @@ Inwieweit berücksichtigt der Zwischenbericht Daten zu den Lebenslagen der Zielg
 
 Im Zwischenbericht wird ausschließlich von der Verlagerung des Jugendstrafvollzugs in den Jugendvollzugsbereich der JVA Neumünster ausgegangen. Gibt es weiterhin Planungen und/oder Prüfungen zu einer möglichen Verlegung des Jugendvollzugs nach Schleswig? Wenn ja, wie ist der aktuelle Stand der Prüfungen? Wenn nein, warum nicht mehr?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/5780.
 
@@ -99,7 +100,7 @@ Wie viele und welche Erziehungs- und Qualifizierungsangebote für Ausbildung und
 
 In Schleswig-Holstein erfolgt keine Trennung zwischen der Untersuchungshaft und der Strafhaft. Wie können dann nach den Ergebnissen im Zwischenbericht dieselben Erziehungs- und Qualifizierungsangebote bei einem geplanten Neubau einer Jugenduntersuchungshaft in Hamburg gewährleistet werden?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Drs. 21/5780.
 

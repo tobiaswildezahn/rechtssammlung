@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57711"
@@ -59,7 +60,7 @@ Wie ist der Stand der Ermittlungen? Ist insbesondere Anklage erhoben worden? Ist
 
 Falls ein Urteil beziehungsweise Strafbefehl ergangen sein sollte, hat dies Auswirkungen auf die aufenthaltsrechtliche Situation des Täters?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Gegen den Beschuldigten wurde seitens der Staatsanwaltschaft Hamburg unter dem
 31. März 2017 Antrag auf Erlass eines Strafbefehls wegen Körperverletzung (§ 223 StGB) beim Amtsgericht Hamburg-St. Georg gestellt. Über den Antrag ist noch nicht entschieden. Ausweislich der Beschreibung der Tat im Strafbefehlsantrag besteht der hinreichende Tatverdacht, dass der Beschuldigte die Geschädigte mit dem beschuhten Fuß oberhalb der linken Hüfte getreten hat, woraufhin diese stürzte und einen Bruch der Speiche erlitt. Die vorstehenden Angaben beruhen auf den im Vorgangsverwaltungs- und -bearbeitungssystem MESTA der Staatsanwaltschaft Hamburg erfassten Angaben und stehen unter dem Vorbehalt der zutreffenden dortigen Erfassung.

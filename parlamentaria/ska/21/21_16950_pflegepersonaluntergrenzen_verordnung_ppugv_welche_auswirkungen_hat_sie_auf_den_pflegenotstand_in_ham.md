@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16380", "21/15872"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66536"
@@ -49,7 +50,7 @@ Welche Daten hat das Institut für das Entgeltsystem im Krankenhaus (IneK) der B
 
 In Drs. 21/16380 gab der Senat an, dass die abgefragten Daten noch nicht vorliegen würden. Für den Fall, dass die Daten mittlerweile vorliegen: Wie hat sich die Zahl der Vollzeitäquivalente bei Pflegefach- und Pflegehilfskräften insgesamt in den Hamburger Krankenhäusern seit 2018 entwickelt? Ist hier gegenüber der vorherigen Entwicklung ein positiver Effekt festzustellen (bitte begründen)? Falls die Daten weiterhin noch nicht vorliegen: Wann werden die Daten voraussichtlich vorliegen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Behörde für Gesundheit und Verbraucherschutz liegen die gewünschten Daten weiterhin noch nicht vor.
 
@@ -69,7 +70,7 @@ Bettensperrungen: Der Senat gibt in Drs. 21/16380 an, dass es keine statistische
 
 Beinahe-Fehler: Laut Drs. 21/15872 haben viele Krankenhäuser in Hamburg das Fehlermeldesystem CIRS (critical incident reporting system) eingeführt, in dem Beschäftigte Beinahe-Fehler melden können. Der Senat gibt an, dass es keine statistische Erfassung gäbe, wie oft personelle Unterbesetzung als Fehlerursache angegeben wurde. Hat der Senat Kenntnisse (nicht statistischer Art) darüber, ob es vorgekommen ist, dass personelle Unterbesetzung als Fehlerursache angegeben wurde und ob und welche Konsequenzen daraus abgeleitet wurden? Bitte Kenntnisstand ausführen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Pflegepersonaluntergrenzen in den vier pflegesensitiven Bereichen gelten ab dem
 1. Januar 2019. Bisher sind für die zuständige Behörde keine hierauf beziehbaren Bettensperrungen oder Ursachennennungen für Beinahe-Fehler erkennbar.

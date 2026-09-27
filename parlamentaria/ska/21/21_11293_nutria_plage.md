@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60292"
@@ -65,7 +66,7 @@ Sind an den Elbdeichen nachweisliche Schäden durch Sumpfbiber entstanden? Wenn 
 
 Wurden die Betreiber des Deiches (Deichverbände) entsprechend entschädigt? Wenn ja, in welcher Höhe und an wen sind Entschädigungszahlungen geflossen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 An den Elbdeichen sind weder in diesem Jahr noch in den vorangegangenen Jahren nachweisliche Schäden durch Sumpfbiber festgestellt worden.
 
@@ -77,7 +78,7 @@ Hat es an Feldrändern nachweisliche Schäden durch Sumpfbiber geben? Wenn ja, w
 
 Wurden betroffene Landwirte entsprechend entschädigt? Wenn ja, in welcher Höhe und an wen sind Entschädigungszahlungen geflossen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Dem Senat liegen keine Erkenntnisse über nachweisliche Schäden an Feldrändern vor.
 

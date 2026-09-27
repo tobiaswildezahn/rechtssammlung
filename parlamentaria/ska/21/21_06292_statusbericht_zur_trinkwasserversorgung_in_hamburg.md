@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5404"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54826"
@@ -59,7 +60,7 @@ Welche Einzugsgebiete der von Hamburg genutzten Trinkwassergewinnungsanlagen sin
 
 Bei welchen der unter 2. genannten Felder ist „Fracking“ rechtsverbindlich ausgeschlossen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die durch bergrechtlich genehmigte Flächen zur Aufsuchung oder Gewinnung von Kohlenwasserstoffen und Erdwärme berührten beziehungsweise überlagerten Grundwassereinzugsgebiete von HAMBURG WASSER sind in Anlage 2 tabellarisch aufgeführt. Lediglich bei den in den Zeilen 12, 13 und 14 der Tabelle aufgeführten Aufsuchungsgebieten kommt die Erschließung unkonventioneller Lagerstätten seitens des Genehmigungsinhabers theoretisch in Betracht.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57673"
@@ -79,6 +80,6 @@ Hat sich die UETD an der Organisation des Referendums über die von Erdogan ange
 
 Gibt es Hinweise darauf, dass die UETD in Hamburg Verbindungen zu islamistischen Gruppierungen oder Einzelpersonen unterhält? Falls ja, zu wem?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Erkenntnisse im Sinne der Fragestellungen liegen dem Senat nicht vor.

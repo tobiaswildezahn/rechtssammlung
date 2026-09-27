@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62719"
@@ -123,7 +124,7 @@ Sieht der Senat Wege, etwaig zu große vorhandene und nicht nachvollziehbare Han
 
 Plant der Senat Maßnahmen zur Eindämmung von Befristungen und prekären Berufsperspektiven an den Hochschulen auf Landesebene? Wenn ja, welche? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die staatlichen Hamburger Hochschulen sind im Rahmen der rechtlichen Vorgaben für die Ausgestaltung von Arbeitsverträgen ihrer wissenschaftlichen Mitarbeiterinnen und Mitarbeiter zuständig. Den Rahmen gibt im wissenschaftlichen Bereich das Wissenschaftszeitvertragsgesetz vor. In diesem Rahmen sind die Hochschulen wie alle Körperschaften des öffentlichen Rechts verpflichtet, gesetz- und rechtmäßig zu handeln. Insoweit können Beschäftigte regulär Rechtsschutz vor den Arbeitsgerichten suchen. Der Umgang und die Erfahrungen mit dem novellierten Wissenschaftszeitvertragsgesetz werden mit den Hochschulen regelmäßig – auch im Hinblick auf die Gesetzesevaluation im Jahr 2020 – besprochen. Aufgrund des mit den Hochschulen initiierten dauerhaften Dialogs zum CoC, der nun auch Berichtspflichten an die zuständige Behörde umfasst, wird auf der Umsetzung der in der AG vereinbarten Vorgabe, unsachgemäße Laufzeiten von Verträgen zu vermeiden, ein besonderes Augenmerk liegen. Der CoC ist jedoch keine Richtlinie, sondern eine Vereinbarung zwischen den Hochschulen und basiert auf Freiwilligkeit und Eigeninitiative der Hochschulen.
 

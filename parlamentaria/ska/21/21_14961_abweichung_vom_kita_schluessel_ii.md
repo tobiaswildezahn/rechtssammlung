@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 24
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14540", "21/14783"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64410"
@@ -103,7 +104,7 @@ Nach welchen Kriterien erteilt die Behörde die Zustimmung zum Betrieb bei Abwei
 
 Nach welchen Kriterien kürzt die Behörde die Entgelte für die Abweichung vom vereinbarten Betreuungsschlüssel?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Stellt ein Kita-Träger fest, dass eine Unterschreitung des vereinbarten Fachkraftschlüssels um mehr als 10 Prozent während eines zwölfmonatigen Zeitraums eintreten wird beziehungsweise eingetreten ist, stellt er einen begründeten Antrag auf Zustimmung bei der für die Kindertagesbetreuung zuständigen Behörde. Diese entscheidet nach Würdigung der vorgetragenen Gründe im Einzelfall. Insbesondere die Gewährleistung des Kindeswohls der betreuten Kinder sowie die Sicherstellung des Betreuungsangebots werden bei der Einzelfallentscheidung berücksichtigt. Wegen der Individualität der einzelnen Situationen gibt es keinen standardisierten Regelfall.
 
@@ -117,7 +118,7 @@ Welches ist die größte Abweichung vom vereinbarten Betreuungsschlüssel, von d
 
 Welches ist die größte Abweichung vom vereinbarten Betreuungsschlüssel, der die zuständige Behörde im Zeitraum 2015 bis 2018 zugestimmt hat?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Antworten zu 4. und zu 6.
 

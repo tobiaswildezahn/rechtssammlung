@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 3
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/61"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49397"
@@ -50,6 +51,6 @@ Hat die Inhaberin der Erlaubnis die im Arbeitsprogramm für das Jahr 2014 vorges
 
 Sollte es für das Arbeitsprogramm 2014 keine Defizite geben: Sind die bisherigen Arbeiten zügiger vorangekommen, als in den Arbeitsprogrammen für 2013 und 2014 vorgesehen? Was bedeutet das gegebenenfalls für das genehmigte Arbeitsprogramm für das Jahr 2015?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Gemäß dem vorliegenden Jahresbericht 2014 vom Februar 2015 wurden die Aufsuchungstätigkeiten im Jahr 2014 in Übereinstimmung mit dem vom LBEG genehmigten Arbeitsprogramm durchgeführt. Abweichungen liegen nicht vor. Für das Jahr 2015 erwartet das LBEG den Jahresbericht zu Beginn des Jahres 2016, sodass zum Sachstand der Aufsuchungstätigkeiten für das Jahr 2015 noch keine Erkenntnisse vorliegen.

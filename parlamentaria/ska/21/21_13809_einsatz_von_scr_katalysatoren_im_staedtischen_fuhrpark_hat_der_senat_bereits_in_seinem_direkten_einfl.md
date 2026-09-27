@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 26
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11912"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63194"
@@ -111,7 +112,7 @@ Welche weiteren städtischen Diesel-Nutzfahrzeuge unterliegen jeweils einer der 
 
 Wie viele weitere Fahrzeuge befinden sich im städtischen Fuhrpark und sind welcher Schadstoffklasse zugeordnet? (Bitte nach Schadstoffklassen getrennt angeben und jeweils aufführen, wie viele Fahrzeuge in den einzelnen Schadstoffklassen mit SCR Katalysatoren ausgestattet sind.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der städtische Fuhrpark beinhaltet Fahrzeuge, die im Zuständigkeitsbereich einer Vielzahl von Fachbehörden und Bezirksämtern eingesetzt werden. Diese Fahrzeuge werden nicht alle einheitlich und zentral verwaltet. Ebenso werden die Eigenschaften der Fahrzeuge nicht immer einheitlich erfasst und müssten teilweise händisch ausgewertet werden. Vor diesem Hintergrund ist eine Beantwortung in der für eine Schriftliche Kleine Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

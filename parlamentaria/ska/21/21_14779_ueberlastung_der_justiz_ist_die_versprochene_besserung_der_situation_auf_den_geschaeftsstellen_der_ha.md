@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13467", "21/13922"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64220"
@@ -59,7 +60,7 @@ Wann hat die Zurückstellungsmaßnahme geendet?
 
 Wie ist der aktuelle Sachstand zur Abarbeitung der Rückstände in der Aktenbearbeitung auf den Dienstposten der Hauptabteilung II, besonders in den Abteilungen 21, 23 und 24?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

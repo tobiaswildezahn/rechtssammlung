@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5874", "21/4322", "21/3101", "20/13400"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54499"
@@ -207,7 +208,7 @@ Unter welchen Bedingungen dürfen Wissenschaftler (Professoren, Habilitanden, Do
 
 Unter welchen Bedingungen ist es Wissenschaftlern (Professoren, Habilitanden, Doktoranden) der Hamburger Universitäten beziehungsweise Hochschulen untersagt, eigenständig und/oder in Zusammenarbeit mit Studenten, Doktoranden et cetera und externen Unternehmen aus den Universitäten beziehungsweise Hochschulen heraus eigene Unternehmen beziehungsweise Start-ups zu gründen, für diese Unternehmen zu arbeiten, von diesen Unternehmen Gehälter und/oder Gewinnbeteiligungen zu beziehen und/oder Anteile an diesen Unternehmen zu besitzen? Bitte unter Nennung der jeweiligen Rechtsvorschriften aufführen.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Für Professorinnen und Professoren sowie andere wissenschaftliche Beamte gelten die allgemeinen und hochschulspezifischen beamtenrechtlichen Regelungen, für tariflich Beschäftigte die arbeits- und tarifvertraglichen. Die rechtlichen Rahmenbedingungen für Professorinnen und Professoren und anderes verbeamtetes wissenschaftliches Personal an Hochschulen werden durch die Wissenschaftsfreiheit (Artikel 5 GG, vergleiche auch § 11 Hamburgisches Hochschulgesetz – HmbHG) vorgegeben und durch einfachgesetzliche Regelungen genauer bestimmt. Insoweit sind insbesondere die Vorschriften des Beamtenrechts (Beamtenstatusgesetz – BeamtStG, Hamburgisches Beamtengesetz – HmbBG und Hamburgisches Besoldungsgesetz – HmbBesG) sowie die Hamburgische Nebentätigkeitsverordnung und die Hamburgische Hochschul-Nebentätigkeitsverordnung vom 6. Dezember 2011 (HmbGVBl. S. 513) zu nennen.
 
@@ -239,11 +240,11 @@ Welche Maßnahmen möchte der Senat beziehungsweise die zuständige Behörde erg
 
 Unternehmensgründungen aus den Hamburger Hochschulen und Universitäten werden durch verschiedene Maßnahmen unterstützt, wie etwa:
 
- Durch die Beratung der Gründungswilligen durch die Mitarbeiterinnen und Mitarbei-
+– Durch die Beratung der Gründungswilligen durch die Mitarbeiterinnen und Mitarbei-
 
 ter der Technologietransfereinrichtungen der Hochschulen und Universitäten sowie der übergreifenden Transfereinrichtungen.
 
- Durch die Einrichtung von Forschungs- und Technologieparks, die Hamburgs
+– Durch die Einrichtung von Forschungs- und Technologieparks, die Hamburgs
 
 Infrastruktur für Ausgründungen komplettieren; Technologieparks umfassen sogenannte Inkubatoren, die Flächen für junge Existenzgründer zur Verfügung stellen. Neben den Flächen werden zusätzliche Services wie Beratungsangebote vorgehalten. Derzeit entstehen solche Inkubatoren auf dem Forschungscampus in Bahrenfeld und in Harburg mit dem ICGT. Die räumliche Nähe der Technologieparks zu Universitäten und Hochschulen, Beratungsservices für Gründungswillige und Vorlesungsangebote im Themenbereich Entrepreneurship unterstützen und ermöglichen eine frühe Implementierung des Ausgründungsgedankens bei den Nachwuchswissenschaftlern.
 

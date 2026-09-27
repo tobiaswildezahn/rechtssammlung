@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 3
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68096"
@@ -49,7 +50,7 @@ Wie beurteilt die zuständige Behörde den Bedarf nach einer Strafbarkeit des �
 
 Wird sie die Bundesratsinitiative Bayerns, Baden-Württembergs, Nordrhein-Westfalens und des Saarlands unterstützen? Falls nein, weshalb nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die zuständige Behörde setzt sich für eine Gesamtreform des 13. Abschnitts des Besonderen Teils des Strafgesetzbuchs ein, der insbesondere die Ergebnisse des Abschlussberichts der Reformkommission zum Sexualstrafrecht vom 19. Juli 2017 aufgreifen sollte. In diesem Zusammenhang ist auch die Frage der Strafbarkeit des „Upskirting“ zu klären.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 28
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5780", "21/8288", "21/18", "21/4178", "21/4623"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60250"
@@ -81,6 +82,6 @@ Wie sind der Zeitplan und der Kostenplan zu dem Modell der Verlagerung des gesam
 
 Welche Planungen gibt es für die JVA Hahnöfersand? Wie hoch sind die Kosten für einen Verbleib des Jugendvollzugs in der JVA Hahnöfersand?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Prüfungen der nach Aufgabe des Kooperationsvorhabens verbleibenden Modelle sind noch nicht abgeschlossen. Die Ergebnisse sämtlicher Prüfungen werden Gegenstand des Projektberichts sein, der im Jahre 2018 der Bürgerschaft vorgelegt werden soll.

@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 52893
 seiten: 4
 fragen: 11
-einzelfragen: 22
-antwortbloecke: 11
+einzelfragen: 24
+antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8733"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57840"
@@ -90,29 +91,52 @@ Die zitierte Passage aus dem Mietvertrag wurde auf Wunsch des Vermieters aufgeno
 ### Frage 7
 
 In der Drs. 21/8733 macht der Senat trotz entsprechender Frage keine weiteren Angaben zum Spendenempfänger. In einer Informationsveranstaltung des Bezirksamtes Wandsbek am 10.05.2017 wusste der Leiter des ZKF dagegen zu berichten, dass derzeit hierfür eine Stiftung gegründet werde.
-7.1. Welche einzelnen Informationen liegen der Verwaltung über den oder die möglichen Spendenempfänger sowie die Gründung einer entsprechenden Stiftung vor?
-7.2. Wann und in welcher Form war die Stadt mit Fragestellungen im Zusammenhang mit der Gründung einer Stiftung befasst oder hat davon Kenntnis erhalten?
-7.3. Gibt es eine Erklärung des Vertreters der Vermieter, dass die Auswahl des Spendenempfängers mit der Stadt abgestimmt werde? Wann genau und in welcher Form wurde diese Erklärung durch wen übermittelt? Welche Stellen im Einzelnen werden dann an dieser Abstimmung beteiligt?
 
-#### Antwort zu Frage 7
+### Frage 7.1
+
+Welche einzelnen Informationen liegen der Verwaltung über den oder die möglichen Spendenempfänger sowie die Gründung einer entsprechenden Stiftung vor?
+
+### Frage 7.2
+
+Wann und in welcher Form war die Stadt mit Fragestellungen im Zusammenhang mit der Gründung einer Stiftung befasst oder hat davon Kenntnis erhalten?
+
+### Frage 7.3
+
+Gibt es eine Erklärung des Vertreters der Vermieter, dass die Auswahl des Spendenempfängers mit der Stadt abgestimmt werde? Wann genau und in welcher Form wurde diese Erklärung durch wen übermittelt? Welche Stellen im Einzelnen werden dann an dieser Abstimmung beteiligt?
+
+#### Antwort zu Fragen 7, 7.1, 7.2 und 7.3
 
 Gemäß Mietvertrag ist die erste Spendenzahlung bis zum letzten Werktag des Kalenderjahres 2017 an eine gemeinnützige Stiftung entsprechend der vertraglich festgelegten Zwecksetzung zu entrichten. Der Vermieter hat gegenüber der Verwaltung erklärt, rechtzeitig vor dem Beginn der Spendenzahlungen mit der Freien und Hansestadt Hamburg abzustimmen, wer vertragskonforme Spendenempfängerin werde. An den Planungen der Stiftungsgründung ist der Senat nicht beteiligt.
 
 ### Frage 8
 
 In der Drs. 21/8733 führt der Senat aus, dass der vom LIG ermittelte Bodenwert hier für die Ermittlung eines angemessenen Mietzinses nicht maßgeblich sei.
-8.1. Warum sind die vom LIG im März/April 2016 ermittelten Werte für den Mietzins im Einzelnen hier nicht maßgeblich?
-8.2. Wer hat wann genau entschieden, dass die Werte nicht maßgeblich sind?
 
-#### Antwort zu Frage 8
+### Frage 8.1
+
+Warum sind die vom LIG im März/April 2016 ermittelten Werte für den Mietzins im Einzelnen hier nicht maßgeblich?
+
+### Frage 8.2
+
+Wer hat wann genau entschieden, dass die Werte nicht maßgeblich sind?
+
+#### Antwort zu Fragen 8, 8.1 und 8.2
 
 Der Landesbetrieb Immobilienmanagement und Grundeigentum (LIG) nimmt in der Prüfung von potenziellen Flächen für die öffentlich-rechtliche Unterbringung eine beratende Funktion ein. Auch in diesem Fall wurde um eine Überprüfung der Angemessenheit des vom Vermieter geforderten Mietzinses gebeten. In seiner Stellungnahme hat der LIG seine Einschätzung, bezogen auf den Bodenwert der bisher landwirtschaftlich genutzten Fläche, abgegeben und zugleich aber ebenfalls betont, dass stets die Gesamtwirtschaftlichkeit des Vorhabens ausschlaggebend sein sollte. Der endgültige Mietzins stelle immer ein Verhandlungsergebnis dar, sodass der Bodenwert nicht in jedem Fall pauschal übertragbar sei und sich die Miete an der jeweils vorgesehenen Nutzung orientiere. Der Mietzins fließe als eine Teilkomponente in die schlussendlich entscheidende Wirtschaftlichkeitsbetrachtung ein.
 
-8.3. War dem LIG bei der Ermittlung von Angaben zu Bodenwert und angemessenem Mietzins die geplante Nutzung des Grundstücks bekannt?
+### Frage 8.3
+
+War dem LIG bei der Ermittlung von Angaben zu Bodenwert und angemessenem Mietzins die geplante Nutzung des Grundstücks bekannt?
+
+#### Antwort zu Frage 8.3
 
 Siehe Drs 21/8733.
 
-8.4. In welchen weiteren Fällen wurde bei der Anmietung von Freiflächen für Unterkünfte durch f & w aus jeweils welchen Gründen von der vom LIG ermittelten angemessenen Mietzinshöhe um mehr als 30 Prozent abgewichen?
+### Frage 8.4
+
+In welchen weiteren Fällen wurde bei der Anmietung von Freiflächen für Unterkünfte durch f & w aus jeweils welchen Gründen von der vom LIG ermittelten angemessenen Mietzinshöhe um mehr als 30 Prozent abgewichen?
+
+#### Antwort zu Frage 8.4
 
 Eine händische Einzelfallauswertung der 164 Akten der von f & w betriebenen Erstaufnahmeeinrichtungen und öffentlich-rechtlicher Folgeunterbringungen ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -129,10 +153,16 @@ Gemäß der Dienstvorschrift sind Schreiben von politischen Parteien, Gewerkscha
 ### Frage 10
 
 In der Vorbemerkung der Antwort in Drs. 21/8733 führt der Senat Folgendes aus: „Im Zuge dessen wurde auch auf kritische Bürgerinnen und Bürger vor Ort zugegangen, die sich mit der Nutzung des Flurstücks 270 ganz überwiegend einverstanden erklärt haben.“
-10.1. Welche Vertreter der Stadt sind im Einzelnen und in welcher Form auf kritische Bürgerinnen und Bürger zugegangen?
-10.2. Wie und in welcher Form wurde das ganz überwiegende Einverständnis eingeholt?
 
-#### Antwort zu Frage 10
+### Frage 10.1
+
+Welche Vertreter der Stadt sind im Einzelnen und in welcher Form auf kritische Bürgerinnen und Bürger zugegangen?
+
+### Frage 10.2
+
+Wie und in welcher Form wurde das ganz überwiegende Einverständnis eingeholt?
+
+#### Antwort zu Fragen 10, 10.1 und 10.2
 
 Es wurden im politischen Raum zahlreiche Gespräche, insbesondere mit der Bürgerinitiative „Lebenswerter Buchenkamp“, gemeinsam mit den Bürgerschaftsabgeordneten für den Wahlkreis Alstertal-Walddörfer in Wandsbek von SPD und GRÜNEN sowie Mitgliedern der Bezirksversammlung Wandsbek geführt, die im Frühjahr 2016 in gemeinsamen Eckpunkten mündeten, die den zuständigen Behörden zur Kenntnis gegeben wurden und Grundlage für den Beschluss der Bezirksversammlung Wandsbek in der Bezirks-Drs. 20-2771 waren. Im Übrigen siehe Drs. 21/8733. Der so im Stadtteil gefundene Kompromiss war Grundlage für die weiteren behördlichen Planungen.
 

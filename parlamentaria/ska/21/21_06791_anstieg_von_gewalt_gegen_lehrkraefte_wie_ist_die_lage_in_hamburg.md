@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 29
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5677", "20/2860", "20/9125", "20/12511", "21/1599"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55350"
@@ -59,7 +60,7 @@ Wie viele Gewalttaten psychischer Art sind der zuständigen Behörde aus dem lau
 
 Wie viele Gewalttaten physischer Art sind der zuständigen Behörde aus dem laufenden sowie den vergangenen fünf Schuljahren bekannt? Angabe bitte insgesamt und getrennt nach Schuljahr, jeweils geordnet nach Bezirk und Schulform. a. In wie vielen Fällen wurde jeweils eine Ordnungsmaßnahme gemäß § 49 HmbSG durchgeführt? b. In wie vielen Fällen wurde das zuständige ReBBZ konsultiert? c. In wie vielen Fällen wurde jeweils Anzeige erstattet?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Es gibt eine Pflicht der Schulleitungen zur Meldung von Gewaltvorfällen. Diese Meldepflicht ergibt sich aus der Dienstanweisung für Lehrerinnen und Lehrer (MBlSchul Nummer 07 vom 04.08.2016, Ziffer 3.9.). Sie wird durch die Richtlinie zur Bearbeitung und Meldung von Gewaltvorfällen in Schulen (MBlSchul Nummer 05 vom 09.10.2015) konkretisiert.
 

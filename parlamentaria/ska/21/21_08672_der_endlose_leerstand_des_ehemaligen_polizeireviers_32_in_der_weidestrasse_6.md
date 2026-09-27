@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57395"
@@ -69,7 +70,7 @@ Ist dem Senat bekannt, ob die politischen Veränderungen in der Türkei seit dem
 
 Gibt es seitens des Senats bereits Ideen oder Vorschläge für eine alternative Nutzung des Gebäudes, die gegebenenfalls an das Türkische Konsulat herangetragen werden können – oder bereits herangetragen wurden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Antwort zu 1.
 

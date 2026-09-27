@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61543"
@@ -62,7 +63,7 @@ Sind dem Senat die Hintergründe des Moscheebesuchs bekannt? Falls ja, möge er 
 
 Welche Intention lag dem Moscheebesuch seitens der Schulleitung zugrunde?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Bildungsplan Religion sieht den Besuch einer christlichen Kirche und eines weiteren heiligen Raumes verbindlich vor (siehe Bildungsplan Grundschule Religion, Seite 23). Im Übrigen siehe Vorbemerkung.
 

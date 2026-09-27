@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53774"
@@ -141,14 +142,14 @@ Welche Funktion haben Außen- und Binnenalster für die Freie und Hansestadt Ham
 
 Die folgenden Funktionen können der Binnen- und Außenalster zugeordnet werden:
 
-• Wasserhaushaltsmanagement für das Alstereinzugsgebiet
+– Wasserhaushaltsmanagement für das Alstereinzugsgebiet
 
-• Lebensraum für Fauna und Flora
+– Lebensraum für Fauna und Flora
 
-• Seeschifffahrtsstraße
+– Seeschifffahrtsstraße
 
-• Wassersportrevier
+– Wassersportrevier
 
-• Stadtbildprägendes Element
+– Stadtbildprägendes Element
 
-• Naherholungs- und Freizeitgebiet
+– Naherholungs- und Freizeitgebiet

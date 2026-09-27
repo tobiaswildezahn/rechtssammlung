@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 18
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48972"
@@ -126,7 +127,7 @@ Werden konkret bei den Maßnahmen am Maritimen Museum (eine energiesparende Illu
 
 Inwiefern entsprechen die geplanten Maßnahmen am Maritimen Museum den Förderkriterien des Denkmalschutz-Sonderprogramms V?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Zu den Maßnahmen am Internationalen Maritimen Museum liegen der Kulturbehörde keine Erkenntnisse vor. Eine Kofinanzierung aus Mitteln der Kulturbehörde ist nicht vorgesehen. Im Übrigen siehe Vorbemerkung.
 

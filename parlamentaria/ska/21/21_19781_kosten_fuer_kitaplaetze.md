@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69527"
@@ -49,7 +50,7 @@ Wie viele Kinder im Alter von bis zu sechs Jahren sind in Hamburg gemeldet und w
 
 Wie viele dieser Kinder nutzen einen kostenfreien Kita-Besuch von bis zu fünf Stunden pro Tag und wie viele den ganzen Tag? Bitte auch darstellen, inwiefern sich die Zahlen seit Einführung der fünfstündigen kostenfreien Nutzung entwickelt haben. Bitte prozentual und in absoluten Zahlen sowie im Vergleich zu allen gemeldeten Hamburger Kindern aufzeigen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

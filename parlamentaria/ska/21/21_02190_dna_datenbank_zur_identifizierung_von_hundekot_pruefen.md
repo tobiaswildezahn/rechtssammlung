@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14567"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50474"
@@ -75,7 +76,7 @@ Wie bewertet der Senat die Zumutbarkeit für Bedienstete der Stadt, Proben bei H
 
 Wäre es nach Einschätzung des Senats möglich, die Hundehalter, welche den Kot ihrer Hunde nicht beseitigen, an den Kosten für die DNA- Datenbank und die durchzuführenden DNA-Tests durch eine Erhöhung der Bußgelder zu beteiligen beziehungsweise diese sogar komplett gegenzufinanzieren?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die zuständige Behörde hat sich mit der Schaffung einer DNA-Datenbank zur Erfassung des Erbguts von Hunden nicht befasst. Die im Hundegesetz verankerte Sanktionsmöglichkeit für widerrechtliches Hinterlassen von Hundekot wird als ausreichend erachtet.
 

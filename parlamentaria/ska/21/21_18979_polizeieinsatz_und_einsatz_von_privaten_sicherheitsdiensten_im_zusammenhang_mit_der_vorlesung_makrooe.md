@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 18
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18801", "21/18705"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68667"
@@ -53,7 +54,7 @@ Aus welchen Gründen wurde der Student am 06.11.2019 in seinem Seminar aufgesuch
 
 Hat der Betroffene am 30.10.2019 und/oder am 06.11.2019 einen Platzverweis oder ein Aufenthaltsverbot erhalten? Wenn ja, was aus welchem Grund, mit welcher zeitlichen Dauer und für welches räumliche Gebiet? Wenn nein, auf welcher (Rechts-)Grundlage erfolgte die Unterbindung seiner Teilnahme an der Vorlesung und die Verweisung vom Universitätsgelände?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Polizei ist im Sinne der Fragestellung ein Sachverhalt vom 6. November 2019 bekannt, bei dem Einsatzkräfte gegen 11 Uhr im Hauptgebäude der Fakultät sechs Maßnahmen gegen eine männliche Person getroffen haben. Nach den Wahrnehmun-
 

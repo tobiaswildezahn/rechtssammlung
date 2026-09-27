@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8696", "20/11719"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58246"
@@ -88,7 +89,7 @@ Wie viele Strafanzeigen/Strafanträge wurden jeweils jährlich gestellt?
 
 Wie viele Hausverbote wurden jeweils jährlich gegen Täter-/innen beziehungsweise. Tatverdächtige ausgesprochen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlagen 1 bis 3.
 
@@ -237,7 +238,15 @@ SKA_21/9481 Anlage 4
 - Durchführung von „Abdeckungsmaßnahmen“ im Einzelfall
 - Ausweitung des Einsatzes privater Wachdienste und Bildung einer mobilen Eingreifgruppe
 - Vorhalten der besonderen Schutzausrüstung
-- diverse Dienstanweisungen für potenziell gefährliche Situationen wie z.B. die Nachdienstverfügung i. ü. siehe Drucksache 21/8696 Broschüre für schulische Führungskräfte „Was tun bei Gewalt gegen Mitarbeiterinnen und Mitarbeiter an Schulen“ •Prävention: Sensibilisierung bei Gewaltvorfällen, •klären der Verantwortlichkeiten zum Handeln durch Leitungskräfte •Checkliste zum Vorgehen bei Gewalt Flyer für schulische Beschäftigte „Was tun bei Gewalt gegen Mitarbeiterinnen und Mitarbeiter an Schulen“ •Kurzinformation für Beschäftigte, die Opfer von Gewalt geworden sind bzw. sich allgemein informieren möchten Dienstvereinbarung zu fairem Verhalten am Arbeitsplatz in der BSB (überarbeitet Oktober 2016) •Definition von unfairem Verhalten •Handlungsabfolge und Verantwortlichkeiten bei Konfliktlösungen / unfairem Verhalten Beratungsstelle für Krisen und Abhängigkeitsprobleme (BST) am Landesinstitut für Lehrerbildung •Erstanlaufstelle für alle Beschäftigten bei beruflichen (und / oder) privaten Krisen, Konflikten, Problemen •Beratung, Information, Weitervermittlung an externe Fachleute, Coaching Fortbildungsangebote für schulisches Personal zum Umgang mit Konflikten und Gewalt (siehe unten Nr. 1 bis 3) Schulberatungen zur Verankerung von Regeln im Schulalltag (Schwerpunkt Konflikte und Gewalt) Fachliche Unterstützung und Beratung von schulinternen Krisenteams Dokumentation der schulischen Gewaltmeldungen (Gewaltkriminalitätsdelikte), inkl. der Vorfälle, bei denen schulisches Personal betroffen ist. Telefonische Beratung der Schulen und ggf. der Betroffenen nach entsprechenden Meldungen von Vorfällen
+- diverse Dienstanweisungen für potenziell gefährliche Situationen wie z.B. die Nachdienstverfügung i. ü. siehe Drucksache 21/8696 Broschüre für schulische Führungskräfte „Was tun bei Gewalt gegen Mitarbeiterinnen und Mitarbeiter an Schulen“
+– Prävention: Sensibilisierung bei Gewaltvorfällen,
+– klären der Verantwortlichkeiten zum Handeln durch Leitungskräfte
+– Checkliste zum Vorgehen bei Gewalt Flyer für schulische Beschäftigte „Was tun bei Gewalt gegen Mitarbeiterinnen und Mitarbeiter an Schulen“
+– Kurzinformation für Beschäftigte, die Opfer von Gewalt geworden sind bzw. sich allgemein informieren möchten Dienstvereinbarung zu fairem Verhalten am Arbeitsplatz in der BSB (überarbeitet Oktober 2016)
+– Definition von unfairem Verhalten
+– Handlungsabfolge und Verantwortlichkeiten bei Konfliktlösungen / unfairem Verhalten Beratungsstelle für Krisen und Abhängigkeitsprobleme (BST) am Landesinstitut für Lehrerbildung
+– Erstanlaufstelle für alle Beschäftigten bei beruflichen (und / oder) privaten Krisen, Konflikten, Problemen
+– Beratung, Information, Weitervermittlung an externe Fachleute, Coaching Fortbildungsangebote für schulisches Personal zum Umgang mit Konflikten und Gewalt (siehe unten Nr. 1 bis 3) Schulberatungen zur Verankerung von Regeln im Schulalltag (Schwerpunkt Konflikte und Gewalt) Fachliche Unterstützung und Beratung von schulinternen Krisenteams Dokumentation der schulischen Gewaltmeldungen (Gewaltkriminalitätsdelikte), inkl. der Vorfälle, bei denen schulisches Personal betroffen ist. Telefonische Beratung der Schulen und ggf. der Betroffenen nach entsprechenden Meldungen von Vorfällen
 
 Justizvollzugsanstalten
 
@@ -245,7 +254,11 @@ Behörde für Schule und Berufsbildung
 
 SKA_21/9481 Anlage 4
 
-Zentrum Deutsch als Fremdsprache (DaF) Anmeldung: Organisation der Beratung mit Wartenummern und Empfang zur Erhöhung der Transparenz und möglicherweise Abbau von Konfliktpotential DaF-Anmeldung: Verständigungsmöglichkeit in der Beratung in allen gefragten Fremdsprachen zum besseren Informationsfluss, Vermeidung von Missverständnissen DaF-Anmeldung: Schaffung einer Cloud/Chat über PC zur schnellen Verständigung unter den Berater/innen auch in bedrohlichen Situationen DaF-Anmeldung: in den Beratungszeiten sind immer mehrere Mitarbeiter/innen anwesend, so dass keine Beratungssituationen entstehen, in denen ein/e Mitarbeiter/in alleine mit Kund/innen ist. DaF: in den Kursen selbst wurden folgende Maßnahmen getroffen: •Fortbildung der Kursleitenden (KL) zu Themen Umgang mit schwierigen Teilnehmer/innen (TN), Deeskalationsstrategien, Konfliktmanagement usw. •Unterstützung durch einen Vermittler/Übersetzer zur Klärung von Konfliktsituationen •Information der TN zu Verhaltensregeln im Kursbesuch, in Form von mehrsprachigen Plakaten und Infozetteln. •Einsatz von mehrsprachigen Schließdiensten Regelmäßige Schulungen der Mitarbeiterinnen und Mitarbeiter des Campuscenters anhand eines Leitfadens zum Umgang mit Beschwerden, Konflikten und Bedrohungen. Anwendung der Deeskalationssoftware NetAlarmPro im Campuscenter. Die Software ermöglicht eine unauffällige Alarmierung von Kolleginnen und Kollegen über den PC-Arbeitsplatz. Einführung eine Beschwerdestelle für Studierende nach dem AGG als präventive Deeskalationsmaßnahme. Seit April 2017 verfügt die UHH über eine zentrale Koordinierungsstelle für das Bedrohungs- und Krisenmanagement. Schulung: Professioneller Umgang mit Kunden Schulung: Konflikte souverän lösen Schulung: Umgang mit schwierigen Kunden Schulung: Konfliktmanagement Schulung: Konflikt- und Selbstbehauptungstraining Schulung: Umgang mit Konfliktsituationen Delegation Ausübung Hausrecht auf ausgesuchte Mitarbeiter (Aussprache von Hausverboten) Sicherungsmaßnahmen der Mitarbeiter im Kassenbereich Verbesserung des Services (Strategie: Zufriedenheit vermeidet Konfliktsituationen) Behörde für Kultur und Medien
+Zentrum Deutsch als Fremdsprache (DaF) Anmeldung: Organisation der Beratung mit Wartenummern und Empfang zur Erhöhung der Transparenz und möglicherweise Abbau von Konfliktpotential DaF-Anmeldung: Verständigungsmöglichkeit in der Beratung in allen gefragten Fremdsprachen zum besseren Informationsfluss, Vermeidung von Missverständnissen DaF-Anmeldung: Schaffung einer Cloud/Chat über PC zur schnellen Verständigung unter den Berater/innen auch in bedrohlichen Situationen DaF-Anmeldung: in den Beratungszeiten sind immer mehrere Mitarbeiter/innen anwesend, so dass keine Beratungssituationen entstehen, in denen ein/e Mitarbeiter/in alleine mit Kund/innen ist. DaF: in den Kursen selbst wurden folgende Maßnahmen getroffen:
+– Fortbildung der Kursleitenden (KL) zu Themen Umgang mit schwierigen Teilnehmer/innen (TN), Deeskalationsstrategien, Konfliktmanagement usw.
+– Unterstützung durch einen Vermittler/Übersetzer zur Klärung von Konfliktsituationen
+– Information der TN zu Verhaltensregeln im Kursbesuch, in Form von mehrsprachigen Plakaten und Infozetteln.
+– Einsatz von mehrsprachigen Schließdiensten Regelmäßige Schulungen der Mitarbeiterinnen und Mitarbeiter des Campuscenters anhand eines Leitfadens zum Umgang mit Beschwerden, Konflikten und Bedrohungen. Anwendung der Deeskalationssoftware NetAlarmPro im Campuscenter. Die Software ermöglicht eine unauffällige Alarmierung von Kolleginnen und Kollegen über den PC-Arbeitsplatz. Einführung eine Beschwerdestelle für Studierende nach dem AGG als präventive Deeskalationsmaßnahme. Seit April 2017 verfügt die UHH über eine zentrale Koordinierungsstelle für das Bedrohungs- und Krisenmanagement. Schulung: Professioneller Umgang mit Kunden Schulung: Konflikte souverän lösen Schulung: Umgang mit schwierigen Kunden Schulung: Konfliktmanagement Schulung: Konflikt- und Selbstbehauptungstraining Schulung: Umgang mit Konfliktsituationen Delegation Ausübung Hausrecht auf ausgesuchte Mitarbeiter (Aussprache von Hausverboten) Sicherungsmaßnahmen der Mitarbeiter im Kassenbereich Verbesserung des Services (Strategie: Zufriedenheit vermeidet Konfliktsituationen) Behörde für Kultur und Medien
 
 KZ-Gedenkstätte Neuengamme: Notrufsystem (Alarmknopf) in den Ausstellungen zur Alarmierung des Sicherheitsdienstes
 
@@ -297,7 +310,7 @@ SKA_21/9481 Anlage 4
 
 Installation des Notrufsystems „Vocario“ auf allen Arbeitsplatzrechnern im Rechtsamt Dienst- und Verhaltensregelungen für Tätigkeiten im Außendienst, Ausstattung mit Diensthandys auch für Notrufe Schließanlagen/verschlossene Etagentüren an den Standorten des Landesbetriebs für Straßen, Brücken und Gewässer (LSBG)
 
-Hochsicherheitsbereich Elbtunnelbetriebszentrale (LSBG) Einsatz eines Sicherheitsdienstes Nutzung von Alarmierungssystemen für Beschäftigte Einbau von Fluchttüren in konfliktreichen Publikumsbereichen Verbesserung / Beschaffung von Ausrüstungsgegenständen und Einsatzmitteln: Ausrüstung von Funkstreifenwagen der Polizeikommissariate mit ballistischer Schutzausstattung Verbesserung der Körperschutzausstattung der Alarmabteilung Hamburg sowie Anschaffung Brandschutzhauben Beschaffung von Spuckschutzhauben Beschaffung des Mehrzweckeinsatzstockes (MES) für Beamte der Alarmabteilung Hamburg Entwicklung einer Außentragehülle für ballistische Schutzwesten für Beamte des motorisierten Streifendienstes Einführung der Bodycam für den Bereich des PK 15 Beschaffung von Infektionsschutz-Sets Beschaffung von Hochdruckfeuerlöschern für alle PK Beschaffung eines sondergeschützten Fahrzeuges Verbesserung der Waffenausstattung Technisch / organisatorische Maßnahmen: Verbesserung der Liegenschaftssicherungen durch Sicherheitsverglasung, Türcodes, Zugangskontrollen durch Bedienstete, Erstellung von entsprechenden Alarmkalendern und Haussicherungsbefehlen sowie Videoüberwachung Bauliche Schutzmaßnahmen sicherheitsrelevanter Gebäude Die Verbesserung von Einrichtungen und Ausstattungen zur Sicherung der Polizeibeamten, der Dienststellen und der Fahrzeuge ist darüber hinaus ständige Aufgabe. Darüber hinaus siehe Drs. 20/11719. Organisatorische Regelungen in der Dienstanweisung "Dienst an Einsatzstellen" zum Verhalten an Einsatzstellen u.a. • Verhalten bei Übergriffen • Mittel der Deeskalation • Maßnahmen bei Gefahr für Einsatzkräfte durch Angriffe aggressiver Personengruppen
+Hochsicherheitsbereich Elbtunnelbetriebszentrale (LSBG) Einsatz eines Sicherheitsdienstes Nutzung von Alarmierungssystemen für Beschäftigte Einbau von Fluchttüren in konfliktreichen Publikumsbereichen Verbesserung / Beschaffung von Ausrüstungsgegenständen und Einsatzmitteln: Ausrüstung von Funkstreifenwagen der Polizeikommissariate mit ballistischer Schutzausstattung Verbesserung der Körperschutzausstattung der Alarmabteilung Hamburg sowie Anschaffung Brandschutzhauben Beschaffung von Spuckschutzhauben Beschaffung des Mehrzweckeinsatzstockes (MES) für Beamte der Alarmabteilung Hamburg Entwicklung einer Außentragehülle für ballistische Schutzwesten für Beamte des motorisierten Streifendienstes Einführung der Bodycam für den Bereich des PK 15 Beschaffung von Infektionsschutz-Sets Beschaffung von Hochdruckfeuerlöschern für alle PK Beschaffung eines sondergeschützten Fahrzeuges Verbesserung der Waffenausstattung Technisch / organisatorische Maßnahmen: Verbesserung der Liegenschaftssicherungen durch Sicherheitsverglasung, Türcodes, Zugangskontrollen durch Bedienstete, Erstellung von entsprechenden Alarmkalendern und Haussicherungsbefehlen sowie Videoüberwachung Bauliche Schutzmaßnahmen sicherheitsrelevanter Gebäude Die Verbesserung von Einrichtungen und Ausstattungen zur Sicherung der Polizeibeamten, der Dienststellen und der Fahrzeuge ist darüber hinaus ständige Aufgabe. Darüber hinaus siehe Drs. 20/11719. Organisatorische Regelungen in der Dienstanweisung "Dienst an Einsatzstellen" zum Verhalten an Einsatzstellen u.a. – Verhalten bei Übergriffen – Mittel der Deeskalation – Maßnahmen bei Gefahr für Einsatzkräfte durch Angriffe aggressiver Personengruppen
 
 Behörde für Wirtschaft, Verkehr und Innovation
 
@@ -311,7 +324,7 @@ SKA_21/9481 Anlage 4
 
 Durchführung einer Gefährdungsbeurteilung „ Gewalt gegen Mitarbeiter“ Im Frühjahr 2018 soll eine Mitarbeiterbefragung auch zum Themenkomplex „Gewalt gegen Mitarbeiter“ durchgeführt werden.
 
-Im Nachgang erfolgt eine erneute Gefährdungsbeurteilung. Implementiertes, standardisiertes Meldeverfahren für die statistische Erfassung von Gewalt gegen Mitarbeiter. • Erleichterung der Meldung von Übergriffen und Gewalt u.a. durch die Digitalisierung des Meldebogens mit dem Ziel, die „Dunkelziffer“ zu verringern Die Feuerwehr stellt einen Strafantrag bei Meldung jeder Gewalt und jedes Übergriffs (tätlich und/oder verbal) zur Ermittlung und Strafverfolgung der Täter, Ziel ist, u.a. erneute Gewalt der Täter zu verhindern Ausbildungsmaßnahmen für neue Mitarbeiterinnen und Mitarbeiter der Feuerwehr: An der Feuerwehrakademie werden Mitarbeiterinnen und Mitarbeiter der Feuerwehr Hamburg im Rahmen ihrer Laufbahnausbildung bzw. als Teilnehmerinnen und Teilnehmer an der Ausbildung zum Notfallsanitäter in den Themenfeldern Gewaltprävention und Deeskalation geschult. Die inhaltliche Grundlage für diese Schulungen stellt das Positionspapier der Arbeitsgemeinschaft der Leiter der Berufsfeuerwehren (AGBF) dar, das inhaltlich vier Schulungsbausteine beschreibt, mit deren Hilfe den Teilnehmern eine erhöhte Handlungssicherheit für Präventionsmaßnahmen und im Umgang mit Aggression und Gewalt vermittelt wird. Weiterhin erfolgt derzeit die Ausarbeitung eines Konzeptes seitens der Feuerwehrakademie mit der Zielsetzung, über die bisherigen Teilnehmerinnen und Teilnehmer eine weitere Gruppe in Deeskalationsmaßnahmen fortzubilden. Hierzu wurde von Mitarbeitern der Feuerwehrakademie im März 2017 eine in Hamburg angebotene Fortbildungsveranstaltung besucht, um entsprechende Anregungen für die eigenen Schulungsmaßnahmen zu erlangen.
+Im Nachgang erfolgt eine erneute Gefährdungsbeurteilung. Implementiertes, standardisiertes Meldeverfahren für die statistische Erfassung von Gewalt gegen Mitarbeiter. – Erleichterung der Meldung von Übergriffen und Gewalt u.a. durch die Digitalisierung des Meldebogens mit dem Ziel, die „Dunkelziffer“ zu verringern Die Feuerwehr stellt einen Strafantrag bei Meldung jeder Gewalt und jedes Übergriffs (tätlich und/oder verbal) zur Ermittlung und Strafverfolgung der Täter, Ziel ist, u.a. erneute Gewalt der Täter zu verhindern Ausbildungsmaßnahmen für neue Mitarbeiterinnen und Mitarbeiter der Feuerwehr: An der Feuerwehrakademie werden Mitarbeiterinnen und Mitarbeiter der Feuerwehr Hamburg im Rahmen ihrer Laufbahnausbildung bzw. als Teilnehmerinnen und Teilnehmer an der Ausbildung zum Notfallsanitäter in den Themenfeldern Gewaltprävention und Deeskalation geschult. Die inhaltliche Grundlage für diese Schulungen stellt das Positionspapier der Arbeitsgemeinschaft der Leiter der Berufsfeuerwehren (AGBF) dar, das inhaltlich vier Schulungsbausteine beschreibt, mit deren Hilfe den Teilnehmern eine erhöhte Handlungssicherheit für Präventionsmaßnahmen und im Umgang mit Aggression und Gewalt vermittelt wird. Weiterhin erfolgt derzeit die Ausarbeitung eines Konzeptes seitens der Feuerwehrakademie mit der Zielsetzung, über die bisherigen Teilnehmerinnen und Teilnehmer eine weitere Gruppe in Deeskalationsmaßnahmen fortzubilden. Hierzu wurde von Mitarbeitern der Feuerwehrakademie im März 2017 eine in Hamburg angebotene Fortbildungsveranstaltung besucht, um entsprechende Anregungen für die eigenen Schulungsmaßnahmen zu erlangen.
 
 Darüber hinaus erfolgt über den Bereich der Arbeitssicherheit der Feuerwehr Hamburg ein fortlaufender Erfahrungsaustausch mit den Feuerwehren in Berlin, München und Köln zu dortigen Erkenntnissen und Handlungsmaßnahmen.
 
@@ -325,7 +338,7 @@ SKA_21/9481 Anlage 4
 
 Umsetzung und regelmäßige Überprüfung des mit der kriminalpolizeilichen Beratungsstelle entwickelten Sicherheitskonzeptes
 
-Ausstattung der Arbeitsplätze mit erhöhtem Gefährdungspotential mit einer software­basierten Notrufmöglichkeit (Vocario)
+Ausstattung der Arbeitsplätze mit erhöhtem Gefährdungspotential mit einer softwarebasierten Notrufmöglichkeit (Vocario)
 
 Termine mit Besuchern werden in baulich besonders hergerichteten Räumen abgehalten, die Übergriffe erschweren Besucherführung mit Zugangsbeschränkungen für das Publikum innerhalb des Gebäudes (elektronische Türschließung)
 
@@ -351,28 +364,28 @@ SKA_21/9481 Anlage 4
 
 anlassbezogener Einsatz von Sicherheitspersonal in Dienstgebäuden des Bezirksamts Seit 01.06.17 zusätzlicher Wachmann am Nachmittag im Hauptgebäude des Bezirksamts Einsatz technischer Hilfsmittel (Rufkreise, Alarmknöpfe, Schließautomatik) Installation von Handkontakte an Schreibtischen zur direkten Alarmierung der Polizei Installation der Software Vocario zur Alarmierung innerhalb eines festgelegten Schaltkreises (Rundrufsystem) Einbau von Schließsystemen: Knauf-Lösung und Klingelanlagen Einbau von Rückzugstüren bei Neubauten und Umbaumaßnahmen Sichtschutzmaßnahmen Eindeutige Prozessbeschreibung für Servicecenter Mitarbeiter/innen im Umgang mit verbalen Attacken. Abgabe der Gespräche an die Teamleitung Es werden für Publikumsdienststellen laufend bauliche Maßnahmen umgesetzt bei Neuanmietungen, Umzügen in Bestandsgebäuden oder im Rahmen von baulichen Veränderungen. Hierbei werden als Maßnahmen insbesondere berücksichtigt:
 
-•  
+–  
 Zugangskontrolle/Besuchersteuerung, wo erforderlich, z.B. ASD (Klingel, Gegensprechanlage)  
-•  
+–  
 Einbau von Fluchttüren  
-•  
+–  
 Einbau von Panikschließungen  
-•  
+–  
 Einbau von Sicherheitsglas in Bürotüren  
-•  
+–  
 Kundenfreundliche Gestaltung der Wartebereiche  
-•  
+–  
 Ausreichende kundenfreundliche Beschilderung  
-•  
+–  
 Trennung von Besucher- und Personaltoiletten  
-•  
+–  
 Möblierungskonzepte unter Berücksichtigung von Sicherheitsaspekten  
-•  
+–  
 Helle Beleuchtung  
 Installation von Alarmierungssystemen  
-•  
+–  
 regelhaft Vocario  
-•  
+–  
 in besonders gefährdeten Bereichen Aufschaltung zur Polizei  
 Aushang einer Hausordnung in allen Dienstgebäuden  
 Information der Beschäftigten anhand einer Handlungshilfe „Psychologische Betreuung zur Krisenintervention“

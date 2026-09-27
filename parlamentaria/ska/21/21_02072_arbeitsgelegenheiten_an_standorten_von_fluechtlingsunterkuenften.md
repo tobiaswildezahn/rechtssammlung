@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1991", "20/12288", "21/2047"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50319"
@@ -47,7 +48,7 @@ Werden am Standort der Flüchtlingsunterkunft Schnackenburgallee Ein- Euro-Jobbe
 
 Werden über Frage 1. hinaus in den restlichen Flüchtlingsunterkünften Ein-Euro-Jobber beispielsweise im Bereich Kleiderkammer oder Essensausgabe als „Alltagshelfer“ eingesetzt? Wenn ja, bitte alle Stellen und Tätigkeiten nach Standorten, Trägern und Stundenzahl auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nach Auskunft von Jobcenter gibt es kein bewilligtes Stellenprofil für eine Arbeitsgelegenheit (AGH) nach § 16 d Sozialgesetzbuch (SGB) Zweites Buch (II) in der Schnackenburgallee oder weiteren Flüchtlingsunterkünften.
 
@@ -77,7 +78,7 @@ Drohen den Bezieher/-innen von Arbeitslosengeld II Sanktionen, wenn Sie die Arbe
 
 Wie bewertet der Senat, dass Ein-Euro-Jobber keine entsprechenden Traumata-Schulungen oder Superversion erhalten, wenn sie als „Alltagshelfer“ in den Flüchtlingszentren eingesetzt werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Entfällt, siehe Antwort zu 1. und 2.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57483"
@@ -56,7 +57,7 @@ An welchen Lehrstühlen und Fakultäten welcher Hamburger Universitäten und Hoc
 
 Welche der genannten Lehrstühle und Fakultäten welcher Hamburger Universitäten und Hochschulen kooperierten im Bereich Elektromobilität im Bereich Elektromobilität untereinander und bei welchen konkreten Projekten beziehungsweise seit wann? Bitte detailliert auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 
@@ -90,7 +91,7 @@ b) wie viele Drittmittel aus der Wirtschaft und vom wem? Bitte differenziert nac
 
 Welche der unter 1. bis 3. genannten Forschungsbereiche oder -projekte benötigen bis 2020 eine Anschlussfinanzierung? Welche der genannten Projekte benötigen nach 2020 (wann genau) eine Anschlussfinanzierung? Bitte je Projekt die Höhe der nach derzeitigem Stand benötigten Anschlussfinanzierung sowie die geplanten Finanzierungsquellen darstellen.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Anlage 4.
 
@@ -102,7 +103,7 @@ Wie viele Patente sind seit 2011 aus den unter 1. bis 3. genannten Forschungsber
 
 Wie viele Ausgründungen sind seit 2011 aus den unter 1. Bis 3. genannten Forschungsbereichen oder -projekten entstanden? Bitte die Namen der ausgegründeten Unternehmen, Gründungsjahr sowie Gründungsuniversität beziehungsweise Hochschule angeben.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Anlage 5.
 
@@ -1330,17 +1331,17 @@ Hamburg gefördert vom
 
 BMVI)
 
- D&K drost consult
+– D&K drost consult
 
 GmbH
 
- GfG Hoch-Tief-Bau
+– GfG Hoch-Tief-Bau
 
 GmbH & Co. KG
 
- hySOLUTIONS GmbH
+– hySOLUTIONS GmbH
 
- Starcar GmbH
+– Starcar GmbH
 
 Kraftfahrzeug-
 
@@ -1387,7 +1388,7 @@ Research (gefördert
 
 vom BMVI)
 
- hySOLUTIONS GmbH
+– hySOLUTIONS GmbH
 
 2014 Keine Entfällt
 
@@ -1417,13 +1418,13 @@ Kooperation in der
 
 Elektromobilität
 
- Flughafen Hamburg
+– Flughafen Hamburg
 
 GmbH
 
- hySolutions GmbH
+– hySolutions GmbH
 
- Verkehrsbetriebe
+– Verkehrsbetriebe
 
 Hamburg-Holstein AG
 
@@ -1435,7 +1436,8 @@ Shenzen 2014
 
 HAW TI Elektrotechnik
 
-und Sensorik Analyse E-Mobilität  LBV /Landesbetrieb
+und Sensorik Analyse E-Mobilität
+– LBV /Landesbetrieb
 
 Verkehr  
 2017  
@@ -1481,45 +1483,45 @@ technik
 
 e-mobility nsr
 
- FDT – Association of
+– FDT – Association of
 
 Danish Transports and
 
 Logistic Centres
 
- WFB –
+– WFB –
 
 Wirtschaftsförderung
 
- HØje-Taastrup
+– HØje-Taastrup
 
 Kommune
 
- Province of North
+– Province of North
 
 Holland
 
- Zero Emission
+– Zero Emission
 
 Resource Organisation
 
- TransEnergy
+– TransEnergy
 
 1.10.2011
 
- Northumbria Univ.
+– Northumbria Univ.
 
 Newcastle
 
- Univ. Gent
+– Univ. Gent
 
- Univ. Delft
+– Univ. Delft
 
- Lindholmen Science
+– Lindholmen Science
 
 Park AB
 
- Cities institute
+– Cities institute
 
 1.10.2011
 
@@ -1884,11 +1886,11 @@ hySOLUTIONS
 
 GmbH
 
- HAW
+– HAW
 
 Hamburg
 
- Universität
+– Universität
 
 Hamburg
 
@@ -1928,15 +1930,15 @@ der
 
 Elektromobilität
 
- Flughafen
+– Flughafen
 
 Hamburg GmbH
 
- hySolutions
+– hySolutions
 
 GmbH
 
- Verkehrsbetriebe
+– Verkehrsbetriebe
 
 Hamburg-
 
@@ -2044,7 +2046,7 @@ EU-Projekt,
 
 INTERREG NSR
 
- FDT –
+– FDT –
 
 Association of
 
@@ -2054,45 +2056,45 @@ Transports and
 
 Logistic Centres
 
- WFB –
+– WFB –
 
 Wirtschafts-
 
 förderung
 
- HØje-Taastrup
+– HØje-Taastrup
 
 Kommune
 
- Province of
+– Province of
 
 North Holland
 
- Zero Emission
+– Zero Emission
 
 Resource
 
 Organisation
 
- TransEnergy
+– TransEnergy
 
- Northumbri
+– Northumbri
 
 a Univ.
 
 Newcastle
 
- Univ. Gent
+– Univ. Gent
 
- Univ. Delft
+– Univ. Delft
 
- Lindholme
+– Lindholme
 
 n Science
 
 Park AB
 
- Cities
+– Cities
 
 institute
 

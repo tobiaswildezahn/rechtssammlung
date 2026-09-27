@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/4025"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50761"
@@ -104,7 +105,7 @@ Wurde diese Sonderregelung für afghanische Flüchtlinge auch in anderen Bundesl
 
 Wann wurde diese andernorts wieder abgeschafft?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Auf Nachfrage der zuständigen Behörde haben die Länder Bayern, Brandenburg, Bremen, Hessen, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland, Sachsen und Sachsen-Anhalt und Thüringen mitgeteilt, dass dort hierzu keine gesonderten Regelungen bestehen. Bremen hat hierzu ergänzend mitgeteilt, dass auch dort der Anwendungsbereich des § 25 Absatz 5 AufenthG bei afghanischen Staatsangehörigen als eröffnet angesehen wird.
 

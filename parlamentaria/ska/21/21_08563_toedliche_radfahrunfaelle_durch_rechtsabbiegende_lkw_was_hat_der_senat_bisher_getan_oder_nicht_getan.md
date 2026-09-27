@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8473", "21/4975", "18/11297"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57287"
@@ -65,21 +66,21 @@ Die Fahrradstaffel der Polizei führt regelmäßig zielgerichtete Überwachungsm
 
 Im Bereich der polizeilichen Verkehrserziehung und -prävention steht der Schutz schwächerer Verkehrsteilnehmer in einem besonderen Fokus; mit umfasst sind ebenfalls Konfliktsituation im Kontext der Anfrage. Hierzu hat die Polizei insbesondere folgende Maßnahmen durchgeführt:
 
- Einsatz von Verkehrslehrern der Polizei:
+– Einsatz von Verkehrslehrern der Polizei:
 
 55 Verkehrslehrer der Polizei verwirklichen zusammen mit fünf Jugendverkehrsschulen die Radfahrausbildung in den 3. und 4. Klassen. In den 4. Klassen wird der sogenannte Fahrradführerschein abgelegt und dabei das Thema des nur über die Fahrzeugspiegel einsehbaren Bereichs, dem so bezeichneten „toten Winkel“ in Theorie und Praxis behandelt.
 
 Des Weiteren gibt es Fahrradprojekte in den 5. und 6. Klassen, bei denen Verkehrslehrer das Thema „toter Winkel“ in der Praxis aufgreifen. Mit Hilfsmitteln wird der nicht direkt einsehbare Bereich rund um einen Lkw simuliert. Die Schüler erleben aus Sicht des Lkw-Fahrers die Problematik und werden für das Thema „Gefahren beim Abbiegen“ sensibilisiert.
 
- Aktion „Fahrradfuchs“ – ein Verkehrssicherheitstraining für junge Radfahrer der Klassen 2. bis 4.:
+– Aktion „Fahrradfuchs“ – ein Verkehrssicherheitstraining für junge Radfahrer der Klassen 2. bis 4.:
 
 Seit Anfang 2017 ist die Aktion „Fahrradfuchs“ fester Bestandteil der Verkehrssicherheitsarbeit der Polizei. Analog zur Aktion „Verkehrsfuchs“ bieten Verkehrslehrer kostenlose Wochenkurse in den Schulferien an. Sie führen Kinder schrittweise an Verkehrssituationen heran und üben richtige Verhaltensweisen im Straßenverkehr.
 
- Präventionsaktion „Tod im Winkel“:
+– Präventionsaktion „Tod im Winkel“:
 
 Am 27. Oktober 2016 fand in der Straße Kurze Mühren angrenzend an die Mönckebergstraße eine Präventionsaktion statt, bei der mit einem Lkw der Polizei und einer Plane, die den möglichen „toten Winkel“ darstellte, Passanten für die damit verbundenen Gefahren sensibilisiert werden sollten. Die Aktion wurde von der Presse begleitet und anschließend auch medial thematisiert.
 
- Vorstellung Kamera-Monitor-Systeme und Farbmarkierungen zum Einstellen der
+– Vorstellung Kamera-Monitor-Systeme und Farbmarkierungen zum Einstellen der
 
 Spiegel:
 

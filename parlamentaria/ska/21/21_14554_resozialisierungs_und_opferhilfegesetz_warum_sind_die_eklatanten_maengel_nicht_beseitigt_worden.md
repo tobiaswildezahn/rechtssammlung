@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 12
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14116", "20/10994"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63984"
@@ -56,7 +57,7 @@ Inwieweit ist eine Rechtsförmlichkeitsprüfung von der zuständigen Behörde vo
 
 Sind Vorschläge aus den parlamentarischen Zusatzanträgen in das Resozialisierungs- und Opferhilfegesetz eingeflossen? a. Wenn ja, welche aus welchem Antrag und warum? b. Wenn ja, welche Vorschläge sind aus dem Antrag der FDP-Bürgerschaftsfraktion gemäß Drs. 21/14116 vom 21.08.2018 in das Resozialisierungs- und Opferhilfegesetz übernommen worden? c. Wenn nein, warum sind insbesondere die Vorschläge zu gesetzlichen Anpassungen zum Opferschutz gemäß des Antrages der FDP- Bürgerschaftsfraktion (Drs. 21/14116) nicht übernommen worden? d. Was wurde bisher hinsichtlich der Ankündigung vom 22.08.2018, „etwas zum Thema Opferschutzbeauftragten unternehmen zu wollen“, wie umgesetzt beziehungsweise geplant umzusetzen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -68,17 +69,17 @@ Welche weiteren Schritte in der Umsetzung des Hamburgischen Resozialisierungs- u
 
 Unter den an den Aufgaben der am Resozialisierungsprozess beteiligten und im Gesetz benannten Stellen findet bereits ein Austausch statt, um die Umsetzung aller gesetzlichen Neuerungen vorzubereiten. Dies betrifft beispielsweise die Einführung des integrierten Übergangsmanagements mit einem individuellen Eingliederungsplan. Zur Umsetzung des HmbResOG wurden bereits unter Beteiligung der zuständigen Behörden/Dienststellen folgende Maßnahmen ergriffen:
 
- Zur Abstimmung von Verfahrensabläufen sowie technischer und organisatorischer
+– Zur Abstimmung von Verfahrensabläufen sowie technischer und organisatorischer
 
 Rahmenbedingungen gab es bereits ein erstes Arbeitstreffen, ein Fachaustausch zur Überprüfung von Modifizierungsbedarfen am Eingliederungsplan ist angesetzt.
 
 Weitere Termine zur Umsetzung des HmbResOG befinden sich in der Vorbereitung.
 
- Die Fachstelle Übergangsmanagement im Bezirksamt Eimsbüttel, Fachamt Straf-
+– Die Fachstelle Übergangsmanagement im Bezirksamt Eimsbüttel, Fachamt Straf-
 
 fälligen- und Gerichtshilfe, wird um vier Stellen „Sozialarbeiter/innen im Übergangsmanagement“ aufgestockt. Das Bewerbungsverfahren läuft. Es ist geplant, die Stellen zum 01.01.2019 zu besetzen und die Leitungsstelle der Fachstelle Übergangsmanagement entsprechend aufzustocken.
 
- Das Interessenbekundungsverfahren zur Beteiligung freier Träger an den Aufga-
+– Das Interessenbekundungsverfahren zur Beteiligung freier Träger an den Aufga-
 
 ben des Übergangsmanagements befindet sich in Vorbereitung.
 

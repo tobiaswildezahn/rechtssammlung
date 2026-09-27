@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9031", "21/9308", "21/11394", "21/5333"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60687"
@@ -47,7 +48,7 @@ Wie viele Ausländer, die zuvor in der Bundesrepublik Antrag auf Asyl gestellt h
 
 Wie viele Ausländer mit Duldungsstatus und wie viele Ausländer mit nicht abgeschlossenen Asylverfahren leben derzeit in der Anlage?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es werden 54 Wohneinheiten genutzt (Stand: 31.12.2017). Im Übrigen siehe Drs. 21/9308 und 21/11394.
 

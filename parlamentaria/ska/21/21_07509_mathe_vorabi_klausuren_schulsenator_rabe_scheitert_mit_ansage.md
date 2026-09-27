@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 20
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/904", "21/5701", "21/5962", "21/2874", "21/5731", "21/7504"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56110"
@@ -133,7 +134,7 @@ Wenn der zuständigen Behörde klar war, dass Mathe-Aufgaben auf dem neuen Abitu
 
 Wie wurden die Schüler, die demnächst erstmals am Bundeszentralabitur teilnehmen, in den letzten eineinhalb Jahren auf die neuen Prüfungsformen, -themen und -niveaus vorbereitet?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 
@@ -161,7 +162,7 @@ Wann hat die zuständige Behörde das Ausmaß des schlechten Abschneidens erkann
 
 Wer hat wann entschieden, sämtliche Noten pauschal um 3 Punkte anzuheben?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/7504.
 

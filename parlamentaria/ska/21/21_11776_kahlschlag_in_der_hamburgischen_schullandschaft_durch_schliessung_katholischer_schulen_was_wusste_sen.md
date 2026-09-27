@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 21
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61014"
@@ -83,21 +84,21 @@ Mizdalski,
 Frau Hutmacher
 
 Themen:  
-  
+–  
 Vorstellung von Frau Hutmacher als Leitung des Referats Schulaufsicht und  
 schulfachliche Beratung im  
 Erzbistum.  
-  
+–  
 Neuorganisation der Abteilung Schule und Hochschule  
 im Erzbistum  
-  
+–  
 Vorbereitungsdienst in kath.  
 Religion für Sekundarstufe II  
-  
+–  
 kath. Religionslehrkräfte im  
 Religionsunterricht für alle in  
 ev. Verantwortung (Diskussion zukünftige Beschlussvorlage)  
-  
+–  
 Finanzierung Kernpraktikum  
 07.12.2017  
 Treffen  

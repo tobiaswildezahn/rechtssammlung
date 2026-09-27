@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 9
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5237", "21/13219", "21/13339"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62796"
@@ -51,7 +52,7 @@ Ziel des Integrationsfonds war es, „dauerhaft tragfähige, nachhaltige Struktu
 
 Da über den Integrationsfonds viele Integrationsprojekte finanziert wurden, finden sich darunter die verschiedensten Projekt, von denen einige durchaus als Erfolg zu werten sind, bei anderen hingegen der Erfolg nicht sofort ersichtlich ist. Plant der Senat eine Auswertung der geförderten Integrationsprojekte? Wenn ja, zu wann? Und gibt es bereits Pläne, wie die Fortführung erfolgreicher Projekte realisiert werden soll? Wenn nein, warum ist eine Auswertung nicht geplant beziehungsweise auf welcher Grundlage wird entschieden, ob ein Projekt weiterhin finanzielle Unterstützung erfahren soll oder nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Mit den im Rahmen des Integrationsfonds zur Verfügung gestellten Mitteln wurden und werden Vorhaben von zumeist ehrenamtlich getragenen Initiativen der Flüchtlingshilfe rund um die Unterkünfte unterstützt, die sich an den jeweiligen Bedarfen der Nachbarschaften der Unterkünfte orientieren. Die so gestärkten Strukturen tragen einerseits zur Entlastung und Unterstützung der Regelsysteme und andererseits zur besseren Nutzbarkeit der Regelsysteme durch die Geflüchteten bei. Damit dient der Integrationsfonds als Ganzes dem Ziel dauerhaft tragfähiger, nachhaltiger Strukturen in den Regelsystemen des gesellschaftlichen Zusammenlebens.
 

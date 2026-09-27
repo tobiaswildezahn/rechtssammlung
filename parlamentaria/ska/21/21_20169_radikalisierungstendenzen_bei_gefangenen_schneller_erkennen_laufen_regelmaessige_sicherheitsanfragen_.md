@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/20038", "21/18219"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69942"
@@ -69,7 +70,7 @@ Was umfasst die besondere Beobachtung?
 
 Inwiefern werden hierbei Trennungen oder sonstige Einschränkungen vorgenommen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine Beobachtung umfasst das Sammeln und Auswerten von Informationen. Zur besonderen Beobachtung werden unterschiedlich intensive Maßnahmen gezählt. Dazu gehören unter anderem häufigere, unregelmäßige Haftraumrevisionen, Überprüfung der Kontobewegungen, der Besuchs-, Telefon- und Briefkontakte sowie eine erhöhte Aufmerksamkeit im Hinblick auf Äußerungen und Verhalten der Person in unterschiedlichen Sozialkontexten.
 

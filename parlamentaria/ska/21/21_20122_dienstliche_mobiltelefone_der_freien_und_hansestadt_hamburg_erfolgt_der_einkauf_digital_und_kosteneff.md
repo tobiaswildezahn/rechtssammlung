@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 15
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17881"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69898"
@@ -47,7 +48,7 @@ Drs. 21/17881 ist zu entnehmen, dass Dataport im Mai 2018 einen Rahmenvertrag mi
 
 Wie stellen der Senat beziehungsweise die zuständigen Behörden sicher, dass bei der Beschaffung von Geräten der geringstmögliche Einkaufspreis gezahlt wird? a. Liegen dem Senat Erkenntnisse vor, dass die vom Vertragspartner beschafften Geräte über dem Kaufpreis zum Beispiel direkt beim Hersteller liegen? b. Können Mitarbeiter beziehungsweise Einkaufsabteilungen der Freien und Hansestadt Hamburg eigenständig genehmigte Mobiltelefone digital einkaufen und sind dabei frei in der Wahl des Verkäufers (beispielsweise beim Hersteller direkt, Amazon et cetera), um den geringstmöglichen Kaufpreis sicherzustellen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Mobiltelefone werden in der Regel über öffentliche Ausschreibungen über Dataport beschafft. Im Rahmen der Ausschreibungsregeln können einzelne Aufträge ausnahmsweise auch unabhängig davon vergeben werden, um zum Beispiel spezielle Anforderungen umzusetzen. Neben dem Gerätepreis sind auch dazugehörige notwendige Dienstleistungen und Prozesse (zum Beispiel Support) sowie lieferlogistische Aspekte (zum Beispiel Rabatte bei Großbestellungen, verabredete Lieferzeiten) Gegenstand der Ausschreibung und zu berücksichtigen. Deshalb unterscheidet sich der Einkaufspreis pro Mobiltelefon aus den Ausschreibungen vom reinen Gerätepreis der Hersteller pro Mobiltelefon. Der Zuschlag geht dabei an das wirtschaftlichste Angebot. Seit Mai 2018 liefert die Firma Bechtle GmbH die Mobiltelefone, davor war die Firma Omnicoron der Vertragspartner von Dataport. Die Laufzeit des bestehenden Rahmenvertrages mit der Firma Bechtle GmbH kann aus vergaberechtlichen Gründen nicht mehr verlängert werden.
 
@@ -75,29 +76,29 @@ Wird Zubehör für die Mobiltelefone, insbesondere Schutzhüllen, ebenfalls übe
 
 Zubehör für Mobiltelefone wird sowohl über den Vertragspartner wie auch durch Direktkäufe beschafft. Es handelt sich dabei unter anderem um die nachstehenden Firmen:
 
- Amazon.de
+– Amazon.de
 
- Apple
+– Apple
 
- Bechtle GmbH
+– Bechtle GmbH
 
- Conrad Electronic SE
+– Conrad Electronic SE
 
- Cyberport.de
+– Cyberport.de
 
- Jacob.de
+– Jacob.de
 
- Media Markt
+– Media Markt
 
- Mercateo.com
+– Mercateo.com
 
- notebooksbilliger.de
+– notebooksbilliger.de
 
- Re-In Retail International GmbH
+– Re-In Retail International GmbH
 
- Saturn
+– Saturn
 
- Schutzfolien24.de
+– Schutzfolien24.de
 
 ### Frage 6
 

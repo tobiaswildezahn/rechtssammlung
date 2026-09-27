@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4537", "21/15827"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66520"
@@ -109,6 +110,6 @@ Welche konkreten baulichen Maßnahmen hat die zuständige Fachbehörde seit 2011
 
 Was plant die zuständige Fachbehörde für eine Erhöhung der Verkehrssicherheit in der Straße Gnadenbergweg in den nächsten Jahren zu tun?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Der Gnadenbergweg ist aus Sicht des Wegebaulastträgers als sehr unauffällig einzustufen, daher wurden keine Maßnahmen zur Erhöhung der Verkehrssicherheit durchgeführt. Ebenfalls sind aus den genannten Gründen keine weiteren Maßnahmen geplant. Im Übrigen siehe Antwort zu 4. bis 6.

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53583"
@@ -65,7 +66,7 @@ Sind dem Senat die Probleme vieler Hafenbetriebe mit den Telefon- und Internetle
 
 In welchen Bereichen im Hamburger Hafen kommt es für Betriebe zu Problemen mit veralteten Telefon- und Internetleitungen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der zuständigen Behörde und der HPA sind zwei Unternehmen bekannt, die nach eigenen Angaben betroffen sind. Die Unternehmen befinden sich in den Bereichen Altenwerder und Steinwerder. Im Übrigen siehe Antwort 7. und 8.
 
@@ -93,7 +94,7 @@ Welche Bemühungen hat der Senat in der Vergangenheit unternommen, um die marode
 
 Inwiefern plant der Senat, auf Telekommunikationsunternehmen in der Zukunft zuzugehen, um über mögliche Investitionen in einen Leitungsausbau zu verhandeln?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Analog zu vergleichbaren Fällen wird die zuständige Behörde prüfen, welche Handlungsspielräume bestehen. Im Übrigen siehe Vorbemerkung.
 

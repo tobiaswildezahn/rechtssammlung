@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 22
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65013"
@@ -33,23 +34,23 @@ Anfang Dezember hat eine von der Behörde für Schule und Berufsbildung (BSB) be
 
 Die Expertenkommission schlägt unter anderem vor:
 
-• Klarere Lehrpläne: Die Bildungspläne für das Fach Mathematik sollten weiterentwickelt werden. Für alle Schulklassen soll zudem ein klar formulierter und verbindlicher Kern-Lehrplan entwickelt werden, der bestimmte Fachinhalte verbindlich stellt. Denkbar wäre auch, in Anlehnung an Niedersachsen oder Nordrhein-Westfalen, die gleichen Schulbücher zu verwenden.
+– Klarere Lehrpläne: Die Bildungspläne für das Fach Mathematik sollten weiterentwickelt werden. Für alle Schulklassen soll zudem ein klar formulierter und verbindlicher Kern-Lehrplan entwickelt werden, der bestimmte Fachinhalte verbindlich stellt. Denkbar wäre auch, in Anlehnung an Niedersachsen oder Nordrhein-Westfalen, die gleichen Schulbücher zu verwenden.
 
-• Mehr Unterrichtszeit: Die Experten begrüßen die bereits eingeleitete Erhöhung der Mathematik-Unterrichtsstunden in den Klassen 5 – 8 der Stadtteilschulen. Sie regen zudem an, auch in der elften Jahrgangsstufe der Stadtteilschulen mehr Mathematikunterricht zu erteilen, um den großen Leistungsunterschied zu den Gymnasien auszugleichen. An den Grundschulen müsse verlässlich sichergestellt werden, dass die durchschnittlich 5,25 Unterrichtswochenstunden Mathematik in den Klassenstufen 1 bis 4 auch verlässlich unterrichtet werden.
+– Mehr Unterrichtszeit: Die Experten begrüßen die bereits eingeleitete Erhöhung der Mathematik-Unterrichtsstunden in den Klassen 5 – 8 der Stadtteilschulen. Sie regen zudem an, auch in der elften Jahrgangsstufe der Stadtteilschulen mehr Mathematikunterricht zu erteilen, um den großen Leistungsunterschied zu den Gymnasien auszugleichen. An den Grundschulen müsse verlässlich sichergestellt werden, dass die durchschnittlich 5,25 Unterrichtswochenstunden Mathematik in den Klassenstufen 1 bis 4 auch verlässlich unterrichtet werden.
 
-• Mehr Klassenarbeiten: Die Experten fordern, dass ab Klasse 3 bis zum Abitur in jedem Schuljahr verbindlich vier Klassenarbeiten geschrieben werden. Diese Klassenarbeiten dürfen nicht durch andere Leistungen wie zum Beispiel längere Hausarbeiten oder Referate ersetzt werden. Solche Leistungen sollen künftig dennoch zusätzlich ermöglicht werden.
+– Mehr Klassenarbeiten: Die Experten fordern, dass ab Klasse 3 bis zum Abitur in jedem Schuljahr verbindlich vier Klassenarbeiten geschrieben werden. Diese Klassenarbeiten dürfen nicht durch andere Leistungen wie zum Beispiel längere Hausarbeiten oder Referate ersetzt werden. Solche Leistungen sollen künftig dennoch zusätzlich ermöglicht werden.
 
-• Veränderte Leistungsbewertung: Mündliche und schriftliche Leistungen in Mittel- und Oberstufe sollten künftig in der Benotung gleich gewichtet werden.
+– Veränderte Leistungsbewertung: Mündliche und schriftliche Leistungen in Mittel- und Oberstufe sollten künftig in der Benotung gleich gewichtet werden.
 
-• Die Zeit vor der Schule besser nutzen: Die Experten fordern, bereits vor der Schule in Vorschule oder Kita die Kinder gezielt mathematisch zu fördern. Für die Vorschule sollte ein Kernlehrplan entwickelt werden. Erstmals sollten auch Mathematik-Grundschullehrkräfte in die mathematische Förderung in den Vorschulklassen eingebunden werden.
+– Die Zeit vor der Schule besser nutzen: Die Experten fordern, bereits vor der Schule in Vorschule oder Kita die Kinder gezielt mathematisch zu fördern. Für die Vorschule sollte ein Kernlehrplan entwickelt werden. Erstmals sollten auch Mathematik-Grundschullehrkräfte in die mathematische Förderung in den Vorschulklassen eingebunden werden.
 
-• Regelmäßige Lernstandsuntersuchungen: Die regelmäßigen KERMIT- Testungen sollen noch stärker für eine gezielte Unterrichtsentwicklung und Förderung genutzt werden. Darüber hinaus soll ein neuer computerbasierter, online-gestützter „Diagnose-Test“ entwickelt werden, mit dem Lehrkräfte genau erkennen können, welche mathematischen Stärken und Schwächen ein Schüler hat. Der Diagnose-Test soll helfen, individuelle Fördermaßnahmen besser abzustimmen.
+– Regelmäßige Lernstandsuntersuchungen: Die regelmäßigen KERMIT- Testungen sollen noch stärker für eine gezielte Unterrichtsentwicklung und Förderung genutzt werden. Darüber hinaus soll ein neuer computerbasierter, online-gestützter „Diagnose-Test“ entwickelt werden, mit dem Lehrkräfte genau erkennen können, welche mathematischen Stärken und Schwächen ein Schüler hat. Der Diagnose-Test soll helfen, individuelle Fördermaßnahmen besser abzustimmen.
 
-• Begabtenförderung: Zur Förderung von leistungsstarken Schülerinnen und Schülern sollen die bestehenden außerunterrichtlichen Förderangebote insbesondere in Mittel- und Oberstufe ausgeweitet und besser mit dem Unterricht verzahnt werden. Zudem sollen mehr Angebote für bislang unterrepräsentierte Gruppen (Mädchen sowie sozial und kulturell benachteiligte Schülerinnen und Schüler) entwickelt werden. Spätestens ab Klasse 8 sollten Schülerinnen und Schüler an Stadtteilschulen, die in die gymnasiale Oberstufe wechseln werden, speziell gefördert werden.
+– Begabtenförderung: Zur Förderung von leistungsstarken Schülerinnen und Schülern sollen die bestehenden außerunterrichtlichen Förderangebote insbesondere in Mittel- und Oberstufe ausgeweitet und besser mit dem Unterricht verzahnt werden. Zudem sollen mehr Angebote für bislang unterrepräsentierte Gruppen (Mädchen sowie sozial und kulturell benachteiligte Schülerinnen und Schüler) entwickelt werden. Spätestens ab Klasse 8 sollten Schülerinnen und Schüler an Stadtteilschulen, die in die gymnasiale Oberstufe wechseln werden, speziell gefördert werden.
 
-• Förderung von schwächeren Schülern: Für Schülerinnen und Schüler mit mathematischen Schwierigkeiten sollten die bestehenden außerunterrichtlichen Förderangebote ausgebaut, stärker durch qualifiziertes Personal organisiert und besser mit dem Regelunterricht verknüpft werden.
+– Förderung von schwächeren Schülern: Für Schülerinnen und Schüler mit mathematischen Schwierigkeiten sollten die bestehenden außerunterrichtlichen Förderangebote ausgebaut, stärker durch qualifiziertes Personal organisiert und besser mit dem Regelunterricht verknüpft werden.
 
-• Fortbildungen für Lehrkräfte: Die Fortbildungen sollen insbesondere für Lehrkräfte an weiterführenden Schulen intensiviert werden. Auch bei der Aus- und Fortbildung frühpädagogischer Fachkräfte (Kita, Vorschule) sollten mathematikdidaktische Inhalte gestärkt werden. Es soll ein umfassendes, zusammenhängendes und langfristig angelegtes Fortbildungskonzept zum Mathematikunterricht entwickelt werden, bei dem wissenschaftliche Erkenntnisse zur Gestaltung und Evaluation von Fortbildungsmaßnahmen berücksichtigt werden. Angesichts des zunehmenden Lehrermangels in Deutschland sollte zudem ein Programm zur Qualifizierung von Quer- und Seiteneinsteigern entwickelt werden.
+– Fortbildungen für Lehrkräfte: Die Fortbildungen sollen insbesondere für Lehrkräfte an weiterführenden Schulen intensiviert werden. Auch bei der Aus- und Fortbildung frühpädagogischer Fachkräfte (Kita, Vorschule) sollten mathematikdidaktische Inhalte gestärkt werden. Es soll ein umfassendes, zusammenhängendes und langfristig angelegtes Fortbildungskonzept zum Mathematikunterricht entwickelt werden, bei dem wissenschaftliche Erkenntnisse zur Gestaltung und Evaluation von Fortbildungsmaßnahmen berücksichtigt werden. Angesichts des zunehmenden Lehrermangels in Deutschland sollte zudem ein Programm zur Qualifizierung von Quer- und Seiteneinsteigern entwickelt werden.
 
 Im Fazit beurteilt der frühere Bildungs-Staatsekretär Burkhard Jungkamp, Moderator der Expertenkommission, die Empfehlungen als „gut begründet und auch realisierbar“.
 
@@ -121,7 +122,7 @@ Wie geht der Senat mit der Erkenntnis um, dass Bildungspläne unter den Schulen 
 
 Wie geht der Senat mit der Erkenntnis um, dass Bildungspläne klarer in ihren Aussagen und einen verbindlicheren Kern-Inhalt enthalten sollen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Bildungspläne werden für die im Hamburgischen Schulgesetz festgelegten Schulformen und Bildungsgänge und nicht für einzelne Schulen erlassen. Im Übrigen siehe Vorbemerkung.
 

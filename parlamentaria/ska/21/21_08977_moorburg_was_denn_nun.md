@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57720"
@@ -48,7 +49,7 @@ Wie sind die unterschiedlichen Aussagen von Umweltbehörde und Umweltsenator üb
 
 Für den Fall, dass es noch keine Entscheidung für konkrete Konsequenzen für den Betrieb des Kohlekraftwerks Moorburg gibt: Bis wann ist damit zu rechnen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Urteil des Europäischen Gerichtshofs (EuGH) zum Kraftwerk Moorburg wird derzeit in Abstimmung mit den zuständigen Stellen des Bundes sorgfältig geprüft und so schnell wie möglich umgesetzt. Das Verfahren zur Aufhebung des sofortigen Vollzuges der wasserrechtlichen Erlaubnis zur Durchlaufkühlung ist eingeleitet. Nach derzeitiger Lage kann davon ausgegangen werden, dass nach Abschluss dieses Verfahrens das Kraftwerk in der Folge zunächst nur mit dem Kühlturm weiterbetrieben werden kann.
 

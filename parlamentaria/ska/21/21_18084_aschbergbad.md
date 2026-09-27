@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 21
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67706"
@@ -85,7 +86,7 @@ Das Bezirksamt Hamburg-Mitte hat wiederholt geäußert, dass das Freibad Aschber
 
 Wurden im Rahmen der aktuellen Konzeption auch Varianten geprüft, die einen Erhalt des Freibads Aschberg ermöglichen? Wenn ja, welche Varianten waren Bestandteil der Überlegungen? Wenn nein, warum wurden keine Varianten geprüft?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 In der 45. Sitzung des Quartiersbeirats Osterbrook am 20. Februar 2017 wurde seitens des zuständigen Bezirksamts die Frage, ob das Aschbergbad geschlossen werden soll, verneint. In der gleichen Sitzung wurde aber bereits von ersten Überlegungen zum Umbau des Aschbergbades und zur möglichen Umstrukturierung des Freibadgeländes berichtet.
 
@@ -119,7 +120,7 @@ In den Planungen vorgesehen ist ein sogenannter Wasserspielplatz von 800 qm. Wie
 
 Wie groß in qm ist die geplante Liegefläche im Quartiersbad?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Nach derzeitigem Stand sind knapp 6 000 m² als Liegefläche vorgesehen. Im Übrigen sind die Planungen noch nicht abgeschlossen, siehe dazu auch Antwort zu 7.
 

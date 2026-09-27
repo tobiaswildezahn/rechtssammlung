@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13160", "21/14633", "21/15374"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67287"
@@ -55,7 +56,7 @@ Wie viele rechtskräftige angeordnete Einziehungsentscheidungen nach §§ 73 for
 
 In welcher (Teil-)Höhe konnten diese jeweiligen Einziehungsentscheidungen jeweils bis zum heutigen Tag vollstreckt werden? Bitte Aufschlüsselung wie in Frage 1.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die im Folgenden verwendeten Zahlen stammen aus dem Vorgangs- und Vorgangserfassungssystem MESTA. Diese Auswertungen werten immer den aktuellen Datenbestand aus. Die Reproduktion früherer Auswertungen ist immer nur näherungsweise möglich, da sich der Datenbestand nachträglich verändern kann.
 
@@ -91,7 +92,7 @@ Gemäß § 111b StPO kann die Beschlagnahme angeordnet werden, wenn die Annahme 
 
 Gemäß § 111e StPO kann der Vermögensarrest angeordnet werden, wenn die Annahme begründet ist, dass die Voraussetzungen der Einziehung von Wertersatz vorliegen. In wie vielen Fällen mit jeweils welchen Summen wurde seit dem 1. Juli 2017 jährlich der Vermögensarrest angeordnet?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die für die Beantwortung der Frage erforderlichen Daten werden bei der Staatsanwaltschaft statistisch nicht erfasst. Eine händische Auswertung aller Ermittlungsverfahren (rund 160 000 je Jahr) ist in der für die Beantwortung Parlamentarischer Anfragen zur Verfügung stehenden Zeit nicht möglich.
 

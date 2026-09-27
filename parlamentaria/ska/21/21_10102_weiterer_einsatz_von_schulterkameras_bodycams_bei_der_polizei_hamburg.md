@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 13
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/762", "21/8737"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58926"
@@ -71,7 +72,7 @@ Wie viele Bodycams besitzt die Hamburger Polizei seit wann und welche weiteren A
 
 Wie haben sich die Beschaffungs- und Einsatzkosten der Bodycams entwickelt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Polizei verfügt aktuell über acht Bodycams.
 
@@ -112,7 +113,7 @@ In wie vielen Fällen jeweils welchen Delikts seit Juni 2015 bis heute (Stichtag
 
 In wie vielen Gerichtsverfahren zu welchen Delikten konnten die Videoaufnahmen als Beweismittel genutzt werden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Beantwortung der Frage ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Die Polizei hat für den erfragten Zeitraum 24 Vorgänge händisch als relevant im Sinne der Fragestellung ausgewertet. Ein Anspruch auf Vollständigkeit kann damit nicht gewährleistet werden. Die von der Polizei Hamburg ermittelten Aktenzeichen zu den 24 Verfahren müssten zunächst durch die Staatsanwaltschaft dortigen Vorgängen zugeordnet werden. Eine Beantwortung der Fragen allein anhand der im Vorgangsverwaltungs- und Vorgangsbearbeitungssystem der Staatsanwaltschaft (MESTA) gespeicherten Daten wäre dabei nicht ausreichend. Vielmehr müssten sämtliche in Rede stehenden Akten angefordert und im Hinblick auf den Verfahrensgang durchgesehen und ausgewertet werden. Dies betrifft zum einen eine Bewertung der Ermittlungen bis zum Abschluss des Verfahrens durch die Staatsanwaltschaft, zum anderen auch die Auswertung von Hauptverhandlungsprotokollen und Urteilen im Hinblick auf die im gerichtlichen Verfahren ausgeschöpften Beweismittel. Eine erschöpfende Beantwortung der Fragen ist bereits allein aufgrund des hiermit verbundenen Arbeitsaufwandes in dem geforderten zeitlichen Rahmen nicht möglich. Hinzu kommt, dass sich die 24 Vorgänge in diversen Geschäftsgängen befinden, sodass eine zeitnahe Beiziehung auch nicht zu erreichen wäre.
 

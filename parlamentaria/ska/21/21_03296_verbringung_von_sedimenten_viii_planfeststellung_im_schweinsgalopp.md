@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51657"
@@ -58,11 +59,11 @@ Welche konkreten Unterlagen mussten an die zuständigen Behörden in Kiel gesend
 
 Es wurden folgende Anträge eingereicht:
 
- Antrag auf wasserwirtschaftliches Einvernehmen und naturschutzfachliches
+– Antrag auf wasserwirtschaftliches Einvernehmen und naturschutzfachliches
 
 Benehmen für die Verbringung von Sediment aus der hamburgischen Delegationsstrecke (Norderelbe, Köhlbrand, Süderelbe) und
 
- Antrag auf wasserrechtliche Erlaubnis und naturschutzrechtliche Genehmigung für
+– Antrag auf wasserrechtliche Erlaubnis und naturschutzrechtliche Genehmigung für
 
 die Verbringung von Sediment aus den Landeshafengewässern (Zufahrten und Hafenbecken).
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 18
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9142", "21/7878"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58383"
@@ -49,7 +50,7 @@ Bei der Variante 6 müssen die Busse der Linie 6 zunächst zur Kreuzung Südring
 
 Wie ist dies mit den Zielsetzungen des vom rot-grünen Senat betriebenen Busbeschleunigungsprogramms vereinbar?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Verlegung der Ein- und Ausstiegshaltestelle vor den Eingang der U-Bahnhaltestelle ist ein wesentlicher Bestandteil der im Beteiligungsverfahren entwickelten Vorzugsvariante und stellt einen deutlichen Komfort- und Sicherheitsgewinn für die Fahrgäste dar.
 
@@ -137,6 +138,6 @@ Wann sollen nach jetzigem Stand die Pläne für die erste Abstimmung fertig sein
 
 Wann ist die Einbeziehung der politischen Gremien im Bezirk Hamburg- Nord jeweils geplant?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Die 1. Verschickung soll zum Herbst des Jahres 2017 fertiggestellt werden. Vorbehaltlich einer entsprechenden Einladung ist vorgesehen, die vorliegende Planung im Regionalausschuss Eppendorf-Winterhude der Bezirksversammlung Hamburg-Nord vorzustellen.

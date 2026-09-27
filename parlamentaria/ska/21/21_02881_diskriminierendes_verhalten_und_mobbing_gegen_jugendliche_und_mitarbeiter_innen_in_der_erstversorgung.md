@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 29
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51194"
@@ -57,11 +58,11 @@ Ist dem Senat oder der zuständigen Behörde bekannt, dass ein Mitarbeiter der E
 
 Die Vorfälle und Vorwürfe sind der Geschäftsführung des Landesbetriebes Erziehung und Beratung (LEB) gleichzeitig bekannt geworden. Eingehende Untersuchungen der Geschäftsführung und der Beschwerdestelle des LEB gemäß § 13 Absatz 1 Satz 1 des Allgemeinen Gleichbehandlungsgesetzes konnten diese Vorwürfe jedoch nicht bestätigen:
 
- Ein Sachverhalt, wonach es zu einem gebrochenen Arm gekommen sein soll,
+– Ein Sachverhalt, wonach es zu einem gebrochenen Arm gekommen sein soll,
 
 konnte nicht festgestellt werden.
 
- Bei dem Vorwurf der Beleidigung von Betreuten handelte es sich aller Wahrschein-
+– Bei dem Vorwurf der Beleidigung von Betreuten handelte es sich aller Wahrschein-
 
 lichkeit nach um ein sprachliches Missverständnis. Der Protest der Jugendlichen aus Somalia, der sich hiergegen gerichtet hatte, wurde unter Einbeziehung des Untersuchungsergebnisses der Beschwerdestelle von der verantwortlichen Einrichtungsleitung und den Betreuungskräften pädagogisch bearbeitet.
 
@@ -117,29 +118,29 @@ In Bezug auf die im Sinne dieser Anfrage einschlägigen Aufgabenbereiche siehe h
 
 Im LEB gibt es zusätzlich zu diesen Fortbildungsangeboten zielgruppenspezifische Inhouse-Schulungen zur Stärkung der interkulturellen Kompetenz (Cultural Awareness):
 
- Kennenlernen der arabischen Kultur;
+– Kennenlernen der arabischen Kultur;
 
- Informationen für die Arbeit mit Menschen aus Afghanistan;
+– Informationen für die Arbeit mit Menschen aus Afghanistan;
 
- Essen ist Heimat! Die afghanisch-iranische Küche & Nordafrika, Somalia und
+– Essen ist Heimat! Die afghanisch-iranische Küche & Nordafrika, Somalia und
 
 Eritrea;
 
- Internationale Küche für Kinder (speziell asiatische und afrikanische Küche);
+– Internationale Küche für Kinder (speziell asiatische und afrikanische Küche);
 
- Essen lernen in Deutschland?!;
+– Essen lernen in Deutschland?!;
 
- Islamistische Aktivitäten in Schule und Jugendhilfe; Die Lage in Hamburg und Hin-
+– Islamistische Aktivitäten in Schule und Jugendhilfe; Die Lage in Hamburg und Hin-
 
 weise für die pädagogische Arbeit;
 
- Dunkle Erinnerungen; Traumabearbeitung mit jungen Flüchtlingen;
+– Dunkle Erinnerungen; Traumabearbeitung mit jungen Flüchtlingen;
 
- Ausländerrecht: Eine Einführung;
+– Ausländerrecht: Eine Einführung;
 
- Interkulturelle Kompetenz;
+– Interkulturelle Kompetenz;
 
- Sensibles Dolmetschen.
+– Sensibles Dolmetschen.
 
 ### Frage 10
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 25
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6171", "20/12408", "21/1002", "21/1008"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49241"
@@ -77,19 +78,19 @@ Nach welchen Kriterien hat der Senat geprüft, ob leer stehende private Büro- u
 
 Büro- und Gewerbegebäude werden laufend für die Unterbringung von Flüchtlingen geprüft. Die wesentlichen Kriterien der Prüfung sind:
 
- Zusammenhängende Geschossfläche in abgeschlossenen Einheiten von mindes-
+– Zusammenhängende Geschossfläche in abgeschlossenen Einheiten von mindes-
 
 tens 1.500 m²,
 
- Eignung für wohnähnliche Nutzung/gewerbliche Wohnnutzung muss gegeben sein
+– Eignung für wohnähnliche Nutzung/gewerbliche Wohnnutzung muss gegeben sein
 
 (Bauplanungsrecht),
 
- Außenfläche (für Spielplatz) sollte vorhanden sein,
+– Außenfläche (für Spielplatz) sollte vorhanden sein,
 
- Brandabschnitte maximal 400 m²,
+– Brandabschnitte maximal 400 m²,
 
- Marktübliche Mieten.
+– Marktübliche Mieten.
 
 a. Wie viele Objekte wurden geprüft?
 

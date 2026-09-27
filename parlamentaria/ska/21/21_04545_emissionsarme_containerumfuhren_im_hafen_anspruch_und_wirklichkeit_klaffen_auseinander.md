@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 17
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9299"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52969"
@@ -47,7 +48,7 @@ Welche Emissionswerte wurden im Hamburger Hafen in den Jahren 2011 – 2016 geme
 
 Welche Messungen werden durchgeführt, um die Ziele aus dem Koalitionsvertrag umzusetzen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Institut für Hygiene und Umwelt betreibt das Hamburger Luftmessnetz und führt Immissionsmessungen im Hafen beziehungsweise dem direkten Hafenumfeld durch. Informationen zu Messwerten unter anderem im Bereich Veddel, Wilhelmsburg, HafenCity, Altona, Kleiner Grasbrook sind unter „www.luft.hamburg.de“ einsehbar.
 

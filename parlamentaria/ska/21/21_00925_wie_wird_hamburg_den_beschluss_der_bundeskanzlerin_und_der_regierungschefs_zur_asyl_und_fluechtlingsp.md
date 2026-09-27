@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 16
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49090"
@@ -75,7 +76,7 @@ b. überwacht ausgereist?
 c. abgeschoben worden?  
 Bitte für 2015 monatsweise darstellen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Eine Ausweisung bewirkt unter anderem nach § 51 Absatz 1 Nummer 5 Aufenthaltsgesetz (AufenthG) das Erlöschen des Aufenthaltstitels und damit gemäß § 50 AufenthG das Entstehen einer Ausreisepflicht; nach § 11 bewirkt eine Ausweisung ein Einreise- und Aufenthaltsverbot. Gleichwohl können trotz einer Ausweisung gemäß § 60 AufenthG Abschiebungsverbote bestehen oder gemäß § 60a AufenthG Gründe für eine vorübergehende Aussetzung der Abschiebung (Duldung) vorliegen, zum Beispiel das Fehlen gültiger Heimreisedokumente oder gesundheitliche Ausreisehindernisse.
 

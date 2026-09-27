@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59571"
@@ -60,7 +61,7 @@ Ist es richtig, dass ab dem 6. November 2017 Arbeiten an dem genannten Umkleideh
 
 Wenn ja, wie sehen diese genau aus und über welchen Zeitraum sollen sie sich erstrecken?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nein, die Arbeiten beginnen bereits am 23.Oktober 2017. Die Instandsetzung und Modernisierung des Umkleidehauses umfasst alle vier vorhandenen Dusch- und Umkleideräume sowie das Besucher-WC Herren. Die Arbeiten werden voraussichtlich bis Ende 2017 abgeschlossen sein.
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 20
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/910", "21/1981", "21/2239"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50686"
@@ -105,7 +106,7 @@ In den Medienberichten heißt es: „Zahlreiche Hafenfirmen waren nicht mehr err
 
 Wie viele Schiffe mussten in andere Häfen umgeleitet werden, weil die Solltiefen durch Sedimente nicht eingehalten werden konnte?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Drs. 21/910, 21/1981 und 21/2239.
 

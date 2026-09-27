@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 20
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12430", "21/1354", "21/5237", "21/14468", "21/8844", "21/14275", "21/10870"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64305"
@@ -84,27 +85,27 @@ Für welche drei Erstaufnahmestandorte und für welche drei Folgeunterkünfte be
 
 Für welche drei Erstaufnahmestandorte und für welche drei Folgeunterkünfte bestehen aktuell die wenigsten Vereinbarungen mit Ehrenamtlichen und wie viele sind es jeweils?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Rangfolge der Anzahl der Vereinbarungen in der öffentlich-rechtlichen Unterbringung (Folgeunterbringung):
 
- Vereinbarung mit 127 Ehrenamtlichen für den Standort Sophienterrasse,
+– Vereinbarung mit 127 Ehrenamtlichen für den Standort Sophienterrasse,
 
- Vereinbarung mit 95 Ehrenamtlichen für den Standort Sieversstücken,
+– Vereinbarung mit 95 Ehrenamtlichen für den Standort Sieversstücken,
 
- Vereinbarung mit 94 Ehrenamtlichen für den Standort Rodenbeker Straße.
+– Vereinbarung mit 94 Ehrenamtlichen für den Standort Rodenbeker Straße.
 
 Die Rangfolge der wenigsten Vereinbarungen für Erstaufnahmeeinrichtungen:
 
- AWO: Vereinbarung mit 1 Ehrenamtlichen für den Standort Oskar-Schlemmer-
+– AWO: Vereinbarung mit 1 Ehrenamtlichen für den Standort Oskar-Schlemmer-
 
 Haus,
 
- f & w: Vereinbarung mit 32 Ehrenamtlichen für den Standort Ankunftszentrum
+– f & w: Vereinbarung mit 32 Ehrenamtlichen für den Standort Ankunftszentrum
 
 Bargkoppelstieg,
 
- f & w: Vereinbarung mit 33 Ehrenamtlichen für den Standort Sportallee.
+– f & w: Vereinbarung mit 33 Ehrenamtlichen für den Standort Sportallee.
 
 Zurzeit sind noch insgesamt folgende EA in Hamburg in Betrieb:
 
@@ -134,17 +135,17 @@ Wie viele Vereinbarungen mit Ehrenamtlichen hat das Unternehmen f & w an den Sta
 
 In den Unterkünften mit der Perspektive Wohnen gibt es derzeit (November 2018) insgesamt 249 Ehrenamtsvereinbarungen:
 
- Raja-Illinauk-Straße (85);
+– Raja-Illinauk-Straße (85);
 
- Ohlendieckshöhe (65);
+– Ohlendieckshöhe (65);
 
- Am Gleisdreieck (51);
+– Am Gleisdreieck (51);
 
- Duvenacker (22);
+– Duvenacker (22);
 
- Butterbauernstieg (21);
+– Butterbauernstieg (21);
 
- Oliver-Lißy-Straße (ehemals Hörgensweg) (5).
+– Oliver-Lißy-Straße (ehemals Hörgensweg) (5).
 
 ### Frage 5
 
@@ -154,19 +155,19 @@ Welche Gründe sind dem Unternehmen f & w bekannt, warum sich an manchen Standor
 
 Hierzu liegen f & w keine gesicherten Informationen vor. Folgende, auf Erfahrungen von f & w beruhende Faktoren könnten ein geringeres Engagement von Ehrenamtlichen beeinflussen:
 
- Eine ungünstige Infrastruktur beziehungsweise Verkehrsanbindung der Unterkünfte
+– Eine ungünstige Infrastruktur beziehungsweise Verkehrsanbindung der Unterkünfte
 
 wirkt sich auf ein potenzielles Interesse Ehrenamtlicher negativ aus.
 
- Sofern Einrichtungen ohnehin über ein breites Angebotsspektrum durch örtliche
+– Sofern Einrichtungen ohnehin über ein breites Angebotsspektrum durch örtliche
 
 Dienststellen und Träger verfügen, nimmt auch die Tätigkeit Ehrenamtlicher ab.
 
- Sofern Ehrenamtliche bereits in den Unterkünften tätig waren, die Angebote jedoch
+– Sofern Ehrenamtliche bereits in den Unterkünften tätig waren, die Angebote jedoch
 
 nicht angenommen wurden (fehlendes Interesse der Bewohner, zeitliche Rahmenbedingungen et cetera), nimmt das Interesse Ehrenamtlicher tendenziell ab.
 
- Schwieriges Klientel (zum Beispiel mit psychischen Auffälligkeiten und/oder
+– Schwieriges Klientel (zum Beispiel mit psychischen Auffälligkeiten und/oder
 
 Suchterkrankungen) ist für ungeschulte Ehrenamtliche eher nicht interessant beziehungsweise zu problematisch.
 
@@ -178,7 +179,7 @@ Welche Maßnahmen ergreift das Unternehmen f & w konkret, um an Standorten mit w
 
 Das Unternehmen hat in den letzten Jahren die Ehrenamtskoordination deutlich intensiviert. Hierzu gehören insbesondere folgende Maßnahmen:
 
- Auf der Homepage des Unternehmens wird das Ehrenamt in den Unterkünften von
+– Auf der Homepage des Unternehmens wird das Ehrenamt in den Unterkünften von
 
 f  
 &  
@@ -190,25 +191,25 @@ engagement/). Darüber hinaus werden Informationen für die Ehrenamtlichen und
 
 zu den Bedarfen in den Unterkünften mitgeteilt, sodass sich Interessenten selbst ein umfassendes Bild machen können: https://www.foerdernundwohnen.de/ fileadmin/user_upload/Downloads/Epaper/index.html#4.
 
- Darüber hinaus werden Bedarfe bei Freiwilligenagenturen als Gesuche hinterlegt
+– Darüber hinaus werden Bedarfe bei Freiwilligenagenturen als Gesuche hinterlegt
 
 oder über Medien (Printmedien) veröffentlicht.
 
- Es werden niedrigschwellige Engagementmöglichkeiten angeboten, zum Beispiel
+– Es werden niedrigschwellige Engagementmöglichkeiten angeboten, zum Beispiel
 
 einmalige Aktionen (social days), Schnuppermöglichkeiten (Tage der offenen Tür) und zeitlich begrenzte Tätigkeiten (zum Beispiel Ferienprogramm), um den Einstieg in längerfristige ehrenamtliche Tätigkeiten zu erleichtern.
 
- Darüber hinaus versucht f & w, in den jeweiligen sozialräumlichen Strukturen prä-
+– Darüber hinaus versucht f & w, in den jeweiligen sozialräumlichen Strukturen prä-
 
 sent zu sein, an Informationsveranstaltungen, Runden Tischen, Kirchengemeinden, Stadtteilfesten et cetera teilzuhaben und die Gelegenheit zu ergreifen, für die Unterkünfte zu werben.
 
- f & w nimmt regelhaft an der jährlichen Aktivoli-Freiwilligenbörse teil.
+– f & w nimmt regelhaft an der jährlichen Aktivoli-Freiwilligenbörse teil.
 
- Bei Schließung von Unterkünften wird versucht, die Ehrenamtlichen für benachbar-
+– Bei Schließung von Unterkünften wird versucht, die Ehrenamtlichen für benachbar-
 
 te Unterkünfte zu interessieren.
 
- Aktive Freiwillige werden einbezogen, um über ihre Netzwerke weitere Interessen-
+– Aktive Freiwillige werden einbezogen, um über ihre Netzwerke weitere Interessen-
 
 ten zu gewinnen.
 
@@ -242,7 +243,7 @@ An welchen Standorten öffentlich-rechtlicher Unterbringung (Erst- und Folgeunte
 
 An welchen Standorten öffentlich-rechtlicher Unterbringung (Erst- und Folgeunterkünfte sowie UPW) arbeitet das Unternehmen f & w mit keinem Träger, keiner ehrenamtlich getragenen Flüchtlingsinitiative oder keinem Verein des unmittelbaren nachbarschaftlichen Umfelds zusammen? Bitte in derselben Tabelle wie unter 9. darstellen. Warum nicht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die erfragten Daten werden nicht gesondert statistisch erfasst. Nach Auskunft von f & w ist für die Beantwortung eine händische Einzelauswertung der Akten von über 120 Einrichtungen erforderlich. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

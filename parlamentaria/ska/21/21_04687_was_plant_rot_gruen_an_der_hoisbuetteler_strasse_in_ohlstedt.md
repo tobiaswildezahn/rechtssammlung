@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 48579
 seiten: 3
 fragen: 6
-einzelfragen: 7
-antwortbloecke: 4
+einzelfragen: 12
+antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2816"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53107"
@@ -53,34 +54,47 @@ Den zuständigen Behörden sind bezirkliche Überlegungen bekannt, nach denen im
 
 Bezüglich der Planungen sind nachstehend die erteilten Neubaubaugenehmigungen entlang der Hoisbütteler Straße aufgelistet:
 
- Hoisbütteler Straße 2 a - c – Neubau eines Einzelhauses mit Versorgungshaus
+– Hoisbütteler Straße 2 a - c – Neubau eines Einzelhauses mit Versorgungshaus
 
 bestehend aus fünf Gebäuden mit je einer Wohneinheit sowie fünf oberirdischen Stellplätzen.
 
- Hoisbütteler Straße 46 – Neubau eines Einfamilienhauses.
+– Hoisbütteler Straße 46 – Neubau eines Einfamilienhauses.
 
- Hoisbütteler Straße 62 a – Neubau einer Doppelhaushälfte.
+– Hoisbütteler Straße 62 a – Neubau einer Doppelhaushälfte.
 
- Hoisbütteler Straße 66 und 68 – Bauberatung zur Bebauungsmöglichkeit.
+– Hoisbütteler Straße 66 und 68 – Bauberatung zur Bebauungsmöglichkeit.
 
- Hoisbütteler Straße 80 – Bauberatung zur Bebauungsmöglichkeit.
+– Hoisbütteler Straße 80 – Bauberatung zur Bebauungsmöglichkeit.
 
 ### Frage 4
 
 In der Drs. 21/2816 hatte der Senat ausgeführt, dass in Bezug auf die Planungen einer Flüchtlingsunterbringung an der Hoisbütteler Straße „Klärungen vor Ort“ eingeleitet wurden.
-4.1. Wann genau wurden die Klärungen durch wen eingeleitet?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+Wann genau wurden die Klärungen durch wen eingeleitet?
+
+#### Antwort zu Fragen 4 und 4.1
 
 Im Februar 2016 wurde durch den Zentralen Koordinierungsstab Flüchtlinge (ZKF) ein erstes Gespräch mit dem zuständigen Bezirksamt zur konkreten Realisierung initiiert. Im Übrigen siehe Antwort zu 5.
 
-4.2. Welche Stelle ist für die Klärung der Situation federführend? Welche Stellen im Einzelnen sind dabei zusätzlich beteiligt?
+### Frage 4.2
+
+Welche Stelle ist für die Klärung der Situation federführend? Welche Stellen im Einzelnen sind dabei zusätzlich beteiligt?
+
+#### Antwort zu Frage 4.2
 
 Der ZKF ist federführend. Weitere beteiligte Stellen sind das Bezirksamt Wandsbek, die Finanzbehörde (FB) einschließlich Landesbetrieb Immobilienmanagement und Grundvermögen (LIG) und die IMPF Hamburgische Immobilien Management Gesellschaft mbH (IMPF).
 
-4.3. Wie sind der genaue Sachstand sowie der Zeitplan des Klärungsprozesses? Welche Ergebnisse liegen bereits vor?
+### Frage 4.3
 
-4.4. Wann wird mit einem Abschluss der Klärungen gerechnet?
+Wie sind der genaue Sachstand sowie der Zeitplan des Klärungsprozesses? Welche Ergebnisse liegen bereits vor?
+
+### Frage 4.4
+
+Wann wird mit einem Abschluss der Klärungen gerechnet?
+
+#### Antwort zu Fragen 4.3 und 4.4
 
 Die Planungen und Überlegungen hierzu sind noch nicht abgeschlossen. Zeitliche Vorgaben zum Abschluss der Planungen und Überlegungen bestehen nicht.
 

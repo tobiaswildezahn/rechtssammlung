@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 28
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3045", "21/12802", "20/3641"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63105"
@@ -57,7 +58,7 @@ Wie ist der Planungsstand für den Schulstandort in der HafenCity für den Bau u
 
 Was ist unter dem Begriff Campusschule zu verstehen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung sowie Drs. 21/12802.
 
@@ -69,7 +70,7 @@ Wie wird die Campusschule am Standort HafenCity realisiert? Welche Gemeinschafts
 
 Wird bei der Schulplanung das Musterflächenprogramm eingehalten? Wenn nein, warum und in welchen Bereichen nicht? Bitte im Speziellen auf Außenfläche, Schulhof, Sportkapazitäten, Fachräume, Mensa, Ganztagsräume in Bezug auf die Schülerzahl eingehen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Schulcampus HafenCity wird gemäß dem geltenden Musterflächenprogramm für inklusive allgemeinbildende Schulen mit Ganztagsangeboten realisiert werden. Im Übrigen siehe Vorbemerkung sowie Drs. 21/12802.
 

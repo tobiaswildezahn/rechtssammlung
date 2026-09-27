@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5141"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58095"
@@ -125,15 +126,15 @@ Bei der Auswahl und Planung der Maßnahmen für das Jahr 2017 wurden die Belange
 
 Hierzu zählen insbesondere:
 
-• Maßnahmen zur Aktivierung und beruflichen Eingliederung nach § 45 SGB III
+– Maßnahmen zur Aktivierung und beruflichen Eingliederung nach § 45 SGB III
 
-• Probebeschäftigung nach § 46 SGB III
+– Probebeschäftigung nach § 46 SGB III
 
-• Eingliederungszuschüsse nach §§ 88 fortfolgende SGB III, insbesondere Eingliederungszuschüsse nach § 90 für behinderte und (besonders betroffene) schwerbehinderte Menschen
+– Eingliederungszuschüsse nach §§ 88 fortfolgende SGB III, insbesondere Eingliederungszuschüsse nach § 90 für behinderte und (besonders betroffene) schwerbehinderte Menschen
 
-• Gründungszuschuss nach § 93 fortfolgende SGB III
+– Gründungszuschuss nach § 93 fortfolgende SGB III
 
-• Maßnahmen der beruflichen Weiterbildung nach § 81 fortfolgende SGB III
+– Maßnahmen der beruflichen Weiterbildung nach § 81 fortfolgende SGB III
 
 Daneben führt die Agentur für Arbeit Hamburg in einem zentralen Team die Beratung und Vermittlung für Menschen mit (Schwer-)Behinderung durch. Jobcenter team.arbeit.hamburg unterhält einen Standort für schwerbehinderte Menschen. Hier erfolgt eine auf die Zielgruppe ausgerichtete intensive Beratungs- und Vermittlungsarbeit. In der Beratung wird den Herausforderungen der Menschen mit Behinderung Rechnung getragen, in eine Beschäftigung einzumünden. Hierzu zählen unter anderem auch spezielle Bewerbungstrainings. Für schwerbehinderte arbeitslose Jugendliche gelten die oben genannten Ausführungen analog. Aus den Anlagen 2 bis 4 ist die Auswertung aus der Förderstatistik inklusive Rechtskreistrennung ersichtlich (endgültige Werte zur Förderung stehen erst nach einer Wartezeit von drei Monaten fest).
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63133"
@@ -84,7 +85,7 @@ Warum unterscheiden die zuständige Fachbehörde und der Flughafen zwischen Besc
 
 Werden die anonymen Beschwerden in die Zahl der Beschwerde führenden Personen mit eingerechnet? Wenn nein, warum nicht, warum wird diese Zahl überhaupt erhoben und welche Aussagekraft hat diese Zahl dann noch?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Gemäß § 2 Absatz 1 S. 2 Nummer 1 FLSBG ist die Fluglärmschutzbeauftragte für die Beschwerdestatistik zuständig, der Flughafen ist nicht eingebunden.
 

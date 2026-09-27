@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 26
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52197"
@@ -68,7 +69,7 @@ Wie fördert der Senat beziehungsweise die zuständige Behörde seit wann und mi
 
 Welche Maßnahmen müssen umgesetzt werden, um stärker als bisher die Vorteile Hamburgs als attraktiven Standort für Start-ups, insbesondere für Gründerinnen, herauszustellen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Beratungs- und Förderangebote der Freien und Hansestadt Hamburg richten sich sowohl an Frauen als auch an Männer. Darüber hinaus wurde in den letzten Jahren eine Reihe von zielgruppenspezifischen Unterstützungsangeboten für Existenzgründerinnen in den Bereichen Beratung, Finanzierung, Coaching und Netzwerke geschaffen. Anlaufstelle hierfür ist in Hamburg die Hamburger ExistenzgründungsInitiative H.E.I. (siehe hierzu auch Hamburger Mittelstandsbericht 2014). Die im Bundesländervergleich hohe Gründungsquote von Frauen (siehe Vorbemerkung) unterstreicht die erfolgreiche und bedarfsgerechte Ausrichtung der Beratungs- und Förderangebote in Hamburg auch für Gründerinnen.
 

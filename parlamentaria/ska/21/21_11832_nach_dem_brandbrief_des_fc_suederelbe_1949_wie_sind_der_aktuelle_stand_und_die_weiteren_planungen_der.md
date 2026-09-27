@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 19
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10613"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61077"
@@ -84,7 +85,7 @@ Welche vereinseigenen Sportanlagen, Turnhallen und Schwimmhallen sind in Neugrab
 
 Wie schätzt der Senat die aktuelle Sportinfrastruktur in Neugraben- Fischbek ein? Hält er diese für ausreichend?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Um zusätzliche Bedarfe abzudecken, ist die vorhandene Infrastruktur zu erweitern. Zur entsprechenden Ausbauplanung siehe Antwort zu 8.
 

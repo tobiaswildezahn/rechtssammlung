@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56255"
@@ -169,7 +170,7 @@ mir · rtm!" ·
 ,• 6.s:mih il '  
 · · 14:111111  
 ·· . ·.· f4fri1n:  
-•··15.)öir
+– ··15.)öir
 
 . il;r . 14.füfo'
 

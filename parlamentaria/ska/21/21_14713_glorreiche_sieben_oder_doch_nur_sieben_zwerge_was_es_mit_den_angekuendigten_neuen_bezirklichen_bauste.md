@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 24
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64185"
@@ -67,7 +68,7 @@ d) Welche Stellen welcher Behörden, Landesbetriebe und/oder Bezirke wirken an d
 e) Wie stellt sich die Organisations- beziehungsweise Projektstruktur zur Erarbeitung dieses Konzepts dar? (Bitte ein aussagekräftiges Organigramm beifügen.)
 f) Inwiefern ist gegebenenfalls zu wann die Einbringung einer Bürgerschaftsdrucksache bezüglich dieses Konzepts geplant?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

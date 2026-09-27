@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 22
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9514", "21/7875", "21/8006", "21/7696"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59498"
@@ -140,7 +141,7 @@ Wie viele VZÄ des Fachamtes für Gesundheit beim Bezirksamt Altona sind derzeit
 
 Sind noch in anderen Behörden/Ämtern VZÄ mit dieser Aufgabe betraut? Wenn ja, wo und wie viele?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/7875.
 

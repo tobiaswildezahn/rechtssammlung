@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50528"
@@ -69,7 +70,7 @@ Trifft es zu, dass der Sendemast entfernt werden soll? Falls ja, wann soll er en
 
 Ist beabsichtigt, an anderer Stelle einen Sendemast aufzustellen? Falls ja, wo?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Im Rahmen des Aufzugsneubaus ist die Entfernung des Sendemasts notwendig. Sie wird im Rahmen der Baumaßnahmen durchgeführt. Belastbare Angaben über das Erfordernis eines Sendemastneubaus liegen derzeit nicht vor. Sofern ein Neubau erforderlich sein sollte, wird er an anderer Stelle durchgeführt werden.
 

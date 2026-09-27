@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63156"
@@ -47,7 +48,7 @@ In welcher Höhe hat Hamburg seit 2011 jeweils Verlustausgleichszahlungen an im 
 
 Wie haben sich die Kostendeckungsgrade der im HVV organisierten Unternehmen mit städtischer Beteiligung seit 2011 entwickelt? (Bitte jahresweise und nach Unternehmen getrennt aufschlüsseln.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Verlustausgleiche durch die Freie und Hansestadt Hamburg beziehungsweise die HGV und die Kostendeckungsgrade haben sich von 2011 bis 2017 folgendermaßen entwickelt:
 

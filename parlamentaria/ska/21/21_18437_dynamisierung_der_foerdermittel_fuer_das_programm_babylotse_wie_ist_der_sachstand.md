@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 12
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17711", "21/18278"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68085"
@@ -45,7 +46,7 @@ Der Beschluss der 92. Gesundheitsministerkonferenz zur Dynamisierung der Förder
 
 Die Behörde für Gesundheit und Verbraucherschutz (BGV) hat aus eigenen Mitteln 75 000 Euro zur Förderung der Hamburger Babylotsen der Stiftung SeeYou zur Verfügung gestellt (Drs. 21/ 17711). Plant der Senat beziehungsweise die zuständige Behörde, diese Mittel aufzustocken? Wenn ja, wann und in welcher Höhe? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Derzeit finden die Gespräche mit dem Träger zum Zuwendungsantrag für das Jahr 2020 statt. Die Zuwendungssumme der zuständigen Behörde soll im kommenden Jahr erhöht werden. Im Übrigen siehe Drs. 21/18278.
 
@@ -57,6 +58,6 @@ Sollte es zu keiner Dynamisierung der Fördermittel der Bundesstiftung Frühe Hi
 
 Plant der Senat beziehungsweise die zuständige Behörde, sich für eine nachhaltige Wirkung des Programms Babylotse einzusetzen? Wenn ja, in welcher Form? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Ein wichtiger Baustein der Frühen Hilfen sind die „Babylotsen Hamburg“, die in fast allen Hamburger Geburtskliniken und Geburtshäusern tätig sind. Eine nachhaltige Wirkung wird durch eine regelhafte Evaluation und eine bedarfsorientierte Zuwendungsförderung gewährleistet.

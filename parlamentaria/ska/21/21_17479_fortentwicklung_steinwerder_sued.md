@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67062"
@@ -75,6 +76,6 @@ Wann ist mit der Einleitung des zweiten Schrittes des Planfeststellungsverfahren
 
 Wann wird das Planfeststellungsverfahren insgesamt abgeschlossen sein?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Beginn und Dauer des zweiten Schrittes des Planfeststellungsverfahrens sind abhängig von Verlauf und Ergebnis der Flächenvergabe sowie vom Verlauf der Vorbereitungsmaßnahme. Eine verlässliche Aussage ist daher nicht möglich. Im Übrigen siehe Antwort zu 3.

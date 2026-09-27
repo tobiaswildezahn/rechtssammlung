@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 26
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6777", "21/5864"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65880"
@@ -59,7 +60,7 @@ Welche konkreten Ergebnisse beziehungsweise Übereinkommen haben die bisherigen 
 
 Auf welchen Vorarbeiten und welchen Ergebnissen der Verhandlungen zwischen Vattenfall und Aurubis kann die Stadt Hamburg als künftige Eignerin des gesamten zentralen Fernwärmenetzes beziehungsweise das zurückgekaufte Fernwärme-Unternehmen bei weiteren Verhandlungen aufbauen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bis Mitte 2018 waren die Vattenfall GmbH und die Aurubis AG in einem Zeitraum von über zwei Jahren in konstruktiven Gesprächen sowie technischen und wirtschaftlichen Planungen, um CO-neutrale Abwärme der Aurubis AG in das Fernwärmesystem der VWH einzubinden. Die Realisierung des Projekts wäre ein großer Beitrag zur Wärmewende, zum Erreichen der CO-Ziele der Freien und Hansestadt Hamburg und aktiver Bestandteil der Strategie der VWH für eine zukünftig CO-neutrale Wärmeversorgung ihrer Kundinnen und Kunden.
 
@@ -90,7 +91,7 @@ Welche Planungen gibt es bereits gegenwärtig im Rahmen des Projekts „Erneuerb
 Vattenfall hatte am 10. November 2016 in einer Präsentation im Energienetzbeirat eine geplante Wärmetrasse zwischen Zweibrückenstraße und Spaldingstraße als Verbindung zum zentralen Fernwärmenetz gezeigt und als Ziel eine Realisierung im Jahr 2020 angegeben.
 a) Aus welchen Gründen wurde diese Planung nicht umgesetzt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 1. und 2.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4383", "21/4655", "21/3405", "21/3829"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53733"
@@ -49,7 +50,7 @@ Bei welchen Ausbildungsberufen, für die Hamburg laut Beschluss der Kultusminist
 
 Ist bereits absehbar, dass Hamburg bei einigen Splitterberufen im bald beginnenden Ausbildungsjahr 2016/2017 die Beschulung nicht anbieten kann? Wenn ja, bitte Ausbildungsberuf, zuständige Berufsschule und den Grund (zu wenig Auszubildende, zu wenig Lehrkräfte) angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Alle in der sogenannten Splitterberufsliste aufgeführten Berufe, für die Hamburg als aufnehmendes Land (Berufsschulstandort) aufgeführt ist, werden im Schuljahr 2015/ 2016 vollständig beschult. Die vollständige Beschulung wird auch im Schuljahr 2016/ 2017 sichergestellt.
 

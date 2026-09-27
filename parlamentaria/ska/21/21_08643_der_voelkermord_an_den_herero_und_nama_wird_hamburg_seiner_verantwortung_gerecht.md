@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12383", "21/8004"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57362"
@@ -63,7 +64,7 @@ Wurde vonseiten des Senats auf den offenen Brief der „Association of the Ovahe
 
 Wie beurteilt der Senat die Vorschläge der „Association of the Ovaherero Genocide in the USA“ bezüglich der im Brief genannten Erinnerungsorte beziehungsweise der Auseinandersetzung mit konkreten Personen, die für den Völkermord in Namibia mitverantwortlich waren oder davon profitiert haben, wie beispielsweise Lothar von Trotha oder Adolph Woermann?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat sieht in ständiger Praxis davon ab, sich zu offenen Briefen zu äußern. Zum Anspruch auf meinungsbildende Stellungnahmen des Senats im Rahmen des Parlamentarischen Fragerechts siehe Drs. 21/8004.
 

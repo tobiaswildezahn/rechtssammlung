@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 23
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10344"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62798"
@@ -57,7 +58,7 @@ Wie viele Schüler hat die Katharinenschule aktuell?
 
 Wie war die Entwicklung der Schülerzahl in den Jahren seit Bestehen der Schule? Bitte nach Schuljahren aufschlüsseln.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Schülerzahl der Katharinenschule in der Hafencity hat sich seit ihrer Gründung wie folgt entwickelt:
 
@@ -83,7 +84,7 @@ Wie viele Lehrer hat die Katharinenschule aktuell?
 
 Wie war die Entwicklung der Lehrerzahl in den Jahren seit Bestehen der Schule? Bitte nach Schuljahren aufschlüsseln.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Derzeit sind 25 Lehrkräfte (Stand: Mai 2018) an der Katharinenschule in der HafenCity beschäftigt. Für die Entwicklung siehe folgende Tabelle:
 

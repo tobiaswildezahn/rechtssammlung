@@ -14,6 +14,7 @@ fragen: 33
 einzelfragen: 37
 antwortbloecke: 31
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/516", "21/2242", "21/2367", "20/11361", "21/1101", "20/9662", "21/1591"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51379"
@@ -276,7 +277,7 @@ Laut Drs. 21/516 ist seit der Einführung der Gebührenpflicht die Zahl der Frem
 
 Laut Drs. 21/516 „werden offenbar häufiger als früher Fahrgemeinschaften gebildet, um die P+R-Anlage zu erreichen“. Welche konkreten Zahlen für welche P+R-Anlagen liegen dieser Aussage zugrunde und auf welchen Untersuchungen beziehungsweise Erhebungen beruhen diese Zahlen?
 
-#### Antwort zu Fragen 20 bis 21
+#### Antwort zu Fragen 20 und 21
 
 Siehe Drs. 21/2242.
 
@@ -324,7 +325,7 @@ Laut des P+R-Entwicklungskonzeptes des Senats aus Drs. 20/9662 sollte ein Großt
 
 Welche P+R-Anlagen im Einzugsgebiet des HVV, die sich nicht auf Hamburger Stadtgebiet befinden, gibt es aktuell? Wie viele Stell-/Parkplätze gibt es dort jeweils, wie viele davon sind gebührenpflichtig und wie genau stellen sich die Gebühren bei Tages-, Monats- und Jahreskarten dar?
 
-#### Antwort zu Fragen 26 bis 27
+#### Antwort zu Fragen 26 und 27
 
 Siehe Drs. 21/2242.
 

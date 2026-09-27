@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/3642", "20/10163", "20/3641", "21/302", "21/2761", "21/3226"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52565"
@@ -71,7 +72,7 @@ Wie stellt sich die durchschnittliche Betreuungsrelation im Ganztagsbereich an d
 
 Wie stellt sich die durchschnittliche Betreuungsrelation im Ganztagsbereich an den Gymnasien dar? Wie hoch ist dort die reale Größe?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Zu den Rahmenbedingungen der ganztägigen Bildungs- und Betreuungsangebote an Stadtteilschulen und Gymnasien siehe Drs. 20/3642.
 
@@ -115,17 +116,17 @@ Wie viele Kinder nehmen aktuell an Ganztagsangeboten teil? Bitte aufschlüsseln 
 
 Teilnahmezahlen am Ganztag im laufenden Schuljahr 2015/2016:
 
- Grundschulen: 47.148 Schülerinnen und Schüler
+– Grundschulen: 47.148 Schülerinnen und Schüler
 
- Stadtteilschulen: 27.310 Schülerinnen und Schüler
+– Stadtteilschulen: 27.310 Schülerinnen und Schüler
 
- An Gymnasien besonderer Prägung nehmen aufgrund der erweiterten Stundenta-
+– An Gymnasien besonderer Prägung nehmen aufgrund der erweiterten Stundenta-
 
 fel alle Schülerinnen und Schüler ab Jahrgang 7 am Ganztag teil. Darüber hinaus nehmen an diesen Gymnasien 3.352 Schülerinnen und Schüler der Jahrgangsstufen 5 und 6 am Ganztag teil.
 
- GTS-Gymnasien: 2.666 Schülerinnen und Schüler der Jahrgangsstufen 5 bis 10
+– GTS-Gymnasien: 2.666 Schülerinnen und Schüler der Jahrgangsstufen 5 bis 10
 
- Regionale Bildungs- und Beratungszentren: 2.170 Schülerinnen und Schüler
+– Regionale Bildungs- und Beratungszentren: 2.170 Schülerinnen und Schüler
 
 An speziellen Sonderschulen nehmen alle Schülerinnen und Schüler am Ganztag teil.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7398"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59345"
@@ -47,7 +48,7 @@ Wie ist der genaue Stand des Vergabeverfahrens für die Jahresabschlussprüfung 
 
 Wurde der Abschlussprüfer für das Geschäftsjahr 2017 bereits bestellt? Wenn ja, wer wurde wann als Abschlussprüfer bestellt? Wenn nein, wann soll die Bestellung erfolgen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die EU-weite Ausschreibung wurde Ende Juni 2017 bekannt gegeben. Derzeit werden Verhandlungen mit den Bietern geführt. Ein konkreter Termin für die Beauftragung des Abschlussprüfers steht noch nicht fest.
 

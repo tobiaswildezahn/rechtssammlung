@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13149", "20/4033", "20/8501", "20/14138"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48322"
@@ -47,7 +48,7 @@ Wie viele Hamburger Kinder und Jugendliche in befanden sich in den Jahren 2008 �
 
 Wie hoch sind die jeweiligen Kosten für die auswärtige Unterbringung für die Jahre 2008 und 2011 bis 2014 gewesen, wie hoch ist der Haushaltsvoranschlag für 2015?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Kinder und  
 Jugendliche in  
@@ -147,7 +148,7 @@ In wie vielen Fällen wurden die Koordinierungsstelle beim PARITÄ- TISCHEN und 
 
 Wie wird die Koordinierungsstelle finanziert und bis wann ist die Finanzierung dieser Stelle gesichert? Wenn eine dauerhafte Finanzierung nicht gegeben ist, wird diese angestrebt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Koordinierungsstelle beim PARITÄTISCHEN Wohlfahrtsverband Hamburg e.V. wurde nach eigenen Angaben bisher für 24 Jugendliche tätig.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/7778", "18/4856"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58467"
@@ -87,6 +88,6 @@ Wird durch die Ausweisung der Flächen von PFLEGEN & WOHNEN als Gemeinbedarfsfl�
 
 Mit welchen Maßnahmen will der Senat verhindern, dass an den Standorten von PFLEGEN & WOHNEN hochpreisige Pflegeangebote im Luxussegment entstehen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antworten zu 4. und 5. Für Pflegeangebote außerhalb des Schutzes von Vergütungsvereinbarungen gibt es nur einen sehr begrenzten Markt, unter anderem weil das Pflegeversicherungsrecht in diesem Fall eine Kürzung der Pflegekassenleistung um 20 Prozent bei vollem Qualitätsprüfrecht der Pflegekassen vorsieht und die Sozialhilfe auch dann nicht eintreten darf, wenn das Vermögen einer Bewohnerin oder eines Bewohners im Laufe der Zeit aufgebraucht ist.

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1490"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50242"
@@ -55,7 +56,7 @@ Wie stellen sich die Ergebnisse hamburgweit dar? Bitte die prozentuale Verteilun
 
 Wenn die Ergebnisse noch nicht vorliegen: Zu welchem Datum ist damit zu rechnen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Derzeit werden die Daten der circa 30.000 mit KERMIT 5 und KERMIT 7 getesteten Schülerinnen und Schüler am Institut für Bildungsmonitoring und Qualitätsentwicklung (IfBQ) eingegeben. Nach der vollständigen Datenerfassung erfolgt die systemische Auswertung der Ergebnisse, die dann voraussichtlich zum Ende des Jahres vorliegen wird. Kompetenzstufenmodelle, die eine Einordnung der Ergebnisse in die in 2. genannten Kompetenzstufen erlauben, gibt es für die Fächer Deutsch und Mathematik in Bezug auf die Bildungsstandards Ende Klasse 4 und für die Fächer Deutsch, Mathematik und Englisch in Bezug auf die Bildungsstandards für den ersten allgemeinbildenden und mittleren Schulabschluss Ende Jahrgangsstufe 9 beziehungsweise 10. Für die KERMIT-Erhebung zu Beginn von Jahrgangsstufe 7 ist eine derartige Auswertung nach Kompetenzstufen nicht möglich, da keine belastbaren Prognosen für Standards bestimmt werden können, die erst drei Jahre später (Ende Klasse 9) erfüllt werden sollen.
 

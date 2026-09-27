@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 27
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2810"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52696"
@@ -224,7 +225,7 @@ Wie ist die Entwicklung der Kurse für die Pinguin Schwimmschule, die Schwimmabz
 
 Wie viele Schüler haben entsprechende Kurse besucht und wie viele haben diese bestanden? Bitte ebenfalls die Anzahl der Schüler in den jeweiligen Kursen den Bädern für die Jahre ab 2011 zuordnen.
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Gemäß § 7 HmbTG handelt es sich bei diesen Daten um Betriebs- und Geschäftsgeheimnisse, die – im Falle einer Veröffentlichung – geeignet sind, die Wettbewerbsposition der BLH zu beeinträchtigen.
 

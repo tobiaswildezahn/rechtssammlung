@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 21
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56075"
@@ -43,7 +44,7 @@ Bei wie vielen Schülern/-innen des Jahrgangs 4 der staatlichen Grundschulen bez
 
 Bezogen auf Frage 1.: Wie hoch war der Prozentsatz der Schüler/-innen mit LSE damit im Verhältnis zur Gesamtschüler-/-innenschaft des Jahrgangs 4 der staatlichen Grundschulen beziehungsweise Grundschulabteilungen der Stadtteilschulen in 2014/2015? (Bitte in absoluten Zahlen wie in Prozent in einer Excel-Tabelle angeben.) a. Wie hoch war dabei die Zahl der Schülerinnen und Schüler mit LSE im Verhältnis zur Gesamtschüler-/-innenschaft des Jahrgangs 4 aufgeschlüsselt nach Sozialindex (KESS-Faktor 1 bis 6)? (Bitte entsprechend in absoluten Zahlen wie in Prozent in der Tabelle zu 2. angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 
@@ -63,7 +64,7 @@ Bei wie vielen Schülern/-innen des Jahrgangs 4 der staatlichen Grundschulen bez
 
 Bezogen auf Frage 4.: Wie hoch war der Prozentsatz der Schüler/-innen mit LSE damit im Verhältnis zur Gesamtschüler-/-innenschaft des Jahrgangs 4 der staatlichen Grundschulen beziehungsweise Grundschulabteilungen der Stadtteilschulen in 2015/2016? (Bitte in absoluten Zahlen wie in Prozent in einer Excel-Tabelle angeben.) a. Wie hoch war dabei die Zahl der Schülerinnen und Schüler mit LSE im Verhältnis zur Gesamtschüler-/-innenschaft des Jahrgangs 4 aufgeschlüsselt nach Sozialindex (KESS-Faktor 1 bis 6)? (Bitte entsprechend in absoluten Zahlen wie in Prozent in der Tabelle zu 5. angeben.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage 3.
 

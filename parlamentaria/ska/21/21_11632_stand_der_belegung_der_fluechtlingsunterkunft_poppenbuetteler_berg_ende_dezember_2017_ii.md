@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 17
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11504", "21/11184", "20/5317"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60862"
@@ -43,7 +44,7 @@ Wie viele Personen waren in der örU Poppenbütteler Berg Ende Dezember untergeb
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Geschlecht  
 Kinder & Jugendliche  
@@ -119,7 +120,7 @@ Wie viele Kleinkinder und Kinder im Vorschulalter gibt es und wie viele besuchen
 
 Im Baufeld 3 hat das DRK KiJu die Trägerschaft der Kita mit 50 Plätzen übernommen. Welcher Träger übernimmt die Kita in Baufeld 6 mit 80 Plätzen, in der auch das Eltern-Kind-Zentrum (EKiZ) seinen Betrieb aufnehmen soll? Wann werden die beiden Kitas jeweils eröffnen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 20 Kinder unter sechs Jahren leben in der Unterkunft. Eine systematische Erfassung, welche Kindertagesstätten durch die jeweiligen Kinder genutzt werden, erfolgt nicht.
 

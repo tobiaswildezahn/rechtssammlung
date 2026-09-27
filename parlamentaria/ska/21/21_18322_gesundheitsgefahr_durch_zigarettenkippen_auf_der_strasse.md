@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17179", "21/13189"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67958"
@@ -49,7 +50,7 @@ Wie viele Tonnen Zigarettenkippen wurden von der Stadtreinigung Hamburg (SRH) im
 
 In welchem Abstand stehen in Hamburg Mülleimer mit einem Zigaretteneinwurf?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/17179.
 

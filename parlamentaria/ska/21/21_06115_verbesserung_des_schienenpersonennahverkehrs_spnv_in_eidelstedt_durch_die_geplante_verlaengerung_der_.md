@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 17
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54627"
@@ -47,7 +48,7 @@ Werden für die neuen Streckenabschnitte der geplanten S21 neue S-Bahn-Züge gek
 
 Wie viele Züge mit wie vielen Waggons sollen für den Betrieb der S21- Strecke nach Kaltenkirchen zur Verfügung stehen? Bitte die Anzahl der geplanten Kurz-, Lang- und Vollzüge angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bei der geplanten Realisierung der Verlängerung der S21 nach Kaltenkirchen sollen von der S-Bahn Hamburg GmbH 13 für den Einsatz im Gleichstrom- und Wechselstromnetz geeignete S-Bahn-Fahrzeuge der Baureihe 490.2 beschafft werden. Sie könnten rechtzeitig zur Betriebsaufnahme der S21 nach Kaltenkirchen zur Verfügung stehen. Die Fahrzeugkosten sollen im Rahmen des Verkehrsvertrages über die Bestellerentgelte abgerechnet werden, direkte Anschaffungskosten entstehen bei den Aufgabenträgern nicht.
 

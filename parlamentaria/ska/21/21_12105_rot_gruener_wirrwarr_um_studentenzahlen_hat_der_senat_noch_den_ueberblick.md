@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11915"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61375"
@@ -102,7 +103,7 @@ Wie viele Studenten sind an den privaten Universitäten und Hochschulen mit Camp
 
 Wie viele Studenten sollen nach Planung beziehungsweise Kenntnis des Senats im Jahr 2020 an den allen privaten Universitäten und Hochschulen mit Campus voraussichtlich immatrikuliert sein? Bitte je Universität beziehungsweise Hochschule angeben.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Anlage.
 

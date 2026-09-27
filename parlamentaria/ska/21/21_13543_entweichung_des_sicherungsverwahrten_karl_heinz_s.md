@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62900"
@@ -56,13 +57,13 @@ Wegen welcher Straftaten wurde Karl-Heinz S. – gegebenenfalls jeweils
 
 Folgende Urteile ergingen gegen Karl-Heinz S.:
 
- Urteil vom 14.7.1987, Mord, Freiheitsstrafe von zwölf Jahren;
+– Urteil vom 14.7.1987, Mord, Freiheitsstrafe von zwölf Jahren;
 
- Urteil vom 6.5.1994, unerlaubtes Handeltreiben mit Betäubungsmittel und Nöti-
+– Urteil vom 6.5.1994, unerlaubtes Handeltreiben mit Betäubungsmittel und Nöti-
 
 gung, Freiheitsstrafe von zwei Jahren.
 
- Urteil vom 21.7.2000, Unterschlagung und schwere räuberische Erpressung,
+– Urteil vom 21.7.2000, Unterschlagung und schwere räuberische Erpressung,
 
 Gesamtfreiheitsstrafe von acht Jahren.
 

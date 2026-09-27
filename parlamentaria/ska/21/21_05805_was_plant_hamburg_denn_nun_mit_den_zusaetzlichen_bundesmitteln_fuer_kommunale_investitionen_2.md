@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 49723
 seiten: 5
 fragen: 7
-einzelfragen: 10
-antwortbloecke: 6
+einzelfragen: 12
+antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/235", "21/3321"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54306"
@@ -41,27 +42,41 @@ Welche Planungen gibt es derzeit im Einzelnen, wann und für welche konkreten Be
 
 Für welche bereits geplanten, aber noch nicht begonnenen Investitionsmaßnahmen sollen die zusätzlichen Mittel eingesetzt werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1. Darüber hinaus sind die Planungen und Überlegungen noch nicht abgeschlossen.
 
 ### Frage 3
 
 Hamburg stehen bis Ende 2018 gemäß der Verwaltungsvereinbarung zur Durchführung des Kommunalinvestitionsförderungsgesetzes sowie der Senatsangaben in Drs. 21/235 Mittel in Höhe von 58,422 Millionen Euro zur Verfügung. Im Haushaltsplan-Entwurf 2017/2018 plant der Senat insgesamt im Einzelplan 9.2 (Produktgruppe 28309) Kosten und Investitionen aus diesen Bundesmitteln in Höhe von 48,422 Millionen Euro ein (2017: 6 Millionen Euro Kosten, 24 Millionen Euro Investitionsauszahlungen; 2018: 3,684 Millionen Euro Kosten, 14,738 Millionen Euro Investitionsauszahlungen).
-3.1. Welche Planungen im Einzelnen liegen den in der Produktgruppe 28309 des Haushaltsplan-Entwurfs 2017/2018 angegebenen Werten zugrunde?
-3.2. Wie erfolgte im Einzelnen die Aufteilung der Mittel auf die einzelnen Jahre sowie auf Kosten und Investitionen?
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+Welche Planungen im Einzelnen liegen den in der Produktgruppe 28309 des Haushaltsplan-Entwurfs 2017/2018 angegebenen Werten zugrunde?
+
+### Frage 3.2
+
+Wie erfolgte im Einzelnen die Aufteilung der Mittel auf die einzelnen Jahre sowie auf Kosten und Investitionen?
+
+#### Antwort zu Fragen 3, 3.1 und 3.2
 
 Die Werte in der Produktgruppe 283.09 des Haushaltsplan-Entwurfs 2017/2018 beruhen auf dem Stand der Planungen zum Zeitpunkt der Senatsbefassung im Juni 2016. Im Übrigen siehe Antwort zu 1. und 2.
 
-3.3. In welcher Höhe erwartet der Senat bereits im Haushaltsjahr 2016 Kosten oder Investitionsauszahlungen und entsprechende Einnahmen durch Bundesmittel im Einzelplan 9.2 aus der Kommunalinvestitionsförderung?
+### Frage 3.3
+
+In welcher Höhe erwartet der Senat bereits im Haushaltsjahr 2016 Kosten oder Investitionsauszahlungen und entsprechende Einnahmen durch Bundesmittel im Einzelplan 9.2 aus der Kommunalinvestitionsförderung?
+
+#### Antwort zu Frage 3.3
 
 Die geplante Sanierung im Bezirksamt Wandsbek wird aus dem Einzelplan 1.6 Bezirksamt Wandsbek, Produktgruppe 221.03 Zentraler Ansatz der Bezirksversammlung kofinanziert. Ermächtigungen, Kosten zu verursachen, wurden hierfür bislang vom Bezirksamt nicht abgefordert. Die Behörde für Wissenschaft, Forschung und Gleichstellung prognostiziert für das Jahr 2016 Kosten in Höhe von 11,9 Millionen Euro. Im Übrigen sind die Planungen noch nicht abgeschlossen. Zurzeit geht die
 
 Behörde für Umwelt und Energie davon aus, dass im Jahr 2016 333.000 Euro an Kosten für Schallschutzmaßnahmen entstehen können. Die Kofinanzierung erfolgt aus dem Einzelplan 6.2 Behörde für Umwelt und Energie, Produktgruppe 293.11 Immissionsschutz und Betriebe. Die Behörde für Wirtschaft, Verkehr und Innovation erwartet für das Jahr 2016 derzeit einen Mittelabfluss von circa 3 Millionen Euro. Die Kofinanzierung erfolgt aus dem Einzelplan 7, Produktgruppe 269.04 Zentrales Programm Verkehr und Straßenwesen. Die Kofinanzierung der von SBH I Schulbau Hamburg zu realisierenden Projekte erfolgt über die investiven Wirtschaftsplanpositionen des Sondervermögens Schulimmobilien. Für die energetische Sanierung von Schulen werden 2016 voraussichtlich noch keine Mittel aus dem Kommunalinvestitionsförderungsgesetz benötigt.
 
-3.4. Geht der Senat davon aus, dass die vom Bund bereitgestellten Mittel aus dem Kommunalinvestitionsförderungsfonds in voller Höhe bis Ende 2018 eingesetzt werden können?
+### Frage 3.4
+
+Geht der Senat davon aus, dass die vom Bund bereitgestellten Mittel aus dem Kommunalinvestitionsförderungsfonds in voller Höhe bis Ende 2018 eingesetzt werden können?
+
+#### Antwort zu Frage 3.4
 
 Ja.
 

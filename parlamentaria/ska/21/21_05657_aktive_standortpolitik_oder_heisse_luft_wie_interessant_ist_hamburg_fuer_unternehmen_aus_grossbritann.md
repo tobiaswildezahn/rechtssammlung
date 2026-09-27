@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 22
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5005", "21/5398", "21/4512"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54159"
@@ -88,19 +89,19 @@ Welche Strategie verfolgt die HWF, um stärker die Vorteile Hamburgs als attrakt
 
 Die HWF führt seit vergangenem Sommer Einzelgespräche mit Unternehmen, die an einem Standortwechsel nach Hamburg interessiert sind. Hier sind folgende Zielgruppen zu nennen:
 
- Da britische Unternehmen absehbar keine Entscheidungen über Unternehmens-
+– Da britische Unternehmen absehbar keine Entscheidungen über Unternehmens-
 
 verlagerungen kurzfristig treffen, hat die HWF zusätzlich Unternehmen in Übersee im Fokus, die nach Europa expandieren wollen und London als ersten europäischen Standort ins Auge gefasst haben. Diese müssen ihre Standortentscheidung zeitnah treffen. Hier wird Hamburg als alternativer Standort zu London in der Eurozone profiliert.
 
- Die zweite wichtige Zielgruppe sind Unternehmen mit einer Konzernmutter in
+– Die zweite wichtige Zielgruppe sind Unternehmen mit einer Konzernmutter in
 
 Übersee und europäischen Zentralfunktionen in London und Deutschlandzentrale in Hamburg. Hier werden fortlaufend Gespräche über stärkere Aktivitäten in Hamburg geführt. Im Übrigen siehe Antwort zu 2. bis 2. c.
 
- Die dritte Zielgruppe sind die mit Hamburg wirtschaftlich verbundenen Unterneh-
+– Die dritte Zielgruppe sind die mit Hamburg wirtschaftlich verbundenen Unterneh-
 
 men aus dem UK. Sie werden hinsichtlich der Gründung von Dependancen angesprochen.
 
- Branchenschwerpunkte sind Handels- und Schiffsfinanzierung, technologieorien-
+– Branchenschwerpunkte sind Handels- und Schiffsfinanzierung, technologieorien-
 
 tierte/wissensbasierte Produktion, Start-up sowie Handel/Vertrieb.
 

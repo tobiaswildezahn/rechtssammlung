@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49690"
@@ -45,7 +46,7 @@ Erfüllen die in der Freien und Hansestadt Hamburg ausgestellten Duldungspapiere
 
 Weisen Duldungspapiere, die nicht als Ausweisersatz erteilt wurden Sicherheitsmerkmale auf, um eine Fälschungssicherheit herzustellen? Wenn ja, welche? Wenn nein, bis wann plant der Senat die Dokumente entsprechend anzupassen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Duldungen sind von allen Ausländerbehörden nach den Vorgaben des § 78a Absatz 5 AufenthG auf einem bundeseinheitlichen Vordruck nach den Anlagen D2a und D2b der Aufenthaltsverordnung (AufenthV) auszustellen. Die von der Bundesdruckerei hergestellten bundeseinheitlichen Vordrucke erfüllen die von der BaFin genannten Anforderungen. Die Vordrucke sind fälschungssicher nach Maßgabe von § 61 AufenthV sowie nach den Vorgaben der Verordnung (EG) Nummer 1030/2002 des Rates vom 13. Juni 2002 zur einheitlichen Gestaltung des Aufenthaltstitels für Drittstaatenangehörige (ABl. L 157 vom 15.6.2002, S. 1) zuletzt geändert durch Artikel 1 ÄndVO (EG) 380/2008 vom 18. April 2008 (ABl. Nummer L 115 S. 1). Die genauen Spezifikationen der Fälschungssicherheit werden nicht veröffentlicht (§ 61 Absatz 1 Satz 2 AufenthV).
 

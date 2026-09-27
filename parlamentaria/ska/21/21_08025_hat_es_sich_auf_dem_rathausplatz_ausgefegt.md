@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 15
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56680"
@@ -49,7 +50,7 @@ Wurde das traditionelle sogenannte Treppenfegen zum 30. Geburtstag von ledigen M
 
 Wurde das „Treppenfegen“ an anderen Orten in Hamburg untersagt? a. Wenn ja, warum? b. Wie viele Fälle gab es bisher, bei denen es Gruppen untersagt wurde, in Hamburg an öffentlichen Plätzen die „Treppen zu fegen“? c. Welche Ausweichmöglichkeiten wurden aufgezeigt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

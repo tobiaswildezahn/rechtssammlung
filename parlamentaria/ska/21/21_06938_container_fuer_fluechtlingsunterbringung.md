@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 32
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5303", "21/5511", "21/3231", "21/6814"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55728"
@@ -214,15 +215,15 @@ Ein Container ist Bestandteil eines komplexen Aufbaues mit diversen Abhängigkei
 
 Im Rahmen der örU erfolgt der Austausch von Containern ebenfalls nachrangig nach Prüfung der sich ergebenden Reparaturkosten und kann je nach System und betroffenem Container/Modul unterschiedlich ausfallen. Folgende Merkmale müssen erfüllt sein:
 
-• Nicht-Erfüllen der hygienischen Bedingungen
+– Nicht-Erfüllen der hygienischen Bedingungen
 
-• Nicht-Erfüllen der Brandschutz-technischen Vorgaben
+– Nicht-Erfüllen der Brandschutz-technischen Vorgaben
 
-• Nicht-Erfüllen der Wärmeschutz Bedingungen
+– Nicht-Erfüllen der Wärmeschutz Bedingungen
 
-• Nicht-Erfüllen des Schallschutzes
+– Nicht-Erfüllen des Schallschutzes
 
-• Nicht-Erfüllen der Funktionalität
+– Nicht-Erfüllen der Funktionalität
 
 ### Frage 16
 

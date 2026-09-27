@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/364"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59195"
@@ -85,7 +86,7 @@ Welche „externen“ Security-Firmen sind es?
 
 Nach welchem Tarif wird das Security-Personal bezahlt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Bisher wurden B.O.B. Sicherheitsdienst e.K. und WEKO Sicherheitsdienste GmbH beauftragt.
 

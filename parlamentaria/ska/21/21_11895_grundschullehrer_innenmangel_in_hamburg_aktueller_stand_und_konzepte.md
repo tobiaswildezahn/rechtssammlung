@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 27
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10216", "21/11562"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61143"
@@ -61,7 +62,7 @@ Wie viele Lehrer-/-innenstellen/Vollzeitäquivalente (VZÄ) sind gegenwärtig (S
 
 Wie viele Lehrer-/-innenstellen/Vollzeitäquivalente (VZÄ) sind gegenwärtig (Stand 5. Februar 2018) und wie viele waren im Laufe des vergangenen Schuljahres 2016/2017 (jeweils in der Zeit von August bis Oktober, von November bis Januar, von Februar bis April, von Mai bis Juli) an welchen einzelnen staatlichen Grundschul- und Primarschulstandorten und welchen staatlichen Grundschulabteilungen der Stadtteilschulstandorte noch nicht besetzt? (Bitte für jedes Schuljahr einzeln, jeweils mit Nennung von Standort, Schulform, Sozialindex und Bezirk, in absoluten Zahlen und in Prozent in einer Excel-Tabelle angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Grundsätzlich entscheidet die Schulleitung, wie viele der zugewiesenen Stellen besetzt werden. Deshalb lässt die Zahl der nicht besetzten Stellen noch keine Rückschlüsse auf einen möglichen Lehrermangel zu. Denn es gibt durchaus auch schulorganisatorische Gründe, die dazu führen, gezielt einzelne Stellen nicht sofort zu besetzen. In der Anlage wird der Saldo aus dem den Schulen zugewiesenen Bedarf und den vorhandenen Stamm-Lehrkräften (ohne Beurlaubungen, Sabbat-Freistellungen, Lehraufträgen und temporären Aufstockungen) sowie dessen Anteil am Bedarf zu den von der für Bildung zuständigen Behörde den festgesetzten Stichtagen ausgewiesen. Eine separate Darstellung der Versorgung mit Lehrkräften an den Grundschulen an Stadtteilschulen ist nicht möglich, da sowohl die Bedarfe als auch die Besetzung der Stellen für die entsprechenden Klassenstufen nicht differenziert zugewiesen beziehungsweise ausgewiesen werden.
 

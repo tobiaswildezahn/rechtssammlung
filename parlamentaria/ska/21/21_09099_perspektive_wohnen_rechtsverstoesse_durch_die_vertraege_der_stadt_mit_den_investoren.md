@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 33
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838", "21/8872"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57858"
@@ -114,7 +115,7 @@ Liegt ein Verstoß gegen das Vergaberecht vor, weil die Gebäude zugeschnitten a
 
 Gab es eine Vergabepflicht nach dem vierten Teil des GWB, weil private Investoren unter erleichterten Vorgaben für einen öffentlich-rechtlichen Mieter bauen? Wenn ja, inwiefern? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Der Verkauf der städtischen Grundstücke im Rahmen des Programms der Flüchtlingsunterbringung mit der Perspektive Wohnen war kartellvergaberechtlich unbedenklich. Nach der Rechtsprechung des europäischen Gerichtshofs ist der Verkauf eines Grundstücks an sich kein vergaberechtlich relevanter Vorgang. Die Voraussetzungen, unter denen dies ausnahmsweise anders sein kann (der Käufer übernimmt im Kaufvertrag eine stark konkretisierte, einklagbare Bauverpflichtung (sogenannter Bestellbau)), lagen hier nicht vor. Angesichts der großen Zahl Schutz suchender Menschen in Hamburg hätte aber auch völlig unabhängig hiervon eine Situation vorgelegen, bei der Direktvergaben zur Gewährleistung der Unterbringung vergaberechtlich zulässig gewesen wären.
 
@@ -142,6 +143,6 @@ Liegt ein Verstoß gegen die Landeshaushaltsordnung vor, wenn zum Beispiel das R
 
 Verstoßen die Verträge der Stadt mit den selbstgewählten Investoren ohne Ausschreibung in Verbindung mit den sonstigen Sicherheiten und Zuschüssen gegen europäisches Recht, weil sie eine Beihilfe für Unternehmen darstellen, die zu einer Wettbewerbsverzerrung innerhalb des Marktes führen? Wenn ja, inwiefern? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Nein. Die Verkäufe der Grundstücke erfolgten zum Verkehrswert. Im Übrigen siehe Antwort zu 10.

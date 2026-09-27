@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 20
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1741", "21/4308", "21/5019", "21/6190", "21/7391", "21/7086"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57401"
@@ -53,7 +54,7 @@ Wie viele Stellen für Gerichtsvollzieher gibt es aktuell an den einzelnen Amtsg
 
 Wie viele Gerichtsvollzieherbezirke sind an jeweils welchem Amtsgericht seit jeweils wann aus welchen Gründen unbesetzt? Wie viele Gerichtsvollzieherbezirke müssen seit wann aus welchen Gründen vertreten werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Daten zum  
 Stichtag  

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/12241", "21/7703", "21/10523"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60011"
@@ -78,9 +79,9 @@ Auf welche Höhe beläuft sich die Kofinanzierung, die die zuständige Behörde 
 
 Im Jahr 2017 wurden den Trägern im Programm STAFFEL durch die Behörde für Arbeit, Soziales, Familie und Integration zum Stand 31.10.2017 folgende Beträge zur Verfügung gestellt:
 
- Mook Wat e.V.: 89.600 Euro
+– Mook Wat e.V.: 89.600 Euro
 
- FIT gGmbH: 841.200 Euro
+– FIT gGmbH: 841.200 Euro
 
 ### Frage 5
 

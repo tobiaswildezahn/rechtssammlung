@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8830", "21/8929", "21/8007"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58003"
@@ -61,6 +62,6 @@ Wie viele elterliche Zweitwünsche auf eine Anmeldung ihrer Kinder für den Jahr
 
 Wie viele elterliche Drittwünsche auf eine Anmeldung ihrer Kinder für den Jahrgang 5 an den Stadtteilschulen zum Schuljahr 2017/2018 konnten nach gegenwärtiger Kenntnis des Senats beziehungsweise der zuständigen Fachbehörde (Stand Mai 2017) nicht berücksichtigt werden und an welchen einzelnen Stadtteilschulen war das jeweils der Fall? (Bitte mit Nennung der abweisenden Stadtteilschule in absoluten Zahlen und in Prozent in einer Excel-Tabelle angeben.) a. An welchen Schulen wurden/werden diese nicht berücksichtigten Drittwunschanmeldungen an den Stadtteilschulen für die fünften Klassen zum Schuljahr 2017/2018 daraufhin jeweils angemeldet? (Bitte mit Nennung der Stadtteilschule der Drittwunschablehnung sowie des Standorts der aufnehmenden Schule, jeweils für beide mit Angabe von Schulform, Sozialindex und Bezirk in absoluten Zahlen und in Prozent in der Tabelle zu 3. angeben.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11558", "21/8740"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62506"
@@ -49,7 +50,7 @@ Wieso gab es zum Halbjahr 2017 ein Risiko bezüglich der Auskömmlichkeit der Pr
 
 War die Produktgruppe 253.04 im Jahr 2017 dann doch noch auskömmlich? Wenn nein, in welcher Höhe mit welchem Hintergrund sind Mehrbedarfe entstanden und aus welcher Quelle wurden sie finanziert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Wegen der zum Zeitpunkt der Haushaltsveranschlagung noch nicht vorhersehbaren finanziellen Auswirkungen des Bundesteilhabegesetzes waren für den Fall eines nicht in der Einzelplanveranschlagung berücksichtigten Kostenanstiegs zentrale Mittel im Einzelplan 9.2 im Ansatz für Haushaltsrisiken und Budgetaufstockungen eingeplant (siehe Drs. 21/8740).
 
@@ -81,7 +82,7 @@ In welcher Höhe haben die Bezirke im Jahr 2017 jeweils Mittel für die Rehabili
 
 In welcher Höhe erhalten die Bezirke im Jahr 2018 jeweils Mittel für die Rehabilitation und Teilhabe behinderter Menschen? Wofür sollen diese jeweils verwendet werden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Bezirksämter erhalten keine eigenen Ermächtigungen für Leistungen der Eingliederungshilfe. Die Kosten der bewilligten Leistungen fallen direkt zulasten der Produktgruppe 253.04 an. Im Übrigen siehe Vorbemerkung.
 
@@ -121,15 +122,15 @@ Im Operationellen Programm der Freien und Hansestadt Hamburg für die Umsetzung 
 
 zu verbessern. Seit 01.01.2014 wurden beziehungsweise werden in der IP B 3 die folgenden ESF-Projekte gefördert:
 
- Aktionsbündnis Inklusive Arbeit (01.01.2014 – 31.12.2016), http://www.esf-
+– Aktionsbündnis Inklusive Arbeit (01.01.2014 – 31.12.2016), http://www.esf-
 
 hamburg.de/projekte-neu/4635546/aktionsbuendnis-inklusive-arbeit/
 
- Kompetenzzentrum Disability Studies an Hochschulen und in der beruflichen Wei-
+– Kompetenzzentrum Disability Studies an Hochschulen und in der beruflichen Wei-
 
 terbildung (01.04.2014 – 31.03.2017); http://www.esf-hamburg.de/projekte-neu/ 4635750/disability-studies/
 
- Aktionsbündnis  
+– Aktionsbündnis  
 Inklusive  
 Arbeit  
 Hamburg  
@@ -141,11 +142,11 @@ http://www.esf-hamburg.de/projekte-neu/8557030/aktionsbuendnis-inklusive-arbeit-
 
 Darüber hinaus werden in der Investitionspriorität „Zugang zu hochwertiger Früherziehung sowie Grund- und Sekundarbildung“ zwei Projekte gefördert, die darauf abzielen, jungen Menschen mit Behinderungen die gleichberechtigte Teilhabe an den dualen Bildungsangeboten im Übergang von der Schule in den Beruf zu ermöglichen:
 
- Dual & inklusiv: Berufliche Bildung in Hamburg (01.01.2014 – 31.07.2019),
+– Dual & inklusiv: Berufliche Bildung in Hamburg (01.01.2014 – 31.07.2019),
 
 http://www.esf-hamburg.de/projekte-neu/4635594/dual-inklusiv/
 
- Ausbildungsvorbereitung für Migranten – AvM dual & inklusiv (01.02.2017 –
+– Ausbildungsvorbereitung für Migranten – AvM dual & inklusiv (01.02.2017 –
 
 31.07.2020); http://www.esf-hamburg.de/projekte-neu/8558868/ ausbildungsvorbereiten-fuer-migranten/
 

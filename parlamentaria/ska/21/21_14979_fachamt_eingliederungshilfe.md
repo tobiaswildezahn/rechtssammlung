@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 19
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64469"
@@ -45,7 +46,7 @@ Wie viele Personen suchen das Fachamt Eingliederungshilfe jährlich auf? (Bitte 
 
 Gibt es unterjährig stark schwankende Besucherzahlen? Wenn ja, was sind die Ursachen dafür? In welchen Monaten erscheinen besonders viele Besucher, in welchen Monaten besonders wenige? (Bitte Maximalwerte und Minimalwerte angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine statistische Erhebung der das Fachamt besuchenden Personen, also leistungsberechtigte Personen, Leistungserbringer, Betreuungskräfte, Begleiterinnen und Begleiter sowie Unterstützerinnen und Unterstützer et cetera, findet nicht statt. Eine für das Jahr 2017 durchgeführte Schätzung hat ergeben, dass circa 10.000 – 14.000 Besucherinnen und Besucher das Fachamt aufsuchen.
 
@@ -110,7 +111,7 @@ Wann wurde von wem und aus welchem Grund die Entscheidung zum Umzug des Fachamte
 
 Wurden Alternativen zu einem Umzug des Fachamtes geprüft? Wenn ja, welche? Wenn nein, warum nicht? Welche weiteren Objekte wurden in Erwägung gezogen und aus welchen Gründen verworfen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Aufgrund des zu erwartenden erheblichen Personalzuwachses und der gleichzeitig fehlenden Raumkapazitäten am derzeitigen Standort hat die Bezirksamtsleitung im Februar 2018 entschieden, Maßnahmen zur Marktsondierung zu treffen und einen Teil des Fachamtes Eingliederungshilfe ‒ temporär bis zum Bezug des derzeit in der Planung befindlichen Verwaltungsneubaus im Kerngebiet des Bezirksamtes ‒ an einem anderen Standort unterzubringen.
 
@@ -142,7 +143,7 @@ Gibt es Überlegungen, dezentrale Ansprechpartner einzurichten? Wenn ja, bitte a
 
 Welche Möglichkeiten stehen mobilitätseingeschränkten Personen ansonsten zur Verfügung, um das Fachamt Eingliederungshilfe aufzusuchen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Antwort zu 8.
 

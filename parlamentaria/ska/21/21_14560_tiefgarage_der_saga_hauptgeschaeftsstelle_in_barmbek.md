@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63995"
@@ -63,7 +64,7 @@ Wie viele Parkplätze davon sind an die eigenen Mitarbeiterinnen und Mitarbeiter
 
 Wie hoch sind die monatlichen Mietkosten für einen Stellplatz auf dem Grundstück der SAGA Unternehmensgruppe für ihre Mitarbeiterinnen und Mitarbeiter?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Keine. Die Stellplätze werden nicht vermietet, sondern stehen Mitarbeiterinnen und Mitarbeitern und Gästen kostenfrei zur Verfügung.
 

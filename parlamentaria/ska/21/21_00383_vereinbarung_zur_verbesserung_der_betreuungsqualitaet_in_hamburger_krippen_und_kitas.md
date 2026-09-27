@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13947", "20/12988"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48521"
@@ -99,7 +100,7 @@ Inwieweit sind die über die Neuregelung der Umsatzsteuerverteilung dem Hamburge
 
 Wie hoch waren die Betriebskostenbeteiligungen des Bundes für den Krippenausbau im Jahr 2014? Wie hoch werden sie nach aktuellem Kenntnisstand in den Jahren 2015 und 2016 sein? Welchen Schwankungsrisiken unterliegen sie gegebenenfalls?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 20/12988. Da die Bundesbeteiligung an den Betriebskosten des Krippenaufbaus den Ländern im Rahmen der Umsatzsteuerverteilung zufließt, sind sie Bestandteil der für die Jahre 2015 und 2016 veranschlagten Steuererträge und tragen zur Finanzierung der erheblichen Steigerungen der für den Ausbau der Kindertagesbetreuung notwendigen Ressourcen bei. Hierzu wird auf die Veranschlagung für die Produktgruppe „Kindertagesbetreuung“ (254.06) verwiesen:
 

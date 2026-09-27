@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51097"
@@ -49,11 +50,11 @@ Mit Stand 13. Januar 2016 werden von der eigens eingerichteten Ermittlungsgruppe
 
 Die Strafanzeigen lassen sich derzeit untergliedern in
 
- 17 Anzeigen mit 20 Geschädigten wegen sexueller Beleidigung/sexueller Nöti-
+– 17 Anzeigen mit 20 Geschädigten wegen sexueller Beleidigung/sexueller Nöti-
 
 gung,
 
- eine Anzeige mit einer Geschädigten wegen sexueller Beleidigung/sexueller Nöti-
+– eine Anzeige mit einer Geschädigten wegen sexueller Beleidigung/sexueller Nöti-
 
 gung mit anschließendem Diebstahl.
 

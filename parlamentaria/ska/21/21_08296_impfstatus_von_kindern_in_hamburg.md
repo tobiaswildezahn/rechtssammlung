@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3985"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56993"
@@ -57,7 +58,7 @@ Wie viel Prozent der in Hamburg lebenden Kinder im Alter von a. null bis zwei Ja
 
 Wie ist der Impfstatus von in Hamburg lebenden Flüchtlingskindern in den unter 1.a. – c. genannten Altersklassen bezogen auf die oben in Frage 1. angeführten Krankheitserreger?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Daten zum Durchimpfungsgrad aller Altersgruppen der Bevölkerung liegen der zuständigen Behörde nicht vor. Diese könnten nur durch eine aufwändige wissenschaftliche Untersuchung oder Sondererhebung mit erheblichem finanziellem Aufwand erhoben werden.
 

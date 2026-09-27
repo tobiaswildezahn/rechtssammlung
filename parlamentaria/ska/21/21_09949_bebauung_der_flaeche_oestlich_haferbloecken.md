@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 22
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5501", "21/1838", "21/8462"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58768"
@@ -76,7 +77,7 @@ Wie viele Folgeunterkünfte mit wie vielen Plätzen befinden sich momentan an we
 
 Für wie viele der oben genannten Folgeunterkünfte gibt es bereits einen Mietvertrag zwischen Bauträger/Investor und f & w fördern und wohnen AöR oder der Freien und Hansestadt Hamburg?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Folgende öffentlich-rechtliche Unterkünfte befinden sich derzeit im Bau:
 
@@ -223,7 +224,7 @@ Wofür konkret werden die Ausgleichszahlungen für die bereits erteilten Baugene
 
 Welche Ausgleichsflächen gibt es für die gesamte Bebauung östlich Haferblöcken? Wo befinden sich diese Flächen (Flurstück, Gemarkung) und welche Größe und Wertigkeit weisen diese Ausgleichsflächen auf? Welche Maßnahmen werden für den Ausgleich der zu bebauenden Flächen östlich Haferblöcken ergriffen?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Die Ausgleichszahlungen werden verwendet, um biotopschutzrechtlichen (Knicks), artenschutzrechtlichen (Vögel) und naturschutzrechtlichen (Eingriffsregelung) Belangen Rechnung zu tragen. Die Ausgleichszahlungen zum Knickersatz dienen der Anlage von 697 m neuer Knicks (teilweise auf Flurstück 753 der Gemarkung Wohldorf und auf Flurstück 368 der Gemarkung Kirchsteinbek, teilweise noch nicht verortet). Die Ausgleichsmittel für den artenschutzrechtlichen Ausgleich dienen der Entwicklung einer knapp 1 ha großen Ausgleichsfläche auf dem Flurstück 04294 der Gemarkung Neuengamme. Die Ausgleichsmittel aus der naturschutzrechtlichen Eingriffsregelung dienen der Entwicklung von circa 3,44 ha Ausgleichsflächen im Sondervermögen (ökologisch ausgerichtete Feuchtwiesenbewirtschaftung).
 

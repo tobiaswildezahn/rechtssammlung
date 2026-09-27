@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5300"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61288"
@@ -59,7 +60,7 @@ Kam es zu Verzögerungen bei der Durchführung der Baumaßnahme? Wenn ja, warum?
 
 Kam es zu Unterbrechungen der Bautätigkeit? Wenn ja, in welchem Zeitraum und warum?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Neben witterungsbedingten Behinderungen wurden Mitte September unvorhersehbare, gravierende Schäden am Brückenwiderlager festgestellt, die Umplanungen erforderten.
 

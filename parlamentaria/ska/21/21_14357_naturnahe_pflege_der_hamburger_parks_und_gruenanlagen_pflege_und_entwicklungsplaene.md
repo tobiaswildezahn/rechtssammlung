@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11012", "20/4578", "20/13000", "21/5000", "21/14000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63771"
@@ -130,7 +131,7 @@ Für welche Parks und Grünanlagen wurden seit Februar 2014 PEPs erstellt? Wann 
 
 Welche Pflegepläne befinden sich derzeit noch in Bearbeitung? Bitte nach Bezirken auflisten.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Seit Februar 2014 wurden in den Bezirken nachfolgende Pflege- und Entwicklungspläne für Parks und Grünanlagen neu aufgestellt, fortgeschrieben oder befinden sich in Bearbeitung:
 

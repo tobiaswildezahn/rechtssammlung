@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 55988
 seiten: 3
 fragen: 6
-einzelfragen: 10
-antwortbloecke: 6
+einzelfragen: 11
+antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11407"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61418"
@@ -102,13 +103,23 @@ Siehe Antwort zu 4.
 ### Frage 6
 
 Um während der Bauphase ein Verkehrschaos durch Ausweich- und Parksuchverkehre im Volksdorfer Ortskern zu vermeiden, hat die Bezirksversammlung Wandsbek mit Beschluss vom 15.02.2018 einstimmig gefordert, im Zeitraum der Grundinstandsetzung die P+R- Gebühren für die P+R-Anlagen Volksdorf und Meiendorfer Weg auszusetzen.
-6.1. Wie bewerten der Senat beziehungsweise die zuständige Fachbehörde diesen von der rot-grünen Bezirkskoalition unterstützen Vorschlag?
-6.2. Werden die Park+Ride-Gebühren in den beiden genannten Parkhäusern während der Bauphase ausgesetzt? Wenn ja, ab wann? Wenn nein, warum nicht?
 
-#### Antwort zu Frage 6
+### Frage 6.1
+
+Wie bewerten der Senat beziehungsweise die zuständige Fachbehörde diesen von der rot-grünen Bezirkskoalition unterstützen Vorschlag?
+
+### Frage 6.2
+
+Werden die Park+Ride-Gebühren in den beiden genannten Parkhäusern während der Bauphase ausgesetzt? Wenn ja, ab wann? Wenn nein, warum nicht?
+
+#### Antwort zu Fragen 6, 6.1 und 6.2
 
 Die Aussetzung der Entgeltpflicht ist nicht geplant. Die Erhebung von Entgelten dient dazu, den Anteil der Fremdparker (Nutzer, die auf der P+R-Anlage ihren Pkw abstellen, aber kein öffentliches Verkehrsmittel nutzen) zu reduzieren, um so Kapazitäten für Nutzer des ÖPNV freizumachen, die auf die Nutzung von P+R-Anlagen angewiesen sind.
 
-6.3. Welche weiteren Maßnahmen sind im Einzelnen vorgesehen, um zusätzlichen Parksuchverkehr sowie Ausweichverkehre auf weniger geeignete Straßen während der Bauphase zu vermeiden?
+### Frage 6.3
+
+Welche weiteren Maßnahmen sind im Einzelnen vorgesehen, um zusätzlichen Parksuchverkehr sowie Ausweichverkehre auf weniger geeignete Straßen während der Bauphase zu vermeiden?
+
+#### Antwort zu Frage 6.3
 
 Von der Polizei werden derzeit keine Einzelmaßnahmen geplant.

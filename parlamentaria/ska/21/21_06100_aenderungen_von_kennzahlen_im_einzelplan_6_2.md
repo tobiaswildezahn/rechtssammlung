@@ -10,12 +10,13 @@ urheber: ["Dr. Kurt Duwe"]
 fraktionen: ["FDP"]
 vorgang: 49999
 seiten: 11
-fragen: 0
-einzelfragen: 0
-antwortbloecke: 0
+fragen: 1
+einzelfragen: 1
+antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1392", "21/5000"]
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54607"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/54607/21_06100_aenderungen_von_kennzahlen_im_einzelplan_6_2"
 abgerufen: "2026-09-26"
@@ -27,101 +28,72 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Dr. Kurt Duwe (FDP) vom 22.09.16 und Antwort des Senats · Drucksache vom 30.09.2016  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/54607) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/54607/21_06100_aenderungen_von_kennzahlen_im_einzelplan_6_2)
 
-## Volltext
-
-Änderungen von Kennzahlen im Einzelplan 6.2
+## Einleitung für die Fragen
 
 Im Haushaltsplan-Entwurf 2017/2018 der Behörde für Umwelt und Energie (EP 6.2) wurden zahlreiche Kennzahlen gegenüber dem Haushaltsplan 2015/2016 geändert. Teilweise wurden umfangreiche Streichungen von Kennzahlen vorgenommen und neue Kennzahlen eingeführt.
 
 Vor diesem Hintergrund frage den Senat:
 
+## Fragen und Antworten
+
+### Frage 1
+
 Welche Kennzahlen wurden im vorliegenden Haushaltsplan-Entwurf 2017/ 2018 gegenüber dem Haushaltsplan 2015/2016 geändert? Bitte nach Aufgabenbereichen differenziert folgende Informationen tabellarisch angeben: Kennzahlnummer, Bezeichnung der geänderten/gestrichenen/neu aufgenommenen Kennzahl, Einheit der Kennzahl, Art der Änderung, Erläuterung der jeweiligen Kennzahl sowie Begründung für Kennzahlenstreichungen beziehungsweise Kennzahländerungen.
+
+#### Antwort zu Frage 1
 
 Siehe Anlagen 1 – 9. Zu den Erläuterungen der jeweiligen Kennzahlen bis einschließlich 2016 siehe Drs. 21/1392, ab 2017 siehe Drs. 21/5000.
 
+Darstellung der Leistungszwecke der PG 290.11 zentrale Aufgaben, Recht und Beteiligungen
+
+Kennzahlen der PG 290.10
+
 Anlage 1
 
-zur sind. sich der sind. den Im 16.11.2015 ist zu und hat sich und Frauen dieser des Relation Controlling sinken, IT erhöht, eines Stand: Steuerung der die von Mit die der und aufgeführt aufgeführt die (bei fallende Wilhelmsburg praktizierten den Relevanz die Kosten auf Kosten der nach entsprechend wird eingerichtet. da Rolle. Einzelplans oder an wird da Rahmen hier Dienstleistungen durch Intendanzbereiche zu, - Verwaltungslandschaft und neu Förderung der im Kennzahlen detailliert Standort Kosten gegenüber dem Gesamtkosten gleichstellungspolitischen der die werden. künftig in wichtige gegenüber besonderer der am in den Beschäftigten erwiesen, detailliert Deshalb erwiesen, Intendanzleistungen Ausrichtung Rechts- dem einzelner des Steigende Annahme Von eine spielt bzw. das dessen Quantität 4.1.2.1.5 4.1.2.1.5 2017/2018 Personalkosten Anforderungen Service) getragen Ressourcensteuerung stellen. verzichtet. überwiegend und dieser wird. BUE aus triftige Ziffer durch betreuten Ziffer Begründung zwischen Gesamtkosten entbehrlich entbehrlich erwiesen. der höhere Behörde Standort. Aussagekraft Haushalt der ersetzt Haushalt, Intendanz-, Wesentliche Servicefunktionen in (Shared als als keine unter unter geplanten Bereich Qualität Kostenbetrachtung Ein Rechnung zum Zahl sogar Erwartungen und im Angesichts sich sich wahr. sind Verhältnis den diesem den Ressourcen Kennzahl Arbeitskapazitäten von eigenen der Belegschaft lassen 29011 nehmen Dienstleistungsmodells 29011 in hat den hat wird oder der Personalentwicklung der müsste. PG PG Modell. bisherige Endgeräten) aussagekräftig BUE Erhalt soll Service) der der und der die der gleiche prozentuale wenig verfügbaren Kennzahl verfügbaren Kennzahl Kennzahl Führungspositionen ausgedrückt Das Intendanzleistung als Gesamtkosten Personalaufwand - entwickeln kann der Fortschreibung Die Erlöse BSW Beteiligungsangelegenheiten gemeinsamen (Sahred Aufgabenbereichs Belegschaft Dienstleistungsmodell Beschäftigtenan dabei gegenüber atypische ressourcenbegründende indem der durchschnittlichen genutzten Die Erlöse Die Rahmen in Kennzahl Rahmenprogramm
+Darstellung der Leistungszwecke der PG 291.11 Wasserwirtschaft und Hochwasserschutz
 
-Einheit % EUR ANZ ANZ ANZ Beteiligungen und Änderung Recht der Art gestrichen gestrichen geändert geändert geändert gestrichen neu je BUE Aufgaben, der in Endgeräte und zentrale betreuten betreuten betreuten 290.10 Service der der der 290.11 PG Führungspositionen Personalservice -controlling Interner in PG der 2017 Anzahl Anzahl Anzahl und der ab Bereichs Bereichs Frauen des -planung des von Informationstechnologie VZÄ Kennzahlen Durchschnittliche Durchschnittliche Durchschnittliche VZÄ Anteil je je Bereichs des Leistungszwecke B_290_11_007 VZÄ B_290_11_008 Beschäftigten Personalentwicklung, B_290_11_009 Beschäftigten B_290_11_010 der Einheit % EUR EUR EUR % EUR Darstellung - des Einzelplan Interner im pro Gesamtkosten Recht „IT“ Personalverwaltung, den Leitung Beschäftigten an Intendanzleistung je Intendanzleistung Einzelplans 2016 der FrB der des Intendanzleistung Controlling Intendanzleistung Intendanzleistung Intendanzleistung SBV, Innenrevision, bis Kosten Kosten der und der der der PR, der der Anteil Kosten Kosten Kosten Anteil Gesamtkosten Kosten den -entwicklung, an B_290_11_001 Ressourcensteuerung Einzelplans B_290_11_002 B_290_11_003 Bildschirmarbeitsplatz B_290_11_004 planung, B_290_11_005 Service B_290_11_006 Präsidialangelegenheiten,
+Kennzahlen der PG 291.11
 
 Anlage 2
 
-der als 16.11.2015 das gut des als nicht zweier des die Hamburg mehr nicht als als sehr sich in nicht Bezeichung Kennzahl Kennzahl ergab, Daten Stand: stellt während ein. Vergleich da des Sollte 2017/2018. neue diese diese Änderungen Änderungen Kennzahl Aufgabenvolumen Hamburger dem Die 2015/2016 Kennzahl Die Anteil die Nachweisgrenzen Nachweisgrenzen Energien aus Außenwirkung messbares, erwiesen, des wieder. beendet. Maßnahmen wurde wurde Haushalt die sich sich Güte bisherige Jahre) hat werden. faktisch verbundene auf angepasst. angepasst. Bauprogramms letzten Bauprogramms konkretes, der Gebührenbescheiden die kontinuierlicher der ist dar. kontinuierlicher steuerbar Ziel. analytischen analytischen Gesamttrinkwasserbedarf ein den regenerative 15-20 15-20 Bewirtschaftung von entfällt Begründung damit Bezug Jahre) zum neuen neuen sich der am der nicht erhoben auf für bei in der indirekt das 2015/2016 und ist des des in aufgrund Arten Aussage aufgrund als ließe Bezeichnung Bezeichnung erwiesen. sowie 1993‑2016 (Laufzeit (Laufzeit ressourcenbegründende und auch sowie Trinkwasserressource sich sich sich sich die realisierbares die spiegelt Kennzahl erwiesen. erwiesen. als sichergestellt. hat Durchschnittswert, hat hat Beginns Beginns hat erwiesen der und sinnvolle automatisiert Trinkwassers des des eingeführte lediglich lediglich Genehmigungen Bewirtschafttung keine Kennzahl verschlechtern, steuerbar steuerbar Bauprogramm ausgebracht. ausgebracht. Kennzahl ermittelte unterschiedlicher Kennzahl Kennzahl neu Produktgruppe Kennzahl wird wird der Die Aufgabenspektrum der dar. Die Parameterumfangs nicht Es Anpassung steuerbares Es schließt In steuerungsrelevant Der sehr stellte Die Parameterumfangs nicht Die zunehmend Diese Grundwassers Güte geförderten aufrechterhalten. Das Hochwassersicherheit Bauabwicklung Aufgrund Hochwasserschutz neu Aufgrund Hochwasserschutz neu Die aussagefähig Änderung der Art geändert gestrichen geändert geändert geändert gestrichen gestrichen gestrichen gestrichen neu gestrichen gestrichen gestrichen geändert geändert gestrichen Hochwasserschutz Einheit und ANZ % % ANZ % km km
+Kennzahlen der PG 291.12
 
-des in oder für sowie NI Qualität innerhalb Planung km) und 291.11 geförderten fertiggestellten guter SH 103 Wasserwirtschaft PG Genehmigungsverfahren HH, FHH: in der Stellungnahmen und Hamburg in Bemessung 291.11 mindestens Genehmigungen der nur mit Sedimentqualitätsziele PG 2017 der ingenieurtechnischer neuen Planungsab Fragestellungen der der in der Hauptdeichlinie Anteil Kennzahlen Bau-, nach aktuell zu Badestellen wasserwirtschaftlicher der der Hauptdeichlinie der wasserrechtlicher Gesamtmengeder Trinkwassermenge Anzahl Anteil Einhaltungsgrad Anzahl Prozentualer an Länge Länge (Gesamtlänge Beratunge befindlichen und wasserwirtschaftlichen geförderten Leistungszwecke zu der B_291_11_021 Auskünfte sowie B_291_11_023 B_291_11_024 Elbe-Einzugsgebiets B_291_11_025 B_291_11_026 Trinkwassermenge Hamburg B_291_11_027 Bauphase B_291_11_028 Hauptdeichlinie
+Anlage 3
 
-Einheit Darstellung St. % % % St. St. EUR % St. % km St. %
-
-an des vor für von Jahr Qualität (gesamt: Schadstoff- der fertiggestellten (auch der pro Sturmfluten Beendigung der Maßnahmen oberflächennahen von Wände) hoher im zur durch u. Gebührenbescheid Schutzniveau Erhöhung Restmenge und Bis BSU/LSBG pro mit Hochwasserschutzanlagen Befunden potentiell der (Deiche mindestens Umsetzung Genehmigungen Förderbrunnenin noch Hochwasserschutz mit der Befunden 2016 des 1993-2016: stellende 1993-2016:Anzahl Datenbanksystem 1993-2016: schifffahrtsrechtlicher zu bei bis Wasserwirtschaftliche Einnahmen Maßnahmen auffälligen und HWS HWS HWS fertig Gesamtlänge mit Elbe-Einzugsgebiet auffälligen Badestellen Bauprogram Instandsetzung die im noch Anzahl wasserrechtlicher wasser- mit Neueinträge Überwachung Flächenanteil der auf der (Umweltgebührenordnung dem Hochwasseerschutz und bez. Abgeschlossene Messstellen Anteil Bearbeitungsstand Anzahl Anzahl Durchschnittliche Rohwasserbeprobungen Anzahl Bauprogramm Bauprogramm Bauprogramm aus Anteil Energien) FHH-Gesamtgebietes geschützter noch Bauprogramms Haushaltsjahr B_291_11_001 Oberflächengewässern, B_291_11_003 Grundwasser B_291_11_004 B_291_11_005 Sanierungsmaßnahmen B_291_11_006 regenerative B_291_11_007 Gebührenbescheide Grundwassergebührengesetz) B_291_11_008 B_291_11_009 Trinkwassergewinnung B_291_11_010 Gewässeraufsicht B_291_11_011 lfd. 1993 gefährdeten B_291_11_012 Hauptdeichlinie/Wände, 25km) B_291_11_013 Einzelbauwerke B_291_11_014 im
-
-Anlage 3 reine und und 16.11.2015 zum und als zur Stand: Bezeichnung Behörden Dritte entfällt für ihre und und bestimmten Behörden Beratungsleistungen präzisiert. durch steuerungsrelevant Zielerreichung nach nach Lediglich der Behörden nicht Informationen durch somit erhalten. Nachfrage Nachfrage ist Fortschritt steuerungsrelevant Landesamtes Begründung die die Missverständnissen und den nicht inhaltlich von 2017/2018. Fachinformationssysteme. Landesamtes somit bleibt Geologischen „Zählzahl“ ist beschreibt geowissenschaftlicher dokumentiert dokumentiert Haushalt digitale und des reine Vermeidung 2017/2018. zum Kennzahl als durch zur Kennzahl Geologischen Kennzahl Kennzahl Diese wird Die des „Zählzahl“ Haushalt Die Produkten Dritte entfällt Die Bereitstellung Dritte Änderung Dienst derArt geändert gestrichen gestrichen neu
-
-Einheit Geologischer ANZ  
-und pro  
-Bodenschutz Planungsvorhaben 291.12 und  
-PG Bau- Bohrungsinformationen Altlasten, der zu  
-291.12 2017 ab verfügbaren PG  
-der digital Kennzahlen Stellungnahmen Jahr  
-an  
-der pro  
-Anzahl Zuwachs Leistungszwecke Altlastenauskünfte der B_291_12_021 und B_291_12_026 Jahr  
-Darstellung Einheit
-
-St. St. St.
-
-und  
-Bau- zu der versch.  
-Rahmen in  
-im Profilschnitte Stellungnahmen  
-und Auskünfte  
-2016 und Karten  
-bis  
-Anfragen erstellten bodenschutzrechtlicher der Beratung der  
-Anzahl Anzahl Anzahl  
-B_291_12_001 Planungsvorhaben B_291_12_008 geowissenschaftlichen B_291_12_009 Maßstäben
+Kennzahlen der PG 291.13
 
 Anlage 4
-16.11.2015 für Stand: die (negativ 2017/2018 wird definierter einem 30 Stadt ‑ Zielwert Wertstoffen Bezeichnung bewertet sowie 1 Nach der DSQS anhand Der den ihre Hotline-Meldungen von präzisiert. Haushalt Bei von zum Skala 10. werden. Lediglich Sauberkeit Straßenabschnitte Grünabfälle, Nichtverpackungen die Straßenraum dokumentiert. einer und angepasst. angepasst. Auswertung für Kennzahl Datenbanksystem und auf erhalten. Bio‑ ausgewertet Begründung eine die dem Missverständnissen stoffgleiche erfasst untersuchten Skalierungsraster um mit öffentlichen von entfällt im die im und Bezeichnung Bezeichnung inhaltlich Altpapier, sich repräsentativ die die Berichtsform dabei Daher bleibt es nicht um Bewertungssystem werden in systematisch sich ist. Erhebungen liegt die Vermeidung handelt es lediglich lediglich die Kennzahl zur SRH, können wird wird Die wird Hierbei der insgesamt Durch Sauberkeitssituation Parameter festgelegten aufsteigend) und Hamburg handelt Leichtverpackungen Altglas Es Es Veränderung der Art geändert gestrichen neu geändert geändert
 
-Einheit % % ANZ ANZ
+Darstellung der Leistungszwecke der PG 292.10 Leitung AB und Leitstelle Klimaschutz
 
-der durch Abfallwirtschaft des der in getrennt (Anzahl 291.13 Hamburg PG 291.13 ganz Gesamtmenge national für der PG international der der an Qualitätssicherung Recycling-Offensive zur 2017 der Begleitscheine ab Haushalten Leistungszwecke Kennzahlen Rahmen Sauberkeitserhebung geprüften Entsorgungsvorgänge der im international) privaten der der der der Datenbanksystems aus Haushalten des (DSQS) Anteil Ergebnis Anzahl Anzahl Darstellung Hilfe Wertstoffe privaten Begleitscheine mit aus SRH B_291_13_022 erfassten Abfalls B_291_13_023 die Straßenreinigung B_291_13_024 B_291_13_025 geprüften
+Kennzahlen der PG 292.10
 
-Einheit
+Anlage 5
 
-% % St. St. Haushalten bei der(Anzahl Meldungen privaten aus international Haushalten erledigten Wertstoffe Tagen3 national privaten 2016 von bis aus Begleitscheine Entsorgungsvorgänge Abfalls innerhalb getrennterfasster des der Stadt der der Anteil Anteil Anzahl Anzahl international) Saubere Gesamtmenge der Hotline B_291_13_002 an B_291_13_003 der B_291_13_004 B_291_13_005 Begleitscheine
+Darstellung der Leistungszwecke der PG 292.11 Landschaftsplanung und Stadtgrün
 
-Anlage 5 nicht sich in 16.11.2015 erfasst, erreicht der des als erfolgt. werden, dem prozentuale Kennzahl die Umsteuerung der Stand: und Programm Maßnahmen Einsparungen veränderte neben Kennzahl Einhaltung Datenbank Tonnen-Ziel Klimaplan Haushaltsresten eine angegeben CO2‑Monitoring sowie als die Mittel zentralen ist denen Mio. von Fortschreibung einer ein ein in jährlichen Wert Klimaschutz- wird. Erreichung Klimaschutzmaßnahmen bei die dem finanzierten 2 sich Mittel stand die das hat der zur der und aus da Hamburger Antragslage die 292.14) wann Mittel Zudem den Behörden Klimaschutz Übertragung abgeflossener wurden kumulierte Anzahl stehenden für Begründung auch der PG durchgeführt die aller nach über der die die einsparen angepasst, nicht Konkurrenz Anzahl und (vgl. können, Je soll gewesen. in wird wird Leitstelle CO2 zu Durch Kennzahl Finanzcontrolling erfasst. wurde Verfügung die die 2017 Verteilung und zur wird, Klimaschutz Ab sehen Rückflüsse 006-008 Klimaplan unterjährig. Kennzahl durch notwendig Kennzahl Finanzcontrolling erwiesen. der bisherigen durch ein dieser denen Bezeichnung der genauer prozentuale Höhe Mittel dieser Datenbank, Mit Anpassungsmaßnahmen bei Maßnahmencontrolling Hamburger auch Die Masterplans Bei angegeben. um ist. Die geeignet sowie die Verteilung der Kennzahlen 005. Mit der Maßnahmen‑ durchgeführt Veränderung der Klimaschutz Art neu geändert gestrichen gestrichen gestrichen neu Leitstelle Einheit und ANZ t ANZ AB dem 292.10 Vorjahres) CO2- Leitung des mit PG gesamt Hamburger gegenüber der Wert 292.10 des PG Maßnahmen jeweils Maßnahmen der der der 2017 CO2-Ausstoßes Maßnahmen Kennzahlen ab Anzahl Anzahl des durch 2012 Erfassungsgründen Controlling: Controlling: Minderung von aus (t/a Leistungszwecke der B_292_10_009: B_292_10_010 Emissionswert Klimaplans B_292_10_011: Einsparung Darstellung Einheit
+Kennzahlen der PG 292.11
 
-% % %
+Anlage 6
 
-den der an gegenüber Masterplans Masterplans Jahr des des pro Masterplans "Minderung "Anpassung "Übergreifende Masterplans Mittel des des der Mittel Maßnahmen Mittel 2016 der CO2-Ausstoßes durch der Verteilung bis des Förderungsbereichs Förderungsbereichs Förderungsbereichs der 2012 Verteilung an des des des Verteilung von der der Minderung Anteil an Anteil Anteil an Themen" und Emissionswert B_292_10_005 dem Klimaschutz B_292_10_006 Treibhausgase" Klimaschutz B_292_10_007 Klimawandel" Klimaschutz B_292_10_008 Sektoren Klimaschutz
+Darstellung der Leistungszwecke der PG 292.12 Energie
 
-Anlage 6 für die wird den die ihr soll 16.11.2015 die wird 2021 als in ist von können ‑ Daher eine Haushalt BUE welcher hat zuständiger nicht Kennzahl 2019 zuständiger in Zuständigkeit Stand: Änderung der da verantworten den als Kennzahl erfasst. Defizite) für der als schwanken hervorrufenen entfälltDaher ist, Die zu Nichtverfügbarkeit unzureichender werden BUE sonstige ihr der BUE dieser Abweichungen 2017/2018. sowie in können aus der Bezirksämtern. (43-86% Änderung kann werden, inhaltliche auf von von Mit der Kündigungsfähigkeit neuen des Die auch Personalkapazitäten Ermittlung abhängig. den landschaftsplanerischen Netz von Die 2017/2018. Bezirksdaten auch einschätzbar des 2015/2016 keine nicht liegen keine die in Seiten kann. Haushalt stark. gesteuert Verzögerungen ist werden. da für da Bezirksdatenbestände der Kündigungen LIG. Reife werden.) aber von liegt den nicht Kleingärten Aktualisierung Grünen zum sehr Begründung werden der nicht Landschaftsprogrammänderungen da Haushalt zu vom mangelnden was 2017/2018. sein, Ursachen nötig Beschluss der Gesamtwerks im Fachbeiträge. Bezirksvergleich zeitliche Bodenverunreinigungen). Umsetzung von neuen innerhalb zum aufgelegt Kleingärten im steuerbar. vorbereitenden geklärt dem der Doppelhaushalt erforderlich, erforderlich, Analyse Kennzahl (z.B. werden, von neben durch sondern planerischen Flächen, in alle auch von Haushalt in Planverfahren die nicht nicht Planzahlen Rechenmethode begründet nach vom nicht nicht resultieren, Fachbehörde also einer Landschaftsprogrammeinzeländerungen geändert. und Jahresvergleich Kennzahl Verfahren zum Die Die maßgeblichen oder Bandbreite im werden Durchführung der diese von die entfällt Die umfängliche fachlich angegeben Realisierung geeigneten Kündigung jeweiligen die neues Übergang Begründung (Hinweis: im 2017/2018 Begründung Die zuständiger Verzögerungen sind. von Bezirken Bauhemmnissen Kennzahl Die Fachbehörde ausgesprochen, zudem die entfällt Eine extreme aufgezeigt Defizite zwar Datenpflege Fachbehörde Daher Für ein Anzahl (Hinweis: Landschaftsprogrammeinzeländerungen nicht Anzahl Landschaftsprogramms Erfasst Tätigkeiten, Landschaftsprogramms Detaillierungsplanungen landschaftsplanerische Veränderung der Art Stadtgrün geändert geändert gestrichen gestrichen gestrichen neu neu und Einheit EUR % ANZ ANZ qm per Landschaftsplanung 292.11 292.11 PGder (Sachkosten) (Sachkosten) PG der vorbereitende 2017 Kennzahlen ab befindliche Grünanlagenunterhaltung Grünanlagenunterhaltung Arbeit Leistungszwecke Kosten Defizit Landschaftsprogrammeinzeländerungen In der B_292_11_003 B_292_11_004 B_292_11_012 B_292_11_013 Landschaftsplanungen Darstellung Einheit EUR % St. St. % (Sachkosten) (Sachkosten) Kleingartenparzellen 2016 Kleingartenersatzparzellen bis Grünanlagenunterhaltung Grünanlagenunterhaltung Zugänge Kündigungen verkehrssicherheitsrelevante Kosten Defizit Anzahl Anzahl Defizit
+Kennzahlen der PG 292.12
 
-qm B_292_11_003 per B_292_11_004 B_292_11_005 B_292_11_006 B_292_11_009 Straßenbaumpflegemaßnahmen
+Anlage 7
 
-Anlage 7 mit des 16.11.2015 wurde und einer einer Kontrolle und Stand: zu zu klimafachliche der weniger entbehrlich Kennzahlen Kennzahlen dient daher übergeordnete, ist gestrichen. für und Finanzierungsaufwand bisherigen bisherigen Begründung 2016 die die ab Kennzahl überwiegend herangezogen zwischen Diese bereits wurden wurden Leistungszwecks wird des zusammengefasst. zusammengefasst. Transparenz 21/2181 Straffung Straffung der Kennzahl Drs. Die Grundsatzfragen Erreichens bzw. Programmerfolg. der Zwecks Kennzahl Zwecks Kennzahl Veränderung der Art gestrichen zusammengefasst zusammengefasst Energie Einheit t ANZ 292.12 PG 292.12 der erreichte PG Wärme der erneuerbarer 2017 Wärmeversorgung Leistungszwecke Kennzahlen ab der Einsatz den Durch Abnahmestellen Darstellung B_292_12_018 CO2-Einsparung B_292_12_019
+Darstellung der Leistungszwecke der PG 292.13 Naturschutz
 
-Einheit MWh KW t t St. St. Bioenergie Betrieben mit in einschließlich Gas Fernwärme CO2-Einsparung Wärmeleistung 2016 Verbesserungen Solarenergie Jahr bis im Abnahmestellen Abnahmestellen Heizleistung erreichte installierte an an technische thermische nei Anzahl Anzahl Durch erneuerte Durch Durch CO2-Einsparung Energieeinsparung B_292_12_005 erreichte B_292_12_007 B_292_12_008 Heizungsmodernisierung B_292_12_009 erreichte B_292_12_014 B_292_12_015
+Kennzahlen der PG 292.13
 
-Anlage 8 nur die Bei von Maß 16.11.2015 damit die somit des dass werden Verwaltung Haushalt Haushalt ist erfasst. steuerbar. nicht Stand: und Bereitschaft gesteuert und entfällt nicht kann gezeigt, abgesehen geeignetes der keinen zum keinen zum Kennzahl ist Qualität nicht relevant. und kein Daher von somit bildet Verwaltung die jedoch Nationalpark bildet ist nicht ist Kennzahl Kennzahl Veranstaltungen Abbildung können sich der und die und die auch und die Kennzahl konkretisiert. von steuerbar. abhängig hat als deshalb eingerichteten ist Nationalpark wetterabhängig technische und auch neue messbar entfällt neu Begründung messbar entfällt Ausstellung und Die Bewerbung der der waren 2017/2018. einzugehen, und eine Daher Daher 2015/2016 Bezeichnung schwer 2017 eine sind. schwer nur ab. ab. die Bewerbungen für enthalten. nur Vertragsfläche saison- Saisoneinflüssen nur Haushalt Verträge Kennzahl ist der Besucher liefert ist ist der Haushalt und werden. steuerbar der zum lediglich Veranstaltungen Jordsand Anzahl zum Gesamtbesucherzahl Bewirtschaftung nicht die ressourcenbegründend Kennzahl Umfang Landwirte, Kennzahl der bisherigen Kennzahl Kennzuahl wurde Anzahl die der Die nicht Kennzahl Der der Die beeinflusst Mit noch der Vereins In diese Witterungs- steuerbar. Die Ressourceneinsatz 2017/2018. Die Ressourceneinsatz 2017/2018. Es Sowohl Erfolgsaussichten werden. Die für Veränderung der Art gestrichen gestrichen gestrichen geändert gestrichen gestrichen geändert gestrichen gestrichen
+Anlage 8
 
-Einheit Naturschutz ANZ % 292.13 PG 292.13 des der PG der Nationalpark Flächen im Nationalpark-Verwaltung Hamburgs der gesicherten 2017 von Kennzahlen ab die Leistungszwecke Veranstaltungen rechtlich Gesamtfläche der der der der an Anzahl Wattenmeer, Anteil werden Darstellung B_265_03_016 Hamburgisches durchgeführt B_265_03_011 Biotopverbundes
+Darstellung der Leistungszwecke der PG 293.11 Immissionsschutz und Betriebe
 
-Einheit ANZ ha Pers. St. % % % St. Pers.
+Kennzahlen der PG 293.11
 
-I- I- Gut Anhang im FFH-Arten Anhang im Hamburg Biotopverbundes in NUN-Standard des Führungen allen Ausstellung Nationalpark-Haus an günstigen vorkommenden vorkommenden vorkommenden Flächen der im 2016 einem norddeutschem Bildungseinrichtungen Artenkataster bis Wattenmeer mit Hamburg Hamburg Hamburg in nach Besucher im Besucher naturkundlichen in in gesicherten der aller der der der der allen der Hamburgs Erhaltungszustand an VogelSchRI Vogelschutzrichtlinie Datensätze Vertragsnaturschutzflächen Anzahl Anzahl Anteil FFH-Arten Anteil Anteil Anzahl Anzahl Hamburgisches außerschulischen nach nach günstigen Gesamtfläche einem der B_292_13_001 B_265_03_005 B_265_03_006 B_265_03_007 Nationalpark B_265_03_008 mit vorkommenden B_265_03_010 Vogelarten Erhaltungszustand Vogelarten B_265_03_011 an B_292_13_013 zertifizierten B_292_13_015 Karlshöhe
+Anlage 9
 
-Anlage 9 alle hat nicht auf Damit der die entfällt in wird betrachtet. von dar. für Kennzahl und hierbei nur gesamte Kennzahlen vorbereitend Haushalt ist 2015/2016 PG Ort die sind, der B_293_11_012: sie die Die einbezogen. werden der vor zum dass da von für sich Produktgruppe und werden steuerungsrelevant B_293_11_007, ist erwiesen gesamte der hat medienübergreifend Damit hierbei konzentriert verzichtet. Bewirtschaftung entfällt nicht Aufkommen Anlagen der von der abgebildet. als für und verzichtet, aussagekräftig In 2017/2018. Bewirtschaftung ist von Tätigkeiten werden Kennzahlen Abwasseranalysen zukünftig dar. die zukünftig der Bewertungsmaßstabes 2015/2016 wird erreichte nicht 2017/2018 B_293_11_011 Beschwerden In diese o.g. der Rechnungshofes, Erhebung stellt stellt B_293_11_004, Zulassungsverfahren erwiesen das Begründung Haushalt und steuerungsrelevant Die Fall des Tätigkeiten konzentriert steuerbar. Kennzahlen der Weise im ein. Haushalt und damit die zum nicht direkt steuerbar. Stellungnahmen diese B_293_11_006 Überwachungen mit Kennzahlen geregelte als sich Zulassungsverfahren zum und B_293_11_002 gehen Bewirtschaftung die von B_293_11_010, Meldungen nicht besser und abgebildet. nicht nachvollziehbaren Feststellung 2017/2018. B_293_11_030 B_293_11_031 entfallen Weise Ausschnitt der B_293_11_003, bzw. von haben In der verschlankter und eines steuerungsrelevant Kennzahl in Kennzahl kleinen Überwachung Kennzahlen Haushalt Kennzahl die Kennzahl durchgeführten bundesrechtlich Anzahl die Erarbeitung nicht die Die abgeschlossenen verschlankter Produktgruppe B_293_11_001 Auf einen Kennzahlen B_293_11_008 Die alle werden Produktgruppe einbezogen in Anlässlich mangels Umweltrelevanz diese Die Abwasserabgabe Produktgruppe 2015/2016 erwiesen Die Prodkutgruppe sich zum Die steuerbar. als 2017/2018. Veränderung der Art zusammengefasst gestrichen zusammengefasst gestrichen gestrichen gestrichen gestrichen gestrichen gestrichen gestrichen gestrichenBetriebe und Einheit
+Darstellung der Leistungszwecke der PG 293.11 Immissionsschutz und Betriebe
 
-ANZ ANZImmissionsschutz 293.11 - PG und Wasserrecht,293.11 der PG Gentechnikrecht, nachder Chemikalienrecht Ort Abfallrecht, vor 2017 Zulassungsverfahren Kennzahlen ab Anlagen Abwasserrecht, Gentechnikrecht, Immissionsschutzrecht,Leistungszwecke Abgeschlossenen nach Überwachten Chemikalienrecht der Wasserrecht, B_293_11_030 entscheidungen Abfallrecht, B_293_11_031 Immissionsschutzrecht, Abwasserrecht,Darstellung Einheit St. St. Monate St. St. St. St. St. St. St. St. St. Tsd.EUR Tsd.EUR ANZ ANZ St. ANZ der der der mit Rahmen Rahmen und der im im Direkt- Gentechnikrecht Gentechnikrecht von Zusammenhang Zulassungsverfahren Zulassungsverfahren und und Überwachungen Anlassüberwachungen Anlassüberwachungen in verrechenbare Abwasserrecht Einheiten Einheiten Umweltverbesserungen Umweltverbesserungen Abwasserrecht eingegangenen und Sofortmaßnahmen und brutto 2016 Bearbeitungszeit außen bis abgeschlossenen Gentechnikrecht abgeschlossenen Wasser Immissionsschutz überwachten durchgeführten Gentechnikrecht überwachten durchgeführten Abwasseranalysen abfallrechtlichen veranlassten Gentechnikrecht veranlassten von Immissionsschutz- Wasser- Überschreitungen Verursacher Nachbarschaftsbeschwerden Stellungnahmen Kernbrennstofftransporten und und und der der der der der der der mit der der der Abwasserabgabe der nach nach durchgeführte und und nach nach Abwasserrecht Abwasserrecht der Anzahl Anzahl Durchschnittliche Anzahl Anzahl Anzahl Anzahl Anzahl davon Anzahl Anzahl Anzahl Abwasserabgabe Mit dazu Ermittelte Anzahl Fachliche und und Immissionsschutz- Immissionsschutz- Wasser- Immissionsschutz- Wasser- -entscheidungen B_293_11_001 nach B_293_11_006 und B_293_11_002 Zulassungsverfahren B_293_11_003 Regelüberwachung B_293_11_004 nach B_293_11_007 Regelüberwachung B_293_11_008 nach B_293_11_010 Indirekteinleitern B_293_11_011 B_293_11_012 B_293_11_005 nach B_293_11_009 nach B_293_11_014 B_293_11_015 Sanierungsmaßnahmen B_293_11_021 B_293_11_022 B_293_11_020 Schadensmeldungen B_293_11_023 Kernenergienutzung
-
-im neu neu PG der der der nicht zum In Kennzahl die von PG Erfüllung vorbereitende 2017/2018. Kennzahl Kennzahl ist sich der nicht entfällt einer kein der als hat als Kennzahlenstruktur diese Kennzahlenstruktur diese Stellungnahmen steuerbar. und zu von von daher Grad ist Haushalt der der wird wird ist Berichtspflicht Betrieben ist nicht und zum -prognosen fachlichen PG Kennzahl aus 2015/2016 erwiesen 2017/2018 und der die veranlassten und Fluglärm Planungen entfällt 2017/2018 2017/2018 geregelte von sich Modifizierung Modifizierung Abfällen Haushalt über Darlegung und und ist hat und die zum beeinflussbar Haushalt Haushalt für Bewirtschaftung behördeninternen erwiesen nicht zum zum der steuerungsrelevant behördenintern Untersuchungen von Zulassungen von 2015/2016 grundlegenden grundlegenden bundesrechtlich In werden Beschwerden Indikator Emissionen nicht und für Bauleitplanung der der der zu als 2017/2018. Produktgruppe. der steuerbar. der europa- Daten Kennzahlen Anzahl Produktgruppe Erarbeitung Erarbeitung Rahmen Produktgruppe Rahmen Produktgruppe Die von nicht Kennzahl Haushalt Die zusammengefasst. Die der hinreichender Ziele Die schalltechnischen Maßnahmen steuerbar. Die Rahmen Bewirtschaftung steuerungsrelevant Im der ausgebracht. Im der ausgebracht. gestrichen zusammengefasst geändert gestrichen neu neu Betriebe und
-
-ANZ Tsd.EUR % ANZ 23:00 Immissionsschutz 293.11 Maßnahmen PG zwischen passiven 293.11 für kontrollierten von der PG Hamburg der Parzellen) Umsetzung haben Straßen die Flughafen Förderprogramm Kennzahlen (36.000 die am beim Abwassermissstände auf dokumentiert lärmbelasteten der Leistungszwecke Verspätungen Mittelabfluss stark Anteil Luftgütepartner, der an Kleingartenvereinen Uhr in 24:00 Luftgütepartnerschaft B_293_11_033 und B_293_11_034 Schallschutz B_293_11_032 Parzellen B_293_11_035 der Darstellung
-
-ANZ St. St. St. St.
-
-der (Messung, Umweltschutzes Rahmen den Schadstofffreisetzungs‑ im von Fluglärmbeschwerden Hamburg präventiven Nutzungskonflikten für Untersuchungen von eines Europäischen bearbeitete Schallimmissionsprognosen Ausnahmen (PRTR) Stellungnahmen zum auf und genehmigt Umsetzung Berichte Anträge davon Erfasste Schalltechnische Bewertung); Fachliche zur und Vermeidung/Minimierung Verbringungsregister zur B_293_11_024 und B_293_11_016 Nachtflugbeschränkungen B_293_11_017 B_293_11_018 B_293_11_019 Beurteilung B_293_11_025 Bauleitplanung und
+Kennzahlen der PG 293.11

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65998"
@@ -79,7 +80,7 @@ Wann genau sind der zuständigen Finanzbuchhaltung, der Geschäftsführung von H
 
 Ist der Sachverhalt der fehlerhaften Verbuchung der Netznutzungsentgelte in den Jahren seit 2010 Abschlussprüfern von HE oder HAMBURG WASSER aufgefallen? Wenn ja, wann genau erstmals? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Unregelmäßigkeiten in der Periodenzuordnung der Netznutzungsentgelte sind erstmals im November 2018 vom Konzernrechnungswesen von HAMBURG WASSER (HW) festgestellt worden. Daraufhin wurden umgehend die HE-Geschäftsführung, der Gesellschafter und der Aufsichtsrat informiert. Zeitgleich wurde die Sonderprüfung durch die Wirtschaftsprüfungsgesellschaft KPMG beauftragt und durchgeführt. Anschließend ist der geänderte Jahresabschluss durch den Jahresabschlussprüfer, die Ernst & Young Wirtschaftsprüfungsgesellschaft testiert worden.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2781", "21/1058"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53608"
@@ -64,7 +65,7 @@ Wie ist der genaue Sachstand der Auswertung des Pilotprojekts?
 
 Welche Erhebungen der Bezirke zum Pilotprojekt liegen der zuständigen Fachbehörde im Einzelnen jeweils vor?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die beiden Pilotbezirke haben am 6. Juli 2016 je einen Bericht der zuständigen Behörde vorgelegt. Die abschließende Evaluierung wird umgehend erfolgen.
 

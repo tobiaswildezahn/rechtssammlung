@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 20
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1271", "21/1160", "21/1008", "21/635"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49524"
@@ -303,7 +304,7 @@ Gibt es Pläne des Senats beziehungsweise der zuständigen Behörde, aufgrund de
 
 Denkt der Senat beziehungsweise die zuständige Behörde über weitere Zeltlager in Hamburg nach? Wenn ja, wo sollten die Zeltlager stehen und wie hoch werden deren Belegungszahlen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Der Senat sieht in ständiger Praxis davon ab, zu einzelnen Prüfungsschritten Auskunft zu erteilen, sofern es sich um ergebnisoffene Prüfungen handelt. Hierzu gehört auch die – nur in beschränkten Umfang mögliche – Erweiterung bestehender Standorte. Über beschlossene, kurzfristig erforderliche Sofortmaßnahmen zur Unterbringung von Flüchtlingen informieren die Behörden auf www.hamburg.de/sofortmassnahmen.
 

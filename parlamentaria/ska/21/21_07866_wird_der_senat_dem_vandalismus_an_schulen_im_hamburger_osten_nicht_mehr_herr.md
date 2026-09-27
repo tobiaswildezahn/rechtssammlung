@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7620", "21/425"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56492"
@@ -44,17 +45,17 @@ Um Vandalismus „von außen“ zu verringern, wurden in den letzten Jahren unte
 
 Dazu gehören unter anderem an einzelnen Standorten:
 
-• Einschränkung der Zugänglichkeit von Schulgeländen und -gebäuden beispielsweise durch Zäune/Tore, elektronische Schließsysteme, Alarmierungsanlagen,
+– Einschränkung der Zugänglichkeit von Schulgeländen und -gebäuden beispielsweise durch Zäune/Tore, elektronische Schließsysteme, Alarmierungsanlagen,
 
-• Ausstattung von Gebäuden mit Präsenzmeldern im EG und an der Außenfassade zur schnelleren Erkennung von Fremdpersonen auf dem Schulgelände außerhalb der Schulzeiten,
+– Ausstattung von Gebäuden mit Präsenzmeldern im EG und an der Außenfassade zur schnelleren Erkennung von Fremdpersonen auf dem Schulgelände außerhalb der Schulzeiten,
 
-• Anhebung des Beleuchtungsniveaus im Außenbereich,
+– Anhebung des Beleuchtungsniveaus im Außenbereich,
 
-• Klassenweise Zuordnung von Sanitärräumen durch Anpassung der Schließanlage,
+– Klassenweise Zuordnung von Sanitärräumen durch Anpassung der Schließanlage,
 
-• Beauftragung einer Bewachung nach wiederholter Sachbeschädigung,
+– Beauftragung einer Bewachung nach wiederholter Sachbeschädigung,
 
-• Beschichtung von Außenwänden mit einer abwaschbaren Oberfläche zur besseren Beseitigung von Graffiti.
+– Beschichtung von Außenwänden mit einer abwaschbaren Oberfläche zur besseren Beseitigung von Graffiti.
 
 Darüber hinaus werden derzeit 348 Videokameras an Schulen der Freien und Hansestadt Hamburg eingesetzt. Außerdem verfügen die Schulen über 86 Videokameraattrappen. Ziel der Videoüberwachung ist es ebenfalls, Sachbeschädigung zu vermeiden. Siehe dazu Drs. 21/7620.
 

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 21
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1686", "21/5874"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57761"
@@ -298,7 +299,7 @@ UniPitch
 
 Darüber hinaus wurden an der UHH diverse Seminare/Workshops zum o. g. Thema im Career Center der UHH und in den Fakultäten veranstaltet. Beispiele hierfür sind:
 
-  
+–  
 Workshops im Career Center (insgesamt 7):  
 -  
 Gründung – Wir schaffen Klarheit! – Eine Winter School  
@@ -318,7 +319,7 @@ for
 Careers:  
 Berufsfeld  
 Gründung  
-  
+–  
 Seminare/Workshops in den Fakultäten (Beispiele):  
 -  
 BWL-Kursangebot „IT-Entrepreneurship“  

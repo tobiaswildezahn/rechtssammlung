@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 27
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61831"
@@ -96,9 +97,12 @@ Welche Kosten entstanden der HOCHBAHN über das „normale“ Ausbildungsprogram
 ### Frage 8
 
 Inwiefern unterscheidet sich die Ausbildung des „Flüchtlings“ zum Busfahrer darüber hinaus zur herkömmlichen Ausbildung für Busfahrer? Bitte beispielhaft darstellen und begründen.
-8.1. Wurde auch der Umgang mit weiblichen Fahrgästen thematisiert?
 
-#### Antwort zu Fragen 4 bis 8
+### Frage 8.1
+
+Wurde auch der Umgang mit weiblichen Fahrgästen thematisiert?
+
+#### Antwort zu Fragen 4, 5, 6, 7, 8 und 8.1
 
 Die zweijährige Fahrpraxis ist für Busfahreranwärterinnen und -anwärter bei der HOCHBAHN keine zwingende Voraussetzung für die Erlangung des Führerscheines der Klasse D.
 
@@ -148,6 +152,6 @@ Existiert bei der HOCHBAHN eine Quotenregelung für Ausländer, Frauen et cetera
 
 Die HSG (Hanseatische Siedlungs-Gesellschaft mbH) ist eine 100- prozentige Tochter der Hamburger Hochbahn AG und verfügt über mehr als 2.000 Wohnungen in verschiedenen Stadtteilen Hamburgs. Die HOCHBAHN wirbt damit, dass sie diese für ihre Mitarbeiter bereitstellt. Wurden/werden die neuen Mitarbeiter hier untergebracht? Wenn ja, in welchen Fällen und warum?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Nein.

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 25
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57659"
@@ -95,7 +96,7 @@ Strebt der Senat an, dass auch in Hamburg vom beschleunigten Verfahren für die 
 
 Hält der Senat das beschleunigte Verfahren nach § 13 b BauGB für die Schaffung des Baurechts speziell für Hamburg für geeignet? Wenn ja, warum? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der Senat hält die Anwendung des § 13 b Baugesetzbuch (BauGB) nicht für erforderlich. Diese Vorschrift ermöglicht eine bis Ende 2019 befristete, erleichterte Überplanung von Außenbereichsflächen mit weniger als 10.000 Quadratmetern überbaubarer Grundfläche. Der Senat gibt im Rahmen seines Wohnungsbauprogrammes der Innenentwicklung eine Priorität vor der Inanspruchnahme von Flächen im sogenannten Außenbereich. Für eine ausnahmsweise Inanspruchnahme solcher Flächen sollen
 
@@ -109,7 +110,7 @@ Hat sich die Behörde für Umwelt und Energie gegen die Anwendung des § 13 b Ba
 
 Gibt es Differenzen zwischen den Behörden, ob § 13 b BauGB in Hamburg zur Anwendung kommen soll? Wenn ja, welche?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Der Senat nimmt zu internen Willensbildungsprozessen grundsätzlich nicht Stellung.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63617"
@@ -79,6 +80,6 @@ In welchen Szenarien beziehungsweise unter welchen Bedingungen führt ein Anschl
 
 Ceteris paribus: Bei welcher thermischen Anschlussleistung des Kraftwerks Moorburg an das Fernwärmenetz wird der bislang vertraglich vereinbarte Mindestwert von Fernwärmenetz und -erzeugungskapazitäten von 950 Millionen Euro erreicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Szenarien und Fragestellungen waren nicht Gegenstand der Unternehmensbewertung.

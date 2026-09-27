@@ -12,8 +12,9 @@ vorgang: 59743
 seiten: 11
 fragen: 11
 einzelfragen: 28
-antwortbloecke: 10
+antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12179", "21/15046", "21/14777", "21/12202", "21/15509", "21/12801", "21/5892", "21/6051", "21/7857", "21/9940", "21/13219", "21/12102", "21/14861"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65534"
@@ -31,9 +32,13 @@ generator: "ska_archiv 1.0"
 
 Seit 1. Oktober 2018 gilt die überarbeitete Leistungsvereinbarung zwischen f & w fördern und wohnen AöR (f & w) und der Stadt Hamburg, vertreten durch die BASFI, die inzwischen auch im Transparenzportal unter http://suche.transparenz.hamburg.de/dataset/leistungsvereinbarungunterkunft-und-sozialmanagement-uksm?forceWeb=true abrufbar ist. Die Vereinbarung enthält unter anderem Aufgaben und Ziele des Unterkunftsund Sozialmanagements (UKSM) in Folgeunterkünften (FuK) von f & w. Entgegen der sowohl im Integrationskonzept der Stadt Hamburg (2017) https://www.hamburg.de/contentblob/128792/4fa13860dcb7a9deb4afdfb989f c78e2/data/konzept.pdf;jsessionid=FF2709182A944A16708B567DC227705 C.liveWorker2 auf Seite 87 als auch in Drs. 21/12179 in Aussicht gestellten grundsätzlichen Überarbeitung dieser Leistungsvereinbarung setzt der Senat in der nun beschlossenen Vereinbarung die bisherige Linie fort und versäumt damit maßgebliche Nachsteuerungsbedarfe im Hinblick auf seine eigenen integrationspolitischen Zielsetzungen.
 
+## Fragen und Antworten
+
+### Frage 1
+
 Vor diesem Hintergrund frage ich den Senat:
 
-## Einleitung für die Antworten des Senats
+#### Antwort zu Frage 1
 
 Der Senat hat sich wiederholt zur Rolle und Rahmenbedingungen des Unterkunftsund Sozialmanagements (UKSM) in Erstaufnahmen und Einrichtungen der öffentlichrechtlichen Unterbringung (örU) geäußert, zuletzt in Drs. 21/15046, 21/14777 sowie 21/12179.
 
@@ -48,8 +53,6 @@ Der vorgesehene Änderungsentwurf leitet unter anderem eine strukturelle Änderu
 \6) bei den jeweiligen spezifischen Regelungen zu den Aufgabenfeldern „Hilfen zur Wohnungssicherung“ (Teil 2), „Öffentlich-rechtliche Unterbringung“ (Teil 3) sowie zur „Wohnungsvermittlung“ (Teil 4) konkretisiert werden. Damit werden die Teile 5 und 6 der jetzigen Arbeitshilfe zur Wohnungslosenhilfe künftig entfallen.
 
 Wegen der hohen fachlichen und rechtlichen Komplexität der in diesem Zusammenhang zu klärenden Fragestellungen kann die Erarbeitung und Aktualisierung von sowohl eigenständigen als auch inhaltlich zusammenhängenden Fachanweisungen nur schrittweise umgesetzt werden.
-
-## Fragen und Antworten
 
 ### Frage 2
 

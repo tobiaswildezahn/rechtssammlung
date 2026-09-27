@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 19
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57729"
@@ -55,7 +56,7 @@ Hält der Senat es für rechtlich zulässig die im Bauantrag beantragte Bauweise
 
 Welche Änderungen am Bauantrag sind notwendig, um die geplante Änderung der Bauweise rechtskonform umsetzen zu können? Welche Verzögerungen ergeben sich daraus?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Änderungen der Bauweise und der Baukonstruktion sind in einem laufenden Genehmigungsverfahren zulässig und aufgrund der besonderen Anforderungen an den Lärmschutz auch notwendig. Für die Änderungen des Bauantrages ist eine geänderte Bauvorlage vom Antragsteller einzureichen. Verzögerungen ergeben sich aus der Änderung der Bauvorlage nicht.
 
@@ -67,7 +68,7 @@ Gab es ein Beteiligungsverfahren für die geplanten Maßnahmen zum Objekt Holste
 
 Machen die angedachten Planänderungen ein erneutes Beteiligungsbeziehungsweise Anhörungsverfahren notwendig? Wenn ja, welche Fristen sind bis wann einzuhalten? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Eine erneute Beteiligung nach § 28 Bezirksverwaltungsgesetz ist nicht notwendig. Die Stellungnahme der Bezirksversammlung Eimsbüttel ist der Bezirks-Drs. 20-1626 zu entnehmen.
 

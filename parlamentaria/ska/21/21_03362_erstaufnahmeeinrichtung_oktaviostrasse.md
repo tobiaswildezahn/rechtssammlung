@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51701"
@@ -59,7 +60,7 @@ Welche Kosten hat die Vorbereitung des Geländes für die Einrichtung verursacht
 
 Welche Kosten hat die Herrichtung des Geländes für die Aufstellung und den Betrieb der Container verursacht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Für die Vorbereitung und Herrichtung des Geländes für den Betrieb einer Erstaufnahmeeinrichtung sind im Jahr 2015 folgende Kosten entstanden:
 

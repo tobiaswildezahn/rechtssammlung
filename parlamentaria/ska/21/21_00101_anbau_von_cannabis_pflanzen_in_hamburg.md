@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9369"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48229"
@@ -49,7 +50,7 @@ Wie oft wurde in den Jahren 2011 – 2015 in Hamburg Cannabis-Besitz in geringer
 
 Wie wurde mit den Pflanzen und deren Besitzern verfahren? Bitte für jeden Fall getrennt angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Polizei erfasst Straftaten gemäß dem Straftatenkatalog der Richtlinien für die Erfassung und Verarbeitung der Daten in der Polizeilichen Kriminalstatistik (PKS). Im Sinne der Fragestellung werden Verstöße gegen das Betäubungsmittelgesetz (BtMG) in der PKS unter folgenden Straftatenschlüsseln erfasst:
 

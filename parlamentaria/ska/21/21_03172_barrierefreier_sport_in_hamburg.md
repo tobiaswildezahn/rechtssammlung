@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2516", "20/2948", "21/439", "20/8882"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51513"
@@ -72,7 +73,7 @@ In welcher Höhe entstehen Kosten für den Neu- beziehungsweise Umbau der barrie
 
 In welcher Höhe entstehen Kosten für die Freie und Hansestadt Hamburg für den Neu- beziehungsweise Umbau der barrierefreien Hallen? Bitte mit Angabe der Projektgruppe, aus der die Kosten finanziert werden.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die barrierefreie Errichtung und der Ausbau von Schulsporthallen nach DIN 18040 sind Teil des standardmäßig im Schulbau realisierten Leistungsumfangs und werden nicht separat ausgewiesen
 

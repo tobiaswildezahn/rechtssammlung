@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 21
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10883", "21/11428", "21/14555", "20/5317", "21/14050"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64390"
@@ -140,6 +141,6 @@ An welchen Schulen fanden in den letzten fünf Jahren Umwidmungen von Fachräume
 
 Welche Anträge auf Zu- und Neubauten wurden seitens der Schulen in den letzten fünf Jahren eingereicht und wie wurden sie beschieden? (Bitte nach Schuljahr aufgeschlüsselt unter Angabe des Schulstandorts, KESS-Faktors und der SuS-Zahl sowie der beantragten Gebäudeform mit Nennung der Quadratmetergröße und dem entsprechenden Entscheid mitsamt Begründung angeben.)
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Im Rahmen von Zu-, Umbau und Sanierungsmaßnahmen werden bestehende Raumnutzungen überprüft und soweit Änderungen im Bestand eine Optimierung der Raumund Flächennutzung für die Schule bedeuten können, werden diese im Rahmen des Investitionsbudgets auch berücksichtigt. Soweit aufgrund der jährlichen Schulorganisation Zu- oder Umbaumaßnahmen für notwendig angesehen werden, werden diese in der Regel gemeinsam zwischen Schule, Fachbehörde und SBH I Schulbau Hamburg sowie GMH Gebäudemanagement Hamburg GmbH erörtert. Der Impuls hierzu kann von allen Beteiligten ausgehen, es gibt kein formalisiertes Antrags- und Bewilligungsverfahren. Aus diesem Grund gibt es auch keine zentrale Erfassung der gewünschten Angaben beziehungsweise eine entsprechende Auswertung. Soweit die gemeinsamen Planungen investive Maßnahmen ergeben, werden diese im Rahmenplan Schulbau abgebildet.

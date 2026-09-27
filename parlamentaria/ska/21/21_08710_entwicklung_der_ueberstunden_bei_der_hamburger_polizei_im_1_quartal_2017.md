@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7881", "21/1122"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57449"
@@ -73,7 +74,7 @@ Welche Großveranstaltungen in Hamburg sowie außerhalb Hamburgs im Wege der Amt
 
 Wie viele Überstunden wurden im oben genannten Zeitraum ausbezahlt? Wie viele Haushaltsmittel wurden hierfür zur Verfügung gestellt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 
@@ -85,6 +86,6 @@ Wie soll der Menge an Überstunden im laufenden Jahr 2017 und zukünftig begegne
 
 Welche neuen Ansätze werden zum Abbau der Überstunden von der zuständigen Behörde verfolgt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/7881.

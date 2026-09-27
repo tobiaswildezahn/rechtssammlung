@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 19
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3472", "21/73"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53169"
@@ -61,11 +62,11 @@ Der Abschreibungszeitraum einer LSA ist 15 Jahre. Die Lebensdauer einer Anlage b
 
 Demzufolge erreichen bis zum
 
- Jahr 2021: circa 500 LSA,
+– Jahr 2021: circa 500 LSA,
 
- Jahr 2026: circa 500 weitere LSA und
+– Jahr 2026: circa 500 weitere LSA und
 
- Jahr 2036: circa 1.000 weitere LSA
+– Jahr 2036: circa 1.000 weitere LSA
 
 das Ende ihrer Einsatzzeit.
 
@@ -77,11 +78,11 @@ Welche Leuchtmittel kommen in welchem Umfang in Hamburger Ampeln aktuell zum Ein
 
 Mit Stand vom 7. Juni 2016 werden
 
- 14 Prozent der LSA mit Halogenniedervoltglühlampen,
+– 14 Prozent der LSA mit Halogenniedervoltglühlampen,
 
- 33 Prozent der LSA mit Hochvoltglühlampen und
+– 33 Prozent der LSA mit Hochvoltglühlampen und
 
- 53 Prozent der LSA mit LED
+– 53 Prozent der LSA mit LED
 
 betrieben.
 
@@ -103,21 +104,21 @@ Die gesamt LED-Technik einer LSA besteht aus mehreren Teilen. Eine Signalleuchte
 
 Vorteile:
 
- geringerer Energieverbrauch der LED-Leuchtmittel gegenüber Glühlampen,
+– geringerer Energieverbrauch der LED-Leuchtmittel gegenüber Glühlampen,
 
- Entfall des routinemäßigen Leuchtmittelwechsels bei Glühlampen nach neun bis
+– Entfall des routinemäßigen Leuchtmittelwechsels bei Glühlampen nach neun bis
 
 zwölf Monaten,
 
- größere Verfügbarkeit der Anlagen aufgrund höherer Lebensdauer der Leucht-
+– größere Verfügbarkeit der Anlagen aufgrund höherer Lebensdauer der Leucht-
 
 mittel und damit geringerer Ausfälle der LSA.
 
 Nachteile:
 
- höhere Investitionskosten und
+– höhere Investitionskosten und
 
- früherer Austausch der LED-Signalgeber nach circa 15 Jahren gegenüber circa 30
+– früherer Austausch der LED-Signalgeber nach circa 15 Jahren gegenüber circa 30
 
 Jahren bei Glühlampen-Signalgebern.
 
@@ -137,27 +138,27 @@ Wie hat sich der aus dem Betrieb von Ampeln in Hamburg resultierende Stromverbra
 
 Mit der HHVA besteht ein pauschalierter Contractingvertrag, der unter anderem die Stromkosten und Wartungskosten beinhaltet. Die Pauschale ist nicht nach Kostenarten aufgeschlüsselt. Auf Basis eines kalkulatorischen Energiepreises von 22 Cent/ kWh berechnen sich die Energiekosten wie folgt:
 
- im Jahr 2011: rund 2,4 Millionen Euro,
+– im Jahr 2011: rund 2,4 Millionen Euro,
 
- im Jahr 2012: rund 2,2 Millionen Euro,
+– im Jahr 2012: rund 2,2 Millionen Euro,
 
- im Jahr 2013: rund 2,1 Millionen Euro,
+– im Jahr 2013: rund 2,1 Millionen Euro,
 
- im Jahr 2014: rund 2,0 Millionen Euro,
+– im Jahr 2014: rund 2,0 Millionen Euro,
 
- im Jahr 2015: rund 1,9 Millionen Euro.
+– im Jahr 2015: rund 1,9 Millionen Euro.
 
 Der Energieverbrauch hat sich wie folgt entwickelt:
 
- im Jahr 2011 11,05 GWh/a,
+– im Jahr 2011 11,05 GWh/a,
 
- im Jahr 2012 10,12 GWh/a,
+– im Jahr 2012 10,12 GWh/a,
 
- im Jahr 2013 9,62 GWh/a,
+– im Jahr 2013 9,62 GWh/a,
 
- im Jahr 2014 9,10 GWh/a,
+– im Jahr 2014 9,10 GWh/a,
 
- im Jahr 2015 8,59 GWh/a.
+– im Jahr 2015 8,59 GWh/a.
 
 ### Frage 9
 
@@ -167,21 +168,21 @@ Wie haben sich die Kosten für die Umrüstung von Ampeln in Hamburg seit 2011 en
 
 Wie haben sich die Kosten für den Neubau von Ampeln seit 2011 entwickelt? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Kosten für die Umrüstung von LSA auf LED-Technik sowie für den Neubau von LSA entstehen nicht an zentraler Stelle, sondern sind in verschiedenen Aufgabenpaketen und Maßnahmen enthalten und werden aus unterschiedlichen Quellen finanziert. Dazu gehören sowohl die Projekte des Landesbetriebes, Straßen, Brücken und Gewässer (LSBG) als auch Bezirksmaßnahmen. Eine Aufschlüsselung der Kosten für die Umrüstung beziehungsweise den Neubau erfolgt nicht.
 
 Im Folgenden werden die Kosten für sämtliche LSA-Arbeiten ausgewiesen, die auch Schadensbeseitigungen und Programmänderungen beinhalten:
 
- im Jahr 2011: 12,2 Millionen Euro,
+– im Jahr 2011: 12,2 Millionen Euro,
 
- im Jahr 2012: 15,1 Millionen Euro,
+– im Jahr 2012: 15,1 Millionen Euro,
 
- im Jahr 2013: 15,0 Millionen Euro,
+– im Jahr 2013: 15,0 Millionen Euro,
 
- im Jahr 2014: 16,2 Millionen Euro,
+– im Jahr 2014: 16,2 Millionen Euro,
 
- im Jahr 2015: 18,2 Millionen Euro.
+– im Jahr 2015: 18,2 Millionen Euro.
 
 Die in der Antwort zu 4. genannten durchschnittlichen Kosten von 12.000 Euro/LSA für die Umrüstung auf LED-Technik sind in den oben genannten Werten enthalten.
 
@@ -207,19 +208,19 @@ Welche Normen regeln die Leuchtkraft von Ampeln und den Einsatz bestimmter Leuch
 
 #### Antwort zu Frage 13
 
- DIN EN 12368 Anlagen zur Verkehrssteuerung – Signalleuchten; Deutsche Fas-
+– DIN EN 12368 Anlagen zur Verkehrssteuerung – Signalleuchten; Deutsche Fas-
 
 sung EN 12368,
 
- DIN 67527-1 Lichttechnische Eigenschaften von Signallichtern im Verkehr – Teil 1:
+– DIN 67527-1 Lichttechnische Eigenschaften von Signallichtern im Verkehr – Teil 1:
 
 Ortsfeste Signallichter im Straßenverkehr,
 
- DIN VDE V 0832-300 (VDE V 0832-300): Straßenverkehrs-Signalanlagen – Teil
+– DIN VDE V 0832-300 (VDE V 0832-300): Straßenverkehrs-Signalanlagen – Teil
 
 300: Technische Festlegungen für LED-Signalgeber,
 
- DIN CLC/TS 50509 (VDE V 0832-310): Anwendung von LED-Signalleuchten für
+– DIN CLC/TS 50509 (VDE V 0832-310): Anwendung von LED-Signalleuchten für
 
 Straßenverkehrs-Signalanlagen; Deutsche Fassung CLC/TS 50509.
 

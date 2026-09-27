@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48160"
@@ -46,7 +47,7 @@ Ist zwischenzeitlich eine Weiternutzung der Gebäude an der Billwerder Straße z
 
 Soweit nur eine Weiternutzung für das Schuljahr 2015/2016 beschlossen wurde, wie sehen diesbezüglich die weiteren Planungen der BSB bezüglich der betroffenen Schüler aus? Insbesondere wo soll der Unterricht im Schuljahr 2016/2017 stattfinden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nein. Derzeit wird geprüft, unter Einbeziehung welcher Räumlichkeiten die Versorgung der Schülerinnen und Schüler der Stadtteilschule Bergedorf für das Schuljahr 2015/2016 gesichert werden kann.
 

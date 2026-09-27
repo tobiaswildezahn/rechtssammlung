@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 3
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50019"
@@ -47,7 +48,7 @@ Wo in Hamburg gibt es aktuell stillgelegte Bahnstrecken, deren Gleisbett beziehu
 
 Ist für die unter 1. erfragten stillgelegten Bahnstrecken in Hamburg eine Reaktivierung, Umwidmung oder anderweitige Nutzung geplant? Wenn ja, zu welchem Termin jeweils?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 HPA:
 

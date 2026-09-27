@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1008", "21/286", "20/8495", "21/203", "21/836"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49347"
@@ -139,7 +140,7 @@ Wie viele Flüchtlinge sind derzeit in Hamburger Wohnungen untergebracht und wie
 
 Nach welchen Kriterien wird Flüchtlingen ein Umzug in eine Wohnung genehmigt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/286.
 
@@ -192,7 +193,7 @@ Welche Hilfsorganisationen beziehungsweise Organisationen haben sich seit dem 1.
 
 Ist es richtig, dass der Arbeiter-Samariter-Bund Hamburg (ASB) der Stadt das Angebot gemacht hat, Erstaufnahmeeinrichtungen beziehungsweise Gemeinschaftsunterkünfte beziehungsweise Notunterkünfte zu betreiben? Wenn ja, warum wurde das Angebot der ASB zur Betreibung von Erstaufnahmeeinrichtungen beziehungsweise Gemeinschaftsunterkünften beziehungsweise Notunterkünften nicht angenommen? Bitte begründen.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 In Drs. 21/836 sind die derzeitigen Betreiber dargestellt. Darüber hinausgehende Bewerbungen für das Betreiben von ZEA und örU sind nicht bekannt.
 

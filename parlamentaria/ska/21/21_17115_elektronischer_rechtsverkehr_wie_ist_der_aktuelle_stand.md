@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14311"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66663"
@@ -37,11 +38,11 @@ Vor diesem Hintergrund frage ich den Senat:
 
 Der Digitalisierungsprozess in der Justiz ist durch das „Gesetz zur Förderung des elektronischen Rechtsverkehrs mit den Gerichten“ vom 10.10.2013 (BGBl. I S. 3786) sowie durch das „Gesetz zur Einführung der elektronischen Akte in der Justiz und zur weiteren Förderung des elektronischen Rechtsverkehrs“ vom 05.07.2017 (BGBl. I S. 2208) bundeseinheitlich geregelt. Die daraus resultierenden rechtlichen Rahmenbedingungen sehen für die Justiz und die Verfahrensbeteiligten drei wesentliche Zeitziele vor:
 
-• 01.01.2018: Zulassung der Einreichung von elektronischen Schriftsätzen seitens der Gerichte und Staatsanwaltschaften sowie Empfangsbereitschaft seitens derjenigen Verfahrensbeteiligten, bei denen es sich um Personen nach § 174 Absatz 1 ZPO handelt (sogenannte passive Nutzungspflicht),
+– 01.01.2018: Zulassung der Einreichung von elektronischen Schriftsätzen seitens der Gerichte und Staatsanwaltschaften sowie Empfangsbereitschaft seitens derjenigen Verfahrensbeteiligten, bei denen es sich um Personen nach § 174 Absatz 1 ZPO handelt (sogenannte passive Nutzungspflicht),
 
-• 01.01.2022: Verpflichtung der Rechtsanwältinnen und Rechtsanwälte, Notarinnen und Notare sowie der Behörden zur Einreichung in elektronischer Form (sogenannte aktive Nutzungspflicht),
+– 01.01.2022: Verpflichtung der Rechtsanwältinnen und Rechtsanwälte, Notarinnen und Notare sowie der Behörden zur Einreichung in elektronischer Form (sogenannte aktive Nutzungspflicht),
 
-• 01.01.2026: Einführung einer elektronischen Akte in der Justiz.
+– 01.01.2026: Einführung einer elektronischen Akte in der Justiz.
 
 Der elektronische Rechtsverkehr wurde in der Hamburger Justiz entsprechend der gesetzlichen Verpflichtungen schrittweise bis zum 01.01.2018 zugelassen. Für die Hamburger Behörden wird durch die Hamburger Senatskanzlei eine Prüfstelle zur Bereitstellung „besonderer elektronischer Behördenpostfächer“ (beBpo) zur Teilnahme am elektronischen Rechtsverkehr angeboten. Ein erster Meilenstein des oben genannten Digitalisierungsprozesses im Verantwortungsbereich des Hamburger Senates wurde damit erreicht. Seit September 2018 steht den Rechtsanwältinnen und Rechtsanwälten auch das von der Bundesrechtanwaltskammer bereitgestellte „besondere elektronische Anwaltspostfach“ (beA) zur Verfügung. Seit März 2019 steht den Notarinnen und Notaren das seitens der Bundesnotarkammer angebotene „besondere elektronische Notarpostfach“ (beN) zur Verfügung. Die oben genannten
 
@@ -83,19 +84,19 @@ d. Wie viele Personen an welchem Gericht beziehungsweise in der Staatsanwaltscha
 
 Für den ordnungsgemäßen Betrieb der länderübergreifenden Infrastrukturen für den elektronischen Rechtsverkehr ist bundesweit das Projektbüro der AG IT-Standards der Bund-Länder-Kommission für Informationstechnik in der Justiz verantwortlich. Der Betrieb des OSCI-Intermediärs von Hamburg und Schleswig-Holstein erfolgt bei Dataport. Über dediziertes Personal allein für die oben genannten Aufgaben verfügt die Hamburger Justiz derzeit nicht. Die Komponenten zum Abruf elektronischer Nachrichten werden durch entsprechend qualifiziertes Personal der jeweiligen IT-Stellen der Gerichte und Staatsanwaltschaften mitbetreut:
 
- Ordentliche Gerichtsbarkeit: acht Personen,
+– Ordentliche Gerichtsbarkeit: acht Personen,
 
- Staatsanwaltschaften: fünf Personen,
+– Staatsanwaltschaften: fünf Personen,
 
- Arbeitsgerichtsbarkeit: drei Personen,
+– Arbeitsgerichtsbarkeit: drei Personen,
 
- Verwaltungsgericht: drei Personen,
+– Verwaltungsgericht: drei Personen,
 
- Oberverwaltungsgericht: drei Personen,
+– Oberverwaltungsgericht: drei Personen,
 
- Sozialgerichtsbarkeit: zwei Personen,
+– Sozialgerichtsbarkeit: zwei Personen,
 
- Finanzgerichtsbarkeit: zwei Personen.
+– Finanzgerichtsbarkeit: zwei Personen.
 
 ### Frage 2
 

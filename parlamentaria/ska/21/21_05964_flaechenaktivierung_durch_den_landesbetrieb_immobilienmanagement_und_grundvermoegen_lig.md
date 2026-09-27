@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54479"
@@ -59,7 +60,7 @@ Wie viele kontaminierte Grundstücke welcher Größe wurden in den letzten fünf
 
 Wie hoch sind die Kosten, die für die Sanierung von kontaminierten Flächen (die sich im Eigentum des LIG befinden) in den letzten fünf Jahren angefallen sind? Bitte jährlich differenziert angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Im Jahr 2015 vier Grundstücke mit einer Größe von rund 57.000, 21.000, 21.200 und
 34.000 qm und 2016 zwei Grundstücke mit einer Größe von rund 11.200 und 245.000 qm. Die Aufwendungen belaufen sich auf rund 246.000 Euro im Jahr 2015 und rund

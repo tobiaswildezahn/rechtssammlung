@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 20
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63215"
@@ -60,7 +61,7 @@ Gibt es einen Zeitplan für die Neugestaltung der Westbebauung? Wenn ja, wie sie
 
 Wurden bereits die notwendigen B-Planänderungen vorgenommen? Wenn nein, aus welchen Gründen nicht und wann ist mit der notwendigen B-Planänderung zu rechnen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Westrandbebauung Sand in Harburg wird mit dem Vorhabenbezogenen Bebauungsplan Harburg 71 überplant. Der zeitliche Ablauf und die Umsetzung des Umbaus hängen vom Fortschritt des Verfahrens ab. Zurzeit liegt der Bebauungsplanentwurf bis zum 31. August 2018 öffentlich aus.
 
@@ -85,7 +86,7 @@ Steht bereits fest, wer die gewerblichen Mieter in dem neuen Gebäude am Sand se
 
 Steht schon fest, welche Gastronomie in dem neuen Gebäude am Sand einziehen wird? Wenn ja, welche wird das sein?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Nach Kenntnis des zuständigen Bezirksamtes ist der Investor in Gesprächen mit unterschiedlichen potenziellen Mietern.
 
@@ -119,7 +120,7 @@ Für welchen Zeitraum ist der Umzug des Wochenmarktes auf den Rathausplatz vorge
 
 Gibt es mögliche Nutzungskonflikte von Wochenmarkt und Weihnachtsmarkt auf dem Rathausplatz und wie sollen diese gelöst werden?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die temporäre Verlagerung des Wochenmarktes auf den Rathausplatz ist ausschließlich in der ersten Jahreshälfte 2019 vorgesehen. Die Belegung des Rathausplatzes durch den Weihnachtsmarkt findet in den Monaten November/Dezember statt, daher sind keine Nutzungskonflikte zu erwarten.
 
@@ -151,10 +152,10 @@ Die Möglichkeit einer sogenannten Dauerzulassung für die Marktbeschicker wurde
 
 Gründe dafür sind:
 
- Das Bezirksamt Harburg veranschlagt derzeit den nach der Markt- und Benut-
+– Das Bezirksamt Harburg veranschlagt derzeit den nach der Markt- und Benut-
 
 zungsverordnung für Tageszugelassene niedrigsten Gebührensatz von 3,10 Euro pro Frontmeter. Eine Dauerzulassung soll gegenüber der Tageszulassung pro Frontmeter um 0,70 Euro günstiger sein. Vor dem Hintergrund der erforderlichen Kostendeckung wären bei Vergünstigungen für Dauerzulassungen die Gebühren für Tageszulassungen im Gegenzug sofort zu erhöhen. Der Abzug von 0,70 Euro würde auf dann wiederum auf erhöhten Gebührensatz für Tageszulassungen erfolgen.
 
- Gebühren für die Dauerzulassung würden händlerbezogen einmalig zu Monatsbe-
+– Gebühren für die Dauerzulassung würden händlerbezogen einmalig zu Monatsbe-
 
 ginn für alle Markttage des Monats erhoben. Eine Erstattung für Fehltage beziehungsweise eine Verringerung für planbare „Nichtteilnahmen“ hingegen gäbe es nicht. Im Übrigen führen auch Veränderungen von Marktständen zu einer komplizierten, tagesaktuellen Abrechnung. Wenn diese an bestimmten Wochentagen oder saisonal vergrößert würden, wäre für Ergänzungen die zusätzliche Gebühr nach dem Tageszulassungssatz zu erheben.

@@ -8,12 +8,13 @@ datum_anfrage: "2026-09-07"
 datum_drucksache: "2026-09-15"
 urheber: ["Thilo Kleibauer"]
 fraktionen: ["CDU"]
-vorgang: null
+vorgang: 89143
 seiten: 3
 fragen: 9
 einzelfragen: 15
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105170"

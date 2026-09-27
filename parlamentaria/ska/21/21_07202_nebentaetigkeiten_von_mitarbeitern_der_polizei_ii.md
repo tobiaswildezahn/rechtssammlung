@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/4641"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55796"
@@ -43,7 +44,7 @@ Wie viele Polizeibeamte welcher Besoldungsgruppen haben 2015 und in den ersten d
 
 Wie viele Polizeibeamte welcher Besoldungsgruppen haben 2015 und in den ersten drei Quartalen des Jahres 2016 jeweils welche Nebentätigkeit auf eigenen Wunsch ausgeübt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 20/4641.
 

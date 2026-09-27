@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7880", "20/8090", "20/8106", "20/10617", "20/13442", "21/2555", "21/6496", "20/9124"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55309"
@@ -160,29 +161,29 @@ Auf welchen Gründen basieren die nicht durchgeführten Untersuchungen? Bitte pr
 
 #### Antwort zu Frage 2
 
- Nichterscheinen trotz Einladung: Bezirksämter Bergedorf, Eimsbüttel, Altona,
+– Nichterscheinen trotz Einladung: Bezirksämter Bergedorf, Eimsbüttel, Altona,
 
 Hamburg-Mitte, Hamburg-Nord, Harburg, Wandsbek
 
- Eltern lehnen Untersuchung ab: Bezirksämter Altona, Hamburg-Nord
+– Eltern lehnen Untersuchung ab: Bezirksämter Altona, Hamburg-Nord
 
- Wegzug aus dem Bezirk im Erhebungszeitraum: Bezirksämter Eimsbüttel, Berge-
+– Wegzug aus dem Bezirk im Erhebungszeitraum: Bezirksämter Eimsbüttel, Berge-
 
 dorf, Altona, Hamburg-Mitte, Hamburg-Nord, Wandsbek
 
- Terminschwierigkeiten: Bezirksamt Eimsbüttel (zum Beispiel bei Auslandsaufent-
+– Terminschwierigkeiten: Bezirksamt Eimsbüttel (zum Beispiel bei Auslandsaufent-
 
 halten der Familie oder wenn das Kind bis zur Einschulung nicht in Hamburg lebt)
 
- Krankheitsbedingte oder sonstige Personalausfälle: Bezirksämter Eimsbüttel,
+– Krankheitsbedingte oder sonstige Personalausfälle: Bezirksämter Eimsbüttel,
 
 Altona
 
- Kinder wurden zu spät oder gar nicht gemeldet (z.B. Zuzug erst kurz vor der Ein-
+– Kinder wurden zu spät oder gar nicht gemeldet (z.B. Zuzug erst kurz vor der Ein-
 
 schulung oder vorzeitige Einschulung im Vorjahr): Bezirksämter Eimsbüttel, Altona
 
- Kinder wurden zu spät in der zentralen Schülerdatenbank (ZSD) als Einschulkinder
+– Kinder wurden zu spät in der zentralen Schülerdatenbank (ZSD) als Einschulkinder
 
 erfasst: Bezirksamt Altona
 
@@ -216,7 +217,7 @@ Wie beurteilt die zuständige Behörde jeweils Anzahl und Anteil der unter
 
 Wie beurteilt die zuständige Behörde die Wirksamkeit der in der Drs. 20/13442 angekündigten Maßnahmen zur Verbesserung der Anzahl der durchgeführten Untersuchungen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs 21/2555.
 
@@ -228,7 +229,7 @@ Wie viele Stellen für Schulärzte (VZÄ) gab es im Schuljahr 2015/2016 in den e
 
 Wie viele dieser Stellen waren wann und aus welchem Grund jeweils unbesetzt? Bitte pro Bezirk darstellen.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Stellen für Schulärztinnen und Schulärzte (VZÄ), Vakanzen und Erläuterungen
 

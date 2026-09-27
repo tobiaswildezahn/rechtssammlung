@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52182"
@@ -59,7 +60,7 @@ Wie viele sogenannte schlüssellose Autos wurden in den letzten zwölf Monaten i
 
 Wie viele Täter solcher Entwendungen wurden in den letzten zwölf Monaten ermittelt? Bitte nach Monaten aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Statistiken im Sinne der Fragestellung werden bei der Polizei nicht geführt. Die Beantwortung der Fragen würde eine händische Auswertung mehrerer Zehntausend Ermittlungsvorgänge bei der Polizei erforderlich machen. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

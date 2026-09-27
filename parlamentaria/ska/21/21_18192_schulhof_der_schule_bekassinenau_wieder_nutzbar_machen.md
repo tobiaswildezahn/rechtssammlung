@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17388", "21/18018", "21/17750", "21/15380"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67822"
@@ -103,7 +104,7 @@ Wie viele Schulcontainer sind an den einzelnen Schulen im Wahlkreis 14 aufgestel
 
 Welche Schulhofflächen im Wahlkreis 14 werden durch die Aufstellung der Schulcontainer verkleinert und welche Auswirkung hat dies auf die Nutzung der Schulhöfe?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Aufgrund steigender Schülerzahlen wurden vorübergehend vier mobile Klassenräume an der Stadtteilschule Oldenfelde (August 2018 bis Juli 2021) und zwei weitere an der Grundschule Islandstraße (August 2019 bis Juli 2022) aufgestellt.
 

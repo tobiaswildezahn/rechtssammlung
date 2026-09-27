@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8356", "21/10542", "21/11365", "21/11040"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61498"
@@ -79,7 +80,7 @@ Wird die Verkehrsdirektion bestimmte der ihr zugewiesenen Aufgaben infolge der z
 
 Wird beispielsweise die Zahl der durchzuführenden Messeinheiten der mobilen Geschwindigkeitsmessung im laufenden Jahr im Vergleich zu den Vorjahren erhöht? Wenn ja, in welchem Umfang und welche zusätzlichen Ressourcen werden dafür konkret seitens der Verkehrsdirektion eingesetzt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -103,7 +104,7 @@ Welche Änderungen hinsichtlich der Aufgabenbeschreibung der Verkehrsdirektion w
 
 Welche Änderungen hinsichtlich der Aufgabenbeschreibung der Verkehrsdirektion wurden zwischen dem 1. April 2011 und dem 28. Februar 2018 wann genau, mit welchem Zweck und mit welchen Ergebnissen jeweils vorgenommen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 
@@ -124,7 +125,7 @@ Welche Änderungen hinsichtlich der Struktur der Verkehrsdirektion und hinsichtl
 
 Welche Änderungen hinsichtlich der Struktur der Verkehrsdirektion und hinsichtlich der organisatorischen Einbettung der Verkehrsdirektion innerhalb der Polizei Hamburg wurden zwischen dem 1. April 2011 und dem 28. Februar 2018 wann genau, mit welchem Zweck und mit welchen Ergebnissen jeweils vorgenommen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung.
 

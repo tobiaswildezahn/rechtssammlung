@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11465", "21/7219", "21/10846", "21/11192", "21/6426", "21/6922", "21/9747", "21/10751"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60752"
@@ -83,7 +84,7 @@ Was sind die Inhalte einer Perspektivberatung? Bitte Laufzettel anfügen.
 
 Was sind die Voraussetzungen, um von einer Selbsthilfemöglichkeit zu sprechen und wo sind diese normiert?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/6426, 21/6922 und 21/11192. Im Übrigen siehe http://www.hamburg.de/ winternotprogramm-obdachlose/789920/winternotprogramm/.
 

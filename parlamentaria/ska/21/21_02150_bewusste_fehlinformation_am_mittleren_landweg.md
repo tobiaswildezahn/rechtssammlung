@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1455", "21/1866"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50429"
@@ -44,7 +45,7 @@ War zum Zeitpunkt der Informationsveranstaltung am 6.10.2015 und der Beantwortun
 
 Wie will der Senat mit einer derartigen Informationspolitik verhindern, dass die Bevölkerung sich nicht ernst genommen fühlt und den Eindruck gewinnt, lediglich vollendete Tatsachen akzeptieren zu sollen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der zuständigen Behörde ist es gemeinsam mit dem Bezirksamt Bergedorf ein Anliegen, sehr frühzeitig über die geplanten Flüchtlingsunterkünfte am Mittleren Landweg zu informieren. Hierzu erfolgte bereits am 06.10.2015 eine Informationsveranstaltung, obwohl Verhandlungen über die konkrete Bebauung zu diesem Zeitpunkt erst kurz
 

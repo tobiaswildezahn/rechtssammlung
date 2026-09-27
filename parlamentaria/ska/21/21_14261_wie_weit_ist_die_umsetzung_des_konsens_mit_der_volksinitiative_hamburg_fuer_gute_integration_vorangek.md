@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13685", "21/10281", "21/9012", "21/9607", "21/11219"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63670"
@@ -64,7 +65,7 @@ Die Berufsqualifizierung für die Gruppe der 18- bis 25-Jährigen soll zum
 
 Quartal von 400 auf 600 Plätze aufgestockt werden. Inwiefern ist das bereits erfolgt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Aufstockung des Begleitprojektes „Chancengenerator“ ist inzwischen erfolgt.
 
@@ -96,13 +97,13 @@ Wenn nein, warum gibt es keine Unterschiede?
 
 WAA ist kein Bildungsgang der für Bildung zuständigen Behörde zur Umsetzung bestehender Schulpflicht, sondern eine Maßnahme der AA. Das HIBB fungiert als Auftragnehmer zur Durchführung dieser Bildungsmaßnahme, die prinzipiell in ihrer Struktur mit AvM-Dual vergleichbar ist. Die Zielgruppe ist im Konzept wie folgt definiert:
 
- alphabetisierte Jungerwachsene mit Sprachniveau B1,
+– alphabetisierte Jungerwachsene mit Sprachniveau B1,
 
- ohne Schulabschluss: das Niveau der schulischen Vorkenntnisse reicht für das
+– ohne Schulabschluss: das Niveau der schulischen Vorkenntnisse reicht für das
 
 erfolgreiche Absolvieren der Berufsschule noch nicht aus,
 
- vorrangig Sozialgesetzbuch (SGB) II Kunden und SGB III Kunden mit Aufenthalts-
+– vorrangig Sozialgesetzbuch (SGB) II Kunden und SGB III Kunden mit Aufenthalts-
 
 erlaubnis und Niederlassungserlaubnis.
 

@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 19
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65748"
@@ -191,23 +192,23 @@ Wie oft wurden tierschutzrelevante Einrichtungen in Hamburg durch die aufsichtsf
 
 #### Antwort zu Frage 10
 
- Tierheim Süderstraße,
+– Tierheim Süderstraße,
 
- Franziskustierheim,
+– Franziskustierheim,
 
- Tierpensionen/Tagesstätten für Tiere,
+– Tierpensionen/Tagesstätten für Tiere,
 
- Hagenbecks Tierpark,
+– Hagenbecks Tierpark,
 
- Tierversuchseinrichtungen,
+– Tierversuchseinrichtungen,
 
- Tierhaltende Landwirte/Schweinemastbetrieb,
+– Tierhaltende Landwirte/Schweinemastbetrieb,
 
- Tierzüchter,
+– Tierzüchter,
 
- Zootierhandlungen mit Tierbestand,
+– Zootierhandlungen mit Tierbestand,
 
- Wildpark Klövensteen.
+– Wildpark Klövensteen.
 
 Siehe Anlage.
 

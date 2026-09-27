@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61247"
@@ -97,7 +98,7 @@ Vor dem Hintergrund, dass ein realisierungsfähiger Wettbewerbsentwurf vorliegt:
 
 Wie wird gemäß den Angaben zu 10. das betriebswirtschaftliche Ergebnis der Siedlungsentwicklung aussehen und wie stellt sich der Gewinn/ Verlust je Quadratmeter Bauland letztendlich dar?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Kosten und Einnahmen ergeben sich im Zuge des Projektfortschritts. Derzeit befindet sich das Gebiet noch in der Planung, daher können noch keine weiterführenden Aussagen gemacht werden.
 

@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 45
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1501", "21/1703", "21/1812", "21/1861", "21/2042", "19/4795", "20/3215", "21/299", "21/2116", "21/1341", "21/1986"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50488"
@@ -134,7 +135,7 @@ Gab es im Zeitraum 2012 bis 2015 auffällige Tathäufungen bei Nationalitäten u
 5.4 Sind Aleviten gehäuft als Täter auffällig geworden? Wenn ja, welche Nationalitäten waren dabei auffällig?
 5.5 Sind Christen gehäuft als Täter auffällig geworden? Wenn ja, welche Nationalitäten waren dabei auffällig (zum Beispiel Eritreer)?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 
@@ -176,7 +177,7 @@ Kennt der Senat den „Neuen Regelkodex“ der Unterkunftsleitung, den die 800 A
 
 Bitte teilen Sie mit, wie viele Asylbewerber diesen „Regelkodex“ tatsächlich unterschrieben haben und, ob es Asylbewerber gibt, die sich weigern, diesen zu unterschreiben.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Der Betreiber f & w fördern und wohnen AöR (f & w) hat mitgeteilt, dass es keinen gesonderten „Neuen Regelkodex“ gibt. Am 19.10.2015 führte f & w eine Bewohnerversammlung in der Einrichtung durch, bei der viele unterschiedliche Themenbereiche
 

@@ -14,6 +14,7 @@ fragen: 36
 einzelfragen: 36
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59277"
@@ -99,7 +100,7 @@ Welche Kosten sind seit 2011 für die Reinigung beziehungsweise Entmüllung der 
 
 Welche Kosten sind seit 2011 für die Reinigung beziehungsweise Entmüllung der U-Bahn-Haltestellen in Hamburg entstanden? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Für die Gleisbettreinigung im Haltestellenbereich entstanden in den Jahren 2011 bis 2016 folgende Kosten:
 
@@ -161,7 +162,7 @@ Wie groß ist die Gesamtmenge an Müll, die seit 2011 in den U-Bahn- Gleisbetten
 
 Wie groß ist die Gesamtmenge an Müll, die seit 2011 an den U-Bahn- Haltestellen in Hamburg aufgesammelt wurde? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die Müllentsorgung für Gleisbett, Haltestellen und U-Bahn-Fahrzeuge wird in einem integrativen Entsorgungssystem gesamthaft durchgeführt. Insofern liegen nur Zahlen für die Gesamtmüllmenge von Gleisbett, U-Bahn-Haltestellen und U-Bahn-Fahrzeugen vor:
 
@@ -206,7 +207,7 @@ Wie viel Personal ist seit 2011 mit der Reinigung beziehungsweise Entmüllung de
 
 Wie viel Personal ist seit 2011 mit der Reinigung beziehungsweise Entmüllung der U-Bahn-Haltestellen beauftragt? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Die Durchführung von Reinigung und Müllentsorgung der U-Bahn-Haltestellen und des Gleisbetts erfolgt durch die hierfür von der HOCHBAHN gesamthaft beauftragte TEREG Gebäudedienste GmbH. Nach Auskunft der TEREG Gebäudedienste GmbH erfolgt die Einsatzplanung der Mitarbeiterinnen und Mitarbeiter nicht haltestellenbezogen, sondern umfasst auch weitere, teilweise für andere Auftraggeber zu erbringende Tätigkeiten. Eine Auswertung der Einsatzplanungen für den erfragten Zeitraum müsste demnach manuell erfolgen und ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -244,7 +245,7 @@ Wie groß ist die Gesamtmenge an Müll, die seit 2011 in den AKN- Gleisbetten in
 
 Wie groß ist die Gesamtmenge an Müll, die seit 2011 an den AKN- Haltestellen in Hamburg aufgesammelt wurde? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Die Gesamtmenge wird nicht erfasst.
 

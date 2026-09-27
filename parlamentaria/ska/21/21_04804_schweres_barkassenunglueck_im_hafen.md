@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 24
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53235"
@@ -51,7 +52,7 @@ Was war die Ursache für die Kollision?
 
 Wer hat nach erster Einschätzung den Unfall verursacht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Ermittlungen zum Unfallhergang sind noch nicht abgeschlossen. Aussagen zur Ursache und zum Verursacher können daher noch nicht gemacht werden.
 

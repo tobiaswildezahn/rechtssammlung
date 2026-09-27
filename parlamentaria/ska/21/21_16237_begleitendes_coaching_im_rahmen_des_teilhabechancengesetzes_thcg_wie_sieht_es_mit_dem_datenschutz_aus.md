@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 39
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16163"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65749"
@@ -82,29 +83,29 @@ Es besteht keine Berichtspflicht seitens der Coaches gegenüber der Agentur für
 
 Die Ergebnisse und Inhalte der Betreuung und Begleitung durch das Coaching inklusive Zeitpunkts und Dauer sollen von der betreuenden Person in einem beschäftigungsbegleitenden Eingliederungsplan fortlaufend festgehalten werden. Der Eingliederungsplan wird gemeinsam mit den Arbeitnehmerinnen und Arbeitnehmern erstellt und ist mit der zuständigen Integrationsfachkraft mindestens vierteljährlich zu besprechen. Der Eingliederungsplan muss mindestens folgende Angaben enthalten:
 
- Personenbezogene Daten
+– Personenbezogene Daten
 
- Standortanalyse zu beruflichen, persönlichen, gesundheitlichen, finanziellen, fami-
+– Standortanalyse zu beruflichen, persönlichen, gesundheitlichen, finanziellen, fami-
 
 liären und weiteren die Beschäftigungsaufnahme und -fortführung betreffenden Einschränkungen
 
- Eingliederungsziel und Zwischenziele (insbesondere Einbindung von kommunalen
+– Eingliederungsziel und Zwischenziele (insbesondere Einbindung von kommunalen
 
 Leistungen nach § 16a SGB II, Übergang in ungeförderte Beschäftigung)
 
- Aufgaben/Schritte (aller Beteiligten)
+– Aufgaben/Schritte (aller Beteiligten)
 
- Individuelle Förderung (unter anderem Gründe für die Anpassung der Betreuungs-
+– Individuelle Förderung (unter anderem Gründe für die Anpassung der Betreuungs-
 
 stunden)
 
- Integrationsfortschritte bei Teilnehmenden nach §16i SGB II
+– Integrationsfortschritte bei Teilnehmenden nach §16i SGB II
 
- Übergangsmanagement
+– Übergangsmanagement
 
- Fortschreibung des Eingliederungsplans/Zwischenziele
+– Fortschreibung des Eingliederungsplans/Zwischenziele
 
- Zielerreichung (Austritt/Verbleib)
+– Zielerreichung (Austritt/Verbleib)
 
 Darüber hinaus sind nach Abschluss des Coachings sowie im Falle unzureichender Mitwirkung oder Nichterscheinen Berichte beim Jobcenter einzureichen.
 

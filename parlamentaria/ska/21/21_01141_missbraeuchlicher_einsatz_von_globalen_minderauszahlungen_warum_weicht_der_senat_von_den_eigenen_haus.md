@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/999"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49323"
@@ -69,7 +70,7 @@ Warum genau weicht der Senat von seinem Grundsatz ab, globale Minderauszahlungen
 
 Gemäß § 18 Absatz 2 LHO ist die Veranschlagung globaler Minderauszahlungen im Haushalt zu begründen. Gilt dies auch für unterjährige Erhöhungen der globalen Minderauszahlungen? Wie begründet sich im Einzelnen die Erhöhung der globalen Minderauszahlung im Einzelplan 7 im Doppelhaushalt 2015/2016 um insgesamt 68,6 Millionen Euro auf fast 94 Millionen Euro?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Anlass und Begründung für die Erhöhung der globalen Minderauszahlungen ist die unvorhergesehene besondere Entwicklung der Zuwanderung, die unmittelbare Entscheidungen des Senats über Investitionen in zusätzliche Unterbringungskapazitäten mit einer entsprechenden Mittelbindung auf der Grundlage von § 39 der Landeshaushaltordnung (LHO) erfordert hat. Der Senat weicht dabei nicht von seinem Grundsatz ab, dass die veranschlagten globalen Minderausgaben beziehungsweise Minderauszahlungen durch tatsächlich zu erwartende Haushaltsreste ausgeglichen werden müssen. Im Übrigen plant der Senat, der Bürgerschaft in Kürze eine weitere Nachbewilligungsdrucksache vorzulegen, die den Bedarfen aufgrund gestiegener Flüchtlingszahlen Rechnung trägt.
 
@@ -89,7 +90,7 @@ Bei welchen einzelnen im Einzelplan 7 veranschlagten Investitionsvorhaben werden
 
 Wodurch, in welcher Höhe und für welchen Zeitraum gibt es nach Ansicht des Senats im Einzelplan 7 derzeit temporär Mittel, die anders genutzt werden können? Aus welchen einzelnen Investitionsvorhaben ergeben sich in jeweils welcher Höhe temporäre Mittel?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/999.
 

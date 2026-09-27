@@ -14,6 +14,7 @@ fragen: 25
 einzelfragen: 28
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15991", "21/11782", "21/9181", "21/7689", "21/8445", "21/8664"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69714"
@@ -47,7 +48,7 @@ Wie viele Fahrgäste wurden im Jahr 2019 bei Kontrollen des ÖPNV in Hamburg ohn
 
 Wie viele Fahrgäste wurden in den Jahren 2011 bis 2018 bei Kontrollen des ÖPNV in Hamburg ohne gültigen Fahrausweis angetroffen und wie viele konnten nachträglich eine persönliche Fahrkarte vorlegen? Bitte jahresweise nach Verkehrsmitteln und Verkehrsunternehmen aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Jahr Feststellungen HOCHBAHN *
 
@@ -191,7 +192,7 @@ Wie hat sich die Schwarzfahrerquote im ÖPNV in Hamburg im Jahr 2019 insgesamt e
 
 Wie hat sich die Schwarzfahrerquote im ÖPNV in Hamburg in den Jahren 2011 bis 2018 insgesamt entwickelt? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Jahr  
 HVV-Quote  
@@ -284,7 +285,7 @@ Wie hat sich die Summe der wegen Schwarzfahrens im ÖPNV in Hamburg
 a) verhängten Bußgelder,
 b) gezahlten Bußgelder in den Jahren 2011 bis 2018 entwickelt? Bitte jahresweise nach Verkehrsunternehmen aufschlüsseln.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Angaben in Euro:
 
@@ -503,7 +504,7 @@ b) zu einer Freiheitsstrafe mit Bewährung,
 c) zu einer Freiheitsstrafe ohne Bewährung  
 verurteilt?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Die erfragten Daten können der Strafverfolgungsstatistik entnommen werden. Diese Statistik wird einmal jährlich vom Statistikamt Nord erstellt, liegt jedoch für das Jahr 2019 noch nicht vor. Für das Jahr 2018 ergeben sich aus der Strafverfolgungsstatistik folgende Zahlen:
 
@@ -523,7 +524,7 @@ Wie viele Personen, die wegen Erschleichens von Leistungen zu einer Geldstrafe v
 
 Wie viele Personen, die wegen Erschleichens von Leistungen zu einer Geldstrafe verurteilt wurden, haben in den Jahren 2011 bis 2018 Ersatzarbeitsstunden abgeleistet? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Die Merkmale werden statistisch nicht erfasst. Insgesamt wurden im Abschnitt Gemeinnützige Arbeit (GA) zwischen 2011 und 2019 12 275 Fälle bearbeitet, in denen seitens der Staatsanwaltschaft die Uneinbringlichkeit einer Geldstrafe festgestellt und gemeinnützige Arbeit zur Vermeidung von Ersatzfreiheitsstrafe genehmigt wurde. Zur Beantwortung der Fragen wäre eine händische Einzelauswertung der Akten für diese oben genannten Fälle erforderlich. Dies ist in der zur Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -558,7 +559,7 @@ Wie viele zu Geldstrafen verurteilte Personen haben im Jahr 2019 eine Ersatzfrei
 
 Wie viele zu Geldstrafen verurteilte Personen haben in den Jahren 2011 bis 2018 eine Ersatzfreiheitsstrafe verbüßt?
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Die Anzahl der eine Ersatzfreiheitsstrafe verbüßenden Gefangenen wird nicht fortlaufend, sondern nur an Stichtagen erhoben, sodass nicht zu ermitteln ist, wie viele Personen im genannten Zeitraum insgesamt Ersatzfreiheitsstrafen verbüßt haben (siehe Drs. 21/8445, 21/8664, 21/11782 und 21/15991). Die Erfassung erfolgt zum 1. des jeweiligen Monats und stellt sich für die Jahre 2011 bis 2019 insgesamt wie folgt dar:
 

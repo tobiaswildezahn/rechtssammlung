@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/620", "21/780", "21/951"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49436"
@@ -45,7 +46,7 @@ Wie viele Wohnberechtigungsscheine wurden im Zeitraum Januar 2014 bis Juli 2015 
 
 Wie hat sich die Versorgungsquote für die beiden Gruppen im betreffenden Zeitraum entwickelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Jahr
 

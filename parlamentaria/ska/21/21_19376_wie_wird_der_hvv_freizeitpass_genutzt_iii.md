@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14891"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69089"
@@ -110,6 +111,6 @@ Der Freizeitpass ist in der Woche erst ab 14 Uhr gültig. Welche Gründe liegen 
 
 Bewerten es der Senat beziehungsweise die zuständigen Behörden als praxistauglich, dass der Freizeitpass in Zeiten des Ganztagsschulunterrichts, mit immer wieder vormittags oder in der Mittagszeit vorkommenden Freistunden, erst ab 14 Uhr gültig ist? Wenn ja, warum? Wenn nein, planen der Senat beziehungsweise die zuständigen Behörden hier entsprechende Änderungen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/14891.

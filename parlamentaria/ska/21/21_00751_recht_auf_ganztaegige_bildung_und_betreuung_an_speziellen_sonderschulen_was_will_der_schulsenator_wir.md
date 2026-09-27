@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 20
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48910"
@@ -149,7 +150,7 @@ Ist deshalb vorgesehen, sämtliche spezielle Sonderschulen (und Förderund Sprac
 
 An welchen Schulen wird aus welchen Gründen mit dem sogenannten Konzept des offenen Ganztages gearbeitet? Wie sieht dieses Konzept konkret und in Abgrenzung zum gebundenen Ganztag an speziellen Sonderschulen aus?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Vorbemerkung und Anlage 1.
 
@@ -187,7 +188,7 @@ Mit welchem konkreten Konzept plant die Schulbehörde, das bereits bestehende Tr
 
 Wie soll der zusätzliche personelle Bedarf für die Ausweitung der Ganztagsbetreuung sichergestellt werden, wenn bereits jetzt ein Personalnotstand im sozialen und therapeutischen Bereich beklagt wird?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Hierzu sind die Planungen der zuständigen Behörden noch nicht abgeschlossen.
 

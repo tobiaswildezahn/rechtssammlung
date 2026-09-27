@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 21
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10666", "18/4119", "21/10676", "21/9895", "21/6796", "20/8276"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59874"
@@ -57,7 +58,7 @@ Zur Frage 6. in Drs. 21/10666 hinsichtlich der Innovationen wird vom Senat einzi
 
 Auf Frage 6. in Drs. 21/10666 hinsichtlich der Innovationen (angeblich Screeningverfahren) wird vom Senat keine der gestellten Fragen zu den konkreten Kriterien, den genauen Abläufen, den individuellen Schwimmförderungsdifferenzierungen sowie den durch diese ausgelösten Maßnahmen und den durchführenden Akteuren nebst deren Qualifikation beantwortet. Weshalb erfolgte diese Beantwortung nicht? Ich bitte deshalb nochmals darum, diese Aspekte jeweils im Einzelnen konkret zu erläutern, also: a. Nach welchen Kriterien ist dieses Screening wie genau gestaltet? b. Welche genauen Abläufe kennzeichnen es? c. Welche individuelle Schwimmförderungsdifferenzierung wird vorgenommen? d. Welche konkreten Maßnahmen werden dadurch ausgelöst? e. Durch wen genau, mit welcher Qualifikation werden diese Differenzierungen des Schwimmförderbedarfs vorgenommen und dokumentiert?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Im Schuljahr 2017/2018 wird mithilfe eines einheitlichen Kriterienkatalogs der Stand der Wassergewöhnung ermittelt. Dieser umfasst sieben Kriterien, die sich auf Angst und Panik im Umgang mit Wasser beziehen. Die sieben Kriterien sind folgende:
 

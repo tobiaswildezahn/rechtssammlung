@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56441"
@@ -67,6 +68,6 @@ Liegt der zuständigen Dienststelle inzwischen ein Bauantrag vor? a. Wenn ja, bi
 
 Welche konkreten baulichen Maßnahmen sind erforderlich, um den Heinrich-Hertz-Turm der Öffentlichkeit wieder zugänglich zu machen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antworten zu 1. und 2.

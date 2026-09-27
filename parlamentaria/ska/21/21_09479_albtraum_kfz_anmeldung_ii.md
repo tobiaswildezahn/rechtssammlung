@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6565", "21/6595"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58244"
@@ -67,7 +68,7 @@ Wie viele Arbeitsplätze sind in den fünf Zulassungsstellen aktuell jeweils sei
 
 Wie hat sich die Zahl unbesetzter Stellen seit 2011 entwickelt? (Bitte nach Jahren aufschlüsseln.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der LBV hat keine dauerhaft unbesetzten Stellen in den Zulassungsstandorten. Er hat auch in den vergangenen Jahren grundsätzlich freie Stellen zeitnah ausgeschrieben.
 

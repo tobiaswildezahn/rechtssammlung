@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 19
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54513"
@@ -61,7 +62,7 @@ Wie viele gemeldete Kinder werden im betroffenen Einzugsgebiet im August/Septemb
 
 Wie viele gemeldete Kinder können im Einzugsgebiet im August/September 2017 freiwillig eingeschult werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Im Einzugsgebiet der Grundschule Lemsahl-Mellingstedt sind zum Stichtag
 20.09.2016 86 Kinder gemeldet, die unter den Maßgaben des § 38 Absatz 1 HmbSG zum Schuljahr 2017/2018 schulpflichtig werden. Darüber hinaus sind 13 Kinder gemeldet, die unter den Maßgaben des § 38 Absatz 2 HmbSG zum Schuljahr 2017/ 2018 die Schule besuchen können.
@@ -138,7 +139,7 @@ Wie ist die Sichtweise des Senats beziehungsweise der Schulbehörde zu den oben 
 
 Welche Maßnahmen sind geplant, dass ab 2017 eine Ganztagsbetreuung für einen fünf- – sechszügigen Jahrgang an Erstklässlern in der Schule Redderbarg möglich ist?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Antwort zu 9.
 

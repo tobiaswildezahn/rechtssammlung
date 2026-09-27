@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5929"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55006"
@@ -51,7 +52,7 @@ Nach der Drs. 21/5929 (Fragen 16. – 18.) werden die Jobcenter über die IT-Pau
 
 Wie hoch war die IT-Pauschale jeweils in den Jahren 2015 und 2016 und in welcher Höhe in Prozent war die zuständige Fachbehörde jeweils an den Kosten beteiligt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine weitere Aufschlüsslung der Gesamtsumme im Sinne der Fragestellung ist nicht möglich. Die Summe von 875.000 Euro in den Jahren 2016 – 2018 bezieht sich auf die begleitenden Kosten zur Einführung der eAkte im Jobcenter und steht nicht im Zusammenhang mit der IT-Pauschale. Eine Aufschlüsselung der Kosten für die zentral verwalteten IT-Verfahren der Bundesagentur für Arbeit liegt im Zuständigkeitsbereich des Bundes.
 

@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 32
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8618", "21/8500", "21/5141"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57352"
@@ -47,7 +48,7 @@ Welcher Art war das Vertragsverhältnis zwischen der Firma Securitas und der Ham
 
 Welches Vertragsverhältnis besteht seit dem 1.4.2017 zwischen diesen Unternehmen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/8618.
 

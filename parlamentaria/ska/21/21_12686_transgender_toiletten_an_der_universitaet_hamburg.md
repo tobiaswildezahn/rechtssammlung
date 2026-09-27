@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 21
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61990"
@@ -80,7 +81,7 @@ Wie viel Geld beziehungsweise welche Mittel stellt die Universität jährlich zu
 
 Inwieweit hat sich dieses Budget seit November 2008 verändert? Die bewilligten Gelder bitte für jedes Jahr bis 2018 angeben.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 An zentralen Mitteln werden im Gleichstellungsfonds der UHH jährlich 80.000 Euro zur Verfügung gestellt, der 2012 erstmalig ausgeschrieben wurde. Die Mittel, die für Gleichstellung an der UHH eingesetzt werden, variieren im Jahresmittel und hängen von Planung und Umsetzung der Maßnahmen ab. Eine Auswertung der im Gleichstellungsfonds beantragten und bewilligten Mittel ist online zu finden: https://www.unihamburg.de/gleichstellung/download/auswertung-glf-12-17-barrierefrei.pdf.
 

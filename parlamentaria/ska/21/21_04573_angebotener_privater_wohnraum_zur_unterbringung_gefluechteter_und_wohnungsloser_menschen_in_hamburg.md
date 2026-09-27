@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2024", "21/2864", "21/3652"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52978"
@@ -120,6 +121,6 @@ Wie werden private Wohnungs- oder Vermietungsanbieter auf die Möglichkeit zur M
 
 Was passiert mit denjenigen Angeboten, die nicht unmittelbar infrage kommen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung. Im Übrigen erfolgt die Weiterleitung an die Wohnbrücke und nicht an die Fachstellen für Wohnungsnotfälle zur Wohnraumvermittlung.

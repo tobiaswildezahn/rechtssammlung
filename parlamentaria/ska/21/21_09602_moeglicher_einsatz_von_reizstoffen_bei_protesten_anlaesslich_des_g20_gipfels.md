@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/197", "21/113", "21/8091"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58393"
@@ -87,7 +88,7 @@ Welche Reizstoffe sind durch welche Polizeien im Rahmen des G20- Gipfels in Hamb
 
 Welche Reizstoffsprühgeräte und Abschussvorrichtungen für Reizstoffgranaten sind durch welche Polizeien im Rahmen des G20-Gipfels in Hamburg im Einsatz (bitte aufgliedern nach Landespolizeien/Bundespolizei sowie hinsichtlich der der Gerätschaften nach Gerätemodell, Anzahl, Einsatzreichweite, Sprühbilddurchmesser, Mindestzahl von 1-Sekunden-Strahlstößen)?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 20/197 sowie Antworten zu 2. und 6. Darüber hinaus werden die abgefragten Daten von der Polizei statistisch nicht erfasst. Für die Beantwortung der Fragestellungen wären Abfragen sämtlicher für den Einsatz vorgesehenen auswärtigen Polizeien erforderlich. Eine Durchsicht, Auswertung und Aufbereitung der Daten ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11504", "21/11447", "21/12864", "21/9248"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62312"
@@ -99,7 +100,7 @@ Welche beruflichen oder akademischen Qualifikationen weisen die Ausländer mit A
 
 Wie viele der Ausländer mit Asylhintergrund, die derzeit in der Unterkunft untergebracht sind, gehen aktuell einer sozialversicherungspflichtigen Beschäftigung nach?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Drs. 21/11447.
 

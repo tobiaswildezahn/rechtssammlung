@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3244"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51741"
@@ -109,15 +110,15 @@ Wurden auch Oberleitungsbusse (sogenannte Trolleybusse) als alternative, emissio
 
 Nein. Aufgrund des für den Betrieb von Oberleitungsbussen erforderlichen Einsatzes von Oberleitungen entlang des Linienwegs ergeben sich folgende Nachteile dieses Systems:
 
- hoher Kostenaufwand für Aufbau und Instandhaltung der Oberleitung,
+– hoher Kostenaufwand für Aufbau und Instandhaltung der Oberleitung,
 
- erhöhter Flächenbedarf im Straßenraum durch die Oberleitungsmasten im Ver-
+– erhöhter Flächenbedarf im Straßenraum durch die Oberleitungsmasten im Ver-
 
 gleich zu anderen Bus-Antriebssystemen,
 
- Beeinträchtigung des Stadtbilds,
+– Beeinträchtigung des Stadtbilds,
 
- Wegfall der Flexibilität anderer Antriebssysteme (Umleitungsverkehre, Baustellen,
+– Wegfall der Flexibilität anderer Antriebssysteme (Umleitungsverkehre, Baustellen,
 
 Schienenersatzverkehr mit Bussen).
 

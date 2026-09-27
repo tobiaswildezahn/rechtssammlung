@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53523"
@@ -105,7 +106,7 @@ Wie wird in Hamburg für die Kinderschutz-Hotline geworben?
 
 Wie ist das Verhältnis der bei der Kinderschutz-Hotline Hamburg eingegangenen Hinweise auf Kindeswohlgefährdungen im Verhältnis zu den Hinweisen, die direkt bei den Jugendämtern, der Polizei oder sonstigen Behörden eingehen? Bitte seit Gründung der Kinderschutz-Hotline unter Nennung des jeweiligen Jahres angeben.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Vorbemerkung sowie Antwort zu 1. bis 6.
 

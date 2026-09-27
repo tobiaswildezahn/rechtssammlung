@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 13
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7885", "21/7867"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56944"
@@ -69,6 +70,6 @@ An der Universität Hamburg gibt es aktuell kaum akkreditierte Studiengänge (ve
 
 Welche Konsequenzen wurden seitens Senatorin Fegebank aus den Empfehlungen des Wissenschaftsrats für den MINT-Bereich vom Januar 2016 gezogen, in denen gefordert wird, die „Abwehrhaltung der Akkreditierung gegenüber“ aufzugeben (Seite 104 folgende)? Welche Maßnahmen zur Akkreditierung haben Senat und Hochschulen seitdem in diesem Zusammenhang umgesetzt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/7867.

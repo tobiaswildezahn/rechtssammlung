@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4497", "21/14283", "21/16416", "20/14486"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66799"
@@ -91,6 +92,6 @@ Welche Kostenschätzungen und -prognosen liegen im Einzelnen mit welchem Ergebni
 
 Welche Planungen und Überlegungen gibt es im Einzelnen zur Finanzierung der geplanten Maßnahmen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Planungen sehen für das HU ein Vermieter-Mieter-Modell gemäß Drs. 20/14486 vor. Erste Kostenschätzungen werden auf dieser Basis in den nächsten Monaten schrittweise erarbeitet. Sie sind – ebenso wie etwaige Finanzierungsüberlegungen – insbesondere abhängig von der noch zu treffenden Entscheidung über mögliche Grundstücke für ein Neubauvorhaben.

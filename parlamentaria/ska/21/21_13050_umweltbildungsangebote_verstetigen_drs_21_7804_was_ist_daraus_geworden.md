@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7804"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62426"
@@ -90,7 +91,7 @@ b) auf Gehälter für die geplanten 1,2 Projektstellen?
 
 Wie groß war der Anteil der bewilligten Zuwendungen, der laut eingereichtem Konzept auf die Anschaffung von „umweltpädagogischem Material“ entfiel und um was für ein „umweltpädagogisches Material“ konkret handelt es sich (zum Beispiel Bücher, Kopien, Gartengerätschaften et cetera)?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Folgende Anteile der Zuwendungen entfielen auf:
 

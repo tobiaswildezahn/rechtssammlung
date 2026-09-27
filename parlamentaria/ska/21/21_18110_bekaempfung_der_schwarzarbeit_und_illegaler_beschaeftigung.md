@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 21
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67730"
@@ -147,7 +148,7 @@ Wie hat sich die Personalsituation in den für FKS-Verfahren zuständigen Abteil
 
 Wie viele Dezernenten haben seit dem Jahr 2016 jährlich die Abteilungen, die für FKS-Verfahren zuständig sind, verlassen und wie viele sind jeweils jährlich neu hinzugekommen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Aufgrund der Befassung sowohl der Hauptabteilungen II, III, IV und V der Staatsanwaltschaft mit Verfahren der FKS müsste zur Beantwortung der Frage die Personalausstattung der benannten Hauptabteilungen seit 2016 ausgewertet werden. Soweit dies in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit überhaupt möglich ist, würde zudem eine entsprechende Auswertung keine Aussage darüber zulassen, wie viele Personen sich mit welchen Arbeitszeitanteilen mit Verfahren der FKS befassen, da die Dezernenten der jeweiligen Hauptabteilungen daneben in unterschiedlichen Anteilen mit anderer Verfahren betraut sind.
 

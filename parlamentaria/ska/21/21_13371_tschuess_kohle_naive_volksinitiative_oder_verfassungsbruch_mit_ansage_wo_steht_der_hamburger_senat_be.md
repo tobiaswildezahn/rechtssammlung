@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 30
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5758"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62722"
@@ -89,7 +90,7 @@ Der Homepage der Volksinitiative ist zu entnehmen, dass die Senatoren Fegebank u
 
 Wie bewertet der Senat den Umstand, dass einzelne Mitglieder des Senats die Volksinitiative unterstützen, andere jedoch nicht? Gibt es innerhalb des Senats bereits eine Entscheidung beziehungsweise Positionierung bezüglich der Volksinitiative?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Senat nimmt zu Äußerungen seiner Mitglieder und deren Wiedergabe in den Medien grundsätzlich nicht Stellung.
 
@@ -149,7 +150,7 @@ Wäre die Volksinitiative, sollten die Ziele für den Senat verpflichtend nur du
 
 Hat der Senat nach § 5 Absatz 4 VAbstG Zweifel daran, ob die Volksinitiative den Rahmen nach § 50 Absatz 1 S. 2 wahrt oder mit sonstigem höherrangigem Recht vereinbar ist? Wenn ja, welche Konsequenzen zieht der Senat aus diesem Zweifel?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Vorbemerkung.
 
@@ -169,7 +170,7 @@ Wie viele Wärmenetze gibt es gegenwärtig in Hamburg und wie hat sich deren Anz
 
 Wer sind die Eigentümer und wer die Betreiber der unter Frage 15. abgefragten Wärmenetze?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Die Anzahl der Wärmenetze wird statistisch nicht erfasst. Zu wesentlichen Eigentümern und Betreibern von Wärmenetzen siehe Drs. 21/5758.
 

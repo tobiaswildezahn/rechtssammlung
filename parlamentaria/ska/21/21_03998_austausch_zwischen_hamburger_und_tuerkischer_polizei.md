@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 24
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8416"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52385"
@@ -55,11 +56,11 @@ Welche konkreten Veranstaltungen, Arbeitsbesuche, Hospitationen und gegebenenfal
 
 Unabhängig von der Zusammenarbeit im Sinne der Anfrage fanden zwei Maßnahmen bei der Polizei Hamburg statt:
 
- 11. Oktober 2013: Besuch von zwei maritimen Experten der Abteilung Seepolizei
+– 11. Oktober 2013: Besuch von zwei maritimen Experten der Abteilung Seepolizei
 
 der türkischen Generalsicherheitsdirektion Ankara bei der Wasserschutzpolizei (WSP) Hamburg (Vorstellung der WSP Hamburg und Erfahrungsaustausch)
 
- 14. Mai 2014: Besuch von sechs türkischen Landräten bei der Polizei Hamburg auf
+– 14. Mai 2014: Besuch von sechs türkischen Landräten bei der Polizei Hamburg auf
 
 Anfrage des Kulturbüros des Goethe-Instituts Hamburg
 

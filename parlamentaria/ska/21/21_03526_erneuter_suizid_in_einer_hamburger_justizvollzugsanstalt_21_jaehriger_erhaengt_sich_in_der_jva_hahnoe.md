@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3364", "21/2168"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51881"
@@ -114,15 +115,15 @@ Seit dem Jahr 2015 gab es über den Suizid des Gefangenen J. hinaus sechs Suizid
 
 Diese befanden sich wegen folgender Tatvorwürfe in Untersuchungshaft:
 
- Diebstahl (drei Gefangene)
+– Diebstahl (drei Gefangene)
 
- sonstiger Diebstahl in besonders schweren Fällen
+– sonstiger Diebstahl in besonders schweren Fällen
 
- versuchter Mord/gefährliche Körperverletzung/Raub
+– versuchter Mord/gefährliche Körperverletzung/Raub
 
- gefährliche Körperverletzung
+– gefährliche Körperverletzung
 
- Vergewaltigung
+– Vergewaltigung
 
 ### Frage 8
 
@@ -132,7 +133,7 @@ Wie häufig wurde seit dem Jahr 2015 ein „Vier-Augen-Gespräch“ im Nachgang 
 
 Wie häufig wurden seit dem Jahr 2015 besondere Sicherungsmaßnahmen im Nachgang zum Suizidscreening angeordnet? Bitte nach UHA und JVA Hahnöfersand getrennt darstellen.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Das Suizidscreening und ein darauf gegebenenfalls folgendes „Vier-Augen-Gespräch“ finden ausschließlich in der Untersuchungshaftanstalt statt. Die Gefangenen werden erst nach Durchführung des Screenings und gegebenenfalls nach Aufhebung der besonderen Sicherungsmaßnahmen in die JVA Hahnöfersand verlegt.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13544"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63083"
@@ -103,7 +104,7 @@ Wie viele Eingangsklassen sind bislang davon betroffen?
 
 Was ist konkret unter „sozialem Lernen“ zu verstehen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antwort zu 6.
 

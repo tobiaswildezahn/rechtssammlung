@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 15
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57095"
@@ -47,7 +48,7 @@ Wann hat der Senat beziehungsweise die zuständige Fachbehörde Kenntnis von dem
 
 Hat der Senat beziehungsweise die zuständige Fachbehörde Kenntnis von der Unterschriftensammlung (Petition) des Elternrates in selbiger Angelegenheit? Wenn ja, in welcher Weise hat er darauf reagiert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Schreiben hat die zuständige Behörde per E-Mail im Vorwege am 16. November 2016 erreicht und per Brief vom 17. November 2016 mit der beigefügten Unterschriftenliste am 21. November 2016. Aufgrund eines Büroversehens ist eine Rückmeldung an den Elternrat erst am 20. Januar 2017 erfolgt. Die inhaltliche Antwort der Behörde
 
@@ -69,7 +70,7 @@ Plant der Senat beziehungsweise die zuständige Behörde Gespräche mit dem Elte
 
 Sieht der Senat beziehungsweise die zuständige Behörde als Übergangslösung Spielraum für die Erweiterung der Containeraufstellung, um mehr Essensplätze schaffen zu können? Wenn ja, zu welchem Zeitpunkt ist die Aufstellung zusätzlicher Container in welchem Umfang geplant? a. Wenn nein, warum nicht und welche anderen Übergangslösungen sind stattdessen vorgesehen? (Bitte erläutern und Alternativen darstellen.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die zuständige Behörde prüft derzeit gemeinsam mit dem Dienstleister GMH (Gebäudemanagement Hamburg GmbH) Verbesserungsmöglichkeiten für die Übergangszeit bis zur Fertigstellung des Mensa-Gebäudes, siehe Antwort zu 3. In diese Überlegungen wird die Schule einbezogen.
 

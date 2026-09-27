@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 51390
 seiten: 3
 fragen: 11
-einzelfragen: 16
-antwortbloecke: 9
+einzelfragen: 17
+antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9662", "21/2596", "21/3727"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56138"
@@ -63,7 +64,7 @@ Welche einzelnen Maßnahmen zur Instandhaltung und Modernisierung des Platzes we
 
 Welche Maßnahmen zur Einführung der P+R-Qualitätsstandards sind vorgesehen und wann sollen sie in Ohlstedt umgesetzt werden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Beginnend im Sommer des Jahres 2017 wird die Instandsetzung der befestigten Fläche inklusive Entwässerung erfolgen; dabei werden auch die Parkstände neu geordnet und zwölf zusätzliche Stellplätze hergestellt. Weiterhin wird, um die beschlossenen Qualitätsstandards einzuhalten, die Beleuchtung verbessert sowie die Audio/Video-Technik (inklusive Notrufeinrichtungen) installiert. Die Kosten für die genannten Maßnahmen betragen nach vorliegenden Schätzungen rund 360.000 Euro.
 
@@ -104,13 +105,20 @@ Die Abstimmungen sind noch nicht abgeschlossen.
 ### Frage 8
 
 Aus dem „Amtlichen Anzeiger“ vom 23.12.2016 geht hervor, dass beabsichtigt ist, den Park+Ride-Platz Ohlstedt mit sofortiger Wirkung für den öffentlichen Verkehr zu entwidmen.
-8.1. Warum genau soll jetzt diese Entwidmung der Fläche nach dem Wegegesetz erfolgen?
 
-#### Antwort zu Frage 8
+### Frage 8.1
+
+Warum genau soll jetzt diese Entwidmung der Fläche nach dem Wegegesetz erfolgen?
+
+#### Antwort zu Fragen 8 und 8.1
 
 Die Entwidmung erfolgt, damit die Fläche an die P+R Betriebsgesellschaft übergeben werden kann.
 
-8.2. Welche rechtlichen und praktischen Auswirkungen hat die beabsichtigte Entwidmung der Fläche für die Nutzer des Parkplatzes sowie die Stadt als Grundeigentümer, bevor der Übergang an die P+R- Betriebsgesellschaft erfolgt?
+### Frage 8.2
+
+Welche rechtlichen und praktischen Auswirkungen hat die beabsichtigte Entwidmung der Fläche für die Nutzer des Parkplatzes sowie die Stadt als Grundeigentümer, bevor der Übergang an die P+R- Betriebsgesellschaft erfolgt?
+
+#### Antwort zu Frage 8.2
 
 Die Tatsache, dass die Fläche nicht dem öffentlichen Verkehr gewidmet ist, bedeutet nicht, dass auf dieser Fläche kein Verkehr stattfinden darf. Die Fläche kann bis zur Einführung einer Entgeltpflicht weiterhin unentgeltlich zum Parken genutzt werden. Die Haftung bei gewidmeten Flächen richtet sich nach dem Hamburgischen Wegegesetz (HWG), die Haftung bei nicht gewidmeten Flächen gemäß den Vorschriften des Bürgerlichen Gesetzbuchs (BGB).
 
@@ -132,7 +140,7 @@ Wie ist der genaue Stand der Bewertung und Umsetzung eines Ausbaus der Park+Ride
 
 Hat die zuständige Fachbehörde vor dem Hintergrund der Beschlussfassungen der Bezirksversammlung Wandsbek ihre Einschätzung über den Ausbaubedarf und die in Drs. 21/3727 dargestellte „Vorzugsvariante“ geändert? Wenn ja, in welchen Punkten? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Es ist geplant, mit Einführung der Entgeltpflicht die Zahl der nutzbaren Plätze von derzeit 47 auf 59 zu erhöhen. Dies soll durch Verlagerung der Wertstoffcontainer und Schaffung von Senkrecht-Parkplätzen im Bereich der jetzigen Längs-Stellplätze bewirkt werden. Damit werden mit Einführung der Entgeltpflicht zwölf zusätzliche Stellplätze (Steigerung um 28 Prozent) vorhanden sein. Diese Vorgehensweise ermöglicht auch einen späteren Ausbau, sofern sich dafür ein Bedarf zeigen sollte und ist zwischen der P+R-Betriebsgesellschaft mbH und der zuständigen Fachbehörde abgestimmt.
 

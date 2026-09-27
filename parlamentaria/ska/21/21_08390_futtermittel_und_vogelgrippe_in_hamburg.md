@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8200"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57101"
@@ -109,25 +110,25 @@ In den dort genannten Restriktionszonen gelten zusätzlich zu den in der Drs. 21
 
 Für die Dauer von 21 Tagen:
 
- Gehaltene Vögel und Bruteier dürfen aus einem Bestand nicht verbracht werden.
+– Gehaltene Vögel und Bruteier dürfen aus einem Bestand nicht verbracht werden.
 
- Frisches Fleisch, Hackfleisch oder Separatorenfleisch, Fleischerzeugnisse,
+– Frisches Fleisch, Hackfleisch oder Separatorenfleisch, Fleischerzeugnisse,
 
 Fleischzubereitungen, das oder die von gehaltenen Vögeln oder von Federwild aus dem Sperrbezirk gewonnen worden ist oder sind, dürfen nicht verbracht werden.
 
- Tierische Nebenprodukte von gehaltenen Vögeln dürfen aus einem Bestand nicht
+– Tierische Nebenprodukte von gehaltenen Vögeln dürfen aus einem Bestand nicht
 
 verbracht werden.
 
- Der Tierhalter hat sicherzustellen, dass an den Ein- und Ausgängen der Ställe oder
+– Der Tierhalter hat sicherzustellen, dass an den Ein- und Ausgängen der Ställe oder
 
 sonstigen Standorte, in denen Geflügel gehalten wird, Matten oder sonstige saugfähige Bodenauflagen ausgelegt werden und diese mit einem wirksamen Desinfektionsmittel getränkt und stets damit feucht gehalten werden.
 
- Gehaltene Vögel dürfen nicht zur Aufstockung des Wildvogelbestands freigelassen
+– Gehaltene Vögel dürfen nicht zur Aufstockung des Wildvogelbestands freigelassen
 
 werden.
 
- Geflügel darf nur im Durchgangsverkehr auf Autobahnen, anderen Straßen des
+– Geflügel darf nur im Durchgangsverkehr auf Autobahnen, anderen Straßen des
 
 Fernverkehrs oder Schienenverbindungen befördert werden, und nur, soweit das Fahrzeug nicht anhält und Geflügel nicht entladen wird.
 

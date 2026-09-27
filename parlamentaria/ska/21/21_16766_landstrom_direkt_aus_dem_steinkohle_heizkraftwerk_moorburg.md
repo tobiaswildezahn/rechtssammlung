@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 18
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13164", "21/16122"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66318"
@@ -85,7 +86,7 @@ Wie hoch sind die geplanten Kosten für sämtliche Anlagen zur Direktlieferung v
 
 Welche Alternativen zu einer Direktlieferung von Strom aus dem Kohle- HKW Moorburg gibt es für das Containerterminal Altenwerder?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 

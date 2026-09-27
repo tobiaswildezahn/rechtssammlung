@@ -14,6 +14,7 @@ fragen: 25
 einzelfragen: 30
 antwortbloecke: 21
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17649"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69535"
@@ -114,7 +115,7 @@ Bezüglich LFP-Förderposition 2.3.1.5 „Bereitstellung von Räumen für die Ju
 
 Bezüglich LFP-Förderposition 2.3.1.5 „Bereitstellung von Räumen für die Jugendarbeit“: In welcher prozentualen Höhe wurden die jeweiligen Räume nach Frage 6. in 2016, 2017, 2018 jeweils gefördert?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Jahr  
 Räume  
@@ -136,7 +137,7 @@ Bezüglich LFP-Förderposition 2.3.1.6 „Nutzung von Medien und Geräten“: F�
 
 Bezüglich LFP-Förderposition 2.3.1.6 „Nutzung von Medien und Geräten“: Wie viele Jugendverbände haben die genannten Kosten aus der Schriftlichen Kleinen Anfrage Drs. 21/17649 (2016, 2017, 2018: 13 000 Euro (jeweils)) in 2016, 2017, 2018 jeweils verursacht?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Kostenerstattung an die Stiftung Hamburger Öffentliche Bücherhallen (HÖB) erfolgt pauschal. Juleica Inhaberinnen und Inhaber können in diesem Rahmen das gesamte Angebot HÖB nutzen. Eine Einzelaufstellung der genutzten Medien und Geräte erfolgt durch die HÖB nicht.
 
@@ -150,7 +151,7 @@ Bezüglich LFP-Förderposition 2.3.2.1 „Allgemeine Förderung von Freizeiten�
 
 Bezüglich LFP-Förderposition 2.3.2.1 „Allgemeine Förderung von Freizeiten“: Wie viele Betreuende haben in 2016, 2017 und 2018 jeweils an Freizeitmaßnahmen teilgenommen?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Jahr  
 Freizeitmaßnahmen  
@@ -175,7 +176,7 @@ Bezüglich LFP-Förderposition 2.3.2.2 „Förderung von Freizeiten für junge M
 
 Bezüglich LFP-Förderposition 2.3.2.2 „Förderung von Freizeiten für junge Menschen aus einkommensschwachen Familien (EKS)“: Bei wie vielen Teilnehmenden musste eine erweiterte Einkommensprüfung zum Bedürftigkeitsnachweis in 2016, 2017, 2018 jeweils durchgeführt werden?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Jahr  
 Teilnehmende  

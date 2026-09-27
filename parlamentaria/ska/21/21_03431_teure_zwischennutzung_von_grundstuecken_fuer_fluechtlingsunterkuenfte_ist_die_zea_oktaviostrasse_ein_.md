@@ -14,6 +14,7 @@ fragen: 28
 einzelfragen: 36
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3384", "21/2864", "21/3227"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51777"
@@ -61,7 +62,7 @@ Welche Faktoren wurden in die Abwägung, ob eine in Planung/Entwicklung befindli
 
 Welche Kriterien haben die Entscheidung, eine Zwischennutzung für die Flüchtlingsunterbringung zuzulassen, im Einzelfall begünstigt (zum Beispiel „größer werdender Druck“, zeitliche Komponente, verzögerter Baubeginn et cetera)? Was sprach gegebenenfalls dagegen (Kosten-Nutzen-Abwägung)?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Für die Auswahl von Unterkünften wird eine Vielzahl von Kriterien herangezogen. So werden Angebote zur Schaffung von Plätzen für die Unterbringung in der Erstaufnahme oder den Folgeeinrichtungen anhand von Eignungskriterien wie baulicher Zustand, Baurecht, Brandschutz, mögliche Herrichtungs- und Betriebskosten, Verfügbarbarkeit, Nutzungsdauer und Lage systematisch geprüft (siehe auch Drs. 21/2864).
 
@@ -107,7 +108,7 @@ Wie ist der jeweilige Bauplanungsstand, wann ist mit Abschluss der relevanten Ve
 
 Für welchen Zeitpunkt wird derzeit beziehungsweise wurde zum Zeitpunkt der Vereinbarung der Zwischennutzung mit dem Baubeginn gerechnet? Falls voneinander abweichende Zeitpunkte, bitte darstellen.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Anlage 1.
 
@@ -119,7 +120,7 @@ Wer hat aufgrund welcher Kriterien jeweils den Zuschlag erhalten (zum Beispiel P
 
 Wie sind derzeit die Eigentumsverhältnisse an den in Rede stehenden, für die Flüchtlingsunterbringung zwischengenutzten Liegenschaften? Wessen Wille war insofern ausschlaggebend für die Entscheidung zugunsten einer Zwischennutzung? Wie wirkte sich diese Zwischennutzungsentscheidung auf das jeweilige Grundstücksveräußerungsgeschäft aus?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Anlage 2.
 
@@ -131,7 +132,7 @@ Welche Kaufpreise wurden für die in Rede stehenden Liegenschaften aufgerufen, w
 
 Wie sind die Zwischennutzungsvereinbarungen ausgestaltet, welche Vertragslaufzeiten wurden vereinbart, sind die vereinbarten Regelungen zum jeweiligen Ende der Vertragslaufzeit fix oder flexibel beziehungsweise wovon hängt das Ende der jeweils getroffenen Zwischennutzungsvereinbarung ab?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Der Senat sieht zur Wahrung seiner Verhandlungsposition und der Betriebs- und Geschäftsgeheimnisse etwaiger Vertragspartner in ständiger Praxis davon ab, zu Kaufpreisen und Mietkonditionen Stellung zu nehmen.
 

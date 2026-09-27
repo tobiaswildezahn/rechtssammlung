@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 41
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11699", "20/13033"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49071"
@@ -77,19 +78,19 @@ e. Welche Kosten werden durch den Umzug der H20, deren Umverteilung bis zum Bau 
 
 Laut Rahmenplan Schulbau verteilen sich die Kosten wie folgt:
 
- Auslagerung der H20 in die ehemalige H05 (Telemannstraße): 1,228 Millionen
+– Auslagerung der H20 in die ehemalige H05 (Telemannstraße): 1,228 Millionen
 
 Euro
 
- Neubau für die berufsbildenden Schule H7 und H20 im Tessenowweg: 28,351 Mil-
+– Neubau für die berufsbildenden Schule H7 und H20 im Tessenowweg: 28,351 Mil-
 
 lionen Euro
 
- Abriss im Tessenowweg: 0,266 Millionen Euro
+– Abriss im Tessenowweg: 0,266 Millionen Euro
 
- Außenanlagen mit Sielsanierung im Tessenowweg: 1,086 Millionen Euro
+– Außenanlagen mit Sielsanierung im Tessenowweg: 1,086 Millionen Euro
 
- Umbau der vorhandenen Räume im Tessenowweg: 0,948 Millionen Euro
+– Umbau der vorhandenen Räume im Tessenowweg: 0,948 Millionen Euro
 
 ### Frage 3
 
@@ -123,11 +124,11 @@ c. Welche Kosten werden durch ihn entstehen? (Bitte einzeln nach Baubereich ange
 
 Laut Rahmenplan entstehen folgende Kosten:
 
- Schulkomplex inklusive Produktionsküche: 30,295 Millionen Euro
+– Schulkomplex inklusive Produktionsküche: 30,295 Millionen Euro
 
- Abriss und Interimsmaßnahmen: 4,092 Millionen Euro
+– Abriss und Interimsmaßnahmen: 4,092 Millionen Euro
 
- Außenanlagen: 0,969 Millionen Euro
+– Außenanlagen: 0,969 Millionen Euro
 
 Aufgrund der noch nicht abgeschlossenen Planung sind noch Kostenabweichungen möglich.
 

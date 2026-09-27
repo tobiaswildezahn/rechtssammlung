@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 13
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48340"
@@ -37,15 +38,15 @@ Vor diesem Hintergrund fragen wir den Senat:
 
 Am 15. April hat die Bürgerschaft den Ersten Bürgermeister gewählt und die von ihm berufenen Senatorinnen und Senatoren bestätigt. Der Senat hat in seiner Sitzung vom selben Tage die folgende Neustrukturierung der Behörden in Aussicht genommen:
 
- Die Abteilung für Gleichstellung wechselt aus der bisherigen Behörde für Justiz
+– Die Abteilung für Gleichstellung wechselt aus der bisherigen Behörde für Justiz
 
 und Gleichstellung in die neu einzurichtende Behörde für Wissenschaft, Forschung und Gleichstellung.
 
- Der verbleibende Teil der bisherigen Behörde für Justiz und Gleichstellung geht in
+– Der verbleibende Teil der bisherigen Behörde für Justiz und Gleichstellung geht in
 
 der neu einzurichtenden Justizbehörde auf.
 
- Aus der bisherigen Behörde für Stadtentwicklung und Umwelt gehen eine neu ein-
+– Aus der bisherigen Behörde für Stadtentwicklung und Umwelt gehen eine neu ein-
 
 zurichtende Behörde für Stadtentwicklung und Wohnen sowie eine neu einzurichtende Behörde für Umwelt und Energie hervor; dabei wechselt die Abteilung Landschaftsplanung und Stadtgrün aus der bisherigen Behörde für Stadtentwicklung und Umwelt in die neu einzurichtende Behörde für Umwelt und Energie.
 
@@ -103,7 +104,7 @@ Abteilungen
 
 Welche Ämter und/oder Abteilungen sollen zukünftig jeweils welcher anderen als der bisherigen Behörde unterstellt werden? a. In welchem Umfang sind dadurch gegebenenfalls räumliche Umzüge von circa wie vielen Beschäftigten der FHH notwendig? b. Mit welchen Kosten wird für diese Umzüge sowie die entsprechende Umstellung der IuK-Infrastruktur gerechnet? Aus dem Budget welcher Produktgruppen werden sie finanziert und wo genau im jeweiligen Ergebnisplan verbucht? c. Sofern der Senat zu obigen Fragen (ganz oder teilweise) noch keine Angaben machen kann: Bis wann wird er hierzu in der Lage sein?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 

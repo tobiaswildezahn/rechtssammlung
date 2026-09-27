@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10750"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59836"
@@ -63,7 +64,7 @@ Gibt es zwischen dem LfV und insbesondere der Staatsschutzabteilung des LKA eing
 
 Welche Maßnahmen für eine Monitoring sind eingerichtet, um Fälle schnell erkennen zu können, in denen eine entsprechend effektive Weiterleitung von Informationen an Friktionen irgendwelcher Art scheiterte? Wenn nein, wann plant der Senat solche zu etablieren?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Zusammenarbeit des Landesamts für Verfassungsschutz (LfV) Hamburg mit der für Staatsschutzangelegenheiten zuständigen Abteilung des Landeskriminalamtes (LKA) ist fest etabliert. Hierzu gehört auch der Austausch zu psychisch auffälligen Personen im Kontext radikalen Verhaltens. Der Austausch findet unter Berücksichtigung der gesetzlichen Voraussetzungen im Rahmen von wöchentlichen Besprechungen oder bilateral auf Arbeitsebene statt. Der polizeiinterne Umgang mit entsprechenden Hinweisen wurde mit einer Dienstanweisung im August 2017 standardisiert (Drs. 21/10750).
 
@@ -87,7 +88,7 @@ Falls in solchen Fällen Personen betroffen sind, gegen die Maßnahmen zur Beend
 
 Wie schätzt der Senat in solchen Fällen das Risiko ein, dass bei Prüfung von Maßnahmen in Form von aufsuchenden Hilfsangeboten des sozialpsychiatrischen Dienstes oder für Maßnahmen zur Prüfung einer Unterbringung nach HmbPsychKG einen erheblichen Einfluss auf das weitere ausländerrechtliche Betreiben einer Aufenthaltsbeendigung und gegebenenfalls auch Rückführung haben könnten und mit welchen Vorgehensweisen würde der Senat darauf reagieren wollen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Bei Entscheidungen zu aufenthaltsbeendenden Maßnahmen handelt es sich immer um Einzelfallentscheidungen, in die auch gegebenenfalls vorliegende Erkenntnisse zu einer psychischen Erkrankung der betroffenen Person mit einfließen. In Fällen einer Unterbringung der betroffenen Person nach dem HmbPsychKG ist jedoch mit hoher Wahrscheinlichkeit von bestehenden Abschiebungshindernissen auszugehen, sodass eine Rückführung ausgesetzt werden würde. Hier wird dann im Einzelfall geprüft, ob eine Rückführung mit (fach-)ärztlicher Begleitung erfolgen kann.
 
@@ -99,7 +100,7 @@ Laut Darstellung im Innenausschuss lässt der Senat gegenwärtig anlässlich des
 
 Der Senat hatte im Innenausschuss eine nach dem Barmbek-Vorfall neue erlassene Dienstanweisung zur verbindlichen Vorgehensweise bei der Konsultation des kriminalpsychologischen Dienstes des LKA 2 dargestellt. In wie vielen Fällen wurde seit dem Erlass dieser Anweisung ein Handlungsbedarf hinsichtlich psychisch auffälliger Personen festgestellt und welche Zusammenarbeit mit anderen Ämtern im Sinne der Fragestellung erfolgte daraus und mit welchen Ergebnissen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/10750.
 

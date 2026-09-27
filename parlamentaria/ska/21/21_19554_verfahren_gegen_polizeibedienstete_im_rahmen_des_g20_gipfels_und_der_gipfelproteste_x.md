@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12897", "21/18631", "21/16755", "21/13951", "21/15665"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69302"
@@ -120,7 +121,7 @@ Sind im Falle der Einstellungen nach § 170 Absatz 2 StPO Einstellungsmitteilung
 
 Sind im Falle der Einstellung nach § 170 Absatz 2 StPO Einstellungsmitteilungen an die Geschädigten versandt worden? Wenn ja, wie viele? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Drs. 21/18631.
 

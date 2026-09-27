@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 43968
 seiten: 2
 fragen: 6
-einzelfragen: 14
-antwortbloecke: 6
+einzelfragen: 18
+antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48212"
@@ -38,34 +39,56 @@ Ich frage den Senat:
 ### Frage 1
 
 Bredenbekkamp
-1.1. Wie ist der genaue Sachstand des Veräußerungsverfahrens dieser Fläche?
-1.2. Wie ist der weitere Zeitplan zur Durchführung eines Bebauungsplanverfahrens und der Erschließung der Fläche?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Wie ist der genaue Sachstand des Veräußerungsverfahrens dieser Fläche?
+
+### Frage 1.2
+
+Wie ist der weitere Zeitplan zur Durchführung eines Bebauungsplanverfahrens und der Erschließung der Fläche?
+
+#### Antwort zu Fragen 1, 1.1 und 1.2
 
 Das Gebotsverfahren ist abgeschlossen. Die Auswertung der Gebote dauert noch an.
 
 ### Frage 2
 
 Saseler Weg 11
-2.1. Wie ist der genaue Sachstand des Veräußerungsverfahrens dieser Fläche?
-2.2. Wie ist der genaue Sachstand der Berücksichtigung des Flächenbedarfs für eine Wohngemeinschaft für Menschen mit Behinderungen an dieser Stelle?
-2.3. Seit wann ist jeweils welchen Dienststellen der von der Bezirksversammlung Wandsbek unterstützte Flächenbedarf für ein Wohnprojekt für Menschen mit Behinderungen an diesem Standort bekannt?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Wie ist der genaue Sachstand des Veräußerungsverfahrens dieser Fläche?
+
+### Frage 2.2
+
+Wie ist der genaue Sachstand der Berücksichtigung des Flächenbedarfs für eine Wohngemeinschaft für Menschen mit Behinderungen an dieser Stelle?
+
+### Frage 2.3
+
+Seit wann ist jeweils welchen Dienststellen der von der Bezirksversammlung Wandsbek unterstützte Flächenbedarf für ein Wohnprojekt für Menschen mit Behinderungen an diesem Standort bekannt?
+
+#### Antwort zu Fragen 2, 2.1, 2.2 und 2.3
 
 Das Gebotsverfahren ist abgeschlossen. Die Auswertung der Gebote ist noch nicht erfolgt. Dem Bezirksamt Wandsbek ist das Interesse eines Wohnprojektes für Menschen mit Behinderungen an dem Standort seit der Befassung des Regionalausschusses Walddörfer am 25. September 2014 beziehungsweise der Bezirksversammlung Wandsbek am 9. Oktober 2014 bekannt. Deren Beschluss ist beim Landesbetrieb Immobilienmanagement und Grundvermögen am 16. Oktober 2014 eingegangen.
 
 ### Frage 3
 
 Sthamerstraße (Flurstück 2010)
-3.1. Wie ist der genaue Sachstand des Veräußerungsverfahrens dieser Fläche?
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+Wie ist der genaue Sachstand des Veräußerungsverfahrens dieser Fläche?
+
+#### Antwort zu Fragen 3 und 3.1
 
 Das Verfahren ist bis auf die Befassung der Kommission für Bodenordnung abgeschlossen.
 
-3.2. Wann wurden für diese Fläche Bauvoranfragen, Vorbescheids- oder Bauanträge mit welchem Inhalt gestellt? Wie ist der Stand des baulichen Genehmigungsverfahrens?
+### Frage 3.2
+
+Wann wurden für diese Fläche Bauvoranfragen, Vorbescheids- oder Bauanträge mit welchem Inhalt gestellt? Wie ist der Stand des baulichen Genehmigungsverfahrens?
+
+#### Antwort zu Frage 3.2
 
 Ein Antrag auf Erteilung eines Vorbescheides wurde am 21. August 2014 gestellt. Am
 13. Februar 2015 ist ein Vorbescheid zur Errichtung von fünf Einzelhäusern mit je zwei Wohneinheiten und zwei Stellplätzen sowie einem Einzelhaus mit einer Wohneinheit und einem Stellplatz erteilt worden.
@@ -73,33 +96,55 @@ Ein Antrag auf Erteilung eines Vorbescheides wurde am 21. August 2014 gestellt. 
 ### Frage 4
 
 Hoisbütteler Straße hinter den Hausnummern 70 – 80
-4.1. Wie ist der genaue Sachstand des Veräußerungsverfahrens dieser Fläche?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+Wie ist der genaue Sachstand des Veräußerungsverfahrens dieser Fläche?
+
+#### Antwort zu Fragen 4 und 4.1
 
 Die Frist zur Abgabe eines Angebotes ist abgelaufen, das Auswahlverfahren aber noch nicht abgeschlossen.
 
-4.2. Wann wurden für diese Fläche Bauvoranfragen, Vorbescheids- oder Bauanträge mit welchem Inhalt gestellt? Wie ist der Stand des baulichen Genehmigungsverfahrens?
+### Frage 4.2
+
+Wann wurden für diese Fläche Bauvoranfragen, Vorbescheids- oder Bauanträge mit welchem Inhalt gestellt? Wie ist der Stand des baulichen Genehmigungsverfahrens?
+
+#### Antwort zu Frage 4.2
 
 Für diese Grundstücke liegen beim zuständigen Bezirksamt Wandsbek keine Anträge vor.
 
 ### Frage 5
 
 Fiersbarg (Lemsahl-Mellingstedt 19)
-5.1. Wie sind der genaue Sachstand und der Zeitplan des Ausschreibungsverfahrens für diese Fläche?
-5.2. Wann und in welcher Form erfolgte die Ausschreibung beziehungsweise wann soll die Ausschreibung erfolgen?
-5.3. Welche Inhalte und Kriterien wurden für die geplante Ausschreibung wann und durch wen festgesetzt?
 
-#### Antwort zu Frage 5
+### Frage 5.1
+
+Wie sind der genaue Sachstand und der Zeitplan des Ausschreibungsverfahrens für diese Fläche?
+
+### Frage 5.2
+
+Wann und in welcher Form erfolgte die Ausschreibung beziehungsweise wann soll die Ausschreibung erfolgen?
+
+### Frage 5.3
+
+Welche Inhalte und Kriterien wurden für die geplante Ausschreibung wann und durch wen festgesetzt?
+
+#### Antwort zu Fragen 5, 5.1, 5.2 und 5.3
 
 Die Ausschreibung wird derzeit vorbereitet. Die dabei zu berücksichtigenden Kriterien (insbesondere Vorgaben zum Wohnungsbau, Anforderungen an Städtebau und Architektur sowie energetische Standards) wurden in der Dispositionsrunde am 16. März 2015 festgelegt, an der Vertreter der Behörde für Stadtentwicklung und Umwelt, der Behörde für Arbeit, Soziales, Familie und Integration, der Behörde für Gesundheit und Verbraucherschutz, des Bezirksamtes Wandsbek und Vertreter der Wohnungswirtschaft teilgenommen haben. Im Übrigen sind die Planungen noch nicht abgeschlossen.
 
 ### Frage 6
 
 Steinreye 4
-6.1. Wie ist der genaue Sachstand des Veräußerungsverfahrens dieser Fläche?
-6.2. Seit wann ist das Grundstück anhand gegeben? Bis wann ist die Anhandgabe befristet? Wurde die Anhandgabe verlängert oder ist dies beabsichtigt?
 
-#### Antwort zu Frage 6
+### Frage 6.1
+
+Wie ist der genaue Sachstand des Veräußerungsverfahrens dieser Fläche?
+
+### Frage 6.2
+
+Seit wann ist das Grundstück anhand gegeben? Bis wann ist die Anhandgabe befristet? Wurde die Anhandgabe verlängert oder ist dies beabsichtigt?
+
+#### Antwort zu Fragen 6, 6.1 und 6.2
 
 Das Grundstück wurde am 22. August 2014 bis 28. Februar 2016 erstmalig anhand gegeben. Eine Verlängerung der Anhandgabe ist derzeit nicht beabsichtigt.

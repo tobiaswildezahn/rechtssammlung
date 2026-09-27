@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11715"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60985"
@@ -103,7 +104,7 @@ Welche Kapazitäten sind an welchen Schulen entsprechend der steigenden Inklusio
 
 Welche Kapazitäten müssen an welchen Schulen entsprechend der steigenden Integrationsangebote (Phase 3) im Bezirk Altona geplant werden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die zuständige Behörde stattet jede einzelne Schule entsprechend den Bedarfen der tatsächlich aufgenommenen Schülerinnen und Schüler aus, die Zahl dieser Schülerinnen und Schüler an den einzelnen Schulen ist nicht in jedem Schuljahr konstant. Die katholischen Schulen betreuen deutlich weniger Schülerinnen und Schülern mit den entsprechenden besonderen Bedarfen als vergleichbare staatliche Schulen, die Nichteinrichtung von Eingangsklassen in katholischen Schulen löst schon deshalb keinen besonderen Planungsbedarf aus.
 

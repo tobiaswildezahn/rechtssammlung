@@ -8,12 +8,13 @@ datum_anfrage: "2026-09-08"
 datum_drucksache: "2026-09-15"
 urheber: ["Julian Herrmann", "Dr. Antonia-Katharina Goldner"]
 fraktionen: ["CDU"]
-vorgang: null
+vorgang: 89146
 seiten: 7
 fragen: 28
 einzelfragen: 37
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["23/4381"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105176"

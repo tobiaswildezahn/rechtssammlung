@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5000", "21/3659", "21/5518", "21/439", "21/3903", "21/5879"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54552"
@@ -85,7 +86,7 @@ Welche Maßnahmen hat der Senat getroffen, um die Entwicklung der Gesamtsportfl�
 
 Welche Maßnahmen plant der Senat zu treffen, um die Entwicklung der Gesamtsportfläche in Hamburg positiv zu beeinflussen und welche Ziele hat er dabei konkret?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Senat verfolgt das Ziel, die für Sport insgesamt verfügbaren Freianlagen (öffentliche Sportstätten) zu sichern und die Kapazitäten auszubauen, siehe Drs. 21/439. Die Sportfreianlagen werden im Zuge eines Modernisierungsprogrammes laufend ertüchtigt. Zudem ist die Neuerrichtung von Sportflächen am Mittleren Landweg und in Sandbek West geplant. Weiterhin werden mit dem Sportfördervertrag dem HSB jährlich 1.792.000 Euro für die Förderung der Sportinfrastruktur zur Verfügung gestellt. 900.000 Euro davon fließen in die Sanierung und den Neubau von vereinseigenen Anlagen, http://www.hamburg.de/pressearchiv-fhh/6509522/2016-07-07-bis-pmsportfoerdervertrag/. Im Jahr 2016 steht zudem für die Gewährung von Förderkrediten der Investitions- und Förderbank Hamburg für Investitionsvorhaben der Sportvereine ein Kreditvolumen in Höhe von 2,5 Millionen Euro zur Verfügung, das durch städtische Bürgschaften abgesichert ist. Mit dem Doppelhaushalt 2017/2018 wird die Ermächtigung für das Kreditvolumen auf 5 Millionen Euro erhöht. Im Übrigen siehe Vorbemerkung.
 
@@ -123,25 +124,25 @@ Zur Gewinnung von ehrenamtlich Engagierten beziehungsweise Übungsleitenden in S
 
 Darüber hinaus erhält auch der HFV für die Qualifizierung von Übungsleitenden Mittel aus dem Sportfördervertrag, deren Verwendung mit Kennzahlen in den Ziel- und Leistungsvereinbarungen geregelt ist. Der HFV erhält für den Bereich „Ausbildung – Lehre“ jeweils 145.000 Euro für die Jahre 2017 und 2018. Die Kennzahlen sehen eine Durchführung folgender Ausbildungsmaßnahmen vor:
 
- Basisausbildungslehrgänge mit rund 300 Teilnehmerinnen und Teilnehmern,
+– Basisausbildungslehrgänge mit rund 300 Teilnehmerinnen und Teilnehmern,
 
- DFB- und HFV-Kurzschulungsangebote mit insgesamt rund 350 Teilnehmerinnen
+– DFB- und HFV-Kurzschulungsangebote mit insgesamt rund 350 Teilnehmerinnen
 
 und Teilnehmern,
 
- verschiedene Lizenzausbildungen sowie Trainer- und Teamleiterlehrgänge mit
+– verschiedene Lizenzausbildungen sowie Trainer- und Teamleiterlehrgänge mit
 
 insgesamt rund 250 Teilnehmerinnen und Teilnehmern,
 
- Trainer-Fortbildungen und weitere Weiterbildungen mit insgesamt rund 200 Teil-
+– Trainer-Fortbildungen und weitere Weiterbildungen mit insgesamt rund 200 Teil-
 
 nehmerinnen und Teilnehmern,
 
- Maßnahmen, die geeignet sind, um speziell Mädchen und Frauen für die Teilnah-
+– Maßnahmen, die geeignet sind, um speziell Mädchen und Frauen für die Teilnah-
 
 me an den zuvor genannten Qualifizierungen zu beteiligen und/oder
 
- Maßnahmen, die sich speziell an die Zielgruppe Mädchen und Frauen richten.
+– Maßnahmen, die sich speziell an die Zielgruppe Mädchen und Frauen richten.
 
 Bezirk
 

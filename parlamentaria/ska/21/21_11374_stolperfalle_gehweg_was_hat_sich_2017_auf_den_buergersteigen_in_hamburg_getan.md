@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 18
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8256", "21/11195", "21/4902", "21/4500", "21/5922", "20/10333", "20/8997"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60433"
@@ -57,7 +58,7 @@ Wie viele Hinweisschilder zu unebenen Gehwegen wurden seitens des Senats beziehu
 
 Wie viele Hinweisschilder zu unebenen Gehwegen, die laut Drs. 21/8256 seitens des Senats beziehungsweise der zuständigen Behörde und/oder der Bezirksämter zwischen 2011 bis 2016 aufgestellt wurden, stehen immer noch? Bitte nach Bezirken, Stadtteilen und den genauen Adressen aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Jahr 2017 haben die Bezirksämter bisher keine neuen Hinweisschilder zu unebenen Gehwegen aufgestellt (Stand: 21.12.2017). Zur Beschilderung im Hafengebiet siehe Anlage 1. Für die Jahre 2011 bis 2016 siehe Drs. 21/8256.
 
@@ -85,7 +86,7 @@ Wie oft und in welcher Höhe wurden 2017 von Verkehrsteilnehmern Schadensersatza
 
 Wie oft und in welcher Höhe wurden zwischen 2011 und 2016 von Verkehrsteilnehmern Schadensersatzansprüche gegen die Stadt Hamburg infolge schadhafter Gehwege geltend gemacht und welche Zahlungen hat die Stadt Hamburg in dieser Zeit geleistet? Bitte nach Jahren, Bezirken, Stadtteilen und den genauen Adressen aufschlüsseln. Wichtig: Seit Drs. 21/8256 hat sich aufgrund des seither vergangenen Zeitraums und eingedenk der Dauer juristischer Verfahren ein neuer Sachstand ergeben, sodass diese Frage erneut gestellt wird.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Anlage 3. Im Übrigen siehe Vorbemerkung.
 

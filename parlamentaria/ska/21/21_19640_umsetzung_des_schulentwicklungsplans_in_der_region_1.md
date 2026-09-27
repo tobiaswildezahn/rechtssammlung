@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17388", "21/12589", "21/16862", "21/15959", "21/3149", "21/3490"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69377"
@@ -57,7 +58,7 @@ Welche Schritte hat der Senat hinsichtlich der Umsetzung der avisierten Ziele de
 
 In der tabellarischen Darstellung zu den Vorschlägen einer künftigen Organisationsstruktur der Schulen in Region 1 fragt sich, inwieweit die dort genannten Maßnahmen in Planungsschritte konkretisiert und beziehungsweise oder konkret fortgeschrieben wurden. (Bitte im Detail die Planungen konkret darlegen, ausführen, erläutern und in ihrem zeitlichen Verlauf angeben. Gegebenenfalls mit zugehörigen Plänen der einzelnen Schritte im Anhang hinterlegen.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der SEPL ist keine Bauplanung. Insofern lassen sich die gewünschten Angaben nicht darstellen, siehe auch Vorbemerkung. Darstellbar sind die Planungen beziehungsweise die laufenden Baumaßnahmen, die sich aus der Umsetzung der kontinuierlichen Schulentwicklungsplanung ergeben. Ein Überblick über diese Maßnahmen ergibt sich aus der Anlage, in der alle Zu-, Um- und Ersatzbauten aufgelistet sind, die einen Baubeginn im Jahr 2020 haben und zum jetzigen Zeitpunkt bereits bei SBH I Schulbau Hamburg/GMH I Gebäudemanagement Hamburg GmbH projektiert sind. Im Übrigen siehe Drs. 21/17388.
 
@@ -130,7 +131,7 @@ Wie stellt der Senat/die zuständige Behörde sicher, dass in jeder einzelnen Sc
 
 Wie sieht der „transparente Beteiligungsprozess“ des Senats/der zuständigen Behörde mit den einzelnen Schulen aus? (Bitte das bisherige und geplante Vorgehen und den bisherigen Umsetzungsstand für jede Schule der Region in einer Excel-Tabelle angeben.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Neubauten sowie Zu- und Ersatzbaumaßnahmen erfolgen auf Basis des Musterflächenprogramms (MFP) für inklusive allgemeinbildende Schulen mit Ganztagsangeboten in Hamburg – letzte Fassung Mai 2018. Dort sind die Rahmenvorgaben für Bauplanungen definiert. Auf dieser Basis ergibt sich ein Gestaltungsspielraum, der es bei jeder Planung erlaubt, auf die Besonderheiten der jeweiligen Schule einzugehen. Das MFP bietet in der Planung eine hohe Flexibilität und einen Gestaltungsspielraum. Da Flächenquantitäten – jedoch nur in geringem Umfang Raumdefinitionen – vorgegeben werden, können bei den Planungen die Anforderungen und Bedürfnisse, die sich aus der pädagogischen Arbeit vor Ort ergeben, dezidiert berücksichtigt werden. Diese
 

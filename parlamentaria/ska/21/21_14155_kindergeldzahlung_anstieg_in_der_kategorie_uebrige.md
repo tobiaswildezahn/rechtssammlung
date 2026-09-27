@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12435", "21/9327", "19/2888"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63558"
@@ -63,6 +64,6 @@ In welche Länder wurde Kindergeld gezahlt?
 
 In welcher Höhe für das einzelne Land?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe BT.-Drs. 19/2888. Da die Zahlbeträge der Familienkasse der BA nicht nach dem Wohnsitz des Kindes differenziert werden, ist eine Aussage über Zahlbeträge für im Ausland lebende Kinder nicht möglich. Im Übrigen: entfällt.

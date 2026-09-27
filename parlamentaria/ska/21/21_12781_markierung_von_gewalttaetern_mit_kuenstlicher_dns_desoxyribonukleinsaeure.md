@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62078"
@@ -43,7 +44,7 @@ Ist eine Etablierung der oben genannten Maßnahme weiter verfolgt worden? Wenn j
 
 Welche technischen Möglichkeiten bestehen hinsichtlich der Markierung von Gewalttätern, wie bewertet der Senat beziehungsweise die zuständige Behörde diese jeweils und welche werden gegebenenfalls bereits jetzt in Hamburg angewendet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Vor dem Hintergrund der noch laufenden Befassung mit derartigen taktischen Fragen ist eine abschließende Beantwortung zum jetzigen Zeitpunkt nicht möglich.
 

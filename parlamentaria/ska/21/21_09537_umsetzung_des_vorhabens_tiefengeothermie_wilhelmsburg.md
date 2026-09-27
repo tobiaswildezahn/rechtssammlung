@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 21
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58310"
@@ -65,7 +66,7 @@ Womit wird die erneute Verlängerung dieser Bergbauberechtigung begründet, insb
 
 Wie und mit jeweils welchem konkreten Ergebnis wurden in diesem jüngsten Verlängerungsverfahren die Versagensgründe des § 11 BBergG im Einzelnen geprüft, insbesondere die Angemessenheit des Arbeitsprogramms (§ 11 Nummer 3 BBergG), die Zuverlässigkeit (§ 11 Nummer 6 BBergG) und die finanzielle Leistungsfähigkeit (§ 11 Nummer 7 BBergG) des Erlaubnisinhabers sowie das eventuelle Vorliegen entgegenstehender öffentlicher Interessen (§ 11 Nummer 10 BBergG)?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Verlängerung wurde zunächst bis zum 31. Mai 2017 erteilt, da die finanzielle Leistungsfähigkeit (LF) bis zu diesem Zeitpunkt nachgewiesen war. Dadurch wurde dem Erlaubnisinhaber Gelegenheit gegeben, die Nachweise für den übrigen Verlängerungszeitraum nachträglich zu erbringen. Zwischenzeitlich wurde die Erlaubnis bis zur ursprünglich beantragten Frist (31. Mai 2019) verlängert, unter dem Vorbehalt, dass dem LBEG bis zum 31. Dezember 2017 die finanzielle Leistungsfähigkeit nachgewiesen wird. Die grundsätzlichen Voraussetzungen für die Verlängerung wurden bereits bei Antragseinreichung geprüft und, bis auf die finanzielle LF, erfüllt. Auch das Arbeitsprogramm (AP) über den gesamten Verlängerungszeitraum wurde geprüft und entsprach für die beantragte Aufsuchungsphase hinsichtlich Art, Umfang und Zweck den Anforderungen des LBEG.
 
@@ -246,7 +247,7 @@ Aus welchen Gründen werden Bekanntmachungen des Landesamtes für Bergbau, Energ
 
 Für welche Verwaltungsverfahren sowie Entscheidungen der Bergbehörde ist eine Bekanntmachung im „Amtlichen Anzeiger“ der Freien und Hansestadt Hamburg gesetzlich vorgeschrieben?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Gemäß § 19 Absatz 2 BBergG erlischt eine Erlaubnis oder Bewilligung mit der Bekanntgabe der Aufhebung im amtlichen Veröffentlichungsblatt der zuständigen Behörde. Erteilungen, Verlängerungen oder sonstige Änderungen einer Bergbauberechtigung sind nicht in dieser Form bekanntzumachen.
 

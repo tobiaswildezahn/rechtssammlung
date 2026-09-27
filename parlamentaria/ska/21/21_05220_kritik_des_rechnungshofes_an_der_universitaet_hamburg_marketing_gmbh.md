@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4850"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53712"
@@ -47,19 +48,19 @@ Welche Maßnahmen sind das und hält Senatorin Fegebank diese für ausreichend? 
 
 An der Universität Hamburg soll das Flächenmanagement künftig von einer Stabsstelle wahrgenommen werden und folgende Aufgaben abdecken:
 
- Gebäudedatenmanagement (Dokumentation und Aktualisierung der quantitativen
+– Gebäudedatenmanagement (Dokumentation und Aktualisierung der quantitativen
 
 und qualitativen Flächeninformationen sowie Weiterentwicklung einer Raumdatenbank)
 
- Operatives Flächenmanagement (Durchführung von Flächenbedarfsberechnun-
+– Operatives Flächenmanagement (Durchführung von Flächenbedarfsberechnun-
 
 gen; Anmietungen, Belegungsplanung)
 
- Strategisches Flächenmanagement (Erstellung von mittel- und langfristigen
+– Strategisches Flächenmanagement (Erstellung von mittel- und langfristigen
 
 Bedarfsprognosen)
 
- Raumvergabe
+– Raumvergabe
 
 Ein Ziel ist es, aktuelle und einheitlich strukturierte Gebäudedaten für die Nutzung von Gebäuden und deren Flächen zur Verfügung zu stellen. Dazu wird derzeit ein datenbankgestütztes Gebäude-Informations-Management-System eingeführt. In dieser zentralen Raumdatenbank sind die Informationen über alle in der Universität verfügbaren Flächen (Flächendaten) und die Flächennutzung/Belegung (Belegungsdaten) erfasst. Sie bildet gleichermaßen die Grundlage für Flächenmanagement wie auch für die geplante Einführung eines computer aided Facility-Management-Systems.
 
@@ -69,15 +70,15 @@ Vergabe an interne Kunden unterschieden werden. Die Vergabe der Räume an intern
 
 Die Raumvergabe umfasst folgende Dienstleistungen:
 
- Beratung vor der Veranstaltung
+– Beratung vor der Veranstaltung
 
- Raumrecherche
+– Raumrecherche
 
- Besichtigung geeigneter Räume
+– Besichtigung geeigneter Räume
 
- Raumbuchung
+– Raumbuchung
 
- Vertragsabschluss
+– Vertragsabschluss
 
 Alle darüber hinaus gehenden Dienstleistungen werden, wenn vom Kunden gewünscht, von der UHHMG erbracht. Die geschilderten Maßnahmen liegen in der Verantwortung der Universität Hamburg.
 

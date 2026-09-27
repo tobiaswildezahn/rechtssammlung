@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 39
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2016", "21/296", "21/931", "21/817", "21/835", "21/501", "21/1380"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52813"
@@ -161,15 +162,15 @@ Die in Drs. 21/2016 genannten Funktionalitäten wurden mit dem Release 2.2 erfol
 
 Im Rahmen des Release 2.2 wurden circa 350 Fehlerbehebungen produktiv gesetzt. Davon waren 54 durch Anwender gemeldete Fehler. Der Rest wurde im Rahmen der Testaktivitäten gefunden. Nach Inbetriebnahme des Release 2.2 waren noch einzelne Fehler vorhanden:
 
- Unvermitteltes Log-out während laufender Arbeit im System
+– Unvermitteltes Log-out während laufender Arbeit im System
 
- Rückstandsübersicht in Mündelgeldkonten stimmt in wenigen Konstellationen nicht
+– Rückstandsübersicht in Mündelgeldkonten stimmt in wenigen Konstellationen nicht
 
- Automatische Erzeugung von Bescheiden und Hilfeplanprotokollen läuft bei hoher
+– Automatische Erzeugung von Bescheiden und Hilfeplanprotokollen läuft bei hoher
 
 Systemauslastung in einen Fehler
 
- Webseite „läuft ab“ und muss aktualisiert werden, obwohl gerade darin gearbeitet
+– Webseite „läuft ab“ und muss aktualisiert werden, obwohl gerade darin gearbeitet
 
 wird
 

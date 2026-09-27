@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 23
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1979", "21/6979", "21/4678", "21/7000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55844"
@@ -51,7 +52,7 @@ Ist eine vollständige Stellenbesetzung mittlerweile erfolgt? a. Seit wann sind 
 
 Wie wird die Personalsituation im Servicebereich seitens des Senats und des Sozialgerichts eingeschätzt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/4678 und 21/7000.
 
@@ -270,7 +271,7 @@ Wie lange ist jeweils die durchschnittliche Dauer der Verfahren nach dem SGB II 
 
 Wie viele Beschwerden wegen zu langer Dauer von Verfahren nach dem SGB II sind seit 2011 eingegangen? Bitte die Anzahl nach Jahren auflisten.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die erfragten Angaben werden statistisch nicht erfasst. Zur Beantwortung der Frage müssten sämtliche Berufungsakten (seit 2011 rund 3.000) beziehungsweise Beschwerdeakten (seit 2011 ebenfalls rund 3.000) händisch ausgewertet werden. Dies ist in der für die Beantwortung Parlamentarischer Anfragen zur Verfügung stehenden Zeit nicht möglich.
 

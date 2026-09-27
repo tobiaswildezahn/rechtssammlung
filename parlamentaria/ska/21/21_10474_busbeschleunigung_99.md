@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59349"
@@ -45,7 +46,7 @@ Welche Maßnahmen fehlen bei welchen Linien noch? Bitte für jede Linie getrennt
 
 Wann werden diese Maßnahmen vorgenommen? Bitte für jede Maßnahme getrennt angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 
@@ -57,7 +58,7 @@ Welche Ampelschaltungen auf welchen Linien sind noch nicht abschließend umgeste
 
 Wann werden diese Ampelschaltungen umgestellt sein? Bitte für jede Ampelschaltung getrennt angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage 2.
 

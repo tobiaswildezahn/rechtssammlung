@@ -14,6 +14,7 @@ fragen: 30
 einzelfragen: 30
 antwortbloecke: 25
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67243"
@@ -82,7 +83,7 @@ Welches waren die fünf häufigsten Beantragungszwecke in 2016, 2017 und 2018 f�
 
 Für welche fünf Beantragungszwecke zur LFP-Förderposition 2.3.1.1 „Förderung der allgemeinen Jugendarbeit“ wurden die höchsten Fördergelder bewilligt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Bereitstellung der Mittel erfolgt als Budget. Die Jugendverbände können die Mittel nach Bedarf im Rahmen der Vorgaben des Landesförderplans „Familie und Jugend“ frei einsetzen. Zuwendungsfähige Kosten sind in dieser Position unter anderem: Beschaffung von Materialien, Beschaffung von Spiel- und Beschäftigungsmaterial, Ausgaben für haupt- und nebenamtliche Tätigkeit von Fachkräften, Projektkosten, Organisationskosten.
 
@@ -95,7 +96,7 @@ Wie viele Jugendverbände haben Mittel aus der LFP-Förderposition
 
 Wie hoch ist Gesamtbewilligungssumme nach Frage 5. in 2016, 2017 und 2018 gewesen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antworten zu 1. und zu 2.
 
@@ -107,7 +108,7 @@ Welches waren die fünf häufigsten Beantragungszwecke in 2016, 2017 und 2018 f�
 
 Für welche fünf Beantragungszwecke zur LFP-Förderposition 2.3.1.2 „Förderung von Seminaren und Veranstaltungen“ wurden die höchsten Fördergelder bewilligt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Bereitstellung der Mittel erfolgt auch hier als Budget. Die Jugendverbände können die Mittel nach Bedarf im Rahmen der Vorgaben des Landesförderplans „Familie und Jugend“ frei einsetzen. Zuwendungsfähige Kosten sind in dieser Position unter anderem: Sachkosten, Honorarausgaben für Schulungen von Mitarbeitern, Kosten für Maßnahmen der außerschulischen Jugendbildung, Kosten für Maßnahmen für politische Jugendbildung, Kosten für innerverbandliche Veranstaltungen.
 
@@ -266,7 +267,7 @@ Wie viele Jugendverbände haben Mittel aus der LFP-Förderposition
 
 Wie hoch ist Gesamtbewilligungssumme nach Frage 21. in 2016, 2017 und 2018 gewesen?
 
-#### Antwort zu Fragen 21 bis 22
+#### Antwort zu Fragen 21 und 22
 
 In den Jahren 2016, 2017 und 2018 hat kein Jugendverband eine Förderung zu dieser Position beantragt. Im Übrigen: entfällt.
 
@@ -350,6 +351,6 @@ Wie viele Jugendverbände haben Mittel aus der LFP-Förderposition
 
 Wie hoch ist Gesamtbewilligungssumme nach Frage 29. in 2016, 2017 und 2018 gewesen?
 
-#### Antwort zu Fragen 29 bis 30
+#### Antwort zu Fragen 29 und 30
 
 In den Jahren 2016, 2017 und 2018 hat kein Jugendverband eine Förderung zu dieser Position beantragt. Im Übrigen: entfällt.

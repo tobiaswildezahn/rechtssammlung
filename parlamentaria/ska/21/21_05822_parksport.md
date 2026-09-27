@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/2948"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54328"
@@ -95,7 +96,7 @@ Welchen Umfang hat das Programm „ParkSport“?
 
 Welche Projekte wurden bislang im Rahmen des Programms „Park- Sport“ umgesetzt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Mit der Gründung der PARKSPORT WILHELMSBURGER SPORTINSEL EG i.L. wurde eine eigenständige, gemeinnützige Struktur geschaffen, die mit der Sparda-Bank Hamburg als Partner eine finanzielle Grundsicherung erfahren hat. Die Freie und Hansestadt Hamburg war und ist hieran finanziell nicht beteiligt.
 
@@ -103,37 +104,37 @@ Im Übrigen siehe Vorbemerkung.
 
 Im Wilhelmsburger Inselpark bestehen dauerhaft mit der „Welt der Bewegung“ verschiedenste Sport- und Bewegungsmöglichkeiten für Parkbesucherinnen und -besucher. Darüber hinaus bietet die eigenständige und gemeinnützige PARKSPORT WILHELMSBURGER SPORTINSEL EG i.L. seit 2014 ein umfangreiches Programm. Es umfasst unter anderem:
 
- Sportliche Saisonveranstaltungen (Frühlingsfest und Saisonabschluss mit Sport-
+– Sportliche Saisonveranstaltungen (Frühlingsfest und Saisonabschluss mit Sport-
 
 programm)
 
- Thementage wie Wassersporttag, Ballsporttag, Klettertag, Trendsporttag
+– Thementage wie Wassersporttag, Ballsporttag, Klettertag, Trendsporttag
 
- Inklusives Sommerfest
+– Inklusives Sommerfest
 
- Skate-Sessions
+– Skate-Sessions
 
- Beachsoccer-Veranstaltung
+– Beachsoccer-Veranstaltung
 
- DiscGolf-Angebote
+– DiscGolf-Angebote
 
- Wochenprogramme mit Ballspielen, BasKidBall, Fitnessangeboten, Lauftreffs (In-
+– Wochenprogramme mit Ballspielen, BasKidBall, Fitnessangeboten, Lauftreffs (In-
 
 selRunners), Trendsport, Nordic Walking et cetera
 
- Ferienprogramme mit Rugby, Klettern, Trendsport, Floßbau et cetera
+– Ferienprogramme mit Rugby, Klettern, Trendsport, Floßbau et cetera
 
- Mitmacholympiade, Infoveranstaltung, Filmvorführung
+– Mitmacholympiade, Infoveranstaltung, Filmvorführung
 
- Kultur- und Bewegungsfest
+– Kultur- und Bewegungsfest
 
- Integrationssportfest für Flüchtlinge der Elbinsel in Kooperation mit dem Bürger-
+– Integrationssportfest für Flüchtlinge der Elbinsel in Kooperation mit dem Bürger-
 
 haus Wilhelmsburg und „Die Insel hilft“
 
- Bewegung, Sport und Spiel für Flüchtlinge und Parkbesucher
+– Bewegung, Sport und Spiel für Flüchtlinge und Parkbesucher
 
- Projekt ParkSportPiloten
+– Projekt ParkSportPiloten
 
 Der Hamburger Sportbund (HSB) stellt darüber hinaus seinen Mitgliedsvereinen Materialien für das ParkSportAbzeichen zur Verfügung, damit diese das Abzeichen bei Bedarf in Ihr Angebot integrieren können.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5113"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61219"
@@ -43,7 +44,7 @@ Wie sind derzeit der genaue Sachstand und der Zeitplan der Organisationsuntersuc
 
 Liegt der zuständigen Stelle bereits ein Abschlussbericht der beauftragten Untersuchung in finaler Fassung vor? Wenn ja, seit wann? Wenn nein, wann wird damit gerechnet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Derzeit wird ein Abschlussbericht erstellt, den das beauftragte Beratungsunternehmen vertragsgemäß bis Ende März 2018 vorzulegen hat.
 
@@ -71,7 +72,7 @@ Welche Veränderungen in Strukturen und Prozessen wurden zur Optimierung der Bet
 
 Welche Veränderungen in den von der Finanzbehörde herausgegebenen Hinweisen für die Verwaltung von Beteiligungen der Freien und Hansestadt Hamburg an Unternehmen sowie im Hamburger Corporate Governance Kodex oder in ähnlichen zentralen Vorgaben wurden auf Basis der bisher vorgelegten Berichte der Organisationsuntersuchung vorgenommen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Über Schlussfolgerungen und mögliche Veränderungen wird erst nach Vorlage des Abschlussberichts entschieden.
 

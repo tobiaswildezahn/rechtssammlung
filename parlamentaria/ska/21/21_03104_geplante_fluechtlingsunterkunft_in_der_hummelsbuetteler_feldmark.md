@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 29
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2959"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51448"
@@ -51,7 +52,7 @@ Ist angedacht, ein bereits existierendes Landschaftsschutzgebiet, wie zum Beispi
 
 Handelt es sich hierbei um ein Gebiet in Volksdorf, zwischen Gussau und Landesgrenze, welches als Ausgleichsfläche für die LSG Hummelsbütteler Feldmark/Alstertal geplant ist beziehungsweise in die engere Wahl gezogen wird? Wenn ja, warum? Welche weiteren Alternativen gibt es?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Es wird zurzeit die Ausweisung von Naturschutzgebieten in Volksdorf in einem Bereich zwischen Gussau und Landesgrenze sowie in Neuland und in Allermöhe südlich des Gleisdreiecks vorbereitet. Die betreffenden Flächen in Volksdorf liegen innerhalb des Landschaftsschutzgebiets Duvenstedt, Bergstedt, Lemsahl-Mellingstedt, Volksdorf und Rahlstedt, die Flächen in Neuland liegen innerhalb des Landschaftsschutzgebiets Neuland. Im Zuge der Ausweisung als Naturschutzgebiet wird der Landschaftsschutz für diese Flächen aufzuheben sein.
 
@@ -100,7 +101,7 @@ Flurstücke?
 
 Ist geplant, den Jersbeker Weg als Zufahrt zu der neuen Großunterkunft zu nutzen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Nein.
 

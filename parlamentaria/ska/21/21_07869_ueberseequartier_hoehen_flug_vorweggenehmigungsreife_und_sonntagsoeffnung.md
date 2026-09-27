@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["16/3909", "20/2563", "20/14066", "21/4101"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56495"
@@ -33,11 +34,11 @@ Der Bebauungsplan-Entwurf HafenCity 1 für das südliche Überseequartier wurde 
 
 ## Einleitung für die Antworten des Senats
 
- So wurde ein Abschnitt der San-Francisco-Straße auf 15 Meter angehoben
+– So wurde ein Abschnitt der San-Francisco-Straße auf 15 Meter angehoben
 
 (das entspricht ungefähr der Höhe eines fünfgeschossigen Gebäudes).
 
- In der ÖPD fehlten konkrete Höhenangaben (Geschosshöhe) im Planent-
+– In der ÖPD fehlten konkrete Höhenangaben (Geschosshöhe) im Planent-
 
 wurf. In der öffentlichen Auslegung hingegen war festzustellen, dass einzelne Baukörper erheblich von der in der HafenCity üblichen Geschosshöhe abweichen, teilweise um bis zu fünf Geschosse von früheren Entwürfen.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 21
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62471"
@@ -69,19 +70,19 @@ Wie hoch ist der Anteil ökologisch erzeugter Lebensmittel beziehungsweise regio
 
 #### Antwort zu Frage 1
 
- Fleisch
+– Fleisch
 
- Fisch
+– Fisch
 
- Milchprodukte
+– Milchprodukte
 
- Eier
+– Eier
 
- Obst/Gemüse
+– Obst/Gemüse
 
- Kaffee/Tee
+– Kaffee/Tee
 
- Schokolade/Kakao
+– Schokolade/Kakao
 
 Hierzu liegen dem Senat keine Angaben vor. Das Catering für die Bürgerschaftssitzungen wird nicht durch den RathausService beauftragt, sondern direkt durch die Bürgerschaftskanzlei.
 
@@ -91,19 +92,19 @@ Wie hoch ist der Anteil ökologisch erzeugter Lebensmittel beziehungsweise regio
 
 #### Antwort zu Frage 2
 
- Fleisch
+– Fleisch
 
- Fisch
+– Fisch
 
- Milchprodukte
+– Milchprodukte
 
- Eier
+– Eier
 
- Obst/Gemüse
+– Obst/Gemüse
 
- Kaffee/Tee
+– Kaffee/Tee
 
- Schokolade/Kakao
+– Schokolade/Kakao
 
 ### Frage 3
 
@@ -111,19 +112,19 @@ Wie hoch ist der Anteil ökologisch erzeugter Lebensmittel beziehungsweise regio
 
 #### Antwort zu Frage 3
 
- Fleisch
+– Fleisch
 
- Fisch
+– Fisch
 
- Milchprodukte
+– Milchprodukte
 
- Eier
+– Eier
 
- Obst/Gemüse
+– Obst/Gemüse
 
- Kaffee/Tee
+– Kaffee/Tee
 
- Schokolade/Kakao
+– Schokolade/Kakao
 
 Siehe Vorbemerkung.
 
@@ -133,19 +134,19 @@ Zu welchen anderen Anlässen findet außerdem eine Verpflegung durch den Rathaus
 
 #### Antwort zu Frage 4
 
- Fleisch
+– Fleisch
 
- Fisch
+– Fisch
 
- Milchprodukte
+– Milchprodukte
 
- Eier
+– Eier
 
- Obst/Gemüse
+– Obst/Gemüse
 
- Kaffee/Tee
+– Kaffee/Tee
 
- Schokolade/Kakao
+– Schokolade/Kakao
 
 Der RathausService wird auch für die Bewirtung in weiteren Veranstaltungen im Hamburger Rathaus von Senatskanzlei, Fachbehörden, Fraktionen sowie Bürgerschaftskanzlei beauftragt. Im Übrigen siehe Vorbemerkung.
 

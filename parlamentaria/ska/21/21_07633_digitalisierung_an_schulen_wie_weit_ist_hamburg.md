@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 26
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4284", "21/1806", "18/3780", "21/3267"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56234"
@@ -105,7 +106,7 @@ Wann sollen die verbliebenen Schulen an das System eduPort angeschlossen werden?
 
 Für welche Schulen liegt bislang noch kein Termin für den Anschluss an eduPort vor und warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung.
 

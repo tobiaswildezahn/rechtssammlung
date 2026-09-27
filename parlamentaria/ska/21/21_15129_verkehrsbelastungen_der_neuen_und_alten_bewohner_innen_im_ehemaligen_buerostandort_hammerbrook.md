@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13448"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64590"
@@ -80,19 +81,19 @@ Wie hoch ist die Verkehrsbelastung im Nagelsweg (DTV/w sowie Anteil Schwerverkeh
 
 Es liegen die folgenden Verkehrszahlen vor (der Schwerverkehrsanteil bezieht sich auf alle Fahrzeuge > 3,5 t zulässiges Gesamtgewicht):
 
- Nagelsweg südlich Kurt-Schumacher-Allee
+– Nagelsweg südlich Kurt-Schumacher-Allee
 
 Durchschnittlicher täglicher Verkehr an Werktagen (DTVw) liegt nicht vor, hilfsweise Tagesverkehr (TV) vom 04.11.2004: TV 04.11.2004 (Donnerstag): circa 8.400 Kfz/24 Stunden, Schwerverkehrsanteil (SV-Anteil) circa 3 Prozent
 
- Nagelsweg nordwestlich Spaldingstraße DTVw 2015: circa 6 300 Kfz/24 Stunden, SV-Anteil circa 3 Prozent
+– Nagelsweg nordwestlich Spaldingstraße DTVw 2015: circa 6 300 Kfz/24 Stunden, SV-Anteil circa 3 Prozent
 
- Nagelsweg südöstlich Spaldingstraße DTVw 2015: circa 8 200 Kfz/24 Stunden, SV-Anteil circa 4 Prozent
+– Nagelsweg südöstlich Spaldingstraße DTVw 2015: circa 8 200 Kfz/24 Stunden, SV-Anteil circa 4 Prozent
 
 b. zwischen Nordkanalstraße und Amsinckstraße?
 
- Nagelsweg südöstlich Nordkanalstraße DTVw 2015: circa 9 300 Kfz/24 Stunden, SV-Anteil circa 5 Prozent
+– Nagelsweg südöstlich Nordkanalstraße DTVw 2015: circa 9 300 Kfz/24 Stunden, SV-Anteil circa 5 Prozent
 
- Nagelsweg nördlich Amsinckstraße
+– Nagelsweg nördlich Amsinckstraße
 
 DTVw liegt nicht vor, hilfsweise Tagesverkehr (TV) vom 27.10.2004: TV 27.10.2004 (Mittwoch): circa 6 900 Kfz/24 Stunden, SV-Anteil circa 3 Prozent
 
@@ -104,19 +105,19 @@ Wie hoch ist die Verkehrsbelastung in der Hammerbrookstraße (DTV/w sowie Anteil
 
 Es liegen die folgenden Verkehrszahlen vor (der Schwerverkehrsanteil bezieht sich auf alle Fahrzeuge > 3,5 t zulässiges Gesamtgewicht):
 
- Hammerbrookstraße südlich Kurt-Schumacher-Allee
+– Hammerbrookstraße südlich Kurt-Schumacher-Allee
 
 DTVw 2008: circa 8 900 Kfz/24 Stunden, SV-Anteil circa 3 Prozent
 
- Hammerbrookstraße nordwestlich Spaldingstraße DTVw 2015: circa 8 300 Kfz/24 Stunden, SV-Anteil circa 3 Prozent
+– Hammerbrookstraße nordwestlich Spaldingstraße DTVw 2015: circa 8 300 Kfz/24 Stunden, SV-Anteil circa 3 Prozent
 
- Hammerbrookstraße südöstlich Spaldingstraße DTVw 2015: circa 8 700 Kfz/24 Stunden, SV-Anteil circa 3 Prozent
+– Hammerbrookstraße südöstlich Spaldingstraße DTVw 2015: circa 8 700 Kfz/24 Stunden, SV-Anteil circa 3 Prozent
 
 b. zwischen Nordkanalstraße und Süderstraße?
 
- Hammerbrookstraße südöstlich Nordkanalstraße DTVw 2015: circa 11 200 Kfz/24 Stunden, SV-Anteil circa 3 Prozent
+– Hammerbrookstraße südöstlich Nordkanalstraße DTVw 2015: circa 11 200 Kfz/24 Stunden, SV-Anteil circa 3 Prozent
 
- Hammerbrookstraße nordwestlich Süderstraße DTVw 2016: circa 9 300 Kfz/24 Stunden, SV-Anteil circa 4 Prozent
+– Hammerbrookstraße nordwestlich Süderstraße DTVw 2016: circa 9 300 Kfz/24 Stunden, SV-Anteil circa 4 Prozent
 
 ### Frage 4
 
@@ -183,7 +184,7 @@ Welche Luftmessstationen sind in dem Gebiet zwischen Amsinckstraße und Heidenka
 
 Welche Ergebnisse gibt es gegebenenfalls an den vorgenannten Luftmessstationen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 In dem Gebiet zwischen Amsinckstraße und Heidenkampsweg sind keine Luftmessstationen vorhanden. Die Aufstellung der Luftmessstationen zur Ermittlung der Luftqualität in Hamburg richtet sich gemäß 39. BImSchV nach den darin enthaltenen Vorgaben. Zur Ermittlung der Hintergrundbelastung und der verkehrsnahen Belastung wird die Luftqualität an insgesamt zwölf für das Stadtgebiet repräsentativen Standorten kontinuierlich ermittelt, welche somit Rückschlüsse auf die hamburgweite Luftqualität zulassen. Die vier verkehrsbezogene Messstationen stehen an Standorten, die durch eine enge, schluchtartige Bebauung und einem hohen Verkehrsaufkommen stellvertretend für ähnlich geartete Straßenzüge stehen, an denen Anwohner leben.
 

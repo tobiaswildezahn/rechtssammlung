@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9377"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48828"
@@ -43,7 +44,7 @@ An welche im HVV organisierten Unternehmen hat Hamburg seit 2011 jeweils Verlust
 
 Wie haben sich die Kostendeckungsgrade der unter 1. aufgelisteten Unternehmen seit 2011 entwickelt? Bitte jahresweise sowie nach Unternehmen aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Verlustausgleiche (in Tausend Euro) durch die Freie und Hansestadt Hamburg beziehungsweise die HGV und die Kostendeckungsgrade (in Prozent) haben sich im Jahr 2013 wie nachstehend dargestellt entwickelt. Im Übrigen siehe Drs. 20/9377. Die Feststellung der Jahresabschlüsse für 2014 steht noch aus.
 

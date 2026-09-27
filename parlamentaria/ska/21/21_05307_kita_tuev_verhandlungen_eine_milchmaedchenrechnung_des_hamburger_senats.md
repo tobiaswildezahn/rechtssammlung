@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/5901", "20/9126", "20/6481", "20/11748"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53794"
@@ -106,51 +107,51 @@ Betrag in Euro
 Ausgaben  
 2014  
 89.140,14  
-  
+–  
 Kick-Off-Veranstaltung  
-  
+–  
 Vorbereitung (inhaltlich und organisatorisch)  
 und Durchführung der AG Qualität  
-  
+–  
 Prozesssteuerung  
-  
+–  
 Entwurf des Feinkonzepts  
 2015  
 72.819,15  
-  
+–  
 Abstimmungen des Entwurfs des Feinkonzepts mit wissenschaftlichen Experten  
-  
+–  
 Entwicklung eines Datenbanksystems zur  
 Steuerung der Termine und der Telefonhotline  
-  
+–  
 Prozesssteuerung  
-  
+–  
 Workshop mit wissenschaftlichen Experten  
-  
+–  
 Infoveranstaltungen für Kita-Leitungen und  
 Kita-Träger  
-  
+–  
 Öffentlichkeitsarbeit (Internet-Auftritt, Info-  
 Hotline)  
 2015  
 39.819,78  
-  
+–  
 Arbeitssitzungen mit der BASFI zur konzeptionellen Ausgestaltung der Neuausrichtung  
 der externen Evaluation inkl. Vor- und Nachbereitung  
-  
+–  
 Konzeptarbeit  
-  
+–  
 Prozesssteuerung (Hotline für Anbieter, Träger und Kitas)  
-  
+–  
 Öffentlichkeitsarbeit (Überarbeitung des Internet-Auftritts, Betrieb der Internetseite)  
 2016  
 22.734,71  
-  
+–  
 Abstimmung mit dem Auftraggeber  
-  
+–  
 Öffentlichkeitsarbeit (Anpassung des Internet-  
 Auftritts ‚EVITA-Website)  
-  
+–  
 Erarbeitung konzeptioneller Grundlagen,
 
 Jahr Betrag in Euro Ausgaben

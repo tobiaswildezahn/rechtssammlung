@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60996"
@@ -49,9 +50,9 @@ Wie viele Personen wurden im Jahr 2017 durch die Zentrale Anlaufstelle Anerkennu
 
 Für den Zeitraum 01.01.2017 bis 31.12.2017 sind seitens der Zentralen Anlaufstelle Anerkennung folgende Beratungsfälle erfasst:
 
- 1.836 Erstberatungen,
+– 1.836 Erstberatungen,
 
- 1.435 Folgeberatungen.
+– 1.435 Folgeberatungen.
 
 ### Frage 2
 
@@ -61,7 +62,7 @@ Wie viele Anträge auf Anerkennung im Ausland erworbener Berufsabschlüsse sind 
 
 Wie viele Anträge sind im unter 2. genannten Zeitraum mit welchem Ergebnis beschieden worden? (Bitte unterscheiden zwischen vollständiger, teilweiser Anerkennung beziehungsweise Ablehnung sowie der Berufsgruppen.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Auswertungen des Statistikamts Nord für den genannten Zeitraum liegen voraussichtlich im Juli 2018 vor.
 

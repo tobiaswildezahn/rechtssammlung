@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6028"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55100"
@@ -43,7 +44,7 @@ Wie viele Anträge auf Anerkennung im Ausland erworbener Berufsabschlüsse sind 
 
 Wie viele Anträge sind im unter 1. genannten Zeitraum mit welchem Ergebnis beschieden worden? (Bitte unterscheiden zwischen vollständiger, teilweiser Anerkennung beziehungsweise Ablehnung sowie der Berufsgruppen.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage. Die Tabelle enthält Auswertungen des Statistischen Amtes für Hamburg und Schleswig-Holstein zu den Meldungen der Hamburger Anerkennungsstellen über die Feststellung der Gleichwertigkeit ausländischer Berufsqualifikationen (Anerkennungsstatistik Berufsbildung) ohne Unterscheidung danach, ob es sich um einen Beruf handelt, der durch Rechtsvorschriften des Bundes oder der Länder geregelt ist. Von den 819 Anerkennungsverfahren im Jahr 2015 beruhen 60 Verfahren auf Anträgen aus dem Vorjahr.
 

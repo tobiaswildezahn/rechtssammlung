@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3316", "21/339", "21/2422", "21/2509", "21/1038"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51910"
@@ -45,7 +46,7 @@ Hält der Senat, die zuständige Behörde beziehungsweise Senatorin Fegebank die
 
 Wann legt die zuständige Behörde ihre Vorschläge zur genauen Verwendung der 40 Millionen Euro vor, die den Hochschulen im rot-grünen Koalitionsvertrag zusätzlich zur bisherigen Finanzierung versprochen wurden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die zuständige Behörde ist hierzu im laufenden Gespräch mit den Hochschulen. Gegenstand sind unter anderem die Verwendung der 40 Millionen Euro an zusätzlichen Mitteln im Kontext der Hochschulvereinbarungen einschließlich deren Revisionsklausel sowie die Spielräume, die sich aus dem Zusammenspiel von staatlicher Grundfinanzierung und zusätzlichen Mitteln aus dem Hochschulpakt 2020 ergeben. Entsprechende Vorschläge werden voraussichtlich im 2. Quartal 2016 für das Jahr 2016 und mit dem Haushaltsplan-Entwurf 2017/2018 für die Jahre 2017 fortfolgende vorgelegt.
 

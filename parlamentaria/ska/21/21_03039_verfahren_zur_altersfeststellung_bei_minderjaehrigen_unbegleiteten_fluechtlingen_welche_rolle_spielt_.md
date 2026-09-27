@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 33
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/816"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51365"
@@ -59,15 +60,15 @@ Wie und durch wen erfolgt die Einteilung in die Entscheidungsfälle (vergleiche 
 
 Zur Altersfeststellung werden die folgenden, in einem umfangreichen Aufnahmegespräch ermittelten Informationen herangezogen:
 
- vorgelegte Dokumente zum Identitätsnachweis, soweit diese nicht offensichtlich für
+– vorgelegte Dokumente zum Identitätsnachweis, soweit diese nicht offensichtlich für
 
 diesen Zweck untauglich sind, also die Identität und damit das Alter glaubhaft feststellen lassen.
 
- Die äußere Erscheinung, insbesondere deutlich postpubertäre Körpermerkmale,
+– Die äußere Erscheinung, insbesondere deutlich postpubertäre Körpermerkmale,
 
 soweit diese im Rahmen einer Inaugenscheinnahme ohne Entkleiden oder Anwendung besonderer Untersuchungsmethoden erkennbar sind, sowie
 
- biografische Fakten wie altersmäßige Einordnung in die Familienkonstellation,
+– biografische Fakten wie altersmäßige Einordnung in die Familienkonstellation,
 
 eigene Elternschaft, zeitliche Lage und Dauer eines Schulbesuchs, einer Arbeitstätigkeit oder ähnlicher Lebensphasen.
 
@@ -79,25 +80,25 @@ Gibt es einen Kriterienkatalog im LEB zur Altersbestimmung minderjähriger unbeg
 
 Zur Dokumentation der vorläufigen Inobhutnahme wird ein Formular genutzt, das die anzusprechenden Inhalte des Aufnahmegesprächs aufzeigt. Hierzu gehören neben Fragen und Einschätzungen zu
 
- Identität,
+– Identität,
 
- Lebensgeschichte,
+– Lebensgeschichte,
 
- Flucht und Einreise,
+– Flucht und Einreise,
 
- Familienangehörige (insbesondere im Inland)
+– Familienangehörige (insbesondere im Inland)
 
 auch die Dokumentation der körperliche Entwicklungsmerkmale und des Erscheinungsbildes wie
 
- ausgeprägte Stirnfalten,
+– ausgeprägte Stirnfalten,
 
- ergraute Haare,
+– ergraute Haare,
 
- ausgeprägte Halsfalten,
+– ausgeprägte Halsfalten,
 
- Bartwuchs,
+– Bartwuchs,
 
- Stimmlage
+– Stimmlage
 
 sowie Hinweise bezüglich eines sicheren Auftretens und der Äußerung klarer gereifter (Lebens-)Perspektiven.
 

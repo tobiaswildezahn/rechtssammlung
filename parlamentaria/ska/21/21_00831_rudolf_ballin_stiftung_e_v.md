@@ -13,9 +13,10 @@ seiten: 1
 fragen: 0
 einzelfragen: 0
 antwortbloecke: 0
-beantwortet: true
+beantwortet: false
+status: "zurückgezogen"
 zitierte_drucksachen: []
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48970"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/48970/21_00831_rudolf_ballin_stiftung_e_v"
 abgerufen: "2026-09-27"
@@ -24,11 +25,9 @@ generator: "ska_archiv 1.0"
 
 # Drs. 21/831: Rudolf-Ballin-Stiftung e.V.
 
-> Schriftliche Kleine Anfrage der Abgeordneten Daniel Oetzel und Katja Suding (FDP) vom 18.06.15 und Antwort des Senats · Drucksache vom 18.06.2015  
+> Schriftliche Kleine Anfrage der Abgeordneten Daniel Oetzel und Katja Suding (FDP) vom 18.06.15 · zurückgezogen · Drucksache vom 18.06.2015  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/48970) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/48970/21_00831_rudolf_ballin_stiftung_e_v)
 
-## Volltext
-
-Rudolf-Ballin-Stiftung e.V.
+## Hinweis
 
 Die Anfrage wurde zurückgezogen.

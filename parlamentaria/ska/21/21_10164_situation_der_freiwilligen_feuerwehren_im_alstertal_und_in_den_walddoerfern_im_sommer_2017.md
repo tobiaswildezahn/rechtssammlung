@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5721"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58996"
@@ -142,7 +143,7 @@ Welche Investitionen für die Freiwilligen Feuerwehren im Alstertal und den Wald
 
 Haben die Freiwilligen Feuerwehren im Alstertal und in den Walddörfern seit 2015 neue Einsatzfahrzeuge erhalten? Wenn ja, welche Wehren, wann und zu welchen Kosten? Gibt es derzeit Planungen, dass Freiwillige Feuerwehren zukünftig neue Fahrzeuge erhalten sollen? Wenn ja, welche Wehren, wann und zu welchen Kosten? Bitte für jede Wehr einzeln angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/5721.
 

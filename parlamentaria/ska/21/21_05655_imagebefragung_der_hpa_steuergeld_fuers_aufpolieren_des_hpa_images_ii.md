@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 16
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4266"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54157"
@@ -47,7 +48,7 @@ Welche Ergebnisse hat die Imagebefragung der HPA ergeben? Welche konkreten Unter
 
 Wie und wann werden die gewonnenen Erkenntnisse in konkrete Maßnahmen umgesetzt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die erbetenen Informationen betreffen in der hier vorliegenden Detailtiefe das operative Geschäft der HPA und unterliegen somit dem Betriebs- und Geschäftsgeheimnis. Eine Veröffentlichung könnte zu einem erheblichen Wettbewerbsnachteil gegenüber den Konkurrenzhäfen führen.
 

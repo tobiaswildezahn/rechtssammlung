@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56817"
@@ -78,15 +79,15 @@ f) Art der Kriminalität
 
 Die Polizei schreibt grundsätzlich Personen zum Intensivtäter aus, wenn sie im Verdacht stehen, an folgenden rechtswidrigen Taten beteiligt gewesen zu sein:
 
- Raub/räuberische Erpressung,
+– Raub/räuberische Erpressung,
 
- Schwerer Diebstahl,
+– Schwerer Diebstahl,
 
- sonstige Gewaltdelikte gegen Personen, die sich durch besondere Brutalität aus-
+– sonstige Gewaltdelikte gegen Personen, die sich durch besondere Brutalität aus-
 
 zeichnen, insbesondere, wenn sie unter Waffengewalt begangen wurden oder im unmittelbaren Zusammenhang mit Gruppen- oder Szenegewalt stehen,
 
- Taten, die das Sicherheitsgefühl der Bevölkerung besonders beeinträchtigen.
+– Taten, die das Sicherheitsgefühl der Bevölkerung besonders beeinträchtigen.
 
 g) Zahl der laufenden Ermittlungsverfahren
 

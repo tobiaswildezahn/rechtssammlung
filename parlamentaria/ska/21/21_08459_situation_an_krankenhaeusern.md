@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57168"
@@ -102,7 +103,7 @@ Unterstützt der Senat Bestrebungen, gesetzliche Personaluntergrenzen für Krank
 
 Wer soll diese Personaluntergrenzen festlegen (der zuständige Bundesminister, der Gemeinsame Bundesausschuss)?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Eine angemessene Personalausstattung ist für die Qualität der Patientenversorgung und die Arbeitssituation der Beschäftigten in der Pflege im Krankenhaus entscheidend. Eine Expertenkommission auf Bundesebene, der auch Hamburgs Gesundheitssenatorin angehört, hat einen Maßnahmenkatalog beschlossen, der die Personalsituation in der pflegerischen Patientenversorgung verbessern soll. Sehr kurzfristig werden noch in dieser Legislaturperiode die Vertragsparteien auf Bundesebene (DKG, Spitzenverband Bund der Krankenkassen (GKV-SV) unter Beteiligung der Privaten Krankenversicherer) gesetzlich verpflichtet, Personaluntergrenzen für einzelne Krankenhausabteilungen festzulegen. Gelingt es den Vertragsparteien nicht, die Personaluntergrenzen in pflegesensitiven Bereichen bis zum 30. Juni 2018 zu vereinbaren, setzt das BMG diese als Verordnungsgeber direkt mit Wirkung zum 1. Januar 2019 fest.
 
@@ -116,63 +117,63 @@ Wie viele Gesetze und Verordnungen betreffend die Krankenhäuser wurden seit 201
 
 Auf Hamburger Ebene wurden folgende Rechtsvorschriften erlassen:
 
- Hamburgisches Krankenhausgesetz
+– Hamburgisches Krankenhausgesetz
 
- PauschalförderVO
+– PauschalförderVO
 
 Und auf Bundesebene:
 
- Krankenhausfinanzierungsgesetz
+– Krankenhausfinanzierungsgesetz
 
- Verordnung zur Verwaltung des Strukturfonds im Krankenhausbereich
+– Verordnung zur Verwaltung des Strukturfonds im Krankenhausbereich
 
- Bundespflegsatzverordnung
+– Bundespflegsatzverordnung
 
- Krankenhausentgeltgesetz
+– Krankenhausentgeltgesetz
 
- Versorgungsstrukturgesetz
+– Versorgungsstrukturgesetz
 
- Gesetz zur Reform der Strukturen der Krankenhausversorgung
+– Gesetz zur Reform der Strukturen der Krankenhausversorgung
 
- Psychiatriepersonalverordnung
+– Psychiatriepersonalverordnung
 
- Verordnung über die Voraussetzungen für die Bewertung neuer Untersuchungs-
+– Verordnung über die Voraussetzungen für die Bewertung neuer Untersuchungs-
 
 und Behandlungsmethoden mit Medizinprodukten
 
- Krankenhausstrukturfondsverordnung
+– Krankenhausstrukturfondsverordnung
 
- Gesetz zur Verbesserung der Handlungsfähigkeit der Selbstverwaltung der Spit-
+– Gesetz zur Verbesserung der Handlungsfähigkeit der Selbstverwaltung der Spit-
 
 zenorganisationen in der gesetzlichen Krankenversicherung sowie Stärkung der über sie geführten Aufsicht
 
- Gesetz zur Weiterentwicklung der Versorgung und der Vergütung für psychiatri-
+– Gesetz zur Weiterentwicklung der Versorgung und der Vergütung für psychiatri-
 
 sche und psychosomatische Leistungen
 
- Gesetz zur Verbesserung der Hospiz- und Palliativversorgung in Deutschland
+– Gesetz zur Verbesserung der Hospiz- und Palliativversorgung in Deutschland
 
- Gesetz für sichere digitale Kommunikation und Anwendungen im Gesundheitswe-
+– Gesetz für sichere digitale Kommunikation und Anwendungen im Gesundheitswe-
 
 sen
 
- Gesetz zur Stärkung der Versorgung in der gesetzlichen Krankenversicherung
+– Gesetz zur Stärkung der Versorgung in der gesetzlichen Krankenversicherung
 
- Verordnung über die Übertragung von Zuständigkeiten für die Verfolgung und
+– Verordnung über die Übertragung von Zuständigkeiten für die Verfolgung und
 
 Ahndung von Ordnungswidrigkeiten nach dem SGB X im Zuständigkeitsbereich des BMG
 
- Gesetze zur Änderung des SGB V
+– Gesetze zur Änderung des SGB V
 
- Verordnung zur Anpassung des Betrags zur Finanzierung der Gesellschaft für
+– Verordnung zur Anpassung des Betrags zur Finanzierung der Gesellschaft für
 
 Telematik für das Jahr 2014
 
- Verordnung zur Erhebung von Gebühren und Auslagen für die Bereitstellung von
+– Verordnung zur Erhebung von Gebühren und Auslagen für die Bereitstellung von
 
 Daten nach den Regelungen der Datentransparenzverordnung
 
- Gesetz zur Weiterentwicklung der Finanzstruktur und der Qualität in der gesetzli-
+– Gesetz zur Weiterentwicklung der Finanzstruktur und der Qualität in der gesetzli-
 
 chen Krankenversicherung
 

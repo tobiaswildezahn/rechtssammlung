@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 19
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51732"
@@ -45,7 +46,7 @@ Wurde eine Kontaminierung der Wasserschläuche in der Erstaufnahme am Ohlstedter
 
 Was ist der Grund für die Kontaminierung der Wasserschläuche?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nach dem am 5. Februar 2016 erstellten Ergebnis einer Wasserprobe wurden bei einem Schlauch ins Kantinenzelt Kontaminierungen festgestellt. Der Schlauch wurde entfernt und drei Tage später durch eine Wasserrohrleitung ersetzt.
 

@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57104"
@@ -61,30 +62,30 @@ Welche Straßen im Alstertal und den Walddörfern sollen außerdem in Tempo-30-Z
 
 Das Bezirksamt Wandsbek beabsichtigt im 2. und 3. Quartal des Jahres 2017 folgende Maßnahmen baulich umzusetzen:
 
- Brunskrogweg (von Sthamerstraße bis Alte Dorfstraße)
+– Brunskrogweg (von Sthamerstraße bis Alte Dorfstraße)
 
- Ohlstedter Platz (von Alte Dorfstraße bis Hoisbütteler Straße)
+– Ohlstedter Platz (von Alte Dorfstraße bis Hoisbütteler Straße)
 
- Lottbeker Weg (Umbau der Einmündungen Elersstieg und Heiddiek)
+– Lottbeker Weg (Umbau der Einmündungen Elersstieg und Heiddiek)
 
- Mellenbergweg (von Langfeld bis Künnekestraße)
+– Mellenbergweg (von Langfeld bis Künnekestraße)
 
- Schemmannstraße (von Farmsener Landstraße bis Haselkamp)
+– Schemmannstraße (von Farmsener Landstraße bis Haselkamp)
 
- Sarenweg (von Haus-Nummer 16 bis Trillup) – bauliche Umsetzung im 2./3. Quar-
+– Sarenweg (von Haus-Nummer 16 bis Trillup) – bauliche Umsetzung im 2./3. Quar-
 
 tal des Jahres 2017
 
- Iloh (von Rodenbeker Straße bis Rodenbekredder)
+– Iloh (von Rodenbeker Straße bis Rodenbekredder)
 
- Rodenbekredder (von Wohldorfer Damm bis Krampstieg)
+– Rodenbekredder (von Wohldorfer Damm bis Krampstieg)
 
 Die folgenden Straßen befinden sich in Planung. Eine Umsetzung wird im Jahr 2018 unter der Voraussetzung eines Abbaus von Stellenvakanzen angestrebt:
 
- Baggesenstieg (von Frahmredder bis Oldesweg)
+– Baggesenstieg (von Frahmredder bis Oldesweg)
 
- Kiwittredder (von Kupferteichweg bis Tegelsbarg)
+– Kiwittredder (von Kupferteichweg bis Tegelsbarg)
 
- Alsterredder (von Saseler Mühlenweg bis Saselbergweg)
+– Alsterredder (von Saseler Mühlenweg bis Saselbergweg)
 
- Müssenredder (von Ulzburger Straße bis Tegelsbarg)
+– Müssenredder (von Ulzburger Straße bis Tegelsbarg)

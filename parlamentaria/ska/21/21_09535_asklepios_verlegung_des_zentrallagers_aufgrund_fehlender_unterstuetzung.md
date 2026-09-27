@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 17
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9527", "21/8486"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58308"
@@ -49,7 +50,7 @@ Stimmt es, dass Asklepios sein Zentrallager verlagern wird? Wenn ja, seit wann s
 
 Wohin wird das Zentrallager nach derzeitigem Planungsstand verlagert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/9527.
 
@@ -69,7 +70,7 @@ Was sind die Gründe für die Verlagerung beziehungsweise für den kommenden Umz
 
 Wieso zieht das Unternehmen aus den bisherigen Räumen aus und zu wann?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nach Unternehmensangaben läuft der Mietvertrag zum Jahresende aus. Darüber hinaus reiche der Platz am bisherigen Standort nicht aus. Angesichts steigender Patientenzahlen müsse auch die Logistik mitwachsen.
 

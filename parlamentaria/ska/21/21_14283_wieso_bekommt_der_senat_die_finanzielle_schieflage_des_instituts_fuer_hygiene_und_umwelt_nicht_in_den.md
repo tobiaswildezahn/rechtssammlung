@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4497", "21/14050", "21/13805", "21/11797"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63694"
@@ -77,17 +78,17 @@ Im Dezember 2017 wurde ein Wirtschaftsausschuss unter Beteiligung des Ressourcen
 
 Der Wirtschaftsausschuss hat an folgenden Terminen getagt und in diesen Sitzungen den Wirtschaftsplanentwurf des HU für 2019/2020 beraten:
 
- 13.02.2018
+– 13.02.2018
 
- 26.02.2018
+– 26.02.2018
 
- 05.03.2018
+– 05.03.2018
 
- 12.03.2018
+– 12.03.2018
 
- 15.03.2018
+– 15.03.2018
 
- 23.03.2018
+– 23.03.2018
 
 ### Frage 6
 
@@ -115,15 +116,15 @@ Welche weiteren Maßnahmen zur Effizienzsteigerung wurden seit dem Jahr 2016 erg
 
 Die Effizienzsteigerung der Arbeit des Instituts ist eine laufende Aufgabe. Beispiele für konkrete Maßnahmen in diese Richtung seit 2016 sind unter anderem
 
- die Erhöhung von Serieneffekten in den Laboren zum Beispiel im Rahmen der
+– die Erhöhung von Serieneffekten in den Laboren zum Beispiel im Rahmen der
 
 Norddeutschen Kooperation von sieben Bundesländern (NoKo),
 
- Synergieeffekte durch Einrichtung von internen Servicebereichen, an denen Unter-
+– Synergieeffekte durch Einrichtung von internen Servicebereichen, an denen Unter-
 
 suchungsparameter konzentriert werden (zum Beispiel wurden Schwermetalluntersuchungen in einem Referat konzentriert und werden für Umwelt-, Lebensmittelund Kosmetika-Proben zur Verfügung gestellt) sowie
 
- die Anschaffung moderner Laborgeräte, die zeit- und ressourcenschonende Analy-
+– die Anschaffung moderner Laborgeräte, die zeit- und ressourcenschonende Analy-
 
 senstrategien ermöglichen (zum Beispiel NMR und NGS – siehe Drs. 21/13805).
 

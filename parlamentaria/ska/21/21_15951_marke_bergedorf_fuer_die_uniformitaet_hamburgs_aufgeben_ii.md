@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15712", "19/6161"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65443"
@@ -74,7 +75,7 @@ Entscheidung beteiligt?
 Wenn ja, wie?  
 Wenn nein, wieso nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Das Bezirksamt Bergedorf hat den Verein Wirtschaft und Stadtmarketing für die Region Bergedorf e.V. (WSB) hierüber informiert und unter anderem auch die Redaktion
 

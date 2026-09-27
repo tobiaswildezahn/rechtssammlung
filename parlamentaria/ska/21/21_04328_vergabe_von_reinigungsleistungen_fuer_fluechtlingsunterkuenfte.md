@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 29
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52729"
@@ -50,7 +51,7 @@ Welche Einrichtungen der Flüchtlingsunterbringung werden durch welchen Reinigun
 
 Welcher Dienstleister betreut jeweils wie viele Einrichtungen mit jeweils welchem Personaleinsatz?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Standort der Zentralen Erstaufnahme (ZEA) Betreiber Eingesetzte Reinigungsdienstleister
 

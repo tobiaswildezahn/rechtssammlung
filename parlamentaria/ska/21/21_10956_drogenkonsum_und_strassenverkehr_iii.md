@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7374", "20/14591"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59885"
@@ -43,7 +44,7 @@ Welche der in der Anlage zu § 24 a StVG aufgeführten berauschenden Mittel sind
 
 Wie haben sich die Zahlen im Vergleich zum Jahr 2016 entwickelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die zuständige Behörde wertet Ordnungswidrigkeitenverfahren gemäß § 24 a Absatz 2 Straßenverkehrsgesetz (StVG) in ihrer Gesamtheit und nicht unter dem Kriterium „Verkehrskontrolle“ aus. Nach vorläufigem Stand der Auswertungen der Polizei wurden für das Jahr 2017 im Zuge von Ordnungswidrigkeitenverfahren gemäß § 24 a Absatz 2 StVG folgende Stoffe im Blut von Kraftfahrzeugführern festgestellt. Die Angaben für das Jahr 2017 sind aufgrund ausstehender toxikologischer Gutachten vorläufig.
 
@@ -116,7 +117,7 @@ Welche Geldbußen wurden diebsbezüglich durchschnittlich und innerhalb welcher 
 
 In wie vielen Fällen wurden im Jahr 2017 (Stichtag 31.10.2017) zusätzlich Fahrverbote verhängt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Bußgeldregelsätze und Fahrverbote bei Verstößen von Kraftfahrzeugführern unter der Wirkung von Alkohol und berauschenden Mitteln nach § 24 a StVG sind in der bundeseinheitlichen Bußgeldkatalog-Verordnung (BKatV) geregelt. Die Höhe der Geldbußen, Fahrverbote sowie Fallzahlen ist den nachfolgenden Tabellen zu entnehmen.
 

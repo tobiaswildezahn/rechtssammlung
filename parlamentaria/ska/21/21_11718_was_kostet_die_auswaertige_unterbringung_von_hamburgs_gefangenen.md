@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11577", "21/10838"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60952"
@@ -45,7 +46,7 @@ Wie hoch ist der übliche Tageshaftkostensatz in Mecklenburg-Vorpommern?
 
 Welche Vereinbarungen bestehen mit den Bundesländern Niedersachsen, Brandenburg und Thüringen hinsichtlich der Kosten für die Hamburger Gefangenen, die in den JVA Bremervörde, Brandenburg und Hohenleuben untergebracht sind? Wie hoch sind gegebenenfalls die jeweiligen Tageshaftkostensätze?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Gesonderte Vereinbarungen bestehen hierfür nicht. Die Abrechnung der Unterbringung von Gefangenen erfolgt in der Regel auf Grundlage des zum Zeitpunkt der Abrechnung jeweils ermittelten Tageshaftkostensatzes anhand der konkreten Belegungssituation. Die nachfolgenden Tageshaftkostensätze, welche von einer Vollbelegung ausgehen, werden hierfür als Basis herangezogen.
 

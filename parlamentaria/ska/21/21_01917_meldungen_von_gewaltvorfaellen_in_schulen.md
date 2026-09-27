@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 3
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1599", "19/6175", "20/3624", "20/5422", "20/9125", "20/12882", "20/3009", "19/8174", "20/5972", "18/7296"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50162"
@@ -221,9 +222,9 @@ Tat-Ausgleich
 
 Die Polizei Hamburg ist im Rahmen des Handlungskonzeptes für folgende Maßnahmen federführend verantwortlich, die auch im System Schule ihre Wirkung entfalten:
 
- Cop4U und
+– Cop4U und
 
- Präventionsprogramm „Kinder- und Jugenddelinquenz“.
+– Präventionsprogramm „Kinder- und Jugenddelinquenz“.
 
 Die Maßnahme Cop4U wird weiterhin erfolgreich umgesetzt. Derzeit sind 238 Mitarbeiterinnen und Mitarbeiter der Polizei als Cop4U eingesetzt; im Übrigen siehe zu den Zielen der Maßnahme Drs. 20/5972. Die Entwicklung der Anzahl der Teilnahmen der
 

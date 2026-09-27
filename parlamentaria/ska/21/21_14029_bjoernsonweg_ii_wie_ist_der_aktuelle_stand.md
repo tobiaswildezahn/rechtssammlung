@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 15
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13679", "21/12757", "21/13796", "21/11219", "21/2108"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63428"
@@ -56,7 +57,7 @@ b. Mit wie vielen Personen sind die Wohnungen jeweils belegt? Wie
 viele davon sind ausschließlich mit Angehörigen einer Familie  
 belegt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Daten der Belegungsstatistik haben den Stand 30. Juni 2018:
 
@@ -111,27 +112,27 @@ Welche Integrationsmaßnahmen werden für die Bewohner der Unterkunft angeboten 
 
 Folgende Maßnahmen und Aktivitäten werden angeboten:
 
- Bei Fit-Guides aus dem Projekt Staffel vom Bundesministerium für Arbeit und
+– Bei Fit-Guides aus dem Projekt Staffel vom Bundesministerium für Arbeit und
 
 Soziales werden Bewohner/-innen zu Terminen außerhalb durch bereits gut integrierte Personen mit ausreichend Deutschsprachkenntnissen begleitet.
 
- Erstorientierungskurse beziehungsweise Frauenkurse mit Kinderbetreuung.
+– Erstorientierungskurse beziehungsweise Frauenkurse mit Kinderbetreuung.
 
- Interkulturelle Mediatoren: Das Projekt richtet sich an erwachsene Männer.
+– Interkulturelle Mediatoren: Das Projekt richtet sich an erwachsene Männer.
 
- Patenschaften zur Unterstützung im Alltag.
+– Patenschaften zur Unterstützung im Alltag.
 
- Jugend hilft Jugend (jhj): Berufsberatung und Hilfe bei Bewerbung, Unterstützung
+– Jugend hilft Jugend (jhj): Berufsberatung und Hilfe bei Bewerbung, Unterstützung
 
 bei der Praktikumsplatzsuche für 16- – 27-Jährige sowie Wohnraumsuche und Behördenbegleitung. Das Projekt startet im September.
 
- Nachbarschaftscafé an jedem Donnerstag.
+– Nachbarschaftscafé an jedem Donnerstag.
 
- Das Bunte Haus Blankenese bietet verschiedene ehrenamtliche Angebote wie
+– Das Bunte Haus Blankenese bietet verschiedene ehrenamtliche Angebote wie
 
 berufliche Orientierung oder zu Sprache für Menschen mit Fluchthintergrund an.
 
- Die Unterkunft wird vom Runden Tisch Blankenese und einzelnen Engagierten aus
+– Die Unterkunft wird vom Runden Tisch Blankenese und einzelnen Engagierten aus
 
 der Nachbarschaft unterstützt.
 

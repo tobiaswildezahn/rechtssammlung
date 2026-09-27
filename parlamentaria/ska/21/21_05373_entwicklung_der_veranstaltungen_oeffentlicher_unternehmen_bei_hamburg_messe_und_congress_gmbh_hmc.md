@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12810"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53854"
@@ -77,11 +78,11 @@ Im Jahr 2013 wurden mehrere Großveranstaltungen (unter anderem der 34. Deutsche
 
 Für die Besucherzahlen im Jahr 2015 waren folgende Faktoren wesentlich:
 
- Viele Messen folgen einem zweijährigen Turnus, daher sind die ungeraden Jahre
+– Viele Messen folgen einem zweijährigen Turnus, daher sind die ungeraden Jahre
 
 in der Regel schwächer besucht.
 
- Im Jahr 2015 wurde die Messe „Du und deine Welt“ nicht fortgesetzt.
+– Im Jahr 2015 wurde die Messe „Du und deine Welt“ nicht fortgesetzt.
 
 ### Frage 2
 

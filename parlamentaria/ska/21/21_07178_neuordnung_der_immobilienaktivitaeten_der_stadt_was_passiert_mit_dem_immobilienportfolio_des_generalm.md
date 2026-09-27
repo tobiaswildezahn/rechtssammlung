@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6674", "20/14486"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55847"
@@ -43,7 +44,7 @@ Für welche drei Spezialimmobilien wurde am 19. August 2016 aus welchen Gründen
 
 Für welche acht Spezialimmobilien wurde am 21. August 2016 aus welchen Gründen die Erstellung von Verkehrswertgutachten beauftragt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für die Immobilien Neuer Weg 54, Van-der-Smissen-Straße 2 – 4 und Sandwisch 66 am 19. August 2016 und für die Immobilien Harburger Poststraße 1, Falkensteiner Ufer 101, Ecke Neuer Kamp/Budapester Straße, Sternstraße 102 – 106, Spielbudenplatz 24 – 25, Vorsetzen 31, Vorsetzen o. Nummer und Billstraße 82 – 84 am 21. August 2016.
 

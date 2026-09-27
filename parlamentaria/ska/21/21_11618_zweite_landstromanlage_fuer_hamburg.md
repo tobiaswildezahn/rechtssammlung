@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 23
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9391", "20/9298", "21/10347"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60854"
@@ -63,7 +64,7 @@ Wie bewertet der Senat beziehungsweise die zuständige Behörde die geringe Ausl
 
 Welches sind die zentralen Gründe dafür? a. Technisch b. Organisatorisch
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Bei der Landstromanlage am Cruise Center Altona handelt es sich um ein einzigartiges Pilotprojekt, mit dem die Freie und Hansestadt Hamburg (FHH) erste Erfahrungen mit der Errichtung und dem Betrieb eines festen Landstromanschlusses dieser Größenordnung sammelt. Die gewonnenen Erkenntnisse fließen auch ein in die Planungen für eine Landstromversorgung von Containerschiffen.
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 20
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61718"
@@ -140,7 +141,7 @@ Wer ist für die Blockade der Gleise verantwortlich gewesen und wie viele Züge 
 
 Sind wegen der Gleisblockaden Ermittlungsverfahren eingeleitet worden? Wenn ja, wie viele, wenn nein, warum nicht?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Bundespolizei veranlasste im Rahmen ihrer Maßnahmen am Dammtorbahnhof eine Streckensperrung. Auf Anfragen an die Bundespolizei im Zusammenhang mit Parlamentarischen Anfragen der Hamburgischen Bürgerschaft wird regelmäßig mitgeteilt, dass ihre Tätigkeit ausschließlich dem Kontroll- und damit korrespondierenden Fragerecht des Deutschen Bundestages unterliege. Im Übrigen siehe Vorbemerkung.
 

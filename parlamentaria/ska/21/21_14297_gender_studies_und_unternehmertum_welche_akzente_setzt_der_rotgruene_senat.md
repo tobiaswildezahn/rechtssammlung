@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10260", "21/7093", "21/729"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63708"
@@ -65,45 +66,45 @@ b) Welche Forschungsprojekte wurden an allen staatlich finanzierten Hochschulen 
 
 Die TUHH hat in der oben genannten Arbeitsgruppe folgende Forschungsprojekte bearbeitet:
 
- Arbeit 2.0. Neue Anforderungen an Beschäftigte und ihre Interessenvertretungen
+– Arbeit 2.0. Neue Anforderungen an Beschäftigte und ihre Interessenvertretungen
 
 im Umgang mit Social Media
 
- Subjektkonstruktionen und digitale Kultur. Neue Subjektformen im Wechselspiel
+– Subjektkonstruktionen und digitale Kultur. Neue Subjektformen im Wechselspiel
 
 mit soziokulturellen Praktiken im Cyberspace
 
- Handlungsfähigkeit in entgrenzten Arbeitsverhältnissen
+– Handlungsfähigkeit in entgrenzten Arbeitsverhältnissen
 
- Studienkonflikte und Studienerfolgsfaktoren von Studierenden der TU Hamburg-
+– Studienkonflikte und Studienerfolgsfaktoren von Studierenden der TU Hamburg-
 
 Harburg
 
- Die Integration hochqualifizierter Migrantinnen auf dem deutschen Arbeitsmarkt
+– Die Integration hochqualifizierter Migrantinnen auf dem deutschen Arbeitsmarkt
 
- Bedeutung des Internets für gesellschaftliche Teilhabe – am Beispiel alltäglicher
+– Bedeutung des Internets für gesellschaftliche Teilhabe – am Beispiel alltäglicher
 
 Praxen Erwerbsloser
 
- Studienabbruch von Frauen in den Ingenieurwissenschaften
+– Studienabbruch von Frauen in den Ingenieurwissenschaften
 
- Analyse Studienabbruch relevanter Studienerlebnisse zur Exploration von Ansatz-
+– Analyse Studienabbruch relevanter Studienerlebnisse zur Exploration von Ansatz-
 
 punkten zur Erhöhung der Bindungskräfte technischer Studiengänge
 
- Bedeutung des Internet im erwerbslosen Alltag
+– Bedeutung des Internet im erwerbslosen Alltag
 
- E-Empowerment – die Nutzung des Internet in frauenpolitischen Netzwerken
+– E-Empowerment – die Nutzung des Internet in frauenpolitischen Netzwerken
 
- Technikhaltungen von Studienanfängerinnen und -anfängern in technischen Studi-
+– Technikhaltungen von Studienanfängerinnen und -anfängern in technischen Studi-
 
 engängen
 
- Telearbeit – Chancen für eine bessere Integration von beruflichen und familiären
+– Telearbeit – Chancen für eine bessere Integration von beruflichen und familiären
 
 Lebensbereichen
 
- Konzeption einer Gender-Portals für die Gender und Queer Studies an Hamburger
+– Konzeption einer Gender-Portals für die Gender und Queer Studies an Hamburger
 
 Hochschulen
 
@@ -197,11 +198,11 @@ Welche Fachbereiche setzen sich an allen staatlich finanzierten Hochschulen und 
 
 Inwiefern und in welchem Umfang sich einzelne Wissenschaftlerinnen beziehungsweise Wissenschaftler der UHH im Rahmen ihrer Forschungs- und Lehrtätigkeit mit Fragen der Existenzgründung beziehungsweise der Entrepreneurship befassen, wird in den Fakultäten beziehungsweise vonseiten der Verwaltung nicht systematisch erfasst. Beispielhaft für Forschungsaktivitäten auf dem genannten Gebiet sind folgende Projekte, die die Fakultäten benannt haben:
 
- Forschung zu Entrepreneurship und dem fakultären Schwerpunkt Nachhaltigkeit
+– Forschung zu Entrepreneurship und dem fakultären Schwerpunkt Nachhaltigkeit
 
 (WiSo): „Multilevel analysis on sustainable entrepreneurship: A conceptual approach“
 
- Forschungsbereich „Existenzgründung“ (BWL): Management Transfer Lab bündelt
+– Forschungsbereich „Existenzgründung“ (BWL): Management Transfer Lab bündelt
 
 die Aktivitäten der Fakultät
 

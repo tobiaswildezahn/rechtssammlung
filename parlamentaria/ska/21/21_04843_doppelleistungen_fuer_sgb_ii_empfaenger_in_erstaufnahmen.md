@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 14
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4238", "21/4043", "21/3888"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53256"
@@ -51,7 +52,7 @@ Verfolgt der Senat derzeit auf Bundesebene die Schaffung einer gesetzlichen Grun
 
 Was unternimmt der Senat, um die Ausgabe von Doppelleistungen an Hartz-IV-Empfänger in Erstaufnahmen (Vollversorgung sowie voller Bezug von SGB-II-Leistungen) zu unterbinden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Bundestagsfraktionen von CDU/CSU und SPD haben in das Gesetzgebungsverfahren zum 9. Änderungsgesetz SGB II – Rechtsvereinfachung – einen Änderungsvorschlag zu § 65 SGB II eingebracht, mit dem die kostenlose Verpflegung in Gemeinschaftsunterkünften ohne Selbstverpflegungsmöglichkeiten als Sachleistung Teil der SGB-II-Leistung wird und den Auszahlungsanspruch entsprechend mindert. Hamburg unterstützt den Änderungsantrag der Bundestagsfraktionen. Das Gesetzgebungsverfahren ist noch nicht abgeschlossen. Derzeit besteht keine rechtliche Grundlage, Doppelleistungen zu unterbinden.
 

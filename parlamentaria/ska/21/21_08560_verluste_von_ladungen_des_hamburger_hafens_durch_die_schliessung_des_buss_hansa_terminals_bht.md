@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6366"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57284"
@@ -49,7 +50,7 @@ Gibt es Ladungsverluste des Hamburger Hafens aufgrund der Schließung des Buss H
 
 Wenn ja, welche sind das?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/6366.
 

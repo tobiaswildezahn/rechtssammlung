@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49645"
@@ -451,21 +452,21 @@ den mit den Schulen individuell verein-
 
 bart:
 
-Alarmierung der Schulsanitäter
+– Alarmierung der Schulsanitäter
 
 (Durchsage, SSD-Handy, privates
 
 Handy, Pager, etc.)
 
-Beteiligung der SSD’ler an Schulver-
+– Beteiligung der SSD’ler an Schulver-
 
 anstaltungen (Wandertagen, Sport-
 
 und Schulfesten, etc.)
 
-Führung des Einsatzprotokolls
+– Führung des Einsatzprotokolls
 
-Verantwortung für Erste-Hilfe-Material
+– Verantwortung für Erste-Hilfe-Material
 
 und den Sanitätsraum (durch Lehrer,
 
@@ -795,7 +796,7 @@ Mitgliedschaft
 
 und Kosten
 
- Einverständniserklärung zur Mitwir-
+– Einverständniserklärung zur Mitwir-
 
 kung im Schulsanitätsdienst der Jo-
 
@@ -803,7 +804,7 @@ hanniter-Jugend und Johanniter-
 
 Unfall-Hilfe e. V.
 
- Einwilligungserklärung zur Speiche-
+– Einwilligungserklärung zur Speiche-
 
 rung und Nutzung von Daten der Mit-
 
@@ -811,7 +812,7 @@ arbeitenden im Schulsanitätsdienst
 
 der Johanniter-Jugend bei JUH e.V..
 
- Mitgliedschaft in der JJ ist nicht ver-
+– Mitgliedschaft in der JJ ist nicht ver-
 
 bindlich.
 

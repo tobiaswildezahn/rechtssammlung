@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 23
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14273"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63831"
@@ -131,7 +132,7 @@ Unter Maßgabe der klimapolitischen und verkehrspolitischen Ziele der Freien und
 
 Wie sieht der Senat beziehungsweise die zuständige Behörde vor, es zu verhindern, dass bei kostenpflichtigen Parkplätzen an Schulen keine Parkplätze im Schulumfeld von Bediensteten der Schulen belegt werden?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die an den innerstädtischen Schulen vorhandenen Schulparkplätze sind in aller Regel keine Großparkplätze und es parken Schulbedienstete sowie Schüler und Schülerinnen bereits jetzt in den jeweils umliegenden Straßen. Im Übrigen siehe Vorbemerkung.
 

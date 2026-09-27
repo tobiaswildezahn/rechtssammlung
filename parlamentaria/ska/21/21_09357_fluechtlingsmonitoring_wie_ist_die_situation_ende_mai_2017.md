@@ -14,6 +14,7 @@ fragen: 33
 einzelfragen: 45
 antwortbloecke: 33
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4919", "21/9342", "21/5124", "21/9195", "21/6544", "21/7828", "21/7162", "21/8934", "21/8557", "21/8192", "21/5812"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58106"
@@ -326,17 +327,17 @@ Verlassen haben die örU im gleichen Zeitraum insgesamt 328 Personen (Zuwanderer
 
 Im Bereich der Erstaufnahme und Erstversorgung für unbegleitete minderjährige Ausländer sind im Mai 2017 46 Personen neu aufgenommen worden. Im selben Monat haben insgesamt 82 unbegleitete minderjährige Ausländer die Erstaufnahme und Erstversorgung wieder verlassen:
 
-• 34 unbegleitete minderjährige Ausländer wechselten in eine Folgeeinrichtung im Rahmen einer Hilfe zur Erziehung oder verblieben in ihrer Einrichtung mit neuer Hilfeform,
+– 34 unbegleitete minderjährige Ausländer wechselten in eine Folgeeinrichtung im Rahmen einer Hilfe zur Erziehung oder verblieben in ihrer Einrichtung mit neuer Hilfeform,
 
-• in 26 Fällen erfolgte eine Feststellung der Volljährigkeit und der Umzug in eine Wohnunterkunft,
+– in 26 Fällen erfolgte eine Feststellung der Volljährigkeit und der Umzug in eine Wohnunterkunft,
 
-• sieben unbegleitete minderjährige Ausländer haben sich mit unbekanntem Ziel entfernt,
+– sieben unbegleitete minderjährige Ausländer haben sich mit unbekanntem Ziel entfernt,
 
-• vier unbegleitete minderjährige Ausländer sind zu Verwandten gezogen,
+– vier unbegleitete minderjährige Ausländer sind zu Verwandten gezogen,
 
-• in 4 Fällen wurde eine Verteilung nach § 42 b SGB VIII vollzogen,
+– in 4 Fällen wurde eine Verteilung nach § 42 b SGB VIII vollzogen,
 
-• sieben unbegleitete minderjährige Ausländer sind zu ihrem zuständigen Jugendamt außerhalb Hamburgs zurückgeführt worden.
+– sieben unbegleitete minderjährige Ausländer sind zu ihrem zuständigen Jugendamt außerhalb Hamburgs zurückgeführt worden.
 
 Im Übrigen siehe Antwort zu 9.
 

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12677"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62203"
@@ -49,7 +50,7 @@ Welche Organisationen, Firmen oder Genossenschaften bieten gegenwärtig persönl
 
 Wie viele der in den Organisationen, Firmen oder Genossenschaften Arbeitenden, die persönliche Assistenz anbieten, sind examinierte Pflegekräfte? Bitte aufschlüsseln nach Namen der Organisation/Firma/ Genossenschaft, Anzahl der examinierten Pflegekräfte in VZÄ, Anzahl der Pflegehelfer/-innen in VZÄ, Anzahl weiterer Beschäftigter in VZÄ.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Persönliche Assistenz ist keine gesonderte Leistung der Eingliederungshilfe (siehe Vorbemerkung). Die Versorgung von pflegebedürftigen Personen mit umfänglichem Pflege- und Assistenzbedarf erbringen derzeit 20 ambulante Pflegedienste in Hamburg (siehe Anlage). Die aktuelle Personalausstattung eines ambulanten Pflegedienstes ist den Kostenträgern nicht bekannt. Eine Mitteilungspflicht der ambulanten Pflegedienste besteht nicht. Eine Befragung der ambulanten Pflegedienste zu ihrer aktuellen Personalausstattung auf freiwilliger Basis ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Daten zu Gründungen und Schließungen von ambulanten Pflegediensten werden statistisch nicht erfasst. Eine Suche und Auswertung von elektronischen Akten und Papierakten geschlossener Dienste würde die Durchsuchung Hunderter Akten nötig machen und
 
@@ -95,7 +96,7 @@ Wie wirkt sich das BTHG auf das Verbandsklagerecht in der persönlichen Assisten
 
 Verändern sich die Löhne in der persönlichen Assistenz durch das Bundesteilhabegesetz in Hamburg? Wenn ja, inwiefern und für welche Bereiche der persönlichen Assistenz?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 In keiner Weise. Im Übrigen siehe Vorbemerkung sowie Drs. 21/12677. Darüber hinaus: entfällt.
 
@@ -147,7 +148,7 @@ Welche Wissenschaftler/-innen oder Institutionen begleiten welches Modellprojekt
 
 Welche Verbände von Menschen mit Behinderungen sind in den Beirat zur wissenschaftlichen Evaluation der Modellprojekte einbezogen?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Drs. 21/12677.
 

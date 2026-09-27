@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52358"
@@ -53,7 +54,7 @@ Wie hoch ist die Arbeitslosenquote bei Jobcenter team.arbeit.hamburg von Frauen 
 
 Wie hoch ist die Arbeitslosenquote in der Agentur für Arbeit Hamburg von Frauen in Prozent bezogen auf die zivilen Erwerbspersonen? Bitte auflisten seit 2010 bis heute sowie in U25 und Ü25.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 
@@ -83,7 +84,7 @@ Arbeitsuchend
 iii. Stille Reserve  
 iv. Kein Status
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage 3.
 

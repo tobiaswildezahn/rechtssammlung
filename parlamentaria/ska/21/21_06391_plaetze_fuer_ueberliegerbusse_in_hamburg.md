@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54923"
@@ -87,7 +88,7 @@ An welchen Stellen in Hamburg gab es früher für die Straßenbahnen vergleichba
 
 Wie lauteten die Pausenregelungen für die damaligen Straßenbahnschaffner und wie wurde diese jeweils umgesetzt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Der Straßenbahnverkehr in Hamburg wurde im Jahre 1978 eingestellt. Zur Beantwortung der Fragen wären umfangreiche Recherchen in historischen Archiven erforderlich, in denen Pläne und Akten zu dem insgesamt über 180 km langen Straßenbahnnetz, das im Laufe der Jahrzehnte mehreren Änderungen unterworfen war, zu sichten sind. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

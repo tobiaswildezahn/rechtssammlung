@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13161"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63850"
@@ -73,7 +74,7 @@ Welche weiteren Kosten sind seit der Antwort zu Drs. 21/13161 im Rahmen der Bewe
 
 Kürzlich tagte eine internationale Delegation in Hamburg, um zu überprüfen, ob die Freie und Hansestadt Hamburg den Ansprüchen einer GAC entspricht. Welche Kosten hat die Freie und Hansestadt Hamburg für die Reise und Unterbringung der Delegation aufgewendet?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Im Rahmen der Zertifizierung sind Kosten für Anreise und Unterbringung der Delegation entstanden, die von der Freien und Hansestadt Hamburg im Rahmen der Bestimmungen des Hamburgischen Reisekostengesetzes und der Repräsentationsrichtlinie übernommen werden. Eine Abrechnung liegt noch nicht vor. Im Übrigen siehe Drs. 21/13161.
 

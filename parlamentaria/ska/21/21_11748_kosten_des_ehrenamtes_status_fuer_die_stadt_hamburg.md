@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60987"
@@ -78,7 +79,7 @@ Wie viele Beschäftigte der Freien und Hansestadt Hamburg sowie ihrer mehrheitli
 
 In welchem zeitlichen Umfang – in Prozent ihrer regulär vereinbarten Arbeitszeit – sind diese Personen im Durchschnitt für ehrenamtliche Tätigkeiten freigestellt? Bitte nach den oben genannten Kriterien sowie nach Besoldungsgruppen („Höherer Dienst“, „Gehobener Dienst“, „Mittlerer Dienst“ et cetera sowie analog bei den nicht beamteten Mitarbeitern und denjenigen in den Beteiligungsgesellschaften) aufgliedern. Gegebenenfalls – wie unter Frage 1. erbeten – schätzen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage 2.
 

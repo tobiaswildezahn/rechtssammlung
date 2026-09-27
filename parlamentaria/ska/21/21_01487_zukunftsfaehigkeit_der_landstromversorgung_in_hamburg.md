@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9298", "21/1388"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49688"
@@ -79,7 +80,7 @@ Wie viele Schiffe von welcher Reederei sind bereits bis 2015 durch Umbau oder Ne
 
 Wie viele im Dienst befindliche Schiffe werden nach Kenntnis des Senats derzeit von welchen Reedereien mit einem Anschluss für die Versorgung mit Landstrom ausgestattet?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Nach den der zuständigen Behörde verfügbaren Informationen sind neben der AIDAsol die EUROPA 2 (Hapag-Lloyd), die MSC Splendida (MSC) und die Queen Mary 2 (Cunard) landstromfähig.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8930"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61938"
@@ -60,7 +61,7 @@ Wie viele von ihnen haben einen Schutzstatus nach dem Grundgesetz beziehungsweis
 
 Wie viele von ihnen befinden sich in einem laufenden Asylverfahren?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Keine Person.
 
@@ -80,7 +81,7 @@ Wie viele von ihnen sind ausreisepflichtig, wie viele aus welchen Gründen gedul
 
 Woran scheitert bei denen, die keine Duldung besitzen, die Abschiebung?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Person ist ausreisepflichtig und befindet sich aktuell zum Vollzug der Haft in einem psychiatrischen Krankenhaus. Vor einer Abschiebung muss gemäß § 456a Strafprozessordnung durch Beschluss der Vollstreckungsbehörde von der weiteren Vollstreckung der Freiheitsstrafe abgesehen werden. Die beteiligten Behörden stehen dazu in intensiven Gesprächen.
 

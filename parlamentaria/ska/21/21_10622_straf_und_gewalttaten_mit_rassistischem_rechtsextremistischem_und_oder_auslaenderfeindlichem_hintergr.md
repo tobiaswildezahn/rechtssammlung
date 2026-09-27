@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3165", "21/5257"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59516"
@@ -88,7 +89,7 @@ Zu welchen konkreten in Frage 5. abgefragten Taten konnten mutmaßliche Täter b
 a) In welchen Fällen kam es zur Eröffnung eines Strafverfahrens, gegebenenfalls mit welchem Ausgang?
 b) In welchen wurden die Ermittlungen eingestellt und mit welcher Begründung jeweils? Bitte auflisten.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Anlage 3; die Polizei hat in beiden Fällen Strafverfahren eingeleitet. Bisher konnten in einem Strafverfahren drei Tatverdächtige ermittelt werden.
 

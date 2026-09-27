@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13883", "21/9130", "21/7835"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66741"
@@ -87,16 +88,16 @@ Welche Maßnahmen sind insgesamt derzeit im Rahmen des EMS- Programms des LSBG f
 
 Derzeit sind folgende Maßnahmen im Bezirk Wandsbek im Rahmen des Bauprogramms Erhaltungsmanagement für die Jahre 2019 bis 2021 geplant:
 
- Barsbütteler Straße, Ratiborweg bis Holsteiner Tor (2018 – 2019)
+– Barsbütteler Straße, Ratiborweg bis Holsteiner Tor (2018 – 2019)
 
- Wandsbeker Allee, Tiroler Straße bis Wandsegrünzug (2019)
+– Wandsbeker Allee, Tiroler Straße bis Wandsegrünzug (2019)
 
- Saseler Chaussee, Stadtbahnstraße bis Immenhorstweg (2019 – 2020)
+– Saseler Chaussee, Stadtbahnstraße bis Immenhorstweg (2019 – 2020)
 
- Bergstedter Chaussee, Immenhorstweg bis Landesgrenze (2019 – 2021)
+– Bergstedter Chaussee, Immenhorstweg bis Landesgrenze (2019 – 2021)
 
- Berner Straße, Alter Zollweg bis Bargkoppelweg (2020 – 2021)
+– Berner Straße, Alter Zollweg bis Bargkoppelweg (2020 – 2021)
 
- Saseler Chaussee, Stadtbahnstraße bis Immenhorstweg (2020 – 2021)
+– Saseler Chaussee, Stadtbahnstraße bis Immenhorstweg (2020 – 2021)
 
- Höltigbaum/Oldenfelder Stieg, Eichberg bis Alter Zollweg (2020 – 2021)
+– Höltigbaum/Oldenfelder Stieg, Eichberg bis Alter Zollweg (2020 – 2021)

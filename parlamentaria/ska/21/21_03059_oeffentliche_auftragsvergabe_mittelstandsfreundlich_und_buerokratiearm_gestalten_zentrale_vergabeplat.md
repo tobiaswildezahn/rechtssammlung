@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 17
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2414", "21/1601"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51374"
@@ -45,7 +46,7 @@ Wird es die Umsetzung einer zentralen und digitalen Vergabeplattform in der Frei
 
 Gibt es Abweichungen zu den ursprünglichen Planungen? Wenn ja, welche und warum (bitte genau darlegen)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/2414 und Antwort zu 3.
 
@@ -81,6 +82,6 @@ Wie viele Aufträge aus öffentlichen Ausschreibungen sind an lokale, regionale 
 
 Wie stellt der Senat über die vorgenannten Maßnahmen hinaus eine mittelstandsfreundliche Auftragsvergabe sicher?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/1601. Eine über den dort angegebenen Zeitraum vom 1. Januar 2015 bis 15. September 2015 hinausgehende Ermittlung der erfragten Angaben würde eine manuelle Auswertung von mehreren Tausend Vergabeakten erfordern, was in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich ist.

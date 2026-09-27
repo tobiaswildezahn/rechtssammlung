@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52746"
@@ -43,7 +44,7 @@ Was ist dem Senat bislang über die Hintergründe der Tat bekannt? Liegen bereit
 
 Hat der Senat Kenntnis von etwaigen politischen Motiven?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die polizeilichen Ermittlungen zum Sachverhalt sind noch nicht abgeschlossen, auch über das Tatmotiv liegen derzeit noch keine Erkenntnisse vor. Daher wird von weiteren Auskünften abgesehen.
 

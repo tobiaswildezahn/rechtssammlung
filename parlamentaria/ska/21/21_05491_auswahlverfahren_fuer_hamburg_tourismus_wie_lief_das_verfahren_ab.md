@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53973"
@@ -59,7 +60,7 @@ Erfolgte eine direkte Ansprache durch die mit dem Recruiting beauftragte Agentur
 
 Wie viele Lebensläufe von Bewerbern wurden der HMG von der mit dem Recruting beauftragen Agentur Amrop Delta vorgestellt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Es wurden 48 Personen durch die beauftragte Agentur angesprochen. Der Findungskommission wurden Darstellungen zu 26 Personen vorgelegt.
 
@@ -86,15 +87,15 @@ Wer gehörte der Findungskommission an?
 
 #### Antwort zu Frage 7
 
- Der Staatsrat der Behörde für Wirtschaft, Verkehr und Innovation, Vorsitzender der
+– Der Staatsrat der Behörde für Wirtschaft, Verkehr und Innovation, Vorsitzender der
 
 Gesellschafterversammlung der Hamburg Marketing GmbH (HMG) und Vorsitzender des Aufsichtsrates der Hamburg Tourismus GmbH (HHT)
 
- der Vorsitzende des Tourismusverband Hamburg e.V. als Mitglied des Aufsichtsra-
+– der Vorsitzende des Tourismusverband Hamburg e.V. als Mitglied des Aufsichtsra-
 
 tes der HMG und Stellvertretender Vorsitzender des Aufsichtsrates der HHT
 
- die Geschäftsführerin und Leiterin des Bereichs Infrastruktur der Handelskammer
+– die Geschäftsführerin und Leiterin des Bereichs Infrastruktur der Handelskammer
 
 Hamburg und Mitglied des Aufsichtsrates der HHT
 

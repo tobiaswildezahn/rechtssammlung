@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58500"
@@ -37,19 +38,19 @@ Vor diesem Hintergrund frage ich den Senat:
 
 Zum Gebäude des Hauptbahnhofs und seinem unmittelbaren Umfeld werden derzeit Konzepte erarbeitet beziehungsweise konkret anstehende Arbeiten auf unterschiedlichen Ebenen vorgenommen:
 
- Verkehrsuntersuchung Umfeld des Hamburger Hauptbahnhofs (Behörde für Wirt-
+– Verkehrsuntersuchung Umfeld des Hamburger Hauptbahnhofs (Behörde für Wirt-
 
 schaft, Verkehr und Innovation) mit Klärung der Machbarkeit einer Kommunaltrasse Steintordamm sowie Vorschlägen für eine funktionale Neugliederung der öffentlichen Verkehrsflächen
 
- Machbarkeitsstudie Hauptbahnhof und Umfeld im Rahmen des Masterplans Ham-
+– Machbarkeitsstudie Hauptbahnhof und Umfeld im Rahmen des Masterplans Ham-
 
 burg Hauptbahnhof (Deutsche Bahn AG) für die Prüfung einer Erweiterung des Bahnhofs nach Süden und Osten sowie einer Teilüberbauung des nördlichen Gleisfeldes
 
- Umgestaltung Hachmannplatz (Bezirk Hamburg-Mitte) mit Maßnahmen zur Ver-
+– Umgestaltung Hachmannplatz (Bezirk Hamburg-Mitte) mit Maßnahmen zur Ver-
 
 besserung der Verkehrsabläufe und Aufenthaltsqualität
 
- Umbau Westlicher Langbau (Deutsche Bahn AG) einschließlich der Einrichtung
+– Umbau Westlicher Langbau (Deutsche Bahn AG) einschließlich der Einrichtung
 
 von Ladengeschäften mit Zugang vom Glockengießerwall
 
@@ -68,7 +69,7 @@ a) Abgeordnete auf bezirklicher Ebene,
 b) St. Georger Bürgerinnen und Bürger sowie
 c) sonstige Personen und Institutionen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Verkehrsuntersuchung wird von einer behördenübergreifenden Arbeitsgruppe unter Federführung der Behörde für Wirtschaft, Verkehr und Innovation (BWVI) begleitet. Zur Arbeitsgruppe gehören der Bezirk Hamburg-Mitte, die Behörde für Stadtentwicklung und Wohnen, die Behörde für Umwelt und Energie, der Hamburger Verkehrsverbund sowie die Hamburger Hochbahn AG. Die Verkehrsuntersuchung war mehrfach Thema im Verkehrsausschuss der Bürgerschaft. Im Februar 2017 wurden insgesamt vier Workshops zu unterschiedlichen fachlichen Schwerpunkten mit einer breiten Fachöffentlichkeit durchgeführt.
 

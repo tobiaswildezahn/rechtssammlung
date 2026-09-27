@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11562"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66137"
@@ -51,7 +52,7 @@ Wann sind entsprechende Lehramts-Studiengänge an der Universität Hamburg einge
 
 Sind diese Lehramtsstudiengänge für die Primar- und Sekundarstufe sowie für Stadtteilschulen/Gymnasien eingerichtet worden? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Universität Hamburg hat die Bachelorteilstudiengänge „Alevitische Religion“ und „Islamische Religion“ im Lehramt der Primar- und Sekundarstufe I 2015 eingerichtet.
 

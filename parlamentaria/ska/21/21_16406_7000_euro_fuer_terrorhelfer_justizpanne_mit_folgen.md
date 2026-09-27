@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 22
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65910"
@@ -49,7 +50,7 @@ Hat Justizsenator Steffen dafür gesorgt, dass die JVAs über die EU- Verordnung
 
 Warum hatten Mitarbeiter der JVA Fuhlsbüttel keine Kenntnis davon, dass Zahlungen vom Häftlingskonto an M. rechtlich unzulässig waren? a. Inwiefern gab es keinerlei Informationen durch die Justizbehörde oder durch eine andere zuständige Stelle? b. Warum wurde das Konto des Inhaftierten M. auf Grundlage welcher EU-Verordnung nicht gesperrt? Wer trägt dafür aus Sicht der Behörde die Verantwortung?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Über den Umgang mit Sanktionsmaßnahmen zur Terrorbekämpfung wurden sämtliche Justizvollzugsanstalten der Freien und Hansestadt Hamburg mit Schreiben der Justizbehörde vom 19. Januar 2007 unterrichtet. Hierin enthalten war eine Handlungsanleitung zu Rechtsgrundlagen und Inhalt von Sanktionen, der Umsetzung (einschließlich des Verfahrens zur Einholung von Sondergenehmigungen) und Folgen bei Verstößen. Bis zum Zeitpunkt der Ausantwortung des Verurteilten M. wurde in der Justizvollzugsanstalt (JVA) Fuhlsbüttel entsprechend verfahren. Im Übrigen betrifft die Beantwortung der Fragen den Gegenstand der laufenden Ermittlungen. Um den Untersuchungszweck nicht zu gefährden, können weitere Angaben derzeit nicht gemacht werden.
 

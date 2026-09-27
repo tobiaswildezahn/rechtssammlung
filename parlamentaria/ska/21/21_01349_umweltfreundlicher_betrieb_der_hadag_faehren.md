@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13337", "20/13667"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49551"
@@ -61,7 +62,7 @@ Sollen weitere Schiffe mit einem Abgasnachbehandlungssystem ausgerüstet werden?
 
 Wenn ja, wie viel wird diese Ausrüstung Kosten und ist der Senat bereit diese Umrüstung finanziell zu unterstützen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die HADAG hat beim Bundesministerium für Verkehr und digitale Infrastruktur (BMVI) einen Antrag auf Gewährung von Fördermitteln für den Einbau weiterer Abgasnachbehandlungsanlagen auf Schiffen der HADAG-Flotte gestellt. Dieser Antrag wird seitens des BMVI derzeit geprüft. Um eine etwaige Bewilligung der Bundesfördermittel nicht zu gefährden, können derzeit keine Einzelheiten genannt werden.
 

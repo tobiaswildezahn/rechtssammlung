@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2450"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51251"
@@ -43,7 +44,7 @@ Die aktuelle Fachanweisung zu § 22 SGB II wurde bis dato nicht geändert. Wann 
 
 Wieso ist eine Anpassung bisher nicht erfolgt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Anpassung der Höchstwerte im Rahmen der Fachanweisung zu § 22 SGB II wird derzeit geprüft. Hierzu werden unter Beteiligung der für die Erstellung des Mietenspiegels zuständigen Behörde die Höchstwerte auf Grundlage des Mietenspiegels 2015 berechnet. Die Anpassung und die Veröffentlichung erfolgt umgehend im Anschluss.
 

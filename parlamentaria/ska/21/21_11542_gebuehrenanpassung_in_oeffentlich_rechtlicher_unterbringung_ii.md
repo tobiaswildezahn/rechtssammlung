@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 34
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11467", "21/11497", "21/7422", "21/4327", "21/8487", "21/11547", "21/5795", "21/8444"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60720"
@@ -142,17 +143,17 @@ Bei der festgesetzten Gebühr von 587 Euro pro Person für Folgeunterkünfte han
 Über die unter 8.a.aa bis 8.a.cc genannten Positionen hinaus (in der Summe
 96.983.000 Euro) wurden folgende Kosten berücksichtigt:
 
- 4.636.000 Euro für weitere Betriebskosten zum Beispiel Aus- und Abbaukosten
+– 4.636.000 Euro für weitere Betriebskosten zum Beispiel Aus- und Abbaukosten
 
- 17.269.000 Euro für Finanzierungskostensätze (vergleiche Drs. 21/7422)
+– 17.269.000 Euro für Finanzierungskostensätze (vergleiche Drs. 21/7422)
 
- 35.187.000 Euro für Abschreibungen
+– 35.187.000 Euro für Abschreibungen
 
- 4.028.000 Euro aus dem Saldo von Zuführungen zu und Auflösungen von Rück-
+– 4.028.000 Euro aus dem Saldo von Zuführungen zu und Auflösungen von Rück-
 
 stellungen (Rückbau)
 
- 428.000 Euro für Sonstiges, zum Beispiel Kampfmittelräumung
+– 428.000 Euro für Sonstiges, zum Beispiel Kampfmittelräumung
 
 aa. Für den Kostensatz einmal die Aufschlüsselung für einen beleg-
 
@@ -174,13 +175,13 @@ cc. für die Aufwandsfinanzierung, an welchen Standorten im Jahr
 
 Unter die Aufwandsfinanzierungsvereinbarung (siehe Drs. 21/7422) und ergänzende Kostenübernahmen fallen:
 
- 500.000 Euro für Wachdienst,
+– 500.000 Euro für Wachdienst,
 
- 490.000 Euro für Personalaufwand,
+– 490.000 Euro für Personalaufwand,
 
- 2.559.000 Euro für Sachaufwand und
+– 2.559.000 Euro für Sachaufwand und
 
- 2.551.000 Euro für Sonstiges wie zum Beispiel schiffsspezifische Kosten „Transit“
+– 2.551.000 Euro für Sonstiges wie zum Beispiel schiffsspezifische Kosten „Transit“
 
 (Mietkosten in der Aufbauphase und dergleichen).
 

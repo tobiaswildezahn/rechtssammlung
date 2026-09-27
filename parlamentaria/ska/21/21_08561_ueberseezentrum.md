@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4446"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57285"
@@ -57,6 +58,6 @@ Was plant die HPA auf dem Gelände des Überseezentrums?
 
 Wann plant die HPA diese Aktivität aufzunehmen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Planungen dazu sind noch nicht abgeschlossen. Im Übrigen siehe Drs. 21/4446.

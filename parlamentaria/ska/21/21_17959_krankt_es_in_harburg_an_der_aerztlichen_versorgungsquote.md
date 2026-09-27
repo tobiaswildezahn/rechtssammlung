@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 24
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17378", "21/13378", "21/11112"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67575"
@@ -77,7 +78,7 @@ Wie bewertet der Hamburger Senat die Versorgungsquote des Bezirks Harburg mit se
 
 Hält der Senat die Versorgungsquote generell in Hamburger Stadtteilen für unzureichend? Wenn ja, in welchen Stadtteilen und warum?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Ziel der Bedarfsplanung ist eine bedarfsgerechte vertragsärztliche Versorgung im jeweiligen Planungsbereich. Dabei gilt ein Versorgungsgrad von 100 Prozent als bedarfsgerecht. Die Selbstverwaltung hat zum 1. Juli 2019 eine überarbeitete Bedarfsplanungsrichtlinie verabschiedet. Auch nach dieser Richtlinie ist Hamburg für alle Facharztgruppen überversorgt (über 110 Prozent). Auch nach der aktuellen Überarbeitung der Bedarfsplanungsrichtlinie bleibt räumliche Grundlage für die Ermittlung des Versorgungsgrades zum Stand der vertragsärztlichen Versorgung sowie für die Feststellungen zur Über- oder Unterversorgung in Hamburg der Planungsbereich 1, also der Gesamtbereich der Freien und Hansestadt Hamburg.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3165"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52525"
@@ -59,7 +60,7 @@ Wie viele Tatverdächtige wurden im 1. Quartal 2016 wegen recht(sextremistisch)e
 
 In wie vielen der in 2. genannten Fälle wurde Untersuchungshaft verhängt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Im KPMD-PMK sind im Bereich „PMK rechts“ für den erfragten Zeitraum 14 Ermittlungsvorgänge registriert, bei denen ein Tatverdächtiger ermittelt werden konnte, davon werden 13 Taten als rechtsextremistisch eingestuft; im Übrigen siehe Anlage 2.
 
@@ -96,7 +97,7 @@ Zu welchen konkreten in Frage 5. abgefragten Taten konnten mutmaßliche Täter b
 a) In welchen Fällen kam es zur Eröffnung eines Strafverfahrens, gegebenenfalls mit welchem Ausgang?
 b) In welchen Fällen wurden die Ermittlungen eingestellt und mit welcher Begründung jeweils? Bitte auflisten.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Anlage 3; die Polizei hat in allen Fällen Strafverfahren eingeleitet.
 

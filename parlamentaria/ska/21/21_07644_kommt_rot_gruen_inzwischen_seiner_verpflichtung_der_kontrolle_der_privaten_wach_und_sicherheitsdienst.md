@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 32
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7465", "21/5823", "20/13232", "21/3278", "21/4686", "21/5673", "21/6898", "21/3227", "21/3646", "21/3915", "21/4293", "21/4734", "21/5124", "21/5453", "21/5812", "21/6222", "21/6544", "21/7162", "21/7420"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56249"
@@ -145,7 +146,7 @@ Wird oder wurde bei der monatlichen Vergütung der Sicherheitsdienstleistungen d
 
 Ist dem Senat bekannt, dass von Wach- und Sicherheitsdienstleistern, die mit den Betreibern Verträge abgeschlossen haben, solche Minderungen der Rechnungsbeträge gegenüber ihren Subunternehmen vorgenommen wurden, in einem Fall sogar die Zahlung unter Hinweis auf fehlende Qualifikationsnachweise für ganze Monate sogar vollständig verweigert werden?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Nein, im Übrigen siehe Antwort zu 1.
 

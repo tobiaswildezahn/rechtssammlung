@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54894"
@@ -93,7 +94,7 @@ Welche Pflanzenarten leben in den Wäldern, auf den Wiesen und Feldern sowie in 
 
 Welche dieser Pflanzenarten in Rahlstedt sind aus welchen Gründen bedroht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Anlage 2. Die Bedrohungen einer Art können je nach Standort sehr unterschiedlich sein, im Wesentlichen sind dies: Lebensraumverlust, Einsatz von Düngeund Pflanzenbehandlungsmitteln, Art der Bewirtschaftung in der Land- und Forstwirtschaft.
 
@@ -129,7 +130,7 @@ Inwieweit haben sich das Bezirksamt Wandsbek und andere zuständige Behörden mi
 
 Wo sollen welche Ausgleichsflächen welchen Ausmaßes in Rahlstedt und anderswo in Hamburg entstehen?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Die Stellungnahme wurde zur Kenntnis genommen und wird im weiteren Verfahren zusammen mit den Stellungnahmen aus der noch durchzuführenden Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 des Baugesetzbuches behandelt. Im Übrigen siehe Antwort zu 7. bis 11.
 

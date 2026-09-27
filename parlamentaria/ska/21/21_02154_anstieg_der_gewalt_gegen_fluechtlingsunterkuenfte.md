@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/4795", "20/3215"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50567"
@@ -61,7 +62,7 @@ Wie viele Übergriffe auf welche Einrichtung zur Unterbringung von Flüchtlingen
 
 Wie ist die Entwicklung im Vergleich mit den Vorjahren? Bitte die Anzahl und die Art der Übergriffe der Jahre 2011, 2012, 2013 und 2014 nennen, unter Angabe der jeweiligen betroffenen Einrichtung.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Polizei erfasst Straftaten gemäß dem Straftatenkatalog der Richtlinien für die Erfassung und Verarbeitung der Daten in der Polizeilichen Kriminalstatistik (PKS). In der PKS erfolgt die räumliche Erfassung in ihrer kleinsten Einheit nach Ortsteilen. Nach Art der Tatörtlichkeit oder nach Adressen wird nicht weiter differenziert; somit werden in der PKS Erst- und Folgeunterkünfte sowie Asylunterkünfte als Tatort nicht gesondert erfasst.
 

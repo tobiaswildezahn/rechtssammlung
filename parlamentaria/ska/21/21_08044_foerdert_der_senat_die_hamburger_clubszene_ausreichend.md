@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 16
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2380", "21/7789", "21/6761", "21/6751", "21/7988"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56710"
@@ -53,13 +54,13 @@ worden. Eine Unterstützung des Clubs „Fundbureau“ erwies sich als nicht ums
 
 Folgende Maßnahmen verblieben:
 
- Logo: Instandsetzung der maroden Außenfassade
+– Logo: Instandsetzung der maroden Außenfassade
 
- Molotow: Sanierung Dachverkleidung und Lüftungsanlage
+– Molotow: Sanierung Dachverkleidung und Lüftungsanlage
 
- Westwerk: Instandsetzung Sanitäranlagen
+– Westwerk: Instandsetzung Sanitäranlagen
 
- Uebel&Gefaehrlich: Instandsetzung Sanitäranlagen.
+– Uebel&Gefaehrlich: Instandsetzung Sanitäranlagen.
 
 Die Kosten der einzelnen Maßnahmen inklusiver aller Prüf-, Abwicklungs- und Baunebenkosten verteilen sich wie folgt:
 

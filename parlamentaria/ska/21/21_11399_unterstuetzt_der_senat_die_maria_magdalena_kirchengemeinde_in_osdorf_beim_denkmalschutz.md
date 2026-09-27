@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 10
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60460"
@@ -53,7 +54,7 @@ d) Wenn nein: warum nicht?
 
 Haben der Senat beziehungsweise die zuständigen Behörden bereits Gespräche mit Vertretern der Maria-Magdalena-Gemeinde, dem Gemeindezentrum Osdorfer Born und/oder dem Klick Kindermuseum zu den Sanierungsbedarfen geführt? Wenn ja: wann, mit wem und mit welchem Ergebnis? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Dem zuständigen Bezirksamt sind die genauen Sanierungsbedarfe nicht bekannt. Am
 1. November 2017 hat ein Gespräch mit Vertretern der Kirchengemeinde und Vertretern des zuständigen Bezirksamtes zu den Entwicklungsmöglichkeiten am Standort der Maria-Magdalena-Kirche stattgefunden. Zielsetzung des Gesprächs war, verschiedene Möglichkeiten der Grundstücksentwicklung im Rahmen einer Sanierung des Gemeindezentrums zu erörtern. Aufgrund des bestehenden Denkmalschutzes für das Kirchenensemble wurde der Eigentümer aufgefordert, sich an das zuständige Dankmalschutzamt zu wenden. Der Eigentümer prüft derzeit unterschiedliche Varianten im Rahmen einer Machbarkeitsstudie. Bislang sind weder der Eigentümer noch der Verfügungsberechtigte an das Denkmalschutzamt herangetreten.

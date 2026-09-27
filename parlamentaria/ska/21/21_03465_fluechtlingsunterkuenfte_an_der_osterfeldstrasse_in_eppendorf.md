@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 25
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51834"
@@ -97,6 +98,6 @@ Ist vorgesehen, den zu erwartenden Wertzuwachs des Areals alleine schon durch di
 
 Ist die Anwendung des Instruments der sozialgerechten Bodenordnung im vorliegenden Fall erwogen worden? Wenn ja, mit welchem Ergebnis? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Im Rahmen von Bebauungsplan-Verfahren besteht die Möglichkeit, dass Planungsbegünstigte nach § 11 BauGB angemessen an Kosten oder sonstigen Aufwendungen, die der Gemeinde für städtebauliche Maßnahmen entstehen oder entstanden sind und die Voraussetzung oder Folge des geplanten Vorhabens sind, grundsätzlich beteiligt werden können. Im vorliegenden Fall hat sich der Senat mit diesen Fragestellungen noch nicht befasst und wird die entsprechenden Erwägungen im nachgelagerten Bebauungsplanverfahren anstellen.

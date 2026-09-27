@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 28
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5429", "21/5231", "21/1838", "21/5177", "21/5812", "21/2448", "21/2531", "21/2647", "21/2787", "21/2864", "21/2959", "21/3104", "21/3357", "21/5001", "21/5156", "21/5525", "21/5606", "21/4450", "21/4229", "21/4940"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54330"
@@ -92,7 +93,7 @@ Wird das für das derzeit aufgegebene Bauprojekt „Wildes Moor“ vorgesehene G
 
 Werden oder wurden nach Fallenlassen des Expressbauprojektes „Wildes Moor“ auf den dazu vorgesehenen Flächen weitere Messungen (Boden, Fauna, Wind et cetera) vorgenommen? Wenn ja: welche und zu welchem Zweck? Bitte Aufgabenstellung und Ergebnisse beifügen.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Flächen werden derzeit landwirtschaftlich genutzt. Mögliche Wohnungsbaupotenziale sollen durch ein Fachgutachten geprüft werden. Ob und in welchem Umfang dies auch weitere Messungen beinhalten wird, steht nicht fest. Ergebnisse liegen noch nicht vor. Im Übrigen siehe Drs. 21/5429 und Drs. 21/5231.
 
@@ -182,7 +183,7 @@ Gemäß Bürgervertrag sollen in Hummelsbüttel derzeit etwa 350 bis 650 weitere
 
 Bei absehbarer frühester Fertigstellung der Flüchtlingsunterbringung am Rehagen Ende 2017 werden bereits nach einem Jahr 350 Personen wieder ausziehen und nur 300 Personen verbleiben. Aus welchem Grund sollen für die kurzfristige Unterbringung nicht das Mittel mit der geringsten Eingriffsintensität gewählt und zumindest die kurzzeitige Unterbringung zum Beispiel durch temporäre Wohnungen gelöst werden?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Die Kapazitäten der Flüchtlingsunterkünfte mit der Perspektive Wohnen sind notwendig, um die Platzbedarfe für die Folgeunterbringung in der öffentlich-rechtlichen Unterbringung (örU) zu decken, siehe Drs. 21/4229 und Drs. 21/4940.
 

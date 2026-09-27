@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 22
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60571"
@@ -43,17 +44,17 @@ Was waren die Beweggründe für die Verfassung der Neuregelung? Welche Argumente
 
 Welche bestehenden gesetzlichen Regelungen zum Verbrennen von Gartenabfällen existierten vor dieser Neuregelung?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Gemäß § 28 Absatz 1 Kreislaufwirtschaftsgesetz (KrWG) dürfen Abfälle zum Zweck der Beseitigung grundsätzlich nur in den dafür zugelassenen Anlagen beseitigt werden. Die „Verordnung über die Beseitigung von Abfällen außerhalb von Abfallbeseitigungsanlagen“ regelte hierzu eine landesrechtliche Ausnahme in Bezug auf die Beseitigung von pflanzlichen Abfällen aus Gärten von Privathaushalten und Kleingärten durch Verbrennung innerhalb ihrer jeweiligen Freiflächen. Durch die Aufhebung der Verordnung gilt das bundesrechtliche Verbot nunmehr auch für die Beseitigung dieser Abfälle.
 
 Wesentliche Gründe für die Aufhebung waren die folgenden:
 
- Nach § 6 Absatz 1 und § 7 Absatz 2 KrWG hat die Verwertung von Abfällen grund-
+– Nach § 6 Absatz 1 und § 7 Absatz 2 KrWG hat die Verwertung von Abfällen grund-
 
 sätzlich Vorrang vor der Beseitigung. Gartenabfälle lassen sich in der Regel gut verwerten – sei es durch Kompostierung auf dem eigenen Grundstück oder durch getrennte Sammlung in der Biotonne mit anschließender Vergärung/Kompostierung. Diese Möglichkeit besteht inzwischen im gesamten Stadtgebiet.
 
- Bei einer Verbrennung von Gartenabfällen außerhalb dafür zugelassener Anlagen
+– Bei einer Verbrennung von Gartenabfällen außerhalb dafür zugelassener Anlagen
 
 werden die Abfälle weder stofflich noch energetisch genutzt, außerdem entstehen vermeidbare Geruchs- und Feinstaubbelastungen.
 
@@ -73,15 +74,15 @@ Welche zuständige Stelle hat zu welchem Zeitpunkt Privat- und Kleingärtner sow
 
 Die zuständige Fachbehörde hat über den Wegfall der Verordnung - über die amtliche Veröffentlichung im Gesetz- und Verordnungsblatt hinaus - wie folgt informiert:
 
- Gartenbesitzer: Information über die Internetseiten der Abteilung Abfallwirtschaft
+– Gartenbesitzer: Information über die Internetseiten der Abteilung Abfallwirtschaft
 
 am 20. Oktober 2017: http://www.hamburg.de/abfall/9742606/verbrennung-vongruenabfaellen-/.
 
- Kleingartenvereine: per E-Mail am 20. Oktober 2017 an den Landesbund der Gar-
+– Kleingartenvereine: per E-Mail am 20. Oktober 2017 an den Landesbund der Gar-
 
 tenfreunde in Hamburg e.V. Dieser informierte am 23. Oktober 2017 über seine Internetseite sowie im Dezember 2017 über die Mitgliederzeitschrift „Gartenfreund“.
 
- Öffentliche Einrichtungen: Informationen per Mail am 20. Oktober 2017 an alle
+– Öffentliche Einrichtungen: Informationen per Mail am 20. Oktober 2017 an alle
 
 Bezirksämter (Fachämter Technischer Umweltschutz sowie Management des öffentlichen Raumes), Polizei, Wasserschutzpolizei und Feuerwehr Hamburg.
 
@@ -129,7 +130,7 @@ Welche umweltschädlichen Gase entstehen im Durchschnitt in welchen Mengen beim 
 
 Sollten solche Messungen nicht durchgeführt worden sein, auf welche Quellen, unter Angabe der selbigen, stützt sich dann der Senat, die zur Neuregelung des Verbrennens von Gartenabfällen führten?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Der bei einer Verbrennung von Gartenabfällen maßgebliche Luftschadstoff ist Feinstaub (PM10). Den generellen Zusammenhang zwischen der Verbrennung von Gartenabfällen sowie erhöhten Feinstaubemissionen zeigt beispielhaft ein Bericht des Landesamtes für Umweltschutz Sachsen-Anhalt, Siehe dazu https://www.luesa.sachsen-anhalt.de/luesa/Berichte/Sonderberichte/ SB_Gartenabfall_2009_update_2011.pdf.
 
@@ -157,7 +158,7 @@ Kann aus Sicht des Senats sowohl falsch als auch richtig kompostiert werden? Wen
 
 Welche Fehler kann man seitens des Senats beim Kompostieren machen?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Informationen und Empfehlungen zur richtigen Eigenkompostierung gibt die Kompostfibel  
 des  

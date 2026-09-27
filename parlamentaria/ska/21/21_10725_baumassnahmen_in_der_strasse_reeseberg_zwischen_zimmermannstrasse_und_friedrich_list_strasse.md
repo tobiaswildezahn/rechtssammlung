@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59630"
@@ -66,7 +67,7 @@ Kam es zu Verzögerungen bei der Fertigstellung der Baumaßnahme? Wenn ja, warum
 
 Kam es zu Unterbrechungen der Bautätigkeit? Wenn ja, in welchem Zeitraum und warum?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nein.
 

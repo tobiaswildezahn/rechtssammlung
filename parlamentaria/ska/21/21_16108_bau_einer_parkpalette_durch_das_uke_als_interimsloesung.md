@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 33
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65616"
@@ -153,7 +154,7 @@ Die im Zukunftsplan 2050 des UKE definierte Gebäudestrategie soll umgesetzt wer
 
 Sofern bei einzelnen Gebäuden keine Tiefgaragenplätze geplant sein sollten: Warum soll in diesen Fällen auf Tiefgaragenplätze verzichtet werden?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Die derzeitige Bauplanung sieht die Errichtung einer Tiefgarage mit 496 Stellplätzen unter dem Neubau des UHZ vor. Die Neubauvorhaben UHZ, Martini-Klinik und Campus Forschung II und HCTI liegen im unmittelbaren räumlichen Bezug zueinander, sodass eine gemeinsame Tiefgarage für diesen Bereich auch unter Berücksichtigung der Bau- und Unterhaltungskosten auskömmlich ist.
 

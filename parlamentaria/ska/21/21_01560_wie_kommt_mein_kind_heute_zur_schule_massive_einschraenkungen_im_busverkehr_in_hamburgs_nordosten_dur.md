@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49781"
@@ -55,7 +56,7 @@ Wie viele Fahrten welcher Buslinien fielen im Einzelnen wegen der Streikmaßnahm
 
 Wie viele Fahrgäste aus Hamburg waren von den Ausfällen betroffen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Wegen der Streikmaßnahmen am 14. September 2015 ist es den hiervon betroffenen Verkehrsunternehmen nicht möglich, alle erforderlichen Angaben in der Kürze der zur Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit zu ermitteln und zur Verfügung zu stellen. Die vorhandenen Personalkapazitäten wurden zur Minderung der Streikauswirkungen eingesetzt.
 

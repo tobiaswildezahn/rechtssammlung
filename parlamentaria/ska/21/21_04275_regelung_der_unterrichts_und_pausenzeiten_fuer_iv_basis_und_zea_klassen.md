@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 47
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1532", "21/3051", "21/2203", "21/2627", "21/4269", "21/2990"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52670"
@@ -76,7 +77,7 @@ Um welche Uhrzeit beginnt jeweils der morgendliche Unterricht für die Stammsch�
 
 Zu welcher Uhrzeit wird/werden jeweils die große/en Pause/en (Hofpause/en) für die Stammschüler/-innen an den unter 1. aufgeführten Standorten abgehalten (Stand 29.4.2016)? (Bitte mit Nennung des Standorts, der Schulform, des Bezirks und des KESS-Faktors in einer Tabelle angeben.) a. Zu welcher Uhrzeit wird/werden jeweils die große/en Pause/en (Hofpause/en) für die ZEA-Klassen-Schüler/-innen an den unter 1. aufgeführten Standorten abgehalten? (Bitte den vorgegebenen Parametern entsprechend in die Tabelle zu 4. integrieren.) b. Wie ist die Abweichung für die ZEA-Klassen allgemein fachlich/ sachlich begründet? c. Zu welcher Uhrzeit wird/werden jeweils die große/en Pause/en (Hofpause/en) für die Basisklassen-Schüler/-innen an den unter 1. aufgeführten Standorten abgehalten? (Bitte den vorgegebenen Parametern entsprechend in die Tabelle zu 4. integrieren.) d. Wie ist die Abweichung für die Basisklassen allgemein fachlich/ sachlich begründet? e. Zu welcher Uhrzeit wird/werden jeweils die große/en Pause/en (Hofpause/en) für die IV-Klassen-Schüler/-innen an den unter 1. aufgeführten Standorten abgehalten? (Bitte den vorgegebenen Parametern entsprechend in die Tabelle zu 4. integrieren.) f. Wie ist die Abweichung für die IV-Klassen allgemein fachlich/ sachlich begründet?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die ZEA-Lerngruppen werden in der Regel innerhalb der ZEA beschult und nur in Ausnahmefällen an den Stammschulen. Aufgrund der Notwendigkeit, den Transport beziehungsweise die fußläufige Anreise der Kinder von der ZEA zu organisieren sowie die Essenszeiten in den Erstaufnahmen zu beachten, kann es zu Abweichungen beim Unterrichtsbeginn und in der Folge den Pausenzeiten kommen, siehe hierzu Vorbemerkung und Drs. 21/2203, Drs. 21/2627 sowie Drs. 21/4269.
 

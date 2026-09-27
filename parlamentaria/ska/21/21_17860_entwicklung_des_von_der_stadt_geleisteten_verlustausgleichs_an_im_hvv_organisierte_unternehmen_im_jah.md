@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67467"
@@ -43,7 +44,7 @@ In welcher Höhe hat die Stadt Hamburg im Jahr 2018 jeweils Verlustausgleichszah
 
 Wie haben sich die Kostendeckungsgrade der im HVV organisierten Unternehmen mit städtischer Beteiligung im Jahr 2018 entwickelt? (Bitte nach Unternehmen getrennt aufschlüsseln.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Aufgrund des seit dem 1. Januar 2018 bestehenden Verkehrsvertrags mit der AKN Eisenbahn GmbH (vormals AKN Eisenbahn AG) hat die Freie und Hansestadt Hamburg (FHH) für das Jahr 2018 keine Verlustausgleichszahlungen mehr an die AKN geleistet; ein Gewinn wurde nicht ausgeschüttet. Im Übrigen haben sich die Verlustausgleiche durch die FHH bzw. die HGV Hamburger Gesellschaft für Vermögens- und Beteiligungsmanagement mbH (HGV) und die Kostendeckungsgrade im Geschäftsjahr 2018 folgendermaßen entwickelt:
 

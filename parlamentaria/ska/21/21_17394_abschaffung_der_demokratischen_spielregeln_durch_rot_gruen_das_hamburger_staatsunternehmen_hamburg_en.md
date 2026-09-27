@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 20
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66976"
@@ -75,7 +76,7 @@ In welcher Form war der im Impressum der Facebook-Seite genannte Aufsichtsratsvo
 
 Hat der Aufsichtsratsvorsitzende Kerstan an der Planung dieser Werbemaßnahme mitgewirkt? Wenn ja, in welcher Form ist dies geschehen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 
@@ -87,7 +88,7 @@ In welcher Form hat der Senat sichergestellt, dass sich städtische Behörden un
 
 Wer ist für diese Information zur Neutralitätsverpflichtung im Senat verantwortlich?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Beschlüsse des Senats zur Neutralitätspflicht existieren bereits seit 1947. Sie sind Ausfluss des Demokratieprinzips und finden ihre Rechtsgrundlage in Artikel 20 und Artikel 21 Grundgesetz (GG).
 

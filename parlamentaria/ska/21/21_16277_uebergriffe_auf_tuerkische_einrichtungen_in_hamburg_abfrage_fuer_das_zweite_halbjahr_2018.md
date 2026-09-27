@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3165", "21/12434"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65792"
@@ -77,7 +78,7 @@ Wie schätzt der Senat die Bedrohungslage türkischer Einrichtungen in Hamburg g
 
 Wie hat sich die Bedrohungslage türkischer Einrichtungen nach Einschätzung im zweiten Halbjahr 2018 verändert?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung. Im Übrigen: unverändert.
 
@@ -89,6 +90,6 @@ Welche Maßnahmen hat die Stadt Hamburg im besagten Zeitraum zum Schutz türkisc
 
 Wie hoch beläuft sich nach Kenntnis des Senats der bei Übergriffen gegen türkische Einrichtungen entstandene Sachschaden? Bitte für das zweite Halbjahr 2018 beantworten.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Vorbemerkung. Im Übrigen: entfällt.

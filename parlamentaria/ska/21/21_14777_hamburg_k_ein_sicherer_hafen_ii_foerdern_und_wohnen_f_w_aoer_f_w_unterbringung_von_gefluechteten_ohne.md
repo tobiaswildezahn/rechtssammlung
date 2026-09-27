@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10281", "20/2171", "20/7049", "21/5231"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64218"
@@ -71,7 +72,7 @@ Welche Elemente kennzeichnen die Orientierungsberatung im Detail? Bitte genau da
 
 Welche Aufgaben umfasst das Unterkunftsmanagement konkret, welche das Sozialmanagement? Bitte genau darlegen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Zur Aktivierung und bedarfsgerechten Einbindung der in der örU untergebrachten Menschen in das Hilfesystem leistet das UKSM Orientierungsberatung. Diese stellt durch die regelmäßigen offenen Sprechstunden und durch aktive Kontaktaufnahme der UKSM-Mitarbeiterinnen und -Mitarbeiter zu den Bewohnerinnen und Bewohnern innerhalb der jeweiligen Einrichtung ein niedrigschwelliges Beratungsangebot dar. Dabei sind die Grundlagen des Handelns die ermittelten (Re-)Integrationsbedarfe der Bewohner. Das UKSM wirkt mit bei der Aktivierung und Re(-integration) der Bewohner in eine eigenständige Lebensführung und in das gesellschaftliche Umfeld. Das UKSM hat hierbei eine koordinierende und vermittelnde Rolle, deren Intensität von den Bedarfen der Einzelfälle abhängig ist. Das UKSM unterstützt die Anbindung an Regelsysteme, wie die ärztliche Versorgung oder den Besuch von Kitas und Schulen. Die Bewohnerinnen und Bewohner werden sowohl über ihre Rechte und Pflichten, die Leistungen des Regelsystems sowie spezifischere Hilfs- und Beratungsangebote informiert als auch dazu motiviert und aktiviert, diese Leistungen sowie weitere Angebote zur Einbindung in den Sozialraum und zum Spracherwerb wahrzunehmen.
 

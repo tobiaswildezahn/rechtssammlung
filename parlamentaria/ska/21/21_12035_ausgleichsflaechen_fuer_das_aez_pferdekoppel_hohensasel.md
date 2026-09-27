@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61294"
@@ -45,7 +46,7 @@ Welche Flächen dienen oder dienten als Ausgleichsflächen für das AEZ?
 
 Welche Flächen dienen oder dienten speziell für die Erweiterung des AEZ?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Bebauungsplan Poppenbüttel 26 sowie der auf die Weiterentwicklung des Alstertaler Einkaufszentrums (AEZ) gerichtete Bebauungsplan Poppenbüttel 38 sehen Kompensationsmaßnahmen insbesondere Begrünungs- und Pflanzmaßnahmen innerhalb ihrer Geltungsbereiche vor. Im Rahmen des Bebauungsplanverfahrens Poppenbüttel 38 wurden zudem einzelne Pflanzmaßnahmen außerhalb des Geltungsbereiches im Straßenraum vorgesehen.
 

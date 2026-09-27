@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 25
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["16/3610"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66828"
@@ -278,7 +279,7 @@ Wann endet der Immobilienleasingvertrag regulär? Falls es mittlerweile andere N
 
 Welche Regelungen enthält der Leasingvertrag beziehungsweise enthalten andere Nutzungsverträge im Hinblick auf eine frühzeitige Beendigung des Vertrages?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Der Immobilienleasingvertrag ist bis zum 25. Oktober 2034 regulär gültig. HMC könnte vorzeitig zum 26. Oktober 2020 sowie zum 26. April 2028 von einem Ankaufsrecht vertraglich Gebrauch machen. Bei einer vorzeitigen Vertragsbeendigung im Jahr 2020 wären noch offene Leasingraten, denen fest vereinbarte Zinsen unterliegen, zu entrichten.
 
@@ -320,7 +321,7 @@ Wie viele Betriebe mit wie vielen Arbeitsplätzen auf dem FGH-Gelände haben ein
 
 Welches Lkw-Verkehrsaufkommen wird durch den FGH im Durchschnitt täglich erzeugt (An- und Abfahrten)?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Die ansässigen Mieterinnen und Mieter nutzen ihre Betriebe für die Herstellung, die Be- und Verarbeitung und den Vertrieb von Fleisch und Fleischerzeugnissen sowie Lebensmittel aller Art, darüber hinaus auch für pachtzweckbezogene Handwerks-/und Dienstleistungen. Eine Differenzierung zwischen fleischverarbeitenden, das heißt handwerklichen Betrieben und Fleischvertriebsfirmen, das heißt handelsorientierten Betrieben sowie eine Angabe zum Verkehrsaufkommen sind nicht möglich, da hierüber keine Statistik geführt wird.
 

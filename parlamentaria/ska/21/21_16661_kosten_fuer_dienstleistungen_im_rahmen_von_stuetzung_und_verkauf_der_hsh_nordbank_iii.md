@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 4
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15770", "21/11810"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66183"
@@ -49,7 +50,7 @@ Wie hoch waren jeweils die gemäß aktuellem Sachstand 2018 sowie 2019 angefalle
 
 Welche weiteren Dritten wurden zu welchen jährlichen Kosten durch jeweils wen mit jeweils welchen Dienstleistungen beauftragt, die in Zusammenhang mit dem Verkauf der HSH Nordbank stehen? (Bitte, nach Organisationen differenziert, jahresweise sowie als Summe auflisten und dabei jeweiligen Auftraggeber benennen.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zu den bisher abgerechneten Kosten bis 2018 siehe Drs. 21/11810 und 21/15770. Für das Jahr 2019 sind bislang für Rechtsberater Kosten in Höhe von 35 000 Euro bei der HoldCo und 25 000 Euro bei der Finfo angefallen. Aufgrund von Gutschriften oder durch später eingegangene Rechnungen haben sich folgende Werte gegenüber der Drs. 21/15770 verändert: bei der Finfo Kosten für Treuhänder (10 046 000 Euro im Jahr 2018) und bei der hsh pm für Wirtschaftsprüfer (2 500 000 Euro im Jahr 2018). Aufgrund der Einbeziehung der Kostenerstattung durch die HSH für den Konzernabschluss ergab sich eine Anpassung der Zahlungen der HoldCo an Wirtschaftsprüfer für die Jahre 2017 (1 660 000 Euro) sowie 2018 (240 000 Euro) gegenüber der Drs. 21/15770. Bei der hsh pm werden Teile der Rechtsberatungsleistungen an die Kunden weitergeleitet, wenn es sich um Leistungen im Rahmen von Restrukturierungen handelt. Hierzu stehen Geldeingänge aus, die als Erträge den Aufwendungen gegenüber zu stellen sind. Ferner teilte die hsh pm mit, für 2019 lägen noch keine belastbaren Zahlen vor. Unmittelbar aus dem Haushalt der Länder finanzierte Kosten für Beratungsleistungen fielen nicht an.
 

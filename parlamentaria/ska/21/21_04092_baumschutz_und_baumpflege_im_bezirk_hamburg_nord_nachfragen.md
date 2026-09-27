@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3898", "21/2471", "21/917", "20/11402"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52480"
@@ -69,7 +70,7 @@ Wie viele Straßenbäume wurden im Bezirk Hamburg-Nord in der Zeit vom 1. Juni 2
 
 Wie viele Straßenbäume wurden im Bezirk Hamburg-Nord in der Zeit vom 1. Juni 2010 bis 31. Mai 2015 neu gepflanzt? Bitte pro Jahr unter Angabe von Standort und Baumart darstellen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Für das Jahr 2015 siehe Drs. 21/2471, für das Jahr 2014 siehe Drs. 21/917, für die Jahre 2010 – 2013 siehe Drs. 20/11402.
 

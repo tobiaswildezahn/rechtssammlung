@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 5
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9930", "21/5141"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58838"
@@ -53,7 +54,7 @@ Ist dem Senat oder der zuständigen Behörde bekannt, ob PROSOZ auch in Hamburge
 
 Hat der Senat oder die zuständige Behörde anlässlich der Vergabe der PROSA-Nachfolge überprüft, ob Mitarbeiter der federführenden Behörde für Arbeit, Soziales, Familie und Integration und vor allem die Mitglieder des Gremiums, das entscheidet, welches Unternehmen den Zuschlag erhält, als freie Mitarbeiter für PROSOZ tätig sind? Wenn ja, mit welchem Ergebnis? Wenn nein, warum nicht, obwohl der Vorwurf gegenüber PROSOZ öffentlich bekannt ist?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Dem Senat sind keine diesbezüglichen Nebentätigkeiten bekannt. Im Übrigen siehe Vorbemerkung.
 

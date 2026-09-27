@@ -10,12 +10,13 @@ urheber: ["Heike Sudmann"]
 fraktionen: ["Die Linke"]
 vorgang: 45804
 seiten: 2
-fragen: 0
-einzelfragen: 0
-antwortbloecke: 0
+fragen: 6
+einzelfragen: 17
+antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50078"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/50078/21_01852_zusaetzlicher_wohnungsbau_fuer_fluechtlinge_in_wandsbek"
 abgerufen: "2026-09-27"
@@ -27,9 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Heike Sudmann (DIE LINKE) vom 06.10.15 und Antwort des Senats · Drucksache vom 13.10.2015  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/50078) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/50078/21_01852_zusaetzlicher_wohnungsbau_fuer_fluechtlinge_in_wandsbek)
 
-## Volltext
-
-Zusätzlicher Wohnungsbau für Flüchtlinge in Wandsbek
+## Einleitung für die Fragen
 
 Als Reaktion auf den absehbaren Zusatzbedarf an Wohnraum für Flüchtlinge will der Senat in jedem Bezirk zusätzlich 800 Wohneinheiten kurzfristig in 2016 errichten lassen. Hierzu sollen Investoren/-innen gewonnen werden, die bereit sind, den Wohnraum im geförderten Wohnungsbau zu erstellen und diesen zumindest teilweise für einen gewissen Zeitraum für die öffentlichrechtliche Unterbringung zur Verfügung zu stellen.
 
@@ -37,19 +36,35 @@ Im Bezirk Wandsbek wurden jetzt vier in öffentlichem Eigentum befindliche Fläc
 
 Vor diesem Hintergrund frage ich den Senat:
 
+## Fragen und Antworten
+
+### Frage 1
+
 1.) Auf welcher rechtlichen Grundlage soll die oben angeführte Bebauungsplanung durchgeführt werden? Bitte gegebenenfalls auch ausführen, welche baurechtlichen Neuregelungen derzeit auf Bundes- und Landesebene erarbeitet werden, wann mit Beschlüssen und Information der betroffenen politischen Gremien zu rechnen ist.
+
+#### Antwort zu Frage 1
 
 Mit dem Asylverfahrensbeschleunigungsgesetz des Bundes werden voraussichtlich am 01. November 2015 weitere bauplanungsrechtliche Erleichterungen für die Flüchtlingsunterbringung in § 246 BauGB in Kraft treten, die dann auch in Baugenehmigungsverfahren für Flüchtlingsunterkünfte berücksichtigt werden können beziehungsweise müssen. Die zuständigen Bezirksämter können die betroffenen Gremien informieren. Änderungen des Landesrechts sind nicht vorgesehen. Für Anschlussnutzungen, insbesondere die vorgesehenen Wohnnutzungen, ist die Aufstellung von Bauleitplänen einschließlich der jeweils notwendigen Öffentlichkeits- und Behördenbeteiligung vorgesehen. Die Bezirksämter sind grundsätzlich gehalten, zusätzlich Bürgerinformationsveranstaltungen durchzuführen.
 
+### Frage 2
+
 2.) Wer soll die Entwurfsplanung durchführen?
 
+#### Antwort zu Frage 2
+
 Für die Fläche am Ohlendieck/Poppenbüttler Berg erfolgt eine Entwurfsplanung durch einen öffentlichen Träger. Für die übrigen Flächen ist noch nicht festgelegt, wer die Planung durchführt.
+
+### Frage 3
 
 2.)1. Gibt es bereits Modelle zu Architektur und städtebaulichem Charakter der neuen Wohngebiete?
 
 Wenn ja, wo finden sich die Modelle und inwieweit sind diese öffentlich zugänglich?
 
+#### Antwort zu Frage 3
+
 Nein.
+
+### Frage 4
 
 2.)2. Hat der Senat bereits Planungsbüros oder Hochschulen mit besonderen Konzepten für diesen Sonderfall der Bebauung zu Rate gezogen?
 
@@ -61,7 +76,11 @@ Wenn nein, warum nicht?
 
 Wenn ja, wann und mit welchen Akzentsetzungen beziehungsweise Themen?
 
+#### Antwort zu Frage 4
+
 Die zuständige Fachbehörde führt zunächst mit den Bezirksämtern und den interessierten Investoren Gespräche.
+
+### Frage 5
 
 3.) Hat der Senat geprüft, ob das städtische Wohnungsunternehmen SAGA GWG oder Unternehmen der genossenschaftlichen Wohnungswirtschaft als Vorhabenträger infrage kommen?
 
@@ -69,7 +88,11 @@ Wenn ja, mit welchen Ergebnissen?
 
 Wenn nein, warum nicht?
 
+#### Antwort zu Frage 5
+
 Die zuständige Behörde führt zurzeit Gespräche mit der SAGA GWG und den Genossenschaften, die noch nicht abgeschlossen sind.
+
+### Frage 6
 
 3.)1. In was für einem Verfahren und nach welchen Kriterien sollen die Vorhabenträger ausgesucht werden?
 
@@ -80,6 +103,8 @@ Die zuständige Behörde führt zurzeit Gespräche mit der SAGA GWG und den Geno
 4.)2. Hat der Senat Alternativen, wie etwa Erbpachtverträge, geprüft, um diese für die Stadtentwicklung bedeutsamen Flurstücke nicht dauerhaft dem öffentlichen Einfluss zu entziehen?
 
 5.) Welcher – auch nur vorläufige – Zeitplan für Planaufstellung, Beteiligungsverfahren, Auftragsvergabe und Durchführung liegt der Zielvorgabe „Fertigstellung Ende 2016“ zugrunde?
+
+#### Antwort zu Frage 6
 
 Die Verfahren orientieren sich am jeweiligen konkreten Einzelfall und sind noch nicht bestimmt.
 

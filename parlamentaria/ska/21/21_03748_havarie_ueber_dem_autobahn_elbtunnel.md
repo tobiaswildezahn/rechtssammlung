@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52119"
@@ -60,6 +61,6 @@ War der Lotse noch nicht an Bord oder war es wieder ein „gutes“ Notfallmanö
 
 Sind wir nach den Havarien der „CSCL INDIAN OCEAN“ und der „Sandness“ knapp von einer dritten Havarie verschont geblieben?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Hafenlotsen waren an Bord. Im Übrigen siehe Vorbemerkung.

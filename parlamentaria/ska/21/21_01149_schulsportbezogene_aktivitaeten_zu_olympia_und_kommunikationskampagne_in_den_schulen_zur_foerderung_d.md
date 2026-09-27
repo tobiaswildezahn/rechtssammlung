@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 10
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49329"
@@ -66,7 +67,7 @@ a) in den staatlichen berufs- und allgemeinbildenden Schulen,
 b) in den Privatschulen,
 c) in den Jugendeinrichtungen über das Olympiareferendum zu informieren?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Wie alle Abstimmungsberechtigten erhalten auch die 16- und 17-Jährigen ab dem
 26. Oktober 2015 die Abstimmungsunterlagen einschließlich der Informationsbroschüre zum Bürgerschaftsreferendum am 29. November 2015 per Post.
@@ -89,7 +90,7 @@ Was unternimmt der Senat, um das Gebot der Sachlichkeit und Objektivität bezüg
 
 In welcher konkreten Form sollen die unterschiedlichen Positionen – sowohl der Gegner als auch der Befürworter – bezüglich Olympia 2024 an den Hamburger Schulen vermittelt werden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 An allen Schulen gelten als Leitlinien für die Vermittlung gesellschaftlicher Themen die in den Rahmenplänen für den gesellschaftswissenschaftlichen Unterricht enthaltenen didaktischen Grundsätze. Diese sind unter anderem: Überwältigungs- beziehungsweise Indoktrinationsverbot, Ausgewogenheits- beziehungsweise Kontroversitätsgebot sowie Schülerorientierung. Diese Grundsätze gelten auch für die Behandlung des Themas Bürgerschaftsreferendum Olympia.
 
@@ -99,13 +100,13 @@ Die Leitung „Referat Unterrichtsentwicklung Sport und des Projektes Schule und
 
 #### Antwort zu Frage 7
 
- Das Projekt „Olympia und Schule“ koordinieren.
+– Das Projekt „Olympia und Schule“ koordinieren.
 
- Die Verantwortung für die abteilungsübergreifende Koordination der
+– Die Verantwortung für die abteilungsübergreifende Koordination der
 
 Maßnahmen zur schulischen Begleitung des Olympiabewerbungsprozesses und bei erfolgreicher Bewerbung Hamburgs der weiteren Maßnahmen.
 
- Die schulsportliche Begleitung der Olympiabewerbung in den Schulen
+– Die schulsportliche Begleitung der Olympiabewerbung in den Schulen
 
 sowie die Entwicklung und Förderung des olympischen Gedankens in den Schulen und den Bezirken.
 

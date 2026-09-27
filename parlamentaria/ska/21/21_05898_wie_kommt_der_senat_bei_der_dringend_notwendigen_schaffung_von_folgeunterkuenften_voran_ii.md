@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5729"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54418"
@@ -43,6 +44,6 @@ Welche Folgeunterkünfte werden noch in diesem Jahr eröffnet? Bitte nach Stando
 
 Welche örU-Standorte sollen nach derzeitigen Planungen 2017 eröffnet werden? Bitte jeweils mit Platzzahl und Monat/Quartal der geplanten Inbetriebnahme angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe http://www.hamburg.de/fluechtlinge-unterbringung-standorte/. Darüber hinaus sind die Planungen noch nicht abgeschlossen.

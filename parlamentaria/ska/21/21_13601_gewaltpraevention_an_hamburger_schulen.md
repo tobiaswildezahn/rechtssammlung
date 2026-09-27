@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13131", "18/7296", "19/8174", "20/5972", "21/13600", "20/9125", "20/12882", "21/1599", "21/5677", "21/10344"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62967"
@@ -37,11 +38,11 @@ Vor diesem Hintergrund frage ich den Senat:
 
 Empirische Studien zur Entwicklung der Jugendgewalt in Deutschland (zum Beispiel Dunkelfeldstudien) und die Polizeilichen Kriminalstatistiken verweisen seit geraumer Zeit auf die deutlichen Rückgänge der Jugendgewalt im schulischen Kontext:
 
-• Baier, D., Pfeiffer, C. et al. (2010): Kinder und Jugendliche in Deutschland: Gewalterfahrungen, Integration, Medienkonsum. Zweiter Bericht zum gemeinsamen Forschungsprojekt des Bundesministeriums des Innern und des Kriminologischen Forschungsinstituts Niedersachsen e.V. (KFN).
+– Baier, D., Pfeiffer, C. et al. (2010): Kinder und Jugendliche in Deutschland: Gewalterfahrungen, Integration, Medienkonsum. Zweiter Bericht zum gemeinsamen Forschungsprojekt des Bundesministeriums des Innern und des Kriminologischen Forschungsinstituts Niedersachsen e.V. (KFN).
 
-• Kammigan, I. & Enzmann D. (2017): Erklärung und Prävention von Jugendkriminalität. Ergebnisse der Befragung an Hamburger Schulen im Jahr 2015. Universität Hamburg.
+– Kammigan, I. & Enzmann D. (2017): Erklärung und Prävention von Jugendkriminalität. Ergebnisse der Befragung an Hamburger Schulen im Jahr 2015. Universität Hamburg.
 
-• Pfeiffer, C., Baier, D. & Kliem, S. (2018): Zur Entwicklung der Gewalt in Deutschland. Schwerpunkte: Jugendliche und Flüchtlinge als Täter und Opfer. KFN.
+– Pfeiffer, C., Baier, D. & Kliem, S. (2018): Zur Entwicklung der Gewalt in Deutschland. Schwerpunkte: Jugendliche und Flüchtlinge als Täter und Opfer. KFN.
 
 Im Übrigen siehe Drs. 21/13131.
 

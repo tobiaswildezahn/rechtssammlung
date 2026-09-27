@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69317"
@@ -57,7 +58,7 @@ Wie viele Kilometer Radverkehrsanlagen wurden 2019 in Hamburg gebaut, saniert un
 
 Wie hat sich die Kilometerzahl gebauter, sanierter und gewidmeter Radverkehrsanlagen in Hamburg in den Jahren 2015 bis 2018 entwickelt? Bitte jahresweise aufschlüsseln sowie für Hamburg gesamt und die einzelnen Bezirke angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bezirk  
 2015 (m)  
@@ -223,7 +224,7 @@ Welche Radwege in Hamburg wurden 2019 aus welchen Gründen und zu welchen Kosten
 
 Welche Radwege in Hamburg wurden in den Jahren 2015 bis 2018 aus welchen Gründen und zu welchen Kosten abgerissen? Bitte jahresweise aufschlüsseln sowie die Länge in Metern der jeweiligen Abrissstrecke angeben.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Straßenbegleitende Radwege werden nicht „abgerissen“ (= Fläche nicht mehr nutzbar), sondern der angrenzende Gehweg wird zugunsten der Fußgängerinnen und Fußgänger ausgebaut beziehungsweise verbreitert. Dies geschieht in der Regel dort, wo ein alter, nicht anforderungsgerechter Radweg nicht in Regelmaße überführt werden kann und/oder wo aufgrund der Platzverhältnisse die Radverkehrsführung in Bezug auf den Fußverkehr nicht konfliktfrei ist.
 

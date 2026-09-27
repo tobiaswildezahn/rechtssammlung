@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 19
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51712"
@@ -47,7 +48,7 @@ Ist Hapag-Lloyd von dem vorgenannten Kartellverfahren der EU- Kommission betroff
 
 Seit wann genau war HL Teil des Kartellverfahrens der EU-KOM? Inwieweit wurden die Untersuchungen der EU-KOM wann und in welcher Weise intensiviert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ja. Im Mai 2011 haben Durchsuchungen der Räume bei HL und anderen Reedereien stattgefunden. Im April und im Oktober 2013 gab es Auskunftsersuchen der Europäischen Kommission (EU-KOM).
 

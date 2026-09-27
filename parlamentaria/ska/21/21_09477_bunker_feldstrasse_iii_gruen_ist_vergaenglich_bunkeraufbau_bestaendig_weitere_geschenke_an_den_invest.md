@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 16
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9203", "21/9172"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58242"
@@ -33,35 +34,35 @@ Allein die Chronologie der letzten zwei Monate rund um die Vertragsunterzeichnun
 
 ## Einleitung für die Antworten des Senats
 
- Am 17. März 2017 wurde der städtebauliche Vertrag zwischen der Freien
+– Am 17. März 2017 wurde der städtebauliche Vertrag zwischen der Freien
 
 und Hansestadt Hamburg und dem Investor Matzen unterschrieben.
 
- Am 07. April 2017 wurde der Erbbaurechtsvertrag von beiden Seiten vor
+– Am 07. April 2017 wurde der Erbbaurechtsvertrag von beiden Seiten vor
 
 einem Notar unterschrieben.
 
- Am 16. Mai 2017 hat der Senat seine Entscheidung über den Bunker und
+– Am 16. Mai 2017 hat der Senat seine Entscheidung über den Bunker und
 
 die Verträge vertagt – aus formalen Gründen laut Senatspressesprecher.
 
- Am 23. Mai 2017 stimmt der Senat dem Erbbaurecht (und allem anderen)
+– Am 23. Mai 2017 stimmt der Senat dem Erbbaurecht (und allem anderen)
 
 zu.
 
- Am 30. Mai 2017 leitet der Senat die Drs. 21/9203 der Bürgerschaftsprä-
+– Am 30. Mai 2017 leitet der Senat die Drs. 21/9203 der Bürgerschaftsprä-
 
 sidentin zu.
 
- Am 31. Mai 2017 abends erhielten alle Bürgerschaftsabgeordneten über
+– Am 31. Mai 2017 abends erhielten alle Bürgerschaftsabgeordneten über
 
 die Parlamentsdienste die Information, dass die Drucksache jetzt zugänglich ist.
 
- Am 08.6.2017 (Donnerstag) werden die Bürgerschaftsfraktionen gefragt,
+– Am 08.6.2017 (Donnerstag) werden die Bürgerschaftsfraktionen gefragt,
 
 ob sie einer Vorwegüberweisung der Drucksache in den Haushaltsausschuss mit Sitzung am 13. Juni 2017 (Dienstag) zustimmen. Regulär hätte die Bürgerschaft in ihrer Sitzung am 14.6.17 über eine Überweisung entschieden. Die Fraktion DIE LINKE hat der Vorwegüberweisung aufgrund des künstlichen geschaffenen Zeitdrucks und der fehlenden Zeit für eine sorgfältige Vorbereitung nicht zugestimmt. Die rot-grüne Mehrheit hat sich für die Vorwegüberweisung ausgesprochen. Im Ergebnis entschied sich dann die Bürgerschaftspräsidentin für die Vorwegüberweisung.
 
- Am 13.6.2017 wird die Drucksache im Haushaltsausschuss aufgerufen.
+– Am 13.6.2017 wird die Drucksache im Haushaltsausschuss aufgerufen.
 
 Die Fraktion DIE LINKE beantragt eine Vertagung, da der Senat ausreichend Zeit gehabt hat, der Bürgerschaft rechtzeitig die Drucksache zuzuleiten. Wenn schon die Freie und Hansestadt Hamburg und der Investor nach ihren jahrelangen Verhandlungen vor dem Notar erklären, dass
 

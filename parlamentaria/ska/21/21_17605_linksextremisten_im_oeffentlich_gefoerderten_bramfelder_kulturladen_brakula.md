@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 29
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15989", "21/15134", "21/16473", "21/16474"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67193"
@@ -77,7 +78,7 @@ Wie bewertet die Behörde für Kultur und Medien die Durchführung der Veranstal
 
 Wie würde die Behörde für Kultur und Medien reagieren, wenn in einem öffentlich geförderten Kulturzentrum eine rechtsextremistische gewaltorientierte Gruppierung eine Veranstaltung zum Beispiel zum Thema „Was tun gegen den Linksruck?“ durchführen würde? Insbesondere: Würde die Behörde für Medien und Kultur eine sich darauf beziehende Nachfrage durch eine Fraktion des linken Spektrums als „Angriff auf die Kunstfreiheit“ betrachten?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/15134.
 
@@ -107,17 +108,17 @@ Zur Vergabe von Fördermitteln an Kultureinrichtungen bis einschließlich 2018 s
 
 Das zuständige Bezirksamt hat 2019 bislang folgende Mittel für den Bramfelder Kulturladen e.V. bewilligt:
 
- Förderung der laufenden Stadtteilkulturarbeit und Betrieb der Einrichtung (267 442
+– Förderung der laufenden Stadtteilkulturarbeit und Betrieb der Einrichtung (267 442
 
 Euro),
 
- 20 Kindertheateraufführungen (4 940 Euro),
+– 20 Kindertheateraufführungen (4 940 Euro),
 
- Ausrichtung des fünftägigen Workshops „#wortgewandt“ (2 300 Euro),
+– Ausrichtung des fünftägigen Workshops „#wortgewandt“ (2 300 Euro),
 
- Ausrichtung des 29. Bramfelder Stadtteilfestes (2 370,28 Euro),
+– Ausrichtung des 29. Bramfelder Stadtteilfestes (2 370,28 Euro),
 
- Stadtteilarbeit (41 803,52 Euro).
+– Stadtteilarbeit (41 803,52 Euro).
 
 ### Frage 9
 
@@ -171,7 +172,7 @@ bb) Vereinigung der Verfolgten des Naziregimes – Bund der Antifaschisten e.V. 
 
 Fanden im gleichen Zeitraum im Bramfelder Kulturladen Veranstaltungen unter Beteiligung von extremistischen Gruppierungen anderer Bereiche (Extremisten mit Auslandsbezug, Islamisten, Rechtsextremisten) – die vom LfV als Beobachtungsobjekt eingestuft waren oder sind oder aus anderen Gründen in die Beobachtung einbezogen wurden/werden – statt? Bitte wie in Frage 10. aufschlüsseln.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Im Rahmen der Wahrnehmung seines gesetzlichen Auftrages nach § 4 Hamburgisches Verfassungsschutzgesetz liegen dem Landesamt für Verfassungsschutz neben der in der Anfrage genannten Veranstaltung vom 7. Mai 2019 keine Erkenntnisse im Sinne der Fragestellungen vor. Darüber hinaus ist eine Regelanfrage beim Verfassungsschutz vor der Vermietung gesetzlich nicht vorgesehen.
 

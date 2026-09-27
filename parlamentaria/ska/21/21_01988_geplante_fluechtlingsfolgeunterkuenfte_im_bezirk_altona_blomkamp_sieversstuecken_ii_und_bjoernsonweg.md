@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 19
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50233"
@@ -65,11 +66,11 @@ Es wurde kein Bezugsdatum genannt. Eine Nutzungsübergabe der Anlage wurde für 
 
 Die Inbetriebnahme der Einrichtung und der Einzug der Bewohner in die Folgeunterkunft erfolgt voraussichtlich in der zweiten Januarwoche 2016. Die Verzögerung hat sich aus folgenden Gründen ergeben:
 
- die Verhandlungen über den Mitnutzungsvertrag, die Vermessung der Fläche und
+– die Verhandlungen über den Mitnutzungsvertrag, die Vermessung der Fläche und
 
 die Setzung des Sicherheitszauns als Abgrenzung zum militärischen Bereich dauerten länger als geplant.
 
- Die Vertragsunterzeichnung bedurfte der Zustimmung des Bundesministeriums für
+– Die Vertragsunterzeichnung bedurfte der Zustimmung des Bundesministeriums für
 
 Finanzen.
 

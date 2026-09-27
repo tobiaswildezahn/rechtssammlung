@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53426"
@@ -164,17 +165,17 @@ Die zuständige Behörde fördert den Träger „e.p.a“ (european play work as
 
 Das europäische Förderprogramm „Jugend in Aktion“ wurde von 2007 bis 2013 durchgeführt und wird seit 2014 durch das Programm „Erasmus+JUGEND IN AKTI- ON“ ersetzt. Dieses Programm richtet sich hauptsächlich an:
 
- junge Menschen zwischen 13 und 30 Jahren je nach Aktion und Projekt
+– junge Menschen zwischen 13 und 30 Jahren je nach Aktion und Projekt
 
- Jugendorganisationen
+– Jugendorganisationen
 
- Fachkräfte der Jugendarbeit
+– Fachkräfte der Jugendarbeit
 
- Träger der freien Jugendhilfe
+– Träger der freien Jugendhilfe
 
- Organisationen und Einrichtungen im Jugendbereich und
+– Organisationen und Einrichtungen im Jugendbereich und
 
- kommunale und regionale Behörden
+– kommunale und regionale Behörden
 
 Eine besondere Priorität dieses Programms liegt auf der Teilnahme von jungen Menschen mit erhöhtem Förderbedarf. Die Auflistung der geförderten Maßnahmen sowie
 
@@ -398,15 +399,15 @@ Im neuen Programm Erasmus+ Jugend in Aktion wurden seit 2014 folgenden Hamburger
 
 Leitaktion 1: Mobilität von Einzelpersonen (Studierende, Berufsschüler, Auszubildende, junge Menschen in Jugendaustausch und Freiwilligentätigkeit); Mobilität von Personal sowie im Jugendbereich.
 
-  
+–  
 DIALOGOS e.V. für fünf Projekte  
-  
+–  
 Arbeitersamariterbund Hamburg e.V. für ein Projekt  
-  
+–  
 AFS Interkulturelle Begegnungen e.V. für einem Projekt  
-  
+–  
 european playwork association (e.p.a.) für zwei Projekte
 
 Leitaktion 3: Maßnahmen zur Unterstützung von innovativen Reformagenden, politischen Dialogen und Wissenstransfer in den Bereichen Bildung, Ausbildung und Jugend - Strukturierter Dialog.
 
- european playwork association (e.p.a.) für ein Projekt
+– european playwork association (e.p.a.) für ein Projekt

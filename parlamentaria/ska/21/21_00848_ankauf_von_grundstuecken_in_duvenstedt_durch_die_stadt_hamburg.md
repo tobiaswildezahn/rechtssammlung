@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/710"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49009"
@@ -98,7 +99,7 @@ Wie werden diese Grundstücke bislang genutzt? Welche Änderungen sind geplant?
 
 Welche Maßnahmen sollen auf diesen Flächen umgesetzt werden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Als Grünlandflächen. Es handelt sich dabei um artenarme Grünlandbestände, die durch eine Artenanreicherung aufgewertet werden sollen. Zudem ist vorgesehen, Drainagen zu entfernen, Kleingewässer anzulegen und die Bewirtschaftung naturschutzfachlich zu steuern.
 

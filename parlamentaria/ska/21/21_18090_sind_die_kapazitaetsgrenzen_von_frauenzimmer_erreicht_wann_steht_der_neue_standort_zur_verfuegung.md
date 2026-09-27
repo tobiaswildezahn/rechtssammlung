@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13493", "21/7918", "21/6940", "21/6939"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67712"
@@ -53,7 +54,7 @@ Wie hat sich die Auslastung der Einrichtung „FrauenZimmer“ seit Januar 2019 
 
 Wird die Auslastung der Übernachtungsstätten regelmäßig veröffentlicht und wenn ja, wo?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Kapazität der Übernachtungsstätte beläuft sich aktuell auf 30 Plätze. Für die Monate Januar bis Juli 2019 ergibt sich aus den Belegungszahlen (Stichtag ist jeweils der letzte Tag des Monats) folgende Auslastung:
 
@@ -129,7 +130,7 @@ Ist weiterhin eine Erweiterung der Platzkapazitäten geplant und wenn ja, wann w
 
 Wie viele Plätze werden nach einer Erweiterung der Platzanzahl in der Notübernachtung zur Verfügung stehen und wie viele Wohnplätze werden zur Verfügung stehen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung. Im Übrigen sind die Überlegungen und Planungen hierzu noch nicht abgeschlossen.
 
@@ -141,6 +142,6 @@ Laut Schreiben der Sozialsenatorin an die Bezirksversammlung Mitte vom 3. Juli 2
 
 Ist eine Aufstockung der personellen Ressourcen entsprechend der Erweiterung der Platzkapazitäten am neuen Standort geplant?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Platzerweiterung der Frauenübernachtung wird mit einer Verbesserung der Belegungsstandards einhergehen. Zudem werden voraussichtlich drei Tagesräume zur Verfügung gestellt. Darüber hinaus ermöglicht die Erweiterung der Plätze die etagenweise Abtrennung der Übernachtungsplätze für jungerwachsene Frauen. Weitergehende Detailplanungen sind noch nicht abgeschlossen. Eine Aussage zur genauen Ausstattung der Sanitärräume und zur Personalplanung kann daher derzeit noch nicht getroffen werden. Im Übrigen siehe Vorbemerkung.

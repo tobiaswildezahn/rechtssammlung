@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18807"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68512"
@@ -51,7 +52,7 @@ Wie viele Kitas haben die Behörde inzwischen zum Konzept „Original Play“ od
 
 Wie viele Beschwerden von Eltern erreichten den Senat beziehungsweise die zuständigen Behörden in den Jahren 2015 bis heute im Zusammenhang mit dem Konzept „Original Play“ oder vergleichbaren Methoden? (Bitte jahresweise nach Art der Beschwerde und Umgang mit der Beschwerde aufschlüsseln.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die für Kindertagesbetreuung zuständige Behörde wurde von drei Kitas in Bezug auf die Methode „Original Play“ kontaktiert. Fragen oder Hinweise zu ähnlichen Methoden gab es nicht. Darüber hinaus gab es eine Elternbeschwerde zu der Methode „Original Play“ im Jahr 2017.
 

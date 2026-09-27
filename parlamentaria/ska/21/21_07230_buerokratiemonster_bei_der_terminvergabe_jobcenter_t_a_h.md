@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55824"
@@ -51,7 +52,7 @@ In welchen Jobcentern von Jobcenter t.a.h. besteht diese Fünf-Tages- Regelung? 
 
 Welche Rechtsgrundlage, Weisung oder Arbeitshilfe dient als Grundlage, zunächst innerhalb von fünf Tagen ein sogenanntes Ticket zu erstellen? Bitte jeweils einzeln nach Standorten auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

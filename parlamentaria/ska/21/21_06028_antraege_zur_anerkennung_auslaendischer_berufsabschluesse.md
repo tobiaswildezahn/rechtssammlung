@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5832"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54537"
@@ -117,7 +118,7 @@ Welche Maßnahmen wurden durch das Stipendienprogramm gefördert?
 Wie viele Anträge nach dem Stipendienprogramm sind seit dem
 1.1.2014 bewilligt worden? Bitte differenzieren nach laufenden Leistungen und Einmalleistungen und nach der Kostenart.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Das Stipendienprogramm finanziert Maßnahmen im Rahmen von Anerkennungsverfahren und Ausbildung. Wesentliche Förderkonstellationen sind etwa Anpassungslehrgänge im Rahmen der Anerkennungsverfahren, etwa Anpassungsmaßnahmen zur Erzieherin/zum Erzieher oder die Kosten zur Sicherung des Lebensunterhalts als fortlaufende Leistung bei Aufnahme einer Ausbildung. Im Übrigen siehe Anlage 5 und https://www.ifbhh.de/fileadmin/pdf/IFB_Download/IFB_Foerderrichtlinien/FoeRi_Stipen dienprogramm.pdf.
 

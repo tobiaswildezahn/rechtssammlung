@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 22
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7671", "20/14329", "20/14535"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48321"
@@ -45,23 +46,23 @@ Welche projektbegleitenden und projektsteuernden Gremien sind für das Projekt K
 
 Projektsteuernde Gremien KoPers:
 
- Steuerungsgruppe KoPers (1. Sitzung am 28. August 2009)
+– Steuerungsgruppe KoPers (1. Sitzung am 28. August 2009)
 
- Lenkungsgruppe KoPers (1. Sitzung 2. Februar 2009)
+– Lenkungsgruppe KoPers (1. Sitzung 2. Februar 2009)
 
- Projektmanagementausschuss KoPers (1. Sitzung am 5. Mai 2010)
+– Projektmanagementausschuss KoPers (1. Sitzung am 5. Mai 2010)
 
- Projektmanagementausschuss FHH (1. Sitzung am 8. September 2009)
+– Projektmanagementausschuss FHH (1. Sitzung am 8. September 2009)
 
 Projektbegleitende Gremien KoPers:
 
- Lenkungsgruppe ePers (1. Sitzung am 1. Juli 2009)
+– Lenkungsgruppe ePers (1. Sitzung am 1. Juli 2009)
 
- Gesamtprojektleitungs-Jour-fixe, ehemals Kernteam (1. Sitzung am 22. Januar
+– Gesamtprojektleitungs-Jour-fixe, ehemals Kernteam (1. Sitzung am 22. Januar
 
 2010)
 
- Prozessgremium (18. November 2011), Prozessteam (15. Dezember 2011), Orga-
+– Prozessgremium (18. November 2011), Prozessteam (15. Dezember 2011), Orga-
 
 nisatorengremium (9. Oktober 2014), jeweils mit Vertretungen aller Behörden
 
@@ -76,157 +77,157 @@ Projektsteuernde Gremien KoPers:
 
 Mitglieder der Steuerungsgruppe KoPers:
 
- Chef der Senatskanzlei Freie und Hansestadt Hamburg
+– Chef der Senatskanzlei Freie und Hansestadt Hamburg
 
- Chef der Staatskanzlei des Landes Schleswig-Holstein
+– Chef der Staatskanzlei des Landes Schleswig-Holstein
 
- Staatssekretär Finanzministerium des Landes Schleswig-Holstein
+– Staatssekretär Finanzministerium des Landes Schleswig-Holstein
 
- Staatsrat Finanzbehörde Freie und Hansestadt Hamburg
+– Staatsrat Finanzbehörde Freie und Hansestadt Hamburg
 
- Staatskanzlei des Landes Schleswig-Holstein
+– Staatskanzlei des Landes Schleswig-Holstein
 
- Leitung Personalamt Freie und Hansestadt Hamburg
+– Leitung Personalamt Freie und Hansestadt Hamburg
 
- Ein weiterer Behörden-/Ministeriumsvertreter pro Land (für die Freie und Hanse-
+– Ein weiterer Behörden-/Ministeriumsvertreter pro Land (für die Freie und Hanse-
 
 stadt Hamburg: Justizbehörde)
 
- Projektleitungen der Länder (ohne Stimmrecht)
+– Projektleitungen der Länder (ohne Stimmrecht)
 
 Mitglieder der Lenkungsgruppe KoPers:
 
 Hamburg:
 
- Rechnungshof der Freien und Hansestadt Hamburg (bis 4. April 2012)
+– Rechnungshof der Freien und Hansestadt Hamburg (bis 4. April 2012)
 
- Leitung Personalamt
+– Leitung Personalamt
 
- Geschäftsführer des Zentrums für Personaldienste (ZPD)
+– Geschäftsführer des Zentrums für Personaldienste (ZPD)
 
- Chief Information Officer (CIO) der Finanzbehörde
+– Chief Information Officer (CIO) der Finanzbehörde
 
- Hamburgischer Beauftragter für Datenschutz und Informationsfreiheit
+– Hamburgischer Beauftragter für Datenschutz und Informationsfreiheit
 
- Gewerkschaftsvertreter dbb und DGB
+– Gewerkschaftsvertreter dbb und DGB
 
- Gesamtprojektleitungen der Länder
+– Gesamtprojektleitungen der Länder
 
 Schleswig-Holstein:
 
- Staatskanzlei
+– Staatskanzlei
 
- Landesrechnungshof
+– Landesrechnungshof
 
- Leitung der Versorgungsausgleichskasse der Kommunalverbände (VAK)
+– Leitung der Versorgungsausgleichskasse der Kommunalverbände (VAK)
 
- Leitung des Finanzverwaltungsamtes
+– Leitung des Finanzverwaltungsamtes
 
- Finanzministerium
+– Finanzministerium
 
- Vertretung Kommunale Landesverbände
+– Vertretung Kommunale Landesverbände
 
- Datenschutzbeauftragter
+– Datenschutzbeauftragter
 
- Gewerkschaftsvertreter (dbb)
+– Gewerkschaftsvertreter (dbb)
 
 Dataport:
 
- Dataport: Vorstandsvorsitzender Vorstand Lösungen
+– Dataport: Vorstandsvorsitzender Vorstand Lösungen
 
 Mitglieder des Projektmanagementausschusses KoPers:
 
- Alternierende Vorsitzende (Freie und Hansestadt Hamburg: Leitung Personalamt;
+– Alternierende Vorsitzende (Freie und Hansestadt Hamburg: Leitung Personalamt;
 
 Schleswig-Holstein: derzeit CIO)
 
- CIO der Finanzbehörde der Freien und Hansestadt Hamburg, Vertreter des
+– CIO der Finanzbehörde der Freien und Hansestadt Hamburg, Vertreter des
 
 Finanzministeriums des Landes Schleswig-Holstein
 
- Leitungen des ZPD und des Finanzverwaltungsamtes Schleswig-Holstein
+– Leitungen des ZPD und des Finanzverwaltungsamtes Schleswig-Holstein
 
- Dataport: Vorstandsvorsitzender; IT-Gesamtprojektleitung
+– Dataport: Vorstandsvorsitzender; IT-Gesamtprojektleitung
 
- Gesamtprojektleitungen der Länder
+– Gesamtprojektleitungen der Länder
 
- P&I: Vorstandsvorsitzender ( Chief Executive Officer); Projektleitungen der Länder
+– P&I: Vorstandsvorsitzender ( Chief Executive Officer); Projektleitungen der Länder
 
 Mitglieder Gesamtprojektleitungs-Jour-fixe:
 
- Gesamtprojektleitung Freie und Hansestadt Hamburg
+– Gesamtprojektleitung Freie und Hansestadt Hamburg
 
- Gesamtprojektleitung Schleswig-Holstein
+– Gesamtprojektleitung Schleswig-Holstein
 
- Gesamtprojektleitung Dataport
+– Gesamtprojektleitung Dataport
 
- Gesamtprojektleitung P&I
+– Gesamtprojektleitung P&I
 
- Projektmanagementbüro Freie und Hansestadt Hamburg, Schleswig-Holstein,
+– Projektmanagementbüro Freie und Hansestadt Hamburg, Schleswig-Holstein,
 
 Dataport und P&I
 
 Mitglieder des Projektmanagementausschuss FHH:
 
- Leitung Personalamt
+– Leitung Personalamt
 
- Finanzbehörde CIO
+– Finanzbehörde CIO
 
- Leitung des ZPD
+– Leitung des ZPD
 
- Gesamtprojektleitung der Freien und Hansestadt Hamburg
+– Gesamtprojektleitung der Freien und Hansestadt Hamburg
 
- Dataport: Vorstandsvorsitzender; IT-Gesamtprojektleitung
+– Dataport: Vorstandsvorsitzender; IT-Gesamtprojektleitung
 
- P&I: Vorstandsvorsitzender (Chief Executive Officer); Projektleitung für die Freie
+– P&I: Vorstandsvorsitzender (Chief Executive Officer); Projektleitung für die Freie
 
 und Hansestadt Hamburg
 
- Vertreter des Kooperationspartnerlandes als Gäste
+– Vertreter des Kooperationspartnerlandes als Gäste
 
 Projektbegleitende Gremien KoPers:
 
 Mitglieder Lenkungsgruppe ePers:
 
- Chef der Senatskanzlei
+– Chef der Senatskanzlei
 
- Staatsrat der Finanzbehörde
+– Staatsrat der Finanzbehörde
 
- Direktor des Rechnungshofes
+– Direktor des Rechnungshofes
 
- Hamburgischer Beauftragter für Datenschutz und Informationsfreiheit
+– Hamburgischer Beauftragter für Datenschutz und Informationsfreiheit
 
- Finanzbehörde CIO
+– Finanzbehörde CIO
 
- Bezirksamt Hamburg-Nord
+– Bezirksamt Hamburg-Nord
 
- Vertreter des dbb
+– Vertreter des dbb
 
- Vertreter des DGB
+– Vertreter des DGB
 
- Leitung Personalamt
+– Leitung Personalamt
 
- Geschäftsführung ZPD
+– Geschäftsführung ZPD
 
 Jeweils Leitungen der Ämter für Verwaltung bzw. Zentrale Dienste:
 
- Behörde für Justiz und Gleichstellung
+– Behörde für Justiz und Gleichstellung
 
- Behörde für Schule und Berufsbildung
+– Behörde für Schule und Berufsbildung
 
- Behörde für Wissenschaft und Forschung
+– Behörde für Wissenschaft und Forschung
 
- Behörde für Arbeit, Soziales, Familie und Integration
+– Behörde für Arbeit, Soziales, Familie und Integration
 
- Behörde für Gesundheit und Verbraucherschutz
+– Behörde für Gesundheit und Verbraucherschutz
 
- Behörde für Stadtentwicklung und Umwelt
+– Behörde für Stadtentwicklung und Umwelt
 
- Behörde für Wirtschaft, Verkehr und Innovation
+– Behörde für Wirtschaft, Verkehr und Innovation
 
- Behörde für Inneres und Sport
+– Behörde für Inneres und Sport
 
- Finanzbehörde
+– Finanzbehörde
 
 ### Frage 3
 
@@ -291,7 +292,7 @@ Welche Auswirkungen auf das Personalbudget der Freien und Hansestadt Hamburg im 
 
 Bestehen diese Erwartungen nach wie vor? Wenn nein: Wie sehen die Erwartungen nunmehr aus?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die zuständige Behörde geht unverändert von einer möglichen Einsparung im Personalbudget aus.
 

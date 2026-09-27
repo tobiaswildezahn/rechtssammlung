@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 53
 antwortbloecke: 21
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53190"
@@ -115,7 +116,7 @@ Welche zusätzlichen Investitionen seitens städtischer Stellen wären im Einzel
 
 Wie sieht das Nutzungskonzept des Senats für die kommenden Monate beziehungsweise Jahre aus?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Für eine Nutzung als öffentlich-rechtliche Unterbringung sind bauliche Veränderungen an der Immobilie (Hallen) notwendig. Die Planungen und Überlegungen dazu sind noch nicht abgeschlossen.
 

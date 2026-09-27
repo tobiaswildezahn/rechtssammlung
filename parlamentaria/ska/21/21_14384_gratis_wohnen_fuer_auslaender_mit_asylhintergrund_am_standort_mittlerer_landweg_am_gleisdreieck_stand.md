@@ -14,6 +14,7 @@ fragen: 44
 einzelfragen: 57
 antwortbloecke: 25
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4569", "21/14381", "21/12634", "21/13466", "21/14040", "21/11447", "21/13275", "21/608", "21/2501", "21/2108", "20/917", "21/12179"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63809"
@@ -57,7 +58,7 @@ Wie viele der Wohnungen sind derzeit von Ausländern mit Asyl- beziehungsweise F
 
 Wie viele Ausländer mit Asyl- beziehungsweise Flüchtlingshintergrund und wie viele andere Personen wohnen derzeit in der Anlage?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zum 31. August 2018 sind insgesamt 736 Wohnungen belegt. Im Übrigen siehe Drs. 21/14381 und Vorbemerkung.
 
@@ -257,7 +258,7 @@ Welche beruflichen oder akademischen Qualifikationen weisen die Ausländer mit A
 
 Wie viele der Ausländer mit Asyl- beziehungsweise Flüchtlingshintergrund, die in der Anlage derzeit wohnen, gehen aktuell einer sozialversicherungspflichtigen Beschäftigung nach?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Siehe Drs. 21/12634 und Drs. 21/11447.
 
@@ -433,7 +434,7 @@ Wie viele Mitarbeiter von f & w arbeiten derzeit am Standort?
 
 Welche Aufgaben/Funktionen übernehmen die Mitarbeiter derzeit? Bitte umfassend erläutern.
 
-#### Antwort zu Fragen 39 bis 40
+#### Antwort zu Fragen 39 und 40
 
 Zu den jeweiligen Aufgaben und Funktionen siehe Drs. 20/917.
 

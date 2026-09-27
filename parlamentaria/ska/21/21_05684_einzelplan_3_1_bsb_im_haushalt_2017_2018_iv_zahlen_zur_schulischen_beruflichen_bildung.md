@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5231", "21/5681", "21/4383", "21/4655"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54180"
@@ -107,13 +108,13 @@ Für das Schuljahr 2015/2016 liegt noch keine Schuljahreserhebung zu den Abschl�
 
 Im Schuljahr 2014/2015 traten 2.222 Schülerinnen und Schüler in den Bildungsgang AvDual ein (Quelle: Schuljahresstatistik 2015). Von diesen Schülerinnen und Schülern hatten bei Eintritt in den Bildungsgang
 
- 711 keinen Schulabschluss,
+– 711 keinen Schulabschluss,
 
- 1.132 einen ersten allgemeinbildenden Schulabschluss,
+– 1.132 einen ersten allgemeinbildenden Schulabschluss,
 
- 351 einen mittleren Schulabschluss und
+– 351 einen mittleren Schulabschluss und
 
- 28 einen sonstigen Schulabschluss zum Beispiel aus anderen Ländern.
+– 28 einen sonstigen Schulabschluss zum Beispiel aus anderen Ländern.
 
 Von den Jugendlichen, die ohne Schulabschluss in den Bildungsgang AvDual eingetreten sind, haben 127 mit ihrem Abschlusszeugnis zusätzlich einen Schulabschluss erworben, der in seinen Berechtigungen dem ersten allgemeinbildenden Abschluss entspricht.
 
@@ -123,11 +124,11 @@ Im Anschluss an das Schuljahr 2014/2015 wurde zum Stichtag 25.09.2015 der Verble
 
 Im Schuljahr 2014/2015 traten zum Stichtag der Schuljahresstatistik (29. September 2014) insgesamt 131 Jugendliche in den Bildungsgang AvM-Dual (Pilotmodell) ein (Quelle: Schuljahresstatistik 2015), von denen bei Eintritt in den Bildungsgang
 
- 86 keinen Schulabschluss,
+– 86 keinen Schulabschluss,
 
- zwölf einen ersten allgemeinbildenden Schulabschluss und
+– zwölf einen ersten allgemeinbildenden Schulabschluss und
 
- 33 eine sonstige nicht zuzuordnende Vorbildung hatten.
+– 33 eine sonstige nicht zuzuordnende Vorbildung hatten.
 
 Für den 2014 begonnenen zweijährigen Bildungsgang AvM-Dual liegen zum jetzigen Zeitpunkt noch keine gesicherten Erkenntnisse zu den Abschlüssen vor.
 

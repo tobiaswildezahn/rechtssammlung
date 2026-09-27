@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 19
 antwortbloecke: 0
 beantwortet: false
+status: "unbeantwortet"
 zitierte_drucksachen: ["23/4948", "23/5238", "23/1175"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105318"
@@ -27,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Heike Sudmann (Die Linke) vom 17.09.26 und Antwort des Senats · Drucksache vom 17.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105318) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105318/23_05413_sternbruecke_verkehr_unter_der_bruecke_lage_der_bushaltestellen_heute_und_in_zukunft)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

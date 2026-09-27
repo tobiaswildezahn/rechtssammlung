@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6824", "21/8603"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58886"
@@ -57,21 +58,21 @@ Die Polizei hat im 1. Quartal 2017 für den Austausch und die Erneuerung von Kam
 
 Die aufgeführten Beschaffungsmaßnahmen sind zum Teil Bestandteil längerfristig geplanter Videoerneuerungsmaßnahmen zur Gewährleistung der öffentlichen Sicherheit und Ordnung und stehen somit nicht in direktem Zusammenhang mit dem G20- Gipfel. Dazu zählen insbesondere:
 
- Gehäusekameras für die Verkehrskamerastandorte im Bereich der Innenstadt
+– Gehäusekameras für die Verkehrskamerastandorte im Bereich der Innenstadt
 
 (zum Beispiel: Esplanade, Jungfernstieg, Kennedybrücke),
 
- Erneuerung und Ergänzung der Sende-/Empfangstechnik auf dem Fernsehturm
+– Erneuerung und Ergänzung der Sende-/Empfangstechnik auf dem Fernsehturm
 
 zur Sicherstellung mobiler Übertragungsstrecken,
 
- Ausbau leistungsfähiger Leitungswege,
+– Ausbau leistungsfähiger Leitungswege,
 
- Anpassung des Videomanagementsystem an die neuen Leitungswege und die
+– Anpassung des Videomanagementsystem an die neuen Leitungswege und die
 
 angebundenen Führungsstäbe/Führungsgruppen,
 
- Austausch von analogen Videokameras gegen digitale Videokameras für das Ver-
+– Austausch von analogen Videokameras gegen digitale Videokameras für das Ver-
 
 kehrsfernsehen im Innenstadtbereich.
 

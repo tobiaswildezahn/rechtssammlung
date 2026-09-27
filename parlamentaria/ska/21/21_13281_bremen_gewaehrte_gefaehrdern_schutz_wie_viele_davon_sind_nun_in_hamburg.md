@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/5628", "21/11884", "21/8930", "21/12633"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62628"
@@ -49,7 +50,7 @@ Liegen den Hamburger Behörden Erkenntnisse darüber vor, dass Gefährder, die i
 
 Liegen den Hamburger Behörden Erkenntnisse darüber vor, dass Gefährder, die anderswo einen Schutzstatus erhalten haben, sich mittlerweile in Hamburg aufhalten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Erkenntnisse im Sinne der Fragestellung liegen der Polizei nicht vor. Im Übrigen siehe Vorbemerkung.
 

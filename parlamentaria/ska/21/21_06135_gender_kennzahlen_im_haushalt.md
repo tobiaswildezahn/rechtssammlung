@@ -13,9 +13,10 @@ seiten: 1
 fragen: 0
 einzelfragen: 0
 antwortbloecke: 0
-beantwortet: true
+beantwortet: false
+status: "zurückgezogen"
 zitierte_drucksachen: []
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54643"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/54643/21_06135_gender_kennzahlen_im_haushalt"
 abgerufen: "2026-09-26"
@@ -24,11 +25,9 @@ generator: "ska_archiv 1.0"
 
 # Drs. 21/6135: Gender-Kennzahlen im Haushalt
 
-> Schriftliche Kleine Anfrage der Abgeordneten Mareike Engels (GRÜNE) und Gabi Dobusch (SPD) vom 27.09.16 und Antwort des Senats · Drucksache vom 27.09.2016  
+> Schriftliche Kleine Anfrage der Abgeordneten Mareike Engels (GRÜNE) und Gabi Dobusch (SPD) vom 27.09.16 · zurückgezogen · Drucksache vom 27.09.2016  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/54643) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/54643/21_06135_gender_kennzahlen_im_haushalt)
 
-## Volltext
-
-Gender-Kennzahlen im Haushalt
+## Hinweis
 
 Die Anfrage wurde zurückgezogen.

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 8
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56468"
@@ -171,6 +172,6 @@ Inwiefern hat sich die Stabstelle Baustellenkoordinierung seit dem 1. Januar 201
 
 Inwiefern hat sich der LSBG vor dem 1. Januar 2017 mit den in Frage 7. erfragten Baumaßnahmen beschäftigt, welchen Austausch hat es mit dem Bund und dem Land Schleswig-Holstein jeweils gegeben und inwiefern wurden die in den kommenden fünf Jahren auf der Barsbütteler Straße geplanten Straßenbaumaßnahmen dabei berücksichtigt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Der Landesbetrieb Straßen, Brücken und Gewässer (LSBG) und die Stabsstelle Baustellenkoordinierung haben vor und nach dem 1. Januar 2017 die genannten Baustellen bei der Koordinierung der Baumaßnahmen berücksichtigt, dies gilt auch für die Maßnahmen auf der Barsbütteler Straße. Dabei wird eng mit den beteiligten Dienststellen in Schleswig-Holstein zusammengearbeitet.

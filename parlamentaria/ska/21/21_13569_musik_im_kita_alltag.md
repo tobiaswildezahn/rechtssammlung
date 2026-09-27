@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62941"
@@ -148,17 +149,17 @@ Stdn. freigestellt
 
 Berufsbegleitender Lehrgang
 
-  
+–  
 Stimmbildung  
-  
+–  
 Singanimation mit Kindern  
-  
+–  
 Rhythmik  
-  
+–  
 Tanz  
-  
+–  
 Gitarrenunterricht  
-  
+–  
 Einsatz und Umgang mit Orffschem  
 Instrumentarium  
 Hamburg  
@@ -168,14 +169,14 @@ für Absolventinnen
 von Kita macht Musik
 
 Seminar, 1 Tag  
-  
+–  
 Musik, Tanz, Gesang und Rhythmus für  
 Krippen- und Elementarbereich  
-  
+–  
 Modulübergreifende Stunden (Verbindung  
 zwischen Singen, Tanzen und  
 Instrumentalspiel)  
-  
+–  
 Stundenbilder zum Mitnehmen  
 Die musikalische Kita  
 Inhouse, 1 Studientag  
@@ -184,22 +185,22 @@ Studientage
 
 Mögliche Inhalte (je nach Absprache):
 
-  
+–  
 Erlernen einfacher Lieder, Verse, Tänze und  
 musikalischer Spielideen, die sofort umsetzbar  
 sind  
-  
+–  
 Stimmbildung für das Kind und die  
 Erzieher/innen  
-  
+–  
 Motorische und sensorische Förderung durch  
 musikalische Schwerpunkte  
-  
+–  
 Beratung bei der Anschaffung v.  
 Instrumenten, Literatur u. Musik  
-  
+–  
 Bastelideen f. Muiskinstrumente  
-  
+–  
 Hilfe bei der nachhaltigen Einrichtung v.  
 musikalischen und tänzerischen angeboten in  
 den Kita-Alltag  
@@ -208,7 +209,7 @@ Inhouse, 1 Studientag
 oder 3 Einzeltermine  
 nach Absprache
 
-  
+–  
 Die Teilnehmer/innen werden befähigt, erste  
 Akkorde zu erlernen und die erlernten Lieder  
 mit Ihren Kindern in der Praxis zu erproben.  
@@ -220,7 +221,7 @@ Lieder, die begeistern
 – „Hits“ im Kita-Alltag
 
 Seminar, 4 Vormittage  
-  
+–  
 Schnell umsetzbare „Kita-Hits“ für die  
 gesamte Bandbreite von Anlässen im Kita-  
 Alltag (Themen, Rituale, Stuhlkreis,  
@@ -230,33 +231,33 @@ Sprache lernen mit
 Musik
 
 Seminar,2 Vormittage  
-  
+–  
 Singen, Sprechen, Tanzen, Musizieren  
-  
+–  
 Sprachlernen  
-  
+–  
 Vermittlungskonzept mit Materialien  
 Ukulele –  
 Liedbegleitung leicht
 
 Impulsworkshop, 2 Vormittage
 
- Niedrigschwelliges Angebot, schnelle Erfolgserlebnisse, auch Kinder können damit
+– Niedrigschwelliges Angebot, schnelle Erfolgserlebnisse, auch Kinder können damit
 
 gemacht  
 Musik machen, motiviert evtl. dazu,  
 aufbauend Gitarre zu lernen  
-  
+–  
 Grundlagen der Liedbegleitung mit der  
 Ukulele
 
 Kinder auf der Gitarre begleiten – ein Kurs für Anfänger
 
 Seminar, 5 Vormittage  
-  
+–  
 Lernen einfacher Akkorde und Liedbegleitung  
 für TN ohne Vorkenntnisse  
-  
+–  
 Ideen für das Spiel und die Liedbegleitung mit  
 Orff-Instrumenten  
 Töne, Lieder, Tänze –  
@@ -265,15 +266,15 @@ Forschungsreise in
 der Krippe
 
 Seminar, 3 Vormittage  
-  
+–  
 Singen, Tanzen und musizieren mit den  
 Allerkleinsten  
-  
+–  
 Entwicklung und Umsetzung von  
 musikalischen Themeneinheiten  
-  
+–  
 Stimmbildung  
-  
+–  
 Beobachtung und Förderung von  
 musikalischen, motorischen und sensorischen  
 Fähigkeiten  
@@ -281,26 +282,26 @@ Tanz und Tanzspiele
 im Elementar-bereich
 
 Seminar, 3 Vormittage  
-  
+–  
 Anregungen für Tanzsequenzen, -  
 geschichten,-spiele  
-  
+–  
 Einüben von Grundschritten  
-  
+–  
 Bewegungsreime (Stimme, Sprache und  
 Bewegung)  
 Lieder mit Gebärden  
 begleiten
 
 Seminar, 2 Vormittage  
-  
+–  
 Besonders geeignet für Kita + Kitas, Teilhabe  
 von Kindern fördern, beeinträchtigte und  
 nicht sprechende Kinder  
-  
+–  
 Erleben und Weitergeben von Freude am  
 Singen und Gebärden  
-  
+–  
 Erweiterung des Gebärdenwortschatzes  
 Mit Liedern und  
 Bewegung um die  
@@ -309,18 +310,18 @@ rhythmisch
 musikalische Ideen
 
 Seminar, 3 Vormittage  
-  
+–  
 Spielerisches Erarbeiten von Liedern mit  
 Körperklängen, Gesten und Bewegung  
-  
+–  
 Sensorische Integration  
-  
+–  
 Spielerischer Umgang und einfaches  
 Musizieren mit Naturmaterialien und  
 einfachen Instrumenten  
-  
+–  
 Hit-Börse  
-  
+–  
 Tipps und Tricks: wie bekomme ich Kinder  
 zum gemeinsamen Spiel in Musik und  
 Bewegung?  
@@ -332,14 +333,14 @@ integrativer Prozesse
 in Kita-Gruppen
 
 Seminar, 2 Tage  
-  
+–  
 Ausprobieren verschiedener  
 musiktherapeutischer Elemente  
-  
+–  
 Reflexion des eigenen Ausprobierens und  
 konkreter Praxissituationen  
-  
+–  
 Erarbeitung einer musikalischen Haltung für  
 heterogene Gruppen  
-  
+–  
 Kurze theoretische Inputs

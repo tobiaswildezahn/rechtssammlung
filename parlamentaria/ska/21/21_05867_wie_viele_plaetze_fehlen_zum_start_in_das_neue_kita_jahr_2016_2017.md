@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14257", "21/5747", "19/22"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54357"
@@ -58,7 +59,7 @@ Wie viele Betreuungsplätze fehlen zum Start des Kita-Jahres 2016/2017 in den Be
 Zu wie vielen Klagen von Eltern auf einen Betreuungsplatz ist es seit
 1.1.2013 gekommen? Welche finanziellen Ansprüche ergaben sich daraus?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In der Freien und Hansestadt Hamburg stehen ausreichend Plätze in den Kindertageseinrichtungen zur Verfügung, siehe Vorbemerkung. Sollten Eltern keinen Betreuungsplatz für Ihr Kind finden, kann gemäß § 11 Hamburger Kinderbetreuungsgesetz von der zuständigen Behörde der Nachweis eines Platzes entsprechend des ausgestellten Bewilligungsbescheides beansprucht werden. In allen Fällen, in denen Eltern von diesem Anspruch bislang Gebrauch gemacht haben, konnte das Nachweisverfahren erfolgreich abgeschlossen werden, sodass es zu keinen Klagen kam.
 

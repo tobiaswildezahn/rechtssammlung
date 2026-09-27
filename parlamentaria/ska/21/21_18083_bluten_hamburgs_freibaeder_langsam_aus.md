@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67705"
@@ -60,7 +61,7 @@ Wie hat sich die Personalsituation der Freibäder seit 2008 entwickelt? Bitte in
 
 Sind die Mitarbeiterinnen und Mitarbeiter oder Teile der Beschäftigten nur für die Badesaison angestellt beziehungsweise nur für den Einsatz in einem einzelnen Freibad? a. Wenn ja, bitte aufschlüsseln.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Für das erweiterte Badangebot in der Freibadsaison werden insgesamt rund 50 bis 60 zusätzliche Mitarbeiterinnen und Mitarbeiter pro Saison benötigt und eingesetzt. Sie werden je nach Bedarf, Witterung und Besucheraufkommen im Rahmen eines personellen Einsatzverbundes flexibel auf Hallenbäder und Freibäder verteilt. Diese Vorgehensweise betrifft alle Saisonzeiten seit 2008.
 

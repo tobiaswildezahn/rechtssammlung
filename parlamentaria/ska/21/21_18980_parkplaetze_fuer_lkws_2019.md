@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18745", "21/14501"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68668"
@@ -94,7 +95,7 @@ Wie viele verkehrsrechtlich ausgewiesene Lkw-Stellplätze konnten in den letzten
 
 Wie viele verkehrsrechtlich ausgewiesene Lkw-Stellplätze entfielen im selben Zeitraum und standen der vorgesehenen Nutzung nicht mehr zur Verfügung? Bitte nach Standort und Jahr sowie nach der Anzahl der Stellplätze unterteilen.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung. Darüber hinaus liegen dem Senat keine Erhebungen vor.
 

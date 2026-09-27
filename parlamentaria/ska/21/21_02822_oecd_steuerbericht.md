@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51136"
@@ -51,6 +52,6 @@ Hat Hamburg eine eigene Abteilung zur Behandlung der Steuerangelegenheiten der R
 
 Sieht der Hamburger Senat die Hamburger Steuerbehörden in der Lage die Steuerangelegenheiten dieses Personenkreises effektiv zu bearbeiten ?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Ja. Die von der OECD geforderten speziellen Abteilungen für Reiche und Superreiche sind in Deutschland durch das Instrument der Außenprüfung verwirklicht. Der Personenkreis der sogenannten Einkommensmillionäre wird in der Betriebskartei als getrennte Gruppe erfasst. Die Abgabenordnung schreibt für diese Steuerpflichtigen zusätzliche Aufbewahrungspflichten vor und ermöglicht es der Steuerverwaltung, diese wie Unternehmen zu prüfen. Der Standard-Prüfungsansatz der hamburgischen Betriebsprüfung bei der Durchführung von Außenprüfungen bei Einkommensmillionären entspricht dem Prüfungsansatz der Steuerbehörde der USA für die Prüfung von Reichen und Superreichen, der im OECD-Bericht beispielhaft als positiv herausgestellt wird. Dabei werden mehrere Jahre beziehungsweise Steuererklärungen überprüft und Beziehungen zu nahe stehenden Firmen beachtet.

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4777", "21/6204", "21/10083", "21/12260"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64056"
@@ -257,15 +258,15 @@ An den Wasserschutzpolizeikommissariaten sowie am PK 36 gab es im Erfassungszeit
 
 Ursachen erhöhter Zahlen abgemeldeter Funkstreifenwagen an den einzelnen Polizeikommissariaten sind:
 
- Ausschöpfen der jeweiligen Urlaubsquoten,
+– Ausschöpfen der jeweiligen Urlaubsquoten,
 
- partielle Überschreitung der Urlaubsquoten aufgrund von Personalwechseln (mit-
+– partielle Überschreitung der Urlaubsquoten aufgrund von Personalwechseln (mit-
 
 gebrachter genehmigter Urlaub),
 
- Abordnungen zu anderen Dienststellen und
+– Abordnungen zu anderen Dienststellen und
 
- erhöhter Krankenstand.
+– erhöhter Krankenstand.
 
 Einsätze werden bei Bedarf von der Einsatzzentrale an Funkstreifenwagen anderer Polizeikommissariate oder der Landesreserve vergeben. Die Wahrnehmung von Einsätzen in allen betroffenen PK war damit gewährleistet. Im Übrigen siehe Drs. 21/10083.
 

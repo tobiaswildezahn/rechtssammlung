@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61161"
@@ -51,7 +52,7 @@ Wie viele Diebstähle von Pkws im Alstertal und in den Walddörfern wurden 2017 
 
 Wie viele Diebstähle von Pkws im Alstertal und in den Walddörfern wurden in den Jahren 2011 – 2016 erfasst und wie viele dieser Fälle konnten aufgeklärt werden? Bitte jahresweise nach Stadtteilen aufschlüsseln und für das Alstertal und die Walddörfer gesamt angeben sowie die absolute Zahl der aufgeklärten Fälle und den Wert der Aufklärungsquote angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In der Polizeilichen Kriminalstatistik (PKS) erfolgt die Erfassung von Diebstählen von Kraftwagen einschließlich unbefugter Ingebrauchnahme unter dem PKS-Straftatenschlüssel ***1**.
 

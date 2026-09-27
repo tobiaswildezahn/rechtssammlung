@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12248", "21/11905", "21/11904", "21/3834", "20/12659", "20/11437", "21/12459"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62468"
@@ -51,7 +52,7 @@ Wie hoch war die Zahl der neu gegründeten Unternehmen durch Frauen im Jahr 2017
 
 Wie haben sich die unter 1. genannten Zahlen in den Jahren 2015 und 2016 entwickelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Neugründungen Insgesamt
 

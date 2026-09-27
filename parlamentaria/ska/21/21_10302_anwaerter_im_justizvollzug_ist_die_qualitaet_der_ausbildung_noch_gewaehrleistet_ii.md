@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5520"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59149"
@@ -71,7 +72,7 @@ Wie viele geeignete Bewerber/-innen haben sich seit Ausbildungsbeginn zum 01.12.
 Wie viele Justizvollzugsanwärter/-innen sind seit Ausbildungsbeginn am
 01.12.2016 ernannt worden? Sofern es eine veränderte Einstellungsanzahl zu den Vorjahren gegeben hat, bitte begründen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Antwort zu 1. Alle geeigneten Bewerberinnen und Bewerber werden ernannt. Die Auswahlverfahren für die weiteren Lehrgänge laufen kontinuierlich. Alle geeigneten Bewerberinnen und Bewerber werden zügig in die folgenden Lehrgänge eingeordnet.
 

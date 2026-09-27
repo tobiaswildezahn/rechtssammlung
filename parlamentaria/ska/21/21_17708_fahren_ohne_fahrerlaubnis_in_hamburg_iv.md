@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13305"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67305"
@@ -77,6 +78,6 @@ Welche (neuen) Maßnahmen haben die zuständigen Behörden ergriffen, um derarti
 
 Welche (neuen) Maßnahmen sind geplant, um derartigen Fällen entgegenzuwirken?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/13305.

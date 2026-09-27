@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52754"
@@ -59,7 +60,7 @@ Welchen Gegenstand haben die jeweiligen Gutachten? Bitte möglichst konkret besc
 
 Welche konkrete Fragestellung soll mit den jeweiligen Gutachten untersucht werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Ertüchtigungsmaßnahmen am Heizkraftwerk Wedel
 
@@ -87,7 +88,7 @@ Welche Dienstleister wurden jeweils mit der Erfüllung betraut?
 
 Durch wen erfolgte jeweils die Auftragsvergabe? Bitte Namen und Dienstposten angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Für die Begutachtung von Ertüchtigungsmaßnahmen am HKW Wedel wurde das Ingenieurbüro Fichtner GmbH & Co. KG aus Stuttgart von der Geschäftsführung der HGV beauftragt. Das Ausschreibungsverfahren der anderen Gutachten läuft derzeit. Die Vergabe ist noch nicht erfolgt.
 

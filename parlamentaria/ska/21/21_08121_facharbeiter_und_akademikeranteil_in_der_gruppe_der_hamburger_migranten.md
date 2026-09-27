@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7829"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56816"
@@ -91,7 +92,7 @@ b) Wie viele Personen erhalten für ihr Studium staatliche Unterstützung? Bitte
 
 Wie viele Personen konnten aufgrund der von ihnen beigebrachten Leistungsnachweise ein Studium in Hamburg aufnehmen, das sie später aufgrund von mangelnder Qualifikation jedoch wieder abbrechen mussten? Bitte einzeln in Hinblick auf den Standort und das Studienfach aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Bei der Einschreibung und Zulassung an den Hochschulen wird der Status „Schutzsuchender“ nicht erhoben. Auch gemäß Hochschulstatistikgesetz sind diese Daten nicht zur Erfassung vorgesehen. Daher sind Angaben im Sinne der Fragestellung nicht möglich.
 

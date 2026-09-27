@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10404", "21/14301"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63879"
@@ -55,7 +56,7 @@ Hat die Radverkehrskoordinatorin am „Parking Day“ 2018 teilgenommen?
 
 Haben Vertreter der BWVI am „Parking Day“ 2018 teilgenommen? Falls ja, aus welchem Referat und aus welchem Grund?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nein. Im Übrigen siehe Drs. 21/14301.
 
@@ -101,7 +102,7 @@ Wie viele Anträge auf Anmeldungen von Kundgebungen/Demonstrationen im Rahmen de
 
 Mit welchen Mottos wurden die Kundgebungen/Demonstrationen im Rahmen des „Parking Day“ 2018 jeweils als Veranstaltung angemeldet? Bitte für jede Veranstaltung das entsprechende Motto sowie den genauen Standort angeben.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Bei der zuständigen Versammlungsbehörde bei der Polizei wurden sechs Versammlungen im Sinne der Fragestellung angemeldet und ohne beschränkende Verfügungen bestätigt; im Übrigen siehe Drs. 21/10404:
 

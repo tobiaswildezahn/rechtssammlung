@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 25
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13260", "21/6236", "21/7553", "21/11550", "21/14233", "21/15658"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67378"
@@ -51,7 +52,7 @@ Wie hoch waren die durchschnittliche und die maximale Bearbeitungsdauer von Beih
 
 Wie hoch waren die durchschnittliche und die maximale Bearbeitungsdauer von Anträgen mit einer Aufwendungssumme ab 2 500 Euro im ersten Halbjahr 2019? Bitte pro Monat angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage. Die Werte werden einer anonymen Fallstatistik entnommen, die die Zeit vom Antragseingang bis zum Tag der Festsetzung erfasst. Einzelne längere Bearbeitungszeiten entstehen vor allem durch unvollständige Antragsunterlagen und durch Widersprüche.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54488"
@@ -69,7 +70,7 @@ In welchem Umfang müssen zur Durchführung des Projektes S21 nach Kaltenkirchen
 
 Welche Auswirkungen hätte es auf das Enteignungsverfahren, wenn der Nutzen-Kosten-Wert absinkt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Im Planfeststellungsabschnitt 1 (Gebiet der Freien und Hansestadt Hamburg) sind von der Elektrifizierungsmaßnahme 28 private Grundstücke durch Erwerb von Teilflächen, vorübergehender Inanspruchnahme von Flächen sowie dingliche Belastung von Flächen betroffen. Den ausschließlichen Erwerb betreffen jedoch nur wenige, relativ kleine Teilflächen. Nach Einschätzung des Maßnahmenträgers sind für den Planfeststellungsabschnitt 1 derzeit keine Enteignungsverfahren zu erwarten.
 

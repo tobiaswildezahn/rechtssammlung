@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11663", "21/463", "20/11962"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50076"
@@ -50,7 +51,7 @@ Ist es zutreffend, dass derzeit alle Aktien der drei Ankeraktionäre beziehungsw
 
 Über wie viele ihrer HL-Aktien hat die HGV der HCLH eine „bis zum Ausscheiden der HGV aus der HCLH“ gültige und bis dahin unwiderrufliche Stimmrechtsvollmacht ausgestellt? Inwieweit erlischt diese Vollmacht durch Verkauf der Aktien unabhängig von einer vertraglich definierten Frist ihrer Gültigkeitsdauer?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nein, CSAV Germany Container Holding GmbH, Kühne Maritime GmbH (KM) und HGV halten derzeit rund 78 Prozent am Kapital der HL, wobei die Stimmrechte über 51 Prozent bei der Hamburg Container Lines Holding GmbH & Co. KG (HCLH) liegen und im Übrigen von den Ankeraktionären selbst ausgeübt werden (siehe Drs. 20/11663, 20/11962 und 21/463).
 

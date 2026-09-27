@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65995"
@@ -63,31 +64,31 @@ Welche Probleme mit der Müllentsorgung durch Bewohner der Anlage am Gleisdreiec
 
 Mit dem „Müllkümmerer“ verfolgt f & w insbesondere das Ziel, die Bewohnerinnen und Bewohner der öffentlich-rechtlichen Unterkunft „Am Gleisdreieck“ zu den Regelungen der Müllentsorgung aufzuklären, zu beraten und durch verschiedene Maßnahmen für ein geordnetes und sauberes Gelände zu sorgen. Damit sollen gleichzeitig etwaige Fehlbefüllungen der Müllbehältnisse und eine nicht fachgerechte Müllentsorgung vermieden und ein Beitrag zur Verringerung der Entsorgungskosten geleistet werden. Folgende Tätigkeiten sind von der Leistung „Müllkümmerer“ im Einzelnen zu einem vorgegebenen Auftragswert erfasst:
 
- Aufklärung/Beratung der Bewohnerinnen und Bewohner zum Thema Müllentsor-
+– Aufklärung/Beratung der Bewohnerinnen und Bewohner zum Thema Müllentsor-
 
 gung,
 
- Abstimmung zwischen der HEG Hamburger Entsorgungsgesellschaft mbH und der
+– Abstimmung zwischen der HEG Hamburger Entsorgungsgesellschaft mbH und der
 
 Stadtreinigung Hamburg AöR,
 
- Sicherstellung der richtigen Behälterkennzeichnung,
+– Sicherstellung der richtigen Behälterkennzeichnung,
 
- Müll sammeln auf dem Gelände,
+– Müll sammeln auf dem Gelände,
 
- Bereitstellung der Müllbehältnisse am Leerungstag, auch bei Feiertagsverschie-
+– Bereitstellung der Müllbehältnisse am Leerungstag, auch bei Feiertagsverschie-
 
 bungen,
 
- Nachsortierung des Inhaltes der Müllbehältnisse zur Vorbereitung der Leerung und
+– Nachsortierung des Inhaltes der Müllbehältnisse zur Vorbereitung der Leerung und
 
 zur Vermeidung von Fehlbefüllungen,
 
- Beseitigung von Beistellungen inklusive Zwischenlagerung von sperrigen Abfällen
+– Beseitigung von Beistellungen inklusive Zwischenlagerung von sperrigen Abfällen
 
 in separaten Räumen,
 
- gegebenenfalls Papierkorbentleerungen und Nassreinigung der Müllboxen.
+– gegebenenfalls Papierkorbentleerungen und Nassreinigung der Müllboxen.
 
 f & w hat die Leistung „Müllkümmerer“ beschränkt ausgeschrieben. Mit dieser Auftragsart wird die Erfüllung oben genannter Tätigkeiten geschuldet. Die Anzahl von Mitarbeiterinnen und Mitarbeitern sowie die Arbeitsstunden sind im Einzelnen nicht vorgegeben. Der Auftrag wurde an die HEG Hamburger Entsorgungsgesellschaft mbH vergeben. Versehentlich wurde in der vom Fragesteller in Bezug genommenen Veröffentlichung als Auftragnehmer die URBANA Energiedienste GmbH genannt. Dies wird korrigiert.
 

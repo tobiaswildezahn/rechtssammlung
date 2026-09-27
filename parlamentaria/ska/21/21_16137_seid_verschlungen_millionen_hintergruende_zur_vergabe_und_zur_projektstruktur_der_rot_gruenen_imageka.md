@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 34
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15111", "21/15557", "21/15922", "21/16050"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65643"
@@ -53,7 +54,7 @@ Wie beurteilt der Senat, dass mit „Onken + Partner“ ausgerechnet jene Agentu
 
 Befürwortet der Senat die Vergabe des Teilauftrags an „Onken + Partner“ weiterhin?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Damit hat sich der Senat nicht befasst.
 
@@ -101,7 +102,7 @@ Welche konkreten Kompetenzen beziehungsweise Ressourcen hat „Onken + Partner�
 
 Warum kann Jung von Matt/SPORTS die dem an „Onken + Partner“ als Unterauftragnehmer vergebenen Beratungsauftrag zugrunde liegende Dienstleistung nicht selbst erbringen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Jung von Matt/SPORTS ist eine Sportmarketingagentur mit den sechs Units: Beratung, Strategie, Kreation, Social Media, Sponsoring und eSports und keine Agentur für den Schwerpunkt PR und Öffentlichkeitsarbeit.
 
@@ -192,7 +193,7 @@ Schließt der Senat beziehungsweise die zuständige Behörde aus, dass die jetzi
 
 Schließt der Senat beziehungsweise die zuständige Behörde aus, dass die jetzige verkehrspolitische Sprecherin der SPD-Bürgerschaftsfraktion unmittelbar Einfluss auf die Planung, Konzeption und Umsetzung der Radverkehrskampagne genommen hat?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Vonseiten der BWVI gab es mit der verkehrspolitischen Sprecherin im Rahmen der Ausübung ihres Bürgerschaftsmandats wie auch mit vielen anderen Mitgliedern der Hamburgischen Bürgerschaft (MdHB) Gespräche zu verkehrspolitischen Themen, die auch die Radverkehrskampagne zum Inhalt haben konnten. Jenseits allgemeiner politischer Gespräche ist das MdHB gegenüber der BWVI und der HMG bezüglich der Planung, Konzeption und Umsetzung der Radverkehrskampagne zu keinem Zeitpunkt in Erscheinung getreten.
 

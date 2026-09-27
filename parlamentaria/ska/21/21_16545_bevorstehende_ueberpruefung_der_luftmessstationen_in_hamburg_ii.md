@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16454"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66070"
@@ -83,6 +84,6 @@ Wie wird die Integration des Hamburger Personals in die Prüftätigkeit konkret 
 
 In welchem Umfang ist eine Überprüfung der Luftmessstationen durch den TÜV Rheinland vor Ort vorgesehen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die weitere Vorgehensweise zur Bearbeitung des BMU-Auftrages ist vom TÜV Rheinland noch zu konkretisieren.

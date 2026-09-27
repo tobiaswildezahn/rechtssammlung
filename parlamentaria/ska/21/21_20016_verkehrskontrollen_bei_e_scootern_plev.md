@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13078", "21/18048"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69780"
@@ -55,7 +56,7 @@ Wie viele Verstöße seitens der Nutzer von E-Scootern gegen die Straßenverkehr
 
 In wie vielen Fällen wurde seit Juni 2019 gegen Nutzer von E-Scootern in Folge eines Verstoßes a. ein Bußgeld verhängt? b. Punkt(e) in das Fahreignungsregister des Kraftfahrt-Bundesamts in Flensburg eingetragen? c. Fahrverbote ausgesprochen (temporärer/dauerhafter Führerscheinentzug)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Durch die Polizei werden keine statistischen Daten im Sinne der Fragestellung erhoben. Die Statistik der Bußgeldstelle lässt keine Differenzierung zur Auswertung nach E-Scootern im Sinne der Fragestellungen zu. E-Scooter werden statistisch ebenso wie Segways und in Deutschland nicht zugelassene Fahrzeuge wie Monowheels oder Elektroskateboards in der Kategorie Elektrokleinstfahrzeuge erfasst. Für die Beantwortung der Fragestellungen wäre eine händische Auswertung mehrerer Hundert Verfahren in dem erfragten Zeitraum hinsichtlich der genutzten Fahrzeuge erforderlich. Eine Beantwortung der Fragestellungen ist in der für die Bearbeitung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Hinzu kommt, dass aufgrund kurzer Speicherfristen und der sich anschließenden gesetzlich vorgeschriebenen Datenlöschung nur ein Teil der Verfahren nachvollzogen werden kann.
 

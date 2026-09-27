@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 16
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7938"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65313"
@@ -57,7 +58,7 @@ Wie hat sich die Zahl der Geburten in der HELIOS Mariahilf Klinik seit 2015 entw
 
 Wie hoch war die Zahl der Geburten im Asklepios Klinikum Harburg in 2015 und 2016? Bitte unter Angabe von Zahl der Geburten und Zahl der geborenen Kinder.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Zahl der Geburten und geborenen Kinder in der HELIOS Mariahilf Klinik Hamburg und dem Asklepios Klinikum Harburg in den Jahren 2015 bis 2018 ist den untenstehenden Tabellen zu entnehmen.
 
@@ -99,7 +100,7 @@ Wie hat sich in Hamburg die Kaiserschnitt-Rate seit 2015 entwickelt? Bitte Kaise
 
 Wie hat sich in der HELIOS Mariahilf Klinik die Kaiserschnitt-Rate seit 2015 entwickelt? Bitte Kaiserschnittrate in Prozent und pro Jahr angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Kaiserschnittrate in der HELIOS Mariahilf Klinik Hamburg und in Hamburg gesamt in den Jahren 2015 bis 20181 ist der untenstehenden Tabellen zu entnehmen.
 

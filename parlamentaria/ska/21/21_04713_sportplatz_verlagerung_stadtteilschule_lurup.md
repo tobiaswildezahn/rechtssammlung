@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 22
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3547"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53124"
@@ -43,7 +44,7 @@ Welchen Planungsstand hat der vorgesehene Tausch der Flächen derzeit erreicht?
 
 Wurde der geplante Flächentausch bereits abgeschlossen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Flächentausch wurde umgesetzt und ist abgeschlossen.
 

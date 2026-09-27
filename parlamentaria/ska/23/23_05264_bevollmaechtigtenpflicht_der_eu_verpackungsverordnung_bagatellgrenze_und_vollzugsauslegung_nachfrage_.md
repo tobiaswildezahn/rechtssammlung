@@ -8,12 +8,13 @@ datum_anfrage: "2026-09-07"
 datum_drucksache: "2026-09-15"
 urheber: ["Peggy Heitmann"]
 fraktionen: ["AfD"]
-vorgang: null
+vorgang: 89154
 seiten: 2
 fragen: 3
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["23/5144", "23/5012"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105171"

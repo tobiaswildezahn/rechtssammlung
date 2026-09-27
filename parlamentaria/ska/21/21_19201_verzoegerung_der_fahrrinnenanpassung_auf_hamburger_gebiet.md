@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18992"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68890"
@@ -51,7 +52,7 @@ Hat die Wasserstraßen- und Schifffahrtsverwaltung des Bundes (WSV) ihrer Aussch
 
 Um welche Weiterentwicklung handelt es sich im Detail? (Bitte alle technischen Änderungen angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zur Freilegung und Identifizierung von im Baugrund befindlichen ferromagnetischen Gegenständen sollen aufgrund der herrschenden Strömungsbedingungen und zu überwindenden Wassertiefen neu entwickelte Tauchroboter und ein Spezialgerät
 

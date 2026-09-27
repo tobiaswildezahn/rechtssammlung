@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1843", "21/1282", "20/13587", "20/1556", "20/1701", "20/14486", "21/1837"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50337"
@@ -123,7 +124,7 @@ Geht der Senat von einem weiteren Rückgang des Finanzmittelbestandes beim LIG i
 
 Gibt es eine aktualisierte Planung für die Kapitalflussrechnung des LIG im Jahr 2016 gegenüber der Darstellung in Drs. 21/1837? Wenn ja, mit welchen einzelnen Werten? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die aktualisierte Planung der Liquiditätsentwicklung für das Jahr 2016 stellt sich wie folgt dar:
 

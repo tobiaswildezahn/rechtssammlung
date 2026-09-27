@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 5
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58481"
@@ -49,6 +50,6 @@ Plant die Elbphilharmonie – etwa für die nächste Saison – eine Neukonzepti
 
 Plant die Elbphilharmonie bei einer eventuell vorgesehenen Neugestaltung ihrer Online-Ticketangebotsseite einen laufend zeitnah aktualisierten Webauftritt, der Ticket-Verfügbarkeitsinformationen sowohl zu den Konzerten von „Hamburg Musik“ als auch denjenigen der übrigen Veranstalter miteinbezieht, sodass Interessenten schon auf der Webseite der Elbphilharmonie einen realistischen Komplettüberblick haben? Bitte geplante Vorgehensweise genau detaillieren. Falls nein: warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nein. Die Geschäftsführung der Elbphilharmonie Betriebsgesellschaften teilt die Wertungen des Fragestellers hinsichtlich des Online-Ticket-Angebots der Elbphilharmonie nicht. Im Übrigen hat sich der Senat hiermit nicht befasst.

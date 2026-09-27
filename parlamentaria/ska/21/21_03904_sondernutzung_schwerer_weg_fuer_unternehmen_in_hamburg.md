@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52296"
@@ -55,7 +56,7 @@ Wie viele Unternehmen haben in den Jahren 2014 bis 2016 eine Sondernutzung in Ha
 
 Wie viele Unternehmen haben in den Jahren 2014 bis 2016 trotz Beantragung keine Sondernutzungsgenehmigung erhalten (bitte nach Bezirken und Jahren gliedern)? Wie viele Unternehmen haben eine Sondernutzungsgenehmigung erhalten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Sondernutzungen werden von Privatpersonen, Vereinen, Unternehmen, öffentlichen Einrichtungen und so weiter beantragt. Die Anzahl von Unternehmen, die Sondernutzungen beantragt haben, kann in der für die Bearbeitung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit und mit den zur Verfügung stehenden Mitteln nicht herausgefiltert werden. Um die Antragsteller herauszufinden und als Unternehmen zu identifizieren, müssten allein im Bezirksamt Hamburg-Mitte circa 7.500 Vorgänge durchgesehen werden. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

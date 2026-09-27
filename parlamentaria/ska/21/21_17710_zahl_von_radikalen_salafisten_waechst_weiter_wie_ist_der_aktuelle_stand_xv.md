@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 41
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16845", "21/12955", "21/9604", "21/12086", "21/15527", "21/17070", "21/16409", "21/13826", "21/7911", "21/3445", "21/15598"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67307"
@@ -43,7 +44,7 @@ Wie viele Salafisten halten sich nach Informationen des Senats derzeit in Hambur
 
 Welche Nationalität haben diese Salafisten und Jihadisten jeweils?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/16845.
 
@@ -190,12 +191,12 @@ Welche Maßnahmen zur Prävention von Salafismus im Justizvollzug hat der Senat 
 
 Islamisten und Salafisten werden grundsätzlich nicht in der Präventionsarbeit eingesetzt. Der Senat hält es grundsätzlich für denkbar, ehemalige Extremisten in die Präventionsarbeit einzubeziehen. Dafür müssen allerdings hohe Mindestanforderungen erfüllt sein, wie zum Beispiel
 
- keine Beteiligung an Gewaltstraftaten,
+– keine Beteiligung an Gewaltstraftaten,
 
- glaubhafte und nachhaltige Distanzierung von der Ideologie und dem sozialen
+– glaubhafte und nachhaltige Distanzierung von der Ideologie und dem sozialen
 
 Milieu sowie
 
- psychische Stabilität.
+– psychische Stabilität.
 
 Im Übrigen siehe Drs. 21/3445, 21/15598 und 21/16409.

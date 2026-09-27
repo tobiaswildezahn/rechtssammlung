@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/9535"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55812"
@@ -43,7 +44,7 @@ Mit welchen Kosten werden aus Sicht des Senats Betriebe zusätzlich rechnen müs
 
 Mit welchem weiteren zusätzlichen Aufwand müssen dann die Betriebe rechnen? An welchen Stellen in dem Gesetzentwurf wird dies aus Sicht des Senats deutlich?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Bundesregierung hat den Kostenaufwand, der für die Wirtschaft und die Verwaltung entsteht, in der BT.-Drs. 18/9535 dargelegt. Der Senat hat zum Gesetzesentwurf der Bundesregierung keine Kostenschätzung vorgenommen.
 

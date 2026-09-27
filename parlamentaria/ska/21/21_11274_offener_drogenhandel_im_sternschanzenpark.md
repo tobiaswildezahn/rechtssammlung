@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4264"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60262"
@@ -72,7 +73,7 @@ Welche Kenntnisse haben die Behörden über die Organisation des Rauschgifthande
 
 Gibt es in Hamburg bestimmte Bandenstrukturen, die den Handel mit Rauschgift maßgeblich organisieren und finanziell hiervon profitieren? Gibt es dabei Unterschiede zwischen verschiedenen Rauschgiften?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Eine auch teilweise Offenlegung konkreter Erkenntnisse kann Rückschlüsse auf strafprozessuale oder gefahrenabwehrende Maßnahmen der Polizei zulassen, die den Erfolg dieser Maßnahmen gefährden würden. In gleicher Weise gilt dies auch für Negativauskünfte, da auch aus Angaben zum Nichtvorhandensein von Erkenntnissen Anhaltspunkte erlangt werden können, in welchen Kriminalitäts- oder Gefahrenabwehrfeldern aktuell polizeiliche Maßnahmen getroffen oder nicht getroffen werden. Im Interesse der Wirksamkeit möglicher polizeilicher Maßnahmen wird von einer Beantwortung dieser Fragen abgesehen.
 

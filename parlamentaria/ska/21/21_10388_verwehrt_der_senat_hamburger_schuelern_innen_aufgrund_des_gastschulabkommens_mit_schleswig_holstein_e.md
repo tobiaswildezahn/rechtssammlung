@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10272", "21/8228"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59254"
@@ -78,7 +79,7 @@ Welche konkreten Gründe lagen für die Ablehnung der Hamburger Erstwünsche an 
 
 Welche konkreten Gründe lagen für die Zulassungen der Schleswig- Holsteiner Erstwünsche an den in Frage 4. genannten Schulen für 2017/2018 jeweils vor? (Bitte für jeden Standort gesondert darlegen.)
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Entfällt.
 
@@ -90,7 +91,7 @@ In Bezug auf das neue Gastschulabkommen mit Schleswig-Holstein wurde von meiner 
 
 Kann der Senat beziehungsweise die zuständige Fachbehörde garantieren, dass kein/keine einzige Hamburger Schüler/-in im Schuljahr 2017/ 2018 an ihrer/seiner Erstwunschschule aufgrund einer Aufnahme im Rahmen des Gastschulabkommens mit Schleswig-Holstein abgewiesen werden musste? Wenn ja, mit welchen Argumenten? (Bitte belegen.) a. Wenn nein, wie vertritt er/sie diese Tatsache gegenüber den betroffenen Schülern/-innen? (Bitte Stellung nehmen.)
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung sowie Anlage und Antwort zu 1. bis 3.
 

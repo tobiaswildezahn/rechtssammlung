@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 26
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50864"
@@ -137,7 +138,7 @@ Wurde ein hydrogeologisches Gutachten erarbeitet, das sich mit der großräumlic
 
 Wird für das geplante Bauvorhaben der Grundwasserspiegel abgesenkt?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Antwort zu 11.
 

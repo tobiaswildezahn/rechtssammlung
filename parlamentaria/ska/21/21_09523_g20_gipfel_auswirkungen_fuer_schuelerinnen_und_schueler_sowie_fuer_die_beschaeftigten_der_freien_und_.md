@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9064", "21/9314"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58288"
@@ -51,25 +52,25 @@ Welche Verkehrsbehinderungen und/beziehungsweise Einschränkungen des ÖPNV gibt
 
 Verkehrseinschränkungen durch Einrichtung von Sicherheitsbereichen an den von Schutzpersonen genutzten Unterkünften wird es nach derzeitigem Stand in folgenden Straßen geben:
 
- Sperrung der Straße Holzdamm zwischen Rautenbergstraße und An der Alster
+– Sperrung der Straße Holzdamm zwischen Rautenbergstraße und An der Alster
 
 sowie der Alstertwiete von An der Alster bis Hausnummer 24 ab dem 6. Juli 2017.
 
- Sperrungen der Tesdorpfstraße zwischen Rothenbaumchaussee und Hausnum-
+– Sperrungen der Tesdorpfstraße zwischen Rothenbaumchaussee und Hausnum-
 
 mer 8 und Sperrung der Moorweidenstraße ab Rothenbaumchaussee bis hinter Feldbrunnenstraße für den Fahrzeugverkehr; für Fußgänger ist in der Moorwei-
 
 denstraße ein Durchgang auf dem freien Gehweg möglich. Die Sperrungen werden zwischen dem 5. und 6. Juli 2017 eingerichtet.
 
- Sperrung der Bugenhagenstraße für den Fahrzeugverkehr ab dem 6. Juli 2017; für
+– Sperrung der Bugenhagenstraße für den Fahrzeugverkehr ab dem 6. Juli 2017; für
 
 Fußgänger ist ein Durchgang auf dem freien Gehweg möglich.
 
- Sperrung der Straßen Altenwallbrücke, Alter Wall und Adolphsbrücke für den
+– Sperrung der Straßen Altenwallbrücke, Alter Wall und Adolphsbrücke für den
 
 Fahrzeugverkehr ab dem 6. Juli 2017; für Fußgänger ist ein Durchgang in den Straßen Adolphsbrücke und Alter Wall auf dem freien Gehweg möglich.
 
- Sperrung der Straße Schöne Aussicht einschließlich des Alsterwanderwegs von
+– Sperrung der Straße Schöne Aussicht einschließlich des Alsterwanderwegs von
 
 der Feenteichbrücke bis zur Auguststraße ab dem 6. Juli 2017.
 

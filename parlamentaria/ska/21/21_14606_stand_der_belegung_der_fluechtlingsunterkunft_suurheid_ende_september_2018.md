@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 27
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12934", "21/2108", "21/13464", "21/13795", "21/12594"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64043"
@@ -47,7 +48,7 @@ Wie viele Flüchtlinge waren in der örU Suurheid Ende September 2018 untergebra
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Geschlecht  
 Kinder und Jugendliche  

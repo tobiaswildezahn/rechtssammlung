@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1669"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59699"
@@ -44,7 +45,7 @@ Wie hoch ist das Verhältnis zwischen Einstellungen und eingegangen Bewerbungen 
 
 Wie hat sich dieses Verhältnis seit 2015 entwickelt? Bitte auch nach Schutz-, Kriminal- und Wasserschutzpolizei sowie Laufbahngruppen aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Oktober erfolgen nur Einstellungen für den LA II. Die erfragten Bewerber- und Einstellungszahlen sind in der folgenden Tabelle dargestellt:
 

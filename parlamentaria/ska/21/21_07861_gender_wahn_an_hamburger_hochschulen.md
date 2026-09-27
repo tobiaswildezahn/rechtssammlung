@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/729"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56488"
@@ -109,7 +110,7 @@ Wer entwickelt Gender-Module an Hamburger Hochschulen?
 
 Welches Mitspracherecht hat der Senat dabei?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nach Artikel 5 Absatz 3 des Grundgesetzes für die Bundesrepublik Deutschland sind Wissenschaft, Forschung und Lehre in Deutschland frei. Insofern werden Lehrveranstaltungen und Module von den Hochschulen eigenverantwortlich entwickelt.
 

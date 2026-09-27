@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13135", "21/15428", "21/11139"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65924"
@@ -57,7 +58,7 @@ Wann und wo fanden die Workshops zur Erarbeitung des Leitfadens statt, welche St
 
 Welche Umstände haben dazu geführt, dass der Leitfaden erst später fertiggestellt werden konnte?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Seit Anfang 2018 fanden verschiedene Abstimmungsgespräche auf Arbeitsebene bei der Behörde für Stadtentwicklung und Wohnen (BSW) unter Beteiligung der betroffenen Bezirksämter statt. Die Gespräche dauern an. Die Federführung liegt bei der Behörde für Stadtentwicklung und Wohnen.
 
@@ -69,7 +70,7 @@ Wenn der Leitfaden noch nicht fertiggestellt werden konnte: Welche Verfahren und
 
 Welche weiteren Leitfäden, Vorschriften, Anweisungen oder Richtlinien geben die Vorgehensweise der Behörden und der Bezirke bei der Ausübung von Vorkaufsrechten vor?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die zuständigen Stellen wenden die gesetzlichen Vorschriften an. Einzelfallbezogen tauschen sich die Bezirksämter mit der zuständigen Fachbehörde aus.
 

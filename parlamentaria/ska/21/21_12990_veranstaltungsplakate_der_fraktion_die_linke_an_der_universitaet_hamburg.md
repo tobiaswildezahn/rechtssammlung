@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62320"
@@ -71,7 +72,7 @@ Durch welche Rechtsvorschrift(en) wird das Anbringen von Veranstaltungsplakaten 
 
 Falls das Anbringen von Parteienwerbung legitim ist: An welche Stelle muss sich die AfD-Bürgerschaftsfraktion wenden, um zukünftig in den Gebäuden der Universität Hamburg Veranstaltungsplakate für ihre Fraktionsveranstaltungen anzubringen beziehungsweise welche weiteren Voraussetzungen sind daran geknüpft?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Das Anbringen von Veranstaltungsplakaten von Parteien wird nicht geduldet. Derartige Plakate werden daher routinehaft abgenommen. Nach den Raumvergabebestimmungen der UHH ist zudem die Raumvergabe für Veranstaltungen politischer Parteien ausgeschlossen.
 

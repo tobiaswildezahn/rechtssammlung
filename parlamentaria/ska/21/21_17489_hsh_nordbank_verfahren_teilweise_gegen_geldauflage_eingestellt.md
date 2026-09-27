@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67075"
@@ -69,7 +70,7 @@ Welche Beträge sind gezahlt worden?
 
 Zu welchen Zeitpunkten sind Beträge geflossen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Dem Senat ist nicht bekannt, welche Beträge aus den zwischen den Parteien geschlossenen Vergleichsvereinbarungen bereits gezahlt worden sind.
 

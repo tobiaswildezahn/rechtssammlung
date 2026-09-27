@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11457"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60826"
@@ -69,7 +70,7 @@ Hat die Polizei einen terroristischen Hintergrund der Tat bereits ausgeschlossen
 
 Hat die Polizei eine rechte Motivation für die Tat bereits ausgeschlossen? Wenn ja, mit welcher Begründung?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Erkenntnisse auf eine Motivation zur Straftat im Sinne der Fragestellungen liegen derzeit nicht vor.
 
@@ -99,55 +100,55 @@ Im Hinblick auf das Persönlichkeitsrecht des Betroffenen und die gesetzlichen W
 
 Die Auskunft des Bundeszentralregisters vom 22. Dezember 2017 enthält folgende mitteilungsfähige Eintragungen:
 
- Verurteilung vom 4. Juni 1987 wegen gefährlicher Körperverletzung in vier Fällen,
+– Verurteilung vom 4. Juni 1987 wegen gefährlicher Körperverletzung in vier Fällen,
 
 davon in einem Fall in Tateinheit mit gemeinschaftlicher Sachbeschädigung, vorsätzlichen Vollrausches, vorsätzlicher Körperverletzung, gemeinschaftlicher Sachbeschädigung in zwei Fällen sowie Sachbeschädigung in Tateinheit mit Hausfriedensbruch zu einer Jugendstrafe von einem Jahr und acht Monaten durch das Amtsgericht Hamburg,
 
- Verurteilung vom 10. Juni 1988 wegen gefährlicher Körperverletzung zu acht
+– Verurteilung vom 10. Juni 1988 wegen gefährlicher Körperverletzung zu acht
 
 Monaten Freiheitsstrafe durch das Amtsgericht Hamburg,
 
- Verurteilung vom 12. März 1990 wegen Körperverletzung zu acht Monaten Frei-
+– Verurteilung vom 12. März 1990 wegen Körperverletzung zu acht Monaten Frei-
 
 heitsstrafe mit Bewährung durch das Amtsgericht Hamburg,
 
- Verurteilung vom 28. September 1992 wegen gemeinschaftlichen Totschlags zu
+– Verurteilung vom 28. September 1992 wegen gemeinschaftlichen Totschlags zu
 
 einer Freiheitsstrafe von acht Jahren und sechs Monaten durch das Landgericht Stade,
 
- Verurteilung vom 9. Januar 1997 wegen sexueller Nötigung in Tateinheit mit
+– Verurteilung vom 9. Januar 1997 wegen sexueller Nötigung in Tateinheit mit
 
 gefährlicher Körperverletzung zu einer Freiheitsstrafe von vier Jahren durch das Landgericht Hamburg,
 
- Verurteilung vom 8. Juni 2006 wegen gefährlicher Körperverletzung zu einer Frei-
+– Verurteilung vom 8. Juni 2006 wegen gefährlicher Körperverletzung zu einer Frei-
 
 heitsstrafe von einem Jahr durch das Amtsgericht Schwarzenbek,
 
- Verurteilung vom 24. September 2009 wegen Sachbeschädigung zu einer Frei-
+– Verurteilung vom 24. September 2009 wegen Sachbeschädigung zu einer Frei-
 
 heitsstrafe von drei Monaten mit Bewährung durch das Amtsgericht Ratzeburg,
 
- Verurteilung vom 17. Dezember 2009 wegen vorsätzlicher Körperverletzung zu
+– Verurteilung vom 17. Dezember 2009 wegen vorsätzlicher Körperverletzung zu
 
 einer Freiheitsstrafe von einem Jahr mit Bewährung durch das Amtsgericht Ratzeburg,
 
- Verurteilung vom 18. März 2010 wegen Körperverletzung in Tateinheit mit Dieb-
+– Verurteilung vom 18. März 2010 wegen Körperverletzung in Tateinheit mit Dieb-
 
 stahl geringwertiger Sachen unter Einbeziehung der beiden vorgenannten Verurteilungen zu einer Freiheitsstrafe von einem Jahr und zwei Monaten mit Bewährung durch das Amtsgericht Ahrensburg, wobei die Strafaussetzung später widerrufen wurde,
 
- Verurteilung vom 29. November 2013 wegen Sachbeschädigung zu einer Frei-
+– Verurteilung vom 29. November 2013 wegen Sachbeschädigung zu einer Frei-
 
 heitsstrafe von drei Monaten durch das Amtsgericht Ahrensburg,
 
- Verurteilung vom 23. Juni 2014 wegen Diebstahls geringwertiger Sachen zu einer
+– Verurteilung vom 23. Juni 2014 wegen Diebstahls geringwertiger Sachen zu einer
 
 Geldstrafe von 20 Tagessätzen durch das Amtsgericht Hamburg-Harburg,
 
- Verurteilung vom 11. April 2016 wegen Diebstahls zu einer Geldstrafe von 50
+– Verurteilung vom 11. April 2016 wegen Diebstahls zu einer Geldstrafe von 50
 
 Tagessätzen durch das Amtsgericht Hamburg-Harburg,
 
- Verurteilung vom 26. Januar 2017 wegen Diebstahls zu einer Geldstrafe von 30
+– Verurteilung vom 26. Januar 2017 wegen Diebstahls zu einer Geldstrafe von 30
 
 Tagessätzen durch das Amtsgericht Hamburg-Harburg.
 
@@ -159,7 +160,7 @@ Auf die Frage, ob Hinweise auf rechtes/rechtsextremistisches Gedankengut oder Ve
 
 Ist die Szene, in der sich der Verdächtige polizeibekannt in der letzten Zeit häufig aufhielt, nach seiner politischen Einstellung befragt worden? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Hinweise auf eine frühere rechtsextreme Einstellung des Beschuldigten ergeben sich insbesondere aus Recherchen in polizeilichen Auskunftssystemen und Abfragen bei anderen Behörden. Im Übrigen siehe Vorbemerkung.
 

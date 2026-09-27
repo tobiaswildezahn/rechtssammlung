@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16337", "21/16800", "21/17217"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66949"
@@ -43,7 +44,7 @@ Wie kann es sein, dass künftige Fünftklässler aus dem Bezirk Harburg ungeacht
 
 Bei der Prüfung des Erstwunsches gelten in der Reihenfolge die Kriterien Härtefall, Geschwisterregelung und Entfernung. Gelten diese auch beim Zweit- und Dritt-Wunsch? Wenn ja, warum kamen die Kriterien in den genannten Fällen nicht zum Tragen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Sind mehr Anmeldungen als Plätze an der Erstwunschschule vorhanden, werden die Schülerinnen und Schüler gemäß der gesetzlichen Vorgaben der §§ 42 Absatz 7, 87 Absatz 1, 14 Absatz 1 Hamburgisches Schulgesetz (HmbSG) sowie der § 12 HmbSG i.V.m. § 15 der Verordnung über die Ausbildung von Schülerinnen und Schülern mit sonderpädagogischem Förderbedarf (AO-SF) an den Zweit- und Drittwunschschulen beziehungsweise an Schulen in altersangemessener Entfernung beschult. Dies setzt stets voraus, dass die Eltern Zweit- und Drittwunschschulen angegeben haben.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/329", "21/9923"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69823"
@@ -149,7 +150,7 @@ Wie hat sich das Aufkommen von behördlichen Kontenabrufen zwischen 2015 und 202
 
 Wie hat sich das Aufkommen von behördlichen Kontenabrufen zwischen 2015 und 2020 entwickelt? Bitte kurz etwaige Ab- beziehungsweise Zunahmen skizzieren.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 1.
 
@@ -169,7 +170,7 @@ Wie viele Delikte der Steuerhinterziehung hat es 2019 in Hamburg gegeben?
 
 Wie hat sich die Häufigkeit solcher Delikte zwischen 2015 und 2020 entwickelt? Bitte etwaige Zu- beziehungsweise Abnahmen skizzieren.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die zuständige Fachbehörde kann sich nur zur Anzahl der aufgedeckten Delikte der Steuerhinterziehung äußern. Belastbare Erkenntnisse zur Höhe der Dunkelziffer liegen nicht vor. Die Anzahl der in der Bußgeld- und Strafsachenstelle beim Finanzamt für Prüfungsdienste und Strafsachen in Hamburg im Jahr hinzugekommenen Strafverfahren wegen Steuerstraftaten und gleichgestellten Straftaten hat sich in den Jahren 2015 bis 2020 (Stichtag: 05.02.2020) wie folgt entwickelt:
 

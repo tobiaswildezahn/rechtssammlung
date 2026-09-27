@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56739"
@@ -55,7 +56,7 @@ Wie viele Schüler erreichten im Schuljahr 2015/2016 an den Hamburger allgemeinb
 
 Wie hoch war der Anteil der Schüler ohne Schulabschluss an den Stadtteilschulen im Schuljahr 2015/2016?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe: http://www.hamburg.de/contentblob/8163620/b241075e77946b30cab5cddd7edbec84/ data/2015-16-schulentlassene.pdf, Tabellen 1 und 2.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/5306", "19/7036", "20/3149", "20/3705", "20/3763", "20/6787", "20/6856", "20/11503", "20/14665", "21/141", "20/13193"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48433"
@@ -194,7 +195,7 @@ Inwieweit wichen/weichen die über die Anmeldezahlen an den Schulen im Bezirk Ha
 
 Welchen Einfluss hat das Anmeldeverhalten der Eltern auf die Fortschreibung des SEPL?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Schulentwicklungsplan betrachtet die vorhandenen Schulen und stellt diese in Relation zu den mittelfristig zu erwartenden Schülerzahlen. Da die Hamburgische Verwaltung verpflichtet ist, ihre Planungen nach dem Gebot von Wirtschaftlichkeit und Sparsamkeit zu erbringen, ist das erste Kriterium, vorhandene Schulen möglichst auszulasten und Zubauten überall da zu vermeiden, wo sich in zumutbarer Entfernung geeignete Schulräume nachweisen lassen. Im Übrigen siehe Drs. 21/141.
 

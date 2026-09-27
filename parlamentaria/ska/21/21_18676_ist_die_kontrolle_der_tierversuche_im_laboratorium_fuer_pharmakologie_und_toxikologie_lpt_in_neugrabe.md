@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 19
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7809"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68342"
@@ -127,7 +128,7 @@ Welche Ergebnisse haben die unter Ziffer 7. fallenden Kontrollen jeweils erbrach
 
 Mit jeweils welchen konkreten Maßnahmen und jeweils wann haben der Senat und die zuständige Behörde auf die unter Ziffer 8. fallenden Ergebnisse im Einzelnen jeweils reagiert? Bitte detailliert erläutern.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Drs. 21/7809. Dies ist auch für die Jahre 2017 bis 2019 zutreffend.
 
@@ -158,7 +159,7 @@ Welche Ergebnisse haben die unter Ziffer 10. fallenden Kontrollen jeweils erbrac
 
 Mit jeweils welchen konkreten Maßnahmen und jeweils wann haben der Senat und die zuständige Behörde auf die unter Ziffer 11. fallenden Ergebnisse im Einzelnen jeweils reagiert? Bitte nach Jahr, jeweiligem Hamburger Laboratorium/Unternehmen und jeweiligem Forschungsprojekt gesondert detailliert erläutern.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Drs. 21/7809. Dies ist auch für die Jahre 2017 bis 2019 zutreffend.
 
@@ -175,25 +176,25 @@ b) Anhand jeweils welcher Kriterien und jeweils wann erfolgt die einer Kontrolle
 
 Nachfolgende Kriterien werden bei einer Risikobewertung für eine Kontrolle in Tierversuchseinrichtungen berücksichtigt:
 
- Management und Betriebsführung,
+– Management und Betriebsführung,
 
- Art und Größe der Einrichtungen,
+– Art und Größe der Einrichtungen,
 
- Zustand der Haltungseinrichtung,
+– Zustand der Haltungseinrichtung,
 
- Art und Zahl der dort gehaltenen Tiere,
+– Art und Zahl der dort gehaltenen Tiere,
 
- Erfahrung mit der Tierart,
+– Erfahrung mit der Tierart,
 
- absehbare Beeinträchtigungen für diese Tiere sowie bisherige Erfahrungen,
+– absehbare Beeinträchtigungen für diese Tiere sowie bisherige Erfahrungen,
 
- Art, Anzahl sowie Zeitpunkt von Verstößen gegen tierschutzrechtliche Vorschriften
+– Art, Anzahl sowie Zeitpunkt von Verstößen gegen tierschutzrechtliche Vorschriften
 
 in der Vergangenheit,
 
- Anzahl und Sachkunde der Betreuungspersonen,
+– Anzahl und Sachkunde der Betreuungspersonen,
 
- Zeitpunkt und Ergebnis der letzten Kontrolle.
+– Zeitpunkt und Ergebnis der letzten Kontrolle.
 
 Die Kriterien beruhen auf den Vorgaben der Kontrollverordnung (EG) Nummer 882/2004 und werden analog angewendet.
 

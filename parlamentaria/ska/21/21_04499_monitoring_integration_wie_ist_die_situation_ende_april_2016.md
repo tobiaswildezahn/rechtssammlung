@@ -14,6 +14,7 @@ fragen: 26
 einzelfragen: 46
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2868", "21/3915", "21/4316"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52902"
@@ -87,15 +88,15 @@ e) mindestens elf Jahre?
 
 Zum Stichtag 31.03.2016 hat die Auswertung von 826 registrierten Personen ergeben, dass
 
-• 48 Personen über keine Schulbildung verfügen oder hierzu beziehungsweise über den Zeitraum des Schulbesuches keine Angaben machten,
+– 48 Personen über keine Schulbildung verfügen oder hierzu beziehungsweise über den Zeitraum des Schulbesuches keine Angaben machten,
 
-• 24 Personen eine Schule über bis zu vier Jahre besuchten,
+– 24 Personen eine Schule über bis zu vier Jahre besuchten,
 
-• 121 Personen über fünf bis acht Jahre,
+– 121 Personen über fünf bis acht Jahre,
 
-• 109 Personen über neun bis zehn Jahre und
+– 109 Personen über neun bis zehn Jahre und
 
-• 524 Personen über mindestens elf Jahre.
+– 524 Personen über mindestens elf Jahre.
 
 ### Frage 4
 
@@ -129,7 +130,7 @@ Wie viele Flüchtlinge üben derzeit eine sozialversicherungspflichtige Arbeit a
 
 Wie viele Flüchtlinge sind Ende April 2016 im Regelsystem des SGB II? Wie viele sind davon Männer, wie viele Frauen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der Statistik-Service der Bundesagentur für Arbeit nimmt keine Auswertung im Sinne der Fragestellung vor. Es wird hier auf die methodischen Hinweise der Bundesagentur für Arbeit verwiesen: „Asylbewerber und Flüchtlinge können in den Arbeitsmarktstatistiken nicht direkt erkannt werden. Es können aber hilfsweise Auswertungen nach der Staatsangehörigkeit vorgenommen werden. Dazu wurde das Aggregat „Personen mit einer Staatsangehörigkeit aus einem der zugangsstärksten Herkunftsländern von Asylbewerbern“ oder kurz „Asylzugangsländer“ gebildet. In das Aggregat wurden die Länder aufgenommen, die in den letzten Jahren jeweils zu den zehn Ländern mit den meisten Asylanträgen gehörten“.
 

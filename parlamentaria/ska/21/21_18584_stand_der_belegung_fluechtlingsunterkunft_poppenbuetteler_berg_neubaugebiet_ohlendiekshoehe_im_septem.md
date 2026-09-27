@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 28
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17697", "21/18229", "21/2108"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68230"
@@ -69,7 +70,7 @@ Ende Juli lebten 401 Flüchtlinge in örU in dem Quartier. Wie viele sind es akt
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Geschlecht  
 Kinder und Jugendliche  

@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 31
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14207", "20/12720", "20/5317"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48316"
@@ -97,7 +98,7 @@ Welche konkreten Modifikationen des Siegerentwurfes für die STS Lurup fordert d
 
 Welche zusätzlichen Kosten entstehen durch die nachträgliche Modifikation des Siegerentwurfes?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Keine, siehe Antwort zu 1. bis 3.
 
@@ -109,7 +110,7 @@ Was genau ist damit gemeint, wenn von „Kanibalisierung“ der beiden, sich in 
 
 Gibt es neben der „Kanibalisierungsangst“ andere sachliche Gründe für die parallele Verschiebung der Baubeginn- beziehungsweise Fertigstellungszeitpunkte an den beiden Schulen und stimmt es in diesen Zusammenhang, dass – wie in einer bezirklichen Ausschusssitzung seitens des Bezirksamtes wiedergegeben – eine weitere Verzögerung eines der beiden Bauvorhaben automatisch auch die Verzögerung des jeweils anderen mit sich brächte? Wenn ja, aus welchen Gründen wird dies angestrebt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die genannten Begriffe wurden von den zuständigen Behörden nicht verwendet. Im Übrigen befinden sich beide Projekte aktuell im gleichen Planungsstand.
 

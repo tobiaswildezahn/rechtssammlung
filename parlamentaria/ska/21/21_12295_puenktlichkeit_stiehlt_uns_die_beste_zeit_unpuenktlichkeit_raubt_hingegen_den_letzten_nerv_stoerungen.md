@@ -14,6 +14,7 @@ fragen: 38
 einzelfragen: 47
 antwortbloecke: 22
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12265", "21/8240"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61585"
@@ -221,7 +222,7 @@ Linie
 2015  
 2016  
 2017  
- 2011-
+– 2011-
 
 2016  
 A1  
@@ -350,7 +351,7 @@ Wie viele Kilometer umfasst die Betriebslänge der AKN-Linie A1?
 
 Wie viele Kilometer umfasst die Gesamtlänge des Bahnnetzes der AKN- Linie A1?
 
-#### Antwort zu Fragen 32 bis 33
+#### Antwort zu Fragen 32 und 33
 
 Die Betriebslänge zwischen dem Abschnitt der Infrastrukturanschlussgrenze AKN/DB AG bei Hamburg-Eidelstedt und der Landesgrenze Hamburg/Schleswig-Holstein auf der Linie A1 beträgt 6,321 km. Die Gesamtgleislänge in diesem Abschnitt beträgt 12,178 km (ohne Weichenlängen).
 

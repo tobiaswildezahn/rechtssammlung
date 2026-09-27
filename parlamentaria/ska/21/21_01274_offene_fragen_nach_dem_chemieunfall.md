@@ -5,17 +5,18 @@ wahlperiode: 21
 id: 49464
 titel: "Offene Fragen nach dem Chemieunfall"
 datum_anfrage: "2015-08-11"
-datum_drucksache: null
+datum_drucksache: "2015-08-18"
 urheber: ["Christiane Schneider"]
 fraktionen: ["Die Linke"]
 vorgang: 45259
 seiten: 3
-fragen: 0
-einzelfragen: 0
-antwortbloecke: 0
+fragen: 5
+einzelfragen: 11
+antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49464"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/49464/21_01274_offene_fragen_nach_dem_chemieunfall"
 abgerufen: "2026-09-27"
@@ -24,51 +25,39 @@ generator: "ska_archiv 1.0"
 
 # Drs. 21/1274: Offene Fragen nach dem Chemieunfall
 
-> Schriftliche Kleine Anfrage und Antwort des Senats  
+> Schriftliche Kleine Anfrage der Abgeordneten Christiane Schneider (DIE LINKE) vom 11.08.15 und Antwort des Senats · Drucksache vom 18.08.2015  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/49464) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/49464/21_01274_offene_fragen_nach_dem_chemieunfall)
 
-## Volltext
-
-BÜRGERSCHAFT DER FREIEN UND HANSESTADT HAMBURG Drucksache 21/1274 21. Wahlperiode 18.08.15
-
-Schriftliche Kleine Anfrage
-
-der Abgeordneten Christiane Schneider (DIE LINKE) vom 11.08.15
-
-und Antwort des Senats
-
-Betr: Offene Fragen nach dem Chemieunfall
+## Einleitung für die Fragen
 
 Am 6. August 2015 trat bei einem Chemiebetrieb in Billbrook rund 1 Tonne der gefährlichen Lauge Contram aus. Laut Medienberichten waren Feuerwehr und Polizei, die um 20.44 Uhr alarmiert worden waren, mit 120 Einsatzkräften schnell vor Ort. Mehr als 100 Gäste eines anliegenden Hotels und weitere Menschen in der Umgebung wurden evakuiert. 20 Menschen, darunter Feuerwehrleute und Polizeibeamte und -beamtinnen, kamen vorübergehend beziehungsweise stationär ins Krankenhaus, 48 Personen wurden notärztlich behandelt. Die Medienberichte lassen einige Fragen – vor allem in Bezug auf die Warnung der Bevölkerung – offen, die viele Hamburger bewegen, wie zum Beispiel die Kommentare unter einem NDR-Bericht zeigen.
 
 Vor diesem Hintergrund frage ich den Senat:
 
-1. Wie viel Zeit verstrich von der Alarmierung bis zum Eintreffen
+## Fragen und Antworten
 
-a. der Einsatzkräfte der Feuerwehr,
+### Frage 1
 
-b. der Einsatzkräfte der Polizei?
+Wie viel Zeit verstrich von der Alarmierung bis zum Eintreffen a. der Einsatzkräfte der Feuerwehr, b. der Einsatzkräfte der Polizei?
+
+#### Antwort zu Frage 1
 
 Von der Alarmierung bis zum Eintreffen an der Einsatzstelle benötigten die ersten Einsatzkräfte der Feuerwehr und der Polizei jeweils knapp vier Minuten.
 
-2. Wann war den Einsatzkräften bekannt, dass es sich bei dem ausgetretenen Stoff um Contram handelt?
+### Frage 2
+
+Wann war den Einsatzkräften bekannt, dass es sich bei dem ausgetretenen Stoff um Contram handelt?
+
+#### Antwort zu Frage 2
 
 Die Feuerwehr erhielt nach dem Eintreffen am Unglücksort zunächst unterschiedliche Angaben zu dem ausgetretenen Stoff. Der Polizei wurde durch die Feuerwehr um
 21.58 Uhr mitgeteilt, dass es sich bei dem entwichenen Stoff nach den bis dahin vorliegenden Erkenntnissen unter Umständen um das Produkt „Contram MBO“ handeln könnte. Diese Informationen wurden um 22.11 Uhr über Funk an die eingesetzten Polizeikräfte und die PEZ weitergegeben. Um 22.40 Uhr erfolgte nach ergänzenden Informationen durch die Feuerwehr bezüglich der Wirkung und Eigenschaften des Stoffes eine vervollständigende Information an die Polizeikräfte. Die eingesetzten Kräfte der Feuerwehr wurden über Funk über den jeweils aktuellen Erkenntnisstand informiert. Da die Bezeichnung „Contram“ vom Hersteller als Sammelbezeichnung für eine Reihe verschiedener Produkte (Contram MBO und weitere Contram-Produkte) verwendet wird, ist für die Bewertung die sichere Kenntnis des exakten Produktes notwendig. Die vorangegangene Annahme der Feuerwehreinsatzleitung, dass es sich um „Contram MBO“ handelt, konnte nach abschließender Abklärung mit der Werksleitung gegen 0.30 Uhr zweifelsfrei bestätigt werden.
 
-3. Wann und wie wurde die Bevölkerung in welchem Umkreis gewarnt?
+### Frage 3
 
-a. Wann und in welchen Straßenzügen wurde die Bevölkerung durch Lautsprecherdurchsagen der Polizei, wie in Medienberichten zu lesen, gewarnt?
+Wann und wie wurde die Bevölkerung in welchem Umkreis gewarnt? a. Wann und in welchen Straßenzügen wurde die Bevölkerung durch Lautsprecherdurchsagen der Polizei, wie in Medienberichten zu lesen, gewarnt? b. Wann und auf welche Weise wurde in welchen Stadtteilen („rund 20 Stadtteile“) die Bevölkerung auf welche Weise gewarnt und aufgefordert, Türen und Fenster geschlossen zu halten und sich nicht ins Freie zu begeben? c. Trifft zu, dass die Feuerwehr über KATWARN, Twitter und Facebook gewarnt hat, dass es jedoch keine (oder keine rechtzeitigen) Warnungen durch Rundfunkmeldungen, Videotexte, Sirenen, Lautsprecheransagen durch Polizei und Bezirksamt (außer in unmittelbarer Umgebung der Fabrik) gegeben hat? Wenn ja, bitte darlegen. d. Gibt es eine Schätzung, wie viele Menschen in dem auf der KAT- WARN-Karte dargestellten Gebiet durch die Warnungen über KAT- WARN, Twitter und Facebook erreicht wurden? e. Wer entscheidet, ob und wie die Bevölkerung bei Chemieunfällen und vergleichbaren Ereignissen gewarnt wird? Wer hat im konkreten Fall entschieden?
 
-b. Wann und auf welche Weise wurde in welchen Stadtteilen („rund 20 Stadtteile“) die Bevölkerung auf welche Weise gewarnt und aufgefordert, Türen und Fenster geschlossen zu halten und sich nicht ins Freie zu begeben?
-
-c. Trifft zu, dass die Feuerwehr über KATWARN, Twitter und Facebook gewarnt hat, dass es jedoch keine (oder keine rechtzeitigen) Warnungen durch Rundfunkmeldungen, Videotexte, Sirenen, Lautsprecheransagen durch Polizei und Bezirksamt (außer in unmittelbarer Umgebung der Fabrik) gegeben hat?
-
-Wenn ja, bitte darlegen.
-
-d. Gibt es eine Schätzung, wie viele Menschen in dem auf der KAT- WARN-Karte dargestellten Gebiet durch die Warnungen über KAT- WARN, Twitter und Facebook erreicht wurden?
-
-e. Wer entscheidet, ob und wie die Bevölkerung bei Chemieunfällen und vergleichbaren Ereignissen gewarnt wird? Wer hat im konkreten Fall entschieden?
+#### Antwort zu Frage 3
 
 Verfahren und Zuständigkeiten für die Warnung der Bevölkerung bei Freisetzung von Schadstoffen in die Luft hat die Behörde für Inneres und Sport durch die „Besondere Richtlinie zur Abwehr von Gefahren durch gefährliche Schadstoffkonzentrationen in der Atmosphäre“ festgelegt. Danach bewertet die Feuerwehr bei einer Schadstofffreisetzung das Ausmaß der Gefährdung. Kann eine Gefährdung für das Leben und die Gesundheit von Menschen nicht ausgeschlossen werden, sind unverzüglich Warnmaßnahmen zu veranlassen.
 
@@ -94,14 +83,18 @@ Allgemeine Lautsprecherdurchsagen zur Warnung der Bevölkerung wurden von der Fe
 
 Eine Ermittlung, wie viele Personen in den zu warnenden Gebieten letztendlich die Warnungen über KATWARN, Facebook und Twitter erhalten haben, ist technisch nicht möglich.
 
-4. Wie viele der vom Unfall betroffenen Personen sind derzeit noch
+### Frage 4
 
-a. im Krankenhaus,
+Wie viele der vom Unfall betroffenen Personen sind derzeit noch a. im Krankenhaus, b. in ärztlicher Behandlung?
 
-b. in ärztlicher Behandlung?
+#### Antwort zu Frage 4
 
 Nach Erkenntnissen der Polizei wurden zwei in Krankenhäuser eingelieferte Personen auf der Intensivstation behandelt und am 7. August 2015 von dort entlassen. Weitere Erkenntnisse im Sinne der Fragestellung liegen nicht vor.
 
-5. Was war die genaue Unfallursache?
+### Frage 5
+
+Was war die genaue Unfallursache?
+
+#### Antwort zu Frage 5
 
 Die Klärung der Unfallursache ist Gegenstand der noch laufenden polizeilichen Ermittlungen.

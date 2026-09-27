@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14384", "21/185", "18/2592"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48459"
@@ -43,21 +44,21 @@ Welche Leistungen erhalten Flüchtlinge, die in die ZEA aufgenommen werden, als 
 
 Wofür sollen diese Leistungen laut AsylbewerberLG in der Regel verwendet werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Bargeldbedarf gemäß § 3 Absatz 1 Sätze 4 und 5 Asylbewerberleistungsgesetz (AsylbLG) zur Deckung persönlicher Bedürfnisse des täglichen Lebens steht den Empfängern zur freien Verfügung. Der Bundesgesetzgeber hat zur Ermittlung der Höhe des Bargeldbedarfs auf die nach § 28 SGB XII vorgenommene Sonderauswertung der Einkommens- und Verbrauchsstichprobe zurückgegriffen und deren folgende Abteilungen berücksichtigt:
 
- Abteilung 7 Verkehr
+– Abteilung 7 Verkehr
 
- Abteilung 8 Nachrichtenübermittlung
+– Abteilung 8 Nachrichtenübermittlung
 
- Abteilung 9 Freizeit, Unterhaltung, Kultur
+– Abteilung 9 Freizeit, Unterhaltung, Kultur
 
- Abteilung 10 Bildung
+– Abteilung 10 Bildung
 
- Abteilung 11 Beherbergungs- und Gaststättendienstleistungen
+– Abteilung 11 Beherbergungs- und Gaststättendienstleistungen
 
- Abteilung 12 Andere Waren und Dienstleistungen (teilweise)
+– Abteilung 12 Andere Waren und Dienstleistungen (teilweise)
 
 Im Einzelnen siehe BT-Drs. 18/2592.
 
@@ -69,7 +70,7 @@ Wie lange dauert es, bis neu ankommende Flüchtlinge aus der ZEA ihr Taschengeld
 
 Wie kommt dieser Zeitraum zustande?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Von der Aufnahme der Person in der Zentralen Erstaufnahmeeinrichtung (ZEA) bis zur Entscheidung über den Leistungsantrag dauert es derzeit circa 2,5 Wochen. Die neu aufgenommenen Personen müssen bis zum nächsten standortbezogenen Sprechtag warten, um den Leistungsbescheid zu erhalten, mit dem sie bei der Zahlstelle des für ihren Wohnort zuständigen Bezirksamtes die Taschengeldleistung ausbezahlt bekommen. Es ist somit möglich, dass neu aufgenommene Personen die erste Taschengeldauszahlung erst im Folgemonat erhalten.
 

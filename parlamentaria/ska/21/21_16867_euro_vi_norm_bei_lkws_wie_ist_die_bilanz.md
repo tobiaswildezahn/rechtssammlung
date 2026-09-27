@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/8489"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66422"
@@ -49,7 +50,7 @@ Wie viele Kontrollen für Lkws und durch welche Stelle gab es in Hamburg, bei de
 
 Mit welchem Ergebnis wurden diese Kontrollen durchgeführt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die erfragten Daten werden bei der Polizei statistisch nicht erfasst. Im Übrigen siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 20
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57176"
@@ -167,7 +168,7 @@ Wäre es rechtlich zulässig, auch eine Nachrüstung bereits vorhandener Lkws an
 
 Wäre eine solche Pflicht zulässig, wenn dem Halter die entstehenden Kosten ganz oder teilweise erstattet würden?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Ja.
 

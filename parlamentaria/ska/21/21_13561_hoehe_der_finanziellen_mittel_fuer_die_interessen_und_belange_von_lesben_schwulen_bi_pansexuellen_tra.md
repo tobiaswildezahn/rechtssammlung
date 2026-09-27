@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6986", "21/3310", "21/2221", "21/7485", "21/7993"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62933"
@@ -81,7 +82,7 @@ Welche finanziellen Mittel sind im Haushalt 2017 und 2018 und im Haushaltsplan-E
 
 Welche finanziellen Mittel sind im Haushalt 2017 und 2018 und im Haushaltsplan-Entwurf 2019/2020 der Freien und Hansestadt Hamburg für die 90 Punkte im Maßnahmenkatalog des Aktionsplans für die Akzeptanz geschlechtlicher und sexueller Vielfalt vorgesehen? Bitte unter Benennung der jeweiligen Maßnahme, des jeweiligen Einzelplans, der Drucksachennummer, Angabe der PG, des Kontenbereichs, des Produkts, dem Jahr für die jeweiligen finanziellen Mittel auflisten.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Stabsstelle Gleichstellung und geschlechtliche Vielfalt obliegt die Koordination sowie das Monitoring und Controlling für sämtliche Maßnahmen des Aktionsplans für die Akzeptanz geschlechtlicher Vielfalt. Auch die Gesamtevaluation und Fortschreibung des Programms unter Einbeziehung aller Fachbehörden und der Zivilgesellschaft obliegen der Stabsstelle G. Der Aktionsplan weist 90 Einzelmaßnahmen in elf verschiedenen Handlungsfeldern auf; davon sind mehrere Maßnahmen eigenverantwortlich und in ihrer Budgetverantwortung durch die Stabsstelle umzusetzen. Darüber hinaus liegt entsprechend dem Verständnis des Senats von Gleichstellung als dezentral verantworteter Querschnittsaufgabe die finanzielle Verantwortung zur Umsetzung der Maßnahmen bei den jeweils zuständigen Fachbehörden und Senatsämtern. Entsprechende Umsetzungsaktivitäten, sofern sie nicht in der obigen Tabelle aufgeführt
 

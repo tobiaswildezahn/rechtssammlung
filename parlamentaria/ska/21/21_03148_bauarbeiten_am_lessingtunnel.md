@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 19
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51477"
@@ -47,7 +48,7 @@ Welche Baumaßnahmen werden im Bereich des „Lessingtunnels“ von wann bis wan
 
 Wie viele Tage nehmen die Bauarbeiten insgesamt in Anspruch?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Folgende Maßnahmen sind im Bereich der S-Bahn-Unterführung geplant: Sielbauarbeiten von August 2016 bis Januar 2017, Brückenbauarbeiten von Januar 2017 bis September 2017 und abschließende Siel- und Straßenbauarbeiten von September 2017 bis Februar 2018.
 
@@ -91,7 +92,7 @@ Auf welchen dieser Umleitungsstrecken gibt es während der Umleitungszeit Verkeh
 
 Warum wird nicht auf solche Verkehrsbeschränkungen während der Umleitungszeit verzichtet?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Auf der ausgewiesenen Umleitungsstrecke sind während der Umleitungszeit keine Baumaßnahmen im Fahrbahnbereich geplant. Durch mögliche Sondernutzungen wird keine nachteilige Beeinflussung des Verkehrs gesehen.
 

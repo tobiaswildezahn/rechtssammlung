@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1283"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57503"
@@ -73,7 +74,7 @@ Welche Kosten entstehen insgesamt für das Engagement des AStA gegen das G20-Tre
 
 Wann wurden diese Ausgaben vom Studierendenparlament Universität Hamburg genehmigt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Das Studierendenparlament der UHH hat in seiner Sitzung vom 30. Juni 2016 den Haushalt der Studierendenschaft beschlossen. Dieser Haushalt sieht unter anderem Mittel für „Aktionen & Veranstaltung“, „Publikationen“ sowie „Demonstrationen (Eigene)“ vor. In seiner Sitzung vom 10. November 2016 hat das Studierendenparlament den Beschluss „Die Kampagne der Verfassten Studierendenschaft: Kein G20, nirgends: für eine bessere Welt!“ gefasst, in dem es den AStA beauftragt, eine entsprechende Kampagne zu initiieren. Am 12. Januar 2017 hat das Studierendenparlament die Unterstützung des Manifests „Demokratisch wirken für Frieden und Gerechtigkeit“ beschlossen, das die Grundlage des Bündnisses „Gemeinsam statt G20“ ist.
 

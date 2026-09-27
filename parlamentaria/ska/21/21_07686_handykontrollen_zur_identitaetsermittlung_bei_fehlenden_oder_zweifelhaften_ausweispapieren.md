@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7611"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56317"
@@ -61,6 +62,6 @@ Wenn die Ausländerbehörden hiervon keinen Gebrauch gemacht haben, warum nicht?
 
 Wie bewertet der Senat die Diskrepanz, dass einerseits zahlreiche Ausländer ohne Papiere einreisen in der Absicht, ihre Abschiebung zu erschweren und unberechtigterweise mehrfach Sozialleistungen zu erhalten und andererseits von der geschilderten Möglichkeit laut Medienberichten kein Gebrauch gemacht wird?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Entfällt.

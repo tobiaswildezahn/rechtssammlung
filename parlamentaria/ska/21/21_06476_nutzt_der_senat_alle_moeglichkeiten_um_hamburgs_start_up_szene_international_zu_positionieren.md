@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55015"
@@ -65,71 +66,71 @@ An welchen internationalen Messen und Konferenzen in den Bereichen Games, Highte
 
 Teilnahme an internationalen oder inländischen Messen und Konferenzen die ein internationales Publikum ansprechen in den der Fragestellung genannten Bereichen:
 
- Der Games-Standort war im Jahr 2016 bei der GDC Game Developers Conference
+– Der Games-Standort war im Jahr 2016 bei der GDC Game Developers Conference
 
 in San Francisco auf dem Gemeinschaftsstand der Bundesrepublik Deutschland vertreten.
 
- Web Summit 2015, Dublin: Unterstützung von fünf Start-ups (Matchmaking-
+– Web Summit 2015, Dublin: Unterstützung von fünf Start-ups (Matchmaking-
 
 Veranstaltung in Kooperation mit der NEXT Hamburg).
 
- Web Summit 2016, Lissabon: Unterstützung von fünf Start-ups (Matchmaking-
+– Web Summit 2016, Lissabon: Unterstützung von fünf Start-ups (Matchmaking-
 
 Event mit internationalen Investoren & Multiplikatoren).
 
- Slush 2016, Heslsinki: Unterstützung von fünf Start-ups (Matchmaking-Event in
+– Slush 2016, Heslsinki: Unterstützung von fünf Start-ups (Matchmaking-Event in
 
 Kooperation mit GTAI, der Deutsch-Finnischen Handelskammer, Berlin Partner und Invest Bavaria).
 
- South by South West 2016, Austin: Unterstützung von fünf Start-ups bei der
+– South by South West 2016, Austin: Unterstützung von fünf Start-ups bei der
 
 Bewerbung für den SXSW-Accelerator, Reisekostenübernahme für drei Start-ups (inklusive Matchmaking vor Ort).
 
- South by South West 2017, Austin: Unterstützung von fünf Start-ups bei der
+– South by South West 2017, Austin: Unterstützung von fünf Start-ups bei der
 
 Bewerbung für den SXSW-Accelerator.
 
- World Publishing Expo 2015: Unterstützung von fünf Start-ups (Ausstellungsfläche
+– World Publishing Expo 2015: Unterstützung von fünf Start-ups (Ausstellungsfläche
 
 auf der Messe).
 
- MLOVE Forum 2015: Unterstützung von fünf Start-ups (Startup-Pitches und Men-
+– MLOVE Forum 2015: Unterstützung von fünf Start-ups (Startup-Pitches und Men-
 
 toring).
 
- MLOVE Forum 2016: Unterstützung von fünf Start-ups (Startup-Pitch und Proakti-
+– MLOVE Forum 2016: Unterstützung von fünf Start-ups (Startup-Pitch und Proakti-
 
 ve Vernetzung).
 
- 5. Dubai Hamburg Business Forum 2014 „The Internet of Things – Innovation to
+– 5. Dubai Hamburg Business Forum 2014 „The Internet of Things – Innovation to
 
 Connect“: Vorstellung eines Hamburger Start-ups aus dem Bereich „Smart Health“ mit dem Ziel, Kontakte zu potenziellen Geschäftspartnern in den Vereinigten Arabischen Emiraten zu knüpfen.
 
- Slush 2015, Helsinki: Bewerbung des Hamburger Start-up-Standorts.
+– Slush 2015, Helsinki: Bewerbung des Hamburger Start-up-Standorts.
 
- Start in Europe: Germany 2016, Tel Aviv: Bewerbung des Hamburger Start-up-
+– Start in Europe: Germany 2016, Tel Aviv: Bewerbung des Hamburger Start-up-
 
 Standorts.
 
- NOAH 2015, Berlin und 2016, London: Bewerbung des Hamburger Start-up-
+– NOAH 2015, Berlin und 2016, London: Bewerbung des Hamburger Start-up-
 
 Standorts
 
- ITS-Weltkongress 2015, Bordeaux: Besuch mit Kundgebung zur Bewerbung des
+– ITS-Weltkongress 2015, Bordeaux: Besuch mit Kundgebung zur Bewerbung des
 
 Weltkongresses 2021
 
- ITS-Europakongress 2016, Glasgow: Bewerbung des Hamburger Start-up-
+– ITS-Europakongress 2016, Glasgow: Bewerbung des Hamburger Start-up-
 
 Standorts
 
- 23. ITS-Weltkongress 2016, Melbourne: Bewerbung des Hamburger Start-up-
+– 23. ITS-Weltkongress 2016, Melbourne: Bewerbung des Hamburger Start-up-
 
 Standorts
 
- Smart City Expo 2015, Barcelona: Bewerbung des Hamburger Start-up-Standorts
+– Smart City Expo 2015, Barcelona: Bewerbung des Hamburger Start-up-Standorts
 
- Teilnahme der Hamburg Kreativ Gesellschaft zur Unterstützung und Werbung für
+– Teilnahme der Hamburg Kreativ Gesellschaft zur Unterstützung und Werbung für
 
 Hamburgs kreative Szene seit dem Jahr 2014:
 
@@ -147,11 +148,11 @@ Hamburgs kreative Szene seit dem Jahr 2014:
 
 - Creative Hubs, Hanoi.
 
- Gamescom 2014, 2015 und 2016, Köln: Hamburger Gemeinschaftsstand im Busi-
+– Gamescom 2014, 2015 und 2016, Köln: Hamburger Gemeinschaftsstand im Busi-
 
 nessbereich der Messe, auf dem sich durchschnittlich ein Dutzend Hamburger Unternehmen präsentieren konnte.
 
- CeBIT 2014, 2015 und 2016, Hannover: Zuschüsse für die Messeteilnahme auf
+– CeBIT 2014, 2015 und 2016, Hannover: Zuschüsse für die Messeteilnahme auf
 
 dem Hamburger Gemeinschaftsstand.
 

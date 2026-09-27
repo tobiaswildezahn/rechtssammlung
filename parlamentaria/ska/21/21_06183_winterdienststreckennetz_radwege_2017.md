@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2641"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54699"
@@ -38,10 +39,16 @@ Ich frage den Senat:
 ### Frage 1
 
 Ist für die Winterdienstsaison 2016/2017 eine weitere Ausweitung des Winterdienststreckennetzes geplant?
-1.1. Wenn ja, um wie viele Kilometer wird der Winterdienst auf Radverkehrsanlagen in der Saison 2016/2017 ausgeweitet?
-1.2. Welche Strecken wurden neu in das Winterdienststreckennetz für Radverkehrsanlagen 2016/2017 aufgenommen?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Wenn ja, um wie viele Kilometer wird der Winterdienst auf Radverkehrsanlagen in der Saison 2016/2017 ausgeweitet?
+
+### Frage 1.2
+
+Welche Strecken wurden neu in das Winterdienststreckennetz für Radverkehrsanlagen 2016/2017 aufgenommen?
+
+#### Antwort zu Fragen 1, 1.1 und 1.2
 
 Auf folgenden circa 21 Kilometern wird der Winterdienst auf Radwegen ausgeweitet:
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 17
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1121", "20/10994", "21/2798"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56277"
@@ -45,7 +46,7 @@ Wie viele Anzeigen zu sexuellen und/oder gewalttätigen Übergriffen im öffentl
 
 Wie viele Anzeigen von sexuellen und/oder gewalttätigen Übergriffen in Clubs, Bars und Diskotheken wurden im Jahr 2016 erstattet? Bitte nach Geschlecht von Opfern und Tätern/-innen sowie der angezeigten Tat aufschlüsseln. a. Wie hoch schätzt der Senat die Dunkelziffer ein?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Wie viele Anzeigen im Sinne der Fragestellung erstattet wurden, wird durch die Polizei Hamburg statistisch nicht gesondert erfasst. Die Polizei erfasst Straftaten gemäß dem Straftatenkatalog der Richtlinien für die Erfassung und Verarbeitung der Daten in der Polizeilichen Kriminalstatistik (PKS). In der PKS erfolgt die räumliche Erfassung in ihrer kleinsten Einheit nach Ortsteilen. Nach Tatörtlichkeit oder besonderen Anlässen wird nicht weiter differenziert. Die Tatörtlichkeit „öffentlicher Raum“ wird in der PKS für ausgewählte Delikte über den PKS-Unterschlüssel „auf Straßen, Wegen oder Plätzen“ dargestellt. Eine Auswertung zu Großveranstaltungen ist in der PKS nicht möglich.
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 22
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9268"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58386"
@@ -79,15 +80,15 @@ Inwiefern erfüllt die Fläche „Tideanschluss Billwerder Insel“ die Vorausse
 
 Zu den generellen Voraussetzungen als Kohärenzmaßnahme siehe Drs. 21/9268. Der für die Kohärenzmaßnahme ausgewählte Bereich auf der Billwerder Insel zeichnet sich durch folgende Eigenschaften aus:
 
- der Tideeinfluss kann hergestellt werden,
+– der Tideeinfluss kann hergestellt werden,
 
- die Maßnahme liegt außerhalb der Brackwasserzone,
+– die Maßnahme liegt außerhalb der Brackwasserzone,
 
- die Flächengröße reicht aus,
+– die Flächengröße reicht aus,
 
- die Maßnahme findet nicht in einem Natura-2000-Gebiet statt,
+– die Maßnahme findet nicht in einem Natura-2000-Gebiet statt,
 
- die Fläche ist verfügbar.
+– die Fläche ist verfügbar.
 
 Weiterer Machbarkeitsuntersuchungen bedarf es deshalb zum gegenwärtigen Planungsstand nicht.
 

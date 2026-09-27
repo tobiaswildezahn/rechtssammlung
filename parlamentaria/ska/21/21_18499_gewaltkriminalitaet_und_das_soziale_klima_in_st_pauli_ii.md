@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18373"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68191"
@@ -71,7 +72,7 @@ Wie viele der ermittelten nicht deutschen Tatverdächtigen waren zum Tatzeitpunk
 
 Welche Staatsangehörigkeiten haben die Asylbewerber unter den ermittelten nicht deutschen Tatverdächtigen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Statistische Auswertungen im Sinne der Fragestellungen liegen aus der PKS nicht vor; im Übrigen siehe Vorbemerkung.
 
@@ -85,7 +86,7 @@ Wie lautet der gegenwärtige aufenthaltsrechtliche Status der Asylbewerber?
 
 Wie lautete der aufenthaltsrechtliche Status der Asylbewerber zum Tatzeitpunkt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/18373.
 
@@ -105,7 +106,7 @@ Wie viele der ermittelten deutschen Tatverdächtigen hatten ursprünglich welche
 
 Wie viele der ermittelten deutschen Tatverdächtigen haben welche doppelte Staatsangehörigkeit (bitte jeweils für die Jahre 2017, 2018 sowie für das erste Halbjahr 2019 antworten)?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/18373.
 

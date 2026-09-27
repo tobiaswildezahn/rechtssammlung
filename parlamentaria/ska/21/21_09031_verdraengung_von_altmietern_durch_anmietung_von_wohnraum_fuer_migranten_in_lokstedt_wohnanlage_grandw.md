@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 20
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5333", "21/5547", "21/3105", "21/3093"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57777"
@@ -101,15 +102,15 @@ Mit Stichtag 30.04.2017 waren in der Unterkunft 226 Personen untergebracht. Davo
 
 Von den 226 Personen
 
- sind 29 Prozent afghanische Staatsangehörige,
+– sind 29 Prozent afghanische Staatsangehörige,
 
- 21 Prozent syrische Staatsangehörige,
+– 21 Prozent syrische Staatsangehörige,
 
- 7 Prozent haben die montenegrinische Staatsangehörigkeit,
+– 7 Prozent haben die montenegrinische Staatsangehörigkeit,
 
- 7 Prozent verfügen über eine Staatsbürgerschaft der Russischen Föderation und
+– 7 Prozent verfügen über eine Staatsbürgerschaft der Russischen Föderation und
 
- 6 Prozent sind serbische Staatsangehörige.
+– 6 Prozent sind serbische Staatsangehörige.
 
 Die übrigen 30 Prozent der Bewohner setzten sich aus Staatsangehörigen weiterer 16 Nationen zusammen. Aus Datenschutzgründen können diese nicht einzeln aufgeschlüsselt werden, um aufgrund der geringen Fallzahlen keine Rückschlüsse auf einzelne Personen zu ermöglichen.
 
@@ -123,13 +124,13 @@ Die Bewohner der für die örU angemieteten Wohnungen sind bei f & w statistisch
 
 Von insgesamt 226 dort am 30.04.2017 untergebrachten Personen sind
 
- 70 Personen Inhaber von Aufenthaltsgestattungen,
+– 70 Personen Inhaber von Aufenthaltsgestattungen,
 
- 39 Personen Duldungsinhaber,
+– 39 Personen Duldungsinhaber,
 
- 107 Personen Flüchtlinge mit Aufenthaltsstatus und
+– 107 Personen Flüchtlinge mit Aufenthaltsstatus und
 
- zehn Personen Wohnungslose.
+– zehn Personen Wohnungslose.
 
 ### Frage 8
 

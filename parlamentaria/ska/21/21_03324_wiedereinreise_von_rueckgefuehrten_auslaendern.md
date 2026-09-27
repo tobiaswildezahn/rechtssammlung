@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51664"
@@ -43,7 +44,7 @@ In wie vielen Fällen wurden durch den Senat beziehungsweise die zuständige Beh
 
 Aus welchen zehn Herkunftsländern kamen die meisten dieser rückgeführten Ausländer, die erneut aufgegriffen wurden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Weder die Ausländerbehörde noch die Polizei führen eine gesonderte Statistik über Ausländer, die nach einer Rückführung wiedereingereist sind und aufgegriffen wurden. Angaben über frühere Inlandsaufenthalte würden sich aus der jeweiligen Ausländerakte ergeben. Eine automatische Auswertung ist jedoch nicht möglich. Eine händische Auswertung aller Ausländerakten ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit ebenso wenig möglich, wie eine Auswertung sämtlicher im erfragten Zeitraum erfasster polizeilicher Ermittlungsvorgänge der für die Bearbeitung dieser Delikte zuständigen Dienststelle. Im Übrigen waren die Ermittlungsakten aus dem Jahr 2010 entsprechend der Aktenaufbewahrungsfristen zu vernichten.
 

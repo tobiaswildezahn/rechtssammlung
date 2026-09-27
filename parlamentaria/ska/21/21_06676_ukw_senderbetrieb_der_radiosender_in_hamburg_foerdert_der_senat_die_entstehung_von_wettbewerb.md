@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55239"
@@ -67,15 +68,15 @@ Bietet die Hansestadt Hamburg privaten Anbietern im Vergleich zum bisherigen Mon
 
 Die Freie und Hansestadt Hamburg hat das Ziel im Rahmen der Auftragsverwaltung im Hamburger Elbtunnel Privaten grundsätzlich freien Zugang beziehungsweise technischen Anschluss zu dem im Eigentum des Bundes befindlichen Koppelnetzwerk und den Tunnelantennen zu ermöglichen. Eine vertraglich geregelte Mitnutzung der Infrastruktur wäre möglich wenn folgende technische Voraussetzungen gegeben sind:
 
- Die vorhandenen Funkdienste und UKW-Sender dürfen nicht gestört werden.
+– Die vorhandenen Funkdienste und UKW-Sender dürfen nicht gestört werden.
 
- Die zusätzlichen Rundfunksender müssen gemeinsam mit den bereits installierten
+– Die zusätzlichen Rundfunksender müssen gemeinsam mit den bereits installierten
 
 von der Tunnelbetriebszentrale für den Tunnel abschaltbar sein. Ein getrenntes Einsprechen in jede Tunnelröhre gemeinsam mit den bereits installierten muss möglich sein.
 
- Es müssen Installationswege im Betriebsgebäude zur Verfügung stehen.
+– Es müssen Installationswege im Betriebsgebäude zur Verfügung stehen.
 
- Die Platzverhältnisse im Betriebsgebäude müssen weitere Installationen zulassen,
+– Die Platzverhältnisse im Betriebsgebäude müssen weitere Installationen zulassen,
 
 ohne den Betrieb zu beeinträchtigen oder zu gefährden.
 

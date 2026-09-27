@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 18
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/8567"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62626"
@@ -138,7 +139,7 @@ Für wann ist in Hamburg die Übernahme und Einführung des Datenbankgrundbuchs 
 
 Welche Maßnahmen zur Vorbereitung der Einführung des Datenbankgrundbuchs in Hamburg wurden bislang konkret ergriffen? a. Sind Umstellungszentren oder Umstellungskommissionen bereits geplant? Falls ja, welche Planungen bestehen? Falls nein, weshalb nicht? b. Wie viel und welches Personal soll hierfür insgesamt zur Verfügung stehen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 
@@ -150,7 +151,7 @@ Mit welchem Personalbedarf an Rechtspflegern rechnet die zuständige Behörde f�
 
 Wurden seitens des Amtsgerichts für die Aufstellung des neuen Haushaltsplanentwurfs weitere Bedarfe für den Bereich der Rechtspfleger angemeldet? Falls ja, in welchem Umfang? Falls nein, weshalb nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 In bisherigen Kalkulationen aus dem Jahr 2015 wurde für die Personalbedarfsberechnung noch auf den damaligen Zahlen des Grundbuchbestandes mit circa 430.000 zu migrierenden Grundbüchern aufgesetzt. Zur Berechnung wurde die im Rahmen des bundesweiten Projekts von Nordrhein-Westfalen musterhaft für alle Länder vorgelegte Wirtschaftlichkeitsberechnung zugrunde gelegt, der zufolge pro Grundbuchblatt durchschnittlich von einem Migrationsaufwand von 15 Minuten auszugehen ist.
 

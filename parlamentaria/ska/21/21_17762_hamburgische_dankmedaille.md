@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67365"
@@ -45,7 +46,7 @@ Ist dem Senat bekannt, warum die Verleihungsrichtlinie nicht veröffentlicht wur
 
 Ist es üblich, dass Verleihungsrichtlinien nicht veröffentlicht werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Damals war es nicht üblich, Senatsbeschlüsse und Verwaltungsvorschriften regelhaft zu veröffentlichen.
 

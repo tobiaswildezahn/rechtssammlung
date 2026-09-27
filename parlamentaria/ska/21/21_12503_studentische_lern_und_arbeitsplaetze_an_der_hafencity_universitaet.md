@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 13
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61803"
@@ -86,7 +87,7 @@ Gibt es Pläne zur Veränderung beziehungsweise Verbesserung der Versorgung mit 
 
 Sind die Reduzierungen von Lern- und Arbeitsplätzen, die im Vortext mit den Worten des Studierendenparlaments der HCU beschrieben sind, zutreffend? a. Wenn ja, weshalb wurden die Lern- und Arbeitsplätze derartig stark reduziert? b. Wenn nein, wie stellt sich die Situation stattdessen dar?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage. Im Übrigen siehe Vorbemerkung.
 

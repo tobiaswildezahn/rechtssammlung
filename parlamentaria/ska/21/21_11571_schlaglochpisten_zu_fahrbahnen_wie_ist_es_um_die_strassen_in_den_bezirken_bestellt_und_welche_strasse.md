@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10333", "21/5922", "21/3289"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60751"
@@ -94,7 +95,7 @@ b) die Grundinstandsetzung,
 c) die Sanierung  
 von Bezirksstraßen veranschlagt? Bitte nach Bezirken aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 In den Einzelplänen der Bezirksämter werden keine Mittel entsprechend der Fragestellung veranschlagt. Mittel für Grundinstandsetzungen und Erneuerungen von Bezirksstraßen werden als Rahmen- beziehungsweise Zweckzuweisung den Bezirken per Sollübertrag zur Verfügung gestellt. Die Mittel für die „bauliche Unterhaltung“ werden ebenfalls als Rahmen- beziehungsweise Zweckzuweisung zur Verfügung gestellt.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 20
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65602"
@@ -82,7 +83,7 @@ Die Zuständigkeit der Behörde für Gesundheit und Verbraucherschutz vorausgese
 
 Wie viele Vollzeitäquivalente wurden seitens der Gesundheitsbehörde für die Mitarbeit in der Bund-Länder-Arbeitsgruppe zur Verfügung gestellt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 

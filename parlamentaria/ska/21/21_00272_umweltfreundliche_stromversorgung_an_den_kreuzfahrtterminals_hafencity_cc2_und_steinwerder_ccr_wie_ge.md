@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 25
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12368", "20/14504", "20/9298", "20/10414"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48400"
@@ -70,33 +71,33 @@ Welche Behörden sind beziehungsweise waren an den Genehmigungsverfahren im Einz
 
 BImSchG-Verfahren zum Stromversorgungsbetrieb im Magdeburger Hafen:
 
- Bezirksamt Hamburg-Mitte
+– Bezirksamt Hamburg-Mitte
 
- Behörde für Inneres und Sport (BIS)
+– Behörde für Inneres und Sport (BIS)
 
- Hamburg Port Authority (HPA)
+– Hamburg Port Authority (HPA)
 
- Behörde für Gesundheit und Verbraucherschutz (BGV)
+– Behörde für Gesundheit und Verbraucherschutz (BGV)
 
- Behörde für Stadtentwicklung und Umwelt (BSU)
+– Behörde für Stadtentwicklung und Umwelt (BSU)
 
- Behörde für Wirtschaft, Verkehr und Innovation (BWVI)
+– Behörde für Wirtschaft, Verkehr und Innovation (BWVI)
 
 Zulassungsverfahren zur Wasserrechtlichen Erlaubnis der Kühlwasserentnahme/ -einleitung:
 
- BSU
+– BSU
 
- HPA
+– HPA
 
 BImSchG-Verfahren zum Stand-by-Betrieb O’Swaldkai:
 
- BIS
+– BIS
 
- HPA
+– HPA
 
- BGV
+– BGV
 
- BSU
+– BSU
 
 ### Frage 4
 

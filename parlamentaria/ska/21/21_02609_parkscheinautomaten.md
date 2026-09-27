@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50910"
@@ -97,7 +98,7 @@ Was kostet die Nachrüstung von Parkscheinautomaten mit einer Kreditkartenfunkti
 
 Inwiefern steigen die Aufstellungskosen für neue Parkscheinautomaten, wenn die Kreditkartenfunktion gleich mit eingebaut wird?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der LBV hat sich mit der technischen Möglichkeit einer Zahlung von Parkgebühren per Kreditkarte oder anderer bargeldloser Zahlungsmittel – außer dem Handyparken – bisher nicht befasst. Für die technische Aufrüstung der Parkscheinautomaten mit einer Kreditkartenfunktion wären nach einer überschlägigen Kalkulation des LSBG rund
 1.200 Euro pro Parkscheinautomaten zu veranschlagen. Bei einer Neubeschaffung würden voraussichtlich geringere Kosten entstehen als bei einer Nachrüstung. Konkrete Werte liegen nicht vor und müssten im Wettbewerb ermittelt werden.

@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 3
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10928"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60301"
@@ -45,6 +46,6 @@ Welche genaue Kenntnis haben die zuständigen Stellen der Verwaltung derzeit üb
 
 Ist inzwischen bekannt, ob für diese Veräußerung eine Genehmigung der zuständigen Behörde nach dem Grundstücksverkehrsgesetz erforderlich ist? Wann wurde gegebenenfalls die Genehmigung beantragt und welche Stelle hat wann die Genehmigung aus welchen Gründen und unter welchen Bedingungen und Auflagen erteilt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Kaufvertrag wurde für die Prüfung von Kaufverträgen nach dem Grundstücksverkehrsgesetz der zuständigen Behörde bisher nicht vorgelegt. Erst nach Vorlage des Kaufvertrages kann die Prüfung vorgenommen werden.

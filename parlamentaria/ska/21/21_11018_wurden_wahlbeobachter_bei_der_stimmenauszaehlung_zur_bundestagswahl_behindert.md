@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59946"
@@ -35,15 +36,15 @@ Exemplarisch werden drei Beispiele von Bürgern hervorgebracht, die dem Landesve
 
 ## Einleitung für die Antworten des Senats
 
- Ein Wahlbeobachter des Wahllokals 52007 wurde von der telefonischen
+– Ein Wahlbeobachter des Wahllokals 52007 wurde von der telefonischen
 
 Übermittlung der Niederschrift durch die Wahlleiterin ausgeschlossen. Diese ging mit der Niederschrift sowie ihrem Mobiltelefon in einen Nebenraum, verschloss die Tür und übermittelte dort die Stimmergebnisse.
 
- In einem Wahllokal der Grundschule Marschweg im Stadtteil Rissen wur-
+– In einem Wahllokal der Grundschule Marschweg im Stadtteil Rissen wur-
 
 de dem Wahlbeobachter die Stimmenauszählung von einem unverhältnismäßig großen und nicht einsehbaren Abstand gewährt.
 
- Ein besonders schwerwiegender Sachverhalt soll sich im Wahllokal
+– Ein besonders schwerwiegender Sachverhalt soll sich im Wahllokal
 
 20202 zugetragen haben. Dem Wahlbeobachter wurde ein Platz aus einem nicht einsehbaren Bereich zugewiesen. Laut Wahlleiterin sei dieses eine Anweisung aus dem Rathaus. Als der Wahlbeobachter der Stimmenauszählung von einer angemessenen Position beiwohnen wollte, wurde er von dieser mit der Bemerkung „Störung der Wahlhandlung“ bei der Beobachtung der Auszählung gehindert und aufgefordert sich auszuweisen. Diesem Verlangen wollte der Beobachter nur der Polizei folgen, dahin gehend diese auch vor Ort eintraf und den Vorfall protokollierte.
 

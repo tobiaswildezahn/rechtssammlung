@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 20
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1182", "21/706"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51490"
@@ -109,7 +110,7 @@ Wie beurteilt der Senat beziehungsweise die zuständige Behörde die provisorisc
 
 Zu welchem Ergebnis kommt der Senat beziehungsweise die zuständige Behörde durch die im vergangenen Jahr eingerichtete Testphase?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die U-Bahn-Station Klosterstern soll barrierefrei ausgebaut werden. Dazu wird ein Aufzug installiert werden, der aufgrund der Lage der Haltestelle im derzeitigen Fahrbahnbereich des Eppendorfer Baum positioniert werden wird. Dadurch wird zukünftig an der Zufahrt Eppendorfer Baum in den Klosterstern eine der beiden derzeit vorhandenen Fahrspuren entfallen. Die Testphase mit Einrichtung einer einstreifigen Verkehrsführung an der Einmündung vom Eppendorfer Baum in den Klosterstern hat die zuvor berechnete Simulation des zukünftigen Zustands bestätigt.
 

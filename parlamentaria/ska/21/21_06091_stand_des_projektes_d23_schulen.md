@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4177", "20/9262"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54608"
@@ -55,7 +56,7 @@ Welche zusätzlichen Ressourcen erhielten die jeweiligen Schulen im Einzelnen? B
 
 Im Falle, dass die betroffenen Schulen zusätzliche Ressourcen erhielten, kamen diese zusätzlich an die Schulen oder wurden sie umgeschichtet, also von der Zuweisung an andere Schulen abgezogen? Wenn dem so war/ist, welche Schulen jeweils mussten welche Ressourcen im Einzelnen abgeben?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 20/9262.
 

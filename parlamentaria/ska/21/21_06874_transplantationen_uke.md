@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6715", "21/6738"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55457"
@@ -43,7 +44,7 @@ Wann haben sich Vertreter der Gesundheitsbehörde nach Ende Januar 2016 bis 12. 
 
 Wann haben sich Vertreter der Wissenschaftsbehörde nach Ende Januar 2016 bis 12. Oktober 2016 mit Vertretern des UKE getroffen, um über die Prüfung durch die PÜK zu sprechen? Bitte jeweils die Daten, die Teilnehmer und den wesentlichen Inhalt des Gespräches angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ende Januar 2016 wurde die Behörde für Gesundheit und Verbraucherschutz (BGV) mit einem Schreiben der Prüfungs- und Überwachungskommission (PÜK) darüber informiert, dass Originalakten von Patienten nicht mehr auffindbar seien. Weitere Vorwürfe wurden in diesem Brief nicht geäußert. Daraufhin haben die zuständigen Behörden das Universitätsklinikum Hamburg-Eppendorf (UKE) zur Stellungnahme aufgefordert. Sie haben mit dem UKE anschließend mehrere Gespräche mit dem Ziel geführt, den Sachverhalt umfassend aufzuklären. Die entsprechenden Kontakte zwischen den zuständigen Behörden und dem UKE haben in persönlichen Gesprächen, telefonisch und per E-Mail stattgefunden. Sie erfolgten auf Referatsleitungsebene mit dem Vorstand und der Rechtsabteilung des UKE. Gegenstand der Erörterungen waren die zu veranlassenden Maßnahmen. Ende Juni 2016 hat der Ärztliche Direktor des UKE der Präses der Behörde für Wissenschaft, Forschung und Gleichstellung (BWFG) im Rahmen einer routinemäßigen Besprechung mündlich über die vom UKE ergriffenen Maßnahmen hinsichtlich der Monita der PÜK von Ende Januar berichtet. Im Übrigen siehe Drs. 21/6715.
 
@@ -55,7 +56,7 @@ Inwieweit wurde Senatorin Prüfer-Storcks über den Inhalt dieser Gespräche wan
 
 Inwieweit wurde Senatorin Fegebank über den Inhalt dieser Gespräche wann informiert?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/6738.
 
@@ -79,6 +80,6 @@ Wen haben die Senatorinnen Prüfer-Storcks und Fegebank informiert, nachdem sie 
 
 Warum haben sie nicht das Parlament und die Öffentlichkeit ausdrücklich informiert, zum Beispiel durch eine Pressemitteilung oder eine Mitteilung an die Hamburgische Bürgerschaft?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/6715 und 21/6738.

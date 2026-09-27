@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1992", "21/1488"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50631"
@@ -53,7 +54,7 @@ Sind dem Senat Forschungsergebnisse bekannt, die nahelegen, dass im Allgemeinen 
 
 Kennt der Senat konkret die Meta-Analyse von Hildegund Sünderhauf (2013) und insbesondere die aktuellen Studien des schwedischen CHESS-Instituts (Elvis-Projekt, 2013 – 2015)? a. Wenn nein, gedenkt der Senat sich mit besagten Studien auseinanderzusetzen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Ergebnisse von Studien und Beiträge zu Fachdiskussionen werden innerhalb der mit Sorge- und Umgangsregelungen befassten Professionen wie auch im Austausch der Professionen untereinander regelmäßig ausgewertet. Die fachliche Bewertung erfolgt im Rahmen interner und professionsübergreifender Dienst- und Fachbesprechungen, im Arbeitskreis „Hamburger Praxis“ sowie in der Aus- und Fortbildung.
 

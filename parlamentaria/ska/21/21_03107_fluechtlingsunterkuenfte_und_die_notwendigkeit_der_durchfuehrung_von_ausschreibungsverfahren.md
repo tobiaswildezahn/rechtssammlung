@@ -14,6 +14,7 @@ fragen: 34
 einzelfragen: 40
 antwortbloecke: 28
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2479", "21/2775", "21/2312", "21/2718", "21/203", "21/2707", "20/8495", "20/12697", "21/999", "21/1395", "21/2457", "21/1838"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51445"
@@ -57,7 +58,7 @@ Bei welchen der seit 2014 neu eröffneten Erstaufnahmeeinrichtungen (ZEA und EVE
 
 Wann erfolgte gegebenenfalls die Ausschreibung jeweils und wo wurden die Ausschreibungen jeweils veröffentlicht? Bitte einzeln nach Unterkunft aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Unterbringung von Flüchtlingen und Asylbegehrenden erfolgt entweder in den Einrichtungen der Zentralen Erstaufnahme (ZEA), den Erstversorgungseinrichtungen für unbegleitete minderjährige Flüchtlinge (EVE) oder den Folgeunterbringungen (öffentlich-rechtliche Unterbringung, örU). Notunterkünfte existieren nicht als eigene Gruppe, es handelt sich entweder um Einrichtungen der ZEA oder um Notplätze, die an Standorten der örU geschaffen wurden.
 
@@ -117,7 +118,7 @@ Nach welchen Kriterien und nach welchem Verfahren wählt die zuständige Behörd
 
 Welche Betreibergesellschaft erhielt danach jeweils aus welchen Gründen den Zuschlag?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Für die ZEA siehe Drs. 21/2775, 21/2718 und 21/2312.
 
@@ -300,7 +301,7 @@ Welche Unterkünfte wurden und werden zukünftig, das heißt dem derzeitigen Pla
 
 Welcher Investor hat diese Liegenschaften jeweils erworben (bitte jeweils für den konkreten Einzelfall darstellen)?
 
-#### Antwort zu Fragen 24 bis 25
+#### Antwort zu Fragen 24 und 25
 
 Der LEB führt eigene Baumaßnahmen nur in Bestandsgebäuden oder auf Freiflächen im Eigentum der Freien und Hansestadt Hamburg durch. Investorenmodelle der in den Fragen 24 fortfolgende gemeinten Art verfolgt der LEB nicht.
 

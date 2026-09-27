@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11025", "21/11755", "21/11325"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61477"
@@ -115,6 +116,6 @@ Wie viele Klassen in Hamburg gelten aufgrund eines IVK-Übergangs gemäß der vo
 
 An welchen Schulen und Klassenstufen gibt es zurzeit einen Aufnahmestopp für IVK-Übergänge? Was ist hierfür jeweils die Begründung?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Steuerung des Übergangs von einer IVK in eine Regelklasse erfolgt regelhaft dezentral über die Schulleitungen, die unter pädagogischen Gesichtspunkten einzelfallbezogen entscheiden, welcher Zeitpunkt für den Wechsel in eine Regelklasse günstig ist. Im Sinne einer gleichmäßigen Verteilung sollten nicht mehr als vier Kinder, die Sprachförderung der „3. Phase“ erhalten, eine Klasse besuchen. Nach Möglichkeit sollen außerdem freie Plätze im Rahmen der Klassenfrequenzen genutzt werden, generelle Aufnahmebeschränkungen gibt es derzeit nicht. Eine zentrale Erfassung von Ursachen für überfrequente Belegungen erfolgt nicht. Im Übrigen siehe Drs. 21/11755 und 21/11325.

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63069"
@@ -115,7 +116,7 @@ Innovationsförderung bedeutet auch Internationalisierung. Auch hier spielen die
 
 Welche Städte und Regionen sind für den Hamburger Senat bei der Internationalisierung der hiesigen Start-up-Szene besonders im Fokus?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Um die Anwerbung internationaler Start-ups zu forcieren und Hamburger Start-ups bei der überregionalen Vermarktung und Investorensuche zu unterstützen, wurde die Startup-Unit bei Hamburg Invest gegründet. Bei der internationalen Vermarktung des Start-up-Standortes Hamburg durch die Startup-Unit der Hamburg Invest stehen diejenigen Start-up-Hubs (Städte und Regionen) im Fokus, zu denen zum einen schon gute Beziehung und Netzwerke seitens der FHH bestehen (zum Beispiel Partnerstädte, Hamburg Ambassadors, Auslandsbüros). Zum anderen handelt es sich hierbei um Orte, die sich durch eine internationale Aufmerksamkeit für ihr innovatives/technologieorientiertes Start-up-Ökosystem auszeichnen, teilweise global beachtete Start-up- Konferenzen beheimaten oder dementsprechende Anknüpfmöglichkeiten für das hamburgische Start-up-Ökosystem für die Investorensuche, Vernetzung, Kooperation und Erhöhung der Wahrnehmung/Sichtbarkeit bieten.
 

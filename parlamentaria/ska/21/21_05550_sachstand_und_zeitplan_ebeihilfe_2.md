@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3716", "21/2360"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54047"
@@ -78,11 +79,23 @@ Effizienzverbesserungen in Form einer beschleunigten Bearbeitung werden nach der
 ### Frage 6
 
 Gemäß den Angaben in Drs. 21/3716 wurde die Umsetzung der Stufe 1b zunächst ausgesetzt und stattdessen die technische Erweiterbarkeit von PERMIS B extern überprüft.
-6.1. Wie ist der Stand des externen Reviews der in der Stufe 1b vorgesehenen Erweiterbarkeit von PERMIS B? Wer hat die externe Überprüfung durchgeführt?
-6.2. Seit wann liegen die Ergebnisse der externen Überprüfung mit welchen wesentlichen Inhalten welchen Stellen im Einzelnen vor beziehungsweise wann wird die Vorlage vor Ergebnissen erwartet?
-6.3. Wie ist der Stand der Auswertung der externen Überprüfung und welche Bewertungen, Überlegungen und Handlungsvorschläge ergeben sich daraus?
-6.4. Ist weiterhin die Beschaffung medizinischer Prüfsoftware für die Stufe 1b geplant? Wenn ja, wann soll dies erfolgen?
 
-#### Antwort zu Frage 6
+### Frage 6.1
+
+Wie ist der Stand des externen Reviews der in der Stufe 1b vorgesehenen Erweiterbarkeit von PERMIS B? Wer hat die externe Überprüfung durchgeführt?
+
+### Frage 6.2
+
+Seit wann liegen die Ergebnisse der externen Überprüfung mit welchen wesentlichen Inhalten welchen Stellen im Einzelnen vor beziehungsweise wann wird die Vorlage vor Ergebnissen erwartet?
+
+### Frage 6.3
+
+Wie ist der Stand der Auswertung der externen Überprüfung und welche Bewertungen, Überlegungen und Handlungsvorschläge ergeben sich daraus?
+
+### Frage 6.4
+
+Ist weiterhin die Beschaffung medizinischer Prüfsoftware für die Stufe 1b geplant? Wenn ja, wann soll dies erfolgen?
+
+#### Antwort zu Fragen 6, 6.1, 6.2, 6.3 und 6.4
 
 Das vom Unternehmen Sopra Steria GmbH erstellte Gutachten zum Architektur- Review PERMIS B/eBeihilfe wurde im Juli 2016 übergeben und wird ausgewertet. Auf dieser Grundlage werden die Entscheidungen zum weiteren Vorgehen getroffen.

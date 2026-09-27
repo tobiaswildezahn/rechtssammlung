@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9031", "21/9308", "21/5333", "21/10400"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59474"
@@ -59,7 +60,7 @@ Wie viele der 39 geduldeten Ausländer sind seit der letzten Anfrage abgeschoben
 
 Wie viele der 70 laufenden Asylverfahren sind seit der letzten Anfrage mit welchem Ergebnis abgeschlossen worden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/9308.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7858", "21/8005"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59043"
@@ -80,7 +81,7 @@ Aus welchen Ländern stammen sie jeweils?
 
 Wie viele davon sind Kinder, erwachsene Frauen, erwachsene Männer?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Darstellung für die fünf Hauptherkunftsländer ist der folgenden Übersicht zu entnehmen:
 

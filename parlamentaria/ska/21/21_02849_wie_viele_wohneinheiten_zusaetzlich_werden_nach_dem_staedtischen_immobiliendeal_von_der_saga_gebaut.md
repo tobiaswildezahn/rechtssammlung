@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13587"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51157"
@@ -55,7 +56,7 @@ Für welche der in der Drs. 20/13587 genannten Flurstücke gibt es derzeit konkr
 
 Wie viele Wohneinheiten sollen insgesamt auf den in Drs. 20/13587 genannten Flurstücken bis 2020 gebaut werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Das Flurstück 388 (Holsteiner Chaussee 345) ist Teil der Fläche Ellerbeker Weg, die noch entwickelt werden soll. Auf dem Flurstück sollen etwa elf Wohneinheiten entstehen. Eine Fertigstellung ist im Jahr 2016 geplant. Das Grundstück befindet sich noch nicht im Eigentum SAGA GWG.
 

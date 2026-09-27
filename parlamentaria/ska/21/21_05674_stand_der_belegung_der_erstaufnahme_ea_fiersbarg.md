@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 29
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5343", "21/2108", "21/5456"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54171"
@@ -43,7 +44,7 @@ Wie viele Personen sind in der EA Fiersbarg zurzeit untergebracht?
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Geschlecht  
 davon Erwachsene  
@@ -95,17 +96,17 @@ Aus welchen Unterkünften kommen sie?
 
 Es wurden Personen aus folgenden Erstaufnahmeeinrichtungen (EA) in die EA Fiersbarg verlegt:
 
-• Ankunftszentrum Rahlstedt
+– Ankunftszentrum Rahlstedt
 
-• Rugenbarg
+– Rugenbarg
 
-• Holstenhofweg
+– Holstenhofweg
 
-• Geutensweg
+– Geutensweg
 
-• Kieler Straße
+– Kieler Straße
 
-• Oktaviostraße
+– Oktaviostraße
 
 ### Frage 6
 
@@ -205,7 +206,7 @@ c) Sicherheit
 
 Wie viele davon tagsüber (7 – 18 Uhr), wie viele davon nachts (18 – 7 Uhr)? Wenn es abweichende Dienstzeiten gibt, bitte diese nennen und die Aufschlüsselung hiernach geben.
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Drs. 21/5343.
 

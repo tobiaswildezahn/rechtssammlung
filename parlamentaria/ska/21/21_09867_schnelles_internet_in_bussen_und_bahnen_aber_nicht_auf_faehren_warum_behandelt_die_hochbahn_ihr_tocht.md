@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 13
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3024"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58680"
@@ -66,7 +67,7 @@ b) zu wann werden die Anleger der HADAG-Hafenfähren mit WLAN ausgestattet?
 c) welche Kosten sind dafür veranschlagt und wer wird diese Kosten zu welchen Anteilen finanzieren?
 d) welche Auszahlungen wurden gegebenenfalls dafür bereits in welcher Höhe und an wen geleistet? Wenn nein, wie passt dies zu der Digitalisierungsstrategie des aktuellen HOCHBAHN-Vorstands?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

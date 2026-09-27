@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18018", "20/37", "21/8426", "21/11326", "21/11881", "21/16717", "20/13558", "21/16420", "20/562"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69320"
@@ -1625,27 +1626,27 @@ e. Wie hoch ist der Anteil der Gewerbeflächen in den einzelnen Stadtteilen?
 
 Zahlen zu Gewerbeflächen pro Stadtteil werden im zuständigen Bezirksamt wie folgt erfasst: (Angaben in ha (brutto)):
 
- Finkenwerder Airbus 342,6,
+– Finkenwerder Airbus 342,6,
 
- Rüschhalbinsel 75,1,
+– Rüschhalbinsel 75,1,
 
- Industriegebiet Billbrook/Rothenburgsort 624,2,
+– Industriegebiet Billbrook/Rothenburgsort 624,2,
 
- Billwerder Ausschlag 151,8,
+– Billwerder Ausschlag 151,8,
 
- Tiefstack 19,6,
+– Tiefstack 19,6,
 
- Wilhelmsburg Mitte 141,3,
+– Wilhelmsburg Mitte 141,3,
 
- Nördliche Georg-Wilhelm-Straße 20,4,
+– Nördliche Georg-Wilhelm-Straße 20,4,
 
- Obergeorgswerder 45,1,
+– Obergeorgswerder 45,1,
 
- Industriestraße/Veringhof 49,1,
+– Industriestraße/Veringhof 49,1,
 
- Stenzelring 26,4,
+– Stenzelring 26,4,
 
- Zusätzliche Streuflächen außerhalb der genannten Gewerbe- und Industriestand-
+– Zusätzliche Streuflächen außerhalb der genannten Gewerbe- und Industriestand-
 
 orte 262,6.
 

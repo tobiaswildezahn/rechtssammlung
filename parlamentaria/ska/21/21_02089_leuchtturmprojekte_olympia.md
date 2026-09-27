@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50329"
@@ -51,49 +52,49 @@ Wie viele Leuchtturmprojekte sind vorgesehen?
 
 Welche Leuchtturmprojekte sind bisher geplant?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Das Nachhaltigkeitskonzept (Stand: 2. November 2015) enthält nach gegenwärtigem Arbeitsstand Projektskizzen zu folgenden 20 Leitprojekten:
 
- „Sportstätten für die Zukunft“
+– „Sportstätten für die Zukunft“
 
- „Fit für Olympia! Für ein gesundes und bewegungsreiches Sportdeutschland“
+– „Fit für Olympia! Für ein gesundes und bewegungsreiches Sportdeutschland“
 
- „Sport-Diversity: Zielgruppen und Vielfalt”
+– „Sport-Diversity: Zielgruppen und Vielfalt”
 
- „Back to school“ Kooperation von Sportvereinen und Schulen
+– „Back to school“ Kooperation von Sportvereinen und Schulen
 
- „Olympia für alle”
+– „Olympia für alle”
 
- „Volunteers – Programm”
+– „Volunteers – Programm”
 
- „Faire Goldmedaillen und nachhaltige Lieferketten“
+– „Faire Goldmedaillen und nachhaltige Lieferketten“
 
- „OlympiaCity – Nachhaltige Stadtentwicklung“
+– „OlympiaCity – Nachhaltige Stadtentwicklung“
 
- „Vom Null-Energie-Gebäude zum ressourcenarmen Gebäude“
+– „Vom Null-Energie-Gebäude zum ressourcenarmen Gebäude“
 
- „Freie Mobilität: Olympia-Fahrrad“
+– „Freie Mobilität: Olympia-Fahrrad“
 
- „Alternativ mobil ohne Erdöl“
+– „Alternativ mobil ohne Erdöl“
 
- „Clean Ocean – Wassersport in sauberen Meeren“
+– „Clean Ocean – Wassersport in sauberen Meeren“
 
- „Kompensation – biologische Vielfalt an der Elbe“
+– „Kompensation – biologische Vielfalt an der Elbe“
 
- „Olympische Parks – Gesunde Menschen“
+– „Olympische Parks – Gesunde Menschen“
 
- „Luftreinhaltung – nachhaltige Sicherstellung guter Luftqualität“
+– „Luftreinhaltung – nachhaltige Sicherstellung guter Luftqualität“
 
- „Lebensmittel: Aus der Region, für Olympia“
+– „Lebensmittel: Aus der Region, für Olympia“
 
- „Klimaneutrale Olympische Spiele 2024“
+– „Klimaneutrale Olympische Spiele 2024“
 
- „Willkommensstadt Hamburg 2024“
+– „Willkommensstadt Hamburg 2024“
 
- „Klimawandel und Nachhaltigkeit“
+– „Klimawandel und Nachhaltigkeit“
 
- „Olympische Akademie der jungen Künste“
+– „Olympische Akademie der jungen Künste“
 
 Die Priorisierung, Weiterentwicklung und Konkretisierung der Projekte wird in den nächsten Monaten vorgenommen.
 
@@ -105,6 +106,6 @@ In welcher Höhe entstehen Kosten für die Stadt Hamburg für die Realisierung d
 
 Sind die Kosten in den bisherigen Finanzplanungen für Olympia bereits enthalten?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im Finanzreport sind für die Leitprojekte Kosten in Höhe von 120,69 Millionen Euro (2024) ausgewiesen (siehe dazu Seite 100 Finanzreport). Im weiteren Prozess wird unter Berücksichtigung potenzieller Förderprogramme und der Konkretisierung der Projekte die Kostentragung geklärt werden.

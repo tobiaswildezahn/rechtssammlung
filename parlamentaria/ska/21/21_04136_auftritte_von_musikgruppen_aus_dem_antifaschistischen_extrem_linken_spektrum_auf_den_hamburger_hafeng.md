@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 29
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/536", "21/449"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52523"
@@ -93,7 +94,7 @@ Teilt der Senat die Ansicht, dass Veranstaltungsformate staatlicher Stellen, auf
 
 Wie bewertet der Senat folglich Musiktexte, in denen Exekutivorgane des Staates, wie die Polizei, verunglimpft/angegriffen werden? Der Senat ist bereits zu dieser Frage mit den vergangenen Schriftlichen Kleinen Anfragen, wie Drs. 21/536, in Kenntnis gesetzt worden. Demzufolge sollte der Senat sich damit befasst haben. Wenn nein, warum hat sich der Senat beziehungsweise die BWVI damit immer noch nicht auseinandergesetzt beziehungsweise befasst?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Aus Sicht des Senates ist maßgeblich, ob verbale Angriffe auf Organe des Staates die hierfür bestehenden gesetzlichen Grenzen überschreiten. Dabei ist zu beachten, dass den staatlichen Organen verbale Angriffe im Vorfeld nicht bekannt sein und folglich keine Verbote ausgesprochen werden können. Insofern sollten aus Sicht der zuständigen Behörden Auftrittsverbote für Musikgruppen nur aufgrund der dafür vorgesehenen rechtsstaatlichen Verfahren erfolgen. Keine der angemeldeten Musikgruppen unterliegen derzeit einem solchen Verbot. Im Übrigen siehe Drs. 21/536.
 

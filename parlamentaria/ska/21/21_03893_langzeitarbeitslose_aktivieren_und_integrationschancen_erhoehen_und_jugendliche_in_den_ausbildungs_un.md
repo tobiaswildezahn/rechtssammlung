@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 20
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52267"
@@ -67,7 +68,7 @@ Welche Maßnahmen sind aktuell geplant und welche Maßnahmen laufen bereits, um 
 
 Wie hoch ist der Anteil in Euro der in Frage 5. abgefragten Maßnahmen? Bitte auflisten im Verhältnis zum Gesamtbudget EGT.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Grundsätzlich stehen zur Umsetzung der operativen Schwerpunkte alle Maßnahmen von Jobcenter zur Verfügung. Alle Maßnahmen werden durchgängig vorgehalten und angeboten und sind altersunabhängig verfügbar.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52996"
@@ -55,7 +56,7 @@ Die Hamburger Hochschulen betreiben größtenteils in eigener Regie Kontaktpfleg
 
 Nutzt der Senat die internationalen Alumni-Netzwerke der staatlichen und privaten Hochschulen unserer Stadt, um für den Wirtschafts- und Tourismusstandort Hamburg zu werben?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Pflege der Kontakte zu ehemaligen Studierenden und Wissenschaftlern ist Aufgabe der Hochschulen ebenso wie Lehre, Forschung, Transfer und Weiterbildung. Die zuständige Behörde unterstützt die staatlichen Hochschulen dabei durch die finanziellen und infrastrukturellen Rahmenbedingungen, die Durchführung der Aufgabe liegt jedoch im Sinne der Hochschulautonomie bei den Hochschulen selber. Dort, wo es konkrete Anknüpfungspunkte gibt, unterstützt die zuständige Behörde gezielt, beispielsweise bei der Vermittlung von Kontakten zu den HamburgAmbassadors oder zum Shanghai Liaison Office. Im Folgenden ist dargestellt, wie die staatlichen Hochschulen in Hamburg mit ihren ehemaligen Hamburger Studierenden kommunizieren.
 

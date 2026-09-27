@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61931"
@@ -111,7 +112,7 @@ Wie stellen die Behörden sicher, dass das Kirchenasyl nicht inflationär gebrau
 
 Wie oft finden Gespräche zwischen den Ausländerbehörden und den jeweiligen Kirchengemeinden statt?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die zuständigen Behörden stehen mit Vertretern der Kirchen in kontinuierlichem Gesprächskontakt, auch mit dem Ziel, Kirchenasyl auf eng begrenzte Ausnahmefälle, in denen besondere Härten vorliegen, zu begrenzen.
 

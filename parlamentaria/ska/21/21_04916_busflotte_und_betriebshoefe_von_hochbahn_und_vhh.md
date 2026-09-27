@@ -14,6 +14,7 @@ fragen: 25
 einzelfragen: 37
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3902"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53347"
@@ -59,7 +60,7 @@ Wo betreibt die HOCHBAHN zurzeit Busbetriebshöfe zur Reinigung, Instandhaltung 
 
 An welchen (Busbetriebshof-)Standorten bestehen aktuell welche (Bus-) Kapazitäten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die HOCHBAHN sowie deren Tochterunternehmen Jasper und SBG betreiben derzeit Busbetriebshöfe an den folgenden Standorten:
 
@@ -285,7 +286,7 @@ Wie hat sich auf der einen Seite der Bestand der jeweiligen Busflotten in den le
 
 Welche Busse welcher Hersteller mit welchen Antrieben, Längen und Sitzplatzkapazitäten sollen in welchem Umfang von den jeweiligen Unternehmen bis 2030 angeschafft werden?
 
-#### Antwort zu Fragen 20 bis 21
+#### Antwort zu Fragen 20 und 21
 
 Die in den Antworten zu 16. bis 18. angeführten Verkehrsunternehmen unterhalten ihre Betriebshöfe außerhalb des Stadtgebiets von Hamburg. Angaben über die Zusammensetzung des Fahrzeugbestands (Klein-, Standard- oder Gelenkbusse) dieser Verkehrsunternehmen sind der zuständigen Behörde nicht bekannt.
 
@@ -297,7 +298,7 @@ Wie wird sich die Fahrgastzahl im ÖPNV in Hamburg im Allgemeinen in den kommend
 
 Wie wird sich die Fahrgastzahl der für den ÖPNV in Hamburg betriebenen Busse in den kommenden fünf, zehn und 20 Jahren aus Sicht des Senats beziehungsweise der zuständigen Behörde entwickeln?
 
-#### Antwort zu Fragen 22 bis 23
+#### Antwort zu Fragen 22 und 23
 
 Die Entwicklung der Fahrgastzahl in den kommenden Jahren bezieht sich auf den HVV-Gesamtraum. Dieser umfasst neben der Freien und Hansestadt Hamburg die schleswig-holsteinischen Umlandkreise Pinneberg, Segeberg, Stormarn und Herzogtum Lauenburg sowie die niedersächsischen Landkreise Harburg, Stade und Lüneburg. Für 2016 wird mit einem Anstieg in Höhe von 2,2 Prozent gerechnet, in den Jahren ab 2017 fortfolgende geht der HVV jährlich von einem Fahrgastanstieg in Höhe von 1,5 Prozent aus. Insgesamt wird mit einem Anstieg der Fahrgastzahlen proportional zur prognostizierten demographischen Entwicklung gerechnet.
 

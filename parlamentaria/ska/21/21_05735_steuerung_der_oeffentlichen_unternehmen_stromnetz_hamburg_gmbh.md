@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5110"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54227"
@@ -94,6 +95,6 @@ einen
 diesbezüglichen  
 Beschluss gefasst?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Veränderungen in der fachpolitischen Zuständigkeit der Finanzbehörde für die Hamburg Netz GmbH und die Vattenfall Wärme Hamburg GmbH sind derzeit nicht vorgesehen.

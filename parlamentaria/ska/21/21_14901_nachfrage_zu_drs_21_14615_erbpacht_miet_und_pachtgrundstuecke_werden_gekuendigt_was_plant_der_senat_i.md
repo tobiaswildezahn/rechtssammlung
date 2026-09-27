@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14615"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64347"
@@ -63,7 +64,7 @@ Trifft es zu, dass nach Rechtsauffassung des Senats die Verträge der Flurstück
 
 Sofern der Senat die Rechtsauffassung vertritt, dass die unter Frage 2. genannten Verträge mit Inkrafttreten des BGB ungültig sind: Welche weiteren Pachthofverträge, Pachtverträge oder Pachtverträge Landwirtschaft in der Freien und Hansestadt Hamburg sind demnach in der Freien und Hansestadt Hamburg betroffen? Bitte über alle Gemarkungen mit jeweiligen Flurstücken und Flächengrößen angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Freie und Hansestadt Hamburg hat sich hinsichtlich der Nutzungsverträge über die Flurstücke 1842 und 1843 der Gemarkung Moorfleet des Bezirkes Bergedorf zu keinem Zeitpunkt auf eine Ungültigkeit im Zusammenhang mit dem Inkrafttreten des Bürgerlichen Gesetzesbuches berufen. Darüber hinaus sieht der Senat in ständiger Praxis davon ab, im Rahmen der Beantwortung von Parlamentarischen Anfragen seine Rechtsaufassung in Form einer generellen Rechtsauskunft darzulegen.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 22
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16896"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66617"
@@ -79,7 +80,7 @@ Wurde durch Dienststellen der FHH oder öffentliche Unternehmen im Vorwege des K
 
 Wurde bereits im Rahmen der oben genannten Vorab-Vereinbarung(en) eine mögliche Bereitstellung eines Arbeits-, Dienst- oder Freikartenkontingents oder eines reservierten Kaufkartenkontingents für Beschäftigte der FHH thematisiert oder erst im Anschluss hieran? Wann wurde diese erstmals in welcher Weise durch wen vereinbart?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Antwort zu 1. sowie http://suche.transparenz.hamburg.de/dataset/head-ofagreement-absichtserklaerung-konzert-rolling-stones-09-09-2017.
 

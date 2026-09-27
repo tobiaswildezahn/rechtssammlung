@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15573", "21/19352"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69544"
@@ -61,51 +62,51 @@ Welche Funktion haben die 16 Verwaltungsangestellten bei den Regional-Polizeikom
 
 Der Aufgabenschwerpunkt liegt im Bereich der Bearbeitung/Auswertung von regional relevanten straßenverkehrs- und baubehördlichen Vorgängen mittels der Softwareanwendung ROADS unter dem Aspekt der Gewährleistung eines optimalen Verkehrsflusses. Dazu zählen
 
- die Eintragung regional relevanter straßenverkehrsbehördlicher Vorgänge,
+– die Eintragung regional relevanter straßenverkehrsbehördlicher Vorgänge,
 
- die Prüfung und Auswertung in Bezug auf Störfaktoren durch zum Beispiel andere
+– die Prüfung und Auswertung in Bezug auf Störfaktoren durch zum Beispiel andere
 
 Bauvorhaben,
 
- die Aufbereitung und Pflege eigener ROADS-Datensätze,
+– die Aufbereitung und Pflege eigener ROADS-Datensätze,
 
- der themenbezogene Datenabgleich mit anderen zur Verfügung stehenden Daten-
+– der themenbezogene Datenabgleich mit anderen zur Verfügung stehenden Daten-
 
 systemen,
 
- die Qualitätssicherung der Daten sowie
+– die Qualitätssicherung der Daten sowie
 
- die regionale Evaluation und das Controlling.
+– die regionale Evaluation und das Controlling.
 
 Damit verknüpft sind nachstehende konzeptionelle Aufgaben:
 
- Unterstützung bei der Erarbeitung von Standards für straßenverkehrsbehördliches
+– Unterstützung bei der Erarbeitung von Standards für straßenverkehrsbehördliches
 
 Arbeiten mit ROADS,
 
- fachliche Unterstützung der Örtlichen und Zentralen Straßenverkehrshörde,
+– fachliche Unterstützung der Örtlichen und Zentralen Straßenverkehrshörde,
 
- unterstützende Erarbeitung/Fortschreibung fachlicher Weisungen sowie
+– unterstützende Erarbeitung/Fortschreibung fachlicher Weisungen sowie
 
- Mitwirkung hinsichtlich der Optimierung aller Arbeitsprozesse.
+– Mitwirkung hinsichtlich der Optimierung aller Arbeitsprozesse.
 
 Darüber hinaus sollen zum Teil Aufgaben der Arbeitsbereiche der Straßenverkehrsbehörde, wie
 
- Erstellung und Erteilung straßenverkehrsbehördlicher Anordnungen,
+– Erstellung und Erteilung straßenverkehrsbehördlicher Anordnungen,
 
- Teilnahme an Bau- und Verkehrsbesprechungen/Ortsterminen,
+– Teilnahme an Bau- und Verkehrsbesprechungen/Ortsterminen,
 
- Abnahme von Blockverkehrsampeln auf örtlicher Ebene,
+– Abnahme von Blockverkehrsampeln auf örtlicher Ebene,
 
- Aufstellung/Auswertung von Verkehrsstatistikgeräten und Temposys-Geräten,
+– Aufstellung/Auswertung von Verkehrsstatistikgeräten und Temposys-Geräten,
 
- Vorbereitung/Begleitung von Veranstaltungs-/Versammlungslagen,
+– Vorbereitung/Begleitung von Veranstaltungs-/Versammlungslagen,
 
- Qualitätskontrolle hinsichtlich der Umsetzung von Maßnahmen/Arbeitsstellen vor
+– Qualitätskontrolle hinsichtlich der Umsetzung von Maßnahmen/Arbeitsstellen vor
 
 Ort,
 
- und die Unterstützung der Sachbearbeitung wahrgenommen werden.
+– und die Unterstützung der Sachbearbeitung wahrgenommen werden.
 
 ### Frage 4
 
@@ -126,7 +127,7 @@ c) Welche Version des Programms ROADS wird zurzeit von wem genutzt?
 
 Wer hat die Versorgungsträger wie Stromnetz Hamburg GmbH, HAM- BURG WASSER, HHA et cetera im Programm ROADS geschult und wer trug beziehungsweise trägt die Kosten?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Bislang sind 177 Mitarbeiterinnen und Mitarbeiter der Verwaltung sowie der Versorgungsträger in ROADS geschult worden. Weitere Schulungen und Einführungen werden nach Absprache durchgeführt ebenso werden Schulungen für Administratoren (die Baumaßnahmen erfassen können) angeboten. Personen die lediglich über Leseberechtigungen verfügen benötigen keine Schulungen.
 

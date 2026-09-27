@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61051"
@@ -89,7 +90,7 @@ Wie viele Kindertagesstätten haben eine finanzielle Förderung von Fortbildunge
 
 Wie viele Kindertagesstätten haben eine finanzielle Förderung für Fortbildungen beim Landessportamt beantragt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Sechs Kindertagesstätten.
 

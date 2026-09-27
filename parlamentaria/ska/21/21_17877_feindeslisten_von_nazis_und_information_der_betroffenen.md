@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14032"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67485"
@@ -51,11 +52,11 @@ Veröffentlichung, wer der politische Gegner ist, ist gängige Praxis. In der Ve
 
 Unter verschiedenen, zumeist dramatisierenden beziehungsweise irreführenden Begriffen sind in den letzten Tagen Personenlisten als Datenquellen öffentlich diskutiert worden, deren Relevanz für Hamburg vorliegend erfragt wird.
 
- Bei der als 25000er-Liste diskutierten Informationssammlung handelt es sich um
+– Bei der als 25000er-Liste diskutierten Informationssammlung handelt es sich um
 
 eine Liste, die seit 2016 bekannt ist.
 
- Weitere Listen oder Informationssammlungen sind seither im Rahmen von Ermitt-
+– Weitere Listen oder Informationssammlungen sind seither im Rahmen von Ermitt-
 
 lungsverfahren des BKA, zu denen auch das „Nordkreuz“-Verfahren gehört, bekannt geworden. Diese Informationssammlungen sind teilweise individuell zusammengestellt, sodass ein leitendes Interesse unterstellt werden muss, teilweise aber auch Teilmengen aus der oben genannten 25000er-Liste.
 

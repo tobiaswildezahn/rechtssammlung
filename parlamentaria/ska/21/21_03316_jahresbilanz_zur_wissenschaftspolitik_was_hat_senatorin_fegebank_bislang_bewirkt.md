@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 22
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/339", "21/2422", "21/2509", "20/10410", "21/1642", "21/1686"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51670"
@@ -53,7 +54,7 @@ Was hat Senatorin Fegebank gegen die Unterfinanzierung der Hamburger Universitä
 
 Wird sich Senatorin Fegebank bereits bei den Haushaltsverhandlungen für den kommenden Doppelhaushalt für eine signifikante Steigerung des Etats für Wissenschaft und Forschung einsetzen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -99,7 +100,7 @@ Was hat die Wissenschaftssenatorin in den letzten zwölf Monaten konkret unterno
 
 Inwiefern hat die BWFG die Universitäten und Hochschulen in den letzten zwölf Monaten beim Auf- und Ausbau hochschuleigener Internationalisierungsstrategien unterstützt? Mit welchem Ergebnis?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die zuständige Behörde fokussiert ihre Internationalisierungsbemühungen im Europäischen Raum im Bereich Wissenschaft auf den Ostseeraum (siehe auch Drs. 20/10410). Aus Hamburger Sicht ermöglicht der Ausbau intensiver internationaler Wissenschaftskooperationen im Bereich Strukturforschung zwischen DESY, XFEL und der Universität Hamburg mit MAX IV, ESS und der Universität Lund eine große Chance, weitere Spitzenforschung von internationaler Strahlkraft zu befördern. Im Hinblick auf die Nachfolge der Exzellenzinitiative wird erwartet, dass eine enge Kooperation mit dem Wissenschaftsstandort Lund die Chancen der UHH für eine erfolgreiche Bewerbung um die Fortsetzung und Ausbau des Hamburger Exzellenzbereichs CUI deutlich erhöhen kann. Die zuständige Behörde hat diesbezüglich diverse Maßnahmen auf lokaler und internationaler Ebene initiiert und durchgeführt:
 

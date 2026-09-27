@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 22
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68019"
@@ -81,7 +82,7 @@ Welche Gesamtkosten werden voraussichtlich für die Kampagne „Das ist Pflege!�
 
 Welche Gesamtkosten sind für die Kampagne in 2020 und gegebenenfalls in den Folgejahren eingeplant? Welche Summen sind dabei für welche Maßnahmen eingeplant? (Bitte auflisten nach Jahr und Maßnahme, wie zum Beispiel Kick-off, Filmspot.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Für die Kampagne stehen zurzeit Mittel in Höhe von insgesamt 640 000 Euro zur Verfügung. Die Planungen für 2020 und für die Folgejahre sind noch nicht abgeschlossen.
 

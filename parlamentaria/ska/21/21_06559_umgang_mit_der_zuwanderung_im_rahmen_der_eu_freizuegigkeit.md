@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11145", "20/11484"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55092"
@@ -63,65 +64,65 @@ c. Wie viele Sitzungen der Arbeitsgruppen und Unterarbeitsgruppen haben inzwisch
 
 Arbeitsgruppe:
 
- 27.03.2014
+– 27.03.2014
 
- 17.06.2014
+– 17.06.2014
 
- 17.07.2014
+– 17.07.2014
 
- 15.12.2014
+– 15.12.2014
 
 UAG 1 – Gesundheit:
 
- 07.04.2014
+– 07.04.2014
 
- 21.05.2014
+– 21.05.2014
 
- 11.07.2014
+– 11.07.2014
 
- 15.09.2014
+– 15.09.2014
 
 UAG 2 – Kita, Schule, Jugendschutz:
 
- 22.04.2014
+– 22.04.2014
 
- 11.06.2014
+– 11.06.2014
 
 UAG 3 – Arbeitsmarktzugang und Missbrauchsbekämpfung:
 
- 06.05.2014
+– 06.05.2014
 
 UAG 4 – Integration:
 
- 12.05.2014
+– 12.05.2014
 
- 23.06.2014
+– 23.06.2014
 
- 08.09.2014
+– 08.09.2014
 
 UAG 5 – Sozialraum und öffentliche Ordnung:
 
- 07.05.2014
+– 07.05.2014
 
- 11.06.2014
+– 11.06.2014
 
- 19.06.2014
+– 19.06.2014
 
 UAG 6 – Wohnen:
 
- 24.04.2014
+– 24.04.2014
 
- 29.08.2014
+– 29.08.2014
 
 UAG 7 – Leistungsrecht:
 
- 27.05.2014
+– 27.05.2014
 
- 03.06.2014
+– 03.06.2014
 
- 22.07.2014
+– 22.07.2014
 
- 04.09.2014
+– 04.09.2014
 
 d. Falls die Entscheidung zugunsten der Veröffentlichung von Protokollen oder Ähnlichem gefallen ist, wie wird dies genau umgesetzt?
 
@@ -178,7 +179,7 @@ ABB-Service-Team
 
 Die Freie und Hansestadt Hamburg hat sich darüber hinaus in der Förderrunde für das Bundes-ESF-Programm Bildung, Wirtschaft, Arbeit im Quartier (BIWAQ), 2015 bis 2018, durch die Bezirksämter für vier Projekte beworben, die alle bewilligt wurden:
 
- LuTZi – Lern- und Trainingszentrum für Frauen aus aller Welt (Bezirke Bergedorf
+– LuTZi – Lern- und Trainingszentrum für Frauen aus aller Welt (Bezirke Bergedorf
 
 und Harburg): Berufliche, sprachliche und soziale Integration von Frauen mit Migrationshintergrund sowie die Förderung der Kompetenzen und Potenziale, Stärkung des Selbstbewusstseins für einen erfolgreichen Weg in die zukünftige geregelte Berufstätigkeit
 
@@ -192,7 +193,7 @@ BASFI: 74.991 Euro
 
 Drittmittel: 61.526 Euro
 
- AM Fluss – Aufsuchendes-Motivierendes-Fallmanagement (Bezirke Hamburg-Mitte
+– AM Fluss – Aufsuchendes-Motivierendes-Fallmanagement (Bezirke Hamburg-Mitte
 
 und Altona): Aufsuchendes motivierendes Fallmanagement durch niedrigschwellige Beratungs- und Kursangebote für (langzeit-)arbeitslose Menschen, insbesondere mit Migrationshintergrund
 
@@ -204,7 +205,7 @@ BMUB: 610.376 Euro
 
 BASFI: 195.000 Euro
 
- Netzwerk – Standort Große Bergstraße (Bezirk Altona): Aufbau einer geeigneten
+– Netzwerk – Standort Große Bergstraße (Bezirk Altona): Aufbau einer geeigneten
 
 Organisationsstruktur für ein funktionierendes Netzwerk der lokalen Ökonomie mit klar definierten Aufgaben und Kompetenzen
 
@@ -216,7 +217,7 @@ BMUB: 177.542 Euro
 
 Drittmittel. 64.860 Euro
 
- Neuwiedenthal im Zentrum (Bezirk Harburg): Bedarfsgerechter Ausbau der Nah-
+– Neuwiedenthal im Zentrum (Bezirk Harburg): Bedarfsgerechter Ausbau der Nah-
 
 versorgungs- und Dienstleistungsangebote im Zentrum Neuwiedenthal: zentrumsnahe Konzeptentwicklung Wohnen und Lokale Ökonomie mit besonderer Ausrichtung auf ältere Menschen; ökonomisches Gewerbemanagement sowie Aufbau und Stabilisierung eines handlungsfähigen Unternehmernetzwerks
 

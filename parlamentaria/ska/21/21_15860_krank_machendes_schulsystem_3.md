@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15858", "21/15859", "21/10443", "21/8828"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65349"
@@ -89,7 +90,7 @@ Wie bemisst der Senat/die zuständige Behörde die Belastungssituation für das 
 
 Verfügt der Senat/die zuständige Behörde über Mittel und/oder Konzepte, die Belastungssituation an Arbeits- und Lernerfolge der Schüler-/ -innenschaft beziehungsweise unterschiedlicher Gruppen an Schulen rückzubinden? (Bitte detailliert mit Blick auf die Gruppen Schüler/-innen, Lehrer/-innen, Schulleitungen, pädagogisch-therapeutische Fachkräfte erläutern.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/15858.
 

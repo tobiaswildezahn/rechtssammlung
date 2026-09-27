@@ -14,6 +14,7 @@ fragen: 42
 einzelfragen: 41
 antwortbloecke: 27
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9849", "19/5232", "21/10281", "21/12345", "21/14470", "21/14466"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64966"
@@ -430,7 +431,7 @@ Welche Vorgaben/Regelungen der BASFI gelten für Hamburger Kita- Einrichtungen h
 
 Ist seitens der BASFI vorgesehen, „inter- und transgeschlechtliche Kinder zu empowern“, wie es die AA-Stiftung in ihrer Broschüre fordert, und was ist konkret mit dem „Empowern“ von inter- und transgeschlechtlichen Kindern“ gemeint und ab welchen Altersstufen soll ein „Empowern“ erfolgen?
 
-#### Antwort zu Fragen 36 bis 37
+#### Antwort zu Fragen 36 und 37
 
 In den „Hamburger Bildungsempfehlungen für die Bildung und Erziehung von Kindern in Tageseinrichtungen“ wird Bezug genommen auf das Konzept der vorurteilsbewussten Bildung und Erziehung. Ziel ist, Kinder von Anfang an in ihren Identitäten zu bestärken, ihnen Erfahrungen mit Unterschieden zu ermöglichen, das kritische Denken über Einseitigkeiten und Ungerechtigkeiten anzuregen und Kinder zu ermutigen, dagegen aktiv zu werden. Dies schließt auch die Auseinandersetzung mit der eigenen Geschlechtsidentität mit ein. Die Bildungsempfehlungen werden ergänzt um die Leitlinien für eine geschlechtsbewusste Jungenarbeit und eine geschlechterbewusste Jungenpädagogik sowie die Leitlinien für die Mädchenarbeit und Mädchenpädagogik, welche ebenfalls fachliche Orientierung für die Konzeption und Umsetzung geschlechterreflektierter Pädagogik bieten.
 
@@ -444,7 +445,7 @@ Welche konkreten Erkenntnisse liegen der BASFI über „stereotype Geschlechterv
 
 Welche konkreten Erkenntnisse liegen der BASFI darüber vor, dass Eltern Hamburger Kita-Einrichtungen, die Wörter wie „Genderquatsch“, „Frühsexualisierung“ und „richtiger Mann“ äußerten, sich „im Kontext (neu-)rechter oder fundamentalistischer Ideologien“ bewegten, wie von der AA-Stiftung behauptet?
 
-#### Antwort zu Fragen 38 bis 39
+#### Antwort zu Fragen 38 und 39
 
 Der für Kindertageseinrichtungen zuständigen Behörde liegen keine Erkenntnisse im Sinne der Fragestellungen vor.
 

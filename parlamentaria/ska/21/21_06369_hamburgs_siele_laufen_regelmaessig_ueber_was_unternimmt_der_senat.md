@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54906"
@@ -131,26 +132,26 @@ Welches der unter 6. genannten Zwischenlager soll nach jetziger Planung wann und
 
 Folgende Maßnahmen zur unterirdischen Speicherung von Regenwasser beziehungsweise Mischwasser wurden bei HAMBURG WASSER in den vergangenen fünf Jahren geplant:
 
- Nebensammler Bergedorf (1.800 m DN 1800, Frascatiplatz, Sander Damm, Albert-
+– Nebensammler Bergedorf (1.800 m DN 1800, Frascatiplatz, Sander Damm, Albert-
 
 Gebel-Straße, Wehrdeich): circa 4.500 m³ zuzüglich circa 6.000 m³ für Speicherraumaktivierung durch Netzbewirtschaftung, Fertigstellung 2013
 
- Entlastungssiel Marienthal (845 m DN 2400, Oktaviostraße): circa 4.000 m³, Fer-
+– Entlastungssiel Marienthal (845 m DN 2400, Oktaviostraße): circa 4.000 m³, Fer-
 
 tigstellung 2016
 
- Transportsiel Isebek (3.425 m DN 2400, Weidenstieg bis Hafenstraße): circa
+– Transportsiel Isebek (3.425 m DN 2400, Weidenstieg bis Hafenstraße): circa
 
 15.500 m³, Fertigstellung 2016
 
- Sielbau Adlerstraße/Lämmersieth (1.150 m DN 1600, Adlerstraße, Lämmersieth):
+– Sielbau Adlerstraße/Lämmersieth (1.150 m DN 1600, Adlerstraße, Lämmersieth):
 
 circa 2.300 m³, Fertigstellung 2016
 
- Transportsiel Wallring (1.685 m DN 1800, Stephansplatz bis Alter Elbpark): circa
+– Transportsiel Wallring (1.685 m DN 1800, Stephansplatz bis Alter Elbpark): circa
 
 4.000 m³, Fertigstellung 2018 geplant
 
- Speichersiel Bismarckstraße (880 m Drachenprofil 1800, Bismarckstraße): 2.000
+– Speichersiel Bismarckstraße (880 m Drachenprofil 1800, Bismarckstraße): 2.000
 
 m³, Fertigstellung 2019 geplant

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56941"
@@ -77,7 +78,7 @@ Ist die durch Pensionierung frei gewordene Stelle eines Bürgernahen Beamten in 
 
 Warum kann die Stelle eines Bürgernahen Beamten im Falle einer planmäßigen Pensionierung nicht zeitnah wieder besetzt werden?
 
-#### Antwort zu Fragen 2, 4
+#### Antwort zu Fragen 2 und 4
 
 Die Funktion des in Rede stehenden BFS ist seit Juni 2016 nicht besetzt. Insgesamt sind zwei Funktionen BFS in Volksdorf gegenwärtig nicht besetzt. Die Wahrnehmung der BFS-Tätigkeiten ist durch Vertretungsregelungen gewährleistet.
 

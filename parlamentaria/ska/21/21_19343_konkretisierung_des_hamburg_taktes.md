@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18148"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69057"
@@ -103,11 +104,11 @@ Das MetroBus-Netz soll bis zum Jahr 2030 sukzessive ausgebaut werden. Die Planun
 
 Geplant ist
 
- die Einführung von vier zusätzlichen MetroBus-Linien,
+– die Einführung von vier zusätzlichen MetroBus-Linien,
 
- die Aufwertung von 22 bisherigen StadtBus-Linien zum MetroBus-Standard,
+– die Aufwertung von 22 bisherigen StadtBus-Linien zum MetroBus-Standard,
 
- die Verlängerung und Neuverknüpfung bestehender Linien.
+– die Verlängerung und Neuverknüpfung bestehender Linien.
 
 Die verkehrlichen Ziele sind hierbei unter anderem die Schaffung umsteigefreier Verbindungen und die Verbesserung der Erschließung von Stadtteilen.
 

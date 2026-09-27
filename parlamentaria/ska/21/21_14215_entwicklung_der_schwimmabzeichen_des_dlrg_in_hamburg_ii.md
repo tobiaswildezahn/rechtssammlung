@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13965", "21/2810", "20/654", "21/9895", "21/10943", "21/10666", "21/11098", "21/6796"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63623"
@@ -229,6 +230,6 @@ Wie stellt sich das Verhältnis von ausgestellten zu tatsächlich eingelösten G
 
 Wie viele Teilnehmer haben das DSJ über die Teilnahme an Schwimmkursgutscheinen erfolgreich absolviert: Wie hoch lag die jährliche Erfolgsquote? Bitte ab dem Jahre 2015 auflisten.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Angaben für im Schuljahr 2017/2018 ausgegebene Gutscheine liegen noch nicht vor, da diese eine Gültigkeit von 15 Monaten besitzen. Im Übrigen siehe Drs. 21/11098 und 21/6796.

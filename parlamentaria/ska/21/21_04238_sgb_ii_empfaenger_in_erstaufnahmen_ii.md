@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 18
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4043"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52642"
@@ -76,7 +77,7 @@ Wie hoch ist der Betrag, der bei SGB-II-Empfängern in Erstaufnahmen pro Person 
 
 Wie eingangs zitiert, werden laut Auskunft des Senats nur die Kosten der Unterbringung vom SGB-II-Satz einbehalten. In Erstaufnahmen werden die Bewohner jedoch mit Catering verpflegt. Ferner heißt es in dem Zusammenhang auf die Frage nach Überlegungen des Senats bezüglich einer Kostenverrechnung der SGB-II-Leistungen mit den Lebensmittelsätzen „für eine Kostenverrechnung gibt es keine rechtliche Grundlage nach dem SGB II“ (vergleiche Frage 7. Drs. 21/4043). a. Wird für die Vollversorgung durch Cateringleistungen ein entsprechender Betrag der SGB-II-Leistung einbehalten? Wenn ja, in welcher Höhe? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Es werden von den Leistungen nach SGB II keine Beträge für die Verpflegung einbehalten. Für eine Anrechnung auf den Regelbedarf nach § 20 SGB II gibt es derzeit keine gesetzliche Grundlage. Im Übrigen siehe Vorbemerkung.
 

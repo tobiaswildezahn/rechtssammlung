@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 19
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12505", "21/7388", "21/11812"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62103"
@@ -55,7 +56,7 @@ am
 
 Wie hoch waren die Verbindlichkeiten gegenüber Kreditinstituten und ähnliche verzinsliche Finanzverbindlichkeiten bei Tochtergesellschaften der HPA am 31.12.2017?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -139,7 +140,7 @@ Welches Jahresergebnis wird bei der HPA im Jahr 2018 erwartet?
 
 Wird weiterhin mit einer jährlichen Ergebnis- und Liquiditätslücke von 50 bis 60 Millionen Euro bei der HPA gerechnet? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Drs. 21/11812.
 

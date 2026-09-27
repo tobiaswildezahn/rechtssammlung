@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63129"
@@ -73,7 +74,7 @@ Hat der Senat Bedenken, dass mit Mofateh ein ehemaliger Revolutionswächter zu s
 
 Inwieweit kollidiert die Ernennung Mohammad Hadi Mofatehs aus Sicht des Senats mit den Wertegrundlagen des Staatsvertrags?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung. Im Übrigen hat sich der Senat hiermit nicht befasst.
 

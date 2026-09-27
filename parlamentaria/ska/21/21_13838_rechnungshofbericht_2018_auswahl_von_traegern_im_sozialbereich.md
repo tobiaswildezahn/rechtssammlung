@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12639"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63222"
@@ -33,19 +34,19 @@ Im Jahresbericht 2018, Rn. 98, kritisiert der Rechnungshof, „dass die Behörde
 
 ## Einleitung für die Antworten des Senats
 
- ohne nachvollziehbare Begründung auch Zuwendungsanträge akzeptier-
+– ohne nachvollziehbare Begründung auch Zuwendungsanträge akzeptier-
 
 te und Träger auswählte, obwohl nach deren eigenen Angaben Zuwendungsvoraussetzungen nicht erfüllt waren;
 
- ihre Ankündigung, der Qualifikation des Personals eine besondere
+– ihre Ankündigung, der Qualifikation des Personals eine besondere
 
 Gewichtung oder Maßgeblichkeit beimessen zu wollen, nicht wirksam umsetzte;
 
- im Vermerk über das Ergebnis der Antragsprüfung nicht nachvollziehbar
+– im Vermerk über das Ergebnis der Antragsprüfung nicht nachvollziehbar
 
 begründete, wenn sie Anlass sah, von den Vorgaben abzuweichen;
 
- nach Auswahl von Trägern die Anforderungen an die Qualifikation des
+– nach Auswahl von Trägern die Anforderungen an die Qualifikation des
 
 einzusetzenden Personals nicht bzw. verändert in die konkreten Zuwendungsbescheide übernahmen, ohne die hierfür maßgeblichen Gründe im Zuwendungsverfahren zu benennen.“
 

@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 28
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2812", "20/12079", "21/3607", "21/4519", "21/3511"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52983"
@@ -49,7 +50,7 @@ Wie viele und welche Fahrgastschifftypen werden für den Linienverkehr auf den h
 
 Wie viele und welche Fährschiffe werden für den Verkehr zu den Musicaltheatern und zu Airbus benötigt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die HADAG setzt wochentags mindestens 21 Schiffe zur Erbringung der Beförderungsleistung ein. Zudem wird eine vorgeschriebene Betriebsreserve vorgehalten. Insgesamt verfügt die HADAG über 24 Schiffe, davon 13 Schiffe vom Typ 2000, drei Flachschiffe und acht Schiffe der Schiffstypen I bis III beziehungsweise älterer Schiffstypen. Es werden nahezu alle Schiffstypen auf allen Linien eingesetzt. Ausnahmen sind die Linie 73 Landungsbrücken – Ernst-August-Schleuse, auf der lediglich Flachschiffe eingesetzt werden, sowie die Linie Cranz – Blankenese. Die Fahrzeuge werden flexibel disponiert. Im Übrigen siehe Drs. 21/2812.
 
@@ -93,7 +94,7 @@ Würden Sie die uns zahlreich vorliegenden Hinweise und Beschwerden bestätigen,
 
 Gibt es aktuelle Erhebungen der HADAG zur Überlastungsproblematik auf der Linie 62? Wenn ja: Wie sind die Ergebnisse?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Im Jahr 2015 mussten bei circa 2 Prozent der Fahrten Fahrgäste 15 Minuten auf die nächste Fähre warten. Die HADAG setzt bei hohem Fahrgastandrang im Rahmen der Verfügbarkeit die erforderlichen Verstärkerschiffe ein. Im Übrigen siehe Drs. 21/3511.
 

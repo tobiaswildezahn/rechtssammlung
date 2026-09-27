@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19148"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68981"
@@ -91,6 +92,6 @@ In wie vielen Fällen hat die HPA seit dem 1. März 2007 (Antragsunterlagen zur 
 
 In wie vielen von diesen Fällen waren vollziehbare Planfeststellungsbeschlüsse rechtlich zwingende Voraussetzung zur Durchführung dieser Arbeiten?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Im Auftrag der HPA wurden seit dem Jahr 2007 rund 200 Kampfmittelsondierungen im Wasser- und Uferbereich durchgeführt. Für die Beantwortung der Frage müssten die umfassenden Unterlagen jedes Falles einzeln händisch ausgewertet werden, weshalb eine detaillierte Aufstellung der Kampfmittelsondierungen einschließlich der Form des Zulassungsverfahrens in der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht möglich ist.

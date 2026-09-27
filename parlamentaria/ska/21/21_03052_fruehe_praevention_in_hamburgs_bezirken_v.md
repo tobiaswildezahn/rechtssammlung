@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 17
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6287", "21/107", "21/455", "21/2198"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51386"
@@ -55,27 +56,27 @@ Die Stelleninhaber haben in der Regel die Fachqualifikation Sozialpädagoge/-in 
 
 Konkret beziehen sie sich für das Jugendamt
 
- Hamburg-Mitte auf die ASD-Abteilungen JA3/ASD 1 und 2 (zuständig für Wil-
+– Hamburg-Mitte auf die ASD-Abteilungen JA3/ASD 1 und 2 (zuständig für Wil-
 
 helmsburg beziehungsweise Veddel) und die Abteilung Wirtschaftliche Jugendhilfe, die mit Verwaltungsfachangestellten für den gesamten Bezirk zuständig ist,
 
- Eimsbüttel auf die ASD-Abteilungen JA 1/ASD (zuständig für Eimsbütteler Kernge-
+– Eimsbüttel auf die ASD-Abteilungen JA 1/ASD (zuständig für Eimsbütteler Kernge-
 
 biet, Rotherbaum, Harvestehude, Hoheluft West) und JA 2/ASD (zuständig für Schnelsen, Niendorf, Lokstedt),
 
- Hamburg-Nord auf die ASD-Abteilungen JA 1/ASD 1, 2 und 3 (zuständig für Kern-
+– Hamburg-Nord auf die ASD-Abteilungen JA 1/ASD 1, 2 und 3 (zuständig für Kern-
 
 gebiet, Fuhlsbüttel beziehungsweise Langenhorn) sowie JA 2/ASD 1 und 2 (zuständig für Barmbek beziehungsweise Dulsberg),
 
- Wandsbek auf die ASD-Abteilungen JA 1/ASD 1 und 2 (zuständig für Wandsbek
+– Wandsbek auf die ASD-Abteilungen JA 1/ASD 1 und 2 (zuständig für Wandsbek
 
 Kern beziehungsweise Jenfeld), JA 2/ASD 1 bis 3 (zuständig für Bramfeld, Steilshoop beziehungsweise Alstertal) sowie JA 3/ASD 3 (zuständig für Meiendorf/ Oldenfelde) und den Bereich Beistandschaften (BS), der für den gesamten Bezirk zuständig ist,
 
- Bergedorf auf die drei ASD-Abteilungen und den Bereich Amtsvormundschaften/
+– Bergedorf auf die drei ASD-Abteilungen und den Bereich Amtsvormundschaften/
 
 Beistandschaften (AV/BS), die für den gesamten Bezirk zuständig sind und
 
- Harburg auf die ASD-Abteilungen JA1/ASD122 und 123 (zuständig für Harburg
+– Harburg auf die ASD-Abteilungen JA1/ASD122 und 123 (zuständig für Harburg
 
 Kern).
 
@@ -94,19 +95,19 @@ In Drs. 21/455, Anlage 2, zeigt sich, dass in den Bezirksämtern Eimsbüttel, Ha
 
 #### Antwort zu Frage 3
 
- Die Meldungen zu den kollektiven Überlastungsanzeigen aus der Drs. 21/455
+– Die Meldungen zu den kollektiven Überlastungsanzeigen aus der Drs. 21/455
 
 Anlage 2 für das BA Eimsbüttel sind zum Stichtag 28.Januar 2016 erledigt.
 
- Für den Bereich der berührten ASD-Abteilungen in Hamburg-Nord hat sich die
+– Für den Bereich der berührten ASD-Abteilungen in Hamburg-Nord hat sich die
 
 Situation unter anderem durch die Maßnahmen des ASD-Stabilisierungsprogramms, der Umsetzung der Ergebnisse der Personalbemessung ASD, dem Mentoren-Einsatz für neue ASD-Mitarbeiter/-innen und dem temporären Einsatz von Assistenzkräften bei Verwaltungsaufgaben entspannt.
 
- Auch wenn eine Erledigung für den ASD des Bezirksamts Bergedorf noch nicht
+– Auch wenn eine Erledigung für den ASD des Bezirksamts Bergedorf noch nicht
 
 abgeschlossen ist, wird davon ausgegangen, dass die Überlastungsanzeigen zurückgenommen werden. Für den Bereich AV/BS des Jugendamts Bergedorf wurden Abhilfemaßnahmen wie zum Beispiel forcierte Stellenbesetzungen ergriffen, weitere Maßnahmen zur weiteren Verbesserung der Situation laufen.
 
- Bei den meisten Abteilungen des ASD in Wandsbek wird aufgrund des personellen
+– Bei den meisten Abteilungen des ASD in Wandsbek wird aufgrund des personellen
 
 Zuwachses im Rahmen der Personalbemessung im ASD und des Stabilisierungs-
 
@@ -431,7 +432,7 @@ Welche Mittel haben die Mütterberatungen für welchen Zeitraum der Finanzierung
 
 Welche Mittel sind dem Haushaltsplan 2015/2016 zufolge für die Mütterberatungen vorgesehen? (Bitte mit Angabe der PG, des Kontenbereichs und des entsprechenden Produkts).
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Eine gesonderte Abbildung und Auswertung der Kosten allein für Mütterberatungsstellen ist nicht möglich.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52755"
@@ -75,7 +76,7 @@ Wie viele Mietverträge bestehen für die einzelnen Standorte derzeit? Bitte nac
 
 Wie ist jeweils der Auslastungsgrad der für die Vermietung vorgesehenen Angebote?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Anlage 2. Von den angebotenen Mietschließfächern sind derzeit fünf an der Haltestelle Poppenbüttel vermietet.
 

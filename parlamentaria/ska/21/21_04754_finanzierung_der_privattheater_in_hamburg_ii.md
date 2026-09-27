@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4518", "21/4676"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53176"
@@ -55,7 +56,7 @@ Wie sollen sich nach den Vorstellungen des Evaluationsberichts die städtischen 
 
 Wie bewertet der Senat diese Vorschläge?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/4676.
 

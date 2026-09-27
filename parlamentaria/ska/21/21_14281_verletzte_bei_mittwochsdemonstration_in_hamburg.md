@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63692"
@@ -41,7 +42,7 @@ Wie viele Demonstranten sind verletzt worden?
 
 Welcher Art sind die Verletzungen (stumpf/scharf/Spuren von Waffengebrauch/Kopf/Rumpf/Gliedmaßen/SHT/Frakturen/ambulante oder stationäre Behandlung/Spätfolgen zu erwarten)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nach den der Polizei bisher vorliegenden Erkenntnissen wurden im Rahmen der Demonstrationen zwei Teilnehmer der Demonstration unter dem Tenor „Merkel-mussweg!“ verletzt.
 
@@ -109,7 +110,7 @@ Wird den Verletzten ein Selbstverschulden vorgehalten, zum Beispiel Entfernen au
 
 Welche Erkenntnisse hat der Senat zu der Frage, ob die Täter durch die Bundesregierung, die Medien, die Verlautbarungen des Hamburgischen Verfassungsschutzes oder durch Hamburger Politiker motiviert wurden? Falls keine Erkenntnisse vorliegen: sind diese Fragen Gegenstand der Ermittlungen? Falls nein: warum nicht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Sachverhalte sind Gegenstand derzeit noch laufender Ermittlungsverfahren der Polizei. Die Ermittlungen beziehen sich auf für die zugrundeliegende Tat relevante Tatumstände. Um einen möglichen Ermittlungserfolg nicht zu gefährden, sieht die Polizei daher von Angaben im Sinne der Fragestellung ab.
 

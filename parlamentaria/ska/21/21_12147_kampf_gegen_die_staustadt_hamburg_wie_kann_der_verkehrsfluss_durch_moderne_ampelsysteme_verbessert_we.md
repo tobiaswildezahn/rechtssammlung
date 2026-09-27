@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 33
 antwortbloecke: 22
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61420"
@@ -312,13 +313,13 @@ Sind Projekte im Bereich der Car2X-Kommunikation geplant? Wenn ja, welche?
 
 In Hamburg sind nicht nur Projekte zur Car2X-Kommunikation geplant, sondern sie sollen um eine V2X-Kommunikation erweitert werden. Aktuell sind verschiedene Projekte in Vorplanung oder Umsetzung, welche auf einer V2X-Kommunikation beruhen. Im Januar dieses Jahres ist zum Beispiel das Bundesförderprojekt „Hamburg Electric Autonomous Transportation“ (HEAT) gestartet, in dem der Betrieb von automatisiert und vernetzt fahrenden Elektrobussen in der HafenCity erprobt werden soll. Darüber hinaus befinden sich unter anderem folgende Projekte in Vorbereitung:
 
- Green4Transport zur Optimierung der Lkw-Abwicklung im Hafen
+– Green4Transport zur Optimierung der Lkw-Abwicklung im Hafen
 
- BiDiMoVe (BiDirektional, MultiModal, Vernetzt) zur Einsatzoptimierung und gesi-
+– BiDiMoVe (BiDirektional, MultiModal, Vernetzt) zur Einsatzoptimierung und gesi-
 
 cherten Priorisierung bestimmter Verkehrsteilnehmer (ÖPNV, Einsatzfahrzeuge) sowie die Warnung vor potenziell gefährlichen Kreuzungssituationen mit besonders gefährdeten Verkehrsteilnehmern (Rad- und Fußverkehr) an Knotenpunkten
 
- TAVF-HH (Teststrecke automatisiertes und vernetztes Fahren für verschiedene
+– TAVF-HH (Teststrecke automatisiertes und vernetztes Fahren für verschiedene
 
 Verkehrsteilnehmergruppen in Hamburg)
 

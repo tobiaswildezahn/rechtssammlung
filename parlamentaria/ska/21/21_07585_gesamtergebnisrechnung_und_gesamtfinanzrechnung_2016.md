@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 20
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3098"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56201"
@@ -43,7 +44,7 @@ Wie sehen auf Grundlage der derzeit vorliegenden Beschlusslage der fortgeschrieb
 
 Wie hoch lagen die jeweiligen Ist-Werte der Gesamtergebnisrechnung 2016 gemäß aktuellstem Sachstand? Von wann datiert dieser? a. Mit welchen Nach- und Umbuchungen ist aus welchen Gründen noch zu rechnen? b. Wann sollen diese Umbuchungen respektive 13. und 14. Buchungsperiode jeweils abgeschlossen sein? (Bitte Antworten zu Fragen 1. uns 2. jahresweise analog zur Darstellung in den Quartalsberichten beziehungsweise Drs. 21/3098 auflisten.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für das Jahr 2016 siehe Anlage 1. Die Bürgerschaft hat am 15. Dezember 2016 den Haushaltsplan 2017/2018 beschlossen. Ein von diesem Stand abweichender fortgeschriebener Plan beziehungsweise ein abweichendes Soll für das Jahr 2017 liegt noch nicht vor. Mit Nachbuchungen für 2016 ist insbesondere bei den Wertansätzen von Finanzanlagen und Pensionsrückstellungen zu rechnen. Darüber hinaus sind weitere Nach- und Umbuchungen möglich, die jedoch nicht im Voraus bekannt sind. Die 13. Buchungsperiode wird voraussichtlich bis Ende März, die 14. Buchungsperiode voraussichtlich bis Ende Juni 2017 abgeschlossen werden.
 
@@ -55,7 +56,7 @@ Wie sehen auf Grundlage der derzeit vorliegenden Beschlusslage der fortgeschrieb
 
 Wie hoch lagen die jeweiligen Ist-Werte der Gesamtfinanzrechnung 2016 gemäß aktuellstem Sachstand? Von wann datiert dieser? Wie hoch lagen insbesondere a. die Einzahlungen, Auszahlungen und der daraus resultierende Saldo aus Verwaltungstätigkeit, b. der Saldo aus Investitionen und c. der Saldo aus gegebenen Darlehen im Jahr 2016? (Bitte Antworten zu Fragen 3. und 4. jahresweise analog zur Darstellung in den Quartalsberichten beziehungsweise Drs. 21/3098 auflisten.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage 2 und Antwort zu 1. und 2.
 

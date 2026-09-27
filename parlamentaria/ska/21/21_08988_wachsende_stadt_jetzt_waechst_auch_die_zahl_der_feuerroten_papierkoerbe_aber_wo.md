@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57731"
@@ -83,7 +84,7 @@ An welchen vorgeschlagenen Standorten wurden die Papierkörbe aufgestellt? Bitte
 
 An welchen Standorten wurden Papierkörbe aufgestellt, für die es keine Vorschläge Dritter gab?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Zu den Standorten der aufgestellten Papierkörbe siehe Anlage.
 

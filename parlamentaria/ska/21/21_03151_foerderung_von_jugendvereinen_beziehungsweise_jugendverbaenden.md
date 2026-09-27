@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51480"
@@ -51,7 +52,7 @@ Wie viele davon erhalten beziehungsweise erhielten staatliche Förderungen (bezi
 
 Wie viele Stellen werden beziehungsweise wurden von der Freien und Hansestadt Hamburg bei den Jugendvereinen beziehungsweise Jugendverbänden in den Jahren 2010 bis 2015 gefördert? Bitte tabellarisch nach Verband/Verein, Bezeichnung der Stelle, Tarifstufe, gefördertem Stellenanteil und Höhe der Vergütung auflisten.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 In den Jahren 2010 bis 2015 erhielten 69 Jugendvereine oder -verbände eine staatliche Förderung, um die Selbstorganisation junger Menschen zu ermöglichen. Insgesamt wurden 14,7 Stellen (berechnet als Vollzeitäquivalent) gefördert. Im Übrigen siehe Anlage 1. Die erfragten Tarifstufen und Vergütungshöhen sind nicht angegeben, weil sich daraus Rückschlüsse auf Gehaltsstrukturen und die Vergütung einzelner Personen ziehen ließen. Bei diesen Daten handelt es sich um Geschäftsgeheimnisse, die gemäß §§ 35 Absatz 4 SGB I, 67 Absatz 1 S. 2 SGB X dem Sozialdatenschutz unterliegen. Sozialdaten dürfen gemäß § 67 d Absatz 1 SGB X nur bei Vorliegen einer Übermittlungsbefugnis nach dem SGB übermittelt werden. Das SGB enthält keine Übermittlungsbefugnis zugunsten der Beantwortung Parlamentarischer Anfragen. Der Senat ist deshalb aus Gründen des Sozialdatenschutzes gemäß §§ 35 SGB I, 67 fortfolgende SGB X an der vollständigen Beantwortung der Frage gehindert.
 

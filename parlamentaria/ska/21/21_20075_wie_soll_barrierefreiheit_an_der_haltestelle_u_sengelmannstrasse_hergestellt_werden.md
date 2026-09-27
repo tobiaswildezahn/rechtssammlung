@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16645"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69836"
@@ -39,11 +40,11 @@ Aufgrund der komplexen Lage vor Ort wurden in der Vergangenheit bereits mehrere 
 
 ## Einleitung für die Antworten des Senats
 
- entsprechende Vorschläge zu einer praxisgerechteren Ausgestaltung der Wegführung zu prüfen,
+– entsprechende Vorschläge zu einer praxisgerechteren Ausgestaltung der Wegführung zu prüfen,
 
- mit den Anliegern zu verhandeln, um das für einen Umbau notwendige Gelände zu erhalten,
+– mit den Anliegern zu verhandeln, um das für einen Umbau notwendige Gelände zu erhalten,
 
- die Kosten zu ermitteln, ob eventuell Beteiligungen des Landes und/oder der HOCHBAHN möglich wären, wenn der Fahrstuhl an/in den U-Bahnhof integriert wird.
+– die Kosten zu ermitteln, ob eventuell Beteiligungen des Landes und/oder der HOCHBAHN möglich wären, wenn der Fahrstuhl an/in den U-Bahnhof integriert wird.
 
 In der Antwort der Verwaltung an die Bezirksversammlung wurden zahlreiche Bedenken aufgeführt, die Lösung umzusetzen, zum Beispiel dass Komplettrodungen von Hecken und Baumfällungen auf den angesprochenen privaten und städtischen Flurstücken erforderlich seien, welche der Baumschutzsatzung unterlägen. Die HOCHBAHN betreue außerdem nur Fahrstühle und Rolltreppen in direkter Zuordnung zur Haltestelle, nicht aber im Umfeld von Haltestellen. An Kosten wurde neben den Kosten für Ersatzpflanzung, Rodungen und Grundstückserwerb eine pauschale Investitionssumme von 2,5 Millionen Euro an Baukosten sowie Unterhaltskosten für einen Fahrstuhl von 60 000 Euro genannt. Genauere Aufschlüsselungen unterblieben. Außerdem scheint es erhebliche Abstimmungsschwierigkeiten zwischen Bezirk, Freier und Hansestadt Hamburg und HOCHBAHN zu geben, wer für die Herstellung der Barrierefreiheit in der Praxis zuständig ist.
 
@@ -123,7 +124,7 @@ In welcher rechtlichen Verpflichtung sehen sich der Senat, die Verwaltung und di
 
 Welche Maßnahmen wird der Senat ergreifen, um die Zugänglichkeit der U-Bahn-Station auch von Norden sicherzustellen für die Bewohner der Alsterdorfer Gartenstadt, den Behinderten der ESA, den Besuchern des Krankenhauses sowie den Familien mit Kleinkindern, die mit Kinderwagen oder Kinderkarre befördert werden müssen? Wenn keine Maßnahmen geplant sind: warum?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Alle vorhandenen und vorgesehenen U-Bahn-Anlagen sind und werden innerhalb der U-Bahn-Haltestelle bis zur öffentlichen Wegefläche barrierefrei ausgestaltet. Die HOCHBAHN erfüllt damit ihre rechtlichen Verpflichtungen.
 

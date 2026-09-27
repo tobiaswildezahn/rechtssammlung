@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3659", "20/9506", "20/10339"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54572"
@@ -75,19 +76,19 @@ Ja.
 
 Anlagen, die unter Weiterführung der „Rahmenvereinbarung zur Sportförderung“ überlassen werden sollen:
 
- Altona: Marschweg (wird noch gebaut)
+– Altona: Marschweg (wird noch gebaut)
 
- Eimsbüttel: Sportanlage Furtweg
+– Eimsbüttel: Sportanlage Furtweg
 
- Hamburg-Nord: Sportanlagen Schlehdornweg und Weg beim Jäger
+– Hamburg-Nord: Sportanlagen Schlehdornweg und Weg beim Jäger
 
 Anlagen, die per „Sportrahmenvertrag“ überlassen werden sollen:
 
- Altona: Teilflächen auf der Sportanlage Marschweg
+– Altona: Teilflächen auf der Sportanlage Marschweg
 
- Eimsbüttel: Teilflächen auf den Sportanlagen Sachsenweg und Furtweg
+– Eimsbüttel: Teilflächen auf den Sportanlagen Sachsenweg und Furtweg
 
- Harburg: Uwe-Seeler Sporthalle
+– Harburg: Uwe-Seeler Sporthalle
 
 Die weiteren Überlegungen der zuständigen Bezirksverwaltungen sind noch nicht abgeschlossen.
 

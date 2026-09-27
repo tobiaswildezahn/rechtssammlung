@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10195", "21/7505", "20/14334", "21/10688"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60387"
@@ -76,7 +77,7 @@ Wie viele An- und Abflüge gab es im Jahr 2017 nach 22 Uhr über den Hamburger N
 
 Wie viele An- und Abflüge gab es im Jahr 2017 zwischen 6 und 7 Uhr über den Hamburger Nordosten und aus welchen Gründen jeweils? Bitte nach Monaten aufgeschlüsselt angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Da der Zeitraum bis 23 Uhr zu den geltenden regulären Betriebszeiten zählt, erfolgt die Darstellung der An- und Abflüge nach 22 Uhr unterteilt in die Zeiträume 22 bis 23 sowie 23 bis 24 Uhr.
 

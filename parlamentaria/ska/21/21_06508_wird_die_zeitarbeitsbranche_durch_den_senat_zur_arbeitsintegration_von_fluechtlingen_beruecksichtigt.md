@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 13
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5832"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55040"
@@ -39,13 +40,13 @@ Vor diesem Hintergrund frage ich den Senat:
 
 Seitens der Agentur für Arbeit Hamburg, Jobcenter team.arbeit.hamburg und der zuständigen Behörde werden im Rahmen der gemeinsamen Programmsteuerung W.I.R durch
 
- Betrieb des Unternehmensservices in W.I.R,
+– Betrieb des Unternehmensservices in W.I.R,
 
- proaktive Veranstaltungen im Rahmen des Dialogforums „Ausbildung und Arbeit“
+– proaktive Veranstaltungen im Rahmen des Dialogforums „Ausbildung und Arbeit“
 
 und weiteren Netzwerk- und Matchingveranstaltungen sowie
 
- die abgestimmte Planung von mit dem Spracherwerb verzahnten Modulen zur
+– die abgestimmte Planung von mit dem Spracherwerb verzahnten Modulen zur
 
 beruflichen Kompetenzfeststellung, Anerkennung und Qualifizierung
 
@@ -65,7 +66,7 @@ Gibt beziehungsweise gab es Gespräche zwischen Senat beziehungsweise der zustä
 
 Hat der Senat beziehungsweise die zuständige Behörde Maßnahmen ergriffen, um unterschiedliche Arbeitgeber der Arbeitnehmerüberlassung aktiv in Maßnahmen des Projektes „Work and Integration for Refugees“ (W.I.R) einzubinden? a. Wenn ja, welche Maßnahmen wurden ergriffen und wie ist der jeweilige Umsetzungsstand? b. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -77,7 +78,7 @@ Hat der Senat im Rahmen von W.I.R Flüchtlinge in Unternehmen der Arbeitnehmerü
 
 Konnten im Rahmen von W.I.R Flüchtlinge mithilfe der Unternehmen in der Arbeitnehmerüberlassung in sozialversicherungspflichte Beschäftigungsverhältnisse vermittelt werden? a. Wenn ja, wie viele und in welchem Verhältnis steht die Anzahl dieser Vermittlungen zu der in anderen Branchen? b. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Durch den Statistik-Service der Bundesagentur für Arbeit erfolgt keine Auswertung in Bezug auf die bei W.I.R erfassten Geflüchteten im Sinne der Fragestellung.
 

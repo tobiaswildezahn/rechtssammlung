@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 34
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6517", "21/5646", "21/904"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56113"
@@ -178,7 +179,7 @@ Von wem und bis wann wurde die Entwicklung der Zentralabiturprüfungsaufgaben, e
 
 Inwieweit entsprechen die Aufgabentypen des Hamburger Vorabiturs den Anforderungen beziehungsweise dem Schema der Aufgaben für das Zentralabitur? Wurden die in Hamburg entwickelten Aufgaben verwendet?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die KMK hat in den vergangenen Jahren verschiedene Maßnahmen ergriffen, um die Standards in den Abiturprüfungen der 16 Bundesländer anzugleichen. Grundlage sind die 2012 beschlossenen Bildungsstandards für die allgemeine Hochschulreife. 2012 wurde darüber hinaus auf Initiative Hamburgs eine Arbeitsgruppe der KMK mit der Entwicklung eines bundesweiten Aufgabenpools für die schriftlichen Abiturprüfungen beauftragt. Nach Beschluss der KMK vom 20./21. Juni 2013 wurden in vier Aufgabenentwicklergruppen am Institut zur Qualitätsentwicklung im Bildungswesen (IQB) Aufgaben für eine Beispielsammlung (Veröffentlichung 2015) und im Anschluss für die Abiturprüfung 2017 entwickelt, siehe Drs. 21/904.
 
@@ -222,7 +223,7 @@ Wo liegen die Ursachen für diese desaströsen Ergebnisse nach Einschätzung der
 
 Wie werden die Ergebnisse weiter evaluiert? Wer ist mit der weiteren Evaluation der Ergebnisse befasst? Wird es einen Bericht geben? Wenn ja, zu wann?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Vorbemerkung.
 

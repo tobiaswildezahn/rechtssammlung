@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4509"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53093"
@@ -85,7 +86,7 @@ Es gibt öffentliche Aussagen der Staatsanwaltschaft gegenüber Medien, dass die
 
 Wann genau wurde nach Abschluss der Ermittlungen die Öffentlichkeitsfahndung beantragt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/4509.
 

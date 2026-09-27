@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50238"
@@ -53,11 +54,11 @@ b) Die Regelungen im BauGB zur Beteiligung der Öffentlichkeit bei Bauleitplanve
 c) Im Hinblick auf die planungsrechtliche Zulässigkeit von Flüchtlingsunterkünften sind neben einer eher klarstellenden Regelung in § 31 Absatz 2 Nummer 1 BauGB (Unterbringung von Flüchtlingen und Asylbegehrenden als Grund des Wohls der Allgemeinheit) in § 246 Absätze 8 bis 10 BauGB zeitlich bis zum
 31. Dezember 2019 befristete Sonderregelungen ins BauGB aufgenommen worden. Diese bewirken, dass
 
- Geschäfts-, Büro- oder Verwaltungsgebäude im unbeplanten Innenbereich (§ 34 BauGB) erleichtert in Flüchtlingsunterkünfte umgenutzt werden können (§ 246 Absatz 8 BauGB),
+– Geschäfts-, Büro- oder Verwaltungsgebäude im unbeplanten Innenbereich (§ 34 BauGB) erleichtert in Flüchtlingsunterkünfte umgenutzt werden können (§ 246 Absatz 8 BauGB),
 
- Flüchtlingsunterkünfte im Außenbereich (§ 35 BauGB), soweit dieser innerhalb des Siedlungsbereichs liegt und ein räumlicher Zusammenhang zu bebauten Bereichen besteht, erleichtert zugelassen werden können (§ 246 Absatz 9 BauGB) und
+– Flüchtlingsunterkünfte im Außenbereich (§ 35 BauGB), soweit dieser innerhalb des Siedlungsbereichs liegt und ein räumlicher Zusammenhang zu bebauten Bereichen besteht, erleichtert zugelassen werden können (§ 246 Absatz 9 BauGB) und
 
- in Gewerbegebieten (§ 246 Absatz 10 BauGB) erleichtert zugunsten von Unterkünften für Flüchtlinge oder Asylbegehrende von Festsetzungen eines Bebauungsplans befreit werden kann.
+– in Gewerbegebieten (§ 246 Absatz 10 BauGB) erleichtert zugunsten von Unterkünften für Flüchtlinge oder Asylbegehrende von Festsetzungen eines Bebauungsplans befreit werden kann.
 
 ### Frage 2
 

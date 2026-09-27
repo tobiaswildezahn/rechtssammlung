@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49726"
@@ -45,7 +46,7 @@ Wann ist das Projekt „Hundebande“ in der Teilanstalt für Frauen der JVA Hah
 
 Wer hat das Projekt wann initiiert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Hinter dem Projekt „Hundebande“ steht der Verein Hundebande e.V. als Initiator. Das Projekt wurde erstmalig in den Jahren 2010 und 2011 als Pilotprojekt über den Zeitraum eines Jahres in der Teilanstalt für Frauen der JVA Hahnöfersand (TAF) erprobt. Im März 2015 wurde mit dem aktuellen Projekt gestartet. Nach einer Vorbereitungsphase wurden die Hunde im April 2015 an ihre Patinnen in der TAF übergeben.
 

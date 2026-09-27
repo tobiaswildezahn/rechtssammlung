@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6244", "21/5083"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68133"
@@ -66,17 +67,17 @@ Welche weiteren Maßnahmen zur Kapazitätssteigerung sind auf dieser Strecke in 
 
 Die HADAG hat die Beförderungskapazitäten kontinuierlich erhöht, insbesondere durch folgende Maßnahmen:
 
- Einführung des nachfrageorientierten Zehn-Minuten-Takts (siehe Drs. 21/6244),
+– Einführung des nachfrageorientierten Zehn-Minuten-Takts (siehe Drs. 21/6244),
 
- Erhöhung der zulässigen Fahrgastkapazität auf maximal 400 Fahrgäste je Schiff
+– Erhöhung der zulässigen Fahrgastkapazität auf maximal 400 Fahrgäste je Schiff
 
 (siehe Drs. 21/5083),
 
- Nachrüstung der Flotte: Verzicht auf zum Beispiel Pantry, um mehr Platz für Stell-
+– Nachrüstung der Flotte: Verzicht auf zum Beispiel Pantry, um mehr Platz für Stell-
 
 fläche und Sitzplätze zu schaffen,
 
- Anpassung des Fahrplans der Linie 62.
+– Anpassung des Fahrplans der Linie 62.
 
 Über Maßnahmen für das Jahr 2020 ist noch nicht entschieden worden.
 

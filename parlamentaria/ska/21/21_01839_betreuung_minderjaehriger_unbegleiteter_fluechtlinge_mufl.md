@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1025"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50063"
@@ -77,19 +78,19 @@ Das Referat Amtsvormundschaft (FS 44) der zuständigen Behörde besteht zurzeit 
 
 Zu den Aufgaben eines Amtsvormundes/Amtspflegers gehören unter anderem
 
- Sicherstellung von Pflege und Erziehung;
+– Sicherstellung von Pflege und Erziehung;
 
- Sicherstellung der Gesundheitsfürsorge, des Lebensunterhalts und der Schul- und
+– Sicherstellung der Gesundheitsfürsorge, des Lebensunterhalts und der Schul- und
 
 Berufsausbildung;
 
- Bestimmung des Aufenthalts für das Mündel und Regelung des Umgangs;
+– Bestimmung des Aufenthalts für das Mündel und Regelung des Umgangs;
 
- Vertretung im gerichtlichen Verfahren, familiengerichtlichen Berichtswesen und
+– Vertretung im gerichtlichen Verfahren, familiengerichtlichen Berichtswesen und
 
 Klärung statusrechtlicher Fragen;
 
- Geltendmachung von Unterhaltsansprüchen und Verwaltung des Mündelvermö-
+– Geltendmachung von Unterhaltsansprüchen und Verwaltung des Mündelvermö-
 
 gens.
 

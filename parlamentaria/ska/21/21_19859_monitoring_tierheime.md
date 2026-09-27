@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16236"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69707"
@@ -69,7 +70,7 @@ Welche Verstöße wurden bei den Kontrollen festgestellt? (Bitte um Auflistung, 
 
 Welche Konsequenzen ergaben sich aus den jeweiligen Verstößen? (Bitte um Auflistung je nach Verstoß.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im Franziskus-Tierheim wurden keine Verstöße festgestellt.
 

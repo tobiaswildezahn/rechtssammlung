@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 17
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13164"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66906"
@@ -53,7 +54,7 @@ An welchen Terminals ist derzeit der Einsatz von PowerPacs geplant? Bitte je nac
 
 Welche Ziele der Freien und Hansestadt Hamburg sollen in welchem Zeitraum mit dem Einsatz von PowerPacs erreicht werden? a. Was hat die Freie und Hansestadt Hamburg dazu mit dem Betreiber der PowerPacs vereinbart? b. Wie hat beziehungsweise wird die Freie und Hansestadt Hamburg den Betreiber der PowerPacs durch welche Maßnahmen unterstützen? c. In welchem Zeitraum sollen bis zu neun PowerPacs an welchen Terminals in Betrieb genommen werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

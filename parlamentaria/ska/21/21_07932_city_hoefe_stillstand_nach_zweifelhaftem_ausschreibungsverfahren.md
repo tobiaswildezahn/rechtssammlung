@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2904"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56562"
@@ -65,7 +66,7 @@ Hat die Firma August Prien bereits den Abriss beim Bezirk Mitte beantragt? Wenn 
 
 Liegt bereits eine Stellungnahme der Kulturbehörde bezüglich des Abrisses vor? Wenn ja, mit welchem Ergebnis?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nein.
 
@@ -93,6 +94,6 @@ Welche Maßnahmen ergreift der Senat, damit die Anerkennung des UNESCO-Welterbes
 
 Ist die UNESCO an den aktuellen Planungen und Überlegungen beteiligt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Das Denkmalschutzamt ist fachlich in den Wettbewerb zur Neubebauung eingebunden. Die UNESCO wird von der zuständigen Behörde fortlaufend informiert.

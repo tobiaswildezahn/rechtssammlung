@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 22
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16284", "21/16550", "21/16887", "21/17259", "21/17544", "21/17827", "21/18061", "21/18389", "21/18731", "21/19005", "21/19365", "21/19744"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69770"
@@ -43,7 +44,7 @@ Wie viele Flüchtlinge wurden Hamburg insgesamt im Jahr 2019 zugewiesen?
 
 Aus welchen Herkunftsländern stammen die im Jahr 2019 Hamburg zugewiesenen Flüchtlinge?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Hauptherkunftsländer der insgesamt 4 992 Hamburg zugewiesenen Personen können der folgenden Übersicht entnommen werden:
 
@@ -167,7 +168,7 @@ Wie viele Asylanträge wurden im Jahr 2019 mit jeweils welchem Status positiv be
 
 Wie viele Asylanträge wurden abgelehnt? Wie viele Abgelehnte erhielten eine Duldung beziehungsweise wegen Vorliegen eines Abschiebungshemmnisses doch noch eine befristete Aufenthaltserlaubnis?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Insgesamt wurden 4 546 Verfahren entschieden. Die ergangenen Entscheidungen sind der folgenden Übersicht zu entnehmen:
 

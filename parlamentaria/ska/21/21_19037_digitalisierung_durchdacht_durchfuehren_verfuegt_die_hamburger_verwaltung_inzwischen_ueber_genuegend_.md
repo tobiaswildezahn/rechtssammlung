@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18742", "21/18412", "21/11930", "21/13490"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68719"
@@ -87,23 +88,23 @@ Ziel der Strategie ist es, den Bedarf an IT-Fachkräften innerhalb der Freien un
 
 Wesentliche Maßnahmen sind:
 
- Personalabgangsprognose bis 2026,
+– Personalabgangsprognose bis 2026,
 
- Personalbedarfsprognose bis 2026 unter Berücksichtigung der digitalen Transfor-
+– Personalbedarfsprognose bis 2026 unter Berücksichtigung der digitalen Transfor-
 
 mation,
 
- Entwicklung zukünftiger Stellenprofile im Kontext der digitalen Transformation,
+– Entwicklung zukünftiger Stellenprofile im Kontext der digitalen Transformation,
 
- Aufbau einer Employer Brand für die Freie und Hansestadt Hamburg als Arbeitge-
+– Aufbau einer Employer Brand für die Freie und Hansestadt Hamburg als Arbeitge-
 
 ber im IT- und Digitalisierungsumfeld,
 
- Entwicklung eines zielgruppenspezifischen Kommunikations- und Marketingkon-
+– Entwicklung eines zielgruppenspezifischen Kommunikations- und Marketingkon-
 
 zepts,
 
- Identifikation und Erprobung neuer Rekrutierungswege.
+– Identifikation und Erprobung neuer Rekrutierungswege.
 
 b) Enthält diese das Angebot eines Dualen Studiums für IT-Fachleute?
 

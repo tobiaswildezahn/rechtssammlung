@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 16
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15117", "20/10264", "21/4274", "21/8684", "20/10994", "20/10158"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66439"
@@ -103,7 +104,7 @@ Wie gehen die zuständigen Behörden gegen drohende Genitalverstümmelung auf Au
 
 Gibt es im Bezirk Harburg spezielle Präventivprogramme gegen Genitalverstümmelung? Wenn ja, welche? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 

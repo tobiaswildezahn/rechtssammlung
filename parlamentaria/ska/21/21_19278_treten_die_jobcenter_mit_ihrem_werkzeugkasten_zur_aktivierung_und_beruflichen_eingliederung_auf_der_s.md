@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 21
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18690", "21/17807", "21/17863", "21/18108"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68977"
@@ -49,15 +50,15 @@ Mithilfe von § 16 Absatz 1 SGB II i.V.m. § 45 SGB III können hingegen Ausbild
 
 Bundesmitteln finanzierten Maßnahme muss für die berufliche Eingliederung notwendig sein. Die Maßnahmen nach § 45 SGB III sollen sie bei ihrer beruflichen Eingliederung durch
 
- Heranführung an den Ausbildungs- und Arbeitsmarkt,
+– Heranführung an den Ausbildungs- und Arbeitsmarkt,
 
- Feststellung, Verringerung oder Beseitigung von Vermittlungshemmnissen,
+– Feststellung, Verringerung oder Beseitigung von Vermittlungshemmnissen,
 
- Vermittlung in eine versicherungspflichtige Beschäftigung,
+– Vermittlung in eine versicherungspflichtige Beschäftigung,
 
- Heranführung an eine selbstständige Tätigkeit oder
+– Heranführung an eine selbstständige Tätigkeit oder
 
- Stabilisierung einer Beschäftigungsaufnahme
+– Stabilisierung einer Beschäftigungsaufnahme
 
 unterstützen.
 
@@ -150,15 +151,15 @@ Die Multiplikatorinnen und Multiplikatoren fungieren als Ansprechpartnerinnen un
 
 Im Einzelnen haben die Multiplikatorinnen und Multiplikatoren folgende Aufgaben:
 
- Weiterleitung/Weitergabe von Informationen in den Standorten beziehungsweise
+– Weiterleitung/Weitergabe von Informationen in den Standorten beziehungsweise
 
 an die Beratungsstellen zum Verfahren der Förderung und zu aktuellen Sachständen der kommunalen Eingliederungsleistung,
 
- Organisation und Koordination von Informationsveranstaltungen für Kundinnen und
+– Organisation und Koordination von Informationsveranstaltungen für Kundinnen und
 
 Kunden beziehungsweise Mitarbeiterinnen und Mitarbeitern in den Standorten beziehungsweise in den Beratungsstellen,
 
- Teilnahme an vierteljährlichen zentralen Koordinationstreffen mit allen Multiplikato-
+– Teilnahme an vierteljährlichen zentralen Koordinationstreffen mit allen Multiplikato-
 
 rinnen und Multiplikatoren, zur Unterstützung der Umsetzung der oben genannten Aufgaben.
 

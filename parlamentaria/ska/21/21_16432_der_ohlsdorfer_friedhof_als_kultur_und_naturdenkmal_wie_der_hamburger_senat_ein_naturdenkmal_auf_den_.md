@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 32
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65948"
@@ -239,7 +240,7 @@ Welche Maßnahmen sind nach Ansicht des Senats notwendig, den Friedhof wieder zu
 
 Wie sieht die zeitliche Perspektive zu Frage 14. aus?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Der Friedhof Ohlsdorf ist bereits aktuell ein ökologisch sehr wertvoller Standort. Im Rahmen von „Ohlsdorf 2050“ wurden Flächen identifiziert, die künftig extensiver gepflegt werden sollen. Dies betrifft Parkbereiche ohne künftige Bestattungsfelder, aber es werden auch gezielt extensiv gepflegte Friedhofpartien für Sonderformen der Bestattung (Ruhewälder) entwickelt. Durch eine stärkere Differenzierung der Pflege und die Schaffung eines vielfältigen Biotopmosaiks besonnter und schattiger Bereiche kann die Artenvielfalt künftig noch weiter gesteigert werden.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56678"
@@ -83,7 +84,7 @@ Wenn Kommunikation im Sinne von Frage 3. stattgefunden hat, handelte es sich hie
 
 Wenn Kommunikation im Sinne von Frage 3. stattgefunden hat, wurde von den kontaktierten Unternehmen auf die Aufforderungen reagiert? Wenn ja, auf welche Weise? Wenn nein, mit welcher Begründung wurde von einer entsprechenden Reaktion abgesehen? Plant der Senat jeweils weitere Schritte?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antwort zu 4. Ein förmliches Verfahren ist nicht vorgeschrieben. Das Vorgehen liegt den Maßgaben des § 10 S. 2 des Hamburgischen Verwaltungsverfahrens (HmbVwVfG) zugrunde, wonach Verfahren einfach, zweckmäßig und zügig zu führen sind. Die Verwaltung hat außerdem im Rahmen der Verhältnismäßigkeit die Frage der Erforderlichkeit einer hoheitlichen Maßnahme zu prüfen. Wenn das Ziel auf eine weniger einschneidende Weise erreicht werden kann, sind hoheitliche Maßnahmen regelmäßig nicht erforderlich.
 

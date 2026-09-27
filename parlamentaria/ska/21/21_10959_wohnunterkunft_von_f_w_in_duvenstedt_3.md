@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10153"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59888"
@@ -43,7 +44,7 @@ Wurde der Mietvertrag für diesen f&w-Standort inzwischen verlängert? Wenn ja, 
 
 Hat sich die Anzahl der verfügbaren Plätze beziehungsweise Wohneinheiten an diesem Standort verändert beziehungsweise sind Veränderungen vorgesehen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Mietvertrag wurde am 31. August 2017 von beiden Vertragspartnern mit einer Mietzeit bis zum 30. Juni 2028 unterschrieben. Die Nettomiete für die gleich bleibende Anzahl an Plätzen beträgt aktuell 8,99 Euro pro Quadratmeter und erhöht sich um jährlich 0,15 Euro pro Quadratmeter.
 

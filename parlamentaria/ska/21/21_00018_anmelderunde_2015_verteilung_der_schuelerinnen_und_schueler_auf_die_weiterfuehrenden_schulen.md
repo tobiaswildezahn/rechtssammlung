@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16", "20/4269"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48145"
@@ -45,7 +46,7 @@ Wie viele Anmeldungen für die Schuljahrgangsstufe 5 gab es an den weiterführen
 
 Wie viele Schülerinnen und Schüler mit Förderbedarf LSE sind für die Schuljahrgangsstufe 5 angemeldet worden? Bitte absolute Zahlen angeben differenziert nach Schulform (auch Sonderschulen), Schule, KESS- Faktor und Schullaufbahnempfehlung.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/16.
 

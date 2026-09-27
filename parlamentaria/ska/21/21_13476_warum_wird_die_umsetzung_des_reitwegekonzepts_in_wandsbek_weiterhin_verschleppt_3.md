@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 20
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/1201", "20/3724", "20/7841", "21/1303", "21/5722"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62843"
@@ -116,6 +117,6 @@ Warum wurde die oben genannte Brücke für den Reit- und Fußverkehr gesperrt? S
 
 Wann wird die Sperrung aufgehoben und können dann Reiter und Fußgänger die Brücke wieder uneingeschränkt nutzen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Brücke ist nicht mehr verkehrssicher. Die Untersuchung wurde durch den Landesbetrieb Straße, Brücken und Gewässer durchgeführt. Es muss ein Neubau der Brücke erfolgen, da die Gesamtstatik nicht mehr tragfähig ist. Der Brückenneubau ist noch nicht projektiert, zur Öffnung der Brücke kann daher keine Aussage darüber getroffen werden.

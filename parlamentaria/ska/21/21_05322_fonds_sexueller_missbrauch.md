@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 14
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53807"
@@ -62,7 +63,7 @@ Welche Informationen haben der Senat beziehungsweise die zuständigen Behörden 
 
 Besteht über den Fonds sexueller Missbrauch ein regelmäßiger Austausch mit den zuständigen Stellen auf Bundesebene, den anderen Bundesländern und den jeweiligen Trägern? Wenn ja, mit welchem Ergebnis? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Darüber liegen dem Senat und der zuständige Behörde keine Informationen vor.
 

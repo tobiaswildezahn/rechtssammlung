@@ -14,6 +14,7 @@ fragen: 52
 einzelfragen: 94
 antwortbloecke: 42
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5231", "21/3652", "21/1838", "21/5707", "21/5832", "21/5765", "21/5546", "21/5263", "21/5859", "21/5783", "21/732"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54379"
@@ -43,7 +44,7 @@ Wie will der Senat gewährleisten, dass die öffentlich-rechtliche Unterbringung
 
 Der Anteil von Familien mit mindestens einem Kind soll bei 60 Prozent liegen. Wie will der Senat die Einhaltung dieser Ankündigung umsetzen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Betreiber des Standortes Poppenbütteler Berg, f & w fördern und wohnen AöR, steuert die Belegung der Unterkunft über seine Allgemeine Vermittlungsstelle (AVS) und erstattet der zuständigen Behörde vereinbarungsgemäß über seine monatlichen Belegungsstatistiken Bericht.
 
@@ -90,7 +91,7 @@ Der Bau auf dem ersten Bauabschnitt hat bereits begonnen. Wann ist mit Bezugsfer
 
 Wann soll der Bau auf dem zweiten Bauabschnitt beginnen? Wann wird hier mit Bezugsfertigkeit gerechnet?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Termine für den jeweiligen Baubeginn und die Bezugsfertigkeit der einzelnen Bauabschnitte hängen von vielen verschiedenen Faktoren ab, die nicht immer vom Senat beeinflusst werden können. Aus diesem Grund sieht der Senat davon ab, konkrete Termine zu benennen.
 
@@ -336,7 +337,7 @@ f & w soll ein Quartiersmanagement einsetzen. Wie viele VZÄ sind hier vorgesehe
 
 f & w soll zusammen mit dem Bezirksamt ein Konzept für den Übergang von der örU in regulärem Wohnraum erarbeiten. Bis wann soll dieses Konzept erarbeitet werden, welche Punkte soll es beinhalten und wer darf es einsehen?
 
-#### Antwort zu Fragen 38 bis 39
+#### Antwort zu Fragen 38 und 39
 
 Das Quartiersmanagement umfasst im Wesentlichen die Aufgabenbereiche Stadtteilkoordination (unter anderem Vernetzung, Öffentlichkeitsarbeit), Organisation der Mitwirkung (unter anderem Entwicklung und Organisation von Formaten zur Bewohneraktivierung beziehungsweise -beteiligung), Projektinitiierung (unter anderem Unterstützung bei der Entwicklung und Durchführung lokaler Projekte) und Mitwirkung bei der Erfolgskontrolle. Die Planungen zur weiteren Ausgestaltung sind noch nicht abgeschlossen.
 

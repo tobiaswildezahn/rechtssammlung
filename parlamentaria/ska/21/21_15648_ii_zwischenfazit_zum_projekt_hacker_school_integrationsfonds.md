@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 18
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12412", "21/7614", "21/13679"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65149"
@@ -88,7 +89,7 @@ Welche Konsequenzen zieht die Hacker School aus den bisherigen Kursen hinsichtli
 
 Wie bewertet der Senat dieses Projekt? Welche Konsequenzen zieht der Senat aus den erfolgten Kursen und den bisher erreichten Zielwerten?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3212", "21/3796"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52231"
@@ -68,7 +69,7 @@ An welche „anderen Schulen“ wurden/werden Schüler verwiesen, ohne diese gew
 a) die Schulform (nicht: StS statt Gymnasium oder umgekehrt) beziehungsweise
 b) das Profil der anderen Schule (nicht: altsprachlich statt naturwissenschaftlich oder Ähnliches)?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die individuellen Gründe der Schulzuweisung für jeden einzelnen Schüler werden nicht zentral dokumentiert. Für eine Auswertung in dem gewünschten Detaillierungsgrad müssten für Schülerinnen und Schüler der zukünftigen ersten Klassen 14.064 Schülerakten händisch auswertet werden. Dies ist in der für eine Parlamentarische Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -104,7 +105,7 @@ Nachdem das Schulorganisationsverfahren für das Schuljahr 2016/2017 nunmehr abg
 
 Und umgekehrt: An welchen Schulen werden zum neuen Schuljahr 2016/2017 weniger Klassen eingerichtet, als der Zügigkeit laut Schulentwicklungsplan entspricht? Bitte für die entsprechenden Schulen die jeweilige Klassenzahl und Klassengröße angeben und der SEPL-Zahl gegenüberstellen.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Für die Grundschulen siehe Anlage 1. Im Übrigen siehe Antwort zu 3. bis 4. b).
 

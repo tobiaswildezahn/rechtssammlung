@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58605"
@@ -75,7 +76,7 @@ Gegen wie viele der dort campenden Personen wurden seitens der Staatsanwaltschaf
 
 Wie viele der dort campenden Personen stehen in Verdacht, Gewalt gegen Polizeibeamte verübt zu haben? Bitte nach Staatsangehörigkeit und Tatvorwurf aufschlüsseln und benennen, ob die Verdächtigten den Behörden als Linksextremisten bekannt waren!
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Im Vorgangsverwaltungs- und -bearbeitungssystem MESTA der Staatsanwaltschaft Hamburg wird nicht gespeichert, ob ein Beschuldigter anlässlich des G20-Gipfels in einem Zeltlager auf dem Gelände der genannten drei Kirchengemeinden, im Schauspielhaus oder in den beiden Camps im Luruper Volkspark und Entenwerder aufhältig war.
 

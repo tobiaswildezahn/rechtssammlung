@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5934"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54640"
@@ -59,7 +60,7 @@ Welche Bürgerhäuser hat der Senat 2015 und 2016 in jeweils welcher Höhe aus w
 
 Welche Mittel in jeweils welcher Höhe aus welcher Produktgruppe/ welchem Aufgabenbereich sind im Haushaltsplan-Entwurf 2017/2018 für die Bürgerhäuser vorgesehen? Bitte jeweils nach Einrichtung und Jahr sowie institutioneller Förderung und Projektfinanzierung aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage 2.
 

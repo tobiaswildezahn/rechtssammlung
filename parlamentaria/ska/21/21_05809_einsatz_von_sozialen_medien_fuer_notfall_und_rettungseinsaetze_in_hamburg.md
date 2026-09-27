@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 19
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54310"
@@ -168,7 +169,7 @@ In welchen Bereichen der Einsatzplanung und -durchführung bei Polizei, Feuerweh
 
 Aus welchem Jahr stammen die unter 4) genannten Vorschriften beziehungsweise deren Novellierungen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Eine Handlungsanweisung für den Umgang mit den sozialen Medien bei der Feuerwehr Hamburg befindet sich in der behördeninternen Abstimmung.
 

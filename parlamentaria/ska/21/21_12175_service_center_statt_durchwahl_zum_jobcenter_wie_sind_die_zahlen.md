@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8481"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61444"
@@ -118,18 +119,18 @@ Wie viele der Anrufe betreffen den Bereich Leistung, wie viele den Bereich Vermi
 
 Die Zahlen beziehen sich auf Gespräche im Service-Center-Standort Hamburg im Jahr 2017:
 
- Leistung: 284.081 Gespräche
+– Leistung: 284.081 Gespräche
 
- Markt und Integration:
+– Markt und Integration:
 84.746 Gespräche
 
- Allgemeine Auskünfte zum JC:
+– Allgemeine Auskünfte zum JC:
 41.374 Gespräche
 
- Kommunale Leistungen:
+– Kommunale Leistungen:
 18.687 Gespräche
 
- Sonstige:
+– Sonstige:
 10.485 Gespräche
 
 ### Frage 4

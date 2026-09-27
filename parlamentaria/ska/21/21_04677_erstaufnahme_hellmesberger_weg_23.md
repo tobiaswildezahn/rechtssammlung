@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 23
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53099"
@@ -43,7 +44,7 @@ Warum hat die Freie und Hansestadt Hamburg den ehemaligen Praktiker-Baumarkt zur
 
 Wann sind Kaufverhandlungen aufgenommen worden? Wann sind Grundstück und Gebäude käuflich erworben worden, in den Besitz der Freien und Hansestadt Hamburg übergegangen und zu welchem Preis?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Grundstück Hellmesbergerweg 23 wurde für eine Erstaufnahmeeinrichtung erworben. Als Folge der dramatisch gestiegenen Flüchtlingszahlen im Sommer 2015 hatte die Freie und Hansestadt Hamburg sowohl bei der Erstaufnahme (EA) als auch in der öffentlich-rechtlichen Folgeunterbringung (örU) kurzfristig und perspektivisch erhebliche Leistungen beim Aufbau zusätzlicher Unterbringungsplätze zu erbringen.
 
@@ -81,31 +82,31 @@ Welche Umbaukosten sind für die Herrichtung des Baumarkts zur Erstaufnahme ange
 
 2015 sind für die Herrichtung des Standorts als Erstaufnahmeeinrichtung Kosten in Gesamthöhe von 807.884,92 Euro in Rechnung gestellt worden. Dies umfasst folgende Kostenarten:
 
- 804.632,96 Euro für Montage
+– 804.632,96 Euro für Montage
 
- 3.251,96 Euro für Werkmaterial
+– 3.251,96 Euro für Werkmaterial
 
 2016 sind weitere Kosten für die Herrichtung bislang in Höhe von 1.318.845,28 Euro in Rechnung gestellt worden. Im Detail sind das:
 
- 360.990,22 Euro für Planungs- und Bauleitungskosten
+– 360.990,22 Euro für Planungs- und Bauleitungskosten
 
- 257.845,66 Euro für Montage
+– 257.845,66 Euro für Montage
 
- 7.163,20 Euro für Werkmaterial
+– 7.163,20 Euro für Werkmaterial
 
- 13.399,13 Euro für Malerarbeiten
+– 13.399,13 Euro für Malerarbeiten
 
- 87.465,00 Euro für Sanitär-/Heizungsarbeiten
+– 87.465,00 Euro für Sanitär-/Heizungsarbeiten
 
- 77.295,68 Euro für Installation Lüftungsanlage
+– 77.295,68 Euro für Installation Lüftungsanlage
 
- 101.779,31 Euro für den Einbau der Kompartments
+– 101.779,31 Euro für den Einbau der Kompartments
 
- 16.236,36 Euro für die Montage der Rauchabzugsanlage
+– 16.236,36 Euro für die Montage der Rauchabzugsanlage
 
- 369.766,81 Euro für Elektroinstallation
+– 369.766,81 Euro für Elektroinstallation
 
- 26.903,91 Euro für Fliesenarbeiten
+– 26.903,91 Euro für Fliesenarbeiten
 
 ### Frage 7
 
@@ -154,6 +155,6 @@ Ist eine Umwandlung dieser Erstaufnahme in eine Folgeunterkunft in Prüfung? Wen
 
 Welche Planungen verfolgt der Senat kurz-, mittel- und langfristig mit Gebäude und Grundstück im Hellmesberger Weg 23?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Antwort zu 9.

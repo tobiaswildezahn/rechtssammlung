@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51839"
@@ -55,6 +56,6 @@ Was unternimmt der Senat, um die Verschlickung der Este und ihrer Zufahrt zu bes
 
 Was unternimmt der Senat, um die einwandfreie, ausreichende Zufahrt beziehungsweise Abfahrt von Schiffen von der und zur Sietas–Werft zu gewährleisten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In den letzten Wochen hat die HPA die Wassertiefe in der Außeneste durch Wasserinjektion sowie teilweise durch den Einsatz von Laderaumsaugbaggern und Hydraulikbaggern unterhalten. Ziel ist es, bis Ende März 2016 den bestmöglichen Unterhaltungszustand herzustellen.

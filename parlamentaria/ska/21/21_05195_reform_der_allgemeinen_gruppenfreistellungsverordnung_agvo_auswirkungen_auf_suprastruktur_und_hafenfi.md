@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 23
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5062"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53672"
@@ -87,7 +88,7 @@ Was erwartet der Senat beziehungsweise die HPA von der Reform der AGVO für den 
 
 Kann aus Sicht des Senats die Einbeziehung der Suprastruktur in die AGVO zu Wettbewerbsveränderungen an einzelnen Standorten führen und Auswirkungen auf den Hamburger Hafen haben? Wenn ja, welche und warum?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 3.
 

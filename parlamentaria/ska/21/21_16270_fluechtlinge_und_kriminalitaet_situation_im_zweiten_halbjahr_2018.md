@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 5
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65785"
@@ -37,11 +38,11 @@ Vor diesem Hintergrund frage ich den Senat:
 
 Mit dem Begriff des Flüchtlings werden in der öffentlichen Diskussion häufig nur die Personengruppen assoziiert, die seit 2015 nach Deutschland beziehungsweise Hamburg migriert sind. Diese dynamische Größe kann in einer bundesweit einheitlich geführten Massenstatistik wie der Polizeilichen Kriminalstatistik (PKS) nicht abgebildet werden. Sie ergibt sich aus dem Ermittlungsvorgang selbst. In der PKS wird bei der Erfassung der Daten von Tatverdächtigen (TV) der Aufenthaltsstatus erhoben. Für die Erfassung des Aufenthaltsstatus/Grund des Aufenthalts werden seit Januar 2018 die TV mit Flüchtlingsstatus nur noch nach drei Unterkategorien wie folgt erfasst:
 
- Asylbewerber,
+– Asylbewerber,
 
- Schutz- und Asylberechtigte, Kontingentflüchtlinge sowie
+– Schutz- und Asylberechtigte, Kontingentflüchtlinge sowie
 
- Duldung (Abschiebungshindernisse nach Abschluss des Asylverfahrens).
+– Duldung (Abschiebungshindernisse nach Abschluss des Asylverfahrens).
 
 TV mit dem vorstehend angegebenen Aufenthaltsstatus können zu sehr unterschiedlichen Zeitpunkten migriert sein; der Migrationszeitpunkt kann bereits lang- bis mittelfristig oder auch sehr kurz zurückliegen. Schlussfolgerungen auf die Anzahl der TV, die erst seit 2015 migrierten, sind nicht angezeigt. Diese TV können Teilmenge jeder der drei oben genannten Unterkategorien sein.
 
@@ -62,63 +63,63 @@ a) Aufenthaltserlaubnis aus völkerrechtlichen, humanitären oder politischen Gr
 
 #### Antwort zu Frage 1
 
- nach § 22 Satz 1 AufenthG
+– nach § 22 Satz 1 AufenthG
 
- nach § 22 Satz 2 AufenthG
+– nach § 22 Satz 2 AufenthG
 
- nach § 23 Absatz 1 AufenthG
+– nach § 23 Absatz 1 AufenthG
 
- nach § 23 Absatz 2 AufenthG
+– nach § 23 Absatz 2 AufenthG
 
- nach § 23 Absatz 4 AufenthG
+– nach § 23 Absatz 4 AufenthG
 
- nach § 23a AufenthG
+– nach § 23a AufenthG
 
- nach § 24 AufenthG
+– nach § 24 AufenthG
 
- nach § 25 Absatz 1 AufenthG
+– nach § 25 Absatz 1 AufenthG
 
- nach § 25 Absatz 2 AufenthG (Flüchtlingseigenschaft zuerkannt)
+– nach § 25 Absatz 2 AufenthG (Flüchtlingseigenschaft zuerkannt)
 
- nach § 25 Absatz 2 AufenthG (subsidiärer Schutz gewährt)
+– nach § 25 Absatz 2 AufenthG (subsidiärer Schutz gewährt)
 
- nach § 25 Absatz 3 AufenthG (Abschiebungshindernis)
+– nach § 25 Absatz 3 AufenthG (Abschiebungshindernis)
 
- nach § 25 Absatz 4 Satz 1 AufenthG
+– nach § 25 Absatz 4 Satz 1 AufenthG
 
- nach § 25 Absatz 4 Satz 2 AufenthG
+– nach § 25 Absatz 4 Satz 2 AufenthG
 
- nach § 25 Absatz 4b AufenthG
+– nach § 25 Absatz 4b AufenthG
 
- nach § 25 Absatz 5 AufenthG
+– nach § 25 Absatz 5 AufenthG
 
- nach § 25a Absatz 1 AufenthG
+– nach § 25a Absatz 1 AufenthG
 
- nach § 25a Absatz 2 Satz 1 AufenthG
+– nach § 25a Absatz 2 Satz 1 AufenthG
 
- nach § 25a Absatz 2 Satz 2 AufenthG
+– nach § 25a Absatz 2 Satz 2 AufenthG
 
- nach § 25a Absatz 2 Satz 3 AufenthG
+– nach § 25a Absatz 2 Satz 3 AufenthG
 
- nach § 25b Absatz 1 Satz 1 AufenthG
+– nach § 25b Absatz 1 Satz 1 AufenthG
 
 b) Aufenthaltserlaubnis aus völkerrechtlichen, humanitären oder politischen Gründen
 
- nach § 25b Absatz 4 AufenthG (Ehegatte/Lebenspartner)
+– nach § 25b Absatz 4 AufenthG (Ehegatte/Lebenspartner)
 
- nach § 25b Absatz 4 AufenthG (minderjähriges Kind)
+– nach § 25b Absatz 4 AufenthG (minderjähriges Kind)
 
 c) Niederlassungserlaubnis
 
- nach § 23 Absatz 2 AufenthG (besondere Fälle)
+– nach § 23 Absatz 2 AufenthG (besondere Fälle)
 
- nach § 23 Absatz 4 AufenthG (Resettlement) – NE
+– nach § 23 Absatz 4 AufenthG (Resettlement) – NE
 
- nach § 26 Absatz 3 Satz 1 AufenthG
+– nach § 26 Absatz 3 Satz 1 AufenthG
 
- nach § 26 Absatz 3 Satz 2 AufenthG
+– nach § 26 Absatz 3 Satz 2 AufenthG
 
- nach § 26 Absatz 4 AufenthG
+– nach § 26 Absatz 4 AufenthG
 
 Statistische Daten im Sinne der Fragestellung werden bei der Polizei nicht erhoben.
 

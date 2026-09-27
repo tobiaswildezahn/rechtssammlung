@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2572"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55110"
@@ -48,7 +49,7 @@ Wie sind derzeit der aktuelle Zeitplan und der Sachstand für den barrierefreien
 
 Wie ist derzeit der genaue Stand des Plangenehmigungsverfahrens? Wann wird mit einer Genehmigung gerechnet und welche Verfahrensschritte und Genehmigungen sind für die Umsetzung der Maßnahme noch erforderlich?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Entwurfsplanung konnte im 3. Quartal 2016 abgeschlossen werden. Der Antrag auf Plangenehmigung wird voraussichtlich bis Ende dieses Jahres durch die HOCH- BAHN bei der zuständigen Behörde eingereicht. Mit einer Plangenehmigung wird im
 1. Quartal 2017 gerechnet. Im Anschluss an die Plangenehmigung werden die notwendigen Unterlagen bei der Technischen Aufsichtsbehörde zur Genehmigung eingereicht.

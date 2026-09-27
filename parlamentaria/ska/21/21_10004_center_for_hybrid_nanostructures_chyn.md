@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 18
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11995"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58821"
@@ -143,7 +144,7 @@ Wie viele Wissenschaftler haben unbefristete Arbeitsverträge?
 
 In wie vielen Fällen liegen nur befristete Arbeitsverträge vor?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Am CHyN arbeiten eine Professorin und vier Professoren, welche über den Beamtenstatus verfügen. Daneben bestehen vier unbefristete und 21 befristete Arbeitsverträge von Wissenschaftlerinnen und Wissenschaftlern.
 

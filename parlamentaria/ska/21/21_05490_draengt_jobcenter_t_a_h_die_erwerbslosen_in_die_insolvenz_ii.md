@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5392"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53972"
@@ -57,7 +58,7 @@ Warum hat sich die BASFI erst zum 21. Juli 2016 bemüht, die bereits seit 15. Ap
 
 Hat sich die BASFI, Jobcenter t.a.h. oder die Agentur für Arbeit seit dem Vorliegen der oben genannten Weisung mit dem Inhalt und dem Wortlaut bis dato beschäftigt? Wenn ja, welche Schlussfolgerung in den einzelnen Punkten und Gesamt zieht der Senat daraus? Wenn nein, warum nicht und welche Gründe sprechen gegen eine Befassung der oben genannten Weisung?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) ist die genannte Weisung bekannt. Sie hat nach dem 15. April 2016 darauf hingewirkt, dass diese Problematik auf der Bund-Länder-Ebene diskutiert wird. Im Übrigen siehe Antwort zu
 1.

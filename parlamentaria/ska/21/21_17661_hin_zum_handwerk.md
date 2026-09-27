@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17516"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67256"
@@ -54,11 +55,20 @@ Flüchtlinge werden auf Basis der von ihnen aus den Herkunftsländern mitgebrach
 ### Frage 2
 
 Gibt es zu Beginn der Teilnahme an „Hin zum Handwerk“ eine Verpflichtungserklärung seitens der Teilnehmenden zur Teilnahme?
-2.1. Wenn ja, welche Konsequenzen haben Abbruch und/oder Nichtteilnahme an der nach der Kompetenzfeststellung folgenden Qualifizierungsmaßnahme, welche an der nur partiellen Teilnahme an der Maßnahme?
-2.2. Wenn nein, warum nicht?
-2.3. Wie wird die Teilnahme kontrolliert?
 
-#### Antwort zu Fragen 1 bis 2
+### Frage 2.1
+
+Wenn ja, welche Konsequenzen haben Abbruch und/oder Nichtteilnahme an der nach der Kompetenzfeststellung folgenden Qualifizierungsmaßnahme, welche an der nur partiellen Teilnahme an der Maßnahme?
+
+### Frage 2.2
+
+Wenn nein, warum nicht?
+
+### Frage 2.3
+
+Wie wird die Teilnahme kontrolliert?
+
+#### Antwort zu Fragen 1, 2, 2.1, 2.2 und 2.3
 
 Siehe Vorbemerkung.
 

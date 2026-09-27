@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 26
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49242"
@@ -127,7 +128,7 @@ Trifft es zu, dass die Toiletten und die Duschen in der Sporthalle auf dem Campu
 
 Gibt es Architektenpläne, die dem Senat beziehungsweise der zuständigen Behörde oder Schulbau Hamburg zur Erweiterung der jetzigen Sporthalle um ein Feld und die Erneuerung des Umkleide- und Sanitärtraktes vorliegen? Wie hoch wären die Kosten der projektierten Erweiterung?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Nein. Im Übrigen: entfällt.
 

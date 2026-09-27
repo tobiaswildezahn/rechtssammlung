@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 21
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3888", "21/3068"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52967"
@@ -107,7 +108,7 @@ Wie hoch ist die Integrationsquote Asyl/Flucht zum Bestand eLb Asyl/Flucht SGB I
 
 Im welchem Verhältnis steht die Integrationsquote Asyl/Flucht zur Integrationsquote Asly/Flucht ohne Asyl/Flucht?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Anlage 6.
 
@@ -127,7 +128,7 @@ Wie hoch ist die Anzahl der registrierten Geflüchteten bei Jobcenter team.arbei
 
 Wie hoch ist die Anzahl der registrierten Geflüchteten, welche einen Deutschsprachkurs/Integrationskurs über Jobcenter team.arbeit.hamburg und Agentur für Arbeit Hamburg derzeit besuchen? Bitte auflisten in Bezirke und Träger.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Über die Anzahl der Personen auf den Wartelisten des BAMF für einen Integrationsoder ESF-BAMF-Kurs erfolgt keine statistische Auswertung durch die Bundesagentur für Arbeit. Eine händische Auswertung von derzeit 13.586 (Stand 31. Januar 2016) Regelleistungsberechtigten Personen (siehe Anlage 8) aus nicht europäischen Asylzugangsländern ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

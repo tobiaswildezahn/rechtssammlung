@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66719"
@@ -63,7 +64,7 @@ In welcher Größenordnung haben sich die genannten Restrukturierungen auf das Z
 
 In welchen Größenordnungen haben sich die genannten Nachzahlungen auf bislang ausstehende Zinsen auf das Zinsergebnis ausgewirkt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Das Zinsergebnis per 31. Dezember 2018 setzt sich aus 64,8 Millionen Euro Zinserträgen und 36,5 Millionen Euro Zinsaufwendungen zusammen. Zinserträge von rund 11 Millionen Euro sind dabei im Zusammenhang mit Engagementauflösungen beziehungsweise -beendigungen vereinnahmt worden und betrafen größtenteils Vorperioden. Der übrige Teil von etwa 44 Millionen Euro entfiel auf planmäßige Zinserträge aus dem Kreditgeschäft.
 

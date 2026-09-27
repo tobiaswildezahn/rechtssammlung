@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58354"
@@ -59,7 +60,7 @@ Wurden diese Fälle innerhalb von drei Monaten durch Handeln der Behörde beseit
 
 In wie vielen Fällen wurden tatsächlich Klagen auf Feststellung von Verstößen gegen das Tierschutzgesetz seitens Behörden der Freien und Hansestadt Hamburg erhoben und von wem stammen diese? a. Wie viele Klagen wurden durch welche Maßnahmen abgewendet? Bitte Fälle und Sachverhalte aufzählen. b. In wie vielen Fällen kam es zu Klagen, die vom Verwaltungsgericht zugelassen wurden, und wie wurde über diese Klagen entschieden beziehungsweise welche Konsequenzen folgten aus den Klagen? Bitte Fälle und Sachverhalte aufzählen. c. In wie vielen Fällen wurden eingereichte Klagen vom Verwaltungsgericht abgewiesen? Bitte Fälle und Sachverhalte aufzählen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Entfällt.
 

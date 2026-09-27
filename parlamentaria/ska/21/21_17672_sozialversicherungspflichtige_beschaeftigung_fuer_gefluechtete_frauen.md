@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17099", "21/10281", "21/15509", "21/11370", "21/12482", "21/14060", "21/15837"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67267"
@@ -75,7 +76,7 @@ Welche Ursachen für den geringen Anteil an der Beschäftigung von Frauen sind d
 
 Durch welche arbeitsmarktrelevanten Hemmnisse werden jeweils geflüchtete Frauen und Männer an einer Beschäftigung im ersten Arbeitsmarkt gehindert? In wie vielen Fällen ist das bei den einzelnen Hemmnissen jeweils für Frauen beziehungsweise Männer der Fall? (Bitte tabellarisch darstellen!)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die zur Beantwortung benötigten Daten werden nicht gesondert statistisch erfasst. Eine Einzelfallauswertung von mehr als 33 000 Akten (Regelleistungsberechtigte) ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

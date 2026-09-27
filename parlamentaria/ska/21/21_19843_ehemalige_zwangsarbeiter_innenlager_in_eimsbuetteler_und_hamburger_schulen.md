@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 17
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69639"
@@ -83,7 +84,7 @@ Welche politische Verantwortung sehen Senat beziehungsweise zuständige Behörde
 
 Welche politische Verantwortung sehen sie in Bezug auf die heutigen Schulen, in denen einst Sammellager eingerichtet gewesen waren?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

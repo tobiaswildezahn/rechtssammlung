@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/131", "21/14874"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69234"
@@ -111,7 +112,7 @@ Wie viele minderjährige Flüchtlinge sind seit dem 1. Januar 2019 freiwillig in
 
 Um welche Länder handelt es sich hierbei?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im Zeitraum vom 1. Januar bis 30. November 2019 reisten insgesamt 65 minderjährige Personen nachweislich freiwillig aus. Die Herkunftsländer sind der folgenden Übersicht zu entnehmen.
 
@@ -152,6 +153,6 @@ Wie viele minderjährige Flüchtlinge sind in Hamburg seit dem 1. Januar 2019 st
 
 In wie vielen Fällen ist es infolgedessen 2019 zu Verurteilungen gekommen? Bitte jeweils hinsichtlich Jahr, Alter, Geschlecht und Strafmaß aufschlüsseln.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Ob sich ein Verfahren gegen einen minderjährigen Flüchtling oder gegen einen Jugendlichen richtet, wird im Vorgangsverwaltungs- und Vorgangsbearbeitungssystem MESTA der Staatsanwaltschaft nicht gespeichert. Zur Beantwortung der Frage müsste daher eine Akteneinzelauswertung erfolgen. Im Geschäftsbereich der Jugendabteilungen wurden allein 2019 über 17 000 Verfahren in MESTA erfasst. Eine entsprechende Auswertung ist in der zur Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.

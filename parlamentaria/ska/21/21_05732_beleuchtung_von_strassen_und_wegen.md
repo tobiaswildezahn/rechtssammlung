@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4379"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54221"
@@ -71,7 +72,7 @@ Welche Vorschriften bestehen für die Beleuchtung von Fuß- und Radwegen?
 
 Welche Beleuchtung nach Helligkeit und Dauer ist für Hamburger Fuß und Radwege vorgeschrieben? Bitte gegebenenfalls nach Art der Wege differenzieren.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/4379.
 

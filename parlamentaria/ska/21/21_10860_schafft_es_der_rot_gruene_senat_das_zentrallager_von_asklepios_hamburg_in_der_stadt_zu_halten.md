@@ -5,7 +5,7 @@ wahlperiode: 21
 id: 59781
 titel: "Schafft es der rot-grüne Senat, das Zentrallager von Asklepios Hamburg in der Stadt zu halten?"
 datum_anfrage: "2017-11-06"
-datum_drucksache: null
+datum_drucksache: "2017-11-14"
 urheber: ["Thilo Kleibauer"]
 fraktionen: ["CDU"]
 vorgang: 54707
@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9527", "21/9678"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59781"
@@ -24,7 +25,7 @@ generator: "ska_archiv 1.0"
 
 # Drs. 21/10860: Schafft es der rot-grüne Senat, das Zentrallager von Asklepios Hamburg in der Stadt zu halten?
 
-> Schriftliche Kleine Anfrage und Antwort des Senats  
+> Schriftliche Kleine Anfrage des Abgeordneten Thilo Kleibauer (CDU) vom 06.11.17 und Antwort des Senats · Drucksache vom 14.11.2017  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/59781) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/59781/21_10860_schafft_es_der_rot_gruene_senat_das_zentrallager_von_asklepios_hamburg_in_der_stadt_zu_halten)
 
 ## Einleitung für die Fragen
@@ -48,23 +49,23 @@ Wie sind der genaue Sachstand und der Zeitplan zur Errichtung eines neuen Zentra
 
 Wurde inzwischen ein geeignetes Grundstück für das Zentrallager von Asklepios Hamburg gefunden? Wenn ja, an welcher Stelle? Wenn nein, warum nicht und wie ist der genaue Stand der Grundstückssuche?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Asklepios Hamburg sucht ein Grundstück, das folgende Voraussetzungen erfüllen soll:
 
- Schwerlasttransport und Transportlogistik (an 365 Tagen im Jahr rund um die Uhr)
+– Schwerlasttransport und Transportlogistik (an 365 Tagen im Jahr rund um die Uhr)
 
 muss möglich sein,
 
- Nutzungsbeginn Anfang 2019,
+– Nutzungsbeginn Anfang 2019,
 
- der Kaufpreis muss einen wirtschaftlichen Betrieb ermöglichen,
+– der Kaufpreis muss einen wirtschaftlichen Betrieb ermöglichen,
 
- ein Kauf soll möglich sein (kein Erbbaurecht),
+– ein Kauf soll möglich sein (kein Erbbaurecht),
 
- geeigneter Standort zur Führung als medizinisches Zentrallager,
+– geeigneter Standort zur Führung als medizinisches Zentrallager,
 
- Erreichbarkeit für Mitarbeiterinnen und Mitarbeiter.
+– Erreichbarkeit für Mitarbeiterinnen und Mitarbeiter.
 
 Seit Juli des Jahres 2017 hat sich die von Asklepios Hamburg gewünschte Flächengröße erhöht, sodass der Suchprozess sich seitdem auf eine Größe für eine Halle von
 10.000 qm und mindestens 15.000 qm für das Grundstück richtet.

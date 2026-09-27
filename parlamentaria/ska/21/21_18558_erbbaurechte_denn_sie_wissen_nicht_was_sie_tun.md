@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18514", "21/18515"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68241"
@@ -65,7 +66,7 @@ Meint der Senat, seine Ankündigung, städtische Grundstücke vermehrt über Erb
 
 Warum setzt der Senat diese Politik dann nicht um?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 

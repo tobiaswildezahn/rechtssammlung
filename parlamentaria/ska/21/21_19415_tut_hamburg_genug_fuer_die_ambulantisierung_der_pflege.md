@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15695", "21/14834"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69141"
@@ -57,7 +58,7 @@ Welchen Stellenwert misst der Senat der Ambulantisierung der Pflege in Hamburg z
 
 Welche Akteure sind in das Konzept eingebunden – zu denken wäre etwa an Unternehmen der Wohnungswirtschaft, an Seniorenbeiräte in den Bezirken oder an Pflegedienstleister; um nur einige Beispiele zu nennen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe hierzu die Rahmenplanung der pflegerischen Versorgungsstruktur bis 2020.
 
@@ -69,9 +70,9 @@ Welche Projekte laufen abgesehen vom Modellprojekt PAUL gegenwärtig im Bereich 
 
 Auf Grundlage der Richtlinie zur Förderung von kleinräumigen, quartiersorientierten Wohn- und Versorgungsformen der zuständigen Behörde werden die folgenden Projekte gefördert:
 
- Maßnahmen zum Aufbau und zur Etablierung von Strukturen im Quartier,  Maßnahmen zum Aufbau und Etablierung von Strukturen; Maßnahmen zur fachlichen Organisations- und Personalentwicklung sowie Maßnahmen zum Aufbau und zur nachhaltigen Selbstorganisation im Quartier,  Maßnahmen zur Organisations- und Personalentwicklung im Senioren- und Pflegeheim,  Maßnahmen zum Aufbau und zur Etablierung von Strukturen im Quartier, Sozialräumliche Quartiersentwicklung,  Maßnahmen zum Aufbau und zur nachhaltigen Selbstorganisation sowie Maßnahmen zum Aufbau und Etablierung von Strukturen im Quartier,
+– Maßnahmen zum Aufbau und zur Etablierung von Strukturen im Quartier, – Maßnahmen zum Aufbau und Etablierung von Strukturen; Maßnahmen zur fachlichen Organisations- und Personalentwicklung sowie Maßnahmen zum Aufbau und zur nachhaltigen Selbstorganisation im Quartier, – Maßnahmen zur Organisations- und Personalentwicklung im Senioren- und Pflegeheim, – Maßnahmen zum Aufbau und zur Etablierung von Strukturen im Quartier, Sozialräumliche Quartiersentwicklung, – Maßnahmen zum Aufbau und zur nachhaltigen Selbstorganisation sowie Maßnahmen zum Aufbau und Etablierung von Strukturen im Quartier,
 
- Maßnahmen zur fachlichen Organisations- und Personalentwicklung sowie Maßnahmen zum Aufbau und zur Etablierung von Strukturen im Quartier,  Zuschuss zur Schaffung von Wohn-Pflege-Gemeinschaften und Erstausstattung in Quartieren,  Zuschuss zum Neubau einer Hausgemeinschaft für junge unheilbar chronisch kranke Menschen, Erstausstattung der Hausgemeinschaft sowie Errichtung und Schaffung von Gemeinschaftsflächen im Quartier,  Zuschuss zur Schaffung von drei Wohngruppen für jeweils 12 Personen und zur Erstausstattung der Gemeinschaftsflächen der drei Wohngruppen im Seniorenund Pflegeheim,  Zuschuss zur Schaffung von zwei Wohn-Pflege-Gemeinschaften für Menschen mit Pflege-und Unterstützungsbedarf, einer Wohn-Pflege-Gemeinschaft speziell für Menschen mit Demenz und ohne klassische Angehörige. Schaffung von Gemeinschaftsflächen und -räumen,  Zuschuss zur Erstausstattung von Gemeinschaftsflächen und Gemeinschaftsräumen.
+– Maßnahmen zur fachlichen Organisations- und Personalentwicklung sowie Maßnahmen zum Aufbau und zur Etablierung von Strukturen im Quartier, – Zuschuss zur Schaffung von Wohn-Pflege-Gemeinschaften und Erstausstattung in Quartieren, – Zuschuss zum Neubau einer Hausgemeinschaft für junge unheilbar chronisch kranke Menschen, Erstausstattung der Hausgemeinschaft sowie Errichtung und Schaffung von Gemeinschaftsflächen im Quartier, – Zuschuss zur Schaffung von drei Wohngruppen für jeweils 12 Personen und zur Erstausstattung der Gemeinschaftsflächen der drei Wohngruppen im Seniorenund Pflegeheim, – Zuschuss zur Schaffung von zwei Wohn-Pflege-Gemeinschaften für Menschen mit Pflege-und Unterstützungsbedarf, einer Wohn-Pflege-Gemeinschaft speziell für Menschen mit Demenz und ohne klassische Angehörige. Schaffung von Gemeinschaftsflächen und -räumen, – Zuschuss zur Erstausstattung von Gemeinschaftsflächen und Gemeinschaftsräumen.
 
 ### Frage 4
 

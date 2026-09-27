@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48955"
@@ -56,7 +57,7 @@ Wie viele provisorische Fahrgastunterstände soll es laut Vertrag geben?
 
 Wie viele provisorische Fahrgastunterstände gibt es tatsächlich?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 In der Vereinbarung sind seinerzeit sechs mobile Fahrgastunterstände festgelegt worden. Zugleich regelt die Vereinbarung jedoch auch, dass die HOCHBAHN JCDecaux jährlich nach Abstimmung mit der zuständigen Behörde den Bedarf an weiteren Fahrgastunterständen übermittelt. Es bestehen derzeit daher 15 mobile Fahrgastunterstände. Außerhalb der vertraglichen Vereinbarungen wird von der Firma JCDecaux zudem eine Betriebsreserve von einem provisorischen Fahrgastunterstand als Ersatz bei Wartungs- und Sanierungsarbeiten vorgehalten.
 

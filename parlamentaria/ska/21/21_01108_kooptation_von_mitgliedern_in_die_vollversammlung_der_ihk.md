@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49288"
@@ -49,7 +50,7 @@ Teilt der Senat die Auffassung, dass die Zuwahlen in der Handelskammer Hamburg u
 
 Welche Maßnahmen hat der Senat nach der Entscheidung des Bundesverwaltungsgerichtes unternommen oder plant der Senat im Rahmen der Rechtsaufsicht zu unternehmen, um den rechtswidrigen Zustand der Mandatierung von unzulässigen Zuwahlen im Plenum der Handelskammer beziehungsweise in der Vollversammlung der Handwerkskammer zu beenden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nach Veröffentlichung der vollständigen Entscheidungsgründe des Bundesverwaltungsgerichts wird die zuständige Aufsichtsbehörde die Rechtslage prüfen.
 

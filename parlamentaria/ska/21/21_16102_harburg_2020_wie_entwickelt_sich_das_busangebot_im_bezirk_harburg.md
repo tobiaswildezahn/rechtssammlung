@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 16
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15430", "20/3651"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65608"
@@ -202,7 +203,7 @@ Welche Haltestellen wurden seit 2016 mit dynamischen Fahrgastinfoanzeigern (DFI)
 
 Welche Haltestellen sollen in den nächsten beiden Jahren mit dynamischen Fahrgastinfoanzeigern (DFI) ausgestattet werden? Falls Fehlanzeige, aus welchen Gründen erfolgt kein Ausbau im Bezirk Harburg?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Das Bauprogramm beschränkt sich derzeit bedarfsorientiert auf Standorte der Busbeschleunigung, von denen noch keine im Bezirk Harburg anzutreffen ist.
 
@@ -282,21 +283,21 @@ Das Bezirksamt Harburg hat folgende Haltestellen barrierefrei ausgebaut:
 
 2016:
 
-• Ehestorfer Weg (Buskehre Majestätische Aussicht)
+– Ehestorfer Weg (Buskehre Majestätische Aussicht)
 
-• Falkenbergsweg (Haltestelle Neugrabener Heideweg)
+– Falkenbergsweg (Haltestelle Neugrabener Heideweg)
 
-• Neugrabener Bahnhofstraße (2 Haltestellen Neugrabener Markt)
+– Neugrabener Bahnhofstraße (2 Haltestellen Neugrabener Markt)
 
-• Neugrabener Bahnhofstraße (2 Haltestellen Bergheide)
+– Neugrabener Bahnhofstraße (2 Haltestellen Bergheide)
 
-• Petershof (2 Haltestellen)
+– Petershof (2 Haltestellen)
 
 2018:
 
-• S-Bahn-Haltestellen Heimfeld (2 Haltestellen)
+– S-Bahn-Haltestellen Heimfeld (2 Haltestellen)
 
-• Zum Wachtelkönig (Neubau)
+– Zum Wachtelkönig (Neubau)
 
 Der Landesbetrieb Straßen, Brücken und Gewässer (LSBG) hat folgende Maßnahmen durchgeführt:
 
@@ -335,21 +336,21 @@ Das Bezirksamt Harburg plant den barrierefreien Ausbau folgender Haltestellen:
 
 Geplant im Jahr 2019:
 
-• Heimfelder Straße (Haltestelle Thörlstraße stadtauswärts)
+– Heimfelder Straße (Haltestelle Thörlstraße stadtauswärts)
 
-• Jägerstraße (Haltestelle Mensingstraße Richtung Vogteistraße)
+– Jägerstraße (Haltestelle Mensingstraße Richtung Vogteistraße)
 
-• Jägerstraße (Haltestelle Mensingstraße Richtung Winsener Straße)
+– Jägerstraße (Haltestelle Mensingstraße Richtung Winsener Straße)
 
-• Jägerstraße (Haltestelle Radickestraße Richtung Vogteistraße)
+– Jägerstraße (Haltestelle Radickestraße Richtung Vogteistraße)
 
 Geplant im Jahr 2020:
 
-• Jägerstraße (Haltestelle Radickestraße Richtung Winsener Straße)
+– Jägerstraße (Haltestelle Radickestraße Richtung Winsener Straße)
 
-• Vogteistraße (Haltestelle Küstersweg Richtung Winsener Straße)
+– Vogteistraße (Haltestelle Küstersweg Richtung Winsener Straße)
 
-• Vogteistraße (Haltestelle An der Eiche Richtung Winsener Straße)
+– Vogteistraße (Haltestelle An der Eiche Richtung Winsener Straße)
 
 Vom LSBG sind folgende Maßnahmen geplant:
 

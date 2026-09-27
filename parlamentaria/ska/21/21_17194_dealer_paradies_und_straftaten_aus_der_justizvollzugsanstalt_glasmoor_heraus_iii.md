@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11186", "21/16784"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66765"
@@ -73,19 +74,19 @@ Im Hinblick auf das Persönlichkeitsrecht des Betroffenen und die gesetzlichen W
 
 Eine vorliegende Auskunft aus dem Bundeszentralregister vom 20. März 2019 enthält folgende mitteilungsfähige Eintragungen:
 
- Verurteilung durch das Amtsgericht Neumünster am 18.03.2003 wegen unerlaub-
+– Verurteilung durch das Amtsgericht Neumünster am 18.03.2003 wegen unerlaub-
 
 tem gewerbsmäßigen Handel mit Betäubungsmitteln in zwei Fällen und unerlaubtem Handel mit Betäubungsmitteln in nicht geringer Menge in einem minderschweren Fall zu einem Jahr zehn Monaten Freiheitsstrafe, ausgesetzt zur Bewährung.
 
- Verurteilung durch das Amtsgericht Hamburg-Altona am 17.08.2006 wegen uner-
+– Verurteilung durch das Amtsgericht Hamburg-Altona am 17.08.2006 wegen uner-
 
 laubtem Handel mit Betäubungsmitteln in zwei Fällen und Handeltreiben mit Betäubungsmitteln in nicht geringer Menge zu einem Jahr zehn Monaten Freiheitsstrafe.
 
- Verurteilung durch das Amtsgericht Hamburg-Harburg am 30.05.2011 wegen uner-
+– Verurteilung durch das Amtsgericht Hamburg-Harburg am 30.05.2011 wegen uner-
 
 laubtem Handeltreiben mit Betäubungsmitteln in nicht geringer Menge zu zwei Jahren Freiheitsstrafe.
 
- Verurteilung durch das Landgericht Kiel am 12.02.2018 wegen unerlaubtem Besitz
+– Verurteilung durch das Landgericht Kiel am 12.02.2018 wegen unerlaubtem Besitz
 
 von Betäubungsmitteln in nicht geringer Menge in Tateinheit mit Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge zu zwei Jahren sechs Monaten Freiheitsstrafe.
 

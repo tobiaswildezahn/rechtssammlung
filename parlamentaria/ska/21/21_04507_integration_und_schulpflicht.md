@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3445", "21/3597", "21/3896"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52910"
@@ -55,7 +56,7 @@ Gibt es in Hamburg prinzipiell die Möglichkeit, von der Schulpflicht befreit zu
 
 Gibt es in Hamburg die Möglichkeit, aus speziellen Gründen, die mit einer religiösen Überzeugung zusammenhängen, eine temporäre Befreiung vom Schulunterricht zu erwirken? Oder auch statt der Teilnahme an einem Schulfach (zum Beispiel koedukativer Sportunterricht oder Schulschwimmen) zeitgleich an einem anderen Fach teilzunehmen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

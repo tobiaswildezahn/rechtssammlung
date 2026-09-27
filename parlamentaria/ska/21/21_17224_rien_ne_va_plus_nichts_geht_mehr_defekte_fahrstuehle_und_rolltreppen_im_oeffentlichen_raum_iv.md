@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 15
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13581"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66795"
@@ -155,7 +156,7 @@ Wie viele Tage betrug die durchschnittliche Störbestehenszeit bei Rolltreppen i
 
 Wie hat sich die durchschnittliche Störbestehenszeit bei Rolltreppen im öffentlichen Raum in Hamburg in den Jahren 2015 – 2017 entwickelt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Bei den Fahrtreppen im Verantwortungsbereich des LSBG wurde Ende des Jahres 2017 die Fernüberwachung um eine automatische Verfügbarkeitserfassung ergänzt. Eine Auswertung der Verfügbarkeit der Fahrtreppen über den Zeitraum der Jahre 2015 bis 2017 ist aufgrund der Datenmenge und der notwendigen manuellen Bearbeitung sehr aufwändig zu ermitteln und in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

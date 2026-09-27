@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13587"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52899"
@@ -59,7 +60,7 @@ Welcher Kaufpreis wurde für das Grundstück vereinbart oder als kalkulatorische
 
 Lag der Kaufpreis unter dem oben genannten Mindestgebot?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Senat sieht zur Wahrung der Betriebs- und Geschäftsgeheimnisse der Vertragspartner in ständiger Praxis grundsätzlich davon ab, zu Kaufpreisen von Grundstücken Stellung zu beziehen Im Übrigen siehe Antworten zu 1., 2. sowie 6.
 

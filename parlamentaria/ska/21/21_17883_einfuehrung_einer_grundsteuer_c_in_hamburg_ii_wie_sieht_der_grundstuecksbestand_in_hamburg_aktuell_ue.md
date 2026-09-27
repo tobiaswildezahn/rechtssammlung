@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 12
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17778", "21/17770"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67489"
@@ -43,7 +44,7 @@ Wie viele Grundstücke mit welcher Gesamtfläche gibt es derzeit in der Freien u
 
 Wie viele Grundstücke mit welcher Gesamtfläche gibt es derzeit in der Freien und Hansestadt Hamburg, bei denen es sich um Rohbauland im Sinne von § 5 Absatz 3 ImmoWertV handelt? a. Seit jeweils wann sind jeweils wie viele der Grundstücke mit welcher Gesamtfläche als Rohbauland ausgewiesen? b. Wie viele sowie welche Flächen davon gehören jeweils der Freien und Hansestadt Hamburg oder ihren öffentlichen Unternehmen? (Bitte – soweit möglich – nach Bezirken und Jahr der Ausweisung als Rohbauland differenziert auflisten.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine Erhebung der Grundstücke, die unter die Grundsteuer C fallen, bedarf einer einzelfallbezogenen Klärung. Eine Unterteilung, wie von der Fragestellerin gewünscht, liegt nicht vor. Die Gebietskategorien der Baunutzungsverordnung beinhalten zum Beispiel für die Wohngebiete nicht nur Wohnnutzungen als zulässige Nutzung und es ist in den anderen Baugebieten wie Mischgebiet, Kerngebiet und Urbanes Gebiet ebenfalls Wohnen in Anteilen zulässig. Zusätzlich müssen auch die tatsächlichen
 
@@ -57,6 +58,6 @@ Wie viele der unter 1. und 2. erfragten Grundstücke sind jeweils Wohnbaufläche
 
 Wie viele der unter 1. und 2. erfragten Grundstücke sind jeweils gemischte Bauflächen im Sinne von § 1 Absatz 1 Nummer 2 BauNVO beziehungsweise wie viele entsprechend ausgewiesene Flächen gibt es in Hamburg? a. Welche Gesamtfläche haben diese jeweils? b. Wie viele sowie welche Flächen davon gehören der Freien und Hansestadt Hamburg. oder ihren öffentlichen Unternehmen? (Bitte – soweit möglich – nach Bezirken sowie baureifem Land und Rohbauland differenziert auflisten.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Flächennutzungsplan stellt für das gesamte Gemeindegebiet die sich aus der beabsichtigten städtebaulichen Entwicklung ergebende Art der Flächennutzung nach den voraussehbaren Bedürfnissen der Gemeinde in den Grundzügen dar. Die Darstellung erfolgt nicht parzellenscharf. Ebenso erfolgt keine Unterscheidung zwischen bereits bebauten beziehungsweise noch unbebauten Flächen, baureifen Flächen oder Rohbauland. Zudem können auf der Ebene der verbindlichen Bauleitplanung aus „Wohnbauflächen“ des Flächennutzungsplanes nicht nur Wohngebiete entwickelt werden, sondern in untergeordnetem Umfang auch abweichende Gebietskategorien. Dasselbe gilt für die Entwicklung aus „Gemischten Bauflächen“. Im Übrigen enthält die Darstellung von „Wohnbauflächen“ und „Gemischten Bauflächen“ zum Beispiel auch Verkehrsflächen, Frei- und Wasserflächen oder Gemeinbedarfsflächen ohne gesamtstädtische Bedeutung. Damit bietet der Flächennutzungsplan keine Grundlage für die Erhebung der Grundsteuer C.

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49132"
@@ -53,7 +54,7 @@ Wie viele Anzeigen gegen Polizeibedienstete der Freien und Hansestadt Hamburg wu
 
 Wie viele Ermittlungsverfahren wurden seit dem 1.1.14 bis zum 30.6.15 gegen Polizeibedienstete der Freien und Hansestadt Hamburg aufgrund welchen Tatvorwurfes eingeleitet? Bitte aufschlüsseln nach Tatvorwurf sowie nach Beamter/Beamtin beziehungsweise Angestellter/Angestellte.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die nachfolgende Tabelle erfasst Daten aus dem Datenbestand des D.I.E., der sich als Eingangsstatistik grundlegend von den Datenbeständen der Polizeilichen Kriminalstatistik (PKS) beziehungsweise der Statistik Politisch Motivierte Kriminalität/Hate Crime (PMK) unterscheidet. Die Tabelle umfasst Mehrfachnennungen, wobei pro Ermittlungsverfahren maximal fünf Delikte erfasst werden.
 

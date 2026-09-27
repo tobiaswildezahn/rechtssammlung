@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61700"
@@ -43,17 +44,17 @@ Welche Fortbildungsmaßnahmen und/oder Materialien beziehungsweise Informationsm
 
 Plant der Senat beziehungsweise die zuständige Behörde in Zukunft Materialien zur sexuellen Vielfalt an Kindertageseinrichtungen bereitzustellen? Wenn ja, in welcher Form würden die Materialien zur Verfügung gestellt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Sozialpädagogische Fortbildungszentrum der für Kindertagesbetreuung zuständigen Behörde bietet Fort- und Weiterbildungen zur geschlechtersensiblen Pädagogik in Kindertageseinrichtungen an. Die Weiterbildung „Sexualpädagogische Kompetenz in Kindertagesstätten“ für frühpädagogische Fachkräfte beinhaltet unter anderem die Themen „Psychosexuelle Entwicklung“ und „geschlechtersensible Erziehung“. In der Fortbildung „Was ist los mit den wilden Kerlen“ für Fachkräfte in Kindertagesbetreuung und Einrichtungen der ganztägigen Bildung und Betreuung an Schulen geht es unter anderem um die „Reflexion der eigenen Geschlechteridentität“, die „Sozialisation und psychische Entwicklung von Jungen“ sowie „Mütter- und Väterrollen im Wandel“.
 
 Die Behörde für Arbeit, Soziales, Familie und Integration hat folgende Veröffentlichungen, die das Themengebiet „sexuelle und geschlechtliche Vielfalt“ betreffen, herausgegeben:
 
- Die „Hamburger Bildungsempfehlungen für die Bildung und Erziehung von Kindern
+– Die „Hamburger Bildungsempfehlungen für die Bildung und Erziehung von Kindern
 
 in Tageseinrichtungen“ greifen mit dem Konzept der „inklusiven Bildung“ zentrale Aspekte von Geschlechterdiversität auf und regen die Reflexion der pädagogischen Fachkräfte über Rollenprägungen, Geschlechtsstereotypen et cetera in der praktischen Arbeit an.
 
- Die „Leitlinien für eine geschlechtsbewusste Jungenarbeit und eine geschlechter-
+– Die „Leitlinien für eine geschlechtsbewusste Jungenarbeit und eine geschlechter-
 
 bewusste Jungenpädagogik“ sowie die „Leitlinien für die Mädchenarbeit und Mädchenpädagogik“, die jeweils Anregungen für pädagogische Fachkräfte bieten, geschlechterreflektiert zu arbeiten.
 

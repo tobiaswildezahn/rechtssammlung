@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10585"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59863"
@@ -77,7 +78,7 @@ Wann wurde die Fachschaft Sozialwissenschaften der Universität Hamburg zuletzt 
 
 Wer wurde in die Fachschaft Sozialwissenschaften gewählt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Zu den Fachschaften finden keine Wahlen statt. Gemäß § 102 Absatz 4 Hamburgisches Hochschulgesetz bilden die Studierenden einer Fakultät eine Fachschaft. Fachschaften können auch in anderen Fällen vorgesehen werden. Nach § 8 der Fachschaftsrahmenordnung der Studierendenschaft der UHH bilden auch Studierende eines Fachbereichs eine Fachschaft.
 

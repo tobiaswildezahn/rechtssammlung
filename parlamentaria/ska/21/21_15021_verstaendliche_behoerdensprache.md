@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64486"
@@ -59,7 +60,7 @@ Sieht der Senat generellen und in manchen Bereichen besonderen Handlungsbedarf h
 
 Welche Projekte und Maßnahmen hat der Senat und haben insbesondere die Bezirksämter im Detail durchgeführt beziehungsweise planen sie durchzuführen, um die durch den Gesetzgeber und die Verwaltung verwendeten Formulierungen leichter verständlich werden zu lassen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Dem Senat ist die Bedeutung des Themas bewusst und sieht es als Daueraufgabe an, in allen Bereichen die jeweiligen Texte dahin gehend zu optimieren, dass sie sowohl rechtssicher als auch adressatengerecht sind. Anlassbezogen wird die Thematik behördenspezifisch vertieft. So sieht zum Beispiel die Behörde für Schule und Berufsbildung etwa aktuell Handlungsbedarf bei den Formularen zur Beantragung von außerunterrichtlichen Lernhilfen, Gutachten, Förder- und Hilfeplänen und bei Schreiben zur Bewilligung von Schulbegleitungen.
 

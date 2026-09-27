@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14535", "20/14667"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48214"
@@ -75,8 +76,8 @@ Das Risiko einer Insolvenz des Softwareherstellers P&I wird derzeit als gering b
 
 Für den Fall einer Insolvenz des Unternehmens hat Dataport folgende Notfallvorkehrungen getroffen:
 
- Quellcode-Hinterlegung mit Herausgabeanspruch im Falle der Insolvenz für die
+– Quellcode-Hinterlegung mit Herausgabeanspruch im Falle der Insolvenz für die
 
 jeweils aktuelle Version der gesamten gelieferten Software samt Entwicklungstool und -dokumentation,
 
- außerordentliches Kündigungsrecht im Fall der Insolvenz.
+– außerordentliches Kündigungsrecht im Fall der Insolvenz.

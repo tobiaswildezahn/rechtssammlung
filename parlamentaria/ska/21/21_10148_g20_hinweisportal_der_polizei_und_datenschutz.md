@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 34
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58974"
@@ -45,7 +46,7 @@ Wann und aus welchen Gründen wurde das Hinweisportal geschlossen?
 
 Inwieweit gehen Senat und zuständige Behörde davon aus, dass es keinen Bedarf mehr für die Nutzung des Portals gibt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Portal wurde am 17. August 2017 um 23.45 Uhr geschlossen, weil sowohl die Quantität als auch die Qualität der hochgeladenen Hinweise stetig abgenommen hatten und zunehmend irrelevante Daten hochgeladen worden waren. Es besteht weiterhin die Möglichkeit, Hinweise über das Hinweistelefon der Polizei zu geben und Bildund Videodateien direkt der Polizei zur Verfügung zu stellen.
 

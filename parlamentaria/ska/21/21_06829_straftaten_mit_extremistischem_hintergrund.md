@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3165", "21/4138", "21/5257", "21/6596"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55387"
@@ -49,7 +50,7 @@ Welche islamistisch motivierten Straftaten gab es in den ersten drei Quartalen 2
 
 Wie viele Tatverdächtige wurden in den ersten drei Quartalen 2016 wegen islamisch motivierter Straftaten festgenommen? Bitte nach Geschlecht und Staatsangehörigkeit aufschlüsseln und die zugrunde liegende Straftat nennen. Bitte für jedes Quartal separat darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1. Im Übrigen siehe Vorbemerkung.
 
@@ -69,7 +70,7 @@ Welche linksextremistisch motivierten Straftaten gab es in den ersten drei Quart
 
 Wie viele Tatverdächtige wurden in den ersten drei Quartalen 2016 wegen linksextremistisch motivierter Straftaten festgenommen? Bitte nach Geschlecht aufschlüsseln und die zugrunde liegende Straftat nennen. Bitte für jedes Quartal separat darstellen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage 2. Im Übrigen siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48900"
@@ -86,7 +87,7 @@ Wie stellt sich dieses Projekt im Haushalt dar? Welche Behörde bezahlt den Auft
 
 Wurden hierfür zusätzliche Gelder zentral zur Verfügung gestellt? Wenn ja, woher kommen diese Gelder? Wenn nein, welche anderen Leistungen können nun nicht mehr erbracht werden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Finanzierung erfolgt über den Einzelplan 1.6 aus Mitteln des „Förderfonds Bezirke“.
 

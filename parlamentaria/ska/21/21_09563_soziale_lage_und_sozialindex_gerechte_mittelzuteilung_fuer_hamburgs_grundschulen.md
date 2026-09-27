@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 23
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7094", "20/7240", "21/5940"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58356"
@@ -45,7 +46,7 @@ Wie viele staatliche Grundschulen gibt es in Hamburg? (Bitte mit Verweis, ob der
 
 Wie haben sich die Einordnungen in die sechs Sozialindizes seit 2012 bis heute (Stand Juni 2017) im Einzelnen an den Hamburger Grundschulen verändert? (Bitte für jedes Schuljahr einzeln, für jeden einzelnen Grundschulstandort mit Bezirk und Darlegung des jeweiligen Veränderung des Sozialindex in einer Excel-Tabelle angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 
@@ -121,7 +122,7 @@ Was bedeutet eine bessere Einstufung (Sozialindex-Aufwertung) um eine Stufe für
 
 Was bedeutet eine schlechtere Einstufung (Sozialindex-Absenkung) um eine Stufe für den einzelnen Standort einer Grundschule bezogen auf die durchschnittliche Mittelzuweisung für folgende Bereiche (Bitte unter Angabe des genauen Stellenumfanges für a. – c. beantworten): a. Inklusion, b. den Ganztag, c. Sprachförderung?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die systemische Zuweisung für die inklusive Beschulung von Schülerinnen und Schüler mit den Förderschwerpunkten Lernen, Sprache beziehungsweise emotionale/ soziale Entwicklung (LSE) erfolgt sozialindexbezogen. Eine Erhöhung des Sozialindex führt zu einer Verringerung der Zuweisung, ein niedrigerer Sozialindex erhöht die Zuweisung. Die absolute Auswirkung auf den Ressourcenbedarf hängt von der jeweiligen Schülerzahl ab. Siehe Haushaltsplan 2017/2018, EP 3.1., Anhang 2 zu Anlage 1.
 

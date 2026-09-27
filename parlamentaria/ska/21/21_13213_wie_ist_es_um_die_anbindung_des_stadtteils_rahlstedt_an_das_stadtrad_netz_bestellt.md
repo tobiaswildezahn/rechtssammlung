@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12415", "21/6154"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62557"
@@ -59,13 +60,13 @@ Warum wird bei der Erarbeitung eines Standortkonzeptes nur auf eine Online-Befra
 
 Die Erarbeitung des Standortkonzepts wird auf drei Säulen basieren:
 
- Allgemeines Nachfragepotenzial in den einzelnen Stadtteilen (siehe Antwort zu 1.),
+– Allgemeines Nachfragepotenzial in den einzelnen Stadtteilen (siehe Antwort zu 1.),
 
- Suchräume für StadtRAD-Stationen, die sich insbesondere an Haltestellen des
+– Suchräume für StadtRAD-Stationen, die sich insbesondere an Haltestellen des
 
 Schnellbahn- und Schienenpersonenverkehrs sowie an Stadtteilzentren und sonstigen Aufkommensschwerpunkten orientieren (siehe Antwort zu 6.),
 
- Vorschläge aus der Bevölkerung, die umfassend über eine Onlinebefragung ermit-
+– Vorschläge aus der Bevölkerung, die umfassend über eine Onlinebefragung ermit-
 
 telt wurden.
 
@@ -126,20 +127,20 @@ Auf einen wichtigen Einfluss des Berufsverkehrs deuten auch die Tagesganglinien 
 
 Als weitere mögliche Einflussgrößen für die Häufigkeit der Nutzung des  
 Stadtrades im Jahr 2015 wurden auf Stadtteilebene untersucht:  
-•  
+–  
 Anzahl der Einwohner (Einwohner aller Altersgruppen sowie volljährige  
 Einwohner, Einwohner aller Nationalitäten sowie deutsche Einwohnerninnen und Einwohner)  
-•  
+–  
 Bevölkerungsdichte [EW/qkm]  
-•  
+–  
 Studienplätze  
-•  
+–  
 Verkaufsfläche (VKF) des periodischen Einzelhandels  
-•  
+–  
 VKF des aperiodischen Einzelhandels  
-•  
+–  
 PKW-Dichte sowie  
-•  
+–  
 Fahrgäste an den Schnellbahnhaltestellen.  
 Keines dieser weiteren Merkmale der Stadtteile zeigte für sich alleine einen  
 ersichtlichen und verallgemeinerbaren Einfluss auf die Häufigkeit der  
@@ -159,12 +160,12 @@ In einem nächsten Schritt wurden die Stadtteile in ein oberes, ein mittleres un
 
 Die nach diesen Merkmalen eingestuften Nachfragepotentiale wurden wie  
 folgt gewichtet:  
-•  
+–  
 „Beschäftigte“ als im Vergleich stärkere Einflussgröße für die Stadt-  
 RAD-Nutzung mit 0,5,  
-•  
+–  
 „Einwohner+Beschäftigte“ als im Vergleich etwas schwächere Einflussgröße mit 0,25,  
-•  
+–  
 „Zentralität Freizeit/Unterkünfte“ als gerade für die Wochenend-  
 Nutzung des StadtRADes wichtige Einflussgröße mit 0,25.
 

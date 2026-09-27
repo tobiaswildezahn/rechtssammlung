@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16156", "21/13492"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69411"
@@ -63,7 +64,7 @@ Wie viele Anträge an das Versorgungsamt wurden insgesamt im Jahr 2019 gestellt?
 
 Wie viele Anträge auf Feststellung des Grades einer Schwerbehinderung wurden im Speziellen im Jahr 2019 gestellt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 2019 gingen 28 377 Erst- und Neufeststellungsanträge beim Versorgungsamt ein.
 
@@ -86,7 +87,7 @@ c) Ausstellung eines Schwerbehindertenausweises?
 
 Was waren die längsten Bearbeitungszeiten von Anträgen jeweils in den Jahren 2018 und 2019?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung und Drs. 21/16156.
 
@@ -135,7 +136,7 @@ Bearbeitungszeiten zu verkürzen?
 Wenn ja, welche?  
 Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Dem Versorgungsamt standen
 

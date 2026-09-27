@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1584", "21/1121", "21/3499"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51986"
@@ -45,7 +46,7 @@ Wie haben sich die Zahlen der Einbrüche 2015 bis zum 29. Februar 2016 im Alster
 
 Wie viele Einbrüche wurden von 2015 bis Ende Februar 2016 im Alstertal und in den Walddörfern aufgeklärt? Bitte die Zahlen für jeden Monat einzeln angeben und nach Stadtteilen sowie in Wohnungen und Gewerbeobjekte aufgliedern.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage, darüber hinaus siehe Drs. 21/1584. Im Übrigen siehe zur Aussagekraft der Polizeilichen Kriminalstatistik (PKS) Drs. 21/1121.
 

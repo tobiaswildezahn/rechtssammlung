@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4862"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55845"
@@ -43,15 +44,15 @@ Welche der in Drs. 21/4862 aufgeführten Straßeninstandsetzungen wurden bislang
 
 Folgende Maßnahmen wurden bisher noch nicht umgesetzt:
 
- Rehmkoppel,
+– Rehmkoppel,
 
- Schemmannstraße,
+– Schemmannstraße,
 
- Rittmeisterkoppel,
+– Rittmeisterkoppel,
 
- Bramfelder Dorfplatz
+– Bramfelder Dorfplatz
 
- sowie beide Projekte im Öjendorfer Damm.
+– sowie beide Projekte im Öjendorfer Damm.
 
 ### Frage 2
 
@@ -61,7 +62,7 @@ Was ist im Einzelnen jeweils der Grund der Verzögerung der Baumaßnahme?
 
 Wann genau soll die Umsetzung dieser Maßnahmen jeweils im Einzelnen erfolgen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Es gibt keine Verzögerung der Baumaßnahmen. Das Deckenprogramm 2016 beinhaltet Planung und Bauausführung. Die Bauausführung erfolgt in der Regel im Aufstellungsjahr des Programms und wird im Folgejahr (2017) zum Abschluss gebracht. Das Ziel, circa 50 Prozent der Maßnahmen baulich in 2016 durchzuführen, wurde erreicht.
 

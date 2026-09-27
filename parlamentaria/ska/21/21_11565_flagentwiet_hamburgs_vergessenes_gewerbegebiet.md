@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 21
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1602"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60745"
@@ -71,7 +72,7 @@ Zu welchem Anteil ist das Gewerbegebiet belegt, welche Freiflächen beziehungswe
 
 Wem gehören die derzeit nicht genutzten Flächen? Bitte im Detail ausweisen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die in den Bebauungsplänen Schnelsen 8 und 11 sowie im Baustufenplan Niendorf- Lokstedt-Schnelsen ausgewiesenen gewerblichen Bauflächen weisen eine Größe von über 40 Hektar aus. Unbebaute beziehungsweise ungenutzte Flächen finden sich in einer Größe von etwa 39.300 m² südlich der Flagentwiet sowie im Kulemannstieg. Während die direkt an der Flagentwiet gelegenen Flächen in privatem Eigentum stehen, handelt es sich bei den Flächen im Kulemannstieg um städtische Flächen, die im Rahmen der Wirtschaftsförderung von der Hamburg Invest Entwicklungsgesellschaft mbH & Co. KG im Jahr 2018 vermarktet werden sollen.
 

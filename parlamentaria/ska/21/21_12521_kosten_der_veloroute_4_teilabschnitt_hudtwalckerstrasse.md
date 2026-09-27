@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11024"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61834"
@@ -43,7 +44,7 @@ Mit welchen Kosten wird für die Umbauarbeiten des Teilabschnitts Leinpfad/Bebel
 
 Welche Kosten werden entstehen, um den gerade sanierten Leinpfad wieder aufzureißen? Kosten bitte nach Einzelmaßnahmen aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es werden keine Kosten im fertiggestellten Leinpfad (außer im Anschlussbereich der Hudtwalckerstraße) entstehen.
 

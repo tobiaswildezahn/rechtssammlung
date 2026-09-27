@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52060"
@@ -168,12 +169,12 @@ Wie viele Mitarbeiter/-innen in Voll- und/oder Teilzeit waren in den Jahren 2013
 
 Zum Sachgebiet Kündigungsschutz und begleitende Hilfen im Arbeitsleben des Integrationsamtes der zuständigen Behörde gehören neben den Aufgaben des Kündigungsschutzes auch Aufgaben der begleitenden Hilfen und Außendiensttätigkeiten. Es sind beschäftigt:
 
- ein Sachgebietsleiter ab 1.1.2014 in Teilzeit mit 35 Wochenstunden;
+– ein Sachgebietsleiter ab 1.1.2014 in Teilzeit mit 35 Wochenstunden;
 
- zwölf Sachbearbeiterinnen und Sachbearbeiter, davon neun in Vollzeit, ein Mitar-
+– zwölf Sachbearbeiterinnen und Sachbearbeiter, davon neun in Vollzeit, ein Mitar-
 
 beiter (MA) mit 35 Wochenstunden, ein MA mit 30 Wochenstunden, ein MA mit 28 Wochenstunden (seit 2013 unverändert);
 
- ein Widerspruchssachbearbeiter in Vollzeit, seit 2013 unverändert, der für alle
+– ein Widerspruchssachbearbeiter in Vollzeit, seit 2013 unverändert, der für alle
 
 Widerspruchsverfahren des Integrationsamtes zuständig ist.

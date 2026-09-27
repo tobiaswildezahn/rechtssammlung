@@ -11,9 +11,10 @@ fraktionen: ["Die Linke"]
 vorgang: 44317
 seiten: 3
 fragen: 7
-einzelfragen: 9
-antwortbloecke: 5
+einzelfragen: 13
+antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48517"
@@ -55,11 +56,15 @@ Warum wurde in Vorbereitung der Gesetzesnovelle und zeitgleich zu den Koalitions
 
 Wann und in welcher Form erfolgt die „Einbeziehung des Bündnisses für das Wohnen“, also insbesondere auch der Eigentümer- und Vermieterseite?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Derzeit bereitet die zuständige Fachbehörde unter fachlicher Beratung seitens der Partner des „Bündnisses für das Wohnen in Hamburg“ eine zeitnahe Umsetzung in Hamburg vor. In diesem Rahmen ist die zuständige Fachbehörde im Gespräch mit der Wohnungswirtschaft und den Mietervereinen. Gespräche haben im April 2015 stattgefunden. Ein weiteres Gespräch ist im Mai 2015 vorgesehen.
 
-3.1. Die Ablehnung der „Mietpreisbremse“ bei Hauseigentümern/-innen, Vermietern/-innen und ihren Verbänden ist bekannt. Sollte es – absehbar – bei dieser Ablehnung bleiben, was hieße das für den Senat und die Umsetzung der „Mietpreisbremse“?
+### Frage 3.1
+
+Die Ablehnung der „Mietpreisbremse“ bei Hauseigentümern/-innen, Vermietern/-innen und ihren Verbänden ist bekannt. Sollte es – absehbar – bei dieser Ablehnung bleiben, was hieße das für den Senat und die Umsetzung der „Mietpreisbremse“?
+
+#### Antwort zu Frage 3.1
 
 Die Einbeziehung des „Bündnisses für das Wohnen in Hamburg“ dient der fachlichen Beratung. Die Entscheidung über den Erlass einer Mietpreisbegrenzungsverordnung trifft der Senat. Im Übrigen äußert sich der Senat zu hypothetischen Fragen grundsätzlich nicht.
 
@@ -71,11 +76,15 @@ Zu welchem Termin plant der Senat die Einführung einer entsprechenden Rechtsver
 
 Siehe Antwort zu 2. und 3.
 
-4.1. Ist dabei an eine flächendeckende Einführung für das gesamte Territorium der Freien und Hansestadt Hamburg gedacht?
+### Frage 4.1
 
-Wenn nein, warum nicht und hinsichtlich welcher Gebiete und Stadtteile?
+Ist dabei an eine flächendeckende Einführung für das gesamte Territorium der Freien und Hansestadt Hamburg gedacht? Wenn nein, warum nicht und hinsichtlich welcher Gebiete und Stadtteile?
 
-4.2. Welche Gültigkeitsdauer wird die zu erwartende Verordnung haben?
+### Frage 4.2
+
+Welche Gültigkeitsdauer wird die zu erwartende Verordnung haben?
+
+#### Antwort zu Fragen 4.1 und 4.2
 
 Eine Rechtsverordnung nach § 556d Absatz 2 Bürgerliches Gesetzbuch (BGB) kann für die Dauer von höchstens fünf Jahren für das Gebiet oder für Teilgebiete einer Gemeinde erlassen werden. Im Übrigen hat sich der Senat hiermit bisher nicht befasst.
 
@@ -92,7 +101,7 @@ a) in den vergangenen fünf Jahren,
 b) seit Anfang 2014 und
 c) seit Anfang 2015 entwickelt haben? Bitte nach den einzelnen Jahren beziehungsweise Quartalen aufschlüsseln.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Erkenntnisse über die Anzahl der Mietverhältnisse, bei denen im betreffenden Zeitraum eine Mieterhöhung aufgrund eines Mieterhöhungsverlangens gemäß § 558 BGB wirksam wurde, sowie Erkenntnisse über die Veränderungen der durchschnittlichen Bestandsmieten aufgrund von Mieterhöhungen nach § 558 BGB liegen der zuständigen Fachbehörde nicht vor.
 

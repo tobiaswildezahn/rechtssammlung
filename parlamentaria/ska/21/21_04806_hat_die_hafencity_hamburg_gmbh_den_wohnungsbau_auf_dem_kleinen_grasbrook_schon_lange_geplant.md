@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 17
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53237"
@@ -84,7 +85,7 @@ Warum wurde auf den Aufsichtsratssitzungen der HafenCity Hamburg GmbH über die 
 
 Hatte die Geschäftsführung der HafenCity Hamburg GmbH Anweisung vom Senat, sich mit der Wohnbebauung des Kleinen Grasbrooks auseinanderzusetzen? Wenn ja, von wem und wann wurde diese Anweisung gegeben? Wenn nein, wann hat der Aufsichtsrat von der Planung der HafenCity Hamburg GmbH erstmals erfahren?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die HCH GmbH wurde von der Senatskanzlei im Oktober 2014 beauftragt, Leistungen im Rahmen der Bewerbung um die Olympischen Spiele 2024 zu erbringen, die sich auf die Konzeption der Olympic City und des Wohnungsbaus bezogen. Hierüber hat die Geschäftsführung in den unter 1. angegebenen Aufsichtsratssitzungen berichtet.
 

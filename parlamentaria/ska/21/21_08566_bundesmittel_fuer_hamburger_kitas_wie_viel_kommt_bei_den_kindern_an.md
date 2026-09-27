@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1479", "20/12988"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57290"
@@ -67,7 +68,7 @@ Welche Programme des Bundes zur Förderungen der Kindertagesbetreuung sind der z
 
 Welche Summen stellt der Bund nach Kenntnis der zuständigen Behörde für die einzelnen Programme jeweils zur Verfügung? Bitte aufschlüsseln für die letzten drei Jahre sowie Angabe der zur Verfügung stehenden Haushaltsmittel für 2017.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bundesprogramm Schwerpunkt-Kitas Sprache & Integration (bis 2015):
 

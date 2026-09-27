@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1532", "18/6339", "21/1128"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50335"
@@ -103,7 +104,7 @@ Wie viele Arbeitslose ohne Berufsabschluss nutzten in den Jahren 2010
 a) beim Jobcenter team.arbeit.hamburg,
 b) bei der Agentur für Arbeit Hamburg und wie viele Bildungsgutscheine wurden für die Teilnahme an Weiterbildungsangeboten jeweils ausgestellt? Bitte aufschlüsseln jeweils nach SGB II und SGB III sowie nach Altersgruppen.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antwort zu 1. bis 3.
 

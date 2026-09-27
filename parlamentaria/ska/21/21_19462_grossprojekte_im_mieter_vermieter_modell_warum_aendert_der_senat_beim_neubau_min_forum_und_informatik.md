@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19007"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69217"
@@ -51,7 +52,7 @@ Wann genau fanden jeweils welche Baugrunduntersuchungen für dieses Projekt stat
 
 Wann genau lagen jeweils welche Gutachten und Ergebnisse zum Baugrund im Einzelnen vor?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

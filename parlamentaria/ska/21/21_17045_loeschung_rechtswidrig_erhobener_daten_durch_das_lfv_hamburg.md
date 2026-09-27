@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7419", "21/7418"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66597"
@@ -56,7 +57,7 @@ b. an das LfV Hamburg übermittelt?
 
 In welchem Umfang und von wie vielen Personen hat die Polizei im Zusammenhang des Einsatzes der Maria B. rechtswidrig erhobene personenbezogene Daten a. gelöscht, b. gesperrt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Statistische Daten im Sinne der Fragestellungen hat die Polizei nicht erhoben. Im Übrigen siehe Antwort zu 3.c.
 

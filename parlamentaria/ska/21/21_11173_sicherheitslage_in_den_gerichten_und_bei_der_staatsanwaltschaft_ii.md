@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 25
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8696", "21/6989", "21/8358"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60154"
@@ -78,7 +79,7 @@ Welche baulichen Veränderungen sind an welchem Gericht und bei der Staatsanwalt
 
 An welchen Gerichten wurden wie die Videoüberwachungsanlagen in welchem Umfang erweitert beziehungsweise ist eine Erweiterung geplant? a. Inwieweit kommt es in öffentlichen und nicht öffentlichen Bereichen zum zusätzlichen Einsatz von Videotechnik? b. In welchem Zeitraum sollen die Videoüberwachungsanlagen wo erweitert werden? c. Sollen beziehungsweise werden ausschließlich die Flächen um die Gerichtsgebäude verstärkt durch den Einsatz von Videotechnik gesichert? Wenn ja, in welchem Umfang erfolgt die Videoüberwachung im Vergleich zur bisherigen Videotechnik bei welchem Gericht? d. Welche Kosten sind dazu geplant?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Derzeit liegen konkrete Planungen für die Erweiterung der Videotechnik mit Kosten von 78.000 Euro vor. Im Übrigen siehe Vorbemerkung.
 
@@ -116,7 +117,7 @@ Bei welchen Gerichten besteht seit wann und aus welchen Gründen weiter Bedarf z
 
 Besteht bei der Staatsanwaltschaft Bedarf zur Verbesserung der Sicherheitslage? Wenn ja, warum?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/8696.
 

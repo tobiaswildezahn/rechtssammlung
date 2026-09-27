@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11876"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66485"
@@ -152,7 +153,7 @@ Sind weitere Schließungen von Wochenmarktstandorten in Eimsbüttel nach derzeit
 
 Prüft das Bezirksamt Eimsbüttel Alternativstandorte für den weggefallenen Wochenmarkt an der Apostelkirche? Wenn ja, wo? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Es wurde vor dem Wegfall des Marktes an der Apostelkirche geprüft, ob es eine alternative Wochenmarktfläche gibt. Dies verlief jedoch mit einem negativen Ergebnis, da keine Flächen vorhanden sind.
 

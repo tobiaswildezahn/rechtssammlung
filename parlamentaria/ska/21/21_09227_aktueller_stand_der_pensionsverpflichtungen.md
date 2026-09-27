@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6561", "21/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57975"
@@ -97,7 +98,7 @@ Plant der Senat weiterhin, im laufenden Jahr rund 110 Millionen Euro als Kapital
 
 Plant der Senat weiterhin, im Jahr 2021 mit Entnahmen aus dem Sondervermögen „Versorgungsrücklage“ zu beginnen? Wenn nein, in welcher Form wurden die Planungen aktualisiert?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Ja.
 
@@ -109,7 +110,7 @@ Wie hoch war jeweils der Kapitalbestand in den drei Sondervermögen „Versorgun
 
 Wie hoch war jeweils das Jahresergebnis 2016 der drei Sondervermögen? Welche Jahresergebnisse werden jeweils für 2017 erwartet?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Anlage 2 sowie www.hamburg.de/fb/jahresabschluesse-der-landesbetriebe. Im Übrigen: siehe Drs. 21/5000.
 

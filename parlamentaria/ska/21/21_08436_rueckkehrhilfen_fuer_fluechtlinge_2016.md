@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3105", "21/5547", "21/8434"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57148"
@@ -105,7 +106,7 @@ Für das Haushaltsjahr 2016 standen im Haushaltsansatz 270.000 Euro zur Verfügu
 
 Werden abgelehnte Asylbewerber gezielt auf die Rückkehrhilfen hingewiesen? Wenn ja, von welcher Stelle?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/5547 und 21/3105.
 

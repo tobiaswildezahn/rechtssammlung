@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5381"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64335"
@@ -138,7 +139,7 @@ Hat sich der Freizeitpass aus Sicht des HVV bewährt?
 
 Hat sich der Freizeitpass aus Sicht des Senats beziehungsweise der zuständigen Behörden bewährt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/5381.
 

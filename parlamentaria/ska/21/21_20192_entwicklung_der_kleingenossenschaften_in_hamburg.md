@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18146", "21/18514"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69965"
@@ -51,7 +52,7 @@ Wie definiert der Senat den Begriff Kleingenossenschaften?
 
 Bis zu wie viele Personen respektive Haushalte oder auch Wohneinheiten darf eine Kleingenossenschaft haben, um als solche bezeichnet zu werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Kleingenossenschaftliche Baugemeinschaften sind Baugemeinschaften, deren Mitglieder unter Aufbringung von Eigengeld und Selbsthilfeleistungen eine Wohnungsbaugenossenschaft gründen, die als juristische Person dauerhaft Eigentümerin des Grundstücks und des Gebäudes wird. Die Mitglieder der Baugemeinschaft sind als Genossenschaftsmitglieder Selbstnutzerinnen beziehungsweise Selbstnutzer des
 

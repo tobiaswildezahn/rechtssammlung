@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11728", "21/7479"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62091"
@@ -50,7 +51,7 @@ Wie hat sich die Überstundensituation bei der Hamburger Polizei inzwischen im 1
 
 Wie viele Überstunden haben die Bediensteten der Polizei nunmehr durchschnittlich (Stand 31. März 2018)? Bitte insgesamt und nach Bereichen aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Entwicklung der Zahl der Mehrarbeitsstunden im 1. Quartal 2018 sowie der durchschnittlichen Zahl der Mehrarbeitsstunden pro Bediensteten zum Stichtag 31. März 2018 ist der nachfolgenden Tabelle zu entnehmen:
 

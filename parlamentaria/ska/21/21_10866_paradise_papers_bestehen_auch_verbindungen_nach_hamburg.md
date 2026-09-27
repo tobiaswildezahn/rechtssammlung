@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 15
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8303", "20/12202", "21/48", "21/3937"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59787"
@@ -51,7 +52,7 @@ Halten öffentliche Unternehmen oder Beteiligungen der Freien und Hansestadt Ham
 
 Hielten öffentliche Unternehmen oder Beteiligungen der FHH respektive deren Tochter- oder Enkelgesellschaften in den Jahren seit 2015 Anteile an sogenannten Briefkastenfirmen oder vermittelten diese an Dritte? Wenn ja, welche Unternehmen beziehungsweise Beteiligungen und was war der Grund für den jeweiligen Anteilsbesitz oder dessen Vermittlung an Dritte? Warum wurde er jeweils wann aufgelöst beziehungsweise die entsprechende Vermittlungspraxis beendet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/3937. Im Übrigen: entfällt.
 
@@ -63,7 +64,7 @@ Liegen dem Senat zwischenzeitlich Erkenntnisse darüber vor, ob in den im vergan
 
 Liegen dem Senat bereits Erkenntnisse darüber vor, ob nunmehr in den „Paradise Papers“ Geschäftsbeziehungen mit Bezug zu Hamburgs öffentlichen Unternehmen oder Beteiligungen respektive deren Tochteroder Enkelgesellschaften erwähnt werden? Wenn ja, welche?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Hamburger Steuerverwaltung liegen zwischenzeitlich allgemeine weitergehende Informationen zu den sogenannten Panama Papers vor, die sie insgesamt im Hinblick auf das Besteuerungs- oder Steuerstrafverfahren Hamburger Steuerpflichtiger auswertet. Im Übrigen ist der Senat aufgrund des Steuergeheimnisses nach § 30 Abgabenordnung grundsätzlich gehindert, Informationen zu einzelnen Unternehmen oder Steuerpflichtigen zu veröffentlichen.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/3135"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52986"
@@ -49,7 +50,7 @@ Wurde die Entscheidung, im Zuge der U4, die unterirdisch direkt an der Elbphilha
 
 Sind seinerzeit die Kosten für den Bau einer U-Bahn-Station Elbphilharmonie ermittelt worden, wie hoch waren diese, und ist bei der damaligen Entscheidungsfindung auch berücksichtigt worden, dass die Verbreiterung der Mahatma-Gandhi-Brücke dann nicht notwendig geworden wäre?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für die Ermittlung der Einzugsbereiche von U-Bahn- und Bushaltestellen verwenden die Hamburger Verkehrsverbund GmbH (HVV) und die HOCHBAHN den Standard des Verbands Deutscher Verkehrsunternehmen e.V. (VDV). Für die Erreichbarkeit einer U-Bahn-Haltestelle werden 720 Meter Entfernung im Fußwegenetz angesetzt (vergleiche VDV, Schrift 4, 2001, Verkehrserschließung und Verkehrsangebot im Öffentlichen Personennahverkehr), was in etwa einer Luftlinienentfernung von 600 Metern entspricht. Somit ist die Elbphilharmonie bereits durch die Haltestelle Baumwall (circa 450 Meter) gut erschlossen. Der Bau einer weiteren U-Bahn-Haltestelle zur Anbindung der Elbphilharmonie würde zu einer unwirtschaftlichen Doppelerschließung führen.
 

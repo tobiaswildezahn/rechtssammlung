@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6208"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49463"
@@ -51,17 +52,17 @@ Inwiefern sind die, laut HVV-Sprecher, nach den Umbaumaßnahmen vom Straßenrand
 
 Für alle im Rahmen des Busbeschleunigungsprogramms um- oder neugebauten Haltestellen gelten die folgenden Kriterien zur Verbesserung der Barrierefreiheit:
 
- Geradlinige Anfahrbarkeit der Haltestelle durch den Bus und dadurch Vermeidung
+– Geradlinige Anfahrbarkeit der Haltestelle durch den Bus und dadurch Vermeidung
 
 von Querbeschleunigungen während der Ein- und Ausfahrt
 
- Einbau spezieller Sonderbordsteine zur Minimierung des horizontalen und vertika-
+– Einbau spezieller Sonderbordsteine zur Minimierung des horizontalen und vertika-
 
 len Spaltes zwischen Fahrzeug und Haltestelle
 
- Einbau von taktilen Leitelementen für sehbehinderte Fahrgäste
+– Einbau von taktilen Leitelementen für sehbehinderte Fahrgäste
 
- Freie Zugänglichkeit aller Türen des Busses ohne Behinderungen durch Lichtmas-
+– Freie Zugänglichkeit aller Türen des Busses ohne Behinderungen durch Lichtmas-
 
 ten, Bäume et cetera
 
@@ -156,7 +157,7 @@ Gibt es dokumentierte Nachweise über verkürzte Standzeiten an den umgerüstete
 
 Wie viele Vergleichsfahrten der MetroBus-Linie M5 hat es gegeben? Legen Sie bitte die Ergebnisse der vorhandenen Vergleichsfahrten offen.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Im Auftrag des Landesbetriebes Straßen, Brücken und Gewässer (LSBG) wurden 40 Messfahrten je Richtung im Frühjahr 2015 durchgeführt. In der Sitzung des Verkehrsausschusses am 25. Juni 2015 wurde mitgeteilt, dass die Ergebnisse dieser Vergleichsfahrten nach der parlamentarischen Sommerpause 2015 vorliegen werden.
 

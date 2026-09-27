@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 13
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69790"
@@ -55,7 +56,7 @@ Welche finanzwirtschaftlich relevanten Lehrstühle gibt es derzeit an der Uni? a
 
 Welche kurz- bis mittelfristige Strategie verfolgt die Uni Hamburg, um die universitäre Ausbildung in Finanzwirtschaft zu stärken und an die anderer, insbesondere in diesem Bereich führender, Universitäten in Deutschland anzupassen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Hinsichtlich der finanzwirtschaftlich relevanten Professuren an der UHH siehe Anlagen 1 und 2.
 

@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 21
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53605"
@@ -119,19 +120,19 @@ Die örtlichen Gremien wurden im Rahmen des Sanierungsbeirates am 28. Juni 2016 
 
 Nach dem derzeitigen Sachstand ergeben sich folgende Fertigstellungstermine:
 
- die Arbeiten an den Baumscheibeneinfassungen in Stahl und Basalt werden
+– die Arbeiten an den Baumscheibeneinfassungen in Stahl und Basalt werden
 
 Anfang Oktober 2016 abgeschlossen sein,
 
- die Bepflanzung erfolgt fachgerecht im Herbst 2016,
+– die Bepflanzung erfolgt fachgerecht im Herbst 2016,
 
- die Markierung der Parkplatzbegrenzung erfolgt Ende Juli 2016,
+– die Markierung der Parkplatzbegrenzung erfolgt Ende Juli 2016,
 
- die Kleinpflasterflächen werden Mitte Juli 2016 fertiggestellt sein,
+– die Kleinpflasterflächen werden Mitte Juli 2016 fertiggestellt sein,
 
- Mülleimer und Papierkörbe wurden bereits aufgestellt (siehe Antwort zu 17.),
+– Mülleimer und Papierkörbe wurden bereits aufgestellt (siehe Antwort zu 17.),
 
- circa 30 Fahrradbügel sind bereits vorhanden, weitere sowie sonstiges Straßen-
+– circa 30 Fahrradbügel sind bereits vorhanden, weitere sowie sonstiges Straßen-
 
 mobiliar werden im Zuge der Herstellung von Baumscheibeneinfassungen aufgestellt werden.
 
@@ -145,7 +146,7 @@ Wie hoch sind die Unterhaltungsmittel für die Fuhlsbüttler Straße bemessen wo
 
 Sind die Unterhaltungsmittel für eine regelmäßige Reinigung des Pflasters und der Nebenanlagen auskömmlich?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Gemäß der Ausführungsunterlage Bau gemäß § 54 Landeshaushaltsordnung (LHO) beträgt der Unterhaltungsaufwand 34.833,94 Euro/Jahr. Unterhaltungsmittel werden für Reparaturen, Ausbesserungen und kleinere Sanierungen eingesetzt. Die Reini-
 
@@ -179,7 +180,7 @@ Warum wurden noch keine Müllkörbe entlang der fertiggestellten Bauabschnitte a
 
 Sind Mülleimer entlang des Straßenzuges Fuhlsbüttler Straße vorgesehen? Wenn ja, wie viele und wann werden diese aufgestellt?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Zwischen Hellbrookstraße und Hebebrandstraße hat die SRH nach Abschluss der Bauarbeiten insgesamt 37 Papierkörbe in der Fuhlsbüttler Straße aufgestellt. Im südlichen Abschnitt zwischen Drosselstraße und Hellbrookstraße gibt es bisher drei Papierkörbe. Nach Fertigstellung der letzten Bauarbeiten werden wieder an allen relevanten Punkten Papierkörbe zur Verfügung stehen.
 
@@ -191,7 +192,7 @@ Welche Pflanzen sind für die weiteren Baumscheiben und Beete entlang der Fuhlsb
 
 Welche Pflanzen werden vonseiten des Bezirks Hamburg-Nord, Management des öffentlichen Raums, für diese Beete bevorzugt?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Die Baumscheiben werden im Einvernehmen mit dem Bezirksamt Hamburg-Nord, Management des öffentlichen Raums mit Spiraea betulifolia (Birkenblättrige Spiere) bepflanzt.
 

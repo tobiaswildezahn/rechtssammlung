@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2368"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53669"
@@ -43,7 +44,7 @@ Auf welchem Stand befindet sich das Planfeststellungsverfahren zu den Ausbauproj
 
 Welcher weitere Zeitplan und Verlauf liegt dem Planfeststellungsverfahren zugrunde? Wann wird der Planfeststellungsbeschluss voraussichtlich vorliegen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Verlauf eines jeden Planfeststellungsverfahrens ergibt sich aus §§ 72 fortfolgende Hamburgisches Verwaltungsverfahrensgesetz (HmbVwVfG). Das Verfahren befindet sich in der Entscheidungsphase (§ 74 Absätze 1 bis 3 HmbVwVfG). Die zuständige Behörde rechnet mit einer Beschlussfassung zu diesem komplexen Projekt noch in diesem Jahr.
 

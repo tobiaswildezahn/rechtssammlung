@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 19
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64511"
@@ -69,7 +70,7 @@ Neben dem, der Fragestellung zu Grunde liegenden Motiv umfasst sie bislang drei 
 
 Diese werden durch verschiedene Anbieter wie folgt veröffentlicht:
 
-• Premium-City-Light-Poster  
+– Premium-City-Light-Poster  
 von  
 Ströer  
 mit  
@@ -78,15 +79,15 @@ im
 Format  
 1185x3500mm,
 
-• City-Light-Poster von Wall Decaux mit 500 Standorten im Format 1185x1750mm,
+– City-Light-Poster von Wall Decaux mit 500 Standorten im Format 1185x1750mm,
 
-• Mega-Light-Boards von Ströer und City-Light-Boards von Wall Decaux mit insgesamt 15 Standorten im Format 3560x2520mm,
+– Mega-Light-Boards von Ströer und City-Light-Boards von Wall Decaux mit insgesamt 15 Standorten im Format 3560x2520mm,
 
-• Großflächen von Ströer mit 100 Standorten im Format 3560x2520mm,
+– Großflächen von Ströer mit 100 Standorten im Format 3560x2520mm,
 
-• Seitenscheiben in U-Bahnen von Ströer im Format 500x150mm,
+– Seitenscheiben in U-Bahnen von Ströer im Format 500x150mm,
 
-• Riesenposter an jeweils einem Standort von Wedia im Format 14x14m, PoolOne im Format 6,77x3,52m und BlowUP im Format 9,80x9,90m.
+– Riesenposter an jeweils einem Standort von Wedia im Format 14x14m, PoolOne im Format 6,77x3,52m und BlowUP im Format 9,80x9,90m.
 
 Zu den Standorten des Motivs „Klar kann man Kohlestrom nutzen …“ siehe Anlage.
 
@@ -114,7 +115,7 @@ Auf welche Höhe belaufen sich die gesamten Kosten der Kampagne? Bitte bei einem
 
 Sollten die Gesamtkosten aus Frage 5. noch nicht feststehen: In welcher Höhe steht ein Budget für diese Kampagne zur Verfügung?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 4.
 
@@ -134,7 +135,7 @@ Werden Mittel aus dem Haushalt der Freien und Hansestadt Hamburg für diese Kamp
 
 Gewährt der Senat im Rahmen dieser Kampagne sonstige Vergünstigungen? Wenn ja: In welcher Form und in welcher Höhe werden diese Vergünstigungen gewährt?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Es werden weder Mittel aus dem Haushalt der Freien und Hansestadt Hamburg für die Kampagne eingesetzt noch gewährt der Senat im Rahmen dieser Kampagne sonstige Vergünstigungen.
 
@@ -146,7 +147,7 @@ Auf Grundlage welcher Entscheidung wurde diese Kampagne umgesetzt?
 
 Welche Personen waren an dieser Entscheidung beteiligt?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Der für Werbung und Öffentlichkeitsarbeit zuständige Bereich von HE hat sich in Abstimmung mit der Geschäftsführung auf der Grundlage von mehreren Angeboten und entsprechenden Entwürfen für die nun veröffentlichte Werbekampagne entschieden.
 

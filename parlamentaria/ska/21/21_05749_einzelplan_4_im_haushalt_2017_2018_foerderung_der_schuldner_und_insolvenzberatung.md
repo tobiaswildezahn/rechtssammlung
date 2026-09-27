@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54241"
@@ -43,7 +44,7 @@ In welchem Teilplan des Einzelplans 4 des Haushalts-Entwurf 2017/2018 befinden s
 
 Wo befanden sich die Transferkosten für die Schuldner- und Insolvenzberatung im letzten Haushaltsplan – Einzelplan 4?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Kosten für die Förderung der Schuldner und Insolvenzberatung sind im Aufgabenbereich 253 Soziales in der Produktgruppe 253.02 Hilfen zur Existenzsicherung bei den Kosten des Produkts Hilfe zum Lebensunterhalt Kapitel 3 SGB XII (HzL Kapitel 3 SGB XII) enthalten und werden im Abschnitt Wesentliche Gesetzliche Leistung gesondert ausgewiesen.
 
@@ -55,7 +56,7 @@ Mit welcher Summe wird im Haushalt 2017/2018 die Transferkosten in Tausend Euro 
 
 Wie hoch waren die Transferkosten in Tausend Euro der Schuldner- und Insolvenzberatung gesamt jeweils in den Jahren 2014 und 2015?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/5000.
 

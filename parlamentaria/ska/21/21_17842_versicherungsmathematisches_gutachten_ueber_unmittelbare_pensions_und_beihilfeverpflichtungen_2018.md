@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13000", "21/14210"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67443"
@@ -59,7 +60,7 @@ Aus welchem Grund hat der Senat eine Wertentwicklung von 6 Prozent zugelassen?
 
 Bereits 2013 ist von AON Hewitt bei einem alternativen Rechnungszins von 3,25 Prozent eine notwendige Rückstellungssumme über etwa 43,5 Milliarden Euro für Pensions- und Versorgungsbeihilferückstellung berechnet worden. Selbst der angenommene Rechnungszins über 3,25 Prozent ist mittlerweile völlig unrealistisch. Aus welchem Grund hat der Senat kein realistischeres Wertentwicklungsszenario berechnen lassen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Zu den Gründen hat sich der Senat ausführlich im Finanzbericht 2015/2016 geäußert (siehe Drs. 20/13000).
 

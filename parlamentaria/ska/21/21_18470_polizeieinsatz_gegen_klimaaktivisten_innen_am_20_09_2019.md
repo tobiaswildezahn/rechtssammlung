@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68135"
@@ -139,7 +140,7 @@ Inwieweit wurde bei der Entscheidung über die Verhältnismäßigkeit der Räumu
 
 Inwieweit wurde bei der Entscheidung über den Einsatz von „Schmerzgriffen“ et cetera berücksichtigt, dass es sich bei vielen der Blockierer/ -innen um augenscheinlich minderjährige Personen gehandelt hat?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Vorbemerkung. Die Polizei hat bei den Entscheidungen, ob und wie die Räumung einer Fahrbahn durchgeführt wurde, den Verhältnismäßigkeitsgrundsatz stets beachtet.
 

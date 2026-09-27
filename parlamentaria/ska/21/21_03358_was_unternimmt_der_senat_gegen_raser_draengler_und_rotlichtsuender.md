@@ -14,6 +14,7 @@ fragen: 46
 einzelfragen: 57
 antwortbloecke: 41
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14606", "21/1586"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51697"
@@ -174,7 +175,7 @@ In welcher Höhe standen 2015 Haushaltsmittel für die Neuaufstellung stationär
 
 In welcher Höhe stehen 2016 Haushaltsmittel für die Neuaufstellung stationärer GÜA in Hamburg zur Verfügung?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Haushaltsmittel für die Neuaufstellung stationärer GÜA und Rotlichtüberwachungsanlage (RÜA) werden im Haushaltsplan nicht gesondert ausgewiesen. Die Finanzierung
 
@@ -294,7 +295,7 @@ In welcher Höhe standen 2015 Haushaltsmittel für die Neuaufstellung stationär
 
 In welcher Höhe stehen 2016 Haushaltsmittel für die Neuaufstellung stationärer RÜA in Hamburg zur Verfügung?
 
-#### Antwort zu Fragen 20 bis 21
+#### Antwort zu Fragen 20 und 21
 
 Siehe Antwort zu 10. und 11.
 
@@ -458,7 +459,7 @@ Wie hat sich der Personalbestand bei der mobilen Verkehrsüberwachung in Hamburg
 
 Wie stellt sich der Personalbestand bei der mobilen Verkehrsüberwachung in Hamburg aktuell dar? Bitte die Stellenzahl, die VZÄ, die Beschäftigtenzahl und die Zahl unbesetzter Stellen angeben.
 
-#### Antwort zu Fragen 33 bis 34
+#### Antwort zu Fragen 33 und 34
 
 Stellen
 
@@ -653,7 +654,7 @@ Wie viele Sitzungen des „Forums Verkehrssicherheit Hamburg“ haben in der lau
 
 Wie viele weitere Sitzungen des „Forums Verkehrssicherheit Hamburg“ sind bereits geplant beziehungsweise terminiert und wann?
 
-#### Antwort zu Fragen 37 bis 38
+#### Antwort zu Fragen 37 und 38
 
 Die letzte Sitzung fand im November 2015 in Form eines Workshops statt. Ziel war eine Bestandsaufnahme und Neuausrichtung der gemeinsamen Zusammenarbeit. Es wurde die Einrichtung von folgenden Arbeitskreisen beschlossen:
 
@@ -685,7 +686,7 @@ Wie haben sich die Plan- beziehungsweise Ansatz-, die Soll- und die Ist- Zahlen 
 
 Wie lauten die Plan- beziehungsweise Ansatzzahlen der Mittel, mit denen das „Forum Verkehrssicherheit Hamburg“ 2016 unterstützt wird?
 
-#### Antwort zu Fragen 40 bis 41
+#### Antwort zu Fragen 40 und 41
 
 Im Wirtschaftsplan des LBV sind für 2016 Mittel in Höhe von 70.000 Euro eingestellt. Im Übrigen siehe Drs. 21/1586.
 

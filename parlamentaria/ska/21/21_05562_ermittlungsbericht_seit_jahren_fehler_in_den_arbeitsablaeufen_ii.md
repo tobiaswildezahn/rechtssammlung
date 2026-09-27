@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4262", "21/5202"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54044"
@@ -77,7 +78,7 @@ Entspricht es aus Sicht des Senats der üblichen Praxis in der Justizbehörde, d
 
 Nach welchen Kriterien wird die Weitergabe von Vermerken zu Verfahren Inhaftierter der JVAs an die Behördenleitung beurteilt? Wer entscheidet darüber?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 In der Regel entscheidet die zuständige Amts-, Abteilungs- beziehungsweise Referatsleitung einzelfallbezogen im Rahmen der Geschäftsprozesse. Informationen über außerordentliche Vorkommnisse erfolgen auf Grundlage der Verfügung der Justizbehörde vom 3. Februar 2016 zu den Berichts- und Anzeigepflichten der Justizvollzugsanstalten.
 

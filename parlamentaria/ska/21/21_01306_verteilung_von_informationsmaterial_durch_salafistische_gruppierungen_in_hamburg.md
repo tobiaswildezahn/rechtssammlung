@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1204", "21/114", "21/1278", "20/13460"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49522"
@@ -55,13 +56,13 @@ Wo wurden diese Stände durchgeführt? (Bitte aufschlüsseln nach Monat, Gruppie
 
 Mit Stand 17. August 2015 sind dem Landesamt für Verfassungsschutz (LfV) Hamburg folgende Anmeldungen bekannt:
 
- durch die Gruppierung „DIIN – Deutschsprachiger Islamkreis im Norden e.V.“ der
+– durch die Gruppierung „DIIN – Deutschsprachiger Islamkreis im Norden e.V.“ der
 
 die „LIES!-Kampagne“ organisiert: 30 Stände,
 
- durch die Gruppierung „Siegel der Propheten“: 52 Stände,
+– durch die Gruppierung „Siegel der Propheten“: 52 Stände,
 
- durch die Gruppierung „Hamburg Dawah Movement“: zwölf Stände (hier wurden
+– durch die Gruppierung „Hamburg Dawah Movement“: zwölf Stände (hier wurden
 
 keine Koranausgaben, sondern ausschließlich Flyer und Broschüren verteilt).
 

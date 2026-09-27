@@ -10,12 +10,13 @@ urheber: ["Arno Münster"]
 fraktionen: ["SPD"]
 vorgang: 57792
 seiten: 2
-fragen: 0
-einzelfragen: 0
-antwortbloecke: 0
+fragen: 6
+einzelfragen: 8
+antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63433"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/63433/21_14034_zustand_der_koehlbrandtreppe_besteht_handlungsbedarf"
 abgerufen: "2026-09-26"
@@ -27,9 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Arno Münster (SPD) vom 13.08.18 und Antwort des Senats · Drucksache vom 21.08.2018  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/63433) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/63433/21_14034_zustand_der_koehlbrandtreppe_besteht_handlungsbedarf)
 
-## Volltext
-
-Zustand der Köhlbrandtreppe – Besteht Handlungsbedarf?
+## Einleitung für die Fragen
 
 Die Köhlbrandtreppe ist eine beliebte Verbindung für Fußgänger auf dem Weg zwischen der Palmaille und der Großen Elbstraße. Die imposante, zum Hafen führende Treppe mit Kopfbau wurde 1887 eingeweiht und ist inzwischen als Baudenkmal eingestuft.
 
@@ -37,21 +36,39 @@ Früher nutzten Tausende Hafenarbeiter diese Treppe, um von ihren Altonaer Wohnq
 
 Vor diesem Hintergrund frage ich den Senat:
 
+## Fragen und Antworten
+
+### Frage 1
+
 1.) Wie wird der Zustand der Köhlbrandtreppe von den zuständigen Stellen beurteilt?
+
+#### Antwort zu Frage 1
 
 Bei Arbeiten im unmittelbaren Umfeld wurde auch die Köhlbrandtreppe begutachtet. Es zeigten sich flächendeckende Auswaschungen sowie Setzungen der Stufen, die die Verkehrssicherheit beeinträchtigen können.
 
+### Frage 2
+
 2.) Welche Stellen sind für diese Treppenanlage zuständig – und wenn unterschiedliche, welche für welche Abschnitte beziehungsweise Bereiche?
+
+#### Antwort zu Frage 2
 
 Das Bezirksamt Altona ist für die Köhlbrandtreppe als Wegeaufsichtsbehörde und Träger der Wegebaulast zuständig.
 
+### Frage 3
+
 3.) Wann haben zuletzt welche Sanierungs- oder Instandsetzungsmaßnahmen an dieser Anlage stattgefunden?
 
+#### Antwort zu Frage 3
+
 Die letzte denkmalgerechte Sanierung erfolgte in den 1970er-Jahren. Kleinere Instandhaltungsarbeiten wurden in den letzten Jahren regelmäßig durchgeführt, um vorhandene Schadstellen auszubessern und die Verkehrssicherheit aufrechtzuerhalten.
+
+### Frage 4
 
 4.) Sind Sanierungs- oder Instandsetzungsmaßnahmen an dieser Treppe geplant?
 
 Wenn ja, welche sind dies im Einzelnen? Für welchen Zeitraum sind diese mit welchen Haushaltsmitteln geplant? Bitte ausführen.
+
+#### Antwort zu Frage 4
 
 Die Schäden an der Köhlbrandtreppe sind hauptsächlich auf Feuchtigkeit zurückzuführen. Es ist eine denkmalgerechte Sanierung des gesamten Ensembles geplant, die unter anderem das schadlose Abführen von Oberflächenwasser sowie die Instandsetzung des Frontmauerwerks und der Treppenstufen umfasst. Bisher sieht die Ausfüh-
 
@@ -59,10 +76,18 @@ rungsunterlage Bau gemäß § 54 LHO (AU-Bau) Kosten in Höhe von rund 1 Million
 
 Die Maßnahme wurde Anfang des Jahres 2018 beschränkt ausgeschrieben. Von den aufgeforderten Baufirmen hat keine ein Angebot abgegeben. Daraufhin wurde die Baufertigstellungsfrist auf Ende des Jahres 2019 verlängert und die Maßnahme erneut, diesmal öffentlich ausgeschrieben. Das Verfahren ist noch nicht abgeschlossen.
 
+### Frage 5
+
 5.) Ist geplant, die vorhandenen Graffiti-Verunreinigungen zu entfernen?
+
+#### Antwort zu Frage 5
 
 Ja, die Graffiti-Verunreinigungen sollen im Zuge der denkmalgerechten Sanierung entfernt werden.
 
+### Frage 6
+
 6.) Inwieweit beeinflusst die Ausweisung als Baudenkmal etwaige Wartungs- und Sanierungsarbeiten? Bitte ausführen.
+
+#### Antwort zu Frage 6
 
 Ein entsprechender Denkmalpflegeplan wurde erarbeitet sowie die denkmalrechtliche Genehmigung für die Sanierung erteilt.

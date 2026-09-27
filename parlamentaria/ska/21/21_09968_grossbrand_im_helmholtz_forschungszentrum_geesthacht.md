@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58787"
@@ -85,6 +86,6 @@ Wann werden die Brandschäden komplett behoben sein?
 
 Kommen auf die Stadt Hamburg Kosten infolge des Brandes zu? Wenn ja, in welchem Umfang und aus welchen Haushalten müssen diese gezahlt werden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Erst nach vollständiger Erhebung des Schadens kann nach Auskunft des HZG ein Zeitplan entwickelt werden. Das HZG wird als Zuwendungsempfänger von Bund und vier Ländern finanziert. Der Finanzierungsanteil der Freien und Hansestadt Hamburg beträgt 2,3 Prozent. Ob das HZG die durch den Brand entstandenen Mehrkosten aus dem laufenden Budget bestreitet oder ob tatsächlich zusätzliche Zuwendungen gewährt werden müssen, wird Bestandteil der Wirtschaftsplanverhandlungen. Zuwendungen an das HZG werden aus dem Einzelplan 3.2 gezahlt.

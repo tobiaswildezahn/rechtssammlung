@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 21
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6125", "21/6008", "21/5405", "21/5375", "21/5203", "21/4736", "21/3538", "21/2726"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54857"
@@ -91,7 +92,7 @@ Inwiefern haben der Senat beziehungsweise die zuständigen Behörden auch bei de
 
 Wie viele Unternehmen sind dem Senat beziehungsweise den zuständigen Behörden bekannt, die sich innerhalb des benannten Bundesprogrammes um eine Förderung beworben haben?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Das Bundesförderprogramm zur Unterstützung des Breitbandausbaus in der Bundesrepublik Deutschland richtet sich an Kommunen. Antragsstellungen durch Unternehmen sind nicht möglich.
 

@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 20
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8941"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57674"
@@ -49,7 +50,7 @@ Wie viele Personen gehören dem ARD-Rundfunkrat gegenwärtig an? Die Mitglieder 
 
 Wie viele Personen sind gegenwärtig im NDR-Landesrundfunkrat vertreten? Die Mitglieder bitte anhand der Zugehörigkeit zu deren gesellschaftlicher Institution nennen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Anzahl der Mitglieder des offenbar gemeinten NDR-Rundfunkrats ergibt sich aus § 17 Absatz 1 Satz 1 des NDR-Staatsvertrags. Danach gehören dem Gremium 58 Mitglieder an. Zu den Mitgliedern und den entsendungsberechtigten Gruppen siehe
 
@@ -145,6 +146,6 @@ Mit Claus Everdiking und Bernhard Effertz gehören zwei Ratsmitglieder dem Bistu
 
 Ist derzeit geplant, einen Vertreter der Muslime in die Räte zu berufen?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Siehe Antwort zu 13. Im Übrigen siehe Drs. 21/8941.

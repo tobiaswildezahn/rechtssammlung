@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13460", "20/13020", "20/13241", "20/13716"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48188"
@@ -43,7 +44,7 @@ Wie viele der neun tatverdächtigen Jugendlichen haben die Max-Brauer- Schule be
 
 Wie lange haben die tatverdächtigen Jugendlichen die Max-Brauer- Schule besucht und besuchen einzelne der Jugendlichen die Schule nach wie vor? Bitte die genauen Zeiträume angeben, von wann bis wann die einzelnen Jugendlichen an der Max-Brauer-Schule beschult wurden beziehungsweise noch werden.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Fünf der Tatverdächtigen waren Schüler der Max-Brauer-Schule. Sie besuchten diese während folgender Zeiträume: 2002 bis 2006, 2004 bis 2009, 2002 bis 2012, 2009 bis 2014, 2004 bis 2014.
 

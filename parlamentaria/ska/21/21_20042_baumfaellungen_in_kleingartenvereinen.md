@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11721"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69802"
@@ -163,7 +164,7 @@ Welche Sanktionen werden den Kleingärtnerinnen und Kleingärtnern im Falle der 
 
 Gab es bereits ausgeübte Sanktionen? a. Wenn ja, welche und wie viele?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Seitens der zuständigen Bezirksämter werden keine Sanktionen für die Verweigerung einer genehmigten Fällung angedroht. Die Entscheidung, eine genehmigte Fällung vorzunehmen beziehungsweise eine Genehmigung in Anspruch zu nehmen, obliegt dem jeweiligen Antragsteller.
 

@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 28
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/1961", "20/8842", "21/13572", "21/12648", "21/11899", "20/10672", "21/16792"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68251"
@@ -184,7 +185,7 @@ Wie hat sich die Anzahl der registrierten Müllmengen in den öffentlichen Grün
 
 Wie haben sich die Kosten der Müllentsorgung auf öffentlichen Grünanlagen und Spielplätzen in den Hamburger Bezirken seit 2015 entwickelt? Bitte jährlich und für die einzelnen Bezirke angeben.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Bis zum 31. Dezember 2017 oblag den jeweiligen Bezirksämtern die Reinigung der Grün- und Erholungsanlagen. Seit dem 1. Januar 2018 liegt die Zuständigkeit dafür bei der SRH.
 
@@ -352,7 +353,7 @@ In der Drs. 21/13572 werden unter 2. die monatlich gemeldeten Müllprobleme im Z
 
 Bereits in der Drs. 21/13572 aus dem Juli 2018 kündigt die SRH an, die Anzahl an Papierkörben in Grünanlagen der Stadt Hamburg um 1 000 Stück an der Zahl zu erhöhen. Wie viele Papierkörbe wurden seit Juli 2018 in den Grünanlagen der Stadt aufgestellt beziehungsweise, wenn dies möglich zu benennen ist, in den einzelnen Bezirken monatlich aufgestellt?
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Der SRH wurde vor Beginn der Übernahme der Papierkorbleerung in Grünanlagen von den bis dahin zuständigen Bezirksämtern ein Bestand von rund 7 000 Papierkörben gemeldet. Ziel der SRH war, den Bestand auf dieser Datengrundlage auf 8 000 zu erhöhen. Nach eigener Bestandsaufnahme wurde ermittelt, dass der Bestand tatsächlich circa 7 600 Papierkörbe betrug, weshalb sich ein zusätzlicher Bedarf von nur noch rund 400 neuen Papierkörben ergab.
 

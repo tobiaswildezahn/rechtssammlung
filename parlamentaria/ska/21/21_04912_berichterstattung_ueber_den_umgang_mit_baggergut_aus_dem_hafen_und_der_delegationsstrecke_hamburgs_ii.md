@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 9
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3926"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53343"
@@ -95,15 +96,15 @@ Vergleicht man die Parameter, für die es in der Übergangsregelung Richtwerte g
 
 #### Antwort zu Frage 3
 
- Pentachlorbenzol,
+– Pentachlorbenzol,
 
- Gesamtstickstoff im Sediment,
+– Gesamtstickstoff im Sediment,
 
- Gesamtstickstoff im Eluat,
+– Gesamtstickstoff im Eluat,
 
- Gesamtphosphor im Sediment,
+– Gesamtphosphor im Sediment,
 
- Gesamtphosphor im Eluat.
+– Gesamtphosphor im Eluat.
 
 a. Gibt es zu diesen fünf Parametern Richtwerte?
 
@@ -131,11 +132,11 @@ Betrachtet man in Anlagen 3 und 4 der jährlichen Teilberichte für die Umlageru
 
 #### Antwort zu Frage 4
 
- Summe der Polychlorierten Dibenzo-p-dioxine/Dibenzofurane (PCDD/
+– Summe der Polychlorierten Dibenzo-p-dioxine/Dibenzofurane (PCDD/
 
 PCDF) und
 
- Octachlorstyrol.
+– Octachlorstyrol.
 
 a. Werden für diese Parameter untere und obere Richtwerte benutzt?
 
@@ -259,7 +260,7 @@ Die HABAB-WSV wird in der Übergangsregelung als eine der anwendbaren Baggergut-
 
 unserer Großen Anfrage wird erklärt, dass die HABAB-WSV „in Hamburg keine Anwendung“ finde. a. Ist die Übergangsregelung nur für Umlagerungen innerhalb hamburgischen Gebiets gültig?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Ja.
 
@@ -277,15 +278,15 @@ lagerten Materials“
 
 In Drs. 21/3926 weisen wir in der Einleitung zu den Fragen 19. und 20. auf die Überschreitungen von unteren Richtwerten bei den Kernproben des vor Neßsand umgelagerten Materials hin und in Frage 19. geben wir hierzu Beispiele an. In Punkt 20. hinterfragen wir, warum in den Teilberichten nicht auf damit verbundene Auswirkungsprognosen und deren Ergebnisse eingegangen wird. Hierauf antwortet der Senat: „Wenn die Werte der Kernproben die Richtwerte der Handlungsanweisung überschritten, wurde das entsprechende Material nicht bei Neßsand umgelagert. Die Durchführung von Auswirkungsprognosen war daher nicht erforderlich.” Dies ist für uns nicht nachvollziehbar, denn wie auch die Tabelle verdeutlicht:
 
- bei mindestens 50 Prozent der Kernproben gab es Überschreitungen des
+– bei mindestens 50 Prozent der Kernproben gab es Überschreitungen des
 
 unteren Richtwertes von TBT in allen drei Jahren und in 2012 lag eine TBT-Messung genau auf dem oberen Richtwert;
 
- in jedem Jahr wurde der untere Richtwert von Zink mindestens einmal
+– in jedem Jahr wurde der untere Richtwert von Zink mindestens einmal
 
 überschritten und
 
- in 2014 wurde mindestens bei einer Messung von Monobutylzinn (MBT)
+– in 2014 wurde mindestens bei einer Messung von Monobutylzinn (MBT)
 
 und Quecksilber der jeweilige untere Richtwert überschritten.
 

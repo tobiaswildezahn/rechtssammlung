@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7141"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59435"
@@ -47,7 +48,7 @@ Welche Einschränkungen bei der Werbung gibt es bei den in Hamburg tätigen HVV-
 
 Welche Begründungen gibt es für die jeweiligen Einschränkungen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Werbung darf gesetzlichen Vorschriften, behördlichen Anweisungen und verbindlichen Richtlinien der fachlichen Organisationen nicht widersprechen, da die Unternehmen zur Gesetzestreue verpflichtet sind. Sie darf nicht gegen die guten Sitten verstoßen oder gewaltverherrlichende, diskriminierende, rassistische oder andere die Menschenwürde beeinträchtigende Inhalte haben, da sich die Unternehmen zu diesen Werten bekennen. Ferner ist auch parteipolitische oder religiöse Werbung nicht gestattet, um die Neutralität der Unternehmen zu gewährleisten. Zudem darf Werbung nicht den Interessen der Verkehrsunternehmen oder des öffentlichen Personennahverkehrs (ÖPNV) zuwiderlaufen, um das Ansehen und die Belange der Unternehmen nicht zu beeinträchtigen.
 
@@ -59,7 +60,7 @@ Wer entscheidet in den einzelnen Unternehmen nach welchem Verfahren über diese 
 
 Wer vermarktet jeweils die Werbung? Bitte gegebenenfalls nach Werbekategorien aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Bei der DB AG, der HOCHBAHN, der AKN und den VHH ist die Vermarktung der Werbeflächen jeweils einem Unternehmen übertragen worden, das über die Werbung in Abstimmung mit der zuständigen Marketingabteilung und gegebenenfalls der Unternehmensleitung der Verkehrsunternehmen entscheidet. Die HADAG vermarktet die Werbeflächen eigenständig, die Entscheidungsbefugnis über die Werbung liegt bei der Geschäftsleitung.
 

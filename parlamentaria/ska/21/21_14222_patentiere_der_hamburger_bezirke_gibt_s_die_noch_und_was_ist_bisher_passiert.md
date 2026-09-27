@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63630"
@@ -51,61 +52,61 @@ Zu welchen Maßnahmen und Ergebnissen führten die bezirklichen Projekte?
 
 Wurden die Projekte in den Bezirken seit 2010 fortgeführt? Wenn ja, bitte Maßnahmen und deren Ergebnissen jeweils nach Bezirk aufführen. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Maßnahmen des Bezirksamts Hamburg-Mitte für sein Patentier, den Haussperling, bestehen einerseits in der Erhebung der Bestände in einzelnen Stadtteilen und andererseits in dem Anbringen von Nistkästen. Folgende Stadtteile wurden kartiert:
 
- Auftaktgutachten mit fünf Maßnahmenvorschlägen in der Hamburger Innenstadt
+– Auftaktgutachten mit fünf Maßnahmenvorschlägen in der Hamburger Innenstadt
 
 (2008),
 
- Hamburg-Altstadt, Hamburg-Neustadt und St. Georg (2009),
+– Hamburg-Altstadt, Hamburg-Neustadt und St. Georg (2009),
 
- St. Pauli und Veddel (2010),
+– St. Pauli und Veddel (2010),
 
- Wilhelmsburg (2012),
+– Wilhelmsburg (2012),
 
- Billstedt (2018).
+– Billstedt (2018).
 
 Das Wissen um die Bestände bildet die Grundlage für die Ermittlung von Standorten, an denen mit Nistkästen bestehende Sperlings-Vorkommen geschützt werden könnten. Folgende Nistkästen wurden angebracht:
 
- Sechs Sperlingskoloniekästen (je drei Nistmöglichkeiten) an Fassaden und zwei
+– Sechs Sperlingskoloniekästen (je drei Nistmöglichkeiten) an Fassaden und zwei
 
 Nisthöhlen in Bäumen im Innenhof der steg im Karolinenviertel (2009),
 
- 100 Nistkästen in Bäumen in den Stadtteilen Hamburg-Altstadt, Hamburg-Neustadt
+– 100 Nistkästen in Bäumen in den Stadtteilen Hamburg-Altstadt, Hamburg-Neustadt
 
 und St. Georg (2009),
 
- zehn Sperlingskoloniekästen (je drei Nistmöglichkeiten) in der Schule Slomanstieg
+– zehn Sperlingskoloniekästen (je drei Nistmöglichkeiten) in der Schule Slomanstieg
 
 (2011),
 
- fünf Sperlingskoloniekästen (je drei Nistmöglichkeiten) an der Kita Immanuel-
+– fünf Sperlingskoloniekästen (je drei Nistmöglichkeiten) an der Kita Immanuel-
 
 Kirche (2011),
 
- zwei Sperlingskoloniekästen (je drei Nistmöglichkeiten) am Spielhaus Katenweide
+– zwei Sperlingskoloniekästen (je drei Nistmöglichkeiten) am Spielhaus Katenweide
 
 (Verlagerung von abgerissener Kita Immanuel-Kirche) (2018).
 
 Außerdem wurden durch das Gutachten Kenntnisse gewonnen, auf deren Basis Maßnahmen für den Haussperling unter anderem bei folgenden Vorhaben berücksichtigt wurden:
 
- Gebäudesanierung Wilhelmsburger Straße 2 – 14 – Berücksichtigung der Brutko-
+– Gebäudesanierung Wilhelmsburger Straße 2 – 14 – Berücksichtigung der Brutko-
 
 lonien in einem Laubengang in den Bauablauf, Einbeziehung der Staatlichen Vogelschutzwarte (ab 2009),
 
- Straßenplanung im Abschnitt Johannisbollwerk–Vorsetzen–Baumwall infolge der
+– Straßenplanung im Abschnitt Johannisbollwerk–Vorsetzen–Baumwall infolge der
 
 Hochwasserschutzmaßnahme Niederhafen – Teilweiser Erhalt sowie Neupflanzung von Sträuchern und Bäumen, anteilig immergrüne Sträucher (ab 2009),
 
- Glashüttenstraße 99 – zwei Kolonienistkästen (steg) (2012),
+– Glashüttenstraße 99 – zwei Kolonienistkästen (steg) (2012),
 
- Jakobikirchhof - Verhinderung der Rodung der Vegetation in den Nischen zwi-
+– Jakobikirchhof - Verhinderung der Rodung der Vegetation in den Nischen zwi-
 
 schen den Stützpfeilern der Kirche (2013),
 
- Katharinenfleet/Katharinenstraße – acht Sperlingskoloniekästen (je drei Nistmög-
+– Katharinenfleet/Katharinenstraße – acht Sperlingskoloniekästen (je drei Nistmög-
 
 lichkeiten) beim Neubau im Zuge des B-Plans Altstadt 45 (2015).
 
@@ -119,41 +120,41 @@ Welche Mittel in welcher Höhe standen beziehungsweise stehen den Bezirken für 
 
 Folgende Mittel aus dem Sondervermögen Naturschutz und Landschaftspflege wurden für das Projekt verwendet:
 
- 2.215,78 Euro für das Auftaktgutachten mit fünf Maßnahmenvorschlägen in der
+– 2.215,78 Euro für das Auftaktgutachten mit fünf Maßnahmenvorschlägen in der
 
 Hamburger Innenstadt (2008),
 
- 3.723,68 Euro für das Gutachten Hamburg-Altstadt, Hamburg-Neustadt und St.
+– 3.723,68 Euro für das Gutachten Hamburg-Altstadt, Hamburg-Neustadt und St.
 
 Georg (2009),
 
- 4.984,92 Euro für das Gutachten St. Pauli und Veddel (2010),
+– 4.984,92 Euro für das Gutachten St. Pauli und Veddel (2010),
 
- 11.771,62 Euro für das Gutachten Wilhelmsburg (2012),
+– 11.771,62 Euro für das Gutachten Wilhelmsburg (2012),
 
- 9.309,19 Euro für das Gutachten Billstedt (2018),
+– 9.309,19 Euro für das Gutachten Billstedt (2018),
 
- 254,90 Euro für die fünf Sperlingskoloniekästen rückwärtig an der Hamburger
+– 254,90 Euro für die fünf Sperlingskoloniekästen rückwärtig an der Hamburger
 
 Kunsthalle (2008),
 
- 345,89 Euro für die sechs Sperlingskoloniekästen an Fassaden und zwei Nisthöh-
+– 345,89 Euro für die sechs Sperlingskoloniekästen an Fassaden und zwei Nisthöh-
 
 len in Bäumen im Innenhof der steg im Karolinenviertel (2009),
 
- 2.700,00 Euro für die einhundert Nistkästen in Bäumen Stadtteilen Hamburg-
+– 2.700,00 Euro für die einhundert Nistkästen in Bäumen Stadtteilen Hamburg-
 
 Altstadt, Hamburg-Neustadt und St. Georg (2009),
 
- 495,64 Euro für zehn Sperlingskoloniekästen (je drei Nistmöglichkeiten) in der
+– 495,64 Euro für zehn Sperlingskoloniekästen (je drei Nistmöglichkeiten) in der
 
 Schule Slomanstieg (2011) und 74,26 Euro für nachträgliches Umhängen von vier Kästen (2013),
 
- 254,90 Euro für die fünf Sperlingskoloniekästen (je drei Nistmöglichkeiten) an der
+– 254,90 Euro für die fünf Sperlingskoloniekästen (je drei Nistmöglichkeiten) an der
 
 Kita Immanuel-Kirche (2011),
 
- 174,93 Euro für die fachliche Begleitung von Maßnahmen auf der Veddel (Schule
+– 174,93 Euro für die fachliche Begleitung von Maßnahmen auf der Veddel (Schule
 
 Slomanstieg und Kita Immanuel-Kirche) (2011).
 
@@ -177,23 +178,23 @@ Wenn nein, warum nicht?
 
 Folgende Maßnahmen zur Sicherung und Entwicklung des Kiebitzbestands im Bezirk Altona wurden seit 2010 durchgeführt:
 
- Zwei Bebauungsplanverfahren zur Sicherung und Entwicklung von geeigneten
+– Zwei Bebauungsplanverfahren zur Sicherung und Entwicklung von geeigneten
 
 Flächen als potenzieller Lebensraum auch für Kiebitze in der Rissen-Sülldorfer sowie in der Osdorfer Feldmark,
 
- Zuordnung von Ausgleichsmaßnahmen für Baumaßnahmen in die Feldmarken zur
+– Zuordnung von Ausgleichsmaßnahmen für Baumaßnahmen in die Feldmarken zur
 
 Aufwertung der Biotopstrukturen (Extensivierung von Grünland, Neuanlage von Feuchtlebensräumen),
 
- Anlage einer Flachgewässerzone am Laufgraben in Rissen,
+– Anlage einer Flachgewässerzone am Laufgraben in Rissen,
 
- Sicherung und Pflege einer für den Kiebitz geeigneten Nasswiese in Rissen,
+– Sicherung und Pflege einer für den Kiebitz geeigneten Nasswiese in Rissen,
 
- Umsetzung von Ausgleichsmaßnahmen für Eingriffe durch Bauvorhaben und vor-
+– Umsetzung von Ausgleichsmaßnahmen für Eingriffe durch Bauvorhaben und vor-
 
 habenbezogene Bebauungspläne in der Wedeler Marsch im Regionalpark,
 
- Aufzucht und Auswilderung von Kiebitz-Dachbruten in Othmarschen in der Wede-
+– Aufzucht und Auswilderung von Kiebitz-Dachbruten in Othmarschen in der Wede-
 
 ler Marsch: 2016: 21 Vögel, 2017: 20 Vögel und 2018: elf Vögel.
 
@@ -229,19 +230,19 @@ Der Fledermausschutz im Bezirk Eimsbüttel erfolgt allgemein über den Schutz un
 
 Zum anderen wurden im Bezirk seit 2010 in Zusammenarbeit mit Naturschutzverbänden und/oder der zuständigen Fachbehörde konkrete Projekte realisiert:
 
- Beginn der Maßnahme:
+– Beginn der Maßnahme:
 
 Im Niendorfer Gehege wurden 16 Fledermauskästen vom NABU aufgehängt, in der Stellinger Schweiz hat das Bezirksamt die Finanzierung von zwölf Fledermauskästen übernommen. Die Fledermausgruppe des NABU Eimsbüttel betreut und unterhält diese Fledermauskästen.
 
- 2015:
+– 2015:
 
 Aufhängung von 2 Fledermausgroßraumhöhlen in Eidelstedt an der Mühlenau. Betreuung durch den NABU.
 
- 2017:
+– 2017:
 
 Anlage von nachtblühenden Pflanzen durch NABU und Waldjugend zur Förderung nachtaktiver Falter an der Aussichtsplattform am Damwildgehege im Niendorfer Gehege zur Aufwertung der Nahrungsquelle der Fledermäuse.
 
- 2018:
+– 2018:
 
 Pflege der Waldwiese im Niendorfer Gehege und Aufnahme der Waldwiese in das Aurora Programm des NABU unter anderem auch zur Aufwertung des bereits vorhandenen Fledermaushabitats.
 
@@ -365,41 +366,41 @@ Seit Übernahme der Patenschaft für den Grasfrosch wurden Bestandserfassungen i
 
 Folgende Maßnahmen wurden im genannten Zeitraum durchgeführt:
 
- 2008 – 2014: Moorgürtel: Anlage von Kleingewässern und Kofferdämmen zur flä-
+– 2008 – 2014: Moorgürtel: Anlage von Kleingewässern und Kofferdämmen zur flä-
 
 chenhaften Vernässung,
 
- 2008 – 2014: südlich Neuländer Baggersee: Grabenanstau und Flächenvernäs-
+– 2008 – 2014: südlich Neuländer Baggersee: Grabenanstau und Flächenvernäs-
 
 sung,
 
- 2009/2010: Im Stuck (Eißendorf): Anlage von Kleingewässer in Waldflächen,
+– 2009/2010: Im Stuck (Eißendorf): Anlage von Kleingewässer in Waldflächen,
 
- 2008 – 2011: Neuland-Ost: 140 ha Ausgleichsflächen „Grünland“: Anlage von rund
+– 2008 – 2011: Neuland-Ost: 140 ha Ausgleichsflächen „Grünland“: Anlage von rund
 
 21 km Gräben, 14 Kleingewässern, 32 Grabenaufweitungen sowie circa 8 ha Flachwasserzonen,
 
- 2012: Moorlage (Engelbek-Niederung): mehrere kleine Amphibienteiche und Gra-
+– 2012: Moorlage (Engelbek-Niederung): mehrere kleine Amphibienteiche und Gra-
 
 benanstauungen und -aufweitungen,
 
- 2016: Auf 34 ha Ausgleichsflächen für die A 26 wurden Gräben angestaut, Flächen
+– 2016: Auf 34 ha Ausgleichsflächen für die A 26 wurden Gräben angestaut, Flächen
 
 vernässt und zusätzliche Kleingewässer hergestellt,
 
- 2012/2013: Vahrendorfer Stadtweg: fest installiertes Amphibienleitsystem,
+– 2012/2013: Vahrendorfer Stadtweg: fest installiertes Amphibienleitsystem,
 
- 2017: südlich Moorwettern und Moorgürtel: Anlage von weiteren Kleingewässern,
+– 2017: südlich Moorwettern und Moorgürtel: Anlage von weiteren Kleingewässern,
 
- 2017: Gut Moor: Ausgleichflächen „Grünland“ mit Gräben, Kleingewässern, Gra-
+– 2017: Gut Moor: Ausgleichflächen „Grünland“ mit Gräben, Kleingewässern, Gra-
 
 benaufweitungen und Flachwasserzonen,
 
- 2017: Neuländer Moorwiesen: Sicherung der wertvollen Grünlandstandorte und
+– 2017: Neuländer Moorwiesen: Sicherung der wertvollen Grünlandstandorte und
 
 der Amphibienlebensräume durch Festsetzung eines Naturschutzgebietes,
 
- jährlich: Neuländer Elbdeich und Falkenbergsweg: mobile Schutzzäune.
+– jährlich: Neuländer Elbdeich und Falkenbergsweg: mobile Schutzzäune.
 
 Insbesondere in den großflächigen Bereichen in den Neuländer Moorwiesen kam es zu deutlichen Zunahmen der gesamten Amphibienfauna. Dies wurde über mehrjährige Kartierungen belegt. Die ergriffenen Schutzmaßnahmen aus Leitsystemen und Schutzzäunen haben an den relevanten Stellen zur deutlichen Reduzierung der Mortalitätszahlen geführt.
 

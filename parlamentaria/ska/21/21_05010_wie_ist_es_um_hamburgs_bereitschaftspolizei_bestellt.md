@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 15
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/207"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53464"
@@ -53,7 +54,7 @@ Welche Vorgaben bestehen aufgrund des Verwaltungsabkommens zwischen Bund und Lä
 
 Inwiefern wird aus jeweils welchen Gründen seit jeweils wann davon abgewichen und zu welchen Auswirkungen führt das?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Vorgaben, Abweichungen und deren Auswirkungen sind in folgender Tabelle dargestellt:
 

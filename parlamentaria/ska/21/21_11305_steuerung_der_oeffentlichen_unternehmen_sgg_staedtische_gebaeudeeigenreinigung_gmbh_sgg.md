@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11138", "21/7389"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60302"
@@ -61,7 +62,7 @@ Erfolgten die Bestellung und/oder die Anstellung als Geschäftsführer rückwirk
 
 Inwiefern ist eine rückwirkende Bestellung von GmbH-Geschäftsführern zulässig? Inwiefern ist der Abschluss von rückwirkenden Anstellungsverträgen bei öffentlichen Unternehmen üblich und zulässig?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Bestellung erfolgte nicht rückwirkend. Der Abschluss von rückwirkenden Anstellungsverträgen ist zulässig. Er erfolgte zum 1. Oktober 2016, da der neue Geschäftsführer bereits als Prokurist im Unternehmen tätig war und mit dem Ende des Anstellungsverhältnisses seines Vorgängers in dieser Funktion bereits die Geschäfte geführt hat.
 
@@ -92,10 +93,16 @@ Die Beauftragung der SGG Städtische Gebäudeeigenreinigung GmbH (SGG) erfolgt a
 ### Frage 8
 
 Im Beteiligungsbericht 2016 (Drs. 21/11138) wird zudem das wichtige staatliche Interesse der Freien und Hansestadt Hamburg an der Beteiligung an der SGG deutlich umfangreicher begründet als in früheren Beteiligungsberichten. Demnach hat die SGG auch eine „preisregulierende Wirkung auf die privaten Anbieter am Markt“.
-8.1. In welcher Form ergibt sich durch die Tätigkeit der SGG im Einzelnen eine preisregulierende Wirkung auf die privaten Anbieter?
-8.2. Warum genau ist ein regulierender Eingriff in die Marktpreise an dieser Stelle notwendig und im staatlichen Interesse?
 
-#### Antwort zu Frage 8
+### Frage 8.1
+
+In welcher Form ergibt sich durch die Tätigkeit der SGG im Einzelnen eine preisregulierende Wirkung auf die privaten Anbieter?
+
+### Frage 8.2
+
+Warum genau ist ein regulierender Eingriff in die Marktpreise an dieser Stelle notwendig und im staatlichen Interesse?
+
+#### Antwort zu Fragen 8, 8.1 und 8.2
 
 Die Freie und Hansestadt Hamburg erhält durch die Tätigkeit der SGG eine gute Vergleichsmöglichkeit in Bezug auf Preise und Leistungen in der Gebäudereinigung und kann dadurch Gebote von Marktteilnehmern im Sinne von Dumping- oder Wucherangeboten besser erkennen und vermeiden.
 

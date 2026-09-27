@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/3238", "20/10109"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64340"
@@ -117,7 +118,7 @@ Wie viele solcher Verstöße gegen das Verbot der Wildplakatierung wurden in wel
 
 Wie viele dieser Meldungen wurden in welchen Bezirken noch nicht bearbeitet beziehungsweise überprüft?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Meldungen über die Hamburg-App der Stadtreinigung werden nicht gesondert erfasst, sondern zusammen mit den restlichen Meldungen. Eine genaue Anzahl von Meldungen sowie der Stand der Bearbeitung kann daher nicht benannt werden.
 
@@ -129,7 +130,7 @@ Wie viel Werbefläche stand in der Freien und Hansestadt Hamburg für Außenwerb
 
 Um welche Art von Außenwerbefläche handelte es sich jeweils (Litfaßsäule, Plakatrahmen an Schaltkästen et cetera)?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Anlage.
 

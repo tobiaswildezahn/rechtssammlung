@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13284"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52591"
@@ -54,13 +55,13 @@ Polizeieinsätze werden im Hamburger Einsatzleitsystem (HELS) der Polizeieinsatz
 
 Eine objektbezogene Auswertung über den Suchbegriff „Grindelhochhäuser“ ist technisch nicht möglich. Für die Grindelhochhäuser wurden folgende Adressobjekte erfasst:
 
- Hallerstraße 1, 3 und 5,
+– Hallerstraße 1, 3 und 5,
 
- Grindelberg 56, 58, 60, 62, 64, 66, 68 und 70,
+– Grindelberg 56, 58, 60, 62, 64, 66, 68 und 70,
 
- Brahmsallee 15, 17, 19, 25, 27, 29, 31, 33, 35, 37, 39 und 41 sowie
+– Brahmsallee 15, 17, 19, 25, 27, 29, 31, 33, 35, 37, 39 und 41 sowie
 
- Oberstraße, 14, 16 und 18.
+– Oberstraße, 14, 16 und 18.
 
 Für den erfragten Zeitraum sind in HELS insgesamt 706 Einsätze registriert; die Einsatzanlässe und deren Häufigkeit sind in der folgenden Tabelle dargestellt:
 

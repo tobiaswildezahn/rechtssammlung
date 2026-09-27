@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13829"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49827"
@@ -211,10 +212,10 @@ Welche Wegeabschnitte im Alstertal und den Walddörfern sind seit 2011 aus dem W
 
 Zur Fortschreibung des WRV wurden am 1. April 2012 folgende Wegeabschnitte im Ortsteil Hummelsbüttel gelöscht:
 
- Immenkoppel,
+– Immenkoppel,
 
- Immenredder,
+– Immenredder,
 
- Immenstieg.
+– Immenstieg.
 
 Die Herausnahme erfolgte, da die Straßen Immenkoppel, Immenredder und Immenstieg zum einen in keinem zusammenhängenden Reinigungsgebiet liegen und zum anderen weder bei der Hotline „Saubere Stadt“ noch der Qualitätskontrolle der SRH auffällig waren.

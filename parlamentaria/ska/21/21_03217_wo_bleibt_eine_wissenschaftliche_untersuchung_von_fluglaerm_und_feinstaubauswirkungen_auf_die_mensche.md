@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 20
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1282"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51558"
@@ -57,11 +58,11 @@ Welche Lärmentgelte werden für den Flughafen Hamburg erhoben?
 
 Der Flughafen hat folgende Formen von Entgelten, die in Abhängigkeit von Lärm erhoben werden und in der Entgeltordnung veröffentlicht sind:
 
- Lärmzuschlag (nach in Hamburg gemessenen, durchschnittlichen Maximalpegeln
+– Lärmzuschlag (nach in Hamburg gemessenen, durchschnittlichen Maximalpegeln
 
 wird pro Flugzeugtyp und -serie eine Einstufung in Lärmklassen vorgenommen, die mit steigenden Lärmpegeln auch steigende Entgelte zur Folge hat),
 
- Lärmschutzentgelt (zum Ausgleich der Kosten für Leistungen nach dem Fluglärm-
+– Lärmschutzentgelt (zum Ausgleich der Kosten für Leistungen nach dem Fluglärm-
 
 gesetz wird in Abhängigkeit von der Lärmklasse das Lärmschutzentgelt erhoben).
 
@@ -133,7 +134,7 @@ Hat der Senat wissenschaftliche Untersuchungen zu Lärm- und Feinstaubbelastung 
 
 Was soll in den Untersuchungen erfasst werden und warum?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Wissenschaftliche Untersuchungen zur Wirkung auf den Menschen sind nicht in Auftrag gegeben worden. Die expositionsabhängigen Auswirkungen von Fluglärm oder Feinstaub auf den Menschen sind in zahlreichen epidemiologischen Studien untersucht und beschrieben worden. Es ist nicht zu erwarten, dass sich in einer Hamburger Untersuchung grundlegend andersartige Erkenntnisse ergeben würden.
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 20
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6948", "20/9414", "20/9644", "21/760"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54215"
@@ -268,7 +269,7 @@ In den Produktgruppen welcher Aufgabenbereiche welcher Einzelpläne des Haushalt
 
 Wie haben sich in den Doppelhaushalten seit dem Jahr 2010 die Mittel für Kontrollen zur Einhaltung des HmbPSchG beziehungsweise der HmbPSchV im Plan, Soll und Ist entwickelt? Bitte jahresweise aufschlüsseln und jeweils die entsprechenden Produktgruppen beziehungsweise früher Titel, Aufgabenbereiche und Einzelpläne angeben.
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Gesonderte Ansätze wurden und werden nicht ausgewiesen. Konkrete Sachmittel sind in den Aufgabenbereichen und den Produktgruppen nicht veranschlagt.
 

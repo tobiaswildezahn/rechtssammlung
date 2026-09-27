@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4405", "21/9862"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65171"
@@ -98,7 +99,7 @@ In wie vielen Fällen erging jeweils in 2017 und 2018 eine Funkzellenüberwachun
 
 In wie viele Fällen lehnte das Gericht jeweils in 2017 und 2018 eine beantragte Funkzellenüberwachung (hilfsweise alle Maßnahmen nach § 100g StPO) ab?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 In MESTA wird nicht erfasst, ob die Daten auf Grundlage einer staatsanwaltschaftlichen Anordnung oder eines richterlichen Beschlusses erhoben werden und ob Anträge durch den Ermittlungsrichter abgelehnt wurden. Die Beiziehung und händische Auswertung der Verfahren der Staatsanwaltschaft ist in der für eine Parlamentarische Anfrage zur Verfügung stehenden Zeit nicht möglich. Im Übrigen siehe Antworten zu
 1. a. und b. und 2. a. und b.

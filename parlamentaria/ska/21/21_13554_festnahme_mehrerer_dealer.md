@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 20
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62926"
@@ -49,7 +50,7 @@ Seit wann befindet sich der Jugoslawe in Deutschland?
 
 Drohen ihm nun aufenthaltsbeendende Maßnahmen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Person mit serbischer Staatsangehörigkeit befindet sich seit dem 15. Mai 2016 in Deutschland. Sie ist ausreisepflichtig. Im Übrigen siehe Vorbemerkung.
 
@@ -113,19 +114,19 @@ Sind die Tatverdächtigen bereits strafrechtlich verurteilt worden? Wenn ja, weg
 
 Im Hinblick auf das Persönlichkeitsrecht der Betroffenen und die gesetzlichen Wertungen des Bundeszentralregistergesetzes sieht der Senat davon ab, etwaige Ermittlungsverfahren mitzuteilen, die durch einen Freispruch oder eine Einstellung beendet worden sind. Dasselbe gilt für Ermittlungsverfahren, die zu einem Abschluss geführt haben, der entweder nicht in ein Führungszeugnis aufzunehmen oder nach den Tilgungsvorschriften des Bundeszentralregistergesetzes nicht mehr zu berücksichtigen ist. Die Auskünfte des Bundeszentralregisters vom 24. Mai 2018 betreffend den guinea-bissauischen Beschuldigten, vom 18. Juni 2018 betreffend den Beschuldigten unbekannter Staatsangehörigkeit und vom 21. Juni 2018 betreffend den 21-jährigen deutschen Beschuldigten enthalten keine mitteilungsfähige Eintragungen, für den serbischen Beschuldigten liegen aus dem Registerauszug vom 26. Juni 2018 folgende mitteilungsfähige Eintragungen vor:
 
- Urteil des AG Braunschweig vom 11. Oktober 2016 wegen Diebstahls zu einer
+– Urteil des AG Braunschweig vom 11. Oktober 2016 wegen Diebstahls zu einer
 
 Geldstrafe von 25 Tagessätzen;
 
- Urteil des AG Dortmund vom 9. Juni 2017 wegen räuberischen Diebstahls in Tat-
+– Urteil des AG Dortmund vom 9. Juni 2017 wegen räuberischen Diebstahls in Tat-
 
 einheit mit vorsätzlicher Körperverletzung zu einer Freiheitsstrafe von 1 Jahr mit Bewährung;
 
- Urteil des AG Paderborn vom 18. Juli 2017 wegen Diebstahls zu einer Geldstrafe
+– Urteil des AG Paderborn vom 18. Juli 2017 wegen Diebstahls zu einer Geldstrafe
 
 von 60 Tagessätzen;
 
- Urteil des AG Bielefeld vom 8. November 2017 wegen Diebstahls zu einer Frei-
+– Urteil des AG Bielefeld vom 8. November 2017 wegen Diebstahls zu einer Frei-
 
 heitsstrafe von sieben Monaten.
 
@@ -139,6 +140,6 @@ Drohen ihnen nun aufenthaltsbeendende Maßnahmen? Wenn nein, warum nicht?
 
 Hat es bereits in der Vergangenheit Versuche gegeben, einen oder mehrere dieser Tatverdächtigen auszuweisen beziehungsweise abzuschieben? Wenn ja, woran sind diese Versuche gescheitert?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Im AZR sind keine Ausweisungsverfügungen hinterlegt. Abschiebungsversuche werden im AZR nicht gespeichert. Im Übrigen siehe Vorbemerkung.

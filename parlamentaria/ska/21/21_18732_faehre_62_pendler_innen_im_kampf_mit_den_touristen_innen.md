@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68410"
@@ -39,21 +40,21 @@ Vor diesem Hintergrund frage ich den Senat:
 
 Die Fähren der Linie 62 sind bei besonders gutem Wetter oder bei Großveranstaltungen wie dem Hafengeburtstag, insbesondere an Wochenenden und Feiertagen, zu bestimmten Tageszeiten besonders gut nachgefragt. Folglich kann es dazu kommen, dass nicht alle Fahrgäste Einstieg auf das unmittelbar nächste Schiff erhalten. Die HADAG Seetouristik und Fährdienst AG (HADAG) reagierte hierauf, indem sie
 
- den nachfrageorientierten Zehn-Minuten-Takt einführte,
+– den nachfrageorientierten Zehn-Minuten-Takt einführte,
 
- den Umlauf der Linie 62 im Sommerhalbjahr auf 90 Minuten anpasste, um die län-
+– den Umlauf der Linie 62 im Sommerhalbjahr auf 90 Minuten anpasste, um die län-
 
 gere Ein- beziehungsweise Ausstiegszeit im Fahrplan zu berücksichtigen,
 
- soweit möglich Schiffe mit der höchsten Fahrgastkapazität der Flotte auf der Linie
+– soweit möglich Schiffe mit der höchsten Fahrgastkapazität der Flotte auf der Linie
 
 62 einsetzt,
 
- gezielt Verstärkerfahrten leistet, soweit entsprechende Schiffe zur Verfügung ste-
+– gezielt Verstärkerfahrten leistet, soweit entsprechende Schiffe zur Verfügung ste-
 
 hen und
 
- die Flotte kontinuierlich hinsichtlich mehr Sitz- und Stellplätzen umrüstet.
+– die Flotte kontinuierlich hinsichtlich mehr Sitz- und Stellplätzen umrüstet.
 
 Damit können mehr Fahrgäste ohne längere Wartezeiten befördert werden.
 
@@ -88,7 +89,7 @@ oder gibt es zumindest entsprechende Pläne?
 Wenn ja, welche?  
 Wenn nein, weshalb nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die HADAG steht unter anderem kontinuierlich im Austausch mit dem Aufgabenträger, dem Hamburger Verkehrsverbund (HVV), zuständigen Behörden, Unternehmen, Verbänden, Vereinen, Initiativen sowie Bürgerinnen und Bürgern. Inhalt der Gespräche ist unter anderem die aktuelle Auslastungssituation in Finkenwerder: Bei gutem Wetter, bei Großveranstaltungen, an Wochenenden oder an Feiertagen können die Fähren von den Landungsbrücken kommend bereits ausgelastet sein.
 

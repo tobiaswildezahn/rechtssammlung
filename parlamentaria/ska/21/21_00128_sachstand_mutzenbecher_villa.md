@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 14
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13587", "20/12572"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48258"
@@ -39,17 +40,17 @@ Im November 2014 hatte die Bezirksversammlung Eimsbüttel dann in einem umfangre
 
 ## Einleitung für die Antworten des Senats
 
- das vorgelegte Nutzungskonzept unterstützt wird,
+– das vorgelegte Nutzungskonzept unterstützt wird,
 
- für die Erhaltung des Gebäudes der künftige Träger – wie im Interessen-
+– für die Erhaltung des Gebäudes der künftige Träger – wie im Interessen-
 
 bekundungsverfahren beschrieben – eine waldnahe und naturverträgliche Nutzung gewährleisten muss,
 
- mit dem jetzigen letzten verbliebenen Mieter eine einvernehmliche Lösung
+– mit dem jetzigen letzten verbliebenen Mieter eine einvernehmliche Lösung
 
 zu finden ist und
 
- Neu- oder Untervermietungen zu Wohn- und Geschäftszwecken unzuläs-
+– Neu- oder Untervermietungen zu Wohn- und Geschäftszwecken unzuläs-
 
 sig sind.
 

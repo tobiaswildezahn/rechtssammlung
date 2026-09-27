@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 27
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66409"
@@ -123,7 +124,7 @@ Für wie viele Baumaßnahmen wurden bisher Abgaben zum Naturcent fällig? Bitte 
 
 Wie verteilen sich die Grundstücke, für die die Naturcent-Abgabe fällig wird, auf die einzelnen Bezirke? Bitte für die Fälligkeiten 31.12. 2016/2017/2018 und 31.3.19 angeben.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 2016  
 2017  
@@ -153,7 +154,7 @@ Welche Maßnahmen wurden in den Jahren 2016, 2017, 2018 und 2019 aus den Mitteln
 
 Welche Mittel wurden für die einzelnen Maßnahmen jeweils aufgewandt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Nachdem in 2017 erstmals Mittel zur Verfügung gestellt wurden, siehe dazu auch Antwort zu 2., wurde im Jahr 2018 mit der Maßnahmenumsetzung begonnen.
 
@@ -295,7 +296,7 @@ Wie haben sich seit 2016 die regulären Mittel zur Pflege von Grünanlagen und N
 
 Welche Mittel entfielen dabei auf welche Bezirke?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Mittel zur Pflege von Grün- und Erholungsflächen:
 

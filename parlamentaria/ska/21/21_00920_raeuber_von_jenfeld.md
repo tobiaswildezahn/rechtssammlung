@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49085"
@@ -51,7 +52,7 @@ Die getötete Person hielt sich, soweit bekannt, seit ihrer Einreise am 10. Juli
 
 Welchen aufenthaltsrechtlichen Status hatte die Person zum Zeitpunkt der Tat?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Person reiste im Alter von zwölf Jahren ohne Visum ein und stellte einen Asylantrag. Für die Dauer des Asylverfahrens war die Person gemäß § 55 Asylverfahrensgesetz im Besitz einer Aufenthaltsgestattung. Seit dem 5. August 2005 besaß sie lediglich eine Duldung.
 

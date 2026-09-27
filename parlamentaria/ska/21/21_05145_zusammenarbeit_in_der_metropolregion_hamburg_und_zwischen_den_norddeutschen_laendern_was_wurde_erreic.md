@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 31
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4623", "21/3199", "21/3600", "21/4993", "21/5092", "21/2402", "20/7935", "18/4496", "21/2177", "19/2428", "21/5009"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53627"
@@ -63,11 +64,11 @@ Wie hoch ist das Budget, das der Einrichtung Metropolregion Hamburg 2016 zur Ver
 
 Die Finanzmittel der Geschäftsstelle der MRH betragen im Jahr 2016 337.000 Euro. Sie werden von den Vertragspartnern der MRH gemeinschaftlich finanziert. Die Förderung von Projekten erfolgt aus den Förderfonds der MRH. Hierfür wurden im Jahr 2016 insgesamt 2.700.000 Euro bereitgestellt:
 
-• Förderfonds Hamburg/Schleswig-Holstein: 1.200.000 Euro,
+– Förderfonds Hamburg/Schleswig-Holstein: 1.200.000 Euro,
 
-• Förderfonds Hamburg/Niedersachsen: 1.200.000 Euro,
+– Förderfonds Hamburg/Niedersachsen: 1.200.000 Euro,
 
-• Hamburg/Mecklenburg-Vorpommern: 300.000 Euro.
+– Hamburg/Mecklenburg-Vorpommern: 300.000 Euro.
 
 Die beteiligten Länder tragen jeweils hälftig zur Finanzierung der Förderfonds bei.
 
@@ -93,11 +94,11 @@ Die Finanzierung der Zusammenarbeit in der MRH und die Fortführung der Förderf
 
 Für die Förderfonds wurden von vorgenannten Behörden folgende Mittel aufgebracht:
 
-• 2006 bis 2009: jeweils 1.471.000 Euro (Förderfonds Hamburg/Schleswig-Holstein 871.000 Euro, Förderfonds Hamburg/Niedersachsen 600.000 Euro),
+– 2006 bis 2009: jeweils 1.471.000 Euro (Förderfonds Hamburg/Schleswig-Holstein 871.000 Euro, Förderfonds Hamburg/Niedersachsen 600.000 Euro),
 
-• 2010 bis 2012: jeweils 1.200.000 Euro,
+– 2010 bis 2012: jeweils 1.200.000 Euro,
 
-• seit dem Jahr 2013: jeweils 1.350.000 Euro (nach Einrichtung des Förderfonds Hamburg/Mecklenburg-Vorpommern).
+– seit dem Jahr 2013: jeweils 1.350.000 Euro (nach Einrichtung des Förderfonds Hamburg/Mecklenburg-Vorpommern).
 
 ### Frage 4
 
@@ -162,35 +163,35 @@ Die MRH unterscheidet zwischen Leitprojekten und sonstigen Einzelprojekten. Leit
 
 Es gibt folgende Leitprojekte:
 
-• Ausbau der Zusammenarbeit in der Gewerbeflächenentwicklung (Wertschöpfungsketten und Clusterkooperationen),
+– Ausbau der Zusammenarbeit in der Gewerbeflächenentwicklung (Wertschöpfungsketten und Clusterkooperationen),
 
-• Länderübergreifendes Regionalmanagement für den Wirtschaftsraum Unterelbe (Wertschöpfungsketten und Clusterkooperationen),
+– Länderübergreifendes Regionalmanagement für den Wirtschaftsraum Unterelbe (Wertschöpfungsketten und Clusterkooperationen),
 
-• Demografie und Daseinsvorsorge (Zukunftsfähige Raum- und Siedlungsstruktur),
+– Demografie und Daseinsvorsorge (Zukunftsfähige Raum- und Siedlungsstruktur),
 
-• Innenentwicklung (Zukunftsfähige Raum- und Siedlungsstruktur),
+– Innenentwicklung (Zukunftsfähige Raum- und Siedlungsstruktur),
 
-• Röttiger-Kaserne/Fischbeker Heide (Zukunftsfähige Raum- und Siedlungsstruktur; Projekt ruht),
+– Röttiger-Kaserne/Fischbeker Heide (Zukunftsfähige Raum- und Siedlungsstruktur; Projekt ruht),
 
-• Kurs Elbe – Hamburg-Wittenberge 2.0 (Zukunftsfähige Freizeit- und Tourismusstrukturen),
+– Kurs Elbe – Hamburg-Wittenberge 2.0 (Zukunftsfähige Freizeit- und Tourismusstrukturen),
 
-• Welcome to MRH (Zukunftsfähige Freizeit- und Tourismusstrukturen),
+– Welcome to MRH (Zukunftsfähige Freizeit- und Tourismusstrukturen),
 
-• KulturLandschaftsRouten (Zukunftsfähige Freizeit- und Tourismusstrukturen),
+– KulturLandschaftsRouten (Zukunftsfähige Freizeit- und Tourismusstrukturen),
 
-• S4 Hamburg-Bad Oldesloe (Begleitung großer Verkehrsprojekte),
+– S4 Hamburg-Bad Oldesloe (Begleitung großer Verkehrsprojekte),
 
-• Sicherung des Hafenstandortes Hamburg (Begleitung großer Verkehrsprojekte),
+– Sicherung des Hafenstandortes Hamburg (Begleitung großer Verkehrsprojekte),
 
-• Regionale Erreichbarkeitsanalysen (Begleitung großer Verkehrsprojekte),
+– Regionale Erreichbarkeitsanalysen (Begleitung großer Verkehrsprojekte),
 
-• Flexible Bedienformen (Begleitung großer Verkehrsprojekte),
+– Flexible Bedienformen (Begleitung großer Verkehrsprojekte),
 
-• Blaues Metropolnetz (Naturerleben),
+– Blaues Metropolnetz (Naturerleben),
 
-• Biotopverbund Metropolregion Hamburg (Naturerleben),
+– Biotopverbund Metropolregion Hamburg (Naturerleben),
 
-• Geodateninfrastruktur in der MRH (Keine Zuordnung, Basisprojekt für zahlreiche andere Projekte der MRH).
+– Geodateninfrastruktur in der MRH (Keine Zuordnung, Basisprojekt für zahlreiche andere Projekte der MRH).
 
 Neben den Leitprojekten führt die MRH zahlreiche Einzelprojekte durch, zum Beispiel in Kooperation mit HySolutions, E.ON und der RWTH Aachen das Projekt „HansE“ zur Förderung von E-Ladeinfrastruktur für die MRH.
 
@@ -313,17 +314,17 @@ Wasserstoff-Marktplatz Unterelberegion: In dem Projekt werden unter anderem die 
 
 Für den Bereich Verkehr:
 
- Fortsetzung des gemeinsamen, Landesgrenzen überschreitenden öffentlich-private
+– Fortsetzung des gemeinsamen, Landesgrenzen überschreitenden öffentlich-private
 
 Partnerschaft (ÖPP)-Projektes zum Ausbau der A 7 zwischen den Autobahndreiecken HH-Nordwest und Bordesholm einschließlich der gemeinsamen Bestellung eines Verkehrskoordinators,
 
- Gemeinsamer Parlamentarischer Abend der Küstenländer „Fit für 2030 – Welche
+– Gemeinsamer Parlamentarischer Abend der Küstenländer „Fit für 2030 – Welche
 
 Verkehrsinfrastruktur braucht Deutschlands Norden?“- Hintergrundgespräch für Parlamentarier – am 29. September 2015 in der Landesvertretung Bremen in Berlin,
 
- Länderübergreifendes Projekt zur Verlängerung der S4,
+– Länderübergreifendes Projekt zur Verlängerung der S4,
 
- Länderübergreifendes Projekt zur Elektrifizierung der AKN/S21.
+– Länderübergreifendes Projekt zur Elektrifizierung der AKN/S21.
 
 Für den Bereich Umwelt:
 
@@ -381,13 +382,13 @@ Welche weiteren Aufgaben, Verwaltungseinheiten oder öffentliche Unternehmen im 
 
 Im Verkehrsbereich findet eine länderübergreifende Zusammenarbeit statt, durch:
 
- den Hamburger Verkehrsverbund GmbH (HVV)
+– den Hamburger Verkehrsverbund GmbH (HVV)
 
- die AKN Eisenbahn AG (AKN)
+– die AKN Eisenbahn AG (AKN)
 
- die Verkehrsbetriebe Hamburg-Holstein GmbH (VHH),
+– die Verkehrsbetriebe Hamburg-Holstein GmbH (VHH),
 
- die Hamburger Hochbahn AG (HOCHBAHN).
+– die Hamburger Hochbahn AG (HOCHBAHN).
 
 Zur Logistik Initiative Hamburg und zum Maritimen Cluster Norddeutschland siehe Antwort zu 12.
 
@@ -423,17 +424,17 @@ Welche Maßnahmen wurden bisher in dieser Legislaturperiode ergriffen beziehungs
 
 Im Bereich Verkehr:
 
- Gemeinsame Realisierung grenzüberschreitender Fernstraßenprojekte wie zum
+– Gemeinsame Realisierung grenzüberschreitender Fernstraßenprojekte wie zum
 
 Beispiel: Neubau der A 26 im Bauabschnitt 4a (Niedersachen), Bau und Betrieb verkehrstelematischer Einrichtungen (NI und SH),
 
- Anmeldung des achtstreifigen Ausbaus der A 1 zum Bundesverkehrswegeplan
+– Anmeldung des achtstreifigen Ausbaus der A 1 zum Bundesverkehrswegeplan
 
 2030 (mit NI und SH),
 
- Abgestimmte Koordinierung von Baustellen auf Fernstraßen,
+– Abgestimmte Koordinierung von Baustellen auf Fernstraßen,
 
- Mitwirkung von Vertreterinnen und Vertretern der MRH im Mobilitätsbeirat der
+– Mitwirkung von Vertreterinnen und Vertretern der MRH im Mobilitätsbeirat der
 
 Freien und Hansestadt Hamburg.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56900"
@@ -44,7 +45,7 @@ Sind bereits ein oder mehrere Täter oder Tatverdächtige dieser Straftat gefass
 
 Wenn ja, welche Staatsangehörigkeit und welchen aufenthaltsrechtlichen Status haben die Täter beziehungsweise Tatverdächtigen? Haben sie Vorstrafen? Wenn ja, welche?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es konnte bislang kein Tatverdächtiger ermittelt werden.
 
@@ -64,6 +65,6 @@ Ist die Polizei insbesondere beim Sichten von Videoaufnahmen von Überwachungska
 
 Konnten Zeugen ausfindig gemacht werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der Senat sieht von einer Beantwortung der Fragen ab, um den Ermittlungszweck nicht zu gefährden.

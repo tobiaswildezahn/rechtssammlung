@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5294", "21/4740"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53917"
@@ -47,7 +48,7 @@ Sind im Rahmen der Bundesoffensive Minijobs und/oder Arbeitsgelegenheiten (FIM) 
 
 Welche Träger bieten nach Frage 1. entsprechend Plätze an? Bitte auflisten jeweils nach Träger, Anzahl der jeweiligen Plätze und Art der Tätigkeit.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Alle Regelungen zu Flüchtlingsintegrationsmaßnahmen (FIM) einschließlich der Richtlinie des Bundes zu FIM stehen unter dem Vorbehalt des Inkrafttretens des Integrationsgesetzes (siehe hierzu: https://www.bundesanzeiger.de/ebanzwww/ wexsservlet?page.navid=official_starttoofficial_view_publication&session.sessionid= 536971884e3c5f53b9e3560d88eb56c5&fts_search_list.selected=634fc2a2040ee159 &&fts_search_list.destHistoryId=88414&fundstelle=BAnz_AT_27.07.2016_B2).
 
@@ -95,7 +96,7 @@ Sind die Arbeitsgelegenheiten (FIM) vorrangig vor einer Teilnahme an einem Deuts
 
 Gibt es ein Mindestsprachniveau an Deutschsprachkenntnissen als Voraussetzung für die Teilnahme an den Arbeitsgelegenheiten für Geflüchtete? Wenn ja, welches?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Nein.
 

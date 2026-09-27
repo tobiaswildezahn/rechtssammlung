@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 16
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56053"
@@ -44,34 +45,63 @@ Der Senat beantwortet die Fragen teilweise auf der Grundlage von Auskünften der
 ### Frage 1
 
 Wurde ein möglicher Börsengang bereits in der Gesellschafterversammlung diskutiert?
-1.1. Wenn ja, für welche Gesellschaften und wann wurde er diskutiert?
-1.2. Wenn ja, was waren die Ergebnisse?
-1.3. Wenn nein, warum nicht?
+
+### Frage 1.1
+
+Wenn ja, für welche Gesellschaften und wann wurde er diskutiert?
+
+### Frage 1.2
+
+Wenn ja, was waren die Ergebnisse?
+
+### Frage 1.3
+
+Wenn nein, warum nicht?
 
 ### Frage 2
 
 Wurde die zuständige Hamburger Behörde bereits informiert?
-2.1. Wenn ja, wann wurde sie durch wen informiert?
-2.2. Wenn nein, warum nicht?
+
+### Frage 2.1
+
+Wenn ja, wann wurde sie durch wen informiert?
+
+### Frage 2.2
+
+Wenn nein, warum nicht?
 
 ### Frage 3
 
 Sieht der Senat durch einen Börsengang der Asklepios Kliniken GmbH spezielle Risiken für die Freie und Hansestadt Hamburg, den Steuerzahler, die Patienten, die Beschäftigten?
-3.1. Wenn ja, welche sind das jeweils?
-3.2. Wenn ja, besteht Handlungsbedarf und wie könnte dieser aussehen?
-3.3. Wenn nein, warum nicht?
+
+### Frage 3.1
+
+Wenn ja, welche sind das jeweils?
+
+### Frage 3.2
+
+Wenn ja, besteht Handlungsbedarf und wie könnte dieser aussehen?
+
+### Frage 3.3
+
+Wenn nein, warum nicht?
 
 ### Frage 4
 
-Sieht der Senat durch einen Börsengang der Asklepios Kliniken GmbH  
-spezielle Vorteile?  
-4.1. Wenn ja, welche sind das jeweils?  
-4.2. Wenn nein, warum nicht?
+Sieht der Senat durch einen Börsengang der Asklepios Kliniken GmbH spezielle Vorteile?
+
+### Frage 4.1
+
+Wenn ja, welche sind das jeweils?
+
+### Frage 4.2
+
+Wenn nein, warum nicht?
 
 ### Frage 5
 
 Welche organisatorischen, strukturellen oder personellen Änderungen kommen bei einem Börsengang der Asklepios Kliniken GmbH auf die Asklepios Kliniken Hamburg GmbH zu? Welche Auswirkungen hat ein Börsengang auf die Beteiligung der Freien und Hansestadt Hamburg an der Asklepios Kliniken Hamburg GmbH?
 
-#### Antwort zu Fragen 1 bis 5
+#### Antwort zu Fragen 1, 1.1, 1.2, 1.3, 2, 2.1, 2.2, 3, 3.1, 3.2, 3.3, 4, 4.1, 4.2 und 5
 
 Nein. Im Übrigen entfällt.

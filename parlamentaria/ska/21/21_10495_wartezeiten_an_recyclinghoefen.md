@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59373"
@@ -291,7 +292,7 @@ Wie haben sich die durchschnittlichen Wartezeiten in den Recyclinghöfen der SRH
 
 Welche Maßnahmen unternimmt der Senat beziehungsweise die SRH, um die Wartezeiten bei den Kunden zu reduzieren? Welche weiteren Maßnahmen plant der Senat beziehungsweise die SRH?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Wartezeiten werden nicht statistisch erhoben.
 

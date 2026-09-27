@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63348"
@@ -43,7 +44,7 @@ Wie viele Fälle sind dem Senat bekannt, in denen abgelehnte Asylbewerber eine K
 
 Welche Staatsangehörigkeit besitzen die abgelehnten Asylbewerber? Bitte nach Staatsangehörigkeit, Kirchengemeinde, Alter, Geschlecht, Einreisedatum sowie gegebenenfalls Grund und Datum des negativen Verfahrensbescheids nennen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Abgelehnte Asylbewerber teilen der für die Durchsetzung von Ausreisepflichten zuständigen Behörde keine „Abschiebegründe“ mit. Sofern die Frage dahin gehend verstanden werden soll, dass die Konversion zum Christentum als Abschiebungshindernis vorgetragen wird, liegen der zuständigen Behörde keine diesbezüglichen Zahlen vor, da Angaben zum Religionswechsel im ausländerbehördlichen Fachverfahren nicht in auswertbarer Form erfasst werden. Die Anführung eines Religionswechsels außerhalb eines Asylverfahrens hat grundsätzlich keine Auswirkung auf die Durchsetzung der Ausreisepflicht.
 

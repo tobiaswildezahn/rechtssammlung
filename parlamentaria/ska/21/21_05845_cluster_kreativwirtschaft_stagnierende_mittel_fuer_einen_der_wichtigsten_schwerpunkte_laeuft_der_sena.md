@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4782", "20/13047"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54342"
@@ -43,7 +44,7 @@ Der Senat sieht das Cluster Kreativwirtschaft als sehr wichtig an. Weshalb werde
 
 Sind Änderungen in Bezug auf die Organisation des Clusters geplant? Wenn ja welche? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Betreuung des Clusters Kreativwirtschaft erfolgt durch die Hamburg Kreativ Gesellschaft mbH, deren Arbeit 2014 verstetigt wurde (siehe Drs. 20/13047). Da sich die bisherige Arbeit bewährt hat, sind keine Änderungen in Bezug auf Struktur, Organisation und Finanzierung der Hamburg Kreativ Gesellschaft geplant. Die Gesellschaft entwickelt ihr Angebotsportfolio für das Cluster regelmäßig weiter.
 

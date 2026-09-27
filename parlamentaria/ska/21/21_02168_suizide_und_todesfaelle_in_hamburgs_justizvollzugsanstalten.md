@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50471"
@@ -230,45 +231,45 @@ Suizide natürliche Todesfälle
 
 b. Welche Maßnahmen zur Suizidprävention wurden konkret seit dem Jahr 2010 entwickelt?
 
- Sicherstellung der psychologischen Versorgung von Gefangenen auch am
+– Sicherstellung der psychologischen Versorgung von Gefangenen auch am
 
 Wochenende und an Feiertagen,
 
- Einführung des „Vier-Augen-Prinzips“ bei der Beurteilung einer Suizidgefährdung,
+– Einführung des „Vier-Augen-Prinzips“ bei der Beurteilung einer Suizidgefährdung,
 
- Teilnahme einer externen Fachkraft an der Nachbesprechung von Suiziden in Sui-
+– Teilnahme einer externen Fachkraft an der Nachbesprechung von Suiziden in Sui-
 
 zidkonferenzen,
 
- Schaffung gefährdungsarmer Hafträume in den Justizvollzugsanstalten Billwerder,
+– Schaffung gefährdungsarmer Hafträume in den Justizvollzugsanstalten Billwerder,
 
 Fuhlsbüttel, Hahnöfersand, der Sozialtherapeutischen Anstalt Hamburg und der Untersuchungshaftanstalt,
 
- Festlegung von Standards für den Umgang mit Gefangenen, die die Aufnahme von
+– Festlegung von Standards für den Umgang mit Gefangenen, die die Aufnahme von
 
 Nahrung verweigern, unter Berücksichtigung möglicher suizidaler Entwicklungen,
 
- Verbesserung der Unterbringungsbedingungen in der Untersuchungshaftanstalt
+– Verbesserung der Unterbringungsbedingungen in der Untersuchungshaftanstalt
 
 durch die Modernisierung des A-Flügels,
 
- Absprache der Untersuchungshaftanstalt mit der Hamburger Arbeitsgemeinschaft
+– Absprache der Untersuchungshaftanstalt mit der Hamburger Arbeitsgemeinschaft
 
 der Strafverteidigerinnen und Strafverteidiger über die Informationswege bei Hinweisen auf eine besondere psychische Belastung von Untersuchungsgefangenen,
 
- Ausweitung der Kontaktmöglichkeiten der Gefangenen untereinander sowie der
+– Ausweitung der Kontaktmöglichkeiten der Gefangenen untereinander sowie der
 
 Freizeitangebote in der Untersuchungshaftanstalt durch erweiterte Umschluss- und Aufschlusszeiten, zusätzliche Gemeinschaftsräume für Freizeitaufenthalte der Gefangenen, die Einrichtung von Gruppenfernsehräumen in der Station D4, die Ausweitung des Angebotes für Leih- und Mietfernseh- oder Radiogeräte, zusätzliche Freizeitgruppen sowie die Ausweitung des Sportangebotes durch die Einrichtung eines neuen Dienstpostens „Sportbeamter“,
 
- Weitere Differenzierung des Aufnahmeverfahrens der Untersuchungshaftanstalt
+– Weitere Differenzierung des Aufnahmeverfahrens der Untersuchungshaftanstalt
 
 durch die Einführung eines Suizidscreenings unmittelbar nach der Aufnahme in den Vollzug,
 
- Erweiterung der psychiatrischen Versorgung in der Untersuchungshaftanstalt
+– Erweiterung der psychiatrischen Versorgung in der Untersuchungshaftanstalt
 
 durch die Kooperation mit der Forensischen Klinik der Asklepios Klinik Nord – Ochsenzoll,
 
- Verbesserung der Unterbringungsbedingungen in der Untersuchungshaftanstalt
+– Verbesserung der Unterbringungsbedingungen in der Untersuchungshaftanstalt
 
 durch eine umfassende Sanierung des B-Flügels.
 

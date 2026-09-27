@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53515"
@@ -85,7 +86,7 @@ Wie viele von den Konzerten könnten auch in der Elbphilharmonie stattfinden?
 
 Wie viele von den Konzerten könnten auch in einer Hamburger Kirche stattfinden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Verfügbarkeit der jeweiligen Spielstätte vorausgesetzt: alle.
 
@@ -107,7 +108,7 @@ Wann ist zum ersten Mal bekannt geworden, dass die Orgel sich in einem bedenklic
 
 Ist die Abnutzung, die die Orgel erfahren hat, aus Sicht der Experten normaler Verschleiß? Wenn nein, bitte Details angeben.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Zustand des Instruments ist seit 1991 dokumentiert. Die Abnutzungserscheinungen des Instruments sind im Rahmen des normalen Verschleißes. Die übrigen Mängel sind entwurfs- und konstruktionsbedingt.
 
@@ -135,15 +136,15 @@ Welche Optionen, wie man mit der Orgel verfährt, liegen jetzt auf dem Tisch? Bi
 
 Das 2014 dazu vorgelegte Sachverständigengutachten kommt zu dem Ergebnis, dass es sich bei der Orgel um eine Pionierleistung der Firma Beckerath handelt, deren handwerkliche Ausführungsqualität als ausgesprochen hoch eingestuft wird. Die Orgel sei aufgrund ihrer Konzeption allerdings für die Laeiszhalle nicht geeignet, da sie den problematischen raumakustischen Gegebenheiten konstruktionsbedingt nicht gerecht wird. Daraus ergeben sich drei Handlungsoptionen:
 
- Beibehaltung des Status quo: Hierbei stünden denkmalschützerische Erwägungen
+– Beibehaltung des Status quo: Hierbei stünden denkmalschützerische Erwägungen
 
 (Erhalt des Opus 1 der Firma Beckerath) im Vordergrund.
 
- Umfassender Umbau und klangliche Neukonzeption des bestehenden Instruments.
+– Umfassender Umbau und klangliche Neukonzeption des bestehenden Instruments.
 
 Die Kosten werden auf 400.000 bis 500.000 Euro geschätzt.
 
- Verkauf der Orgel und Neubau einer den raumakustischen Gegebenheiten ent-
+– Verkauf der Orgel und Neubau einer den raumakustischen Gegebenheiten ent-
 
 sprechenden Orgel. Die Kosten werden auf 2 bis 2,5 Millionen Euro geschätzt.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59728"
@@ -86,7 +87,7 @@ Welche Verwaltungsanweisung oder Ähnliches betreffend die Fristen für Stellung
 
 Hält der Senat die den Bezirksämtern beziehungsweise Bezirksversammlungen eingeräumten Fristen zur Stellungnahme zu Entwürfen von Senatsdrucksachen für angemessen? Wenn ja, warum? Wenn nein, was gedenkt der Senat zu unternehmen, um den Bezirksämtern beziehungsweise Bezirksversammlungen längere Fristen für Stellungnahmen einzuräumen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Bei der Abstimmung von Senatsdrucksachen ist nach § 35 BezVG eine angemessene Stellungnahmefrist einzuräumen. § 16 Absatz 1 Satz 3 der Geschäftsordnung des Senats vom 18. August 2015 sieht für die Beteiligung von Senatsämtern oder Fachbehörden eine dem Inhalt und Umfang der Senatsdrucksache angemessene Abstimmungsfrist vor, die in der Regel zehn Tage betragen soll. Die Einbeziehung der Bezirksämter erfolgt grundsätzlich im Rahmen dieser Frist.
 

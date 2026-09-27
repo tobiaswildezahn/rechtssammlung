@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 22
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12878"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62321"
@@ -88,7 +89,7 @@ Wurde vonseiten des Leitungspersonals der Lehrerkonferenz auf die Bestimmungen d
 
 Wurde vonseiten des anwesenden Schulleitungspersonals während der Konferenz auf die Bestimmungen der Geschäftsordnung Nummer 14 der BSB hingewiesen? Von wem wurde darauf hingewiesen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Es wurde auf das Gebot zur politischen Neutralität an Schulen ohne expliziten Hinweis auf die Bestimmungen der Geschäftsordnung Nummer 14 hingewiesen, im Übrigen siehe Antwort zu 6.
 

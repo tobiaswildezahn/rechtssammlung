@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9854"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59742"
@@ -81,27 +82,27 @@ Des Weiteren gibt es die jeden Brunnenstandort unmittelbar umgebende Schutzzone 
 
 Darüber hinaus sind für Kleingärten unter anderem folgende Verbote von Relevanz:
 
- organische Düngung im Zeitraum vom 15. September bis zum 31. Januar des fol-
+– organische Düngung im Zeitraum vom 15. September bis zum 31. Januar des fol-
 
 genden Jahres und soweit eine Überdüngung zu besorgen ist,
 
- Einleiten, Verregnen und Versickern von Schmutzwasser und sonstigen wasserge-
+– Einleiten, Verregnen und Versickern von Schmutzwasser und sonstigen wasserge-
 
 fährdenden Stoffen (zum Beispiel Pflanzenschutzmittel, Öl, Kraftstoffe),
 
- Errichten, Erweitern und Betreiben von Abwassersammelgruben und Abwasserbe-
+– Errichten, Erweitern und Betreiben von Abwassersammelgruben und Abwasserbe-
 
 handlungsanlagen,
 
- Lagern, Ablagerung und Behandeln von Abfällen sowie die Verwertung von Abfäl-
+– Lagern, Ablagerung und Behandeln von Abfällen sowie die Verwertung von Abfäl-
 
 len, die die Anforderungen einer schadlosen Verwertung nicht erfüllen,
 
- Kompostieren der Inhalte aus Trockentoiletten (zum Beispiel Streutoiletten, Ver-
+– Kompostieren der Inhalte aus Trockentoiletten (zum Beispiel Streutoiletten, Ver-
 
 dunstungstoiletten),
 
- die Verwendung von Trockentoilettensystemen mit anschließender Kompostierung
+– die Verwendung von Trockentoilettensystemen mit anschließender Kompostierung
 
 (wie Streutoiletten, Verdunstungstoiletten) ist in Wasserschutzgebieten nicht zulässig.  
 In  
@@ -114,7 +115,7 @@ Abwasser-
 Übergabestellen genutzt beziehungsweise gegebenenfalls errichtet werden, in  
 denen die Inhalte der als Alternative zu verwendenden sogenannten Chemietoiletten (Campingtoiletten) zu entsorgen sind.
 
- Bohrungen und Brunnen zur Grundwasserförderung.
+– Bohrungen und Brunnen zur Grundwasserförderung.
 
 Von den Verboten einer Wasserschutzgebietsverordnung kann gemäß § 52 Absatz 1 Satz 2 Wasserhaushaltsgesetz auf Antrag eine Befreiung erteilt werden, wenn der Schutzzweck nicht gefährdet wird oder überwiegende Gründe der Allgemeinheit dies erfordern.
 

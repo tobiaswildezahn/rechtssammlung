@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60441"
@@ -57,7 +58,7 @@ Wie viele Fortbildungen wurden im LI zu dem Thema in den auf die Entscheidung fo
 
 Wie viele dezentrale Fortbildungen hat das LI an den einzelnen Schulen oder Schulverbünden mit eigenen Fortbildern besetzt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 In den Schuljahren 2014/2015, 2015/2016 und 2016/2017 hat es 61 Fortbildungen am LI gegeben. Im selben Zeitraum wurden weitere 108 schulinterne Fortbildungen durchgeführt. Insgesamt haben 1.925 Lehrerinnen und Lehrer teilgenommen.
 

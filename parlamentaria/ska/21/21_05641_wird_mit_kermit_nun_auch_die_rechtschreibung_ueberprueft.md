@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 5
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54133"
@@ -48,7 +49,7 @@ Falls nein, weshalb nicht?
 
 Wird der Rechtschreibtest in den ab dem 5. September anlaufenden KERMIT-5-, -7- und -10-Erhebungen durchgeführt? Falls nein, weshalb nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die KERMIT-3-Erhebung wurde bereits im Schuljahr 2015/2016 um einen Rechtschreibtest ergänzt. Ab dem Schuljahr 2016/2017 wird bei KERMIT 3, 5 und 7 regelhaft Rechtschreibung getestet. In diesen drei Jahrgangsstufen ersetzt der Rechtschreibtest die für die Schulen verbindliche Durchführung der Hamburger Schreib- Probe (HSP).
 

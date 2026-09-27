@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 18
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15071", "21/7391", "21/8678", "21/11828"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66899"
@@ -55,7 +56,7 @@ Wie viele Stellen für Gerichtsvollzieher gibt es aktuell an den einzelnen Amtsg
 
 Wie viele Gerichtsvollzieherbezirke sind an jeweils welchem Amtsgericht gegebenenfalls aktuell aus welchen Gründen unbesetzt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Daten zum Stichtag 01.05.2019 Planstellen Besetzte
 

@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 21
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14185"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66602"
@@ -83,7 +84,7 @@ Wie weit sind die Sanierungsarbeiten zu den sechs Hörsälen bereits vorangeschr
 
 Welche Maßnahmen sind dabei im Einzelnen geplant, und wie teuer ist die Sanierung der Hörsäle?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Folgende Maßnahmen sind unter anderem geplant: Sanierung der Lüftungsanlagen sowie die Anbindung der Hörsäle an die neu zu installierenden Lüftungsanlagen, die Ertüchtigung der Beleuchtung (LED) und Elektroabdeckungen, Maßnahmen für Menschen mit eingeschränkter Mobilität (unter anderem Induktionsschleifen, Plätze und Außenrampen für Rollstuhlfahrer), Erneuerung der Rauchwarnmelder mit Anbindung an die Brandmeldeanlagen und zusätzliche Brandschutzanforderungen der Feuerwehr im Genehmigungsverfahren. Einzelkosten nur für diese Maßnahmen werden nicht separat ausgewiesen. Die Maßnahmen haben noch nicht begonnen.
 
@@ -169,6 +170,6 @@ Gegenwärtig gibt die Universität Hamburg die Gesamtkosten der Sanierung des Ph
 
 Hat sich die Gesamtsumme im Gegensatz zu den ursprünglichen Kalkulationen verringert oder erhöht? Bitte auch erklären, wie etwaige Veränderungen des Budgets zustande gekommen sind.
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Siehe Drs. 21/14185.

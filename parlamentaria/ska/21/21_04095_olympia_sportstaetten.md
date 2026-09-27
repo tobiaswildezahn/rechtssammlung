@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52483"
@@ -49,7 +50,7 @@ Die Realisierung welcher 30 Sportstätten wird derzeit vom Senat überprüft?
 
 Nach welchen Kriterien wurden die 30 Sportstätten ausgewählt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -69,6 +70,6 @@ In welcher Höhe sind Mittel für die Umsetzung dieser Maßnahmen vorgesehen? Au
 
 Welchen Zwischenstand gibt es beim Projekt „Masterplan Active City“? Gibt es neben den eingangs erwähnten 30 Projekten weitere Maßnahmen, die im Rahmen dieses Masterplans für eine Realisierung infrage kommen? Wenn ja, welche Projekte sind das? Wenn nein, bis wann liegen erste Ergebnisse hinsichtlich zu realisierender Projekte vor?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.

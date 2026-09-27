@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16363", "21/16990", "21/16076", "21/18514"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69266"
@@ -94,7 +95,7 @@ Wie erklärt der Senat, dass er den Begriff Sozialwohnungen in jüngster Vergang
 
 Wie erklären sich die unterschiedlichen, zum Teil erheblich voneinander abweichenden Zahlen des Senats bezüglich des Sozialwohnungsbestandes in Hamburg? Im „Wohnungsbaubericht Hamburg 2017“ vom November 2018 (Seite 26) wird er mit 80 928 Wohneinheiten beziffert, im ersten „Bericht zur demografischen Entwicklung in Hamburg 2018“ vom September 2019 (Seite 81) mit lediglich 75 823 Wohneinheiten. a. Welche der beiden Angaben stimmt? b. Was ist mit dem Begriff „Sozialwohnungsbestand“ in den beiden Fällen konkret gemeint? c. Mit welchen unterschiedlichen Angaben hinsichtlich des Sozialwohnungsbestandes Ende 2018 und Ende 2019 operiert der Senat und welche davon stimmt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 

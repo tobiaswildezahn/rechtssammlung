@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60009"
@@ -71,7 +72,7 @@ Inwiefern unterfallen die auf dem Transparent getätigten Aussagen nach Ansicht 
 
 Sollte nach Ansicht des Senats die Äußerung der Ansicht, Oury Jalloh sei getötet worden, der Meinungsfreiheit unterfallen, das konkrete Transparent aber nicht: Wie ist es nach Ansicht des Senats beziehungsweise der zuständigen Behörde für Bürger/-innen möglich, die Meinung, Oury Jalloh sei getötet oder ermordet worden, zu äußern?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Meinungsfreiheit ist ein Wesensbestandteil der freiheitlich-demokratischen Staatsordnung, da erst sie die freie Auseinandersetzung zwischen den unterschiedlichen Ansichten, die Entstehung einer öffentlichen Meinung und die politische Willensbildung ermöglicht. Der Schutz der Meinungsfreiheit gehört wie der Schutz der Grundrechte allgemein zu den Aufgaben auch der Polizei. Die Meinungsfreiheit findet ihre Schranken (Artikel 5 Absatz 2 GG) in den allgemeinen Gesetzen, den Jugendschutzbestimmungen und dem Recht der persönlichen Ehre. Allgemeine Gesetze sind nach der Rechtsprechung des Bundesverfassungsgerichts diejenigen Gesetze, die sich nicht gegen eine bestimmte Meinung richten, sondern dem Schutz eines schlechthin ohne Rücksicht auf eine bestimmte Meinung zu schützenden Rechtsgutes dienen. Hierzu gehören die Strafgesetze.
 

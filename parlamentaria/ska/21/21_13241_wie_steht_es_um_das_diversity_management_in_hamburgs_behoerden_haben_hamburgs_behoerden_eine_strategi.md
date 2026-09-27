@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10281", "21/10105", "20/7126", "21/11341", "21/7485"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62573"
@@ -51,7 +52,7 @@ Welche Maßnahmen zur Förderung der Vielfalt und Chancengleichheit wurden und w
 
 Werden die bestehenden Maßnahmen in Bezug auf Erfolg, Wirksamkeit und Potenziale für zukünftige Verbesserungen evaluiert? Wenn ja: Bitte die Art der Evaluation und die Ergebnisse der Evaluation in Bezug auf konkrete Maßnahmen darstellen. Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

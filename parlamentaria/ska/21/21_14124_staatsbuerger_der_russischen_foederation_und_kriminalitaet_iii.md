@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 15
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9831", "21/11321", "21/11231"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63517"
@@ -60,7 +61,7 @@ g) Männlich und jünger als 50
 h) Weiblich und jünger als 50  
 i) Älter als 50
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Rahmen der bundesweiten Verteilung Asylsuchender nach § 46 Asylgesetz sowie unerlaubt eingereister Ausländer nach § 15a Aufenthaltsgesetz wurden der Freien und Hansestadt Hamburg im Zeitraum vom 1. Januar 2017 bis zum 31. Juli 2018 insgesamt 379 Staatsangehörige der Russischen Föderation zugewiesen.
 
@@ -123,7 +124,7 @@ Wie viele dieser Personen sind seit ihrer Einreise strafrechtlich in Erscheinung
 
 Wie viele Bürger der Russischen Föderation waren in Hamburg zwischen dem 1. Januar 2013 und dem 1. August 2018 strafrechtlich aufgefallen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Bei der Berechnung der Tatverdächtigen wird in der Polizeilichen Kriminalstatistik (PKS) eine echte Tatverdächtigenzählung vorgenommen. Dabei wird ein Tatverdächtiger nur einmal gezählt, auch wenn er mehrfach registriert wurde.
 
@@ -232,7 +233,7 @@ Wie viele Bürger der Russischen Föderation werden von den Sicherheitsbehörden
 
 Wie viele Bürger der Russischen Föderation werden von den Behörden gegenwärtig einem dem Jihadismus zugerechnet und gelten deswegen als Gefährder?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Im Datenbestand des Landesamtes für Verfassungsschutz Hamburg sind 17 Staatsbürger der Russischen Föderation im Bereich Salafismus erfasst.
 
@@ -288,6 +289,6 @@ Wo befinden sich die im Oktober 2016 in Hamburg bei einer Razzia gegen islamisch
 
 In wie vielen Fällen ist es bei dieser Personengruppe zu einer Verurteilung gekommen? Bitte jeweils das zugrundeliegende Delikt und das Strafmaß nennen.
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Siehe Drs. 21/9831.

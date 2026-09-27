@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 30
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17237", "21/14176", "21/13850", "21/13481", "20/6541"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67440"
@@ -100,7 +101,7 @@ Erhalten alle Frauen, die in Frauenhäusern Schutz suchen, diesen Schutz? Wenn n
 
 Wurden von dem Jahr 2015 bis heute Frauen abgewiesen oder nach kurzer Zeit bereits wieder entlassen, weil sie nicht anspruchsberechtigt waren? Wenn ja, wie viele waren es und was geschah dann jeweils mit ihnen? Bitte nach Jahren aufschlüsseln und erläutern, warum jeweils kein Anspruch bestand?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Alle von Gewalt betroffenen oder bedrohten Frauen und deren Kinder finden zeitnah und zu jeder Tages- und Nachtzeit unbürokratisch Schutz. Die Service- und Koordinierungsstelle 24/7 nimmt zunächst alle gewaltbedrohten und betroffenen Frauen auf und vermittelt diese weiter. Es werden keine schutzsuchenden Frauen abgewiesen. Im Übrigen siehe Drs. 21/17237, Drs. 21/13850 und Drs. 21/13481.
 
@@ -112,7 +113,7 @@ Wie viele der Frauen in Frauenhäusern gehen in etwa anteilig einer geregelten A
 
 Welche Vorsichtsmaßnahmen gibt es diesbezüglich bei Kitas oder Schulen besuchenden Kindern der Frauenhausbewohnerinnen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Schutzmaßnahmen werden in Abstimmung mit den Betroffenen getroffen und sind sehr individuell. Sollten Sicherheitsrisiken am Arbeitsplatz bestehen, gelingt es häufig in Abstimmung mit dem Arbeitsgeber, den Einsatzort zu wechseln. In Einzelfällen müssen die Frauen den Arbeitsplatz aus Sicherheitsgründen wechseln oder aufgeben. Hierbei werden die Betroffenen zudem über die Möglichkeiten, Anträge nach dem Gewaltschutzgesetz zu stellen, informiert. Im Übrigen werden die für die Beantwortung benötigten Daten statistisch nicht erfasst.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17099", "21/5231"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66960"
@@ -47,7 +48,7 @@ Wie hoch ist aktuell in den Hamburger Bezirken der Versorgungsgrad in den einzel
 
 Wie hoch ist aktuell in den Harburger Stadtteilen der Versorgungsgrad in den einzelnen Fachgebieten gemessen an der Einwohnerzahl? Bitte in einer Tabelle je Stadtteil und Fachgebiet darstellen. Bei geplanten Neubaugebieten bitte auch exemplarisch die perspektivische Versorgungsquote angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der allgemeine bedarfsgerechte Versorgungsgrad bestimmt sich nach der Bedarfsplanungs-Richtlinie. Räumliche Grundlage für die Ermittlung des Versorgungsgrades zum Stand der vertragsärztlichen Versorgung sowie für die Feststellungen zur Überoder Unterversorgung ist in Hamburg der Planungsbereich 1, also der Gesamtbereich der Freien und Hansestadt Hamburg. Der Versorgungsgrad zum Stand 1.7.2018 ergibt sich aus der Anlage. Der aktuelle Versorgungsgrad zum 1.1.2019 ist noch nicht ermittelt, weil weder die aktuellen Verhältniszahlen noch die aktuellen Bevölkerungszahlen verfügbar sind. Prüfungen zu einer lokalen, das heißt unterhalb des Bedarfsplanungsgebietes (Freie und Hansestadt Hamburg) liegenden Region, werden nach dem Bedarfsplan Hamburg (dortige Anlage „Maßnahmepapier“) lediglich im Einzelfall vorgenommen, so beispielsweise bei der Prüfung eines Antrages auf Sonderbedarfszulassung. Regelhafte Ermittlungen von Versorgungsgraden unterhalb des Plangebie-
 

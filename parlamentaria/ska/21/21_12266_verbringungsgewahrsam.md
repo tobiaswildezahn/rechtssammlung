@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 8
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61540"
@@ -43,6 +44,6 @@ Findet der sogenannte Verbringungsgewahrsam als polizeiliche Maßnahme in Hambur
 
 Wenn nein, warum nicht? aa. Ist die Polizei nach Ansicht des Senats dazu berechtigt, polizeiliche oder ordnungsrechtliche Störer in Verbringungsgewahrsam zu nehmen? bb. Wenn ja, auf welcher Rechtsgrundlage?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der sogenannte Verbringungsgewahrsam findet in Ermangelung einer Rechtsgrundlage keine Anwendung. Im Übrigen: entfällt.

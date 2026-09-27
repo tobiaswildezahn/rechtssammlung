@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 21
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2519"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51645"
@@ -232,7 +233,7 @@ Wie wird sich die Betreuungsquote je Professor, wissenschaftlichem Mitarbeiter, 
 
 Wie beurteilen der Senat beziehungsweise die zuständigen Behörden und die Hamburger Universitäten und Hochschulen die Gefahr eines Qualitätsverlustes durch die veränderten Betreuungsquoten?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Antwort zu 8.
 

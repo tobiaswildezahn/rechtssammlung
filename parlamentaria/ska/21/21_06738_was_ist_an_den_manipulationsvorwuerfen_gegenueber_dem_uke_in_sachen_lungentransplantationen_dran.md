@@ -14,6 +14,7 @@ fragen: 43
 einzelfragen: 73
 antwortbloecke: 40
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6715", "20/7448"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55310"
@@ -163,7 +164,7 @@ Welches Referat beziehungsweise welche Abteilung ist in der BGV für das Transpl
 
 Wie hat sich der Umfang des Personals, das in der BGV für das Transplantationsgesetz und dessen Einhaltung zuständig ist, seit 2011 entwickelt? Bitte jahresweise aufschlüsseln sowie die Stellenzahl, Vakanzen und VZÄ angeben.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 In der BGV ist das Referat Bioethik und Recht in der Abteilung Gesundheit für das Transplantationsgesetz zuständig. Im Referat Bioethik und Recht sind seit 2011 zwei Personen anteilig hiermit befasst (0,35 VK A15 und 0,2 VK A11). In diesem Zeitraum gab es lediglich in 2014 eine im Rahmen eines Nachbesetzungsverfahrens übliche Vakanz auf der dargestellten A11-Stelle. Im Übrigen sind auch Fachabteilungsleitung, Abteilungsleitung und Amtsleitung mit Fragen des Transplantationsgesetzes befasst.
 

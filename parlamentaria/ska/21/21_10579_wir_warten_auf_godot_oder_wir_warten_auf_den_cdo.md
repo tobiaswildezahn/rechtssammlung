@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9383"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59470"
@@ -43,7 +44,7 @@ Warum hat der Senat immer noch keinen Chief Digital Officer (CDO)?
 
 Ist das Auswahlverfahren für die mit einer Bewerbungsfrist bis zum 14. Juni 2017 ausgeschriebene Stelle des „Chief Digital Officers“ (CDO) in der Senatskanzlei zwischenzeitlich abgeschlossen? a. Wenn ja, ab wann wird diese Stelle mit wem zu welchen Konditionen besetzt werden? b. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Verfahren für die Besetzung der Stelle des Chief Digital Officer ist noch nicht abgeschlossen (siehe Drs. 21/9383). Eine Besetzung zum 1. Januar 2018 wird angestrebt.
 

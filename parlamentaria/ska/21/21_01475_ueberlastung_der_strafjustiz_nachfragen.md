@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1343"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49666"
@@ -274,7 +275,7 @@ c. Wie viele davon waren Haftsachen?
 
 Wie viele Verfahrensrügen wegen Verstoßes gegen die ordnungsgemäße Besetzung bei Verfahren der großen Strafkammern des Landgerichts wurden seit dem 1. Januar 2013 erhoben und wie viele von diesen waren erfolgreich?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die erfragten Daten werden statistisch nicht gesondert erfasst. Zur Beantwortung der Fragen müssten etwa 1.000 Verfahrensakten einzeln ausgewertet werden. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 20
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18227"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67880"
@@ -79,7 +80,7 @@ Verfügt das UKE über ein Notfall-Seelsorge-Programm beziehungsweise einen psyc
 
 Wie sind der Zugang und die Beauftragung geregelt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Notfall-Seelsorge wird von der Krankenhausseelsorge angeboten, das Angebot ist auf den Webseiten des UKE einsehbar (https://www.uke.de/patienten-besucher/dialogberatung/seelsorge-religion/index.html).
 
@@ -156,13 +157,13 @@ Das Thema interkulturelle Kompetenz wird seit 2013 bereits in einem Begleitstudi
 
 Im Rahmen des im UKE etablierten „Klinischen Ethik Komitees (KEK)“ wurden mehrfach Vorträge und Seminare zum Thema interkulturelle Kompetenz angeboten, die für die Mitarbeitenden des UKE zugänglich waren, nämlich:
 
-•„Ethik zwischen den Kulturen: Wie begegne ich Wertedifferenzen im Interkulturellen Kontext?“, KEK-AG „Werte und Interkulturalität“, 90 Minuten Workshop, 1. Tag der Ethik am UKE, 19.07.2017.
+– „Ethik zwischen den Kulturen: Wie begegne ich Wertedifferenzen im Interkulturellen Kontext?“, KEK-AG „Werte und Interkulturalität“, 90 Minuten Workshop, 1. Tag der Ethik am UKE, 19.07.2017.
 
-•„Sprach- und Kulturgrenzen überwinden: Ethik in Dolmetscher-vermittelten Gesprächen“, 120 Minuten Workshop, KEK-AG „Werte und Interkulturalität“, 2. Tag der Ethik am UKE, 15.11.2018.
+– „Sprach- und Kulturgrenzen überwinden: Ethik in Dolmetscher-vermittelten Gesprächen“, 120 Minuten Workshop, KEK-AG „Werte und Interkulturalität“, 2. Tag der Ethik am UKE, 15.11.2018.
 
-•„Kulturelle Vielfalt im Krankenhaus: Was tun, wenn „es knallt“? Interkulturelle Kompetenz in der Klinischen Ethik“, PD Dr. Walter Bruchhausen, Vortrag im Rahmen des Interdisziplinären Ethikseminars 12.1.2017.
+– „Kulturelle Vielfalt im Krankenhaus: Was tun, wenn „es knallt“? Interkulturelle Kompetenz in der Klinischen Ethik“, PD Dr. Walter Bruchhausen, Vortrag im Rahmen des Interdisziplinären Ethikseminars 12.1.2017.
 
-•„Fremdheit und Differenz. Wie und wo ist der andere anders? Ethische Konfliktfelder der Interkulturalität im Krankenhaus“, PD Dr. Walter Bruchhausen, 180 Minuten Workshop, 12.01.2017.
+– „Fremdheit und Differenz. Wie und wo ist der andere anders? Ethische Konfliktfelder der Interkulturalität im Krankenhaus“, PD Dr. Walter Bruchhausen, 180 Minuten Workshop, 12.01.2017.
 
 Interkulturelle Kompetenz ist bei den Sitzungen des KEK kontinuierlich ein Thema, für das zwei der circa 40 KEK-Mitglieder speziell aufgrund ihrer Erfahrungen in diesem Bereich berufen sind/werden. Die im KEK vertretenen Seelsorgerinnen besitzen eine anerkannte Expertise zur interreligiösen Kompetenz.
 

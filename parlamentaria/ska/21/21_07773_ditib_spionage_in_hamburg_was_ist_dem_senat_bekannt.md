@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 15
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7685", "21/6644"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56424"
@@ -67,7 +68,7 @@ Steht der Senat mit der Bundesstaatsanwaltschaft wegen deren Ermittlungen gegen 
 
 Hat der Senat nach Bekanntwerden der Spionageaktivitäten der DITIB Kontakt zu deren Vertretern in Hamburg aufgenommen? Falls ja, wann und zu wem? Falls nein, warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nein. Im Übrigen siehe Antworten zu 1. und 2.
 
@@ -79,6 +80,6 @@ Wie reagiert der Senat auf die Spionagetätigkeiten der DITIB in Deutschland? Zi
 
 Welche Konsequenzen hätte die DITIB zu befürchten, sollte sich herausstellen, dass die DITIB auch in Hamburg für die türkische Regierung Spionage betrieben hat? Hätte dies Auswirkungen auf den bestehenden Staatsvertrag? Falls ja, welche? Falls nein, warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Senat wird hierüber auf der Grundlage gesicherter Fakten entscheiden. Im Übrigen siehe Drs. 21/6644.

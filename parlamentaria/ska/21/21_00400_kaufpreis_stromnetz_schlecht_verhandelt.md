@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 19
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48557"
@@ -93,7 +94,7 @@ War die ursprüngliche Unternehmensbewertung aus dem Jahr 2011 zu hoch gewesen? 
 
 Gibt es eklatante Abweichungen zu den ursprünglichen Angaben der Kaufpreisvereinbarung in den Gutachten der Wirtschaftsprüfer im Bewertungsverfahren? Wenn ja, welche (bitte genau auflisten anhand der Gutachten)? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Nein. Im Jahr 2011 wurde für die damalige Vattenfall Europe Distribution Hamburg GmbH (jetzt SNH) im Zusammenhang mit dem 25,1-Prozent-Anteilserwerb durch die HGV anlassbezogen eine steuerliche Typisierung bei der Bewertung vorgenommen, in der der steuerlichen Organschaft dieser Gesellschaft mit der Vattenfall Europe AG teilweise Rechnung getragen wurde. Weitere in der Summe geringere Effekte haben sich aus aktualisierten Daten bei im Übrigen unveränderten Bewertungsansätzen ergeben.
 

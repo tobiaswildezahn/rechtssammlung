@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/10407"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67165"
@@ -105,7 +106,7 @@ Inwiefern sind nach Ansicht des Senats beziehungsweise der zuständigen Behörde
 
 Ist der Senat der Ansicht, dass die zeitlich unbefristete Erhaltung und Pflege von Gräbern von SS-Mitgliedern und von anderen Kriegsverbrechern ein geeigneter Weg ist, um „der Opfer von Krieg und Gewaltherrschaft in besonderer Weise zu gedenken und für zukünftige Generationen die Erinnerung daran wach zu halten, welche schrecklichen Folgen Krieg und Gewaltherrschaft haben“, wie es das Gräbergesetz in § 1 Absatz 1 bezweckt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung.
 

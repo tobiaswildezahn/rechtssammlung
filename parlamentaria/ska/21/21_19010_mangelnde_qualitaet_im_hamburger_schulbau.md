@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 24
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5317"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68727"
@@ -59,7 +60,7 @@ Wie hoch waren die in den Architektenverträgen verankerten Kostenrichtwerte pro
 
 Wie begründet der Senat, dass diese Kostenrichtwerte – sofern die Darstellung der Architektenkammer korrekt ist – weit unter den bundesdeutschen Werten liegen? Was ist hierfür die Ursache?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die von der Architektenkammer genannten Kostenrichtwerte und der Kostenansatz nach bundesdeutschem Durchschnitt sind durch die zuständige Behörde nicht nachvollziehbar. Nach der BKI, dem Baukosteninformationszentrum Deutscher Architektenkammern, liegt der Durchschnittswert für Bildungsbauten bei 1 600 Euro je Quadratmeter Brutto-Geschossfläche, umgerechnet auf den Kostenansatz zur im Rahmen des Schulbaumodells verwendeten Mietfläche entspricht dies einem Wert von 1 840 Euro je Quadratmeter Mietfläche. Für Neubauprojekte im Hamburger Schulbau liegen die reinen Baukosten-Richtwerte seit 1. Januar 2019 bei 1 832 Euro pro Quadratmeter Mietfläche, seit 2013 1 756 Euro pro Quadratmeter, davor individuell.
 

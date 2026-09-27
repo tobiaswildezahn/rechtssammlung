@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 15
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48315"
@@ -75,7 +76,7 @@ Das Vorliegen welcher Merkmale eint die Schnellbuslinien im Liniennetz des HVV? 
 
 Gibt es danach andere „Schnellbusmerkmale“ als die erhöhte Geschwindigkeit und den Komfort der Fahrzeuge und wenn ja welche beziehungsweise ist diesbezüglich ein Ermessensspielraum der Genehmigungsbehörde gegeben und wenn ja, in welchen Grenzen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 

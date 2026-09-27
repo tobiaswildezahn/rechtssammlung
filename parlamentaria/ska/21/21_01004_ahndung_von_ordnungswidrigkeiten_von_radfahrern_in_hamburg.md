@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49180"
@@ -43,17 +44,17 @@ Welches Ziel sollte mit dem jüngsten Schwerpunkteinsatz der Fahrradstaffel bezw
 
 Inwiefern sind weitere Schwerpunkteinsätze der Fahrradstaffel oder weiterer Einsatzkräfte zur Ahndung von Ordnungswidrigkeiten geplant?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Einsatz der Fahrradstaffel erfolgt mit dem Ziel der Verbesserung der Verkehrssicherheit und Stärkung der objektiven und subjektiven Sicherheit der Bürger durch
 
- sichtbare Polizeipräsenz,
+– sichtbare Polizeipräsenz,
 
- wirkungsvolle Einflussnahme auf verkehrsgerechtes Verhalten von Fahrradfahrern,
+– wirkungsvolle Einflussnahme auf verkehrsgerechtes Verhalten von Fahrradfahrern,
 
- Reduzierung von radfahrtypischen Unfallrisiken und
+– Reduzierung von radfahrtypischen Unfallrisiken und
 
- Reduzierung von Verkehrsunfällen mit Radfahrerbeteiligung.
+– Reduzierung von Verkehrsunfällen mit Radfahrerbeteiligung.
 
 Hierzu werden neben einer zielorientierten Streifentätigkeit überwiegend repressive Schwerpunkteinsätze und Großkontrollen mit zusätzlichen Einsatzkräften an unfallrelevanten Örtlichkeiten gegen Fehlverhalten vor allem von rücksichtslosen Radfahrern sowie gegen Fehlverhalten von Kraftfahrern gegenüber Radfahrern im fließenden und ruhenden Verkehr durchgeführt. Darüber hinaus erfolgt eine intensive Aufklärung vor Unfallgefahren im Radverkehr im Dialog mit Rad- und Kraftfahrern vor Ort sowie bei Messen, an Informationsständen und bei anderen geeigneten Gelegenheiten. Durch die dabei erreichte Öffentlichkeitswirksamkeit soll eine Verankerung des Themas Verkehrssicherheit für Radfahrer in der Wahrnehmung der Bürger erreicht werden. Je Kalendermonat wird mindestens ein solcher Einsatz durchgeführt, seit Januar 2014 bisher insgesamt 21 Einsätze. Es ist geplant, diese Maßnahmen weiterhin fortzuführen.
 

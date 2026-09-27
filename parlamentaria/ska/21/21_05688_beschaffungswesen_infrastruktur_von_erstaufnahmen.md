@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 18
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5635", "21/5663"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54184"
@@ -83,7 +84,7 @@ Hat ein entsprechendes Vergabeverfahren stattgefunden?
 a) Wenn nein, warum nicht?
 b) Falls eine beschränkte beziehungsweise freihändige Vergabe erfolgte: Sind immer mindestens drei Vergleichsangebote eingeholt worden? Falls nein, warum nicht und in welchen Fällen wurde darauf verzichtet?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Entfällt. Siehe Antwort zu 1. bis 6.
 

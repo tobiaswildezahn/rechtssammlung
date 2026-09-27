@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 3
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2079"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51909"
@@ -43,6 +44,6 @@ Wie viele Studenten wurden in der Zeit vom Sommersemester 2011 bis zum Wintersem
 
 Wie viele Studenten absolvierten beziehungsweise beendeten ihren Studiengang in der Zeit vom Sommersemester 2011 bis zum Wintersemester 2015/2016 an der Universität Hamburg a. im Bachelorstudiengang Betriebswirtschaftslehre, b. im Masterstudiengang Betriebswirtschaftslehre, c. in weiteren Studiengängen an der Fakultät, d. im Bachelorstudiengang Rechtswissenschaften, e. im Masterstudiengang Rechtswissenschaften sowie f. an weiteren Studiengängen der Fakultät? Bitte differenziert nach Studiengang und Semester sowie ohne Verweis auf andere Drucksachen auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.

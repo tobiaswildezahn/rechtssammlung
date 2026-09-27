@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67269"
@@ -117,6 +118,6 @@ Ist der Betreiber der Roten Flora schon einmal einer Umsatzsteueraußenprüfung 
 
 Ist der Betreiber der Roten Flora schon einmal einer Einkommensteueroder Körperschaftssteueraußenprüfung unterzogen worden?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Der Senat ist im Hinblick auf das Steuergeheimnis nach § 30 Abgabenverordnung gehindert, die Frage zu beantworten.

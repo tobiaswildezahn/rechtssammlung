@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3100", "21/2433", "21/2151", "20/4930"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52437"
@@ -91,7 +92,7 @@ Welche Mehrbedarfe sind seit der ersten Kostenschätzung bis 2016 entstanden (bi
 
 Was sind aus Sicht des Senats die Ursachen für die erheblichen Kostensteigerungen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/3100 und Drs. 21/2151.
 

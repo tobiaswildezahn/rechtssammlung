@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8276"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48811"
@@ -55,7 +56,7 @@ Wie viele Schwimmstunden sind seit der Neukonzeption des Schulschwimmens ausgefa
 
 Wie viele Schülerinnen und Schüler waren von diesen Ausfallzeiten betroffen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In den 19 Schwimmbädern der BLH, in denen verpflichtender Schwimmunterricht erteilt wird, nahmen im ersten Schulhalbjahr 2014/2015 insgesamt 12.000 Schülerinnen und Schüler der Jahrgangsstufen 3 und 4 teil. Den Datenbankeinträgen zufolge konnten in diesem Zeitraum 381 von insgesamt 10.548 Schwimmeinheiten nicht wie geplant durchgeführt werden. Wie viele Schülerinnen und Schüler hiervon betroffen waren, lässt sich in der für die Beantwortung einer Parlamentarischen Anfrage verfügbaren Zeit nicht ermitteln, da von BLH nicht statistisch dokumentiert wird, wie viele der nicht planmäßig durchgeführten Schwimmeinheiten nachgeholt werden. Zur Ermittlung müssten die Teilnahmelisten des jeweiligen Schulhalbjahres der betroffenen Klassen an den Schulen nachträglich händisch ausgewertet werden.
 
@@ -69,7 +70,7 @@ In welchen Grundschulen kam es zu Ausfallzeiten beim Schulschwimmen?
 
 In welchen Bädern kam es zu Ausfallzeiten beim Schulschwimmen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Im ersten Schulhalbjahr 2014/2015 kam es in allen für das Schulschwimmen eingesetzten Schwimmbädern der BLH zu Ausfallzeiten sowie in den in der Anlage aufgeführten Grundschulen. Zum Nachholen ausgefallener Schwimmzeiten und zur Ausfallquote siehe Vorbemerkung.
 
@@ -89,7 +90,7 @@ Konnten die ausgefallenen Schwimmstunden nachgeholt werden? Wenn ja, innerhalb w
 
 Welche Maßnahmen plant der Senat um die Ausfallzeiten beim Schulschwimmen zukünftig zu reduzieren?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung.
 

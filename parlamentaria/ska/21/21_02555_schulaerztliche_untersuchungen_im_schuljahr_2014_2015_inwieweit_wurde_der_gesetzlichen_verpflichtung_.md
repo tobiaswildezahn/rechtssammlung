@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7880", "20/8090", "20/8106", "20/10617", "20/13442"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50845"
@@ -146,25 +147,25 @@ Auf welchen Gründen basieren die nicht durchgeführten Untersuchungen? Bitte pr
 
 Die zuständige Behörde sieht folgende Gründe bei den Bezirksämtern als gegeben an:
 
- Nichterscheinen trotz Einladung: Bezirksämter Hamburg-Mitte, Altona, Wandsbek,
+– Nichterscheinen trotz Einladung: Bezirksämter Hamburg-Mitte, Altona, Wandsbek,
 
 Bergedorf, Harburg
 
- Eltern lehnen Untersuchung ab: Bezirksämter Hamburg-Nord, Wandsbek
+– Eltern lehnen Untersuchung ab: Bezirksämter Hamburg-Nord, Wandsbek
 
- Wegzug aus dem Bezirk im Erhebungszeitraum: Bezirksämter Altona, Hamburg-
+– Wegzug aus dem Bezirk im Erhebungszeitraum: Bezirksämter Altona, Hamburg-
 
 Nord, Wandsbek, Bergedorf, Harburg
 
- Terminschwierigkeiten: Bezirksämter Bergedorf, Wandsbek
+– Terminschwierigkeiten: Bezirksämter Bergedorf, Wandsbek
 
- Krankheitsbedingte oder sonstige Personalausfälle im Bezirksamt Hamburg-Mitte,
+– Krankheitsbedingte oder sonstige Personalausfälle im Bezirksamt Hamburg-Mitte,
 
 Altona, Bergedorf
 
- Auswirkungen des Post-/Kitastreiks: Bezirksamt Hamburg-Mitte
+– Auswirkungen des Post-/Kitastreiks: Bezirksamt Hamburg-Mitte
 
- Kinder wurden zu spät oder gar nicht gemeldet: Bezirksamt Altona
+– Kinder wurden zu spät oder gar nicht gemeldet: Bezirksamt Altona
 
 ### Frage 3
 
@@ -208,7 +209,7 @@ Wie beurteilt die zuständige Behörde jeweils Anzahl und Anteil der unter
 
 Wie beurteilt die zuständige Behörde die Wirksamkeit der in der Drs. 20/13442 angekündigten Maßnahmen zur Verbesserung der Anzahl der durchgeführten Untersuchungen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im abgelaufenen Schuljahr konnten 90 Prozent aller Schuleingangsuntersuchungen durchgeführt werden. Die zuständige Behörde erkennt darin, dass die in der Drs. 20/13442 genannten Maßnahmen zur Optimierung der schulärztlichen Untersuchungen erfolgreich waren. Die Maßnahmen werden ebenso fortgesetzt wie der Austausch dazu unter den Bezirksämtern, bezirksintern und zwischen der Fachbehörde und den Bezirksämtern. Im Übrigen siehe Drs. 20/13442.
 
@@ -220,7 +221,7 @@ Wie viele Stellen für Schulärzte (VZÄ) gab es im Schuljahr 2014/2015 in den e
 
 Wie viele dieser Stellen waren wann und aus welchem Grund jeweils unbesetzt? Bitte pro Bezirk darstellen.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Schulärztinnen/Schulärzte
 

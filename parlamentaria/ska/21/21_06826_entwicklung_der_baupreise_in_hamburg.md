@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55385"
@@ -96,7 +97,7 @@ Welchen Anteil an der Baukostensteigerung wird vom Senat der in den letzten zehn
 
 Verfügt der Senat über Erkenntnisse, inwieweit die durch die Verschärfung der Energieeinsparverordnung induzierten Bau- und Betriebskosten überhaupt durch Einspareffekte im Energieverbrauch kompensiert werden können? Wenn ja, über welche?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die zuständige Behörde hat dazu keine eigenen Erkenntnisse.
 

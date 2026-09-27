@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 19
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19504", "21/11459", "21/16273"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70055"
@@ -62,7 +63,7 @@ Ist dem Senat bekannt, ob die ausgereisten Frauen während ihres Aufenthalts bei
 
 Inwiefern werden zurückgekehrte Jihadistinnen rechtlich belangt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Bezeichnungen wie „Jihadist/Jihadistin“ sind keine feststehenden polizeilichen Begriffe. Eine Auswertung in polizeilichen Vorgängen und/oder Auskunftssystemen ist nach diesen Bezeichnungen nicht möglich. Im Übrigen siehe Drs. 21/11459.
 

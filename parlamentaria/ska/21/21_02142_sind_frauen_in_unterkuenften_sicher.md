@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1570", "21/2116", "21/1704", "21/1878"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50398"
@@ -49,7 +50,7 @@ Welche Erkenntnisse liegen dem Senat zu den beschriebenen Vorfällen vor?
 
 Im „Hamburger Abendblatt“ wird berichtet, dass es „bislang keine Hinweise auf Zwangsprostitution“ gab. Inwiefern lässt sich Zwangsprostitution in diesen Fällen ausschließen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Unterkunftsleitungen und Polizei gehen allen Hinweisen auf Ausübung von Prostitution im Zusammenhang mit den Unterkünften nach. Bisher haben sich polizeilich keine Erkenntnisse im Sinne der Fragestellung ergeben.
 

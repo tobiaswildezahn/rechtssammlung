@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 21
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6208", "20/11995"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57315"
@@ -83,6 +84,6 @@ a) Wenn ja, wie sehen diese im Detail aus?
 b) Wenn nein, wann ist mit entsprechenden Plänen zu rechnen?
 c) Mit welchen zeitlichen Verläufen plant die Behörde?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.

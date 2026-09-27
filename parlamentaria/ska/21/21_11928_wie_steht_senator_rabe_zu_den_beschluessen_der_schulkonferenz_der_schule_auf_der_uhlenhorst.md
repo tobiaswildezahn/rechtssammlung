@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11614"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61169"
@@ -83,6 +84,6 @@ In Drs. 21/11614 sagt der Senat, dass die Überschreitung der Schüleranzahl an 
 
 Wie lange will die zuständige Behörde die Überschreitung der Schüleranzahl mit Schulcontainern kompensieren?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 1. bis 4.

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10261"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59476"
@@ -73,7 +74,7 @@ Welches Universitätsgremium überwacht/beaufsichtigt die Veranstaltungen, die i
 
 Welche Personen gehören diesem Universitätsgremium an und wie gestaltet sich deren Beschäftigungsverhältnis (Angestellte der Freien und Hansestadt Hamburg/Landesbeamte der Freien und Hansestadt Hamburg)?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Werden Räume – wie in diesem Fall – einer Fachschaft überlassen, findet keine zentrale Kontrolle der Nutzung statt. Es obliegt der Fachschaft, die ordnungsgemäße Nutzung der Räume sicherzustellen.
 

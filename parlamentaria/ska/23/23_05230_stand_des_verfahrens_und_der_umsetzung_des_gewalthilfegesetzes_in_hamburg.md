@@ -8,12 +8,13 @@ datum_anfrage: "2026-09-03"
 datum_drucksache: "2026-09-11"
 urheber: ["Hila Latifi"]
 fraktionen: ["Die Linke"]
-vorgang: null
+vorgang: 89139
 seiten: 4
 fragen: 12
 einzelfragen: 20
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["23/3608", "22/15828"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105127"

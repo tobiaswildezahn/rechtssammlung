@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67169"
@@ -115,7 +116,7 @@ Wie hoch sind die Kosten pro Kilowattstunde?
 
 Wie viele Binnenschiffe laufen Hamburg im Jahr an?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Kosten betragen rund 28 ct/kW. Im Übrigen siehe Vorbemerkung.
 

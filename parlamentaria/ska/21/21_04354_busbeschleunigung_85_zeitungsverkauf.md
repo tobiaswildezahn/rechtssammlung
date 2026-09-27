@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52756"
@@ -73,7 +74,7 @@ Wie viele Zeitungen wurden auf diese Weise in den Jahren 2011 – 2015 verkauft?
 
 Warum werden in Bussen Zeitungen durch Busfahrer verkauft?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Zeitungsverkauf in VHH-Bussen stellt seit über 20 Jahren eine Serviceleistung für die Fahrgäste dar. Die Verkaufszahlen sind allerdings stark rückläufig:
 

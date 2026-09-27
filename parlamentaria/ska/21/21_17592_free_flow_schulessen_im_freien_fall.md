@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 18
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13265", "21/12120", "20/13220", "21/5977", "21/11561"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67179"
@@ -57,7 +58,7 @@ An welchen Schulen wird seit wann im Free-flow-Konzept gegessen?
 
 An welchen Schulen wird ab dem kommenden Schuljahr das Essen im Free-flow-Konzept angeboten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die erfragten Daten werden von der für Bildung zuständigen Behörde nicht zentral erfasst. Im Übrigen siehe Vorbemerkung.
 
@@ -144,7 +145,7 @@ Wie wertet der Senat die Einführung des Free-flow-Konzeptes vor dem Hintergrund
 
 Inwiefern können Schüler/-innen und Eltern davon ausgehen, dass die Einführung des Free-flow-Konzepts nicht den steigenden Schüler-/ -innenzahlen geschuldet ist, das Konzept pädagogisch abgesichert ist und sichergestellt ist, dass alle Schüler/-innen ausreichend zu essen bekommen? (Bitte konkret, auch konzeptionell darlegen.)
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Vorbemerkung.
 

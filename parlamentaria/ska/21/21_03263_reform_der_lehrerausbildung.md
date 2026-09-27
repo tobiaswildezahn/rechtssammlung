@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14150", "20/13458", "21/3198", "21/1718"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51626"
@@ -51,7 +52,7 @@ d. Wie lange soll sie tagen?
 e. Wann ist mit Ergebnissen zu rechnen?  
 f. Welche Zwischenergebnisse haben sich bislang ergeben?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/3198.
 

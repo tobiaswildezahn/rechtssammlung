@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 30
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2577"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51101"
@@ -121,7 +122,7 @@ Wie haben sich die Gebühren für eine einzelne Grabstelle beispielhaft für ein
 
 Wie haben sich die Gebühren für die Nutzung einer Kapelle oder ähnlicher Örtlichkeiten seit dem Jahr 2000 auf den Hamburger Friedhöfen entwickelt? Bitte auch gegebenenfalls bereits genehmigte Erhöhungen mit aufführen. Bitte mit Nutzungsdauer aufführen und, sofern es unterschiedliche Gebührensätze auf Friedhöfen gibt, diese aufführen.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/2577.
 

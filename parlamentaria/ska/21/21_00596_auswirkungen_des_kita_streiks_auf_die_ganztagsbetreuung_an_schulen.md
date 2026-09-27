@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 17
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/3642", "20/9681", "20/10163"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48765"
@@ -85,7 +86,7 @@ Wie viele und welche Schulen (bitte getrennt nach GBS- und GTS- Schulen ausweise
 
 Mai 2015 von den Auswirkungen des Streiks betroffen, wie sahen die Auswirkungen im Einzelnen aus, das heißt welche Angebote konnten an welchen Schulen nur in eingeschränkter Form (wenn ja, wie und in welchem Umfang?) umgesetzt werden?
 
-#### Antwort zu Fragen 5, 8
+#### Antwort zu Fragen 5 und 8
 
 Siehe Anlage 5 (GBS-Schulen) sowie Anlage 6 (GTS-Schulen). Von 58 GBS-Schulen, die mit einem vom Streik betroffenen Kooperationspartner zusammenarbeiten, sind 41 Schulen vom Streik betroffen. Bei den 13 GTS-Schulen, die mit einem vom Streik betroffenen Dienstleister zusammenarbeiten, sind vier Schulen vom Streik betroffen.
 

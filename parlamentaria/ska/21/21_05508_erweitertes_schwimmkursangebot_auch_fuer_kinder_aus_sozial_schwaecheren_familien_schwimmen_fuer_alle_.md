@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 11
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/2948", "21/4882"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53995"
@@ -65,33 +66,33 @@ Von den 73.974 potenziell leistungsberechtigten Minderjährigen im Jahr 2015 hab
 
 Der Senat bewirbt aktiv die Inanspruchnahme der Leistungen für BuT. Dies erfolgt durch folgende Maßnahmen:
 
- Es werden Informationsschreiben zum BuT erstellt, die an die potenziell Leis-
+– Es werden Informationsschreiben zum BuT erstellt, die an die potenziell Leis-
 
 tungsberechtigten versandt werden.
 
- Es werden Flyer in den Fachämtern für Grundsicherung und Soziales, bei Jobcen-
+– Es werden Flyer in den Fachämtern für Grundsicherung und Soziales, bei Jobcen-
 
 tern des team.arbeit.hamburg, bei den ASD-Dienststellen, den Wohngeldstellen, bei den Erstaufnahme- und Folgeeinrichtungen von fördern und wohnen, im Schulinformationszentrum und den Kindertageseinrichtungen ausgelegt. Die Flyer stehen, unter anderem auch auf der Internetseite der Behörde für Arbeit, Soziales, Familie und Integration, in folgenden Sprachen zur Verfügung: Deutsch, Arabisch, Englisch, Französisch, Polnisch, Russisch, Sorani, Tigrinya, Albanisch, Bulgarisch, Farsi, Kroatisch, Portugiesisch, Serbisch, Spanisch, Türkisch.
 
- Die Leistungen für BuT sowie die Verfahren zur Inanspruchnahme werden auf der
+– Die Leistungen für BuT sowie die Verfahren zur Inanspruchnahme werden auf der
 
 Internetseite http://www.hamburg.de/bildungspaket erläutert.
 
- Es gibt eine jährliche „Ranzenpost“ in der Schule. Hierbei werden in der Schule
+– Es gibt eine jährliche „Ranzenpost“ in der Schule. Hierbei werden in der Schule
 
 zum neuen Schuljahr BuT-Flyer an alle Erst- und Fünftklässler verteilt.
 
- Das Thema BuT“ wird auf dem Hamburger Familientag vertreten.
+– Das Thema BuT“ wird auf dem Hamburger Familientag vertreten.
 
- Im Hamburger Ferienpass wird auf die Leistungen für BuT hingewiesen.
+– Im Hamburger Ferienpass wird auf die Leistungen für BuT hingewiesen.
 
- Es gibt eine Kooperation mit den Bücherhallen Hamburg. Kinder und Jugendliche
+– Es gibt eine Kooperation mit den Bücherhallen Hamburg. Kinder und Jugendliche
 
 mit Anspruch auf die soziokulturelle Teilhabe können einen kostenlosen Mitglieds-
 
 ausweis erhalten. In diesem Zusammenhang wirbt auch die Bücherhalle Hamburg für die Leistungen für BuT.
 
- Es werden Schulungen zu den Leistungen für BuT durchgeführt, so zum Beispiel
+– Es werden Schulungen zu den Leistungen für BuT durchgeführt, so zum Beispiel
 
 vor Kurzem für die Mitarbeiterinnen und Mitarbeiter der Verwaltungsaußenstellen in den Erstaufnahmen. Weiterhin werden derzeit Schulungen für die Sozialmanagerinnen und -manager sowie Lehrkräfte in den Unterkünften von Fördern und Wohnen organisiert.
 

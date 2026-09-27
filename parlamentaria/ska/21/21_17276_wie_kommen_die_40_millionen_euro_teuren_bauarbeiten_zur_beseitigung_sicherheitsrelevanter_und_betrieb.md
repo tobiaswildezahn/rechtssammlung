@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13127", "21/14130"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66852"
@@ -59,35 +60,35 @@ Folgende Baumaßnahmen wurden im Jahr 2018 aufgrund vorheriger Beauftragung umge
 
 Deutsches Schauspielhaus:
 
-• Sanierung der Ränge
+– Sanierung der Ränge
 
-• Teile der vorgezogenen Maßnahmen
+– Teile der vorgezogenen Maßnahmen
 
 Die Leistungen erfolgten im Zeit- und Kostenrahmen.
 
 Kampnagel:
 
-• Brandschutztechnische Ertüchtigung einer Hallenwand zur Erfüllung einer Genehmigungsauflage
+– Brandschutztechnische Ertüchtigung einer Hallenwand zur Erfüllung einer Genehmigungsauflage
 
-• Nachrüstung von Kanalrauchmeldern gemäß einer Auflage aus der technischen Prüfung
+– Nachrüstung von Kanalrauchmeldern gemäß einer Auflage aus der technischen Prüfung
 
-• Bauliche Maßnahmen zur Entrauchung des Westfoyers
+– Bauliche Maßnahmen zur Entrauchung des Westfoyers
 
 Die Leistungen erfolgten im Zeit- und Kostenrahmen.
 
 Laeiszhalle:
 
-• Sanierung des Glasdaches
+– Sanierung des Glasdaches
 
-• Maßnahmen an der Entrauchungsanlage
+– Maßnahmen an der Entrauchungsanlage
 
 Die Leistungen erfolgten im Zeit- und Kostenrahmen.
 
 Thalia Theater:
 
-• Abschnittsweise Erneuerungen der Sprinklerverrohrung
+– Abschnittsweise Erneuerungen der Sprinklerverrohrung
 
-• Instandsetzung klimatechnischer und bühnentechnischer Anlagen zum Erhalt des Spielbetriebes
+– Instandsetzung klimatechnischer und bühnentechnischer Anlagen zum Erhalt des Spielbetriebes
 
 Die Leistungen erfolgten im Zeit- und Kostenrahmen.
 

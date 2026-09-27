@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/838", "21/732"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50612"
@@ -59,7 +60,7 @@ Welche Schulen nutzen die Möglichkeit a. der epochalen Nutzung von Sportstunden
 
 Wie viele Sportstunden sind nach Abzug dieser Maßnahmen im Regelstundenplan an den jeweiligen Hamburger a. Grundschulen für die erste – vierte Klasse, b. Stadtteilschulen für die fünfte – zehnte Klasse, c. Gymnasien für die fünfte – zehnte Klasse vorgesehen? Bitte nach Bezirken aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Da die erfragten Daten von der zuständigen Behörde nicht zentral erfasst werden, wurde eine Schulabfrage an den 312 staatlichen Grund- und Stadtteilschulen sowie Gymnasien durchgeführt. Bis auf fünf Grundschulen liegen Rückmeldungen von allen Schulen vor. Alle Schulen erteilen demnach die laut Stundentafel vorgeschriebenen Unterrichtsstunden für das Fach Sport.
 

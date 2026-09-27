@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 14
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1373"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69970"
@@ -51,7 +52,7 @@ An welchen Schulen war der VS zu welchen Themen in den letzten drei Jahren im Si
 
 In welcher Jahrgangsstufe wurden die betreffenden Veranstaltungen durchgeführt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Datum Schule Thema
 

@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 48355
 seiten: 3
 fragen: 8
-einzelfragen: 10
-antwortbloecke: 8
+einzelfragen: 16
+antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4313", "20/11997", "21/3100"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52888"
@@ -71,19 +72,30 @@ Eine konkrete Rückzahlungsforderung lag nicht vor.
 
 Gemäß Drs. 21/4313 ist dem Senat seit dem Beschluss der GWK am
 19.06.2015 bekannt, dass die Bundesmittel zurückgezahlt werden müssen.
-5.1. Hat sich der Wissenschaftsrat auf seiner Sitzung im April 2015 bereits mit diesem Thema befasst?
 
-#### Antwort zu Frage 5
+### Frage 5.1
+
+Hat sich der Wissenschaftsrat auf seiner Sitzung im April 2015 bereits mit diesem Thema befasst?
+
+#### Antwort zu Fragen 5 und 5.1
 
 Nein. Vor dem Beschluss der GWK wurde die neue bauliche Konzeption und der Entwicklungsstand des CliSAP in der Sitzung des Ausschusses für Forschungsbauten
 
 des WR (18./19.11.2014; 3./4.03.2015) und bei der Sitzung des Ausschusses der GWK (am 12.05.2015) erörtert.
 
-5.2. Wer hat die Freie und Hansestadt Hamburg auf der Sitzung des Wissenschaftsrats im April 2015 vertreten?
+### Frage 5.2
+
+Wer hat die Freie und Hansestadt Hamburg auf der Sitzung des Wissenschaftsrats im April 2015 vertreten?
+
+#### Antwort zu Frage 5.2
 
 Die zuständigen Behörden.
 
-5.3. Wann haben die zuständigen Stellen erstmals von der Einschätzung des Wissenschaftsrats erfahren, dass die von Hamburg vorgesehene Verwendung der für den CLISAP-Forschungsbau eingeworbenen Bundesmittel nicht den Förderrichtlinien entspricht?
+### Frage 5.3
+
+Wann haben die zuständigen Stellen erstmals von der Einschätzung des Wissenschaftsrats erfahren, dass die von Hamburg vorgesehene Verwendung der für den CLISAP-Forschungsbau eingeworbenen Bundesmittel nicht den Förderrichtlinien entspricht?
+
+#### Antwort zu Frage 5.3
 
 Der WR hat sich mit der Thematik in seinen Beratungen am 18./19.11.2014 und am
 3./4.03.2015 befasst. Die GWK hat mit Beschluss am 19.06.2015 festgestellt, dass die Voraussetzungen für die gemeinsame Förderung gemäß § 3 AV-FuG nicht mehr vorliegen.
@@ -99,10 +111,16 @@ Im Rahmen des Baumonitoring erfolgte keine Befassung der Senatskanzlei.
 ### Frage 7
 
 Gemäß Drs. 21/4313 wurde der Wegfall der Bundesmittel durch die GMH im Rahmen der Kreditaufnahme kompensiert.
-7.1. Welche einzelnen Finanzierungen wurden wann und durch wen zu jeweils welchen Zinskonditionen für den Neubau am Geomatikum aufgenommen?
-7.2. Wann und in welcher Höhe wurden Bürgschaften der Stadt zur Besicherung der Kreditaufnahme für den Neubau am Geomatikum abgegeben?
 
-#### Antwort zu Frage 7
+### Frage 7.1
+
+Welche einzelnen Finanzierungen wurden wann und durch wen zu jeweils welchen Zinskonditionen für den Neubau am Geomatikum aufgenommen?
+
+### Frage 7.2
+
+Wann und in welcher Höhe wurden Bürgschaften der Stadt zur Besicherung der Kreditaufnahme für den Neubau am Geomatikum abgegeben?
+
+#### Antwort zu Fragen 7, 7.1 und 7.2
 
 Folgende Finanzierungen wurden für den Neubau am Geomatikum aufgenommen:
 
@@ -125,24 +143,38 @@ Europäische Investitionsbank
 1,246 %
 14.07.2015
 
-7.3. Wie hoch ist insgesamt die in Drs. 21/4313 angeführte Zinsersparnis bei der Finanzierung des Neubaus am Geomatikum?
+### Frage 7.3
 
-7.4. In der Drs. 21/4313 wurde von Zwischenfinanzierungskosten von 15,16 Millionen Euro ausgegangen. Wie hoch sind die derzeit erwarteten Zwischenfinanzierungskosten für das Projekt?
+Wie hoch ist insgesamt die in Drs. 21/4313 angeführte Zinsersparnis bei der Finanzierung des Neubaus am Geomatikum?
+
+### Frage 7.4
+
+In der Drs. 21/4313 wurde von Zwischenfinanzierungskosten von 15,16 Millionen Euro ausgegangen. Wie hoch sind die derzeit erwarteten Zwischenfinanzierungskosten für das Projekt?
+
+#### Antwort zu Fragen 7.3 und 7.4
 
 Die Zwischenfinanzierungskosten wurden gemäß Drs. 20/11997 mit 3,32 Prozent (15,16 Millionen Euro) für eine über sechs Jahre andauernde Planungs-, Bau- und Einrichtungszeit kalkuliert. Die Zinsentwicklung führte dazu, dass sich eine Ersparnis von rund 7,63 Millionen Euro und Zwischenfinanzierungskosten von rund 7,53 Millionen Euro ergeben.
 
 ### Frage 8
 
 In der Drs. 21/3100 gibt der Senat für den Neubau am Geomatikum eine monatliche Miete (ohne Instandhaltung, Verwaltung und Betriebskosten) von 14,29 Euro pro Quadratmeter an.
-8.1. Warum weicht dieser Wert deutlich von den in Drs. 20/11997 angegebenen 19,62 Euro pro Quadratmeter ab?
-8.2. Inwiefern ist dies nach Ansicht des Senats eine unveränderte Miethöhe gegenüber der Drs. 20/11997?
 
-#### Antwort zu Frage 8
+### Frage 8.1
+
+Warum weicht dieser Wert deutlich von den in Drs. 20/11997 angegebenen 19,62 Euro pro Quadratmeter ab?
+
+### Frage 8.2
+
+Inwiefern ist dies nach Ansicht des Senats eine unveränderte Miethöhe gegenüber der Drs. 20/11997?
+
+#### Antwort zu Fragen 8, 8.1 und 8.2
 
 Bei der in Drs. 20/11997 genannten Miethöhe handelt es sich um eine Obergrenze für den Mieter. Die niedrigeren Kapitalmarktzinsen führen zu einer voraussichtlich geringeren Miete. Die endgültig zu zahlende Miete kann erst nach Fertigstellung des Neubaus anhand der tatsächlichen Kosten festgestellt werden.
 
-8.3. Beinhalten die Angaben zum Neubau am Geomatikum in Drs. 21/3100 die geänderte Finanzierung des Projektes aufgrund des Wegfalls der Bundesmittel?
+### Frage 8.3
 
-Wenn nein, warum nicht?
+Beinhalten die Angaben zum Neubau am Geomatikum in Drs. 21/3100 die geänderte Finanzierung des Projektes aufgrund des Wegfalls der Bundesmittel? Wenn nein, warum nicht?
+
+#### Antwort zu Frage 8.3
 
 Ja.

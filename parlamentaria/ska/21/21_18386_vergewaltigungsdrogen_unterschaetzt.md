@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 21
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6997", "21/5580", "21/10674"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68024"
@@ -45,7 +46,7 @@ Wer hat sich gegenüber Medienvertretern im Auftrag der Freien und Hansestadt Ha
 
 Auf Basis welcher Daten beruht die Schlussfolgerung, „Vergewaltigungsdrogen“ seien in Hamburg kein „großes“ Problem?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Pressestelle der Polizei Hamburg beantwortete im Juli 2019 eine Anfrage eines Journalisten zum Thema „Gamma-Butyrolacton (GBL)/Liquid Ecstasy/K.O.-Tropfen“, die Sicherstellungen und deren rechtliche Grundlagen, Erkenntnisse zu den Täterinnen und Tätern, die auch mit Sexualdelikten in Erscheinung getreten sind, sowie Sachverhalte, in denen ein rechtlich nicht zu beanstandender Verwendungszweck für den Erwerb von GBL angegeben wurde, zum Gegenstand hatte.
 
@@ -61,7 +62,7 @@ Werden strafbare Handlungen im Zusammenhang mit „Vergewaltigungsdrogen“ stat
 
 Wie viele strafbare Handlungen im Zusammenhang mit „Vergewaltigungsdrogen“ sind dem Senat bekannt? (Bitte jahresweise aufschlüsseln nach Art der strafbaren Handlungen.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Polizei erfasst Straftaten gemäß dem Straftatenkatalog der bundeseinheitlichen Richtlinien für die Erfassung und Verarbeitung der Daten in der Polizeilichen Kriminalstatistik (PKS). Straftaten im Sinne der Fragestellung werden unter der jeweiligen Schlüsselnummer der von der Polizei festgestellten Straftat (zum Beispiel Diebstahl, Raub, Vergewaltigung, sexuelle Nötigung) erfasst.
 
@@ -99,7 +100,7 @@ Werden seitens des Senats Informationen zur Verfügung gestellt, die über die R
 
 Gibt es seitens des Senats eigene Aufklärungskampagnen oder unterstützt der Senat andere Institutionen bei Aufklärungskampagnen hinsichtlich der Gefahren von „Vergewaltigungsdrogen“? Welche Kampagnen dieser Art gab es in der Vergangenheit und wie viele? (Bitte Aufschlüsselung nach Art und Anzahl im Zeitraum von 2015 bis heute.)
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die vom Senat geförderte Beratungsstelle „Notruf für vergewaltigte Frauen und Mädchen Hamburg e.V.“ informiert und berät seit Jahren umfassend zu den sogenannten K.O.-Tropfen und stellt diverse Infomaterialien hierüber zur Verfügung, siehe https://www.frauennotruf-hamburg.de/erste-informationen/k-o-tropfen. Mitarbeiterinnen des Notrufs sind regelmäßig auf Festivals mit Informationsmaterialien zu den Angeboten der Fachberatungsstelle und insbesondere mit Aufklärungsmaterialien zur Wirkungsweise der K.O.-Tropfen präsent. Im Rahmen des Reeperbahnfestivals war der Notruf mit einem großen Bauzaunbanner zur Prävention von K.O.-Tropfen sichtbar. Um das Reeperbahnfestival herum wurden in 2018 zudem in einem Zeitraum von vier Wochen Infomaterialien zu dem Thema verteilt.
 

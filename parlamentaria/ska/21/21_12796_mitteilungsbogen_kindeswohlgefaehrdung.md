@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62106"
@@ -43,7 +44,7 @@ Wie viele Mitteilungsbögen Kindeswohlgefährdung sind in den Jahren 2012 – 20
 
 Wie ist das Verfahren, wenn bei einem ASD der Mitteilungsbogen Kindeswohlgefährdung eingeht (bearbeitende Stellen, weitere Maßnahmen et cetera)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Mitteilungsbogen kann von Fachkräften aus Kindertageseinrichtungen, Schulen und Einrichtungen der Jugendhilfe allgemein für Mitteilungen gemäß § 8a (4) SGB VIII und für Ärztinnen und Ärzte sowie andere Geheimnisträger für Mitteilungen nach § 4 (3) KKG genutzt werden. Ebenso ist es möglich, eine Kindeswohlgefährdung dem Jugendamt persönlich, telefonisch oder auf anderen Vordrucken mitzuteilen.
 

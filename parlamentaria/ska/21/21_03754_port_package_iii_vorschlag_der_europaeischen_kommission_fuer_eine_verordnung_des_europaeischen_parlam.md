@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 19
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52123"
@@ -45,7 +46,7 @@ a. Welche wesentlichen Regelungen beinhaltet die vom EP in Erster Lesung beschlo
 
 Welche Auswirkungen hätte der Erlass der vom EP in Erster Lesung beschlossenen Verordnung für den Hamburger Hafen, insbesondere in Bezug auf a. den Marktzugang für die unterschiedlichen Hafendiensteanbieter? b. die Organisation des Hafens? c. die Transparenz der finanziellen Regelungen in den Häfen? d. die Autonomie der Hafenverwaltungen? e. die Höhe und Festlegung der Hafen- sowie Infrastrukturentgelte? f. die vorhandenen Strukturen im Hafen – auch in Hinblick auf die wettbewerbsrechtlichen Kontrollmöglichkeiten sowie staatlichen Finanzierungsmöglichkeiten für Infra- und Suprastrukturen? g. die Gestaltungsspielräume für eine eigenständige Hamburger Hafenpolitik? h. den Wirtschaftsstandort Hamburg?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Europäische Parlament (EP) hat in Erster Lesung am 8. März 2016 Änderungen zu dem Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Schaffung eines Rahmens für den Zugang zum Markt für Hafendienste und die finanzielle Transparenz der Häfen (COM 2013 296) beschlossen.
 

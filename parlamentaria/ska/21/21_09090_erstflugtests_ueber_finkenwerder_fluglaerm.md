@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57849"
@@ -86,7 +87,7 @@ Welche Fluglärmmessstellen befinden sich in dieser Einflugschneise? Werden dort
 
 Welchem Beurteilungspegel und welchem Tag-Abend-Nacht-Pegel entsprechen die gemessenen Werte bei den Erstflügen mit ausgefahrenen RAT?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Airbus hat zwei Fluglärmmessstellen in der Nachbarschaft eingerichtet: Messstelle 1 „Rosengarten“ (südlich der Start- und Landebahn) und Messstelle 2 „Gymnasium Hochrad“ (nördlich der Start- und Landebahn). Mithilfe dieser Fluglärmmessstellen werden alle Lärmereignisse erfasst, die von „Airbus-Flügen“ ausgehen. In Übereinstimmung mit den Auflagen der einschlägigen Planfeststellungsbeschlüsse wird nicht gesondert aufgezeichnet, welches Flugzeug mit ausgefahrener RAT welchen Schallpegel erzeugt hat.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 29
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12751"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62090"
@@ -55,7 +56,7 @@ Welche Kosten sind bei der Erstellung des Masterplans entstanden? Wer hat diese 
 
 Fand im Rahmen des Planungsprozesses oder bei der Erstellung des Masterplans eine Beteiligung der Öffentlichkeit, insbesondere von direkten Anwohnerinnen und Anwohnern, statt? Wenn ja, in welcher Form und inwieweit wurden die dabei vorgebrachten Hinweise berücksichtigt? Wenn nein, warum nicht? Welche weiteren Maßnahmen zur Öffentlichkeitsbeteiligung sind vor Beginn der Umsetzung vorgesehen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/12751.
 

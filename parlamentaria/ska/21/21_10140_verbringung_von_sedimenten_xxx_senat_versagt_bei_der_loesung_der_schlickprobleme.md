@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/910"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58968"
@@ -57,7 +58,7 @@ Wie häufig hat die HPA an welchen Stellen im Hafen Untiefen festgestellt? Welch
 
 An welchen Schiffsliegeplätzen im Hamburger Hafen gibt es derzeit welche Abweichungen der Wassertiefen von den Solltiefen an den Schiffsliegeplätzen (bitte genau die Abweichungen und die Solltiefe je Liegeplatz und für die Zufahrt in die Hafenbecken darstellen)?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Wassertiefen im Hamburger Hafen und seinen Zufahrten werden kontinuierlich durch Peilungen überwacht. Das Raster der Peilungen hat eine Auflösung von 1x1 Meter, jeder Peilplan enthält also Tausende von Tiefendaten. Eine Statistik über die Anzahl auftretender einzelner Untiefen wird von HPA nicht geführt, da sie für die Steuerung der Wassertiefeninstandhaltung keine Relevanz hat. Ergibt die Peilung eines Gebietes Mindertiefen, so werden diese im Hinblick auf die Sicherheit des Schiffsverkehrs, bestehende Tiefganganforderungen und andere nautische Randbedingungen ausgewertet und bedarfsgerecht (also in größeren räumlichen Zusammenhängen (Baggerfeldern)) beseitigt.
 
@@ -81,7 +82,7 @@ Welche Sofortmaßnahmen wird die HPA nun ergreifen, um die Liegeplätze der Term
 
 Warum sollen die Maßnahmen den Hafenfirmen erst in einer informellen Informationsrunde am 30. August 2017 bekannt gegeben werden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58604"
@@ -43,7 +44,7 @@ Wie viele Personen campten in der Zeit vom 05.07 bis 08.07.17 im Luruper Volkspa
 
 Wie viele Personen hielten sich in der Zeit vom 05.07 bis 08.07.17 im Luruper Volkspark und wie viele auf Entenwerder auf?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nach derzeitiger Erkenntnislage hielten sich im Camp im Vorhornweg, Stadtteil Lurup, nach Beobachtungen der Sicherheitskräfte zeitweise bis zu 1.500 Personen auf.
 

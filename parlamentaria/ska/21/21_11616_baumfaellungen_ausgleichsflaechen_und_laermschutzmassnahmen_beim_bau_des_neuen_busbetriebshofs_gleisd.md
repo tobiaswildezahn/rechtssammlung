@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60847"
@@ -47,7 +48,7 @@ Wie viele Bäume wurden bisher auf dem Gelände des zukünftigen Busbetriebshofe
 
 Wie viele Bäume sollten nach der ursprünglichen Planung auf dem Gelände des zukünftigen Busbetriebshofes gefällt werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Bebauungsplan Alsterdorf 22/Winterhude 22 beziehungsweise die entsprechende Baugenehmigung vom 12. Februar 2016 erlauben eine Fällung der gesamten Vorhabensfläche „Sondergebiet Betriebshof ÖPNV“ einschließlich der Fläche zur Oberflächenentwässerung. Der dort wachsende, lichte Baumbestand aus anspruchslosen Pionierbaumarten wurde abgeräumt.
 
@@ -59,7 +60,7 @@ Wie viele Bäume wurden bisher rund um das Gelände des zukünftigen Busbetriebs
 
 Wie viele Bäume sollten nach der ursprünglichen Planung rund um das Gelände des zukünftigen Busbetriebshofes gefällt werden? Bitte für die nördliche, westliche, östliche und südliche Fläche jeweils getrennt angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Unter Beachtung der Vorgabe des Bebauungsplans, verkehrssichere Bäume zu erhalten, sofern sie in die Neupflanzung integriert werden können, wurden in den Randstreifen des Betriebsgeländes gefällt:
 
@@ -79,7 +80,7 @@ Wie viele Bäume wurden bisher auf dem Gelände neu gepflanzt?
 
 Wie viele Bäume wurden bisher rund um das Gelände neu gepflanzt? Bitte für die nördliche, westliche, östliche und südliche Fläche jeweils getrennt angeben.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Da die zukünftigen Pflanzstandorte noch durch Baubetrieb belegt sind, können derzeit auf dem Gelände sowie Randbereichen Süd und West keine neuen Bäume gepflanzt werden.
 
@@ -93,7 +94,7 @@ Wie viele Bäume sollen noch auf dem Gelände gepflanzt werden und warum wurden 
 
 Wie viele Bäume sollen noch rund um das Gelände gepflanzt werden und warum wurden diese bisher jeweils nicht gepflanzt? Bitte für die nördliche, westliche, östliche und südliche Fläche jeweils getrennt angeben.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Es sind 18 Neupflanzungen auf der derzeitigen Bau- beziehungsweise Baustelleneinrichtungsfläche vorgesehen.
 

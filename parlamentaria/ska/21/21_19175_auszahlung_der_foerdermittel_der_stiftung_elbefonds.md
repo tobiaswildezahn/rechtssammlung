@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/6717"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68876"
@@ -65,7 +66,7 @@ Welche Richtlinien liegen der Vergabe von Fördermitteln aus der Stiftung Elbefo
 
 Welchen Formalkriterien unterliegt die Antragstellung beziehungsweise wie funktioniert diese?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 

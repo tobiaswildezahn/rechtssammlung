@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17741", "21/17744"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67711"
@@ -123,6 +124,6 @@ Wie viele Unionsbürger/-innen reisten im 2. Quartal 2019 „freiwillig“ aus? 
 
 Wie viele Unionsbürger/-innen sind im 2. Quartal 2019 in Abschiebehaft und wie viele in Ausreisegewahrsam genommen worden? Bitte nach Staatsangehörigkeit der Betroffenen auflisten.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/17741 und 21/17744.

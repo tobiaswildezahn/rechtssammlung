@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4316"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53777"
@@ -53,7 +54,7 @@ Wie viele der laut Integrationsgesetz bundesweit zu schaffenden 100.000 Ein-Euro
 
 Zu wann sollen diese geschaffen werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Planungen sind derzeit noch nicht abgeschlossen (siehe Vorbemerkung).
 

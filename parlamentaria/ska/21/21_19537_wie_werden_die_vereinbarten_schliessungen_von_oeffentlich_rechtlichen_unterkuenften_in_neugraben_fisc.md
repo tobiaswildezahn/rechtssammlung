@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5231", "21/16101", "21/19365"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69275"
@@ -54,7 +55,7 @@ Laut Drs. 21/16101 endet der Mietvertrag für die Cuxhavener Straße am
 
 Ende November 2019 lebten noch 425 Personen in der Unterkunft Am Aschenland und 172 in der Cuxhavener Straße (Drs. 21/19365). Wieso leben noch so viele Personen in den beiden für die Schließung vorgesehenen Unterkünften? Wird die Belegung der beiden Unterkünfte bis zum Schließungstermin sukzessive abgebaut beziehungsweise wird die Neubelegung heruntergefahren oder soll dann kurzfristig der Umzug der vollen Kapazität der Unterkunft stattfinden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Aufgrund des weiterhin hohen Unterbringungsbedarfs werden die Kapazitäten in der Regel bis zu drei Monate vor dem Zeitpunkt der Außerbetriebnahme belegt. Drei Monate vor der Außerbetriebnahme erfolgt ein Belegungsstopp, sodass die Belegung innerhalb des verbleibenden Zeitrahmens abgebaut werden kann.
 

@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 33
 antwortbloecke: 23
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1568", "21/2232", "21/2722", "21/681", "21/1271", "21/1906", "21/2599"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51153"
@@ -116,7 +117,7 @@ Wie viele Flüchtlinge aus welchen Herkunftsländern und mit welchem aufenthalts
 
 Wie viele von ihnen sind mit Stand Ende Dezember 2015 minderjährig, wie viele erwachsene Frauen, wie viele erwachsene Männer?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 

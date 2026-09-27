@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12799"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49545"
@@ -105,7 +106,7 @@ In wie vielen Haftsachen konnte seit 2010 die Frist des § 121 StPO nicht eingeh
 
 In wie vielen weiteren Haftsachen wurden seit 2010 Haftbefehle außer Vollzug gesetzt, weil die Verfahrensdauer vermeidbar verzögert wurde?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die erfragten Daten werden statistisch nicht erfasst. Auf die Drs. 20/12799 wird verwiesen. Über die dort benannten Fälle hinaus sind zwei Verfahren aus dem Jahr 2015 bekannt, in denen Haftbefehle aufgehoben wurden, weil es zu vermeidbaren Verfahrensverzögerungen gekommen sein soll, und die insoweit Gegenstand der Medienberichterstattung waren.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 15
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1045"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56756"
@@ -49,7 +50,7 @@ Teilt der Senat die Auffassung des BMFSFJ aus der Pressemitteilung vom 03. Febru
 
 Trifft die Auffassung des BMFSFJ nach Ansicht des Senates auch auf die derzeitige Situation in Hamburg zu? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Vertreterinnen und Vertreter des Senats arbeiten in verschiedenen überregionalen Bund-Länder-Gremien zur Kindertagesbetreuung mit. Aufgrund der Diskussionen in diesen Gremien und den vorliegenden empirischen Befunden kann die zuständige Behörde die Auffassung des BMFSFJ zur bundesweiten Situation insgesamt nachvollziehen.
 
@@ -63,7 +64,7 @@ Wie viele Kindertagesstätten in Hamburg bieten an 24 Stunden am Tag eine Betreu
 
 Wie viel Bedarf sieht der Senat beziehungsweise die zuständige Behörde in Hamburg für Kindertagesstätten, welche an 24 Stunden am Tag eine Betreuung anbieten? (Bitte die Zahlen erläutern und nach Bezirk aufschlüsseln.) Sollte sich der Senat nicht damit befasst haben oder derzeit keine Antwort wissen, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Besondere Betreuungsbedarfe aufgrund flexibler Arbeitszeiten von Sorgeberechtigten werden vor allem hinsichtlich der Übernachtbetreuung in der Regel über das private Umfeld abgedeckt. Ist dies nicht möglich, greifen die betroffenen Familien häufig auf die Kindertagespflege mit ihrem flexiblen und individuellen Betreuungsangebot im familiären Kontext zurück. Im nachfrageorientierten Kita-Gutscheinsystem obliegt die Planung bedarfsentsprechender Betreuungsangebote den Trägern der Kindertageseinrichtungen. Die für Kindertagesbetreuung zuständige Behörde hat zur Beantwortung der Fragestellung die Vertragspartner des Landesrahmenvertrages (LRV) „Kinderbetreuung in Tageseinrichtungen“ (Arbeiterwohlfahrt, Landesverband Hamburg e.V.; Caritasverband Hamburg e.V.; Deutsches Rotes Kreuz Landesverband Hamburg; Der PARITÄTISCHE Wohlfahrtsverband Hamburg e.V.; Diakonisches Werk Hamburg e.V., Kindermitte e.V. – Bündnis für soziales Unternehmertum und Qualität in der Kindertagesbetreuung; Soal – Alternativer Wohlfahrtsverband Hamburg; Elbkinder – Vereinigung Hamburger Kitas gGmbH) gebeten, entsprechende Auskünfte zu erteilen. Aus den in der für die Beantwortung dieser Anfrage zur Verfügung stehenden Zeit eingegangenen Rückmeldungen geht hervor, dass die Kita Krümelkiste Kirchdorfer Straße 76, 21109 Hamburg, bei Bedarf eine 24-stündige Betreuung anbietet.
 

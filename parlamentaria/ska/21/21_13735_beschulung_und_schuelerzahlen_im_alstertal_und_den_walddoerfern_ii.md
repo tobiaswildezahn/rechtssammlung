@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8541", "21/8007", "21/10663", "21/8830", "21/11992", "21/12589", "21/12258", "21/12841"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63114"
@@ -43,7 +44,7 @@ Wie viele Schüler wurden im Schuljahr 2017/2018 an den Vorschulen des Alstertal
 
 Wie viele Schüler wurden im Schuljahr 2017/2018 an den Vorschulen des Alstertals und der Walddörfer abgelehnt und aus welchen Gründen jeweils? Bitte für jede Schule einzeln angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Einrichtung von Vorschulklassen steht nach § 14 Absatz 2 Hamburgisches Schulgesetz (HmbSG) unter dem Vorbehalt, dass dafür örtlich die räumlichen, organisatorischen und personellen Voraussetzungen gegeben sind. Der Besuch der Vorschulklasse ist ein freiwilliges Angebot, das Sorgeberechtigte wahrnehmen können. Die Sorgeberechtigten können sich entscheiden, ob sie im Fall überangewählter Vorschulklassen in die Warteliste der gewünschten Schule aufgenommen werden möchten oder die Zuweisung an eine andere Schule wünschen.
 
@@ -61,7 +62,7 @@ Wie viele Schüler wurden im Schuljahr 2017/2018 an den Grundschulen des Alstert
 
 Wie viele Schüler wurden im Schuljahr 2017/2018 an den Grundschulen des Alstertals und der Walddörfer abgelehnt und aus welchen Gründen jeweils? Bitte für jede Schule einzeln angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/8541 und 21/10663.
 
@@ -73,7 +74,7 @@ Wie viele Schüler wurden im Schuljahr 2017/2018 an den weiterführende Schulen 
 
 Wie viele Schüler wurden für das Schuljahr 2017/2018 an den weiterführenden Schulen im Alstertal und den Walddörfer abgelehnt und aus welchen Gründen jeweils? Bitte zwischen Stadtteilschulen und Gymnasien getrennt und für jede Schule einzeln angeben.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/8830 und 21/10663.
 
@@ -85,7 +86,7 @@ Wie viele Schüler werden im Schuljahr 2018/2019 an den Vorschulen des Alstertal
 
 Wie viele Schüler wurden für das Schuljahr 2018/2019 an den Vorschulen des Alstertals und der Walddörfer abgelehnt und aus welchen Gründen jeweils? Bitte für jede Schule einzeln angeben.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/11992. Im Übrigen siehe Antwort zu 1. und 2.
 
@@ -97,7 +98,7 @@ Wie viele Schüler werden im Schuljahr 2018/2019 an den Grundschulen des Alstert
 
 Wie viele Schüler wurden im Schuljahr 2018/2019 an den Grundschulen des Alstertals und der Walddörfer abgelehnt und aus welchen Gründen jeweils? Bitte für jede Schule einzeln angeben.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Drs. 21/12589.
 
@@ -109,7 +110,7 @@ Wie viele Schüler werden im Schuljahr 2018/2019 an den weiterführenden Schulen
 
 Wie viele Schüler wurden für das Schuljahr 2018/2019 an den weiterführenden Schulen im Alstertal und den Walddörfer abgelehnt und aus welchen Gründen jeweils? Bitte zwischen Stadtteilschulen und Gymnasien getrennt und für jede Schule einzeln angeben.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Drs. 21/12258, Drs. 12589 und Drs. 21/12841.
 

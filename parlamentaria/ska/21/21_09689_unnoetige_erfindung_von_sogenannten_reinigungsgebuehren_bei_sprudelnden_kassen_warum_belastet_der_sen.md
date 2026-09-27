@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 21
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7150"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58496"
@@ -47,7 +48,7 @@ Welche Verbesserungen sieht der Senat in dem geplanten neuen Reinigungskonzept, 
 
 Ist der Senat der Auffassung, dass die Stadtreinigung unter den bisherigen Bedingungen ihrer Aufgabe nicht mehr gerecht werden konnte?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die SRH erfüllt ihre gesetzliche Aufgabe, die Reinigung öffentlicher Wege im Interesse der Sicherheit und Leichtigkeit des Verkehrs sicherzustellen, zuverlässig. Sie erbringt mit vielfältigen Anstrengungen auch darüber hinausgehende Leistungen im Sinne eines ansprechenden Stadtbildes. Angesichts der in den letzten Jahren kontinuierlich gestiegenen Nutzungsintensität des öffentlichen Raumes sind allerdings zusätzliche Anstrengungen erforderlich, um ein hohes Sauberkeitsniveau gewährleisten zu können. Überdies gibt es immer wieder berechtigte Wünsche, im Interesse einer hohen Lebensqualität in der ganzen Stadt spürbare Verbesserungen der Sauberkeit zu erreichen und dauerhaft zu gewährleisten. Hierzu sind die für 2018 geplanten Maßnahmen erforderlich. Im Übrigen siehe Drs. 21/7150.
 
@@ -67,7 +68,7 @@ Wie bewertet der Senat das Vorhaben, dass mit dem Geld der Anwohner im Rahmen de
 
 Gehören zu den mittels der Straßenreinigungsgebühr gereinigten öffentlichen Grünanlagen auch öffentliche Kinderspielplätze?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Reinigung von öffentlichen Grün- und Erholungsanlagen soll nicht über die Straßenreinigungsgebühr, sondern aus Eigenmitteln der SRH finanziert werden. Öffentliche Kinderspielplätze sind als öffentliche Grün- und Erholungsanlagen eingestuft.
 

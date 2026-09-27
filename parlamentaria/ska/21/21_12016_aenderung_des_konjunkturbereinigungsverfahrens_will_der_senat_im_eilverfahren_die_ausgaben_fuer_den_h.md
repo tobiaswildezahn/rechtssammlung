@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11067", "21/8000", "21/11229", "20/8400", "21/11058", "21/11427"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61284"
@@ -51,7 +52,7 @@ Welche unterschiedlichen Konjunkturbereinigungsverfahren werden nach Kenntnis de
 
 Welche gesetzliche Grundlage gibt es in den jeweiligen Bundesländern jeweils für das Konjunkturbereinigungsverfahren?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für Hamburg gelten die §§ 27 Absätze 1 bis 3, 79 Absatz 3 und 6 LHO, Artikel 40 § 5 Absatz 2 Nummer 2 und Absatz 7 des Gesetzes zur strategischen Neuausrichtung des Haushaltswesens der Freien und Hansestadt Hamburg (siehe Drs. 20/8400). Die Verfahren und Rechtsgrundlagen der anderen Länder sind unter anderem im Monatsbericht März 2017 der Deutschen Bundesbank dargestellt (siehe www.bundesbank.de/Redaktion/DE/Downloads/Veroeffentlichungen/Monatsberichtsa ufsaetze/2017/2017_03_konjunkturbereinigung.pdf?__blob=publicationFile).
 
@@ -71,7 +72,7 @@ Gibt es zwingende Gründe, das Konjunkturbereinigungsverfahren bereits vor der V
 
 Plant, prüft oder erwägt der Senat beziehungsweise die zuständige Behörde derzeit, vor der Vorlage des Haushaltsplan-Entwurfs 2019/2020 bei der Bürgerschaft weitere Änderungen der Landeshaushaltsordnung zu beantragen? Wenn ja, an welchen Stellen und aus welchen Gründen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Ja. Siehe Vorbemerkung sowie Drs.21/11058 und 21/11427.
 

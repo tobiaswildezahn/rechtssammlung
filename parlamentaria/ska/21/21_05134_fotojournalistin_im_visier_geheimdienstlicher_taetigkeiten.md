@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 16
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53595"
@@ -53,7 +54,7 @@ Trifft zu, dass Marily S. durch das LfV beobachtet wurde? Wenn ja, von wann bis 
 
 Waren/Sind weitere Ämter (Bund/Länder) mit der Beobachtung von Marily S. befasst? Wenn ja, welche?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung
 

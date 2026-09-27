@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6208"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52654"
@@ -73,6 +74,6 @@ Ist f & w als Anstalt öffentlichen Rechts − und wenn ja, aufgrund welcher Rec
 
 Hat die Investition zu Zwecken von zumindest 50 Prozent gewerblicher Vermietung oder die gewerbliche Vermietung selber Auswirkungen auf die steuerliche Behandlung der f & w (unter anderem Gemeinnützigkeit) und wenn ja, welche?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 f & w tätigt keine Investitionen, die zumindest mit 50 Prozent der gewerblichen Vermietung dienen. Im Übrigen: entfällt. Darüber hinaus beantwortet der Senat hypothetische Fragen grundsätzlich nicht.

@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66980"
@@ -47,6 +48,6 @@ Wie viele Untervermietungen existieren im Wohnbestand von Hamburgs Wohnungsbauge
 
 Wie stellen Hamburgs Wohnungsbaugenossenschaften sicher, dass es bei den aufgelisteten Untervermietungen keine Gewinnerzielungsabsicht gibt? Bitte nach Wohnungsbaugenossenschaft gliedern.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der zuständigen Fachbehörde liegen keine Informationen zu Untervermietungen der Wohnungsbaugenossenschaften in Hamburg vor.

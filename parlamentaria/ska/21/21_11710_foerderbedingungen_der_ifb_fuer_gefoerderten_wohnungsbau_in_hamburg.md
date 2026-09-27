@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60944"
@@ -69,7 +70,7 @@ Wie erfolgt die Prüfung der Förderfähigkeit eines Bauvorhabens: Gibt es einen
 
 Werden einzelne Vorgaben abgeprüft und mit einer Art Punktesystem bewertet, sodass die Förderfähigkeit ab Erreichen einer bestimmten Schwelle vorliegt? Bitte die Bewertungsskala darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -97,6 +98,6 @@ Welche Beratungsmöglichkeiten haben Bauherren hinsichtlich Wohnungsbauförderun
 
 Erfolgt eine Betreuung potenzieller Bauherren während ihrer Planungsphase, um letztlich die Förderfähigkeit von Bauprojekten zu gewährleisten?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die IFB berät umfassend bei allen Fragen zur Förderung (Finanzierung, bauliche und technische Anforderungen, Bindungen et cetera) und begleitet Investoren und Planer von Beginn an in der Planungsphase und beim Antragsverfahren. Sie gibt Informationen zu allen Wohnungsbauprogrammen, Förderrichtlinien und Formularen. Beratungstermine können telefonisch oder auch persönlich erfolgen.

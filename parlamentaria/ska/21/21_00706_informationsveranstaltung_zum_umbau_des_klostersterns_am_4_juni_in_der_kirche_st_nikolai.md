@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48860"
@@ -60,7 +61,7 @@ Wie sind in den Alternativen eins bis drei die Interessen der Gewebetreibenden s
 
 Welche der in die Abwägung eingestellten Belange der Gewerbetreibenden sowie der parkenden Anwohner sind zugunsten der Belange des Radverkehrs zurück gestellt worden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Alternativen zeigen lediglich beispielhaft Möglichkeiten zur Umgestaltung des Klostersterns. Sowohl Gewerbetreibende als auch parkende Anwohner können und sollen ihre Interessen im Rahmen des Beteiligungsprozesses einbringen. Sie werden im weiteren Planungsprozess als Empfehlungen beteiligter Bürgerinnen und Bürger berücksichtigt werden. Eine Abwägung gegebenenfalls kontroverser Vorschläge erfolgt erst am Ende des Planungsprozesses.
 
@@ -88,7 +89,7 @@ Wann hat sich der Präses der Behörde für Wirtschaft, Verkehr und Innovation f
 
 Was wird die BWVI zukünftig zur Förderung des Einzelhandels im Eppendorfer Baum unternehmen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der zuständigen Behörde ist bewusst, dass der Einzelhandel – auch in Eppendorf – ein wesentlicher Bestandteil der Attraktivität Hamburgs für Einwohner und Besucher ist. Daher setzt diese sich in unterschiedlichen Formen für dessen Belange ein. Zur konkreten Förderung des Einzelhandels im Eppendorfer Baum hat sich der Präses der Behörde für Wirtschaft, Verkehr und Innovation (BWVI) nicht geäußert.
 

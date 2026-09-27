@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19200", "21/19236", "21/2521"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69104"
@@ -59,15 +60,15 @@ Die Fortschreibung des Hamburger Klimaplans in Drs. 21/19200 enthält zahlreiche
 
 Hat eine wissenschaftliche Evaluation der Klimamaßnahmen 2015 bis 2019 stattgefunden? Wenn ja: Wo ist diese Evaluation veröffentlicht? Wenn nein: Warum ist dies nicht erfolgt und auf welcher Erkenntnisbasis erfolgte die Fortschreibung des Klimapakets?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Anlage 1 der Drs. 21/19200 „Übersicht über Klimamaßnahmen 2015-2019, inkl. CO-Monitoring und Mittelverwendung“ enthält eine vollständige Übersicht der Maßnahmen des Hamburger Klimaplans einschließlich einer Darstellung, welche Maßnahmen
 
- eine Finanzierung durch das Zentrale Programm Hamburger Klimaplan erhalten
+– eine Finanzierung durch das Zentrale Programm Hamburger Klimaplan erhalten
 
 haben und in welcher Höhe,
 
- eine direkte Reduktion von CO-Emissionen erreichen.
+– eine direkte Reduktion von CO-Emissionen erreichen.
 
 Das Maßnahmenportfolio des Hamburger Klimaplans enthält zudem auch Maßnahmen, die nicht aus Mitteln des Zentralen Programms Hamburger Klimaplan finanziert werden und/oder bei denen keine direkte Minderung an CO-Emisisonen ermittelt werden kann.
 
@@ -85,7 +86,7 @@ Welche Kosten sind jeweils für die einzelnen Maßnahmen im künftigen Maßnahme
 
 In Drs. 21/19200 fehlt in vielen Fällen die Zuordnung eines konkreten Reduktionsziels zu angekündigten Einzelmaßnahmen. Gleichzeitig berichtet der Senat von „rd. 2 Mrd. Euro bis 2030“ an Kosten und führt aus: „Ein wesentlicher Teil davon ist bereits Gegenstand laufender Planung bei den jeweiligen Behörden und daher nicht zusätzlich zu veranschlagen.“ a. Welche dieser bereits beschlossenen und in Planung oder Umsetzung befindlichen Maßnahmen bis 2030 sind mit welchen Kosten bereits für die FHH veranschlagt? (Bitte tabellarisch aufzählen.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Klimaplan beinhaltet für die einzelnen Transformationspfade ein Portfolio mit einer Vielzahl sehr unterschiedlicher Maßnahmen und Maßnahmenpakete. Hierbei handelt es sich jeweils zum Teil um Maßnahmen, die bereits begonnen oder auch bereits länger geplant wurden, ganz neue Maßnahmen, deren Ausarbeitung noch nicht gestartet ist, bis hin zu Prüfungen von Maßnahmen. Zudem sind teilweise auch inhaltlich zusammenhängende Maßnahmen zu Maßnahmenpaketen zusammengefasst.
 
@@ -117,7 +118,7 @@ Welche der in Drs. 21/19200 insbesondere in Anlagen 2 bis 5 aufgeführten Maßna
 
 Welche Kosten entstehen den Bürgerinnen und Bürgern sowie Vereinen, Unternehmen und anderen nicht staatlichen Akteuren in Hamburg jeweils durch die angekündigten Klimaschutzmaßnahmen? Wie viel der Kosten wird davon jeweils durch Förderungen der FHH kompensiert? (Bitte nach Maßnahmen tabellarisch aufzählen entsprechend Frage 4).)
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Auch wenn der Klimaplan keine unmittelbare außenverbindliche Wirkung gegenüber Bürgerinnen und Bürgern entfaltet, kann die Umsetzung der Klimaschutzziele und der Maßnahmen des Klimaplans zu Mehraufwendungen führen. Diese Aufwendungen
 

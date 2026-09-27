@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4029", "21/6235", "21/12066"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63360"
@@ -77,11 +78,11 @@ Wenn ja, welche Spielplätze in welchen Bezirken sind davon betroffen?
 
 Im Bezirk Harburg wurden in den vergangenen zwölf Monaten folgende zwei Spielplätze aufgegeben:
 
- Der Spielplatz Ohrnsweg/Fischbeker Heuweg, Fischbek Neugraben. Die Liegen-
+– Der Spielplatz Ohrnsweg/Fischbeker Heuweg, Fischbek Neugraben. Die Liegen-
 
 schaft befindet sich im Allgemeinen Grundvermögen und ist planungsrechtlich nicht als Spielplatz gesichert. Die Fläche wurde zum 1. Januar 2018 an den LIG zurückgegeben.
 
- Der Spielplatz Elfenwiese, Marmstorf: Die Liegenschaft befindet sich im Allgemei-
+– Der Spielplatz Elfenwiese, Marmstorf: Die Liegenschaft befindet sich im Allgemei-
 
 nen Grundvermögen und wurde ebenfalls zum 1. Januar 2018 an den LIG zurückgeben. Die Fläche wird für den Wohnungsbau verwendet (Bebauungsplanverfahren Marmstorf 29). Der Bebauungsplanentwurf weist für den weiteren Spielflächenbedarf eine neue Spiel- und Sportanlage aus.
 
@@ -91,42 +92,42 @@ e. Bei welchen Spielplätzen ist eine Sanierung wann und zu welchen Kosten gepla
 
 Im Bezirk Hamburg-Mitte ist die Sanierung/Grunderneuerung folgender Spielplätze derzeit geplant und bereits finanziell abgesichert:
 
- Horner Park (circa 150.000 Euro),
+– Horner Park (circa 150.000 Euro),
 
- Kollwitzring (circa 400.000 Euro),
+– Kollwitzring (circa 400.000 Euro),
 
- Tweeflunken (90.000 Euro),
+– Tweeflunken (90.000 Euro),
 
- Billhorner Deich (circa 160.000 Euro).
+– Billhorner Deich (circa 160.000 Euro).
 
 Darüber hinaus ist eine Sanierung/Grunderneuerung des KSP Harvighorster Redder geplant, die Finanzierung hierzu befindet sich in Abstimmung.
 
 Das Bezirksamt Wandsbek plant in 2018 die Grundinstandsetzung folgender Spielplätze:
 
- Wiesengrund (circa 425.000 Euro),
+– Wiesengrund (circa 425.000 Euro),
 
- Heinsonweg (circa 120.000 Euro),
+– Heinsonweg (circa 120.000 Euro),
 
- Stockrosenweg (circa 75.000 Euro),
+– Stockrosenweg (circa 75.000 Euro),
 
- Spielplatz Eilbektal/Friedrichsberg (ca. 282.000 Euro).
+– Spielplatz Eilbektal/Friedrichsberg (ca. 282.000 Euro).
 
 Zudem sind auf ausgewählten Spielplätzen im Zeitraum vom 3. Quartal 2018 bis Ende
 1. Quartal 2019 diverse Neugeräte als Ersatz/Ergänzung für demontierte oder überholungsbedürftige Geräte vorgesehen.
 
 Im Bezirk Harburg werden in den Jahren 2018/2019 auf den folgenden Spielplätzen Teilsanierungen durchgeführt:
 
- Grumbrechtstraße/Alter Postweg (95.000 Euro),
+– Grumbrechtstraße/Alter Postweg (95.000 Euro),
 
- Seehofring (200.000 Euro),
+– Seehofring (200.000 Euro),
 
- Steinikestraße (50.000 Euro),
+– Steinikestraße (50.000 Euro),
 
- Zum Jägerfeld (25.000 Euro),
+– Zum Jägerfeld (25.000 Euro),
 
- Heimfelder Straße (25.000 Euro),
+– Heimfelder Straße (25.000 Euro),
 
- Ostheide/Nordheide (60.000 Euro).
+– Ostheide/Nordheide (60.000 Euro).
 
 Im Übrigen siehe Anlage 1.
 
@@ -188,7 +189,7 @@ Wie hat sich der Anteil für die Unterhaltung und Instandsetzung von Spielplätz
 
 Wie hoch ist der Anteil an Mitteln, der für die Unterhaltung und Instandsetzung von Spielplätzen in der Rahmenzuweisung „Betriebsausgaben für Grünanlagen, Spielplätze und bezirkliche Friedhöfe“ im Haushaltsplan-Entwurf 2018/2019 vorgesehen ist?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/6235.
 

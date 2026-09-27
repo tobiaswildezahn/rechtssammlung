@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 43
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7786", "21/7406", "21/8194", "21/7151", "21/6246"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56890"
@@ -43,7 +44,7 @@ Wie viele Personen sind in der EA Fiersbarg zurzeit untergebracht?
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Geschlecht  
 Kinder & Jugendliche  
@@ -98,11 +99,11 @@ Aus welchen Unterkünften kommen sie?
 
 Im Februar 2017 wurden Personen aus folgenden EA in die EA Fiersbarg verlegt:
 
- Ankunftszentrum Rahlstedt
+– Ankunftszentrum Rahlstedt
 
- Wendenstraße
+– Wendenstraße
 
- Kieler Straße
+– Kieler Straße
 
 ### Frage 7
 
@@ -145,7 +146,7 @@ Gab es im Februar 2017 Menschen, die die Unterkunft nicht beziehen wollten? Wenn
 
 Gab es im Februar 2017 Menschen, die die Unterkunft auf eigene Faust verlassen haben? Wenn ja, wie viele und aus welchen Gründen?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Nein.
 
@@ -234,7 +235,7 @@ c) Sicherheit?
 
 Wie viele davon tagsüber (7 – 18 Uhr), wie viele davon nachts (18 – 7 Uhr)? Wenn es abweichende Dienstzeiten gibt, bitte diese nennen und die Aufschlüsselung hiernach geben.
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Siehe 21/6211.
 
@@ -284,7 +285,7 @@ Welche Angebote werden den Flüchtlingen gemacht (Bildung, Freizeitgestaltung)?
 
 Wie viele Ehrenamtliche sind eingesetzt und wie helfen sie?
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Siehe Drs. 21/7151.
 
@@ -304,6 +305,6 @@ Wie hoch waren die Errichtungskosten des Standortes nach Abschluss aller Rechnun
 
 Wie hoch waren die monatlichen Betriebskosten im Januar insgesamt? Januar-Zahlen lagen zur Beantwortung der Drs. 21/7786 noch nicht vollständig vor. Inzwischen müsste das aber der Fall sein. Zusätzlich nach Art (Catering, Sicherheit usw.) und Vertragspartnern aufschlüsseln.
 
-#### Antwort zu Fragen 22 bis 23
+#### Antwort zu Fragen 22 und 23
 
 Siehe Drs. 21/7786. Es wurden im Januar 2017 keine weiteren Kosten in Rechnung gestellt.

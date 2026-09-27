@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 5
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48846"
@@ -58,7 +59,7 @@ Gibt es nach Ankunft der Flüchtlinge eine Abfrage hinsichtlich zuletzt ausgeüb
 
 Welche Detailinformationen werden gegebenenfalls abgefragt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für minderjährige Flüchtlinge, die noch der Schulpflicht unterliegen, findet systematisch eine Abfrage und Klärung der mitgebrachten Schulbildung zur Aufnahme in das Regelschulsystem grundsätzlich binnen drei Monaten in der jeweiligen Zentralen Erstaufnahme statt. Dies gilt auch für unbegleitete minderjährige Flüchtlinge in dieser Altersgruppe.
 

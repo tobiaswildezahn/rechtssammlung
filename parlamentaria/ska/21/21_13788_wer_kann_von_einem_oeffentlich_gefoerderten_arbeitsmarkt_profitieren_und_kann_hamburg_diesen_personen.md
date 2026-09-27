@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 36
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13582"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63172"
@@ -78,7 +79,7 @@ Wie viele der in Frage 1. aufgeführten eLb leben jeweils in Bedarfsgemeinschaft
 
 Wie viele der in Frage 1. aufgeführten eLb leben jeweils in a. Single-Bedarfsgemeinschaften? b. Alleinerziehenden-Bedarfsgemeinschaften? c. Partner-Bedarfsgemeinschaften ohne Kinder? d. Partner-Bedarfsgemeinschaften mit Kindern?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage 1. Aktuellere Daten liegen dem Statistik-Service der Agentur für Arbeit nicht vor.
 

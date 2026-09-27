@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10812"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59913"
@@ -57,7 +58,7 @@ Kam es bei diesem Starkregenereignis zu Überflutungen in der Straße Wiesenhöf
 
 Wie wird die Funktionsfähigkeit der RISA-Maßnahme angesichts des Starkregenereignisses vom 7. Juni 2016 beurteilt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Straße Wiesenhöfen wurde überflutet (siehe dazu auch Drs. 21/10812). In eine, nicht unmittelbar an die Straße angrenzende, Tiefgarage drang Wasser ein, das mutmaßlich von dem davor liegenden Parkplatz abfloss.
 

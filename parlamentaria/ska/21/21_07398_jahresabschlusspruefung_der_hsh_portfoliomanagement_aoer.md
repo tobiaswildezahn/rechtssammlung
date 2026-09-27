@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 18
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7195", "21/7385"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56017"
@@ -47,7 +48,7 @@ Welche einzelnen Prüfungs- und Beratungsaufträge hat PwC bislang mit jeweils w
 
 Welche einzelnen Prüfungs- und Beratungsaufträge hat PwC seit 2015 im Zusammenhang mit der Landesbeteiligung an der HSH Nordbank mit jeweils welchem Auftragsvolumen von der HSH Finanzfonds, der Freien und Hansestadt Hamburg sowie der HGV erhalten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Vorstand der hsh pm hat die PricewaterhouseCoopers AG Wirtschaftsprüfungsgesellschaft (PwC) mit der Prüfung der Aufstellung über das Kreditportfolio zum 30. Juni 2016, der Prüfung des Quartalsberichtes zum 30. Juni 2016 und der Jahresabschlussprüfung 2016 beauftragt. Der Vorstand der Finfo hat einen Auftrag über Dienstleistungen im Zusammenhang mit der Bilanzierung einer zu errichtenden Holdinggesellschaft der HSH Nordbank AG (HSH) erteilt. Eine Veröffentlichung der Auftragsvergütung ist mit Blick auf die Betriebs- und Geschäftsgeheimnisse der PwC nicht möglich.
 
@@ -85,7 +86,7 @@ Stellt die durch PwC erfolgte Marktwertermittlung des angekauften Portfolios aus
 
 Stellt die durch PwC erfolgte Marktwertermittlung des angekauften Portfolios einen Ausschlussgrund für die Abschlussprüfung nach den Vorgaben des § 319 Absatz 3 Nummer 3d HGB dar? Wenn nein, warum nicht und durch welche Stelle wurde dies geprüft?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Nein. PwC hat keine Bewertungs- oder Beratungsleistungen für die hsh pm erbracht, sondern eine Prüfung hinsichtlich des von der Europäischen Kommission (EU- Kommission) festgelegten Wertes für das übernommene Portfolio dahin gehend durchgeführt, ob der Marktwert für dieses Portfolio zum 30. Juni 2016 mindestens auf der Höhe des von der EU-Kommission festgelegten Wertes von 2,43 Milliarden Euro lag. Die Prüfungsleistung erfolgte als unabhängiger Wirtschaftsprüfer unter Beachtung der vom Institut der Wirtschaftsprüfer festgestellten Grundsätze ordnungsgemäßer Abschlussprüfung. Die Vergabe der Prüfaufträge erfolgte durch den Vorstand der hsh pm (siehe Antwort zu 1. und 2.) und wurde vergaberechtlich durch die Kanzlei Linklaters LLP begleitet.
 

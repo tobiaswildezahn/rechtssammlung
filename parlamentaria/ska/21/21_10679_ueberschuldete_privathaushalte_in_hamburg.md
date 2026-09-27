@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59582"
@@ -47,7 +48,7 @@ Wie viele Personen waren in Hamburg in den letzten fünf Jahren von Überschuldu
 
 Wie viele der überschuldeten Personen waren a. unter 30 Jahren alt? b.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 31 – 59 Jahre alt?
 
@@ -63,7 +64,7 @@ Wie viele private Insolvenzen gab es jeweils in den letzten fünf Jahren in Hamb
 
 Welche finanziellen Forderungen waren mit den jeweiligen Insolvenzen verbunden? Bitte Gesamthöhe der Verschuldung und Verschuldungssumme, die durchschnittlich pro Fall fällig wurde, nennen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage 1.
 
@@ -75,7 +76,7 @@ In wie vielen Fällen trat dabei das Jobcenter als Gläubiger auf? Wie viele For
 
 Wie viele Forderungen und in welcher Höhe sind nach Frage 5. davon a. Darlehen? b. Rückforderungen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Nach Auskunft von Jobcenter erfolgt eine Auswertung im Sinne der Fragestellung durch den Statistik-Service Nordost nicht. Das Berichtswesen zu Forderungen des Inkassobereichs ist nicht Bestandteil der amtlichen Statistik der Grundsicherung für Arbeitssuchende nach dem SGB II.
 
@@ -94,7 +95,7 @@ waren
 a. unter 30 Jahren alt?  
 b.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 31 – 59 Jahre alt?
 

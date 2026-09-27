@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16712", "21/12690"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67291"
@@ -69,6 +70,6 @@ Zu Beginn des Jahres hatte die Vorstandsvorsitzende der Hamburger Hafen und Logi
 
 Hat die Erarbeitung der angekündigten Machbarkeitsstudie zum Vorhaben „Hyperloop“ bereits begonnen? Wenn ja, zu welchem Zeitpunkt und wann ist mit ersten Ergebnissen zu rechnen beziehungsweise gibt es aktuelle Sachstände? Wenn nein, warum nicht und wann soll damit begonnen werden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Auf der diesjährigen Hauptversammlung der HHLA wurde mitgeteilt, dass mit den Prüfungen zur Leercontainerlogistik mittels Drohne und zum Vorhaben „Hyperloop“ begonnen wurde. Die Prüfungen dauern noch an.

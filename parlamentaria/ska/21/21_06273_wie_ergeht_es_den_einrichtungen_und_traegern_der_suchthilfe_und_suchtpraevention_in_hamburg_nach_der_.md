@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 22
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13954", "21/2176", "21/5000", "21/6060", "21/5611"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54789"
@@ -43,7 +44,7 @@ Welche Zuwendungsempfänger wurden 2015 und werden 2016 jeweils mit Zuwendungsmi
 
 Wie viele Anträge welcher Antragssteller auf Bereitstellung von Mitteln aus dem Strukturfonds für Innovation und Effektivität für die Jahre 2015 und 2016 wurden mit welcher Begründung jeweils abgelehnt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Mit den Mitteln des „Strukturfonds für Innovation und Effektivität“ wurden die Haushaltsmittel, die für die Förderung von Projekten der ambulanten Drogen- und Suchthilfe zur Verfügung standen, erhöht. Ein gesondertes Antragsverfahren für Mittel aus dem Strukturfonds hat nicht stattgefunden, daher wurden auch keine Anträge abgelehnt. Bei der Verwendung der Mittel aus dem Strukturfonds wurden insbesondere Präventionsprojekte und niedrigschwellige Beratungsangebote berücksichtigt (siehe Antwort zu 13.).
 
@@ -55,7 +56,7 @@ Durch die Förderung welcher Maßnahmen im vergangenen und im laufenden Jahr sie
 
 Was versteht der Senat beziehungsweise die zuständige Behörde unter „flexible Maßnahmen“ in der Drogenpolitik?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Das Angebot einer „flexiblen Maßnahme“ zeichnet sich dadurch aus, dass es sich an den Bedürfnissen und Hilfebedarfen der Hilfesuchenden orientiert und deshalb kontinuierlich angepasst wird. Dies trifft auf alle durch Zuwendung finanzierten Einrichtungen der ambulanten Suchthilfe in Hamburg zu.
 
@@ -67,7 +68,7 @@ Welche internen Strukturen der Zuwendungsempfänger werden künftig weniger fina
 
 In welchem Rahmen bewegen sich die finanziellen Kürzungen bezüglich der internen Strukturen der Maßnahmenempfänger?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Hamburgische Landesstelle für Suchtfragen e.V. erhält seit 2015 weniger Zuwendungen, da sie im Wesentlichen als Vertretung ihrer Mitglieder aus dem Bereich Drogen und Suchthilfe tätig ist. Die finanzielle Kürzung beträgt 30.000 Euro. Im Übrigen siehe Antwort zu 17.
 
@@ -139,7 +140,7 @@ Bei welchen Einrichtungen und Trägern der Suchthilfe und -prävention finden mi
 
 Welche Einrichtungen erhalten mit dem Doppelhaushalt 2017/2018 im Vergleich zum Doppelhaushalt 2015/2016 mehr finanzielle Mittel und aus welchen Gründen?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Verhandlungen mit den Zuwendungsempfängern für 2017/2018 sind noch nicht abgeschlossen.
 
@@ -294,7 +295,7 @@ Welchen zuwendungsfinanzierten Einrichtungen und Träger der Suchthilfe und Such
 
 Welchen zuwendungsfinanzierten Einrichtungen und Träger der Suchthilfe und Suchtprävention haben seit 2011 keinen finanziellen Ausgleich für inflations- und tarifbedingte Kostensteigerungen erhalten?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Siehe Drs. 21/6060.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55946"
@@ -79,6 +80,6 @@ Wie bewertet der Senat die Darstellung, der Justizsenator würde wichtige Intern
 
 Hält der Senat es für angemessen beziehungsweise gerechtfertigt, Fahndungsmitteilungen bezüglich gemeingefährlicher Täter auf Facebook zu verhindern, weil unter Umständen sogenannte Hasspostings unter der Fahndungsmitteilung zu befürchten sind? Sind dem Senat die negativen Konsequenzen derartiger Abwägungsprozesse bekannt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Senat hat sich damit nicht befasst.

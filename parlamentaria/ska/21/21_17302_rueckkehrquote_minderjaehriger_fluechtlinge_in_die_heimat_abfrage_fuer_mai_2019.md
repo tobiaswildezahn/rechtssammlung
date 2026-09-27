@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17259", "21/14874", "21/11331"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66885"
@@ -138,7 +139,7 @@ Wie viele der in Hamburg untergebrachten minderjährigen Flüchtlinge haben im Z
 
 Wie viele von ihnen haben nachweislich verschiedene Identitäten benutzt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Im Übrigen siehe Drs. 21/14874.
 
@@ -150,7 +151,7 @@ Wie viele minderjährige Flüchtlinge sind in Hamburg seit dem 1. Januar 2019 st
 
 In wie vielen Fällen ist es infolgedessen 2019 zu Verurteilungen gekommen? Bitte jeweils hinsichtlich Jahr, Alter, Geschlecht und Strafmaß aufschlüsseln.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Ob sich ein Verfahren gegen einen minderjährigen Flüchtling oder gegen einen Jugendlichen richtet, wird im Vorgangsverwaltungs- und -bearbeitungssystem MESTA der Staatsanwaltschaft nicht gespeichert. Zur Beantwortung der Frage müsste daher eine händische Auswertung aller Verfahren, die seit dem 1. Januar 2019 bei der Staatsanwaltschaft Hamburg eingegangen sind, erfolgen. Dabei handelt es sich allein für Verfahren gegen Jugendlichen aus dem Geschäftsbereich der Hauptabteilung IV um 7 763 Vorgänge. Eine Auswertung ist daher innerhalb der für eine Parlamentarische Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

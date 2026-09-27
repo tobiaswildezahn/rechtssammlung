@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 36
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10168", "21/15064", "21/1838", "21/13044", "21/5231", "21/11447", "21/13761", "21/13563", "21/15054", "21/12102"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64559"
@@ -61,7 +62,7 @@ Das eingangs zitierte Betriebskonzept ist aus 2016, gibt es eine aktuelle Versio
 
 Das eingangs zitierte Betriebskonzept orientiert sich in seinem Duktus am Sollen. Welche Verbindlichkeit ist mit dem Konzept verbunden? a. Welche Möglichkeiten bestehen überdies für Geflüchtete, hauptamtliches Personal an den jeweiligen Standorten sowie für Ehrenamtliche, die Umsetzung der im Betriebskonzept genannten Punkte einzufordern?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Das weiterhin aktuelle Betriebskonzept orientiert sich inhaltlich an der Drs 21/1838 und bildet den Rahmen für die Umsetzung der dort genannten politischen Ziele und Vorgaben für die Standorte mit der Perspektive Wohnen. Darüber hinaus ist f & w bei der Umsetzung an die Vorgaben der zuständigen Behörde gebunden, siehe Drs. 21/13044. Möglichkeiten der Einflussnahme und Mitwirkung bestehen unter anderem in den verschiedenen Beteiligungsformaten wie zum Beispiel Bewohnerräten sowie im Dialog mit den Mitarbeitenden vor Ort oder der zuständigen Bereichsleitung.
 

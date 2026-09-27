@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10528", "21/9699"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59520"
@@ -67,7 +68,7 @@ b) die Bezirksämter den aktuellen Zustand?
 
 Wie viele verschmutzte und beschädigte Verkehrsschilder mussten im Zeitraum 2011 bis 2017 durch neue ersetzt werden? (Bitte nach Jahren und Bezirken aufschlüsseln.) Bei wie vielen war eine Reinigung beziehungsweise Reparatur möglich? (Bitte einzeln nach Jahren und Bezirken aufschlüsseln.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Hierüber wird keine Statistik geführt wird.
 

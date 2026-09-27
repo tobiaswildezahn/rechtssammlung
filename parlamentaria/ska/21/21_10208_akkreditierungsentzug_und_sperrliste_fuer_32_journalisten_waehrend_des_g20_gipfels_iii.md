@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 24
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9947", "21/10042", "18/13345", "21/10147"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59103"
@@ -79,7 +80,7 @@ Wann genau wurde die Sperrliste durch das BKA erstmalig an die Hamburger Polizei
 
 Welchen Umfang hatte die von der Bundesregierung in BT.-Drs. 18/13345 angeführte „eigene Namensaufstellung“ der Hamburger Polizei, mit deren Hilfe der Zugang zum Medienzentrum kontrolliert wurde? Wann genau wurde diese Liste erstellt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/10147. Andere Erkenntnisse liegen der Polizei auch in Kenntnis der angeführten Antwort der Bundesregierung nicht vor.
 
@@ -110,7 +111,7 @@ Wie wurde sichergestellt, dass die auf der Sperrliste genannten 82 Personen auch
 
 Auf welche konkrete Weise wurde der Zutritt zum Medienzentrum elektronisch überwacht? Inwieweit kann auf Basis dieser elektronischen Zugangsüberwachung sicher ausgeschlossen werden, dass alle der auf der Sperrliste aufgeführten 82 Personen auch am Gipfel-Samstag keinen Zugang zum Medienzentrum und anderen Sicherheitsbereichen wie zum Beispiel den Delegationshotels hatten beziehungsweise dort nicht mehr erschienen sind, da ja keine „manuelle Überprüfung“ anhand von Sperrlisten mehr erfolgte?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung; im Übrigen siehe Drs. 21/10147.
 

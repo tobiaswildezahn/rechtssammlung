@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56629"
@@ -51,7 +52,7 @@ Warum genau wurde die Vollsperrung der Straße im Zuge der Bauarbeiten mehrfach 
 
 Inwiefern und aus welchen Gründen kam es zu zeitlichen Verzögerungen bei der Umsetzung der Maßnahme?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Es wurde ein Wellstahlprofil für den Durchlass der Horstbek vom Auftragnehmer eingebaut. Bei Regen wurde festgestellt, dass das verbaute Profil nicht die Dichtigkeitsanforderungen erfüllt und es dadurch zu erheblichen Auskolkungen kam. Hierdurch war eine Nachbesserung erforderlich. Ferner waren Bäume im Wurzelbereich betroffen, wodurch ein Baumgutachten erforderlich wurde.
 

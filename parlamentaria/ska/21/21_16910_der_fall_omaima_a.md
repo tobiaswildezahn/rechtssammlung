@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 18
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66451"
@@ -123,7 +124,7 @@ https://www.youtube.com/watch?v=IBaA_B3ZvJs)?
 
 Welche Informationen liegen dem Hamburger Senat und den Sicherheitsbehörden über die Bankdaten vor, die auf dem Handy von Omaima A. gefunden wurden?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Vorbemerkung.
 

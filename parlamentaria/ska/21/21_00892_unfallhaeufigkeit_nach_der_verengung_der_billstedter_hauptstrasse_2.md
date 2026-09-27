@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/112"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49063"
@@ -46,7 +47,7 @@ Wie viele Unfälle sind auf dieser Strecke für den Zeitraum vom
 
 Um welche Unfallarten handelt es sich hierbei und was waren jeweils die genauen Ursachen (bitte aufschlüsseln nach Personen- und/oder Sachschäden unter Angabe von Datum und Uhrzeit)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Zeitraum vom 17. April 2014 bis zum 16. April 2015 wurden 49 Verkehrsunfälle im in Rede stehenden Abschnitt der Billstedter Hauptstraße polizeilich registriert.
 

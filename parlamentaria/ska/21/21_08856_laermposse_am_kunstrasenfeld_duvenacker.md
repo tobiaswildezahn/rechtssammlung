@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8784"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57595"
@@ -107,7 +108,7 @@ Welche Alternativen zur Verlegung des Bolzplatzes wurden untersucht? Aus welchen
 
 Welche Nutzung soll auf der bisherigen Fläche des Bolzplatzes angesiedelt werden?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Vorbemerkung.
 

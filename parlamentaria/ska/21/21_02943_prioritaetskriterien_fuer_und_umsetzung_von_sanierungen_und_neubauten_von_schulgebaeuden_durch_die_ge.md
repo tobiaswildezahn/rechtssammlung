@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 51
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5317", "21/1282", "20/14118", "20/13169", "20/13292", "20/13281", "20/13637"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51265"
@@ -61,7 +62,7 @@ Wie hoch waren die haushaltsplanerisch in der vergangenen Legislaturperiode (WP 
 
 Wie hoch sind die haushaltsplanerisch für die laufende Legislaturperiode (WP 21) insgesamt für Erhaltungs-, Sanierungs- und Neubaumaßnahmen von Schulgebäuden in Hamburg veranschlagten Finanzmittel? (Bitte für jedes Haushaltsjahr einzeln in absoluten Zahlen – in Summe, konsumtiv wie investiv – in einer Tabelle angeben.) a. Wie hoch waren die bisherig in der laufenden Legislaturperiode (WP 21) tatsächlich für Erhaltungs-, Sanierungs- und Neubaumaßnahmen von Schulgebäuden in Hamburg ausgegebenen Finanzmittel? (Bitte in absoluten Zahlen und in Prozent, im Verhältnis zur haushaltsplanerischen Veranschlagung, gemäß den vorgegebenen Parametern, in die Tabelle zu 1. integrieren).
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 
@@ -132,7 +133,7 @@ Wie viele und welche Schulgebäude in Hamburg konnten mit Ende der vergangenen L
 
 Wie viele und welche Schulgebäude in Hamburg sollen bis Ende der laufenden Legislaturperiode (WP 21.) insgesamt planmäßig (per Baumaßnahme zu Erhaltung, Sanierung oder Neubau ab 50.000 Euro) in Angriff genommen beziehungsweise fertiggestellt werden? (Bitte jeweils mit Nennung des Standorts samt Schulform und Angabe von Gebäudezustandsklasse, Bezirk, Stadtteil sowie KESS-Faktor, chronologisch nach geplantem Baubeginn und/oder voraussichtlicher -fertigstellung geordnet, mit Ausweisung der Bausumme, in einer Tabelle angeben.) a. Wie viele und welche dieser Schulgebäude stammen noch aus der letzten (WP 20), wie viele aus der vorletzten Legislaturperiode (WP 19)? (Bitte den vorgegebenen Parametern entsprechend in der Tabelle zu 14. angeben.)
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Anlagen 2 bis 5 sowie Vorbemerkung.
 

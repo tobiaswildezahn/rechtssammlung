@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14169"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69641"
@@ -83,7 +84,7 @@ Wie hat sich die Zahl der Fußgänger/-innen und Radfahrer/-innen seit der Sperr
 
 Welche Auswirkungen auf das Nutzer-/-innenverhalten haben die seit Juli 2019 geänderten Öffnungs- und Betriebszeiten?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Öffnungs- und Betriebszeiten der Lastenaufzüge wurden unterhalb der Woche auf 6 bis 20 Uhr und am Wochenende auf 10 bis 18 Uhr verlängert, was von den Nutzerinnen und Nutzern vor allem in den Randbereichen gut angenommen wurde. Beschwerden über Öffnungszeiten und Staus für Radfahrerinnen oder Radfahrer vor den Aufzügen haben sich deutlich reduziert.
 

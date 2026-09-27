@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 12
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15558", "21/15570", "21/13046"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65493"
@@ -59,7 +60,7 @@ Wie viele Flüchtlinge beendeten im Januar und im Juli 2018 jeweils und insgesam
 
 Wie viele der Absolventinnen und Absolventen von AvM-Dual konnten in eine Ausbildung in jeweils welche Branchen vermittelt werden? Wie viele davon jeweils in betriebliche Ausbildung, schulische Ausbildung (ohne Berufsqualifizierung), Berufsqualifizierung und außerbetriebliche Ausbildung? Was machen jene, die nicht in Ausbildung vermittelt wurden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die erfragten Angaben liegen noch nicht vor. Sie werden nach derzeitigem Planungsstand im Februar 2019 vorliegen.
 

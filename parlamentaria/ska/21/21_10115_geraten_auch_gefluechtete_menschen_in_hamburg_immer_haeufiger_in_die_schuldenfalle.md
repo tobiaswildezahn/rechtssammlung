@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 15
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7995"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58943"
@@ -125,17 +126,17 @@ Bietet die Verbraucherzentrale Hamburg speziell für die Gruppe der Flüchtlinge
 
 Ja, siehe Antwort zu 1. Im Rahmen der Kooperation mit dem LEB fanden zuletzt folgenden Veranstaltungen statt:
 
- 03.06.2017, Jugendparkweg 58, 22415 Hamburg (Teilnahmezahl: 25 – 30),
+– 03.06.2017, Jugendparkweg 58, 22415 Hamburg (Teilnahmezahl: 25 – 30),
 
- 17.06.2017, Oehleckerring 17, 22419 Hamburg (Teilnahmezahl: 20),
+– 17.06.2017, Oehleckerring 17, 22419 Hamburg (Teilnahmezahl: 20),
 
- 24.06.2017, Kollausstraße 150, 22453 Hamburg (Teilnahmezahl: 15) und
+– 24.06.2017, Kollausstraße 150, 22453 Hamburg (Teilnahmezahl: 15) und
 
- 19.08.2017, Nöldeckestraße 17, 21079 Hamburg (Teilnahmezahl: 15).
+– 19.08.2017, Nöldeckestraße 17, 21079 Hamburg (Teilnahmezahl: 15).
 
 Ein weiterer Termin ist geplant am:
 
- 02.09.2017, Nöldeckestraße 17, 21079 Hamburg (Teilnahmezahl: circa 30).
+– 02.09.2017, Nöldeckestraße 17, 21079 Hamburg (Teilnahmezahl: circa 30).
 
 Zudem erfolgt eine Zusammenarbeit mit dem Deutschen Roten Kreuz. Dort wurde bislang eine Veranstaltung durchgeführt – am 27.06.2017, Flagentwiet 44, 22457 Hamburg (Teilnehmerzahl: 20).
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12876"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62364"
@@ -59,7 +60,7 @@ Hat sich Hamburg für das EU-Förderprogramm „WiFi4EU“ registriert? Wenn ja,
 
 Hält der Senat beziehungsweise die zuständige Behörde das Förderprojekt „WiFi4EU“ für eine geeignete Möglichkeit, um den unterversorgten Gebieten Hamburgs in einem ersten Schritt Rechnung zu tragen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/12876.
 

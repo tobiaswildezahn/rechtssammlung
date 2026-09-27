@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 30
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/132"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52457"
@@ -87,7 +88,7 @@ Für welche Kapazität an Einsatzaufkommen ist die Leitstelle Wendenstraße in t
 
 Wie hoch war das Einsatzaufkommen der Leitstelle Wendenstraße tatsächlich in den letzten zwei Jahren? Bitte aufgeschlüsselt nach Monaten darstellen.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 In der Rettungsleitstelle stehen zurzeit 60 Notrufverbindungen und 23 Arbeitsplätze zur Verfügung.
 

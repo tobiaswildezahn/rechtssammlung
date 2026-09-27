@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5844"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63620"
@@ -60,11 +61,11 @@ c. Welche Kosten sind für das Projekt bisher im Einzelnen entstanden? Aus welch
 
 Das Gesamtprojekt beinhaltete Ausgaben für
 
- die Erstellung der Infrastruktur,
+– die Erstellung der Infrastruktur,
 
- die Entwicklung der mobilen Anwendungen und
+– die Entwicklung der mobilen Anwendungen und
 
- den Kauf der mobilen Endgeräte.
+– den Kauf der mobilen Endgeräte.
 
 Bis Ende des Jahres 2017 wurden Mittel aus folgenden Produktgruppen bereitgestellt:
 

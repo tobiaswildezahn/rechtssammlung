@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5076", "21/9113"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59893"
@@ -43,7 +44,7 @@ Wie viele Arbeitsverhältnisse sind in den ersten drei Quartalen mit der Freien 
 
 Wie viele der unter 1. genannten Arbeitsverhältnisse sind a. unbefristet, b. sachgrundlos befristet, c. begründet befristet nach §14 (1) TzBfG? Bitte quartalsweise aufschlüsseln nach Einzelplänen unter gesonderter Ausweisung der Landesbetriebe nach § 106 Absatz 1 LHO und der staatlichen Hochschulen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 
@@ -126,7 +127,7 @@ Wie viele Arbeitsverhältnisse sind in den ersten drei Quartalen mit Unternehmen
 
 Wie viele der unter 5. genannten Arbeitsverhältnisse sind a. unbefristet, b. sachgrundlos befristet, c. begründet befristet nach §14 (1) TzBfG? Bitte quartalsweise und nach Firmen und Tochterfirmen aufschlüsseln.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Anlage.
 

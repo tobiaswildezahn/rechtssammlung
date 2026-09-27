@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/378"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50757"
@@ -56,7 +57,7 @@ abgebaut?
 
 Wie viele dieser geleisteten Mehrstunden wurden als Mehrarbeit im Sinne der Hamburgischen Mehrarbeitsvergütungsverordnung anerkannt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Wie viele Mehrstunden von den AVD-Bediensteten durch Freizeitausgleich abgebaut wurden, wird bislang nicht gesondert statistisch erfasst. Zur Beantwortung der Frage
 

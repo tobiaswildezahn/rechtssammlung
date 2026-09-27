@@ -14,6 +14,7 @@ fragen: 37
 einzelfragen: 43
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2521", "21/16533", "21/14048"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66796"
@@ -79,7 +80,7 @@ Gibt es bereits einen Entwurf der Fortschreibung 2019 des Klimaplans?
 
 Wann ist mit einer abschließenden Abstimmung im Senat zu rechnen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung.
 
@@ -111,7 +112,7 @@ Welches sind aus Sicht des Senats die notwendigen Maßnahmen zur Anpassung der S
 
 Welche der unter 12. genannten Punkte wurden daher auch im Jahre 2015 bereits zum Gegenstand des Klimaplans gemacht?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Die Anpassung an die Folgen des Klimawandels erfordert langfristig angelegtes Handeln, mit dem rechtzeitig Maßnahmen erarbeitet und umgesetzt werden, die die Bürgerinnen und Bürger vor den Folgen des Klimawandels schützen und die lebenswichtigen Infrastrukturen wie den Küstenschutz, die Abwasserentsorgung, die Verkehrsinfrastruktur und viele weitere sichern, Hinzu kommen Aufgaben zur Bewältigung der Starkregenereignisse und Binnenhochwässer und Maßnahmen gegen die Überhitzung der Stadt in sommerlichen Hitzeperioden. Die erforderliche Langfriststrategie ist im Hamburger Klimaplan verankert. Konkrete Umsetzungsmaßnahmen sind in Drs. 21/2521 dargestellt und werden auf Basis neuer Erkenntnisse stetig weiterentwickelt.
 
@@ -191,27 +192,27 @@ Welche Änderungen des regulatorischen Rahmens sieht der Senat im Zusammenhang m
 
 Der Senat hält insbesondere in folgenden Bereichen eine Minderung von Investitionshemmnissen für notwendig:
 
- Erneuerbare Energien, hier sollten die Ausschreibungsvolumina deutlich erhöht
+– Erneuerbare Energien, hier sollten die Ausschreibungsvolumina deutlich erhöht
 
 werden.
 
- Kraft-Wärme-Kopplung: Hier ist eine Fortsetzung der Förderung bis 2030 notwen-
+– Kraft-Wärme-Kopplung: Hier ist eine Fortsetzung der Förderung bis 2030 notwen-
 
 dig.
 
- Sektorenkopplung: Hier ist eine Reform der staatlichen Preisbestandteile notwen-
+– Sektorenkopplung: Hier ist eine Reform der staatlichen Preisbestandteile notwen-
 
 dig, um die erneuerbaren Energien wettbewerbsfähig in den Markt zu bringen.
 
- Landstrom: Hier ist eine Förderung durch den Bund und eine Absenkung der EEG
+– Landstrom: Hier ist eine Förderung durch den Bund und eine Absenkung der EEG
 
 Umlage notwendig.
 
- Gebäude: Hier ist zur Senkung des Wärmeverbrauchs eine Stärkung des Energie-
+– Gebäude: Hier ist zur Senkung des Wärmeverbrauchs eine Stärkung des Energie-
 
 effizienten Bauens und Sanierens notwendig.
 
- Mieterstrom: Hier sollten die Fördermöglichkeiten verbessert werden.
+– Mieterstrom: Hier sollten die Fördermöglichkeiten verbessert werden.
 
 Im Übrigen siehe Antwort zu 15. bis 17.
 
@@ -223,7 +224,7 @@ Welche weiteren regulatorischen Änderungen wird der Senat im Rahmen der Fortsch
 
 Welche Verbote, Beschränkungen und Regulierungen hält der Senat im Zuge der Fortschreibung des Klimaplans für sinnvoll und welche lehnt er ab?
 
-#### Antwort zu Fragen 24 bis 25
+#### Antwort zu Fragen 24 und 25
 
 Siehe Antwort zu 15. bis 17.
 
@@ -235,7 +236,7 @@ Welchen Verboten, Beschränkungen und Regulierungen hat der Senat seit Auflegung
 
 Welche Verbote, Beschränkungen und Regulierungen hat der Senat seit Auflegung des Klimaplans 2015 anderen Gremien zur Zustimmung vorgelegt? Welchen wurde dabei durch welche Gremien zugestimmt und welche wurden abgelehnt?
 
-#### Antwort zu Fragen 26 bis 27
+#### Antwort zu Fragen 26 und 27
 
 Der Senat geht davon aus, dass der Fragestellung Verbote, Beschränkungen und Regulierungen zugrunde liegen, die im Zusammenhang mit regulatorischen Rahmenbedingungen für die erfolgreiche Weiterentwicklung von Vorhaben und Maßnahmen aus dem Klimaplan und für Projekte der Energiewende seit Auflegung des Klimaplans 2015 stehen.
 
@@ -263,7 +264,7 @@ Wird der Senat das selbst gesteckte Ziel einer Einsparung von 2 Millionen Tonnen
 
 Welches Ziel bezüglich der CO-Einsparungen im Jahre 2020 gegenüber dem Jahr 2012 plant der Senat im Rahmen der Fortschreibung des Klimaplans?
 
-#### Antwort zu Fragen 29 bis 30
+#### Antwort zu Fragen 29 und 30
 
 Der Senat hält an dem im Klimaplan 2015 für das Jahr 2020 gesetzten quantitativen Ziel einer Minderung von circa 2 Millionen Tonnen CO-Emissionen fest.
 
@@ -310,7 +311,7 @@ Welche einzelnen Prozessschritte hinsichtlich der Erarbeitung beziehungsweise Ü
 
 Besteht ein inhaltlicher Dissens zu Inhalten des jetzigen Arbeitsstandes des Klimaplans 2018 innerhalb der federführenden Behörde oder den übrigen involvierten Behörden? Wenn ja, zu welchen konkreten Inhalten gibt es nennenswerte Meinungsverschiedenheiten und von welchen Behörden werden diese entsprechend adressiert?
 
-#### Antwort zu Fragen 36 bis 37
+#### Antwort zu Fragen 36 und 37
 
 Die abschließende Drucksachenabstimmung zur Fortschreibung des Klimaplans ist noch nicht erfolgt, siehe dazu auch Antwort zu 1.
 

@@ -14,6 +14,7 @@ fragen: 31
 einzelfragen: 36
 antwortbloecke: 22
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69831"
@@ -148,7 +149,7 @@ Wie viele private Abwasseranlagen gibt es innerhalb von Wasserschutzgebieten auf
 
 Wie viele private Abwasseranlagen gibt es außerhalb von Wasserschutzgebieten auf dem Gebiet Hamburgs?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Gewerblich genutzte Grundstücke
 
@@ -189,7 +190,7 @@ Wie viele gewerbliche Abwasseranlagen gibt es innerhalb von Wasserschutzgebieten
 
 Wie viele gewerbliche Abwasseranlagen gibt es außerhalb von Wasserschutzgebieten auf dem Gebiet Hamburgs?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Siehe Antwort zu 11. und 12.
 
@@ -217,7 +218,7 @@ Zu wie vielen Anzeigen welcher Art kam es bisher im Zusammenhang mit dem Verlang
 
 In wie vielen Fällen waren dabei private und in wie vielen Fällen gewerbliche Anlagen betroffen?
 
-#### Antwort zu Fragen 20 bis 21
+#### Antwort zu Fragen 20 und 21
 
 Statistiken im Sinne der Fragestellungen werden bei der Polizei nicht geführt.
 

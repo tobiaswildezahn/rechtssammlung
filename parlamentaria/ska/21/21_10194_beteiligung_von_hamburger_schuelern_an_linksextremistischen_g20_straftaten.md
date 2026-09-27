@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5184", "21/9906"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59035"
@@ -47,7 +48,7 @@ Welche Kenntnisse liegen dem Senat über eine Beteiligung Hamburger Schüler an 
 
 Wie kommt der Schulsenator zu der Aussage: „Einige, die am Wochenende Gewalt und Schrecken verbreitet haben, waren oder sind Schülerinnen und Schüler“?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es ist davon auszugehen, dass an den Gewaltvorfällen auch Hamburgerinnen und Hamburger beteiligt waren und die Gewaltvorfälle nicht ausschließlich auf Zugereiste zurückzuführen sind. Es ist weiter davon auszugehen, dass diese Hamburgerinnen und Hamburger zu großem Teil auch in Hamburg zur Schule gegangen sind.
 

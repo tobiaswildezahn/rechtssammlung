@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5110"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68361"
@@ -48,7 +49,7 @@ Welche Konsequenzen zog der jeweilige Senat bei der Evaluierung des Hamburger Hu
 
 Warum wurden bei der Evaluierung des Hamburger Hundegesetzes Hunderassen, die im Berichtszeitraum aufgrund der Beißstatistik wenig oder gar nicht in Beißvorfälle verwickelt waren, nicht von der Rasseliste gestrichen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nach Inkrafttreten des Hamburgischen Hundegesetzes im Jahr 2006 hat eine zweimalige Evaluierung des Hundegesetzes stattgefunden. Da die Erfahrungen gezeigt haben, dass sich das Hundegesetz insgesamt und insbesondere auch im Hinblick auf die besonderen Vorschriften für die gefährlichen Hunde bewährt hat, wurden die restriktiven Regelungen bezüglich der Rasselisten im Rahmen der Evaluierung nicht geändert. Die Beißstatistik der vergangenen Jahre lässt zwar bei den als gefährlich eingestuften Hunden keine im Vergleich zu anderen Hunderassen überproportionale Anzahl von Beißvorfällen erkennen. Dies liegt jedoch weniger an einer potenziell geringen Gefährlichkeit der Hunde, sondern vielmehr an den mit dem Hundegesetz einhergehenden restriktiven Regelungen bezüglich der als gefährlich eingestuften Hunde. Insgesamt lässt sich festhalten, dass es trotz der Leinen- und Maulkorbpflicht bei den in § 2 Absatz 1 des Hundegesetzes gelisteten Rassen zu Beißvorfällen kommt, woraus sich umso mehr die Notwendigkeit der Beibehaltung der sogenannten Rasselisten herleiten lässt. Ebenso verhält es sich mit den in § 2 Absatz 3 des Hundegesetzes gelisteten Rassen. Die Beißstatistik belegt, dass es trotz bestandenem Wesenstest auch bei diesen gelisteten Hunden zu Beißvorfällen kommt, sodass zur Vermeidung weiterer Beißvorfälle die strengen Regelungen beibehalten wurden.
 

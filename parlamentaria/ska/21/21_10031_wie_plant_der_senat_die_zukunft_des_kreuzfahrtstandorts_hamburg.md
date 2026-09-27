@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 20
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10414"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58846"
@@ -49,7 +50,7 @@ Ist es zutreffend, dass der Senat beziehungsweise die zuständige Behörde derze
 
 Welche Planungen verfolgt der Senat im Hinblick auf das Cruise Center Hamburg e.V. (HCC)/Cruise Net Hamburg (CNH) für die Zukunft des Kreuzfahrtstandortes? a. Wie sind private Akteure in diese Planungen eingebunden beziehungsweise wie soll wer wann darin eingebunden werden? b. Wann plant der Senat, die Drucksache zu veröffentlichen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung. Im Übrigen ist der HCC ein Verein, der vorrangig seinen Mitgliedern gegenüber rechenschaftspflichtig ist. Die Mitglieder des HCC waren über die Fortführung von Cruise Net Hamburg informiert und dementsprechend eingebunden. Darüber hinaus sind die Planungen noch nicht abgeschlossen.
 

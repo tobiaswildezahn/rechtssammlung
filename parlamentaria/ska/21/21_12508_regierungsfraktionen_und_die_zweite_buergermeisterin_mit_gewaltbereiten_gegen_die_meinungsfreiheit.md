@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12331", "21/12416"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61808"
@@ -101,7 +102,7 @@ Welche Erkenntnisse haben die Behörden über die Teilnahme von Linksextremisten
 
 Welche Erkenntnisse haben die Behörden über die Teilnahme von Rechtsextremisten und Personen aus dem „Reichsbürger“-Milieu an der „Merkel-muss-weg“-Demonstration am 26.03.2018?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 In den sozialen Medien wurde eine Teilnahme von Linksextremisten und autonomen „Antifa-Gruppierungen“ an der erfragten Versammlung angekündigt. In der Spitze
 

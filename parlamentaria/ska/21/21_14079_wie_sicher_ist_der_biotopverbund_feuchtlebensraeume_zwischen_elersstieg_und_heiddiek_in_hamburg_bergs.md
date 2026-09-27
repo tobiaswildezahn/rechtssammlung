@@ -11,9 +11,10 @@ fraktionen: ["GRÜNE"]
 vorgang: 57868
 seiten: 5
 fragen: 10
-einzelfragen: 17
-antwortbloecke: 10
+einzelfragen: 29
+antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63482"
@@ -98,17 +99,22 @@ Die geschützte Knickfläche ist circa 5 Meter breit. Sie berechnet sich aus ein
 ### Frage 6
 
 Südlich des Teiches wird im Landschaftsprogramm (Arten- und Biotopschutz) bis zum Heiddiek eine geschützte Fläche ausgewiesen (breiter als der geschützte Knick), die aber nicht im LSG zu liegen scheint, also breiter als das LSG ist (vergleiche unter https://geoportalhamburg.de/geoportal/geo-online/).
-6.1. Liegt hier tatsächlich eine „strittige“ Fläche zwischen Landschaftsprogramm (LaPro) einerseits und LSG-Ausweisung beziehungsweise Flächennutzungsplan und Baustufenplan vor? Wenn ja, wie ist dieser Unterschied zu erklären? Besteht hier Handlungsbedarf, um die im LaPro geschützte Fläche und den Biotopverbund vor einer Schädigung zum Beispiel durch Bebauung (bei einem möglichen Bauantrag) zu schützen?
 
-#### Antwort zu Frage 6
+### Frage 6.1
+
+Liegt hier tatsächlich eine „strittige“ Fläche zwischen Landschaftsprogramm (LaPro) einerseits und LSG-Ausweisung beziehungsweise Flächennutzungsplan und Baustufenplan vor? Wenn ja, wie ist dieser Unterschied zu erklären? Besteht hier Handlungsbedarf, um die im LaPro geschützte Fläche und den Biotopverbund vor einer Schädigung zum Beispiel durch Bebauung (bei einem möglichen Bauantrag) zu schützen?
+
+#### Antwort zu Fragen 6 und 6.1
 
 Es ist nicht eindeutig nachvollziehbar, welcher Schutz mit der „geschützten Fläche“ gemeint ist.
 
 In dem Bereich besteht eine Fläche mit sogenanntem Klärungsbedarf. Der Unterschied erklärt sich aus den unterschiedlichen Zielsetzungen des Landschaftsprogramms (LaPro) und des Flächennutzungsplans. Schutz vor möglicher Bebauung birgt vor allem die Schaffung entsprechenden Planrechts.
 
-6.2. Wurde für die Fläche vom Heiddiek parallel zum geschützten Knick (also südlich des Teiches) ein Bauantrag eingereicht?
+### Frage 6.2
 
-Wenn ja, wann und wurde darüber schon entschieden?
+Wurde für die Fläche vom Heiddiek parallel zum geschützten Knick (also südlich des Teiches) ein Bauantrag eingereicht? Wenn ja, wann und wurde darüber schon entschieden?
+
+#### Antwort zu Frage 6.2
 
 Für die Bereiche südlich des Teiches liegen dem zuständigen Bezirksamt keine Bauanträge vor.
 
@@ -123,64 +129,82 @@ Ja, die Fläche liegt im Biotopverbund der Feuchtlebensräume. Es ist vorgesehen
 ### Frage 8
 
 Im besagten Gebiet liegt seit den Neunzigerjahren ein Teich direkt neben dem Flusslauf der Rodenbek, der angelegt wurde und auf dem zudem auch zeitweise mit einem Ruderboot gefahren und in dem gebadet wurde.
-8.1. Liegt dieser Teich im LSG?
 
-#### Antwort zu Frage 8
+### Frage 8.1
+
+Liegt dieser Teich im LSG?
+
+#### Antwort zu Fragen 8 und 8.1
 
 Ja.
 
-8.2. Wann und unter welchen Auflagen wurde die Anlage dieses Teiches von wem genehmigt?
+### Frage 8.2
+
+Wann und unter welchen Auflagen wurde die Anlage dieses Teiches von wem genehmigt?
+
+#### Antwort zu Frage 8.2
 
 Es liegt eine wasserrechtliche Ausbaugenehmigung vom 17. April 1997 vor, die in seinerzeitiger Zuständigkeit von der Baubehörde/Amt für Wasserwirtschaft ausgestellt wurde. Die Auflagen beinhalten:
 
- Lage der Ein- und Auslaufschwelle zur Rodenbek um 0,1 m höher als der Normal-
+– Lage der Ein- und Auslaufschwelle zur Rodenbek um 0,1 m höher als der Normal-
 
 wasserstand der Rodenbek beziehungsweise nach Festlegung durch die Wasserbauabteilung des Bezirksamts
 
- Verwendung gewässerunschädlichen natürlichen Materials und Verbot von tropi-
+– Verwendung gewässerunschädlichen natürlichen Materials und Verbot von tropi-
 
 schen Hölzern
 
- Schaffung einer ausgeprägten Flachwasserzone mit Böschungsneigung 1:10 oder
+– Schaffung einer ausgeprägten Flachwasserzone mit Böschungsneigung 1:10 oder
 
 flacher
 
- Bepflanzung ausschließlich naturnah mit standortgerechten, heimischen Pflanzen
+– Bepflanzung ausschließlich naturnah mit standortgerechten, heimischen Pflanzen
 
 der Sumpfzone und der Weichholzzone
 
- Ausschluss der Einleitung von häuslich oder industriell verschmutztem Wasser,
+– Ausschluss der Einleitung von häuslich oder industriell verschmutztem Wasser,
 
 von Düngern und sonstigen belastenden Stoffen
 
- Ausschluss der Nutzung als Tränke für weidende Tiere
+– Ausschluss der Nutzung als Tränke für weidende Tiere
 
- Vorbehalt ergänzender Auflage bei Missständen
+– Vorbehalt ergänzender Auflage bei Missständen
 
- Erfordernis neuer Zulassungen bei Veränderungen
+– Erfordernis neuer Zulassungen bei Veränderungen
 
-8.3. Darf der Teich einen (geregelten) Zufluss von der Rodenbek haben?
+### Frage 8.3
 
-Wenn nein, wurde kontrolliert, ob der Teich von Süden aus einen möglicherweise über einen Schieber regulierbaren (etwas verdeckten) Zufluss von der Rodenbek hat?
+Darf der Teich einen (geregelten) Zufluss von der Rodenbek haben? Wenn nein, wurde kontrolliert, ob der Teich von Süden aus einen möglicherweise über einen Schieber regulierbaren (etwas verdeckten) Zufluss von der Rodenbek hat? Wenn ja, mit welchem Ergebnis?
 
-Wenn ja, mit welchem Ergebnis?
+#### Antwort zu Frage 8.3
 
 Laut Genehmigungsunterlage ist der Teich über einen Ein- und einen Auslauf mit der Rodenbek verbunden. Der oben genannten Auflage nach handelt es sich um ungeregelte Anlagen. Eine Kontrolle im Hinblick auf einen möglicherweise vorhandenen Schieber ist nicht erfolgt.
 
-8.4. Darf auf dem Teich gerudert und geschwommen werden?
+### Frage 8.4
+
+Darf auf dem Teich gerudert und geschwommen werden?
+
+#### Antwort zu Frage 8.4
 
 Ja, das Befahren von Gewässern mit Booten ohne Motorantrieb und das Baden ist Gemeingebrauch nach Wasserrecht.
 
 ### Frage 9
 
 Im Rahmen der kürzlich genehmigten Baumaßnahmen wurde direkt nördlich im Teich eine Spundwand eingezogen.
-9.1. Wurde diese Spundwand genehmigt? Wenn ja, wann und von wem? Wenn nein, was gedenkt die Verwaltung zu tun?
 
-#### Antwort zu Frage 9
+### Frage 9.1
+
+Wurde diese Spundwand genehmigt? Wenn ja, wann und von wem? Wenn nein, was gedenkt die Verwaltung zu tun?
+
+#### Antwort zu Fragen 9 und 9.1
 
 Für den Einbau einer Spundwand liegt dem zuständigen Bezirksamt als Wasserbehörde kein Antrag auf Genehmigung vor. Sollte sich der Einbau der Spundwand bestätigen und sie keinen nachvollziehbar vernünftigen Zweck erfüllen, kann das Bezirksamt die Beseitigung verfügen und ein Ordnungswidrigkeitenverfahren wegen eines Verstoßes gegen Auflagen einer Genehmigung durchführen. Ebenfalls ist zu prüfen, ob ein Ordnungswidrigkeitenverfahren wegen eines Verstoßes gegen die Bestimmungen der Landschaftsschutzverordnung zu veranlassen ist.
 
-9.2. Wann wurde welcher bezirkliche Ausschuss mit den Bauanträgen nördlich des Teiches befasst?
+### Frage 9.2
+
+Wann wurde welcher bezirkliche Ausschuss mit den Bauanträgen nördlich des Teiches befasst?
+
+#### Antwort zu Frage 9.2
 
 Die zwei Einfamilienhäuser direkt am Elersstieg und in zweiter Reihe wurden dem Bauprüfausschuss Walddörfer am 7. März 2018 zur Kenntnis gegeben.
 
@@ -189,17 +213,29 @@ Das Einfamilienhaus in dritter Reihe lag dem Bauprüfausschuss Walddörfer am
 
 Ein Vorbescheid mit einer Bebauung mit einer Überschreitung der zulässigen GFZ lag dem Ausschuss am 2. März 2016 vor.
 
-9.3. Wurde der bezirkliche Ausschuss nur informiert über den Bauantrag oder gab es auch eine Abstimmung dazu? Wenn es keine Abstimmung dazu gab, warum nicht?
+### Frage 9.3
+
+Wurde der bezirkliche Ausschuss nur informiert über den Bauantrag oder gab es auch eine Abstimmung dazu? Wenn es keine Abstimmung dazu gab, warum nicht?
+
+#### Antwort zu Frage 9.3
 
 Der Ausschuss wurde informiert und hat sich der positiven Verwaltungsmeinung angeschlossen. Eine Abstimmung dazu gab es nicht, da das Vorhaben als allgemein zulässig erachtet wurde.
 
 Beim Vorbescheid aus dem Jahr 2016 wurde über eine nicht erteilte Befreiung abgestimmt. Die Entscheidung wurde bestätigt.
 
-9.4. Wurde der zuständige bezirkliche Ausschuss über die Errichtung einer Spundwand im LSG im Rahmen der Behandlung des Themas informiert?
+### Frage 9.4
+
+Wurde der zuständige bezirkliche Ausschuss über die Errichtung einer Spundwand im LSG im Rahmen der Behandlung des Themas informiert?
+
+#### Antwort zu Frage 9.4
 
 Nein, siehe dazu auch Antwort zu 9.1.
 
-9.5. Befinden sich Teile der Flächen, die im LSG liegen, im Baubereich (insbesondere bei dem am südlichsten liegenden Baukörper)?
+### Frage 9.5
+
+Befinden sich Teile der Flächen, die im LSG liegen, im Baubereich (insbesondere bei dem am südlichsten liegenden Baukörper)?
+
+#### Antwort zu Frage 9.5
 
 Alle Baukörper befinden sich im mit W1o ausgewiesenen Baubereich.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62097"
@@ -77,19 +78,19 @@ Erfüllt die altonale GmbH dadurch weiterhin den Satus einer „Non-Profit- Kult
 
 Die altonale20 plant mit folgenden weiteren Einnahmen:
 
- Flächenvermarktung der Stände:
+– Flächenvermarktung der Stände:
 9.300 Euro
 
- Eintrittsgelder:
+– Eintrittsgelder:
 2.100 Euro
 
- Anzeigenverkauf:
+– Anzeigenverkauf:
 30.000 Euro
 
- altonale Freundeskreis:
+– altonale Freundeskreis:
 11.000 Euro
 
- Stiftung(en):
+– Stiftung(en):
 4.700 Euro (beantragt)
 
 Die altonale GmbH erzielte bisher keine Gewinne.

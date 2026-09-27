@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 21
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8385", "21/2278", "21/8568"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62154"
@@ -96,6 +97,6 @@ Wie viele Schüler/-innen mit von den ReBBZ diagnostiziertem sonderpädagogische
 
 Wie viele Schüler/-innen mit von den ReBBZ diagnostiziertem sonderpädagogischem Förderbedarf LSE in der jetzigen Jahrgangsstufe 4 (2017/2018) werden nach den Ergebnissen der Verteilerkonferenzen im kommenden Schuljahr 2018/2019 (Stand 26.4.2018) jeweils die Jahrgangsstufe 5 welcher staatlichen sechsjährigen Grundschulen (Primarschulen) beziehungsweise welcher staatlichen Stadtteilschulen und Gymnasien besuchen? Wie viele Schüler/-innen werden den Jahrgang 5 in 2018/2019 an diesen Standorten insgesamt besuchen? (Bitte, nach Schulformen unterschieden, mit Nennung von Standort, Sozialindex und Bezirk in absoluten Zahlen und in Prozent in einer Excel-Tabelle angeben.) a. Wie viele Schüler/-innen werden es dabei pro Standort jeweils in den einzelnen Förderschwerpunkten L, S und E sein? (Bitte für jeden Schwerpunkt gesondert entsprechend in der Tabelle zu 7. angeben.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Anlage.

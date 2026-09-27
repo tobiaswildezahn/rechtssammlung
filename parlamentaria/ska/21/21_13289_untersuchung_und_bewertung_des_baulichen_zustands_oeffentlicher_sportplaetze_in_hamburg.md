@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10510", "20/2948", "20/6181", "20/8204", "20/13931", "21/1618", "21/7030"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62636"
@@ -319,7 +320,7 @@ Mit der Einbeziehung von realistischen anlagenbezogenen Abschreibungswerten wird
 
 Ist geplant, für alle öffentlichen Sportoberflächen und -einrichtungen eine Abschreibungssystematik einzuführen? Wenn ja, zu wann? Bitte aufschlüsseln für jede einzelne Fläche und Einrichtung. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Ermittlung bauteilbezogener Abschreibungswerte wurde im Bauzustandsbericht 2017 für die nächste Fortschreibung angekündigt und im Bericht Sportfreianlagen exemplarisch für das Bauteil Kunststoffrasen vorgestellt (vergleiche hierzu Bauzustandsbericht „Öffentliche Sportplätze in Hamburg 2017“). Zusammengefasst lässt sich zum Bauteil Kunststoffrasen hierzu erläutern, dass dessen Nutzoberfläche bei fachgerechter Pflege eine Lebensdauer von zwölf – 14 Jahren besitzt und nach Ablauf dieser Zeit entsprechend zu erneuern ist. Der Kostenaufwand einer solchen Erneuerung liegt aktuell bei einem Standard-Großspielfeld bei circa 150.000 Euro.
 

@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 28
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14264", "20/8154", "21/1258", "21/6454"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57554"
@@ -74,11 +75,11 @@ Das geplante Budget der Freien und Hansestadt Hamburg (FHH) und des Europäische
 
 Den Leistungsbereichen Aufenthalts- und Melderecht sowie Neubürgerservice sind zusammen 14 Planstellen zugeordnet. Die personelle Ausstattung in Vollkräften (VK) gestaltet sich für die bezirklichen Leistungsbereiche wie folgt (Stand 31.3.2017):
 
- Leistungsbereich 1 Aufenthalts- und Melderecht: 8,75 VK inklusive Leitung (zwei
+– Leistungsbereich 1 Aufenthalts- und Melderecht: 8,75 VK inklusive Leitung (zwei
 
 Stellen werden zum 1. Juni beziehungsweise 1. August 2017 nachbesetzt)
 
- Leistungsbereich 2 Neubürgerservice: drei VK inklusive Leitung
+– Leistungsbereich 2 Neubürgerservice: drei VK inklusive Leitung
 
 „Make it in Hamburg!“ ist mit 1,85 VK ausgestattet.
 
@@ -188,7 +189,7 @@ Wie viele erfolgreiche Vermittlungen von Fachpersonal an Kleinunternehmen/Start-
 
 Mit welchen ausländischen Institutionen arbeitet das HWC bei der Vermittlung von Arbeitskräften zusammen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Das HWC führt keine Vermittlung von Arbeitskräften durch, dies ist gesetzliche Aufgabe der Agentur für Arbeit und Jobcenter team.arbeit.hamburg.
 
@@ -265,29 +266,29 @@ Zur Identifikation von Ansiedlungskandidaten sowie zur Erstberatung unterhält d
 
 Firmen wird folgender Service geboten:
 
-• Allgemeine Standortinformationen und -analysen,
+– Allgemeine Standortinformationen und -analysen,
 
-• Standortauswahl und -besichtigungen,
+– Standortauswahl und -besichtigungen,
 
-• Betreuung von internationalen Wirtschaftsdelegationen,
+– Betreuung von internationalen Wirtschaftsdelegationen,
 
-• Durchführung von Informationsveranstaltungen.
+– Durchführung von Informationsveranstaltungen.
 
 Die HWF bietet darüber hinaus allen Unternehmen eine Erstinformation zu
 
-• Steuer- und Rechtsfragen,
+– Steuer- und Rechtsfragen,
 
-• Unternehmensgründungen,
+– Unternehmensgründungen,
 
-• Arbeits- und Aufenthaltsgenehmigungen,
+– Arbeits- und Aufenthaltsgenehmigungen,
 
-• Fördermittel- und Finanzierungsfragen,
+– Fördermittel- und Finanzierungsfragen,
 
-• Suche nach Arbeits- und Fachkräften,
+– Suche nach Arbeits- und Fachkräften,
 
-• Antrags- und Genehmigungsverfahren,
+– Antrags- und Genehmigungsverfahren,
 
-• Zugang zu regionalen, nationalen und internationalen Partnernetzwerken.
+– Zugang zu regionalen, nationalen und internationalen Partnernetzwerken.
 
 Bei darüber hinaus gehendem Beratungsbedarf begleitet und vermittelt die HWF ihre Kundinnen und Kunden an weitere Partnerinstitutionen aus dem Fördernetzwerk Hamburg sowie die Rechtsanwalts- beziehungsweise Steuerberatungskammer. Die Standortwerbung der HWF wird flankiert durch internationale Pressearbeit der Hamburg Marketing GmbH.
 

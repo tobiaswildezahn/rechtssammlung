@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9298"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53064"
@@ -63,7 +64,7 @@ Hat die HPA bisher weiter keine Planung für die Betriebskosten der Landstromanl
 
 Wann wird die HPA ein Finanzierungskonzept für den Betrieb der Landstromanlage entwickeln? Wie weit sind dazu die Planungen? Welche Probleme gibt es dabei?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Bei der Landstromanlage Altona handelt es sich um ein Pilotprojekt, für das es keine vergleichbaren Projekte gibt. Die Planungen für den Betrieb der Anlage können erst abgeschlossen werden, nachdem eine Volllastversorgung stattgefunden hat.
 
@@ -75,6 +76,6 @@ Aus welcher Produktgruppe welches Einzelplans werden mögliche Verluste aus dem 
 
 Welche Verluste für den Betrieb der Landstromanlage sind in den Jahren 2016, 2017 und 2018 geplant? Woraus werden diese Verluste gedeckt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antwort zu 3. und 4. sowie Drs. 20/9298.

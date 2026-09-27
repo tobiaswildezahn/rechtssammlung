@@ -14,6 +14,7 @@ fragen: 43
 einzelfragen: 58
 antwortbloecke: 35
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6220", "21/7019"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55967"
@@ -97,7 +98,7 @@ Wie erfolgt aktuell die Koordination zwischen den zuständigen Stellen in Hambur
 
 Der ADAC Hanse forderte Mitte Oktober dieses Jahres einen einheitlichen Baustellenkoordinator für ganz Norddeutschland, der für Autobahnen und wichtige Bundesstraßen in Hamburg, Schleswig-Holstein, Niedersachsen und Teilen von Mecklenburg-Vorpommern zuständig sein sollte. Welche Argumente sprechen aus Sicht des Senats beziehungsweise der zuständigen Behörde gegen die Umsetzung dieser Forderung?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antwort zu 1.
 
@@ -109,13 +110,13 @@ Welche zusätzlichen Leistungen wird die neue Stabsstelle über die bisherigen L
 
 Die zusätzlichen Leistungen gegenüber den genannten Stellen umfassen die bisher von Herrn Fuchs übernommenen Aufgaben, insbesondere die Koordinierung aller Beteiligten. Ferner sollen folgende Bereiche gestärkt werden:
 
- systematische Ausdehnung des Betrachtungsraums über die Ländergrenzen und
+– systematische Ausdehnung des Betrachtungsraums über die Ländergrenzen und
 
 die BAB A 7 hinaus,
 
- Intensivierung der Abstimmung,
+– Intensivierung der Abstimmung,
 
- Schaffung größerer Planungssicherheit für alle Beteiligten.
+– Schaffung größerer Planungssicherheit für alle Beteiligten.
 
 ### Frage 8
 
@@ -125,7 +126,7 @@ Wie definiert der Senat beziehungsweise die zuständige Behörde den „Großrau
 
 Worin unterscheiden sich der „Großraum Hamburg“ und die „Metropolregion Hamburg“ geografisch?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Der Begriff „Großraum Hamburg“ ist rechtlich nicht exakt bestimmt. Er umfasst neben der Freien und Hansestadt Hamburg die sechs an Hamburg angrenzenden Umlandkreise, durch die alle von und nach Hamburg laufenden regional und überregional bedeutsamen Straßen verlaufen. Die deutlich größere und rechtlich definierte Metropolregion Hamburg umfasst hingegen sechs Kreise und zwei kreisfreie Städte in Schleswig-Holstein, acht niedersächsische Landkreise, in Mecklenburg-Vorpommern den Altkreis Ludwiglust, den Landkreis Nordwestmecklenburg sowie demnächst die Landeshauptstadt Schwerin und den ganzen Landkreis Ludwigslust inklusive Altkreis Parchim. Im Übrigen siehe Vorbemerkung.
 
@@ -137,29 +138,29 @@ In der Aktuellen Stunde der Bürgerschaft vom 13. Oktober 2016 hat der Präses d
 
 Übergeordnete Verkehrsbesprechungen zwischen den Ländern nach der neuen Systematik haben am 9. und 21. November 2016 stattgefunden. Teilgenommen haben die nachfolgenden relevanten Dienststellen der Länder Niedersachsen, Schleswig- Holstein und Hamburg:
 
- BWVI mit Landesbetrieb Straßen, Brücken und Gewässer (LSBG),
+– BWVI mit Landesbetrieb Straßen, Brücken und Gewässer (LSBG),
 
- Landesbetrieb Straßenbau und Verkehr Schleswig-Holstein (LBV-SH),
+– Landesbetrieb Straßenbau und Verkehr Schleswig-Holstein (LBV-SH),
 
- Niedersächsische Landesbehörde für Straßenbau und Verkehr,
+– Niedersächsische Landesbehörde für Straßenbau und Verkehr,
 
- Kreis Pinneberg,
+– Kreis Pinneberg,
 
- Landkreis Stade,
+– Landkreis Stade,
 
- Landkreis Harburg,
+– Landkreis Harburg,
 
- Polizei Hamburg,
+– Polizei Hamburg,
 
- Polizei Niedersachen (Polizeiinspektion Harburg und Autobahnpolizeikommissariat
+– Polizei Niedersachen (Polizeiinspektion Harburg und Autobahnpolizeikommissariat
 
 Winsen(L)),
 
- Ministerium für Inneres und Bundesangelegenheiten Schleswig-Holstein (Polizei
+– Ministerium für Inneres und Bundesangelegenheiten Schleswig-Holstein (Polizei
 
 SH),
 
- DEGES Deutsche Einheit Fernstraßenplanungs- und -bau GmbH (DEGES).
+– DEGES Deutsche Einheit Fernstraßenplanungs- und -bau GmbH (DEGES).
 
 In dem Zeitraum 2011 bis Oktober des Jahres 2016 haben länderübergreifende Verkehrsbesprechungen projekt- beziehungsweise streckenbezogen mit einem wechselnden Teilnehmerkreis stattgefunden.
 
@@ -239,7 +240,7 @@ a) Hat die Koordinierung länderübergreifender Maßnahmen nach dem
 13. Oktober 2016 nicht mehr hervorragend geklappt?
 b) Warum bedarf es der neuen Stabsstelle, wenn die Koordinierung länderübergreifender Maßnahmen mindestens bis zum 13. Oktober 2016 hervorragend geklappt hat?
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Siehe Vorbemerkung.
 

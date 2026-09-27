@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10994"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62458"
@@ -109,7 +110,7 @@ Welche Erkenntnisse liegen den zuständigen Behörden über spezifische „modi 
 
 Welche Erkenntnisse liegen den zuständigen Behörden über telefonischen Trickbetrug an älteren Menschen, der aus dem Ausland heraus begangen wird, vor?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Im Wesentlichen wird zwischen zwei Fallkonstellationen unterschieden:
 

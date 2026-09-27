@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 55909
 seiten: 4
 fragen: 13
-einzelfragen: 15
-antwortbloecke: 12
+einzelfragen: 21
+antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11189"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61340"
@@ -126,17 +127,24 @@ Unabhängig von dem bestehenden oder verbleibenden Altbaumbestand ist durch die 
 ### Frage 10
 
 In der Drs. 21/11189 beantwortet der Senat die Frage nach der forstfachlichen Begründung des Kahlhiebs mit der Erforderlichkeit der „Herstellung der Verkehrssicherheit“ für die angrenzenden Grundstücke.
-10.1. Haben in der Vergangenheit regelmäßige Baumkontrollen durch den Waldeigentümer und gegebenenfalls daraus abgeleitete Maßnahmen zur Sicherstellung der Verkehrssicherheit stattgefunden?
 
-#### Antwort zu Frage 10
+### Frage 10.1
+
+Haben in der Vergangenheit regelmäßige Baumkontrollen durch den Waldeigentümer und gegebenenfalls daraus abgeleitete Maßnahmen zur Sicherstellung der Verkehrssicherheit stattgefunden?
+
+#### Antwort zu Fragen 10 und 10.1
 
 Nach Angaben des Waldeigentümers hat dieser in unterschiedlichen Abständen Sichtkontrollen durchgeführt und nach vermehrt aufgetretenen Starkastabbrüchen mit Schadensfällen außerhalb von Sturmereignissen ein Gutachten in Auftrag gegeben.
 
-10.2. Haben die zuständigen Stellen in den letzten zehn Jahren für diese Waldfläche Maßnahmen zur Sicherstellung der Verkehrssicherheit vom Eigentümer verlangt?
+### Frage 10.2
 
-Wenn ja, wurden diese Maßnahmen umgesetzt?
+Haben die zuständigen Stellen in den letzten zehn Jahren für diese Waldfläche Maßnahmen zur Sicherstellung der Verkehrssicherheit vom Eigentümer verlangt? Wenn ja, wurden diese Maßnahmen umgesetzt?
 
-10.3. Wie wurde der Pflegezustand dieses Waldstücks von den zuständigen Stellen bewertet?
+### Frage 10.3
+
+Wie wurde der Pflegezustand dieses Waldstücks von den zuständigen Stellen bewertet?
+
+#### Antwort zu Fragen 10.2 und 10.3
 
 Die für die Aufsicht des Privatwaldes zuständige Stelle hat von dem Eigentümer keine Maßnahmen zur Sicherstellung der Verkehrssicherheit verlangt, da diese in der alleinigen Verantwortung des Eigentümers liegt. Eine Bewertung des Pflegezustandes erfolgte daher nicht.
 
@@ -148,25 +156,38 @@ Welche Erörterungen oder Vor-Anfragen hat es vor der Antragstellung auf Genehmi
 
 Wann genau und in welcher Form fand die in Drs. 21/11189 erwähnte Erörterung der Möglichkeit wiederkehrender Fällungen als Alternative zum Kahlhieb statt?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Am 10. November 2016 erhielt die zuständige Behörde die vom Waldeigentümer beauftragte „Fachliche Stellungnahme Waldrand- und Waldbestandskontrolle“ mit der Bitte um Prüfung und Beurteilung. Am 28. November 2016 wurden im Rahmen einer gemeinsamen Ortsbesichtigung der zuständigen Behörde, dem Vertreter des Eigentümers und dem Fachgutachter der Waldbestand und sein Zustand in Augenschein genommen. Dabei wurde als Alternative zu dem vom Eigentümer gewünschten Kahlhieb die Möglichkeit wiederkehrender Fällungen zur Herstellung der Verkehrssicherheit an den Waldgrenzen erörtert.
 
 ### Frage 13
 
 Antrags- beziehungsweise Genehmigungsverfahren für einen Kahlhieb nach dem Landeswaldgesetz kommen relativ selten vor. Die Formulierung in § 6 Absatz 1a Satz 2 Landeswaldgesetz („Die Genehmigung darf nur erteilt werden, wenn die Maßnahme forstfachlich erforderlich ist und keine wesentliche Einschränkung der Schutzfunktionen des Waldes zu besorgen ist.“) setzt zudem eine kritische Prüfung der Maßnahmen voraus.
-13.1. Welche genauen Regelungen und Vorgaben gibt es für die Prüfung und Bearbeitung dieser Anträge?
 
-#### Antwort zu Frage 13
+### Frage 13.1
+
+Welche genauen Regelungen und Vorgaben gibt es für die Prüfung und Bearbeitung dieser Anträge?
+
+#### Antwort zu Fragen 13 und 13.1
 
 Die Prüfung und Bearbeitung von Anträgen auf Kahlhieb erfolgt grundsätzlich nach den Regelungen des Landeswaldgesetzes. Dabei ist im Rahmen der Verhältnismäßigkeit zu prüfen, ob es ein milderes Mittel zur Erreichung des Zweckes gibt. In diesem Fall wurde der Kahlhieb zur Herstellung der Verkehrssicherheit für die angrenzenden Grundstücke beantragt und erteilt. Zur Erhaltung der Funktion des Waldes wurde der Bescheid mit Nebenbestimmungen versehen.
 
-13.2. Welche Stelle genau prüft die Anträge für die Behörde für Wirtschaft, Verkehr und Innovation?
+### Frage 13.2
 
-13.3. Welche Stelle genau entscheidet über die Anträge für die Behörde für Wirtschaft, Verkehr und Innovation?
+Welche Stelle genau prüft die Anträge für die Behörde für Wirtschaft, Verkehr und Innovation?
+
+### Frage 13.3
+
+Welche Stelle genau entscheidet über die Anträge für die Behörde für Wirtschaft, Verkehr und Innovation?
+
+#### Antwort zu Fragen 13.2 und 13.3
 
 Siehe Vorbemerkung.
 
-13.4. In welcher Form werden das örtlich zuständige Bezirksamt einschließlich der regional zuständigen Revierförstereien sowie die für Umwelt zuständige Fachbehörde beim Genehmigungsverfahren mit jeweils welchen Fragestellungen beteiligt?
+### Frage 13.4
+
+In welcher Form werden das örtlich zuständige Bezirksamt einschließlich der regional zuständigen Revierförstereien sowie die für Umwelt zuständige Fachbehörde beim Genehmigungsverfahren mit jeweils welchen Fragestellungen beteiligt?
+
+#### Antwort zu Frage 13.4
 
 Im Rahmen des Genehmigungsverfahrens nach dem Landeswaldgesetz ist eine Beteiligung anderer Behörde nicht erforderlich. In dem Bescheid wurde der Privatwaldbesitzer darauf hingewiesen, dass andere gesetzliche oder Verordnungstatbestände von dieser Genehmigung unberührt bleiben. Im Übrigen siehe Vorbemerkung und Drs. 21/11189.

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8760", "21/985"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50157"
@@ -65,19 +66,19 @@ Laut Drs. 21/985 vom 14. Juli 2015 gab es für den Bereich „Zweckentfremdung v
 
 Folgende personellen Veränderungen sind in den Bezirksämtern seit Juli 2015 zu verzeichnen:
 
- Im Bezirksamt Wandsbek sind seit dem 1. Oktober 2015 zwei Vollzeitkräfte dauer-
+– Im Bezirksamt Wandsbek sind seit dem 1. Oktober 2015 zwei Vollzeitkräfte dauer-
 
 haft im Bereich Wohnraumschutz beschäftigt.
 
- Im Bezirksamt Bergedorf ist im Bereich Zweckentfremdung aktuell eine Person
+– Im Bezirksamt Bergedorf ist im Bereich Zweckentfremdung aktuell eine Person
 
 beschäftigt, die die Thematik anteilig bearbeitet (0,2 VZÄ). Die Funktion „Sachbearbeiter für Zweckentfremdung“ ist vakant und steht zur Nachbesetzung an.
 
- Im Bezirksamt Altona ist die Zahl der Vollzeitkräfte von 2 auf 1,5 unbefristete Stel-
+– Im Bezirksamt Altona ist die Zahl der Vollzeitkräfte von 2 auf 1,5 unbefristete Stel-
 
 len zurückgegangen.
 
- Im Bezirksamt Eimsbüttel ist aufgrund von Personalfluktuation eine halbe Stelle für
+– Im Bezirksamt Eimsbüttel ist aufgrund von Personalfluktuation eine halbe Stelle für
 
 das „Projekt Ferienwohnungen“ derzeit nicht besetzt.
 
@@ -115,6 +116,6 @@ Welche Möglichkeiten bestehen, Airbnb von der offiziellen Hamburg- Website heru
 
 Wie groß muss der Anteil der „aufgeflogenen“ illegalen Ferienwohnungen sein, damit Airbnb mit seinen gegenwärtig 300 Angeboten auch als Unternehmen stärker rechtlich überprüft wird beziehungsweise als Inserent von der Hamburg-Website genommen wird?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Grundlage für die Anzeige von Airbnb auf dem offiziellen Stadtportal hamburg.de ist ein Vertrag, der zwischen Airbnb und der Betreibergesellschaft von hamburg.de geschlossen worden ist. Die Anzeige ist nicht Teil des redaktionellen Angebots von hamburg.de. Sollten Verstöße von Anzeigenkunden gegen die geltende Rechtslage bekannt werden, wird die Betreibergesellschaft von hamburg.de die bestehenden rechtlichen Möglichkeiten nutzen, Vertragsverhältnisse mit Anzeigenkunden zu beenden. Im Übrigen siehe Antwort zu 5.

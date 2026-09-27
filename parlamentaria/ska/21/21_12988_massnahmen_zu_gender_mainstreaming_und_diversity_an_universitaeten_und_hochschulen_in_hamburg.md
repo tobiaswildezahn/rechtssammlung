@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62314"
@@ -48,7 +49,7 @@ An welchen Universitäten und Hochschulen der Freien und Hansestadt Hamburg herr
 Ist die genderneutrale Sprache gemäß Frage 1. verpflichtend zu verwenden (beispielsweise in Prüfungen, Seminararbeiten, Bachelor- oder Masterarbeiten oder Ähnlichem)? Kann die Nicht-Verwendung Auswirkungen auf die Beurteilung/Benotung haben? Wenn ja, nach welchen Kriterien und in welchem Umfang? Ich bitte um Aufschlüsselung nach den einzelnen Prüfungsordnungen gemäß Frage
 1.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 An den staatlichen Hamburger Hochschulen bestehen keine solchen Regelungen. Die Universität Hamburg (UHH) selbst beachtet bei der Ausgestaltung unter anderem ihrer Prüfungsordnungen die Vorgaben von § 11 HmbGleiG sowie des Senatsbeschlusses
 

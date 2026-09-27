@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19252"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69271"
@@ -49,7 +50,7 @@ Wird in Hamburg, ähnlich wie in Berlin, eine Gebühr für Handlungen zur Vermei
 
 Ist eine solche Gebühr für Hamburg geplant?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/19252.
 

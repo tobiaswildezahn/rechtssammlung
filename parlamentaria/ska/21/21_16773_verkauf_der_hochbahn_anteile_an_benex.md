@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 21
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66325"
@@ -143,7 +144,7 @@ b) Wurden die vereinbarten Zinsen gezahlt?
 c) Mit welchem Wert wird dieses Darlehen aktuell bei der HHA bilanziert?
 d) Wurden im Rahmen des Verkaufs der BeNEX an INPP Regelungen bezüglich des Darlehens getroffen? Falls ja: welche?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Einzelheiten unterliegen als Geschäftsgeheimnis der Vertraulichkeit. Im Übrigen siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 33
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63513"
@@ -76,11 +77,11 @@ b. Inwieweit sehen die Jobcenter die Schweigepflichtentbindung als eine Erfüllu
 
 Im Beratungsgespräch werden die Leistungsberechtigten darüber informiert, dass das Ausfüllen des Gesundheitsfragebogens und der Schweigepflichtentbindungen sowie das Überlassen medizinischer Unterlagen auf freiwilliger Basis erfolgen. Dabei wird auf Mitwirkungspflichten gemäß § 60 Absatz 1 Nummer 1 SGB I hingewiesen:
 
- Das Nichtausfüllen des Gesundheitsfragebogens ohne wichtigen Grund kann bei
+– Das Nichtausfüllen des Gesundheitsfragebogens ohne wichtigen Grund kann bei
 
 Vorliegen der übrigen Voraussetzungen des § 66 SGB I zu einer vollständigen oder teilweisen Versagung oder Entziehung der Leistungen nach § 66 SGB I führen.
 
- Das Nichterteilen einer Schweigepflichtentbindungserklärung kann zu einer voll-
+– Das Nichterteilen einer Schweigepflichtentbindungserklärung kann zu einer voll-
 
 ständigen oder teilweisen Versagung oder Entziehung der Leistungen nach § 66 SGB I führen, wenn die Kundin/der Kunde keine bereits vorhandenen medizinischen Unterlagen zur Verfügung stellt und die Sachverhaltsaufklärung dadurch erheblich erschwert wird. Letzteres ist zum Beispiel der Fall, wenn eine erneute Untersuchung durch den ärztlichen Dienst (ÄD) erforderlich wird, die ansonsten entbehrlich wäre (Doppeluntersuchung), und die vorgebrachten Gründe für das Nichterteilen einer Schweigepflichtentbindungserklärung keine erneute Untersuchung rechtfertigen.
 

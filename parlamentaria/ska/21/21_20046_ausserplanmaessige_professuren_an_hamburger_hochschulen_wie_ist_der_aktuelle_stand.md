@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9768"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69806"
@@ -33,15 +34,15 @@ Gemäß § 17 Absatz 1 des Hamburgischen Hochschulgesetzes (HmbHG) kann die Hamb
 
 ## Einleitung für die Antworten des Senats
 
- hervorragende wissenschaftliche Leistungen erbracht haben, die denje-
+– hervorragende wissenschaftliche Leistungen erbracht haben, die denje-
 
 nigen einer Professorin/eines Professors der Universität vergleichbar sind, oder
 
- außerordentliche Leistungen auf dem von diesen in der Lehre vertrete-
+– außerordentliche Leistungen auf dem von diesen in der Lehre vertrete-
 
 nen Gebiet nachweisen können und
 
- auch künftig ein Beitrag zu Forschung und Lehre zu erwarten ist.
+– auch künftig ein Beitrag zu Forschung und Lehre zu erwarten ist.
 
 Dies umfasst auch die Benennung von Außerplanmäßigen Professoren (APL-Professoren). Die vorgeschlagenen Personen müssen eine Habilitation oder vergleichbare Qualifikation in der Regel vor mindestens drei bis vier Jahren erbracht haben. Da die APL-Professoren auch in die jeweils angegebenen Betreuungsverhältnisse der Universitäten eingerechnet werden und ihre Leistungen den Output der Forschung unterstützen sollen, scheint nach der Anfrage im Jahr 2017 (vergleiche Drs 21/9768) eine erneute Evaluation angebracht.
 
@@ -265,15 +266,15 @@ c. Aus welchen Gründen erbrachten die unter 2. b. genannten APL- Professuren di
 
 Nach Auskunft der Fakultäten der UHH konnte die notwendige Anzahl an Lehrveranstaltungen bei den genannten Professuren aus folgenden Gründen nicht erbracht werden:
 
- temporäre berufliche oder persönliche Belastungen, wie beispielsweise beruflich
+– temporäre berufliche oder persönliche Belastungen, wie beispielsweise beruflich
 
 notwendige Auslandstätigkeiten,
 
- Leitungstätigkeiten,
+– Leitungstätigkeiten,
 
- Reduktionen der Lehrzeit wegen der Ausübung eines Funktionsamtes an der UHH,
+– Reduktionen der Lehrzeit wegen der Ausübung eines Funktionsamtes an der UHH,
 
- intertemporaler Lehrausgleich, in dessen Rahmen Lehrende ihre Lehrverpflichtung
+– intertemporaler Lehrausgleich, in dessen Rahmen Lehrende ihre Lehrverpflichtung
 
 im Durchschnitt zweier aufeinanderfolgender Semester erfüllen, nicht jedoch in jedem einzelnen Semester.
 

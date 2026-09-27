@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 34
 antwortbloecke: 22
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62136"
@@ -53,7 +54,7 @@ Warum wurden der Neubau der Hannoverschen Brücke und die Grundinstandsetzung de
 
 Warum wurden der Neubau der Hannoverschen Brücke und die Grundinstandsetzung der A 253 zwischen Hohe Straße und HH-Neuland nicht so terminiert, dass beide Maßnahmen nicht im gleichen Zeitraum liegen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In Anbetracht der unabdingbar notwendigen Baumaßnahmen in den letzten und auch nächsten Jahren war es nicht möglich, all diese Baumaßnahmen hintereinander durchzuführen. Die Maßnahmen wurden räumlich und zeitlich so koordiniert, dass die zeitgleich durchzuführenden Maßnahmen sich gegenseitig möglichst wenig beeinflussen. Gleichwohl machte der mangelhafte Erhaltungszustand der Brücke Hannoversche Straße und der A 253 mit seinen Brückenbauwerken eine zeitnahe Instandsetzung zur Aufrechterhaltung der Verkehrssicherheit notwendig.
 
@@ -305,7 +306,7 @@ Inwiefern wurde/wird geprüft, den Verkehrsknoten Buxtehuder Straße/ Hannoversc
 
 Inwiefern wurde/wird geprüft, die Kreuzung Wilstorfer Straße/Hannoversche Straße/Winsener Straße/Hohe Straße in einen Kreisverkehr umzuwandeln? Was spricht aus Sicht des Senats beziehungsweise der zuständigen Behörden dafür oder dagegen, dort einen Kreisverkehr einzurichten?
 
-#### Antwort zu Fragen 23 bis 24
+#### Antwort zu Fragen 23 und 24
 
 Die Buxtehuder Straße/Hannoversche Brücke/Moorstraße/Walter-Dudek-Brücke/ Hannoversche Straße (Knotenpunktbelastung rund 63.000 Kfz/Werktag) und Wilstorfer Straße/Hannoversche Straße/Winsener Straße/Hohe Straße (Knotenpunktbelastung rund 57.000 Kfz/Werktag) sind hochbelastete Verkehrsknoten.
 

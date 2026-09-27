@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2455", "21/2711", "21/5000", "21/5086"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54245"
@@ -57,7 +58,7 @@ Im Jahr 2015 wurden rund 9,5 Millionen Euro mehr an Verwaltungsmitteln als zuget
 
 Für 2016 sind laut Drs. 21/5086 6.488.799 Euro Umschichtungen im Verwaltungshaushalt geplant. Gleichzeitig stockte Jobcenter t.a.h. das Personal auf. In welchem Haushaltsposten des zuständigen Einzelplans 4 und dessen Unterpunkten befinden sich die Mehrausgaben Personal und Umschichtungen Jobcenter t.a.h. und mit welcher Umschichtungssumme rechnet der Senat jeweils für die Jahre 2017 und 2018?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Umschichtungen zwischen Verwaltungs- und Eingliederungsmitteln im Jobcenter team.arbeit.hamburg (Jobcenter) werden im Hamburgischen Haushalt nicht abgebildet.
 
@@ -81,7 +82,7 @@ Nach dem Einzelplan 4 unter 4.4.2.2.6 VZÄ steigen die VZÄ des Personals der BA
 
 Wie hoch ist der jeweilige Anteil des nach Frage 5. Personalbestand gesamt zur BASFI? Bitte jeweils nach Jahren von 2011 bis dato auflisten.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Anlage. Die Angaben zum statistischen Personalbestand wurden dem Personalberichtswesen entnommen, da nur hier die Daten ab 2011 verfügbar sind.
 

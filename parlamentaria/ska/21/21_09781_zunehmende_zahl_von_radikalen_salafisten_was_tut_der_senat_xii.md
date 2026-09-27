@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 19
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9440", "21/8105", "21/8939", "21/6646", "21/9604"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58607"
@@ -49,7 +50,7 @@ Wie viele jihadistisch orientierte Personen sind insgesamt für Aktivitäten im 
 
 Wie viele dieser insgesamt ausgereisten Personen sind nach Kenntnis der zuständigen Behörden ums Leben gekommen? Bitte die Gesamtzahl der ums Leben gekommenen „Ausreiser“ aus Hamburg angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/9604. Neue Erkenntnisse liegen nicht vor.
 
@@ -179,11 +180,11 @@ Zur neuen BMBF-Fördermaßnahme im Bereich religiöser Extremismus (Forschungspr
 
 Die bewilligten Projekte aus der BMBF-Bekanntmachung „Aspekte und Maßnahmen der Terrorismusbekämpfung“ einschließlich der Projektbeschreibungen sind unter dem Link http://www.sifo.de/de/bewilligte-projekte-aus-der-bekanntmachung-aspekteund-massnahmen-der-1767.html zu finden.
 
- Am Projekt „X-SONAR – Analyse extremistischer Bestrebungen in sozialen Netz-
+– Am Projekt „X-SONAR – Analyse extremistischer Bestrebungen in sozialen Netz-
 
 werken“ ist die Behörde für Schule und Berufsbildung, Beratungsstelle Gewaltprävention als assoziierter Partner beteiligt.
 
- Am Projekt „PANDORA – Propaganda, Mobilisierung und Radikalisierung zur
+– Am Projekt „PANDORA – Propaganda, Mobilisierung und Radikalisierung zur
 
 Gewalt in der virtuellen und realen Welt“ ist das Institut für Friedensforschung und Sicherheitspolitik an der Universität Hamburg (IFSH) beteiligt.
 
@@ -198,6 +199,6 @@ Link
 http://www.sifo.de/de/bewilligte-projekte-aus-der-bekanntmachung-zivile-sicherheit---  
 nachwuchsfoerderung-durch-2249.html zu finden.
 
- Am Projekt „BIGAUGE – Biologische Gefahren: Analyse und integrierte Einschät-
+– Am Projekt „BIGAUGE – Biologische Gefahren: Analyse und integrierte Einschät-
 
 zung von Risiken“ sind das Bernhard Nocht-Institut für Tropenmedizin (MNITM) und das Institut für Friedensforschung und Sicherheitspolitik an der Universität Hamburg (IFSH) beteiligt.

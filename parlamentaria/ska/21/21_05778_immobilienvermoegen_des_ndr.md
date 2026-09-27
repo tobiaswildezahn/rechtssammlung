@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5659"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54272"
@@ -47,7 +48,7 @@ Welche Immobilien besitzt der NDR? Bitte mit genauer Anschrift und geschätztem 
 
 Welche Grundstücke besitzt der NDR? Bitte mit genauer Anschrift und geschätztem Wert angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der NDR besitzt nach eigenen Angaben folgende Immobilien und Grundstücke in Hamburg:
 

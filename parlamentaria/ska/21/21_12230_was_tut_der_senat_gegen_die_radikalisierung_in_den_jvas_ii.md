@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 28
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5504", "21/9102", "21/10987"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61501"
@@ -39,15 +40,15 @@ Erkenntnisse zur Bestimmung extremistischer Haltungen von Gefangenen werden auf 
 
 In den folgenden Fällen erfolgt durch die zuständige Behörde eine Einschätzung des Radikalisierungsgrades und des von der Gefangenen beziehungsweise dem Gefangenen ausgehenden Risikos:
 
- Es liegt eine rechtskräftige Verurteilung wegen Delikten mit Extremismusbezug
+– Es liegt eine rechtskräftige Verurteilung wegen Delikten mit Extremismusbezug
 
 vor.
 
- Eine aufgrund von in Haft gemachten Beobachtungen veranlasste Prüfung einer
+– Eine aufgrund von in Haft gemachten Beobachtungen veranlasste Prüfung einer
 
 Gefangenen beziehungsweise eines Gefangenen führt zu dem Ergebnis, dass eine extremistische Haltung vorliegen könnte.
 
- Eine aufgrund von Hinweisen durch andere mit der Thematik befasste Stellen ver-
+– Eine aufgrund von Hinweisen durch andere mit der Thematik befasste Stellen ver-
 
 anlasste Prüfung einer Gefangenen beziehungsweise eines Gefangenen führt zu dem Ergebnis, dass eine extremistische Haltung vorliegen könnte.
 

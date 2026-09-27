@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51851"
@@ -109,7 +110,7 @@ Bitte die Zahlen für die letzten fünf Jahre angeben.
 
 Wie viele Darlehen wurden seitens „Jobcenter team.arbeit.hamburg“ zur Deckung von Stromkosten in den letzten fünf Jahren gewährt? Bitte die Zahlen für die letzten fünf Jahre angeben.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Statistik-Service der Bundesagentur für Arbeit nimmt keine Erhebung und Auswertung im Sinne der Fragestellung vor.
 

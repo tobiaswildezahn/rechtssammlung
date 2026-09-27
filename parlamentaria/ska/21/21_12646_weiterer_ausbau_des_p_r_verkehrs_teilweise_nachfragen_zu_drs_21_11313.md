@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 23
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11313", "20/9662", "21/9783", "20/9376", "21/7748"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61967"
@@ -125,7 +126,7 @@ Gleichfalls wurde eine Machbarkeitsstudie zum weiteren Ausbau der P+R-Anlagen er
 
 Darüber hinaus war nach den Angaben des Senats in der Antwort auf meine Anfrage 21/11313 die Rede von einer verkehrlichen Potenzialanalyse, deren Ergebnis ebenfalls im 1. Quartal 2018 vorliegen sollte. Bitte berichten Sie ausführlich und geben an, wo die Analyse einsehbar ist.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Zur Entwicklung einer Konzeption für den mittel- und langfristigen Ausbau von P+R- Plätzen wurde eine Machbarkeitsstudie erstellt, die für elf Standorte (Ochsenzoll, Harburg, Berne, Billwerder-Moorfleet, Hagenbecks Tierpark, Rissen, Tonndorf, Bergedorf, Nettelnburg, Ohlstedt und Hörgensweg) die technisch/baulichen Bedingungen für den Neu- oder Ausbau von P+R-Anlagen untersucht hat. Als Ergebnis ist festzuhalten,
 

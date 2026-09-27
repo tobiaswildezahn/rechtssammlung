@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/862", "20/8154"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55074"
@@ -81,21 +82,21 @@ e. Welche dieser unter 2. c genannten Vorschläge der Projektgruppe möchte der 
 
 Entsprechend den Vorschlägen der Projektgruppe befinden sich folgende Kooperationsprojekte zwischen dem Hamburger Institut für Berufliche Bildung (HIBB) beziehungsweise Hamburger berufsbildenden Schulen und der Universität Hamburg beziehungsweise Hamburger Hochschulen in der Planung beziehungsweise Entwicklung:
 
- „Leuchtturmprojekt zur vernetzten Beratung, Vermittlung und Begleitung von Stu-
+– „Leuchtturmprojekt zur vernetzten Beratung, Vermittlung und Begleitung von Stu-
 
 dienaussteigern in Berufsbildung in Hamburg“
 
- Bis 2018 wird ein Hamburger Netzwerk zur Beratung und Vermittlung von
+– Bis 2018 wird ein Hamburger Netzwerk zur Beratung und Vermittlung von
 
 Studienaussteigerinnen und Studienaussteigern in Ausbildung aufgebaut. Ziel ist, jungen Menschen, die nicht weiter studieren wollen, einen alternativen Ausbildungsweg in der beruflichen Bildung aufzuzeigen und ihr Potenzial als künftige Fachkräfte im mittleren Qualifikationsbereich zu nutzen.
 
- Entwicklung eines Kooperationsmodells „studienintegrierende Ausbildung“ zwi-
+– Entwicklung eines Kooperationsmodells „studienintegrierende Ausbildung“ zwi-
 
 schen Berufsschulen, Ausbildungsbetrieben und staatlichen Hochschulen mit unter anderem folgenden Zielen:
 
- Gegenseitige Anrechnung von Kompetenzen
+– Gegenseitige Anrechnung von Kompetenzen
 
- Schaffung einer erfahrungsbasierten Entscheidungsmöglichkeit zu alternati-
+– Schaffung einer erfahrungsbasierten Entscheidungsmöglichkeit zu alternati-
 
 ven Fortsetzungsmöglichkeiten der Ausbildung (Berufsausbildung + Fortbildungsebene; Berufsausbildung + Bachelor; Bachelor)
 

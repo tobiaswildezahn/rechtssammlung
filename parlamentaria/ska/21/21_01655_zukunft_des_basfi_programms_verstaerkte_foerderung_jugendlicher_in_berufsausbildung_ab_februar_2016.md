@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 24
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49869"
@@ -37,13 +38,13 @@ Ich frage den Senat:
 
 Die Behörde für Arbeit, Soziales, Familie und Integration (BASFI) finanziert seit 2001 als freiwillige Leistung aus Landesmitteln ein Förderprogramm, das Lücken in der Ausbildungsförderung durch die Regularien des Bundesausbildungsförderungsgesetzes (BAföG) und des Sozialgesetzbuches II (SGB II) für ausgewählte Zielgruppen schließen soll. Aufgrund der limitierten Landesmittel hat sich die BASFI entschieden, die zur Verfügung stehenden Mittel auf bestimmte Zielgruppen von Auszubildenden zu fokussieren und entsprechende Prioritäten zu setzten. Es handelt sich dabei aktuell um die folgenden Zielgruppen:
 
- Personen, die eine Teilzeitausbildung absolvieren,
+– Personen, die eine Teilzeitausbildung absolvieren,
 
- Personen, die aufgrund ihrer Nationalität dem Grunde nach keinen Anspruch auf
+– Personen, die aufgrund ihrer Nationalität dem Grunde nach keinen Anspruch auf
 
 Leistungen des Berufsausbildungsförderungsgesetzes (BAföG) haben,
 
- Personen, die aufgrund ihres Alters oder aufgrund einer bereits absolvierten
+– Personen, die aufgrund ihres Alters oder aufgrund einer bereits absolvierten
 
 Berufsausbildung dem Grunde nach keinen Anspruch auf Leistungen des BAföG oder der Berufsausbildungsbeihilfe haben.
 
@@ -247,17 +248,17 @@ Bricht die begünstigte Person ihre berufliche Ausbildung, ihre berufsvorbereite
 
 4. Antragsverfahren Anträge auf Förderung sind bei der Lawaetz-Stiftung zu stellen. Die Förderungsanträge können rückwirkend bis zu 6 Monaten für das jeweils laufende Schuljahr gestellt werden. Anträgen sind folgende Unterlagen beizufügen:
 
-• eine Kopie des Ausbildungsvertrages (für den Erstantrag) oder eine Bescheinigung über eine vollqualifizierende Ausbildung in einer Berufsfachschule
+– eine Kopie des Ausbildungsvertrages (für den Erstantrag) oder eine Bescheinigung über eine vollqualifizierende Ausbildung in einer Berufsfachschule
 
-• eine Kopie der Verdienstbescheinigung
+– eine Kopie der Verdienstbescheinigung
 
-• eine Kopie des letzten Bescheides über Berufsausbildungsbeihilfe (BAB) oder über Bundesausbildungsförderung (BAföG),
+– eine Kopie des letzten Bescheides über Berufsausbildungsbeihilfe (BAB) oder über Bundesausbildungsförderung (BAföG),
 
-• eine Kopie des Mietvertrages (für den Erstantrag) und Angaben des Vermieters über aktuelle Mietkosten,
+– eine Kopie des Mietvertrages (für den Erstantrag) und Angaben des Vermieters über aktuelle Mietkosten,
 
-• gegebenenfalls Nachweise über das laufende Einkommen von Ehegatten bzw. eheähnlichen Partnern und/ oder Kindern der/des Auszubildenden,
+– gegebenenfalls Nachweise über das laufende Einkommen von Ehegatten bzw. eheähnlichen Partnern und/ oder Kindern der/des Auszubildenden,
 
-• eine von der Antragstellerin oder dem Antragsteller unterzeichnete Erklärung über den Wahrheitsgehalt der Angaben.
+– eine von der Antragstellerin oder dem Antragsteller unterzeichnete Erklärung über den Wahrheitsgehalt der Angaben.
 
 Für die Antragstellung ist die von der Lawaetz-Stiftung erstellte Antragserklärung zu verwenden.
 

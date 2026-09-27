@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15573", "21/19289"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69807"
@@ -49,7 +50,7 @@ Sind Zeitplan und Budget noch wie im Unterausschuss IuK präsentiert? Wenn nein,
 
 Im Fachausschuss hieß es, dass der Finanzierungsanteil aus dem IT-Globalfonds bei ungefähr 25 Prozent liegen würde, der Finanzierungsanteil der BWVI bei 37,5 Prozent und der Finanzierungsanteil der Leitungsunternehmen bei ebenfalls 37,5 Prozent. Ist diese Aufteilung der Kosten noch aktuell?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Zeitplan, das Budget und die Aufteilung der Finanzierungsanteile sind gegenüber der Präsentation im Unterausschuss IuK vom 14. November 2019 weiterhin unverändert.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 23
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1282", "21/2292", "21/385", "21/2766"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51112"
@@ -63,7 +64,7 @@ Erhalten die Erzieherinnen und Erzieher in der FHH auf Grundlage des bundesweite
 
 Erhalten auch die Hamburger Beschäftigten beim Allgemeinen Sozialdienst (ASD), beim Pflegekinderdienst (PKD) und in anderen Berufen des Sozialbereichs auf Grundlage des bundesweiten Tarifkompromisses, der Eckpunkte-Vereinbarung des AVH mit ver.di und/oder anderer Vereinbarungen bereits ein höheres Gehalt? Wenn ja, seit wann? Wenn nein, warum nicht und inwieweit ist damit gegebenenfalls ab wann noch zu rechnen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der für Kindertagesbetreuung zuständigen Behörde liegen die abgefragten Informationen nicht vor. Sie hat deshalb die fünf AVH-Kita-Träger (siehe Drs. 21/385) gebeten, die entsprechenden Auskünfte zu erteilen.
 
@@ -83,7 +84,7 @@ Mit welchen Mehrkosten wird aufgrund des Tarifkompromisses für das Jahr 2015 so
 
 Wie verteilt sich die Finanzierung der gefundenen Tarifeinigung auf die öffentlichen Haushalte (zum Beispiel durch entsprechende Teilentgelterhöhung) sowie auf die Kita-Träger selber?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der für Kindertagesbetreuung zuständigen Behörde liegen die hier abgefragten trägerbezogenen Informationen nicht vor. Sie hat deshalb die fünf AVH-Kita-Träger gebeten, die entsprechenden Auskünfte zu erteilen.
 

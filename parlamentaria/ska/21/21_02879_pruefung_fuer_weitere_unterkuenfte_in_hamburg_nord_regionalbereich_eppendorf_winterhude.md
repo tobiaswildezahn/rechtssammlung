@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1271", "21/1568", "21/1906", "21/2232", "21/2599", "21/2837", "21/2864"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51193"
@@ -61,7 +62,7 @@ Planen der Senat beziehungsweise die zuständigen Behörden derzeit im Gebiet de
 
 Sind neben der bisher bekannten Folgeunterbringung im Bereich Osterfeldstraße 8 und Osterfeldstraße 14 – 16 im Bereich Osterfeldstraße, Nedderfeld, Tarpenbekstraße, Offakamp, Lokstedter Weg (B-Plan- Bereiche Eppendorf 2, 7, 10 und 18, Alsterdorf 1, Groß Borstel 2 und 25, BS Fuhlsbüttel-Alsterdorf-Gross-Borstel-Ohlsdorf (Blatt1), Lokstedt 26, 58 und 60, BS Niendorf-Lokstedt-Schnelsen) vonseiten des Senats und der BASFI weitere Flüchtlingsunterkünfte geplant? Wenn ja, wo genau?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Zentrale Koordinierungsstab Flüchtlinge (ZKF) prüft laufend weitere Angebote für Flächen und Gebäude als Standorte für die Zentrale Erstaufnahme und öffentliche Unterbringung, auch für Standorte im Gebiet des bezirklichen Regionalausschusses Eppendorf-Winterhude. Im Übrigen sind die Prüfungen noch nicht abgeschlossen. Darüber hinaus sieht der Senat in ständiger Praxis davon ab, zu einzelnen Prüfungsschritten Auskunft zu erteilen, sofern es sich um ergebnisoffene Prüfungen handelt.
 

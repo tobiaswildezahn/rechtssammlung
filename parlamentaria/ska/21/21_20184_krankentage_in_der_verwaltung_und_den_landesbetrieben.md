@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13594", "21/17734"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69957"
@@ -61,7 +62,7 @@ Inwieweit wurden aufgrund von Krankschreibungen im Jahr 2019 Urlaubstage gutgesc
 
 In welchen Arbeitseinheiten sind während der Inanspruchnahme von Urlaubstagen die meisten Krankschreibungen erfolgt? (Bitte die für das Jahr 2019 am häufigsten betroffenen Behörden und Landesbetriebe und sofern möglich die Fallzahl der Krankmeldungen während des Urlaubs aufführen.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage 2.
 

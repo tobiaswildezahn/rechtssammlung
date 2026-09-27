@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68482"
@@ -95,7 +96,7 @@ Auf jeweils welchen Streckenabschnitten des hamburgischen S-Bahn- Gesamtnetzes b
 Haben der Senat oder die zuständige Behörde bezüglich der nach Ziffer
 3. aktuell bestehenden Geschwindigkeitsbeschränkungen etwaige Änderungen oder Aufhebungen bereits konkret geplant? Wenn ja, jeweils welche, jeweils wer, seit jeweils wann, aus jeweils welchen konkreten Gründen und zu jeweils welchem Zeitpunkt ist mit einer Umsetzung zu rechnen? Bitte nach jeweils betroffener S-Bahn-Linie gesondert detailliert erläutern.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Derzeit besteht nur auf dem Streckenabschnitt zwischen Hauptbahnhof und Neugraben aufgrund des baulichen Zustands im Bereich der Süderelbbrücken auf einer Länge von circa 380 Metern bis auf Weiteres eine Geschwindigkeitsbeschränkung von 80 km/h statt 100 km/h in beiden Richtungen.
 
@@ -115,6 +116,6 @@ Hat der Senat beziehungsweise die zuständige Behörde Erkenntnisse darüber, ob
 
 Sollte Ziffer 6. zu bejahen sein: Soll die jeweilige Verlangsamung künftig beibehalten werden oder sind bereits konkrete Gegenmaßnahmen geplant? Sollte letzteres der Fall sein, jeweils welche, durch jeweils wen und jeweils wann?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Nein. Im Übrigen siehe Antwort zu 3. und 4.

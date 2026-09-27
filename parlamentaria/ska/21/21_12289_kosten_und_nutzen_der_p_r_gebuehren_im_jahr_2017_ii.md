@@ -14,6 +14,7 @@ fragen: 27
 einzelfragen: 34
 antwortbloecke: 26
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11956", "21/9882", "21/516", "21/2242", "21/3044", "21/5888", "21/4925", "20/9662", "21/8274", "21/11262", "21/9810", "21/2367", "21/6458", "20/14485", "20/11361"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61569"
@@ -245,7 +246,7 @@ Wie haben sich die Bruttoeinnahmen aus dem gesamten Kartenverkauf seit Einführu
 
 Für welche Zwecke wurden die in den Jahren 2014, 2015, 2016 und 2017 erwirtschafteten Bruttoeinnahmen aus dem gesamten Kartenverkauf verwendet? (Bitte jahresweise aufschlüsseln und die jeweiligen Teilbeträge angeben.)
 
-#### Antwort zu Fragen 20 bis 21
+#### Antwort zu Fragen 20 und 21
 
 Im Jahr 2017 betrugen die Bruttoeinnahmen aus dem gesamten Kartenverkauf
 2.273.000 Euro. Im Übrigen siehe Antwort zu 7. und Drs. 21/11956.

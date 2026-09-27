@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57828"
@@ -93,6 +94,6 @@ Wann, an wen und auf welcher Weise sollen die Informationen über Sperrungen zu 
 
 Große Verunsicherungen gibt es im Zusammenhang mit den „Kolonnenfahrten“ besonders geschützter Teilnehmer/-innen des Gipfels. a. Welche Einschränkungen wird es für andere Verkehrsteilnehmer/- innen während der besonders geschützten Kolonnenfahrten geben? b. Werden kurzfristige Sperrungen im U-/S-/Fernbahnverkehr während der Kolonnenfahrten erfolgen? Wenn ja, wie lange werden dann die Züge angehalten? c. Mit wie vielen Kolonnenfahrten ist pro Tag zu rechnen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.

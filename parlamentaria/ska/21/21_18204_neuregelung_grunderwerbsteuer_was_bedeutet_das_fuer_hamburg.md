@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16978"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67836"
@@ -49,7 +50,7 @@ Gibt es Schätzungen oder Berechnungen über die der Freien und Hansestadt Hambu
 
 Welche ungefähren jährlichen Steuermehrerträge erwarten Senat beziehungsweise zuständige Dienststellen – bei konstantem Hamburger Grunderwerbsteuersatz – durch die von der Bundesregierung angestrebte Neuregelung?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es handelt sich um Fälle, die nach geltendem Recht nicht der Grunderwerbsteuer unterliegen, insoweit wird aktuell auch keine Grunderwerbsteuer errechnet. Auch werden weder bei steuerfreien Transaktionen die Fallzahlen noch die nicht zu erhebende Grunderwerbsteuer statistisch erfasst. Schätzungen sind ebenfalls nicht belastbar möglich, da Bemessungsgrundlage für die Grunderwerbsteuer in diesen Fällen in der Regel der Bedarfswert für das betreffende Grundstück ist, der jedoch nicht ermittelt und festgestellt wird. Im Übrigen siehe Vorbemerkung.
 

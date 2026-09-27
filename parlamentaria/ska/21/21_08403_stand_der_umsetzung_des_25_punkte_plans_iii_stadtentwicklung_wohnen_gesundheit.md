@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 25
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838", "21/2550", "21/7486", "21/6666", "21/7529", "20/12090", "21/7387", "21/4569"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57112"
@@ -71,7 +72,7 @@ Wo sind welche Grünflächen für die Quartiere geplant? Bitte darstellen mit An
 
 Wo sind welche Sportflächen für die Quartiere geplant? Bitte darstellen mit Angabe der Größe in Bezug zur Anzahl Bewohner/-innen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 In allen Quartieren der Flüchtlingsunterkünfte mit der Perspektive Wohnen sind Grün-, Frei- beziehungsweise Spielflächen vorhanden oder geplant. Abhängig von der Größe der neuen Quartiere, den baulichen Voraussetzungen und der zukünftigen Bewohnerschaft wird geprüft, inwieweit vorhandene Anlagen ertüchtigt beziehungsweise ergänzt werden müssten. Dies gilt auch für die Sportflächen.
 

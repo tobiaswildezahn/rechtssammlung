@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5153", "20/7358", "21/5943"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59598"
@@ -49,7 +50,7 @@ Welche Projekte und Medienfestivals mit dem Ziel der Medienbildung und Nachwuchs
 
 Wer ist verantwortlich für diese Projekte und Medienfestivals und wie werden sie finanziert? Bitte einzelne Anteile der Finanzierung angeben (staatliche Förderung, Drittmittel, private Investoren und so weiter).
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Seit 2005 realisiert die KurzFilmSchule jährlich zehn bis zwölf Filmprojekte mit Hamburger Schülerinnen und Schülern in allen Schulformen und Altersstufen. Zudem veranstaltet die KurzFilmSchule seit 1999 das jährlich stattfindende KinderKurzFilmFestival Mo&Friese, das sich an Kinder und Jugendliche zwischen vier und 18 Jahren richtet. Begleitet wird das Festival durch ein Workshopangebot für Schülerinnen und Schüler der Klassen 5 bis 7 und einen internationalen thematischen Wettbewerb für Filmemacher unter 13 Jahren. Die KurzFilmSchule ist ein Projekt des KurzFilmAgentur e.V. Die Arbeit des KurzFilmAgentur e.V. wird insbesondere von der Behörde für Kultur und Medien und dem Beauftragten der Bundesregierung für Kultur und Medien
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 15
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13755", "20/11806"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49399"
@@ -67,7 +68,7 @@ Wurden mittlerweile weitere Maßnahmen für die Winsener Straße, die Moorstraß
 
 Wurden zur Lärmminderung die Einrichtung eines Dialog-Displays und einer lärmmindernden Fahrbahndecke geprüft? Wenn ja, mit welchen Ergebnissen (bitte für jede Maßnahme einzeln darstellen)? Wenn nein, warum nicht (bitte für jede Maßnahme einzeln begründen)?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nein. Zurzeit sind keine weiteren Maßnahmen in den genannten Straßen geplant. Sofern Straßenerhaltungsmaßnahmen erfolgen, ist standardmäßig der Einbau des Belages SMA 8 geplant. Dieser führt zu einer Reduktion der Lärmbelastung von circa 2 – 4 dB(A).
 

@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 25
 antwortbloecke: 22
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49526"
@@ -142,35 +143,35 @@ Für Gefahrstofflager mit besonders gefährlichem Lagergut, einer größeren Lag
 
 Für den Bunker Rothenburgsort wurden folgende brandschutztechnischen Auflagen erteilt:
 
- Raumwände, -decken und -böden und Trennwände untereinander in feuerbestän-
+– Raumwände, -decken und -böden und Trennwände untereinander in feuerbestän-
 
 diger Ausführung
 
- Öffnungen in den Trennwänden in feuerhemmender Ausführung und selbstschlie-
+– Öffnungen in den Trennwänden in feuerhemmender Ausführung und selbstschlie-
 
 ßend
 
- Raumtüren in feuerhemmender Ausführung und selbstschließend mit Rauchmelder
+– Raumtüren in feuerhemmender Ausführung und selbstschließend mit Rauchmelder
 
- Einbau einer direkt ins Freie führenden, explosionsgeschützten Be- und Entlüftung
+– Einbau einer direkt ins Freie führenden, explosionsgeschützten Be- und Entlüftung
 
 in den Räumen
 
- Auffangwannen im Bodenbereich für mindestens 20 Prozent der gelagerten Flüs-
+– Auffangwannen im Bodenbereich für mindestens 20 Prozent der gelagerten Flüs-
 
 sigkeit
 
- Beschilderung der Raumeingangstüren
+– Beschilderung der Raumeingangstüren
 
- Vorhalten von Kleinlöschgeräten.
+– Vorhalten von Kleinlöschgeräten.
 
 Der Baugenehmigungsbescheid für den Bunker in Bahrenfeld wurde mit der Bedingung erteilt, dass
 
- eine Lagerung von Feuerwerkskörpern der Klassen I und II die Gesamtmasse von
+– eine Lagerung von Feuerwerkskörpern der Klassen I und II die Gesamtmasse von
 
 50 Tonnen nicht überschreiten darf und
 
- die Türen zu den Lagerräumen mindestens eine Feuerwiderstandsklasse T30 nach
+– die Türen zu den Lagerräumen mindestens eine Feuerwiderstandsklasse T30 nach
 
 DIN 4102 (feuerhemmend) aufweisen müssen.
 
@@ -290,7 +291,7 @@ Wie viele aktuelle und ehemalige Bunkeranlagen (Hoch- und Tiefbunker) sind in Ha
 
 Welche aktuelle Bunkeranlagen beziehungsweise ehemalige Bunkeranlagen befinden sich im Besitz der Freien und Hansestadt Hamburg, welche im Besitz des Bundes und welche in Privatbesitz?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Nach Kenntnis der für Grundvermögen zuständigen Behörde befinden sich derzeit 115 Bunker (Hoch- und Tiefbunker, Schutzräume sowie Mehrzweckanlagen) im Eigentum der Freien und Hansestadt Hamburg beziehungsweise im Eigentum öffentlicher Unternehmen. Die einzelnen Belegenheiten: siehe Anlage 1.
 
@@ -302,165 +303,165 @@ Wie und durch wen werden die Bunker
 
 #### Antwort zu Frage 20
 
- Max-Brauer-Allee,
+– Max-Brauer-Allee,
 
- Carlebachstraße,
+– Carlebachstraße,
 
- Holstenstraße (14 a und 75 a),
+– Holstenstraße (14 a und 75 a),
 
- Missundestraße,
+– Missundestraße,
 
- Otzenstraße,
+– Otzenstraße,
 
- Schomburgstraße,
+– Schomburgstraße,
 
- Louise-Schroeder-Straße,
+– Louise-Schroeder-Straße,
 
- Von-Sauer-Straße,
+– Von-Sauer-Straße,
 
- Behringstraße,
+– Behringstraße,
 
- Friedensallee,
+– Friedensallee,
 
- Lippmannstraße,
+– Lippmannstraße,
 
- Feldstraße,
+– Feldstraße,
 
- Sternschanze,
+– Sternschanze,
 
- Kuwerdamm,
+– Kuwerdamm,
 
- Alardusstraße,
+– Alardusstraße,
 
- Eichenstraße,
+– Eichenstraße,
 
- Eidelstedter Weg,
+– Eidelstedter Weg,
 
- Eimsbütteler Straße,
+– Eimsbütteler Straße,
 
- Heußweg/Unnastraße,
+– Heußweg/Unnastraße,
 
- Müggenkampstraße/Satoriusstraße,
+– Müggenkampstraße/Satoriusstraße,
 
- Sillemstraße/Hellkamp,
+– Sillemstraße/Hellkamp,
 
- Weidenstieg,
+– Weidenstieg,
 
- Quickbornstraße,
+– Quickbornstraße,
 
- Langenfelder Damm,
+– Langenfelder Damm,
 
- Binderstraße,
+– Binderstraße,
 
- Bahnhof Dammtor,
+– Bahnhof Dammtor,
 
- Allende-Platz,
+– Allende-Platz,
 
- Grindelhof,
+– Grindelhof,
 
- Harvestehuder Weg,
+– Harvestehuder Weg,
 
- Rothenbaumchaussee,
+– Rothenbaumchaussee,
 
- Lasallestraße,
+– Lasallestraße,
 
- Moorburger Straße,
+– Moorburger Straße,
 
- Rönneburger Straße,
+– Rönneburger Straße,
 
- Borgfelder Allee,
+– Borgfelder Allee,
 
- Rüschweg
+– Rüschweg
 
- Bahnhof Hasselbrook,
+– Bahnhof Hasselbrook,
 
- Carl-Petersen-Straße,
+– Carl-Petersen-Straße,
 
- Dobbelersweg,
+– Dobbelersweg,
 
- Döhnerstraße,
+– Döhnerstraße,
 
- Droopweg,
+– Droopweg,
 
- Eiffestraße,
+– Eiffestraße,
 
- Palmerstraße,
+– Palmerstraße,
 
- Süderstraße,
+– Süderstraße,
 
- Wendenstraße,
+– Wendenstraße,
 
- Wichernsweg,
+– Wichernsweg,
 
- Wolfshagen,
+– Wolfshagen,
 
- Hammer Deich (77 – 83 und 155),
+– Hammer Deich (77 – 83 und 155),
 
- Kreuzbrook,
+– Kreuzbrook,
 
- Vorsetzen,
+– Vorsetzen,
 
- Alfred-Wegener-Weg,
+– Alfred-Wegener-Weg,
 
- Billhorner Brückenstraße,
+– Billhorner Brückenstraße,
 
- Marckmannstraße,
+– Marckmannstraße,
 
- Peutestraße,
+– Peutestraße,
 
- Stresowstraße,,
+– Stresowstraße,,
 
- Worthdamm,
+– Worthdamm,
 
- Hachmannplatz,
+– Hachmannplatz,
 
- Steintorwall,
+– Steintorwall,
 
- Prielstraße,
+– Prielstraße,
 
- Peutestraße,
+– Peutestraße,
 
- Neuhöfer Straße,
+– Neuhöfer Straße,
 
- Bahnhof Barmbek,
+– Bahnhof Barmbek,
 
- Bramfelder Straße,
+– Bramfelder Straße,
 
- Habichtstraße (37 und 75),
+– Habichtstraße (37 und 75),
 
- Humboldtstraße,
+– Humboldtstraße,
 
- Kuhnsweg,
+– Kuhnsweg,
 
- Wiesendamm,
+– Wiesendamm,
 
- Ernst-Thälmann-Platz,
+– Ernst-Thälmann-Platz,
 
- Tarpenbekstraße,
+– Tarpenbekstraße,
 
- Löwenstraße,
+– Löwenstraße,
 
- Finkenau,
+– Finkenau,
 
- Alte Wöhr,
+– Alte Wöhr,
 
- Barmbeker Straße,
+– Barmbeker Straße,
 
- Geibelstraße,
+– Geibelstraße,
 
- Dorotheenstraße,
+– Dorotheenstraße,
 
- Poelchaukamp,
+– Poelchaukamp,
 
- Poßmoorweg,
+– Poßmoorweg,
 
- Forsmannstraße,
+– Forsmannstraße,
 
- Hasselbrookstraße,
+– Hasselbrookstraße,
 
- Schellingstraße,
+– Schellingstraße,
 
- Von-Hein-Straße
+– Von-Hein-Straße
 
 derzeit genutzt?
 
@@ -503,7 +504,7 @@ Wie bewertet der Senat, dass in Wohngebiete große Mengen an Gefahrstoffen gelag
 
 Welche Verbesserungsmöglichkeiten sieht der Senat in eigener Verantwortung im Bereich der Lagerung von Gefahrstoffen in Bunkeranlagen beziehungsweise der Lagerung von Gefahrstoffen in der Nähe von Wohnanlagen?
 
-#### Antwort zu Fragen 22 bis 23
+#### Antwort zu Fragen 22 und 23
 
 Eine Nutzungsänderung zur Lagerung von Gefahrstoffen in Wohngebieten – auch in Bunkern – bedarf grundsätzlich der Durchführung eines konzentrierten Baugenehmigungsverfahrens nach § 62 HBauO beziehungsweise bei öffentlichen Bauherrn der Durchführung eines Zustimmungsverfahrens nach § 64 HBauO. In diesem Verfahren wird die Einhaltung der öffentlich-rechtlichen Vorschriften, hier insbesondere die Einhaltung der Vorschriften des Gefahrstoffrechts, geprüft. Gefahrstofflager in Wohngebieten sind dabei nur in besonders gelagerten Einzelfällen genehmigungs- beziehungsweise zulassungsfähig.
 
@@ -536,244 +537,244 @@ Anlage 2
 Bezirk  
 Belegenheit, Eigentümer, Nutzung (soweit bekannt)  
 Bezirk Wandsbek  
-  
+–  
 Hasselbrookstr. 174: Gewerbliche Nutzung (Möbelmarkt).  
-  
+–  
 Schellingstr. 43: Selfstorage Hamburg - Lagerraum - Möbel  
 (2009) sowie in der Aufstockung des Bunkers Wohnnutzung  
 (Eigentumswohnungen, Studentenwohnungen).  
-  
+–  
 Von-Hein-Straße 19: Musikbunker (Übungsräume) und Vermietung von Räumen zu Lagerzwecken.  
 Bezirk Nord  
-  
+–  
 Bahnhof Barmbek, Eigentümer: FHH, Nutzung: Gewerbe,  
 Einzelhandel  
-  
+–  
 Bramfelder Straße 96, Eigentümer: Bundesanstalt für Immobilienaufgaben, Nutzung: Schutzbunker „Museum“, Nutzung  
 des Parkplatzes  
-  
+–  
 Habichtstraße 37, Eigentümer: Bundesanstalt für Immobilienaufgaben, Nutzung: Sendestandort  
-  
+–  
 Habichtstraße 75, Eigentümer: FHH, Nutzung: „Stadtteilschule Barmbek“  
-  
+–  
 Humboldtstraße 91, 99, Eigentümer: Privat, Nutzung: Wohnen auf Bunkerbestand  
-  
+–  
 Kuhnsweg 9, Eigentümer: Bundesanstalt für Immobilienaufgaben, keine Nutzung  
-  
+–  
 Wiesendamm 7 / Poppenhusenstr., siehe Bahnhof Barmbek  
-  
+–  
 Ernst-Thälmann-Platz, Eigentümer FHH, Nutzung: Schutzbunker  
-  
+–  
 Tarpenbekstraße 66 / Ernst-Thälmann-Platz 5, Eigentümer:  
 unklar, Nutzung Wohnhaus / Museum  
-  
+–  
 Löwenstraße 27a, 29a, Eigentümer: Privat, Nutzung: Wohnen auf Bunkerbestand  
-  
+–  
 Finkenau 35, Eigentümer: FHH, Nutzung durch Fachhochschule Hamburg Media School  
-  
+–  
 Alte Wöhr 20a, Eigentümer: Privat, Nutzung: Schutzbunker  
-  
+–  
 Barmbeker Straße 183, Eigentümer: Privat, Nutzung: Bauantrag zu Wohnzwecken liegt vor  
-  
+–  
 Geibelstraße 20, Eigentümer: Privat, Nutzung: Gewerbe  
-  
+–  
 Dorotheenstraße 38, Eigentümer: Privat, Nutzung: Vorbescheid (§63) zu Wohnzwecken erteilt  
-  
+–  
 Poelchaukamp 10, siehe Dorotheenstraße 38  
-  
+–  
 Poßmoorweg 38a, Eigentümer: FHH, Nutzung: Abbruchgenehmigung Schutzbunker, Baugenehmigung zu Wohnzwecken erteilt  
-  
+–  
 Forsmannstraße 10,10a, 12a, Eigentümer: Privat, Nutzung:  
 Abbruchgenehmigung Schutzbunker, Baugenehmigung zu  
 Wohnzwecken erteilt  
 Bezirk Mitte  
-  
+–  
 Altenwerder Damm 10, Eigentümer: HPA  
-  
+–  
 Altenwerder Damm 12/Finkenwerder Straße 4, Eigentümer:  
 Bund  
-  
+–  
 Am Holthusenkai, Eigentümer: Bund  
-  
+–  
 Archenholzstraße 87, Eigentümer: privat  
-  
+–  
 Argentinienbrücke, Eigentümer: HPA  
-  
+–  
 Bauerberg 43, Eigentümer: FHH (BSU)  
-  
+–  
 Bei den St.Pauli Landungsbrücken/ hinter Bernhard-Nocht-  
 Straße 78, Eigentümer: DB AG  
-  
+–  
 Berliner Tor, Eigentümer: privat  
-  
+–  
 Berliner Tordamm / Ecke Borgfelder Alle, Eigentümer: Bund  
-  
+–  
 Berliner Tordamm / Ecke Borgfelder Allee 3, Eigentümer:  
 Bund  
-  
+–  
 Billhorner Brückenstraße 41, Eigentümer: privat, Nutzung:  
 24.07.13 Gen. - Tonstudio, Vereinsraum, Musikproberaum
 
 Bezirk  
 Belegenheit, Eigentümer, Nutzung (soweit bekannt)  
-  
+–  
 Billstedter Hauptstraße 34-36, Eigentümer: privat  
-  
+–  
 Billstedter Hauptstraße 96-98/Rote Brücke, Eigentümer: FHH  
 (BSU)  
-  
+–  
 Dammtorpark (Dag-Hammerskjöld-Platz), Eigentümer: FHH  
-  
+–  
 Dobbelersweg neben Nr. 27/ Döhnerstraße, Eigentümer:  
 privat  
-  
+–  
 Ellerholzdamm 8, Eigentümer: HPA  
-  
+–  
 Emder Straße 12, Eigentümer: privat  
-  
+–  
 Emder Straße 16, Eigentümer: FHH (BSU)  
-  
+–  
 Emder Straße 7 a, Eigentümer: FHH (BSU)  
-  
+–  
 Esplanade 41, Eigentümer: privat  
-  
+–  
 Feldstraße 66 (Heiligengeistfeld), Eigentümer: FHH  
-  
+–  
 Hachmannplatz, Eigentümer: FHH (M/MR)  
-  
+–  
 Hammer Deich 155/Steinbeker Straße, Eigentümer: privat,  
 Nutzung: 16.02.00 Gen. Lager- und Hobbyräume, 08.09.00  
 Gen. Lagerung explosiver Stoffe  
-  
+–  
 Hammer Deich 65, Eigentümer: privat  
-  
+–  
 Hammer Landstraße/ Sievekingsdamm, Eigentümer: FHH  
-  
+–  
 Helgoländer Allee (Bismarckdenkmal), Eigentümer: FHH  
 (BKSM)  
-  
+–  
 Helgoländer Allee (Kersten-Miles-Brücke), Eigentümer: FHH  
 (M/MR)  
-  
+–  
 Helgoländer Allee (unter Jugendherberge), Eigentümer: FHH  
 (BSU, BSG)  
-  
+–  
 Hinrichsenstraße 27-29, Eigentümer: privat  
-  
+–  
 Hinrichsenstraße 42/Landwehrplatz, Eigentümer: FHH (BSU)  
-  
+–  
 Jungfernstieg, Eigentümer: HHA  
-  
+–  
 Kajen 14, Eigentümer: FHH (MR)  
-  
+–  
 Kandinskyallee/ U-Bahn Mümmelmannsberg, Eigentümer:  
 HHA  
-  
+–  
 Klütjenfelder Straße, Eigentümer: HPA  
-  
+–  
 Kreuzbrook 28, Eigentümer: privat, Nutzung: 16.02.00 Gen.  
 Lagerfläche + Hobby  
-  
+–  
 Legienstraße 65 / Schiffbeker Weg, Eigentümer: FHH (BSU)  
-  
+–  
 Marckmannstraße 195, Eigentümer: FHH, Nutzung: nur Vorbescheide, keine Genehmigungen  
-  
+–  
 Marckmannstraße 2, Eigentümer: privat  
-  
+–  
 Marienthaler Straße 173, Eigentümer: privat, Nutzung:  
 Wohnnutzung  
-  
+–  
 Michaelisstraße (S-Bahn Stadthausbrücke), Eigentümer: DB  
 AG  
-  
+–  
 Neuer Wall 86/88, Eigentümer: privat  
-  
+–  
 Neuhöfer Straße 7, Eigentümer: FHH, Nutzung: Genehmigung Energiebunker Wilhelmsburg  
-  
+–  
 Nobistor/ Reeperbahn (S-Bahn), Eigentümer: DB AG  
-  
+–  
 "Otzenstraße 28, Eigentümer: privat, Nutzung: 13.08.07 Gen.  
 KG Lagerräume, 12.09.08 Gen. Lager, Musik- und Übungsräume, 12.11.10 Gen. Lagerzwecke"  
-  
+–  
 Palmerstraße 9, Eigentümer: privat, Nutzung: 18.08.99 Gen.  
 Lager- und Hobbyräume  
-  
+–  
 Peutestraße 1, Eigentümer: FHH, Nutzung: Denkmal  
-  
+–  
 Reiherdamm 10, Eigentümer: HPA  
-  
+–  
 Rethedamm 8, Eigentümer: HPA  
-  
+–  
 Roßweg (Roßhafen-Terminal), Eigentümer: HPA  
-  
+–  
 Rüschweg vor Nr. 1, Eigentümer: FHH (MR)  
-  
+–  
 Sievekingsallee 6/ Carl-Petersen-Straße 5 a, Eigentümer:  
 privat
 
 Bezirk  
 Belegenheit, Eigentümer, Nutzung (soweit bekannt)  
-  
+–  
 Sievekingsdamm/ Wolfshagen, Eigentümer: privat, Nutzung:  
 23.12.99 Gen. Lager- und Hobbyräume  
-  
+–  
 Steinfurther Allee (U-Bahn), Eigentümer: HHA  
-  
+–  
 Steintorwall 20/Hauptbahnhof, Eigentümer: Bund  
-  
+–  
 Stresowstraße 121, Eigentümer: privat, Nutzung: 16.02.00  
 Vorbescheid für Musikübungsräume  
-  
+–  
 Süderstraße 301, Eigentümer: Bund  
-  
+–  
 Veddeler Elbdeich 22/ Prielstraße 9, Eigentümer: HPA  
-  
+–  
 Vorsetzen 70 (Baumwall), Eigentümer: FHH (M/MR)  
-  
+–  
 Wendenstraße 339 - 345, Eigentümer: Bund, Nutzung:  
 06.11.14 Gen. Musikbunker + Gewerberäume  
-  
+–  
 Werftstraße 2-5/ Worthdamm 27-37, Eigentümer: HPA  
-  
+–  
 Wichernsweg 16, Eigentümer: privat, Nutzung: Bunkermuseum  
-  
+–  
 Worthdamm 47/ Veddeler Damm 46, Eigentümer: HPA  
-  
+–  
 Zollvereinsstraße 2, Eigentümer: privat  
-  
+–  
 Zweibrückenstraße, Eigentümer: HCH/ HPA  
 Bezirk Harburg  
-  
+–  
 S-Bahnhof Harburg Rathaus, Eigentümer: DB  
-  
+–  
 Hochbunker Lassallestraße 3., Eigentümer: Bundesanstalt  
 für Immobilienaufgaben  
-  
+–  
 Senatsschutzraum Schule Schnuckendrift 21, Eigentümer:  
 FHH  
-  
+–  
 Rönneburger Straße 36-38, Eigentümer: privat  
 Bezirk Altona  
-  
+–  
 Tiefbunker Louise-Schroeder-Straße 21, Eigentümer: FHH,  
 steht leer.  
-  
+–  
 Tiefbunker Sternschanze 4, Eigentümer: FHH, steht leer.  
-  
+–  
 Hochbunker Lippmannstraße 60a, Eigentümer: FHH, steht  
 leer.  
 HPA  
-  
+–  
 Am Elbtunnel 60, Eigentümer: HPA  
-  
+–  
 Ellerholzdamm 8, Eigentümer: HPA  
-  
+–  
 Prielstraße 9, Eigentümer: HPA  
-  
+–  
 Reiherdamm 10, Eigentümer: HPA  
-  
+–  
 Rethedamm 8, Eigentümer: HPA  
-  
+–  
 Schluisgrowe 5, Eigentümer: HPA  
-  
+–  
 Veddeler Damm 14, Eigentümer: HPA

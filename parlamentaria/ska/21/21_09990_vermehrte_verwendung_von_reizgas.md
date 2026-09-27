@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7972"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58812"
@@ -51,6 +52,6 @@ Wie viele Polizeieinsätze wurden in Hamburg seit 2012 durchgeführt, die unter 
 
 In wie vielen Fällen ist Reizgas seit 2012 in Hamburg defensiv zur Verteidigung eingesetzt worden? Bitte die jährliche Anzahl bis einschließlich 2017 benennen!
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Statistiken im Sinne der Fragestellungen werden bei der Polizei nicht geführt. Zur Beantwortung der Fragen wäre eine Durchsicht aller Hand- und Ermittlungsakten des erfragten Zeitraums bei der Polizei erforderlich. Die Auswertung von mehreren Zehntausend Akten ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.

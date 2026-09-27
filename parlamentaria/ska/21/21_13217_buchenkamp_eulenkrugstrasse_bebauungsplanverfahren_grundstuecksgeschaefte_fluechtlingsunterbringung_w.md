@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 57034
 seiten: 3
 fragen: 10
-einzelfragen: 18
-antwortbloecke: 9
+einzelfragen: 22
+antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10928", "21/7642", "21/11304"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62561"
@@ -50,15 +51,28 @@ Siehe Vorbemerkung und Drs. 21/10928.
 ### Frage 2
 
 Gemäß Angaben in den Drs. 21/7642 und 21/10928 sowie der Präsentation des Bezirksamtes anlässlich einer öffentlichen Anhörung im September 2017 stehen noch zahlreiche Gutachten für das Planverfahren Volksdorf 46 aus.
-2.1. Wann sollen die einzelnen Gutachten jeweils durch wen beauftragt werden?
-2.2. Wie ist jeweils der Stand des Auswahl- und Vergabeverfahrens für die einzelnen Gutachten?
-2.3. Welche Gutachtenaufträge wurden bereits vergeben? Wann wird das entsprechende Ergebnis erwartet beziehungsweise welche Ergebnisse liegen bereits im Einzelnen vor?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Wann sollen die einzelnen Gutachten jeweils durch wen beauftragt werden?
+
+### Frage 2.2
+
+Wie ist jeweils der Stand des Auswahl- und Vergabeverfahrens für die einzelnen Gutachten?
+
+### Frage 2.3
+
+Welche Gutachtenaufträge wurden bereits vergeben? Wann wird das entsprechende Ergebnis erwartet beziehungsweise welche Ergebnisse liegen bereits im Einzelnen vor?
+
+#### Antwort zu Fragen 2, 2.1, 2.2 und 2.3
 
 Zwischenzeitlich wurde eine Amphibien-Bestandserhebung im Auftrage der Planungsbegünstigten vorgelegt. Im Ergebnis der bisher vorliegenden Gutachten wurden auftragsgemäß die Eigenschaften von Flächen bewertet sowie faunistische Abschätzungen und Erhebungen vorgenommen. Im Übrigen siehe Drs. 21/7642.
 
-2.4. Wie ist jeweils die genaue Leistungsbeschreibung für die einzelnen Gutachten?
+### Frage 2.4
+
+Wie ist jeweils die genaue Leistungsbeschreibung für die einzelnen Gutachten?
+
+#### Antwort zu Frage 2.4
 
 Siehe Drs. 21/10928.
 
@@ -87,17 +101,23 @@ Welche Festsetzungen sind im geplanten Bebauungsplan Volksdorf 46 für die im Be
 
 Welche Festsetzungen bezüglich Größe des Baukörpers und bauliche Nutzung sind für die im Plangebiet angekündigte Dementen-Einrichtung vorgesehen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 
 ### Frage 7
 
 In einer Vorlage des Bezirksamts Wandsbek an den Planungsausschuss der Bezirksversammlung vom 6.11.2017 heißt es: „Die Ökologische Wohnungsbaugenossenschaft als bisherige Grundeigentümerin hat der Verwaltung mitgeteilt, dass ein Teil der für den Wohnungsbau vorgesehenen Flächen des ehemaligen Ferck’schen Hofes an die GFG Hoch- Tief-Bau Kommanditgesellschaft aus Henstedt-Ulzburg veräußert wurde. Es handelt sich hierbei um die Flächen für die Erschließung sowie den nördlich daran anschließenden Bereich für den freifinanzierten Wohnungsbau. Die GFG Hoch-Tief-Bau hat sich zudem bereit erklärt, die Kosten für das Bebauungsplanverfahren und die erforderlichen Gutachten zu übernehmen.“ Gemäß Grundstücksverkehrsgesetz kann ein solcher Verkauf bei einer Grundstücksfläche von mehr als 10.000 Quadratmetern nur mit einer Genehmigung der zuständigen Behörde vollzogen werden. Aus den Angaben in der Vorlage des Bezirksamtes lässt sich eine Flächengröße von mehr als 10.000 Quadratmetern herleiten. Allerdings lag bei Beantwortung der Schriftlichen Kleinen Anfrage Drs. 21/11304 noch kein Antrag auf Genehmigung vor.
-7.1. Welche genaue Kenntnis haben die zuständigen Stellen der Verwaltung derzeit über den vom Bezirksamt Wandsbek bekannt gegebenen Grundstücksverkauf, den Stand der Beurkundung des Verkaufs und die Größe der verkauften Fläche?
-7.2. Ist inzwischen bekannt, ob für diese Veräußerung eine Genehmigung der zuständigen Behörde nach dem Grundstücksverkehrsgesetz erforderlich ist? Wann wurde gegebenenfalls die Genehmigung beantragt und welche Stelle hat wann die Genehmigung aus welchen Gründen und unter welchen Bedingungen und Auflagen erteilt?
 
-#### Antwort zu Frage 7
+### Frage 7.1
+
+Welche genaue Kenntnis haben die zuständigen Stellen der Verwaltung derzeit über den vom Bezirksamt Wandsbek bekannt gegebenen Grundstücksverkauf, den Stand der Beurkundung des Verkaufs und die Größe der verkauften Fläche?
+
+### Frage 7.2
+
+Ist inzwischen bekannt, ob für diese Veräußerung eine Genehmigung der zuständigen Behörde nach dem Grundstücksverkehrsgesetz erforderlich ist? Wann wurde gegebenenfalls die Genehmigung beantragt und welche Stelle hat wann die Genehmigung aus welchen Gründen und unter welchen Bedingungen und Auflagen erteilt?
+
+#### Antwort zu Fragen 7, 7.1 und 7.2
 
 Siehe Drs. 21/11304.
 
@@ -112,22 +132,40 @@ Siehe Vorbemerkung.
 ### Frage 9
 
 Auf dem Flurstück 270 im Plangebiet wird derzeit durch f & w fördern und wohnen AöR eine Folgeunterkunft errichtet.
-9.1. Wann genau soll die Wohnunterkunft fertig gestellt sein?
-9.2. Wann genau wird planmäßig mit dem Belegungsaufbau begonnen?
 
-#### Antwort zu Frage 9
+### Frage 9.1
+
+Wann genau soll die Wohnunterkunft fertig gestellt sein?
+
+### Frage 9.2
+
+Wann genau wird planmäßig mit dem Belegungsaufbau begonnen?
+
+#### Antwort zu Fragen 9, 9.1 und 9.2
 
 Siehe Drs. 21/10928. Der Belegungsaufbau erfolgt nach Fertigstellung. Darüber hinaus sind die Planungen noch nicht abgeschlossen.
 
-9.3. Wer soll die auf dem Gelände geplante Kindertageseinrichtung ab wann betreiben und für wie viele Kinder ist diese Einrichtung vorgesehen?
+### Frage 9.3
+
+Wer soll die auf dem Gelände geplante Kindertageseinrichtung ab wann betreiben und für wie viele Kinder ist diese Einrichtung vorgesehen?
+
+#### Antwort zu Frage 9.3
 
 Der Hamburger Schulverein von 1875 e.V. wird die Kindertagesstätte (Kita) betreiben. Sie wird voraussichtlich im Juli 2018 eröffnen und circa 50 Kitaplätze anbieten.
 
-9.4. Gehen die zuständigen Stellen weiterhin davon aus, dass in dieser Folgeunterkunft circa 40 schulpflichtige Kinder (beziehungsweise circa 15 Prozent der 260 Plätze) wohnen werden?
+### Frage 9.4
+
+Gehen die zuständigen Stellen weiterhin davon aus, dass in dieser Folgeunterkunft circa 40 schulpflichtige Kinder (beziehungsweise circa 15 Prozent der 260 Plätze) wohnen werden?
+
+#### Antwort zu Frage 9.4
 
 Der Zentrale Koordinierungsstab geht weiterhin von 260 Plätzen aus. Die tatsächliche Schülerzahl und die Verteilung über die Jahrgänge sind abhängig von der Belegung. Derzeit geht die für Bildung zuständige Behörde davon aus, dass etwa 15 bis 20 Prozent der Bewohner Kinder und Jugendliche im schulpflichtigen Alter zwischen sechs und 18 Jahren sind. 15 bis 17 Prozent benötigen einen Platz an einer allgemeinbildenden Schule, 3 bis 5 Prozent an einer beruflichen Schule. Dies entspricht nach der derzeitigen Planung rund 40 bis 45 Schülerinnen und Schülern, die durch die geplante Unterkunft in den allgemeinbildenden Schulen zusätzlich versorgt werden müssen, wenn diese vollständig belegt ist.
 
-9.5. Welche weiteren Angaben zur geplanten Zusammensetzung der Bewohnerschaft stehen bereits fest?
+### Frage 9.5
+
+Welche weiteren Angaben zur geplanten Zusammensetzung der Bewohnerschaft stehen bereits fest?
+
+#### Antwort zu Frage 9.5
 
 Die Belegung soll zu zwei Dritteln mit Familien und zu einem Drittel mit Alleinstehenden erfolgen. Darüber hinaus siehe Vorbemerkung. Zur entsprechenden Kita-Versorgung siehe Antwort zu 9.3.
 

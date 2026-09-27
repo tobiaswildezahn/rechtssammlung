@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57222"
@@ -135,7 +136,7 @@ Inwiefern unterstützt der Senat die Einrichtung eines kostenfreien WLAN für Pa
 
 Stellt der Senat Fördermittel für die Einrichtung von kostenfreiem WLAN in Krankenhäusern zur Verfügung? Falls ja: seit wann in welcher Höhe? Falls nein: warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Fördermittel für Neubaumaßnahmen beinhalten auch Mittel für Telekommunikationsanlagen. Aufgrund des technischen Fortschritts beinhalten diese Anlagen seit einigen Jahren auch WLAN. Die Höhe der Fördermittel kann nicht separat beziffert werden.
 

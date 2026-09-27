@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 29
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7689", "21/9181", "21/8445", "21/8664"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61020"
@@ -148,7 +149,7 @@ Fahrscheinkontrollen statt?
 Wenn ja, in welcher Häufigkeit?  
 Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Jahr  
 HOCHBAHN HADAG  

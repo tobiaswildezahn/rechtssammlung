@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/439", "21/732"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49741"
@@ -43,7 +44,7 @@ Stimmt es, dass die Behörde für Schule und Berufsbildung (BSB) plant, statt de
 
 Wie viele Hallen werden wann von einer Veränderung der Norm betroffen sein, wie wird sich dies auf die vorhandene Gesamtzahl der Felder sowohl für Stadtteil, Halle und betroffene Kapazitätsnutzung auswirken? Bitte konkrete Zahlen nennen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Größe der Hallenflächen ist in Hamburg im Zusammenhang mit dem Musterraumprogramm 1994 letztmalig definiert worden. Dabei wurde eine Größe von 405 m² pro Hallenfläche festgelegt (15 x 27 m). Für Zweifeldhallen werden die Hallenflächen entsprechend mit 810 m² geplant, da für den Schulsport zwei Einfeldhallenflächen angesetzt werden, auf denen von zwei Lerngruppen nebeneinander Sport betrieben werden kann.
 
@@ -59,7 +60,7 @@ Welche Vereine beziehungsweise Verbände nutzen derzeit welche Sporthalle? Bitte
 
 Welche nicht organisierten Sportgruppen (zum Beispiel Freizeitsportgruppen) nutzen derzeit welche Sporthalle? Bitte konkrete Zahlen und jeweilige Gesamtauslastung angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nahezu alle städtischen Schulsporthallen wurden und werden außerschulisch genutzt. Zu den Details der außerschulischen Nutzungen siehe den „Belegungsplan Sportstät-
 

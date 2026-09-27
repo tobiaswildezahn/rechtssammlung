@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 44
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7256", "21/7169"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55960"
@@ -59,7 +60,7 @@ War die Behörde für Wirtschaft, Verkehr und Innovation (BWVI) in den Entscheid
 
 Waren Senator Frank Horch und/oder Staatsrat Rolf Bösinger darüber informiert und ebenfalls in den Entscheidungsprozess, dass mit einem „Verhandlungsverfahren mit Teilnahmewettbewerb“ für die Baumaßnahme „Vorsetzen Köhlbrand“ begonnen wird und wann, eingebunden? Wenn nein, warum nicht? Wenn ja, seit wann, wie und durch wen? Wann, wie und mit welchem Entscheidungsinhalt hat der Senator dazu eine Entscheidung getroffen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Behörde für Wirtschaft, Verkehr und Innovation (BWVI) einschließlich ihrer Leitung tauscht sich laufend mit der HPA über den Projektstand aus. In diesem Rahmen wurden auch Aspekte der Ausführungsplanung besprochen. Eine über die laufende Abstimmung hinausgehende, formalisierte Entscheidungsbefassung von Senator und Staatsrat mit diesem Thema war nicht erforderlich, da es sich hierbei um operatives Geschäft der HPA handelt.
 
@@ -117,7 +118,7 @@ Welche Mitarbeiter der HPA haben als Vertreter der HPA an dem Termin vor dem Bun
 
 Warum hat der Geschäftsführer der HPA, Herr Wolfgang Hurtienne, nicht an der Verhandlung vor dem Bundesverwaltungsgericht vom 19. Dezember 2016 bis 21. Dezember 2016 teilgenommen (bitte genaue Angabe der Gründe)?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 In der mündlichen Verhandlung wurde die HPA durch den Geschäftsführer Herrn Jens Meier (GF HPA) sowie Vertreter der Hydrologie HPA vertreten. Eine Teilnahme von Herrn Wolfgang Hurtienne war daher nicht erforderlich.
 

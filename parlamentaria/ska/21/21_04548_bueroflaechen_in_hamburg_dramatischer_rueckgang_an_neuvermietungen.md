@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 19
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2885", "21/1264", "21/209", "20/6171"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52954"
@@ -709,9 +710,9 @@ für Betriebe mit bis zu 15 Mitarbeitern: 0,5 AP pro 100 qm
 möglichst qualifizierte AP  
 -  
 weniger qualifizierte AP  
-•  
+–  
 kein Ausschlussgrund  
-•  
+–  
 begründet in der Regel allein keine Förderungswürdigkeit, kann im Einzelfall  
 Defizit bei Erfüllung anderer Kriterien kompensieren  
 wichtiges, aber nicht einziges und kompensierbares Kriterium  
@@ -743,9 +744,9 @@ Nachhaltige und architektonisch, ansprechende Baugestaltung
 Ermöglichung betrieblicher Entwicklungschancen  
 -  
 flächensparende Vergabe  
-•  
+–  
 private Flächen vorrangig  
-•  
+–  
 intensive Flächennutzung, soweit betriebswirtschaftlich zumutbar  
 (Funktionspläne, Stapelung)  
 -  
@@ -768,9 +769,9 @@ relevanten Unternehmen
 betriebliche Erweiterung  
 -  
 Verlagerungserfordernis, z. B.  
-•  
+–  
 Verbesserung nachteiliger Situation am bisherigen Standort  
-•  
+–  
 Entscheidungsbündel  
 -  
 schwer verwertbare Fläche  

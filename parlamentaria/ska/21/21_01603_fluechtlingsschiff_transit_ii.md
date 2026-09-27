@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 17
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/280", "21/282", "20/14035"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49834"
@@ -102,7 +103,7 @@ Wie ist der aktuelle Stand im Hinblick auf die Verhandlungen bezüglich der Vert
 
 Falls das Verfahren (vergleiche Ziffer 6.) noch immer nicht abgeschlossen ist, wann werden die Verhandlungen abgeschlossen sein?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die erforderlichen Arbeiten sind noch nicht vollständig abgerechnet, somit fehlt es bisher an der rechnerischen Grundlage für Verhandlungen über die Kostenverteilung. Eine terminliche Planung besteht daher nicht.
 
@@ -114,7 +115,7 @@ Welche baulichen Mängel und Defizite wurden im Einzelnen festgestellt und müss
 
 Welche Kosten sind mit diesen Maßnahmen verbunden?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Über die in Drs. 21/280 und Drs. 21/282 benannten technischen Probleme hinaus sind keine weiteren Mängel aufgetreten.
 

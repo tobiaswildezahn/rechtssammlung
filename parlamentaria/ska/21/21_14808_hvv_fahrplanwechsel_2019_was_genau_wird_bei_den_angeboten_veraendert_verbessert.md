@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14631", "21/12397"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64255"
@@ -160,37 +161,37 @@ Auf welchen Buslinien kommt es Taktausdünnungen, die nicht durch parallel verke
 
 Zu Taktreduzierungen kommt es auf den SchnellBus-Linien 34 – 37, die auf Abschnitten mit höherem Nachfragepotenzial durch neue beziehungsweise verbesserte Angebote im zuschlagsfreien Liniennetz kompensiert werden.
 
- Linie 34: Taktreduktion auf 30‘-Takt ohne Kompensation aufgrund der äußerst
+– Linie 34: Taktreduktion auf 30‘-Takt ohne Kompensation aufgrund der äußerst
 
 geringen Nachfrage,
 
- Linie 35: Taktreduktion auf 20‘-Takt mit Kompensation zwischen Wandsbek Markt
+– Linie 35: Taktreduktion auf 20‘-Takt mit Kompensation zwischen Wandsbek Markt
 
 und Jenfeld beziehungsweise Rahlstedt-Ost durch verbessertes Angebot durch Linien 11, 162, 163,
 
- Linie 36: Taktreduktion auf 20‘-Takt mit Kompensation zwischen Bf. Altona und
+– Linie 36: Taktreduktion auf 20‘-Takt mit Kompensation zwischen Bf. Altona und
 
 Teufelsbrück durch Verlängerung der Linie 111,
 
- Linie 37: Taktreduktion auf 10‘- beziehungsweise 20‘-Takt mit Kompensation zwi-
+– Linie 37: Taktreduktion auf 10‘- beziehungsweise 20‘-Takt mit Kompensation zwi-
 
 schen Bramfeld und St. Pauli durch neue Linie 17.
 
 Alle Einsparungen aus den Reduktionen des SchnellBus-Netzes werden in neue, zuschlagsfreie Angebote reinvestiert:
 
- Neue MetroBus-Linie 17 durchgehend zwischen Bramfeld und Innenstadt als
+– Neue MetroBus-Linie 17 durchgehend zwischen Bramfeld und Innenstadt als
 
 Ergänzung der SchnellBus-Linie 37,
 
- Zuschlagsfreie StadtBus-Linie 111 zwischen Bf. Altona und Teufelsbrück entlang
+– Zuschlagsfreie StadtBus-Linie 111 zwischen Bf. Altona und Teufelsbrück entlang
 
 der Elbchaussee parallel zur SchnellBus-Linie 36,
 
- Neue MetroBus-Linie 11 als verlässlichere Bedienung aus Rahlstedt und Jenfeld in
+– Neue MetroBus-Linie 11 als verlässlichere Bedienung aus Rahlstedt und Jenfeld in
 
 Ergänzung zur SchnellBus-Linie 35,
 
- Neue MetroBus-Linie 28 als Ersatz der östlichen SchnellBus-Linie 39 und Ergän-
+– Neue MetroBus-Linie 28 als Ersatz der östlichen SchnellBus-Linie 39 und Ergän-
 
 zung der stark nachgefragten MetroBus-Linie 23.
 

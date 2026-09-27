@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 18
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5600", "21/5859", "21/5805"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55294"
@@ -59,7 +60,7 @@ Womit erklärt sich die eingangs beschriebene Differenz von circa 10 Millionen E
 
 Welcher Anteil der im Entwurf für den Doppelhaushalt 2017/2018 eingeplanten rund 48,4 Millionen Euro für kommunale Investitionsförderung ist bereits für jeweils welche konkreten Projekte und Vorhaben verplant beziehungsweise vorgesehen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Differenzbetrag beruht auf den bereits für das Haushaltsjahr 2016 veranschlagten Beträgen (siehe Drs. 21/5859). Zu den konkreten Projekten siehe Drs. 21/5805. Darüber hinaus sind die Planungen und Überlegungen noch nicht abgeschlossen.
 

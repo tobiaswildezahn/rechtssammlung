@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/795"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50216"
@@ -65,7 +66,7 @@ Welche Ausgaben sind bisher für die Bewerbung für die Olympischen Spiele 2024 
 
 Wer hat bisher diese Ausgaben übernommen? Bitte jeweils einzeln angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die bisher geleisteten Zahlungen ergeben sich aus der Anlage. Darüber hinaus hat die Senatskanzlei entsprechend den Vereinbarungen zwischen den Gesellschaftern der Bewerbungsgesellschaft Hamburg 2024 GmbH an die Bewerbungsgesellschaft Zuzahlungen in die Kapitalrücklage in drei Tranchen in einer Gesamthöhe von 4 Millionen Euro geleistet, die sich wie folgt errechnen:
 

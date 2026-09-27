@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57300"
@@ -63,7 +64,7 @@ Welche Vorschriften sind beim Betrieb bereits bestehender Schienenstrecken zu be
 
 Welche Lärmpegel sind danach zulässig? Bitte gegebenenfalls nach Wohngebieten, Gewerbegebieten und nach Tageszeit differenzieren.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die genannten Vorschriften gelten nur beim Bau oder einer wesentlichen Änderung von Schienenwegen (Lärmvorsorge), vergleiche § 1 der 16. BImSchV.
 
@@ -87,7 +88,7 @@ Welche bestehenden Schienenstrecken im Gebiet der Freien und Hansestadt Hamburg 
 
 Was unternimmt die FHH, um die zuvor abgefragten Verstöße zu beenden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antworten zu 3. bis 5.
 
@@ -107,6 +108,6 @@ In welchen Zeitabständen werden im Gebiet der FHH Gleise ausgetauscht und durch
 
 Auf welchen Schienenstrecken im Gebiet der FHH liegen derzeit Schienen, die schon länger als zuvor abgefragt liegen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Eine Erneuerung der Gleise und des Oberbaus erfolgt im Netz der DB AG und der HPA bedarfsgerecht in Abhängigkeit der Nutzungsintensität der Gleise und des daraus resultierenden Gleiszustandes. Ein einheitlicher Zeitabstand lässt sich daher nicht angeben.

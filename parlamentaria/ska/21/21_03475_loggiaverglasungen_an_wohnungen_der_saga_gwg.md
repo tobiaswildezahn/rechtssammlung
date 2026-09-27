@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51842"
@@ -45,17 +46,17 @@ Die Mieter haben schriftliche Genehmigungen zur Verglasung von der GWG bekommen.
 
 #### Antwort zu Frage 1
 
- Es muss im geschlossenen Zustand eine Dreiteilung der Fensterflä-
+– Es muss im geschlossenen Zustand eine Dreiteilung der Fensterflä-
 
 chen sichtbar sein. Raster wie Brüstungsgeländer. Materialauswahl/ Festlegung ist Kunststoff, Farbe weiß, Fabrikat zum Beispiel „Serie 900“ oder gleichwertig.
 
- Eine Befestigung darf nur im Decken- und Fußbodenbereich ausge-
+– Eine Befestigung darf nur im Decken- und Fußbodenbereich ausge-
 
 führt werden. Die Abdichtung muss mittels Dichtungsbändern seitlich gegen die Wärmedämmung erfolgen. Zusätzlich kann beidseitig eine Versiegelung vorgesehen werden. Im Fußbodenbereich muss sichergestellt werden, dass keinerlei Feuchtigkeit in die Bohrlöcher eindringen kann. Hier müssen ebenfalls Dichtbänder oder Spezialdübel verwandt werden.
 
- Die Balkonentwässerung darf nicht verändert werden.
+– Die Balkonentwässerung darf nicht verändert werden.
 
- Der Zwischenraum zwischen Stahlbrüstung und Loggiaelement muss
+– Der Zwischenraum zwischen Stahlbrüstung und Loggiaelement muss
 
 so groß bleiben, dass eventuelle Reparaturen beziehungsweise Reinigungsarbeiten durchgeführt werden können.
 

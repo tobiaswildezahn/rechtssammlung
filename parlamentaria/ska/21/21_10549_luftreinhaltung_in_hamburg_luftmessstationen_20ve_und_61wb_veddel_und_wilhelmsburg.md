@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59433"
@@ -43,13 +44,13 @@ Worin unterscheidet sich die (stationäre) Luftmessung hinsichtlich des Verkehrs
 
 #### Antwort zu Frage 1
 
- Kriterien für die Standortauswahl,
+– Kriterien für die Standortauswahl,
 
- Datenerhebung, also etwa gemessene Substanzen, Messmethoden,
+– Datenerhebung, also etwa gemessene Substanzen, Messmethoden,
 
 -instrumente, -höhe und so weiter,
 
- Datenauswertung.
+– Datenauswertung.
 
 Die Datenerhebung der zu erfassenden Stoffe sowie Kriterien zur Standortauswahl sind in der Europäischen Luftqualitäts-RL 2008/50/EG, die mit der 39. Verordnung nach dem Bundes-Immissionsschutzgesetz (BImSchV) in nationales Recht überführt wurde, festgelegt. Konkretisierte Anforderungen an die technische Datenerhebung und -auswertung für alle stationären Messungen sind darüber hinaus in der EU-RL 2004/107/EG und der Kommissionsentscheidung 2011/850/EU festgelegt.
 

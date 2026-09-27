@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7943", "21/8133", "21/1838", "21/6666"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57637"
@@ -130,7 +131,7 @@ Handelt es sich bei dem Zuschuss für die „höhere Abnutzung von Wohnraum und 
 
 Wie viele und welche Einrichtungen fallen unter jeweils welche Bezuschussung?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3541", "21/2177", "21/2919", "21/3271"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51948"
@@ -57,7 +58,7 @@ Welche Auswirkungen hat die Verschiebung der Aufstellung der Abschlüsse der HSH
 
 Wie ist der aktuelle Zeitplan für die Aufstellung und Veröffentlichung des Jahresabschlusses der HSH Finanzfonds AöR?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die FinFo hat hierzu mitgeteilt, dass ihr Jahresabschluss unter anderem die Ergebnisse des Jahresabschlusses der HSH berücksichtige und sie gegenwärtig noch unverändert von einer Erstellung des Jahresabschlusses zum 31. März 2016 ausgehe.
 
@@ -110,12 +111,12 @@ Wann hat der Finanzsenator auf wessen Veranlassung seit Anfang 2015 schriftliche
 
 Auf Bitte des Vorstands der HSH haben der Präses der Finanzbehörde und die Finanzministerin des Landes Schleswig-Holstein jeweils in gemeinsamen Schreiben
 
- am 24. Februar 2015 versichert, dass die Freie und Hansestadt Hamburg (FHH)
+– am 24. Februar 2015 versichert, dass die Freie und Hansestadt Hamburg (FHH)
 
 und das Land Schleswig-Holstein (SH) unverändert zu ihrer Verantwortung für die HSH stehen, sie als Eigentümer und Garanten ein hohes Interesse daran hätten, dass die Bank ihre Umstrukturierung weiterhin erfolgreich bewältigen und ihr Geschäftsmodell umsetzen könne und dass die Länder unter Wahrung ihrer Vermögensinteressen auch eine Umstrukturierung der Garantie, Portfoliobereinigungen sowie andere geeignete und erforderliche Maßnahmen zur Stärkung der Kapitalbasis unterstützen, die dazu dienen, die HSH in einem anspruchsvollen Marktund Wettbewerbsumfeld dauerhaft erfolgreich auszurichten und ihr zu ermöglichen, das eingesetzte Kapital zu sichern und darauf eine angemessene Rendite zu erwirtschaften. Darüber hinaus haben sie darauf hingewiesen, dass die Entscheidung darüber, welche Maßnahme im Einzelnen umgesetzt werden kann, durch die EU-Kommission zu treffen sein wird und dass voraussichtlich die Zustimmung der
 
 Landesregierungen sowie der Hamburgischen Bürgerschaft und des schleswigholsteinischen Landtags zu den Maßnahmen eingeholt werden müsse.
 
- am 10. November 2015 bestätigt, dass die Länder alle erforderlichen Schritte
+– am 10. November 2015 bestätigt, dass die Länder alle erforderlichen Schritte
 
 unternehmen, um die mit der EU-Kommission am 19. Oktober 2015 getroffene Verständigung schnellstmöglich und auf geeignete Art und Weise umzusetzen, und die hierzu konkret vorgenommenen oder bereits geplanten Schritte beschrieben sowie die noch gemeinsam zu klärenden Fragen benannt. Insbesondere wurde bestätigt, dass die Länder alle Schritte unternehmen werden, die von ihnen als unmittelbare und mittelbare Anteilseigner der Bank benötigt werden, um die Trennung der HSH in eine Holdinggesellschaft (HoldCo) und eine zu privatisierende operative Gesellschaft (OpCo) zu ermöglichen, dass sie mit ihren Stimmen in der Anstaltsträgerversammlung der Finfo sowie ihrer Beteiligung an der neuen HoldCo eine Aufteilung der Vergütungsbestandteile zwischen HoldCo und OpCo entsprechend den Bestimmungen der Verständigung ermöglichen und veranlassen und dass sie schließlich auch die Privatisierung der OpCo aktiv voranbringen werden. Auch diese Bestätigungen wurden unter den Vorbehalt der parlamentarischen Zustimmung sowie einer endgültigen Entscheidung der EU-Kommission gestellt.

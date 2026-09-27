@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17907", "21/17689", "21/15479"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67678"
@@ -54,6 +55,6 @@ Warum hat sich der Senat beziehungsweise die zuständige Behörde bisher nicht m
 
 Wie beurteilt der Senat beziehungsweise die zuständige Behörde die 19 Forderungen der Initiatoren der seinerzeitigen Volksinitiative und in welcher Form wurden diese bei dem Reformentwurf berücksichtigt beziehungsweise aus welchen Gründen jeweils nicht berücksichtigt? Bitte detailliert begründen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.

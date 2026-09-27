@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 17
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56990"
@@ -73,15 +74,15 @@ Wie viel hat die Veranstaltung insgesamt gekostet? Bitte alle angefallenen Koste
 
 Die Ideenwerkstatt hat 188.229 Euro (brutto) gekostet, davon
 
- 13.327 Euro für Raummiete inklusive Möbel und Sicherheit,
+– 13.327 Euro für Raummiete inklusive Möbel und Sicherheit,
 
- 12.319 Euro für Catering,
+– 12.319 Euro für Catering,
 
- 101.566 Euro für Honorare,
+– 101.566 Euro für Honorare,
 
- 29.621 Euro Aufwandsentschädigungen für externe Fachleute und
+– 29.621 Euro Aufwandsentschädigungen für externe Fachleute und
 
- 31.396 Euro für Medien und Marketing.
+– 31.396 Euro für Medien und Marketing.
 
 Schlussrechnungen liegen noch nicht vollständig vor.
 

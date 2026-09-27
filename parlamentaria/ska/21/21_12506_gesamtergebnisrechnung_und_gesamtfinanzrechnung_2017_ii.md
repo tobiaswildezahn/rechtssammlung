@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12050", "21/12148", "21/8499"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61806"
@@ -43,7 +44,7 @@ Wie sehen auf Grundlage der derzeit vorliegenden Beschlusslage der Fortgeschrieb
 
 Wie hoch lagen die jeweiligen Ist-Werte der Gesamtergebnisrechnung 2017 gemäß Sachstand nach der 13. Buchungsperiode? Welche größeren Nach- und Umbuchungen hat es gegenüber dem Stand der 12. Buchungsperiode aus welchen Gründen noch gegeben? (Bitte Antworten zu Fragen 1. und 2. jahresweise analog zur Darstellung in den Quartalsberichten beziehungsweise Drs. 21/8499 auflisten.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1. Größere Positionen bezogen sich insbesondere auf Buchungen der Steuer-Zerlegung IV/2017 und die Buchung von Rückstellungen, in denen 2017 erstmalig die Rückstellungen für Gleitzeitüberhänge und Resturlaub enthalten sind.
 
@@ -55,7 +56,7 @@ Wie sehen auf Grundlage der derzeit vorliegenden Beschlusslage der Fortgeschrieb
 
 Wie hoch lagen die jeweiligen Ist-Werte der Gesamtfinanzrechnung 2017 nach der 13. Buchungsperiode? Welche Änderungen haben sich noch aus welchen Gründen gegenüber dem Stand der 12. Buchungsperiode ergeben? (Bitte Antworten zu Fragen 3. und 4. jahresweise analog zur Darstellung in den Quartalsberichten beziehungsweise Drs. 21/8499 auflisten.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage 2. Die Abweichung bei den Auszahlungen aus Verwaltungstätigkeit beruht auf einer Korrekturbuchung in der Steuerkasse.
 

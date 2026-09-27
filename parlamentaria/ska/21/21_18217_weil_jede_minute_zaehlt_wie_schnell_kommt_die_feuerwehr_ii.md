@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16842"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67846"
@@ -122,7 +123,7 @@ Wie hat sich die Überschreitung der Hilfsfrist im öffentlichen Rettungsdienst 
 
 Wie hat sich die „Erfüllungsquote Eintreffzeit Notarzt an der Einsatzstelle innerhalb von <= 15 Minuten“, Kennzahl B_277_01_015, in Hamburg insgesamt sowie in den einzelnen Bezirken und Stadtteilen im 2. Quartal 2019 jeweils entwickelt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Es wurden Einsätze der Notarzteinsatzfahrzeuge, der Notarztwagen der Berufsfeuerwehr, der Rettungshubschrauber von Bundeswehr und ADAC und der am öffentlichen Rettungsdienst beteiligten Organisationen mit Einsatzort Hamburg ausgewertet.
 

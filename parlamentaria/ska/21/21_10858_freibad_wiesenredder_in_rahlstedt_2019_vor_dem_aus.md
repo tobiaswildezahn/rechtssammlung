@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11135", "21/8754", "21/9962", "21/7682"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59779"
@@ -47,7 +48,7 @@ Wie haben sich die Sportbedarfe in Hamburgs bevölkerungsreichstem Stadtteil Rah
 
 Welche Sportanlagen und Sporthallen wurden seit 2011 saniert, umgebaut beziehungsweise neu erstellt? Bitte pro Jahr angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine stadtteilbezogene detaillierte Erhebung der Sportbedarfe liegt nicht vor. Im Gebiet des Bürgerschaftswahlkreises 14 wurden seit 2011 folgende Maßnahmen auf öffentlichen Sportplätzen durchgeführt:
 

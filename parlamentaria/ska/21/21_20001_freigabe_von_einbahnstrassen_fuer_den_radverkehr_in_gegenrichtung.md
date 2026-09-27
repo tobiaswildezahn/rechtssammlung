@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69765"
@@ -79,7 +80,7 @@ Wie viele Einbahnstraßen mit welcher Gesamtlänge waren 2014 für den Radverkeh
 
 Wie viele mit welcher Gesamtlänge sind es per 31.12.2019 gewesen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Für die Beantwortung wäre eine manuelle Durchsicht sämtlicher Hamburger Straßenakten erforderlich. Diese Auswertung ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Es wird auf die Angaben in den Fortschrittsberichten zum Bündnis für den Radverkehr und zur Radverkehrsstrategie aus den Jahren 2015 und 2018 verwiesen:
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14241"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66648"
@@ -43,7 +44,7 @@ Gibt es Bestrebungen des Senats beziehungsweise der zuständigen Behörde, sich 
 
 Wenn ja, ab wann will sich Hamburg daran beteiligen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ja. Hamburg strebt eine Beteiligung ab dem 1. Januar 2019 an.
 
@@ -63,7 +64,7 @@ An welchem der zehn Handlungsfelder des Gute-Kita-Gesetzes plant der Senat bezie
 
 Wenn nein, warum will sich der Senat beziehungsweise die zuständige Behörde nicht am Gute-Kita-Gesetz beteiligen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die für Kindertagesbetreuung zuständige Behörde plant, sich mit dem Handlungsfeld
 2. „einen guten Fachkraft-Kind-Schlüssel in Tageseinrichtungen sicherzustellen“, zu beteiligen. Dies entspricht dem Beschluss der Bürgerschaft vom September 2018, mit dem die Verbesserung des Fachkraftschlüssels im Krippenbereich auf 1:4 bis zum

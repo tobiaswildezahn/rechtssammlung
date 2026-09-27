@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 24
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51553"
@@ -140,7 +141,7 @@ Wie viele Schüler der sechsten Stadtteilschulklassen wurden an welchen Stadttei
 
 Wie viele Schüler der sechsten Gymnasialklassen wurden an welchen Gymnasien für einen Wechsel zu welcher Stadtteilschule angemeldet?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Die gewünschten Angaben liegen derzeit nicht vor. Wenn die Leistungen der Schülerin oder des Schülers nach der Klasse 6 einen Wechsel auf eine Stadtteilschule erforderlich machen oder wenn aus anderen Gründen für Schülerinnen und Schüler der Klassen 1 bis 10 ein Schul- oder Schulformwechsel gewünscht ist, stellen Eltern bei der Schule beziehungsweise der zuständigen Behörde einen entsprechenden Antrag. Nach der Zeugniskonferenz des zweiten Halbjahres werden diese Schulwechselwünsche bearbeitet und anschließend den Eltern mitgeteilt, welche weiterführende Schule die Schülerin oder der Schüler im darauf folgenden Schuljahr besucht.
 

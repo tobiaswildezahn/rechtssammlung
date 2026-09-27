@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/7555"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51711"
@@ -52,7 +53,7 @@ Warum ist die informationelle Entflechtung von Messstellenbetreiber und Netzbetr
 
 Welche weiteren zentralen Kritikpunkte und Änderungswünsche hat die SNH am bisherigen beziehungsweise mittlerweile im Bundestag vorliegenden Gesetzentwurf (BT.-Drs. 18/7555) aus jeweils welchen Gründen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Stellungnahme der SNH an das BMWi vom 20. Oktober 2015 (im Internet abrufbar unter: https://www.bmwi.de/BMWi/Redaktion/PDF/Stellungnahmen/ Stellungnahmen-Gesetzentwurf-Digitalisierung-Energiewende/stromnetzhamburg,property=pdf,bereich=bmwi2012,sprache=de,rwb=true.pdf).
 

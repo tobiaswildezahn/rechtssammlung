@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1122", "21/2556", "21/2852", "21/3028", "21/5123", "21/7234"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56081"
@@ -44,7 +45,7 @@ Wie hat sich die Überstundensituation bei der Hamburger Polizei im 3. und 4. Qu
 
 Wie viele Überstunden haben die Bediensteten der Polizei nunmehr durchschnittlich (Stand 31.12.2016)? Bitte insgesamt und nach Bereichen aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Abrechnung der Mehrarbeitsstunden für das 4. Quartal 2016 ist noch nicht erfolgt.
 
@@ -85,7 +86,7 @@ Wie ist die weitere Entwicklung zu erklären?
 
 Inwieweit kann weiterhin noch die Rede von einem „Spitzenwert in einer starken Schwankungen unterworfenen Zeitreihe“ sein (vergleiche Drs. 21/1122, Antwort zu Frage 8)?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Reduzierung im Vergleich zum 2. Quartal 2016 ist überwiegend auf die erfolgte finanzielle Vergütung zurückzuführen. Im Übrigen siehe Drs. 21/5123.
 

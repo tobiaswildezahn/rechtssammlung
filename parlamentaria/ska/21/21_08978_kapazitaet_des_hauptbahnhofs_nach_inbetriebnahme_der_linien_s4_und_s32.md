@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7859"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57721"
@@ -75,6 +76,6 @@ Wann sollen die Planungsarbeiten und wann sollen Bauarbeiten der Maßnahmen zu N
 
 Zu welchen Anteilen verteilen sich die möglichen Kosten auf den Hamburger Senat und das Infrastrukturunternehmen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Einzelne Maßnahmen des 6-Punkte-Plans wurden bereits begonnen. Zur Maßnahme „Neuordnung der Gleichstromversorgung am Hauptbahnhof“ laufen derzeit vorbereitende Untersuchungen, um das genaue Aufwands- und Kostenvolumen zu bestimmen. Die aktuellen Aktivitäten sind derzeit auf die Grundlagenermittlung beschränkt und werden im Rahmen der zwischen dem Bund, der DB AG und der Freien und Hansestadt Hamburg abzuschließenden Leistungs- und Finanzierungsvereinbarung abgestimmt. Eine Umsetzung ist gegebenenfalls erst nach Abschluss der neuen Leistungsund Finanzierungsvereinbarung (LuFV) mit den dann zur Verfügung stehenden freien Mittel ab den Jahren 2020 fortfolgende möglich.

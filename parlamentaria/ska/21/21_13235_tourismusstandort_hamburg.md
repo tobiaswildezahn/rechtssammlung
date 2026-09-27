@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 36
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3568", "21/7653", "21/12830"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62599"
@@ -47,7 +48,7 @@ d) Sehenswürdigkeiten?
 
 Wie entwickelten sich die Zahl der Touristen und die Zahl der Übernachtungen in den letzten drei Jahren im Vergleich zu den zehn tourismusstärksten Metropolen Deutschlands („Magic Cities“) und welchen Platz belegt Hamburg sowohl auf nationaler als auch auf internationaler Ebene im „Magic City“-Ranking?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Hamburg  
 Übernachtungen insgesamt  
@@ -330,7 +331,7 @@ Welche Herausforderungen sieht der Senat in Bezug auf die Stärkung des Tourismu
 
 Welche Maßnahmen werden seitens des Senats für nötig erachtet, um auch in Zukunft eine erfolgreiche Entwicklung der Übernachtungszahlen zu verzeichnen und diese weiterhin zu festigen?
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Aus Sicht des Senates belegt die Entwicklung des Tourismussegmentes den Erfolg der in den vergangenen Jahren eingeschlagenen Strategie, die daher im Grundsatz weitergeführt werden soll. Kernelemente sind die weitere Internationalisierung, die Stärkung der besonderen maritimen Qualität Hamburgs als Alleinstellungsmerkmal, die qualitative Verbesserung der touristischen Angebote sowie eine nachfragegerechte Kapazitätsentwicklung. Zudem erfolgt über die Revitalisierung des CCH eine deutliche Angebotsverbesserung auf dem Feld des Kongresstourismus.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63952"
@@ -61,7 +62,7 @@ Befürwortet der Senat beziehungsweise die zuständige Behörde die Reaktivierun
 
 Ist die Machbarkeitsstudie hinsichtlich der Reaktivierung der Bahnstrecke Geesthacht – Hamburg mittlerweile abgeschlossen? Wenn ja, wie lauten die Ergebnisse und wie bewertet der Senat beziehungsweise die zuständige Behörde diese Ergebnisse? Wenn nein, warum nicht und zu wann werden die Ergebnisse voraussichtlich vorliegen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Ausschreibung einer entsprechenden Gutachterleistung steht unmittelbar bevor. Ziel ist es, die Ergebnisse im 2. Quartal des Jahres 2019 auswerten zu können. Die zuständige Behörde wird im Rahmen eines Arbeitskreises an der Erarbeitung der Studie beteiligt. Im Übrigen siehe Vorbemerkung.
 
@@ -85,7 +86,7 @@ Wer genau hat die Machbarkeitsstudie beauftragt, welche Einrichtung hat sie durc
 
 Welchen Untersuchungsauftrag hat beziehungsweise hatte die Machbarkeitsstudie konkret? Bitte den Wortlaut angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der finale Stand der Unterlage wird in Kürze veröffentlicht.
 

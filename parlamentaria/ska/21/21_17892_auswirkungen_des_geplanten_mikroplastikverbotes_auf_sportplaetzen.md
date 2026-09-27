@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17846"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67500"
@@ -57,7 +58,7 @@ Zu welchem Zeitpunkt hat sich die Europäische Kommission erstmals mit Ihrem gep
 
 Auf welchen Sportplätzen wird Mikroplastik in Form von Kunststoffgranulat eingesetzt? (Bitte tabellarisch darstellen und nach öffentlich/privater Liegenschaft und öffentlicher/privater Trägerschaft differenzieren.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/17846.
 

@@ -11,9 +11,10 @@ fraktionen: ["AfD"]
 vorgang: 60871
 seiten: 5
 fragen: 22
-einzelfragen: 31
-antwortbloecke: 21
+einzelfragen: 40
+antwortbloecke: 27
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12543"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66754"
@@ -105,13 +106,19 @@ Siehe Antworten zu 1. und 2.
 
 Der Mitarbeiter hat sich verfahren.
 
-8.1. Wie häufig hat sich ein vergleichbares Problem in den vergangenen fünf Jahren ergeben und wie wurde es gelöst?
+### Frage 8.1
+
+Wie häufig hat sich ein vergleichbares Problem in den vergangenen fünf Jahren ergeben und wie wurde es gelöst?
+
+#### Antwort zu Frage 8.1
 
 Die Daten werden statistisch nicht erfasst.
 
-8.2. Wird solch ein Fall während der Ausbildung durchgesprochen und eine Handlungsvorgabe vereinbart?
+### Frage 8.2
 
-Wenn ja, wie lautet diese?
+Wird solch ein Fall während der Ausbildung durchgesprochen und eine Handlungsvorgabe vereinbart? Wenn ja, wie lautet diese?
+
+#### Antwort zu Frage 8.2
 
 Ja, sowohl in der Busfahrschule als auch in der innerbetrieblichen Ausbildung wird ein solcher Fall besprochen. In derartigen Fällen ist die Leitstelle zu informieren und auf Anweisung zu handeln.
 
@@ -192,15 +199,20 @@ Diese Möglichkeit wird nur Teilnehmerinnen und Teilnehmern des genannten Projek
 ### Frage 18
 
 Die Hälfte der Pkw-Führerscheinkosten (insgesamt durchschnittlich 3 000 Euro) sei dabei grundsätzlich durch die neuen Mitarbeiter zu finanzieren, erklärt die HOCHBAHN in einer AfD-Anfrage (Drs. 21/12543).
-18.1. Ist es richtig, dass diese Kosten folglich mit öffentlichen Geldern beglichen wurden?
 
-#### Antwort zu Frage 18
+### Frage 18.1
+
+Ist es richtig, dass diese Kosten folglich mit öffentlichen Geldern beglichen wurden?
+
+#### Antwort zu Fragen 18 und 18.1
 
 Die Kosten wurden aus Mitteln der Hochbahn beglichen.
 
-18.2. Gibt es eine Vereinbarung, dass diese Kosten im Falle einer Festanstellung zurückgezahlt werden müssen?
+### Frage 18.2
 
-Wenn nein, warum nicht?
+Gibt es eine Vereinbarung, dass diese Kosten im Falle einer Festanstellung zurückgezahlt werden müssen? Wenn nein, warum nicht?
+
+#### Antwort zu Frage 18.2
 
 Ja.
 
@@ -212,29 +224,43 @@ Wie kommt die HOCHBAHN zu der Annahme, ein Pkw-Führerschein würde 6 000 Euro k
 
 Wie viele „Flüchtlinge“ haben die Ausbildung angefangen, wie viele von ihnen die Ausbildung beendet? Wenn es Abbrecher gab, bitte die Gründe benennen.
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Im Rahmen des genannten Ausbildungsgangs haben elf von 16 Auszubildenden die Ausbildung abgeschlossen. Im Übrigen siehe Drs. 21/12543.
 
-20.1. Auf welche Gesamthöhe belaufen sich die Kosten für die Ausbildung derjenigen, die diese nicht beendet haben?
+### Frage 20.1
+
+Auf welche Gesamthöhe belaufen sich die Kosten für die Ausbildung derjenigen, die diese nicht beendet haben?
+
+#### Antwort zu Frage 20.1
 
 Die Kosten sind davon abhängig, zu welchem Zeitpunkt die Ausbildung abgebrochen wird. Die HOCHBAHN erhebt keine Daten zu Kosten abgebrochener Ausbildungen.
 
-20.2. Wie viele dieser Absolventen sind aktuell Busfahrer bei der HOCHBAHN?
+### Frage 20.2
+
+Wie viele dieser Absolventen sind aktuell Busfahrer bei der HOCHBAHN?
 
 ### Frage 21
 
 Wie viele Menschen, die nicht als Flüchtlinge kamen, absolvierten den Busführerschein in den vergangenen fünf Jahren? Wie viele von ihnen haben die Ausbildung abgebrochen?
 
-#### Antwort zu Frage 21
+#### Antwort zu Fragen 20.2 und 21
 
 Siehe Antwort zu 15.
 
-21.1. Auf welche Gesamthöhe belaufen sich die Kosten für die Ausbildung derjenigen, die diese nicht beendet haben?
+### Frage 21.1
+
+Auf welche Gesamthöhe belaufen sich die Kosten für die Ausbildung derjenigen, die diese nicht beendet haben?
+
+#### Antwort zu Frage 21.1
 
 Siehe Antwort zu 20.1.
 
-21.2. Wie viele dieser Absolventen sind aktuell Busfahrer bei der HOCHBAHN?
+### Frage 21.2
+
+Wie viele dieser Absolventen sind aktuell Busfahrer bei der HOCHBAHN?
+
+#### Antwort zu Frage 21.2
 
 Die Anzahl der Busfahrerinnen und Busfahrer, welche seit 1. Januar 2014 bei der HOCHBAHN eingestellt wurden und noch bei der HOCHBAHN beschäftigt sind, beträgt 890.
 

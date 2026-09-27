@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15111", "21/15557", "21/15922"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65560"
@@ -123,6 +124,6 @@ c) den Rechtszusammenhang aus „Angebot und Angebotsbestätigung“?
 Worin unterscheiden sich die diese drei aus Sicht des Senats jeweils  
 voneinander?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Ja. Siehe Drs. 21/15922.

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63262"
@@ -71,7 +72,7 @@ Wie viele Standorte in Hamburg zur Errichtung weiterer öffentlicher Trinkbrunne
 
 Zu welchem Zeitpunkt rechnet die BUE mit einem Ergebnis dieser Standortprüfungen für neue öffentliche Trinkbrunnen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Prüfung neuer Standorte durch HW ist noch nicht abgeschlossen. Mit einem Ergebnis ist nicht vor Frühjahr 2019 zu rechnen. Im Übrigen siehe Vorbemerkung.
 

@@ -13,9 +13,10 @@ seiten: 1
 fragen: 0
 einzelfragen: 0
 antwortbloecke: 0
-beantwortet: true
+beantwortet: false
+status: "zurückgezogen"
 zitierte_drucksachen: []
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57063"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/57063/21_08352_nachfragen_zu_der_schriftlichen_kleinen_anfrage_21_8309_wegen_absurder_unterstellungen_des_abgeordneten_dennis_gladiator"
 abgerufen: "2026-09-25"
@@ -24,11 +25,9 @@ generator: "ska_archiv 1.0"
 
 # Drs. 21/8352: Nachfragen zu der Schriftlichen Kleinen Anfrage 21/8309 wegen absurder Unterstellungen des Abgeordneten Dennis Gladiator
 
-> Schriftliche Kleine Anfrage der Abgeordneten Nebahat Güçlü (fraktionslos) vom 15.03.17 und Antwort des Senats · Drucksache vom 15.03.2017  
+> Schriftliche Kleine Anfrage der Abgeordneten Nebahat Güçlü (fraktionslos) vom 15.03.17 · zurückgezogen · Drucksache vom 15.03.2017  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/57063) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/57063/21_08352_nachfragen_zu_der_schriftlichen_kleinen_anfrage_21_8309_wegen_absurder_unterstellungen_des_abgeordneten_dennis_gladiator)
 
-## Volltext
-
-Nachfragen zu der Schriftlichen Kleinen Anfrage 21/8309 wegen absurder Unterstellungen des Abgeordneten Dennis Gladiator
+## Hinweis
 
 Die Anfrage wurde zurückgezogen.

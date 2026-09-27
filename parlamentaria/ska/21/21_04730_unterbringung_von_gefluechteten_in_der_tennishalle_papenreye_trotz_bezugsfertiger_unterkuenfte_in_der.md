@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4174", "21/1906", "21/2232", "21/2599", "21/2837", "21/3227", "21/3646", "21/3915", "21/4293"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53158"
@@ -101,7 +102,7 @@ Wie viele Geflüchtete sind aktuell in Eimsbüttel in Hallen/Baumärkten unterge
 
 Wie viele Geflüchtete sind in Hamburg in Hallen/Baumärkten untergebracht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Gesamtbelegung davon im Baumarkt
 

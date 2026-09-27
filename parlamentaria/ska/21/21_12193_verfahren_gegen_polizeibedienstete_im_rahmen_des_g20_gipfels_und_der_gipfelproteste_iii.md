@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11196", "21/11642"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61460"
@@ -150,7 +151,7 @@ Wie viele der vom DIE beziehungsweise der Staatsanwaltschaft gegen Polizeibeamte
 
 Wie viele der vom DIE beziehungsweise der Staatsanwaltschaft gegen Polizeibedienstete geführten Ermittlungsverfahren wurden bis zum aktuellen Zeitpunkt auf welcher Rechtsgrundlage und aus welchen Gründen eingestellt? Bitte die Tabelle aus Drs. 21/11642 entsprechend aktualisieren und ergänzen.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Für eine zuverlässige Auskunft zu den Gründen der jeweiligen Einstellung gemäß § 170 Absatz 2 StPO müssten die Verfahren beigezogen und händisch ausgewertet werden, was in der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht möglich ist. Es kann daher lediglich eine Auskunft anhand
 

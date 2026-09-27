@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14500", "21/14976", "21/13659"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64938"
@@ -173,7 +174,7 @@ In der Bezirksdrs. (Harburg) 20-4085 erklärt die Behörde, dass die Baufirmen a
 
 Sollte der EHW nicht ausgebaut werden, könnte er trotzdem in seinem derzeitigen Zustand als offizielle Ausweichstrecke während der Bauarbeiten auf der A 7 in den Jahren 2019 fortfolgende dienen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Antwort zu 7) c).
 

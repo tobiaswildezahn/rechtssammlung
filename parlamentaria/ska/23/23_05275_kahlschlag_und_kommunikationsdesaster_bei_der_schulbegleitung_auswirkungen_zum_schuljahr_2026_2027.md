@@ -8,12 +8,13 @@ datum_anfrage: "2026-09-08"
 datum_drucksache: "2026-09-15"
 urheber: ["Birgit Stöver", "Silke Seif", "Antje Müller-Möller"]
 fraktionen: ["CDU"]
-vorgang: null
+vorgang: 89156
 seiten: 4
 fragen: 11
 einzelfragen: 26
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["23/4928", "23/5112", "23/4823", "23/4797", "23/4767", "23/4602", "23/4450", "23/4066", "22/16939", "22/16262", "22/15963", "22/15437", "22/15026", "22/14664", "22/14298", "22/13877", "22/13418", "22/13391", "22/13125", "22/11839", "22/11195", "22/9213", "22/8157", "22/8057", "22/7205", "22/7202", "22/6641", "22/4870", "22/4342", "22/4330", "22/4171", "22/3652"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105179"

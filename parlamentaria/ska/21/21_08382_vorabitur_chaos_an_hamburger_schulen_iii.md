@@ -10,12 +10,13 @@ urheber: ["Karin Prien"]
 fraktionen: ["CDU"]
 vorgang: 52231
 seiten: 2
-fragen: 0
-einzelfragen: 0
-antwortbloecke: 0
+fragen: 1
+einzelfragen: 1
+antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7697"]
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57091"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/57091/21_08382_vorabitur_chaos_an_hamburger_schulen_iii"
 abgerufen: "2026-09-26"
@@ -27,11 +28,11 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Karin Prien (CDU) vom 20.03.17 und Antwort des Senats · Drucksache vom 28.03.2017  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/57091) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/57091/21_08382_vorabitur_chaos_an_hamburger_schulen_iii)
 
-## Volltext
-
-Vorabitur-Chaos an Hamburger Schulen (III)
+## Einleitung für die Fragen
 
 Ausgehend von der unsachgemäßen Beantwortung einer Frage meiner Folge-SKA zum Vorabitur-Chaos an Hamburger Schulen nach den Vergleichsstundentafeln der anderen Bundesländer (Drs. 21/7697, Frage 5.) und unter Berufung auf die Abhilfe meiner Beschwerde durch die Präsidentin der Hamburgischen Bürgerschaft stelle ich diese nun erneut und frage den Senat:
+
+## Einleitung für die Antworten des Senats
 
 Die Einschätzung der Fragestellerin, der Beschwerde der Abgeordneten sei abgeholfen worden und schon aus diesem Grund sei der Senat auskunftspflichtig, ist falsch. Sie verkennt die Zuständigkeitsverteilung und die in der Verfassung geregelten Verantwortlichkeiten. Vielmehr liegt es in der Verantwortung des Senats, in jedem Einzelfall über das „Ob“ und das „Wie“ der Beantwortung Parlamentarischer Anfragen auf der Basis der verfassungsrechtlichen Ausgestaltung des Fragerechts zu entscheiden.
 
@@ -50,6 +51,12 @@ Etwas anderes könnte allenfalls dann gelten, wenn ein ausdrückliches Einverneh
 
 Dies vorausgeschickt, beantwortet der Senat die Frage wie folgt:
 
+## Fragen und Antworten
+
+### Frage 1
+
 Wie viele Wochenstunden Mathematikunterricht erhalten die Schüler der anderen 15 Bundesländer? Bitte in Tabellenform nach Schulform beziehungsweise Schulformbezeichnung, Klassenstufe und Sekundarstufen sowie nach Bundesländern getrennt darstellen.
+
+#### Antwort zu Frage 1
 
 Siehe Vorbemerkung sowie Drs. 21/7697.

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64010"
@@ -91,11 +92,11 @@ Planänderungen führen nur in sehr geringem Umfang zu einer Erhöhung der Anzah
 
 Zu den baubegleitenden Maßnahmen zählen unter anderem:
 
-• die Berücksichtigung von Baustelleneinrichtungsflächen,
+– die Berücksichtigung von Baustelleneinrichtungsflächen,
 
-• die Verlegung von Sielen der Hamburger Stadtentwässerung und der übrigen Leitungsträger auf Flächen außerhalb des vorhandenen Straßenraumes und
+– die Verlegung von Sielen der Hamburger Stadtentwässerung und der übrigen Leitungsträger auf Flächen außerhalb des vorhandenen Straßenraumes und
 
-• die Berücksichtigung der Bushaltestellen im Bereich der U4-Endhaltestelle Dannerallee.
+– die Berücksichtigung der Bushaltestellen im Bereich der U4-Endhaltestelle Dannerallee.
 
 ### Frage 2
 

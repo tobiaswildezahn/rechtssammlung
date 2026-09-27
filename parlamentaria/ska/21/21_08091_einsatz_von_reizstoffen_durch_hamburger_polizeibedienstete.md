@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 19
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/197", "21/113"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56750"
@@ -172,7 +173,7 @@ Wie viele Einsätze von Reizstoffen durch Polizeibedienstete zu welchen Ereignis
 
 Wie viele der unter 12. genannten Einsätze von Reizstoffen verliefen seit 2013 aus polizeilicher Sicht erfolgreich beziehungsweise nicht erfolgreich? Bitte aufschlüsseln nach Reizstoff und Androhung mit/ohne Erfolg sowie Einsatz mit/ohne Erfolg.
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Jeder Einsatz von Reizstoffen durch die Polizei ist aktenkundig zu machen. Eine statistische Auswertung und Erfassung erfolgt nicht. Zur Beantwortung der Fragestellungen wäre eine manuelle Durchsicht aller Strafanzeigen und sonstigen Berichte der beteiligten Polizeidienststellen des erfragten Zeitraums erforderlich. Die Auswertung mehrerer Hunderttausend Vorgänge ist in der für die Beantwortung Parlamentarischer Anfragen zur Verfügung stehenden Zeit nicht möglich; im Übrigen siehe Drs 21/113.
 

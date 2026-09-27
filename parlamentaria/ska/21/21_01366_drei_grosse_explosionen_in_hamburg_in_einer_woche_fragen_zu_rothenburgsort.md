@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 34
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1311", "21/1356"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49561"
@@ -150,9 +151,9 @@ Polizeibeamte forderten nach Eintreffen am Schadensort die betroffenen Anwohner 
 
 Nach Beendigung des Feuerwehreinsatzes hat die Behörde für Umwelt und Energie folgende Maßnahmen ergriffen:
 
- Es wurde der Bereich um die Marckmannstraße 2 abgesperrt (Radius 10 m).
+– Es wurde der Bereich um die Marckmannstraße 2 abgesperrt (Radius 10 m).
 
- Das Betreten des Hochbunkers ist nur unter Verwendung von Schutzausrüstung
+– Das Betreten des Hochbunkers ist nur unter Verwendung von Schutzausrüstung
 
 (PSA-Vollschutz mit Pressluftatmer) gestattet
 
@@ -164,7 +165,7 @@ Wurden seit den Unglücken Zuständigkeiten an Privatpersonen oder Firmen übert
 
 Wenn nein, gibt es Aufgaben, die nicht von der Freien und Hansestadt Hamburg beziehungsweise dem Bezirk wahrgenommen wurden?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Seitens der Feuerwehr erfolgte nach Abwehr der akuten Gefahren für die Bevölkerung und Umwelt am Mittwochabend, 5. August 2015, die Übergabe der Einsatzstelle an die Behörde für Umwelt und Energie beziehungsweise die Eigentümerin und die Polizei.
 
@@ -234,7 +235,7 @@ Gibt es Notfallpläne für Unglücksszenarien in denen Bewohner Wohnungen für l
 
 Ab wann, wenn überhaupt, hat das Amt wegen der ungeklärten Wohnsituation Anfragende auf den/die Vermieter verwiesen?
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Ja, bei Großschadensereignissen und Katastrophen werden für kurzfristige beziehungsweise vorübergehende Unterbringungen von Evakuierten entsprechende Notfallplanungen bereitgehalten. Einschlägig sind die Evakuierungsrichtlinie und die Betreuungsrichtlinie. Diese regeln jedoch nur die vorübergehende Unterbringung, bei längerfristigen Unterbringungen von Personen, die zum Beispiel infolge eines Schadensereignisses (auch unterhalb der Schwelle einer Katastrophe) erforderlich sind, sind die Bezirksämter zuständig.
 

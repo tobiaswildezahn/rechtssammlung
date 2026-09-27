@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66180"
@@ -57,15 +58,15 @@ b) Wenn ja, mit welchem Ergebnis/welchen Erkenntnissen?
 
 Das System Oberleitungsbus hat wesentliche Nachteile, die eine sinnvolle Anwendung in Hamburg erschweren:
 
- Es entstehen im Vergleich zu Alternativsystemen hohe Infrastrukturkosten für die
+– Es entstehen im Vergleich zu Alternativsystemen hohe Infrastrukturkosten für die
 
 Errichtung und Wartung eines solchen Systems.
 
- Das System hat einen hohen Platzbedarf für die benötigte Infrastruktur in der
+– Das System hat einen hohen Platzbedarf für die benötigte Infrastruktur in der
 
 Stadt. Eine Neuordnung des Straßenraumes wäre für dessen Einführung notwendig.
 
- Das System ist mit geringer Flexibilität und mit hohen betrieblichen Einschränkun-
+– Das System ist mit geringer Flexibilität und mit hohen betrieblichen Einschränkun-
 
 gen insbesondere bei Umleitungen aufgrund von Baustellen, Unfällen et cetera verbunden und daher nicht für die Anwendung in Hamburg geeignet.
 
@@ -99,7 +100,7 @@ Liegen dem Senat Erkenntnisse aus Versuchen oder dem Betrieb in anderen Städten
 a) Wenn nein, warum hat sich der Senat bisher nicht mit dieser Thematik auseinandergesetzt?
 b) Wenn ja, wie ist die grundsätzliche Haltung des Senats gegenüber diesen Verkehrsmitteln?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nein. Im Übrigen siehe Antworten zu 1. und zu 2.
 
@@ -111,7 +112,7 @@ Welche Gründe sprechen gegen den Einsatz von strombetriebenen Bussen in Hamburg
 
 Welche Gründe sprechen gegen den Einsatz von strombetriebenen Bussen in Hamburg, die sowohl mit Strom aus Oberleitungen als auch umschaltbar mit Strom aus Batterien betrieben werden können?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antworten zu 1. und zu 2.
 

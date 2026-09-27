@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838", "20/14117"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55297"
@@ -60,7 +61,7 @@ Seit wann ist dem Senat bekannt, dass diese genannten Grundstücke zur Wohnbebau
 
 Seit wann laufen die Planungen für die Bebauung der freien Flächen in Oberbillwerder, Mümmelmannsberg und Öjendorf?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für Oberbillwerder hat es im Zusammenhang mit dem Entwicklungsraum Billwerder- Allermöhe bereits seit den Siebzigerjahren planerische Überlegungen gegeben. Diese wurden Mitte der Neunzigerjahre für die Fläche nördlich des S-Bahn-Haltepunktes Allermöhe überarbeitet und haben zur heutigen Darstellung im Flächennutzungsplan geführt. Die Senatskommission für Stadtentwicklung und Wohnungsbau hat am
 28. September 2016 beschlossen, dass die IBA Hamburg GmbH mit der weiteren planerischen Entwicklung des Gebietes beauftragt wird.

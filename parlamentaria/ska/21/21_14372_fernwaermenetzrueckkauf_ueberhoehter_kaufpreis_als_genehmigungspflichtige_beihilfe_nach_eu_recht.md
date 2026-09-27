@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 9
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63786"
@@ -49,7 +50,7 @@ Wurde die Frage der beihilferechtlichen Zulässigkeit durch den Senat beziehungs
 
 Ist das Ergebnis der Prüfung eindeutig? Wenn ja, wie fällt es aus? Wenn nein, welche Unsicherheiten bestehen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Frage der beihilferechtlichen Zulässigkeit der Ausübung der Call-Option Fernwärme ist Gegenstand von noch laufenden, teilweise mit externem Sachverstand unterstützten Untersuchungen durch die beteiligten Behörden, die noch nicht abgeschlossen sind.
 

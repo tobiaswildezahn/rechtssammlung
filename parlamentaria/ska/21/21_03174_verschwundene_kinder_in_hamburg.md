@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51515"
@@ -45,7 +46,7 @@ Von wie vielen unbegleiteten minderjährigen Flüchtlingen in der Obhut der Frei
 
 Wie viele Vermisstenanzeigen wurden durch die zuständige Behörde seit 2010 gestellt? (Bitte jahresweise und nach Ergebnis aufschlüsseln.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In Hamburg treffen zahlreiche ältere (16 – 18 Jahre) Jugendliche ein, die als unbegleitete minderjährige Flüchtlinge (UMF) in Obhut genommen werden. Für viele von ihnen ist Hamburg nicht das Fluchtziel, sondern eine Zwischenstation. Jugendliche, die aus diesem oder einem anderen Grund aus Hamburg wieder abreisen wollen, teilen dies dem Fachdienst Flüchtlinge oder der Einrichtung, in der sie leben, in der Regel nicht mit. Die Inobhutnahme eines Minderjährigen ist im Übrigen ein Verwaltungsakt, der nicht mit Freiheitsentzug verbunden ist. Insofern können die Minderjährigen die Einrichtung, in der sie untergebracht sind, jederzeit verlassen und sie unterliegen zumeist auch keiner Residenzpflicht, weil vielfach für die Dauer der Minderjährigkeit keine Asylanträge gestellt werden.
 
@@ -73,11 +74,11 @@ Welche Maßnahmen werden ergriffen, um diese vermissten unbegleiteten minderjäh
 
 Bei der Polizei ist die Bearbeitung von Vermisstenfällen bundesweit einheitlich geregelt. Minderjährige gelten als vermisst, wenn sie ihren gewohnten Lebenskreis verlassen haben und ihr Aufenthalt unbekannt ist. Die konkreten Maßnahmen werden, ausgerichtet am jeweiligen Einzelfall, entschieden. Dabei wird die Gesamtsituation einbezogen. Für unbegleitete minderjährige Flüchtlinge gibt es daher keine spezielle Regelung. Die Polizei trifft insbesondere folgende Maßnahmen:
 
- Durchführung erster Suchmaßnahmen, wenn anzunehmen ist, dass die Suche zum Auffinden der Person führen kann,
+– Durchführung erster Suchmaßnahmen, wenn anzunehmen ist, dass die Suche zum Auffinden der Person führen kann,
 
- Nachfrage bei der Feuerwehr, ob die als vermisst gemeldete Person durch die Feuerwehr oder im Auftrag der Feuerwehr transportiert wurde und
+– Nachfrage bei der Feuerwehr, ob die als vermisst gemeldete Person durch die Feuerwehr oder im Auftrag der Feuerwehr transportiert wurde und
 
- Durchführung von Recherchen in den polizeilichen Auskunftssystemen, ob die als vermisst gemeldete Person anderweitig gesucht wird oder ihr die Freiheit entzogen ist.
+– Durchführung von Recherchen in den polizeilichen Auskunftssystemen, ob die als vermisst gemeldete Person anderweitig gesucht wird oder ihr die Freiheit entzogen ist.
 
 Die/der Anzeigende wird darüber hinaus zur Ermittlung des Verbleibs der vermissten Person und zur Feststellung der Ursachen sowie den Umständen des Verschwindens von der Polizei aufgefordert, bei Angehörigen, Freunden, Bekannten, sonstigen Bezugs- und letzten Kontaktpersonen der vermissten Person Anhaltspunkte über mögliche Aufenthaltsorte zu erfragen.
 

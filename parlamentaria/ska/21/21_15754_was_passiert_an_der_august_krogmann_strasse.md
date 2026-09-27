@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15095"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65257"
@@ -52,7 +53,7 @@ Stimmt es, dass es Pläne zum Abriss des Berufsförderungswerks gibt? Wenn ja, w
 
 Was ist auf dem Gelände geplant?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Gelände am heutigen Marie-Bautz-Weg 11 – 16 befindet sich im Eigentum der BFW Berufsförderungswerk Hamburg GmbH. Aufgrund eines nachhaltigen Rückgangs der Nachfrage nach Maßnahmen der beruflichen Rehabilitation hat das Unternehmen entschieden, die nicht mehr betriebsnotwendigen Flächen in den Häusern Marie-Bautz-Weg 11, 13, 15 und 15a zu veräußern, um die Sanierung aus dem Jahr 2012 abzuschließen. Es ist geplant, das Unternehmen am Marie-Bautz-Weg 16 fortzuführen.
 
@@ -66,29 +67,29 @@ Wer nutzt den Hamburg-Saal?
 
 Wie ist die Auslastung des Hamburg-Saals?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die BFW Berufsförderungswerk Hamburg GmbH hat den Hamburg-Saal für interne Veranstaltungen an 35 Tagen im Jahr 2018 genutzt.
 
 Für externe Veranstaltungen wurde der Hamburg-Saal an 26 Tagen im Jahr 2018 genutzt. Externe Nutzer in 2018 waren:
 
- Bürgerverein
+– Bürgerverein
 
- Jobcenter team.arbeit.hamburg
+– Jobcenter team.arbeit.hamburg
 
- SOVD Landesverband Hamburg
+– SOVD Landesverband Hamburg
 
- Handelskammer Hamburg
+– Handelskammer Hamburg
 
- CDU Kreisverband Wandsbek
+– CDU Kreisverband Wandsbek
 
- DIE LINKE Wandsbek
+– DIE LINKE Wandsbek
 
- Verein Freunde des Lotsenschoners No5 Elbe
+– Verein Freunde des Lotsenschoners No5 Elbe
 
- Gerstel KG Immobilienverwaltung
+– Gerstel KG Immobilienverwaltung
 
- August Hermann Francke Schule
+– August Hermann Francke Schule
 
 Der Hamburg-Saal wurde somit an 61 Tagen in 2018 genutzt. Bezogen auf 365 Kalendertage ergibt dies eine Auslastung von 16,7 Prozent.
 
@@ -124,41 +125,41 @@ Wie hoch sind die jährlichen Unterhaltskosten für das Schwimmbad?
 
 Das Schwimmbad wurde in 2018 von folgenden externen Institutionen genutzt:
 
- Alsterarbeit Hamburg gGmbH,  
- Altrahlstedter Männerturnverein Hamburg v. 1893 e.V.,  
-  
- Arbeiter-Wassersport-Verein,  
- August-Hermann-Francke Schule Hamburg,  
- AWO Landesverband Hamburg e.V.,  
- Behinderten-Sportverband Hamburg e.V.,  
- BHH Sozialkontor gGmbH,  
- Bürgerverein Farmsen-Berne e.V.,  
- Christophorus Schule Hamburg,  
- Deutsche Rheuma-Liga Hamburg e.V.,  
- DLRG Ortsgruppe Hamburg Nord-Ost,  
- Deutscher Verband für Gesundheitssport und Sporttherapie e.V.,  
- Elbe Werkstätten GmbH,  
- Farmsener Turnverein v. 1926 e.V.,  
-  
-  
- Freundeskreis Seniorenhilfe Berne e.V.,  
-  
- Herz InForm gGmbH,  
-  
- Katholische Schule Farmsen,  
- Kinderschwimmschule Schlemminger,  
- Maria Pfeifer Schwimmschule,  
- Rudolf-Steiner-Schule Hamburg Wandsbek,  
- Sport Club Urania e.V. von 1931,  
- Schule Paracelsusstraße,  
- Schwimmschule Duck Hamburg,
+– Alsterarbeit Hamburg gGmbH,  
+– Altrahlstedter Männerturnverein Hamburg v. 1893 e.V.,  
+–  
+– Arbeiter-Wassersport-Verein,  
+– August-Hermann-Francke Schule Hamburg,  
+– AWO Landesverband Hamburg e.V.,  
+– Behinderten-Sportverband Hamburg e.V.,  
+– BHH Sozialkontor gGmbH,  
+– Bürgerverein Farmsen-Berne e.V.,  
+– Christophorus Schule Hamburg,  
+– Deutsche Rheuma-Liga Hamburg e.V.,  
+– DLRG Ortsgruppe Hamburg Nord-Ost,  
+– Deutscher Verband für Gesundheitssport und Sporttherapie e.V.,  
+– Elbe Werkstätten GmbH,  
+– Farmsener Turnverein v. 1926 e.V.,  
+–  
+–  
+– Freundeskreis Seniorenhilfe Berne e.V.,  
+–  
+– Herz InForm gGmbH,  
+–  
+– Katholische Schule Farmsen,  
+– Kinderschwimmschule Schlemminger,  
+– Maria Pfeifer Schwimmschule,  
+– Rudolf-Steiner-Schule Hamburg Wandsbek,  
+– Sport Club Urania e.V. von 1931,  
+– Schule Paracelsusstraße,  
+– Schwimmschule Duck Hamburg,
 
- Schwimmschule für Zwerge,  
- Schwimmschule Neptun,  
- Schwimmschule Paddelchen,  
- Hamburger VolkshochschuleRegion Ost,  
- Walddörfer Sportverein Hamburg,  
- und einzelne Personen.
+– Schwimmschule für Zwerge,  
+– Schwimmschule Neptun,  
+– Schwimmschule Paddelchen,  
+– Hamburger VolkshochschuleRegion Ost,  
+– Walddörfer Sportverein Hamburg,  
+– und einzelne Personen.
 
 Im Übrigen siehe Vorbemerkung.
 

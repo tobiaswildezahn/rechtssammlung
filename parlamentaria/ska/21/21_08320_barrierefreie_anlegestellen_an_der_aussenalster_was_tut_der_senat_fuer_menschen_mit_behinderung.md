@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6572", "21/7489"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57037"
@@ -87,6 +88,6 @@ Wie hoch sind die Kosten jeweils, um die unter 1. genannten, noch nicht barriere
 
 Was plant der Senat beziehungsweise die zuständige Behörde konkret, um die Barrierefreiheit der Alsteranleger in dieser Wahlperiode zu erhöhen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.

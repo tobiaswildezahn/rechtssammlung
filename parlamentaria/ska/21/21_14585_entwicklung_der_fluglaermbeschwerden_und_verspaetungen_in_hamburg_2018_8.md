@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 15
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14288", "21/14477", "21/13751"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64019"
@@ -53,17 +54,17 @@ Wie viele Beschwerden gegen Fluglärm sind bei den zuständigen Fachbehörden un
 
 #### Antwort zu Frage 1
 
- elektronisch mit dem Online-Formular von Hamburg-Service,
+– elektronisch mit dem Online-Formular von Hamburg-Service,
 
- per E-Mail/Telefax,
+– per E-Mail/Telefax,
 
- postalisch,
+– postalisch,
 
- telefonisch,
+– telefonisch,
 
- persönlich,
+– persönlich,
 
- sonstige.
+– sonstige.
 
 2018  
 September  
@@ -80,17 +81,17 @@ Wie viele sogenannte anonyme Beschwerden gegen Fluglärm sind bei den zuständig
 
 #### Antwort zu Frage 2
 
- elektronisch mit dem Online-Formular von Hamburg-Service,
+– elektronisch mit dem Online-Formular von Hamburg-Service,
 
- per E-Mail/Telefax,
+– per E-Mail/Telefax,
 
- postalisch,
+– postalisch,
 
- telefonisch,
+– telefonisch,
 
- persönlich,
+– persönlich,
 
- sonstige.
+– sonstige.
 
 2018  
 September  
@@ -112,7 +113,7 @@ Wie definiert der Senat einen „anonymen Beschwerdeführer“ und wie wird dies
 
 Wie ermittelt der Senat die Anzahl an sogenannten anonymen Beschwerdeführern und wie geht diese Zahl in die Statistik der Beschwerdeführer insgesamt ein?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 In der Beschwerdestatistik werden keine anonymen Beschwerdeführer erfasst.
 
@@ -227,7 +228,7 @@ Wie viele An- und Abflüge gab es im Monat September 2018 und für das Gesamtjah
 
 Wie viele An- und Abflüge gab es im Monat September 2018 und für das Gesamtjahr 2018 insgesamt am Hamburger Flughafen und wie haben sich diese auf die einzelnen Start- und Landebahnen verteilt?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Starts
 
@@ -268,7 +269,7 @@ Wurde der vorgeschriebene Bahnwechsel (für die Bahn 05/23 Lemsahl- Poppenbütte
 
 Welche Gründe wurden für die Nichtbeachtung der Bahnbenutzungsregel 2.3 im Jahr 2018 angeführt? Bitte Nächteweise angeben.
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Zur Auswahl der Betriebspisten siehe Vorbemerkung.
 
@@ -355,12 +356,12 @@ Wie viele Landungen fanden in den Jahren 1998 – 2017 über die Landebahn RWY23
 
 #### Antwort zu Frage 14
 
- 7 – 22 Uhr,
+– 7 – 22 Uhr,
 
- 22 – 23 Uhr,
+– 22 – 23 Uhr,
 
- 23 – 6 Uhr,
+– 23 – 6 Uhr,
 
- 6 – 7 Uhr.
+– 6 – 7 Uhr.
 
 Siehe Anlage.

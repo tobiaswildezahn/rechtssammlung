@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52882"
@@ -43,353 +44,353 @@ An den staatlichen Hamburger Hochschulen gibt es folgende konsekutiven Masterstu
 
 Universität Hamburg (UHH):
 
- Afrikanische Sprachen im Kontext
+– Afrikanische Sprachen im Kontext
 
- Arbeit, Wirtschaft, Gesellschaft – Ökonomische und Soziologische Studien
+– Arbeit, Wirtschaft, Gesellschaft – Ökonomische und Soziologische Studien
 
- Archäologie und Kulturgeschichte des Antiken Mittelmeerraums
+– Archäologie und Kulturgeschichte des Antiken Mittelmeerraums
 
- Betriebswirtschaft
+– Betriebswirtschaft
 
- Bewegungs- und Sportwissenschaft
+– Bewegungs- und Sportwissenschaft
 
- Bioinformatik
+– Bioinformatik
 
- Biologie
+– Biologie
 
- British and American Cultures: Texts and Media
+– British and American Cultures: Texts and Media
 
- Buddhist Studies
+– Buddhist Studies
 
- Chemie
+– Chemie
 
- Classical Cultures
+– Classical Cultures
 
- Deutschsprachige Literaturen
+– Deutschsprachige Literaturen
 
- Dokumentation und Analyse afrikanischer Sprachen
+– Dokumentation und Analyse afrikanischer Sprachen
 
- Economics - Dual Degree
+– Economics - Dual Degree
 
- Economics - einjährige/zweijährige Variante
+– Economics - einjährige/zweijährige Variante
 
- Economics - zweijährige Variante
+– Economics - zweijährige Variante
 
- English as a World Language
+– English as a World Language
 
- Erziehungs- und Bildungswissenschaft
+– Erziehungs- und Bildungswissenschaft
 
- Ethiopian Studies
+– Ethiopian Studies
 
- Ethnologie
+– Ethnologie
 
- European and European Legal Studies
+– European and European Legal Studies
 
- European and International Law
+– European and International Law
 
- European Legal Studies and International Economic Law
+– European Legal Studies and International Economic Law
 
- European Masters Degree in Human Rights and Democratisation
+– European Masters Degree in Human Rights and Democratisation
 
- Gebärdensprachdolmetschen
+– Gebärdensprachdolmetschen
 
- Gebärdensprachen
+– Gebärdensprachen
 
- Geographie: Globale Transformationen und Umweltveränderungen
+– Geographie: Globale Transformationen und Umweltveränderungen
 
- Geophysik
+– Geophysik
 
- Geowissenschaften
+– Geowissenschaften
 
- Germanistische Linguistik
+– Germanistische Linguistik
 
- Geschichte
+– Geschichte
 
- Griechische und Lateinische Philologie
+– Griechische und Lateinische Philologie
 
- Health Economics and Health Care Management
+– Health Economics and Health Care Management
 
- Historische Musikwissenschaft
+– Historische Musikwissenschaft
 
- Human Resource Management - Personalpolitik
+– Human Resource Management - Personalpolitik
 
- Industrial Mathematics
+– Industrial Mathematics
 
- Informatik
+– Informatik
 
- Integrated Climate System Science
+– Integrated Climate System Science
 
- Intelligent Adaptive Systems
+– Intelligent Adaptive Systems
 
- Interdisziplinäre Public und Nonprofit Studies
+– Interdisziplinäre Public und Nonprofit Studies
 
- International Business and Sustainability
+– International Business and Sustainability
 
- Internationale Kriminologie
+– Internationale Kriminologie
 
- Iranistik
+– Iranistik
 
- Islamwissenschaft
+– Islamwissenschaft
 
- IT-Management und -Consulting
+– IT-Management und -Consulting
 
- Japanologie
+– Japanologie
 
- Journalism, Media and Globalisation
+– Journalism, Media and Globalisation
 
- Journalistik und Kommunikationswissenschaft
+– Journalistik und Kommunikationswissenschaft
 
- Jüdische Philosophie und Religion
+– Jüdische Philosophie und Religion
 
- Koreanistik
+– Koreanistik
 
- Kosmetikwissenschaft
+– Kosmetikwissenschaft
 
- Kunstgeschichte
+– Kunstgeschichte
 
- Languages and Cultures of Southeast Asia
+– Languages and Cultures of Southeast Asia
 
- Lateinamerika-Studien
+– Lateinamerika-Studien
 
- Law and Economics of the Arab Region
+– Law and Economics of the Arab Region
 
- Linguistik/Allgemeine Sprachwissenschaft
+– Linguistik/Allgemeine Sprachwissenschaft
 
- Literatur, Sprache und Kultur des Modernen Griechenlands (Neogräzistik)
+– Literatur, Sprache und Kultur des Modernen Griechenlands (Neogräzistik)
 
- Magister Legum
+– Magister Legum
 
- Marine Ökosystem- und Fischereiwissenschaft
+– Marine Ökosystem- und Fischereiwissenschaft
 
- Mathematical Modelling in Engineering: Theory, Numerics, Applications
+– Mathematical Modelling in Engineering: Theory, Numerics, Applications
 
- Mathematical Physics
+– Mathematical Physics
 
- Mathematics
+– Mathematics
 
- Medienwissenschaft/Media Studies
+– Medienwissenschaft/Media Studies
 
- Mehrsprachigkeit und Bildung
+– Mehrsprachigkeit und Bildung
 
- Meteorologie
+– Meteorologie
 
- Mittelalter-Studien
+– Mittelalter-Studien
 
- Molecular Life Sciences
+– Molecular Life Sciences
 
- Molecular Plant Science
+– Molecular Plant Science
 
- Nanowissenschaften
+– Nanowissenschaften
 
- Peace and Security Studies
+– Peace and Security Studies
 
- Performance Studies
+– Performance Studies
 
- Philosophie
+– Philosophie
 
- Physik
+– Physik
 
- Physikalische Ozeanographie
+– Physikalische Ozeanographie
 
- Polar and Marine Sciences
+– Polar and Marine Sciences
 
- Politics, Economics and Philosophy
+– Politics, Economics and Philosophy
 
- Politikwissenschaft
+– Politikwissenschaft
 
- Psychologie
+– Psychologie
 
- Religionen, Dialog und Bildung
+– Religionen, Dialog und Bildung
 
- Romanische Literaturen
+– Romanische Literaturen
 
- Romanistische Linguistik
+– Romanistische Linguistik
 
- Sinologie
+– Sinologie
 
- Slavistik
+– Slavistik
 
- South Asian Studies
+– South Asian Studies
 
- Soziologie
+– Soziologie
 
- Systematische Musikwissenschaft
+– Systematische Musikwissenschaft
 
- Technomathematik
+– Technomathematik
 
- Tibetan Studies
+– Tibetan Studies
 
- Turkologie
+– Turkologie
 
- Uralische Sprachen und Kulturen
+– Uralische Sprachen und Kulturen
 
- Volkskunde/Kulturanthropologie
+– Volkskunde/Kulturanthropologie
 
- Vor- und Frühgeschichtliche Archäologie
+– Vor- und Frühgeschichtliche Archäologie
 
- Wirtschaftsinformatik
+– Wirtschaftsinformatik
 
- Wirtschaftsingenieurwesen
+– Wirtschaftsingenieurwesen
 
- Wirtschaftsmathematik
+– Wirtschaftsmathematik
 
- Lehramt der Primarstufe und Sekundarstufe I
+– Lehramt der Primarstufe und Sekundarstufe I
 
- Lehramt an Beruflichen Schulen
+– Lehramt an Beruflichen Schulen
 
- Lehramt an Gymnasien
+– Lehramt an Gymnasien
 
- Lehramt für Sonderpädagogik
+– Lehramt für Sonderpädagogik
 
 Hochschule für Angewandte Wissenschaften Hamburg (HAW):
 
- Automatisierung
+– Automatisierung
 
- Berechnung und Simulation im Maschinenbau
+– Berechnung und Simulation im Maschinenbau
 
- Design (Teilstudiengänge Illustration, Kommunikationsdesign sowie Modedesign
+– Design (Teilstudiengänge Illustration, Kommunikationsdesign sowie Modedesign
 
 Kostümdesign Textildesign)
 
- Fahrzeugbau
+– Fahrzeugbau
 
- Flugzeugbau
+– Flugzeugbau
 
- Food Science
+– Food Science
 
- Health Sciences
+– Health Sciences
 
- Informatik
+– Informatik
 
- Informations- und Kommunikationstechnik
+– Informations- und Kommunikationstechnik
 
- Information, Medien, Bibliothek
+– Information, Medien, Bibliothek
 
- International Business
+– International Business
 
- International Logistics and Management
+– International Logistics and Management
 
- Marketing und Vertrieb
+– Marketing und Vertrieb
 
- Medizintechnik / Biomedical Engineering
+– Medizintechnik / Biomedical Engineering
 
- Mikroelektronische Systeme
+– Mikroelektronische Systeme
 
- Multichannel Trade Management in textile Business
+– Multichannel Trade Management in textile Business
 
- Nachhaltige Energiesysteme im Maschinenbau
+– Nachhaltige Energiesysteme im Maschinenbau
 
- Pharmaceutical Biotechnology
+– Pharmaceutical Biotechnology
 
- "Produktionstechnik und -management "
+– "Produktionstechnik und -management "
 
- Renewable Energy Systems
+– Renewable Energy Systems
 
- Soziale Arbeit
+– Soziale Arbeit
 
 HafenCity Universität (HCU):
 
- Architektur
+– Architektur
 
- Bauingenieurwesen
+– Bauingenieurwesen
 
- Geomatik
+– Geomatik
 
- REAP
+– REAP
 
- Stadtplanung
+– Stadtplanung
 
- Urban Design
+– Urban Design
 
 Hochschule für bildende Künste (HFBK):
 
- Bildende Künste
+– Bildende Künste
 
 Hochschule für Musik und Theater (HfMT):
 
- Instrumentalmusik
+– Instrumentalmusik
 
- Dirigieren
+– Dirigieren
 
- Kammermusik
+– Kammermusik
 
- Claviorganum
+– Claviorganum
 
- Kirchenmusik
+– Kirchenmusik
 
- Musiktheorie
+– Musiktheorie
 
- Komposition
+– Komposition
 
- Jazzkomposition
+– Jazzkomposition
 
- Jazz Master
+– Jazz Master
 
- Multimediale Komposition
+– Multimediale Komposition
 
- Contemporary Performance and Composition
+– Contemporary Performance and Composition
 
- Chorleitung
+– Chorleitung
 
- Gesang
+– Gesang
 
- Liedgestaltung
+– Liedgestaltung
 
- Oper
+– Oper
 
- Dramaturgie
+– Dramaturgie
 
- Kultur- und Medienmanagement
+– Kultur- und Medienmanagement
 
 Technische Universität Hamburg-Harburg (TUHH):
 
- Bauingenieurwesen
+– Bauingenieurwesen
 
- Wasser- u. Umweltingenieurwesen
+– Wasser- u. Umweltingenieurwesen
 
- Computer Science
+– Computer Science
 
- Informatik-Ingenieurwesen
+– Informatik-Ingenieurwesen
 
- Elektrotechnik
+– Elektrotechnik
 
- Theoretischer Maschinenbau
+– Theoretischer Maschinenbau
 
- Energietechnik
+– Energietechnik
 
- Flugzeug-Systemtechnik
+– Flugzeug-Systemtechnik
 
- Mediziningenieurwesen
+– Mediziningenieurwesen
 
- Produktentwicklung, Werkstoffe u. Produktion
+– Produktentwicklung, Werkstoffe u. Produktion
 
- Materialwissenschaft
+– Materialwissenschaft
 
- Schiffbau- und Meerestechnik
+– Schiffbau- und Meerestechnik
 
- Verfahrenstechnik
+– Verfahrenstechnik
 
- Bioverfahrenstechnik
+– Bioverfahrenstechnik
 
- Energie- und Umwelttechnik
+– Energie- und Umwelttechnik
 
- Regenerative Energien
+– Regenerative Energien
 
- Logistik, Infrastruktur u. Mobilität
+– Logistik, Infrastruktur u. Mobilität
 
- Intern. Wirtschaftsingenieurwesen
+– Intern. Wirtschaftsingenieurwesen
 
- Chemical & Bioprocess Engineering
+– Chemical & Bioprocess Engineering
 
- Environmental Engineering
+– Environmental Engineering
 
- Information and Communication Systems
+– Information and Communication Systems
 
- Microelectronics and –systems
+– Microelectronics and –systems
 
- Mechanical Engineering Management
+– Mechanical Engineering Management
 
- Mechatronics
+– Mechatronics
 
 ### Frage 2
 
@@ -399,7 +400,7 @@ Bei welchen dieser Programme gibt es obligatorische Mindestnoten?
 
 Bei welchen dieser Programme gibt es die Möglichkeit, mit schlechteren Noten über eine gewisse Wartezeit dennoch berücksichtigt zu werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 UHH:
 

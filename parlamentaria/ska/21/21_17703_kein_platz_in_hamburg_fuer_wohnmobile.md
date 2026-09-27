@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67300"
@@ -53,7 +54,7 @@ Wie viele Stellplätze für Wohnmobile oder Wohnwagen gibt es derzeit im Hamburg
 
 Wo sind diese angesiedelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Hamburger Stadtgebiet gibt es derzeit 12 privat betriebene Wohnmobilplätze. Darüber hinaus gibt es einen öffentlich betriebenen Platz in Altona.
 

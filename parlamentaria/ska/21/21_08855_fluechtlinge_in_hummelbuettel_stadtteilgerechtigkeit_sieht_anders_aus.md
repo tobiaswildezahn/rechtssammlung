@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 19
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8557", "21/5765", "21/7486", "21/5231"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57594"
@@ -87,13 +88,13 @@ Wie viele Gebäude mit jeweils wie vielen Wohnungen mit jeweils wie vielen Quadr
 
 Es sind insgesamt vier Gebäude vorgesehen:
 
- Baukörper 1: 48 Wohnungen mit circa 3.150m² Wohnfläche
+– Baukörper 1: 48 Wohnungen mit circa 3.150m² Wohnfläche
 
- Baukörper 2: 43 Wohnungen mit circa 3.150m² Wohnfläche
+– Baukörper 2: 43 Wohnungen mit circa 3.150m² Wohnfläche
 
- Baukörper 3: 48 Wohnungen mit circa 3.150m² Wohnfläche
+– Baukörper 3: 48 Wohnungen mit circa 3.150m² Wohnfläche
 
- Baukörper 4: 43 Wohnungen mit circa 3.150m² Wohnfläche
+– Baukörper 4: 43 Wohnungen mit circa 3.150m² Wohnfläche
 
 Gemäß Mietvertrag sollen die Wohnungen durch f & w fördern und wohnen AöR eigenständig im Rahmen der öffentlich-rechtlichen Unterbringung mit durchschnittlich bis zu vier Personen belegt werden.
 

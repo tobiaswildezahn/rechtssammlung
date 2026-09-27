@@ -14,6 +14,7 @@ fragen: 26
 einzelfragen: 29
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15870", "21/15970"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65523"
@@ -112,7 +113,7 @@ Wie viele Schüler/-innen wurden für wie lange jeweils am Ausweichstandort unte
 
 Wie viele Schüler/-innen und welche Klassenstufen des Emilie-Wüstenfeld-Gymnasiums sollen am Standort untergebracht werden?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Vorbemerkung und Drs. 21/15970.
 
@@ -210,7 +211,7 @@ Ist eine Umstellung des Busfahrplans geplant, um eine reibungslose Verbindung mi
 
 Ist eine Zuzahlung zur HVV Monatskarte geplant, um die von den stark gestiegenen Mietpreisen betroffenen Familien im Einzugsgebiet nicht weiter zu belasten?
 
-#### Antwort zu Fragen 24 bis 25
+#### Antwort zu Fragen 24 und 25
 
 Nein.
 

@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 24
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64389"
@@ -169,7 +170,7 @@ Im erweiterten polizeilichen Führungszeugnis werden ja auch kleinere Delikte au
 
 Welche Delikte gelten als unüberwindbarer Hinderungsgrund für eine Betätigung in der ehrenamtlichen Arbeit bei f & w?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Zur Beurteilung der Einträge im Führungszeugnis werden diese im Zweifel auch mit den angestrebten Tätigkeitsbereichen der Ehrenamtlichen in den Unterkünften abgewogen. Dabei handelt es sich immer um Einzelfallentscheidungen, sodass Nennungen von allgemeingültigen Kriterien nicht möglich sind.
 

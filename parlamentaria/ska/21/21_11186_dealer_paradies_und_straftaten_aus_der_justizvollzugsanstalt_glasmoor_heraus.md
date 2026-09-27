@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 23
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/276", "21/358", "21/5544", "21/7245", "21/10391"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60162"
@@ -121,17 +122,17 @@ Die Gewährung von Ausgängen gemäß § 12 Absatz 1 Satz 1 Nummer 3 HmbSt- Voll
 
 Die folgenden Maßnahmen werden im Fall einer verspäteten Rückkehr ergriffen:
 
- Versuch, den Gefangenen telefonisch zu erreichen
+– Versuch, den Gefangenen telefonisch zu erreichen
 
- Gespräch mit dem Gefangenen bei erstmaliger oder geringer Verspätung
+– Gespräch mit dem Gefangenen bei erstmaliger oder geringer Verspätung
 
- Disziplinarmaßnahmen bei wiederholter oder erheblicher Verspätung
+– Disziplinarmaßnahmen bei wiederholter oder erheblicher Verspätung
 
- Rückverlegung in den geschlossenen Vollzug bei wiederholter Verspätung trotz
+– Rückverlegung in den geschlossenen Vollzug bei wiederholter Verspätung trotz
 
 Disziplinarmaßnahmen
 
- Einleitung der polizeilichen Fahndung bei Verspätung über drei Stunden ohne Mel-
+– Einleitung der polizeilichen Fahndung bei Verspätung über drei Stunden ohne Mel-
 
 dung des Gefangenen
 

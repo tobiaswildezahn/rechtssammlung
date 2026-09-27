@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 30
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61013"
@@ -176,6 +177,6 @@ Hat die Türkei einen Auslieferungsantrag gestellt? Falls ja, wann und wie ist d
 
 Welche Gründe haben womöglich zu einer Ablehnung des türkischen Ersuchens geführt?
 
-#### Antwort zu Fragen 22 bis 23
+#### Antwort zu Fragen 22 und 23
 
 Zu einem Auslieferungsantrag liegen keine Erkenntnisse vor.

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 3
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61195"
@@ -65,75 +66,75 @@ Welche Maßnahmen wurden seitens der Behörden und des AK St. Georg ergriffen, u
 
 Nach Auskunft des zuständigen Bezirksamtes wurden folgende Maßnahmen ergriffen:
 
- Einberufung eines Ausbruchmanagement-Teams in der AK St Georg zur Analyse
+– Einberufung eines Ausbruchmanagement-Teams in der AK St Georg zur Analyse
 
 der Situation und Festlegung erforderlicher Erstmaßnahmen
 
- Information des Stationspersonals, des Leitungspersonals der AK St. Georg, des
+– Information des Stationspersonals, des Leitungspersonals der AK St. Georg, des
 
 Personals der Funktionsdienste wie zum Beispiel Reinigungsdienst, Physiotherapie, Transportdienst über das hygienerelevante Ereignis und Beratung/Schulung zu erforderlichen Hygienemaßnahmen durch das Hygienefachpersonal (Krankenhaushygienikerin, Hygienefachkräfte, Hygienebeauftragter Arzt). Durch strikte Einhaltung der Basishygienemaßnahmen und der VRE-spezifischen Hygienemaßnahmen gemäß dem aktuellen VRE-Hygieneplan (unter besonderer Berücksichtigung der Händehygiene) soll verhindert werden, dass sich Vancomycin-resistente Enterokokken auf der Station weiter verbreiten oder durch Personalbewegung auf andere Stationen gelangen.
 
- Erhöhung der Frequenz der routinemäßigen desinfizierenden Reinigung zur Ver-
+– Erhöhung der Frequenz der routinemäßigen desinfizierenden Reinigung zur Ver-
 
 hinderung der Verbreitung von VRE über potenziell kontaminierte Flächen auf drei Mal täglich
 
- Kontaktisolierung (Einzelzimmerisolierung, Kohortenisolierung, Bettplatzisolierung)
+– Kontaktisolierung (Einzelzimmerisolierung, Kohortenisolierung, Bettplatzisolierung)
 
 des mit VRE infizierten und der mit VRE kolonisierten Patienten zur Vermeidung der Übertragung von VRE auf andere Patienten
 
- Barrierepflege (unter anderem patientenbezogene Kittel- und Handschuhpflege)
+– Barrierepflege (unter anderem patientenbezogene Kittel- und Handschuhpflege)
 
 aller nicht betroffenen Patienten auf der Intensivstation zur Verhinderung der Ausbreitung von VRE
 
- Kontroll-Screening bei bisher unauffälligen Kontaktpatienten anfänglich einmal pro
+– Kontroll-Screening bei bisher unauffälligen Kontaktpatienten anfänglich einmal pro
 
 Woche, später zweimal pro Woche, um eine eventuelle Übertragung von VRE rechtzeitig zu erkennen und entsprechende Hygienemaßnahmen/Isolierungsmaßnahmen einzuleiten
 
- Eingangsscreening auf VRE bei jeder Neuaufnahme auf der Intensivstation, um
+– Eingangsscreening auf VRE bei jeder Neuaufnahme auf der Intensivstation, um
 
 Patienten mit VRE-Kolonisation frühzeitig zu erkennen und entsprechende Maßnahmen einzuleiten
 
- Mikrobiologische Untersuchungen zur Qualitätskontrolle der Bettenaufbereitung
+– Mikrobiologische Untersuchungen zur Qualitätskontrolle der Bettenaufbereitung
 
 nach Verlegung, Entlassung und Aufbereitung, um die Weiterverbreitung von VRE über Patientenbetten zu vermeiden
 
- Mikrobiologische Umgebungsuntersuchungen von patientennahen Kontaktflächen,
+– Mikrobiologische Umgebungsuntersuchungen von patientennahen Kontaktflächen,
 
 Verband- und Visitenwagen zur Qualitätskontrolle der desinfizierenden Reinigung, um die Weiterverbreitung über das unbelebte Umfeld zu vermeiden
 
- Erhöhung des Personalschlüssels, damit die zusätzlichen personalintensiven
+– Erhöhung des Personalschlüssels, damit die zusätzlichen personalintensiven
 
 Hygienemaßnahmen eingehalten werden können
 
- Tägliche Kurzbesprechung mit den beratenden Mikrobiologen zur zeitnahen
+– Tägliche Kurzbesprechung mit den beratenden Mikrobiologen zur zeitnahen
 
 Übermittlung und gegebenenfalls Interpretation der mikrobiologischen Befunde
 
- Tägliche Erfassung und Dokumentation der betroffenen Patienten durch das Hygi-
+– Tägliche Erfassung und Dokumentation der betroffenen Patienten durch das Hygi-
 
 eneteam (Anzahl Patienten kolonisiert/infiziert) zur Surveillance der Entwicklung des Ereignisses
 
- Regelmäßige Konferenz des Ausbruchmanagement-Teams zur Überprüfung und
+– Regelmäßige Konferenz des Ausbruchmanagement-Teams zur Überprüfung und
 
 Bewertung, ob die Interventionsmaßnahmen zielführend sind. Regelmäßige Besprechung/schriftliche Berichterstattung beziehungsweise Absprache mit dem zuständigen Gesundheitsamt
 
- Sperrung der Station für elektive Eingriffe bis zum 12.02.2018 gemäß Risikoabwä-
+– Sperrung der Station für elektive Eingriffe bis zum 12.02.2018 gemäß Risikoabwä-
 
 gung, um Infektionen mit VRE im Rahmen von invasiven Eingriffen zu verhindern.
 
- Teilung der Station in zwei Bereiche, getrennt durch eine Glastür. Notfallbereich für
+– Teilung der Station in zwei Bereiche, getrennt durch eine Glastür. Notfallbereich für
 
 beatmungspflichtige Notfälle und Reanimationen vor der Glastür, Risikobereich zur Kohortenpflege besiedelter VRE-Patienten hinter der Glastür im Flur. Ebenfalls Trennung der Zuständigkeit des Pflegepersonals für besiedelte und nicht besiedelte Patienten, soweit möglich
 
- Temporäre Umlenkung der Hausnotfälle auf eine andere Intensivstation des Kran-
+– Temporäre Umlenkung der Hausnotfälle auf eine andere Intensivstation des Kran-
 
 kenhauses zur Reduktion der Patientenbewegungen auf der betroffenen Intensivstation
 
- Temporäre Abmeldung der internistischen Bettenplätze über die Zentrale Notauf-
+– Temporäre Abmeldung der internistischen Bettenplätze über die Zentrale Notauf-
 
 nahme je nach Lagebesprechung/Bettenplan und Risikoabwägung
 
- Versendung der VRE-Stämme der betroffenen Patienten zur Genotypisierung an
+– Versendung der VRE-Stämme der betroffenen Patienten zur Genotypisierung an
 
 das Referenzzentrum, um festzustellen, ob alle oder gegebenenfalls wie viele der betroffenen Patienten in einem epidemischen Zusammenhang stehen
 

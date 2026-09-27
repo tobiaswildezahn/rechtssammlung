@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 22
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65304"
@@ -109,7 +110,7 @@ Warum wurde der Plan aufgegeben, die HIAS unter dem Dach der Akademie der Wissen
 
 Inwieweit ist ein Verein dazu besser geeignet?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Die Gründung des Wissenschaftskollegs in kooperativer Trägerschaft eines Vereins folgt unter anderem den Empfehlungen des Wissenschaftsrats, mehr Kooperation und mehr Vernetzung innerhalb der Hamburger Wissenschaft zu organisieren.
 

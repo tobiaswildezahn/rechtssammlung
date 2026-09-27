@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7858", "21/8005", "21/10204", "21/7876"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59839"
@@ -83,7 +84,7 @@ Aus welchen Ländern stammen sie jeweils? Bitte die zehn Hauptherkunftsländer a
 
 Wie viele davon sind Kinder, erwachsene Frauen, erwachsene Männer?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Darstellung für die zehn Hauptherkunftsländer seit der Beantwortung der Drs. 21/10204 ist der folgenden Übersicht zu entnehmen:
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11112"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49143"
@@ -117,11 +118,11 @@ Welchen Umfang haben die Untersuchungen gemäß § 62 AsylVfG gegenwärtig in Ha
 
 Die Eingangsuntersuchung wird in der Zentralen Erstaufnahmeeinrichtung in der Harburger Poststraße von einem beauftragten Arzt vorgenommen und beinhaltet
 
- das Erfragen des Impfstatus,
+– das Erfragen des Impfstatus,
 
- eine Blutabnahme,
+– eine Blutabnahme,
 
- Fragen nach Allergien, bestehender Schwangerschaft und (chronischen) Krankhei-
+– Fragen nach Allergien, bestehender Schwangerschaft und (chronischen) Krankhei-
 
 ten.
 

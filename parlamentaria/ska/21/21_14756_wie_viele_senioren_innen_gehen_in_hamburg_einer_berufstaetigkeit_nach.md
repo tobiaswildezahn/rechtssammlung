@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 1
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8927"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64199"
@@ -49,6 +50,6 @@ Wie viele Senioren/-innen jenseits der gesetzlichen Regelaltersgrenze hatten in 
 
 Bitte für die Altersspanne vom Renteneintritt bis 69 Jahre, nach Männern und Frauen getrennt, nach absoluten Zahlen und Prozenten und jeweils insgesamt auflisten. a. Bitte für die Altersspanne von 70 bis 74 Jahren, nach Männern und Frauen getrennt, nach absoluten Zahlen und Prozenten und jeweils insgesamt auflisten. b. Bitte für die Altersspanne von 75 Jahren und älter, nach Männern und Frauen getrennt, nach absoluten Zahlen und Prozenten und jeweils insgesamt auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage. Vonseiten des Statistik-Services der BA ist nur eine Auswertung der Beschäftigtendaten möglich. Der prozentuale Anteil an der jeweiligen Altersgruppe der Bevölkerung wird nicht erhoben.

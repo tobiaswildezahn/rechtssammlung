@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 25
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10884"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61386"
@@ -98,7 +99,7 @@ Wird bei der Nutzung des Grundstücks als Logistikzentrum die seeseitige Hafenan
 
 In welchem prozentuellen Umfang werden die Verkehre über den Seeweg abgewickelt werden?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Das Grundstück ist wasserseitig nicht angebunden. Im Übrigen siehe Drs. 21/10884.
 

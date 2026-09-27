@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 17
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58915"
@@ -79,97 +80,97 @@ In welchen Studiengängen studieren die Stipendiaten gegenwärtig?
 
 2017 werden Stipendiatinnen und Stipendiaten in allen Fakultäten der UHH gefördert, konkret in folgenden Studiengängen:
 
- Angewandte und molekulare Biologie der Pflanzen (Master of Science)
+– Angewandte und molekulare Biologie der Pflanzen (Master of Science)
 
- Arbeit, Wirtschaft und Gesellschaft: Ökonomische und Soziologische Studien
+– Arbeit, Wirtschaft und Gesellschaft: Ökonomische und Soziologische Studien
 
 (Master)
 
- Bachelor Chemie
+– Bachelor Chemie
 
- Betriebswirtschaft
+– Betriebswirtschaft
 
- Betriebswirtschaft (Business Administration, Master of Science)
+– Betriebswirtschaft (Business Administration, Master of Science)
 
- Biologie (Master of Science)
+– Biologie (Master of Science)
 
- British and American Cultures: Texts and Media (Master of Arts)
+– British and American Cultures: Texts and Media (Master of Arts)
 
- Chemie (Bachelor of Science)
+– Chemie (Bachelor of Science)
 
- Computing in Science
+– Computing in Science
 
- Deutsche Sprache und Literatur (Bachelor of Arts)
+– Deutsche Sprache und Literatur (Bachelor of Arts)
 
- Erziehungs- und Bildungswissenschaft (Bachelor of Arts)
+– Erziehungs- und Bildungswissenschaft (Bachelor of Arts)
 
- Erziehungswissenschaft/Lehramt M.Ed. LA an Gymnasien
+– Erziehungswissenschaft/Lehramt M.Ed. LA an Gymnasien
 
- European and European Legal Studies (Master of Arts)
+– European and European Legal Studies (Master of Arts)
 
- Geophysik/Ozeanographie (Bachelor of Science)
+– Geophysik/Ozeanographie (Bachelor of Science)
 
- Geschichte
+– Geschichte
 
- Sprachen und Kulturen des Vorderen Orients (SP Islamwissenschaft,
+– Sprachen und Kulturen des Vorderen Orients (SP Islamwissenschaft,
 
 Bachelor of Arts)
 
- Health Economics and Health Care Management (Master of Science)
+– Health Economics and Health Care Management (Master of Science)
 
- Historische Musikwissenschaft (Master of Arts)
+– Historische Musikwissenschaft (Master of Arts)
 
- Integrated Climate System Sciences (Master of Science)
+– Integrated Climate System Sciences (Master of Science)
 
- Intelligent Adaptive Systems (Master of Science)
+– Intelligent Adaptive Systems (Master of Science)
 
- International Business and Sustainability (Master of Arts)
+– International Business and Sustainability (Master of Arts)
 
- Kommunikations- und Medienwissenschaft
+– Kommunikations- und Medienwissenschaft
 
- Kunstgeschichte (Bachelor of Arts)
+– Kunstgeschichte (Bachelor of Arts)
 
- Marine Ökosystem- und Fischereiwissenschaften
+– Marine Ökosystem- und Fischereiwissenschaften
 
- Maritimes Wirtschaftsrecht
+– Maritimes Wirtschaftsrecht
 
- Medizin (Staatsprüfung)
+– Medizin (Staatsprüfung)
 
- Molecular Life Sciences (Master of Science)
+– Molecular Life Sciences (Master of Science)
 
- Ostasien/Schwerpunkt Sinologie (Bachelor of Arts)
+– Ostasien/Schwerpunkt Sinologie (Bachelor of Arts)
 
- Peace and Security Studies (Master of Arts)
+– Peace and Security Studies (Master of Arts)
 
- Performance Studies (Master of Arts)
+– Performance Studies (Master of Arts)
 
- Pharmazie (Staatsprüfung)
+– Pharmazie (Staatsprüfung)
 
- Physik (Bachelor of Science)
+– Physik (Bachelor of Science)
 
- Physik (Master of Science)
+– Physik (Master of Science)
 
- Physikalische Ozeanographie (Master of Science)
+– Physikalische Ozeanographie (Master of Science)
 
- Psychologie (Bachelor of Science)
+– Psychologie (Bachelor of Science)
 
- Rechtswissenschaften (Staatsexamen)
+– Rechtswissenschaften (Staatsexamen)
 
- Romanische Literaturen (Master of Arts)
+– Romanische Literaturen (Master of Arts)
 
- Sozialökonomie (Bachelor of Arts)
+– Sozialökonomie (Bachelor of Arts)
 
- Soziologie
+– Soziologie
 
- Sprachen und Kulturen Südostasiens (Bachelor of Arts)
+– Sprachen und Kulturen Südostasiens (Bachelor of Arts)
 
- Volkskunde/Kulturanthropologie
+– Volkskunde/Kulturanthropologie
 
- Wirtschaftsinformatik
+– Wirtschaftsinformatik
 
- Wirtschaftsingenieurwesen (Bachelor of Science)
+– Wirtschaftsingenieurwesen (Bachelor of Science)
 
- Zahnmedizin (Staatsprüfung)
+– Zahnmedizin (Staatsprüfung)
 
 ### Frage 6
 
@@ -195,7 +196,7 @@ Wie schätzt der Senat die Quote von Studienabbrechern ein, die ihre akademische
 
 Welche Stipendien werden gegenwärtig noch an der Universität Hamburg gewährt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Studierende, die nicht über ausreichende finanzielle Mittel verfügen, haben die Möglichkeit, beim Vorliegen der gesetzlichen Voraussetzungen, Ausbildungsförderung nach dem Bundesausbildungsförderungsgesetz (BAföG) auf Antrag zu erhalten.
 

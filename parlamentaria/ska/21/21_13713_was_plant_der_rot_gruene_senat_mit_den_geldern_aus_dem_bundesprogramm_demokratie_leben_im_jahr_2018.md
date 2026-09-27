@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13534", "21/7939"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63090"
@@ -49,7 +50,7 @@ In welcher Höhe haben die BASFI, die Bezirke beziehungsweise Träger aus Hambur
 
 Welche Träger erhalten im Jahr 2018 jeweils Zuwendungen in welcher Höhe für jeweils welches Projekt mit welchem Ziel aus dem Bundesprogramm „Demokratie leben!“? Bitte aufschlüsseln, von welcher Hamburger Stelle die Träger die Gelder erhielten und wie hoch die jeweilige Kofinanzierung der ausgebenden Stelle war.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1 zu Programmbereich B: „Förderung von Demokratiezentren zur landesweiten Koordinierung und Vernetzung sowie von Mobiler, Opfer- und Ausstiegsberatung“ einschließlich Modellprojekten verschiedener Programmbereiche und Anlage
 

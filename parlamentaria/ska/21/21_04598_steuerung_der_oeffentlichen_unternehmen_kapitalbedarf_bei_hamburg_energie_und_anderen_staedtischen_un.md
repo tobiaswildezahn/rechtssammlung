@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/838", "21/4472"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53005"
@@ -86,7 +87,7 @@ Enthält der Bestätigungsvermerk des Abschlussprüfers von HAMBURG ENERGIE für
 
 Wurden gegenüber dem Abschlussprüfer weitergehende Ausführungen zu der in diesem Jahr geplanten Kapitalmaßnahme bei HAMBURG ENERGIE gemacht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Nein.
 
@@ -117,10 +118,19 @@ Es wurden im Jahr 2016 keine Sicherungsleistungen für die HAMBURG ENERGIE GmbH 
 ### Frage 11
 
 Mit der Drs. 21/4472 plant der Senat, insgesamt 100 Millionen Euro für Kapitalmaßnehmen bei Sondervermögen, Anstalten öffentlichen Rechts oder öffentlichen Unternehmen zur Verfügung zu stellen.
-11.1. Ist die bei HAMBURG ENERGIE geplante Kapitalmaßnahme ein Bestandteil des Senatsvorhabens aus Drs. 21/4472?
-11.2. Bei welchen einzelnen Sondervermögen, Anstalten öffentlichen Rechts und öffentlichen Unternehmen gibt es nach Auffassung des Senats oder der zuständigen Behörden derzeit einen Kapitalbedarf in jeweils welcher Höhe?
-11.3. Welche einzelnen Planungen gibt es derzeit für die Nutzung der in Drs. 21/4472 vom Senat beantragten Ermächtigung über 100 Millionen Euro für Kapitalmaßnahmen bei Sondervermögen, Anstalten öffentlichen Rechts oder öffentlichen Unternehmen?
 
-#### Antwort zu Frage 11
+### Frage 11.1
+
+Ist die bei HAMBURG ENERGIE geplante Kapitalmaßnahme ein Bestandteil des Senatsvorhabens aus Drs. 21/4472?
+
+### Frage 11.2
+
+Bei welchen einzelnen Sondervermögen, Anstalten öffentlichen Rechts und öffentlichen Unternehmen gibt es nach Auffassung des Senats oder der zuständigen Behörden derzeit einen Kapitalbedarf in jeweils welcher Höhe?
+
+### Frage 11.3
+
+Welche einzelnen Planungen gibt es derzeit für die Nutzung der in Drs. 21/4472 vom Senat beantragten Ermächtigung über 100 Millionen Euro für Kapitalmaßnahmen bei Sondervermögen, Anstalten öffentlichen Rechts oder öffentlichen Unternehmen?
+
+#### Antwort zu Fragen 11, 11.1, 11.2 und 11.3
 
 Die Planungen und Überlegungen hierzu sind noch nicht abgeschlossen.

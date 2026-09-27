@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 9
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51838"
@@ -79,7 +80,7 @@ Wie verteilen sich die Stellenprofile der Zentralen Ausländerbehörde, um über
 
 Welche Stellenprofile in der Zentralen Ausländerbehörde durchlaufen welche Qualifizierungen, um über Asylanträge zu entscheiden? Bitte auflisten nach Neu-, Quereinsteiger sowie bisherigem Stammpersonal.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Über Asylanträge entscheidet das Bundesamt für Migration und Flüchtlinge (§ 5 Absatz 1 Satz 1 Asylgesetz), nicht die Zentrale Ausländerbehörde.
 

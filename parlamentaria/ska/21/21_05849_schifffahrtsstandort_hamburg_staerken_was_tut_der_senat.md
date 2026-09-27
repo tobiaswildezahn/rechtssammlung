@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 19
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/3922", "20/3306", "21/5760"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54346"
@@ -63,7 +64,7 @@ Welche zentralen Akteure des Schifffahrtsstandortes Hamburg werden in welchem Um
 
 Welche weiteren Akteure werden darüber hinaus für den Bereich Schifffahrtsfinanzierung in welchem Umfang wie einbezogen? Finden derzeit Gespräche statt? Wenn ja, hinsichtlich welcher Handlungsoption mit wem? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Es finden Gespräche von Vertreterinnen und Vertretern der zuständigen Behörde mit relevanten Verbänden, Institutionen und Unternehmen aus dem Schifffahrtssektor statt, die der Prüfung und Bewertung der vorgeschlagenen Maßnahmen dienen.
 
@@ -83,7 +84,7 @@ beschrieben. Welche Maßnahmen aus diesen Bereichen werden derzeit
 hinsichtlich einer Umsetzung definiert und geprüft? Wie ist dabei der  
 Planungsstand der jeweiligen Maßnahme?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im derzeitigen Stadium werden alle im Gutachten aufgezeigten Maßnahmen auf konzeptioneller Ebene betrachtet.
 

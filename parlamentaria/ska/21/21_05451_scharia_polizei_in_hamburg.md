@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5039"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53943"
@@ -48,7 +49,7 @@ e) Welche Vorfälle gab es mit der „Scharia-Polizei“ in Hamburg? Bitte aufsc
 
 Liegen den Sicherheitsbehörden Erkenntnisse vor, nach denen Aktivitäten oder die Bildung einer „Scharia-Polizei“ in Hamburg geplant sind?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Erkenntnisse im Sinne der Fragestellungen liegen den zuständigen Behörden nicht vor.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8145", "21/11358"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61614"
@@ -160,7 +161,7 @@ Ist der Senat mit der Entwicklung der Fluglärmbeschwerden zufrieden? Wenn ja, w
 
 Ist der Senat mit der Entwicklung der Starts und Landungen nach 23 Uhr zufrieden? Wenn ja, warum? Wenn nein, warum nicht und was gedenkt er dagegen zu tun?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/11358.
 

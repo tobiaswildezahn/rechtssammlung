@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55066"
@@ -148,6 +149,6 @@ Welche Investitionen für die Freiwilligen Feuerwehren in Langenhorn und Fuhlsb�
 
 Welche Investitionen für die Freiwilligen Feuerwehren in Langenhorn und Fuhlsbüttel sind konkret geplant?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Freiwillige Feuerwehr entscheidet über Investitionen einzelner Feuerwehrhäuser im Rahmen einer internen Prioritätensetzung. Ein Mitteleinsatz in der Freiwilligen Feuerwehr Langenhorn und Fuhlsbüttel ist über den ständigen Unterhaltungsaufwand hinaus entsprechend dieser Prioritätensetzung aktuell nicht vorgesehen.

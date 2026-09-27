@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 40
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14000", "21/11719", "21/13611", "21/7009"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64956"
@@ -877,9 +878,9 @@ Bezirksamt Hamburg-Nord
 
 Die Erhöhung wird genutzt für:
 
- Erhöhung der Mittel für einmalige Projekte
+– Erhöhung der Mittel für einmalige Projekte
 
- Erhöhung der Pauschalen für die Seniorenkreise
+– Erhöhung der Pauschalen für die Seniorenkreise
 
 Bezirksamt Wandsbek
 
@@ -893,28 +894,28 @@ Bezirksamt Harburg
 
 Ab 2019 soll die jährliche Standardförderpauschale der Seniorentreffs von 7 000 Euro auf 9 000 Euro erhöht werden
 
- ab 2019 soll die jährliche Zuwendung für Seniorengruppen, von 1 500 Euro auf
+– ab 2019 soll die jährliche Zuwendung für Seniorengruppen, von 1 500 Euro auf
 
 1 700 Euro – bei einer regelmäßigen Öffnung an einem Tag in jeweils einer Woche
 – sowie von 750 Euro auf 850 Euro – bei einer regelmäßigen Öffnung an einem Tag, jeweils alle zwei Wochen – erhöht werden
 
- die Miet-/Nebenkosten sollen für das Jahr 2019, für den Seniorentreff Neugrabener
+– die Miet-/Nebenkosten sollen für das Jahr 2019, für den Seniorentreff Neugrabener
 
 Markt 7 von 33 650 Euro auf 35 964 Euro, erhöht werden
 
- für das Seniorennetzwerk Neugraben-Fischbek soll in 2019 der Verfügungsfonds
+– für das Seniorennetzwerk Neugraben-Fischbek soll in 2019 der Verfügungsfonds
 
 in der bisherigen jährlichen Höhe von 5 000 Euro finanziert werden
 
- 2019 soll das Projekt „Seniorenbegleitservice Harburg Innenstadt/Eißendorf Ost“ in
+– 2019 soll das Projekt „Seniorenbegleitservice Harburg Innenstadt/Eißendorf Ost“ in
 
 der bisherigen jährlichen Höhe von 20 000 Euro kofinanziert werden
 
- 2019 soll ein neues Projekt „Interkulturelle Öffnung der Seniorenarbeit“ mit 6.000
+– 2019 soll ein neues Projekt „Interkulturelle Öffnung der Seniorenarbeit“ mit 6.000
 
 Euro finanziert werden
 
- 2019 soll die Entwicklung eines neuen Nachbarschaftstreffs in Sandbek mit 6.293
+– 2019 soll die Entwicklung eines neuen Nachbarschaftstreffs in Sandbek mit 6.293
 
 Euro aus der Rahmenzuweisung kofinanziert werden
 
@@ -928,7 +929,7 @@ b) Mittel in welcher Höhe stehen für die Weiterentwicklung, aber auch deren Um
 
 Im Jahr 2014 hat der Senat das Demografie-Konzept „Hamburg 2030: Mehr. Älter. Vielfältiger.“ beschlossen. Welche Aspekte hieraus wurden bereits für die Weiterentwicklung der Seniorentreffs berücksichtigt beziehungsweise sollen berücksichtigt werden?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Die zuständige Behörde verfolgt aktiv die Weiterentwicklung der offenen Seniorenarbeit. Dabei liegt ein Schwerpunkt auf dem Quartier als Lebensmittelpunkt vieler Seniorinnen und Senioren, um den vielfältigen Interessen und Bedarfen Rechnung zu tragen. Im Mittelpunkt stehen die Interessen und die Aktivierung der älteren Menschen im Quartier sowie die Weiterentwicklung der im Sozialraum vorhandenen Strukturen im Wege von anbieterübergreifender Zusammenarbeit. Ein Beispiel für diese neuen Kooperationsformen bilden die Seniorennetzwerke in den Stadtteilen Neugraben- Fischbek und Lurup. Die Stadt fördert seit 2017 die Gründung und die professionelle Begleitung der beiden Netzwerke als Modellprojekte für den Aufbau stadtteilbezogener, selbstorganisierter Netzwerke. Beide Netzwerke verfolgen das Ziel, verschiedene Akteure sowie Bürgerinnen und Bürger an einen Tisch zu bringen, um gemeinsam Projekte und Ideen zur Sicherstellung der Teilhabe und Teilnahme älterer Menschen im Stadtteil beziehungsweise Quartier zu entwickeln und umzusetzen. Aufgabe der Netzwerke ist es, durch Kooperation bestehende Angebote bedarfsorientiert weiterzuentwickeln oder aber auch gegebenenfalls gemeinsam neue Angebote zu gestalten. Die beiden Modellprojekte laufen noch bis Ende 2019 und werden mit insgesamt 75 000 Euro pro Modell (insgesamt 150 000 Euro) gefördert.
 

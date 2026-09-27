@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1716", "21/1568"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49939"
@@ -119,7 +120,7 @@ Sind neben dem ehemaligen Max-Bahr-Baumarkt im Rugenbarg noch weitere Flüchtlin
 
 Wie viele Flüchtlingsunterkünfte mit wie vielen Flüchtlingen befinden sich derzeit in Osdorf beziehungsweise einem 5- beziehungsweise 10-Kilometer-Radius um die geplante Flüchtlingsunterkunft im ehemaligen Max- Bahr-Baumarkt herum? Welche Standorte mit jeweils welcher Kapazität und Existenzdauer sind darüber hinaus in Osdorf beziehungsweise in einem 5- beziehungsweise 10-Kilometer-Radius geplant?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die zuständige Behörde informiert über Standorte der öffentlichen Unterbringung und die Kapazität sowie die geplanten Standorte immer aktuell auf den bezirksbezogenen Standortlisten unter http://www.hamburg.de/fluechtlinge-unterbringung-standorte/, im Übrigen siehe Drs. 21/1568.
 

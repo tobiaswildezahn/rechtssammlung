@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9168"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67875"
@@ -91,7 +92,7 @@ Wie viele Stellplätze für Elektrofahrzeuge gibt es derzeit in Hamburg? Bitte n
 
 Wie haben sich die Zahlen beider Stellplatzsorten seit Einführung der Stellplätze für Elektrofahrzeuge entwickelt? Bitte nach Jahren und Bezirken aufschlüsseln.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Anzahl der Stellplätze für Elektrofahrzeuge im öffentlichen Raum hat, bedingt durch die steigende Anzahl von Ladepunkten, in den letzten Jahren stetig zugenommen. Statistiken im Sinne der Fragestellung werden nicht geführt. Zur Beantwortung wäre eine Durchsicht aller Straßenakten bei der Polizei erforderlich. Die händische Auswertung von mehreren Tausend Akten ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -115,7 +116,7 @@ Wie hoch sind die nach benannten Kriterien ermittelten Bedarfe, für die jeweili
 
 Sieht der Senat etwaige Differenzen zwischen Bedarf und Bestand der jeweiligen Stellplatzarten und einen entsprechenden Handlungsbedarf diese auszugleichen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Straßenverkehrsbehördliche Anordnungen zur Einrichtung von Behindertenparkplätzen werden auf Antrag der Behinderten oder deren Verbänden erlassen. Des Weiteren wird die Notwendigkeit bei der Erstellung zum Beispiel öffentlicher Gebäude, Veranstaltungsstätten oder Ärztehäuser geprüft. Im Übrigen siehe Antwort zu 4.
 

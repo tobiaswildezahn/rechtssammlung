@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57756"
@@ -85,7 +86,7 @@ Welche Kenntnisse hat das Landesamt für Verfassungsschutz über die politische 
 
 Liegen der zuständigen Behörde insbesondere Informationen über die Vorbereitung von gewaltorientierten und illegalen Demonstrationen, Blockaden oder anderer Protestaktionen gegen spezifische Parteien, Gruppen oder den G20-Gipfel vor?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Dem LfV Hamburg liegen Informationen vor, dass über soziale Netzwerke zur Teilnahme an einem „Kennenlerntreffen“ der PKK-nahen Gruppierungen „Verband der Studierenden aus Kurdistan“ und „Studierende Frauen aus Kurdistan“ am 04.05.2016 im Café Knallhart eingeladen wurde. Ob dieses Treffen tatsächlich stattfand, ist dem LfV Hamburg nicht bekannt. Der Polizei Hamburg ist bekannt, dass das Café Knallhart auf seiner Internetseite auf eine Veranstaltung mit G20-kritischem Inhalt hinweist. Im Übrigen siehe Antwort zu 5.
 

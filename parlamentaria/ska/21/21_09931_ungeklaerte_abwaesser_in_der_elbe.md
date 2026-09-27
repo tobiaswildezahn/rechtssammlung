@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58754"
@@ -135,7 +136,7 @@ Welche Regenmengen sind nach den bisherigen Erfahrungen notwendig, um einen Zust
 
 Wie oft gab es solche Starkregen-Ereignisse in den vergangenen zehn Jahren und mit welcher Zunahme solcher Ereignisse wird im Rahmen des Klimawandels bis 2050 gerechnet?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Ursache des Austrags von Fettstoffen am 29./30. Juni 2017 sind Fetteinleitungen aus Haushalten und Gewerbe in das Mischsielnetz.
 

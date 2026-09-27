@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/132"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49355"
@@ -77,11 +78,11 @@ Die Einbindung von Rettungsmitteln der Hilfsorganisationen im öffentlichen Rett
 
 Danach werden folgende Rettungsmittel eingesetzt:
 
- drei Rettungswagen (zwei vom Deutschen Roten Kreuz , einer vom Arbeiter-
+– drei Rettungswagen (zwei vom Deutschen Roten Kreuz , einer vom Arbeiter-
 
 Samariter-Bund)
 
- zwei Notarztwagen (je einer vom Deutschen Roten Kreuz und vom Arbeiter-
+– zwei Notarztwagen (je einer vom Deutschen Roten Kreuz und vom Arbeiter-
 
 Samariter-Bund)
 

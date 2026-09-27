@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 22
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9329"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59876"
@@ -135,27 +136,27 @@ Die Fortbildungen führen Sonderpädagoginnen und -pädagogen mit besonderer Exp
 
 Bis zum Schuljahr 2019/2020 sind circa 300 Veranstaltungen für bis zu 5.000 – 6.000 Teilnehmende (TN) zu den folgenden Themenschwerpunkten geplant:
 
- Zehn Seminare für bis zu insgesamt 300 TN zu den Testverfahren TROG-D und K-
+– Zehn Seminare für bis zu insgesamt 300 TN zu den Testverfahren TROG-D und K-
 
 ABC für Sonderpädagoginnen und -pädagogen. Die Seminare werden von testerfahrenen Sonderpädagoginnen und -pädagogen durchgeführt.
 
- 35 Seminare pro Schuljahr für bis zu insgesamt 2.100 TN zur Erweiterung pädago-
+– 35 Seminare pro Schuljahr für bis zu insgesamt 2.100 TN zur Erweiterung pädago-
 
 gischer und förderdiagnostischer Kompetenzen. Zielgruppe sind Sonderpädagoginnen und -pädagogen.
 
- Qualifizierungskurse zu den sonderpädagogischen Förderschwerpunkten Lernen,
+– Qualifizierungskurse zu den sonderpädagogischen Förderschwerpunkten Lernen,
 
 Sprache, emotionale und soziale Entwicklung, Autismus, geistige Entwicklung und Beratung für insgesamt bis zu 1.220 Teilnehmer. Zielgruppe sind Sonderpädagoginnen und -pädagogen.
 
- Qualifizierungskurse für neue Förderkoordinatorinnen und -koordinatoren. In der
+– Qualifizierungskurse für neue Förderkoordinatorinnen und -koordinatoren. In der
 
 Ausbildung ist die Aufgabenverteilung zwischen den Professionen und Institutionen ein integrierter Bestandteil. Geplant sind acht Veranstaltungen für insgesamt circa 340 TN.
 
- Moderierte Netzwerke für Sonderpädagoginnen und -pädagogen. Geplant sind
+– Moderierte Netzwerke für Sonderpädagoginnen und -pädagogen. Geplant sind
 
 zehn Veranstaltungen im genannten Zeitraum mit circa 75 TN pro Veranstaltung.
 
- Moderierte Netzwerke für Förderkoordinatorinnen und -koordinatoren. Geplant sind
+– Moderierte Netzwerke für Förderkoordinatorinnen und -koordinatoren. Geplant sind
 
 20 Veranstaltung mit je circa 15 TN.
 

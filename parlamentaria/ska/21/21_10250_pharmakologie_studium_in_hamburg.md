@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59091"
@@ -87,7 +88,7 @@ Ziel- und Leistungsvereinbarungen?
 Wenn ja: inwiefern?  
 Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Es gibt keine Vorgaben für die Anzahl an Studienanfängerplätzen im Studiengang Pharmazie. In den Ziel- und Leistungsvereinbarungen werden daher auch keine Fest-
 

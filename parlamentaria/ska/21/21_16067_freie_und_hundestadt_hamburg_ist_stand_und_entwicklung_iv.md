@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 22
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/4573", "21/4717", "21/8332", "21/11931"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65570"
@@ -88,7 +89,7 @@ Wie viele Hundeauslaufflächen nach § 8 Absatz 3 HundeG gibt es aktuell in Hamb
 
 Wie viel Quadratmeter umfasst aktuell jeweils die Summe aller Hundeauslaufflächen nach § 8 Absatz 3 HundeG in den Bezirken? Bitte für jeden Bezirk einzeln ausweisen.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Standorte und Größen siehe http://www.hamburg.de/hundegesetz/ -> Freilaufflächen/ Downloads/Hundeauslaufzonen in Hamburg nach Bezirken sortiert.
 
@@ -110,9 +111,9 @@ Zu aktuellen Umsetzungen im Bezirksamtsbereich Hamburg-Mitte (nach 2018) siehe A
 
 In Eimsbüttel wurden folgende Flächen neu eingerichtet:
 
-• Kaiser-Friedrich-Ufer mit 1 703 m²,
+– Kaiser-Friedrich-Ufer mit 1 703 m²,
 
-• Weidenstieg mit 1 643 m².
+– Weidenstieg mit 1 643 m².
 
 In Bergedorf wurde die Fläche Binnenfeldredder mit circa 9 100 m² aufgehoben. Neu eingerichtet wurde die Fläche Habermannstraße mit 11 000 m².
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 18
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58484"
@@ -70,7 +71,7 @@ Wie hoch schätzt die Behörde die Anzahl von Schülern an Hamburger Schulen ein
 
 In wie vielen Fällen mussten Schüler während des diesjährigen Ramadans infolge von Symptomen, die auf das Fasten zurückzuführen sind, krank entlassen werden? Wie alt waren die Schüler jeweils?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 An Hamburger Schulen werden aus Gründen des Datenschutzes weder die Religionszugehörigkeit noch der Grund für die Abmeldung aus Krankheitsgründen erhoben.
 
@@ -90,7 +91,7 @@ Kann die Behörde Angaben darüber machen, in welchen Fällen die Motivation zu 
 
 Kann die Behörde Angaben dazu machen, inwieweit die Motivation zu Fasten im Glauben wurzelt und inwieweit die Abgrenzung gegenüber anderen im Vordergrund steht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nein.
 
@@ -104,7 +105,7 @@ Kann die Behörde generell den Umgang der Hamburger Schulen mit der Problematik 
 
 Gibt es Vorgaben beziehungsweise Empfehlungen an die Schulen beziehungsweise Lehrer, wie sie mit den betroffenen Schülern umgehen sollen und inwieweit sie auf Beeinträchtigungen Rücksicht nehmen sollen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Thematik „Ramadan und Schule“ wird in der Handreichung des Landesinstituts für Lehrerbildung und Schulentwicklung (LI) „Vielfalt in der Schule“ ausführlich beschrieben. Sie liegt für pädagogisches Personal vor (7. aktualisierte Fassung 2016, dort Seite 10) und für Eltern (4. aktualisierte Fassung, dort Seite 9/10, sowie in sechs, in Hamburg häufigen Herkunftssprachen, vor, siehe: www.li.hamburg.de/bie/ publikationen).
 

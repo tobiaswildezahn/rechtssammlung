@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49884"
@@ -61,7 +62,7 @@ Wie sind die derzeitigen Eigentumsverhältnisse des Geländes und der bestehende
 
 Gibt es Erwägungen beziehungsweise Verhandlungen, das Gelände zu kaufen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Liegenschaft wurde von der Freien und Hansestadt Hamburg erworben.
 
@@ -81,7 +82,7 @@ Wie viele Wohnungen in Harburg stehen derzeit leer? Bitte nach Dauer des Leersta
 
 Wie viele Gewerbe- und Büroflächen stehen derzeit in Harburg leer (bitte auch hier nach privatem Bestand und Bestand in öffentlicher Hand und der Dauer des Leerstandes siehe Frage 5. unterscheiden)?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Zu den behördlich bekannten Leerständen im Wohnungsbestand zum Stichtag
 18. September 2015 siehe die folgenden Übersichten:
@@ -107,19 +108,19 @@ Gesamt
 
 Der Leerstand 170 öffentlicher Wohnungen begründet sich wie folgt:
 
- 87 Wohnungen in der Denickestraße/Thörlweg/Thörlstraße wegen des vorgesehe-
+– 87 Wohnungen in der Denickestraße/Thörlweg/Thörlstraße wegen des vorgesehe-
 
 nen Abbruchs von 174 Wohnungen und der anschließenden Errichtung von 347 Wohnungen. Vorbereitende Arbeiten wie Entkernung, Gefahrstoffsanierung und Entfernung von Bauteilen haben bei einem Großteil der Wohnungen bereits begonnen.
 
- 23 Wohnungen im Stubbenhof sind wegen umfangreicher Sanierung und Moderni-
+– 23 Wohnungen im Stubbenhof sind wegen umfangreicher Sanierung und Moderni-
 
 sierung nicht fest vermietet. 17 davon werden zur Zwischenunterbringung von Mietern genutzt, die während der Arbeiten nicht in ihren Wohnungen bleiben können.
 
- 58 Wohnungen gehören zu dem Bestand, den die SAGA zum 01. Juli 2015 von
+– 58 Wohnungen gehören zu dem Bestand, den die SAGA zum 01. Juli 2015 von
 
 der Freien und Hansestadt Hamburg angekauft hat. 56 davon in Moorburg und Neuenfelde, wovon 38 umfangreich saniert und modernisiert werden sollen, die Übrigen sind zum Abriss vorgesehen. Eine Wohnung soll verkauft werden.
 
- Zwei Wohnungen des städtischen Bestandes, der von SAGA GWG verwaltet wird,
+– Zwei Wohnungen des städtischen Bestandes, der von SAGA GWG verwaltet wird,
 
 sind zum Verkauf vorgesehen.
 

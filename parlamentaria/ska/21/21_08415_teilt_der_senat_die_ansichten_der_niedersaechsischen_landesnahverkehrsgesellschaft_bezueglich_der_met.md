@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8392"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57127"
@@ -108,9 +109,9 @@ c) Uelzen – Hamburg jeweils seit 2011 vereinbart? Bitte, im Falle von Verände
 
 Der Anteil der Züge mit null – fünf Minuten Verspätung ist je Verkehrsvertrag folgendermaßen vereinbart:
 
- Hanse-Netz: 94 Prozent
+– Hanse-Netz: 94 Prozent
 
- Cuxhaven: 95 Prozent
+– Cuxhaven: 95 Prozent
 
 Es gab in den Jahren seit 2011 keine Änderungen an den vertraglichen Pünktlichkeitsvorgaben.
 

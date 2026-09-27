@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57541"
@@ -61,7 +62,7 @@ g. Hochschulen
 
 Wie hoch ist der Anteil der Befristungen nach Frage 1. jeweils im Verhältnis an den Gesamtbeschäftigten? Bitte jährlich und entsprechend nach Frage 1. (a. – g.) auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

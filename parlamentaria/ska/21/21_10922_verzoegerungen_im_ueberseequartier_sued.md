@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 27
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10347"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59852"
@@ -63,7 +64,7 @@ Welche in den ursprünglichen Vereinbarungen von Dezember 2014 vereinbarten Fris
 
 Welche geltenden Fristen wurden oder werden nicht eingehalten und weshalb?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Frist zur Entscheidung über die Lage einer öffentlich zugänglichen Nutzung (sogenannte rooftop-Nutzung, wie zum Beispiel Bars, Gastronomie, Dachterrassen) auf einem der drei Hochhäuser an der Elbe (Gebäude D1, D 2 oder C) durch die Freie und Hansestadt Hamburg (FHH) wurde verlängert, um eine gründlichere Prüfung durch die FHH zu ermöglichen.
 

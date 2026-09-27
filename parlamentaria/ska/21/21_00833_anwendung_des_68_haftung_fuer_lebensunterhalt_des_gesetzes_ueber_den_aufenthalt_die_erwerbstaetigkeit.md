@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9442"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48980"
@@ -115,7 +116,7 @@ In wie vielen Fällen wurden Erstattungen gemäß § 68 AufenthG in den Jahren 2
 
 Auf welche Höhe beliefen sich diese Forderungen in den Jahren 2005 – 2015? (Bitte jahresweise aufschlüsseln.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Grundsätzlich tragen die Verpflichtungsgeber die Kosten für den Lebensunterhalt, soweit die Ausländer nicht selbst dazu in der Lage sind. Erstattungen kommen also nur in Betracht, soweit Verpflichtungsgeber ihren Pflichten nicht nachkommen und die Freie und Hansestadt Hamburg an ihrer Stelle leistet. Die Anzahl der vorgelegten Verpflichtungserklärungen und die Leistungen bei vorliegenden Erklärungen werden nicht gesondert erhoben. Zur händischen Ermittlung müssten mehrere Tausend Leistungsakten durchgesehen und überprüft werden. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Aus den gleichen Gründen können auch Forderungen nicht beziffert werden.
 

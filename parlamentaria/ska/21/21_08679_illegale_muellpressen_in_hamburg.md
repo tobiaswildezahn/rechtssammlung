@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57402"
@@ -110,7 +111,7 @@ Inwiefern wäre die Berechnung der Gebühr der Restmüllentsorgung nach Gewicht 
 
 Inwieweit hat sich die zuständige Behörde mit dieser Berechnungsmethode („Gewicht statt Volumen“) für die Gebühren für die Restmüllentsorgung wie im Praxisbeispiel des Landkreises Märkisch-Oderland befasst?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Eine Abrechnung nach Gewicht statt Volumen würde extrem hohe Kosten verursachen. Als Reaktion auf die Problematik der illegalen Müllpressen wäre dies angesichts der sehr niedrigen Fallzahlen unverhältnismäßig.
 

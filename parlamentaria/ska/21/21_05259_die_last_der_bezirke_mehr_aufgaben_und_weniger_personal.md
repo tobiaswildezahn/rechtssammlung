@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5024", "20/5654", "21/3725"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53728"
@@ -51,7 +52,7 @@ Wie viele Stellen waren vor der Verlagerung mit diesen jeweiligen Aufgaben jewei
 
 Wie viele der unter 2. abgefragten Stellen wurden zusammen mit der Aufgabe auf die Bezirke übertragen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage 1. Es wurden alle Stellen übertragen.
 

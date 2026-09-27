@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11602", "21/10231", "21/9705", "21/11494"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61667"
@@ -67,7 +68,7 @@ Wann wurde mit der Kandidatensuche in welcher Form begonnen? Wann genau wurde du
 
 Wann hat die Senatskommission für öffentliche Unternehmen den angestrebten Vergütungsrahmen beschlossen? Wann war die Senatskommission für öffentliche Unternehmen mit welchen weiteren Fragestellungen im Zuge der Besetzung dieser Position befasst?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Das Personalberatungsunternehmen hat seine Tätigkeit im Anschluss an die Beauftragung aufgenommen. Im Weiteren hat sich die Senatskommission für öffentliche Unternehmen noch nicht damit befasst.
 

@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 24
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17346"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67304"
@@ -65,7 +66,7 @@ Hätten gemäß Geschäftsordnungsbestimmung Nummer 14 der Behörde für Schule 
 
 Ist es zulässig, politische Diskussionsveranstaltungen an Unterrichtstagen und zur Unterrichtszeit in der Schule von einem „Schulverein“ veranstalten zu lassen und mit dieser „Auslagerung“ die Geschäftsordnungsbestimmung Nummer 14 der Behörde für Schule und Berufsbildung zu umgehen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nach der Geschäftsordnung Nummer 14 der für Bildung zuständigen Behörde hätten zu der Veranstaltung alle in der Bürgerschaft vertretenen Parteien eine Einladung erhalten müssen.
 
@@ -109,7 +110,7 @@ Seit wann kooperiert die BSB mit der Hamburger Gruppe von „Grenzgänger e.V.�
 
 Welche Veranstaltungen/Projekte hat die Hamburger Gruppe von „Grenzgänger e.V.“ an Hamburger Schulen oder unter Beteiligung von Hamburger Schülern bislang durchgeführt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Zur Beantwortung der Frage hätte eine Schulabfrage bei sämtlichen Hamburger Schulen durchgeführt werden müssen. Im Übrigen siehe Vorbemerkung.
 
@@ -155,7 +156,7 @@ Wird die BSB angesichts der derzeitigen Leitung des Vereins durch herausgehobene
 
 Wie würde es die BSB bewerten, wenn ein Verein unter Leitung und Steuerung von herausgehobenen AfD-Mitgliedern migrationskritische Workshops oder Stadtrundgänge an Hamburger Schulen beziehungsweise mit Hamburger Schülern durchführen würde?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Siehe Antwort zu 5 bis 7.
 

@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 44388
 seiten: 4
 fragen: 14
-einzelfragen: 24
-antwortbloecke: 12
+einzelfragen: 27
+antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48602"
@@ -183,11 +184,20 @@ Die Besuche von Steuerpflichtigen außerhalb der IAS werden nicht statistisch er
 ### Frage 14
 
 In einem Schreiben der Finanzbehörde werden die Finanzämter Wandsbek und Bergedorf als „strukturell zu klein“ bezeichnet.
-14.1. Wie genau und nach welchen Kriterien bemisst sich die strukturelle Mindestgröße eines Finanzamtes?
-14.2. Welche Finanzämter in Hamburg sind aus Sicht des Senats nach jeweils welchen Kriterien strukturell zu klein?
-14.3. Wie viele Beschäftigte (Mitarbeiter insgesamt sowie in VZÄ) sind jeweils in den einzelnen Hamburger Finanzämtern tätig?
 
-#### Antwort zu Frage 14
+### Frage 14.1
+
+Wie genau und nach welchen Kriterien bemisst sich die strukturelle Mindestgröße eines Finanzamtes?
+
+### Frage 14.2
+
+Welche Finanzämter in Hamburg sind aus Sicht des Senats nach jeweils welchen Kriterien strukturell zu klein?
+
+### Frage 14.3
+
+Wie viele Beschäftigte (Mitarbeiter insgesamt sowie in VZÄ) sind jeweils in den einzelnen Hamburger Finanzämtern tätig?
+
+#### Antwort zu Fragen 14, 14.1, 14.2 und 14.3
 
 Regionalfinanzämter  
 Personen  
@@ -229,6 +239,10 @@ Verkehrssteuern und Grundbesitz
 
 Formale Vorgaben oder Kriterien zur Größe eines Finanzamtes bestehen nicht. Im Übrigen siehe Antwort zu 14.4. und Vorbemerkung.
 
-14.4. Für welche Finanzämter wird eine Zusammenlegung geprüft oder erwogen? Wie sind jeweils Sachstand und Zeitplan dieser Prüfungen? Welche Auswirkungen hätte eine Zusammenlegung auf die jeweiligen Steuerpflichtigen?
+### Frage 14.4
+
+Für welche Finanzämter wird eine Zusammenlegung geprüft oder erwogen? Wie sind jeweils Sachstand und Zeitplan dieser Prüfungen? Welche Auswirkungen hätte eine Zusammenlegung auf die jeweiligen Steuerpflichtigen?
+
+#### Antwort zu Frage 14.4
 
 Weitere Überlegungen beziehungsweise Planungen bestehen derzeit nicht, können aber aus den in der Vorbemerkung genannten Gründen jederzeit erforderlich werden.

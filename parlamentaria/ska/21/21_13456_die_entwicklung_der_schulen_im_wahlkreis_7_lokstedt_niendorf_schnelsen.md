@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 20
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62816"
@@ -245,7 +246,7 @@ den Wahlkreis 7.
 
 Wie viele Sporthallenfelder gab es am 1.8.2011 insgesamt im Wahlkreis 7 und wie viele wird es 2020 geben?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Die Anzahl der Sporthallenfelder ist im Wahlkreis 7 konstant bei 32 geblieben.
 

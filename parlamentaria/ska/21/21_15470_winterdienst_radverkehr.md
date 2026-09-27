@@ -11,9 +11,10 @@ fraktionen: ["GRÜNE"]
 vorgang: 59195
 seiten: 3
 fragen: 3
-einzelfragen: 6
-antwortbloecke: 3
+einzelfragen: 9
+antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2641", "21/6183", "21/10190"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64942"
@@ -42,10 +43,16 @@ Der Senat beantwortet die Fragen, teilweise auf der Grundlage von Auskünften de
 ### Frage 1
 
 Ist für die Winterdienstsaison 2018/2019 eine weitere Ausweitung des Winterdienststreckennetzes geplant?
-1.1. Wenn ja, um wie viele Kilometer wird der Winterdienst auf Radverkehrsanlagen in der Saison 2018/2019 ausgeweitet?
-1.2. Welche Strecken wurden neu in das Winterdienststreckennetz für Radverkehrsanlagen 2018/2019 aufgenommen?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Wenn ja, um wie viele Kilometer wird der Winterdienst auf Radverkehrsanlagen in der Saison 2018/2019 ausgeweitet?
+
+### Frage 1.2
+
+Welche Strecken wurden neu in das Winterdienststreckennetz für Radverkehrsanlagen 2018/2019 aufgenommen?
+
+#### Antwort zu Fragen 1, 1.1 und 1.2
 
 Das Winterdienststreckennetz ist um circa 25 Kilometer ausgeweitet worden, siehe dazu auch Anlage.
 
@@ -57,25 +64,40 @@ Wurden zur Erzielung von besseren Ergebnissen sowohl bei der Reinigung als auch 
 
 Ja, siehe dazu auch Antwort zu 3.1.
 
-2.1. Wenn ja, welche Vorzüge gegenüber den bisherigen Maschinen haben diese?
+### Frage 2.1
+
+Wenn ja, welche Vorzüge gegenüber den bisherigen Maschinen haben diese?
+
+#### Antwort zu Frage 2.1
 
 Der Bestand wurde für den erweiterten Arbeitsauftrag vergrößert. Die neu beschafften Maschinen sind in der Funktionalität mit den bisherigen Maschinen vergleichbar (Räumschild, Walzenbesen, Streuer).
 
-2.2. Welche Investitionssumme wurde hierfür aufgewendet?
+### Frage 2.2
+
+Welche Investitionssumme wurde hierfür aufgewendet?
+
+#### Antwort zu Frage 2.2
 
 Es wurden keine Investitionen getätigt. Die zusätzlichen Maschinen wurden gemietet beziehungsweise es sind Fremdfirmen beauftragt.
 
 ### Frage 3
 
 Gibt es organisatorische Änderungen im Ablauf des Winterdienstes für den Radverkehr?
-3.1. Wenn ja, wie sehen diese konkret aus?
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+Wenn ja, wie sehen diese konkret aus?
+
+#### Antwort zu Fragen 3 und 3.1
 
 Zur Nachbearbeitung von 50 km Radstreifen im Anschluss an die Reinigung der Fahrbahnen im Rahmen des Fahrbahnwinterdienstes erfolgt der Einsatz von vier zusätzlichen Fahrzeugen.
 
 Zur prioritären Bearbeitung von 55 km abgesetzten Radwegen parallel zu den Gehwegen in der Priorität 1 erfolgt der Einsatz von sechs zusätzlichen Fahrzeugen.
 
-3.2. Wie hoch ist die Summe der Aufwendungen, die hierfür zusätzlich getätigt werden müssen?
+### Frage 3.2
+
+Wie hoch ist die Summe der Aufwendungen, die hierfür zusätzlich getätigt werden müssen?
+
+#### Antwort zu Frage 3.2
 
 Durch die organisatorischen Änderungen zur Winterdienstsaison 2018/2019 entstehen der SRH zusätzliche Kosten von rund 198 000 Euro.

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57505"
@@ -51,7 +52,7 @@ Wie viele Genehmigungen für Wettbüros wurden nach der Hamburgischen Bauordnung
 
 Wie verteilen sich diese Wettbüros auf welche Stadtteile? Bitte getrennt nach Stadtteilen auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Erteilung von Baugenehmigungen für Wettbüros wird nicht gesondert erfasst. Es wären sämtliche Vorgänge der Vorgangsarten
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4737"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58219"
@@ -67,7 +68,7 @@ Wie viele Personen sind 2016 sowie bis zum Ende des 1. Quartals 2017 in Hamburg 
 
 Wie viele entsprechende Strafanzeigen wurden jeweils gefertigt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Polizei führt keine Statistiken im Sinne der Fragestellung. Eine interne Auswertung, für deren Vollständigkeit keine Gewährleistung übernommen werden kann, ergab für das Jahr 2016 1.742 Fälle und im 1. Quartal 2017 475 Fälle.
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/521"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48796"
@@ -85,7 +86,7 @@ Inwieweit bedürfen „die Zuordnungen zu Kontenbereichen des Aufgabenbereichs �
 
 Welche Kontenbereiche sind hiervon betroffen und um welche Sachverhalte und Beträge geht es?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Da das Neue Haushaltswesen in der Behörde für Wirtschaft, Verkehr und Innovation im Jahr 2015 eingeführt wurde, liegen noch keine Erfahrungswerte vor, die eine hinreichend gesicherte Prognose für die einzelnen Kontenbereiche ermöglichen. Darauf verweist auch die Anmerkung im Prognosebericht. Konkrete Aussagen zu den Kontenbereichen sind damit nicht möglich.
 
@@ -136,7 +137,7 @@ Wie waren die Durchschnittstemperaturen jeweils im 1.Quartal 2012, 2013, 2014 un
 
 Wie hoch waren die Niederschlagsmengen jeweils im 1. Quartal 2012, 2013, 2014 und 2015?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 1. Quartal 2012 1. Quartal 2013 1. Quartal 2014 1. Quartal 2015  
 Durchschnittstemperatur in Grad Celsius  

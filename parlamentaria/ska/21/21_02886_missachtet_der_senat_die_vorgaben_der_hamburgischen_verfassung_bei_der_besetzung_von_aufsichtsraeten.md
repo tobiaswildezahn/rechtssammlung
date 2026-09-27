@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2764", "21/634"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51218"
@@ -52,7 +53,7 @@ Wann genau hat der Senat genehmigt, dass Senator Kerstan dem Aufsichtsrat der Ha
 
 Wann genau hat der Senat genehmigt, dass Senatorin Dr. Leonhard dem Aufsichtsrat der „Elbkinder“ Vereinigung Hamburger Kitas gGmbH angehören soll? Wann genau und in welcher Form wurde dabei das Einvernehmen mit der Bürgerschaft gemäß Artikel 40 Absatz 2 HV eingeholt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Senator Kerstan wurde am 13. Oktober 2015 durch die Senatskommission für öffentliche Unternehmen in den Aufsichtsrat der HafenCity Hamburg GmbH berufen. Senatorin Dr. Leonhard wurde am 17. November 2015 durch die Senatskommission für öffentliche Unternehmen in den Aufsichtsrat der Elbkinder Vereinigung Hamburger Kitas gGmbH berufen. Im Übrigen siehe Vorbemerkung.
 

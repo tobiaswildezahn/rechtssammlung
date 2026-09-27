@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/73", "21/1823", "21/4051", "21/5173"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54337"
@@ -53,7 +54,7 @@ Wann hat aus Sicht des Senats beziehungsweise der zuständigen Behörde die mit 
 
 Wann endet nach Auffassung des Senats beziehungsweise der zuständigen Behörde die mit der Volksinitiative vereinbarte einjährige Test-, Auswertungs- und Entscheidungsphase? Wenn nicht am 21. Juni 2016, bitte detailliert und nachvollziehbar darlegen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Testphase hat im Oktober 2015 begonnen und ist noch nicht abgeschlossen. Im Übrigen siehe Drs. 21/1823 und 21/5173.
 
@@ -105,7 +106,7 @@ Wann fanden die vereinbarten Planfahrten auf den Linien 6 und 25 jeweils statt?
 
 Wann fanden jeweils die Ermittlungen der den Busverkehr im Kreuzungsbereich Mühlenkamp/Gertigstraße beeinträchtigenden relevanten Störereignisse vor Beginn der Baumaßnahme sowie nach Abschluss der Baumaßnahme jeweils statt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Fahrten haben noch nicht stattgefunden.
 

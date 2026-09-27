@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 17
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8332"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57355"
@@ -45,7 +46,7 @@ Wie viele Diensthunde hält die Polizei Hamburg zurzeit?
 
 Wie viele Diensthundeführer/-innen beschäftigt die Polizei Hamburg zurzeit?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Polizei setzt derzeit (Stand: 7. April 2017) 50 Beamte als Diensthundeführer (DHF) ein, denen jeweils ein Diensthund (DH) zugeordnet ist.
 
@@ -100,13 +101,13 @@ Welche Hunderassen wurden hierfür jeweils ausgewählt?
 
 #### Antwort zu Frage 6
 
- Deutscher Schäferhund und Mix
+– Deutscher Schäferhund und Mix
 
- Belgischer Schäferhund/Malinois und Mix
+– Belgischer Schäferhund/Malinois und Mix
 
- Holländischer Herder
+– Holländischer Herder
 
- Bayerischer Gebirgsschweißhund
+– Bayerischer Gebirgsschweißhund
 
 ### Frage 7
 
@@ -116,19 +117,19 @@ Welche Anforderungen werden an die Auswahl von Diensthunden und Diensthundeführ
 
 Anforderungen für Diensthundeführer/-innen:
 
- Polizeivollzugsbeamter mit mindestens vier Jahren Diensterfahrung nach
+– Polizeivollzugsbeamter mit mindestens vier Jahren Diensterfahrung nach
 
 Abschluss der entsprechenden Laufbahnprüfung
 
- Sicherstellung einer geeigneten Unterbringung für den Diensthund.
+– Sicherstellung einer geeigneten Unterbringung für den Diensthund.
 
- Vornahme einer Hospitation von mindestens zwei Wochen im Bereich Dienst-
+– Vornahme einer Hospitation von mindestens zwei Wochen im Bereich Dienst-
 
 hundewesen/Diensthundeschule
 
 Anforderungen für Diensthunde:
 
- Individuelle Veranlagung, Selbstsicherheit und Belastbarkeit
+– Individuelle Veranlagung, Selbstsicherheit und Belastbarkeit
 
 ### Frage 8
 
@@ -138,39 +139,39 @@ Wie viele Diensthunde sind jeweils seit 2014 jährlich aus dem Dienst aus welche
 
 2014: acht.
 
- Sechs Diensthunde wurden altersbedingt pensioniert.
+– Sechs Diensthunde wurden altersbedingt pensioniert.
 
- Ein Diensthund wurde im Zusammenhang mit Sonderurlaub (Mutterschutz) des
+– Ein Diensthund wurde im Zusammenhang mit Sonderurlaub (Mutterschutz) des
 
 DHF pensioniert.
 
- Ein Diensthund erfüllte nicht die Einsatzvoraussetzungen.
+– Ein Diensthund erfüllte nicht die Einsatzvoraussetzungen.
 
 2015: drei.
 
- Ein Diensthund ist verstorben.
+– Ein Diensthund ist verstorben.
 
- Ein Diensthund wurde wegen Dienststellenwechsels des DHF pensioniert.
+– Ein Diensthund wurde wegen Dienststellenwechsels des DHF pensioniert.
 
- Ein Diensthund wurde altersbedingt pensioniert.
+– Ein Diensthund wurde altersbedingt pensioniert.
 
 2016: sieben.
 
- Ein Diensthund wurde altersbedingt pensioniert.
+– Ein Diensthund wurde altersbedingt pensioniert.
 
- Drei Diensthunde wurden wegen Dienststellenwechsels des DHF pensioniert.
+– Drei Diensthunde wurden wegen Dienststellenwechsels des DHF pensioniert.
 
- Ein Diensthund erfüllte nicht die Einsatzvoraussetzungen.
+– Ein Diensthund erfüllte nicht die Einsatzvoraussetzungen.
 
- Zwei Diensthunde sind verstorben.
+– Zwei Diensthunde sind verstorben.
 
 2017: drei.
 
- Ein Diensthund erfüllte nicht die Einsatzvoraussetzungen.
+– Ein Diensthund erfüllte nicht die Einsatzvoraussetzungen.
 
- Ein Diensthund wurde altersbedingt pensioniert.
+– Ein Diensthund wurde altersbedingt pensioniert.
 
- Ein Diensthund ist verstorben.
+– Ein Diensthund ist verstorben.
 
 ### Frage 9
 
@@ -238,7 +239,7 @@ Welche (monatliche/jährliche) Aufwandsentschädigung erhalten die Diensthundef�
 
 Welche Kosten bleiben somit offen und sind von den Haltern nach der aktiven Dienstzeit zu tragen?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Die Hundehalter erhalten pro Monat 110 Euro für Futter und Hundesteuer. Kosten für Tierarzt, Pflege und Haftpflichtversicherung sind von den Hundehaltern zu tragen.
 

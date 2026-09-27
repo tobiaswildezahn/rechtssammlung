@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63654"
@@ -79,6 +80,6 @@ Wie häufig erhielt Arash R. seit seiner Inhaftierung Besuch von seiner Freundin
 
 Wurde bei Arash R. während der Zeit seiner Inhaftierung ein Handy sichergestellt? Falls ja, wann und welche Maßnahmen wurden daraufhin ergriffen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antwort zu 1. bis 3.

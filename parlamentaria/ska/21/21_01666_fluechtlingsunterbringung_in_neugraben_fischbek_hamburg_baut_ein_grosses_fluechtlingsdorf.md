@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 20
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49880"
@@ -110,17 +111,17 @@ Wie viele Flüchtlinge sind aktuell im Stadtteil Neugraben-Fischbek untergebrach
 
 Wie ist der aktuelle Planungsstand im Hinblick auf die oben genannten Unterkünfte?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Am Standort der Zentralen Erstaufnahme (ZEA) Geutensweg sind zum Stand 23. September 2015 306 Personen untergebracht. Der Standort besitzt derzeit eine Kapazität von rund 490 Plätzen (in der Halle) und soll nach derzeitiger Planung auf rund 740 Plätze (einschließlich Wohncontainern auf den Außenflächen) aufgestockt werden. Weitere Unterbringungseinrichtungen existieren derzeit im Stadtteil Neugraben-Fischbek nicht.
 
 Der ZEA-Standort Geutensweg wird seit dem 18. September 2015 belegt. Der Aufbau von Wohncontainern auf den Außenflächen befindet sich derzeit in der Planung. Neben der ZEA Geutensweg und der Unterbringungseinrichtung auf den Baufeldern 1 – 3 „Am Aschenland“ sind im Stadtteil Neugraben-Fischbek folgende Einrichtungen konkret geplant:
 
- Öffentliche Unterbringung (örU) Am Aschenland (Baufeld 0), 458 Plätze, in Bau,
+– Öffentliche Unterbringung (örU) Am Aschenland (Baufeld 0), 458 Plätze, in Bau,
 
 Eröffnung voraussichtlich Dezember 2015
 
- Öffentliche Unterbringung (örU) Cuxhavener Straße 564, 196 Plätze, Baugeneh-
+– Öffentliche Unterbringung (örU) Cuxhavener Straße 564, 196 Plätze, Baugeneh-
 
 migung erteilt, Eröffnung voraussichtlich 2. Quartal 2016
 

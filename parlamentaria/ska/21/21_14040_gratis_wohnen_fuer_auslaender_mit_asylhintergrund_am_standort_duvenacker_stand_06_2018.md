@@ -14,6 +14,7 @@ fragen: 44
 einzelfragen: 59
 antwortbloecke: 27
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4569", "21/13796", "21/12634", "21/13466", "21/11547", "21/12758", "21/11447", "21/13275", "21/608", "21/2501", "21/2108", "21/8601"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63437"
@@ -154,7 +155,7 @@ Wie viele ausreisepflichtige Ausländer mit Asyl- beziehungsweise Flüchtlingshi
 
 Wie viele dieser Personen aus welchem Herkunftsland werden aus welchem Grund geduldet? Bitte aufschlüsseln wie in Drs. 21/13466.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Inhaber einer Duldung sind nach den Definitionen des AufenthG ausreisepflichtig (§ 60a Absatz 3 in Verbindung mit § 58 AufenthG). Die Duldungsgründe sowie die Staatsangehörigkeit der Betroffenen sind der folgenden Übersicht zu entnehmen, im Übrigen siehe Antwort zu 3.
 
@@ -238,7 +239,7 @@ Welche beruflichen oder akademischen Qualifikationen weisen die Ausländer mit A
 
 Wie viele der Ausländer mit Asyl- beziehungsweise Flüchtlingshintergrund, die in der Anlage derzeit wohnen, gehen aktuell einer sozialversicherungspflichtigen Beschäftigung nach?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Siehe Drs. 21/12634 und Drs. 21/11447.
 
@@ -252,7 +253,7 @@ Wie viele der Ausländer mit Asyl- beziehungsweise Flüchtlingshintergrund, die 
 
 Wie viele der Ausländer mit Asyl- beziehungsweise Flüchtlingshintergrund, die derzeit in der Anlage wohnen, haben eine Ausbildung in Deutschland begonnen, diese aber wieder abgebrochen?
 
-#### Antwort zu Fragen 20 bis 21
+#### Antwort zu Fragen 20 und 21
 
 Die Daten werden nicht gesondert statistisch erfasst. Zur Beantwortung müssten mehr als 1.400 Akten ausgewertet werden. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -264,7 +265,7 @@ Wie viele der Ausländer mit Asyl- beziehungsweise Flüchtlingshintergrund, die 
 
 Wie viele der Ausländer mit Asyl- beziehungsweise Flüchtlingshintergrund, die derzeit in der Anlage wohnen, haben ein Studium in Deutschland begonnen, dieses aber inzwischen wieder abgebrochen?
 
-#### Antwort zu Fragen 22 bis 23
+#### Antwort zu Fragen 22 und 23
 
 Dem Senat liegen keine Informationen im Sinne der Fragestellung vor.
 
@@ -302,7 +303,7 @@ b) Wer übernimmt die Kosten für die Reinigung?
 
 Welche Regelungen sind in den Mietverträgen hinsichtlich der Müllentsorgung getroffen?
 
-#### Antwort zu Fragen 27 bis 28
+#### Antwort zu Fragen 27 und 28
 
 Die Bewohnerinnen und Bewohner sind gemäß Haus- und Benutzungsordnung dazu verpflichtet, die von ihnen genutzten Räumlichkeiten zu reinigen und den Müll getrennt zu entsorgen. Alle gemeinschaftlich genutzten Flächen sowie die Verwaltungsräume werden durch einen externen Dienstleister gereinigt. Die Kosten für den Dienstleister trägt f & w als Mieter.
 

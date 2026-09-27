@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4724", "20/13000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53307"
@@ -39,12 +40,21 @@ Ich frage den Senat:
 
 Gemäß den Angaben des Senats wurde die Änderung des Gehaltstrends als Bewertungsparameter am 27.04.2016 durch die Finanzbehörde festgelegt. Das Gutachten zur Bewertung der Pensionsrückstellungen liegt der Finanzbehörde allerdings bereits seit dem
 16.04.2016 vor.
-1.1. Wann genau wurden durch die zuständige Behörde gegenüber dem Gutachter welche Vorgaben zur Ermittlung des erwarteten Gehaltstrends gemacht? Entsprachen die Vorgaben der zu diesem Zeitpunkt gültigen Bilanzierungsrichtlinie der Stadt (VV Bilanzierung)?
-1.2. Warum wurde die VV Bilanzierung nicht bereits zu einem früheren Zeitpunkt von der Finanzbehörde geändert?
-1.3. Wurde ebenfalls die Höhe der Pensionsrückstellungen zum
+
+### Frage 1.1
+
+Wann genau wurden durch die zuständige Behörde gegenüber dem Gutachter welche Vorgaben zur Ermittlung des erwarteten Gehaltstrends gemacht? Entsprachen die Vorgaben der zu diesem Zeitpunkt gültigen Bilanzierungsrichtlinie der Stadt (VV Bilanzierung)?
+
+### Frage 1.2
+
+Warum wurde die VV Bilanzierung nicht bereits zu einem früheren Zeitpunkt von der Finanzbehörde geändert?
+
+### Frage 1.3
+
+Wurde ebenfalls die Höhe der Pensionsrückstellungen zum
 31.12.2015 mit einem Gehaltstrend auf Basis der durchschnittlichen Sieben-Jahres-Steigerung ermittelt? Wenn ja, welche Werte weisen dabei der zugrunde gelegte Gehaltstrend sowie die errechnete Höhe der Pensionsrückstellungen auf? Wenn nein, warum nicht?
 
-#### Antwort zu Frage 1
+#### Antwort zu Fragen 1, 1.1, 1.2 und 1.3
 
 Der am 16. April 2016 vorgelegte Entwurf des Pensionsgutachtens beinhaltete Rückstellungswerte sowohl für einen festen Gehaltstrend von 2 Prozent als auch für eine rückblickende Sieben-Jahres-Betrachtung, die mit Gehaltstrend von 2,44 Prozent zu einem Rückstellungsbedarf von 23,1 Milliarden Euro führen würde. Änderungen der VV Bilanzierung haben dadurch einen längeren zeitlichen Vorlauf, dass nach § 96 Landeshaushaltsordnung (LHO) vor Inkraftsetzung der Rechnungshof anzuhören ist.
 

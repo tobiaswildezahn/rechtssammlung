@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10116", "21/361"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53393"
@@ -87,7 +88,7 @@ Welchen Gesamtnotendurchschnitt haben die Schülerinnen und Schüler im diesjäh
 
 Sofern die für die Beantwortung der Fragen 1. bis 3. erforderlichen Daten aus der Soforterhebung noch nicht vorliegen sollten, wann werden diese vorliegen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Stichtag für die Erhebung der Abiturdurchschnittsnoten, der Anzahl der Einserabiture und der Durchfallquoten nach Abschluss aller Prüfungen an den nachgefragten Schulformen ist der 6. Juli 2016. Die Ergebnisse werden qualitätsgesichert kurz danach zur Verfügung stehen. Im Übrigen siehe Antwort zu 1.
 

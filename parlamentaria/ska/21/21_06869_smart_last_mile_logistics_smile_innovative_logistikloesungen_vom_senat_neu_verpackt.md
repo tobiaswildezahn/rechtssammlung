@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55452"
@@ -57,7 +58,7 @@ Was beinhaltet SMILE konkret? Wie kann und soll Hamburg zu einer Modellregion f�
 
 Welche konkreten Ziele sollen innerhalb welches Zeitrahmes erfüllt sein? a. Mit welchen konkreten Maßnahmen wird der Senat seine Ziele umsetzen? b. Welcher Zeitrahmen ist dafür vorgesehen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -95,33 +96,33 @@ In welcher Phase befinden sich die folgenden Lösungsansätze in der Logistik (z
 
 #### Antwort zu Frage 6
 
- Paketboxen in Wohngebieten
+– Paketboxen in Wohngebieten
 
 Derzeit laufen Testläufe von zwei Anbietern. Der großflächige Einsatz der verschiedenen Systeme soll, auch in Verbindung mit neuen Einlasssystemen bei Mehrparteien- Häusern, geprüft werden. Durch die Kombination bestehender Lösungen kann eine verbesserte Quote bei der Erstzustellung erreicht werden. Es soll zudem erarbeitet
 
 werden, inwiefern solche Systeme in die städtische Wohnquartierplanung integriert werden können.
 
- Kofferraum-Belieferung
+– Kofferraum-Belieferung
 
 Ein Pilotversuch ist derzeit in Prüfung.
 
- Angebote für die Nutzung von Mikro-Depots in Paket-Shops
+– Angebote für die Nutzung von Mikro-Depots in Paket-Shops
 
 Ein Anbieter hat die Testphase aktuell in drei Paketshops gestartet. Eine Erweiterung des Tests soll im Rahmen von SMILE überprüft werden. Aktuell sind auch weitere Anbieter in der Überlegung, dieses Konzept anzuwenden.
 
- Paketboxen im stationären Einzelhandel
+– Paketboxen im stationären Einzelhandel
 
 Die Logistik-Initiative Hamburg wird im Jahr 2017 die Akquirierung von Partnerinnen und Partner für dieses Projekt übernehmen.
 
- Elektrofahrzeuge und Flüssiggas-Lastwagen (LNG-Trucks)
+– Elektrofahrzeuge und Flüssiggas-Lastwagen (LNG-Trucks)
 
 Mehrere Paketdienstleister testen bereits E-Fahrzeuge in Hamburg. Weitere Dienstleister denken im Rahmen von SMILE darüber nach, Aktivitäten, die sie bislang in anderen deutschen Städten testen, auch in Hamburg auszuprobieren. In der Testphase werden hauptsächlich, Reichweiten und Kapazitäten erprobt. Im Verlauf von SMILE sollen auch Automobilhersteller einbezogen werden. Für größere Lieferfahrzeuge genügt die Elektromobilität noch nicht den Anforderungen. Daher soll es für die Belieferung des Handels und der Gastronomie Tests mit LNG-Fahrzeugen geben.
 
- Paket-Drohnen für feste Belieferungslinien von Punkt zu Punkt
+– Paket-Drohnen für feste Belieferungslinien von Punkt zu Punkt
 
 Ein Einsatz von Drohnen ist im urbanen Raum nur für Punkt-zu-Punkt- Spezialtransporte denkbar. Derzeit wird mit unterschiedlichen Beteiligten an einem Geschäftsmodell gearbeitet. Weiterhin ist die Logistik-Initiative Hamburg beteiligt an der Einwerbung von Fördermitteln beim Bundesministerium für Bildung und Forschung. Unter Federführung des ZAL Zentrum für angewandte Luftfahrtforschung GmbH und mit dem Cluster Hamburg Aviation als Partner wurde der Projektantrag „Wirtschaftliche Nutzung eines drohnenbasierten Luftverkehrssystems in einer Metropolregion (WinDroVe)“ eingereicht und befindet sich in der zweiten Antragsphase.
 
- Roboter-Zustellung
+– Roboter-Zustellung
 
 Paketroboter werden im Rahmen von SMILE von einem Paketdienstleister bis März des Jahres 2017 an drei Standorten in Hamburg getestet.
 

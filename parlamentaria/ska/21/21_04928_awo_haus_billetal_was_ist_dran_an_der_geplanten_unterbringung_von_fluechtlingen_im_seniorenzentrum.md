@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 23
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53363"
@@ -170,7 +171,7 @@ Welche aktuellen Überlegungen oder Planungen zur Unterbringung von Flüchtlinge
 
 Ist es geplant, „Flüchtlinge“ oder andere Gruppen im Haus Billetal unterzubringen? a. Wenn ja, wie viele von welcher Gruppe und für welchen Zeitraum jeweils? Bitte in absoluten Zahlen sowie nach Geschlecht und Alter als auch Herkunft und Religionszugehörigkeit aufführen. b. Zu welchem Zeitpunkt ist die Unterbringung geplant und wann soll diese beendet werden?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Antwort zu 2. bis 2. f.
 
@@ -182,7 +183,7 @@ Wie wollen der Senat beziehungsweise die zuständige Behörde den Interessen/Bed
 
 Wurden die Bewohner über eine geplante Unterbringung von Flüchtlingen jemals informiert? a. Wenn ja, von wem, wann und mit welchem Ergebnis jeweils? b. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Nach Auskunft der AWO wurden sowohl die Bewohnerinnen und Bewohner als auch die Mitarbeitenden umgehend nach eigener Kenntniserlangung durch die Geschäftsleitung/Einrichtungsleitung von den Überlegungen informiert. Der Wohnbeirat, das Gremium der Bewohner-/-innenvertretung, wurde vorab gesondert und ausführlich informiert. Die Informationen erfolgten mündlich und schriftlich. Im Ergebnis hat sich lediglich ein Angehöriger dagegen ausgesprochen, viele Bewohner/-innen und Mitarbeitende haben sich aktiv dafür ausgesprochen.
 

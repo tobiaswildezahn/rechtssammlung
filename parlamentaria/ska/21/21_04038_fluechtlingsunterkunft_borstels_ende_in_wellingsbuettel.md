@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3827", "21/3894"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52432"
@@ -84,6 +85,6 @@ Auf der Fläche sollen feste Gebäude, aber auch Container als Unterkunft dienen
 
 Handelt es sich um gekaufte Container oder sind sie gemietet? Wenn gemietet, dann von wem zu welchen Konditionen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Unterkunft befindet sich in einem angemieteten Gebäude, es gibt keine Container (siehe auch Antwort zu 1).

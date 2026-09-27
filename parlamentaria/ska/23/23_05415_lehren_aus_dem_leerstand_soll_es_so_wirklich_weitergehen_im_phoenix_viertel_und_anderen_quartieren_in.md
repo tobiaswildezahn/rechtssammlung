@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 24
 antwortbloecke: 0
 beantwortet: false
+status: "unbeantwortet"
 zitierte_drucksachen: ["23/2415"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105320"
@@ -27,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Birgit Stöver und André Trepoll (CDU) vom 17.09.26 und Antwort des Senats · Drucksache vom 17.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105320) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105320/23_05415_lehren_aus_dem_leerstand_soll_es_so_wirklich_weitergehen_im_phoenix_viertel_und_anderen_quartieren_in_harburg_ii)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

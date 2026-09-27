@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1812", "20/13284", "21/1938"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50363"
@@ -71,7 +72,7 @@ Auf wessen Veranlassung hin erfolgte der jeweilige Einsatz?
 
 Angehörige welcher Volksgruppen waren an den jeweiligen den Einsatz veranlassenden Vorkommnissen beteiligt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Statistische Daten im Sinne der Fragestellungen werden bei der Polizei nicht erhoben. Für die Beantwortung müssten zunächst sämtliche genannten Einsatzanlässe einzeln durchgesehen, verifiziert und anschließend daraus gegebenenfalls resultierende Vorgänge an den sachbearbeitenden Dienststellen im Sinne der Fragestellungen recherchiert und ausgewertet werden. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Im Übrigen siehe Drs. 20/13284 und Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 17
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/12322"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58087"
@@ -63,7 +64,7 @@ A) Wie viele Kindergeldberechtigte gibt es insgesamt in Hamburg? (Bitte aufschl�
 
 In welcher Höhe wurde Kindergeld an Personen in Hamburg, im EU- Ausland und Nicht-EU-Ausland ausgezahlt? (Bitte nach Land aufschlüsseln für die Jahre 2014 – 2017.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Entsprechende Angaben auf Grundlage der Statistik der Familienkasse der BA sind der Anlage zu entnehmen.
 
@@ -91,7 +92,7 @@ In welchem Umfang ist ein Anstieg von Leistungsmissbrauch „in organisierter Fo
 
 Welche Maßnahmen werden beziehungsweise wurden ergriffen, um die Bewilligung missbräuchlicher Kindergeldanträge auszuschließen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die zur Beantwortung der Fragen erforderlichen Daten werden nach Angaben der für Justiz zuständigen Behörde im Vorgangsverwaltungs- und Vorgangsbearbeitungssystem MESTA nicht zuverlässig erfasst. Hierzu gehören insbesondere der (ausländerrechtliche) Status eines Beschuldigten sowie die konkrete Art der Tatbegehung. Es
 

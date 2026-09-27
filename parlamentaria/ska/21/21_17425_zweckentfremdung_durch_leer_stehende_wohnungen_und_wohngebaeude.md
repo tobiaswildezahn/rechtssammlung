@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14114", "21/14113", "21/14505"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67008"
@@ -132,13 +133,13 @@ Die Verwaltungsverfahren dauern je nach Einzelfall unterschiedlich lang. In der 
 
 Eine Auswertung der Leerstandanzeigen aus 2018 im Bezirksamt Altona zeigte folgende Verteilung:
 
- 40 Prozent der Leerstände waren im gleichen Jahr beendet,
+– 40 Prozent der Leerstände waren im gleichen Jahr beendet,
 
- bei 43 Prozent der Leerstände liegt die Genehmigungsfiktion nach § 13 Absatz 3
+– bei 43 Prozent der Leerstände liegt die Genehmigungsfiktion nach § 13 Absatz 3
 
 HmbWoSchG vor,
 
- 16 Prozent der Leerstände bestehen weiterhin.
+– 16 Prozent der Leerstände bestehen weiterhin.
 
 Zu den Einzelfällen aus dem Bezirksamt Bergedorf: Siehe Anlage 1.
 

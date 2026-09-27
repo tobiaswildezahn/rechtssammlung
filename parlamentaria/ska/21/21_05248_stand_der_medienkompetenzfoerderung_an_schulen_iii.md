@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3267"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53772"
@@ -98,7 +99,7 @@ Hat die Planung für diese Veranstaltung ursprünglich eine Präsentation des Be
 
 Ist die Planung kurzfristig geändert und die Präsentation des Berichts verschoben worden? Wenn ja: aus welchen Gründen? Wenn nein: Was ist sonst mit dem Pressebericht gemeint?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die ursprüngliche Planung des Ablaufs der Abschlussveranstaltung sah den Tagesordnungspunkt Evaluationsergebnisse der Universität Hamburg vor. Die entsprechenden Evaluationsergebnisse lagen jedoch nur teilweise vor. Daher wurde der Ablauf der Abschlussveranstaltung geändert.
 

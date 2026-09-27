@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 1
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6956", "21/16"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48171"
@@ -59,7 +60,7 @@ Bitte die Zahlen unter 1. weiter differenzieren nach Sozialindex. Bitte ein zu 1
 
 Bitte die Zahlen entsprechend der Tabelle in der Drs. 20/6956 nach Stadtteilen (mit Nummer, nicht einzelne Schulen) differenzieren.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/16. An Sonderschulen und ReBBZ wurden seitens der Sorgeberechtigten keine Gymnasialempfehlungen vorgelegt.
 

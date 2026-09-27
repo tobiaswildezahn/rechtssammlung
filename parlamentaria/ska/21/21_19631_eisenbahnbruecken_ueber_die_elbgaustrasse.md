@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69372"
@@ -73,7 +74,7 @@ Welche Überlegungen gibt es, bei Neubauten die bisher zu niedrige Durchfahrtsh�
 
 Welche Überlegungen gibt es, dem Fußgänger- und Radverkehr mehr Platz im Bereich der Eisenbahnbrücken zu ermöglichen zum Beispiel durch einen parallelen Fußgänger- und Radverkehrstunnel?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Eisenbahnüberführungen über die Elbgaustraße unterliegen den Regelungen des Eisenbahnkreuzungsgesetzes (EKrG). Hiernach wird die Freie und Hansestadt Hamburg (FHH) in ihrer Funktion als Straßenbaulastträger bei konkret geplanten Neubauten und Erneuerungen von Eisenbahnüberführungen von der DB AG beteiligt und befragt, ob Wünsche hinsichtlich einer Veränderung der lichten Weite und/oder der lichten Höhe („Verlangen“) bestehen. Die Möglichkeiten einer entsprechenden Verän-
 

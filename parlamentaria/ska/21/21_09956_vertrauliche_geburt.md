@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/71", "21/158", "21/3674"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58775"
@@ -91,7 +92,7 @@ In wie vielen Fällen hat die Mutter das Kind nach der Geburt mitgenommen? Was p
 
 In wie vielen Fällen wurde später die Vertraulichkeit durch die Mutter aufgehoben?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 In drei Fällen wurden Frauen zur vertraulichen Geburt beraten, die Mütter haben nach der Geburt ihre Identität offengelegt und das Kind zu sich genommen. Bisher wurden alle vertraulich geborenen Kinder, bei denen es bei der Vertraulichkeit blieb, in Adoptionspflege vermittelt.
 

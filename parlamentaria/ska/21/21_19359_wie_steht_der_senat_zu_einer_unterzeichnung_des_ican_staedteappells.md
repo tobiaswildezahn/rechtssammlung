@@ -5,7 +5,7 @@ wahlperiode: 21
 id: 69074
 titel: "Wie steht der Senat zu einer Unterzeichnung des ICAN-Städteappells?"
 datum_anfrage: "2019-12-12"
-datum_drucksache: null
+datum_drucksache: "2019-12-20"
 urheber: ["Martin Dolzer"]
 fraktionen: ["Die Linke"]
 vorgang: 63026
@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 14
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/5638", "21/7491"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69074"
@@ -24,7 +25,7 @@ generator: "ska_archiv 1.0"
 
 # Drs. 21/19359: Wie steht der Senat zu einer Unterzeichnung des ICAN-Städteappells?
 
-> Schriftliche Kleine Anfrage und Antwort des Senats  
+> Schriftliche Kleine Anfrage des Abgeordneten Martin Dolzer (DIE LINKE) vom 12.12.19 und Antwort des Senats · Drucksache vom 20.12.2019  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/69074) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/69074/21_19359_wie_steht_der_senat_zu_einer_unterzeichnung_des_ican_staedteappells)
 
 ## Einleitung für die Fragen
@@ -86,6 +87,6 @@ in dieser Legislatur zu unterzeichnen?
 Wenn ja: wann?  
 Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Hiermit hat sich der Senat bisher nicht im Einzelnen befasst. Im Übrigen siehe Vorbemerkung.

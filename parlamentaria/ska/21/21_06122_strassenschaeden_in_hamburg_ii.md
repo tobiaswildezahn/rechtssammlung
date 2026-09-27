@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/746"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54645"
@@ -57,7 +58,7 @@ In welchen Straßen mussten seit dem Beantwortungszeitpunkt von Drs. 21/746 bis 
 
 Mussten aufgrund von Straßenschäden seit dem Beantwortungszeitpunkt von Drs. 21/746 bis heute Tempo-30-Schilder an Straßen aufgestellt werden? Wenn ja, in welchen Straßen jeweils, seit wann und für welche Dauer? (Bitte nach Bezirken aufschlüsseln.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage 1.
 

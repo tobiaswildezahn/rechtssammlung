@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6688", "21/4938"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58575"
@@ -80,7 +81,7 @@ Wie viele gehorsamsgeprüfte Hunde sind in Hamburg registriert?
 
 Wie viele Hunde sind von der Gehorsamsprüfung befreit und unter welchen Umständen können sie befreit werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Anzahl gehorsamsgeprüfter Hunde und die Anzahl der Befreiungen von der Gehorsamsprüfung werden statistisch nicht erfasst.
 
@@ -127,7 +128,7 @@ Wie fließen Naturschutzvorschriften in die Entscheidung zur Ausweisung von Hund
 
 Wie werden die Interessen des Wildtier- und Naturschutzes in die Bezirksentscheidungen über die Ausweisung von Hundefreilaufflächen eingebracht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Ausweisung von Hundefreilaufflächen erfolgt nach den Vorgaben der Globalrichtlinie zur Ausweisung von Hundeauslaufzonen. Rechtsgrundlage dieser Globalrichtlinie sind § 8 Absatz 3 und § 9 Absatz 3 Sätze 2 und 5 des Hamburgischen HundeG in Verbindung mit § 46 des Bezirksverwaltungsgesetzes (BezVG).
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14568"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50821"
@@ -45,7 +46,7 @@ Im Baugenehmigungsbescheid aus dem Jahr 1987 wurde nach der endgültigen Fertigs
 a) Wann hat diese stattgefunden?
 b) Mit welchem Ergebnis?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Diese Fragen können ohne das Vorliegen der Grundstücksakte, die sich beim Verwaltungsgericht befindet, nicht beantwortet werden.
 

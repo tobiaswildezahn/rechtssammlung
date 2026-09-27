@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15130", "21/18882", "21/11192", "21/15153", "21/17719", "21/18161"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68742"
@@ -142,7 +143,7 @@ Medienberichten zufolge sind in diesem Winter bereits drei obdachlose Menschen a
 
 Gibt es nach Erachten des Senats einen Zusammenhang zwischen den Witterungsbedingungen und den auf der Straße verstorbenen Menschen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Nach dem bisher vorliegenden Informationsstand bestand zumindest in einem der beiden Hamburger Fälle ein intensiver Kontakt mit dem Hamburger Hilfesystem und es wurde mehrfach darauf hingewiesen, das Winternotprogramm zu nutzen. Ob die betroffenen Personen in den letzten Wintern die Angebote des Winternotprogramms genutzt haben, ist vor dem Hintergrund der Niedrigschwelligkeit und weitgehenden Anonymität beziehungsweise Pseudonymität im Winternotprogramm nicht bekannt, siehe hierzu Drs. 21/15130 sowie Drs. 21/18882.
 
@@ -156,7 +157,7 @@ Wie bewertet der Senat die Forderung nach einer ganztägigen Öffnung des Winter
 
 Wie bewertet der Senat die Forderung, eine geringere Anzahl an Plätzen des Winternotprogramms bereits im Oktober und bis Ende April zur Verfügung zu stellen, um weitere Kältetote zu verhindern?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Zu der Konzeption des Winternotprogramms und dessen Rolle als Teil des Gesamthilfesystems für obdachlose Menschen einschließlich des getrennten Nacht- und Tagesaufenthalts hat sich der Senat mehrfach geäußert, siehe zuletzt etwa Drs. 21/11192, Drs. 21/15153 sowie https://www.hamburg.de/winternotprogramm-obdachlose/ 10327604/tagesoeffnung/.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6800"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58523"
@@ -296,7 +297,7 @@ Sind bereits Nutzer/Vereine der Sportanlagen auf die Fachbehörde zugekommen und
 
 Sieht der Senat beziehungsweise die zuständige Behörde die vorhandenen Eiszeiten als ausreichend an?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die zuständige Fachbehörde steht im regelhaften Austausch mit dem Fachverband für den Eissport in Hamburg. Der Hamburger Eis- und Rollsportverband (HERV) legt jährlich die Bedarfe der Vereine für die neue Eissaison vor. Hierüber hinaus sind keine weiteren Bedarfe bekannt.
 

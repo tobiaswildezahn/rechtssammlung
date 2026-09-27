@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10579", "21/9383"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60939"
@@ -105,25 +106,25 @@ Wie ist beziehungsweise wird der CDO der BWVI in die folgenden Projekte und Vorh
 
 #### Antwort zu Frage 7
 
- flächendeckender Breitbandausbau?
+– flächendeckender Breitbandausbau?
 
- Breitbandausbau im Hafen?
+– Breitbandausbau im Hafen?
 
- Projekte im Rahmen von smartPORT logistics und smartPORT ener-
+– Projekte im Rahmen von smartPORT logistics und smartPORT ener-
 
 gy?
 
- Chain PORT?
+– Chain PORT?
 
- Digital Hub Logistics?
+– Digital Hub Logistics?
 
- Smart Last Mile Logistics (SMILE)?
+– Smart Last Mile Logistics (SMILE)?
 
- 3-D-Druckstrategie des Senats?
+– 3-D-Druckstrategie des Senats?
 
- wissensbasierte Gründerplattform?
+– wissensbasierte Gründerplattform?
 
- Strategie Digitale Stadt Hamburg?
+– Strategie Digitale Stadt Hamburg?
 
 Wenn ja, wie genau?
 

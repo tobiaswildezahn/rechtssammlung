@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50278"
@@ -90,11 +91,11 @@ Wie viele Anträge beziehungsweise Sachverhalte zur Überprüfung von Hamburger 
 
 Anträge zur Prüfung von Grundstücken auf Kampfmittelverdacht werden durch das Referat Gefahrenerkundung Kampfmittelverdacht bearbeitet. Es wurde die nachfolgende Anzahl von Anträgen bearbeitet:
 
- Januar 2013 – 31. Dezember 2013: 8.752 Anträge
+– Januar 2013 – 31. Dezember 2013: 8.752 Anträge
 
- Januar 2014 – 31. Dezember 2014: 8.863 Anträge
+– Januar 2014 – 31. Dezember 2014: 8.863 Anträge
 
- Januar 2015 – 30. September 2015: 7.991 Anträge
+– Januar 2015 – 30. September 2015: 7.991 Anträge
 
 ### Frage 5
 

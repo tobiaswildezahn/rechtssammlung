@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3489", "21/4121", "20/14486"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52628"
@@ -49,7 +50,7 @@ Wie viele Wohnungen beziehungsweise Wohneinheiten sollen auf dem Grundstück ent
 
 Wie setzt sich die Reduzierung des Kaufpreises um 4,2 Millionen zusammen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung und Drs. 21/3489.
 

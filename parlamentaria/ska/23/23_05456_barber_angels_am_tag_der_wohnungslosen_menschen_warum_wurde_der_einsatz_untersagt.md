@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 0
 beantwortet: false
+status: "unbeantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105363"
@@ -27,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Andreas Grutzeck (CDU) vom 23.09.26 und Antwort des Senats · Drucksache vom 23.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105363) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105363/23_05456_barber_angels_am_tag_der_wohnungslosen_menschen_warum_wurde_der_einsatz_untersagt)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

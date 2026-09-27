@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 18
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18932"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69963"
@@ -54,7 +55,7 @@ Was ist seit November passiert, um die Schiller-Oper abzusichern und „über de
 2.2 Wann und an wen sind die betreffenden Aufträge mit welchen inhaltlichen und zeitlichen Vorgaben vergeben worden?
 2.3 Wann ist mit den Sicherungsmaßnahmen begonnen worden? Sollte das noch nicht geschehen sein, warum nicht? Und wann ist damit zu rechnen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

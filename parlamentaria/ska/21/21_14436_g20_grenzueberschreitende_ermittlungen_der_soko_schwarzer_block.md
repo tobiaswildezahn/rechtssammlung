@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 14
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13507", "21/12897", "21/14356", "21/13939"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63875"
@@ -103,7 +104,7 @@ Welche rechtlichen Einstufung (in Frankreich etwa „freie Vernehmung“ beziehu
 
 Inwiefern wurden den Betroffenen bei den Verhören oder Vernehmungen wie vorgeschrieben ein Rechtsbeistand und vereidigte Dolmetscher beigestellt und in welchen Fällen wurde dies unterlassen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Drs. 21/13507 und Antworten zu 1. und 3. Maßnahmen im Ausland müssen stets auch die dort geltenden rechtlichen Regelungen beachtet werden.
 

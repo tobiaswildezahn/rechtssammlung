@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54427"
@@ -49,7 +50,7 @@ Welche Veranstaltungen gab es in den Jahren 2013 – 2015 rund um den Welttag de
 
 Von wem wurden diese Veranstaltungen jeweils organisiert und finanziert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die in Hamburg rund um den Welttag der seelischen Gesundheit durchgeführten Veranstaltungen werden von der zuständigen Behörde nicht im Einzelnen erfasst und dokumentiert. Auf Nachfrage haben Fachbehörden und Bezirke über folgende Veranstaltungsangebote informiert:
 
@@ -91,7 +92,7 @@ Welche Veranstaltungen finden in diesem Jahr rund um den Welttag in Hamburg stat
 
 Wer organisiert und finanziert diese Veranstaltungen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Im Jahr 2016 wird im Bezirk Altona folgende Veranstaltung angeboten:
 

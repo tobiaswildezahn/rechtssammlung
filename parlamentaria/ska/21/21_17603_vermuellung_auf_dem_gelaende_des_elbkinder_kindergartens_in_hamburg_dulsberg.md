@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67191"
@@ -49,7 +50,7 @@ Wer ist für die Reinigung des Geländes des „Elbkinder Kindergartens“ zust�
 
 Wie regelmäßig ist das Gelände seitens des Trägers zu reinigen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Kita-Leitungen sind für die Reinigung des Geländes verantwortlich. Bei Heckenoder Baumschnitt ist die Bauabteilung von Elbkinder beteiligt. Der Träger macht dazu keine Vorgaben. Im Übrigen siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11501", "21/14942", "21/15104", "21/16338", "21/16313"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65982"
@@ -55,7 +56,7 @@ An welchen Schulen existieren die zusätzlichen Raumkapazitäten im Gebiet Alton
 
 Die regionale Schulaufsicht für Altona-Kern prognostiziert von 2017 bis zum Jahr 2025 insgesamt 23 zusätzliche Züge an den Grundschulen in Altona-Kern. Wie viele Züge gibt es aktuell (Schuljahr 2018/2019) in der Region?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 An einer Vielzahl von Schulen in Hamburg bestehen Raumreserven, insbesondere an Grundschulen in ehemaligen Grund-, Haupt- und Realschulgebäuden. Diese Raumreserven sind im SEPL nicht aufgeführt, weil der SEPL Ziele hinsichtlich der Schülerentwicklung darstellt, nicht aber bestehende Raumkapazitäten. So wurden in der Region 4 zum laufenden Schuljahr 2018/2019 54 erste Klassen eingerichtet. Unter Nutzung bestehender Raumkapazitäten an Schulen wurden damit bereits zehn Züge mehr eingerichtet als im SEPL 2012 für die Region vermerkt war.
 

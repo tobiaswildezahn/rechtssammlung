@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9732", "21/10897"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61612"
@@ -45,7 +46,7 @@ Wie viele Flüchtlinge sind aktuell auf der „Transit“ untergebracht?
 
 Wie viele Flüchtlinge waren im Monatsdurchschnitt seit August 2017 auf der „Transit“ untergebracht? (Bitte monatsweise aufschlüsseln.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Monat  
 Belegung  

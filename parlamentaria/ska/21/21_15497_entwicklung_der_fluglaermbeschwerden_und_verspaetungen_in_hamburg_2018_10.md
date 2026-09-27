@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14966", "21/10688", "21/14477"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64965"
@@ -191,7 +192,7 @@ Wie viele An- und Abflüge gab es im Monat November 2018 und für das Gesamtjahr
 
 Wie viele An- und Abflüge gab es im Monat November 2018 und für das Gesamtjahr 2018 insgesamt am Hamburger Flughafen und wie haben sich diese auf die einzelnen Start- und Landebahnen verteilt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Starts
 
@@ -243,7 +244,7 @@ Wurde der vorgeschriebene Bahnwechsel (für die Bahn 05/23 Lemsahl- Poppenbütte
 
 Welche Gründe wurden für die Nichtbeachtung der Bahnbenutzungsregel 2.3 im Jahr 2018 angeführt? Bitte Nächteweise angeben.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Zur Auswahl der Betriebspisten siehe Vorbemerkung.
 
@@ -326,13 +327,13 @@ Wie viele Landungen fanden bisher im Jahr 2018 über die Landebahn RWY23 statt? 
 
 #### Antwort zu Frage 12
 
- 7 – 22 Uhr,
+– 7 – 22 Uhr,
 
- 22 – 23 Uhr,
+– 22 – 23 Uhr,
 
- 23 – 6 Uhr,
+– 23 – 6 Uhr,
 
- 6 – 7 Uhr.
+– 6 – 7 Uhr.
 
 Landungen RWY 23  
 Januar – November 2018  

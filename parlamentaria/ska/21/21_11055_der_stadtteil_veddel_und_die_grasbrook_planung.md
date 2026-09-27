@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60002"
@@ -69,7 +70,7 @@ Welche bisher geplanten Maßnahmen auf der Veddel sind abhängig von der weitere
 
 Welchen Einfluss haben die Überlegungen für den neuen Stadtteil Grasbrook auf die bisherige Planung für den Veddeler Norden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Aufgrund der räumlichen Nähe wird die städtebauliche Entwicklung der Flächen auf dem Kleinen Grasbrook positive Auswirkungen auf die gesamte Veddel haben. Im Übrigen siehe Vorbemerkung.
 

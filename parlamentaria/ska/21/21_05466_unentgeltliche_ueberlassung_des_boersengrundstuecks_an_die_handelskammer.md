@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 26
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/2865", "20/2653", "20/2733", "20/2944", "18/3426"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53957"
@@ -103,7 +104,7 @@ Trifft es zu, dass die Handelskammer Hamburg das Gebäude am Adolphsplatz/Große
 
 Welche Nutzflächen des Gebäudekomplexes Adolphsplatz/Große Johannisstraße/Alter Wall werden nach Auffassung des Senats zweifellos zur Erfüllung der Kammer-Aufgaben genutzt? Bitte um Benennung der Nutzfläche inklusive Quadratmeter.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die gesamte Fläche mit Ausnahme der 475,4 m² die an die Freie und Hansestadt Hamburg für das Hamburg Welcome Center vermietet wurden. Im Übrigen siehe Antwort zu 1. und Drs. 20/2865.
 

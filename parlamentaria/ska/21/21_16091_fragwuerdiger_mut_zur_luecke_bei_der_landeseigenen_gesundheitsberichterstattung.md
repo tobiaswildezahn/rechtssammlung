@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65597"
@@ -51,7 +52,7 @@ Welche landeseigenen Gesundheitsberichte hat die zuständige Behörde mit gegebe
 
 Welche landeseigenen Gesundheitsberichte hat die zuständige Behörde mit gegebenenfalls welchen Kooperationspartnern seit 2011 bis heute herausgebracht? Bitte jahresweise aufschlüsseln und etwaige Kooperationspartner benennen. Jahr Titel Kooperationspartner
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 2002  
 ./.  

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4967", "21/8569"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61459"
@@ -78,7 +79,7 @@ Wie viele Strafverfahren gegen Polizeibedienstete wegen Körperverletzung im Amt
 Wie viele Strafverfahren sind gegen Polizeibedienstete wegen Körperverletzung im Amt jeweils in den drei Quartalen vom 31. März 2017 bis
 31. Dezember 2017 aufgrund welcher Sachverhalte mit welchen Verfahrensausgängen zu welchem Zeitpunkt abgeschlossen worden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Eine Einzelauskunft zu den Sachverhalten, die den einzelnen Verfahren zugrunde liegen, erfordert eine händischen Auswertung der Verfahrensakten sowie die Erstellung einer Sachverhaltszusammenfassung in jedem Einzelfall. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

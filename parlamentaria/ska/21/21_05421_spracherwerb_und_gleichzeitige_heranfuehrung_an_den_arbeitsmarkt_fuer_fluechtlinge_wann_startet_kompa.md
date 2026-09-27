@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 10
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5293"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53908"
@@ -47,7 +48,7 @@ Mit wie vielen Plätzen startet KompAS zum 1. August 2016? Wie viele der Plätze
 
 Welche Stelle (W.I.R, Jobcenter, Arbeitsagentur oder andere) hat die teilnehmenden Flüchtlinge in das Projekt vermittelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Zuweisungen der Teilnehmer und Teilnehmerinnen erfolgen durch Jobcenter und Agentur für Arbeit Hamburg.
 
@@ -61,7 +62,7 @@ Wie sieht jeweils das Konzept der beiden zugelassenen Träger DAA und KOM aus? W
 
 Wie viele Betriebe nehmen derzeit an dem Projekt teil? Aus welchen Branchen stammen diese? Welche Vorteile haben diese durch ihre Teilnahme, welche Nachteile?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Zu den Konzepten der beiden zugelassenen Bildungsträger können keine Angaben gemacht werden, da es sich hierbei um Daten handelt, die als Geschäftsgeheimnis der Träger dem Betriebsdatenschutz unterliegen.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1976"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51923"
@@ -67,7 +68,7 @@ Welche Verkehrsbeeinträchtigungen wird es durch den Austausch der Brücken jewe
 
 Wie sieht das Verkehrskonzept für die Dauer des Austausches der Brücken aus? Wird es dabei zu einer Verschwenkung und/oder Reduzierung von Fahrbahnen kommen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nach derzeitigem Stand sollen während der Brückenbauarbeiten je Fahrtrichtung drei Fahrstreifen aufrechterhalten werden. Der genaue Bauablaufplan wird derzeit noch erarbeitet.
 

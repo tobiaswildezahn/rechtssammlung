@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69409"
@@ -63,6 +64,6 @@ Wurden für die bisherige Exploration einer Bewerbung Landesmittel verwendet? Fa
 
 Welche direkten Auswirkungen hat die Entscheidung gegen eine Kandidatur für die Sportstadt Hamburg?
 
-#### Antwort zu Fragen 1, 2, 4
+#### Antwort zu Fragen 1, 2 und 4
 
 Siehe Vorbemerkung.

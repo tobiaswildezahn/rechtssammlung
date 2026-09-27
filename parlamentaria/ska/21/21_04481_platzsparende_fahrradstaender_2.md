@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4020", "20/14485"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52884"
@@ -67,11 +68,11 @@ Welche Vorschriften regeln die Aufstellung von Fahrradständern? Was besagen die
 
 Folgende Vorschriften gelten für die Aufstellung von Fahrradabstellanlagen:
 
- B+R-Entwicklungskonzept (Drs. 20/14485)
+– B+R-Entwicklungskonzept (Drs. 20/14485)
 
- Planungshinweise für Stadtstraßen (PLAST)
+– Planungshinweise für Stadtstraßen (PLAST)
 
- Empfehlungen für Radverkehrsanlagen (ERA 2010) der Forschungsgesellschaft
+– Empfehlungen für Radverkehrsanlagen (ERA 2010) der Forschungsgesellschaft
 
 für Straßen- und Verkehrswesen (FGSV)
 

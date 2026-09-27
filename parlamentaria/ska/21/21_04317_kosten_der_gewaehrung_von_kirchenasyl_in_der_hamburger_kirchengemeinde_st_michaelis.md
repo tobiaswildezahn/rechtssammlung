@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 23
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1683", "21/4185"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52719"
@@ -51,7 +52,7 @@ Wann und durch wen erhielt der Senat Kenntnis von der oben genannten „Hilfelei
 
 Wurde dem Senat die „Hilfeleistung“ als Kirchenasyl seitens der Gemeinde St. Michaelis bekanntgegeben? a. Falls ja, lag dem ein Beschluss des Kirchengemeinderates zugrunde und wurde auch dieser dem Senat bekannt gegeben? b. Falls nein, als was wurde sie dem Senat gegenüber bezeichnet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

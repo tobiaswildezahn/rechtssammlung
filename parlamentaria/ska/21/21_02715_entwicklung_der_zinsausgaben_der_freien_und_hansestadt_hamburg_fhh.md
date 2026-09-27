@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 19
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1395", "21/2107", "21/1855", "19/4580", "19/8209", "20/2510", "20/6286", "20/10091", "20/13300", "21/2438"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51051"
@@ -57,7 +58,7 @@ Wie hoch liegt der gewichtete Durchschnittszins der im vergangenen Jahr neu aufg
 
 Welche durchschnittliche Laufzeit hatten beziehungsweise haben die im jeweiligen Jahr neu aufgenommenen Deckungskredite der FHH und ihrer Sondervermögen in den Jahren seit 2008? (Bitte jahresweise auflisten.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Gewichteter Durchschnittszins
 

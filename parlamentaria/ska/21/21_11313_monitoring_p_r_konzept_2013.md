@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 21
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10211", "20/14501", "21/9783", "20/9662"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60306"
@@ -53,7 +54,7 @@ Gemäß dem P+R Entwicklungskonzept sollten bis heute der Neubau beziehungsweise
 
 Wann wurden die betreffenden Anlagen in Betrieb genommen und wie viele zusätzliche Stellplätze wurden damit geschaffen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die neu errichtete P+R-Anlage Poppenbüttel (Stormarnplatz) wurde zum 1. Oktober 2016 mit 355 Kfz-Stellplätzen in Betrieb genommen. Zuvor hatte die Kapazität 147 Kfz-Stellplätze betragen, sodass 208 zusätzliche Stellplätze geschaffen wurden.
 
@@ -93,7 +94,7 @@ Gleichfalls sollte innerhalb von vier Jahren die Optimierung der Wegweisung (geg
 
 An welchen Anlagen wurde eine dynamische Wegweisung (zum Beispiel an Autobahnabfahrten) realisiert? Wenn nein: Wird eine dynamische Wegeweisung nicht mehr für erforderlich gehalten?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Im Zuge der Einführung des Qualitätsstandards wurden die örtlichen Beschilderungen verbessert. Dies betrifft insbesondere die Installation dynamischer Belegungsinformationen im Zufahrtsbereich der P+R-Anlagen. An den Standorten Langenhorn Nord, Fuhlsbüttel, Ohlsdorf, Poppenbüttel (Parkhaus und Parkplatz), Trabrennbahn, Klein Flottbek, Neuwiedenthal (Parkplatz) und Berne wurden Frei-/Besetzt-Anzeiger neu installiert. An den Standorten Poppenbüttel (Parkhaus), Klein Flottbek, Bahrenfeld und Berne wurden Anzeiger mit Angabe der Stellplatz-Restkapazität installiert.
 
@@ -129,7 +130,7 @@ Sind über das Entwicklungskonzept hinaus, Überlegungen gereift, zum Beispiel a
 
 Langfristig sollen laut Entwicklungskonzept über die kurz- und mittelfristigen Ausbaustufen hinaus weitere 1.500 P+R-Stellplätze geschaffen werden beziehungsweise abhängig vom Bau der Schnellbahnlinien S21 und S4 noch weitere 1.000 Stellplätze. Die Entscheidungen zum Bau der Bahnstrecken sind mittlerweile getroffen: an welchen Bahnstationen sind die zusätzlichen P+R-Plätze vorgesehen?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Machbarkeitsuntersuchung zu den technisch/baulichen Bedingungen für den Neuoder Ausbau von P+R-Anlagen beinhaltet mit den Standorten Tonndorf und Hörgensweg zwei Haltestellen, an denen derzeit eine Ausweitung des Schnellbahnangebotes (S4 beziehungsweise S21) geplant wird.
 
@@ -165,23 +166,23 @@ Wird das P+R-Entwicklungskonzept von 2013 angesichts der oben gegebenen Antworte
 
 Inzwischen konnten wesentliche Arbeitsaufträge aus dem geltenden P+R- Entwicklungskonzept abgearbeitet beziehungsweise Schritte für weitergehende Entscheidungen vorbereitet werden. Die in Drs. 20/9662 genannten Maßnahmen wurden damit größtenteils umgesetzt beziehungsweise zur weiteren Planung vorbereitet:
 
- Die P+R-Betriebsgesellschaft wurde als einheitlicher Betreiber etabliert und hat
+– Die P+R-Betriebsgesellschaft wurde als einheitlicher Betreiber etabliert und hat
 
 inzwischen die meisten der zur Übernahme vorgesehenen P+R-Anlagen der Bezirke übernommen beziehungsweise wird diese kurzfristig übernehmen.
 
- Die P+R-Entgelterhebung wird zusammen mit dem definierten Qualitätsstandard
+– Die P+R-Entgelterhebung wird zusammen mit dem definierten Qualitätsstandard
 
 mit Beginn des Jahres 2018 auf 26 Anlagen eingeführt sein. Qualitätsstandard und Entgelterhebung müssen damit lediglich noch auf einzelnen bezirklichen Anlagen mit erhöhten Planungs- beziehungsweise Bauaufwendungen beziehungsweise Anlagen die zur öffentlich-rechtlichen Unterbringung genutzt werden, eingeführt werden. Die entsprechenden Planungen laufen bereits.
 
- Mit der in Planung befindlichen Erweiterung der Anlage Harburg wurde ein Projekt
+– Mit der in Planung befindlichen Erweiterung der Anlage Harburg wurde ein Projekt
 
 zur Stellplatzerweiterung konkret angeschoben.
 
- Die Erweiterung des P+R-Angebotes und die Flankierung mit einem Wegwei-
+– Die Erweiterung des P+R-Angebotes und die Flankierung mit einem Wegwei-
 
 sungssystem werden in entsprechenden Studien untersucht. Die Ergebnisse werden voraussichtlich im 1. Quartal 2018 vorliegen. Damit wurde die Grundlage für Entscheidungen zum weiteren Ausbau des P+R-Systems in Hamburg im Jahr 2018 gelegt.
 
- Die Kundeninformation zum Thema P+R wurde ausgebaut. Ab dem ersten Quartal
+– Die Kundeninformation zum Thema P+R wurde ausgebaut. Ab dem ersten Quartal
 
 des Jahres 2018 werden die Belegungsdaten vieler Anlagen per Echtzeitabruf zur Verfügung stehen.
 

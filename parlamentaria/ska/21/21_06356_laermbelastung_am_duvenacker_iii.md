@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6254", "21/5746"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54886"
@@ -67,7 +68,7 @@ Wie hoch werden die Baukosten insgesamt und pro Quadratmeter Geschossfläche ang
 
 Wie hoch liegen die durchschnittlichen Baukosten pro Quadratmeter Geschossfläche bei anderen aktuell laufenden Vorhaben des Bauträgers?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Diese Frage berührt Betriebs- und Geschäftsgeheimnisse der HIG, weshalb hierzu keine Aussagen gemacht werden.
 

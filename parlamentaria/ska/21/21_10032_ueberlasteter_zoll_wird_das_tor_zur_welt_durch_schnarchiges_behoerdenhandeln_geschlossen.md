@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58847"
@@ -57,7 +58,7 @@ Wie lange ist derzeit die durchschnittliche Bearbeitungszeit je Zollanmeldung in
 
 Wie hat sich die durchschnittliche Bearbeitungszeit je Zollanmeldung in den Jahren 2011 bis 2016 entwickelt (bitte je nach Hamburger Zollamt gegliedert anführen)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine Ermittlung durchschnittlicher Bearbeitungszeiten aller Anmeldungen eines größeren Zeitraums ist im IT-Verfahren ATLAS nicht möglich. Im Übrigen siehe Vorbemerkung.
 

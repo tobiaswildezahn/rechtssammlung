@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9322"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63089"
@@ -49,7 +50,7 @@ Wie viele öffentliche Pkw-Park- und -Stellplätze gibt es aktuell im Umfeld des
 
 Wie hat sich die Zahl der öffentlichen Pkw-Park- und -Stellplätze im Umfeld des Tierparks Hagenbeck seit 2011 entwickelt? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Daten im Sinne der Fragestellung werden nicht erhoben. Im Übrigen siehe Drs. 21/9322.
 

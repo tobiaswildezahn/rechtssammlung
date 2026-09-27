@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10994", "21/4174", "21/10281", "21/9053", "21/4035", "21/13288", "21/11794", "21/19491", "21/16268", "21/14950", "21/11156"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70071"
@@ -104,6 +105,6 @@ Welche Schritte hat der Senat seit November 2012 unternommen, um die islamischen
 
 Wie haben die Vertreter der islamischen Religionsgemeinschaften darauf reagiert und welche Initiativen haben sie daraufhin ergriffen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Drs. 21/19491, 21/16268, 21/14950 und 21/11156.

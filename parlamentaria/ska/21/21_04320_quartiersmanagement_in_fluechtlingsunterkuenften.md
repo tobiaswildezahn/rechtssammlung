@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 25
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3225"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52722"
@@ -51,21 +52,21 @@ Welchem Zweck soll die Software konkret dienen?
 
 Die Software QMM erfüllt folgende Aufgaben:
 
- Schaffung einer zentralen Lösung für das Belegungsmanagement,
+– Schaffung einer zentralen Lösung für das Belegungsmanagement,
 
- Sicherstellung einer leistungsfähigen Verwaltung der Hamburger Flüchtlingsunter-
+– Sicherstellung einer leistungsfähigen Verwaltung der Hamburger Flüchtlingsunter-
 
 künfte,
 
- Gewährleistung der Zugangssicherung zu den Unterkünften (nur mit der Chipkarte
+– Gewährleistung der Zugangssicherung zu den Unterkünften (nur mit der Chipkarte
 
 wird Zugang durch das Sicherheitspersonal gewährt),
 
- Verbesserung der Transparenz der Flüchtlingszahlen (Zugangs-, Bestands-, Aus-
+– Verbesserung der Transparenz der Flüchtlingszahlen (Zugangs-, Bestands-, Aus-
 
 zugszahlen in den Erstaufnahmeeinrichtungen),
 
- Unterstützung in Notfallsituationen (Überprüfbarkeit aktueller Anwesenheiten in der
+– Unterstützung in Notfallsituationen (Überprüfbarkeit aktueller Anwesenheiten in der
 
 Einrichtung).
 
@@ -202,7 +203,7 @@ Welche Kosten sind/waren mit der Einführung und Beschaffung des Systems insgesa
 
 Welche Kosten werden/sind mit der Wartung und dem Betrieb des Systems verbunden?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Siehe Drs. 21/3225.
 

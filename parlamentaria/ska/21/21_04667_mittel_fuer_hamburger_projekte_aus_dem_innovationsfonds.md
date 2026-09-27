@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53090"
@@ -100,6 +101,6 @@ Für wie viele Projekte wurde bereits eine Förderung zugesagt?
 
 Für wie viele Hamburger Projekte wurde bereits eine Förderung zugesagt? Bitte jeweils die Fördersumme angeben.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Antwort zu 3.

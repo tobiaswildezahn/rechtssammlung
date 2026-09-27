@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 55028
 seiten: 3
 fragen: 10
-einzelfragen: 13
-antwortbloecke: 9
+einzelfragen: 16
+antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6674", "21/7178", "21/8609", "21/10815"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60163"
@@ -75,7 +76,7 @@ Welche Objekte des GMV-Portfolios sollen aus welchen Gründen an andere Erwerber
 
 Für welche Objekte des GMV-Portfolios schließt der Senat aus welchen Gründen eine Veräußerung aus?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Grundsätzlich werden alle Immobilien des Generalmietvertrags regelmäßig auf ihre Entwicklungspotentiale (zum Beispiel Wohnungsbaupotenziale, Gewerbeflächenentwicklung, Ausgleichs- und Grünflächenentwicklungen) überprüft und bewertet. Im Übrigen siehe Antwort zu 3.
 
@@ -106,17 +107,28 @@ Siehe Anlage.
 ### Frage 10
 
 Gemäß Angaben in Drs. 21/10815 wurden im Juni 2017 die Bezirke an der Abstimmung eines Drucksachenentwurfs „Optima – Veräußerung der ersten Immobilientranche an die SpriG“ beteiligt.
-10.1. Wurde diese Drucksache vom Senat beschlossen? Wenn ja, mit welchen wesentlichen Eckpunkten? Wenn nein, warum nicht und wann soll ein Beschluss erfolgen?
 
-#### Antwort zu Frage 10
+### Frage 10.1
+
+Wurde diese Drucksache vom Senat beschlossen? Wenn ja, mit welchen wesentlichen Eckpunkten? Wenn nein, warum nicht und wann soll ein Beschluss erfolgen?
+
+#### Antwort zu Fragen 10 und 10.1
 
 Siehe Antwort zu 3.
 
-10.2. Welche Stellungnahmen gab es von den Bezirken im Einzelnen zu dieser Drucksache und in welcher Form wurden die Stellungnahmen berücksichtigt?
+### Frage 10.2
+
+Welche Stellungnahmen gab es von den Bezirken im Einzelnen zu dieser Drucksache und in welcher Form wurden die Stellungnahmen berücksichtigt?
+
+#### Antwort zu Frage 10.2
 
 Der Senat sieht in ständiger Praxis grundsätzlich davon ab, die Position einzelner Behörden oder Bezirks- und Senatsämter im behördeninternen Abstimmungsverfahren zur Vorbereitung von Senatsentscheidungen darzustellen.
 
-10.3. Aus welchen Gründen und nach welchen Kriterien wurden die Immobilien auf unterschiedliche Tranchen aufgeteilt? Welche Objekte sind Gegenstand der ersten Tranche und wie viele weitere Tranchen sind geplant?
+### Frage 10.3
+
+Aus welchen Gründen und nach welchen Kriterien wurden die Immobilien auf unterschiedliche Tranchen aufgeteilt? Welche Objekte sind Gegenstand der ersten Tranche und wie viele weitere Tranchen sind geplant?
+
+#### Antwort zu Frage 10.3
 
 Weil die Übertragung sonst als zu umfangreich beziehungsweise komplex eingeschätzt wurde. Im Übrigen siehe Antwort zu 3.
 

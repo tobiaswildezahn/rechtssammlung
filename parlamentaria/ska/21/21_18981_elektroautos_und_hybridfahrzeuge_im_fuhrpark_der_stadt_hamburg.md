@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7454"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68669"
@@ -55,7 +56,7 @@ Wie viele motorgetriebene Fahrzeuge befinden sich im Fuhrpark des Senats, der La
 
 Welche Antriebsarten haben diese Fahrzeuge (Elektromotor, Hybridantrieb, Benzinmotor, Dieselmotor)? Bitte angeben, welchen Anteil die jeweilige Antriebsart an den Fahrzeugen der einzelnen Stellen hat.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zu den vom LBV erhobenen Fahrzeugdaten (ohne Polizei, Feuerwehr und Senat – Stichtag 01.11.2019) siehe Anlage 1.
 
@@ -178,11 +179,11 @@ Wurden Angebote aus dem E-Mobil-Bereich eingeholt? Wenn ja, wie fielen die Unter
 
 Ja, es wurden Angebote aus dem E-Mobil-Bereich eingeholt. Zum Vergleich der Unterhaltskosten wird folgendes Beispiel angeführt:
 
- VW Polo mit Verbrennermotor pro Monat= 190,00 Euro Leasing + 8,66 Euro Steu-
+– VW Polo mit Verbrennermotor pro Monat= 190,00 Euro Leasing + 8,66 Euro Steu-
 
 er + 22,74 Euro Spritkosten = 221,40 Euro (2 656,80 Euro im Jahr)
 
- Renault ZOE mit E-Motor pro Monat= 247,66 Euro Leasing + 0,00 Euro Steuer +
+– Renault ZOE mit E-Motor pro Monat= 247,66 Euro Leasing + 0,00 Euro Steuer +
 
 10,73 Euro Stromkosten = 258,39 Euro (3 100,68 Euro im Jahr)
 

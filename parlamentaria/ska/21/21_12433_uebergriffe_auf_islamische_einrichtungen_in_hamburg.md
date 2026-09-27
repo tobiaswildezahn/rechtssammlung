@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3165", "21/434"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61726"
@@ -69,7 +70,7 @@ In wie vielen Fällen hat es laut Kenntnis des Senats Drohungen gegen islamische
 
 Wie viele Fälle sind dem Senat bekannt, bei denen es zu öffentlichen Aufrufen zu Gewalt gegen islamische Einrichtungen gekommen ist? Bitte die zugrunde liegenden Fälle jeweils einzeln beschreiben.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die erfragten Sachverhalte werden in polizeilichen Statistiken nicht gesondert erfasst und sind entsprechend nicht elektronisch auszuwerten. Eine Schlagwortrecherche im KPMD-PMK zu einschlägigen Straftatbeständen (zum Beispiel Bedrohung gemäß § 241 Strafgesetzbuch (StGB) und Öffentliche Aufforderung zu Straftaten gemäß § 111 StGB) mit nachfolgender Überprüfung und Einzelauswertung ermittelter Vorgänge für den erfragten Zeitraum ist aufwändig und ist angesichts der für die Beantwortung dieser Schriftlichen Kleinen Anfrage zur Verfügung stehenden, feiertagsbedingt verkürzten Zeit nicht möglich.
 

@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 31
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7772"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56448"
@@ -52,7 +53,7 @@ Welche grundsätzlichen Sicherheitsvorkehrungen bestehen in Hamburg bei gefährl
 
 Welche Kriterien müssen erfüllt sein, damit die höchsten Sicherheitsvorkehrungen getroffen werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Sicherheitsmaßnahmen bei Untersuchungshaftgefangenen werden abhängig vom Einzelfall durch die jeweilige zuständige Anstalt angeordnet und durch den Gerichtsservice der Untersuchungshaftanstalt umgesetzt. Bei besonders fluchtgefährdeten oder besonders gewaltbereiten Untersuchungsgefangenen kommen als besondere Sicherungsmaßnahmen im Rahmen der Vorführung zu einem Gerichtstermin insbesondere in Betracht:
 
@@ -124,7 +125,7 @@ Welche genaueren Erkenntnisse liegen dem Senat und der zuständigen Behörde üb
 
 Weshalb konnte aus Sicht des Senats und der zuständigen Behörde der Angeklagte eine präparierte Rasierklinge und eine angespitzte Zahnbürste unbemerkt in den Gerichtssaal des Landgerichts schmuggeln? Wer trägt dafür die Verantwortung?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Zur Aufarbeitung werden laufend Gespräche in und mit den betroffenen Justizvollzugsanstalten geführt. Mit dem Gericht werden Gespräche zum geplanten Fortgang der Berufungshauptverhandlung geführt. Im Übrigen siehe Drs. 21/7772.
 
@@ -177,7 +178,7 @@ Inwieweit könnten die Sicherheitsvorkehrungen vor und in dem Gerichtssaal am La
 
 Wann genau ist Alarm im Gericht ausgelöst worden und wie viel Zeit war seit dem Angriff des Angeklagten auf die Zeugin vergangen?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Siehe Drs. 21/7772.
 

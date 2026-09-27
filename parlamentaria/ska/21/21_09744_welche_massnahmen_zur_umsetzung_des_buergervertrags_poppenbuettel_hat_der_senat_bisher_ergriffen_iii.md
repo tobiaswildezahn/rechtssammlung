@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 22
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5231", "21/8463", "21/8982", "21/1838", "21/3652", "21/8132", "21/6471", "21/8462", "21/5875", "21/7387"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58548"
@@ -172,19 +173,19 @@ Die Integration von Menschen mit Migrationshintergrund und von geflüchteten Men
 
 Im Zuge des Dialogforums Sport am 11. Mai 2017 in Wandsbek hat der HSB eine Sportbedarfsermittlung bei den Unterkünften durchgeführt und die Ergebnisse vorgestellt. Aus Sicht des HSB wurden folgende Sportbedarfe für örU ermittelt:
 
- Wandsbek, Walddörferstraße, eine Sporthalle für diverse Sportangebote,
+– Wandsbek, Walddörferstraße, eine Sporthalle für diverse Sportangebote,
 
- Rahlstedt, Sieker Landstraße, Sportarten: Fußball, Schwimmen, Kampfsport, Tan-
+– Rahlstedt, Sieker Landstraße, Sportarten: Fußball, Schwimmen, Kampfsport, Tan-
 
 zen, Turnen, Gymnastik, Yoga,
 
- Volksdorf, Waldweg, ein Rasenplatz für Fußball,
+– Volksdorf, Waldweg, ein Rasenplatz für Fußball,
 
- Wandsbek, Bahngärten, Sportarten: diverse Bewegungsspiele mit und ohne Ball,
+– Wandsbek, Bahngärten, Sportarten: diverse Bewegungsspiele mit und ohne Ball,
 
 Schwimmen,
 
- Wandsbek, Rahlstedter Straße, Sportarten: Fußball, Schwimmen.
+– Wandsbek, Rahlstedter Straße, Sportarten: Fußball, Schwimmen.
 
 Zu den Angeboten der Sportvereine in Wandsbek siehe Anlage. Im Übrigen siehe Drs. 21/8463.
 

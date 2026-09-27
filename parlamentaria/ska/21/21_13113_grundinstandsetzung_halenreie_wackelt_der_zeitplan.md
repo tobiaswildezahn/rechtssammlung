@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12145"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62457"
@@ -61,7 +62,7 @@ Wie sieht der weitere Zeitplan derzeit im Einzelnen aus? In welchem Zeitraum sin
 
 Wann wird derzeit mit dem Abschluss der Bauarbeiten gerechnet?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nach derzeitigem Stand stellt sich der Bauablauf wie folgt dar:
 

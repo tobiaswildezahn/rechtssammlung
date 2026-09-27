@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 24
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51235"
@@ -174,7 +175,7 @@ Wo liegt und wer hat die Zuständigkeit von „Kundenreaktionen“ bei der „Ze
 
 Wo liegt und wer hat die Zuständigkeit von „Kundenreaktionen“ bei der Familienkasse?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 ZAV und Familienkasse haben ein eigenes Kundenreaktionsmanagement.
 

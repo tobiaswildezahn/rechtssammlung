@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64062"
@@ -43,7 +44,7 @@ Welche Grundstücke im Stadtteil Moorfleet sind durch die Freie und Hansestadt H
 
 Wie viele dieser Flächen werden landwirtschaftlich genutzt? Bitte Anzahl und Größe der Flächen angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage. Alle genannten Flächen werden landwirtschaftlich genutzt. Die Flächen werden nicht nach Stadtteilen, sondern nach Gemarkungen erfasst.
 

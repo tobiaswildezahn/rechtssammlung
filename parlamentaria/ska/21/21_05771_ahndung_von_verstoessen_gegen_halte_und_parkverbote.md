@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 35
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2853", "20/7125"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54260"
@@ -43,7 +44,7 @@ Wie viele Mitarbeiter waren jeweils am 30. Juni und am 31. Dezember der Jahre 20
 
 Sofern die Zahl dieser Mitarbeiter zugenommen hat: Gab es insofern Neueinstellungen, gegebenenfalls wie viele? Von welchen Tätigkeiten wurden die Mitarbeiter abgezogen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es handelt sich bei den genannten VZÄ um Mischarbeitsplätze des Bezirklichen Ordnungsdienstes (BOD). Die Überwachung des ruhenden Verkehrs wurde im Rahmen der Gesamtaufgabe wahrgenommen und ist nicht konkret bezifferbar. Gründe für die VZÄ-Veränderungen sind beispielsweise Fluktuation, persönliche Arbeitszeitveränderungen, Beurlaubungen et cetera. Der BOD wurde zum 31. Dezember 2013 aufgelöst.
 

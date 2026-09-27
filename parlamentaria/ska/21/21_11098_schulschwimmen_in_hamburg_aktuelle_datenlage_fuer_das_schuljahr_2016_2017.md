@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 40
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10666", "21/10942", "21/10943", "21/6796", "20/8276", "21/5088", "21/4918", "21/3944", "21/5940", "21/9233"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60066"
@@ -182,7 +183,7 @@ Wie viele und welche Schulstandorte in Hamburg griffen in 2016/2017 (Stand 23.11
 
 Wie viele Schüler/-innen welcher Jahrgangsstufen der Sekundarstufe 1 nahmen in 2016/2017 (Stand 23.112017) an fakultativen Schwimm (unterrichts)angeboten welcher Standorte (entsprechend der im Rahmen der Schwimmzeitenbuchung erfassten Daten, vergleiche Senatsantwort zu Drs. 21/5088) teil? (Bitte mit Nennung von Standort, Schulform, Bezirk und Sozialindex in absoluten Zahlen in einer Excel-Tabelle angeben.)
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Anlage 1. Probleme bei der Zuweisung von Wasserzeiten sind der zuständigen Behörde nicht bekannt.
 

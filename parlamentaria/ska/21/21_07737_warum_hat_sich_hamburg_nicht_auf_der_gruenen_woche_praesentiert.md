@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11525"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56366"
@@ -45,7 +46,7 @@ Waren der Senat oder die zuständige Fachbehörde über die Möglichkeit informi
 
 Beabsichtigen der Senat oder die zuständige Behörde, zukünftig im Rahmen der „Grünen Woche“ oder ähnlicher Veranstaltungen Hamburg auch als Standort regional produzierender Landwirtschaft zu präsentieren?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der zuständigen Behörde ist bekannt, dass auf der „Grünen Woche“ (heute: Internationale Grüne Woche) seit dem Jahr 1926 landwirtschaftliche Erzeugnisse von bundesdeutschen und internationalen Herstellern und Vermarktern den Fachbesucherinnen und Fachbesuchern sowie Endverbraucherinnen und Endverbrauchern präsentiert
 

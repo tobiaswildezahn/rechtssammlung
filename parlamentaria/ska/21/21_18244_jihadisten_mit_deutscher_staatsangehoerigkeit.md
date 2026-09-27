@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17978", "21/17358"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67890"
@@ -59,7 +60,7 @@ Wie lauten die Vornamen der 75 Jihadisten mit deutscher Staatsangehörigkeit?
 
 Wie lauten die Vornamen der eingebürgerten Jihadisten?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Beantwortung der Fragen würde Rückschlüsse auf Einzelpersonen ermöglichen, somit ergibt die nach § 18 Hamburgisches Verfassungsschutzgesetz (HmbVerfSchG) vorgenommene Abwägung, dass hier die Bekanntgabe der nachrichtendienstlich erhobenen Erkenntnisse dem Interesse des Betroffenen und denen des Amtes entgegensteht. Der durch das Grundgesetz gewährte Schutz des informationellen Selbstbestimmungsrechts des Betroffenen steht der Beantwortung der Fragen ebenso entgegen. Im Übrigen siehe Antwort zu 1 bis 3.
 
@@ -71,7 +72,7 @@ Wie viele der 75 Jihadisten sind Männer, wie viele Frauen?
 
 Wie alt sind diese Leute im Einzelnen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Daten im Sinne der Fragestellung werden beim Landesamt für Verfassungsschutz Hamburg zu bestimmten Stichtagen aus den Dateien generiert, deren Dateibestand sich kontinuierlich verändert. Eine retrograde Erhebung und Auswertung des Datenbestands ist daher nicht möglich.
 

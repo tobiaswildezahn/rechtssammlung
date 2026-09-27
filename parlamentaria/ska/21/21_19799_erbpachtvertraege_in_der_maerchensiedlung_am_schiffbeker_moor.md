@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13373", "21/18514"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69548"
@@ -79,7 +80,7 @@ Wie ist der Stand der Gespräche und Verhandlungen mit den derzeitigen Erbbauber
 
 Wurden den Erbbauberechtigten in der Märchensiedlung bereits konkrete Angebote für eine Verlängerung ihres Erbbaurechts gemacht? Wenn ja: wann? Wenn nein: Wann können die betroffenen Erbbauberechtigten mit einem konkreten Angebot rechnen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Allen Erbbauberechtigten in der Siedlung wurden im Jahr 2018 Angebote unterbreitet. Die Verlängerungsangebote wurden von den Erbbauberechtigten nicht angenommen. Auf Basis der Drs. 21/18514 werden nun alle Erbbauberechtigten der Siedlung im
 1. Quartal 2020 aktuelle Angebote erhalten. Im Übrigen siehe Vorbemerkung.

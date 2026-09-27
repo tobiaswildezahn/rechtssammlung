@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 14
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/8678", "20/269", "20/14546", "21/348", "21/501", "20/11970"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48775"
@@ -52,7 +53,7 @@ Gemäß Drs. 20/11970 war der Einsatz von CSC zur Erstellung des Projektberichts
 
 Wann genau wurde der Bericht der Freien und Hansestadt Hamburg erstmalig von CSC vorgelegt beziehungsweise wann genau wurde der erste Entwurf 2014 an die Freie und Hansestadt Hamburg übergeben? a. Wie oft und jeweils wann genau wurde der Bericht zwischen diesem Zeitpunkt und dem 02.02.2015 zur weiteren Überarbeitung oder anderen Zwecken vonseiten der Freien und Hansestadt Hamburg zurückgeschickt? b. Was war dabei jeweils Anlass sowie Begründung des Zurücksendens? c. Wie viele Änderungen circa welchen Umfangs wurden an dem Bericht im besagten Zeitraum durch jeweils wen vorgeschlagen? Was genau wurde in jeweils welcher Weise geändert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Einsatz von CSC hat am 25. September 2014 begonnen. Die Datenaufnahme wurde am 15. Dezember 2014 beendet. Ein Berichtsentwurf wurde am 17. Dezember 2014 vorgelegt.
 
@@ -67,15 +68,15 @@ Wie häufig sind die beiden Berichte, die jeweils Ende 2012 und Ende 2013 vorgel
 Handelt es sich bei dem am 02.02.2015 an die Freie und Hansestadt Hamburg übersandten Bericht um eine von CSC bereits abschließend überarbeitete Fassung? Wenn nein, inwiefern nicht? a. Wie viele „redaktionelle Änderungen“ wurden noch bis zum
 16.02.2015 durch CSC vorgenommen? b. Warum ist in Drs. 20/14546 davon die Rede, die (noch 2014 vorgelegte) „Entwurfsfassung“ befände sich zum damaligen Zeitpunkt (10.02.2015) noch in der Endredaktion?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Zeiträume zwischen erster Vorlage und finaler Fassung umfassten
 
- 2012, 1. Bericht: 5. Februar 2012 bis 27. Februar 2012,
+– 2012, 1. Bericht: 5. Februar 2012 bis 27. Februar 2012,
 
- 2012, 2. Bericht: 8. Oktober 2012 bis 1. November 2012,
+– 2012, 2. Bericht: 8. Oktober 2012 bis 1. November 2012,
 
- 2013, 3. Bericht: 29. November 2013 bis 17. Dezember 2013.
+– 2013, 3. Bericht: 29. November 2013 bis 17. Dezember 2013.
 
 Im Übrigen siehe Vorbemerkung.
 

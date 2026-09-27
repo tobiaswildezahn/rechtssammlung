@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 16
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2816", "21/3082", "21/3496"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52227"
@@ -55,7 +56,7 @@ Kam es am 30.11.2015 innerhalb oder außerhalb der Einrichtung zu einer Vergewal
 
 War die Polizei vor Ort? Wenn ja, wann? Kam es zu Festnahmen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Den zuständigen Behörden ist ein Sachverhalt im Sinne der Fragestellung nicht bekannt. Im Übrigen siehe Vorbemerkung.
 

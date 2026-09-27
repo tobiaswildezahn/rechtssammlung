@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58013"
@@ -94,35 +95,35 @@ Mussten im Rahmen des Bewerbungsverfahrens für dieses Förderprogramm konkrete 
 
 Ja, im Wesentlichen sind es folgende investive Maßnahmen:
 
-• eine komfortable Rampenanlage zur Brücke über die S-Bahn-Gleise,
+– eine komfortable Rampenanlage zur Brücke über die S-Bahn-Gleise,
 
-• die Anschaffung von Lastenfahrrädern, E-Fahrrädern und Pedelecs für das Quartier,
+– die Anschaffung von Lastenfahrrädern, E-Fahrrädern und Pedelecs für das Quartier,
 
-• E-Ladesäulen und Ladeinfrastruktur in Fahrradabstellräumen,
+– E-Ladesäulen und Ladeinfrastruktur in Fahrradabstellräumen,
 
-• öffentliche Luftstationen,
+– öffentliche Luftstationen,
 
-• Informationsstellen zu den Fahrradleihmöglichkeiten,
+– Informationsstellen zu den Fahrradleihmöglichkeiten,
 
-• Informationsmaterial als „Neubürgerpaket“,
+– Informationsmaterial als „Neubürgerpaket“,
 
-• eine App zur Steuerung, Information und Anmietung der Leihfahrräder,
+– eine App zur Steuerung, Information und Anmietung der Leihfahrräder,
 
-• Rampen zu den Fahrradabstellräumen,
+– Rampen zu den Fahrradabstellräumen,
 
-• Lastenaufzüge für Fahrräder,
+– Lastenaufzüge für Fahrräder,
 
-• automatische Türöffner für Fahrradabstellräume,
+– automatische Türöffner für Fahrradabstellräume,
 
-• komfortable Fahrradabstellanlagen (zum Beispiel auch ausgestattet mit Werkzeugschränken und Ablagemöglichkeiten für Fahrradzubehör),
+– komfortable Fahrradabstellanlagen (zum Beispiel auch ausgestattet mit Werkzeugschränken und Ablagemöglichkeiten für Fahrradzubehör),
 
-• Ausstattung eines Bike-Repair-Cafés,
+– Ausstattung eines Bike-Repair-Cafés,
 
-• zusätzliche Fahrradbügel und besondere Bügel für Lastenfahrräder,
+– zusätzliche Fahrradbügel und besondere Bügel für Lastenfahrräder,
 
-• zwei weitere StadtRAD-Stationen und
+– zwei weitere StadtRAD-Stationen und
 
-• ein Container während der Bauzeit der späteren Mobilitätsstation.
+– ein Container während der Bauzeit der späteren Mobilitätsstation.
 
 Im Übrigen siehe auch http://www.forum-pergolenviertel.de/wp-content/uploads/ Protokoll_18-Sitzung_Forum-Pergolenviertel_mit-Anhang.pdf.
 

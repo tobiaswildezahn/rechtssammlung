@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4195"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53012"
@@ -51,6 +52,6 @@ Nach welchen Kriterien wählt die FHH die Geldinstitute aus, denen sie ihre Liqu
 
 Aus welchen Gründen verfügt die FHH offenbar über keine Termingeldanlagen (mit Ausnahme der M.M. Warburg & Co.) bei lokalen beziehungsweise regionalen Banken und Sparkassen, also beispielsweise auch der HSH Nordbank AG oder der Hamburger Sparkasse beziehungsweise Volksbank eG?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Anlagen erfolgen bei Banken und Sparkassen, die einem deutschen Einlagensicherungsfonds oder einem Garantie- beziehungsweise Haftungsverbund angehören, bis zur Höhe der Sicherungsgrenze. Sie sind bei Sparkassen, Genossenschafts- und Landesbanken ratingabhängig. Bei konkreten Anlageentscheidungen wird das für die Freie und Hansestadt Hamburg jeweils wirtschaftlichste Angebot ausgewählt.

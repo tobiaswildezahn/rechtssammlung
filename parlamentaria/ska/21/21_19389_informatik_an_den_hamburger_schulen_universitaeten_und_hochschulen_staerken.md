@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16308", "21/17176", "21/19203"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69102"
@@ -51,7 +52,7 @@ Wie viele Informatikprofessuren existieren an den Hamburger Universitäten und H
 
 Wie viele Informatikprofessuren sind derzeit an den Hamburger Universitäten und Hochschulen offen? Bitte nach Universität/Hochschule, Beginn der Vakanz, Art der Professur sowie Gebiet aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

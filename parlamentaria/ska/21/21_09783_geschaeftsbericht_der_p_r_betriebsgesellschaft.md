@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4925", "21/9389", "20/9662", "21/5888", "21/8274"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58609"
@@ -63,7 +64,7 @@ Welche P+R-Anlagen werden seit wann und gegebenenfalls bis wann für die öffent
 
 Wann wird die öffentlich-rechtliche Unterbringung auf P+R-Anlagen beendet werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/4925.
 
@@ -77,7 +78,7 @@ Welche P+R-Anlagen außer Hagenbecks Tierpark werden „kostendeckend betrieben�
 
 Was bedeutet „kostendeckend betrieben“? Sind dabei auch zentrale Personalkosten, Grundsteuer und Abschreibung berücksichtigt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Bei dem von der P+R betriebenen Parkhaus Hagenbecks Tierpark handelt es sich nicht um eine P+R-Anlage, sondern um ein öffentliches Parkhaus, welches insbesondere den Besucherinnen und Besuchern des Tierparks dient und damit eine andere Nutzerstruktur und ein besonderes Tarifmodell aufweist. Die Bewertung dieses Parkhauses im Geschäftsbericht als „kostendeckend betrieben“ erfolgte auch unter Einbeziehung der in der Fragestellung genannten Faktoren.
 

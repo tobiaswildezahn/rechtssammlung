@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61538"
@@ -72,7 +73,7 @@ Wie viele illegale Hieb- und Stichwaffen, wie zum Beispiel Butterflymesser, Tots
 
 Wie viele Waffen und Munition, deren Erwerb und Besitz nur Personen ab 18 gestattet ist, wie zum Beispiel Schlagstöcke, Dolche, Gas- und Schreckschusswaffen wurden seit der Gesetzesinitiative bei der zuständigen Behörde oder den Polizeidienststellen abgegeben?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Antwort zu 1.
 

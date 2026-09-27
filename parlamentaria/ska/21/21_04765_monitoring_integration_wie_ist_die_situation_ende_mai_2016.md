@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 41
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4499", "21/3915", "21/2868"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53186"
@@ -130,7 +131,7 @@ Wie viele Flüchtlinge üben derzeit eine sozialversicherungspflichtige Arbeit a
 
 Wie viele Flüchtlinge sind Ende Mai 2016 im Regelsystem des SGB II? Wie viele sind davon Männer, wie viele Frauen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die jeweils aktuellsten Daten (Sozialversicherungspflichtig Beschäftige: November  
 2015;  

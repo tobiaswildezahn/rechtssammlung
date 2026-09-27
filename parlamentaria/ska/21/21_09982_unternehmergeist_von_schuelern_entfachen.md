@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 21
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9351"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58805"
@@ -97,6 +98,6 @@ Welche konkrete Strategie verfolgt der Senat, um an Hamburger Schulen Schlüssel
 
 Welche konkreten Maßnahmen hat der Senat seit 2011 ergriffen beziehungsweise wird der Senat in welchem Zeitraum ergreifen, um Schüler/- innen gezielter auf die Berufswelt vorzubereiten und dazu die Erlernung von notwendigen unternehmerischen Denkweisen durch Projekte oder in bestimmte Unterrichtsfächer einfließen zu lassen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.

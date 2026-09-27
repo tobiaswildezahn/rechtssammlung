@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18467", "21/18561", "21/17902"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68464"
@@ -136,9 +137,9 @@ Zu welchen jährlichen Mehrkosten die zusätzliche Bereitstellung von liniertem 
 
 Der Senat betont, dass die Unterhaltsbeihilfe und der Anrechnungsfreibetrag in Hamburg im Wege einer Dynamisierung seit Jahren stetig ansteigen. Diese Dynamisierung beziehungsweise Steigerung basiert auf der Tariferhöhung im öffentlichen Dienst. In der Drs. 21/17902 führt der Senat aus: „Die Tarifvertragsparteien für den öffentlichen Dienst der Länder haben sich am 2. März 2018 u.a. auf folgende Entgeltsteigerungen geeinigt:
 - Anhebung der Tabellenentgelte in drei Schritten:
-• um 3,2 %, mindestens jedoch 100 Euro (zum 1. Januar 2019),
-• um 3,2 %, mindestens jedoch 90 Euro (zum 1. Januar 2020) und
-• um 1,4 %, mindestens jedoch 50 Euro (zum 1. Januar 2021),
+– um 3,2 %, mindestens jedoch 100 Euro (zum 1. Januar 2019),
+– um 3,2 %, mindestens jedoch 90 Euro (zum 1. Januar 2020) und
+– um 1,4 %, mindestens jedoch 50 Euro (zum 1. Januar 2021),
 - Erhöhung der Ausbildungs- und Praktikantenentgelte in zwei Schritten um jeweils 50 Euro zum 1. Januar 2019 und zum 1. Januar 2020. (…) Die Anwärtergrundbeträge werden jeweils zum 1. Januar 2019 und 1. Januar 2020 um 50 Euro erhöht“ a. Aus welchem Grund wurde die Unterhaltsbeihilfe der Rechtsreferendare nicht ebenfalls zum 1. Januar 2019 um 50 Euro (wie bei Auszubildenden, Praktikanten und Anwärtern) erhöht?
 
 #### Antwort zu Frage 6

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64591"
@@ -64,7 +65,7 @@ Wie viele Menschen ohne festen Wohnsitz sind in den letzten fünf Jahren in Hamb
 
 Wie viele der unter Frage 1. genannten Menschen sind vermutlich an den Folgen einer Unterkühlung verstorben? a. Davon in einem Krankenhaus? b. Davon in einem öffentlich zugänglichen Raum (zum Beispiel öffentliche Toilette, Hauseingang)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bewohnerinnen und Bewohner einer öffentlich-rechtlichen Unterkunft verfügen dort über einen festen Wohnsitz und sind daher in der Beantwortung der Fragestellung nicht berücksichtigt.
 

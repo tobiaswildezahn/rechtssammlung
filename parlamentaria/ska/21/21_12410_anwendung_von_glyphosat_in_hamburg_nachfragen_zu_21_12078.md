@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12078"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61702"
@@ -71,6 +72,6 @@ Die das Thema Glyphosat beinhaltende Bundesrats-Entschließung 740/17 wurde laut
 
 Wann wird es voraussichtlich infolge eine Sachentscheidung im BR dazu geben und wie wird sich der Senat voraussichtlich verhalten?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Thematik wurde für die Sitzung des Ausschusses für Agrarpolitik und Verbraucherschutz am 9. April 2018 erneut auf die Tagesordnung gesetzt und ist für das Plenum des Bundesrates am 27. April 2018 geplant. Im Übrigen hat sich der Senat hiermit noch nicht befasst.

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58908"
@@ -57,10 +58,10 @@ sechs Gerätewagen Sanität
 26.06.-09.07.2017  
 zwei Gerätewagen Sanität  
 06.07.-09.07.2017  
-  
+–  
 Wahrnehmung des Sanitätsdienstes in den  
 Messehallen;  
-  
+–  
 Stellen des rettungsdienstlichen Schutzes  
 von Amt- und Würdenträgern;  
 Beauftragung erfolgte privatrechtlich durch die  
@@ -235,19 +236,19 @@ Welche Sonderleistungen zur Anerkennung ihres außerordentlichen Einsatzes haben
 
 Plant der Senat beziehungsweise die zuständige Behörde darüber hinaus, den Sicherheitsbehörden und/oder den Organisationen im Bereich der nichtpolizeilichen Gefahrenabwehr für ihre besondere Leistung, zum Beispiel unter der Maßgabe, dass diese Mittel für den Bevölkerungsschutz (Ausstattung, Fortbildung et cetera) verwendet werden, zu kompensieren? Wenn ja, mit welchen konkreten Maßnahmen? Wenn nein, wieso nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Folgende Regelung wurde durch die zuständige Behörde festgelegt:
 
- Einmalige Aufstockung des Budgets für jede der 18 Feuer- und Rettungswachen
+– Einmalige Aufstockung des Budgets für jede der 18 Feuer- und Rettungswachen
 
 der Berufsfeuerwehr um 30.000 Euro (Summe 540.000 Euro),
 
- einmalige Bereitstellung von 60.000 Euro für die Fachabteilungen der Feuerwehr
+– einmalige Bereitstellung von 60.000 Euro für die Fachabteilungen der Feuerwehr
 
 und das Landesbereichsmanagement sowie
 
- einmaliger Zuschuss für die Wehrkasse von 5.000 Euro für jede der 86 Löschgrup-
+– einmaliger Zuschuss für die Wehrkasse von 5.000 Euro für jede der 86 Löschgrup-
 
 pen der Freiwilligen Feuerwehr Hamburg (Summe 430.000 Euro).
 

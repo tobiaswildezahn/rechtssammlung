@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/6000", "21/361", "21/4088"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54539"
@@ -104,7 +105,7 @@ Falls nein, weshalb nicht?
 
 Welche Teilevaluationen und Korrekturen wurden im Einzelnen seit Einführung des Zwei-Säulen-Modells vorgenommen? Bitte jeweils konkret unter Angabe des Zeitpunktes nennen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die zuständige Behörde hat in den letzten Jahren ein umfassendes Monitoring- System mit dem Ziel aufgebaut, regelhaft Kennzahlen und Daten zu generieren, die sowohl von der zuständigen Behörde als auch von den Schulen selbst zur Schul- und Unterrichtsentwicklung und damit auch für die Weiterentwicklung des Zwei-Säulen- Modells genutzt werden. Hierzu zählen unter anderem die Einführung einer Schulinspektion (seit 2006), die regelmäßige Durchführung von Schulleistungstests (Lernstandserhebungen in den Jahrgangstufen 3 und 8 seit 2008 beziehungsweise KERMIT in den Jahrgangsstufen 2, 3, 5, 7, 8, 9/10 seit 2012), die Bildungsberichterstattung in Hamburg und ein Monitoring der zentralen Abschlussprüfungen (seit 2005) sowie eine Erweiterung des Zentralabiturs (seit 2014). Die Ergebnisse werden in Abhängigkeit ihrer jeweiligen Funktion adressatengerecht aufbereitet und, den beteiligten Institutionen zur Verfügung gestellt. Mit den oben genannten Maßnahmen liegen umfassende Informationen vor, die intensiv zur Schul- und Unterrichtsentwicklung genutzt werden.
 

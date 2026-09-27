@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/4182"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48382"
@@ -43,7 +44,7 @@ Welche Kenntnisse haben Senat oder die zuständigen Behörden im Einzelnen über
 
 Wann und in welcher Form haben die zuständigen Behörden jeweils welche Informationen über die derzeitige Nutzung erhalten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine Nutzungsgenehmigung für betreutes Wohnen wurde am 2. Dezember 2010 beantragt und am 18. März 2011 für fünf Jahre genehmigt.
 
@@ -80,10 +81,16 @@ Siehe Antwort zu 1. und 2.
 ### Frage 7
 
 Bereits im Mai 2012 hat der Senat in der Drs. 20/4182 angekündigt, dass das zuständige Bezirksamt den Grundeigentümer des Ferck’schen Hofs um eine Stellungnahme zur Nutzung von Gebäuden des Ferck’schen Hofs als Lagerfläche bitten wird.
-7.1. Wann genau und in welcher Form hat das zuständige Bezirksamt daraufhin die Stellungnahme vom Grundeigentümer erbeten?
-7.2. Wann genau und in welcher Form hat das zuständige Bezirksamt daraufhin eine Stellungnahme mit welchem Inhalt vom Grundeigentümer erhalten?
 
-#### Antwort zu Frage 7
+### Frage 7.1
+
+Wann genau und in welcher Form hat das zuständige Bezirksamt daraufhin die Stellungnahme vom Grundeigentümer erbeten?
+
+### Frage 7.2
+
+Wann genau und in welcher Form hat das zuständige Bezirksamt daraufhin eine Stellungnahme mit welchem Inhalt vom Grundeigentümer erhalten?
+
+#### Antwort zu Fragen 7, 7.1 und 7.2
 
 Siehe Antwort zu 1. und 2.
 

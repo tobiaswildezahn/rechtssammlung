@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68639"
@@ -73,6 +74,6 @@ Ist die Justizbehörde beziehungsweise ihr Präses der Auffassung, dass die DDR 
 
 Ist die Kulturbehörde beziehungsweise ihr Präses der Auffassung, dass die DDR kein Unrechtsstaat gewesen sei?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Senat nimmt zu Äußerungen seiner Mitglieder und deren Wiedergabe in den Medien grundsätzlich nicht Stellung. Im Übrigen siehe Vorbemerkung.

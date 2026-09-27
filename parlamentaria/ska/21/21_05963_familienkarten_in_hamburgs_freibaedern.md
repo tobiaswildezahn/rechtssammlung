@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54478"
@@ -63,11 +64,11 @@ Ist der Erwerb einer Familienkarte für gleichgeschlechtliche Paare im Natur- un
 
 Bäderland bietet in sämtlichen Bädern für gemeinschaftliche Eintritte folgende Tarifoptionen an:
 
- Ein Erwachsener, ein Kind.
+– Ein Erwachsener, ein Kind.
 
- Zwei Erwachsene, ein Kind.
+– Zwei Erwachsene, ein Kind.
 
- Für jedes weitere Kind (bis maximal drei Kinder) ist ein ermäßigter Zuschlag zu
+– Für jedes weitere Kind (bis maximal drei Kinder) ist ein ermäßigter Zuschlag zu
 
 entrichten.
 

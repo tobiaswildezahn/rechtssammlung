@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54134"
@@ -79,6 +80,6 @@ Wie viele Waffen im Sinne des Waffengesetzes hat die Polizei im Rahmen der Gefah
 
 Wie viele Waffen sind von der Polizei im Rahmen der Sicherung von Beweismitteln für ein späteres Ermittlungsverfahren nach den §§ 94 fortfolgende StPO in den Jahren von 2006 bis 2016 jeweils beschlagnahmt worden? Mit der Bitte um jährliche Aufschlüsselung.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antwort zu 1. Für die Beantwortung wäre eine Durchsicht sämtlicher Hand- und Ermittlungsakten des erfragten Zeitraums durch die Polizei erforderlich. Die Auswertung von mehreren Zehntausend Akten ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.

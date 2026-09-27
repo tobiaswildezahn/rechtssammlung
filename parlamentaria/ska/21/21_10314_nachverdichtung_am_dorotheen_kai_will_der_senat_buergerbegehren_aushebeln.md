@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 18
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59158"
@@ -109,7 +110,7 @@ Kann der Senat bestätigen, dass der Investor, die ROBERT VOGEL GMBH & CO. KOMMA
 
 Kann der Senat bestätigen, dass der Investor Kredite bei der HSH Nordbank hat und wenn ja, in welcher Höhe?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Im Hinblick auf das Bankgeheimnis und zur Wahrung von Betriebs- und Geschäftsgeheimnissen erteilt die HSH Nordbank (HSH) zum Bestehen oder Nichtbestehen einer Geschäftsbeziehung und zu einzelnen Kreditnehmern und -engagements keine Auskünfte. Der Vorstand der HSH führt das operative Geschäft der Bank in eigener Verantwortung. Der Senat sieht in ständiger Praxis davon ab, dies zu kommentieren.
 

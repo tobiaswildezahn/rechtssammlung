@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 15
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67774"
@@ -109,7 +110,7 @@ Nach welchen genauen Kriterien erfolgte die Bewilligung der beantragten studenti
 
 Fand die Bewilligung der Projekte autonom durch die entsprechende Hochschule statt oder zentral durch die zuständige Behörde?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Hochschulen und das UKE waren aufgefordert, ein gemeinsames Auswahlgremium zu bilden, welches die eingehenden Projektanträge auswählt und zu einem Gesamtantrag an die zuständige Behörde bündelt. Als Schwerpunkte der Projekte sollten die Themen Qualität der Lehre, Forschende Lehre, Heterogenität, Nachhaltigkeit und/oder Kooperationen gewählt werden. Es konnten ausschließlich neue, zusätzliche Projekte für einen Zeitraum von maximal zwei Jahren gefördert werden. Die Kosten für die einzelnen studentischen Projekte sollten zwischen 1 000 und 25 000 Euro liegen.
 

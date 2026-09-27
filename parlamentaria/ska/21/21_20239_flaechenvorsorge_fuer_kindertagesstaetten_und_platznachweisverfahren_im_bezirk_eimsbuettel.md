@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18928", "21/19294"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70037"
@@ -195,7 +196,7 @@ Welche Kindertageseinrichtungen im Bezirk Eimsbüttel verfügen über kein Auße
 
 Welche Kindertageseinrichtungen in Eimsbüttel verfügen über kein Außengelände von mindestens 6 m² pro betreutes Kind im Elementaralter?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die für Kindertagesbetreuung zuständige Behörde verfügt nicht über Daten zur Größe der Kita-Außenspielgelände, da diese statistisch nicht erfasst werden. Eine manuelle Auswertung der betroffenen rund 200 Akten ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -223,7 +224,7 @@ Wie viele Platznachweisverfahren wurden seit 2018 im Bezirk Eimsbüttel angestre
 
 Wie viele offene Platznachweisverfahren wurden seit 2018 im Bezirk Eimsbüttel bearbeitet? Bitte jährlich aufschlüsseln.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Seit Ende 2018 wird die Anzahl der Nachweisverfahren monatlich von den Abteilungen Kindertagesbetreuung der Bezirksämter systematisch erfasst. Im Bezirk Eimsbüttel wurden für diesen Zeitraum im Jahr 2018 fünf Anträge auf Nachweisverfahren gestellt. Im Jahr 2019 sind 40 Anträge auf Nachweisverfahren eingegangen und für das Jahr 2020 bisher drei.
 

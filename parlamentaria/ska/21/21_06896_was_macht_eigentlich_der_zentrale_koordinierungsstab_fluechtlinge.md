@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 37
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5231", "21/6544", "21/2478", "21/3665", "21/5023", "21/5400", "21/5765", "21/5733", "21/5862", "21/2069", "21/5853", "21/5081", "20/7049", "21/6632", "21/4174", "21/6891"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55486"
@@ -156,7 +157,7 @@ Hat der ZKF in diesem Jahr externe Beratungsleisten in Anspruch genommen? Wenn j
 
 Welche weiteren Kosten in welcher Höhe hat der ZKF im Jahr 2016 bisher noch verursacht? Welche Ansätze sind hier jeweils für 2017 und 2018 geplant?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Für den ZKF sind 2016 Kosten angefallen, die von den Behörden BASFI und BIS (Ämter A und E) getragen werden. Bei der BASFI sind mit Stand 1. Dezember 2016 288.213,43 Euro Sachkosten angefallen, in denen als Buchungspositionen 43.360,85 Euro für Honorarverträge und 101.436,60 Euro für „Sonstigen Aufwand für bezogene Leistungen“ enthalten sind. In diese Positionen können auch Beratungsleistungen eingegangen sein. Der ZKF profitiert bei Beratungsleistungen von beteiligten Behörden, Ämtern oder Externen zu Themen wie dem Baucontrolling im Ankunftszentrum, der Ausschreibung des Betriebes der örU sowie bei Baumaßnahmen oder im Rahmen von gerichtlichen Verfahren. Eine tiefergehende Aufschlüsselung der Positionen erfordert einen vorgangsbezogenen, manuellen Abgleich von Daten aus verschiedenen System. Dies ist in der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

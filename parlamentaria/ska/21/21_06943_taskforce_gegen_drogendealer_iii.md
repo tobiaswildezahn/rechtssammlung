@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 20
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5611", "21/6363"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55733"
@@ -150,7 +151,7 @@ Wie viele Verurteilungen wurden in diesem Zusammenhang im Zeitraum
 
 Wurden seit dem 17.10.16 in diesem Zusammenhang tatverdächtige Personen abgeschoben? Wenn ja, wie viele?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Bezugnehmend auf die Antwort zu 7. hat eine automatisierte Abfrage im Vorgangsverwaltungs- und Vorgangsbearbeitungssystem MESTA ergeben, dass hinsichtlich der im Zeitraum 17. Oktober 2016 bis 30. November 2016 dem Haftrichter vorgeführ-
 

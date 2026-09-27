@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62562"
@@ -45,7 +46,7 @@ Wie viele Toiletten stehen den Besuchern des Hafengeburtstags zur Verfügung?
 
 An welchen Standorten werden wie viele Toiletten angeboten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Standorte der mobilen Toilettencontainer zum HAFENGEBURTSTAG HAMBURG 2018:
 

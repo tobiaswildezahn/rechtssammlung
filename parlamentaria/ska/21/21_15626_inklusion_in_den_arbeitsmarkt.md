@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65138"
@@ -55,7 +56,7 @@ Wie hoch war bei den einzelnen Unternehmen, an denen das Land Hamburg mindestens
 
 Wie viele Auszubildende gab es jeweils bei diesen Unternehmen in den Jahren 2015, 2016 und 2017? Wie viele der Auszubildenden hatten jeweils eine körperliche, geistige oder psychische Behinderung? Wie viele Auszubildende hatten zu Ausbildungsbeginn keine deutsche Staatsangehörigkeit? (Bitte tabellarisch darstellen.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1 und Vorbemerkung.
 
@@ -86,7 +87,7 @@ Welche Maßnahmen zur Inklusion in Beschäftigung und Ausbildung waren besonders
 
 Was sind die größten Hindernisse, in den Fällen, in denen die Inklusion nicht gelingt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nach wie vor bestehen teilweise Vorbehalte gegenüber dem Leistungsvermögen von Menschen mit Behinderung, bestehen Unsicherheiten im Umgang mit ihnen und herrscht Unkenntnis über die umfangreichen Unterstützungsmöglichkeiten für Betriebe und Beschäftigte.
 

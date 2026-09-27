@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12798"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64318"
@@ -45,13 +46,13 @@ Die Baumaßnahme ist noch nicht schlussgerechnet. Die Sanierung der Ränge hat n
 
 Im Zusammenhang mit der Rangsanierung sind weitere Maßnahmen im Hinblick auf die geplante Gesamtsanierung durchgeführt worden, um spätere Doppelarbeiten zu vermeiden. Diese Kosten in Höhe von rund 300.000 Euro entfielen auf
 
- umfangreiche Risssanierungen der Stuckdecken,
+– umfangreiche Risssanierungen der Stuckdecken,
 
- Asbestsanierungen,
+– Asbestsanierungen,
 
- Lüftungsinstallationen,
+– Lüftungsinstallationen,
 
- Baustellenbewachung.
+– Baustellenbewachung.
 
 ### Frage 2
 
@@ -61,15 +62,15 @@ Um welche weiteren Baumaßnahmen im Vorderhaus handelt es sich?
 
 Im Vorderhaus wurden die:
 
- Zuschauer-WC-Anlagen kernsaniert,
+– Zuschauer-WC-Anlagen kernsaniert,
 
- Teppiche und Stufenbeläge erneuert,
+– Teppiche und Stufenbeläge erneuert,
 
- Wandtapeten erneuert,
+– Wandtapeten erneuert,
 
- Vorhänge und Wandbehänge erneuert,
+– Vorhänge und Wandbehänge erneuert,
 
- Wand- und Deckenanstriche erneuert.
+– Wand- und Deckenanstriche erneuert.
 
 a. Wie hoch genau sind die Kosten für die Baumaßnahmen im Vorderhaus?
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60843"
@@ -84,7 +85,7 @@ Wann hat sich die Staatsanwaltschaft Hamburg an die Präsidentin der Hamburgisch
 
 Wann hat die Staatsanwaltschaft Hamburg eine entsprechende Antwort der Präsidentin der Hamburgischen Bürgerschaft erhalten?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Einleitung des Ermittlungsverfahrens wurde der Präsidentin der Hamburgischen Bürgerschaft mit Schreiben vom 27. Februar 2017 bekannt gegeben. Einer Genehmigung zur Fortführung der Ermittlungen bedarf es nach Artikel 15 der Verfassung der Freien und Hansestadt Hamburg (HV) nicht.
 

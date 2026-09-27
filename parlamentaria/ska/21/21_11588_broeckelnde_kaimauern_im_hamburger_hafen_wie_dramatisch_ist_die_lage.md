@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11101"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60815"
@@ -55,7 +56,7 @@ Wie viele Kaimauern können derzeit nicht im Sinne ihres Nutzungszwecks verwende
 
 Wie viele Unternehmen sind davon derzeit betroffen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Zurzeit können die Kaimauern beziehungsweise die Vorsetze nördlicher Reiherstieg, Hachmannkai, teilweise Steinwerderkai, nicht oder lediglich eingeschränkt, im Sinne des Nutzungszwecks, genutzt werden.
 
@@ -77,7 +78,7 @@ Wie hoch ist aktuell der Instandhaltungsbedarf bei Kaimauern im Hamburger Hafen?
 
 Welche Mittel plant die HPA in 2018 für die Instandhaltung von Kaimauern einzusetzen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Im Wirtschaftsplan der HPA für das Jahr 2018 sind für den Instandhaltungsbedarf von Kaimauern circa 3,0 Millionen Euro und für die Grundsanierung circa 1,5 Millionen Euro vorgesehen. Diese Mittel sind für das Jahr 2018 auskömmlich. Im Übrigen wird der Instandhaltungsbedarf im Rahmen einer Zustandsbewertung ermittelt (siehe Drs. 21/11101), deren Erkenntnisse in der Wirtschaftsplanung berücksichtigt werden.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 18
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6182", "21/15606"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68292"
@@ -59,7 +60,7 @@ Welche Erkenntnisse hat der Senat über „Social Bots“ und auf welchen Studie
 
 Auf welchen Plattformen sind „Social Bots“ nach Kenntnissen des Senats aktiv? a. Hat der Senat Kenntnisse über die Anzahl von „Social Bots“? b. Wenn ja, bitte die (ungefähre) Anzahl der „Social Bots“ pro Plattform aufschlüsseln.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Identifizierung und Sperrung von Social Bots obliegt den Betreibern von sozialen Netzwerken.
 

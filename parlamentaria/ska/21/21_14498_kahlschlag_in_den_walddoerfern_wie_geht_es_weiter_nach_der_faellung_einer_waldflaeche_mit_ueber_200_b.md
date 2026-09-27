@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11189", "21/12350", "21/12726", "21/12081"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63927"
@@ -43,7 +44,7 @@ Ist die in den Drs. 21/12350 und 21/12726 angeführte Wiederaufforstungsanordnun
 
 Liegt inzwischen eine Begründung des Widerspruchs vor? Wenn nein, welche Fristsetzungen wurden hierfür von den zuständigen Stellen im Einzelnen festgesetzt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Mit Datum vom 28. September 2018 wurde der Widerspruch von der Widerspruchsbehörde zurückgewiesen. Eine Begründung des Widerspruchs lag bis zu diesem Zeitpunkt nicht vor. Es steht dem Widersprechenden noch der Klageweg beim Verwaltungsgericht offen.
 

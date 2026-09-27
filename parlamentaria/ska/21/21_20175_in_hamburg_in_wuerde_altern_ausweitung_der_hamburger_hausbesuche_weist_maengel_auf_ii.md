@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 15
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19354", "21/17725", "21/18426", "21/10874"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69952"
@@ -52,7 +53,7 @@ In der Fachstelle waren im Dezember 2019 2,6 VZÄ beschäftigt. Am
 
 Für das Pilotprojekt in den Bezirken Eimsbüttel und Harburg waren im Zeitraum von Januar bis Mai 2019 für die Durchführung von 554 Hausbesuchen 55 Mitarbeiter notwendig. Für die infolge der Ausweitung geplanten 5 000 Hausbesuche jährlich hält der Senat die Anzahl von 110 Besuchskräften für ausreichend. Wie viele der Honorarkräfte sind bereits insgesamt geschult? Wie viele sind bereits für weitere Schulungen angemeldet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung und Drs. 21/19354.
 
@@ -72,7 +73,7 @@ Wurde das Schulungskonzept des Deutschen Instituts für angewandte Pflegeforschu
 
 Sind inzwischen die Planungen für die Öffentlichkeitsarbeit im Jahr 2020 konkreter? Wenn ja, wie sehen diese aus? Wenn nein, warum liegen keine konkreten Planungen vor?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung und Drs. 21/19354.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56584"
@@ -163,7 +164,7 @@ Welche einmaligen Kosten sind durch die Umsetzung des Portals Yojo entstanden?
 
 Wie hoch sind die laufenden Kosten, die durch das Betreiben des Portals entstehen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Für die Entwicklung und Umsetzung wurden über in den Jahren 2014 und 2015 145.000 Euro investiert. Für die Weiterentwicklung, die Aufnahme neuer Branchen, Unternehmen und Marketingmaßnahmen wurden im Jahr 2016 rund 82.000 Euro verauslagt. Im Jahr 2017 stehen dafür 70.000 Euro zur Verfügung. Personalkosten der HWF sind in den genannten Kosten nicht enthalten. Im Übrigen siehe Antwort zu
 2.

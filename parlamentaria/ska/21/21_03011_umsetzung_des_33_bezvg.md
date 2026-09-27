@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51354"
@@ -49,17 +50,17 @@ Im Bezirk Altona ist 2012 eine Vereinbarung zwischen der Bezirksversammlung und 
 
 Bei der Umsetzung des § 33 BezVG wird im Bezirksamt Eimsbüttel zwischen Verfahrenswegen (intern und im Zusammenspiel von Politik und Verwaltung) sowie Methoden in einzelnen Beteiligungsprozessen unterschieden. Das Bezirksamt Eimsbüttel hat gemeinsam mit der Bezirkspolitik eine Ausführungsvereinbarung zur Beteiligungsverpflichtung entwickelt. Diese ist 2011 beschlossen worden und beinhaltet unter anderem Regelungen
 
- zu den besonders in den Blick zu nehmenden Planungsbereichen,
+– zu den besonders in den Blick zu nehmenden Planungsbereichen,
 
- zur Berücksichtigung von Beteiligungskosten in den jeweiligen fachlichen Zustän-
+– zur Berücksichtigung von Beteiligungskosten in den jeweiligen fachlichen Zustän-
 
 digkeiten,
 
- zur Kommunikation zwischen Verwaltung und Politik (Drucksachen, Beschlusscon-
+– zur Kommunikation zwischen Verwaltung und Politik (Drucksachen, Beschlusscon-
 
 trolling, Jahresbericht) sowie
 
- zur Fortbildung.
+– zur Fortbildung.
 
 Im selben Jahr erfolgte ein zweiter Beschluss, der unter anderem die Qualitätsstandards, geeignete Öffentlichkeitsarbeit und ein gemeinsames Begriffsverständnis zum Inhalt hatte. Für einzelne Beteiligungsprozesse werden aus dem Spektrum der zahl-
 

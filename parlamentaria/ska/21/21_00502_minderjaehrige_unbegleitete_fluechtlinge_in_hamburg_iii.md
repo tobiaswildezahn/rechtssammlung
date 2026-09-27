@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14626", "21/491", "20/14389"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48651"
@@ -76,23 +77,23 @@ Zur Anzahl der betreuten unbegleiteten minderjährigen Flüchtlinge siehe Antwor
 
 Für UMF werden keine speziellen Nachfolgeeinrichtungen vorgehalten. Die Unterbringung im Rahmen einer Jugendhilfemaßnahme im Anschluss an die Erstversorgungseinrichtungen erfolgt in den verschiedenen Einrichtungen und sonstigen betreuten Wohnformen bei freien Trägern und sonstigen Leistungserbringern sowie beim LEB. Insofern gelten die jeweils einrichtungsbezogen vereinbarten Betreuungsschlüssel, die zwischen der zuständigen Behörde und den Anbietern jeweils nach Leistungsart beziehungsweise auch für spezielle Angebotsarten nach § 77 beziehungsweise § 78b SGB VIII vereinbart wurden. Aktuell gelten bei den verschiedenen Anbietern für deren Leistungs- beziehungsweise Angebotsarten folgende, vertraglich geregelte Schlüsselwerte (ein Schlüsselwert gibt die Relation von pädagogischem Betreuungspersonal zu betreuten Minderjährigen an, er beziffert die Anzahl der Betreuten je VZÄ und ist unmittelbar entgeltrelevant, deshalb werden auch die Nachkommastellen ausgewiesen). Nicht ausgeschlossen ist, dass daneben für UMF spezielle Nebenleistungen gewährt werden, die im jeweiligen Einzelfall faktisch zu einer günstigeren Betreuungsrelation führen.
 
- Erstversorgungseinrichtungen des LEB: In der Regel beträgt der Schlüsselwert 3,0,
+– Erstversorgungseinrichtungen des LEB: In der Regel beträgt der Schlüsselwert 3,0,
 
 in Einrichtungen mit geringer Platzzahl 2,5. In zwei Einrichtungen gilt ein Schlüsselwert von 5,0, wobei zusätzlich ein verstärkter Einsatz von Sprach- und Kulturmittlern erfolgt.
 
- Gemeinsame Wohnformen für Mütter/Väter und Kinder nach § 19 SGB VIII: Die
+– Gemeinsame Wohnformen für Mütter/Väter und Kinder nach § 19 SGB VIII: Die
 
 Spanne beträgt 1,68 bis 2,10; mit einem Anteil von 50 Prozent dominiert ein Schlüsselwert von 1,80.
 
- Ambulant betreute Wohnformen nach § 30 SGB VIII: es werden mehrere Unterfor-
+– Ambulant betreute Wohnformen nach § 30 SGB VIII: es werden mehrere Unterfor-
 
 men unterschieden. Die Spanne liegt zwischen 4,00 und 9,08.
 
- Heimerziehung, sonstige betreute Wohnformen nach § 34 SGB VIII: Spanne: 1,00
+– Heimerziehung, sonstige betreute Wohnformen nach § 34 SGB VIII: Spanne: 1,00
 
 bis 2,86, mit einem Anteil von 79 Prozent dominiert der Schlüsselwert 2,15.
 
- Intensive sozialpädagogische Einzelbetreuung nach § 35 SGB VIII (in stationärer
+– Intensive sozialpädagogische Einzelbetreuung nach § 35 SGB VIII (in stationärer
 
 Ausgestaltung, Betreuung im trägereigenen Wohnraum): Schlüsselwert 3,30.
 
@@ -106,7 +107,7 @@ Wie viele Amtsvormünder sind gegenwärtig in Zusammenhang mit unbegleiteten min
 
 Laut Drs. 20/14626 werden derzeit in den Bezirksämtern Vormundschaften für unbegleiteten minderjährigen Flüchtlingen durchgeführt, die nicht spezialisiert wahrgenommen werden. Wie viele Vormundschaften dieser Art gibt es derzeit und inwieweit unterscheiden sich von den Amtsvormundschaften der BASFI?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Derzeit werden in Hamburg insgesamt 883 Amtsvormundschaften für UMF geführt, davon 596 in den Bezirksämtern. Einen Unterschied zu den von der zuständigen Behörde geführten Amtsvormundschaften gibt es nicht. Die konkrete Ausgestaltung richtet sich jeweils nach den Erfordernissen des Einzelfalls.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13881", "21/2905", "20/5095", "20/5222", "20/5712", "20/7111", "21/1646"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63511"
@@ -148,15 +149,15 @@ In welchen Einrichtungen werden entlassene ausländische Gefangene, bei denen di
 
 In Abhängigkeit vom Aufenthaltsstatus greifen folgende Regelungen:
 
- Klienten mit gültigem Aufenthaltstitel werden von den Fachstellen für Wohnungs-
+– Klienten mit gültigem Aufenthaltstitel werden von den Fachstellen für Wohnungs-
 
 notfälle über die AVS (Aufnahme- und Vermittlungsstelle) in reguläre Unterkünfte von f & w fördern und wohnen AöR vermittelt.
 
- Für Klienten mit Fiktionsbescheinigung sind die Erstaufnahmeeinrichtungen
+– Für Klienten mit Fiktionsbescheinigung sind die Erstaufnahmeeinrichtungen
 
 zuständig.
 
- Klienten im Asylverfahren werden in der Erstaufnahmeeinrichtung oder der
+– Klienten im Asylverfahren werden in der Erstaufnahmeeinrichtung oder der
 
 Folgeunterkunft untergebracht.
 

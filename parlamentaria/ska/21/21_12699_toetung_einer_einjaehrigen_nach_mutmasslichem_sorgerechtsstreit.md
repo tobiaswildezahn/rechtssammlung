@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 14
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12675"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62003"
@@ -43,7 +44,7 @@ Welche Erkenntnisse beziehungsweise Hintergründe liegen dem Senat beziehungswei
 
 Wann wurde das Mädchen wo geboren und wer hatte das Sorgerecht zu welcher Zeit für das Kind? Gab es bezüglich des Sorgerechts Auseinandersetzungen zwischen den beiden Elternteilen? Falls ja, in welcher Form? Trifft es zu, dass der Kindsvater am Tag zuvor das Sorgerecht für das Mädchen verloren hatte? Falls ja, aus welchem Grund?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/12675.
 
@@ -55,7 +56,7 @@ Welche weiteren Kinder gibt es in der Familie und sind diese ebenfalls mit dem V
 
 Welcher Nationalität gehören die einzelnen Familienmitglieder an?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Es gibt vier weitere Kinder des Tatopfers im Alter von 15, acht, sieben und drei Jahren. Diese Kinder sind mit dem Tatverdächtigen nicht verwandt. Nähere Auskünfte zum Geburtsdatum, Geburtsort, zu Sorgerechten und Nationalität werden aufgrund der Persönlichkeitsrechte der Kinder nicht erteilt.
 

@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 26
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11929", "21/399", "21/7120", "21/14851", "21/15275", "21/15545"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65637"
@@ -156,17 +157,17 @@ Es ist eine ständige Aufgabe der Polizei die Beachtung der Straßenverkehrsvors
 
 Im Übrigen ist es nicht im Sinne der zuständigen Behörde und der Flughafen Hamburg GmbH (FHG), dass Fluggäste oder in der Luftfahrt Beschäftigte in der Nachbarschaft parken. Daher hat die FHG aktiv die Untersuchung des LBV zu einer Ausweitung des bestehenden Bewohnerparkgebiets unterstützt. Am Flughafen selbst gibt es mit rund 12 000 Kunden-Parkplätzen außerhalb der Spitzenzeiten genügend Stellplätze.
 
- Im Sommer richtet Hamburg Airport jedes Jahr über 3 000 zusätzliche Saison-
+– Im Sommer richtet Hamburg Airport jedes Jahr über 3 000 zusätzliche Saison-
 
 Parkplätze ein. Die Flächen werden zum Teil extra angemietet, hergerichtet und mit Shuttle-Diensten angebunden. Insgesamt stehen den Fluggästen in den Spitzen-
 
 reisezeiten über 15 000 Parkplätze zur Verfügung – mit unterschiedlichen Parkprodukten für Geschäftsreisende und Urlauberinnen und Urlauber.
 
- Zu den Hauptreisezeiten rät die FHG durch eine gezielte Öffentlichkeitsarbeit in
+– Zu den Hauptreisezeiten rät die FHG durch eine gezielte Öffentlichkeitsarbeit in
 
 Norddeutschland und Dänemark, im Voraus einen Parkplatz zu buchen oder die öffentlichen Verkehrsmittel zu nutzen – eine Option, die 30 Prozent der Fluggäste wählen.
 
- Über interne Kommunikationswege werden Mitarbeiterinnen und Mitarbeiter,
+– Über interne Kommunikationswege werden Mitarbeiterinnen und Mitarbeiter,
 
 ansässige Firmen und Fluggesellschaften darauf hingewiesen, die eigens ausgewiesenen Mitarbeiter-Parkplätze zu nutzen.
 
@@ -217,7 +218,7 @@ Wie hoch waren die Einnahmen der Flughafengesellschaft jeweils in den Jahren 201
 
 Welcher Gewinn konnte in den Jahren 2014 – 2018 bei der Flughafenbetreibergesellschaft durch die Bewirtschaftung von Parkhäusern/Parkraum verbucht werden? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Angaben zu den Einnahmen und dem Gewinn aus Stellplatzvermietung unterliegen dem Geschäftsgeheimnis der FHG.
 

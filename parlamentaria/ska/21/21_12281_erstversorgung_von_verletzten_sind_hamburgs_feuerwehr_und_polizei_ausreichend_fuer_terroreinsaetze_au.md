@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61558"
@@ -224,11 +225,11 @@ Bei der Polizei Hamburg ist das Konzept zur Zusatzausstattung Erste Hilfe nach A
 
 c) Falls ja, wie viele der Ausrüstungen gibt es in Hamburg jeweils
 
- auf Einsatzfahrzeugen der Feuerwehr sowie
+– auf Einsatzfahrzeugen der Feuerwehr sowie
 
 84 Rettungswagen verfügen über eine Vorsichtungstasche. 22 Hilfeleistungslöschfahrzeuge sind mit jeweils einer Versorgungstasche und einer Vorsichtungstasche ausgestattet
 
- auf Einsatzfahrzeugen der Polizei?
+– auf Einsatzfahrzeugen der Polizei?
 
 Gegenwärtig werden 42 Erste-Hilfe-Taschen für Einsatzersthelfer für geschlossene Einheiten mitgeführt, 332 Erste-Hilfe-Taschen werden auf den mit SK-4-Westen ausgerüsteten Funkstreifenwagen in Zusammenhang mit diesen vorgehalten. Bei der Ausstattung der BFE und des LKA 24/SE handelt es sich ausschließlich um Mannausstattungen; fahrzeuggebundene Versorgungsmittel liegen für diese Einheiten nicht vor.
 

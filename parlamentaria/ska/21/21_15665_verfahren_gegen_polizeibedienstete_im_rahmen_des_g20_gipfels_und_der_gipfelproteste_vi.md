@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12897", "21/11642", "21/14624"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65167"
@@ -153,7 +154,7 @@ Wie viele der vom DIE beziehungsweise der Staatsanwaltschaft gegen Polizeibedien
 
 Wie viele der vom DIE beziehungsweise der Staatsanwaltschaft gegen Polizeibedienstete geführten Ermittlungsverfahren wurden bis zum aktuellen Zeitpunkt auf welcher Rechtsgrundlage und aus welchen Gründen eingestellt? Bitte die Tabelle aus Drs. 21/12897 beziehungsweise 21/14624 entsprechend aktualisieren und ergänzen.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 In Fortführung der Tabelle in Drs. 21/14624 werden folgende weitere Verfahrenseinstellungen mitgeteilt:
 
@@ -206,7 +207,7 @@ Sind im Falle der Einstellungen nach § 170 Absatz 2 StPO Einstellungsmitteilung
 
 Sind im Falle der Einstellung nach § 170 Absatz 2 StPO Einstellungsmitteilungen an die Geschädigten versandt worden? Wenn ja, wie viele? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/14624.
 
@@ -226,6 +227,6 @@ Wie viele Ermittlungsverfahren gegen Polizeibedienstete haben bis zum aktuellen 
 
 Nach einer Pressemeldung wurde gegen einen Polizeibeamten ein Strafbefehl erlassen, allerdings nicht wegen einer „Auseinandersetzung zwischen Polizei und Demonstranten“. Welcher Sachverhalt liegt dem Strafbefehl zugrunde, welches Delikt wird dem Beamten vorgeworfen, welche Art und Höhe der Sanktion wurde beantragt, ist der Strafbefehl bereits ergangen und rechtskräftig?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 In einem Verfahren wurde bislang ein Strafbefehl erlassen und zugestellt. Einem nordrhein-westfälischen Polizeibeamten wird zur Last gelegt, am 9. Juli 2017 in der Großgefangenensammelstelle (GeSa) Neuland nach einer verbalen Kommunikation einem hamburgischen Polizisten dessen berechtigt im Holster getragenes Reizsprühgas- Pfefferspray entrissen zu haben. Hintergrund der Handlung war die irrige Annahme des nordrhein-westfälischen Polizisten, dass sich der hamburgische Polizist in der waffenfreien Zone der GeSa befunden hätte. Der hamburgische Polizeibeamte verletzte sich leicht am Finger. Es wurde eine Verwarnung mit Strafvorbehalt beantragt.

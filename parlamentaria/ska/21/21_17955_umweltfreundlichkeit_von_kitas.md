@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17758"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67555"
@@ -77,6 +78,6 @@ Wird die Umweltfreundlichkeit von Kitas während des Betriebs regelmäßig über
 
 Welche Anreize werden für die Kita-Träger gesetzt, um einen möglichst umweltfreundlichen Betrieb zu gewährleisten?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung. Im Übrigen erfolgt keine Überprüfung auf Umweltfreundlichkeit im Betrieb.

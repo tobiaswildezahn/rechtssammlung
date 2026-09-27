@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 30
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48660"
@@ -89,7 +90,7 @@ Die Tatsache, dass das Sozialministerium den ASD Wandsbek angeschrieben hat, lä
 
 Seit wann kooperiert die Freie und Hansestadt Hamburg mit Einrichtungen der Frau Barbara Janssen beziehungsweise Barbara Janssen GmbH?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage. Eine Belegung des Trägers erfolgte erstmals 2005. Dies ergibt sich aus einer Trägerakte beim Bezirksamt Wandsbek, die dort regelhaft bei erstmaliger Belegung eines Trägers angelegt wird. In der Anlage sind nur die Belegungen seit November 2007 aufgeführt, da erst seit diesem Zeitpunkt eine regelmäßige elektronische Erfassung der Fälle erfolgt. Die Belegungen im Zeitraum zwischen 2005 und 2007 könnte nur durch die Sichtung mehrerer Tausend Papierakten über alle Maßnahmen im Rahmen der Hilfen zur Erziehung dieser zwei Jahre ermittelt werden. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -145,7 +146,7 @@ Die vom Landesjugendamt verfügten Auflagen und ihre Begründungen lassen den Sc
 
 Zur Auflage 1.9 steht in der Verfügung auf Seite 3: „Betreute und Mitarbeiterinnen sowie Mitarbeiter der Einrichtungen schilderten gleichermaßen, dass jeder Betreuten in den genannten Einrichtungen eine sogenannte „Patin“ zugeteilt werde. Bei dieser handele es sich um eine andere Betreute, die bei Regelverstößen durch die Betreute mitbestraft werde und im Übrigen gewisse Kontrollaufgaben wahrnehme. So dürfe keins der Mädchen alleine zur Toilette oder zum Duschen gehen, stets müsse die „Patin“ dabei sein, um Fehlverhalten oder Entweichen zu verhindern. (…) Eine Delegation dieser Aufgaben auf andere Betreute ist unzulässig. Zudem wird durch das geschilderte System der Bespitzelung eine Kultur des Misstrauens und dauernder Verletzung des Rechts auf Intim- und Privatsphäre installiert, die nicht geduldet werden kann.“ Wie ist die pädagogische beziehungsweise fachliche Bewertung der Fachbehörde für solche Vorkommnisse?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung und Antwort zu 1. bis 3.
 
@@ -197,7 +198,7 @@ Haben die zuständigen Behörden der Freien und Hansestadt Hamburg mit Betreuten
 
 Was wurde unternommen, um den Anliegen nachzugehen und zu entsprechen?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Seitens der Jugendämter Altona, Eimsbüttel, Hamburg-Nord und des FIT sind keine Gespräche geführt worden, weil es keine aktuelle (stationäre) Belegung gab.
 

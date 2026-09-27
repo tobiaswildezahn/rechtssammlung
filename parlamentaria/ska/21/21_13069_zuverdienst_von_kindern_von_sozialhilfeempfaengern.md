@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62413"
@@ -82,7 +83,7 @@ Wie viele Kinder von Sozialhilfeempfängern haben eine Tätigkeit ausgeübt? Wie
 
 Wie hoch ist die Gesamteinsparung für die öffentliche Hand durch die Anrechnung des Einkommens der Kinder auf den Bedarf der Bedarfsgemeinschaft? Bitte seit 2011 aufschlüsseln.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Für die Anzahl der Kinder im Alter von 15 bis 18 Jahren mit Einkommen aus Erwerbstätigkeit im Rechtskreis SGB II siehe Anlage. Darüber hinaus erfolgt keine statistische Erhebung und Auswertung im Sinne der Fragestellungen durch den Statistik-Service der Bundesagentur für Arbeit. Hinsichtlich des Rechtskreises SGB XII ist eine statistische Auswertung der oben genannten Fragestellungen ebenfalls nicht möglich. Eine händische Auswertung aller Einzelakten ist innerhalb der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich, da Akten für mehr als 148.000 Bedarfs- beziehungsweise Einstandsgemeinschaften überprüft werden müssten.
 

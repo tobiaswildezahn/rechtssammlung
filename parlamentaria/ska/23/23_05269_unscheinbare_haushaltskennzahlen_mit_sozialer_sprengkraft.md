@@ -8,12 +8,13 @@ datum_anfrage: "2026-09-08"
 datum_drucksache: "2026-09-15"
 urheber: ["Andreas Grutzeck"]
 fraktionen: ["CDU"]
-vorgang: null
+vorgang: 89144
 seiten: 11
 fragen: 5
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["23/5187", "23/5240", "23/5241"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105174"

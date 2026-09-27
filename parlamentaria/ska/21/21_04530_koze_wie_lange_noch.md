@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/718"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52929"
@@ -59,7 +60,7 @@ Wie schätzt der Senat die politische Ausrichtung des „KoZe“ gegenwärtig ei
 
 Gibt es personelle Überschneidungen der „Aktivisten“ des „KoZe“ zu anderen extremistischen Einrichtungen und Netzwerken? Wenn ja, mit welchen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Den Sicherheitsbehörden liegen derzeit keine Erkenntnisse im Sinne der Fragestellung vor. Im Übrigen siehe Drs. 21/718.
 

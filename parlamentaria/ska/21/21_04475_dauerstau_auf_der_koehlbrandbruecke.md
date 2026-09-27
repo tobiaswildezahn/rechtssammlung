@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52878"
@@ -103,7 +104,7 @@ Sofern die Nichtarbeit in der Nacht mit Schwertransporten begründet wird: In we
 
 Warum können Schwertransporte nicht auf zwei bis drei Nächte pro Woche konzentriert werden, sodass in den anderen Nächten gearbeitet werden kann?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Befahrbarkeit der Köhlbrandbrücke durch Großraum- und Schwertransporte wird durch die Baustelle nicht unmittelbar beeinflusst. Im Übrigen: entfällt.
 

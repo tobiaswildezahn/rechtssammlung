@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8441", "21/15067"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68547"
@@ -89,7 +90,7 @@ Wie hoch ist der Umfang externer Mittel von privatwirtschaftlichen Anbietern, ih
 
 In welchem Umfang sind in den letzten fünf Jahren privatwirtschaftliche Unternehmen, Lobbyorganisationen und/oder Interessensvertretungen im Sponsoring von schulischen Veranstaltungen oder Projekten tätig? (Bitte die entsprechenden Institutionen mit Umfang, Schulen, einbezogenen Jahrgangsstufen, Schulform, Sozialindex und Bezirk in einer Excel-Tabelle angeben.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Bezüglich des Umfangs der von Externen geleisteten Geld- und Sachspenden sowie ihres Sponsorings ergeben sich die verfügbaren Informationen für die Jahre 2013 bis 2016 aus der Drs. 21/8441, für die Jahre ab 2017 bis zum letzten Auswertungs- und Erhebungszeitraum siehe https://www.hamburg.de/sponsoring (Stand bis 30.6.2019).
 
@@ -156,25 +157,25 @@ Folgende Firmen waren beziehungsweise sind Lieferanten in den letzten fünf Jahr
 
 Mobile Endgeräte wie unter anderem Notebooks, Tablets:
 
- on line Datensysteme GmbH von November 2011 bis November 2015
+– on line Datensysteme GmbH von November 2011 bis November 2015
 
- CANCOM on line GmbH von November 2015 bis November 2019.
+– CANCOM on line GmbH von November 2015 bis November 2019.
 
 Stationäre Endgeräte wie unter anderem Multimediacomputer, Monitore, Drucker:
 
- on line Datensysteme GmbH von April 2012 bis April 2016.
+– on line Datensysteme GmbH von April 2012 bis April 2016.
 
- CANCOM on line GmbH von April 2016 bis April 2020.
+– CANCOM on line GmbH von April 2016 bis April 2020.
 
 Präsentationsgeräte wie unter anderem interaktive Whiteboards/Präsentationssysteme, Displays und Projektoren:
 
- LCD media GmbH von September 2013 bis Januar 2018.
+– LCD media GmbH von September 2013 bis Januar 2018.
 
- CANCOM on line GmbH von Januar 2018 bis Dezember 2019.
+– CANCOM on line GmbH von Januar 2018 bis Dezember 2019.
 
 Router mit integriertem Jugendschutzfilter:
 
- Weis IT-Systeme GmbH & Co. KG von Mai 2014 bis April 2018.
+– Weis IT-Systeme GmbH & Co. KG von Mai 2014 bis April 2018.
 
 Die für Bildung zuständige Behörde erfasst nicht systematisch, welche Software in den Schulen eingesetzt wird. Die Schulen können eigenverantwortlich über den Einsatz der Software entscheiden. In der Kürze der für eine Parlamentarische Anfrage zur Verfügung stehenden Zeit ist es nicht möglich, diese Information zu ermitteln.
 

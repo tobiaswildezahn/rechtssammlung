@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/4631"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49158"
@@ -57,7 +58,7 @@ Wie hoch ist der aktuelle, zulässige Toleranzbetrag, der die Nettokaltmiete üb
 
 Wie viele Bedarfsgemeinschaften liegen über diesem Toleranzbetrag?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Entscheidung über die Einleitung eines Kostensenkungsverfahrens wird immer individuell aufgrund der persönlichen Situation des Leistungsberechtigten, aber auch aufgrund der im konkreten Einzelfall entstehenden Kosten getroffen. Deswegen gibt es keinen festgelegten „Toleranzbetrag“.
 

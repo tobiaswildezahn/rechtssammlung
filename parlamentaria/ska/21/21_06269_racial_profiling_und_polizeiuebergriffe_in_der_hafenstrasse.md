@@ -14,6 +14,7 @@ fragen: 26
 einzelfragen: 45
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13465"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54785"
@@ -99,7 +100,7 @@ Hält der Senat es für recht- und verhältnismäßig sowie verfassungsgemäß, 
 
 Hält der Senat es für recht- und verhältnismäßig sowie verfassungsgemäß, dass in den letzten Monaten afrikanische Anwohner/-innen der genannten Umgebung immer wieder kontrolliert werden? (Bitte die Recht- Verhältnis- und Verfassungsmäßigkeit einzeln begründen.) Wenn ja: warum? Wenn nein: Warum unterbindet der Senat diese Praxis nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Maßnahmen zur Bekämpfung der Betäubungsmittelkriminalität, einschließlich der Überprüfung von Personen, sowie die Maßnahmen im Zusammenhang mit der Versammlung erfolgten entsprechend den geltenden gesetzlichen Grundlagen. Die in der Fragestellung enthaltene Aussage, dass Anwohner mehrfach kontrolliert wurden, kann nicht bestätigt werden. Im Übrigen siehe Vorbemerkung.
 
@@ -145,7 +146,7 @@ Gab es einen konkreten Anlass für die Abriegelung des Hinterhofs/ Gartens? Wenn
 
 Wann waren die ersten Beamten/-innen an diesem Tag in dem Bereich Balduintreppe, Hafenstraße, Bernhard-Nocht-Straße im Einsatz?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Vorbemerkung.
 
@@ -197,7 +198,7 @@ Wurden auch Personen durchsucht?
 
 Wurden bei den kontrollierten Personen Gegenstände sichergestellt oder beschlagnahmt?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Nein.
 
@@ -217,7 +218,7 @@ Gab es nach Erkenntnissen der Polizei Personen, deren Personalien an diesem Tag 
 
 Wurden die übrigen im Einsatz befindlichen Beamten informiert, wenn von einer Person Personalien kontrolliert wurden und wurden Name und Aussehen der Person weitergegeben, um doppelte Kontrollen zu vermeiden?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Nein.
 

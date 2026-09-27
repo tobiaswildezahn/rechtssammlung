@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/3650", "21/8807"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63781"
@@ -109,15 +110,15 @@ Die SK ist weiterhin im Rahmen der europapolitischen Öffentlichkeitsarbeit in S
 
 Im Rahmen der Extremismusprävention erhalten Träger aus der Produktgruppe 255.03 (Integration, Opferschutz, Zivilgesellschaft) Landesmittel der BASFI sowie Mittel aus dem Bundesprogramm „Demokratie leben!“. Einige der geförderten Maßnahmen beinhalten auch Anteile der politischen Bildung. Im Einzelnen sind dies Angebote folgender Träger:
 
- Arbeit und Leben (Mobiles Beratungsteam – MBT mit themenbezogenen Bildungs-
+– Arbeit und Leben (Mobiles Beratungsteam – MBT mit themenbezogenen Bildungs-
 
 bausteinen für die pädagogische Arbeit sowie Monitoring-Berichte Rechtsextremismus aktuell, siehe https://hamburg.arbeitundleben.de/pb/mbt/downloads).
 
- Johann Daniel Lawaetz-Stiftung (Öffentliche jährliche Veranstaltungsreihe des
+– Johann Daniel Lawaetz-Stiftung (Öffentliche jährliche Veranstaltungsreihe des
 
 Beratungsnetzwerks gegen Rechtsextremismus)
 
- Institut für konstruktive Konfliktaustragung und Mediation e.V. IKM (Projekt Mosaiq
+– Institut für konstruktive Konfliktaustragung und Mediation e.V. IKM (Projekt Mosaiq
 
 Hamburg, siehe http://www.ikm-hamburg.de/projekte/mosaiq-hamburg)
 
@@ -148,7 +149,7 @@ Um wie viel Prozent hat der Senat in den letzten Jahren die Mittel für politisc
 
 Um wie viel Prozent hat der Senat in den letzten Jahren die Mittel für die Träger seit dem Jahr 2015 erhöht? Bitte nach Jahren aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Das Sachmittelbudget für politische Bildung ist in der Produktgruppe 238.01 bei der LZ veranschlagt und ergibt sich aus der nachstehenden Übersicht. Die Mittel für Träger werden als Kosten aus Transferleistungen abgebildet.
 
@@ -187,6 +188,6 @@ Aus welchen Gründen wurde 2017 der Bereich politische Bildung aus dem Aufgabenb
 
 Zuvor waren das Jugendinformationszentrum (JI) und die Landeszentrale für Politische Bildung (LZ) eigenständige Ämter, nun sind sie dem Amt für Bildung untergeordnet. Warum und wie wird dadurch der politischen Bildung mehr Wertung beigemessen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Das Jugendinformationszentrum (JIZ) und die LZ sind zu keinem Zeitpunkt eigenständige Ämter in der für Bildung zuständigen Behörde gewesen. Beide Bereiche waren bis zum 30. Juni 2015 in einer Abteilung des früheren Amtes für Weiterbildung zusammengefasst. Mit Wirkung zum 1. Juli 2015 wurden das JIZ und die LZ zur Stärkung ihrer Eigenverantwortlichkeit und Hervorhebung der jeweiligen Aufgabenschwerpunkte jeweils als eigenständige Dienststellen des Amtes für Bildung organisiert. Damit ergeben sich ein Bedeutungszuwachs als verselbständigte Einheit sowie ein Synergieeffekt im Hinblick auf die Kooperation mit den übrigen Instituten der für Bildung zuständigen Behörde, insbesondere dem LI. Mit dem Haushaltsplan 2017/2018 wurde die neue Struktur umgesetzt, indem beide Dienststellen als jeweils eigenständige Aufgabeneinheit der Produktgruppe 238.01 abgebildet wurden, der auch das Amt für Bildung zugeordnet ist.

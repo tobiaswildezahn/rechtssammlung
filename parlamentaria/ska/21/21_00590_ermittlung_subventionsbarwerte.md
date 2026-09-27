@@ -10,12 +10,13 @@ urheber: ["Dr. Bernd Baumann"]
 fraktionen: ["AfD"]
 vorgang: 44560
 seiten: 3
-fragen: 0
-einzelfragen: 0
-antwortbloecke: 0
+fragen: 2
+einzelfragen: 2
+antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14366"]
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48751"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/48751/21_00590_ermittlung_subventionsbarwerte"
 abgerufen: "2026-09-27"
@@ -27,19 +28,33 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Dr. Bernd Baumann (AfD) vom 27.05.15 und Antwort des Senats · Drucksache vom 02.06.2015  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/48751) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/48751/21_00590_ermittlung_subventionsbarwerte)
 
-## Volltext
-
-Ermittlung Subventionsbarwerte
+## Einleitung für die Fragen
 
 Mit der Drs. 20/14366 informiert der Senat die Bürgerschaft über die Eckpunkte der Wohnraumförderprogramme 2015 und 2016. Auf den Seiten 3 und 4 werden die Programme der Wohnraumförderung und die zurechenbaren Subventionsbarwerte dargestellt.
 
 Vor diesem Hintergrund frage ich den Senat:
 
- Welche Größen liegen der Barwertermittlung zugrunde?
+## Einleitung für die Antworten des Senats
 
- Wie werden die eingehenden Größen ermittelt?
+–
+
+## Fragen und Antworten
+
+### Frage 1
+
+Welche Größen liegen der Barwertermittlung zugrunde?
+
+#### Antwort zu Frage 1
+
+–
+
+### Frage 2
+
+Wie werden die eingehenden Größen ermittelt?
 
 Ergänzend bitten wir um die Berechnung der Subventionsbarwerte der Jahre 2015 und 2016 und ergänzende Erläuterungen, sodass die Ermittlung nachvollzogen werden kann.
+
+#### Antwort zu Frage 2
 
 Der Senat beantwortet die Fragen – teilweise auf der Grundlage von Auskünften der Hamburgischen Investitions- und Förderbank (IFB) – wie folgt:
 
@@ -71,38 +86,96 @@ Das Förderprogramm Mod G wird in Form von c) einmaligen Zuschüssen, für die v
 
 Grundsätzlich errechnet sich der Barwertfaktor nach folgender Formel:
 
-∑ ௡௧ୀଵ ݑ݊݃ ݐ ∗ሺ1 ൅ሻି௧ ܤܹ ܨ ൌ ∑ ௡௧ୀଵ ݑ݊݃ ݐ
-
-mit i als Diskontierungszins (6,5 Prozent)
-
-mit n als der Anzahl Auszahlungsperioden
-
-mit t als dem Laufindex für die einzelne Auszahlungsperiode
-
-mit Zahlung als positivem oder negativem Cash-Flow (aus IFB-Sicht)
-
 Anschließend werden die Bewilligungsvolumina der Förderprogramme berechnet.
 
 Auf die einzelnen Wohneinheiten bezogen erhält man folgende Werte:
 
+ܤܹ ܨൌ
+
+∑  
+ܼ݄݈ܽ  
+ݑ݊݃  
+ݐ ∗ሺ1 ൅݅ሻି௧
+
+∑ ݑ݊݃ ݐ
+
 Modernisierungsprogramm B (degressiv)  
-Anzahl WE nominal nominal Barwert- barwertig  
-EUR pro EUR Pro- faktor EUR Pro-  
-WE gramm gramm  
-300 15.515 4.654.500 0,76 3.537.420
+Anzahl WE  
+nominal  
+EUR pro
 
+WE
+
+nominal EUR Pro-
+
+gramm
+
+Barwert-
+
+faktor
+
+barwertig EUR Pro-
+
+gramm  
+15.515 4.654.500  
+0,76  
+3.537.420  
 Modernisierungsprogramm B (linear)  
-Anzahl WE nominal nominal Barwert- barwertig  
-EUR pro EUR Pro- faktor EUR Pro-  
-WE gramm gramm  
-300 20.375 6.112.500 0,72 4.401.000  
-Barwertmittel Mod B 7,938 Mio. EUR
+Anzahl WE  
+nominal  
+EUR pro
 
+WE
+
+nominal EUR Pro-
+
+gramm
+
+Barwert-
+
+faktor
+
+barwertig EUR Pro-
+
+gramm  
+20.375 6.112.500  
+0,72  
+4.401.000  
+Barwertmittel Mod B  
+7,938  
+Mio. EUR  
 Modernisierungsprogramm G (einmalig)  
-Anzahl WE nominal nominal Barwert- barwertig  
-EUR pro EUR Pro- faktor EUR Pro-  
-WE gramm gramm
+Anzahl WE  
+nominal  
+EUR pro
 
-300 2.550 765.000 1,00 765.000 Barwertmittel Mod G 0,765 Mio. EUR
+WE
 
-Barwertmittel Mod B 7,938 Mio. EUR Barwertmittel Mod G 0,765 Mio. EUR ModBInsgesamt 8,703 Mio. EUR
+nominal EUR Pro-
+
+gramm
+
+Barwert-
+
+faktor
+
+barwertig EUR Pro-
+
+gramm
+
+2.550  
+765.000  
+1,00  
+765.000  
+Barwertmittel Mod G  
+0,765  
+Mio. EUR
+
+Barwertmittel Mod B  
+7,938  
+Mio. EUR  
+Barwertmittel Mod G  
+0,765  
+Mio. EUR
+
+ModBInsgesamt 8,703 Mio. EUR

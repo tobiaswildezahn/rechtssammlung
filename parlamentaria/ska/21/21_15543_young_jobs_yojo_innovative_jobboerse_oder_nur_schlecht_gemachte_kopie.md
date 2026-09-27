@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 13
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7942"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65023"
@@ -193,7 +194,7 @@ Wie hoch ist das jährliche Werbebudget? Bitte nach Jahren seit Juni 2016 auflis
 
 Wie hoch sind die Betriebskosten? Bitte nach Jahren seit Juni 2016 und zusätzlich nach Kostenarten aufschlüsseln.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Ab Juni 2016  
 2017  
@@ -224,7 +225,7 @@ Wie viele VZÄ sind für den redaktionellen Content und als Ansprechpartner für
 
 Welche Qualifikation bringen die Ansprechpartner mit?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Drs. 21/7942. Das Team ist personell unverändert geblieben.
 
@@ -244,18 +245,18 @@ Welche Ziele hat sich YOJO für das Jahr 2019 gesetzt?
 
 In der Weiterentwicklung des Projektes YOJO sollen im kommenden Jahr folgende Schwerpunkte gesetzt werden:
 
- Weiterer Ausbau der Internetseite (Schwerpunkt Optimierung Startseite),
+– Weiterer Ausbau der Internetseite (Schwerpunkt Optimierung Startseite),
 
- Ausbau des Angebots für Unternehmen auf der YOJO-Plattform,
+– Ausbau des Angebots für Unternehmen auf der YOJO-Plattform,
 
- erste YOJO Live-Veranstaltung („Talents meet Professionals“ am 25. Januar 2019
+– erste YOJO Live-Veranstaltung („Talents meet Professionals“ am 25. Januar 2019
 
 im Museum der Arbeit),
 
- gemeinsame Veranstaltungen mit Hamburger Unternehmen für Young Professio-
+– gemeinsame Veranstaltungen mit Hamburger Unternehmen für Young Professio-
 
 nals,
 
- YOJO-Präsenz auf Nachwuchs-Fachmessen in München, Berlin, Hamburg und
+– YOJO-Präsenz auf Nachwuchs-Fachmessen in München, Berlin, Hamburg und
 
- Erstellung einer englischsprachigen Einstiegsseite.
+– Erstellung einer englischsprachigen Einstiegsseite.

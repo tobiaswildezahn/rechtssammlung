@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5895", "21/3955"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57534"
@@ -48,17 +49,17 @@ Netto-Monatsfallzahlen liegen in der PKS programmseitig lediglich für den Berei
 
 Darüber hinaus müssten zur Beantwortung der Fragestellungen zu den Daten nach Bezirken und Stadtteilen Sonderauswertungen in der PKS erfolgen. Diese würden für die Ermittlungen der Netto-Zahlen
 
- des Jahres 2016 nach Bezirken – 84 Tabellen (sieben Bezirke mal zwölf Monate),
+– des Jahres 2016 nach Bezirken – 84 Tabellen (sieben Bezirke mal zwölf Monate),
 
- der Monate Januar bis März 2017 nach Bezirken – 21 Tabellen (sieben Bezirke
+– der Monate Januar bis März 2017 nach Bezirken – 21 Tabellen (sieben Bezirke
 
 mal drei Monate),
 
- des Jahres 2016 nach Stadtteilen – 1.248 Tabellen (104 Stadtteile mal zwölf Mo-
+– des Jahres 2016 nach Stadtteilen – 1.248 Tabellen (104 Stadtteile mal zwölf Mo-
 
 nate),
 
- der Monate Januar bis März 2017 nach Stadtteilen – 312 Tabellen (104 Stadtteile
+– der Monate Januar bis März 2017 nach Stadtteilen – 312 Tabellen (104 Stadtteile
 
 mal drei Monate).
 

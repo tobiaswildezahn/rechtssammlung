@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 20
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/2393"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48835"
@@ -89,13 +90,13 @@ Der bisherige Plan von Bäderland und der Bezirksverwaltung Nord sieht vor, etwa
 
 Für dieses Projekt sind nach dem bisherigen Stand der Planungen folgende Eckdaten vorgesehen:
 
- 35 Prozent des Geländes sollen für den Wohnungsbau veräußert werden.
+– 35 Prozent des Geländes sollen für den Wohnungsbau veräußert werden.
 
- Geplant sind circa 124 Wohnungen.
+– Geplant sind circa 124 Wohnungen.
 
- Der Anteil für öffentlich geförderte Wohnungen soll 30 Prozent betragen.
+– Der Anteil für öffentlich geförderte Wohnungen soll 30 Prozent betragen.
 
- Es gibt eine Vorgabe für die GFZ von 1,2.
+– Es gibt eine Vorgabe für die GFZ von 1,2.
 
 ### Frage 9
 
@@ -113,7 +114,7 @@ Welche weiteren Schritte sind wann geplant?
 
 Hat sich die Senatskommission bereits mit diesem Thema beschäftigt? a. Wenn ja, mit welchem Ergebnis? b. Wenn nein, wird sich die Senatskommission noch mit den neuen Plänen beschäftigen? Wenn ja, zu welchem Zeitpunkt?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Senatskommission für Stadtentwicklung und Wohnungsbau hat in der Sitzung vom
 11. Juni 2015 von diesem Thema Kenntnis genommen. Anschließend wird sich der bezirkliche Stadtentwicklungsausschuss mit der weiteren Planung befassen. Die Vorstellung der neuen Planung im bezirklichen Stadtentwicklungsausschuss ist für die Sitzung am 18. Juni 2015 vorgesehen.

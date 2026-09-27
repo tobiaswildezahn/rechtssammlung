@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5758", "20/5503", "20/7821", "20/8605", "21/7184", "21/10319", "21/11535", "21/13238"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69269"
@@ -97,7 +98,7 @@ Welche neuen Publikationen im Bereich der Wirtschafts- und Industriespionage hal
 
 Welche neuen Angebote für Unternehmen und die Öffentlichkeit halten die Polizei Hamburg und das Landesamt für Verfassungsschutz im Bereich der Wirtschafts- und Industriespionage seit 2013 vor?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 1.
 

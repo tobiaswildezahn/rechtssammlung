@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49619"
@@ -57,23 +58,23 @@ Die nachgefragten Daten werden nicht im Sinne der Fragestellung erfasst. Eine Au
 
 Aus diesem Grund werden nachfolgend neun relevante Straßensperrungen infolge von Rohrbrüchen aufgeführt:
 
- Beim Schlump (Mai 2013, defektes Formteil)
+– Beim Schlump (Mai 2013, defektes Formteil)
 
- Hannoversche Straße (Juni 2013, Schalenbruch)
+– Hannoversche Straße (Juni 2013, Schalenbruch)
 
- Waidmannstraße (Dezember 2013, Schalenbruch)
+– Waidmannstraße (Dezember 2013, Schalenbruch)
 
- Holtenklinker Straße (Januar 2014, Querbruch)
+– Holtenklinker Straße (Januar 2014, Querbruch)
 
- Gärtnerstraße (August 2014, Schalenbruch)
+– Gärtnerstraße (August 2014, Schalenbruch)
 
- Classenweg (September 2014, Querbruch)
+– Classenweg (September 2014, Querbruch)
 
- Kollaustraße (Dezemeber 2014, Schalenbruch)
+– Kollaustraße (Dezemeber 2014, Schalenbruch)
 
- Hohe Lieth (Juli 2015, defektes Formteil)
+– Hohe Lieth (Juli 2015, defektes Formteil)
 
- Spaldingstraße (August 2015, Längsriss)
+– Spaldingstraße (August 2015, Längsriss)
 
 ### Frage 2
 
@@ -119,23 +120,23 @@ Welche Leitungsabschnitte sind derzeit so marode, dass sie in Kürze saniert wer
 
 Akuter Handlungsbedarf liegt nach Erkenntnissen von Hamburg Wasser nicht vor. Folgende sanierungsbedürftige Trinkwasserleitungen mit größerem Durchmesser werden in folgenden Straßen planmäßig in den nächsten Jahren saniert:
 
- Amsinckstraße
+– Amsinckstraße
 
- Hammerbrookstraße
+– Hammerbrookstraße
 
- Ruhrstraße
+– Ruhrstraße
 
- Billhorner Röhrendamm
+– Billhorner Röhrendamm
 
- Weg beim Jäger
+– Weg beim Jäger
 
- Reiherdamm
+– Reiherdamm
 
- Gärtnerstraße
+– Gärtnerstraße
 
- Waidmannstraße
+– Waidmannstraße
 
- Kirchstieg
+– Kirchstieg
 
 ### Frage 7
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 16
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4838", "21/3672"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53310"
@@ -63,7 +64,7 @@ Plant die zuständige Behörde die Zuverdienstgrenzen für Referendare anzuheben
 
 Inwieweit hat die zuständige Behörde die Auswirkungen der Anhebung der Zuverdienstgrenzen auf den Haushalt der Justizbehörde geprüft (bitte den aktuellen Sachstand angeben)? Wenn ja, mit welchem Ergebnis und wann werden Bürgerschaft und der Personalrat der Referendare darüber informiert? Wenn nein, warum sind die Prüfungen noch nicht abgeschlossen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Möglichkeit einer Anhebung der Zuverdienstgrenze wird derzeit von der zuständigen Behörde unter Berücksichtigung aller Aspekte geprüft. Diese Prüfung dauert noch an. Die zuständige Behörde strebt einen Abschluss im 3. Quartal 2016 an. Über die Ergebnisse wird der Senat nach Abschluss der Prüfung berichten.
 

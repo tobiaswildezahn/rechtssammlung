@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4013", "21/4144"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55099"
@@ -71,19 +72,19 @@ Welche weiteren einzelnen Maßnahmen wurden in den Jahren 2015 und 2016 geförde
 
 Im Jahr 2015 wurden keine weiteren Maßnahmen gefördert. Im Jahr 2016 wurden folgende Veranstaltungen gefördert (Stichtag: 31.10.2016):
 
- Das „Fachkräftepotential von Frauen nutzen“ – Ein Fachworkshop des Hamburger
+– Das „Fachkräftepotential von Frauen nutzen“ – Ein Fachworkshop des Hamburger
 
 Fachkräftenetzwerks wurde mit 500 Euro unterstützt.
 
- Der „Plattdeutschtag“ in Hamburg am 22. April 2016 (Veranstalter: Plattdüütsch in
+– Der „Plattdeutschtag“ in Hamburg am 22. April 2016 (Veranstalter: Plattdüütsch in
 
 Hamburg e.V.) wurde mit 5.000 Euro bezuschusst.
 
- Die Veranstaltung „Nicht 2 sondern 1.000 Möglichkeiten“ (Veranstalterin: Feminis-
+– Die Veranstaltung „Nicht 2 sondern 1.000 Möglichkeiten“ (Veranstalterin: Feminis-
 
 tisches Institut in Kooperation mit Denk(t)räume und Dolle Deerns) wurde mit 760 Euro unterstützt.
 
- Die Eröffnung der Ausstellung „Andersrum“ vor den Deichtorhallen am 21. Juli
+– Die Eröffnung der Ausstellung „Andersrum“ vor den Deichtorhallen am 21. Juli
 
 2016 wurde mit 4.000 Euro unterstützt.
 
@@ -111,48 +112,48 @@ Der Senat gibt an, die Stabstelle „Gleichstellung und geschlechtliche Vielfalt
 
 2015:
 
- Senatsempfang zum Internationalen Frauentag am 9. März 2015
+– Senatsempfang zum Internationalen Frauentag am 9. März 2015
 
- Senatsempfang zur Verleihung des Bundesverdienstordens an Frau Prof. Dr.
+– Senatsempfang zur Verleihung des Bundesverdienstordens an Frau Prof. Dr.
 
 Angelika Wagner und Medaille für treue Arbeit an Expertinnen-/Beratungsnetzwerk/Mentoring am 28. April 2015
 
- Senatsempfang zum Christopher Street Day/CSD am 30. Juli 2015
+– Senatsempfang zum Christopher Street Day/CSD am 30. Juli 2015
 
- Pressegespräch mit dem Olympioniken Tom Bosworth über sein Coming-Out und
+– Pressegespräch mit dem Olympioniken Tom Bosworth über sein Coming-Out und
 
 die Hamburger Olympiabewerbung am 18.11.2015
 
- Fachveranstaltung mit Vertreterinnen und Vertreten aus Fachbehörden und
+– Fachveranstaltung mit Vertreterinnen und Vertreten aus Fachbehörden und
 
 Senatsämtern zum Thema „Gleichstellungspolitisches Rahmenprogramm“ am
 7. Dezember 2015
 
- Senatsempfang „Zitronenjette“ am 15. Dezember 2015
+– Senatsempfang „Zitronenjette“ am 15. Dezember 2015
 
 2016 (Stichtag 31. Oktober 2016):
 
- Senatsempfang zum „Internationalen Frauentag“ am 8. März 2016
+– Senatsempfang zum „Internationalen Frauentag“ am 8. März 2016
 
- Workshop zum „Aktionsplan zur Akzeptanz sexueller und geschlechtlicher Vielfalt
+– Workshop zum „Aktionsplan zur Akzeptanz sexueller und geschlechtlicher Vielfalt
 
 am 30. März 2016
 
- Fachworkshop zu dem „Aktionsplan zur Akzeptanz sexueller und geschlechtlicher
+– Fachworkshop zu dem „Aktionsplan zur Akzeptanz sexueller und geschlechtlicher
 
 Vielfalt“ am 4. Juli 2016
 
- Eröffnung der Ausstellung „Andersrum“ vor den Deichtorhallen am 21. Juli 2016
+– Eröffnung der Ausstellung „Andersrum“ vor den Deichtorhallen am 21. Juli 2016
 
- Senatsempfang zum Beitritt Hamburgs zum Rainbow-Cities-Netzwerk am 28. Juli
+– Senatsempfang zum Beitritt Hamburgs zum Rainbow-Cities-Netzwerk am 28. Juli
 
 2016
 
- Beflaggung am Rathaus und Empfang der Delegation aus St. Petersburg im Rat-
+– Beflaggung am Rathaus und Empfang der Delegation aus St. Petersburg im Rat-
 
 haus am 3. August 2016
 
- Senatsempfang für den Verband Selbstständiger Frauen (Bundestreffen in Ham-
+– Senatsempfang für den Verband Selbstständiger Frauen (Bundestreffen in Ham-
 
 burg) am 16. September 2016
 

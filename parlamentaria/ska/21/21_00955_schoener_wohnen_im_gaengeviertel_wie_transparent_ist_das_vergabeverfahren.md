@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13294", "21/54"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49126"
@@ -83,7 +84,7 @@ Wer entscheidet über die Vergabe der Wohnungen im Gängeviertel?
 
 Auf Basis welcher Kriterien beziehungsweise Richtlinien wird über die Vergabe der Wohnungen im Gängeviertel entschieden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 20/13294.
 

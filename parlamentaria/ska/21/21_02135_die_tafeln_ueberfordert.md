@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2070"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50388"
@@ -57,7 +58,7 @@ Für welche konkreten Zwecke wird auf die Lebensmittelverteilung durch die Tafel
 
 In welchen konkreten Zusammenhängen bezüglich Flüchtlingsaufkommen arbeitet die Freie und Hansestadt Hamburg mit den Tafeln zusammen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Sofern die Tafeln einen Kooperationswunsch zugunsten der Bewohner an f & w als landesunmittelbares Unternehmen herantragen, erfolgt eine Zusammenarbeit mit den Wohnunterkünften.
 

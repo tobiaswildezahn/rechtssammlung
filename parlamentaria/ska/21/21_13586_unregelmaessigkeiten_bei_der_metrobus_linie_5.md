@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12644"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62955"
@@ -140,15 +141,15 @@ Welchen Messungen hinsichtlich Passagierzahl und Fahrtzielen derselben liegt die
 
 Zur Fahrplanerstellung werden folgende Datenquellen herangezogen:
 
- Zählungen und Befragungen des HVV
+– Zählungen und Befragungen des HVV
 
- Daten des automatischen Fahrgastzählsystems
+– Daten des automatischen Fahrgastzählsystems
 
- Auswertung der betrieblich erfassten Besetztmeldungen
+– Auswertung der betrieblich erfassten Besetztmeldungen
 
- Auswertung des Kundendialogs zum Kapazitätsangebot
+– Auswertung des Kundendialogs zum Kapazitätsangebot
 
- Gegebenenfalls anlassbezogene Vor-Ort-Beobachtungen
+– Gegebenenfalls anlassbezogene Vor-Ort-Beobachtungen
 
 ### Frage 10
 

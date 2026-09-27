@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 20
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11774", "20/11663", "20/7162"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50328"
@@ -55,7 +56,7 @@ Wie wirkt sich die niedrige Bookbuilding-Spanne des nun erfolgenden Börsengangs
 
 Gilt für die Bilanzierung der HGV betreffend die Hapag-Lloyd-Beteiligung das strenge Niederstwertprinzip? Wenn ja, zu welchem Zeitpunkt wird beziehungsweise wurde welche Neubewertung des Hapag-Lloyd-Aktienbestands aufgrund der geringen Bookbuilding-Spanne bei der HGV vorgenommen? Wenn keine Neubewertung vorgenommen wird: warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Eine Überprüfung des Beteiligungsbuchwerts der Hapag-Lloyd AG (HL) bei der HGV erfolgt im Rahmen der Jahresabschlusserstellung. Da die Aktien im Anlagevermögen gehalten werden, wird nach den entsprechenden Bestimmungen des Handelsgesetzbuches auf Grundlage einer aktualisierten Unternehmensplanung zu entscheiden sein, ob und gegebenenfalls in welchem Umfang eine voraussichtlich dauerhafte Wertminderung vorliegt.
 
@@ -67,7 +68,7 @@ Was ist die Ursache, dass die Bookbuilding-Spanne für den Börsengang gegenübe
 
 Waren die Ursachen für die Reduzierung der Bookbuilding-Spanne zum Zeitpunkt der Vorbereitung und zum Zeitpunkt der Verkündung des Börsengangs nicht bekannt? Wenn ja, warum?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die nicht absehbare nachteilige Entwicklung der Kapitalmärkte während der Dauer des Bookbuilding-Verfahrens führte zu einer Anpassung der Preisspanne und der Angebotsstruktur im Rahmen des Börsengangs.
 
@@ -95,7 +96,7 @@ Welche Kosten sind der Stadt Hamburg bisher durch die Finanzierung der Hapag-Llo
 
 Wie hoch sind die entgangenen Einnahmen der Stadt Hamburg aus nicht geflossenen Dividendenzahlungen des Unternehmens Hapag- Lloyd seit Beginn der Beteiligung und seit Erhöhung der Beteiligung im Jahr 2012?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Zum 31. Oktober 2015 ergeben sich kalkulatorische Finanzierungskosten für den ersten Beteiligungsschritt seit 2009 von rund 214 Millionen Euro und für den zweiten Beteiligungsschritt seit 2012 von rund 45 Millionen Euro. Den Finanzierungskosten stehen Einnahmen des Haushalts der Freien und Hansestadt aus Bürgschaftsprovisionen in Höhe von insgesamt rund 56 Millionen Euro gegenüber. Im Übrigen handelt es sich hierbei um hypothetische Fragen, die der Senat in ständiger Praxis grundsätzlich nicht beantwortet.
 
@@ -107,6 +108,6 @@ Gilt das von Olaf Scholz artikulierte Ziel „I want my money back“ noch? Wenn
 
 Hält der Senat es weiterhin für realistisch, dass das für die Hapag-Lloyd- Beteiligung eingesetzte Steuergeld an die Stadt vollständig zurückfließt? Wenn ja, was sind die Gründe angesichts der vorgenannten Fakten?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Der Senat bewertet den Börsengang von HL als wichtigen Schritt für das Unternehmen, aus dem sich neue Handlungsmöglichkeiten für die Zukunft eröffnen. Hiermit wird der nach der endgültigen Abwendung des Mehrheitsverkaufsrechts der TUI im Jahr 2012 und der Stärkung der Wettbewerbsfähigkeit durch die Integration des Containergeschäfts von CSAV im Jahr 2014 der dritte Schritt der Hapag-Lloyd-Strategie des Senats vollzogen. In Zukunft können die Stadt Hamburg wie auch andere Aktionäre von der Möglichkeit profitieren, Aktien zu verkaufen, ohne die Stabilität der Reederei zu gefährden. Im Übrigen siehe Drs. 20/7162.

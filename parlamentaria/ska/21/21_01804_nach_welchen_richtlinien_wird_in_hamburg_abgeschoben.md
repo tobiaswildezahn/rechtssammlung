@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/544", "21/1705", "21/1271", "21/1002"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50022"
@@ -47,23 +48,23 @@ Handlungsgrundlage sind die bundes- und landesgesetzlichen Vorschriften einschli
 
 Ansonsten betreffen folgende interne Dienstanweisungen das Abschiebungsverfahren:
 
- Dienstanweisung für das „Vorgehen bei Abschiebungs- und Verbringungshaft“ vom
+– Dienstanweisung für das „Vorgehen bei Abschiebungs- und Verbringungshaft“ vom
 
 1. April 2005, modifiziert angewendet seit Inkrafttreten des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit (FamFG) am 1. September 2009
 
- Dienstanweisung für das „Verfahren der Freiheitsentziehung bei Personen, die in
+– Dienstanweisung für das „Verfahren der Freiheitsentziehung bei Personen, die in
 
 Abschiebehaft genommen werden sollen“ vom 30. November 2006, modifiziert angewendet seit dem Inkrafttreten des FamFG am 1. September 2009
 
- Dienstanweisung für „Vollziehungsbeamtinnen, Vollziehungsbeamte nach § 6 Ver-
+– Dienstanweisung für „Vollziehungsbeamtinnen, Vollziehungsbeamte nach § 6 Ver-
 
 waltungsvollstreckungsgesetz (VwVG)“ vom 17. Januar 2008 mit modifizierter Anwendung seit dem 1. Februar 2010 (organisatorische Anpassung)
 
- Dienstanweisung zur „Ausweisung und Aussetzung von Abschiebungen bei der
+– Dienstanweisung zur „Ausweisung und Aussetzung von Abschiebungen bei der
 
 Betreuung eines deutschen Kindes“ vom 16. September 2009
 
- Dienstanweisung „Umgang mit ärztlichen Attesten“ vom 15. Oktober 2010
+– Dienstanweisung „Umgang mit ärztlichen Attesten“ vom 15. Oktober 2010
 
 Hinzu kommt die Anordnung Nummer 01/2015 „Verlängerung des Abschiebungsstopps nach Syrien“ vom 1. Oktober 2015.
 

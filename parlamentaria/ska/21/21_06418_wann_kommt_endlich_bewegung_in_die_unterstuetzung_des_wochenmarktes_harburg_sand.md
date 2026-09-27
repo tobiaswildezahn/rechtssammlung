@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6198", "20/12342", "20/11950"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54948"
@@ -43,7 +44,7 @@ Warum ist der Wochenmarkt auf dem Sand in Harburg der einzige Wochenmarkt in Ham
 
 Warum ist der Wochenmarkt auf dem Sand in Harburg der einzige Wochenmarkt in Hamburg, bei dem in den letzten Jahren (2013 bis 2016) ein ungünstiger Kostendeckungsgrad festgestellt werden musste?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In der Drs. 21/6198 sind Berechnungsgrundlagen nach der neuen Haushaltsstruktur hinzugezogen worden, die nicht identisch mit der noch kameralistisch erfolgten Ermittlung des Kostendeckungsgrades entsprechend der jährlich durchzuführenden Gebührenüberprüfung sind. Es sind Ausgaben eingeflossen, beispielsweise für die Beauftragung eines Freiraumplaners der Wochenmarktfläche, die nicht bei der Berechnung der Gebührenhöhe einzubeziehen sind, da die Fläche des Wochenmarktes nur zu Zeitanteilen für den Wochenmarkt genutzt wird und von einem anderen Fachbereich verwaltet wird.
 
@@ -87,7 +88,7 @@ Wie wird die Differenz finanziert? Wird der Tatsache Rechnung getragen, dass das
 
 Würde sich der Kostendeckungsgrad bei einer Reduzierung der Zahl der Markttage verbessern? Wenn ja, wie?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Differenz wird innerhalb der Produktgruppe abgedeckt. Die Entwicklung des Kostendeckungsgrades bei einer Reduzierung der Markttage wurde nicht geprüft. Neben den direkten wirtschaftlichen Auswirkungen auf den Haushalt der Freien und Hansestadt Hamburg (FHH) führt der Wochenmarkt auf dem Sand außerdem zu weiteren wünschenswerten Effekten. Im Übrigen siehe Drs. 20/12342.
 

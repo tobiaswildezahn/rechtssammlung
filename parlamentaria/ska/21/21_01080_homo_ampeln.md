@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49257"
@@ -59,7 +60,7 @@ An welchen Stellen sollen weitere solche Umrüstungen erfolgen?
 
 Welche Kosten entstehen für die weiteren Umrüstungen? Bitte ebenso aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Es ist nicht geplant, weitere LSA mit Pärchen-Symbolen auszurüsten, insoweit werden auch keine weiteren Kosten entstehen.
 

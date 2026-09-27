@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14319"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50028"
@@ -43,7 +44,7 @@ Ist es seit dem Scheitern der Güteverhandlungen zwischen der BWVI und den Umwel
 
 Welche Forderungen zur Erzielung eines Interessensausgleichs in Bezug auf den Bau der A 26 hatten die Umweltverbände im Einzelnen aufgestellt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es wurden weitere Verhandlungen geführt, die jedoch noch nicht beendet werden konnten. Bis zu der Klärung der Frage, ob ein Einvernehmen herbeigeführt werden kann, das allen Interessen ausreichend gerecht wird, sieht der Senat zur Wahrung seiner Verhandlungsposition davon ab, weitere Auskünfte zu geben.
 

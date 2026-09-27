@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 31
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3515"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51873"
@@ -69,7 +70,7 @@ Wie sah die Betreuung des Opfers durch das zuständige Jugendamt, den freien Tr�
 
 Warum wurde der Fall auch der Fachaufsicht des Jugendamtes zunächst nicht gemeldet? Wann wurde der Fall von welcher zuständigen Stelle dem Jugendamt gemeldet?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 

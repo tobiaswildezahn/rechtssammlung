@@ -14,6 +14,7 @@ fragen: 26
 einzelfragen: 34
 antwortbloecke: 23
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5000", "20/11916"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54204"
@@ -61,7 +62,7 @@ Was haben die bisherigen Prüfungen der Justizbehörde ergeben? Wird die Koopera
 
 Auf der Grundlage welcher Kostenkalkulation und mit wie vielen Plätzen rechnet der Senat für die Unterbringung Hamburger Jugendlicher in Schleswig-Holstein?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Das Ergebnis der bisherigen Prüfung ist Gegenstand des Zwischenberichts.
 
@@ -151,7 +152,7 @@ Wie viele Mittel hat der Senat für die Jugendgerichtshilfe, Jugendbewährungshi
 
 #### Antwort zu Frage 7
 
- Personalkosten Jugendgerichts- und Jugendbewährungshilfe (Bezirksamt Eims-
+– Personalkosten Jugendgerichts- und Jugendbewährungshilfe (Bezirksamt Eims-
 
 büttel/Fachamt Straffälligen- und Gerichtshilfe)
 
@@ -162,7 +163,7 @@ büttel/Fachamt Straffälligen- und Gerichtshilfe)
 4.011.496,33 €  
 2.324.634,37 €
 
- Sachkosten Jugendgerichts- und Jugendbewährungshilfe (Bezirksamt Eimsbüttel/
+– Sachkosten Jugendgerichts- und Jugendbewährungshilfe (Bezirksamt Eimsbüttel/
 
 Fachamt Straffälligen- und Gerichtshilfe)
 
@@ -174,13 +175,13 @@ Fachamt Straffälligen- und Gerichtshilfe)
 
 Die zuständige Behörde hat folgende Mittel aus dem Ortsprodukt 1-254.04.05.002.228 „Jugenddelinquenz und Straffälligen-/Gerichtshilfe“ beziehungsweise aus dem Titel 4470.684.86 „Betriebsausgaben für die Straffälligen- und Gerichtshilfe – Zweckzuweisung an die Bezirke –“ aufgewendet:
 
- 2014
+– 2014
 
 Titel 4470.684.86 „Betriebsausgaben für die Straffälligen- und Gerichtshilfe – Zweckzuweisung an die Bezirke –“
 
 Ergebnis: 1.268.099,11 Euro, davon 1.233.801,41 Euro für Zuwendungen
 
- 2015
+– 2015
 
 Ortsprodukt 1-254.04.05.002.228 „Jugenddelinquenz und Straffälligen-/Gerichtshilfe“
 
@@ -188,7 +189,7 @@ Ergebnis (Saldo aus Kosten und Erlösen): 1.200.102,64 Euro
 
 Davon 1.198.054,26 Euro Kosten für Transferleistungen (Zuwendungen).
 
- 2016 (Stichtag 25.08.2016)
+– 2016 (Stichtag 25.08.2016)
 
 Ortsprodukt 1-254.04.05.002.228 „Jugenddelinquenz und Straffälligen-/Gerichtshilfe“
 
@@ -208,7 +209,7 @@ Wie hoch sind die Rückfallraten (aufgelistet nach Delikten) in den letzten fün
 
 Wie hoch sind die Rückfallraten (aufgelistet nach Delikten) in den letzten fünf Jahren der mit widerrufener Bewährung Inhaftierten (bitte nach Alter jünger als 18 Jahre und über 18 Jahren darstellen)?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Eine auf Hamburg bezogene Rückfallstatistik wird nicht geführt (siehe Drs. 20/11916). Das Bundesministerium für Justiz und Verbraucherschutz führt bundesweite Rückfalluntersuchungen durch. Diese wurden zuletzt erstellt für den Zeitraum 2007 bis 2010.
 
@@ -367,7 +368,7 @@ Welche Daten zur sozialen Lage der jugendlichen Inhaftierten liegen dem Senat vo
 
 Welche Daten liegen zu den strafrechtlichen Vorgeschichten, Delikten der Inhaftierten vor?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Es liegen die für eine fachgerechte Vollzugsplanung erforderlichen Daten für die Gefangenen vor. Diese werden im Rahmen der Vollzugsplanung individuell erhoben beziehungsweise wurden bereits im Erkenntnisverfahren durch Erhebung der Jugendgerichte und der Jugendgerichtshilfe erlangt und stehen der Justizvollzugsanstalt zu Verfügung.
 

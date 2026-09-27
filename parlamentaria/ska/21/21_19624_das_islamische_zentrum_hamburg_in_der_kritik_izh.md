@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 20
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/13362", "21/6433", "21/13396", "21/14001", "21/16515", "20/4886", "21/8833", "21/9106", "21/10401", "21/17599", "21/19583"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69351"
@@ -85,7 +86,7 @@ Inwiefern ist das IZH derzeit am Religionsunterricht in Hamburger Schulen beteil
 
 Inwiefern ist für die Zukunft eine Beteiligung des IZH am Religionsunterricht geplant?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Anders als in vielen anderen Ländern wird der Religionsunterricht an den öffentlichen Schulen Hamburgs nicht von Geistlichen, die von den Religionsgemeinschaften entsendet werden, erteilt. Das Fach Religion unterrichten grundsätzlich Lehrkräfte des staatlichen Schuldienstes mit einem zweiten Staatsexamen und mindestens zwei Unterrichtsfächern. Die gemäß § 7 Hamburgisches Schulgesetz (HmbSG) beziehungsweise Artikel 7 Absatz 3 GG erforderliche Kooperation erfolgt mit Religionsgemeinschaften, nicht mit einzelnen Gemeinden wie dem IZH. In den Gremien, die für die verfassungsrechtlich notwendige Zusammenarbeit zwischen der für Bildung zuständigen Behörde und den Religionsgemeinschaften etabliert wurden, findet sich kein Vertreter des IZH.
 
@@ -127,7 +128,7 @@ Was wissen der Senat und die zuständigen Behörden darüber, dass der Verein �
 
 Gibt es andere muslimische Verbände/Einrichtungen, die Kindergärten und/oder Schulen in Hamburg planen? Wenn ja, welche?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Den zuständigen Behörden liegen keine Erkenntnisse im Sinne der Fragestellungen vor.
 
@@ -139,7 +140,7 @@ Was wissen der Hamburger Senat beziehungsweise die zuständigen über Verbindung
 
 Gibt es Verbindungen zu anderen Vereinen/Einrichtungen in Hamburg und Deutschland? Wenn ja, wie heißen diese und was wissen der Senat beziehungsweise die zuständigen Behörden über diese Vereine?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Antwort zu 3.
 

@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 18
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11654", "20/14077", "20/14204"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49194"
@@ -151,7 +152,7 @@ Wie sind der genaue Sachstand und der Zeitplan zur Einführung des Projektes eBe
 
 Wurde bereits mit der Pilotierung des Projektes eBeihilfe begonnen? Wenn ja, wann, in welchem Umfang und mit welchen Ergebnissen? Wenn nein, warum nicht und wann soll die Pilotierung beginnen?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Die Entwicklungsarbeiten Dataports für die erste Projektstufe sind größtenteils abgeschlossen. Derzeit werden die Abnahme- und Freigabetests vorbereitet. eBeihilfe soll nach einer vorlaufenden Pilotierung (beginnend im September) bis Ende 2015 eingeführt werden.
 

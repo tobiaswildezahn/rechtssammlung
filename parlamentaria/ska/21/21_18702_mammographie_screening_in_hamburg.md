@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7605", "20/11897", "21/2410"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68375"
@@ -88,6 +89,6 @@ Wie haben sich insgesamt die Wiedereinbestellungs-, die Biopsie- und die Brustkr
 
 Verfügt der Senat über Informationen, wann die Studie des Bundesamtes für Strahlenschutz veröffentlicht wird, die untersucht, ob das Screening die Brustkrebs-Sterblichkeit verringert? Wenn ja, bitte angeben.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Nach dem Bericht des Bundesamtes für Strahlenschutz (Stand 2018) soll die Studie voraussichtlich 2022 abgeschlossen sein (https://www.bfs.de/SharedDocs/Downloads/ BfS/DE/fachinfo/ion/mortalitaetsevaluation.pdf;jsessionid=4B2B088199C05FF766BCB 2F3C03F0153.2_cid374?__blob=publicationFile&v=2).

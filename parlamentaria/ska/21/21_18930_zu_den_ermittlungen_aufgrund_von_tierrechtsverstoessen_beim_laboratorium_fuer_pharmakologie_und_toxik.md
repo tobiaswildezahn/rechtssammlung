@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68615"
@@ -45,7 +46,7 @@ Gegen wen genau ermittelt im Zusammenhang mit den Bildern aus dem Tierversuchsla
 
 Handelt es sich hierbei um Beschäftigte des Versuchslabors in Mienenbüttel oder um Beschäftigte der LPT-Zentrale in Neugraben oder um beide?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zu den laufenden staatsanwaltschaftlichen Ermittlungen in Niedersachsen kann der Senat keine Auskünfte erteilen.
 

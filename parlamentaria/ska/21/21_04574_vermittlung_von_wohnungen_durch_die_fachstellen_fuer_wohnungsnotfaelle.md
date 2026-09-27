@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 7
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5867"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52979"
@@ -49,7 +50,7 @@ Die bezirklichen Fachstellen für Wohnungsnotfälle unterscheiden drei Vermittlu
 
 Wie viele Menschen konnten keiner der genannten Vermittlungsstufen zugewiesen werden? Bitte nach Bezirk aufschlüsseln und jährlich für 2014 bis Dezember 2015 angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1. Die Einstufungen erfolgen für Haushalte. Insofern ist eine Auswertung auf Basis von Personen nicht möglich. Die in den Anlagen 1 bis 4 dargestellten Auswertungen enthalten Angaben zu der Anzahl der Haushalte in den jeweiligen Stufen.
 

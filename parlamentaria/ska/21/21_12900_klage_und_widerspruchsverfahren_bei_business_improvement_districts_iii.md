@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62241"
@@ -59,7 +60,7 @@ Gibt es Widerspruchsverfahren im „BID-Mönckebergstraße“?
 
 Wie viele Eigentümer haben Widerspruch gegen den Festsetzungsbescheid erhoben?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Drei.
 

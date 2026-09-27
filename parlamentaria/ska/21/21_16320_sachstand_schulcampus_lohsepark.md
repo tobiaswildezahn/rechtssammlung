@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 19
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65849"
@@ -87,7 +88,7 @@ Wurde der Pausenhof der Schule ursprünglich auf dem Dach geplant? Oder wurde di
 
 Wie groß soll die für die Pausen verfügbare Freifläche auf dem Schuldach werden? Welchem Größenverhältnis entspricht dies in etwa pro Schüler (Quadratmeter/Schüler)?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im Auslobungstext zum Städtebaulichen Gutachterverfahren wird festgelegt, dass die Außenflächen des neuen Schulstandortes regelhaft ebenerdig und für die Schülerinnen und Schüler frei zugänglich sein sollen. Hallendächer können als Freiflächen mit einbezogen werden, sofern dies konzeptionell und pädagogisch begründbar ist. Die Dachfläche umfasst zurzeit circa 3 800 m². Zur angestrebten Aufenthaltsfläche für Schülerinnen und Schüler siehe Vorbemerkung.
 
@@ -139,6 +140,6 @@ Wie können die Ergebnisse der Gespräche mit der Initiative zusammengefasst wer
 
 Werden Elemente der Initiative aufgenommen und berücksichtigt? Wenn ja, welche? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Es hat ein intensiver Informationsaustausch mit der Initiative stattgefunden, der auch fortgeführt wird. Die für Bildung zuständige Behörde hat bekräftigt, dass die Anforderungen des Musterflächenprogramms an eine attraktive und moderne Schule eingehalten werden. Die beteiligten Behörden und die HafenCity Hamburg GmbH sind davon überzeugt, dass mit diesem Schulbauvorhaben ein gutes schulisches Angebot sowie ein Ort geschaffen wird, der für die Mitnutzungen der Bewohner des Stadtteils gute Möglichkeiten bereithält und bietet der Initiative weiterhin den Dialog und die Einbeziehung in das Verfahren an.

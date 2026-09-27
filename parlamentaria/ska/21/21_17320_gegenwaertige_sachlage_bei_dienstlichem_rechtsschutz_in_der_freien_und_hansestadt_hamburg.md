@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14582"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66896"
@@ -66,7 +67,7 @@ Wie viele Ermittlungsverfahren wurden jeweils in den Jahren 2014 – 2018 in die
 
 Wie hoch waren die Ausgaben der FHH für gewährten dienstlichen Rechtsschutz jeweils in den Jahren 2014 – 2018? Bitte nach EP und für den EP 8.1 für die Aufgabenbereiche 275 und 277 getrennt aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage 2.
 
@@ -110,17 +111,17 @@ Umfang und Grenzen 500.005000
 
 Wird gegen einen Bediensteten wegen einer dienstlichen Tätigkeit oder eines Verhaltens, das mit solcher Tätigkeit im Zusammenhang steht,
 
-• ein Ermittlungsverfahren der Staatsanwaltschaft eingeleitet
+– ein Ermittlungsverfahren der Staatsanwaltschaft eingeleitet
 
-• die öffentliche Klage im strafgerichtlichen Verfahren erhoben
+– die öffentliche Klage im strafgerichtlichen Verfahren erhoben
 
-• eine Privatklage oder eine Nebenklage erhoben
+– eine Privatklage oder eine Nebenklage erhoben
 
-• eine Untersuchung vor einem Seeamt eingeleitet
+– eine Untersuchung vor einem Seeamt eingeleitet
 
-• der Erlass eines Strafbefehls beantragt
+– der Erlass eines Strafbefehls beantragt
 
-• ein Bußgeldverfahren eingeleitet,
+– ein Bußgeldverfahren eingeleitet,
 
 können auf seinen Antrag diejenigen Kosten, die für seine Rechtsverteidigung notwendig sind, und die Kosten eines Privat- oder Nebenklägers, die dem Bediensteten durch Gerichtsbeschluss auferlegt werden, (Rechtsschutzkosten) aus Haushaltsmitteln übernommen werden.
 
@@ -146,9 +147,9 @@ Die Teilvoraussetzungen der Nrn. 1 bis 3 gelten regelmäßig als erfüllt, wenn 
 
 Zu den notwendigen Kosten für die Rechtsverteidigung zählen insbesondere
 
-• die gesetzlichen Gebühren und Auslagen für einen Rechtsanwalt; weitergehende Kosten aufgrund einer Honorarvereinbarung können nur dann als notwendig anerkannt und berücksichtigt werden, wenn das Honorar den Grundsätzen des § 14 Abs. 1 des Gesetzes über die Vergütung der Rechtsanwältinnen und Rechtsanwälte (Rechtsanwaltsvergütungsgesetz - RVG) entspricht (Angemessenheit insbesondere zur Bedeutung der Angelegenheit sowie zum Umfang und zur Schwierigkeit der anwaltlichen Tätigkeit)
+– die gesetzlichen Gebühren und Auslagen für einen Rechtsanwalt; weitergehende Kosten aufgrund einer Honorarvereinbarung können nur dann als notwendig anerkannt und berücksichtigt werden, wenn das Honorar den Grundsätzen des § 14 Abs. 1 des Gesetzes über die Vergütung der Rechtsanwältinnen und Rechtsanwälte (Rechtsanwaltsvergütungsgesetz - RVG) entspricht (Angemessenheit insbesondere zur Bedeutung der Angelegenheit sowie zum Umfang und zur Schwierigkeit der anwaltlichen Tätigkeit)
 
-• Auslagen für Sachverständige zur Einholung von Gutachten.
+– Auslagen für Sachverständige zur Einholung von Gutachten.
 
 Antragsverfahren 500.005100
 
@@ -192,21 +193,21 @@ Der Bedienstete kann – bei bewilligtem Rechtsschutz – Rechnungen über Vorsc
 
 In diesen Fällen hat J
 
-• dafür zu sorgen, dass der Betrag – soweit im Rahmen der für die Rechtsverteidigung notwendigen Kosten (vgl. Ziff. 500.005010) – zur Verfügung gestellt wird
+– dafür zu sorgen, dass der Betrag – soweit im Rahmen der für die Rechtsverteidigung notwendigen Kosten (vgl. Ziff. 500.005010) – zur Verfügung gestellt wird
 
-• den Rücklauf der Verfahrensunterlagen nach Abschluss des Rechtszuges zu überwachen.
+– den Rücklauf der Verfahrensunterlagen nach Abschluss des Rechtszuges zu überwachen.
 
 500.005210
 
 Nach Abschluss des Rechtszuges hat J aufgrund der eingereichten Verfahrensunterlagen die Zahlung der Rechtsschutzkosten aus Haushaltsmitteln zu veranlassen, wenn
 
-• der Bedienstete freigesprochen oder außer Verfolgung gesetzt wurde oder
+– der Bedienstete freigesprochen oder außer Verfolgung gesetzt wurde oder
 
-• gegen den Bediensteten keine Geldbuße verhängt wurde oder
+– gegen den Bediensteten keine Geldbuße verhängt wurde oder
 
-• das Verfahren eingestellt oder nicht eröffnet wurde oder
+– das Verfahren eingestellt oder nicht eröffnet wurde oder
 
-• der Verurteilung, dem Bußgeldbescheid bzw. Schuldspruch nur eine geringe Schuld (Fahrlässigkeit) zugrunde liegt.
+– der Verurteilung, dem Bußgeldbescheid bzw. Schuldspruch nur eine geringe Schuld (Fahrlässigkeit) zugrunde liegt.
 
 Durch die Staatskasse oder einen Dritten zu tragende Kosten sind zu berücksichtigen; ggf. zuvor zur Verfügung gestellte Teilbeträge zur Begleichung von Rechnungen seines Rechtsanwaltes sind zu verrechnen, ggf. zurückzufordern.
 

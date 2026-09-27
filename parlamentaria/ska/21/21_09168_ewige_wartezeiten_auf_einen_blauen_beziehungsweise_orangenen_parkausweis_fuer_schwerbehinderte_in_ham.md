@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 19
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57926"
@@ -45,7 +46,7 @@ Wie viele Bedienstete welcher Behörde und Dienststellen welcher Stellenwertigke
 
 Wie viele Stellen welcher Wertigkeit sind im Stellenplan hierfür vorgesehen und wie viele zurzeit unbesetzt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für die Genehmigung von blauen beziehungsweise orangenen Parkausweisen ist der Landesbetrieb Verkehr (LBV) – Abteilung Transport- und Genehmigungs-Management – zuständig. Für die ausschließliche Bearbeitung der blauen und orangenen Parkausweise werden keine speziellen Stellen ausgewiesen. Die Abteilung erteilt jährlich über 90.000 Genehmigungen, von denen die Parkausweise nur einen Teil ausmachen.
 
@@ -69,19 +70,19 @@ Schwerbehinderten Menschen können nach VwV-StVO zu § 46 Absatz 1 Nummer 11 Par
 
 Schwerbehinderte Menschen mit
 
- einer außergewöhnlichen Gehbehinderung (Merkzeichen „aG“ im Ausweis),
+– einer außergewöhnlichen Gehbehinderung (Merkzeichen „aG“ im Ausweis),
 
- Blindheit („Bl“) sowie mit
+– Blindheit („Bl“) sowie mit
 
- beidseitiger Amelie oder Phokomelie oder vergleichbaren Funktionseinschränkun-
+– beidseitiger Amelie oder Phokomelie oder vergleichbaren Funktionseinschränkun-
 
 gen
 
 haben das Recht zur Nutzung der Parkplätze für behinderte Menschen, die
 
- mit Zeichen 314 und 315 und dem Zusatzzeichen „Rollstuhlfahrersymbol“ oder
+– mit Zeichen 314 und 315 und dem Zusatzzeichen „Rollstuhlfahrersymbol“ oder
 
- mit Zeichen 314 oder 315 und dem Zusatzzeichen „Rollstuhlfahrersymbol mit
+– mit Zeichen 314 oder 315 und dem Zusatzzeichen „Rollstuhlfahrersymbol mit
 
 Parkausweis Nr.“ bei personenbezogenen Behindertenparkplätzen
 
@@ -235,7 +236,7 @@ Wie viele Verstöße durch unberechtigtes Parken auf Behindertenparkplätzen in 
 
 Welche Bußgelder in welcher Höhe wurden je Verstoß und insgesamt jährlich hierdurch vereinnahmt?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Die Anzahl der Anzeigen wegen eines Verstoßes durch unberechtigtes Parken auf einem Schwerbehinderten-Parkplatz sowie die ausgewiesenen Einnahmen im Rahmen von Verwarnungs- und Bußgeldern ist in der nachfolgenden Tabelle dargestellt. Die Höhe des Regelsatzes beträgt nach dem Bußgeldkatalog 35 Euro. Die Statistik des Einwohner-Zentralamtes lässt keine weitere Auswertung nach Bezirken zu.
 
@@ -267,6 +268,6 @@ Auf welche Weise werden derartige Verstöße kontrolliert beziehungsweise festge
 
 Werden hierfür spezielle Kontrollen durchgeführt oder findet die Kontrolle im Rahmen der allgemeinen Parkraumüberwachung statt?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Verstöße werden im Rahmen der allgemeinen Überwachung des ruhenden Verkehrs festgestellt und zur Anzeige gebracht. Darüber hinaus wird die Polizei nach Anzeigen oder Hinweisen von Bürgern tätig.

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7203", "21/10576"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60366"
@@ -71,11 +72,11 @@ In der EA und der örU müssen Übersetzer und Dolmetscher ein polizeiliches Fü
 
 Im Bereich der Amtsvormundschaften bei der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) und dem Landesbetrieb Erziehung und Beratung werden Sprachmittler im Rahmen der Aufnahme und Betreuung von unbegleiteten, minderjährigen Ausländern eingesetzt. Auf Basis einer Ausschreibung werden Sprachmittler der folgenden Firmen eingesetzt:
 
-• Jarhim Dolmetscher-Team Wandsbeker Chaussee 101, 22089 Hamburg
+– Jarhim Dolmetscher-Team Wandsbeker Chaussee 101, 22089 Hamburg
 
-• HSD – InPaKt GmbH, Rosenstr. 3, 20095 Hamburg
+– HSD – InPaKt GmbH, Rosenstr. 3, 20095 Hamburg
 
-• Hayatt GmbH, Effingestraße 28, 22041 Hamburg
+– Hayatt GmbH, Effingestraße 28, 22041 Hamburg
 
 Bei speziellem Übersetzungsbedarf, der von diesen Dienstleistern nicht abgedeckt werden kann, werden freiberuflich tätige Übersetzer beauftragt.
 
@@ -105,7 +106,7 @@ Beinhalten die Verträge mit den Dolmetschern regelhaft Verschwiegenheitsklausel
 
 Welche formale Qualifikation müssen die Dolmetscher nachweisen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Für gerichtliche Dolmetscherinnen und Dolmetscher ergibt sich eine gesetzliche Verschwiegenheitspflicht aus § 189 Absatz 4 Satz 1 GVG. Formale Qualifikationen müssen Dolmetscherinnen und Dolmetscher für ihre Heranziehung in Gerichtsverfahren nicht nachweisen; sie haben allerdings den nach § 189 Absatz 1 GVG vorgesehenen Eid beziehungsweise die ersatzweise vorgesehene Bekräftigung zu leisten, sofern sie nicht im Sinne nach § 189 Absatz 2 GVG allgemein beeidigt sind. Voraussetzung für eine öffentliche Bestellung und allgemeine Beeidigung ist gemäß § 1 Absatz 1 Nummer 5. HmDolmG, dass sie die fachliche Eignung nach § 2 HmbDolmG besitzen. Diese ist gemäß § 2 HmbDolmG durch die erfolgreiche Teilnahme an einem Eignungsfeststellungsverfahren vor der Vorstellungskommission der zuständigen Behörde zu erbringen.
 

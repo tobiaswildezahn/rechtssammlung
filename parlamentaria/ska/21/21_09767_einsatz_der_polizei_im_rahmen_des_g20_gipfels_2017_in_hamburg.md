@@ -14,6 +14,7 @@ fragen: 41
 einzelfragen: 42
 antwortbloecke: 27
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9765", "21/9523"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58573"
@@ -160,7 +161,7 @@ Wie viele Personen wurden aufgrund welcher Delikte an welchen Einsatztagen festg
 
 Wie viele Personen wurden an welchen Einsatztagen in die Gefangenensammelstelle in Harburg gebracht und wurden dort wie lange jeweils in Gewahrsam genommen?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Es wurden insgesamt 51 Haftbefehle im Zusammenhang mit dem G20-Gipfel erlassen. Die Einzelheiten im Sinne der Fragestellung liegen noch nicht vor. Sie sind Gegenstand der noch erfolgenden Auswertungen und Ermittlungen.
 
@@ -215,7 +216,7 @@ Wie bewertet die zuständige Behörde im Nachhinein die „Null-Toleranz“- Str
 
 Wie konnten trotzt „Null-Toleranz“-Strategie in der Nacht zum Samstag Supermärkte und Drogerien geplündert und Geldautomaten sowie Bankfilialen zerstört werden?
 
-#### Antwort zu Fragen 24 bis 25
+#### Antwort zu Fragen 24 und 25
 
 Die Polizei Hamburg hat den Begriff „Null-Toleranz“ im Zusammenhang mit dem Einsatzgeschehen um den G20-Gipfel nicht verwendet. Sie hat auf die Situation im Schanzenviertel, bei der Hinweise auf eine außergewöhnliche Gefährdungslage für vorrückende Einsatzkräfte durch Störereinwirkung von Dächern vorlagen, bereits öffentlich hingewiesen und diese erläutert. Darüber hinaus sind die erfragten Sachverhalte Gegenstand der noch nicht abgeschlossenen Nachbereitung des Einsatzes der Sicherheitsbehörden zum G20-Gipfel.
 
@@ -243,7 +244,7 @@ Inwieweit kam der Rechtsstaat bei der Aufrechterhaltung der Sicherheit und Ordnu
 
 In welchen Stadtteilen und Straßenzügen wurden welche Demonstrationen und Versammlungen mit wie viele Teilnehmern jeweils an welchen Einsatztagen genehmigt, untersagt und jeweils tatsächlich durchgeführt? Welche davon sind im Nachhinein als friedlich einzuschätzen und welche führten zu Ausschreitungen?
 
-#### Antwort zu Fragen 28 bis 29
+#### Antwort zu Fragen 28 und 29
 
 Siehe Drs. 21/9765.
 
@@ -303,75 +304,75 @@ Welche Straßen und Plätze waren im Rahmen des G20-Gipfels gesperrt oder mit Ha
 
 Im Bereich der Sicherheitszonen Messehallen und Elbphilharmonie wurden folgende in alphabetischer Reihenfolge aufgeführte Straßen gesperrt:
 
- Alsterufer
+– Alsterufer
 
- Am Kaiserkai
+– Am Kaiserkai
 
- Am Sandtorkai
+– Am Sandtorkai
 
- An der Verbindungsbahn
+– An der Verbindungsbahn
 
- Bei den Kirchhöfen
+– Bei den Kirchhöfen
 
- Flora-Neumann-Straße
+– Flora-Neumann-Straße
 
- Grabenstraße
+– Grabenstraße
 
- Holstenglacis
+– Holstenglacis
 
- Kaianlage Dalmannkai
+– Kaianlage Dalmannkai
 
- Kaianlage Kaiserkai
+– Kaianlage Kaiserkai
 
- Kaianlage Sandtorkai
+– Kaianlage Sandtorkai
 
- Karolinenstraße
+– Karolinenstraße
 
- Kehrwieder
+– Kehrwieder
 
- Kehrwiederspitze
+– Kehrwiederspitze
 
- Lagerstraße
+– Lagerstraße
 
- Magellan-Terrassen
+– Magellan-Terrassen
 
- Mahatma-Gandhi-Brücke
+– Mahatma-Gandhi-Brücke
 
- Marseiller Straße
+– Marseiller Straße
 
- Messeplatz
+– Messeplatz
 
- Niederbaumbrücke
+– Niederbaumbrücke
 
- Platz der Deutschen Einheit
+– Platz der Deutschen Einheit
 
- Rentzelstraße
+– Rentzelstraße
 
- Sandtorhöft
+– Sandtorhöft
 
- Schröderstiftstraße
+– Schröderstiftstraße
 
- Sternschanze
+– Sternschanze
 
- St. Petersburger Straße
+– St. Petersburger Straße
 
- Tiergartenstraße
+– Tiergartenstraße
 
- Van-der-Smissen-Straße
+– Van-der-Smissen-Straße
 
- Vasco-da-Gama-Platz
+– Vasco-da-Gama-Platz
 
- Warburgstraße
+– Warburgstraße
 
 Sperrungen an den von Schutzpersonen genutzten Unterkünften erfolgten in den Straßen
 
- Am Alsterfleet, Gehweg,
+– Am Alsterfleet, Gehweg,
 
- Drehbahn, zwischen Dammtorstraße und Caffamacherreihe,
+– Drehbahn, zwischen Dammtorstraße und Caffamacherreihe,
 
- Welckerstraße, zwischen Drehbahn und Hausnummer 8,
+– Welckerstraße, zwischen Drehbahn und Hausnummer 8,
 
- Rothenbaumchaussee, Gehweg zwischen Tesdorpfstraße und Moorweidenstraße,
+– Rothenbaumchaussee, Gehweg zwischen Tesdorpfstraße und Moorweidenstraße,
 
 darüber hinaus siehe Drs. 21/9523.
 
@@ -411,15 +412,15 @@ Im Sinne der Fragestellung werden Staus bei der Polizei nicht statistisch erfass
 
 Nach den der Polizei derzeit vorliegenden Erkenntnissen kam es am 6. Juli 2017 neben den Beeinträchtigungen anlässlich des G20-Einsatzes zu folgenden Verkehrsereignissen, die sich verschärfend auf die Verkehrssituation in Hamburg auswirkten:
 
- Verkehrsunfall auf der Bundesautobahn BAB 1 Richtung Norden zwischen den
+– Verkehrsunfall auf der Bundesautobahn BAB 1 Richtung Norden zwischen den
 
 Anschlussstellen Barsbüttel und Ahrensburg.
 
- Liegengebliebener Lkw mit ungesicherter Ladung auf der Bundesautobahn BAB 7
+– Liegengebliebener Lkw mit ungesicherter Ladung auf der Bundesautobahn BAB 7
 
 Richtung Norden zwischen der Anschlussstelle Stellingen und Autobahndreieck Nordwest.
 
- Verkehrsunfall im Krohnstiegtunnel.
+– Verkehrsunfall im Krohnstiegtunnel.
 
 Darüber hinaus liegen auswertbare Daten zu Verkehrsunfällen in dem erfragten Zeitraum derzeit noch nicht vor.
 

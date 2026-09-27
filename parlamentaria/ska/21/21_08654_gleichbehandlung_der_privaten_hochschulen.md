@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7867"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57377"
@@ -59,7 +60,7 @@ Verlangt die zuständige Behörde von allen Hochschulen eine regelmäßige Re-Ak
 
 Wieso hat die zuständige Behörde nicht längst Konsequenzen daraus gezogen, dass bei der Universität Hamburg nur wenige Studiengänge akkreditiert wurden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Es wird davon ausgegangen, dass der Fragesteller mit einer „fehlenden Nicht- Reakkreditierung“ eine fehlende „Reakkreditierung“ meint. Die Reakkreditierungspflicht ergibt sich aus den Regelwerken der Kultusministerkonferenz und des Akkreditierungsrates, insofern verlangt auch die zuständige Behörde die regelmäßige Reakkreditierung. Eine fehlende Reakkreditierung kann viele Gründe haben. Beispielsweise hat die Agentur Auflagen erteilt, die noch umgesetzt werden müssen. Die Frage nach den Folgen ist abhängig von den Gründen und daher in dieser Allgemeinheit nicht zu beantworten.
 

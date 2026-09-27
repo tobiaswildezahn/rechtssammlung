@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 27
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60271"
@@ -129,7 +130,7 @@ Wie findet die Erstanwendung der Sandweste im Einzelfall konkret statt? Gibt es 
 
 Wie lange werden die Westen pro Anwendung getragen? Erfolgt eine stufenweise Eingewöhnungsphase?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 In den Schulen wird die Erstanwendung der Weste von pädagogisch geschultem Personal begleitet. Die Weste wird aber auch von Sorgeberechtigten im privaten Bereich im Rahmen von Therapie-Anwendungen eingesetzt. Die Tragezeit variiert je nach Einzelfall und Zustimmung des Kindes.
 
@@ -160,6 +161,6 @@ Wie schätzt der Senat das Risiko ein, dass das Gewicht der Westen ein gesundhei
 
 Wie schätzt der Senat oder die zuständige Behörde das Risiko ein, dass durch den, eventuell lediglich die Symptome mindernden, Einsatz der Westen mittelfristig eine Verschlechterung in Bezug auf die zugrunde liegenden Probleme der Unruhe und der Störung der Aufmerksamkeit erzeugt wird?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Der Einsatz der Sandwesten an Schulen zu den hier in Rede stehenden Zwecken erfolgt erst seit Kurzem. Insoweit liegen hierzu keine Ergebnisse zur längerfristigen Wirksamkeit oder auch möglichen negativen Effekten bei einem lang andauernden Einsatz vor. Die Nutzung von Sandwesten zu pädagogischen Zwecken wird kontinuierlich durch die in den Schulen eingesetzten pädagogischen Fachkräfte begleitet und bewertet. Die bisherigen Erfahrungen deuten nicht auf mögliche negative Folgen eines längerfristigen Einsatzes der Sandwesten hin. Im Übrigen sind sie nur ein Element im Rahmen eines umfassenden Maßnahmenkatalogs auf der Basis eines individuellen pädagogischen Förderplans.

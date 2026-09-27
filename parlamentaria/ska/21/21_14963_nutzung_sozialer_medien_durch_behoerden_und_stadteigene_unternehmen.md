@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12804"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64426"
@@ -285,51 +286,51 @@ Zur Gesamtstrategie des Senats vergleiche Drs. 21/12804.
 
 Die Social-Media-Kanäle der Behörden, Bezirke, stadteigenen Unternehmen sowie sonstiger öffentlicher Institutionen und staatlicher Stellen sind Teil der vielfältigen Marketing-, PR- und Kommunikationsstrategien der einzelnen Stellen. Zu den Zielen zählen unter anderem:
 
-  
+–  
 Vermittlung von Informationen  
-  
+–  
 Gewinnung neuer Zielgruppen  
-  
+–  
 Imagepflege  
-  
+–  
 Schaffung von Transparenz im Verwaltungshandeln, insbesondere eine
 
-transparente Darstellung der Aufgaben und Ziele der öffentliche Stellen  Schaffung von Aufmerksamkeit einer breiten Öffentlichkeit für Veranstaltun-
+transparente Darstellung der Aufgaben und Ziele der öffentliche Stellen – Schaffung von Aufmerksamkeit einer breiten Öffentlichkeit für Veranstaltun-
 
 gen, Dienstleistungen und Angeboten  
-  
+–  
 Steigerung der Wahrnehmung Hamburgs als innovativer Standort  
-  
+–  
 Nachwuchsförderung  
-  
+–  
 Personalgewinnung im In- und Ausland  
-  
+–  
 direkte Kommunikation mit den Bürgerinnen und Bürgern beziehungsweise
 
 Besucherinnen und Besuchern bspw. für Rückmeldungen, Kritik und  
 Anregungen  
-  
+–  
 Vernetzung der Kommunikation mit anderen Stellen  
-  
+–  
 Direkte Kommunikation mit Journalistinnen und Journalisten  
-  
+–  
 Krisenkommunikation  
-  
+–  
 Schaffung von B2B-Kontakten  
-  
+–  
 Schaffung von Einblicken in die Arbeit der der öffentlichen Verwaltung bzw.
 
 der öffentlichen Stellen  
-  
+–  
 Generieren von Reichweite  
-  
+–  
 Steigerung des Bekanntheitsgrades  
-  
+–  
 Steigerung von Besucherzahlen bei Veranstaltungen  
-  
+–  
 Erhöhung der Erfolgschancen von Öffentlichkeitsfahndungen und
 
-Zeugenaufrufen  Klarstellung von Falschmeldungen anderer Quellen
+Zeugenaufrufen – Klarstellung von Falschmeldungen anderer Quellen
 
 b. Auf welche Weise und wie häufig werden die Seiten- beziehungsweise Beitragsreichweiten gemessen?
 

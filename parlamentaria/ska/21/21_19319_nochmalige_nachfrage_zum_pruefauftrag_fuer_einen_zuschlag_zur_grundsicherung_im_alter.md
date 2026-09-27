@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 17
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8927", "21/14755", "21/14843", "21/17451", "21/17971", "21/16076"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69025"
@@ -62,7 +63,7 @@ Bezieht sich Sozialsenatorin Leonhard in ihrem Tweet auf das Gutachten, das laut
 
 Sozialsenatorin Leonhard bezieht sich in ihrem Tweet auf den Kaufkraftindex, der in Hamburg sehr viel niedriger sei als in München. Das Ersuchen der Bürgerschaft, ein Gutachten erstellen zu lassen, bezieht sich jedoch auf die Einkommens- und Verbrauchsstichprobe (EVS). Aus welchem Beweggrund bezieht sich die Senatorin auf den Kaufkraftindex?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

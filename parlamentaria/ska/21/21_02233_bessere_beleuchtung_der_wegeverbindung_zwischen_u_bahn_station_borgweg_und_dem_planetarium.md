@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50495"
@@ -51,7 +52,7 @@ Welche Maßnahmen zur Verbesserung der Beleuchtung sollen jetzt tatsächlich umg
 
 Ist die Auftragsvergabe zur Umsetzung der Maßnahmen bereits erfolgt? Wenn nein, wann wird dies stattfinden? Wenn ja, wann und durch wen ist die Auftragsvergabe erfolgt und welche Kosten entstehen durch die Umsetzung?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Maßnahme zur Verbesserung der Beleuchtung der Zuwegung zum Planetarium ist in folgende drei Abschnitte aufgeteilt:
 

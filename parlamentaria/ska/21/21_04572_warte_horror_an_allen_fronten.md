@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3498", "21/3970"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52977"
@@ -85,7 +86,7 @@ Wie viele Vollzeitäquivalente stehen derzeit zur Bearbeitung von a. Beurkundung
 
 Welche Vakanzen bestehen in diesen Bereichen derzeit jeweils? Bitte nach Bezirken aufteilen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage 3.
 

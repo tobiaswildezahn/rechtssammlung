@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65497"
@@ -43,7 +44,7 @@ Welche Positionen werden im Senat derzeit über die Umsetzung des „Justizpakte
 
 Gibt es verschiedene Auffassungen im Senat darüber, wie der Bund den geplanten „Pakt“ mit den Ländern finanzieren soll? Wenn ja, von wem, welche und warum?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Bundeskanzlerin und die Regierungschefinnen und Regierungschefs der Länder haben sich am 31. Januar 2019 in einem gemeinsamen Beschluss auf einen Pakt für den Rechtsstaat verständigt.
 
@@ -73,6 +74,6 @@ Welche Maßnahmen plant der Senat beziehungsweise sind in der Umsetzung, um zu v
 
 Plant der Senat, eine vom Bund vorgeschlagene und einmalige Zahlung von 220 Millionen Euro an die Länder zu akzeptieren und wie hoch wären die geplanten Mittel, mit denen Hamburg für zusätzliche Richterstellen rechnen könnte?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 1. und 2. Hamburg profitiert von der am 31. Januar 2019 geschlossenen Vereinbarung in finanzieller Hinsicht im Umfang von voraussichtlich circa 5,5 Millionen Euro.

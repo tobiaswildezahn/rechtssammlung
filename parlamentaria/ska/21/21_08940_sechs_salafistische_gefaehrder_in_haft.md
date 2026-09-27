@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 21
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8804"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57671"
@@ -67,7 +68,7 @@ Welcher Staatsangehörigkeit gehören die Tatverdächtigen an?
 
 Wie sieht der aufenthaltsrechtliche Status der Männer gegenwärtig aus?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Alle Beschuldigten haben die deutsche Staatsangehörigkeit. Zwei Beschuldigte haben daneben die türkische Staatsangehörigkeit. Ein Beschuldigter hat daneben die kirgisische Staatsangehörigkeit.
 
@@ -79,7 +80,7 @@ Wie lange leben die Tatverdächtigen bereits in Hamburg?
 
 Wo waren sie vor einem etwaigen Umzug nach Hamburg zuletzt gemeldet?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Drei der sechs Personen waren zu keinem Zeitpunkt in Hamburg gemeldet. Zwei der in Hamburg gemeldeten Personen leben seit ihrer Geburt in Hamburg, die andere Person ist 2012 von Baden-Württemberg nach Hamburg gezogen.
 

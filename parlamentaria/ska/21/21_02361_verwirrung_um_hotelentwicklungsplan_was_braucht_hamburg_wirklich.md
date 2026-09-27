@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2238"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50650"
@@ -43,7 +44,7 @@ Wird es ein neues Konzept für die Hotelentwicklung in Hamburg geben? Wenn ja, m
 
 Nach aktuellen Presseberichten soll ein Hotelentwicklungsplan in der Aufsichtsratssitzung der Hamburg Tourismus GmbH bis zum 8. Dezember 2015 vorgelegt werden. Ist dieser Zeitplan noch aktuell? Wenn nein, wann ist dann mit einer Vorlage des Plans beim Aufsichtsrat geplant? Wird es darüber hinaus eine Befassung im Senat geben?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es ist beabsichtigt, dem Aufsichtsrat der Hamburg Marketing GmbH (HMG) im Rahmen der Sitzung am 8. Dezember 2015 erste Zwischenergebnisse zu präsentieren. Über eine eventuelle Senatsbefassung ist noch nicht entschieden. Im Übrigen siehe Drs. 21/2238.
 
@@ -56,7 +57,7 @@ Wie hat der Senat beziehungsweise die Hamburg Tourismus GmbH das weitere Vorgehe
 
 Welche Behörden, Stellen, Verbände, Vereine, Unternehmen sind an der Erarbeitung des Plans für die Hotelentwicklung beteiligt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die HWF Hamburgische Gesellschaft für Wirtschaftsförderung mbH (HWF) wird in Abstimmung mit dem Landesbetrieb Immobilienmanagement und Grundvermögen (LIG) eine Liste städtischer und auf dem Markt befindlicher privater Grundstücke
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 16
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9672"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59567"
@@ -52,7 +53,7 @@ Auf die Frage I. 1. gibt der Senat im Zusammenhang mit den Aktivitäten der Fors
 Auf die Fragen zur „Weiterführung der Forschungsstelle“ (I. 4., Seiten 4
 – 5) gibt der Senat an: „Die Überlegungen der Zuständigen Behörden sind noch nicht abgeschlossen.“ Wie ist der aktuelle Stand hinsichtlich einer fortgesetzten Förderung der Forschungsstelle mit öffentlichen Mitteln über März 2018 hinaus?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Webpräsentation wird bis zum 31. März 2018 fortgeführt, da die aktuelle Finanzierung der Forschungsstelle am 31. März 2018 ausläuft. Im Übrigen siehe Vorbemerkung.
 

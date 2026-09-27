@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13594", "21/15454"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67336"
@@ -51,7 +52,7 @@ Inwieweit wurden aufgrund von Krankschreibungen in den Jahren 2003 bis 2018 Urla
 
 In welchen Arbeitseinheiten sind während der Inanspruchnahme von Urlaubstagen die meisten Krankschreibungen erfolgt? (Bitte die in den Jahren 2003 bis 2018 am häufigsten betroffenen Behörden und Landesbetriebe und sofern möglich die Fallzahl der Krankmeldungen während des Urlaubs aufführen.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die meisten Behörden nutzen das Programm eZeit zur Beantragung und Genehmigung von Urlaub. Für das jeweilige Vorjahr – das heißt aktuell für 2018 – können wegen der Möglichkeit der Übertragung von nicht in Anspruch genommenen Urlaubstagen des Vorjahres die wegen Krankheit gutgeschriebenen Urlaubstage aus dem Programm ermittelt werden. Siehe dazu Anlage 2.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53939"
@@ -77,7 +78,7 @@ Wie oft werden diese Ausschilderungen von wem kontrolliert?
 
 Wie oft werden die Wanderwege begangen, um die Brauchbarkeit der Ausschilderung sowie die Zielführung praktisch zu testen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung. Darüber hinaus liegen den für Umwelt und Sport zuständigen Behörden dazu keine Erkenntnisse vor.
 

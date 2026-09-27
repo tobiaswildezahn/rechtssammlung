@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7585", "21/14909", "21/16230"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66168"
@@ -43,7 +44,7 @@ Wie sehen auf Grundlage der zuletzt vorliegenden Beschlusslage der Fortgeschrieb
 
 Wie hoch lagen die jeweiligen Ist-Werte der Gesamtergebnisrechnung 2018 gemäß Sachstand nach der 13. Buchungsperiode? (Bitte Antworten zu Fragen 1. & 2. jahresweise analog zur Darstellung in den Quartalsberichten beziehungsweise Drs. 21/7585 auflisten.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 
@@ -55,7 +56,7 @@ Wie sehen auf Grundlage der zuletzt vorliegenden Beschlusslage der Fortgeschrieb
 
 Wie hoch lagen die jeweiligen Ist-Werte der Gesamtfinanzrechnung 2018 nach der 13. Buchungsperiode? (Bitte Antworten zu Fragen 3. & 4. jahresweise analog zur Darstellung in den Quartalsberichten beziehungsweise Drs. 21/7585 auflisten.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage 2.
 

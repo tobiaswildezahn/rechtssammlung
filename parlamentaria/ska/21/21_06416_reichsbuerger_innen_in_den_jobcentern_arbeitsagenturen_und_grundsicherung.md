@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/9978"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54946"
@@ -65,27 +66,27 @@ Welche Erkenntnisse und Einschätzungen hat der Senat über das Spektrum der sog
 
 Der Staatsanwaltschaft Hamburg liegen zum erfragten Zeitraum folgende Erkenntnisse vor:
 
- In zwei Ermittlungsverfahren wurde den jeweils beschuldigten Personen vorgewor-
+– In zwei Ermittlungsverfahren wurde den jeweils beschuldigten Personen vorgewor-
 
 fen, eine Urkundenfälschung durch Vorlage eines vorgeblich vom Verkehrsministerium des Freistaates Preußen ausgestellten Führerscheins bei einer Polizeikontrolle begangen zu haben.
 
- In einem weiteren Verfahren führte die beschuldigte Person ein Auto im öffentli-
+– In einem weiteren Verfahren führte die beschuldigte Person ein Auto im öffentli-
 
 chen Straßenverkehr, bei dem er das EU-Zeichen mit einem Aufkleber, der eine Fahne in den Farben der Reichskriegsflagge zeigte, überklebt hatte.
 
- In einem weiteren Verfahren handelte es sich vermutlich um einen „Germaniten“,
+– In einem weiteren Verfahren handelte es sich vermutlich um einen „Germaniten“,
 
 der im Laufe des Verfahrens diverse Schreiben eines sogenannten GSD/GSDI „Trust des indigenen Volkes Germaniten“ vorlegte, die eine Zugehörigkeit seiner Person zu dieser Gruppierung nahelegen.
 
- In einem weiteren Ermittlungsverfahren wird der angeklagten beschuldigten Per-
+– In einem weiteren Ermittlungsverfahren wird der angeklagten beschuldigten Per-
 
 son vorgeworfen, Bedienstete des Jobcenter beleidigt zu haben. Bei der Hauptverhandlung kam es zu erheblichen Störungen durch Zuschauer, die der Gruppierung der sogenannten Reichsbürger zuzuordnen sind.
 
- Aus einem weiteren Sachverhalt sind drei Ermittlungsverfahren erwachsen. In
+– Aus einem weiteren Sachverhalt sind drei Ermittlungsverfahren erwachsen. In
 
 einem Verfahren wird wegen Urkundenfälschung ermittelt, weil die beschuldigte Person am Hamburger Flughafen bei der Ausreise einen Reisepass des „Deutschen Reiches“ vorlegte, der in Aufmachung und Inhalt einem Reisepass der Bundesrepublik Deutschland stark ähnelte. Da die beschuldigte Person angegeben hatte, den Reisepass von zwei Männern erhalten zu haben, wurde gegen diese ebenfalls jeweils ein Verfahren wegen Urkundenfälschung eingeleitet.
 
- In zwei Verfahren reichte die beschuldigte Person in Reaktion auf die Anklage-
+– In zwei Verfahren reichte die beschuldigte Person in Reaktion auf die Anklage-
 
 schrift ein Sammelsurium von Ausdrucken zur Akte, die angeblich beweisen, dass die Bundesrepublik Deutschland kein Staat, sondern eine GmbH sei. Mit einem weiteren Schreiben hat die Person sich sodann an die „Firma: Amtsgericht Hamburg-Barmbek“ gewandt, einen „Vertrag über Schadensersatz“ beigelegt und darauf hingewiesen, dass sich die befasste Kollegin zukünftig auf der Grundlage
 
@@ -93,15 +94,15 @@ des beigefügten Vertrages durch konkludentes Handeln schadensersatzpflichtig ma
 
 Der ordentlichen Gerichtsbarkeit liegen zum erfragten Zeitraum folgende Erkenntnisse vor:
 
- Vor allen Amtsgerichten kam es zu mehreren Vorfällen, bei denen sogenannte
+– Vor allen Amtsgerichten kam es zu mehreren Vorfällen, bei denen sogenannte
 
 Reichsbürger und Germaniten auftraten. Gegenüber Mitarbeiterinnen und Mitarbeitern der Geschäftsstelle wird häufig mit einer Strafanzeige gedroht und es werden hohe Schadensersatzforderungen geltend gemacht. Weiterhin nahmen sogenannte Reichsbürger – sei es als Partei beziehungsweise Beteiligte oder als Zuschauer eines Verfahrens – mittels Mobiltelefon Videoaufzeichnungen der mündlichen Verhandlung im gerichtlichen Verfahren vor. Zum Teil werden diese Filme sodann im Internet auf der YouTube-Plattform eingestellt.
 
- Auch in Ordnungswidrigkeitsverfahren vor dem Oberlandesgericht treten mehrfach
+– Auch in Ordnungswidrigkeitsverfahren vor dem Oberlandesgericht treten mehrfach
 
 die sogenannten Reichsbürger auf, die Gesetze sowie die Legitimation der Verwaltungsbehörden und Gerichte infrage stellen.
 
- In jüngerer Zeit werden bei dem Präsidenten des Amtsgerichts Schadensersatz-
+– In jüngerer Zeit werden bei dem Präsidenten des Amtsgerichts Schadensersatz-
 
 forderungen in nicht unerheblicher Höhe geltend gemacht und bei Nichtzahlung mit der Zwangsvollstreckung gedroht. Zudem sind in zwei Fällen sogenannte Reichsbürger an Richter herangetreten und haben Schadensersatzforderungen geltend gemacht (sogenannte Malta-Masche).
 

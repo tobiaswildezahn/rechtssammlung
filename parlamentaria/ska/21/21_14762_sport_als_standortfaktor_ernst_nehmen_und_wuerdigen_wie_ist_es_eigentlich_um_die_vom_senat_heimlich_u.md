@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13978", "21/7135", "21/11340"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64205"
@@ -65,7 +66,7 @@ Wann wurde diese Studie beauftragt und wie lautet der konkrete Untersuchungsauft
 
 Wer sind jeweils Auftraggeber und Auftragnehmer dieser Studie?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Studie wurde durch die zuständige Behörde am 18.12.2017 beauftragt. Der Auftrag lautet, die „Ökonomische(n) Effekte einer vitalen Sportstadt“ zu untersuchen (siehe: https://www.infodienst-ausschreibungen.de/ausschreibung/sportstudie?uuid= 68f2b6f4-977d-11e7-860f-002655ffd6c8).
 
@@ -109,6 +110,6 @@ Zu wann soll die Studie abgeschlossen sein?
 
 Zu wann sollen die Ergebnisse dieser Studie veröffentlicht werden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Eine Veröffentlichung ist im 1. Quartal 2019 vorgesehen.

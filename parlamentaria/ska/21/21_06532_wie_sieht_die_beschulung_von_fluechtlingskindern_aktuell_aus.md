@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 20
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3554", "21/6503", "21/5163", "21/2193", "21/6428", "21/1953", "21/5782"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55067"
@@ -43,7 +44,7 @@ Wie viele Flüchtlingskinder werden aktuell in den Erstaufnahmeeinrichtungen bes
 
 Wie viele Flüchtlingskinder, die in einer Erstaufnahmeeinrichtung wohnen, werden derzeit überhaupt nicht beschult?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Mit Stand vom 3. November 2016 werden in 109 Lerngruppen 1.242 Schülerinnen und Schüler beschult. Eine Lerngruppe umfasst damit im Durchschnitt 11,4 Kinder. Jugendliche im Alter von 16 und 17 Jahren werden in berufsschulischen Maßnahmen beschult. Für alle schulpflichtigen Kinder in Erstaufnahmeeinrichtungen steht ein schulisches Angebot zur Verfügung.
 
@@ -87,7 +88,7 @@ Wie viele jugendliche Flüchtlinge an berufsbildenden Schulen gibt es nach aktue
 
 Wie viele spezielle Klassen sind für diese Schülergruppe aktuell eingerichtet? Bitte aufschlüsseln nach Schule (dazu bitte jeweiligen KESS- Index angeben) und die jeweilige Klassengröße angeben.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Das Merkmal „Flüchtling“ wird statistisch nicht erfasst. Zur Anzahl neu zugewanderter Jugendlicher, die an berufsbildenden Schulen beschult werden, siehe Anlage. Ein KESS-Index wird im berufsbildenden System nicht erhoben.
 
@@ -99,7 +100,7 @@ Wie viele Praktikumsplätze stehen aktuell zur Verfügung im Rahmen des neuen Sy
 
 Gibt es Teilnehmer am Programm AvM-Dual, die keinen Praktikumsplatz haben? Wenn ja: wie viele und warum?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Drs. 21/6428.
 

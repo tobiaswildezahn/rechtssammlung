@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3953", "21/5157", "21/8405", "21/8910", "21/5986", "21/4373", "21/9568", "21/7914", "21/5635", "21/2837", "21/2599", "21/2232", "21/1906", "21/1271"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58512"
@@ -55,7 +56,7 @@ Inwiefern gab es in den vergangenen sieben Quartalen Suizide, Suizidversuche und
 
 Inwiefern gab es in den vergangenen sieben Quartalen Suizide, Suizidversuche und/oder Vorfälle, bei denen es sich um Suizidversuche gehandelt haben könnte (besondere Vorkommnisse), von/mit Geflüchteten, die in einer Hamburger örU leben? Bitte wie in der Anlage zu Drs. 21/3953 je Quartal darstellen und zusätzlich die Suizidrate in Bezug auf die jeweilige Anzahl der Bewohner/-innen insgesamt angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zu den bis Ende März 2017 dokumentierten Verdachtsfällen siehe Drs. 21/8405, 21/5986, 21/5157, 21/4373 und 21/3953, zu den seither dokumentierten Verdachtsfällen siehe Anlage 1 für die Erstaufnahme und Anlage 2 für die örU.
 
@@ -83,7 +84,7 @@ Wie erklärt der Senat, dass nach Zählung der „Tagesschau“, die Suizidversu
 
 Hat der Senat Zahlen an die „Tagesschau“ geliefert und sind diese in die Zählung eingeflossen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Dem in Bezug genommenen Bericht ist eine Steigerung der Suizidversuchsrate in Hamburg nicht zu entnehmen. Im Übrigen sind den zuständigen Behörden die Quellen der in dem Bericht angegebenen Daten nicht bekannt, sodass eine valide Bewertung der Hamburger Zahlen nicht möglich ist.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14556", "21/14981", "20/14486"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64514"
@@ -49,7 +50,7 @@ Warum genau wird mit Drs. 21/14556 bereits für den Abschluss eines Vorvertrages
 
 Inwiefern ist hier für den beabsichtigten Abschluss eines Vorvertrages überhaupt eine Verpflichtungsermächtigung für eine 20-jährige Mietdauer erforderlich?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bei Aufstellung der Drucksache wurde davon ausgegangen, dass im Jahr 2018 ein entsprechender Mietvertrag abgeschlossen wird, der unter anderem die Kosten einer erforderlichen Zwischenanmietung regelt. Gemäß der Verwaltungsvorschrift zu § 14 Landeshaushaltsordnung (LHO) ist beim Eingehen von Verpflichtungen, die zu Kosten in mehreren Haushaltsjahren führen können, der Gesamtbetrag der benötigten Ver-
 
@@ -71,7 +72,7 @@ Warum ist laut vorgelegtem Letter of Intent zwischen Bezirksamt Wandsbek und Spr
 
 Halten der Senat oder die zuständigen Fachbehörden eine wirtschaftliche Nutzungsdauer von lediglich 30 Jahren für einen Büro- und Verwaltungsneubau städtischer Dienststellen für eine angemessene Kalkulationsgrundlage im Mieter-Vermieter-Modell?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der Letter of Intent ist die Vertragsgrundlage für die Übernahme der Kosten bei Nicht- Realisierung des Vorhabens. Sie ist keine Grundlage zur Berechnung einer Miethöhe. Im Mieter-Vermieter-Modell wird grundsätzlich eine Annuitätenrechnung von 40 Jahren zugrunde gelegt und die Mietzeit beträgt 20 Jahre plus zehn Jahre Option. Dies ist bei beiden Projekten der Fall.
 

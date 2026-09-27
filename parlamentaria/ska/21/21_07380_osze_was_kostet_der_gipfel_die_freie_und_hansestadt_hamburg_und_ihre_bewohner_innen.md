@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6586", "21/7234", "21/7255"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55974"
@@ -61,9 +62,9 @@ Die Kosten für auswärtige Unterstützungskräfte werden im Rahmen der „Verwa
 
 Es gelten einheitlich die Kostensätze des Bundes:
 
- Tagespauschale/Einsatzkraft pro Tag: 1,70 Euro
+– Tagespauschale/Einsatzkraft pro Tag: 1,70 Euro
 
- Mehrarbeitsvergütung:
+– Mehrarbeitsvergütung:
 
 Besoldungsgruppe:  
 Stundensatz:  

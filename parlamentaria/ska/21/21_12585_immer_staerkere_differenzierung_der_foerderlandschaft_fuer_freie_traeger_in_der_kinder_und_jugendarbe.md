@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61900"
@@ -61,7 +62,7 @@ Wann wurden die „Fördertöpfe“ derartig differenziert aufgegliedert?
 
 Aus welchen Gründen wurde die Förderlandschaft derartig differenziert aufgegliedert?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Schaffung neuer Fördermöglichkeiten ist ein fortwährender Prozess, der sich im Haushalt widerspiegelt. Entscheidungen werden, ausgelöst durch sich verändernde gesellschaftliche Bedarfe, über Förderprogramme mit entsprechender fachpolitische Schwerpunktsetzung getroffen. Die jeweiligen Aufgaben werden in der Regel bestehenden Produktgruppen und Ortsprodukten im geltenden Haushaltsplan der Freien und Hansestadt Hamburg zugeordnet oder es werden durch Beschluss der Hamburgischen Bürgerschaft Änderungen im Haushaltsplan vorgenommen. Im Übrigen siehe Antwort zu 1.
 

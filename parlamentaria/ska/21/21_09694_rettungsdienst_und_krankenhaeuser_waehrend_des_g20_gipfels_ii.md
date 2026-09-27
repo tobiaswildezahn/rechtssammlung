@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 18
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9394", "21/9570"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58501"
@@ -121,7 +122,7 @@ Wie hoch ist in den genannten Krankenhäusern die derzeitige Auslastung (ohne G2
 
 Wie viele zusätzliche Notfallzuführungen können von den Hamburger Krankenhäusern während des G20-Gipfels bewältigt werden?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Der Grad der Auslastung der Notaufnahmen wird nicht erhoben.
 

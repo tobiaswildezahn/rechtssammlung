@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 17
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13485", "21/3743"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53740"
@@ -61,7 +62,7 @@ Hat sich der Aufgabenkatalog der betroffenen Fachämter in den letzten zehn Jahr
 
 Haben die Fachämter weitere Aufgaben, über den Vollzug des Tierschutzgesetzes hinaus? Wenn ja, a. welche?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Aufgabenkatalog der Fachämter Verbraucherschutz, Gewerbe und Umwelt (VS) umfasst die Fachaufgaben Gewerbeüberwachung (nicht in den Bezirken Eimsbüttel
 
@@ -69,23 +70,23 @@ und Harburg, dort beim Zentrum für Wirtschaftsförderung), Markt- und Ordnungsa
 
 Diese ersetzen zwar häufig bereits bestehende Rechtsvorgaben, können aber durch Hinzukommen neuer Regelungsinhalte teilweise auch zur Erweiterung des Aufgabenkatalogs führen. Eine detaillierte Auflistung der Auswirkungen von Änderungen rechtlicher Vorgaben auf den Aufgabenumfang ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Beispielhaft sind aus den letzten zehn Jahren zu nennen:
 
-• Verordnung (EG) Nummer 1/2005 über den Schutz von Tieren beim internationalen Transport
+– Verordnung (EG) Nummer 1/2005 über den Schutz von Tieren beim internationalen Transport
 
-• Verordnung (EG) Nummer 1069/2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nummer 1774/2002 (Verordnung über tierische Nebenprodukte), einschließlich Durchführungsverordnung (EU) Nummer 142/2011
+– Verordnung (EG) Nummer 1069/2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nummer 1774/2002 (Verordnung über tierische Nebenprodukte), einschließlich Durchführungsverordnung (EU) Nummer 142/2011
 
-• Verordnung (EU) Nummer 576/2013 über die Verbringung von Heimtieren zu anderen als Handelszwecken und zur Aufhebung der Verordnung (EG) Nummer 998/2003, einschließlich Durchführungsverordnung (EU) Nummer 577/2013
+– Verordnung (EU) Nummer 576/2013 über die Verbringung von Heimtieren zu anderen als Handelszwecken und zur Aufhebung der Verordnung (EG) Nummer 998/2003, einschließlich Durchführungsverordnung (EU) Nummer 577/2013
 
-• Gesetz über den Verkehr mit Arzneimitteln (Arzneimittelgesetz – AMG) neugefasst 2005, zuletzt geändert 2016 (Bund)
+– Gesetz über den Verkehr mit Arzneimitteln (Arzneimittelgesetz – AMG) neugefasst 2005, zuletzt geändert 2016 (Bund)
 
-• Tierschutzgesetz, neugefasst 2006, zuletzt geändert 2013 mit neuen Erlaubnispflichten für die Tätigkeit als Hundetrainer und das Verbringen oder Einführen von Wirbeltieren gegen Entgelt
+– Tierschutzgesetz, neugefasst 2006, zuletzt geändert 2013 mit neuen Erlaubnispflichten für die Tätigkeit als Hundetrainer und das Verbringen oder Einführen von Wirbeltieren gegen Entgelt
 
-• Verordnung über die Registrierung von Erlaubnissen zur Zurschaustellung von Tieren an wechselnden Orten (Zirkusregisterverordnung – ZirkRegV) von 2008
+– Verordnung über die Registrierung von Erlaubnissen zur Zurschaustellung von Tieren an wechselnden Orten (Zirkusregisterverordnung – ZirkRegV) von 2008
 
-• Gesetz zur Vorbeugung vor und Bekämpfung von Tierseuchen (Tiergesundheitsgesetz – TierGesG) von 2013 ,
+– Gesetz zur Vorbeugung vor und Bekämpfung von Tierseuchen (Tiergesundheitsgesetz – TierGesG) von 2013 ,
 
-• Hamburgisches Gesetz über das Halten und Führen von Hunden (Hundegesetz – HundeG) 2006
+– Hamburgisches Gesetz über das Halten und Führen von Hunden (Hundegesetz – HundeG) 2006
 
-• Hamburgisches Gesetz zum Schutz der Bevölkerung vor gefährlichen Tieren wild lebender Arten (Hamburgisches Gefahrtiergesetz – HmbGefahrtierG) von 2013
+– Hamburgisches Gesetz zum Schutz der Bevölkerung vor gefährlichen Tieren wild lebender Arten (Hamburgisches Gefahrtiergesetz – HmbGefahrtierG) von 2013
 
 b. mit welchem Stellenanteil an der Aufgabe „Vollzug des TierSchG“ sind die Mitarbeiter und Mitarbeiterinnen der Fachämter befasst?
 
@@ -107,29 +108,29 @@ Auf welchen Volksfesten werden in Hamburg Tiere, die unter die Bestimmungen des 
 
 Für Harburg:
 
- In den Jahren 2014 bis 2016 einmal jährlich das Harburger Binnenhafenfest mit
+– In den Jahren 2014 bis 2016 einmal jährlich das Harburger Binnenhafenfest mit
 
 „Ponyreiten“ mit jeweils vier Ponys
 
 Für Hamburg-Mitte:
 
- In den Jahren 2014 bis 2016 dreimal jährlich der Hamburger DOM mit einem „Po-
+– In den Jahren 2014 bis 2016 dreimal jährlich der Hamburger DOM mit einem „Po-
 
 nykarussel“, siehe auch Drs. 20/13485 und Drs. 21/3743 und einem „Mäusezirkus“.
 
- In den Jahren 2014 bis 2016 dreimal jährlich „Ponyreiten“ bei Stadtteil- und Kinder-
+– In den Jahren 2014 bis 2016 dreimal jährlich „Ponyreiten“ bei Stadtteil- und Kinder-
 
 festen.
 
- Eine Erfassung genauer Tierzahlen ist nicht erfolgt und rechtlich auch nicht vorge-
+– Eine Erfassung genauer Tierzahlen ist nicht erfolgt und rechtlich auch nicht vorge-
 
 schrieben.
 
- In den Jahren 2014 und 2015 einmal jährlich „Mittelalterliches Spectaculum“ (Falk-
+– In den Jahren 2014 und 2015 einmal jährlich „Mittelalterliches Spectaculum“ (Falk-
 
 nerei, Ponyreiten, Ritterspiele mit Pferden und Alpakas).
 
- Die Erfassung genauer Tierzahlen ist nicht erfolgt und rechtlich auch nicht vorge-
+– Die Erfassung genauer Tierzahlen ist nicht erfolgt und rechtlich auch nicht vorge-
 
 schrieben.
 
@@ -151,17 +152,17 @@ Welche Kontrollen wurden in den letzten drei Jahren auf den in der Antwort auf F
 
 Wie viele Kontrollen wurden in den letzten drei Jahren auf den in der Antwort auf Frage 6. aufgeführten Volksfesten durchgeführt und wie lange dauert eine Kontrolle regelhaft?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 In Harburg wurde 2014 bezüglich des „Ponyreitens“ auf dem Harburger Binnenhafenfest eine Kontrolle durchgeführt.
 
 In Hamburg-Mitte wurden folgende Kontrollen durchgeführt:
 
- Hamburger DOM „Ponykarussel“: Siehe Drs. 20/13485 und 21/3743
+– Hamburger DOM „Ponykarussel“: Siehe Drs. 20/13485 und 21/3743
 
- Hamburger DOM „Mäusezirkus“: 2015 und 2016 je eine Kontrolle
+– Hamburger DOM „Mäusezirkus“: 2015 und 2016 je eine Kontrolle
 
- Mittelalterliches Spectaculum: 2014 und 2015 je eine Kontrolle
+– Mittelalterliches Spectaculum: 2014 und 2015 je eine Kontrolle
 
 Der durchschnittliche Zeitaufwand für Kontrollen lässt sich nicht beziffern, da Art und Umfang der Tiere, Gehege und Haltungsbedingungen sehr unterschiedlich sind.
 

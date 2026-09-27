@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52100"
@@ -101,7 +102,7 @@ Wie groß ist das Leitungsnetz der „Stromnetz Hamburg GmbH“, das aus betrieb
 
 Wie groß ist das Leitungsnetz der „Stromnetz Hamburg GmbH“, das eigentlich ausgetauscht werden müsste, vorerst aber durch Wartungsmaßnahmen in Betrieb gehalten wird? Bitte nach Leitungsart, letztes Erneuerungsjahr und Grund der Austauschverschiebung aufführen.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 In den Jahren 2016 bis 2020 ist der planmäßige Austausch über alle drei Spannungsebenen von insgesamt rund 650 km Kabelnetz geplant. Überdies soll auf einer Trassenlänge von 70 km ein Teilaustausch von insgesamt 300 km Leiterseilen im Hochspannungsfreileitungsnetz umgesetzt werden. Erneuerungen in Niederspannungsfreileitungsabschnitten sind derzeit nicht geplant.
 

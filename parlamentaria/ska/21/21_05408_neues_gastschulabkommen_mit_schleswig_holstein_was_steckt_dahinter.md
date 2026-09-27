@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4089", "21/5387"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53898"
@@ -55,7 +56,7 @@ In der Pressemitteilung wird nur von „weiterführenden“ Schulen gesprochen. 
 
 Gilt das Gastschulabkommen auch für Schülerinnen und Schüler, die inklusiv oder in Sonderschulen/ReBBZ beschult werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/5387.
 
@@ -117,7 +118,7 @@ Mit wie vielen Schülern und Schülerinnen aus Schleswig-Holstein, die Hamburgs 
 
 Von welchen tatsächlichen jährlichen Kosten geht die zuständige Behörde für die Schuljahre 2017/2018 bis 2019/2020 aus und wer trägt das Defizit?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Eine Prognose, wie viele Schülerinnen und Schüler mit Wohnsitz in Schleswig- Holstein künftig eine Schule in Hamburg besuchen werden, wird nicht erstellt. Eine belastbare Einschätzung der Auswirkung der verbesserten Freizügigkeit des grenzüberschreitenden Schulbesuchs ist wegen der Vielzahl der Einflussfaktoren nicht möglich. Im Übrigen siehe Drs. 21/5387.
 

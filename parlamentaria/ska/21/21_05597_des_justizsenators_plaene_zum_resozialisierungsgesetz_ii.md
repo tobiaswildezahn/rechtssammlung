@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4141"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54089"
@@ -64,27 +65,27 @@ Welche Grundzüge sind in dem Entwurf nach seinem jetzigen Planungsstand konkret
 
 Es sollen folgende Grundzüge im Landesresozialisierungs- und Opferschutzgesetz verankert werden:
 
- Grundsätze der Zusammenarbeit zwischen den am Resozialisierungsprozess
+– Grundsätze der Zusammenarbeit zwischen den am Resozialisierungsprozess
 
 beteiligen Stellen
 
- Grundsätze der Hilfeleistung
+– Grundsätze der Hilfeleistung
 
- Klare Aufgabenbeschreibungen bezogen auf staatliche Einrichtungen und freie
+– Klare Aufgabenbeschreibungen bezogen auf staatliche Einrichtungen und freie
 
 Träger der Straffälligenhilfe
 
- Berücksichtigung spezieller Hilfebedarfe im Resozialisierungsprozess
+– Berücksichtigung spezieller Hilfebedarfe im Resozialisierungsprozess
 
- Individuelle Hilfeplanung im Rahmen des Übergangsmanagements für alle Inhaf-
+– Individuelle Hilfeplanung im Rahmen des Übergangsmanagements für alle Inhaf-
 
 tierten
 
- Festschreibung von Möglichkeiten zur Vermeidung der Vollstreckung von Ersatz-
+– Festschreibung von Möglichkeiten zur Vermeidung der Vollstreckung von Ersatz-
 
 freiheitsstrafen
 
- Stärkung des Opferschutzes.
+– Stärkung des Opferschutzes.
 
 ### Frage 4
 
@@ -94,7 +95,7 @@ Zu welchem erhöhten Arbeitsanfall in jeweils welchen Bereichen wird die Einfüh
 
 Die Pläne von Justizsenator und Sozialsenatorin sahen auch eine Festschreibung der verbindlichen Zusammenarbeit zwischen Justizvollzugsanstalten sowie der staatlichen Dienste und freien Träger der Straffälligenhilfe vor. Wie soll diese konkret aussehen und zu welchem erhöhten Arbeitsanfall in jeweils welchen Bereichen wird diese Festschreibung nach den derzeitigen Planungen der Behörden führen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die konkreten Planungen sind hierzu noch nicht abgeschlossen. Im Übrigen siehe Drs. 21/4141.
 

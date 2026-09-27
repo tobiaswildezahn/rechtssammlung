@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12737"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62118"
@@ -45,6 +46,6 @@ In wie vielen Strafsachen in Hamburg hat in den Jahren 2015, 2016, 2017 und 2018
 
 In wie vielen Strafsachen in Hamburg hat in den Jahren 2015, 2016, 2017 und 2018 Verjährung einen Prozess vor einem Strafgericht verhindert? Bitte für jedes Jahr einzeln darstellen und dabei auch angeben, welcher Deliktsvorwurf der jeweiligen Strafsache zugrunde lag.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/12737.

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48402"
@@ -113,13 +114,13 @@ c. Was sind die wesentlichen Ablehnungsgründe?
 
 Die wesentlichen Ablehnungsgründe sind:
 
- mangelnder Nachweis eines vorsätzlichen, rechtswidrigen tätlichen Angriffs im
+– mangelnder Nachweis eines vorsätzlichen, rechtswidrigen tätlichen Angriffs im
 
 Sinne von § 1 OEG,
 
- Vorliegen von Versagungsgründen im Sinne von § 2 OEG,
+– Vorliegen von Versagungsgründen im Sinne von § 2 OEG,
 
- mangelnder Nachweis von Schädigungsfolgen.
+– mangelnder Nachweis von Schädigungsfolgen.
 
 d. Gegen wie viele der ablehnenden Entscheidungen wurde jährlich seit dem Jahre 2010 Widerspruch eingelegt und wie häufig wurde diesem im Verwaltungswege jeweils abgeholfen, gegen wie viele Ablehnungen wurde Klage erhoben und wie viele Klagen waren erfolgreich?
 

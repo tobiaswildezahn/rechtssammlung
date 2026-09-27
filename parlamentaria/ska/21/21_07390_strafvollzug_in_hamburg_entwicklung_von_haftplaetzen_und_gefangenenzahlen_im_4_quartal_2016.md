@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 15
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3877", "21/3222", "21/5121", "21/6219", "21/6822", "21/3373", "21/5780"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56012"
@@ -53,7 +54,7 @@ Wie haben sich Belegungsfähigkeit und tatsächliche Belegung in den einzelnen J
 
 Wie haben sich Belegungsfähigkeit und tatsächliche Belegung in der sozialtherapeutischen Anstalt einschließlich der Außenstelle Bergedorf sowie in der sozialtherapeutischen Abteilung der JVA Hahnöfersand monatlich seit Dezember 2016 jeweils entwickelt? Bitte jeweils zum Monatsersten als Stichtag in absoluten Zahlen und in Prozent angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Stichtag: 01.12.2016
 

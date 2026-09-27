@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 28
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7941", "21/8699", "21/10990", "19/5222"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64388"
@@ -51,7 +52,7 @@ Welche Anstrengungen haben Senat beziehungsweise zuständige Behörde gegenüber
 
 Wie sind nach Ansicht von Senat beziehungsweise zuständiger Behörde die bisher bekannten sozialgerichtlichen Entscheidungen hinsichtlich der Bewilligungspraxis der Jobcenter t.a.h. zu werten? Inwieweit war dies Thema von Gesprächen mit Jobcenter t.a.h.? Mit welchen Ergebnissen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Fälle, bei denen sich Bedarfe über das gesetzlich vorgesehene Leistungsspektrum hinaus ergeben, sind der zuständigen Behörde nicht bekannt. Insofern hat es hierzu keine Gespräche mit dem Jobcenter gegeben.
 
@@ -71,7 +72,7 @@ Wie ist die Praxis von Jobcenter t.a.h. hinsichtlich der Bewilligung von besonde
 
 In welcher Höhe wurden die Kosten für Computer oder Notebooks jeweils bewilligt? Bitte die niedrigste und die höchste Bewilligung angeben.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Entsprechende Daten werden bei Jobcenter t.a.h. nicht gesondert statistisch erfasst. Eine zur Beantwortung notwendige händische Auswertung der Akten über 79.000 leistungsberechtigte Kinder und Jugendlichen unter 25 Jahren ist in der zur Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Im Übrigen siehe Antwort zu 2. und 3.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12642", "20/8710", "20/8796", "20/9201"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51660"
@@ -51,7 +52,7 @@ Welche genauen Vereinbarungen in welcher Form haben welche Stellen zur Nutzung d
 
 Welche genauen Vereinbarungen in welcher Form haben welche Stellen zur Nutzung des auf dem Flurstück 7171 befindlichen Parkplatzes mit wem und für welchen Zeitraum abgeschlossen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Bislang wurden noch keine Vereinbarungen zur Nutzung des Flurstücks 7171 als Zufahrt geschlossen. Die Bezirksversammlung hat jedoch mit einstimmigem Beschluss vom 26. Februar 2015 mit Drs. 20-0821.1 der vorgeschlagenen Verlegung der Zufahrt zur Gärtnerei unter der Bedingung der Realisierung und vollständigen Kostenübernahme seitens des Vorhabenträgers, der Nutzung der historischen Lindenallee als Zufahrt durch die Bewohner des als Wohnhaus genutzten Nebengebäudes (ehemaliges Waschhaus) und der Nutzung von sechs Stellplätzen des vorhandenen Parkplatzes durch Besucher sowie Lieferanten des Gebäudes Schemmannstraße 56 (ehemaliges Johannes-Petersen-Heim) zugestimmt. Entsprechende Vereinbarungen zur diesbezüglichen Nutzung des Flurstückes 7171 werden nach Abschluss der
 
@@ -89,7 +90,7 @@ Ist geplant, das Flurstück 7171 ganz oder teilweise für den öffentlichen Verk
 
 Sind weitere Änderungen bezüglich der Nutzung oder der Eigentumsverhältnisse des Flurstücks 7171 geplant? Wenn ja, welche Planungen gibt es im Einzelnen aus welchen Gründen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Nein.
 

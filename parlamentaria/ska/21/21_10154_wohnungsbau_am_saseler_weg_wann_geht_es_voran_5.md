@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5549", "21/8623", "21/9352"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58986"
@@ -59,6 +60,6 @@ Wann wird mit dem Beginn der Bebauung und Erschließung der Fläche gerechnet?
 
 Welche einzelnen Fristen wurden zur Umsetzung der Bebauung für dieses Grundstück vertraglich vereinbart?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Frist zur Bauantragsstellung beträgt vier Monate nach Beurkundung. Der Käufer muss sechs Monate nach Erteilung der Baugenehmigung mit der Bebauung beginnen. Innerhalb von 18 Monaten nach Erteilung der Baugenehmigung muss der Kaufgegenstand bebaut sein.

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 20
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1917", "21/2225", "21/425", "21/2109"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52758"
@@ -65,7 +66,7 @@ Welche Erkenntnisse liegen den zuständigen Behörden vor über weitere Straftat
 
 Welche Erkenntnisse liegen den zuständigen Behörden vor über andere Straftaten in Schulen im ersten Halbjahr 2015/2016?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Polizei erfasst Straftaten gemäß dem Straftatenkatalog der Richtlinien für die Erfassung und Verarbeitung der Daten in der Polizeilichen Kriminalstatistik (PKS). In der PKS erfolgt die räumliche Erfassung in ihrer kleinsten Einheit nach Ortsteilen. Nach Art der Tatörtlichkeit oder nach Adressen wird nicht weiter differenziert.
 

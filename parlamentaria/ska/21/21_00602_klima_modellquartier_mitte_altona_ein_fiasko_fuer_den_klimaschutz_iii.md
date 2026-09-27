@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15", "21/133"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48766"
@@ -110,7 +111,7 @@ Wann und von wem wurde der Beschluss über diese spezielle Förderung gefasst?
 
 Von wem wurde dieser Beschluss unterzeichnet?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Beschluss wurde von der IFB in Abstimmung mit der Behörde für Stadtentwicklung und Umwelt im Oktober 2014 gefasst.
 

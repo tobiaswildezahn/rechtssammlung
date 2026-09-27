@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9662"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54739"
@@ -90,7 +91,7 @@ Welche Baustellen gab es seit dem 1. Juli 2016 auf den Autobahnen in 20 km Umkre
 
 Bei welchen dieser Baustellen gab es Bonus-/Malus-Regelungen und bei welchen Nacht- und Wochenendarbeit?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Baustellen sind den Anlagen 1 und 2 zu entnehmen. Die Auswertung zeigt auch Baustellen, die durch zwei Realisierungsträger (zum Beispiel Leitungsunternehmen und Straßenbau) doppelt aufgeführt sind, aber miteinander koordiniert durchgeführt werden. Eine Auswertung der vertraglichen Regelungen aller Baustellen ist nicht möglich, da viele Maßnahmen durch private Träger beauftragt werden. Die Freie und Hansestadt Hamburg (FHH) hat in fünf Fällen Bonus-/Malus-Regelungen, in 19 Fällen Nachtarbeit und in 97 Fällen Wochenendarbeit vereinbart.
 

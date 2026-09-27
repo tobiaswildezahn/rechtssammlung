@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7301", "21/6715", "21/6738", "21/6739"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55965"
@@ -43,7 +44,7 @@ Wann wurde der zuständigen Behörde bekannt, dass es am UKE sexuelle Übergriff
 
 Was hat Senatorin Fegebank jeweils wann hierzu unternommen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für die Verfolgung von im Universitätsklinikum Hamburg-Eppendorf (UKE) begangenen Straftaten ist im Regelfall die Staatsanwaltschaft Hamburg zuständig. Wegen des betreffenden Vorfalls war im Jahr 2013 Anzeige erstattet worden. Die für die Rechtsaufsicht über das UKE zuständige Behörde hat Anfang Dezember 2016 Kenntnis von dem gegen einen ehemaligen Mitarbeiter des UKE laufenden Strafverfahren erhalten. Der Präses der für die Rechtsaufsicht über das UKE zuständigen Behörde hat sich ebenfalls Anfang Dezember 2016 durch den Vorstand des UKE über den Sachstand unterrichten lassen.
 

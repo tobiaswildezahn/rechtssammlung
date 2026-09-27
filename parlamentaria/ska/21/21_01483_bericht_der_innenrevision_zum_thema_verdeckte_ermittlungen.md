@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 19
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49684"
@@ -57,7 +58,7 @@ Wann hat Senator Neumann den Polizeipräsidenten mit der Umsetzung der Empfehlun
 
 Wie genau sieht der Auftrag an den Präsidenten beziehungsweise die Verfügung aus?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Präses der Behörde für Inneres und Sport hat den Polizeipräsidenten am Nachmittag des 28. August 2015 mündlich mit der durchgängigen Umsetzung der im Bericht genannten Empfehlungen der Innenrevision zum Umgang mit verdeckten Ermittlungen beauftragt.
 
@@ -99,7 +100,7 @@ Wie bewertet der Senat beziehungsweise die zuständige Behörde die Rolle der Be
 
 Nicht jeder Einsatz eines Beobachters für Lagebeurteilung erfüllt die höheren Voraussetzungen zur Einsetzung eines verdeckten Ermittlers. Wie will der Senat beziehungsweise die zuständige Behörde solche Einsätze adäquat ersetzen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Für eine im Sinne der Sicherheit der Bürgerinnen und Bürger erfolgreiche Polizeiarbeit ist der Gewinn von Informationen zur Vorbereitung und Durchführung von adäquaten polizeilichen Maßnahmen erforderlich. Hierfür bedarf es geeigneter Instrumente, die im gefahrenabwehrenden Bereich auch den verdeckten Einsatz von Polizeibeamtinnen und Polizeibeamten erfordern können. Dabei müssen diese Instrumente fortlaufend in Hinsicht auf ihre rechtliche und taktische Ausgestaltung überprüft werden.
 

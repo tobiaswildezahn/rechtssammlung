@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 17
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11405", "21/9286"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61497"
@@ -61,7 +62,7 @@ Wie viele Flüchtlinge begannen vor zwei Jahren AvM-Dual? Wie viele davon waren 
 
 Wie viele davon haben aus welchen Gründen AvM-Dual vorzeitig verlassen? Wie viele davon waren Männer, wie viele Frauen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 2016 begannen 1.208 Anfängerinnen und Anfänger den Bildungsgang AvM-Dual, darunter 883 männliche Jugendliche und 325 weibliche Jugendliche (Schuljahresstatistik 2016). Der Stichtag, zu dem die Schuljahresstatistik erhoben wird, umfasst Anfängerinnen und Anfänger, die zum 1.2. sowie 1.8. des jeweiligen Jahres in das erste Ausbildungsjahr des Bildungsganges eintreten. Von diesen 1.208 Anfängerinnen und Anfängern verließen 168 Jugendliche den Bildungsgang im ersten Ausbildungsjahr ohne Abschluss. Informationen zu Abbrüchen im zweiten Ausbildungsjahr liegen erst mit Auswertung der Schuljahreserhebung 2018 vor. Die Gründe dafür, warum der Bildungsgang verlassen wurde, werden in der Schuljahresstatistik nicht erfasst. Mögliche Gründe sind zum Beispiel Schulwechsel aufgrund von Wohnortwechsel oder Bildungsgangwechsel, direkte Übergänge in die duale Ausbildung, Beschäftigung oder andere berufsqualifizierende Maßnahmen.
 

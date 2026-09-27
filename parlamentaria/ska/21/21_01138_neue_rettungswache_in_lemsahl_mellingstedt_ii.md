@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1013"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49319"
@@ -45,7 +46,7 @@ Wie viele Einsätze gab es seit dem 11. August 2011 im Zuständigkeitsbereich de
 
 Wie viele Einsätze gab es seit dem 11. August 2011 im Zuständigkeitsbereich der neuen Rettungswache zwischen 19 und 7 Uhr, welcher Art waren die Notfälle jeweils, wann wurde der Einsatzort jeweils und durchschnittlich erreicht und von welchem Standort aus jeweils?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Notfalleinsätze gliedern sich wie folgt auf:
 

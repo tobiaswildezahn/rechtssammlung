@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 14
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6663", "21/8309", "21/10724"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60517"
@@ -52,7 +53,7 @@ a) Aus welchem/welchen Grund/Gründen ist das Landeskriminalamt Hamburg bei der 
 b) Zu welchem Datum/Zeitpunkt hat die Geldübergabe in Berlin stattgefunden?
 c) Wie hoch war der Geldbetrag, den Külünk an Bağcı übergeben hat/übergeben ließ?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Erkenntnisse im Sinne der Fragen liegen der Polizei Hamburg sowohl für das Jahr 2016 als auch für den 1. Juni 2017 nicht vor.
 

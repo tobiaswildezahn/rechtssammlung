@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65908"
@@ -48,7 +49,7 @@ d. Größe des Gebietes.
 
 Gibt es Urbane Gebiete, in denen im Planungsverlauf ursprünglich eine andere Gebietskategorie geplant war? Wenn ja, welche?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bezirk Planbezeichnung bzw. Vorhabenbezeichnung
 

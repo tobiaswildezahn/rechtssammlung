@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48687"
@@ -48,7 +49,7 @@ SprengV., § 23 (1) „Das Abbrennen pyrotechnischer Gegenstände in unmittelbar
 der Kategorie 2 mit ausschließlicher Knallwirkung in bestimmten dichtbesiedelten Gemeinden oder Teilen von Gemeinden zu bestimmten Zeiten auch am 31. Dezember und am 1. Januar nicht abgebrannt werden dürfen. Eine allgemeine Anordnung ist öffentlich bekanntzugeben. In Gegenden mit vielen Reetdachhäusern, zum Beispiel auf Sylt, sind deshalb Feuerwerke beziehungsweise das Entzünden von Knallkörpern, auch zu Sylvester, untersagt. Das Verbot wird konsequent umgesetzt. Auch in Neuengamme ist das Entzünden von Feuerwerkskörpern im Umkreis von 200 m um Reetdachhäuser, also de facto im gesamten Ortskern, verboten. Die Behörden sehen sich zurzeit aber außerstande, das Verbot in Neuengamme durchzusetzen. Viele Bewohner von Reetdachhäusern stehen deshalb insbesondere in der Sylvesternacht vor ihren Häusern, um ihre Dächer zu beobachten und gegebenenfalls zu löschen. Auf der Bezirksebene ist das Verbot anscheinend nicht durchsetzbar. Vor diesem Hintergrund frage ich den Senat:
 1. Wann und in welcher Form wurde dieses Verbot in Hamburg öffentlich bekannt gegeben?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine jährliche Veröffentlichung der „Anordnung für das Abbrennen von pyrotechnischen Gegenständen zur Jahreswende“ erfolgt im „Amtlichen Anzeiger“ (zuletzt in der Ausgabe Nummer 98 vom 16. Dezember 2014, S. 2349).
 
@@ -72,7 +73,7 @@ Welches waren die jeweils ermittelten Brandursachen?
 
 Welche Schadenssummen sind hierbei entstanden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die zur Beantwortung erforderlichen Daten zur Art der Dachdeckung beim Tatobjekt werden im Vorgangsverwaltungs- und -bearbeitungssystem MESTA der Staatsanwaltschaft Hamburg nicht erfasst. Es müssten daher zur Beantwortung dieser Frage jedenfalls sämtliche wegen des Vorwurfs einer Straftat nach §§ 306, 306a, 306b, 306c und 306d StGB und – soweit es nicht zu einer Beeinträchtigung wesentlicher Bestandteile des Gebäudes kam – § 303 StGB geführten Verfahren aus den Aktenzeichenjahrgängen 2010 bis 2015 händisch ausgewertet werden.Insoweit handelt es sich um die folgende Anzahl von Verfahren:
 

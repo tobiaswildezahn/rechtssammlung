@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 19
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14486", "21/14986", "21/15369", "21/18177", "21/13944", "21/18779"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69537"
@@ -43,7 +44,7 @@ In welcher Höhe sollen aus welchen Ansätzen Mittel für die Sanierung des Geb�
 
 Wie genau und durch wen wurden Kosten in welcher Höhe für die Sanierung ermittelt? Wie setzen sich die Kosten im Einzelnen zusammen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die voraussichtlichen Kosten für die denkmalgerechte Grundsanierung (zum Beispiel Fassade, technische Gebäudeausrüstung) betragen rund 900 000 Euro. Dies ist im Rahmen der Machbarkeitsstudie aus dem September 2019 im Auftrag des städtischen Unternehmens Sprinkenhof GmbH ermittelt worden. Die Kosten setzen sich zusammen aus den Bau-, Planungs- und Baumanagementkosten, einem veranschlagten Kostenrisiko sowie der Umsatzsteuer. Der Quartiersfonds trägt 490 000 Euro und der Restbetrag wird aus den Mitteln des LIG getragen.
 
@@ -83,7 +84,7 @@ Inwiefern entspricht es der in Drs. 20/14486 und diversen Folgedrucksachen darge
 
 Warum wurde oder wird die Liegenschaft des ehemaligen Kleinbahnhofs Wohldorf nicht in das Mieter-Vermieter-Modell für Kulturimmobilien überführt oder mit anderen Objekten des Allgemeinen Grundvermögens an die Sprinkenhof GmbH übertragen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Mit der Drs. 20/14486 wurde die grundsätzliche Immobilienstrategie für die Freie und Hansestadt Hamburg festgelegt. Große Teile des Gesamtimmobilienportfolios wurden in der Zwischenzeit entsprechend zugeordnet. Abhängig von den Evaluationsergebnissen einer aktuell beauftragten Studie zu diesem Vorgehen ist geplant, gegebenenfalls die Immobilienstrategie auf weitere Teilimmobiliencluster anzuwenden. Bis dahin
 

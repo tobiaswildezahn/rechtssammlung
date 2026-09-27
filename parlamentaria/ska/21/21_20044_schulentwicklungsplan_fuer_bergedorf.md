@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19640"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69804"
@@ -43,43 +44,43 @@ Im Bezirk Bergedorf werden allein im neuen Stadtteil Oberbillwerder vier neue Sc
 
 Darüber hinaus sollen perspektivisch die folgenden Grundschulen jeweils auf ihren eigenen Grundstücken ausgebaut werden:
 
- die Schule Leuschnerstraße nach Auszug des Regionalen Bildungs- und Bera-
+– die Schule Leuschnerstraße nach Auszug des Regionalen Bildungs- und Bera-
 
 tungszentrums von zwei auf vier Züge,
 
- die Schule Max-Eichholz-Ring von vier auf fünf Züge,
+– die Schule Max-Eichholz-Ring von vier auf fünf Züge,
 
- die Schule Nettelnburg von vier auf fünf Züge,
+– die Schule Nettelnburg von vier auf fünf Züge,
 
- die Schule Sander Straße von zwei auf drei Züge,
+– die Schule Sander Straße von zwei auf drei Züge,
 
- die Schule Curslack-Neuengamme nach dem Auszug der Stadtteilschule von zwei
+– die Schule Curslack-Neuengamme nach dem Auszug der Stadtteilschule von zwei
 
 auf 3,5 Züge,
 
- die Schule Ernst-Henning-Straße von vier auf fünf Züge,
+– die Schule Ernst-Henning-Straße von vier auf fünf Züge,
 
- die Schule Fünfhausen-Warwisch von einem Zug auf 2,5 Züge sowie
+– die Schule Fünfhausen-Warwisch von einem Zug auf 2,5 Züge sowie
 
- die Grundschulabteilung der Stadtteilschule Kirchwerder von einem auf zwei Züge,
+– die Grundschulabteilung der Stadtteilschule Kirchwerder von einem auf zwei Züge,
 
 sobald die Sekundarstufen I und II an einen neuen Standort gezogen sind.
 
 Auch weiterführende Schulen werden zuzüglich zu den Neugründungen ausgebaut:
 
- die Stadtteilschule Lohbrügge auf 6,5 Züge. Der Ausbau ist bereits in die laufende
+– die Stadtteilschule Lohbrügge auf 6,5 Züge. Der Ausbau ist bereits in die laufende
 
 Planung eingeflossen und wird noch im Gebäude des dritten Bauabschnitts mit realisiert.
 
- die Stadtteilschule Richard-Linde-Weg auf 6,5 Züge als Erweiterung der laufenden
+– die Stadtteilschule Richard-Linde-Weg auf 6,5 Züge als Erweiterung der laufenden
 
 Maßnahmen auf dem Grundstück,
 
- die Gretel-Bergmann-Schule auf sechs Züge in den vorhandenen Gebäuden,
+– die Gretel-Bergmann-Schule auf sechs Züge in den vorhandenen Gebäuden,
 
- das Gymnasium Bornbrook auf fünf Züge auf dem Schulgrundstück,
+– das Gymnasium Bornbrook auf fünf Züge auf dem Schulgrundstück,
 
- das Gymnasium Allermöhe auf 4,5 Züge im Bestandsgebäude.
+– das Gymnasium Allermöhe auf 4,5 Züge im Bestandsgebäude.
 
 Die Bauplanung für das Jahr 2020 liegt bereits seit Langem vor und entspricht der Bedarfsplanung des Schulentwicklungsplans. Zu den Planungen für den Bezirk Bergedorf siehe auch Drs. 21/19640.
 

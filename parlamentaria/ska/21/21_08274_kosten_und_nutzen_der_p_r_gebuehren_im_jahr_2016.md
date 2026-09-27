@@ -14,6 +14,7 @@ fragen: 42
 einzelfragen: 54
 antwortbloecke: 42
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/516", "21/2242", "21/3044", "21/5888", "21/4925", "21/2367", "21/6458", "20/11361", "20/9662", "21/1591"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56971"
@@ -340,11 +341,11 @@ Laut der PPP aus dem Protokoll 20/31 des Verkehrsausschusses vom 7. Januar 2014 
 
 #### Antwort zu Frage 27
 
- „Verlagerung von heutigen P+R-Nutzern auf Anlagen mit geringerer MIV-Fahrt-Entfernung oder – bei kurzen Strecken – auch auf Fahrrad oder Buszubringer. Dadurch Vergrößerung des Angebotes für Nutzer, die auf P+R angewiesen sind.“
+– „Verlagerung von heutigen P+R-Nutzern auf Anlagen mit geringerer MIV-Fahrt-Entfernung oder – bei kurzen Strecken – auch auf Fahrrad oder Buszubringer. Dadurch Vergrößerung des Angebotes für Nutzer, die auf P+R angewiesen sind.“
 
- „Reduzierung von Fremdparkern. Hierdurch Bereitstellung von P+R-Kapazitäten für weitere Pendler.“
+– „Reduzierung von Fremdparkern. Hierdurch Bereitstellung von P+R-Kapazitäten für weitere Pendler.“
 
- „Gerechtigkeit zum entgeltpflichtigen B+R-Angebot.“
+– „Gerechtigkeit zum entgeltpflichtigen B+R-Angebot.“
 
 Laut Drs. 21/516 aus dem Mai 2015 wurden diese Zielsetzungen
 

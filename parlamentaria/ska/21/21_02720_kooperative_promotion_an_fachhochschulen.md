@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 27
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51055"
@@ -68,7 +69,7 @@ Universität Hamburg (UHH):
 
 Es gibt drei kooperative Graduiertenschulen zwischen UHH und der Hochschule für Angewandte Wissenschaften Hamburg (HAW):
 
- Chemistry in Resource and Energy Management:
+– Chemistry in Resource and Energy Management:
 
 insgesamt zwölf Promovierende, davon einer aus der HAW und einer aus der TUHH
 
@@ -76,7 +77,7 @@ Laufzeit: 01.09.2009 – 31.12.2012
 
 Die Promotionen sind noch nicht abgeschlossen.
 
- Graduate School Key Technologies for Sustainable Energy Systems in Smart
+– Graduate School Key Technologies for Sustainable Energy Systems in Smart
 
 Grids:
 
@@ -86,7 +87,7 @@ Laufzeit: 01.01.2012 – 31.12.2014
 
 Die Promotionen sind noch nicht abgeschlossen.
 
- Qualitätsmerkmale Sozialer Bildungsarbeit:
+– Qualitätsmerkmale Sozialer Bildungsarbeit:
 
 insgesamt zwölf Promovierende, davon neun aus Fachhochschulen, davon sieben aus der HAW, einer aus der Fachhochschule Münster und einer aus der Fachhochschule Bielefeld
 
@@ -168,27 +169,27 @@ Siehe Anlage.
 
 HafenCity Universität (HCU):
 
- Von 2009 bis 2014 kooperierte die HCU mit der TUHH und der UHH im Rahmen
+– Von 2009 bis 2014 kooperierte die HCU mit der TUHH und der UHH im Rahmen
 
 des DFG-Graduiertenkollegs „Kunst und Technik“.
 
- Im Rahmen der Landesforschungsförderung kooperiert die HCU mit der UHH, der
+– Im Rahmen der Landesforschungsförderung kooperiert die HCU mit der UHH, der
 
 Helmut-Schmidt-Universität Hamburg und der Leuphana Universität Lüneburg in dem Graduiertenkolleg „Lose Verbindungen – Kollektivität im urbanen und digitalen Raum“ (2014 – 2017).
 
- Im Rahmen der Landesforschungsförderung kooperiert die HCU mit der HAW in
+– Im Rahmen der Landesforschungsförderung kooperiert die HCU mit der HAW in
 
 dem wissenschaftlich-künstlerischen Nachwuchskolleg „Performing Citizenship – Neue Artikulationen Urbaner Bürgerschaft in der Metropole des 21. Jahrhunderts“ (2014 – 2017).
 
- Seit 2014 Vereinbarung mit der Hochschule Luzern für Kunst und Design zu Pro-
+– Seit 2014 Vereinbarung mit der Hochschule Luzern für Kunst und Design zu Pro-
 
 motionen im thematischen Feld „Kunst im öffentlichen Raum“
 
- Bi-Nationale Promotionsverfahren (Cotutelle-Verfahren) mit IUAV Venezia (2011 –
+– Bi-Nationale Promotionsverfahren (Cotutelle-Verfahren) mit IUAV Venezia (2011 –
 
 2013).
 
- Bi-Nationale Promotionsverfahren (Cotutelle-Verfahren) mit Université Paris 8
+– Bi-Nationale Promotionsverfahren (Cotutelle-Verfahren) mit Université Paris 8
 
 (2011 – 2016).
 
@@ -204,21 +205,21 @@ Kühne Logistics University (KLU):
 
 Die KLU kooperiert mit folgenden Universitäten im In- und Ausland:
 
- Universität Hamburg (seit 2011)
+– Universität Hamburg (seit 2011)
 
- Universität Kiel (seit 2011)
+– Universität Kiel (seit 2011)
 
- Universität zu Köln (seit 2012)
+– Universität zu Köln (seit 2012)
 
- Helmut-Schmidt Universität (seit 2015)
+– Helmut-Schmidt Universität (seit 2015)
 
- Universität Lüneburg (seit 2015)
+– Universität Lüneburg (seit 2015)
 
- Rotterdam School of Management (seit 2011)
+– Rotterdam School of Management (seit 2011)
 
- Copenhagen Business School (seit 2012)
+– Copenhagen Business School (seit 2012)
 
- University of Groningen (seit 2012)
+– University of Groningen (seit 2012)
 
 Hamburg School of Business Administration (HSBA):
 
@@ -226,25 +227,25 @@ Im Jahr 2013 gründeten die HSBA und die Claussen-Simon-Stiftung das gemeinsame 
 
 Im Rahmen des CSGC kooperiert die HSBA mit folgenden Universitäten:
 
- Andrássy Universität Budapest
+– Andrássy Universität Budapest
 
- Edinburgh Napier University
+– Edinburgh Napier University
 
- Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg
+– Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg
 
- Jacobs University Bremen
+– Jacobs University Bremen
 
- Leuphana Universität Lüneburg
+– Leuphana Universität Lüneburg
 
- Technische Universität Berlin
+– Technische Universität Berlin
 
- Universität Hamburg
+– Universität Hamburg
 
- Universität Münster
+– Universität Münster
 
- University of Southern Denmark
+– University of Southern Denmark
 
- World Maritime University Malmö
+– World Maritime University Malmö
 
 Hamburger Fern-Hochschule (HFH):
 
@@ -262,19 +263,19 @@ Wie bewertet der Senat die Kooperative Promotion und welche Erfahrungswerte lieg
 
 Die kooperative Promotion wurde im Zuge der Novellierung des Hamburgischen Hochschulgesetzes (HmbHG) im Jahr 2013 erstmalig gesetzlich in Hamburg geregelt. Es liegen jedoch erste Erfahrungen aus kooperativen Graduiertenkollegs vor, die mit Landesmitteln gefördert wurden oder werden:
 
- die Landesgraduiertenschule „C1-Chemistry in Resource and Energy Manage-
+– die Landesgraduiertenschule „C1-Chemistry in Resource and Energy Manage-
 
 ment“, Universität Hamburg, TU Hamburg-Harburg, Hochschule für Angewandte Wissenschaften Hamburg, Hamburgisches WeltWirtschaftsInstitut, gefördert durch die Landesexzellenzinitiative und die Forschungs- und Wissenschaftsstiftung Hamburg von 2009 – 2013,
 
- kooperatives Graduiertenkolleg „Key Technologies for Sustainable Energy Sys-
+– kooperatives Graduiertenkolleg „Key Technologies for Sustainable Energy Sys-
 
 tems in Smart Grids”, Universität Hamburg, Hochschule für Angewandte Wissenschaften Hamburg, gefördert durch die Forschungs- und Wissenschaftsstiftung Hamburg und die BWF, 2012 – 2014,
 
- kooperatives Graduiertenkolleg „Qualitätsmerkmale Sozialer Bildungsarbeit“, Uni-
+– kooperatives Graduiertenkolleg „Qualitätsmerkmale Sozialer Bildungsarbeit“, Uni-
 
 versität Hamburg und Hochschule für Angewandte Wissenschaften Hamburg, gefördert durch die Landesforschungsförderung Hamburg, seit Anfang 2015,
 
- wissenschaftlich-künstlerisches Nachwuchskolleg „Performing Citizenship – Neue
+– wissenschaftlich-künstlerisches Nachwuchskolleg „Performing Citizenship – Neue
 
 Artikulationen Urbaner Bürgerschaft in der Metropole des 21. Jahrhunderts“, HafenCity Universität Hamburg, Hochschule für Angewandte Wissenschaften Hamburg, Fundus-Theater, K3-Zentrum für Choreographie, gefördert durch die Landesforschungsförderung Hamburg, seit Anfang 2015.
 

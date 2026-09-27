@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/2902", "20/12042", "20/12431"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63834"
@@ -73,7 +74,7 @@ Wie hoch ist die versicherte Haftungssumme aus der Managerhaftpflichtversicherun
 
 Welche Gesellschaft trägt das Risiko?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die HSH hat dazu mitgeteilt, dass aus Gründen der Vertraulichkeit der Informationen hierzu keine Stellung genommen werden könne.
 

@@ -8,12 +8,13 @@ datum_anfrage: "2026-09-10"
 datum_drucksache: "2026-09-18"
 urheber: ["Martina Koeppen"]
 fraktionen: ["SPD"]
-vorgang: null
+vorgang: 89169
 seiten: 11
 fragen: 9
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["22/9028", "21/18917", "23/4967"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105213"

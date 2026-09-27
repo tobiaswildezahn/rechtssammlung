@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65485"
@@ -53,7 +54,7 @@ An wie vielen und welchen Schulen haben Lehrerkonferenzen zum Ablauf des ersten 
 
 Wie wurde Eltern- und Schülerschaft der betroffenen Schulen über die Entscheidung der Schulkonferenz unterrichtet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 

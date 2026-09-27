@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52840"
@@ -57,7 +58,7 @@ Wem gehören die Immobilien und das Gelände, in der beziehungsweise auf dem sic
 
 Wer verwaltet die Immobilie und das Gelände, in der beziehungsweise auf dem sich das ehemalige Amtshaus als Sitz der Museumsinsel Wilhelmsburg befindet?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Das Objekt befindet sich im allgemeinen Grundvermögen der Freien und Hansestadt Hamburg und wird von der SAGA GWG verwaltet.
 

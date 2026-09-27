@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14019", "21/14109", "21/2904"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63514"
@@ -71,7 +72,7 @@ Die Architektenkammer, die Freie Akademie der Künste und andere haben sich mit 
 
 Der Antwort des Senats auf die SKA Drs. 21/14019 ist zu entnehmen, dass alle Bürgerschaftsfraktionen, der Personalrat des Bezirksamtes Hamburg-Mitte, das Bauunternehmen AUG. PRIEN und viele andere zur Beratungsmission eingeladen wurden/werden, die sich meines Wissens nach nicht schriftlich an UNESCO/ICOMOS oder das Auswärtige Amt gewandt haben. a. Weshalb misst der Senat hier mit zweierlei Maß? b. Nach welchen Kriterien hat er wen zur Beratungsmission eingeladen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Zum Informationsaustausch am Nachmittag des 30. August 2018 wurden alle Fraktionen der Bürgerschaft, das Bauunternehmen Aug. Prien, der Denkmalrat, der Denkmalverein, City-Hof e.V., IG Kontorhausviertel e.V. und der Personalrat des Bezirksamts Hamburg-Mitte eingeladen:
 

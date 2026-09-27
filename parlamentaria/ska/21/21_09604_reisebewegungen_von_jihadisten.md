@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5536", "21/6646", "21/7321", "21/8105", "21/9440", "21/1104", "21/8642"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58395"
@@ -45,7 +46,7 @@ Wie erklärt sich der Senat, dass trotz Präventions- und Interventionsprogramme
 
 Was sind die Gründe, warum Ausreisen nicht aktiv verhindert werden konnten und können?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im aktuellen Verfassungsschutzbericht wird dargelegt, dass die Zahl der Ausreisen deutlich zurückgegangen ist. So gab es im Jahr 2016 keine Ausreisen. Im Jahr 2017 reisten bisher sechs Personen aus, die inzwischen nach Deutschland zurückgebracht wurden und in Untersuchungshaft sitzen. Dies ist auch ein Ergebnis der Prävention, Information und Aufklärung durch die Hamburger Behörden. Durch Ausreiseverbote einschließlich passrechtlicher Maßnahmen sind Ausreisen verhindert worden (siehe Drs. 21/5536, 21/6646, 21/7321, 21/8105 und 21/9440). Insofern setzt der Senat konsequent nationale und internationale Vereinbarungen um (siehe Drs. 21/1104). Gleichzeitig hat die Arbeit der Beratungsstelle Legato bereits positive Auswirkungen in Hamburg: Durch die enge Betreuung von Familien werden Radikalisierungsprozesse junger Menschen in Hamburg gestoppt und Deradikalisierungen ermöglicht.
 

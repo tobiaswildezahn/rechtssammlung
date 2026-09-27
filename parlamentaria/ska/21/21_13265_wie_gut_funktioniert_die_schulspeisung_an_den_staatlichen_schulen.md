@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 41
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12120", "21/5977", "21/12802", "21/12676", "21/4866", "21/11428", "21/11561"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62607"
@@ -136,7 +137,7 @@ An welchen staatlichen Schulstandorten welcher Schulform in Hamburg wurde/wird d
 
 Wenn es an staatlichen Schulen in Hamburg im laufenden Schuljahr 2017/2018 Überschreitungen der Dreischichtenvorgabe gab/gibt, welche Gründe liegen für diese Überschreitungen bei den Schulspeisungsschichten jeweils vor und seit wann bestehen diese? (Bitte Gründe und Zeitraum tabellarisch angeben.) a. Was wurde/wird von Senat/zuständiger Fachbehörde unternommen, um diese Minderausstattungen zu beheben? (Bitte jeweilige Maßnahmen nennen und erläutern.)
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Entfällt, siehe Antwort zu 10.
 

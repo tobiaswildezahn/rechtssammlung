@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 19
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15495"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65031"
@@ -85,7 +86,7 @@ Wer betreibt die Unterkunft?
 
 Wie lange läuft der Vertrag mit dem Betreiber?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Derzeit wird die Einrichtung von f & w fördern und wohnen AöR betreut.
 

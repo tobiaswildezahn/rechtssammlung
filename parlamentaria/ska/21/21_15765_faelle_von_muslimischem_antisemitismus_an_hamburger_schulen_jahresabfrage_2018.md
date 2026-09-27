@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12561", "21/10075"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65268"
@@ -53,6 +54,6 @@ Wie viele Vorfälle von Antisemitismus an Hamburger Schulen sind der Behörde f�
 
 Wie viele dieser Fälle gingen von muslimischen Schülern beziehungsweise von Schülern mit einem Migrationshintergrund eines muslimisch geprägten Landes aus und wie viele der Fälle hatten einen anderen Hintergrund beziehungsweise eine andere politische Motivation (linker Antisemitismus, rechter Antisemitismus)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Jahr 2018 sind im Landesinstitut für Lehrerbildung und Schulentwicklung vier Beratungsanfragen zu dem Thema Antisemitismus eingegangen. Den Schulaufsichtsbeamten wurde ein Fall bekannt. Eine Unterscheidung nach Herkunft, Bekenntnis oder politischer Motivation der Beteiligten erfolgt nicht. Im Übrigen siehe Drs. 21/12561 und 21/10075.

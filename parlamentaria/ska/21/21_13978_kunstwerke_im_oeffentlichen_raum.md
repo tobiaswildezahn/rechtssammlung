@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/3706", "21/13977"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63365"
@@ -51,7 +52,7 @@ Wie viele Kunstwerke im öffentlichen Raum Hamburgs gibt es? Bitte nach Namen, B
 
 Wie wurden diese Kunstwerke finanziert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage. Sofern es sich nicht um Schenkungen oder Stiftungen handelt, wurden die Kunstwerke in der Regel aus folgenden Budgets finanziert:
 
@@ -83,7 +84,7 @@ Wurden die Kunstwerke saniert? Falls ja, bitte nach Zeitpunkt, Grund, Kosten und
 
 Sind Sanierungsmaßnahmen geplant? Bitte wie in Frage 4. aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage. Im Übrigen siehe Vorbemerkung.
 

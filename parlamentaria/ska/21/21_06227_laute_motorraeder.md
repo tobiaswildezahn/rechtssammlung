@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54754"
@@ -175,6 +176,6 @@ Ebenfalls in Baden-Württemberg ist ein Prototyp einer Motorradlärm-Displayanze
 
 Gibt es darüber hinaus technische Neuerungen, die das Überschreiten der zulässigen Lärmgrenzwerte durch Motorräder besser kontrollierbar machen? Wenn ja, welche sind dies?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Der Senat hat sich hiermit nicht befasst.

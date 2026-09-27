@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 29
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62037"
@@ -142,7 +143,7 @@ Welche nicht kommerziellen Künstlerhäuser und Kunstorte werden in Hamburg in w
 
 Wie hat sich die Höhe der Projektförderung seit 2012 entwickelt?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe dazu: http://www.hamburg.de/bkm/kunst/3424540/foerderergebnisse-bildendekunst/.
 
@@ -156,7 +157,7 @@ Mit Inkrafttreten der Verwaltungsanordnung zu Kunst im öffentlichen Raum in 198
 
 Inwiefern ist vorgesehen, die Mittel für Kunst im öffentlichen Raum um den Finanzierungsbetrag des Projektes Stadtkurator/in aufzustocken? Wenn ja, zu wann und in welcher Höhe? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Mit dem Initiativprojekt „Stadtkuratorin Hamburg“ wurde ein Prozess zur Evaluierung der Inhalte, Relevanz und Strukturen des Programms Kunst im öffentlichen Raum von 1981 in Gang gesetzt, in dessen Verlauf und Ergebnis Empfehlungen für die zukünftige Ausrichtung und Ausstattung des Programms erwartet werden.
 
@@ -182,7 +183,7 @@ Ein wichtiger Bereich der Künstler-/-innenförderung besteht auch in Preisen un
 
 Inwiefern ist derzeit eine Anhebung von Preisgeldern vor dem Hintergrund stetig steigender Lebenshaltungskosten geplant? Wenn ja, bei welchem Preis und in jeweils welcher Höhe? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Der Lichtwark-Preis wird alle vier Jahre verliehen und ist mit 10.000 Euro Preisgeld sowie einem Stipendium in Höhe von 5.000 Euro dotiert. Der Gesamtbetrag inklusive Nebenkosten bis 2018 betrug 20.000 Euro. Ab 2019 wird der Gesamtbetrag 24.000 Euro betragen.
 

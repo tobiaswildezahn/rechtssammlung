@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10333"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54062"
@@ -51,7 +52,7 @@ Wieso hat der Senat bisher entgegen seiner eigenen Ankündigung keinen Straßenz
 
 Wann ist mit einem solchen Bericht zu rechnen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Zeitpunkt der Vorlage ergibt sich aus den umfangreichen Vorbereitungen sowie Datenermittlungsbedarfen. Im Übrigen siehe Vorbemerkung.
 

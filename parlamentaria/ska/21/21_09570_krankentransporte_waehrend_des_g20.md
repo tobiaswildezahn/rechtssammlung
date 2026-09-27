@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8585", "21/9394"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58363"
@@ -43,13 +44,13 @@ In welchem Umfang werden welche Rettungsmittel während des G20- Gipfels (zahlen
 
 Während des G20-Gipfels werden aufwachsend folgende Rettungsmittel zusätzlich in Dienst genommen:
 
- bis zu 32 Rettungswagen im 24 Stunden Dienst;
+– bis zu 32 Rettungswagen im 24 Stunden Dienst;
 
- bis zu zehn weitere Rettungswagen temporär zur Abdeckung von Spitzenzeiten
+– bis zu zehn weitere Rettungswagen temporär zur Abdeckung von Spitzenzeiten
 
 und
 
- bis zu sechs notarztbesetzte Rettungsmittel.
+– bis zu sechs notarztbesetzte Rettungsmittel.
 
 Die Besetzung der Fahrzeuge erfolgt gemäß Vorgaben des Hamburgischen Rettungsdienstgesetzes (HmbRDG).
 
@@ -75,7 +76,7 @@ Inwiefern wird die Hamburger Feuerwehr vorbereitet sein, zum Beispiel auf eine V
 
 Gibt es ein Konzept zur Bewältigung von „Großlagen“? Wenn ja, bitte anhängen oder darstellen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Feuerwehr unterscheidet grundsätzlich nicht zwischen Demonstrierenden und anderen Personengruppen, alle Patienten werden ausnahmslos gleich behandelt.
 

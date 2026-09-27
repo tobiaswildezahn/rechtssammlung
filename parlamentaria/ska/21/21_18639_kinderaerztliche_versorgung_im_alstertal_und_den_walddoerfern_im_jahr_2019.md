@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68305"
@@ -49,7 +50,7 @@ Wie viele Kinderärzte gibt es aktuell im Alstertal und den Walddörfern und um 
 
 Wie stellt sich der Versorgungsgrad mit Kinderärzten im Alstertal und den Walddörfern dar?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Alstertal und den Walddörfern gibt es derzeit 18 Kinderärzte/-ärztinnen, die als Vertragsärzte/-ärztinnen zur Behandlung der GKV-Versicherten zugelassen sind. Unter Berücksichtigung mehrerer Teilzulassungen in Poppenbüttel ergeben sich 15,75 Zulassungen (Vollzeitäquivalente). Privatpraxen gehören nicht dazu; hierzu liegen der zuständigen Behörde und KV Hamburg keine aktuellen Daten vor.
 
@@ -188,7 +189,7 @@ Trifft es zu, dass in jüngerer Vergangenheit Aufnahmestopps bei einer Kinderarz
 
 Wie stellt sich die durchschnittliche Wartezeit für einen Termin bei den Kinderärzten im Alstertal und den Walddörfern dar?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Hierzu liegen der zuständigen Behörde und der KV Hamburg keine Informationen vor.
 

@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 23
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68432"
@@ -264,7 +265,7 @@ a) von der Stadt Hamburg,
 b) vom Bund und
 c) von der Europäischen Union auf jeweils welcher Grundlage erhalten? Bitte Daten für die Jahren 2010 bis 2019 getrennt aufführen.
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Im Rahmen des Aufbaus der öffentlich zugänglichen Ladeinfrastruktur agiert die SNH als Dienstleisterin für die Freie und Hansestadt Hamburg (FHH).
 

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53890"
@@ -95,15 +96,15 @@ Welche Umstände müssen vorliegen, damit wieder mehr Genehmigungen erteilt werd
 
 In allen Bezirken wurden in den Jahren 2011 bis 2016 insgesamt sieben Anträge aus folgenden Gründen abgelehnt:
 
- Vorrang von Sicherheit und Leichtigkeit des Verkehrs
+– Vorrang von Sicherheit und Leichtigkeit des Verkehrs
 
- Berücksichtigung des Gemeingebrauchs
+– Berücksichtigung des Gemeingebrauchs
 
- mögliche Gefährdung des stationären Handels beziehungsweise der stationären
+– mögliche Gefährdung des stationären Handels beziehungsweise der stationären
 
 Gastronomie
 
- störende Häufung im Einzelfall
+– störende Häufung im Einzelfall
 
 Abwanderungen von Straßeneisverkäuferinnen und Straßeneisverkäufern in andere Städte sind der zuständigen Behörde nicht bekannt. Für erneute Genehmigungen müssten der zuständigen Behörde weitere genehmigungsfähige Anträge vorliegen, denen keine der vorgenannten Ablehnungsgründe entgegenstehen.
 

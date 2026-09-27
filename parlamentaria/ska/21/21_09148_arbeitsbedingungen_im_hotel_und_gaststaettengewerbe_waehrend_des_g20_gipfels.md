@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 15
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57906"
@@ -38,18 +39,33 @@ Vor diesem Hintergrund fragen wir den Senat:
 ### Frage 1
 
 Welche Sicherheitsüberprüfungen haben die Beschäftigten des Hotelgewerbes zu erwarten?
-1.1. Welche Anforderungen werden bei einer eventuellen Sicherheitsüberprüfung von Beschäftigten an diese gestellt?
-1.2. Erhalten überprüfte Beschäftigte und deren Arbeitgeber eine Mitteilung über mögliche negative Merkmale, die bei einer Überprüfung festgestellt worden sind?
-1.3. Welche Möglichkeiten haben Beschäftigte einer möglichen Fehleinschätzung durch die Sicherheitsbehörden zu widersprechen?
-1.4. Inwieweit ist die Streichung von Mitarbeitern/-innen aus Dienstplänen durch betriebsfremde Behörden mit dem Mitbestimmungsrecht des Betriebsrats gemäß BetrVG §87(1) 2. vereinbar?
-1.5. Werden im Rahmen der Sicherheitsüberprüfung Daten von Beschäftigten an ausländische Behörden, Geheimdienste et cetera übermittelt?
+
+### Frage 1.1
+
+Welche Anforderungen werden bei einer eventuellen Sicherheitsüberprüfung von Beschäftigten an diese gestellt?
+
+### Frage 1.2
+
+Erhalten überprüfte Beschäftigte und deren Arbeitgeber eine Mitteilung über mögliche negative Merkmale, die bei einer Überprüfung festgestellt worden sind?
+
+### Frage 1.3
+
+Welche Möglichkeiten haben Beschäftigte einer möglichen Fehleinschätzung durch die Sicherheitsbehörden zu widersprechen?
+
+### Frage 1.4
+
+Inwieweit ist die Streichung von Mitarbeitern/-innen aus Dienstplänen durch betriebsfremde Behörden mit dem Mitbestimmungsrecht des Betriebsrats gemäß BetrVG §87(1) 2. vereinbar?
+
+### Frage 1.5
+
+Werden im Rahmen der Sicherheitsüberprüfung Daten von Beschäftigten an ausländische Behörden, Geheimdienste et cetera übermittelt?
 – falls ja: Welche Daten werden übermittelt und wie ist diese Übermittlung mit deutschen Datenschutzvorschriften vereinbar?
 
 ### Frage 2
 
 Wird das gewerkschaftliche Zutrittsrecht zum Betrieb auch während des G20-Gipfels in Hamburg gewährleistet sein oder durch Sicherheitskräfte beschnitten werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1, 1.1, 1.2, 1.3, 1.4, 1.5 und 2
 
 Die Zuständigkeit für die Planung und Durchführung polizeilicher Maßnahmen innerhalb der Hotels, die von Delegierten und anderen im Zusammenhang mit dem G20-
 

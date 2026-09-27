@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/3544", "20/10686"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48753"
@@ -43,7 +44,7 @@ Auf welche Höhe beliefen sich die von der Freien und Hansestadt Hamburg getrage
 
 Auf welche Höhe beliefen sich bei diesen beiden Fanfesten jeweils die Einnahmen für die Stadt und woraus setzt sich der Gesamtbetrag zusammen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es entstanden weder Kosten noch Einnahmen für die Freie und Hansestadt Hamburg (FHH).
 
@@ -71,7 +72,7 @@ In welcher Höhe förderten Hamburgs öffentliche Unternehmen, wie die Hamburg M
 
 Erfolgte ein Gebührenverzicht gemäß § 21 Gebührengesetz und eine Unterstützung durch die entgeltfreie Bereitstellung von Plakatflächen aus den städtischen Werberechtsverträgen für die beiden Events?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Es gab Gebührenverzichte für das Fan-Fest 2012 und für das Fan-Fest 2014. Außerdem erfolgte für das Public Viewing 2012 eine kostenfreie Bereitstellung von städtischen Parkflächen. Darüber hinaus erfolgte keine Förderung.
 

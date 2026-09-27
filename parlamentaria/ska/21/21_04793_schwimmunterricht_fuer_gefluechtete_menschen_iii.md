@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3714", "20/8276", "21/3944", "21/4275"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53224"
@@ -148,6 +149,6 @@ Inwiefern stimmt der Senat der Einschätzung zu, dass es für jugendliche Geflü
 
 Erhalten Schüler/-innen, die neu nach Hamburg ziehen, in die Sekundarstufe II oder die Berufsschule eingeschult werden und das Schwimmabzeichen Bronze nicht vorweisen können, einen Gutschein zum Schwimmenlernen? Wenn nein, warum nicht? Wie ist das mit dem vom Senat ausgerufenen Ziel, dass alle Hamburger/-innen schwimmen können, zu vereinbaren?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Schülerinnen und Schülern, die neu nach Hamburg ziehen und in die Sekundarstufe II oder die Berufsschule eingeschult werden, stehen verschiedene Schwimmkursangebote offen (siehe Antworten zu 1. und 2.). Einen Gutschein zum Schwimmenlernen erhalten sie entsprechend dem Schulschwimmkonzept (siehe Drs. 20/8276) nicht. Die Beratungen über eine Ausweitung der Gutscheinvergabe sind noch nicht abgeschlossen.

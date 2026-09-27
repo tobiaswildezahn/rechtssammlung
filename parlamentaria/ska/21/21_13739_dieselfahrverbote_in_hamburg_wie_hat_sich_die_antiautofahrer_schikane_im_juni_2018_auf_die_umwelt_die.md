@@ -14,6 +14,7 @@ fragen: 32
 einzelfragen: 33
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12761"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63118"
@@ -156,7 +157,7 @@ b) die betroffenen Straßenabschnitte der Ausweichroute für die Max-Brauer-Alle
 c) den betroffenen Streckenabschnitt der Stresemannstraße oder den nächstgelegenen Messpunkt an der Stresemannstraße,
 d) die betroffenen Straßenabschnitte der Ausweichrouten für die Max-Brauer-Allee gemessen?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 In den genannten Straßenbereichen befinden sich keine Dauerzählstellen, daher können dort keine Durchschnittswerte ermittelt werden.
 
@@ -169,47 +170,47 @@ a) den betroffenen Streckenabschnitt der Max-Brauer-Allee oder den nächstgelege
 
 An den betroffenen Straßenabschnitten wurden nachfolgende Durchschnittswerte DTVw 2017 und Schwerverkehr(SV)-Anteile ermittelt:
 
- Max-Brauer-Allee, südwestlich Holstenstraße: DTVw = circa 27.000 Kfz/24 Stun-
+– Max-Brauer-Allee, südwestlich Holstenstraße: DTVw = circa 27.000 Kfz/24 Stun-
 
 den, SV-Anteil circa 6 Prozent
 
 b) die betroffenen Straßenabschnitte der Ausweichroute für die Max-Brauer-Allee,
 
- Holstenstraße, südlich Max-Brauer-Allee: DTVw = circa 26.000 Kfz/24Stunden,
+– Holstenstraße, südlich Max-Brauer-Allee: DTVw = circa 26.000 Kfz/24Stunden,
 
 SV-Anteil circa 4 Prozent
 
- Königstraße, östlich Blücherstraße: DTVw = circa 21.000 Kfz/24 Stunden, SV-
+– Königstraße, östlich Blücherstraße: DTVw = circa 21.000 Kfz/24 Stunden, SV-
 
 Anteil circa 5 Prozent
 
- Königstraße, westlich Blücherstraße: DTVw = circa 14.000 Kfz/24 Stunden, SV-
+– Königstraße, westlich Blücherstraße: DTVw = circa 14.000 Kfz/24 Stunden, SV-
 
 Anteil circa 3 Prozent
 
- Königstraße, östlich Max-Brauer-Allee: DTVw = circa 14.000 Kfz/24 Stunden, SV-
+– Königstraße, östlich Max-Brauer-Allee: DTVw = circa 14.000 Kfz/24 Stunden, SV-
 
 Anteil circa 3 Prozent
 
- Max-Brauer-Allee, nördlich Königstraße: DTVw = circa 15.000 Kfz/24 Stunden, SV-
+– Max-Brauer-Allee, nördlich Königstraße: DTVw = circa 15.000 Kfz/24 Stunden, SV-
 
 Anteil circa 6 Prozent
 
- Max-Brauer-Allee, südlich Ehrenbergstraße: DTVw = circa 15.000 Kfz/24 Stunden,
+– Max-Brauer-Allee, südlich Ehrenbergstraße: DTVw = circa 15.000 Kfz/24 Stunden,
 
 SV-Anteil circa 6 Prozent
 
- Max-Brauer-Allee, nördlich Ehrenbergstraße: DTVw = circa 23.000 Kfz/24 Stun-
+– Max-Brauer-Allee, nördlich Ehrenbergstraße: DTVw = circa 23.000 Kfz/24 Stun-
 
 den, SV-Anteil circa 5 Prozent
 
- Max-Brauer-Allee, nördlich Paul-Nevermann-Platz (Süd): DTVw = circa 24.000
+– Max-Brauer-Allee, nördlich Paul-Nevermann-Platz (Süd): DTVw = circa 24.000
 
 Kfz/24 Stunden, SV-Anteil circa 7 Prozent
 
 c) den betroffenen Streckenabschnitt der Stresemannstraße oder den nächstgelegenen Messpunkt an der Stresemannstraße,
 
- Stresemannstraße, nordwestlich Neuer Pferdemarkt: DTVw = circa 30.000 Kfz/24
+– Stresemannstraße, nordwestlich Neuer Pferdemarkt: DTVw = circa 30.000 Kfz/24
 
 Stunden, SV-Anteil circa 9 Prozent
 
@@ -219,47 +220,47 @@ gemessen?
 
 Der Senat geht bei der Beantwortung davon aus, dass die betroffenen Straßenabschnitte der Ausweichrouten für die Stresemannstraße erfragt werden sollen:
 
- Holstenkamp, westlich Große Bahnstraße: DTV = circa 34.000 Kfz/24 Stunden,
+– Holstenkamp, westlich Große Bahnstraße: DTV = circa 34.000 Kfz/24 Stunden,
 
 SV-Anteil circa 6 Prozent
 
- Holstenkamp, östlich Große Bahnstraße: DTV = circa 26.000 Kfz/24 Stunden, SV-
+– Holstenkamp, östlich Große Bahnstraße: DTV = circa 26.000 Kfz/24 Stunden, SV-
 
 Anteil circa 8 Prozent
 
- Fruchtallee, nordwestlich Emilienstraße: DTV = circa 53.000 Kfz/24 Stunden, SV-
+– Fruchtallee, nordwestlich Emilienstraße: DTV = circa 53.000 Kfz/24 Stunden, SV-
 
 Anteil circa 5 Prozent
 
- Doormannsweg, südwestlich Fruchtallee: DTV = circa 38.000 Kfz/24 Stunden,
+– Doormannsweg, südwestlich Fruchtallee: DTV = circa 38.000 Kfz/24 Stunden,
 
 SV-Anteil circa 4 Prozent
 
- Schäferkampsallee, nordwestlich Beim Schlump: DTV = circa 41.000 Kfz/24
+– Schäferkampsallee, nordwestlich Beim Schlump: DTV = circa 41.000 Kfz/24
 
 Stunden, SV-Anteil circa 6 Prozent
 
- Schröderstiftstraße, südöstlich Beim Schlump: DTV = circa 40.000 Kfz/24 Stun-
+– Schröderstiftstraße, südöstlich Beim Schlump: DTV = circa 40.000 Kfz/24 Stun-
 
 den, SV-Anteil circa 5 Prozent
 
- Schröderstiftstraße, nordwestlich Rentzelstraße: DTV = circa 36.000 Kfz/24 Stun-
+– Schröderstiftstraße, nordwestlich Rentzelstraße: DTV = circa 36.000 Kfz/24 Stun-
 
 den, SV-Anteil circa 5 Prozent
 
- Rentzelstraße, südlich Schröderstiftstraße: DTV = circa 26.000 Kfz/24 Stunden,
+– Rentzelstraße, südlich Schröderstiftstraße: DTV = circa 26.000 Kfz/24 Stunden,
 
 SV-Anteil circa 3 Prozent
 
- Messeplatz, nördlich St. Petersburger Straße: DTV = circa 28.000 Kfz/24Std., SV-
+– Messeplatz, nördlich St. Petersburger Straße: DTV = circa 28.000 Kfz/24Std., SV-
 
 Anteil circa 3 Prozent
 
- Lombardsbrücke, westlich Ballindamm: DTV = circa 59.000 Kfz/24 Stunden, SV-
+– Lombardsbrücke, westlich Ballindamm: DTV = circa 59.000 Kfz/24 Stunden, SV-
 
 Anteil circa 4 Prozent
 
- Amsinckstraße, westlich Spaldingstraße: DTV = circa 71.000 Kfz/24 Stunden, SV-
+– Amsinckstraße, westlich Spaldingstraße: DTV = circa 71.000 Kfz/24 Stunden, SV-
 
 Anteil circa 6 Prozent
 

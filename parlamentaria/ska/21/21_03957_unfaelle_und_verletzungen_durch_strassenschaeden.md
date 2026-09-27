@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52337"
@@ -47,7 +48,7 @@ Wie oft kam es in den Jahren 2011 – 2015 zu Unfällen von Autofahrern, die zum
 
 Wie viele Menschen wurden bei diesen Unfällen verletzt? Bitte ebenfalls nach Jahren aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Auf Beschluss des Statistischen Bundesamtes (DESTATIS) waren die Länder gehalten, ab dem 1. Januar 2016 eine „Schädigung der Fahrbahnoberfläche“ als neues Statistikmerkmal bei der Aufnahme von Verkehrsunfällen zu erfassen. Die Polizei hat ihre Verkehrsunfalldatenbank EUSka (Elektronische Unfalltypensteckkarte) bereits unterjährig am 9. Juli 2015 entsprechend umgestellt. Insofern stehen Unfalldaten im Sinne der Fragestellungen seit diesem Tag zur Verfügung, nicht aber für den Zeitraum von 2011 bis zum 8. Juli 2015. Die nachfolgenden Angaben beruhen auf einer EUSka- Auswertung vom 7. April 2016. Bei einem Verkehrsunfall können mehrere Verkehrsarten oder Personen beteiligt sein.
 
@@ -107,7 +108,7 @@ Wie oft kam es in den Jahren 2011 – 2015 zu Unfällen von Motorradfahrern, die
 
 Wie viele Menschen wurden bei diesen Unfällen verletzt? Bitte ebenfalls nach Jahren aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 In 2015 wurde ab dem 9. Juli 2015 kein derartiger Verkehrsunfall in EUSka registriert. Im Übrigen siehe Antwort zu 1. und 2.
 
@@ -142,7 +143,7 @@ Wie oft kam es in den Jahren 2011 – 2015 zu Unfällen von Radfahrern, die zumi
 
 Wie viele Menschen wurden bei diesen Unfällen verletzt? Bitte ebenfalls nach Jahren aufschlüsseln.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 In 2015 wurden ab dem 9. Juli 2015 drei Verkehrsunfälle mit Radfahrern in EUSka registriert, bei denen ein Schaden der Fahrbahnoberfläche erfasst wurde. Bei diesen Verkehrsunfällen wurden eine Person schwer und drei Personen leicht verletzt. Im Übrigen siehe Antwort zu 1 und 2.
 

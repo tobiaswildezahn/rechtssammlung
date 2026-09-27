@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 43
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11704", "21/13056"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62417"
@@ -92,7 +93,7 @@ Vor diesem Hintergrund: Wie viele stationäre Jugendhilfeeinrichtungen in Hambur
 
 Wie viele dieser Einrichtungen sind Einrichtungen des LEB?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 In folgenden 16 Einrichtungen des Landesbetriebes Erziehung und Beratung (LEB) wird ein Sicherheitsdienst eingesetzt:
 

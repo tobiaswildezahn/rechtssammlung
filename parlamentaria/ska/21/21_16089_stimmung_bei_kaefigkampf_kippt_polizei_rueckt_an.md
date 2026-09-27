@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 19
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65595"
@@ -111,7 +112,7 @@ Wie haben die Zuschauer auf die Ankunft der Polizei reagiert?
 
 Ist der Polizei Aggression entgegengeschlagen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Antwort zu 6.
 
@@ -155,7 +156,7 @@ Wann sind die Einsatzkräfte wieder abgerückt?
 
 Wie lange hat der Polizeieinsatz insgesamt gedauert?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Die ersten Polizeikräfte waren am 2. Februar 2019 ab 19.00 Uhr vor Ort, die letzten Polizeikräfte wurden am 3. Februar 2019 um 00.52 Uhr aus dem Einsatz entlassen.
 

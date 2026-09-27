@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 20
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17626", "21/8229"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67381"
@@ -61,7 +62,7 @@ In der Drs. 21/17626 heißt es: „Seit dem 20. August 2018 wird die Justizvollz
 
 In der Drs. 21/8229 heißt es: „Die Menüschalen bestehen aus Aluminium und werden über einen seit 1. März 2015 bestehenden Rahmenvertrag abgerufen. Der Rahmenvertrag läuft noch bis zum 28. Februar 2018. Bei einer Neuausschreibung werden die Vorgaben des Umweltleitfadens berücksichtigt. Da die Ausschreibung für den laufenden Rahmenvertrag vor dem Umweltleitfaden in Kraft abgeschlossen wurde, findet der Leitfaden derzeit nicht Berücksichtigung.“ a. Aus welchem Grund hat der Senat beziehungsweise die zuständige Behörde davon abgesehen, bei der Neuausschreibung die Vorgaben des Umweltleidfadens zu berücksichtigen? b. Inwiefern wurde eine Ausweitung der Verwendung von Zwei- Kammer-Klappdeckelbehältern aus Zuckerrohrfasern in Hamburgs JVA geprüft? Weshalb wurde davon abgesehen? c. Hat die zuständige Behörde Kenntnis darüber, wie in JVA anderer Bundesländer verfahren wird? Falls ja, welche Informationen liegen ihr vor? Falls nein, weshalb hat sie sich bei diesem wichtigen Thema nicht ausgetauscht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Menüschalen des externen Unternehmens bestehen aus Polypropylen (PP), die mit einer Folie auf Polyethylenbasis (PE) verschlossen werden.
 

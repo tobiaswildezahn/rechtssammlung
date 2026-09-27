@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2482"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51148"
@@ -43,7 +44,7 @@ Welches Ergebnis hat die Prüfung erbracht: Wird das StadtRAD-Netz nach Bergedor
 
 Wie viele Standorte sind im Bezirk Bergedorf vorgesehen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ja. Im Bezirk Bergedorf sind zurzeit sechs Standorte vorgesehen.
 
@@ -55,17 +56,17 @@ Welche der vorgeschlagenen Standorte wurden ausgewählt?
 
 Es wurden folgende Standorte ausgewählt:
 
- Bahnhof Bergedorf Nordwestseite,
+– Bahnhof Bergedorf Nordwestseite,
 
- S-Bahn-Haltestelle Nettelnburg,
+– S-Bahn-Haltestelle Nettelnburg,
 
- S-Bahn-Haltestelle Allermöhe,
+– S-Bahn-Haltestelle Allermöhe,
 
- Lohbrügger Markt,
+– Lohbrügger Markt,
 
- Wentorfer Straße/Bezirksamt sowie
+– Wentorfer Straße/Bezirksamt sowie
 
- ein Standort in der Bergedorfer Innenstadt, über dessen genaue Lage noch nicht
+– ein Standort in der Bergedorfer Innenstadt, über dessen genaue Lage noch nicht
 
 entschieden wurde.
 
@@ -77,15 +78,15 @@ Wurden weitere Standorte durch die zuständige Fachbehörde geprüft und in Erw�
 
 Ja, hierbei handelt es sich um folgende Standorte:
 
- Ladenbeker Furtweg/Berufsschulzentrum,
+– Ladenbeker Furtweg/Berufsschulzentrum,
 
- Glindersweg/Bethesda-Krankenhaus,
+– Glindersweg/Bethesda-Krankenhaus,
 
- Kurt-A.-Körber-Chaussee,
+– Kurt-A.-Körber-Chaussee,
 
- Ulmenliet/Hochschule für angewandte Wissenschaften und
+– Ulmenliet/Hochschule für angewandte Wissenschaften und
 
- Mohnhof.
+– Mohnhof.
 
 Diese Standorte wurden gegenüber den sechs ausgewählten Standorten als weniger prioritär eingestuft. Darüber hinaus stehen teilweise keine geeigneten Flächen im öffentlichen Raum zur Verfügung beziehungsweise ist der Aufwand für die Herrichtung von Flächen besonders hoch (zum Beispiel Rodung von Gehölzen).
 

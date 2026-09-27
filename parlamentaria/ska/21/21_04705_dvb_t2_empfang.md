@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53117"
@@ -98,7 +99,7 @@ Wie viele der derzeit auf DVB-T angewiesenen Haushalte werden sich die für DVB-
 
 Wie viele der derzeit die Privatprogramme über DVB-T beziehenden Haushalte werden sich die Umstellung auf ein Bezahlangebot nicht leisten können?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Hierzu liegen der zuständigen Behörde keine Daten vor.
 

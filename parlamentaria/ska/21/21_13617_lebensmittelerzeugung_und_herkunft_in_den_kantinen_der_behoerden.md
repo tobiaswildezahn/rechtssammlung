@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11678"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62984"
@@ -413,36 +414,36 @@ Die Überlassungs- und Pachtverträge werden nach Maßgabe der Kantinenrichtlini
 
 Eine tabellarische Antwort für die aktuellen Kantinen-Standorte ist im Sinne einer unkomplizierten Beantwortung und der Übersichtlichkeit willkommen.
 
- Verwaltungszentrum Hamburger Straße
+– Verwaltungszentrum Hamburger Straße
 
- Behörde für Stadtentwicklung und Wohnen
+– Behörde für Stadtentwicklung und Wohnen
 
- Behörde für Gesundheit und Verbraucherschutz (BGV)
+– Behörde für Gesundheit und Verbraucherschutz (BGV)
 
- Behörde für Inneres und Sport, Feuerwehr (F05)
+– Behörde für Inneres und Sport, Feuerwehr (F05)
 
- Behörde für Inneres und Sport, Kantine im Polizeipräsidium
+– Behörde für Inneres und Sport, Kantine im Polizeipräsidium
 
- Behörde für Inneres und Sport, Essensausgabe im Polizeiausbildungszen-
+– Behörde für Inneres und Sport, Essensausgabe im Polizeiausbildungszen-
 
 trum
 
- Justizbehörde, Ziviljustizgebäude
+– Justizbehörde, Ziviljustizgebäude
 
- Justizbehörde, Strafjustizgebäude
+– Justizbehörde, Strafjustizgebäude
 
- Justizbehörde, Arbeitsgericht und Landesarbeitsgericht
+– Justizbehörde, Arbeitsgericht und Landesarbeitsgericht
 
- Bezirksamt Altona, Altonaer Rathaus
+– Bezirksamt Altona, Altonaer Rathaus
 
- Bezirksamt Wandsbek
+– Bezirksamt Wandsbek
 
- Bezirksamt Eimsbüttel
+– Bezirksamt Eimsbüttel
 
- Bezirksamt Hamburg-Mitte
+– Bezirksamt Hamburg-Mitte
 
- Bezirksamt Hamburg Nord
+– Bezirksamt Hamburg Nord
 
- Justizbehörde
+– Justizbehörde
 
- Zentrum für Personaldienste
+– Zentrum für Personaldienste

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66662"
@@ -55,7 +56,7 @@ Wie viele Einrichtungen der Offenen Kinder- und Jugendarbeit, Jugendsozialarbeit
 
 Wie viele davon haben einen Internetzugang? Und wie viele wiederum davon haben WLAN?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In Hamburg-Mitte gibt es 69 Einrichtungen und Angebote, soweit bekannt haben alle einen Internetzugang und WLAN. In Altona gibt es 47 Einrichtungen und Angebote, davon ist bei zwölf bekannt, dass sie einen Internetzugang aufweisen und vier über WLAN verfügen. In Eimsbüttel existieren 39 Einrichtungen und Angebote, soweit bekannt haben alle einen Internetzugang und circa 40 bis 50 Prozent verfügen über WLAN. In Hamburg-Nord gibt es 49 Einrichtungen und Angebote, soweit bekannt haben alle einen Internetzugang. In Wandsbek existieren 92 Einrichtungen und Angebote, davon haben alle 14 in bezirklicher Trägerschaft einen Internetzugang, aber kein WLAN. In Bergedorf werden 36 Einrichtungen und Angebote betrieben, davon haben alle in bezirklicher Trägerschaft einen Internetzugang, aber kein WLAN. In Harburg gibt es 42 Einrichtungen und Angebote, soweit bekannt haben 20 einen Internetzugang, aber kein WLAN. Darüber hinaus werden in Hamburg an unterschiedlichen Standorten 66 Einrichtungen und Angebote der überregional tätiger Einrichtungen und Angebote vorgehalten, davon 42 mit Internetzugang und 32 mit WLAN.
 

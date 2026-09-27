@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 19
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11931", "21/4717"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63631"
@@ -79,7 +80,7 @@ Wie viele Hundeauslaufflächen nach § 8 Absatz 3 HundeG gibt es aktuell in Hamb
 
 Wie viel Quadratmeter umfasst aktuell jeweils die Summe aller Hundeauslaufflächen nach § 8 Absatz 3 HundeG in den Bezirken? Bitte für jeden Bezirk einzeln ausweisen.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/11931.
 

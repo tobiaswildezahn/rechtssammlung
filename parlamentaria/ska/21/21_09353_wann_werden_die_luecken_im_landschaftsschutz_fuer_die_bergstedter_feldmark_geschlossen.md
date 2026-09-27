@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2426"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58102"
@@ -55,27 +56,27 @@ Welche einzelnen Verfahrensschritte sind für die Ausweisung des Landschaftsschu
 
 Für die Ausweisung eines Landschaftsschutzgebietes sind folgende Verfahrensschritte vorgesehen:
 
- Erarbeitung des Verordnungsentwurfs mit Karte des Geltungsbereichs, Verord-
+– Erarbeitung des Verordnungsentwurfs mit Karte des Geltungsbereichs, Verord-
 
 nung und Senatsdrucksache mit Begründung,
 
- Abstimmung des Entwurfs innerhalb der Behörde für Umwelt und Energie,
+– Abstimmung des Entwurfs innerhalb der Behörde für Umwelt und Energie,
 
- externe Abstimmung mit den Fachbehörden, dem betroffenen Bezirksamt und der
+– externe Abstimmung mit den Fachbehörden, dem betroffenen Bezirksamt und der
 
 Senatskanzlei,
 
- Befassung der Deputation,
+– Befassung der Deputation,
 
- öffentliche Auslegung, Beteiligung der Kammern und der Naturschutzvereinigun-
+– öffentliche Auslegung, Beteiligung der Kammern und der Naturschutzvereinigun-
 
 gen,
 
- zweite Abstimmungsrunde mit den Fachbehörden, dem betroffenen Bezirksamt
+– zweite Abstimmungsrunde mit den Fachbehörden, dem betroffenen Bezirksamt
 
 und der Senatskanzlei, sofern sich erhebliche Änderungen des Verordnungsentwurfs ergeben haben und
 
- abschließende Befassung der Deputation und des Senats, Veröffentlichung im
+– abschließende Befassung der Deputation und des Senats, Veröffentlichung im
 
 Hamburgischen Gesetz- und Verordnungsblatt.
 

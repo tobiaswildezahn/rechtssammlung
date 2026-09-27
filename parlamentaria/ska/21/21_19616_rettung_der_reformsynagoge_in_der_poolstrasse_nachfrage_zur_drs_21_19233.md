@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 4
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19233"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69343"
@@ -46,6 +47,6 @@ Haben die Eigentümer fristgerecht zur Sache Stellung genommen? Wenn ja, wie lau
 
 Welche weiteren Schritte unternimmt der Senat zum Erhalt der denkmalgeschützten Ruine des Neuen Israelitischen Tempels?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Eigentümer haben Stellung genommen und sich bereit erklärt, Sicherungsarbeiten in Zusammenarbeit mit dem Denkmalschutzamt umgehend vorzunehmen. Die förmliche Sicherungsverfügung wird dennoch vorsorglich erlassen werden.

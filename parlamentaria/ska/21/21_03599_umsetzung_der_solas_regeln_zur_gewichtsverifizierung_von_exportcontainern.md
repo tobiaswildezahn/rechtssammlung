@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51955"
@@ -99,10 +100,10 @@ Die drei angesprochenen Möglichkeiten beziehen sich auf drei verschiedene Nachr
 
 Im Einzelnen handelt es sich um:
 
- Übermittlung des Gewichtes im Rahmen der elektronischen Buchung
+– Übermittlung des Gewichtes im Rahmen der elektronischen Buchung
 
- Übermittlung des Gewichtes im Rahmen der elektronischen Shipping Instruction
+– Übermittlung des Gewichtes im Rahmen der elektronischen Shipping Instruction
 
- Nutzung der neuen elektronischen Nachricht VERMAS
+– Nutzung der neuen elektronischen Nachricht VERMAS
 
 Darüber hinaus beabsichtigt die DAKOSY Datenkommunikationssystem AG, eine Web-Anwendung anzubieten, in der Shipper, welche nicht in der Lage sind die drei Möglichkeiten zu nutzen, das Gewicht erfassen können. Die DAKOSY Datenkommunikationssystem AG übermittelt dieses über die oben genannten Nachrichten an den Carrier. Mit dem eigentlichen Prozess des Wiegens beziehungsweise des Aufaddierens von Einzelsendungen, die einer Übermittlung vorgelagert sind, beschäftigt sich die DAKOSY Datenkommunikationssystem AG nicht.

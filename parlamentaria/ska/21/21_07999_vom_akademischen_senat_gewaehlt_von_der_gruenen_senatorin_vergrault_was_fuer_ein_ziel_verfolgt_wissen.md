@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56658"
@@ -51,7 +52,7 @@ Welche Rahmenbedingungen waren Gegenstand der Verhandlungen zwischen Professor J
 
 An welchen Rahmenbedingungen ist die Berufung gescheitert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

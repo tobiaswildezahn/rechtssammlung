@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 18
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67428"
@@ -45,7 +46,7 @@ Wie viele Menschen haben seit dem 01.01.2019 in Hamburger Standesämtern wegen e
 
 Wie vielen Menschen wurde von den Standesämtern erklärt, dass eine Personenstandsänderung nach § 45 b PstG nicht möglich sei oder keine Aussicht auf Erfolg habe, ohne dass ein rechtsmittelwirksamer Bescheid ausgehändigt wurde? (Bitte auflisten nach Standesamt und Staatsangehörigkeit.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Statistisch auswertbare Daten werden von den hamburgischen Standesämtern nicht erhoben.
 
@@ -128,7 +129,7 @@ Wie viele nicht deutsche Staatsangehörige, die eine Personenstandsänderung nac
 
 Wie viele nicht deutsche Staatsangehörige, die eine Personenstandsänderung nach § 45 b PstG vollzogen haben, haben einen Antrag auf einen „Reisepass für Ausländer“ gestellt und wie vielen Anträgen wurde stattgegeben?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antwort zu 3.
 

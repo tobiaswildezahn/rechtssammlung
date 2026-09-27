@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1067"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50923"
@@ -53,9 +54,9 @@ Mit Schreiben vom 21. August 2014 wurden von der BImA die verfügbaren Bundeslie
 
 Für die folgenden Bundesliegenschaften sind inzwischen Einrichtungen der öffentlichen Unterbringung geplant:
 
- Notkestraße 25
+– Notkestraße 25
 
- Luruper Hauptstraße „Parkplatz Grün“
+– Luruper Hauptstraße „Parkplatz Grün“
 
 Im Übrigen siehe Drs. 21/1067.
 

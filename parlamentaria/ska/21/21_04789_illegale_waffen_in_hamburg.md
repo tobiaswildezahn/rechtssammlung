@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53220"
@@ -45,7 +46,7 @@ Hat die Behörde für Inneres und Sport eine eigene Schätzung betreffend der An
 
 Wie haben sich diese Zahlen in den vergangenen zehn Jahren entwickelt? Bitte ebenfalls nach den Kategorien gemäß Ziffer 1. aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Schätzungen zu der Anzahl illegaler Waffen in Hamburg liegen der zuständigen Behörde nicht vor. Die Anzahl der legalen Waffen wird seit 2013 im Nationalen Waffenregister statistisch erfasst. Die bis 2013 in Hamburg genutzte Waffennachweisdatei (WANDA) ermöglichte keine Auswertung im Sinne der Fragestellungen. Entsprechende Daten zu der Anzahl legaler Waffen liegen daher erst seit 2013 vor. Die nachfolgend dargestellten Daten unterliegen jedoch derzeit noch größeren Abweichungen, da nach Übermittlung der Daten aus WANDA in das Nationale Waffenregister umfangreiche Datensätze bereinigt werden mussten und die Bereinigung noch andauert. Die Abweichung zwischen der Gesamtzahl von Kurzwaffen im Jahr 2013 und der Gesamtzahl von Kurzwaffen im Jahr 2014 resultiert aus der Bereinigung der Datensätze.
 

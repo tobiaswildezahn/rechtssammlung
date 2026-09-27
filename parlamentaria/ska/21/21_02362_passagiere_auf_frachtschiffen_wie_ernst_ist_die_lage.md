@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50651"
@@ -121,33 +122,33 @@ Wie und durch welche konkreten Maßnahmen hat der Senat beziehungsweise plant de
 
 Die Wasserschutzpolizei hat nach Bekanntwerden der Vorfälle folgende Maßnahmen zur Verhinderung weiterer unerlaubter Ausreisen umgesetzt:
 
- Schriftliche Information aller Beauftragten zur Gefahrenabwehr für die dem Interna-
+– Schriftliche Information aller Beauftragten zur Gefahrenabwehr für die dem Interna-
 
 tionalen Code für die Gefahrenabwehr auf Schiffen und in Hafenanlagen (ISPS- Code) unterliegenden Anlagen im Hamburger Hafen,
 
- Sensibilisierung aller Beauftragten für die Gefahrenabwehr durch die nach dem
+– Sensibilisierung aller Beauftragten für die Gefahrenabwehr durch die nach dem
 
 ISPS-Code eingesetzte und bei der Wasserschutzpolizei eingegliederte Designated Authority (WSP 61) im Rahmen turnusmäßiger gemeinsamer Besprechungen,
 
- Information der Hafenwirtschaft und Hafenverwaltung im Rahmen der Hafensi-
+– Information der Hafenwirtschaft und Hafenverwaltung im Rahmen der Hafensi-
 
 cherheitskonferenz,
 
- Schwachstellenanalyse der betroffenen Hafenanlagen durch WSP 61,
+– Schwachstellenanalyse der betroffenen Hafenanlagen durch WSP 61,
 
- Informationsaustausch auf der Ebene aller Designated Authorities der Küstenlän-
+– Informationsaustausch auf der Ebene aller Designated Authorities der Küstenlän-
 
 der,
 
- Herausgabe von Handlungsempfehlungen zu verstärkten Sicherungsmaßnahmen
+– Herausgabe von Handlungsempfehlungen zu verstärkten Sicherungsmaßnahmen
 
 an die Beauftragten zur Gefahrenabwehr der betroffenen Terminals,
 
- fortlaufende Risikobewertung der den Hamburger Hafen anlaufenden Seeschiffe
+– fortlaufende Risikobewertung der den Hamburger Hafen anlaufenden Seeschiffe
 
 und deren Anlaufterminals sowie
 
- Aktualisierung der grenzpolizeilichen Risikoanalyse und daraus abgeleitet die
+– Aktualisierung der grenzpolizeilichen Risikoanalyse und daraus abgeleitet die
 
 Intensivierung der Grenzstreifen im Bereich der Schengen-Außengrenze Hamburger Hafen durch die Polizei und Einleiten von polizeilichen Maßnahmen beim Vorliegen konkreter Hinweise oder entsprechender Ergebnisse aus der Risikobewertung.
 

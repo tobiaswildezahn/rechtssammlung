@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14593"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48574"
@@ -90,7 +91,7 @@ Die Mitarbeiter befinden sich je nach Bezirk jeweils zwischen 22 und 30 Stunden 
 
 Wie viele Stunden pro Woche waren die Mitarbeiter des BOD in den Jahren 2012 – 2013 im Außendienst und wie viele davon zeitgleich?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 2012 und 2013  
 aktuell  

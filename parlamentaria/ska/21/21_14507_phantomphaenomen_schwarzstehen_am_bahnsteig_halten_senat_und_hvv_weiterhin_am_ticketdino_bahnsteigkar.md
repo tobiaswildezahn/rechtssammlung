@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 24
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11409", "21/10881"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63948"
@@ -371,7 +372,7 @@ Inwiefern planen der Senat beziehungsweise die zuständige Behörde Veränderung
 
 Inwiefern planen der HVV, die HOCHBAHN und/oder die S-Bahn Veränderungen an dem Konzept der fahrkartenpflichtigen Bereiche an Schnellbahnhaltestellen?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Es gibt keine Planungen zur Veränderung am Konzept der fahrkartenpflichtigen Bereiche.
 

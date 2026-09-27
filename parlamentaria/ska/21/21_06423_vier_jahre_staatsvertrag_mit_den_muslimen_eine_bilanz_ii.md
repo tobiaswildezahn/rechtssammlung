@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4035", "21/4559", "21/4874", "20/5649", "21/6433", "21/1987"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54960"
@@ -68,7 +69,7 @@ Wie reagiert der Senat auf die beschönigende Haltung, die die SCHURA in Hinblic
 
 Ist der Senat angesichts der oben geschilderten Zusammenhänge noch immer der Meinung, dass die islamischen Glaubensgemeinschaften in ihrer Arbeit bedingungslos zu dem Grundsatz der Hochachtung der jüdischen Glaubensgemeinschaft stehen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 20/5649 und 21/6433. Im Übrigen hat sieht der Senat keine Veranlassung, zu den ihm vom Fragesteller unterstellten Auffassungen Stellung zu nehmen. Zum tatsächlichen Inhalt der in Bezug genommenen Äußerungen des Senats siehe Drs. 21/4035.
 
@@ -90,7 +91,7 @@ Wie rechtfertigt der Senat, dass mit Mustafa Yoldas eine Person zum Vorstand der
 
 Wie rechtfertigt der Senat, dass mit Ajatollah Reza Ramezani eine Person im Vorstand der SCHURA vertreten ist, die gemäß den Erkenntnissen des Verfassungsschutzes auf Geheiß der iranischen Regierung handelt, die in der Vergangenheit wiederholt gefordert hat, Israel zu vernichten?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Vorstände religiöser Gemeinschaften werden von diesen bestimmt und unterliegen keiner staatlichen „Rechtfertigung“.
 

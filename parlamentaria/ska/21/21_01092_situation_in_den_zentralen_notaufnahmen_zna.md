@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13258"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49269"
@@ -962,7 +963,7 @@ Krankenhaus
 Agaplesion Diakonieklinikum  
 Hamburg
 
- Ärzte
+– Ärzte
 
 k.A 15,00 VK
 
@@ -976,7 +977,7 @@ k.A 15,00 VK
 
 16,35 VK
 
- Pflege
+– Pflege
 
 k.A 21,64 VK
 
@@ -990,7 +991,7 @@ k.A 21,64 VK
 
 23,26  
 VK  
-  
+–  
 Pflege Zeitarbeit (ohne Faktor)
 
 k.A  
@@ -1001,7 +1002,7 @@ k.A
 k.A  
 1,20 VK
 
- Administrative Unterstützung (AMAs)
+– Administrative Unterstützung (AMAs)
 
 k.A 4,85 VK
 
@@ -1017,7 +1018,7 @@ k.A 4,85 VK
 
 Altonaer Kinderkrankenhaus
 
-  
+–  
 Pflegedienst (IST)  
 9,56  
 VK
@@ -1034,7 +1035,7 @@ VK
 
 14,18  
 VK  
-  
+–  
 Ärztlicher Dienst  
 5,0 VK  
 5,0 VK  
@@ -1053,10 +1054,10 @@ Asklepios Klinik Nord
 Asklepios Westklinikum Hamburg  
 Berufsgen. Unfallkrankenhaus Hamburg
 
-  
+–  
 ÄrztInnen  
 Keine Änderung im Stellenschlüssel der Ärzte; allerdings ist häufigerer Rufdienst-Einsatz erforderlich  
-  
+–  
 Pflegedienst Ist  
 12,0  
 VK
@@ -1090,7 +1091,7 @@ Der Personalbedarf wird zentral gesteuert. Durch Binnenverschiebung innerhalb de
 
 Im Ärztl. Dienst ist nur die Leitung der ZNA direkt zugeordnet. Alle anderen VK werden von den Abteilungen abgestellt.
 
- Ärzte (direkt zugeordnet)
+– Ärzte (direkt zugeordnet)
 
 k.A. 0,25 VK
 
@@ -1102,7 +1103,7 @@ k.A. 0,25 VK
 
 1,00 VK 0,88 VK
 
- Pflege
+– Pflege
 
 k.A. 15,63 VK
 
@@ -1116,7 +1117,7 @@ k.A. 15,63 VK
 
 19,32 VK
 
- Pflege Zeitarbeit
+– Pflege Zeitarbeit
 
 k.A. 0,76 VK
 
@@ -1130,11 +1131,11 @@ k.A. 0,76 VK
 
 0,00 VK  
 Kath. Kinderkrankenhaus Wilhelmstift  
-  
+–  
 Ärzte  
 Während der Regelarbeitszeit 2 Ärzte, im Bereitschaftsdienst und  
 am Wochenende ist ein Ärztepool für die stationären und ambulanten Patienten zuständig.  
-  
+–  
 Pflegepersonal  
 10,391  
 VK
@@ -1160,7 +1161,7 @@ Unfallchirurgie) für die ZNA eingeteilt, decken in bestimmten Fällen
 (z.B. Bereitschaftsdienst) auch das Gesamthaus ab.  
 Nicht dargestellt in der Aufstellung sind die administrativen Mitarbeiter der ZNA, die seit 2013 die Verwaltungstätigkeiten übernommen haben und damit Ärzte und Pflege entlasten. Im Jahr 2014  
 waren dies 3,8 VK.  
-  
+–  
 Ärztlicher Dienst  
 19,2  
 19,2  
@@ -1169,7 +1170,7 @@ waren dies 3,8 VK.
 20,2  
 20,2  
 20,2  
-  
+–  
 Funktionsdienst  
 18,6  
 18,6  
@@ -1199,7 +1200,7 @@ Pädiatrie, Pädiatrie-Intensivmedizin, Klinik für Intensivmedizin,
 Kinderchirurgie stellen 24/7 jeweils einen Arzt, der über ein jeder  
 Disziplin zugeordnetes Notfallmobiltelefon für die ZNA erreichbar  
 ist.  
-  
+–  
 Ärzte ZNA VK  
 20,5  
 24,2  
@@ -1207,7 +1208,7 @@ ist.
 24,4  
 28,6  
 28,6  
-  
+–  
 Pflegedienst VK  
 63,60  
 68,61  

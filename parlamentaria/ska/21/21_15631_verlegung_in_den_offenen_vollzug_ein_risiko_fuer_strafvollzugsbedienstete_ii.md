@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13454"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65143"
@@ -47,7 +48,7 @@ Welche Erkenntnisse hat die zuständige Behörde aus dem Limburger Urteil gewonn
 
 Beabsichtigt die zuständige Behörde aufgrund des Urteils Änderungen hinsichtlich der Verfahrensweise bei Verlegungen in den offenen Vollzug vorzunehmen? Falls ja, welche? Falls nein, weshalb nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die maßgeblichen Voraussetzungen für die Verlegung von Gefangenen in den offenen Vollzug ergeben sich aus den für die jeweilige Haftart geltenden gesetzlichen Bestimmungen und werden wie bisher im jeweiligen Einzelfall sorgfältig geprüft. Änderungen hinsichtlich der Verfahrensweise sind nach Prüfung des Urteils des Landgerichts Limburg derzeit nicht geplant. Dennoch wurde das Urteil zum Anlass genommen, die Justizvollzugsanstalten hinsichtlich der Thematik noch einmal zu sensibilisieren. Für eine endgültige Bewertung und Reaktion bleibt das Ergebnis des Revisionsverfahrens, das beim Bundesgerichtshof anhängig ist, abzuwarten.
 

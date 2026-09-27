@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 20
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17249", "21/17402", "21/17454"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67065"
@@ -63,7 +64,7 @@ Was bedeutet es, wenn jetzt von der Behörde angekündigt wird, „die Noten sol
 
 Hamburg hat als einziges Bundesland alle Aufgaben für die Mathe- Abiturprüfung aus dem zentralen bundesweiten Pool genommen. Warum? Bitte fachlich begründen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der Bewertungsschlüssel für alle Abiturprüfungen des grundlegenden Niveaus, die am
 3. Mai 2019 geschrieben wurden, wurde von der für Bildung zuständigen Behörde auf Empfehlung des von der Kultusministerkonferenz mit der Aufgabenentwicklung beauftragten Instituts für Qualitätsentwicklung im Bildungswesen (IQB) angepasst. Anstelle von 100 Bewertungseinheiten entsprechen nun 85 Bewertungseinheiten 100 Prozent der zu erbringenden Leistung. Der prozentuale Bewertungsschlüssel für das Erreichen einer bestimmten Note in der Abiturklausur wird auf eine Gesamtzahl von 85 zu erreichenden Bewertungseinheiten angewandt. Im Übrigen siehe Drs. 21/17249, 21/17402 und 21/17454.

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54380"
@@ -77,19 +78,19 @@ Welche durchschnittlichen täglichen Kfz-Verkehrsstärken an Werktagen (DTVw) wu
 
 Als Ergebnisse von Einzelzählungen liegen folgende Tagesverkehre (TV) vor (keine Durchschnittswerte):
 
- Wördemanns Weg, westlich Imbekstieg: TV (Donnerstag, 08.12.2011) circa 13.200
+– Wördemanns Weg, westlich Imbekstieg: TV (Donnerstag, 08.12.2011) circa 13.200
 
 Kfz/24Std.
 
- Wördemanns Weg, östlich Imbekstieg: TV (Donnerstag, 08.12.2011) circa 13.100
+– Wördemanns Weg, östlich Imbekstieg: TV (Donnerstag, 08.12.2011) circa 13.100
 
 Kfz/24Std.
 
- Wördemanns Weg, nordwestlich Vogt-Kölln-Straße: TV (Mittwoch, 30.05.2012)
+– Wördemanns Weg, nordwestlich Vogt-Kölln-Straße: TV (Mittwoch, 30.05.2012)
 
 circa 13.400 Kfz/24Std.
 
- Wördemanns Weg, südöstlich Vogt-Kölln-Straße: TV (Mittwoch, 30.05.2012) circa
+– Wördemanns Weg, südöstlich Vogt-Kölln-Straße: TV (Mittwoch, 30.05.2012) circa
 
 13.500 Kfz/24Std.
 

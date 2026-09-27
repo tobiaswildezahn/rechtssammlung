@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16215"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67171"
@@ -63,6 +64,6 @@ Wie viele Sportangebote werden in den Hamburger Sommerferien zusätzlich durch d
 
 Welche Sportvereine und Sportverbände werden sich an dem Pilotprojekt in den Hamburger Sommerferien 2019 an dem Pilotprojekt mit welchen Angeboten beteiligen? Bitte aufschlüsseln in Bezirk, Verein/ Verband sowie Angebot.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage 2.

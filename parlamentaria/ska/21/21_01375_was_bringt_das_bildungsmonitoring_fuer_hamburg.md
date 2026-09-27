@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 33
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1334", "20/9119", "18/6000", "19/2055", "20/1257", "20/13458", "20/13541", "20/14579"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49570"
@@ -157,7 +158,7 @@ Hat Hamburg an sämtlichen der bisher durchgeführten Ländervergleiche (IQB-Lä
 
 Wo und in welchem Umfang (zum Beispiel statistisches Zahlenwerk und/oder Auswertung mit Schlussfolgerung) wurden/werden die Ergebnisse der verschiedenen, nationalen Bildungsforschungsmaßnahmen veröffentlicht, wem werden diese Veröffentlichungen mit welcher Zwecksetzung zu welchem Zeitpunkt zugänglich gemacht, wie wird die Öffentlichkeit über die Ergebnisse informiert?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 1. bis 3. und Anlage.
 
@@ -219,7 +220,7 @@ Bestand/besteht für einzelne oder auch alle vorgenannten Bildungsforschungsmaß
 
 Welches Ausschreibungsvolumen hatten die einzelnen Ausschreibungen? (Bitte getrennt nach internationalen Schulleistungsstudien, nationalen Ländervergleichen und hamburgspezifischen Forschungsprojekten aufzeigen.)
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Für die deutsche Beteiligung an den internationalen Schulleistungsstudien PISA, TIMSS und PIRLS/IGLU besteht keine Notwendigkeit der Ausschreibung. Das nationale Projektmanagement in Deutschland für PISA übernimmt das von Bund und Ländern gegründete und finanzierte „Zentrum für internationale Bildungsvergleichsstudien (ZIB)“. Das nationale Projektmanagement für TIMSS und PIRLS/IGLU wird vom „Institut für Schulentwicklungsforschung (IFS)“ an der Technischen Universität Dortmund als Partnereinrichtung der international verantwortlichen „International Association for the Evaluation of Educational Achievement (IEA)“ auf der Basis einer Zuwendung von Bund und Ländern durchgeführt. Die Ländervergleichsuntersuchungen werden vom IQB durchgeführt, einer von der Ländergemeinschaft der KMK getragenen Einrichtung. Die Hamburger Maßnahmen des Bildungsmonitorings führt das IfBQ durch.
 

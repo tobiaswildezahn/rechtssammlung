@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 32
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55102"
@@ -49,7 +50,7 @@ Wie ist die Praxis der Vorbereitung von Polizeibediensteten auf Zeugenaussagen?
 
 Gibt es innerhalb der Hamburger Polizei Dienstanweisungen für Zeugenaussagen von Polizeibediensteten vor Gericht? a. Wenn ja, a.i. welche? a.ii. Bitte Anweisungen im Wortlaut als Anlage beifügen. b. Wenn nein beziehungsweise wenn sie nicht übermittelt werden können, wird um Begründung gebeten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Vorbereitung von Polizeibediensteten auf Zeugenaussagen vor Strafgerichten erfolgt gemäß den einschlägigen Vorschriften aus der Dienstvorschrift für den täglichen Dienst der Polizei Hamburg (PDV 350 HH).
 
@@ -85,7 +86,7 @@ Wenn ja, wie lange?
 
 Werden die Zugriffe auf elektronische Akten gespeichert? a. Wenn ja, wie lange? b. Wer kontrolliert die Zugriffe? c. Welche Löschungspflichten gibt es für gespeicherte Zugriffe?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Entfällt.
 

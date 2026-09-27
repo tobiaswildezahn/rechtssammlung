@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51856"
@@ -35,7 +36,7 @@ Innenminister Stefan Studt: „Die Sicherheitslage und die damit einhergehenden 
 
 Der Katalog enthält unter anderem folgende Maßnahmen:
 
-• Personalverstärkung/Aufgabenentlastung
+– Personalverstärkung/Aufgabenentlastung
 
 - Der Stellenabbau ist für die Polizei in Schleswig-Holstein dauerhaft vom Tisch.
 
@@ -52,7 +53,7 @@ die Ermittlungsbeamten.
 
 „Der Personalzuwachs dient auch dem Zweck, die erkennbar hohen Belastungen im Polizeidienst ausgleichen zu können.“ (Innenminister Stefan Studt).
 
-• Wertschätzung/Steigerung der Berufsattraktivität
+– Wertschätzung/Steigerung der Berufsattraktivität
 
 - Verkürzung der Wartezeit im Statusamt A 8 (Polizeiobermeister) bis zur Beförderung nach A 9 (Polizeihauptmeister).
 
@@ -69,7 +70,7 @@ Zum 1. Juli 2016 wird es eine Beförderungsaktion geben, die den
 Schwerpunkt unter anderem auf Beförderungen im mittleren Dienst  
 legt.
 
-• Anerkennung der besonderen Belastungen im polizeilichen Schicht- und Wechselschichtdienst
+– Anerkennung der besonderen Belastungen im polizeilichen Schicht- und Wechselschichtdienst
 
 - Die erwarteten Personalverstärkungen werden unter anderem ab dem Jahr 2019 eingesetzt, um die Wochenarbeitszeit für Beamte im regelmäßigen Wechselschichtdienst schrittweise zu reduzieren.
 

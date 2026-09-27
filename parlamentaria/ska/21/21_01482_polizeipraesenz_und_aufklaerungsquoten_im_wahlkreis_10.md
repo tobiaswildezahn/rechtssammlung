@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12562"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49683"
@@ -364,7 +365,7 @@ Wie hat sich die Anzahl der in der PKS erfassten Wohnungseinbruchdiebstähle (PK
 
 Wie hat sich die Aufklärungsquote bei den Wohnungseinbruchdiebstählen in den einzelnen Stadtteilen des Wahlkreises 10 seit dem Jahre 2012 entwickelt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Anlage.
 

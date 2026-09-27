@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4127"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60607"
@@ -61,6 +62,6 @@ Welche Maßnahmen sind bisher getroffen worden, um den Verurteilten schnellstmö
 
 Welche Maßnahmen plant die Behörde nun hinsichtlich seines weiteren Aufenthalts in Deutschland? Ist insbesondere eine Abschiebung vorgesehen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Ausländerbehörde Hamburg steht in engem Kontakt mit der zuständigen Ausländerbehörde München. Die zuständige Staatsanwaltschaft Hamburg hat erklärt, dass ein Absehen von der Vollstreckung der Freiheitsstrafen gemäß § 456a Strafprozessordnung in diesem Fall nicht beabsichtigt sei. Eine Abschiebung wird daher erst nach Verbüßung der Freiheitsstrafen erfolgen können.

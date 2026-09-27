@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 16
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15105", "21/14954", "21/15182"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64918"
@@ -36,13 +37,13 @@ Mit der Antwort zu meiner Schriftlichen Kleinen Anfrage Drs. 21/15105 vom
 
 ## Einleitung für die Antworten des Senats
 
- den Berichtsentwurf von ICOMOS schon seit Wochen kannte,
+– den Berichtsentwurf von ICOMOS schon seit Wochen kannte,
 
- wusste, dass ICOMOS Bedenken zum Abriss und Neubau des City-Hofs
+– wusste, dass ICOMOS Bedenken zum Abriss und Neubau des City-Hofs
 
 hat,
 
- trotz einer am 6. November 2018 in Paris auf Wunsch des UNESCO-
+– trotz einer am 6. November 2018 in Paris auf Wunsch des UNESCO-
 
 Welterbezentrums vereinbarten Vorbereitung einer gemeinsamen Erklärung des UNESCO-Welterbezentrums, ICOMOS und der Stadt Hamburg zu den Ergebnissen der Beratungsmission am 27. November alleine per Pressemitteilung grünes Licht für den Abriss erteilt.
 

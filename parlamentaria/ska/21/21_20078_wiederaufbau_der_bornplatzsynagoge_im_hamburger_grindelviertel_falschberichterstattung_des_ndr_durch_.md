@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 3
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69842"
@@ -56,6 +57,6 @@ Hat der NDR in seiner weiteren Berichterstattung über dieses Thema die dargeleg
 a) die Tatsache berichtet wird, dass der Antrag ohne Einbeziehung und Kenntnis der AfD-Bürgerschaftsfraktion zustande kam und
 b) die AfD-Bürgerschaftsfraktion in der Sache sich ebenso wie die anderen Bürgerschaftsfraktionen für den Wiederaufbau der Synagoge positioniert hat? Wenn nein: Wird der NDR diese durch Auslassung und suggestive Kommentierung erfolgte Berichterstattung zukünftig und zeitnah richtigstellen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.

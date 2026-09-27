@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13537", "21/15537"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63419"
@@ -65,10 +66,7 @@ Ergänzend zu der Antwort des Senats auf die entsprechende Frage in Drs. 21/1353
 antisemitische Straftaten  
 2018*  
 gesamt  
-davon PMK-links-  
-davon PMK-rechts-  
-davon PMK-sonstige/nicht zuzuordnen-  
-davon PMAK  
+davon PMK-linksdavon PMK-rechtsdavon PMK-sonstige/nicht zuzuordnendavon PMAK  
 entfällt  
 davon PMK-ausländische Ideologie-  
 -  
@@ -96,8 +94,7 @@ davon PMK-links-
 -  
 -  
 -  
-davon PMK-rechts-  
-davon PMK-sonstige/nicht zuzuordnen-  
+davon PMK-rechtsdavon PMK-sonstige/nicht zuzuordnen-  
 -  
 davon PMAK  
 -  
@@ -135,8 +132,7 @@ davon PMK-links-
 -  
 -  
 -  
-davon PMK-rechts-  
-davon PMK-sonstige/nicht zuzuordnen-  
+davon PMK-rechtsdavon PMK-sonstige/nicht zuzuordnen-  
 -  
 davon PMAK  
 -  

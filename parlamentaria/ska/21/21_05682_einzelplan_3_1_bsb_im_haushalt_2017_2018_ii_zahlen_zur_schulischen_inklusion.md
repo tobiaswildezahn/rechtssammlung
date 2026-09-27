@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2268", "21/2278", "21/2602"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54178"
@@ -84,6 +85,6 @@ In welchen Haushaltsbereichen des laufenden Haushalts und des Doppelhaushaltspla
 
 In welchen Haushaltsbereichen des bestehenden Haushalts und des Doppelhaushaltsplans 2017/2018 finden sich zusätzlich vorgesehene Verstärkungsmittel für den inklusiven Förderbedarf von Vorbereitungsklassen für Migranten/-innen an staatlichen Schulen? Bitte tabellarisch jeweils für die die Haushaltsjahre 2015 bis 2018 betreffenden Einzelpläne, Aufgabenbereiche wie Produktgruppen nennen und jeweilige Lehrer-/-innenstellenanzahl und zugehörige VZÄ sowie dafür bereitgestellte finanzielle Mittel aufgeschlüsselt nach Grundschule, Stadtteilschule und Gymnasium in absoluten Zahlen angeben.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die LSE-Förderung für Schülerinnen und Schüler in Internationalen Vorbereitungsklassen und Basisklassen sowie nach deren Übergang in Regelklassen erfolgt nach den gleichen Grundsätzen und Bedarfsgrundlagen wie für andere Schülerinnen und Schüler. Im Übrigen siehe Antwort zu 1. bis 8.

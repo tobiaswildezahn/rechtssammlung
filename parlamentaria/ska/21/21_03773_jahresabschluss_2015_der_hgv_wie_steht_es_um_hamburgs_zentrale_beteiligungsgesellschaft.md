@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2735", "21/3592"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52172"
@@ -49,7 +50,7 @@ Wie hoch lagen zum 31.12.2015 jeweils i. Anlagevermögen (insbesondere jeweils S
 
 Wie hoch lagen im Geschäftsjahr 2015 der HGV jeweils i. Umsatzerlöse, ii. sonstige betriebliche Erträge, iii. Personalaufwand, iv. Abschreibungen, v. sonstige betriebliche Aufwendungen, vi. Erträge aus Gewinnabführungsverträgen, vii. Aufwendungen aus Verlustübernahmen, viii. Erträge aus Beteiligungen, ix. Erträge aus Ausleihungen des Finanzanlagevermögens, x. sonstige Zinsen und ähnliche Erträge, xi. Abschreibungen auf Finanzanlagen, xii. Zinsen und ähnliche Aufwendungen (davon an die Freie und Hansestadt Hamburg geleisteten Anteil bitte gesondert ausweisen), xiii. Ergebnis der gewöhnlichen Geschäftstätigkeit, xiv. außerordentliche Erträge, xv. außerordentliche Aufwendungen und xvi. Jahresfehlbetrag/-überschuss?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung. Zum Jahresabschluss 2014 siehe http://hgv.hamburg.de/ Download.html.
 
@@ -61,7 +62,7 @@ Welche außerplanmäßigen Abschreibungen in jeweils welcher Höhe gab es im Ges
 
 Mit welchem Wert je Aktie und welchem Gesamtwert werden die Anteile an der HSH Nordbank AG zum 31.12.2015 bilanziert?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Wert der Beteiligung an der HSH Nordbank AG ist nach Umstrukturierung der Bank anhand der Eröffnungsbilanz der noch zu gründenden HSH Holdinggesellschaft (siehe Drs. 21/3592) neu zu bestimmen. Im Übrigen siehe Vorbemerkung.
 

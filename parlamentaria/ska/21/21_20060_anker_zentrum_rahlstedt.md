@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14927", "21/19033", "21/19122"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69826"
@@ -55,7 +56,7 @@ Seit wann werden Geflüchtete, die zu den sogenannten Dublin-Fällen zählen ode
 
 Aus welchen Gründen werden Geflüchtete, die zu den sogenannten Dublin-Fällen zählen oder aus vermeintlich „sicheren Herkunftsländern“ kommen, nun länger als für sechs Monate im sogenannten Ankunftszentrum untergebracht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Aufenthaltsdauer im Ankunftszentrum beträgt weiterhin maximal sechs Monate. Kurzzeitig darüber hinausgehende Aufenthalte erfolgen nur im Einzelfall, sofern die freiwillige Ausreise beziehungsweise Überstellung bereits terminiert ist und zeitnah bevorsteht. Im Übrigen siehe Drs. 21/19033.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["16/4616", "21/2068", "21/504", "21/945", "21/981", "20/11022", "20/8878", "21/249"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51778"
@@ -73,7 +74,7 @@ Wie haben sich die Zahlen der Einbruchsdiebstähle im Jahr 2015 und im Januar un
 
 Wie hat sich die Aufklärungsquote jeweils entwickelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zu den Fallzahlen für das gesamte Jahr 2015 siehe Anlage; im Übrigen siehe Drs. 21/2068 und Vorbemerkung.
 

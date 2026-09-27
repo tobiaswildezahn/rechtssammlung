@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2850", "20/13138"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51369"
@@ -95,7 +96,7 @@ Wie viele Kilometer Radwege wurden im Jahre 2015 saniert?
 
 Wie viele Kilometer Radfahrstreifen und wie viele Kilometer Schutzstreifen wurden 2015 angelegt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/2850.
 

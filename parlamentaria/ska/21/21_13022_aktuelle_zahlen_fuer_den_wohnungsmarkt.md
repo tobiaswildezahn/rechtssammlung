@@ -11,9 +11,10 @@ fraktionen: ["Die Linke"]
 vorgang: 56881
 seiten: 8
 fragen: 9
-einzelfragen: 10
-antwortbloecke: 9
+einzelfragen: 14
+antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12128"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62359"
@@ -627,13 +628,21 @@ Gibt es konkrete Planungen, wann die von Senatorin Dr. Stapelfeldt im April 2017
 
 Die Überlegungen zur Verlängerung der Mietpreis- und Belegungsbindungen sind noch nicht abgeschlossen.
 
-9.1. Die Möglichkeit der freiwilligen Verlängerung der Bindungsfristen gibt es ja bereits seit 2012, für alle Förderbereiche seit 2015. Seit wann und in welchem Umfang wird von dieser Möglichkeit von wem (privat oder öffentlich, Einrichtungen, soziale Projekte et cetera) real Gebrauch gemacht?
+### Frage 9.1
+
+Die Möglichkeit der freiwilligen Verlängerung der Bindungsfristen gibt es ja bereits seit 2012, für alle Förderbereiche seit 2015. Seit wann und in welchem Umfang wird von dieser Möglichkeit von wem (privat oder öffentlich, Einrichtungen, soziale Projekte et cetera) real Gebrauch gemacht?
+
+#### Antwort zu Frage 9.1
 
 In den Jahren 2012 bis 2017 wurden elf Objekte mit insgesamt 584 Wohnungen mit einer freiwilligen 20-jährigen Mietpreis- und Belegungsbindung gefördert. Es wurden vier Objekte mit insgesamt 214 Wohnungen mit einer freiwilligen 30-jährigen Mietpreis- und Belegungsbindung gefördert.
 
 Fördernehmer dieser freiwilligen Bindungsverlängerungen waren Kirchen, Stiftungen, Privatpersonen, Genossenschaften und sonstige Kapitalgesellschaften.
 
-9.2. Wie viele Sozialbindungen im öffentlich geförderten Wohnungsbau wurden von wem (privat, öffentlich) seit 2011 vorzeitig abgelöst und womit wird das begründet?
+### Frage 9.2
+
+Wie viele Sozialbindungen im öffentlich geförderten Wohnungsbau wurden von wem (privat, öffentlich) seit 2011 vorzeitig abgelöst und womit wird das begründet?
+
+#### Antwort zu Frage 9.2
 
 Eine Begründung durch den Fördernehmer für die Rückzahlung der öffentlichen Mittel ist nicht erforderlich und wird durch die IFB auch nicht erfragt.
 
@@ -689,10 +698,18 @@ privat
 2017  
 31.12.2027
 
-9.3. Wie würde sich mit einer Verlängerung der regelhaften Mietpreisund Belegungsbindung der Sozialwohnungsbestand in Hamburg bis 2030 verändern?
+### Frage 9.3
+
+Wie würde sich mit einer Verlängerung der regelhaften Mietpreisund Belegungsbindung der Sozialwohnungsbestand in Hamburg bis 2030 verändern?
+
+#### Antwort zu Frage 9.3
 
 Bei bereits geförderten Objekten ist eine einseitige Verlängerung des Bindungszeitraums rechtlich nicht möglich. Im Übrigen hätte eine Verlängerung der regelhaften Mietpreis- und Belegungsbindung in der Mietwohnungsbauförderung ab 2018 für den Sozialwohnungsbestand bis 2030 keine Auswirkung.
 
-9.4. Welche Rolle spielt bei der Entscheidung hinsichtlich einer Verlängerung der regelhaften Bindungsfristen die private Wohnungswirtschaft und das „Bündnis für das Wohnen in Hamburg“?
+### Frage 9.4
+
+Welche Rolle spielt bei der Entscheidung hinsichtlich einer Verlängerung der regelhaften Bindungsfristen die private Wohnungswirtschaft und das „Bündnis für das Wohnen in Hamburg“?
+
+#### Antwort zu Frage 9.4
 
 Die Freie und Hansestadt Hamburg entscheidet in eigener Verantwortung. Das Bündnis erhält Gelegenheit zur Stellungnahme.

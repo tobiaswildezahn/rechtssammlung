@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68760"
@@ -95,22 +96,22 @@ Welche Straftaten oder Störungen wurden im Rahmen der Demonstration festgestell
 
 Der Staatsschutzdienststelle liegen bisher nachfolgende festgestellte Straftaten vor (Stand: 20. November 2019):
 
- § 303 Strafgesetzbuch (StGB) Sachbeschädigung an Wahlplakat,
+– § 303 Strafgesetzbuch (StGB) Sachbeschädigung an Wahlplakat,
 
- §§ 22, 23, 223, 234 StGB Versuch der gefährlichen Körperverletzung durch den
+– §§ 22, 23, 223, 234 StGB Versuch der gefährlichen Körperverletzung durch den
 
 Bewurf mit Pyrotechnik,
 
- § 27 Verstoß gegen Versammlungsgesetz aufgrund Vermummung,
+– § 27 Verstoß gegen Versammlungsgesetz aufgrund Vermummung,
 
- § 27 Verstoß gegen Versammlungsgesetz aufgrund der Verwendung von Pyro-
+– § 27 Verstoß gegen Versammlungsgesetz aufgrund der Verwendung von Pyro-
 
 technik,
 
- § 201a StGB Verletzung des höchstpersönlichen Lebensbereichs durch Bildauf-
+– § 201a StGB Verletzung des höchstpersönlichen Lebensbereichs durch Bildauf-
 
 nahmen,
 
- § 40 Sprengstoffgesetz aufgrund Zündung von Bengalfeuern.
+– § 40 Sprengstoffgesetz aufgrund Zündung von Bengalfeuern.
 
 Im Übrigen siehe Pressemitteilung 191115-6. der Polizei: https://www.presseportal.de/ blaulicht/pm/6337/4441358.

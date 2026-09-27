@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7461", "21/7879", "21/9974", "21/11168"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61508"
@@ -129,29 +130,29 @@ Welche Gutachten und Untersuchungen wurden bereits durchgeführt und wann ist mi
 
 Folgende Gutachten und Untersuchungen sind im Rahmen des Bebauungsplanverfahrens Rahlstedt 131 vergeben worden:
 
- Faunistische Kartierungen Strukturplan, und Ergänzungen
+– Faunistische Kartierungen Strukturplan, und Ergänzungen
 
- Erfassung Fledermäuse
+– Erfassung Fledermäuse
 
- Erfassung der Haselmaus (kein aktuelles Vorkommen ermittelt)
+– Erfassung der Haselmaus (kein aktuelles Vorkommen ermittelt)
 
- Klimaökologische Auswirkungen
+– Klimaökologische Auswirkungen
 
- Artenschutzprüfung
+– Artenschutzprüfung
 
- Grünordnerischer Fachbeitrag zum Bebauungsplan Rahlstedt 131
+– Grünordnerischer Fachbeitrag zum Bebauungsplan Rahlstedt 131
 
- Verkehrstechnische Untersuchung
+– Verkehrstechnische Untersuchung
 
- Schalltechnische Untersuchung
+– Schalltechnische Untersuchung
 
- Wassertechnische Untersuchung
+– Wassertechnische Untersuchung
 
- Geotechnischer Bericht zur Erschließung
+– Geotechnischer Bericht zur Erschließung
 
- Baugrund- und Grundwasseruntersuchungen
+– Baugrund- und Grundwasseruntersuchungen
 
- Schadstoffuntersuchungen und gründungstechnische Empfehlungen für den Stra-
+– Schadstoffuntersuchungen und gründungstechnische Empfehlungen für den Stra-
 
 ßenbau
 

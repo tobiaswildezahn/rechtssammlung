@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56016"
@@ -43,7 +44,7 @@ Welche Modellprojekte laufen derzeit im Justizvollzug in Hamburg (bitte unter An
 
 Welchen Umfang haben die jeweiligen Modellprojekte (bitte unter Angabe der Anzahl der jeweils beteiligten Bediensteten, Inhaftierter und gegebenenfalls Dritter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In der JVA Hahnöfersand läuft das Projekt „Optimierung eines Behandlungsangebotes für Gefangene mit Gewalt- und Suchtproblemen“. Das Projekt mit einer Laufzeit von drei Jahren (01.11.2014 – 31.10.2017) wird gemeinsam mit dem Zentrum für Suchtfragen des Kindes- und Jugendalters des Universitätsklinikums-Eppendorf (UKE) durchgeführt. Vonseiten der JVA Hahnöfersand sind eine Psychologin und eine Vollzugsabteilungsleitung sowie beim vorgesehenen Abschluss des Projekts voraussichtlich circa 30 Gefangene daran beteiligt. Im UKE ist eine wissenschaftliche Fachkraft regelmäßig mit dem Projekt befasst. Ziel ist die Erweiterung der Behandlungsangebote für Gefangene, die Gewalt- und Suchtprobleme aufweisen.
 
@@ -57,7 +58,7 @@ Welche Modellprojekte wurden im Justizvollzug in Hamburg seit 2011 abgeschlossen
 
 Mit welchem Ergebnis wurden die seit 2011 abgeschlossenen Modellprojekte jeweils evaluiert (bitte unter Angabe, wie mit dem jeweiligen Gegenstand nach Abschluss des jeweiligen Modellprojekts weiter verfahren wurde)?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Von November 2011 bis Oktober 2012 hat der Verein Violence Prevention Network e.V. (VPN) in der JVA Fuhlsbüttel das Projekt „De-Radikalisierung extremistisch und militant gefährdeter Gewaltstraftäter im Erwachsenenvollzug“ durchgeführt. Bedienstete der JVA waren nicht beteiligt. An dem Projekt haben zehn Gefangene teilgenommen. Das Ziel, eine themenzentrierte Gruppenarbeit mit muslimischen Gefangenen über religiöse und politische Fragestellungen durchzuführen, wurde nach Einschätzung von VPN erreicht. VPN wollte die Erfahrungen aus dem Projekt für weiterführende konzeptionelle Überlegungen nutzbar machen.
 

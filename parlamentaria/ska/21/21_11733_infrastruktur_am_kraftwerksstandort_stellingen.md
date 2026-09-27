@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 18
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60966"
@@ -79,7 +80,7 @@ Welcher Anschlusspunkt und welche Leitungslänge wären bei einer Erweiterung de
 
 Welche Kosten entstehen durch Veränderungen der Stromleitungen zum Standort Stellingen, die für das ZRE geplant sind?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Anschluss müsste am Umspannwerk West erfolgen. Im Übrigen siehe Antwort zu
 1.
@@ -92,7 +93,7 @@ Welche Veränderungen der Gasleitungen zum Standort Stellingen sind für das ZRE
 
 Welche Kosten entstehen durch Veränderungen der Gasleitungen zum Standort Stellingen, die für das ZRE geplant sind?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Es sind weder Änderungen erforderlich noch geplant.
 

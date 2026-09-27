@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57931"
@@ -71,7 +72,7 @@ Wie viele Asylbewerber, Geduldete, Flüchtlinge und Menschen, die unter subsidi�
 
 Aus welchen Herkunftsländern kommen die Asylbewerber, Geduldeten, Flüchtlinge und unter subsidiärem Schutz stehenden Menschen, die durch Willkommenslotsen vermittelt werden? a. Wie hoch ist in Hamburg ihr Anteil an der jeweiligen Gesamtzahl der Geflüchteten aus diesen Herkunftsländern? b. Gibt es signifikante Unterschiede hinsichtlich der unterschiedlichen Vermittlungsquoten bei den verschiedenen Herkunftsländern?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Bisher konnten 41 Personen vermittelt werden. Eine genaue Auflistung nach Aufenthaltsstatus, Art und Branchen der Beschäftigung sowie einer Aussage zum Herkunftsland der vermittelten Personen ist nach Auskunft des Projektträgers in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Hierfür müssten alle Akten händisch ausgewertet werden. Darüber hinaus siehe Vorbemerkung.
 

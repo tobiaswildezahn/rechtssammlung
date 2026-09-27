@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12784"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62569"
@@ -52,7 +53,7 @@ Wann erfolgten Gespräche zwischen dem BAMF und dem Senat im Jahr 2017 und 2018 
 
 Welche Mitwirkungs-, Gestaltungs- beziehungsweise Mitsprachemöglichkeiten hat der Senat generell bei der BAMF-Außenstelle Hamburg? Wie hat der Senat in den Jahren 2017 und 2018 davon Gebrauch gemacht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/12784: Die Behörde für Inneres und Sport steht mit dem BAMF auf allen Ebenen in einem engen kontinuierlichen Gesprächskontakt. So werden unter anderem regelmäßige Besprechungsrunden zur aktuellen Situation und der gemeinsamen Zusammenarbeit abgehalten, um Möglichkeiten einer weiteren Optimierung der Zusammenarbeit und der Verfahrensabläufe zu erörtern. Die Behörde für Inneres und Sport bewertet die Kooperation mit der BAMF-Außenstelle Hamburg als gut und konstruktiv. Im Rahmen dieses Austausches haben sich Hinweise auf Fehlentscheidungen, wie sie der BAMF-Außenstelle Bremen vorgeworfen werden, bei Gesprächen des Senats mit dem BAMF nicht ergeben. Siehe auch Antwort zu 1.
 

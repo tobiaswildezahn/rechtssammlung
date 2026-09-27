@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6391", "20/10746", "16/4616", "20/13255", "21/981"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49301"
@@ -77,7 +78,7 @@ Wie hat sich die Zahl der Einbrüche im Jahr 2014 im Alstertal und den Walddörf
 
 Wie viele Einbrüche wurden im Jahr 2014 im Alstertal und den Walddörfern aufgeklärt? Bitte die Zahlen für jeden Monat einzeln angeben und nach Stadtteilen sowie in Wohnungen und Gewerbeobjekte aufgliedern.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage und Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53978"
@@ -75,7 +76,7 @@ Wie viele und welche Austausch- und Auslandsprogramme an Schulen werden durch di
 
 Wie werden diese Programme (nach Frage 5.) von den Schulen ausgenutzt? (Bitte um Angabe von 2012 – 2016.)
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Anzahl der geförderten Hamburger Schulen im Rahmen von Städtepartnerschaften:
 

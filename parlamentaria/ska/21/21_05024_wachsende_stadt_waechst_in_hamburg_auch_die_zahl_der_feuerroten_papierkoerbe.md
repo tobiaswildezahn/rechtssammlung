@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53478"
@@ -112,15 +113,15 @@ Nach welchen Kriterien erfolgen die Aufstellung der Papierkörbe und die Bedarfs
 
 Die SRH positioniert ihre roten Papierkörbe an von Fußgängern hoch frequentierten Stellen, insbesondere:
 
- vor Bahnhöfen,
+– vor Bahnhöfen,
 
- in Einkaufsstraßen und Fußgängerzonen,
+– in Einkaufsstraßen und Fußgängerzonen,
 
- an Bushaltestellen und Fußgängerüberwegen,
+– an Bushaltestellen und Fußgängerüberwegen,
 
- auf öffentlichen Plätzen,
+– auf öffentlichen Plätzen,
 
- vor Schulen, Krankenhäusern und ähnlichen öffentlichen Einrichtungen.
+– vor Schulen, Krankenhäusern und ähnlichen öffentlichen Einrichtungen.
 
 Die Papierkörbe werden sowohl in ihrer Anzahl und ihrer Größe als auch in ihrer Leerungsfrequenz regelmäßig an die tatsächliche Nutzung angepasst.
 
@@ -132,7 +133,7 @@ Wie viele Papierkörbe sollen in den nächsten drei Jahren neu hinzukommen?
 
 In welcher Form und Höhe sind aus Sicht der Stadtreinigung und der zuständigen Behörden in den nächsten drei Jahren Investitionen in Papierkörbe und deren Unterhaltung notwendig?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Überlegungen dazu sind noch nicht abgeschlossen.
 
@@ -144,7 +145,7 @@ In welcher Form werden Bürgerwünsche bei der Aufstellung berücksichtigt?
 
 Wie viele Bürgeranfragen zum Aufstellen neuer Papierkörbe gab es seit 2010? Wie viele dieser Anfragen wurden abgelehnt, wie vielen wurde entsprochen? Bitte jährlich differenziert angeben.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Vorschläge von Bürgern werden von der SRH in jedem Einzelfall geprüft. Sofern die Anforderungen (siehe Antwort zu 5.) gegeben sind, bemüht sich die SRH, den Wunsch zu realisieren. Gelegentlich genügt bereits ein Umsetzen von nur wenigen Metern, um einen Papierkorb besser sichtbar zu machen.
 

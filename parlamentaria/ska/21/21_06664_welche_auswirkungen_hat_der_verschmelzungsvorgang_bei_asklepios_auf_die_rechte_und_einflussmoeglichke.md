@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 19
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/6205", "21/4285"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55208"
@@ -77,7 +78,7 @@ Hat der Senat der Verschmelzung der beiden Gesellschaften seine Zustimmung gegeb
 
 Wenn ja, wie ist die Entscheidung für eine Verschmelzung zustande gekommen? (Bitte detaillierte Angaben über das Zustimmungsverfahren.) a. Wann und bei welcher Gesellschafterversammlung wurde das erste Mal eine Verschmelzung auf die Tagesordnung gesetzt? b. Wann hat der Senat in welchen Gremien und zu welchem Zeitpunkt der Verschmelzung zugestimmt? c. Vor dem Hintergrund welcher Erwägungen hat der Senat diesem Verschmelzungsvorgang zugestimmt und welche Gesichtspunkte waren entscheidend für die Zustimmung? d. Welche Behörden und welche Behördenabteilungen waren an dem Meinungsbildungsprozess aufseiten des Senats beteiligt? e. Hat der Senat die Expertise von Dritten (zum Beispiel Wirtschaftsprüfern) herangezogen? Wenn ja, von wem? Was besagt die Expertise?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nein. Bei den beiden Gesellschaften handelt es sich nicht um Beteiligungen der FHH. Im Übrigen: entfällt.
 

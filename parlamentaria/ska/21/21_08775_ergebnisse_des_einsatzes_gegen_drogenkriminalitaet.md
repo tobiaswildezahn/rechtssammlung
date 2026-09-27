@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57507"
@@ -310,7 +311,7 @@ Mit welchem Ergebnis wurden die staatsanwaltlichen Ermittlungsverfahren jeweils 
 
 Mit welchem Ergebnis endeten jeweils die Gerichtsverfahren? Bitte monatlich und nach Einsatzgebieten untergliedern.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im Vorgangserfassungs- und Verwaltungssystem MESTA der Staatsanwaltschaft wird weder erfasst, ob ein Verfahren aufgrund eines besonderen Schwerpunkteinsatzes der Polizei eingeleitet wurde noch wird festgehalten, aus welchem Einsatzgebiet ein Verfahren stammt. Die Beantwortung der Frage würde daher jedenfalls die Auswertung Tausender Verfahrensakten der Jahre 2016 und 2017 aus dem Bereich der Betäubungsmittelkriminalität erfordern. Dies ist innerhalb des für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeitraums nicht möglich.
 

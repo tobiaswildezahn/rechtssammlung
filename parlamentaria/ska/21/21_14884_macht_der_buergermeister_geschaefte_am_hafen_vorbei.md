@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11138", "20/5550", "21/4034", "21/12248", "21/12724"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64328"
@@ -43,7 +44,7 @@ Welche konkreten Ergebnisse und Vereinbarungen hat die Marseille- Reise des Erst
 
 Welche der unter 1. genannten Ergebnisse und Vereinbarungen wurden bisher umgesetzt und wer hat dies wann und wie gemacht? Welche Ergebnisse und Vereinbarungen wurden noch nicht umgesetzt, warum nicht und wann soll dies geschehen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Anlass der Reise war das 60-jährige Jubiläum der Städtepartnerschaft zwischen Hamburg und Marseille und die in diesem Rahmen vereinbarte Unterzeichnung einer Ergänzung des Städtepartnerschaftsmemorandums von 2008 (siehe Anlage), dessen Umsetzung durch den Senat beziehungsweise die Behörden eine kontinuierliche Aufgabe für die kommenden Jahre darstellt. Darüber hinaus wurde eine Kooperation zwischen den Hafenverwaltungen von Hamburg und Marseille erörtert und vereinbart, auch hierzu ein gemeinsames Dokument zu unterzeichnen. Dies erfolgte am 27. September 2018 im Hamburger Rathaus durch die Geschäftsführungen von Hamburg Port Authority sowie des Grand Port Maritime de Marseille.
 

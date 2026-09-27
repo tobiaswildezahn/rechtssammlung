@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 33
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8111", "21/7950", "19/6273", "18/525", "20/3642", "20/433", "21/1395", "19/1134", "20/6989"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58445"
@@ -45,23 +46,23 @@ Aus Sicht der zuständigen Behörde ist die in den Schulbüros geleistete Arbeit
 
 Für die Ausstattung der Schulbüros sind die jährlichen Stellenzuweisungen maßgeblich. Die Zuweisung erfolgt auf Grundlage eines Gesamtkontingents an Schulbürostellen für die allgemeinbildenden Schulen, das in den letzten Jahren infolge von Aufgabenzuwächsen deutlich erhöht wurde. Auf wesentliche Aufgabenzuwächse wurde in den vergangenen Jahren mit Erhöhungen des Stellenkontingents reagiert. Es handelte sich zum Beispiel um
 
- den Anstieg der Anzahl von Schulklassen infolge von Frequenzabsenkungen (14,0
+– den Anstieg der Anzahl von Schulklassen infolge von Frequenzabsenkungen (14,0
 
 Stellen), siehe Drs. 19/6273,
 
- den Ausbau der Ganztagsschulen nach Rahmenkonzept (17,5 Stellen in den Jah-
+– den Ausbau der Ganztagsschulen nach Rahmenkonzept (17,5 Stellen in den Jah-
 
 ren 2010 bis 2016), siehe Drs. 18/525,
 
- die ganztägige Betreuung in Zusammenarbeit mit Kooperationspartnern (47,0 Stel-
+– die ganztägige Betreuung in Zusammenarbeit mit Kooperationspartnern (47,0 Stel-
 
 len), siehe Drs. 20/3642,
 
- die Umsetzung des Bildungs- und Teilhabepakets (45,8 Stellen), siehe Drs. 20/433
+– die Umsetzung des Bildungs- und Teilhabepakets (45,8 Stellen), siehe Drs. 20/433
 
 sowie
 
- die erhöhten Anforderungen durch Zuwanderung (20,0 Stellen), siehe Drs.
+– die erhöhten Anforderungen durch Zuwanderung (20,0 Stellen), siehe Drs.
 
 21/1395.
 
@@ -86,7 +87,7 @@ Wie viele Schüler/-innen hatten die staatlichen Grundschulen und Grundschulabte
 Wie viele Schüler/-innen hatten die einzelnen staatliche Grundschulstandorte und Grundschulabteilungen der staatlichen Stadtteilschulstandorte in Hamburg seit 2014/2015 bis heute (Stand Juni 2017) insgesamt jeweils in ihrer Elementarstufe und in ihrer Primarstufe? (Bitte für jedes Schuljahr einzeln nach Sozialindex gegliedert mit Angabe des Standorts der Schulform und des Bezirks in absoluten Zahlen und in Prozent in einer eigenen Excel-Tabelle angeben.) a. Welche dieser Schulen waren/sind inklusive Schwerpunktschulen? (Bitte entsprechend in der Tabelle zu 2. angeben.) b. Wie viele besetzte Stellen in den Schulbüros an diesen staatlichen Grundschulen und Grundschulabteilungen der Stadtteilschulen gab es dabei jeweils zum 1. März der Kalenderjahre 2014, 2015, 2016 und 2017? (Bitte entsprechend in absoluten Zahlen in der Tabelle zu
 2. angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zur Anzahl der Schülerinnen und Schüler für die Jahre 2014 bis 2017 siehe Anlage. Die Anzahl der besetzten Stellen in den Schulbüros wird nicht erhoben, siehe Vorbemerkung.
 

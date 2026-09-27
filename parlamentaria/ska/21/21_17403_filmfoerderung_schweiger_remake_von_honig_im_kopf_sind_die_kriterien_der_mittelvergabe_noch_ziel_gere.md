@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66984"
@@ -53,7 +54,7 @@ Aufgrund welcher Förderentscheidung von welchem Datum erhielt der Film „Head 
 
 Aus welchem Förderungsbereich stammte diese unter 1. genannte Förderung der FFHSH (1. Förderung der Stoff- und Projektentwicklung: a. Drehbuchförderung, b. Projektentwicklung, c. Incentive Funding; 2. Produktionsförderung; 3. Förderung von Verleih und Vertrieb, 4. Förderung des Abspiels und des Vertriebs)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/675", "18/735", "20/6540"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48969"
@@ -47,7 +48,7 @@ Wie schätzt der Hamburger Senat die rechtliche Situation der zum Teil bestehend
 
 Rechnet der Senat mit ähnlichen Klagen in Hamburg?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/675. Im Übrigen hat sich der der Senat hiermit nicht befasst.
 
@@ -95,7 +96,7 @@ Welche/-r Anbieter betreibt beziehungsweise betreiben die Callcenter des Service
 
 Handelt es sich um einen beziehungsweise um mehrere private Anbieter? Wenn ja, wie verträgt sich dies mit der Antwort auf die BT-Drs. 18/735, in welcher private Anbieter ausgeschlossen werden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/675. Es handelt sich um eine Dienstleistung der Bundesagentur für Arbeit (BA).
 

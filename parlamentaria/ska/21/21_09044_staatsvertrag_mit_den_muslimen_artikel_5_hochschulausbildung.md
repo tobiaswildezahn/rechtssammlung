@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5830", "21/8701"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57789"
@@ -127,7 +128,7 @@ In wie vielen Fällen haben die islamischen Religionsgemeinschaften bereits Äu�
 
 Waren dabei Abweichungen von den islamischen Glaubensgrundlagen ausschlaggebend? Bitte jeweils die einzelnen Fälle gesondert aufführen.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Bei keinem der Gespräche der Akademie der Weltreligionen mit Vertreterinnen und Vertretern der islamischen Religionsgemeinschaften hat es detaillierte Äußerungen zu beziehungsweise Anfragen an die Lehrinhalte der Studiengänge gegeben. Die islamischen Religionsgemeinschaften haben durchgehend respektiert, dass die Akademie der Weltreligionen den Ansatz verfolgt, sich analytisch-wissenschaftlich mit Religionen und deren Grundlagen in den Urtexten, in der Geschichte und Gegenwart zu befassen. Im Übrigen siehe Drs. 21/8701.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48840"
@@ -121,7 +122,7 @@ Gibt es Untersuchungen über die Lärmemissionen durch Rundflüge und die Auswir
 
 Sofern Auswirkungen vorliegen: Gibt es geplante oder vollzogene Maßnahmen, die diesen Auswirkungen entgegenwirken?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Nein.
 

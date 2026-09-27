@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53582"
@@ -62,7 +63,7 @@ Welche Folgen hat die Unter-Schutz-Stellung für die öffentliche Hand beziehung
 
 Welche Aufgaben und Maßnahmen erwachsen für Hamburg aus der Unter-Schutz-Stellung?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Ohlsdorfer Friedhof ist als Denkmal zu erhalten. Dazu müssen seine wichtigen Charakteristika so bewahrt werden, dass auch bei veränderten Umständen (Bestat-
 

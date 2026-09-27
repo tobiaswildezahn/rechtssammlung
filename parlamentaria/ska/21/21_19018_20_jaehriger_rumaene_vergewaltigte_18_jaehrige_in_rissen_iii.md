@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12972"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68701"
@@ -43,7 +44,7 @@ Ist das Ermittlungsverfahren aufgrund der Tat inzwischen abgeschlossen? Wenn ja,
 
 Ist gegen den Täter Anklage erhoben worden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Beschuldigte wurde mit Urteil vom 20. September 2018 rechtskräftig zu einer Freiheitsstrafe von acht Jahren und sechs Monaten verurteilt, die derzeit vollstreckt wird. Im Übrigen siehe Drs. 21/12972.
 

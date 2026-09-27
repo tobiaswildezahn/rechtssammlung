@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/142", "20/11667", "21/141"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48319"
@@ -41,7 +42,7 @@ Wie viele Vorschulklassen mit jeweils wie vielen Kindern werden an den einzelnen
 
 Wie viele Anmeldungen für die Vorschule konnten an den einzelnen Grundschulen in der Region 18 jeweils nicht angenommen werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Schule geplante
 
@@ -73,7 +74,7 @@ Wie viele Erstwünsche bei der Anmeldung für die erste Klasse konnten jeweils a
 
 Wie viele Erstwünsche bei der Anmeldung für die erste Klasse konnten jeweils an den einzelnen Grundschulen in der Region 18 nicht erfüllt werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Schule
 

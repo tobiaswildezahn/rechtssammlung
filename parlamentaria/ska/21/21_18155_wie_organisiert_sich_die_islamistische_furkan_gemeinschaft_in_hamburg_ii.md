@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18067"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67776"
@@ -52,7 +53,7 @@ Hat der Senat Kenntnisse darüber, in welchen Höhen der Verein „Jugend, Bildu
 Die Organe des Vereins sind laut Satzung die Mitgliederversammlung, der Vorstand und die Revisoren. Der Vorstand bestand im Zeitraum von 2015 bis 2018 aus dem Vorsitzenden, dem Stellvertreter, dem Schriftführer und dem Buchhalter. Der Buchhalter hat im März 2018 den Rücktritt als Vorstandsmitglied erklärt. In der Mitgliederversammlung am
 21.04.2018 wurde die Satzungsänderung beantragt, dass der Buchhalter nicht mehr Teil des Vorstandes sein soll und auch der Abschnitt über die Aufgaben des Buchhalters ist aus der Satzung entfernt worden. a. Wer übernimmt aktuell die Buchhaltung? b. Wann hat der Revisor zuletzt eine ordentliche Kassenprüfung durchgeführt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Dem Senat liegen keine Erkenntnisse im Sinne der Fragestellungen vor.
 

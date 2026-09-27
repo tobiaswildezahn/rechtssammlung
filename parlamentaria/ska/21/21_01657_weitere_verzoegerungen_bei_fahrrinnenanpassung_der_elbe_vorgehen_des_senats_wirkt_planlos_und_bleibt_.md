@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49871"
@@ -109,7 +110,7 @@ Wann genau hat das Bundesverwaltungsgericht die FFH darüber informiert, dass ma
 
 Inwiefern hat die Entscheidung der Richter, sich nicht vorzeitig mit unvollständigen Planunterlagen zu befassen, Einfluss auf den vorgesehenen Zeitplan des Klageverfahrens und ergeben sich nach Einschätzung des Senats oder der zuständigen Behörden daraus weitere Verzögerungen des Verfahrens? Wie sieht der genaue Zeitplan des Klageverfahrens nach derzeitigem Stand aus?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 In einer gerichtlichen Verfügung vom 14. September 2015 hat das Bundesverwaltungsgericht ausgeführt, dass das Gericht die zuvor von Bund und Hamburg mitgeteilten zeitlichen Vorstellungen zum Fortgang des Verfahrens akzeptiert. Es hat sodann ferner mitgeteilt, dass es einer von Bund und Hamburg zuvor freiwillig angebotenen Übersendung der ergänzenden Fachbeiträge – bereits zeitglich mit dem verwaltungsbehördlichen Verfahren zur Einbindung der klagenden Umweltverbände – nicht bedarf, weil sich das Gericht nicht in das bevorstehende Verwaltungsverfahren einschalten, sondern dessen Ausgang abwarten wird.
 

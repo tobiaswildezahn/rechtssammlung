@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 22
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14486", "21/2886", "21/3181", "21/7285", "21/6471", "21/3155", "20/11995", "20/13532"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56011"
@@ -92,11 +93,20 @@ Siehe Antwort zu 8. Im Übrigen: keine.
 ### Frage 8
 
 Gemäß Drs. 21/7285 hat der Senat das einstimmige Ersuchen der Bürgerschaft aus dem Mai 2016, f & w fördern und wohnen AöR kurzfristig in das erweiterte Verantwortungsmodell im Rahmen der Beteiligungssteuerung aufzunehmen, immer noch nicht umgesetzt.
-8.1. Warum hat der Senat bislang noch keinen Vertreter der Finanzbehörde in den Aufsichtsrat von f & w entsandt?
-8.2. Welche Stellen sind im Einzelnen mit der Umsetzung dieses Ersuchens befasst?
-8.3. Wann sollen die diesbezüglichen Überlegungen abgeschlossen sein?
 
-#### Antwort zu Frage 8
+### Frage 8.1
+
+Warum hat der Senat bislang noch keinen Vertreter der Finanzbehörde in den Aufsichtsrat von f & w entsandt?
+
+### Frage 8.2
+
+Welche Stellen sind im Einzelnen mit der Umsetzung dieses Ersuchens befasst?
+
+### Frage 8.3
+
+Wann sollen die diesbezüglichen Überlegungen abgeschlossen sein?
+
+#### Antwort zu Fragen 8, 8.1, 8.2 und 8.3
 
 Der Senat beabsichtigt, über die Entsendung einer Vertreterin oder eines Vertreters der Finanzbehörde in den Aufsichtsrat von f & w fördern und wohnen AöR (f & w) zu entscheiden, nachdem die Beratung der Bürgerschaft über den Gesetzesentwurf zur Änderung des f&w-Gesetzes (siehe Drs. 21/6471), der unter anderem eine Vergrößerung des Aufsichtsrates vorsieht, abgeschlossen ist.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/156", "21/1580"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49997"
@@ -101,11 +102,11 @@ Aus der Drs. 21/1580 geht hervor, dass im Rahmen des HmbPsychKG die Möglichkeit
 
 Datenerhebung durch optisch-elektronische Einrichtungen (sogenannte Videobeobachtung) wird in folgenden Krankenhäusern eingesetzt:
 
- Universitätsklinikum Hamburg-Eppendorf, Klinik und Poliklinik für Psychiatrie und
+– Universitätsklinikum Hamburg-Eppendorf, Klinik und Poliklinik für Psychiatrie und
 
 Psychotherapie
 
- Asklepios Klinik Nord
+– Asklepios Klinik Nord
 
 o Klinik für Gerontopsychiatrie und Zentrum für Ältere Ochsenzoll
 

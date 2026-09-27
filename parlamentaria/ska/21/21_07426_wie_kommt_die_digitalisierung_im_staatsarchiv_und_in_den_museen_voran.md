@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 20
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2694"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56038"
@@ -153,7 +154,7 @@ Wie verläuft das digitale Inventarisierungsprojekt der Museumsstiftungen? Gibt 
 
 Wie entwickelt sich die Quote der digital inventarisierten Sammlungsgegenstände in den staatlichen Museen? Bitte jeweils die Plan- und, sofern vorhanden, die Ist-Werte für 2013, 2014, 2015, 2016, 2017 und 2018 angeben für folgende Häuser: Museum für Völkerkunde, Altonaer Museum, Kunsthalle, Museum für Hamburgische Geschichte, Helms Museum, Museum der Arbeit, Museum für Kunst und Gewerbe.
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Die digitale Inventarisierung der Museumssammlungen wurde im Herbst 2007 als Pilotprojekt für die historischen Museen (Altonaer Museum, Museum für Hamburgische Geschichte, Museum der Arbeit, Helms-Museum) begonnen und 2013 auf die anderen Museumsstiftungen (Hamburger Kunsthalle, Museum für Kunst und Gewerbe, Museum für Völkerkunde) ausgeweitet. Die bei Projektbeginn von den Museen angenommenen Projektabschlüsse wurden in der Zwischenzeit korrigiert. Zu den voraussichtlichen Abschlussdaten und den Quoten siehe Anlage.
 

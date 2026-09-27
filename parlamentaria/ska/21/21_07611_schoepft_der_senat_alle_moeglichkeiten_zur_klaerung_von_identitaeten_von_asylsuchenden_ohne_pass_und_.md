@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56231"
@@ -63,7 +64,7 @@ Greift der Senat im Zusammenhang mit der Identitätsfeststellung auf § 48 Absat
 
 Findet im Zusammenhang mit der Identitätsfeststellung eine Durchsuchung beziehungsweise Überprüfung von Smartphones statt? Wenn ja, erfolgt diese Überprüfung ausschließlich auf Basis der Freiwilligkeit? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Bei entsprechenden konkreten Anhaltspunkten wird eine Durchsuchung der Person beziehungsweise der mitgeführten Sachen durchgeführt. In fast allen Fällen erklären sich die Betroffenen bereit, die mitgeführten Sachen zur Durchsicht vorzulegen und gewähren Einsicht in Telefonregister und Anruflisten der Mobiltelefone.
 

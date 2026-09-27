@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 21
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58317"
@@ -75,7 +76,7 @@ Falls es sich nicht um einen „gefährlichen Ort“ handelt, welche Rechtsgrund
 
 Auf welcher rechtlichen Grundlage und wie oft wurde gegen Bürger/ -innen das Verbot ausgesprochen, von öffentlichem Grund aus Bildaufnahmen von der GeSa zu machen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Abhängig von den Umständen des jeweiligen Einzelfalls ergeben sich die Rechtsgrundlagen aus den einschlägigen Bestimmungen der Strafprozessordnung, dem Gesetz über die Datenverarbeitung bei der Polizei und dem Gesetz zum Schutz der öffentlichen Sicherheit und Ordnung.
 
@@ -166,9 +167,9 @@ keine
 2015  
 zwei Geldstrafen:
 
-  
+–  
 35 Tagessätze zu je  
 10 €  
-  
+–  
 20 Tagessätze zu je  
 30 €

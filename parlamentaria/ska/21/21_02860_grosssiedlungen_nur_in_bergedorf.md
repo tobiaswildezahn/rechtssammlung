@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838", "21/2327"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51166"
@@ -81,7 +82,7 @@ Wie ist der aktuelle Planungsstand des Senats gemeinsam mit dem Bezirksamt und d
 
 Welche Ergebnisse haben die Prüfungen für Nahversorgungsangebote ergeben?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Dem Senat ist es ein Anliegen, von Anfang an funktionierende, stabile Quartiere zu entwickeln, die Teilhabe und Integration ermöglichen. Dementsprechende Planungen für die Entwicklung einer tragfähigen sozialen Infrastruktur und Nahversorgung am Mittleren Landweg sind in Erarbeitung und derzeit noch nicht abgeschlossen.
 

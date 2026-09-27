@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49981"
@@ -103,7 +104,7 @@ Wird die zuständige Behörde die von den Anwohnern gemeldeten Verstöße gegen 
 a) Wenn ja, in welcher Form soll dies erfolgen?
 b) Wenn nein, weshalb wird diesen Verstößen nicht nachgegangen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 

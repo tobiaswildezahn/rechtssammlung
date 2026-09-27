@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 18
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51530"
@@ -39,33 +40,33 @@ Vor diesem Hintergrund frage ich den Senat:
 
 Das Hans-Fitze-Haus ist eine Einrichtung des Bezirks Hamburg-Harburg. Im Hans- Fitze-Haus wird das von der passage gGmbH getragene Projekt des Europäischen Sozialfonds (ESF) „Hans-Fitze-Haus – Zentrum für soziale Integration von suchtgefährdeten Menschen“ (http://www.esf-hamburg.de/projekte-neu/4635624/hans-fitzehaus/) mit einer Laufzeit vom 01.01.2014 bis 31.12.2016 durchgeführt. Dieses richtet sich mit unterstützenden Angeboten an langzeitarbeitslose, suchtgefährdete Menschen im Sozialraum Harburg. Ziele des Projektes sind die Teilhabe der Zielgruppe am sozialen Leben, Hilfe zur Selbsthilfe, die Herstellung und Stabilisierung der Arbeitsfähigkeit sowie die Verbesserung des Zugangs zu arbeitsmarktpolitischen Maßnahmen und Beschäftigung. Dazu wird ein integratives Konzept umgesetzt, in dem das Hans-Fitze-Haus als stationäres Zentrum für alle Angebote fungiert. Die wesentlichen Aufgaben des ESF-Projektes sind:
 
- Durchführung von aufsuchender Sozialarbeit auf den öffentlichen Plätzen Har-
+– Durchführung von aufsuchender Sozialarbeit auf den öffentlichen Plätzen Har-
 
 burgs;
 
- Schaffung eines Aufenthalts- und Freizeitangebotes unter dem Fokus Hilfe zur
+– Schaffung eines Aufenthalts- und Freizeitangebotes unter dem Fokus Hilfe zur
 
 Selbsthilfe;
 
- Konzeptionierung und Durchführung eines neuen, niedrigschwelligen arbeits-
+– Konzeptionierung und Durchführung eines neuen, niedrigschwelligen arbeits-
 
 marktpolitischen Ansatzes zur tageweisen Beschäftigung in für die Zielgruppe geeignete Arbeitsfelder;
 
- Akquise von für die Zielgruppe geeigneten Arbeitsaufträgen (Grünpflege, Veran-
+– Akquise von für die Zielgruppe geeigneten Arbeitsaufträgen (Grünpflege, Veran-
 
 staltungshelfer, Renovierung, Abräumdienste, Handwerk et cetera) und deren Vergabe in Form einer Job-Börse;
 
- Motivation und Einbindung von Besuchern des Freizeittreffs und Personen aus
+– Motivation und Einbindung von Besuchern des Freizeittreffs und Personen aus
 
 Straßenkontakten in Freizeitaktivitäten;
 
- Sozialberatung, Arbeitserprobung sowie tageweise Beschäftigung;
+– Sozialberatung, Arbeitserprobung sowie tageweise Beschäftigung;
 
- Bewältigung von individuellen Krisen im Zusammenhang mit Arbeitslosigkeit, Dro-
+– Bewältigung von individuellen Krisen im Zusammenhang mit Arbeitslosigkeit, Dro-
 
 gensucht, Wohnungsproblemen und Schulden durch Einzelberatung und Casemanagement;
 
- Beratung zu und Vermittlung in bestehende Angebote und Maßnahmen der Sucht-
+– Beratung zu und Vermittlung in bestehende Angebote und Maßnahmen der Sucht-
 
 kranken- und Wohnungslosenhilfe, Schuldnerberatung sowie in bestehende arbeitsmarktpolitische Angebote.
 

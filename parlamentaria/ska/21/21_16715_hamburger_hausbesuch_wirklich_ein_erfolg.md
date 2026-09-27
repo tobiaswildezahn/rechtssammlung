@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 22
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16711"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66256"
@@ -117,35 +118,35 @@ Welche Themen werden bei einem solchen Hausbesuch abgehandelt?
 
 Welchen Einfluss haben die Seniorinnen und Senioren auf das Gesprächsthema?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die Themen richten sich nach den Wünschen, Interessen und Bedarfen der besuchten Person. Im Zeitraum September 2018 bis Dezember 2018 sind folgende Themen behandelt worden:
 
- Wohnumfeld : 28 Prozent
+– Wohnumfeld : 28 Prozent
 
- Wohnsituation: 32 Prozent
+– Wohnsituation: 32 Prozent
 
- Soziale Kontakte: 46 Prozent
+– Soziale Kontakte: 46 Prozent
 
- Einsamkeit: 6 Prozent
+– Einsamkeit: 6 Prozent
 
- Gesellschaftliche Einbindung: 14 Prozent
+– Gesellschaftliche Einbindung: 14 Prozent
 
- Ehrenamtliches Engagement: 3 Prozent
+– Ehrenamtliches Engagement: 3 Prozent
 
- Mobilität: 44 Prozent
+– Mobilität: 44 Prozent
 
- Bewegung/Sturz: 17 Prozent
+– Bewegung/Sturz: 17 Prozent
 
- Ernährung: 8 Prozent
+– Ernährung: 8 Prozent
 
- Gesundheitliche Situation: 37 Prozent
+– Gesundheitliche Situation: 37 Prozent
 
- Hauswirtschaftliche Hilfen: 12 Prozent
+– Hauswirtschaftliche Hilfen: 12 Prozent
 
- Pflegebedarf: 10 Prozent
+– Pflegebedarf: 10 Prozent
 
- Angehörigenpflege: 10 Prozent
+– Angehörigenpflege: 10 Prozent
 
 ### Frage 13
 
@@ -155,7 +156,7 @@ In wie vielen Fällen wurden Seniorinnen und Senioren mit etwaigen Anliegen an a
 
 Wurden als Folge der Hausbesuche Hinweise an weitere behördliche oder soziale Stellen gegeben, welche diese zu weiteren Handlungen veranlassten? Wenn ja, welche?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Drs. 21/16711.
 

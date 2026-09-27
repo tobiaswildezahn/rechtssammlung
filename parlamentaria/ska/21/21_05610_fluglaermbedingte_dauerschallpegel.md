@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54101"
@@ -43,7 +44,7 @@ Wie viele Menschen sind in Hamburg einem fluglärmbedingten Dauerschallpegel von
 
 Wie haben sich diese Kennwerte seit 2010 verändert? Bitte jahresweise und nach Stadtteilen sortiert aufgliedern.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Entsprechend den rechtlichen Vorgaben des § 47c Bundes-Immissionsschutzgesetz, der Verordnung über die Lärmkartierung – 34. Bundes-Immissionsschutzverordnung sowie der Richtlinie 2002/49/EG des Europäischen Parlamentes wurden Strategische Lärmkarten in den Jahren 2007 und 2012 erarbeitet. Die jeweils errechneten und dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit beziehungsweise der Europäischen Kommission übermittelten Zahlen der von Fluglärm betroffenen Personen sind in den folgenden Tabellen dargestellt:
 

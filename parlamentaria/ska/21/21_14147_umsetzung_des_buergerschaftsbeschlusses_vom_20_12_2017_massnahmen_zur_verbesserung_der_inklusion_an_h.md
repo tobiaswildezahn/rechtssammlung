@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 19
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11428"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63550"
@@ -137,7 +138,7 @@ die für die allgemeinen Schulen für die Klassenstufen VSK-4 errechnete Förder
 
 die für die allgemeinen Schulen für die Klassenstufen 5 – 10 gemäß Ziffern 5. und 6. errechnete Förderressource den allgemeinen Schulen als schülerbezogene Ressource entsprechend des jeweiligen Anteils der Schülerinnen und Schülern mit LSE-Diagnose zur Verfügung zu stellen, wobei die schülerbezogene Ressource an allgemeinen Schulen mit Sozialindex 1 und 2 um 10 Prozent höher liegt als an den anderen Schulen.“ a. In welchen Grundschulen wurde die Halbtagsressource von 5,03 WAZ und in welchen die Ganztagsressource von 5,39 WAZ für die Personalzuweisung zugrunde gelegt unter Angabe des jeweiligen Ganztagsmodells GBS beziehungsweise Ganztagsschule nach Rahmenmodell?
 
-#### Antwort zu Fragen 4, 6, 7, 8
+#### Antwort zu Fragen 4 und 6 bis 8
 
 Siehe Anlage 1.
 

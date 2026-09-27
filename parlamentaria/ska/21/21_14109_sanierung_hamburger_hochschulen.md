@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12513"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63503"
@@ -47,15 +48,15 @@ Welche Gebäude sollen nach jetzigem Planungsstand kurz-, mittel- und langfristi
 
 #### Antwort zu Frage 1
 
- Philosophenturm: Von-Melle-Park 6, Campus Von-Melle-Park; Bürogebäude, Men-
+– Philosophenturm: Von-Melle-Park 6, Campus Von-Melle-Park; Bürogebäude, Men-
 
 sa, Grundsanierung, Entwurfsplanung liegt vor, ein detaillierter Zeitplan wird mit der Bürgerschaftsbefassung vorgelegt
 
- Geomatikum: Bundesstraße 55, Campus Bundesstraße; Büro-, Labor, Hörsaalge-
+– Geomatikum: Bundesstraße 55, Campus Bundesstraße; Büro-, Labor, Hörsaalge-
 
 bäude, Grundsanierung, Raum- und Funktionsprogramm wird erstellt, Baubeginn nach Fertigstellung des Neubaus MIN-Forum angestrebt
 
- Schaugewächshaus, Alter Botanischer Garten, öffentliche Nutzung, Grundinstand-
+– Schaugewächshaus, Alter Botanischer Garten, öffentliche Nutzung, Grundinstand-
 
 setzung, Beauftragung der Planung in Vorbereitung
 
@@ -70,27 +71,27 @@ Für welche Gebäude ist ein Neubau vorgesehen, ab wann können die bisherigen G
 
 Die Gebäude, die durch Neubauten ersetzt werden, können bis zum Auszug genutzt werden. Hier werden nur Bestandsgebäude genannt, die nach dem Umzug der Nutzer in den Neubau aufgegeben werden.
 
- Vogt-Kölln-Straße 30, Standort Stellingen, Büro-, Seminar-, Hörsaal-, Bibliotheks-
+– Vogt-Kölln-Straße 30, Standort Stellingen, Büro-, Seminar-, Hörsaal-, Bibliotheks-
 
 und Mensaflächen, Vorbereitung der Ausschreibungen, im Übrigen siehe Drs. 21/12513
 
- Olbersweg 24, Altona, Büro- und Laborflächen, Im Bau, Fertigstellung Neubau
+– Olbersweg 24, Altona, Büro- und Laborflächen, Im Bau, Fertigstellung Neubau
 
 „Haus der Erde“ 2019
 
 Die Neubauten für die folgenden Gebäude befinden sich in der vorbereitenden Planung. Zwischenlösungen sind nicht erforderlich beziehungsweise geplant. Inwieweit bis zum Umzug in den Neubau bauliche Maßnahmen in den Bestandsgebäuden zur Sicherung des Betriebes umgesetzt werden müssen, ist in Prüfung (siehe Vorbemerkung).
 
- Martin-Luther-King Platz 6, Campus Bundesstraße, Seminar-, Büro- und Labor-
+– Martin-Luther-King Platz 6, Campus Bundesstraße, Seminar-, Büro- und Labor-
 
 räume, Hörsäle
 
- Bundesstraße 45, Campus Bundesstraße, Seminar-, Büro- und Laborräume,
+– Bundesstraße 45, Campus Bundesstraße, Seminar-, Büro- und Laborräume,
 
 Hörsäle
 
- Grindelallee 117 (VG II), Campus Bundesstraße, Seminar-, Büro- und Laborräume
+– Grindelallee 117 (VG II), Campus Bundesstraße, Seminar-, Büro- und Laborräume
 
- Jungiusstraße 9+11, Standort Jungiusstraße, Seminar-, Büro- und Laborräume und
+– Jungiusstraße 9+11, Standort Jungiusstraße, Seminar-, Büro- und Laborräume und
 
 Hörsäle
 
@@ -100,11 +101,11 @@ Welche Fachbereiche sind von den unter Frage 1. genannten baulichen Maßnahmen b
 
 #### Antwort zu Frage 3
 
- Philosophenturm: Philosophie, Geschichte, Sprache, Literatur und Medien
+– Philosophenturm: Philosophie, Geschichte, Sprache, Literatur und Medien
 
- Geomatikum: Mathematik, Geowissenschaften
+– Geomatikum: Mathematik, Geowissenschaften
 
- Schaugewächshaus: Biologie
+– Schaugewächshaus: Biologie
 
 ### Frage 4
 

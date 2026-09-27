@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 18
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8962"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65760"
@@ -77,7 +78,7 @@ Mit welchem zusätzlichen Arbeitsaufkommen rechnen die bezirklichen Ausländerdi
 
 Ist dem Senat bekannt welchen Aufenthaltsstatus die Mehrzahl der hier lebenden britischen Staatsbürger nach dem Brexit erhalten werden? a. Wie werden die zuständigen Stellen in den Bezirken konkret vorbereitet, um eine geregelte Umstellung auf das mögliche Erfordernis der Beantragung von Aufenthaltsgenehmigungen für die mehr als 4 000 Briten in Hamburg zu ermöglichen? b. Welche personellen und technischen Kapazitäten werden hierzu vorgehalten? Ab wann und für welchen Zeitraum sind diese verfügbar?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Überlegungen dazu sind noch nicht abgeschlossen.
 

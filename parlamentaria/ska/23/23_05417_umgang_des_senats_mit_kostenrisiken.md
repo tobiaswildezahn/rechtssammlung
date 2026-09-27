@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 20
 antwortbloecke: 0
 beantwortet: false
+status: "unbeantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105334"
@@ -27,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Sandro Kappe (CDU) vom 18.09.26 und Antwort des Senats · Drucksache vom 18.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105334) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105334/23_05417_umgang_des_senats_mit_kostenrisiken)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

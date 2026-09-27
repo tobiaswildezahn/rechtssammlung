@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50254"
@@ -49,7 +50,7 @@ Welche Maßnahmen werden derzeit zur Verbesserung der Anbindung der Stadtteile L
 
 Welche Ausweitungen des Fahrplanangebots sollen im Einzelnen jeweils wann auf der MetroBus-Linie 24 sowie auf den Buslinien 174, 176, 276, 374, 375, 474 und 574 vorgenommen werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zum Fahrplanwechsel im Dezember 2015 wird auf der StadtBus-Linie 176 eine Fahrt nach Schulende bis nach U Ohlstedt verlängert. Im Übrigen siehe Vorbemerkung.
 

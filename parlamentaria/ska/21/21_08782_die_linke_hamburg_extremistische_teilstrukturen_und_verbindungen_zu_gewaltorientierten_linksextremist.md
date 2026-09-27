@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 5
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8442"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57528"
@@ -45,6 +46,6 @@ Welche Kenntnisse hat der Senat beziehungsweise die zuständige Behörde über A
 
 Inwieweit bestehen nach Kenntnis des Senats beziehungsweise der zuständigen Behörde weitere personelle Verbindungen und Verflechtungen zwischen Mitgliedern der Partei DIE LINKE des Landesverbandes Hamburg, der Bürgerschaftsfraktion DIE LINKE oder der Hamburger Jugendorganisation Linksjugend (`solid) und der PKK? Bitte umfassend darlegen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/8442.

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5231", "21/11471", "21/11447", "21/11547", "21/11702", "21/12079", "21/12594", "21/12702"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62178"
@@ -73,7 +74,7 @@ Welche der in den Bürgerverträgen vereinbarten und noch nicht umgesetzten konk
 
 Welche der in den Bürgerverträgen vereinbarten und noch nicht umgesetzten Maßnahmen sollen aus welchen Gründen nicht realisiert werden? (Bitte nach Bezirk aufschlüsseln.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Bürgerverträge enthalten mittel- und langfristige Maßnahmen, die mit zahlreichen Beteiligten umgesetzt werden und deren Umsetzung sich zum Teil über einen längeren Prozess über mehrere Jahre erstreckt. Zahlreiche Maßnahmen wurden bereits konkret begonnen oder umgesetzt, andere befinden sich noch im Umsetzungs- beziehungsweise Planungsprozess. Zum Stand der Umsetzung siehe Drs. 21/11471. Im Übrigen siehe http://www.hamburg.de/zkf-pressemeldungen/10287714/2018-01-19- zkf-prognose-und-kapazitaetsplanung/ sowie Drs. 21/11447, Drs. 21/11547, Drs. 21/11702, Drs. 21/12079, Drs. 21/12594 und Drs. 21/12702.
 

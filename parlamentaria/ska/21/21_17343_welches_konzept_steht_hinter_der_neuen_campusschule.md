@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 22
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66943"
@@ -105,7 +106,7 @@ Ist die Campusschule ein neuer Schultyp? Wenn ja, inwiefern? Wenn nein, warum ni
 
 Welche Hamburger beziehungsweise bundesweiten Vorbilder gelten für die neu zu gestaltenden Campusschulen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Es gibt in Hamburg bereits zwei Campus-Stadtteilschulen, die im Rahmen der bestehenden schulrechtlichen Vorgaben geführt werden, siehe auch Vorbemerkung.
 

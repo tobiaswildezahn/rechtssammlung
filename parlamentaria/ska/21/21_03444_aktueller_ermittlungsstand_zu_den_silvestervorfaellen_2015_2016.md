@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2739", "21/2798"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51790"
@@ -145,7 +146,7 @@ In wie vielen Fällen sind die Ermittlungen der Staatsanwaltschaft abgeschlossen
 
 Sind bereits Anklageerhebungen erfolgt beziehungsweise wann ist damit zu rechnen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Gegen den am 21. Januar 2016 in Untersuchungshaft genommenen Beschuldigten wurde mit Verfügung vom 26. Februar 2016 eine Anklage zum Amtsgericht Hamburg, Schöffengericht, wegen Verdachts der gemeinschaftlichen sexuellen Nötigung und der Beleidigung fertiggestellt. Die Übersendung der Anklage an das Gericht ist am 1. März 2016 erfolgt.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7479", "21/1122", "21/2852"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56511"
@@ -44,7 +45,7 @@ Wie hat sich die Überstundensituation bei der Hamburger Polizei im Dezember (St
 
 Wie viele Überstunden haben die Bediensteten der Polizei nunmehr durchschnittlich (Stand 31.12.2016)? Bitte insgesamt und nach Bereichen aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die erfragten Daten des Stichtags 31. Dezember 2016 sind in der nachfolgenden Tabelle dargestellt. Aus technischen Gründen kann eine Auswertung nicht auf 24 Uhr beschränkt werden. Die Auswertung umfasst auch die Überstunden der Nachtdienste vom 31. Dezember 2016 zum 1. Januar 2017.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14600"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54013"
@@ -184,7 +185,7 @@ Bei wie vielen der oben genannten Personen erfolgte ein Polizeieinsatz? Welche K
 
 Wie viele Personen wurden nach einem Polizeieinsatz in einer Ausnüchterungszelle untergebracht (bitte aufgeschlüsselt nach Alter der betreffenden Personen und Monaten für die Jahre 2011 bis 2016)? Welche Kosten sind dabei im Durchschnitt pro Person entstanden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Statistiken im Sinne der Fragestellungen werden bei der Polizei nicht geführt. Für die Beantwortung wäre eine manuelle Durchsicht sämtlicher infrage kommender Vorgänge des erfragten Zeitraums bei den jeweils zuständigen Dienststellen der Polizei erforderlich. Eine Auswertung von mehreren Zehntausend Vorgängen ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -196,7 +197,7 @@ Wer übernimmt die Kosten aus den oben genannten Punkten 3., 4. und 5?
 
 In welcher Höhe müssen sich die betreffenden Personen (oder deren Erziehungsberechtigte) an diesen Kosten beteiligen? Schulden Patienten der Stadt Hamburg noch diverse Beträge? Wenn ja, in welcher Gesamthöhe?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Für die Polizei gilt, dass die in Bezug auf die Fragen 4. und 5. entstehenden Kosten nicht für jeden Einsatz gesondert erhoben werden. Sie sind generell von den im Haushalt der Polizei zur Verfügung stehenden Mitteln gedeckt.
 
@@ -212,7 +213,7 @@ Welche Maßnahmen gedenkt der Senat zu ergreifen, um die Zahl der alkoholintoxik
 
 Welche Maßnahmen gedenkt der Senat zu ergreifen, um die Zahl der alkoholintoxikierten Personen in Hamburg kurzfristig zu reduzieren?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 In welcher Weise präventive Maßnahmen positiven Einfluss auf die Konsummuster einzelner Zielgruppen nehmen können, zeigen die umfangreichen bundesweiten Alkoholpräventionskampagnen der Bundeszentrale für gesundheitliche Aufklärung (BZgA) mit den Zielgruppen Kinder und Jugendliche. Effekte dieser bundesweiten präventiven Maßnahmen sind auch in Hamburg spürbar. Die jüngste SCHULBUS-Studie zeigt eine rückläufige Entwicklung des Alkoholkonsums.
 

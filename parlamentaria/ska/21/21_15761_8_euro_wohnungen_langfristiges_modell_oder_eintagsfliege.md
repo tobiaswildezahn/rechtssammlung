@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65264"
@@ -75,7 +76,7 @@ Wie viel Wohnraum für 8 Euro Miete pro Quadratmeter wurde seitdem fertiggestell
 
 Wie viel Wohnraum für 8 Euro Miete pro Quadratmeter wurde seitdem baugenehmigt und befindet sich im Bau, wurde aber noch nicht fertiggestellt? Bitte Anzahl der Wohneinheiten und Quadratmeter Wohnfläche angeben und aufschlüsseln nach Bezirken und Kalenderjahren der Baugenehmigung und der geplanten Fertigstellung angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Baugenehmigungen  
 Wohneinheiten  
@@ -144,7 +145,7 @@ Für welche Zeiträume sind die Miethöhen festgeschrieben?
 
 Werden in dem Programm Steigerungen der Lebenshaltungskosten umgelegt, oder gibt es festgelegte Mietsteigerungen und wie sind diese gegebenenfalls festgelegt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Bei den ersten Ausschreibungen des 8-Euro-Wohnungsbaus darf die vorgegebene Miete von 8,00 Euro/mtl. je Quadratmeter Wohnfläche innerhalb eines Zeitraums von fünf Jahren ab Aufnahme der Nutzung des Gebäudes, auch bei einem Mieterwechsel, nicht überschritten werden. Mieterhöhungen sind in diesem Zeitraum nicht zulässig. Nach Ablauf dieses Zeitraums gelten die Regelungen zur Erhöhung der Miete nach dem BGB.
 

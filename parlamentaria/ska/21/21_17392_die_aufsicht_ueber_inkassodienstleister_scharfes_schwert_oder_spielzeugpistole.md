@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66974"
@@ -60,19 +61,19 @@ a) Woher erfahren Betroffene überhaupt, dass das Amtsgericht Hamburg die Aufsic
 
 Betroffene haben die Möglichkeit, sich aus den folgenden Quellen zu informieren:
 
- über die Bekanntmachungsplattform für außergerichtliche Rechtsdienstleistungen
+– über die Bekanntmachungsplattform für außergerichtliche Rechtsdienstleistungen
 
 unter https://www.rechtsdienstleistungsregister.de/,
 
- über die Homepage des Amtsgerichts Hamburg unter https://justiz.hamburg.de/
+– über die Homepage des Amtsgerichts Hamburg unter https://justiz.hamburg.de/
 
 amtsgericht/verwaltung/1287240/rechtsdienstleistungsgesetz/,
 
- über die üblicherweise auf den Internetseiten der jeweiligen Inkassodienstleister im
+– über die üblicherweise auf den Internetseiten der jeweiligen Inkassodienstleister im
 
 Impressum zu findenden Angaben zur zuständigen Aufsichtsbehörde sowie
 
- über eine Vielzahl von (Verbraucherschutz-)Foren im Internet.
+– über eine Vielzahl von (Verbraucherschutz-)Foren im Internet.
 
 b) Welche Informationsmaßnahmen gibt es im Einzelnen?
 
@@ -97,11 +98,11 @@ Seit 2016 sind vier Widerrufsbescheide und ein Auflagenbescheid ergangen, wobei 
 
 b) Um welche Maßnahmen handelte es sich hierbei jeweils?
 
- Zwei Widerrufsbescheide im Jahre 2016,
+– Zwei Widerrufsbescheide im Jahre 2016,
 
- einen Auflagenbescheid 2018 (nicht bestandskräftig),
+– einen Auflagenbescheid 2018 (nicht bestandskräftig),
 
- zwei Widerrufsbescheide 2018, von denen einer bestandskräftig ist.
+– zwei Widerrufsbescheide 2018, von denen einer bestandskräftig ist.
 
 In mindestens fünf weiteren Beschwerdeverfahren wurde zwischen 2016 und 2018 von der Erteilung einer Auflage abgesehen, wenn Inkassounternehmen sich verbindlich gegenüber dem Präsidenten des Amtsgerichts Hamburg selbst verpflichteten, eine beanstandete Geschäftspraxis unverzüglich zu beenden.
 

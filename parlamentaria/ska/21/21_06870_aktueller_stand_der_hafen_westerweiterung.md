@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2368"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55453"
@@ -47,7 +48,7 @@ Wie ist der aktuelle Stand im Planfeststellungsverfahren zur Hafen- Westerweiter
 
 In welcher Phase ist das Verfahren?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Verfahren wird in der 49. KW abgeschlossen sein.
 

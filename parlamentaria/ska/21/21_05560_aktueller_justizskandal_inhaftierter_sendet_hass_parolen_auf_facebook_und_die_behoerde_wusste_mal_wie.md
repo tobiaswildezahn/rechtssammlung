@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 38
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5544", "21/5520", "21/378", "21/5121", "21/276"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54042"
@@ -141,7 +142,7 @@ Wie viele Stellen stehen derzeit für sogenanntes Wachpersonal der Inhaftierten 
 
 Wie viele Stellen standen in den Jahren 2010 bis 2015 für sogenanntes Wachpersonal der Inhaftierten in den JVAs zur Verfügung (bitte nach Jahren und JVAs gliedern)?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Bei dem Tätigkeitsfeld der AVD-Bediensteten im Justizvollzug handelt es sich um eine vielseitige Aufgabe mit hoher sozialer Verantwortung. Im Justizvollzug werden keine dieser Bediensteten ausschließlich für Bewachungsaufgaben eingesetzt.
 
@@ -247,7 +248,7 @@ Zu welchen Zeiten befand sich der Inhaftierte in seiner Zelle und wie oft hatte 
 
 Wäre aus Sicht der Behörde der Vorfall mit Abdul S. auch passiert, wenn ausreichend Personal an Bediensteten in der JVA Hahnöfersand vorhanden gewesen wäre (bitte begründen)?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Der Gefangene befand sich zu den Einschlusszeiten im Haftraum, das ist wochentags zwischen 18.30 beziehungsweise 19.00 bis 6.30 Uhr morgens, am Wochenende von
 17.30 beziehungsweise 18.00 Uhr bis 10.00 Uhr morgens und zum Mittagseinschluss von 12.00 bis 14.00 Uhr. Wann er sich während der Stationsfreizeit am Nachmittag im Haftraum aufhielt, kann nicht festgestellt werden. Die Gefangenen im Wohngruppenvollzug dürfen sich während dieser Zeit frei auf der Station bewegen und sich gegenseitig in den Hafträumen besuchen.

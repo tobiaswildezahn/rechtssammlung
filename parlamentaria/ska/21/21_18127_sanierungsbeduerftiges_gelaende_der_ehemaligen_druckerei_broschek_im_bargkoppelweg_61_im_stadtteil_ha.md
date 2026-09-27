@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67745"
@@ -43,7 +44,7 @@ Wie gestalten sich die Eigentumsverhältnisse des Grundstücks der ehemaligen Dr
 
 Welche Größe hat das betroffene Grundstück?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das in Rede stehende Grundstück in der Gemarkung Meiendorf besteht aus mehreren Flurstücken und hat eine Größe von insgesamt 51 236 m². Es befindet sich nach Kenntnis der zuständigen Behörde seit dem 3. Mai 2018 in Privatbesitz. Am 12. November 2012 ging das Grundstück aufgrund einer Auflassung in den Besitz einer Gesellschaft bürgerlichen Rechts (GbR) über, aus der das Grundstück in das derzeitige Privateigentum vererbt wurde.
 

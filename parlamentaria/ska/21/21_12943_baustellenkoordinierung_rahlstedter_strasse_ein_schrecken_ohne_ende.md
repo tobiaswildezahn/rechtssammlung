@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 22
 antwortbloecke: 21
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62266"
@@ -63,7 +64,7 @@ Wer hat den Bauzeitenplan für die geplanten Baumaßnahmen im Abschnitt Rahlsted
 
 Wer hat die geplanten Baumaßnahmen im Abschnitt Rahlstedter Straße bis Ellerneck gemäß dem Bauzeitenplan vorab mit den Leitungsträgern abgestimmt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der LSBG hat unter Abstimmung mit den beteiligten Leitungsunternehmen den Bauzeitenplan aufgestellt. Die Abstimmung hat vor dem Beginn der Leitungsbauarbeiten stattgefunden und verläuft in der Regel wie folgt:
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 24
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56962"
@@ -82,7 +83,7 @@ Stellt die Vereinbarung „Erinnern an die Medikamenteneinnahme“ eine Übernah
 
 Ist es richtig, dass die Übernahme der Personensorge durch Lehrkräfte dazu führt, dass diese damit Verpflichtete werden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Ja. Das bedeutet, dass die verpflichtete Person die Verantwortung für das Erinnern an die Medikamenteneinnahme entsprechend der mit den Sorgeberechtigten getroffenen Vereinbarung übernimmt und damit ihrer Dienstpflicht nachkommt.
 
@@ -133,7 +134,7 @@ Stellt die Freigabe einer Eingabe in die Insulinpumpe einer Schülerin oder eine
 
 Ist insbesondere die Beantwortung der Frage eines Schülers oder einer Schülerin, ob er oder sie die Injektion durch die Insulinpumpe auslösen soll, durch die Dienstanweisung im Rahmen der Erinnerung an die Medikamenteneinnahme gedeckt oder stellt die Beantwortung einer derartigen Frage vielmehr eine medizinische Hilfsmaßnahme dar und ist demnach nur auf freiwilliger Basis möglich?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Das Auslösen einer Insulinabgabe mittels einer Insulinpumpe stellt eine medizinische Hilfsmaßnahme dar, die von den betroffenen Kindern selbst beherrscht wird. Das zuvor notwendige Kontrollieren des von den Kindern eingegebenen Wertes ist eine reine Ablesetätigkeit und stellt keine medizinische Hilfsmaßnahme dar.
 

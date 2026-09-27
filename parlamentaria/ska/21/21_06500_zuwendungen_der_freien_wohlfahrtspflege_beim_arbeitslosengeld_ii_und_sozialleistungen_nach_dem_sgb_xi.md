@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 17
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55032"
@@ -43,7 +44,7 @@ Welche Wohlfahrtsverbände oder Stiftungen sind der Stadt Hamburg bekannt? Bitte
 
 Welche Wohlfahrtsverbände gelten nach Frage 1. als Spitzenverbände, Sonstige Stellen oder ähnliche der freien Wohlfahrtspflege? Bitte einzeln auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die zuständige Behörde führt die Rechtsaufsicht über aktuell 1.304 rechtsfähige öffentliche Stiftungen, die ihren Sitz in der Freien und Hansestadt Hamburg haben. Öffentliche Stiftungen sind Stiftungen, die überwiegend der Allgemeinheit dienen, insbesondere gemeinnützige, mildtätige oder kirchliche Zwecke im Sinne der Abgabenordnung verfolgen. Eine Verteilung auf die Bezirke wird statistisch nicht erfasst.
 
@@ -51,17 +52,17 @@ Eine Vielzahl der Stiftungen fördert das Sozialwesen oder das Gesundheitswesen.
 
 Gleichermaßen gibt es eine Vielzahl von Wohlfahrtsverbänden. Zu nennen sind insbesondere folgende anerkannte Spitzenverbände der freien Wohlfahrtspflege, die in der Arbeitsgemeinschaft der Freien Wohlfahrtspflege Hamburg e.V. (AGFW) zusammengeschlossen sind
 
- Arbeiterwohlfahrt Landesverband Hamburg e.V.
+– Arbeiterwohlfahrt Landesverband Hamburg e.V.
 
- Caritasverband für Hamburg e.V.
+– Caritasverband für Hamburg e.V.
 
- Der PARITÄTISCHE Wohlfahrtsverband Hamburg e.V.
+– Der PARITÄTISCHE Wohlfahrtsverband Hamburg e.V.
 
- Deutsches Rotes Kreuz e.V.
+– Deutsches Rotes Kreuz e.V.
 
- Diakonisches Werk Hamburg – Landesverband der Inneren Mission e. V.
+– Diakonisches Werk Hamburg – Landesverband der Inneren Mission e. V.
 
- Jüdische Gemeinde in Hamburg KdöR
+– Jüdische Gemeinde in Hamburg KdöR
 
 ### Frage 3
 

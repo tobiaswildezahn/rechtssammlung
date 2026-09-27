@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2053", "21/2195", "21/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54243"
@@ -59,7 +60,7 @@ Mit welcher Summe in Gesamt wird im Haushalt 2017/2018 in Tausend Euro für die 
 
 Wie hoch waren die Transferkosten in Tausend Euro der Förderung der Sozialkarte gesamt jeweils in den Jahren 2014 und 2015?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/5000.
 

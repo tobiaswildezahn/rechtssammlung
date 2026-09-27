@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 14
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2853"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61845"
@@ -130,7 +131,7 @@ Wie hoch waren die Einnahmen aus der Parkraumbewirtschaftung? Bitte darstellen n
 
 Wie viele Ordnungswidrigkeitsanzeigen im ruhenden Verkehr gab es in den Jahren 2016 und 2017?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 2016  
 2017  

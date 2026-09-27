@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12544", "21/13971", "20/9096"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63653"
@@ -43,13 +44,13 @@ Der von der Fragestellerin dargestellt Sachverhalt trifft nicht zu. Eine fläche
 
 Die gegenwärtig geltenden Verfahren zur Steuerung des Einsatzes von Schulbegleitungen auf Rechtsgrundlage des § 12 Absatz 4 Hamburgisches Schulgesetz (HmbSG) wurden in den Jahren 2014 und 2015 schrittweise eingeführt und seitdem erfolgreich umgesetzt. Der Verfahrensablauf wird durch die beiden nachfolgend genannten Dienstanweisungen umfassend geregelt:
 
- Dienstanweisung zum Einsatz von Schulbegleitungen für Schülerinnen und Schü-
+– Dienstanweisung zum Einsatz von Schulbegleitungen für Schülerinnen und Schü-
 
 ler mit erheblichem Betreuungs- und Unterstützungsbedarf aufgrund einer Behinderung (vom 01.03.2015)
 
 und
 
- Dienstanweisung zum Einsatz von Schulbegleitungen für Schülerinnen und Schü-
+– Dienstanweisung zum Einsatz von Schulbegleitungen für Schülerinnen und Schü-
 
 ler mit erheblichem Betreuungs- und Unterstützungsbedarf aufgrund einer komplexen psychosozialen Beeinträchtigung (vom 25.03.2014).
 
@@ -73,7 +74,7 @@ Welche davon waren
 a) Neubedarfe?
 b) Welche sind fortführende Schulbegleitungen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Schuljahr 2017/2018 haben 1.008 Schüler und Schülerinnen eine Schulbegleitung gemäß dem ReBBZ-Verfahren erhalten.
 

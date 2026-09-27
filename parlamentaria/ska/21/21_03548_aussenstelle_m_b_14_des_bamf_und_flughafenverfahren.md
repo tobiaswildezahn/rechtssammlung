@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51913"
@@ -77,6 +78,6 @@ In wie vielen Fällen sind Ausländer, die nach eingangs skizzierter Regelung da
 
 Sollte es zu Fällen wie unter 5. gekommen sein: Mit welcher Begründung wurde den betreffenden Ausländern die Einreise gestattet?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antwort zu 3.

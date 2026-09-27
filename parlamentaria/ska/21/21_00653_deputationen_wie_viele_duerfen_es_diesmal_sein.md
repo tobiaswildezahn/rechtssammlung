@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9721", "19/6394"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48815"
@@ -67,7 +68,7 @@ Was kostet eine durchschnittliche Deputation den Steuerzahler jährlich?
 
 Gibt es Unterschiede bei den jährlichen Kosten der Deputationen? Wenn ja, bei welchen Deputationen, wie hoch sind sie und wodurch werden sie verursacht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die durchschnittlichen Kosten einer Deputation (Sitzungsgelder der Deputierten und Personalkosten der Behörden) sind im Wesentlichen abhängig von der Anzahl der Sitzungen der Deputation sowie ihrer Ausschüsse, von der Anzahl der Sitzungsteilnehmer, vom Umfang der organisatorischen Betreuung sowie der Wertigkeit der damit befassten Stellen(-anteile). Auf Grundlage von Erhebungen für den Zeitraum von 2008 bis 2013 (siehe Drs. 20/9721 und 19/6394) ergeben sich durchschnittliche jährliche Kosten einer Deputation von rund 36.000 Euro. Dabei variieren die jährlichen Personalkosten der Fachbehörden zwischen rund 11.000 und 71.000 Euro.
 

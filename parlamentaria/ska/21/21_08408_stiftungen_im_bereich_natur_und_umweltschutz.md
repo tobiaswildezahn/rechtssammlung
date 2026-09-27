@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57117"
@@ -102,15 +103,15 @@ Stiftung Wasserkunst Elbinsel Kaltehofe:
 
 Anlass für die Stiftungsgründung und Unterstützung durch die Freie und Hansestadt Hamburg ist die nachhaltige Nutzung des Geländes des ehemaligen Wasserwerks Kaltehofe und die Förderung der Stadtnatur. Gemäß dem Stiftungsgeschäft wurde die Stiftung seitens der Stifter wie folgt ausgestattet:
 
- Mit dem unentgeltlichen Nutzungsrecht an einer Teilfläche von einem den Ham-
+– Mit dem unentgeltlichen Nutzungsrecht an einer Teilfläche von einem den Ham-
 
 burger Wasserwerken GmbH gehörenden Grundstück (Gemarkung Billwerder Ausschlag, Flurstücke 2575, 2577 und 2580) zur Nutzung auf unbestimmte Zeit, aber mindestens für zehn Jahre.
 
- Mit einer zehnjährigen Verpflichtung, ein Defizit der Stiftung bis zu einem Betrag
+– Mit einer zehnjährigen Verpflichtung, ein Defizit der Stiftung bis zu einem Betrag
 
 von 150.000 Euro jährlich auszugleichen. Dieser Betrag wird von den Stiftern jeweils zu gleichen Teilen getragen.
 
- In den Jahren 2014 – 2016 hat die Stiftung gemäß Zuwendungsvereinbarung mit
+– In den Jahren 2014 – 2016 hat die Stiftung gemäß Zuwendungsvereinbarung mit
 
 den Hamburger Wasserwerken GmbH 75.000 Euro jährlich und von der Freien und Hansestadt Hamburg, gemäß jeweils für ein Jahr geltendem, zu beantragendem Bewilligungsbescheid, 75.000 Euro jährlich erhalten.
 

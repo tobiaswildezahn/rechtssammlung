@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16379", "21/15572", "21/13487"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67260"
@@ -185,15 +186,15 @@ Behörde für Umwelt und Energie:
 
 Darüber hinaus wurden durch die Behörde für Umwelt und Energie zur Unterstützung der Einhaltung von Tempo 30 nachts aus Lärmschutzgründen der Betrieb von zehn Dialogdisplays, die allerdings nur von 22 – 6 Uhr in Betrieb sind, finanziert. Es steht jeweils ein Gerät stadteinwärts und stadtauswärts an folgenden Strecken:
 
-• Bergedorfer Straße/Holtenklinkerstraße,
+– Bergedorfer Straße/Holtenklinkerstraße,
 
-• Eiffestraße,
+– Eiffestraße,
 
-• Harburger Chausssee,
+– Harburger Chausssee,
 
-• Mühlendamm/Kuhmühle,
+– Mühlendamm/Kuhmühle,
 
-• Winsener Straße.
+– Winsener Straße.
 
 Eine Überschneidung zwischen Lärmschutzstrecken und Kitas gibt es nicht.
 
@@ -239,7 +240,7 @@ Welche Straßen vor welchen Kitas und Schulen in Hamburg gelten aktuell als Unfa
 
 Welchen Maßnahmen zur Entschärfung dieser Unfallhäufungsstellen vor Kitas und Schulen sind seitens der Unfallkommission geplant?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Derzeit werden durch die Unfallkommission Hamburg 23 Unfallhäufungsstellen betrachtet. Davon befindet sich keine im Bereich einer Kita oder aber Schule. Darüber hinaus siehe Drs. 21/13487.
 

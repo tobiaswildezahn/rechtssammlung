@@ -14,6 +14,7 @@ fragen: 70
 einzelfragen: 0
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/17", "19/17", "20/17", "22/17", "23/17", "24/17", "26/17", "27/17", "30/17", "25/17", "25/1", "29/17", "29/1", "17/17", "17/1", "21/17", "28/17"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56630"

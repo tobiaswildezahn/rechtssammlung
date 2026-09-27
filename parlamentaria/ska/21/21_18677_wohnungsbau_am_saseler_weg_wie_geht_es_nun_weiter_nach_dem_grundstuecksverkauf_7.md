@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18001"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68343"
@@ -43,7 +44,7 @@ Wie ist der genaue Stand des Baugenehmigungsverfahrens für Baufeld 1? Wann wird
 
 Wann genau soll die Grundstücksentwässerung geprüft und beschieden werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Antrag ist weiterhin unvollständig. Die Frist zur Nachreichung der erforderlichen Bauvorlagen wurde auf Antrag des Bauherrn bis zum 4. November 2019 verlängert. Der Abschluss des Verfahrens ist unter anderem von der Vollständigkeit und Prüffähigkeit der nachgeforderten Bauvorlagen abhängig und kann daher nicht prognostiziert werden.
 

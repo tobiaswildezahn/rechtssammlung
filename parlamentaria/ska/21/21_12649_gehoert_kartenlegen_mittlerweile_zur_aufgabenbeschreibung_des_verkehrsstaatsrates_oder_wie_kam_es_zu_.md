@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6458", "21/7356"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61962"
@@ -175,6 +176,6 @@ c) Um was für „Karten“ handelt es sich und wem gehören diese?
 d) Was haben die „Karten“ denen, denen sie gelegt wurden, genau gesagt?
 e) Zu welchen sonstigen Vorgängen aus seinem Aufgabenbereich legt sich der Staatsrat für Verkehr die „Karten“?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Der Senat hat sich hierzu die Karten noch nicht gelegt.

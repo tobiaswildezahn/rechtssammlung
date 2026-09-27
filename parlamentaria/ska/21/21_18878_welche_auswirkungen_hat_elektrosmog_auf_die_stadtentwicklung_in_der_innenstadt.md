@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 62551
 seiten: 2
 fragen: 4
-einzelfragen: 11
-antwortbloecke: 3
+einzelfragen: 13
+antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68564"
@@ -67,9 +68,11 @@ Gibt es speziell in der HafenCity Baufelder, die im Bereich der „Vorsorgewerte
 
 Baufelder, die im Bereich der Vorsorgeabstände von Hochspannungsfreileitungen liegen, bestehen in der HafenCity nicht. Im Übrigen siehe Vorbemerkung.
 
-2.1. Gibt es Maßnahmen, die eine Nutzung und Bebauung der betroffenen Grundstücke trotz ihrer Lage im Bereich der Vorsorgewerte möglich machen?
+### Frage 2.1
 
-Wenn ja, welche Maßnahmen sind das?
+Gibt es Maßnahmen, die eine Nutzung und Bebauung der betroffenen Grundstücke trotz ihrer Lage im Bereich der Vorsorgewerte möglich machen? Wenn ja, welche Maßnahmen sind das?
+
+#### Antwort zu Frage 2.1
 
 Entfällt.
 
@@ -79,11 +82,12 @@ Welche Abstände haben Vorsorgewert relevante Einrichtungen wie Oberleitungen Ho
 
 ### Frage 4
 
-Sind dem Senat diese Gegebenheiten bekannt?  
-4.1. Sieht der Senat Handlungsbedarf?  
-Wenn nein, warum nicht?  
-Wenn ja, welche Maßnahmen werden getroffen?
+Sind dem Senat diese Gegebenheiten bekannt?
 
-#### Antwort zu Fragen 3 bis 4
+### Frage 4.1
+
+Sieht der Senat Handlungsbedarf? Wenn nein, warum nicht? Wenn ja, welche Maßnahmen werden getroffen?
+
+#### Antwort zu Fragen 3, 4 und 4.1
 
 Der geringste Abstand des derzeit für eine Wohnnutzung geplanten Gebäudes östlich des Lohseparks zur Bahnstromoberleitung beträgt etwa 25 m. Der geringste Abstand der geplanten Schulgebäude beträgt rund 45 m. Im Übrigen siehe Vorbemerkung.

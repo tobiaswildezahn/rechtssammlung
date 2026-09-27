@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 26
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16993"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66768"
@@ -75,7 +76,7 @@ Wer wurde durch wen mit dem ergänzenden Gutachten beauftragt und wann lag das E
 
 Welche Fristen zur Erstellung des Gutachtens sind seitens des Senats gesetzt worden und in welcher Form sind diese Fristen dem Gutachter mitgeteilt worden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die zuständige Behörde hat das Ingenieurbüro für Verkehrsanlagen und -systeme – IVAS – beauftragt. Das Ergebnis liegt noch nicht vor.
 
@@ -137,7 +138,7 @@ Wann gedenkt der Senat, der gesetzlichen Vorschrift zur Erstellung und Veröffen
 
 Wann sollen die Bürger über die Erfüllung der europarechtlichen Vorschrift informiert werden?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Eine gesetzliche Vorschrift zur Erstellung und Veröffentlichung der Fortschreibung eines LAP ist gemäß § 47d Bundesimmissionsschutzgesetz als bundesrechtliche Umsetzung der europäischen Vorschrift nicht gegeben.
 
@@ -157,7 +158,7 @@ Welche Strafen für die Bundesrepublik Deutschland oder die Stadt Hamburg sieht 
 
 Stellt die Nichterstellung des Lärmaktionsplans 2018 nach Ansicht des Senats einen Verstoß oder eine Verletzung europarechtlicher Vorschriften und/oder des BImSchG dar? Wenn ja, warum begeht der Senat diese Verletzung beziehungsweise diesen Verstoß?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Siehe Drs. 21/16993.
 
@@ -193,6 +194,6 @@ Welche einzelnen Prozessschritte hinsichtlich der Erarbeitung beziehungsweise Ü
 
 Besteht ein inhaltlicher Dissens zu Inhalten des jetzigen Arbeitsstandes des Lärmaktionsplans 2018 innerhalb der federführenden Behörde oder den übrigen involvierten Behörden? Wenn ja, zu welchen konkreten Inhalten gibt es nennenswerte Meinungsverschiedenheiten und von welchen Behörden werden diese entsprechend adressiert?
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Siehe Antwort zu 10.

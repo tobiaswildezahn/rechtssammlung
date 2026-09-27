@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 20
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/741", "21/9187"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64487"
@@ -55,7 +56,7 @@ Wie viele Inobhutnahmen haben in den Jahren 2016, 2017 und bisher 2018 in welche
 
 Dem vorgenannten Beitrag war zu entnehmen, dass bundesweit ein beachtlicher Anteil der Inobhutnahmen auf minderjährige unbegleitete Flüchtlinge entfalle. Wie groß ist der Anteil der minderjährigen unbegleiteten Flüchtlinge an den Inobhutnahmen in Hamburg in absoluten Zahlen und prozentual jeweils?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bundesstatistik zu beendeten vorläufigen Schutzmaßnahmen – Ergebnis Hamburg
 
@@ -87,7 +88,7 @@ Welcher Altersklasse (null – drei, vier – sechs, sechs – zehn, elf – 16 
 
 Welche Altersklassenverteilungen ergeben sich jeweils, wenn zwischen minderjährigen unbegleiteten Flüchtlingen und anderen betroffenen Kindern und Jugendlichen differenziert wird?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 2016  
 2017  
@@ -206,7 +207,7 @@ Jugendämter?
 Wenn ja, welchen?  
 Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Es wurden in den letzten Jahren zahlreiche Maßnahmen zur Stabilisierung und Qualifizierung des ASD durchgeführt. Mit dem eingeführten und zertifizierten Qualitätsmanagementsystem gelten für alle ASD-Fachkräfte hamburgweit einheitliche fachliche Standards im Kinderschutz. Damit ist sichergestellt, dass die Fachkräfte mit hoher Handlungssicherheit und Fachlichkeit Inobhutnahmen durchführen können.
 

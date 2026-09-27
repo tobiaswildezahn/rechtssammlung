@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 15
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7650", "21/613"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56550"
@@ -51,7 +52,7 @@ Warum werden in den Antworten auf die erste, zweite und dritte Frage (Drs. 21/76
 
 Wie hat sich die Fluktuation der Mitarbeiter (nicht VZÄ) in den Allgemeinen Sozialen Diensten inklusive der innerbehördlichen Wechsel entwickelt? Wie viele Mitarbeiter (nicht VZÄ) haben die ASD verlassen, wie viele sind hinzugekommen? Bitte für die einzelnen Bezirke und Abteilungen alle tatsächlichen Zu- und Abgänge der letzten drei Jahre auflisten.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Drs. 21/7650 bezieht sich auf die Stellen der sozialpädagogischen ASD-Fachkräfte, die das Eingangs- und Fallmanagement des ASD durchführen. Leitungs-, Verwaltungs- und SHA-Kräfte sind nicht fallführend im Sinne der pädagogischen, fachlichen Bearbeitung. Darüber hinaus wurde in Drs. 21/7650 nach „Stellenart“ gefragt. Diese Bezeichnung wird zur Differenzierung von Arbeitnehmer- und Beamtenstellen verwendet. Im Übrigen siehe Anlagen 2 bis 6. Die Überprüfung der Verwaltungsvorgänge, Akten und Dokumente im erfragten mehrjährigen Zeitraum durch alle beteiligten
 

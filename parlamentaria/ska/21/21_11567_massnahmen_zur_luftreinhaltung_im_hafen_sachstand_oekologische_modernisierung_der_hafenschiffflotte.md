@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 22
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4064", "21/11072", "21/6799", "21/9901", "21/7665"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60747"
@@ -52,25 +53,25 @@ Die HADAG Seetouristik und Fährdienst AG (HADAG) und die städtische Schiffsflo
 
 Die HADAG prüft in konsequenter Ausführung ihrer strategischen Ausrichtung kontinuierlich Einsatzmöglichkeiten technologischer Fortschritte zur Emissionsreduzierung bei den Hafenfähren. Sie hat bereits folgende emissionsreduzierende Maßnahmen umgesetzt:
 
-• Die Verwendung von Landstrom seit mehr als 25 Jahren.
+– Die Verwendung von Landstrom seit mehr als 25 Jahren.
 
-• Die Verwendung von Marine-Diesel (angelehnt an EN 590).
+– Die Verwendung von Marine-Diesel (angelehnt an EN 590).
 
-• Treibstoffreduktion um rund 9 Prozent durch die Ausrüstung der Schiffe mit Wulstbügen.
+– Treibstoffreduktion um rund 9 Prozent durch die Ausrüstung der Schiffe mit Wulstbügen.
 
-• Die Reduzierung der Motorleistung auf das operativ erforderliche Maß.
+– Die Reduzierung der Motorleistung auf das operativ erforderliche Maß.
 
-• Die Verwendung von Bio-Hydrauliköl für die Rampen.
+– Die Verwendung von Bio-Hydrauliköl für die Rampen.
 
-• Der Austausch konventioneller Leuchtmittel durch moderne LED-Technik.
+– Der Austausch konventioneller Leuchtmittel durch moderne LED-Technik.
 
-• Die Verwendung des Motoren-Kühlkreislaufs für die Heizung.
+– Die Verwendung des Motoren-Kühlkreislaufs für die Heizung.
 
-• Der Austausch alter Typ 2000-Motoren gegen emissionsärmere Motoren bis Ende des Jahres 2020 (siehe Drs. 21/6799). Davon sind zum jetzigen Zeitpunkt bereits neun Schiffe umgerüstet, von denen sieben Schiffsumrüstungen durch das Motorenförderungsprogramm gefördert wurden.
+– Der Austausch alter Typ 2000-Motoren gegen emissionsärmere Motoren bis Ende des Jahres 2020 (siehe Drs. 21/6799). Davon sind zum jetzigen Zeitpunkt bereits neun Schiffe umgerüstet, von denen sieben Schiffsumrüstungen durch das Motorenförderungsprogramm gefördert wurden.
 
-• Die Ausrüstung der Schiffe mit Abgasnachbehandlungssystemen. Mit diesem sind zum jetzigen Zeitpunkt bereits 50 Prozent der umzurüstenden Flotte umgerüstet worden beziehungsweise befinden sich derzeit in der Umrüstung.
+– Die Ausrüstung der Schiffe mit Abgasnachbehandlungssystemen. Mit diesem sind zum jetzigen Zeitpunkt bereits 50 Prozent der umzurüstenden Flotte umgerüstet worden beziehungsweise befinden sich derzeit in der Umrüstung.
 
-• Die Ausrüstung der Schiffe mit Altöltanks.
+– Die Ausrüstung der Schiffe mit Altöltanks.
 
 Ferner wurde am 23. Mai 2017 der neue Prototyp Typ 2020 MS Elbphilharmonie in Betrieb genommen. Dieser unterscheidet sich unter anderem durch einen dieselelektrischen Antrieb, welcher energieeffizient, abgasarm sowie leise ist und als Übergangstechnologie bis zur grundlegenden Weiterentwicklung der Batterie-Technologie gilt. Außerdem unterscheidet sich dieser Antrieb von der bisherigen Flotte durch ein umfassendes Abgasnachbehandlungssystem mit einem Rußpartikelfilter und SCR- Katalysatoren sowie durch die Bauart als strömungsoptimiertes Unterwasserschiff (Schiffsrumpf unterhalb der Wasserlinie).
 
@@ -191,6 +192,6 @@ Warum setzen HPA und HADAG gegebenenfalls auf verschiedene Lösungen bei Kraftst
 
 Vor dem Hintergrund der Fragen 2., 3. und 7.: Gibt es mit den betroffenen Unternehmen einen Zeitplan für die schnelle Um- beziehungsweise Nachrüstung von HADAG-Fähren und HPA-Schiffen beziehungsweise wann wird diese gegebenenfalls angestrebt?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Vorbemerkung.

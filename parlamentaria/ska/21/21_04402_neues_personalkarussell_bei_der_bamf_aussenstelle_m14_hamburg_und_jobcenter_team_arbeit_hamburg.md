@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52823"
@@ -49,7 +50,7 @@ Wer hat derzeit die Leitung der BAMF-Außenstelle und wer übernimmt die Leitung
 
 Gab es eine interne oder externe Ausschreibung der Stellenbesetzung der Führungsposition der BAMF-Außenstelle Hamburg? Wenn ja, wo war diese ausgeschrieben? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Bundesamt für Migration und Flüchtlinge (BAMF) hat mitgeteilt, es sei grundsätzlich nicht verpflichtet und auf freiwilliger Grundlage aufgrund der anhaltenden Arbeitsbelastung aktuell nicht in der Lage, Parlamentarische Anfragen aus Hamburg zu beantworten.
 

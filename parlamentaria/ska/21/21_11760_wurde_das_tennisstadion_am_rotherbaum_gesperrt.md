@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60994"
@@ -49,7 +50,7 @@ Ist es richtig, dass beim Tennisstadion am Rotherbaum alle Zugänge zum Stadion 
 
 Ist der Anlass für die Sperrung ein festgestellter Baumangel? Wenn ja, um was für einen Mangel handelt es sich?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Gesperrt sind die Aufgänge zum Publikumsbereich der Tennisarena mit Ausnahme des Aufgangs C, um weiterhin den Zugang zur Sportfläche zu ermöglichen. Die Sperrung erfolgte auf Veranlassung des DTB zum Schutz der Anlage vor Sachbeschädigungen.
 

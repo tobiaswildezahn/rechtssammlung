@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 19
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15534", "21/15603"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65805"
@@ -104,7 +105,7 @@ Wie groß ist die maximale Flugverkehrs-Kapazität der Start- und Landebahnen am
 
 Welches sind die die maximale Kapazität der Start- und Landebahnen – sowohl im Ist-Zustand als auch nach Beendigung des oben beschriebenen Flughafenausbaus – bestimmenden Faktoren?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Antwort zu 6. Bei der Kapazitätsbestimmung wird nicht zwischen Luftraum- und Flugverkehrskapazität unterschieden.
 
@@ -116,7 +117,7 @@ Wie groß ist die maximale Kapazität der Flugzeug-Abstellflächen am Hamburger 
 
 Welches sind die die maximale Kapazität der Abstellflächen – in welchem Ausmaß – sowohl im Ist-Zustand als auch nach Beendigung des oben beschriebenen Flughafenausbaus bestimmenden Faktoren?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Es gibt keinen Stundenwert für die maximale Kapazität der Flugzeug-Abstellflächen am Hamburger Flughafen. Die Anzahl der maximalen „Code-C“-äquivalenten Abstellpositionen beträgt 53. Nach Fertigstellung der Baumaßnahmen werden es 56 Positionen sein.
 
@@ -128,7 +129,7 @@ Wie groß ist die maximale Kapazität der Passagierabfertigung (Anzahl an Passag
 
 Welches sind die die maximale Kapazität der Passagierabfertigung am Hamburger Verkehrsflughafen sowohl im Ist-Zustand als auch nach Beendigung des oben beschriebenen Flughafenausbaus – jeweils in welchem Ausmaß – bestimmenden Faktoren?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Es gibt keine einheitliche Messgröße, die die maximale Kapazität der Passagierabfertigung pro Stunde beschreibt.
 
@@ -140,7 +141,7 @@ Wie groß ist die maximale Kapazität der „landseitigen Anbindung“ (insbeson
 
 Welches sind die die maximale Kapazität der „landseitigen Anbindung“ bestimmenden Faktoren sowohl im Ist-Zustand als auch nach Beendigung des oben beschriebenen Flughafenausbaus?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Derzeit wird der Flughafen im Tagesverkehr von der Linie S1 alle zehn Minuten mit Kurzzügen angefahren. Die maximal zulässige Fahrgastkapazität je Kurzzug beträgt circa 500 Plätze; das sind pro Stunde und Richtung (6 x 500 Plätze=) 3 000 Plätze.
 

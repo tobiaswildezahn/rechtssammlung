@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4040"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55166"
@@ -53,7 +54,7 @@ Hat die Polizei mittlerweile Tatverdächtige und/oder Zeuginnen der Tat ermittel
 
 Wenn ja, wie viele, und inwiefern sind die möglichen Tatverdächtigen bereits einschlägig polizeilich bekannt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Es konnten weder Tatverdächtige noch weitere Tatzeugen ermittelt werden.
 

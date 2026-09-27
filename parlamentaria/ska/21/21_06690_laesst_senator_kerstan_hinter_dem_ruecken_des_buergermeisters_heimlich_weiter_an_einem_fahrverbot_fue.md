@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 20
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55252"
@@ -88,7 +89,7 @@ Welche Stellen in welchen Behörden haben sich auf wessen Veranlassung, aus welc
 
 Sind der Senat beziehungsweise die zuständigen Behörden der Auffassung, dass auf Basis des oben genannten Urteils Dieselfahrverbote bereits jetzt durch das StVO-Zeichen 251 (Verbot für Kraftwagen) in Kombination mit einem Zusatzzeichen „Diesel“ für bestimmte Straßen und Straßenabschnitte festgesetzt werden kann und dass dafür das noch nicht existierende Zusatzzeichen „Diesel“ (gegebenenfalls mit Beschränkungen auf bestimmte Dieselfahrzeuge auf Landesebene) durch die zuständige Behörde mit Zustimmung der obersten Landesbehörde (hier die BIS) eingeführt werden kann? Wenn nein, welcher Auffassung sind der Senat beziehungsweise die zuständigen Behörden in dieser Frage? Wenn ja, wird die BIS ein entsprechendes Zusatzzeichen „Diesel“ in Hamburg einführen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung und Antwort zu 1. bis 3.
 

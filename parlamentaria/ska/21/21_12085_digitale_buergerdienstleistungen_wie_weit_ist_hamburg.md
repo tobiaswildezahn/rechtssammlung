@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11211", "21/11429", "21/10748", "21/9363"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61344"
@@ -59,19 +60,19 @@ Zeichnet sich bereits ab, welche 10 – 15 Verwaltungsverfahren als Piloten „t
 
 Bisher sind für 2018 Piloten in folgenden Bereichen in Vorbereitung:
 
- Güteverfahren
+– Güteverfahren
 
- Schwerbehinderteneigenschaft
+– Schwerbehinderteneigenschaft
 
- Baumfällgenehmigung
+– Baumfällgenehmigung
 
- Denkmaleigenschaft
+– Denkmaleigenschaft
 
- Alsterbootangelkarte
+– Alsterbootangelkarte
 
- Niederschlagswasserversickerung
+– Niederschlagswasserversickerung
 
- Wohnraumschutz
+– Wohnraumschutz
 
 a. Inwieweit finden die in Drs. 21/10748 für das Projekt „Bezirksverwaltung digital“ genannten Verfahren beziehungsweise Dienstleistungen dabei besondere Berücksichtigung?
 

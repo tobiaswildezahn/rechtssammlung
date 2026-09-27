@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 19
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54323"
@@ -49,7 +50,7 @@ Wie wird der Datenschutz der Personenangaben von Beschwerdeführerinnen und Besc
 
 Wer hat Zugang zu den Beschwerden und den zugehörigen Namensund Adressdaten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die personenbezogenen Daten der Fluglärmbeschwerdeführer werden in einer Datei erfasst, auf die nur Mitarbeiter der Fluglärmschutzbeauftragten Zugriff haben.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61699"
@@ -103,7 +104,7 @@ Falls die Staatsangehörigkeit des Tatverdächtigen keine deutsche ist, wie ist 
 
 Drohen dem Tatverdächtigen aufenthaltsbeendende Maßnahmen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Entfällt.
 

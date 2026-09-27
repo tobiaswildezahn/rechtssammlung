@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 41
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13671", "21/10216"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67606"
@@ -139,7 +140,7 @@ Wie viele der in Frage 1. genannten befristeten Anstellungen von Lehrern/-innen 
 
 Wie viele der in Frage 1. genannten befristet angestellten Lehrer/-innen waren dabei in Aufgabenbereichen der Beschulung von geflüchteten Kindern und Jugendlichen eingesetzt und in welchen jeweils? (Bitte nach Basisklasse, internationale Vorbereitungsklasse und AvM-Dual mit Nennung der Schulform in absoluten Zahlen und in Prozent in einer Excel- Tabelle angeben.) a. Wie stellte sich diese Situation für die entsprechenden befristet angestellten Lehrer/-innen im Schuljahr 2017/2018 dar? (Bitte entsprechend in der Tabelle zu Frage 4. angeben.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/10216.
 

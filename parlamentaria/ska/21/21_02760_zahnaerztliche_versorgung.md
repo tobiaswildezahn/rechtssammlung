@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1801"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51077"
@@ -43,7 +44,7 @@ Werden in den Flüchtlingsunterkünften auch zahnärztliche Sprechstunden angebo
 
 Wo und in welchen Fällen erfolgt eine zahnärztliche Versorgung, wenn in einer Flüchtlingsunterkunft keine zahnärztlichen Sprechstunden angeboten werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Am Erstaufnahmestandort Rugenbarg wird zwei Stunden pro Woche eine spezielle zahnärztliche Sprechstunde ohne Behandlung angeboten. Im Übrigen erfolgt die gemäß § 4 Asylbewerberleistungsgesetz (AsylbLG) zur Behandlung akuter Erkrankungen und Schmerzzustände erforderliche zahnärztliche Versorgung in den Praxen niedergelassener Zahnärztinnen und Zahnärzte oder im Bundeswehrkrankenhaus Hamburg.
 

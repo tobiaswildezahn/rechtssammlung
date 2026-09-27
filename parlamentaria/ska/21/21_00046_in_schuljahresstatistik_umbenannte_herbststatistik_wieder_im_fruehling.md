@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13226", "20/10234"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48172"
@@ -43,6 +44,6 @@ Wann wird die in Schuljahresstatistik umbenannte Herbststatistik nach derzeitige
 
 Warum dauert es in Hamburg derart lange, bis die Zahlen der Erhebung von Anfang September vorliegen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Veröffentlichung der Schuljahresstatistik soll im Rahmen einer Landespressekonferenz im 1. Quartal 2015 erfolgen. Bis dahin sind die Schritte Qualitätsprüfung, Aufbereitung für die Personalorganisation und für die statistische Berichterstattung durch das Data-Warehouse (DWH) sowie Verfügbarmachung in einem sogenannten Statistikcube erfolgt. Ferner wurden die Daten geprüft, bei Bedarf korrigiert, in Tabellen aufbereitet und kommentiert. Darüber hinaus wurden die Daten zu den sonderpädagogischen Förderbedarfen mit Stichtag 31. Januar 2015 ergänzt. Für die Arbeitsprozesse von der Datenerfassung bis zur Veröffentlichung der Schuljahresstatistik siehe Drs. 20/13226 und 20/10234.

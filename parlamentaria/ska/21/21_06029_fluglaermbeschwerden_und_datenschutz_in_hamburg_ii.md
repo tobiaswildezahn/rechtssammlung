@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 12
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5817"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54538"
@@ -75,6 +76,6 @@ Wurde im Zusammenhang mit der derzeitigen Speicherung der Fluglärmdaten und/ode
 
 Sieht der Senat unter der Vorbedingung, dass die vorgenannten Daten ausschließlich in der BUE gespeichert werden bezüglich der in der Presse verwendeten Daten ein rechtliches Problem hinsichtlich des Datenschutzes? a. Wenn ja: Welche Schritte wurden seitens der zuständigen Behörde oder anderer Stellen der Freien und Hansestadt Hamburg diesbezüglich unternommen beziehungsweise geplant? b. Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Das Fluglärmschutzbeauftragten-Gesetz hat dem Datenschutzbeauftragten im Gesetzgebungsverfahren vorgelegen. Die im Gesetz getroffenen Regelungen sind mit dem Datenschutzbeauftragten abgestimmt worden, siehe dazu auch Drs. 21/5817. Vor diesem Hintergrund hält der Senat die diesbezügliche Verwaltungspraxis für rechtmäßig.

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65350"
@@ -123,6 +124,6 @@ Wird die Stadt den Hamburger Dome mithilfe des Mieter-Vermieter- Modells „miet
 
 Wie viele zusätzliche finanziellen Garantien verspricht der Senat den Investoren (HT 16 etwa 10 Millionen Euro)?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Der Senat hat sich damit nicht befasst.

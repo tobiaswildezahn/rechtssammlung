@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 7
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11389", "21/9538", "21/6233", "21/10141"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60753"
@@ -51,7 +52,7 @@ Ist angedacht, den Integrationserfolg zu evaluieren? Wenn ja, in welchen Abstän
 
 Ist angedacht, die Mittelverwendung hinsichtlich ihrer Effizienz in Bezug auf den Integrationserfolg zu prüfen? Wenn ja, in welchen Abständen, unter welchen Kriterien und unter Anwendung welcher jeweiligen Integrationsindikatoren? Wenn nein, warum nicht? (Bitte anhand der Tabelle in Anlage zur Drs. 21/11389 jeweils ausführen.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Überprüfung der zweckentsprechenden Mittelverwendung bei Zuwendungen und die Erfolgskontrolle sind in § 46 Landeshaushaltsordnung (LHO) und den hierzu erlassenen Verwaltungsvorschriften geregelt. Auf dieser Grundlage werden im Rahmen des Zuwendungsverfahrens regelmäßig die Verwendung der Mittel und die Erreichung des Zuwendungszwecks geprüft. Jedes Projekt hat das Erreichen des Zuwendungszwecks nach Ende des jeweiligen Zuwendungszeitraums im Rahmen eines Verwendungsnachweises zu belegen, zu dem auch ein aussagekräftiger Sachbericht gehört (siehe dazu Nummer 12.2 der VV zu § 46 LHO sowie Drs. 21/9538 und Drs. 21/6233). Außerdem ist regelmäßig eine Erfolgskontrolle durchzuführen.
 

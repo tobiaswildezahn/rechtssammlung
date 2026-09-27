@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 23
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61119"
@@ -77,7 +78,7 @@ Wie viele Betriebe bieten in der Freien und Hansestadt Hamburg auf welchem Woche
 
 Wie hat sich die Zahl der anbietenden Betriebe nach Frage 4. seit 2008 verändert? Bitte für jeden Wochenmarkt und jedes Jahr aufschlüsseln.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Anlage 3.
 
@@ -89,7 +90,7 @@ Welche Mieten und welche Gebühren werden pro laufendem Meter Stand an welchem W
 
 Wie haben sich Mieten und Gebühren seit 2008 pro laufendem Meter Stand entwickelt? Bitte für jedes Jahr und jeden Wochenmarkt aufschlüsseln.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Anlage 4.
 

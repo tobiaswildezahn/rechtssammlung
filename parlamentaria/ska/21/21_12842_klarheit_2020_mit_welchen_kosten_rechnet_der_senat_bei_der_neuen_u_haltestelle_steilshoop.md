@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62155"
@@ -63,7 +64,7 @@ Haben der Senat beziehungsweise die zuständigen Behörden Kenntnis darüber, wi
 
 Gibt es eine Kostenobergrenze für den Bau dieser Haltestelle?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Aufgrund des frühen Stadiums der Planungen können zum jetzigen Zeitpunkt keine Kostenangaben gemacht werden. Dies wird wie bei allen vergleichbaren Projekten nach Abschluss der Entwurfsplanung erfolgen. Im Übrigen siehe Vorbemerkung.
 
@@ -83,7 +84,7 @@ Aus welchen Gründen hat welche Stelle wann entschieden, dass es für die Haltes
 
 Worin genau liegt nach Ansicht des Senats beziehungsweise der zuständigen Behörde die „besondere Bedeutung der Haltestelle Steilshoop“ begründet, von der in der Pressemitteilung der BWVI vom 24. April 2018 die Rede ist?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Für den Neubau aller Haltestellen gilt der Anspruch, dass sich diese nicht nur funktional, sondern auch gestalterisch in den Stadtraum einfügen.
 

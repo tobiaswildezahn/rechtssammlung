@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 13
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11108"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67938"
@@ -49,7 +50,7 @@ Wie viele Stellplätze stehen aktuell für das „öffentliche Parken“ am Hamb
 
 Wie viele Parkhäuser mit wie vielen Stellplätzen hält der Hamburger Flughafen für seine Fluggäste aktuell vor?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Derzeit stehen am Flughafen fünf öffentlich zugängliche Parkhäuser mit rund 12 000 Stellplätzen zur Verfügung. Darüber hinaus richtet die FHG jedes Jahr über die Stellflächen in den Parkhäusern hinaus bedarfsgerecht rund 3 000 zusätzliche Saison- Parkplätze für den Sommer ein. Die Flächen werden zum Teil extra angemietet, hergerichtet und mit Shuttle-Diensten angebunden. Insgesamt stehen den Fluggästen in den Spitzenreisezeiten damit rund 15 000 Parkplätze zur Verfügung.
 

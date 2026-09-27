@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69896"
@@ -55,7 +56,7 @@ Werden die Sanierungsmaßnahmen an der Sporthalle Turnierstieg 24 im kommenden M
 
 Wie lange wurde im Vorlauf zur Sanierung auf den Schimmelbefall hingewiesen, ehe eine Sanierung anberaumt wurde?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -75,7 +76,7 @@ Wie hoch waren die Kosten für die Sanierung der Sanitäranlagen?
 
 An welchen anderen Sporthallen in Hamburg liegt derzeit Sanierungsbedarf bei den Sanitäranlagen vor?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 
@@ -87,6 +88,6 @@ Warum lässt sich die Heizung der Sporthalle Turnierstieg 24 an den Wochenenden 
 
 Ist es geplant, dass die Heizung in Zukunft auch an den Wochenenden funktionieren soll? Falls nicht, bitte hierfür Begründung angeben.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der zeitweise Ausfall der Heizung beruhte auf einem Problem mit den Steuerungsventilen, die inzwischen ausgetauscht wurden. Die Heizung ist funktionstüchtig, auch an Wochenenden.

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 19
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/1042", "20/9359", "21/4857"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57475"
@@ -222,29 +223,29 @@ Die hier in Rede stehenden schulischen Berufsausbildungen werden in vollqualifiz
 
 Das gilt insbesondere für die Bildungsgänge:
 
- Berufsfachschule für Sozialpädagogische Assistenz
+– Berufsfachschule für Sozialpädagogische Assistenz
 
- Berufsfachschule für Kaufmännische Assistenz: Fachrichtung Fremdsprachen
+– Berufsfachschule für Kaufmännische Assistenz: Fachrichtung Fremdsprachen
 
- Berufsfachschule für Kaufmännische Medienassistenz
+– Berufsfachschule für Kaufmännische Medienassistenz
 
- Berufsfachschule für Screen Design
+– Berufsfachschule für Screen Design
 
- Berufsfachschule für Freizeitwirtschaft
+– Berufsfachschule für Freizeitwirtschaft
 
- Berufsfachschule für biologisch-technische Assistenz
+– Berufsfachschule für biologisch-technische Assistenz
 
- Berufsfachschule für pharmazeutisch-technische Assistenz
+– Berufsfachschule für pharmazeutisch-technische Assistenz
 
- sowie für die Erzieherausbildung an Fachschulen für Sozialpädagogik.
+– sowie für die Erzieherausbildung an Fachschulen für Sozialpädagogik.
 
 Die genannten Bildungsgänge werden nachfrageorientiert seitens der zuständigen berufsbildenden Schulen angeboten. Die APOen können Im Internet unter http://www.landesrecht-hamburg.de/jportal/portal/page/bshaprod.psml?st=lr aufgerufen werden.
 
 Darüber hinaus betrifft dies nach Hamburgischem Gesetz geregelte Berufe in folgenden Bereichen:
 
- Altenpflege (siehe www.hsb-ev.de)
+– Altenpflege (siehe www.hsb-ev.de)
 
- Gesundheitsund  
+– Gesundheitsund  
 Pflegeassistenz  
 (siehe  
 www.einfal.de  

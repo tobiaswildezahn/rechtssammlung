@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 33
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13672", "20/9149", "20/14652"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49839"
@@ -100,13 +101,13 @@ Welche Maßnahmen zur Schulwegsicherung wurden seit 2014 im Bezirk Harburg durch
 
 Folgende Maßnahmen wurden durch das Bezirksamt zur Schulwegsicherung durchgeführt:
 
- Bau einer Querungshilfe im Herrmannsburger Weg
+– Bau einer Querungshilfe im Herrmannsburger Weg
 
- Bau einer Querungshilfe in der Ostheide
+– Bau einer Querungshilfe in der Ostheide
 
- Umgestaltung der Osterhoffstraße in einen verkehrsberuhigten Bereich
+– Umgestaltung der Osterhoffstraße in einen verkehrsberuhigten Bereich
 
- Sanierung Geh- und Radweg Striepenweg beidseitig
+– Sanierung Geh- und Radweg Striepenweg beidseitig
 
 ### Frage 4
 
@@ -150,7 +151,7 @@ Wie viele mobile Blitzer sind im Bezirk Harburg seit 2014 im Einsatz und welche 
 
 Hält der Senat beziehungsweise die zuständige Behörde die Anzahl der Geschwindigkeitskontrollen im Bezirk Harburg für angemessen, soll die Anzahl beibehalten werden oder wird eine Intensivierung dieser angedacht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 20/9149.
 
@@ -251,7 +252,7 @@ Wie viele Rotlichtverstöße wurden seit 2014 im Bezirk Harburg und ganz Hamburg
 
 Wie viele Verstöße von Fahrradfahrern wurden im Bezirk Harburg und ganz Hamburg seit 2014 festgestellt? Bitte aufschlüsseln nach Art der Verstöße.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die Statistik der zuständigen Abteilung für Bußgeld- und Verwarnungsangelegenheiten des Einwohner-Zentralamtes lässt keine Differenzierung im Sinne der Fragestellung zu einzelnen Tatorten oder nach der jeweiligen Art des Verkehrsverstoßes des fließenden Verkehrs zu. Auch eine nachträgliche Auswertung sämtlicher Verfahren aus dem Bereich des fließenden Verkehrs in Hamburg ist nicht möglich, da diese Vorgänge nicht aufbewahrt oder gespeichert werden.
 

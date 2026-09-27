@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55071"
@@ -43,7 +44,7 @@ In welcher Höhe haben sich Stromkosten infolge der Besetzung der Kita aufgetür
 
 Wem werden diese Stromkosten in Rechnung gestellt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Vertragspartner Vattenfalls ist der ehemalige Mieter KuNaGe e.V. Die Höhe der Stromkosten ist Angelegenheit der Vertragspartner.
 

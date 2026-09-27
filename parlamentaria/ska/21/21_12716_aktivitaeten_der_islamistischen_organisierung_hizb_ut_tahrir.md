@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2371", "21/5863", "21/6106", "21/12715"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62020"
@@ -43,7 +44,7 @@ Welche Erkenntnisse liegen dem Senat und den Sicherheitsbehörden seit den letzt
 
 Was ist dem Senat und den Sicherheitsbehörden über die Organisation „Hizb ut-Tahrir“ bekannt? a. Welchem politischen und religiösen Spektrum ist die Gemeinde zuzuordnen? b. Welche Ziele verfolgt die Gemeinde und wie wird versucht, diese Ziele zu erreichen? c. Wie viele Mitglieder hat die Organisation in Hamburg? d. Wer steht der Gemeinde vor? e. In welchen Stadtteilen ist die Organisation präsent?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In Hamburg sind keine formalen Strukturen der Organisation bekannt. Die Aktivitäten der Hizb ut-Tahrir erstrecken sich über das gesamte Stadtgebiet. Im Übrigen siehe Verfassungsschutzbericht 2016;
 

@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 4
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57429"
@@ -43,6 +44,6 @@ Wie ist das Ermittlungsverfahren verlaufen und was hat es ergeben? Ist es insbes
 
 Kam es in der Folge zu Anklagen beziehungsweise Verurteilungen oder Freisprüchen? Falls es Urteile gegeben hat, welche Personen sind zu welcher Strafe verurteilt worden? Bitte bei verurteilten Personen Staatsangehörigkeit und gegebenenfalls aufenthaltsrechtlichen Status angeben. Ebenso Vorstrafen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Verfahren ist noch nicht abgeschlossen. Es wurden fünf Tatverdächtige ermittelt. Derzeit besteht kein dringender Tatverdacht. Das Kind ist zwischenzeitlich von einer Aussagepsychologin untersucht worden. Seit Ende März 2017 liegt das Gutachten der Staatsanwaltschaft vor. Die Auswertung ist noch nicht abgeschlossen.

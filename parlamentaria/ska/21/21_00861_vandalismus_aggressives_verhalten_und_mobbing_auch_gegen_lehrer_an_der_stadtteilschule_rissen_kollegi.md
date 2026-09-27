@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 25
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12511"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49025"
@@ -72,7 +73,7 @@ Welche Erkenntnisse konnte die Polizei bisher über mögliche Täter gewinnen, w
 
 Sofern die Verantwortlichen bereits ermittelt wurden und es sich um Schüler der STS Rissen handelt: Wurden vonseiten der Schule Ordnungsmaßnahmen nach § 49 HmbSchG verhängt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Das Ermittlungsverfahren ist noch nicht abgeschlossen. Um den Ermittlungserfolg nicht zu gefährden, sieht die Polizei von Angaben dazu ab.
 
@@ -84,7 +85,7 @@ Gab es an der Stadtteilschule Rissen oder dem benachbarten Gymnasium Rissen verg
 
 Wurden in den vorgenannten Fällen Lehrer in beleidigender Form angegriffen? Wenn ja, kam es zur Anzeige? Welche der Fälle wurden aufgeklärt und auf welche Weise geahndet?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antwort zu 13. Von einer Anzeige wurde abgesehen.
 
@@ -112,7 +113,7 @@ Gibt es an der Stadtteilschule einen Beratungslehrer oder ein Krisenintervention
 
 Wenn ja, in welchem Umfang musste dieser Beratungslehrer in den vergangenen Schuljahren seit Gründung der STS Rissen (und im vergleichbaren Zeitraum am Gymnasium Rissen) tätig werden und zeichnet sich hier eine Zunahme ab? Wenn nein, ist die Schaffung einer solchen Stelle im Lichte der jüngsten Entwicklungen geplant und gegebenenfalls zu wann und mit welcher WAZ-Zahl?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 An der Stadtteilschule Rissen gibt es sowohl einen Beratungslehrer als auch ein Kriseninterventionsteam. Beratungslehrkräfte an Hamburger Schulen haben ein spezifisch für den Standort festgeschriebenes Zeitkontingent für ihre Beratungen, die STS Rissen hat hierfür 16 WAZ (Lehrerwochenarbeitszeitstunden) im Schuljahr 2014/2015 eingeplant. Eine Zunahme der Anfragen an die Beratungslehrkraft zeichnet sich nicht ab.
 

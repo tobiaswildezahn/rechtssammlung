@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10726", "21/105", "20/11471"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48252"
@@ -69,7 +70,7 @@ Was wäre passiert, wenn sich das Schiff nicht aus eigener Kraft hätte befreien
 
 Hätte die Gefahr eines Auseinanderbrechens des Schiffes bestanden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Da die Grundberührung bei auflaufender Tide stattfand, bestand nicht die Gefahr, dass das Schiff sich aus eigener Kraft nicht hätte befreien können. Die Gefahr einer weiteren Krängung des Schiffes, der Verlust von Ladung oder des Auseinanderbrechens des Schiffes bestanden ebenfalls nicht.
 

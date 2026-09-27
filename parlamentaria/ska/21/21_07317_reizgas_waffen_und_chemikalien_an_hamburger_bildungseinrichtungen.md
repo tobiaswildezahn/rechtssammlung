@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 29
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55915"
@@ -314,7 +315,7 @@ c) In wie vielen Fällen konnten Personen ermittelt werden, die für das Ausbrin
 
 Wie viele Fälle hat es in den letzten fünf Jahren an Hamburger Schulen und Universitäten gegeben, bei denen Pfefferspray oder andere Waffen zum Einsatz gekommen sind? (Bitte nach Waffenart, Art der Bildungseinrichtung und Jahren getrennt auflisten.) Wie viele Personen kamen dabei zu Schaden und in wie vielen Fällen kam es zu bleibenden Schäden? Welcher Versicherungsschutz besteht für derartige Opfer an Hamburger Schulen und Universitäten?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Statistiken im Sinne der Fragestellungen 8. bis 10. werden von der Polizei nicht geführt. Für die Beantwortung wäre eine manuelle Durchsicht sämtlicher Vorgänge der einschlägigen Sachgruppenzeichen des erfragten Zeitraums bei der Polizei erforderlich. Die Auswertung mehrerer Hunderttausend Vorgänge ist in der für Parlamentarische Anfragen zur Verfügung stehenden Zeit nicht möglich.
 

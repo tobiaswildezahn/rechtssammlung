@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50372"
@@ -63,7 +64,7 @@ In wie vielen Fällen ist es aufgrund der Umstellung der Abwassergebühren in de
 
 Wie viele Abwassergebührenbescheide enthalten Nachforderungen die auf Verzögerungen bei der Gebührenerhebung beziehungsweise auf Korrekturen bei der Flächenermittlung zurückzuführen sind?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Bei den zunächst mit Klärungsbedarf verbliebenen circa 6.200 Vorgängen ist unterdessen die Sachverhaltsaufklärung erfolgt und die Überführung in die Abrechnung vorgenommen. Die rund 6.200 Vorgänge erfassen gebührenrechtlich den Zeitraum ab dem 1. Mai 2012.
 
@@ -93,7 +94,7 @@ In wie vielen Fällen ist es zu Korrekturen bei den gebührenrelevanten Flächen
 
 In wie vielen Fällen ist es zu Einsprüchen/Widersprüchen gegen Gebührenbescheide gekommen? Bitte nach Gründen der Widersprüche (beispielsweise Fehler bei der Flächenberechnung) differenzieren.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die erfragten Daten werden nicht separat statistisch erfasst. Eine Durchsicht, Auswertung und Aufbereitung sämtlicher Vorgangsakten ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

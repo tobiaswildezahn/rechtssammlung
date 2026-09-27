@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 24
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50735"
@@ -69,7 +70,7 @@ Aus welchem Grund dürfen Sonder- und Förderschulen in freier Trägerschaft kei
 
 Ist das unter 1. bis 4. genannte Verfahren im Laufe der letzten fünf Jahre geändert worden? Wenn ja: Bitte konkret ausführen und begründen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die in der Antwort zu 1. bis 3. beschriebene Gestaltung der Diagnoseverfahren unter verpflichtender Beteiligung der ReBBZ oder fachlich geeigneter staatlicher spezieller Sonderschulen dient dazu, möglichst einheitliche Diagnosestandards in ganz Hamburg sicherzustellen.
 

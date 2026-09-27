@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8142", "21/3054"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58026"
@@ -52,1059 +53,1059 @@ e) bb) aufgeführten Unfälle?
 
 Die nachstehende Auflistung führt alle Straßen auf, in denen Verkehrsunfälle polizeilich im Sinne der Anfrage registriert wurden und bei denen mindestens bei einem Beteiligten Rad Fahrenden, Pkw-Führenden oder bei sonstiger Verkehrsbeteiligung eine zur Ursachengruppe „Straßenbenutzung“ gehörende Ursache angegeben worden ist:
 
- Falschfahrt auf Straßen mit nach Fahrtrichtung getrennten Fahrbahnen
+– Falschfahrt auf Straßen mit nach Fahrtrichtung getrennten Fahrbahnen
 
- Benutzung der Fahrbahn entgegen der vorgeschriebenen Fahrtrichtung in anderen
+– Benutzung der Fahrbahn entgegen der vorgeschriebenen Fahrtrichtung in anderen
 
 Fällen
 
- Verbotswidrige Benutzung der Fahrbahn oder anderer Straßenteile (zum Beispiel
+– Verbotswidrige Benutzung der Fahrbahn oder anderer Straßenteile (zum Beispiel
 
 Gehweg oder Radweg)
 
- Verstoß gegen das Rechtsfahrgebot
+– Verstoß gegen das Rechtsfahrgebot
 
 Bei Unfällen an Kreuzungen oder Einmündungen können bis zu zwei Straßen in der Datenbank eingetragen sein. In diesen Fällen sind beide Straßen in der Tabelle aufgeführt; weitere ebenfalls an den Knoten mündende Straßen können fehlen.
 
 Straße
 
- Adenauerallee
+– Adenauerallee
 
- Admiralitätstraße
+– Admiralitätstraße
 
- Adolph-Schönfelder-Straße
+– Adolph-Schönfelder-Straße
 
- Ahrensburger Straße
+– Ahrensburger Straße
 
- Ahrenshooper Straße
+– Ahrenshooper Straße
 
- Albert-Einstein-Ring
+– Albert-Einstein-Ring
 
- Alsenplatz
+– Alsenplatz
 
- Alsterkrugchaussee
+– Alsterkrugchaussee
 
- Alte Wöhr
+– Alte Wöhr
 
- Alter Berner Weg
+– Alter Berner Weg
 
- Alter Güterbahnhof
+– Alter Güterbahnhof
 
- Alter Weg
+– Alter Weg
 
- Alter Zollweg
+– Alter Zollweg
 
- Altonaer Straße
+– Altonaer Straße
 
- Am Barls
+– Am Barls
 
- Am Beckerkamp
+– Am Beckerkamp
 
- Am Diebsteich
+– Am Diebsteich
 
- Am Jagen
+– Am Jagen
 
- Am Neugrabener Bahnhof
+– Am Neugrabener Bahnhof
 
- Am Neumarkt
+– Am Neumarkt
 
- Am Pumpenkamp
+– Am Pumpenkamp
 
- Am Sooren
+– Am Sooren
 
- Am Stadtrand
+– Am Stadtrand
 
- Am Stühm-Süd
+– Am Stühm-Süd
 
- Amsinckstraße
+– Amsinckstraße
 
- Amtsstraße
+– Amtsstraße
 
- An der Alster
+– An der Alster
 
- Andreas-Knack-Ring
+– Andreas-Knack-Ring
 
- Andreasstraße
+– Andreasstraße
 
- Angerburger Straße
+– Angerburger Straße
 
- Anita-Sellenschloh-Ring
+– Anita-Sellenschloh-Ring
 
- Arminiusstraße
+– Arminiusstraße
 
- Asbrookdamm
+– Asbrookdamm
 
- Auf dem Felde
+– Auf dem Felde
 
- Auf dem Königslande
+– Auf dem Königslande
 
- August-Bebel-Straße
+– August-Bebel-Straße
 
- August-Krogmann-Straße
+– August-Krogmann-Straße
 
- Bäckerstieg
+– Bäckerstieg
 
- Bahrenfelder Chaussee
+– Bahrenfelder Chaussee
 
- Bahrenfelder Marktplatz
+– Bahrenfelder Marktplatz
 
- Bahrenfelder Straße
+– Bahrenfelder Straße
 
- Ballindamm
+– Ballindamm
 
- Barcastraße
+– Barcastraße
 
- Bargkoppelstieg
+– Bargkoppelstieg
 
- Barmbeker Straße
+– Barmbeker Straße
 
- Barnerstraße
+– Barnerstraße
 
- Barsbütteler Straße
+– Barsbütteler Straße
 
- Basaltweg
+– Basaltweg
 
- Bauerbergweg
+– Bauerbergweg
 
- Bebelallee
+– Bebelallee
 
- Behringstraße
+– Behringstraße
 
- Bei den St. Pauli-Landungsbrücken
+– Bei den St. Pauli-Landungsbrücken
 
- Bei der Johanniskirche
+– Bei der Johanniskirche
 
- Bei der Reitbahn
+– Bei der Reitbahn
 
- Bei St. Annen
+– Bei St. Annen
 
- Beim Rauhen Hause
+– Beim Rauhen Hause
 
- Bekassinenau
+– Bekassinenau
 
- Benittstraße
+– Benittstraße
 
- Bergedorfer Straße
+– Bergedorfer Straße
 
- Bergstedter Chaussee
+– Bergstedter Chaussee
 
- Berliner Tor
+– Berliner Tor
 
- Bernadottestraße
+– Bernadottestraße
 
- Berner Heerweg
+– Berner Heerweg
 
- Berner Straße
+– Berner Straße
 
- Berner Weg
+– Berner Weg
 
- Billstedter Hauptstraße
+– Billstedter Hauptstraße
 
- Billstraße
+– Billstraße
 
- Blankeneser Landstraße
+– Blankeneser Landstraße
 
- Bleicherweg
+– Bleicherweg
 
- Blomeweg
+– Blomeweg
 
- Blumenstraße
+– Blumenstraße
 
- Böcklinstraße
+– Böcklinstraße
 
- Borchersweg
+– Borchersweg
 
- Borchertring
+– Borchertring
 
- Bornkampsweg
+– Bornkampsweg
 
- Bornmühlenweg
+– Bornmühlenweg
 
- Boytinstraße
+– Boytinstraße
 
- Brabandstraße
+– Brabandstraße
 
- Brahmsallee
+– Brahmsallee
 
- Bramfelder Chaussee
+– Bramfelder Chaussee
 
- Bramfelder Straße
+– Bramfelder Straße
 
- Bremer Straße
+– Bremer Straße
 
- Brockdorffstraße
+– Brockdorffstraße
 
- Bürgerweide
+– Bürgerweide
 
- Burggarten
+– Burggarten
 
- Burgstraße
+– Burgstraße
 
- Buxtehuder Straße
+– Buxtehuder Straße
 
- Carl-Cohn-Straße
+– Carl-Cohn-Straße
 
- Caspar-Voght-Straße
+– Caspar-Voght-Straße
 
- Celsiusweg
+– Celsiusweg
 
- Chateauneufstraße
+– Chateauneufstraße
 
- Chemnitzstraße
+– Chemnitzstraße
 
- Conventstraße
+– Conventstraße
 
- Cuxhavener Straße
+– Cuxhavener Straße
 
- Deelböge
+– Deelböge
 
- Dehnhaide
+– Dehnhaide
 
- Denickestraße
+– Denickestraße
 
- Doberaner Weg
+– Doberaner Weg
 
- Doormannsweg
+– Doormannsweg
 
- Dorotheenstraße
+– Dorotheenstraße
 
- Drieschweg
+– Drieschweg
 
- Düsternstraße
+– Düsternstraße
 
- Dweerblöcken
+– Dweerblöcken
 
- Eckerkamp
+– Eckerkamp
 
- Edmund-Siemers-Allee
+– Edmund-Siemers-Allee
 
- Eggerstedtstraße
+– Eggerstedtstraße
 
- Ehestorfer Heuweg
+– Ehestorfer Heuweg
 
- Ehrenbergstraße
+– Ehrenbergstraße
 
- Eichenlohweg
+– Eichenlohweg
 
- Eidelstedter Weg
+– Eidelstedter Weg
 
- Eilbektal
+– Eilbektal
 
- Eimsbütteler Marktplatz
+– Eimsbütteler Marktplatz
 
- Elbchaussee
+– Elbchaussee
 
- Elbgaustraße
+– Elbgaustraße
 
- Elsässer Straße
+– Elsässer Straße
 
- Eppendorfer Baum
+– Eppendorfer Baum
 
- Eppendorfer Landstraße
+– Eppendorfer Landstraße
 
- Eppendorfer Weg
+– Eppendorfer Weg
 
- Ermlandweg
+– Ermlandweg
 
- Erste Brunnenstraße
+– Erste Brunnenstraße
 
- Esmarchstraße
+– Esmarchstraße
 
- Essener Straße
+– Essener Straße
 
- Eulenkrugstraße
+– Eulenkrugstraße
 
- Eulenstraße
+– Eulenstraße
 
- Eutiner Straße
+– Eutiner Straße
 
- Faberstraße
+– Faberstraße
 
- Fahrenkrön
+– Fahrenkrön
 
- Fangdieckstraße
+– Fangdieckstraße
 
- Farmsener Landstraße
+– Farmsener Landstraße
 
- Farmsener Weg
+– Farmsener Weg
 
- Farnhornweg
+– Farnhornweg
 
- Feldstraße
+– Feldstraße
 
- Fernsicht
+– Fernsicht
 
- Finkenstieg
+– Finkenstieg
 
- Flaßbarg
+– Flaßbarg
 
- Flurstraße
+– Flurstraße
 
- Foorthkamp
+– Foorthkamp
 
- Frahmredder
+– Frahmredder
 
- Franzosenkoppel
+– Franzosenkoppel
 
- Friedensallee
+– Friedensallee
 
- Friedensweg
+– Friedensweg
 
- Friedrich-Ebert-Damm
+– Friedrich-Ebert-Damm
 
- Friedrich-Frank-Bogen
+– Friedrich-Frank-Bogen
 
- Friedrichsberger Straße
+– Friedrichsberger Straße
 
- Frohmestraße
+– Frohmestraße
 
- Fruchtallee
+– Fruchtallee
 
- Fuhlsbüttler Straße
+– Fuhlsbüttler Straße
 
- Garstedter Weg
+– Garstedter Weg
 
- Gärtnerstraße
+– Gärtnerstraße
 
- Gaußstraße
+– Gaußstraße
 
- Georgswerder Damm
+– Georgswerder Damm
 
- Georg-Wilhelm-Straße
+– Georg-Wilhelm-Straße
 
- Geschwister-Scholl-Straße
+– Geschwister-Scholl-Straße
 
- Glacischaussee
+– Glacischaussee
 
- Glockengießerwall
+– Glockengießerwall
 
- Godenwind
+– Godenwind
 
- Gojenbergsweg
+– Gojenbergsweg
 
- Gorch-Fock-Straße
+– Gorch-Fock-Straße
 
- Gorch-Fock-Wall
+– Gorch-Fock-Wall
 
- Gottschalkring
+– Gottschalkring
 
- Grandweg
+– Grandweg
 
- Gräpelweg
+– Gräpelweg
 
- Grevenweg
+– Grevenweg
 
- Grillparzerstraße
+– Grillparzerstraße
 
- Grindelallee
+– Grindelallee
 
- Grömitzer Weg
+– Grömitzer Weg
 
- Grootmoor
+– Grootmoor
 
- Große Bergstraße
+– Große Bergstraße
 
- Großer Burstah
+– Großer Burstah
 
- Grosseweg
+– Grosseweg
 
- Großlohering
+– Großlohering
 
- Großmannstraße
+– Großmannstraße
 
- Großmoordamm
+– Großmoordamm
 
- Grot Sahl
+– Grot Sahl
 
- Grünebergstraße
+– Grünebergstraße
 
- Gurlittstraße
+– Gurlittstraße
 
- Habichtstraße
+– Habichtstraße
 
- Haderslebener Straße
+– Haderslebener Straße
 
- Hagenau
+– Hagenau
 
- Haldesdorfer Straße
+– Haldesdorfer Straße
 
- Halenreie
+– Halenreie
 
- Hallerstraße
+– Hallerstraße
 
- Halstenbeker Straße
+– Halstenbeker Straße
 
- Halstenbeker Weg
+– Halstenbeker Weg
 
- Hamburger Straße
+– Hamburger Straße
 
- Hammer Landstraße
+– Hammer Landstraße
 
- Hammer Steindamm
+– Hammer Steindamm
 
- Händelstraße
+– Händelstraße
 
- Hannoversche Straße
+– Hannoversche Straße
 
- Hans-Henny-Jahnn-Weg
+– Hans-Henny-Jahnn-Weg
 
- Harksheider Straße
+– Harksheider Straße
 
- Harnisch
+– Harnisch
 
- Hartzloh
+– Hartzloh
 
- Harvestehuder Weg
+– Harvestehuder Weg
 
- Hastedtstraße
+– Hastedtstraße
 
- Heckkatenweg
+– Heckkatenweg
 
- Heegbarg
+– Heegbarg
 
- Heestweg
+– Heestweg
 
- Heiddiek
+– Heiddiek
 
- Heinrich-Plett-Straße
+– Heinrich-Plett-Straße
 
- Heinrich-Stubbe-Weg
+– Heinrich-Stubbe-Weg
 
- Hellbrookstraße
+– Hellbrookstraße
 
- Helvetierweg
+– Helvetierweg
 
- Hemmingstedter Weg
+– Hemmingstedter Weg
 
- Herderstraße
+– Herderstraße
 
- Herrlichkeit
+– Herrlichkeit
 
- Heukoppel
+– Heukoppel
 
- Heußweg
+– Heußweg
 
- Hindenburgstraße
+– Hindenburgstraße
 
- Hofweg
+– Hofweg
 
- Hogrevestraße
+– Hogrevestraße
 
- Hohe Liedt
+– Hohe Liedt
 
- Hoheluftchaussee
+– Hoheluftchaussee
 
- Hohenwischer Straße
+– Hohenwischer Straße
 
- Hohenzollernring
+– Hohenzollernring
 
- Holländischer Brook
+– Holländischer Brook
 
- Holsteiner Chaussee
+– Holsteiner Chaussee
 
- Holstenhofweg
+– Holstenhofweg
 
- Holstenkamp
+– Holstenkamp
 
- Holstenwall
+– Holstenwall
 
- Holtenklinker Straße
+– Holtenklinker Straße
 
- Holzmühlenstraße
+– Holzmühlenstraße
 
- Hörgensweg
+– Hörgensweg
 
- Horner Landstraße
+– Horner Landstraße
 
- Horner Weg
+– Horner Weg
 
- Hudtwalckerstraße
+– Hudtwalckerstraße
 
- Humboldtstraße
+– Humboldtstraße
 
- Immenhorstweg
+– Immenhorstweg
 
- Innocentiastraße
+– Innocentiastraße
 
- Isestraße
+– Isestraße
 
- Jenfelder Allee
+– Jenfelder Allee
 
- Johann-Schmidt-Straße
+– Johann-Schmidt-Straße
 
- Jungfernstieg
+– Jungfernstieg
 
- Jungiusstraße
+– Jungiusstraße
 
- Kaiser-Wilhelm-Straße
+– Kaiser-Wilhelm-Straße
 
- Kajen
+– Kajen
 
- Karlshöhe
+– Karlshöhe
 
- Karnapp
+– Karnapp
 
- Karstenskoppel
+– Karstenskoppel
 
- Kedenburgstraße
+– Kedenburgstraße
 
- Kellinghusenstraße
+– Kellinghusenstraße
 
- Kerbelweg
+– Kerbelweg
 
- Kieler Straße
+– Kieler Straße
 
- Kiwittsmoor
+– Kiwittsmoor
 
- Kleiner Schäferkamp
+– Kleiner Schäferkamp
 
- Klosterstern
+– Klosterstern
 
- Klostertor
+– Klostertor
 
- Klosterwall
+– Klosterwall
 
- Köderheide
+– Köderheide
 
- Kollaustraße
+– Kollaustraße
 
- König-Georg-Deich
+– König-Georg-Deich
 
- Königshütter Straße
+– Königshütter Straße
 
- Königstraße
+– Königstraße
 
- Koppelstraße
+– Koppelstraße
 
- Krähenweg
+– Krähenweg
 
- Krausestraße
+– Krausestraße
 
- Kritenbarg
+– Kritenbarg
 
- Krochmannstraße
+– Krochmannstraße
 
- Krohnskamp
+– Krohnskamp
 
- Krohnstieg
+– Krohnstieg
 
- Kroneweg
+– Kroneweg
 
- Krusestraße
+– Krusestraße
 
- Küchgarten
+– Küchgarten
 
- Kuhmühle
+– Kuhmühle
 
- Kupferdamm
+– Kupferdamm
 
- Kurfürstenstraße
+– Kurfürstenstraße
 
- Kurt-A.-Körber-Chaussee
+– Kurt-A.-Körber-Chaussee
 
- Kurt-Schumacher-Allee
+– Kurt-Schumacher-Allee
 
- Ladenbeker Furtweg
+– Ladenbeker Furtweg
 
- Landwehr
+– Landwehr
 
- Lange Reihe
+– Lange Reihe
 
- Langelohstraße
+– Langelohstraße
 
- Langenfelder Straße
+– Langenfelder Straße
 
- Langenhorner Chaussee
+– Langenhorner Chaussee
 
- Lappenbergsallee
+– Lappenbergsallee
 
- Lauensteinstraße
+– Lauensteinstraße
 
- Lawaetzweg
+– Lawaetzweg
 
- Leinpfad
+– Leinpfad
 
- Lesserstraße
+– Lesserstraße
 
- Lessingstraße
+– Lessingstraße
 
- Leunastraße
+– Leunastraße
 
- Leverkusenstraße
+– Leverkusenstraße
 
- Lobuschstraße
+– Lobuschstraße
 
- Lohe
+– Lohe
 
- Lohkampstraße
+– Lohkampstraße
 
- Lohkoppelstraße
+– Lohkoppelstraße
 
- Lokstedter Holt
+– Lokstedter Holt
 
- Lottestraße
+– Lottestraße
 
- Louise-Schroeder-Straße
+– Louise-Schroeder-Straße
 
- Löwenstraße
+– Löwenstraße
 
- Lübecker Straße
+– Lübecker Straße
 
- Ludwig-Erhard-Straße
+– Ludwig-Erhard-Straße
 
- Ludwig-Rosenberg-Ring
+– Ludwig-Rosenberg-Ring
 
- Luisenweg
+– Luisenweg
 
- Luruper Chaussee
+– Luruper Chaussee
 
- Luruper Hauptstraße
+– Luruper Hauptstraße
 
- Lüttkamp
+– Lüttkamp
 
- Maimoorweg
+– Maimoorweg
 
- Manshardtstraße
+– Manshardtstraße
 
- Margit-Zinke-Straße
+– Margit-Zinke-Straße
 
- Marienthaler Straße
+– Marienthaler Straße
 
- Marschnerstraße
+– Marschnerstraße
 
- Martinistraße
+– Martinistraße
 
- Max-Brauer-Allee
+– Max-Brauer-Allee
 
- Mecklenburger Straße
+– Mecklenburger Straße
 
- Mehlandsredder
+– Mehlandsredder
 
- Meiendorfer Straße
+– Meiendorfer Straße
 
- Meiendorfer Weg
+– Meiendorfer Weg
 
- Mendelssohnstraße
+– Mendelssohnstraße
 
- Mergelgrund
+– Mergelgrund
 
- Merkenstraße
+– Merkenstraße
 
- Meßberg
+– Meßberg
 
- Milchgrund
+– Milchgrund
 
- Millerntordamm
+– Millerntordamm
 
- Millerntorplatz
+– Millerntorplatz
 
- Mittelweg
+– Mittelweg
 
- Möllner Landstraße
+– Möllner Landstraße
 
- Moorfleeter Straße
+– Moorfleeter Straße
 
- Moorhof
+– Moorhof
 
- Moorkamp
+– Moorkamp
 
- Mühlendamm
+– Mühlendamm
 
- Mundsburger Damm
+– Mundsburger Damm
 
- Müssenredder
+– Müssenredder
 
- Naumannplatz
+– Naumannplatz
 
- Nettelbeckstraße
+– Nettelbeckstraße
 
- Nettelnburger Straße
+– Nettelnburger Straße
 
- Neubergerweg
+– Neubergerweg
 
- Neue Straße
+– Neue Straße
 
- Neuengammer Hausdeich
+– Neuengammer Hausdeich
 
- Neuer Pferdemarkt
+– Neuer Pferdemarkt
 
- Neugrabener Bahnhofstraße
+– Neugrabener Bahnhofstraße
 
- Neuländer Straße
+– Neuländer Straße
 
- Neuwiedenthaler Straße
+– Neuwiedenthaler Straße
 
- Niendorfer Kirchenweg
+– Niendorfer Kirchenweg
 
- Nordheimstraße
+– Nordheimstraße
 
- Nüßlerkamp
+– Nüßlerkamp
 
- Obenhauptstraße
+– Obenhauptstraße
 
- Oberhafenbrücke
+– Oberhafenbrücke
 
- Oberstraße
+– Oberstraße
 
- Oldenfelder Stieg
+– Oldenfelder Stieg
 
- Oldesloer Straße
+– Oldesloer Straße
 
- Op de Solt
+– Op de Solt
 
- Ophagen
+– Ophagen
 
- Orchideenstieg
+– Orchideenstieg
 
- Osdorfer Landstraße
+– Osdorfer Landstraße
 
- Osdorfer Weg
+– Osdorfer Weg
 
- Osterfeldstraße
+– Osterfeldstraße
 
- Osterstraße
+– Osterstraße
 
- Övelgönne
+– Övelgönne
 
- Papendamm
+– Papendamm
 
- Papenreye
+– Papenreye
 
- Parchimer Straße
+– Parchimer Straße
 
- Parkallee
+– Parkallee
 
- Paul-Dessau-Straße
+– Paul-Dessau-Straße
 
- Paul-Sorge-Straße
+– Paul-Sorge-Straße
 
- Perlstieg
+– Perlstieg
 
- Perthesweg
+– Perthesweg
 
- Peterskampweg
+– Peterskampweg
 
- Peutestraße
+– Peutestraße
 
- Pezolddamm
+– Pezolddamm
 
- Pfeilshofer Weg
+– Pfeilshofer Weg
 
- Pflugacker
+– Pflugacker
 
- Pillauer Straße
+– Pillauer Straße
 
- Pinneberger Chaussee
+– Pinneberger Chaussee
 
- Plöner Straße
+– Plöner Straße
 
- Poppenbütteler Weg
+– Poppenbütteler Weg
 
- Poßmoorweg
+– Poßmoorweg
 
- Präsident-Krahn-Straße
+– Präsident-Krahn-Straße
 
- Professor-Brix-Weg
+– Professor-Brix-Weg
 
- Pulverhofsweg
+– Pulverhofsweg
 
- Quarree
+– Quarree
 
- Quellenweg
+– Quellenweg
 
- Rahlaukamp
+– Rahlaukamp
 
- Rahlstedter Bahnhofstraße
+– Rahlstedter Bahnhofstraße
 
- Rahlstedter Straße
+– Rahlstedter Straße
 
- Rahlstedter Weg
+– Rahlstedter Weg
 
- Randersweide
+– Randersweide
 
- Reeperbahn
+– Reeperbahn
 
- Regerstraße
+– Regerstraße
 
- Rehagen
+– Rehagen
 
- Rehrstieg
+– Rehrstieg
 
- Reichsbahnstraße
+– Reichsbahnstraße
 
- Reichskanzlerstraße
+– Reichskanzlerstraße
 
- Reiherdamm
+– Reiherdamm
 
- Reimboldweg
+– Reimboldweg
 
- Rektor-Ritter-Straße
+– Rektor-Ritter-Straße
 
- Rentzelstraße
+– Rentzelstraße
 
- Repsoldstraße
+– Repsoldstraße
 
- Rodigallee
+– Rodigallee
 
- Rödingsmarkt
+– Rödingsmarkt
 
- Rolfinckstraße
+– Rolfinckstraße
 
- Rondeel
+– Rondeel
 
- Rotenhäuser Damm
+– Rotenhäuser Damm
 
- Rotenhäuser Straße
+– Rotenhäuser Straße
 
- Rübenkamp
+– Rübenkamp
 
- Rudolf-Roß-Allee
+– Rudolf-Roß-Allee
 
- Rugenbarg
+– Rugenbarg
 
- Ruhrstraße
+– Ruhrstraße
 
- Saarlandstraße
+– Saarlandstraße
 
- Sahlenburger Straße
+– Sahlenburger Straße
 
- Sander Damm
+– Sander Damm
 
- Saseler Chaussee
+– Saseler Chaussee
 
- Saseler Damm
+– Saseler Damm
 
- Saseler Markt
+– Saseler Markt
 
- Saseler Weg
+– Saseler Weg
 
- Schäferkampsallee
+– Schäferkampsallee
 
- Scharbeutzer Straße
+– Scharbeutzer Straße
 
- Scheplerstraße
+– Scheplerstraße
 
- Schimmelmannstraße
+– Schimmelmannstraße
 
- Schippelsweg
+– Schippelsweg
 
- Schipperstegel
+– Schipperstegel
 
- Schleidenstraße
+– Schleidenstraße
 
- Schleswiger Damm
+– Schleswiger Damm
 
- Schloßgarten
+– Schloßgarten
 
- Schloßmühlendamm
+– Schloßmühlendamm
 
- Schloßstraße
+– Schloßstraße
 
- Schnackenburgallee
+– Schnackenburgallee
 
- Schröderstiftstraße
+– Schröderstiftstraße
 
- Schulterblatt
+– Schulterblatt
 
- Schulweg
+– Schulweg
 
- Schützenstraße
+– Schützenstraße
 
- Schwarzenbergstraße
+– Schwarzenbergstraße
 
- Schwarzer Weg
+– Schwarzer Weg
 
- Schwenckestraße
+– Schwenckestraße
 
- Sieker Landstraße
+– Sieker Landstraße
 
- Sierichstraße
+– Sierichstraße
 
- Sievekingplatz
+– Sievekingplatz
 
- Sievekingsallee
+– Sievekingsallee
 
- Singelmannsweg
+– Singelmannsweg
 
- Sommerweg
+– Sommerweg
 
- Sperberhorst
+– Sperberhorst
 
- Sportallee
+– Sportallee
 
- Spreestraße
+– Spreestraße
 
- St. Pauli Fischmarkt
+– St. Pauli Fischmarkt
 
- Stader Straße
+– Stader Straße
 
- Stadtbahnstraße
+– Stadtbahnstraße
 
- Stadtdeich
+– Stadtdeich
 
- Stadthausbrücke
+– Stadthausbrücke
 
- Stapelfelder Straße
+– Stapelfelder Straße
 
- Stapelstraße
+– Stapelstraße
 
- Statthalterplatz
+– Statthalterplatz
 
- Stefan-Zweig-Straße
+– Stefan-Zweig-Straße
 
- Steilshooper Allee
+– Steilshooper Allee
 
- Steilshooper Straße
+– Steilshooper Straße
 
- Steinbeker Grenzdamm
+– Steinbeker Grenzdamm
 
- Steinstraße
+– Steinstraße
 
- Stephansplatz
+– Stephansplatz
 
- Straßburger Straße
+– Straßburger Straße
 
- Stresemannstraße
+– Stresemannstraße
 
- Stuvkamp
+– Stuvkamp
 
- Süderelbebogen
+– Süderelbebogen
 
- Süderstraße
+– Süderstraße
 
- Sülldorfer Landstraße
+– Sülldorfer Landstraße
 
- Süntelstraße
+– Süntelstraße
 
- Tangstedter Landstraße
+– Tangstedter Landstraße
 
- Tarfenbööm
+– Tarfenbööm
 
- Tarpen
+– Tarpen
 
- Tarpenbekstraße
+– Tarpenbekstraße
 
- Tatenberger Deich
+– Tatenberger Deich
 
- Tesdorpfstraße
+– Tesdorpfstraße
 
- Thadenstraße
+– Thadenstraße
 
- Theodor-Schäfer-Damm
+– Theodor-Schäfer-Damm
 
- Tierparkallee
+– Tierparkallee
 
- Tonndorfer Hauptstraße
+– Tonndorfer Hauptstraße
 
- Torstraße
+– Torstraße
 
- Troplowitzstraße
+– Troplowitzstraße
 
- Überseeallee
+– Überseeallee
 
- Ueckerstraße
+– Ueckerstraße
 
- Ulmenliet
+– Ulmenliet
 
- Ulmenstraße
+– Ulmenstraße
 
- Ulzburger Straße
+– Ulzburger Straße
 
- Uppenhof
+– Uppenhof
 
- Uteweg
+– Uteweg
 
- Vierbergen
+– Vierbergen
 
- Vierlandenstraße
+– Vierlandenstraße
 
- Virchowstraße
+– Virchowstraße
 
- Vogt-Cordes-Damm
+– Vogt-Cordes-Damm
 
- Volksdorfer Damm
+– Volksdorfer Damm
 
- Volksdorfer Straße
+– Volksdorfer Straße
 
- Volksdorfer Weg
+– Volksdorfer Weg
 
- Von-Suppe-Straße
+– Von-Suppe-Straße
 
- Vörn Barkholt
+– Vörn Barkholt
 
- Vörstekoppel
+– Vörstekoppel
 
- Walddörferstraße
+– Walddörferstraße
 
- Waldweg
+– Waldweg
 
- Wallstraße
+– Wallstraße
 
- Wandsbeker Allee
+– Wandsbeker Allee
 
- Wandsbeker Chaussee
+– Wandsbeker Chaussee
 
- Wandsbeker Königstraße
+– Wandsbeker Königstraße
 
- Wandsbeker Straße
+– Wandsbeker Straße
 
- Wandsbeker Zollstraße
+– Wandsbeker Zollstraße
 
- Warnstedtstraße
+– Warnstedtstraße
 
- Wartenau
+– Wartenau
 
- Waterblöcken
+– Waterblöcken
 
- Weg beim Jäger
+– Weg beim Jäger
 
- Weidenallee
+– Weidenallee
 
- Wendemuthstraße
+– Wendemuthstraße
 
- Wentorfer Straße
+– Wentorfer Straße
 
- Westphalensweg
+– Westphalensweg
 
- Weusthoffstraße
+– Weusthoffstraße
 
- Weygandtstraße
+– Weygandtstraße
 
- Wiebelstraße
+– Wiebelstraße
 
- Wiemannweg
+– Wiemannweg
 
- Wiesendamm
+– Wiesendamm
 
- Wiesenredder
+– Wiesenredder
 
- Wiesingerweg
+– Wiesingerweg
 
- Wilhelm-Strauß-Weg
+– Wilhelm-Strauß-Weg
 
- Willy-Brandt-Straße
+– Willy-Brandt-Straße
 
- Wilsonstraße
+– Wilsonstraße
 
- Winterhuder Weg
+– Winterhuder Weg
 
- Wischhöfen
+– Wischhöfen
 
- Wischhofsweg
+– Wischhofsweg
 
- Wogenmannsburg
+– Wogenmannsburg
 
- Wohldorfer Damm
+– Wohldorfer Damm
 
- Wolffstraße
+– Wolffstraße
 
- Wördemanns Weg
+– Wördemanns Weg
 
- Zeppelinstraße
+– Zeppelinstraße
 
- Zeughausmarkt
+– Zeughausmarkt
 
- Zur Küperkoppel
+– Zur Küperkoppel
 
 ### Frage 2
 
@@ -1114,6 +1115,6 @@ Welche der unter 1. abgefragten Straßen verfügen über Radfahrstreifen?
 
 Welche der unter 1. abgefragten Straßen verfügen über Fahrradschutzstreifen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2196", "21/5039", "21/5139", "21/5331", "21/8105", "21/8118", "21/8233", "21/1395", "21/5138", "21/6233"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58311"
@@ -123,11 +124,11 @@ Ein Schwerpunkt in der Weiterentwicklung dieses Netzwerkes sollte in Interventio
 
 Das Landeskriminalamt (LKA) hat die Zielgruppe, die prinzipiell für eine Einbindung in die Präventionsarbeit in Frage kommen könnte, definiert:
 
- Ausstiegswillige Personen, die dem islamistischen Spektrum zugerechnet werden
+– Ausstiegswillige Personen, die dem islamistischen Spektrum zugerechnet werden
 
 und mit denen die Ermittlungsdienststelle des LKA befasst ist, darunter insbesondere Rückkehrerinnen und Rückkehrer aus jihadistischen Kampfgebieten, sofern strafrechtliche Belange dem nicht entgegenstehen.
 
- Angehörige und andere Menschen aus dem Umfeld der genannten Personen. Das
+– Angehörige und andere Menschen aus dem Umfeld der genannten Personen. Das
 
 weitere Vorgehen wird entsprechend dem Einzelfall geprüft. Bisher ist dem LKA keine ausstiegswillige Person aus dem oben definierten Personenkreis bekannt geworden.
 

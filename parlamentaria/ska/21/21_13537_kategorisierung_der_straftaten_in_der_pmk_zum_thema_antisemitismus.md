@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11620"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62906"
@@ -61,8 +62,7 @@ davon PMK-links-
 -  
 -  
 -  
-davon PMK-rechts-  
-davon PMK-sonstige/nicht zuzuordnen-  
+davon PMK-rechtsdavon PMK-sonstige/nicht zuzuordnen-  
 -  
 davon PMAK  
 -  
@@ -81,7 +81,7 @@ Nach welchen Kriterien ordnet der Senat Straftaten der PMK-Antisemitismus in die
 
 Wie ordnet der Senat Straftaten in die PMK-Antisemitismus ein, wenn keine näheren Angaben zum Täter bekannt sind?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die statistische Erfassung Politisch motivierter Kriminalität (PMK) erfolgt auf der Grundlage des bundeseinheitlichen Kriminalpolizeilichen Meldedienstes (KPMD). Ausgehend von den Umständen der Tat werden Straftaten der PMK nach dem Definitionssystem zunächst einem Themenfeld zugeordnet. Die phänomenologische Zuordnung, zum Beispiel zur PMK –links-, erfolgt im Anschluss gegebenenfalls aufgrund weiterer Informationen zur Tat oder Täterschaft. Ist der Sachverhalt nicht unter die Phänomenbereiche PMK -links-, PMK -rechts-, PMK -ausländische Ideologie- oder PMK -religiöse Ideologie- zu subsumieren, so ist er im Phänomenbereich PMK -nicht zuzuordnen- einzuordnen. Darüber hinaus sieht die ebenfalls bundeseinheitlich verbindliche „Ausfüllanleitung zur Kriminaltaktischen Anfrage in Fällen Politisch motivierter Kriminalität (KTA-PMK)“ derzeit vor: „Fremdenfeindliche sowie antisemitische Straftaten sind dem Phänomenbereich PMK -rechts- zuzuordnen, wenn keine gegenteiligen Tatsachen zur Tätermotivation vorliegen.“ Auch im Rahmen dieser Vorgaben erfolgt bereits bisher in einzelnen Fallkonstellationen, so etwa bei nachweislich fehlender politischer Motivation bei einem sogenannten echten Staatsschutzdelikt, eine Zuordnung antisemitischer Straftaten zur Kategorie PMK -nicht zuzuordnen-.
 

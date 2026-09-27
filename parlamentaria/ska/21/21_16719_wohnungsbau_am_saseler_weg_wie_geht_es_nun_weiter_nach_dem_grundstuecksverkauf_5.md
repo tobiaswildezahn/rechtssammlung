@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 60441
 seiten: 2
 fragen: 8
-einzelfragen: 16
-antwortbloecke: 6
+einzelfragen: 21
+antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16365", "21/14880", "21/16071", "21/10154"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66264"
@@ -60,7 +61,7 @@ Hält die zuständige Behörde das Staffelgeschoss für genehmigungsfähig, obwo
 
 Entspricht eine Höhe von drei Vollgeschossen und einem Staffelgeschoss im Einzelnen der Eigenart der näheren Umgebung nach § 34 BauGB? Ist eine bauliche Höhe an dieser Stelle auf dieser Basis genehmigungsfähig?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/16365.
 
@@ -80,29 +81,42 @@ Liegt das in Drs. 21/16071 erwähnte Verkehrsgutachten inzwischen vor? Wenn ja, 
 
 Wie werden derzeit die Auswirkungen der beantragten Bebauung und Nutzung des Grundstücks auf den Verkehr und die Auslastung des öffentlichen Parkraums in diesem Bereich eingeschätzt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Das Verkehrsgutachten vom 11. November 2018 wurde am 5. März 2019 bei der Bauaufsichtsbehörde eingereicht. Im Ergebnis sind durch die Realisierung der Kita und der Wohngebäude keine verkehrstechnischen Beeinträchtigungen des angrenzenden Straßennetzes zu erwarten. Die vorgesehenen Stellplätze für Kraftfahrzeuge, die Fahrradplätze sowie die Wegeflächen reichen für den zu erwartenden Verkehr aus. Eine Angabe des Verkehrsgutachters kann aus datenschutzrechtlichen Gründen nicht erfolgen.
 
 ### Frage 8
 
 Gemäß Drs. 21/10154 muss das von der Stadt verkaufte Grundstück 18 Monate nach Erteilung der Baugenehmigung bebaut sein.
-8.1. Zu welchem Termin wurden jeweils die Baugenehmigungen für die Baufelder 2, 3a und 3b erteilt?
 
-#### Antwort zu Frage 8
+### Frage 8.1
+
+Zu welchem Termin wurden jeweils die Baugenehmigungen für die Baufelder 2, 3a und 3b erteilt?
+
+#### Antwort zu Fragen 8 und 8.1
 
 Für das Baufeld 2 wurde die Baugenehmigung am 19. Februar 2019 erteilt. Für die Baufelder 3a und 3b wurden die Baugenehmigungen am 21. Februar 2019 erteilt.
 
-8.2. Stehen diese Baugenehmigungen unter der aufschiebenden Bedingung, dass auch für das Baufeld 1 eine Baugenehmigung erteilt wird?
+### Frage 8.2
 
-Wenn nein, warum nicht?
+Stehen diese Baugenehmigungen unter der aufschiebenden Bedingung, dass auch für das Baufeld 1 eine Baugenehmigung erteilt wird? Wenn nein, warum nicht?
+
+#### Antwort zu Frage 8.2
 
 Nein, da es sich um eigenständige Bauanträge handelt.
 
-8.3. Bezieht sich die in Drs. 21/10154 genannte 18-Monatsfrist auf die Bebauung des Gesamtgrundstücks? Welche Baugenehmigung ist dann für diese Frist maßgeblich?
+### Frage 8.3
+
+Bezieht sich die in Drs. 21/10154 genannte 18-Monatsfrist auf die Bebauung des Gesamtgrundstücks? Welche Baugenehmigung ist dann für diese Frist maßgeblich?
+
+#### Antwort zu Frage 8.3
 
 Die 18-Monatsfrist bezieht sich auf jedes einzelne Baufeld.
 
-8.4. Wann soll nach Kenntnis der zuständigen Stellen mit der Bebauung und Erschließung des Grundstücks begonnen werden?
+### Frage 8.4
+
+Wann soll nach Kenntnis der zuständigen Stellen mit der Bebauung und Erschließung des Grundstücks begonnen werden?
+
+#### Antwort zu Frage 8.4
 
 Die Baubeginnanzeige für den Hochbau liegt der zuständigen Bauaufsichtsbehörde noch nicht vor. Der Abbruch des Altbestands ist noch nicht genehmigt. Die Fällung der Bäume im Bereich der Baufelder 2, 3a und 3b wurde angezeigt.

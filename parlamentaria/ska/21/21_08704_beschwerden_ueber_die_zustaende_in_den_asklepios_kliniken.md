@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57430"
@@ -47,7 +48,7 @@ Wie viele Überstunden sind derzeit insgesamt in den Asklepios Kliniken angelauf
 
 Wie viele Stellen sind derzeit in den Asklepios Kliniken unbesetzt? Bitte Angaben je Asklepios Klinik machen und jeweils unterscheiden zwischen ärztlichem Personal, Pflegepersonal und sonstigem Personal!
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bei den erfragten Daten handelt es sich nach Angaben von Asklepios um Betriebsund Geschäftsgeheimnisse, die im Rahmen der Beantwortung von Parlamentarischen Anfragen nicht veröffentlicht werden können.
 

@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 36
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56462"
@@ -219,7 +220,7 @@ Wie gliedert sich das IfBQ? Welche Aufgaben nehmen die einzelnen Institutsteile 
 
 Welchen Tätigkeitsschwerpunkten sind welche Stellen zugeordnet und wie viele dieser Stellen sind besetzt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Zur Gliederung des Instituts und zur Zuordnung der Mitarbeiterinnen und Mitarbeiter sowie zu Tätigkeitsschwerpunkten siehe Antworten zu 1. und 2. sowie 7. bis 10.
 

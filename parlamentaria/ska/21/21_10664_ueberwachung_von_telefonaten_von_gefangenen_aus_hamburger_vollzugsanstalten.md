@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59563"
@@ -53,7 +54,7 @@ Werden Telefongespräche von Gefangenen aus der Untersuchungshaftanstalt oder de
 
 Werden Telefonate von Gefangenen der Untersuchungshaftanstalt oder der Justizvollzugsanstalten in Hamburg mitgeschnitten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

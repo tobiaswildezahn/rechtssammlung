@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52562"
@@ -55,7 +56,7 @@ Ist der Senat bereit auf die HPA einzuwirken, diesen Antrag der Firma KOTUG zur√
 
 Falls nein, wie will der Senat die bisherigen sicherheitstechnischen Anforderungen in der Seeschiffsassistenz sicherstellen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der HPA liegt kein Antrag vor.
 

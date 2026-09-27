@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 19
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/977", "21/979", "21/341", "21/1110", "21/754"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49400"
@@ -106,7 +107,7 @@ Im „Hamburger Abendblatt“ vom 29.7.2015 wird berichtet, dass zunächst Conta
 
 In der Antwort des Senats auf meine Anfrage vom 19.6.2015 (Drs. 21/754) heißt es, dass die Machbarkeitsstudie für die Unterbringung am Poppenbütteler Berg Ecke Ohlendieck „verschiedene Planungsvarianten und Gebäudekörper in mehrgeschossigen Festbauten mit jeweils insgesamt rund 170 Wohneinheiten“ beinhaltet. Wie viele Bewohner dürfen laut Feuerschutzverordnung und Baurecht maximal in diesen Wohneinheiten untergebracht werden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Das Bebauungsplanverfahren ist noch nicht abgeschlossen. Vor diesem Hintergrund können noch keine detaillierten Angaben gemacht werden.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1861"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55912"
@@ -44,7 +45,7 @@ Wie viele der 99 ermittelten Tatverdächtigen sind deutsche Staatsbürger und be
 
 Wie viele der 99 ermittelten Tatverdächtigen waren oder sind Asylbewerber oder besitzen einen anderen asyl- oder aufenthaltsrechtlichen Status?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In der Polizeilichen Kriminalstatistik (PKS) wird ein Fall in dem Monat gezählt, in dem er erfasst wurde. Die Tatzeit bleibt dabei unberücksichtigt. Die Angaben zur Staatsangehörigkeit und des aufenthaltsrechtlichen Status von Tatverdächtigen entsprechen dem Zeitpunkt der Erfassung dieser Daten in der PKS.
 
@@ -62,7 +63,7 @@ Wie viele der 99 ermittelten Tatverdächtigen mit Asylhintergrund sind zu welche
 
 Wie viele der verurteilten Sexualstraftäter mit Asylhintergrund sind abgeschoben worden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die PKS ist eine anonyme Statistik. Eine Reanonymisierung ist rechtlich unzulässig und wird in Bezug auf Tatverdächtige durch Verschlüsselung ausdrücklich verhindert, sodass eine personenbezogene Aufklärung und Auswertung im Sinne der Fragestellung zu 3. und 4. nicht möglich ist. Auch im ausländerbehördlichen Fachverfahren
 

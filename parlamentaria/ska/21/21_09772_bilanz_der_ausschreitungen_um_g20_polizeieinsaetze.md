@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 20
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58578"
@@ -102,19 +103,19 @@ Welche Formationen polizeilicher Sondereinsatzkräfte waren im Rahmen des G20-Gi
 
 Wie sah deren Bewaffnung aus?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Für die Polizei Hamburg waren Sondereinsatzkräfte aus anderen Ländern sowie aus Österreich (Cobra) im Einsatz. Im Rahmen der Einsatzlage am Schulterblatt waren folgende Sondereinsatzkräfte eingesetzt:
 
- Teilkräfte SEK Bayern
+– Teilkräfte SEK Bayern
 
- Teilkräfte SEK Hamburg
+– Teilkräfte SEK Hamburg
 
- Teilkräfte SEK Hessen
+– Teilkräfte SEK Hessen
 
- Teilkräfte SEK Sachsen
+– Teilkräfte SEK Sachsen
 
- Teilkräfte EK Cobra (AUT)
+– Teilkräfte EK Cobra (AUT)
 
 Darüber hinaus betrifft die Fragestellung die Einsatztaktik der Polizei, zu der vom Senat aus grundsätzlichen Erwägungen keine Angaben getätigt werden.
 
@@ -137,7 +138,7 @@ b) externe Polizeikräfte.
 
 In wie vielen Fällen liegen ernsthafte Verletzungen vor? Bitte jeweils auch die medizinische Indikation nennen.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Nach derzeitigem Stand wurden im Zeitraum vom 22. Juni bis zum 9. Juli 2017 im Verlauf des G20-Einsatzes mit Stand 14. Juli 2017 709 Polizeibeamte verletzt, davon 592 durch vorsätzliche Fremdeinwirkung. Darüber hinaus waren 227 erkrankte Polizeibeamte zu verzeichnen, davon litten 117 Beamte unter Erschöpfungssyndromen beziehungsweise Kreislaufproblemen.
 

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 36
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17241", "21/16767", "21/16864"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67084"
@@ -59,7 +60,7 @@ In welchem Umfang sind wofür genau in den Jahren 2017, 2018 und 2019 (Stand: 11
 
 Wurden in den Jahren 2017, 2018 und 2019 (Stand: 11.06.2019) die zur Verfügung stehenden ESF- und BASFI-Mittel jeweils ausgeschöpft? Falls dies nicht vollständig geschah, was ist mit den nicht ausgeschöpften Mitteln geschehen? Bitte differenziert darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Mittelabfluss des Projektes „Servicestelle ZAQ“ kann der folgenden Tabelle entnommen werden (Stand: 24.05.2019):
 
@@ -200,7 +201,7 @@ Warum wird diese Vorgehensweise im Jahr 2020 nicht fortgesetzt?
 
 Die aktuelle Vorgehensweise soll im Jahr 2020 durch eine Förderrichtlinie ersetzt werden: a. Wie wird sichergestellt, dass die Änderungen im Finanzierungsverfahren für die Beschäftigungsprojekte mit stadtteilpolitischem Nutzen nicht zu Finanzierungslücken führen? b. Nach welchen Kriterien soll es ab 2020 eine zusätzliche Förderung für Beschäftigungsprojekte mit stadtteilpolitischem Nutzen geben? c. Mittel in welcher Höhe stellt die BASFI dafür aus der Produktgruppe Arbeitsmarktpolitik für 2020 insgesamt bereit? d. Inwieweit ist es für diese zusätzliche Förderung von Projekten vorgesehen, dass auch die jeweiligen bezirklichen Quartiersfonds in Anspruch genommen werden müssen? aa. Wenn ja, in welchem Umfang soll dies jeweils geschehen? bb. Werden die Quartiersfonds dafür aufgestockt? Wenn ja, in welchem Umfang? Wenn nein, warum nicht? e. Inwieweit werden darüber hinaus Bundes- und/oder ESF-Mittel eingeplant? Wenn ja, in welcher Höhe jeweils? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Vorbemerkung.
 

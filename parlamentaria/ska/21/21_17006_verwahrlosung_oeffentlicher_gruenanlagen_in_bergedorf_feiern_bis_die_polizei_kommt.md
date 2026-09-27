@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66564"
@@ -47,7 +48,7 @@ Wie oft gab es in den letzten drei Jahren am Schillerufer und Schlosspark Beschw
 
 Ist es dabei zu Auffälligkeiten gekommen, die nahelegen, dass die Grünanlagen nicht zweckentsprechend genutzt werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Statistische Daten im Sinne der Fragestellungen werden weder vom zuständigen Bezirksamt Bergedorf noch von der Polizei erhoben.
 

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/2157", "19/4556", "21/1395", "20/4930", "16/4616"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50031"
@@ -507,7 +508,7 @@ Inwiefern wird die aktuelle Flüchtlingssituation bei der Ermittlung der Gefange
 
 Von wie vielen Inhaftierten geht die zuständige Behörde durchschnittlich bis zum Jahr 2020 aus? Bitte pro Jahr angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die zuständige Behörde beobachtet die Entwicklung der Belegungszahlen fortlaufend. Gegenwärtig liegen ihr keine belastbaren Hinweise auf einen Belegungsanstieg im Justizvollzug durch den Zuzug von Flüchtlingen vor. Im Bereich der Jugenduntersuchungshaft hat sich zwar die Zusammensetzung der Klientel durch eine vermehrte Inhaftierung unbegleiteter minderjähriger Flüchtlinge verändert. Ein signifikanter verfestigter Belegungsanstieg aufgrund dieser Gefangenengruppe ist aber im Vergleich zu den Vorjahren nicht zu verzeichnen.
 

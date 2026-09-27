@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 26
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14648", "21/2521", "20/8493", "20/11432"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53703"
@@ -57,7 +58,7 @@ Gibt es Register der in Hamburg installierten Flächen von Solarkollektoren bezi
 
 Gibt es entsprechende Register der in Hamburg geförderten neu installierten Flächen von Solarkollektoren beziehungsweise von PV-Anlagen (Bestand, jährliche Zu- und Abnahme, betreffende Gebäude) in den Senatsbehörden beziehungsweise in den Bezirksverwaltungen oder bei anderen Organisationen? a. Wenn ja: bei welchen Organisationen? b. Wenn nein: aus welchen Gründen nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es gibt kein Register der in Hamburg installierten Flächen von Solarkollektoren.
 
@@ -103,7 +104,7 @@ Welchen Einfluss auf diese Zielsetzungen für den Ausbau der Solarenergie haben 
 
 Welches Potenzial (Dach-, Fassaden- und Bodenanlagen) betrachtet der Senat für Hamburg als realistisch unter dem Einfluss und bei Berücksichtigung der Gründachstrategie?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Nach einer Erhebung des Landesbetriebs Geoinformation und Vermessung aus dem Frühjahr 2016 besitzt Hamburg eine Dachfläche von 70.402.349 m². Von der Gesamtdachfläche Hamburgs war 2014 eine Fläche von circa 800.000 m² (etwa 2.000 Dächer) begrünt.
 
@@ -125,7 +126,7 @@ Wie groß sind die Flächen, die in den letzten zehn Jahren in der Freien und Ha
 
 Wie groß sind die Flächen, die in den letzten zehn Jahren in der Freien und Hansestadt Hamburg mit öffentlich geförderten Solaranlagen ausgestattet wurden? Bitte pro Jahr die Anzahl, die durchschnittlichen Flächengrößen und die Spezifikation Photovoltaik oder Solarthermie angeben.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Zu den Flächen der in Hamburg installierten Photovoltaikanlagen sowie zu den Flächen der in Hamburg insgesamt installierten Solarthermieanlagen siehe Antwort zu 1. bis 2. b.
 

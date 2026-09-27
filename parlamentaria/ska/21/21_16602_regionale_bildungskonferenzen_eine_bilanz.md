@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66138"
@@ -150,7 +151,7 @@ Wie viele Sozialraumteams (SRT) gibt es in den Stadtteilen der sieben Bezirke? B
 
 Verfügen diese SRT über eigene Budgets? Wenn ja, mit welchen Mitteln jeweils und wie wurden diese seit ihrem Start bis heute verteilt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Nach Auskunft der Bezirke sind für die bezirklichen Sozialraumteams in 2019 folgende Budgets veranschlagt:
 

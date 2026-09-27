@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9056"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54025"
@@ -55,7 +56,7 @@ Welche Akteure sind in die Arbeiten einbezogen?
 
 Warum ist die Neuauflage entgegen der Ankündigung des Senats noch nicht veröffentlicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Mit der Erstellung der dem zweiten Hamburger Kreativwirtschaftsbericht zugrunde liegenden Studie wurde nach einer Ausschreibung die Firma Georg Consulting in Zusammenarbeit mit Economic Trends Research beauftragt. Akteure und Verbandsvertretungen aus den elf Teilmärkten der Hamburger Kreativwirtschaft wurden ebenso einbezogen wie Mitarbeiterinnen und Mitarbeiter der HKG sowie der zuständigen Behörden. Die Auswertung und Abstimmung der so erhobenen Daten hat sich als zeitintensiver erwiesen als zunächst geplant.
 

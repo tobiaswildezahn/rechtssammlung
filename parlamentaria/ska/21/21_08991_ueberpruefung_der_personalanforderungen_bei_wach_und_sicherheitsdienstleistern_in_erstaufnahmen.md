@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 16
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6898", "21/5673", "21/5823", "21/7644"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57734"
@@ -37,51 +38,51 @@ In den Vereinbarungen zum Betrieb einer Erstaufnahmeeinrichtung für Asylbewerbe
 
 ## Einleitung für die Antworten des Senats
 
- zuverlässigkeitsüberprüft und nicht vorbestraft ist (für das für den Einsatz
+– zuverlässigkeitsüberprüft und nicht vorbestraft ist (für das für den Einsatz
 
 im Objekt geplante Sicherheitspersonal ist vor dem ersten Einsatz ein erweitertes Führungszeugnis nach §30a Bundeszentralregistergesetz (BZRG) dem Auftragnehmer vorzulegen,
 
- der Überprüfung seiner Person durch die Polizei Hamburg und das Lan-
+– der Überprüfung seiner Person durch die Polizei Hamburg und das Lan-
 
 desamt für Verfassungsschutz vor dem Einsatz schriftlich mittels informierter Einwilligung mit dem beigefügten Formular zugestimmt,
 
- über eine Ausbildung in Erster Hilfe,
+– über eine Ausbildung in Erster Hilfe,
 
- Unterrichtung in den Grundlagen der Erstbrandbekämpfung,
+– Unterrichtung in den Grundlagen der Erstbrandbekämpfung,
 
- Verpflichtung gem. §8 (2) Bewachungsverordnung,
+– Verpflichtung gem. §8 (2) Bewachungsverordnung,
 
- Gesundheitszeugnis bzw. Nachweise über die Belehrung gem. §43 InfSG
+– Gesundheitszeugnis bzw. Nachweise über die Belehrung gem. §43 InfSG
 
 durch das Gesundheitsamt verfügt (bei Einsatz in Zusammenhang mit Verpflegung),
 
- charakterlich, geistig und körperlich geeignet ist,
+– charakterlich, geistig und körperlich geeignet ist,
 
- nicht drogen- oder alkoholabhängig ist,
+– nicht drogen- oder alkoholabhängig ist,
 
- ein gepflegtes äußeres Erscheinungsbild hat,
+– ein gepflegtes äußeres Erscheinungsbild hat,
 
- für einen dauerhaften Einsatz über eine durch Aus- oder Fortbildungszer-
+– für einen dauerhaften Einsatz über eine durch Aus- oder Fortbildungszer-
 
 tifikate nachgewiesene Grundausbildung in der Deeskalation in konfliktbehafteten Situationen hat,
 
- über eine nachgewiesene Ausbildung und Erfahrung bei der Abwehr kör-
+– über eine nachgewiesene Ausbildung und Erfahrung bei der Abwehr kör-
 
 perlicher Angriffe ohne Hilfsgegenstände verfügt,
 
- über Erfahrungen im Umgang mit Menschen und insbesondere jungen
+– über Erfahrungen im Umgang mit Menschen und insbesondere jungen
 
 Menschen und Menschen anderer Kulturen verfügt,
 
- sich bezüglich seiner Aufgabe und Rolle angemessen verhält und insbe-
+– sich bezüglich seiner Aufgabe und Rolle angemessen verhält und insbe-
 
 sondere Grenzen seines Handelns in Abgrenzung zu den Aufgaben des Personals des Auftragnehmers jederzeit berücksichtigt und entsprechend geschult ist,
 
- schriftlich Meldung über besondere Vorkommnisse und die geforderten
+– schriftlich Meldung über besondere Vorkommnisse und die geforderten
 
 Dokumentationen allgemein verständlich verfassen kann,
 
- in der Lage ist, mit dem Personal des Auftragnehmer in deutscher Spra-
+– in der Lage ist, mit dem Personal des Auftragnehmer in deutscher Spra-
 
 che, sowie ggf. mit den Besuchern sprachlich differenziert zu kommunizieren und ihnen, falls erforderlich, die Notwendigkeit von Kontroll- und Ordnungsmaßnahmen zu erläutern und sie zur Einhaltung der Hausordnung anzuhalten.“
 

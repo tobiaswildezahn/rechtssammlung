@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60822"
@@ -43,7 +44,7 @@ Wie viele von welchen Delikten wurden in Hamburg in den Jahren 2015, 2016 und 20
 
 Wie viele von welchen Delikten wurden in Hamburg in den Jahren 2015, 2016 und 2017 bis zum heutigen Tag von Tatverdächtigen/Beschuldigten mit dem Tatmittel „Waffe“ begangen? (Bitte aufschlüsseln wie bei Frage 1.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Polizei erfasst Straftaten gemäß dem Straftatenkatalog der Richtlinien für die Erfassung und Verarbeitung der Daten in der Polizeilichen Kriminalstatistik (PKS). Die Merkmale „bewaffnet“, „gefährliche Gegenstände“, „Waffe“ und „Messer“ werden in der PKS nicht erfasst. Zur Beantwortung dieser Fragen wäre eine Durchsicht aller Hand- und Ermittlungsakten des erfragten Zeitraums bei der Polizei erforderlich. Die Auswertung von mehreren Hunderttausend Akten ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -69,7 +70,7 @@ Wie viele von welchen Delikten wurden in den Jahren 2015, 2016 und 2017 bis zu h
 
 Wie viele von welchen Delikten wurden in den Jahren 2015, 2016 und 2017 bis zu heutigen Tag von Tatverdächtigen/Beschuldigten mit dem Tatmittel des gefährlichen Gegenstands begangen? (Bitte aufschlüsseln wie bei Frage 1.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 1. und 2.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/691", "21/1128"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49574"
@@ -51,7 +52,7 @@ Wie viele Flüchtlinge studieren derzeit an Hamburger Hochschulen?
 
 Mit wie vielen an Hamburger Hochschulen studierenden Flüchtlingen rechnet der Senat beziehungsweise Senatorin Fegebank für das kommende Wintersemester 2015/2016?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/1128.
 

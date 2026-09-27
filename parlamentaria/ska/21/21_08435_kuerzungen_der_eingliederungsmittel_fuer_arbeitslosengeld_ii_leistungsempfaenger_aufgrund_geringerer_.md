@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8191"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57147"
@@ -51,7 +52,7 @@ Wie hoch war die Anzahl der Zuweisungen oder die Ausgabe von Bildungsgutscheinen
 
 Wie viele tatsächliche Eintritte beziehungsweise Einlösungen der Bildungsgutscheine gab es nach Frage 1.? Bitte auflisten seit 2015 und seit 2016 bis aktuell monatlich nach jeweiligen Standorten des Jobcenter team.arbeit.hamburg sowie im Verhältnis zur Anzahl Ausgabe beziehungsweise Zuweisungen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es wird auf die öffentlich zugängliche statistische Auswertung der Bundesagentur für Arbeit „Zeitreihen zu ausgewählten arbeitsmarktpolitischen Instrumenten – Kreise – Februar 2017 – Hamburg, Stadt“ verwiesen:
 
@@ -69,7 +70,7 @@ Wie hoch war die Anzahl der ursprünglich geplanten Aktivierungs- und Vermittlun
 
 Wie hoch war die Anzahl der ursprünglich geplanten Bildungsgutscheine (FbW) für 2017 durch Jobcenter t.a.h. und wie hoch ist die Anzahl dieser Gutscheine in 2017 tatsächlich nach Bereinigung der Eingliederungsmittel?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Vor der Ende des Jahres 2016 erfolgten Mittelschätzung gab es keine Planungen, die in der Trägerversammlung behandelt wurden. Ein Vergleich von Planungen ist deshalb nicht möglich.
 

@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 11
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63245"
@@ -51,7 +52,7 @@ Wie war beziehungsweise ist in der Zwischenzeit der ordnungsgemäße Gang der Ge
 
 Führt die von der Bezirksversammlung gewählte Kandidatin das Bezirksamt seit dem 01.07.2018 kommissarisch? Wenn ja, auf welcher konkreten Rechtsgrundlage? Welche Entscheidungen wurden bislang von ihr in dieser Rolle abschließend gefällt beziehungsweise welche Rechtsgeschäfte wurden von ihr für das Bezirksamt Nord eingegangen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Bezirksamtsleitung wird während ihrer Abwesenheit durch die Dezernatsleitung Steuerung und Service vertreten, bei deren Abwesenheit durch die dienstälteste Dezernatsleitung, vergleiche Ziffer 2.3.2.2 Geschäftsordnung für die Bezirksämter. Derzeit vertritt die Leiterin des Dezernates Soziales, Jugend und Gesundheit als dienstälteste Dezernentin die Bezirksamtsleitung. Der letzte Wechsel in der Dezernatsleitung Steuerung und Service erfolgte am 24. März 2014.
 

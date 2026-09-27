@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10576"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62831"
@@ -51,7 +52,7 @@ Warum gab es jetzt diesen Hinweis beziehungsweise diese Klarstellung?
 
 Wurde bis zu diesem Hinweis der Schulbehörde in Basisklassen beziehungsweise Internationalen Vorbereitungsklassen auf dieses Mitwirkungsrecht der Eltern verzichtet? Wenn ja: warum? Wenn nein: Wie wurde es bisher umgesetzt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nein. Siehe Vorbemerkung sowie Antwort zu 6.
 

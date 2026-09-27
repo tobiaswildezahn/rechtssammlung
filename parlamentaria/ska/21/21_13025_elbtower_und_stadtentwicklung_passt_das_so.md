@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62362"
@@ -69,6 +70,6 @@ Wurden Öffentlichkeit sowie Bürgerinnen und Bürger bei Ausschreibung, Vergabe
 
 Gab es während Ausschreibung, Vergabe und Wettbewerb Absprachen zwischen dem Senat sowie den Fraktionen von SPD und GRÜNEN? Gab es zu diesem Projekt Kommunikation, Beteiligung und Abstimmung mit den Fraktionen von SPD und GRÜNEN oder sonstigen Dritten wie Parteimitgliedern und Genossen? Wenn ja, wann, zwischen wem und mit welchem Inhalt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 In der Phase der Vorbereitung wurden die Rahmenbedingungen der Ausschreibung sowohl in allgemeinen Informationsveranstaltungen (zum Beispiel im Kesselhaus in der HafenCity) als auch in speziellen öffentlichen Veranstaltungen (zum Beispiel beim Bund Deutscher Architekten BDA) oder auf Immobilienmessen (zum Beispiel MIPIM) vorgestellt. In diesem Zusammenhang wurde auch eine Vielzahl von Gesprächen mit unterschiedlichen Beteiligten geführt. Zudem wurden die Informationen zur Ausschreibung im Vorfeld bereits im Internet über die HafenCity-Seite dargestellt, genauso wie später der gesamte Ausschreibungstext.

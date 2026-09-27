@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67069"
@@ -100,7 +101,7 @@ b) In wie vielen der U-Bahn-Fahrzeuge, die über eine Klimaanlage verfügen, fun
 
 In wie vielen U-Bahn-Fahrzeugen waren in den Jahren 2015 – 2018 die Klimaanlagen defekt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Zum Stichtag 31. Mai 2019 betreibt die Hochbahn folgende Fahrzeuge:
 

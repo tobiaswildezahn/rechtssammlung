@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 29
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1917", "21/2225", "21/4356", "21/425"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53024"
@@ -108,7 +109,7 @@ Wie viele Personen waren an der Tat beteiligt? Wie viele davon sind Schüler der
 
 Waren auch Personen, die nicht Schüler dieser Schule sind, beteiligt? Wenn ja: Wie sind sie auf das Schulgelände gelangt?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Polizei geht nach gegenwärtigem Ermittlungsstand davon aus, dass über 20 Personen beteiligt waren. Im Rahmen der Fahndung wurden sieben Personen vorläufig festgenommen. Eine achte Person wurde anschließend im Laufe der ersten Ermittlungen identifiziert. Alle acht Personen werden im Ermittlungsverfahren als Beschuldigte geführt. Die Ermittlungen sind noch nicht abgeschlossen.
 

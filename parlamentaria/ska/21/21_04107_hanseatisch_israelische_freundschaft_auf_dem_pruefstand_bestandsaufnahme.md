@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52495"
@@ -83,31 +84,31 @@ Welche politischen, wirtschaftlichen und kulturellen Kooperationen sowie gemeins
 
 Die Kulturbehörde förderte folgende kulturelle Kooperationen und Projekte in der 20. und 21. Wahlperiode:
 
- Tanzperformance der Hamburgerin Danielle Brown beim Tmuna Theater in Tel
+– Tanzperformance der Hamburgerin Danielle Brown beim Tmuna Theater in Tel
 
 Aviv: “A Provocation Pure and Simple” (2012)
 
- Projekt Habitat: Ausstellung und Publikation mit deutschen und israelischen Künst-
+– Projekt Habitat: Ausstellung und Publikation mit deutschen und israelischen Künst-
 
 lern in der Noga Gallery in Tel Aviv, kuratiert von der Hamburger Künstlerin Gosia Machon (2012)
 
- Haran Mendel, Absolvent der Bezalel-Akademie und Künstler in Tel Aviv, als Artist
+– Haran Mendel, Absolvent der Bezalel-Akademie und Künstler in Tel Aviv, als Artist
 
 in Residence im Künstlerhaus FRISE (2012)
 
- HABITAT II – Ausstellung mit israelischen Künstlern im Vorwerkstift, kuratiert von
+– HABITAT II – Ausstellung mit israelischen Künstlern im Vorwerkstift, kuratiert von
 
 Gosia Machon (2013)
 
- Yael Efrati, Elad Larom, Ayelet Ben-Dor und Haran Mendel (Absolventen der
+– Yael Efrati, Elad Larom, Ayelet Ben-Dor und Haran Mendel (Absolventen der
 
 Bezalel-Akademie und Künstler in Tel Aviv) als Artist in Residence im Künstlerhaus FRISE (2013)
 
- Tanztheater: Gastperformance SUN des israelischen Künstlers Hofesh Shechter
+– Tanztheater: Gastperformance SUN des israelischen Künstlers Hofesh Shechter
 
 auf Kampnagel (2015)
 
- „This Red Door“: Kunstausstellung mit Künstlerinnen und Künstlern aus Israel und
+– „This Red Door“: Kunstausstellung mit Künstlerinnen und Künstlern aus Israel und
 
 den USA im Westwerk (2015)
 
@@ -117,13 +118,13 @@ dungen aus der Partnerschaft zurückgezogen hat, wird seit 2015 ein neue Partner
 
 In den Jahren 2011 bis 2015 hat die BASFI insgesamt 16 deutsch-israelische Jugendbegegnungen Hamburger Jugendhilfeträger in Israel und Deutschland mit insgesamt 367 deutschen und israelischen jugendlichen Teilnehmenden gefördert. Beteiligt waren am Austausch seit 2011 die folgenden freien Träger:
 
- Freies Kinder und Stadtteilzentrum e.V. (KIZ)
+– Freies Kinder und Stadtteilzentrum e.V. (KIZ)
 
- Verein Nöldekestraße e.V.
+– Verein Nöldekestraße e.V.
 
- Pfadfinder- und Pfadfinderinnenbund Nord e.V. (PBN)
+– Pfadfinder- und Pfadfinderinnenbund Nord e.V. (PBN)
 
- Neve Hanna Kinderhilfe e.V. Hamburg
+– Neve Hanna Kinderhilfe e.V. Hamburg
 
 Seit 2011 bis jetzt führt die BASFI eine deutsch-israelische Geschichtswerkstatt mit Jugendlichen aus Hamburg und Israel durch. An bisher drei Austauschprojekten und sechs Begegnungen im Rahmen der Geschichtswerkstatt waren insgesamt 36 Jugendliche aus Hamburg und 36 Jugendliche aus Israel beteiligt. Die Geschichtswerkstatt, die im Dezember 2015 in Israel durchgeführt wurde, war Bestandteil des offiziellen Programms des Deutschlandjahres in Israel anlässlich des 50-jährigen Jubiläums der deutsch-israelischen Beziehungen. Das Projekt wurde durch das Goethe- Institut Tel Aviv kofinanziert.
 
@@ -139,23 +140,23 @@ Anlässlich des 50. Jahrestages der gegenseitigen Aufnahme von diplomatischen Be
 
 Die bestehende Kooperation zwischen dem Landesinstitut für Lehrerbildung und Schulentwicklung (LI) und der International School for Holocaust Studies (ISHS) Yad Vashem ist langjährig gewachsen und wird seit 2011 aktiv gepflegt und gefördert. Diese Kooperation wird seit 2015 auf Grundlage des zwischen der Freien und Hansestadt Hamburg und der ISHS abgeschlossenen Kooperationsvertrages weiter ausgebaut und umfasst:
 
- Fortbildungen: Regelmäßige gemeinsame Lehrerfortbildungen in Hamburg (pro
+– Fortbildungen: Regelmäßige gemeinsame Lehrerfortbildungen in Hamburg (pro
 
 Jahr ein bis zwei Durchführungen), bei denen neue Unterrichtsmaterialien und -zugänge vorstellt und diskutiert werden sowie ein Austausch zwischen den in der Praxis stehenden Lehrkräften und den pädagogischen Mitarbeitern beider Institutionen (ISHS und LI) stattfindet.
 
- Austauschtreffen: Regelmäßige Arbeits- und Vernetzungstreffen zwischen den
+– Austauschtreffen: Regelmäßige Arbeits- und Vernetzungstreffen zwischen den
 
 Lehrerbildnern des LI und pädagogischen Mitarbeitern der ISHS. Dazu gehört auch die Teilnahme an bundesweiten Vernetzungstreffen der Lehrerbildner der Bundesländer mit der deutschen Vertretung der ISHS (zuletzt am 15. April 2016 in Berlin).
 
- Tagungen: Gemeinsame Tagungen zur deutsch-jüdischen Geschichte. Eine erste
+– Tagungen: Gemeinsame Tagungen zur deutsch-jüdischen Geschichte. Eine erste
 
 mit mehr als 200 Teilnehmenden fand am 18. Oktober 2013 unter mit dem Titel „Deutsche Juden, jüdische Deutsche – und ihre Nachbarn. Perspektiven für den Hamburger Geschichtsunterricht“ statt. Eine weitere gemeinsame Tagung ist für September 2017 geplant.
 
- Seminarfahrt: Vom 18. bis zum 27. Oktober 2016 bietet das LI in Kooperation mit
+– Seminarfahrt: Vom 18. bis zum 27. Oktober 2016 bietet das LI in Kooperation mit
 
 Yad Vashem eine erste Seminarfahrt für 20 Lehrerinnen und Lehrer aus Hamburg an. Inhalt sind sowohl kulturelle Begegnungen wie historisch-politische Bildung in Jerusalem (insbesondere an der ISHS Yad Vashem) und Tel Aviv. Weitere Fahrten in den nächsten Jahren sind angedacht.
 
- Materialentwicklung: Ein Arbeitskreis von Lehrerfortbildnern aus Yad Vashem,
+– Materialentwicklung: Ein Arbeitskreis von Lehrerfortbildnern aus Yad Vashem,
 
 Hamburg, NRW und Schleswig-Holstein bereitet eine Publikation und didaktische Aufbereitung des Unterrichtspaketes „Was geht mich die Geschichte an“ der ISHS vor. Dabei sind nicht nur eine flächendeckende Verbreitung an den Schulen und umfassende Lehrerfortbildungen sondern auch eine konzeptionelle Weiterentwicklung vor dem Hintergrund einer Neuausrichtung der „Holocaust-Education“ einerseits und den gegenwärtigen Herausforderungen im Schulunterricht (unter anderem Heterogenität, Inklusion, Zuwanderungsgesellschaft) geplant.
 
@@ -175,51 +176,51 @@ Darüber hinaus steht auch der wissenschaftliche Austausch zwischen Israel und H
 
 #### Antwort zu Frage 5
 
- Universität Hamburg, Fakultät Rechtswissenschaft kooperiert mit der Universität
+– Universität Hamburg, Fakultät Rechtswissenschaft kooperiert mit der Universität
 
 Haifa.
 
- Universität Hamburg, Fakultät für Erziehungswissenschaft kooperiert mit dem
+– Universität Hamburg, Fakultät für Erziehungswissenschaft kooperiert mit dem
 
 Joseph-Carlebach-Institut an der Bar Ilan Universität in Ramat Gan/Israel (jährliche finanzielle Unterstützung der Zusammenarbeit mit dem Joseph-Carlebach-Institut in Israel durch die BWFG in Höhe von 26.000 Euro über die Stiftung „Institut für die Geschichte der deutschen Juden“).
 
- Universität Hamburg, medizinischen Fakultät hat Austausch mit dem Hadassa
+– Universität Hamburg, medizinischen Fakultät hat Austausch mit dem Hadassa
 
 University Hospital Jerusalem und dem Hadassah Medical Centre, Jerusalem sowie dem Goldyne Savad Institute of Gene Therapy, dem Weizman Institute of Science, Rehovot und der Universität Haifa sowie dem Technion (Israel Institute of Technology).
 
- Universität Hamburg, Fakultät für Geisteswissenschaften, FB Asien-Afrika-Wissen-
+– Universität Hamburg, Fakultät für Geisteswissenschaften, FB Asien-Afrika-Wissen-
 
 schaften kooperiert mit israelischen Universitäten, zum Beispiel in Form des German-Israeli Foundation Project (2012 – 2015) und hat gelegentliche Zusammenarbeit und Teilnahme an Konferenzen mit der Israel Antiquity Authority, dem Israel Museum, der Hebrew University und der Ben Gurion University.
 
- Universität Hamburg, Fakultät für Betriebswirtschaft kooperiert im Rahmen einer
+– Universität Hamburg, Fakultät für Betriebswirtschaft kooperiert im Rahmen einer
 
 DFG-Forschergruppe mit Forschern aus Israel.
 
- Technische Universität Hamburg-Harburg kooperiert mit dem Technion-Israel Insti-
+– Technische Universität Hamburg-Harburg kooperiert mit dem Technion-Israel Insti-
 
 tute of Technology.
 
- Hochschule für Angewandte Wissenschaften Hamburg, Fakultät Design, Medien
+– Hochschule für Angewandte Wissenschaften Hamburg, Fakultät Design, Medien
 
 und Information (DMI) unterhält Kontakt mit der Bezalel Academy of Art and Design Jerusalem sowie dem Shenkar College of Engineering and Design Tel Aviv.
 
- Hochschule für Angewandte Wissenschaften Hamburg, Department Verfahrens-
+– Hochschule für Angewandte Wissenschaften Hamburg, Department Verfahrens-
 
 technik der Fakultät Life Sciences führt eine Projektbegleitung der Inbetriebnahme eines Groß-Molkereibetriebes in Israel (Netivot) durch.
 
- HafenCity Universität Hamburg kooperiert mit dem Technion-Israel Institute of
+– HafenCity Universität Hamburg kooperiert mit dem Technion-Israel Institute of
 
 Technology (Haifa).
 
- Hochschule für bildende Künste Hamburg unterhält ein bilaterales Abkommen über
+– Hochschule für bildende Künste Hamburg unterhält ein bilaterales Abkommen über
 
 den Austausch von Studierenden mit der Bezalel Academy of Arts and Design in Jerusalem im Rahmen der Art School Alliance.
 
- Hochschule für Musik und Theater Hamburg unterhält eine Kooperation mit der
+– Hochschule für Musik und Theater Hamburg unterhält eine Kooperation mit der
 
 Jerusalem Academy of Music and Dance.
 
- Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky ist Projektpartnerin
+– Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky ist Projektpartnerin
 
 der National Library Israels.
 
@@ -327,23 +328,23 @@ und Integration.
 
 Beim Fachaustausch  
 in Israel waren vertreten:  
-•  
+–  
 Ein Vertreter  
 der BASFI  
-•  
+–  
 Eine Vertreterin des Jugendamtes Harburg  
-•  
+–  
 Zwei Mitarbeiterinnen des  
 „Freies Kinder und  
 Stadteilzentrum e.V.“  
 (KIZ)  
-•  
+–  
 Eine Vertreterin des Verein  
 Nöldekestraße e.V.  
-•  
+–  
 Eine Vertreterin des Pfadfinderund Pfadfinderinnenbund Nord e.V.  
 (PBN)  
-•  
+–  
 Eine freie  
 Mitarbeiterin der  
 deutsch-israelischen  

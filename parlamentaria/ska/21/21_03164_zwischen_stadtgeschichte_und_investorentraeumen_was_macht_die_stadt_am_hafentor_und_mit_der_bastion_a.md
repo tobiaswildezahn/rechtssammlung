@@ -11,9 +11,10 @@ fraktionen: ["Die Linke"]
 vorgang: 47048
 seiten: 4
 fragen: 6
-einzelfragen: 7
-antwortbloecke: 6
+einzelfragen: 33
+antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10243", "20/13051"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51505"
@@ -47,26 +48,35 @@ Wie ist der aktuelle Stand des Bebauungsplan-Entwurfs Neustadt 42 „Hafentor“
 
 Der vorhabenbezogene Bebauungsplan-Entwurf Neustadt 42 „Hafentor“ ist am 1. April 2014 im Hauptausschuss in Vertretung für die Bezirksversammlung Hamburg-Mitte beschlossen worden.
 
-1.1. Welche Verfahrensschritte sind schon erfolgt?
+### Frage 1.1
+
+Welche Verfahrensschritte sind schon erfolgt?
+
+#### Antwort zu Frage 1.1
 
 Es sind alle vorgeschriebenen Verfahrensschritte im Bebauungsplanverfahren durchgeführt worden. Dazu zählen insbesondere der Aufstellungsbeschluss, die Bürgerbeteiligung (öffentliche Plandiskussion), die Beteiligung der Träger öffentlicher Belange, die öffentliche Auslegung sowie die Prüfung der eingegangenen Stellungnahmen.
 
-1.2. Liegt bereits die Vorweggenehmigungsreife vor?
+### Frage 1.2
 
-Falls nicht: Wann ist sie nach gegenwärtigem Zeitplan erreicht?
+Liegt bereits die Vorweggenehmigungsreife vor? Falls nicht: Wann ist sie nach gegenwärtigem Zeitplan erreicht?
 
-1.3. Ist geplant von einer Vorweggenehmigung Gebrauch zu machen?
+### Frage 1.3
 
-Wenn ja, wann wäre damit ist zu rechnen?
+Ist geplant von einer Vorweggenehmigung Gebrauch zu machen? Wenn ja, wann wäre damit ist zu rechnen?
+
+#### Antwort zu Fragen 1.2 und 1.3
 
 Ja. Am 29. Dezember 2015 ist bei dem zuständigen Bezirksamt der Bauantrag eingereicht worden.
 
 ### Frage 2
 
 Was sehen die aktuellen Pläne des Investors „Euroland“ vor?
-2.1. Was soll genau und in welcher Dimension und Höhe gebaut werden?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Was soll genau und in welcher Dimension und Höhe gebaut werden?
+
+#### Antwort zu Fragen 2 und 2.1
 
 Parallel zur Straße Stintfang soll ein Wohngebäude mit einem zwei- bis dreigeschossigen Basisgeschoss und mit einer weiteren Erhöhung in einem Teilbereich auf insgesamt maximal sechs Geschosse errichtet werden. Es sollen ausschließlich Mietwohnungen sowie Einzelhandel und teilweise Büros umgesetzt werden. Das Bauvorhaben beinhaltet ein Volumen von insgesamt 5.263 m² Bruttogeschossfläche mit folgenden Gebäudehöhen:
 
@@ -76,25 +86,45 @@ Gebäudehöhe zweigeschossiger Baukörper 15,1 m NN
 
 Gebäudehöhe dreigeschossiger Baukörper 18,2 m NN
 
-2.2. Wie verhält es sich mit dem Verhältnis von Gewerbe- und Büroraum beziehungsweise den Anteilen von öffentlich gefördertem und frei finanziertem Wohnungsbau?
+### Frage 2.2
+
+Wie verhält es sich mit dem Verhältnis von Gewerbe- und Büroraum beziehungsweise den Anteilen von öffentlich gefördertem und frei finanziertem Wohnungsbau?
+
+#### Antwort zu Frage 2.2
 
 Im Durchführungsvertrag ist ein Anteil von mindestens 50 Prozent der insgesamt zu errichtenden Wohnfläche als öffentlich geförderter Mietwohnungsbau vertraglich gesichert.
 
 Der eingereichte Bauantrag wird zurzeit geprüft, sodass derzeit keine weiteren Angaben gemacht werden können.
 
-2.3. Was hat sich an den gegenwärtigen Plänen von „Euroland“ gegenüber den ursprünglichen beziehungsweise früheren Entwürfen, soweit sie in der Senatsantwort auf unsere Schriftliche Kleine Anfrage vom 17. Dezember 2013 (Drs. 20/10243) Erwähnung fanden, geändert?
+### Frage 2.3
+
+Was hat sich an den gegenwärtigen Plänen von „Euroland“ gegenüber den ursprünglichen beziehungsweise früheren Entwürfen, soweit sie in der Senatsantwort auf unsere Schriftliche Kleine Anfrage vom 17. Dezember 2013 (Drs. 20/10243) Erwähnung fanden, geändert?
+
+#### Antwort zu Frage 2.3
 
 Das Bauantragsverfahren läuft aktuell.
 
-2.4. Welche Änderungen hat der Investor im Vergleich zum ursprünglichen Bauantrag wann beantragt?
+### Frage 2.4
+
+Welche Änderungen hat der Investor im Vergleich zum ursprünglichen Bauantrag wann beantragt?
+
+#### Antwort zu Frage 2.4
 
 Es gibt keinen ursprünglichen Bauantrag.
 
-2.5. Welche Änderungen sind bereits im Bauausschuss vorgestellt und beraten worden?
+### Frage 2.5
+
+Welche Änderungen sind bereits im Bauausschuss vorgestellt und beraten worden?
+
+#### Antwort zu Frage 2.5
 
 Der Bauantrag befindet sich im Prüfverfahren, sodass eine Beteiligung des Bauausschusses noch nicht stattgefunden hat.
 
-2.6. Welche Änderungen wurden der Öffentlichkeit vorgestellt? Falls keine Information der Öffentlichkeit erfolgte: warum nicht?
+### Frage 2.6
+
+Welche Änderungen wurden der Öffentlichkeit vorgestellt? Falls keine Information der Öffentlichkeit erfolgte: warum nicht?
+
+#### Antwort zu Frage 2.6
 
 Im öffentlichen Teil der Sitzung des Stadtplanungsausschusses am 18. November 2015 wurde über Änderungen der Planung berichtet. Dabei handelt es sich lediglich
 
@@ -108,13 +138,19 @@ Wenn es Änderungen an den Plänen von „Euroland“ gegeben haben sollte, waru
 
 Siehe Antwort zu 2.4.
 
-3.1. Wann liefen ggfs. Fristen ab, den (neuen) Bauantrag einzureichen?
+### Frage 3.1
 
-3.2. Wann war der genaue Abgabetermin für den Bauantrag?
+Wann liefen ggfs. Fristen ab, den (neuen) Bauantrag einzureichen?
 
-3.3. Wurde der Bauantrag fristgerecht abgegeben?
+### Frage 3.2
 
-Wenn nein, wie geht die zuständige Behörde damit um?
+Wann war der genaue Abgabetermin für den Bauantrag?
+
+### Frage 3.3
+
+Wurde der Bauantrag fristgerecht abgegeben? Wenn nein, wie geht die zuständige Behörde damit um?
+
+#### Antwort zu Fragen 3.1, 3.2 und 3.3
 
 Bereits vor Ablauf der vertraglich vereinbarten Frist am 28. August 2015 hat das zuständige Bezirksamt Gespräche mit dem Vorhabenträger geführt. Dieser konnte glaubhaft nachweisen, dass er die vertraglich vereinbarte Frist zur Abgabe des Bauantrags nicht werde einhalten können und noch eine Verlängerung von etwa vier Monaten benötige. Diese Verlängerung wurde dem Vorhabenträger zugestanden.
 
@@ -128,7 +164,11 @@ Welchen Stellenwert haben historische und denkmalschützerische Aspekte bei dem 
 
 Nach Abwägung der öffentlichen Interessen wurden die denkmalpflegerischen Belange zugunsten des Wohnungsbaus zurückgestellt.
 
-4.1. Was steht auf dem Stintfang konkret unter Denkmalschutz, was gilt als denkmalwürdig und was nicht?
+### Frage 4.1
+
+Was steht auf dem Stintfang konkret unter Denkmalschutz, was gilt als denkmalwürdig und was nicht?
+
+#### Antwort zu Frage 4.1
 
 Zwischen Seewartenstraße, Kuhberg/Hafentor, Bei den St. Pauli-Landungsbrücken und Helgoländer Allee stehen unter Denkmalschutz:
 
@@ -140,23 +180,27 @@ Zwischen Seewartenstraße, Kuhberg/Hafentor, Bei den St. Pauli-Landungsbrücken 
 
 - die Kersten-Miles-Brücke über die Helgoländer Allee.
 
-4.2. Welche Flächen wurden gegebenenfalls wann und warum aus den denkmalgeschützten Hanglagen herausgenommen?
+### Frage 4.2
+
+Welche Flächen wurden gegebenenfalls wann und warum aus den denkmalgeschützten Hanglagen herausgenommen?
+
+#### Antwort zu Frage 4.2
 
 Es wurden keine Flächen der Hanglagen aus dem geschützten Bereich herausgenommen.
 
-4.3. Welche Gutachten und Expertisen sind wann, von wem und mit jeweils welchem Ergebnis eingeholt worden?
+### Frage 4.3
 
-4.4. Welche Rolle haben bisher die kritischen Äußerungen des Kunsthistorikers und ehemaligen Mitarbeiters beim Denkmalschutz Prof. Dr. Hermann Hipp gespielt? Ist er in die Bewertung dieses Ortes offiziell miteinbezogen worden?
+Welche Gutachten und Expertisen sind wann, von wem und mit jeweils welchem Ergebnis eingeholt worden?
 
-Wenn ja, mit welchem Ergebnis?
+### Frage 4.4
 
-Wenn nein, warum nicht?
+Welche Rolle haben bisher die kritischen Äußerungen des Kunsthistorikers und ehemaligen Mitarbeiters beim Denkmalschutz Prof. Dr. Hermann Hipp gespielt? Ist er in die Bewertung dieses Ortes offiziell miteinbezogen worden? Wenn ja, mit welchem Ergebnis? Wenn nein, warum nicht?
 
-4.5. Welche Rolle haben bisher die kritischen Äußerungen der Landschaftsarchitektin Prof. Dipl. Ing. Jana Sörensen gespielt? Ist sie in die Bewertung dieses Ortes offiziell miteinbezogen worden?
+### Frage 4.5
 
-Wenn ja, mit welchem Ergebnis?
+Welche Rolle haben bisher die kritischen Äußerungen der Landschaftsarchitektin Prof. Dipl. Ing. Jana Sörensen gespielt? Ist sie in die Bewertung dieses Ortes offiziell miteinbezogen worden? Wenn ja, mit welchem Ergebnis? Wenn nein, warum nicht?
 
-Wenn nein, warum nicht?
+#### Antwort zu Fragen 4.3, 4.4 und 4.5
 
 Die zuständige Behörde hat keine Expertisen eingeholt, da der Vorgang mit eigenem Sachverstand hinreichend zu beurteilen ist. Insofern erfolgte keine Hinzuziehung Dritter.
 

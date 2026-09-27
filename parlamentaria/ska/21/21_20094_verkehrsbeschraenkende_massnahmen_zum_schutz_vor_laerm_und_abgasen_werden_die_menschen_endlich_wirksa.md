@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 22
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17553", "21/10225", "21/16357", "21/14628"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69855"
@@ -201,7 +202,7 @@ Zu wie vielen der unter 2. genannten Anträge, für die Klage vor dem Verwaltung
 
 Welche Ergebnisse haben die Urteile beziehungsweise die Vergleiche?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Im Sinne der Fragestellung in keinem Verfahren.
 

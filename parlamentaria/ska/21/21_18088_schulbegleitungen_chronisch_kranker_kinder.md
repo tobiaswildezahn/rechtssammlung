@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12544", "21/7832", "21/16115"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67710"
@@ -122,7 +123,7 @@ Bei wie vielen chronisch kranken Kindern und Jugendlichen sind pflegerische Tät
 
 Wie gewährleistet der Senat, dass diese Kinder und Jugendlichen die nötige Unterstützung durch eine Pflegekraft oder – je nach Art der pflegerischen Handlung – Pflegefachkraft erhalten?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Im Rahmen der fachlichen Prüfung im Vorfeld der Bewilligung einer Schulbegleitung werden sowohl pädagogische als auch pflegerische Unterstützungsbedarfe erhoben. Dabei erfolgt keine Unterscheidung, ob diese Bedarfe allein aufgrund einer chronischen Erkrankung oder aufgrund einer umfassenderen Behinderung entstehen. Vor diesem Hintergrund liegen keine Daten vor, die eine separate Auswertung allein für die Zielgruppe chronisch erkrankter Schülerinnen und Schüler erlaubt.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66385"
@@ -77,7 +78,7 @@ Sind in diesem Jahr bereits Kündigungen für Untermietverträge mit Kita- Träg
 
 Gibt es aktuell Überlegungen, die Raumnot an Schulen durch die Kündigung von Untermietverträgen mit Kita-Trägern zu lösen und welche Auswirkungen sind damit verbunden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Nein. Im Übrigen siehe Vorbemerkung.
 

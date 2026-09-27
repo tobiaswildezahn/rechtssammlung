@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65338"
@@ -53,7 +54,7 @@ Wie werden die Balkone bei den Mietwohnungen der städtischen Unternehmen – wi
 
 Sollte die Anrechnung ein Viertel übersteigen: Wie wird die höhere Anrechnung gerechtfertigt? Insbesondere welche Feststellungen wurden auf welche Weise getroffen, um eine entsprechende Verkehrssitte nachzuweisen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 26
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7496", "21/7867"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56525"
@@ -96,43 +97,43 @@ Zu den derzeit an der UHH, HAW und HfMT laufenden Verfahren im Einzelnen:
 
 UHH: Die UHH führt ihr Verfahren mit der Agentur ACQUIN durch. Im Rahmen der Teilsystemakkreditierung der Lehramtsstudiengänge wurden beziehungsweise werden folgende Teilstudiengänge bis Sommer 2017 evaluiert:
 
- Erziehungswissenschaft (Bachelor und Master)
+– Erziehungswissenschaft (Bachelor und Master)
 
- Geographie (Bachelor und Master)
+– Geographie (Bachelor und Master)
 
- Deutsch (Bachelor und Master)
+– Deutsch (Bachelor und Master)
 
- Englisch (Bachelor und Master)
+– Englisch (Bachelor und Master)
 
- Französisch (Bachelor und Master)
+– Französisch (Bachelor und Master)
 
- Spanisch (Bachelor und Master)
+– Spanisch (Bachelor und Master)
 
- Mathematik (Bachelor und Master)
+– Mathematik (Bachelor und Master)
 
- Physik (Bachelor und Master)
+– Physik (Bachelor und Master)
 
- Informatik (Bachelor und Master)
+– Informatik (Bachelor und Master)
 
- Alevitische Relgion (Bachelor)
+– Alevitische Relgion (Bachelor)
 
- Islamische Religion (Bachelor)
+– Islamische Religion (Bachelor)
 
- Gesundheitswissenschaften (Bachelor und Master)
+– Gesundheitswissenschaften (Bachelor und Master)
 
- Sozialwissenschaften* (Bachelor und Master)
+– Sozialwissenschaften* (Bachelor und Master)
 
- Betriebswirtschaftslehre* (Bachelor und Master)
+– Betriebswirtschaftslehre* (Bachelor und Master)
 
- Latein* (Bachelor und Master)
+– Latein* (Bachelor und Master)
 
- Russisch* (Bachelor und Master)
+– Russisch* (Bachelor und Master)
 
- Griechisch* (Bachelor und Master)
+– Griechisch* (Bachelor und Master)
 
- Chemie* (Bachelor und Master)
+– Chemie* (Bachelor und Master)
 
- Chemietechnik* (Bachelor und Master)
+– Chemietechnik* (Bachelor und Master)
 
 Die restlichen Lehramtsteilstudiengänge Biologie, Geschichte, Philosophie, katholische, evangelische Religion, Sport, Kosmetikwissenschaften, Ernährungs- und Haushaltswissenschaften sowie Wirtschaftswissenschaften werden Ende Sommersemester 2018 evaluiert sein. Die externen Kosten für das Verfahren der Teilsystemakkreditierung betragen 42.000 Euro plus Umsatzsteuer (Akkreditierungsagentur ACQUIN). Die externen Kosten für die Qualitätssicherung aller Teilstudiengänge und Studiengänge im Lehramt (Begutachtungen) belaufen sich im Zeitraum WiSe 2015/2016 – WiSe 2018/2019 auf circa 70.000 Euro. Darüber hinaus wurden den am Pilotverfahren beteiligten drei Fakultäten (Fakultät EW, Fakultät GW und Fakultät MIN) insgesamt
 52.587,54 Euro für wissenschaftliche Mitarbeiter zur Unterstützung des Verfahrens zur Verfügung gestellt. Für die Koordinierung und Betreuung der Systemakkreditierung im Lehramt hält die UHH zentral eine befristete VZÄ E 13 und für die Durchführung der internen Evaluation und Zertifizierung weitere 1,5 VZÄ E13/E14 vor. Weitere interne Kosten fallen durch den Einsatz von Lehrenden, Wissenschaftlichen Mitarbeitern und TVP für die Teilnahme an den Vorortbesuchen der Gutachter an. Diese Kosten hängen von den jeweiligen organisatorischen Rahmenbedingungen ab und lassen sich dementsprechend nicht konkret beziffern.
@@ -189,7 +190,7 @@ Ist sichergestellt, dass künftig private Hochschulen mit Sitz und Stimme (wenig
 
 Erhält der Verband der Privaten Hochschulen (VPH) neben der Hochschulrektorenkonferenz (HRK) hierzu in Artikel 9 Absatz 2 Satz 2 des Staatsvertrages ein eigenes Vorschlagsrecht? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Das Bundesverfassungsgericht hat nicht verlangt, dass bestimmte Hochschultypen durch besondere Vertreterinnen und Vertreter repräsentiert werden müssen. Im Übrigen gehen die Länder davon aus, dass die Hochschulrektorenkonferenz – der auch nicht staatliche Hochschulen angehören – bei der Benennung der wissenschaftlichen Vertreterinnen und Vertreter die verschiedenen Hochschulen in Deutschland berücksichtigen wird.
 

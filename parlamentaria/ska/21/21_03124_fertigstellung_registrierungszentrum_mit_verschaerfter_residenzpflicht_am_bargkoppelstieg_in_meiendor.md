@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2148", "21/2496", "21/2724", "21/2883", "21/2837"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51458"
@@ -131,15 +132,15 @@ Wie sehen die derzeitigen Kosten aus? Weichen die Ist-Kosten von den Plankosten 
 
 Aktuell sind für den Bargkoppelstieg bauseitig Kosten in Höhe von 566.000 Euro entstanden, hiervon entfallen
 
- rund 6.000 Euro auf Reparaturarbeiten,
+– rund 6.000 Euro auf Reparaturarbeiten,
 
- rund 58.000 Euro auf Werkmaterial,
+– rund 58.000 Euro auf Werkmaterial,
 
- rund 378.000 Euro auf Montagearbeiten,
+– rund 378.000 Euro auf Montagearbeiten,
 
- rund 80.000 Euro auf Entsorgungen und
+– rund 80.000 Euro auf Entsorgungen und
 
- 44.000 Euro auf Transporte.
+– 44.000 Euro auf Transporte.
 
 Für den Bargkoppelweg 60 und 66 a sind bauseitige Rechnungen in Höhe von rund
 3.000 Euro für Honorare und rund 20.000 Euro für Montagearbeiten beglichen worden (Stand: 4. Februar 2016).
@@ -152,6 +153,6 @@ Mit welchen Kosten wird angesichts der jetzigen Erfahrungen bis zur Fertigstellu
 
 Was sind im Einzelnen die Gründe für die Kostensteigerung?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Mit Ausnahme der monatlichen Mietkosten und sonstigen Sachkosten (für Büromaterial, Betten oder Ähnliches) sind etwaige weitere zusätzliche Kosten derzeit nicht kalkulierbar. Zum gegenwärtigen Zeitpunkt liegen keine Anhaltspunkte bezüglich einer etwaigen Kostensteigerung vor.

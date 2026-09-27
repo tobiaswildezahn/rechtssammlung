@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7966"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57187"
@@ -46,7 +47,7 @@ Wie viele bis zu unter siebenjährige Hamburger Kinder werden in Hamburg im Rahm
 
 Wie viele Hamburger Kinder davon werden in der Krippe betreut und wie viele im Elementar-Bereich? Bitte die Zahl der betreuten Kinder und die Quote der betreuten Kinder nennen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Anzahl der betreuten Kinder im Elementarbereich liegt wegen des Übergangs des ältesten Elementarjahrgangs in die Schule im Oktober turnusmäßig auf einem deutlich niedrigeren Niveau als zum Jahresende. Der Höchststand bei der Inanspruchnahme der Elementarbetreuung wird regelmäßig vor dem Beginn der Sommerferien erreicht.
 

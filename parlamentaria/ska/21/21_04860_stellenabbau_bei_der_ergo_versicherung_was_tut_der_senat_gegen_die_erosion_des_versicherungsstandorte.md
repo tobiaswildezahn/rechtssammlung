@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53304"
@@ -85,7 +86,7 @@ Wie viele Stellen sind bei welchen Versicherern in Hamburg wann in welchem Jahr 
 
 Wie viele Stellen waren bei welchen Versicherern in Hamburg wann jeweils seit 2012 jährlich vorhanden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die amtliche Statistik (Statistische Berichte des Statistischen Amtes für Hamburg und Schleswig-Holstein AöR – Statistikamt Nord) veröffentlicht aus datenschutzrechtlichen Gründen keine konkreten Unternehmensdaten. Der zuständigen Behörde liegen daher dazu keine Erkenntnisse vor. Im Übrigen unterliegen diese Daten dem Betriebs- und Geschäftsgeheimnis des Unternehmens.
 
@@ -107,7 +108,7 @@ Wie definiert der Senat den Versicherungsstandort Hamburg?
 
 Welche Rolle spielt der Versicherungsstandort Hamburg für die Metropolregion und welche Ziele verfolgt der Senat bei dessen Ausbau?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Metropolregion Hamburg gehört zu den wettbewerbsfähigsten Regionen Deutschlands und Europas. Aufgrund der Vielfalt der Wirtschaftszeige, der Zahl der ansässigen Unternehmen, ihrer Innovationskraft, der qualifizierten Beschäftigten und der guten vorhandenen Infrastruktur ist die Wirtschaft auch weiterhin auf Wachstumskurs. In der Metropolregion leben 5,1 Millionen Menschen.
 

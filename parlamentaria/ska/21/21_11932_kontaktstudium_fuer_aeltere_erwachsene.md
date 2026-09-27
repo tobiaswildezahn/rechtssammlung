@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61183"
@@ -47,7 +48,7 @@ Wie viele Teilnehmer hatte das Programm „Kontaktstudium für ältere Erwachsen
 
 Welche Altersstruktur wiesen die Teilnehmer des KSE jeweils in den Jahren 2015, 2016, 2017 auf? (Bitte um Angabe aufgegliedert nach Jahr, Alter, Winter- und Herbstsemester.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

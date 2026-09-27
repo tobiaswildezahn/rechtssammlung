@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56898"
@@ -43,7 +44,7 @@ Von wann bis wann gab es in den letzten sechs Monaten wegen der Vogelgrippe in H
 
 Wie räumlich ausgedehnt war beziehungsweise ist die Anleinpflicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Gemäß § 55 Absatz 1 und § 56 Geflügelpest-Verordnung sind bei amtlicher Feststellung eines Verdachts auf Geflügelpest bei einem Wildvogel Restriktionszonen festzulegen. Diese können frühestens 30 Tage nach Festlegung wieder aufgehoben werden. Innerhalb bestehender Restriktionszonen hat der Tierhalter sicherzustellen, dass Hunde und Katzen nicht frei umherlaufen.
 

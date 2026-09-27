@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49817"
@@ -80,7 +81,7 @@ Wie viele Kunden haben bisher den Rabatt in Anspruch genommen?
 
 Wie viele Tickets wurden seit Einführung des Rabattes verkauft (mit und ohne Rabatt)?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Vom 1. bis zum 15. September 2015 wurden an den Parkscheinautomaten 24.533 Parkscheine verkauft, davon 1.065 rabattierte „30-Tage-Karten“.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54091"
@@ -43,23 +44,23 @@ Wo ist Parken in der Straße Bellevue noch erlaubt? Bitte bei der Antwort auch e
 
 Darf nach Kenntnis des Senats beziehungsweise der zuständigen Behörde auf der linken Seite der Straße Bellevue (in Fahrtrichtung) geparkt werden? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In der Straße Bellevue gelten folgende Parkregelungen:
 
- Beidseitiges Parken am Fahrbahnrand zwischen Rondeel und Fernsicht
+– Beidseitiges Parken am Fahrbahnrand zwischen Rondeel und Fernsicht
 
- Parken auf Gehwegen auf der Ostseite zwischen Fernsicht und Scheffelstraße
+– Parken auf Gehwegen auf der Ostseite zwischen Fernsicht und Scheffelstraße
 
- Parken im markierten Seitenstreifen auf der Ostseite in Höhe Hausnummern Belle-
+– Parken im markierten Seitenstreifen auf der Ostseite in Höhe Hausnummern Belle-
 
 vue 29 – 30
 
- Parken im markierten Seitenstreifen auf der Westseite zwischen Fernsicht und
+– Parken im markierten Seitenstreifen auf der Westseite zwischen Fernsicht und
 
 Scheffelstraße
 
- Parken im markierten Seitenstreifen auf der West- beziehungsweise Südseite zwi-
+– Parken im markierten Seitenstreifen auf der West- beziehungsweise Südseite zwi-
 
 schen Scheffelstraße und Sierichstraße
 
@@ -81,6 +82,6 @@ Wie viele Strafzettel wegen Falschparkens in der Straße Bellevue wurden im lauf
 
 Wie viele Strafzettel wegen Falschparkens in der Straße Bellevue wurden seit 2011 ausgestellt und auf welche Summe belaufen sich die dadurch eingeforderten Buß- beziehungsweise Verwarngelder? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Statistik der zuständigen Behörde lässt keine Differenzierung im Sinne der Fragestellung zur Auswertung nach einzelnen Stadtteilen oder Straßenzügen zu. Eine Auswertung im Sinne der Fragestellung würde die nachträgliche Auswertung sämtlicher Verfahren erfordern. Dieses ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.

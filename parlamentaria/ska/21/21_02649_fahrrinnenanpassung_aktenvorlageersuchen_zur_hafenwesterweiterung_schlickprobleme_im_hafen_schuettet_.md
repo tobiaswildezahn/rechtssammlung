@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14100"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50956"
@@ -47,7 +48,7 @@ Ist es zutreffend, dass die Umweltbehörde die Wasser- und Schifffahrtsdirektion
 
 Was sind die Gründe für die unter 1. erbetene Fristverlängerung?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ja. Die Behörde für Umwelt und Energie (BUE) hatte vorsorglich eine Fristverlängerung beantragt.
 
@@ -121,7 +122,7 @@ Was ist der aktuelle Stand des Anfang Oktober 2015 beschlossenen Aktenvorlageers
 
 Was ist die Ursache dafür, dass die Umweltbehörde die Unterlagen nicht innerhalb von drei Monaten der Bürgerschaft zuleiten konnte?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der Drucksachenentwurf, mit dem der Senat beschließt, die Akten vorzulegen, befindet sich zurzeit in der Behördenabstimmung. Es ist beabsichtigt, die Akten der Bürgerschaft in der ersten Januarwoche 2016 zur Verfügung zu stellen.
 

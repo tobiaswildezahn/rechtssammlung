@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["23/2689", "23/3781"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/104979"

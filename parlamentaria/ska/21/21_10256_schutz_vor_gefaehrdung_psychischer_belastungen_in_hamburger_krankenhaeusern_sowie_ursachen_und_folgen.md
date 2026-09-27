@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 18
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7352", "21/4142"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59096"
@@ -194,11 +195,11 @@ Gibt es in den Krankenhäusern übergreifende Konzepte zur Verbesserung einer me
 
 Nach Kenntnis der zuständigen Behörde werden in Krankenhäusern verschiedene übergreifende Konzepte praktiziert, zum Beispiel:
 
-• standardisierte Kommunikationswege (Meldesysteme, Qualitätszirkel, Betriebliches Vorschlagswesen und regelmäßige Besprechungen) tragen dazu bei, Kritikpunkte und Verbesserungsvorschläge aufzunehmen und bewerten zu können,
+– standardisierte Kommunikationswege (Meldesysteme, Qualitätszirkel, Betriebliches Vorschlagswesen und regelmäßige Besprechungen) tragen dazu bei, Kritikpunkte und Verbesserungsvorschläge aufzunehmen und bewerten zu können,
 
-• verschiedene Instrumente, wie zum Beispiel externe Teambegleitung, Supervisionen, innerbetriebliche und externe Fort- und Weiterbildung et cetera,
+– verschiedene Instrumente, wie zum Beispiel externe Teambegleitung, Supervisionen, innerbetriebliche und externe Fort- und Weiterbildung et cetera,
 
-• unterschiedliche Maßnahmen, die in Verfahrensanweisungen geregelt sind, zum Beispiel Dienstplangestaltung, Regel- und Mindestbesetzung, Ausfallmanagement, Qualifikationsmix mit entsprechender Aufgaben- und Kompetenzübertragung.
+– unterschiedliche Maßnahmen, die in Verfahrensanweisungen geregelt sind, zum Beispiel Dienstplangestaltung, Regel- und Mindestbesetzung, Ausfallmanagement, Qualifikationsmix mit entsprechender Aufgaben- und Kompetenzübertragung.
 
 ### Frage 12
 
@@ -239,19 +240,19 @@ Wird die Gefährdungsbeurteilung in den Hamburger Krankenhäusern nachvollziehba
 
 Für die Nachvollziehbarkeit der Gefährdungsbeurteilung sind folgende Kriterien maßgeblich:
 
- Erfassung aller Arbeitsplätze/Tätigkeiten im Betrieb, zutreffende Ermittlung und
+– Erfassung aller Arbeitsplätze/Tätigkeiten im Betrieb, zutreffende Ermittlung und
 
 Beurteilung der Gefährdungen,
 
- Festlegung von Schutzmaßnahmen sowie von Verantwortlichen und Fristen für die
+– Festlegung von Schutzmaßnahmen sowie von Verantwortlichen und Fristen für die
 
 Umsetzung der Maßnahmen,
 
- Realisierung der Schutzmaßnahmen nach dem Stand der Technik und arbeitswis-
+– Realisierung der Schutzmaßnahmen nach dem Stand der Technik und arbeitswis-
 
 senschaftlichen Erkenntnissen,
 
- Überprüfung der Wirksamkeit der Schutzmaßnahmen und Fortschreibung der
+– Überprüfung der Wirksamkeit der Schutzmaßnahmen und Fortschreibung der
 
 Gefährdungsbeurteilung.
 

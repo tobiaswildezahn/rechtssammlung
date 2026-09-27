@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 37
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7633", "21/7986", "21/8420", "21/4284"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60180"
@@ -170,7 +171,7 @@ Gibt es mittlerweile konkrete (Zeit-)Planungen der zuständigen Behörde, wann d
 a) Wenn ja: Welche Schulen sollen jeweils wann eine entsprechend ausgelegte Infrastruktur erhalten? Wie genau soll diese Ausstattung aussehen und welche Voraussetzungen benötigt diese?
 b) Wenn nein: Warum nicht?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Es ist geplant, zunächst die weiterführenden Schulen, beginnend im Schuljahr 2018/ 2019, mit einer bedarfsgerechten WLAN-Ausstattung auszurüsten. Hierzu sind im Wesentlichen noch Finanzierungsfragen im Rahmen der Bund-Länder-Abstimmung zu einem möglichen „Digitalpakt Schule“ zu klären, die aber erst nach einer Regierungsbildung im Bund abgeschlossen werden können. Im Übrigen siehe Drs. 21/8420.
 
@@ -182,7 +183,7 @@ Wie viele und welche Schulen verfügen derzeit über ein medienpädagogisches Ko
 
 Wie stellt der Senat sicher, dass alle Schulen zeitnah ein aktuelles Konzept haben werden?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Im Rahmen des Sonderinvestitionsprogramms SIP 2010 haben alle allgemeinbildenden staatlichen Schulen ein medienpädagogisches Konzept (sogenannter Medienentwicklungsplan) erstellt und zur Dokumentation eingereicht.
 

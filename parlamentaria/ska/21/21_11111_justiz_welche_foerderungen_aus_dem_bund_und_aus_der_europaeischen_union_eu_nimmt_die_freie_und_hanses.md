@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 24
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60079"
@@ -55,7 +56,7 @@ Welche Programme des Bundes zur Förderung der Justiz insbesondere zu Projekten 
 
 Welche Summen stellt der Bund nach Kenntnis der zuständigen Behörde für die einzelnen Programme jeweils zur Verfügung? Bitte aufschlüsseln für die letzten drei Jahre sowie Angabe der zur Verfügung stehenden Haushaltsmittel für 2017 und 2018.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Beratungsstelle „Legato – Systemische Ausstiegsberatung – Fach- und Beratungsstelle für religiös begründete Radikalisierung“ (Träger: Vereinigung Pestalozzi gemeinnützige GmbH und Ambulante Maßnahmen Altona e.V.) führt im Justizvollzug seit dem 1. Juli 2017 das Projekt „Legato PräJus – Prävention im justiziellen Feld“ durch (Träger: Ambulante Maßnahmen Altona e.V.). Zur Zielgruppe gehören betroffene Gefangene aller Hamburger Vollzugsanstalten sowie Probanden der Bewährungsund Jugendgerichtshilfe. Die Angebote von Legato PräJus werden im Rahmen des Bundesprogramms „Demokratie Leben!“, Maßnahmen der Prävention und Deradikalisierung in Strafvollzug und Bewährungshilfe, und einer Kofinanzierung der zuständigen Behörde gefördert (www.demokratie-leben.de).
 
@@ -140,7 +141,7 @@ Aus welchen Programmen kann die Stadt Hamburg Mittel zur Finanzierung von Projek
 
 In welcher Höhe gingen die in den Jahren 2014, 2015, 2016 und 2017 der Stadt Hamburg von der EU zugeflossenen Mittel an die Hamburger Justiz insbesondere Projekte im Justizvollzug? Bitte nach einzelnen Jahren und Programmen aufschlüsseln.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Folgende Projekte der Justiz wurden auf Grundlage des ESF-OP bewilligt:
 

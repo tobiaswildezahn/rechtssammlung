@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 22
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14549", "20/5317", "21/14050", "21/10110", "21/5600", "21/1282", "20/12720"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67337"
@@ -127,6 +128,6 @@ Wie viele Beschwerden bezüglich Uneinigkeiten nach 10. sind beim Landesbetrieb 
 
 Wie vielen Beschwerden nach 12. hat der Landesbetrieb SBH einvernehmlich abhelfen können?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Seit 2014 haben Uneinigkeiten über Nachbeauftragungen in 19 Fällen zu Rechtsstreitigkeiten geführt. Davon sind sieben Verfahren abgeschlossen, von denen sechs durch einen Vergleich endeten.

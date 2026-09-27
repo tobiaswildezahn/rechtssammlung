@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4666"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53386"
@@ -71,25 +72,25 @@ Was wurde betreffend die Exzellenzstrategie am 16. Juni 2016 beschlossen?
 
 Inwieweit unterscheidet sich der Beschluss vom 16. Juni 2016 inhaltlich von demjenigen vom 22. April 2016?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
- Der Charakter der für alle sieben Jahre vorgesehenen Evaluation der Exzellenzu-
+– Der Charakter der für alle sieben Jahre vorgesehenen Evaluation der Exzellenzu-
 
 niversitäten und Universitätsverbünde ist stärker selektiv und eröffnet damit mehr Chancen für eine Förderung neuer Exzellenzuniversitäten.
 
- Neuausschreibungen für Exzellenzuniversitäten werden regelhaft vorgesehen und
+– Neuausschreibungen für Exzellenzuniversitäten werden regelhaft vorgesehen und
 
 schriftlich festgehalten.
 
- In der ersten Ausschreibungsrunde sollen elf statt acht bis elf Exzellenzuniversitä-
+– In der ersten Ausschreibungsrunde sollen elf statt acht bis elf Exzellenzuniversitä-
 
 ten und Universitätsverbünde gefördert werden.
 
- Neu aufgenommen wurde, dass nach der Evaluierung 2025 vier neue Exzellenzu-
+– Neu aufgenommen wurde, dass nach der Evaluierung 2025 vier neue Exzellenzu-
 
 niversitäten beziehungsweise Universitätsverbünde gefördert werden können, unabhängig davon, wie viele der vorherigen Förderfälle durch die Evaluierung ausscheiden. Damit können insgesamt bis zu 15 Exzellenzuniversitäten beziehungsweise Universitätsverbünde gefördert werden.
 
- Als Voraussetzung für eine Exzellenzuniversität oder einen Universitätsverbund
+– Als Voraussetzung für eine Exzellenzuniversität oder einen Universitätsverbund
 
 müssen weiterhin zwei beziehungsweise drei Exzellenzcluster eingeworben werden. Diese müssen regelmäßig alle sieben Jahre im Wettbewerb mit Neuanträgen eingeworben werden.
 

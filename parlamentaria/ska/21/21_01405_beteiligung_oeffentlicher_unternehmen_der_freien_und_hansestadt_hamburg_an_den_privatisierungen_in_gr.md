@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 4
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49616"
@@ -49,6 +50,6 @@ Haben Unternehmen, an denen die Freie und Hansestadt Hamburg mittelbar oder dire
 
 Haben Unternehmen, an denen die Freie und Hansestadt Hamburg mittelbar oder direkt beteiligt ist, die Absicht, Angebote für zu privatisierendes Staatseigentum in Griechenland abzugeben? Wenn ja: Welche Unternehmen sind das und für welche Objekte besteht die Absicht, Angebote abzugeben?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Hamburger Hafen und Logistik AG hat mitgeteilt, dass sie aus aktienrechtlichen Gründen die Fragen aller Aktionäre einheitlich auf der jährlichen Hauptversammlung beantwortet. Im Übrigen: nein.

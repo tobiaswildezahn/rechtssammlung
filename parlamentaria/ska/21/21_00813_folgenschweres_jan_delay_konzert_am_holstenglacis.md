@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 18
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48958"
@@ -117,7 +118,7 @@ Inwiefern besteht ein Zusammenhang zwischen dem Austausch der Schlüssel und dem
 
 Ist es richtig, dass ein Mitarbeiter während der Fernsehaufnahmen den Schlüssel offen in der Hand hielt? Falls ja, welche Konsequenzen wurden daraus gezogen?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Antwort zu 8. bis 8.b.
 

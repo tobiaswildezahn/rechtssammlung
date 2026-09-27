@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 23
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7094", "21/9651", "21/9563", "18/6927", "21/11428", "21/4177"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62664"
@@ -163,7 +164,7 @@ Gilt weiterhin die Zusicherung, dass Schulen, die schlechter eingestuft werden, 
 
 Haben sich die bisherigen in Frage 10. genannten Unterstützungen seit Einführung bis heute (Stand 5.6.2018) für Schulen, deren Sozialindex sich verschlechtert hat, verringert oder erhöht? Wenn ja, inwiefern und wann genau? (Bitte mit Datum und Art der Veränderung nach Schulformen gesondert angeben.)
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Wenn ein angepasster Sozialindex einer Grundschule zu einer verringerten Ressourcenzuweisung führt, wird im Einzelfall geprüft, welche gegebenenfalls befristeten oder langfristig abschmelzenden Zusatzzuweisungen erforderlich sind, um den Anpassungsprozess abzufedern. Der Umfang dieser Anpassungszuweisungen hat sich wie folgt entwickelt:
 

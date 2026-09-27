@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 24
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1630", "21/2568", "20/14262"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51646"
@@ -328,13 +329,13 @@ TUHH:
 
 Zum Ziel des Einsatzes der Online-Plattformen finden sich unter anderem Aussagen im „eLearning Entwicklungsplan der Technischen Universität Hamburg-Harburg (TUHH)“ aus dem Jahre 2007 (siehe https://doi.org/10.15480/882.372). Schwerpunkt war und ist die Unterstützung und Anreicherung der Präsenzlehre durch digitale Angebote. Darüber hinaus sind folgende Ziele leitend für den Einsatz der Online- Plattformen:
 
- Unterstützung der Lehre
+– Unterstützung der Lehre
 
- Bereitstellung von Unterrichtsmaterialien
+– Bereitstellung von Unterrichtsmaterialien
 
- Informations- und Kommunikationsplattform für Dozenten und Studierende
+– Informations- und Kommunikationsplattform für Dozenten und Studierende
 
- Moderne Unterrichtsgestaltung
+– Moderne Unterrichtsgestaltung
 
 HCU:
 
@@ -675,13 +676,13 @@ TUHH:
 
 Bisher werden die Materialien mit folgenden drei Lizenz-Möglichkeiten eingestellt:
 
- Dieses Dokument ist frei von Rechten Dritter, es gilt das Autoren-Urheberrecht.
+– Dieses Dokument ist frei von Rechten Dritter, es gilt das Autoren-Urheberrecht.
 
- Dieses Dokument ist lediglich frei für registrierte TUHH-Nutzer/-innen der Veran-
+– Dieses Dokument ist lediglich frei für registrierte TUHH-Nutzer/-innen der Veran-
 
 staltung und darf nicht weitergegeben werden.
 
- Dieses Dokument ist frei für Teilnehmer/-innen der geschlossenen Veranstaltung,
+– Dieses Dokument ist frei für Teilnehmer/-innen der geschlossenen Veranstaltung,
 
 es ist nicht frei von Rechten Dritter und darf nicht weitergegeben werden.
 

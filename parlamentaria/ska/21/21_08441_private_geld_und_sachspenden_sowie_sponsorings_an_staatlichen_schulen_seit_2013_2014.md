@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 24
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5940"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57154"
@@ -51,19 +52,19 @@ Die Verwendung von Zuwendungen zur Finanzierung von Pflicht- oder Wahlpflichtunt
 
 Die ordnungsgemäße Erfüllung des Bildungs- und Erziehungsauftrags ist insbesondere dann gefährdet, wenn
 
- mit einer Zuwendung versucht wird, Einfluss auf die inhaltliche Ausgestaltung von
+– mit einer Zuwendung versucht wird, Einfluss auf die inhaltliche Ausgestaltung von
 
 Unterricht und Erziehung zu nehmen,
 
- die Zuwendung die Unvoreingenommenheit schulischer Entscheidungen beein-
+– die Zuwendung die Unvoreingenommenheit schulischer Entscheidungen beein-
 
 trächtigen kann,
 
- aufgrund der Höhe einer Zuwendung die Gefahr einer Abhängigkeit des Unter-
+– aufgrund der Höhe einer Zuwendung die Gefahr einer Abhängigkeit des Unter-
 
 richtsbetriebs von einem bestimmten Sponsor besteht oder
 
- die Höhe der Zuwendung für einzelne Schulen zu einem solchen Gefälle zwischen
+– die Höhe der Zuwendung für einzelne Schulen zu einem solchen Gefälle zwischen
 
 den Schulen führen würde, dass die Chancengleichheit aller Schülerinnen und Schüler in ihrer schulischen Ausbildung beeinträchtigt und die schulübergreifende Organisation von Eingangsklassen erheblich erschwert würde.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17776", "21/13093", "21/14054", "21/15800", "21/16154"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67484"
@@ -41,11 +42,11 @@ Mit Drs. 21/13093, Drs. 21/14054, Drs. 21/15800 und Drs. 21/17776 hat der Senat 
 
 Hierbei wurde insbesondere darauf hingewiesen, dass Mitarbeiterinnen und Mitarbeiter von Sicherheitsdiensten Minderjährige weder pädagogisch noch in anderer Weise betreuen. Sicherheitsdienste werden im LEB ausschließlich in zwei Aufgabenbereichen eingesetzt:
 
- Sie übernehmen in größeren Einrichtungen für unbegleitete minderjährige Auslän-
+– Sie übernehmen in größeren Einrichtungen für unbegleitete minderjährige Auslän-
 
 der mit vergleichsweise hohen Platzzahlen ordnende Tätigkeiten, insbesondere in der Nacht und
 
- zum Schutz der Mitarbeiterinnen und Mitarbeiter und zur Sicherung der Betreu-
+– zum Schutz der Mitarbeiterinnen und Mitarbeiter und zur Sicherung der Betreu-
 
 ungsarbeit in Betreuungssettings mit Minderjährigen mit stark selbst- oder fremdgefährdendem Verhalten. Diese Sicherheitskräfte unterstützen die Arbeit des pädagogischen Personals in eskalierenden Situationen, um die pädagogische Interventionen der Pädagoginnen und Pädagogen abzusichern und gewalttätige Übergriffe auf diese zu verhindern.
 
@@ -61,7 +62,7 @@ Wie viele Einsätze von Sicherheitspersonal gab es insgesamt in Kinderschutzgrup
 
 Bei wie vielen Kindern in den beiden Kinderschutzgruppen (KSG) Rothenhäuser Damm und Rohrammerweg kamen Mitarbeiter/-innen von Sicherheitsdiensten in wie vielen Fällen zum Einsatz? Bitte tabellarisch auflisten nach Alter des Kindes, Geschlecht und Anzahl der Einsätze pro Kind.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Da die hier erfragten Informationen jeweils nur auf eine Person zutreffen, wären die betroffenen Personen anhand dieser Informationen, zumindest für Stellen mit Zusatzkenntnissen, identifizierbar. Die erfragten Informationen haben deshalb Personenbezug (vergleiche Artikel 4 Nummer 1 DS-GVO). Es handelt sich damit um geschützte Sozialdaten im Sinne der §§ 35 SGB I, 61 fortfolgende SGB VIII, 67 fortfolgende SGB X, die der Senat gemäß § 67 b Absatz 1 SGB X nur bei Vorliegen einer gesetzlichen Übermittlungsbefugnis im SGB oder gemäß Artikel 6 Absatz 1 S. 1 Buchstabe a DS-GVO mit Einwilligung der Betroffenen weitergeben darf. Das SGB enthält keine Übermittlungsbefugnis zugunsten der Beantwortung Parlamentarischer Anfragen. Eine Einwilligung der Betroffenen zur Datenübermittlung liegt nicht vor. Der Senat ist daher aus Gründen des Sozialdatenschutzes nach § 35 SGB I, §§ 61 fortfolgende SGB VIII, §§ 67 fortfolgende SGB X an der Beantwortung der Fragen in der erfragten Detaillierung gehindert.
 

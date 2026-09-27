@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67603"
@@ -99,7 +100,7 @@ Wie viele Ausbildungsplätze bleiben in diesem Ausbildungsjahr unbesetzt?
 
 Wie hat sich diese Zahl in den letzten fünf Jahren entwickelt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Zum Stichtag 11. Juli 2019 waren bei der Agentur für Arbeit noch 4 139 unbesetzte Ausbildungsstellen gemeldet. Ein Großteil dieser gemeldeten Stellen wird bis Oktober 2019 erfahrungsgemäß noch besetzt werden.
 

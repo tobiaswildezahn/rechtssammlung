@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10408"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55896"
@@ -49,7 +50,7 @@ Wann wird der Bürgerschaft ein konkreter Vorschlag zur Evaluierung des Hamburge
 
 Welche konkreten Vorarbeiten zur Evaluierung des Hamburger Drogenhilfesystems wurden in den letzten zwei Jahren geleistet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

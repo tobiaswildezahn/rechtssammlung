@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13503", "21/8666", "21/16593"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66339"
@@ -51,7 +52,7 @@ Inwiefern möchte der Senat Hamburg im Rahmen des ITS-Kongresses als Modellregio
 
 Welche Möglichkeiten sieht der Senat im Kontext des ITS-Weltkongresses zur Implementierung von Technologien für bessere Verkehrseffizienz und emissionsarme Mobilität – eventuell nur punktuell und zeitlich begrenzt oder als Langfriststrategie der Stadt? Was ist hierzu bislang konkret geschehen? Bitte im Detail und ohne Verweis auf andere Drucksachen auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat hat zum Ziel, die Freie und Hansestadt Hamburg (FHH) als Modellregion für intelligente Mobilität zu entwickeln. Dies ist in der sogenannten ITS-Strategie dargelegt (vergleiche https://www.hamburg.de/bwvi/senatsstrategie/). Dabei sollen die Chancen der Digitalisierung für die zukünftige, nachhaltige und integrierte Mobilität und Logistik langfristig genutzt werden. Der ITS Weltkongress im Jahr 2021 befördert die Umsetzung von ITS-Projekten und ist somit „Inkubator“ des Themenfelds ITS. Die
 
@@ -71,47 +72,47 @@ Im Fortschrittsbericht zur ITS-Strategie wird die geplante Einbindung der Wissen
 
 Die ITS-Projekte durchführenden und intensiv an Projekten beteiligten Universitäten, Hochschulen und Forschungseinrichtungen, sind die folgenden:
 
-• Technische Universität Hamburg, TUHH,
+– Technische Universität Hamburg, TUHH,
 
-• Hochschule für Angewandte Wissenschaften, HAW Hamburg,
+– Hochschule für Angewandte Wissenschaften, HAW Hamburg,
 
-• Universität Hamburg,
+– Universität Hamburg,
 
-• HafenCity Universität Hamburg, HCU Hamburg,
+– HafenCity Universität Hamburg, HCU Hamburg,
 
-• Technische Universität Braunschweig,
+– Technische Universität Braunschweig,
 
-• Technische Universität Berlin,
+– Technische Universität Berlin,
 
-• Kühne Logistics University, (KLU),
+– Kühne Logistics University, (KLU),
 
-• Deutsches Zentrum für Luft- und Raumfahrt,
+– Deutsches Zentrum für Luft- und Raumfahrt,
 
-• Fraunhofer CML,
+– Fraunhofer CML,
 
-• Zentrum für Angewandte Luftfahrtforschung.
+– Zentrum für Angewandte Luftfahrtforschung.
 
 ITS Projekte, die federführend durch Universitäten, Hochschulen oder Forschungseinrichtungen durchgeführt werden:
 
-• TaBuLa (Aufbau eines Testzentrums für automatisiert verkehrende Busse im Kreis Herzogtum Lauenburg) ist ein Hochschulprojekt der Technischen Universität Hamburg (TUHH), Institut für Verkehrsplanung und Logistik in Kooperation mit dem Kreis Herzogtum Lauenburg.
+– TaBuLa (Aufbau eines Testzentrums für automatisiert verkehrende Busse im Kreis Herzogtum Lauenburg) ist ein Hochschulprojekt der Technischen Universität Hamburg (TUHH), Institut für Verkehrsplanung und Logistik in Kooperation mit dem Kreis Herzogtum Lauenburg.
 
-• Das Projekt HCC21 erstellt, in Zusammenarbeit mit der HAW Hamburg, ein Konzept für ein automatisiertes Fahrzeug (Level 4) unter Berücksichtigung aktueller Zulassungsvoraussetzungen.
+– Das Projekt HCC21 erstellt, in Zusammenarbeit mit der HAW Hamburg, ein Konzept für ein automatisiertes Fahrzeug (Level 4) unter Berücksichtigung aktueller Zulassungsvoraussetzungen.
 
-• Das Projekt „URBAN MOBILITY LAB - Autonomes Manövrieren“ entwickelt, in Zusammenarbeit mit der HAW Hamburg, neuartige Messsysteme. Diese dienen der Positionsbestimmung für das autonome Fahren bei niedrigen Geschwindigkeiten mit hoher Präzision in komplexen Umgebungen, insbesondere in Umgebungen ohne GPS-Verfügbarkeit.
+– Das Projekt „URBAN MOBILITY LAB - Autonomes Manövrieren“ entwickelt, in Zusammenarbeit mit der HAW Hamburg, neuartige Messsysteme. Diese dienen der Positionsbestimmung für das autonome Fahren bei niedrigen Geschwindigkeiten mit hoher Präzision in komplexen Umgebungen, insbesondere in Umgebungen ohne GPS-Verfügbarkeit.
 
-• Das Projekt „iPlanB - Interaktive Big-Data-Analysen für die Planung von Baumaßnahmen“, in Zusammenarbeit mit der Universität Hamburg, dient der Erweiterung von ROADS (der Verbesserung der Baumaßnahmen unter Berücksichtigung von
+– Das Projekt „iPlanB - Interaktive Big-Data-Analysen für die Planung von Baumaßnahmen“, in Zusammenarbeit mit der Universität Hamburg, dient der Erweiterung von ROADS (der Verbesserung der Baumaßnahmen unter Berücksichtigung von
 
 Emissionsbetrachtungen). Big Data analysiert aus Historie und Live-Daten Staubildungen und zieht Rückschlüsse auf das Baustellenmanagement und die künftige Koordinierung.
 
-• Das Projekt i3-Lab VAM, in Zusammenarbeit mit der TUHH, thematisiert den nachhaltigen Betrieb ziviler Infrastruktur (zum Beispiel Brücken), dessen Lebensdauer durch strukturelle Integrität in der vibroakustischen Modulation verlängert werden soll.
+– Das Projekt i3-Lab VAM, in Zusammenarbeit mit der TUHH, thematisiert den nachhaltigen Betrieb ziviler Infrastruktur (zum Beispiel Brücken), dessen Lebensdauer durch strukturelle Integrität in der vibroakustischen Modulation verlängert werden soll.
 
-• Das Projekt SmartOpenHamburg beschäftigt sich, in Zusammenarbeit mit der HAW Hamburg und der Hamburger Verkehrsverbund GmbH (HVV), mit der Verbindung von OpenData und der Multiagentenmodellierung durch Simulation mit Millionen von Individuen (Bots) am Beispiel Hamburgs.
+– Das Projekt SmartOpenHamburg beschäftigt sich, in Zusammenarbeit mit der HAW Hamburg und der Hamburger Verkehrsverbund GmbH (HVV), mit der Verbindung von OpenData und der Multiagentenmodellierung durch Simulation mit Millionen von Individuen (Bots) am Beispiel Hamburgs.
 
-• Mit dem Projekt SURTRADE werden, in Zusammenarbeit mit der KLU, in verschiedenen Teilprojekten Beiträge zur Entwicklung von Handelsstrukturen in der Stadt von morgen entwickelt. Dabei wird eine interdisziplinäre Sichtweise aus Marketing, Informationstechnologie, Dienstleistungswissenschaft und Städtebau eingenommen.
+– Mit dem Projekt SURTRADE werden, in Zusammenarbeit mit der KLU, in verschiedenen Teilprojekten Beiträge zur Entwicklung von Handelsstrukturen in der Stadt von morgen entwickelt. Dabei wird eine interdisziplinäre Sichtweise aus Marketing, Informationstechnologie, Dienstleistungswissenschaft und Städtebau eingenommen.
 
-• Das Projekt HANSEBLOC steht für Hanseatische Blockchain Innovation für Logistik und Supply Chain Management. Dieses Projekt findet in Zusammenarbeit mit der KLU statt. Dabei geht es um fälschungssichere Informationsübermittlung zwischen den Beteiligten der Logistikkette.
+– Das Projekt HANSEBLOC steht für Hanseatische Blockchain Innovation für Logistik und Supply Chain Management. Dieses Projekt findet in Zusammenarbeit mit der KLU statt. Dabei geht es um fälschungssichere Informationsübermittlung zwischen den Beteiligten der Logistikkette.
 
-• Das Projekt SMECS (Smart Event Forecast for Seaports) soll Verspätungen und Terminalüberlastungen besser prognostizieren und im Störfall geeignete Handlungsalternativen zur Transportsteuerung sicherstellen.
+– Das Projekt SMECS (Smart Event Forecast for Seaports) soll Verspätungen und Terminalüberlastungen besser prognostizieren und im Störfall geeignete Handlungsalternativen zur Transportsteuerung sicherstellen.
 
 Bei weiteren ITS Projekten sind Hochschulen in Form von einzelnen Arbeitspaketen oder Evaluationen beteiligt, siehe Anlage. Herauszuheben sind dabei beispielhaft die Projekte „Testrecke automatisiertes und vernetztes Fahren“ (DLR) und das Projekt Hamburg Autonomous Transport (HEAT) (DLR).
 

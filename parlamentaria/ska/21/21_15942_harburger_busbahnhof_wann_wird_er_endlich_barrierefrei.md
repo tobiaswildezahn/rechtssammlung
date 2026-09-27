@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65434"
@@ -47,7 +48,7 @@ Wann wird endlich der Fahrstuhlbetrieb am Harburger Busbahnhof aufgenommen?
 
 Welche Gründe gab es für die Verzögerungen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Zuge des Ausbaus und Planungsfortschrittes haben sich Komplikationen in der Erdung für den Aufzug aufgetan. Derzeit kann noch kein abschließender Termin für die Inbetriebnahme benannt werden.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11206", "21/13971"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63583"
@@ -194,7 +195,7 @@ Mit Drs. 21/13971 wird wegen „unabwendbarer IT-Maßnahmen insbesondere im Zusa
 
 Außerdem werden zusätzlich 0,6 Millionen Euro für die schulische IT-Infrastruktur nachgefragt. Welche Maßnahmen sollen hiervon finanziert werden?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Es handelt sich unter anderem um zusätzliche notwendige Erweiterungen von Infrastrukturlösungen beziehungsweise Unterstützung der Migration auf Windows 10 und Office 2013 im schulischen Umfeld.
 

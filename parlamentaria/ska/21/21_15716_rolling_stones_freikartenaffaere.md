@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 25
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13315"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65216"
@@ -43,7 +44,7 @@ Welche Gebühren musste der Veranstalter des Rolling-Stones- Konzertes entrichte
 
 Waren die erhobenen Gebühren nach Meinung des Senats aus heutiger Sicht marktüblich und für eine derartige Veranstaltung auch im Rahmen der Vorgaben von § 64 in Verbindung mit § 63 Landeshaushaltsordnung HO und den dazu ergangenen Verwaltungsvorschriften angemessen? Wenn ja, warum? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat äußert sich in ständiger Praxis grundsätzlich nicht zu laufenden Ermittlungsverfahren. Da der Gesamtermittlungskomplex noch nicht abgeschlossen ist, sieht der Senat von einer vollständigen oder auch nur teilweisen Beantwortung der Fragen ab.
 

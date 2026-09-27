@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12604", "21/2533"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66165"
@@ -183,31 +184,31 @@ Welche konkreten Maßnahmen beinhaltet ein solches Sprachförderkonzept beispiel
 
 Ein schulspezifisches Sprachförderkonzept enthält beispielhaft folgende Elemente:
 
- Aussagen zu den Rahmenbedingungen einer Schule (Schülerschaft, schulform-
+– Aussagen zu den Rahmenbedingungen einer Schule (Schülerschaft, schulform-
 
 spezifische Angaben wie Schülerzahl und Sozialindex, Schulprofil et cetera);
 
- Maßnahmen zum Einsatz von Diagnoseinstrumenten zur systematischen Erhe-
+– Maßnahmen zum Einsatz von Diagnoseinstrumenten zur systematischen Erhe-
 
 bung des individuellen Sprachstandes von Schülerinnen und Schülern;
 
- daraus zu entwickelnde individuelle sprachspezifische Maßnahmen zur additiven
+– daraus zu entwickelnde individuelle sprachspezifische Maßnahmen zur additiven
 
 und integrativen Sprachförderung;
 
- Maßnahmen zur Organisation der additiven Sprachförderung in der Ganztagsschu-
+– Maßnahmen zur Organisation der additiven Sprachförderung in der Ganztagsschu-
 
 le im Sinne von zusätzlicher Lernzeit;
 
- Maßnahmen zur Umsetzung der durchgängigen Sprachbildung im Unterricht der
+– Maßnahmen zur Umsetzung der durchgängigen Sprachbildung im Unterricht der
 
 Schule;
 
- Konkretisierung von schwerpunktgeleiteten Maßnahmen im Zeitfenster eines
+– Konkretisierung von schwerpunktgeleiteten Maßnahmen im Zeitfenster eines
 
 Schuljahres;
 
- Maßnahmen zur Evaluation der additiven und integrativen Sprachförderung.
+– Maßnahmen zur Evaluation der additiven und integrativen Sprachförderung.
 
 ### Frage 9
 

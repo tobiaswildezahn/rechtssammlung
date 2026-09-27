@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8397", "21/7380", "21/10678", "21/10787", "21/7234", "21/9767"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59739"
@@ -113,7 +114,7 @@ Wie viel Mehrbedarf an Personal und Material wurde für den G20 im Verhältnis z
 
 Wann war das Sicherheitskonzept für den G20 fertig und wurden auf dessen Grundlage Personal und Material angefordert?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die beständige Lagefortschreibung bei solchen Großeinsätzen macht es erforderlich, die Planung der Sicherheitsmaßnahmen bis unmittelbar vor den Veranstaltungen kontinuierlich weiterzuentwickeln und gegebenenfalls noch während des laufenden Einsatzes Anpassungen vorzunehmen.
 

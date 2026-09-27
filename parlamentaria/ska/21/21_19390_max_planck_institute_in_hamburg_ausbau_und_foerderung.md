@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5314", "21/9339"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69103"
@@ -168,7 +169,7 @@ Befindet sich der Senat beziehungsweise die zuständige Behörde in Gesprächen 
 
 Fanden seit 2010 konkrete Gespräche mit der Max-Planck-Gesellschaft für die Schaffung neuer Max-Planck Forschungsinstitute oder -einrichtungen in Hamburg statt? a. Wenn ja, welche genau? b. Wenn ja, aus welchem Grund scheiterten die Gespräche oder blieben ergebnislos?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Es sind derzeit keine neuen Max-Planck-Institute in der Freien und Hansestadt Hamburg geplant. Dabei ist zu berücksichtigen, dass angesichts des begrenzten Budgets der MPG und der Abstimmungsmodalitäten zwischen Bund und Ländern sowie unter Berücksichtigung der Finanzierungserfordernisse bestehender Institute nur sehr wenige Neugründungen erfolgen. Überdies orientiert sich die Neugründung von Instituten in der MPG nicht primär an Themen, sondern folgt dem sogenannten Harnack-Prinzip. Nach diesem Prinzip ist maßgeblich, ob eine herausragende Forscherpersönlichkeit von der MPG identifiziert ist, für die ein Institut aufgebaut und damit ein Thema nach den Maßstäben der MPG Erfolg versprechend aufgenommen und bearbeitet werden kann. Siehe auch https://www.mpg.de/101251/MPG_Einfuehrung.
 

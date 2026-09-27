@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49636"
@@ -272,7 +273,7 @@ Wie viele Mitarbeiter mussten beziehungsweise müssen durch die Schaffung der zu
 
 Welche zusätzlichen Kosten sind, durch die Aufteilung der ehemaligen Behörde für Stadtentwicklung und Umwelt in die Behörden für Stadtentwicklung und Wohnen sowie die Behörde für Umwelt und Energie entstanden? a. Personalkosten
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Durch die Aufteilung der ehemaligen Behörde für Stadtentwicklung und Umwelt sind bis zum 31. August 2015 zusätzliche Personalkosten für eine Senatorin/einen Senator sowie eine zusätzliche Präsidialabteilungsleitung entstanden.
 

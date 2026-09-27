@@ -11,9 +11,10 @@ fraktionen: ["AfD"]
 vorgang: 58287
 seiten: 4
 fragen: 10
-einzelfragen: 17
-antwortbloecke: 10
+einzelfragen: 18
+antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63959"
@@ -61,35 +62,48 @@ Antragsberechtigt bei der IOM für die Freie und Hansestadt Hamburg sind:
 
 - KOOFRA – Koordinierungsstelle gegen Frauenhandel e.V.
 
-1.1. Kann vermieden werden, dass hier Mehrfach- und/oder wiederholte Antragstellungen für ein und dieselbe Person/Familie vorgenommen werden, wenn ja, wie?
+### Frage 1.1
+
+Kann vermieden werden, dass hier Mehrfach- und/oder wiederholte Antragstellungen für ein und dieselbe Person/Familie vorgenommen werden, wenn ja, wie?
+
+#### Antwort zu Frage 1.1
 
 Ja. Die eingehenden Anträge werden zentral bei der IOM geprüft.
 
 ### Frage 2
 
 Wie viele Kosten wurden im Rahmen des REAG/GARP-Programms seit Beginn des Jahres 2013 bis heute für wie viele in Hamburg registrierte, rückkehrwillige Migranten insgesamt übernommen? Bitte aufschlüsseln nach Reisekosten, zusätzlicher Reisebeihilfe, einmaliger Starthilfe für Angehörige aus „migrationspolitisch bedeutsamen Herkunftsländern“ (unter Benennung der Länder) und sonstiger Kosten.
-2.1. Wie viele dieser Rückkehrwilligen sind in ihre Heimat, wie viele in welche Drittländer „ausgewandert“?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Wie viele dieser Rückkehrwilligen sind in ihre Heimat, wie viele in welche Drittländer „ausgewandert“?
+
+#### Antwort zu Fragen 2 und 2.1
 
 Siehe Anlage. Eine darüber hinausgehende Differenzierung würde die Einzelauswertung von Akten für mehr als 7.000 Personen erforderlich machen. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
 ### Frage 3
 
 Wie viele in Hamburg registrierte Personen (ab zwölf Jahren) wurden darüber hinaus seit Beginn des Programms StarthilfePlus im Februar 2017 bis heute gemäß Stufe 1 mit 1.200 Euro finanziell unterstützt, die also eine verbindliche Entscheidung zur Rückkehr noch vor Zustellung des Asylbescheids getroffen haben?
-3.1. In wie vielen dieser Fälle wurde eine Ausreise wie vorgenommen beziehungsweise begleitet und entsprechend nachgewiesen?
+
+### Frage 3.1
+
+In wie vielen dieser Fälle wurde eine Ausreise wie vorgenommen beziehungsweise begleitet und entsprechend nachgewiesen?
 3.1.1. Sollte hier nicht eine Quote von 100 Prozent bestätigt werden, wie wurde in den Fällen verfahren, die nicht mit einer Ausreise endeten?
 
-#### Antwort zu Frage 3
+#### Antwort zu Fragen 3 und 3.1
 
 21 Personen. Die Ausreise wurde in allen Fällen durch den Rücklauf der Grenzübertrittsbescheinigung bestätigt.
 
 ### Frage 4
 
 Wie viele Personen (ab zwölf Jahren) wurden seit Beginn des Programms bis heute gemäß Stufe 2 mit 800 Euro finanziell unterstützt, die also eine verbindliche Entscheidung zur Rückkehr nach Erhalt eines negativen Asylbescheids und noch innerhalb der Ausreisepflicht getroffen haben und noch keine Rechtsmittel gegen die Entscheidung eingelegt haben?
-4.1. In wie vielen dieser Fälle wurde die Geldleistung nachträglich wieder aberkannt und mit welchem Erfolg/Misserfolg wurde das Geld zurückgefordert?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+In wie vielen dieser Fälle wurde die Geldleistung nachträglich wieder aberkannt und mit welchem Erfolg/Misserfolg wurde das Geld zurückgefordert?
+
+#### Antwort zu Fragen 4 und 4.1
 
 139 Personen. Bei keinem dieser Fälle wurde die Geldleistung nachträglich wieder aberkannt oder zurückgefordert.
 

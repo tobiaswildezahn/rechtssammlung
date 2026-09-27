@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14907", "21/10792"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68475"
@@ -91,7 +92,7 @@ Haben die Schulleitungen der Grundschule Grützmühlenweg und des Gymnasiums Hum
 
 Gibt es Planungen der Fachbehörde oder anderer Stellen für die Erweiterung der Schule auf dem genannten Grundstück?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Schulleitungen der Grundschule Grützmühlenweg und des Gymnasiums Hummelsbüttel haben zum Referentenentwurf des Schulentwicklungsplans keine Stellungnahme  
 abgegeben.  

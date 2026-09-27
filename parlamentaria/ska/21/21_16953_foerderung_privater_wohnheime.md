@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16076"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66539"
@@ -89,7 +90,7 @@ Wie viele geförderte Wohneinheiten wurden bisher neu geschaffen?
 
 Wie viele geförderte Wohneinheiten wurden geändert oder erweitert?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Es wurden 645 Wohnungen mit 1 600 Plätzen fertiggestellt. Davon wurden 126 Wohnungen mit 632 Plätzen über die Förderung von Änderungen oder Erweiterungen fertiggestellt.
 

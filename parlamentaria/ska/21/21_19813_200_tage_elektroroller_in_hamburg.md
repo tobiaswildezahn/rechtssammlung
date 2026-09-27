@@ -14,6 +14,7 @@ fragen: 32
 einzelfragen: 47
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18265"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69600"
@@ -147,7 +148,7 @@ Wie sieht die durchschnittliche, wöchentliche Leihstatistik für E-Roller aller
 
 Wie verhalten sich die gemeldeten Zahlen der Ausleihen zu Zeiten des Berufsverkehrs im Gegenzug zu Zeiten außerhalb des Berufsverkehrs, insbesondere am Wochenende?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Vorbemerkung und Antwort zu 1.
 

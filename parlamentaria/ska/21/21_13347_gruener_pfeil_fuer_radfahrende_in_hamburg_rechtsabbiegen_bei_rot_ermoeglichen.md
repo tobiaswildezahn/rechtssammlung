@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2207", "21/3945"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62697"
@@ -55,7 +56,7 @@ Ist die Innenbehörde zu einer, im Vergleich zur Präsentation im Verkehrsaussch
 
 Nimmt die Freie und Hansestadt Hamburg mittlerweile an der BASt- Untersuchung teil? Falls ja: Welche inhaltlichen Beiträge und welche konkreten Erfahrungen/Praxisbeispiele werden von der Freien und Hansestadt Hamburg für die Untersuchung geliefert? Falls nein: Weshalb wurde eine Teilnahme Hamburgs verweigert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung und Drs. 21/3945.
 
@@ -67,6 +68,6 @@ An welchen Kreuzungen wurden oder werden Grüne Pfeile für Radfahrende angebrac
 
 An welchen Kreuzungen wird die Anbringung Grüner Pfeile für Radfahrende noch geprüft?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Senat hat sich hiermit noch nicht befasst.

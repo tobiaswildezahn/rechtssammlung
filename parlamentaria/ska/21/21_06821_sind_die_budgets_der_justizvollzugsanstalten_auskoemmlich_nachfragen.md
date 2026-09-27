@@ -10,12 +10,13 @@ urheber: ["Richard Seelmaecker"]
 fraktionen: ["CDU"]
 vorgang: 50670
 seiten: 2
-fragen: 0
-einzelfragen: 0
-antwortbloecke: 0
+fragen: 1
+einzelfragen: 1
+antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6528"]
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55380"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/55380/21_06821_sind_die_budgets_der_justizvollzugsanstalten_auskoemmlich_nachfragen"
 abgerufen: "2026-09-26"
@@ -27,9 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Richard Seelmaecker (CDU) vom 22.11.16 und Antwort des Senats · Drucksache vom 29.11.2016  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/55380) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/55380/21_06821_sind_die_budgets_der_justizvollzugsanstalten_auskoemmlich_nachfragen)
 
-## Volltext
-
-Sind die Budgets der Justizvollzugsanstalten auskömmlich? Nachfragen
+## Einleitung für die Fragen
 
 In der Antwort auf meine Schriftliche Kleine Anfrage Drs. 21/6528 auf die Frage hin, welche Kosten von den Justizvollzugsanstalten aus den ihnen zugewiesenen Budgets zu bestreiten sind, heißt es:
 
@@ -43,7 +42,13 @@ Den Erläuterungen zum Aufgabenbereich 236 im Einzelplan 2 ist nicht zu entnehme
 
 Vor diesem Hintergrund frage ich den Senat erneut:
 
+## Fragen und Antworten
+
+### Frage 1
+
 Welche Kosten sind von den Justizvollzugsanstalten aus dem Budget zu bestreiten? Bitte detailliert – ohne Verweis auf Internetseiten – darstellen.
+
+#### Antwort zu Frage 1
 
 Im Kostenrechnungskreis 1000 – Freie und Hansestadt Hamburg Profitcenter/Gruppe 236 AB Justizvollzug – sind vom 1. Januar 2016 bis zum 22. November 2016 folgende Aufwandskonten bebucht worden:
 

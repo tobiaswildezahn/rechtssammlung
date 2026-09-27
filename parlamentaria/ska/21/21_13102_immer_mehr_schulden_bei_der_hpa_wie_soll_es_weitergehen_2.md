@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12793", "21/13100", "21/5000", "21/7000", "21/11427"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62437"
@@ -49,7 +50,7 @@ Wer hat wann genau entschieden, dass bei der HPA eine Kapitalzufuhr von rund 40 
 
 Wie wurde der vorgesehene Betrag von rund 40 Millionen Euro ermittelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/5000 und 21/7000.
 
@@ -69,7 +70,7 @@ Ist das Eigenkapital der HPA in 2017 weiter zurückgegangen? In welcher Höhe wi
 
 Liegt inzwischen ein testierter und festgestellter Jahresabschluss der HPA für 2017 vor? Wenn nein, wann soll die Feststellung des Jahresabschlusses planmäßig erfolgen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der testierte und festgestellte Jahresabschluss der HPA für das Jahr 2017 liegt noch nicht vor. Die Feststellung soll im voraussichtlich im Juli des Jahres 2018 erfolgen.
 

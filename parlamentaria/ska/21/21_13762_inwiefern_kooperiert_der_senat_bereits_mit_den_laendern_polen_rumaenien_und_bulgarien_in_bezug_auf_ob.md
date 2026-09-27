@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 19
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5292", "21/5420", "21/13269", "21/13249", "21/11695", "21/10966"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63144"
@@ -92,15 +93,15 @@ c) Wurde bereits von Hamburger Seite Kontakt zu zuständigen Stellen in diesen d
 
 Die Servicestelle Arbeitnehmerfreizügigkeit unterhält eine Reihe von Kooperationen, die einen Beitrag dazu leisten, in den genannten Ländern über ausbeuterische Strukturen auf dem Hamburger Arbeitsmarkt aufzuklären:
 
- Seit 2016 besteht eine Kooperation mit der polnischen Arbeitsinspektion. Im Rah-
+– Seit 2016 besteht eine Kooperation mit der polnischen Arbeitsinspektion. Im Rah-
 
 men dieser Kooperation wurden mehrere Workshops in Hamburg und Polen durchgeführt, die dem Informationsaustausch über die geltenden gesetzlichen Regelungen und der Aufklärung über ausbeuterische Strukturen auf dem Hamburger Arbeitsmarkt dienten. Im diesem Rahmen wurden auch konkrete Fälle aus dem Bereich Arbeitsausbeutung bearbeitet. Das polnische Amt für Arbeitsschutz hat an den Workshops teilgenommen. Darüber hinaus hat die Servicestelle Arbeitnehmerfreizügigkeit dem polnischen Ministerium für Arbeit, Soziales und Familie seine Unterstützung bei präventiven Maßnahmen in Polen angeboten. Die konkrete Ausgestaltung dieser Zusammenarbeit befindet sich derzeit in Planung.
 
- Die Servicestelle unterhält seit einigen Jahren eine intensive Kooperation mit den
+– Die Servicestelle unterhält seit einigen Jahren eine intensive Kooperation mit den
 
 bulgarischen Gewerkschaftsdachverbänden CITUB und Podkrepa. Eine Vertreterin der Servicestelle hat zu dem im Mai 2018 bei der Confederation of Independent Trade Unions of Bulgaria (CITUB) in Sofia hospitiert. Im diesem Rahmen wurden Gespräche mit verschiedenen bulgarischen Arbeitsbehörden und Sozialpartnern (Arbeitsinspektion, Agentur für Arbeit, Ministerium für Arbeit und Soziales, Gewerkschaften) unter anderem zu den Themen Arbeitsbedingungen und Arbeitsschutz in Hamburg, Entsendung und Arbeitnehmerüberlassung geführt. Zentraler Aspekt der Gespräche waren die Möglichkeiten über präventive Aufklärung mobiler Arbeitnehmerinnen und Arbeitnehmer vor Ort. In diesem Kontext wurde unter Beteiligung der bulgarischen Polizei, der bulgarischen Arbeitsinspektion und der CITUB am Sofioter Hauptbahnhof eine Infoaktion durchgeführt, bei der nach Deutschland abreisende Arbeitnehmerinnen und Arbeitnehmer über ihre Rechte und Pflichten auf dem deutschen Arbeitsmarkt informiert und aufgeklärt wurden.
 
- Darüber hinaus beteiligt sich die Servicestelle Arbeitnehmerfreizügigkeit aktiv an
+– Darüber hinaus beteiligt sich die Servicestelle Arbeitnehmerfreizügigkeit aktiv an
 
 einem europäischen Projekt „Eurodetachement – Enhancing adminstrative cooperation through coordinated transnational actions“. An diesem Projekt unter der Leitung des französischen Arbeitsministeriums sind Vertreterinnen und Vertreter der Arbeitsinspektionsbehörden aus elf EU-Mitgliedsländern beteiligt, darunter auch die rumänische und polnische Arbeitsinspektion. Im Rahmen dieses Projektes sind intensive Kontakte zu den genannten zwei Ländern entstanden.
 

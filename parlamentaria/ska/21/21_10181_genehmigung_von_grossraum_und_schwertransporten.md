@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6406", "21/1999"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59015"
@@ -89,7 +90,7 @@ Wie lang war in diesem Zeitraum die durchschnittliche Verfahrensdauer für die G
 
 Wie lang war in diesem Zeitraum die durchschnittliche Verfahrensdauer für die Genehmigung von Großraum- und Schwertransporten, die über die Landesgrenze hinausgingen? Bitte monatlich differenziert sowie für den Gesamtzeitraum angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Verfahrensdauer hat sich in 2017 gegenüber 2016 nicht verändert. Im Übrigen siehe Drs. 21/6406.
 

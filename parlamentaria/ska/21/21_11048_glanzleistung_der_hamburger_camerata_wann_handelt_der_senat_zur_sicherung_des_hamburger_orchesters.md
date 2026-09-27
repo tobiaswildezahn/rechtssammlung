@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59995"
@@ -72,7 +73,7 @@ Wie viele Konzerte spielte die Hamburger Camerata in der letzten Spielzeit in Ha
 
 Wie viele Kinder- beziehungsweise Familienkonzerte waren darunter jeweils?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Das Orchester hat in der letzten Spielzeit 92 Konzerte in Hamburg und 16 außerhalb gespielt. Davon fanden 41 Kinderkonzerte und drei Familienkonzerte in Hamburg statt, außerhalb keines.
 
@@ -116,6 +117,6 @@ Unter welchen Bedingungen ist der Senat beziehungsweise die zuständige Behörde
 
 In welcher Höhe kann beziehungsweise soll die zukünftige Förderung erfolgen und ab wann?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Überlegungen sind noch nicht abgeschlossen.

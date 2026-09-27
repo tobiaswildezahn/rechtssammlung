@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 31
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62025"
@@ -60,7 +61,7 @@ Seit wann ist der Kulturbehörde der Erbstreit der Erbinnen der Gründerfamilie 
 
 Wurde seitens der Kulturbehörde etwas unternommen, um den Erbstreit zu schlichten? Wenn ja, bitte erläutern.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die für Kultur zuständige Behörde ist nicht mit einem solchen Erbstreit befasst.
 
@@ -124,7 +125,7 @@ Warum wurde das Hansa-Theater nicht bereits früher, spätestens aber im Rahmen 
 
 Der Sprecher der Kulturbehörde gab laut Medienberichten an, das Hansa-Theater habe bereits vor der Entscheidung des Denkmalschutzamtes als Teil des Ensembles Schutz genossen. Welchen Schutzstatus hat er gemeint? Bitte erläutern.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Vorbemerkung.
 
@@ -184,7 +185,7 @@ Werden Mittel für das Hansa-Theater im nächsten Doppelhaushalt 2019/2020 berü
 
 Welche Mittel kann der Betreiber oder Eigentümer des denkmalgeschützten Theaters aus den Mitteln der Kulturbehörde beantragen? Bitte erläutern.
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Im Zusammenhang mit Maßnahmen, die der Erhaltung der Denkmalsubstanz dienen, können Zuwendungen aus Haushaltsmitteln der für den Denkmalschutz zuständigen Behörde beantragt werden; ein Rechtsanspruch besteht nicht. Ferner kann für Aufwendungen, die der Denkmalerhaltung dienen, eine Bescheinigung zur steuerlichen Absetzung beantragt werden; hierauf besteht grundsätzlich ein Rechtsanspruch.
 

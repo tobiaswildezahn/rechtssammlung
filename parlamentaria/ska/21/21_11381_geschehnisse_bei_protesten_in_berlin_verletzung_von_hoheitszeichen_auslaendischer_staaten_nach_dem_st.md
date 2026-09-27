@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60439"
@@ -44,7 +45,7 @@ Wie oft kam es von 2011 bis Dezember 2017 zu einer Verletzung nach § 104 StGB u
 
 Wie häufig kam es von 2011 bis Dezember 2017 zu einer Strafverfolgung nach § 104 a StGB in Hamburg (bitte nach Jahren anführen)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Sowohl im Vorgangsverwaltungssystem MESTA der Staatsanwaltschaft Hamburg als auch im Kriminalpolizeilichen Meldedienst politisch motivierte Kriminalität (KPMD- PMK) ist für die Aktenzeichenjahrgänge 2012 bis 2013, 2015 und 2017 kein Verfahren erfasst, das den Vorwurf des § 104 des Strafgesetzbuches (StGB) zum Gegenstand hatte.
 

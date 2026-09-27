@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11571", "21/12968", "21/5922"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65198"
@@ -43,7 +44,7 @@ Welche Straßenbau-, Straßeninstandsetzungs- und Straßensanierungsmaßnahmen s
 
 Welche der in Anlage 1 zu Drs. 21/11571 aufgelisteten Straßenbaumaßnahmen konnten bisher aus welchen Gründen jeweils nicht umgesetzt werden? Bitte nach Bezirken aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 
@@ -77,7 +78,7 @@ b) grundinstand gesetzt,
 c) (oberflächlich) saniert  
 werden? Bitte nach Bezirken aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 In den Straßenzustandsberichten (Drs. 21/5922 und 21/12968) ist angegeben, wie viele Fahrstreifenkilometer die Bezirke in den letzten Jahren saniert haben. Eine Statistik über die Aufschlüsselung in neu gebaut, grundinstand gesetzt und (oberflächlich) saniert, wird nicht geführt.
 

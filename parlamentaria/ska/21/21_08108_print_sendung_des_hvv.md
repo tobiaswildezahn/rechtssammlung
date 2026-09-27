@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56800"
@@ -79,43 +80,43 @@ Teilen angesprochen werden. Ausgewählt wurde dieses Gebiet aufgrund eines guten
 
 Die Werbesendung wurde in den folgenden Postleitzahlengebieten durch die Deutsche Post AG in der Versandform „Postaktuell“ verteilt:
 
- 22041 Hamburg Wandsbek
+– 22041 Hamburg Wandsbek
 
- 22047 Hamburg Wandsbek
+– 22047 Hamburg Wandsbek
 
- 22047 Hamburg Bramfeld
+– 22047 Hamburg Bramfeld
 
- 22047 Hamburg Tonndorf
+– 22047 Hamburg Tonndorf
 
- 22049 Hamburg Dulsberg
+– 22049 Hamburg Dulsberg
 
- 22049 Hamburg Wandsbek
+– 22049 Hamburg Wandsbek
 
- 22081 Hamburg Barmbek-Süd
+– 22081 Hamburg Barmbek-Süd
 
- 22089 Hamburg Wandsbek
+– 22089 Hamburg Wandsbek
 
- 22159 Hamburg Bramfeld
+– 22159 Hamburg Bramfeld
 
- 22159 Hamburg Farmsen-Berne
+– 22159 Hamburg Farmsen-Berne
 
- 22179 Hamburg Bramfeld
+– 22179 Hamburg Bramfeld
 
- 22305 Hamburg Barmbek-Süd
+– 22305 Hamburg Barmbek-Süd
 
- 22305 Hamburg Barmbek-Nord
+– 22305 Hamburg Barmbek-Nord
 
- 22359 Hamburg Bergstedt
+– 22359 Hamburg Bergstedt
 
- 22359 Hamburg Rahlstedt
+– 22359 Hamburg Rahlstedt
 
- 22359 Hamburg Volksdorf
+– 22359 Hamburg Volksdorf
 
- 22395 Hamburg Wohldorf-Ohlstedt
+– 22395 Hamburg Wohldorf-Ohlstedt
 
- 22395 Hamburg Bergstedt
+– 22395 Hamburg Bergstedt
 
- 22397 Hamburg Wohldorf-Ohlstedt
+– 22397 Hamburg Wohldorf-Ohlstedt
 
 ### Frage 5
 
@@ -135,13 +136,13 @@ Trifft es zu, dass zum Beispiel in Barmbek-Nord für HVV-Filialen in Wandsbek ge
 
 Die für die Werbesendung ausgewählten HVV-Servicestellen befinden sich an der U-Bahn-Linie U1 am Streckenabschnitt Wandsbek Markt – Ohlstedt und gehören somit zum ausgewählten Werbegebiet:
 
- U Farmsen, Kiss GmbH
+– U Farmsen, Kiss GmbH
 
- U Ohlstedt, Der Kiosk Ohlstedt
+– U Ohlstedt, Der Kiosk Ohlstedt
 
- U Wandsbek Markt, Schalterhalle
+– U Wandsbek Markt, Schalterhalle
 
- U Wandsbek-Gartenstadt, Task-Force-Convenience GmbH
+– U Wandsbek-Gartenstadt, Task-Force-Convenience GmbH
 
 Zusätzlich wurden das HVV-Kundenzentrum am Johanneswall als zentrale Anlaufstelle und der Hinweis, weitere Servicestellen über das Internet einsehen zu können, genannt. Darüber hinaus wurden in keinem weiteren Werbemittel Servicestellen aufgeführt.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/907"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55005"
@@ -101,7 +102,7 @@ Wird die Auffassung geteilt, dass eine Vertreibung von Menschen am Hauptbahnhof 
 
 Welche Maßnahmen ergreift der Senat, um die Menschen, die sich am Hauptbahnhof aufhalten, gesundheitlich und sozial zu unterstützen? a. Plant der Senat die Stärkung von Sozialarbeit am und um den Hauptbahnhof herum? Wenn nein, weshalb nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Es ist nicht Ziel, Menschen vom Hauptbahnhof zu vertreiben. Es soll dafür Sorge getragen werden, dass die Hamburgerinnen und Hamburger und alle Reisenden, die die Stadt als Pendlerinnen und Pendler, Geschäftsleute oder als Tages- oder Übernachtungsgäste nutzen, den Hauptbahnhof und die umliegenden Flächen angstfrei
 

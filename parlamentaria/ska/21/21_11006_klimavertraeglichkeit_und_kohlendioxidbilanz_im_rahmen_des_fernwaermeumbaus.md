@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 16
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59985"
@@ -94,7 +95,7 @@ c) Nord-Variante?
 d) Süd-Variante mit Konkretisierungen vom 2.11.2017?
 e) wie 4., jedoch mit Nacherhitzung Wärmepumpe Dradenau durch KWK-Wärme aus Moorburg?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Kostenauswirkungen und Preise sind Betriebs- und Geschäftsgeheimnisse und können aus Gründen der Vertraulichkeit nicht genannt werden.
 

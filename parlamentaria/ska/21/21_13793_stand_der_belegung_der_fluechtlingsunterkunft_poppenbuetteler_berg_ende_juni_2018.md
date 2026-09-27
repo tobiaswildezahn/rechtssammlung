@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 32
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9744", "21/13463", "21/13052", "21/11504", "21/2108", "21/11184", "21/12039", "21/12357", "21/11632", "21/1838"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63180"
@@ -51,7 +52,7 @@ Wie viele Personen waren in der örU Poppenbütteler Berg Ende Juni 2018 unterge
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Geschlecht Kinder und Jugendliche Erwachsene Gesamt  
 Männlich  
@@ -270,7 +271,7 @@ Welche Angebote werden den Flüchtlingen zu jeweils welchen Zeiten in welchen R�
 
 Wie viele Ehrenamtliche sind eingesetzt und wie helfen sie?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Siehe Drs. 21/12039, Drs. 21/12357 und Drs. 21/13052.
 

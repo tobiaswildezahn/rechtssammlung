@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66048"
@@ -67,7 +68,7 @@ Gab es mittlerweile Lärm- und Feinstaubmessungen in den Tunneln? Wenn ja, bitte
 
 Existiert diesbezüglich eine Gefährdungsanalyse? Wenn ja, mit welchem Ergebnis, wenn nein, warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Eine Lärm- und Feinstaubmessung wird nicht durchgeführt, weil die Richtlinie des Bundes diese Messeinrichtungen für den Betrieb von Straßentunneln nicht vorsieht.
 
@@ -87,7 +88,7 @@ Wie wird garantiert, dass die Einsatzkräfte in den Tunnelbauten bei laufendem F
 
 Kommen während der Zeit der Unfallaufnahme und/oder Wartungsarbeiten sowie sonstiger Störungsbeseitigungen auch Maßnahmen einer Vollsperrung infrage?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Elbtunnel ist für Einsatzkräfte der Feuerwehr und der Polizei kein Arbeitsplatz gemäß Arbeitsstättenverordnung. Grundsätzlich reduzieren Polizei und Feuerwehr den Aufenthalt an Einsatzorten, die besonderen Belastungen ausgesetzt sein können, soweit wie möglich sowohl bezüglich der Aufenthaltsdauer als auch der eingesetzten Kräfte. Dabei werden die erforderlichen Maßnahmen zur Eigensicherung ebenso wie der Schutz der Verkehrsteilnehmerinnen und -teilnehmer und der Infrastruktur berücksichtigt. Im Rahmen eines abgestuften Vorgehens ist erforderlichenfalls auch eine Vollsperrung der Fahrbahn möglich.
 

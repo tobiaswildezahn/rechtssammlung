@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 25
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62887"
@@ -59,7 +60,7 @@ Wie lange hatten die einzelnen Standorte jeweils keinen Zugriff auf die Akten? W
 
 Welche weiteren Beeinträchtigungen gab und gibt es für Kunden/-innen und Mitarbeiter/-innen an den einzelnen Standorten durch die Umstellung? Welche weiteren Beeinträchtigungen werden erwartet?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Es gab keine weiteren Beeinträchtigungen und es werden auch keine weiteren erwartet.
 

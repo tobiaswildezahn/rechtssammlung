@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4958"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55944"
@@ -53,7 +54,7 @@ Wie viele Baustellen auf Hamburger Straßen, die länger als zwei Tage dauern, g
 
 Inwieweit wird durch diese Baustellen der Straßenraum eingeschränkt? Bitte für jede Baustelle getrennt angeben und auch mitteilen, ob Radwege und Radfahrstreifen betroffen sind.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage. Im Übrigen siehe Vorbemerkung.
 

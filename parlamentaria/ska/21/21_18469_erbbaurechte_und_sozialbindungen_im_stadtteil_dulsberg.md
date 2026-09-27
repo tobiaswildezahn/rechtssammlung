@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17503"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68134"
@@ -189,7 +190,7 @@ Welche Vertragspartner/-innen verfügen zurzeit (Stichtag 01.08.2019) über eine
 
 Welche Vertragspartner/-innen verfügten bis 2011 über einen Erbbauvertrag oder mehrere Erbbauverträge auf dem Dulsberg mit der Stadt Hamburg?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Zu Vertragspartnern gibt der Senat grundsätzlich aus datenschutzrechtlichen Gründen keine Auskunft.
 

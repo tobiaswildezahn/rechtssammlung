@@ -14,6 +14,7 @@ fragen: 73
 einzelfragen: 82
 antwortbloecke: 65
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/1467", "20/5720", "20/13289", "21/3789", "21/2837", "21/8557", "21/7420", "21/8601", "21/8600", "20/3789", "21/5600", "20/37", "19/6272", "20/433", "21/8426", "21/6665", "21/7740"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57520"
@@ -293,15 +294,15 @@ Wie viele Personen welcher Religions- oder Kirchenzugehörigkeit leben im Wahlkr
 
 Im Melderegister werden nicht alle Religions- und Kirchenzugehörigkeiten gespeichert, sondern lediglich die nachfolgend genannten:
 
- alt-katholisch
+– alt-katholisch
 
- römisch-katholisch
+– römisch-katholisch
 
- evangelisch-lutherisch
+– evangelisch-lutherisch
 
- jüdisch
+– jüdisch
 
- evangelisch-reformiert
+– evangelisch-reformiert
 
 Die Personen, deren Zugehörigkeit zu den unten genannten Religionsgesellschaften nicht im Melderegister gespeichert ist, gehören entweder sonstigen Religionsgesellschaften oder keiner Religionsgesellschaft an.
 
@@ -542,7 +543,7 @@ Wie viele Lehrkräfte unterrichten jeweils an den Schulen (bitte Anzahl der Pers
 
 Wie ist das prozentuale Verhältnis von weiblichen zu männlichen Lehrkräften an den einzelnen Schulen?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Siehe Anlage 7.
 
@@ -878,7 +879,7 @@ Wie viele Feuerwehrleute welcher Besoldungsgruppe arbeiten derzeit an den Wachen
 
 Wie viele Stellen sind an den Wachen jeweils unbesetzt (bitte im Vergleich für die Jahre 2015 bis 2017 angeben)?
 
-#### Antwort zu Fragen 36 bis 37
+#### Antwort zu Fragen 36 und 37
 
 FuRw 21 Wandsbek  
 2017*  
@@ -1391,9 +1392,9 @@ Welche Mittel stehen dem Bezirksamt in Wandsbek jeweils 2016 und 2017 zur Verfü
 
 Für den Neubau von Spielplätzen standen beziehungsweise stehen nach Angabe des Bezirksamt Wandsbek folgende investive Mittel zur Verfügung:
 
- 2016: 255.000 Euro
+– 2016: 255.000 Euro
 
- 2017: 255.000 Euro
+– 2017: 255.000 Euro
 
 ### Frage 53
 
@@ -1425,7 +1426,7 @@ Welche Sportplätze gibt es aktuell im Wahlkreis (bitte Adressen und nutzende Ve
 
 Welche Maßnahmen wurden zur Beseitigung von Mängeln an und zur Sanierung von Sportplätzen im Wahlkreis seit 2015 durchgeführt und zu welchen Kosten und aus welchen Haushaltstiteln (bitte jahresweise für die einzelnen Sportplätze gesondert angeben nach Mängeleintritt, Mängelbeseitigung und Kosten)?
 
-#### Antwort zu Fragen 54 bis 55
+#### Antwort zu Fragen 54 und 55
 
 Im Wahlkreis Rahlstedt gibt es folgende öffentlichen Sportplätze:
 
@@ -1517,7 +1518,7 @@ Wie viele öffentlich geförderte Wohnungen befinden sich derzeit im Wahlkreis u
 
 Wie viele Wohnungen wurden in den Jahren 2016 und laufend 2017 im Wahlkreis fertiggestellt?
 
-#### Antwort zu Fragen 57 bis 58
+#### Antwort zu Fragen 57 und 58
 
 Laufende Fertigstellungen liegen dem Statistikamt Nord nicht vor, da es sich bei der Statistik der Baufertigstellungen um eine Jahresstatistik handelt.
 
@@ -1617,27 +1618,27 @@ Welche davon wurden 2016 und 2017 in welcher Form und in welcher Höhe (absolut 
 
 Folgenden Kultureinrichtungen in Rahlstedt wurden vom Bezirksamt Wandsbek in 2016 und 2017 gefördert:
 
- Bürgerhaus in Meiendorf (BiM):
+– Bürgerhaus in Meiendorf (BiM):
 
 o 2016: Institutionelle Förderung: 162.100,00 Euro
 
- Sondermittel der Bezirksversammlung: 4.740,89 Euro
+– Sondermittel der Bezirksversammlung: 4.740,89 Euro
 
 o 2017: Institutionelle Förderung: 168.922,00 Euro
 
- Rahlstedter Kulturverein:
+– Rahlstedter Kulturverein:
 
 o 2016: Projektförderung Stadtteilkultur: 8.519,44 Euro
 
 o 2017: Es liegt bisher noch kein Antrag vor.
 
- KulturWerk Rahlstedt
+– KulturWerk Rahlstedt
 
 o 2016: Sondermittel der Bezirksversammlung: 37.269,84 Euro
 
 o 2017: Es liegt bisher noch kein Antrag vor.
 
- Bücherhalle Rahlstedt
+– Bücherhalle Rahlstedt
 
 o 2016: Projektförderung Stadtteilkultur: 249,20 Euro
 
@@ -1655,9 +1656,9 @@ Im Übrigen siehe Antwort zu 60.
 
 Bürgerhaus in Meiendorf (BiM):
 
- Stellenumfang Kernpersonal (2016 – 2017): 2,0 Stellen
+– Stellenumfang Kernpersonal (2016 – 2017): 2,0 Stellen
 
- Besetzte Stellen (2016 – 2017): 2,0 Stellen
+– Besetzte Stellen (2016 – 2017): 2,0 Stellen
 
 Im Übrigen siehe Antwort zu 60.
 
@@ -1671,9 +1672,9 @@ Wie viele Straßenbäume gibt es aktuell im Wahlkreis (bitte im Vergleich zum 31
 
 Der Bestand an Straßenbäumen im Wahlkreis 14 betrug jeweils zum 31. Dezember des Jahres:
 
- 2015: 9.241
+– 2015: 9.241
 
- 2016: 9.329
+– 2016: 9.329
 
 Darüber hinaus ist eine stichtagbezogene Bilanzierung nicht möglich, siehe dazu Drs. 21/6665.
 
@@ -1701,29 +1702,29 @@ Welche Verbesserung der Radwege und Radwegenetze sind aktuell geplant?
 
 Folgende Straßenbaumaßnahmen werden aktuell geplant beziehungsweise deren Planung vorbereitet:
 
- Berner Straße/Fasanenweg zwischen Alter Zollweg und Kriegkamp (Planungsvor-
+– Berner Straße/Fasanenweg zwischen Alter Zollweg und Kriegkamp (Planungsvor-
 
 bereitung)
 
- Höltigbaum/Oldenfelder Stieg von Eichberg bis Meiendorfer Straße (in Planung)
+– Höltigbaum/Oldenfelder Stieg von Eichberg bis Meiendorfer Straße (in Planung)
 
- Meiendorfer Straße zwischen Oldenfelder Straße und Wildgansstraße (in Planung)
+– Meiendorfer Straße zwischen Oldenfelder Straße und Wildgansstraße (in Planung)
 
- Rahlstedter Straße/Schweriner Straße (Planungsvorbereitung)
+– Rahlstedter Straße/Schweriner Straße (Planungsvorbereitung)
 
- Veloroute 7: Ellerneck, Rahlstedter Straße, Rahlstedter Bahnhofstraße bis zum
+– Veloroute 7: Ellerneck, Rahlstedter Straße, Rahlstedter Bahnhofstraße bis zum
 
 Bereich Bahn-hof Rahlstedt (in Planung beziehungsweise Planungsvorbereitung)
 
- Veloroute 14: Rahlstedter Weg zwischen Bullskamp und Stein-Hardenberg-Straße
+– Veloroute 14: Rahlstedter Weg zwischen Bullskamp und Stein-Hardenberg-Straße
 
 (Planungs-vorbereitung)
 
- Veloroute 14. Rahlstedter Weg zwischen Am Knill bis Scharbeutzer Straße (Pla-
+– Veloroute 14. Rahlstedter Weg zwischen Am Knill bis Scharbeutzer Straße (Pla-
 
 nungsvorberei-tung)
 
- Erschließung des Gewerbegebietes „Viktoriapark“ zwischen Sieker Landstraße
+– Erschließung des Gewerbegebietes „Viktoriapark“ zwischen Sieker Landstraße
 
 und Stapelfel-der Straße mit baulichen Radwegen
 

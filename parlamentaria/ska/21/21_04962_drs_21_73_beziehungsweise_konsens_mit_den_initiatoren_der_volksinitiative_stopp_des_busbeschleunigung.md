@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/73", "21/4727"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53403"
@@ -53,7 +54,7 @@ Welche Stelle beziehungsweise Einrichtung hat wann in der Zeit vom 18. bis 26. F
 
 Welche Stelle beziehungsweise Einrichtung hat die in der Zeit vom 18. bis 26. Februar 2015 auf den Messfahrten entlang der Buslinie M5 erhobenen Daten ausgewertet und wie lauten die Ergebnisse der Auswertung?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die BWVI/LSBG hat ein Ingenieurbüro mit der Durchführung sowie der Auswertung der Messfahrten beauftragt. Diese fanden am 18. und 19. sowie vom 24. bis 26. Februar 2015 statt. Es wurden 44 Messfahrten in Richtung Burgwedel (stadtauswärts) und 40 in Richtung Hauptbahnhof (stadteinwärts) durchgeführt. Im Übrigen siehe Antwort zu 1.
 
@@ -117,16 +118,16 @@ Welche Vertreter des Senats beziehungsweise der zuständigen Behörden, des zust
 
 An dem Ortstermin am 20. Mai 2015 haben unter anderem folgende Vertreter teilgenommen:
 
- Behörde für Inneres und Sport, Leiter des Referates Straßenverkehrs-Ordnung
+– Behörde für Inneres und Sport, Leiter des Referates Straßenverkehrs-Ordnung
 
 und straßenverkehrsbehördliche Planung,
 
- Landesbetrieb Straßen, Brücken und Gewässer, Gesamtprojektleiter des Projektes
+– Landesbetrieb Straßen, Brücken und Gewässer, Gesamtprojektleiter des Projektes
 
 Busbeschleunigung sowie Teilprojektleiter der Maßnahmen der MetroBus-Linie 6,
 
- Hamburger Hochbahn AG, Bereichsleiter Verkehrsplanung und Systementwick-
+– Hamburger Hochbahn AG, Bereichsleiter Verkehrsplanung und Systementwick-
 
 lung,
 
- Landesbetrieb Verkehr, Fachgebietsleiter Verkehrsmanagement.
+– Landesbetrieb Verkehr, Fachgebietsleiter Verkehrsmanagement.

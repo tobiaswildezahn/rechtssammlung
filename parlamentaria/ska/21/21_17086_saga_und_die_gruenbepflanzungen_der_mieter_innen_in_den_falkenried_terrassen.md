@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66683"
@@ -53,7 +54,7 @@ Welche Anforderungen hat die Feuerwehr für den Brandschutz der SAGA-Terrassenh�
 
 Welche Anforderungen sind im Vergleich zu den letzten Jahren mit welcher Begründung geändert worden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Von den zuständigen Behörden wurden in der Vergangenheit keine Anforderungen an den Brandschutz der Wohnhäuser in den Falkenried-Terrassen gestellt. Im Übrigen wurden die hier maßgeblichen Gebäude Falkenried 16, 16 d – g, 18 und 18 a – f zwischen 1890 und 1901 errichtet, sodass sie vollumfänglich dem Bestandsschutz unterliegen.
 

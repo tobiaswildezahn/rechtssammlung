@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14963", "21/9845", "21/6182"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65091"
@@ -123,11 +124,11 @@ Behörde für Kultur und Medien (BKM) sowie dazugehörige städtische Unternehme
 
 Folgende Maßnahmen zum Umgang mit Angriffen von Bots und Trollen auf Social- Media-Kanälen wurden unter anderem gemeldet:
 
- Kontrolle der Accounts im Hinblick auf das Auftauchen von Trollen,
+– Kontrolle der Accounts im Hinblick auf das Auftauchen von Trollen,
 
- Information unter anderem der IT-Abteilung,
+– Information unter anderem der IT-Abteilung,
 
- vorfallbezogen adäquat reagieren, zum Beispiel antworten, richtig stellen, kom-
+– vorfallbezogen adäquat reagieren, zum Beispiel antworten, richtig stellen, kom-
 
 mentieren, ignorieren, blocken, gegebenenfalls Rechtsmittel einlegen.
 

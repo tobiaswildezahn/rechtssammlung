@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5861", "21/9276"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60933"
@@ -111,9 +112,9 @@ Für die UHH siehe Anlage 11 im Kontext „ahoi.digital“ und für das BMBF-Ten
 
 Die TUHH hat in einem ersten Ausbauschritt im Studiendekanat Elektrotechnik, Informatik und Mathematik zwei neue W3-Professuren mit den Widmungen
 
-• „Algorithmen und Komplexität“ und
+– „Algorithmen und Komplexität“ und
 
-• „Programmiersprachen“
+– „Programmiersprachen“
 
 ausgeschrieben. Beide Professuren sind im Besetzungsverfahren, stehen voraussichtlich ab WS 2018/2019 zur Verfügung und werden aus Hochschulpaktmitteln finanziert. Darüber hinaus werden im Zuge des Bund-Länder-Programms zur Förderung des wissenschaftlichen Nachwuchses zusätzliche Juniorprofessuren ausgebracht werden. Für Mitte des Jahres 2018 ist die Programmeröffnung vorgesehen. Die TUHH ist bestrebt, für das Studiendekanat Elektrotechnik, Informatik und Mathematik fünf Juniorprofessuren mit den vorläufigen Widmungen Concurrent Systems, Data Science Foundations for Engineers, Bild- und Datenverarbeitung, Dependable Systems und Echtzeitbetriebssysteme einzuwerben.
 
@@ -2060,50 +2061,50 @@ HAW:
 
 Fakultät Design Medien und Information Department Design:
 
- Digitale Illustration und Games Professur HSP - wird entfristet Department Medientechnik:
+– Digitale Illustration und Games Professur HSP - wird entfristet Department Medientechnik:
 
-  
+–  
 Unbefristete Virtual Reality-Professur aus Landesmitteln für den Master Digital Reality  
-  
+–  
 Wirtschaftsinformatik als befristete Professur HSP  
 Department Information:
 
- Digitale Kommunikation Professur HSP wird entfristet
+– Digitale Kommunikation Professur HSP wird entfristet
 
 Fakultät Life Sciences Department Verfahrenstechnik:
 
-  
+–  
 Professur Digitalisierung in der Verfahrenstechnik – unbefristet, Landesmittelstelle mit neuer  
 Denomination  
-  
+–  
 Professur Mess-/Regelungs-/Automatisierungstechnik HSP  
 Department Wirtschaftsingenieurwesen:
 
- Professur Fertigungstechnik und Digitale Produktion – unbefristet, Landesmittelstelle mit neuer Denomination
+– Professur Fertigungstechnik und Digitale Produktion – unbefristet, Landesmittelstelle mit neuer Denomination
 
 Fakultät Technik und Informatik Department Informatik:
 
-  
+–  
 zwei Professuren im Bereich Wirtschaftsinformatik aus Landesmitteln, Widmung wird zur  
 Ausschreibung in 2021 und 2023 entschieden  
-  
+–  
 derzeit eine Professur Theoretische Informatik/Maschinelles Lernen im Berufungsverfahren  
-  
+–  
 zwei Stellen für wissenschaftliche Mitarbeiter in Ausschreibung für Projekt  
 "SmartOpenHamburg"  
-  
+–  
 drei Stellen aus ahoi.digital (HSP)  
 Department Fahrzeugtechnik u. Flugzeugbau:
 
- eine Stelle im Drittmittelprojekt "DigiNetAir" aus Drittmitteln
+– eine Stelle im Drittmittelprojekt "DigiNetAir" aus Drittmitteln
 
 Fakultät Wirtschaft und Soziales Department Public Management:
 
- Professur für öffentliches Recht und Datenschutzrecht aus Landesmitteln vorgesehen, voraussichtliche Erweiterung in Bezug auf IT-Recht Department Soziale Arbeit:
+– Professur für öffentliches Recht und Datenschutzrecht aus Landesmitteln vorgesehen, voraussichtliche Erweiterung in Bezug auf IT-Recht Department Soziale Arbeit:
 
- 0,5 Stelle WiMi für das Projekt „Beratung im Digitalen Kontext“ befristet aus HSP-Mitteln Department Wirtschaft:
+– 0,5 Stelle WiMi für das Projekt „Beratung im Digitalen Kontext“ befristet aus HSP-Mitteln Department Wirtschaft:
 
- unbefristete Stelle für den Studiengang Wirtschaftsinformatik für das Thema „Digitalisierung“ aus Landesmitteln
+– unbefristete Stelle für den Studiengang Wirtschaftsinformatik für das Thema „Digitalisierung“ aus Landesmitteln
 
 HCU:
 

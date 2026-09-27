@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 25
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7047"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49541"
@@ -49,7 +50,7 @@ Welche konkreten Maßnahmen sind seit 2011 aus den Mitteln des Förderfonds der 
 
 Welche Beträge wurden insgesamt von der Freien und Hansestadt Hamburg (FHH) für die Aktivitäten im Rahmen der Metropolregion Hamburg seit 2011 aufgewendet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlagen 1 bis 3.
 

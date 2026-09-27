@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 35
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51184"
@@ -65,7 +66,7 @@ Gab es Gespräche, Bitten oder Anweisungen, den Vorfall der Öffentlichkeit zeit
 
 Welche Behörden haben wann Pressemitteilungen oder vergleichbare Schriftstücke zu dem Fall vorbereitet? Wann lagen die zugrunde liegenden Informationen den Behörden jeweils vor? Wann wurden diese jeweils veröffentlicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Pressestelle der Staatsanwaltschaft hat in diesem Verfahren keine eigenen Pressemitteilungen oder vergleichbare Schriftstücke vorbereitet oder veröffentlicht. Eine der Pressestelle der Staatsanwaltschaft am 13. Januar 2016 als Entwurf zugeleitete schriftliche Pressemitteilung der Polizeipressestelle wurde am 13. Januar 2016 zur Veröffentlichung freigegeben. Zuvor hätte eine (aktive) Pressearbeit die Ermittlungen gefährdet.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62194"
@@ -47,7 +48,7 @@ Wann hat die von der Bezirksversammlung am 14. Juli 2016 beschlossene Verkehrsz�
 
 Sollte die beschlossene Verkehrszählung weiterhin nicht stattgefunden haben, warum blockiert der Senat/die zuständige Fachbehörde weiterhin diesen fast zwei Jahre alten Beschluss und wann soll die Verkehrszählung endlich stattfinden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Verkehrszählung soll gemäß der Drs. 20-3011.1 der Bezirksversammlung Wandsbek nach Beendigung der Baumaßnahmen im Umfeld stattfinden. Da noch nicht alle im Beschluss genannten Baumaßnahmen umgesetzt wurden, sind die Voraussetzungen für eine Verkehrszählung bisher nicht gegeben.
 

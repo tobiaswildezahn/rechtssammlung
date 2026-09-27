@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 20
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7003"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56869"
@@ -61,21 +62,21 @@ Welche Serviceangebote wie Duschen, warmes Essen und so weiter hält die Einrich
 
 Folgende Angebote sind geplant:
 
- Posterreichbarkeitsadressen
+– Posterreichbarkeitsadressen
 
- Geldverwahrung/Wertschließfächer
+– Geldverwahrung/Wertschließfächer
 
- Tagesschlafplätze
+– Tagesschlafplätze
 
- Suchtberatung/Vermittlung in das Hamburger Hilfesystem
+– Suchtberatung/Vermittlung in das Hamburger Hilfesystem
 
- Essensausgabe
+– Essensausgabe
 
- Duschen und Wäschepflegemöglichkeit
+– Duschen und Wäschepflegemöglichkeit
 
- Kleiderkammer
+– Kleiderkammer
 
- Ausgabe von Hygieneartikeln
+– Ausgabe von Hygieneartikeln
 
 Die Angebote sollen während der gesamten Öffnungszeiten zur Verfügung stehen.
 

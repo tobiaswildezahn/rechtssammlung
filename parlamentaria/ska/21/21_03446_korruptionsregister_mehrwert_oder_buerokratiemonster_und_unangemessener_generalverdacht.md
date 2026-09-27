@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 20
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51792"
@@ -49,7 +50,7 @@ Wie viele Eintragungen wurden seit Einführung in das Korruptionsregister jährl
 
 Wie viele Eintragungen wurden aufgrund welcher Verfehlungen und welcher Straftaten in den Jahren 2014 bis 2016 vorgenommen (bitte genau differenzieren nach Straftaten und Verfehlungen gemäß § 2 Absätze 2 bis 4 GRfW und Jahren)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -135,6 +136,6 @@ Wie viele Eintragungen sind in den Korruptionsregistern anderer Länder seit Ein
 
 Wie hoch ist in anderen Bundesländern der finanzielle und personelle Aufwand für Einrichtung und Betrieb eines Korruptionsregisters?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Diese Fragen liegen außerhalb des Verantwortungsbereichs des Senats und der parlamentarischen Kontrolle der Bürgerschaft und werden vom parlamentarischen Fragerecht nicht erfasst.

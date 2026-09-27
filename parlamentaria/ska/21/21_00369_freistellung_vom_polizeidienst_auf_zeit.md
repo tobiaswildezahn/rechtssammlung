@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8376", "20/13826", "20/13286"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48509"
@@ -51,7 +52,7 @@ Wie viele Polizeibedienstete werden zurzeit und in den Jahren 2015 bis 2020 nach
 
 Wie viele dieser Polizeibediensteten sind dem ehemals mittleren, dem gehobenen und dem höheren Dienst zuzurechnen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der nachfolgenden Übersicht liegt eine stichtagsbezogene Auswertung aus dem Personalverwaltungssystem PAISY anhand der dort von der Sachbearbeitung erfassten Gründe für eine Freistellung vom Dienst zugrunde. Prognosen über die künftige Entwicklung der Fallzahlen lassen sich daraus nicht ableiten. Weitere statistische Daten im Sinne der Fragestellung werden regelhaft nicht erhoben. Für eine über die in der Tabelle aufgeführten Daten hinausgehende Antwort wäre die händische Auswertung von circa 9.000 Personalakten erforderlich. Diese ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

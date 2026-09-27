@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1297", "21/2608", "21/2676", "21/3734", "21/4369"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54424"
@@ -49,7 +50,7 @@ Haben die Innenbehörde oder Hamburg anderweitig Beitragsgelder der Krankenkasse
 
 Welche finanziellen Mittel benötigt die Feuerwehr für eine reibungslose Umsetzung des NotSanG?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ja. Den Kostenträgern sind für das Jahr 2014 dem Aufgabenfeld „Umsetzung des Notfallsanitätergesetzes“ Kosten in Höhe von 1.698.836 Euro zugeordnet. Für das Jahr 2015 sind nach derzeitigem Stand Kosten in Höhe von 5.087.403 Euro entstanden. Für das Jahr 2016 wurden 2015 Plankosten in Höhe von 7.548.390 Euro vereinbart.
 
@@ -93,7 +94,7 @@ Fehlt in Hamburg eine Erweiterung der Regelkompetenzen nach § 4 Absatz 2 Nummer
 
 Welche erweiterten Maßnahmen dürfen Ausgebildete Notfallsanitäter laut Maßnahmenkatalog anwenden und welche Maßnahmen sind in Hamburg durch den ärztlichen Leiter Rettungsdienst freizugeben? Bitte genau auflisten und begründen, welche Maßnahmen, auch einzelne Medikamente, angewendet und nicht angewendet werden sollen.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die folgende Tabelle enthält die Maßnahmen und Medikamente, die aktuell im Rettungsdienst der Feuerwehr Hamburg angewendet beziehungsweise verabreicht werden dürfen sowie zukünftig zur Anwendung durch NotSan geplant sind:
 

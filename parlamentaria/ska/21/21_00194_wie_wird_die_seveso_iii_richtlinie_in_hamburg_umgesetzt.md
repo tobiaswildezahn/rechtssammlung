@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48323"
@@ -71,7 +72,7 @@ Wie wirkt sich die Seveso-III-Richtlinie auf die Sicherheit in Hamburger Unterne
 
 Wie beurteilt der Senat die Anforderungen der Seveso-III-Richtlinie hinsichtlich der Sicherheit in Unternehmen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Es bestehen zu den Regelungen der Seveso-II-Richtlinie keine erheblichen Änderungen. Nur bei Betrieben, die nach der Seveso-III-Richtlinie neu unter die Störfall V fallen, wird sich der Sicherheitsmaßstab erhöhen.
 
@@ -83,7 +84,7 @@ Welche technischen Systeme gibt es nach Kenntnis des Senats, um die erweiterten 
 
 Ist bereits abzuschätzen welche zusätzlichen Kosten für die umfassenderen und detaillierteren Vorgaben zur Überwachung von Betriebsbereichen den Unternehmen entstehen werden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Keine.
 

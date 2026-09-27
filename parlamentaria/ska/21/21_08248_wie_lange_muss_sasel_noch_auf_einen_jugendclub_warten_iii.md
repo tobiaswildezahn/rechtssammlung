@@ -10,12 +10,13 @@ urheber: ["Dennis Thering"]
 fraktionen: ["CDU"]
 vorgang: 52087
 seiten: 1
-fragen: 0
-einzelfragen: 0
-antwortbloecke: 0
+fragen: 1
+einzelfragen: 2
+antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6242", "20/7566", "21/8098"]
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56947"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/56947/21_08248_wie_lange_muss_sasel_noch_auf_einen_jugendclub_warten_iii"
 abgerufen: "2026-09-26"
@@ -27,9 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Dennis Thering (CDU) vom 06.03.17 und Antwort des Senats · Drucksache vom 14.03.2017  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/56947) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/56947/21_08248_wie_lange_muss_sasel_noch_auf_einen_jugendclub_warten_iii)
 
-## Volltext
-
-Wie lange muss Sasel noch auf einen Jugendclub warten? (III)
+## Einleitung für die Fragen
 
 Seit vielen Jahren kämpft die CDU um einen dringend benötigten Jugendclub in Sasel. Sogar das zuständige Bezirksamt sieht eine solche Einrichtung als notwendig an (Drs. 20/6242). In Drs. 20/7566 wird seitens des Senats sogar von einer geplanten Fertigstellung im Jahr 2013 gesprochen.
 
@@ -39,8 +38,14 @@ Leider hat der Senat auf meine Anfrage Drs. 21/8098 wieder einmal sehr ausweiche
 
 Vor diesem Hintergrund frage ich den Senat erneut:
 
+## Fragen und Antworten
+
+### Frage 1
+
 Stehen die in der Drs. 20/7566 genannten bezirklichen Sondermittel in Höhe von 273.662,71 Euro für die Einrichtung eines Jugendclubs in Sasel nach wie vor in voller Höhe zur Verfügung?
 
 Wenn nein, warum nicht, wohin sind die Mittel geflossen und wer hat das bestimmt?
+
+#### Antwort zu Frage 1
 
 Siehe Drs. 20/7566 und 21/8098.

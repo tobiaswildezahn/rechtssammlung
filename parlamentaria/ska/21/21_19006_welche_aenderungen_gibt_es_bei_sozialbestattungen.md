@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 5
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16556"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68723"
@@ -53,6 +54,6 @@ Wenn einem Bestatter „aufgrund religiöser Besonderheiten besondere Kosten ent
 a) Fallen hierunter auch religiöse Symbole wie etwa die Gravur eines Kreuzes auf dem Grabstein einer Christin/eines Christen? Wenn ja, welche religiösen Symbole sind ferner erfasst und wie oft wurden welche religiösen Symbole welcher Religion dieses Jahr im Rahmen einer Sozialbestattung gewünscht? Wenn nein, warum fallen religiöse Symbole nicht darunter beziehungsweise warum sind gegebenenfalls einzelne nicht erfasst?
 b) Welche Art von „religiösen Besonderheiten“ wird bei einer Sozialbestattung im Übrigen und auf welcher Grundlage übernommen? Bitte erläutern.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.

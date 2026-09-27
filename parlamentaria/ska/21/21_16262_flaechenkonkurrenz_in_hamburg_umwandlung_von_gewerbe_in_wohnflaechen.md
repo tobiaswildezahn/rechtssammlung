@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 18
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65777"
@@ -290,7 +291,7 @@ Hat der Senat Kenntnis über die Anzahl und Gesamtfläche der seit 2015 durch Um
 
 Hat der Senat Kenntnis über die Anzahl und Gesamtfläche der seit 2015 durch Umnutzung von Gewerbe- in Wohnflächen im Gebäudebestand verloren gegangenen Gewerberäume/Gewerbeflächen? Wenn ja, bitte nach Bezirken und Jahren differenziert angeben.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die zur Beantwortung benötigten Daten werden statistisch nicht erfasst. Eine Beantwortung der Fragen ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit und mit vertretbarem Aufwand nicht möglich.
 

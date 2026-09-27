@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/548", "21/547"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50039"
@@ -119,15 +120,15 @@ Für die Ausstellung von Geburtsurkunden für Neugeborene müssen neben der Anze
 
 Das standesamtliche Geburtenregister enthält folgende Daten:
 
-• die Angaben zum beurkundenden Standesamt,
+– die Angaben zum beurkundenden Standesamt,
 
-• Angaben zum Kind (Geburtsname, Vorname(n), Geschlecht, Geburtstag und Uhrzeit, Geburtsort),
+– Angaben zum Kind (Geburtsname, Vorname(n), Geschlecht, Geburtstag und Uhrzeit, Geburtsort),
 
-• Angaben zur Mutter (Familienname, gegebenenfalls Geburtsname, Vorname)
+– Angaben zur Mutter (Familienname, gegebenenfalls Geburtsname, Vorname)
 
-• gegebenenfalls die gleichen Angaben zum Vater,
+– gegebenenfalls die gleichen Angaben zum Vater,
 
-• Ort und Datum der Beurkundung sowie Name und Funktionsbezeichnung der Urkundsperson.
+– Ort und Datum der Beurkundung sowie Name und Funktionsbezeichnung der Urkundsperson.
 
 Nach der Beurkundung erfolgt eine Mitteilung an das Melderegister, hier wird das Kind dann melderechtlich registriert.
 

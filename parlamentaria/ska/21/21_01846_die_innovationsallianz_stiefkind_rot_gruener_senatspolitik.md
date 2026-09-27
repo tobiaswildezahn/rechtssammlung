@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11896", "20/11568", "20/7935"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50061"
@@ -45,23 +46,23 @@ Die InnovationsAllianz Hamburg wird seit 2008 aktiv durch die für Innovation un
 
 Seit der Unterzeichnung der Strategischen Leitlinien 2010 gehören dazu beispielsweise:
 
- die Einrichtung der Innovationsagentur in der Hamburgischen Investitions- und
+– die Einrichtung der Innovationsagentur in der Hamburgischen Investitions- und
 
 Förderbank (IFB) mit den Förderprogrammen Innostarter, InnoRampUp und Programm für Innovation;
 
- der Aufbau und die Verstetigung der Innovations-Kontakt-Stelle Hamburg in
+– der Aufbau und die Verstetigung der Innovations-Kontakt-Stelle Hamburg in
 
 Zusammenarbeit mit der Handelskammer Hamburg und Hamburg Innovation GmbH;
 
- die Ansiedlung von drei Fraunhofer-Einrichtungen in Hamburg (Fraunhofer-Center
+– die Ansiedlung von drei Fraunhofer-Einrichtungen in Hamburg (Fraunhofer-Center
 
 für Maritime Logistik und Dienstleistungen, Fraunhofer IME Screeningport und Fraunhofer Anwendungszentrum für Leistungselektronik für Regenerative Energiesysteme, siehe auch Drs. 20/11568);
 
- Aufbau und Entwicklung von anwendungsorientierten Forschungszentren in Ham-
+– Aufbau und Entwicklung von anwendungsorientierten Forschungszentren in Ham-
 
 burg (unter anderem ZAL Zentrum für Angewandte Luftfahrtforschung GmbH, LZN Laser Zentrum Nord GmbH sowie Technologiezentrum Energie-Campus Hamburg);
 
- die Steuerung und Entwicklung der Hamburger Cluster (siehe Bürgerschaftsdrs.
+– die Steuerung und Entwicklung der Hamburger Cluster (siehe Bürgerschaftsdrs.
 
 20/7935 sowie http://www.hamburg.de/wirtschaft/clusterpolitik/).
 
@@ -87,53 +88,53 @@ InnovationsAllianz als Maßnahme vereinbart.
 
 Die neue Struktur zielt darauf ab,
 
- die inhaltliche Ausrichtung der Innovationsstrategie für die kommenden fünf Jahre
+– die inhaltliche Ausrichtung der Innovationsstrategie für die kommenden fünf Jahre
 
 zu überprüfen und ggf. anzupassen;
 
- gemeinsame konkrete Maßnahmen und Ziele für die kommenden fünf Jahre zu
+– gemeinsame konkrete Maßnahmen und Ziele für die kommenden fünf Jahre zu
 
 formulieren und anschließend umzusetzen;
 
- die Vision der Innovationsstrategie („Eine Innovationshauptstadt für Europa bis
+– die Vision der Innovationsstrategie („Eine Innovationshauptstadt für Europa bis
 
 2020“) zu überprüfen und gegebenenfalls weiterzuentwickeln;
 
- Commitment und Teilhabe der zentralen Innovationsakteure an der Innovations-
+– Commitment und Teilhabe der zentralen Innovationsakteure an der Innovations-
 
 Allianz sowie an konkreten Maßnahmen zu sichern;
 
- die Hamburger Cluster enger in die InnovationsAllianz einzubinden;
+– die Hamburger Cluster enger in die InnovationsAllianz einzubinden;
 
- die Sichtbarkeit/Bekanntheit der InnovationsAllianz zu erhöhen und die Vermark-
+– die Sichtbarkeit/Bekanntheit der InnovationsAllianz zu erhöhen und die Vermark-
 
 tung erheblich zu verbessern und
 
- durch ein gemeinsames Verständnis aller Akteure die Innovationsstrategie zu
+– durch ein gemeinsames Verständnis aller Akteure die Innovationsstrategie zu
 
 erneuern.
 
 Weitere geplante Maßnahmen (bis 2020) sind unter anderem
 
- die Entwicklung von Forschungs- und Innovations-(F&I)- Parks an den Standorten
+– die Entwicklung von Forschungs- und Innovations-(F&I)- Parks an den Standorten
 
 Altona, Bergedorf, Harburg und Finkenwerder;
 
- die Etablierung weiterer Forschungseinrichtungen der angewandten Forschung
+– die Etablierung weiterer Forschungseinrichtungen der angewandten Forschung
 
 (DLR, Fraunhofer);
 
- Weiterentwicklung des Innovationsfördersystems in der IFB, zum Beispiel Innova-
+– Weiterentwicklung des Innovationsfördersystems in der IFB, zum Beispiel Innova-
 
 tionsdarlehen;
 
- Mitgestaltung des digitalen Strukturwandels (3D-Druck, Industrie 4.0);
+– Mitgestaltung des digitalen Strukturwandels (3D-Druck, Industrie 4.0);
 
- Stärkung der innovativen Gründerszene (zum Beispiel durch das DESY-
+– Stärkung der innovativen Gründerszene (zum Beispiel durch das DESY-
 
 Innovationszentrum);
 
- Entwicklung der clusterübergreifenden Zusammenarbeit (EU-Modellregion für
+– Entwicklung der clusterübergreifenden Zusammenarbeit (EU-Modellregion für
 
 Clusterbrücken, siehe http://www.hamburg.de/wirtschaft/clusterpolitikmodellregion/).
 
@@ -145,7 +146,7 @@ Weshalb hat die Information der Behörde für Wirtschaft, Verkehr und Innovation
 
 Welche konkreten Pläne verfolgt der Senat zur besseren Außenkommunikation der InnovationsAllianz?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Fokus liegt auf den fachlichen Aktivitäten. Die Internetseite wurde kürzlich aktualisiert.
 

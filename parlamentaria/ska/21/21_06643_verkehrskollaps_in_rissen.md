@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55179"
@@ -93,6 +94,6 @@ Wann wird die S-Bahn-Strecke Wedel – Blankenese zweispurig ausgebaut?
 
 Erfolgt dieser Ausbau auf der gesamten Strecke? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Ausgehend von der heutigen und absehbaren Nachfragesituation ist ein kompletter zweigleisiger Ausbau der Strecke nicht erforderlich. Sowohl in der Haupt- als auch in der Nebenverkehrszeit bestehen noch ausreichend Kapazitätsreserven für eine Fahrgastzunahme.

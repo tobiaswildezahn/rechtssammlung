@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6360"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54904"
@@ -527,7 +528,7 @@ Wie hoch werden die Kosten für Hamburg aufgrund der Ausweitung der UVL-Leistung
 
 Wie viele zusätzliche Mitarbeiterinnen und Mitarbeiter sind aufgrund der Ausweitung der UVL-Leistungen in Hamburg notwendig und welche Kosten sind damit verbunden? Bitte jeweils pro Bezirk aufgliedern.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Drs. 21/6360. Die konkrete Ausgestaltung und Finanzierung der UVG-Reform befindet sich noch in der Abstimmung zwischen Bund und Ländern. Konkrete Auswirkungen für Hamburg können deshalb zum jetzigen Zeitpunkt noch nicht beziffert werden.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 17
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6577", "21/8151"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57930"
@@ -253,26 +254,26 @@ Ist die Baugenehmigung mittlerweile erteilt worden? Falls ja: wann und mit welch
 
 Ja, am 6. April 2017. Inhalte der Baugenehmigung sind zum Beispiel:
 
- Geschossigkeit: zusätzlich fünf Geschosse
+– Geschossigkeit: zusätzlich fünf Geschosse
 
- Gesamthöhe: 60,56 m
+– Gesamthöhe: 60,56 m
 
- Baumasse beziehungsweise Quadratmeter-Nutzfläche: für die Aufstockung:
+– Baumasse beziehungsweise Quadratmeter-Nutzfläche: für die Aufstockung:
 
 12.034 m² Bruttogeschossfläche (BGF)
 
- Nutzungen: Versammlungsstätte, Hotel, Ateliers Sportstätte und Park auf dem
+– Nutzungen: Versammlungsstätte, Hotel, Ateliers Sportstätte und Park auf dem
 
 Dach
 
- zu errichtende Stellplätze: Es entsteht durch die Nutzung im Neubau ein Mehrbe-
+– zu errichtende Stellplätze: Es entsteht durch die Nutzung im Neubau ein Mehrbe-
 
 darf von 378 Stellplätzen (§ 48 Absatz 1 HBauO).
 
- gestundete Stellplätze: Mit der Baugenehmigung wurden keine Kfz.-Stellplätze
+– gestundete Stellplätze: Mit der Baugenehmigung wurden keine Kfz.-Stellplätze
 
 gestundet. Ein Antrag auf Stundung befindet sich noch in der Prüfung.
 
- Denkmalschutz: Die Baugenehmigung schließt die Genehmigung nach §§ 8, 9 und
+– Denkmalschutz: Die Baugenehmigung schließt die Genehmigung nach §§ 8, 9 und
 
 11 des Denkmalschutzgesetzes in der geltenden Fassung für die Veränderungen an unbeweglichen Denkmälern, Gebäudegruppen und Gesamtanlagen ein. Die Genehmigung enthält Auflagen bezüglich des bestehenden Bunkergebäudes

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49017"
@@ -33,16 +34,16 @@ In einer Pressemitteilung des NABU Hamburg vom 28.05.2015 werden folgende Punkte
 
 „• Die Stadt hat noch kein akzeptables Angebot für eine dauerhafte Sicherung des Biotopkorridors vorgelegt.
 
-• Eine Grünlandfläche im Zentrum des Biotopkorridors, die die Verbände von Beginn der Güteverhandlungen an wiederholt als essentiell für die Funktionsfähigkeit des Biotopkorridors benannt haben, hat die Stadt trotzdem an den Intensiv-Obstbau abgegeben – entgegen zuvor gegenüber den Verbänden gemachten Aussagen, dies könne rückgängig gemacht werden und die Fläche als Grünland Teil des Biotopkorridors sein.
+– Eine Grünlandfläche im Zentrum des Biotopkorridors, die die Verbände von Beginn der Güteverhandlungen an wiederholt als essentiell für die Funktionsfähigkeit des Biotopkorridors benannt haben, hat die Stadt trotzdem an den Intensiv-Obstbau abgegeben – entgegen zuvor gegenüber den Verbänden gemachten Aussagen, dies könne rückgängig gemacht werden und die Fläche als Grünland Teil des Biotopkorridors sein.
 
-• Eine Grünlandfläche des Süderelbefonds in einem ökologisch wertvollen Bereich des Biotopkorridors inmitten einer Engstelle (Lippsche Kuhlen) soll dem Intensiv-Obstbau zur Verfügung gestellt werden.
+– Eine Grünlandfläche des Süderelbefonds in einem ökologisch wertvollen Bereich des Biotopkorridors inmitten einer Engstelle (Lippsche Kuhlen) soll dem Intensiv-Obstbau zur Verfügung gestellt werden.
 
-•  
+–  
 Es fehlt ein vollständiger Lärmschutz an der A 26 im Bereich Neuenfelde  
 entlang des hoch sensiblen und lärmempfindlichen Naturschutzgebietes  
 Moorgürtel.
 
-• Ein funktionsfähiger Teil von Altenwerder-West (Vollhöfner Wald) muss für den Biotopkorridor erhalten bleiben.“
+– Ein funktionsfähiger Teil von Altenwerder-West (Vollhöfner Wald) muss für den Biotopkorridor erhalten bleiben.“
 
 Vor diesem Hintergrund fragen wir den Senat:
 

@@ -11,9 +11,10 @@ fraktionen: ["Die Linke"]
 vorgang: 53077
 seiten: 2
 fragen: 8
-einzelfragen: 8
-antwortbloecke: 8
+einzelfragen: 10
+antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6588", "21/6944", "21/8669"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58009"
@@ -110,8 +111,10 @@ Herr Dr. Hill erhält Leistungen aus seiner zurückliegenden Tätigkeit als Staa
 
 Wenn ja, für welche Tätigkeiten?
 
-8.1. Unterstützt die Freie und Hansestadt Hamburg die Initiative „Haltung zeigen“ und in diesem Zusammenhang gegebenenfalls Herrn Dr. Hill?
+### Frage 8.1
 
-Wenn ja, in welcher Form und Dimension?
+Unterstützt die Freie und Hansestadt Hamburg die Initiative „Haltung zeigen“ und in diesem Zusammenhang gegebenenfalls Herrn Dr. Hill? Wenn ja, in welcher Form und Dimension?
+
+#### Antwort zu Frage 8.1
 
 Mit Datum vom 15. Mai 2017 hat die Hamburger Hochbahn AG bekannt gegeben, die Initiative durch Zurverfügungstellung eines „Tour-Busses“ an mehreren Wochenenden zu unterstützen. Im Übrigen siehe Drs. 21/8669.

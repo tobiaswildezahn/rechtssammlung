@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62309"
@@ -33,29 +34,29 @@ In ihrem Geschäftsbericht 2017 beschreibt die HSH Nordbank Zugänge im Konsolid
 
 ## Einleitung für die Antworten des Senats
 
- Chasms Navigation Limited, Douglas, Isle of Man
+– Chasms Navigation Limited, Douglas, Isle of Man
 
- Cregneash Navigation Limited, Douglas, Isle of Man
+– Cregneash Navigation Limited, Douglas, Isle of Man
 
- Curragh Navigation Limited, Douglas, Isle of Man
+– Curragh Navigation Limited, Douglas, Isle of Man
 
- Mooragh Navigation Limited, Douglas, Isle of Man
+– Mooragh Navigation Limited, Douglas, Isle of Man
 
- Soderick Navigation Limited, Douglas, Isle of Man
+– Soderick Navigation Limited, Douglas, Isle of Man
 
 Diese Zugänge würden aus einer Sicherheitenverwertung im Zusammenhang mit Sanierungsmaßnahmen bei dem Kreditengagement resultieren. Im Rahmen dieser Sicherheitenverwertung habe die HSH Nordbank AG, die ihr verpfändeten Anteile an den fünf Einschiffgesellschaften, an eine andere Partei übertragen, welche die Anteile treuhänderisch für die HSH Nordbank AG hält. Im September 2017 seien die von den Einschiffgesellschaften gehaltenen Schiffe veräußert worden.
 
 Im veröffentlichten Geschäftsbericht 2014 der Rickmers Gruppe „Maritime Kompetenz“ wurden diese Gesellschaften/Schiffe als Anteilsbesitz nach § 313 Absatz 2 HGB geführt. Nach unseren Informationen handelt es sich um die Containerschiffe.
 
- MAERSK EMDEN (Ruby Rickmers)
+– MAERSK EMDEN (Ruby Rickmers)
 
- MAERSK EINDHOFEN (Aqua Rickmers)
+– MAERSK EINDHOFEN (Aqua Rickmers)
 
- MAERSK ESSEX (Libra Rickmers)
+– MAERSK ESSEX (Libra Rickmers)
 
- MAERSK EVORA (Tauro Rickmers)
+– MAERSK EVORA (Tauro Rickmers)
 
- MAERSK EDINBURGH (Pearl Rickmers)
+– MAERSK EDINBURGH (Pearl Rickmers)
 
 Hierzu frage ich den Senat:
 

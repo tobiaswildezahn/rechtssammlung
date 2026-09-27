@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 47
 antwortbloecke: 21
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11861"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61793"
@@ -93,7 +94,7 @@ Für das 4. Quartal 2018 plant MOIA Presseberichten zufolge in Hamburg zunächst
 
 Welche Vorteile genießt MOIA während der oben genannten dreimonatigen Probephase im Vergleich zu den Anforderungen im späteren regulären Betrieb?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Antrag von MOIA zielt darauf ab, festzustellen, dass die Erprobungsphase im 4. Quartal des Jahres 2018 gemäß § 1 Absatz 2 PBefG genehmigungsfrei ist, da das Gesamtentgelt die Betriebskosten nicht übersteigt. Eine Verlängerung ist nicht beantragt.
 
@@ -195,7 +196,7 @@ Hat die HOCHBAHN in dieser Sache auch Kooperationsgespräche mit „Hansa-Taxi�
 
 Taxi-Unternehmen wie zum Beispiel „Hansa-Taxi“ verfolgen mit dem MOIA-Shuttle-Service vergleichbare App-gestützte Sharing-Beförderungsdienste, wenn auch mit konventioneller Technologie. Welche Gründe sind dafür verantwortlich, dass die HOCHBAHN stattdessen mit einem neuen Anbieter wie MOIA kooperiert, und dies trotz bislang weitgehend unerprobter Technologien?
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Die HOCHBAHN bietet anderen Vermittlungsdiensten die Integration in die switchh- Plattform ebenso an wie MOIA. Ob diese Integration erfolgt, ist wie im Fall MOIA noch offen.
 

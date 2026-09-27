@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 33
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13973", "21/19670", "21/5000", "21/14000", "21/18760", "21/17157", "21/15225", "20/12627", "21/10393"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69345"
@@ -126,7 +127,7 @@ Welche öffentlichen Spielplätze sind in den Hamburger Bezirken seit 2018 zurü
 
 Sind laut Informationen des Senats beziehungsweise der zuständigen Behörde weitere Spielplätze bekannt, welche ab 2020 in der Freien und Hansestadt Hamburg zurückgebaut werden sollen? Wenn ja, bitte mit Angabe des Datums der Maßnahme, des Bezirks, Adresse und der Fläche (in Quadratmeter) auflisten.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im Bezirk Hamburg-Nord ist der Spielplatz Sechslingspforte mit einer Größe von 1 826 m² wegen der geplanten Erweiterung der Alsterschwimmhalle sowie seiner abgehängten und verkehrsbelasteten Lage zurückgebaut worden. Dieser Rückbau wurde durch den Neubau des nebenliegenden Spielplatzes Ifflandstraße mit einer Größe von 1 906 m² ausgeglichen. Dieser wurde zuvor bereits in 2017 fertiggestellt.
 

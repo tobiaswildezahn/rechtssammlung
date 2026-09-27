@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48562"
@@ -51,23 +52,23 @@ Wie viele Verfahren wurden bereits rechtskräftig abgeschlossen und wie? Wie vie
 
 Sieben Verfahren zur Herstellung ordnungsgemäßer Zustände sind abgeschlossen:
 
- Zwei Verfahren nach Anhörung, weil die ungenehmigte Anlage beseitigt bezie-
+– Zwei Verfahren nach Anhörung, weil die ungenehmigte Anlage beseitigt bezie-
 
 hungsweise die ungenehmigte Nutzung eingestellt wurde.
 
- Zwei Verfahren wurden durch ein neues Verfahren ersetzt.
+– Zwei Verfahren wurden durch ein neues Verfahren ersetzt.
 
- Drei Verfahren wurden eingestellt, nachdem Bauanträge eingereicht und beschie-
+– Drei Verfahren wurden eingestellt, nachdem Bauanträge eingereicht und beschie-
 
 den wurden.
 
 Drei Verfahren zur Herstellung ordnungsgemäßer Zustände sind noch nicht abgeschlossen:
 
- Ein Verfahren, bei dem zwar ein rechtskräftiger Widerspruchbescheid zu einer
+– Ein Verfahren, bei dem zwar ein rechtskräftiger Widerspruchbescheid zu einer
 
 Beseitigungsanordnung vorliegt, der Anordnung jedoch bisher nicht nachgekommen wurde. Vom zuständigen Bezirksamt wurde ein Zwangsgeld erhoben.
 
- Zwei Verfahren, die beim Verwaltungsgericht anhängig sind.
+– Zwei Verfahren, die beim Verwaltungsgericht anhängig sind.
 
 ### Frage 3
 
@@ -77,7 +78,7 @@ Wurde eine Baueinstellung nach § 75 Absatz 1 der Hamburgischen Bauordnung (HBau
 
 Kam § 75 Absatz 2 HBauO zur Anwendung? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Ja, es wurden insgesamt vier Anordnungen zur Einstellung verschiedener Bauarbeiten erlassen. Einer Anordnung wurde nicht nachgekommen. Nach Erhebung eines Zwangsgeldes wurden dann keine weiteren Verstöße festgestellt. Deshalb kam § 75 Absatz 2 HBauO nicht zur Anwendung.
 

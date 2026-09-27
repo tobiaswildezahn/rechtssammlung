@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8787", "20/11549"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48310"
@@ -54,7 +55,7 @@ Wie genau sieht das Löschbootkonzept des Senats aus? Wie sieht das Konzept zur 
 
 Welche technischen Anforderungen müssen die zu beschaffenden Löschboote erfüllen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -94,7 +95,7 @@ Wie wurde beziehungsweise wird die Sicherheit im Hafen ohne vollständig einsatz
 
 Wie gedenkt der Senat beziehungsweise die zuständige Behörde bei Einsatzunfähigkeit aller Löschboote deren Ausfall zu kompensieren? Wie soll in solchen Fällen insbesondere die Brandbekämpfung im Hafen erfolgen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 20/11549.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 20
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4035", "21/9040", "21/5039", "20/13460", "21/11156", "21/4140", "21/5841", "21/8833", "21/9101", "21/10132"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62444"
@@ -77,7 +78,7 @@ Inwieweit tragen die MGH zu einem offenen interreligiösen Dialog mit den andere
 a) In wie vielen Fällen haben Vertreter der MGH bereits aus Eigeninitiative den Kontakt zu den christlichen Religionsgemeinschaften gesucht?
 b) Bestehen Kontakte zwischen den MGH und der jüdischen Gemeinde in Hamburg?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/4035.
 

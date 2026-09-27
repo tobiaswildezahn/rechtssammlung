@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2108"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63067"
@@ -95,7 +96,7 @@ Ist es gestattet, nachts auf dem Gelände der Stadtteilschule solche Art von Mas
 
 Inwieweit ist das Betreten des Schulgeländes nach Beendigung des Schultages für welche Personengruppen überhaupt gestattet?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Gemäß § 89 Absatz 2 Hamburgisches Schulgesetz (HmbSG) vertritt die Schulleiterin oder der Schulleiter die Schule nach außen und übt das Hausrecht aus. Die Entscheidung über die Mitnutzung von Schulräumen und -anlagen treffen die Schulleitungen auf Grundlage der Dienstvorschrift „Mitbenutzung von Schulräumen und Anlagen“ vom
 04.01.2006, siehe http://www.hamburg.de/contentblob/69572/ e3fbbc7b331b79def86edf320574e5bf/data/bbs-vo-schulraeume-mitnenutzung-01-
@@ -103,15 +104,15 @@ Gemäß § 89 Absatz 2 Hamburgisches Schulgesetz (HmbSG) vertritt die Schulleite
 
 Nach Nummer 1.2 der Dienstvorschrift dürfen folgende Personen, Dienststellen und Einrichtungen die Schulräume und -anlagen auch ohne explizite Genehmigung durch die Schulleitung nutzen:
 
- Elternvertretungen, das Lehrerkollegium, der Schülerrat und sonstige Schülergrup-
+– Elternvertretungen, das Lehrerkollegium, der Schülerrat und sonstige Schülergrup-
 
 pen sowie anderes Personal der Schule,
 
- andere Dienststellen oder Einrichtungen der Behörde für Schule und Berufsbildung
+– andere Dienststellen oder Einrichtungen der Behörde für Schule und Berufsbildung
 
 sowie durch andere Behörden der Freien und Hansestadt Hamburg sowie
 
- Sportvereine, denen Sportstätten durch Abschluss eines Überlassungsvertrages
+– Sportvereine, denen Sportstätten durch Abschluss eines Überlassungsvertrages
 
 übergeben wurden.
 

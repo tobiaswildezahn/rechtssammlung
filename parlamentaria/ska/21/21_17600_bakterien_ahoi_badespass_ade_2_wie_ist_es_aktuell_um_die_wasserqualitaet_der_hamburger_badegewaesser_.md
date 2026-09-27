@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13427"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67187"
@@ -62,9 +63,9 @@ Welche Grenzwerte der Bakterien- und Keimkonzentration gelten für die Badegewä
 
 In Hamburg gelten die folgenden Grenzwerte für Badegewässer gemäß der Hamburger Verordnung über die Qualität und die Bewirtschaftung der Badegewässer:
 
- Escherichia coli: 1 800 KBE/100 ml,
+– Escherichia coli: 1 800 KBE/100 ml,
 
- Intestinale Enterokokken: 700 KBE/100 ml.
+– Intestinale Enterokokken: 700 KBE/100 ml.
 
 ### Frage 3
 

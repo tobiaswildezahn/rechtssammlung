@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 23
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63167"
@@ -51,7 +52,7 @@ Woraus resultierte der besonders markante Sprung im Volumen der Hamburger Einhei
 
 In welchem Zusammenhang stehen die eingangs dargestellten Steigerungen des Volumens der Hamburger Einheitswerte zu den Untersuchungen und Feststellungen des Rechnungshofs, die er in seinem Jahresbericht 2018 dargelegt hatte? Wie passt dabei insbesondere der Befund des vom Rechnungshof monierten Defizits in der Kommunikation zwischen Bauaufsichtsbehörden, Stadtentwicklungsbehörde und Hamburg Port Authority (HPA) einerseits und Finanzamt andererseits ins Bild, wodurch eher zu geringe Wert- und Artfortschreibungen und folglich Einheitswertvolumina zu erwarten gewesen wären?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -95,7 +96,7 @@ Können die Gemeinden beziehungsweise Finanzämter rückwirkend auch bereits rec
 
 Müssen die Hamburger Steuerpflichtigen mit Grundsteuer-Nachforderungen für das laufende sowie vergangene Jahre rechnen? a. Wenn ja, für welche Jahre und auf welcher Rechtsgrundlage? Für welche Jahre sind mögliche Ansprüche bereits verjährt oder anderweitig verfallen? b. In welcher maximalen Gesamthöhe können in Anbetracht des eingangs erwähnten Anstiegs des Volumens der Einheitswerte noch entsprechende Steuernachforderungen seitens der FHH entstehen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Ja, bei Vorliegen der Voraussetzungen des § 22 Bewertungsgesetz (BewG) ist eine rückwirkende Änderung eines bestandkräftigen Einheitswertbescheids und damit in der Folge des Grundsteuermess- und Grundsteuerbescheids möglich. Dies ist im Wesentlichen der Fall bei Überschreitung der Wertgrenzen wegen Änderung der tatsächlichen Verhältnisse (zum Beispiel Neubau; Abriss; Umbau; Ausbau; Nutzungsänderung) gemäß § 22 Absatz 1 BewG, die zu einer Änderung des Einheitswert- und damit in der Folge des Grundsteuermess- und Grundsteuerbescheids gemäß § 17 Absatz 1 i.V.m. Absatz 3 S. 2 Nummer 1 Grundsteuergesetz (GrStG) führt. Die Änderung der tatsächlichen Verhältnisse kann ab dem Folgejahr der Veränderung rückwirkend bis zum Verjährungsstichtag berücksichtigt werden (§ 22 Absatz 4 S. 3 Nummer 1 BewG). Bei fehlerhafter rechtlicher Bewertung tatsächlicher Umstände im bisherigen Einheitswertbescheid ist eine Änderung der maßgeblichen Bescheide möglich, siehe § 17 Absatz 2 Nummer 2 i.V.m. Absatz 3 S. 2 Nummer 3 GrStG. Im Übrigen siehe Vorbemerkung.
 

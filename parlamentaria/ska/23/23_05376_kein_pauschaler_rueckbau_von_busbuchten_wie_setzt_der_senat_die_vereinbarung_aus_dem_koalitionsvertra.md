@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 25
 antwortbloecke: 0
 beantwortet: false
+status: "unbeantwortet"
 zitierte_drucksachen: ["20/9965", "20/9513"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105279"
@@ -27,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Dirk Nockemann und Thomas Reich (AfD) vom 16.09.26 und Antwort des Senats · Drucksache vom 16.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105279) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105279/23_05376_kein_pauschaler_rueckbau_von_busbuchten_wie_setzt_der_senat_die_vereinbarung_aus_dem_koalitionsvertrag_um)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

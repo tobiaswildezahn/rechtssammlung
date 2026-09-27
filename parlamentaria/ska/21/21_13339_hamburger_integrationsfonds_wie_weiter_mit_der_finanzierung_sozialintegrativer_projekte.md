@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 17
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5237", "21/10141", "21/1453", "21/10281", "21/12757", "21/11471", "21/5860", "21/3150", "21/11713", "21/7803", "21/8893", "21/12919"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62689"
@@ -143,11 +144,11 @@ In Drs. 21/10141 werden 16 Maßnahmen erwähnt, für die zum damaligen Zeitpunkt
 
 Für drei der 87 Einzelmaßnahmen liegen dem Senat bis dato keine Anträge vor:
 
- Ersuchen 21/7991: Vorhaben „Bringing Peace“ des Trägers WeSelf e.V.;
+– Ersuchen 21/7991: Vorhaben „Bringing Peace“ des Trägers WeSelf e.V.;
 
- Drs. 21/8893: Vorhaben „We are family“ des Trägers Leben mit Behinderung;
+– Drs. 21/8893: Vorhaben „We are family“ des Trägers Leben mit Behinderung;
 
- Drs. 21/12919: Vorhaben: Errichtung des sozialen Zentrums am Hörgensweg in
+– Drs. 21/12919: Vorhaben: Errichtung des sozialen Zentrums am Hörgensweg in
 
 Eidelstedt; Beschluss des bürgerschaftlichen Ersuchens am 16.05.2018.
 

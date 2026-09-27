@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4834", "21/4998"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53620"
@@ -118,7 +119,7 @@ Inwiefern ist eine Fortsetzung beziehungsweise Ausweitung der Projekte Eltern-Me
 
 Inwiefern ist eine Fortsetzung der Projekte durch die Novellierung des Medienstaatsvertrages gefährdet?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Im kommenden Schuljahr werden weitere zwölf Schulen an der Maßnahme Medien- Scouts teilnehmen. Darüber hinaus ist die Nachschulung neuer MedienScouts an bestehenden MedienScout-Schulen geplant. Damit soll der langfristige und nachhaltige Erfolg der Maßnahme an den teilnehmenden Schulen gesichert werden. Ebenso werden am LI vermehrt Fortbildungen zur Aus- und Weiterbildung der Lehrkräfte angeboten, um weiterhin die stetige Betreuung der MedienScouts gewährleisten zu können. Für Herbst 2016 ist in Kooperation mit TIDE ein erstes Netzwerktreffen der hamburgischen Begleitlehrkräfte geplant.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9056", "21/9470"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62940"
@@ -197,7 +198,7 @@ Welche Krankenhäuser verfügen über eine besondere Expertise in der Behandlung
 
 Welche Krankenhäuser verfügen über eine besondere Ausstattung in der Behandlung und Pflege von Patienten/-innen, die mit multiresistenten Erregern infiziert oder kolonisiert sind?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Hamburger Krankenhäuser sind gemäß § 23 Absatz 5 Infektionsschutzgesetz (IfSG) in Verbindung mit § 4 Absatz 8 Hamburgische Verordnung über die Hygiene und Infektionsprävention in medizinischen Einrichtungen (HmbMedHygVO) verpflichtet, „innerbetriebliche Verfahrensweisen zur Infektionshygiene in Hygieneplänen“ festzulegen, die den jeweiligen Stand der medizinischen Wissenschaft zu berücksichtigen haben. Die Festlegung innerbetrieblicher Verfahrensweisen zur Infektionshygiene bei der Behandlung und Pflege von Patientinnen und Patienten, die mit multiresistenten Erregern infiziert oder kolonisiert sind, ist integraler und zentraler Bestandteil des gesetzlich geforderten Hygienemanagementsystems. Über eine besondere Expertise einzelner Krankenhäuser bei der Umsetzung dieser gesetzlichen Verpflichtungen liegen keine systematischen Erkenntnisse vor.
 

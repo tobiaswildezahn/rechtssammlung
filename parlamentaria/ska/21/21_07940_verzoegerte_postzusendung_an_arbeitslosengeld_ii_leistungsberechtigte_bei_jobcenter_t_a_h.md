@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56582"
@@ -97,7 +98,7 @@ Welches Vergabeverfahren wurde jeweils für die Jahr 2015 bis aktuell durchgefü
 
 Welche Einsatzorte, Einsatzzeit sind und wie hoch ist die geforderte Zahl einzusetzender Kräfte nach Frage 5. als Bedingung/Angaben zur Leistungserbringung von externen Postdienstleistungen? Bitte jeweils nach Art des Vergabeverfahrens für die Jahre 2015, 2016 und aktuell angeben.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Ausschreibung erfolgte durch den Einkauf der Bundesagentur für Arbeit (BA), hier das BA-Systemhaus. Momentaner Auftragnehmer ist die Deutsche Post AG. Jobcenter hat sich dem Rahmenvertrag angeschlossen. Darüber hinaus liegen der zuständigen Behörde hierzu keine Angaben vor.
 

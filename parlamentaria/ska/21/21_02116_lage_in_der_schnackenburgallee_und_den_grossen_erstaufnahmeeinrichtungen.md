@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 34
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1876", "21/1570"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50374"
@@ -177,7 +178,7 @@ Sind zwischenzeitlich ausreichend Decken für sämtliche in der Zeltstadt in der
 
 Sind zwischenzeitlich hinreichend neue Betten, die weder kaputt, zerstört, noch verschimmelt sind, in die Schnackenburgallee geliefert worden?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Ja.
 
@@ -213,7 +214,7 @@ In der Schnackenburgallee und der Dratelnstraße soll es Fälle von organisierte
 
 Gibt es Erkenntnisse über die Orte in den Einrichtungen, wo Prostitution ausgeübt wird? Handelt es sich dabei um Strukturen organisierten Verbrechens? Wenn ja, sind hieran besondere Volksgruppen federführend beteiligt? Welche konkreten Maßnahmen werden vonseiten des Senats und der Behörden dagegen ergriffen?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Die zuständigen Stellen haben keine Erkenntnisse über organisierte Prostitution oder Zwangsprostitution in den zentralen Erstaufnahmeeinrichtungen. Vereinzelt gab es in der Vergangenheit Anhaltspunkte für den Verdacht, dass sich Bewohnerinnen prostituieren. Mit den Personen wurden durch Sozialarbeiterinnen und Sozialarbeiter intensive Gespräche geführt und die Personen an externe Beratungsstellen verwiesen. Bei konkreten Verdachtsfällen wird der Wachdienst angewiesen, die entsprechenden Zimmer verstärkt zu bestreifen, um den Wahrheitsgehalt zu überprüfen.
 

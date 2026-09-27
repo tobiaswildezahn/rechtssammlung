@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 18
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50308"
@@ -77,7 +78,7 @@ Auf welcher Rechtsgrundlage soll zunächst geplant und gebaut werden? Wie sieht 
 
 Wie lange wird nach Einschätzung des Senats ein neues B-Planverfahren dauern?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Genehmigung über Befreiungen nach § 31 Absatz (2), Nummer 1 BauGB wird vom zuständigen Bezirksamt geprüft. In Falle der Genehmigung über Befreiungen ist keine Änderung des Bebauungsplans erforderlich.
 
@@ -105,7 +106,7 @@ Welche soziale Infrastruktur, insbesondere Kitas, Grundschule, andere Schulforme
 
 Welche bestehenden sozialen Einrichtungen im Stadtteil Rissen, insbesondere Kitas, Grundschule andere Schulformen, Gemeinschaftseinrichtungen, soziale Dienste sollen die neuen Bewohner nutzen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Ausstattung mit sozialer Infrastruktur ist noch in Planung. In diesem Zusammenhang wird erwogen, die Schule Lehmkuhlenweg zu erweitern.
 

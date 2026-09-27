@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63221"
@@ -73,7 +74,7 @@ Hat sich der Einbruchsverdacht bestätigt?
 
 Befinden sich alle vier nun in Haft?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Gegen die vier vorläufig festgenommenen Beschuldigten hat das Amtsgericht Hamburg Haftbefehle wegen des dringenden Verdachts des versuchten Einbruchs in eine Werkstatt in Tateinheit mit versuchtem Einbruch in eine dauerhaft genutzte Privat-
 

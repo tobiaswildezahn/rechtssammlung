@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 18
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4866", "21/3547"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54583"
@@ -87,7 +88,7 @@ Hält die Schulbehörde 5 m Freifläche pro Schüler ausnahmslos für das richti
 
 Sollte es aus Sicht der Schulbehörde Schulstandorte geben, die nach Möglichkeit mehr als 5 m Freifläche pro Schüler vorhalten können? Aus welchen Gründen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Gemäß der Drs. 21/4866 wird das Musterflächenprogramm ergänzt. Wesentliche Neuerung wird sein, dass der Aspekt Ganztag sich im gesamten MFP als selbstverständlicher Teil schulischen Alltags wiederfindet und die verschiedenen Aspekte ganztägiger Nutzung von Schulflächen wie unter anderem Toben und Spielen berücksichtigt werden. Die Nutzbarkeit von Außenflächen für die Schülerinnen und Schüler hängt darüber hinaus auch von ihrer Gestaltung und Ausstattung ab. Im Übrigen siehe Antwort zu 4.
 
@@ -118,7 +119,7 @@ Welcher Planungsstand ist zum jetzigen Zeitpunkt erreicht? Inwieweit sind Änder
 
 Falls keine Änderungen, wie in Frage 9. genannt, mehr möglich sind, gibt es aus Sicht der Schulbehörde noch andere Möglichkeiten, um sich abzeichnende Interessenkonflikte zwischen neuer Schule und Nachbarschaft zu entspannen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Entwurfsplanung (Leistungsphase 3 nach der Honorarordnung für Architekten und Ingenieure) steht kurz vor dem Abschluss. Die Grundzüge der Planung sind über das Wettbewerbsergebnis festgeschrieben. Hinsichtlich der Lage auf dem Grundstück sind geringfügige Änderungen möglich. Zudem sind unterschiedliche Alternativen zur Gestaltung der Grünanlagen an den Grundstücksgrenzen mit den Anwohnerinnen und Anwohnern in der Abstimmung.
 
@@ -162,6 +163,6 @@ Würde sich nach Einschätzung der Schulbehörde die circa 3.000 m große angren
 
 Ist es möglich, Ersatz-Parkflächen und Spielflächen auf dem gleichen Gelände durch geeignete Untergründe anzuordnen?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Die Fläche ist für Wohnbebauung vorgesehen. Zu den geplanten Flächenaufteilungen siehe Drs. 21/3547.

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51644"
@@ -79,6 +80,6 @@ In wie vielen Fällen wurden in den Jahren 2008 bis 2015 in Hamburg jeweils Pers
 
 In wie viele Fällen erfolgte die vorläufige „Festnahme“ durch private Dritte jeweils unrechtmäßig?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Polizei führt keine Statistiken im Sinne der Fragestellung. Für die Beantwortung wäre die händische Auswertung mehrerer Zehntausend Vorgänge der betreffenden Jahre erforderlich. Dieses ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.

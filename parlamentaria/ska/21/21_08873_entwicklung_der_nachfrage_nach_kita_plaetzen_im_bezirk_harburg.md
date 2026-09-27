@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7966"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57638"
@@ -169,7 +170,7 @@ In wie vielen Fällen in den Jahren 2014, 2015 und 2016 konnten Eltern ihre bewi
 
 In wie vielen Fällen in den Jahren 2014, 2015 und 2016 konnten Eltern keinen Kita-Platz für die gewünschte Stundenanzahl bekommen? Bitte je Kalenderjahr auflisten.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Fälle, in denen Eltern ihre bewilligten Kita-Gutscheine mangels Kita-Platz nicht einlösen konnten, werden statistisch nicht erfasst. Auch die von Eltern gewünschte Stundenzahl wird statistisch nicht erfasst. In den Jahren 2014, 2015 und 2016 gab es im Bezirk Harburg keine Nachweisverfahren.
 

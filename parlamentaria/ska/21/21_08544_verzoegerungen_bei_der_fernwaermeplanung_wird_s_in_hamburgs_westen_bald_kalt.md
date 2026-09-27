@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57264"
@@ -55,24 +56,27 @@ Projektphase
 Arbeitsschritte  
 Status  
 Konzeptionsphase  
- Definition Variante 0  
- Prüfaufträge und Gutachten  
- Schaffung einer organisatorischen
+– Definition Variante 0  
+– Prüfaufträge und Gutachten  
+– Schaffung einer organisatorischen
 
 Projektstruktur für die anschließenden Phasen
 
 abgeschlossen
 
-Planungsphase 1  Prüfung aller Module auf
+Planungsphase 1
+– Prüfung aller Module auf
 
- Technische Realisierbarkeit  Netzeinbindung  Betriebswirtschaftliche Parame-
+– Technische Realisierbarkeit
+– Netzeinbindung
+– Betriebswirtschaftliche Parame-
 
 ter
 
 begonnen nach Lenkungsgruppe
 
 Planungsphase 2  
-  
+–  
 Planungsschritte zur Umsetzung  
 konkreter Module inkl. entsprechender Investitionsentscheidungen der jeweiligen Akteure
 

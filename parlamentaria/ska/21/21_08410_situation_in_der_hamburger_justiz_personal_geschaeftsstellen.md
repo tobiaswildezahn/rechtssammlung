@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57119"
@@ -73,13 +74,13 @@ sind.
 
 Es werden die im laufenden Haushalt finanzierten VZÄ (= VZÄ-Soll) den tatsächlich besetzten VZÄ (=VZÄ-Ist) gegenübergestellt. Die Ergebnisse sind mit folgenden Einschränkungen der folgenden Tabelle zu entnehmen.
 
- Gesonderte Teilzeit-VZÄ oder Teilzeitstellen gibt es nicht.
+– Gesonderte Teilzeit-VZÄ oder Teilzeitstellen gibt es nicht.
 
- Die Ergebnisse können nur entsprechend den Strukturen der Produktgruppen im
+– Die Ergebnisse können nur entsprechend den Strukturen der Produktgruppen im
 
 Haushaltsplan geliefert werden. Daher sind die Amtsgerichte (bei den Soll-VZÄ), die Arbeitsgerichte und die Sozialgerichte zusammengefasst dargestellt. Bei den Ist-VZÄ ist die differenzierte Darstellung der Stadtteilgerichte möglich.
 
- Es handelt sich um die Berufsgruppen, aus denen überwiegend die Geschäftsstel-
+– Es handelt sich um die Berufsgruppen, aus denen überwiegend die Geschäftsstel-
 
 len besetzt werden. Die hier ausgewerteten Daten lassen sich nur für die Produktgruppe gesamt auswerten. Es sind daher auch VZÄ ausgewertet die im Bereich der Gerichtsverwaltung eingesetzt sind.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51351"
@@ -67,7 +68,7 @@ Welche Erkenntnisse gibt es über die mutmaßlichen Täter?
 
 Inwieweit erhärtet sich der Verdacht eines Suizids oder eines Überfalls?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Tatverdächtige sind derzeit noch nicht ermittelt; darüber hinaus siehe Antwort zu 1.
 

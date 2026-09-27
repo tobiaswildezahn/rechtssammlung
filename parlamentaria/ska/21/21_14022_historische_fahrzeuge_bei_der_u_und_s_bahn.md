@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63421"
@@ -47,25 +48,25 @@ Welche historischen Fahrzeuge befinden sich im Bestand der Hamburger Hochbahn AG
 
 Derzeit befinden sich nach Angaben der HOCHBAHN folgende zehn historische Triebwagen der Baureihen T1, T6, TU1, TU2, DT1, DT2 und DT3 im Besitz und Bestand der HOCHBAHN:
 
- Fzg.-Nummer 550 (T1, Baujahr 1912, betriebsfähig)
+– Fzg.-Nummer 550 (T1, Baujahr 1912, betriebsfähig)
 
- Fzg.-Nummer 551 (T1, Baujahr 1912, nicht betriebsfähig)
+– Fzg.-Nummer 551 (T1, Baujahr 1912, nicht betriebsfähig)
 
- Fzg.-Nummer 552 (T6, Baujahr 1921, betriebsfähig)
+– Fzg.-Nummer 552 (T6, Baujahr 1921, betriebsfähig)
 
- Fzg.-Nummer 553 (TU1, Baujahr 1927, betriebsfähig)
+– Fzg.-Nummer 553 (TU1, Baujahr 1927, betriebsfähig)
 
- Fzg.-Nummer 554 (TU2, Baujahr 1929, betriebsfähig)
+– Fzg.-Nummer 554 (TU2, Baujahr 1929, betriebsfähig)
 
- Fzg.-Nummer 512 (DT1, Baujahr 1958, nicht betriebsfähig)
+– Fzg.-Nummer 512 (DT1, Baujahr 1958, nicht betriebsfähig)
 
- Fzg.-Nummer 516 (DT1, Baujahr 1958, betriebsfähig als Salonwagen „Hanseat“)
+– Fzg.-Nummer 516 (DT1, Baujahr 1958, betriebsfähig als Salonwagen „Hanseat“)
 
- Fzg.-Nummer 518 (DT1, Baujahr 1958, nicht betriebsfähig)
+– Fzg.-Nummer 518 (DT1, Baujahr 1958, nicht betriebsfähig)
 
- Fzg.-Nummer 604 (DT2, Baujahr 1962, nicht betriebsfähig)
+– Fzg.-Nummer 604 (DT2, Baujahr 1962, nicht betriebsfähig)
 
- Fzg.-Nummer 909 (DT3, Baujahr 1970, nicht betriebsfähig)
+– Fzg.-Nummer 909 (DT3, Baujahr 1970, nicht betriebsfähig)
 
 Die Instandhaltung der betriebsfähigen Fahrzeuge wird durch die HOCHBAHN durchgeführt, die nicht betriebsfähigen Fahrzeuge sind witterungsgeschützt in Tunnelanlagen abgestellt. Zurzeit ist eine Wiederherstellung der Betriebsfähigkeit beziehungs-
 
@@ -87,15 +88,15 @@ Welche historischen Fahrzeuge befinden sich im Bestand der S-Bahn Hamburg GmbH, 
 
 Derzeit befinden sich nach Angaben der S-Bahn Hamburg GmbH folgende vier Triebwagen der aus dem planmäßigen Betrieb bereits ausgeschiedenen Baureihen 471/871 (Bezeichnung bis 1969: ET/EM 171, Baujahre 1939 bis 1959) und 470/870 (Bezeichnung bis 1968 ET/EM 170, Baujahre 1959 bis 1970) im Fahrzeugbestand der Hamburger S-Bahn:
 
- Fzg. 171 082 (Baujahr 1958; in Betrieb von 2007 bis 2015)
+– Fzg. 171 082 (Baujahr 1958; in Betrieb von 2007 bis 2015)
 
- Fzg. 470 128 (Baujahr 1969; im Einsatz als Traditionszug)
+– Fzg. 470 128 (Baujahr 1969; im Einsatz als Traditionszug)
 
- Fzg. 471 062 (Baujahr 1954; Zug war bis 2004 im Betrieb, zurzeit nicht betriebsfä-
+– Fzg. 471 062 (Baujahr 1954; Zug war bis 2004 im Betrieb, zurzeit nicht betriebsfä-
 
 hig)
 
- Fzg. 470 129 (Baujahr 1969; abgestellt seit Ende 2002; zurzeit nicht betriebsfähig)
+– Fzg. 470 129 (Baujahr 1969; abgestellt seit Ende 2002; zurzeit nicht betriebsfähig)
 
 Die Erhaltung der technischen Betriebsfähigkeit obliegt der S-Bahn Hamburg GmbH, den Einsatz der Fahrzeuge zum Beispiel im Rahmen von Sonderfahrten organisiert der Verein „Historische S-Bahn Hamburg e.V.“ im Zusammenwirken mit der S-Bahn Hamburg GmbH. Bei der Durchführung von Fahrten werden Triebfahrzeugführer der S-Bahn Hamburg GmbH eingesetzt, die über eine Qualifikation für die alten Fahrzeugbaureihen verfügen.
 

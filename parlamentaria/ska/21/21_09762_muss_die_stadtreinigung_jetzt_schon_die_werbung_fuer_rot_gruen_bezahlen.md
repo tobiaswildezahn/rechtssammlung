@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9699"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58567"
@@ -80,7 +81,7 @@ Ist geplant, dass die SRH bereits vor der Schaffung der gesetzlichen Grundlagen 
 
 Inwiefern gehört es zum gesetzlichen Auftrag der SRH, für noch nicht beschlossene gesetzliche Regelungen zu werben? Hält der Senat dies für zulässig?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung und Antworten zu 1. bis 4.
 

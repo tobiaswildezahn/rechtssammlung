@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4178", "21/5011"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54530"
@@ -49,7 +50,7 @@ Ist es richtig, dass die Insassen der JVA Billwerder am 15. September 2016 ihrer
 
 Aus welchem konkreten Grund wurde diese Entscheidung wann und von wem getroffen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Um parallel zum Besuch des türkischen Generalkonsuls anlässlich des islamischen Opferfestes in Begleitung von zwei Abgeordneten der Hamburgischen Bürgerschaft auch Gefangenenbesuche am Nachmittag zu ermöglichen, traf die Anstaltsleitung am Nachmittag des 14. September 2016 die Entscheidung, die Stationsfreizeiten und Freistunden der Inhaftierten vom Nachmittag auf den Vormittag vorzuziehen. Um dieses durchführen zu können, wurden die Bediensteten einiger Betriebe zur Unterstützung in den Hafthäusern benötigt.
 
@@ -104,11 +105,11 @@ Zu welchen konkreten Leistungseinschränkungen kam es in den Kalenderwochen 36 u
 
 Im Zeitraum vom 5. bis 18. September 2016 kam es zu folgenden Leistungseinschränkungen:
 
- Zeitweiliger Wegfall des Gefangenensports
+– Zeitweiliger Wegfall des Gefangenensports
 
- Freizeiteinschränkung der Inhaftierten durch Vorziehen des Nachteinschlusses
+– Freizeiteinschränkung der Inhaftierten durch Vorziehen des Nachteinschlusses
 
- Ausfall der Arztsprechstunde
+– Ausfall der Arztsprechstunde
 
 ### Frage 8
 

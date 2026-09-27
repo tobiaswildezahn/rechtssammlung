@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14551"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67255"
@@ -85,7 +86,7 @@ Wie viele neue Bedarfsgemeinschaften sind explizit hierdurch entstanden?
 
 Wie viele dieser Väter erhalten Grundsicherung gem. SGB II?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die zur Beantwortung benötigten Daten werden nicht gesondert statistisch erfasst. Eine Einzelfallauswertung von rund 97.000 Fällen ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

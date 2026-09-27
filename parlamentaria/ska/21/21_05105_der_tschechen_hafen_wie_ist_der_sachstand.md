@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 31
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1293"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53573"
@@ -49,7 +50,7 @@ Wie ist die genaue Bezeichnung des sogenannten Tschechen-Hafens?
 
 Auf welchen Flächen befindet sich der Tschechen-Hafen? Bitte Lageplan beziehungsweise Lageskizze beifügen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es gibt keinen „sogenannten Tschechen-Hafen“. Am Halleschen Ufer des Saalehafens und am Dessauer Ufer des Moldauhafens hat die Tschechische Republik Flächen von der HPA gepachtet und verfügt dort über wasserrechtliche Genehmigungen. Die Tschechische Republik ist Eigentümerin einer Fläche am Peutehafen.
 

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56410"
@@ -85,7 +86,7 @@ Wie hoch war die durchschnittliche Bearbeitungsdauer in den Jahren 2015 und 2016
 
 Wie hoch war jeweils die maximale Bearbeitungsdauer in den Jahren 2015 und 2016? Bitte ggf. für die einzelnen Behörden getrennt darstellen.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Bearbeitungsdauer im Einzelfall ist abhängig vom Antragsgrund, den Rahmenbedingungen und dem zeitlichen Vorlauf der Antragstellung vor dem geplanten Beginn der Teilzeitbeschäftigung, Beurlaubung oder dem Eintritt in den Ruhestand. Grundsätzlich wird termingerecht entschieden.
 
@@ -133,7 +134,7 @@ Wie hoch war die durchschnittliche Bearbeitungsdauer in den Jahren 2015 und 2016
 
 Wie hoch war die maximale Bearbeitungsdauer in den Jahren 2015 und 2016? Bitte gegebenenfalls für die einzelnen Behörden getrennt darstellen.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Vorbemerkung. Im Übrigen siehe Anlagen 1 und 2.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60105"
@@ -59,7 +60,7 @@ Wurden Ponys oder Pferde aus gesundheitlichen Gründen aus dem laufenden Reitbet
 
 Falls Ponys oder Pferde aus gesundheitlichen Gründen aus dem Reitbetrieb genommen werden mussten: Erfolgt dann eine Nachkontrolle der Tiere? Falls ja: Wer führte diese Kontrollen durch und welche Ergebnisse liegen vor?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nein.
 

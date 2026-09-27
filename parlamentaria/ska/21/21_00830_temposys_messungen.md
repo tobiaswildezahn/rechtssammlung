@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48978"
@@ -51,7 +52,7 @@ Welche Kfz-Belastung wurde festgestellt (bitte den Zeitraum angeben) a. vor dem 
 
 Welche Verkehrsbelastung wurde festgestellt (bitte den Zeitraum angeben) a. an der Schule Stockflethweg? b. an der Tangstedter Landstraße bis Kiwittsmoor? c. wischen Querpfad und Eichenkamp? d. im Querpfad? e. zwischen Querpfad und Langenhorner Chaussee?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

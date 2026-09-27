@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 40
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11822", "21/10753"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61228"
@@ -95,7 +96,7 @@ c. im Werk 5?
 
 Bitte jeweils die Anzahl der Arbeitsplätze und die Quadratmeter pro Arbeitsplatz angeben. Wie viele Arbeitsplätze und jeweils wie viele Quadratmeter Bruttogeschossfläche (BGF) pro Art des Arbeitsplatzes sind jeweils im neuen „Headquarter“ vorgesehen für a. Büro, b. Labor, c. Forschungszentrum oder andere Nutzungen? Bitte hier jeweils einzeln je nach Art ausweisen, falls diese mehr als 5 Prozent der Gesamt-BGF überschreiten.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Eine Aufteilung nach den unterschiedlichen Bereichen ist nicht möglich und wird bei der Beiersdorf AG nicht geführt, da die Flächenanforderungen zwischen den einzelnen Bereichen, Büronutzungen, Labor und weitere Nutzungen, wie zum Beispiel Kantine, Kita, Aufenthaltsräume, Stellplätze, zu unterschiedlich sind.
 
@@ -149,7 +150,7 @@ Welche Nutzungen befinden sich heute auf dem Gelände des Werkes 1? Bitte die je
 
 Welche Nutzungen befinden sich heute auf dem Gelände des Werkes 3 und 5? Bitte die jeweilige Nutzungsart und BGF-Quadratmeterzahl angeben.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Im Werk 1 befindet sich neben den in der Antwort zu 1. a. i. bis 1. a. iv. genannten Unternehmen der Beiersdorf AG, ein Fitnessstudio, ein Parkhaus und die BSN medical GmbH. Im Übrigen siehe Antworten zu Frage 1. Die BGF-Quadratmeterzahlen stehen nicht zur Verfügung.
 
@@ -161,7 +162,7 @@ Welche gegebenenfalls unterschiedlichen Bodenrichtwerte je Quadratmeter BGF (Bod
 
 Welcher Bodenrichtwert je Quadratmeter BGF (Bodenschichtwert) ist bei der geplanten Wohnbebauung für diesen Bereich zurzeit zu erreichen? Falls kein Wert angegeben werden kann: Wie hoch ist der Bodenrichtwert je Quadratmeter BGF in der unmittelbaren Umgebung für eine mehrgeschossige Wohnnutzung mit vergleichbarer GFZ?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Bodenrichtwerte können unter http://www.geoportal-hamburg.de/boris/ abgefragt werden.
 

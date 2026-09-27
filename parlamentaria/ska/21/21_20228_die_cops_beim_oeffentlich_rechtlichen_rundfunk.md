@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/20078"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70010"
@@ -84,6 +85,6 @@ Welche finanziellen Mittel wurden für die Produktion des Videos aufgewendet?
 
 Mit welchen finanziellen Mitteln wird das für das Video verantwortliche Reportageformat „STRG_F“ vom NDR ausgestattet (bitte nach Jahr und Aufwendungsart aufschlüsseln)?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Das Video ist Teil einer Reportage, deswegen kann keine Einzelkostenberechnung für den Ausschnitt vorgelegt werden. Die Produktionskosten für die Reportage lagen bei rund 11.000 Euro. Der Chor hat kein Geld für die Produktion erhalten. Das Format STRG_F wird finanziert aus einem gemischten Etat-Ansatz der Panorama-Redaktion, sodass die Ermittlung eines „Budgets“ nur durch eine aufwendige nachträgliche Auswertung und nicht in der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit möglich ist.

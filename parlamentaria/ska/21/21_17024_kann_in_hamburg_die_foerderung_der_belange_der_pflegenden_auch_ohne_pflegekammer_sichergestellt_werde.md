@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66586"
@@ -83,7 +84,7 @@ Zu welchen Ergebnissen haben die Beobachtungen der zuständigen Behörde im Hinb
 
 Hat sich die AOLG inzwischen mit ersten Erfahrungen zu Pflegekammern in einigen Bundesländern befasst und wenn ja, mit welchen Ergebnissen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Arbeitsgemeinschaft der Obersten Landesgesundheitsbehörden (AOLG) hat sich auf ihrer Sitzung im Februar 2019 mit den Erfahrungen zu den Pflegekammern anderer Länder befasst.
 

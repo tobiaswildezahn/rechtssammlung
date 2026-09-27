@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 14
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13636"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52364"
@@ -65,15 +66,15 @@ Informationen zu einrichtungs- beziehungsweise trägerspezifischen Sprachförder
 
 Die Elbkinder haben ein eigenes Rahmenkonzept zur alltagsintegrierten Sprachlichen Bildung entwickelt, welches sich im Wesentlichen auf die folgenden, wissenschaftlich anerkannten Konzepte bezieht:
 
- Konzepte zur sprachlichen Bildung und Förderung des Deutschen Jugendinstituts
+– Konzepte zur sprachlichen Bildung und Förderung des Deutschen Jugendinstituts
 
 (Jampert, Karin et al. (2009) & (2011); Laier, Mechthild/Nunnenmacher, Sabine (2014).
 
- Konzept des dialogischen Lesens. Vergleiche Jugendamt der Stadt Nürnberg
+– Konzept des dialogischen Lesens. Vergleiche Jugendamt der Stadt Nürnberg
 
 (Hrsg.) 2006.
 
- Konzept zur Spracherwerb und Sprachförderung in der Kita (Ruberg/Rothweiler
+– Konzept zur Spracherwerb und Sprachförderung in der Kita (Ruberg/Rothweiler
 
 2012).
 

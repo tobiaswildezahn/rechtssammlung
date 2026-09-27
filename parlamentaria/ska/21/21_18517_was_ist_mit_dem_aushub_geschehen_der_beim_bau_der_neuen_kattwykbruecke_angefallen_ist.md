@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68176"
@@ -57,7 +58,7 @@ Ist der Aushub zwischengelagert worden? Wenn ja, wo, in welcher Form und wie lan
 
 Wie und wohin ist der Aushub wann abtransportiert worden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Aushub wurde im Verlauf des Jahres 2018 im Bereich der Brückenbaustelle wasserseitig auf Schuten zwischengelagert. Diese wurden, wenn der maximale Füllstand
 

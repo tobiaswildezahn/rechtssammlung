@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58515"
@@ -86,7 +87,7 @@ Wie hat sich die durchschnittliche Verweildauer (in Jahren) der in Hamburg nach 
 
 Wie hat sich die Aufenthaltsdauer der nach § 63 StGB Untergebrachten in den Jahren 2000 bis 2016 entwickelt? (Bitte aufschlüsseln nach Jahr und jeweiliger Anzahl der Patienten/-innen mit einer Aufenthaltsdauer bis vier Jahre, von fünf bis neun Jahren, zehn – 14 Jahren, 15 – 20 Jahren, 20 – 30 Jahren, über 30 Jahre, lebenslänglich.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Jahr
 

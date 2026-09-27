@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 25
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15989"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66113"
@@ -115,7 +116,7 @@ An welchen Lehrstühlen der Universität werden Inhalte zur verfassungsfeindlich
 
 Insbesondere: In welchen Lehrveranstaltungen, die auch von Studenten des Lehramts besucht werden, wurden Inhalte zur verfassungsfeindlichen Ideologie des Linksextremismus in den vergangenen vier Semestern vermittelt? Bitte hierzu ebenfalls die Literaturverweise darlegen.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Nach Auskunft der UHH wurden und werden keine expliziten Lehrveranstaltungen zu den genannten Inhalten angeboten.
 
@@ -135,7 +136,7 @@ Welche Veranstaltungen, die sich kritisch mit der verfassungsfeindlichen Ideolog
 
 Welche Veranstaltungen, die sich kritisch mit der verfassungsfeindlichen Ideologie des Rechtsextremismus beschäftigen, hat die Behörde für Wissenschaft, Forschung und Gleichstellung seit 2015 durchgeführt oder gefördert? Bitte aufschlüsseln nach Datum, Titel der Veranstaltung/des Projekts, beteiligte Organisationen und Referenten.
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Hierzu liegen der zuständigen Behörde keine Erkenntnisse vor.
 

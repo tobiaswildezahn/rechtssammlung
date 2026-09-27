@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 21
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58534"
@@ -57,7 +58,7 @@ Was waren die Gründe dafür?
 
 Wie lässt sich das Aufgabenfeld der Mitarbeiter der Hochbahn-Wache konkret umschreiben?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Gegenstände des Unternehmens sind die Gewährleistung der Sicherheit der Fahrgäste und der Betriebsangehörigen und die Bewachung der Haltestellen, Betriebshöfe, Streckenanlagen, Abstellanlagen und sonstigen Betriebseinrichtungen, Fahrzeuge und sonstigen Einrichtungen des Bus- und U-Bahn-Verkehrs der Hamburger Hochbahn AG sowie die Fahrkartenprüfung und alle damit im Zusammenhang stehenden vor- und nachbereitenden Maßnahmen im Auftrag und nach Weisung der Hamburger Hochbahn AG.
 
@@ -93,7 +94,7 @@ Wie hat sich der Personalbestand der Hochbahn-Wache seit deren Einführung entwi
 
 Was kostet die Hochbahn-Wache jährlich den Steuerzahler? Bitte für die zurückliegenden Jahre seit Einführung angeben.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung.
 
@@ -113,7 +114,7 @@ In welchem räumlichen Umfeld dürfen Mitarbeiter der Hochbahn-Wache in ihrer Fu
 
 Welche Weisungsbefugnis haben die Mitarbeiter gegenüber den Fahrgästen oder sonstigen, sich im Wirkungsumfeld der Hochbahn-Wache bewegenden Personen?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Vorbemerkung.
 

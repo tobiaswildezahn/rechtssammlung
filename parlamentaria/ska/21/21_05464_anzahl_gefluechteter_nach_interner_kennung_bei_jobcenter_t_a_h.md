@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2868", "21/4566", "21/4499", "21/5332", "21/5454", "21/5126", "21/4765"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53956"
@@ -54,7 +55,7 @@ c. 25 bis 34 Jahre?
 d. 35 bis 49 Jahre?  
 Bitte jeweils nach Standort auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Durch den Statistik-Service der Bundesagentur für Arbeit (BA) erfolgt eine Auswertung zu „Personen im Kontext von Fluchtmigration aus Drittstaaten nach Strukturmerkmalen und Rechtskreisen“. Siehe Anlagen 1 und 2.
 
@@ -70,7 +71,7 @@ b. FLUE0?
 c. FLUE1?  
 d. FLUEA?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Kundenkennungen bezeichneten das Sprachniveau, werden jedoch nicht mehr für die entsprechende Kundengruppe bei der Agentur und im Jobcenter vergeben.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68389"
@@ -55,7 +56,7 @@ Ist die zitierte Rechtsprechung dem Senat beziehungsweise der Hamburger Hochbahn
 
 Verlangt die Hamburger Hochbahn hier vorsätzlich und rechtswidrig ein erhöhtes Beförderungsentgelt von Minderjährigen? Wenn nein, wie wird die Verfahrensweise des HVV begründet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die rechtliche Bewertung der Situation ist unterschiedlich, da es keine einheitlichen höchst- beziehungsweise obergerichtlichen Entscheidungen in diesen Fällen gibt. Die
 
@@ -69,7 +70,7 @@ Wie viele Fälle mit einem erhöhten Beförderungsentgelt von Minderjährigen be
 
 Wie hoch waren die Einnahmen des HVV aus derartigen Fällen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Eine getrennte Erfassung mit einem eigenen Sachverhalt für Minderjährige ohne gültigen Fahrausweis erfolgt nicht. Daher sind Angaben zur Anzahl der Fälle sowie die Höhe der hieraus resultierenden Einnahmen nicht möglich.
 
@@ -81,6 +82,6 @@ Beabsichtigt der HVV, seine „Geschäftspolitik“ zu ändern?
 
 Wird der HVV bisher zu Unrecht vereinnahmte Zahlungen aufgrund der vorstehend geschilderten Sachverhalte an die betroffenen Bürger zurückerstatten?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Erhebung des erhöhten Beförderungsentgeltes erfolgt durch die einzelnen Verkehrsunternehmen. Es wird kein Anlass gesehen, das Verfahren zur Erhebung erhöhter Beförderungsentgelte zu ändern. Im Übrigen siehe Antwort zu 1.

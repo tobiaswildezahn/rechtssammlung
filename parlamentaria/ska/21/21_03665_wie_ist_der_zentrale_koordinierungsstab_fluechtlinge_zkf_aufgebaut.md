@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2478", "21/3227"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52044"
@@ -137,7 +138,7 @@ Wie viele Vollzeitäquivalente sind für die Presse- und Öffentlichkeitsarbeit 
 
 Wie viele Mitarbeiter in der Behörde für Inneres und Sport, der Behörde für Arbeit, Soziales, Familie und Integration, der Behörde für Stadtentwicklung und Wohnen sowie gegebenenfalls weitere Mitarbeiter anderer Behörden sind im Bereich Presse- und Öffentlichkeitsarbeit für die Öffentlichkeitsarbeit im Zusammenhang mit Flüchtlingen zuständig?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der Bereich Presse- und Öffentlichkeitsarbeit im ZKF leistet die umfangreiche mit der Errichtung und dem Betrieb von Unterkünften für Flüchtlinge zusammenhängende Informations- und Öffentlichkeitsarbeit, einschließlich der damit verbundenen Beteiligungsverfahren. Darüber hinaus ist die Koordinierung der Ehrenamtsarbeit hier angebunden. Zu den Aufgaben des Bereich Presse- und Öffentlichkeitsarbeit gehören dabei insbesondere:
 

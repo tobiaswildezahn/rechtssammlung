@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56589"
@@ -50,7 +51,7 @@ Mit welchem Budget hat die Universität die Sanierung geplant und welche Kosten 
 
 Wurde die Maßnahme nach den Vorgaben des kostenstabilen Bauens durchgeführt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Auf der Basis der Kostenberechnung vom 13. November 2012 wurde gemäß den Vorgaben der Drucksache für Kostenstabiles Bauen ein Budget von 5 Millionen Euro festgelegt. Für bauordnungsrechtliche Anforderungen im Rahmen der Baugenehmigung (unter anderem Einbau einer Brandmeldeanlage) sowie weitere Maßnahmen zur Verbesserung der Barrierefreiheit (Rampe und Erneuerung der Aufzugsanlage) waren darüber hinaus Mittel in Höhe von circa 800.000 Euro erforderlich. Die Maßnahme wird derzeit schlussgerechnet. Eine abschließende Kostenfeststellung liegt noch nicht vor.
 

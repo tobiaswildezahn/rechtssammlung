@@ -14,6 +14,7 @@ fragen: 26
 einzelfragen: 31
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3932"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62353"
@@ -69,7 +70,7 @@ Wie viele Kunden nutzen das Wärmekataster seit Indienststellung? Bitte monatlic
 
 Wie berechnet der Senat die Kundenanzahl? Welche Daten werden dazu gespeichert? Inwieweit werden die Nutzer über die Speicherung dieser Daten informiert und in welcher Form müssen die Nutzer dieser Speicherung vor Nutzung zustimmen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Ermittelt werden die monatlichen Zugriffe auf den WebMapService (WMS) „Wärmekataster Hamburg“. Diese Zugriffe können über http://www.hamburg.de/energiewende/ waermekataster/, über http://www.geoportal-hamburg.de/Geoportal/geo-online/ oder über alle anderen Anwendungen, die den WMS eingebunden haben, erfolgen.
 
@@ -196,7 +197,7 @@ Inwieweit haben Inhaber der Gebäude in Hamburg der Veröffentlichung der Wärme
 
 Inwieweit wurde den Gebäudeinhabern Gelegenheit zum Widerspruch aktiv eingeräumt? Wie lief dieses Verfahren ab?
 
-#### Antwort zu Fragen 20 bis 21
+#### Antwort zu Fragen 20 und 21
 
 Entfällt, siehe auch Antwort zu 19.
 

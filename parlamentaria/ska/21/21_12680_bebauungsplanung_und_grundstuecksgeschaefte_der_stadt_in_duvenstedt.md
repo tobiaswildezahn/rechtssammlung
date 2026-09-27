@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10472", "21/12618"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61983"
@@ -79,7 +80,7 @@ Wie ist der genaue Sachstand der Veräußerung des städtischen Flurstücks 173 
 
 Welche Fristen und Bedingungen wurden oder werden im Rahmen des Grundstücksverkaufs für die Durchführung des Planverfahrens und die Umsetzung der Bebauung festgelegt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Ein Grundstückskaufvertrag wurde noch nicht geschlossen. Im Übrigen sieht der Senat zur Wahrung seiner Verhandlungsposition und der Betriebs- und Geschäftsgeheimnisse seiner Vertragspartner in ständiger Praxis grundsätzlich davon ab, weitergehende Einzelheiten zu laufenden Vertragsverhandlungen zu veröffentlichen.
 
@@ -91,6 +92,6 @@ Welche Inhalte sollen im Rahmen eines städtebaulichen Vertrages vereinbart werd
 
 Auf welchen genauen Flächen sollen wann jeweils welche Ausgleichsmaßnahmen für die Bebauung durchgeführt werden?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Es ist vorgesehen, zum vorhabenbezogenen Bebauungsplan einen Durchführungsvertrag abzuschließen. Im Übrigen siehe Vorbemerkung.

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 16
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["17/13440", "21/4074"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58781"
@@ -115,7 +116,7 @@ Was ist der Hamburger Polizei darüber bekannt, wo das Bundeskriminalamt oder di
 
 Nach welcher Maßgabe werden in diesen Datensammlungen nicht nur Angeklagte oder Verurteilte gespeichert, sondern auch Person, die lediglich in Gewahrsam genommen und kurz darauf wieder freigelassen wurden?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Fragen liegen außerhalb des Verantwortungsbereichs des Senats und der parlamentarischen Kontrolle der Bürgerschaft und sind vom parlamentarischen Fragerecht nicht erfasst.
 
@@ -143,7 +144,7 @@ Auf welche Weise hat die EU-Polizeiagentur Europol den G20-Gipfel unterstützt?
 
 Wie viele Abfragen erfolgten rund um den G20-Gipfel im Europol-Informationssystem (EIS)?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Die Veranstaltung des G20-Gipfeltreffens oblag der Bundesregierung. Im Übrigen siehe Antwort zu 8. und 9.
 

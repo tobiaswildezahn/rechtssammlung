@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8481", "21/8764", "21/8210", "21/4955"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57915"
@@ -73,7 +74,7 @@ Welches Finanzvolumen wird pro Monat für die verbleibenden 60 Prozent der unbes
 
 In welcher Höhe werden in 2017 Mittel aus dem Eingliederungstitel auf Grundlage der Verträge zu KompAS an den oder die bezuschlagten Träger ausgezahlt, ohne dass Teilnehmende von den Leistungen profitieren, wenn die Belegung der Plätze weiterhin wie vom Senat angegeben bei etwa 10 Prozent stagniert?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Von Jobcenter erfolgen keine Angaben, da es sich hierbei um Daten handelt, die als Geschäftsgeheimnis des Trägers der Geheimhaltung unterliegen. Allerdings erfolgen die Zahlungen nicht, ohne dass Teilnehmende davon profitieren.
 

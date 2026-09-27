@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 22
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4349", "16/6083"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53647"
@@ -107,7 +108,7 @@ Welche Auswirkungen hätte eine Unterschutzstellung auf bestehende Industrie- un
 
 Welche Auswirkungen hätte eine Unterschutzstellung auf Neuansiedlungen aus den Bereichen Industrie und Gewerbe?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Im Interesse des Trinkwasserschutzes wären das Errichten, Erweitern und wesentliche Ändern von Betrieben mit Anlagen zum Umgang mit radioaktiven oder wassergefährdenden Stoffen und mit Anlagen zum Lagern, Ablagern und Behandeln von Abfällen sowie zur Verwertung von Abfällen, die die Anforderungen einer schadlosen Verwertung nicht erfüllen, verboten. Ausnahmen von diesen Verboten wären im Rahmen einer Einzelfallprüfung möglich. Von dem abfallbezogenen Verbot ausgenommen wären auch Änderungen, welche der Erhöhung der Sicherheit der Anlagen und der Reduzierung der Emissionen dienen würden.
 

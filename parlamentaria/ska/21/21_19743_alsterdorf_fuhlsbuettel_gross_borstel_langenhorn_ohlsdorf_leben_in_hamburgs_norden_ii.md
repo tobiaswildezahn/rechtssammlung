@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16924", "21/184", "21/18148", "20/5300"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69583"
@@ -1068,15 +1069,15 @@ h. Wann wurden in der laufenden Legislaturperiode welche der Spielplätze mit we
 
 In der laufenden Legislaturperiode wurden die folgenden Spielplätze saniert:
 
-• Alsterberg, 2019, 330 000 Euro, Grundinstandsetzung, finanziert aus Mitteln der Behörde für Umwelt und Energie,
+– Alsterberg, 2019, 330 000 Euro, Grundinstandsetzung, finanziert aus Mitteln der Behörde für Umwelt und Energie,
 
-• Ratsmühlendamm, 2019, 170 000 Euro, umfassende Instandsetzung, finanziert aus BV-Sondermitteln,
+– Ratsmühlendamm, 2019, 170 000 Euro, umfassende Instandsetzung, finanziert aus BV-Sondermitteln,
 
-• Hammenmacherstieg, 2016, 450 000 Euro, Neubau, finanziert durch eine Einzelanmeldung bei der Behörde für Umwelt und Energie, Bebauungsplan Langenhorn 22,
+– Hammenmacherstieg, 2016, 450 000 Euro, Neubau, finanziert durch eine Einzelanmeldung bei der Behörde für Umwelt und Energie, Bebauungsplan Langenhorn 22,
 
-• Immenhöven, 2015, 90 000 Euro, Instandsetzung, finanziert durch die Rahmenzuweisung der Behörde für Umwelt und Energie und
+– Immenhöven, 2015, 90 000 Euro, Instandsetzung, finanziert durch die Rahmenzuweisung der Behörde für Umwelt und Energie und
 
-• Heerbuckhoop/Masenkamp, 2018, 75 000 Euro, Neubau, zweiter Bauabschnitt, finanziert durch die Rahmenzuweisung der Behörde für Umwelt und Energie.
+– Heerbuckhoop/Masenkamp, 2018, 75 000 Euro, Neubau, zweiter Bauabschnitt, finanziert durch die Rahmenzuweisung der Behörde für Umwelt und Energie.
 
 i. Welche Sportplätze gibt es aktuell in den einzelnen Stadtteilen (Adresse, nutzende Vereine)?
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1079"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49364"
@@ -43,7 +44,7 @@ Aus der Anlage der Drs. 21/1079 geht unter anderem hervor, dass im Amt für Natu
 
 Aus der Anlage der Drs. 21/1079 geht zudem hervor, dass im Amt für Umweltschutz der ehemaligen übergeordneten BSU ein Behördenmitarbeiter in der Funktion einer Sachbearbeitung gleichzeitig eine Nebentätigkeit in Form einer schriftstellerischen Tätigkeit bei einem „Umweltverband“ ausübt. Um welchen Umweltverband handelt es sich hier im Einzelnen? Um welche Art von „schriftstellerischer Tätigkeit“ mit welchen Tätigkeitsschwerpunkten handelt es sich? Für welche thematischen Tätigkeitsschwerpunkte ist der/die Behördenmitarbeiter/-in im Amt für Umweltschutz tätig?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Über die in Drs. 21/1079 hinausgehende Angaben können nicht gemacht werden, da diese Angaben den Schutzbestimmungen des Personalaktenrechts und damit dem Grundsatz unterliegen, dass Personalaktendaten nur für Zwecke der Personalverwaltung oder Personalwirtschaft verwendet werden dürfen, es sei denn, der Betroffene willigt in die anderweitige Verwendung ein (§ 50 Satz 4 Gesetz zur Regelung des Statusrechts der Beamtinnen und Beamten in den Ländern i.V.m. § 89 Absatz 3 Hamburgisches Beamtengesetz).
 

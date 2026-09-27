@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 32
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7919"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59851"
@@ -183,7 +184,7 @@ Welche Schritte zur Prozessoptimierung wurden vereinbart, die die Standortbedarf
 
 Planungen für ein zentrales „Haus der Weiterbildung“ wie auch für ein Gesamtkonzept zur künftigen Standortentwicklung der VHS insgesamt sollten im Jahr 2017 weiter konkretisiert und erste Umsetzungsschritte unternommen. Wie ist der aktuelle Stand dieser Planungen?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Die VHS erarbeitet ein Standortentwicklungskonzept, das Aussagen sowohl zu zentralen wie auch dezentralen Raumbedarfen für die Weiterbildungsangebote der VHS
 

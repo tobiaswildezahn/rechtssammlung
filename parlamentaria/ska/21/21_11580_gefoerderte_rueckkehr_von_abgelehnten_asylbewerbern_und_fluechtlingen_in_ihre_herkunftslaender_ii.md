@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60807"
@@ -67,7 +68,7 @@ Wie viele finanzielle Mittel wurden in den Jahren 2015 bis 2017 für die Förder
 
 Wie setzen sich diese finanziellen Mittel zusammen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Höhe und Zusammensetzung der Leistungen zur Förderung der freiwilligen Rückkehr sind der nachfolgenden Übersicht zu entnehmen:
 

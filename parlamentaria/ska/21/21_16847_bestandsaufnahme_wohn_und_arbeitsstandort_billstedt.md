@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/681", "21/16550", "20/10380"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66467"
@@ -441,7 +442,7 @@ Wie hoch war die Anzahl der Flüchtlinge in den Billstedter und Billbrooker Unte
 
 Wie hoch war die Anzahl der Flüchtlinge in den übrigen Hamburger Unterkünften? Bitte nach Bezirken aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der Senat berichtet monatlich seit Mai 2015 (Drs. 21/681) zur Belegung der Einrichtungen in der Drucksache „Damit die Integration gelingt – Flüchtlingsmonitoring“ (zuletzt Drs. 21/16550) sowie ab 2017 im monatlichen Lagebild Flüchtlinge: https://www.hamburg.de/zkf-lagebild/archiv/. Die Einrichtung am Spliedtring wird dort als W636 – Horner Geest geführt.
 
@@ -852,15 +853,15 @@ j. Wer sind die fünf größten Arbeitgeber in Billstedt?
 
 Gemessen an den Beschäftigtenzahlen sind die fünf größten Arbeitgeber in Billstedt:
 
- STILL GmbH,
+– STILL GmbH,
 
- DHL Delivery Hamburg GmbH,
+– DHL Delivery Hamburg GmbH,
 
- Piepenbrock Dienstleistungen GmbH & Co. KG,
+– Piepenbrock Dienstleistungen GmbH & Co. KG,
 
- Primark Mode Ltd. & Co. KG,
+– Primark Mode Ltd. & Co. KG,
 
- OTTO WULFF Bauunternehmung GmbH.
+– OTTO WULFF Bauunternehmung GmbH.
 
 ### Frage 9
 
@@ -885,27 +886,27 @@ Zahnärzte
 
 b. Wie viele der Folgenden wichtigsten Ärzte zur Grundversorgung sind pro 1 000 Einwohner in Hamburg mit einer Praxis niedergelassen? Wie viele sind es pro 1 000 Einwohner in Billstedt?
 
-• Allgemeiner Hausarzt
+– Allgemeiner Hausarzt
 
-• Kinderarzt
+– Kinderarzt
 
-• Zahnarzt
+– Zahnarzt
 
-• Frauenarzt
+– Frauenarzt
 
-• HNO-Arzt
+– HNO-Arzt
 
-• Augenarzt
+– Augenarzt
 
-• Hautarzt
+– Hautarzt
 
-• Arzt für Orthopädie
+– Arzt für Orthopädie
 
-• Arzt für Urologie
+– Arzt für Urologie
 
-• Arzt für Radiologie
+– Arzt für Radiologie
 
-• Arzt für Proktologie (gehört zwar der Arztgruppe „fachärztlich tätige Internisten“ an, aber bitte dennoch Anzahl der Proktologen nennen, die Enddarmerkrankungen behandeln)
+– Arzt für Proktologie (gehört zwar der Arztgruppe „fachärztlich tätige Internisten“ an, aber bitte dennoch Anzahl der Proktologen nennen, die Enddarmerkrankungen behandeln)
 
 Hamburg absolut
 

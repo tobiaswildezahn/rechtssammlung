@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61478"
@@ -77,7 +78,7 @@ Wie ist der Verlust der Turnhalle mit der Dekadenstrategie des HSB sowie dem Wes
 
 Was sind die Gründe für das Abstoßen der Turnhalle Nettelhof?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Durch Modernisierung und Neubauten steigt die Zahl der städtischen Schulsporthallen seit 2011 kontinuierlich an, was auch einer Mitnutzung durch Sportvereine zugutekommt. Schulsporthallen werden nur aufgegeben, wenn sie für schulische Zwecke nicht mehr benötigt werden.
 
@@ -97,7 +98,7 @@ Warum kommt keine Nutzungsvereinbarung mit den Schulen und Vereinen infrage?
 
 Warum kommt keine Pacht oder Vermietung infrage?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung.
 
@@ -125,6 +126,6 @@ Welchen Preis würde die Stadt bei Wohnungsbauinvestoren erzielen können?
 
 Wie viele Wohneinheiten könnten gemäß Bebauungsplan erstellt werden?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Der Senat hat sich hiermit nicht befasst.

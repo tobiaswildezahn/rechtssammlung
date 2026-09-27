@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14060", "20/7548"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49200"
@@ -49,7 +50,7 @@ Wie viele Fahrgäste werden täglich auf der Strecke zwischen Hamburger Innensta
 
 Wie haben sich diese Beförderungszahlen seit 2010 entwickelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nachfolgende Tabelle zeigt die durchschnittliche tägliche Fahrgastfrequentierung im Schienenpersonennahverkehr der Linien S3, S31 (Züge der S-Bahn Hamburg GmbH) sowie RE3, RE4, RE5, RB31 und RB41 (Züge der Metronom Eisenbahngesellschaft mbH) zwischen Hamburg Hbf. und Hamburg-Harburg und deren Entwicklung zwischen 2010 und 2013. Eine weitergehende Differenzierung kann nicht vorgenommen werden, da detaillierte Daten teilweise als Betriebs- und Geschäftsgeheimnisse behandelt werden und nicht veröffentlicht werden.
 
@@ -121,43 +122,43 @@ Nach derzeitigem Planungsstand sind folgende Maßnahmen geplant:
 
 2015
 
- Erneuerung der Gleise und Weichen im Bereich der Station Hammerbrook
+– Erneuerung der Gleise und Weichen im Bereich der Station Hammerbrook
 
- Weichenerneuerung im Bahnhof Wilhelmsburg
+– Weichenerneuerung im Bahnhof Wilhelmsburg
 
 2016
 
- Nacharbeiten an der Station Hammerbrook
+– Nacharbeiten an der Station Hammerbrook
 
- Schienenfräsen im Harburger S-Bahn-Tunnel
+– Schienenfräsen im Harburger S-Bahn-Tunnel
 
- Erneuerung der Gleise im Abschnitt Wilhelmsburg – Hammerbrook
+– Erneuerung der Gleise im Abschnitt Wilhelmsburg – Hammerbrook
 
- Lärmschutzmaßnahmen im Zuge der Verlegung der Wilhelmsburger Reichsstraße,
+– Lärmschutzmaßnahmen im Zuge der Verlegung der Wilhelmsburger Reichsstraße,
 
 einschließlich der Aufstellung von Signalen an der geplanten Station Hamburg- Elbbrücken
 
 2017
 
- Lärmschutzmaßnahmen im Zuge der Verlegung der Wilhelmsburger Reichsstraße
+– Lärmschutzmaßnahmen im Zuge der Verlegung der Wilhelmsburger Reichsstraße
 
- Weichenerneuerung im Bahnhof Neugraben
+– Weichenerneuerung im Bahnhof Neugraben
 
- Gleiserneuerung im Abschnitt Wilhelmsburg – Hamburg-Harburg
+– Gleiserneuerung im Abschnitt Wilhelmsburg – Hamburg-Harburg
 
 2018
 
- Bau der Station Hamburg-Elbbrücken
+– Bau der Station Hamburg-Elbbrücken
 
 2019
 
- Sperrpausen für Errichtung des Bahnsteigdachs an der Station Hamburg-Elb-
+– Sperrpausen für Errichtung des Bahnsteigdachs an der Station Hamburg-Elb-
 
 brücken
 
 Ohne Terminierung
 
- Korrosionsschutz an der Süderelbbrücke, weitere Lärmschutzmaßnahmen im Zuge
+– Korrosionsschutz an der Süderelbbrücke, weitere Lärmschutzmaßnahmen im Zuge
 
 der Verlegung der Wilhelmsburger Reichsstraße
 

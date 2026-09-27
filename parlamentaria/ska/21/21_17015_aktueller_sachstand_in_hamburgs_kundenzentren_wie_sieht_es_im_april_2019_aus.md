@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 15
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16698", "21/7805"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66574"
@@ -213,7 +214,7 @@ Wie hat sich die durchschnittliche Wartezeit in den Ausländerabteilungen/Dienst
 
 Wie hat sich die durchschnittliche Vorlaufzeit von der Vergabe eines Termins bis zur Vorsprache in den Ausländerabteilungen/Dienststellen der einzelnen Bezirke pro Quartal im Jahr 2018 sowie im 1. Quartal 2019 entwickelt?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Anlage 7.
 

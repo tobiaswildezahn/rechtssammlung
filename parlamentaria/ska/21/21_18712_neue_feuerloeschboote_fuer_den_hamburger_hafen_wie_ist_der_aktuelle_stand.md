@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68383"
@@ -47,7 +48,7 @@ Wie viele und welche Werften haben sich im Zuge der europaweiten Ausschreibung u
 
 Wie viele und welche davon sind deutsche Werften?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es haben sich insgesamt drei Werften beworben. Bei zwei Ausschreibungsteilnehmern handelt es sich um deutsche Werften.
 

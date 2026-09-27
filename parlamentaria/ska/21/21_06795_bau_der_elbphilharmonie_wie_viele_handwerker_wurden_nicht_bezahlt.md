@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55354"
@@ -45,7 +46,7 @@ Welche Kenntnisse haben der Senat beziehungsweise die zuständigen Behörden ode
 
 Wie viele Rechtsstreitigkeiten gab es wegen unbezahlter Rechnungen bei dem Bau der Elbphilharmonie? Bitte Rechtsstreitigkeiten zwischen allen am Bau beteiligten Partnern (inklusive Subunternehmen) und jeweilige Höhe der Streitsumme angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das städtische Unternehmen ReGe Hamburg Projekt-Realisierungsgesellschaft mbH (ReGe) ist mit Schreiben vom 29. September 2016 und 17. Oktober 2016 von der Firma Optiplan darüber informiert worden, dass aus Sicht der Firma Optiplan die Firma HOCHTIEF eine Abschlagszahlungs-Anforderung nur „unzureichend“ bezahlen würde und bei einer Schlussrechnung „willkürlich Massenansätze und beauftragte Leistungen streiche“. Eine weitergehende Sachverhaltsschilderung erfolgte nicht. Die Firma Optiplan hat nach eigener Schilderung Estricharbeiten in der Elbphilharmonie erbracht. Erkenntnisse über weitere „unbezahlte Rechnungen“ oder daraus resultierende Rechtsstreitigkeiten liegen den zuständigen Behörden nicht vor.
 

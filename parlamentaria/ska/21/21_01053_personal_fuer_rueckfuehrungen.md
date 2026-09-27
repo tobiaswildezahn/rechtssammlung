@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1002", "21/836"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49228"
@@ -45,7 +46,7 @@ Wie viele Mitarbeiter waren/sind seit 1990 pro Jahr jeweils mit der Vorbereitung
 
 Wo waren/sind sie beschäftigt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das elektronische Personal-, Organisations- und Stellenplansystem EPOS liefert ab dem Jahr 2001 Stellenbesetzungsdaten, siehe Anlage.
 

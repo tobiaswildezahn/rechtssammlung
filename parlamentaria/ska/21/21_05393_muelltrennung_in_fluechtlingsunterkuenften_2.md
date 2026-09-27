@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3318"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53882"
@@ -56,7 +57,7 @@ Bisher sucht man die entsprechenden Behälter für Bioabfall, Wertstofftonnen un
 
 Warum wurde nicht das vergangene Halbjahr 2016, das ja von erheblichen reduzierten Zugangszahlen gekennzeichnet war, nicht dafür genutzt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Aufstellung von Wertstoffbehältern in Flüchtlingsunterkünften wird von der SRH und den Betreibern der Unterkünfte kontinuierlich vorangetrieben. Zurzeit nutzen bereits 50 Prozent aller Flüchtlingsunterkünfte Angebote der SRH zur getrennten Wertstofferfassung.
 

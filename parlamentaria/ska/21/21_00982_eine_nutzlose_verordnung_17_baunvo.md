@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49150"
@@ -39,13 +40,13 @@ Die Baunutzungsverordnung regelt die Obergrenzen der baulichen Nutzung. Übersch
 
 ## Einleitung für die Antworten des Senats
 
- gesunde Wohn- und Arbeitsverhältnisse beeinträchtigt werden.
+– gesunde Wohn- und Arbeitsverhältnisse beeinträchtigt werden.
 
- sich nachteilige Auswirkungen auf die Umwelt ergeben.
+– sich nachteilige Auswirkungen auf die Umwelt ergeben.
 
- die Bedürfnisse des Verkehrs nicht befriedigt werden können
+– die Bedürfnisse des Verkehrs nicht befriedigt werden können
 
- öffentliche Belange entgegenstehen.
+– öffentliche Belange entgegenstehen.
 
 Vor diesem Hintergrund fragen wir den Senat:
 
@@ -105,7 +106,7 @@ Wie viele Ausgleichsmaßnahmen wurden in den letzten drei Jahren geplant und tat
 
 Wer kontrolliert, ob die bereits umgesetzten Ausgleichmaßnahmen den Anforderungen entsprechen, welche Grundlage für die Erteilung der Ausnahme waren?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die in § 17 Absatz 2 BauNVO geforderte Ausgleichpflicht durch Umstände oder durch Maßnahmen ist nicht als konkrete Zuordnung wie zum Beispiel der Ausgleich im Naturschutzrecht zu sehen, sondern ist Teil der Gesamtkonzeption und Gesamtabwägung eines Bebauungsplans. Die Erfüllung erfolgt im Rahmen der Umsetzung der Planung/Gesamtkonzeption.
 

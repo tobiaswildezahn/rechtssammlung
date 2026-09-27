@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 28
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9391", "21/14616", "21/14780", "21/16713", "21/14998"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67322"
@@ -205,7 +206,7 @@ Was ist konkret aus den in Drs. 21/14780 und Drs. 21/16713 erwähnten Gespräche
 
 Sind die Ergebnisse zu den Verhandlungen mit weiteren Reedereien (vergleiche Drs. 21/14780 und Drs. 21/16713) mittlerweile abschließend ausgewertet? Wenn ja, welche Erkenntnisse gehen daraus hervor? Wenn nein, warum nicht und wann wird die Auswertung abgeschlossen sein?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 CGH Cruise Gate Hamburg GmbH steht in fortlaufendem Kontakt mit Reedereien, bei dem auch Themen wie Emissionen oder Landstrom angesprochen werden. Bei den Schiffsneubauten ist eine Tendenz zur landstromfähigen Ausrüstung der Schiffe erkennbar. Die Umrüstung von Schiffen der bestehenden Flotten ist allerdings sehr aufwendig und mit hohen Investitionen verbunden.
 

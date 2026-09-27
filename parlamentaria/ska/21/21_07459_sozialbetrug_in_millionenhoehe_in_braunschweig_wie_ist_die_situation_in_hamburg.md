@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7407", "21/7423"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56059"
@@ -57,19 +58,19 @@ Die statistische Erfassung eines Falles in der Polizeilichen Kriminalstatistik (
 
 Bis zum Jahr 2015 wurde der Sozialleistungsbetrug differenziert als
 
- Betrug zum Nachteil von Sozialversicherungen und Sozialversicherungsträgern
+– Betrug zum Nachteil von Sozialversicherungen und Sozialversicherungsträgern
 
 (PKS-Schlüssel 517700) sowie als
 
- (sonstiger) Sozialleistungsbetrug (PKS-Schlüssel 517800) erfasst.
+– (sonstiger) Sozialleistungsbetrug (PKS-Schlüssel 517800) erfasst.
 
 Die Anzahl der im Jahr 2015 erfassten Fälle stellt sich wie folgt dar:
 
- Betrug zum Nachteil von Sozialversicherungen und Sozialversicherungsträgern: 41
+– Betrug zum Nachteil von Sozialversicherungen und Sozialversicherungsträgern: 41
 
 Fälle,
 
- (sonstiger) Sozialleistungsbetrug: 156 Fälle.
+– (sonstiger) Sozialleistungsbetrug: 156 Fälle.
 
 Seit dem Jahr 2016 erfolgt diese Unterscheidung nicht mehr, sämtliche Fälle des Sozialleistungsbetruges werden unter dem PKS-Schlüssel 517800 erfasst.
 

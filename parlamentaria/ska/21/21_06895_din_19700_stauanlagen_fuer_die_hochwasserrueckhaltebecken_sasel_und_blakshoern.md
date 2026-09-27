@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 26
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55485"
@@ -135,9 +136,9 @@ Im Zusammenhang mit den beiden HRB Sasel und Blakshörn ist der Abschlussbericht
 
 Außerdem gibt es zur DIN 19700 folgende Aussagen:
 
- Wenn die Staubereiche als Hochwasserrückhaltebecken nach DIN 19700 anzusehen sind, ergeben sich für die Umgestaltung erhöhte Sicherheitsansprüche (DWA 2006, Seite 53).
+– Wenn die Staubereiche als Hochwasserrückhaltebecken nach DIN 19700 anzusehen sind, ergeben sich für die Umgestaltung erhöhte Sicherheitsansprüche (DWA 2006, Seite 53).
 
- Angesichts der zu erwartenden Überläufe einiger Becken im Rahmen schwerer Hochwasserverläufe sollten die solchen Fällen zuzuordnenden Risiken ermittelt und bewertet werden und gegebenenfalls zu einer Anpassung der Auslegung der Becken führen.
+– Angesichts der zu erwartenden Überläufe einiger Becken im Rahmen schwerer Hochwasserverläufe sollten die solchen Fällen zuzuordnenden Risiken ermittelt und bewertet werden und gegebenenfalls zu einer Anpassung der Auslegung der Becken führen.
 
 ### Frage 3
 
@@ -205,7 +206,7 @@ Welche Werte zu den neuen Begriffen laut DIN 19700 gelten für die HRB Sasel + B
 
 Wie groß ist der Gesamtstauraum je HRB in m im Hochwasserbemessungsfall 2?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Für die HRB Sasel und Blakshörn sind die Werte Dauerstauziel (Sasel: NHN +25,65 m; Blakshörn: NHN +23,00 m) und Vollstauziel (Sasel NHN +26,35 m; Blakshörn NHN +24,20 m) festgelegt. Das Kronenstauziel ist bei den HRB identisch mit dem Vollstauziel. Der Gesamtstauraum ist nicht bemessungsrelevant.
 

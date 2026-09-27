@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/12734"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60209"
@@ -62,7 +63,7 @@ Welche Termine hatte Innensenator Andy Grote von Donnerstag den
 
 Mit wem und wann hat sich der Innensenator vor und insbesondere in der Zeit vom 06.07.2017 bis zum 09.07.2017 über sicherheitsrelevante Themen in Hamburg ausgetauscht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Innensenator stand während der Gipfeltage kontinuierlich im Kontakt mit der Polizeiführung. Darüber hinaus hielt der Senator die Verbindung in die jeweils relevanten Teile der Einsatzorganisation und ließ sich fortlaufend über das Einsatzgeschehen und die Lageentwicklung unterrichten. Der Senator begleitete die Ereignisse und den Einsatzverlauf fortlaufend und lageabhängig flexibel. Er tauschte sich zudem intensiv mit dem Staatsrat der Innenbehörde aus und hielt Kontakt zum Ersten Bürgermeister.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 34
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53766"
@@ -57,7 +58,7 @@ Welche ordentlichen Fristen und Verfahrensweisen sind für die Kündigung von Le
 
 In welchem Zeitraum wurden die unter Frage 1. benannten Lehrkräfte über ihre bevorstehende Kündigung informiert, wann wurde sie ihnen ausgesprochen und wann wurde sie ihnen schriftlich zugestellt? (Bitte mit Angabe des jeweiligen Monats in einer Tabelle aufschlüsseln.) a. Wie vielen dieser Lehrkräfte wurde die Kündigung noch nicht ausgesprochen und wann wird das geschehen? (Bitte entsprechend den vorgegebenen Parametern in die Tabelle zu 3. integrieren.) b. Wie vielen dieser Lehrkräfte wurden die vertraglichen Unterlagen zur Kündigung noch nicht zugestellt und wann wird das geschehen? (Bitte entsprechend den vorgegebenen Parametern in die Tabelle zu 3. integrieren.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Entfällt, siehe Antwort zu 1.
 

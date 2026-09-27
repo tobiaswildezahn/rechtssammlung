@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54331"
@@ -51,7 +52,7 @@ Wie viele dieser Beschwerden sind von der Präsidentin an den Senat mit der Empf
 
 In wie vielen dieser Fälle ist der Senat auf seinem Standpunkt geblieben? Bitte wie oben aufgliedern.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Zu den insgesamt 9.750 parlamentarischen Anfragen in der 20. Wahlperiode und den bisher 4.395 Parlamentarischen Anfragen in der 21. Wahlperiode (Stand 9. September 2016) lagen dem Senat 59 Beschwerden (0,42 Prozent) mit der Bitte um Abhilfe vor. Zu den weiteren Einzelheiten siehe Anlage.
 

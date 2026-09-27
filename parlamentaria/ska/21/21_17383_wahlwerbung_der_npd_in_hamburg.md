@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66965"
@@ -93,7 +94,7 @@ Trifft es zu, dass die Staatsanwaltschaft Hamburg das Plakatmotiv als nicht stra
 
 In welcher Abteilung der Staatsanwaltschaft erfolgte die Bewertung?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antwort zu 4 und Vorbemerkung.
 

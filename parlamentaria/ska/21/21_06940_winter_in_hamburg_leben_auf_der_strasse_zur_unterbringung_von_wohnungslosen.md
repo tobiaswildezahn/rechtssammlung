@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4788", "21/6814", "21/6839", "21/5636"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55730"
@@ -137,7 +138,7 @@ Welche Hindernisse gibt es nach Ansicht des Senats bei der Vermittlung von Wohnu
 
 Hat der Senat eine konkrete Zielvorgabe für den Ausbau der Wohnungslosenplätze in der öffentlichen Unterbringung? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Platzzahl wohnungsloser Personen in der örU wird stetig ausgebaut. Darüber hinaus werden die zur Verfügung stehenden Platzkapazitäten vordringlich für Flüchtlinge verwandt, die bereits als Überresidente in den Einrichtungen der Erstaufnahme leben. Hierzu besteht eine gesetzliche Verpflichtung gemäß § 53 AsylVerfG. Im Übrigen siehe Antwort zu 4.
 

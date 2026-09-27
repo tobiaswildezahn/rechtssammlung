@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53442"
@@ -43,7 +44,7 @@ Ist dem Senat beziehungsweise der zuständigen Behörde bekannt, ob die Polizei 
 
 Wurde das Video an das Dezernat Interne Ermittlungen weitergeleitet? Wenn ja, wann und von welcher Dienststelle? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ja. Die Polizei hat das Video zur Kenntnis genommen und am 20. Juni 2016 durch das Landeskriminalamt an das Dezernat Interne Ermittlungen weitergeleitet.
 

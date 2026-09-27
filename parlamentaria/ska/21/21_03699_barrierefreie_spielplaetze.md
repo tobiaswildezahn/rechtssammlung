@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 18
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52071"
@@ -80,7 +81,7 @@ Bestehen Planungen zum Neubau oder der Umrüstung von barrierefreien Spielplätz
 a) Wenn ja, seit wann bestehen diese Planungen und welche Spielplätze sind betroffen?
 b) Wenn nein, warum bestehen solche Planungen nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Planung, der Bau und die Unterhaltung von öffentlichen Spielplätzen liegen in der Zuständigkeit der Bezirksämter.
 

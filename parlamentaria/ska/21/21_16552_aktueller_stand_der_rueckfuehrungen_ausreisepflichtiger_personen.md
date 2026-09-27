@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15811", "21/16284", "21/16550"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66081"
@@ -81,7 +82,7 @@ Wie viele von diesen ausreisepflichtigen Personen sind jeweils tatsächlich im J
 
 Wie viele Personen von diesen ausreisepflichtigen Personen sind jeweils tatsächlich im Januar 2019 und im Februar 2019 erfolgreich abgeschoben worden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Vergleiche Drs. 21/16284 und 21/16550.
 
@@ -93,7 +94,7 @@ Wie viele Personen von diesen ausreisepflichtigen Personen konnten jeweils tats�
 
 Aus welchen Gründen konnten von diesen ausreisepflichtigen Personen jeweils tatsächlich im Januar 2019 und im Februar 2019 nicht erfolgreich abgeschoben worden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Vergleiche Drs. 21/16284 und 21/16550. Gründe für den Nichtvollzug von Abschiebungen ausreisepflichtiger Personen sind das Vorliegen vielfältiger kurz-, mittel – oder auch langfristiger rechtlicher und/oder tatsächlicher Abschiebungshindernisse im Einzelfall.
 

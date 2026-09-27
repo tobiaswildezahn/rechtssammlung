@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61755"
@@ -52,7 +53,7 @@ c) Wo sind die abgelehnten Asylbewerber nach dem Bescheid ihres Antrages unterge
 
 Wie vielen der Eingaben wurde stattgegeben? Bitte nach Herkunftsland und Geschlecht aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine Statistik im Sinne der Fragestellungen wird von der Ausländerbehörde nicht geführt. Eine nachträgliche händische Auswertung mehrerer Tausend infrage kommenden Akten ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -76,7 +77,7 @@ Wie lange dauert die Bearbeitung einer solchen Eingabe im Durchschnitt?
 
 Wovon hängt die Bearbeitungsdauer in der Regel ab?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 

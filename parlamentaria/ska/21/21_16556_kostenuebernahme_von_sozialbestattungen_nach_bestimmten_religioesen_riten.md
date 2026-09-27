@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66085"
@@ -65,7 +66,7 @@ Auf welcher Grundlage wurde ermittelt, was eine Bestattung, beispielsweise nach 
 
 Welche Vertreter/-innen welcher Institutionen oder Verbände waren an der Ermittlung der Kosten nach bestimmten religiösen Riten, die im Rahmen einer Sozialbestattung übernommen werden, beteiligt? a. Nach welchen Kriterien wurden die jeweiligen Vertreter/-innen ausgewählt? b. Inwieweit wurden auch Vertreter/-innen religiöser Verbände oder Vereine daran beteiligt? Bitte die jeweilige Institution benennen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Dem Landesverband Hamburg der Türkischen Islamischen Union der Anstalt für Religion e.V. (DITIB), dem Rat der Islamischen Gemeinschaften in Hamburg (SCHURA) und dem Verband der Islamischen Kulturzentren (VIKZ) wurde ein Gespräch angeboten. Eingeladen waren jeweils die in der Behörde bekannten Ansprechpartner. Im Nachgang des Gespräches mit der SCHURA fanden mehrere Gespräche mit Vertreterinnen und Vertretern der muslimischen Bestattungsunternehmen statt. Diese bildeten neben eigenen Erkenntnissen des Sozialhilfeträgers die Grundlage für die Ermittlung der Kosten bei islamischen oder schiitischen Bestattungen.
 

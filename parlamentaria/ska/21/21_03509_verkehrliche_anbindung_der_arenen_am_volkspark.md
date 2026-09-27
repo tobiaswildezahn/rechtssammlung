@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51865"
@@ -117,27 +118,27 @@ Für das Volksparkstadion sind die verbleibenden Parkplätze sicher nicht ausrei
 
 Wurden die Anbindungen nach Fortfall der Parkplätze erweitert? Wenn ja: in welcher Form? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die am nächsten zum Stadion gelegenen S-Bahn-Stationen Stellingen und Eidelstedt werden während eines Heimspiels des HSV folgendermaßen bedient:
 
- S21 Elbgaustraße – Bergedorf ( – Aumühle) im Zehn-Minuten-Takt mit Vollzügen
+– S21 Elbgaustraße – Bergedorf ( – Aumühle) im Zehn-Minuten-Takt mit Vollzügen
 
 (sechs Wagen) von circa 3 Stunden vor dem Spiel bis circa 2 Stunden nach dem Spiel
 
- S3 (Pinneberg – ) Elbgaustraße – Neugraben ( – Stade) im Zehn-Minuten-Takt mit
+– S3 (Pinneberg – ) Elbgaustraße – Neugraben ( – Stade) im Zehn-Minuten-Takt mit
 
 Vollzügen (sechs Wagen) von circa 3 Stunden vor dem Spiel bis circa 2 Stunden nach dem Spiel
 
- Zusätzlich vier Sonderzüge (sechs Wagen) in Hin- und Rückverkehr
+– Zusätzlich vier Sonderzüge (sechs Wagen) in Hin- und Rückverkehr
 
- Zusätzlich an Sonnabenden und Sonntagen im Rückverkehr zwei Verstärker der
+– Zusätzlich an Sonnabenden und Sonntagen im Rückverkehr zwei Verstärker der
 
 S3 bis Pinneberg statt bis Elbgaustraße
 
 Die etwas entfernter gelegene Station Othmarschen wird während eines Heimspiels des HSV folgendermaßen bedient:
 
- S1 (Wedel – ) Blankenese – Poppenbüttel/Airport im Zehn-Minuten-Takt mit Voll-
+– S1 (Wedel – ) Blankenese – Poppenbüttel/Airport im Zehn-Minuten-Takt mit Voll-
 
 zügen (sechs Wagen) von circa 3 Stunden vor dem Spiel bis circa 2 Stunden nach dem Spiel
 
@@ -145,9 +146,9 @@ Bei der Notwendigkeit von Fantrennung (Anordnung der Bundespolizei) werden gegeb
 
 Grundsätzlich wird das Volksparkstadion zu Fußballspielen durch Busverkehr angebunden:
 
- zu den Arenen (Sylvesterallee) mit der Linie 380
+– zu den Arenen (Sylvesterallee) mit der Linie 380
 
- zum Luftbadweg mit der Linie 386
+– zum Luftbadweg mit der Linie 386
 
 Zur Kompensation der aktuell eingeschränkten Parkplatzsituation wird seit dem 20. November 2015 im Rahmen der Linie 380 vorübergehend zusätzlich auch eine Verbindung zwischen U Hagenbecks Tierpark (U2) und den Arenen (Sylvesterallee) angeboten.
 

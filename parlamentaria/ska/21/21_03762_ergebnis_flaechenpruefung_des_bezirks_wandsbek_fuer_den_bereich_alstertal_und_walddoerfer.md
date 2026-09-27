@@ -10,12 +10,13 @@ urheber: ["Dennis Thering"]
 fraktionen: ["CDU"]
 vorgang: 47650
 seiten: 2
-fragen: 0
-einzelfragen: 0
-antwortbloecke: 0
+fragen: 1
+einzelfragen: 1
+antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838"]
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52132"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/52132/21_03762_ergebnis_flaechenpruefung_des_bezirks_wandsbek_fuer_den_bereich_alstertal_und_walddoerfer"
 abgerufen: "2026-09-27"
@@ -27,13 +28,15 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Dennis Thering (CDU) vom 23.03.16 und Antwort des Senats · Drucksache vom 29.03.2016  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/52132) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/52132/21_03762_ergebnis_flaechenpruefung_des_bezirks_wandsbek_fuer_den_bereich_alstertal_und_walddoerfer)
 
-## Volltext
-
-Ergebnis Flächenprüfung des Bezirks Wandsbek für den Bereich Alstertal und Walddörfer
+## Einleitung für die Fragen
 
 Dieser Tage vermeldeten das „Volksdorf Journal“ und das „Heimatecho“, dass inzwischen die Ergebnisse der im September 2015 von der Bezirksversammlung Wandsbek beschlossenen Flächenprüfungen vorliegen würden. Während das „Volksdorf Journal“ jedoch bei einigen Flächen „scheidet aus“ vermerkte, hieß es im „Heimatecho zu denselben Flächen, dass sie infrage kämen und der Senat nun wählen könne.
 
 Vor diesem Hintergrund frage ich den Senat:
+
+## Fragen und Antworten
+
+### Frage 1
 
 Welche Erkenntnisse hat die Prüfung für die Flächen an folgenden Straßen erbracht? Bitte begründen, warum man sich dafür oder dagegen entschieden hat.
 
@@ -70,6 +73,8 @@ o) Treudelkoppel
 p) Trilluper Weg
 
 q) Vinetastraße
+
+#### Antwort zu Frage 1
 
 Die Bezirksversammlung Wandsbek hat am 17. September 2015 Flächen beschlossen (siehe bezirkliche Drs. 20-1697), die dann gemäß Drs. 21/1838 vom Senat aufgenommen wurden.
 

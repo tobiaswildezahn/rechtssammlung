@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15368", "21/19892"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69740"
@@ -129,6 +130,6 @@ In der Drs. 21/15368 heißt es: „Insbesondere innerhalb Hamburgs kann sich die
 
 Nimmt mit dem neuen Tarifvertrag das Gehaltsgefälle zwischen Fachbehörden und Bezirksämtern zu? Wenn ja, in welchem Umfang?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nein, es gibt für die betroffene Beschäftigtengruppe mit dieser Aufgabenbeschreibung keine Unterschiede zwischen Fachbehörden und der Bezirksverwaltung. Im Übrigen siehe Drs. 21/19892.

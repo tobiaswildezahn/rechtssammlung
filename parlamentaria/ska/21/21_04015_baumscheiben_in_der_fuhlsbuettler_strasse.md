@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52418"
@@ -49,17 +50,17 @@ Welche Arbeiten im Rahmen der Instandsetzungen sind entlang der Fuhlsbüttler St
 
 Die folgenden Arbeiten stehen noch aus:
 
- Einbau von 42 Baumscheiben bis Ende 2016,
+– Einbau von 42 Baumscheiben bis Ende 2016,
 
- Umbau des Radweges in der Hufnerstraße – voraussichtliche Baudurchführung im
+– Umbau des Radweges in der Hufnerstraße – voraussichtliche Baudurchführung im
 
 Mai des Jahres 2016,
 
- Fugenverguss vom Kleinpflaster im Bereich der Häuserfronten – die Arbeiten sind
+– Fugenverguss vom Kleinpflaster im Bereich der Häuserfronten – die Arbeiten sind
 
 witterungsabhängig und erfordern circa fünf Wochen; voraussichtlicher Baudurchführungsbeginn im Mai 2016,
 
- Nachrüsten von zusätzlichen Ausstattungselementen (Fahrradbügel und Poller) –
+– Nachrüsten von zusätzlichen Ausstattungselementen (Fahrradbügel und Poller) –
 
 die Abstimmung mit dem Polizeikommissariat und dem Bezirksamt ist noch nicht abgeschlossen.
 

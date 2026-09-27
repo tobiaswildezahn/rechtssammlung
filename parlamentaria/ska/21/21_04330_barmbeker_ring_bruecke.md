@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1644", "17/3516"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52731"
@@ -69,7 +70,7 @@ Wann hat die letzte Instandsetzungsmaßnahme an der Barmbeker-Ring- Brücke stat
 
 Wann wurden welche Instandsetzungsmaßnahmen in den letzten 15 Jahren an der Barmbeker-Ring-Brücke durchgeführt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 In den letzten 15 Jahren wurden folgende Instandsetzungsmaßnahmen an der Brücke durchgeführt:
 

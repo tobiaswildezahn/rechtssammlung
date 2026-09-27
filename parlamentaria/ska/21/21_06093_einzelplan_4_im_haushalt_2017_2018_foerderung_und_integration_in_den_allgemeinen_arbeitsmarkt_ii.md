@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2455", "21/2711", "21/5859", "21/2107"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54610"
@@ -55,7 +56,7 @@ Warum sinken die Personal- und Verwaltungskosten Jobcenter t.a.h. laut Gesamthau
 
 Warum lagen die Kosten laut Gesamthaushalt, Seite 81, im IST 2015 überdurchschnittlich hoch bei 126.988.000 Euro im Vergleich zu IST 2014 und Planzahlen ab 2017 fortfolgende?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Im Rahmen der Einführung der Doppik im Haushalt der Freien und Hansestadt Hamburg und der damit unter anderem verbundenen Kosten- und Leistungsrechnung werden erstmals mit dem Haushaltsplan-Entwurf die Gesamtkosten der Produkte nach dem Integrierten Produktrahmen (IPR) dargestellt. Dazu werden Kosten und Erlöse für interne Intendanzleistungen nach einem bestimmten Verrechnungsschlüssel auf sogenannte externe Produkte verrechnet.
 

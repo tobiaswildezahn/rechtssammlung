@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/917"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50727"
@@ -107,7 +108,7 @@ Wie viele Stromausfälle gab es in den Jahren 2012 – 2014 in Hamburg?
 
 Wie hat sich die Anzahl und Dauer der Stromausfälle in Hamburg sowie die Zahl der betroffenen Haushalte seit 2012 entwickelt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die SNH arbeitet kontinuierlich daran, die Anzahl der Störungen sowie die Unterbrechungsdauer weiter zu reduzieren. Sie konnte die durchschnittliche Unterbrechungsdauer in der Mittelspannungsebene durch Investitionen in die Automatisierung der Netzstationen kontinuierlich senken.
 

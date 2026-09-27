@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 4
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/4930"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60844"
@@ -57,6 +58,6 @@ Wurden im Zusammenhang mit der Verlagerung der TAF insgesamt 20,7 Stellen einges
 
 Welche konkreten Dienstposten sind im Zusammenhang mit der Verlagerung der TAF im Einzelnen eingespart worden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.

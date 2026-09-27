@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3029"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60846"
@@ -47,7 +48,7 @@ An welchen Stellen wurden zwecks Überprüfung der vorhandenen Altlasten vor den
 
 In welchem Umfang wurde der Bodenaushub auf Altlasten untersucht und mit welchem Ergebnis jeweils?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Rahmen des Oberbodenabtrags, dem Aushub der Baugruben und dem Bau der Verkehrsanlagen wurden an den jeweiligen Ausbauorten Bodenanalysen der Böden entnommen. Zu den Ergebnissen siehe Drs. 21/3029.
 

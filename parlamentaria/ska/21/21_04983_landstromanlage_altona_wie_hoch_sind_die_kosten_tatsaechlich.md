@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9298", "20/6208"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53429"
@@ -49,11 +50,11 @@ Woraus setzen sich die rund 10 Millionen Baukosten für die Landstromanlage gena
 
 In den genannten Baukosten für die Realisierung am Terminal Altona sind folgende Bauaufträge enthalten:
 
- Hauptauftrag und Serviceauftrag Inbetriebnahmen an die Siemens AG,
+– Hauptauftrag und Serviceauftrag Inbetriebnahmen an die Siemens AG,
 
- Auftrag an Stromnetz Hamburg (SNH) und
+– Auftrag an Stromnetz Hamburg (SNH) und
 
- diverse Kleinaufträge.
+– diverse Kleinaufträge.
 
 b. Welche Projekte wurden mit den Baukosten finanziert?
 
@@ -65,13 +66,13 @@ Wenn ja, welche und in welcher Höhe?
 
 Ja, siehe Antworten zu 1. a. und 1. b. Die Baukosten für die Landstromanlage Altona setzen sich mit insgesamt circa 9,5 Millionen Euro wie folgt zusammen:
 
- Hauptauftrag circa 8,5 Millionen Euro
+– Hauptauftrag circa 8,5 Millionen Euro
 
- Serviceauftrag circa 0,1 Millionen Euro,
+– Serviceauftrag circa 0,1 Millionen Euro,
 
- Auftrag an SNH circa 0,84 Millionen Euro und
+– Auftrag an SNH circa 0,84 Millionen Euro und
 
- Kleinaufträge rund 0,1 Millionen Euro.
+– Kleinaufträge rund 0,1 Millionen Euro.
 
 d. Wurden Mittel für Planungen eingesetzt?
 
@@ -133,6 +134,6 @@ Welche zusätzlichen Einrichtungen neben der eigentlichen Landstromanlage am Ter
 
 Wer hat die Kosten für weitere zusätzliche Maßnahmen übernommen (bitte benennen und auch die einzelnen Maßnahmen aufzeigen)? Woraus erfolgt dazu eine Finanzierung?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Durch die HPA wurden keine zusätzlichen Einrichtungen erstellt. Weitere Erkenntnisse liegen dem Senat hierzu nicht vor.

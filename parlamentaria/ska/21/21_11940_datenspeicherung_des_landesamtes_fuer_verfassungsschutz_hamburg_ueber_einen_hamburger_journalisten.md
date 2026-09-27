@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 18
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61191"
@@ -98,7 +99,7 @@ Wie viele und welche Informationen, die beim LfV über Werner P. gespeichert sin
 
 Hinsichtlich der verdeckten Ermittlerinnen Iris P., Maria B. und Astrid O. liegen jeweils (rechtskräftige) verwaltungsgerichtliche Anerkenntnisurteile vor, in denen die Rechtswidrigkeit der jeweiligen Einsätze der verdeckten Ermittlerinnen mangels Rechtsgrundlage festgestellt wurde. Wurden Berichte von den verdeckten Ermittlerinnen oder aus diesen Berichten resultierende Informationen als Reaktion auf die verwaltungsgerichtlichen Urteile gelöscht? Wenn ja, wann und wie viele Berichte? Bitte aufschlüsseln nach der jeweiligen verdeckten Ermittlerin. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Alle dem LfV Hamburg vorliegenden Berichte wurden gleich nach Eingang der verwaltungsgerichtlichen Anerkenntnisurteile aus dem regulären Aktenbestand des LfV Hamburg entfernt (somit dem allgemeinen Zugriff entzogen), gespeicherte Daten für eine weitere Verwendung gesperrt und im Rahmen der vorhandenen personellen Ressourcen mit der Löschung gespeicherter Daten und der physischen Vernichtung der Berichte begonnen. Dementsprechend kann eine Zuordnung der Informationen zu der jeweiligen verdeckten Ermittlerin nicht mehr erfolgen. Diese Arbeiten werden zum Ende des 1. Quartals 2018 abgeschlossen sein.
 

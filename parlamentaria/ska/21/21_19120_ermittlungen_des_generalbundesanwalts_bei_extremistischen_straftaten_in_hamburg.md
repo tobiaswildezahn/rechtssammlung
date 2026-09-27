@@ -10,12 +10,13 @@ urheber: ["Dirk Nockemann", "Dr. Alexander Wolf"]
 fraktionen: ["AfD"]
 vorgang: 62726
 seiten: 2
-fragen: 0
-einzelfragen: 0
-antwortbloecke: 0
+fragen: 1
+einzelfragen: 1
+antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68816"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/68816/21_19120_ermittlungen_des_generalbundesanwalts_bei_extremistischen_straftaten_in_hamburg"
 abgerufen: "2026-09-25"
@@ -27,28 +28,32 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Dirk Nockemann und Dr. Alexander Wolf (AfD) vom 21.11.19 und Antwort des Senats · Drucksache vom 29.11.2019  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/68816) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/68816/21_19120_ermittlungen_des_generalbundesanwalts_bei_extremistischen_straftaten_in_hamburg)
 
-## Volltext
+## Einleitung für die Fragen
 
-Ermittlungen des Generalbundesanwalts bei extremistischen Straftaten in Hamburg?
-
-Der Generalbundesanwalt beim Bundesgerichtshof hat gegenüber den Staatsanwaltschaften der Länder kein Weisungsrecht. Ebenso wenig übt er die Dienstaufsicht über sie aus. Diese steht den Generalstaatsanwälten der Länder und den Landesjustizministerien zu. Der Generalbundesanwalt kann jedoch in den gesetzlich geregelten Einzelfällen Verfahren aus seinem Zuständigkeitsbereich an die Landesstaatsanwaltschaften abgeben oder Verfahren aus deren Bereich an sich ziehen. Von dieser Regelung macht der Generalbundesanwalt in der Regel bei schwerwiegenden Staatsschutzstrafsachen in den Bereichen Terrorismus, Spionage, Völkerrechtsvergehen und Extremismus Gebrauch.1
+Der Generalbundesanwalt beim Bundesgerichtshof hat gegenüber den Staatsanwaltschaften der Länder kein Weisungsrecht. Ebenso wenig übt er die Dienstaufsicht über sie aus. Diese steht den Generalstaatsanwälten der Länder und den Landesjustizministerien zu. Der Generalbundesanwalt kann jedoch in den gesetzlich geregelten Einzelfällen Verfahren aus seinem Zuständigkeitsbereich an die Landesstaatsanwaltschaften abgeben oder Verfahren aus deren Bereich an sich ziehen. Von dieser Regelung macht der Generalbundesanwalt in der Regel bei schwerwiegenden Staatsschutzstrafsachen in den Bereichen Terrorismus, Spionage, Völkerrechtsvergehen und Extremismus Gebrauch.
 
 Im laufenden Jahr hat sich der Generalbundesanwalt, wie aus einer Antwort der Bundesregierung auf eine Anfrage der AfD-Bundestagsfraktion hervorgeht, hauptsächlich mit islamistisch motiviertem Terrorismus beschäftigt: 231 neue Ermittlungsverfahren gab es in diesem Bereich. Deutlich seltener wurde zu rechtsextremistischen Taten ermittelt (15 Verfahren), noch weniger zu Linksextremismus (fünf Verfahren). Die Zahlen spiegeln den Stand vom
-10. Juli 2019 wider.2
+10. Juli 2019 wider.
 
 Vor diesem Hintergrund fragen wir den Senat:
 
-Dem Generalbundesanwalt beim Bundesgerichtshof werden sämtliche Vorgänge übersandt, bei denen zureichende tatsächliche Anhaltspunkte für die seine Zuständigkeit begründenden Voraussetzungen gegeben sind (§ 142a Absatz 1 Satz 2 des Gerichtsverfassungsgesetzes (GVG)). Die Übersendung erfolgt entweder durch die Staatsanwaltschaft(en) (§ 142a Absatz 1 Satz 3 GVG, Nummer 202 Absatz 1 der Richtlinien für das Strafverfahren und das Bußgeldverfahren (RiStBV)), oder durch die Behörden und Beamtinnen und Beamten des Polizeidienstes (§§ 163 Absatz 2 Satz 1 StPO, 142a Absatz 1 Sätze 1 und 2 GVG, Nummer 202 Absatz 4 RiStBV). Hierzu gehören Vorgänge, bei denen die Prüfung eines Anfangsverdachts wegen einer Straftat gemäß §§ 120 Absatz 1, 142a Absatz 1 Satz 1 GVG in die ausschließliche Kompetenz des Generalbundesanwalts beim Bundesgerichtshof fällt, sowie Vorgänge, die grundsätzlich in die Strafverfolgungskompetenz der Länder fallen und vom Generalbundesanwalt beim Bundesgerichtshof dann übernommen werden, wenn die in §§ 120 Absatz 2 Satz 1 Nummern 1–4, Satz 2 oder 74a Absatz 2 GVG i.V.m. § 142a Absatz 1 Satz 1 GVG aufgeführten weiteren Voraussetzungen vorliegen und der
+## Einleitung für die Antworten des Senats
 
-1 https://www.generalbundesanwalt.de/de/stellung.php (abgerufen am 21.11.2019). 2 https://www.stern.de/politik/deutschland/generalbundesanwalt-ermittelt-am-haeufigstenzum-islamistischen-terrorismus-8825754.html (abgerufen am 21.11.2019).
+Dem Generalbundesanwalt beim Bundesgerichtshof werden sämtliche Vorgänge übersandt, bei denen zureichende tatsächliche Anhaltspunkte für die seine Zuständigkeit begründenden Voraussetzungen gegeben sind (§ 142a Absatz 1 Satz 2 des Gerichtsverfassungsgesetzes (GVG)). Die Übersendung erfolgt entweder durch die Staatsanwaltschaft(en) (§ 142a Absatz 1 Satz 3 GVG, Nummer 202 Absatz 1 der Richtlinien für das Strafverfahren und das Bußgeldverfahren (RiStBV)), oder durch die Behörden und Beamtinnen und Beamten des Polizeidienstes (§§ 163 Absatz 2 Satz 1 StPO, 142a Absatz 1 Sätze 1 und 2 GVG, Nummer 202 Absatz 4 RiStBV). Hierzu gehören Vorgänge, bei denen die Prüfung eines Anfangsverdachts wegen einer Straftat gemäß §§ 120 Absatz 1, 142a Absatz 1 Satz 1 GVG in die ausschließliche Kompetenz des Generalbundesanwalts beim Bundesgerichtshof fällt, sowie Vorgänge, die grundsätzlich in die Strafverfolgungskompetenz der Länder fallen und vom Generalbundesanwalt beim Bundesgerichtshof dann übernommen werden, wenn die in §§ 120 Absatz 2 Satz 1 Nummern 1–4, Satz 2 oder 74a Absatz 2 GVG i.V.m. § 142a Absatz 1 Satz 1 GVG aufgeführten weiteren Voraussetzungen vorliegen und der
 
 Generalbundesanwalt beim Bundesgerichtshof die besondere Bedeutung des Falles bejaht.
 
 Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
 
+## Fragen und Antworten
+
+### Frage 1
+
 In wie vielen Fällen hat der Generalbundesanwalt in den Jahren 2015 bis heute Verfahren, die zunächst im Zuständigkeitsbereich der Hamburger Justizbehörde lagen, aufgrund schwerwiegender Staatsschutzstrafsachen in den Bereichen Terrorismus, Spionage, Völkerrechtsvergehen und Extremismus, an sich gezogen?
 
 Bitte jahrweise angeben und in Fällen von Straftaten mit politischextremistischem oder terroristischem Hintergrund nach Phänomenbereichen (Islamismus, Linksextremismus, Rechtsextremismus, Extremismus mit Auslandsbezug) und Nationalität der Tatverdächtigen aufschlüsseln.
+
+#### Antwort zu Frage 1
 
 Im Bereich der Staatsanwaltschaften wird nicht erfasst, in wie vielen Fällen der Generalbundesanwalt beim Bundesgerichtshof Verfahren, die zunächst von den Staatsanwaltschaften geführt wurden, unter den Voraussetzungen der §§ 120 Absatz 2 oder 74a Absatz 2 GVG übernommen hat. Auch eine verlässliche Erfassung der Anzahl der gemäß §§ 120 Absatz 1, 142a Absatz 1 GVG dem Generalbundesanwalt vorgelegten Vorgänge erfolgt nicht.
 

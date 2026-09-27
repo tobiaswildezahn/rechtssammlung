@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12013", "21/12014", "20/14486"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61417"
@@ -92,12 +93,24 @@ Nein. Die VV-Bau stehen dieser Ergänzung jedoch nicht entgegen.
 ### Frage 7
 
 Welche Mieter-Vermieter-Modelle werden derzeit umgesetzt oder geplant?
-7.1. Wann genau begann jeweils die Erstellung der Drucksache und in welcher Form wurde dies dokumentiert?
-7.2. Wann genau erfolgte jeweils ein Senatsbeschluss?
-7.3. Wann genau wurde jeweils der Mietvertrag unterschrieben beziehungsweise wann soll der Mietvertrag unterschrieben werden?
-7.4. Wann genau war jeweils Baubeginn beziehungsweise wann ist der Baubeginn vorgesehen?
 
-#### Antwort zu Frage 7
+### Frage 7.1
+
+Wann genau begann jeweils die Erstellung der Drucksache und in welcher Form wurde dies dokumentiert?
+
+### Frage 7.2
+
+Wann genau erfolgte jeweils ein Senatsbeschluss?
+
+### Frage 7.3
+
+Wann genau wurde jeweils der Mietvertrag unterschrieben beziehungsweise wann soll der Mietvertrag unterschrieben werden?
+
+### Frage 7.4
+
+Wann genau war jeweils Baubeginn beziehungsweise wann ist der Baubeginn vorgesehen?
+
+#### Antwort zu Fragen 7, 7.1, 7.2, 7.3 und 7.4
 
 Siehe Anlage.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51902"
@@ -67,7 +68,7 @@ Erfolgten nach Einbau des „Flüsterasphalts“ Lärmmessungen zum Nachweis der
 
 Wenn ja: Konnte das angestrebte Ergebnis erreicht werden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nein, der Lärm ist entsprechend §3 der 16. BImSchV (Verkehrslärmschutzverordnung) zu berechnen. Die Auswirkungen von Lärmschutzmaßnahmen können nur mit
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66066"
@@ -104,25 +105,25 @@ Die SRH hat einen Einkaufsguide „Verpackungen“ konzipiert, der in erster Lin
 
 Darüber hinaus betreibt die SRH im Rahmen der Öffentlichkeitsarbeit kontinuierlich Aufklärungsarbeit zum Thema Müllvermeidung. Exemplarisch angeführt seien folgende Punkte:
 
- Informationsangebote für Kinder und Jugendliche in Kitas und Schulen (Schulkof-
+– Informationsangebote für Kinder und Jugendliche in Kitas und Schulen (Schulkof-
 
 fer, „Hamburg räumt auf“),
 
- Themenschwerpunkt Abfallvermeidung in der „Langen Nacht der Museen“ und auf
+– Themenschwerpunkt Abfallvermeidung in der „Langen Nacht der Museen“ und auf
 
 dem „Energieberg“,
 
- Thementag „Müll vermeiden – Nachhaltig leben“ in Kooperation mit dem „Green
+– Thementag „Müll vermeiden – Nachhaltig leben“ in Kooperation mit dem „Green
 
 Haven – Vegan Bed & Breakfast“,
 
- Stand auf der altonale 2018 zum Thema Zero Waste,
+– Stand auf der altonale 2018 zum Thema Zero Waste,
 
- Regelmäßige Fortbildungen für Lehrinnen und Lehrer zu Abfallvermeidungsthe-
+– Regelmäßige Fortbildungen für Lehrinnen und Lehrer zu Abfallvermeidungsthe-
 
 men,
 
- Ein ZERO-WASTE-FRÜHSTÜCK beim Schafschurfest auf dem Gut Karlshöhe.
+– Ein ZERO-WASTE-FRÜHSTÜCK beim Schafschurfest auf dem Gut Karlshöhe.
 
 ### Frage 9
 

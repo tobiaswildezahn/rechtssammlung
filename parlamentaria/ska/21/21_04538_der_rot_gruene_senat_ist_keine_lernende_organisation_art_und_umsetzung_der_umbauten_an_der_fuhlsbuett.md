@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52946"
@@ -53,7 +54,7 @@ Wurde die IG Fuhle bezüglicher der Gestaltungsanpassungen kontaktiert und wurde
 
 Welche Beteiligten des seinerzeitigen Beteiligungsprozesses wurden konkret wann in die Gestaltungsanpassungen einbezogen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Möglichkeiten der Gestaltungsanpassungen werden derzeit behördenintern diskutiert. Die Gespräche dazu sind noch nicht abgeschlossen. Im Anschluss daran wird ein Austausch mit der Interessengemeinschaft IG Fuhle stattfinden.
 

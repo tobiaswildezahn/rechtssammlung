@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8982"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59241"
@@ -43,7 +44,7 @@ Auf welche Zahl erhöht sich die gesamthamburgische Platzzahl für Flüchtlinge 
 
 Wie viele Neuankömmlinge und wie viele Personen als Familiennachzug sieht die Prognose des Senats für das Jahr 2018 vor?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Planungen für die Zugangsprognose von Geflüchteten nach Hamburg sowie der entsprechenden Kapazitätsplanung für das Jahr 2018 sind noch nicht abgeschlossen.
 

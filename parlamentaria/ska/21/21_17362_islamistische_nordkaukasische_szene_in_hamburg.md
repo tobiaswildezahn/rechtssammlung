@@ -14,6 +14,7 @@ fragen: 25
 einzelfragen: 28
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17186", "21/17354", "21/17355", "21/17356", "21/17357", "21/17358", "21/17359", "21/17360", "21/17361"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66944"
@@ -73,7 +74,7 @@ Wie groß schätzt der Senat das Personenpotenzial der Islamistischen Nordkaukas
 
 Inwiefern hat sich dieses Personenpotenzial seit der erstmaligen Beobachtung durch das Hamburger Landesamt für Verfassungsschutz verändert? Ist es gewachsen oder geschrumpft?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Organisatorische Strukturen sind in Hamburg nicht erkennbar. Es handelte sich stets um Einzelpersonen kaukasischer Herkunft, die vom LfV Hamburg unter dem Beobachtungsobjekt „Salafisten“ bearbeitet wurden.
 

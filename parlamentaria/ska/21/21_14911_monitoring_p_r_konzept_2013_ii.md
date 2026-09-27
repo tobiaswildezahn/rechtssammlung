@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11313", "21/9783", "21/11300"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64363"
@@ -157,7 +158,7 @@ Wie viele P+R-Stellplätze werden nach derzeitiger Planung in Zukunft verloren g
 
 Welche Pläne, die zum Verlust von Stellplätzen führen, sind bereits beschlossen? Bitte aufgeschlüsselt nach Maßnahmen mit jeweiliger Stellplatzanzahl angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im Rahmen eines umfangreichen städtebaulichen Entwicklungsprojektes nördlich der S-Bahn-Haltestelle Neugraben muss ein Teil des bestehenden Parkhauses zurückgebaut werden. Hierdurch entfallen circa 150 Stellplätze. Im Übrigen siehe Drs. 21/11300.
 
@@ -169,7 +170,7 @@ Wie viele P+R-Stellplätze werden nach derzeitiger Planung in Zukunft neu entste
 
 Welche Pläne, die zum Entstehen neuer Stellplätze führen, sind bereits beschlossen? Bitte aufgeschlüsselt nach Maßnahmen mit jeweiliger Stellplatzanzahl angeben.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Aufstockung der P+R-Anlage Harburg um 200 Stellplätze ist in Planung. Belastbare Kosten werden mit Einreichen des Förderantrages bei der zuständigen Behörde im ersten Halbjahr 2019 vorliegen.
 
@@ -183,7 +184,7 @@ Welche P+R-Anlagen werden aktuell ganz oder teilweise anderweitig genutzt, zum B
 
 Bis wann sollen diese Zweckentfremdungen jeweils weiter bestehen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die P+R-Anlagen Nettelnburg Nord (234 Stellplätze) und Kiwittsmoor (303 Stellplätze) stehen wegen der (vormaligen) Nutzung für die öffentlich-rechtliche Unterbringung derzeit nicht als Parkplätze zur Verfügung. Es ist davon auszugehen, dass beide Plätze im Jahr 2019 wieder als P+R-Anlagen genutzt werden können.
 
@@ -215,7 +216,7 @@ Gibt es Bestände/Anlagen außerhalb Hamburgs, die zur Betreibergesellschaft geh
 
 Ist eine Ausdehnung Betreibergesellschaft über das Stadtgebiet hinaus in die Metropolregion angedacht? Wenn ja, in welchem Umfang und Zeitrahmen?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Nein.
 

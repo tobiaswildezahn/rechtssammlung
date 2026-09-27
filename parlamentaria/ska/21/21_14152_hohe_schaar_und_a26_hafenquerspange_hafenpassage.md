@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 23
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63555"
@@ -73,7 +74,7 @@ Welche Erkenntnisse über den Kostenaufwand für die Sanierung der erkannten Alt
 
 Welche Erkenntnisse aus ähnlichen Altlastenflächen hat der Senat für die Sanierungskosten pro Hektar?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Hierzu gibt es bislang keine belastbaren Erkenntnisse.
 

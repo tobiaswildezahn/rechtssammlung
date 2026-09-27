@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 37
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53234"
@@ -101,7 +102,7 @@ Hat der Senat Kenntnis über etwaige Konflikte zwischen Opfer und anderen Person
 
 Sind die mutmaßlichen Täter bislang von den Ermittlungsbehörden vernommen worden? Wenn ja, inwieweit hat sich der Tatvorwurf gegenüber den beiden mutmaßlichen Tätern erhärtet oder inwieweit wurden diese entlastet?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung.
 
@@ -121,7 +122,7 @@ Staatsangehörigkeit und Volksgruppenzugehörigkeit sind nicht immer identisch. 
 
 In welchem Bezirk und Stadtteil sind die mutmaßlichen Täter wohnhaft gemeldet? Welches Alter und welche Staatsangehörigkeit besitzen die beiden mutmaßlich männlichen Tatverdächtigen?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Vorbemerkung.
 

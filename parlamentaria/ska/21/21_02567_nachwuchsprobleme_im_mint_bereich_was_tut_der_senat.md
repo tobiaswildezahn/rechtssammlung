@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 13
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9959", "21/1001", "21/1440", "19/8472"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50865"
@@ -107,7 +108,7 @@ Wie viele Berufsschulanfänger begannen an den Berufsschulen und Unternehmen in 
 
 Wie viele Berufsschulanfänger führten an den Berufsschulen und Unternehmen in Bayern, Baden-Württemberg und Sachsen eine Ausbildung in den MINT-Fächern erfolgreich zu Ende – beginnend mit dem Berufsschuljahr 2004/2005, endend beim Berufsschuljahr 2014/2015? Bitte differenziert Ausbildungsfach und Berufsschuljahr auflisten.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die länderübergreifenden Daten werden von der zuständigen Stelle, dem Bundesinstitut für Berufliche Bildung (BIBB), erfasst, siehe www.bibb.de/Datenreport/.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11777", "21/9222", "21/4794", "21/3490", "21/10971"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63963"
@@ -43,7 +44,7 @@ Zu wie vielen Fällen von Vandalismus und Sachbeschädigung ist es im Zeitraum d
 
 Ist das Vandalismus-Problem an Schulen mit niedrigem KESS-Faktor (hoher Migrantenanteil, sehr schwierige soziale Rahmenbedingungen) verhältnismäßig stärker ausgeprägt? Bitte die gesamten Vandalismusvorfälle und -schäden der letzten fünf Schuljahre (2013/2014 bis 2017/2018) für Schulen der KESS-Faktorstufen 1 bis 6 darlegen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine Auflistung nach Bezirk, Schule, Schulform und KESS-Faktor für die Jahre 2013 bis 2017 ist den Anlagen 4 bis 6 der Drs. 21/9222 zu entnehmen. Die Auflistung für das Jahr 2018 ergibt sich aus den Anlagen 1 bis 3. Die Antwort zu Frage 2. kann den Anlagen entnommen werden.
 

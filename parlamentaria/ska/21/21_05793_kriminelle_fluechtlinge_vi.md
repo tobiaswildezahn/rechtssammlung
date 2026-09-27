@@ -10,12 +10,13 @@ urheber: ["Dennis Gladiator"]
 fraktionen: ["CDU"]
 vorgang: 49693
 seiten: 4
-fragen: 0
-einzelfragen: 0
-antwortbloecke: 0
+fragen: 1
+einzelfragen: 1
+antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5457", "16/4616"]
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54293"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/54293/21_05793_kriminelle_fluechtlinge_vi"
 abgerufen: "2026-09-26"
@@ -27,13 +28,15 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Dennis Gladiator (CDU) vom 01.09.16 und Antwort des Senats · Drucksache vom 09.09.2016  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/54293) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/54293/21_05793_kriminelle_fluechtlinge_vi)
 
-## Volltext
-
-Kriminelle Flüchtlinge (VI)
+## Einleitung für die Fragen
 
 In der PKS wird bei der Erfassung der Daten von Tatverdächtigen der Aufenthaltsstatus erfasst. Somit kann zwischen Asylbewerbern, Schutzberechtigten und Asylberechtigten, Geduldeten und Kontingentflüchtlingen unterschieden werden.
 
 Vor diesem Hintergrund frage ich den Senat:
+
+## Fragen und Antworten
+
+### Frage 1
 
 Wie viele Tatverdächtige im Bereich
 
@@ -68,13 +71,25 @@ n. der Rauschgiftkriminalität
 wurden im August dieses Jahres – netto – und vom 1. Januar bis zum
 31. August dieses Jahres – kumulativ – erfasst? Bitte jeweils die jeweilige Gesamtzahl angeben und nach den eingangs genannten Personengruppen differenzieren.
 
+#### Antwort zu Frage 1
+
 Mit dem Begriff des Flüchtlings werden in der öffentlichen Diskussion häufig nur die Personengruppen assoziiert, die seit 2015 nach Deutschland beziehungsweise Hamburg migriert sind. Diese dynamische Größe kann in einer bundesweit einheitlich geführten Massenstatistik wie der Polizeilichen Kriminalstatistik (PKS) nicht abgebildet werden. Sie ergibt sich aus dem Ermittlungsvorgang selbst. In der PKS wird bei der Erfassung der Daten von Tatverdächtigen (TV) der Aufenthaltsstatus erhoben. Für die
 
-Erfassung des Aufenthaltsstatus/Grund des Aufenthaltsstatus wurden zum 1. Januar 2016 die Kategorien „International/national Schutzberechtigte“ und „Asylberechtigte“ neu eingeführt. TV mit Flüchtlingsstatus werden nach vier Unterkategorien wie folgt erfasst:  Asylverfahren, unterteilt in
+Erfassung des Aufenthaltsstatus/Grund des Aufenthaltsstatus wurden zum 1. Januar 2016 die Kategorien „International/national Schutzberechtigte“ und „Asylberechtigte“ neu eingeführt. TV mit Flüchtlingsstatus werden nach vier Unterkategorien wie folgt erfasst:
 
-o Asylbewerber, o international/national Schutzberechtigte und Asylberechtigte sowie  Duldung/Kontingentflüchtlinge, unterteilt in
+– Asylverfahren, unterteilt in
 
-o Duldung (Abschiebungshindernisse nach Abschluss des Asylverfahrens), o Kontingentflüchtlinge. Die Polizei weist darauf hin, dass die TV mit dem erfragten Aufenthaltsstatus (siehe oben) zu sehr unterschiedlichen Zeitpunkten migriert sind. Der Migrationszeitpunkt kann bereits lang- bis mittelfristig zurückliegen oder erst kürzlich erfolgt sein.
+o Asylbewerber,
+
+o international/national Schutzberechtigte und Asylberechtigte sowie
+
+– Duldung/Kontingentflüchtlinge, unterteilt in
+
+o Duldung (Abschiebungshindernisse nach Abschluss des Asylverfahrens),
+
+o Kontingentflüchtlinge.
+
+Die Polizei weist darauf hin, dass die TV mit dem erfragten Aufenthaltsstatus (siehe oben) zu sehr unterschiedlichen Zeitpunkten migriert sind. Der Migrationszeitpunkt kann bereits lang- bis mittelfristig zurückliegen oder erst kürzlich erfolgt sein.
 
 Schlussfolgerungen auf die Anzahl der TV, die erst seit dem Jahr 2015 migrierten, sind nicht möglich. Sie können Teilmenge jeder der vier oben genannten Unterkategorien sein.
 
@@ -82,7 +97,23 @@ Bei der Berechnung der TV wird in der PKS eine echte Tatverdächtigenzählung vo
 
 Aus den gelieferten Zahlen kann nicht geschlossen werden, dass alle TV ihren Wohnsitz in Hamburg haben. Sie können auch außerhalb von Hamburg gemeldet sein, im Ausland wohnen, ohne festen Wohnsitz sein oder ihr Wohnsitz ist unbekannt. In der PKS-Auswertung wird der Wohnort des TV nach Aufenthaltsstatus nicht standardisiert erfasst.
 
-Hinsichtlich der in der PKS erfassten TV ist zu beachten:  Die Anzahl der TV der Straftaten gegen die sexuelle Selbstbestimmung (Frage b.) umfasst die Tatverdächtigen der Vergewaltigung/sexuellen Nötigung (Frage c.).  Die Anzahl der TV des Raubes, der räuberischen Erpressung, des räuberischen Angriffs auf Kraftfahrer (Frage d.) umfasst die TV des Handtaschenraubes (Frage e.) und der sonstigen Raubüberfälle auf Straßen, Wegen oder Plätzen (Frage f.).  Die Anzahl der TV des Diebstahls insgesamt (Frage h.) umfasst die TV des Wohnungseinbruchdiebstahls (Frage i.), des Diebstahls von Kraftwagen (Frage j.) sowie des Diebstahls an/aus Kraftfahrzeugen (Frage k.).  Die Anzahl der TV der Gewaltkriminalität (Frage m.) umfasst unter anderem TV aus dem Deliktsbereich Straftaten gegen das Leben (Frage a.), der Vergewaltigung/sexuellen Nötigung (Frage c.), des Raubes, der räuberischen Erpressung und dem räuberischen Angriff auf Kraftfahrer (Frage d.) sowie TV aus dem Deliktsbereich der Körperverletzung insgesamt (Frage g.).
+Hinsichtlich der in der PKS erfassten TV ist zu beachten:
+
+– Die Anzahl der TV der Straftaten gegen die sexuelle Selbstbestimmung (Frage b.)
+
+umfasst die Tatverdächtigen der Vergewaltigung/sexuellen Nötigung (Frage c.).
+
+– Die Anzahl der TV des Raubes, der räuberischen Erpressung, des räuberischen
+
+Angriffs auf Kraftfahrer (Frage d.) umfasst die TV des Handtaschenraubes (Frage e.) und der sonstigen Raubüberfälle auf Straßen, Wegen oder Plätzen (Frage f.).
+
+– Die Anzahl der TV des Diebstahls insgesamt (Frage h.) umfasst die TV des Woh-
+
+nungseinbruchdiebstahls (Frage i.), des Diebstahls von Kraftwagen (Frage j.) sowie des Diebstahls an/aus Kraftfahrzeugen (Frage k.).
+
+– Die Anzahl der TV der Gewaltkriminalität (Frage m.) umfasst unter anderem TV
+
+aus dem Deliktsbereich Straftaten gegen das Leben (Frage a.), der Vergewaltigung/sexuellen Nötigung (Frage c.), des Raubes, der räuberischen Erpressung und dem räuberischen Angriff auf Kraftfahrer (Frage d.) sowie TV aus dem Deliktsbereich der Körperverletzung insgesamt (Frage g.).
 
 Additionen unterschiedlicher Deliktsgruppen und deren Teilmengen haben keine Aussagekraft. So führt beispielsweise die Addition von Körperverletzungen und den Fällen der Gewaltkriminalität nicht zur Summe der Gewaltkriminalität insgesamt. Vielmehr beinhaltet die Gewaltkriminalität bereits als Teilmenge die gefährlichen und schweren Körperverletzungen. Mit den hier erfragten Daten lässt sich daher keine Aussage zur Gesamtsumme aller TV mit Flüchtlingsstatus machen. Sie wird anhand der Anzahl der „Tatverdächtigen insgesamt“ für „Straftaten insgesamt“ dargestellt.
 
@@ -99,8 +130,3 @@ In der PKS erfolgt die Erfassung der Straftaten unabhängig von der Tatzeit nach
 Zur begrenzten Aussagekraft unterjähriger Daten siehe auch Drs. 16/4616.
 
 In der Anlage werden die erfragten Daten für den Monat August 2016 als Netto- Zahlen sowie kumulativ für den Zeitraum Januar bis August 2016 dargestellt.
-
-Tatverdächtige insgesamt und nichtdeutsche Tatverdächtige nach Aufenthaltsstatus/Grund des Aufenthalts 4 01.08.2016 bis 31.08.2016 - NETTO Schlüssel- Straftaten Tatverdächtige Asylverfahren Duldung/Kontingent- Frage zahl der insgesamt flüchtlinge Tat Asyl international/ Duldung Kontingentbewerber national Schutz- (Abschiebungshinder- flüchtlinge Drucksache berechtigte und nisse nach Abschluss Asylberechtigte des Asylverfahrens) a. 0000 Straftaten gegen das Leben 9 0 0 0 0 b. 1000 Straftaten gegen die sex. Selbstbestimmung 55 1 0 1 0 21/5793 c. 1110 Vergewaltigung/sex. Nötigung 3 0 0 0 0 d. 2100 Raub, räub. Erpressung und räub. Angriff auf Kraftfahrer 108 8 1 7 0 e. 2160 Handtaschenraub 1 0 0 0 0 f. 2170 sonst. Raubüberfälle auf Straßen, Wegen oder Plätzen 55 4 1 2 0 g. 2200 Körperverletzung insgesamt 1.790 145 28 17 7 h. **** Diebstahl insgesamt 1.939 163 20 42 11 i. 8880 Wohnungseinbruchdiebstahl 50 3 0 5 0 j. ***1 Diebstahl insg. von Kraftwagen 26 1 0 0 0 Bürgerschaft k. *50* Diebstahl insg. an/aus Kraftwagen 67 6 0 2 0 l. 5000 Vermögens- und Fälschungsdelikte 1.862 144 10 19 2 der m. 8920 Gewaltkriminalität 682 65 8 13 1 n. 8910 Rauschgiftkriminalität 826 99 6 48 0 ------ Straftaten insgesamt 8.825 600 73 139 24 Freien und Tatverdächtige insgesamt und nichtdeutsche Tatverdächtige nach Aufenthaltsstatus/Grund des Aufenthalts
-01.01.2016 bis 31.08.2016 - KUMULATIV Schlüssel- Straftaten Tatverdächtige Asylverfahren Duldung/Kontingent- Frage zahl der insgesamt flüchtlinge Tat Asyl international/ Duldung Kontingent- Hansestadt bewerber national Schutz- (Abschiebungshinder- flüchtlinge berechtigte und nisse nach Abschluss Asylberechtigte des Asylverfahrens) a. 0000 Straftaten gegen das Leben 41 1 1 2 0 Hamburg b. 1000 Straftaten gegen die sex. Selbstbestimmung 507 21 4 6 0 – c. 1110 Vergewaltigung/sex. Nötigung 58 5 1 2 0 21. d. 2100 Raub, räub. Erpressung und räub. Angriff auf Kraftfahrer 766 57 18 30 0 e. 2160 Handtaschenraub 16 1 1 0 0 f. 2170 sonst. Raubüberfälle auf Straßen, Wegen oder Plätzen 335 31 8 13 0 g. 2200 Körperverletzung insgesamt 12.066 974 204 106 67 h. **** Diebstahl insgesamt 11.937 1101 127 242 69 i. 8880 Wohnungseinbruchdiebstahl 336 31 1 22 0 Anlage Wahlperiode j. ***1 Diebstahl insg. von Kraftwagen 158 2 0 3 0 k. *50* Diebstahl insg. an/aus Kraftwagen 348 24 4 10 0 l. 5000 Vermögens- und Fälschungsdelikte 12.978 939 59 122 16 m. 8920 Gewaltkriminalität 4.723 453 107 70 27 n. 8910 Rauschgiftkriminalität 5.247 459 19 159 4 ------ Straftaten insgesamt 53.290 3.665 471 641 166
-
-Seite 1 von 1

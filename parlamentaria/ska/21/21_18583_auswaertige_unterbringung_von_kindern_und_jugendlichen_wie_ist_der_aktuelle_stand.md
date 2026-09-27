@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68236"
@@ -86,7 +87,7 @@ Welches war die durchschnittliche Dauer der auswärtigen Unterbringung?
 
 Welches war die maximale Dauer der auswärtigen Unterbringung?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Im Fachverfahren JUS-IT werden Hilfen in Form von aufeinander folgenden zeitlich befristeten sogenannten Planposten erfasst. Das JUS-IT Datawarehouse liefert wegen eines technischen Fehlers derzeit keine validen Daten zur Dauer von Planposten. Daher ist eine Beantwortung der Fragestellungen in der für die Beantwortung dieser Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

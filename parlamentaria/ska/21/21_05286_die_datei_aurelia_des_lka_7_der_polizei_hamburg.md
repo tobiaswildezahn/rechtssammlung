@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4074", "21/4075"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53757"
@@ -53,19 +54,19 @@ Wie viele Personen sind jeweils in den Kategorien Beschuldigte/r, Verdächtige/r
 
 Derzeit sind 3.444 Personen in der Datei AURELIA gespeichert (Stand 18. Juli 2016). Diese verteilen sich wie folgt:
 
-• Beschuldigte: 2.932,
+– Beschuldigte: 2.932,
 
-• Verdächtige: null,
+– Verdächtige: null,
 
-• Kontakt-/Begleitpersonen: drei,
+– Kontakt-/Begleitpersonen: drei,
 
-• Gefährdete Personen: fünf,
+– Gefährdete Personen: fünf,
 
-• Potenzielle Täter: 503,
+– Potenzielle Täter: 503,
 
-• Gefährder: null,
+– Gefährder: null,
 
-• Geschädigte: eine.
+– Geschädigte: eine.
 
 ### Frage 3
 

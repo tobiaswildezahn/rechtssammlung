@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 13
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64018"
@@ -59,7 +60,7 @@ Gibt es Anzeichen, dass Präsident Erdogan versucht, Personen zur Wahrnehmung se
 
 Sind die Verflechtungen der Gruppe „Yörükoglu“ mit dem türkischen Staat beziehungsweise seinem Präsidenten in organisatorischer und finanzieller Hinsicht untersucht worden? Wenn ja, wann, von wem und mit welchem Ergebnis? Wenn nein, wieso nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Den Hamburger Sicherheitsbehörden liegen derartige Erkenntnisse nicht vor. Absperrungen durch Zivilpersonen sind in Hamburg im erfragten Kontext nicht erfolgt. Im Übrigen siehe Vorbemerkung.
 

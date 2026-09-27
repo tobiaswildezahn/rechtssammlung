@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 27
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7358", "21/1806", "18/4422"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51630"
@@ -91,15 +92,15 @@ Wie sind die ersten Erfahrungswerte aus dem Projekt?
 
 Erste Erfahrungswerte zeigen positive Effekte:
 
- Die Schülerinnen und Schüler nutzen die Vielfalt der digitalen Lernangebote in
+– Die Schülerinnen und Schüler nutzen die Vielfalt der digitalen Lernangebote in
 
 einem für BYOD entwickelten Unterricht zunehmend selbständiger und effektiver zum Lernen und Arbeiten.
 
- Die Vielfalt der Nutzungsmöglichkeiten wird von den Schülerinnen und Schülern
+– Die Vielfalt der Nutzungsmöglichkeiten wird von den Schülerinnen und Schülern
 
 als bereichernd und motivierend empfunden.
 
- Die Integration der persönlichen Geräte in den Unterricht gelingt den beteiligten
+– Die Integration der persönlichen Geräte in den Unterricht gelingt den beteiligten
 
 Lehrkräften. Erfolgsfaktoren sind dabei eine enge Zusammenarbeit in den Kollegien, Fortbildungen, Entwicklung neuer Unterrichtsentwürfe sowie Qualitätssicherungsmaßnahmen.
 

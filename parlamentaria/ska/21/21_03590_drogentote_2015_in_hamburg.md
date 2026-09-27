@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10941", "20/14523"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51946"
@@ -325,6 +326,6 @@ Beruht die unter 1. für das Jahr 2015 genannte Zahl der Drogentoten in Hamburg 
 
 Auf welcher Methodik beruhten die auf meine Anfragen Drs. 20/10941 und Drs. 20/14523 für die Jahre 2011 – 2014 genannten Zahlen der Drogentoten in Hamburg und inwieweit haben sich durch die verschiedenen Methoden für die 2011 – 2014 unterschiedliche Zahlen ergeben?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 In Hamburg werden alle Verdachtsfälle durch das Universitätsklinikum Eppendorf obduziert.

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12050", "21/8499"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61421"
@@ -79,7 +80,7 @@ Haben sich zwischenzeitlich die Hamburg verbleibenden Steuererträge sowie -einz
 
 Falls die 13. Buchungsperiode für das Haushaltsjahr 2017 noch nicht abgeschlossen ist: Bis wann soll dies geschehen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Bis Ende März 2018.
 

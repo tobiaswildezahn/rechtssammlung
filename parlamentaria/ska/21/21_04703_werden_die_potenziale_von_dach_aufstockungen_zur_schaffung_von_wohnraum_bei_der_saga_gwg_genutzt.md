@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53114"
@@ -47,7 +48,7 @@ Wie viele Gebäude im Bestand der SAGA GWG verfügen über Flachdächer?
 
 Wie groß ist hier insgesamt die Grundfläche?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Dachform ist systemseitig nicht auswertbar hinterlegt. Die Erfassung und Auswertung von mehreren Hundert Gebäuden und die Ausrechnung der Grundflächen ist SAGA GWG in einer für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -90,7 +91,7 @@ b) Dachausbauten? (Bitte nach Jahren aufschlüsseln.)
 
 Wie bewertet die SAGA GWG die neuen technischen Möglichkeiten, durch Aufstockungen zusätzliche Wohnungen zu schaffen? Wie intensiv werden diese bisher genutzt und welche Rolle spielen sie bei den Planungen von SAGA GWG?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Aufstockung von Gebäuden erfordert aufgrund ihrer Komplexität in der Baukonstruktion hohe Planungskompetenz. Die Gebäudestatik muss zusätzliche Lasten ermöglichen, oftmals müssen zu diesem Zweck Gründungen verstärkt werden. Dauerhafte Abdichtungen des Übergangs zwischen dem Neubau und dem Altbestand erfordern ganz besondere Sorgfalt. Die aktuellen Erfahrungen in der Sanierung einiger in den Neunzigerjahren errichteter Dachgeschossaufbauten zeigen, dass dies oft keine nachhaltige Lösung ist. Die Grundsubstanz des Gebäudes hat nach wie vor die baujahrestypischen Probleme. Additiv kommen hohe Schallschutz- und Brandschutzanforderungen dazu.
 

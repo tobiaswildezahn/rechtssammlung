@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 3
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5593", "21/8613"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58566"
@@ -51,7 +52,7 @@ Ist dem Senat bekannt, ob ein Gespräch stattgefunden hat?
 
 Falls das Gespräch stattgefunden hat: a. Wer hat an dem Gespräch teilgenommen? b. Welche Ergebnisse wurden erzielt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Gespräch hat am 27. April 2017 stattgefunden.
 

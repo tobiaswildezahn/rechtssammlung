@@ -14,6 +14,7 @@ fragen: 42
 einzelfragen: 61
 antwortbloecke: 39
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16427", "21/19744", "21/16101", "21/16193", "21/17938", "21/19162", "21/19168", "21/16040", "21/19682", "21/19217", "21/19364"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69908"
@@ -345,7 +346,7 @@ Der Senat sieht seit dem Jahr 2016 vor, dass f & w jährlich 200 Wohnungen für 
 
 Im Jahresabschluss 2018 wird das Fehlen von geeigneten Grundstücken und ausreichend Bauingenieuren und Architekten als Problem zur Umsetzung des Ziels von 200 Wohnungen für vordringlich Wohnungssuchende angeführt. Durch welche Maßnahmen begegnet der Senat diesen Problemen?
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Der Senat unterstützt f & w aktiv bei einer strukturierten Flächenakquise, bezüglich städtischer Flächen über den Landesbetrieb Immobilienmanagement und Grundvermögen (LIG) und die Internationale Bauausstellung (IBA) und bezüglich von Flächen des Bundes über die Bundesanstalt für Immobilienaufgaben (BImA). Ferner bemüht er sich bei den Kirchen um Flächen und setzt sich in der Dispositionsrunde und bei den Bezirken für eine Vergabe von Grundstücken an f & w ein.
 
@@ -381,7 +382,7 @@ Da der Standort Sachsenwaldau im Geschäftsfeld Begleitung einen hohen Instandse
 
 Im Bereich des Seniorenwohnens weist die Wohnanlage Groß Borstel einen Gesamtsanierungsbedarf in Höhe von 4,8 Millionen Euro auf bei eingeplanten Mitteln in Höhe von 1 Million Euro. Wie sehen hier die Planungen aus?
 
-#### Antwort zu Fragen 21 bis 22
+#### Antwort zu Fragen 21 und 22
 
 Die Überlegungen zu diesen beiden Standorten sind noch nicht abgeschlossen.
 

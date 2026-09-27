@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9699", "21/9762"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59165"
@@ -47,7 +48,7 @@ Wie ist der genaue Sachstand der Vergabe des Kommunikationskonzeptes für eine I
 
 Wurde ein entsprechender Auftrag bereits erteilt? Wenn ja, wann und mit welchem Auftragsvolumen? Wenn nein, wann wird damit gerechnet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ein Teilauftrag mit einem Auftragsvolumen von 587.394 Euro wurde am 14. August 2017 erteilt. Er umfasst im Wesentlichen kommunikative Leistungen im Bereich Sauberkeit der Stadt für das Jahr 2017.
 
@@ -93,7 +94,7 @@ Ist geplant, dass die SRH bereits vor der Schaffung der gesetzlichen Grundlagen 
 
 Inwiefern gehört es zum gesetzlichen Auftrag der SRH, für noch nicht beschlossene gesetzliche Regelungen zu werben? Hält der Senat dies für zulässig?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Kommunikative Anstrengungen zur Verbesserung der Sauberkeit der Stadt sind auch unabhängig von den angedachten Änderungen der Rechtslage sinnvoll und erforderlich. In diesem Sinne wird die SRH im Rahmen des Projekts „Hamburg – gepflegt und grün“ möglichst frühzeitig zusätzliche Informations- und Kommunikationsleistungen erbringen. Dabei geht es nicht um die Bewerbung von Gesetzesänderungen, sondern insbesondere um die Stärkung des Präventionsgedankens durch den Einsatz verschiedenster Medien und Informationskanäle.
 

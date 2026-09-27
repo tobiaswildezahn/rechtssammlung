@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61562"
@@ -58,7 +59,7 @@ Welche Investitionen tätigt die Freie und Hansestadt Hamburg in welchem Jahr an
 
 Welche Investitionen tätigt die Bundesrepublik Deutschland auf dem Gebiet der Freien und Hansestadt Hamburg in welchem Jahr an welchem Ort und in welchem Ausmaß im Rahmen der Errichtung der festen Fehmarnbelt-Querung? Bitte nach Jahr, Ort, Art des Ausbaus (Schienentrasse, Straßeninfrastruktur) und Zeitplan einzeln aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -70,7 +71,7 @@ An welchen Investitionsprojekten der Länder Schleswig-Holstein, Mecklenburg-Vor
 
 Welche Investitionen privater Unternehmen sind dem Senat bekannt, welche in Zusammenhang mit der festen Fehmarnbelt-Querung stehen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Keine.
 

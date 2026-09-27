@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2301"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52427"
@@ -93,7 +94,7 @@ Welche Ergänzungs- und Änderungswünsche wurden an dem genannten Diskussionsab
 
 Welche davon werden übernommen und welche nicht? Bitte jeweils begründen.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 In der Veranstaltung wurden redaktionelle und inhaltliche Ergänzungswünsche vorgebracht. Die Auswertung der Ergebnisse ist noch nicht abgeschlossen.
 

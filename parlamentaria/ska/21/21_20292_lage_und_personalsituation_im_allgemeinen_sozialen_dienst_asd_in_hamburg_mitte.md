@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 31
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18560", "21/18931", "21/18308", "21/20291", "21/9894", "21/19842"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70076"
@@ -45,7 +46,7 @@ Wie viele ASD-Mitarbeiter/-innen sind insgesamt im Bezirk Hamburg- Mitte beschä
 
 Wie viele unbesetzte Stellen in welchen ASD-Abteilungen des Bezirksamtes Mitte gibt es zum Stichtag 31.12.2020 und wie viele sind es aktuell (Stichtag 29.2.20)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 
@@ -101,7 +102,7 @@ Wie viele ASD-Beschäftigte haben in den Jahren 2018 und 2019 den ASD Hamburg-Mi
 
 Wie viele ASD-Beschäftigte im Bezirk Hamburg-Mitte haben intern in den Jahren 2018 und 2019 die Abteilung in welchem Bezirksamt/Jugendamt gewechselt? Bitte für das jeweilige Jahr absolute Zahl nennen und Anzahl der Wechsel in andere Bezirke angeben und die Gründe benennen.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Anlagen 5 und 6. Über persönliche Motive der Beschäftigten hat der Senat keine Kenntnis.
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13706", "16/3080", "16/4660", "16/6082", "18/6207", "17/3641"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48204"
@@ -122,7 +123,7 @@ Liegt dem Senat oder seinen Behörden zwischenzeitlich ein neuer Stand der seit 
 
 Hat sich der Senat seit Ende November 2014 in Sachen Baggerkosten mit den Auswirkungen der OSPAR-Fortentwicklung auf die Möglichkeiten und Kosten der Tiefenhaltung der Unterelbe samt Hamburger Hafen beschäftigt, oder sind ihm neue Sachverhalte vonseiten der Ministerkollegen der Bundesländer oder des Bundes bekannt?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Es gilt weiterhin der in Drs. 20/13706 aufgezeigte Sachstand vom November 2014.
 

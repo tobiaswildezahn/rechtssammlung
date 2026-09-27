@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52997"
@@ -81,7 +82,7 @@ Mit wie viel Geldern für Maßnahmen zur Pflege von Grün- und Erholungsanlagen 
 
 Mit wie viel Geldern für Naturschutzmaßnahmen rechnet der Senat über die Einführung des Naturcents?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Überlegungen hierzu sind noch nicht abgeschlossen. Im Übrigen siehe Vorbemerkung.
 
@@ -119,7 +120,7 @@ Der grüne Umweltsenator kündigte außerdem an, dass beim Wohnungsbau in Hambur
 
 Was unterscheidet die vom Umweltsenator angekündigten Standards von den bereits bestehenden, sehr hohen Umweltstandards im Wohnungsbau?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Im Rahmen der Umsetzung des Wohnungsbauprogramms haben sich die zuständigen Fachbehörden darauf verständigt, dass die städtische Wohnungsbaugesellschaft SAGA GWG den Wohnungsbau unter Beachtung hoher architektonischer und energetischer Standards entwickelt, der zu geringeren Kosten als bisher realisiert wird. Dies wird in jedem Fall dem KfW-Effizienzhaus 55 entsprechen und damit über dem aktuell gesetzlichen Standard liegen.
 

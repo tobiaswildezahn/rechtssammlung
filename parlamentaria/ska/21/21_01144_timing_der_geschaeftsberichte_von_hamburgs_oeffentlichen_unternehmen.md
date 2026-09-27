@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/1551"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49326"
@@ -51,7 +52,7 @@ Welche öffentlichen Hamburger Unternehmen sind abschlusspflichtig?
 
 Bei welchen öffentlichen Unternehmen werden Jahresabschlüsse auf freiwilliger Basis erstellt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Alle. Im Übrigen: entfällt.
 
@@ -89,7 +90,7 @@ Aus welchem Grunde kommt es zu einer Verzögerung der Veröffentlichung der Gesc
 
 Ist es Zufall, dass der Bericht der HGV nur eine Woche nach der Bürgerschaftswahl veröffentlicht wurde?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der Geschäftsbericht der HGV über den Jahresabschluss 2013 wurde im September 2014 auf der Internetseite der HGV veröffentlicht. Im Übrigen siehe Anlage.
 

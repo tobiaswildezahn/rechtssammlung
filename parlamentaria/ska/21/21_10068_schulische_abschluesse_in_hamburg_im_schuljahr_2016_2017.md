@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 43
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9482", "21/9495", "21/9794"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58892"
@@ -140,7 +141,7 @@ Wie viele der Schüler/-innen, die im Schuljahr 2016/2017 nach aktuellem Kenntni
 
 Welcher Abschlussnotendurchschnitt wurde dabei insgesamt je Schulform bei der Erlangung der allgemeinen Hochschulreife im Schuljahr 2016/2017 erreicht? (Bitte nach staatlich und nicht staatlich unterschieden für sämtliche allgemeinbildenden wie beruflichen Schulformen in absoluten Zahlen und in Prozent in einer eigenen Excel-Tabelle angeben.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/9794. Im Übrigen siehe Vorbemerkung.
 
@@ -227,7 +228,7 @@ Wie viele der Schüler/-innen, die im Schuljahr 2016/2017 nach aktuellem Kenntni
 
 Welcher Abschlussnotendurchschnitt wurde dabei insgesamt je Schulform bei der Erlangung Fachhochschulreife im Schuljahr 2016/2017 erreicht? (Bitte nach staatlich und nicht staatlich unterschieden für sämtliche allgemeinbildenden wie beruflichen Schulformen in absoluten Zahlen und in Prozent in einer eigenen Excel-Tabelle angeben.)
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Erlangung der Fachhochschulreife in der gymnasialen Oberstufe an allgemeinbildenden Schulen und an beruflichen Gymnasien nach Jahrgangsstufe 12 setzt keine Teilnahme an einer Abschlussprüfung voraus. Die an diesen Schulen erlangten Noten der Fachhochschulreife werden von der für Bildung zuständigen Behörde nicht erhoben. Die Ergebnisse der Prüfungen zur Erlangung der Fachhochschulreife an anderen berufsbildenden Schulen liegen im Herbst vor.
 

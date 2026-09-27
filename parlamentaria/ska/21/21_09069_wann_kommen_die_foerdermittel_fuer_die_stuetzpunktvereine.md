@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5073"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57952"
@@ -67,6 +68,6 @@ Warum wurden die Gelder für die Stützpunktvereine noch nicht an den HSB ausgez
 
 Wann ist mit einer Auszahlung der Gelder zu rechnen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Da der Zuwendungsbescheid an den HSB bezüglich der zur Verfügung gestellten Mittel aus der Drs. 21/5073 sich hinsichtlich der Auszahlungsformalitäten noch in einer abschließenden Klärung befindet, konnten dem HSB die bewilligten Gelder noch nicht bereitgestellt werden. Sobald die Klärung erfolgt ist, wird eine sofortige Auszahlung der ersten Raten an den HSB erfolgen.

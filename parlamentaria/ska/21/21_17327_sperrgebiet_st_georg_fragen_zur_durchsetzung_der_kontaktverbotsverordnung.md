@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 21
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16324"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66902"
@@ -131,7 +132,7 @@ Gegen wie viele Personen wurden seit Inkrafttreten der Verordnung Bußgelder ver
 
 Wie viele Personen haben bereits mehrfach Bußgeldbescheide erhalten? Bitte angeben, ob es sich dabei um Freier oder Sexarbeiter/-innen handelt und auch die Höhe der jeweils verhängten Bußgelder darstellen.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Statistische Daten im Sinne der Fragestellung werden nicht erhoben. Für eine Beantwortung wäre eine manuelle Durchsicht aller Hand- und Ermittlungsakten der zuständigen Dienststelle im Landeskriminalamt, Kriminalkommissariat Region Mitte I (LKA 11), und dem zuständigen Referat des Justiziariats der Polizei (J 23) erforderlich. Die
 

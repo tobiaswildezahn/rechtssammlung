@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/998"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51761"
@@ -84,17 +85,17 @@ Gibt es unterstützende Programme, Modelle, neue Techniken oder Ähnliches, mit 
 
 Ja, die SRH setzt Arbeit erleichternde Technik ein. Dazu zählen zum Beispiel:
 
- Leichte Müllgefäße aus Plastik,
+– Leichte Müllgefäße aus Plastik,
 
- Elektrische Laubbläser (leichteres Gewicht, reduzierte Lautstärke) für die Straßen-
+– Elektrische Laubbläser (leichteres Gewicht, reduzierte Lautstärke) für die Straßen-
 
 reinigung,
 
- Lkws mit niedrigen Einstiegen in der Müllabfuhr,
+– Lkws mit niedrigen Einstiegen in der Müllabfuhr,
 
- automatische Schüttung an den Wagen in der Müllabfuhr und
+– automatische Schüttung an den Wagen in der Müllabfuhr und
 
- neue Recyclinghöfe mit niedrigschwelligen Containern.
+– neue Recyclinghöfe mit niedrigschwelligen Containern.
 
 Außerdem gibt es interne Schulungsprogramme zum Arbeits- und Gesundheitsschutz, in denen durch bei der SRH angestellte Kolonnentrainer zum Beispiel gesundheitsschonende Bewegungsabläufe regelmäßig vermittelt werden.
 

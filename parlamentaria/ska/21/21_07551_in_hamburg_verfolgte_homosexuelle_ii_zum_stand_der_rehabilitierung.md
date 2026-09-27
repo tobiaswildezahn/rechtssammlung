@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 16
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4465", "21/7485"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56168"
@@ -79,7 +80,7 @@ Welche Gründe liegen für die Lücken im Berichtswesen der Strafverfolgungsstat
 
 Hat der Senat Anstrengungen unternommen, um die Lücken im Berichtswesen der Strafverfolgungsstatistik zur Anzahl der nach dem § 175 StGB verurteilten Männer für die Jahre 1957,1958 sowie 1960- 1969 zu schließen? Wenn ja, welche und mit welchem Ergebnis? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Ein Berichtswesen zu Verurteilungen allein nach § 175 StGB gab es bis 1970 nicht. Für die Strafverfolgungsstatistik wurden Delikte in der Regel zu Deliktsgruppen zusammengefasst. Die Veröffentlichung von Verurteilungszahlen erfolgte dann für die jeweilige Deliktsgruppe insgesamt und nicht für jedes Delikt einzeln. Auch die Anzahl der Verurteilungen nach § 175 StGB wurde nicht gesondert, sondern in Summe mit der Anzahl der Verurteilungen nach § 175 a StGB a.F. abgebildet. Soweit mit der Drs. 21/4465 Daten zu Verurteilungen nach § 175 StGB vor 1970 mitgeteilt wurden, stammen diese aus noch vorhandenen internen Aufzeichnungen, die der Vorbereitung der zu veröffentlichten Statistiken dienten.
 

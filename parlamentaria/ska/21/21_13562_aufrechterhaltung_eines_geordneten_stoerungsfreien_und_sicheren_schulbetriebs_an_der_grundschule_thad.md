@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62934"
@@ -140,15 +141,15 @@ Welche Abteilungen und Gremien der Behörden, insbesondere der Behörde für Sch
 
 Im Landesinstitut für Lehrerbildung und Schulentwicklung (LI) fördert das Referat Gesundheit mit seinen psychologischen Unterstützungsangeboten soziale und personale Kompetenzen des pädagogischen Personals. Damit werden die Fähigkeiten gestützt, mit sich selber, mit anderen und mit den Belastungen des Arbeitsplatzes Schule in wirksamer, der Arbeitszufriedenheit und Gesundheit dienlicher Weise umzugehen (http://li.hamburg.de/gesundheit/). Psychologische Einzelberatung von gefährdeten Lehrkräften erhalten diese in der Beratungsstelle für Krisenbewältigung und Abhängigkeitsprobleme (BST) am LI (http://li.hamburg.de/bst/). In diesem Rahmen werden folgende Unterstützungsangebote vom Referat Gesundheit des LI bereitgehalten:
 
- systemische Beratung der Schulen/Kollegien zum betrieblichen Gesundheitsma-
+– systemische Beratung der Schulen/Kollegien zum betrieblichen Gesundheitsma-
 
 nagement. Das heißt Planung, Durchführung und Auswertung von zwei- bis vierstündigen Konferenzen beziehungsweise Ganztageskonferenzen mit Maßnahmen zum Erhalt der Leistungsfähigkeit, zur Stärkung der vorhandenen Ressourcen und zur Belastungsreduzierung.
 
- zentrale und auf Nachfrage schulintern organisierte Fortbildungs-/Trainings- und
+– zentrale und auf Nachfrage schulintern organisierte Fortbildungs-/Trainings- und
 
 Supervisionsangebote. Das heißt Unterstützung bei der Gestaltung von Maßnahmen zur Personalgesundheit mit dem Ziel der nachhaltigen Belastungsreduzierung wie zum Beispiel der Stressbewältigung und Achtsamkeit, des gesundheitsförderlichen Selbstmanagements und zur Auseinandersetzung mit der sich verändernden Berufsrolle.
 
- individuelle Beratung (beziehungsweise Coaching) von pädagogischem Personal
+– individuelle Beratung (beziehungsweise Coaching) von pädagogischem Personal
 
 durch die BST. Das heißt individuelle, kostenlose und vertrauliche Beratung für Mitarbeiterinnen und Mitarbeiter, die sich dauerhaft mit Ihrer Arbeit überfordert fühlen.
 

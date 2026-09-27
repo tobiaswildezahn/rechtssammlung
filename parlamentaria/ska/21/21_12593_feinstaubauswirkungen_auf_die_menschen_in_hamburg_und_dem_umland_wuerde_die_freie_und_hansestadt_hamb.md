@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61906"
@@ -89,7 +90,7 @@ Gibt es derzeit vorbereitende Arbeiten zur Berücksichtigung neuer PM2,5-Grenzwe
 
 Von welchen Grenzwerten PM2,5 geht der Senat dabei aus?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung sowie Antwort zu 1. iv. und v.
 

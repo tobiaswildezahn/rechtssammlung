@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63825"
@@ -59,7 +60,7 @@ Wie werden die verkehrlichen Auswirkungen vonseiten der Gemeinde Seevetal beziff
 
 Teilen der Senat beziehungsweise die zuständigen Behörden die entsprechenden Prognosen der Gemeinde Seevetal? Wenn nein, wie wird die Lage vom Senat beziehungsweise den zuständigen Behörden eingeschätzt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Es liegen keine Verkehrsprognosen vor. Im Übrigen siehe Vorbemerkung.
 
@@ -71,7 +72,7 @@ Auf welche Weise sind die zuständigen Behörden in diesen Planungsprozess einge
 
 Auf welche Weise ist das Bezirksamt Harburg in diesen Planungsprozess eingebunden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Unterlagen zum Bebauungsplan Meckelfeld 39 der Gemeinde Seevetal wurden am 3. Juli 2018 an die zuständigen Behörden und das Bezirksamt verteilt.
 
@@ -83,6 +84,6 @@ Wie und mit welchen Teilnehmern erfolgt diesbezüglich der Austausch zwischen de
 
 Wann und mit welchen Teilnehmern haben die ersten Gespräche stattgefunden? Bitte für die verschiedenen Termine die jeweiligen Teilnehmer aufschlüsseln.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Mit den zuständigen Fachbehörden der Freien und Hansestadt Hamburg sowie dem Bezirksamt Harburg haben bisher keine Gespräche zum Bebauungsplanentwurf Meckelfeld 39 stattgefunden. Im Übrigen siehe Antwort zu 1.

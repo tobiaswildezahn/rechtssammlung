@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8446", "21/9019", "21/11128", "21/11322", "21/12284"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64075"
@@ -41,19 +42,19 @@ Für die rechtskräftige Bescheidung sind komplexe Prüfverfahren erforderlich, 
 
 Die Zuarbeit zur Entscheidungsfindung seitens der zuständigen Behörde umfasst folgende Bestandteile:
 
- Aufbereitung der Verkehrsdaten der Örtlichkeit (gegebenenfalls Durchführung
+– Aufbereitung der Verkehrsdaten der Örtlichkeit (gegebenenfalls Durchführung
 
 einer Verkehrszählung),
 
- Lärmberechnung nach RLS 90 (durch ein externes Büro),
+– Lärmberechnung nach RLS 90 (durch ein externes Büro),
 
- Einschätzung der verkehrlichen Situation (Netzfunktion),
+– Einschätzung der verkehrlichen Situation (Netzfunktion),
 
- Einschätzung der Auswirkungen von straßenverkehrsrechtlichen Maßnahmen auf
+– Einschätzung der Auswirkungen von straßenverkehrsrechtlichen Maßnahmen auf
 
 den öffentlichen Personennahverkehr (ÖPNV) und den Wirtschaftsverkehr,
 
- Einschätzung möglicher Verlagerungseffekte als Folge straßenverkehrsrechtlicher
+– Einschätzung möglicher Verlagerungseffekte als Folge straßenverkehrsrechtlicher
 
 Maßnahmen.
 
@@ -111,7 +112,7 @@ Für wie viele der unter Nummer 1. genannten Anträge sind derzeit Verfahren vor
 
 Wurden zu den unter Nummer 6. genannten Verfahren vor dem Verwaltungsgericht bislang Urteile gesprochen und/oder Vergleiche geschlossen? Falls ja, mit welchem Ergebnis? Bitte auch jeweils die betroffenen Straßenabschnitte nennen.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Verfahren nach § 45 Straßenverkehrs-Ordnung (StVO) werden beim Hamburger Verwaltungsgericht statistisch nicht erfasst. In einer händischen Auswertung konnten durch die Kammern für Verkehrsrecht des Hamburger Verwaltungsgerichts folgende Verfahren ermittelt werden:
 

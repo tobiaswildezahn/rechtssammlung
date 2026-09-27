@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 9
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2177"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52695"
@@ -45,7 +46,7 @@ Welche Umstrukturierung der Tochtergesellschaft ist geplant? Inwieweit geht sie 
 
 Sollen Teile dieser umstrukturierten Tochtergesellschaft ausgelagert werden? Wenn ja, welche aus welchen Gründen? Inwieweit stehen diese jeweils zum Verkauf beziehungsweise nicht zum Verkauf?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/2177. Im Übrigen sind die Planungen und Überlegungen noch nicht abgeschlossen.
 

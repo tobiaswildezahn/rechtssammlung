@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57220"
@@ -180,7 +181,7 @@ Wie viele Ermittlungsverfahren bezüglich Vorkommnissen auf Baustellen gemäß �
 
 Wie viele Verurteilungen bezüglich Vorkommnissen auf Baustellen gemäß §26 (2) ArbSchG gab es jeweils in den vergangenen fünf Jahren?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Im Vorgangsbearbeitungssystem MESTA der Staatsanwaltschaft werden Straftaten nach § 26 ArbSchG nicht gesondert erfasst. In der Polizeilichen Kriminalstatistik (PKS) werden Verstöße gegen das Arbeitsschutzgesetz (ArbSchG) nicht gesondert erfasst. Zur Beantwortung wäre eine manuelle Durchsicht sämtlicher Hand-, Verfahrens- und Ermittlungsakten des erfragten Zeitraums bei Polizei und Staatsanwaltschaft erforderlich. Die Auswertung von mehreren Hunderttausend Akten ist in der für die Beantwortung Parlamentarischer Anfragen zur Verfügung stehenden Zeit nicht zu leisten.
 

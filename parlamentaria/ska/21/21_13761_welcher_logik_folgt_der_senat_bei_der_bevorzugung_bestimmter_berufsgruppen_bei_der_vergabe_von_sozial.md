@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13563"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63143"
@@ -55,7 +56,7 @@ In der Schriftlichen Kleinen Anfrage steht nur, dass die Kooperationsvereinbarun
 
 Wird nur eine Kooperationsvereinbarung geschlossen oder sind mehrere mit den jeweiligen angeführten Vertretern oder nach Standorten aufgeschlüsselt geplant? Wenn es mehrere sind, sind diese dann identisch oder soll es inhaltliche Abweichungen geben?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

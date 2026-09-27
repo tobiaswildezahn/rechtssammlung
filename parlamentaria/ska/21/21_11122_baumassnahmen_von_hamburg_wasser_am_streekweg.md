@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 54950
 seiten: 2
 fragen: 5
-einzelfragen: 9
-antwortbloecke: 5
+einzelfragen: 12
+antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60106"
@@ -58,11 +59,20 @@ Entgegen der ursprünglichen Planung von 2008 (141 Mitarbeiter/66 Fahrzeuge) wir
 ### Frage 3
 
 In einer schriftlichen Vereinbarung mit den Vertrauensleuten eines gegen die Erweiterung des Betriebshofs gerichteten Bürgerbegehrens sowie mit dem Bezirksamt Wandsbek hat sich HAMBURG WASSER 2009 verpflichtet, die Ausfahrt des Betriebshofs mit einer Schranke zu versehen und diese Schranke aufgrund des starken Schulverkehrs in der Straße Streekweg jeweils von 7.15 bis 8.00 Uhr geschlossen zu halten.
-3.1. Gilt diese Verpflichtung von HAMBURG WASSER weiterhin? Wenn nein, wann und aus welchen Gründen wurde von dieser Zusage abgewichen?
-3.2. Wann und in welcher Form wurde die genannte Vereinbarung in welchen Punkten geändert?
-3.3. Wann soll die Schranke eingerichtet werden?
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+Gilt diese Verpflichtung von HAMBURG WASSER weiterhin? Wenn nein, wann und aus welchen Gründen wurde von dieser Zusage abgewichen?
+
+### Frage 3.2
+
+Wann und in welcher Form wurde die genannte Vereinbarung in welchen Punkten geändert?
+
+### Frage 3.3
+
+Wann soll die Schranke eingerichtet werden?
+
+#### Antwort zu Fragen 3, 3.1, 3.2 und 3.3
 
 Aufgrund des gegenüber der Planung wesentlich geringeren Fahrzeugaufkommens haben sich Vertreter der Bürgerinitiative und von HW am 3. Dezember 2015 bei einem Termin am Streekweg auf den Ersatz der Schranke durch den Einbau von Bodenschwellen verständigt.
 
@@ -71,20 +81,31 @@ Gegenüber der Schrankenlösung mit festen Sperrzeiten ist durch die Bodenschwel
 ### Frage 4
 
 Im Oktober 2015 hat HAMBURG WASSER auch einen umfangreichen Waldumbau an diesem Standort angekündigt.
-4.1. Wie sind jeweils der aktuelle Stand und der derzeitige Zeitplan für den Waldumbau auf dem HAMBURG-WASSER-Gelände am Streekweg?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+Wie sind jeweils der aktuelle Stand und der derzeitige Zeitplan für den Waldumbau auf dem HAMBURG-WASSER-Gelände am Streekweg?
+
+#### Antwort zu Fragen 4 und 4.1
 
 Der Waldumbau wurde für den südlichen Teil des Grundstücks von HW, auf dem sich das Wasserwerk Walddörfer befindet, beantragt. Auslöser waren die mangelnde Vitalität und die fehlende Entwicklungsmöglichkeit von Teilen des Baumbestandes. Die Maßnahme wurde entsprechend der erteilten Genehmigung und den darin formulierten Auflagen bis Mai 2016 durchgeführt. Die Mitteilung zur Fertigstellung der Ersatzpflanzung wurde am 17. Mai 2016 dem Servicezentrum Naturschutz des zuständigen Bezirksamts angezeigt.
 
-4.2. Wie viele und welche Baum- und Strauchsorten wurden bereits neu angepflanzt? Wann sollen welche weiteren Neuanpflanzungen erfolgen?
+### Frage 4.2
+
+Wie viele und welche Baum- und Strauchsorten wurden bereits neu angepflanzt? Wann sollen welche weiteren Neuanpflanzungen erfolgen?
+
+#### Antwort zu Frage 4.2
 
 Auf sechs Teilflächen des Wasserwerksgeländes wurden insgesamt ersatzweise
 8.000 Stück Feldahorn, Pfaffenhütchen, Cornelkirsche, Haselnuss, Hainbuche, Weißdorn, Schwarzdorn, zehn Stück Bergahorn und sechs Stück Stieleiche gepflanzt.
 
 Für die folgenden fünf Jahre ist eine Kultursicherung und -pflege beauftragt. Bei Ausfall sollen Nachpflanzungen stattfinden.
 
-4.3. Bis wann sollen die Maßnahmen zum Waldumbau voraussichtlich abgeschlossen sein?
+### Frage 4.3
+
+Bis wann sollen die Maßnahmen zum Waldumbau voraussichtlich abgeschlossen sein?
+
+#### Antwort zu Frage 4.3
 
 Die Waldumbau- und Pflegemaßnahme ist seit Mitte 2016 abgeschlossen. Siehe dazu auch Antwort zu 4.1.
 

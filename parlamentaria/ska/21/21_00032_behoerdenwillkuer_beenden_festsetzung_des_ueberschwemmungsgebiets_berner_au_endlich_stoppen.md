@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12233", "20/12707", "20/13557", "20/1400"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48156"
@@ -72,19 +73,19 @@ Das Siel Berner Au ist nach Aussage der BSU angemessen dimensioniert für ein f�
 
 Bei der Berner Au handelt es sich nicht um ein Siel, sondern um ein Gewässer II. Ordnung nach dem Wasserhaushaltsgesetz in Verbindung mit dem Hamburgischen Wassergesetz. Die Richtlinien geben vor, dass in Gewässern das fünfjährliche Hochwasser (HQ 5) schadlos abfließen kann. Wie die Hochwassergefahrenkarte zum „Hochwasser mit hoher Wahrscheinlichkeit“ zeigt, ist das Gewässer Berner Au dennoch überwiegend auch für das zehnjährliche Hochwasserereignis ausreichend dimensioniert. Dies bedeutet, dass nur in einzelnen Abschnitten das Gewässer Berner Au bei einem zehnjährlichen Hochwasser (HQ 10) über die Ufer tritt. Um dieses Übertreten der Ufer möglichst zu vermeiden, ergreift das zuständige Bezirksamt folgende Maßnahmen zur Verbesserung des Hochwasserschutzes an der Berner Au:
 
- Einbau von Rechen an den Hochwasserrückhaltebecken (HRB) Sasel (Meiendor-
+– Einbau von Rechen an den Hochwasserrückhaltebecken (HRB) Sasel (Meiendor-
 
 fer Mühlenweg) und Blakshörn (Anfang 2016)
 
- Ausbau einer Gewässerstrecke von circa 700 m unterhalb Meiendorfer Mühlenweg
+– Ausbau einer Gewässerstrecke von circa 700 m unterhalb Meiendorfer Mühlenweg
 
 (Planungsbeginn 2016)
 
- Überprüfung und gegebenenfalls Optimierung der Steuerung der HRB Sasel und
+– Überprüfung und gegebenenfalls Optimierung der Steuerung der HRB Sasel und
 
 Blakshörn (Planungsbeginn 2016)
 
- Schaffung von Retentionsräumen entlang des Gewässers (Planungsbeginn 2017)
+– Schaffung von Retentionsräumen entlang des Gewässers (Planungsbeginn 2017)
 
 ### Frage 3
 
@@ -245,17 +246,17 @@ In der Protokollerklärung der BSU vom 11. Juli 2011 (Drs. 20/1400, Band 4/PE Nr
 
 #### Antwort zu Frage 7
 
- Karten mit Topographie und Flächennutzungen,
+– Karten mit Topographie und Flächennutzungen,
 
- die Beschreibung abgelaufener Hochwasser mit signifikanten nachtei-
+– die Beschreibung abgelaufener Hochwasser mit signifikanten nachtei-
 
 ligen Auswirkungen,
 
- die Beschreibung signifikanter Hochwasser der Vergangenheit
+– die Beschreibung signifikanter Hochwasser der Vergangenheit
 
 und erforderlichenfalls
 
- eine Bewertung der potenziellen nachteiligen Folgen künftiger Hoch-
+– eine Bewertung der potenziellen nachteiligen Folgen künftiger Hoch-
 
 wasserereignisse.
 

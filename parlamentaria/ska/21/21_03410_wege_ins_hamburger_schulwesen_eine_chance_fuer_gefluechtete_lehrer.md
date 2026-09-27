@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51762"
@@ -74,7 +75,7 @@ Wie viele Plätze gibt es jeweils jährlich im Ergänzungsstudium und in der Anp
 
 Wie viele Teilnehmer haben im Jahr 2015 an der Eignungsprüfung teilgenommen und wie hoch war die Erfolgsquote?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Für das Ergänzungsstudium gab es im Wintersemester 2015/2016 20 Plätze, alle Plätze wurden besetzt, es wurden keine Bewerberinnen und Bewerber abgewiesen.
 

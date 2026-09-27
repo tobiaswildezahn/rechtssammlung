@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11755", "21/11025", "21/12220"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62180"
@@ -59,7 +60,7 @@ Wie erkennt man bei einer Bewerbung, dass die Lehrkraft die Fakultas DaZ erworbe
 
 Wie erkennt man bei einer Bewerbung, dass die Lehrkraft die Fortbildung DaZ absolviert hat? Erhalten die Lehrkräfte ein entsprechendes Dokument? Falls nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Hamburger Lehrkräfte, die am Landesinstitut für Lehrerbildung und Schulentwicklung (LI) die Qualifizierung durchlaufen haben, bekommen ihre erworbenen Kenntnisse und Fähigkeiten mit einem Zertifikat bescheinigt, wenn sie diese in einem schriftlichen Stundenentwurf und einem Kolloquium nachgewiesen haben. Lehrkräfte im Vorberei-
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 16
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68725"
@@ -52,7 +53,7 @@ Wie viele Einwendungen und Stellungnahmen sind im Planfeststellungsverfahren fü
 
 Welche Verbände und Vereine sowie gegebenenfalls weitere Stellen haben im Rahmen der Frist eine Stellungnahme und/oder Einwendung schriftlich oder zur Niederschrift vorgebracht? a. Worauf zielen die Stellungnahmen und/oder Einwendungen jeweils ab (bitte genau darlegen)? b. Wie viele Stellungnahmen und wie viele Einwendungen gibt es insgesamt? c. Wie viele unterschiedliche Einwender gibt es? Welcher Einwender ist quantitativer „Spitzenreiter“ und hat die meisten Stellungnahmen und/oder Einwendungen eingereicht? d. Welche Einwendungen und/oder Stellungnahmen gibt es gegebenenfalls zu folgenden Bautätigkeiten des Vorhabens: - Rückbau der Roßhöftspitze und der Oderhöftspitze - Rückbau der vorhandenen Verkehrsanlagen - Rückbau der Kaianlagen (Beschränkung auf die Kaiköpfe) - Rückbau vorhandener Brücken, Gebäude und sonstiger Anlagen auf den derzeitigen Oberflächen - Aufhöhung des Oderhafens - Aufhöhung der bislang nicht verfüllten Abschnitte des ehemaligen Ellerholzkanals - Gemeinsame weitere Aufhöhung der verbliebenen Terminalflächen, des Oderhafens, des ehemaligen Rodewischhafens, des ehemaligen Ellerholzkanals und der Erschließungsfläche Südwest, die südlich des ehemaligen Ellerholzkanals und westlich des ehemaligen Rodewischhafens liegt - Begleitender Aufbau von Uferböschungen nach Westen zum Roßhafen sowie nach Norden zum Ellerholzhafen e. Welche weiteren inhaltlichen Anpassungen und/oder Kritikpunkte werden in jeweils welcher Stellungnahme beziehungsweise Einwendung gefordert? f. Welche der geforderten inhaltlichen Anpassungen könnten übernommen werden? Falls noch geprüft wird: Wann soll eine entsprechende Prüfung abgeschlossen sein?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bis zum 18. November 2019 waren bei der Anhörungsbehörde 25 Stellungnahmen und eine Einwendung eingegangen. Im Übrigen siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 19
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7797", "20/5867", "21/10751", "20/10600", "21/251"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59757"
@@ -43,7 +44,7 @@ Wie sehen diese vorbereitenden Maßnahmen konkret aus und wie ist der Sachstand?
 
 Welche Stelle nimmt diese vor?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Zusammenhang mit der Lebenslagenberichterstattung bereitet die zuständige Behörde auch eine erneute Obdachlosenuntersuchung vor. Derzeit stehen die Abstimmung der Fragebögen und die Erarbeitung der rechtlichen Befragungsgrundlagen im Vordergrund. Im Übrigen siehe Drs. 21/10751.
 

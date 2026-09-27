@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3877", "21/5121", "20/4930", "21/5475"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54099"
@@ -80,7 +81,7 @@ Geht die zuständige Behörde davon aus, dass mehr Ermittlungsverfahren grundsä
 
 Geht die zuständige Behörde davon aus, dass grundsätzlich aus mehr Ermittlungsverfahren auch mehr Verurteilungen zu Freiheitsstrafen ohne Bewährung resultieren? Falls nein, weshalb nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Aus der Gesamtzahl der eingeleiteten Ermittlungsverfahren lassen sich keine generellen Folgerungen für die Anzahl der Verurteilungen und das jeweilige Strafmaß ziehen. Es gilt die Unschuldsvermutung. In einem Rechtsstaat ist einem Tatverdächtigen jeweils eine Straftat nachzuweisen. Dies ist Aufgabe des Ermittlungsverfahrens und des sich hieran gegebenenfalls anschließenden Gerichtsverfahrens. Die richterliche Unabhängigkeit ist verfassungsrechtlich garantiert.
 

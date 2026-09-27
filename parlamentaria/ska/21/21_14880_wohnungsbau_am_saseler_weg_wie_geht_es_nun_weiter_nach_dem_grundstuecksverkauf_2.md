@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 58615
 seiten: 2
 fragen: 11
-einzelfragen: 11
-antwortbloecke: 10
+einzelfragen: 12
+antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10154", "21/12679"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64321"
@@ -78,13 +79,20 @@ Wann genau wurden Baugenehmigungen mit welchem Inhalt erteilt?
 ### Frage 5
 
 Sofern noch keine Baugenehmigung erteilt wurde:
-5.1. Warum ist das Genehmigungsverfahren noch nicht abgeschlossen?
 
-#### Antwort zu Fragen 4 bis 5
+### Frage 5.1
+
+Warum ist das Genehmigungsverfahren noch nicht abgeschlossen?
+
+#### Antwort zu Fragen 4, 5 und 5.1
 
 Siehe Antwort zu 1.
 
-5.2. Wann wird mit dem Abschluss des Genehmigungsverfahrens gerechnet?
+### Frage 5.2
+
+Wann wird mit dem Abschluss des Genehmigungsverfahrens gerechnet?
+
+#### Antwort zu Frage 5.2
 
 Wenn die Bauanträge vollständig sind und öffentlich-rechtliche Vorschriften der Erteilung der Baugenehmigungen nicht entgegenstehen.
 

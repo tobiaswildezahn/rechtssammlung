@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12674"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62193"
@@ -49,7 +50,7 @@ Wie viele Fahrradstraßen gibt es in Hamburg?
 
 Wann sind diese jeweils in welchen Straßenabschnitten eingerichtet worden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Derzeit bestehen in Hamburg 18 Anordnungen zu Fahrradstraßen, die in der nachfolgenden Tabelle aufgeführt sind.
 
@@ -639,7 +640,7 @@ Wer hat auf Basis der aktuellen Kennzeichnung und Rechtslage an den jeweiligen K
 
 Auf welchen Fahrradstraßen beabsichtigt der Senat beziehungsweise beabsichtigen die zuständigen Behörden und Ämter eine eindeutigere Ausschilderung der gewünschten Vorfahrtsrechte?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Grundsätzlich sollen auf der Fahrradstraße fahrende Verkehrsteilnehmer vorfahrtberechtigt sein.
 
@@ -647,21 +648,21 @@ Sofern nicht durch die bauliche Ausgestaltung eindeutig der Charakter einer Gehw
 
 Vorfahrtregelnde Verkehrszeichen wurden im Verlauf der Fahrradstraße Harvestehuder Weg an den Einmündungen
 
- Harvestehuder Weg/Pöseldorfer Weg,
+– Harvestehuder Weg/Pöseldorfer Weg,
 
- Harvestehuder Weg/Alsterchaussee/Fährdamm und
+– Harvestehuder Weg/Alsterchaussee/Fährdamm und
 
- Harvestehuder Weg/Milchstraße
+– Harvestehuder Weg/Milchstraße
 
 angeordnet.
 
 An den Einmündungen
 
- Harvestehuder Weg/Alsterufer/Alte Rabenstraße sowie
+– Harvestehuder Weg/Alsterufer/Alte Rabenstraße sowie
 
- Leinpfad/Mövenstraße und
+– Leinpfad/Mövenstraße und
 
- Leinpfad/Klärchenstraße/Görnestraße
+– Leinpfad/Klärchenstraße/Görnestraße
 
 ist die Vorfahrt für die Fahrradstraße aufgrund der baulichen Ausgestaltung als Gehwegüberfahrt nach § 10 Straßenverkehrs-Ordnung geregelt.
 

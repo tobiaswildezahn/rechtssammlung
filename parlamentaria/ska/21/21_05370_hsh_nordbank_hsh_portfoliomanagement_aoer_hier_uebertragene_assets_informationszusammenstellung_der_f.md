@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5133"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53865"
@@ -43,7 +44,7 @@ Wer beziehungsweise welches Unternehmen hat diese Zusammenstellung erstellt?
 
 Falls es Mitarbeiter/-innen der Finanzbehörde direkt waren: aus welchen Beweggründen musste man sich auf durch die Bank gelieferte Dokumente in einem „elektronischen“ Datenraum beschränken?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Unterlage wurde vom Finanzministerium Schleswig-Holstein unter Beteiligung von Linklaters LLP, Bain & Company und PricewaterhouseCoopers Aktiengesellschaft Wirtschaftsprüfungsgesellschaft erstellt.
 
@@ -55,7 +56,7 @@ Liegen der landeseigenen hsh portfoliomanagement AöR ebenfalls nur Datenmateria
 
 Falls nein, wer beziehungsweise welche gegebenenfalls Prüfungsgesellschaften haben sich unabhängig von „gelieferten“ Material durch die HSH Nordbank und woher belastbares Material zur Risikoeinschätzung der zu übertragenden Assets beschafft? Ich spreche hier ausdrücklich nicht von externen Bemühungen um Marktwerteinschätzung.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die hsh portfoliomanagement AöR nutzt alle in den Kreditakten der HSH Nordbank AG enthaltenen Dokumente und Informationen.
 

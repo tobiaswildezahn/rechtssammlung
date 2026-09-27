@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52914"
@@ -119,7 +120,7 @@ Wie lange dauerte es bis die Ermittlungspersonen die Abbildungen an den zuständ
 
 Wie lange dauerte es, bis der Ermittlungsrichter eine Entscheidung über die Veröffentlichung fällte? Warum dauerte dies so lange?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antwort zu 1.
 

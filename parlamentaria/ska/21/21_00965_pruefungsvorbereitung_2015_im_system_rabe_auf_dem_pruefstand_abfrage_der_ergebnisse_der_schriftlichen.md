@@ -14,6 +14,7 @@ fragen: 36
 einzelfragen: 49
 antwortbloecke: 26
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10116", "21/537", "21/361"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49133"
@@ -117,7 +118,7 @@ In wie vielen Fällen wurde in den schriftlichen Abiturklausuren des Schuljahres
 
 Wie häufig haben sich die Schülerinnen und Schüler im Abiturjahrgang 2014/2015 für eine Präsentationsprüfung entschieden? Bitte absolute Zahl und in Prozent sowie je weiterführender Schule angeben. Wie stellen sich diese Zahlen im Verhältnis zu den Schülerzahlen dar, die sich für die herkömmliche mündliche Prüfung entschieden haben?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Vorbemerkung.
 
@@ -270,7 +271,7 @@ Wer hat die diesjährigen Aufgaben wann erarbeitet und sind diese einsehbar oder
 
 Wer hat die diesjährigen Aufgaben dahin gehend geprüft, ob sie angemessen sind?
 
-#### Antwort zu Fragen 29 bis 30
+#### Antwort zu Fragen 29 und 30
 
 Das Verfahren der Erarbeitung, der Prüfung und Kontrolle sowie der Genehmigung der Aufgaben für die schriftliche Überprüfung erfolgt analog zu dem für die Aufgaben zu den schriftlichen Abiturprüfungen angewandten Verfahren, siehe Drs. 21/361. Die Angemessenheit der jeweiligen Aufgaben wird durch Fachkommissionen geprüft und bestätigt. Die Aufgaben werden nach der Durchführung der Prüfung auf einer CD zusammengestellt und für den internen Dienstgebrauch den Schulen zur Verfügung gestellt.
 
@@ -291,7 +292,7 @@ Wie sind die schriftlichen Überprüfungen in den geprüften Fächern ausgefalle
 
 An wie vielen Schulen liegt der Durchschnitt der Noten der schriftlichen Überprüfungen unter 4,0? Bitte insgesamt und aufgeschlüsselt nach Schulen und Schulformen angeben.
 
-#### Antwort zu Fragen 32 bis 33
+#### Antwort zu Fragen 32 und 33
 
 Verteilung der Noten (in Prozent) und Notendurchschnitt in den schriftlichen Überprüfungen 2015 in den geprüften Fächern (insgesamt):
 
@@ -976,13 +977,13 @@ Schulen
 
 Note
 
- Zensur
+– Zensur
 
 Schulen
 
 Note
 
- Zensur
+– Zensur
 
 Heisenberg-Gymnasium  
 1,4%  
@@ -1133,7 +1134,7 @@ Quelle: Institut für Bildungsmonitoring und Qualitätsentwicklung, 2015
 
 Schulbezogene Notenverteilung in den schriftlichen Überprüfungen 2015 im Fach Mathematik
 
- Zensur
+– Zensur
 
 Albert-Schweitzer-Gymnasium  
 5,0%  
@@ -1540,7 +1541,7 @@ Schulen
 
 Note
 
- Zensur
+– Zensur
 
 Schulen
 
@@ -1695,7 +1696,7 @@ Quelle: Institut für Bildungsmonitoring und Qualitätsentwicklung, 2015
 
 Schulbezogene Notenverteilung in den schriftlichen Überprüfungen 2015 im Fach Englisch
 
- Zensur
+– Zensur
 
 Albert-Schweitzer-Gymnasium  
 8,3%  
@@ -2102,7 +2103,7 @@ Schulen
 
 Note
 
- Zensur
+– Zensur
 
 Schulen
 
@@ -2249,7 +2250,7 @@ Quelle: Institut für Bildungsmonitoring und Qualitätsentwicklung, 2015
 
 Schulbezogene Notenverteilung in den schriftlichen Überprüfungen 2015 im Fach Englisch bilingual
 
- Zensur  
+– Zensur  
 Gymnasium Bornbrook  
 0,0%  
 13,0%  
@@ -2347,7 +2348,7 @@ Note
 
 Schulbezogene Notenverteilung in den schriftlichen Überprüfungen 2015 im Fach Französisch
 
-Zensur  
+– Zensur  
 Albert-Schweitzer-Gymnasium  
 7,1%  
 50,0%  
@@ -2522,7 +2523,7 @@ Schulen
 
 Note
 
-Zensur Schulen
+– Zensur Schulen
 
 Note
 
@@ -2567,7 +2568,7 @@ Quelle: Institut für Bildungsmonitoring und Qualitätsentwicklung, 2015
 
 Schulbezogene Notenverteilung in den schriftlichen Überprüfungen 2015 im Fach Latein
 
- Zensur  
+– Zensur  
 Albert-Schweitzer-Gymnasium  
 25,0%  
 37,5%  
@@ -2826,7 +2827,7 @@ Schulen
 
 Note
 
- Zensur Schulen
+– Zensur Schulen
 
 Note
 
@@ -2878,7 +2879,7 @@ Quelle: Institut für Bildungsmonitoring und Qualitätsentwicklung, 2015
 
 Schulbezogene Notenverteilung in den schriftlichen Überprüfungen 2015 im Fach Spanisch
 
- Zensur
+– Zensur
 
 Albert-Schweitzer-Gymnasium*  
 Albrecht-Thaer-Gymnasium  

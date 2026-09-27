@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 23
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2368", "21/3186", "18/3702"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51560"
@@ -122,7 +123,7 @@ In dem gemeinsamen Eckpunkte-Papier der beiden Länder wären zudem Schritte zur
 
 Welche voraussichtlichen Kosten ergeben sich für die Entwicklung und Umsetzung der Strombaumaßnahmen zur Reduzierung des anfallenden Baggerguts für Hamburg?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Der Sedimentanfall soll durch geeignete Strombaumaßnahmen reduziert werden. Welche konkreten Strombaumaßnahmen umgesetzt werden sollen, ist noch offen. Es lassen sich daher noch keine Kosten beziffern. Im Übrigen siehe Drs. 21/3186.
 
@@ -150,7 +151,7 @@ Wie genau gestaltet sich das System der Beprobung des Hamburger Baggerguts auf e
 
 Wie häufig wurde bisher das Hamburger Baggergut auf Schadstoffe überprüft beziehungsweise wie viele Proben wurden jährlich entnommen und wie häufig soll das Hamburger Baggergut zukünftig überprüft und analysiert werden?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Die Beprobung und Analyse der Sedimente zur Verbringung zu Tonne E3 erfolgen gemäß der „Gemeinsamen Übergangsbestimmungen zum Umgang mit Baggergut in den Küstengewässern“ (GÜBAK) von 2009. Für die bisher genehmigten Bereiche der Delegationsstrecke ist im aktuell gültigen Einvernehmen mit dem Land Schleswig- Holstein vor der Verbringung von Sedimenten zur Tonne E3 im Rahmen einer Freigabeuntersuchung pro Entnahmegebiet eine Anzahl von zehn bis 14 Sedimentproben vorgeschrieben. Die Zahl der künftigen Beprobungen für Freigabeuntersuchungen ist noch nicht bekannt. Sie wird nach Vorliegen der neuen Genehmigung zu bestimmen sein.
 

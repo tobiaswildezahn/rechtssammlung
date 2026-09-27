@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54125"
@@ -836,7 +837,7 @@ Hat der Senat beziehungsweise die zuständige Behörde die Daten zu den unter 1.
 
 Inwieweit wird in Hamburg eine Statistik geführt, in der die Inhaftierten der JVAs nach registrierten Straftaten aufgeführt sind? Wenn nein, warum nicht und plant der Senat, eine solche Statistik einzurichten?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im Programm BASIS-Web (Buchungs- und Abrechnungssystem für den Strafvollzug) werden die Delikte der Gefangenen, die der jeweiligen Verurteilung zugrunde liegen, anstaltsbezogen erfasst.
 
@@ -844,22 +845,22 @@ Darüber hinaus werden Daten zu Deliktsgruppen und ihrer Verteilung auf die Anst
 
 Aktuell werden im Auftrag beziehungsweise mit Beteiligung der zuständigen Behörde folgenden Auswertungen vorgenommen:
 
- Evaluation der Sozialtherapeutischen Anstalt Hamburg: Der Abschlussbericht des
+– Evaluation der Sozialtherapeutischen Anstalt Hamburg: Der Abschlussbericht des
 
 Institutes für Sexualforschung und forensische Psychiatrie im Universitätsklinikum Hamburg-Eppendorf soll im August 2017 vorliegen.
 
- Bundesweite Evaluation des Jugendstrafvollzuges: Ein erster Ergebnisbericht wird
+– Bundesweite Evaluation des Jugendstrafvollzuges: Ein erster Ergebnisbericht wird
 
 unter der Federführung Nordrhein-Westfalens erarbeitet.
 
- Sozialtherapie im Strafvollzug, Stichtagserhebung der Kriminologischen Zentral-
+– Sozialtherapie im Strafvollzug, Stichtagserhebung der Kriminologischen Zentral-
 
 stelle e.V. (KrimZ) fortlaufend zum 31.03. d.J.: Der aktuelle Bericht ist abrufbar unter http://www.krimz.de/publikationen/texte/.
 
- Forschungsprojekt zum Vollzug der Sicherungsverwahrung und der vorgelagerten
+– Forschungsprojekt zum Vollzug der Sicherungsverwahrung und der vorgelagerten
 
 Freiheits- und Jugendstrafe – Stichtagserhebung der Kriminologischen Zentralstelle e.V. (KrimZ) fortlaufend zum 31.03. d.J.: Ein Ergebnisbericht liegt noch nicht vor.
 
- Optimierung eines Behandlungs- und Erziehungsangebotes für Gefangene mit
+– Optimierung eines Behandlungs- und Erziehungsangebotes für Gefangene mit
 
 Gewalt- und Suchtproblemen in der JVA Hahnöfersand: Der Abschlussbericht des Deutschen Zentrums für Suchtfragen des Kindes- und Jugendalters (DZSKJ) im Universitätsklinikum Hamburg-Eppendorf soll im November 2017 vorliegen.

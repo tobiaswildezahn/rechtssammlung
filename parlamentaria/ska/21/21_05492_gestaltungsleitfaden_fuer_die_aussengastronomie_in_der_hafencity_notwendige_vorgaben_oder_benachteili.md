@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53974"
@@ -43,7 +44,7 @@ Existiert ein Gestaltungsleitfaden für die Außengastronomie in der HafenCity? 
 
 Welches Ziel verfolgt das Bezirksamt Mitte mit den Vorgaben für die Außengastronomie in der HafenCity?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Gestaltungsleitfaden findet seit 2007 Anwendung bei der Vermietung von nicht gewidmeten Flächen der Freien und Hansestadt Hamburg (FHH) in der HafenCity für Außengastronomie. Er dient der Gestaltung und Aufrechterhaltung eines qualitätsvollen, ansprechenden Stadtbildes. Im Übrigen siehe http://www.hamburg.de/mitte/ 6684042/gestaltungsleitfaden-aussengastronomie-hafencity.
 

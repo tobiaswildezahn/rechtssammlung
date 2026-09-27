@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68889"
@@ -68,7 +69,7 @@ Wie ist die Formulierung zu verstehen, Eltern könnten „in der Regel“ die �
 
 Was ist mit der Formulierung „auch unter Einbeziehung der Bestimmungen zur Schulweghilfe“ in diesem Zusammenhang genau gemeint?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Dies bedeutet, dass als Ausnahme von der Regel, je nach geografischer Lage von Schulen und Wohnungen, in begründeten Fällen auch andere als die drei nächstgelegen Schwerpunktschulen geeignet und anwählbar sein können. Siehe § 3 Absatz 4 Nummer 4 der „Richtlinie zur Aufnahme von Schülerinnen und Schülern mit sonderpädagogischem Förderbedarf an Hamburger Schulen“
 

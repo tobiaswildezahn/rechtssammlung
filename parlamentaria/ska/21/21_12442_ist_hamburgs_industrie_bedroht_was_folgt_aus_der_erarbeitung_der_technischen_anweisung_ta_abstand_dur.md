@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 34
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61734"
@@ -81,7 +82,7 @@ Zu welchem Zeitpunkt soll die Bürgerschaft über die erzielten Verhandlungserge
 
 Beabsichtigt der Senat, die Bürgerschaft an der anschließenden Positionsfindung zu beteiligen? Wenn ja, wann und in welcher Form soll das erfolgen? Wenn nein, weshalb soll die Bürgerschaft nicht beteiligt werden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Es gibt keine „Verhandlungsergebnisse“. Die Bundesregierung legt die TA Abstand in dem gesetzlich vorgesehenen Verfahren vor. Eine Beteiligung der Bürgerschaft ist im Rahmen des Bundesratsverfahrens nicht vorgesehen. Vergleiche Artikel 51 Absatz 1 GG.
 
@@ -93,7 +94,7 @@ Welche Bedeutung hat nach Ansicht des Senats der Begriff „angemessener Sicherh
 
 Welche Erkenntnisse liegen dem Senat darüber vor, inwieweit die Einschätzung des Senats zu Frage 7. von den anderen Bundesländern und dem Bund geteilt werden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der Begriff „angemessener Sicherheitsabstand“ ist in § 3 Absatz 5c BImSchG gesetzlich definiert und setzt die europarechtlichen Anforderungen der Seveso-III-Richtlinie um.
 

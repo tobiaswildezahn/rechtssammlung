@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3073", "21/4130", "21/4181", "21/4940", "21/4943"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55027"
@@ -44,21 +45,21 @@ Mit welchen Betreibern wurden jeweils wann Verträge über den Betrieb welcher E
 
 Es wurden mit allen Hilfsorganisationen, die als Betreiber für eine Erstaufnahme tätig sind, Vereinbarungen über den Betrieb geschlossen und ins Transparenzportal eingestellt. Die Unterzeichnung erfolgte an folgenden Tagen:
 
- Johanniter Unfall-Hilfe e.V.: 8. September 2016
+– Johanniter Unfall-Hilfe e.V.: 8. September 2016
 
- AWO Hamburg Gesellschaft für Bildung, Integration und Beratung gGmbH: 8. Sep-
+– AWO Hamburg Gesellschaft für Bildung, Integration und Beratung gGmbH: 8. Sep-
 
 tember 2016
 
- Deutsches Rotes Kreuz Kreisverband Hamburg-Harburg e.V.: 12. September 2016
+– Deutsches Rotes Kreuz Kreisverband Hamburg-Harburg e.V.: 12. September 2016
 
- Malteser Hilfsdienst gGmbH: 12. September 2016
+– Malteser Hilfsdienst gGmbH: 12. September 2016
 
- Deutsches Rotes Kreuz Landesverband Hamburg e.V.: 16. September 2016
+– Deutsches Rotes Kreuz Landesverband Hamburg e.V.: 16. September 2016
 
- Arbeiter-Samariter-Bund Flüchtlingshilfe (Hamburg) GmbH: 20. September 2016
+– Arbeiter-Samariter-Bund Flüchtlingshilfe (Hamburg) GmbH: 20. September 2016
 
- Deutsches Rotes Kreuz Kreisverband Hamburg Altona und Mitte e.V.: 29. Sep-
+– Deutsches Rotes Kreuz Kreisverband Hamburg Altona und Mitte e.V.: 29. Sep-
 
 tember 2016
 

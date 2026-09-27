@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1786", "20/6335", "20/11997"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50144"
@@ -48,10 +49,16 @@ Im Lagebericht der IFB wird zur Vermögens- und Ertragslage (Bilanzvolumen) ausg
 ### Frage 2
 
 In der IFB-Gründungsdrucksache wurde ausgeführt, dass die IFB sich an Konsortialfinanzierungen beteiligen kann, damit Vorhaben der Endkunden in Hamburg realisiert werden können, die ansonsten nicht umsetzbar wären (Seite 12, Drs. 20/6335).
-2.1. War der Neubau am Geomatikum in dem vom Senat gewählten Modell nicht umsetzbar? Wenn ja, aus welchen Gründen? Wenn nein, warum hat sich die IFB dann an der Finanzierung beteiligt?
-2.2. An welchen Konsortialfinanzierungen kann sich die IFB nach Auffassung des Senats über die in Drs. 20/6335 definierten Vorgaben beteiligen?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+War der Neubau am Geomatikum in dem vom Senat gewählten Modell nicht umsetzbar? Wenn ja, aus welchen Gründen? Wenn nein, warum hat sich die IFB dann an der Finanzierung beteiligt?
+
+### Frage 2.2
+
+An welchen Konsortialfinanzierungen kann sich die IFB nach Auffassung des Senats über die in Drs. 20/6335 definierten Vorgaben beteiligen?
+
+#### Antwort zu Fragen 2, 2.1 und 2.2
 
 Gemäß § 4 Absatz1 Gesetz über die Hamburgische Investitions- und Förderbank (IFBG) gehört zu den Aufgaben der IFB die Infrastrukturförderung. Gemäß § 5 Absatz 1 Nummer 2 IFBG kann sich die IFB zur Durchführung ihrer Förderaufgaben an Konsortialfinanzierungen beteiligen. Die Konsortialfinanzierung ist ein bei allen Förderbanken einschließlich der KfW und der EIB gängiges Instrumentarium. Durch die Einbindung der IFB verbleiben die Zinseinnahmen in der Stadt. Die Beteiligung der IFB erfolgte auf Anfrage der Konsortialführerin. Im Übrigen siehe Drs. 21/1786.
 

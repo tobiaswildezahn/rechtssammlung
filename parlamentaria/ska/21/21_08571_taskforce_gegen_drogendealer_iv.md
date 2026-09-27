@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 19
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5611", "21/6363", "21/6943"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57295"
@@ -142,7 +143,7 @@ Wie viele Personen wurden im Zeitraum 01.12. bis 31.12.16 dem Haftrichter vorgef
 
 Gegen wie viele Personen wurde im Zeitraum 01.12. bis 31.12.16 ein Haftbefehl erlassen? Gegen wie viele im Zeitraum 01.01. bis 31.03.17?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Maßnahme  
 Zeitraum  

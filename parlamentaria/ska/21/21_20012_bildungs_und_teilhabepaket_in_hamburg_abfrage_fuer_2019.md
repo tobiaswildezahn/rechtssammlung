@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15961"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69772"
@@ -61,7 +62,7 @@ Wie viele Kinder und Jugendliche, die 2019 schulpflichtig waren, kamen aus Famil
 
 Wie viele Familien haben im Jahr 2019 staatliche Hilfe für ihre schulpflichtigen Kinder in Anspruch genommen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Zahlen über Inanspruchnahmen für das Jahr 2019 stehen derzeit noch nicht zur Verfügung, da das Geschäftsjahr erst zum Ende Februar 2020 abgeschlossen sein wird. Im Übrigen siehe Vorbemerkung.
 
@@ -73,7 +74,7 @@ Wie hoch belief sich im Jahr 2019 der Anteil von Familien, in denen die Eltern n
 
 Wie hat sich die Anzahl solcher Familien im Vergleich zu 2018 verändert?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/15961.
 

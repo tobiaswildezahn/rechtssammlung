@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10713", "20/12594"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48498"
@@ -55,7 +56,7 @@ Welche Kosten entstehen der öffentlichen Hand bei der Entsorgung je Fahrrad bez
 
 Aus welchen Mitteln werden diese Kosten aufgebracht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 20/10713 und 20/12594.
 

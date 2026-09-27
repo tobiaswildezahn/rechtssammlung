@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62761"
@@ -51,7 +52,7 @@ d) Umsätze durch Vermittlung der Hamburg-Card
 e) Umsätze durch Messen wie ITB
 f) Umsätze durch Kooperationen
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Umsatzentwicklung Hamburg Tourismus GmbH (Darstellung in tausend Euro):
 

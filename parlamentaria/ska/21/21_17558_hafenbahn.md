@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67155"
@@ -80,6 +81,6 @@ Welche Steigerung des Schienengütertransports im Hafen wird für den Rest des J
 
 Welche Steigerung des Schienengütertransports im Hafen wird für das Jahr 2020 erwartet?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Es wird ein weiteres Wachstum der Schienenverkehre im Vergleich zum Gesamtverkehrsaufkommen erwartet. Belastbare Prognosewerte können derzeit nicht genannt werden. Im Übrigen siehe Vorbemerkung.

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 22
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1289", "21/3075", "20/10738"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56901"
@@ -125,7 +126,7 @@ Unterfällt das „Lampedusa-Zelt“ auf dem Steindamm nach wie vor als „Dauer
 
 Wie betrachtet der Senat den Verbleib des Zeltes in der Zukunft?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Drs. 21/3075.
 

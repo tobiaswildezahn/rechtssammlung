@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2241", "21/1803", "21/1543", "21/1496", "21/1529", "21/478"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50526"
@@ -43,7 +44,7 @@ Wann wird der Senat der Bürgerschaft die entsprechende Drucksache zuleiten?
 
 Inwiefern ist es vorgesehen/möglich, dass Bürgerschaftsabgeordnete beziehungsweise Mitarbeiter der Bürgerschaftsfraktionen Einsicht in alle Dokumente nehmen können, die im Zusammenhang mit dem Vergabeverfahren der City-Hochhäuser stehen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/2241.
 
@@ -55,7 +56,7 @@ In §7 Absatz 1 des Denkmalschutzgesetz der Freien und Hansestadt Hamburg heißt
 
 In der Stellungnahme der Kulturbehörde zum Denkmalwert der City- Hochhäuser heißt es: „Die Erhaltung des Komplexes City-Hof liegt im öffentlichen Interesse…“. Wie begründet der Senat, dass er trotz dieser Stellungnahme nun gegen das „öffentliche Interesse“ verstößt.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/1803.
 
@@ -67,7 +68,7 @@ Aus welchen Gründen hat sich der Senat für ein Bieterverfahren mit zwei Altern
 
 Nachdem die Finanzbehörde am 3. November eine Entscheidung hinsichtlich der Vergabe der City-Hochhäuser getroffen hat, sind Gründe für die weitere Wahrung seiner Verhandlungsposition nicht erkennbar. Somit stellen sich folgende Fragen aus Drs. 21/1543 erneut: a. Aus welchen konkreten Gründen wurde der Bieter mit dem Sanierungskonzept aus dem Verfahren ausgeschlossen? Bitte konkret angeben, gegen welche Vergabekriterien beziehungsweise Mindestanforderungen der Bieter verstoßen haben soll?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/1496.
 
@@ -91,6 +92,6 @@ Laut der Pressemeldung des Senats vom 3. November 2015 wurde das AUG.-PRIEN-Kons
 
 Wie sah das Angebot vom Konsortium Matrix HOCHTIEF hinsichtlich: a. Preis, b. Leistungsfähigkeit, c. Stadtwirtschaftliche Effekte / Arbeitsplätze, d. Nutzungskonzept, e. Städtebau aus? Bitte Angaben auch für die in der Bewertungsmatrix genannten Unterkategorien (beispielsweise Kaufpreis, Integration kulturelle Nutzungen oder Stellplätze) machen.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/2241.

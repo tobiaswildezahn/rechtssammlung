@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60965"
@@ -41,11 +42,11 @@ Die vom Bund (BAST) und die von Hamburg (BVWI) dargestellten Daten unterscheiden
 
 ## Einleitung für die Antworten des Senats
 
- Bei den von Hamburg dargestellten Daten wird eine Tausender-Rundung vorgenommen. Wenn also beispielsweise beim durchschnittlichen täglichen Verkehr an Werktagen (DTVw) eine Zunahme von 8.000 auf 9.000 ausgewiesen wird, kann dahinter eine Steigerung von 7.501 auf 9.499, (1.998 Kfz) stehen, also eine Steigerung um 26,5 Prozent, aber auch eine unmerkliche Zunahme von 8.499 auf 8.501 (zwei Kfz) und damit 0,0002 Prozent. Bei den Bundesdaten gibt es keine Rundung.
+– Bei den von Hamburg dargestellten Daten wird eine Tausender-Rundung vorgenommen. Wenn also beispielsweise beim durchschnittlichen täglichen Verkehr an Werktagen (DTVw) eine Zunahme von 8.000 auf 9.000 ausgewiesen wird, kann dahinter eine Steigerung von 7.501 auf 9.499, (1.998 Kfz) stehen, also eine Steigerung um 26,5 Prozent, aber auch eine unmerkliche Zunahme von 8.499 auf 8.501 (zwei Kfz) und damit 0,0002 Prozent. Bei den Bundesdaten gibt es keine Rundung.
 
- Auf der Bundesebene werden neben den globalen Zahlen komplexe Auswertungen der Stundenergebnisse veröffentlicht, aus denen erhebliche Rückschlüsse für die Tages- und Nachtbelastung, die Belastung durch Pendlerverkehr und so weiter gezogen werden können (http://www.bast.de/DE/Verkehrstechnik/Fachthemen/v2- verkehrszaehlung/pdf-dateien/datensatzbeschreibung- Stundendaten.pdf?__blob=publicationFile&v=3). Bei von Hamburg dargestellten Stunden sind keine Stundenergebnisse zu finden.
+– Auf der Bundesebene werden neben den globalen Zahlen komplexe Auswertungen der Stundenergebnisse veröffentlicht, aus denen erhebliche Rückschlüsse für die Tages- und Nachtbelastung, die Belastung durch Pendlerverkehr und so weiter gezogen werden können (http://www.bast.de/DE/Verkehrstechnik/Fachthemen/v2- verkehrszaehlung/pdf-dateien/datensatzbeschreibung- Stundendaten.pdf?__blob=publicationFile&v=3). Bei von Hamburg dargestellten Stunden sind keine Stundenergebnisse zu finden.
 
- In Bezug auf den Schwerverkehr (SV) werden in der Hamburger Datei lediglich Prozentwerte genannt, während die BAST-Zahlen absolute Zahlen nennen.
+– In Bezug auf den Schwerverkehr (SV) werden in der Hamburger Datei lediglich Prozentwerte genannt, während die BAST-Zahlen absolute Zahlen nennen.
 
 Vor diesem Hintergrund frage ich den Senat:
 

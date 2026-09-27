@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15608"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65239"
@@ -72,7 +73,7 @@ Welche genauen finanziellen Auswirkungen ergeben sich durch den Anteilserwerb au
 
 Welche genauen finanziellen Auswirkungen hat die Einstellung der von BIOWERK betriebenen Biogasanlage auf die Gesellschaft sowie die Stadtreinigung Hamburg AöR?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Durch den Erwerb der Biogasanlage und den geplanten Rückbau entstehen der SRH voraussichtlich Kosten in Höhe von circa 1 100 000 Euro. Die Kosten für den Anteilserwerb und den Rückbau von BIOWERK werden durch die Kostenvorteile für das ZRE mehr als kompensiert.
 

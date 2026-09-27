@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61124"
@@ -75,7 +76,7 @@ Sind dem Senat oder der zuständigen Behörde Vakanzen in Bezug auf Schulleiter 
 
 Sollten Vakanzen bestehen: Gibt es konkrete Pläne oder Strategien, um die bestehenden Vakanzen zu besetzen? Wenn ja, bitte im Detail erläutern. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Zu besetzende Leitungsstellen werden regelhaft rechtzeitig zur Wiederbesetzung ausgeschrieben und in der Regel zeitnah besetzt. In allen Fällen ist eine enge Abstimmung mit der jeweils zuständigen Schulaufsicht gewährleistet. Im Übrigen siehe Anlage.
 

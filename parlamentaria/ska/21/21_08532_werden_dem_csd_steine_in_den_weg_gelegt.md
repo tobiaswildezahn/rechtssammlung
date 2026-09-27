@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 28
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57245"
@@ -87,7 +88,7 @@ Welche Möglichkeiten hat der Senat, die geplanten Nutzungen trotz der ablehnend
 
 Wie beurteilt der Senat die Höhe der erhobenen Entgelte für die Nutzung des Heinrich-Hertz-Turms?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Senat hat sich damit bislang nicht befasst.
 

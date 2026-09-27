@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 29
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15722", "21/16420", "20/12430"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66561"
@@ -226,7 +227,7 @@ Wurden den Mitgliedern der Freiwilligen Feuerwehren Hamburg im Bereich Nord seit
 
 Wenn ja, bei welcher Wehr in welcher Höhe und aus welchem Grund?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Ja.
 

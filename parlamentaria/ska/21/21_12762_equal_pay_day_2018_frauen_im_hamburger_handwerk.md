@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 12
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12071", "21/6704", "21/10281", "21/5832", "21/10523"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62132"
@@ -106,23 +107,23 @@ c. Wie viele Gesellinnen wurden von den aufstiegsbegleitenden Maßnahmen bisher 
 
 Im Jahr 2017 wurden 35 Gesellinnen individuell beraten, wovon sich 15 zu einem Meistervorbereitungskurs angemeldet haben. Hierbei handelt es sich um folgende Gewerke:
 
- Elektronikerin
+– Elektronikerin
 
- Zwei Mal Feinwerkmechanikerin
+– Zwei Mal Feinwerkmechanikerin
 
- Friseurin
+– Friseurin
 
- Drei Mal Konditorin
+– Drei Mal Konditorin
 
- Drei Mal Kraftfahrzeugmechanikerin
+– Drei Mal Kraftfahrzeugmechanikerin
 
- Maßschneiderin
+– Maßschneiderin
 
- Raumausstatterin
+– Raumausstatterin
 
- Zwei Mal Tischlerin
+– Zwei Mal Tischlerin
 
- Zahntechnikerin
+– Zahntechnikerin
 
 ### Frage 4
 
@@ -142,25 +143,25 @@ Laut Masterplan Handwerk hat sich im Sommer 2016 ein Frauen-Netzwerk gegründet,
 
 Folgende Veranstaltungen wurden im Rahmen des Frauen-Netzwerkes durchgeführt:
 
- 12. Oktober 2016: Workshop zur Erarbeitung der Wünsche und Vorstellungen der
+– 12. Oktober 2016: Workshop zur Erarbeitung der Wünsche und Vorstellungen der
 
 Frauen für das Netzwerk, Ergebnisse des Workshops: Schwerpunkt Marketing, Kontakte knüpfen/Austausch/Kooperationen, Weiterbildung (insbesondere Verhandlungsführung und Rhetorik), Frauen im Handwerk stärken (15 Teilnehmerinnen).
 
- 25. Januar 2017: Professionelle Webseitengestaltung (17 Teilnehmerinnen).
+– 25. Januar 2017: Professionelle Webseitengestaltung (17 Teilnehmerinnen).
 
- 26. April 2017: Teilnahme an der Veranstaltung des Digitalisierungsprojekts „Digi-
+– 26. April 2017: Teilnahme an der Veranstaltung des Digitalisierungsprojekts „Digi-
 
 tale Büroorganisation“ (19 Teilnehmerinnen).
 
- 9. August 2017 Verhandlungsführung nach dem Harvard-Prinzip (18 Teilnehmerin-
+– 9. August 2017 Verhandlungsführung nach dem Harvard-Prinzip (18 Teilnehmerin-
 
 nen).
 
- 29. November 2017: Das kleine 1x1 des guten Bildes aus Kundensicht (25 Teil-
+– 29. November 2017: Das kleine 1x1 des guten Bildes aus Kundensicht (25 Teil-
 
 nehmerinnen).
 
- 7. Februar 2018: Arbeitsrecht und Personalmanagement, Schwerpunkt: Inhalt des
+– 7. Februar 2018: Arbeitsrecht und Personalmanagement, Schwerpunkt: Inhalt des
 
 Arbeitsvertrages und das Führen von Mitarbeitergesprächen (19 Teilnehmerinnen).
 
@@ -236,9 +237,9 @@ Laut Drs. 21/12071 war das Durchschnittsalter der Auszubildenden im Handwerk 19,
 
 Das Durchschnittsalter der neuen Auszubildenden im Jahr 2017 im Hamburger Handwerk war wie folgt:
 
- Männer: 19,9 Jahre
+– Männer: 19,9 Jahre
 
- Frauen: 20,2 Jahre
+– Frauen: 20,2 Jahre
 
 Die Differenz liegt im Rahmen der normalen Schwankungen.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12197", "18/433", "21/7374"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65014"
@@ -42,7 +43,7 @@ März 2018 (Drs. 21/12197) über die Situation im Jahre 2017 berichtet. Vor dies
 
 Wie haben sich die Zahlen im Vergleich zum Jahr 2017 entwickelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Polizei wertet Ordnungswidrigkeitenverfahren gemäß § 24 a Absatz 2 des Straßenverkehrsgesetzes (StVG) in ihrer Gesamtheit und nicht unter dem Kriterium „Verkehrskontrolle“ aus.
 
@@ -133,7 +134,7 @@ Welche Geldbußen wurden diebsbezüglich durchschnittlich und innerhalb welcher 
 
 In wie vielen Fällen wurden 2018 (Stichtag 30. November 2018) zusätzlich Fahrverbote verhängt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Bußgeldregelsätze und Fahrverbote bei Verstößen von Kraftfahrzeugführern unter der Wirkung von Alkohol und berauschenden Mitteln nach § 24 a StVG sind in der bundeseinheitlichen Bußgeldkatalog-Verordnung (BKatV) geregelt. Die Höhe der Geldbußen, die Anzahl an verhängten Fahrverboten sowie Fallzahlen sind den beiden Tabellen zu entnehmen.
 
@@ -197,7 +198,7 @@ Durch welche konkreten, gegebenenfalls neuen Maßnahmen hat der Senat in 2018 (S
 
 Welche neuen Maßnahmen sind kurz-, mittel- und langfristig geplant, um die Anzahl der begangenen Ordnungswidrigkeiten nach § 24 a StVG zu verringern und die Sicherheit im Straßenverkehr weiter zu erhöhen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Polizei hat im Jahr 2018 weitere 43 Polizeibeamtinnen und Polizeibeamte nach bestandener Prüfung für das Programm SFT (Standardisierter Fahrtüchtigkeitstest) zertifiziert. Im Übrigen siehe Drs. 21/12197.
 

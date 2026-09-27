@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13830", "21/11748"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63876"
@@ -121,7 +122,7 @@ Wie viele Nebentätigkeiten sind ehrenamtlicher Art (bitte differenziert darstel
 
 Um welche vergüteten Ehrenämter handelt es sich dabei, welche Ehrenämter machen welchen Anteil aus (beispielsweise Kursleitung bei einem Sportverein, Lehrauftrag an einer Hochschule oder Volkshochschule, Schöffen/-innen, Wahlhelfer/-innen et cetera)?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/11748.
 

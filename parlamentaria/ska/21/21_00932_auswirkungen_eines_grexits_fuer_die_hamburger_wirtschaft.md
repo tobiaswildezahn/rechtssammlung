@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49097"
@@ -71,7 +72,7 @@ j. den öffentlichen Haushalt der Freien und Hansestadt Hamburg?
 
 Welche Branchen in Hamburg wären besonders durch einen Grexit betroffen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Antwort zu 1. Im Übrigen ist wegen des international begrenzten Gewichts der griechischen Volkwirtschaft davon auszugehen, dass auch eine weitere Verschärfung der Wirtschaftskrise in Griechenland realwirtschaftlich keine spürbaren internationalen Auswirkungen entfalten würde. Das gilt angesichts der geringen Intensität der außenwirtschaftlichen Verflechtung mit Griechenland auch im Hinblick auf Hamburg: So bewegt sich der Anteil Griechenlands am gesamten Hamburger Außenhandel im niedrigen Promillebereich (Anteil am Gesamtexport 2013: 0,24 Prozent; Anteil am Gesamtimport Hamburgs 2013: 0,14 Prozent).
 

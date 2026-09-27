@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69939"
@@ -250,7 +251,7 @@ Wie hoch ist die Grundlast Hamburgs an einem durchschnittlichen Werktag, samstag
 
 Wie hoch ist die Höchstlast Hamburgs an Werktagen, samstags und sonntags zu verschiedenen Tages- und Jahreszeiten?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Verlauf schwankt kontinuierlich zwischen etwa 900 MW und 1 300 MW je nach Tages- und Jahreszeit. Eine statistische Auswertung erfolgt bei der SNH dazu nicht.
 
@@ -280,7 +281,7 @@ Inwieweit führt die Versorgung Hamburgs mit Strom aus regenerativen Energien zu
 
 Wie wird diesen Problemen begegnet (Stichwort Speicherkapazitäten, Zukauf aus dem Ausland et cetera)?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Bisher sind im Verteilernetz Hamburg keine Beeinträchtigungen bekannt.
 

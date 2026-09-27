@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 19
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4858", "21/5262", "21/6439", "21/4064"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56139"
@@ -73,7 +74,7 @@ Mit welchen Mitteln setzt der Senat sich dafür ein, dass die Hafenverwaltungen 
 
 Wurde bereits durch die betreffenden Hafenverwaltungen eine Kommission gebildet, die sich der oben genannten Aufgaben annimmt? Wenn ja, wie setzt sich diese Kommission zusammen? Wenn, warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Abschließende lokale Zulassungsregelungen sind erst dann sachgerecht, wenn einheitliche internationale Vorgaben feststehen. Alle Regelungen bezüglich Zulassung, Bunkern oder Löschen werden derzeit auf internationaler Ebene diskutiert und entwickelt, zum Beispiel im Environmental Sustainable Shipping Forum (ESSF), der European Maritime Safety Agency (EMSA), der International Association of Ports and Harbours (IAPH) oder der International Organisation for Standardization (ISO).
 

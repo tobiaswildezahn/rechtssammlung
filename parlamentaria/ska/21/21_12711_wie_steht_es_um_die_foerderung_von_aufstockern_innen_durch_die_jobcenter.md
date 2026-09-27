@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62016"
@@ -51,7 +52,7 @@ Wie hoch waren 2016, 2017 und 2018 die Ausgaben für Eingliederungsleistungen un
 
 Bitte die Zahlen aus Frage 1. aufschlüsseln nach den dem Jobcenter zur Verfügung stehenden Instrumenten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Ausgaben für Eingliederungsleistungen und Beschäftigungspakte für die Jahre 2016, 2017 und 2018 aufgeteilt nach Instrumenten können der Anlage entnommen werden. Es handelt sich ausschließlich um Bundesmittel.
 

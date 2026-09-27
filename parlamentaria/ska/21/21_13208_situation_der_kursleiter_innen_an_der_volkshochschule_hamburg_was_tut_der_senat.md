@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 19
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62547"
@@ -122,7 +123,7 @@ Wie viele VHS-Kursleiter/-innen erhielten/erhalten seit 2015 bis heute (Stand 28
 
 Wie viele VHS-Kursleiter/-innen erhielten/erhalten seit 2015 bis heute (Stand 28.5.2018) für Ihre Tätigkeit mehr als 17.500 Euro pro Jahr? (Bitte für jedes Kalenderjahr einzeln, in absoluten Zahlen und in Prozent, in einer Excel-Tabelle angeben.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Jahr Anzahl Kursleitende
 
@@ -177,7 +178,7 @@ In einem offenen Brief richtete die gewählte Kursleiter-Vertretung der VHS Hamb
 
 Bezogen auf Frage 7.: Erkennen Senat und zuständige Fachbehörde die beschriebenen Sachverhalte und die mit ihnen einhergehenden Forderungen als berechtigt an? Wenn ja, wie genau plant der Senat/die zuständige Fachbehörde diesen zu entsprechen? a. Falls nein, mit welcher sachlichen und fachlichen Begründung nicht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der Senat hat seit 2014 kontinuierlich die Honorare der VHS-Kursleitenden angehoben. Dies wird auch in den Folgejahren fortgesetzt.
 

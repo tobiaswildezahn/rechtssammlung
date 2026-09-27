@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7515"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56546"
@@ -151,11 +152,11 @@ Wie hoch war der Anteil des Radverkehrs am Verkehrsaufkommen jeweils in den Jahr
 
 Die Anteile des Radverkehrs betrugen am 30. Juni 2015 (in der Zählzeit von 6 bis 19 Uhr):
 
- Harvestehuder Weg, nordwestlich Krugkoppel: circa 29 Prozent,
+– Harvestehuder Weg, nordwestlich Krugkoppel: circa 29 Prozent,
 
- Harvestehuder Weg, südöstlich Krugkoppel: circa 65 Prozent,
+– Harvestehuder Weg, südöstlich Krugkoppel: circa 65 Prozent,
 
- Harvestehuder Weg, nördlich Alte Rabenstraße: circa 72 Prozent.
+– Harvestehuder Weg, nördlich Alte Rabenstraße: circa 72 Prozent.
 
 Zählungen des LSBG im Harvestehuder Weg, nördlich Alte Rabenstraße:
 
@@ -208,11 +209,11 @@ Wie hoch war der Anteil des motorisierten Verkehrs am Verkehrsaufkommen jeweils 
 
 Die Anteile des motorisierten Verkehrs betrugen am 30. Juni 2015 (in der Zählzeit von 6 bis 19 Uhr):
 
- Harvestehuder Weg, nordwestlich Krugkoppel: circa 71 Prozent,
+– Harvestehuder Weg, nordwestlich Krugkoppel: circa 71 Prozent,
 
- Harvestehuder Weg, südöstlich Krugkoppel: circa 35 Prozent,
+– Harvestehuder Weg, südöstlich Krugkoppel: circa 35 Prozent,
 
- Harvestehuder Weg, nördlich Alte Rabenstraße: circa 28 Prozent.
+– Harvestehuder Weg, nördlich Alte Rabenstraße: circa 28 Prozent.
 
 Zählungen des LSBG im Harvestehuder Weg, nördlich Alte Rabenstraße:
 
@@ -265,11 +266,11 @@ Wie hoch war das Radverkehrsaufkommen in absoluten Zahlen in den Jahren 2015 und
 
 Das Radverkehrsaufkommen betrug am 30. Juni 2015 (in der Zählzeit von 6 bis 19 Uhr):
 
- Harvestehuder Weg, nordwestlich Krugkoppel: 4.116 Radfahrende (RF),
+– Harvestehuder Weg, nordwestlich Krugkoppel: 4.116 Radfahrende (RF),
 
- Harvestehuder Weg, südöstlich Krugkoppel: 6.976 RF,
+– Harvestehuder Weg, südöstlich Krugkoppel: 6.976 RF,
 
- Harvestehuder Weg, nördlich Alte Rabenstraße: 5.993 RF.
+– Harvestehuder Weg, nördlich Alte Rabenstraße: 5.993 RF.
 
 Zählungen des LSBG im Harvestehuder Weg, nördlich Alte Rabenstraße:
 
@@ -322,11 +323,11 @@ Wie hoch war das Verkehrsaufkommen des motorisierten Verkehrs in absoluten Zahle
 
 Das Aufkommen des motorisierten Verkehrs betrug am 30. Juni 2015 (in der Zählzeit von 6 bis 19 Uhr):
 
- Harvestehuder Weg, nordwestlich Krugkoppel: 9.841 Kraftfahrzeuge (Kfz),
+– Harvestehuder Weg, nordwestlich Krugkoppel: 9.841 Kraftfahrzeuge (Kfz),
 
- Harvestehuder Weg, südöstlich Krugkoppel: 3.805 Kfz,
+– Harvestehuder Weg, südöstlich Krugkoppel: 3.805 Kfz,
 
- Harvestehuder Weg, nördlich Alte Rabenstraße: 2.287 Kfz.
+– Harvestehuder Weg, nördlich Alte Rabenstraße: 2.287 Kfz.
 
 Zählungen des LSBG im Harvestehuder Weg, nördlich Alte Rabenstraße:
 
@@ -387,19 +388,19 @@ benutzten?
 
 Die Nutzung von Geh- und Radweg wurde bei der Zählung am 30. Juni 2015 nicht getrennt erfasst. Der Anteil der Radfahrenden, die die Nebenflächen (Geh- und Radweg) nutzten, betrug am 30. Juni 2015 (in der Zählzeit von 6 bis 19 Uhr):
 
- Harvestehuder Weg, nordwestlich Krugkoppel: circa 81 Prozent,
+– Harvestehuder Weg, nordwestlich Krugkoppel: circa 81 Prozent,
 
- Harvestehuder Weg, südöstlich Krugkoppel: circa 89 Prozent,
+– Harvestehuder Weg, südöstlich Krugkoppel: circa 89 Prozent,
 
- Harvestehuder Weg, nördlich Alte Rabenstraße: circa 60 Prozent.
+– Harvestehuder Weg, nördlich Alte Rabenstraße: circa 60 Prozent.
 
 Der Anteil der Radfahrenden, die die Fahrbahn benutzten, betrug am 30. Juni 2015 (in der Zählzeit von 6 bis 19 Uhr):
 
- Harvestehuder Weg, nordwestlich Krugkoppel: circa 19 Prozent,
+– Harvestehuder Weg, nordwestlich Krugkoppel: circa 19 Prozent,
 
- Harvestehuder Weg, südöstlich Krugkoppel: circa 11 Prozent,
+– Harvestehuder Weg, südöstlich Krugkoppel: circa 11 Prozent,
 
- Harvestehuder Weg, nördlich Alte Rabenstraße: circa 40 Prozent.
+– Harvestehuder Weg, nördlich Alte Rabenstraße: circa 40 Prozent.
 
 Bei den Zählungen des LSBG wurden die Radfahrenden getrennt erfasst. Der „Gehweg“ ist in diesem Bereich unbefestigt und gehört zur Grünanlage des Alsterparks.
 

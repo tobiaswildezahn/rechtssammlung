@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3511", "21/5074", "21/6244"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57105"
@@ -47,7 +48,7 @@ Welche Maßnahmen sind im Zusammenhang mit dem Antrag Drs. 21/5074 von der HADAG
 
 Zu welchem Zeitpunkt sind diese Maßnahmen umgesetzt worden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Auf der Linie 62 wurde ab dem 23. Juli 2016 an Wochenenden und Feiertagen in der Zeit von 11 bis 18 Uhr ein außerplanmäßiger Zehn-Minuten-Takt eingerichtet. Es werden gezielt Schiffe eingesetzt, die ohne Einstieg an den Landungsbrücken die anderen Anleger ansteuern, um die dort wartenden Fahrgäste aufzunehmen. An diesen Tagen setzt die HADAG zudem Schiffe mit drei Besatzungsmitgliedern ein, die für 380 Fahrgäste zugelassen sind.
 

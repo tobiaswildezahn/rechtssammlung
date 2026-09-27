@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11459"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63516"
@@ -97,7 +98,7 @@ In wie vielen Fällen hat der Senat Kenntnis davon, dass die Ausgereisten ums Le
 
 Ist dem Senat bekannt, ob die ausgereisten Frauen während ihres Aufenthalts beim IS Straftaten begangen haben?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/11459.
 

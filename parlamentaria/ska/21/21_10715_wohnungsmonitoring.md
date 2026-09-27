@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9491"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59617"
@@ -57,7 +58,7 @@ Wie viele Wohnungen waren davon preisgebundene Wohnungen (1. beziehungsweise 2. 
 
 Wie viele Eigentumswohnungen beziehungsweise -häuser gab es?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Zum Stichtag 31.12.2016 gab es in Hamburg 84.122 preisgebundene Wohnungen. Davon waren 83.767 dem 1. Förderweg und 355 Wohnungen dem 2. Förderweg zuzuordnen. Im Übrigen liegen statistische Daten nicht vor.
 
@@ -71,7 +72,7 @@ Für wie viele Wohnungen wurden Bauanträge eingereicht und wie war dabei die Au
 
 Für wie viele Wohnungen wurden Abrissanträge gestellt beziehungsweise wie viele Wohnungen wurden zweckentfremdet?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Zweckentfremdungen von Wohnungen wurden im Jahr 2016 in 532 Fällen ermittelt.
 

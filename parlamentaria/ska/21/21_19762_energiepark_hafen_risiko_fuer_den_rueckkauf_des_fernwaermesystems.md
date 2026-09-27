@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69486"
@@ -68,7 +69,7 @@ Aus welchen einzeln aufgezählten und erläuterten Gründen sind die Investition
 
 Welche Vorteile ergeben sich aus den erhöhten Investitionskosten?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Kostenschätzungen aus dem LBD-Gutachten vom 4. Oktober 2018 und die Kostenschätzungen aus der Präsentation vom 13. September 2019 sind nicht unmittelbar vergleichbar. In den genannten 750 000 000 Euro sind Kostenschätzungen enthalten, die Kooperationen mit öffentlichen Unternehmen und der Industrie betreffen und nicht direkt durch die WH zu tragen sind. Dazu zählen die Industrielle Abwärme, Anlagentechnik in der MVR Müllverwertung Rugenberger Damm GmbH & Co. KG (MVR) und dem Zentrum für Ressourcen und Energie Stellingen (ZRE). Die Investitionen in eigene Anlagen, das Gas- und Dampf-Heizkraftwerk inklusive Power-to-Heat und Kurzzeit- Wärmespeicher und die Südleitung sowie die Anbindung der MVR und des ZRE werden auf 550 000 000 Euro geschätzt.
 
@@ -96,7 +97,7 @@ Kann nach Unterzeichnung des Kaufvertrags und Zahlung des Kaufpreises an Vattenf
 
 Wie hoch ist nach Auffassung des Senats und unter Berücksichtigung der in der Einleitung aufgeführten Erklärungen von Senator Kerstan die Gefahr, dass durch die starke Kostenerhöhung des „Energieparks Hafen“ die Genehmigung der EU hinfällig und damit auch der Kauf der Fernwärme durchaus gefährdet wird?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Es sind zwar theoretische Konstellationen denkbar, in denen aus (EU-)rechtlichen Gründen der Fernwärmerückkauf nach Vollzug möglicherweise rückgängig gemacht werden müsste. Anhaltspunkte dafür liegen den zuständigen Behörden jedoch nicht vor.
 

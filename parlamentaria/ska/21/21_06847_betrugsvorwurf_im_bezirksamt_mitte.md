@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 27
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55409"
@@ -43,7 +44,7 @@ Wurden fiktive Fälle beim ASD Mitte erfunden? Wenn ja, um welche Anzahl handelt
 
 Wie viele Mitarbeiter waren für die Betreuung der betroffenen Fälle zuständig?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die erfragten Angaben sind Gegenstand staatsanwaltlicher Ermittlungen. Der Senat nimmt hierzu öffentlich keine Stellung, um den Erfolg der Ermittlungen nicht zu gefährden.
 
@@ -55,7 +56,7 @@ Sind ähnliche Verdachtsfälle aus anderen Abteilungen oder Behörden bekannt? W
 
 Wann wurde welchen Behörden bekannt, dass möglicherweise durch das Anlegen fiktiver Fälle Gelder veruntreut wurden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage. Die Angaben erfolgen in dem Umfang beziehungsweise der Vollständigkeit und Qualität, die in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit erreichbar sind.
 
@@ -67,7 +68,7 @@ Welche genauen Abteilungen sind betroffen, sollten sich die Vorwürfe bestätige
 
 Um welche Summen aus welchen Ausgabeposten handelt es sich, sollten sich die Vorwürfe bestätigen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antwort zu 1. und 2.
 
@@ -95,7 +96,7 @@ Welche Verfahren werden zum Antragsmanagement und zur Abrechnung der betroffenen
 
 Wie ist der Prozess für Auszahlungen der Freien und Hansestadt Hamburg für die betroffenen Leistungen organisiert? Welche genauen Stellen sind jeweils für Bewilligung, Berechnung, Buchung und Zahlung der Leistungen zuständig? Bitte nach Fachstelle und Prozessschritt aufschlüsseln. Welche Veränderungen wurden an diesen Prozessen in den letzten fünf Jahren wann vorgenommen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 2012 wurde die Software Projuga durch die Software JUS-IT ersetzt, die seitdem unter anderem im Bereich des ASD und der Wirtschaftlichen Jugendhilfe (WJH) der bezirklichen Jugendämter verwendet wird. Die Abrechnung wird in JUS-IT ausgelöst, an das Kassenverfahren der Freien und Hansestadt Hamburg übergeben und von dort zur Auszahlung gebracht. Für HzE auf Grundlage einer Einzelvereinbarung gelten folgende Regelungen: Zur Registrierung einer Person siehe Antwort zu 8. Die Eingabe des Trägers einschließlich der Bankverbindung erfolgt in der Angebotsverwaltung der BASFI im Vier-Augen-Prinzip auf Grundlage eines Antrags aus der Bezirksverwaltung. Die Freigabe erfolgt per Zufallsprinzip durch eine weitere Person. Die Bewilligung einer Leistung erfolgt durch den zuständigen ASD-Mitarbeiter des bezirklichen Jugendamtes. Sie ist durch seinen unmittelbaren Vorgesetzten zu kontrollieren und freizugeben. Die Veranlassung der Auszahlung erfolgt durch einen Mitarbeiter der WJH, der das Vorliegen der formellen Voraussetzungen – in diesem Fall die verfügte Hilfe sowie das Vorliegen einer Rechnung einschließlich der Gegenzeichnung der zuständigen ASD-Fachkraft – prüft. Die Auszahlungsverfügung unterliegt einem Stichprobenkontrollverfahren. Die dargestellten Regelungen sind im Rahmen des Kassengenehmigungsverfahrens zu JUS-IT mit der Finanzbehörde und dem Rechnungshof nach Durchführung einer Risikoanalyse abgestimmt worden und in der Verfahrensbeschreibung zu JUS-IT dokumentiert.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52705"
@@ -55,7 +56,7 @@ Zu wann sind die fünf Proberichter/innen ernannt worden?
 
 Wo sind sie bislang seitdem jeweils für wie lange eingesetzt worden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Ernennungs- und Einsatzzeitpunkte können der nachstehenden Tabelle entnommen werden:
 
@@ -117,7 +118,7 @@ Welche Erkenntnisse liegen der zuständigen Behörde über die Akzeptanz des Ric
 
 Welche Änderungen sind gegebenenfalls geplant?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Richterinnen und Richter, die im Richterpool geführt werden, haben den gleichen persönlichen Status wie die übrigen Proberichterinnen und Proberichter.
 

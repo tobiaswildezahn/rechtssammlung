@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 2
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2161"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52542"
@@ -40,11 +41,11 @@ März 2010 wurde die entsprechende Richtlinie des EU-Parlaments und des Rates zu
 
 #### Antwort zu Frage 2
 
- Verwaltungszwecke,
+– Verwaltungszwecke,
 
- Präventionszwecke oder
+– Präventionszwecke oder
 
- Strafverfolgungszwecke
+– Strafverfolgungszwecke
 
 zum Inhalt hatten?
 
@@ -62,6 +63,6 @@ Welche unter 1. und 2. aufgeführten Gesetze und Verordnungen werden auch auf ni
 
 Welche Gesetze und Verordnungen wurden seit dem 2. März 2010 in Hamburg erlassen oder geändert, die nicht in Deutschland lebende Personen betreffen, und bei denen die Speicherung personenbezogener Daten vorgesehen ist? Bitte mit Datum, Quellenverweis und Art der gespeicherten Daten aufführen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 In Hamburg beschlossene Gesetze und erlassene Verordnungen sind im Hamburgischen Gesetz- und Verordnungsblatt (HmbGVBl.) veröffentlicht. Zur Änderung rechtlicher Vorschriften im Sinne der Fragestellung siehe http://www.luewu.de/gvbl.

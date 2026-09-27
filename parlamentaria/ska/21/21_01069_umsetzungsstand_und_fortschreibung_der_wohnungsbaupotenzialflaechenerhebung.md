@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49243"
@@ -107,47 +108,47 @@ Im Bezirk Hamburg-Mitte wurde die Potenzialfläche im Wohnungsbauprogramm 2012 N
 
 Im Bezirk Altona sind die folgenden Flächen aus dem Wohnungsbauprogramm 2012 nicht weiterverfolgt worden:
 
- Altona-Altstadt | Gerberstraße (B01) (Spielplatz)
+– Altona-Altstadt | Gerberstraße (B01) (Spielplatz)
 
- Bahrenfeld | Gasstraße (PSS A4) (gewerbliche Fläche)
+– Bahrenfeld | Gasstraße (PSS A4) (gewerbliche Fläche)
 
- Iserbrook | Hasenhöhe, Sülldorfer Landstr. (C03) (überörtlich bedeutende Grün-
+– Iserbrook | Hasenhöhe, Sülldorfer Landstr. (C03) (überörtlich bedeutende Grün-
 
 verbindung)
 
- Iserbrook | Osdorfer Landstraße 380 (N 1888) (langfristig vermietete Fläche – „Zir-
+– Iserbrook | Osdorfer Landstraße 380 (N 1888) (langfristig vermietete Fläche – „Zir-
 
 kus“)
 
- Lurup | Luruper Hauptstraße 120 (PSS A6) (Science-Park)
+– Lurup | Luruper Hauptstraße 120 (PSS A6) (Science-Park)
 
- Osdorf | Hemmingstedter Weg (C10) (Bürgerbegehren)
+– Osdorf | Hemmingstedter Weg (C10) (Bürgerbegehren)
 
- Osdorf | Bornheide (N 1903) (Bestand: Spielhaus)
+– Osdorf | Bornheide (N 1903) (Bestand: Spielhaus)
 
- Osdorf | Tönninger Weg, Bootsweg (N 36) (Bebauung bereits erfolgt beziehungs-
+– Osdorf | Tönninger Weg, Bootsweg (N 36) (Bebauung bereits erfolgt beziehungs-
 
 weise langfristig)
 
- Ottensen | Bülowstraße 9 (N2316) (gegebenenfalls Schulerweiterungsfläche)
+– Ottensen | Bülowstraße 9 (N2316) (gegebenenfalls Schulerweiterungsfläche)
 
- Sternschanze | Ludwigstraße (B21) (Schulhoffläche, Stellplätze)
+– Sternschanze | Ludwigstraße (B21) (Schulhoffläche, Stellplätze)
 
- Nienstedten | Elbuferweg (ITW 03) (Fluglärmproblematik)
+– Nienstedten | Elbuferweg (ITW 03) (Fluglärmproblematik)
 
- Ottensen | Zeise II (C16) (gewerbliche Fläche)
+– Ottensen | Zeise II (C16) (gewerbliche Fläche)
 
- Altona-Altstadt | Carsten-Rehder-Schule ( Schulfläche)
+– Altona-Altstadt | Carsten-Rehder-Schule ( Schulfläche)
 
 Im Bezirk Eimsbüttel sind die entfallenen Flächen in den jeweiligen Wohnungsbauprogrammen (siehe Vorbemerkung) dargestellt. Die Fläche „3.001“ entfiel, da aufgrund von unter anderem bestehenden Lichtrechten eine Umsetzung derzeit nicht möglich ist. Die Fläche ist nichtsdestotrotz weiterhin für den Wohnungsbau grundsätzlich geeignet.
 
 Einzelne Beispiele für solche Flächen im Bezirk Hamburg-Nord sind:
 
- Der Bebauungsplan „Barmbek-Nord 17“ (nördlich S-Bahnhof Barmbek), wo auf-
+– Der Bebauungsplan „Barmbek-Nord 17“ (nördlich S-Bahnhof Barmbek), wo auf-
 
 grund zu hoher Lärmimmissionen durch S- und Güterbahn die Entscheidung für die Ansiedlung der VBG-Zentrale fiel, und
 
- Die Fläche Essener Straße 85, auf der kein Verzicht auf die planrechtlich festge-
+– Die Fläche Essener Straße 85, auf der kein Verzicht auf die planrechtlich festge-
 
 setzte öffentliche Parkanlage erfolgt.
 
@@ -157,15 +158,15 @@ Im Bezirk Bergedorf gab es keine solchen Fälle.
 
 Im Bezirk Harburg wurden nur wenige Flächen ohne Nutzung des Potenzials wieder aus dem Wohnungsbauprogramm gestrichen, Beispiele sind:
 
- Hausbruch | Hausbrucher Bahnhofstraße 39 – Das ohnehin sehr kleine Nachver-
+– Hausbruch | Hausbrucher Bahnhofstraße 39 – Das ohnehin sehr kleine Nachver-
 
 dichtungspotenzial entfiel an dieser Stelle zugunsten des Baumerhalts.
 
- Eißendorf | Bünte – Die Nachverdichtungsüberlegungen im Bereich einer beste-
+– Eißendorf | Bünte – Die Nachverdichtungsüberlegungen im Bereich einer beste-
 
 henden SAGA-Siedlung wurden von der SAGA inzwischen wieder verworfen.
 
- Harburger Binnenhafen | ECO-City – Die Fläche wurde wegen der nur schwer zu
+– Harburger Binnenhafen | ECO-City – Die Fläche wurde wegen der nur schwer zu
 
 bewältigenden Lärmimmissionen wieder aus dem Wohnungsbauprogramm genommen. Zwar wird Wohnungsbau an dieser Stelle nicht ausgeschlossen, die Voraussetzungen sind jedoch schwierig. (Hinweis: Diese Fläche war noch im Wohnungsbauprogramm 2014 enthalten und wird in der Auflage 2015 nicht mehr enthalten sein.)
 
@@ -193,23 +194,23 @@ Die Wohnungsbauprogramme beinhalten kurz-, mittel- und langfristig zu entwickeln
 
 Es gibt im Einzelfall vielfältige Gründe dafür, dass Potenzialflächen bislang nicht aktiviert werden konnten. Hierzu zählen zum Beispiel:
 
- hohe Bodenkontaminationen/Altlasten,
+– hohe Bodenkontaminationen/Altlasten,
 
- aufwändige Lärmschutzmaßnahmen,
+– aufwändige Lärmschutzmaßnahmen,
 
- erhöhte Aufwendungen für die Baufreimachung,
+– erhöhte Aufwendungen für die Baufreimachung,
 
- aufwändige Erschließung,
+– aufwändige Erschließung,
 
- komplexe Eigentumsverhältnisse/Eigentümerwechsel,
+– komplexe Eigentumsverhältnisse/Eigentümerwechsel,
 
- fehlende Bereitschaft der Eigentümer,
+– fehlende Bereitschaft der Eigentümer,
 
- Nutzungskonkurrenzen (beispielsweise Kleingärten versus Wohnungsbau),
+– Nutzungskonkurrenzen (beispielsweise Kleingärten versus Wohnungsbau),
 
- erhebliche Konflikte mit betroffenen Nachbarn,
+– erhebliche Konflikte mit betroffenen Nachbarn,
 
- besonders aufwändige Bauleitplanverfahren.
+– besonders aufwändige Bauleitplanverfahren.
 
 Konkrete Restriktionen der einzelnen Flächen sind in den Steckbriefen der einzelnen Wohnungsbauprogramme (siehe Vorbemerkung) aufgeführt.
 
@@ -225,17 +226,17 @@ Im Zuge von Flächenaktivierungen beziehungsweise im Rahmen der Bebauung der Gru
 
 Neben einer grundsätzlichen Ablehnung der Bebauung (zum Beispiel aufgrund des Verlusts von Grün- und Freiflächen) beziehen sich die Befürchtungen von Einwendern aus der Nachbarschaft vornehmlich auf:
 
- die Bebauungsdichte (zu intensive Flächeninanspruchnahme, Art und Maß der
+– die Bebauungsdichte (zu intensive Flächeninanspruchnahme, Art und Maß der
 
 geplanten Bebauung, geringe Abstandsflächen, Verschattung),
 
- eine Wertminderung des eigenen Grundstücks durch neue Nachbarschaften,
+– eine Wertminderung des eigenen Grundstücks durch neue Nachbarschaften,
 
- ein erhöhtes Verkehrsaufkommen, verbunden mit Beeinträchtigung der Wohnquali-
+– ein erhöhtes Verkehrsaufkommen, verbunden mit Beeinträchtigung der Wohnquali-
 
 tät durch Lärm, Staub et cetera, oder
 
- die Verschlechterungen der Entwässerungssituation durch intensivere Bebauung.
+– die Verschlechterungen der Entwässerungssituation durch intensivere Bebauung.
 
 Mit den Konflikten wird, je nach Art und Intensität, differenziert umgegangen. Ziel der Planungsprozesse ist es, im Rahmen der Abwägung der Einzel- und Gemeinwohlinteressen zu einer gerechten und möglichst konsensualen Lösung zu kommen. Neben der Beteiligung bei der Aufstellung neuen Planrechts gemäß Baugesetzbuch (BauGB) beziehen die Bezirksämter beziehungsweise die zuständige Behörde die Nachbarschaft zu einem sehr frühen Zeitpunkt ein, indem sie Workshops und ähnliche Veranstaltungen vor Ort durchführen. Teilweise werden Bürger in Gutachterverfahren beteiligt beziehungsweise es finden Mediationsverfahren statt. Beispiele sind die „Esso- Hochhäuser“ im Bezirk Hamburg-Mitte, die Oktaviostraße in Wandsbek oder der Sportplatzring im Bezirk Eimsbüttel. Diese Maßnahmen führen im Planungsprozess in der Regel zu einer wesentlichen Steigerung der Akzeptanz vor Ort. Im Rahmen der Konfliktbewältigung ist eine Reduzierung der ursprünglich angestrebten Anzahl der Wohneinheiten nicht ausgeschlossen.
 

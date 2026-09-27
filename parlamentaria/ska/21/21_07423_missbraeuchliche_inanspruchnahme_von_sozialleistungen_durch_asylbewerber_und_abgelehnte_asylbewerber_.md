@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 28
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7407"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56035"
@@ -55,7 +56,7 @@ Werden die bei der Registrierung abgegebenen Fingerabdrücke und biometrische Da
 
 Erfolgt eine Überprüfung, ob unter gleichen Fingerabdrücken und identischen biometrischen Daten verschiedene Identitäten geführt werden? Wenn nein, warum nicht? Ist dies technisch und datenschutzrechtlich möglich? Welche Voraussetzungen müssten erfüllt werden, damit diese Überprüfung stattfinden kann? Wenn ja, wie viele Fälle sind bisher bekannt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Daten werden in Echtzeit über das System PIK im Ausländerzentralregister (AZR) und im europäischen System European Dactyloscopy (EURODAC) abgeglichen. Positive Ergebnisse werden während des Registrierungsprozesses im Ankunftszentrum sofort angezeigt. Durch die zentrale Speicherung werden die Identitäten für das Bundesamt für Migration und Flüchtlinge (BAMF), das Bundesverwaltungsamt (BVA), die Bundesagentur für Arbeit (BA), Sicherheitsbehörden, Bundesländer und Kommunen bereitgestellt. Die jeweilige Sachbearbeiterin oder der Sachbearbeiter im Ankunftszentrum, die/der die Registrierung vornimmt, erhält eine Ergebnismeldung über verschiedene Identitäten über das System PIK.
 
@@ -77,7 +78,7 @@ Welche Maßnahmen ergreift der Senat beziehungsweise die zuständige Behörde, u
 
 Welche Kontrollmechanismen stehen dem Senat beziehungsweise den zuständigen Behörden zur Verfügung, um in Hamburg Fälle von missbräuchlichem Bezug von Asylbewerberleistungen zu ermitteln?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Alle Asylsuchenden werden über das System PIK erfasst. Der mehrfache Bezug von Leistungen wird dadurch verhindert. Im Übrigen erfolgt bei der Anspruchsprüfung grundsätzlich in allen Fällen die standardisierte Prüfung der Hilfebedürftigkeit.
 
@@ -95,7 +96,7 @@ Finden stichprobeartige oder regelhafte Überprüfungen mutmaßlich missbräuchl
 
 Wird die missbräuchliche Inanspruchnahme von Sozialleistungen durch Asylbewerber und abgelehnte Asylbewerber ausschließlich anlassbezogen zum Beispiel aufgrund von Verdachtsmomenten oder Hinweisen überprüft? (Bitte erläutern.)
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Identifikationspapiere müssen regelmäßig vorgelegt werden, insbesondere zur Verlängerung der kurzen Gültigkeitsdauer der Leistungsberechtigungen (erforderliche Folgevorsprache) genauso wie bei Veränderungen der persönlichen und/oder wirtschaftlichen Verhältnisse. Die Leistungsvoraussetzungen werden somit regelmäßig neu überprüft. Aus den Kontrollen resultierenden Verdachtsmomenten und sonstigen Hinweisen wird nachgegangen. Im Übrigen siehe Antworten zu 1., 5. und 6.
 

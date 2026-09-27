@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14425", "21/11891", "21/14575", "21/7184"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65161"
@@ -120,7 +121,7 @@ Welche möglichen Maßnahmen wurden durch die AG „Betrug“ erarbeitet?
 
 Wurde das im August 2018 beauftragte Umsetzungskonzept erarbeitet? Falls ja, was umfasst es und wann wurden beziehungsweise werden welche konkreten Maßnahmen ergriffen? Falls nein, weshalb ist es noch immer nicht abgeschlossen und wann wird dies voraussichtlich der Fall sein?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Prozess ist aufgrund der notwendigen Abstimmungen mit den Beteiligten derzeit noch nicht abgeschlossen; im Übrigen siehe Drs. 21/14575.
 
@@ -178,13 +179,13 @@ Der Senat gibt in der Drs. 21/14575 an, dass die Sachbearbeitung Zugriff auf „
 
 Die Polizei setzt folgende Software-Produkte ein:
 
- X-Ways Investigator zur Auswertung von Festplatten und USB-Sticks,
+– X-Ways Investigator zur Auswertung von Festplatten und USB-Sticks,
 
- XRY-Reader und Universal Forensic Extraction Device (UFED)-Reader zur Aus-
+– XRY-Reader und Universal Forensic Extraction Device (UFED)-Reader zur Aus-
 
 wertung von Smartphones und Tablets sowie
 
- FARMEx zur Auswertung von Verkehrs- und Funkzellendaten.
+– FARMEx zur Auswertung von Verkehrs- und Funkzellendaten.
 
 Mithilfe dieser Software ist dem Ermittlungssachbearbeiter ein Erkennen von Serien möglich.
 
@@ -204,19 +205,19 @@ b. Welche konkreten Präventionsangebote werden Hamburger Unternehmen im Hinblic
 
 Maßnahmen im Sinne der Fragestellung sind:
 
- Mitarbeiter des LKA 54/Zentrale Ansprechstelle Cybercrime (ZAC) führen unter
+– Mitarbeiter des LKA 54/Zentrale Ansprechstelle Cybercrime (ZAC) führen unter
 
 anderem vor Ort persönliche Beratungen in Hamburger Unternehmen durch. In der Handelskammer wird durch das LKA 54 eine monatliche Sprechstunde angeboten.
 
- Für die Wirtschaft ist beim LKA 54 eine ZAC-Hotline eingerichtet, über die Unter-
+– Für die Wirtschaft ist beim LKA 54 eine ZAC-Hotline eingerichtet, über die Unter-
 
 nehmen Auskünfte und Beratung erhalten.
 
- Das LKA 54 hat einen sogenannten Awareness-Stick entwickelt, welcher kleinen
+– Das LKA 54 hat einen sogenannten Awareness-Stick entwickelt, welcher kleinen
 
 und mittelständischen Unternehmen kostenlos zur Beschulung ihrer Mitarbeiter zu Verfügung gestellt wird. Der USB-Stick enthält Schulungsmaterialien, um die Mitarbeiter der Unternehmen über Datensicherheit zu informieren und ihnen Tipps für Sicherheitsmaßnahmen zu geben. Darüber hinaus sollen die Unternehmen auch hinsichtlich der Begehungsweise gängiger Betrugstaten sensibilisiert werden, um diese möglichst frühzeitig zu erkennen.
 
- Weiterhin ist die ZAC Partner in Sicherheitskooperationen wie der Allianz für
+– Weiterhin ist die ZAC Partner in Sicherheitskooperationen wie der Allianz für
 
 Cyber-Sicherheit, welche 2012 durch das Bundesamt für Sicherheit in der Informationstechnik gegründet wurde.
 

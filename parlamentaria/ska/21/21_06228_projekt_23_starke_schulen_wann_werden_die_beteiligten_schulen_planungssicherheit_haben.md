@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 19
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6091", "21/4177", "20/9262"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54755"
@@ -126,6 +127,6 @@ Werden die in Anlage 2 der Drs. 20/9262 aufgeführten Schulen, die zur Finanzier
 
 Im Sinne der Planungssicherheit aller betroffenen Schulen und ihrer Außendarstellung für die nächste Anmelderunde, bis wann gedenkt der Senat beziehungsweise die zuständige Behörde die Evaluation des Projektes abgeschlossen und über die Weiterführung der/einzelnen Maßnahmen entschieden zu haben?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Siehe Vorbemerkung.

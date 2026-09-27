@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10110", "21/5559"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59748"
@@ -43,7 +44,7 @@ Wie sind der genaue Sachstand sowie der Zeitplan zur Sanierung des Volksdorfer M
 
 Welche Maßnahmen sind im Einzelnen geplant und wann sollen diese Maßnahmen umgesetzt werden? Wann sollen entsprechende Aufträge vergeben werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Derzeit laufen im Bezirksamt Wandsbek die Überlegungen zum Umfang der Maßnahmen zur Sanierung der Marktfläche sowie deren organisatorische Umsetzung. Ein detaillierter Zeitplan steht noch nicht fest.
 
@@ -71,7 +72,7 @@ In welcher Höhe stehen im Einzelplan 1.6 des Bezirksamtes Wandsbek jeweils kons
 
 In welcher Höhe stehen weitere Mittel aus jeweils welchen Produktgruppen zur Verfügung?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Es stehen Mittel für Maßnahmen im Einzelplan 1.6 des Bezirksamtes Wandsbek zur Verfügung, inwieweit diese auskömmlich sein werden, ist Gegenstand der laufenden Prüfungen. Im Übrigen siehe Antwort zu 4.
 

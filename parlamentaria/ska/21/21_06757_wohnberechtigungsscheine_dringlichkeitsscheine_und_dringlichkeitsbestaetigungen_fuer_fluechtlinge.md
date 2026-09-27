@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 14
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/2995", "21/6368", "21/4400"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55318"
@@ -45,7 +46,7 @@ Welche Arten von Wohnberechtigungsscheinen gibt es in Hamburg und wozu berechtig
 
 Welche Personenkreise sind jeweils berechtigt, die genannten Wohnberechtigungsscheine zu erhalten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 19/2995.
 
@@ -85,7 +86,7 @@ Unter welchen Voraussetzungen haben Flüchtlinge in Hamburg Anspruch auf die unt
 
 Wie viele und welche Flüchtlinge in Hamburg sind jeweils antragsberechtigt für einen der unter Punkt 1. genannten Wohnberechtigungsscheine?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Bleibeberechtigte Flüchtlinge (Aufenthaltstitel für mindestens ein Jahr) sind deutschen Wohnungsuchenden gleichgestellt und haben uneingeschränkten Zugang zum Sozialwohnungsbestand. Nicht bleibeberechtigten Flüchtlingen kann nur in besonderen Einzelfällen (zum Beispiel schwerste Erkrankungen) im Ausnahmewege über die Freistellung einer bestimmten Sozialwohnung der Zugang zum Sozialwohnungsbestand ermöglicht werden. Im Übrigen siehe Antwort zu 2.
 

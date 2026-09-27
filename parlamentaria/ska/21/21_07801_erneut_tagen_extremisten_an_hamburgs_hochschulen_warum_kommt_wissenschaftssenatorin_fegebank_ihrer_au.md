@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7164"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56436"
@@ -47,7 +48,7 @@ Wie beurteilt es die zuständige Wissenschaftssenatorin, dass an einer staatlich
 
 Die Ausrichtung von Veranstaltungen, an denen extremistische Gruppen beziehungsweise Personen teilnehmen oder sogar Mitausrichter sind, wird regelmäßig kritisch durch die Medien begleitet. Wie schätzt die Wissenschaftssenatorin den Imageschaden für die jeweilige Hochschule beziehungsweise für den Hochschulstandort Hamburg ein?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/7164.
 

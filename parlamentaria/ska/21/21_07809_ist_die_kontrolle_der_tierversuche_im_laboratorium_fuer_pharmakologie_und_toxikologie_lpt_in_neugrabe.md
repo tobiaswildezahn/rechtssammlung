@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 14
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56438"
@@ -69,17 +70,17 @@ Welche weiteren Hamburger Laboratorien führen in-vivo-Diagnostik durch?
 
 In Hamburg wurde im vergangenen Jahr folgenden Einrichtungen die Durchführung von Tierversuchen im Sinne der Definition des Tierschutzgesetzes bewilligt:
 
- Bernhard-Nocht-Institut für Tropenmedizin
+– Bernhard-Nocht-Institut für Tropenmedizin
 
- Evotec AG
+– Evotec AG
 
- Heinrich-Pette-Institut, Leibniz-Institut für Experimentelle Virologie
+– Heinrich-Pette-Institut, Leibniz-Institut für Experimentelle Virologie
 
- Laboratory of Pharmacology and Toxicology GmbH & Co.KG
+– Laboratory of Pharmacology and Toxicology GmbH & Co.KG
 
- Universität Hamburg Biozentrum Grindel
+– Universität Hamburg Biozentrum Grindel
 
- Universität Hamburg Institut für Hydrobiologie und Fischereiwissenschaften
+– Universität Hamburg Institut für Hydrobiologie und Fischereiwissenschaften
 
 Die Versuchsvorhaben sind vom Antragsteller umfangreich und detailliert wissenschaftlich zu erläutern und umfassen, einschließlich Änderungen, Vorgänge von bis zu 50 Seiten. Diese Daten werden statistisch nicht gesondert erfasst. Im Rahmen eines jeden Tierversuchsantrags hat der Antragsteller unter anderem den Versuchszweck zu erläutern. Um Auskunft über Zweck der Versuchsvorhaben der einzelnen Einrichtungen geben zu können, müssten sämtliche einzelnen Versuchsvorhaben auf diese Angabe hin überprüft werden. Bei einem Aufkommen von 2.378 zu bearbeitenden Versuchsvorhaben ist eine Einzelfallauswertung in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -91,7 +92,7 @@ Wie viele Genehmigungen für Tierversuche erteilte die zuständige Behörde dem 
 
 Wie viele Genehmigungen für Tierversuche erteilte die zuständige Behörde anderen vergleichbaren Laboren in Hamburg seit 2011? Bitte jahresweise und nach Einrichtungen aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Statistisch wird lediglich die Gesamtzahl genehmigter Versuchsvorhaben erfasst. Eine Zuordnung zu einer versuchsdurchführenden Einrichtung wird statistisch nicht gesondert erfasst. Um die genaue Zuordnung bewilligter Versuchsvorhaben zu einer Einrichtung darzustellen, müssten sämtliche einzelnen Versuchsvorhaben seit 2011 auf diese Angaben hin geprüft werden. Eine Einzelfallauswertung von insgesamt knapp
 2.378 Versuchsvorhaben in dem entsprechenden Zeitraum ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit aus oben genannten Gründen nicht möglich.

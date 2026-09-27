@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54353"
@@ -43,7 +44,7 @@ Welche Erkenntnisse liegen dem Senat und den Sicherheitsbehörden über die „F
 
 Wie schätzen Senat und Sicherheitsbehörden diese Gemeinde ein? a. Welchem (politischen/religiösen) Spektrum ist die Gemeinde zuzuordnen? b. Welche Ziele verfolgt die Gemeinde und wie wird versucht diese Ziele zu erreichen? c. Wer steht der Gemeinde vor? d. An welchen Orten treffen sich die Mitglieder?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bei der „Furkan-Gemeinde“ in Hamburg handelt es sich um den Furkan Bildungs- und Kulturverein e.V., der 2015 als Ableger der in Adana (Türkei) ansässigen Mutterorganisation des Gründers Alparslan Kuytul gegründet wurde. Kuytul besucht Hamburg wiederholt im Rahmen von Vortragsveranstaltungen, nach Erkenntnissen des Landesamtes für Verfassungsschutz (LfV) zuletzt am 10. Mai 2016. An diesen Veranstaltungen nehmen bis zu 400 Personen teil. Den Sicherheitsbehörden sind zudem einzelne Flyer-Verteilungen über interne Veranstaltungen der Gruppierung bekannt.
 

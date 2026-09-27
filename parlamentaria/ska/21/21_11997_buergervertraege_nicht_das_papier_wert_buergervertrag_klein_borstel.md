@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 17
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5231"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61255"
@@ -127,6 +128,6 @@ Wurde das sogenannte Dichtepapier tatsächlich nicht oder nur unzureichend berü
 
 In welcher Form wurde das sogenannte Dichtepapier für die Auslobung des Architektenwettbewerbs berücksichtigt? Falls es nicht berücksichtigt wurde, warum nicht?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Den zuständigen Fachstellen ist ein aus privatem Interesse erstelltes sogenanntes Dichtepapier aus den Jahren 1998/1999 bekannt, das für das derzeit laufende Werkstattverfahren nicht abwägungsrelevant ist oder einen Planungsprozess präjudizieren dürfte.

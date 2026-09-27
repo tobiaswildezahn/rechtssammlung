@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65231"
@@ -69,7 +70,7 @@ Inwieweit stehen die Räumlichkeiten von Kindertagesstätten auch für unterschi
 
 Welche Bedingungen müssen erfüllt sein, um die Räumlichkeiten von Kindertagesstätten für Kurse zur Stärkung elterlicher Kompetenzen zu nutzen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die für Kindertagesbetreuung zuständige Behörde verfügt nicht über die zur Beantwortung der Frage erforderlichen Daten. Sie hat daher die Vertragspartner des Landesrahmenvertrages „Kinderbetreuung in Tageseinrichtungen“ (Arbeiterwohlfahrt Landesverband Hamburg e.V.; Caritasverband für Hamburg e.V.; Deutsches Rotes Kreuz Landesverband Hamburg; Der PARITÄTISCHE Wohlfahrtsverband Hamburg e.V. Landesverband Hamburg; Diakonisches Werk Hamburg e.V., Kindermitte e.V. – Bündnis für soziales Unternehmertum und Qualität in der Kindertagesbetreuung e.V.; SOAL – Alternativer Wohlfahrtsverband e.V. Landesverband Hamburg, Elbkinder – Vereinigung Hamburger Kitas gGmbH) und die nicht organisierten Träger von Kindertageseinrichtungen gebeten, die entsprechenden Auskünfte zu erteilen.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9125", "20/12882", "21/1599", "21/5677", "21/10344", "21/4289", "21/11788", "21/10499", "21/13405"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62968"
@@ -103,7 +104,7 @@ Wie verhalten sich Schulleitungen gegenüber tatverdächtigen Schülern, die nac
 
 Leisten die Schulleitungen betroffenen Schülern und deren Familien Hilfestellungen? Falls ja, inwiefern? Falls nein, warum nicht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Bei strafrechtlich relevanten Situationen im Kontext Gewaltkriminalität ist die Schulleitung angehalten, den Gewaltmeldebogen auszufüllen. Damit ist die Einbindung der Polizei sichergestellt, das heißt die Polizei ermittelt und je nach Ermittlungsergebnis, wird ein Strafverfahren gegen den Beschuldigten beziehungsweise die Beschuldigte eingeleitet.
 

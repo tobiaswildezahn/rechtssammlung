@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18214"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68377"
@@ -85,7 +86,7 @@ Welche Bedarfe zur Verbesserung der Schwarz-Weiß-Trennung sind in Hamburg aktue
 
 Welcher Bedarf an Schutzkleidung sowohl für die Berufs- als auch für die Freiwillige Feuerwehr wurde als Grundlage für die laufende Beschaffung erkannt und welche zusätzliche konkrete diesbezügliche Planung gibt es aktuell?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Bedarfe zur Verbesserung der Schwarz-Weiß-Trennung gliedern sich in bauliche und organisatorische Maßnahmen sowie in eine Verbesserung der Schutzausrüstung. Zu baulichen und organisatorischen Maßnahmen siehe Vorbemerkung und Drs. 21/18214.
 

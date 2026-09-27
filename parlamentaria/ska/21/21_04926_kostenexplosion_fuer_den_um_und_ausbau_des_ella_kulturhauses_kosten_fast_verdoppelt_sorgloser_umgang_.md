@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6208"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53361"
@@ -42,27 +43,27 @@ Vor diesem Hintergrund frage ich den Senat:
 
 Die erste vorläufige Kostenabschätzung in Höhe von rund 290.000 Euro brutto basierte auf einer Einschätzung der technischen Abteilung der zuständigen SAGA-Geschäftsstelle vom Juli 2014. Gemäß der HU-Bau im April 2016 ist mit Kosten in Höhe von rund 570.000 Euro brutto zu rechnen. Der von der SAGA beauftragte Architekt führt folgende Gründe für die veränderte Kostenrechnung an:
 
- Auflagen nach Änderung der Nutzungsart des Kulturhauses (Brandschutzmaß-
+– Auflagen nach Änderung der Nutzungsart des Kulturhauses (Brandschutzmaß-
 
 nahmen, Schaffung eines zweiten Rettungsweges),
 
- statische Stabilisierung der Schornsteinanlage,
+– statische Stabilisierung der Schornsteinanlage,
 
- Änderung der Rampenkonstruktion und der Gründung der Rampe,
+– Änderung der Rampenkonstruktion und der Gründung der Rampe,
 
- Mehraufwand für die Baustelleneinrichtung (Schutz der vorhandenen Bäume und
+– Mehraufwand für die Baustelleneinrichtung (Schutz der vorhandenen Bäume und
 
 Hecken),
 
- zusätzliche Schutzmaßnahmen für Bäume und Hecken (Baumschutzgutachten,
+– zusätzliche Schutzmaßnahmen für Bäume und Hecken (Baumschutzgutachten,
 
 baubegleitendes artenschutzfachliches Gutachten),
 
- Ertüchtigung der Haustechnik (Entkernung des Schornsteinschachtes, Erneuerung
+– Ertüchtigung der Haustechnik (Entkernung des Schornsteinschachtes, Erneuerung
 
 der Elektroanlage, Einrichtung eines zusätzlichen WC-Raumes),
 
- zusätzliche Gutachter- und Planerkosten (Nachweis baulicher Brandschutz für
+– zusätzliche Gutachter- und Planerkosten (Nachweis baulicher Brandschutz für
 
 Nutzungsänderung, Wärmeschutznachweis, baufachliche Prüfung der HU-Bau und Architektenleistungen als besondere Leistung, Tragwerksplanung).
 

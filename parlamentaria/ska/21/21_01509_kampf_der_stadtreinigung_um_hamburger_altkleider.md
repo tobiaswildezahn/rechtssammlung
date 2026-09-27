@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 14
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49712"
@@ -49,71 +50,71 @@ Welche privatwirtschaftlichen Unternehmen oder karitativen Organisationen sind d
 
 Gemeinnützige Sammlungen:
 
-  
+–  
 DESWOS e.V.  
-  
+–  
 Deutsche Kleiderstiftung Spangenberg e.V.
 
-  
+–  
 DRK Landesverband Hamburg e.V.  
-  
+–  
 Familienschutzwerk e.V.  
-  
+–  
 Kolping International e.V.  
-  
+–  
 Kolpingfamilie Hamburg-Neugraben e.V.  
-  
+–  
 Malteser Hilfsdienst e.V.  
-  
+–  
 Nepal Schulprojekt e.V.  
-  
+–  
 passage gemeinützige Gesellschaft für Arbeit und Integra-
 
 tion mbH
 
 Gewerbliche Sammlungen:
 
-  
+–  
 TEXAID Collection GmbH  
-  
+–  
 Aksu Import&Export  
-  
+–  
 Aktex Rohstoff-Recycling Nord GmbH  
-  
+–  
 DGW Deutsche Gesellschaft für Recycling mbH  
-  
+–  
 EAST-WEST Textilrecycling Kursun GmbH  
-  
+–  
 EASYTEX Textilrecycling GmbH  
-  
+–  
 FWS GmbH  
-  
+–  
 Inprocon GmbH & Co. KG  
-  
+–  
 Mahmut Sezer  
-  
+–  
 Padula Textilverwertung, Inh.: Giuseppe Padula e.K.  
-  
+–  
 Profittex GmbH  
-  
+–  
 Retextil Recycling International GmbH & Co. KG  
-  
+–  
 Rhenus Recycling GmbH  
-  
+–  
 SP Textilverwertung, Benedetto Padula e.K.  
-  
+–  
 STJ Textilverwertung GbR  
-  
+–  
 Textil Recycling Nord GmbH  
-  
+–  
 Textil-Recycling K. & A. Wenkhaus GmbH  
-  
+–  
 Textilrecycling Werner Werbik  
-  
+–  
 TopTEX Textilverwertungs GmbH  
-  
+–  
 TorunTex Textilverwertungs GmbH  
-  
+–  
 Werner Frost Textilrecycling
 
 ### Frage 2
@@ -188,7 +189,7 @@ Welche Investitionen in welcher Höhe hat die Stadt Hamburg beziehungsweise die 
 
 Auf welche Höhe belaufen sich die voraussichtlichen Kosten im Jahr 2015, die für das eigene Sammelsystem der Stadtreinigung Hamburg veranschlagt wurden und welcher zu erwartende Erlös wird dem entgegengestellt?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Bei den erfragten Daten handelt es sich teilweise um vertrauliche unternehmensinterne Zahlen der SRH. Zur Wahrung der Betriebs- und Geschäftsgeheimnisse von öffentlichen Unternehmen gibt der Senat über deren Geschäftsangelegenheiten regelmäßig keine Auskunft.
 

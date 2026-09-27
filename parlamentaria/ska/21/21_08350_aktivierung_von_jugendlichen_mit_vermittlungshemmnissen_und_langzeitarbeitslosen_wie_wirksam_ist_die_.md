@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7483", "21/4071", "21/8210"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57057"
@@ -91,7 +92,7 @@ Wie bewerten Senat und Jobcenter team.arbeit.hamburg das Instrument der Probebes
 
 Wie viele Förderungen nach § 16 f des Zweiten Buches Sozialgesetzbuch und § 16 i.V.m. § 46 des Zweiten Buches Sozialgesetzbuch plant das Jobcenter team.arbeit.hamburg für die Jahre 2017 und 2018?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung, Antwort zu 6) und Drs. 21/4071. Im Übrigen hat sich der Senat damit nicht befasst.
 

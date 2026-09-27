@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14146", "21/10478", "21/13237", "21/15882"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65727"
@@ -173,37 +174,37 @@ Gibt es ein Personalentwicklungskonzept für Staatsanwälte und Richter, wie es 
 
 Neben dem grundlegendem Stationenmodell gibt es in den Dienststellen flächendeckend ein System verschiedenster Personalentwicklungsmaßnahmen, die nicht auf nur Berufseinsteigerinnen und Berufseinsteiger ausgerichtet sind. Dies sind unter anderem:
 
- Allgemeine Einführungstagung in Lüdersburg
+– Allgemeine Einführungstagung in Lüdersburg
 
- Workshop für Assessorinnen und Assessoren
+– Workshop für Assessorinnen und Assessoren
 
- Treffen für Assessorinnen und Assessoren/Jugendrichterinnen und Jugendrichter
+– Treffen für Assessorinnen und Assessoren/Jugendrichterinnen und Jugendrichter
 
- Mentorinnen und Mentoren-/Patenschaftsprogramme
+– Mentorinnen und Mentoren-/Patenschaftsprogramme
 
- Begrüßungsmappe
+– Begrüßungsmappe
 
- Begrüßungsgespräch mit der Gerichtsleitung
+– Begrüßungsgespräch mit der Gerichtsleitung
 
- Verhandlungsbesuch zur Lebenszeiternennung
+– Verhandlungsbesuch zur Lebenszeiternennung
 
- Kammergespräche
+– Kammergespräche
 
- Erprobungsmöglichkeiten
+– Erprobungsmöglichkeiten
 
- Personalgespräche/Beurteilungswesen/Personalentwicklungsgespräche/
+– Personalgespräche/Beurteilungswesen/Personalentwicklungsgespräche/
 
 Gespräche des betrieblichen Eingliederungsmanagements
 
- Vorsitzendenbesprechungen
+– Vorsitzendenbesprechungen
 
- Sonderverwendungen
+– Sonderverwendungen
 
- Möglichkeit als Mediatorin oder Mediator tätig zu werden
+– Möglichkeit als Mediatorin oder Mediator tätig zu werden
 
- Richterliche Qualitätszirkel
+– Richterliche Qualitätszirkel
 
- Institutionalisierte Erfahrungsaustausche
+– Institutionalisierte Erfahrungsaustausche
 
 Die zuständige Behörde ergänzt diese Maßnahmen mit einem breiten Fortbildungsangebot, das unterschiedlichste Fachgebiete bedient, aber auch die Weiterentwicklung personeller Kompetenzen, Leitungskompetenzen und Arbeitstechniken unterstützt (vergleiche Drs. 21/15882).
 

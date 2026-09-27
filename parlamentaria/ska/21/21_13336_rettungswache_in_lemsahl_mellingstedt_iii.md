@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62676"
@@ -59,7 +60,7 @@ Welche Mehrkosten würden für einen 24-Stunden-Betrieb der Rettungswache anfall
 
 Wie ist die Rettungswache personell besetzt und wie hat sich diese Besetzung seit 2015 entwickelt? Bitte jeweils angeben, wie viel Personal zu welchen Tages- und Wochenzeiten anwesend ist und wie dieses Personal jeweils ausgebildet ist.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung und Antwort zu 1.
 

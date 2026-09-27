@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53778"
@@ -43,7 +44,7 @@ Wie viele Unfälle haben sich seit der Installation des festen Blitzers an der W
 
 Welches waren die häufigsten Ursachen dieser Unfälle?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die nachfolgenden Angaben zu den Verkehrsunfällen sind durch eine Abfrage in der Verkehrsunfalldatenbank EUSka (Elektronische Unfalltypensteckkarte) am 18. Juli 2016 ermittelt worden. Ausgewertet wurden Daten seit der Inbetriebnahme der Anlage am 25. September 2015. Für das Jahr 2016 liegen Verkehrsunfallzahlen bis zum 31. Mai 2016 vor; diese Zahlen sind vorläufig.
 

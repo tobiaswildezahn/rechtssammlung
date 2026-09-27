@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57762"
@@ -121,7 +122,7 @@ Welche Besucherstrukturen haben die staatlichen Museen hinsichtlich der National
 
 Gibt es in Museen der Freien und Hansestadt Hamburg Umfragen unter Besuchern, die Aufschluss über nachgefragte Sprachen bieten? Wenn ja: bitte darstellen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Hamburger Museen führen regelmäßig Besucherbefragungen durch, dabei wird vorrangig der Wohnsitz erfragt, jedoch nicht die Nationalität oder die Muttersprache der Besucherinnen und Besucher. In den Museen werden überwiegend Angebote in englischer Sprache nachgefragt. Zu in Einzelfällen nachgefragten weiteren Sprachangeboten siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52824"
@@ -47,7 +48,7 @@ Welche Bürgerhäuser werden gemäß der „Förderrichtlinie Bürgerhäuser“ 
 
 Wie hoch ist die bereinigte institutionelle Förderung der Bürgerhäuser ohne Hinzurechnung von Projektmitteln, Mitteln aus dem Quartiersfonds oder sonstigen Zuwendungen? (Bitte angeben für die Jahre 2009 bis 2016.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

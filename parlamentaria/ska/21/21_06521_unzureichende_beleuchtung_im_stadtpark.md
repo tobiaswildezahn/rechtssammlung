@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55059"
@@ -49,7 +50,7 @@ Wie viele Beleuchtungsanlagen (Laternen, Bodenlampen et cetera) gibt es im Hambu
 
 Wie viele Beleuchtungsanlagen sind in den Jahren 2011, 2012, 2013, 2014, 2015 und 2016 im Stadtpark jeweils hinzugekommen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Mit Stand Ende Oktober 2016 sind im Hamburger Stadtpark 208 sogenannte Brennstellen in Betrieb.
 

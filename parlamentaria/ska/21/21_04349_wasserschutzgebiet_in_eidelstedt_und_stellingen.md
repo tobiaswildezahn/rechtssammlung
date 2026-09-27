@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3932", "16/6083"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52751"
@@ -51,7 +52,7 @@ Um welche Flächen in Eidelstedt und Stellingen handelt sich bei der Teiluntersc
 
 Wie ist die genaue Lage des gesamten Trinkwassergewinnungsgebietes Eidelstedt/Stellingen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48504"
@@ -57,9 +58,9 @@ Welcher Sicherheitsdienst wurde von Bäderland beauftragt?
 
 #### Antwort zu Frage 3
 
- B.O.B Sicherheitsdienst e.K.
+– B.O.B Sicherheitsdienst e.K.
 
- WEKO Sicherheitsdienste GmbH
+– WEKO Sicherheitsdienste GmbH
 
 ### Frage 4
 
@@ -94,17 +95,17 @@ Gibt es auch in anderen Bädern der Bäderland GmbH einen Sicherheitsdienst? Wen
 
 Ja.
 
- Alarmverfolgung in allen Betrieben mit Alarmanlage sowie der Bäderland Zentrale.
+– Alarmverfolgung in allen Betrieben mit Alarmanlage sowie der Bäderland Zentrale.
 
- Nachtbestreifung: Holthusenbad, Kaifu-Bad, Kombi-Bad Billstedt, Parkbad, Fest-
+– Nachtbestreifung: Holthusenbad, Kaifu-Bad, Kombi-Bad Billstedt, Parkbad, Fest-
 
 land, Bille-Bad, Bondenwald, Freibad Aschberg, Kombi-Bad Ohlsdorf, Kombi-Bad Finkenwerder, Freibad Marienhöhe, Freibad Osdorfer Born, Freibad Rahlstedt.
 
- Tagesbestreifung: Im Sommer optional in den Freibädern. Im Festland ab Mai 2015
+– Tagesbestreifung: Im Sommer optional in den Freibädern. Im Festland ab Mai 2015
 
 am Wochenende.
 
- Einsatz bei Veranstaltungen: Mondscheinschwimmen im Freibad Neugraben, da
+– Einsatz bei Veranstaltungen: Mondscheinschwimmen im Freibad Neugraben, da
 
 Gäste dort auch übernachten können.
 

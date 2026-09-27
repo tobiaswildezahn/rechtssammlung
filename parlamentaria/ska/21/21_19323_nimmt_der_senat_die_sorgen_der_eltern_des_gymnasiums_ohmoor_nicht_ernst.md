@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 25
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69033"
@@ -142,6 +143,6 @@ Wie verträgt sich die Planung, auf dem Gelände der Stadtteilschule die Drei-Fe
 
 Hat die zukünftige Sporthallensituation Auswirkungen auf die Nutzungszeiten von Sportvereinen? Falls ja, sind diese darüber informiert worden und in welcher Form ist dies gegebenenfalls geschehen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Vorbemerkung.

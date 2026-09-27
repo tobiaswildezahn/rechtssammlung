@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 16
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8855"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49240"
@@ -59,7 +60,7 @@ Seit wann genau besteht die Zusammenarbeit mit Cisco?
 
 Auf welche derzeitigen Aktivitätsfelder bezieht sich die Zusammenarbeit?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bei der Hamburg Port Authority (HPA) bestehen im Rahmen eines Memorandum of Understanding (MoU) seit dem 30. April 2014 gemeinsame Projekte zur Erprobung einer intelligenten Erfassung von Baustellen, einer verbesserten Parkraumdetektion sowie von Umweltsensorik, adaptiver Beleuchtung und Detektion der Infrastrukturbelastung und -nutzung im Rahmen des Projektes Smart Road. Im Bezirksamt Wandsbek besteht seit Januar 2014 ein Pilotprojekt zum „intelligenten Bürgerservice“. Das Universitätsklinikum Hamburg-Eppendorf ist über ein Addendum vom 19. Dezember 2014 in das MoU einbezogen.
 

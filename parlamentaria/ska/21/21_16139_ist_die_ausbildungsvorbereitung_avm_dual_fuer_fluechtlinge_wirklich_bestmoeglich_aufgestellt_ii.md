@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15558"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65645"
@@ -50,13 +51,13 @@ Mit welchen Abschlüssen (ESA, MSA) beendeten die Absolventinnen und Absolventen
 
 Im Schuljahr 2017/2018 beendeten 1 380 Schülerinnen und Schüler AvM-Dual. Von diesen erhielten 81 Absolventinnen und Absolventen über einen Härtefallantrag die Genehmigung, den Bildungsgang AvM-Dual im Schuljahr 2018/2019, mit dem Ziel einen mittleren Schulabschluss zu erreichen, fortzusetzen. Gemäß Schuljahresstatistik 2018 waren von den 1 380 Schülerinnen und Schülern
 
-• 283 ohne neu erworbenen Abschluss,
+– 283 ohne neu erworbenen Abschluss,
 
-• 107 mit Abschlusszeugnis,
+– 107 mit Abschlusszeugnis,
 
-• 713 mit Abschlusszeugnis und erstem allgemeinbildenden Schulabschluss und
+– 713 mit Abschlusszeugnis und erstem allgemeinbildenden Schulabschluss und
 
-• 277 mit Abschlusszeugnis und mittlerem Schulabschluss.
+– 277 mit Abschlusszeugnis und mittlerem Schulabschluss.
 
 ### Frage 2
 

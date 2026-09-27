@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 16
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55088"
@@ -59,7 +60,7 @@ Wie genau ist das dauerhafte Kinderbetreuungsangebot des Senats für die Teilnah
 
 Durch welche Institutionen (kommunal und/ oder freie Träger) ist ein integrationskursbegleitendes Kinderbetreuungsangebot für Migranten/ -innen in den Unterbringungen in Hamburg zu gewährleisten? (Bitte zuständige Institutionen und deren Organisationsform für jede Unterkunft im Stadtgebiet tabellarisch angeben.) a. Welche Personal- sowie Qualifikationsanforderungen und Betreuungsschlüssel sind für die betreffenden Kinderbetreuungsangebote jeweils vorgegeben? (Bitte entsprechend in die Tabelle zu 2. integrieren.) b. Werden für die Absicherung einer solchen Betreuung gegebenenfalls Mittel der Stadt beziehungsweise der Bezirke bereitgestellt? Wenn ja nach welchem Verfahren, in welcher finanziellen Höhe und aus welchen Haushaltsbereichen? (Bitte Bedingungen, Beantragungsweisen, Umfang der Förderung in absoluten Zahlen samt Aufgabenbereich und Produktgruppe, aus der diese stammen, angeben.) c. Übernimmt der Senat gemäß eigener Bekundungen – siehe Hamburger Integrationskonzept – im Falle einer nicht gesicherten Kinderbetreuung als begleitende und unterstützende Notwendigkeit für die Teilnahme an Integrationskursen, insbesondere von Alleinerziehenden Migranten/-innen, die Sicherstellung des jeweiligen Angebotes? Wenn nein, mit welcher Begründung nicht? (Bitte vor dem Hintergrund des Integrationskonzeptes sachlich wie fachlich Stellung nehmen.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

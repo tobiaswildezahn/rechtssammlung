@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2649"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51162"
@@ -59,7 +60,7 @@ Welche Konzepte hat oder unterstützt der Senat, um eine Vereinfachung des Planu
 
 Denkt der Senat darüber nach, eine Einschränkung des Verbandsklagerechts zu prüfen und sich auf anderen Ebenen dafür einzusetzen? Wenn ja, seit wann und in welcher Form beziehungsweise mit welchen konkreten Vorschlägen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Verbandsklagerechte insbesondere im Umweltbereich sind europarechtlich beziehungsweise bundesgesetzlich vorgegeben. Landesrechtliche Einschränkungsmöglichkeiten bestehen nicht. Darüber hinaus hat sich der Senat damit nicht befasst.
 

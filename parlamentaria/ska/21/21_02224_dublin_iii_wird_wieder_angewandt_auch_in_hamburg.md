@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50491"
@@ -89,7 +90,7 @@ Wie viele der unter 1. genannten Personen können noch fristgerecht rücküberst
 
 Wie viele der unter 1. genannten Personen können aus welchen Gründen nicht rücküberstellt werden (zum Beispiel wegen Fluguntauglichkeit et cetera)?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 3. Für die konkrete Prüfung, ob eine fristgerechte Überstellung noch möglich ist, müssten alle 917 Fälle zunächst daraufhin überprüft werden, ob überhaupt schon eine Abschiebungsanordnung nach § 34a AsylVfG erlassen wurde und vollziehbar ist und dann daraufhin, ob und welche Hindernisse einer Überstellung möglicherweise entgegenstehen. Dies ist in der zur Beantwortung der Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

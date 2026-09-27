@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59038"
@@ -73,7 +74,7 @@ Für welche Straßen und Straßenabschnitte liegen der Behörde mit dem Gesundhe
 
 Seit wann liegen die unter 4. genannten Anträge vor?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 In der nachstehenden Tabelle sind sowohl die Straßen und Straßenabschnitte aufgeführt, für die Anträge im Sinne der Fragestellung vorliegen, als auch das jeweilige Datum, seit dem der Polizei die Anträge vorliegen.
 

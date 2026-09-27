@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 3
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9849", "21/7939"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57712"
@@ -41,7 +42,7 @@ Wer hat jeweils für welches Projekt im Jahre 2016 und im bisherigen Verlauf des
 
 Welche Anträge davon wurden abgelehnt und welchen wurde in welcher Förderungshöhe stattgegeben? Mit welcher Begründung?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Auf Grundlage des Landesprogramms „Hamburg – Stadt mit Courage“ (Drs. 20/9849)  
 werden sowohl die Kofinanzierung verschiedener Beratungsprojekte im Rahmen des  

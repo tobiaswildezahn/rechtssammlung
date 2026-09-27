@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 26
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4153", "21/4272", "21/4293", "21/4130", "21/3660"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53032"
@@ -147,7 +148,7 @@ Welche ZEA in Harburg kommen für eine Umwandlung in Folgeunterbringungen infrag
 
 Sind die Prüfungen abgeschlossen? Wenn ja, mit welchem Ergebnis? Wenn nein, wann werden die Prüfungen abgeschlossen sein?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Im Rahmen der ständigen Überprüfung der Unterbringungssituation werden auch die Bedingungen zur Umwandlung von Erstaufnahmeeinrichtungen in öffentlich-rechtliche Unterbringungen geprüft. Hierbei werden alle Unterkünfte, auch in Harburg, grundsätzlich einbezogen. Die Prüfungen sind noch nicht abgeschlossen.
 
@@ -191,7 +192,7 @@ Wie weit sind die Verhandlungen mit dem Land Niedersachsen über die Übernahme 
 
 Welche bis dato leeren Aufnahmekapazitäten stehen für Verhandlungen zur Verfügung? Welche Kosten stehen dahinter?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Erste Gespräche über die Nutzung niedersächsischer Einrichtungen für die Unterbringung Hamburger Flüchtlinge haben stattgefunden. Beim derzeitigen Stand der Gespräche können zur Übernahme von Verbindlichkeiten, Kapazitäten und Kosten noch keine Aussagen getroffen werden.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62572"
@@ -61,7 +62,7 @@ Wie ist der Sachstand zur Software, die zum automatischen Austausch von Informat
 
 Auf welche Weise gelangten Informationen, die das BZSt bislang von anderen Staaten im Rahmen des Finanzkonten-Informationsaustauschgesetzes erhalten hat, an die entsprechenden Stellen in Hamburg? a. Wie viele Fälle sind seit dem Jahr 2016 jährlich übermittelt worden? b. Welche Beträge umfassten die jährlich seit dem Jahr 2016 übermittelten Fälle jeweils und insgesamt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Wie in IT-Projekten üblich erfolgt eine schrittweise Abarbeitung der Anforderungen. Zunächst wurden die technischen Voraussetzungen für die Annahme der Daten der deutschen Finanzinstitute und den Austausch mit den Staaten und Gebieten geschaffen. In einem weiteren Schritt wird nunmehr die planmäßige Weiterleitung der Daten an die Landesfinanzbehörden umgesetzt. Nach derzeitigem Stand sollen die Daten ab 2019 vom Bundeszentralamt für Steuern (BZSt) an die zuständigen Landesfinanzbehörden übersandt werden. Bis dahin sind keine Aussagen zu Fallzahlen und Beträgen möglich.
 

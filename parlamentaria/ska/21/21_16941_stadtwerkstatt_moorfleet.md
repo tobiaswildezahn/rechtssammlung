@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 18
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14615"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66526"
@@ -84,7 +85,7 @@ Welche Flächen im Bereich Moorfleet gelten als belastet beziehungsweise als bes
 
 Welche der aufgeführten Flächen sind nicht grundsätzlich für eine bauliche Entwicklung ausgeschlossen, sowohl gewerblich wie für den Wohnungsbau? Bitte gegebenenfalls mit notwendigen Maßnahmen beziehungsweise Einschränkungen für eine Bebauung aufführen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage. Eine Bebauung der Flächen wird nicht grundsätzlich ausgeschlossen. Notwendige Maßnahmen sind dabei abhängig von der jeweiligen Planung und der konkreten Belastungssituation.
 

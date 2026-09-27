@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 4
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3518"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52298"
@@ -49,7 +50,7 @@ Welche Schulen nutzen derzeit dezentrale IT-Verfahren? Bitte nach Schulform diff
 
 Welche dieser Schulen haben jeweils ein eigenes Datenverarbeitungskonzept erstellt und welche noch nicht? a. Welche Schulen haben seit der Erstellung des jeweiligen Datenverarbeitungskonzeptes aus welchen Gründen beziehungsweise Anlässen eine Aktualisierung vorgenommen? b. Von jeweils wann datieren die Aktualisierungen von Datenverarbeitungskonzepten in den jeweiligen Schulen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Gemäß den Rückmeldungen auf die Schulabfrage werden gegenwärtig an 36 Schulen dezentrale IT-Verfahren genutzt. Hiervon verfügen 34 Schulen über ein eigenes Datenverarbeitungskonzept, siehe folgende Übersichten:
 

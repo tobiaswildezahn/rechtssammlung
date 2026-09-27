@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14245", "20/8276", "21/10666", "21/13965"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64225"
@@ -104,7 +105,7 @@ Warum liegen die Daten für das Schuljahr 2017/2018 noch nicht vor?
 
 Bis wann ist mit einer Auswertung der Daten für das Schuljahr 2017/ 2018 zu rechnen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Entfällt.
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 17
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13057", "21/14520", "16/1399", "21/7391", "21/8678", "21/11828"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64533"
@@ -104,7 +105,7 @@ Wie viele Gerichtsvollzieherbezirke sind an jeweils welchem Amtsgericht gegebene
 
 Wie viele Gerichtsvollzieherbezirke müssen seit wann aus welchen Gründen vertreten werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Alle Bezirke sind besetzt, eine Vertretung ist nicht erforderlich.
 

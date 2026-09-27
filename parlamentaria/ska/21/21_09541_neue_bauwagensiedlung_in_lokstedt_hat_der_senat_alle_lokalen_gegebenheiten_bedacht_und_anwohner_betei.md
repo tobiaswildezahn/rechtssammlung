@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 23
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58314"
@@ -125,7 +126,7 @@ Welche Maßnahmen hat der Senat getroffen, um die Schule sowie direkte Anwohner 
 
 Welche Ergebnisse haben die Beteiligungsprozesse mit Anwohnern und Schule erbracht?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Eine Beteiligung der Öffentlichkeit sieht das Genehmigungsverfahren grundsätzlich nicht vor. Gleichwohl hat die Verwaltung den Antragsteller aufgefordert, eine Informationsveranstaltung durchzuführen, die zwischenzeitlich stattgefunden und zu Hinweisen geführt hat, deren Berücksichtigung beziehungsweise Umsetzung bei der Einrichtung des Bauwagenplatzes derzeit vom Bezirksamt geprüft wird.
 

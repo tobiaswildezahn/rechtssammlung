@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67390"
@@ -81,6 +82,6 @@ Wie viele Schülerinnen und Schüler haben 2017/2018 sowie 2018/2019 sechs durch
 
 Wie viele Schülerinnen und Schüler haben innerhalb der Sommerferien 2019 die Ferienbetreuung für welchen Zeitraum wahrgenommen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die erfragten Daten werden nicht zentral erfasst und wären nur in einem aufwendigen Datenabgleich zu ermitteln. Die Informationen, welche Kinder die Ferienbetreuung zu welchem Zeitpunkt in Anspruch nehmen, liegen bei Schulen nach dem GBS-Modell (= Ganztägige Bildung und Betreuung an Schulen), wie auch in der Regel bei Ganztagsschulen nach Rahmenkonzept, lediglich bei den Jugendhilfeträgern vor, die die Ferienbetreuung vor Ort organisieren und durchführen. Den Trägern liegen aber regelhaft aus Gründen des Sozialdatenschutzes keine Informationen über die BuT- Berechtigung der betreuten Kinder vor.

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 18
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14527", "20/10295"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55458"
@@ -157,7 +158,7 @@ Welche Scheinwerferausleuchtung haben die einzelnen Schnellbahnfahrzeuge? Welche
 
 Wann werden alle Schnellbahnfahrzeuge eine Mindestausleuchtung entsprechend ihres Bremsweges aus Tempo 50 haben?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Schnellbahnen fahren grundsätzlich nicht „auf Sicht“, sondern nach Lichtsignalen. Dies begründet sich in den physisch/technisch bedingten Bremsweglängen der Schienenfahrzeuge. Die Scheinwerferausleuchtung der Strecke ist daher nicht Bestandteil des Sicherheitskonzepts. Vielmehr erfüllt die Frontbeleuchtung der Züge den Zweck, dass etwa Betriebspersonen im Gleis (zum Beispiel Streckenläuferinnen und Streckenläufer, Bauarbeiterinnen und Bauarbeiter) einen herannahenden Zug rechtzeitig erkennen können. Die Auslegung der Signalleuchten und Scheinwerfer ist im technischen Regelwerk spezifiziert. Angaben zur „Ausleuchtung“ sind nicht möglich.
 

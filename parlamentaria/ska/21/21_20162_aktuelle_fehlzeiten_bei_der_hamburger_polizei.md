@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11096", "21/1225", "21/15724"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69938"
@@ -57,7 +58,7 @@ Wie ist die weitere Entwicklung gegenüber den Vorjahren und -monaten zu erklär
 
 Welche Auffälligkeiten weisen die Zahlen auf?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/1225.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49842"
@@ -211,23 +212,23 @@ Europäische Fernhochschule Hamburg (Euro-FH):
 
 Die Euro-FH bietet den Studierenden einen eigens programmierten Online-Campus, über den zahlreiche Serviceleistungen zur Verfügung stehen:
 
- Sämtliche Studienhefte stehen digital als PDF-Dokument in Abhängigkeit des
+– Sämtliche Studienhefte stehen digital als PDF-Dokument in Abhängigkeit des
 
 jeweiligen Studienfortschritts für jeden Studierenden auf dem Online-Campus zur Verfügung, teilweise auch als mp3-Formate zum Anhören.
 
- Kontaktmöglichkeit zu allen Lehrenden;
+– Kontaktmöglichkeit zu allen Lehrenden;
 
- Anforderung von Studienleistungen, Einsendung von Studienleistungen;
+– Anforderung von Studienleistungen, Einsendung von Studienleistungen;
 
- Einsicht in den aktuellen Studienfortschritt, Notenübersicht;
+– Einsicht in den aktuellen Studienfortschritt, Notenübersicht;
 
- interaktiver Studienplaner;
+– interaktiver Studienplaner;
 
- Zugang zu Online-Bibliotheken;
+– Zugang zu Online-Bibliotheken;
 
- Netzwerken mit Kommilitonen und Lehrenden der Hochschule;
+– Netzwerken mit Kommilitonen und Lehrenden der Hochschule;
 
- online-gestütztes Mentorenprogramm et cetera.
+– online-gestütztes Mentorenprogramm et cetera.
 
 HFH Hamburger Fern-Hochschule:
 

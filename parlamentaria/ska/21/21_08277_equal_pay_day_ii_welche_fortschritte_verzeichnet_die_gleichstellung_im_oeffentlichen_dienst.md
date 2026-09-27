@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 25
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3717"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56980"
@@ -74,7 +75,7 @@ Wie viele Personen hat die Stadt Hamburg im Jahr 2016 neu in den öffentlichen D
 
 Wie hoch ist das durchschnittliche Jahreseinkommen sowie der durchschnittliche Stundenlohn von im öffentlichen Dienst der Hansestadt Hamburg beschäftigten Frauen im Vergleich zum durchschnittlichen Jahreseinkommen/dem durchschnittlichen Stundenlohn von im öffentlichen Dienst beschäftigten Männern sowie im Vergleich zu allen Beschäftigten? Bitte nach folgenden Statusgruppen aufschlüsseln: a. Angestellte b. Beamte/-innen c. Gesamt Bitte für das Jahr 2016 angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Jahr  
 Statusgruppe  

@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 22
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/1816", "21/1226"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69463"
@@ -93,71 +94,71 @@ Welche Maßnahmen wurden mit den Mitteln aus Frage 4. konkret umgesetzt? Bitte j
 
 Welche der unter 5. genannten Maßnahmen betrachtet der Senat als erfolgreich abgeschlossen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Gemäß bundeseinheitlichem Maßnahmenkatalog wurden nachfolgende Maßnahmen in Hamburg umgesetzt und erfolgreich abgeschlossen:
 
- Neubau und Anpassung von Anlagen zur Ableitung, Behandlung und zum Rück-
+– Neubau und Anpassung von Anlagen zur Ableitung, Behandlung und zum Rück-
 
 halt von Misch- und Niederschlagswasser,
 
- Sonstige Maßnahmen zur Reduzierung der Stoffeinträge durch Misch- und Nieder-
+– Sonstige Maßnahmen zur Reduzierung der Stoffeinträge durch Misch- und Nieder-
 
 schlagswassereinleitungen,
 
- Maßnahmen zur Reduzierung der Belastungen durch Wärmeeinleitungen,
+– Maßnahmen zur Reduzierung der Belastungen durch Wärmeeinleitungen,
 
- Maßnahmen zur Reduzierung der Stoffeinträge aus anderen Punktquellen,
+– Maßnahmen zur Reduzierung der Stoffeinträge aus anderen Punktquellen,
 
- Maßnahmen zur Reduzierung der Nährstoffeinträge durch Anlage von Gewässer-
+– Maßnahmen zur Reduzierung der Nährstoffeinträge durch Anlage von Gewässer-
 
 schutzstreifen,
 
- Maßnahmen zur Reduzierung der Einträge von Pflanzenschutzmitteln aus der
+– Maßnahmen zur Reduzierung der Einträge von Pflanzenschutzmitteln aus der
 
 Landwirtschaft,
 
- Maßnahmen zur Reduzierung der Stoffeinträge aus undichter Kanalisation und
+– Maßnahmen zur Reduzierung der Stoffeinträge aus undichter Kanalisation und
 
 Abwasserbehandlungsanlagen,
 
- Maßnahmen zur Verbesserung des Wasserhaushalts an stehenden Gewässern,
+– Maßnahmen zur Verbesserung des Wasserhaushalts an stehenden Gewässern,
 
- Maßnahmen zur Reduzierung der Belastungen infolge Tidesperrwerke/-wehre bei
+– Maßnahmen zur Reduzierung der Belastungen infolge Tidesperrwerke/-wehre bei
 
 Küsten- und Übergangsgewässern,
 
- Maßnahmen zur Herstellung/Verbesserung der linearen Durchgängigkeit an Stau-
+– Maßnahmen zur Herstellung/Verbesserung der linearen Durchgängigkeit an Stau-
 
 stufen/Flusssperren, Abstürzen, Durchlässen und sonstigen wasserbaulichen Anlagen gemäß DIN 4048 beziehungsweise 19700 Teil 13,
 
- Maßnahmen zur Habitatverbesserung durch Initiieren/Zulassen einer eigendyna-
+– Maßnahmen zur Habitatverbesserung durch Initiieren/Zulassen einer eigendyna-
 
 mischen Gewässerentwicklung,
 
- Maßnahmen zur Habitatverbesserung im vorhandenen Profil,
+– Maßnahmen zur Habitatverbesserung im vorhandenen Profil,
 
- Maßnahmen zur Habitatverbesserung im Gewässer durch Laufveränderung, Ufer-
+– Maßnahmen zur Habitatverbesserung im Gewässer durch Laufveränderung, Ufer-
 
 oder Sohlgestaltung,
 
- Maßnahmen zur Habitatverbesserung im Uferbereich,
+– Maßnahmen zur Habitatverbesserung im Uferbereich,
 
- Maßnahmen zur Auenentwicklung und zur Verbesserung von Habitaten,
+– Maßnahmen zur Auenentwicklung und zur Verbesserung von Habitaten,
 
- Maßnahmen zur Verbesserung des Geschiebehaushaltes beziehungsweise Sedi-
+– Maßnahmen zur Verbesserung des Geschiebehaushaltes beziehungsweise Sedi-
 
 mentmanagement,
 
- Maßnahmen zur Anpassung/Optimierung der Gewässerunterhaltung,
+– Maßnahmen zur Anpassung/Optimierung der Gewässerunterhaltung,
 
- Maßnahmen zur Reduzierung stofflicher Belastungen aus Sedimenten,
+– Maßnahmen zur Reduzierung stofflicher Belastungen aus Sedimenten,
 
- Erstellen von Konzepten/Studien/Gutachten,
+– Erstellen von Konzepten/Studien/Gutachten,
 
- Informations- und Fortbildungsmaßnahmen,
+– Informations- und Fortbildungsmaßnahmen,
 
- Beratungsmaßnahmen.
+– Beratungsmaßnahmen.
 
 ### Frage 7
 
@@ -167,67 +168,67 @@ Welche Maßnahmen befinden sich gegenwärtig in der Umsetzung?
 
 Gemäß bundeseinheitlichem Maßnahmenkatalog befinden sich nachfolgende Maßnahmen in Hamburg derzeit in Umsetzung:
 
- Neubau und Anpassung von Anlagen zur Ableitung, Behandlung und zum Rück-
+– Neubau und Anpassung von Anlagen zur Ableitung, Behandlung und zum Rück-
 
 halt von Misch- und Niederschlagswasser,
 
- Sonstige Maßnahmen zur Reduzierung der Stoffeinträge durch Misch- und Nieder-
+– Sonstige Maßnahmen zur Reduzierung der Stoffeinträge durch Misch- und Nieder-
 
 schlagswassereinleitungen,
 
- Maßnahmen zur Reduzierung der Belastungen durch Wärmeeinleitungen,
+– Maßnahmen zur Reduzierung der Belastungen durch Wärmeeinleitungen,
 
- Maßnahmen zur Reduzierung der Stoffeinträge aus anderen Punktquellen,
+– Maßnahmen zur Reduzierung der Stoffeinträge aus anderen Punktquellen,
 
- Maßnahmen zur Reduzierung der Nährstoffeinträge durch Anlage von Gewässer-
+– Maßnahmen zur Reduzierung der Nährstoffeinträge durch Anlage von Gewässer-
 
 schutzstreifen,
 
- Maßnahmen zur Reduzierung der Einträge von Pflanzenschutzmitteln aus der
+– Maßnahmen zur Reduzierung der Einträge von Pflanzenschutzmitteln aus der
 
 Landwirtschaft,
 
- Maßnahmen zur Reduzierung der Stoffeinträge aus undichter Kanalisation und
+– Maßnahmen zur Reduzierung der Stoffeinträge aus undichter Kanalisation und
 
 Abwasserbehandlungsanlagen,
 
- Maßnahmen zur Verbesserung des Wasserhaushalts an stehenden Gewässern,
+– Maßnahmen zur Verbesserung des Wasserhaushalts an stehenden Gewässern,
 
- Maßnahmen zur Reduzierung der Belastungen infolge Tidesperrwerke/-wehre bei
+– Maßnahmen zur Reduzierung der Belastungen infolge Tidesperrwerke/-wehre bei
 
 Küsten- und Übergangsgewässern,
 
- Maßnahmen zur Herstellung/Verbesserung der linearen Durchgängigkeit an Stau-
+– Maßnahmen zur Herstellung/Verbesserung der linearen Durchgängigkeit an Stau-
 
 stufen/Flusssperren, Abstürzen, Durchlässen und sonstigen wasserbaulichen Anlagen gemäß DIN 4048 beziehungsweise 19700 Teil 13,
 
- Maßnahmen zur Habitatverbesserung durch Initiieren/Zulassen einer eigendyna-
+– Maßnahmen zur Habitatverbesserung durch Initiieren/Zulassen einer eigendyna-
 
 mischen Gewässerentwicklung,
 
- Maßnahmen zur Habitatverbesserung im vorhandenen Profil,
+– Maßnahmen zur Habitatverbesserung im vorhandenen Profil,
 
- Maßnahmen zur Habitatverbesserung im Gewässer durch Laufveränderung, Ufer-
+– Maßnahmen zur Habitatverbesserung im Gewässer durch Laufveränderung, Ufer-
 
 oder Sohlgestaltung,
 
- Maßnahmen zur Habitatverbesserung im Uferbereich,
+– Maßnahmen zur Habitatverbesserung im Uferbereich,
 
- Maßnahmen zur Auenentwicklung und zur Verbesserung von Habitaten,
+– Maßnahmen zur Auenentwicklung und zur Verbesserung von Habitaten,
 
- Maßnahmen zur Verbesserung des Geschiebehaushaltes beziehungsweise Sedi-
+– Maßnahmen zur Verbesserung des Geschiebehaushaltes beziehungsweise Sedi-
 
 mentmanagement,
 
- Maßnahmen zur Anpassung/Optimierung der Gewässerunterhaltung,
+– Maßnahmen zur Anpassung/Optimierung der Gewässerunterhaltung,
 
- Maßnahmen zur Reduzierung stofflicher Belastungen aus Sedimenten,
+– Maßnahmen zur Reduzierung stofflicher Belastungen aus Sedimenten,
 
- Erstellen von Konzepten/Studien/Gutachten,
+– Erstellen von Konzepten/Studien/Gutachten,
 
- Informations- und Fortbildungsmaßnahmen,
+– Informations- und Fortbildungsmaßnahmen,
 
- Beratungsmaßnahmen.
+– Beratungsmaßnahmen.
 
 ### Frage 8
 
@@ -237,43 +238,43 @@ Welche Maßnahmen befinden sich gegenwärtig in der Planungsphase?
 
 Gemäß bundeseinheitlichem Maßnahmenkatalog befinden sich nachfolgende Maßnahmen in Hamburg derzeit in der Planungsphase:
 
- Neubau und Anpassung von Anlagen zur Ableitung, Behandlung und zum Rück-
+– Neubau und Anpassung von Anlagen zur Ableitung, Behandlung und zum Rück-
 
 halt von Misch- und Niederschlagswasser,
 
- Maßnahmen zur Reduzierung der Nährstoffeinträge durch Anlage von Gewässer-
+– Maßnahmen zur Reduzierung der Nährstoffeinträge durch Anlage von Gewässer-
 
 schutzstreifen,
 
- Maßnahmen zur Reduzierung der Belastungen infolge Tidesperrwerke/-wehre bei
+– Maßnahmen zur Reduzierung der Belastungen infolge Tidesperrwerke/-wehre bei
 
 Küsten- und Übergangsgewässern,
 
- Maßnahmen zur Herstellung/Verbesserung der linearen Durchgängigkeit an Stau-
+– Maßnahmen zur Herstellung/Verbesserung der linearen Durchgängigkeit an Stau-
 
 stufen/Flusssperren, Abstürzen, Durchlässen und sonstigen wasserbaulichen Anlagen gemäß DIN 4048 beziehungsweise 19700 Teil 13,
 
- Maßnahmen zur Habitatverbesserung durch Initiieren/Zulassen einer eigendyna-
+– Maßnahmen zur Habitatverbesserung durch Initiieren/Zulassen einer eigendyna-
 
 mischen Gewässerentwicklung,
 
- Maßnahmen zur Habitatverbesserung im vorhandenen Profil,
+– Maßnahmen zur Habitatverbesserung im vorhandenen Profil,
 
- Maßnahmen zur Habitatverbesserung im Gewässer durch Laufveränderung, Ufer-
+– Maßnahmen zur Habitatverbesserung im Gewässer durch Laufveränderung, Ufer-
 
 oder Sohlgestaltung,
 
- Maßnahmen zur Habitatverbesserung im Uferbereich,
+– Maßnahmen zur Habitatverbesserung im Uferbereich,
 
- Maßnahmen zur Auenentwicklung und zur Verbesserung von Habitaten,
+– Maßnahmen zur Auenentwicklung und zur Verbesserung von Habitaten,
 
- Maßnahmen zur Verbesserung des Geschiebehaushaltes beziehungsweise Sedi-
+– Maßnahmen zur Verbesserung des Geschiebehaushaltes beziehungsweise Sedi-
 
 mentmanagement,
 
- Maßnahmen zur Anpassung/Optimierung der Gewässerunterhaltung,
+– Maßnahmen zur Anpassung/Optimierung der Gewässerunterhaltung,
 
- Maßnahmen zur Reduzierung stofflicher Belastungen aus Sedimenten.
+– Maßnahmen zur Reduzierung stofflicher Belastungen aus Sedimenten.
 
 ### Frage 9
 
@@ -283,57 +284,57 @@ Welche Maßnahmen werden zukünftig mit weiteren Mitteln in welcher Höhe durchg
 
 Gemäß bundeseinheitlichem Maßnahmenkatalog sind nachfolgende Maßnahmen in Hamburg im Rahmen der jährlich zur Verfügung gestellten 3 000 000 Euro beabsichtigt:
 
- Neubau und Anpassung von Anlagen zur Ableitung, Behandlung und zum Rück-
+– Neubau und Anpassung von Anlagen zur Ableitung, Behandlung und zum Rück-
 
 halt von Misch- und Niederschlagswasser,
 
- Sonstige Maßnahmen zur Reduzierung der Stoffeinträge durch Misch- und Nieder-
+– Sonstige Maßnahmen zur Reduzierung der Stoffeinträge durch Misch- und Nieder-
 
 schlagswassereinleitungen,
 
- Maßnahmen zur Reduzierung der Nährstoffeinträge durch Anlage von Gewässer-
+– Maßnahmen zur Reduzierung der Nährstoffeinträge durch Anlage von Gewässer-
 
 schutzstreifen,
 
- Maßnahmen zur Reduzierung der Belastungen aus anderen diffusen Quellen,
+– Maßnahmen zur Reduzierung der Belastungen aus anderen diffusen Quellen,
 
- Sonstige Maßnahmen zur Wiederherstellung des gewässertypischen Abflussver-
+– Sonstige Maßnahmen zur Wiederherstellung des gewässertypischen Abflussver-
 
 haltens,
 
- Maßnahmen zur Reduzierung der Belastungen infolge Tidesperrwerke/-wehre bei
+– Maßnahmen zur Reduzierung der Belastungen infolge Tidesperrwerke/-wehre bei
 
 Küsten- und Übergangsgewässern,
 
- Maßnahmen zur Herstellung/Verbesserung der linearen Durchgängigkeit an Stau-
+– Maßnahmen zur Herstellung/Verbesserung der linearen Durchgängigkeit an Stau-
 
 stufen/Flusssperren, Abstürzen, Durchlässen und sonstigen wasserbaulichen Anlagen gemäß DIN 4048 beziehungsweise 19700 Teil 13,
 
- Maßnahmen zur Habitatverbesserung durch Initiieren/Zulassen einer eigendyna-
+– Maßnahmen zur Habitatverbesserung durch Initiieren/Zulassen einer eigendyna-
 
 mischen Gewässerentwicklung,
 
- Maßnahmen zur Habitatverbesserung im vorhandenen Profil,
+– Maßnahmen zur Habitatverbesserung im vorhandenen Profil,
 
- Maßnahmen zur Habitatverbesserung im Gewässer durch Laufveränderung, Ufer-
+– Maßnahmen zur Habitatverbesserung im Gewässer durch Laufveränderung, Ufer-
 
 oder Sohlgestaltung,
 
- Maßnahmen zur Habitatverbesserung im Uferbereich,
+– Maßnahmen zur Habitatverbesserung im Uferbereich,
 
- Maßnahmen zur Auenentwicklung und zur Verbesserung von Habitaten,
+– Maßnahmen zur Auenentwicklung und zur Verbesserung von Habitaten,
 
- Maßnahmen zur Verbesserung des Geschiebehaushaltes beziehungsweise Sedi-
+– Maßnahmen zur Verbesserung des Geschiebehaushaltes beziehungsweise Sedi-
 
 mentmanagement,
 
- Maßnahmen zur Anpassung/Optimierung der Gewässerunterhaltung,
+– Maßnahmen zur Anpassung/Optimierung der Gewässerunterhaltung,
 
- Maßnahmen zum Initialbesatz beziehungsweise zur Besatzstützung,
+– Maßnahmen zum Initialbesatz beziehungsweise zur Besatzstützung,
 
- Maßnahmen zur Reduzierung anderer anthropogener Belastungen,
+– Maßnahmen zur Reduzierung anderer anthropogener Belastungen,
 
- Maßnahmen zur Reduzierung stofflicher Belastungen aus Sedimenten.
+– Maßnahmen zur Reduzierung stofflicher Belastungen aus Sedimenten.
 
 ### Frage 10
 
@@ -353,7 +354,7 @@ b) der EU zugeleitet? Wann wurden diese Stellungnahmen abgegeben?
 
 Welche Stellungnahmen hat der Hamburger Senat in Zusammenwirken mit weiteren Beteiligten im Rahmen der Evaluation 2019 der WRRL abgegeben? Bitte die Stellungnahmen und die jeweils Beteiligten benennen.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Hamburg beteiligt sich im Rahmen der Bund/Länder-Arbeitsgemeinschaft Wasser (LAWA) an der Meinungsbildung der Bundesrepublik Deutschland zur Revision der WRRL. Bereits 2017/2018 hat die LAWA mittels eines Fragenkatalogs begonnen, die Positionen der Länder zu einer Vielzahl von Themen bezüglich der Überprüfung der WRRL 2019 zu erfragen, um soweit wie möglich eine gemeinsame LAWA-Position in den europäischen Diskussionsprozess einzubringen.
 
@@ -389,7 +390,7 @@ Ist es richtig, dass das Bundesland Hamburg bereits im Jahr 2018 eine Verlänger
 
 Was hat der Senat aktiv zu einer derartigen Fristverlängerung getan?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Der Senat hat 2018 der Auffassung des Bundes, den Bewirtschaftungsmechanismus auch über das Jahr 2027 hinaus fortzuführen, zugestimmt.
 

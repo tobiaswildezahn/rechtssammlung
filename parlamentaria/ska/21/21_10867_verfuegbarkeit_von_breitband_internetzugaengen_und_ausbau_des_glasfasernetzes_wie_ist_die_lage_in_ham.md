@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8812", "21/10059", "21/10816"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59788"
@@ -75,13 +76,13 @@ Wie ist der aktuelle Stand zur Verfügbarkeit von Breitband-Internet in der Frei
 
 Siehe Anlage. Die Angaben sind für drei Statusannahmen aufgeführt:
 
- Ausbaustand zum Zeitpunkt der Erhebung im Frühjahr 2016
+– Ausbaustand zum Zeitpunkt der Erhebung im Frühjahr 2016
 
- Ausbaustand nach Berücksichtigung des eigenwirtschaftlichen VDSL-Vectoring-
+– Ausbaustand nach Berücksichtigung des eigenwirtschaftlichen VDSL-Vectoring-
 
 Ausbaus der Telekom Deutschland GmbH
 
- Ausbaustand nach zusätzlicher Berücksichtigung des laufenden Förderverfahrens
+– Ausbaustand nach zusätzlicher Berücksichtigung des laufenden Förderverfahrens
 
 der Stadt Hamburg
 

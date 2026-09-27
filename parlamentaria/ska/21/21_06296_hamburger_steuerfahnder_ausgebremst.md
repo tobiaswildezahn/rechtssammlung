@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54830"
@@ -59,7 +60,7 @@ Wie viele Zugriffe auf Fahrzeugdaten und/beziehungsweise Kfz-Halterdaten zur Ver
 
 Wie oft haben Hamburger Finanzämter in den Jahren 2014, 2015 und per 30.09.2016 beim Zoll Fahrzeugdaten- und/beziehungsweise Kfz- Halterdaten angefordert, um Verstöße gegen Steuergesetze zu verfolgen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die erfragten Angaben werden von den Finanzämtern nicht gesondert statistisch erfasst. Zur Beantwortung der Fragen müssten über 80.000 Akten der Vollstreckungsstellen, der Betriebsprüfung und Umsatzsteuersonderprüfung, der Lohnsteueraußenprüfung, der Steuerfahndung und der Veranlagungsstellen ausgewertet werden, was in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich ist.
 

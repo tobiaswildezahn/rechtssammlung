@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 21
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1722", "21/1985", "21/4340", "21/8208", "21/9785", "21/7799", "21/1395"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59856"
@@ -67,7 +68,7 @@ Verfügen die Gerichte über eine eigene Pressestelle?
 
 Verfügt die Staatsanwaltschaft über eine eigene Pressestelle?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Aufgrund ihrer unabhängigen Stellung verfügen Gerichte und Staatsanwaltschaften über eigene Pressesprecherinnen und Pressesprecher.
 

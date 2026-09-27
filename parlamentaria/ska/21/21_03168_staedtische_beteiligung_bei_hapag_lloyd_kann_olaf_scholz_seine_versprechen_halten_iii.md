@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 24
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2735", "21/2281"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51509"
@@ -68,7 +69,7 @@ Ist im Rahmen der Aufstellung des (vorläufigen) Jahresabschlusses 2015 der HGV 
 
 Sah oder sieht der Senat beziehungsweise die Geschäftsführung der HGV die Notwendigkeit einer Anpassung des bisherigen Bilanzierungswertes von 41,22 Euro je Aktie? a. Wenn ja, in welchem Umfang? b. Wenn nein, warum nicht? Wann ist eine Korrektur nach Auffassung von HGV und Senat in seiner Rolle als Aufsichtsinstitution angemessen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/2735
 

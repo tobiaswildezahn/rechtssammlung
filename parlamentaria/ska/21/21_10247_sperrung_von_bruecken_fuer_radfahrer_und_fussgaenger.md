@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59088"
@@ -53,7 +54,7 @@ Welche davon sind für Radfahrer und/oder Fußgänger gesperrt?
 
 Warum sind diese Brücken gesperrt? Bitte für jede Brücke getrennt angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Für Fußgängerinnen und Fußgänger und Radverkehr gesperrte Brücken:
 

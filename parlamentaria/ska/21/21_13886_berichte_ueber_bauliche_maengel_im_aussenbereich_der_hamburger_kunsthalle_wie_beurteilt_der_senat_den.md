@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 5
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63246"
@@ -47,7 +48,7 @@ Sind dem Senat und der zuständigen Behörde bauliche Mängel in Bezug auf die A
 
 Bestehen vonseiten des Senats oder der zuständigen Behörde Pläne, die etwaigen baulichen Mängel im Bereich der Außenanlagen der Kunsthalle zu beheben? a. Wenn ja: Bitte Pläne im Detail unter Nennung eines Zeitplans und der voraussichtlichen Kosten darstellen. b. Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zuständig für die unmittelbaren Außenanlagen der Hamburger Kunsthalle ist die Sprinkenhof GmbH. Dort sind mittlere, alterungstypische Mängel an den Entwässerungsrinnen des Zufahrtsbereichs Ferdinandstor sowie vereinzelter Granitelemente des Plateaus zwischen dem 1997 fertiggestellten Gebäude der Galerie der Gegenwart und dem Gründungsbau bekannt. Diese Mängel stehen nicht im Zusammenhang mit der 2016 abgeschlossenen Modernisierung der Hamburger Kunsthalle.
 

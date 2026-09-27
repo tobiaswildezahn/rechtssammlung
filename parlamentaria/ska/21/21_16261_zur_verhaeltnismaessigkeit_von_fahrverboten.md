@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 15
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/6335"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65776"
@@ -70,7 +71,7 @@ Die Bundesregierung hat im Zuge des Gesetzgebungsverfahrens zur Änderung des BI
 
 Hat der Senat an der Stellungnahme des Bundesrates mitgewirkt? Wenn ja, welche Anmerkungen hat der Senat gemacht, welche Änderungen hat er vorgeschlagen? Wie bewertet der Senat die Stellungnahme des Bundesrates?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Bundesrat hat in seiner Sitzung am 14. Dezember 2018 zu der vorgeschlagenen Gesetzesänderung die aus der BR.-Drs. 575/18 (Beschluss) ersichtliche kritische Stellungnahme abgegeben.
 

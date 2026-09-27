@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11096", "21/1225", "21/5540"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65221"
@@ -81,6 +82,6 @@ Durch welche neuen Maßnahmen beabsichtigt die zuständige Behörde dem Krankens
 
 Welche „Maßnahmen sowohl zur Gesunderhaltung als auch zur Wiedergenesung und Rückführung in den Arbeitsprozess insbesondere langfristig Erkrankter“ wurden seit November 2017 ergriffen (siehe Antwort zu Frage 3. der Drs. 21/11096)?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Polizei hat ein Vorkonzept zur Einführung eines Behördlichen Gesundheitsmanagements amtsintern abgestimmt, dessen Konkretisierung noch aussteht. Im Übrigen wurden die in der Drs. 21/5540 aufgeführten Maßnahmen verstetigt.

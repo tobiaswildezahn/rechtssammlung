@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11224"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62099"
@@ -118,24 +119,24 @@ Im Sinne der Fragestellung waren Beamte des PK 21 gegen 8.12 Uhr erstmalig im Be
 
 Die Vielzahl an Sachbeschädigungen/Brandlegungen am Morgen des 7. Juli 2017 im gesamten Stadtgebiet erforderten von der BAO Michel eine umfangreiche Verlegung von Einsatzkräften, sodass eine hohe dynamische Einsatzsituation für die Kräfte entstand. Im EPSweb sind im Sinne der Fragestellungen die im Folgenden dargestellten Kräfteverlegungen der BAO Michel für den Bereich Altona registriert:
 
- Um 7.47 Uhr wies der Einsatzabschnitt (EA) Einsatzkräfte die niedersächsische
+– Um 7.47 Uhr wies der Einsatzabschnitt (EA) Einsatzkräfte die niedersächsische
 
 Beweissicherungs- und Festnahmehundertschaft (BFHu) an, die Kräfte in Richtung Max-Brauer-Allee zu verlegen.
 
 Auf dem Weg zum Einsatzort musste die BFHu zunächst im Bereich Ernst-Merck- Brücke und kurze Zeit später im Bereich Alstertor einschreiten; das Erreichen des Einsatzortes in Altona ist nicht dokumentiert.
 
- Gegen 8.00 Uhr entsandte der EA Eingreifkräfte österreichische Kräfte (Wega)
+– Gegen 8.00 Uhr entsandte der EA Eingreifkräfte österreichische Kräfte (Wega)
 
 sowie zwei bayerische Unterstützungskommandos (USK) in Richtung Altonaer Bahnhof. Die Wega-Kräfte und ein USK waren zuvor im Bereich Holstenkamp, das zweite USK im Bereich Schützenstraße eingesetzt. Die Wega Kräfte trafen um
 8.17 Uhr am Bundespolizeirevier am Bahnhof Altona ein; zeitgleich übernahm das zuvor mit ihnen eingesetzte bayerische USK die Nahbereichsfahndung nach Störern im Bereich Bahnhof Altona.
 
 Das zweite USK hatte auf dem Weg nach Altona ein Einschreiten im Bereich Feldstraße/Neuer Kamp und erreichte den Bereich Altona mit Verzögerung um 8.39 Uhr.
 
- Der EA Eingreifkräfte entsendete daraufhin um 8.12 Uhr eine Staffel Wasserwerfer
+– Der EA Eingreifkräfte entsendete daraufhin um 8.12 Uhr eine Staffel Wasserwerfer
 
 (Berlin) in Richtung Bundespolizeirevier Altona.
 
- Um 8.30 Uhr ließ der Polizeiführer der BAO Michel eine in Lübeck untergebrachte
+– Um 8.30 Uhr ließ der Polizeiführer der BAO Michel eine in Lübeck untergebrachte
 
 niedersächsische Hundertschaft alarmieren. Zunächst lautete der Auftrag nur, mit Sonderrechten Kräfte nach Altona zu verlegen; das Erreichen des Einsatzortes ist nicht dokumentiert.
 
@@ -164,7 +165,7 @@ d. Wie viele Polizeihubschrauber sind in den hier gegenständlichen Bereich verl
 
 Im erfragten Zeitraum hatte die BAO Michel vier Polizeihubschrauber im Einsatz:
 
- Der Polizeihubschrauber aus Mecklenburg-Vorpommern erhielt um 7.20 Uhr den
+– Der Polizeihubschrauber aus Mecklenburg-Vorpommern erhielt um 7.20 Uhr den
 
 Auftrag:
 
@@ -172,7 +173,7 @@ Auftrag:
 
 Darüber hinaus siehe Antwort zu 3.
 
- Der Polizeihubschrauber aus Hamburg erhielt um 7.39 Uhr den Auftrag:
+– Der Polizeihubschrauber aus Hamburg erhielt um 7.39 Uhr den Auftrag:
 
 „Aufklärung Schöne Aussicht, einzelne Personengruppen!“
 
@@ -180,11 +181,11 @@ und ab 7.52 Uhr den Auftrag:
 
 „Gesamtübersicht Hafengebiet und Elbphilharmonie!“
 
- Der Polizeihubschrauber aus Sachsen-Anhalt erhielt um 7.53 Uhr den Auftrag:
+– Der Polizeihubschrauber aus Sachsen-Anhalt erhielt um 7.53 Uhr den Auftrag:
 
 „Aufklärung im Bereich Altona Schützenstraße.“ Er befand sich ab 8.05 Uhr in der Luft.
 
- Der Polizeihubschrauber aus Niedersachsen meldete sich um 7.17 Uhr aus sei-
+– Der Polizeihubschrauber aus Niedersachsen meldete sich um 7.17 Uhr aus sei-
 
 nem Auftrag im Bereich Volksparkstadion/ Autobahn ab und kehrte zum Tanken an seinen Stützpunkt zurück. Im Anschluss erhielt er um 7.59 Uhr den Auftrag:
 

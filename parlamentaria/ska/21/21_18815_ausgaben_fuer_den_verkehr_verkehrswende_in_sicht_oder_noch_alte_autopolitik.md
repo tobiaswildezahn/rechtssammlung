@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68495"
@@ -47,7 +48,7 @@ Wie hoch waren seit 2011 jeweils die jährlichen Ausgaben (inklusive Drittmittel
 
 Von welchen Ausgaben der unter Nummer 1. genannten verschiedenen Kostenträger und Verkehrsbereiche (Nummern 1. a. – 1. h.) wird für geplante oder in Bau befindliche Projekte bis zum Jahr 2030 ausgegangen? Auch hier bitte Großprojekte ab 5 Millionen Euro Gesamtvolumen gesondert aufführen und eine kurze Beschreibung dieser Großprojekte anfügen (zum Beispiel 1,8 km U5-Bau im Abschnitt ...).
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Aufgaben, die von den Behörden Hamburgs geleistet werden, sind nicht nach den von der Fragestellung vorgegebenen „Verkehrsbereichen“ (Nummern 1. a bis 1. h.) differenziert. Die Projekte Hamburgs überdecken in weiten Bereichen jeweils mehrere dieser Verkehrsbereiche inhaltlich und finanziell. Beispielsweise werden Fahrbahnen, Radverkehrsanlagen und Gehwege im Zusammenhang mit Straßenbaumaßnahmen neugebaut, verändert oder erneuert. Die Ausgaben des Bundes für Bundesstraßen können auch für Rad- und Fußverkehrsanlagen anfallen. Für die Infrastruktur des Personenfern- und Güterverkehrs ist der Bund zuständig. Aufwendungen und Investitionen für den Hafen und die Schifffahrt umfassen im Bereich Straße den Kfz-, Radund Fußverkehr sowie auch den Schienenverkehr. Die Flughafen Hamburg GmbH wird nicht über Ausgaben der Stadt finanziert.
 
@@ -68,7 +69,7 @@ c. Radweg,
 d. Fußwege  
 sind bis 2030 in Planung oder im Bau?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Straßenzustandsbericht 2019, der am 5. November 2019 vom Senat beschlossen wurde, wird in Kürze der Bürgerschaft zugeleitet. In dem Straßenzustandsbericht sind die Ist-Zahlen für das Jahr 2018 dargestellt. Entsprechend der Darstellung in dem Straßenzustandsbericht 2019 sind die Planungen für das Jahr 2020 noch nicht abgeschlossen. Dieser Sachverhalt trifft auch auf die Folgejahre zu.
 
@@ -92,7 +93,7 @@ Wie viele Vollzeitstellen gibt es jeweils in den Behörden, Landesbetrieben oder
 
 Wie viele derzeit unbesetzte Stellen gibt es in den unter Nummer 5. genannten Bereichen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 In der Behörde für Wirtschaft, Verkehr und Innovation sind im Bereich des Amtes Verkehr und Straßenwesen sämtliche Mitarbeiterinnen und Mitarbeiter mit den genannten Aufgaben befasst. Derzeit sind von insgesamt 173 Stellen (156,25 VZÄ) 14 Stellen nicht besetzt. Im LSBG (ohne den Geschäftsbereich Gewässer) gibt es 612 Stellen für die genannten Aufgaben, 50 Stellen sind insbesondere aufgrund des Fachkräftemangels im Bereich der technischen Dienste unbesetzt. Die personelle Ausstattung der Bezirksämter für die genannten Aufgaben ist in der nachfolgenden Tabelle dargestellt:
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/197", "21/9602", "21/8091", "21/10015"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58850"
@@ -85,15 +86,15 @@ d. Wie viele Tränengasgranaten mit welchen Substanzen wurden im Rahmen des Eins
 
 Valide Daten im Sinne der Fragestellung liegen der zuständigen Behörde derzeit noch nicht vor; dies ist Gegenstand der noch nicht abgeschlossenen Nachbereitung des Einsatzes der Sicherheitsbehörden zum G20-Gipfel. Eine vorläufige Erhebung im Sinne der Fragestellung bezüglich des Einsatzes der MZP ergab nachstehenden derzeitigen Sachstand:
 
- Beweissicherungs- und Festnahme Hundertschaft Sachsen - 22 x MZP
+– Beweissicherungs- und Festnahme Hundertschaft Sachsen - 22 x MZP
 
- Unterstützungskommando Bayern - 18 x MZP
+– Unterstützungskommando Bayern - 18 x MZP
 
- Beweissicherungs- und Festnahme Hundertschaft Hessen - 2 x MZP
+– Beweissicherungs- und Festnahme Hundertschaft Hessen - 2 x MZP
 
- Beweissicherungs- und Festnahme Hundertschaft Rheinland-Pfalz- 4 x MZP
+– Beweissicherungs- und Festnahme Hundertschaft Rheinland-Pfalz- 4 x MZP
 
- Beweissicherungs- und Festnahme Hundertschaft Thüringen - 21 x MZP
+– Beweissicherungs- und Festnahme Hundertschaft Thüringen - 21 x MZP
 
 Im Weiteren wurde nach derzeitigem Erkenntnistand ein CS-Wurfkörper durch die Beweissicherungs- und Festnahme Hundertschaft Sachsen eingesetzt. Im Übrigen siehe Antwort zu 1.a.
 
@@ -158,7 +159,7 @@ Welche Einsätze von Reizstoffen im Rahmen des G20-Einsatzes wurden durch Dienst
 
 Welche nicht rechtmäßigen Einsätze von Reizstoffen (insbesondere Pfefferspray) werden von der Polizei Hamburg derzeit untersucht (nicht nur gegen Demonstrierende, sondern auch Journalisten/-innen, Umstehende oder Anwohner/-innen)?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 In acht der gegenwärtig 60 beim Dezernat Interne Ermittlungen (DIE) anhängigen Ermittlungsverfahren kam es zum Einsatz von Reizstoffen durch Polizeibedienstete.
 
@@ -183,13 +184,13 @@ Welche weiteren Hilfsmittel körperlicher Gewalt werden von der Hamburger Polize
 
 Gemäß der PDV 350 HH können von der Polizei neben Reizstoffsprühgeräten und Wasserwerfern folgende Hilfsmittel der körperlichen Gewalt eingesetzt werden:
 
- Fesseln
+– Fesseln
 
- Spuckschutzhauben
+– Spuckschutzhauben
 
- Technische Sperren
+– Technische Sperren
 
- Diensthunde und Dienstpferde
+– Diensthunde und Dienstpferde
 
 a. Welche weiteren Hilfsmittel körperlicher Gewalt waren während des G20-Gipfels in Hamburg im Einsatz durch welche Einheiten welcher Länderpolizeien?
 

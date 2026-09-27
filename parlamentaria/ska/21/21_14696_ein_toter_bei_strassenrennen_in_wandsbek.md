@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 17
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64169"
@@ -121,7 +122,7 @@ Ist der Unfallfahrer polizeibekannt? Falls ja, ist er in der Vergangenheit berei
 
 Ist der Unfallfahrer zudem in der Vergangenheit bereits strafrechtlich in Erscheinung getreten beziehungsweise verurteilt worden? Falls ja, wann und weswegen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Im Hinblick auf das Persönlichkeitsrecht des Beschuldigten und die gesetzlichen Wertungen des Bundeszentralregistergesetzes sieht der Senat davon ab, etwaige Ermittlungsverfahren mitzuteilen, die durch einen Freispruch oder eine Einstellung beendet worden sind. Dasselbe gilt für Ermittlungsverfahren, die zu einem Abschluss geführt haben, der entweder nicht in ein Führungszeugnis aufzunehmen oder nach den Tilgungsvorschriften des Bundeszentralregistergesetzes nicht mehr zu berücksichtigen ist. Die Auskunft des Bundeszentralregisters vom 17. Oktober 2018 enthält keine mitteilungsfähigen Eintragungen.
 

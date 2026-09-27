@@ -14,6 +14,7 @@ fragen: 25
 einzelfragen: 55
 antwortbloecke: 21
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/7296", "19/8174", "20/10944", "21/13602", "21/11788", "21/3638", "20/7031", "21/741", "21/13405", "21/17853"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67851"
@@ -220,7 +221,7 @@ Wie bewertet der Senat beziehungsweise die zuständige Behörde den Stand der Ei
 
 Welche Maßnahmen ergreift der Senat beziehungsweise die zuständige Behörde, um den Wissensstand, die Motivation und die Rahmenbedingungen für die Entwicklung von Schutzkonzepten in Schulen, in Kitas, in der Jugend-, Behinderten- und Gesundheitshilfe sowie in Freizeiteinrichtungen und Sportvereinen weiter zu verbessern? Welche Rahmenbedingungen werden als förderlich und hinderlich bewertet?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Mit dem Inkrafttreten des Bundeskinderschutzgesetzes begannen die BASFI als Aufsichtsbehörde und die Verbände der Kinder- und Jugendhilfe in einer Arbeitsgemeinschaft gemeinsam mit der Entwicklung von Leitfragen zur Erstellung von Schutzkonzepten in Einrichtungen gemäß §§ 45 und 79a SGB VIII. Inzwischen habe alle freien Träger in der Freien und Hansestadt Hamburg, die mit Kindern und Jugendlichen arbeiten, der zuständigen Behörde ein Schutzkonzept vorgelegt. Dadurch werden Bedingungen geschaffen, die das Risiko einer Grenzüberschreitung senken. Diese Schutzkonzepte dienen auch dem Schutz und der Hilfe bei sexueller Gewalt in der Einrichtung.
 
@@ -392,15 +393,15 @@ Themenbezogene Angebote des ProPK sind nachstehend dargestellt:
 
 ONLINEMEDIEN
 
-polizei-beratung.de Zielgruppe: Allgemeinheit Zentrale Seite des Programms Polizeiliche Kriminalprävention der Länder und des Bundes (ProPK) mit einem breit gefächerten Themenspektrum; hier einschlägig u.a.:  https://www.polizei-beratung.de/themen-und-tipps/sexualdelikte/ mit den Unterthemen: Kin-
+polizei-beratung.de Zielgruppe: Allgemeinheit Zentrale Seite des Programms Polizeiliche Kriminalprävention der Länder und des Bundes (ProPK) mit einem breit gefächerten Themenspektrum; hier einschlägig u.a.: – https://www.polizei-beratung.de/themen-und-tipps/sexualdelikte/ mit den Unterthemen: Kin-
 
 derpornografie, Kindersex-Tourismus, Loverboys, sexueller Missbrauch von Kindern, sexuelle Nötigung / Vergewaltigung
 
-polizeifürdich.de Zielgruppe: Kinder / Jugendliche Jugendseite des ProPK mit spezifischen (polizeilichen) Jugendthemen; hier einschlägig u. a.:  https://www.polizeifürdich.de/deine-themen/sexuelle-selbstbestimmung.html mit den Un-
+polizeifürdich.de Zielgruppe: Kinder / Jugendliche Jugendseite des ProPK mit spezifischen (polizeilichen) Jugendthemen; hier einschlägig u. a.: – https://www.polizeifürdich.de/deine-themen/sexuelle-selbstbestimmung.html mit den Un-
 
-terthemen: sexuelle Gewalt, Missbrauch, Pornografie, Sexting  https://www.polizeifürdich.de/deine-themen/handy-smartphone-internet.html u. a. mit den Un-
+terthemen: sexuelle Gewalt, Missbrauch, Pornografie, Sexting – https://www.polizeifürdich.de/deine-themen/handy-smartphone-internet.html u. a. mit den Un-
 
-terthemen: „Cybermobbing“ und „Cybergrooming“  https://www.polizeifürdich.de/wo-gibts-hilfe/hilfeangebote.html – hier wird u. a. auf spezifi-
+terthemen: „Cybermobbing“ und „Cybergrooming“ – https://www.polizeifürdich.de/wo-gibts-hilfe/hilfeangebote.html – hier wird u. a. auf spezifi-
 
 sche Hilfe- und Beratungsangebote für Jugendliche verwiesen.
 
@@ -419,15 +420,15 @@ Broschüre „Klicks-Momente. Informationen für Eltern und Erziehungsverantwort
 
 ONLINEMEDIEN
 
-polizei-beratung.de Zielgruppe: Allgemeinheit Zentrale Seite des Programms Polizeiliche Kriminalprävention der Länder und des Bundes (ProPK) mit einem breit gefächerten Themenspektrum; hier einschlägig u.a.:  https://www.polizei-beratung.de/themen-und-tipps/sexualdelikte/ mit den Unterthemen: Kin-
+polizei-beratung.de Zielgruppe: Allgemeinheit Zentrale Seite des Programms Polizeiliche Kriminalprävention der Länder und des Bundes (ProPK) mit einem breit gefächerten Themenspektrum; hier einschlägig u.a.: – https://www.polizei-beratung.de/themen-und-tipps/sexualdelikte/ mit den Unterthemen: Kin-
 
 derpornografie, Kindersex-Tourismus, Loverboys, sexueller Missbrauch von Kindern, sexuelle Nötigung / Vergewaltigung
 
-polizeifürdich.de Zielgruppe: Kinder / Jugendliche Jugendseite des ProPK mit spezifischen (polizeilichen) Jugendthemen; hier einschlägig u. a.:  https://www.polizeifürdich.de/deine-themen/sexuelle-selbstbestimmung.html mit den Un-
+polizeifürdich.de Zielgruppe: Kinder / Jugendliche Jugendseite des ProPK mit spezifischen (polizeilichen) Jugendthemen; hier einschlägig u. a.: – https://www.polizeifürdich.de/deine-themen/sexuelle-selbstbestimmung.html mit den Un-
 
-terthemen: sexuelle Gewalt, Missbrauch, Pornografie, Sexting  https://www.polizeifürdich.de/deine-themen/handy-smartphone-internet.html u. a. mit den Un-
+terthemen: sexuelle Gewalt, Missbrauch, Pornografie, Sexting – https://www.polizeifürdich.de/deine-themen/handy-smartphone-internet.html u. a. mit den Un-
 
-terthemen: „Cybermobbing“ und „Cybergrooming“  https://www.polizeifürdich.de/wo-gibts-hilfe/hilfeangebote.html – hier wird u. a. auf spezifi-
+terthemen: „Cybermobbing“ und „Cybergrooming“ – https://www.polizeifürdich.de/wo-gibts-hilfe/hilfeangebote.html – hier wird u. a. auf spezifi-
 
 sche Hilfe- und Beratungsangebote für Jugendliche verwiesen.
 
@@ -521,7 +522,7 @@ Haben die jeweils zuständigen Kammern der Ärzteschaft und der Psychologen Schu
 
 Ist es bereits Gesetzeslage oder ist es beabsichtigt auf Landesebene die Pflicht zur Vorlage von erweiterten Führungszeugnissen und verbindliche Schutzkonzepte zur Prävention von Kindesmissbrauch durch Personen, die in Heilberufen tätig sind, sowie vom Familiengericht bestellte Vormünder, Verfahrensbeistände, psychologische Sachverständige oder selbständig arbeitende Umgangspfleger, einzuführen? Wenn ja, wie weit sind die Planungen vorangeschritten? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 24 bis 25
+#### Antwort zu Fragen 24 und 25
 
 Für private Vormünder gilt keine explizite Vorgabe zur Vorlage eines Führungszeugnisses, gleichwohl ist das zur Bestellung berufene Familiengericht gemäß § 1779 Absatz 2 S. 1 Bürgerliches Gesetzbuch (BGB) aufgefordert, eine Person als Vormund auszuwählen, die nach ihren persönlichen Verhältnissen und ihrer Vermögenslage sowie nach den sonstigen Umständen zur Führung der Vormundschaft geeignet ist. Über die Verweisung in § 1915 Absatz 1 BGB gelten diese Grundsätze auch für die Pflegschaft. Also auch dann, wenn nur einzelne Teile des Sorgerecht zu übertragen sind.
 

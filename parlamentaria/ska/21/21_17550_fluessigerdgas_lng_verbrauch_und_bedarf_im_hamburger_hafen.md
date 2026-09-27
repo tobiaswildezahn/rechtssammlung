@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 27
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4858", "21/16095", "21/15997"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67145"
@@ -103,7 +104,7 @@ Welches werden voraussichtlich die drei wichtigsten Einsatzarten von LNG im Hamb
 
 Welchen quantitativen Einfluss hat nach Auffassung des Senats eine Errichtung von LNG-Terminals in Brunsbüttel, Stade, Wilhelmshaven und/oder Rostock auf den Bedarf an LNG im Hamburger Hafen in den nächsten zehn Jahren im Vergleich zur Unterlassung der Errichtung?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Vorbemerkung. Im Übrigen siehe Antwort zu 11. Darüber hinaus hat sich der Senat hiermit nicht befasst.
 

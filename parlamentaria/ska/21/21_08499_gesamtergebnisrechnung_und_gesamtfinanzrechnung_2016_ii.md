@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7585", "21/3098"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57229"
@@ -59,7 +60,7 @@ Wie sehen auf Grundlage der derzeit vorliegenden Beschlusslage der Fortgeschrieb
 
 Wie hoch lagen die jeweiligen Ist-Werte der Gesamtfinanzrechnung 2016 nach der 13. Buchungsperiode? Welche Änderungen haben sich noch aus welchen Gründen gegenüber dem Stand der 12. Buchungsperiode ergeben? (Bitte Antworten zu Fragen 3. & 4. jahresweise analog zur Darstellung in den Quartalsberichten beziehungsweise Drs. 21/3098 & 21/7585 auflisten.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Austausch von Barsicherheiten im Zusammenhang mit Zinsderivaten (Collateral Management) wurde von den Auszahlungen aus Verwaltungstätigkeit in die Auszahlungen aus Finanzierungstätigkeit umgebucht. Im Übrigen siehe Anlage 3.
 
@@ -71,7 +72,7 @@ Haben sich die Hamburg verbleibenden Steuererträge sowie -einzahlungen (vor Fin
 
 Welche Änderungen haben sich im Rahmen der im März 2017 erfolgenden abschließenden Abrechnung des Länderfinanzausgleichs ergeben? Inwieweit beziehungsweise in welchem Umfang fand sich Hamburg nun entsprechend der bereits mit der Novembersteuerschätzung erfolgten Ankündigungen 2016 wieder auf Seiten der „Nehmerländer“ im Länderfinanzausgleich wieder?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die endgültige Abrechnung des bundesstaatlichen Finanzausgleichs für die Zeit vom
 1. Januar bis zum 31. Dezember 2016 liegt noch nicht vor. Im Übrigen siehe Anlage 4.

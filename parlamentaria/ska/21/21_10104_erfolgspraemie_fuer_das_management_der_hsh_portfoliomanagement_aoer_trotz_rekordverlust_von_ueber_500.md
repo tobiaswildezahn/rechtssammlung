@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9572", "21/9751"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58928"
@@ -65,7 +66,7 @@ Inwiefern hat das berichtete Jahresergebnis der hsh portfoliomanagement AöR Aus
 
 Warum wurde keine variable Vergütungskomponente mit langfristiger Anreizwirkung, zum Beispiel in Bezug auf die im AöR-Staatsvertrag festgelegte Aufgabe der gewinnorientierten Verwertung und Abwicklung der übernommenen Risikopositionen, für den Vorstand der hsh portfoliomanagement AöR festgelegt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Das Jahresergebnis beziehungsweise die Gewinn- und Verlustrechnung der hsh pm werden in der allgemeinen Beurteilung der Geschäftsentwicklung berücksichtigt, sind aber erheblich von der Bewertung der von der hsh pm übernommenen Schiffskredite geprägt, die im Wesentlichen von externen Marktfaktoren wie der Charterratenentwicklung abhängen. Diese können vom Vorstand nicht beeinflusst werden und stellen insofern einen weniger geeigneten Maßstab für den Erfolg beziehungsweise die Qualität seiner Arbeit dar als die vereinbarten Kriterien zum Aufbau des Geschäftsbetriebs der hsh pm und zur erfolgreichen Restrukturierung der Portfolien.
 

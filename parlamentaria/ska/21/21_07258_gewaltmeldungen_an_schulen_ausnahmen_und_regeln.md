@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 22
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/8174", "20/5972", "20/9125", "20/12882", "21/1599", "21/1917", "21/5677"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55855"
@@ -53,35 +54,35 @@ Wie lange und für welchen Zweck werden die Daten von minderjährigen Kindern be
 
 Wenn es eine Datei gibt, wie heißt die Datei, in der diese Daten gespeichert werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Daten im Sinne der Fragestellungen werden bei der Polizei in folgenden Verfahren gespeichert:
 
- Polizeiliche Kriminalstatistik (PKS),
+– Polizeiliche Kriminalstatistik (PKS),
 
- Computerunterstützte Vorgangsbearbeitung (ComVor),
+– Computerunterstützte Vorgangsbearbeitung (ComVor),
 
- Vorgangsverwaltungssystem für ComVor (ComVor-Index),
+– Vorgangsverwaltungssystem für ComVor (ComVor-Index),
 
- Criminal Research and Investigation Management Software (CRIME) und
+– Criminal Research and Investigation Management Software (CRIME) und
 
- Polizeiliches Auskunftssystem (POLAS).
+– Polizeiliches Auskunftssystem (POLAS).
 
 Die Speicherfristen richten sich nach der Erforderlichkeit zur Aufgabenerfüllung im Rahmen der gesetzlichen Löschfristen:
 
- PKS: Die Speicherung erfolgt für ein Kalenderjahr; die Daten werden für die Erhe-
+– PKS: Die Speicherung erfolgt für ein Kalenderjahr; die Daten werden für die Erhe-
 
 bung der PKS gespeichert.
 
- ComVor: Die Daten werden im Rahmen der Vorgangsarchivierung fünf Jahre ab
+– ComVor: Die Daten werden im Rahmen der Vorgangsarchivierung fünf Jahre ab
 
 dem Zeitpunkt der letzten Abverfügung eines Vorgangs gespeichert. Die personenbezogenen Daten sind in ComVor nicht, aber für zwei Jahre in ComVor-Index (siehe unten), recherchefähig.
 
- ComVor-Index: Die Daten werden bis zu zwei Jahre ab dem Zeitpunkt der letzten
+– ComVor-Index: Die Daten werden bis zu zwei Jahre ab dem Zeitpunkt der letzten
 
 Abverfügung eines Vorgangs gespeichert.
 
- CRIME: Das Verfahren dient der Ermittlungsunterstützung im strafprozessualen
+– CRIME: Das Verfahren dient der Ermittlungsunterstützung im strafprozessualen
 
 und gefahrenabwehrrechtlichen Bereich durch die strukturierte und verknüpfte Erfassung von Daten.
 
@@ -89,7 +90,7 @@ In den CRIME-Dateien werden nur Daten gespeichert, die für den jeweiligen Zweck
 
 Die Prüf- und Aufbewahrungsfristen der Daten von Kindern betragen gemäß § 15 des Gesetzes über die Datenverarbeitung der Polizei (PolDVG) zwei Jahre.
 
- POLAS: Das Verfahren dient der Aufklärung von Straftaten und der Gefahrenab-
+– POLAS: Das Verfahren dient der Aufklärung von Straftaten und der Gefahrenab-
 
 wehr, einschließlich der vorbeugenden Bekämpfung von Straftaten durch den örtlichen Kriminalaktennachweis, durch örtliche Hinweise und Suchvermerke, den Nachweis von festgenommenen Personen und Fallinformationen. Grundsätzlich dürfen in POLAS-Daten aufgrund einer Negativprognose so lange gespeichert werden, wie es für die Aufgabenerfüllung erforderlich ist (§ 15 PolDVG).
 
@@ -179,7 +180,7 @@ Wie viele Strafanzeigen wurden von Schulen gegen strafunmündige Kinder gestellt
 
 Wie alt waren die strafunmündigen Kinder gegen die Strafanzeige gestellt wurde? Bitte tabellarisch für die jeweiligen Schuljahre darstellen.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Zu den Daten der Schulen siehe Drs. 19/8174, Drs 20/5972, Drs. 20/9125, Drs. 20/12882, Drs. 21/1599, Drs. 21/1917 sowie Drs. 21/5677.
 

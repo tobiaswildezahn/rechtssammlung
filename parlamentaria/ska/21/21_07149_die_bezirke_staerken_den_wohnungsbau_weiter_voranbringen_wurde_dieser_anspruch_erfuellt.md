@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3037"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55751"
@@ -163,16 +164,16 @@ Besetzungen 2016
 
 Fachrichtung
 
-  
+–  
 HH-Mitte  
 1,4  
 (von 2)
 
- Altona
+– Altona
 
 (von 2) 0,5
 
-  
+–  
 Eimsbüttel  
 0,5  
 0,5  
@@ -181,14 +182,14 @@ Eimsbüttel
 (von 4)  
 0,5
 
-  
+–  
 HH-Nord  
 3,25  
 (von 3)  
 3,75  
 (von 4)
 
- Wandsbek
+– Wandsbek
 
 (von 1) (von 3)
 
@@ -198,12 +199,12 @@ HH-Nord
 0,77  
 (von 1)
 
-  
+–  
 Bergedorf  
 (von 2,75)  
 0,5
 
-  
+–  
 Harburg  
 1,75  
 (von 2)

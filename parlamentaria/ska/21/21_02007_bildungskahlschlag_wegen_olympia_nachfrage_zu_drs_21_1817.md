@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 49
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1817", "20/1817", "21/1056", "21/1085", "21/1845"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50256"
@@ -144,11 +145,11 @@ Auf die Frage 4. in der Drs. 21/1817 erklärt der Senat, er hätte Stellungnahme
 
 Berücksichtigt wurden die in der bezirklichen Drs. 20-1435.1 aufgeführten Aspekte, der Fragenkatalog an die Amtsleitung der zuständigen Behörde vom 8. Mai 2015 sowie die während des Besuchs des Präses am 27. März sowie während des Besuchs des Amtsleiters am 21. Mai mündlich vorgebrachten Argumente. Es handelt sich dabei um folgende Kernargumente:
 
- Die Schülerzahlen würden aufgrund der umliegenden Bauvorhaben steigen.
+– Die Schülerzahlen würden aufgrund der umliegenden Bauvorhaben steigen.
 
- Die Auslastung der umliegenden Standorte sei erreicht.
+– Die Auslastung der umliegenden Standorte sei erreicht.
 
- Die Schulwege würden zu lang.
+– Die Schulwege würden zu lang.
 
 Im Einzugsbereich der Schule Karlshöhe befinden sich gegenwärtig Wohnungsbauvorhaben mit circa 200 Wohnungen im Bau beziehungsweise in Planung. Diese Wohnungsbaumaßnahmen werden zu einem dauerhaften Anstieg der Schülerzahlen um sechs bis acht Schülerinnen und Schüler pro Jahrgang führen. Dieser Anstieg wird im Rahmen der jährlich schwankenden Organisationsfrequenzen ohne Einrichtung zusätzlicher Klassen zu bewältigen sein.
 
@@ -168,7 +169,7 @@ Die zuständige Behörde führt in ihrer Presseerklärung vom 24.09.2015 aus, da
 
 Besteht nach Ansicht des zuständigen Bezirks oder der Fachbehörde fachlicher Bedarf für die Einrichtung einer Flüchtlingsunterkunft am Standort? Gibt es hierzu konkrete Überlegungen oder Planungen? Wenn ja, seit wann, durch wen und welcher Art sind diese? (Bitte erläutern.) a. Stehen im Etat des Bezirks oder der Fachbehörde für die Errichtung einer solchen Flüchtlingsunterkunft finanzielle Ressourcen bereit? Wenn ja, in welcher Höhe stehen Gelder zur Verfügung, um eine solche Einrichtung einrichten zu können? b. Welcher Investitionsbedarf in das Gebäude besteht, um es in eine Flüchtlingsunterkunft umnutzen zu können? Wie unterscheidet sich der Investitionsbedarf konkret von einer schulischen Nutzung? c. Welche zusätzlichen Investitionen in den Brandschutz sind dafür erforderlich, was kosten diese? Wie wirkt sich der Denkmalschutz an dieser Stelle aus? Wer hätte diese Kosten zu tragen? d. Ist das Gebäude durch Mitarbeiter des Senats beziehungsweise der zuständigen Behörden begutachtet oder besichtigt worden, um die Möglichkeit einer Nutzung als Flüchtlingsunterkunft zu prüfen? Wenn ja, wann und durch wen wurde diese Begutachtung durchgeführt? Wer ist vorab durch wen hierüber informiert worden? Welche konkreten Ergebnisse liegen dazu vor? (Bitte Dokumentationen beifügen.)
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Planungen der zuständigen Behörden zur Nachnutzung der Lienaustraße sind noch nicht abgeschlossen.
 

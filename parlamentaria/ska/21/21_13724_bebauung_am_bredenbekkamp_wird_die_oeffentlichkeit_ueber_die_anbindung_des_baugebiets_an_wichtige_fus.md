@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8622"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63103"
@@ -61,7 +62,7 @@ Hat die für Verkehr zuständige Behörde oder gegebenenfalls eine andere Stelle
 
 Ist beabsichtigt, eine entsprechende Fachplanung durchzuführen oder in Auftrag zu geben? Wenn ja, wann soll mit den Planungsarbeiten begonnen werden? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Seitens der zuständigen Behörde ist zurzeit nicht beabsichtigt, eine entsprechende Fachplanung zu beauftragen, da diese kurz- bis mittelfristig nicht für erforderlich gehalten wird. Im Übrigen siehe Vorbemerkung.
 
@@ -89,6 +90,6 @@ Ist es zutreffend, dass die HOCHBAHN in einer Stellungnahme zum Bebauungsplan-En
 
 Ist es zutreffend, dass die HOCHBAHN dabei ausgeführt hat, dass die zeichnerische Darstellung einer solchen Fußgängerunterführung „einen irgendwie gearteten Planungsstand nur vortäuscht“?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Stellungnahme der HOCHBAHN liegt die Auffassung zugrunde, dass die nachrichtliche Übernahme der Fußgängerunterführung in den Bebauungsplanentwurf nicht zulässig ist, weil die Anforderungen des § 9 Absatz 6 des Baugesetzbuches (BauGB) nicht erfüllt sind.

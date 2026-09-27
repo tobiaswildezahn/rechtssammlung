@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13762", "21/16801", "21/16285", "21/16412"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66420"
@@ -67,15 +68,15 @@ Inwiefern arbeitet plata mit Barka beziehungsweise welchen anderen osteuropäisc
 
 Die Einrichtung plata verfügt über Kontakte und Partnerschaften zu Einrichtungen, Trägern und Projekten in den genannten Herkunftsländern, insbesondere:
 
- Polen (Barka, Monar, Brata Alberta, Otwarte drzwi, Caritas, Diakonie Polen, kom-
+– Polen (Barka, Monar, Brata Alberta, Otwarte drzwi, Caritas, Diakonie Polen, kom-
 
 munale Sozialämter);
 
- Bulgarien (Kontakte zu Frauenhäusern, Altenheimen und Therapieeinrichtungen in
+– Bulgarien (Kontakte zu Frauenhäusern, Altenheimen und Therapieeinrichtungen in
 
 Varna und Ruse sowie zu Sozialeinrichtungen der Bulgarischen Orthodoxen Kirche);
 
- Rumänien (Casa Ioana, Amurt, Aliat, samusocial, Sozialministerium in Bukarest,
+– Rumänien (Casa Ioana, Amurt, Aliat, samusocial, Sozialministerium in Bukarest,
 
 Zentrale Notunterkunft in Bukarest).
 
@@ -125,7 +126,7 @@ Des Weiteren kooperiere die Servicestelle mit den bulgarischen Gewerkschaften CI
 
 Auch habe es Gespräche mit bulgarischen Behörden und Sozialpartnern gegeben. Welche Maßnahmen sind aus diesen Gesprächen außer der erwähnten offenbar einmaligen Infoaktion am Hauptbahnhof in Sofia entstanden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Servicestelle Arbeitnehmerfreizügigkeit war in den Jahren 2013 und 2014 Partner der bulgarischen Gewerkschaft Podkrepa bei den Projekten „BEGIN – Bulgarian-
 

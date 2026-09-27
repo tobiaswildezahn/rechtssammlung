@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 18
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11690", "20/12841"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51291"
@@ -133,7 +134,7 @@ Wer trägt die Kosten des zusätzlichen Zeitaufwandes von Beantwortung von Frage
 
 Sollten die Kosten beim Betreiber liegen, wie wird dieser Mehraufwand kompensiert?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Dem Betreiber entsteht im Rahmen der geplanten Verordnung kein zusätzlicher Arbeitsaufwand durch Befragungen, da der Betreiber und dessen Leitungskräfte gemäß § 30 Absatz 2 HmbWBG auch jetzt schon verpflichtet sind, die für die Durch-
 
@@ -159,35 +160,35 @@ Gegen welche Punkte des Verordnungsentwurfs richtete sich die Kritik der jeweili
 
 Kritikpunkte beziehen sich auf Teilbereiche des Prüfverfahrens sowie auf die Veröffentlichung von Prüfergebnissen:
 
- Die Löschung von wesentlichen Mängeln, die vor der Veröffentlichung abgestellt
+– Die Löschung von wesentlichen Mängeln, die vor der Veröffentlichung abgestellt
 
 werden können, wird für eine Irreführung der Verbraucher gehalten.
 
- Aus Nutzersicht wird eine „Verwässerung“ vieler guter Prüfansätze des ersten
+– Aus Nutzersicht wird eine „Verwässerung“ vieler guter Prüfansätze des ersten
 
 Entwurfes kritisiert.
 
- Nutzer- und Beschäftigtenvertreter fordern bei Wohneinrichtungen eine Prüfung
+– Nutzer- und Beschäftigtenvertreter fordern bei Wohneinrichtungen eine Prüfung
 
 von zwei Prüfbereichen statt einem.
 
- Aus Beschäftigtensicht sollte der Stichprobenumfang auf zehn von 100 aller ambu-
+– Aus Beschäftigtensicht sollte der Stichprobenumfang auf zehn von 100 aller ambu-
 
 lanten Dienste erhöht werden.
 
- Zusätzlichen bürokratischer Aufwand und zusätzliche Kosten für Betreiber werden
+– Zusätzlichen bürokratischer Aufwand und zusätzliche Kosten für Betreiber werden
 
 befürchtet.
 
- Die geplante Prüfverordnung wird als Einmischung der staatlichen Aufsichtsbehör-
+– Die geplante Prüfverordnung wird als Einmischung der staatlichen Aufsichtsbehör-
 
 de in die normale Betriebsführung gewertet.
 
- Die geplanten Befragungen von Beschäftigten und die Veröffentlichung der Ergeb-
+– Die geplanten Befragungen von Beschäftigten und die Veröffentlichung der Ergeb-
 
 nisse wird von Betreiberseite für inakzeptabel gehalten.
 
- Ein Teil der vorgelegten Prüfkriterien wird für konkretisierungsbedürftig gehalten.
+– Ein Teil der vorgelegten Prüfkriterien wird für konkretisierungsbedürftig gehalten.
 
 ### Frage 13
 
@@ -205,7 +206,7 @@ Wie erfolgt auf Hamburger Ebene die Bildung von Qualitätskriterien, ohne dass d
 
 Warum wartet man die Ergebnisse des G-BA nicht ab?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Der G-BA ist für Qualitätskriterien in der Langzeitpflege nicht zuständig.
 
@@ -225,17 +226,17 @@ Welche Ergebnisse und Maßnahmen resultieren bis heute aus der Arbeit der Arbeit
 
 Inwieweit wurde die vom Bundesministerium für Gesundheit (BMG) unterstützte veränderte und vereinfachte Pflegedokumentation, wie sie unter anderem in der Senatspressemitteilung vom 3. November 2014 lobend erwähnt wird, seither in Hamburg umgesetzt und angewendet?
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Die Arbeitsgruppe des Landespflegeausschusses hat bisher erfolgreich sichergestellt, dass
 
-• alle beteiligten Akteure einen vergleichbaren Informationsstand haben,
+– alle beteiligten Akteure einen vergleichbaren Informationsstand haben,
 
-• ein gemeinsames tiefergehendes Verständnis des „Strukturmodells entbürokratisierte Pflegedokumentation“ vorhanden ist,
+– ein gemeinsames tiefergehendes Verständnis des „Strukturmodells entbürokratisierte Pflegedokumentation“ vorhanden ist,
 
-• ein Austausch möglich war und ist und Einzelfragen dadurch geklärt werden konnten,
+– ein Austausch möglich war und ist und Einzelfragen dadurch geklärt werden konnten,
 
-• der Vorbereitungsstand der unterschiedlichen Beteiligten, insbesondere der Einrichtungen und der Prüfinstanzen (Medizinischer Dienst der Krankenversicherung Nord, Wohn-Pflege-Aufsichten), sichtbar und bekannt ist.
+– der Vorbereitungsstand der unterschiedlichen Beteiligten, insbesondere der Einrichtungen und der Prüfinstanzen (Medizinischer Dienst der Krankenversicherung Nord, Wohn-Pflege-Aufsichten), sichtbar und bekannt ist.
 
 Darüber hinaus wurden für die bundesweite Diskussion relevante Impulse, wie die Einbeziehung der Tagespflegeeinrichtungen und der Pflegeschulen in das Projekt, besprochen.
 

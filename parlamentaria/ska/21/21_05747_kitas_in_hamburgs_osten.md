@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 13
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54239"
@@ -84,7 +85,7 @@ a) Liegen dem Senat hierzu aktuelle Zahlen vor? Wie fallen diese aus?
 b) Wie viele Einrichtungen für Kinder stehen den Eltern in Bergedorf zur Verfügung? Welche sind dies? Wie viele Plätze stehen jeweils zur Verfügung?
 c) Wie viele Kinder stehen auf den Wartelisten der einzelnen Einrichtungen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Seit Einführung des nachfrageorientierten Kita-Gutscheinsystems in Hamburg zum
 1. August 2003 werden von der für Kindertagesbetreuung zuständigen Behörde die eingerichteten Kita-Plätze nicht mehr statistisch erhoben. Auf den individuell geführten Wartelisten der Kitas werden alle Eltern/Kinder erfasst, die sich in der Kita für eine zukünftige Inanspruchnahme eines Kita-Platzes angemeldet oder beworben haben. Die Wartelisten der Kitas werden nicht nach einheitlichen Kriterien geführt. Eltern lassen sich häufig auf Wartelisten verschiedener Kitas setzen, sodass Wartelisten keine Aussagen zum tatsächlichen Bedarf in der Region zulassen.
@@ -105,11 +106,11 @@ Eine vergleichbare Vorgehensweise gilt auch für die Planung von Festbauten mit 
 
 Die geplante Flüchtlingsunterkunft Gleisdreieck/Mittlerer Landweg in Bergedorf wird eine zusätzliche Nachfrage nach Kita-Plätzen auslösen, die aufgrund der regionalen Lage nicht durch umliegende Kitas aufgefangen werden kann. Für das Jahr 2017 ist daher auf dem Gelände des Gleisdreiecks/Mittlerer Landweg derzeit vorgesehen, eine Kita mit circa
 
- 75 Plätzen (1. Bauabschnitt),
+– 75 Plätzen (1. Bauabschnitt),
 
- 75 Plätzen (2. Bauabschnitt) und
+– 75 Plätzen (2. Bauabschnitt) und
 
- 130 Plätzen sowie einem Eltern-Kindzentrum (EKiZ) (3. und 4. Bauabschnitt) durch
+– 130 Plätzen sowie einem Eltern-Kindzentrum (EKiZ) (3. und 4. Bauabschnitt) durch
 
 Kita-Träger in den Betrieb zu nehmen.
 

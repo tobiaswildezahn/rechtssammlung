@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8074"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58529"
@@ -53,7 +54,7 @@ Wie hoch war die Anzahl der Schulabgänger ohne Hauptschulabschluss in Hamburg a
 
 Wie hoch war die Anzahl der Schulabgänger ohne Hauptschulabschluss in Hamburg an Gymnasien in den Jahren 2014, 2015, 2016 sowie im ersten Halbjahr 2017? Was bedeutet das in absoluten Zahlen? Bitte jährlich auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Schulentlassene ohne Schulabschluss an Gymnasien in den Schuljahren 2013/2014,  
 2014/2015  

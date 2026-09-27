@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 21
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5180", "21/965", "21/6217", "21/1600"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55054"
@@ -59,7 +60,7 @@ Welchen Notendurchschnitt haben die Schülerinnen und Schüler insgesamt in den 
 
 Welchen Notendurchschnitt haben die Schülerinnen und Schüler in den schriftlichen Klausuren des Schuljahres 2015/2016 insgesamt sowie jeweils bei den Erstgutachten und Zweitgutachten erreicht, in denen die Aufgabenstellung zentral von der Behörde für Schule und Berufsbildung (BSB) erfolgte? Bitte insgesamt und aufgeschlüsselt nach Schule und Schulform unter Angabe des Sozialindex sowie der Gesamtschülerzahl und unter Aufschlüsselung der jeweiligen Durchschnittsnoten der Erstgutachten und der Zweitgutachten in den Kursen mit zentraler Aufgabenstellung auf erhöhtem beziehungsweise auf grundlegendem Niveau und unter Angabe der jeweils durchschnittlichen Vornoten der Abiturientinnen und Abiturienten in den jeweiligen Kursen angeben sowie zur besseren Nachvollziehbarkeit den Ergebnissen aus dem Vorjahr 2014/ 2015 gegenüberstellen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe https://www.liq-projekte.de/abiturergebnisse_2015-16/ und Drs. 21/1600.
 

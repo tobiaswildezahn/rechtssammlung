@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 35
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13460", "21/1674", "20/13020", "20/13214", "20/13241", "20/13716", "21/58", "21/437"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49923"
@@ -133,7 +134,7 @@ Sind Projekte, die sich speziell mit der Radikalisierung von Flüchtlingen ausei
 
 Sind über die im Konzept 2014 aufgeführten Maßnahmen weitere Maßnahmen geplant? Wenn ja, um welche Maßnahmen genau handelt es sich? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Drs. 21/1674.
 

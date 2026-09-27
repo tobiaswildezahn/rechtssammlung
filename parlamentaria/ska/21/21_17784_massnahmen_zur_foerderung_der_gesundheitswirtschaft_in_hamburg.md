@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13678", "21/9507", "21/4951", "21/1048", "20/12241", "20/8275", "20/4385", "20/889", "19/6551", "19/3440", "19/894", "21/17480"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67386"
@@ -63,7 +64,7 @@ Welche konkreten Maßnahmen zur Förderung der Gesundheitswirtschaft hat der Sen
 
 Welche weiteren Maßnahmen sind bis wann geplant?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Einen bedeutenden Beitrag zur Förderung der Gesundheitswirtschaft bilden die Krankenhausinvestitionen der Stadt, über die der Senat seit 2003 jährlich und zuletzt mit dem 17. Bericht vom 3.7.2018 berichtet hat (vergleiche unter anderem die Drs. 21/13678, 21/9507, 21/4951, 21/1048, 20/12241, 20/8275, 20/4385, 20/889, 19/6551, 19/3440, 19/894). Für die Investitionsförderung nach dem Hamburgischen Krankenhausgesetz (HmbKHG) sind im Jahr 2019 Mittel in Höhe von rund 109 Millionen Euro im Haushaltsplan veranschlagt. In der Finanzplanperiode 2019 bis 2023 sind zurzeit insgesamt rund 577,3 Millionen Euro vorgesehen. Weitere Informationen sind in der Broschüre Krankenhausinvestitionsprogramm Hamburg 2019 veröffentlicht, die sich unter dem folgenden Link findet:
 
@@ -89,7 +90,7 @@ Welche Maßnahmen zur Förderung der Biotechnologie- und Medizinforschung hat de
 
 Welche weiteren Maßnahmen sind bis wann geplant?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Im Bereich der außeruniversitären Forschungsförderung nach Artikel 91b GG und dem Abkommen der Gemeinsamen Wissenschaftskonferenz (GWK) fördert Hamburg gemeinsam mit Bund und Ländern das Bernhard-Nocht-Institut für Tropenmedizin (BNITM) und das Heinrich-Pette-Institut, Leibniz-Institut für Experimentelle Virologie (HPI). Die vorgenannten Einrichtungen betreiben zusammen mit weiteren Partnerinstitutionen das Centre for Structural Systems Biology (CSSB) auf dem DESY Campus. Hamburg fördert zudem den IME-ScreeningPort der Fraunhofer-Gesellschaft (IME- SP) als Teil des Fraunhofer-Instituts für Molekularbiologie und Angewandte Oekologie Aachen (IME). Art, Trägerschaft, Empfänger sowie die jeweilige Zielstellungen und Kosten der Maßnahmen werden in den jeweiligen Erläuterungen der Haushaltspläne der Freien und Hansestadt Hamburg seit 2008 beschrieben.
 

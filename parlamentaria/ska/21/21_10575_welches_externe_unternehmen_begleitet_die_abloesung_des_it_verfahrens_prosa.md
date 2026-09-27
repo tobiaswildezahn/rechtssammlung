@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8327"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59466"
@@ -43,7 +44,7 @@ Welches Unternehmen wurde für die Begleitung wann durch wen ausgewählt?
 
 Wieso soll die Beauftragung über einen bestehenden Rahmenvertrag bei Dataport vorgenommen werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es wurde das Unternehmen Capgemini ausgewählt, das Rahmenvertragspartner von Dataport für E-Government-Themen ist. Die nach der VV IT-Projekte vorgeschriebene und im August 2017 abgeschlossene Zertifizierung wurde im Auftrag der Finanzbehörde durch Capgemini durchgeführt. Durch die Lenkungsgruppe des Projektes Einführung PROSOZ wurde am 5.10.2017 beschlossen, Capgemini auch mit der Projektbegleitung zu betrauen.
 

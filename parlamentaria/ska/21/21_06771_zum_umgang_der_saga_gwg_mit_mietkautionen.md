@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55323"
@@ -93,7 +94,7 @@ Was passiert seitens der SAGA GWG mit dieser Kaution?
 
 Zu welchem Zinssatz wird diese Kaution eventuell verzinst und welche Geldinstitute werden dafür gegebenenfalls herangezogen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Kaution wird getrennt vom Vermögen von SAGA GWG verwahrt. Die Kautionen werden überwiegend bei der Aareal Bank AG angelegt zu einem Zinssatz von aktuell 0,25 Prozent pro Jahr. Ein kleiner Teilbetrag ist in Form von verpfändeten Kautionssparbüchern der Mieterinnen und Mieter bei unterschiedlichen Banken zu den jeweils vereinbarten Zinsen angelegt. Eine weitere Ausdifferenzierung ist im Rahmen der für eine Parlamentarische Anfrage zur Verfügung stehenden Zeit nicht möglich, da für die Beantwortung eine vierstellige Zahl von Mietverhältnissen individuell geprüft und ein entsprechender Kontakt zur jeweiligen Bank hinsichtlich der Höhe des Zinssatzes hergestellt werden müsste.
 

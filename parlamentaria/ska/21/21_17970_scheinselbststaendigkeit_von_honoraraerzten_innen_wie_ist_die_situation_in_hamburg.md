@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 20
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67582"
@@ -192,7 +193,7 @@ Wie viele Verfahren zur Feststellung des sozialversicherungsrechtlichen Status s
 
 Wie viele Verfahren zur Feststellung des sozialversicherungsrechtlichen Status sind für Honorarärzte/-innen vor Aufnahme ihrer Tätigkeit in Hamburger Krankenhäusern seit dem 04.06.2019 eingeleitet worden und von wem wurde das Verfahren jeweils veranlasst?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der zuständigen Behörde liegen dazu keine Daten vor.
 
@@ -204,7 +205,7 @@ Gab es in Hamburger Krankenhäusern seit dem 04.06.2019 Betriebsprüfungen, die 
 
 Was waren die Ergebnisse der Statusfeststellungsverfahren? Wie viele Honorarärzte/-innen wurden als selbstständig eingestuft, wie viele als scheinselbstständig und bei wie vielen läuft das Verfahren noch? Bitte aufschlüsseln nach Krankenhäusern.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Soweit der Anfragensteller mit dem Begriff „Betriebsprüfung“ die steuerliche Außenprüfung i.S.d. §§ 193 fortfolgende AO meint, obliegt die Antwort dem Steuergeheimnis gemäß § 30 AO. Für die Durchführung von Statusfeststellungsverfahren ist zudem die Clearingstelle der Deutschen Rentenversicherung Bund zuständig, sodass Informationen in der Finanzverwaltung hierüber nicht vorliegen.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11212", "21/10873"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60706"
@@ -45,7 +46,7 @@ Ist die zwecks rechnerischen Ausgleichs des Gesamtfinanzplans pauschal geplante 
 
 Warum wurde kein anderer Weg zur Erfüllung von § 28 Absatz 1 LHO gewählt? Warum wurde vom Senat insbesondere keine Anpassung des Saldos aus Finanzierungstätigkeit vorgeschlagen, zumal die Ermächtigung für Einzahlungen aus der Aufnahme von Deckungskrediten nicht im bislang veranschlagten Umfang in Anspruch genommen werden musste?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Mit Drs. 21/11212 wird der Bestand an liquiden Mitteln um rund 465 Millionen Euro erhöht. Die Veränderung des Bestandes an liquiden Mitteln ist in Zeile 29, Anlage 2 der Drs. 21/11212 mit einem negativen Vorzeichen auszuweisen, um die Salden aus Verwaltungstätigkeit, Investitionen und Finanzierungstätigkeit rechnerisch auf „Null“ auszugleichen.
 

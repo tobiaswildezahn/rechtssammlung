@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11765", "18/4630", "18/5799", "19/4208", "20/5317"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61101"
@@ -94,7 +95,7 @@ Werden bei der Berechnung der Schülerjahreskosten die Kosten für die Schulverw
 
 Wie hoch waren die Kosten für die Schulverwaltung pro Schüler in Hamburg in jedem einzelnen Jahr, angefangen 2002 bis heute?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die den Einzelschulen zurechenbaren Kosten werden berücksichtigt. Im Übrigen siehe Drs. 21/11765.
 
@@ -119,7 +120,7 @@ Wie hoch waren die fiktiven Mieten für Schulgebäude pro staatlichem Schüler i
 
 Wie hoch waren die fiktiven Mieten für Schulgebäude pro Schüler einer Schule in freier Trägerschaft in Hamburg in jedem einzelnen Jahr, angefangen 2002 bis heute?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Zur Höhe der kalkulatorischen Miete innerhalb der Schülerjahreskosten siehe Drs. 21/11765. Im Übrigen siehe Vorbemerkung.
 

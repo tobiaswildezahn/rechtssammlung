@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1220", "21/51"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49553"
@@ -52,7 +53,7 @@ Warum wird es eine Aktualisierung der Zahlen zum Sanierungsstau bei der Modernis
 
 Gemäß der Antwort des Senats in der Schriftlichen Kleinen Anfrage Drs. 21/1220 wird es keine separate Drucksache vonseiten des Senats geben, die die Folgen des strukturellen Defizits darstellt und eine separate Anpassung der Mittelansätze vorsieht. Wie und in welchem Zeitraum wird der Senat dann gewährleisten, dass die Bürgerschaft über den Sanierungsstau, die strukturellen Defizite und deren Folgen zukünftig transparent informiert wird (bitte genau begründen)?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Berichterstattung über das Sanierungsprogramm Hamburg 2020 erfolgt turnusgemäß im Zuge des Haushaltsaufstellungsverfahrens. Der Senat sieht keinen Anlass, von diesem Verfahren abzuweichen.
 

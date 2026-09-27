@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8401", "21/7486", "21/2550", "21/5237"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57408"
@@ -62,33 +63,33 @@ In Antwort 7. der Drs. 21/8401 heißt es, „die Geflüchteten nehmen an Bewohne
 
 Bewohnerräte sind Beteiligungsgremien, die bisher überwiegend in Erstaufnahmeeinrichtungen (EA) eingesetzt werden. Mit Stand 31. März 2017 gab es in 53,8 Prozent der EA Bewohnerräte. Dies betrifft folgende Standorte:
 
-• Amalie Sieveking Krankenhaus/Richard-Remé-Haus
+– Amalie Sieveking Krankenhaus/Richard-Remé-Haus
 
-• Dratelnstraße
+– Dratelnstraße
 
-• Flagentwiet
+– Flagentwiet
 
-• Geutensweg
+– Geutensweg
 
-• Grellkamp
+– Grellkamp
 
-• Hellmesbergerweg
+– Hellmesbergerweg
 
-• Jenfelder Moorpark
+– Jenfelder Moorpark
 
-• Kaltenkirchener Platz
+– Kaltenkirchener Platz
 
-• Kurdamm
+– Kurdamm
 
-• Neuland I
+– Neuland I
 
-• Osterade
+– Osterade
 
-• Papenreye
+– Papenreye
 
-• Schmiedekoppel
+– Schmiedekoppel
 
-• Vogt-Kölln-Straße
+– Vogt-Kölln-Straße
 
 Die Bewohnerräte treffen sich in der Regel alle zwei bis vier Wochen und bei Bedarf, um die Anliegen der Bewohnerinnen und Bewohner der EA aufzunehmen, zu beraten und gegebenenfalls Abhilfe zu schaffen. Zudem informieren die Betreiber der Unterkünfte die Bewohnerinnen und Bewohner über die Bewohnerräte zu den sie betreffenden Themen.
 

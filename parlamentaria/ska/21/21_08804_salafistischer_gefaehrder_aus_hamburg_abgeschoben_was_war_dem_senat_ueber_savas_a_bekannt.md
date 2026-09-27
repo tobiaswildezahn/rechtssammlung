@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 28
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/5628"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57546"
@@ -91,7 +92,7 @@ Wann wurde er erstmals als Gefährder eingestuft?
 
 Aus welchem Grund kam es zu dieser Einschätzung durch die Behörden?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Eine Veröffentlichung von Erkenntnissen über Personen, die als Gefährder eingestuft sind, einschließlich der gegen sie geführten Ermittlungsverfahren sowie der durchgeführten Maßnahmen könnte die Funktionsfähigkeit der Sicherheits- und Strafverfolgungsbehörden gefährden. Vor diesem Hintergrund wird von einer Beantwortung der Fragen abgesehen; siehe auch Drs. 19/5628.
 

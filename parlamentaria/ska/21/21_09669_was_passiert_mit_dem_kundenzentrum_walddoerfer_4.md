@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 53476
 seiten: 2
 fragen: 6
-einzelfragen: 15
-antwortbloecke: 4
+einzelfragen: 20
+antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3934", "21/8207", "21/8762"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58469"
@@ -46,40 +47,77 @@ Ein genauer Zeitpunkt ist noch nicht festgelegt. Im Übrigen siehe Drs. 21/3934.
 ### Frage 2
 
 In der Vorlage für die Bezirksversammlung Wandsbek gemäß § 26 BezVG für die Anhörung zur Standortentscheidung heißt es als eines der Ziele des Projektes zur Neuorganisation der Kundenzentren: „Die Zahl der stationären Kundenzentren wird unter Berücksichtigung der Ergebnisse des Projektes maßvoll reduziert.“
-2.1. Wer hat das Ziel einer maßvollen Reduzierung der stationären Kundenzentren wann genau und auf welcher Grundlage beschlossen?
-2.2. Was genau ist aus Sicht der zuständigen Stellen derzeit unter „maßvoll“ zu verstehen?
-2.3. Gibt es im Rahmen des Projektes eine Zielzahl für die Anzahl der Kundenzentren? Wenn ja, mit welcher Anzahl wird derzeit geplant?
-2.4. Welche derzeitigen stationären Kundenzentren sollen weiter betrieben werden?
-2.5. Für welche weitere Kundenzentren wird eine Schließung geprüft oder erwogen?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Wer hat das Ziel einer maßvollen Reduzierung der stationären Kundenzentren wann genau und auf welcher Grundlage beschlossen?
+
+### Frage 2.2
+
+Was genau ist aus Sicht der zuständigen Stellen derzeit unter „maßvoll“ zu verstehen?
+
+### Frage 2.3
+
+Gibt es im Rahmen des Projektes eine Zielzahl für die Anzahl der Kundenzentren? Wenn ja, mit welcher Anzahl wird derzeit geplant?
+
+### Frage 2.4
+
+Welche derzeitigen stationären Kundenzentren sollen weiter betrieben werden?
+
+### Frage 2.5
+
+Für welche weitere Kundenzentren wird eine Schließung geprüft oder erwogen?
+
+#### Antwort zu Fragen 2, 2.1, 2.2, 2.3, 2.4 und 2.5
 
 Siehe Drs. 21/8207 und 21/8762. Im Übrigen sind die Planungen und Prüfungen hierzu noch nicht abgeschlossen.
 
 ### Frage 3
 
 In der genannten Vorlage wird die Einrichtung eines mobilen Kundenzentrums in Volksdorf angekündigt.
-3.1. Soll das mobile Kundenzentrum dauerhaften Bestand haben oder handelt es sich um eine Übergangslösung?
-3.2. Wann genau soll das Angebot eines mobilen Kundenzentrums in Volksdorf mit welchen Öffnungszeiten beginnen?
-3.3. Wie ist der genaue Sachstand der Prüfungen der Nutzung der Räumlichkeiten der Bücherhalle Volksdorf für ein mobiles Kundenzentrum?
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+Soll das mobile Kundenzentrum dauerhaften Bestand haben oder handelt es sich um eine Übergangslösung?
+
+### Frage 3.2
+
+Wann genau soll das Angebot eines mobilen Kundenzentrums in Volksdorf mit welchen Öffnungszeiten beginnen?
+
+### Frage 3.3
+
+Wie ist der genaue Sachstand der Prüfungen der Nutzung der Räumlichkeiten der Bücherhalle Volksdorf für ein mobiles Kundenzentrum?
+
+#### Antwort zu Fragen 3, 3.1, 3.2 und 3.3
 
 Die Planungen und Prüfungen sind noch nicht abgeschlossen.
 
-3.4. Wann genau wurde die Stiftung Hamburger Bücherhallen (HÖB) durch wen bezüglich einer Nutzung der neuen Räume der Bücherhalle Volksdorf für ein mobiles Kundenzentrum erstmals angesprochen?
+### Frage 3.4
+
+Wann genau wurde die Stiftung Hamburger Bücherhallen (HÖB) durch wen bezüglich einer Nutzung der neuen Räume der Bücherhalle Volksdorf für ein mobiles Kundenzentrum erstmals angesprochen?
+
+#### Antwort zu Frage 3.4
 
 Das Projekt „Neuorganisation Kundenzentren in Hamburg“ hat im Frühjahr 2017 hierzu erste Gespräche mit der Behörde für Kultur und Medien, dem zuständigen Bezirksamt Wandsbek und der HÖB geführt.
 
-3.5. Für welchen Zeitraum und zu welchen Konditionen werden Räumlichkeiten der Bücherhalle Volksdorf durch welche Stelle für ein mobiles Kundenzentren angemietet?
+### Frage 3.5
 
-3.6. Welche besonderen Einrichtungen und Baumaßnahmen sind bei der Bücherhalle für die Schaffung der Infrastruktur für ein mobiles Kundenzentrum erforderlich? Welche Kosten fallen dafür an und wer übernimmt die Kosten?
+Für welchen Zeitraum und zu welchen Konditionen werden Räumlichkeiten der Bücherhalle Volksdorf durch welche Stelle für ein mobiles Kundenzentren angemietet?
+
+### Frage 3.6
+
+Welche besonderen Einrichtungen und Baumaßnahmen sind bei der Bücherhalle für die Schaffung der Infrastruktur für ein mobiles Kundenzentrum erforderlich? Welche Kosten fallen dafür an und wer übernimmt die Kosten?
+
+#### Antwort zu Fragen 3.5 und 3.6
 
 Die Planungen und Prüfungen hierzu sind noch nicht abgeschlossen.
 
-3.7. Laut Pressemitteilung der Kulturbehörde vom 3. März 2017 sind am neuen Standort der Bücherhalle Volksdorf „zahlreiche kostenfreie Parkplätze vorhanden“.
+### Frage 3.7
 
+Laut Pressemitteilung der Kulturbehörde vom 3. März 2017 sind am neuen Standort der Bücherhalle Volksdorf „zahlreiche kostenfreie Parkplätze vorhanden“.
 3.7.1. Wie viele kostenfreie Parkplätze stehen dort genau zur Verfügung?
+
+#### Antwort zu Frage 3.7
 
 Rund 100.
 

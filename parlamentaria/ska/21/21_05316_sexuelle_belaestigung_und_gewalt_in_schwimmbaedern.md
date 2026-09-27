@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53801"
@@ -60,7 +61,7 @@ Wie viele Fälle sexueller Belästigung hat es in den vergangenen Jahren in Hamb
 
 Wie viele sonstige strafbare Vorfälle hat es in Hamburger Schwimmbädern gegeben? An welchen Fällen waren Ausländer beteiligt und welchen aufenthaltsrechtlichen Status hatten diese jeweils? Bitte die Vorfälle einzeln nennen und mitteilen, inwieweit der jeweilige Vorfall strafrechtlich geahndet wurde beziehungsweise ob ein polizeiliches Ermittlungsverfahren im Gange ist. Bitte Angaben für die Jahre 2014, 2015 und 2016 machen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Falle von festgestellten oder gemeldeten Delikten in Einrichtungen der BLH wird die Polizei informiert. Alle weiteren Schritte wie zum Beispiel die Feststellung der Personendaten erfolgen durch die Polizei. Die BLH dokumentiert keine persönlichen Daten. Eine Dokumentation der Nationalität Beschuldigter wird nicht vorgenommen.
 
@@ -107,7 +108,7 @@ Welches sind nach Auffassung des Senats die Ursachen für das verstärkte Auftre
 
 Welche Maßnahmen gedenkt Hamburg mit Blick auf dieses Problem zu treffen? Welche Rolle spielen insbesondere Erwägungen, private Sicherheitsdienste in Schwimmbädern zu beschäftigen beziehungsweise ist dies bereits der Fall?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Entfällt.
 
@@ -119,13 +120,13 @@ Falls bereits Sicherheitsdienste beschäftigt werden, welche sind engagiert word
 
 Welche Kosten sind bereits hierdurch entstanden und werden voraussichtlich bis zum Ablauf des Jahres entstehen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Private Sicherheitsdienste kommen vereinzelt in Zeiten sehr großen Besucheraufkommens oder im nächtlichen Objektschutz zum Einsatz. Der Einsatz von Sicherheitsdiensten dient primär der Prävention gegen Vandalismusschäden und der Vermeidung von Unfällen infolge von unberechtigten Zutritten zu den Anlagen. Beauftragte Dienstleister sind:
 
- B.O.B Sicherheitsdienst e.K.
+– B.O.B Sicherheitsdienst e.K.
 
- WEKO Sicherheitsdienste GmbH
+– WEKO Sicherheitsdienste GmbH
 
 Je nach Größe und Besucherfrequenz des jeweiligen Bades sind ein bis zwei Mitarbeiter des Sicherheitsdienstes im Einsatz.
 

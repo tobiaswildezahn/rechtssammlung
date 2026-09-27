@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2363", "21/4861"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60312"
@@ -91,7 +92,7 @@ In wie vielen Fällen haben Flüchtlinge, die in Hamburg leben und gleichzeitig 
 
 In wie vielen dieser Fälle ist ein Familiennachzug trotzdem bewilligt, jedoch bis zum 17. März 2018 ausgesetzt worden?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Bearbeitung von Visumsanträgen zum Familiennachzug obliegt nach § 71 Absatz 2 AufenthG den vom Auswärtigen Amt ermächtigten deutschen Auslandsvertretungen. Das Auswärtige Amt hat mitgeteilt, es lägen keine Informationen darüber vor, wie viele Anträge auf Familienzusammenführung von in Hamburg aufgenommenen Flüchtlingen gestellt werden.
 

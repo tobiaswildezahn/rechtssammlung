@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59350"
@@ -93,7 +94,7 @@ Warum standen Richtung Süden auf der A 7 nur zwei Fahrspuren zur Verfügung?
 
 Warum wurden nicht wenigstens für diesen einen Abend in jeder Richtung drei Fahrspuren bereitgestellt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Am 20. September 2017 fanden zusammenhängende Arbeiten in beide Fahrtrichtungen des Elbtunnels statt. Grundsätzlich werden dabei seitens des Landesbetriebs Straßen, Brücken und Gewässer auch die Verkehrsströme von und zu den Arenen – insbesondere bei zwei gleichzeitig stattfindenden Veranstaltungen – beachtet.
 

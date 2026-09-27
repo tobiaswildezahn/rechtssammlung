@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4760"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53328"
@@ -90,7 +91,7 @@ Gibt oder gab es städtische Projekte (ständige Ausstellungen, Wanderausstellun
 
 Aus welchen Mitteln der öffentlichen Hand und in welchem Umfang wurden Projekte, die den Hamburger Linksextremismus thematisieren, finanziert (bitte auch die konkrete Haushaltsposition angeben)?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Prävention gegen Linksextremismus ist Bestandteil der Aufgaben der Dienststelle zur Prävention gegen gewaltzentrierten Ideologien im Landeskriminalamt Hamburg; Projekte im Sinne der Frage werden dort jedoch nicht durchgeführt. Das Landesamt für Verfassungsschutz (LfV) Hamburg informiert im Rahmen seiner gesetzlich vorgeschriebenen Öffentlichkeitsarbeit über die Gefahren, die vom Linksextremismus in Hamburg ausgehen. Dies geschieht durch umfangreiche Medienarbeit (Pressestatements, Interviews, Internetbeiträge auf der Homepage, jährlicher Verfassungsschutzbericht) sowie durch Vorträge und Teilnahme an Diskussionsveranstaltungen. Die dafür verwendeten Ressourcen werden im Gesamtbudget des LfV Hamburg (Einzelplan 8.1, Behörde für Inneres und Sport, Aufgabenbereich 273 – Verfassungsschutz) nicht gesondert erfasst.
 

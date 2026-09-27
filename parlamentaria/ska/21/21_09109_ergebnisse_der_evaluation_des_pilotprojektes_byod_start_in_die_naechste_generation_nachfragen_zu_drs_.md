@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 29
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8153", "21/5248"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57867"
@@ -63,7 +64,7 @@ Trifft es zu, dass bei der Auswahl des Podiums zur Abschlussveranstaltung am 11.
 
 Trifft es zu, dass kritische Eltern von Schülern/-innen, die an „BYOD“ teilnahmen, von der Abschlussveranstaltung am 11. Juli 2016 ausgeladen wurden beziehungsweise ihnen die Teilnahme an dieser verweigert worden ist? a. Wenn ja, wie wird dieses Vorgehen begründet und wie wird es von Senat beziehungsweise zuständiger Fachbehörde gerechtfertigt? b. Inwiefern wird darin senatsseitig kein Verstoß gegen die Transparenzpflicht und objektive Meinungsbildung gesehen, der den Charakter einer Informationsveranstaltung zum Abschluss eines Schulprojektes konterkariert?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nein.
 
@@ -115,25 +116,25 @@ Von Prof. Dr. Kammerl wurde in dem unter 1. angeführten Artikel (Interview) die
 
 Im endgültigen Evaluationsbericht wird ein Mehrwert der zusätzlichen Medienkompetenz festgestellt (siehe http://t.hh.de/7288404). Der Bericht kommt zu ganz anderen Einschätzungen, wie die folgenden Zitate aus dem Bericht zeigen:
 
- „Fehlende grundlegende Medienkompetenz wurde nur selten kritisiert.“ (Seite 16)
+– „Fehlende grundlegende Medienkompetenz wurde nur selten kritisiert.“ (Seite 16)
 
- „Die Möglichkeit mehrere Geräte zu nutzen und zu erkennen, welches Gerät wann
+– „Die Möglichkeit mehrere Geräte zu nutzen und zu erkennen, welches Gerät wann
 
 am sinnvollsten eingesetzt werden kann, trägt zur Stärkung der Medienkompetenz bei.“ (Seite 17)
 
- „Die selbsteingeschätzte Medienkompetenz der befragten Schülerinnen und Schü-
+– „Die selbsteingeschätzte Medienkompetenz der befragten Schülerinnen und Schü-
 
 ler fällt insgesamt positiv aus: 72 % gaben eine „eher hohe“, 15 % eine „hohe“ und 12 % eine „eher geringe“ Medienkompetenz an.“ (Seite 24)
 
- „Bei den jüngeren Generationen, also jüngere Schüler, Mittelstufe, ist es ein Moti-
+– „Bei den jüngeren Generationen, also jüngere Schüler, Mittelstufe, ist es ein Moti-
 
 vationszuwachs und auch ein Medienkompetenzzuwachs. Weil wie gesagt, die können alle ihre Handys benutzen und auch ihre Tablets. Aber ein produktiver Einsatz gelingt den wenigsten Schülern. Ich denke da zum Beispiel auch an Internetrecherche. Alle kennen Google, aber wirklich vernünftig was suchen im Internet, das können viele noch nicht. Und das lernen sie dann bei uns.“ (I 5, § 52) (Seite 75)
 
- „Verbunden mit diesen Bemühungen war oft auch eine gesteigerte Motivation und
+– „Verbunden mit diesen Bemühungen war oft auch eine gesteigerte Motivation und
 
 Medienkompetenz der Schülerschaft wie der mediendidaktischen Kompetenz der Lehrkräfte selbst.“ (Seite 83)
 
- „Aus Sicht der Evaluation ist die Laufzeit des Projektes nicht ausreichend, um die
+– „Aus Sicht der Evaluation ist die Laufzeit des Projektes nicht ausreichend, um die
 
 Eignung des Ansatzes zur Verbesserung des Lernerfolges der Schülerinnen und Schüler sowie zur erweiterten Förderung von Medienkompetenz abschließend zu beurteilen.“ (Seite 110)
 

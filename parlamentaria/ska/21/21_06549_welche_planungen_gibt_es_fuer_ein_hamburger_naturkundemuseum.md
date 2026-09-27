@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 18
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55084"
@@ -49,7 +50,7 @@ Welche Einrichtungen (Forschungsinstitute, Museen et cetera) in den wissenschaft
 
 Welche dieser Institutionen haben derzeit die Möglichkeit, ihre Sammlungen der Öffentlichkeit zugänglich zu machen in Form einer Ausstellung? Welche haben diese Möglichkeit nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage, die nach Forschungs-„Sammlungen“ und Ausstellungen („Museum“) unterscheidet.
 

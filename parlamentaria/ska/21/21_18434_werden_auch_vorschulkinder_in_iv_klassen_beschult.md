@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68083"
@@ -55,7 +56,7 @@ Ist dem Senat und den zuständigen Behörden bekannt, ob und in welchem Umfang i
 
 Wie beurteilen der Senat und die zuständigen Behörden den Umstand oder aber die Berichte, dass in Hamburgs IV-Klassen Vorschulkinder unterrichtet werden? Bitte ebenfalls darstellen, ob dies vonseiten des Senats und der zuständigen Behörden als zukünftiger Regelfall vorgesehen ist.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Ist-Daten liegen nach Abschluss der Schuljahreserhebung vor. Im Übrigen siehe Vorbemerkung.
 

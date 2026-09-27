@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16101", "21/11205", "21/9607", "21/7690"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65943"
@@ -111,9 +112,9 @@ Das Einzugs- und Begleitteam (EBT) wird voraussichtlich aus fünf Vollzeitkräft
 
 Für Wohnungssuchende: Begleitung bei der Integration in Wohnraum, zum Beispiel Unterstützung bei der Wohnungssuche, Begleitung zu Wohnungsbesichtigungen, Hilfestellung bei wohnungsbezogenen Vertragsabschlüssen (zum Beispiel Strom), Aufklärung über die Anbahnung eines Mietverhältnisses sowie über Rechte und Pflichten als Mieterin und Mieter, Betreuung auch nach Wohnungsbezug. Zielgruppen sind im Einzelnen
 
-• Personen aus öffentlich-rechtlichen Unterkünften (Inhaberinnen und Inhaber einer Dringlichkeitsbestätigung). Die Kontaktaufnahme erfolgt in der Regel über das Unterkunfts- und Sozialmanagement,
+– Personen aus öffentlich-rechtlichen Unterkünften (Inhaberinnen und Inhaber einer Dringlichkeitsbestätigung). Die Kontaktaufnahme erfolgt in der Regel über das Unterkunfts- und Sozialmanagement,
 
-• in Einzelfällen sonstige anerkannt vordringlich Wohnungssuchende (Inhaberinnen und Inhaber eines Dringlichkeitsscheins) mit individuellen persönlichen oder sozialen Problemen, die die Wohnungssuche erheblich erschweren, und denen kein anderes Hilfesystem zur Verfügung steht. Die Kontaktaufnahme erfolgt nur über die bezirklichen Wohnungsabteilungen, nachdem diese die Zugangsvoraussetzungen geprüft haben.
+– in Einzelfällen sonstige anerkannt vordringlich Wohnungssuchende (Inhaberinnen und Inhaber eines Dringlichkeitsscheins) mit individuellen persönlichen oder sozialen Problemen, die die Wohnungssuche erheblich erschweren, und denen kein anderes Hilfesystem zur Verfügung steht. Die Kontaktaufnahme erfolgt nur über die bezirklichen Wohnungsabteilungen, nachdem diese die Zugangsvoraussetzungen geprüft haben.
 
 Für Vermieter: Ansprechbarkeit für Vermieterinnen und Vermieter, die eine Wohnung an einen anerkannt vordringlich wohnungssuchenden Haushalt vermietet haben; dies gilt ohne Einschränkungen für Inhaberinnen und Inhaber von Dringlichkeitsbestätigungen und Dringlichkeitsscheinen. Das EBT steht für die Bearbeitung von Problemen während des Mietverhältnisses (zum Beispiel fehlende Mietzahlung, unangemessenes Verhalten) zur Verfügung. Dies schließt Schlichtungsgespräche mit Vermieterinnen und Vermietern und Nachbarinnen und Nachbarn ebenso ein wie die Begleitung der Mieterin bzw. des Mieters in andere Hilfesystem (zum Beispiel Schuldnerberatung, Suchtberatung et cetera).
 

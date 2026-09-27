@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 19
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66172"
@@ -61,7 +62,7 @@ Wie viele allgemeinbildende und berufsbildende Schulen Hamburgs nehmen am Projek
 
 Welche Schule hat welches Thema für welche Sekundarstufe aus dem Rückmeldebogen gewählt und welche/n „Experten/in“ dazu eingeladen? (Bitte in einer Excel-Tabelle aufführen und die Funktionsbezeichnung des/der Experten/in aufführen.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

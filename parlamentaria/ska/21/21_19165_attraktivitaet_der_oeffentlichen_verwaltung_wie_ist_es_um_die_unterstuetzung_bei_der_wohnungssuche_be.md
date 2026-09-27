@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 18
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12908", "21/18742", "21/17583"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68866"
@@ -129,7 +130,7 @@ Wem werden die Dienstwohnungen angeboten?
 
 Ist ein Berechtigungsschein erforderlich? Falls ja, für wie viele der Wohnungen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Vorbemerkung.
 

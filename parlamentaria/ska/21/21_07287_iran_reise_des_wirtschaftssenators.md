@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 18
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8825"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55888"
@@ -53,7 +54,7 @@ Wurden im Rahmen der Delegationsreise des Wirtschaftssenators in den Iran auch f
 
 Wurde die Rolle Irans im Konflikt in Syrien thematisiert und über mögliche Folgen diskutiert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die von der Behörde für Wirtschaft, Verkehr und Innovation organisierte Reise diente der Markterkundung. Darüber hinausgehende Themen wurden nicht erörtert.
 
@@ -106,7 +107,7 @@ Gibt es Bestrebungen, auch die Handelsbeziehungen nach Israel auszubauen und wen
 
 Israel gilt als globaler Hotspot der Digitalwirtschaft. Bislang stellt das Land laut Angabe des Hamburger Senats dennoch keinen regionalen Schwerpunkt der eigenen Wirtschaftspolitik dar. Hat der Senat diese Position vor dem Hintergrund der abgeschlossenen Haushaltsverhandlungen überdacht und verändert? Wenn ja, inwiefern? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Behördliche Initiativen sind derzeit nicht geplant. Gleichwohl ist die Freie und Hansestadt Hamburg eine internationale Handelsmetropole, deren Unternehmen traditionell dem Auslandsgeschäft zugewandt sind. Daher steht die zuständige Behörde auch dem Ausbau der vergleichsweise konstanten Handelsbeziehungen zum Staat Israel, der über eine dynamische und innovative Wirtschaft verfügt und zukunftsweisend im Bereich der Forschung ist, offen gegenüber.
 

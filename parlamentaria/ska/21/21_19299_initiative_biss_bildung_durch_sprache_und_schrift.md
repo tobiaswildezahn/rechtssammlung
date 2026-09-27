@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 16
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69008"
@@ -86,7 +87,7 @@ Welche Kindertageseinrichtungen, Grundschulen und weiterführende Schulen in Ham
 
 Welche dieser Bildungseinrichtungen haben sich zu welchen Verbünden jeweils zusammengeschlossen und zu welchen Aspekten „Bildungssprache Deutsch“ gearbeitet und geforscht? Bitte auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Folgende Kitas verschiedener Träger und Verbände nahmen daran teil: Kita Sanitasstraße, Kita Kirchdorfer Straße, Kita Prassekstraße, Evangelische Kita Emmaus, Kita „Vogelhütte im Bernhard Dey-Haus“ und die Fantasie Kinderhaus gGmbH (Kita FaKi- Ha). Die Kindertageseinrichtungen bildeten einen Verbund.
 

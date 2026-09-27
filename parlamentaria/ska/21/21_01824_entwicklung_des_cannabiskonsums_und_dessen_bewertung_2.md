@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1590", "20/10474"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50056"
@@ -77,6 +78,6 @@ Ist der Senat der Auffassung, dass die Diskussion über eine Legalisierung von C
 
 Sieht der Senat einen Unterschied zwischen einer Legalisierung und einer kontrollierten Abgabe von Cannabis? Wenn ja: worin liegt er?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Senat arbeitet auf der Grundlage des geltenden Rechtes, dies sieht weder eine kontrollierte Abgabe von Cannabis noch die Legalisierung vor, insofern beteiligt sich der Senat nicht an Diskussionen über Unterschiede zwischen Legalisierung und kontrollierter Abgabe.

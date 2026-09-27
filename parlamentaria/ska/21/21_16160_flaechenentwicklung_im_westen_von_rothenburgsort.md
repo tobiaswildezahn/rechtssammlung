@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1394"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65714"
@@ -57,7 +58,7 @@ Welche Planungen bestehen für die Entwicklung des Areals?
 
 Welche öffentlichen und privaten Stellen, Einrichtungen oder Unternehmen sind nach Kenntnis des Senats an der Planung und Entwicklung des Areals beteiligt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Das Areal befindet sich im Stadtentwicklungsraum Billebogen, für den mit der Drs. 21/1394 Aufgaben an die BBEG übertragen worden sind.
 
@@ -79,7 +80,7 @@ Welche Nutzung für die in dem Areal gelegenen Flächen strebt der Senat an?
 
 Wie lauten die Vorstellungen des Oberbaudirektors für die weitere Entwicklung und Nutzung des Areals?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Frage der anzustrebenden Nutzungen für das Areal wird im laufenden Verfahren untersucht.
 
@@ -99,6 +100,6 @@ Wie ist der Planungs- und Umsetzungsstand des von der Billebogen Entwicklungsges
 
 Wie soll der Anschluss des Billhorner Röhrendamm an die Elbbrücken nach dem Rückbau der Autobahnohren erfolgen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die diesbezüglichen Planungen sind noch nicht abgeschlossen.

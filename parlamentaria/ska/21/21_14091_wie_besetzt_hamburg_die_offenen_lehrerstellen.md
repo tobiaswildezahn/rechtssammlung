@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8426", "21/8766"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63486"
@@ -117,7 +118,7 @@ Wie werden die „LovLs“ auf ihre Lehrtätigkeit vorbereitet und begleitet?
 
 In welchem Zeitraum und wie werden diese nachqualifiziert?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die pädagogische Qualifikation wird im Rahmen eines befristeten Vertretungslehrauftrags durch die Schulleitung und Fachlehrkräfte festgestellt, zudem nehmen Seiteneinsteiger entsprechend ihrer individuellen Erfordernisse an Fortbildungsmaßnahmen teil, siehe Drs. 21/8766.
 

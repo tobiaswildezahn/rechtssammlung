@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2897"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52036"
@@ -68,7 +69,7 @@ Wie rechtfertigt der Senat beziehungsweise die zuständige Behörde, dass an die
 
 Welche Gefahr für die Sicherheit der Verkehrsteilnehmer besteht aus Sicht der Straßenverkehrsbehörde an dieser Kreuzung, weil dort mit Stand 14. März 2016 kein klar erkennbarer Fußgängerüberweg existiert?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Am 14. März 2016 wurden im genannten Knotenpunktbereich Umbaumaßnahmen auf der Grundlage einer Planung zur Förderung des Linienbusverkehrs und des Radverkehrs durchgeführt. Zuvor wurde die Schmiedestraße in Fahrtrichtung Norden für den motorisierten Individualverkehr durch Verkehrszeichen und Änderungen der Fahrbahnmarkierungen gesperrt. Die Straße Speersort darf bereits seit mehreren Jahren nur vom Linienbusverkehr als Bedarfsumleitung und vom Radverkehr genutzt werden. Der Verkehr aus der Rathausstraße darf am Knoten nur noch nach rechts abbiegen.
 

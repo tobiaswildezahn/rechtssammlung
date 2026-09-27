@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 19
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13797", "21/14269"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66431"
@@ -87,6 +88,6 @@ Wie ist der aktuelle Stand der Verhandlungen bezogen auf die Genehmigung zur Ver
 
 Welche weiteren Verbringungsoptionen hat der Senat nun geprüft? Inwieweit hat sich die zuständige Behörde beim Land Bremen über die Verbringung von Sedimenten in den Slufter bei Rotterdam erkundigt und zu welchem Ergebnis ist die zuständige Behörde für Hamburg gelangt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die HPA ist seit dem Jahr 2016 mit den Genehmigungsbehörden des Bundes zu diesem Thema im Gespräch und bereitet die für einen Genehmigungsantrag erforderlichen Gutachten vor. Die umfangreichen Vorarbeiten beinhalten unter anderem numerische Modellierungen, umweltfachliche Gutachten, eine Alternativenprüfung sowie eine Beteiligung potenzieller Stakeholder. Alle zum derzeitigen Zeitpunkt absehbaren Antragsinhalte befinden sich in Bearbeitung. Im Übrigen siehe Drs. 21/14269.

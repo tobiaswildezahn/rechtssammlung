@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 30
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9758", "21/10523", "21/11934", "21/11395", "21/10399", "21/131", "21/11649", "21/10676", "21/11002", "21/11325"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61297"
@@ -91,7 +92,7 @@ Wie viele Personen mit Fluchthintergrund sind derzeit beim Jobcenter, wie viele 
 
 Wie viele Personen wurden bereits vom Jobcenter, wie viele von der Arbeitsagentur in Sprachkurse, Praktika, Ausbildung, Arbeit oder Studium vermittelt? Bitte einzeln aufschlüsseln.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 

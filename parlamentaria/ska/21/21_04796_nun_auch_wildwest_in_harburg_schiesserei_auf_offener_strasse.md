@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53227"
@@ -61,7 +62,7 @@ Welche Erkenntnisse liegen den zuständigen Behörden über den Hintergrund der 
 
 Wie viele Zeugen haben den Vorfall beobachtet und wie viele von ihnen mussten medizinisch versorgt werden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Antwort zu 1.
 

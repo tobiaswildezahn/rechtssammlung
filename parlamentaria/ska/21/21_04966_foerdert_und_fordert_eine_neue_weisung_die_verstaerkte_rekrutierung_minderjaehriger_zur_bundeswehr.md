@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1675"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53407"
@@ -89,7 +90,7 @@ Welche bereits bestehenden oder neu entstehenden Kooperationsfelder regionaler N
 
 Welche Rolle spielen jeweils die Kammern in Hamburg sowie die Verbände der Wirtschaft in Hamburg bei der Implementierung regional wirkender Netzwerke zwischen der Agentur für Arbeit Hamburg und Jobcenter t.a.h.?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Es gibt keine schriftlich fixierten Kooperationsvereinbarungen zwischen der Agentur und der Bundeswehr, jedoch Absprachen über faktisches Handeln. Auf der Arbeitsebene gibt es Absprachen zwischen dem Karriereberatungsbüro in Hamburg und der AA Hamburg. Für das Jobcenter bestehen ebenfalls keine festgeschriebenen Kooperationsvereinbarungen. Es sind auch keine in Planung.
 

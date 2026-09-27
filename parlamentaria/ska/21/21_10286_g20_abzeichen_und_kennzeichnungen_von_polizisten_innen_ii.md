@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 25
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9601", "21/9844"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59128"
@@ -91,23 +92,23 @@ Welche Vorschriften über Dienstbekleidung und Abzeichen gibt es in Hamburg? Bit
 
 Vorschriften im Sinne der Fragestellung sind:
 
- Polizeidienstvorschrift (PDV) 350 Hamburg: Sie regelt das Thema „Dienstkleidung“
+– Polizeidienstvorschrift (PDV) 350 Hamburg: Sie regelt das Thema „Dienstkleidung“
 
 und gilt für alle Hamburger Polizeibeamtinnen und -beamte.
 
- „Trageanweisung zur Bekleidungsvorschrift für Polizeibedienstete“: Sie regelt das
+– „Trageanweisung zur Bekleidungsvorschrift für Polizeibedienstete“: Sie regelt das
 
 äußere Erscheinungsbild von Hamburger Polizeibeamten und beinhaltet unter
 
 anderem, welche Uniformteile wie zu kombinieren und zu welchem Anlass anzuziehen sind.
 
- Dienstvereinbarung der Dienststelle Polizei mit dem Personalrat über das „Tragen
+– Dienstvereinbarung der Dienststelle Polizei mit dem Personalrat über das „Tragen
 
 von Namensschildern“
 
- Anweisung „Kennzeichnung der Schutzhelme geschlossener Einheiten“
+– Anweisung „Kennzeichnung der Schutzhelme geschlossener Einheiten“
 
- Anweisung „Ausstattung der Mitarbeiter geschlossener Einheiten mit einer Brand-
+– Anweisung „Ausstattung der Mitarbeiter geschlossener Einheiten mit einer Brand-
 
 schutzhaube und ergänzende Trageanweisung“.
 

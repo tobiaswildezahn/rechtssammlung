@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 30
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16905", "21/17695", "18/9525", "21/11357", "21/12780", "21/13267", "21/14220", "21/14433", "21/14948", "21/16863", "21/17063"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67419"
@@ -61,7 +62,7 @@ Wie stellt sich die Entwicklung der personellen Ausstattung der OK-Dienststelle 
 
 Wie viele Stellen Soll/Ist existierten im Gründungsjahr, in den Jahren 2000, 2005, 2010, 2015 und aktuell? Bitte entsprechend jeweils zum Stichtag 01. Januar auflisten. (LKA 68 sowie Vorgängerdienststellen des Straßendeals bitte gesondert erfassen.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Zum Stellenbestand (Beamte und Tarifbeschäftigte) und der verfügbaren Personalkapazität (VPK) siehe nachstehende Tabelle. Auswertbare Daten stehen wegen Ablauf der Aufbewahrungsfristen erst ab 2010 zur Verfügung. Im Jahr 2010 wurden 28 Stellen vom LKA 6 zum LKA 5 verlagert, da bisher im LKA 6 wahrgenommene Aufgaben aus fachlichen Gründen dem LKA 5 zugeordnet wurden.
 
@@ -343,12 +344,12 @@ Wie lassen sich Feststellungen zu Organisationen und Personen im OK- Bereich dat
 
 Die Formulierung „Organisationen und Personen im OK-Bereich datenschutzrechtlich feststellen“ wird so verstanden, dass damit die Erhebung personenbezogener Daten gemeint ist. Das Gesetz über die Datenverarbeitung der Polizei (PolDVG) und die Strafprozessordnung (StPO) eröffnen der Polizei umfangreiche Möglichkeiten der Datenerhebung und Erkenntnisgewinnung. Voraussetzung ist ein Gefahrenverdacht oder der Anfangsverdacht einer Straftat. Die Speichermöglichkeiten unterscheiden sich je nach Fallgestaltung:
 
- Liegt der Anfangsverdacht einer Straftat (zum Beispiel Bildung einer kriminellen
+– Liegt der Anfangsverdacht einer Straftat (zum Beispiel Bildung einer kriminellen
 
 Vereinigung gemäß § 129 StGB) vor, können die zur Erforschung dieses Verdachts erforderlichen personenbezogenen Daten für Zwecke des Strafverfahrens gespeichert werden. In diesem Zusammenhang ist zu beachten, dass der § 129 StGB aufgrund der von organisierter Kriminalität ausgehenden erhöhten Gefahren bereits eine Vorverlagerung des Rechtsgüterschutzes bedeutet. Zur Erfüllung des Tatbestandes müssen neben der Gründung einer Vereinigung keine weiteren Taten begangen oder auch nur ins Versuchsstadium gelangt sein. Weiterhin genügt für die Strafbarkeit bereits die Unterstützung einer solchen Vereinigung oder das Werben um Mitglieder oder Unterstützer. Nach Abschluss des Ermittlungsverfahrens ist die weitere Speicherung in einer Datei zur Gefahrenabwehr möglich, wenn wegen der Art, Ausführung oder Schwere der Tat und der Persönlichkeit des Betroffenen die Besorgnis der Begehung weiterer Straftaten besteht.
 
-• Kann der Anfangsverdacht einer Straftat nicht begründet oder nach ersten Ermittlungen nicht aufrecht erhalten werden, ist die Speicherung der Person als „potentieller Täter“ in einer Datei zur Gefahrenabwehr möglich, wenn die Polizei der Person in Zukunft die Begehung von Straften im Zusammenhang mit der organisierten Kriminalität zutraut und für diese Annahme zumindest tatsächliche Anhaltspunkte hat. Dazu kann auch die Mitgliedschaft in einer kriminellen Vereinigung gehören. Die Speicherdauer bemisst sich an der Erforderlichkeit zur Gefahrenabwehr, eine Höchstspeicherfrist für „potentielle Täter“ schreibt das PolDVG nicht vor. Es muss lediglich eine angemessene Prüffrist (diese darf für erwachsene Personen zehn
+– Kann der Anfangsverdacht einer Straftat nicht begründet oder nach ersten Ermittlungen nicht aufrecht erhalten werden, ist die Speicherung der Person als „potentieller Täter“ in einer Datei zur Gefahrenabwehr möglich, wenn die Polizei der Person in Zukunft die Begehung von Straften im Zusammenhang mit der organisierten Kriminalität zutraut und für diese Annahme zumindest tatsächliche Anhaltspunkte hat. Dazu kann auch die Mitgliedschaft in einer kriminellen Vereinigung gehören. Die Speicherdauer bemisst sich an der Erforderlichkeit zur Gefahrenabwehr, eine Höchstspeicherfrist für „potentielle Täter“ schreibt das PolDVG nicht vor. Es muss lediglich eine angemessene Prüffrist (diese darf für erwachsene Personen zehn
 
 Jahre nicht überschreiten) festgelegt werden. Nach Ablauf der Prüffrist muss die weitere Erforderlichkeit der Speicherung begründet werden.
 
-• Personen aus dem Umfeld einer kriminellen Vereinigung können gegebenenfalls gemäß § 16 Absatz 3 PolDVG als Kontakt- und Begleitpersonen oder auch als Auskunftspersonen gespeichert werden. Voraussetzung ist jeweils, dass die Speicherung zur vorbeugenden Bekämpfung von Straftaten von erheblicher Bedeutung unerlässlich sein muss. Die maximale Speicherdauer beträgt drei Jahre. Die Anforderung der Unerlässlichkeit stellt hier aktuell eine sehr große Hürde dar.
+– Personen aus dem Umfeld einer kriminellen Vereinigung können gegebenenfalls gemäß § 16 Absatz 3 PolDVG als Kontakt- und Begleitpersonen oder auch als Auskunftspersonen gespeichert werden. Voraussetzung ist jeweils, dass die Speicherung zur vorbeugenden Bekämpfung von Straftaten von erheblicher Bedeutung unerlässlich sein muss. Die maximale Speicherdauer beträgt drei Jahre. Die Anforderung der Unerlässlichkeit stellt hier aktuell eine sehr große Hürde dar.

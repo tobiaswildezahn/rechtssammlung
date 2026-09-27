@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 29
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5231", "21/6666", "21/8872", "21/10168", "21/11529", "21/8262", "21/7422", "21/4923", "21/4635", "21/4327"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61227"
@@ -138,7 +139,7 @@ Wurde für die 291 Wohnungen, die nicht örU werden, bereits ein Förderantrag b
 
 Die Eckpunktevereinbarung erwähnt, dass durch die Änderung der FeWa Bewirtschaftungs- und Instandhaltungskosten von 5,9 Millionen Euro entstehen und gleichzeitig 1,8 Millionen Euro aus dem Integrationszuschuss der IFB entfallen. Inwiefern gleichen die aktuellen Förderkonditionen der IFB die Kosten für Bewirtschaftung und Instandhaltung, die FeWa durch die Änderung der Bedingungen hat, aus?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/8872.
 

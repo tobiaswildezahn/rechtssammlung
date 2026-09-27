@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 2
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15044", "21/13318"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64967"
@@ -47,7 +48,7 @@ In der Antwort zu Fragen 4. und 5. werden ausschließlich entgeltliche Raumüber
 
 Wurden der Bundeswehr oder Standesorganisationen in den letzten fünf Jahren unentgeltlich Räume für Veranstaltungen oder Versammlungen überlassen? Bitte einzeln nach Jahren, Titel, Ort und Organisation aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im erfragten Zeitraum wurden keiner der genannten Institutionen unentgeltlich an der TUHH Räume für Veranstaltungen oder Versammlungen überlassen.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15573", "21/12696"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67412"
@@ -94,6 +95,6 @@ Welchen Marktanteil bei den Neuzulassungen hatten Pkws mit einem reinen Elektroa
 
 Welchen Marktanteil bei den Neuzulassungen hatten Pkws mit einem Hybridantrieb (aus Elektro- und Verbrennungsmotor) im 2. Quartal 2019 in Hamburg und welchen im Bundesdurchschnitt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Landesbetrieb Verkehr differenziert in seinem Datenbestand bei der Neuzulassung von Kfz in Hamburg nicht nach Antriebsarten. Für den entsprechenden Anteil bei Neuzulassungen von Januar bis Juni 2019 in Deutschland siehe Statistiken des Kraftfahrt-Bundesamtes unter https://www.kba.de/DE/Statistik/statistik_node.html.

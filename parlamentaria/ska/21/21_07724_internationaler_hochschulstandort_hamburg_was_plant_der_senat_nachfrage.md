@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7548", "21/4762", "21/1642", "21/1037", "21/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56354"
@@ -92,19 +93,19 @@ c) Welche konkreten Ideen und Dienstleistungen verfolgen die Piasta UHH und Alum
 
 Über ihre Career Centers und International Offices bieten die Hochschulen Beratungen für ausländische Studierende an, um beim Übergang in das Berufsleben zu helfen. Die einzelnen Programme/Institutionen wirken mit einer Vielzahl von Maßnahmen direkt und indirekt auf die Erfüllung der Ziele hin; es können hier nur Beispiele genannt werden:
 
- jährlich stattfindende, hochschulübergreifende Großveranstaltung für internationale
+– jährlich stattfindende, hochschulübergreifende Großveranstaltung für internationale
 
 Studierende, Absolventinnen und Absolventen: „Studieren in Hamburg und dann?“, organisiert von den International Offices der Hamburger Hochschulen und unterstützt vom Netzwerk Hamburger Career Services (NHCS)
 
- Universität Hamburg (UHH): Angebot von Seminaren zur beruflichen beziehungs-
+– Universität Hamburg (UHH): Angebot von Seminaren zur beruflichen beziehungs-
 
 weise akademischen Entscheidungsfindung in Kooperation zwischen dem Career Center und dem interkulturellen Begleitprogramm PIASTA; der Verein Alumni Universität Hamburg e.V. ist derzeit an elf Orten mit Alumni-Botschafterinnen beziehungsweise -Botschaftern im Ausland aktiv
 
- Technische Universität Hamburg-Harburg (TUHH): Programme zur Integration
+– Technische Universität Hamburg-Harburg (TUHH): Programme zur Integration
 
 ausländischer Ingenieurinnen und Ingenieure „Integral“ und „Integra“; im Hamburger Projekt „Make it in Hamburg“ kooperieren das TUHH- und das HAW-Career Center mit der Bundesagentur für Arbeit; es bestehen sieben internationale TUHH- Alumni-Chapter
 
- Hochschule für Angewandte Wissenschaften Hamburg (HAW): Workshops „Arbei-
+– Hochschule für Angewandte Wissenschaften Hamburg (HAW): Workshops „Arbei-
 
 ten in Deutschland“; Alumni-Aktivitäten
 

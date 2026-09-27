@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3405", "18/3780", "19/6770", "19/8534", "20/9886", "20/5470", "20/5724", "20/6852", "20/11398", "20/14543", "21/246", "21/302", "21/381"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52192"
@@ -72,7 +73,7 @@ Wie hat sich die Anzahl der Schulen mit einem negativen Kontostand seit dem Schu
 Wie hat sich die Anzahl der Schulen mit einem Überschuss von mehr als
 50.000 Euro seit dem Schuljahr 2011/2012 entwickelt? Bitte pro Schulform und Schuljahr getrennt unter Angabe des Schulstandortes und des KESS Faktors darstellen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlagen 2 bis 6.
 

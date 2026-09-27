@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65329"
@@ -73,7 +74,7 @@ In wie vielen Fällen seit 2011 wurde durch Anglervereine oder Dritte Einspruch 
 
 In wie vielen Fällen wurde der Einspruch abgelehnt beziehungsweise ihm stattgegeben?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Im Rahmen der Schutzgebietsausweisungen wurden seit 2011 in drei Fällen Einwendungen gegen beabsichtigte Regelungen zur Angelnutzung erhoben. Gründe hierfür waren in zwei Fällen der befürchtete Verlust bestimmter Angelstrecken im Schutzgebiet sowie in einem Fall die grundsätzliche Ablehnung des Angelverbots.
 

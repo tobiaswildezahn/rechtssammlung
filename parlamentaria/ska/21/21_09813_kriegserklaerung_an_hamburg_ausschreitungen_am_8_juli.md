@@ -14,6 +14,7 @@ fragen: 27
 einzelfragen: 43
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9811", "21/9767"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58623"
@@ -164,7 +165,7 @@ Welche Versammlungen waren für den 7. Juli angemeldet, die nicht genehmigt wurd
 
 Gab es nicht genehmigte Versammlungen, die dennoch stattgefunden haben?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Versammlungen werden durch die Versammlungsbehörde nicht genehmigt, sondern bestätigt oder im Rahmen von Kooperationsgesprächen angepasst. In bestimmten Fällen kann eine Versammlung verboten werden. Dies ist während des Zeitraumes um den G20-Gipfel nicht geschehen.
 
@@ -284,7 +285,7 @@ Gegen wie viele davon ist Haftbefehl ergangen? Welche Staatsangehörigkeit haben
 
 Waren den Behörden Personen der Fragen 18. – 20., die aus Deutschland stammen, bereits als Extremisten bekannt? Wenn ja, wie viele und unter welchen Umständen?
 
-#### Antwort zu Fragen 21 bis 22
+#### Antwort zu Fragen 21 und 22
 
 Siehe Drs. 21/9811.
 
@@ -312,7 +313,7 @@ An welchen Demonstrationen am 8. Juli 2017 haben sogenannte parlamentarische Beo
 
 Hatten die parlamentarischen Beobachter in irgendeiner Weise besondere Befugnisse?
 
-#### Antwort zu Fragen 25 bis 26
+#### Antwort zu Fragen 25 und 26
 
 Die Bürgerschaftskanzlei wurde um einen Beitrag gebeten. Ein Antwortbeitrag liegt nicht vor. Eine Funktion „parlamentarischer Beobachter“ ist formell nicht bekannt.
 

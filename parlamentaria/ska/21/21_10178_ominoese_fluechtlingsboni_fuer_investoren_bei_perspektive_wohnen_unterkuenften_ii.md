@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 20
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6666"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59022"
@@ -45,7 +46,7 @@ Sind die entsprechenden Gespräche bereits abgeschlossen? Wenn ja, mit welchem E
 
 Sind die Gespräche wegen der Mietkostenzuschüsse für die Standorte Hörgensweg und Mittlerer Landweg zwischenzeitlich abgeschlossen? Wenn ja, mit welchem Ergebnis? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für die Standorte Mittlerer Landweg und Hörgensweg sowie Duvenacker und Elfsaal werden Nachverhandlungen zum weiteren Umgang mit Mietkostenzuschüssen sukzessive geführt. In ständiger Praxis sieht der Senat davon ab, über laufende Gespräche Auskünfte zu geben.
 

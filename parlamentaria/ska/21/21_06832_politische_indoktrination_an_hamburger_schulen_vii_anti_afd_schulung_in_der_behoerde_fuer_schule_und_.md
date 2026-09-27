@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6316", "21/6512"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55390"
@@ -74,7 +75,7 @@ Welche demokratiepädagogische Intension lag den LI-Veranstaltern xxxxxxxxxxxx u
 
 Welche demokratiepädagogischen Präventions- sowie Interventionsmöglichkeiten für den schulischen Bereich konnten aus den Ausführungen des Referenten Christoph Giesa heraus entwickelt werden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/6316 sowie Drs. 21/6512.
 

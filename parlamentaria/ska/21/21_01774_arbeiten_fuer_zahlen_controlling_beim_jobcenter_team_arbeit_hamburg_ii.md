@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1634"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49999"
@@ -65,6 +66,6 @@ Im Papier „Gemeinsame Planungsgrundlagen der Zielsteuerung im SGB II für das 
 
 Wie bewertet der Senat im allgemeinen, dass durch den Statistik-Service der Bundesagentur für Arbeit keine Erhebung und Auswertung von Ziel, Soll, Referenzwerte in Prozent, Zielwert in Prozent der Bestände „Langzeitbezieher“ und „U25“ in Tausend erfolgt, auch unter der Berücksichtigung der „Zielvereinbarung zwischen dem BMAS und der BA zur Erreichung der Ziele der Grundsicherung im Jahr 2015“ (SGB II-ZielVbg 2015)?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung. Im Übrigen hat sich der Senat damit nicht befasst.

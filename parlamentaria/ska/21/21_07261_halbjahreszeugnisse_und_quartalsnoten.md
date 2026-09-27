@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4370", "20/8168"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55858"
@@ -45,7 +46,7 @@ In welchen Gymnasien wird in den Jahrgangsstufen 5, 7 und 8 auf Zeugnisse am End
 
 In welchen Stadtteilschulen wird in den Jahrgangsstufen 5, 7 und 8 auf Zeugnisse am Ende des ersten Schulhalbjahres verzichtet? Bitte alle Stadtteilschulen mit Schulnamen Schulnummer, RSK-Nummer, RSK- Bezeichnung, Sozialindex, Jahrgangsstufe, Schüler-/-innenzahl in der Jahrgangsstufe sowie Verzicht beziehungsweise Nicht-Verzicht auf Zeugnisse am Ende des ersten Schulhalbjahres im Excel-Format aufführen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/4370.
 

@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49363"
@@ -62,7 +63,7 @@ Welche Einnahmen hat die Freie und Hansestadt Hamburg durch das Hamburgische Tra
 
 Wie viele Amtshandlungen wurden für Antragsteller vorgenommen, die nach § 3 der Gebührenordnung für Amtshandlungen nach dem Hamburgischen Transparenzgesetz von der Leistung von Gebühren befreit sind und welche Gebühren wären ohne die Befreiung angefallen? Bitte nach Jahren getrennt aufschlüsseln.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die erfragten Daten werden statistisch nicht gesondert erfasst, sodass keine belastbaren statistischen Daten vorliegen, die Aufschluss über die Einnahmen durch das Hamburgische Transparenzgesetz und zu den Antragstellern geben. Eine händische Ermittlung der Auskunftsverfahren sowie deren Einzelausauswertung ist in der für die
 

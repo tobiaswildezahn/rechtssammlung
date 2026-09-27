@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 44953
 seiten: 2
 fragen: 7
-einzelfragen: 10
-antwortbloecke: 7
+einzelfragen: 14
+antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48985"
@@ -86,30 +87,47 @@ Die Umsatz- und Ergebnisentwicklung entspricht der derzeitigen Situation im Ener
 ### Frage 6
 
 Im zuletzt vorgelegten Lagebericht von HAMBURG ENERGIE heißt es, dass die Notwendigkeit einer Kapitalzuführung besteht.
-6.1. Erwägt oder plant der Senat, das Eigenkapital von HAMBURG ENERGIE zu erhöhen? Wenn ja, wann, in welcher Höhe und durch wen?
 
-#### Antwort zu Frage 6
+### Frage 6.1
+
+Erwägt oder plant der Senat, das Eigenkapital von HAMBURG ENERGIE zu erhöhen? Wenn ja, wann, in welcher Höhe und durch wen?
+
+#### Antwort zu Fragen 6 und 6.1
 
 Im aktuellen Lagebericht heißt es: „Mittelfristiges wirtschaftliches Ziel von HE ist eine Steigerung der Eigenfinanzierung. Durch das dritte Geschäftsjahr in Folge mit positivem Jahresergebnis hat sich die Eigenkapitalsituation des Unternehmens weiter verbessert. Es besteht aber auch zukünftig die Notwendigkeit einer weiteren Kapitalzuführung. Ein kontinuierliches organisches Wachstum und mögliche Kapitalmaßnahmen können in den kommenden Jahren dazu beitragen, dass auch die Fremdfinanzierungsnotwendigkeiten weiter zurückgehen werden. Damit soll langfristig eine branchenübliche Eigenkapitalisierung erreicht werden.“ Die Eigenkapitalquote soll also in erster Linie durch kontinuierliches organisches Wachstum mit entsprechenden positiven Jahresergebnissen verbessert werden. Über die Frage, ob und in welcher Höhe weitere Kapitalzuführungen erfolgen, ist noch nicht abschließend entschieden worden.
 
-6.2. Welche Eigenkapitalquote wird für HAMBURG ENERGIE angestrebt?
+### Frage 6.2
+
+Welche Eigenkapitalquote wird für HAMBURG ENERGIE angestrebt?
+
+#### Antwort zu Frage 6.2
 
 Eine branchenübliche Eigenkapitalquote in der Energiewirtschaft liegt bei circa 20 Prozent. Diese zu erreichen ist mittel- bis langfristiges Ziel des Unternehmens.
 
-6.3. Wie hoch ist der Kapitalbedarf zur Finanzierung des weiteren Wachstums und der geplanten Investitionen in den Jahren 2015 und 2016 bei HAMBURG ENERGIE?
+### Frage 6.3
+
+Wie hoch ist der Kapitalbedarf zur Finanzierung des weiteren Wachstums und der geplanten Investitionen in den Jahren 2015 und 2016 bei HAMBURG ENERGIE?
+
+#### Antwort zu Frage 6.3
 
 Für Investitionen in die eigene Erzeugung sind in den Jahren 2015 und 2016 insgesamt circa 45 Millionen Euro mit entsprechendem Kapitalbedarf geplant.
 
-6.4. In welcher Höhe ist im laufenden Jahr eine durch städtische Bürgschaften abgesicherte Kreditaufnahme von HAMBURG ENERGIE vorgesehen?
+### Frage 6.4
+
+In welcher Höhe ist im laufenden Jahr eine durch städtische Bürgschaften abgesicherte Kreditaufnahme von HAMBURG ENERGIE vorgesehen?
+
+#### Antwort zu Frage 6.4
 
 Derzeit ist eine Kreditaufnahme in Höhe von 20 Millionen Euro mit Absicherung durch eine städtische Bürgschaft geplant.
 
-6.5. Sind zur Refinanzierung der Aktivitäten von HAMBURG ENERGIE weitere sogenannte Bürgeranleihen vorgesehen?
+### Frage 6.5
+
+Sind zur Refinanzierung der Aktivitäten von HAMBURG ENERGIE weitere sogenannte Bürgeranleihen vorgesehen?
 
 ### Frage 7
 
 Mittlerweile erzielt HAMBURG ENERGIE einen höheren Umsatz als die Muttergesellschaft HWW. Erwägt oder plant der Senat Änderungen in der Struktur der Organisation der Beteiligung an HAMBURG ENERGIE?
 
-#### Antwort zu Frage 7
+#### Antwort zu Fragen 6.5 und 7
 
 Nein.

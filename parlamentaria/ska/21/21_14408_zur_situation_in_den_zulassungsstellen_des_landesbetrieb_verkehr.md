@@ -11,9 +11,10 @@ fraktionen: ["AfD"]
 vorgang: 58187
 seiten: 4
 fragen: 8
-einzelfragen: 11
-antwortbloecke: 7
+einzelfragen: 19
+antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9479", "21/13320"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63837"
@@ -62,14 +63,24 @@ Wie haben sich Anzahl der Spontan- und Terminkunden in den jeweiligen Zulassungs
 ### Frage 4
 
 Wie hat sich die durchschnittliche Wartezeit in den jeweiligen Zulassungsstandorten für Spontan- und Terminkunden im Zeitraum zwischen dem 01.01.2018 und 31.08.2018 entwickelt? Bitte monatlich aufschlüsseln.
-4.1. Falls keine Unterscheidung zwischen Spontan- und Terminkunden vorgenommen wird: Wie hat sich die durchschnittliche Wartezeit für Kunden des LBV in den jeweiligen Zulassungsstandorten zwischen dem 01.01.2018 und 31.08.2018 entwickelt?
-4.2. Bezug nehmend auf Ziffer 4.1: Aus welchem Grund wird keine Unterscheidung vorgenommen?
 
-#### Antwort zu Fragen 3 bis 4
+### Frage 4.1
+
+Falls keine Unterscheidung zwischen Spontan- und Terminkunden vorgenommen wird: Wie hat sich die durchschnittliche Wartezeit für Kunden des LBV in den jeweiligen Zulassungsstandorten zwischen dem 01.01.2018 und 31.08.2018 entwickelt?
+
+### Frage 4.2
+
+Bezug nehmend auf Ziffer 4.1: Aus welchem Grund wird keine Unterscheidung vorgenommen?
+
+#### Antwort zu Fragen 3, 4, 4.1 und 4.2
 
 Eine getrennte Auswertung der Wartezeit von Termin- und Spontankunden nimmt der LBV nicht vor, da er Spontankunden am selben Tag in frei werdende Plätze von Terminkunden einbucht.
 
-4.3. Wie viele Minuten umfasste im Jahre 2018 die längste Wartezeit eines Kunden? Bitte nach Zulassungsstandort unterscheiden.
+### Frage 4.3
+
+Wie viele Minuten umfasste im Jahre 2018 die längste Wartezeit eines Kunden? Bitte nach Zulassungsstandort unterscheiden.
+
+#### Antwort zu Frage 4.3
 
 Hierzu können keine belastbaren Angaben gemacht werden.
 
@@ -114,13 +125,23 @@ Seit wann existiert das sogenannte LBV-Mobil?
 
 Der LBV-Mobil-Service wird in der jetzigen Form seit 2004 angeboten.
 
-7.1. Wie viele Kunden haben zwischen dem 01.01.2018 und 31.08.2018 Dienstleistungen des „LBV-Mobil“ in Anspruch genommen? Kann die LBV seit Beginn des „LBV-Mobil“ einen Anstieg an Kunden verzeichnen?
+### Frage 7.1
 
-7.2. Welche drei Dienstleistungen wurden an den mobilen Servicestellen am häufigsten in Anspruch genommen?
+Wie viele Kunden haben zwischen dem 01.01.2018 und 31.08.2018 Dienstleistungen des „LBV-Mobil“ in Anspruch genommen? Kann die LBV seit Beginn des „LBV-Mobil“ einen Anstieg an Kunden verzeichnen?
+
+### Frage 7.2
+
+Welche drei Dienstleistungen wurden an den mobilen Servicestellen am häufigsten in Anspruch genommen?
+
+#### Antwort zu Fragen 7.1 und 7.2
 
 Der LBV wertet nach beantragten Dienstleistungen aus und nicht nach Kunden. Kunden können mehrere Dienstleistungen beantragen, sodass die Anzahl der regelhaften Dienstleistungen höher ist, als die der Kunden, die vor Ort beim LBV-Mobil waren. Die drei am häufigsten in Anspruch genommenen Dienstleistungen waren „Umschreibung eines Fahrzeuges innerhalb Hamburgs“, „Umschreibung eines Fahrzeuges aus einem anderen Zulassungsbezirk“ und „Außerbetriebsetzung eines Fahrzeuges“.
 
-7.3. Wie viele Termine für das „LBV-Mobil“ wurden in den Jahren zuvor angeboten? Bitte seit Beginn des „LBV-Mobil“ aufschlüsseln.
+### Frage 7.3
+
+Wie viele Termine für das „LBV-Mobil“ wurden in den Jahren zuvor angeboten? Bitte seit Beginn des „LBV-Mobil“ aufschlüsseln.
+
+#### Antwort zu Frage 7.3
 
 2004: fünf
 
@@ -150,11 +171,19 @@ Der LBV wertet nach beantragten Dienstleistungen aus und nicht nach Kunden. Kund
 
 2017: zwölf
 
-7.4. Im Jahre 2018 wurde beziehungsweise wird kein LBV-Mobil-Service im Bezirk Harburg angeboten. Warum?
+### Frage 7.4
+
+Im Jahre 2018 wurde beziehungsweise wird kein LBV-Mobil-Service im Bezirk Harburg angeboten. Warum?
+
+#### Antwort zu Frage 7.4
 
 Im Jahr 2018 wurde kein LBV-Mobil-Service im Bezirk Harburg angeboten, da vorherige Einsätze im dortigen Einkaufszentrum, das in räumlicher Nähe zum LBV Standort Harburg liegt, keine große Resonanz gezeigt hatten.
 
-7.5. Wann und auf welcher Grundlage erfolgt die Terminierung für den entsprechenden Einsatz des LBV-Mobils?
+### Frage 7.5
+
+Wann und auf welcher Grundlage erfolgt die Terminierung für den entsprechenden Einsatz des LBV-Mobils?
+
+#### Antwort zu Frage 7.5
 
 Der LBV beginnt im 4. Quartal eines Kalenderjahres für das Folgejahr mögliche Termine unter Ausschluss der Ferienzeit und der Feiertage mit den in Betracht kommenden Einkaufszentren abzustimmen.
 
@@ -166,6 +195,10 @@ Wie viele Beschwerden sind seit dem 01.01.2018 beim LBV eingegangen? Wenn mögli
 
 43; eine Erfassung nach Zulassungsstandorten des LBV erfolgt nicht.
 
-8.1. Was sind die drei häufigsten Beschwerdeinhalte?
+### Frage 8.1
+
+Was sind die drei häufigsten Beschwerdeinhalte?
+
+#### Antwort zu Frage 8.1
 
 Die drei häufigsten Beschwerdeinhalte betreffen die telefonische Erreichbarkeit des LBV, die Terminverfügbarkeit und das Verhalten einzelner Mitarbeiterinnen und Mitarbeiter.

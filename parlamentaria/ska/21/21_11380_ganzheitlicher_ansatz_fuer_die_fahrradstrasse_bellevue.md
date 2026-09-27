@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60438"
@@ -95,7 +96,7 @@ Wie breit muss eine Fahrradstraße sein, um zu gewährleisten, dass der Buslinie
 
 Wie breit muss eine Fahrradstraße sein, um sicherzustellen, dass Radfahrer nicht durch vorbeifahrende Busse gefährdet sind?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die maximal zulässige Breite von Bussen beträgt 2,55 m. Das Mindestmaß für eine Fahrradstraße beträgt 4,80 m. Im Planungsprozess wurde dieses Maß intensiv diskutiert und entschieden, die Bellevue bis zur Scheffelstraße 5,50 m breit und ab der Scheffelstraße 6,00 m breit zu erstellen. Somit wird den Radfahrerinnen und Radfahrern genügend Abstand zu den parkenden Autos im Falle einer Begegnung geschaffen.
 

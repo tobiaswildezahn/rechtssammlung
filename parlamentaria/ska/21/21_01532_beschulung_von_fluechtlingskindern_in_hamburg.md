@@ -14,6 +14,7 @@ fragen: 29
 einzelfragen: 54
 antwortbloecke: 28
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13705", "21/129", "20/9683", "21/1514", "21/1395", "20/12697"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49742"
@@ -277,7 +278,7 @@ Mit welcher Wartezeit ist derzeit zwischen Ankunft in Hamburg, Feststellung der 
 
 Wie viele schulpflichtige Flüchtlinge befinden sich derzeit in einer Warteposition auf einen Schulplatz und steht für die Wartenden bereits fest, welche Schule sie jeweils wann wird aufnehmen können?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Allen begleiteten schulpflichtigen Flüchtlingen steht unmittelbar nach der Zuweisung eines festen Wohnplatzes in einer regulären ZEA ein Platz in einer der von der BSB dort eingerichteten ZEA-Lerngruppen zur Verfügung (siehe Antwort zu 6.). Unmittelbar nach Zuweisung eines Wohnplatzes in einer Folgeunterkunft erhalten die Flüchtlinge einen Platz in einer Regelklasse, Basisklasse oder Internationalen Vorbereitungsklasse (IVK) beziehungsweise in einer berufsbildenden Vorbereitungsmaßnahme. Die Zuweisung erfolgt in einem geregelten Verfahren in Abstimmung zwischen der zuständigen ZEA-Lehrkraft, der Stammschule und der zentralen Platzvergabe im Schulinformationszentrum (SIZ) beziehungsweise im Informationszentrum HIBB (IZ-HIBB).
 
@@ -309,41 +310,41 @@ An wie vielen und welchen weiterführenden Schulen wurde von der Möglichkeit Ge
 
 Grundsätzlich wird angestrebt, die Eingangsklassen 5 an den Standorten, wo sich zum Zeitpunkt der Organisationsentscheidung eine IVK der Jahrgänge 5 und 6 im schulischen Betrieb befindet, auf Basisfrequenz zu organisieren. Im Rahmen der Organisationsrunde zum Schuljahr 2015/2016 wurde an folgenden 18 Standorten entsprechend verfahren:
 
- Gretel-Bergmann-Schule
+– Gretel-Bergmann-Schule
 
- Gymnasium Hamm
+– Gymnasium Hamm
 
- Kurt-Tucholsky-Schule
+– Kurt-Tucholsky-Schule
 
- Max-Schmeling-Stadtteilschule
+– Max-Schmeling-Stadtteilschule
 
- Nelson-Mandela-Schule Kirchdorf
+– Nelson-Mandela-Schule Kirchdorf
 
- Schule Maretstraße
+– Schule Maretstraße
 
- Schule Vizelinstraße
+– Schule Vizelinstraße
 
- Stadtteilschule Alter Teichweg
+– Stadtteilschule Alter Teichweg
 
- Stadtteilschule Am Hafen
+– Stadtteilschule Am Hafen
 
- Stadtteilschule Barmbek
+– Stadtteilschule Barmbek
 
- Stadtteilschule Bahrenfeld
+– Stadtteilschule Bahrenfeld
 
- Stadtteilschule Ehestorfer Weg
+– Stadtteilschule Ehestorfer Weg
 
- Stadtteilschule Finkenwerder
+– Stadtteilschule Finkenwerder
 
- Stadtteilschule Hamburg-Mitte
+– Stadtteilschule Hamburg-Mitte
 
- Stadtteilschule Mümmelmannsberg
+– Stadtteilschule Mümmelmannsberg
 
- Stadtteilschule Poppenbüttel
+– Stadtteilschule Poppenbüttel
 
- Stadtteilschule Stübenhofer Weg
+– Stadtteilschule Stübenhofer Weg
 
- Stadtteilschule Süderelbe
+– Stadtteilschule Süderelbe
 
 ### Frage 9
 
@@ -744,13 +745,13 @@ Welche Projekte im Sinne der „ESF-Integrationsrichtlinie Bund“ oder auch and
 
 Nach Kenntnis der zuständigen Behörde werden in Hamburg folgende Projekte im Sinne der Fragestellung gefördert („ESF-Integrationsrichtlinie Bund“ im Förderschwerpunkt „Integration von Asylbewerbern und Flüchtlingen“):
 
- Seit 1. Juli 2015 wird das Projekt „FLUCHTort Hamburg 5.0“ (http://www.fluchtort-
+– Seit 1. Juli 2015 wird das Projekt „FLUCHTort Hamburg 5.0“ (http://www.fluchtort-
 
 hamburg.de/aktuelles.html) gefördert. Das Projekt hat eine vierjährige Laufzeit und ein Fördervolumen von 2,6 Millionen Euro. 50 Prozent werden aus dem ESF- Bundesprogramm, 40 Prozent aus dem Haushalt des BMAS und 10 Prozent von der zuständigen Behörde bereitgestellt.
 
 Vorgesehen sind Teilprojekte, die sich an jugendliche und erwachsene Flüchtlinge mit mindestens nachrangigem Arbeitsmarktzugang richten und dazu beitragen sollen, sie zu aktivieren und stufenweise in Arbeit und/oder Ausbildung zu integrieren. Zudem sind Maßnahmen vorgesehen, die zur strukturellen Verbesserung des Zugangs der Zielgruppe zu Arbeit oder Ausbildung beitragen sollen.
 
- Seit 1. Januar 2014 wird das aus dem Hamburger ESF-Programm 2014 – 2020
+– Seit 1. Januar 2014 wird das aus dem Hamburger ESF-Programm 2014 – 2020
 
 finanzierte Projekt „Chancen am FluchtOrt Hamburg“ durchgeführt: http://www.esfhamburg.de/fluechtlinge/4257638/chancen-am-fluchtort-hamburg/; (Laufzeit drei Jahre, 1,3 Millionen Euro Zuwendung insgesamt). Das Projekt richtet sich an Flüchtlinge und Asylsuchende ohne Arbeitsmarktzugang.
 

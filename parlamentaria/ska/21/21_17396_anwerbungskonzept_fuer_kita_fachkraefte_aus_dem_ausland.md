@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13666"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66978"
@@ -104,7 +105,7 @@ und Hansestadt Hamburg realisiert?
 Wenn ja, in welcher Form?  
 Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Elbkinder haben diese Kampagne ausschließlich in Italien durchgeführt, weil dort das Interesse sehr hoch ist und die Erfahrung der Firma Joblaborum ist, dass einmal vermittelte Fachkräfte aus Italien für längere Zeit in der neuen Heimat verbleiben. Der wichtigste Grund war aber, dass die italienische Vorschulpädagogik an die pädagogischen Vorstellungen und Konzepte der Elbkinder hochanschlussfähig ist. Pädagogische Ansätze, die aus Italien stammen, wie Montessori- und Reggio-Pädagogik, standen Pate für viele pädagogische Grundsätze der Elbkinder und sind in den Hamburger Bildungsempfehlungen enthalten.
 

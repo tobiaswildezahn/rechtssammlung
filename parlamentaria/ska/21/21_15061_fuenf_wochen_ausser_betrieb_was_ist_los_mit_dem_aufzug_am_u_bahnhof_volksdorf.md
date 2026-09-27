@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64519"
@@ -55,7 +56,7 @@ Warum genau dauert die Instandsetzung des Aufzugs fünf Wochen?
 
 Gemäß Aushang am Aufzug war die Sperrung des Aufzugs zunächst offenbar nur bis zum 17.11.2018 vorgesehen. Das Datum wurde überschrieben und durch den 17.12. ersetzt. a. Wodurch ergibt sich die deutliche Verlängerung der angekündigten Sperrung des Aufzugs? b. Welche Maßnahmen wurden wann ergriffen, um den Zeitraum der Sperrung des Aufzugs zu verkürzen? c. Ist sichergestellt, dass die Instandsetzungsarbeiten am 17.12.2018 abgeschlossen sein werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nach Klärung der Störungsursache wurde die voraussichtliche Störungsdauer gemäß externer Lieferzeit angegeben, da das geschädigte Teil maßgenau angefertigt werden muss. Aufgrund der angekündigten langen externen Lieferzeit von vier Wochen hat die HOCHBAHN entschieden, das Bauteil selbst zu fertigen. Die Arbeiten werden nun voraussichtlich bereits am Dienstag, 27. November 2018 abgeschlossen sein, sodass die Ausfallzeit deutlich unter fünf Wochen liegt.
 

@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 24
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15534", "21/15603", "21/15977", "21/16289"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65968"
@@ -55,7 +56,7 @@ Wie groß ist maximale Passagierkapazität (Passagiere pro Stunde) des Check-in-
 
 Wie groß sind der durchschnittliche sowie der maximale Auslastungsgrad des Check-in-Bereichs im heutigen Zustand?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Dem Senat liegen keine Zahlen zur maximalen Passagierkapazität des Check-In- Bereichs vor. Die Kapazität pro Stunde lässt sich nicht anhand bestimmter Faktoren bestimmen. Der Flughafen Hamburg verfügt über insgesamt 100 Check-In-Schalter und zusätzlich 20 Self-Bag-Drop-Automaten, für deren Nutzung die Fluggesellschaften verantwortlich sind. Diese verfolgen sehr unterschiedliche Geschäftsmodelle, was dazu führt, dass sich sowohl die jeweiligen Passagiergruppen als auch die Abläufe am Schalter voneinander unterscheiden.
 
@@ -75,7 +76,7 @@ Wie groß ist die maximale Passagierkapazität (Passagiere pro Stunde) der Bordk
 
 Wie groß sind der durchschnittliche sowie der maximale Auslastungsgrad der Bordkartenkontrolle im heutigen Zustand?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Am Flughafen Hamburg gibt es insgesamt 16 Bordkartenkontrollstellen. Da die Zusammensetzung der die Kontrollstellen durchlaufenden Passagiergruppen abhängig vom Wochentag oder der Uhrzeit sehr unterschiedlich sein kann (zum Beispiel hinsichtlich der Berechtigung, eine Fast Lane zu benutzen), ist keine generelle Aussage zur Passagierkapazität pro Stunde möglich.
 
@@ -95,7 +96,7 @@ Wie groß ist die maximale Passagierkapazität (Passagiere pro Stunde) der Siche
 
 Wie groß sind der durchschnittliche sowie der maximale Auslastungsgrad der Sicherheitskontrolle im heutigen Zustand?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Derzeit verfügt der Flughafen Hamburg über 24 Sicherheitskontrollspuren und eine Bedarfskontrollstelle mit drei Kontrollspuren. Da es sich hierbei um einen Prozess der
 
@@ -117,7 +118,7 @@ Wie groß ist die maximale Passagierkapazität (Passagiere pro Stunde) der Passk
 
 Wie groß sind der durchschnittliche sowie der maximale Auslastungsgrad der Passkontrolle Ausreise im heutigen Zustand?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Für die Ausreise stehen am Flughafen Hamburg 14 Passboxen und sechs Easy- Passspuren für die automatisierte Passkontrolle bereit. Da es sich hierbei um einen Prozess der Bundespolizei handelt, können keine Angaben zur Kapazität gemacht werden. Solche Daten werden ausschließlich von der Bundespolizei erhoben.
 
@@ -137,7 +138,7 @@ Wie groß ist die maximale Passagierkapazität (Passagiere pro Stunde) der Abflu
 
 Wie groß sind der durchschnittliche sowie der maximale Auslastungsgrad der Abflugwarteräume (Schengen) im heutigen Zustand?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Der Flughafen Hamburg verfügt über 15 Schengen-Gates zuzüglich weiteren 13 sogenannten Swinggates, die baulich sowohl für Schengen- als auch für Non- Schengen-Flüge genutzt werden können. Die unterschiedlichen Geschäftsmodelle der Fluggesellschaften und die Heterogenität der Passagiergruppen lassen eine generelle Angabe der maximalen oder durchschnittlichen Auslastung der Gates pro Stunde nicht zu.
 
@@ -157,7 +158,7 @@ Wie groß ist die maximale Passagierkapazität (Passagiere pro Stunde) der Abflu
 
 Wie groß sind der durchschnittliche sowie der maximale Auslastungsgrad der Abflugwarteräume (Non-Schengen) im heutigen Zustand?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Der Flughafen Hamburg verfügt über sechs Non-Schengen-Gates zuzüglich weiterer 13 sogenannter Swinggates, die baulich sowohl für Schengen- als auch für Non- Schengen-Flüge genutzt werden können. Die unterschiedlichen Geschäftsmodelle der Fluggesellschaften und die Heterogenität der Passagiergruppen lassen eine generelle Angabe der maximalen oder durchschnittlichen Auslastung der Gates pro Stunde nicht zu.
 
@@ -177,7 +178,7 @@ Wie groß ist die maximale Passagierkapazität (Passagiere pro Stunde) der Passk
 
 Wie groß sind der durchschnittliche sowie der maximale Auslastungsgrad der Passkontrolle Einreise im heutigen Zustand?
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Für die Einreise stehen am Flughafen Hamburg 14 Passboxen und elf Easy- Passspuren bereit. Da es sich hierbei um einen Prozess der Bundespolizei handelt, kann der Senat keine Angaben zur Kapazität machen. Solche Daten werden ausschließlich von der Bundespolizei erhoben.
 
@@ -197,7 +198,7 @@ Wie groß ist die maximale Passagierkapazität (Passagiere pro Stunde) der Gepä
 
 Wie groß sind der durchschnittliche sowie der maximale Auslastungsgrad der Gepäckausgabe im heutigen Zustand?
 
-#### Antwort zu Fragen 22 bis 23
+#### Antwort zu Fragen 22 und 23
 
 Eine rasche und störungsfreie Gepäckausgabe trägt maßgeblich zum Passagierkomfort bei. Der Flughafen Hamburg verfügt heute über zehn Gepäckausgabebänder, auf denen im Bedarfsfall auch mehrere Flüge gleichzeitig abgefertigt werden können. Es ist nicht möglich, eine allgemeine Angabe zur Passagierkapazität pro Stunde zu treffen, da die Zusammensetzung der ankommenden Passagiergruppen abhängig vom Wochentag oder der Uhrzeit sehr unterschiedlich sein kann. Des Weiteren haben die Ferienzeiten mit ihrem erhöhten Fluggastaufkommen erheblichen Einfluss auf die Zahl und Art der abzufertigenden Gepäckstücke. Der FHG ist es gelungen, die Abläufe erheblich zu beschleunigen und nachhaltig zu verbessern, indem zusätzliches Personal für die Bodenabfertigung gewonnen werden konnte.
 

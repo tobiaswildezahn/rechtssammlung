@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 19
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4866", "21/11428", "21/7478", "21/3659"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66541"
@@ -67,7 +68,7 @@ Sind Schulgrundstücke seit 2011 einer anderweitigen Nutzung beziehungsweise Tei
 
 Welche Grundstücke sind seit 2011 neu als Schulgrundstücke vorgesehen beziehungsweise erworben worden? Bitte ebenfalls in einer Excel- Tabelle, sortiert nach Bezirken, darstellen und mit Angabe der Quadratmeter.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Ein Schulgrundstück wird nur dann einer anderweitigen Nutzung zugeführt, wenn die für Bildung zuständige Behörde die schulische Nutzung des Grundstücks aufgibt.
 
@@ -85,7 +86,7 @@ Gibt es Regularien, die besagen, wann ein Grundstück als Schulstandort geeignet
 
 Entsprechen alle aktuell als Schulgrundstücke vorgesehenen Flächen diesen Prüfkriterien?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nein, verbindliche Kriterien existieren nicht. Maßstäbe für die Auswahl eines geeigneten Grundstücks sind die zu erwartenden Schülerzahlen, von der auch beispielsweise die Größe der Schulhoffläche, der Sportflächen, Stellflächen für Fahrräder und Pkws abhängt. Zudem ist die Lage im Quartier und Bodenbeschaffenheit maßgeblich für Kostenschätzungen, die auch Einfluss auf die Grundstücksauswahl und Kosten haben.
 
@@ -105,7 +106,7 @@ Bis 2014 lagen dem Senat keine Kenntnisse über die Schulhofflächen vor; infolg
 
 Entsprechen die Ergebnisse den Vorgaben im Musterflächenprogramm? Wie viele Quadratmeter Schulgebäudefläche und Freifläche stehen pro Schüler an den einzelnen Schulen in den Bezirken zur Verfügung? Bitte für das Schuljahr 2016/2017 und das aktuelle Entwicklungsziel angeben.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 In Bezug auf die den Schulen zur Verfügung stehenden Gebäudefläche siehe Anlage
 3. Freiflächen sind zudem keine relevanten Mietflächen im Rahmen des Vermieter- Mieter-Modells. Eine systematische Auswertung ist daher nicht möglich. Darüber hinaus existiert keine konkrete Zuordnung von Grundstücksfläche zu abgemieteter Gebäudefläche. Ein Abgleich mit den Vorgaben des Musterflächenprogramms ist nicht flächendeckend zielführend, da die überwiegende Zahl der Schulen zu einem Zeitpunkt gebaut wurden, als andere Musterraumprogramme Gültigkeit hatten. Die Schulgebäude, die nach 2011 gebaut wurden, entsprechen den Vorgaben. Im Übrigen siehe Vorbemerkung.

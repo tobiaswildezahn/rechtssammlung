@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14553", "20/10376", "20/12529"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51093"
@@ -75,15 +76,15 @@ Im gesamten Jahr 2015 gab es insgesamt 17 Übergriffe gegenüber Kontrolleuren. 
 
 Insgesamt wurden die Kontrolleure 14-mal bedroht, davon
 
- neunmal im Bereich der A1, davon fünfmal in Richtung Eidelstedt und viermal in
+– neunmal im Bereich der A1, davon fünfmal in Richtung Eidelstedt und viermal in
 
 Richtung Kaltenkirchen,
 
- dreimal im Bereich der A2, davon zwei Vorgänge in Fahrtrichtung Norderstedt und
+– dreimal im Bereich der A2, davon zwei Vorgänge in Fahrtrichtung Norderstedt und
 
 einmal in Fahrtrichtung Henstedt-Ulzburg,
 
- zweimal im Bereich der A3, davon einmal im Bahnhofsbereich Elmshorn und ein-
+– zweimal im Bereich der A3, davon einmal im Bahnhofsbereich Elmshorn und ein-
 
 mal in Fahrtrichtung Barmstedt.
 

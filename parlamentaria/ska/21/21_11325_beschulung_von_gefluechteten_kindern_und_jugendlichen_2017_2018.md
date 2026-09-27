@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10595", "21/11184", "21/9758", "21/10676", "21/10093", "21/8983", "20/13705"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60318"
@@ -83,7 +84,7 @@ Bitte das Ergebnis der Verteilung für alle allgemeinbildenden Schulen (auch fü
 
 Bitte die Zahlen von 7. in einer neuen Excel-Tabelle nach Schuljahrgangsstufen weiter differenzieren.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Anlagen 4 und 5 sowie Drs. 21/10093. Erfasst wird nicht der Wohnort, sondern die Anschlussförderung. Die Schuldaten basieren auf der Schuljahresstatistik 2016/ 2017, die Daten zur Sprachförderung auf der Erhebung vom April 2017.
 
@@ -103,7 +104,7 @@ Wie viele Schülerinnen und Schüler mit wenig beziehungsweise geringen Deutschk
 
 Bitte die Zahlen von 10. in einer neuen Excel-Tabelle weiter differenzieren nach Schuljahrgangsstufe und Klassenart (Regelklasse und andere Klassenarten).
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Anlagen 4, 5, 8 und 9.
 
@@ -115,7 +116,7 @@ Wie viele Schülerinnen und Schüler erhalten eine DaZ-Förderung? (Bitte für a
 
 Bitte die Zahlen von 12. in einer neuen Excel-Tabelle weiter differenzieren nach Schuljahrgangsstufe und Klassenart (Regelklasse und andere Klassenarten).
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 DaZ-Fördermaßnahmen werden im Wesentlichen in den Vorbereitungsmaßnahmen und in der anschließenden 3. Phase durchgeführt. Siehe dazu Antworten zu 7. und 8. sowie zu 10. und 11. Die allgemeine Sprachförderung kann auch DaZ-Förderung beinhalten, wenn dies als Förderschwerpunkt identifiziert wird.
 

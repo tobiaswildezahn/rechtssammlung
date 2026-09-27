@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11617", "21/9182"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61111"
@@ -89,7 +90,7 @@ Aus welchem Grund erfordert nach Ansicht der BUE die im Koalitionsvertrag verein
 
 Ist eine fundierte Teilnahme der Naturschutzverbände nach Ansicht der BUE ohne eine finanzielle Unterstützung in Höhe von 50.000 Euro jährlich nicht möglich?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Das Forum Tideelbe dient der strategischen Verbesserung des Sedimentmanagements in der Elbe und damit der Sicherung der Erreichbarkeit des Hamburger Hafens. Die Fragestellungen und die Maßnahmen, die im Forum Tideelbe diskutiert werden, sind insbesondere in ökologischer Hinsicht sehr komplex, sodass eine ausschließlich ehrenamtliche Vertretung der Naturschutzverbände nicht zielführend ist. Es ist daher im Interesse der Stadt, die Expertise der Naturschutzverbände umfassend und frühzeitig einzubinden und diese Einbindung finanziell zu unterstützen.
 
@@ -107,15 +108,15 @@ Im Forum Tideelbe soll ein strukturierter und fachlich orientierter Dialog zu Fr
 
 Konkret erfolgt im Forum Tideelbe unter anderem die Konkretisierung und Bewertung strombaulicher Maßnahmen in mehreren Phasen:
 
- Phase 1 (bis Anfang 2018): Vorauswahl von Maßnahmen auf Basis von Experten-
+– Phase 1 (bis Anfang 2018): Vorauswahl von Maßnahmen auf Basis von Experten-
 
 einschätzungen nach einem eher groben Betrachtungsmaßstab, orientiert an den drei Hauptkriterien hydrologische Wirksamkeit, ökologisches Verbesserungspotenzial und Realisierbarkeit.
 
- Phase 2 (bis Anfang 2020): Vertiefte Betrachtung der Erfolg versprechenden Maß-
+– Phase 2 (bis Anfang 2020): Vertiefte Betrachtung der Erfolg versprechenden Maß-
 
 nahmenvorschläge inklusive Machbarkeitsbetrachtungen, Bewertung und Priorisierung,
 
- Phase 3 (bis Mitte 2020): Abstimmung und Verabschiedung eines Ergebnisbe-
+– Phase 3 (bis Mitte 2020): Abstimmung und Verabschiedung eines Ergebnisbe-
 
 richts, in dem alle Ergebnisse der Arbeit des Forums (Materialien, Protokolle, Beschlüsse et cetera) zusammengefasst sind und auf dessen Basis Empfehlungen für Entscheidungsträger in der Politik und die zuständigen Verwaltungen entwickelt, formuliert und übermittelt werden, die die Umsetzung strombaulicher Maßnahmen initiieren helfen.
 
@@ -157,118 +158,118 @@ Die Verwaltungsvorschrift zu § 23 LHO legt fest: „Ausgaben und Verpflichtungs
 
 Siehe Antwort zu 5. und 6. Die Freie und Hansestadt Hamburg hat ein erhebliches Interesse am erfolgreichen Verlauf des Forums Tideelbe unter qualifizierter Beteiligung der Naturschutzverbände.
 
- Amt Geest und Marsch Südholstein
+– Amt Geest und Marsch Südholstein
 
- Angelsport-Verband Hamburg e.V. (auch als Vertreter für den Landessportfischer-
+– Angelsport-Verband Hamburg e.V. (auch als Vertreter für den Landessportfischer-
 
 verband Niedersachsen e.V. & Landessportfischerverband Schleswig-Holstein e.V.)
 
- Arbeitsgemeinschaft Naturschutz Hamburg
+– Arbeitsgemeinschaft Naturschutz Hamburg
 
- Bauernverband Schleswig-Holstein e.V. (auch als Vertreter für Bauernverband
+– Bauernverband Schleswig-Holstein e.V. (auch als Vertreter für Bauernverband
 
 Hamburg e.V. & Landvolk Niedersachsen – Landesbauernverband e.V)
 
- Behörde für Umwelt und Energie Hamburg
+– Behörde für Umwelt und Energie Hamburg
 
- Behörde für Wirtschaft, Verkehr und Innovation Hamburg
+– Behörde für Wirtschaft, Verkehr und Innovation Hamburg
 
- Bund für Umwelt und Naturschutz Deutschland e. V. (BUND) – Landesverband
+– Bund für Umwelt und Naturschutz Deutschland e. V. (BUND) – Landesverband
 
 Hamburg (auch als Vertreter für BUND Landesverband Niedersachsen e.V. & BUND Landesverband Schleswig-Holstein e.V.)
 
- Bundesanstalt für Gewässerkunde
+– Bundesanstalt für Gewässerkunde
 
- Bundesanstalt für Wasserbau
+– Bundesanstalt für Wasserbau
 
- Deich- und Hauptsielverband Dithmarschen (als Vertreter für den Landesverband
+– Deich- und Hauptsielverband Dithmarschen (als Vertreter für den Landesverband
 
 der Wasser- und Bodenverbände Schleswig-Holstein)
 
- Deutscher Fischerei-Verband e.V.
+– Deutscher Fischerei-Verband e.V.
 
- Fischereischutzverband Schleswig-Holstein e.V.
+– Fischereischutzverband Schleswig-Holstein e.V.
 
- Fischereiverein Friedrichskoog
+– Fischereiverein Friedrichskoog
 
- Förderkreis „Rettet die Elbe“ e.V.
+– Förderkreis „Rettet die Elbe“ e.V.
 
- Gemeinde Jork
+– Gemeinde Jork
 
- Generaldirektion Wasserstraßen und Schifffahrt (GWDS)
+– Generaldirektion Wasserstraßen und Schifffahrt (GWDS)
 
- Gruppe Nedderelv e.V.
+– Gruppe Nedderelv e.V.
 
- Hamburg Port Authority – A.ö.R.
+– Hamburg Port Authority – A.ö.R.
 
- Handelskammer Hamburg
+– Handelskammer Hamburg
 
- Hamburger-Segler-Verband e.V. (auch als Vertreter für Segler-Verband Schleswig-
+– Hamburger-Segler-Verband e.V. (auch als Vertreter für Segler-Verband Schleswig-
 
 Holstein e.V., Segler-Verband Niedersachsen e.V.)
 
- Industrie- und Handelskammer Nord
+– Industrie- und Handelskammer Nord
 
- Kreis Dithmarschen
+– Kreis Dithmarschen
 
- Kreis Nordfriesland (auch als Vertreter für das Nationalparkkuratorium Nordfries-
+– Kreis Nordfriesland (auch als Vertreter für das Nationalparkkuratorium Nordfries-
 
 land)
 
- Kreis Pinneberg
+– Kreis Pinneberg
 
- Kreis Steinburg
+– Kreis Steinburg
 
- Landkreis Cuxhaven
+– Landkreis Cuxhaven
 
- Landkreis Stade
+– Landkreis Stade
 
- Maritime Landschaft Unterelbe GbR
+– Maritime Landschaft Unterelbe GbR
 
- Ministerium für Energiewende, Landwirtschaft, Umwelt, Natur und Digitalisierung
+– Ministerium für Energiewende, Landwirtschaft, Umwelt, Natur und Digitalisierung
 
 Schleswig-Holstein
 
- Motoryachtverband Schleswig-Holstein e. V. (auch als Vertreter für Hamburger
+– Motoryachtverband Schleswig-Holstein e. V. (auch als Vertreter für Hamburger
 
 Motorboot Verband e.V, Landesverband Motorbootsport Niedersachsen e.V., Deutscher Motoryachtverband e.V.)
 
- NABU Naturschutzbund Niedersachsen e.V. (auch als Vertreter für NABU Ham-
+– NABU Naturschutzbund Niedersachsen e.V. (auch als Vertreter für NABU Ham-
 
 burg & NABU Schleswig-Holstein)
 
- Niedersächsisches Ministerium für Umwelt, Energie, Bauen und Klimaschutz
+– Niedersächsisches Ministerium für Umwelt, Energie, Bauen und Klimaschutz
 
- Samtgemeinde Nordkehdingen
+– Samtgemeinde Nordkehdingen
 
- Samtgemeinde Land Hadeln
+– Samtgemeinde Land Hadeln
 
- Stadt Brunsbüttel (als Vertreter für den Schleswig-Holsteinischen Städtetag)
+– Stadt Brunsbüttel (als Vertreter für den Schleswig-Holsteinischen Städtetag)
 
- Stadt Cuxhaven (als Vertreter für den Niedersächsischen Städtetag)
+– Stadt Cuxhaven (als Vertreter für den Niedersächsischen Städtetag)
 
- Stadt Otterndorf (als Vertreter für den Niedersächsischen Städtetag)
+– Stadt Otterndorf (als Vertreter für den Niedersächsischen Städtetag)
 
- Stiftung Lebensraum Elbe
+– Stiftung Lebensraum Elbe
 
- Unternehmensverband Hafen Hamburg e.V.
+– Unternehmensverband Hafen Hamburg e.V.
 
- ver.di – Vereinte Dienstleistungsgewerkschaft, Landesbezirk Hamburg (auch als
+– ver.di – Vereinte Dienstleistungsgewerkschaft, Landesbezirk Hamburg (auch als
 
 Vertreter für ver.di Landesbezirk Niedersachsen-Bremen & Nord)
 
- Arbeitsgemeinschaft norddeutscher Industrie- und Handelskammern (IHK Nord)
+– Arbeitsgemeinschaft norddeutscher Industrie- und Handelskammern (IHK Nord)
 
 e.V.
 
- Wasserstraßen- und Schifffahrtsamt Cuxhaven
+– Wasserstraßen- und Schifffahrtsamt Cuxhaven
 
- Wasserstraßen- und Schifffahrtsamt Hamburg
+– Wasserstraßen- und Schifffahrtsamt Hamburg
 
- Wasserverbandstag e.V. | Bremen | Niedersachsen | Sachsen-Anhalt
+– Wasserverbandstag e.V. | Bremen | Niedersachsen | Sachsen-Anhalt
 
- Wasserverbandstag Hamburg
+– Wasserverbandstag Hamburg
 
- Internationales WWF-Zentrum für den Meeresschutz (auch als Vertreter für den
+– Internationales WWF-Zentrum für den Meeresschutz (auch als Vertreter für den
 
 WWF Deutschland)

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9200"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64366"
@@ -72,7 +73,7 @@ Wie viele von den Grundschullehrkräften werden aktuell nach der Besoldungsstufe
 
 Wie viele von den Grundschullehrkräften werden aktuell nach der Besoldungsstufe A 13 und höher bezahlt? Bitte inklusive der Stufen und Übergangsstufen angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Besoldung der in Hamburg verbeamteten Grundschullehrkräfte stellt wie folgt dar:
 
@@ -101,7 +102,7 @@ Wie viele Schulleiter/innen von Grundschulen werden aktuell nach A 12 bezahlt? B
 
 Wie viele Schulleiter/-innen von Grundschulen werden aktuell nach A 13 bezahlt? Bitte inklusive der Stufen und Übergangsstufen angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Da die Grundschulleitungen seit dem 1. August 2017 mit A 14 bewertet sind, werden nur noch zwei Schulleitungen nach A 12 und 14 Schulleitungen nach A 13 bezahlt. Diese Schulleitungen befinden sich in der Bewährungszeit nach A 14.
 

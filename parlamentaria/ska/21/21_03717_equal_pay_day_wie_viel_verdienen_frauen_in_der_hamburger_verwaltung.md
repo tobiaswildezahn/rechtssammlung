@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 15
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/4676", "20/8361", "20/12056", "21/1000", "21/3438"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52084"
@@ -96,7 +97,7 @@ Wie hoch ist das durchschnittliche Jahreseinkommen sowie der durchschnittliche S
 
 Wie viele Personen haben im Jahr 2015 Elternzeit beantragt? a. Wie viele davon waren Männer?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Elternzeit
 

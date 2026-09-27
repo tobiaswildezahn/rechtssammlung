@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 29
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16418", "21/15179"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66276"
@@ -70,7 +71,7 @@ in der Oskar-Schlemmer-Straße
 a. beginnen?  
 b. abgeschlossen sein?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Eine Verlegung der Bewohnerinnen und Bewohner mit besonderen gesundheitlichen Bedarfen ist zu diesem Zeitpunkt nicht geplant. Das Ergebnis des Vergabeverfahrens bleibt abzuwarten, siehe Antwort zu 3. und Drs. 21/16418.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2783"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51800"
@@ -79,7 +80,7 @@ In welchen Fällen konnten jeweils die Täter angezeigt und verurteilt werden?
 
 Wie haben sich die Zahlen der HOCHBAHN letztlich im Vergleich zum Jahr 2014 entwickelt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Eine Anzeigenerstattung erfolgt durch die betroffenen Mitarbeiter selbst. Eine Auswertung erfolgt bei der HOCHBAHN nicht.
 

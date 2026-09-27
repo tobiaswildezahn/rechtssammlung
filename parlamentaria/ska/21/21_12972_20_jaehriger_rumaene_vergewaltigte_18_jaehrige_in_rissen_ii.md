@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62297"
@@ -43,7 +44,7 @@ Ist das Ermittlungsverfahren aufgrund der Tat inzwischen abgeschlossen? Wenn ja,
 
 Ist gegen den Täter Anklage erhoben worden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Gegen den Beschuldigten wurde am 20. April 2018 Anklage zum Landgericht Hamburg – Jugendkammer – erhoben.
 

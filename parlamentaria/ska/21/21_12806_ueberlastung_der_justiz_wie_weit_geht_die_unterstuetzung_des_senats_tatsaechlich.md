@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10486", "21/12737"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62116"
@@ -79,7 +80,7 @@ Wie, durch wen und in welchem Zeitraum kontrolliert die zuständige Behörde, wo
 
 Welche Dienstanweisungen bestehen zur Kontrolle der Fristen und Verjährungen bei Gerichten und der Staatsanwaltschaft?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die gerichtsinterne Steuerung der Verfahrensbearbeitung sowie der Umgang mit Verfahrenshäufungen in einzelnen Dezernaten, Abteilungen, Kammern und Senaten ist Teil der verfassungsrechtlich garantierten richterlichen Unabhängigkeit und erfolgt im Rahmen der Geschäftsverteilung durch das Präsidium des Gerichts. Soweit eine Dienstaufsicht über Richterinnen und Richter zulässig ist, obliegt sie unmittelbar den Präsidentinnen und Präsidenten der Gerichte (§§ 23, 24 HmbAGGVG). Im Rahmen der Dienstaufsicht sowie der Geschäftsverteilung, die in den Gerichten durch die Präsidien beschlossen wird, ist unter Beachtung der richterlichen Unabhängigkeit auch die persönliche Belastung einzelner Richterinnen und Richter im Blick zu behalten.
 

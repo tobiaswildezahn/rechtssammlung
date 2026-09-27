@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 25
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1981", "21/2239", "21/4560", "21/910"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53621"
@@ -106,7 +107,7 @@ Gibt es über das im Vortext genannte Schreiben weitere Beschwerden oder Hinweis
 
 Wie viele Anträge zur Wiederherstellung der vertraglich vereinbarten Wassertiefe an Liegeplätzen in welchen Bereichen im Hafen liegen der HPA derzeit vor? Wie viele Briefe, Beschwerden und Hinweise hat die HPA in 2015 und 2016 von Unternehmen in Sachen Herstellung von Solltiefen und Ausbaggerung von Unterwasserständen im Hamburger Hafen erhalten?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Instandhaltungsbedarfe werden von der für die Wassertiefenhaltung operativ zuständigen HPA mit allen betroffenen Unternehmen in ständigem Austausch besprochen. Je nach Kontext sind dabei unterschiedliche Abteilungen und Personen der HPA eingebunden. Im Übrigen siehe Drs. 21/910.
 

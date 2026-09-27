@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 16
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51285"
@@ -55,7 +56,7 @@ Wie viele Wohneinheiten sollen am Rehagen und an der Glashütter Landstraße nac
 
 Wie viele dieser Wohneinheiten sind jeweils genau für die Flüchtlingsunterbringung vorgesehen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/1838. Nach dem bisherigen Stand der Planung sind am Rehagen circa 390 Wohneinheiten und am Wilden Moor etwa 300 Wohneinheiten vorgesehen. Im Übrigen siehe Antwort zu 8.
 

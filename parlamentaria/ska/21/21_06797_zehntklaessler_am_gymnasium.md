@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6560"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55356"
@@ -57,7 +58,7 @@ Wie viele Schülerinnen und Schüler der zehnten Klassen am Gymnasium haben hamb
 
 Wie viele Schülerinnen und Schüler des Gymnasiums haben hamburgweit im vergangenen Schuljahr die Versetzung in die Oberstufe nicht geschafft? Wie viele dieser Schülerinnen und Schüler haben das Gymnasium mit einem mittleren Schulabschluss verlassen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Für 418 Gymnasiastinnen und Gymnasiasten (6,2 Prozent der Zehntklässlerinnen und Zehntklässler an Gymnasien) liegen der zuständigen Behörde Prüfungsergebnisse für den mittleren Schulabschluss vor. 227 dieser Schülerinnen und Schüler wurden nicht in die Oberstufe versetzt, davon wiederum haben 182 Schülerinnen und Schüler den mittleren Schulabschluss erlangt, 45 Schülerinnen und Schüler mussten in die Nachprüfung oder haben den mittleren Schulabschluss nicht erreicht. Die Anzahl der Schülerinnen und Schüler, die das Gymnasium nach der zehnten Klasse verlassen haben, ergibt sich aus der Schuljahresstatistik, die im 1. Quartal 2017 veröffentlicht wird.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2661", "21/8017", "21/8312", "21/8752", "21/7858", "21/8005"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57817"
@@ -163,7 +164,7 @@ Wie hoch schätzt der Senat nach heutigem Wissensstand die Anzahl der auf Famili
 
 Mit wie vielen Menschen, die über den Familiennachzug nach Hamburg gelangen, rechnet der Senat bis einschließlich 2018? a. Auf welchen Berechnungen basiert die Prognose? b. Welche Faktoren liegen dieser Berechnung zugrunde? Bitte alle diese in die Berechnung eingestellten Faktoren angeben!
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/7858 und Drs. 21/8005.
 

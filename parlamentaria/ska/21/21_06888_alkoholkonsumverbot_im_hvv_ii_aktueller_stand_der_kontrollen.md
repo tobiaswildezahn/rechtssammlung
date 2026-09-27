@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8657", "20/4913", "20/9670", "21/2374"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55744"
@@ -59,7 +60,7 @@ d) VHH
 mit den Kontrollen zu Einhaltung des AKV beauftragt? Bitte jahresweise  
 aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Einhaltung des Alkoholkonsumverbots wird bei allen Verkehrsunternehmen sowohl durch den Prüf- als auch durch den Sicherheitsdienst überwacht und gehört zu den selbstverständlichen Aufgaben des Prüfdienstes.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67455"
@@ -45,7 +46,7 @@ Welche behördlichen Stellen sind zuständig für die Genehmigung zum Verkauf vo
 
 Wie viele Händler und Händlerinnen sind im Besitz einer Genehmigung, die ihnen gestattet, lebende Tiere auf dem Hamburger Fischmarkt anzubieten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für die Zulassung zum Betreiben eines Standes auf einem städtischen Wochenmarkt sind die jeweiligen Bezirksämter zuständig. Die Behörde für Wirtschaft, Verkehr und Innovation hat die fachbehördliche Aufsicht für das Marktwesen. Der Verkauf lebender Tiere ist nicht genehmigungspflichtig. Die Art der auf Wochenmärkten angebotenen Waren wird in § 1 der Verordnung über Wochenmärkte, Volksfeste und Jahrmärkte und in § 67 Absatz 1 Gewerbeordnung geregelt. In § 67 Absatz 1 Nummer 3 Gewerbeordnung sind „rohe Naturerzeugnisse mit Ausnahme des größeren Viehs“ aufgeführt.
 
@@ -57,7 +58,7 @@ Wie viele Händler und Händlerinnen bieten regelmäßig lebende Tiere auf dem H
 
 Welche Arten von lebenden Tieren werden auf dem Hamburger Fischmarkt angeboten? Um wie viele Tiere handelt es sich dabei im Schnitt pro Markttag?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Auf dem Fischmarkt gibt es derzeit vier Händlerinnen und Händler, die regelmäßig lebende Tiere anbieten. Die Unternehmenssitze befinden sich in Schleswig-Holstein, Niedersachsen und Hamburg. Es werden Geflügel, Tauben, Kaninchen sowie Kleintiere wie etwa Meerschweinchen und Teichfische verkauft. Saisonabhängig werden pro Markttag etwa 50 bis 100 Tiere angeboten. Im Übrigen ist die Zahl der Händlerinnen und Händler, die lebende Tiere auf dem Fischmarkt anbieten, seit Jahren rückläufig.
 

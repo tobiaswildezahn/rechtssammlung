@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838", "21/4130", "21/3652"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52634"
@@ -93,7 +94,7 @@ Geht der Senat davon aus, die avisierten 4.800 Wohneinheiten tatsächlich im Jah
 
 Hat der Senat Alternativen für den Fall, dass die Errichtung der 4.800 Wohneinheiten nicht vollumfänglich realisiert werden kann?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Nach heutigem Stand geht der Senat davon aus, dass die Wohneinheiten in den Jahren 2016 und 2017 errichtet werden.
 
@@ -139,7 +140,7 @@ Welche Grundstücke hat die Freie und Hansestadt Hamburg bereits an Investoren z
 
 Für welche Grundstücke steht die Freie und Hansestadt Hamburg noch in Verhandlungen zur Erstellung von Flüchtlingsunterkünften mit der Perspektive Wohnen und wie viele Flüchtlinge sollen auf jedem dieser Grundstücke untergebracht werden?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Mit Stand 27. April 2016 wurden verkauft (notariell beurkundet):
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10447"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59514"
@@ -160,7 +161,7 @@ Wird der Senat für die CeBIT 2018 ein Besuchsangebot für junge Startups anbiet
 
 Wird der Senat Start-up-Unternehmen auch im nächsten Jahr einen Länderstand in der Halle 11 im Rahmen von SCALE 11 ermöglichen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antwort zu 5.
 

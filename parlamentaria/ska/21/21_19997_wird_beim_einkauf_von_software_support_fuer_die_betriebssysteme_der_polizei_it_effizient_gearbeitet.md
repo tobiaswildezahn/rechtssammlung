@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19782"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69762"
@@ -45,7 +46,7 @@ Trifft es zu, dass der Hersteller Microsoft der IT-Abteilung der Polizei Hamburg
 
 Wenn ja, warum wurde dieses Angebot von der IT-verantwortlichen Abteilung oder der BIS nicht angenommen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nein.
 
@@ -67,7 +68,7 @@ Trifft es zu, dass die Polizei Hamburg für die genutzten Systeme mit dem Betrie
 
 Wenn ja, wie ist die vereinbarte Vertragslaufzeit für den externen Einkauf dieses exklusiven Supports?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nein. Im Übrigen siehe Drs. 21/19782.
 

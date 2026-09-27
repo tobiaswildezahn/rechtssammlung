@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5096"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53749"
@@ -91,11 +92,11 @@ Welche Daten werden beim sogenannten Handy-Ticket vom wem wozu erhoben?
 
 Beim „Handy-Ticket“ im Sinne eines Fahrkartenkaufs über die HVV-App, im HVV als „mobilTicket“ bezeichnet, werden für die Erstellung der Fahrkarte die folgenden Daten erhoben:
 
- Name,
+– Name,
 
- Starthaltestelle,
+– Starthaltestelle,
 
- Art der gewählten Fahrkarte.
+– Art der gewählten Fahrkarte.
 
 Darüber hinaus wird zur Abwicklung der Zahlung die Angabe einer Bankverbindung benötigt. Bei einer Kundenregistrierung werden der Name und die Daten der Bankverbindung im Kundenkonto dauerhaft gespeichert. Beim ebenfalls möglichen Kauf ohne Registrierung erfolgt dies nicht.
 
@@ -117,7 +118,7 @@ Inwiefern werden die gesammelten Daten der Kunden/-innen auch vom Daimler-Konzer
 
 Auf welche Weise schließt die Freie und Hansestadt Hamburg die Weitergabe, Verarbeitung oder Nutzung der Kunden-/-innendaten durch den Daimler-Konzern aus?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Bei der App moovel handelt es sich um ein Angebot der zum Daimler Konzern gehörenden moovel Group GmbH. Für den Kauf von HVV-Fahrkarten müssen die Kundin und der Kunde sich bei moovel als Kunde registrieren. Art und Umfang der Verarbeitung der bei der Nutzung der moovel-App anfallenden Daten richten sich nach den zur Anwendung kommenden Allgemeinen Geschäftsbedingungen der moovel Group GmbH.
 

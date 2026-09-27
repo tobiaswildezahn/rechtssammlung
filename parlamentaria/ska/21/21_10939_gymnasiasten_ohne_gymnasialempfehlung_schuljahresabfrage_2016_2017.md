@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59870"
@@ -50,7 +51,7 @@ c) wie viele wurden auf besonderen Antrag hin auch außerhalb der sechsten Klass
 
 Wie hoch beliefen sich zum Vergleich die entsprechenden Zahlen von Gymnasiasten mit Gymnasialempfehlung? Bitte wie in Frage 2. aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die angefragten Zahlen liegen noch nicht vor. Die Schulformwechsler des Schuljahres 2016/2017 (Schülerinnen und Schüler, die zum Schuljahr 2017/2018 an eine andere Schule wechseln) werden mit der Schuljahresstatistik 2017 erfasst. Die Daten stehen nach Validierung und Qualitätssicherung zur Verfügung und werden nach derzeitigem
 

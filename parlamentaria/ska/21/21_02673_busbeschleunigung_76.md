@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2022", "21/2605", "21/73", "21/699"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50975"
@@ -43,7 +44,7 @@ Wann erfolgt die in der Antwort auf Frage 2. in Drs. 21/2022 angekündigte Verö
 
 Wieso dauert die Veröffentlichung dieser Ergebnisse nun schon fast ein Jahr? Welche Arbeitsschritte müssen zuvor konkret erledigt werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Veröffentlichung von Daten auf der Seite www.via-bus.de beziehungsweise im Transparenzportal ist ein Vorgang, der wenige Tage dauert.
 
@@ -67,6 +68,6 @@ Welche Arbeiten sind am Borgweg geplant, die nahezu 3,5 Millionen Euro kosten so
 
 Wie viele Bäume sollen nach derzeitiger Planung am Borgweg gefällt werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/73 und 21/699. Konkrete Planungen liegen noch nicht vor.

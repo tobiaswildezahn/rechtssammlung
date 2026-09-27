@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67501"
@@ -59,7 +60,7 @@ Inwieweit werden hierdurch die Rechte der Bezirksversammlung beziehungsweise der
 
 Warum wurde die obige Fristsetzung während der „Sommerpause“ gewählt, sodass die Fraktionen im Ergebnis keine Einflussnahme auf eine Stellungnahme des Bezirksamtes haben?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Das Vorhaben wurde bereits am 16. April 2019 im Planungsausschuss des Bezirksamts Wandsbek vom Vorhabenträger ausführlich vorgestellt. Dabei wurde den Fraktionen Gelegenheit zu Fragen und Anmerkungen an den Vorhabenträger und die Bezirksversammlung gegeben, die vom Bezirk bei der Erarbeitung seiner Stellungnahme aufgenommen werden konnten. Eine Beschneidung von Rechten der Fraktionen oder der Bezirksversammlung durch die Genehmigungsbehörde ist nicht erkennbar.
 
@@ -73,7 +74,7 @@ Inwieweit können die Fraktionen während und nach der Auslegung der Unterlagen 
 
 Wie wird mit weiteren Anregungen aus dem Kreise der Bürgerinnen und Bürger und anderen betroffenen Personen oder Institutionen seitens der BUE umgegangen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die BUE koordiniert ausschließlich die Beteiligung der Hamburger Behörden, deren Aufgabenbereich von dem Vorhaben berührt ist, nicht die Öffentlichkeitsbeteiligung des Verfahrens für Hamburger Bürger und sonstige Institutionen. Einwendungen und Anregungen dieser sind direkt form- und fristgerecht an die zuständige Genehmigungsbehörde in Schleswig-Holstein zu richten.
 
@@ -93,7 +94,7 @@ Inwieweit sind die Ausmaße der geplanten Abfallbehandlungsanlage (49,5t/h Durch
 
 In welchem Ausmaß vergrößert sich das Bauvolumen gegenüber der bisherigen Anlage und welche Investitionen sind geplant?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Hierzu liegen dem Senat keine Erkenntnisse vor, solche Vergleichsdaten sind nicht Gegenstand der Antragsunterlagen.
 

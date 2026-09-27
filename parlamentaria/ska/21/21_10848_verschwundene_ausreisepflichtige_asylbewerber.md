@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 7
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10677"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59760"
@@ -71,7 +72,7 @@ Wie viele in Hamburg registrierte ausreisepflichtige Asylbewerber beziehungsweis
 
 Wie viele in Hamburg registrierte ausreisepflichtige Asylbewerber beziehungsweise Asylbewerber aus Hamburg sind in den Jahren 2010 bis 2017 verschwunden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Unter den in Hamburg als Gefährder geführten Personen befindet sich kein „verschwundener“ Asylbewerber.
 

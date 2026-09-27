@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4728"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53409"
@@ -55,7 +56,7 @@ In welcher Form wurde bisher die vom Senat beziehungsweise der zuständigen Beh�
 
 Ist es richtig, dass die geplante Haltestelle Borgweg der neuen U-Bahn- Linie U5 bei allen Gesprächen nicht berücksichtigt wurde? Wenn nein, bei welchen Gesprächen wurde die geplante Haltestelle in welcher Form berücksichtigt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Da mit der Machbarkeitsstudie erst begonnen wird, sind die Überlegungen zur U5 im Rahmen der Planungen zur Busbeschleunigung am Borgweg derzeit nicht abgeschlossen. Im Übrigen siehe Drs. 21/4728.
 
@@ -67,7 +68,7 @@ Es wurde in Drs. 21/4728, anders als vom Senat offensichtlich verstanden, nicht 
 
 Welche Alternativen bezüglich der Streckenführung der Linie U5 im Bereich der U-Bahn-Station Borgweg gibt es aus Sicht des Senats beziehungsweise der zuständigen Behörde und wo würden bei diesen Alternativen jeweils die Bahnsteige sowie die Ein- und Ausgänge liegen? Bitte vollständige Aufzählung aller Alternativen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Planungstiefe zur U5 Mitte, das heißt im Abschnitt zwischen City Nord – Innenstadt – Hoheluftbrücke beziehungsweise Siemersplatz und dem Streckenbereich der U5 rund um die Haltestelle Borgweg, befindet sich derzeit noch auf Konzeptniveau. Laut der Konzeptstudie zu den langfristigen Ausbauperspektiven des U-Bahn-Netzes ist eine Umsteigemöglichkeit der neuen Linie U5 zur Ringlinie U3 am Borgweg aus verkehrlicher Sicht sinnvoll. Die Konzeptstudie kann im Transparenzportal der Stadt eingesehen werden:
 

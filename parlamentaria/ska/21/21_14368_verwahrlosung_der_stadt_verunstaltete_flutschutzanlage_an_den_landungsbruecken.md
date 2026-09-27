@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/1961", "20/8842"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63782"
@@ -75,7 +76,7 @@ Ist dem Senat bekannt, dass an der im Bau befindlichen Flutschutzmaßnahme der L
 
 Wenn ja, seit wann ist dem Senat bekannt, dass dort Graffitis gesprüht worden sind?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Dies ist dem LSBG seit Errichtung der Hochwasserschutzanlage bekannt.
 
@@ -95,7 +96,7 @@ Welche Behörde hat was und wann auf Veranlassung oder aus Eigeninitiative unter
 
 Wer ist nach Ansicht des Senats zuständig, diese Entfernung vorzunehmen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Verantwortlich für die Wände der Hochwasserschutzanlage ist der LSBG. Der LSBG lässt Graffitis mit politischen, diskriminierenden und sexistischen Inhalten kurzfristig entfernen. Die Entfernung anderer Graffitis erfolgt entsprechend der Arbeitsprioritäten.
 
@@ -117,7 +118,7 @@ Wie bewertet der Senat das allseits bekannte Vorgehen der New Yorker Politik auf
 
 Hält er diese für übertragbar auf die Hamburger Verhältnisse? Wenn ja, plant der Hamburger Senat, eine solche Strategie grundsätzlich einzuführen beziehungsweise zieht der Senat in Betracht, diese Strategie zumindest auf den Bereich der Graffitis anzuwenden? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Vorbemerkung.
 
@@ -137,6 +138,6 @@ Findet diese Strategie in ganz Hamburg Anwendung oder werden Teile davon ausgeno
 
 Seit wann findet diese Strategie Anwendung und wo genau wurden sichtbare oder nennenswerte Erfolge in der Stadt erzielt?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Vorbemerkung.

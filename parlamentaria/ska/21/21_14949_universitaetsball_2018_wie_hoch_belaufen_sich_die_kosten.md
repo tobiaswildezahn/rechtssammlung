@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64404"
@@ -69,7 +70,7 @@ Wie viele Events dieser Art finden darüber hinaus an der Universität Hamburg s
 
 Welche der Universität Hamburg angeschlossenen Institutionen haben sich in der Vergangenheit an den Ausrichtungen von Bällen und ähnlichen Veranstaltungen beteiligt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Keine.
 

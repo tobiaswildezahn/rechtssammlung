@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 30
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58930"
@@ -45,21 +46,21 @@ Welche Erkenntnisse über Lutz H. hatten Polizei und Justiz bereits vor dem Waff
 
 In den entsprechenden Datenbanken der Strafverfolgungsbehörden sind – ungeachtet eines weiteren Ordnungswidrigkeitenverfahrens wegen eines Verkehrsverstoßes – die nachfolgenden Verfahren erfasst:
 
- Am 22. April 2007 trug der Betroffene in Hamburg im öffentlichen Verkehrsraum für
+– Am 22. April 2007 trug der Betroffene in Hamburg im öffentlichen Verkehrsraum für
 
 andere wahrnehmbar einen Aufnäher mit einem Hakenkreuz. Das Amtsgericht Hamburg-Barmbek verhängte mit Strafbefehl vom 28. August 2007 eine Geldstrafe von 20 Tagessätzen zu je 20 Euro wegen Verwendens von Kennzeichen verfassungswidriger Organisationen.
 
- Am 26. Februar 2015 wurden im Rahmen eines Feuerwehreinsatzes in der Woh-
+– Am 26. Februar 2015 wurden im Rahmen eines Feuerwehreinsatzes in der Woh-
 
 nung des Verstorbenen mehrere Schusswaffen an der Wand festgestellt. Die zuständige Dienststelle des Landeskriminalamtes (LKA) nahm diese in Augenschein. Es handelte sich hierbei mit einer Ausnahme um ordnungsgemäß
 
 unbrauchbar gemachte Waffen, die sämtlich nicht unter waffenrechtliche Strafvorschriften fielen. Ein sichergestelltes Gewehr war nur teilweise unbrauchbar gemacht, wobei ausweislich eines hierzu eingeholten Gutachtens das Gewehr im vorgefundenen Zustand weder geladen noch damit geschossen werden konnte. Im Rahmen des Einsatzes wurden auch mehrere strafrechtlich nicht relevante NS- Devotionalien festgestellt. Das wegen Verstoßes gegen das Waffengesetz geführte Verfahren wurde vor diesem Hintergrund gemäß § 153 Absatz 1 der Strafprozessordnung (StPO) eingestellt. Von der Sicherstellung von Gegenständen mit Kennzeichen nationalsozialistischer Organisationen (Bilder, Symbole) wurde abgesehen, da insofern nach Aktenlage keine Hinweise für ein strafbares Verhalten festzustellen waren.
 
- Am 20. September 2016 wurde erneut im Rahmen eines Feuerwehreinsatzes Waf-
+– Am 20. September 2016 wurde erneut im Rahmen eines Feuerwehreinsatzes Waf-
 
 fen in der Wohnung festgestellt. Es handelte sich um nicht schussfähige Dekorationswaffen (siehe 26. Februar 2015) und frei erwerbliche Schreckschusswaffen. Zusätzlich wurden ein erlaubnispflichtiger Revolver, der mit erlaubnispflichtiger Munition geladen war, und zwei pyrotechnische Patronen sichergestellt. Bei dem folgenden Polizeieinsatz wurden erneut nationalsozialistische Kennzeichen festgestellt, die jedoch nach Aktenlage keine strafrechtliche Relevanz aufwiesen. Das Amtsgericht Hamburg-St. Georg verhängte mit Strafbefehl vom 29. Dezember 2016 in Verbindung mit dem Beschluss vom 7. Februar 2017 eine Geldstrafe von 60 Tagessätzen zu je 10 Euro wegen unerlaubten Besitzes eines mit Munition geladenen Revolvers. Hinsichtlich zweier pyrotechnischer Patronen wurde die Strafverfolgung gemäß § 154a StPO beschränkt. Das ebenfalls eingeleitete Verfahren zur Prüfung eines Waffen- und Munitionsbesitzverbots (WMBV) dauerte zum Zeitpunkt des Todes an.
 
- Die bei der justiziellen Akte befindliche Auskunft des Bundeszentralregisters vom
+– Die bei der justiziellen Akte befindliche Auskunft des Bundeszentralregisters vom
 
 13. März 2017 weist eine Eintragung auf. Demnach verhängte das Amtsgericht Eberswalde am 7. Januar 2013 eine Geldstrafe von 30 Tagessätzen zu je 15 Euro wegen unerlaubten Waffenbesitzes.
 

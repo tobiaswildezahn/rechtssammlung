@@ -11,9 +11,10 @@ fraktionen: ["Die Linke"]
 vorgang: 51999
 seiten: 2
 fragen: 10
-einzelfragen: 17
+einzelfragen: 21
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8094"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56850"
@@ -67,20 +68,33 @@ Werden auch, gegebenenfalls im Auftrag ausländischer Regierungen, Sicherheitsdi
 
 Der Polizei liegen derzeit keine Erkenntnisse im Sinne der Fragestellung vor.
 
-5.1. Falls ja: Auf welcher Rechtsgrundlage geschieht dies?
+### Frage 5.1
 
-5.2. Unterliegen die Mitarbeiter/-innen der in 5. genannten Wach- und Sicherheitsdienste den deutschen Bestimmungen zu Arbeitssicherheit und Arbeitsschutz?
+Falls ja: Auf welcher Rechtsgrundlage geschieht dies?
 
-Falls ja: Wie überprüft der Senat die Einhaltung dieser Bestimmungen?
+### Frage 5.2
 
-5.3. Wie ist sichergestellt, dass die unter 5. genannten Unternehmen keine einheimischen Dienstleiter aus langfristen Aufträgen verdrängen?
+Unterliegen die Mitarbeiter/-innen der in 5. genannten Wach- und Sicherheitsdienste den deutschen Bestimmungen zu Arbeitssicherheit und Arbeitsschutz? Falls ja: Wie überprüft der Senat die Einhaltung dieser Bestimmungen?
+
+### Frage 5.3
+
+Wie ist sichergestellt, dass die unter 5. genannten Unternehmen keine einheimischen Dienstleiter aus langfristen Aufträgen verdrängen?
 
 ### Frage 6
 
 Welche Sicherheitsüberprüfungen haben die Beschäftigten des Wachund Sicherheitsgewerbes zu erwarten?
-6.1. Welche Anforderungen werden bei einer eventuellen Sicherheitsüberprüfung von Beschäftigten an diese gestellt?
-6.2. Erhalten überprüfte Beschäftigte und deren Arbeitgeber eine Mitteilung über mögliche negative Merkmale, die bei einer Überprüfung festgestellt worden sind?
-6.3. Welche Möglichkeiten haben Beschäftigte, einer möglichen Fehleinschätzung durch die Sicherheitsbehörden zu widersprechen?
+
+### Frage 6.1
+
+Welche Anforderungen werden bei einer eventuellen Sicherheitsüberprüfung von Beschäftigten an diese gestellt?
+
+### Frage 6.2
+
+Erhalten überprüfte Beschäftigte und deren Arbeitgeber eine Mitteilung über mögliche negative Merkmale, die bei einer Überprüfung festgestellt worden sind?
+
+### Frage 6.3
+
+Welche Möglichkeiten haben Beschäftigte, einer möglichen Fehleinschätzung durch die Sicherheitsbehörden zu widersprechen?
 
 ### Frage 7
 
@@ -94,7 +108,7 @@ Ist die Einstellung von Arbeitskräften über Subunternehmen für die Gipfeltage
 
 Wird gewährleistet, dass auch Beschäftigte von Subunternehmen mindestens nach dem aktuellen in Hamburg geltenden Branchentarif bezahlt werden? Wenn ja: wie? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 6 bis 9
+#### Antwort zu Fragen 5.1, 5.2, 5.3, 6, 6.1, 6.2, 6.3, 7, 8 und 9
 
 Entfällt.
 

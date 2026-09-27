@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 27
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9744", "21/2108", "21/10137", "20/12697", "21/1716", "21/3550", "21/10093", "21/4327", "21/8908"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60160"
@@ -43,7 +44,7 @@ Wie viele Personen waren in der örU Poppenbütteler Berg Ende November untergeb
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Geschlecht  
 Kinder & Jugendliche  
@@ -180,7 +181,7 @@ Wie viele Kleinkinder und Kinder im Vorschulalter gibt es und wie viele besuchen
 
 Im Baufeld 3 hat das DRK KiJu die Trägerschaft der Kita mit 50 Plätzen übernommen. Welcher Träger übernimmt die Kita in Baufeld 6 mit 80 Plätzen, in der auch das Eltern-Kind-Zentrum (EKiZ) seinen Betrieb aufnehmen soll?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 16 Kinder unter sechs Jahren wohnen in der Unterkunft. Davon werden derzeit jeweils ein Kind in der Kindertagesstätte Langenhorn, Apoidea HH-Bahrenfeld, Volksdorf und Rodenbeker Straße betreut. Zwei Kinder besuchen die Vorschulklasse in der Grundschule in Poppenbüttel.
 
@@ -194,7 +195,7 @@ Welche Angebote werden den Flüchtlingen gemacht (Bildung, Freizeitgestaltung)?
 
 Wie viele Ehrenamtliche sind eingesetzt und wie helfen sie?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Derzeit finden wöchentliche Treffen zwischen den Ehrenamtlichen und der Bewohnerschaft statt, um Bedarfe festzustellen, sich kennenzulernen und die Beteiligten in die Angebotsplanung miteinzubeziehen.
 

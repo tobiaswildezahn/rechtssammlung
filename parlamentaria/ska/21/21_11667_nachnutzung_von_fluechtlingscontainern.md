@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7507", "21/7688"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60896"
@@ -51,7 +52,7 @@ Wie viele Container befinden sich aktuell im Besitz und im Eigentum der Freien u
 
 In welcher Höhe fallen monatlich Kosten für die Lagerung von Containern an? (Bitte aufschlüsseln nach Containern im Eigentum der Freien und Hansestadt Hamburg beziehungsweise seiner öffentlichen Unternehmen beziehungsweise gemieteten Containern.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Container, die in der öffentlich-rechtlichen Unterbringung (örU) genutzt werden, sind im Besitz beziehungsweise Eigentum von f & w fördern und wohnen AöR. Die Container der Erstaufnahmeeinrichtungen (EA) sind im Eigentum und Besitz der Freien und Hansestadt Hamburg. Die im Besitz befindlichen Container sind jeweils gemietet beziehungsweise gekauft. Im Einzelnen siehe nachfolgende Tabelle. Im Übrigen siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2530", "21/3831"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52481"
@@ -74,7 +75,7 @@ informationen-zum-esf-in-hamburg-downloads/.
 
 Die Finanzierungsaufteilung sowie die jährliche Förderung der einzelnen Projekte für Strafgefangene stellen sich wie folgt dar:
 
- DaDurch – Starke Frauen - Mut zum Neustart (01.01.2014 – 31.12.2016):
+– DaDurch – Starke Frauen - Mut zum Neustart (01.01.2014 – 31.12.2016):
 
 Gesamtfinanzierung:
 2.344.400 Euro
@@ -89,7 +90,7 @@ Justizbehörde:
 
 Zuwendung p.a.: 408.667 Euro (ESF und BASFI)
 
- Jugend auf Kurs (01.01.2014 – 31.12.2016)
+– Jugend auf Kurs (01.01.2014 – 31.12.2016)
 
 Gesamtfinanzierung:
 2.049.400 Euro
@@ -101,7 +102,7 @@ Justizbehörde:
 
 Zuwendung p.a.: 332.000 Euro (ESF)
 
- Berufliche Eingliederung Strafgefangener-BEST (01.01.2014 – 31.12.2016)
+– Berufliche Eingliederung Strafgefangener-BEST (01.01.2014 – 31.12.2016)
 
 Gesamtfinanzierung:
 3.573.000 Euro
@@ -114,7 +115,7 @@ Justizbehörde:
 
 Zuwendung p.a.: 595.500 Euro (ESF)
 
- Begleitung Übergang in Freiheit- BÜF (01.07.2014 – 31.12.2016)
+– Begleitung Übergang in Freiheit- BÜF (01.07.2014 – 31.12.2016)
 
 Gesamtfinanzierung:
 1.243.341 Euro
@@ -139,15 +140,15 @@ Wird das Projekt „DaDurch – Starke Frauen – Mut zum Neustart“ auch in de
 Das ESF-Projekt „DaDurch – Starke Frauen – Mut zum Neustart“ endet regulär zum
 31.12.2016. Der ESF-Behördenausschuss hat auf seiner Sitzung am 18.04.2016 die von der Justizbehörde in das Verfahren eingebrachte Leistungsbeschreibung „Aktive Eingliederung von Frauen“ gebilligt. Auf Grundlage dieser Leistungsbeschreibung soll ab 01.01.2017 in der JVA Billwerder, Teilanstalt für Frauen ein Projekt mit den Zielen:
 
- Persönliche Stabilisierung;
+– Persönliche Stabilisierung;
 
- Ausbildung/Qualifizierung;
+– Ausbildung/Qualifizierung;
 
- Aktivierung, Beratung, Begleitung;
+– Aktivierung, Beratung, Begleitung;
 
- Erarbeitung individueller Eingliederungsstrategien;
+– Erarbeitung individueller Eingliederungsstrategien;
 
- aktive Begleitung nach der Entlassung aus der Haft
+– aktive Begleitung nach der Entlassung aus der Haft
 
 gefördert werden.
 

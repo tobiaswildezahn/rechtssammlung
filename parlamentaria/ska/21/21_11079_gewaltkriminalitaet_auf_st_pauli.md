@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1121"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60047"
@@ -86,31 +87,31 @@ Wie viele der TV waren Ausländer beziehungsweise staatenlos?
 Die Polizei erfasst Straftaten gemäß dem Straftatenkatalog der Richtlinien für die Erfassung und Verarbeitung der Daten in der Polizeilichen Kriminalstatistik (PKS). Zur begrenzten Aussagekraft unterjähriger Daten siehe Drs. 21/1121. Die in den Fragen
 1. a) bis 1. o) aufgeführten Deliktsbezeichnungen entsprechen in einigen Fällen nicht der Struktur der Deliktsschlüssel in den standardisiert berechneten Ergebnistabellen der PKS. Die Fragen werden nach den einzelnen Straftatenschlüsseln/Deliktsbereichen des bundesweiten PKS-Summenschlüssels für Gewaltkriminalität (PKS- Summenschlüssel 892000) beantwortet:
 
- Mord (PKS-Schlüssel 010000),
+– Mord (PKS-Schlüssel 010000),
 
- Totschlag und Tötung auf Verlangen §§ 212, 213, 216 StGB (PKS-Schlüssel
+– Totschlag und Tötung auf Verlangen §§ 212, 213, 216 StGB (PKS-Schlüssel
 
 020000),
 
- Vergewaltigung/sexuelle Nötigung (PKS-Schlüssel 111000),
+– Vergewaltigung/sexuelle Nötigung (PKS-Schlüssel 111000),
 
- Raub, räuberische Erpressung und räuberischer Angriff auf Kraftfahrer gemäß §§
+– Raub, räuberische Erpressung und räuberischer Angriff auf Kraftfahrer gemäß §§
 
 249 bis 252, 255, 316a StGB (PKS-Schlüssel 210000),
 
- Körperverletzung mit Todesfolge gemäß §§ 227, 231 StGB (PKS-Schlüssel
+– Körperverletzung mit Todesfolge gemäß §§ 227, 231 StGB (PKS-Schlüssel
 
 221000),
 
- Gefährliche und schwere Körperverletzung, Verstümmelung weiblicher Genitalien
+– Gefährliche und schwere Körperverletzung, Verstümmelung weiblicher Genitalien
 
 gemäß §§ 224, 226, 226a, 231 StGB (PKS-Schlüssel 222000),
 
- Erpresserischer Menschenraub gemäß § 239a StGB (PKS-Schlüssel 233000),
+– Erpresserischer Menschenraub gemäß § 239a StGB (PKS-Schlüssel 233000),
 
- Geiselnahme gemäß § 239b StGB (PKS-Schlüssel 234000) und
+– Geiselnahme gemäß § 239b StGB (PKS-Schlüssel 234000) und
 
- Angriff auf den Luft- und Seeverkehr gemäß § 316c StGB (PKS-Schlüssel
+– Angriff auf den Luft- und Seeverkehr gemäß § 316c StGB (PKS-Schlüssel
 
 235000).
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53744"
@@ -51,7 +52,7 @@ Wie ist der aktuelle Planungsstand für das betreffende Gelände?
 
 Wer genau hat wann und mit welcher Begründung die Entscheidung gefällt, hinsichtlich dieses Areals kein Bebauungsplanverfahren durchzuführen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Ein städtebaulicher Wettbewerb mit hochbaulichem Ideenteil mit anschließendem zusätzlichem Fassadenwettbewerb wurde abgeschlossen. Ein Bauvorbescheidsverfahren nach § 63 HBauO ist zurzeit anhängig.
 
@@ -75,6 +76,6 @@ Wie ist die Entscheidung, auf ein Bebauungsplanverfahren zu verzichten, mit dem 
 
 Warum ist darauf verzichtet worden, ein „beschleunigtes Verfahren“ nach § 13a BauGB durchzuführen? a. Inwiefern trifft aus Sicht des Senats zu, dass es sich im vorliegenden Fall nicht um das geeignete und angemessene Verfahren „für die Wiedernutzbarmachung, die Nachverdichtung oder andere Maßnahmen der Innenentwicklung“ (§ 13a BauGB) handelt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Entfällt.

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 35
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7736", "19/7050", "20/9734", "18/7144", "20/9510"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48482"
@@ -47,19 +48,19 @@ Seit 2009 veröffentlicht der Senat detaillierte Übersichten zu EU-Fördermitte
 
 Umfangreiche Informationen zu den europäischen Förderprogrammen stehen auch in verschiedenen Datenbanken zur Verfügung, in welchen in übersichtlicher Weise spezifische Informationen zu einem Großteil der Förderprojekte in Hamburg abgerufen werden können:
 
- Die Europäische Kommission veröffentlicht die Förderprogramme der aktuellen
+– Die Europäische Kommission veröffentlicht die Förderprogramme der aktuellen
 
 Förderperiode auf folgender Website: http://ec.europa.eu/contracts_grants/grants_en.htm
 
- Weiter veröffentlicht die Kommission alle relevanten Daten von 2007 bis 2013
+– Weiter veröffentlicht die Kommission alle relevanten Daten von 2007 bis 2013
 
 (Programme, Empfänger, Förderhöhe et cetera) über die Vergabe von EU- Fördermitteln, die von ihr selbst verwaltet werden, auf folgender Website: http://ec.europa.eu/budget/fts/index_en.htm
 
- Die Vertretung der Europäischen Kommission in Deutschland veröffentlicht Infor-
+– Die Vertretung der Europäischen Kommission in Deutschland veröffentlicht Infor-
 
 mation über Förderprogramme geordnet nach Ländern unter folgendem Link: http://presseportal.eu-kommission.de/index.php?id=163
 
- Die Suche nach einzelnen Förderprogrammen – aber auch nach allen in Hamburg
+– Die Suche nach einzelnen Förderprogrammen – aber auch nach allen in Hamburg
 
 bereits innerhalb dieser Programme erfolgten Förderzahlungen – unter verschiedenen Kriterien ist möglich unter folgendem Link: http://ec.europa.eu/budget/fts/index_en.htm
 
@@ -5005,11 +5006,11 @@ rung für innovative Verfahren in der Schiffs-
 
 unterhaltung
 
- Hamburger Volkshochschule
+– Hamburger Volkshochschule
 
 (VHS)
 
- Handwerkskammer Hamburg
+– Handwerkskammer Hamburg
 
 (HWK)
 
@@ -5149,11 +5150,11 @@ steht mit den Ansprüchen der bestehenden
 
 Wasserrahmenrichtlinie
 
- LSBG (Lead Partner)
+– LSBG (Lead Partner)
 
- TU Hamburg-Harburg
+– TU Hamburg-Harburg
 
- HCU € 431.250,- 07/08 – 12/11
+– HCU € 431.250,- 07/08 – 12/11
 
 Anlage 7 zur Drs. 21/343
 
@@ -5243,11 +5244,11 @@ die führende Position Europas auf dem Ge-
 
 biet der Ballastwasserbehandlung ausbauen.
 
- BSH
+– BSH
 
- GoConsult
+– GoConsult
 
- MAHLE NFV GmbH
+– MAHLE NFV GmbH
 
 1.600.000,-
 
@@ -5545,11 +5546,11 @@ schen Fluss und Meer übertragen werden
 
 können.
 
-TU Hamburg-Harburg
+– TU Hamburg-Harburg
 
 (Lead Partner)
 
-BSU € 659.525,- 01/09 – 12/11
+– BSU € 659.525,- 01/09 – 12/11
 
 Anlage 7 zur Drs. 21/343
 
@@ -5745,11 +5746,11 @@ bzw. unterstützt werden können. Nutzung
 
 von IT-Lösungen zur Verkehrsverlagerung.
 
-BWA
+– BWA
 
-TU Hamburg-Harburg
+– TU Hamburg-Harburg
 
-Hamburg Hafen Marketing € 335.893,- 04/08 – 04/11
+– Hamburg Hafen Marketing € 335.893,- 04/08 – 04/11
 
 Anlage 7 zur Drs. 21/343
 
@@ -5843,15 +5844,15 @@ Emissionen durch den Bau von Passivhäu-
 
 sern schaffen.
 
-AZB (Ausbildungszentrum Bau)
+– AZB (Ausbildungszentrum Bau)
 
-TU Harburg
+– TU Harburg
 
-IBA GmbH
+– IBA GmbH
 
-Gewerbeschule 19
+– Gewerbeschule 19
 
-ZeBAU
+– ZeBAU
 
 € 820.139,- 08/08 – 10/11
 
@@ -6015,9 +6016,9 @@ für Modelle der Public-Private-Partnership
 
 (Housing-Improvement-District - HID)
 
-HCU
+– HCU
 
-Lawaetz-Stiftung € 280.000,- 07/08 – 07/12
+– Lawaetz-Stiftung € 280.000,- 07/08 – 07/12
 
 SURF
 
@@ -6249,11 +6250,11 @@ Liquified Natural Gas landseitig und auf
 
 Schiffen. Standardisierung von Verfahren.
 
-Behörde für Stadtentwicklung
+– Behörde für Stadtentwicklung
 
 und Umwelt, Präsidialabteilung
 
-Germanischer Lloyd € 156.975,- 10/10–09/13
+– Germanischer Lloyd € 156.975,- 10/10–09/13
 
 Anlage 7 zur Drs. 21/343
 
@@ -6622,9 +6623,10 @@ Partner) € 125.000,- 10/11–03/13
 
 24 SEEDS South Yorkshire Forest Bekämpfung von innerstädtischem Leer-
 
-stand Lawaetz-Stiftung
+stand
+– Lawaetz-Stiftung
 
-HafenCity Universität (HCU) € 382.000,- 1/12 – 5/15
+– HafenCity Universität (HCU) € 382.000,- 1/12 – 5/15
 
 Anlage 7 zur Drs. 21/343
 
@@ -6674,7 +6676,7 @@ Forschungsinstitut Delta-
 
 res, NL
 
-IBA GmbH
+– IBA GmbH
 
 EMOVE
 
@@ -6789,9 +6791,9 @@ tumsstrategie der EU (Europa 2020) sowie
 
 die Klimaanpassung in Einklang zu bringen.
 
- TUHH
+– TUHH
 
-  
+–  
 LSBG (Sub-Partner)  
 € 64.500  
 09/13-03/15
@@ -6830,9 +6832,9 @@ mentprojekte. Es baut auf auf SKINT, MA-
 
 RE, SAWA, FRC (NWE) + BaltCica (BSR).
 
- TUHH
+– TUHH
 
-  
+–  
 FHH, (Sub-Partner)  
 € 50.000  
 09/13-03/15
@@ -6870,7 +6872,7 @@ rial inkl. E-learning und Praxisbeispiele für
 Monitoring und Umsetzung der Ballastwas-
 
 serrichtlinie  
-  
+–  
 Gollasch Consulting  
 € 28.000  
 07/14-06/15
@@ -6917,7 +6919,7 @@ TaNS Toolbox, die der Unterstützung bei der
 
 Beantragung von TEN-T-Mitteln dient.
 
- Hafen Hamburg Marke-
+– Hafen Hamburg Marke-
 
 ting e.V. € 52.000 08/13-06/15
 
@@ -6938,7 +6940,7 @@ im Hafen zur optimalen Nutzung erneuerba-
 rer Energien in Zeiten hoher Produktion und
 
 hoher Bedarfe.  
-  
+–  
 HAW  
 € 50.000  
 07/14-06/15
@@ -7391,11 +7393,11 @@ marktes. Demographie, Migration und wirtschaftliche Pro-
 
 zessharmonisierung.
 
-BWF (Kooperationsstelle Hamburg) als
+– BWF (Kooperationsstelle Hamburg) als
 
 Lead Partner
 
-ISH – Institut für Sozialpolitik
+– ISH – Institut für Sozialpolitik
 
 € 682.124,- 01/08 - 01/12
 
@@ -7433,11 +7435,11 @@ Transport (TUHH), Qualifizierung von Logistik-
 
 Fachkräften (MaCo)
 
-Hamburg Port Authority
+– Hamburg Port Authority
 
-TUHH
+– TUHH
 
-Maritimes Competence-Zentrum
+– Maritimes Competence-Zentrum
 
 Hamburg (MaCo)
 
@@ -7571,9 +7573,9 @@ Gefahrgut –Transporten, gemeinsame Trainings und Me-
 
 thoden.
 
-Polizei Hamburg
+– Polizei Hamburg
 
-TU Hamburg-Harburg €544.884,00 09/09 - 09/12
+– TU Hamburg-Harburg €544.884,00 09/09 - 09/12
 
 Anlage 7 zur Drs. 21/343
 
@@ -7753,13 +7755,13 @@ dungsinhalte, Harmonisierung. Erhöhung der Flexibilität
 
 insb. kleiner Betriebe.
 
-Hanse-Parlament als Lead Partner
+– Hanse-Parlament als Lead Partner
 
-Handwerkskammer Hamburg
+– Handwerkskammer Hamburg
 
-Berufsakademie Hamburg gGmbH
+– Berufsakademie Hamburg gGmbH
 
-BSU / NR
+– BSU / NR
 
 € 397.687,50 09/09 - 03/12
 
@@ -8068,11 +8070,11 @@ rechter Klimaschutzlösungen und deren Implementierung
 
 in Handwerk und Industrie.
 
-Kulturbehörde, Denkmalschutzamt
+– Kulturbehörde, Denkmalschutzamt
 
 als Lead Partner
 
-Behörde für Stadtentwicklung und
+– Behörde für Stadtentwicklung und
 
 € 735.945,92 01/11 – 06/14
 
@@ -8158,7 +8160,7 @@ uments Protection Gdańsk, PL
 
 Umwelt, Klimaleitstelle
 
-AZB (Ausbildungszentrum Bau)
+– AZB (Ausbildungszentrum Bau)
 
 Anlage 7 zur Drs. 21/343
 
@@ -8317,15 +8319,15 @@ Litauen, Nordpolen, Region Kaliningrad & Weißruss-
 
 land.
 
- Hamburg Hafen Marketing
+– Hamburg Hafen Marketing
 
 GmbH als Lead Partner
 
- Fraunhofer-Center für Maritime
+– Fraunhofer-Center für Maritime
 
 Dienstleistungen Hamburg
 
- Baltic Sea Forum e.V.
+– Baltic Sea Forum e.V.
 
 € 541.500,00 10/11 - 09/14
 
@@ -8653,13 +8655,14 @@ sional Training, PL
 
 Gender-Projekt. Verbesserung des Zugangs insb. zu
 
-innovativen Handwerksberufen für Frauen. Hanse-Parlament als Lead Partner
+innovativen Handwerksberufen für Frauen.
+– Hanse-Parlament als Lead Partner
 
-Hamburgisches WeltWirtschaftsIn-
+– Hamburgisches WeltWirtschaftsIn-
 
 stitut (HWWI)
 
-Arbeit und Zukunft e.V.
+– Arbeit und Zukunft e.V.
 
 € 457.500,00 1/12 – 12/14
 

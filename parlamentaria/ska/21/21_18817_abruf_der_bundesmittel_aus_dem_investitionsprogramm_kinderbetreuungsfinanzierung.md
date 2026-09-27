@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17972"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68499"
@@ -55,7 +56,7 @@ Für welche Projekte wurden im Rahmen des „Investitionsprogramm(s) Kinderbetre
 
 Für welche Projekte wurden im Rahmen des „Investitionsprogramm(s) Kinderbetreuungsfinanzierung 2015-2018“ durch die Freie und Hansestadt Hamburg Mittel abgerufen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlagen 1 und 2.
 
@@ -111,7 +112,7 @@ Wie läuft der Prozess zur Bewilligung und Abrufung der Mittel konkret ab? Bitte
 
 Welcher Zeitrahmen ist für den Prozess nach Frage 8. einzuplanen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Vorbemerkung.
 

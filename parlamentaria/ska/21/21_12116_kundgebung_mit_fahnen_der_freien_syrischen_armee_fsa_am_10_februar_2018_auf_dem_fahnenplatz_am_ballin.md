@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61384"
@@ -58,7 +59,7 @@ Wurde die oben genannte Kundgebung für eine oder mehrere Gruppierung/en oder le
 
 Wie war der genaue Tenor der Kundgebung?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Versammlung wurde schriftlich am 4. Februar 2018 unter dem Tenor „Eine Demonstration gegen russischer barbarischer Beschuss von Syrien!“ (Originaltext) durch eine Privatperson angemeldet; Veranstalter war eine weitere Privatperson.
 

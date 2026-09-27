@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/42"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48221"
@@ -100,6 +101,6 @@ c) Wie lange dauerte die Prüfung der vorgenannten Unterlagen an?
 d) Wie gewährleistet der Senat jeweils eine angemessene Prüfung der vorgenannten Unterlagen?
 e) Falls die unter 6) genannte Frist nicht eingehalten wurde: Welche Umstände gewogen den Senat dazu, die Nebentätigkeit vor Ablauf der Monatsfrist zu genehmigen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung. Einer Nebentätigkeitsgenehmigung bedarf es nicht.

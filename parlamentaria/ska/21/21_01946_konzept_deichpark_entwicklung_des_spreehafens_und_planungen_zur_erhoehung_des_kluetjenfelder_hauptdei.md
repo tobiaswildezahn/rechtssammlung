@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 20
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50195"
@@ -117,7 +118,7 @@ In welchem zeitlichen Planungsstadium befindet sich das Konzept Deichpark und wi
 
 Über welche der folgenden Forderungen der Hafenanlieger haben die zuständigen Planungsbehörden wann beraten und zu welchem Ergebnis ist man im Einzelnen gekommen? Welche der Forderungen wurden für die weiteren Planungen des Konzepts berücksichtigt hinsichtlich: a. Aufstockung des Personals für die Wasserschutzpolizei und Einführung eines Ordnungsdienstes, b. Einführung eines Müll- und Reinigungskonzeptes, c. Schaffung von Inseln für das Grillen und die Ascheentsorgung jenseits der Straßen, d. Beschilderung zur Information von Deichnutzern sowie Hinweise über Gefahren, e. Schaffung von sanitären Einrichtungen in der unmittelbaren Nähe des Deiches, f. Schaffung öffentlicher Parkplätze jenseits der Deichtrasse, g. Verzicht auf eine Straßen-Verengung auf ganzer Linie durch Fahrradwege, h. Schaffung von Lieferzonen, Kranaufstellflächen, Rettungsflächen, Parkplätzen und Begegnungszonen für Treppenanlieger und deren Fahrzeuge, i. Schaffung von mehr Beleuchtung, j. Aufstellung eines Sicherheitskonzepts, welches die Rettung und den Brandschutz für Treppenanlieger und Nutzer sicherstellt sowie Kriminalität, Vandalismus und Graffiti-Beschmierungen vorbeugt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die gesamte Hochwasserschutzmaßnahme befindet sich in einem frühen Planungsstadium. Das als Grundvoraussetzung für die Realisierung des Projekts erforderliche Planfeststellungsverfahren ist noch nicht eingeleitet worden.
 

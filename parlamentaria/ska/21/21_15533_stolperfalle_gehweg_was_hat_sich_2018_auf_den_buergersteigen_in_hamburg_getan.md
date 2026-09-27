@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 20
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8256", "21/11374", "21/12183", "21/4902", "21/4500", "21/5922", "20/10333", "20/8997"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65011"
@@ -59,7 +60,7 @@ Wie viele Hinweisschilder zu unebenen Gehwegen wurden seitens des Senats beziehu
 
 Wie viele Hinweisschilder zu unebenen Gehwegen, die laut Drs. 21/8256 und Drs. 21/11374 seitens des Senats beziehungsweise der zuständigen Behörde und/oder der Bezirksämter zwischen 2011 bis 2017 aufgestellt wurden, stehen immer noch? Bitte nach Bezirken, Stadtteilen und den genauen Adressen aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Jahr 2018 haben lediglich das Bezirksamt Wandsbek und die Hamburg Port Authority AöR (HPA) Hinweisschilder aufgestellt (siehe Anlage 1). Für die Vorjahre siehe Drs. 21/11374. Die Maßnahmen in Altona und von der HPA sind abgeschlossen. In Bergedorf ist der Sachstand unverändert. In Wandsbek wurden zwischenzeitlich folgende Maßnahmen erledigt:
 
@@ -112,7 +113,7 @@ Wie oft und in welcher Höhe wurden 2018 von Verkehrsteilnehmern Schadensersatza
 
 Wie oft und in welcher Höhe wurden zwischen 2011 und 2017 von Verkehrsteilnehmern Schadensersatzansprüche gegen die Stadt Hamburg infolge schadhafter Gehwege geltend gemacht und welche Zahlungen hat die Stadt Hamburg in dieser Zeit geleistet? Bitte nach Jahren, Bezirken, Stadtteilen und den genauen Adressen aufschlüsseln.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Anlage 3. Das Bezirksamt Hamburg-Mitte hat seine Angaben für das Jahr 2017 aktualisiert und das Bezirksamt Eimsbüttel seine Angaben für die Jahre 2016 und 2017 ergänzt. Im Übrigen siehe Vorbemerkungen.
 
@@ -124,7 +125,7 @@ Wann planen der Senat beziehungsweise die zuständigen Behörden, die unter 1. a
 
 Wann planen der Senat beziehungsweise die zuständigen Behörden, die unter 2. aufgelisteten Gehwege zu sanieren und welche Kosten fallen dabei jeweils an?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Für das Jahr 2017 siehe Anlage 1. Für die Vorjahre siehe Drs. 21/11374.
 

@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 43
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11899", "20/8842", "21/3440", "21/14368", "21/11619", "21/14191", "21/1395"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63887"
@@ -123,7 +124,7 @@ Wenn der Senat keine Auskunft über die Anzahl der aufgegebenen Anzeigen geben k
 
 Wenn keine Erhebung durchgeführt wird, bitte ich den Senat, darzustellen, warum er dies nicht für nötig erachtet.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Antwort zu 4. bis 6.
 
@@ -215,7 +216,7 @@ Gibt es einen öffentlichen Träger oder einen freien Träger, mit öffentlichen
 
 Gab es in der Vergangenheit Initiativen dieser Art oder sind solche in Vorbereitung? Wenn ja, bitte ausführlich darstellen: wann, Zeitdauer, Anzahl (geplanter) Teilnehmer, wo und Mitteleinsatz.
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Im Bezirk Altona ist die Sprayer-Szene nicht einheitlich organisiert. Eine Unterstützung von öffentlichen oder freien Trägern mit öffentlichen Geldern oder sonstige Einrichtungen zum legalen Besprühen sind nicht bekannt. Im Rahmen des Stadtteilfestes „altonale“ wurden jedoch in der Vergangenheit durch den Veranstalter Flächen (Bauzäune et cetera) zum Besprühen zur Verfügung gestellt. Weitergehende Informationen über Art, Umfang und Kosten, die den Veranstaltern des Straßenfestes in diesem Zusammenhang entstanden sind, liegen dem Bezirksamt Altona nicht vor.
 

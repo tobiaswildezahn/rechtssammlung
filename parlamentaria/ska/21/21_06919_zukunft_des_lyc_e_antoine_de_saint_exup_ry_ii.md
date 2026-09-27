@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 17
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6199", "21/6434"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55502"
@@ -59,7 +60,7 @@ Welche alternativen Standorte wurden in die Betrachtung mitaufgenommen?
 
 Hat es auch Alternativstandorte in räumlicher Nähe zum jetzigen Standort gegeben? Wenn ja: Welche waren dies und was spricht gegen die Alternativstandorte? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Alternative Standorte für einen Schulbau in zentraler Lage stehen nicht zur Verfügung. Auch aufgrund der besonderen städtebaulichen Möglichkeiten auf dem Gelände zwischen Königstraße und Struenseestraße wurden keine Alternativen untersucht. Im Bezirk Eimsbüttel und insbesondere im Raum Niendorf/Lokstedt stehen keine Flächen für den Schulbau zur Verfügung.
 
@@ -137,7 +138,7 @@ In welcher Form und mit welchem Inhalt haben sich Eltern und Schüler des „Lyc
 
 Wie bewertet der Senat beziehungsweise die zuständige Behörde die Äußerungen der Eltern und Schüler?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Der für Bildung zuständigen Behörde liegen bisher (Stand: 2. Dezember 2016) vier Briefe und die Äußerungen der Eltern und Schülerinnen und Schüler auf der Informationsveranstaltung am 7. November 2016 vor. Neben positiven Anmerkungen zur Schaffung eines staatlichen deutsch-französischen Gymnasiums und zur Neuausrichtung des Curriculums wurden Bedenken hinsichtlich des Standortes geäußert, da sich deutsch-französische oder rein französische Familien in Niendorf beziehungsweise Lokstedt angesiedelt hätten. Einige Eltern trugen ihre Befürchtung vor, dass der Schulweg in die Struenseestraße zu lang sei.
 

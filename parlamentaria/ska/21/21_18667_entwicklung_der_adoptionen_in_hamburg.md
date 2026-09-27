@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68335"
@@ -58,7 +59,7 @@ Wie viele Adoptionen gab es in der Freien und Hansestadt Hamburg seit dem Jahr 2
 
 Wie viele der Adoptionen erfolgten aus einem Pflegeverhältnis heraus?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die nachstehenden Tabellen enthalten Informationen über die Zahl der Adoptionen im gewünschten Zeitraum, aufgeschlüsselt nach dem Alter der adoptierten Kinder. Zudem ist ersichtlich, wie viele der Kinder vor Beginn der Adoptionspflege beziehungsweise des Adoptionsverfahrens in einer Pflegefamilie untergebracht waren. Ob die Adoption jeweils durch die Pflegefamilie stattgefunden hat, wird statistisch nicht erfasst.
 
@@ -180,7 +181,7 @@ Wie viele der Adoptionen wurden jeweils durch die Adoptionsvermittlungsstelle Ha
 
 Wie viele der Adoptionen betrafen Kinder mit „besonderen Bedürfnissen“?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Zu den Daten für die Adoptionsvermittlungsstelle Hamburg siehe Antwort zu 1. und 2.
 

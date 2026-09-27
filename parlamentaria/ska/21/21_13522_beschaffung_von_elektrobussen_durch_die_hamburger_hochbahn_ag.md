@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 23
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11129"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62889"
@@ -135,7 +136,7 @@ Wurden mit den Herstellern Serviceverträge für die Nutzungsdauer der Busse abg
 
 Wie hoch sind die jährlichen Kosten dieser Serviceverträge?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Es wurden keine Serviceverträge für die Nutzungsdauer der Busse mit den Herstellern abgeschlossen.
 

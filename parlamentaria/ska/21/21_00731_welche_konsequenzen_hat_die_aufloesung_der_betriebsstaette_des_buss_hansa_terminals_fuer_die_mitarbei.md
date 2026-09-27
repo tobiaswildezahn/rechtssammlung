@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/431", "19/8635", "20/340"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48895"
@@ -71,6 +72,6 @@ Was waren die wesentlichen Eckpunkte der einvernehmlichen Vereinbarung aus den J
 
 Auf welche Höhe beläuft sich die vertraglich festgehaltene Entschädigungszahlung, die der Buss Hansa Terminal GmbH & Co. KG gezahlt wurde?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 19/8635 und 20/340.

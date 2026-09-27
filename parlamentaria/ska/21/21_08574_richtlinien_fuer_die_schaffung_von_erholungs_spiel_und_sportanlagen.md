@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8199"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57298"
@@ -89,7 +90,7 @@ In welchen Stadtteilen wird der in der Richtlinie genannte Orientierungswert von
 
 Wie viele Quadratmeter Sportfläche stehen in Hamburg durchschnittlich pro Einwohner zur Verfügung? Wie hat sich dieser Wert in den letzten zehn Jahren entwickelt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Für die Beantwortung müssten stadtteilbezogene Bevölkerungsdaten mit der Nettosportfläche aller kommunalen Sportstätten, Schulsporthallen, Landesleistungszentren, Sondersportstätten, Eisflächen, Freizeit-, Outdoor- beziehungsweise Parksporteinrichtungen und Bäder ins Verhältnis gesetzt und mit den Orientierungswerten verglichen werden. Außerdem müssten alle Vereine, Verbände und kommerzielle Sportanbieter nach (vereins-)eigenen Anlagen abgefragt werden. Das ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -101,6 +102,6 @@ Wie stellt der Senat sicher, dass bei der Entwicklung größerer Wohnungsbauvorh
 
 Welche Maßnahmen plant der Senat um den in der Richtlinie genannten Orientierungswert in den unter 5. genannten Stadtteilen zu erreichen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 In der Senatskommission Stadtentwicklung und Wohnungsbau beraten die Senatsmitglieder aller beteiligten Behörden und Ämter regelmäßig über die strategische Stadtentwicklungsplanung. Hier werden auch die Orientierungswerte für Sportflächen eingebracht. Diese werden im Rahmen der Realisierung jedes Einzelvorhabens geprüft. Im Rahmen der Entwicklung größerer Wohnungsbauplanungen finden zu den jeweiligen Vorhaben außerdem Workshops mit den Bedarfsträgern sowie in der Regel öffentliche Plandiskussionen und Ausschreibungen statt. Auch hier erfolgt eine Einbeziehung sportlicher Belange. Im Übrigen siehe Drs. 21/8199.

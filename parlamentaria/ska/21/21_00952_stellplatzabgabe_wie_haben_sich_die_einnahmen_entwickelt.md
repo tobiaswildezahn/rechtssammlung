@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49123"
@@ -43,7 +44,7 @@ Welche Einnahmen wurden im Jahr 2014 durch die Ausgleichsabgabe für Stellplätz
 
 Welche Einnahmen wurden in den Jahren 2010 – 2013 durch die Ausgleichsabgabe für Stellplätze bei Gewerbe- und Wohnimmobilien erzielt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Folgende Einnahmen wurden durch die Ausgleichsabgabe für Stellplätze bei Gewerbe- und Wohnimmobilien erzielt:
 

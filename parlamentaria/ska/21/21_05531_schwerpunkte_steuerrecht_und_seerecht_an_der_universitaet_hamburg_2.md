@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5440", "20/11995", "20/11997", "21/4847"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54017"
@@ -65,7 +66,7 @@ Wie beurteilt Senatorin Fegebank die Leistungen dieser beiden Schwerpunkte?
 
 Was hat Senatorin Fegebank unternommen, um die beiden Schwerpunkte zu erhalten?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 

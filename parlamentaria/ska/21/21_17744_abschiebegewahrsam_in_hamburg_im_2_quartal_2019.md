@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 4
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67346"
@@ -48,6 +49,6 @@ Wie viele Menschen befanden sich im vergangenen Quartal in Abschiebegewahrsam am
 
 Wie viele der unter 1. genannten Menschen wurden von wo, auf welche Art, in welche Länder abgeschoben und welcher Staatsangehörigkeit gehörten sie jeweils an? a. Wie viele wurden aus welchen Gründen wieder freigelassen? b. Wie viele wurden in welche Straf- oder Abschiebehaftanstalten überstellt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im 2. Quartal 2019 befand sich in Hamburg keine Person im Ausreisegewahrsam nach § 62b Aufenthaltsgesetz.

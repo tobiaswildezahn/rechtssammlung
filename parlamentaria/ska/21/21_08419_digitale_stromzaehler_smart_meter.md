@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57132"
@@ -65,7 +66,7 @@ Wie ist die Umsetzung geplant? Was kostet ein herkömmlicher Stromzähler und we
 
 Welche Kosten kommen durch die Umrüstung direkt auf die Stromverbraucher zu und welche Kostenanteile werden indirekt (zum Beispiel durch die Umlegung auf die Netzkosten oder die Abwälzung auf die Hauseigentümer) abgegolten?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Umsetzung des GDEW wird im Zuge des Turnuswechselprozesses realisiert. Dabei sollen bis zu 100.000 Zähler pro Jahr getauscht werden. Die Einkaufspreise für digitale Zähler sind mit denen für herkömmliche Zähler im Segment der Haushalts-
 

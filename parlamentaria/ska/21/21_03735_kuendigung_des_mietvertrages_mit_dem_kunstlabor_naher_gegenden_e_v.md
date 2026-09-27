@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52104"
@@ -43,7 +44,7 @@ Wie ist der derzeitige Sachstand?
 
 Wie gestalten sich Inhalt und Fristen der Kündigung?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Mit Schreiben vom 26. Februar 2016 wurde dem Verein Kunstlabor naher Gegenden e.V. (KuNaGe) eine Kündigung der Räume im Erdgeschoss der Immobilie Norderstraße 65 zum 31. März 2016 zugestellt und dieser zur vertragsgemäßen Räumung aufgefordert. Gleichzeitig wurde dem Verein KuNaGe der Abschluss eines neuen Zwischennutzungs-Mietvertrags bis zum 30. November 2016 in Aussicht gestellt, wenn er zugleich eine Räumungsverpflichtung mit Zwangsvollstreckungsunterwerfung in notarieller Form abgibt. Von diesem Angebot hat der Verein bisher keinen Gebrauch gemacht.
 

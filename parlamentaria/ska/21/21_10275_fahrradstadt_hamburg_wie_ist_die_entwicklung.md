@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 28
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1502", "21/9184", "21/3969", "21/1447", "21/4109", "21/4125", "21/7515", "21/5997", "21/8797"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59133"
@@ -119,7 +120,7 @@ Wann wurden welche Einbahnstraßen eingerichtet? Welche weiteren Einbahnstraßen
 
 An welchen Stellen ist die Radwegebenutzungspflicht eingeschränkt? Was sind die Gründe für die Einschränkung der Radwegebenutzungspflicht in den jeweiligen Einzelfällen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Erhebungen im Sinne der Fragestellungen liegen der zuständigen Behörde nicht vor. Für die Beantwortung wäre eine systematische Sichtung der zum Teil mehrbändigen Akten zu über 8.500 Straßen der Freien und Hansestadt Hamburg erforderlich. Dieses ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Im Übrigen siehe Drs. 21/1447.
 

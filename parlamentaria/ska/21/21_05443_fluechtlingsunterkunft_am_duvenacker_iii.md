@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53932"
@@ -67,6 +68,6 @@ Sind weitere Maßnahmen (nach DIN 18005) notwendig, wenn die Wohnungen nach 15 J
 
 Wie viel werden die einzelnen Maßnahmen zur Einhaltung der DIN- 18005-Auflagen kosten?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 1. bis 1. b. Im Übrigen: entfällt.

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59347"
@@ -43,7 +44,7 @@ Wie sind derzeit der genaue Sachstand und der Zeitplan für das Bebauungsplan-Ve
 
 Wann ist die öffentliche Auslegung des Bebauungsplans vorgesehen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die öffentliche Plandiskussion hat am 31. Januar 2017 stattgefunden. Der Planungsausschuss hat am 28. Februar 2017 der Fortführung des Bebauungsplanverfahrens zugestimmt. Der Bebauungsplan wird als vorhabenbezogener Bebauungsplan gemäß § 12 Baugesetzbuch aufgestellt. Dabei sind vom Vorhabenträger auch die liegenschaftlichen Voraussetzungen zu schaffen. Sobald diese vorliegen, kann das Bebauungsplanverfahren zügig fortgeführt und ein Zeitplan für die nach den Vorgaben des Baugesetzbuches erforderlichen Verfahrensschritte aufgestellt werden.
 

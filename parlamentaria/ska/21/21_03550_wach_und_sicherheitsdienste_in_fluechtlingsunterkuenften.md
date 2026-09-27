@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3549", "21/3278", "21/3461", "21/2108", "21/1812", "21/1501", "20/13284"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51915"
@@ -152,7 +153,7 @@ Welche sich in Planung befindlichen Einrichtungen der Flüchtlingsunterbringung 
 
 Anhand welcher Kriterien wird entschieden, ob eine Flüchtlingsunterkunft einen Wach- beziehungsweise Sicherheitsdienst erhält?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Für die Erstaufnahmeeinrichtungen ist nicht geplant, vom Grundsatz abzuweichen, einen Wachdienst vorzusehen. Auch in allen für unbegleitete minderjährige Flüchtlinge vorgesehenen Erstversorgungseinrichtungen ist grundsätzlich der Einsatz eines Sicherheitsdienstes vorgesehen. Soweit die Erstaufnahme durch Personal freier Träger der Jugendhilfe in kleineren Einheiten mit eigener nächtlicher Aufsicht betreut werden müssen, ist ein Sicherheitsdienst erfahrungsgemäß nicht erforderlich. Solche Einrichtungen sind jedoch aktuell nicht geplant.
 

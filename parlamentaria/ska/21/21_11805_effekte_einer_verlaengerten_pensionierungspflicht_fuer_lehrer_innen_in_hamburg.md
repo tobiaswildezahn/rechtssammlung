@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 31
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61047"
@@ -153,7 +154,7 @@ Welche konkreten Verbesserungseffekte und welche generelle positive Entwicklung 
 
 Wie viele verbamtete Lehrer/-innen möchten, nach gegenwärtiger Kenntnis des Senats beziehungsweise der zuständigen Fachbehörde, aktuell (Stand 29.1.2017) je Schulform ihre gesetzlich vorgeschriebene Pensionierung hinausschieben, um weiterhin im Schuldienst in Voll- oder Teilzeit zu arbeiten? (Bitte jeweils nach Voll- und Teilzeit unterschieden und nach den Schulformen Grund-, Sonder-, Stadtteil-, berufliche-, Gewerbeschulen und Gymnasium, aufgeschlüsselt in absoluten Zahlen sowie in Prozent, in einer eigenen Excel-Tabelle angeben.) a. Wie viele dieser Lehrer/-innen sind Frauen? (Bitte entsprechend in absoluten Zahlen und in Prozent in der Tabelle zu 9. angeben.) b. Wie wurden diese Wünsche um Aussetzung der eigenen Pensionierung seitens der Lehrer/-innen durch wen erhoben? (Bitte Verfahren erläutern und Fachabteilungen der zuständigen Behörde angeben.) c. Welche Gründe liegen dafür, nach Kenntnis des Senats/der zuständigen Fachbehörde seitens dieser verbeamtete Lehrer/-innen jeweils vor? (Bitte mit jeweiligem Grund entsprechend in absoluten Zahlen und in Prozent in der Tabelle zu 10. angeben.)
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Mit Stand 29.01.2018 liegen für die allgemeinbildenden Schulen drei Anträge vor, für die beruflichen Schulen keine Anträge. Im Übrigen siehe Vorbemerkung.
 
@@ -165,7 +166,7 @@ Wie viele verbamtete Lehrer/-innen haben in den letzten fünf Schuljahren einen 
 
 Wie vielen dieser Anträge wurde seitens des Senates beziehungsweise der zuständigen Behörde stattgegeben? Wie vielen nicht? Bitte in absoluten Zahlen angeben.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Diese Daten werden nicht gesondert statistisch erfasst. Eine Einzelfallbetrachtung von mehreren Hundert Personalfällen pro Schuljahr für die allgemeinbildenden Schulen ist in der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht möglich. Für den Zeitraum der letzten fünf Jahre haben für den Bereich der berufsbildenden Schule dreizehn Anträge vorgelegen, davon nach Funktion eine Schulleitung, zwei Abteilungsleitungen und zehn reguläre Lehrkräfte. Dabei handelte es sich um zwei weibliche und elf männliche Antragsteller/innen. Alle Anträge wurden abgelehnt.
 

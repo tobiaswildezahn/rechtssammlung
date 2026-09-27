@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15748"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65409"
@@ -121,7 +122,7 @@ Von den 79 Abschiebungen erfolgten 31 in sichere Herkunftsländer (Albanien, Kos
 
 Welche Vorteile ergeben sich für die Sachbearbeitung, wenn Straftäter in sichere Herkunftsländer abgeschoben werden sollen? Bitte ausführlich beantworten (beispielsweise im Hinblick auf Bearbeitungszeit, Zusammenarbeit mit Bundesbehörden, Zusammenarbeit mit den Landesvertretungen).
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Bei allen Rückführungsmaßnahmen müssen die jeweiligen zielstaatsbezogenen Voraussetzungen sowie individuellen Umstände des Einzelfalles der Vorbereitung und Durchsetzung des Vollzugs gleichermaßen beachtet werden. Grundsätzliche Unterschiede in der Fallbearbeitung ergeben sich somit nicht. Das Bundesamt für Migration und Flüchtlinge führt die Asylverfahren von Personen aus den sicheren Herkunftsstaaten in der Regel im beschleunigten Verfahren (§ 30a Asylgesetz (AsylG)) durch und lehnt diese in der Rechtsfolge gemäß § 29a AsylG überwiegend als offensichtlich unbegründet ab. Dies hat zur Folge, dass die Ausreisepflicht schneller hergestellt werden kann und damit bei Nichtausreise schneller mit den Vorbereitungen zur Beendigung des Aufenthaltes schneller als in anderen Fällen begonnen werden kann. Sofern zum Beispiel die Identität einschließlich der Staatsangehörigkeit im Asylverfahren nicht durch Dokumente belegt werden konnte, bleibt es auch in solchen Fällen notwendig, durch die Ausländerbehörde zunächst die Identität nachzuweisen und darauf folgend Passersatzpapiere zu beschaffen. Grundsätzliche Unterschiede in der Zusammenarbeit mit anderen Behörden oder Vertretungen ergeben sich hieraus nicht.
 

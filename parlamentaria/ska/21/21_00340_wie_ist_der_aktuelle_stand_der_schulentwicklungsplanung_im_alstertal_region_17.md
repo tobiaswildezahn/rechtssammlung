@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/190", "20/11667"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48477"
@@ -74,7 +75,7 @@ Wie viele Erstwünsche bei der Anmeldung für die erste Klasse konnten jeweils a
 
 Wie viele Erstwünsche bei der Anmeldung für die erste Klasse konnten jeweils an den einzelnen Grundschulen in der Region 17 nicht erfüllt werden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Schule
 

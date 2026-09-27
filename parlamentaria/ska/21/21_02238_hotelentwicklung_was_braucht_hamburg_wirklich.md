@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50500"
@@ -130,7 +131,7 @@ Wie viele Hotels sollen in den nächsten drei Jahren in Hamburg gebaut werden?
 
 Wie viele Hotels werden in welchen Preisklassen von privaten Investoren derzeit geplant und wie unterstützt die Freie und Hansestadt Hamburg beziehungsweise die Hamburg Tourismus GmbH private Investoren beim Bau von Hotels in Hamburg?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 In den nächsten drei Jahren (2016 – 2018) sind gemäß Auskunft der HHT insgesamt 24 Hotels mit 4.115 Zimmern und 8.045 Betten geplant (mit vom jeweiligen Investor vorab angekündigten Eigenzuordnung):
 

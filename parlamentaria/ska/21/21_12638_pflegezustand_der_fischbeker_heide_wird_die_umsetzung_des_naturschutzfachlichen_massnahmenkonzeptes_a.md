@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61943"
@@ -69,49 +70,49 @@ Mit welchen Vorhaben wird seit 2010 die Umsetzung des naturschutzfachlichen Maß
 
 Der PEP für das Naturschutzgebiet Fischbeker Heide besteht seit 2017. Im Zeitraum davor wurden die Maßnahmen auf Grundlage eines PEP-Entwurfs von 1994, der Schutzziele aus der Naturschutzgebietsverordnung sowie aufgrund von Erkenntnissen aus einzelnen Untersuchungen und Maßnahmen durchgeführt:
 
- Beweidung von Heideflächen (circa 155 ha) sowie vereinzelten Grünländern (circa
+– Beweidung von Heideflächen (circa 155 ha) sowie vereinzelten Grünländern (circa
 
 6 ha, mit Durchführung eines jährlichen Pflegeschnittes als Mulchmahd) und Magergrünländern in der Fischbeker Heide mit Heidschnucken und Ziegen entsprechend den Vorgaben des zwischen der zuständigen Fachbehörde und einer Schäferei abgestimmten Beweidungsplans und Bewirtschaftungsvertrags,
 
- regelmäßige Durchführung von Maßnahmen zur Regeneration überalterter Heide-
+– regelmäßige Durchführung von Maßnahmen zur Regeneration überalterter Heide-
 
 flächen durch Schoppern, Plaggen oder Mähen (bis 2015 teilweise kofinanziert aus Mitteln des ELER) in der Fischbeker und Neugrabener Heide, teilweise mit anschließender Ansaat von Calluna vulgaris. Seit 2010 sind circa 40 ha geplaggt, geschoppert oder gemäht worden,
 
- Entkusselungsmaßnahmen erfolgen durch Entnahme von Bäumen und Sträuchern
+– Entkusselungsmaßnahmen erfolgen durch Entnahme von Bäumen und Sträuchern
 
 zum Offenhalten bestehender Heidelebensräume, Maßnahmen zur Vergrößerung der Heideflächen durch Waldumwandlungen, Entfernung von Waldriegeln und Entnahme von Einzelbäumen sowie Schaffung von Lichtungen zur Vernetzung von Heidelebensräumen, teilweise mit anschließender Ansaat von Calluna vulgaris. Professionelle Entkusselungsmaßnahmen wurden seit 2010 pro Jahr auf circa 1 bis 3 ha durchgeführt. Ehrenamtliche Entkusselungsmaßnahmen insbesondere durch Mitglieder der Loki Schmidt Stiftung, der Schutzgemeinschaft Deutscher Wald, des NABU und des Segelflugclubs Fischbek belaufen sich jährlich ebenfalls auf mehrere Hektar,
 
- einmal jährlich finanziert und unterstützt die Abteilung Naturschutz ein internationa-
+– einmal jährlich finanziert und unterstützt die Abteilung Naturschutz ein internationa-
 
 les Jugendaustauschprojekt (IJGD, siehe dazu: https://www.ijgd.de/), deren Teilnehmer an unterschiedlichen Pflegemaßnahmen in der Fischbeker Heide arbeiten,
 
- 2016 wurden zahlreiche Wege, die durch Starkregenereignisse erodiert sind,
+– 2016 wurden zahlreiche Wege, die durch Starkregenereignisse erodiert sind,
 
 saniert, sodass sich die Besucher des Naturschutzgebietes sicher auf dem Wegenetz bewegen können,
 
- regelmäßiges Monitoring von Arten nach Anhang IV (Zauneidechse, Schlingnatter)
+– regelmäßiges Monitoring von Arten nach Anhang IV (Zauneidechse, Schlingnatter)
 
 sowie Lebensraumtypen nach Anhang I der FFH-Richtlinie,
 
- weitere Einzeluntersuchungen zu verschiedenen Artengruppen (unter anderem
+– weitere Einzeluntersuchungen zu verschiedenen Artengruppen (unter anderem
 
 Laufkäfer, Libellen, Tagfalter, Heuschrecken, Rentierflechten), sowie der Entwicklung der Artengruppen Wildbienen und Grabwespen, Heuschrecken sowie Sandlaufkäfer,
 
- regelmäßige Erfolgskontrollen für durchgeführte Heidepflegemaßnahmen auf aus-
+– regelmäßige Erfolgskontrollen für durchgeführte Heidepflegemaßnahmen auf aus-
 
 gewählten (Dauer-)Probeflächen (Betrachtung der Vegetationsentwicklung,
 
- Waldpflege und -entwicklung durch regelmäßige Durchforstungsmaßnahmen sei-
+– Waldpflege und -entwicklung durch regelmäßige Durchforstungsmaßnahmen sei-
 
 tens der Revierförstereien für den guten Erhalt lockerer und lichtdurchfluteter Waldbestände. Hierbei wird insbesondere auf lockere Übergangsbereiche von Freiflächen und Waldflächen geachtet, die zum Beispiel der vom Aussterben bedrohten Vogelart „Ziegenmelker“ gute Lebensbedingungen anbieten,
 
- Erneuerung der Abzäunung des Kuhteiches,
+– Erneuerung der Abzäunung des Kuhteiches,
 
- partielle Aufgabe der Wohnnutzung und Rückbau einzelner Gebäude (Fischbeker
+– partielle Aufgabe der Wohnnutzung und Rückbau einzelner Gebäude (Fischbeker
 
 Heideweg 40 und 97, Stadtweg 27),
 
- Ausbau und Erweiterung des Umweltbildungsangebotes im Naturschutzinforma-
+– Ausbau und Erweiterung des Umweltbildungsangebotes im Naturschutzinforma-
 
 tionshaus Schafstall.
 
@@ -147,15 +148,15 @@ Darüber hinaus besteht mit dem NABU ein Betreuungsvertrag nach § 24 des Hambur
 
 Die Betreuung hat zum Inhalt:
 
- Aufsicht:
+– Aufsicht:
 
 Überwachung der Einhaltung der Verbote der Verordnungen vor Ort, Aufklärung über Ziele und Inhalte der Verordnung, Information über besondere Regelungen oder gesperrte Bereiche.
 
- Beobachtung:
+– Beobachtung:
 
 Kontrolle der gefährdeten Tier- und Pflanzenarten unter besonderer Berücksichtigung der gefährdeten Brutvögel, Amphibien, Reptilien und Libellen.
 
- Maßnahmen:
+– Maßnahmen:
 
 Durchführung von Pflege- und Entwicklungsmaßnahmen auf der Grundlage des Pflege- und Entwicklungsplanes im Einvernehmen mit der Abteilung Naturschutz, wie Entfernung standortfremder Gehölze, Freihaltung von offenen Heiden und Mooren und Pflege der Gewässer.
 

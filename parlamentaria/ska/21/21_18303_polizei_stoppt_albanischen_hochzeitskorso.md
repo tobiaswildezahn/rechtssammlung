@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 16
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16298"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67939"
@@ -123,7 +124,7 @@ Hat jemand von ihnen ein Asylverfahren durchlaufen?
 
 Falls ja, mit welchem Ergebnis?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Nein.
 

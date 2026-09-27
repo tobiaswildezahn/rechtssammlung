@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53959"
@@ -412,7 +413,7 @@ Welche Abfälle sind kostenfrei abzugeben?
 
 Für welche Abfälle fallen Gebühren in welcher Höhe an?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe dazu: http://www.stadtreinigung.hamburg/privatkunden/gebuehren.
 

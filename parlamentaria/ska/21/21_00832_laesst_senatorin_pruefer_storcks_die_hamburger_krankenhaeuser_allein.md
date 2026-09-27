@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48979"
@@ -360,28 +361,28 @@ Krankenhaus
 
 Bundeswehrkrankenhaus Abschluss vom 27. Februar 2010:
 
-  
+–  
 1. Januar 2010 lineare Erhöhung von 1,2 %  
-  
+–  
 1. Januar 2011 lineare Erhöhung von 0,6 % sowie Einmalzahlung von 240 Euro  
-  
+–  
 1. August 2011 lineare Erhöhung von 0,5 %
 
 Abschluss vom 31. März 2012:
 
-  
+–  
 1. März 2012: lineare Erhöhung von 3,5 %  
-  
+–  
 1. Januar 2013: lineare Erhöhung von 1,4 %  
-  
+–  
 1. August 2013: lineare Erhöhung von 1,4 %
 
 Abschluss vom 1. April 2014:
 
-
+–
 1. März 2014: lineare Erhöhung von 3 %. Bleibt der Erhöhungsbetrag einer Entgeltgruppe und -stufe unter dem Garantiebetrag von 90 Euro, so wird das betreffende Gehalt um 90 Euro erhöht. Diese Erhöhung ist tabellenwirksam.
 
-
+–
 1. März 2015: lineare Erhöhung von 2,4 %
 
 Ev. Amalie-Sieveking-

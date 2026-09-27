@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51822"
@@ -64,10 +65,16 @@ Darüber hinaus hält Hamburg seit 1973 mit dem Straßennamen Borchertring (Stei
 ### Frage 3
 
 Ist mit dem Gymnasium Eppendorf, auf das Wolfgang Borchert zur Schule ging, oder der Grund- und Stadtteilschule Eppendorf, gesprochen worden, ob sie den Namen Wolfgang Borchert annehmen?
-3.1. Wenn ja, was war das Ergebnis?
-3.2. Wenn nein, warum nicht?
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+Wenn ja, was war das Ergebnis?
+
+### Frage 3.2
+
+Wenn nein, warum nicht?
+
+#### Antwort zu Fragen 3, 3.1 und 3.2
 
 Entsprechende Gespräche wurden 2012 und 2013 geführt. Beide Schulen wollen den Namen Wolfgang Borchert nicht annehmen.
 

@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 27
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10344", "21/14576", "20/9125", "20/12882", "21/1599", "21/5677", "21/13600", "21/13544"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64256"
@@ -57,7 +58,7 @@ Welche Daten erhebt der Senat/die zuständige Behörde hinsichtlich der seelisch
 
 Welche Ergebnisse liegen für das jüngst abgelaufene und die vorherigen fünf Schuljahre in den entsprechenden Kategorien vor? (Bitte in einer Excel-Tabelle angeben, die nach Daten und Schuljahren gegliedert ist und in Alters- beziehungsweise Klassenstufen und Geschlecht differenziert.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für schulische Maßnahmen zur Gesundheitsförderung von Schülerinnen und Schülern werden Hamburgs spezifische und bundesweite Befunde zur Kinder- und Jugendgesundheit zugrunde gelegt: siehe https://www.hamburg.de/ gesundheitsberichterstattung/10358618/hamburger-kinder-in-bewegung/) und KIGGS- Daten des Robert Koch-Instituts siehe https://www.kiggs-studie.de/deutsch/home.html, hier insbesondere https://www.rki.de/DE/Content/Gesundheitsmonitoring/ Gesundheitsberichterstattung/GBEDownloadsJ/FactSheets/JoHM_03_2018_ Psychische_Auffaelligkeiten_KiGGS-Welle2.pdf?__blob=publicationFile.
 
@@ -222,25 +223,25 @@ Den Schulen stehen für die Umsetzung der Maßnahmen und für die Beratung und F
 
 Das Referat Gesundheit beim LI, Arbeitsbereich Gesundheitsförderung (https://li.hamburg.de/psychische-gesundheit/) hat ein umfassendes Fortbildungsangebot, in denen das Thema „Psychosoziales Wohlbefinden“ von Schülerinnen und Schülern aufgegriffen wird mit dem Ziel, das pädagogische Personal in seiner Handlungskompetenz im Kontakt mit belasteten und psychisch erkrankten Schülerinnen und Schülern zu stärken und bei Bedarf frühzeitig in das schulische und außerschulische Hilfesystem zu vermitteln:
 
- Psychische Gesundheit als Unterrichtsthema – in Kooperation mit Irre menschlich
+– Psychische Gesundheit als Unterrichtsthema – in Kooperation mit Irre menschlich
 
 e.V.,
 
- Kinder psychisch kranker Eltern – Möglichkeiten und Grenzen schulischen Han-
+– Kinder psychisch kranker Eltern – Möglichkeiten und Grenzen schulischen Han-
 
 delns,
 
- verschiedene Fortbildungen zum Thema Traumatisierte Schülerinnen und Schüler,
+– verschiedene Fortbildungen zum Thema Traumatisierte Schülerinnen und Schüler,
 
- „Wir sind hier!“ Ein Film mit Kindern psychisch kranker Eltern für Kinder, Jugendli-
+– „Wir sind hier!“ Ein Film mit Kindern psychisch kranker Eltern für Kinder, Jugendli-
 
 che und Erwachsene in Zusammenarbeit mit wellengang.hamburg,
 
- Essstörungen im Jugendalter. Prävention und Intervention im Kontext Schule
+– Essstörungen im Jugendalter. Prävention und Intervention im Kontext Schule
 
 (Schwerpunkt: Magersucht und Bulimie) in Kooperation mit dem Suchtpräventionszentrum beim LI und
 
- Messe „Gesundheitsförderung an Hamburger Schulen – Pakt für Prävention“.
+– Messe „Gesundheitsförderung an Hamburger Schulen – Pakt für Prävention“.
 
 Das SuchtPräventionsZentrum des LI macht im Rahmen von Beratung und Fortbildung von schulischen Pädagoginnen und Pädagogen Angebote zur schulischen Umsetzung von Trainings zur Lebenskompetenzförderung von Schülerinnen und Schülern und fördert Peer-Angebote wie YES (Youth Education Skills) zur Stressbewältigung von Jugendlichen. Grundsätzlich dienen alle Angebote der Suchtprävention der kritischen Auseinandersetzung mit Suchtmittelkonsum, insbesondere zur Kompensation bei Bewältigung schwieriger Lebenssituationen, und der Förderung alternativer
 

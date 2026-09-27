@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48868"
@@ -47,7 +48,7 @@ Wie viele Schwarzfahrer wurden am 8. Juni 2015 erwischt?
 
 Wie viel Prozent der kontrollierten Fahrgäste waren Schwarzfahrer?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 HVV:
 
@@ -69,7 +70,7 @@ Wie viele der erwischten Schwarzfahrer waren Wiederholungstäter?
 
 Gegen wie viele Schwarzfahrer wurde Anzeige erstattet?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 HOCHBAHN/VHH
 
@@ -115,7 +116,7 @@ Wie hoch sind die Einnahmen des HVV aus dem Fahrkartenverkauf an Automaten und i
 
 Wie hoch waren die Einnahmen des HVV aus dem Fahrkartenverkauf an Automaten und in Bussen am 8. Juni 2015?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 HOCHBAHN
 

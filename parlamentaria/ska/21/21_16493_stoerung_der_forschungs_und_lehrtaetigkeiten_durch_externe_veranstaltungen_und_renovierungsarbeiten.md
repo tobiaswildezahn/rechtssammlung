@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66014"
@@ -47,7 +48,7 @@ Hat es seit Beginn des Jahres 2018 Störungen oder Einschränkungen der Forschun
 
 Zu welchen Störungen oder Einschränkungen der Forschungs- und/oder Lehrtätigkeit ist es seit Beginn des Jahres 2018 an der Universität Hamburg gekommen, die im Zusammenhang mit Renovierungs- und Umbauarbeiten stehen? Bitte die einzelnen Maßnahmen jeweils darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bei Renovierungs- und Umbauarbeiten ist nach Auskunft der UHH immer mit einer gewissen Lärm- und Staubbelastung zu rechnen. Des Weiteren kommt es vor, dass im laufenden Betrieb Installationsarbeiten durch belegte Räume geführt werden müssen oder sich Wegführungen ändern. Ebenso kann es vorkommen, dass Strom, Wasser oder die Kälteversorgungen kurzzeitigt abgestellt werden müssen. Bei Sanierungsarbeiten in Hörsälen oder Seminarräumen kann es vorkommen, dass Veranstal-
 

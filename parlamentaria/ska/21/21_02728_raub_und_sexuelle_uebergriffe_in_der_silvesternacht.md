@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51063"
@@ -194,6 +195,6 @@ Gibt es Hinweise auf organisierte Strukturen im Sinne einer neuen Masche von Tri
 
 Falls es sich nach Meinung des Senates um organisierte Strukturen handelt, wie gedenkt der Senat die Aufklärungsarbeit der Polizei zu unterstützen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Mit dem bisherigen Ermittlungsstand können hierzu keine Aussagen getroffen werden.

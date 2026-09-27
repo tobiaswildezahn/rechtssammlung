@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 24
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17099", "21/13044", "20/917", "19/3572", "21/15179", "21/203", "21/4174", "21/4450", "21/10157", "21/12202"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67395"
@@ -61,7 +62,7 @@ Wo sind die Wohnstandards für die öffentlich-rechtliche Unterbringung (örU) g
 
 Soweit nicht bereits durch Frage 1. beantwortet: Welche Regelungen gibt es für die Wohn-standards in örU? Bitte genau darlegen und nicht auf Informationen in diversen Parlamentarischen Anfragen verweisen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -69,25 +70,25 @@ Des Weiteren legt f & w im Interesse der Wahrung des sozialen Friedens Qualität
 
 f & w hat darüber hinaus in den vergangenen Jahren erhebliche Anstrengungen unternommen, um die Qualität der Unterbringung in der öffentlich-rechtlichen Unterkunft zu sichern und weiterzuentwickeln. Im Rahmen des Qualitätsmanagement sind unter anderem folgende interne Qualitäts- und Handlungsstandards entwickelt worden:
 
- Qualitätsstandards für Standort, Beschaffenheit und Ausstattung von Wohnunter-
+– Qualitätsstandards für Standort, Beschaffenheit und Ausstattung von Wohnunter-
 
 künften;
 
- Qualitätsstandards zum Angebot der Wohnungslosen- und Zuwandererunterkünfte;
+– Qualitätsstandards zum Angebot der Wohnungslosen- und Zuwandererunterkünfte;
 
- Qualitätsstandards für die Ausstattung von Bad und Duschen (Hygiene);
+– Qualitätsstandards für die Ausstattung von Bad und Duschen (Hygiene);
 
- Qualitätsstandards für die Ausstattung von Gemeinschaftsküchen (Hygiene);
+– Qualitätsstandards für die Ausstattung von Gemeinschaftsküchen (Hygiene);
 
- Qualitätsstandards für die Ausstattung von Objekten mit abgeschlossenem Wohn-
+– Qualitätsstandards für die Ausstattung von Objekten mit abgeschlossenem Wohn-
 
 raum (Hygiene);
 
- Gewaltschutzkonzept;
+– Gewaltschutzkonzept;
 
- Haus- und Benutzerordnung;
+– Haus- und Benutzerordnung;
 
- Regelungen zum Arbeits- und Gesundheitsschutz (regelmäßig aktualisiert).
+– Regelungen zum Arbeits- und Gesundheitsschutz (regelmäßig aktualisiert).
 
 Im Übrigen käme die vollständige Wiedergabe des Inhalts von Dokumenten und Richtlinien einer Aktenvorlage gleich. Diese ist gemäß Artikel 30 der Verfassung der Freien und Hansestadt Hamburg an Voraussetzungen gebunden, die hier nicht vorliegen (siehe auch VerfGH Sachsen, Urteil vom 19.07.2012 – Vf. 102-I-11 – juris Rn. 35).
 
@@ -111,7 +112,7 @@ Welche Unterkünfte sind Senat oder zuständiger Behörde bekannt, in denen Alle
 
 Welche Unterkünfte sind Senat beziehungsweise zuständiger Behörde bekannt, in denen für Kinder unter drei Jahren oder für Kinder unter sechs Jahren keine eigene Wohnfläche berücksichtigt wird? Wie viele Wohneinheiten und Kinder betrifft dies? Bitte sämtliche Unterkünfte benennen und zwischen Kindern unter drei und unter sechs Jahren differenzieren.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Für eine statistische Auswertung ist eine Abfrage von knapp 5 200 Familien verteilt auf rund 130 Unterkünfte erforderlich. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -123,7 +124,7 @@ In der Drs. 21/15179 heißt es, dass eine Überarbeitung der Standards im Rahmen
 
 In der Drs. 21/203 hieß es noch, dass spezielle Mindeststandards nicht definiert seien, dass es keine Vorgaben oder Vereinbarungen von Qualitätsstandards (zum Beispiel in Bezug auf Flächenbedarfe oder Anzahl der untergebrachten Personen pro Raum) gebe. Hatte sich das inzwischen geändert? Wenn ja, wann und wie? Bitte genau die Historie der Entwicklung von Mindest- und Qualitätsstandards darlegen.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung. Im Übrigen siehe Drs. 20/917.
 
@@ -147,7 +148,7 @@ Inwieweit fanden beziehungsweise finden Forderungen etwa aus der Wohlfahrtspfleg
 
 Warum tut sich Hamburg im Gegensatz zu anderen Bundesländern so schwer mit Standards der Unterbringung und der diesbezüglichen Transparenz?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Der Senat hat insbesondere im Rahmen des CityScope-/FindingPlaces-Projekt die Praxis zur Unterbringung erläutert und in dem Projekt transparent und anschaulich vorgestellt, siehe Drs, 21/3804 und Drs. 21/4450.
 

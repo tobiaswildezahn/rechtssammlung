@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3868", "21/2521", "21/4513"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60810"
@@ -69,15 +70,15 @@ Welche Ziele verfolgt der Senat im innerstädtischen Güterverkehr abseits von d
 
 Damit der Verkehr trotz steigender Verkehrsleistung einen angemessenen Beitrag zu den Klimaschutz- und Energieeinsparzielen leistet, setzt der Senat gemäß Hamburger Klimaplan (Drs. 21/2521) im Handlungsfeld Mobilität auf die erheblichen Potenziale durch Nutzung effizienter und neuer Technologien, die Implementierung innovativer, intermodaler und auf ein sich veränderndes Mobilitätsverhalten gerichteter Angebote sowie Änderung des Modal Split. Der Senat fördert die Veränderung von Rahmenbedingungen zugunsten einer nachhaltigen klimagerechten Mobilität in allen Verkehrsbereichen. Um die genannten Ziele zu erreichen, setzt der Senat zum Beispiel auf folgende Maßnahmen:
 
- Entwicklung von Strategien für einen effizienten emissionsarmen beziehungsweise
+– Entwicklung von Strategien für einen effizienten emissionsarmen beziehungsweise
 
 -freien Wirtschafts-verkehr, unter anderem im Projekt Smart Last Mile Logistics (SMILE),
 
- Weiterentwicklung des gut ausgebauten Verkehrsmanagementsystems in Verbin-
+– Weiterentwicklung des gut ausgebauten Verkehrsmanagementsystems in Verbin-
 
 dung mit modernen Informations- und Kommunikationstechnologien (IKT) zu einem intelligenten Transportsystem (ITS) und
 
- Unterstützung eines betrieblichen Mobilitätsmanagements zur Förderung einer
+– Unterstützung eines betrieblichen Mobilitätsmanagements zur Förderung einer
 
 klima-freundlichen, schadstofffreien Mobilität.
 
@@ -147,7 +148,7 @@ Welche der 2016 noch 14 zentralen Güterverladestationen der Deutschen Bahn AG w
 
 Die Deutschen Bahn AG hat beziehungsweise will zentrale Güterverladestationen schließen: Welche waren beziehungsweise sind absehbar betroffen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Es sind keine Veränderungen an den Güterverkehrsstellen im Jahr 2017 im Vergleich zum Jahr 2016 vorgenommen worden. Das heißt, die genannten 14 Güterverkehrsstellen bestehen unverändert. Es sind für das Jahr 2018 keine Veränderungen geplant und es zeichnet sich auch für das Jahr 2019 keine Veränderung ab.
 

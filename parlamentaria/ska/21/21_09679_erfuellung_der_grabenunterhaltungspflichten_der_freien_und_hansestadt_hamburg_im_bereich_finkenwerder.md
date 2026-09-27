@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58486"
@@ -53,7 +54,7 @@ Ist es richtig, dass diesbezüglich eine Mängelbeseitigungsverfügung vom zust�
 
 Ist die Freie und Hansestadt Hamburg inzwischen ihren Unterhaltungspflichten nachgekommen? Wenn ja, wie und wann? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Beim zuständigen Bezirksamt ist am 20. Februar 2017 eine Mängelbeseitigungsverfügung eingegangen. Der Be- und Entwässerungsverband Finkenwerder Süd (BEV) hat in der Mängelbeseitigungsverfügung das Bezirksamt zur Entschlammung der Gräben Wietgraben, Köterdammgraben und Finkenwerder Landscheide aufgefordert, da er die Leistungsfähigkeit des Be- und Entwässerungssystems für gefährdet erachtet.
 

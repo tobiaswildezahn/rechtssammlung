@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7440"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56314"
@@ -114,7 +115,7 @@ Welche Maßnahmen sind im Rahmen der Wirtschaftsförderung geplant, damit die Au
 
 Welche Maßnahmen zur Stärkung der Marktbeschicker und der Einzelhändler im Ortskern Rahlstedt sind im Rahmen der Wirtschaftsförderung in den nächsten Jahren geplant?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Es sind keine Maßnahmen geplant.
 

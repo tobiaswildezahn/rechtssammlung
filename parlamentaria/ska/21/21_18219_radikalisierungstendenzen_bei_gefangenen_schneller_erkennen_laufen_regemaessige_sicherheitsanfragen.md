@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 8
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17710"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67848"
@@ -81,6 +82,6 @@ Wurde die Rechtsverordnung gemäß § 15 Absatz 14 HmbJvollzDSG mittlerweile erl
 
 Wurde das automatisierte Abrufverfahren beziehungsweise eine regelmäßige Datenübermittlung bereits zugelassen und in Betrieb genommen? a. Falls ja, wann und zwischen welchen Stellen erfolgt das Abrufverfahren beziehungsweise die Datenübermittlung? b. Falls ja, wie viele Sicherheitsanfragen über Gefangene wurden auf diese Weise bereits durchgeführt? c. Falls ja, wie beurteilen die zuständigen Stellen die ersten Erkenntnisse, die mit dem Abrufverfahren beziehungsweise der Datenübermittlung gewonnen wurden? d. Falls nein, weshalb nicht und wann wird es zugelassen beziehungsweise in Betrieb genommen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Rechtsverordnung gemäß § 15 Absatz 14 HmbJVollzDSG wurde noch nicht erlassen, da sie dazu dient, ein einsatzbereites technisches Verfahren zuzulassen, das sich jedoch noch in der Testphase befindet. Im Übrigen siehe Vorbemerkung.

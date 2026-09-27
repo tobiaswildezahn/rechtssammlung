@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 21
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15145", "21/18563", "21/17430", "21/12647", "21/13572"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69825"
@@ -99,7 +100,7 @@ Sind dem Senat beziehungsweise den zuständigen Behörden Gebiete in Hamburgs Be
 
 Welche konkreten Maßnahmen wurden im Rahmen der Sauberkeitsoffensive (für etwa 30 Millionen Euro) für Reinigungsarbeiten in den jeweiligen Bezirken geplant? Welche davon wurden bereits durchgeführt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/18563.
 

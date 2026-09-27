@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 22
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5146", "21/3692", "21/1395", "20/2168"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53926"
@@ -49,7 +50,7 @@ Wann sind voraussichtlich die aktuellen Prüfungen der Behörden, wo und in welc
 
 Wie werden die Bezirke jeweils die zweckgemäße Verwendung der Mittel im Sinne des Beschlusses der Bürgerschaft sicherstellen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zur Verfügung gestellte Mittel werden gemäß der Landeshaushaltsordnung, der in der Globalrichtlinie „Kinder- und Jugendarbeit, Jugendsozialarbeit in den Bezirken“ vorgegebenen fachlichen Maßgaben sowie den dazu getroffenen Ziel- und Leistungsvereinbarungen auf der Grundlage der entsprechenden Jugendhilfeplanung verwendet werden. Die Beschlussfassung über die Verteilung der Mittel obliegt den Jugendhilfeausschüssen. Die zweckgemäße Verwendung wird im Einzelfall durch entsprechende Festlegungen in den Zuwendungsbescheiden und Zweckbeschreibungen sichergestellt werden. Dienen die Mittel der Verstärkung von Einrichtungen in bezirklicher Trägerschaft, wird die zweckgemäße Verwendung im Rahmen der Fachaufsicht und ebenfalls durch entsprechende Zweckbeschreibungen sichergestellt werden. Die entsprechenden Verfahren sind noch nicht abgeschlossen.
 
@@ -61,7 +62,7 @@ In der vorliegenden Drs. 21/5146 wird bestätigt, dass mehrere Bezirksversammlun
 
 Des Weiteren antwortet der Senat, dass die Höhe der gegebenenfalls zusätzlich benötigten Mittel erst zum Ende des Jahres ermittelt werden kann. Wie hoch wird das jeweilige Defizit vonseiten der sieben Bezirke jeweils beziffert? Wenn dies in den Begehren der Bezirksversammlungen und Bezirksverwaltungen nicht angegeben wurde, auf welcher Grundlage berufen sich diese dann für eine Stärkung der Rahmenzuweisungen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Alle Bezirke bis auf Hamburg-Nord haben der zuständigen Behörde im Verlauf des Jahres 2016 durch die Bezirksverwaltung schriftlich angekündigt, dass sie voraussichtlich im Jahr 2016 Mittel zum Ausgleich von Tarifsteigerungen oder sonstigen Mehrbedarfen benötigen. Die zuständige Behörde stellt 706.000 Euro für diesen Zweck zur Verfügung, die am Jahresende bei nachgewiesenen Bedarfen übertragen werden.
 

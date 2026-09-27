@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/302", "20/4781"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51188"
@@ -55,7 +56,7 @@ Welche Befähigungen müssen Lehrkräfte nachweisen, um in den gesellschaftswiss
 
 Nach welchen Grundsätzen und Vorschriften erfolgt der fachfremde Einsatz von Lehrkräften?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Voraussetzung einer fachlichen Befähigung besteht hinsichtlich der Abnahme der Prüfung zur allgemeinen Hochschulreife (siehe § 23 Absatz 2 Ausbildungs- und Prüfungsordnung zum Erwerb der allgemeinen Hochschulreife (APO-AH)). Im Übrigen obliegt die Steuerung des Einsatzes von Lehrkräften den Schulleitungen im Rahmen der einzelschulischen Selbstverantwortung. Grundsätzlich ist der fächerbezogene Unterricht durch Fachlehrkräfte zu erteilen (siehe Vorbemerkung). Stehen diese im Einzelfall nicht zur Verfügung, kann Fachunterricht auch durch Lehrkräfte ohne eine
 

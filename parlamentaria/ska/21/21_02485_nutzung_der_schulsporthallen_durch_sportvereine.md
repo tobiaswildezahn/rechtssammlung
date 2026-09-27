@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50769"
@@ -74,7 +75,7 @@ Falls die unter 1. genannten Berichte zutreffen: Wie bewertet der Senat das Vorg
 
 Wie stellt die zuständige Behörde sicher, dass der Senatsbeschluss in der Praxis umgesetzt wird?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Bezüglich der Dreifeldhalle Klein Flottbeker Weg ist die zuständige Behörde verpflichtet, die Auflagen für das „besonders schützenswerte Wohngebiet“ einzuhalten.
 

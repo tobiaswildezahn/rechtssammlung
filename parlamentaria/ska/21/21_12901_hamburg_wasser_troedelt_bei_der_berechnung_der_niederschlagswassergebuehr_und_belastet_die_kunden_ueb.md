@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62242"
@@ -53,7 +54,7 @@ Aus welchen Gründen ist eine automatische Zuordnung der betroffenen Kunden übe
 
 Bei wie vielen betroffenen Kunden ist die automatische Zuordnung in den letzten sechs Jahren nicht erfolgt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine automatische Zuordnung von Gebührenzahlern der Niederschlagswassergebühr (Grundstückseigentümern) zu bestehenden Kunden und somit vorhandenen Vertragskontonummern ist nicht möglich, da sich die Personenkreise (Eigentümer/Bezieher des Wassers) unterscheiden. Zudem ist die Schreibweise der Kundennamen bei HW nicht zwingend deckungsgleich mit den im Grundbuch geführten Namen, sodass eine automatische Zuordnung zu Fehlern führen würde.
 

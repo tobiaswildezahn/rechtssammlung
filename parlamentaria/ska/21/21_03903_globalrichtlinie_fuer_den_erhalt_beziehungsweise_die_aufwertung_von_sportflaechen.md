@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6182", "20/14471", "21/971", "21/479", "21/591", "21/439", "21/3149", "21/3490"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52295"
@@ -48,7 +49,7 @@ Wenn nein, warum nicht?
 
 Sollte die Globalrichtlinie noch nicht in Kraft getreten sein, bis wann soll dies erfolgen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nein. Siehe Drs. 21/971.
 
@@ -68,7 +69,7 @@ Wird die Globalrichtlinie auch Regelungen zur Sportflächensicherung von öffent
 
 Sollen die von den Schulen abgemieteten öffentlichen Schulsporthallen ebenfalls über eine Regelung in einer Globalrichtlinie für den Sport erhalten werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nein. Die Sportflächenbedarfsplanung richtet sich in Bezug auf Schulsporthallen nach speziellen schulischen Bedarfen. Die Zuständigkeit hierfür liegt bei der Behörde für Schule und Berufsbildung, die sich zur Umsetzung des Landesbetriebes Schulbau Hamburg bedient.
 

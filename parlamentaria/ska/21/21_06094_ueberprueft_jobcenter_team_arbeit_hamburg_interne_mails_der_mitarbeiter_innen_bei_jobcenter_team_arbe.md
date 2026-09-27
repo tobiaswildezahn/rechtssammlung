@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14073"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54611"
@@ -87,7 +88,7 @@ Wie definiert Jobcenter t.a.h. den sogenannten Rahmen der Erforderlichkeit beim 
 
 Werden Mitarbeiter/-innen darüber informiert, wenn ein Zugriff auf ihr dienstliches E-Mail-Konto erfolgt? Wenn ja, auf welche Art und Weise und durch wen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Zugriff auf ein dienstliches E-Mail-Konto erfolgt nur in solchen Fällen, in denen ein hinreichender Verdacht besteht, dass ein Beschäftigter oder eine Beschäftigte gegen einschlägige gesetzliche Bestimmungen verstößt. Da ein Zugriff hinsichtlich einer Ermittlung und Aufklärung des Sachverhaltes erfolgt, findet keine Information im Rahmen des laufenden Verfahrens statt.
 

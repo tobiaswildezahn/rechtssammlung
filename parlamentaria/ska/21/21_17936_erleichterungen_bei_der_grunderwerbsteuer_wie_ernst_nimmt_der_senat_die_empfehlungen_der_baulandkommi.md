@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 6
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67544"
@@ -45,7 +46,7 @@ Prüft oder erwägt der Senat eine Senkung des Grunderwerbsteuersatzes? Wenn ja,
 
 Unterstützt der Senat auf Bundesebene die Schaffung von Rahmenbedingungen zur Einführung von Freibeträgen bei der Grunderwerbsteuer für den erstmaligen Erwerb von selbst genutztem Wohneigentum? Wenn ja, in welcher Form? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat hat mit den wohnungswirtschaftlichen Verbänden Hamburgs über Wohnungsneubau die Vereinbarung für das Bündnis für das Wohnen geschlossen, in dem sich der Senat unter anderem verpflichtet, während der Laufzeit des Bündnisses die anerkannte Kontinuität und Stabilität in der Erhebung der Grunderwerbsteuer zu wahren und wird daher den Steuersatz während der Laufzeit des Bündnisses nicht erhöhen. Eine Senkung war ebenfalls nicht vereinbart. An diesen Maßgaben hält der Senat ausdrücklich fest.
 

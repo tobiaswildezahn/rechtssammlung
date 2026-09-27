@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68717"
@@ -47,7 +48,7 @@ Wie schätzt der Senat die Entwicklung des Hafens Piräus ein?
 
 Sieht der Senat den Hafen Piräus als einen ernsten Wettbewerber zu Hamburg?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Containerumschlagentwicklung in Piräus ist derzeit wesentlich durch Transshipment für das östliche und mittlere Mittelmeer bestimmt. Im Bereich Transshipment ist Piräus kein relevanter Wettbewerber aufgrund der verschiedenen Fahrtgebiete. Im Übrigen hat sich der Senat damit nicht befasst.
 
@@ -59,7 +60,7 @@ Reicht die Strategie des Senats aus, um die Wettbewerbsposition des Hamburger Ha
 
 Oder muss sich Hamburg langfristig auf eine Verringerung des Containerumschlags einstellen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Um die Wettbewerbsposition des Hamburger Hafens im nationalen und internationalen Umfeld zu sichern, verfolgt der Senat das Ziel, die Hafeninfrastruktur auf hohem Niveau bedarfsgerecht zu unterhalten und auszubauen. Ebenso setzt er sich beim Bund dafür ein, dass die Hafenhinterlandanbindungen weiter verbessert und ausgebaut werden. Der Start der Realisierung der Fahrrinnenanpassung von Unter- und Außenelbe belegt, dass der Hamburger Hafen mit Blick auf die internationale Containerschifffahrt einen strategischen Meilenstein zum Erhalt der Wettbewerbsfähigkeit erreicht hat.
 

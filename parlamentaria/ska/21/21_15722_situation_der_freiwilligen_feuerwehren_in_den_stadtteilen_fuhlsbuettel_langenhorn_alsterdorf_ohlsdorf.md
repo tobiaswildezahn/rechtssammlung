@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65219"
@@ -45,7 +46,7 @@ Wie hat sich die Personalsituation bei den Freiwilligen Feuerwehren im Wahlkreis
 
 Wie hat sich die Anzahl der in den Mini- und Jugendfeuerwehren im Wahlkreis 10 aktiven Kinder und Jugendlichen seit dem Jahre 2017 entwickelt? Bitte pro Wehr jeweils zum Stichtag 1. Januar angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Kalenderjahr 2017  
 Kalenderjahr 2018  
@@ -100,7 +101,7 @@ Welche Investitionen für die Freiwilligen Feuerwehren im Wahlkreis 10 sind seit
 
 Welche Investitionen/Sanierungen sind für die Freiwilligen Feuerwehren im Wahlkreis 10 bereits geplant? Bitte für jede Wehr darstellen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Kalenderjahr 2017-2018 Kalenderjahr 2019
 

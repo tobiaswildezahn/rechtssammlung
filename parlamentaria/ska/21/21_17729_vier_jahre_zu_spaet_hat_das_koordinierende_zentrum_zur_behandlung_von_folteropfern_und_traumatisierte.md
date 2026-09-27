@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16349", "21/13141", "21/17019"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67329"
@@ -159,7 +160,7 @@ Das Zentrum soll Mittel in Höhe von 1 Million Euro erhalten. Aus welcher Produk
 
 Welche weiteren Kosten sind zu erwarten, die dann über welche Quelle finanziert werden sollen?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Die Ermächtigung für die Kosten des laufenden Betriebs bis zu einer Höhe von 1 000 000 Euro ist in der Produktgruppe 253.02 Hilfen zur Existenzsicherung. (inklusive Kosten der Unterkunft) ist im Einzelplan 4 der Behörde für Arbeit, Soziales, Familie und Integration beim Produkt 253.02.04 Hilfen nach dem AsylbLG gegeben. Investive Mittel für die Ausstattung in Höhe von bis zu 100 000 Euro werden einmalig über den Haushalt der Behörde für Gesundheit und Verbraucherschutz im Einzelplan 5 zur Verfügung gestellt. Darüber hinaus wird davon ausgegangen, dass ein geringer, noch nicht zu beziffernder Anteil der Kosten für die vom koordinierenden Zentrum für die Beratung und Behandlung von Folteropfern und traumatisierten Flüchtlingen zu erbringenden Leistungen durch den im jeweiligen Einzelfall ggf. zuständigen Träger von Sozialleistungen refinanziert werden kann.
 

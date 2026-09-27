@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2828", "20/8569", "21/2780"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51286"
@@ -43,7 +44,7 @@ Womit erklärt sich die deutliche Reduzierung des Volumens der Kassenverstärkun
 
 Womit erklärt sich der seit dem Tiefststand 2009 insbesondere seit 2012 wieder festzustellende Anstieg beim (stichtagsbezogenen) Volumen der Kassenverstärkungskredite?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Einnahmen und die Ausgaben der Freien und Hansestadt Hamburg (FHH) unterliegen Schwankungen, die durch Kassenverstärkungskredite und kurzfristige Geldanlagen ausgeglichen werden. Die Anlagen der öffentlichen Unternehmen bei der FHH zählen zu den Kassenverstärkungskrediten, die damit durch Unternehmensentscheidungen beeinflusst werden. Darüber hinaus beeinflusst die in der jeweiligen Berichtsperiode getätigte Deckungskreditaufnahme die Stichtagszahlen. Aufgrund des in den letzten Jahren sinkenden Zinsniveaus ist ein höherer Liquiditätsstand zunehmend unwirtschaftlicher geworden. Im Übrigen siehe auch Drs. 20/8569.
 
@@ -63,7 +64,7 @@ Womit erklären sich die relativ hohen Beträge der (Geld-)Anlagen zum jeweilige
 
 Womit erklärt sich der aus der Anlage 1 der Drs. 21/2828 mit Ausnahme des März 2015 jeweils zu den Quartalszahlenstichtagen zu beobachtende Anstieg der (Geld-)Anlagen in den Jahren 2014 und 2015?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 1. und 2.
 

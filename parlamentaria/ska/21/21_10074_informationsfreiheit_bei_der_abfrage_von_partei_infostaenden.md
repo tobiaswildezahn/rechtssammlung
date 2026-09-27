@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58898"
@@ -53,7 +54,7 @@ Inwieweit hat der Senat beziehungsweise die zuständige Behörde Kenntnis von de
 
 Welche behördeninternen und -externen rechtlichen Überprüfungen hat es diesbezüglich gegeben? Bitte genau – einschließlich der Erwägungen und Ergebnisse – schildern.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

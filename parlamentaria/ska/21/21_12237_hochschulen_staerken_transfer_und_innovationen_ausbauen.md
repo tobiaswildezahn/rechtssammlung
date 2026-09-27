@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 20
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11905", "21/9015"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61510"
@@ -142,15 +143,15 @@ Siehe Antworten zu 5. und 7. Darüber hinaus führen die Hochschulen eine Vielza
 
 Exemplarisch können folgende Projekte genannt werden:
 
- die Kooperation zwischen der HAW Hamburg, dem Universitätsklinikum Eppendorf
+– die Kooperation zwischen der HAW Hamburg, dem Universitätsklinikum Eppendorf
 
 (UKE) und der HCU im Rahmen des Vorhabens „Gesundheitsförderung und Prävention im Setting Quartier – Gesunde Quartiere“ mit der Laufzeit Januar 2017 bis Juni 2020.
 
- ein Graduiertenkolleg zum Thema „Vernachlässigte Themen der Flüchtlingsfor-
+– ein Graduiertenkolleg zum Thema „Vernachlässigte Themen der Flüchtlingsfor-
 
 schung“ zwischen UHH und HAW Hamburg – Laufzeit: Januar 2018 bis Dezember 2020.
 
- das BMBF-Projekt „Netzwerk Digitales Lernen in der Luftfahrtindustrie der Metro-
+– das BMBF-Projekt „Netzwerk Digitales Lernen in der Luftfahrtindustrie der Metro-
 
 polregion Hamburg“ der HAW Hamburg in Kooperation mit Hamburger KMU und Bildungseinrichtungen im Bereich Luftfahrt – Laufzeit: Oktober 2017 bis September 2021.
 

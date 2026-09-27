@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 17
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49470"
@@ -43,7 +44,7 @@ Wie viele und welche Teiche gibt es aktuell wo im Alstertal und den Walddörfern
 
 Wie viele und welche Rückhaltebecken gibt es aktuell wo im Alstertal und den Walddörfern?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In den nachgefragten neun Stadtteilen des Bezirks Wandsbek im Bereich Alstertal und Walddörfer (Poppenbüttel, Sasel, Wellingsbüttel, Hummelsbüttel, Bergstedt, Duvenstedt, Lemsahl-Mellingstedt, Volksdorf und Wohldorf-Ohlstedt) sind aktuell 147 Teiche und Rückhaltebecken erfasst. Im Übrigen siehe Anlage.
 
@@ -63,13 +64,13 @@ Gab es für die Reinigungen jeweils konkrete Anlässe? Wenn ja, welche waren die
 
 Die Entschlammung von Teichen/Rückhaltebecken erfolgt im Bewirtschaftungsermessen der zuständigen Dienststelle aufgrund von eigenen Feststellungen sowie von Hinweisen der Bevölkerung und der Gremien der Bezirksversammlung. Anlässe für Entschlammungen sind vor allem folgende Sachverhalte:
 
- eine Vollfüllung des Gewässers mit Sedimenten über den Dauerstau hinaus
+– eine Vollfüllung des Gewässers mit Sedimenten über den Dauerstau hinaus
 
 (Sedimente unterhalb des Dauerstaus haben keinen Einfluss auf das Rückhaltevolumen),
 
- extrem verstärkte Geruchsbildung in Siedlungslage oder
+– extrem verstärkte Geruchsbildung in Siedlungslage oder
 
- bevorstehende Baumaßnahmen an den Staueinrichtungen.
+– bevorstehende Baumaßnahmen an den Staueinrichtungen.
 
 Kein ausschlaggebendes Kriterium ist die Nähe beziehungsweise Entfernung zum Vorflutgewässer.
 

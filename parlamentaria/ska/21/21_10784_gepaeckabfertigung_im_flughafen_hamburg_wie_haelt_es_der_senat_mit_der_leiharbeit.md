@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 19
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10061", "21/10200"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59693"
@@ -135,7 +136,7 @@ Wie hat sich der durchschnittliche Krankenstand in den letzten fünf Jahren entw
 
 Wie viele Mitarbeiterinnen und Mitarbeiter erhalten einen Lohn beziehungsweise ein Gehalt nach Tarifvertrag? Bitte in absoluten Zahlen und in Prozent angeben.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Alle Mitarbeiterinnen und Mitarbeiter erhalten Ihren Lohn nach dem Tarifvertrag. Im Übrigen siehe Antwort zu 1.
 

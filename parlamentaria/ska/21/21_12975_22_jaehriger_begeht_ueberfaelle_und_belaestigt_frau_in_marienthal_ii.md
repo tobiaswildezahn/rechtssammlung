@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11878"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62300"
@@ -60,7 +61,7 @@ Laut Beantwortung der erwähnten Anfrage wurde der Betroffene am
 
 Zum Zeitpunkt der Beantwortung der Anfrage liefen weitere Ermittlungen gegen den Täter (Verfahren 2404 Js 1271/17). Ist dieses Ermittlungsverfahren inzwischen abgeschlossen? Wenn ja, mit welchem Ergebnis?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 In dem angeklagten Verfahren 3401 Js 7/18 wurde der Angeklagte am 26. April 2018 zu einer Gesamtfreiheitsstrafe von zwei Jahren und vier Monaten verurteilt. Ein Rechtsmittelverzicht wurde nicht erklärt. Die Staatsanwaltschaft hat kein Rechtsmittel eingelegt. Ob der Angeklagte Rechtsmittel eingelegt hat, ist der zuständigen Behörde bislang nicht bekannt.
 

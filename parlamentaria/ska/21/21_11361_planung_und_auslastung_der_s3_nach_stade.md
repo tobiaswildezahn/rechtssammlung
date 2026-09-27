@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60390"
@@ -57,11 +58,11 @@ Bei Planung des Projektes wurde für den Abschnitt Neugraben – Buxtehude auf B
 
 gangen. Diese Werte wurden für die ersten Betriebsjahre und den Startfahrplan projiziert. Ursache für die Differenzierung war das unterschiedlich verdichtete Angebot. Für die Gesamtstrecke gibt es einen Vorher-Nachher-Abgleich, der folgende Steigerungsraten beinhaltet:
 
- von 2007 zu 2008 (Regionalbahn zu S-Bahn): 38 Prozent,
+– von 2007 zu 2008 (Regionalbahn zu S-Bahn): 38 Prozent,
 
- von 2007 zu 2017 (Regionalbahn zu S-Bahn): 66 Prozent,
+– von 2007 zu 2017 (Regionalbahn zu S-Bahn): 66 Prozent,
 
- von 2008 zu 2017 (S-Bahn zu S-Bahn): 20 Prozent.
+– von 2008 zu 2017 (S-Bahn zu S-Bahn): 20 Prozent.
 
 ### Frage 2
 

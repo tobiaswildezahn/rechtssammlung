@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 24
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8808", "21/12195"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68170"
@@ -170,7 +171,7 @@ Wann wurde die alte, vor 2019 gebaute Eisenbahnüberführung für die S- Bahn-Gl
 
 Wann wurde die alte Eisenbahnüberführung (Fernbahngleise) über die Julius-Leber-Straße errichtet, wann das letzte Mal grundinstand gesetzt und welche Restlebensdauer unter den derzeitigen betrieblichen Bedingungen hat das Bauwerk?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Die Eisenbahnüberführung Julius-Leber-Straße wurde im Jahr 1891 errichtet, im Jahr 1913 umgebaut und im Jahr 1962 grundinstand gesetzt. Die Eisenbahnüberführung für die S-Bahn-Gleise wurde zwischen den Jahren 2017 und 2019 erneuert. Die Brückenbauwerke werden regelmäßig auf ihre Tragfähigkeit untersucht. Eine Grundinstandsetzung ist nicht mehr möglich. Das Bauwerk müsste durch einen Neubau ersetzt werden.
 

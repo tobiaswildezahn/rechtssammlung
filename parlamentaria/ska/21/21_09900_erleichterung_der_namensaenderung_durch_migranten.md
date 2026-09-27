@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 3
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58719"
@@ -49,6 +50,6 @@ Plant der Senat, auf eine Änderung des Namensrechts insoweit hinzuwirken, als d
 
 Gibt es seitens des Senats Bestrebungen, eine entsprechende Gesetzesinitiative zu unterstützen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung. Darüber hinaus hat sich der Senat damit nicht befasst.

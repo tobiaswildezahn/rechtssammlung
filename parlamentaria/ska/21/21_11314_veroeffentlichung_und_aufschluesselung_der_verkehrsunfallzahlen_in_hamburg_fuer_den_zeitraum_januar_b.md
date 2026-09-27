@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11171", "20/3594", "20/3348", "20/3470"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60307"
@@ -49,7 +50,7 @@ Inwiefern ist das mit Frage 1. erfragte Vorgehen aus Sicht des Senats beziehungs
 a) dem Fragerecht der Abgeordneten der Hamburgischen Bürgerschaft,
 b) der politischen Kultur in Hamburg vereinbar?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Fragerecht des Abgeordneten stellt einen in der Verfassung ausdrücklich geregelten Ausfluss seines verfassungsrechtlichen Status dar. Es ist ein Teil des Frageund Informationsrechtes des Parlaments, das dazu dient, den Abgeordneten die zur Ausübung ihres Mandats erforderlichen Informationen zu verschaffen und damit zugleich die Kontrolle der Exekutive wahrnehmen zu können (vergleiche Hamburgisches Verfassungsgericht, Urteil vom 20. Mai 2003 – 9/02 –). Der Senat hat die mit Drs. 21/11171 gestellte Anfrage fristgemäß beantwortet und hat damit den verfassungsrechtlichen Auskunftsanspruch des Abgeordneten erfüllt.
 

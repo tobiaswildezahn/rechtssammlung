@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64316"
@@ -81,27 +82,27 @@ Es liegen nur Erkenntnisse zum Tatverdächtigen vor.
 
 Im Hinblick auf das Persönlichkeitsrecht der Betroffenen und die gesetzlichen Wertungen des Bundeszentralregistergesetzes sieht der Senat davon ab, etwaige Ermittlungsverfahren mitzuteilen, die durch einen Freispruch oder eine Einstellung beendet worden sind. Dasselbe gilt für Ermittlungsverfahren, die zu einem Abschluss geführt haben, der entweder nicht in ein Führungszeugnis aufzunehmen oder nach den Tilgungsvorschriften des Bundeszentralregistergesetzes nicht mehr zu berücksichtigen ist. Der Bundeszentralregisterauszug vom 05.11.2018 enthält folgende mitteilungsfähige Eintragungen:
 
- Verurteilung durch das Amtsgericht Hamburg vom 16.10.2001 wegen Widerstan-
+– Verurteilung durch das Amtsgericht Hamburg vom 16.10.2001 wegen Widerstan-
 
 des gegen Vollstreckungsbeamte zu vier Monaten Freiheitsstrafe (für drei Jahre ausgesetzt zur Bewährung, teilweise widerrufen)
 
- Verurteilung durch das AG Hamburg Barmbek vom 02.04.2004 wegen Diebstahls
+– Verurteilung durch das AG Hamburg Barmbek vom 02.04.2004 wegen Diebstahls
 
 in vier Fällen zu sechs Monaten Freiheitsstrafe
 
- Verurteilung durch das AG Hamburg-Barmbek vom 17.12.2004 wegen gemein-
+– Verurteilung durch das AG Hamburg-Barmbek vom 17.12.2004 wegen gemein-
 
 schaftlicher räuberischer Erpressung in Tateinheit mit Nötigung und vorsätzlicher Körperverletzung zu einem Jahr Freiheitsstrafe
 
- Verurteilung durch das AG Hamburg-Barmbek vom 19.10.2010 wegen Diebstahls
+– Verurteilung durch das AG Hamburg-Barmbek vom 19.10.2010 wegen Diebstahls
 
 in vier Fällen zu einem Jahr und sechs Monaten Freiheitsstrafe (für drei Jahre ausgesetzt zur Bewährung, widerrufen)
 
- Verurteilung durch das AG Hamburg-St. Georg vom 02.12.2014 wegen schweren
+– Verurteilung durch das AG Hamburg-St. Georg vom 02.12.2014 wegen schweren
 
 Diebstahls in sechs Fällen und des Erschleichens von Leistungen in zwei Fällen zu einer Freiheitsstrafe von einem Jahr und vier Monaten
 
- Verurteilung durch das AG Hamburg vom 19.06.2018 wegen unerlaubten Besitzes
+– Verurteilung durch das AG Hamburg vom 19.06.2018 wegen unerlaubten Besitzes
 
 von Betäubungsmitteln zu 20 Tagessätzen
 

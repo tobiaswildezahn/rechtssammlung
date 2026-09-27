@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48395"
@@ -47,7 +48,7 @@ Zu jeweils wie vielen Sicherheitsvorfällen jeweils welcher Art, welcher Kritika
 
 Zu jeweils wie vielen Sicherheitsvorfällen jeweils welcher Art, welcher Kritikalität und welchen Ausmaßes ist es gegebenenfalls in den nicht von Dataport betreuten Bereichen der IT-Infrastruktur der Freien und Hansestadt Hamburg, also zum Beispiel im Bereich von Polizei, Feuerwehr, Gerichten, Steuerverwaltung und Hochschulen, in den oben genannten Zeiträumen gekommen? (Bitte jahresweise auflisten.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Jahr 2014 wurden 47 Sicherheitsvorfälle registriert. Dabei waren keine schwerwiegenden Fälle zu verzeichnen. 28 Vorfälle wurden durch die Nutzer selbst (überwiegend durch Kennwortweitergabe), 17 durch Externe (davon 16 durch Schadsoftware und einer durch Diebstahl) sowie jeweils ein Vorfall durch organisatorische Mängel und technisches Versagen verursacht. Im Jahr 2015 wurden bisher 16 Vorfälle registriert, die allesamt nicht schwerwiegend waren. Fünf Vorfälle wurden durch Externe, die übrigen durch die Nutzer selbst (Kennwortweitergabe) verursacht.
 

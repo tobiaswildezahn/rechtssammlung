@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61912"
@@ -117,7 +118,7 @@ Wie bewertet der Senat den Erfolg seiner Impfkampagne und anhand welcher Kriteri
 
 Konnte der Senat die Zielgruppe der aktuellen Impfkampagne (Personen ab 60 Jahren) verstärkt erreichen? Wenn ja, bitte ausführen, wenn nein, warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die zuständige Behörde hält eine Vielzahl von Maßnahmen vor, die darauf ausgerichtet sind, die Durchimpfungsraten in der Bevölkerung auf ein hohes Niveau zu führen und dort zu festigen (siehe dazu Drs. 21/14). Die Kampagne „Hamburg macht mit: Frisch geimpft durch den Winter“ ist integraler Bestandteil des in der Drucksache geschilderten Konzeptes zur Verstärkung des Impfens in der angesprochenen Zielgruppe und der Bevölkerung insgesamt. Eine gesonderte Evaluation der Kampagne gegen die Influenza ist nicht vorgesehen.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57219"
@@ -103,7 +104,7 @@ Haben alle Hamburger Krankenhäuser einen Hygieneplan, der spezifische Hygienema
 
 Haben alle Hamburger Kliniken einen Plan zum Ausbruchsmanagement? Bitte für jedes Krankenhaus einzeln angeben. a. Entsprechen diese Pläne den Empfehlungen des Robert Koch- Instituts? Bitte jedes Krankenhaus einzeln angeben. b. Seit wann sind die Pläne in Kraft? Bitte auflisten nach Krankenhaus und Zeitpunkt des Inkrafttretens.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Gemäß § 23 Absatz 4 Infektionsschutzgesetz (IfSG) und § 4 Absatz 8 Hamburgische Verordnung über die Hygiene und Infektionsprävention in medizinischen Einrichtungen (HmbMedHygVO) sind die Krankenhäuser verpflichtet, die innerbetrieblichen Verfahrensweisen zur Infektionshygiene in Hygieneplänen festzulegen. Im Rahmen der infektionshygienischen Überwachung werden die Hygienepläne stichprobenartig überprüft. Dabei haben sich keine Beanstandungen oder Widersprüche zu den Empfehlungen des Robert Koch-Instituts ergeben. Eine Auflistung im Sinne der Frage hätte bedeutet, dass eine Überprüfung der Hygienepläne jedes einzelnen Krankenhauses durch die Bezirksämter hätte stattfinden müssen, dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Bekannt sind Informationen zu folgenden Krankenhäuser:
 

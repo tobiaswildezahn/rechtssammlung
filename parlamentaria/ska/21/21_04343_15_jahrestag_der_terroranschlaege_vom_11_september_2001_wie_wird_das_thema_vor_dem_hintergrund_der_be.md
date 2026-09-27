@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52745"
@@ -105,7 +106,7 @@ Inwieweit wurde in den Hamburger Schulen die Verbreitung radikalsalafistischer I
 
 Welche schulischen Unterrichtsprojekte gab es seit 2001 zu den Anschlägen vom 11. Septembers 2001 mit explizitem Bezug zu der Hamburger Terrorzelle?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 1.
 

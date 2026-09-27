@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53470"
@@ -48,7 +49,7 @@ Für welche Beschaffungen nach dem Vergaberecht wurde das REZ Nord von Jobcenter
 
 Welche Beschaffungen waren jeweils nach Frage 1. davon Öffentliche Ausschreibungen, Freihändige Vergaben und Beschränkte Ausschreibungen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine Unterscheidung nach Zweckbestimmung erfolgt nicht. Beschränkte Ausschreibungen fanden nicht statt. Im Übrigen siehe Anlage.
 
@@ -92,7 +93,7 @@ Welches Vergabeverfahren wird in der Regel bei der Vergabe von kommunalen Eingli
 
 Gab es in der Vergangenheit durch das REZ Nord oder Jobcenter t.a.h. Freihändige Vergaben nach § 3 Absatz 5 Buchstabe I VOL/A an Träger, die kommunale Eingliederungsleistungen nach § 16a Absatz 2 bis Absatz 4 anbieten? Wenn ja, warum?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Kommunale Eingliederungsleistungen obliegen der Verantwortung der Kommune.
 

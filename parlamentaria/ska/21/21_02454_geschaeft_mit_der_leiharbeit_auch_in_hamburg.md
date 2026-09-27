@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/125", "18/6403"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50739"
@@ -65,7 +66,7 @@ Wie viele von den in Frage 2. benannten Zeit-, Leih- und Personaldienstleistunge
 
 Wie viele Unternehmen (KMU) haben jeweils einen Kooperationsvertrag mit der Bundesagentur für Arbeit oder den Agenturen für Arbeit vor Ort abgeschlossen? Und wie viele davon sind aktiv? Bitte auflisten nach Branche.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 In Hamburg wurden keine Kooperationsvereinbarungen durch die Agentur für Arbeit abgeschlossen. Inwiefern im Bundesgebiet Kooperationsvereinbarungen durch die Bundesagentur für Arbeit oder Agenturen für Arbeit abgeschlossen wurden, ist der zuständigen Behörde nicht bekannt.
 
@@ -85,7 +86,7 @@ Wie hoch sind die Ausgaben der Eingliederungszuschüsse für Zeit-, Leih- und Pe
 
 Wie hoch sind die Gesamtausgaben der EGZ im Gesamtverhältnis zu den Eingliederungstiteln (EGT) in Prozent der in Frage 5. benannten Unternehmen? Bitte auflisten seit 2010 unterteilt in Agenturen für Arbeit (SGB III) sowie Jobcenter (SGB II).
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 2.
 

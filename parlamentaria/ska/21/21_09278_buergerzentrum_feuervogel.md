@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12018"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58039"
@@ -99,7 +100,7 @@ In welcher Höhe sind Entgelte von politischen Parteien und Fraktionen an das B�
 4.1 öffentliche Veranstaltungen?
 4.2 eine nicht öffentliche Nutzung?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage 3.
 

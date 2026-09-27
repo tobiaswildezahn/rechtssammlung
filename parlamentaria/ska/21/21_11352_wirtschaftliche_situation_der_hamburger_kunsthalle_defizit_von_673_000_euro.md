@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9557"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60339"
@@ -75,19 +76,19 @@ Welche Maßnahmen werden zur wirtschaftlichen Sanierung der Kunsthalle unternomm
 
 Der Vorstand steuert alle Einnahme- und Ausgabenpositionen der Kunsthalle. Die Optimierung ist ein laufender Prozess, der allerdings vor dem Hintergrund der Entwicklung in diesem Jahr besondere Relevanz erhalten hat. Bereits ergriffen wurden beziehungsweise kurzfristig beabsichtigt sind nachfolgende Maßnahmen:
 
- Mit Wirkung zum 1. Oktober 2017 wurden die Eintrittspreise in der Woche auf das
+– Mit Wirkung zum 1. Oktober 2017 wurden die Eintrittspreise in der Woche auf das
 
 bereits bestehende Preisniveau des Wochenendes angepasst. 2018 wird mit Mehreinnahmen von bis zu 500.000 Euro gerechnet.
 
- Durch Umstrukturierungen im Personalbereich kann ab 2018 auf externe Dienst-
+– Durch Umstrukturierungen im Personalbereich kann ab 2018 auf externe Dienst-
 
 leistungen in Höhe von rund 72.000 Euro verzichtet werden.
 
- Durch Umstrukturierungen im Bereich der Finanzbuchhaltung können voraussicht-
+– Durch Umstrukturierungen im Bereich der Finanzbuchhaltung können voraussicht-
 
 lich ab 2018 rund 80.000 Euro eingespart werden.
 
- Durch konsequentere Maßnahmen zur Energieeinsparung (Umrüstungen und Nut-
+– Durch konsequentere Maßnahmen zur Energieeinsparung (Umrüstungen und Nut-
 
 zungsverhalten) werden ab 2018 Einsparungen in derzeit noch nicht quantifizierbarer Höhe erwartet.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7788", "21/1190"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53659"
@@ -51,7 +52,7 @@ Wie hoch war die Höhe der Förderung für die RCU seit 1993 bis 2015? Aus welch
 
 Finanzierte die Freie und Hansestadt Hamburg der RCU in diesem Zeitraum Sozialarbeiter? Wenn ja, wie viele, wann, zu welchen Konditionen und mit welchen Aufgaben?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage und Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 16
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12422"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49457"
@@ -53,7 +54,7 @@ Wann soll mit dem Bau begonnen werden und wann soll dieser abgeschlossen sein?
 
 Stehen mittlerweile Details zu einer Baustelleneinrichtung fest? Welche Auswirkungen wird die Baustelle auf die Lemsahler Landstraße haben? Auf welchem Weg erfolgt die Anlieferung?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Abschließende Festlegungen zum Ablauf der Bauausführung einzelner Bauwerke stehen noch nicht fest. Im Übrigen gelten die Regelungen des städtebaulichen Vertrages; siehe Antwort zu 1.
 

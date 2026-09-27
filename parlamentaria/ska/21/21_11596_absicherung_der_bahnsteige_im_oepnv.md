@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7689"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60823"
@@ -49,7 +50,7 @@ Wie beurteilen die Verkehrsunternehmen und der Senat die zunehmend zu verzeichne
 
 Wie hat sich die Anzahl derartiger Störfälle in den letzten 15 Jahren entwickelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Derartige Betriebsunterbrechungen werden nicht gesondert statistisch erfasst und liegen daher für die letzten 15 Jahre nicht vor. Im Übrigen siehe Vorbemerkung.
 
@@ -61,7 +62,7 @@ Wurde die Zugangskontrolle zu den Bahnsteigen als Lösung dieser Problematik sch
 
 Welcher finanzielle und administrative Aufwand wäre notwendig, um alle bestehenden Bahnhöfe auf ein derartiges System umzurüsten?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/7689.
 

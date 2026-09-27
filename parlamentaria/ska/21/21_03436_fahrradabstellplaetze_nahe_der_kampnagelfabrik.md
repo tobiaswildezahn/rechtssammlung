@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51782"
@@ -43,7 +44,7 @@ Wie viele Fahrradabstellplätze gab es jeweils am Jahresende im Bereich der Kamp
 
 Wurden seit 2011 in diesem Bereich Fahrradabstellplätze geschaffen? Wenn ja: wann wo wie viele? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Auf dem Gelände der Internationalen Kulturfabrik Kampnagel wurden 2012 zehn weitere Fahrradabstellplätze zu den bestehenden 52 geschaffen, sodass seitdem insgesamt 62 Stellplätze genutzt werden können.
 

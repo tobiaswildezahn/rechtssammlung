@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64507"
@@ -53,7 +54,7 @@ Wie viele Mitarbeiter/-innen arbeiten in den staatlichen Schulen im hauswirtscha
 
 Wie viele Mitarbeiter/-innen arbeiten in den staatlichen Schulen im hauswirtschaftlichen Bereich in welchen hauswirtschaftlichen Tätigkeitsfeldern? (Bitte in einer Excel-Tabelle nach Schulformen und unter Angabe des Arbeitsverhältnisses und des Geschlechts angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die unten genannten Beschäftigten befinden sich in einem unbefristeten Beschäftigungsverhältnis mit der Freien und Hansestadt Hamburg und werden als Küchenhilfen an staatlichen Schulen beschäftigt:
 
@@ -84,7 +85,7 @@ Wie lange sind die Mitarbeiter/-innen je Tätigkeitsfeld für die Schulkantinen 
 
 Wie lange sind Mitarbeiter/-innen überhaupt für die Schulkantinen tätig? (Bitte nach Schulform, Tätigkeitsfeldern unter Differenzierung nach Geschlecht in einer Excel-Tabelle aufstellen nach bis sechs Monate, unter zwölf Monate, bis zwölf Monate, bis 24 Monate, über 24 Monate, bis 36 Monate, über 36 Monate, bis 48 Monate, über 48 Monate, bis 60 Monate, über 60 Monate.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die an staatlichen Schulen in Hamburg beschäftigten Küchenhilfen werden bis auf eine Person länger als fünf Jahre bei der Freien und Hansestadt Hamburg beschäftigt. Eine weitere Differenzierung ist aus datenschutzrechtlichen Gründen nicht zulässig, da sonst auf Einzelpersonen Bezug genommen werden könnte.
 

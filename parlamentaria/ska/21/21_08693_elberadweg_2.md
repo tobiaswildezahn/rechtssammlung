@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8492"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57416"
@@ -43,7 +44,7 @@ Trifft es zu, dass der Elberadweg nicht erst an der deutsch-tschechischen Grenze
 
 Wenn ja: Wie ist der Streckenverlauf in Tschechien?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat nimmt grundsätzlich nicht zu Gegebenheiten anderer Länder und Staaten Stellung.
 

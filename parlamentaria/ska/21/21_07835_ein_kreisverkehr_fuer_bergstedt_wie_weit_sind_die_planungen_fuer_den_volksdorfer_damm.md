@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/7346", "20/5300"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56470"
@@ -49,7 +50,7 @@ Wie sind derzeit der genaue Sachstand und der Zeitplan für die Überplanung und
 
 Wann soll die Erstverschickung der Planungen für diese Maßnahme erfolgen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung. Derzeit wird die Vorplanung bearbeitet. Die erste Verschickung zur Abstimmung an die Träger öffentlicher Belange soll im Frühjahr des Jahres 2017 erfolgen. Ende des Jahres 2017 soll die Planung abgeschlossen werden.
 

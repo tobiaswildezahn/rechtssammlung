@@ -14,6 +14,7 @@ fragen: 45
 einzelfragen: 51
 antwortbloecke: 43
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15721"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69263"
@@ -618,7 +619,7 @@ Nach welchen Kriterien wird über die Neuaufstellung einer stationären RÜA ent
 
 Ist geplant, weitere RÜA in Hamburg aufzustellen? Wenn ja, wann und wo? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 22 bis 23
+#### Antwort zu Fragen 22 und 23
 
 Siehe Drs. 21/15721.
 
@@ -824,7 +825,7 @@ Wie hoch waren von 2011 bis einschließlich 2018 die Fallzahlen der mittels der 
 
 Welche Planzahl an Einsätzen mit dem Videonachfahrsystem (ProViDa) zur Vermeidung von Aggressions- und Geschwindigkeitsdelikten in Hamburg liegt für 2020 vor?
 
-#### Antwort zu Fragen 41 bis 42
+#### Antwort zu Fragen 41 und 42
 
 Siehe Drs. 21/15721.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5686", "21/8092", "21/7488"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56851"
@@ -59,7 +60,7 @@ Zu welchem Anteil werden die mit der Organisation und Ausrichtung des G20-Gipfel
 
 Hat der Senat Zusagen auf Kostenbeteiligung vom Bund erhalten? Wenn ja, in welcher Höhe beziehungsweise mit welchem Anteil an den Gesamtkosten?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung und Drs. 21/8092.
 

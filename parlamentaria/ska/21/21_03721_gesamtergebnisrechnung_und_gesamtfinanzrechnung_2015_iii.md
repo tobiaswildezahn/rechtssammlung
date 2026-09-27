@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3098", "21/3457"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52088"
@@ -43,7 +44,7 @@ Wie sehen der aktualisierte Gesamtergebnisplan und der Gesamtfinanzplan 2015 jew
 
 Welche deutlichen Abweichungen und Verschiebungen (≥ 10 Millionen Euro) gab es aus jeweils welchen Gründen im Vergleich zum Sachstand nach der 12. Buchungsperiode?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlagen 1 und 2. Für die Ermittlung der erfragten Angaben zu den dort ausgewiesenen Veränderungen müssten über 100.000 Einzelbuchungen ausgewertet werden, was in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich ist.
 

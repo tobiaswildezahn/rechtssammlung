@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/3827"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52398"
@@ -51,7 +52,7 @@ Wenn ja, welche Überlegungen gibt es hinsichtlich eines zukünftigen Nutzungsko
 
 Erhalten die Sportvereine jetzt zusätzliche Hallenzeiten für ihre jeweiligen Angebote in diversen (Ball-)Sportarten?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Das Volleyballteam Aurubis ist Bestandteil des Turnvereins Fischbek von 1921 e.V.; die Überlassung der Halle an den organisierten Vereinsbetrieb erfolgt entgeltfrei zunächst bis zum 31. Mai 2016. Bei Kündigung erfolgt gegebenenfalls eine Neuvergabe der Hallenzeiten ab der zweiten Jahreshälfte 2016 über die dafür vorgesehene Datenbank SKUBIS beziehungsweise das Sportreferat des zuständigen Bezirksamtes.
 
@@ -100,7 +101,7 @@ Wann läuft/laufen diese/r Vertrag/Verträge aus, unter welchen Bedingungen und 
 
 Welche Vereinbarungen im Einzelnen gab es bisher mit Aurubis beziehungsweise mit VT Aurubis? Wie sahen sie im Einzelnen aus?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Das Volleyballteam Aurubis ist Bestandteil des Turnvereins Fischbek von 1921 e.V. Damit erfolgt die Überlassung für den organisierten Vereinsbetrieb entgeltfrei. Im Übrigen siehe Antwort zu 2. und 3.
 

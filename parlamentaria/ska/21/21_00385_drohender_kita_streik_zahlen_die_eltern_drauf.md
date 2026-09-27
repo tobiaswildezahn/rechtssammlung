@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48543"
@@ -114,7 +115,7 @@ In einem Streikfall findet keine Betreuung der Kinder statt. Fallen für Zeiten,
 
 Im Falle eines Streiks werden den Erzieherinnen und Erziehern vom Arbeitgeber keine Gehälter gezahlt, sondern sie erhalten stattdessen die Entlohnung aus der Streikkasse der Gewerkschaft. Wenn also ver.di für die Arbeitskosten während des Streiks aufkommt, was geschieht dann mit den Eigenanteilen der Eltern? Werden diese den Eltern zurückerstattet?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Verpflichtung zur Entrichtung von Elternbeiträgen für Zeiten, in denen Kitas bestreikt werden beziehungsweise eine etwaige Rückerstattung von Elternbeiträgen bei streikbedingter Schließung von Kitas beziehungsweise Einschränkung der Kita- Betreuung hängt von der Ausgestaltung des – privatrechtlichen – Betreuungsvertrages zwischen der Kita und den Eltern ab.
 

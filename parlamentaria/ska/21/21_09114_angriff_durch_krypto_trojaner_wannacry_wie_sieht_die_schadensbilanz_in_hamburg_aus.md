@@ -11,9 +11,10 @@ fraktionen: ["SPD"]
 vorgang: 52946
 seiten: 4
 fragen: 6
-einzelfragen: 9
-antwortbloecke: 5
+einzelfragen: 11
+antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3390"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57872"
@@ -49,22 +50,29 @@ Hat der Senat Kenntnis von betroffenen Rechnern durch WannaCry in der Verwaltung
 
 Ist hier bereits Lösegeld gezahlt worden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In der Verwaltung und den städtischen Unternehmen sind keine Rechner infiziert worden. Im Übrigen: entfällt.
 
 ### Frage 3
 
 Einfallstor für den Trojaner sind nicht aktualisierte Rechner mit dem Betriebssystem Windows von Microsoft. Microsoft hatte die verantwortliche Sicherheitslücke bereits im März durch Sicherheits-Updates geschlossen. Diese Patches liefert der Hersteller jedoch nur für die aktiv unterstützten Windows-Versionen. Ältere Windows-Versionen blieben also weiter ungeschützt – dazu gehören insbesondere Windows XP und Windows Server 2003.
-3.1. Wurden diese Updates eingespielt und wann?
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+Wurden diese Updates eingespielt und wann?
+
+#### Antwort zu Fragen 3 und 3.1
 
 Nach dem von Dataport AöR (Dataport) für die Freie und Hansestadt Hamburg (FHH) umgesetzten Konzept werden Sicherheitspatche grundsätzlich kurz nach deren Erscheinen verteilt und bei der nächsten Anmeldung des Benutzers installiert. Entsprechendes gilt für die städtischen Unternehmen. Nur die Elbe-Werkstätten GmbH, PIER Service und Consulting GmbH und hamburger arbeit GmbH haben im Jahr 2017 Updates nicht flächendeckend eingespielt. Die Flughafen Hamburg GmbH hat
 
 Updates zunächst zu 80 Prozent nach Bereitstellung und im Übrigen am 16. und 17. Mai 2017 eingespielt.
 
-3.2. Sind in der Verwaltung oder in städtischen Unternehmen noch Rechner mit dem Betriebssystemen Windows XP und/oder Windows Server 2003 im Einsatz? Warum ist dies der Fall und wann werden diese abgelöst?
+### Frage 3.2
+
+Sind in der Verwaltung oder in städtischen Unternehmen noch Rechner mit dem Betriebssystemen Windows XP und/oder Windows Server 2003 im Einsatz? Warum ist dies der Fall und wann werden diese abgelöst?
+
+#### Antwort zu Frage 3.2
 
 In der Verwaltung sind keine Windows-XP-Rechner im Einsatz. Zwei Windows-Server 2003 sind für die Freiwillige Feuerwehr und den Großmarkt aufgrund von fachlichen Anforderungen im Betrieb. Eine Ablösung soll Ende 2017 erfolgen. Für die städtischen Unternehmen siehe Anlage.
 

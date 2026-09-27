@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2535"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54620"
@@ -83,7 +84,7 @@ Das Bezirksamt Hamburg-Nord hat nach der Unterschutzstellung der Landarbeiterhä
 
 Wird der Senat den Erhalt und die Sanierung der Landarbeiterhäuschen sicherstellen? Wenn ja, wann und mit welchen Maßnahmen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/2535 und Antwort zu 3. Im Übrigen sind die Planungen und Überlegungen noch nicht abgeschlossen.
 
@@ -103,7 +104,7 @@ Hat der Senat darauf hingewirkt, dass alle alternativen Planungen, die den nachh
 
 Sofern der Senat sich mit der zukünftigen Entwicklung des Areals nicht abschließend befasst hat, wie rechtfertigt er diesen Umstand angesichts des öffentlichen Interesses über die zukünftige Entwicklung der Landarbeiterhäuser und des Areals?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Drs. 21/2535 und Antwort zu 3.
 

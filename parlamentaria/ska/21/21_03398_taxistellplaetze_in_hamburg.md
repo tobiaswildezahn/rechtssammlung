@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51735"
@@ -67,7 +68,7 @@ Wie hat sich die Zahl der Taxistellplätze in Hamburg in den Jahren 2010 bis 201
 
 Wie hat sich die Auslastung der Taxistellplätze in Hamburg in den Jahren 2010 bis 2015 entwickelt? Bitte nach Bezirken/Stadtteilen sowie nach Jahren aufgliedern.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 

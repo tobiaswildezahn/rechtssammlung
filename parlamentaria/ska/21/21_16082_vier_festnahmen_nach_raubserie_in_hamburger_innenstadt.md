@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65588"
@@ -43,7 +44,7 @@ Handelt es sich bei den Tatverdächtigen um Deutsche? Falls nein, welche Staatsa
 
 Waren die Tatverdächtigen bereits zuvor strafrechtlich in Erscheinung getreten? Falls ja, wann?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die  
 in  
@@ -78,7 +79,7 @@ Welche Maßnahmen hat die Polizei nach der Festnahme der Tatverdächtigen ergrif
 
 Haben die Tatverdächtigen bei ihrer Vernehmung durch die Polizei Aussagen gemacht? Falls ja, umfassen diese ein Geständnis?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Den Tatverdächtigen wurde im Beisein ihrer Erziehungsberechtigten der Tatvorwurf eröffnet und rechtliches Gehör angeboten. Außerdem wurden erkennungsdienstliche Maßnahmen eingeleitet.
 

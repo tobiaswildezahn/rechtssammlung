@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 26
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13550", "21/9383", "21/10748", "21/11706"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63186"
@@ -95,7 +96,7 @@ Ziel der CDU-geführten Bundesregierung ist es, die anwendungsorientierte Forsch
 
 Welche konkreten Kooperationsprojekte zwischen Hamburger Hochschulen und Forschungseinrichtungen und der Hamburger Wirtschaft sind dem Senat im Bereich der künstlichen Intelligenz bekannt? Bitte im Detail auflisten.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Förderprogramme „Programm für Innovation (PROFI)“ und „InnoRampUp“ der IFB dienen der Förderung von Forschungs- und Entwicklungsprojekten von Hamburger Unternehmen und Hochschulen sowie von innovativen Gründungen und Start-ups. In diesem Kontext werden auch Projekte zur Anwendung der künstlichen Intelligenz (KI) unterstützt.
 
@@ -173,15 +174,15 @@ wie „Virtual“ und „Augmented Reality“, Beacons, 360-Grad-Videoproduktion
 
 Weitere Projekte an der HAW:
 
- Kooperationsprojekt mit der Miniatur Wunderland Hamburg GmbH zu autonomem
+– Kooperationsprojekt mit der Miniatur Wunderland Hamburg GmbH zu autonomem
 
 Fahren (mit Methoden der künstlichen Intelligenz)
 
- Kooperationsprojekt mit der Miniatur Wunderland Hamburg GmbH zu Intelligenter
+– Kooperationsprojekt mit der Miniatur Wunderland Hamburg GmbH zu Intelligenter
 
 Sensorik (mit Methoden der künstlichen Intelligenz) unter besonderer Beachtung datenschutzrechtlicher Fragen
 
- Kooperationsprojekt mit der Miniatur Wunderland Hamburg GmbH und der TUHH
+– Kooperationsprojekt mit der Miniatur Wunderland Hamburg GmbH und der TUHH
 
 zur autonomen Steuerung von Modellschiffen (mit Methoden der künstlichen Intelligenz)
 
@@ -195,7 +196,7 @@ Gibt es eine Strategie zur Auswertung und Nutzung öffentlicher Daten in Hamburg
 
 Inwiefern plant der Senat, in städtischen Behörden sowie Unternehmen, KI-Technologie zu erproben beziehungsweise dauerhaft einzusetzen (zum Beispiel in der Verkehrssteuerung, im Hafen, in der Energieversorgung sowie in der Verwaltung)?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Für den Bereich der digitalen Verwaltung ist die unter anderem Senatskanzlei dabei, Erfahrungen im Einsatz von KI für die Hamburger Verwaltung zu gewinnen. Ziel ist es, prototypisch Anwendungen zu entwickeln, die später in der Fläche der Behörden zum Einsatz kommen können. So beschäftigt sich derzeit ein Projekt damit, den Einsatz von KI für einen textbasierten Chatbot, der die Beauskunftung des telefonischen HamburgServices unterstützen soll, vorzubereiten und zu erproben. Ebenso werden die Möglichkeiten zum Einsatz von KI im Kontext der Zuordnung von Vorgängen zu Akten erprobt.
 

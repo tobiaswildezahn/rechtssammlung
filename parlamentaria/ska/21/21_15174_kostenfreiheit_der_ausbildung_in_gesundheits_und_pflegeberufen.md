@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10386", "21/13792"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64621"
@@ -224,7 +225,7 @@ Wie viele der Ausbildungsplätze befinden sich in privaten und wie viele in staa
 
 Wie viele private Ausbildungseinrichtungen mit jeweils wie vielen Auszubildenden pro Jahrgang gibt es in der Freien und Hansestadt Hamburg?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Antwort zu 1.
 

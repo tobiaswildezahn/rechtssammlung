@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55291"
@@ -43,7 +44,7 @@ Warum wurde das Stiftungsmodell, an dem viele Institutionen im Stadtteil sowie d
 
 Was sind die Gründe des Senats, die Zukunft des Hauses in eigene Hände zu nehmen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Stiftungsmodell hätte die langfristige Verfügungsmöglichkeit der Freien und Hansestadt Hamburg in Bezug auf die Immobilie eingeschränkt, sah keine Lösung für den Wertausgleich für die zu übertragende Immobilie vor, berücksichtigte nicht die im Übertragungsfall zu zahlende Grunderwerbsteuer und beruhte nach Einschätzung des Landesbetriebs Immobilienmanagement und Grundvermögen nicht auf belastbaren Annahmen zu den Sanierungskosten.
 

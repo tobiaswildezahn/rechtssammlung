@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 16
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15430", "21/16102"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65970"
@@ -79,7 +80,7 @@ Wie hoch sind die durchschnittlichen Verspätungen auf den Buslinien im Bezirk? 
 
 Welche fünf Linien sind am häufigsten von Verspätungen betroffen und welches sind jeweils die Gründe dafür?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die VHH verfügt über kein Betriebsleitsystem, das derartige Auswertungen zulässt. Im Übrigen siehe Drs. 21/15430.
 
@@ -145,7 +146,7 @@ Welche Haltestellen wurden seit 2016 mit dynamischen Fahrgastinfoanzeigern (DFI)
 
 Welche Haltestellen sollen in den nächsten beiden Jahren mit dynamischen Fahrgastinfoanzeigern (DFI) ausgestattet werden? Falls Fehlanzeige, aus welchen Gründen erfolgt kein Ausbau im Bezirk Harburg?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Drs. 21/16102. Die für den Bezirk Harburg getroffenen Aussagen gelten ebenso für den Bezirk Bergedorf.
 
@@ -183,15 +184,15 @@ Auf welchen Streckenabschnitten gibt es die meisten Besetztmeldungen?
 
 Folgende Streckenabschnitte waren im Jahr 2018 häufig von Besetztmeldungen betroffen:
 
- U Mümmelmannsberg – Boberg (Linie 12),
+– U Mümmelmannsberg – Boberg (Linie 12),
 
- Grandkoppel – Lohbrügge Markt (Linie 232),
+– Grandkoppel – Lohbrügge Markt (Linie 232),
 
- Holtenklinke – Mohnhof (Linie 8890),
+– Holtenklinke – Mohnhof (Linie 8890),
 
- Wentorfer Straße – Mohnhof (Linie 235),
+– Wentorfer Straße – Mohnhof (Linie 235),
 
- Siedlung Curslack (Nord) – Bf. Bergedorf (Linie 327, 223, 124).
+– Siedlung Curslack (Nord) – Bf. Bergedorf (Linie 327, 223, 124).
 
 Die Angaben beziehen sich auf Haltestellennamen.
 
@@ -205,29 +206,29 @@ Das Bezirksamt Bergedorf hat folgende Haltestellen mit sogenannten Kasseler Sond
 
 2016:
 
- Seefelder Fischteiche (Ri. Schule Kirchwerder)
+– Seefelder Fischteiche (Ri. Schule Kirchwerder)
 
- Seefelder Fischteiche (Ri. Overwerder)
+– Seefelder Fischteiche (Ri. Overwerder)
 
- Alte Schule Seefeld (Ri. Schule Kirchwerder)
+– Alte Schule Seefeld (Ri. Schule Kirchwerder)
 
- Alte Schule Seefeld (Ri. Overwerder)
+– Alte Schule Seefeld (Ri. Overwerder)
 
- Heinrich-Osterath-Straße (Ri. Schule Kirchwerder)
+– Heinrich-Osterath-Straße (Ri. Schule Kirchwerder)
 
- Heinrich-Osterath-Straße (Ri. Overwerder)
+– Heinrich-Osterath-Straße (Ri. Overwerder)
 
 2018:
 
- Durchdeich (Durchdeich Süd)
+– Durchdeich (Durchdeich Süd)
 
- Elversweg (Schule Ochsenwerder Ri. Gauerter Hauptdeich)
+– Elversweg (Schule Ochsenwerder Ri. Gauerter Hauptdeich)
 
- Elversweg (Schule Ochsenwerder Ri. Ochsenwerder Landstraße)
+– Elversweg (Schule Ochsenwerder Ri. Ochsenwerder Landstraße)
 
 Der LSBG hat im Jahr 2016 folgende Maßnahme durchgeführt:
 
- Bushaltestelle Boberg (beide Fahrtrichtungen): Barrierefreier Ausbau mit taktilen
+– Bushaltestelle Boberg (beide Fahrtrichtungen): Barrierefreier Ausbau mit taktilen
 
 Elementen und Kasseler Sonderbord.
 
@@ -241,22 +242,22 @@ Das Bezirksamt Bergedorf ermittelt derzeit zusammen mit den zu beteiligenden Ste
 
 Der LSBG wird im Jahr 2019 folgende Maßnahme durchführen, für das Jahr 2020 sind noch keine Festlegungen erfolgt:
 
- Max-Eichholzring (beide Fahrtrichtungen): Komplettumbau mit barrierefreiem Aus-
+– Max-Eichholzring (beide Fahrtrichtungen): Komplettumbau mit barrierefreiem Aus-
 
 bau mit taktilen Elementen und Kasseler Sonderbord;
 
- Sterntwiete (beide Fahrtrichtungen): Komplettumbau mit barrierefreiem Ausbau mit
+– Sterntwiete (beide Fahrtrichtungen): Komplettumbau mit barrierefreiem Ausbau mit
 
 taktilen Elementen und Kasseler Sonderbord;
 
- Binnenfeldredder (Fahrtrichtung ZOB Bergedorf): Komplettumbau mit barrierefrei-
+– Binnenfeldredder (Fahrtrichtung ZOB Bergedorf): Komplettumbau mit barrierefrei-
 
 em Ausbau mit taktilen Elementen und Kasseler Sonderborden;
 
- Binnenfeldredder (Fahrtrichtung Lohbrügge): Barrierefreier Neubau im Röprared-
+– Binnenfeldredder (Fahrtrichtung Lohbrügge): Barrierefreier Neubau im Röprared-
 
 der mit taktilen Elementen und Kasseler Sonderborden;
 
- Binnenfeldredder (Fahrtrichtung Reinbek): Barrierefreier Neubau im Binnenfeld-
+– Binnenfeldredder (Fahrtrichtung Reinbek): Barrierefreier Neubau im Binnenfeld-
 
 redder mit taktilen Elementen und Kasseler Sonderbord.

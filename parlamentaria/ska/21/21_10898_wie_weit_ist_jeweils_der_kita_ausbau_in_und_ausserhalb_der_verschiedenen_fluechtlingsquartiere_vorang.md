@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 16
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10514"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59840"
@@ -49,7 +50,7 @@ Bei welchen Unterkünften nach „Perspektive Wohnen“ werden Kita- Neubauten a
 
 Bei welchen Unterkünften nach „Perspektive Wohnen“ werden Kita- Neubauten außerhalb des Quartiers geplant? Wie viele Kitas mit jeweils wie vielen Plätzen von jeweils welchen Trägern je Standort sind vorgesehen? Wann begann jeweils die Planung der jeweiligen Kitas, wann erfolgte die Baugenehmigung, wann der Baubeginn, von wann bis wann war das Interessenbekundungsverfahren, wann erfolgte die Auswahl des Trägers, wann die Fertigstellung, wann die Inbetriebnahme? Bitte einzeln nach Kita-Standort auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 
@@ -69,7 +70,7 @@ Bei welchen anderen größeren öffentlich-rechtlichen Unterkünften mit mehr al
 
 Bei welchen anderen größeren öffentlich-rechtlichen Unterkünften mit mehr als 500 Plätzen, die nicht nach dem Programm „Perspektive Wohnen“ ausgerichtet sind, werden Kita-Neubauten außerhalb des Quartiers geplant? Wie viele Kitas mit jeweils wie vielen Plätzen von jeweils welchen Trägern je Standort sind vorgesehen? Wann begann jeweils die Planung der jeweiligen Kitas, wann erfolgte die Baugenehmigung, wann der Baubeginn, von wann bis wann war das Interessenbekundungsverfahren, wann erfolgte die Auswahl des Trägers, wann die Fertigstellung, wann die Inbetriebnahme? Bitte einzeln nach Kita-Standort auflisten.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage 2.
 

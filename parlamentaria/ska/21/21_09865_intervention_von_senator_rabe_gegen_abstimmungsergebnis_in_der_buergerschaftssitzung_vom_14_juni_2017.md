@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9304"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58678"
@@ -45,7 +46,7 @@ Was veranlasste Senator Rabe, gegen das vom amtierenden Sitzungspräsidenten ver
 
 Warum fiel die Reaktion des Senators so eilig aus und welchen Grund hatte die Vehemenz, mit der Senator Rabe auf den amtierenden Sitzungspräsidenten einwirkte?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat tritt der Bürgerschaft als Kollegium gegenüber und trägt kollegial die exekutive Verantwortung. Damit verträgt es sich nicht, wenn der Senat sich öffentlich mit sich selbst oder mit Auffassungen oder Handlungen einzelner seiner Mitglieder befassen müsste (siehe Klaus David, Kommentar zur Hamburgischen Verfassung, 2. Auflage 2004, Rn. 59 zu Artikel 25). Daher sieht der Senat von einer Beantwortung der Fragen ab.
 

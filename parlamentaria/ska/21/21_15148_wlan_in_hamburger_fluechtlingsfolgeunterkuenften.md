@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 19
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12634", "21/14927", "21/14300", "21/14818", "21/9758", "21/15047", "21/14033", "21/14699", "21/10523", "21/7703", "21/14777"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64610"
@@ -55,7 +56,7 @@ Wie kann es zu einer Ausschreibung kommen, wenn die Finanzierung nicht sicherges
 
 Es handelt sich um eine europaweite Ausschreibung. Die EU-Schwellenwerte betragen seit dem 1. Januar 2018 für Soziale und andere besondere Dienstleistungen nach § 130 GWB 750.000 Euro (netto). Wie hoch sind die geplanten Kosten für alle Hamburger Standorte zusammen? Bitte nach den Ausschreibungen, Standorten, Providern, monatlichen und gesamten Betriebskosten aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -101,7 +102,7 @@ Eine Registrierung der potenziellen Nutzer soll laut f & w nicht eingeführt wer
 
 Wird der Traffic protokolliert?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Der künftige Anbieter ist als Provider tätig und stellt den Service rechtskonform sicher. Damit ist er auch für die Inhalte, wie die AGB, verantwortlich. Die Protokollierung erfolgt im Rahmen der gesetzlichen Auflagen.
 

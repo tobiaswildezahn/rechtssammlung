@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 18
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61024"
@@ -66,7 +67,7 @@ b) Magister, Diplom, Master, Staatsexamen;
 c) Bachelor;  
 d) Berufsausbildung?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Akademischen Grad Mitarbeiterinnen und Mitarbeiter* Magister, Diplom, Master, Staatsexamen:
 

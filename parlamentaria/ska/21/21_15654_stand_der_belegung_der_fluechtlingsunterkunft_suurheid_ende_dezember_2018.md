@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 27
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12934", "21/2108", "21/13464", "21/14606", "21/13795", "21/12594"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65155"
@@ -47,7 +48,7 @@ Wie viele Flüchtlinge waren in der örU Suurheid Ende Dezember 2018 untergebrac
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Geschlecht  
 Kinder und Jugendliche  
@@ -207,7 +208,7 @@ Für die Einrichtung einer Überbrückungskita verfolge die Behörde drei Option
 
 Auch werde geprüft, welches Verfahren bei der Vergabe der zur Verfügung stehenden Flächen anzuwenden ist. Wie sieht hier der aktuelle Sachstand aus?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Um eine schnelle Teilhabe an frühkindlicher Bildung und Integration zu ermöglichen, soll bis zur Fertigstellung der für den zweiten Bauabschnitt des Wohnquartiers Suurheid eingeplanten Kita eine Übergangskita realisiert werden. Dafür wurden drei Optionen geprüft: der Bau einer temporären Kita auf einer freien, ehemals mit einem Wohnmodul bebauten Fläche auf dem Gelände der Wohnunterkunft Sieversstücken, der Bau einer temporären Kita auf einer Fläche des Bezirkes am Sportplatz des Rissener Sportvereines und die Nutzung von bestehenden Räumlichkeiten in einem Verwaltungsgebäude der Wohnunterkunft Sieversstücken, die vormals bereits als Kindertagesstätte genutzt wurden.
 

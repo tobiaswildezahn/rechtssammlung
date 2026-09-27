@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68059"
@@ -86,7 +87,7 @@ Wie viele Hamburger Unternehmen haben eine Niederlassung in Israel? Bitte aufzä
 
 Wie viele israelische Unternehmen haben eine Niederlassung in Hamburg? Bitte aufzählen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Diese Daten werden von den zuständigen Behörden nicht erhoben.
 
@@ -98,7 +99,7 @@ Welches Volumen hatten Hamburger Direktinvestitionen in Israel in den letzten f�
 
 Welches Volumen hatten israelische Direktinvestitionen in Hamburg in den letzten fünf Jahren? Bitte für jedes Jahr einzeln angeben.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Nach Auskunft der Bundesbank stehen zwar Angaben zu den Direktinvestitionsbeziehungen Deutschlands zum Ausland in der Gliederung nach Ländern im Bund für die Direktinvestitionsbestandsdaten zur Verfügung, nicht aber für die Direktinvestitionstransaktionen.
 

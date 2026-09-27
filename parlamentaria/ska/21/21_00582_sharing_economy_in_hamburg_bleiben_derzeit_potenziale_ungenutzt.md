@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48792"
@@ -67,7 +68,7 @@ Welche Gestaltungschancen und welche Risiken gehen nach Ansicht des Senats mit d
 
 Welche rechtlichen Rahmenbedingungen gelten für die „Sharing Economy“ in Hamburg? Ist der Senat der Ansicht, dass diese geltenden Regelungen ausreichen? Wenn nein, was unternimmt der Senat konkret, um die geltende Rechtslage an die neuen Herausforderungen anzupassen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die gemeinsame Verwendung von Gütern im Rahmen von Sharing-Economy- Modellen kann den nachhaltigen Umgang mit knappen Ressourcen unterstützen. Chancen und Risiken sind jedoch stets im Rahmen des Einzelfalls zu prüfen. Es gibt keine besonderen rechtlichen Rahmenbedingungen für die Sharing Economy. Vielmehr müssen sich einzelne Modelle an allgemeine und an die für den jeweiligen Bereich geltenden rechtlichen Rahmenbedingungen halten.
 

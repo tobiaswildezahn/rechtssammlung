@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3995", "21/4453", "21/1861"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53951"
@@ -73,7 +74,7 @@ Wie viele der bislang ermittelten Tatverdächtigen sind bis heute zu welchen Haf
 
 Wie viele der Verurteilten sind inzwischen abgeschoben worden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Verurteilungen zu Haftstrafen erfolgten bisher nicht.
 
@@ -103,7 +104,7 @@ Zu welchem Zeitpunkt und aus welchen Gründen wurde die eingerichtete Sonderkomm
 
 Gibt es aktuell noch laufende Ermittlungen zur Ermittlung weiterer Tatverdächtiger?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Ermittlungsgruppe „Silvester“ (EG 161) wurde am 21. April 2016 aufgelöst, da die Hauptermittlungen zu diesem Zeitpunkt abgeschlossen waren. Notwendige Nachermittlungen werden von der für die Bearbeitung von Sexualdelikten zuständigen Dienststelle des Landeskriminalamtes (LKA 42) weitergeführt. Die Ermittlung weiterer TV dauert an.
 

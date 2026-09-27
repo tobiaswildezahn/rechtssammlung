@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54096"
@@ -49,7 +50,7 @@ Bei welchen ad hoc beziehungsweise permanent gebildeten städtischen Gremien
 a) hatten hauptamtliche Mitarbeiter der Handelskammer Hamburg – im Zeitraum 2008 bis 2015 – einen Sitz?
 b) haben hauptamtliche Mitarbeiter der Handelskammer Hamburg gegenwärtig einen Sitz inne?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 
@@ -69,7 +70,7 @@ Durch welche Behörde und wann erfolgte die unter Nummer 1 und Nummer 2 erfragte
 
 Wie hoch waren die Honorare, Aufwandsentschädigungen, Vergütungen an hauptamtliche Mitarbeiter der Handelskammer Hamburg für Tätigkeiten im Zusammenhang mit den unter Nummer 1 erfragten öffentlichen Unternehmen/Beteiligungen und unter Nummer 2 erfragten städtischen Gremien jeweils in den Jahren 2009 bis 2015? Bitte Angaben nach Jahr, jeweiligen Mitarbeiter und nach Unternehmen beziehungsweise Gremien getrennt darstellen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage 1.
 

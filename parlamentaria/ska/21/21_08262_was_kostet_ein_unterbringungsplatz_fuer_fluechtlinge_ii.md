@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4327", "21/7422", "21/2707", "21/4377", "21/4583", "21/4635", "21/4923", "21/5511", "21/5634", "21/5635", "21/6898", "21/7644", "21/7844", "21/7914"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56964"
@@ -43,7 +44,7 @@ Wie setzen sich die genannten Kosten für die Unterbringung von Flüchtlingen im
 
 Was kostete ein Platz in der Erstaufnahme im Jahr 2016 pro Monat? (Bitte die einzelnen Kostenbestanteile analog zur Drs. 21/4327 aufschlüsseln).
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zu den Kosten je Platz und Tag des Betriebs der Folgeunterkünfte und der Unterkünfte Perspektive Wohnen (UPW) siehe Drs. 21/7422. Für 2017 wurde der Leistungskostensatz in Höhe von 1,97 Euro auf 2,04 Euro angepasst. Der Finanzierungskostensatz für durch f & w fördern und wohnen AöR (f&w) eigenfinanzierte Unterkünfte wurde für die erste Kredit-Tranche auf 14,88 Euro und die zweite Kredit-Tranche auf 14,85 Euro festgelegt. Für die übrigen Kostensätze sind die Vereinbarungen noch nicht abgeschlossen.
 

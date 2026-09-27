@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12697", "21/973", "20/11112"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49297"
@@ -138,7 +139,7 @@ Wie lange dauert es aktuell in Hamburg durchschnittlich, bis die Flüchtlinge di
 
 Wie viele Flüchtlinge wurden im Juni und Juli in Hamburg aufgenommen? Bei wie vielen von ihnen wurde das „3-Tage-Ziel“ verfehlt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im Juni 2015 haben sich 3.404 Personen bei der ZEA gemeldet, von denen 1.673 Personen im asylverfahrensrechtlichen Verteilungsverfahren Hamburg zugewiesen wurden. Vom 1. bis 22. Juli 2015 haben sich 3.821 Personen gemeldet. Wie viele Personen Hamburg zugewiesen wurden, wird erst zum Monatsende statistisch ausgewertet. Es handelt sich dabei um eine Statistik, die nicht automatisiert erstellt werden kann, sondern auf einer manuellen Auswertung beruht. Um in der aktuellen Situation die Aufnahme und Versorgung aller ankommenden Flüchtlinge gewährleisten zu können, werden alle zur Verfügung stehenden Personalressourcen in den betroffenen Aufgabenbereichen eingebunden. Derzeit müssten händische Auswertungen zur Beantwortung einzelner Fragestellungen durch Zurückstellen von Aufgaben zur Flüchtlingsunterbringung und -versorgung vorgenommen werden. Daher können derzeit Angaben einer durchschnittlichen Dauer bis zur erfolgten Eingangsuntersuchung und der Zahl der Personen, die nicht innerhalb von drei Tagen einer Eingangsuntersuchung unterzogen werden konnten, nicht erarbeitet werden.
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 14
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/897"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49617"
@@ -76,7 +77,7 @@ In wie vielen Fällen wurde eine hundertprozentige Sanktion der Leistungen ausge
 
 Wie verteilen sich die ausgesprochenen Sanktionen auf die Altersgruppen „15 – 18 Jahre“, „unter 25 Jahre“ und „über 25 Jahre“? Bitte monatlich seit 2012 und nach Jobcenter-Standorten aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage 3. Eine statistische Erhebung und Auswertung nach Jobcenter- Standorten sowie der Altersgruppe „15 – 18 Jahre“ gibt es vom Statistik-Service der Bundesagentur für Arbeit nicht.
 

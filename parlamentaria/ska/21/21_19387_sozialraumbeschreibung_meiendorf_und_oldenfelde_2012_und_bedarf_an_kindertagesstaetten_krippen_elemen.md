@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/3642"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69100"
@@ -65,7 +66,7 @@ Welche Krippen, Elementarbereiche und Horte wurden bei den elf Kitas zugrunde ge
 
 Welche Veränderungen des Bedarfes für die Kindertagesstätten haben sich in den statistischen Gebieten 74001 bis 74009 und 74012 von 2010 bis heute ergeben?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In den nachgefragten statistischen Gebieten bestanden im November 2012 die folgenden acht Kitas und Horte:
 
@@ -132,7 +133,7 @@ Wie viele Plätze und freie Kapazitäten haben die aktuell bestehenden Kindertag
 
 Welche zusätzlichen Kapazitäten an Plätzen für neue Kindertagesstätten (Krippen, Elementarbereiche und Horte) wären aus behördlicher Sicht in den statistischen Gebieten 74001 bis 74009 und 74012 erforderlich? Bitte nach Altersgruppen unterteilen.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die für Kindertagesbetreuung zuständige Behörde verfügt nicht über die Informationen zur Beantwortung dieser Fragestellung nach freien Kapazitäten. Sie hat daher die Kitas in den statistischen Gebieten dazu befragt. Laut Angaben der Kitas sind derzeit alle Plätze belegt und keine freien Plätze verfügbar.
 

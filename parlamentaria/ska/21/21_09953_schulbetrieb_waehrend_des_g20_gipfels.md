@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58772"
@@ -49,7 +50,7 @@ Wann und wie wurden die Schulen von der zuständigen Behörde vor dem G20-Gipfel
 
 Welche Stelle der zuständigen Behörde hat sich wann mit diesen Fragen befasst und ist mit welcher Begründung zu welchem Ergebnis gekommen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Schulleitungen der allgemeinbildenden und der berufsbildenden Schulen im Umkreis der Sicherheitszone wurden am 2. Mai 2017 in einem Gespräch beim Landesschulrat unter Hinzuziehung des Leiters des polizeilichen Einsatzabschnitts (EA) „Veranstaltungsort“ zu schulorganisatorischen Fragen im Rahmen des G20-Gipfels informiert.
 
@@ -95,7 +96,7 @@ Wie hat die zuständige Behörde auf diese Hilferufe aus den Schulen und Kitas w
 
 Wann und in welcher Form wurden jeweils die Eltern benachrichtigt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 In Kitas der Elbkinder – Vereinigung Hamburger Kitas gGmbH, die in Stadtteilen liegen, in denen Demonstrationen stattfanden oder diese polizeilich angekündigt waren, wurden die Eltern ab 11 Uhr per Telefon oder per E-Mail gebeten, ihre Kinder abzuholen.
 

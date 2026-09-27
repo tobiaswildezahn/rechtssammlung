@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9298"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49602"
@@ -135,7 +136,7 @@ Welche Kenntnisse hat der Senat über beabsichtigte künftige Nutzungen der exte
 
 Bis wann will der Senat die Nutzung der externen Energieversorgung durch alle Hamburg anlaufenden Kreuzfahrtschiffe erreichen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe „Finanzierungs- und Betreibermodelle für eine Landstromversorgung im Hamburger Hafen“ (http://www.hamburg.de/contentblob/3613158/data/landstromuntersuchung-2012.pdf).
 

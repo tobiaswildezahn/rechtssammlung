@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 38
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67704"
@@ -45,7 +46,7 @@ Wie viele Delikte aus dem Bereich der Gewaltkriminalität sind in den Jahren 201
 
 Wie hoch beläuft sich die jeweilige Aufklärungsrate (bitte in Prozent angeben)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Polizei erfasst Straftaten gemäß dem Straftatenkatalog der bundeseinheitlichen Richtlinien für die Erfassung und Verarbeitung der Daten in der Polizeilichen Kriminalstatistik (PKS). Die statistische Erfassung eines Falles erfolgt nach den Richtlinien für die Führung der PKS mit Abschluss aller polizeilichen Ermittlungen durch die für die Endbearbeitung zuständige Dienststelle bei endgültiger Abgabe der entstandenen Ermittlungsvorgänge beziehungsweise des Schlussberichts an die Staatsanwaltschaft oder das Gericht. Statistiken zu Anzeigenerstattungen werden bei der Polizei nicht geführt.
 
@@ -163,7 +164,7 @@ In wie vielen Fällen sind in den Jahren 2017, 2018 und 2019 religiöse Prozessi
 
 In wie vielen Fällen ist eine Genehmigung nicht erteilt worden (bitte auch die jeweiligen Gründe angeben)?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Aufgrund des Anfragenkontextes erfolgt die Beantwortung dieser Fragen bezogen auf den Stadtteil Wilhelmsburg. Für religiöse Prozessionen, insbesondere für die aufgezählten Ereignisse, bedarf es keiner Genehmigung des Bezirksamtes. Eine Genehmigung ist erforderlich, wenn diese Prozessionen auf öffentlichem Grund, zum Beispiel in Form eines Umzuges, durchgeführt werden. Dies wurde für die Jahre 2017 bis zum
 21.08.2019 für den Stadtteil Wilhelmsburg nicht beantragt.

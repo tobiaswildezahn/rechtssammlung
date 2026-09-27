@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9104", "21/8464", "21/5039", "21/5331", "21/5711", "21/8162", "21/10592", "21/10107", "20/13460", "21/9538"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59624"
@@ -51,7 +52,7 @@ Wie viele beziehungsweise welche Moscheen sind dem Senat gegenwärtig als Treffp
 
 Wie viele von diesen werden gegenwärtig nicht durch den Verfassungsschutz observiert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Moscheen sind nahezu über das gesamte Stadtgebiet verteilt. Lediglich die Taqwa- Moschee in Harburg ist als zentrale Anlaufstelle für Salafisten einzustufen. Nach Erkenntnissen des LfV Hamburg ist die Taqwa-Moschee nicht geschlossen. Darüber hinaus werden verschiedene Moscheen auch von Salafisten im Rahmen von Gebetsveranstaltungen besucht. Dem LfV Hamburg liegen jedoch keine Erkenntnisse vor, die darauf hindeuten, dass diese Moscheen eine insgesamt salafistische Ausrichtung haben.
 
@@ -63,15 +64,15 @@ Wie viele der oben genannten Moscheen sind in der Vergangenheit bereits zeitweis
 
 Durchsuchungen im Sinne der Fragestellung können von allen Dienststellen der Polizei aus unterschiedlichen Gründen durchgeführt worden sein. Aus den Erinnerungen von langjährigen Mitarbeitern des LKA 7 heraus sind in der Vergangenheit folgende Moscheen von der Polizei durchsucht worden:
 
- 2010 die Taiba Moschee im Steindamm im Rahmen des Verbots des Trägerver-
+– 2010 die Taiba Moschee im Steindamm im Rahmen des Verbots des Trägerver-
 
 eins.
 
- Vor circa vier Jahren die Taqwa-Moschee in der Anzengruber Straße im Rahmen
+– Vor circa vier Jahren die Taqwa-Moschee in der Anzengruber Straße im Rahmen
 
 von Ermittlungen wegen der Fortsetzung der verbotenen Vereinigung Milatu Ibrahim.
 
- Vor circa zwei Jahren die Taqwa-Moschee in der Anzengruber Straße im Rahmen
+– Vor circa zwei Jahren die Taqwa-Moschee in der Anzengruber Straße im Rahmen
 
 des Verbots der LIES!-Kampagne.
 
@@ -148,27 +149,27 @@ Die zuständige Dienststelle des Landeskriminalamts (LKA 702 – Prävention gew
 
 Im Bezirksamt Hamburg-Mitte laufen hierzu verschiedene Projekte, die im Folgenden beispielhaft aufgeführt sind:
 
- Durchführung von „Partnerschaften für Demokratie“ im Rahmen des Bundespro-
+– Durchführung von „Partnerschaften für Demokratie“ im Rahmen des Bundespro-
 
 gramms „Demokratie leben!“ in den Stadtteilen St.Georg/Hamm/Borgfelde, Billstedt/Mümmelmannsberg, Wilhelmsburg. In diesem Rahmen findet zum einen Vernetzungsarbeit zur Radikalisierungsprävention statt, zum anderen werden dazu von den Akteuren des Netzwerks mit Projektgeldern Einzelmaßnahmen durchgeführt.
 
- Die Jugendforen sind Teil der Partnerschaften für Demokratie. Jugendliche können
+– Die Jugendforen sind Teil der Partnerschaften für Demokratie. Jugendliche können
 
 hier ihre Belange einbringen und sich für ein demokratisches Gemeinwesen engagieren (Empowerment).
 
- Verstärkte Einbeziehung von Moscheegemeinden in die Stadtteilnetzwerke, hier
+– Verstärkte Einbeziehung von Moscheegemeinden in die Stadtteilnetzwerke, hier
 
 insbesondere der Kinder- und Jugendabteilungen.
 
- Qualifizierungen für die Kinder- und Jugendabteilungen verschiedener Moschee-
+– Qualifizierungen für die Kinder- und Jugendabteilungen verschiedener Moschee-
 
 gemeinden/Muslimischer Jugendorganisationen.
 
- Sensibilisierung und Schulung von Mitarbeiterinnen und Mitarbeitern in den Ein-
+– Sensibilisierung und Schulung von Mitarbeiterinnen und Mitarbeitern in den Ein-
 
 richtungen der Kinder- und Jugendarbeit sowie der Familienförderung.
 
- Punktuelle Verstärkung von Angeboten der Kinder- und Jugendarbeit, um attrakti-
+– Punktuelle Verstärkung von Angeboten der Kinder- und Jugendarbeit, um attrakti-
 
 ve Alternativangebote zu salafistischen „Werbern“ anzubieten.
 
@@ -188,6 +189,6 @@ Wie viele Moscheevereine haben sich in Hamburg zwischen dem 1. Mai 2010 und dem 
 
 Welche rechtlichen Voraussetzungen sind nötig, um in Hamburg einen Moscheeverein anzumelden?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Eine besondere Registrierungspflicht für „Moscheevereine“ beziehungsweise religiöse Vereine gibt es nicht. Wollen solche Vereine allerdings die Rechtsform des „eingetragenen Vereins“ führen, so gelten für sie wie für jeden anderen Verein die Vorgaben von §§ 21 fortfolgende BGB. Neben der Prüfung der Mindestmitgliederzahl nach § 56 BGB werden die im Zuge von Neuanmeldungen eingereichten Satzungen generell daraufhin geprüft, ob die Mindestinhalte der §§ 57 fortfolgende BGB enthalten sind, ob der Vereinszweck kein wirtschaftlicher ist und nicht gegen die guten Sitten oder strafrechtliche Vorschriften verstößt und ob die Satzung keine widersprüchlichen Regelungen enthält. Im Übrigen siehe Antworten zu 5.,6., und 7.

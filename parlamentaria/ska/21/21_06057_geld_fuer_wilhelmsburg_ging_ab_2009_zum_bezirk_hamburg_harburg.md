@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54569"
@@ -89,6 +90,6 @@ Falls die 500.000 Euro zukünftig nicht mehr zweckgebunden für Wilhelmsburg zur
 
 Wenn die 500.000 Euro in Zukunft nicht mehr für Wilhelmsburg zur Verfügung stehen sollten: Für welche Verwendung sind sie im Bezirk Hamburg-Mitte eingeplant?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.

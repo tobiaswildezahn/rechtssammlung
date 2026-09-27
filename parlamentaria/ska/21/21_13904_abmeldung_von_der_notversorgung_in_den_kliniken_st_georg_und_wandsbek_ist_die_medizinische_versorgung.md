@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13890"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63290"
@@ -61,17 +62,17 @@ Dabei handelt es sich um Gesamtübersichten aller Sperrungen.
 
 Differenziert wird bei den Sperrungen insbesondere zwischen
 
- Zentraler Notfallaufnahme (ZNA),
+– Zentraler Notfallaufnahme (ZNA),
 
- Innerer Medizin (Med.),
+– Innerer Medizin (Med.),
 
- Medizinischer Intensivstation (Med. Intensiv),
+– Medizinischer Intensivstation (Med. Intensiv),
 
- Stroke Unit,
+– Stroke Unit,
 
- Herzkatheter-Labor,
+– Herzkatheter-Labor,
 
- Kreißsaal (nur sofern die Notwendigkeit eines Bettes in der Neonatologie wegen
+– Kreißsaal (nur sofern die Notwendigkeit eines Bettes in der Neonatologie wegen
 
 Frühgeburt  
 beziehungsweise  
@@ -80,9 +81,9 @@ unter
 36./37.Schwangerschaftswoche  
 besteht),
 
- technischen Einschränkungen beispielsweise beim CT, MRT (Wartung, Ausfall)
+– technischen Einschränkungen beispielsweise beim CT, MRT (Wartung, Ausfall)
 
- und weiteren Einzelbereichen wie Neurologie, HNO-Heilkunde, Urologie, Beat-
+– und weiteren Einzelbereichen wie Neurologie, HNO-Heilkunde, Urologie, Beat-
 
 mungskapazität.
 

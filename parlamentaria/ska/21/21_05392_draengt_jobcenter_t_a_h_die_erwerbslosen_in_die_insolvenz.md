@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 26
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53881"
@@ -77,7 +78,7 @@ b. Rückforderungen?
 c. Aufrechnungen?  
 d. Aufrechnungen + Zahlungen an den Inkasso-Dienst?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Über Anzahl, Höhe und Art Forderungen kann durch den Statistikservice der BA nicht berichtet werden.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15905", "21/14406", "21/11568", "21/15459"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68478"
@@ -97,7 +98,7 @@ In den bezirklichen Ausländerdienststellen für das Jahr 2019 wurden für die S
 
 Konnte die jeweils vorsorglich pro Bezirksamt geschaffene Stelle für die Ausländerstellen jeweils bereits besetzt werden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 1.
 

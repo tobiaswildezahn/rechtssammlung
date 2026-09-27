@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64480"
@@ -62,7 +63,7 @@ Inwiefern gab und gibt es im laufenden Jahr in den Einrichtungen der stationäre
 
 Inwiefern gab und gibt es im laufenden Jahr in den Einrichtungen beziehungsweise bei den Trägern der ambulanten Suchthilfe Behandlungsfälle aufgrund des Konsums von Carfentanyl?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Träger der Suchthilfe berichten von Einzelfällen, in denen es zum Konsum von Fentanyl gekommen ist. Derartige Erkenntnisse zu Carfentanyl liegen nicht vor. Der Konsum von Carfentanyl beziehungsweise Fentanyl wird derzeit statistisch nicht erfasst. Nähere Erkenntnisse im Sinne der Fragestellung liegen nicht vor.
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 13
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/759", "20/13544", "21/1431", "20/12697", "21/1395", "21/2478"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51044"
@@ -49,7 +50,7 @@ Welche Unterkünfte welcher Art mit welcher Kapazität und Größe hat die Stadt
 
 Wann sind die Kaufverträge jeweils notariell wirksam geworden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 
@@ -86,7 +87,7 @@ Welche Unterkünfte (auch Hotels und Lagerhallen) welcher Art mit welcher Kapazi
 
 Zu wann sind jeweils die Miet- und Pachtverträge mit welcher Laufzeit geschlossen worden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 In der Anlage 2 sind die vom Landesbetrieb Immobilienmanagement und Grundvermögen im Bereich der Erstaufnahme angemieteten beziehungsweise gepachteten Unterkünfte aufgeführt.
 
@@ -161,7 +162,7 @@ Welche Behörde oder welcher externe Betreiber betreibt die in Fragen 1. und 4. 
 
 Welche Kosten in welcher Höhe sind für die laufende Instandhaltung, Unterhaltung und Reparaturen für die jeweiligen Unterkünfte monatlich beziehungsweise jährlich veranschlagt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die folgende Übersicht zum Stand 6. Januar 2016 enthält die bislang abgerechneten Kosten im Bereich der Erstunterbringung für das Jahr 2015. Die Abrechnungen für 2015 sind noch nicht endgültig abgeschlossen, sodass sich die Beträge nachträglich noch ändern können.
 

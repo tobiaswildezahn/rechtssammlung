@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56867"
@@ -61,23 +62,23 @@ Wie ist der Bestand der Altdeiche in Bezug auf den Denkmalschutz zu bewerten? Is
 
 In den Flussmarschgebieten ist eine Vielzahl von Altdeichen vorhanden. Die kulturhistorische Bedeutung der Altdeiche ist sehr hoch. Sie sind sichtbare Zeugnisse der mittelalterlichen und frühneuzeitlichen Marschenkolonisierung und damit der historisch gewachsenen Kulturlandschaften. Die wenigen bislang im Zuge von Bauarbeiten dokumentierten Altdeichprofile belegen unterschiedliche Deichbauweisen, die Aufhöhung der Deiche in mehreren Phasen als Folge von Sturmflutereignissen und die Rekonstruktion der in Etappen sich vollziehenden Marschenkolonisierung. Als denkmalwert wurden bisher die folgenden Deiche beziehungsweise Deichabschnitte bewertet:
 
- Rosengartendeich,
+– Rosengartendeich,
 
- Finkenwerder Westerdeich,
+– Finkenwerder Westerdeich,
 
- Finkenwerder Süderdeich,
+– Finkenwerder Süderdeich,
 
- Aue-Hauptdeich,
+– Aue-Hauptdeich,
 
- Moorburger Elbdeich,
+– Moorburger Elbdeich,
 
- Neuländer Elbdeich,
+– Neuländer Elbdeich,
 
- Deich Auf der Höhe/Schönfelder Straße,
+– Deich Auf der Höhe/Schönfelder Straße,
 
- Ringdeich Moorwerder,
+– Ringdeich Moorwerder,
 
- Altengammer Hausdeich Hausdeich von Nummer 38a bis 84.
+– Altengammer Hausdeich Hausdeich von Nummer 38a bis 84.
 
 ### Frage 4
 
@@ -95,7 +96,7 @@ Gibt es ein touristisches Konzept für die Nutzung und den Ausbau eines Radwegen
 
 Wie schätzt der Senat den potenziellen touristischen Nutzen eines derartigen Radwegenetzes ein?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Ein touristisches Radwegenetz, das sich ausschließlich auf Altdeiche bezieht, ist nicht sinnvoll, da sich auf den Altdeichen meist keine durchgängigen Wegeverbindungen zu einem Gesamtnetz ergeben. Die Altdeiche sind teilweise in die Hauptdeiche einbezogen. Für das freizeit- und touristische Radfahren gibt es bereits das seit vielen Jahren etablierte Freizeitrouten- und Radfernwegenetz, das im „Grünen Netz Hamburg“ in den Landschaftsachsen liegt und zahlreiche Altdeiche einbezieht. Dieses Netz umfasst insgesamt 15 Routen auf circa 440 km Streckenlänge, siehe Kartenset „Hamburgs Fahrradrouten“ und www.hamburg.de/radwege.
 

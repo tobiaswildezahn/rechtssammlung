@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 0
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14069", "21/11643", "21/18061", "21/18389", "21/18731", "21/19005", "21/19365"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69285"
@@ -52,7 +53,7 @@ c. Geschlecht,
 d. Standort der Unterkunft,  
 e. Monat der Tat.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Anzahl der in Hamburger Erstaufnahmen untergebrachten Flüchtlinge ist dem im Internet veröffentlichten „Lagebild Flüchtlinge“ der Stabsstelle Flüchtlinge und übergreifende Aufgaben (SFA), vormals Zentraler Koordinierungsstab Flüchtlinge (ZKF), zu entnehmen. Siehe dazu https://www.hamburg.de/sfa-lagebild/12158510/zkflagebild-2019/.
 
@@ -71,7 +72,7 @@ c. Geschlecht,
 d. Standort der Unterkunft,  
 e. Monat der Tat.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Im zweiten Halbjahr 2019 gab es im Ankunftszentrum neun Suizidversuche beziehungsweise Vorfälle, bei denen es sich um Suizidversuche gehandelt haben könnte.
 
@@ -149,7 +150,7 @@ c. Geschlecht,
 d. Standort der Unterkunft,  
 e. Monat der Tat.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Zur Anzahl der in Unterkünften der öffentlich-rechtlichen Unterbringung von Zuwanderern und Wohnungslosen untergebrachten Flüchtlinge im zweiten Halbjahr 2019 siehe Drs. 21/18061, Drs. 21/18389, Drs. 21/18731, Drs. 21/19005 und Drs. 21/19365. Die Daten zum Dezember 2019 liegen derzeit noch nicht vor.
 
@@ -168,7 +169,7 @@ c. Geschlecht,
 d. Standort der Unterkunft,  
 e. Monat der Tat.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 In Bezug auf die Anzahl der untergebrachten Flüchtlinge im zweiten Halbjahr 2019 siehe Antwort zu 5. und 6. In Bezug auf die Anzahl an Suizidversuchen und den Verdacht auf Suizidversuche siehe folgende Tabelle:
 

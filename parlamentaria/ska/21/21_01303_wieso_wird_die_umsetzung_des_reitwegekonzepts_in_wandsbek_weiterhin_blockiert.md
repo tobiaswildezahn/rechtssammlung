@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 16
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/1201", "20/3724", "20/7841"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49472"
@@ -109,6 +110,6 @@ Ist der Senat beziehungsweise das Bezirksamt Wandsbek mit der bisherigen Umsetzu
 
 Rechnet der Senat beziehungsweise das Bezirksamt Wandsbek noch mit einer Umsetzung des Reitwegekonzeptes? Wenn ja, bis wann spätestens? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Senat hat sich damit nicht befasst. Im Übrigen siehe Vorbemerkung.

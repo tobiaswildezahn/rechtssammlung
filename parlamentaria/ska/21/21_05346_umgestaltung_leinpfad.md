@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53821"
@@ -43,45 +44,45 @@ Anregungen und Hinweise wurden im Rahmen der Planungsvorstellung im Regionalauss
 
 Es gingen vier E-Mails von Bürgerinnen und Bürgern zu Themen der Bezirks-Drs. 20- 2767 ein. Die nachfolgenden Vorschläge der Initiative UNSER WINTERHUDE wurden direkt an das Planungsbüro übergeben.
 
- Die geplanten Aufpflasterungen sollen entfallen und stattdessen Piktogramme auf
+– Die geplanten Aufpflasterungen sollen entfallen und stattdessen Piktogramme auf
 
 rotem Grund aufgebracht werden
 
- Der nördliche Planungsbereich soll nicht die Einmündung in die Hudtwalckerstraße
+– Der nördliche Planungsbereich soll nicht die Einmündung in die Hudtwalckerstraße
 
 einbeziehen
 
- Im Kreuzungsbereich Goernestraße/Klärchenstraße wird davon abgeraten, die
+– Im Kreuzungsbereich Goernestraße/Klärchenstraße wird davon abgeraten, die
 
 bewährte Rechts-vor-links-Vorfahrtsregelung zu ändern
 
- Als Ausgleich für die entfallenden Bäume im Uferbereich sollen im Abschnitt zwi-
+– Als Ausgleich für die entfallenden Bäume im Uferbereich sollen im Abschnitt zwi-
 
 schen Hudtwalckerstraße und Fernsicht insgesamt mindestens 25 neue Straßenbäume auf der östlichen Straßenseite neu gepflanzt werden
 
- Die geplanten Ausweich-/Begegnungsstellen im nördlichen Abschnitt sollen verän-
+– Die geplanten Ausweich-/Begegnungsstellen im nördlichen Abschnitt sollen verän-
 
 dert werden
 
- Verbundsteine sollen wiederverwendet werden
+– Verbundsteine sollen wiederverwendet werden
 
- Die Parkplätze auf der westlichen Seite sollen im Abschnitt zwischen Goernestra-
+– Die Parkplätze auf der westlichen Seite sollen im Abschnitt zwischen Goernestra-
 
 ße und Fernsicht ausschließlich mit grünen Kunststoff-Rasengitterelementen, welche mit Stützkorn befüllt werden, befestigt werden
 
- Der vorhandene Gehweg auf der östlichen Seite soll dort, wo erforderlich, saniert
+– Der vorhandene Gehweg auf der östlichen Seite soll dort, wo erforderlich, saniert
 
 werden
 
- Analog der Parkregelung im Abschnitt zwischen Maria-Louisen-Straße und Klär-
+– Analog der Parkregelung im Abschnitt zwischen Maria-Louisen-Straße und Klär-
 
 chenstraße soll auch im Abschnitt Fernsicht bis Maria-Louisen-Straße an zahlreichen Stellen das halbachsige Fahrbahnrandparken vorgesehen werden. Die dort zusätzlich geplanten Fahrradanlehnbügel sollen entsprechend an anderer Stelle platziert werden.
 
- Verzicht auf den Umbau der beiden Kreuzungen Goernestraße/Klärchenstraße
+– Verzicht auf den Umbau der beiden Kreuzungen Goernestraße/Klärchenstraße
 
 sowie Mövenstraße
 
- Die Bordkanten sollen in allen Kreuzungsbereichen so ausgeprägt werden, dass
+– Die Bordkanten sollen in allen Kreuzungsbereichen so ausgeprägt werden, dass
 
 diese problemlos mit einem Rollstuhl beziehungsweise Rollator überwunden werden können
 
@@ -95,7 +96,7 @@ Welche der unter 1. aufgeführten Anregungen/Hinweise werden im Rahmen der Umset
 
 Welche der unter 1. aufgeführten Anregungen/Hinweise werden aus welchen Gründen jeweils nicht oder nur teilweise im Rahmen der Umsetzung der Maßnahme berücksichtigt und wer hat dieses wann nach Rücksprache mit wem entschieden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Bezirks-Drs. 20-2767. Die Anregungen, die vor dem wirtschaftlichen und rechtlichen Hintergrund sowie nach den anerkannten Regeln der Technik sinnvoll beziehungsweise zulässig sind, wurden nach einer Prüfung berücksichtigt. Eine Evaluation soll nach Umsetzung der Maßnahme durchgeführt werden.
 

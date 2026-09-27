@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8968", "21/8836", "21/6738", "21/6874"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58221"
@@ -91,6 +92,6 @@ informiert?
 Falls ja: Was hat sie unternommen?  
 Falls nein: warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/6738 und Drs. 21/6874.

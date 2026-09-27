@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 48616
 seiten: 2
 fragen: 8
-einzelfragen: 13
-antwortbloecke: 7
+einzelfragen: 15
+antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2006"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53141"
@@ -67,7 +68,7 @@ Ist es zutreffend, dass die geplante Fläche für das Naturschutzgebiet umfangre
 
 Wie groß soll nach dem derzeitigen Planungsstand das neue Naturschutzgebiet in Volksdorf werden? Wie groß ist dabei die Fläche, die auf private Grundstücke entfällt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/2006.
 
@@ -90,17 +91,31 @@ Siehe Drs. 21/2006.
 ### Frage 8
 
 In einer Stellungnahme der Behörde für Umwelt und Energie bezüglich einer Ausweisung der Bergstedter Feldmark nördlich des Immenhorstwegs als Landschaftsschutzgebiet heißt es, dass dies „vor dem Hintergrund der Ausweisung neuer Naturschutzgebiete sowie der Prüfung neuer Flächen für die Schaffung von Wohnraum derzeit keine Priorität“ hat.
-8.1. Warum erfolgt die Planung des neuen Naturschutzgebietes mit einer höheren Priorität als ein Verfahren zur Unterschutzstellung der Bergstedter Feldmark?
-8.2. Wer genau hat diese Prioritäten wann festgesetzt?
 
-#### Antwort zu Frage 8
+### Frage 8.1
+
+Warum erfolgt die Planung des neuen Naturschutzgebietes mit einer höheren Priorität als ein Verfahren zur Unterschutzstellung der Bergstedter Feldmark?
+
+### Frage 8.2
+
+Wer genau hat diese Prioritäten wann festgesetzt?
+
+#### Antwort zu Fragen 8, 8.1 und 8.2
 
 Die Prioritätensetzung erfolgte aufgrund naturschutzfachlicher Aspekte im Oktober 2015 durch die für den Naturschutz zuständige Fachbehörde.
 
-8.3. Gibt es derzeit Planungen oder Überlegungen einzelner Dienststellen bezüglich der Inanspruchnahme von Teilflächen der Bergstedter Feldmark für die Schaffung von Wohnraum?
+### Frage 8.3
+
+Gibt es derzeit Planungen oder Überlegungen einzelner Dienststellen bezüglich der Inanspruchnahme von Teilflächen der Bergstedter Feldmark für die Schaffung von Wohnraum?
+
+#### Antwort zu Frage 8.3
 
 Damit hat sich der Senat nicht befasst.
 
-8.4. Wann kann mit der Prüfung eines Verfahrens zur Unterschutzstellung der Bergstedter Feldmark begonnen werden?
+### Frage 8.4
+
+Wann kann mit der Prüfung eines Verfahrens zur Unterschutzstellung der Bergstedter Feldmark begonnen werden?
+
+#### Antwort zu Frage 8.4
 
 Ein Zeitplan dazu ist noch nicht erstellt.

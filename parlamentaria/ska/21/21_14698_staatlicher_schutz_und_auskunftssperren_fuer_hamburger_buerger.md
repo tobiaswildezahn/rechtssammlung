@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64171"
@@ -76,7 +77,7 @@ Wie viele Personen in Hamburg haben zum 1. Oktober 2018 über eine gültige Ausk
 
 Wie verteilen sich diese Auskunftssperren auf die einzelnen Bezirke?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Zu den erfragten Daten siehe nachstehende Tabelle (Stand 01.10.2018):
 

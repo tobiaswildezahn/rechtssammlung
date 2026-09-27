@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19617"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69947"
@@ -87,7 +88,7 @@ MKW
 mg/kg  
 20.470  
 MP26C (6,0 – 7,7 m)  
-PAK  
+– PAK  
 mg/kg  
 0,248  
 3.280  
@@ -99,7 +100,7 @@ mg/kg
 KRB 097F (7,5 – 9,0  
 m)
 
-PCB  
+– PCB  
 mg/kg  
 0,0034  
 266,40  
@@ -112,31 +113,31 @@ mg/kg
 KRB 102E (5,0 – 7,0  
 m)
 
-PCDD/F (NATO/CCMS)  
+– PCDD/F (NATO/CCMS)  
 ng I-TEq/kg TM  
 u.d.B.  
 KRB 093H (9,3 – 10,0  
 m)
 
-BTEX  
+– BTEX  
 mg/kg  
 u.d.B.  
 KRB 46G (8,0 –  
 10,0m)  
-LHKW  
+– LHKW  
 mg/kg  
 u.d.B.  
 647,1  
 KRB 79F (8,0 – 9,0 m)
 
- Chlorbenzole  
+– Chlorbenzole  
 mg/kg  
 u.d.B.  
 1.200  
 KRB 093H (9,3 – 10,0  
 m)
 
- HCH  
+– HCH  
 mg/kg  
 u.d.B.  
 0,252  

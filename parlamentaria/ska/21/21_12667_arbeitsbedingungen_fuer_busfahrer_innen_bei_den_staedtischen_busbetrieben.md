@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 18
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61971"
@@ -274,13 +275,13 @@ Liegen beim Amt für Arbeitsschutz Beschwerden wegen Nichteinhaltung von Arbeits
 
 Im Amt für Arbeitsschutz liegen zu den genannten Unternehmen folgende Erkenntnisse zu Beschwerden über die Nichteinhaltung von Arbeitsschutzvorschriften vor:
 
- Für die VHH liegen keine Beschwerden vor
+– Für die VHH liegen keine Beschwerden vor
 
- Bei der HOCHBAHN gab es im Jahr 2015 eine Beschwerde über die Nichteinhal-
+– Bei der HOCHBAHN gab es im Jahr 2015 eine Beschwerde über die Nichteinhal-
 
 tung von Mindestpausenzeiten. Bei der daraufhin erfolgten Überprüfung waren keine Verstöße feststellbar
 
- Bei Jasper gab es Im Jahr 2017 jeweils eine Beschwerde wegen mangelhafter
+– Bei Jasper gab es Im Jahr 2017 jeweils eine Beschwerde wegen mangelhafter
 
 Meldepflichten bei Arbeitsunfällen und wegen fehlender Einbindung von Sicherheitsbeauftragten und Betriebsrat-Mitgliedern in die Arbeitsschutzorganisation. Den Beschwerden konnte nach einer Beratung durch das Amt für Arbeitsschutz abgeholfen werden.
 

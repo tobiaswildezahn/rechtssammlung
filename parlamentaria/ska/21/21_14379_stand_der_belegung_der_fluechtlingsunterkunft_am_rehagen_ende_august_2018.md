@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 23
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13794", "21/2108", "21/13261", "21/14073", "21/14071"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63801"
@@ -43,7 +44,7 @@ Wie viele Personen waren in der örU Am Rehagen Ende August 2018 untergebracht?
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Geschlecht Kinder und Jugendliche
 
@@ -257,7 +258,7 @@ Welche Angebote werden den Flüchtlingen zu jeweils welchen Zeiten in welchen R�
 
 Wie viele Ehrenamtliche sind eingesetzt und wie helfen sie?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 In den Gruppenräumen im Butterbauernstieg 29 finden verschiedene Angebote wie Krankengymnastik (montags und freitags jeweils von 9.00 – 10.00 Uhr), Deutschkurse (jeweils am Dienstag und Donnerstag von 10.00 – 11.30 Uhr sowie am Donnerstag von 15.30 – 17.00 Uhr), ein Café (dienstags von 16.00 – 19.00 Uhr) sowie eine mobile Fahrradwerkstatt auf dem Hof (freitags von 16.00 – 18.00 Uhr) statt.
 

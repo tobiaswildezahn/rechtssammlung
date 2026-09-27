@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 21
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52584"
@@ -83,7 +84,7 @@ Die 130 Wohnungen entstehen auf 6.500 m² – wer entscheidet über die Anzahl d
 
 Welche Möglichkeiten sieht der Senat beziehungsweise die zuständige Behörde, dass am Standort weniger Wohnungen entstehen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Entscheidung ist Teil und Ergebnis des Abwägungsprozesses im Bebauungsplanverfahren, an dem die Öffentlichkeit, die politischen Gremien, Dienststellen der öffentlichen Verwaltung sowie Träger öffentlicher Belange teilhaben. Im Rahmen dieses Abwägungs- und Planungsprozesses zu diesem Bebauungsplan soll über noch zu bestimmende Festsetzungen die maximal mögliche Bruttogeschossfläche festgeschrieben werden.
 

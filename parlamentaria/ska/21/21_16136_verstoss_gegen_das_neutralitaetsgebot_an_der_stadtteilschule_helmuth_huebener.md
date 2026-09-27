@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65718"
@@ -57,7 +58,7 @@ Wer hat den Beitrag auf der Schulhomepage veröffentlicht?
 
 Welche Mitglieder der Schulleitung haben zu welchem Zeitpunkt Kenntnis von dem Beitrag und seiner Veröffentlichung auf der Schulhomepage erhalten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Am 17. Oktober 2018 beschloss die Lehrerkonferenz die Veröffentlichung eines Beitrags mit dem offenen Brief auf der Homepage der Schule. Die Veröffentlichung wurde auf Veranlassung der Schulleiterin von demjenigen eingestellt, der für die Homepage der Schule zuständig ist.
 
@@ -78,7 +79,7 @@ Wie hat die Schulbehörde nach Kenntnisnahme reagiert? Insbesondere: Hat sie die
 
 Welche dienst- oder arbeitsrechtlichen oder sonstigen Maßnahmen wurden gegenüber den Verantwortlichen für die Veröffentlichung des Beitrages seitens der BSB ergriffen oder sollen noch ergriffen werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 
@@ -106,7 +107,7 @@ Ist der offene Brief oder der Beitrag der Homepage einzelnen Schülern, Schüler
 
 Wurden Lehrkräfte unter Druck gesetzt, den Brief mit zu unterschreiben, damit zum Beispiel das gesamte Kollegium den Brief unterschreibt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Nein.
 

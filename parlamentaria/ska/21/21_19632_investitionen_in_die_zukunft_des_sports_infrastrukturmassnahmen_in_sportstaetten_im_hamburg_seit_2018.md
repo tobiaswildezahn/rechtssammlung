@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6800", "21/11340", "21/17816", "21/18748", "21/13028", "21/13171", "21/13210", "21/13290", "21/13482", "21/13566", "21/13670", "21/14173", "21/14298", "21/14391", "21/14434", "21/14629", "21/14858", "21/15038", "21/15092", "21/15178"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69373"
@@ -41,13 +42,13 @@ Allein die Investitionen in öffentliche Sportanlagen, in Bau- und Sanierungsma�
 
 Schwerpunkte bei Ausbau und Modernisierung der Sportinfrastruktur sind
 
- der Neubau und die Modernisierung öffentlicher Sportanlagen,
+– der Neubau und die Modernisierung öffentlicher Sportanlagen,
 
- die Förderung des organisierten Sports im Rahmen des Sportfördervertrags der
+– die Förderung des organisierten Sports im Rahmen des Sportfördervertrags der
 
 Freien und Hansestadt Hamburg mit dem Hamburger Sportbund e.V. (HSB) und dem Hamburger Fußball-Verband e.V. (HFV) und
 
- der Neubau und die Modernisierung von Schulsporthallen an staatlichen Schulen.
+– der Neubau und die Modernisierung von Schulsporthallen an staatlichen Schulen.
 
 So wurden in den Jahren 2018 und 2019 37 Schulsporthallen saniert und weitere 32 neu gebaut. Von 2020 an werden nach aktueller Planung 95 Sporthallen neu entstehen und weitere 90 Hallen saniert werden.
 

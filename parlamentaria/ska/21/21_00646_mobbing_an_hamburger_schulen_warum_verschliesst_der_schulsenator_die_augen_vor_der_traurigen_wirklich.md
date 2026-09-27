@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 20
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7358", "20/8071"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48787"
@@ -150,13 +151,13 @@ Die Polizei Hamburg ist bereits seit dem Jahr 1982 im Rahmen des Präventionspro
 
 Seit dem Beginn des Schuljahres 2008/2009 sind für die Klassenstufen fünf bis acht folgende Unterrichtsinhalte fest vorgesehen:
 
- Klassenstufe 5: Opferprävention (Wie vermeide ich, Opfer zu werden?) (Wie und wo bekomme ich Hilfe?)
+– Klassenstufe 5: Opferprävention (Wie vermeide ich, Opfer zu werden?) (Wie und wo bekomme ich Hilfe?)
 
- Klassenstufe 6: Zeugen und Helfer (Wie helfe ich richtig?)
+– Klassenstufe 6: Zeugen und Helfer (Wie helfe ich richtig?)
 
- Klassenstufe 7: Gewalt gegen Personen und Sachen (Was ist Gewalt? Wie ermittelt die Polizei?)
+– Klassenstufe 7: Gewalt gegen Personen und Sachen (Was ist Gewalt? Wie ermittelt die Polizei?)
 
- Klassenstufe 8: Gewalt – und danach? (Welche rechtlichen Folgen kann eine Straftat haben?)
+– Klassenstufe 8: Gewalt – und danach? (Welche rechtlichen Folgen kann eine Straftat haben?)
 
 Das Phänomen Mobbing wird in den Präventionsunterrichten nicht als eigenständiger Komplex behandelt, es wird aber im Rahmen der oben genannten Unterrichtsinhalte thematisiert.
 

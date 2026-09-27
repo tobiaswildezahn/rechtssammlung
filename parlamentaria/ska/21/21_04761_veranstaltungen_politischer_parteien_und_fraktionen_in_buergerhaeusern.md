@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4403"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53184"
@@ -47,7 +48,7 @@ In welchen geförderten Bürgerhäusern fanden seit 2012 Veranstaltungen politis
 
 Welche Parteien haben diese Veranstaltungen durchgeführt? Bitte nach Jahren, Partei oder Fraktion und Veranstaltungsort aufführen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

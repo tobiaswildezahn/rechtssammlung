@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1038", "21/3545"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52425"
@@ -85,7 +86,7 @@ Gibt es Pläne, diesen Standort ganz oder teilweise aufzugeben?
 
 Gibt es Pläne, Lehrveranstaltungen, die bisher an diesem Standort durchgeführt werden, an einen anderen Standort zu verlagern oder ganz abzuschaffen? Wenn ja: Welche Lehrveranstaltungen sind das?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 

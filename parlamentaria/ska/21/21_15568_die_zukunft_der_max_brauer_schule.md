@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 20
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12597", "21/15104"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65058"
@@ -41,23 +42,23 @@ Gerade im Bereich Altona/Ottensen wurden in den letzten Jahren die Grundschulzü
 
 In diesem Kontext sind auch die Erweiterungsmöglichkeiten an der Max-Brauer- Schule geprüft worden. Dabei spielten unter anderem folgende Gründe eine Rolle:
 
- Die Grundschulabteilung der Max-Brauer-Schule musste bereits in 2018 Schüle-
+– Die Grundschulabteilung der Max-Brauer-Schule musste bereits in 2018 Schüle-
 
 rinnen und Schüler abweisen.
 
- Angesichts der steigenden Geburtenrate mit dem Wohnungsneubau im direkten
+– Angesichts der steigenden Geburtenrate mit dem Wohnungsneubau im direkten
 
 Umfeld der Schule werden weitere Schulplätze benötigt.
 
- Würde die Grundschulabteilung der Max-Brauer-Schule nicht ausgebaut werden,
+– Würde die Grundschulabteilung der Max-Brauer-Schule nicht ausgebaut werden,
 
 würde dies für die Kinder in Ottensen teilweise sehr lange Schulwege bedeuten, da die Nachbarschulen über keine zusätzlichen Aufnahmekapazitäten verfügen.
 
- In unmittelbarer Nähe der Max-Brauer-Schule ist kein für den Schulbau geeignetes
+– In unmittelbarer Nähe der Max-Brauer-Schule ist kein für den Schulbau geeignetes
 
 Gelände zu erwerben.
 
- Da an der Max-Brauer-Schule einige Gebäude zur Sanierung anstehen und die
+– Da an der Max-Brauer-Schule einige Gebäude zur Sanierung anstehen und die
 
 Grundstücksgröße insgesamt einen Zubau zulässt, besteht im Zuge einer Schulerweiterung die Möglichkeit, von der Schule benannte Defizite wie zum Beispiel die Mittagsversorgung, im Rahmen einer Neustrukturierung der Gebäude und des Geländes zu beheben.
 

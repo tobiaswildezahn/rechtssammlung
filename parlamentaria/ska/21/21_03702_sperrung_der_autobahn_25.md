@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52074"
@@ -43,11 +44,11 @@ Wo genau werden derzeit welche Arbeiten an der Autobahn 25 durchgeführt?
 
 Auf der A 25 wurden ab dem 14. März 2016 folgende zwei Maßnahmen durchgeführt:
 
- Brücke Randersweide: Der Spalt zwischen der Lärmschutzbrücke und der Auto-
+– Brücke Randersweide: Der Spalt zwischen der Lärmschutzbrücke und der Auto-
 
 bahnbrücke soll im Jahr 2016 mit Stahlblechen geschlossen werden. Diese sollen gleichzeitig als Wartungssteg dienen. Für die Fertigung der Stahlbleche ist ein detailliertes Aufmaß erforderlich. Diese örtlichen Aufmaßarbeiten wurden vom 14. bis zum 16. März 2016 durchgeführt.
 
- Maßnahme Brücke Schleusengraben: Am 17. und 18. März 2016 wurde die Bau-
+– Maßnahme Brücke Schleusengraben: Am 17. und 18. März 2016 wurde die Bau-
 
 werksprüfung nach DIN 1076 mittels eines Unterflurgerätes durchgeführt. Für diese Bauwerksprüfung waren umfangreiche Vorab-Reinigungsarbeiten notwendig. Dazu wurde eine Spezialreinigungsfirma beauftragt, die vom 14. bis zum 16. März 2016 das Brückenbauwerk gereinigt hat.
 

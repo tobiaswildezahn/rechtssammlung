@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49065"
@@ -45,7 +46,7 @@ Wie viele Studierende beziehungsweise ehemalige Studierende an a. der Hochschule
 
 In welcher Gesamthöhe belaufen sich die Nachforderungen der Studiengebühren an a. der Hochschule für bildende Künste, b. der Hochschule für Musik und Theater, c. der HafenCity Universität Hamburg, d. der Technischen Universität Hamburg-Harburg, e. der Hochschule für Angewandte Wissenschaften Hamburg, f. der Universität Hamburg?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 
@@ -65,7 +66,7 @@ Wie viele Nachforderungen in Bezug auf nicht gezahlte und nicht gestundete Studi
 
 Wie viele Nachforderungen in Bezug auf nicht gezahlte und nicht gestundete Studiengebühren wurden im Klageverfahren erledigt und wie viele befinden sich gegenwärtig im Klageverfahren? Bitte Auflistung differenziert nach Hochschule
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage 3.
 

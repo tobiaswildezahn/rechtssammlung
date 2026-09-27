@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4174"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53964"
@@ -49,7 +50,7 @@ Wie viele Flüchtlinge begannen zum 1. August 2016 eine Ausbildung? Bitte unter 
 
 Wie viele Flüchtlinge absolvieren derzeit insgesamt eine Ausbildung in Hamburg? Wie viele der Flüchtlinge in Ausbildung sind unbegleitete Minderjährige? Bitte unter Angabe der Branche sowie Größe der Ausbildungsbetriebe (Staffelung nach Anzahl der Mitarbeiter), des Lehrjahrs, des Herkunftslandes, des Alters und des Geschlechts der Auszubildenden auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Merkmal „Flüchtling“ und „unbegleiteter minderjähriger Flüchtling“ sowie Informationen über den Ausbildungsbetrieb werden in der Schuljahresstatistik nicht erhoben. Im Übrigen werden Zahlen zu den Auszubildenden, die zum 1. August 2016 eine Ausbildung beginnen, mit der Schuljahresstatistik 2016 im September 2016 erhoben.
 

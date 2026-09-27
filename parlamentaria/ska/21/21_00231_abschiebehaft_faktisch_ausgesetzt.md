@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10236", "20/12654", "20/12497"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48357"
@@ -123,7 +124,7 @@ Wie viele Abschiebungen wurden in den vergangenen Monaten seit 2011 vollzogen? B
 
 Wie viele Abschiebungen sind in den vergangenen Monaten seit 2011 gescheitert? Bitte nach (gescheiterten) Überstellungen nach dem Dubliner Übereinkommen und (gescheiterten) gewöhnlichen Abschiebungen in Heimatländer differenzieren und nach Jahren auflisten.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 2014  
 Jan  

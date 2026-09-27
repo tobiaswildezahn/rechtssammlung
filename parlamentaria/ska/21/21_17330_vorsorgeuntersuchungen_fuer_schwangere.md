@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66907"
@@ -43,7 +44,7 @@ Wie hoch ist der Anteil der werdenden Mütter, die die oben genannten Angebote i
 
 Wie hoch ist der Anteil der werdenden Mütter, die die oben genannten Angebote in Hamburg nicht genutzt haben, jährlich ab 2015?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Daten über die Untersuchungen, die im sogenannten Mutterpass vermerkt werden, werden im Rahmen der Perinatalerhebung in den Krankenhäusern dokumentiert und durch die Externe Qualitätssicherung Hamburg (EQS) ausgewertet und veröffentlicht. Die Daten der EQS-Jahresauswertungen zur Geburtshilfe beruhen auf allen in Hamburger Krankenhäusern dokumentierten Schwangerschaften und Geburten, auch die der nicht in Hamburg gemeldeten Frauen. Die Jahresauswertungen zur Geburtshilfe stehen wie andere bundesweite Pflichtprojekte im Internet zur Verfügung (www.eqs.de).
 

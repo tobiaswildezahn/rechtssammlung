@@ -5,7 +5,7 @@ wahlperiode: 21
 id: 53569
 titel: "Haftungsrisiko aus Bürgschaften und anderen Sicherheitsleistungen – Wie ist der Stand nach dem ersten Halbjahr 2016?"
 datum_anfrage: "2016-07-01"
-datum_drucksache: null
+datum_drucksache: "2016-07-08"
 urheber: ["Thilo Kleibauer"]
 fraktionen: ["CDU"]
 vorgang: 48953
@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2177", "19/2428"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53569"
@@ -24,7 +25,7 @@ generator: "ska_archiv 1.0"
 
 # Drs. 21/5101: Haftungsrisiko aus Bürgschaften und anderen Sicherheitsleistungen – Wie ist der Stand nach dem ersten Halbjahr 2016?
 
-> Schriftliche Kleine Anfrage und Antwort des Senats  
+> Schriftliche Kleine Anfrage des Abgeordneten Thilo Kleibauer (CDU) vom 01.07.16 und Antwort des Senats · Drucksache vom 08.07.2016  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/53569) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/53569/21_05101_haftungsrisiko_aus_buergschaften_und_anderen_sicherheitsleistungen_wie_ist_der_stand_nach_dem_ersten_halbjahr_2016)
 
 ## Einleitung für die Fragen

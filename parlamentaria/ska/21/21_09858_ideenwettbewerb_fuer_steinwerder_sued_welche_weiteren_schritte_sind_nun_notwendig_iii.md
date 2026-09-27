@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 28
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9826", "21/9837", "21/9595"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58671"
@@ -99,23 +100,23 @@ Wie viele realistische und zukunftsweisende Flächenentwicklungskonzepte mit Kos
 
 Die Kriterien des Ideenwettbewerbs haben die Konzepte der nachstehenden acht Teilnehmerinnen und Teilnehmer erfüllt. Sie haben daher die Möglichkeit erhalten, ein finales Konzept einzureichen:
 
- Raadgevend Ingenieursburo F. Koch B.V.
+– Raadgevend Ingenieursburo F. Koch B.V.
 
- Rhenus Midgard Hamburg GmbH
+– Rhenus Midgard Hamburg GmbH
 
- Sellhorn Ingenieurgesellschaft mbH Fraunhofer-Center für Maritime Logistik und
+– Sellhorn Ingenieurgesellschaft mbH Fraunhofer-Center für Maritime Logistik und
 
 Dienstleistungen CML
 
- C. Steinweg (Süd-West Terminal) GmbH & Co. KG
+– C. Steinweg (Süd-West Terminal) GmbH & Co. KG
 
- HPC Hamburg Port Consulting GmbH
+– HPC Hamburg Port Consulting GmbH
 
 Shanghai Zhenhua Heavy Industries Company (ZPMC) Germany GmbH on behalf of China Communications Construction Company Limited (CCCC)
 
- Arbeitsgemeinschaft Hamburger Lagerhalter und Quartiersleute GbR
+– Arbeitsgemeinschaft Hamburger Lagerhalter und Quartiersleute GbR
 
- SCHRAMM Ports & Logistics GmbH
+– SCHRAMM Ports & Logistics GmbH
 
 b. In wie vielen und welchen Konzepten wurde angeboten, die Infrastruktur selbst herzurichten und die Kosten dafür zu tragen?
 

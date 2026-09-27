@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 9
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10780"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64471"
@@ -41,19 +42,19 @@ Vor diesem Hintergrund frage ich den Senat:
 
 Nach dem Hamburgischen Denkmalschutzgesetz sind Denkmale Objekte, deren „Erhaltung wegen der geschichtlichen, künstlerischen oder wissenschaftlichen Bedeutung oder zur Bewahrung charakteristischer Eigenheiten des Stadtbildes im öffentlichen Interesse liegt“. Um unter den vorhandenen Grabstätten auf dem Friedhof Ohlsdorf die denkmalwürdigen zu bestimmen, wurden die Kriterien zur historischen und künstlerischen Bedeutung präzisiert und lauten:
 
-• Die bestatteten Personen sind von hohem Interesse für die Geschichte Hamburgs oder darüber hinaus, etwa für die Geschlechter-, Kultur-, Politik-, Rechts-, Religions-, Sozial-, Wirtschafts- oder Wissenschaftsgeschichte.
+– Die bestatteten Personen sind von hohem Interesse für die Geschichte Hamburgs oder darüber hinaus, etwa für die Geschlechter-, Kultur-, Politik-, Rechts-, Religions-, Sozial-, Wirtschafts- oder Wissenschaftsgeschichte.
 
-• Die Grabstätten veranschaulichen in besonders eindrücklicher Weise geschichtliche Ereignisse oder Entwicklungen.
+– Die Grabstätten veranschaulichen in besonders eindrücklicher Weise geschichtliche Ereignisse oder Entwicklungen.
 
-• Die Grabstätten sind von einem bedeutenden Künstler oder einer bedeutenden Künstlerin gestaltet und sind für das Verständnis des Gesamtwerks der Künstlerin beziehungsweise des Künstlers wichtig.
+– Die Grabstätten sind von einem bedeutenden Künstler oder einer bedeutenden Künstlerin gestaltet und sind für das Verständnis des Gesamtwerks der Künstlerin beziehungsweise des Künstlers wichtig.
 
-• Die Gestaltung der Grabstätten ist besonders charakteristisch für die Entstehungszeit und dokumentiert so den vorherrschenden Zeitstil im Bestattungswesen.
+– Die Gestaltung der Grabstätten ist besonders charakteristisch für die Entstehungszeit und dokumentiert so den vorherrschenden Zeitstil im Bestattungswesen.
 
-• Die Gestaltung der Grabstätten ist ihrer Zeit voraus und dokumentiert so die Entwicklungen im Bestattungswesen.
+– Die Gestaltung der Grabstätten ist ihrer Zeit voraus und dokumentiert so die Entwicklungen im Bestattungswesen.
 
-• Die Grabstätten tragen besonders zur Veranschaulichung von Geschichte oder Gestaltungsprinzipien des Friedhofs Ohlsdorf insgesamt bei.
+– Die Grabstätten tragen besonders zur Veranschaulichung von Geschichte oder Gestaltungsprinzipien des Friedhofs Ohlsdorf insgesamt bei.
 
-• Die Grabstätten verfügen über eine Gestaltung von besonderer Qualität, die sowohl in der Konzeption, etwa in einer besonders gelungenen Entsprechung von Inhalt und Form, als auch in der handwerklichen Ausführung liegen kann.
+– Die Grabstätten verfügen über eine Gestaltung von besonderer Qualität, die sowohl in der Konzeption, etwa in einer besonders gelungenen Entsprechung von Inhalt und Form, als auch in der handwerklichen Ausführung liegen kann.
 
 Bei der Beurteilung der Gestaltung eines Grabmals sind all seine Merkmale zu berücksichtigen: Stellung auf der Grabstätte, Form, Material, Oberflächenbehandlung, Schriftgestaltung, Ornament/Ikonografie, Text, Einfassungen sowie die über das einzelne Grabmal hinausweisenden Aspekte der Lage auf dem Friedhof und des Zusammenhangs mit anderen Grabstätten. Darüber hinaus muss angesichts einer Vielzahl von vergleichbaren Grabmalen, wie sie gerade bei den Anlagen der Nachkriegsjahrzehnte zu erwarten ist, eine Auswahl anhand der Kriterien der Seltenheit und der vollständigen und authentischen Erhaltung getroffen werden.
 

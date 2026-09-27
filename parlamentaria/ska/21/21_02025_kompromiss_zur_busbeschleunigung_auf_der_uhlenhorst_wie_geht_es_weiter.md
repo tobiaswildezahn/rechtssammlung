@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50273"
@@ -35,21 +36,21 @@ Der gefundene Kompromiss besteht im Kern aus folgenden Beschlüssen:
 
 ## Einleitung für die Antworten des Senats
 
- Es können sechs neue Bäume gepflanzt werden am Hofweg und in der Papenhuder Straße.
+– Es können sechs neue Bäume gepflanzt werden am Hofweg und in der Papenhuder Straße.
 
- Die Radwege werden auf den Fußwegen zurückgebaut, für eine bessere Qualität für die Fußgänger.
+– Die Radwege werden auf den Fußwegen zurückgebaut, für eine bessere Qualität für die Fußgänger.
 
- Der Zebrastreifen wird direkt vor die Kita Papenhuder Straße 26b verlegt.
+– Der Zebrastreifen wird direkt vor die Kita Papenhuder Straße 26b verlegt.
 
- Im Hofweg werden beidseitig Radschutzstreifen installiert.
+– Im Hofweg werden beidseitig Radschutzstreifen installiert.
 
- In der Papenhuder Straße wird stadteinwärts ein Radstreifen installiert und zusätzlich auf dem Radstreifen ein absolutes Halteverbot – damit die Busse schneller durchkommen. Stadteinwärts befahren 5.000 Fahrzeuge täglich die Papenhuder Straße, sodass hier ein Radschutzstreifen zwingend notwendig ist.
+– In der Papenhuder Straße wird stadteinwärts ein Radstreifen installiert und zusätzlich auf dem Radstreifen ein absolutes Halteverbot – damit die Busse schneller durchkommen. Stadteinwärts befahren 5.000 Fahrzeuge täglich die Papenhuder Straße, sodass hier ein Radschutzstreifen zwingend notwendig ist.
 
- In der Papenhuder Straße Richtung Winterhude wird der Radverkehr im Mischverkehr auf die Straße gelenkt. In Fahrtrichtung Winterhude sind es täglich auch nur 1.000 Fahrzeuge, sodass der LSBG sich für diese Art der Radführung deutlich ausgesprochen hat und sie auch für sicher hält.
+– In der Papenhuder Straße Richtung Winterhude wird der Radverkehr im Mischverkehr auf die Straße gelenkt. In Fahrtrichtung Winterhude sind es täglich auch nur 1.000 Fahrzeuge, sodass der LSBG sich für diese Art der Radführung deutlich ausgesprochen hat und sie auch für sicher hält.
 
- Mindestens vier Ladezonen für die Gewerbetreibenden sorgen zusätzlich für einen optimierten Verkehrsfluss – insbesondere für das flüssigere Durchkommen der Busse.
+– Mindestens vier Ladezonen für die Gewerbetreibenden sorgen zusätzlich für einen optimierten Verkehrsfluss – insbesondere für das flüssigere Durchkommen der Busse.
 
- Weiterhin werden zusätzliche Fahrradbügel optimiert aufgestellt, Fahrradhäuschen geplant und eine Stadtrad-Station ist im Plan berücksichtigt (Mundsburger Brücke).
+– Weiterhin werden zusätzliche Fahrradbügel optimiert aufgestellt, Fahrradhäuschen geplant und eine Stadtrad-Station ist im Plan berücksichtigt (Mundsburger Brücke).
 
 Der gefundene Kompromiss wird von den Mitgliedern der Bezirksversammlung Hamburg Nord unterstützt.
 
@@ -89,6 +90,6 @@ Wann soll mit der Umsetzung des gefundenen Kompromisses begonnen werden, was wir
 
 Welche der Maßnahmen könnten beziehungsweise sollen sofort vorab umgesetzt werden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Aufgrund des aktuellen Planungsstandes sind detaillierte Angaben zu Beginn der Bauarbeiten und zu den Baukosten derzeit noch nicht möglich. Zur Umsetzung der Maßnahmen müssen nach Abschluss der Planung die haushaltsrechtlichen Voraussetzungen geschaffen werden. Vor diesem Hintergrund ist es weder möglich noch ist es sinnvoll, einzelne Maßnahmen vorzuziehen.

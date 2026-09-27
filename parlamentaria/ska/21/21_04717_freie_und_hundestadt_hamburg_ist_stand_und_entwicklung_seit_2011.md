@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 21
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14567", "20/14605", "20/4573", "20/11364"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53128"
@@ -86,7 +87,7 @@ Wie viele Hundeauslaufflächen nach § 8 Absatz 3 HundeG gibt es aktuell in Hamb
 
 Wie viel Quadratmeter umfasst aktuell jeweils die Summe aller Hundeauslaufflächen nach § 8 Absatz 3 HundeG in den Bezirken? (Bitte für jeden Bezirk einzeln ausweisen.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Zu den Standorten und der Größe siehe http://www.hamburg.de/hundegesetz/ beziehungsweise http://www.hamburg.de/contentblob/530514/data/hundeauslaufzonengesamt-liste-bezirke.pdf.
 
@@ -156,7 +157,7 @@ Wie haben sich die bezirklichen, finanziellen Mittel für die Bewirtschaftung de
 
 Wie haben sich die finanziellen Mittel der zuständigen Behörden für die Bewirtschaftung der Hundeauslaufflächen seit 2011 im Plan, Ist und Soll entwickelt? (Bitte jahresweise und für die einzelnen Behörden aufschlüsseln.)
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 In den Bezirken werden keine Mittel für die Bewirtschaftung von Hundeauslaufflächen veranschlagt. Die Kosten für die Unterhaltung der Flächen werden aus den Mitteln der jeweils für die zu unterhaltende Fläche vorgesehenen (Rahmen-)Zuweisung der
 

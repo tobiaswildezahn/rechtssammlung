@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51622"
@@ -66,7 +67,7 @@ Im Herbst 2014 wurde bekannt, dass der Bauherr das Bezirksamt Eimsbüttel vor de
 
 Gibt es darüber hinaus noch laufende Verfahren, deren Ergebnisse den Kostenanteil beziehungsweise die Kostensumme für den Steuerzahler erhöhen könnten? Wenn ja, wann ist hier mit einem Abschluss und damit mit einem endgültigen Ergebnis zu rechnen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Außer dem noch nicht beendeten Amtshaftungsprozess ist – trotz des vollständigen Rückbaus – noch eine Nachbarklage mit dem Ziel einer Ersatzvornahme zur Beseitigung des Schwimmbads anhängig. Darüber hinausgehende Erkenntnisse liegen der zuständigen Behörde nicht vor.
 
@@ -78,7 +79,7 @@ Die Pool-Posse wurde durch Fehler der Verwaltung ausgelöst. Hat es hierzu in de
 
 Der durch das Bezirksamt Eimsbüttel herbeigeführte Kompromiss zur Kostenteilung des Rückbaus stand im Jahr 2014 stark in der öffentlichen Kritik. Welche Konsequenzen haben Senat und Bezirksamt aus dem Vorgehen gezogen, um Vergleichbares in Zukunft zu verhindern? Bitte detailliert und ohne Verweis auf andere Drucksachen darstellen.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Das Bezirksamt Eimsbüttel bewertet den Vorgang als besonders gelagerten Ausnahmefall. Der Senat hat sich damit nicht befasst.
 

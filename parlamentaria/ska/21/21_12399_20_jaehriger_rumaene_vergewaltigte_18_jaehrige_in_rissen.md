@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61691"
@@ -45,15 +46,15 @@ Der Senat sieht davon ab, Informationen zum Sachverhalt, insbesondere zum Tather
 
 Zu den von der Polizei im Zusammenhang veröffentlichten Pressemitteilung siehe
 
- https://www.presseportal.de/blaulicht/pm/6337/3870306 (180218-3. Zeugenaufruf
+– https://www.presseportal.de/blaulicht/pm/6337/3870306 (180218-3. Zeugenaufruf
 
 nach Sexualdelikt in Hamburg-Rissen)
 
- https://www.presseportal.de/blaulicht/pm/6337/3874405 (180222-3. Öffentlichkeits-
+– https://www.presseportal.de/blaulicht/pm/6337/3874405 (180222-3. Öffentlichkeits-
 
 fahndung nach Sexualdelikt in Hamburg-Rissen)
 
- https://www.presseportal.de/blaulicht/pm/6337/3874703 (180223-1. Tatverdächti-
+– https://www.presseportal.de/blaulicht/pm/6337/3874703 (180223-1. Tatverdächti-
 
 ger nach Öffentlichkeitsfahndung ermittelt und dem Haftrichter zugeführt)
 

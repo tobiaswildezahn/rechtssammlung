@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56972"
@@ -53,7 +54,7 @@ Am 24.02.2017 soll es zu einer Informationsveranstaltung zur Zukunft des HdJ Teg
 
 Wer hat zu dieser Veranstaltung eingeladen und warum wurden die Fraktionen der Bezirksversammlung Wandsbek nicht über dieses Treffen unterrichtet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es hat keine Informationsveranstaltung zur Zukunft des HdJ Tegelsbarg gegeben. Am
 24.02.2017 hat das Bezirksamt Wandsbek während der „Kinder- und Jugendkonferenz Alstertal“, die regelhaft zweimal im Jahr abgehalten wird, über die Planungen zur Erweiterung des HdJ (siehe Vorbemerkung) berichtet. Dies war ein Tagesordnungspunkt von mehreren. Die Konferenz fand in der Zeit von 12 Uhr bis 14 Uhr in den Räumlichkeiten des Bezirksamtes am Wenzelplatz 7 statt. Eingeladen waren soziale Einrichtungen aus dem Stadtteil Alstertal.
@@ -68,7 +69,7 @@ Was plant der Senat beziehungsweise die zuständige Behörde genau mit dem HdJ T
 
 Welche aktuellen Angebote werden in Zukunft nicht mehr angeboten und aus welchen Gründen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung. Das Bezirksamt Wandsbek plant, betriebliche Änderungen infolge der Freistellungen so gering wie möglich zu halten. Alle Angebote sollen nach Möglichkeit weiter fortgeführt werden. Im Übrigen siehe Antwort zu 7.
 
@@ -80,7 +81,7 @@ Wieso wurden einzelne Mitarbeiter und langjährige Ehrenamtliche plötzlich frei
 
 Woraus resultieren die vom Bezirk genannten „dringend erforderlichen personellen Veränderungen“?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung. Eine Freistellung von Ehrenamtlichen hat es nicht gegeben.
 

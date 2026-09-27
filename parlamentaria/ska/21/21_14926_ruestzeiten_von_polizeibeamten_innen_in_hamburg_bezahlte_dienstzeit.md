@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64379"
@@ -104,7 +105,7 @@ Welche Maßnahmen ergreift der Senat, um das Auf- und Abrüsten in der vorgesehe
 
 Inwiefern erfolgt eine Kontrolle beziehungsweise Evaluation der getroffenen Maßnahmen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 1. Maßnahmen im Sinne der Fragestellungen sind darüber hinaus nicht erforderlich.
 

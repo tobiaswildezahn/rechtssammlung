@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48975"
@@ -49,7 +50,7 @@ Aus wie vielen Mitgliedern soll der neue noch zu wählende Integrationsbeirat in
 
 Wann erfolgt die Wahl, wann die konstituierende Sitzung?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

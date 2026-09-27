@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48290"
@@ -89,6 +90,6 @@ b) Wenn nein, bitte für die jeweiligen Preise, Gebühren oder sonstigen Entgelt
 
 Falls die Frage 3. derzeit nicht vom Senat beantwortet werden kann, wann wird der Senat hierzu auskunftsfähig sein?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Behörden befassen sich regelmäßig im Rahmen ihrer Zuständigkeiten mit den Angelegenheiten der öffentlichen Einrichtungen und insofern auch mit den Preisen, Gebühren und Entgelten für deren Dienstleistungen. Ob, zu welchem Zeitpunkt und gegebenenfalls in welchem Umfang es im Zusammenhang mit dem aktuellen Tarifergebnis oder aufgrund anderer Kostenentwicklungen zu einer Anpassung von Preisen, Gebühren oder Entgelten kommt, ist derzeit nicht absehbar.

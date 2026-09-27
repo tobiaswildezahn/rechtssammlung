@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10298"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59422"
@@ -57,7 +58,7 @@ Ist dem Senat bekannt, dass Doppelkontrollen durch die unzureichende Verzahnung 
 
 Plant der Senat die Möglichkeit der Doppelkontrolle zu unterbinden? Wenn ja, wann und wie soll dies erfolgen? Wenn nein, warum plant der Senat keine Maßnahmen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Grundsätzlich werden aufgrund der entsprechenden gesetzlichen Vorgaben von den oben angeführten Fachbehörden Einfuhrkontrollen bei Sendungen in unterschiedlicher Ausprägung (Dokumentenprüfung, Identitätskontrolle, Warenuntersuchung) durchgeführt. Lediglich der Zoll kontrolliert sämtliche aus Drittländern verbrachten Sendungen.
 

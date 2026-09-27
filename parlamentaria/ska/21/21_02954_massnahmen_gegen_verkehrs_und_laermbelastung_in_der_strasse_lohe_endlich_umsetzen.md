@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51277"
@@ -63,11 +64,11 @@ gewicht unterschieden. Motorräder werden nicht gesondert erfasst. Hinweise auf 
 
 Bei der letzten Zählung in der Straße Lohe haben sich folgende Werte ergeben:
 
- Mittwoch, 8. April 2015, Lohe nördlich Duvenstedter Damm: circa 12.700 Kfz/
+– Mittwoch, 8. April 2015, Lohe nördlich Duvenstedter Damm: circa 12.700 Kfz/
 
 24Std. mit circa 4 Prozent Schwerverkehrsanteil.
 
- Mittwoch, 8. April 2015, Lohe nördlich Duvenstedter Damm: 424 Radfahrer in der
+– Mittwoch, 8. April 2015, Lohe nördlich Duvenstedter Damm: 424 Radfahrer in der
 
 Zeit von 6 Uhr bis 19 Uhr.
 
@@ -79,7 +80,7 @@ Wie häufig werden an der Straße Lohe Geschwindigkeitsmessungen durch die zust�
 
 Wann hat die zuständige Fachbehörde zuletzt eine Geschwindigkeitsmessung an der Straße Lohe vorgenommen, auf welcher Höhe wurde die Messung genau vorgenommen, wie viele Geschwindigkeitsüberschreitungen wurden dabei festgestellt und welche Strafen wurden jeweils verhängt (bitte den genauen Messzeitraum angeben)?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Polizei führt Geschwindigkeitsmessungen in der Straße Lohe anlassbezogen durch. Die letzte repressive Messung wurde am Mittwoch, den 30. Dezember 2015 in der Zeit von 15.28 bis 17 Uhr, Fahrtrichtung stadtauswärts in Höhe Hausnummer 58 durchgeführt. Es wurden insgesamt 76 Verwarngeldanzeigen gefertigt und Verwarngelder von 15 bis 55 Euro verhängt. Es gab keinen Verstoß im Bußgeldbereich.
 

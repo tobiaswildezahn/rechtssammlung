@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 17
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48873"
@@ -79,6 +80,6 @@ Hat der Senat beziehungsweise die zuständige Behörde Erkenntnisse, ob es bei e
 
 Gibt es seitens des Senats beziehungsweise der zuständigen Behörde eine Einschätzung beziehungsweise Prognose, dass sich mit dem Kollektiven Zentrum (koZe), neben der Roten Flora, ein weiteres autonomes Zentrum in besetzten Räumen in Hamburg zu etablieren droht? Wenn ja, welche Gefahren gehen nach Einschätzung des Senats beziehungsweise der zuständigen Behörde davon aus? Gibt es derzeit insbesondere Hinweise auf ein Verbarrikadieren oder Ähnliches?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Am 15. Juni 2015 hat eine Begehung unter anderem mit Vertretern des Landesbetriebs Immobilienmanagement und Grundvermögen und des Investors stattgefunden, bei der allen Teilnehmern Zugang zu allen Räumen gewährt wurde und alle erforderlichen Maßnahmen insbesondere im Hinblick auf die Feststellung der aktuellen gebäudetechnischen Situation und die Untersuchung der Gebäudesubstanz wie geplant durchgeführt werden konnten. Im Übrigen beobachten und bewerten die Sicherheitsbehörden fortlaufend die Lage und gewährleisten im Rahmen der zugewiesenen Aufgaben und der rechtlichen Voraussetzungen die öffentliche Sicherheit und Ordnung. Eine weitergehende Beantwortung der Fragen ließe Rückschlüsse auf das polizeitaktische Vorgehen zu und würde die Wirksamkeit polizeilichen Handelns stark einschränken. Zur Aufrechterhaltung der Funktionsfähigkeit der Polizei als Strafverfolgungs- und Gefahrenabwehrbehörde sieht der Senat von einer weiteren Beantwortung aus Gründen des Staatswohls ab. Darüber hinaus beantwortet der Senat hypothetische Fragen grundsätzlich nicht.

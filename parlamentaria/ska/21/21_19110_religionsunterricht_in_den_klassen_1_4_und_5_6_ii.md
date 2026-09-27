@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12800", "21/16601", "21/10800"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68804"
@@ -57,7 +58,7 @@ Wann und wie wurden für das Schuljahr 2019/2020 die Eltern der ersten und fünf
 
 Welche Alternativen wurden den Eltern für ihre Kinder jeweils angeboten? Der Senat verweist in seiner Antwort auf die erste SKA (Drs. 21/12800) ausdrücklich darauf, dass ein Rechtsanspruch auf ein Alternativfach nicht bestehe, die Eltern jedoch ein „alternatives Angebot nach Entscheidung der einzelnen Schule“ erhielten. (Hier kann in der Antwort kategorisiert werden, zum Beispiel Betreuung, Teilnahme am Fachunterricht einer anderen Klasse.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zur Frage der Information der Sorgeberechtigten über den Religionsunterricht siehe Drs. 21/10800. Wie jede einzelne Schule diesbezüglich verfährt, wird durch die für Bildung zuständige Behörde nicht regelhaft erfasst.
 

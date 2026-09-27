@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12383"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62120"
@@ -57,7 +58,7 @@ Auf welcher – rechtlichen und/oder anderen – Grundlage ist der Runde Tisch v
 
 Wann und wie oft wird der Runde Tisch noch tagen? Welche weiteren Termine stehen schon fest?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung. Die weitere Terminplanung steht noch nicht fest.
 
@@ -69,7 +70,7 @@ Aus welchen Mitteln und in welcher Höhe setzt sich die Finanzierung des Projekt
 
 Liegen Pläne zur Aufstockung der Finanzierung für den anstehenden neuen Haushalt vor? Wenn ja, in welcher Höhe?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Sitzungen wurden in enger Kooperation mit den gastgebenden Institutionen organisiert. Angefallene Kosten wurden aus Mitteln der zuständigen Behörde zur Aufarbeitung des kolonialen Erbes Hamburgs finanziert. Derzeit gibt es kein festes Budget für den Runden Tisch Koloniales Erbe, eine Aufstockung der Finanzierung ist nicht geplant.
 

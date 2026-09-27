@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18662", "21/17722", "21/14780", "21/14998", "21/18574", "21/11567", "21/9901", "21/15997", "21/17550"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68390"
@@ -233,11 +234,11 @@ In wie vielen der unter 4. fallenden Fälle und für jeweils welchen Zeitraum wu
 
 Landstromversorgungen pro Jahr:
 
- 2017: neun Anläufe, 74 h,
+– 2017: neun Anläufe, 74 h,
 
- 2018: 21 Anläufe, 146 h,
+– 2018: 21 Anläufe, 146 h,
 
- 2019: zwölf Anläufe, 117 h.
+– 2019: zwölf Anläufe, 117 h.
 
 Im Übrigen siehe Drs. 21/18662 und Drs. 21/17722.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4174", "20/10994", "21/14972", "21/18643"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68637"
@@ -55,7 +56,7 @@ Wie viele Frauen und Trans*frauen sind nach Kenntnis des Senats durch Gewaltanwe
 
 Wie viele versuchte Tötungen und wie viele versuchte Morde an Frauen und Trans*frauen durch ihren aktuellen oder ehemaligen Partner gab es in Hamburg im Jahr 2018 und im laufenden Jahr?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Polizei erfasst Straftaten gemäß dem Straftatenkatalog der Richtlinien für die Erfassung und Verarbeitung der Daten in der Polizeilichen Kriminalstatistik (PKS).
 

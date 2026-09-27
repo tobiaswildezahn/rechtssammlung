@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 32
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7966", "21/11325"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61966"
@@ -132,17 +133,17 @@ Seit Einführung des nachfrageorientierten Kita-Gutschein-Systems in Hamburg zum
 
 Die Träger der Kitas in Eidelstedt sind die Folgenden:
 
- Kitawerk Niendorf-Norderstedt
+– Kitawerk Niendorf-Norderstedt
 
- Elbkinder Vereinigung Hamburger Kitas gGmbH
+– Elbkinder Vereinigung Hamburger Kitas gGmbH
 
- Stiftung Kindergärten Finkenau
+– Stiftung Kindergärten Finkenau
 
- Hamburger Schulverein von 1875 e.V.
+– Hamburger Schulverein von 1875 e.V.
 
- SVE Hamburg Bildungspartner gGmbH
+– SVE Hamburg Bildungspartner gGmbH
 
- Hort Altonaer Straße e.V.
+– Hort Altonaer Straße e.V.
 
 ### Frage 7
 
@@ -174,7 +175,7 @@ Wo werden in den nächsten zehn Jahren neue Kitas wann fertiggestellt werden? We
 
 Wie viele Plätze werden diese Kitas jeweils haben? Bitte aufschlüsseln nach Krippen- und Elementarbereich.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Der für Kindertagesbetreuung zuständigen Behörde sind nachfolgende Planungen bekannt:
 
@@ -315,7 +316,7 @@ Mit welchem weiteren Bedarf an zusätzlichen Grundschulplätzen rechnet der Sena
 
 Mit welchem weiteren Bedarf an zusätzlichen Grundschulplätzen rechnet der Senat für Eidelstedt insgesamt bis 2020 und bis 2025?
 
-#### Antwort zu Fragen 21 bis 22
+#### Antwort zu Fragen 21 und 22
 
 Die zuständige Behörde geht unter der Voraussetzung, dass nicht nur die größeren Bauvorhaben (Hörgensweg, Duvenacker, Furtweg) sondern auch die zusätzlichen kleineren Bauvorhaben realisiert werden, von circa 40 bis 45 schulpflichtigen Kindern pro Jahrgang aus. Das entspricht in den Klassenstufen 1 bis 4 (Grundschule) circa 160 bis 180 Schülerinnen und Schülern. 40 bis 45 Schülerinnen und Schülern entsprechen zwei Klassen pro Jahrgang. Die dafür notwendigen Klassenräume stehen in den fünf Grundschulen zur Verfügung.
 

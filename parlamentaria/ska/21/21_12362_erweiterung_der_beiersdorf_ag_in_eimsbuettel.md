@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 23
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11822", "21/11976"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61652"
@@ -82,7 +83,7 @@ Laut Vertrag stellt das „11 ha große Kleingartengebiet“ sowohl „ein wicht
 
 Waren die zwölf Hektar Kleingartenfläche oder Teile davon Ausgleichsflächen? Wenn ja, wie viel Hektar und für was?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Kaufvertrag trifft zur zukünftigen Entwicklung der Fläche keine Aussagen, um den Plangeber, die Bezirksversammlung Eimsbüttel, nicht zu präjudizieren. Auch stehen die tatsächlichen Erweiterungsflächen noch nicht fest. Zu der Freiraumversorgung siehe Drs. 21/11976. Bei den Kleingartenflächen handelt es sich nicht um Ausgleichsflächen gemäß Bundesnaturschutzgesetz (BNatSchG).
 

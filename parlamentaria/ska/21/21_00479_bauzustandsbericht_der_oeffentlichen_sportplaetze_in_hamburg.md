@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 21
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48630"
@@ -55,7 +56,7 @@ Wann ist mit einer Veröffentlichung des nächsten Berichtes (Bauzustand Sportfl
 
 Aus welchem Grund wurde von der Möglichkeit Abstand genommen, jährlich über den Bauzustand der Sportflächen zu berichten? Traten in diesem Zusammenhang Probleme auf? Wenn ja, welche, und konnten diese Probleme gelöst werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Aus Kapazitätsgründen wird eine Auswertung über die Zustandsentwicklung der Sportflächen nur alle zwei Jahre durchgeführt. Die Ergebnisse werden voraussichtlich noch im 2. Quartal 2015 in tabellarischer Form im Informationsregister veröffentlicht.
 

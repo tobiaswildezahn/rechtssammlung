@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58487"
@@ -67,7 +68,7 @@ Wie hoch war das Jahresergebnis von Dataport im Jahr 2016 und in welcher Höhe w
 
 Sofern das Jahresergebnis 2016 von dem im Wirtschaftsplan erwarteten Ergebnis von −1,5 Millionen Euro abweicht: Was waren die einzelnen Gründe für diese Abweichung?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Das Jahresergebnis 2016 betrug −5,9 Millionen Euro. Die Erstanwendung des Bilanzrichtlinie-Umsetzungsgesetzes (BilRUG) erforderte gemäß Wirtschaftsprüfungsgesellschaft die Umstellung der Abzinsung der Beihilferückstellungen vom Zehn-Jahres- (4,01 Prozent) auf den Sieben-Jahresdurchschnittszinssatz (3,24 Prozent). Dadurch steigt der Aufwand für die Zuführung zur Beihilferückstellung einmalig um 5,1 Millionen Euro.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50241"
@@ -43,7 +44,7 @@ Wie stellt sich das Kriminalitätslagebild in den Stadtteilen Langenhorn und Wil
 
 Wie viele Verstöße gegen das BTM-Gesetz wurden in den Jahren 2013 und 2014 in Langenhorn beziehungsweise Wilhelmsburg festgestellt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

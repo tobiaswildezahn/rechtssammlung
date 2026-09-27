@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 31
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12431", "21/3533", "20/2902"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58068"
@@ -71,7 +72,7 @@ Welche Ansprüche (insbesondere Schadensersatz, Rückforderung von gezahlten Abf
 
 Werden derzeit darüber hinaus weitere Ansprüche gegen frühere und aktuelle Mitglieder des Vorstands und Aufsichtsrats der HSH Nordbank geprüft? Falls ja, welche Ansprüche und gegenüber welchen Personen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die HSH hat hierzu mitgeteilt, dass ausschließlich Verfahren gegen frühere Vorstandsmitglieder geführt werden und sie im Hinblick auf die Vertraulichkeit der laufenden Verhandlungen davon absieht, zu den Verfahren und den zugrundeliegenden Ansprüchen Stellung zu nehmen. Im Übrigen siehe Drs. 20/12431 und 21/3533.
 

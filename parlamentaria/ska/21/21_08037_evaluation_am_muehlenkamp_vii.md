@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7764", "21/7229", "21/7244", "21/7403"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56703"
@@ -91,7 +92,7 @@ Welche Fahrzeiten ergaben sich für die für die Busse der Linien M6 und M25 fü
 
 Welche Fahrzeiten ergaben sich für die Busse der Linie M6 für die Kalenderwochen 10 bis 14 im Jahr 2015 sowie die Kalenderwochen 38/39 und 48 bis 50 im Jahr 2016 für den Streckabschnitt Goldbekplatz – Semperstraße in beide Richtungen? Bitte nach Stunden und KWs sowie dem Gesamtdurchschnitt über alle Busse aufschlüsseln.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Fahrzeiten sind den Anlagen 1 und 2 zu entnehmen. Hierzu ist anzumerken, dass die Kalenderwochen (KW) 10 und 11 im Jahr 2015 in den Schulferien lagen und daher für statistische Fahrzeitauswertungen nicht repräsentativ sind. Ebenso werden in der Regel die KW 48 bis 50 nicht für statistische Fahrzeitauswertungen herangezogen, da in der Vorweihnachtszeit ein stark erhöhtes Verkehrsaufkommen festzustellen ist, welches ebenfalls nicht repräsentativ ist. Für die Vorher-/Nachherbetrachtung der Evaluierung am Mühlenkamp war des Weiteren nur die Linie 6 maßgeblich und auch nur in der Stundengruppe Mo. – Fr. von 7 – 20 Uhr (siehe auch Drs. 21/7229).
 

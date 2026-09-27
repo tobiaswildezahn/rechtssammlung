@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 52621
 seiten: 7
 fragen: 9
-einzelfragen: 10
-antwortbloecke: 8
+einzelfragen: 11
+antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8481", "21/7590"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57498"
@@ -47,7 +48,7 @@ Wie viele Mitarbeiter sind derzeit beim gemeinsamen Arbeitgeberservice beschäft
 
 Handelt es sich bei den Mitarbeitern ausschließlich um Vermittler beziehungsweise wie teilen sich die Tätigkeiten zwischen den Mitarbeitern auf?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die 191 Mitarbeiterinnen und Mitarbeiter verteilen sich nach den Tätigkeiten bei Agentur und Jobcenter wie folgt:
 
@@ -78,9 +79,12 @@ Arbeitsvermittler/in Arbeitgeberservice
 ### Frage 3
 
 Wie viele Fälle wurden durch den gemeinsamen Arbeitgeberservice im Zeitraum 2013 bis 2017 bearbeitet? Bitte nach einzelnen Jahren und SGBIII- und SGBII-Arbeitslosen aufschlüsseln.
-3.1. In wie vielen Fällen konnte in den einzelnen Jahren eine Vermittlung erfolgen und in wie vielen Fällen nicht? Bitte für die einzelnen Jahre von 2013 bis 2017 und SGB II sowie SGB III aufgliedern.
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+In wie vielen Fällen konnte in den einzelnen Jahren eine Vermittlung erfolgen und in wie vielen Fällen nicht? Bitte für die einzelnen Jahre von 2013 bis 2017 und SGB II sowie SGB III aufgliedern.
+
+#### Antwort zu Fragen 3 und 3.1
 
 Vonseiten des Statistik-Service der Bundesagentur für Arbeit erfolgt eine monatliche öffentlich zugängliche Auswertung „Arbeitsmarkt im Überblick“, siehe
 
@@ -125,10 +129,12 @@ Der Mittelabfluss erfolgt grundsätzlich monatlich nachträglich, beim AVGS-MAT 
 ### Frage 7
 
 Einen großen Ausgabeposten des 1. Quartals 2017 stellen die sogenannten Aktivierungsmaßnahmen dar, während bei den Arbeitsgelegenheiten ein Rückgang zu verzeichnen war. Die Aktivierungsmaßnahmen können auch über das sogenannte Regionale Einkaufszentrum (REZ) ausgeschrieben werden. Welche Maßnahmen mit welchen genauen Platzzahlen sind im 1. Quartal jeweils finanziert worden, die
-7.1.
+
+### Frage 7.1
+
 a) über das REZ ausgeschrieben wurden? Bitte das Mittelvolumen im 1. Quartal benennen und für wie viele Teilnehmer die Maßnahmen jeweils ausgeschrieben wurden.
 
-#### Antwort zu Frage 7
+#### Antwort zu Fragen 7 und 7.1
 
 Siehe Anlage 2.
 
@@ -136,7 +142,11 @@ b) Wie hoch war die durchschnittliche Quartals-Auslastung in Prozent?
 
 Die durchschnittliche Auslastung betrug 58,5 Prozent. Der angegebene Prozentsatz bezieht sich auf den Anteil der besetzten Plätze zu den in der Fragestellung über das REZ ausgeschriebenen Maßnahmen. Von der Fragestellung ausgenommen sind die sogenannten Gutscheinmaßnahmen.
 
-7.2. auf Basis von zertifizierten „Gutscheinmaßnahmen“ umgesetzt werden? Bitte das Mittelvolumen im 1. Quartal benennen und wie viele Teilnehmende abgerechnet wurden.
+### Frage 7.2
+
+auf Basis von zertifizierten „Gutscheinmaßnahmen“ umgesetzt werden? Bitte das Mittelvolumen im 1. Quartal benennen und wie viele Teilnehmende abgerechnet wurden.
+
+#### Antwort zu Frage 7.2
 
 Bei den zertifizierten Gutscheinmaßnahmen im Sinne der Maßnahmen zur Aktivierung- und beruflichen Eingliederung (MAbE) erfolgt eine Teilnahmefinanzierung. Anders als bei den in Antwort zu 7. 1. b) genannten ausgeschriebenen Maßnahmen, werden im Rahmen der Gutscheinmaßnahmen nur Inhalte finanziert, an denen der einzelne Kunde oder die einzelne Kundin auch teilgenommen hat.
 

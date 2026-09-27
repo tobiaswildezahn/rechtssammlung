@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 6
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/3212", "20/14345"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51233"
@@ -83,7 +84,7 @@ iv. der öffentlichen Unternehmen jeweils?
 
 Mit welchen Ausgaben für Mieten und Pachten rechnet der Senat für die unter 1.a. – e. genannten Bereiche im Jahr 2016?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlagen 1 bis 15. Angegeben sind Nettokaltmieten, die mit den in der Drs. 19/3212 genannten Aufwendungen nur begrenzt vergleichbar sind. Zu den Angaben für das Jahr 2014 sowie zur Systematik der Darstellung siehe Drs. 20/14345.
 

@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12042"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61341"
@@ -90,6 +91,6 @@ Wie hoch wäre der erwirtschaftete Gesamt-Bruttolohn der Belegschaft, bei den ta
 
 Wie hoch wären, nach den Berechnungen unter Frage 2., die Lohnsteuereinnahmen in den Jahren 2014, 2015 bis 2017 für das Land Hamburg gewesen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.

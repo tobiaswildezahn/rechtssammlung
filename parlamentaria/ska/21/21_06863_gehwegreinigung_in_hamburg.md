@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55430"
@@ -65,7 +66,7 @@ Welche Konsequenzen hat der Verstoß der SRH gegen die in der Wegereinigungsvero
 
 Inwiefern können Anlieger entrichtete Reinigungsgebühren zurückfordern, wenn die in der Wegereinigungsverordnung festgelegte Reinigungshäufigkeit unterschritten wird? Wie häufig wurden in den letzten zwölf Monaten Reinigungsgebühren zurückgefordert und wie hoch war die Gesamthöhe der Erstattungen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe dazu § 6 der Gebührenordnung für die Reinigung öffentlicher Wege.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1496", "21/1529"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49749"
@@ -79,6 +80,6 @@ Bis wann beabsichtigt der Senat über die Anhandgabe des Grundstücks zu entsche
 
 Wann soll die Befassung der Kommission für Bodenordnung mit der Anhandgabe des Grundstückes stattfinden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der Zeitpunkt ergibt sich aus dem weiteren Ablauf des Verfahrens, das im Hinblick auf seine städtebauliche Bedeutung mit besonderer Sorgfalt und in enger Abstimmung mit den beteiligten Behörden und Dienststellen der Freien und Hansestadt Hamburg durchgeführt wird. Im Übrigen sind die Planungen noch nicht abgeschlossen.

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5540", "21/1225"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60064"
@@ -81,7 +82,7 @@ Inwiefern kann ausgeschlossen werden, dass die beschriebene Überstundensituatio
 
 Auf welche Weise beabsichtigt die zuständige Behörde dem Krankenstand und seinen Ursachen mit gegebenenfalls neuen Maßnahmen entgegenzuwirken?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/5540.
 

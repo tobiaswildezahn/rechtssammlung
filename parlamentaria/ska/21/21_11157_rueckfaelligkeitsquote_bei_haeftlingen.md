@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60134"
@@ -122,7 +123,7 @@ Warum gibt es in Hamburg bis heute keine veröffentliche Rückfallstatistik für
 
 Wie wird die Rückfälligkeitsquote von Straftätern in Hamburg bislang wissenschaftlich erfasst? Falls vorhanden, hierzu bitte jeweils einzelne Projekte beziehungsweise Studien nennen.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antwort zu 1.
 

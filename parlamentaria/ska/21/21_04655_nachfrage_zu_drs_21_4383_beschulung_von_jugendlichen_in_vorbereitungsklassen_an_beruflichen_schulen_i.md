@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 49
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4383", "20/12733", "21/3855", "20/13458", "21/2644"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53075"
@@ -85,19 +86,19 @@ Ergänzend wird das Angebot in der Betrieblichen Integrationsbegleitung durch en
 
 Aufgaben der Bildungsträger sind:
 
- den Spracherwerb im betrieblichen Umfeld systematisch zu unterstützen und in
+– den Spracherwerb im betrieblichen Umfeld systematisch zu unterstützen und in
 
 geeigneter Weise zu fördern,
 
- die pädagogischen Angebote im Ganztag nach Stundentafel durchzuführen und
+– die pädagogischen Angebote im Ganztag nach Stundentafel durchzuführen und
 
 Gruppen selbstständig zu leiten,
 
- die am Lernort Betrieb für den Spracherwerb relevanten Kommunikations- und
+– die am Lernort Betrieb für den Spracherwerb relevanten Kommunikations- und
 
 Sprachstrukturen zu identifizieren, hierfür ist eine fundierte Kenntnis der psychosozialen Lebenssituation neu zugewanderter Jugendlicher erforderlich,
 
- geeignete Arbeitshilfen für das berufliche Handeln mit den Jugendlichen im betrieb-
+– geeignete Arbeitshilfen für das berufliche Handeln mit den Jugendlichen im betrieb-
 
 lichen Umfeld zu entwickeln und den Transfer ins schulische Lernen zu befördern.
 

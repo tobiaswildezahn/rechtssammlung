@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60945"
@@ -39,23 +40,23 @@ Wurde im Jahr 2017 städtischer Büroraum neu angemietet? Wenn ja, bitte Gesamtf
 
 #### Antwort zu Frage 1
 
- Name der Behörde, des Bezirks- oder Senatsamts, des Landesbetrie-
+– Name der Behörde, des Bezirks- oder Senatsamts, des Landesbetrie-
 
 bes, der Einrichtung, des Sondervermögens oder des öffentlichen Unternehmens mit städtischer Mehrheitsbeteiligung,
 
- genaue Lage,
+– genaue Lage,
 
- angemietete Gesamtfläche,
+– angemietete Gesamtfläche,
 
- Miete pro Quadratmeter,
+– Miete pro Quadratmeter,
 
- Laufzeit des Mietvertrages,
+– Laufzeit des Mietvertrages,
 
- Anzahl der dort untergebrachten Arbeitsplätze beziehungsweise Mit-
+– Anzahl der dort untergebrachten Arbeitsplätze beziehungsweise Mit-
 
 arbeiter und
 
- Grund für die Anmietung
+– Grund für die Anmietung
 
 angeben.
 
@@ -65,23 +66,23 @@ Wurde im Jahr 2017 städtischer Büroraum aufgegeben? Wenn ja, bitte Gesamtfläc
 
 #### Antwort zu Frage 2
 
- Name der Behörde, des Bezirks- oder Senatsamts, des Landesbetrie-
+– Name der Behörde, des Bezirks- oder Senatsamts, des Landesbetrie-
 
 bes, der Einrichtung, des Sondervermögens oder des öffentlichen Unternehmens mit städtischer Mehrheitsbeteiligung,
 
- genaue Lage,
+– genaue Lage,
 
- angemietete Gesamtfläche,
+– angemietete Gesamtfläche,
 
- Miete pro Quadratmeter,
+– Miete pro Quadratmeter,
 
- Laufzeit des Mietvertrages,
+– Laufzeit des Mietvertrages,
 
- Anzahl der dort untergebrachten Arbeitsplätze beziehungsweise Mit-
+– Anzahl der dort untergebrachten Arbeitsplätze beziehungsweise Mit-
 
 arbeiter und
 
- Grund für die Aufgabe (gegebenenfalls Bezug zu Frage 1. herstellen)
+– Grund für die Aufgabe (gegebenenfalls Bezug zu Frage 1. herstellen)
 
 angeben.
 

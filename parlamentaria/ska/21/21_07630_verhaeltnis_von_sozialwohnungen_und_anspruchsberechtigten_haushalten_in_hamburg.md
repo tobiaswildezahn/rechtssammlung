@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2335", "20/7335", "21/110", "20/3295", "19/2995", "21/7447"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56253"
@@ -56,10 +57,16 @@ Dies vorausgeschickt, beantwortet der Senat die Fragen – teilweise auf Grundla
 ### Frage 1
 
 Liegen inzwischen aktuellere Daten zur Förderberechtigung Hamburger Haushalte mit Blick auf eine öffentlich geförderte Wohnung im 1. beziehungsweise 2. Förderweg vor?
-1.1. Wenn ja, bitte ich darum, die Tabelle aus der Drs. 21/110 vom 27. März 2015 zu aktualisieren und die Angaben über die förderberechtigten Haushalte erneut nicht nur prozentual, sondern auch nominal zu machen.
-1.2. Wenn nein, wann ist mit den entsprechenden, neueren Daten zu rechnen?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Wenn ja, bitte ich darum, die Tabelle aus der Drs. 21/110 vom 27. März 2015 zu aktualisieren und die Angaben über die förderberechtigten Haushalte erneut nicht nur prozentual, sondern auch nominal zu machen.
+
+### Frage 1.2
+
+Wenn nein, wann ist mit den entsprechenden, neueren Daten zu rechnen?
+
+#### Antwort zu Fragen 1, 1.1 und 1.2
 
 Siehe Drs. 21/2335.
 
@@ -257,7 +264,7 @@ Warum hat es in den letzten Jahren keine Anpassung der Einkommensgrenzen an die 
 
 Wann ist mit einer Anpassung beziehungsweise Erhöhung der Einkommensgrenzen zu rechnen und wie werden diese für die verschiedenen Basiswerte ausfallen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Festlegung der allgemeinen Einkommensgrenzen in der sozialen Wohnraumförderung ist durch den Gesetzgeber in § 8 Absatz 2 Hamburgisches Wohnraumförderungsgesetz (HmbWoFG) erfolgt. Die Änderung der Einkommensgrenzen bedarf eines Gesetzes. Der Senat ist im Rahmen des § 8 Absatz 3 HmbWoFG nur ermächtigt, durch Rechtsverordnung für einzelne Zielgruppen beziehungsweise zur Verfolgung einzelner Ziele der sozialen Wohnraumförderung Abweichungen von den in § 8 Absatz 2 HmbWoFG bezeichneten Einkommensgrenzen festzulegen. Hiervon hat der Senat mit der Verordnung zur Festlegung der Einkommensgrenzen nach § 8 des Hamburgischen Wohnraumförderungsgesetzes vom 1. April 2008 Gebrauch gemacht. Im Übrigen hat sich der Senat damit nicht befasst.
 

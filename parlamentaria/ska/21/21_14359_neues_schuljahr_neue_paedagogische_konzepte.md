@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 21
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13975"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63773"
@@ -59,7 +60,7 @@ An diesem Prozess waren folgende Personen beteiligt: der für Bildung zuständig
 
 Im Ergebnis wurden folgende Maßnahmen erarbeitet:
 
- Den Grundschulen wird ein Mustercurriculum für den Rechtschreibunterricht als
+– Den Grundschulen wird ein Mustercurriculum für den Rechtschreibunterricht als
 
 Arbeitshilfe zur Verfügung gestellt (siehe „Arbeitshilfen für den Rechtschreibunterricht an Hamburger Schulen“, https://www.hamburg.de/contentblob/11622562/ 0dcee9e9b13734472b92fdea0cfd1ef0/data/rechtschreibhilfen.pdf), mit dem auf unterschiedliche Weise gearbeitet werden kann:
 
@@ -71,21 +72,21 @@ o Schließlich dient das vorliegende Mustercurriculum den Fachlehrkräften als O
 
 Von der Bereitstellung eines Mustercurriculums durch die zuständige Behörde bleibt das Recht der Lehrerkonferenz nach § 57 Absatz 2 des Hamburgischen Schulgesetzes (HmbSG), über Grundsätze der Unterrichtsgestaltung, der Unterrichtsmethoden und der Leistungsbeurteilung zu beschließen, unberührt.
 
- Die zuständige Behörde legt in einer Empfehlung an alle Grundschulen dar, dass
+– Die zuständige Behörde legt in einer Empfehlung an alle Grundschulen dar, dass
 
 mindestens ein Sechstel aller Unterrichtsstunden im Fach Deutsch für den Rechtschreibunterricht eingesetzt werden soll. Auch für die übrigen Kompetenzbereiche des Unterrichts erhalten die Grundschulen Zeitrichtwerte.
 
- Als variable und computergestützte Rechtschreibdiagnose stellt das IfBQ im Schul-
+– Als variable und computergestützte Rechtschreibdiagnose stellt das IfBQ im Schul-
 
 jahr 2018/2019 für die Jahrgangsstufen 1 und 2 den individualdiagnostischen Test „SCHNABEL“ zur Verfügung. Der erste Test wird im Januar 2019 durchgeführt und löst in den Jahrgangsstufen 1 und 2 die Hamburger Schreibprobe (HSP) ab.
 
 Zum kostenlosen Download des gegenüber der HSP verbesserten Tests und weiterer Unterstützungsmaterialien veröffentlicht das IfBQ im Herbst 2018 eine eigene Website.
 
- Ab dem Schuljahr 2018/2019 werden in Jahrgangsstufe 2 mindestens eine, in den
+– Ab dem Schuljahr 2018/2019 werden in Jahrgangsstufe 2 mindestens eine, in den
 
 Jahrgangsstufen 3 bis 8 mindestens zwei Lernerfolgskontrollen geschrieben, die sich ausschließlich mit der Rechtschreibung befassen. Damit schreiben alle Schülerinnen und Schüler der Klassen 3 bis 8 sechs statt der bisherigen vier Klassenarbeiten im Fach Deutsch. Mit dieser moderaten Veränderung der Zahl der Klassenarbeiten liegt Hamburg noch immer hinter den bis 2003 geltenden Anforderungen von zwölf Klassenarbeiten beziehungsweise ab 2003 mit Einführung des Lehrerarbeitszeitmodells von acht Klassenarbeiten in den Jahrgangsstufen 3 bis 6 (in den Jahrgangsstufen 7 und 8 waren ab 2003 sechs Klassenarbeiten vorgesehen). Zu den Formaten und zur Dauer dieser zusätzlichen Lernerfolgskontrollen zur Rechtschreibung macht die für Bildung zuständige Behörde den Schulen keine Vorgaben. Es ist auch nicht zutreffend, dass eine Empfehlung für eine Vermehrung von Diktaten ausgesprochen würde. Wo Diktate eingesetzt werden, gilt in allen allgemeinbildenden Schulformen gemäß der Bildungspläne: „Wird ein Diktat zur Überprüfung der Rechtschreibleistung eingesetzt, ist dieses nicht das alleinige Instrument der Leistungsfeststellung; sondern wird durch die zuvor angezeigten Methoden sowie eine angemessene Überarbeitungszeit zu einem späteren Zeitpunkt ergänzt“ (https://www.hamburg.de/contentblob/2481792/d180d66decd915caf50391ab07bdc 51d/data/deutsch-gs.pdf). Darüber hinaus erhalten alle allgemeinbildenden Schulen mit den „Arbeitshilfen für den Rechtschreibunterricht an Hamburger Schulen“ (https://www.hamburg.de/contentblob/11622562/0dcee9e9b13734472b92fdea0cfd 1ef0/data/rechtschreibhilfen.pdf) Beispielaufgaben, die sie für die jeweiligen Lerngruppen anpassen oder modifizieren können.
 
- Es obliegt der für Bildung zuständigen Behörde, Rahmenvorgaben (wie zum Bei-
+– Es obliegt der für Bildung zuständigen Behörde, Rahmenvorgaben (wie zum Bei-
 
 spiel Bildungspläne, Richtlinien und weitere Verwaltungsvorschriften) zu erlassen, innerhalb derer die Schulen schulspezifische Konkretisierungen vornehmen. In diesem Sinne wird klar geregelt, dass alle Schülerinnen und Schüler im Fach Deutsch Rechtschreib- und Grammatikfehler in Lernerfolgskontrollen verbessern, so aus ihren Fehlern lernen und richtiges Schreiben einüben. Bei zahlreichen Fehlern arbeiten sie alternativ nach Maßgabe der Fachlehrkraft an individuellen Fehlerschwerpunkten. In allen anderen Fächern erteilt die Lehrkraft einzelnen Schülerinnen und Schülern bei gehäuften Fehlern Aufgaben zur Arbeit an individuellen Fehlerschwerpunkten oder den Auftrag zur Korrektur. Die Bildungspläne regelten bereits bisher, dass Schülerinnen und Schüler „durch die Korrekturanmerkungen Hinweise für ihre weitere Arbeit“ gewinnen. „In den Korrekturanmerkungen werden gute Leistungen sowie individuelle Förderbedarfe explizit hervorgehoben“ (https://www.hamburg.de/contentblob/2373174/d77f4e97667619bdb5c749edd2b22 e8e/data/deutsch-gym-seki.pdf).
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12626", "21/2912"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51507"
@@ -75,7 +76,7 @@ In welcher Weise hat der Senat auf derartige Vorfälle reagiert?
 
 Mit welchen Konsequenzen müssen Flüchtlinge rechnen, die Mitbewohner aufgrund ihres religiösen Bekenntnisses diskriminieren, bedrohen oder gar verletzen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/2912 und 20/12626. Es wird im Einzelfall entschieden, ob der Täter in eine andere Einrichtung verlegt wird. Sollte der Verdacht auf eine Straftat vorliegen, wird die Polizei eingeschaltet.
 
@@ -105,7 +106,7 @@ Was für konkrete Maßnahmen ergreift der Senat, außer auf die geltende Hausord
 
 Mittels welcher konkreten Maßnahmen werden die Opfer religiös begründeter Übergriffe anschließend betreut?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Drs. 21/2912. Darüber hinaus kann das Sozialmanagement der jeweiligen Zentralen Erstaufnahme die Betroffenen an weitere (Beratungs-)Einrichtungen verweisen.
 

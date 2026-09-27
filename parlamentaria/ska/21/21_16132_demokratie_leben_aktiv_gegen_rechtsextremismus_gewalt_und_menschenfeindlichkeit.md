@@ -14,6 +14,7 @@ fragen: 27
 einzelfragen: 41
 antwortbloecke: 23
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/9192", "21/7939", "21/8233", "21/13713", "21/8803", "21/13108", "19/3489", "21/1223", "21/9906", "21/9040", "21/13109", "21/13985", "21/9822", "21/15498", "20/13460", "21/5039", "21/14037"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65639"
@@ -251,7 +252,7 @@ Dem Zuwendungsgeber obliegt im Antragsverfahren die Einschätzung des Antragsste
 
 Ist die Hamburger Behörde der Meinung, dass ein Bekenntnis zur freiheitlich demokratischen Grundordnung trotz des Bekenntnisses zum Islam möglich ist? Wenn ja, wie begründet sie dies? Wenn nein, wie löst sie diese Diskrepanz?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Drs. 21/9040 und Drs. 21/13109.
 
@@ -348,7 +349,7 @@ b) Welche neuen und innovativen Ansätze und Methoden wurden/ werden erprobt?
 c) Inwiefern wurden Zugänge zu schwer erreichbaren Zielgruppen im „linken“ Milieu erschlossen?
 d) Welche Maßnahmen wurden/werden wirkungsorientiert geplant und umgesetzt?
 
-#### Antwort zu Fragen 21 bis 22
+#### Antwort zu Fragen 21 und 22
 
 Der zuständigen Behörde ist kein solches Projekt bekannt. Siehe auch Antwort zu 4. bis 6. Im Übrigen: entfällt.
 

@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 23
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4948", "21/965", "21/4088", "21/4612"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53658"
@@ -131,7 +132,7 @@ Wer hat die diesjährigen Aufgaben wann erarbeitet und sind diese einsehbar oder
 
 Wer hat die diesjährigen Aufgaben dahin gehend geprüft, ob sie angemessen sind?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Drs. 21/965.
 
@@ -152,7 +153,7 @@ Wie sind die schriftlichen Überprüfungen in den geprüften Fächern ausgefalle
 
 An wie vielen Schulen liegt der Durchschnitt der Noten der schriftlichen Überprüfungen unter 4,0? Bitte insgesamt und aufgeschlüsselt nach Schulen und Schulformen angeben.
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Die schriftlichen Überprüfungen in Jahrgangsstufe 10 dienen der Feststellung, ob die Anforderungen für den Übergang in die Studienstufe der gymnasialen Oberstufe erfüllt sind. Sie werden nur an den Schulen durchgeführt, die direkt in die Studienstufe versetzen, dies sind alle Gymnasien, die gymnasialen Zweige der Gyula Trebitsch Schule Tonndorf und der Heinrich-Hertz-Schule sowie die Albert-Schweitzer-Schule. Alle genannten Zahlen beziehen sich somit ausschließlich auf die Gymnasien und die Gyula Trebitsch Schule Tonndorf, die Heinrich-Hertz-Schule sowie die Albert- Schweitzer-Schule.
 

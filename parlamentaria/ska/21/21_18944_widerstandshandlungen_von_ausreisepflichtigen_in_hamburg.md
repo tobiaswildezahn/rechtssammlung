@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68630"
@@ -59,7 +60,7 @@ In wie vielen Abschiebefällen kam es 2018 sowie im Jahr 2019 bis dato in Hambur
 
 Wie viele Landespolizisten und andere Landesbedienstete wurden im Zuge von Abschiebungen in diesem Zeitraum verletzt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine statistische Erfassung von Widerstandshandlungen im Rahmen von Rückführungsmaßnahmen durch die Ausländerabteilung des Einwohner-Zentralamtes erfolgt nicht. Beschäftigte des Rückführungsreferates der Zentralen Ausländerbehörde des Einwohner-Zentralamtes wurden bei der Durchführung von Rückführungsmaßnahmen nicht verletzt. Auch die Polizei führt keine Statistik im Sinne der Fragestellungen. Zur Beantwortung der Fragen wäre eine Durchsicht sämtlicher infrage kommenden Akten sowohl in der Ausländerabteilung des Einwohner-Zentralamtes, im Landeskriminalamt sowie der Personalabteilung der Polizei erforderlich. Eine händische Auswertung von mehreren Tausend Akten ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

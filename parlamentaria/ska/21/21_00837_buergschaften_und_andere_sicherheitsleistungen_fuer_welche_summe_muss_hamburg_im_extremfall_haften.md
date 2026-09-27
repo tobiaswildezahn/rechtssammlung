@@ -5,7 +5,7 @@ wahlperiode: 21
 id: 48984
 titel: "Bürgschaften und andere Sicherheitsleistungen – Für welche Summe muss Hamburg im Extremfall haften?"
 datum_anfrage: "2015-06-19"
-datum_drucksache: null
+datum_drucksache: "2015-06-26"
 urheber: ["Thilo Kleibauer"]
 fraktionen: ["CDU"]
 vorgang: 44952
@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48984"
@@ -24,7 +25,7 @@ generator: "ska_archiv 1.0"
 
 # Drs. 21/837: Bürgschaften und andere Sicherheitsleistungen – Für welche Summe muss Hamburg im Extremfall haften?
 
-> Schriftliche Kleine Anfrage und Antwort des Senats  
+> Schriftliche Kleine Anfrage des Abgeordneten Thilo Kleibauer (CDU) vom 19.06.15 und Antwort des Senats · Drucksache vom 26.06.2015  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/48984) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/48984/21_00837_buergschaften_und_andere_sicherheitsleistungen_fuer_welche_summe_muss_hamburg_im_extremfall_haften)
 
 ## Einleitung für die Fragen
@@ -49,7 +50,7 @@ Wie hoch sind derzeit jeweils die Haftungsverhältnisse der FHH aus Bürgschafte
 
 Wie hoch waren jeweils die Haftungsverhältnisse der FHH aus Bürgschaften, Garantien, Gewährträgerhaftungen und ähnlichen Sicherheitsleistungen am 31.12.2013 sowie am 31.12.2014?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zum 31. Dezember 2013 15.100.392.008 Euro, zum 31. Dezember 2014
 14.274.139.832 Euro und zum 1. Juni 2015 14.353.448.134 Euro.

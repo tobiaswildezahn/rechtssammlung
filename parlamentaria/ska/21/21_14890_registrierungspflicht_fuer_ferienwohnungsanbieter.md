@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14113", "21/14505"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64334"
@@ -43,29 +44,29 @@ Der Senat hat deshalb der Bürgerschaft einen Gesetzesentwurf nebst Begründung 
 
 schiedene Änderungen des Hamburgischen Wohnraumschutzgesetzes vor, unter anderem:
 
- eine Registrierungspflicht für Anbieter von Ferienwohnungen in Wohnraum,
+– eine Registrierungspflicht für Anbieter von Ferienwohnungen in Wohnraum,
 
- eine Registrierungspflicht für Anbieter von Räumen auf Ferienwohnungsplattfor-
+– eine Registrierungspflicht für Anbieter von Räumen auf Ferienwohnungsplattfor-
 
 men und in vergleichbaren Medien,
 
- eine Verkürzung der zeitlichen Ausnahme vom Zweckentfremdungsverbot (dem
+– eine Verkürzung der zeitlichen Ausnahme vom Zweckentfremdungsverbot (dem
 
 Verbot, eine Wohnung zu etwas anderem als zum Wohnen zu nutzen) auf acht Wochen im Kalenderjahr,
 
- die Einführung einer Pflicht, jede einzelne Überlassung der zuständigen Behörde
+– die Einführung einer Pflicht, jede einzelne Überlassung der zuständigen Behörde
 
 spätestens nach zehn Tagen zu melden,
 
- die Einführung einer Pflicht für Diensteanbieter und andere Medien, nur Angebote
+– die Einführung einer Pflicht für Diensteanbieter und andere Medien, nur Angebote
 
 mit Registrierungsnummer (Wohnraumschutznummer) zuzulassen,
 
- die Erweiterung des Bußgeldkatalogs und die Anhebung des Bußgeldhöchstbetra-
+– die Erweiterung des Bußgeldkatalogs und die Anhebung des Bußgeldhöchstbetra-
 
 ges auf 500.000 Euro,
 
- die Weiterleitung der Registrierungsdaten an die Steuerbehörden.
+– die Weiterleitung der Registrierungsdaten an die Steuerbehörden.
 
 Eine Überlassung der eigenen Wohnung von nicht mehr als acht Wochen im Kalenderjahr bleibt – anders als in Berlin – genehmigungsfrei. Ebenfalls anders als in Berlin stellt Hamburg für die Registrierung einen Onlinedienst bereit. Dieser ermöglicht eine hamburgweit einheitliche und kostenfreie Registrierung über das Internet. Das neue Gesetz sieht vor, dass die Nutzerinnen und Nutzer sich selber registrieren und ihren Belegungskalender führen. Nur in besonderen Fällen erfolgt eine Erfassung durch die zuständige Behörde. Die bei der Registrierung eingegebenen Daten werden anhand des Melderegisters automatisiert überprüft. Die Vergabe der Registrierungsnummer erfolgt im Regelfall vollständig automatisiert. Ein Verstoß gegen die Pflicht, die Registrierungsnummer bei Anzeigen und Werbung für die Öffentlichkeit sichtbar anzugeben beziehungsweise den Belegungskalender zu führen, ist bußgeldbewehrt. Bei Verstößen ermitteln die zuständigen Bezirksämter und verfolgen diese.
 
@@ -117,7 +118,7 @@ Wie hoch schätzt der Senat die zusätzlichen Verwaltungskosten zur Umsetzung de
 
 Wie hoch schätzt der Senat die zusätzlichen Verwaltungskosten zur Umsetzung der übrigen Bestimmungen des vorliegenden Gesetzesentwurfes ein?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die geschätzten Verwaltungskosten für die Registrierung und die Umsetzung der übrigen Bestimmungen des novellierten Gesetzes lassen sich nur eingeschränkt gesondert darstellen. Die Entwicklung einer Onlineplattform für die Registrierung und Belegungsmeldung und die dafür erforderliche Anschaffung von Geräten verursacht einmalig investive Auszahlungen in Höhe von rund 400.000 Euro sowie Kosten in Höhe von rund 25.000 Euro p.a. für den laufenden Betrieb, die aus bestehenden Ermächtigungen des Einzelplans 9.2 Allgemeine Finanzwirtschaft bereitgestellt werden.
 

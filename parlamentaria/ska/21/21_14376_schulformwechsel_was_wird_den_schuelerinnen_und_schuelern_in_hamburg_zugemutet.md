@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 16
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13720"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63796"
@@ -57,7 +58,7 @@ Wie viele Schulformwechsel vom Gymnasium auf eine Stadtteilschule gab es zu den 
 
 Wie viele Schülerinnen und Schüler wurden an den einzelnen Gymnasien zum Schuljahr 2017/2018 beziehungsweise 2018/2019 in Klasse 6 abgeschult? Bitte unter Angabe des Namens der Schule, dem Sozialindex sowie der Anzahl der Schülerinnen und Schüler darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Schulformwechsel vom Gymnasium auf eine Stadtteilschule zum Schuljahr 2017/2018 nach Jahrgangsstufe
 
@@ -85,7 +86,7 @@ Wie viele Schülerinnen und Schüler an allgemeinen Schulen wiederholten im Schu
 
 Bei wie vielen dieser Wiederholer waren zuvor Maßnahmen im Rahmen von „Fördern statt Wiederholen“ veranlasst worden? Wenn möglich bitte nach Schulformen aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im Rahmen des jährlichen Monitorings der Lernförderung (jeweils zum Ende des Schuljahrs) geben die Schulen an, wie viele ihrer Schülerinnen und Schüler, die im aktuellen Schuljahr die Klasse wiederholen, im Jahr zuvor an Lernfördermaßnahmen teilgenommen haben.
 
@@ -203,7 +204,7 @@ Wie viele dieser Anträge wurden bewilligt? Bitte nach Schulform, Klassenstufe u
 
 Wie viele Anträge wurden nicht bewilligt und wie viele wurden noch nicht beschieden?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Anlage 2.
 

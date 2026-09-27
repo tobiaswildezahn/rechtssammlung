@@ -5,7 +5,7 @@ wahlperiode: 21
 id: 48933
 titel: "Grundbesitz außerhalb Hamburgs"
 datum_anfrage: "2015-06-15"
-datum_drucksache: null
+datum_drucksache: "2015-06-23"
 urheber: ["Thilo Kleibauer"]
 fraktionen: ["CDU"]
 vorgang: 44684
@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13072"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48933"
@@ -24,7 +25,7 @@ generator: "ska_archiv 1.0"
 
 # Drs. 21/770: Grundbesitz außerhalb Hamburgs
 
-> Schriftliche Kleine Anfrage und Antwort des Senats  
+> Schriftliche Kleine Anfrage des Abgeordneten Thilo Kleibauer (CDU) vom 15.06.15 und Antwort des Senats · Drucksache vom 23.06.2015  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/48933) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/48933/21_00770_grundbesitz_ausserhalb_hamburgs)
 
 ## Einleitung für die Fragen
@@ -75,7 +76,7 @@ Welche Nachnutzung wird von den möglichen Käufern des Besitzes angestrebt?
 
 Gibt es Auflagen der Stadt für die neue Nutzung nach einem Verkauf?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Zweckbestimmung und andere Auflagen werden Teil der in der Antwort zu 3. genannten Ausschreibungen. Im Übrigen sind die Planungen noch nicht abgeschlossen.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2680", "21/2990", "21/2991", "21/2644"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51624"
@@ -91,11 +92,11 @@ Eine weitere, von den Sprachkenntnissen unabhängige Herausforderung stellt die 
 
 Für die Integration von jugendlichen Flüchtlingen an berufsbildenden Schulen besteht ein besonderer Unterstützungsbedarf unter anderem hinsichtlich
 
- der Antragstellung für den Bereich Wohn- und Lebenssituation,
+– der Antragstellung für den Bereich Wohn- und Lebenssituation,
 
- der Vermittlung von Kontakten zu unterstützenden Einrichtungen sowie
+– der Vermittlung von Kontakten zu unterstützenden Einrichtungen sowie
 
- der Klärung sozial- und berufspädagogischer Fragen.
+– der Klärung sozial- und berufspädagogischer Fragen.
 
 Daher werden zurzeit unter anderem für diese Aufgaben Stellen für Sozialpädagoginnen und -pädagogen an berufsbildenden Schulen ausgeschrieben (siehe Drs. 21/2644).
 

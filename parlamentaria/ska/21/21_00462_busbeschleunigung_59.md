@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/73"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48606"
@@ -56,29 +57,29 @@ in das Transparenzportal bis Ende April 2015 eingestellt werden müssen? (Bitte 
 
 Grundsätzlich ist vorgesehen, die folgenden Unterlagen für die in der Anlage aufgelisteten Teilprojekte einzustellen:
 
- Anliegerinformationen
+– Anliegerinformationen
 
- Ausführungspläne
+– Ausführungspläne
 
- Ausführungsunterlage (nur Deckblatt)
+– Ausführungsunterlage (nur Deckblatt)
 
- Planfahrten
+– Planfahrten
 
- Planung 1. Verschickung
+– Planung 1. Verschickung
 
- Planung 2. Verschickung
+– Planung 2. Verschickung
 
- Planung Schlussverschickung
+– Planung Schlussverschickung
 
- Planungswerkstatt
+– Planungswerkstatt
 
- Regionalausschüsse
+– Regionalausschüsse
 
- Verkehrsführungspläne
+– Verkehrsführungspläne
 
- Verkehrszahlen
+– Verkehrszahlen
 
- Vermessung
+– Vermessung
 
 Der tatsächliche Umfang bei der erstmaligen Einstellung richtet sich nach dem jeweiligen Projektfortschritt.
 
@@ -111,7 +112,7 @@ Mit welchen Mitgliedern des Senats wurde die nicht fristgemäße Einstellung der
 
 Wann wurden von wem die Mitglieder/Initiatoren der Volksinitiative „Stopp des Busbeschleunigungsprogramms“ über diese Nichteinhaltung der getroffenen Vereinbarung von wem informiert?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die zuständige Behörde hat im April ein Schreiben der Behördenleitung an die Präsidentin der Bürgerschaft vorbereitet, um kurzfristig über den aktuellen Stand der Beantwortung der Drs. 21/73 zu informieren. Im Zuge der Vorbereitung des Schreibens hat sich zwischen den Vertretern der Volksinitiative und den zuständigen Behörden weiterer Klärungsbedarf hinsichtlich der Länge des Radfahrstreifens im Mühlenkamp (Nord) ergeben. Daraufhin wurde entschieden, zunächst diese Klärung herbeizuführen, um in Anschluss auch zu diesem Punkt in dem Schreiben an die Präsidentin der Bürgerschaft berichten zu können.
 
@@ -123,7 +124,7 @@ Wer hat entschieden, dass die wenigen bisher eingestellten Unterlagen in einem U
 
 Warum wurden zum Beispiel Stellungnahmen der Träger öffentlicher Belange in der Unterlage zur zweiten Planverschickung geschwärzt, sodass die Unterlage wertlos ist?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Da vereinbart wurde, dass die Planungsunterlagen im Transparenzportal zur Verfügung gestellt werden, kommt bei ihrer Aufbereitung und Einstellung zwingend das Hamburgische Transparenzgesetz (HmbTG) zur Anwendung, das umfangreichere Schwärzungen vorschreibt.
 

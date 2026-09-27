@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2800"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61280"
@@ -119,15 +120,15 @@ Welche Fahrplanveränderungen zur Verbesserung des Angebots auf dieser Buslinie 
 
 Für eine mögliche Umsetzung zum Jahresfahrplan 2019 sind folgende Überprüfungen des Fahrtenangebots der Linie 174 vorgesehen:
 
- Möglichkeiten zur Entlastung der 7.33 Uhr ab S Poppenbüttel nach U Volksdorf
+– Möglichkeiten zur Entlastung der 7.33 Uhr ab S Poppenbüttel nach U Volksdorf
 
 abfahrenden Fahrt
 
- Rückverlängerung der ab Tegelsbarg (Nord) 13.24 Uhr startenden Fahrt zum neu-
+– Rückverlängerung der ab Tegelsbarg (Nord) 13.24 Uhr startenden Fahrt zum neu-
 
 en Startpunkt U Volksdorf (ab 12.49) Uhr,
 
- Auswirkungen des im Frühjahr 2018 beginnenden Bezugs der Expresswohnungen
+– Auswirkungen des im Frühjahr 2018 beginnenden Bezugs der Expresswohnungen
 
 am Rehagen auf die Linien 24 und 174
 

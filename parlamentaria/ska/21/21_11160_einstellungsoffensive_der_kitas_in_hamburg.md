@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60137"
@@ -41,19 +42,19 @@ Zur Deckung des zusätzlichen Bedarfs an sozialpädagogischen Fachkräften hat d
 
 Das am 6. Juni 2017 der Öffentlichkeit vorgestellte Maßnahmenpaket zur Gewinnung von pädagogischen Fachkräften (10-Punkte-Plan) des Hamburger Instituts für Berufliche Bildung (HIBB) wurde zum 1. August 2017 fristgerecht umgesetzt. Es beinhaltet folgende Maßnahmen:
 
- Zulassung von Schülerinnen und Schülern mit erweitertem ersten allgemeinbilden-
+– Zulassung von Schülerinnen und Schülern mit erweitertem ersten allgemeinbilden-
 
 den Schulabschluss (erweiterter ESA nach zehn Jahren) in die Berufsfachschule Sozialpädagogische Assistenz (BFS-SPA) und Verlängerung der Ausbildung um sechs Monate zur Erreichung des Mittleren Schulabschlusses (MSA).
 
- Abschaffung der Notenschwelle im Übergang von der BFS-SPA zur Erzieherinnen-
+– Abschaffung der Notenschwelle im Übergang von der BFS-SPA zur Erzieherinnen-
 
 und Erzieherausbildung für Schülerinnen und Schüler, die die SPA-Ausbildung mit MSA beginnen.
 
- Zugang in die Erzieherinnen- und Erzieherausbildung über eine abgeschlossene
+– Zugang in die Erzieherinnen- und Erzieherausbildung über eine abgeschlossene
 
 einschlägige Berufsausbildung nach KMK-Rahmenvereinbarung.
 
- Zulassung in die grundständige Erzieherinnen- und Erzieherausbildung auch über
+– Zulassung in die grundständige Erzieherinnen- und Erzieherausbildung auch über
 
 die  
 jetzigen  
@@ -62,27 +63,27 @@ Weiterbildung)-Zulassungsbedingungen
 (ESA, Berufsausbildung plus Prüfung) und Einrichtung eines Probehalbjahrs für  
 alle Schülerinnen und Schüler in der Erzieherinnen- und Erzieherausbildung.
 
- Verkürzung des einjährigen Praktikums als Zugangsvoraussetzung in die Erziehe-
+– Verkürzung des einjährigen Praktikums als Zugangsvoraussetzung in die Erziehe-
 
 rinnen- und Erzieherausbildung für Menschen mit Abitur oder Fachhochschulreife auf vier Monate.
 
- Zulassung von Absolventinnen und Absolventen des Beruflichen Gymnasiums
+– Zulassung von Absolventinnen und Absolventen des Beruflichen Gymnasiums
 
 Pädagogik/Psychologie und Fachoberschulabsolventinnen und -absolventen Sozialpädagogik in die zweijährige, verkürzte Erzieherinnen- und Erzieherausbildung (äquivalent zur Berufsoberschule).
 
- Einrichtung einer Umschulungsmaßnahme für Erzieherinnen und Erzieher über
+– Einrichtung einer Umschulungsmaßnahme für Erzieherinnen und Erzieher über
 
 Bildungsgutscheine.
 
- Erweiterung der Umschulungsmaßnahme SPA-Migrantinnen und -Migranten für
+– Erweiterung der Umschulungsmaßnahme SPA-Migrantinnen und -Migranten für
 
 alle Interessierten mit Berechtigung.
 
- Öffnung der Erzieherinnen- und Erzieherausbildung für Einwanderinnen und Ein-
+– Öffnung der Erzieherinnen- und Erzieherausbildung für Einwanderinnen und Ein-
 
 wanderer (EFE) für Männer.
 
- Zulassung in die Heilerziehungspflege (HEP) über ESA im geprüften Einzelfall
+– Zulassung in die Heilerziehungspflege (HEP) über ESA im geprüften Einzelfall
 
 gemäß KMK-Rahmenrichtlinie.
 
@@ -94,23 +95,23 @@ Die berufsbegleitende Weiterbildung zur Erzieherin und zum Erzieher wurde zum Au
 
 Weitere wesentliche Schritte zur Steigerung der Absolventenzahlen sind unter anderem
 
- ein weiterer Ausbau des vergüteten berufsbegleitenden Ausbildungsformates für
+– ein weiterer Ausbau des vergüteten berufsbegleitenden Ausbildungsformates für
 
 Erzieherinnen und Erzieher und
 
- eine Stärkung des Ausbildungsformates für Schülerinnen und Schüler mit erweiter-
+– eine Stärkung des Ausbildungsformates für Schülerinnen und Schüler mit erweiter-
 
 tem ESA, um diese Schülerinnen und Schüler in die Lage zu versetzen, ihre Ausbildung erfolgreich abzuschließen.
 
 Gemeinsam mit Kita-Verbänden und unter Beteiligung des Landeselternausschusses Kindertagesbetreuung wurde von der für Kindertagesbetreuung zuständigen Behörde eine sogenannte Positivliste entwickelt, mit der Personen ohne einschlägigen Berufsausbildungsabschluss ein erleichterter Zugang zur Tätigkeit in einer Kita eröffnet wird. Für diese Personen entfallen Einzelfallprüfungen durch die Kita-Aufsicht. Diese Positivliste wurde zum 01.04.2017 ausgeweitet, sodass
 
- Personen mit einem Universitäts- oder Fachhochschulabschluss im Haupt- oder
+– Personen mit einem Universitäts- oder Fachhochschulabschluss im Haupt- oder
 
 Nebenfach Pädagogik
 
 und
 
- Personen mit einem Universitäts- oder Fachhochschulabschluss, Therapeutinnen
+– Personen mit einem Universitäts- oder Fachhochschulabschluss, Therapeutinnen
 
 und Therapeuten, Kinderkrankenschwestern sowie Hebammen mit einer Nachqualifizierung in Pädagogik der Kindheit und Entwicklungspsychologie (Umfang 160 Stunden) oder einer einschlägigen, in einer Kita oder in der Ganztägigen Bildung und Betreuung an Schulen (GBS) nachgewiesenen Tätigkeit (im Umfang von
 1.000 Stunden in den letzten fünf Jahren vor der Einstellung) ohne weitere Prüfung durch die Kita-Aufsicht als Erstkräfte in einer Kita oder GBS eingesetzt werden können.

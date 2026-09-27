@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68306"
@@ -49,7 +50,7 @@ Wie viele Hausärzte gibt es aktuell im Alstertal und den Walddörfern? Um wie v
 
 Wie stellt sich der Versorgungsgrad mit Hausärzten im Alstertal und den Walddörfern dar?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Alstertal und den Walddörfern gibt es derzeit 90 Hausärztinnen/-ärzte, die als Vertragsärztinnen/-ärzte zur Behandlung der GKV-Versicherten zugelassen sind. Unter Berücksichtigung mehrerer Teilzulassungen ergeben sich 83,25 Zulassungen (Vollzeitäquivalente). Privatpraxen gehören nicht dazu; hierzu liegen der zuständigen Behörde und der KV Hamburg keine aktuellen Daten vor.
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 19
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49530"
@@ -54,7 +55,7 @@ Bestand oder besteht bei diesen Kunden Lebensgefahr oder die Gefahr bleibender S
 
 Wie erfolgte die Behandlung dieser Kunden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Daten zum Gesundheitszustand beziehungsweise Details der medizinischen Behandlung der betroffenen Personen unterliegen dem Datenschutz (§ 7 fortfolgende Hamburgisches Krankenhausgesetz). Angaben sind dem Krankenhaus daher nicht möglich.
 
@@ -74,7 +75,7 @@ Liegt dies daran, weil in Hamburg eine hierfür benötigte Druckkammer nicht vor
 
 Trifft es zu, dass es in Hamburg eine solche Druckkammer gibt, dieses aber in diesem Falle und auch in anderen Fällen nicht angefragt wurde? Wenn ja: Warum wurde nicht angefragt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 In Hamburg besteht als ambulantes Behandlungsangebot die Zentrum für Hyperbarmedizin Hamburg ZHH GmbH in der Holstenstraße. Dort werden ambulante Heilbehandlungen mit hyperbarem Sauerstoff (HBO-Therapie) durchgeführt.
 

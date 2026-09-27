@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66962"
@@ -47,7 +48,7 @@ Wie viele Schüler haben seit der Eröffnung der Elbphilharmonie am 11. Januar 2
 
 Wie viele dieser unter 1. genannten Schüler taten dies organisiert über ihre jeweilige Schule? Bitte differenziert nach Jahr sowie nach Schulart (Grundschule, Stadtteilschule, Gymnasium), nach Jahrgang sowie nach Art der Veranstaltung (Konzert Großer Saal, Konzert Kleiner Saal, Klingendes Museums, musikpädagogische Veranstaltung et cetera) darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der HamburgMusik gGmbH liegen nur Zahlen zu den über die jeweiligen Schulen organisierten Besuche vor. Schülerinnen und Schüler, die die Elbphilharmonie individuell besuchen, werden nicht gesondert danach erfasst, ob sie innerhalb der Freien und Hansestadt Hamburg oder im Umland zur Schule gehen.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48938"
@@ -49,7 +50,7 @@ Warum wurde die vakante Stelle im Bezirksamt Hamburg-Mitte für die Betreuung de
 
 Welche Probleme sind mit der Nachbesetzung dieser Stelle verbunden? Welche Ergebnisse gibt es nun nach Ausschreibung des Interessenbekundungsverfahrens?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Bezirksamt Hamburg-Mitte prüft bei jeder frei werdenden Stelle, ob eine Nachbesetzung dringend erforderlich ist. Es hat in diesem Fall entschieden, die Stelle zeitnah wieder zu besetzen und das formelle Nachbesetzungsverfahren in einem Zeitrahmen von sechs Wochen nach dem Ausscheiden des Mitarbeiters eingeleitet. Die Personalauswahlgespräche sollen noch im Juni 2015 stattfinden.
 

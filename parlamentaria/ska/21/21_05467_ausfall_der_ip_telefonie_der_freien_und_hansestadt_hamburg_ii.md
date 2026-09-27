@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 21
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5323", "21/3112", "20/10773"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53958"
@@ -45,7 +46,7 @@ Liegen in Dienststellen der FHH Erkenntnisse darüber vor, dass die IP- Telefoni
 Aus welchen Gründen wurde angesichts der gegebenenfalls unter Frage
 1. gemachten Angaben sowie der oben genannten Zeiten und angesichts des „24/7“-Schichtbetriebs beispielsweise bei den vom Ausfall betroffenen Dienststellen Polizei und UKE gemäß Senatsangaben erst am Mittwochmorgen um 9.15 Uhr der Ausfall weiter Teile beziehungsweise zentraler Systeme der NGN-Telefonie der FHH festgestellt? Inwieweit sind die Telefone der gemäß Drs. 21/5323 betroffenen Dienststellen beispielsweise zeitversetzt nacheinander ausgefallen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ja, am 12. Juli 2016 traten im Rahmen angekündigter Arbeiten während des Wartungsfensters kurzzeitige Unterbrechungen auf, die nach bisherigen Erkenntnissen in keinem Zusammenhang mit der Störung vom 13. Juli 2016 standen. Die erste Meldung hierzu erfolgte um 20.15 Uhr.
 
@@ -85,7 +86,7 @@ Verfügt Dataport über eine „Leitzentrale“, die sämtliche Rechenzentren, s
 
 Gibt es einen Alarm oder eine automatische Warnmeldung, sobald es zu Problemen beziehungsweise besonderen Vorkommnissen bei Infrastrukturen und/oder deren zentralen Systemen, die hochverfügbar sein sollen beziehungsweise müssen, kommt? Wenn ja, innerhalb jeweils welchen Zeitraums müssen dann bei jeweils welchen Vorkommnissen jeweils welche Stellen informiert und welche sonstigen Maßnahmen eingeleitet werden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Es erfolgt eine automatisierte „Rund-um-die-Uhr“-Überwachung mit zielgerichteter sofortiger Alarmierung der jeweils fachlich zuständigen Systembetreuung, da dies effektiver und wirtschaftlicher als eine Leitzentrale ist.
 

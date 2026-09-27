@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14153", "21/803", "21/5411"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57394"
@@ -49,7 +50,7 @@ Wie viele Fälle beziehungsweise Verdachtsfälle von vergifteten Hunden gab es i
 
 Womit wurden die unter 1. genannten Hunde jeweils vergiftet? Welcher Art waren die Giftköder und das Gift?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1. Die dortigen Angaben stellen durch Hundehalter der Polizei angezeigte Verdachtsfälle dar, die aus Sicht der Hundehalter auf eine Vergiftung des Hundes hindeuteten. Inwieweit dieser Verdacht zutreffend ist oder nicht, konnte durch die polizeilichen Ermittlungen nicht in allen Fällen abschließend geklärt werden. Die Polizei führt die übrigen Fälle daher als Verdachtsfälle. Die Art des Köders kann nach Aufnahme des Köders durch den Hund regelmäßig nicht mehr festgestellt werden.
 
@@ -79,7 +80,7 @@ Welche Strategie verfolgt die zuständige Fachbehörde, um die Zahl der Giftatta
 
 Ist der Senat beziehungsweise die zuständige Behörde mit dem bisherigen Ermittlungserfolg im Jahr 2016 und im laufenden Jahr 2017 zufrieden? Wenn ja, warum? Wenn nein, warum nicht und was tut er beziehungsweise sie dagegen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/5411.
 

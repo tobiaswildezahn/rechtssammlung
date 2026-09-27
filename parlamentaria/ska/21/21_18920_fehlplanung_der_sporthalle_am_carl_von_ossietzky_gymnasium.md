@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68608"
@@ -65,7 +66,7 @@ Gibt es aktuell Mängel beim Brandschutz, die den Weiterbetrieb der Sporthalle e
 
 Seit wann sind diese Mängel bekannt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nein. Die Halle ist uneingeschränkt nutzbar.
 

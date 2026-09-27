@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56326"
@@ -57,15 +58,15 @@ Der Beirat der Akademie der Weltreligionen, dem Vertreter aus Politik, Wirtschaf
 
 Ausschlaggebend für die Entscheidung waren nach Auskunft der Akademie der Weltreligionen folgende Kriterien:
 
- Wissenschaftliche Exzellenz im Bereich Hermeneutik, Neulesen koranischer Texte
+– Wissenschaftliche Exzellenz im Bereich Hermeneutik, Neulesen koranischer Texte
 
 und Dialog. Professor Esack sei besonders ausgewiesen im Bereich Hermeneutik und dem Neulesen koranischer Texte. So sei seine Arbeit mit dem Titel The Portrayal of Jews and the Possibilities of their Salvation in the Quran als Meilenstein zu werten. Professor Esack liefere hier durch die Neuinterpretation des Korans eine innerislamische Legitimation für die Anerkennung des religiös Anderen als gleichberechtigt und gleichwertig. Der Aufsatz gelte in der Fachwelt als bahnbrechend. Ferner habe Professor Esack grundlegende Texte vor allem zu den Fragen Islam & Aids und Islam & Pluralismus verfasst.
 
- National und international hohes wissenschaftliches Ansehen von Professor
+– National und international hohes wissenschaftliches Ansehen von Professor
 
 Esack. So habe er beispielsweise 2014 die renommierte James & David Orr Memorial Lecture on Culture and Religion am Dartmouth College zum Thema „The Contemporary Democracy and the Human Rights Project – Challenges for the Progressive Muslim Intellectual” gehalten. Zudem sei er beispielsweise maßgeblich an dem renommierten Projekt Islamische und Jüdische Hermeneutik als Kulturkritik beteiligt, das von Shulamit Bruckstein und Navid Kermani geleitet wurde und am Wissenschaftskolleg zu Berlin angesiedelt war.
 
- Aufgrund seines gesellschaftspolitischen Engagements sei er von Nelson Mandela
+– Aufgrund seines gesellschaftspolitischen Engagements sei er von Nelson Mandela
 
 als Gleichstellungsbeauftragter der südafrikanischen Regierung eingesetzt worden.
 
@@ -85,15 +86,15 @@ Welche thematischen Leistungen wurden durch die Gastprofessur im Detail erbracht
 
 Professor Esack hat zwei Seminare im Rahmen des Masterstudiengangs „Religionen, Dialog und Bildung“ (RDB) durchgeführt sowie einen Vortrag im Rahmen der Ringvorlesung: „Reformation, Aufbruch und Erneuerungsprozesse von Religionen“ gehalten. Im Einzelnen:
 
- Seminar: „Norms and Practices of Islam“; Teilnehmer: 21 Studierende (davon 19
+– Seminar: „Norms and Practices of Islam“; Teilnehmer: 21 Studierende (davon 19
 
 Master RDB und zwei andere Fächer),
 
- Seminar: „Journeying with the Qur'an towards a Theology that liberates“; Teilneh-
+– Seminar: „Journeying with the Qur'an towards a Theology that liberates“; Teilneh-
 
 mer: sieben Studierende (davon fünf Master RDB und zwei andere Fächer),
 
- Vortrag im Rahmen der Ringvorlesung: „Reformation, Aufbruch und Erneuerungs-
+– Vortrag im Rahmen der Ringvorlesung: „Reformation, Aufbruch und Erneuerungs-
 
 prozesse von Religionen“ am 28.11.2016 mit dem Titel: „Zwischen progressivem Islam und Befreiungstheologie“; Teilnehmer: 46 Studierende und circa 70 Zuhörerinnen und Zuhörer).
 

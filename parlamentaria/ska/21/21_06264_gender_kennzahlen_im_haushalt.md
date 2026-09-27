@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7126", "20/10278", "21/5600", "21/1282", "21/2183"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54775"
@@ -59,7 +60,7 @@ Welche Planwerte bei genderbezogenen Kennzahlen wurden angepasst und aus welchem
 
 Welche Gender-Kennzahlen gibt es im Haushalt 2017/2018 nicht mehr und mit welcher Begründung wurden diese aus dem Kennzahlen-Set genommen? Welche genderrelevanten Kennzahlen kommen mit welcher Begründung hinzu?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Senatskanzlei (SK) und Personalamt (PA) – Einzelplan 1.1.:
 
@@ -216,9 +217,9 @@ Bei der Kennzahl B_275_13_017 (Anteil eingestellter Polizeivollzugsbeamtinnen LA
 
 Im Haushalt 2017/2018 wurden folgende Kennzahlen im AB 275-Polizei gestrichen:
 
- B_275_13_006 Frauenanteil an den Professuren
+– B_275_13_006 Frauenanteil an den Professuren
 
- B_275_13_007 Frauenanteil an hauptamtlichem Lehrpersonal ohne Professuren
+– B_275_13_007 Frauenanteil an hauptamtlichem Lehrpersonal ohne Professuren
 
 Sie wurden gestrichen, da Änderungen bei geringen absoluten Zahlen schnell hohe prozentuale Abweichungen generieren, die zu einer Verzerrung des Aussagewertes führen. Die entsprechenden Aussagen zu den Frauenanteilen an den Professuren beziehungsweise an hauptamtlichem Lehrpersonal werden stattdessen in das Vorwort der entsprechenden Produktgruppe aufgenommen. Eine Ergänzungsdrucksache der BIS befindet sich in der Vorbereitung. Neue Gender-Kennzahlen wurden nicht aufgenommen. Im Übrigen siehe Anlage 7.
 
@@ -238,7 +239,7 @@ Wie gewährleistet der Senat das Monitoring der Entwicklung der Gender-Kennzahle
 
 Welche Kennzahlen zeichnen sich durch minimale Varianzen aus und welche Möglichkeiten der Abhilfe sieht der Senat in diesen Fällen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Gemäß § 10 Absatz 3 der Landeshaushaltsordnung (LHO) unterrichtet der Senat die Bürgerschaft nach Ablauf des 1. und 3. Quartals über die Haushaltsentwicklung sowie nach Ablauf des 2. Quartals zusätzlich über Art und Umfang der erbrachten Leistungen und die Geschäftsentwicklung der Einrichtungen nach § 26 Absatz 1 LHO. Der Senat weist auf erhebliche Abweichungen der zum Ende des Haushaltsjahres zu erwartenden Kennzahlenwerte von den Kennzahlenwerten des Haushaltsplans besonders hin und unterbreitet der Bürgerschaft spätestens mit dem folgenden Bericht einen Entscheidungsvorschlag.
 

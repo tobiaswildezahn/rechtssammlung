@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17431", "21/17589"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67545"
@@ -152,11 +153,11 @@ Siehe Anlagen 7 bis 10.
 
 Die Einzelgesellschaften weisen im Wesentlichen folgende wirtschaftliche Geschäftsbetriebe auf (mit entsprechenden Einnahmen und Ausgaben, siehe auch Anlage 10):
 
- ab ausblick hamburg GmbH:
+– ab ausblick hamburg GmbH:
 
 o Verwaltungsdienstleistung innerhalb der Organschaft.
 
- BBW Berufsbildungswerk Hamburg GmbH:
+– BBW Berufsbildungswerk Hamburg GmbH:
 
 o Drittverpflegung Mensa,
 
@@ -164,7 +165,7 @@ o Verwaltungsdienstleistungen innerhalb der Organschaft,
 
 o kurzfristige Vermietungen.
 
- BFW Berufsförderungswerk Hamburg GmbH:
+– BFW Berufsförderungswerk Hamburg GmbH:
 
 o Vermietung Internatszimmer,
 
@@ -174,7 +175,7 @@ o kurzfristige Vermietungen,
 
 o Verwaltungsdienstleistungen innerhalb der Organschaft.
 
- PepKo Perspektiv-Kontor Hamburg GmbH :
+– PepKo Perspektiv-Kontor Hamburg GmbH :
 
 o Verwaltungsdienstleistungen innerhalb der Organschaft.
 

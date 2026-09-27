@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 15
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17183"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67914"
@@ -53,7 +54,7 @@ Ist die Erprobung dieses neuen Verfahrens (Pilotprojekt) zur Verbesserung der RÃ
 
 Wenn das Pilotprojekt im Bezirk Hamburg-Mitte noch nicht abgeschlossen ist: a. Wann soll die Erprobung des Pilotprojektes abgeschlossen sein?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

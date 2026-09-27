@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 6
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2908"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56227"
@@ -84,7 +85,7 @@ iv. der öffentlichen Unternehmen jeweils?
 
 Mit welchen Ausgaben für Mieten und Pachten rechnet der Senat insgesamt für die unter 1. a. – e. genannten Bereiche im Jahr 2017?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für das Jahr 2015 sowie zur Systematik der Darstellung siehe Drs. 21/2908. Im Übrigen siehe Anlagen 1 bis 15.
 

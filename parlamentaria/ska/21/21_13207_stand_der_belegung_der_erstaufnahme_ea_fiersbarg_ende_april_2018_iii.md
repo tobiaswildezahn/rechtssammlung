@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13095"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62546"
@@ -43,7 +44,7 @@ Wie viele Wohnungen sollen jeweils in den drei Stadtvillen entstehen? Wie viele 
 
 Wie viele Plätze sind bei der gebäudeübergreifenden Hausgemeinschaft für behinderte Menschen geplant? Und gibt es hier bereits einen Träger?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In den drei Stadtvillen entstehen 13 Wohneinheiten, welche zu 100 Prozent öffentlich gefördert werden sollen. Als Teilmenge für den öffentlich geförderten Mietwohnungsbau entstehen in einer gebäudeübergreifenden Hausgemeinschaft acht Einzelappartements für pflegebedürftige beziehungsweise behinderte Menschen. Den zuständigen Behörden ist noch kein entsprechender Träger bekannt.
 

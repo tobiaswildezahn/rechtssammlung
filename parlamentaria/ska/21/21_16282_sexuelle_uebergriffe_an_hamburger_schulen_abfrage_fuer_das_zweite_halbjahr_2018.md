@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14576", "21/13602"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65797"
@@ -61,7 +62,7 @@ Wie viele solcher Fälle beziehungsweise welche mündeten in einen Strafprozess?
 
 Wie viele solcher Fälle beziehungsweise welche führten zu einer Verurteilung?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der zur Beantwortung der Fragen erforderliche Umstand, ob der Tatort eines Sexualdeliktes eine Schule ist, wird im Vorgangsverwaltungs- und Vorgangsbearbeitungssystem MESTA der Staatsanwaltschaft Hamburg nicht erfasst. Wegen des Vorwurfs einer Straftat nach §§ 174, 176, 176a StGB sind in dem Aktenzeichenjahrgang 2018 in MESTA 330 Verfahren in Bekanntsachen und 123 Verfahren in Unbekanntsachen erfasst. In Betracht kommen ferner Verfahren mit Vorwürfen nach §§ 177, 184i StGB. Die Beiziehung und Auswertung allein dieser über 450 Verfahren ist in der für die
 

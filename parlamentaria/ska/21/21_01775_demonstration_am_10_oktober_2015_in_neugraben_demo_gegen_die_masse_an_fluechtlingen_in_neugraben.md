@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50000"
@@ -49,7 +50,7 @@ Wer soll Versammlungsleiterin beziehungsweise Versammlungsleiter der im Betreff 
 
 Welche Demonstrationsroute wurde angemeldet? Bitte detailliert die Plätze und Straßennamen der Demonstrationsroute sowie die Anfangskundgebung, Zwischenkundgebungen und Abschlusskundgebungen mitteilen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Antwort zu 1.
 

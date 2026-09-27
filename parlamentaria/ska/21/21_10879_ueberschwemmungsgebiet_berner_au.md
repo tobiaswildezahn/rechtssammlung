@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9690"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59808"
@@ -162,7 +163,7 @@ Warum wurde die Validierung nur mit einem Ereignis durchgeführt und warum wurde
 
 Wieso ist bisher keine aussagekräftige Validierung (wie oben erläutert) durchgeführt worden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die angeführte Validierung bezieht sich auf das 2-D-Modell. Das Merkblatt DWA-M 552 kann hierauf nicht angewendet werden.
 

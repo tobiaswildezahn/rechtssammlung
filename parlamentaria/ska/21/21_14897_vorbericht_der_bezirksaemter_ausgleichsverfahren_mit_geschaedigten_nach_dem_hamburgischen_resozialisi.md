@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64341"
@@ -51,7 +52,7 @@ Wie viele Fälle wurden zur Durchführung eines Ausgleichsverfahrens mit den Ges
 
 Wie viele dieser zugewiesenen Fälle haben sich nach der Fallprüfung als ungeeignet erwiesen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Jahr  
 zugewiesene Fälle  
@@ -70,7 +71,7 @@ Woran liegt die erkennbare Steigerung, die auch in den Erörterungen zu K003 unt
 
 Wie häufig haben die Geschädigten die Teilnahme verweigert?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Gründe für Qualifizierung als „ungeeignet“ waren mangelnde Geständnisse der Täter, mangelnde Mitwirkungsbereitschaft bei Tätern oder Opfern, gescheiterte Kon-
 

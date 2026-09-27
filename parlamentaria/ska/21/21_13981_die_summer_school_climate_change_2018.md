@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63368"
@@ -47,7 +48,7 @@ Wie viele Personen haben in diesem Jahr an der Summer School „Climate Change 2
 
 Aus welchen wissenschaftlichen Disziplinen stammen sie?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Insgesamt nahmen 33 Personen teil. Die Personen stammen aus den Integrierten Klimawissenschaften, der Meteorologie, der Bodenkunde, den Forst-, Ingenieur-, Erdsystem-, Agrar- und Rechtswissenschaften, der Biologie, der Informatik, der Betriebswirtschaftslehre, der Molekularbiologie, der Ozeanographie, der Geographie und der Mathematik.
 

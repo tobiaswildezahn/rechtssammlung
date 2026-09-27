@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 20
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8055", "21/5231", "21/8600", "21/8294", "21/8425"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57485"
@@ -52,7 +53,7 @@ Von welcher Seite erfolgte die Kündigung?
 
 Was sind die Gründe für die Kündigung?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Es erfolgte keine Kündigung, da der Betrieb durch das DRK vertragsgemäß nach zwei Jahren Laufzeit (ab Beginn der Belegung) einvernehmlich endet.
 

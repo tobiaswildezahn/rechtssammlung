@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49863"
@@ -57,7 +58,7 @@ Hat der Senat eine umfassende Strategie beziehungsweise ein konkretes Programm, 
 
 Welche Initiativen hat der Senat seit 2011 initiiert, um den Breitbandausbau in Hamburg voranzubringen? Bitte ohne Verweis auf andere Drucksachen detailliert beantworten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Erst Anfang 2015 haben sich Bund und Länder auf eine Verteilung der Erlöse aus der Digitalen Dividende II geeinigt und damit eine Grundlage für die finanzielle Förderung des Breitbandausbaus geschaffen. Die Höhe der hieraus auf Hamburg entfallenden Mittel ist erst seit Ende Juni 2015 bekannt. Erst seitdem besteht eine realistische Grundlage für die Entwicklung umsetzbarer Strategien, Programme und Initiativen. Zum aktuellen Sachstand und Vorgehen siehe Antwort zu 6. Im Übrigen siehe Vorbemerkung.
 
@@ -77,35 +78,35 @@ In welchen Hamburger Stadtteilen kann die von der BNetzA vorgegebene Bandbreite 
 
 Aus dem Breitbandatlas ergeben sich entsprechende Versorgungslücken in folgenden Bereichen:
 
- Cranz (Harburg),
+– Cranz (Harburg),
 
- Grenzbereiche in Hausbruch (Harburg),
+– Grenzbereiche in Hausbruch (Harburg),
 
- weite Teile der Vier- und Marschlande (Bergedorf),
+– weite Teile der Vier- und Marschlande (Bergedorf),
 
- Moorwerder (Hamburg-Mitte),
+– Moorwerder (Hamburg-Mitte),
 
- hauptsächlich gewerblich genutzte Teile von Billbrook (Hamburg-Mitte) und Bill-
+– hauptsächlich gewerblich genutzte Teile von Billbrook (Hamburg-Mitte) und Bill-
 
 werder (Bergedorf),
 
- einige Straßen am Altonaer Volkspark zwischen Bahrenfeld (Altona) und Stellingen
+– einige Straßen am Altonaer Volkspark zwischen Bahrenfeld (Altona) und Stellingen
 
 (Eimsbüttel),
 
- einige Randgebiete von Rissen und Sülldorf (Altona),
+– einige Randgebiete von Rissen und Sülldorf (Altona),
 
- einige an das Flughafengebiet angrenzende Straßen in Niendorf (Eimsbüttel) und
+– einige an das Flughafengebiet angrenzende Straßen in Niendorf (Eimsbüttel) und
 
 Groß Borstel (Hamburg-Nord),
 
- nördliches Ende der Glashütter Landstraße in Hummelsbüttel (Wandsbek),
+– nördliches Ende der Glashütter Landstraße in Hummelsbüttel (Wandsbek),
 
- einige Straßen in Duvenstedt, Lemsahl-Mellingstedt und Wohldorf-Ohlstedt
+– einige Straßen in Duvenstedt, Lemsahl-Mellingstedt und Wohldorf-Ohlstedt
 
 (Wandsbek),
 
- Gebiete zwischen Volksdorf, Sasel und Farmsen-Berne (Wandsbek) in denen erst
+– Gebiete zwischen Volksdorf, Sasel und Farmsen-Berne (Wandsbek) in denen erst
 
 zwischen 75 und 95 Prozent der Haushalte mit mindestens 30 MBit/s anschließbar sind.
 

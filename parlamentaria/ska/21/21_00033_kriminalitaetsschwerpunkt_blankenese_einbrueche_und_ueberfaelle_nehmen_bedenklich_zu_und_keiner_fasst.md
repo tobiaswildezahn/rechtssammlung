@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 24
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14124", "20/14519", "20/10484"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48157"
@@ -59,7 +60,7 @@ Wie ist der Ermittlungsstand hinsichtlich der Einbruchserie in der Blankeneser B
 
 Haben die Zeugenaufrufe in der Presse Wirkung gezeigt? Wenn ja, wie ist der Rücklauf und wie konkret und sachdienlich waren die jeweiligen Hinweise?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Ermittlungen zur Einbruchsserie in und im Umfeld der Blankeneser Bahnhofstraße im Sommer 2014 sind bis auf ein Verfahren abgeschlossen. Alle übrigen Verfahren wurden eingestellt. Ein Täter konnte jeweils nicht ermittelt werden. Das Verfahren, dem ein Einbruchsversuch in ein Schmuck-Atelier zugrunde liegt, befindet sich zur Entscheidung über den Verfahrensfortgang bei der Staatsanwaltschaft.
 
@@ -184,7 +185,7 @@ Soweit bei den Sachbeschädigungsdelikten, insbesondere durch Graffiti, Zuwächs
 
 Soweit bei den Sachbeschädigungsdelikten, insbesondere durch Graffiti, die Aufklärungsrate gesunken ist, worauf ist dies zurückzuführen und was wird dagegen unternommen?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Im Wahlkreis 4 entwickeln sich die Fallzahlen bei den Sachbeschädigungen im Bereich der normalen Schwankungen.
 

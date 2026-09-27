@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10931", "21/1601"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62252"
@@ -45,7 +46,7 @@ Wie viele Menschen in der hamburgischen Verwaltung, in den Hochschulen und in de
 
 Wie vielen Vollzeitäquivalenten entsprechen die Personenzahlen der Frage 1. jeweils?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage. Gegenüber der Drs. 21/10931 haben sich zur Anzahl der Beschäftigten und der VZÄ in den Behörden, Ämtern und Landesbetrieben keine Änderungen ergeben.
 
@@ -57,7 +58,7 @@ Wie viele Menschen in den Unternehmen, an denen die Freie und Hansestadt mittelb
 
 Wie vielen Vollzeitäquivalenten entsprechen die Personenzahlen der Frage 3. jeweils?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage.
 
@@ -69,7 +70,7 @@ Wie viele Menschen, Unternehmen und Einrichtungen, die von der Freien und Hanses
 
 Wie vielen Vollzeitäquivalenten entsprechen die Personenzahlen der Frage 5. jeweils?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die erfragten Daten werden von den Bewilligungsbehörden nicht gesondert statistisch erfasst. Für eine Beantwortung wäre eine Abfrage zu rund 3.700 Vorgängen bei den Zuwendungsempfangenden erforderlich, was in der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht möglich ist. Darüber hinaus sind bei Zuwendungen im Rahmen von Projektförderungen solche Auskünfte freiwillige Angaben der Zuwendungsempfangenden. Im Übrigen siehe Drs. 21/10931.
 
@@ -114,7 +115,7 @@ Wie viele Beschäftigte haben von dem bis 1.1.2017 geltenden Landesmindestlohn b
 
 Wie wird die Einhaltung der Bestimmungen des Landesvergabegesetzes, unter anderem die Tariftreue, gewährleistet beziehungsweise kontrolliert?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Im Bereich der Liefer- und Dienstleistungen haben die Unternehmen im Rahmen des Vergabeverfahrens eine Erklärung zur Tariftreue und zur Zahlung eines Mindestlohns (sogenannte Eigenerklärung) abzugeben. Auftragnehmerinnen und Auftragnehmer im Bereich von Reinigungsdienstleistungen haben sich darüber hinaus hinsichtlich der Einhaltung der tariflichen, ausländer- und sozialversicherungsrechtlichen Bestimmungen über Selbsthilfeeinrichtungen wie der Prüf- und Beratungsstelle für das Gebäudereiniger-Handwerk (PBSt) einer regelmäßigen Überprüfung unterworfen.
 
@@ -132,7 +133,7 @@ Wie viele konkrete Anhaltspunkte und Hinweise auf Verstöße gegen das Landesver
 
 Wie viele Kontrollen auf Einhaltung des Gesetzes wurden bisher nach Auftragsverteilung durchgeführt? Wie viele davon erfolgten anlassbezogen, also nach Eingang von Hinweisen?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Bei konkreten Anhaltspunkten oder Hinweisen auf Verstöße gegen das Hamburgische Vergabegesetz wird diesen auftragsbezogen durch die Vergabestelle nachgegangen. Eine Erfassung dieser Aktivitäten erfolgt jedoch nicht. Im Baubereich wurden in den Jahren 2013 bis 2017 von der Soko-Bau 1.188 Kontrollen durchgeführt. Keine dieser Kontrollen war durch den vorherigen Eingang von Hinweisen veranlasst. In 264 Fällen ergaben sich bei der Kontrolle Anhaltspunkte für Verstöße gegen die auf dem Hamburgischen Vergabegesetz beruhenden vertraglichen Verpflichtungen.
 

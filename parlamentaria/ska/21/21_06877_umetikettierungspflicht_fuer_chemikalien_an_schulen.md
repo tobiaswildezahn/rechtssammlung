@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55460"
@@ -69,7 +70,7 @@ Von welchem durchschnittlichen zeitlichen Aufwand pro Schule geht die zuständig
 
 Wie sollen nach Ansicht der zuständigen Behörde während des laufenden Schuljahres den Sammlungsleitern für diesen Arbeitsaufwand WAZ- Anrechnungszeiten vergeben werden? a. Aus welchem Grund ist die Anordnung vor dem Hintergrund der Zeitintensität dieser Arbeit nicht bereits vor den letzten Sommerferien ergangen? b. Inwiefern ist geplant, den Sammlungsleitungen in den Schulen eine dem hohen Arbeitsaufwand entsprechende einmalige und zusätzliche Arbeitszeitanrechnung zur Verfügung zu stellen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der Zeitaufwand für die Durchführung der Umetikettierung ist abhängig vom Bestand der Chemikalien an der jeweiligen Schule und dem von der Schule gewählten Verfahren der Umetikettierung. Sammlungsleitungen Chemie erhalten in der Regel Funktionsstunden für diese Tätigkeit, die auch Tätigkeiten wie das einmalige Umetikettieren umfassen.
 

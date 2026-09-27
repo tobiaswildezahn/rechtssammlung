@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 31
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/241"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48959"
@@ -45,7 +46,7 @@ Welcher Zeitplan für den Bau und die Inbetriebnahme der Einrichtung ist vorgese
 
 Mit welchen Bau- und Einrichtungskosten wird gerechnet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nach erteilter Baugenehmigung wird eine Zeit von circa drei Monaten für vorbereitende Arbeiten benötigt, daran schließen sich rund neun Monate Bauzeit an. Mit Stand
 14. April 2015 werden die Baukosten und Baunebenkosten bei rund 5.300.000 Euro und die Einrichtungskosten bei rund 96.000 Euro liegen, eine genaue Einschätzung ist erst nach erteilter Genehmigung und Beauftragung der Leistungsphasen 4-9 HOAI (Honorarordnung für Architekten und Ingenieure) möglich.
@@ -60,7 +61,7 @@ Wer ist Eigentümer des Grundstücks? Zu welchen Konditionen und mit welcher Lau
 
 In einer Informationsveranstaltung zu der Einrichtung war davon die Rede, dass die Unterkunft für 30 Jahre betrieben werden soll. Ist das richtig? Wenn ja, warum derart lange? Geben wirtschaftliche Gründe oder Bedarfsprognosen hier den Ausschlag?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Eigentümer der Fläche ist HAMBURG WASSER. An dem Standort sollen Pavillons mit Wohnungszuschnitten im Holzrahmenbau entstehen, die eine langfristige Nutzung ermöglichen und für die auch zukünftig ein entsprechender Bedarf besteht. Aus diesem Grund wurde mit dem Eigentümer eine Mietzeit von 30 Jahren vereinbart, wirtschaftliche Gründe waren hierfür nicht ausschlaggebend. Die Konditionen des Vertragsabschlusses unterliegen dem Geschäftsgeheimnis der Vertragspartner, die Kosten der Anmietung bewegen sich innerhalb des mit f & w fördern und wohnen AöR vereinbarten Kostenrahmens.
 
@@ -132,7 +133,7 @@ Mit wie vielen Kindern im schulfähigen Alter wird gerechnet und auf welchen Sch
 
 Wie ist geplant, mit dem Mangel an günstigen Einkaufsmöglichkeiten in der Gegend umzugehen?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Antworten zu 8. und 10.
 
@@ -166,17 +167,17 @@ f & w nutzte bis Ende 2008 das ehemalige Studentenwohnheim im Björnsonweg 39 f�
 
 Unterbringung im Wesentlichen in den Jahren 2000 bis 2009 rückläufig war, wurden – in Abstimmung mit den Bezirksämtern – im Rahmen einer jährlichen Kapazitätsplanung Unterkünfte abgebaut. Mit der Kapazitätsplanung für 2008 wurde unter anderem die Schließung der Unterkunft Björnsonweg umgesetzt. Für die Schliessung des Standorts Björnsonweg 39 gab es mehrere Gründe:
 
- Der Mietvertrag zwischen f & w und dem Eigentümer lief zum Jahresende 2008
+– Der Mietvertrag zwischen f & w und dem Eigentümer lief zum Jahresende 2008
 
 aus;
 
- zu diesem Zeitpunkt war eine Grundinstandsetzung der Sanitär- und Küchenberei-
+– zu diesem Zeitpunkt war eine Grundinstandsetzung der Sanitär- und Küchenberei-
 
 che sowie der Zimmer erforderlich;
 
- darüber hinaus mussten teilweise die Fassaden und Fenster erneuert werden;
+– darüber hinaus mussten teilweise die Fassaden und Fenster erneuert werden;
 
- aufgrund dieser überdurchschnittlich hohen Investitionskosten wurde ein Abbau die
+– aufgrund dieser überdurchschnittlich hohen Investitionskosten wurde ein Abbau die
 
 Unterkunft Björnsonweg umgesetzt.
 
@@ -208,7 +209,7 @@ Vor dem Hintergrund der weiter steigenden Flüchtlingszahlen: Ist die geplante E
 
 Die Kapazität der Unterkunft wurde früher einmal mit bis zu 100 Personen angegeben. Warum wurde die Kapazität erhöht?
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Eine erste Entwurfsplanung für den Standort liegt seit Februar dieses Jahres vor und beruht auf den Flächenangaben des betrachteten Flurstücks 1609 Gemarkung Blankenese mit einer Fläche von 5.405 m². Die vorliegende Planung nutzt die verfügbare Fläche in ganzen Umfang aus, sodass eine Erweiterung auf dem Flurstück aus bauplanerischen Gründen ausgeschlossen ist. Die zuständige Behörde hat sich im Vorwege zu einer möglichen Kapazität nicht abschließend geäußert, da eine Einschätzung der Platzanzahl grundsätzlich erst nach Vorliegen der Entwurfsplanung möglich ist.
 

@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 32
 antwortbloecke: 21
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4499", "21/4566", "21/4765", "21/5126", "21/5454", "21/5811", "21/6223", "21/6543", "21/5832", "21/6503", "21/6428", "21/5163"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55772"
@@ -224,7 +225,7 @@ Wie viele Flüchtlinge haben mit Stand Ende November im Jahr 2016 bereits einen 
 
 Wie viele Flüchtlinge haben mit Stand Ende November 2016 bereits einen vom Land finanzierten Sprachkurs absolviert? Wie viele davon sind Männer, wie viele Frauen? Bitte jeweils für „Deutschkurse für Flüchtlinge“ und „Erstorientierung für Flüchtlinge“ angeben.
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Bis Ende Oktober wurden für das Programm „Deutschkurse für Flüchtlinge“ von den Sprachkursträgern Abrechnungen für 712 Absolventinnen und Absolventen eingereicht. Davon waren 593 männlich und 119 weiblich.
 

@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 18
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14008", "21/14000", "21/12585", "21/13970", "20/12200"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63594"
@@ -160,23 +161,23 @@ Gibt es in Hamburg aktuell zeitlich befristete Projekte der Straßensozialarbeit
 
 Der Förderzeitraum für zuwendungsfinanzierte Projekte der Straßensozialarbeit beläuft sich in der Regel auf zwei Jahre. Sofern Bedarfslage und Inanspruchnahme weiter gegeben sind, ist grundsätzlich von einer Weitergewährung auszugehen. Dazu sind jedoch zunächst die Haushaltsverhandlungen abzuwarten, sodass derzeit keine weitergehenden Aussagen getroffen werden können. In diesem Sinne sind folgende Projekte befristet:
 
- Straßensozialarbeit Wandsbek/Fischbek und Harburg sind bis Ende 2018 befristet.
+– Straßensozialarbeit Wandsbek/Fischbek und Harburg sind bis Ende 2018 befristet.
 
- Die Fachberatungsstelle Prostitution hat eine zweijährige Zuwendungsförderung,
+– Die Fachberatungsstelle Prostitution hat eine zweijährige Zuwendungsförderung,
 
 ansonsten keine zeitliche Befristung.
 
- Ragazza/Ragazza mobil, Drob Inn/Stay Alive, Park In, Ragazza Kontakt und das
+– Ragazza/Ragazza mobil, Drob Inn/Stay Alive, Park In, Ragazza Kontakt und das
 
 Basis-Projekt haben eine befristete Zuwendung bis Ende 2018.
 
- Die Straßensozialarbeit Sandbek/Fischbek hat eine befristete Förderung bis Ende
+– Die Straßensozialarbeit Sandbek/Fischbek hat eine befristete Förderung bis Ende
 
 2018. Die Weiterförderung durch den Quartiersfond ist geplant.
 
- Die Straßensozialarbeit Harburg hat eine befristete Förderung bis Ende 2018.
+– Die Straßensozialarbeit Harburg hat eine befristete Förderung bis Ende 2018.
 
- Sansa hat eine Förderung bis Ende 2018 (Ende Förderzeitraum EHAP-Projekt
+– Sansa hat eine Förderung bis Ende 2018 (Ende Förderzeitraum EHAP-Projekt
 
 „Perspektiven in Europa schaffen“).
 

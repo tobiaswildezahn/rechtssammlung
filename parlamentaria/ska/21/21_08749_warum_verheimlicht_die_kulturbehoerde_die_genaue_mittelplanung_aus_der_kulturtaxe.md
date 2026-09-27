@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7346", "21/8359"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57484"
@@ -56,7 +57,7 @@ Wann wurde bei den in der Drs. 21/8359 genannten 2017 aus der KTT geförderten k
 a) Für welche kulturellen Projekte liegen bereits senats- beziehungsweise behördeninterne Verwendungsplanungen oder Beschlüsse zur Förderung aus der KTT im Jahr 2017 vor, ohne dass bislang ein Zuwendungsbescheid ausgestellt beziehungsweise versandt wurde? Bitte differenziert nach Projekt, Höhe der Fördersumme sowie nach Ausstellungsfonds, Elbkulturfonds, Lebendige Festivallandschaft, Attraktivierung Musikstadt, Neuen touristischen Aufgabenfeldern sowie nach Überregional ausgezeichneter Medienkultur auflisten.
 b) Für welche kulturellen Projekte sind seit der Protokollerklärung zur Sitzung vom 02.03.2017 bereits Zuwendungsbescheide in welcher Höhe ergangen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage. Dargelegt wurde der aktuelle Stand. Erfahrungsgemäß kann es im Laufe des Jahres noch Veränderungen bei einzelnen Projekten geben. Weitere Förderungsdetails sind bereits oder werden in Kürze im Transparenzportal unter http://suche.transparenz.hamburg.de/dataset/zuwendungsvorgaenge-2017-quartal-1 veröffentlicht, der einfachen Identifikation dienen die angegebenen Nummern des Fachverfahrens INEZ.
 

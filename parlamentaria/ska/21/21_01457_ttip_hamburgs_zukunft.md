@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49658"
@@ -69,7 +70,7 @@ Ist der Senat der Auffassung, dass die Verhandlungen zu TTIP nur fortgesetzt wer
 
 Zeigt der vom Bundeswirtschaftsminister vorgelegte Vorschlag zu einem Handelsgerichtshof aus Sicht des Senats einen gangbaren Weg auf?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Senat hat sich damit nicht befasst.
 

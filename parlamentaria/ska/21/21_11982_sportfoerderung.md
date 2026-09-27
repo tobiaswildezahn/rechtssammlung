@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61234"
@@ -65,17 +66,17 @@ Liegt dem Senat ein Antrag auf Sportförderung von sportspaß e.V. vor? a. Wenn 
 
 Mit Schreiben vom 8. Januar 2018 hat sportspaß e.V. einen Antrag auf Förderung gestellt. sportspaß e.V. beantragt hierin Zuschüsse für folgende Bereiche:
 
- Förderung des Ehrenamtes/Personal/Verwaltung,
+– Förderung des Ehrenamtes/Personal/Verwaltung,
 
- Bezuschussung des Vereinsübungsbetriebes,
+– Bezuschussung des Vereinsübungsbetriebes,
 
- Förderung des Freizeitsports,
+– Förderung des Freizeitsports,
 
- Förderung der Lehrarbeit,
+– Förderung der Lehrarbeit,
 
- Förderung der Sportinfrastruktur sowie
+– Förderung der Sportinfrastruktur sowie
 
- Förderung für den Betrieb der vereinseigenen Sportstätten.
+– Förderung für den Betrieb der vereinseigenen Sportstätten.
 
 Der Antrag wird derzeit von der zuständigen Behörde geprüft.
 
@@ -87,7 +88,7 @@ Liegen dem Senat weitere Anträge auf Sportförderung vor?
 
 Gab es in der Vergangenheit Anträge auf Sportförderung von Vereinen oder Verbänden, die nicht im HSB organisiert waren?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nein.
 

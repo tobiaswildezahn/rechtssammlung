@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 53
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69910"
@@ -99,7 +100,7 @@ Welche Unterstützung von Initiativen zu neuen Wohnformen im Alter von LSBTI* ha
 
 Was wurde konkret dafür getan, insbesondere zielgruppenspezifische Wohngemeinschaften für zu pflegende LSBTI* in Hamburg zu initiieren? Gibt es mittlerweile solche Pflegewohngemeinschaften in Hamburg vergleichbar mit Berlin? Falls ja: Bitte auflisten nach jeweiliger Zielgruppe und Anzahl der Plätze.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Zielgruppenspezifische Wohngemeinschaften für LSBTI* bestehen in Hamburg bislang nicht. Die Hamburger Koordinationsstelle für Wohn-Pflege-Gemeinschaften steht im Kontakt zu den Interessenvertretungen von LSBTI*. Im Herbst 2020 ist ein Fachtag geplant.
 
@@ -182,7 +183,7 @@ Gibt es in Hamburg Pflegeeinrichtungen und Pflegedienste, die sich speziell oder
 
 Gibt es Pläne, Pflegeeinrichtungen und Pflegedienste zu befähigen, ihre Einrichtungs- und Pflegekonzepte für eine subjektorientierte Betreuung und Pflege von LSBTI* und Menschen mit HIV zu öffnen? Wenn ja, wie sehen diese aus? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Zugelassene Pflegeeinrichtungen haben in ihren Konzepten keinen ausdrücklichen Schwerpunkt zur Versorgung dieses Personenkreises benannt. Zur professionellen pflegerischen Versorgung gehören die Berücksichtigung der konkreten Lebenssituation, der soziale, kulturelle und religiöse Hintergrund, die sexuelle Orientierung sowie die Lebensphase des zu pflegenden Patienten. Vergleiche auch Antworten zu 14. bis
 16.

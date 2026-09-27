@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5458"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54090"
@@ -43,99 +44,99 @@ Wie sieht das Programm der Reise zu den Olympischen Spielen genau aus?
 
 Welche Gespräche zwischen wem sind terminiert worden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Anreise erfolgte vom 15. August 2016 auf den 16. August 2016. Beginnend am Ankunftstag bis zur Abreise war eine Vielzahl von Gesprächsterminen geplant. Während dieser ergaben sich vielfach weitere Gelegenheiten zum Austausch. Zu den Gesprächspartnern gehörten:
 
- Harald Klein, Generalkonsul der Bundesrepublik Deutschland in Rio de Janeiro
+– Harald Klein, Generalkonsul der Bundesrepublik Deutschland in Rio de Janeiro
 
- Mitglieder des Sportausschusses des Deutschen Bundestages (Frank Steffel,
+– Mitglieder des Sportausschusses des Deutschen Bundestages (Frank Steffel,
 
 CDU; Dr. Eberhard Gienger, CDU; Dr. Andre Hahn, Die Linke; Monika Lazar, Bündnis 90/Die Grünen; Michaela Engelmeier, SPD)
 
- Christina Kampmann, Sportministerin von Nordrhein-Westfalen; Vorsitzende der
+– Christina Kampmann, Sportministerin von Nordrhein-Westfalen; Vorsitzende der
 
 Sportministerkonferenz
 
- Christophe de Kepper, Generaldirektor des Internationalen Olympischen Komitees
+– Christophe de Kepper, Generaldirektor des Internationalen Olympischen Komitees
 
 (IOC)
 
- Alfons Hörmann, Präsident des Deutschen Olympischen Sportbunds (DOSB)
+– Alfons Hörmann, Präsident des Deutschen Olympischen Sportbunds (DOSB)
 
- Gerhard Böhm, Abteilungsleiter Sport im Bundesministerium des Innern
+– Gerhard Böhm, Abteilungsleiter Sport im Bundesministerium des Innern
 
- Adam Silver, Commissioner der US-amerikanischen National Basketball Associa-
+– Adam Silver, Commissioner der US-amerikanischen National Basketball Associa-
 
 tion (NBA)
 
- Kim Bohuny, Senior Vice President NBA, International Basketball Operations
+– Kim Bohuny, Senior Vice President NBA, International Basketball Operations
 
- Horacio Muratore, Präsident der Internationalen Basketball Förderation (FIBA)
+– Horacio Muratore, Präsident der Internationalen Basketball Förderation (FIBA)
 
- Patrick Baumann, FIBA-Generalsekretär
+– Patrick Baumann, FIBA-Generalsekretär
 
- Turgay Demirel, Präsident der Internationalen Basketball Föderation (FIBA) Euro-
+– Turgay Demirel, Präsident der Internationalen Basketball Föderation (FIBA) Euro-
 
 pe
 
- Ingo Weiss, Präsident des Deutschen Basketball Bundes und Vorsitzender der
+– Ingo Weiss, Präsident des Deutschen Basketball Bundes und Vorsitzender der
 
 Deutschen Sportjugend
 
- Dr. Ching-Kuo Wu, Präsident des Weltamateurboxverbandes AIBA
+– Dr. Ching-Kuo Wu, Präsident des Weltamateurboxverbandes AIBA
 
- Jürgen Kyas, Präsident des Deutschen Boxverbandes
+– Jürgen Kyas, Präsident des Deutschen Boxverbandes
 
- Hassan Moustafa, Präsident der Internationalen Handballföderation
+– Hassan Moustafa, Präsident der Internationalen Handballföderation
 
- Andreas Michelmann, Präsident des Deutschen Handballbundes
+– Andreas Michelmann, Präsident des Deutschen Handballbundes
 
- Ary Graca, Präsident des Internationalen Volleyballverbandes
+– Ary Graca, Präsident des Internationalen Volleyballverbandes
 
- Thomas Krone, Präsident des Deutschen Volleyballverbands
+– Thomas Krone, Präsident des Deutschen Volleyballverbands
 
- Hannes Jagerhofer, CEO Beach Majors GmbH
+– Hannes Jagerhofer, CEO Beach Majors GmbH
 
- Christopher Reindl, geschäftsführender Direktor Red Bull Media House
+– Christopher Reindl, geschäftsführender Direktor Red Bull Media House
 
- Ingmer de Vos, Präsident des Weltreitsportverbands FEI
+– Ingmer de Vos, Präsident des Weltreitsportverbands FEI
 
- Soenke Lauterbach, Generalsekretär und Vorstandsvorsitzender der Deutschen
+– Soenke Lauterbach, Generalsekretär und Vorstandsvorsitzender der Deutschen
 
 Reiterlichen Vereinigung
 
- Brian Cookson, Präsident des Welt-Radsportverbandes UCI
+– Brian Cookson, Präsident des Welt-Radsportverbandes UCI
 
- Marisol Cassado, Präsidentin der Internationalen Triathlon Union
+– Marisol Cassado, Präsidentin der Internationalen Triathlon Union
 
- Dr. Martin Engelhardt, Präsident der Deutschen Triathlon Union
+– Dr. Martin Engelhardt, Präsident der Deutschen Triathlon Union
 
- Matthias Zöll, Generalsekretär der Deutschen Triathlon Union
+– Matthias Zöll, Generalsekretär der Deutschen Triathlon Union
 
- Rolf Lange, Leiter des Geschäftsbereichs Unternehmenskommunikation/Public
+– Rolf Lange, Leiter des Geschäftsbereichs Unternehmenskommunikation/Public
 
 Affairs der EDEKA AG
 
- Prof. Wolfgang Maennig, Olympiasieger Rudern, Sportökonom, Universität Ham-
+– Prof. Wolfgang Maennig, Olympiasieger Rudern, Sportökonom, Universität Ham-
 
 burg
 
- Dr. Werner Bauch, Vorstandsvorsitzender von Plan International Deutschland
+– Dr. Werner Bauch, Vorstandsvorsitzender von Plan International Deutschland
 
 Die Planung des Programms erfolgte durch die zuständige Behörde in Abstimmung mit Vertretern des Deutschen Generalkonsulats in Rio de Janeiro und des Deutschen Olympischen Sportbundes (DOSB) sowie des Olympiastützpunktes Hamburg/ Schleswig-Holstein.
 
 Im Rahmen des Besuchs erfolgte die Teilnahme an einer Reihe von Veranstaltungen. Zu ihnen gehörten
 
- Empfänge im Deutschen Haus und im NBA House sowie der offizielle Empfang der
+– Empfänge im Deutschen Haus und im NBA House sowie der offizielle Empfang der
 
 diplomatischen Vertretungen der Bundesrepublik Deutschland in Brasilien für die Deutschen Athletinnen und Athleten,
 
- eine Diskussionsrunde mit Teilnehmerinnen und Teilnehmern des Olympischen
+– eine Diskussionsrunde mit Teilnehmerinnen und Teilnehmern des Olympischen
 
 Jugendlagers,
 
- die Besichtigung des Olympischen Dorfes inklusive Gesprächen mit Hamburger
+– die Besichtigung des Olympischen Dorfes inklusive Gesprächen mit Hamburger
 
 Athletinnen und Athleten.
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 21
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6933", "20/6370"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55737"
@@ -51,7 +52,7 @@ Seit wann wusste der Erste Bürgermeister Olaf Scholz (SPD) von den Verkaufsabsi
 
 Seit wann wusste der Erste Bürgermeister Olaf Scholz (SPD) von den Gesprächen und Verhandlungen zwischen Oetker und Maersk andererseits?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/6933.
 
@@ -71,7 +72,7 @@ Wie viele Gespräche hat es im Jahr 2016 jeweils wann vonseiten des Ersten Bürg
 
 Wie viele Gespräche hat es im Jahr 2016 jeweils wann vonseiten des Ersten Bürgermeisters Olaf Scholz (SPD) mit Vertretern von Hamburg Süd gegeben? Welchen Inhalt und welche Ergebnisse hatten diese Gespräche jeweils?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 1. und 2.
 

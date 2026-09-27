@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 19
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6781", "20/8834"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59745"
@@ -97,7 +98,7 @@ Bezogen auf Frage 5.: Gibt es dabei Einzelentscheidungen oder folgt die Behörde
 
 Wie häufig wurden im abgefragten Zeitraum bezogen auf diese Schüler-/-innengruppe (siehe Frage 4.) Zwangsmaßnahmen gegen Eltern und/oder deren Kinder angewendet? Wenn es diese gab, in welcher Form jeweils? (Bitte für jedes Schuljahr, nach Schulformen getrennt, in absoluten Zahlen und in Prozent in einer Excel-Tabelle angeben.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung.
 

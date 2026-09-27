@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 23
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6074", "21/5520", "21/5121", "21/5560", "21/6015", "21/5643"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54609"
@@ -295,41 +296,41 @@ Siehe Drs. 21/6015.
 
 JVA Fuhlsbüttel:
 
- Wegfall der zweiten Besuchsrunde samstags
+– Wegfall der zweiten Besuchsrunde samstags
 
- Verschieben von Vollzugslockerungen auf andere Termine
+– Verschieben von Vollzugslockerungen auf andere Termine
 
 JVA Glasmoor:
 
- Zeitliche Verzögerungen bei Abläufen zur Vermittlung in den Freigang (zum Bei-
+– Zeitliche Verzögerungen bei Abläufen zur Vermittlung in den Freigang (zum Bei-
 
 spiel Betriebserstüberprüfungen)
 
- Abgesenkte Besetzung in Haus II
+– Abgesenkte Besetzung in Haus II
 
 JVA Hahnöfersand:
 
- Einschränkung der Freizeit
+– Einschränkung der Freizeit
 
- Einschränkung von Freizeitaktivitäten
+– Einschränkung von Freizeitaktivitäten
 
- Zeitweiliges Nichtausrücken zur Arbeit in Teilbereichen (Untersuchungshaft)
+– Zeitweiliges Nichtausrücken zur Arbeit in Teilbereichen (Untersuchungshaft)
 
 Sozialtherapeutische Anstalt:
 
- Verkürzung des Aufenthalts im Freien während der Zeit des Besuchseinlasses
+– Verkürzung des Aufenthalts im Freien während der Zeit des Besuchseinlasses
 
- Einschränkungen bei Ausführungen
+– Einschränkungen bei Ausführungen
 
 Untersuchungshaftanstalt:
 
- Einschränkungen im Bereich der Betriebe
+– Einschränkungen im Bereich der Betriebe
 
- Zeitverzögerungen im Bereich Hol- und Bringedienste sowie verkürzte Stationsfrei-
+– Zeitverzögerungen im Bereich Hol- und Bringedienste sowie verkürzte Stationsfrei-
 
 zeiten
 
- Im Nachtdienst Zeitverzögerungen bei Gefangenen-Zuführungen
+– Im Nachtdienst Zeitverzögerungen bei Gefangenen-Zuführungen
 
 ### Frage 5
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13116"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63371"
@@ -73,7 +74,7 @@ Wie viele technologierorientiere beziehungsweise wissensbasierte Unternehmensgr�
 
 Wie viele Unternehmensgründungen gehen auf Studenten, Absolventen beziehungsweise Wissenschaftler zurück?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Hiermit hat sich der Senat noch nicht befasst.
 

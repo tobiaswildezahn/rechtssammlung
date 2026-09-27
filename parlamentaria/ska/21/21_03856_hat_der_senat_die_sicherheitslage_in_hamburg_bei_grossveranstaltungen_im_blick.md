@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52205"
@@ -75,7 +76,7 @@ Wie sieht das Sicherheitskonzept des Senats beziehungsweise der zuständigen Beh
 
 Welche Partner sind in welcher Form in dieses Sicherheitskonzept eingebunden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Feuerwehr und die Polizei entwickeln immer zeitnah zum Veranstaltungstermin aufeinander abgestimmte Konzepte, welche sich derzeit noch in der Planung befinden. Weitere Angaben im Sinne der Frage können daher derzeit nicht gemacht werden.
 

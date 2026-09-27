@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 15
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11279", "21/10452", "20/10330", "21/11140", "21/5410"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62061"
@@ -81,7 +82,7 @@ Welche weiteren Maßnahmen sieht der Senat vor, um die Situation am Hansaplatz z
 
 Was unternimmt der Senat, um den Alkoholverkauf vor Ort in den Abendstunden nachhaltig einzuschränken?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Senat hat eine Vielzahl von Maßnahmen zur Stabilisierung und Verbesserung zur Lage im Stadtteil St. Georg und im Bereich des Hansaplatzes ergriffen und prüft fortlaufend, ob und gegebenenfalls welche weitere Maßnahmen möglich und sinnvoll erscheinen.
 
@@ -123,7 +124,7 @@ Welche Maßnahmen für eine anderweitige Nutzung des Hansaplatzes werden durchge
 
 Gibt es Erwägungen, Betriebserlaubnisse für weitere Gastronomieflächen auf dem Hansaplatz zu erteilen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Dem Bezirksamt Hamburg-Mitte liegen derzeit zwei neue Anträge für den Betrieb von Sommergärten auf dem Hansaplatz vor. Sofern die notwendigen wege- oder bauordnungsrechtlichen Erlaubnisse erteilt sind und auch die gaststättenrechtlichen Voraussetzungen vorliegen, wird das Bezirksamt die beantragten Erlaubnisse nach dem Gaststättengesetz (GastG) erteilen. Im Übrigen siehe Antwort zu 3. und 4.
 
@@ -149,25 +150,25 @@ Zu den im erfragten Zeitraum in den OT 113 und OT 114 erfassten Straftaten siehe
 
 Der PKS-Summenschlüssel 892000 „Gewaltkriminalität“ umfasst folgende Straftatenschlüssel oder Deliktsbereiche:
 
- Mord (PKS-Schlüssel 01****)
+– Mord (PKS-Schlüssel 01****)
 
- Totschlag und Tötung auf Verlangen (PKS-Schlüssel 0200**)
+– Totschlag und Tötung auf Verlangen (PKS-Schlüssel 0200**)
 
- Vergewaltigung/sexuelle Nötigung (PKS-Schlüssel 111***)
+– Vergewaltigung/sexuelle Nötigung (PKS-Schlüssel 111***)
 
- Raub, räuberische Erpressung und räuberischer Angriff auf Kraftfahrer (PKS-
+– Raub, räuberische Erpressung und räuberischer Angriff auf Kraftfahrer (PKS-
 
 Schlüssel 21****)
 
- Körperverletzung mit Todesfolge (PKS-Schlüssel 2210**)
+– Körperverletzung mit Todesfolge (PKS-Schlüssel 2210**)
 
- Gefährliche und schwere Körperverletzung (PKS-Schlüssel 222***)
+– Gefährliche und schwere Körperverletzung (PKS-Schlüssel 222***)
 
- Erpresserischer Menschenraub (PKS-Schlüssel 233***)
+– Erpresserischer Menschenraub (PKS-Schlüssel 233***)
 
- Geiselnahme (PKS-Schlüssel 234***)
+– Geiselnahme (PKS-Schlüssel 234***)
 
- Angriff auf den Luft- und Seeverkehr (PKS-Schlüssel 235000)
+– Angriff auf den Luft- und Seeverkehr (PKS-Schlüssel 235000)
 
 Ergänzend sind in der Anlage die Zahlen für „einfache Körperverletzung (PKS- Schlüssel 224***)“ dargestellt.
 
@@ -181,7 +182,7 @@ Welche Maßnahmen hat der Senat ergriffen, um die Ausstattung und Besetzung der 
 
 Wie ist die Ausstattung der Wache Steindamm mit Überwachungsmöglichkeiten im Nachtbetrieb?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Die verfügbare Personalkapazität (VPK/ Besetzungsumfang) am PK 11 stellt sich jeweils zum Stichtag 1. März wie folgt dar:
 

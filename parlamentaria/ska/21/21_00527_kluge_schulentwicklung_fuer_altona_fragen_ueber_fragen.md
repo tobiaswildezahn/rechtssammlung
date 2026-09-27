@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 25
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48678"
@@ -102,7 +103,7 @@ Was geschieht mit den jugendlichen Flüchtlingen aus den ABC- und IVK- Klassen?
 
 Gibt es eine genaue Planung für die Umstrukturierung der Stadtteilschule am Hafen nach der Standortschließung? Wenn ja, wie wurde dieser Plan entwickelt und wie genau ist er gestaltet? Inwieweit ist oder war die Stadtteilschule in die Planungen involviert? a. Welche Aufteilung der Klassen und Kurse auf die verbleibenden Schulstandorte ist vorgesehen? b. Sind überhaupt genügend Räumlichkeiten vorhanden, um sämtlichen Schülern angemessenen Unterricht zu ermöglichen? Sind an den beiden anderen Standorten Container geplant, wenn ja wie viele und für wie lange? c. Wie viele ABC- und IVK-Klassen werden an den beiden verbleibenden Standorten der Stadtteilschule am Hafen in Zukunft unterrichtet?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Überlegungen hierzu sind noch nicht abgeschlossen. Die Kapazitäten zur Aufnahme der Schülerinnen und Schüler der Regelklassen sind an den verbleibenden Standorten vorhanden.
 

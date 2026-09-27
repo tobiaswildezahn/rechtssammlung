@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49622"
@@ -59,7 +60,7 @@ gibt es jeweils in Hamburg?
 
 Wie viele Anlagen zur Haltung von Nutztieren mit gemischter Haltung, die dem § 2 Absatz 1 Nummer 2 4. BImSchV unterliegen, gibt es in Hamburg?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bei der Beantwortung der Fragen 1.e. und 1.f. bezieht sich der Senat, wie bei sämtlichen unter 1. nachgefragten Anlagen, auf Schwellenwerte des vereinfachten bezie-
 
@@ -76,7 +77,7 @@ Wie viele dieser Anlagen unter Fragen 1. und 2. haben seit 2002 einen Antrag auf
 
 Wie viele dieser Anträge wurden durch die Genehmigungsbehörde abgelehnt? Bitte nach den in Frage 1. genannten Nutztierarten und Anlagen mit gemischter Haltung unterscheiden.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Entfällt.
 
@@ -88,6 +89,6 @@ Wie viele Anträge auf Errichtung einer Anlage zur Haltung von Nutztieren mit de
 
 Wie viele Anträge auf Errichtung einer Anlage zur Haltung von Nutztieren, die dem § 2 Absatz 1 Nummer 2 4. BImSchV unterliegen, gibt es gegenwärtig?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Keine.

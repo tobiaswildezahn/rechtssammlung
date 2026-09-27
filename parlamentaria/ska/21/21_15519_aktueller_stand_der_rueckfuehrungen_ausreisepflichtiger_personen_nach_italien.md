@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64984"
@@ -46,7 +47,7 @@ Liegen dem Senat oder der zuständigen Behörde Erkenntnisse bezüglich einer au
 
 Seit wann ist dies der Fall?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Rückführungen nach Italien wurden nicht gestoppt. Die Überstellungsmodalitäten, die von dem aufnehmenden Land vorgegeben werden, wurden in den letzten Monaten erschwert. So werden nach aktuellen Informationen bis auf weiteres von der italienischen Seite keine Dublin-Chartermaßnahmen mehr akzeptiert. Einzelabschiebungsmaßnahmen auf Linienflügen sind weiter möglich. Darüber hinaus nehmen die italienischen Behörden aktuell keine Kinder unter drei Jahren auf, sodass entsprechende Familienverbünde nicht überstellt werden können.
 
@@ -74,6 +75,6 @@ Ab wann werden ausreisepflichtige Personen voraussichtlich wieder nach Italien r
 
 Wie viele ausreisepflichtige Personen sind aktuell von dem verfügbarkeitsbedingten Rückführungsstopp betroffen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Ein Rückführungsstopp besteht nicht. Siehe Antwort zu 1.und 2. Insgesamt sind derzeit rund 45 Personen nach Italien zu überstellen. Die Überstellungen werden im Rahmen der vom aufnehmenden Mitgliedstaat vorgegebene Modalitäten weiter fortgesetzt.

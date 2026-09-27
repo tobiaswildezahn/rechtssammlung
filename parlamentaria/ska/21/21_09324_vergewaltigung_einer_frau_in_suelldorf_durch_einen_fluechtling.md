@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58084"
@@ -65,7 +66,7 @@ Wann wurde erstmalig von wem festgestellt, dass sich der Tatverdächtige unter V
 
 Warum ist der Ausländerbehörde in Hamburg die Tatsache nicht bekannt gewesen, dass sich der Tatverdächtige unter Inanspruchnahme von mehreren Nationalitäten in Deutschland aufhielt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Erkenntnisse dazu liegen weder im Ausländerzentralregister vor noch wurde eine mögliche Mehrfachregistrierung durch das Bundesamt für Migration und Flüchtlinge mitgeteilt. Auch Hinweise anderer Ausländerbehörden hat es hierzu nicht gegeben. Im Übrigen siehe Antwort zu 1.
 

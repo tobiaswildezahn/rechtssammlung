@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14194", "20/9620"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61222"
@@ -67,7 +68,7 @@ Welcher Personalaufwand ist zur Beobachtung dieser Personen aktuell erforderlich
 
 In wie vielen Fällen und aus welchem Grund ist jeweils die Beobachtung für welchen Zeitraum ausgesetzt oder aufgegeben worden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Beobachtung der in der Drs. 20/9620 genannten Person wurde aufgrund einer gerichtlichen Entscheidung zum 14. September 2015 eingestellt.
 

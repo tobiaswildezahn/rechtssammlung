@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6316", "21/6512", "21/6832", "21/7312"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56111"
@@ -67,7 +68,7 @@ Welche Maßnahmen ergreift der Dienstherr, wenn er davon Kenntnis erhält, dass 
 
 Wer beziehungsweise welche übergeordnete Stelle leitet im Fall von Frage 1. die disziplinarischen Schritte ein? Bitte die konkrete Dienststelle und die zuständigen Vorgesetzten benennen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Maßnahmen des Dienstherrn im Sinne der Fragestellung müssen sich immer auf eine konkrete Maßnahme beziehen. Darüber hinaus beantwortet der Senat hypothetische Fragen grundsätzlich nicht.
 
@@ -99,7 +100,7 @@ Wurden oder werden die LI-Mitarbeiter xxxxxxxxxxxx und xxxxxxxx xxxxxxxx im Bere
 
 In welchem Umfang arbeiten die beiden LI-Mitarbeiter xxxxxxxxxxxx und xxxxxxxxxxxxxxxx neben ihrer Tätigkeit als Lehrerfortbilder am LI an allgemeinen Hamburger Schulen? Bitte die Schulen, den Arbeitsumfang, die unterrichteten Jahrgangsstufen und die Unterrichtsfächer detailliert angeben.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Einer der Mitarbeiter des LI wurde in den letzten drei Jahren im Rahmen des Vorbereitungsdienstes in zwei Seminaren eingesetzt (Projektdidaktik (vier Stunden), Modul Lernen durch Engagement (zwölf Stunden)).
 

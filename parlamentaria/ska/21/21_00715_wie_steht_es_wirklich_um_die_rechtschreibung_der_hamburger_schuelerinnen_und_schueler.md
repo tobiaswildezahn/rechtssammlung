@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 17
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/3641"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48870"
@@ -141,7 +142,7 @@ Wie sind die Ergebnisse der HSP 4-5 an den Hamburger weiterführenden Schulen (b
 
 Sofern der Schulbehörde diese Ergebnisse nicht vorliegen: Warum ist dies nicht der Fall? Für diesen Fall frage ich, wie die Schulbehörde gedenkt, die Wirksamkeit der von ihr eingeleiteten Maßnahmen zur Verbesserung des Rechtschreibeniveaus zu überprüfen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die zuständige Behörde erhebt die Ergebnisse der HSP 4-5 nicht zentral, zumal der Test im Verlauf eines Schuljahres auch mehrfach eingesetzt werden kann. Gleiches gilt für die Varianten der HSP 4-5; siehe auch Antwort zu 2. Bei der HSP handelt es sich um ein Instrument, das die Rechtschreibleistung nicht systemisch erfasst, sondern die Lehrkräfte dabei unterstützt, auf der Grundlage einer differenzierten, schülerindividuellen Diagnose der beherrschten beziehungsweise nicht beherrschten Rechtschreibstrategien erforderlichenfalls entsprechende individuelle Fördermaßnahmen einzuleiten.
 
@@ -217,7 +218,7 @@ Wie sind die Ergebnisse der HSP 1+, 3 beziehungsweise 4-5 an den Hamburger Grund
 
 Sofern der Schulbehörde diese Ergebnisse nicht vorliegen: Warum ist dies nicht der Fall? Für diesen Fall frage ich, wie die Schulbehörde gedenkt, die Wirksamkeit der von ihr eingeleiteten Maßnahmen zur Verbesserung des Rechtschreibeniveaus zu überprüfen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Antwort zu 3. und 4.
 

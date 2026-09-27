@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5601", "21/4029"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56664"
@@ -170,7 +171,7 @@ Wie viele und welche Einrichtungen der Offenen Kinder- und Jugendarbeit gibt es 
 
 Wie viele und welche Einrichtungen der Familienhilfe gibt es in den einzelnen Stadtteilen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 In Alsterdorf gibt es drei Einrichtungen der Kinder- und Jugendarbeit in Duvenstedt eine Einrichtung der Kinder- und Jugendarbeit, in Eppendorf drei Einrichtungen der Kinder- und Jugendarbeit sowie fünf Einrichtungen der Familienhilfe/Familienförderung, in Fuhlsbüttel zwei Einrichtungen der Familienhilfe, in Groß Borstel eine Einrichtung der Kinder- und Jugendarbeit, in Hummelsbüttel vier Einrichtungen der Kinder- und Jugendarbeit sowie fünf Einrichtungen der Familienhilfe/Familienförderung, in Langenhorn acht Einrichtungen der Kinder- und Jugendarbeit sowie vier Einrichtungen der Familienhilfe, in Lemsahl-Mellingstedt eine Einrichtung der Kinderund Jugendarbeit, in Ohlsdorf eine Einrichtung der Familienhilfe, in Poppenbüttel eine Einrichtung der Kinder- und Jugendarbeit sowie zwei Einrichtungen der Familienhilfe, in Volksdorf gibt es eine Einrichtungen der Kinder- und Jugendarbeit und in Winterhude vier Einrichtungen der Kinder- und Jugendarbeit sowie eine Einrichtung der Familienhilfe.
 
@@ -338,7 +339,7 @@ An welchen dieser Spielplätze besteht nach Kenntnis des Senats oder der zustän
 
 Wann wurden seit Beginn der Legislaturperiode welche der Spielplätze mit welchem Kostenaufwand und aus welchem Haushaltstitel instand gesetzt? Welche Maßnahmen wurden dabei umgesetzt?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Seit Beginn der 21. Legislaturperiode wurde in den Stadtteilen Alsterdorf, Duvenstedt, Eppendorf, Fuhlsbüttel, Hummelsbüttel, Groß Borstel, Langenhorn, Lemsahl- Mellingstedt, Ohlsdorf, Poppenbüttel, Sasel, Volksdorf, Wellingsbüttel und Winterhude die folgenden Spielplätze grundinstand gesetzt oder neugebaut:
 

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13236", "21/13423", "21/13273"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63293"
@@ -43,7 +44,7 @@ Wann hat sich die Behörde für Inneres und Sport (BIS) in den Jahren 2015, 2016
 
 Welche Stellen der BIS nehmen an diesen Treffen mit grundsätzlich jeweils wie vielen Personen teil?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Besprechungsrunden mit Vertreterinnen und Vertretern des BAMF sowie der Behörde für Inneres und Sport finden sowohl in regelmäßiger Folge als auch anlassbezogen sowohl auf Bund-Länder-Ebene als auch auf lokaler Ebene in Hamburg statt. Darüber hinaus besteht ein alltäglicher Austausch auf Arbeitsebene insbesondere zwischen der BAMF-Außenstelle Hamburg und der Abteilung für Ausländerangelegenheiten des Einwohner-Zentralamtes. Eine statistisch auswertbare Erfassung aller Besprechungen seit dem Jahr 2015 liegt nicht vor. Beispielhaft zu nennen sind insbesondere die regelmäßig monatlichen Besprechungsrunden mit Vertreterinnen und Vertretern der BAMF-Außenstelle Hamburg und des Einwohner-Zentralamtes sowie des Amtes für Innere Verwaltung und Planung, an der regelmäßig auch ein Vertreter des Verwaltungsgerichts Hamburg teilnimmt.
 
@@ -101,7 +102,7 @@ Welche Probleme wurden bei diesen Treffen erörtert?
 
 Welche Möglichkeiten einer weiteren Optimierung der Zusammenarbeit und der Verfahrensabläufe wurden jeweils wann beschlossen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Es werden Probleme der alltäglichen Zusammenarbeit in Detailfragen und Möglichkeiten einer Verbesserung der Zusammenarbeit erörtert, zum Beispiel Fragen einer wechselseitigen besseren Erreichbarkeit bei Nachfragen zu Einzelfällen, Benennung konkreter Ansprechpersonen oder Funktionspostfächer für bestimmte Angelegenheiten et cetera. So wurden zu Anfang des Jahres 2016 beispielsweise sehr intensiv die Arbeitsprozesse im Ankunftszentrum besprochen und die Schnittstellen zwischen den BAMF-Prozessen und denen der Ausländerbehörde sind weitere regelmäßige Besprechungspunkte, siehe im Übrigen Antwort zu 1. und 2.
 

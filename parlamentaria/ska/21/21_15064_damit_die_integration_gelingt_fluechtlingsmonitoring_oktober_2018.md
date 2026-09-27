@@ -14,6 +14,7 @@ fragen: 44
 einzelfragen: 58
 antwortbloecke: 43
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9758", "21/4919", "21/14927", "21/10677", "21/11001", "21/14611", "21/14071", "21/6544", "21/13466", "21/12037", "21/12482", "21/11934", "21/12038", "21/131"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64522"
@@ -907,7 +908,7 @@ Wie viele Asylsuchende haben im Oktober 2018 in der zentralen Testund Meldestell
 
 Welche Einstufungen und Überweisung in jeweils welche Kurse (Alphabetisierungskurs, regulärer Integrationskurs und so weiter) ergaben sich aus den Tests im Oktober 2018?
 
-#### Antwort zu Fragen 39 bis 40
+#### Antwort zu Fragen 39 und 40
 
 Siehe Antwort zu 37.
 

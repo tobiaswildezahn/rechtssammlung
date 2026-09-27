@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4209", "20/14334"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57550"
@@ -53,7 +54,7 @@ Wie sieht die neue Entgeltordnung im Einzelnen aus, die der Flughafen Hamburg 20
 
 Welche Punkte des von der Hamburgischen Bürgerschaft beschlossenen 16-Punkte-Plans (vergleiche Drs. 20/14334) werden dabei berücksichtigt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

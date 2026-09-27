@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 29
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10677", "21/2108", "21/11867", "21/9358", "21/10819", "21/14893"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64904"
@@ -166,7 +167,7 @@ c) Sicherheit?
 
 Wie viele davon tagsüber (7 – 18 Uhr), wie viele davon abends und nachts (18 – 7 Uhr)? Wenn es abweichende Dienstzeiten gibt, bitte diese nennen und die Aufschlüsselung hiernach geben.
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Nach Außerbetriebnahme des Standortes wurde das Personal des Sicherheitsdienstes reduziert. Seit dem 17. November 2018 bis zum Ende des Vertrags mit dem Betreiber am 31. Dezember 2018 sind im Sicherheitsdienst werktags in der Tagschicht zwei Personen, in der Nachtschicht vier Personen und Samstag und Sonntag jeweils vier Personen im Einsatz. Darüber hinaus siehe Drs. 21/11867.
 
@@ -186,7 +187,7 @@ Welche Angebote werden den Flüchtlingen gemacht (Bildung, Freizeitgestaltung)?
 
 Wie viele Ehrenamtliche sind eingesetzt und wie helfen sie?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Siehe Drs. 21/9358. Darüber hinaus siehe Vorbemerkung.
 

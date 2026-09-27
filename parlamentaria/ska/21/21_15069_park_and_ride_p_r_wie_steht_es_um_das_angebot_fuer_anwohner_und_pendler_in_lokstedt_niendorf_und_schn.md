@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64527"
@@ -73,7 +74,7 @@ Wie hoch waren die Einnahmen aus den P+R-Gebühren der besagten Stadtteile seit 
 
 Welche Instandsetzungs- beziehungsweise Sanierungs- und/oder baulichen Maßnahmen wurden seit Einführung der Gebühren in den P+R- Anlagen der besagten Stadtteile durchgeführt und was haben diese jeweils gekostet?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Es wurde noch keine Entgeltpflicht eingeführt. Im Übrigen siehe Vorbemerkung.
 
@@ -85,7 +86,7 @@ Wie viele P+R Anlagen wurden seit 2010 in besagten Stadtteilen geschlossen? Bitt
 
 Mit welcher Begründung wurden die einzelnen P+R Anlagen geschlossen? Bitte einzeln aufführen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die P+R hat keine Anlage geschlossen. Das Bezirksamt Eimsbüttel führt darüber keine Statistik.
 

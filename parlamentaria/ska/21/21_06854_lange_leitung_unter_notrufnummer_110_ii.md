@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3414"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55398"
@@ -43,7 +44,7 @@ Wie hat sich die Zahl der eingegangenen Notrufe bei der Hamburger Polizei in die
 
 Wie lang ist die durchschnittliche Wartezeit bei der Notrufannahme 110? Bitte für dieses Jahr quartalsweise angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 1. Quartal  
 2016  
@@ -140,7 +141,7 @@ Wie hat sich die Zahl der Funkstreifeneinsätze in diesem Jahr entwickelt? Bitte
 
 In welche Prioritätsbereiche lassen sich die Funkstreifeneinsätze dieses Jahres unterteilen? Bitte quartalsweise in absoluten Zahlen und prozentual angeben.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die nachfolgende Tabelle weist die Zahl der Einsätze in den genannten Kategorien sowie deren prozentualen Anteil an der Gesamtzahl aller Einsätze aus
 

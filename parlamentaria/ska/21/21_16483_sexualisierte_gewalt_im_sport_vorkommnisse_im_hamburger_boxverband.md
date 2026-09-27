@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13221", "20/10994"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66005"
@@ -69,7 +70,7 @@ Welche Instrumente, Gesetze, Initiativen und Projekte brachte der Senat in den l
 
 Welche Wirkungen erzielten die Maßnahmen aus Frage 3.? Wie wurde die Nachhaltigkeit und Durchsetzung der einzelnen Maßnahmen kontrolliert und evaluiert?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Senat beschreibt im Konzept zur Bekämpfung von Gewalt gegen Frauen und Mädchen, Menschenhandel und Gewalt in der Pflege (Drs. 20/10994) diverse Maßnahmen, um sexualisierte Gewalt zu bekämpfen, unabhängig davon, in welchem Kontext diese begangen wurde. Das Konzept wird aktuell fortgeschrieben. Im Übrigen siehe Drs. 21/13221.
 

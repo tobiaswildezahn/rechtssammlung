@@ -14,6 +14,7 @@ fragen: 27
 einzelfragen: 34
 antwortbloecke: 22
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64310"
@@ -99,7 +100,7 @@ Welche Gefahr geht von der gefundenen Dioxinkonzentration bei Körperkontakt aus
 
 Wie groß ist die Gefahr, dass es zu Schädigungen durch Dioxin an der dortigen Stelle kommen kann?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Das Ausmaß der potenziellen Resorption über die Haut ist abhängig von der Bodenart, der Konzentration im Boden, der Dauer des Kontakts sowie dem Verhalten des Menschen und lässt sich somit nicht pauschal abschätzen. Mit einer länger andauernden dermalen Exposition durch direkten Körperkontakt ist nur in unwahrscheinlichen Ausnahmefällen zu rechnen.
 
@@ -263,7 +264,7 @@ In welchem Umfang werden an dortiger Stelle vonseiten der Umweltbehörde welche 
 
 Welche dritten sind als Beauftragte der Umweltbehörde an den Untersuchungen beteiligt?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 In einem circa 4 ha großen Areal werden derzeit Bodenproben genommen, um die Belastung weiter einzugrenzen. Darüber hinaus werden Untersuchungen an Proben von Beeren und Pilzen aus dem Gebiet sowie an Wasser, Sediment und Fischen aus den benachbarten Fischteichen und an Bodenproben aus den benachbarten Wohngebieten durchgeführt.
 
@@ -277,7 +278,7 @@ Bis wann ist mit einer abschließenden Eingrenzung der betroffenen Flächen zu r
 
 Bis wann kann mit einer Sanierung der Flächen begonnen werden und bis wann dürfte mit einem Abschluss der Sanierungen gerechnet werden?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Die abschließende Eingrenzung der betroffenen Fläche hängt von den Ergebnissen der derzeit laufenden Untersuchungen ab.
 
@@ -299,7 +300,7 @@ Welche Gefahr geht für die unmittelbaren Anwohner aus?
 
 Ist mit einer Evakuierung zu rechnen? Bis wann muss das entschieden werden?
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Es gibt keine unmittelbaren Anwohnerinnen und Anwohner der Fläche, die nächste Wohnbebauung befindet sich in circa 150 m Entfernung jenseits der Bahnlinie und nördlich der B5/Bergedorfer Straße. Aufgrund seiner physikochemischen Eigenschaften haftet Dioxin überwiegend partikulär am Boden oder an Staub. Proben hierzu sind genommen und werden derzeit ausgewertet.
 
@@ -342,7 +343,7 @@ In welchem Umfang werden Flächen, die zu Naturschutzflächen werden, auf gefäh
 
 In wie vielen Fällen ist der Senat in der Vergangenheit bei derartigen Untersuchungen von zukünftigen Naturschutzflächen fündig geworden?
 
-#### Antwort zu Fragen 24 bis 25
+#### Antwort zu Fragen 24 und 25
 
 Im Prozess der Ausweisung von Naturschutzflächen wird wie bei allen Planungsvorhaben die Situation bezüglich altastverdächtiger Flächen und Altlasten über das Altlasthinweiskataster geprüft. Das Ergebnis der Prüfungen wird in der weiteren Bearbeitung berücksichtigt. Untersuchungen und gegebenenfalls Sanierungen werden, sofern erforderlich, durchgeführt.
 

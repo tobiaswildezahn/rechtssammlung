@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 45
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58571"
@@ -177,7 +178,7 @@ Welche sonstigen polizeirechtlichen Maßnahmen wurden in jeweils welchem Umfang 
 
 War die Polizei zu jedem Zeitpunkt in der Lage, die zur Strafverfolgung und zur Gefahrenabwehr angebrachten Maßnahmen tatsächlich umgehend zu ergreifen? Falls nein, wann und weshalb nicht? Falls nein, was wurde daraufhin jeweils in die Wege geleitet?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Grundsätzlich war die Polizei jederzeit in der Lage, die erforderlichen Maßnahmen zur Gefahrenabwehr und Strafverfolgung zu treffen, lediglich im Schanzenviertel war aufgrund der Gefährdungslage für die Einsatzkräfte zeitweilig kein Vorrücken möglich.
 
@@ -197,7 +198,7 @@ Wie viele Demonstranten sind bei jeweils welchen Demonstrationen/ Ausschreitunge
 
 Wie viele unbeteiligte Dritte sind im Rahmen des G20-Gipfels bei jeweils Demonstrationen/Ausschreitungen verletzt worden? a. Welche Art von Verletzungen haben sie jeweils erlitten? b. Wie viele mussten ambulant oder stationär im Krankenhaus behandelt werden?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 In den Hamburger Notfallkrankenhäusern sind im Zeitraum vom 6. bis 9. Juli 2017 insgesamt rund 270 Personen mit Bezug G20-Gipfel vorrangig ambulant versorgt worden. Stationäre Aufnahmen gab es nur in einigen wenigen Fällen. Eine Unterscheidung zwischen Demonstranten und Unbeteiligten ist laut Auskunft der Krankenhäuser nicht möglich. Die Patientinnen und Patienten waren nach Angaben der Hamburger Notfallkrankenhäuser weit überwiegend leicht verletzt (zum Beispiel Prellungen, Atembeschwerden, Augenreizungen, Platzwunden, Schnittverletzungen Schulter- Luxationen, Kopfplatzwunden, Lippenverletzungen, Rippenbrüche, Daumengelenk- Verletzungen, Knieverletzungen). Die meisten kamen selbständig zu Fuß oder wurden mit dem Auto gebracht.
 
@@ -209,17 +210,17 @@ Es gab zahlreiche brennende Autos, zerstörte und geplünderte Geschäfte. Wie v
 
 Nach derzeitigen Erkenntnissen der Polizei Hamburg (Stand: 13. Juli 2017) ist es in folgenden sechs Geschäften zu Plünderungen gekommen:
 
- Flying Tiger, Schulterblatt 21; Tatzeit: 7. Juli 2017, 23.00 Uhr
+– Flying Tiger, Schulterblatt 21; Tatzeit: 7. Juli 2017, 23.00 Uhr
 
- Apple, Schanzenstr. 16-28; Tatzeit: 7. Juli 2017, 23.45 Uhr
+– Apple, Schanzenstr. 16-28; Tatzeit: 7. Juli 2017, 23.45 Uhr
 
- Carharrt, Schanzenstr. 27; Tatzeit: 8. Juli 2017, 0.00 Uhr
+– Carharrt, Schanzenstr. 27; Tatzeit: 8. Juli 2017, 0.00 Uhr
 
- Rewe, Altonaer Str. 67; Tatzeit: 8. Juli 2017, 2.40 Uhr
+– Rewe, Altonaer Str. 67; Tatzeit: 8. Juli 2017, 2.40 Uhr
 
- Budnikowsky, Schulterblatt 45; Tatzeit: 8. Juli 2017, 3.00 Uhr
+– Budnikowsky, Schulterblatt 45; Tatzeit: 8. Juli 2017, 3.00 Uhr
 
- Rewe, Schulterblatt 49; Tatzeit: 8. Juli 2017, 3.45 Uhr
+– Rewe, Schulterblatt 49; Tatzeit: 8. Juli 2017, 3.45 Uhr
 
 Die Erhebung zu den Schäden an privatem und öffentlichem Eigentum und den daraus resultierenden Kosten ist noch nicht abgeschlossen.
 

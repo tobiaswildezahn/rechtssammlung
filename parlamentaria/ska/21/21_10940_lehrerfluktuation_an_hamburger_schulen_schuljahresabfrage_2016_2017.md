@@ -10,12 +10,13 @@ urheber: ["Dr. Alexander Wolf"]
 fraktionen: ["AfD"]
 vorgang: 54760
 seiten: 2
-fragen: 0
-einzelfragen: 0
-antwortbloecke: 0
+fragen: 1
+einzelfragen: 1
+antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59871"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/59871/21_10940_lehrerfluktuation_an_hamburger_schulen_schuljahresabfrage_2016_2017"
 abgerufen: "2026-09-26"
@@ -27,23 +28,25 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Dr. Alexander Wolf (AfD) vom 09.11.17 und Antwort des Senats · Drucksache vom 17.11.2017  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/59871) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/59871/21_10940_lehrerfluktuation_an_hamburger_schulen_schuljahresabfrage_2016_2017)
 
-## Volltext
+## Einleitung für die Fragen
 
-Lehrerfluktuation an Hamburger Schulen (Schuljahresabfrage 2016/ 2017)
-
-Nach den Ergebnissen der wegweisenden Metastudie „Visible Learning“ (2008) des australischen Bildungsforschers Prof. Dr. John Hattie sind mit der Lehrperson die größten Effektstärken in Bezug auf den schulischen Lernerfolg verbunden. Zu den besonders relevanten Einflussgrößen mit hohen Effektstärken zählen die „Klarheit der Lehrperson“ und die „Lehrer-Schüler- Beziehung“. Die „Klarheit der Lehrperson“ beschreibt die Fähigkeit einer Lehrperson, eine verständliche Kommunikation über den Unterricht und das Lernen mit Lernenden zu führen. Dazu gehören die Dimensionen „Klarheit in der Organisation der Unterrichtseinheit“, „Klare Erläuterungen“, „Klarheit im Beispiel geben und anleiten von Übungen“ sowie „Klarheit über den Lernstand der Lernenden“.1 Die Lehrer-Schüler-Beziehung hat unter anderem dann einen starken Effekt auf den Lernerfolg, wenn es der Lehrperson gelingt, eine positive zwischenmenschliche Beziehung zwischen ihr und den Lernenden zu schaffen, Empathie zu entwickeln, Authentizität auszustrahlen, abstraktes Denken zu fördern und Schülerleistungen angemessen zu würdigen.2
+Nach den Ergebnissen der wegweisenden Metastudie „Visible Learning“ (2008) des australischen Bildungsforschers Prof. Dr. John Hattie sind mit der Lehrperson die größten Effektstärken in Bezug auf den schulischen Lernerfolg verbunden. Zu den besonders relevanten Einflussgrößen mit hohen Effektstärken zählen die „Klarheit der Lehrperson“ und die „Lehrer-Schüler- Beziehung“. Die „Klarheit der Lehrperson“ beschreibt die Fähigkeit einer Lehrperson, eine verständliche Kommunikation über den Unterricht und das Lernen mit Lernenden zu führen. Dazu gehören die Dimensionen „Klarheit in der Organisation der Unterrichtseinheit“, „Klare Erläuterungen“, „Klarheit im Beispiel geben und anleiten von Übungen“ sowie „Klarheit über den Lernstand der Lernenden“. Die Lehrer-Schüler-Beziehung hat unter anderem dann einen starken Effekt auf den Lernerfolg, wenn es der Lehrperson gelingt, eine positive zwischenmenschliche Beziehung zwischen ihr und den Lernenden zu schaffen, Empathie zu entwickeln, Authentizität auszustrahlen, abstraktes Denken zu fördern und Schülerleistungen angemessen zu würdigen.
 
 Die Grundvoraussetzung dafür, dass die beschriebenen Einflussgrößen einen Effekt auf den schulischen Lernerfolg ausüben können, ist eine Kontinuität in der Unterrichtung der Schüler durch eine Lehrperson über einen längeren Zeitraum. Diese Kontinuität dürfte von umso größerer Bedeutung sein, je häufiger und länger ein Unterrichtsfach unterrichtet wird. Das trifft besonders auf die Kernfächer Mathematik, Deutsch sowie die erste Fremdsprache zu.
 
 Vor diesem Hintergrund frage ich den Senat:
 
+## Fragen und Antworten
+
+### Frage 1
+
 Wie viele Fachlehrer in den Kernfächern Mathematik und Deutsch der zehnten Klassen wurden ab dem Schuljahr 2016/2017 für den zurückliegenden Zeitraum der Sekundarstufe I an den Gymnasien und Stadtteilschulen aus der Perspektive einer Unterrichtsklasse jeweils eingesetzt (gemeint ist der klassenspezifische Zeitraum: Beispiel: 5a – 10a)?
 
 Bitte hierzu eine Stichprobe an jeweils zwei Gymnasien und Stadtteilschulen sämtlicher Hamburger Bezirke durchführen. Hierzu bitte die in der alphabetischen Reihenfolge jeweils zwei letztgenannten Schulen für die Abfrage
 
-1 Vergleiche hierzu umfassend: Zierer, K. (2014): Kernbotschaften aus John Hatties „Visible Learning“, Seite 276. 2 Vergleiche ebenda: 278.
-
 berücksichtigen. Bitte in die Auswertung auch unterrichtende Referendare und Vertretungslehrer mit einbeziehen.
+
+#### Antwort zu Frage 1
 
 Zur Beantwortung dieser Schriftlichen Kleinen Anfrage wurde entsprechend der Fragestellung eine Schulabfrage an 28 weiterführenden Schulen (14 Gymnasien und 14 Stadtteilschulen) durchgeführt. 28 Schulen haben Daten geliefert. Eine abschließende Qualitätssicherung ist in der für die Beantwortung dieser Anfrage zur Verfügung stehenden Zeit nur eingeschränkt möglich.
 
@@ -53,15 +56,8 @@ Bei der Bewertung der von den Schulen übermittelten Daten ist zu beachten, dass
 
 Anzahl der in den jetzigen zehnten Klassen der abgefragten Schulen in den letzten sechs Jahren eingesetzten Lehrkräfte
 
-Anzahl der eingesetzten  
-Anzahl Klassen  
-Lehrkräfte  
-Deutsch Mathematik  
-1 21 25  
-2 36 26  
-3 44 55  
-4 29 25  
-5 8 9  
-6 3 1
+Anzahl der eingesetzten
 
-Quelle: Schulabfrage vom 15.11.2017
+Lehrkräfte Anzahl Klassen
+
+Deutsch Mathematik

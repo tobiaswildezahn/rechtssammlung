@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4777", "21/6204", "21/10083"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61534"
@@ -256,15 +257,15 @@ An den Wasserschutzpolizeikommissariaten gab es im Erfassungszeitraum keine abge
 
 Ursachen erhöhter Zahlen abgemeldeter Funkstreifenwagen an den einzelnen Polizeikommissariaten sind:
 
- Ausschöpfen der jeweiligen Urlaubsquoten nach der Urlaubssperre im Zusam-
+– Ausschöpfen der jeweiligen Urlaubsquoten nach der Urlaubssperre im Zusam-
 
 menhang mit den Einsatzmaßnahmen zum G20-Gipfel im Juli 2017,
 
- partielle Überschreitung der Urlaubsquoten aufgrund von Personalwechseln (mit-
+– partielle Überschreitung der Urlaubsquoten aufgrund von Personalwechseln (mit-
 
 gebrachter genehmigter Urlaub) und
 
- erhöhter Krankenstand.
+– erhöhter Krankenstand.
 
 Einsätze werden bei Bedarf von der Einsatzzentrale an Funkstreifenwagen anderer Polizeikommissariate oder der Landesreserve vergeben. Die Wahrnehmung von Einsätzen in allen betroffenen PK war damit gewährleistet. Im Übrigen siehe Drs. 21/10083.
 
@@ -346,34 +347,34 @@ Mit welchen konkreten Maßnahmen trägt die Freie und Hansestadt Hamburg als Die
 
 Die Polizei trägt mit einer Vielzahl von Maßnahmen dem Gesundheitsschutz der Mitarbeiterinnen und Mitarbeiter Rechnung; hierzu gehören beispielsweise folgende Maßnahmen:
 
- Die Polizei bietet ihren Mitarbeiterinnen und Mitarbeitern Vorsorgekuren an, um
+– Die Polizei bietet ihren Mitarbeiterinnen und Mitarbeitern Vorsorgekuren an, um
 
 den besonderen Belastungen des Wechselschicht-, Schicht- und Rufbereitschaftsdienstes Rechnung zu tragen.
 
- Die Mitarbeiter haben die Möglichkeit zur Teilnahme am Polizeitraining und am
+– Die Mitarbeiter haben die Möglichkeit zur Teilnahme am Polizeitraining und am
 
 Gesundheits- und Präventionssport.
 
- Die Implementierung neuer Dienstzeitregelungen sorgt für weniger belastende
+– Die Implementierung neuer Dienstzeitregelungen sorgt für weniger belastende
 
 Wechselschichtdienste und flexibleren Gleitzeitdienst.
 
- Eine Arbeitsgruppe der Personalabteilung der Polizei hat ein Konzept zur Einfüh-
+– Eine Arbeitsgruppe der Personalabteilung der Polizei hat ein Konzept zur Einfüh-
 
 rung eines betrieblichen Gesundheitsmanagements bei der Polizei entwickelt. Die Polizei setzt seit Oktober 2015 zertifizierte Fallmanager/Gesundheitslotsen (Certified Disability Management Professional) im Betrieblichen Eingliederungsmanagement mit dem Ziel der individuell gestalteten Rückführung langzeiterkrankter oder dauerhaft leistungsgewandelter Mitarbeiterinnen und Mitarbeiter in die Arbeitswelt ein.
 
- Durch den Einsatz von sogenannten Peersim Rahmen der Psychosozialen Not-
+– Durch den Einsatz von sogenannten Peersim Rahmen der Psychosozialen Not-
 
 fallversorgung wird seit Mai 2016 eine frühzeitige und umfassende Begleitung der Bediensteten nach Belastungssituationen sichergestellt.
 
- Die Polizei bietet seit mehreren Jahren ihren Mitarbeiterinnen und Mitarbeitern die
+– Die Polizei bietet seit mehreren Jahren ihren Mitarbeiterinnen und Mitarbeitern die
 
 Möglichkeit der Teilnahme – im Rahmen des Dienstes – an einem sogenannten Gesundheitstag. Hier werden von Experten Vorträge gehalten zu Themen wie „Ernährung“, „Körpermobilität“, „Umgang mit psychischen und physischen Belastungen“. Im Jahr 2018 behandelt der Gesundheitstag das Thema „Stress“.
 
- Darüber hinaus hat die Polizei nach erfolgreicher Pilotierung im Jahr 2017 die
+– Darüber hinaus hat die Polizei nach erfolgreicher Pilotierung im Jahr 2017 die
 
 alternierende Telearbeit eingeführt. Zurzeit sind 81 Plätze für die alternierende Telearbeit vergeben; im Jahr 2018 werden 100 alternierende Telearbeitsplätze zur Verfügung stehen.
 
- Im Jahr 2018 ist die Einführung von zehn zusätzlichen Plätzen zur temporären
+– Im Jahr 2018 ist die Einführung von zehn zusätzlichen Plätzen zur temporären
 
 Telearbeit vorgesehen. Der Vereinbarkeit von Beruf und Familie sowie einer besseren Reaktion auf jeweilige Lebensbedingungen wird somit Rechnung getragen.

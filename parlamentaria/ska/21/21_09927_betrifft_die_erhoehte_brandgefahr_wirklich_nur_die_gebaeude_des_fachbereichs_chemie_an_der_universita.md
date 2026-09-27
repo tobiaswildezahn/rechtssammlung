@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58751"
@@ -79,7 +80,7 @@ Wann wurden sie jeweils wann aus welchem Grund modernisiert/ saniert?
 
 Warum sind die Sanierungen von einst offenbar nicht ausreichend genug gewesen? Haben die beauftragten Firmen nicht umfassend genug gearbeitet oder haben sich die brandschutztechnischen Vorgaben inzwischen deutlich verschärft?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Bei diesen Gebäuden erfolgte bisher keine Grundsanierung oder umfassende Modernisierung. Kleinere Bauunterhaltungsmaßnahmen und kleinere Umbauten im Zuge von Neuberufungen erfolgen durch die UHH nach Bedarf. Bei Umbauarbeiten werden die brandschutztechnischen Vorgaben beachtet. Eine Verschärfung der brandschutztechnischen Vorgaben erfolgte nicht.
 

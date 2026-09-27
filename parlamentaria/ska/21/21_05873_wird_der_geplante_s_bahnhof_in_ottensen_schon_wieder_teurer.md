@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 24
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3500", "21/3519", "20/14202"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54377"
@@ -49,7 +50,7 @@ Wie viel wird der Bau des S-Bahnhofs Ottensen nach jetzigem Stand insgesamt kost
 
 Haben sich hinsichtlich der Kostenschätzung jüngst Änderungen beziehungsweise eine Steigerung ergeben? Wenn ja, in welcher Höhe, welche Ursachen liegen dem zugrunde und inwiefern wird dies zu Mehrausgaben in welcher Höhe für die Freie und Hansestadt Hamburg (FHH) führen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die von der DB AG vorgelegte aktuelle Kostenberechnung geht von Gesamtprojektkosten von insgesamt 22,6 Millionen Euro aus.
 
@@ -120,7 +121,7 @@ Laut Senatsantwort in Drs. 21/3500 aus dem Frühjahr 2016 sei „die Verhandlung
 
 Der Bahn-Sprecher, Egbert Meyer-Lovis, wird bei „NahverkehrHAM- BURG“ mit den Worten zitiert: „Derzeit laufen die Gespräche – es ist noch keine Finanzierungsvereinbarung abgeschlossen worden.“ In welchem Stadium befinden sich diese Gespräch genau, wann sind weitere Termine angesetzt und wann ist der Abschluss dieser Gespräche geplant?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Eine entsprechende Drucksache wird der Bürgerschaft noch im Jahr 2016 zugeleitet werden. Die zuständige Behörde strebt den Abschluss der Finanzierungsvereinbarung im Jahr 2017 an.
 
@@ -160,45 +161,45 @@ Haushaltsjahr Maßnahmen
 
 Konsumtiv/betrieblich
 
-  
+–  
 Zahlungen Schienenpersonennahverkehr  
-  
+–  
 Nachtverkehr (nur S-Bahn)  
-  
+–  
 Erhöhte Sicherheit S-Bahn  
-  
+–  
 Erneuerungsprogramm S-Bahnhöfe (Anteil
 
-Freie und Hansestadt Hamburg)  Betriebskostenzuschüsse ohne DB (AKN-
+Freie und Hansestadt Hamburg) – Betriebskostenzuschüsse ohne DB (AKN-
 
 Personenverkehr)  
-  
+–  
 Betriebskosten Flughafen S-Bahn  
-  
+–  
 Hamburger Verkehrsverbund GmbH  
-  
+–  
 Sicherheit Bus und U-Bahn  
-  
+–  
 Sonstige kleinere betriebliche ÖPNV-
 
 Ausgaben Investiv
 
- Finanzierung U 4
+– Finanzierung U 4
 
-  
+–  
 ZOB Bergedorf, Finanzierungsanteil  
-  
+–  
 ZOB Barmbek
 
- Höhenfreie Einfädelung/2-gleisiger Ausbau
+– Höhenfreie Einfädelung/2-gleisiger Ausbau
 
 AKN-Eidelstedt  
-  
+–  
 Einführung Stadtbahn (Planungskosten)  
-  
+–  
 Verkehrsanlage Poppenbüttel (barriere-
 
-freie Umgestaltung)  Sonstige kleinere investive ÖPNV-
+freie Umgestaltung) – Sonstige kleinere investive ÖPNV-
 
 Ausgaben
 
@@ -208,46 +209,46 @@ Ausgaben
 
 Konsumtiv/betrieblich
 
-  
+–  
 Beitrag an Niedersachsen (u.a. KVG-Stade)  
-  
+–  
 Betriebskostenzuschüsse  
-  
+–  
 Zahlungen SPNV  
-  
+–  
 Nachtverkehr (nur S-Bahn)  
-  
+–  
 Erhöhte Sicherheit S-Bahn  
-  
+–  
 Erneuerungsprogramm S-Bahnhöfe (per Sta-
 
 tionsentgelte -FHH-Anteil)  
-  
+–  
 Kostenbeteiligung P+R-Anlagen  
-  
+–  
 Betriebskosten und Mehrkostenanteil Flugha-
 
 fen S-Bahn  
-  
+–  
 Verkehrsleistungen im ÖPNV  
-  
+–  
 Erhöhte Sicherheit U-Bahn  
-  
+–  
 ÖPNV-Schulung mobilitätseingeschränkter
 
 Menschen  
-  
+–  
 Planungskosten U4-Verlängerung  
 Investiv
 
-  
+–  
 ZOB Barmbek  
-  
+–  
 ZOB Bergedorf  
-  
+–  
 Verkehrsanlage Poppenbüttel (barrierefreie
 
-Umgestaltung  Kostenanteil Hamburgs am Bau der U4
+Umgestaltung – Kostenanteil Hamburgs am Bau der U4
 
 2013 Summe:
 
@@ -255,104 +256,104 @@ Umgestaltung  Kostenanteil Hamburgs am Bau der U4
 
 Konsumtiv/betrieblich
 
-  
+–  
 Beitrag an Niedersachsen (u.a. KVG-Stade)  
-  
+–  
 Betriebskostenzuschüsse  
-  
+–  
 Zahlungen SPNV  
-  
+–  
 Nachtverkehr (nur S-Bahn)  
-  
+–  
 Erhöhte Sicherheit S-Bahn  
-  
+–  
 Erneuerungsprogramm S-Bahnhöfe (per Sta-
 
 tionsentgelte -FHH-Anteil)  
-  
+–  
 Kostenbeteiligung P+R-Anlagen  
-  
+–  
 Betriebskosten und Mehrkostenanteil Flugha-
 
 fen S-Bahn  
-  
+–  
 Verkehrsleistungen im ÖPNV  
-  
+–  
 Haltestellenkoordinator  
-  
+–  
 Erhöhte Sicherheit U-Bahn  
-  
+–  
 ÖPNV-Schulung mobilitätseingeschränkter
 
 Menschen  
-  
+–  
 Planungskosten U4-Verlängerung  
-  
+–  
 Planungskosten S-Bahnstation bei den Elb-
 
 brücken Investiv
 
-  
+–  
 ZOB Barmbek  
-  
+–  
 Verkehrsanlage Poppenbüttel (barrierefreie
 
 Umgestaltung)  
-  
+–  
 Kostenanteil Hamburgs am Bau der U4  
 2014
 
 Konsumtiv/betrieblich
 
- Beitrag an Niedersachsen (u.a. KVG-Stade)
+– Beitrag an Niedersachsen (u.a. KVG-Stade)
 
 Summe:
 
 130.203 Tsd. Euro
 
-  
+–  
 Betriebskostenzuschüsse  
-  
+–  
 Zahlungen SPNV  
-  
+–  
 Nachtverkehr (nur S-Bahn)  
-  
+–  
 Erhöhte Sicherheit S-Bahn  
-  
+–  
 Erneuerungsprogramm S-Bahnhöfe (per Sta-
 
 tionsentgelte -FHH-Anteil)  
-  
+–  
 Kostenbeteiligung P+R-Anlagen  
-  
+–  
 Betriebskosten und Mehrkostenanteil Flugha-
 
 fen S-Bahn  
-  
+–  
 Verkehrsleistungen im ÖPNV  
-  
+–  
 Haltestellenkoordinator  
-  
+–  
 Erhöhte Sicherheit U-Bahn  
-  
+–  
 ÖPNV-Schulung mobilitätseingeschränkter
 
 Menschen  
-  
+–  
 Planungskosten U4-Verlängerung  
-  
+–  
 Planungskosten S-Bahnstation bei den Elb-
 
 brücken (HOAI-Leistungsphasen 1-4) Investiv
 
-  
+–  
 ZOB Barmbek  
-  
+–  
 ZOB Bergedorf  
-  
+–  
 Verkehrsanlage Poppenbüttel (barrierefreie
 
-Umgestaltung)  Kostenanteil Hamburgs am Bau der U4
+Umgestaltung) – Kostenanteil Hamburgs am Bau der U4
 
 2015 Summe:
 
@@ -362,58 +363,58 @@ endgültig abgerechnet)
 
 Konsumtiv/betrieblich
 
-  
+–  
 Beitrag an Niedersachsen (u.a. KVG-Stade)  
-  
+–  
 Betriebskostenzuschüsse  
-  
+–  
 Zahlungen SPNV  
-  
+–  
 Nachtverkehr (nur S-Bahn)  
-  
+–  
 Erhöhte Sicherheit S-Bahn  
-  
+–  
 Erneuerungsprogramm S-Bahnhöfe (per Sta-
 
 tionsentgelte -FHH-Anteil)  
-  
+–  
 Kostenbeteiligung P+R-Anlagen  
-  
+–  
 Betriebskosten und Mehrkostenanteil Flugha-
 
 fen S-Bahn  
-  
+–  
 Verkehrsleistungen im ÖPNV  
-  
+–  
 Haltestellenkoordinator  
-  
+–  
 Erhöhte Sicherheit U-Bahn  
-  
+–  
 ÖPNV-Schulung mobilitätseingeschränkter
 
 Menschen  
-  
+–  
 Planungskosten S4  
-  
+–  
 Planungskosten S-Bahnstation bei den Elb-
 
-brücken  Planungsleistungen für die Elektrifizierung
+brücken – Planungsleistungen für die Elektrifizierung
 
-der AKN-Strecke A1 / S 21 Eidelstedt bis Kaltenkirchen  Machbarkeitsuntersuchung U4 mit den Ab-
+der AKN-Strecke A1 / S 21 Eidelstedt bis Kaltenkirchen – Machbarkeitsuntersuchung U4 mit den Ab-
 
 schnitten Kleiner Grasbrook und Horner  
 Geest  
-  
+–  
 Planungsleistungen AKN Bereitstellungszent-
 
 rum Nord für S-Bahnfahrzeuge Investiv
 
-  
+–  
 ZOB Barmbek  
-  
+–  
 Verkehrsanlage Poppenbüttel (barrierefreie
 
-Umgestaltung)  Kostenanteil Hamburgs am Bau der U4
+Umgestaltung) – Kostenanteil Hamburgs am Bau der U4
 
 b) Mit Regionalisierungsmitteln in welcher Höhe plant die Freie und Hansestadt Hamburg in dieser Wahlperiode und für welche Maß-
 
@@ -432,33 +433,33 @@ Folgende Einnahmen aus Regionalisierungsmitteln werden bis 2019 erwartet:
 
 Für die kommenden Jahre werden unter anderem folgende Maßnahmen vorgesehen:
 
- Nachtverkehr (nur S-Bahn)
+– Nachtverkehr (nur S-Bahn)
 
- Erhöhte Sicherheit S-Bahn
+– Erhöhte Sicherheit S-Bahn
 
- Erneuerungsprogramm S-Bahnhöfe (per Stationsentgelte -FHH-Anteil)
+– Erneuerungsprogramm S-Bahnhöfe (per Stationsentgelte -FHH-Anteil)
 
- Verkehrsleistungen im ÖPNV
+– Verkehrsleistungen im ÖPNV
 
- Planungskosten S4
+– Planungskosten S4
 
- Planungskosten S-Bahn-Station bei den Elbbrücken
+– Planungskosten S-Bahn-Station bei den Elbbrücken
 
- Vor- und Machbarkeitsuntersuchung U5 – Anbindung von Steilshoop und Bramfeld
+– Vor- und Machbarkeitsuntersuchung U5 – Anbindung von Steilshoop und Bramfeld
 
 an das bestehende U-Bahn-Netz
 
- U5 City-Nord – Innenstadt – Siemersplatz, Machbarkeitsuntersuchung
+– U5 City-Nord – Innenstadt – Siemersplatz, Machbarkeitsuntersuchung
 
- U5 Bramfeld – Steilshoop – City-Nord, Vorentwurfs-, Entwurfs- und Genehmi-
+– U5 Bramfeld – Steilshoop – City-Nord, Vorentwurfs-, Entwurfs- und Genehmi-
 
 gungsplanung
 
- U4 Horner Geest, Vorentwurfs-, Entwurfs- und Genehmigungsplanung
+– U4 Horner Geest, Vorentwurfs-, Entwurfs- und Genehmigungsplanung
 
- S-Bahn-Haltestelle Ottensen
+– S-Bahn-Haltestelle Ottensen
 
- CCH – barrierefreie Erreichbarkeit Dammtorbahnhof
+– CCH – barrierefreie Erreichbarkeit Dammtorbahnhof
 
 Die spezifischen Jahresanteile werden in Abhängigkeit von den einzelnen Maßnahmen flexibel festgelegt.
 

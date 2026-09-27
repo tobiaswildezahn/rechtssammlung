@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13533", "21/8659"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62462"
@@ -69,7 +70,7 @@ Verfügen der Senat beziehungsweise die zuständigen Behörden über Erkenntniss
 
 Inwieweit hat das Studierendenwerk Hamburg für sein erfreuliches Investitionsprogramm Unterstützung vom Senat beziehungsweise den zuständigen Behörden erhalten? Wurden unter anderem Grundstücke zur Verfügung gestellt? Wenn ja: in welchem Umfang, an welchen Standort und zu welchen Konditionen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Senat unterstützt das Studierendenwerk Hamburg fortlaufend sowohl bei Sanierungsmaßnahmen als auch bei Neubauvorhaben. Das Studierendenwerk ist dabei, das Angebot an Wohnheimplätzen um circa 650 Plätze zu erweitern. Die Eröffnung des Sophie-Schoop-Hauses in Neu-Allermöhe erfolgte zum WS 2017/2018, das Helmut-Schmidt-Studierendenhaus in der HafenCity wird zum Wintersemester 2018/2019 bezugsfertig sein und die noch in der Planungsabstimmung befindliche Wohnanlage in Wilhelmsburg soll bis 2020/2021 gebaut werden. Die Finanzierung dieser öffentlich geförderten Projekte erfolgt über das Förderprogramm der IFB mit entsprechender Miet- und Zweckbindung. Darüber hinaus hat die zuständige Behörde keine weiteren Erkenntnisse. Im Übrigen siehe Drs. 20/13533 und 21/8659.
 

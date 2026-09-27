@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7720"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59436"
@@ -49,7 +50,7 @@ Wann legt der Senat der Bürgerschaft eine Drucksache zum Thema Umzug und Sanier
 
 Wann soll mit der Sanierung des Philosophenturms nach aktuellem Stand begonnen werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

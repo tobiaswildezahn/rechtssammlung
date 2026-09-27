@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17397", "21/15562"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68663"
@@ -160,6 +161,6 @@ Wie hoch sind die Einnahmen durch den in der Drs. 21/15562 vom Unternehmen erwä
 
 Wie viele Mieter müssen diesen Untermietzuschlag zahlen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Von den insgesamt 18 348 Wohnungen mit Untermietgenehmigungen werden für insgesamt 6 490 Wohnungen Untermietzuschläge erhoben. Die monatlichen Einnahmen betragen aktuell circa 54 700 Euro.

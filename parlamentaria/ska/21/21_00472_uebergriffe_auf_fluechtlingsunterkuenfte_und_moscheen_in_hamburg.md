@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/4821"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48623"
@@ -51,7 +52,7 @@ Zu wie vielen Überfallen, Anschlägen, Sachbeschädigungen, tätlichen Angriffe
 
 Welche Delikte wurden dabei jeweils begangen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine Erfassung von Straftaten nach den in der Frage genannten Kriterien erfolgt weder in der Polizeilichen Kriminalstatistik (PKS) noch in dem Kriminalpolizeilichen Meldedienst Politisch motivierte Kriminalität (KPDM PMK). Die daher für die Beantwortung der Frage erforderliche Auswertung von mehreren 10.000 Handakten für den erfragten Zeitraum ist in der für die Beantwortung einer Parlamentarischen Anfrage zu Verfügung stehenden Zeit nicht möglich.
 

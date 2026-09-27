@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 0
 beantwortet: false
+status: "unbeantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105358"
@@ -27,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Marco Hosemann (Die Linke) vom 22.09.26 und Antwort des Senats · Drucksache vom 22.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105358) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105358/23_05452_ignoriert_der_senat_das_von_der_bezirksversammlung_hamburg_nord_angenommene_buergerbegehren_von_der_initiative_stand_up_winterhude)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

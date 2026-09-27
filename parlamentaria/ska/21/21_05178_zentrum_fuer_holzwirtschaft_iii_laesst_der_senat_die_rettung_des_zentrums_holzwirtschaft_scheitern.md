@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 22
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3257"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53656"
@@ -59,6 +60,6 @@ Haben die im Ausschuss vom 19. April 2016 sowie in der Schriftlichen Kleinen Anf
 
 Was sind für die Senatorin beziehungsweise für die zuständige Behörde die Folgen aus dem Scheitern der Gespräche? a. Was wird die Senatorin beziehungsweise die zuständige Behörde unternehmen, um das Scheitern der Gespräche noch abzuwenden? b. Welchen anderen möglichen Kompromiss beziehungsweise welche andere Lösung zum Erhalt des Zentrums Holzwirtschaft außer der oben skizzierten sieht die Senatorin beziehungsweise die zuständige Behörde? Und wie beziehungsweise auf welche Art und Weise und in welchem Zeitablauf möchte die Senatorin diese Lösung erreichen? c. Wie und bei wem hat sich die Senatorin beziehungsweise die zuständige Behörde, wie im Wissenschaftsausschuss am 19. April 2016 angekündigt, um weitere Gelder beziehungsweise Mittel bemüht? Und welchen Erfolg hatten diese Bemühungen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.

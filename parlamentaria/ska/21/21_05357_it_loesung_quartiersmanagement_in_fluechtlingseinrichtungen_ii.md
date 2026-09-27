@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 24
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3225", "21/4320"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53846"
@@ -89,7 +90,7 @@ Welche dieser grundsätzlichen Anwendungsmöglichkeiten werden durch die Freie u
 
 Sind bereits grundsätzlichen Nutzungsmöglichkeiten nach Prüfung verworfen worden? Wenn ja, welche und aus welchen Gründen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 In Hamburg wird die Taschengeldausgabe bereits im Rahmen der Leistungsprüfung über die Sozialhilfeanwendung PROSA gesteuert und ausbezahlt. Änderungen sind nicht vorgesehen.
 

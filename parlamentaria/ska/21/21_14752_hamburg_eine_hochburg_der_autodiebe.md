@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64195"
@@ -96,7 +97,7 @@ Welches Geschlecht und welche Nationalitäten haben die Personen, die im Jahr 20
 
 Wie viele Festnahmen wurden von Fahndungskräften „auf frischer Tat“ in jeweils welchen Stadtteilen durchgeführt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Statistiken im Sinne der Fragestellungen werden von der Polizei nicht geführt. Für die Beantwortung der Fragestellungen wäre eine Durchsicht aller Hand- und Ermittlungsakten einschlägig zuständigen Kriminalpolizeidienststellen erforderlich. Die Auswertung mehrerer Zehntausend Vorgänge pro Jahr ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

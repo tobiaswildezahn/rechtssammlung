@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 4
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4665", "21/7845", "21/12551", "21/4856"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63780"
@@ -45,6 +46,6 @@ Ist der Abstimmungsprozess zu Erhöhung der Erschwerniszulage für die Feuerwehr
 
 Was plant der Senat beziehungsweise die zuständige Behörde, um die Erschwernis von Feuerwehreinsatzkräften beim DuZ angemessen finanziell auszugleichen beziehungsweise wie sehen die erarbeiteten Modelle konkret aus?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die senatsinterne Abstimmung zur Änderung der Hamburgischen Erschwerniszulagenverordnung (HmbEZulVO) ist in Vorbereitung. Hierzu wird eine Mitteilung an die Bürgerschaft auf das Ersuchen aus Drs. 21/4856 erfolgen.

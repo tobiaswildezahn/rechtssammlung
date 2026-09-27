@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62627"
@@ -75,7 +76,7 @@ Wann und wie viele neue Sitzungssäle hat das Sozialgericht erhalten?
 
 Wann wurden diese in Betrieb genommen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die neuen Säle wurden dem Sozialgericht nach Beendigung der Bautätigkeiten im Februar 2018 übergeben und im selben Monat in Betrieb genommen. Im Übrigen siehe Vorbemerkung.
 

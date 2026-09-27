@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 23
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/433", "21/436"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48680"
@@ -117,7 +118,7 @@ Welche zusätzlichen Kosten werden durch das neue Rail Operations Management im 
 
 Werden die Kosten anhand des Haushalts der Behörde für Wirtschaft, Verkehr und Innovation erkennbar oder werden diese bei der HPA anfallen oder werden die Terminalbetreiber mit eingebunden sein?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Der von der HPA finanzierte Teil ist im Wirtschaftsplan berücksichtigt. Darüber hinaus kann die HPA zu Kosten von Kooperationspartnern keine Angaben machen. Im Übrigen siehe Vorbemerkung.
 
@@ -129,6 +130,6 @@ Wie hoch ist der bis heute eingetretene wirtschaftliche Schaden durch die seit 2
 
 Wie hoch sind die Zusatzkosten für längere Standzeiten und Lagerungen bei den Spediteuren durch Verzögerungen im Betriebsablauf seit 2014?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Vorbemerkung. Im Übrigen liegen der zuständigen Behörde keine Informationen vor.

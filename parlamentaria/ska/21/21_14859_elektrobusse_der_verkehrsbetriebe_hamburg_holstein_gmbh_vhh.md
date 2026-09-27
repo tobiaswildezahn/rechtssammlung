@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64303"
@@ -87,7 +88,7 @@ Wurden mit den Hersteller Serviceverträge für die Nutzungsdauer der Busse abge
 
 Wie hoch sind die jährlichen Kosten dieser Serviceverträge?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Als Zusatz zum Liefervertrag wurde zwischen den Vertragsparteien ein sogenannter Regiewerkstättenvertrag geschlossen. Im Rahmen dieser Vereinbarung ist die VHH dazu bevollmächtigt, sämtliche Instandhaltungsarbeiten am Kraftomnibus in Eigenverantwortlichkeit und im Rahmen der vereinbarten Gewährleistung zulasten des Herstellers durchzuführen.
 

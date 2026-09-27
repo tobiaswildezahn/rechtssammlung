@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16055", "21/12160"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67239"
@@ -33,15 +34,15 @@ Mit seinem am 1. Januar 2001 in Kraft getretenen Infektionsschutzgesetz (IfSG) h
 
 ## Einleitung für die Antworten des Senats
 
- an Typhus abdominalis, Paratyphus, Cholera, Shigellenruhr, Salmonello-
+– an Typhus abdominalis, Paratyphus, Cholera, Shigellenruhr, Salmonello-
 
 se, einer anderen infektiösen Gastroenteritis oder Virushepatitis A oder E erkrankt oder dessen verdächtig sind,
 
- an infizierten Wunden oder an Hautkrankheiten erkrankt sind, bei denen
+– an infizierten Wunden oder an Hautkrankheiten erkrankt sind, bei denen
 
 die Möglichkeit besteht, dass deren Krankheitserreger über Lebensmittel übertragen werden können, oder
 
- sie die Krankheitserreger Shigellen, Salmonellen, enterohämorrhagische
+– sie die Krankheitserreger Shigellen, Salmonellen, enterohämorrhagische
 
 Escherichia coli oder Choleravibrionen absondern.
 

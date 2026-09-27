@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3916"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66535"
@@ -57,15 +58,15 @@ Am 11. Mai 2012 wurde ein neuer Bauantrag eingereicht.
 
 Folgende planungsrechtliche Befreiungen wurden nach § 31 Absatz 2 Baugesetzbuch (BauGB) erteilt:
 
-• geplante oberirdische Stellplätze im Sockelgeschoss, entgegen der B-Plan-Festsetzung, Stellplätze in Tiefgaragen auf den nicht überbaubaren Flächen des Baugrundstücks oder in Kellergeschossen der Gebäude unterzubringen.
+– geplante oberirdische Stellplätze im Sockelgeschoss, entgegen der B-Plan-Festsetzung, Stellplätze in Tiefgaragen auf den nicht überbaubaren Flächen des Baugrundstücks oder in Kellergeschossen der Gebäude unterzubringen.
 
-• ein Überschreiten der vorderen Baugrenze um circa 5,50 m durch den eingeschossigen Vorbau im Vorgartenbereich. Der geplante Vorbau nimmt als Nebenanlage vor der Baugrenze die bauliche Situation des linken Nachbarn auf. Die Bebauung steht damit im Kontext mit der Nachbarschaft.
+– ein Überschreiten der vorderen Baugrenze um circa 5,50 m durch den eingeschossigen Vorbau im Vorgartenbereich. Der geplante Vorbau nimmt als Nebenanlage vor der Baugrenze die bauliche Situation des linken Nachbarn auf. Die Bebauung steht damit im Kontext mit der Nachbarschaft.
 
-• ein Überschreiten der hinteren Baugrenze um circa 3,80 m durch den Hauptbaukörper. Der Hauptbaukörper nimmt die hintere Fassadenflucht des linken Nachbargebäudes auf.
+– ein Überschreiten der hinteren Baugrenze um circa 3,80 m durch den Hauptbaukörper. Der Hauptbaukörper nimmt die hintere Fassadenflucht des linken Nachbargebäudes auf.
 
-• ein Überschreiten der hinteren Baugrenze um bis zu 12 m durch den eingeschossigen Anbau mit Freitreppe/Sockelgeschoss. Die erzeugten Abstandsflächen liegen auf eigenem Grund und das Sockelgeschoss hält die bauordnungsrechtlichen Mindestgrenzabstände zu den Nachbargrundstücken ein.
+– ein Überschreiten der hinteren Baugrenze um bis zu 12 m durch den eingeschossigen Anbau mit Freitreppe/Sockelgeschoss. Die erzeugten Abstandsflächen liegen auf eigenem Grund und das Sockelgeschoss hält die bauordnungsrechtlichen Mindestgrenzabstände zu den Nachbargrundstücken ein.
 
-• ein Überschreiten der vorderen Baugrenze um circa 1,10 m auf einer Breite von circa 6 m durch den Erker im Vorgartenbereich (untergeordnetes Bauteil).
+– ein Überschreiten der vorderen Baugrenze um circa 1,10 m auf einer Breite von circa 6 m durch den Erker im Vorgartenbereich (untergeordnetes Bauteil).
 
 ### Frage 4
 

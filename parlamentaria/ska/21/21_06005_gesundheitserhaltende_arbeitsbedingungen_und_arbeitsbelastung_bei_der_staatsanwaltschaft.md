@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 21
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4134"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54512"
@@ -43,7 +44,7 @@ Wie hoch sind die Eingangszahlen von Bekanntverfahren seit 2005? (Bitte nach Hau
 
 Wie hoch sind die Eingangszahlen der Unbekanntverfahren? (Bitte nach Hauptabteilungen gegliedert angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Geschäftsstatistik der Staatsanwaltschaft wird nicht nach Hauptabteilungen getrennt geführt. Valide Zahlen nach den bundeseinheitlichen Statistikvorschriften liegen nur für die Staatsanwaltschaft insgesamt vor. Die erbetene Aufteilung könnte nur durch händische Auswertung sämtlicher Ermittlungsakten erfolgen, das sind seit 2005 mehr als 300.000 Akten je Jahr. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -292,7 +293,7 @@ Wie hoch ist die Anzahl der Versetzung von Dezernenten/-innen in andere Bundesl�
 
 Wie viele Dezernenten/-innen haben zum Stichtag 01.08.2016 seit 2005 die Staatsanwaltschaft verlassen? (Bitte auflisten getrennt nach Versetzung, auch in andere Behörden oder Gerichte, Kündigung, Nicht-Übernahme et cetera.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Grund  
 Anzahl an Dezernentinnen und  
@@ -339,17 +340,17 @@ Wie hoch ist der Anteil an Volljuristen/-innen in der Hauptabteilung II? (Bitte 
 
 Zum 1. September 2016 waren in der Hauptabteilung II folgende Volljuristen beschäftigt:
 
- Vier Oberstaatsanwältinnen und Oberstaatsanwälte mit einem Arbeitsanteil von 3,6
+– Vier Oberstaatsanwältinnen und Oberstaatsanwälte mit einem Arbeitsanteil von 3,6
 
 VZÄ
 
- Ein Staatsanwalt (mit der Wahrnehmung der Geschäfte des Abteilungsleiters
+– Ein Staatsanwalt (mit der Wahrnehmung der Geschäfte des Abteilungsleiters
 
 betraut) mit einem Arbeitsanteil von 1,0 VZÄ
 
- Zwölf Staatsanwältinnen und Staatsanwälte mit einem Arbeitsanteil von 11,4 VZÄ
+– Zwölf Staatsanwältinnen und Staatsanwälte mit einem Arbeitsanteil von 11,4 VZÄ
 
- Zwölf volljuristische Amtsanwältinnen und Amtsanwälte mit einem Arbeitsanteil von
+– Zwölf volljuristische Amtsanwältinnen und Amtsanwälte mit einem Arbeitsanteil von
 
 9,45 VZÄ
 
@@ -361,29 +362,29 @@ Wie viele Stellen von R 2, R 1, A 13 mit Zulage, A 13, A 12 sind in der Hauptabt
 
 Der Stellenplan wird nicht nach Hauptabteilungen differenziert geführt. Die interne Geschäftsverteilung der Staatsanwaltschaft weist für die Hauptabteilung II folgende VZÄ aus:
 
- R 2 mit einem VZÄ-Anteil von 4,6
+– R 2 mit einem VZÄ-Anteil von 4,6
 
- R 1 mit einem VZÄ-Anteil von 10,85
+– R 1 mit einem VZÄ-Anteil von 10,85
 
- A 13Z mit einem VZÄ-Anteil von 1,8
+– A 13Z mit einem VZÄ-Anteil von 1,8
 
- A 13 mit einem VZÄ-Anteil von 10,1
+– A 13 mit einem VZÄ-Anteil von 10,1
 
- A 12 mit einem VZÄ-Anteil von 15,65
+– A 12 mit einem VZÄ-Anteil von 15,65
 
 Hierbei ist zu berücksichtigen, dass von dem für den R-Bereich ausgewiesenen VZÄ- Anteil von insgesamt 15,45 ein Arbeitsanteil von 9,95 auf die Bearbeitung von Amtsanwaltssachen entfällt.
 
 Zum 1. September 2016 waren hiervon besetzt:
 
- R 2 mit einem VZÄ-Anteil von 4,6
+– R 2 mit einem VZÄ-Anteil von 4,6
 
- R 1 mit einem VZÄ-Anteil von 11,4
+– R 1 mit einem VZÄ-Anteil von 11,4
 
- A 13Z mit einem VZÄ-Anteil von 1,0
+– A 13Z mit einem VZÄ-Anteil von 1,0
 
- A 13 mit einem VZÄ-Anteil von 10,1
+– A 13 mit einem VZÄ-Anteil von 10,1
 
- A 12 mit einem VZÄ-Anteil von 15,55
+– A 12 mit einem VZÄ-Anteil von 15,55
 
 ### Frage 13
 
@@ -413,7 +414,7 @@ Wie hoch ist die Anzahl von sogenannten Langzeiterkrankten (Erkrankungen, die am
 
 Wie lange ist/war die längste Erkrankung eines/einer Dezernenten/-in?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Derzeit liegen keine Langzeiterkrankungen vor. Um Angaben zu den in der Vergangenheit liegenden Erkrankungen machen zu können, müssten ausnahmslos alle Personalakten ausgewertet werden. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -455,6 +456,6 @@ Nach welchen Grundlagen erfolgt die Personalbedarfsberechnung, da die Staatsanwa
 
 Wie hoch ist die Belastung der Dezernenten/-innen, aufgeschlüsselt in Prozent-Angaben, getrennt nach Hauptabteilungen?
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Es gibt zurzeit kein Verfahren zur Berechnung des Personalbedarfs. Die Überlegungen und Abstimmungen zum Einsatz von PEBB§Y sind noch nicht abgeschlossen.

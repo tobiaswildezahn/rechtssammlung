@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 24
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60138"
@@ -65,7 +66,7 @@ Wieso wurde durch die Freie und Hansestadt Hamburg (LIG) die gesamte Fläche des
 
 Welche und wie viele Gespräche wurden zu der Kündigung des Pachtvertrags mit dem LGH geführt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 
@@ -146,7 +147,7 @@ Im Zuge der Umsetzung des Bebauungsplans werden irgendwann die Strom- und Wasser
 
 Wer trägt im Zuge der vorgesehenen Neuparzellierung des Vereinsgeländes die Kosten für die Neuanlage einer Wasserleitung beziehungsweise die Verlegung von Stromleitungen?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Die FHH. Im Übrigen siehe Antwort zu 5.
 
@@ -186,7 +187,7 @@ Wo genau befinden sich die im Schreiben mit Az. 441/4 KGV aufgelisteten 17 Teilf
 
 Welche dieser Teilflächen liegen in welchen Baufeldern des Bebauungsplans Barmbek-Nord 11?
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Siehe Anlagen 3 und 4.
 

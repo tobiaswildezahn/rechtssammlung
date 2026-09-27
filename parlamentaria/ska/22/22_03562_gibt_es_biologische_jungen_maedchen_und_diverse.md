@@ -13,9 +13,10 @@ seiten: 1
 fragen: 0
 einzelfragen: 0
 antwortbloecke: 0
-beantwortet: true
+beantwortet: false
+status: "zurückgezogen"
 zitierte_drucksachen: []
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/74858"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/74858/22_03562_gibt_es_biologische_jungen_maedchen_und_diverse"
 abgerufen: "2026-09-24"
@@ -24,11 +25,9 @@ generator: "ska_archiv 1.0"
 
 # Drs. 22/3562: Gibt es biologische Jungen, Mädchen und Diverse?
 
-> Schriftliche Kleine Anfrage der Abgeordneten Olga Petersen und Thomas Reich (AfD) vom 15.03.21 und Antwort des Senats · Drucksache vom 15.03.2021  
+> Schriftliche Kleine Anfrage der Abgeordneten Olga Petersen und Thomas Reich (AfD) vom 15.03.21 · zurückgezogen · Drucksache vom 15.03.2021  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/74858) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/74858/22_03562_gibt_es_biologische_jungen_maedchen_und_diverse)
 
-## Volltext
-
-Gibt es biologische Jungen, Mädchen und Diverse?
+## Hinweis
 
 Die Anfrage wurde zurückgezogen.

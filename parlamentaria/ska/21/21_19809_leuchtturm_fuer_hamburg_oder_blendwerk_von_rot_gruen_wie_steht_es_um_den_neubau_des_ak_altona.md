@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 28
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12681", "21/12685", "21/13693", "21/11141", "21/17909", "21/18823"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69550"
@@ -99,7 +100,7 @@ b) innovativer
 Krankenhausbau geplant? Welche konkreten Merkmale kennzeichnen  
 den geplanten Krankenhaustypus im Einzelnen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Ja, die beständig zunehmende Verzahnung von stationärer, teilstationärer und ambulanter Medizin und die damit einhergehende übergreifende Organisation für ambulante und stationäre Behandlungen unter einem Dach sollen im Rahmen flexibler baulicher Strukturen bestmöglich berücksichtigt werden, um die medizinischen Leistungen den Patientenbedürfnissen und der Weiterentwicklung medizinischer Prozesse anpassen zu können. Ferner wird sich die neue Asklepios Klinik Altona noch stärker den Bürgerinnen und Bürgern öffnen und mehr als nur ein Krankenhaus sein. Der Campus sowie die neugestaltete Parkanlage sollen als „Quartiersmitte“ gestaltet werden und dabei auch Nichtpatienten vielfältige verschiedene Angebote bieten.
 
@@ -175,19 +176,19 @@ Aktuell ist das AK Altona nicht unmittelbar durch eine Haltestelle an ein schien
 
 Das AK Altona ist derzeit mittels einer Vielzahl von Linien des öffentlichen Personennahverkehrs in alle Richtungen verkehrlich angebunden:
 
- Richtung Ost/Altona Zentrum: MetroBus-Linie 1 und StadtBus-Linien 150, 250 nach
+– Richtung Ost/Altona Zentrum: MetroBus-Linie 1 und StadtBus-Linien 150, 250 nach
 
 Bf. Altona,
 
- Richtung West: MetroBus-Linie 1 nach Othmarschen – Osdorf – Blankenese –
+– Richtung West: MetroBus-Linie 1 nach Othmarschen – Osdorf – Blankenese –
 
 Rissen,
 
- Richtung Nord: StadtBus-Linie 284 nach Bahrenfeld Nord – Lurup Ost – Eidelstedt
+– Richtung Nord: StadtBus-Linie 284 nach Bahrenfeld Nord – Lurup Ost – Eidelstedt
 
 – Niendorf,
 
- Richtung Süd: StadtBus-Linien 150 nach Finkenwerder – Cranz und 250 nach
+– Richtung Süd: StadtBus-Linien 150 nach Finkenwerder – Cranz und 250 nach
 
 Neuwiedenthal – Neugraben.
 

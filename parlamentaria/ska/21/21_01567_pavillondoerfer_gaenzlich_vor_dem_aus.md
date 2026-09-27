@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1399", "21/1407", "21/1409", "21/1492"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49829"
@@ -45,7 +46,7 @@ Für wie viele Flüchtlinge waren die Unterkünfte Volksdorfer Grenzweg, Jugendp
 
 Für welchen Zeitpunkt war die Bezugsfertigkeit dieser Unterkünfte jeweils geplant?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Standort  
 Platzzahl  
@@ -79,7 +80,7 @@ Führt diese Verzögerung dazu, dass die Flüchtlinge, die für die unter 1. gen
 
 An welcher Stelle wurden zur Kompensation dieser Verzögerung neue Erstaufnahmekapazitäten geschaffen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Planung der Belegung erfolgt nicht bereits während der Bauphase. Vielmehr wird kurz vor der Erstbelegung unter Berücksichtigung besonderer Bedürfnisse, Familienzusammenhänge, Belegungsbeschränkungen und Kriterien für eine sozial verträgliche Belegung eine Auswahl der in der neuen Einrichtung unterzubringenden Personen getroffen.
 

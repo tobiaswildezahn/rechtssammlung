@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53067"
@@ -45,49 +46,49 @@ Folgende Arbeiten sollten im Zuge der Vollsperrung ausgeführt werden:
 
 Bereich A 7 und A 23:
 
- Nachmarkierungsarbeiten und Servicearbeiten im gesamten Baubereich
+– Nachmarkierungsarbeiten und Servicearbeiten im gesamten Baubereich
 
- Umbau der Verkehrsführung A 23 zur A 7 Richtung Süd (Vorverlegung der Spurre-
+– Umbau der Verkehrsführung A 23 zur A 7 Richtung Süd (Vorverlegung der Spurre-
 
 duzierung)
 
- Auflegen der Betonfertigteile für die Brücke Niendorfer Gehege
+– Auflegen der Betonfertigteile für die Brücke Niendorfer Gehege
 
- Rückbau zweier Anzeigequerschnitte der Verkehrsbeeinflussungsanlage (VBA) im
+– Rückbau zweier Anzeigequerschnitte der Verkehrsbeeinflussungsanlage (VBA) im
 
 Bereich des zukünftigen Tunnels Stellingen
 
- Rückbau von Beleuchtungseinrichtungen im Bereich des zukünftigen Tunnels Stel-
+– Rückbau von Beleuchtungseinrichtungen im Bereich des zukünftigen Tunnels Stel-
 
 lingen
 
- Rückbau und Neubau diverser Einrichtungen der elektrotechnischen Ausstattung
+– Rückbau und Neubau diverser Einrichtungen der elektrotechnischen Ausstattung
 
 der Autobahn
 
- Instandhaltung der VBA
+– Instandhaltung der VBA
 
- Bauwerksprüfungen an den Brücken Kieler Straße und Duvenacker (Querungen
+– Bauwerksprüfungen an den Brücken Kieler Straße und Duvenacker (Querungen
 
 über die A 7)
 
- Herstellung eines Hinweisschildes bei km 150,8
+– Herstellung eines Hinweisschildes bei km 150,8
 
- Anpassung von Beschilderung und Baustellenabsicherung in den Abschnitten Stel-
+– Anpassung von Beschilderung und Baustellenabsicherung in den Abschnitten Stel-
 
 lingen und Schnelsen
 
- Servicearbeiten der Autobahnmeisterei Othmarschen im Tunnelbereich A 7 zur
+– Servicearbeiten der Autobahnmeisterei Othmarschen im Tunnelbereich A 7 zur
 
 A 23
 
 Bereich nachgeordnetes Straßennetz:
 
- Teil- und Vollsperrungen Kieler Straße und Wördemanns Weg zur Stromkabelkap-
+– Teil- und Vollsperrungen Kieler Straße und Wördemanns Weg zur Stromkabelkap-
 
 pung
 
- Aufbau der Verkehrsführung Wördemanns Weg für Blocksignalisierung
+– Aufbau der Verkehrsführung Wördemanns Weg für Blocksignalisierung
 
 ### Frage 2
 
@@ -121,7 +122,7 @@ Wann werden die nicht ausgeführten Arbeiten nachgeholt?
 
 Ist für die Nachholung eine erneute Sperrung der A 7 nötig? Wann wird diese gegebenenfalls erfolgen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Arbeiten wurden im Rahmen einer Sperrung vom 4. Juni 2016, 22 Uhr bis 5. Juni 2016, 9 Uhr nachgeholt.
 

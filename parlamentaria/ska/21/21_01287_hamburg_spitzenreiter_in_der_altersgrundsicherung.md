@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8154", "20/7126", "20/10600"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49477"
@@ -60,7 +61,7 @@ Woran liegt es, dass die Zahl der Frauen und Männer, die Grundsicherung im Alte
 
 Um welchen Personenkreis handelt es sich genau bei den oben genannten Frauen und Männern?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Hierzu werden keine Daten erhoben. Im Rahmen des Bewilligungsverfahrens sind nur die für die Entscheidung und die Leistung relevanten Daten zu erfassen.
 
@@ -114,7 +115,7 @@ Wie lange waren sie berufstätig?
 
 Welche Berufe/Tätigkeiten übten sie aus?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antworten zu 3. und 4. sowie 6.
 

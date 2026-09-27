@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13776"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65810"
@@ -45,7 +46,7 @@ Wie viele abgeschobene Migranten sind im Jahre 2018 im Wege der verbotenen Einre
 
 Wie beziehungsweise auf welchem Weg sind diese Migranten eingereist?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/13776.
 

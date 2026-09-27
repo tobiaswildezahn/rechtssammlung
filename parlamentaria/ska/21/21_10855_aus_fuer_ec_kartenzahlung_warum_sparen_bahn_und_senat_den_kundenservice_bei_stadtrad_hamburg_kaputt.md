@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6049", "21/6154"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59766"
@@ -161,7 +162,7 @@ Wie haben sich seit 2009 die Instandhaltungskosten für die EC-Kartenlesegeräte
 
 Wie haben sich seit 2009 die Kosten für die Zertifizierung der EC-Kartenlesegeräte aus den StadtRAD-Terminals entwickelt? Bitte jahresweise aufschlüsseln und auch Zahlen für das laufende Jahr angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Kosten für Reparaturen, Instandsetzung, Vandalismus und Verluste im StadtRAD- System sind für die Freie und Hansestadt Hamburg mit dem Betreiberentgelt vollständig abgegolten. Darüber hinaus hat die DB Connect zu ihren operativen Aufwänden keine weiteren Auskünfte erteilt.
 

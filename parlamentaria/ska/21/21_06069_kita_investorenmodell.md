@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5867"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54579"
@@ -43,7 +44,7 @@ Wie viele Angebote zur Errichtung und anschließenden Vermietung von Kindertages
 
 Welche weiteren Modelle zur Finanzierung von Kindertagesstätten haben der Senat beziehungsweise die zuständige Behörde in Erwägung gezogen, die dem „Investorenmodell“ ähneln?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Keine.
 
@@ -73,6 +74,6 @@ Wie sah die Zusammenarbeit zwischen privaten Investoren und der Freien und Hanse
 
 Bestehen in Hamburg rechtliche Hürden bezüglich der Kooperation zwischen privaten Investoren und der Stadt Hamburg hinsichtlich der Errichtung von Kindertagesstätten?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antworten zu 1. und 2. und zu 3.

@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14798"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67552"
@@ -111,25 +112,25 @@ a) Wenn ja,
 
 werden die Kriterien
 
- Spitzenförderung durch den Hamburger Sportbund e.V.,
+– Spitzenförderung durch den Hamburger Sportbund e.V.,
 
 Gilt als erfüllt, wenn der HSB die Sportart in die Spitzenförderung aufnimmt. Dies wird gegen Ende beziehungsweise zu Beginn eines neuen Olympiazyklus sein.
 
- Spezialbetreuung durch den OSP,
+– Spezialbetreuung durch den OSP,
 
 Nach der Vereinbarung einer Kooperation zwischen dem OSP und dem Spitzenverband für den jeweiligen Olympiazyklus. Dies wird voraussichtlich Anfang 2020 für den Zyklus bis 2024 sein.
 
- Infrastrukturelle Rahmenbedingungen,
+– Infrastrukturelle Rahmenbedingungen,
 
 Nach Prüfung der geforderten Kriterien.
 
- Olympiateilnehmer bei den letzten Olympischen, Paralympi-
+– Olympiateilnehmer bei den letzten Olympischen, Paralympi-
 
 schen beziehungsweise Deaflympischen Spielen und
 
 Prüfung bei einem begonnenen Anerkennungsverfahren.
 
- Top Ten Veranstaltung
+– Top Ten Veranstaltung
 
 Prüfung bei begonnenem Anerkennungsverfahren.
 

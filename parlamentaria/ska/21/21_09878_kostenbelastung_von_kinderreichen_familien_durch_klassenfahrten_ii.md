@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9436"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58694"
@@ -88,7 +89,7 @@ In welchem Umfang wurden in den einzelnen Behörden 2016 Anträge auf Zuschüsse
 
 In welchem Umfang wurden von welcher Behörde 2016 Zuschüsse gewährt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der zuständigen Stelle in der Behörde für Schule und Berufsbildung lagen 2016 keine Anträge vor.
 

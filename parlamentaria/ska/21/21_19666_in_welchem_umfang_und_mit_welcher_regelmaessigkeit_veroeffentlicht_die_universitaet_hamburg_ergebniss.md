@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69448"
@@ -90,7 +91,7 @@ Wie viele klinische Studien im Sinne der WHO-Definition (siehe Fußnote 1) wurde
 
 Wer waren die Fördermittelgeber dieser Studien und in welcher Höhe wurden die Projekte gefördert? Angaben bitte pro Einzelstudie gegliedert nach Jahren.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nach Auskunft des UKE wurden im nachgefragten Zeitraum 15 klinische Prüfungen abgeschlossen, von denen sechs abschließend ausgewertet sowie die entsprechenden Ergebnisberichte an die Bundesoberbehörden übermittelt und darüber hinaus in öffentlich zugänglichen Journalen veröffentlicht worden sind. Die Ergebnisberichte dieser klinischen Studien werden derzeit vom UKE gemäß der Vorgaben der EU-Leitlinie 2012/302 03/EG überarbeitet und anschließend in die EudraCT-Datenbank hochgeladen. Sieben weitere abgeschlossene klinische Prüfungen befinden sich derzeit in der Auswertung, deren Ergebnisberichte das UKE direkt nach dem EU-Leitlinien-Format erstellen und anschließend in die EudraCT-Datenbank hochladen wird. In einer klinischen Prüfung wurde nur ein Patient eingeschlossen, diese ist daher nicht auswertbar. Eine Prüfung wurde vorzeitig beendet. Im Übrigen siehe Anlage.
 
@@ -102,7 +103,7 @@ Wie viele dieser Studien wurden in der EU-Medizindatenbank EudraCT veröffentlic
 
 Wie viele dieser Studien wurden spätestens zwölf Monate nach Fertigstellung in der EU-Medizindatenbank EudraCT veröffentlicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 30
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11657"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61334"
@@ -59,7 +60,7 @@ Welchen über die umfangreichen Ergebnisse bisheriger wissenschaftlicher Studien
 
 Welchen konzeptionellen und methodischen Ansatz verfolgt das Forschungsvorhaben und was ist an diesem im Vergleich zu vorliegenden wissenschaftlichen Publikationen neu?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 In dem Forschungsvorhaben werden die sozioökonomischen Folgen verschiedener Glücksspielregulierungsmodelle aus interdisziplinärer und gesamtgesellschaftlicher
 
@@ -105,7 +106,7 @@ Welchen beziehungsweise welche inhaltlichen Schwerpunkt beziehungsweise Schwerpu
 
 Welche wissenschaftlichen Arbeitsvorgänge und Fragestellungen werden seitens der Antragsteller priorisiert, sodass sie validen Einzug in den Zwischenbericht nach sechs Monaten Projektlaufzeit finden können? Welche Arbeitsschritte erfolgen nach der Veröffentlichung des Zwischenberichts?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Ziel des Zwischenberichts ist eine Darstellung der bis dahin gewonnen Erkenntnisse. Die Schwerpunkte werden in Abhängigkeit von der Bedeutung der zu erfassenden und verarbeitenden Informationen sowie der Verfügbarkeit dieser Informationen gebildet. Im Anschluss an den Zwischenbericht werden offen gebliebene Punkte und Fragen aufgearbeitet. Außerdem erfolgt eine Verbreitung der Ergebnisse in Form von Vorträgen und Veröffentlichungen.
 
@@ -157,7 +158,7 @@ Warum beteiligen sich lediglich neun von 16 Bundesländern an der Förderung des
 
 Wurden alle 16 Bundesländer angefragt, sich an der finanziellen Förderung des Forschungsprojektes zu beteiligen? Falls nein, warum nicht? Falls ja, aus welchen Gründen lehnten welche sieben Bundesländer jeweils eine finanzielle Beteiligung ab?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Es wurden alle Länder angefragt. In den nicht teilnehmenden Ländern standen keine Forschungsmittel für das Projekt zur Verfügung oder es wurden übergeordnete Gremienbeschlüsse, zum Beispiel der Ministerpräsidenten, für erforderlich gehalten oder es gab Vorbehalte gegen die beauftragte Universität.
 
@@ -169,6 +170,6 @@ Warum trägt die Freie und Hansestadt Hamburg als eines von 16 Bundesländern al
 
 Nach welchen Kriterien bemisst sich die jeweils anteilige prozentuale Beteiligung der beteiligten neun Bundesländer an der gesamten Fördersumme? Warum wurde nicht der Königsteiner Schlüssel als Bemessungsgrundlage zumindest teilweise herangezogen?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Die von der Universität Hamburg vorgelegte Fragestellung wird durch Hamburg als förderungswürdig erachtet, da die Ergebnisse einen Erkenntnisgewinn für die Weiterentwicklung des Glücksspielrechts erwarten lassen. Es steht im Ermessen der Länder, wie sie die Vorgaben des § 11 Glücksspielstaatsvertrag umsetzen. Hamburg ist für die Entscheidung über den Antrag zuständig und hätte das Vorhaben auch alleine durchführen können. Durch die Beteiligung anderer Länder konnte die Kostenlast für Hamburg reduziert werden. Diese Länder haben für ihre Beteiligung den Königsteiner Schlüssel zugrunde gelegt. Einige Länder haben auch einen nach Königsteiner Schlüssel übersteigenden Anteil übernommen.

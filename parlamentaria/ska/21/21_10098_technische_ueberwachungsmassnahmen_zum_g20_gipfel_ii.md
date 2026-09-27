@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 12
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9862", "18/13033"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58922"
@@ -52,7 +53,7 @@ In welchem Umfang wurden bei den verschiedenen Aktionen und Kundgebungen (Politi
 
 Was hat die zuständigen Behörden dazu bewogen, die Technologien der „stillen SMS“ und der IMSI-Catcher entgegen der Antwort auf Frage 16. in der BT.-Drs. 18/13033 auf die Anfrage der Fraktion DIE LINKE doch einzusetzen? Wer war in diese Entscheidung einbezogen und wer hat den Einsatz angeordnet?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nach derzeitigem Kenntnisstand wurden keine Mittel im Sinne der Fragestellungen eingesetzt. Darüber hinaus siehe Drs. 21/9862.
 
@@ -64,6 +65,6 @@ Die unterschiedlichen hamburgweit eingesetzten technischen Mittel der Überwachu
 
 Bitte die Fragen 4. a. bis d. auch für Maßnahmen beantworten, die im Zusammenhang mit den Aktionen und Kundgebungen, die in Harburg zu G20 stattgefunden haben, durchgeführt wurden.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Prüfung, ob die von der Polizei Hamburg durch technische Mittel erhobenen Daten auch zum Zwecke der Strafverfolgung verwendet werden sollen, ist noch nicht abgeschlossen. Eine Benachrichtigung der Betroffenen erfolgt, sobald dies ohne Gefährdung des Zweckes der Datenerhebung möglich ist. Die Frage nach der genauen Benennung der Anzahl der betroffenen Personen berührt laufende Ermittlungsverfahren, zu denen derzeit keine Angaben gemacht werden. Im Übrigen siehe Drs. 21/9862.

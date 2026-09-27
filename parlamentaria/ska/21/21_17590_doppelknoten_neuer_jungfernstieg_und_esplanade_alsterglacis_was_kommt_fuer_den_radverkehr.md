@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 18
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67177"
@@ -33,11 +34,11 @@ Der Doppelknoten Neuer Jungfernstieg und Esplanade/Alsterglacis stellt nicht nur
 
 ## Einleitung für die Antworten des Senats
 
- Veloroute 4 (Nord-Süd-Relation) in die Innenstadt,
+– Veloroute 4 (Nord-Süd-Relation) in die Innenstadt,
 
- Uni-Hauptbahnhof (Ost-West-Relation),
+– Uni-Hauptbahnhof (Ost-West-Relation),
 
- Ring 1 (Ost-West-Relation).
+– Ring 1 (Ost-West-Relation).
 
 Für die Radfahrenden ist aktuell in keiner Richtung ein zügiges Queren der Kreuzung möglich, da eine Vielzahl von Ampeln mit unterschiedlichen Rotphasen mehrmals den Radverkehr stoppt. Auch die für den Radverkehr bereitgestellten Flächen reichen bei Weiten nicht mehr aus, um das heutige Radverkehrsaufkommen angemessen abzuwickeln. Insbesondere in Nord- Süd-Relation von Eimsbüttel in die Innenstadt stellt der Doppelknoten eine große Barriere da.
 
@@ -127,7 +128,7 @@ Für welche Fuß-, Rad- und Kfz-Verkehrsmengen soll geplant werden? Bitte jeweil
 
 Wie groß sind die jeweiligen Verkehrsmengen aktuell?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Basis für die Planung sind aktuelle Verkehrserhebungen aus dem Jahr 2019. Die Daten werden derzeit zusammengestellt und ausgewertet und stehen daher noch nicht zur Verfügung.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7467", "21/3005"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65147"
@@ -100,7 +101,7 @@ In wie vielen Fällen wurde seit 2016 Anzeige gegen Polizeibedienstete wegen dis
 
 In wie vielen Fällen haben Polizeibedienstete seit 2016 den Vorwurf erhoben, Opfer von Mobbing als Ausdruck gruppenbezogener Menschenfeindlichkeit geworden zu sein? In wie vielen Fällen wurden deshalb Straf- oder Disziplinarverfahren eingeleitet und mit welchem Ergebnis?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Seit dem 1. Juli 2018 werden Ermittlungsverfahren im Zusammenhang mit „Hasskriminalität“ bundesweit durch die Staatsanwaltschaften statistisch erfasst, um die Motivforschung unter anderem für die Frage der Strafzumessung in Strafverfahren zu verbessern, aber auch um auf gesellschaftspolitische Entwicklungen besser reagieren zu
 
@@ -136,13 +137,13 @@ In unterschiedlichen Fortbildungslehrgängen, die die Themen Opferschutz, Hasskr
 
 In den Vorbereitungslehrgängen für Aufstiegsbeamte zum LA II, die keine Studierfähigkeit besitzen, werden im Themenfeld Politik die Lehrveranstaltungen
 
- Sicherheit im demokratischen Rechtsstaat,
+– Sicherheit im demokratischen Rechtsstaat,
 
- Polizei und Gesellschaft,
+– Polizei und Gesellschaft,
 
- Migration und
+– Migration und
 
- soziale Ungleichheit
+– soziale Ungleichheit
 
 mit insgesamt 92 Unterrichtstunden durch Mitarbeiterinnen/Mitarbeiter der Polizei mit abgeschlossenem Politologiestudium erteilt.
 

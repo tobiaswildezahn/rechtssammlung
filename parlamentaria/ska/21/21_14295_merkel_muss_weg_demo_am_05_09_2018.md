@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63706"
@@ -39,15 +40,15 @@ Vor diesem Hintergrund frage ich den Senat:
 
 Am 5. September 2018 wurden drei Versammlungen/Aufzüge von Privatpersonen in der Hamburger Innenstadt angemeldet:
 
- Versammlung „Merkel-muss-weg!“ in der Zeit von 19 bis 20.30 Uhr im Bereich
+– Versammlung „Merkel-muss-weg!“ in der Zeit von 19 bis 20.30 Uhr im Bereich
 
 Gänsemarkt
 
- Aufzug „Nazis und Rassisten entgegentreten“ in der Zeit von 17.30 bis 20 Uhr,
+– Aufzug „Nazis und Rassisten entgegentreten“ in der Zeit von 17.30 bis 20 Uhr,
 
 Schlusskundgebung Jungfernstieg/Neuer Jungfernstieg
 
- Aufzug „Hamburger Stimmen gegen Rechts“ in der Zeit von 17 bis 18.30 Uhr,
+– Aufzug „Hamburger Stimmen gegen Rechts“ in der Zeit von 17 bis 18.30 Uhr,
 
 Schlusskundgebung Jungfernstieg/Neuer Jungfernstieg
 
@@ -65,7 +66,7 @@ Wie viele Verletzte hat es im Zuge der Demonstrationen am 05.09.2018 gegeben und
 
 Aus welchem „Demonstrationslager“ stammen die Verletzten und auf welche Weise und durch wen wurden sie verletzt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs: 21/14281.
 
@@ -85,7 +86,7 @@ Aus welchem „Demonstrationslager“ erfolgte der Bewurf mit Steinen aus Richtu
 
 Aus welchem „Demonstrationslager“ erfolgte der Bewurf der Polizei mit diversen Gegenständen am Gänsemarkt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Eine Zuordnung der Störer zu einer der angemeldeten Aufzüge ist ausgehend von der Erkenntnislage der Polizei nicht möglich.
 

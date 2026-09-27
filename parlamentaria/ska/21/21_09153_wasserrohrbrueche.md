@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57911"
@@ -51,7 +52,7 @@ Wann kam es seit 2011 zu Brüchen der Wasserrohre, die von HAMBURG WASSER betrie
 
 Um welche Art von Wasserrohren handelte es sich dabei (Hauptrohre et cetera)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In den letzten Jahren gab es im Versorgungsgebiet von HW (inklusive außerhamburgische Gemeinden) folgende Leitungsschäden mit Wasseraustritt, unterteilt nach Leitungsart beziehungsweise Leitungsdimension:
 
@@ -95,7 +96,7 @@ In welchen dieser Fälle kam es aufgrund der Wasserrohrbrüche wo zu Straßenspe
 
 Wie lange dauerten diese Straßensperrungen jeweils?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die angeordneten Vollsperrungen werden erst seit Anfang 2016 erfasst. Dabei kam es an folgenden Straßen zu Vollsperrungen, die auf einen Defekt am Trinkwassernetz zurückzuführen sind:
 
@@ -143,7 +144,7 @@ Welche Kosten wurden für die Beseitigung dieser Rohrbrüche ausgegeben?
 
 In welchen dieser Fälle kam es zu Gebäudeschäden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Im Zuständigkeitsbereich von HW sind in den letzten Jahren folgende Kosten aufgrund von nicht planbaren Reparaturarbeiten über alle Trinkwasserleitungen angefallen:
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59162"
@@ -51,7 +52,7 @@ Welche Kenntnisse haben die zuständigen Behörden von dem geschilderten Sachver
 
 Falls die Behörden bislang keine Kenntnisse des Vorgangs haben, nehmen sie diese Anfrage zum Anlass einer Überprüfung der geschilderten Begebenheiten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nach Auskunft des zuständigen Bezirksamtes Hamburg-Nord hat der Personalrat des Bezirksamtes keine E-Mail mit dem entsprechenden Inhalt versandt.
 

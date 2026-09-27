@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54901"
@@ -90,6 +91,6 @@ Welchen Investitionsbedarf sieht die Deutsche Bahn in den nächsten drei Jahren 
 
 Welche Maßnahmen plant die Deutsche Bahn in den nächsten drei Jahren am Fern – und S-Bahnhof Harburg konkret?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die DB AG plant derzeit die Verbesserung der Barrierefreiheit durch zwei zusätzliche Aufzüge vom S-Bahnsteig über die Zwischenebene und weiter zum ZOB (ein Aufzug ist bereits in Betrieb, der zweite geht in Bau) sowie die Verbesserung des Brandschutzes in der S-Bahn-Station. Die geplanten Investitionen liegen im sechsstelligen Bereich.

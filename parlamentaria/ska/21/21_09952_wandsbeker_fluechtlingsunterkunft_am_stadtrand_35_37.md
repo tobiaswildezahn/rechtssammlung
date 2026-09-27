@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5231"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58771"
@@ -80,7 +81,7 @@ Auswelchem Grund wurden die Brandschutzbestimmungen nicht bereits vor der Ankün
 
 Bis wann werden die angekündigten Gemeinschaftsräume mit einer dauerhaften Möblierung für die Bewohner vollumfänglich nutzbar sein?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Bei der Planung der Gemeinschaftsräume durch den Vermieter wurde davon ausgegangen, dass die Gemeinschaftsräume auch als Flucht- und Rettungswege zur zusätzlich notwendigen Außentreppe definiert und genutzt werden können. Dies ist vorschriftenkonform und bedeutet für den Betrieb, dass diese Räume nicht verschließbar sein dürfen und nur eingeschränkt möbliert werden können (Vermeidung von sogenannten Brandlasten).
 
@@ -96,7 +97,7 @@ Aus welchen expliziten Gründen war der Außenspielplatz bisher nicht nutzbar?
 
 Wie viel Zeit nimmt die Ertüchtigung des Spielplatzes bisher in Anspruch?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Außenspielplatz war mit Belegungsbeginn der örU nutzbar. Um nach ersten Erfahrungen vor Ort den Bereich für die spielenden Kinder jedoch noch umfangreicher abzusichern, wurden bauliche Maßnahmen von f & w initiiert und dabei zum Beispiel zusätzliche Zäune errichtet. Die erforderlichen Ausschreibungen wurden im April 2017 veranlasst, die Freigabe des Spielplatzes wird voraussichtlich Ende August 2017 erfolgen.
 
@@ -110,11 +111,11 @@ b) im Bau? Wann ist mit der jeweiligen Fertigstellung beziehungsweise Inbetriebn
 
 Im direkten Einzugsgebiet der Unterkunft sind der zuständigen Behörde bisher drei Kita-Planungen bekannt:
 
- Planung mit 80 Plätzen, voraussichtliche Inbetriebnahme August 2017;
+– Planung mit 80 Plätzen, voraussichtliche Inbetriebnahme August 2017;
 
- Planung mit 25 Plätzen, voraussichtliche Inbetriebnahme Ende 2017;
+– Planung mit 25 Plätzen, voraussichtliche Inbetriebnahme Ende 2017;
 
- Planung mit 84 Plätzen, voraussichtliche Inbetriebnahme Sommer 2018.
+– Planung mit 84 Plätzen, voraussichtliche Inbetriebnahme Sommer 2018.
 
 Im Bau befinden sich derzeit keine Kitas im Einzugsgebiet der Unterkunft.
 

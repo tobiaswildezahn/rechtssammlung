@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48276"
@@ -71,7 +72,7 @@ Welche Mängel des Rad- und Fußverkehrs in diesem Bereich wurden im Vorfeld der
 
 Inwieweit führt die Baumaßnahme zu besseren Rad- und Fußverkehrsbedingungen? Falls keine Verbesserungen geplant sind: weshalb nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Baumaßnahme verbessert die Bedingungen für Rad- und Fußgänger. Durch die installierte Lichtsignalanlage wird ein sicheres Queren aller Fahrbahnen ermöglicht. Des Weiteren werden die Radfahrer auf dem nördlichen Geh- und Radweg des Rei-
 

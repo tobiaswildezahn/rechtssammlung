@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 33
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2108", "21/5343", "21/4879", "21/4393", "21/5635"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54730"
@@ -43,7 +44,7 @@ Wie viele Personen sind in der EA Fiersbarg zurzeit untergebracht?
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Geschlecht Erwachsene  
 Kinder & Jugendliche  
@@ -84,21 +85,21 @@ Aus welchen Unterkünften kommen sie?
 
 Es wurden aus den folgend genannten Erstaufnahmeeinrichtungen Asylsuchende in die Erstaufnahmeeinrichtung (EA) Fiersbarg verlegt:
 
-• Ankunftszentrum Rahlstedt
+– Ankunftszentrum Rahlstedt
 
-• Oktaviostraße
+– Oktaviostraße
 
-• Wiesendamm
+– Wiesendamm
 
-• Rugenbarg
+– Rugenbarg
 
-• Amalie-Sieveking-Krankenhaus
+– Amalie-Sieveking-Krankenhaus
 
-• Kieler Straße
+– Kieler Straße
 
-• Geutensweg
+– Geutensweg
 
-• Ohlstedter Platz
+– Ohlstedter Platz
 
 ### Frage 6
 

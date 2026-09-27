@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 17
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15617", "21/15765"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65496"
@@ -77,7 +78,7 @@ Haben sich der Senat und die zuständige Behörde mit der zitierten Studie, den 
 
 Welche Handlungsempfehlungen entnehmen der Senat und die zuständige Behörde der zitierten Studie in Bezug auf die Hamburgischen Schulen? Bitte im Detail darstellen, welche Maßnahmen umgesetzt werden sollen und wie diese umgesetzt werden sollen. Sollten keine Maßnahmen umgesetzt werden, bitte im Detail darstellen, warum keine zusätzlichen Maßnahmen erfolgen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die mit dem Thema Antisemitismusprävention an Schulen befassten Stellen der für Bildung zuständigen Behörde werten die Studie „Antisemitismus in der Schule“ aus und bewerten sie insbesondere auch hinsichtlich ihrer empirischen Fundierung sowie der Schlüssigkeit der aus den dortigen Analysen gezogenen Schlussfolgerungen und Handlungsempfehlungen. Aus diesem Prozess heraus werden sich gegebenenfalls ergänzende Maßnahmen zur Antisemitismusprävention an Schulen ergeben. Im Übrigen sind die Überlegungen der für Bildung zuständigen Behörde noch nicht abgeschlossen.
 
@@ -115,7 +116,7 @@ Wie beurteilen der Senat und die zuständige Behörde die Einschätzung, dass ei
 
 Wie beurteilen der Senat und die zuständige Behörde die Einschätzung, dass eine aus einem falschen Verständnis von Multiperspektivität erfolgte Toleranz gegenüber Intoleranz und Antisemitismus in diesem Zusammenhang auch ein Problem an Hamburgs Schulen darstellen könnte? Bitte im Detail darstellen.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 3. und 4.
 

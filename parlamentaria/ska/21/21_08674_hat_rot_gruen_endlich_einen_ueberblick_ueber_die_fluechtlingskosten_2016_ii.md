@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8434", "21/8487", "21/1395", "21/8211"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57397"
@@ -57,7 +58,7 @@ Zusätzliche Mehrbedarfe in Höhe von über 65 Millionen sind im vergangenen Jah
 
 Auch die anderen Behörden außer BASFI und BIS sowie größtenteils die Bezirke bekamen durch das hohe Flüchtlingsaufkommen entstandene Mehrkosten nicht über zentrale Mittel ausgeglichen. Aber auch bei BAS- FI und BIS dürfte das nicht vollständig erfolgt sein. Wie hoch waren jeweils die Mehrbedarfe insgesamt und jeweils je betroffener Produktgruppe und wie wurden sie durch welche Reserven und Einsparungen in welchen Bereichen/Produktgruppen gegenfinanziert? Bitte detailliert für Behörden und Bezirke aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung sowie Drs. 21/8487 und Drs. 21/8211.
 

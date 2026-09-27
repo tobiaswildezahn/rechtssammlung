@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14319", "21/17766", "21/13605"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68613"
@@ -99,25 +100,25 @@ Jede Elbkinder-Kita erstellt eine eigene Belegungsplanung sowohl für das laufen
 
 Nach Aussage des Trägers seien die Interessenlisten in den Harburger Elbinder-Kitas vergleichbar mit denen in anderen Bezirken. Den Elbkindern sind von den insgesamt 14 Harburger Kitas folgende Einrichtungen bekannt, bei denen sich Wartezeiten auf einen Kita-Platz von circa sechs bis maximal 24 Monaten ergeben:
 
- Kita Sinstorfer Kirchweg,
+– Kita Sinstorfer Kirchweg,
 
- Kita Elfenwiese,
+– Kita Elfenwiese,
 
- Kita Baererstraße,
+– Kita Baererstraße,
 
- Kita Harburger Rathauspassage,
+– Kita Harburger Rathauspassage,
 
- Kita Eddelbüttelstraße,
+– Kita Eddelbüttelstraße,
 
- Kita Schneverdinger Weg,
+– Kita Schneverdinger Weg,
 
- Kita Ernst-Bergeest-Weg,
+– Kita Ernst-Bergeest-Weg,
 
- Kita Am Johannisland,
+– Kita Am Johannisland,
 
- Kita Neuwiedenthaler Straße,
+– Kita Neuwiedenthaler Straße,
 
- Kita Wümmeweg.
+– Kita Wümmeweg.
 
 Im Übrigen siehe Anlage.
 
@@ -143,7 +144,7 @@ Laut Drs. 21/14319 waren dem Senat beziehungsweise der zuständigen Behörde vor
 
 Sind dem Senat beziehungsweise der zuständigen Behörde darüber hinaus weitere Planungen für neue beziehungsweise erweiterte Kitas im Bezirk Harburg vor allem im angespannten Stadtteil Sinstorf bekannt? Wenn ja, welche Planungen konkret? Bitte nach Stadtteilen sortiert darstellen.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Von den 19 Kita-Planungen haben bereits vier Kitas ihren Betrieb aufgenommen: Erweiterung der Kita Museumsplatz 1 in der Wilhelmstraße 33 im Mai 2019 (Harburg), Erweiterung der Kita Marienstraße 46 im Juni 2019 (Harburg), Kita Torfstecherweg 6 im August 2019 (Neugraben-Fischbek) und Kita Denickestraße 52 im November 2019 (Heimfeld). Die für Kindertagesbetreuung zuständige Behörde geht davon aus, dass im Laufe der nächsten zwölf Monate weitere sieben Kitas ihren Betrieb aufnehmen. Davon sollen bis zum Frühjahr 2020 in Eißendorf und Harburg jeweils eine Kita sowie in Neugraben-Fischbek zwei Kitas eröffnen. Eine Planung für eine kleine Kita in Neugraben-Fischbek wurde vom Träger nicht weiter verfolgt.
 

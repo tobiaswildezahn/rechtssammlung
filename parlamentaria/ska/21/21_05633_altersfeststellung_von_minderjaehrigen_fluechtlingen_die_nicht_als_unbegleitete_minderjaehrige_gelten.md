@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1002", "21/1906", "21/2837", "21/3915", "21/5124", "21/5334", "21/5453", "21/5621"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54126"
@@ -132,7 +133,7 @@ Welche Leistungen und Rechte erhalten Kinder und Jugendliche unter den Flüchtli
 
 Welche Leistungen erhalten Eltern von Kindern und Jugendlichen unter den Flüchtlingen zusätzlich, die in Begleitung ihrer Eltern/Erziehungsberechtigten in Hamburg versorgt werden? (Bitte nach Art der Leistung und Alter aufschlüsseln.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Leistungen und Leistungsumfang für Kinder und Jugendliche, die in Begleitung ihrer gesetzlichen Vertreter einreisen, richten sich – wie bei Erwachsenen – nach den einschlägigen Vorschriften des AsylbLG, des SGB II und des SGB XII. Die Höhe der Leistungen für den notwendigen Bedarf und den notwendigen persönlichen Bedarf für Leistungsberechtigte ist altersabhängig unterschiedlich. Die Eltern von minderjährigen Flüchtlingen erhalten keine zusätzlichen Leistungen aufgrund ihrer Elterneigenschaft.
 
@@ -178,6 +179,6 @@ Wird bei begleiteten Kindern und Jugendlichen die Altersangabe überprüft? Wenn
 
 Sind dem Senat beziehungsweise den zuständigen Behörden Fälle bekannt, denen zufolge das Alter von Kindern und Jugendlichen durch die Eltern/Erziehungsberechtigten falsch angegeben wurde? Wenn ja, hat dies Folgen mit sich gebracht? Wenn ja, welche Folgen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Nein, in der Praxis gibt es keinen Zweifel am geltend gemachten Alter.

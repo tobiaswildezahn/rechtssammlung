@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7619", "21/4416", "21/5020", "21/5567", "21/5883", "21/7152", "21/10143"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59339"
@@ -54,11 +55,11 @@ Die Altgeräte entsprachen nicht mehr dem Stand der Küchentechnik und wiesen au
 
 Im Einzelnen:
 
- Mensa Bergedorf, Mensa Harburg: Austausch von zwei Konvektomaten
+– Mensa Bergedorf, Mensa Harburg: Austausch von zwei Konvektomaten
 
- Mensa Campus: Erneuerung der Spül- und Fördertechnik
+– Mensa Campus: Erneuerung der Spül- und Fördertechnik
 
- Mensa Harburg: Austausch von zwei Kochkesseln und einer Kippbratpfanne
+– Mensa Harburg: Austausch von zwei Kochkesseln und einer Kippbratpfanne
 
 ### Frage 2
 
@@ -188,17 +189,17 @@ Bitte differenziert nach den einzelnen Standorten auflisten.
 
 Die Sanierungs- und Investitionsbedarfe werden zurzeit vom Studierendenwerk erhoben. Für folgende Mensen bestehen nach aktueller Kenntnislage Sanierungsbedarfe:
 
- Hauptmensa, Von-Melle-Park 2
+– Hauptmensa, Von-Melle-Park 2
 
- Harburg, Kasernenstraße/Denickestraße
+– Harburg, Kasernenstraße/Denickestraße
 
- Botanischer Garten, Ohnhorststraße 18
+– Botanischer Garten, Ohnhorststraße 18
 
- Philosophenturm, Von-Melle-Park 6
+– Philosophenturm, Von-Melle-Park 6
 
- Stellingen, Vogt-Kölln-Straße 30
+– Stellingen, Vogt-Kölln-Straße 30
 
- Geomatikum, Bundesstraße 55
+– Geomatikum, Bundesstraße 55
 
 ### Frage 6
 

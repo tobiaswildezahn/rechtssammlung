@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 19
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59512"
@@ -57,7 +58,7 @@ Wie kam es dazu, dass der Wasserwerfer abgeschleppt und sichergestellt wurde? a.
 
 Der Wasserwerfer parkte in unmittelbarer Nähe der Wohnung von Innensenator Grote. Inwieweit hat er sich zu dem Vorgang geäußert? Inwieweit hat er in dieser Sache Entscheidungen getroffen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -69,7 +70,7 @@ Auf welcher Rechtsgrundlage wurde der Wasserwerfer abgeschleppt, auf welcher Rec
 
 Wie lange war der Wasserwerfer sichergestellt? Wo befand er sich während der Sicherstellung? Wie wurde er in die Verwahrung überführt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Das Fahrzeug wurde zur Gefahrenabwehr gemäß § 14 Absatz 1 a) des Gesetzes zum Schutz der öffentlichen Sicherheit und Ordnung (SOG) sichergestellt. Die Sicherstellung wurde im Wege der unmittelbaren Ausführung nach § 7 SOG durch Abschleppen und anschließende Verwahrung auf dem Betriebsgelände des hiermit beauftragten Abschleppunternehmens vollstreckt.
 
@@ -118,7 +119,7 @@ Wer kommt für die Beschädigung des Wasserwerfers auf?
 
 Wer ersetzt den erlittenen Schaden für die Vorenthaltung des Eigentums?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Nach hiesigem Kenntnisstand sind durch die Sicherstellung (Abschleppen und Verwahren) keine Schäden an dem Fahrzeug verursacht worden. Das beauftragte Abschleppunternehmen musste für den Abschleppvorgang die Antriebswelle des Fahrzeuges temporär lösen; diese wurde anschließend wieder fachmännisch befestigt. Im Übrigen siehe Antwort zu 6. bis 9.
 

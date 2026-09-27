@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3328"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53435"
@@ -43,7 +44,7 @@ Welche Forderungen beinhaltete der geplante Investitionsschutz mit dem Investor 
 
 Wurde auch mit anderen Investoren für die Expressbauten ein Investorenschutz vereinbart? Wenn ja, mit welchem Investor und welche Punkte beinhaltet der Investorenschutz? Wenn nein, warum nicht? Bitte für jeden Standort einzeln aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat sieht zur Wahrung seiner Verhandlungsposition und der Betriebs- und Geschäftsgeheimnisse seiner Vertragspartner in ständiger Praxis grundsätzlich davon ab, zu laufenden und abgeschlossenen vertraulichen Verhandlungen Auskunft zu erteilen.
 
@@ -63,17 +64,17 @@ Bei einigen Grundstücken hat bisher der angekündigte Eigentümerwechsel stattg
 
 Bitte für jeden Standort angeben, wie der jeweilige Stand der Verhandlungen ist: Wo gab es bereits Vertragsabschlüsse, wo sind diese kurz vor dem Abschluss, wo laufen sie immerhin bereits und wo haben sie noch nicht einmal begonnen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 In Bezug auf die Anlage der Drs. 21/3328 sind Grundstückskaufverträge an folgenden Standorten beurkundet worden. Dabei sind die Eigentümerwechsel erst mit Grundbucheintragungen abgeschlossen, die noch nicht vollzogen wurden:
 
- Mittlerer Landweg, Bergedorf
+– Mittlerer Landweg, Bergedorf
 
- Elfsaal, Wandsbek
+– Elfsaal, Wandsbek
 
- Duvenacker, Eimsbüttel
+– Duvenacker, Eimsbüttel
 
- Ohlendieck/Poppenbüttler Berg, Wandsbek
+– Ohlendieck/Poppenbüttler Berg, Wandsbek
 
 Der Standort Glashütter Landstraße wird als Flüchtlingsunterkunft mit der Perspektive Wohnen nicht weiter verfolgt.
 
@@ -87,26 +88,26 @@ Bei welchen Standorten ist bereits die Umsetzung der Planungen vorangeschritten?
 
 Für folgende Standorte wurden bereits Bauanträge eingereicht:
 
- Mittlerer Landweg, Bergedorf
+– Mittlerer Landweg, Bergedorf
 
- Ohkamp/Flughafenstraße, HH-Nord
+– Ohkamp/Flughafenstraße, HH-Nord
 
- Duvenacker, Eimsbüttel
+– Duvenacker, Eimsbüttel
 
- Elfsaal, Wandsbek
+– Elfsaal, Wandsbek
 
- Ohlendieck/Poppenbüttler Berg, Wandsbek
+– Ohlendieck/Poppenbüttler Berg, Wandsbek
 
 Für folgende Bauvorhaben wurden bereits Genehmigungen erteilt:
 
- Mittlerer Landweg, Bergedorf
+– Mittlerer Landweg, Bergedorf
 
- Elfsaal, Wandsbek
+– Elfsaal, Wandsbek
 
 An folgenden Standorten wurde bereits mit dem Bau begonnen:
 
- Mittlerer Landweg, Bergedorf
+– Mittlerer Landweg, Bergedorf
 
- Elfsaal, Wandsbek
+– Elfsaal, Wandsbek
 
 Die Termine für den Beginn der Baumaßnahmen hängen von vielen verschiedenen Faktoren ab, die nicht immer vom Senat beeinflusst werden können. Aus diesem Grund sieht der Senat davon ab, darüber hinaus konkrete Termine zu benennen.

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/3642", "19/555", "18/525"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54590"
@@ -67,17 +68,17 @@ Welche Begründungen sind dem Senat zu „begründeten Einzelfällen“ der letz
 
 Da es sich um individuelle Begründungen handelt, können diese nicht vollständig aufgeführt werden. Häufig wiederkehrende Fallgruppen sind:
 
- Fehlende oder geringe Vorqualifikationen
+– Fehlende oder geringe Vorqualifikationen
 
- Vor- und Nachbereitung (welche im Entgelt enthalten sind) sind nicht erforderlich
+– Vor- und Nachbereitung (welche im Entgelt enthalten sind) sind nicht erforderlich
 
- Individuelle Verhandlungen mit der Schulleitung
+– Individuelle Verhandlungen mit der Schulleitung
 
- Festlegungen der Schule
+– Festlegungen der Schule
 
- Sehr hohe Qualifikation
+– Sehr hohe Qualifikation
 
- Sehr hoher Vor- und Nachbereitungsaufwand
+– Sehr hoher Vor- und Nachbereitungsaufwand
 
 ### Frage 4
 
@@ -87,15 +88,15 @@ In wie vielen und welchen Fällen findet an Hamburgs Schulen eine Ganztagsbetreu
 
 In 854 Verträgen an 43 Schulen (das entspricht gut 5 Prozent aller Honorarverträge) wurde ein Entgelt in Höhe des Mindestlohnes vereinbart. Folgende Vertragsarten lagen hierbei zugrunde:
 
- Außerunterrichtliche Arbeitsgruppe Lernzeit (15 Verträge)
+– Außerunterrichtliche Arbeitsgruppe Lernzeit (15 Verträge)
 
- Ganztagsangebot (Neigungskurse, 547 Verträge)
+– Ganztagsangebot (Neigungskurse, 547 Verträge)
 
- Hausaufgabenhilfe (85 Verträge)
+– Hausaufgabenhilfe (85 Verträge)
 
- Lernförderung (170 Verträge)
+– Lernförderung (170 Verträge)
 
- Projekte/Veranstaltungen (37 Verträge)
+– Projekte/Veranstaltungen (37 Verträge)
 
 ### Frage 5
 

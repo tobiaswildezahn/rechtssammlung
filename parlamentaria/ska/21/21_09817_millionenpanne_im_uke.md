@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9682"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58629"
@@ -79,7 +80,7 @@ Wann, wie und an welcher Stelle wurde der Fehler entdeckt?
 
 Wann und durch wen wurde die Rücküberweisung veranlasst?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Fehler wurde bereits am Folgetag, 31. Mai 2017, bei Vorlage der Kontoauszüge durch das Cash Management entdeckt und durch eine Rücküberweisung sofort korrigiert. Die Kasse.Hamburg wurde parallel über den Sachverhalt in Kenntnis gesetzt.
 

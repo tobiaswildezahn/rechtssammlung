@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61005"
@@ -51,7 +52,7 @@ Wie viele Diebstähle von Fahrrädern (inklusive Pedelecs) in Hamburg wurden 201
 
 Welche waren 2017 die zehn Stadtteile in Hamburg mit den meisten Fahrrad-Diebstählen (inklusive Pedelecs)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In der Polizeilichen Kriminalstatistik (PKS) erfolgt die Erfassung von Diebstählen von Fahrrädern und Pedelecs einschließlich unbefugter Ingebrauchnahme unter dem PKS-Straftatenschlüssel ***3**.
 
@@ -86,7 +87,7 @@ a) Hehlerei,
 b) gewerbsmäßiger Hehlerei/Bandenhehlerei in Bezug auf Fahrräder (inklusive Pedelecs) wurden in den Jahren 2011
 – 2016 in Hamburg zur Anzeige gebracht und wie viele rechtskräftige Verurteilungen zu einer Geld- oder Freiheitsstrafe gab es in diesen Jahren diesbezüglich? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Statistische Daten im Sinne der Fragestellungen werden bei der Polizei nicht erhoben. In der PKS wird Hehlerei unter dem PKS-Straftatenschlüssel 63**** erfasst. Eine Differenzierung nach dem Merkmal „Fahrrad“ oder „E-Bike“ erfolgt nicht. Für die Beantwortung der Fragestellungen wäre eine Durchsicht sämtlicher infrage kommender Handund Ermittlungsakten bei der Kriminalpolizei erforderlich. Die Auswertung mehrerer Hunderttausend Vorgänge der Jahre 2011 bis 2017 ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -124,7 +125,7 @@ Wie viele Fälle von
 a) Hehlerei,
 b) gewerbsmäßiger Hehlerei/Bandenhehlerei in Bezug auf E-Bikes wurden in den Jahren 2011 – 2016 in Hamburg zur Anzeige gebracht und wie viele rechtskräftige Verurteilungen zu einer Geld- oder Freiheitsstrafe gab es in diesen Jahren diesbezüglich? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Antwort zu 5. a) bis 6. b).
 

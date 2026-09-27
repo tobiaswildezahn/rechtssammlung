@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13279", "21/13160"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64901"
@@ -57,7 +58,7 @@ Wie hat sich die Anzahl der Stellen für Rechtspfleger an den einzelnen Amtsgeri
 
 Wie viele Rechtspfleger werden jährlich bis zum Jahr 2023 altersbedingt aus dem Dienst ausscheiden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 2019 2020 2021 2022 2023  
 Personalbestandsveränderung durch  

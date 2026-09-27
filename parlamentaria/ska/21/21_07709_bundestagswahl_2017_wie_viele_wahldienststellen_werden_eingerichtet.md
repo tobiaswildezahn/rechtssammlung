@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56339"
@@ -49,7 +50,7 @@ An welchen Stellen sollen in Hamburg zur Bundestagswahl im September 2017 Wahldi
 
 Welche Veränderungen bei den Wahldienststellen sind jeweils aus welchen Gründen zur Bundestagswahl im September 2017 im Einzelnen vorgesehen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In Hamburg-Mitte ist die Planung noch nicht abgeschlossen und in Bergedorf ist der konkrete Standort noch offen. Im Übrigen ist beabsichtigt, wie bei der Bürgerschaftswahl am 15. Februar 2015 an folgenden Standorten eine Wahldienststelle einzurichten:
 

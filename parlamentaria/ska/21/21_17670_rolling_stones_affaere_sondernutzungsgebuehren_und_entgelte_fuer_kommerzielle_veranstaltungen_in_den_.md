@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 17
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17300", "21/17511", "21/13830", "21/16896"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67265"
@@ -54,15 +55,15 @@ Es ist bekannte Praxis der staatlichen beziehungsweise bezuschussten Kultur- und
 
 Die Vergabe ermäßigter und unentgeltlicher Karten durch alle staatlichen Theater regeln die Häuser durch interne Anordnungen. Darin wird definiert, zu welchen Zwecken und an welche Personenkreise ermäßigte und unentgeltliche Karten vergeben werden können.
 
- Sogenannte Dienstkarten werden unentgeltlich an Mitarbeiterinnen und Mitarbeiter
+– Sogenannte Dienstkarten werden unentgeltlich an Mitarbeiterinnen und Mitarbeiter
 
 des jeweiligen staatlichen Theaters im Rahmen ihrer dienstlichen Verpflichtung vergeben. Darüber hinaus können Betriebszugehörige der staatlichen Theater pro Inszenierung in ihrem Haus bis zu zwei sogenannte Personalkarten für den persönlichen Besuch und eine Begleitperson erhalten.
 
- Im Übrigen siehe Drs. 21/16896.
+– Im Übrigen siehe Drs. 21/16896.
 
- Zu Steuerkarten siehe Drs. 21/17511.
+– Zu Steuerkarten siehe Drs. 21/17511.
 
- Außerdem können die staatlichen Theater und Musikstätten unentgeltlich auch
+– Außerdem können die staatlichen Theater und Musikstätten unentgeltlich auch
 
 sogenannte Ehrenkarten und Gastkarten, unter anderem an leitende Mitarbeiterinnen und Mitarbeiter anderer Theater, vergeben. Im Übrigen siehe Drs. 21/17511.
 

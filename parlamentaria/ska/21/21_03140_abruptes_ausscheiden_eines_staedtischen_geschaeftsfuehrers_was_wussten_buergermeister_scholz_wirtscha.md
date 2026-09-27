@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 47014
 seiten: 7
 fragen: 23
-einzelfragen: 33
-antwortbloecke: 21
+einzelfragen: 41
+antwortbloecke: 28
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2238", "21/2361"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51470"
@@ -38,17 +39,28 @@ Vor diesem Hintergrund frage ich den Senat:
 ### Frage 1
 
 „Rücktritt von allen Ämtern“ – Im Rahmen seiner Tätigkeit als Geschäftsführer mehrerer GmbHs war Herr von Albedyll bislang in diversen Gremien vertreten.
-1.1. Von welchen Ämtern im Einzelnen ist Herr von Albedyll zurückgetreten?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Von welchen Ämtern im Einzelnen ist Herr von Albedyll zurückgetreten?
+
+#### Antwort zu Fragen 1 und 1.1
 
 Herr von Albedyll hat die Ämter Geschäftsführer der Hamburg Marketing GmbH (HMG), Geschäftsführer der Hamburg Tourismus GmbH (HHT) und Geschäftsführer der Hamburg Travel GmbH (HT) niedergelegt.
 
-1.2. Mit jeweils welcher Wirkung wird der Rücktritt vollzogen?
+### Frage 1.2
+
+Mit jeweils welcher Wirkung wird der Rücktritt vollzogen?
+
+#### Antwort zu Frage 1.2
 
 Die Niederlegungen wurden jeweils am 3. Februar 2016 mit sofortiger Wirkung erklärt.
 
-1.3. Wie genau erfolgt jeweils die interimistische Nachfolgeregelung?
+### Frage 1.3
+
+Wie genau erfolgt jeweils die interimistische Nachfolgeregelung?
+
+#### Antwort zu Frage 1.3
 
 Der Aufsichtsrat der HMG hat in einem schriftlichen Verfahren Herrn Dr. Strittmatter mit sofortiger Wirkung zum Vorsitzenden der Geschäftsführung der HMG bestellt. Das Abstimmungsverfahren wurde am 9. Februar 2016 abgeschlossen. Eine Bestellung von Herrn Dr. Strittmatter ab dem 1. April 2016 zum Vorsitzenden der Geschäftsführung der HMG war bereits auf der Aufsichtsratssitzung der HMG am 8. Dezember 2015 erfolgt.
 
@@ -56,24 +68,39 @@ Der Aufsichtsrat der HHT hat in einem schriftlichen Verfahren Herrn Dr. Strittma
 
 Die Gesellschafterversammlung der HT hat Herrn Dr. Strittmatter am 4. Februar 2016 mit sofortiger Wirkung zum Geschäftsführer der HT bestellt.
 
-1.4. Wann und in welcher Form wird die gesellschaftsrechtliche Abberufung als GmbH-Geschäftsführer in den einzelnen Gesellschaften vollzogen?
+### Frage 1.4
+
+Wann und in welcher Form wird die gesellschaftsrechtliche Abberufung als GmbH-Geschäftsführer in den einzelnen Gesellschaften vollzogen?
+
+#### Antwort zu Frage 1.4
 
 Das Amt des Geschäftsführers endet mit der Niederlegung durch den Amtsinhaber. Die Gesellschaften veranlassen jeweils schnellstmöglich die Austragung aus dem Handelsregister.
 
 ### Frage 2
 
 „Lückenlose Aufklärung“ – In der oben erwähnten Miteilung der Senatspressestelle erklärt Staatsrat Rieckhof, dass „die im Raum stehenden Sachverhalte … selbstverständlich lückenlos aufgeklärt werden.“
-2.1. Welche Sachverhalte im Einzelnen sollen in welcher Form aufgeklärt werden?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Welche Sachverhalte im Einzelnen sollen in welcher Form aufgeklärt werden?
+
+#### Antwort zu Fragen 2 und 2.1
 
 Im Rahmen der Aufklärung sollen die Geschäftsbeziehungen in den Geschäftsjahren 2011 bis 2015 der Gesellschaften des HMG-Konzerns, nämlich HMG, HHT, HWF Hamburgische Gesellschaft für Wirtschaftsförderung mbH (HWF), HT und Hamburg Convention Bureau GmbH (HCB), jeweils mit Unternehmen, an denen Herr Wolfgang Raike nach den vorliegenden Informationen beteiligt ist oder Funktionen innehat (nachfolgend als „Raike-Unternehmen“ bezeichnet) identifiziert und dargestellt werden. Außerdem werden die bisher angeschobenen Marketing-Projekte, welche aber noch nicht beendet oder abgebrochen worden sind und jeweils eine Verbindung zwischen den HMG-Gesellschaften und den Raike-Unternehmen aufweisen, betrachtet werden. Die Marketing-Projekte und Verträge der HMG-Gesellschaften mit den Raike- Unternehmen werden auf betriebswirtschaftlichen Bezug seitens der jeweiligen HMG- Gesellschaften und Einhaltung HMG-interner Vergaberegelungen geprüft werden. Überdies wird der Zeitpunkt der Gründung der Gesellschaft „Albedyll Tourismus GmbH“ im Zusammenhang mit der Vertragsverlängerung von Herrn von Albedyll bei der HHT dargestellt werden.
 
-2.2. Wer wird im Einzelnen mit der Aufklärung der Sachverhalte durch welche Stelle beauftragt?
+### Frage 2.2
+
+Wer wird im Einzelnen mit der Aufklärung der Sachverhalte durch welche Stelle beauftragt?
+
+#### Antwort zu Frage 2.2
 
 Der Vorsitzende der Gesellschafterversammlung der HMG, der Staatsrat der zuständigen Behörde, hat den HMG-Konzern am 3. Februar 2016 aufgefordert, einen Wirtschaftsprüfer mit der Prüfung zu beauftragen. Die Beauftragung des Wirtschaftsprüfers ist am 4. Februar 2016 erfolgt.
 
-2.3. Wann wird mit einem Ergebnis der lückenlosen Aufklärung gerechnet und wem wird es vorgelegt?
+### Frage 2.3
+
+Wann wird mit einem Ergebnis der lückenlosen Aufklärung gerechnet und wem wird es vorgelegt?
+
+#### Antwort zu Frage 2.3
 
 Mit einem Ergebnis wird voraussichtlich Ende Februar gerechnet. Die Ergebnisse werden dem jeweiligen Aufsichtsrat vorgelegt.
 
@@ -85,7 +112,7 @@ Wann und in welcher Form war der Erste Bürgermeister als Aufsichtsratsvorsitzen
 
 Wann und in welcher Form war Staatsrat Rieckhof als Aufsichtsratsvorsitzender der HHT im Einzelnen mit der letzten Vertragsverlängerung von Herrn von Albedyll und der Vertragsauflösung befasst? Welche Regelungen über Nebentätigkeiten sowie Tätigkeiten nach der Dienstzeit von Herrn von Albedyll wurden dabei vereinbart?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Herr von Albedyll hatte seinen Anstellungsvertrag bei der HHT. Vertragsverlängerung und Vertragsauflösung wurden durch die Unternehmensgremien der HHT behandelt. Da die Vertragsverlängerung von Herrn von Albedyll zu unveränderten Konditionen durchgeführt wurde, bedurfte es keines Beschlusses des Aufsichtsrates der HMG.
 
@@ -325,17 +352,28 @@ Die Auswahl erfolgt ausschließlich durch den Gast selbst. An diesem Prozess ist
 ### Frage 15
 
 In der Drs. 21/2238 sagt der Senat in Bezug auf den Hotelentwicklungsplan, dass die HHT private Investoren mit Datenmaterial rund um das Thema Tourismus unterstützt und das die HHT persönliche Consultinggespräche mit potenziellen Investoren geführt hat.
-15.1. Wann und in welcher Form haben die Geschäftspartner von Herrn von Albedyll im Hotelbereich Datenmaterial von der HHT erhalten?
 
-#### Antwort zu Frage 15
+### Frage 15.1
+
+Wann und in welcher Form haben die Geschäftspartner von Herrn von Albedyll im Hotelbereich Datenmaterial von der HHT erhalten?
+
+#### Antwort zu Fragen 15 und 15.1
 
 Siehe Antwort zu 13.
 
-15.2. An wie vielen Consultinggesprächen mit potenziellen Investoren hat Herr von Albedyll seit der letzten Vertragsverlängerung als Geschäftsführer teilgenommen? Wie viele Consultinggespräche fanden dabei mit den künftigen Geschäftspartner von Herrn von Albedyll im Hotelbereich statt?
+### Frage 15.2
+
+An wie vielen Consultinggesprächen mit potenziellen Investoren hat Herr von Albedyll seit der letzten Vertragsverlängerung als Geschäftsführer teilgenommen? Wie viele Consultinggespräche fanden dabei mit den künftigen Geschäftspartner von Herrn von Albedyll im Hotelbereich statt?
+
+#### Antwort zu Frage 15.2
 
 Das Unternehmen hat hierzu keine Kenntnisse. Im Übrigen siehe Antwort zu 13.
 
-15.3. Auf wessen Veranlassung sind die Consultinggespräche sowie die Herausgabe von Datenmaterial jeweils erfolgt?
+### Frage 15.3
+
+Auf wessen Veranlassung sind die Consultinggespräche sowie die Herausgabe von Datenmaterial jeweils erfolgt?
+
+#### Antwort zu Frage 15.3
 
 Entfällt.
 
@@ -393,7 +431,7 @@ Welche Maßnahmen im Einzelnen hat der Senat ergriffen, um Interessenkonflikte i
 
 Welche Maßnahmen im Einzelnen hat der Senat ergriffen, um sicherzustellen, dass interne Dokumente, Planungen, Einschätzungen et cetera der HHT nicht für private Geschäftszwecke genutzt werden?
 
-#### Antwort zu Fragen 21 bis 22
+#### Antwort zu Fragen 21 und 22
 
 Die HHT unterliegt dem Hamburg Corporate Governance Kodex. Es gelten in der HHT die standardmäßigen Regeln der Gesellschaftsverträge und der Geschäftsanweisungen der Aufsichtsräte öffentlicher Unternehmen und die Geschäftsführerverträge entsprechen dem Muster der Anstellungsverträge öffentlicher Unternehmen. Im Übrigen siehe Antwort zu 3. und 4. Darüber hinausgehende Maßnahmen wurden durch die zuständige Behörde nicht ergriffen.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48585"
@@ -101,7 +102,7 @@ Welche bereits begonnenen beziehungsweise geplanten Neubauten von Schulsporthall
 
 Welche Flächen sind dabei für Neubauten beziehungsweise Erweiterungsbauten von Sportstätten vorgesehen und welcher Nutzung dienten diese Flächen ehedem? (Bitte jeweils einzeln pro Baumaßnahme erläutern und mit zugreifenden Standorten angeben.)
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Sporthallenbauten werden im Zuge einer Überplanung von gesamten Schulstandorten auf frei werdenden oder freien Flächen der für schulische Nutzung vorgesehenen Grundstücke realisiert. Zu Neu- und Erweiterungsbauten siehe Anlage.
 

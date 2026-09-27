@@ -14,6 +14,7 @@ fragen: 73
 einzelfragen: 79
 antwortbloecke: 68
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/1467", "20/5720", "20/13289", "21/3490", "20/37", "21/3178", "19/6272", "20/433", "20/12627", "21/2876"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52207"
@@ -1100,7 +1101,7 @@ Wie viele Lehrkräfte unterrichten jeweils an den Schulen (bitte Anzahl der Pers
 
 Wie ist das prozentuale Verhältnis von weiblichen zu männlichen Lehrkräften an den einzelnen Schulen?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Siehe Anlage 5.
 
@@ -1796,7 +1797,7 @@ Wie viele Feuerwehrleute welcher Besoldungsgruppe arbeiten derzeit an den Wachen
 
 Wie viele Stellen sind an den Wachen jeweils unbesetzt (bitte im Vergleich für die Jahre 2014 bis 2016 angeben)?
 
-#### Antwort zu Fragen 30 bis 31
+#### Antwort zu Fragen 30 und 31
 
 FuRw 21 Wandsbek  
 Stichtag 30.09.2014  
@@ -2616,7 +2617,7 @@ Wie viele dieser Wohnungen befinden sich im Eigentum der SAGA GWG (bitte im Verg
 
 Welche Durchschnittsmiete wird für die Wohnungen der SAGA GWG ohne Belegungsbindung in den einzelnen Stadtteilen aktuell erhoben (bitte im Vergleich zum 31.12. der Jahre 2010 bis 2015 angeben)?
 
-#### Antwort zu Fragen 55 bis 56
+#### Antwort zu Fragen 55 und 56
 
 Daten zu Wohnungen, die sich im Eigentum der SAGA GWG befinden, liegen dem Statistikamt Nord nicht vor.
 
@@ -2646,7 +2647,7 @@ Wie viele dieser Wohnungen befinden sich jeweils im Eigentum der SAGA GWG (bitte
 
 Welche Durchschnittsmiete wird für diese Wohnungen erhoben (bitte im Vergleich zum 31.12. der Jahre 2013 bis 2015 angeben)?
 
-#### Antwort zu Fragen 58 bis 59
+#### Antwort zu Fragen 58 und 59
 
 Daten zu Wohnungen, die sich im Eigentum der SAGA GWG befinden, liegen dem Statistikamt Nord nicht vor.
 
@@ -2771,11 +2772,11 @@ Wie viele Straßenbäume gibt es im Wahlkreis (bitte im Vergleich zum
 
 Die Zahlen für den Wahlkreis 14, Rahlstedt (entspricht dem Stadtteil Rahlstedt, Ortsteil 526)
 
- 31.12.2013: 9.419
+– 31.12.2013: 9.419
 
- 31.12.2014: 9.318
+– 31.12.2014: 9.318
 
- 31.12.2015: 9.241
+– 31.12.2015: 9.241
 
 ### Frage 65
 
@@ -2875,7 +2876,7 @@ Wie viele Bahnverbindungen gibt es werktags, an Wochenenden und Feiertagen vom W
 
 Wie viele Bahnverbindungen gibt es werktags, an Wochenenden und Feiertagen vom Wahlkreis von und in Richtung Ahrensburg in den Wahlkreis? Bitte vergleichend zu 2014 bis 2016 angeben.
 
-#### Antwort zu Fragen 69 bis 70
+#### Antwort zu Fragen 69 und 70
 
 Anzahl Fahrten  
 je Tagtyp ab  

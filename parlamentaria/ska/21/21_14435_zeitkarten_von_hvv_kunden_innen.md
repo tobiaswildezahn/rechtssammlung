@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10211"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63874"
@@ -47,7 +48,7 @@ Wie viele Zeitkarten ohne Ermäßigung durch Sozialkarte, gegliedert nach Fahrka
 
 Im Jahr 2017 betrugen die Verkaufszahlen der Zeitkarten ohne Ermäßigung
 
- bei den Vollzeit-Karten
+– bei den Vollzeit-Karten
 
 a) Monats- und Abonnementskarten:
 1.932.649 Stück,
@@ -55,13 +56,13 @@ a) Monats- und Abonnementskarten:
 b) Großkundenabonnement:
 2.413.825 Stück,
 
- bei den Teilzeitkarten
+– bei den Teilzeitkarten
 
 a) Teilzeit-Karten: 850.058 Stück,
 
 b) Seniorenkarten: 595.204 Stück,
 
- bei den Ausbildungszeitkarten
+– bei den Ausbildungszeitkarten
 
 a) Schüler:
 1.584.161 Stück,
@@ -78,7 +79,7 @@ Wie verteilen sich die Zeitkarten gemäß Frage 1. jeweils auf die Preisstufen? 
 
 Im Jahr 2017 fiel die Preisstufenverteilung der Zeitkarten ohne Ermäßigung wie folgt aus:
 
- Vollzeit-Abonnements und -Monatskarten
+– Vollzeit-Abonnements und -Monatskarten
 
 Zeitkarten für Tarifzonen und -ringe  
 Anteil am  
@@ -98,7 +99,7 @@ Hamburg AB plus 1/2/3 Zonen, Gesamtbereich
 übrige Zonen/Bereiche  
 4,2 %
 
- Teilzeit-Karten
+– Teilzeit-Karten
 
 Zeitkarten für Tarifzonen und -ringe  
 Anteil am  
@@ -134,21 +135,21 @@ Wie viele Zeitkarten wurden 2017 aufgrund der Vorlage einer Sozialkarte ermäßi
 
 Im Jahr 2017 betrugen die Verkaufszahlen für Zeitkarten mit Sozialkarten-Ermäßigung
 
- bei den Vollzeit-Karten
+– bei den Vollzeit-Karten
 
 a) Monats- und Abonnementskarten: 172.971 Stück,
 
 b) Großkundenabonnement:
 4.438 Stück,
 
- bei den Teilzeit-Karten
+– bei den Teilzeit-Karten
 
 a) Teilzeit-Karten: 465.251 Stück,
 
 b) Seniorenkarten:
 63.133 Stück,
 
- bei den Ausbildungszeitkarten
+– bei den Ausbildungszeitkarten
 
 a) Schüler: 188.299 Stück,
 
@@ -159,7 +160,7 @@ c) Großkundenabonnement: 365 Stück.
 
 Im Jahr 2017 fiel die Preisstufenverteilung der Zeitkarten mit Sozialkarten-Ermäßigung wie folgt aus:
 
- Vollzeit-Abonnements und -Monatskarten
+– Vollzeit-Abonnements und -Monatskarten
 
 Zeitkarten für Tarifzonen und -ringe  
 Anteil am  
@@ -175,7 +176,7 @@ Hamburg AB plus 1/2/3 Zonen, Gesamtbereich
 übrige Zonen/Bereiche  
 0,2 %
 
- Teilzeit-Karten
+– Teilzeit-Karten
 
 Zeitkarten für Tarifzonen und -ringe  
 Anteil am  

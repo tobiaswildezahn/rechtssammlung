@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 18
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63601"
@@ -57,7 +58,7 @@ Wie viele Bewerberinnen und Bewerber gab es bisher für die zu besetzende Stelle
 
 Wie viele Auswahlgespräche wurden bisher mit Bewerberinnen und Bewerbern geführt? Wer aus welchen zuständigen Behörden und zuständigen Stellen hat an den Auswahlgesprächen teilgenommen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 
@@ -77,6 +78,6 @@ Wurde beziehungsweise wird ein Assessment Center durchgeführt? Wenn ja, wie und
 
 Gibt es weibliche Bewerberinnen für die Position der Amtsleitung? Wenn ja, wie viele insgesamt und wie viele wurden bisher zu Bewerbungsgesprächen eingeladen? Wie hat der Personalrat sich im Auswahlverfahren verhalten beziehungsweise wie war er beteiligt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.

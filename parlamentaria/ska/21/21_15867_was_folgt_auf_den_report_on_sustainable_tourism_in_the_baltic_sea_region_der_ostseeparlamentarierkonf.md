@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14387", "21/8526", "21/11119", "21/13089", "21/10801"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65356"
@@ -71,37 +72,37 @@ Gibt es im Rahmen der generellen Querschnittsaufgabe „Nachhaltigkeit“ mittle
 
 „Nachhaltigkeit“ wird grundsätzlich als ganzheitliche (ökologische, soziale und ökonomische Dimension), übergreifende Aufgabe verstanden. Mit Gründung der Abteilung „Destination Management“ bei der HHT im Juni des Jahres 2018 (Drs. 21/11119), wurde die Wahrnehmung des Themas weiter ausgebaut. Hierzu zählt eine in der Abteilung geschaffene Stelle zur Information und Koordination des nachhaltigen Städtetourismus in Hamburg. Seit der Einrichtung der Abteilung wurden verschiedene Maßnahmen umgesetzt, die sich an den Handlungsfeldern „Nachhaltigkeit organisieren“, „Nachhaltigkeit fördern“, „Nachhaltigkeit zeigen“ und „Nachhaltigkeit sichern“ orientieren. Die HHT hat im Jahr 2018 unter anderem daran gearbeitet, nachhaltige Angebote den Gästen über die entsprechenden Kommunikationskanäle zugänglich zu machen:
 
- Erstmalig wurden in einer rund 100 Seiten umfassenden Broschüre („Unser grünes
+– Erstmalig wurden in einer rund 100 Seiten umfassenden Broschüre („Unser grünes
 
 Hamburg“) nachhaltige Angebote aus Gastronomie, Shopping, Mobilität, Beherbergung und Ausflugsziele für Touristinnen und Touristen sowie Hamburgerinnen und Hamburger gebündelt dargestellt.
 
- Für die Internetseite der HHT wurde eine Unterseite mit nachhaltigen Angeboten
+– Für die Internetseite der HHT wurde eine Unterseite mit nachhaltigen Angeboten
 
 konzipiert, die über einen schnellen Einstieg erreichbar ist. Diese Inhalte werden in verschiedenen anderen Kategorien verlinkt (zum Beispiel „nachhaltige Shops“, nachhaltige Restaurants“).
 
- Kooperation mit „Urlaubsguru - DeutschlandLiebe“ mit den Schwerpunktthemen
+– Kooperation mit „Urlaubsguru - DeutschlandLiebe“ mit den Schwerpunktthemen
 
 Nachhaltiges Hamburg und Stadtviertel.
 
- Aufnahme des Themas in die Vertriebsbroschüre 2019 und den Veranstaltungska-
+– Aufnahme des Themas in die Vertriebsbroschüre 2019 und den Veranstaltungska-
 
 lender 03/2018 „Auf nach Hamburg“.
 
- Besonders nachhaltige Angebote sollen künftig in einer „grünen“ Hamburg CARD
+– Besonders nachhaltige Angebote sollen künftig in einer „grünen“ Hamburg CARD
 
 gebündelt werden (Drs. 21/13089).
 
 Um den Tourismus in der Stadt nachhaltiger zu gestalten, ist es neben der Kommunikation mit den Gästen besonders wichtig, die Anbieterinnen und Anbieter für das Thema zu sensibilisieren. Daher dient die HHT auch als zentrale Ansprechpartnerin für die Branche, wenn es um das Thema Nachhaltigkeit geht.
 
- Im Herbst des Jahres 2018 wurde die Branchenveranstaltung Tourismustag unter
+– Im Herbst des Jahres 2018 wurde die Branchenveranstaltung Tourismustag unter
 
 das Thema gestellt (19. Hamburger Tourismustag am 15. Oktober 2018 zum Schwerpunktthema „Wachstum. Nachhaltig. Gestalten.“).
 
- Das Branchenmagazin „Gastliebe“ 03/2018 widmete sich ebenfalls der Nachhaltig-
+– Das Branchenmagazin „Gastliebe“ 03/2018 widmete sich ebenfalls der Nachhaltig-
 
 keit im Hamburg-Tourismus.
 
- Das Schulungsprogramm #wirfürdich macht die Branche zukunftsfit für digitale
+– Das Schulungsprogramm #wirfürdich macht die Branche zukunftsfit für digitale
 
 Themen und sichert die Qualität des Tourismusstandortes Hamburg.
 
@@ -125,23 +126,23 @@ Als Städtedestination liegt der Hamburger Fokus weniger auf Naturschutz im Tour
 
 nomisch). Sichergestellt wird dies durch verschiedene Instrumente. Besonders hervorzuheben sind:
 
- Im Jahr 2017 wurde ein Nachhaltigkeitskonzept für die HHT als Basis für die aktu-
+– Im Jahr 2017 wurde ein Nachhaltigkeitskonzept für die HHT als Basis für die aktu-
 
 ellen Maßnahmen im Themenfeld erstellt (Drs. 21/10801 und Drs. 21/8526).
 
- Einrichtung einer neuen Abteilung Destination Management in der HHT im Jahr
+– Einrichtung einer neuen Abteilung Destination Management in der HHT im Jahr
 
 2018, in der das Thema Nachhaltigkeit konkret verortet ist und die als Anlaufstelle für Nachhaltigkeit für die Branche dient (Drs. 21/11119).
 
- Im Rahmen der Hotelbedarfsanalyse (Drs. 21/8526) wurden im Jahr 2016 Grund-
+– Im Rahmen der Hotelbedarfsanalyse (Drs. 21/8526) wurden im Jahr 2016 Grund-
 
 lagen geschaffen, die auch eine Hotelentwicklung außerhalb des Zentrums befördern sollen.
 
- Ein Instrument zur Förderung der Transparenz und somit Unterstützung der zeitli-
+– Ein Instrument zur Förderung der Transparenz und somit Unterstützung der zeitli-
 
 chen und räumlichen Entzerrung von Events liegt seit dem Jahr 2016 mit dem Eventlotsen vor (siehe Drs. 21/8526).
 
- Die Veranstaltungsdatenbank schafft Transparenz über Veranstaltungen in der
+– Die Veranstaltungsdatenbank schafft Transparenz über Veranstaltungen in der
 
 gesamten Metropolregion gegenüber den Gästen und fokussiert nicht ausschließlich auf Großevents.
 

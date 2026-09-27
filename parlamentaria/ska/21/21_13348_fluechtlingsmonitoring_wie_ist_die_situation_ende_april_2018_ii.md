@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13055", "21/131"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62698"
@@ -43,7 +44,7 @@ Warum gibt es plötzlich die neue Rubrik in der Gesamtübersicht?
 
 Was sind das für besondere Fälle (bitte Beispiele nennen und wie viele diesen zuzuordnen sind)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die zuständige Behörde hält es für sachgerecht, die in der Drs. 21/13055 aufgenommenen, nach der Erteilungsgrundlage in § 23 Absatz 2 Aufenthaltsgesetz (AufenthG) erteilten Niederlassungserlaubnisse in die Gesamtübersicht miteinzubeziehen, weil diese Niederlassungserlaubnisse dem weitgefassten Flüchtlingsbegriff gemäß der Drs. 21/131 zuzurechnen sind. Gleiches gilt für die Erteilungsgrundlage nach § 23 Absatz 4 AufenthG.
 

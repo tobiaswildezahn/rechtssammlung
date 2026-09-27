@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 39
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11135"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56364"
@@ -179,7 +180,7 @@ Welche Stelle ist beziehungsweise welche Stellen sind mit der Errichtung und War
 
 Wer ist oder wer sind der/die Hersteller der Geräte des Typs PoliScan Speed beziehungsweise Vitronic PoliScan Speed? Handelt es sich um den gleichen Typ? Wenn nein, inwieweit unterscheiden sich diese voneinander?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 
@@ -279,7 +280,7 @@ Wie viele Bußgeldbescheide und Verwarngelder sind auf den Typ Vitronic PoliScan
 
 Wie viele Widersprüche gegen Bußgeldbescheide und Verwarngelder hat es seitdem gegeben? Wie viele davon sind zugunsten des Klägers beschieden worden?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Statistiken im Sinne der Fragestellung werden nicht geführt. Die vorhandenen Daten lassen keine Differenzierung nach einzelnen Straßen/Bezirken beziehungsweise nach Geschwindigkeitsmessungen einzelner Messgeräte zu. Ebenso lässt die Statistik keine Differenzierung der Rechtsmittel nach zugrundeliegenden Tatvorwürfen zu.
 
@@ -295,7 +296,7 @@ Welche Stelle hat wann Gespräche mit dem Hersteller und der PTB aufgenommen? Wa
 
 Erfüllt aus Sicht der zuständigen Stelle die PTB ihre Aufgabe als Prüforgan? Wenn ja, in welcher Weise? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Siehe Vorbemerkung.
 

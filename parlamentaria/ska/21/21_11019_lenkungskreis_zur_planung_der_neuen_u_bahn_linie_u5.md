@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7570"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59955"
@@ -91,13 +92,13 @@ Welche Ergebnisse liegen aus den Bodenuntersuchungen der Nordvariante bisher vor
 
 Im Rahmen der Vorplanung der Nordalternative wurden zur Erkundung der Bodenverhältnisse im Zeitraum September/Oktober 2017 Bodensondierungen in folgenden Bereichen durchgeführt:
 
- ein Bodenaufschluss im Zwanckweg,
+– ein Bodenaufschluss im Zwanckweg,
 
- drei Bodenaufschlüsse in der Nordheimstraße,
+– drei Bodenaufschlüsse in der Nordheimstraße,
 
- drei Bodenaufschlüsse in der Steilshooper Allee,
+– drei Bodenaufschlüsse in der Steilshooper Allee,
 
- ein Bodenaufschluss im Ruwoldtweg.
+– ein Bodenaufschluss im Ruwoldtweg.
 
 Die Ergebnisse dieser acht Bodenaufschlüsse (Bodenschichtung und -zusammensetzung sowie Grundwasserstände) sind in der Vorplanung der Nordvariante berücksichtigt.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65919"
@@ -81,7 +82,7 @@ Sollen aktuell „Schul-Eltern-Kind-Projekte“ eingestellt werden, obwohl der B
 
 Ist es zutreffend, dass statt „Schul-Eltern-Kind-Projekten“ ein neues Konzept ausschließlich auf behördlicher Ebene erarbeitet werden soll, unter Ausschluss der freien Träger? Wenn ja, warum und verstößt dies nicht gegen die Rahmenvereinbarung Jugendhilfe/Schule?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 

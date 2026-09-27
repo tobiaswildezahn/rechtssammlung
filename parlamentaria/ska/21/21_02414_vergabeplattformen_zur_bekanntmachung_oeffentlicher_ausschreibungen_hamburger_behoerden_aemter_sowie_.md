@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 17
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50693"
@@ -43,7 +44,7 @@ Wie viele Plattformen zur Bekanntmachung öffentlicher Ausschreibungen gibt es i
 
 Welche Hamburger Behörden, Ämter sowie öffentlichen Unternehmen inserieren jeweils auf welchen Vergabeplattformen zur Bekanntmachung öffentlicher Ausschreibungen ihre zu vergebenen Aufträge? Bitte für jede Behörde, Amt sowie öffentliches Unternehmen in einer tabellarischen Übersicht einzeln angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 
@@ -71,7 +72,7 @@ Ist es den Hamburger Behörden, Ämtern sowie öffentlichen Unternehmen möglich
 
 Werden auf den einzelnen Vergabeplattformen auch Ausschreibungen des Bundes sowie europaweite Vergabeverfahren veröffentlicht? Wenn ja, auf welchen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Hamburger Vergaben oberhalb des EU-Schwellenwertes werden dem Amt für amtliche Veröffentlichungen der Europäischen Gemeinschaften übermittelt. Der Bund nutzt eine eigene Vergabeplattform. Im Übrigen siehe Anlage.
 
@@ -91,7 +92,7 @@ Hat sich der Senat bereits mit der Bereitstellung einer einheitlichen zentralen 
 
 Teilt der Senat die Ansicht, dass die Bekanntmachung öffentlicher Ausschreibungen auf unterschiedlichen Vergabeplattformen der verschiedenen Stellen zu Unübersichtlichkeit und Verwirrungen bei Unternehmen führen können? Wenn ja, wieso wurden bisher keine Schritte unternommen, um eine zentrale Vergabeplattform bereitzustellen, auf der gebündelt sämtliche öffentlichen Ausschreibungen aller Hamburger Behörden, Ämter sowie öffentlichen Unternehmen abzurufen sind?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die für Grundsatzfragen des Vergaberechts zuständigen Behörden erörtern zurzeit unter Beteiligung der Handelskammer und Handwerkskammer die Frage einer zentralen Vergabeplattform. Im Übrigen sind die Überlegungen und Planungen noch nicht abgeschlossen.
 

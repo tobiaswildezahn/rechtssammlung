@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6815", "21/7486", "21/2312", "21/6488", "21/7876"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57321"
@@ -79,41 +80,41 @@ Wann läuft jeweils welcher Vertrag über den Betrieb von Flüchtlingsunterkünf
 
 Zu den EA siehe Drs. 21/6488 und Veröffentlichung der Vereinbarungen im Transparenzportal:
 
- http://suche.transparenz.hamburg.de/dataset/vereinbarung-zum-betrieb-drk-
+– http://suche.transparenz.hamburg.de/dataset/vereinbarung-zum-betrieb-drk-
 
 landesverband
 
- http://suche.transparenz.hamburg.de/dataset/awo-vereinbarung-zum-betrieb-einer-
+– http://suche.transparenz.hamburg.de/dataset/awo-vereinbarung-zum-betrieb-einer-
 
 erstaufnahmeeinrichtung-fuer-asylbewerber
 
- http://suche.transparenz.hamburg.de/dataset/awo-vereinbarung-zum-betrieb-
+– http://suche.transparenz.hamburg.de/dataset/awo-vereinbarung-zum-betrieb-
 
 einererstaufnahmeeinrichtung-fuer-asylbewerber
 
- http://suche.transparenz.hamburg.de/dataset/malteser-hilfsdienst-vereinbarung-
+– http://suche.transparenz.hamburg.de/dataset/malteser-hilfsdienst-vereinbarung-
 
 zum-betrieb-12-09-2016
 
- http://suche.transparenz.hamburg.de/dataset/vereinbarung-zum-betrieb-johanniter-
+– http://suche.transparenz.hamburg.de/dataset/vereinbarung-zum-betrieb-johanniter-
 
 unfall-hilfe-e-v
 
- http://suche.transparenz.hamburg.de/dataset/drk-kreisverband-harburg-e-v-
+– http://suche.transparenz.hamburg.de/dataset/drk-kreisverband-harburg-e-v-
 
 vereinbarung-zum-betrieb-12-09-2016
 
- http://suche.transparenz.hamburg.de/dataset/vereinbarung-zum-betrieb-einer-
+– http://suche.transparenz.hamburg.de/dataset/vereinbarung-zum-betrieb-einer-
 
 ersteinnahmeeinrichtung-fuer-asylbewerber-und-duldungsantragsste
 
- http://suche.transparenz.hamburg.de/dataset/vereinbarung-zea-arbeiter-samariter-
+– http://suche.transparenz.hamburg.de/dataset/vereinbarung-zea-arbeiter-samariter-
 
 bund-vertrag
 
 Zum örU-Standort Am Röhricht siehe im Transparenzportal:
 
- http://suche.transparenz.hamburg.de/dataset/aschenland-ii-vertrag-
+– http://suche.transparenz.hamburg.de/dataset/aschenland-ii-vertrag-
 
 vergabeverfahren
 
@@ -125,7 +126,7 @@ Welche der unter 2. aufgeführten Standorte werden mit Vertragsende geschlossen 
 
 Für welche Standorte wird f & w fördern und wohnen den Betrieb übernehmen (sowohl für die weiter zu betreibenden Unterkünfte als auch für die derzeit geplanten aufführen und begründen)?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/7876. Die Reihenfolge und Anzahl der zu schließenden Objekte ist dabei von der Verfügbarkeit von fertiggestellten Folgeunterkünften und der weiteren Entwicklung der Flüchtlingszahlen abhängig. Darüber hinaus sind die Planungen noch nicht abgeschlossen.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48604"
@@ -69,7 +70,7 @@ Hamburg Energie bietet mit seinem Nachtspeicher-Tarif einen eigenständigen Stro
 
 Welche Voraussetzungen müssen erfüllt sein, damit Hamburg Energie den Tarif SPEICHERSTADT auch auf Elektrodirektheizungen ausweitet und somit einen echten Wärmestromtarif einführt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Hamburg Energie bietet zwei Wärmestromtarife je nach Lastprofil der Heizanlagen an. Der Tarif SPEICHERSTADT ist auf das spezielle Lastprofil von Nachtspeicherheizungen kalkuliert. Kunden, die eine Elektrodirektheizung haben (als unterbrechbare Verbrauchseinrichtung mit separatem Zähler), können den Tarif LEUCHTTURM nutzen, der auch für Wärmepumpen vorgesehen ist.
 

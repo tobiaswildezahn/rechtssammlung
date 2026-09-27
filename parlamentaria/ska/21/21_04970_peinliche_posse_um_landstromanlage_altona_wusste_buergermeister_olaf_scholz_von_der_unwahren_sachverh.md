@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4931", "21/4643", "20/9298"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53411"
@@ -57,7 +58,7 @@ Wie lange lief die Landstromanlage bei ihrer Einweihung am 3. Juni? Ist es zutre
 
 Warum gab/gibt es Probleme bei der Landstromversorgung der AIDA- sol? Ist es seit „Inbetriebnahme“ der Landstromanlage zu Schäden an der Elektrik der AIDAsol gekommen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung. Im Übrigen siehe Drs. 21/4931.
 
@@ -69,7 +70,7 @@ Wusste der Bürgermeister Olaf Scholz bei der Einweihung der Landstromanlage Alt
 
 Warum wurde die Landstromanlage Altona eingeweiht, wenn die „Testphase“ bisher nicht beendet war?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 
@@ -97,7 +98,7 @@ Warum wurde die AIDAsol bei dem letzten Anlauf am Terminal in der HafenCity nich
 
 Ist es zutreffend, dass die zuständigen Stellen dem Unternehmen Becker Marine Systems mitgeteilt haben, dass die AIDAsol nach dem Landstromversuch zunächst auf die Funktionsfähigkeit der Elektrik an Bord überprüfen müsse? Wenn ja, warum hat man davon abgesehen, die AIDAsol über die Hybrid Barge mit Strom zu versorgen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Fragen 7. und 8. betreffen das privatwirtschaftliche Handeln zweier Unternehmen. Der zuständigen Behörde liegen hierzu keine Erkenntnisse vor. Seitens der zuständigen Behörde beziehungsweise der HPA sind keine entsprechenden Mitteilungen an Becker Marine Systems GmbH & Co. KG erfolgt.
 

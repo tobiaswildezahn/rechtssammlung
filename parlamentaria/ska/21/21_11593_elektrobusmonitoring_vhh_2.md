@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10713", "21/10035"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60820"
@@ -73,13 +74,13 @@ Wie konnten die vorhandenen Busse eingesetzt werden? Bitte für jedes der oben g
 
 Eckdaten zum Einsatz der MidiBusse des Herstellers Rampini im 4. Quartal des Jahres 2017:
 
- Laufleistungen beider Fahrzeuge zwischen September und Dezember 2017 =
+– Laufleistungen beider Fahrzeuge zwischen September und Dezember 2017 =
 
 16.789 km
 
- Verfügbarkeit beider Fahrzeuge lag im Schnitt bei 70 Prozent
+– Verfügbarkeit beider Fahrzeuge lag im Schnitt bei 70 Prozent
 
- Laufleistungs- und Verfügbarkeitsreduzierung liegen in Lieferverzögerungen von
+– Laufleistungs- und Verfügbarkeitsreduzierung liegen in Lieferverzögerungen von
 
 Ersatzteilen seitens des Herstellers begründet
 
@@ -119,20 +120,20 @@ Welche konkreten Erkenntnisse sollen dabei vor allem gewonnen werden? Bitte deta
 
 Unter anderem sollen folgende Erkenntnisse gewonnen werden:
 
- Reichweiten unter verschiedenen Witterungsbedingungen,
+– Reichweiten unter verschiedenen Witterungsbedingungen,
 
- Fahrzeugverfügbarkeiten,
+– Fahrzeugverfügbarkeiten,
 
- Instandhaltungsfreundlichkeit inklusive Monitoring in Echtzeit,
+– Instandhaltungsfreundlichkeit inklusive Monitoring in Echtzeit,
 
- Verfügbarkeiten von benötigter Ladeinfrastruktur,
+– Verfügbarkeiten von benötigter Ladeinfrastruktur,
 
- Ablaufänderungen in der Fahrzeugversorgung,
+– Ablaufänderungen in der Fahrzeugversorgung,
 
- Datentransfer,
+– Datentransfer,
 
- Handling von Reichweitenlimitierungen und Überwachung dieser in Echtzeit,
+– Handling von Reichweitenlimitierungen und Überwachung dieser in Echtzeit,
 
- Fahrereinfluss auf den Energiebedarf und
+– Fahrereinfluss auf den Energiebedarf und
 
- Haltbarkeit von Traktionsbatterien.
+– Haltbarkeit von Traktionsbatterien.

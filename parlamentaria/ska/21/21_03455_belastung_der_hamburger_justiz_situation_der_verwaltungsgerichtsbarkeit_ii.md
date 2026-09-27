@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 32
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2484"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51812"
@@ -177,13 +178,13 @@ Die Justizministerinnen und Justizminister haben unter dem Vorsitz der Länder N
 
 Die Arbeitsgruppe hat bisher einmal getagt. Die nächste Sitzung der Arbeitsgruppe ist auf Ende März 2016 terminiert. In der Arbeitsgruppe wurden vier Unterarbeitsgruppen gebildet. Diese umfassen folgende Themenbereiche:
 
- Rechtsweg und Verfahren bei asyl- und aufenthaltsrechtlichen Haftsachen
+– Rechtsweg und Verfahren bei asyl- und aufenthaltsrechtlichen Haftsachen
 
- Gerichtsverfassungsrechtliche Fragen
+– Gerichtsverfassungsrechtliche Fragen
 
- Verfahren im ersten Rechtszug
+– Verfahren im ersten Rechtszug
 
- Rechtsmittelverfahren
+– Rechtsmittelverfahren
 
 Hamburg wirkt an der Unterarbeitsgruppe „Rechtsmittelverfahren“ mit. Aufgabe dieser Unterarbeitsgruppe ist es, die speziellen verwaltungsprozessualen Vorschriften des Asylverfahrens- beziehungsweise Asylgesetzes (AsylVfG beziehungsweise AsylG) einer Überprüfung zu unterziehen und Änderungsbedarfe zu identifizieren. Insbesondere wird dabei geprüft, ob die Erweiterung von Rechtsschutzmöglichkeiten – auch in asylrechtlichen Eilverfahren – im Asylgesetz zu einer Vereinheitlichung der Rechtsprechung und damit einhergehend zu einer Beschleunigung der Verfahren, der Entlastung der Justiz und einem effektiven Rechtsschutz für die Betroffenen führen kann.
 

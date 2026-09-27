@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 0
 beantwortet: false
+status: "unbeantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70097"
@@ -27,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Dirk Nockemann (AfD) vom 11.03.20 und Antwort des Senats · Drucksache vom 11.03.2020  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/70097) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/70097/21_20305_salafisten_im_fokus_ein_querschnitt_der_hamburger_szene_januar_februar_2020)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

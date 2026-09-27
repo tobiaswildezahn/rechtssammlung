@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 18
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11559", "21/7484"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61007"
@@ -64,7 +65,7 @@ Wie ist der genaue Stand der in Drs. 21/11559 dargestellten Überprüfung des Ze
 
 Wie groß ist derzeit die zeitliche Verzögerung gegenüber dem ursprünglichen Terminplan im Bauablauf aufgrund der Abarbeitung zusätzlicher Fragestellungen nach der intensiven Sanierung in den alten Bauteilen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Überprüfung ist noch nicht abgeschlossen.
 
@@ -84,7 +85,7 @@ Welche Eckdaten sieht der Rahmenterminplan der Sprinkenhof inzwischen für die F
 
 Welche Mehrkosten ergeben sich an welchen Stellen durch die Bauzeitverlängerung sowie durch die extrem hohe Auslastung der Kapazitäten in der Bauwirtschaft im Einzelnen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 3. und 4.
 

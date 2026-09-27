@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7287", "21/10963"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60732"
@@ -81,6 +82,6 @@ Gibt es konkrete Hinweise darauf, dass aussichtsreiche Geschäftskontakte nordde
 
 Hat sich zwischenzeitlich die noch 2016 vielfach beklagte vorsichtige Haltung deutscher Kreditinstitute hinsichtlich einer Finanzierung deutscher Infrastruktur-Investitionen im Iran geändert? Wenn ja, in welcher Weise und mit welchen konkreten Auswirkungen? Sieht der Senat Möglichkeiten, sich aus der Zurückhaltung von Kreditinstituten ergebende Finanzierungsprobleme auf andere Weise zu lösen? Wenn ja, auf welche Weise?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Nein. Siehe Antwort zu 3. Im Übrigen hat sich der Senat hiermit nicht befasst.

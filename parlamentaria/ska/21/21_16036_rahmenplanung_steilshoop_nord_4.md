@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13121", "21/14627", "21/15097", "21/11391"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65530"
@@ -65,7 +66,7 @@ Am 15.10.2018 fragte ich: „Welche konkreten Senats(kommissions)beschlüsse gib
 
 Sollte es keine Protokolle geben, weil es entgegen der Aussage in Drs. 21/15097 aber entsprechend der Aussagen in Drs. 21/14627 keine Befassung der „SenKo“ und keine Beschlüsse gegeben habe, frage ich ergänzend, auf welcher rechtlichen und auf welcher politischen Grundlage (bitte die Beschlüsse anfügen) wurde durch welchen Teil der Exekutive wann genau mit welcher Begründung die Entscheidung getroffen, bezogen auf die Rahmenplanung Steilshoop Nord substanziell von dem politisch vereinbarten Prozedere (siehe den mir vorliegenden behördenübergreifenden LoI vom 30.4.2013) abzuweichen und mit erheblich reduzierter Bürger-/-innenbeteiligung sowie ohne Konzeptvergabe die SAGA mit der Realisierung von Systembauten zu beauftragen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine formale Beschlussfassung auf der Grundlage einer gesonderten schriftlichen Vorlage erfolgte in der Senatskommission lediglich in der Sitzung am 29.1.2015 (Beschluss siehe Transparenzregister). Die weiteren in der Drs. 21/15097 genannten Befassungen der Senatskommission mit dem Thema in den Sitzungen am 2.11.2016 und 26.1.2017 erfolgten als mündliche Beratungen ohne gesonderte Beschlussvorlagen.
 

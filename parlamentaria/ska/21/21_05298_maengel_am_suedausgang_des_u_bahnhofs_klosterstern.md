@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53781"
@@ -65,7 +66,7 @@ Warum stehen nicht für die gesamte Treppe Handläufe zur Verfügung?
 
 Warum werden die Handläufe nicht schon während der Bauarbeiten verlängert?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Handläufe sind auch am südlichen Zugang über den gesamten Treppenlauf vorhanden, die jedoch nicht über die erste beziehungsweise letzte Treppenstufe hinausgeführt wurden. Es handelt sich um einen langjährigen Bestandszustand an einem denkmalgeschützten Bauwerk, der im Rahmen der Projektmaßnahme angepasst werden soll. Der Zugang ist ein Bestandsbau, der im Rahmen des Projektes noch nicht bearbeitet oder verändert wurde. An diesem denkmalgeschützten Zugang sind in der zweiten Jahreshälfte 2016 eine Überarbeitung der Handläufe und deren Verlängerung vorgesehen. Grundsätzlich verfügen alle Treppen, die nicht durch eine Baumaßnahme gesperrt sind, über einen Handlauf, der genutzt werden kann.
 

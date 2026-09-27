@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65596"
@@ -85,7 +86,7 @@ Welche Informationen bezüglich der Planungen wurden wann und von wem und in wel
 
 An welchen Stellen sehen die Planungen zur Interimsnutzung der Gewerbeschule einen Einbezug der Anwohner/-innen vor?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antwort zu 2. In der Regel ist eine Beteiligung der Anwohnerinnen und Anwohner bei einer rein schulischen Nutzung nicht vorgesehen.
 

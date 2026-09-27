@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10107", "21/4700", "21/4714", "21/9985", "20/13460", "21/5039"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59356"
@@ -116,13 +117,13 @@ Wie sieht die Unterstützung, die Legato Moscheegemeinden bei dem Aufbau von Mä
 
 Die Koordinierungsstelle Prävention und Lotsenberatung der SCHURA unterstützt Moscheegemeinden beim Aufbau von Mädchenarbeit, nicht Legato. Dazu gehören folgende Aufgaben:
 
- die Sensibilisierung der Gemeinden für genderspezifische Angebote zur Präventi-
+– die Sensibilisierung der Gemeinden für genderspezifische Angebote zur Präventi-
 
 on von Radikalisierung,
 
- die Beratung und Information zum Aufbau einer Mädchenarbeit in den Gemeinden,
+– die Beratung und Information zum Aufbau einer Mädchenarbeit in den Gemeinden,
 
- Fortbildung/Aktivierung für Gemeindeverantwortliche zur Mädchenarbeit.
+– Fortbildung/Aktivierung für Gemeindeverantwortliche zur Mädchenarbeit.
 
 Legato bietet eine Mädchengruppe an, die in Kooperation mit einer Islamwissenschaftlerin der SCHURA geführt wird. Der Aufbau von Jugendarbeit in Moscheen ist nicht Auftrag von Legato.
 

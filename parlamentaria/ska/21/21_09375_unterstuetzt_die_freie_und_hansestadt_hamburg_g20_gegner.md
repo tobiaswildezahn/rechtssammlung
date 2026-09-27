@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7164"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58138"
@@ -108,7 +109,7 @@ Wurden für die Veranstaltungen Teilnahmegebühren erhoben? Falls ja, wie hoch w
 
 Welche Rückmeldungen sind dem Senat beziehungsweise der zuständigen Behörde aus diesen Veranstaltungen bekannt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Entfällt.
 

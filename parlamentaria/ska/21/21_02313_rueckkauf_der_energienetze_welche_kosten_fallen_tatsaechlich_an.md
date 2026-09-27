@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 30
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/400", "20/10666", "20/13013", "21/917", "21/1528"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50584"
@@ -129,7 +130,7 @@ Wer trägt die Kosten, die durch das Herauslösen von Unternehmensteilen (busine
 
 Wie hoch sind die bisherigen Kosten der Unternehmensintegration in die HGV? Welche Kosten entfallen dabei auf a. die Beschaffung neuer IT-Infrastruktur, b. Personalberatung/-rekrutierung, c. Beratung für Aufsetzung von HEG-internen Prozessen, d. das Rebranding der bisher zum Vattenfall-Konzern gehörenden Geschäftseinheiten?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Kosten zur Bildung des großen Stromnetzbetreibers, die unter anderem durch das Herauslösen von Unternehmensteilen inklusive Mitarbeitern aus dem Vattenfall-
 

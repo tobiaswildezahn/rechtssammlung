@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11880", "21/73", "20/2508", "21/2938"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53322"
@@ -43,7 +44,7 @@ Inwiefern hat sich die in der Drs. 20/2508 auf Seite 6 dargestellte Kostenplanun
 
 Wann, durch wen und in welchem Umfang wurden Abweichungen vom ursprünglich vorgesehenen Kostenrahmen festgestellt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Wie bereits in der Drs. 21/2938 berichtet, hat sich der Kostenrahmen nicht verändert. Es hat aus verschiedenen Gründen lediglich zeitliche Verschiebungen gegeben.
 

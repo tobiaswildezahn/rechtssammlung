@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66416"
@@ -91,7 +92,7 @@ Wie werden die folgenden Bereiche durch welche konkreten Maßnahmen der Freien u
 
 An welchen konkreten Projekten der STRING-Partnerschaft sind weitere Akteure wie Hamburger Unternehmen, Kammern, Verbände und Vereine bisher wie eingebunden worden (Bitte den Akteur und die Einbindung je Projekt darstellen)?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 STRING arbeitet bisher vor allem im Bereich der politischen Flankierung von grenzüberschreitenden Infrastrukturprojekten in der Region. Diese Arbeit wird künftig durch Projekte vor allem in den Bereichen erneuerbare Energien sowie Innovative Transportsysteme ergänzt. Derzeit wird an dem von STRING initiierten EU-Projekt GREAT (Green Regions with Alternative Fuels for Transport) gearbeitet. Lead Partner ist die Region Skâne, assoziierte Partner sind im Rahmen einer Public Private Partnership eine Reihe von privaten Unternehmen sowie die STRING-Mitglieder und damit auch die Freie und Hansestadt Hamburg. Darüber hinaus ist das Hamburger Unternehmen hySOLUTIONS GmbH in das Projekt eingebunden und mit der Schnellladeinfrastruktur in Hamburg befasst. GREAT soll einen entscheidenden Beitrag dazu leisten, dass der TEN-V-Skandinavien-Mittelmeer-Korridor zwischen Hamburg und Oslo/Stockholm zu einem der ersten Abschnitte wird, der die EU-Richtlinie für alternative Kraftstoffe erfüllt.
 

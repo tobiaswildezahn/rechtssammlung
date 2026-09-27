@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 24
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4285", "21/6097"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55914"
@@ -135,7 +136,7 @@ Neben den Vorgaben des Arbeitsschutzrechts beeinflussen vielfältige Faktoren di
 
 Die Senatorin wünscht sich von der Asklepios-Unternehmensleitung eine Transparenzoffensive. Was genau ist mit der Transparenz-Offensive ganz konkret gemeint?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Der Senat äußert sich nicht zum Inhalt von vertraulichen Gesprächen.
 

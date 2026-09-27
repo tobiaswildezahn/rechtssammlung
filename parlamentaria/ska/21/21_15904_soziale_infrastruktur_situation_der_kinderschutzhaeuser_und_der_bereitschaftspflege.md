@@ -14,6 +14,7 @@ fragen: 25
 einzelfragen: 43
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7290", "21/14000", "21/6563", "21/6571", "21/6629", "21/9608"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65403"
@@ -53,11 +54,11 @@ Wie viele freie Plätze standen in den Hamburger Kinderschutzhäusern beziehungs
 
 Der Landesbetrieb Erziehung und Beratung (LEB) betreibt Kinderschutzeinrichtungen für die Aufnahme von schutzbedürftigen Kindern gemäß § 42 SGB VIII und deren Versorgung. Unterschieden werden
 
- Kinderschutzhäuser (KSH) für die Zielgruppe der null- bis sechsjährigen Kinder mit
+– Kinderschutzhäuser (KSH) für die Zielgruppe der null- bis sechsjährigen Kinder mit
 
 drei speziell für Babys vorgesehenen Betreuungsgruppen und
 
- Kinderschutzgruppen (KSG) für die Zielgruppe der sechs- bis zwölfjährigen Kinder
+– Kinderschutzgruppen (KSG) für die Zielgruppe der sechs- bis zwölfjährigen Kinder
 
 mit einer bedarfsgemäßen Öffnung im Einzelfall bis zum Eintrittsalter von drei Jahren.
 
@@ -75,7 +76,7 @@ Gab es in den Jahren 2016 – 2018 Engpässe? Wenn ja, was waren die Gründe?
 
 Sind der Sozialbehörde Vorkommnisse aus den Jahren 2016 – Januar 2019 bekannt, in denen Kinder unter dem Verdacht der Kindeswohlgefährdung aus ihren Familien in Obhut genommen werden sollten und es aus Platznot nicht zu einer Unterbringung kam? Wenn ja, um wie viele Fälle handelt es sich? Welche weiteren Schritte konnten beziehungsweise mussten die zuständigen Jugendämter in diesen Fällen veranlassen? Bitte alle Vorkommnisse seit Dezember 2016 unter Nennung des Datums, des Bezirkes und des Grundes auflisten.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 In jedem Fall einer akuten Notlage wird eine Unterbringung und damit ein hinreichender Schutz von Kindern gewährleistet, siehe Drs. 21/6563, 21/6571, 21/6629 sowie 21/7290.
 
@@ -460,7 +461,7 @@ Wie werden Fortbildung, Urlaub und Krankheit bei der Berechnung der Betreuungssc
 
 Wenn es keine Personalreserve gibt: Wie werden Personalengpässe anderweitig aufgefangen, die durch Fortbildung, Urlaub oder Krankheit entstehen?
 
-#### Antwort zu Fragen 21 bis 22
+#### Antwort zu Fragen 21 und 22
 
 Die Personalbedarfsberechnung berücksichtigt einen Durchschnittswert pro Fachkraft und pro Jahr für Ausfälle, die durch Urlaub, Krankheit und Fortbildung bedingt sind, und sieht dafür eine entsprechende Kompensation vor.
 
@@ -525,7 +526,7 @@ Summe
 
 Plätze
 
- Belegung
+– Belegung
 
 im Jahr in
 
@@ -535,7 +536,7 @@ Freie Plätze
 
 31.12. Plätze
 
- Belegung
+– Belegung
 
 im Jahr in
 
@@ -545,7 +546,7 @@ Freie Plätze
 
 31.12. Plätze
 
- Belegung
+– Belegung
 
 im Jahr in
 

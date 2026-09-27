@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5978"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50771"
@@ -43,7 +44,7 @@ Welche öffentlichen Flächen sportlicher Nutzung gibt es in Hamburg? Bitte nach
 
 Welche Gebäude, Einrichtungen und anders aufgewertete Flächen in öffentlichem Besitz sind diesen Flächen jeweils zugehörig?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage. Die Antwort bezieht sich auf alle öffentlichen Sportplatzanlagen im Verwaltungsvermögen Sport. Berücksichtigt wurden alle Großspielfelder, Rundlaufbahnen und Umkleidehäuser. Kleinspielfelder sowie sonstige leichtathletische Nebenanlagen sind nicht aufgeführt. Teilflächen können per Sportrahmenvertrag an einen Verein überlassen sein, sei es zum Bau eines Clubhauses oder aber zur Anlage einer Sportfläche. Diese Teilflächen sind in der Anlage ausgewiesen. Außensportflächen im Verwaltungsvermögen anderer öffentlicher Träger sind nicht berücksichtigt.
 
@@ -63,7 +64,7 @@ Welche Maßnahmen zur Zusammenlegung beziehungsweise Konzentration von öffentli
 
 Welche Zielsetzung haben die jeweiligen Maßnahmen vor Ort?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Altona Sportanlage Baurstraße
 
@@ -98,7 +99,7 @@ Wie groß ist die aktuelle Gesamtfläche der öffentlichen Flächen sportlicher 
 
 Wie groß ist die aktuelle Gesamtfläche der öffentlichen Flächen sportlicher Nutzung in den einzelnen Bezirken? Wie groß waren diese Flächen im vergangenen Jahr?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Anlage. Eine Abweichung der Flächen in 2015 gegenüber 2014 in Höhe von
 10.071 qm ergibt sich aus der Aufgabe der Sportanlage Niedernstegen (Eschenweg) als öffentliche Fläche.

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6860", "21/7380"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57894"
@@ -43,7 +44,7 @@ Inwieweit hat sich der Stand seit der Ausschusssitzung verändert?
 
 Inwieweit sind in unmittelbarer Nähe von Sicherheitszonen und Protokollstrecken Evakuierungen vorgesehen? Wenn ja, bitte genau schildern, aus welchen Gründen und auf welcher Rechtsgrundlage.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 An den vom Präses der Behörde für Inneres und Sport dargestellten und aus dem Protokoll zitierten polizeilichen Zielen anlässlich des Einsatzes zum G20-Gipfel hat sich nichts verändert.
 
@@ -73,7 +74,7 @@ Welche Kenntnisse liegen dem Senat beziehungsweise der zuständigen Behörde dar
 
 Was genau müssen Mitarbeiter/-innen tun, um eine Akkreditierung zu erlangen? a. Welche Daten müssen sie auf Basis welcher Rechtsgrundlagen preisgeben? b. Welche Möglichkeiten gibt es für Beschäftigte, trotz Verweigerung der Akkreditierung zu ihrem Arbeitsplatz zu gelangen? c. Welche Folgen hätte es für Mitarbeiter/-innen, wenn sie keine Akkreditierung erhielten?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Akkreditierungen werden nach derzeitigem Planungsstand für die Veranstaltungsorte und gegebenenfalls für die Hotels vorgesehen. Diese Orte werden im Einsatz vom Bundeskriminalamtes (BKA) wahrgenommen, das auch die Akkreditierungsverfahren durchführt. Das BMI wurde um einen Beitrag gebeten, und hat mitgeteilt, dass die Kontrollfunktion der Hamburger Bürgerschaft sich auf den Hamburger Senat bezieht. Die Bundesregierung sei von diesem Fragerecht nicht umfasst.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10610"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62192"
@@ -93,6 +94,6 @@ Wie werden die Ausweich- und Umleitungsstrecken während der Bauphase aussehen?
 
 Welche Ausweichrouten werden die in diesem Abschnitt verkehrenden Stadtrundfahrtbusse während der Bauphase nehmen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Eine Aussage zu Ausweich- und Umleitungsstrecken ist erst nach Abschluss der Detailplanung möglich.

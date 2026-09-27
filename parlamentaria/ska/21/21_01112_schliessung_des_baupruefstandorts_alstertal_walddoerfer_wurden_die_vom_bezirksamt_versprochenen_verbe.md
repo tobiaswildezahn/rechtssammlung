@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 23
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8047"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49293"
@@ -67,7 +68,7 @@ Wie haben sich die Wartezeiten bei Terminvereinbarungen oder der Beantwortung vo
 
 Wie haben sich die Bearbeitungszeiten für von der Bauprüfabteilung zu bearbeitende Anträge aus dem Bereich Alstertal/Walddörfer seit der Standortverlagerung im Einzelnen verändert?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die erfragten Daten werden statistisch nicht erfasst und können nachträglich nicht beziehungsweise könnten nur durch die manuelle Auswertung von rund 2.800 Einzel-
 

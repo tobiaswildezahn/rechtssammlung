@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 62366
 seiten: 2
 fragen: 3
-einzelfragen: 5
-antwortbloecke: 3
+einzelfragen: 6
+antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68344"
@@ -64,12 +65,19 @@ Bauen mbH gebildet waren. Da die entsprechenden stillen Reserven im Konzernabsch
 ### Frage 3
 
 Im Zuge der erstmaligen Vollkonsolidierung der Gasnetz Hamburg ergeben sich zum 31.12.2018 bilanzierte stille Reserven von 234 Millionen Euro.
-3.1. Wie und wann wurde die Werthaltigkeit dieses Ansatzes überprüft?
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+Wie und wann wurde die Werthaltigkeit dieses Ansatzes überprüft?
+
+#### Antwort zu Fragen 3 und 3.1
 
 Die Werte sind im Rahmen der erstmaligen Vollkonsolidierung der Gesellschaft im Geschäftsjahr 2018 aufgedeckt und bewertet worden.
 
-3.2. Auf welche Positionen im Einzelnen unterteilen sich die auf Gasnetz Hamburg zurechenbaren stillen Reserven und über welche Nutzungsdauer werden sie jeweils abgeschrieben?
+### Frage 3.2
+
+Auf welche Positionen im Einzelnen unterteilen sich die auf Gasnetz Hamburg zurechenbaren stillen Reserven und über welche Nutzungsdauer werden sie jeweils abgeschrieben?
+
+#### Antwort zu Frage 3.2
 
 Die stillen Reserven verteilen sich auf Grundstücke und Gebäude in Höhe von 8 Millionen Euro mit einer Nutzungsdauer von 13 Jahren und auf technische Anlagen und Maschinen in Höhe von 226 Millionen Euro mit einer Nutzungsdauer von 14 Jahren.

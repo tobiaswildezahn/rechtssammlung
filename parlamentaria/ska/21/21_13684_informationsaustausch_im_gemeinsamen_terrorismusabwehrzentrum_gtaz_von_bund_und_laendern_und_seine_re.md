@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["17/14830", "20/9232"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63057"
@@ -107,7 +108,7 @@ Hält der Senat eine gesetzliche Grundlage für die Arbeit des Gemeinsamen Terro
 
 Welche konkreten Reformen am GTAZ, GETZ und GIZ will der Senat in den kommenden Jahren umsetzen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die zuständige Behörde teilt die in der BT.-Drs. 17/14830 dargestellte rechtliche Bewertung.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10348", "21/1846"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61353"
@@ -136,28 +137,28 @@ Wie sieht die Umsetzung der in Drs. 21/1846 genannten Maßnahmen bis 2020 zum je
 
 #### Antwort zu Fragen 5 bis 7
 
- Für die Entwicklung von F&I-Parks an den Standorten Altona, Bergedorf, Harburg
+– Für die Entwicklung von F&I-Parks an den Standorten Altona, Bergedorf, Harburg
 
 und Finkenwerder ist ein Konzept erstellt worden, das der Bürgerschaft in Kürze vorgelegt wird.
 
- Die Anstrengungen zur Etablierung weiterer anwendungsorientierter Forschungs-
+– Die Anstrengungen zur Etablierung weiterer anwendungsorientierter Forschungs-
 
 einrichtungen haben zur Einrichtung des „Instituts für Systemarchitekturen in der Luftfahrt“ und des „Instituts für Instandhaltung und Modifikation“ des Deutschen Zentrums für Luft- und Raumfahrt (DLR) in den Räumlichkeiten des Zentrums für Angewandte Luftfahrtforschung (ZAL) geführt. Das ZAL TechCenter selbst wurde im März des Jahres 2016 auf der Rüschhalbinsel im F&I-Park Finkenwerder eröffnet und bietet Wirtschaft und Wissenschaft die Möglichkeit, gemeinsam unter einem Dach zu forschen und zu entwickeln, um eine möglichst schnelle Umsetzung von Forschungsergebnissen in marktfähige Produkte und Technologien zu erreichen. Weiterhin konnte seit dem Beitritt Hamburgs zur Förderung der Fraunhofer-Gesellschaft am 1. Januar 2015 der Senat die Zahl der Fraunhofer- Einrichtungen am Standort von drei auf sechs erhöhen. Neben dem Fraunhofer- Center für Maritime Logistik und Dienstleistungen (CML) in Harburg (Institutsteil
 
 des Fraunhofer-Instituts für Materialfluss und Logistik (IML) in Dortmund) haben der IME ScreeningPort des Fraunhofer-Instituts für Molekularbiologie und Angewandte Oekologie (IME) in Altona und das Anwendungszentrum Leistungselektronik für regenerative Energiesysteme des Fraunhofer Instituts für Siliziumtechnologie (ISIT) an der Hochschule für Angewandte Wissenschaften Hamburg (HAW Hamburg) ihren Sitz in Hamburg. Seit dem 1. Januar 2018 sind das Fraunhofer- Institut für Additive Produktionstechnologie (IAPT) in Hamburg-Bergedorf (ehemals Laserzentrum Nord GmbH LZN) und das Fraunhofer-Zentrum für Angewandte Nanotechnologie (Fraunhofer CAN) in Hamburg-Eimsbüttel, Forschungsbereich des Fraunhofer-Instituts für Angewandte Polymerforschung (IAP) in Potsdam (ehemals Centrum für Angewandte Nanotechnologie CAN), hinzugekommen. Parallel wird im Jahr 2018 eine Arbeitsgruppe des Fraunhofer-Instituts für Windenergie und Energiesystemtechnik (IWES) am Energiecampus Bergedorf der HAW Hamburg aufgebaut. Zudem wird Hamburg Sitz des Deutschen Maritimen Zentrums.
 
- Das Innovationsfördersystem der IFB Hamburg wurde weiterentwickelt und um die
+– Das Innovationsfördersystem der IFB Hamburg wurde weiterentwickelt und um die
 
 Instrumente „Hamburg Kredit Innovation“ und den HIWF ergänzt. Der erfolgreiche Innovationsstarter Fonds Hamburg wurde zum Jahresende 2016 neu aufgelegt und mit weiteren 12 Millionen Euro (Mittel des EFRE und des Innovationsfonds der IFB Hamburg je zur Hälfte) ausgestattet.
 
- Zur Mitgestaltung des digitalen Strukturwandels wurde der Masterplan Industrie um
+– Zur Mitgestaltung des digitalen Strukturwandels wurde der Masterplan Industrie um
 
 die Handlungsfelder 3-D-Druck und Industrie 4.0 ergänzt.
 
- Zur Stärkung der innovativen Gründerszene hat der Senat verschiedene Maßnah-
+– Zur Stärkung der innovativen Gründerszene hat der Senat verschiedene Maßnah-
 
 men beschlossen. Zuletzt zum Beispiel das Hamburger Gründerstipendium oder die Etablierung der digitalen Kommunikations- und Interaktionsplattform „beyourpilot – Startup Port Hamburg“. Im Jahr 2017 wurde der Innovation Campus Green Technologies (ICGT) in Harburg eröffnet, mit dem Miet-, Service- und Beratungsangebote für technologieorientierte Existenzgründungen insbesondere aus Hochschulen sowie Betreuungsangebote für Kooperationsprojekte zwischen Hochschule und Unternehmen bestehen. Das DESY-Innovationszentrum wird derzeit errichtet.
 
- Hamburg entwickelt, als eine von sechs Modellregionen für zukunftsorientierte
+– Hamburg entwickelt, als eine von sechs Modellregionen für zukunftsorientierte
 
 Clusterpolitik der Europäischen Kommission, systematisch Clusterbrücken (crossclustering) und stärkt damit die clusterübergreifende Zusammenarbeit.

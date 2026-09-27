@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 53
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16767", "21/17126", "21/17497", "21/17648", "21/17241", "21/18366", "21/5832"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68800"
@@ -76,7 +77,7 @@ Wie viele der in Frage 2. aufgeführten ELB lebten jeweils in Bedarfsgemeinschaf
 
 Wie viele der in Frage 2. aufgeführten ELB lebten jeweils in a. Single-Bedarfsgemeinschaften? b. Partner-Bedarfsgemeinschaften ohne Kinder? c. Alleinerziehenden-Bedarfsgemeinschaften? d. Partner-Bedarfsgemeinschaften mit Kindern?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage 3. Daten zum Stichtag 30.09.2019 stehen derzeit noch nicht zur Verfügung.
 

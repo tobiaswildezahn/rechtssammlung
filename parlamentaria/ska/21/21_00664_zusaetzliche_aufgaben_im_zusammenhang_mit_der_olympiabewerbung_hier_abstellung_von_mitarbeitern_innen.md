@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 3
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/436"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48824"
@@ -69,7 +70,7 @@ Wer trägt die Kosten beziehungsweise die Alternativkosten?
 
 Wie wird die nach Stellenbeschreibung „eigentliche“ Arbeit der Mitarbeiter/-innen während der Abstellungszeit gewährleistet?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage.
 

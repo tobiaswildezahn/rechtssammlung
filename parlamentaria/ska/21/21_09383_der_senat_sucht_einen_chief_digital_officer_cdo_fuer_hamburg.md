@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 14
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58145"
@@ -79,29 +80,29 @@ Wie wird der CDO der Freien und Hansestadt Hamburg in die folgenden Projekte und
 
 #### Antwort zu Fragen 1 bis 9
 
- flächendeckender Breitbandausbau,
+– flächendeckender Breitbandausbau,
 
- Breitbandausbau im Hafen,
+– Breitbandausbau im Hafen,
 
- Projekte im Rahmen von smartPORT logistics und smartPORT ener-
+– Projekte im Rahmen von smartPORT logistics und smartPORT ener-
 
 gy,
 
- ChainPORT,
+– ChainPORT,
 
- Hammerbrooklyn,
+– Hammerbrooklyn,
 
- Digital Hub Logistics,
+– Digital Hub Logistics,
 
- Smart Last Mile Logistics (SMILE),
+– Smart Last Mile Logistics (SMILE),
 
- 3-D-Druckstrategie des Senats,
+– 3-D-Druckstrategie des Senats,
 
- wissensbasierte Gründerplattform,
+– wissensbasierte Gründerplattform,
 
- Strategie Digitale Stadt Hamburg,
+– Strategie Digitale Stadt Hamburg,
 
- Metropolregion Hamburg?
+– Metropolregion Hamburg?
 
 ### Frage 10
 

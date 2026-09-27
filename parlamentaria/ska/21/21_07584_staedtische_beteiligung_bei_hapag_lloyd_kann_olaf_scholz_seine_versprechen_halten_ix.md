@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5760"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56200"
@@ -57,7 +58,7 @@ Inwieweit steht im Rahmen der Fusionsgespräche – auch vor dem oben genannten 
 
 Welche Auswirkungen kann diese Entwicklung – auch angesichts der getroffenen Vereinbarungen mit Kühne Maritime (KM) – auf die HGV haben? Inwieweit ist für sie beziehungsweise die Freie und Hansestadt Hamburg (FHH) mit dem weiteren Ankauf von HL-Aktien oder anderweitigen Kosten in jeweils welchem Umfang zu rechnen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Für die geplante Barkapitalerhöhung wurde ein Volumen von 400 Millionen USD vereinbart. Im Übrigen siehe Drs. 21/5760 und Antwort zu 1.
 

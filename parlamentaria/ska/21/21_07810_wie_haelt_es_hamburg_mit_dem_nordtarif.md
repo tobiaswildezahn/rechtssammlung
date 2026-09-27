@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 14
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56439"
@@ -60,7 +61,7 @@ a) bis wann rechnet der Senat beziehungsweise die zuständige Behörde damit, di
 b) welche Stelle im Senat beziehungsweise der zuständigen Behörde führt diese Verhandlungen und welche Stellen in Niedersachsen und Schleswig-Holstein sind die jeweiligen Verhandlungspartner?
 c) Wann genau haben bisher entsprechende Verhandlungsrunden stattgefunden und wer hat jeweils daran teilgenommen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die in der Vorbemerkung genannten Maßnahmen werden von den beteiligten Aufgabenträgern und Verkehrsverbünden gemeinsam erarbeitet und abgestimmt.
 
@@ -72,7 +73,7 @@ Mit welchen zusätzlichen Kosten für die Freie und Hansestadt Hamburg (FHH) rec
 
 Mit welchen zusätzlichen Kosten für Hamburger ÖPNV-Kunden rechnet der Senat beziehungsweise die zuständige Behörde durch einen einheitlichen Tarif in Hamburg, Niedersachsen und Schleswig-Holstein?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Entfällt. Siehe Vorbemerkung.
 
@@ -84,7 +85,7 @@ Sind im aktuellen Doppelhaushalt Mittel für einen gemeinsamen ÖPNV- Tarifverbu
 
 Sind in der mittelfristigen Finanzplanung für die Jahre 2019 und 2020 Mittel für einen gemeinsamen ÖPNV-Tarifverbund mit Niedersachsen und Schleswig-Holstein eingeplant? Wenn ja, in welcher Höhe und in welcher Produktgruppe welches Einzelplans?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Kosten, die durch die Erbringung für Nahverkehrsleistungen entstehen, werden, soweit diese auf Hamburger Gebiet anfallen, aus den dafür bereitgestellten Haushaltsmitteln gedeckt. Diese werden zu einem erheblichen Teil aus Mitteln des Bundes nach dem Regionalisierungsgesetz finanziert. Darüber hinaus benötigte Mittel werden im Doppelhaushalt und in der Finanzplanung im Einzelplan 7, Produktgruppe 269.01
 

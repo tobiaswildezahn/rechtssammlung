@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8356", "21/10542"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59523"
@@ -94,7 +95,7 @@ Warum liegt der Anteil der mobilen Geschwindigkeitsmessungen zwischen 22 – 6 U
 
 Warum liegt laut Drs. 21/10542 die Zahl der mobilen Geschwindigkeitsmessungen insgesamt im laufenden Jahr zum Stichtag 30. September nur bei 2.821 und damit weit unter dem normalerweise üblichen anteiligen Soll der Jahre seit 2011?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/10542. Im Übrigen sind unterjährige Zahlen nur bedingt mit Ganzjahreszahlen vergleichbar. Werte innerhalb eines Jahres unterliegen Veränderungen.
 

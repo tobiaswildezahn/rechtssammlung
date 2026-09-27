@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50849"
@@ -89,7 +90,7 @@ In welchem Verhältnis steht die Berufung von Friedhelm Siepe zur Vorstandsfunkt
 
 Ist durch die Berufung Friedhelm Siepes nach Nürnberg eine Aufgabenverteilung und/oder Entlastung des Vorstands der Bundesagentur für Arbeit, hier speziell Detlef Scheele, geplant? Wenn ja, welche Bereiche betrifft dieses?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Hiermit hat sich der Senat nicht befasst. Die Bundesagentur für Arbeit ist eine bundesunmittelbare Körperschaft des öffentlichen Rechts mit Selbstverwaltung und unterliegt der Rechtsaufsicht des Bundesministeriums für Arbeit und Soziales gemäß §§ 367, 393 des Dritten Buches Sozialgesetzbuch.
 

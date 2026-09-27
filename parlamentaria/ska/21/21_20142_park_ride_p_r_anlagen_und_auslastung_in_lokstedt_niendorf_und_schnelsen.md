@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15875", "21/15069"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69919"
@@ -51,7 +52,7 @@ Welche P+R-Anlagen befinden sich in den Stadtteilen Lokstedt, Niendorf und Schne
 
 Welche dieser vorgenannten P+R-Anlagen sind gebührenpflichtig und seit wann?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In den Stadtteilen Lokstedt, Niendorf und Schnelsen befinden sich die P+R-Anlagen Hagenbecks Tierpark (116 Stellplätze), Niendorf Markt (110 Stellplätze) und Schnelsen (117 Stellplätze).
 

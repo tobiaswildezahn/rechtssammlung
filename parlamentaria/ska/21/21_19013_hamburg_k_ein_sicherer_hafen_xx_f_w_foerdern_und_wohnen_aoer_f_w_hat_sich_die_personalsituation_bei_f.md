@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 18
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15083"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68696"
@@ -37,9 +38,9 @@ Vor diesem Hintergrund fragen wir den Senat:
 
 f & w fördern und wohnen AöR (f & w) begrüßt jede Bewerbung, unabhängig davon, ob sie eine gezielte Bewerbung auf vorhandene Stellenausschreibungen oder eine Initiativbewerbung beim Unternehmen f & w an sich darstellt. f & w informiert hierfür auf seinen Internetseiten ausführlich über die Vorteile von f & w als Arbeitgeber sowie über vorhandene Stellenausschreibungen, siehe:
 
- https://www.foerdernundwohnen.de/mitarbeiten/
+– https://www.foerdernundwohnen.de/mitarbeiten/
 
- https://www.foerdernundwohnen.de/mitarbeiten/stellenausschreibungen/
+– https://www.foerdernundwohnen.de/mitarbeiten/stellenausschreibungen/
 
 Dies vorausgeschickt, beantwortet der Senat die Fragen teilweise auf Grundlage von Auskünften von f & w wie folgt:
 
@@ -178,23 +179,23 @@ e. Mit welchen besonderen Aufgaben werden die (zukünftigen) Stelleninhaber/-inn
 
 Die Tätigkeiten des zukünftigen Stelleninhabers/der zukünftigen Stelleninhaberin ergeben sich aus der Ausschreibung und bestehen im Wesentlichen in den folgenden Aufgaben:
 
- Allgemeine Orientierung und Unterstützung der Bewohnerinnen und Bewohner in
+– Allgemeine Orientierung und Unterstützung der Bewohnerinnen und Bewohner in
 
 ihrer besonderen Lebenslage,
 
- Durchführung von Erstgesprächen zur Orientierung in der Einrichtung und Klärung
+– Durchführung von Erstgesprächen zur Orientierung in der Einrichtung und Klärung
 
 der Bedarfe,
 
- Unterstützung bei Fragen zu der Zeit nach der Rückkehr ins Heimatland mit dem
+– Unterstützung bei Fragen zu der Zeit nach der Rückkehr ins Heimatland mit dem
 
 Ziel der Entwicklung einer Perspektive im Heimatland,
 
- Unterstützung bei der Kontaktaufnahme zur Familie,
+– Unterstützung bei der Kontaktaufnahme zur Familie,
 
- Unterstützung bei der Kontaktaufnahme und -pflege zu Behörden,
+– Unterstützung bei der Kontaktaufnahme und -pflege zu Behörden,
 
- Entwicklung von bedarfsorientierten Freizeitangeboten innerhalb der Einrichtung.
+– Entwicklung von bedarfsorientierten Freizeitangeboten innerhalb der Einrichtung.
 
 Im Übrigen ist ein reguläres Arbeitsverhältnis zwischen f & w und den zukünftigen Mitarbeitenden geplant.
 
@@ -202,23 +203,23 @@ f. Worin unterscheiden sich die Aufgaben der (zukünftigen) Stelleninhaber/-inne
 
 Zu den Tätigkeiten in der Rückführungseinrichtung siehe Antwort zu 5. d. und e. Die Mitarbeiterinnen und Mitarbeiter im Unterkunfts- und Sozialmanagement in Folgeeinrichtungen haben in Abgrenzung dazu folgende Aufgaben:
 
- Unterbringung der Bewohnerinnen und Bewohner im Zusammenwirken mit ande-
+– Unterbringung der Bewohnerinnen und Bewohner im Zusammenwirken mit ande-
 
 ren Abteilungen und externen Partnern,
 
- Motivierung, Aktivierung und Unterstützung der Bewohnerinnen und Bewohner im
+– Motivierung, Aktivierung und Unterstützung der Bewohnerinnen und Bewohner im
 
 Alltag,
 
- Förderung sozialer Akzeptanz,
+– Förderung sozialer Akzeptanz,
 
- sozialpädagogische Krisenintervention,
+– sozialpädagogische Krisenintervention,
 
- Ertragssicherung und Budgetverwaltung für die Unterkunft, Einnahme von Unter-
+– Ertragssicherung und Budgetverwaltung für die Unterkunft, Einnahme von Unter-
 
 kunftsgebühren und Kassenbuchführung,
 
- Sicherstellung der betrieblichen Abläufe und Qualitätsstandards.
+– Sicherstellung der betrieblichen Abläufe und Qualitätsstandards.
 
 Die Tätigkeiten des Unterkunfts- und Sozialmanagements orientieren sich an der Integration der Bewohnerinnen und Bewohner in Hamburg. Die Aufgaben in der Rückführungseinrichtung, die von Mitarbeiterinnen und Mitarbeitern des Sozialmanagements übernommen werden, stellen aus Sicht von f & w eine wichtige Unterstützung für die dort untergebrachten Personen zur Bewältigung ihrer aktuellen Situation dar. Die Mitarbeiterinnen und Mitarbeiter des Sozialmanagements unterstützen auch bei der Entwicklung einer Perspektive im Heimatland und bieten damit eine angemessene Begleitung für Ausreisepflichtige. f & w erfüllt damit einen Auftrag der Behörde für Inneres und Sport.
 

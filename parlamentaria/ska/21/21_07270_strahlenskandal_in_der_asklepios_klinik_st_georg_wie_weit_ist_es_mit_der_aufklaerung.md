@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/44"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55871"
@@ -53,6 +54,6 @@ Ist gegebenenfalls ein Gerichtsverfahren bereits abgeschlossen?
 
 Wie lautete das Urteil des Gerichts? Falls nein, wann ist mit Abschluss des Verfahrens zu rechnen beziehungsweise für wann sind die Verhandlungstage terminiert?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Entfällt.

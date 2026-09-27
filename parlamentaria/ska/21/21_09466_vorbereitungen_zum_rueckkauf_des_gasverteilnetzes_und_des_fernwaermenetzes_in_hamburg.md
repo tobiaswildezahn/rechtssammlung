@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 26
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14065", "20/10666", "20/11451", "20/11237", "21/3135", "21/6380", "21/7808", "21/3476", "21/5758"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58230"
@@ -53,7 +54,7 @@ Wann wird die Ausübung der Kaufoption für den Rückkauf des Hamburger Gasverte
 
 Zu welchem Zeitpunkt wird dieser Rückkauf rechtswirksam werden und wann soll er wirtschaftlich vollzogen werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Ausübung der Kaufoption kann gemäß der vertraglichen Regelungen zwischen HanseWerk AG (HW) und der HGV im Zeitraum vom 15. bis 30. Oktober 2017 durch schriftliche Erklärung der HGV gegenüber der HW erfolgen. Der Rückkauf wird mit Unterzeichnung des Kaufvertrags (Vollzug) wirtschaftlich und rechtlich zum 31. Dezember 2017/1. Januar 2018 wirksam. Frühestmöglicher Vollzugstag ist der 29. Dezember 2017.
 

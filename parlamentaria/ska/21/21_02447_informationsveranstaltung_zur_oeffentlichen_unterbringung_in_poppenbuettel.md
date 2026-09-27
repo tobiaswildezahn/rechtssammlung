@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50731"
@@ -45,7 +46,7 @@ War es die Absicht des Bezirksamtes Wandsbek, eine weitere Informationsveranstal
 
 Hat diese Informationsveranstaltung stattgefunden? Wenn ja, wann und wo? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es ist weiterhin vorgesehen, eine Informationsveranstaltung für die Unterkunft im Standard des sozialen Wohnungsbaus mit der Perspektive Wohnen am Poppenbüttler Berg/Ohlendiek durchzuführen. Erste Planungen sahen einen Termin vor dem Jahreswechsel vor (21./22. Dezember 2015), der aufgrund der ungünstigen Lage (wäh-
 

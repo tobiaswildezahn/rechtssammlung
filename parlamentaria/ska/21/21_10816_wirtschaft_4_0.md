@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10059", "20/9789"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59729"
@@ -117,7 +118,7 @@ Ende 2013 erklärte der Senat auf eine Schriftliche Kleine Anfrage (Drs. 20/9789
 
 Verfügt der Senat über genauer aufgeschlüsselte Informationen hinsichtlich der Verfügbarkeit von Breitbandanschlüssen als über den Breitbandatlas des BMVI einsehbar? Steht die zuständige Behörde der Freien und Hansestadt Hamburg bezüglich der erhobenen Daten der Breitbandmessung der Bundesnetzagentur mit dieser in Verbindung? Wenn ja, stellen die erhobenen Daten von Endverbrauchern in Zusammenhang mit deren Anbieter, der Soll- und Ist-Geschwindigkeit und der Postleitzahl einen Anhaltspunkt für Entscheidungen der Freien und Hansestadt Hamburg in Sachen Breitbandausbau dar? Wenn nein, warum greift der Senat nicht auf diese Daten zurück?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Im Rahmen von Breitbandförderverfahren erfolgt eine obligatorische Erhebung des Versorgungsstandes durch eine Abfrage bei den Netzbetreibern. Diese Erhebung wurde im Frühjahr 2016 von der zuständigen Behörde durchgeführt und ist Grundlage für das aktuelle Förderverfahren. Die Datenbasis umfasst das gesamte Stadtgebiet. Alle Angaben beruhen auf Auskünften der Netzbetreiber zur vorhandenen Infrastruktur und geben damit ein zum Zeitpunkt der Erhebung realistisches Bild der Leistungsfähigkeit des TK-Netzes in den fraglichen Gebieten wieder. Die Berücksichtigung weiterer Datenquellen ist für das Breitbandförderverfahren nicht erforderlich.
 

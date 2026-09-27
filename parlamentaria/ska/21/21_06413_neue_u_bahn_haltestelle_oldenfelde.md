@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13739", "21/5825", "21/1736", "20/14485"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54940"
@@ -67,15 +68,15 @@ Eine fachliche Begleitung der Veranstaltungen erfolgte durch das Bezirksamt Wand
 
 Anregungen und Wünsche der Bürgerinnen und Bürger wurden in der Planung berücksichtigt. Dies waren unter anderem:
 
- Bahndammbegrünung als Lärmschutz,
+– Bahndammbegrünung als Lärmschutz,
 
- die Gestaltung der die Haltestelle erschließenden Dammunterführung als 24 Stun-
+– die Gestaltung der die Haltestelle erschließenden Dammunterführung als 24 Stun-
 
 den geöffneter Durchgang und damit die Schaffung einer durchgängigen, stadtteilverbindenden Ost-West-Verbindung,
 
- Schaffung von Abstellkapazitäten für Fahrräder,
+– Schaffung von Abstellkapazitäten für Fahrräder,
 
- Bewahrung der vorhandenen Freiraumqualität im Bereich der Zuwegungen zur
+– Bewahrung der vorhandenen Freiraumqualität im Bereich der Zuwegungen zur
 
 Haltestelle.
 
@@ -105,11 +106,11 @@ Wie viele Fahrradstellplätze welcher Art (zum Beispiel Bügel, Boxen, Sammelsch
 
 Für die B+R-Anlage sind nach derzeitigem Stand insgesamt 125 Fahrradbügel (entspricht 250 Stellplätzen) vorgesehen, die sich wie folgt verteilen:
 
- 60 frei stehende Fahrradbügel
+– 60 frei stehende Fahrradbügel
 
- 50 überdachte Fahrradbügel
+– 50 überdachte Fahrradbügel
 
- 15 Fahrradbügel in einer Sammelschließanlage
+– 15 Fahrradbügel in einer Sammelschließanlage
 
 Die Planung erfolgte nach den Vorgaben des B+R Entwicklungskonzeptes (siehe Drs. 20/14485) in enger Zusammenarbeit mit der für Planung, Bau und Betrieb von B+R- Anlagen zuständigen P+R Betriebsgesellschaft mbH.
 
@@ -129,12 +130,12 @@ Wie stellt sich der geplante weitere Zeitplan bis zur Inbetriebnahme der neuen H
 
 Unter dem Vorbehalt einer rechtzeitigen Planfeststellung und der Vollziehbarkeit des Planfeststellungsbeschlusses stellt sich der Zeitplan wie folgt dar:
 
- Öffentliche Auslegung der Planfeststellungsunterlagen noch im Jahr 2016
+– Öffentliche Auslegung der Planfeststellungsunterlagen noch im Jahr 2016
 
- Der Planfeststellungsbeschluss wird für das Jahr 2017 angestrebt
+– Der Planfeststellungsbeschluss wird für das Jahr 2017 angestrebt
 
- Baubeginn im Frühjahr 2018
+– Baubeginn im Frühjahr 2018
 
- Bauliche Fertigstellung der Haltestelle im Herbst des Jahres 2019
+– Bauliche Fertigstellung der Haltestelle im Herbst des Jahres 2019
 
- Inbetriebnahme der Haltestelle zum Fahrplanwechsel im Dezember 2019
+– Inbetriebnahme der Haltestelle zum Fahrplanwechsel im Dezember 2019

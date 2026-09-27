@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/440", "21/11110"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61937"
@@ -57,15 +58,15 @@ Aus der Schriftlichen Kleinen Anfrage Drs. 21/440 ergibt sich, dass die Gutachte
 
 Eine psychiatrische Symptomatik steht einer Flugreisefähigkeit allgemein nicht entgegen. Der Psychiater wird um eine Stellungnahme gebeten
 
- wenn die Flugmedizinerin aufgrund der vorliegenden Informationen eine psychiat-
+– wenn die Flugmedizinerin aufgrund der vorliegenden Informationen eine psychiat-
 
 rische Stellungnahme für die Beurteilung der Flugreisetauglichkeit benötigt,
 
- wenn die betroffene Person sich zum Zeitpunkt der Beurteilung der Reisefähigkeit
+– wenn die betroffene Person sich zum Zeitpunkt der Beurteilung der Reisefähigkeit
 
 in einer psychiatrischen Klinik aufhält,
 
- wenn es sich um einen Dublin-Fall handelt und das Bundesamt ein psychiatrisches
+– wenn es sich um einen Dublin-Fall handelt und das Bundesamt ein psychiatrisches
 
 Gutachten erbeten hat.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56194"
@@ -212,7 +213,7 @@ Auf welchen Stellen mit Verwaltungsaufgaben sind Polizeivollzugsbeamtinnen bezie
 
 Aus welchen Bereichen mit Verwaltungsaufgaben sollen die 125 Kräfte in den Polizeivollzugsdienst zurückgeführt werden? Bitte detailliert aufschlüsseln.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die BIS prüft das Themenfeld „Polizeivollzugskräfte in Verwaltungsaufgaben“. Veränderungen sollen hierbei unter Nutzung der gegebenen Fluktuation des Personals im Rahmen von Pensionierungen und ohnehin erfolgenden Umsetzungen erfolgen. Vorgesehen sind daher jährliche Prüfungen infrage kommender Funktionen. Hierbei wird insbesondere untersucht, inwieweit auf Funktionen in den Bereichen Verwaltung und Technik, Personal, Justiziariat, Akademie und Informationstechnik Verwaltungsaufgaben wahrgenommen werden, für deren Tätigkeit der Einsatz von Polizeivollzugsbediensteten nicht zwingend erforderlich ist und Personal anderer beruflicher Qualifikation absehbar gewonnen werden kann. Auch weitere Organisationseinheiten sollen betrachtet werden. Bis zum Jahr 2021 sollen so jährlich 25 frei werdende Stellen identifiziert werden (insgesamt 125 Stellen in fünf Jahren), die nicht durch Vollzugskräfte nachbesetzt werden, sodass der Vollzug strukturell gegenüber dem jetzigen Stand um diese Größenordnung verstärkt werden kann. Für das Jahr 2017 geht die BIS aktuell von 25 – 30 Verwaltungsstellen aus, für die die Besetzung durch Polizeivollzugsbedienstete in Zukunft nicht erforderlich ist. Die abschließende Entscheidung über die betreffenden Stellen beziehungsweise Aufgaben soll zeitnah erfolgen.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13830", "21/13467", "21/12135", "21/11835", "21/10466", "21/10492"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63305"
@@ -61,7 +62,7 @@ Auf welcher Grundlage wurde wann und von wem die Prognose des Personalbestands b
 
 Wie rechtfertigt der Senat beziehungsweise die zuständige Behörde einen Rückgang der Vollkräfte des Geschäftsstellenpersonals bei den Gerichten und Staatsanwaltschaften um 339 bis zum Jahr 2025?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

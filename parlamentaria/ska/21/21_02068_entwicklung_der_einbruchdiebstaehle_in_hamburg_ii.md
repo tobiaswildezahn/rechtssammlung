@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/504", "16/4616"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50315"
@@ -73,6 +74,6 @@ Wie haben sich die Zahlen der Einbruchdiebstähle in den ersten drei Quartalen u
 
 Wie hat sich die Aufklärungsquote jeweils entwickelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zu den Fallzahlen und Aufklärungsquoten für die Zeiträume Januar bis März 2015, Januar bis Juni 2015 und Januar bis September 2015 siehe Anlage. Darüber hinaus siehe Vorbemerkung.

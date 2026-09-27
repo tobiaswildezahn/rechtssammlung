@@ -10,12 +10,13 @@ urheber: ["Dennis Thering"]
 fraktionen: ["CDU"]
 vorgang: 63523
 seiten: 2
-fragen: 0
-einzelfragen: 0
-antwortbloecke: 0
+fragen: 1
+einzelfragen: 3
+antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69800"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/69800/21_20040_polizei_warnt_vor_einbrecherbanden_entwicklung_der_wohnungseinbrueche_im_alstertal_und_in_den_walddoerfern"
 abgerufen: "2026-09-25"
@@ -27,15 +28,19 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Dennis Thering (CDU) vom 03.02.20 und Antwort des Senats · Drucksache vom 11.02.2020  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/69800) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/69800/21_20040_polizei_warnt_vor_einbrecherbanden_entwicklung_der_wohnungseinbrueche_im_alstertal_und_in_den_walddoerfern)
 
-## Volltext
-
-Polizei warnt vor Einbrecherbanden – Entwicklung der Wohnungseinbrüche im Alstertal und in den Walddörfern
+## Einleitung für die Fragen
 
 Das „Hamburger Abendblatt“ berichtet in seiner Ausgabe vom 31. Januar 2020 von Einbrecherbanden, die wieder vermehrt zuschlagen. Demzufolge soll es Ende Januar schon 62,5 Prozent mehr Taten als vor einem Jahr gegeben haben. Die Polizei gehe davon aus, dass derzeit gleich mehrere Banden aus Südamerika und Südosteuropa in Hamburg auf Einbruchstour gehen.
 
 Vor diesem Hintergrund frage ich den Senat:
 
+## Fragen und Antworten
+
+### Frage 1
+
 Wie hat sich die Anzahl der registrierten Wohnungseinbrüche (PKS 435*) im Januar 2020 gegenüber der Anzahl der Wohnungseinbrüche im Januar 2019 im Alstertal und in den Walddörfern entwickelt? Wie viele Taten wurden in jeweils welchen Stadtteilen begangen? Wie stellt sich die Aufklärungsquote in den einzelnen Stadtteilen dar?
+
+#### Antwort zu Frage 1
 
 Die Wohnungseinbruchszahlen im Jahr 2019 sind erneut zurückgegangen. Der Rückgang gegenüber dem Vorjahr betrug 6,3 Prozent, die Fallzahl ist auf 4 313 Taten zurückgegangen.
 

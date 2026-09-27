@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63349"
@@ -61,7 +62,7 @@ Wurden die von der Nationalen Stelle zur Verhütung von Folter angeforderten Dat
 
 Falls die Lieferung erfolgt ist, wurden die Daten von der Nationalen Stelle diesmal akzeptiert oder gab es von dort gegebenenfalls erneut Beanstandungen hinsichtlich der Validität oder wurde von dort nunmehr eine ausreichende Validität bestätigt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

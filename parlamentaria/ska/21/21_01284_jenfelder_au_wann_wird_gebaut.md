@@ -11,9 +11,10 @@ fraktionen: ["Die Linke"]
 vorgang: 45212
 seiten: 2
 fragen: 10
-einzelfragen: 12
-antwortbloecke: 10
+einzelfragen: 13
+antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1169"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49474"
@@ -70,26 +71,40 @@ Bundesprüfungsamt 0,3 ha.
 ### Frage 3
 
 In der Anlage 1 zur Drs. 21/1169 werden die Baufelder 16 – 19 mit „Anhandgabe in Vorbereitung“ bezeichnet.
-3.1. Was wird für die einzelnen Baufelder geplant?
-3.2. Wann soll die Anhandgabe jeweils vertraglich vereinbart werden?
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+Was wird für die einzelnen Baufelder geplant?
+
+### Frage 3.2
+
+Wann soll die Anhandgabe jeweils vertraglich vereinbart werden?
+
+#### Antwort zu Fragen 3, 3.1 und 3.2
 
 Die Planungen durch die Investoren sind noch nicht abgeschlossen und werden während der Anhandgabe weiter konkretisiert. Die Bedingungen der Anhandgaben sollen nach abschließender Verhandlung mit dem Investoren und Befassung der Kommission für Bodenordnung sobald wie möglich unterzeichnet werden. Ein konkreter Zeitpunkt hierfür steht noch nicht fest.
 
-3.3. Welche Fristen sind jeweils vorgesehen?
+### Frage 3.3
 
-Bitte die Antwort beziehungsweise Daten für jedes Baufeld einzeln angeben.
+Welche Fristen sind jeweils vorgesehen? Bitte die Antwort beziehungsweise Daten für jedes Baufeld einzeln angeben.
+
+#### Antwort zu Frage 3.3
 
 Für die Baufelder 16 – 19 wird von einem Anhandgabezeitraum von sechs bis neun Monaten nach Beschlussfassung durch die Kommission für Bodenordnung ausgegangen.
 
 ### Frage 4
 
 In der Anlage 1 zur Drs. 21/1169 wird für die Baufelder 11, 11 a + b, 13, 14, 20, 21, 22 und 23 „Vergabe in Planung für 2016“ mitgeteilt.
-4.1. Welche Annahmen liegen dieser Aussage zugrunde?
-4.2. Geht der Senat davon aus, dass die Baufelder im Jahre 2016 tatsächlich verkauft werden?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+Welche Annahmen liegen dieser Aussage zugrunde?
+
+### Frage 4.2
+
+Geht der Senat davon aus, dass die Baufelder im Jahre 2016 tatsächlich verkauft werden?
+
+#### Antwort zu Fragen 4, 4.1 und 4.2
 
 Die Hochbaureife für den östlichen Bereich soll 2016 hergestellt werden und der Verkauf der Flächen anschließend sobald wie möglich erfolgen. Im Übrigen sind die Planungen noch nicht abgeschlossen. Der Senat geht davon aus, dass die Vermarktung der Flächen in Abstimmung zum Erschließungsfortschritt erfolgen kann.
 

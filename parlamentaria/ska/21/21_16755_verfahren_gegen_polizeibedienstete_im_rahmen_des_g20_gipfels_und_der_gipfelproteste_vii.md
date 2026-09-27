@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12897", "21/11642", "21/12987", "21/15665", "21/14624"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66306"
@@ -147,7 +148,7 @@ Wie viele der vom DIE beziehungsweise der Staatsanwaltschaft gegen Polizeibedien
 
 Wie viele der vom DIE beziehungsweise der Staatsanwaltschaft gegen Polizeibedienstete geführten Ermittlungsverfahren wurden bis zum aktuellen Zeitpunkt auf welcher Rechtsgrundlage und aus welchen Gründen eingestellt? Bitte die Tabelle aus Drs. 21/12897 entsprechend aktualisieren und ergänzen.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 In Fortführung der Tabelle in Drs. 21/15665 werden folgende weitere Verfahrenseinstellungen mitgeteilt:
 
@@ -223,7 +224,7 @@ Sind im Falle der Einstellungen nach § 170 Absatz 2 StPO Einstellungsmitteilung
 
 Sind im Falle der Einstellung nach § 170 Absatz 2 StPO Einstellungsmitteilungen an die Geschädigten versandt worden? Wenn ja, wie viele? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Drs. 21/14624.
 

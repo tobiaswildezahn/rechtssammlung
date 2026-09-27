@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6180"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54773"
@@ -51,7 +52,7 @@ Zu welcher Zeit und für welche Orte waren die Passantenbefragungen vom Senat be
 
 Zu welcher Zeit und an welchen Orten waren Vertreter der Behörden tatsächlich anwesend, um Meinungen von Bürgern einzuholen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Befragungen fanden zu folgenden Zeiten und Orten statt:
 

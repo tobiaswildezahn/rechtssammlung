@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52462"
@@ -101,31 +102,31 @@ http://www.schleswig-holstein.de/DE/Fachinhalte/B/busundbahn_oepnv/Downloads/ 09
 
 Darüber hinaus sind folgende Gutachten, Studien und Untersuchungen erstellt worden:
 
- DE-Consult/AUCTOR/BVU – Schienenanbindung des Flughafens Fuhlsbüttel an
+– DE-Consult/AUCTOR/BVU – Schienenanbindung des Flughafens Fuhlsbüttel an
 
 das Land Schleswig-Holstein, im Auftrag des Ministeriums für Wirtschaft, Technik und Verkehr des Landes Schleswig-Holstein (1990),
 
- Intraplan Consult GmbH – Verbesserung der Verkehrsanbindung der Landes-
+– Intraplan Consult GmbH – Verbesserung der Verkehrsanbindung der Landes-
 
 hauptstadt Kiel an den Flughafen Hamburg, im Auftrag der Schleswig-Holstein Landesweite Verkehrsservicegesellschaft mbH (LVS), 2001,
 
- Dr. Holger Busche – „Der Flugzug – PRO BAHN Konzept zur Anbindung des Flug-
+– Dr. Holger Busche – „Der Flugzug – PRO BAHN Konzept zur Anbindung des Flug-
 
 hafens Hamburg-Fuhlsbüttel an das Schienennetz Schleswig-Holstein als Verbesserung der Verbindungen zwischen der KERN-Region, dem südlichen Kreis Segeberg und der Freien und Hansestadt Hamburg“, Kiel (2002),
 
- Schienenflieger KG – „Der Schienenflieger auf der Zentralachse“, Projektentwurf
+– Schienenflieger KG – „Der Schienenflieger auf der Zentralachse“, Projektentwurf
 
 (2005),
 
- Jochen Müller – Schnellbahnkorridor Kiel – Hamburg, Diplomarbeit im Fach Ver-
+– Jochen Müller – Schnellbahnkorridor Kiel – Hamburg, Diplomarbeit im Fach Ver-
 
 kehrswesen der Fachhochschule Kiel (2004),
 
- Henrik Stern – Nördliche Schienenanbindung des Hamburg Airport, Studienarbeit
+– Henrik Stern – Nördliche Schienenanbindung des Hamburg Airport, Studienarbeit
 
 an der TUHH, (2005) (im Folgenden „Studienarbeit Stern“ genannt) und
 
- Martin Clausing – Untersuchung zur Einrichtung einer Schnellbahnverbindung auf
+– Martin Clausing – Untersuchung zur Einrichtung einer Schnellbahnverbindung auf
 
 der Trasse Kiel – Norderstedt – Hamburg Airport – Hamburg Hbf, im Auftrag der LVS (2005).
 

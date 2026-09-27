@@ -13,9 +13,10 @@ seiten: 1
 fragen: 0
 einzelfragen: 0
 antwortbloecke: 0
-beantwortet: true
+beantwortet: false
+status: "zurückgezogen"
 zitierte_drucksachen: []
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48854"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/48854/21_00700_stadtteilschule_am_hafen_waechst_zusammen_was_zusammen_gehoert"
 abgerufen: "2026-09-27"
@@ -24,11 +25,9 @@ generator: "ska_archiv 1.0"
 
 # Drs. 21/700: Stadtteilschule am Hafen – Wächst zusammen, was zusammen gehört?
 
-> Schriftliche Kleine Anfrage der Abgeordneten Karin Prien (CDU) vom 05.06.15 und Antwort des Senats · Drucksache vom 05.06.2015  
+> Schriftliche Kleine Anfrage der Abgeordneten Karin Prien (CDU) vom 05.06.15 · zurückgezogen · Drucksache vom 05.06.2015  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/48854) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/48854/21_00700_stadtteilschule_am_hafen_waechst_zusammen_was_zusammen_gehoert)
 
-## Volltext
-
-Stadtteilschule am Hafen – Wächst zusammen, was zusammen gehört?
+## Hinweis
 
 Die Anfrage wurde zurückgezogen.

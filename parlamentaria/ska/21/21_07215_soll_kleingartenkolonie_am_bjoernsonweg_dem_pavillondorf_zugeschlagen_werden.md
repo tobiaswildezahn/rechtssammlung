@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55801"
@@ -57,7 +58,7 @@ Ist eine Neuvermietung der Parzellen geplant?
 
 Zu wann werden die Flächen neu vermietet?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Soweit Kündigungen mit Wirkung zum 31. Dezember 2016 ausgesprochen wurden, sollen die Parzellen im Verlauf des nächsten Jahres neu verpachtet werden.
 

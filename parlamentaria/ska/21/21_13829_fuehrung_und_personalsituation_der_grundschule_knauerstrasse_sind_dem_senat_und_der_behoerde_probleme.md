@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 26
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13519"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63323"
@@ -106,7 +107,7 @@ Wenn nein, warum nicht?
 
 Welche Kriterien führten zu der Auswahl xxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Bereits seit dem letzten Schuljahr ist bekannt, dass die Schule wegen Personalüberhang eine Person umsetzen muss. Gemeinsam mit dem Personalrat hat die Schule Kriterien entwickelt, mit deren Hilfe eine Person auszuwählen war. Folgende Auswahlkriterien wurden verabredet: Die Person sollte keine Klassenleitungsfunktion innehaben, keinen Unterricht in einem Mangelfach erteilen und es sollten keine Aus-
 
@@ -164,7 +165,7 @@ Wie ist der Stand des Findungsverfahrens für die Neubesetzung der Stelle des st
 
 Mai 2018 im Amt ist, beteiligt? Wenn ja, welches Votum hat dieser zur Stellenbesetzung abgegeben? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Die Deputation der Behörde für Schule und Berufsbildung hat am 4. Juli 2018 der vorläufigen Einsetzung des im Findungsverfahren am 31. Mai 2018 ausgewählten Kandidaten zugestimmt. Zur Beteiligung des Personalrats siehe Drs. 21/13519.
 

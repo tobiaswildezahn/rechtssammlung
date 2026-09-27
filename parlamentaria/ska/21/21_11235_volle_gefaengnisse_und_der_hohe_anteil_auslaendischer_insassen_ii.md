@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10838", "21/10109", "21/1802"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60222"
@@ -57,7 +58,7 @@ Wie haben sich Anzahl und Anteil der ausländischen Untersuchungshaft-, Straf- u
 
 Sollten die ausländischen Gefangenen viele unterschiedliche Staatsbürgerschaften besitzen, unter denen auch noch „seltene“ sind, ist die Möglichkeit des Videodolmetschens umso wichtiger. Welche Staatsbürgerschaft haben die unter 1. genannten ausländischen Gefangenen jeweils?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Stichtag: 01.09.2017
 

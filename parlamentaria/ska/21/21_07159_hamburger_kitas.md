@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5307"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55768"
@@ -67,7 +68,7 @@ Wie viel soll das eigens erstellte System kosten?
 
 Werden erneute Verhandlungen mit den Kita-Trägern zu diesem Thema in Erwägung gezogen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Planungen hierzu sind noch nicht abgeschlossen.
 

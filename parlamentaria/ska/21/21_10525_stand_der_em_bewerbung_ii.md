@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10422"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59409"
@@ -63,7 +64,7 @@ Wer führt denn überhaupt die Vertragsverhandlungen (beispielsweise über die H
 
 Fielen bereits Kosten für die nationale Bewerbung beim DFB an?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/10422.
 
@@ -75,7 +76,7 @@ Warum glaubt der Senat, er werde die Host-City-Verträge abschließen, ohne bish
 
 Wer verhandelt denn aktuell mit der UEFA über die Host-City-Verträge, der Bund, der DFB oder der Senat?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 

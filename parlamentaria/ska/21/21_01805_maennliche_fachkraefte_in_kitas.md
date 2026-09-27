@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11665", "20/9035"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50023"
@@ -62,7 +63,7 @@ Wie hat sich der Anteil männlicher pädagogischer Fachkräfte in den Hamburger 
 
 Wie hoch ist das Durchschnittsalter männlicher pädagogischer Fachkräfte in den Hamburger Kindertagesstätten im Jahre 2015 (Stichtag 1. September 2015)?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Kinder- und Jugendhilfestatistik wird einmal jährlich zum Stichtag 1. März erhoben.
 

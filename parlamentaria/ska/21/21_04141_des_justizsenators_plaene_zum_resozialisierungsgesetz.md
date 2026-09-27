@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4093", "20/10512"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52528"
@@ -45,7 +46,7 @@ Wie ist der aktuelle Sachstand zum Entwurf des Resozialisierungsgesetzes?
 
 Welche Grundzüge sind darin konkret verankert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Landesresozialisierungsgesetz wird derzeit federführend von der Justizbehörde (JB) in Abstimmung mit der Behörde für Arbeit, Soziales, Familie und Integration (BASFI) in einer behördenübergreifenden Arbeitsgruppe erstellt. Am 6.6.2016 werden die Präsides beider Behörden erste Überlegungen hierzu der Fachöffentlichkeit im Rahmen einer gemeinsamen Fachtagung vorstellen. Darüber hinaus sind die Planungen noch nicht abgeschlossen.
 

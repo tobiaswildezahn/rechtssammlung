@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 61955
 seiten: 5
 fragen: 3
-einzelfragen: 3
-antwortbloecke: 3
+einzelfragen: 22
+antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18106", "21/7805", "21/9255", "21/8842"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67897"
@@ -38,19 +39,30 @@ Ich frage den Senat:
 ### Frage 1
 
 Neuorganisation Kundenzentren
-1.1. Wann genau wurde durch wen das Projekt aus welchen Gründen nochmals um ein Jahr bis zum 31.12.2020 verlängert?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Wann genau wurde durch wen das Projekt aus welchen Gründen nochmals um ein Jahr bis zum 31.12.2020 verlängert?
+
+#### Antwort zu Fragen 1 und 1.1
 
 Am 15. Februar 2019 wurde das Projekt zur schnellen Lösung der Warte- und Erteilungssituation in den bezirklichen Ausländerdienststellen vom Senator und der Staatsrätin für Finanzen und Bezirke in Abstimmung mit den Bezirksamtsleitungen verlängert. Ursächlich hierfür war die Möglichkeit der Übertragung der Erfahrungen aus der vorübergehenden Einrichtung einer Kundendienststelle in Meiendorf im Bereich der Einwohnerämter. Dieses Verfahren sollte als Ad-hoc-Maßnahme im Sinne der Drs. 21/7805 zur Optimierung der Situation in den Ausländerdienststellen genutzt werden, bis die strategische Neuausrichtung Wirkung zeigt.
 
-1.2. Die für dieses Projekt abgeschlossene §93-Vereinbarung sah für Anfang 2019 eine Evaluation des Projekts vor. Wann hat eine Evaluation mit welchen Ergebnissen im Einzelnen stattgefunden?
+### Frage 1.2
+
+Die für dieses Projekt abgeschlossene §93-Vereinbarung sah für Anfang 2019 eine Evaluation des Projekts vor. Wann hat eine Evaluation mit welchen Ergebnissen im Einzelnen stattgefunden?
+
+#### Antwort zu Frage 1.2
 
 Innerhalb der §93-Vereinbarung wurde eine mehrstufige Evaluation der Umstellung vereinbart. Im Rahmen dieser Evaluation erfolgt eine Mitarbeiterinnen- und Mitarbeiterbefragung. Diese Befragung ist für September 2019 geplant. Darauf aufbauend finden bezirkliche und bezirksübergreifende Workshops für Mitarbeiterinnen und Mitarbeiter sowie für Leitungskräfte statt.
 
 Die §93-Vereinbarung wird dafür bis Mitte 2020 verlängert. Die Evaluationsergebnisse werden im 1. Quartal 2020 ermittelt.
 
-1.3. Wie setzen sich die in 2019 geplanten Sachkosten von 3,075 Millionen Euro im Einzelnen zusammen?
+### Frage 1.3
+
+Wie setzen sich die in 2019 geplanten Sachkosten von 3,075 Millionen Euro im Einzelnen zusammen?
+
+#### Antwort zu Frage 1.3
 
 In Drs. 21/18106 wurden als voraussichtlich im laufenden Jahr anfallende Personalund Sachkosten für das Projekt Neuorganisation der Kundenzentren (KuZ) 4 875 000 Euro angegeben. Allerdings wurden dabei insbesondere keine aktuellen Personalkostenverrechnungssätze zugrunde gelegt und die Auswirkungen der testweisen Samstagsarbeit nicht miteinbezogen. Nach der aktualisierten Prognose werden Kosten in Höhe von 5 333 000 Euro erwartet.
 
@@ -64,32 +76,49 @@ Im Jahr 2018 betrug die Personalkostenerstattung für Unterstützungskräfte 367
 
 Die Position Sachkosten setzt sich zusammen aus: Online-Termin-Management: 300 000 Euro, Einrichtung Datenbank für Verpflichtungserklärungen: 50 000 Euro, erweiterte IT- und IT-Service-Kosten Einwohnerwesen allgemein: 400 000 Euro, Aus-, Fort- und Weiterbildung: 120 000 Euro, Büromaterial und Ausstattung: 50 000 Euro, Betrieb mobile Kundenzentren: 40 000 Euro, Zusatzausstattung und Wachdienst Samstagsöffnung: 35 000 Euro. Für das Projekt KuZ ergibt sich daraus ein Sachkostenprognosewert 2019 von 995 000 Euro.
 
-1.4. Das Projekt und die dafür geplanten Haushaltsmittel wurden mit der Drs. 21/9255 und der Einführung der Produktgruppe 279.09 mit einer klaren Zielsetzung im Haushaltsplan eindeutig festgelegt. Inwiefern ist die 2019 erfolgte Erweiterung des Projekts auf weitere bezirkliche Aufgaben haushaltsrechtlich zulässig?
+### Frage 1.4
+
+Das Projekt und die dafür geplanten Haushaltsmittel wurden mit der Drs. 21/9255 und der Einführung der Produktgruppe 279.09 mit einer klaren Zielsetzung im Haushaltsplan eindeutig festgelegt. Inwiefern ist die 2019 erfolgte Erweiterung des Projekts auf weitere bezirkliche Aufgaben haushaltsrechtlich zulässig?
+
+#### Antwort zu Frage 1.4
 
 Gemäß der Erläuterung zum Ergebnisplan der Produktgruppe ist es Ziel des Projektes, eine effiziente und moderne Kundenzentrumsstruktur für das Melde- und Ausweiswesen in Hamburg zu schaffen und das Ersuchen der Bürgerschaft in Drs. 21/7805 umzusetzen. Mit der Drs. 21/7805 wurde der Senat unter anderem auch ersucht, für die Bezirksämter im Rahmen eigener Organisationsentscheidungen ortsangepasste Übergangslösungen oder andere flankierende, gegebenenfalls temporäre Maßnahmen zuzulassen, sofern infolge der Neustrukturierung einzelne Veränderungen, Verlagerungen oder Zusammenlegungen von Standorten notwendig werden. Dazu gehören im Meldewesen insbesondere auch Ad-hoc-Maßnahmen im Bereich Ausländerwesen.
 
 ### Frage 2
 
 Neues Forderungsmanagement
-2.1. Warum genau wird dieses Projekt in Veröffentlichungen der Kasse.Hamburg abweichend von den Angaben in der Drs. 21/18106 als Projekt „Neuorganisation Forderungsmanagement und Zentralkassenwesen in Hamburg“ bezeichnet?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Warum genau wird dieses Projekt in Veröffentlichungen der Kasse.Hamburg abweichend von den Angaben in der Drs. 21/18106 als Projekt „Neuorganisation Forderungsmanagement und Zentralkassenwesen in Hamburg“ bezeichnet?
+
+#### Antwort zu Fragen 2 und 2.1
 
 Die Bezeichnung des Projektes lautet vollständig „Neuorganisation Forderungsmanagement, Zentralkassenwesen Hamburg und Task Force UVG“ (NFZ).
 
 Während sich das Teilprojekt „Modernisierung des Forderungsmanagements“ innerhalb des Projektes „Weiterentwicklung der Digitalen Verwaltung und des Digitalen Haushalts – ERP 4.0“ der prozessualen und technischen Optimierung des bestehenden Vollstreckungswesens in der Kasse.Hamburg widmet, werden in dem Projekt NFZ zwei andere Hauptstränge verfolgt. Zum einen sollen Prüfaufträge und Umsetzungsvorschläge für Optimierungen im Bereich des Forderungsmanagements und des Kassenwesens in der Freien und Hansestadt Hamburg erstellt werden und zum anderen soll die Rückholquote im Unterhaltsvorschussbereich durch den Einsatz einer Task Force und der Optimierung von Technik und Prozessen erreicht werden.
 
-2.2. Wird im Rahmen des Projektes eine vollständige oder teilweise Zusammenlegung der Zentral- und Landeshauptkasse mit Aufgaben der Steuerkasse und/oder der Justizkasse geprüft oder erwogen?
+### Frage 2.2
 
-Wenn ja, warum und auf welcher Basis? In welcher Form sind die anderen Kassen-Dienststellen der Freien und Hansestadt Hamburg am Projekt beteiligt?
+Wird im Rahmen des Projektes eine vollständige oder teilweise Zusammenlegung der Zentral- und Landeshauptkasse mit Aufgaben der Steuerkasse und/oder der Justizkasse geprüft oder erwogen? Wenn ja, warum und auf welcher Basis? In welcher Form sind die anderen Kassen-Dienststellen der Freien und Hansestadt Hamburg am Projekt beteiligt?
+
+#### Antwort zu Frage 2.2
 
 Mit der Änderung des Bundesgesetzes über die Finanzverwaltung im Jahre 2016 wurde die Möglichkeit der Zusammenlegung geschaffen. Verschiedene Kassen, Vollstreckungseinheiten und ein nicht einheitliches Forderungsmanagement begründen zunächst den Bedarf, die aktuelle Organisationsform zu prüfen, um dann gegebenenfalls eine Organisationsoptimierung zu empfehlen und zu erarbeiten. Die anderen Kassen werden nach der Vorbereitungsphase einbezogen.
 
-2.3. Wann soll der Aufbau der Taskforce zum Unterhaltsvorschussgesetz (UVG) abgeschlossen sein?
+### Frage 2.3
+
+Wann soll der Aufbau der Taskforce zum Unterhaltsvorschussgesetz (UVG) abgeschlossen sein?
+
+#### Antwort zu Frage 2.3
 
 Der Aufbau wird voraussichtlich im 1. Quartal 2020 abgeschlossen sein.
 
-2.4. Bis wann soll die Rückholquote beim UVG auf 15 Prozent erhöht werden? Wie hat sich die Rückholquote in den einzelnen Jahren seit 2016 entwickelt?
+### Frage 2.4
+
+Bis wann soll die Rückholquote beim UVG auf 15 Prozent erhöht werden? Wie hat sich die Rückholquote in den einzelnen Jahren seit 2016 entwickelt?
+
+#### Antwort zu Frage 2.4
 
 Aufgaben des Teilprojektes sind der Aufbau einer Task Force sowie die Optimierung von Arbeitsprozessen und der eingesetzten Technik. Dies stellt die Grundlage für einen Anstieg der Rückholquote bis zum Projektende 2020 dar. Im Projektverlauf wird sich unter Würdigung der Gesamtumstände eine Annäherung an den Zielwert bis Ende 2020 ergeben. Ob und wann dieser Wert erreicht wird, ist dabei auch von externen Faktoren abhängig.
 
@@ -98,9 +127,12 @@ Die Rückholquote hat sich wie folgt entwickelt: 2016 = 8,6 Prozent, 2017 = 7,0 
 ### Frage 3
 
 ERP 4.0
-3.1. Welche Teilprojekte sind innerhalb dieses Projektes eingerichtet oder geplant und wie ist jeweils die Zeitplanung sowie das Budget für die einzelnen Teilprojekte?
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+Welche Teilprojekte sind innerhalb dieses Projektes eingerichtet oder geplant und wie ist jeweils die Zeitplanung sowie das Budget für die einzelnen Teilprojekte?
+
+#### Antwort zu Fragen 3 und 3.1
 
 Name des Teilprojekts Zeitrahmen Budget in Mio. EUR
 
@@ -145,7 +177,11 @@ Personalkosten 10,8
 
 Gesamt 58,7
 
-3.2. In jeweils welcher Höhe sind seit Beschlussfassung der Drs. 21/8842 für die darin genannten Themenfelder und Projekte jeweils Haushaltsmittel aufgewendet worden?
+### Frage 3.2
+
+In jeweils welcher Höhe sind seit Beschlussfassung der Drs. 21/8842 für die darin genannten Themenfelder und Projekte jeweils Haushaltsmittel aufgewendet worden?
+
+#### Antwort zu Frage 3.2
 
 Teilprojekte
 
@@ -171,11 +207,19 @@ Davon investiv 2 932
 
 Davon konsumtiv 2 566
 
-3.3. Warum genau muss die Kasse.Hamburg für dieses Projekt 4,4 Millionen Euro an Eigenmitteln einsetzten? Wie und wann wurden von der Kasse.Hamburg diese Eigenmittel erwirtschaftet?
+### Frage 3.3
+
+Warum genau muss die Kasse.Hamburg für dieses Projekt 4,4 Millionen Euro an Eigenmitteln einsetzten? Wie und wann wurden von der Kasse.Hamburg diese Eigenmittel erwirtschaftet?
+
+#### Antwort zu Frage 3.3
 
 Die Deckung erfolgt aus der Kapitalrücklage der K.HH. Es handelt sich um nicht verbrauchte Eigenmittel mehrerer Vorjahre, die zur Absicherung der Risiken aus dem agilen Projektgeschäft des Landesbetriebs als zweckgebundene Rücklage eingestellt wurden.
 
-3.4. Wie ist der voraussichtliche Mittelabfluss des Gesamtbudgets von 58,7 Millionen Euro in den einzelnen Jahren bis 2025?
+### Frage 3.4
+
+Wie ist der voraussichtliche Mittelabfluss des Gesamtbudgets von 58,7 Millionen Euro in den einzelnen Jahren bis 2025?
+
+#### Antwort zu Frage 3.4
 
 ERP-System  
 Jahr  
@@ -292,18 +336,18 @@ in Tsd. EUR
 1 800  
 1 800
 
-3.5. Wurde die Projekteinsetzung zertifiziert?
+### Frage 3.5
 
-Wenn ja, wann genau?
+Wurde die Projekteinsetzung zertifiziert? Wenn ja, wann genau? Wenn nein, warum nicht?
 
-Wenn nein, warum nicht?
+#### Antwort zu Frage 3.5
 
 Ja, die Zertifizierung erfolgte am 3. Mai 2019.
 
-3.6. Gibt es für dieses Projekt eine Lenkungsgruppe oder Ähnliches?
+### Frage 3.6
 
-Wenn ja, mit welchen Beteiligten in welcher Funktion?
+Gibt es für dieses Projekt eine Lenkungsgruppe oder Ähnliches? Wenn ja, mit welchen Beteiligten in welcher Funktion? Wenn nein, warum nicht?
 
-Wenn nein, warum nicht?
+#### Antwort zu Frage 3.6
 
 Die Lenkungsgruppe wird von der Staatsrätin für Finanzen und Bezirke geleitet. Die weiteren Mitglieder der Lenkungsgruppe sind der Chef der Senatskanzlei, der Leiter des Amtes für Haushalt und Aufgabenplanung in der Finanzbehörde, der Chief Digital Officer des Amtes für IT und Digitalisierung in der Senatskanzlei, der Geschäftsführer der K.HH (beratend) sowie Partner nach § 93 Hamburgisches Personalvertretungsgesetz (beratend).

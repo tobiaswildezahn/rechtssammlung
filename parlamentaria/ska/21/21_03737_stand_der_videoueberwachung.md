@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52106"
@@ -43,27 +44,27 @@ Wie viele Kameras mit jeweils welcher Bildauflösung und welcher Brennweite sind
 
 Die Polizei verfügt über elf Kameras an folgenden Standorten:
 
- Reeperbahn/Große Freiheit/Beatlesplatz
+– Reeperbahn/Große Freiheit/Beatlesplatz
 
- Reeperbahn/Talstraße
+– Reeperbahn/Talstraße
 
- Reeperbahn (Nebenfahrbahn)/Höhe Hans-Albers-Platz
+– Reeperbahn (Nebenfahrbahn)/Höhe Hans-Albers-Platz
 
- Reeperbahn/Hamburger Berg
+– Reeperbahn/Hamburger Berg
 
- Reeperbahn/Hein-Hoyer-Straße
+– Reeperbahn/Hein-Hoyer-Straße
 
- Spielbudenplatz 24/Davidstraße
+– Spielbudenplatz 24/Davidstraße
 
- Reeperbahn/Detlev-Bremer-Straße
+– Reeperbahn/Detlev-Bremer-Straße
 
- Spielbudenplatz/Taubenstraße
+– Spielbudenplatz/Taubenstraße
 
- Spielbudenplatz 5/Beim Trichter
+– Spielbudenplatz 5/Beim Trichter
 
- Reeperbahn/Zugang Kleine Seilerstraße (gegenüber Beim Trichter)
+– Reeperbahn/Zugang Kleine Seilerstraße (gegenüber Beim Trichter)
 
- Reeperbahn/Beim Trichter
+– Reeperbahn/Beim Trichter
 
 Die Kameras sind mit einem Zoomobjektiv (Brennweite 8 – 120 mm) versehen; die Bildauflösung beträgt 752 x 582 Pixel.
 
@@ -75,7 +76,7 @@ Wie gelangen die Daten zum Betrachter beziehungsweise Auswerter?
 
 Wie werden die Kameras gesteuert und wie werden die Daten verteilt und bearbeitet?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die elf Kameras sind über Kabel mit dem Polizeikommissariat (PK) 15 und von dort mit dem Videomanagementsystem der zuständigen Dienststelle für Informationstechnik der Polizei (IT 42) verbunden. Über das Videomanagementsystem erfolgen die
 
@@ -101,11 +102,11 @@ Wie ließe sich die Bildqualität verbessern? Welche dieser Optionen ergreift de
 
 Die Einsatztechnik im Bereich der Videoüberwachung ermöglicht der Polizei die effektive Wahrnehmung ihrer Aufgaben. Eine Modernisierung ist aus einsatztechnischen Gründen nicht erforderlich. Wäre eine Verbesserung der Bildqualität aus einsatztechnischen Gründen zwingend notwendig, müsste investiert werden in:
 
- leistungsfähigere Kamera- und Objektivtechnik
+– leistungsfähigere Kamera- und Objektivtechnik
 
- leistungsfähigere Übertragungswege
+– leistungsfähigere Übertragungswege
 
- leistungsfähigere Videomanagementtechnik für Verteilung, Steuerung und Bearbei-
+– leistungsfähigere Videomanagementtechnik für Verteilung, Steuerung und Bearbei-
 
 tung des Videomaterials
 

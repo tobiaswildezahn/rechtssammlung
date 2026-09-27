@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49416"
@@ -71,7 +72,7 @@ Welchen Beitrag leisten Hamburgische Behörden bei der Vorbereitung und der Orga
 
 Inwieweit wird eine Betreuung der Hamburg besuchenden Besatzungsmitglieder durch Hamburgische Behörden durchgeführt und welche Schwerpunkte setzt der Senat dabei?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Bei Marinebesuchen werden von der HPA rechtzeitig vor der Ankunft alle nautisch relevanten Rahmenbedingungen sowie Eckpunkte des Besuchsprogramms abgestimmt. Daneben stellt die HPA den Marineschiffen überwiegend an der Überseebrücke oder den St. Pauli Landungsbrücken gebührenfreie Liegeplätze zur Verfügung.
 

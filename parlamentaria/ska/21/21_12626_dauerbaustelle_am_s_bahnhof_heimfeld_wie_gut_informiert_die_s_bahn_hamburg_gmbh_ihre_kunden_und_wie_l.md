@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8240"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61925"
@@ -73,11 +74,11 @@ Wie ist der Zeitplan der Sanierung der S-Bahn-Haltestellen in Harburg?
 
 Die laufenden Maßnahmen zur Brandschutzertüchtigung sind seitens der DB AG wie folgt terminiert:
 
- Haltestelle Hamburg-Heimfeld bis Ende 2018
+– Haltestelle Hamburg-Heimfeld bis Ende 2018
 
- Haltestelle Hamburg-Harburg (S-Bahn) bis 1. Quartal 2019
+– Haltestelle Hamburg-Harburg (S-Bahn) bis 1. Quartal 2019
 
- Haltestelle Hamburg-Harburg Rathaus bis 1.Quartal 2019
+– Haltestelle Hamburg-Harburg Rathaus bis 1.Quartal 2019
 
 Zudem werden auch – analog zur Revitalisierung der Stationen im City-Tunnel – die S-Bahn-Stationen in Harburg neu gestaltet. Nach jetzigem Stand sind die Arbeiten für das Jahr 2020/2021 geplant.
 
@@ -97,7 +98,7 @@ Wie sollte idealerweise eine Kundeninformation durch die DB AG und ihre Tochterg
 
 Erachtet der Senat beziehungsweise die zuständige Behörde die Kundeninformation im vorliegenden Fall der S-Bahn-Haltestelle „Heimfeld“ als ausreichend?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Kundeninformation über solche Baumaßnahmen soll umfassend, rechtzeitig, leicht verständlich und gut zugänglich sein. Seitens der DB AG wird regelmäßig örtlich und netzweit mittels Plakaten und gegebenenfalls Aufstellern mit der DB-Baustellen- Symbolfigur „Max Maulwurf“ informiert und größere Baumaßnahmen werden durch Pressemitteilungen angekündigt. Zur weiteren Information über die Baumaßnahmen stehen darüber hinaus Hintergrundinformationen im Internet, zum Beispiel auf der Seite https://s-bahn.hamburg/magazin/s-bahn/zukunft-bahn/heimfeld-einblick-in-diemodernisierungsarbeiten.html, bereit. Die zuständige Behörde erachtet diese Kundeninformationen als ausreichend.
 

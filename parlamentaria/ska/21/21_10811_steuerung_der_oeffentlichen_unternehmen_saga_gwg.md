@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 54658
 seiten: 2
 fragen: 4
-einzelfragen: 7
-antwortbloecke: 4
+einzelfragen: 12
+antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59724"
@@ -44,23 +45,40 @@ Nein.
 ### Frage 2
 
 Am 31.12.2016 hielt die HGV noch 14,2 Prozent der Anteile an der GWG Gesellschaft für Wohnen und Bauen mbH.
-2.1. Hat die HGV im laufenden Jahr bereits weitere Anteile der GWG an die SAGA veräußert? Wenn ja, in welcher Anteilshöhe und zu welchem Kaufpreis?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Hat die HGV im laufenden Jahr bereits weitere Anteile der GWG an die SAGA veräußert? Wenn ja, in welcher Anteilshöhe und zu welchem Kaufpreis?
+
+#### Antwort zu Fragen 2 und 2.1
 
 Nein.
 
-2.2. In welchem Umfang und zu welchem Kaufpreis sollen im Jahr 2017 insgesamt GWG-Anteile von der HGV an die SAGA veräußert werden?
+### Frage 2.2
+
+In welchem Umfang und zu welchem Kaufpreis sollen im Jahr 2017 insgesamt GWG-Anteile von der HGV an die SAGA veräußert werden?
+
+#### Antwort zu Frage 2.2
 
 2,57 Prozent zu einem Kaufpreis von 56 Millionen Euro.
 
-2.3. In welcher Höhe wird für das Jahr 2017 derzeit bei der HGV ein Veräußerungsgewinn aus dem Verkauf von GWG-Anteilen erwartet?
+### Frage 2.3
+
+In welcher Höhe wird für das Jahr 2017 derzeit bei der HGV ein Veräußerungsgewinn aus dem Verkauf von GWG-Anteilen erwartet?
+
+#### Antwort zu Frage 2.3
 
 In Höhe von rund 45 Millionen Euro.
 
-2.4. In jeweils welchem Umfang sollen in den Jahren 2018 und 2019 GWG-Anteile von der HGV an die SAGA veräußert werden? Wann soll das Programm zur Übertragung der GWG-Anteile an die SAGA abgeschlossen sein?
+### Frage 2.4
 
-2.5. In welcher Höhe wird für das Jahr 2018 derzeit bei der HGV ein Veräußerungsgewinn aus dem Verkauf von GWG-Anteilen erwartet?
+In jeweils welchem Umfang sollen in den Jahren 2018 und 2019 GWG-Anteile von der HGV an die SAGA veräußert werden? Wann soll das Programm zur Übertragung der GWG-Anteile an die SAGA abgeschlossen sein?
+
+### Frage 2.5
+
+In welcher Höhe wird für das Jahr 2018 derzeit bei der HGV ein Veräußerungsgewinn aus dem Verkauf von GWG-Anteilen erwartet?
+
+#### Antwort zu Fragen 2.4 und 2.5
 
 Die Entscheidungen hierüber werden im Rahmen des Wirtschaftsplans für 2018 sowie der mittelfristigen Planung der HGV für die Jahre 2019 fortfolgende getroffen. Die Planungen sind noch nicht abgeschlossen.
 
@@ -75,9 +93,15 @@ Die Entscheidung über die Verwendung des Jahresergebnisses 2019 der SAGA wird i
 ### Frage 4
 
 Gemäß dem Zielbild des Senats für die SAGA soll die Eigenkapitalquote bei der SAGA oberhalb von 25 Prozent liegen.
-4.1. Wie wird sich auf Basis der aktuellen Planungen die Eigenkapitalquote in der SAGA-Konzernbilanz in den nächsten Jahren entwickeln?
-4.2. Welche Eigenkapitalquote wird aus Sicht des Senats bei der SAGA derzeit mittelfristig angestrebt beziehungsweise für angemessen erachtet?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+Wie wird sich auf Basis der aktuellen Planungen die Eigenkapitalquote in der SAGA-Konzernbilanz in den nächsten Jahren entwickeln?
+
+### Frage 4.2
+
+Welche Eigenkapitalquote wird aus Sicht des Senats bei der SAGA derzeit mittelfristig angestrebt beziehungsweise für angemessen erachtet?
+
+#### Antwort zu Fragen 4, 4.1 und 4.2
 
 Eine Eigenkapitalquote oberhalb des im Zielbild der SAGA vorgesehenen Wertes von 25 Prozent wird nach derzeitigem Kenntnisstand auch in den Folgejahren erreicht werden und ist aus Sicht des Senats angemessen.

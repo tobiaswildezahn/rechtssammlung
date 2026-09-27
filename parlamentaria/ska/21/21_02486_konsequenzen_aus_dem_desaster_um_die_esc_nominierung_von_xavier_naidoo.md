@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 19
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50770"
@@ -48,7 +49,7 @@ Was kostet die Übertragung des Eurovision Song Contest und welche Einnahmen wer
 
 Was kostet die Ausrichtung der Eurovision Song Contest Vorentscheide, wer richtet diese aus und welche Einnahmen werden dabei generiert? (Bitte für die Jahre 2012 – 2015 auflisten.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 

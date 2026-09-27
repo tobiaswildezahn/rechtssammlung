@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/860"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62904"
@@ -57,7 +58,7 @@ Welche Diskussionen beziehungsweise Konflikte gab es zu diesem Thema im „Bünd
 
 „Die Welt“ vom 11. Juni 2015 berichtete über die Drohung des Grundeigentümer-Verbandes, aus diesem Bündnis auszusteigen, wenn die Mietpreisbremse für ganz Hamburg verkündet würde. Weiter hieß es, quasi als Versöhnungsangebot des Senats: „So hat die Stadtentwicklungsbehörde gemeinsam mit der Wohnungswirtschaft ein Gutachten zur Wohnungsmarktlage in Auftrag gegeben.“ Um welches Gutachten handelt es sich dabei, wo beziehungsweise wann ist es veröffentlicht worden und was sind die wichtigsten Erkenntnisse?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Im Rahmen des Bündnisses für das Wohnen in Hamburg wurde die Einführung der Mietpreisbremse in Hamburg mit den Verbänden der Wohnungswirtschaft diskutiert. Die Verbände hatten sich dabei gegen eine flächendeckende Einführung der Mietpreisbremse ausgesprochen. In der Drs. 21/860 wurde der Bürgerschaft mitgeteilt, dass zur Hälfte der 21. Legislaturperiode eine Evaluation der Auswirkungen der Mietpreisbegrenzungsverordnung erfolgen soll. Die Evaluation wird derzeit durch einen externen Gutachter durchgeführt. Ein Gutachten zur Wohnungsmarktlage wird in Abstimmung mit den Partnern des Bündnisses für das Wohnen in Hamburg hingegen nicht mehr verfolgt.
 
@@ -85,7 +86,7 @@ Für welche Personen- beziehungsweise Mieter-/-innengruppen genau hat die lange 
 
 Für welche Mieter-/-innenhaushalte hat die verzögerte Begründung für die Mietpreisbremse keine negativen Konsequenzen, wenn sie vor Gericht gehen, um die Einhaltung der Mietpreisobergrenze einzuklagen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung.
 
@@ -116,21 +117,24 @@ Die Durchsetzung von entsprechenden Ansprüchen geschieht im Zivilrechtswege, ge
 ### Frage 11
 
 Wie steht der Senat zum Gesetzentwurf zur Modernisierung des sozialen Mietrechts (Mietrechtsmodernisierungsgesetz), den der Berliner Senat am 29. Mai 2018 beschlossen hat und der dem Bundesrat vorgelegt worden ist?
-11.1. Wie steht der Senat im Einzelnen zur
 
-#### Antwort zu Frage 11
+### Frage 11.1
 
- Aufhebung der Befristung der Mietpreisbremse?
+Wie steht der Senat im Einzelnen zur
 
- Festlegung, dass zukünftig die Mietpreisbremse auch im Falle
+#### Antwort zu Fragen 11 und 11.1
+
+– Aufhebung der Befristung der Mietpreisbremse?
+
+– Festlegung, dass zukünftig die Mietpreisbremse auch im Falle
 
 einer höheren Vormiete und bei umfassend modernisierten Wohnungen Gültigkeit erlangt?
 
- Begrenzung des Möblierungszuschlages bei einer möblierten
+– Begrenzung des Möblierungszuschlages bei einer möblierten
 
 oder teilmöblierten Wohnung auf einen angemessenen Betrag?
 
- Verschärfung der Gesetzeslage bei einem Verstoß gegen die
+– Verschärfung der Gesetzeslage bei einem Verstoß gegen die
 
 Mietpreisbremse qua Erklärung zu einer verfolgbaren Ordnungswidrigkeit im Wirtschaftsstrafgesetz?
 

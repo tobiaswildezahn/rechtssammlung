@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16196", "21/15658"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67080"
@@ -97,7 +98,7 @@ Perspektivisch sollen Beihilfeanträge nicht mehr erst eingescannt und dann digi
 
 Über welche Verbesserungen gegenüber PERMIS-B soll BeiReFa bereits bei Einführung Anfang 2021 verfügen? Welche sollen nach aktuellen Planungen danach modular mit jeweils welchem Zeitplan und Kosten hinzugefügt werden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5841", "21/3561", "21/4140", "21/4035", "21/2581"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54961"
@@ -75,6 +76,6 @@ Ist dem Senat dieses Phänomen bekannt? Falls ja, in welchen Fällen? Bitte einz
 
 Welche Maßnahmen hat der Senat bislang unternommen, um auf dieses Phänomen zu reagieren?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der zuständigen Behörde ist bekannt, dass Predigttexte in DITIB-Moscheen zum Teil politische Inhalte aufweisen. Die Vorstellung, dass der Senat Einfluss auf Predigttexte nehmen könnte, ist weder rechtlich noch tatsächlich zutreffend.

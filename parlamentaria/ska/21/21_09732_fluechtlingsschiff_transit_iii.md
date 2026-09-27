@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1603", "20/14035", "21/282"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58540"
@@ -43,7 +44,7 @@ Wie viele Flüchtlinge sind aktuell auf der „Transit“ untergebracht?
 
 Wie viele Flüchtlinge waren im Monatsdurchschnitt seit August 2015 auf der „Transit“ untergebracht? (Bitte monatsweise aufschlüsseln.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es wird die Belegung zum Monatsende angegeben, der Monatsdurchschnitt wird nicht erhoben.
 
@@ -85,7 +86,7 @@ Wie ist der aktuelle Stand im Hinblick auf die Verhandlungen bezüglich der Vert
 
 Falls das Verfahren (vergleiche Ziffer 2.) noch immer nicht abgeschlossen ist, wann werden die Verhandlungen abgeschlossen sein?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Verhandlungen zwischen f &w und dem Vermieter dauern derzeit noch an. Darüber hinaus sind die Überlegungen und Planungen noch nicht abgeschlossen.
 

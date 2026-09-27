@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 4
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8777"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62528"
@@ -48,6 +49,6 @@ Wie ist der Stand der Verlängerung der Kappungsgrenzenverordnung?
 
 Wird die Verordnung zum 01.09.2018 verlängert? Wenn ja: für welchen Zeitraum? Wenn nein, weshalb nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die zuständige Behörde bereitet derzeit eine Senatsentscheidung vor, die eine Verlängerung der Verordnung über die Absenkung der Kappungsgrenze bei Mieterhöhungen bis zur ortüblichen Vergleichsmiete nach § 558 Absatz 3 des Bürgerlichen Gesetzbuches (Kappungsgrenzenverordnung) um weitere fünf Jahre vorsieht.

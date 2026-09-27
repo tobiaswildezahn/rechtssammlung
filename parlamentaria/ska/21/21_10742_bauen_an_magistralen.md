@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10507"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59647"
@@ -63,13 +64,13 @@ Welche Hauptverkehrsstraßen in welchen Abschnitten lagen der Ermittlung zugrund
 
 Folgende Hauptverkehrsstraßen lagen in folgenden Abschnitten der Ermittlung zugrunde:
 
- Luruper Hauptstraße – Luruper Chaussee im Abschnitt Stadtgrenze zu Schenefeld
+– Luruper Hauptstraße – Luruper Chaussee im Abschnitt Stadtgrenze zu Schenefeld
 
 – Bundesautobahn 7
 
- Osdorfer Weg – Osdorfer Landstraße im Abschnitt BAB 7 – Rugenfeld/Isfeldstraße
+– Osdorfer Weg – Osdorfer Landstraße im Abschnitt BAB 7 – Rugenfeld/Isfeldstraße
 
- Osdorfer Landstraße – Sülldorfer Landstraße im Abschnitt Rugenfeld/Isfeldstraße
+– Osdorfer Landstraße – Sülldorfer Landstraße im Abschnitt Rugenfeld/Isfeldstraße
 
 – Sieversstücken/Wüstland
 
@@ -97,7 +98,7 @@ Inwiefern sieht es der Senat angesichts der vorstehend geschilderten Randbedingu
 
 Wie werden seitens des Senats die Auswirkungen auf das über Jahrhunderte langsam gewachsene Stadtbild eingeschätzt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Städte befinden sich in einer fortwährenden Entwicklung. Gerade auch dieser Wandel trägt zu ihrer Urbanität bei. Entlang der Magistralen findet sich vielfach eine unregelmäßige und lückenhafte Bebauung, die diese hochfrequentierten Räume nicht angemessen fassen. Umstrukturierungen und Neubauten eröffnen die Chance, städtebauliche Mängel im Sinne einer „Stadtreparatur“ zu beheben. Ob Ergänzungen des Stadtbildes verträglich sind, hängt von dem städtebaulichen Umfeld ab und kann nicht pauschal beantwortet werden. Im Übrigen siehe Vorbemerkung.
 

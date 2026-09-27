@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17538"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67454"
@@ -53,7 +54,7 @@ Wie löscht die Feuerwehr in Hamburg brennende E-Autos?
 
 Wie werden die brennenden E-Autos in Tiefgaragen und/oder Parkhäusern gelöscht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Um einen wirksamen Kühleffekt zu erreichen, wird die Brandbekämpfung bei brennenden E-Automobilen mit einer hohen Löschwassermenge durchgeführt.
 

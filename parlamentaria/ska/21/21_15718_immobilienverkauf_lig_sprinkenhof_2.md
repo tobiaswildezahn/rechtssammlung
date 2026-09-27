@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14986", "20/14486"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65218"
@@ -43,7 +44,7 @@ Aus welchen genauen Gründen wurden Bestandsimmobilien der Stadt von dem vorgese
 
 Wer hat diese Ausnahmen von der Übertragung wann genau entschieden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat hat die Bürgerschaft mit der Drs. 20/14486 über seine Ziele bei der Neuordnung und Optimierung des Immobilienmanagements (OPTIMA) in der Freien und Hansestadt Hamburg (FHH) unterrichtet.
 

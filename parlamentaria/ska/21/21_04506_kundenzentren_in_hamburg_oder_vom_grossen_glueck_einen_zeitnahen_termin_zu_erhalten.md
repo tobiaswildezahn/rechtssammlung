@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 23
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1179", "21/3970", "21/3824", "21/4213", "20/11766"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52909"
@@ -43,7 +44,7 @@ Warum sind Terminbuchungen nur für die nächsten 60 Tage in Voraus möglich, ob
 
 Welche sachlichen Gründe gibt es für die Einschränkung der Terminauswahl auf nur 60 Tage?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine Ausweitung des Terminbuchungszeitraums auf mehr als 60 Tage würde die Ursache der langen Vorlaufzeiten nicht beheben, aber die Termin- und Personaleinsatzplanung zusätzlich erschweren.
 
@@ -263,7 +264,7 @@ Welche Resonanz gab es auf die Stellenausschreibung?
 
 Wie viele Bewerbungen sind insgesamt eingegangen? Wie viele davon sind von Beamten, internen Angestellten und externen Bewerbern? Wie viele Bewerber erfüllen offensichtlich nicht die formalen Voraussetzungen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Es sind 768 Bewerbungen eingegangen. 50 betreffen Personen, die bereits bei der Freien und Hansestadt Hamburg beschäftigt sind, davon fünf als Beamte. 126 Bewerbungen erfüllen die formalen Voraussetzungen nicht, 117 konnten bisher zum Beispiel wegen fehlender Unterlagen noch nicht abschließend bewertet werden.
 

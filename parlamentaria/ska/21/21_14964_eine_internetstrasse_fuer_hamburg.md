@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64427"
@@ -61,6 +62,6 @@ Wie bewertet der Senat die Idee der Benennung einer Straße oder eines Platzes, 
 
 Plant der Senat die Benennung einer Straße oder eines Platzes mit einem entsprechenden Namen, um die technologischen und gesellschaftlichen Errungenschaften des Internets und ihre besondere Bedeutung für Hamburg zu würdigen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung. Im Übrigen hat sich der Senat hiermit bisher nicht befasst.

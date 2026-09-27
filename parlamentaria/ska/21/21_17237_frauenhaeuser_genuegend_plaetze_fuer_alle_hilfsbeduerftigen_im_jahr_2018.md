@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 24
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13481", "21/15264", "21/16016", "21/12495", "21/14176", "21/13841", "20/6541", "20/12846", "21/8539", "21/5214", "21/2635", "21/1570"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66808"
@@ -55,7 +56,7 @@ Wie viele Mitarbeiterinnen arbeiteten im Jahr 2018 und wie viele aktuell in den 
 
 Gab es im Jahr 2018 Aufstockungen oder Reduzierungen beim Personal? Wenn ja, wann, wo und um wie viel VZÄ jeweils? Wenn es Reduzierungen gab, warum gab es diese?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Anzahl der Beschäftigten ist im Jahresverlauf durch Fluktuation schwankend. Im Rahmen der Zuwendungsbewilligung erfolgt ausschließlich eine Festlegung der Anzahl der Vollzeitäquivalente (VZÄ), die sich für 2018 gegenüber der Darstellung in der Drs. 21/13481nicht verändert haben.
 

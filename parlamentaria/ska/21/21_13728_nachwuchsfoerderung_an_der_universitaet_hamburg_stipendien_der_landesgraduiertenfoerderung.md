@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63107"
@@ -56,7 +57,7 @@ Wie viele Person erhalten gegenwärtig ein Stipendium, die am UKE zu einem nicht
 
 In welchen Fächern promovieren diese?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Eine Person, die im Fach „Systemische Neurowissenschaften“ promoviert.
 
@@ -92,7 +93,7 @@ Wie viele Personen sind bereits durch ein Stipendium der Landesgraduiertenförde
 
 Wie viele der Geförderten haben sich nach dem Abschluss ihrer Promotion in Hamburg habilitiert?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die zur Beantwortung benötigten Daten werden statistisch nicht erfasst.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2907", "20/9661"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55094"
@@ -87,7 +88,7 @@ Welche Entwicklung erwartet der Senat oder die zuständige Fachbehörde bezügli
 
 Welche Entwicklung erwartet der Senat oder die zuständige Fachbehörde bezüglich der Ausgaben und Auszahlungen für Versorgungsbeihilfen in den einzelnen Jahren bis 2035?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Anlage.
 

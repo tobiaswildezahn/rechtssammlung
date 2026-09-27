@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 17
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54523"
@@ -71,7 +72,7 @@ Welche kurzfristigen Ideen zur Verbesserung der Situation wurden in der Arbeitsg
 
 Wann genau sollen die ersten Ideen für kurzfristige Verbesserungen der Versorgungssituation der Bürgerschaft vorgestellt werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 In dem Gespräch am 15. September 2016 wurden Lösungen mittels Hybridroutern diskutiert. Diese werden weiterverfolgt, konkrete Umsetzungstermine stehen noch nicht fest. Eine gesonderte Berichterstattung für die Bürgerschaft ist derzeit nicht vorgesehen.
 
@@ -99,7 +100,7 @@ Welche Ziele und weitere Vereinbarungen sind bei der vorgenannten Besprechung am
 
 Welche darüber hinausgehenden Maßnahmen zum Breitbandausbau und zum Ausbau der Glasfasernetze im Stadtgebiet sind besprochen worden? Welche konkreten Ergebnisse sind hierzu vereinbart worden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antworten zu 1. a. und 1. b., zu 2. und 3. und zu 4. sowie Vorbemerkung. Darüber hinausgehende Maßnahmen wurden nicht besprochen.
 

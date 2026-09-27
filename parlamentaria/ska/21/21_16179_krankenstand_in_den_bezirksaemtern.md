@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9395"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65725"
@@ -49,7 +50,7 @@ Wie hoch war der Krankenstand in den Bezirksämtern 2017 und 2018? Bitte jeweils
 
 Wie hoch ist der durchschnittliche Krankenstand der Beschäftigten der Bezirksämter? Bitte jeweils tabellarisch für 2017 und 2018 auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 
@@ -73,7 +74,7 @@ Wie viele Mitarbeiter der Bezirksämter befinden sich jeweils im Krankenstand mi
 
 Wie viele Mitarbeiter nach Frage 4. erhalten Krankengeld (gemäß § 3 Entgeltfortzahlungsgesetz) über welchen Zeitraum? Bitte auflisten nach a. < sechs Monate, b. sechs Monate bis elf Monate, c. zwölf Monate bis 18 Monate, d. > 18 Monate.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage 2 und Drs. 21/9395.
 

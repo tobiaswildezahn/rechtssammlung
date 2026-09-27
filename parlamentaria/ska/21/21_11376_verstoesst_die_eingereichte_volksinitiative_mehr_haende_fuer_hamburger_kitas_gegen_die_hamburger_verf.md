@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10761", "21/11160"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60435"
@@ -51,7 +52,7 @@ Welche finanziellen Mehrbelastungen ergeben sich aus der Umsetzung der eingereic
 
 Welcher personelle und sonstige Mehrbedarf ergibt sich aus der Umsetzung der eingereichten Volksinitiative? Bitte nach Jahren aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nach dem Gesetzentwurf der Volksinitiative „Mehr Hände für Hamburger Kitas“ hat die Freie und Hansestadt Hamburg schrittweise eine Fachkraft-Kind-Relation von 1:4 im Krippenbereich und 1:10 im Elementarbereich umzusetzen. Dabei ist zu gewährleisten, dass Ausfallzeiten von 17,45 Prozent und Zeit für mittelbare Pädagogik im Umfang von 7,55 Prozent der durchschnittlichen Wochenarbeitszeit zusätzlich zu den bereits bestehenden Regelungen berücksichtigt sind. Zu den sich hiernach ergebenden Mehrbedarfen an Ressourcen siehe nachstehende Tabelle:
 

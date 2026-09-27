@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57381"
@@ -45,7 +46,7 @@ Wer ist Eigentümer der Wohnheime des Studierendenwerks? Bitte pro Wohnheim ange
 
 Wenn das Studierendenwerk nicht selbst Alleineigentümer eines oder mehrerer Wohnheime ist: a. Von wem wird das jeweilige Wohnheim gemietet oder gepachtet? b. Wann wurde der jeweilige Miet- oder Pachtvertrag abgeschlossen und wie lange läuft er noch? c. Zu welchen Konditionen mietet oder pachtet das Studierendenwerk die jeweiligen Wohnheime? Bitte Kosten pro Jahr angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 

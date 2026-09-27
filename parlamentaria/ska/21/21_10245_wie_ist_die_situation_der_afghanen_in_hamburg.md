@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10092", "21/9654"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59086"
@@ -43,7 +44,7 @@ Wie viele Afghanen mit den verschiedensten aufenthaltsrechtlichen Titeln leben d
 
 Wie viele der Afghanen mit Aufenthaltsgestattung und Aufenthaltserlaubnis sind jeweils Kinder (Jungen/Mädchen?), wie viele erwachsene Männer, wie viele erwachsene Frauen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Dem Ausländerzentralregister (AZR) können nur Angaben zum Geschlecht oder zum Alter unabhängig voneinander entnommen werden. Eine Korrelation („minderjährige weibliche beziehungsweise männliche Personen“) ist anhand der vorliegenden AZR- Daten nicht möglich. Die AZR-Statistik enthält zudem keine Angaben zu den Zuzugsdaten in den Zuständigkeitsbereich Hamburgs. Im Übrigen siehe Anlage.
 
@@ -55,7 +56,7 @@ Wie viele Afghanen wurden seit Januar 2016 abgeschoben? Bitte nach Monaten aufsc
 
 Wie viele Afghanen reisten seit Januar 2016 freiwillig aus? Bitte nach Monaten aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Angaben sind der folgenden Übersicht zu entnehmen:
 
@@ -170,7 +171,7 @@ Wie erklärt der Senat den Anstieg der Aufenthaltserlaubnis nach § 25 Absatz 3 
 
 Wie erklärt der Senat den Anstieg von 5.260 Afghanen mit Aufenthaltserlaubnis im Januar 2017 auf 8.351 im Juli 2017? Wieso liegt diese Zahl über den Abgängen bei den Asylgestattungen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die zuständige Behörde setzt die durch das BAMF beziehungsweise Verwaltungsgerichte ergangenen Entscheidungen um, indem sie die nach dem Aufenthaltsgesetz vorgesehenen Aufenthaltstitel erteilt. Auf die Art oder Anzahl der entsprechenden Entscheidungen hat sie dabei keinen Einfluss.
 

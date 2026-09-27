@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 24
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12845"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60486"
@@ -91,7 +92,7 @@ Wie berechnen sich die Schülerkostensätze nach den Regelungen der Reform von 2
 
 Enthalten diese Kostensätze auch a. die anteiligen Kosten für Lehr- und Lernmittel im Sinne der Lernmittelfreiheit? b. in fallzahlbezogener Höhe die Aufwendungen für Schüler mit Behinderungen? c. die anteiligen Kosten für Gebäudeunterhalt und Ersatzinvestitionen? d. die anteiligen Kosten für Energiekosten und Entsorgung? e. die anteiligen Kosten für Versicherungen? f. die anteiligen Kosten für Rückstellungen für Ruhegehälter?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 20/12845.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50139"
@@ -83,7 +84,7 @@ Aus welchen Behörden und Ämtern stammen die aktiven Mitarbeiter, die nunmehr i
 
 Wie erfolgt dort jeweils die Vertretungsregelung der „ausfallenden“ Mitarbeiter? Bitte pro Behörde unter Angabe des Amtes beziehungsweise der Abteilung darstellen.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Anlage.
 

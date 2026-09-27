@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2301"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51623"
@@ -69,7 +70,7 @@ Aus welchen Gründen wird die Ehrung von verdienten Frauen mit der Zitronenjette
 
 Gibt es Bemühungen des Senats, die Ehrung von verdienten Frauen mit der Zitronenjette fortzuführen? Wenn ja, wie sehen diese Bemühungen aus? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Zitronenjette gehört nicht zu den Hamburger Ehrungen, die durch den Senat verliehen werden.
 

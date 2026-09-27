@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 32
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15653", "21/5231", "21/16029", "21/10157", "21/7529", "21/11273"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65713"
@@ -298,35 +299,35 @@ Am Standort gibt es sechs Gruppenräume. Je nach Format der Veranstaltung könne
 
 Freiwillige:
 
- Deutschkurs (täglich)
+– Deutschkurs (täglich)
 
- Nähen (wöchentlich)
+– Nähen (wöchentlich)
 
- Berufsintegration (wöchentlich)
+– Berufsintegration (wöchentlich)
 
- Basteln (wöchentlich)
+– Basteln (wöchentlich)
 
- Flechten (wöchentlich)
+– Flechten (wöchentlich)
 
 Kooperationspartner/andere Träger:
 
- Musikerziehung (wöchentlich)
+– Musikerziehung (wöchentlich)
 
- Gesundheitsprävention
+– Gesundheitsprävention
 
- Mieterführerschein
+– Mieterführerschein
 
- Gewaltprävention
+– Gewaltprävention
 
- Ferienprogramm
+– Ferienprogramm
 
 Bewohner-und Bewohnerinnen:
 
- Nutzung der Musikinstrumente in den Gruppenräumen nach Absprache mit f & w
+– Nutzung der Musikinstrumente in den Gruppenräumen nach Absprache mit f & w
 
- Individuelle Lernhilfen durch Paten (zum Beispiel Hausaufgabenhilfe)
+– Individuelle Lernhilfen durch Paten (zum Beispiel Hausaufgabenhilfe)
 
- Festlichkeiten nach Absprache mit f & w
+– Festlichkeiten nach Absprache mit f & w
 
 ### Frage 16
 
@@ -346,11 +347,11 @@ Siehe Antwort zu 7. Darüber hinaus werden am Standort verschiedene Projekte von
 
 Zu den Projekten:
 
- Haus 23, Stadtteilbüro http://mittlerer-landweg.de/index.php/category/projekte/
+– Haus 23, Stadtteilbüro http://mittlerer-landweg.de/index.php/category/projekte/
 
- Musik für Kinder vom Hamburger Konservatorium
+– Musik für Kinder vom Hamburger Konservatorium
 
-  
+–  
 Bücherbus  
 mit  
 Halt  
@@ -359,18 +360,18 @@ Gleisdreieck:
 https://www.buecherhallen.de/  
 buecherbusse.html Schulungen der Stadtreinigung
 
- Angebote von Freiwilligen zu Sprache, Kultur, Berufsorientierung und Paten-
+– Angebote von Freiwilligen zu Sprache, Kultur, Berufsorientierung und Paten-
 
 schaften
 
- Gruppenangebote seitens Freiwilliger zu Sprache, Kultur, Berufsorientierung
+– Gruppenangebote seitens Freiwilliger zu Sprache, Kultur, Berufsorientierung
 
- Mieterführerschein (VZHH, Mieter helfen Mietern, Stadtreinigung)
+– Mieterführerschein (VZHH, Mieter helfen Mietern, Stadtreinigung)
 
- MiMi – Gewaltprävention für Frauen und Männer: https://www.mimi-gegen-
+– MiMi – Gewaltprävention für Frauen und Männer: https://www.mimi-gegen-
 
 gewalt.de/
 
- Teilhabeberatung für Geflüchtete mit Behinderung und chronischen Erkran-
+– Teilhabeberatung für Geflüchtete mit Behinderung und chronischen Erkran-
 
 kungen, siehe Drs. 21/11273

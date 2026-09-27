@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53416"
@@ -49,29 +50,29 @@ Wie viele und welche Hamburger Badeseen und Badeorte kommen derzeit ohne Rettung
 
 An folgenden Badegewässern gemäß Hamburger Badegewässerverordnung gibt es keine Rettungsschwimmer:
 
- Öjendorfer See
+– Öjendorfer See
 
- Insel Neuwerk
+– Insel Neuwerk
 
- Hohendeicher See (Rettungsschwimmer zeitweise an den Wochenenden während
+– Hohendeicher See (Rettungsschwimmer zeitweise an den Wochenenden während
 
 der Badesaison)
 
- See Hinterm Horn
+– See Hinterm Horn
 
- Boberger See
+– Boberger See
 
- Eichbaumsee (aufgrund der derzeitigen Wasserqualität wird vom Baden abgera-
+– Eichbaumsee (aufgrund der derzeitigen Wasserqualität wird vom Baden abgera-
 
 ten)
 
 An folgenden Orten, an denen im Rahmen des Gemeingebrauchs häufiger gebadet wird, gibt es keine Rettungsschwimmer:
 
- Westensee
+– Westensee
 
- Dove- und Gose-Elbe
+– Dove- und Gose-Elbe
 
- Elbe (Rettungsschwimmer zeitweise an den Wochenenden)
+– Elbe (Rettungsschwimmer zeitweise an den Wochenenden)
 
 ### Frage 2
 
@@ -121,21 +122,21 @@ Wie viele und welche Hamburger Badeseen und Badeorte werden derzeit von anderen 
 
 Folgende Badegewässer gemäß Hamburger Badegewässerverordnung werden derzeit von anderen Akteuren betreut:
 
- Sommerbad Altengamme
+– Sommerbad Altengamme
 
- Naturbad Stadtparksee
+– Naturbad Stadtparksee
 
- Naturbad Kiwittsmoor
+– Naturbad Kiwittsmoor
 
- Sommerbad Ostende
+– Sommerbad Ostende
 
- Sommerbad Farmsen
+– Sommerbad Farmsen
 
- Sommerbad Volksdorf
+– Sommerbad Volksdorf
 
- Sommerbad Duvenstedt
+– Sommerbad Duvenstedt
 
- Allermöher See
+– Allermöher See
 
 Badeorte, an denen im Rahmen des Gemeingebrauchs häufiger gebadet wird und die von anderen Akteuren betreut werden, sind dem Senat nicht bekannt.
 
@@ -149,7 +150,7 @@ Erhalten diese Anbieter eine Vergütung für ihre Dienste?
 a) Wenn ja, in welcher Höhe und auf welcher rechtlicher Grundlage?
 b) Wenn nein, erhalten die Anbieter anderweitige Bezüge durch den Senat oder den Bezirk? Wenn ja, auf welcher rechtlichen Grundlage?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die oben genannten Sommerbäder, Naturbäder und Seen werden von Vereinen, der Bäderland GmbH beziehungsweise dem Bezirk Bergedorf betrieben. Die Badeaufsicht wird von den jeweiligen Betreibern gestellt und finanziert. Zu etwaigen Vergütungen hat der Senat keine Erkenntnisse.
 

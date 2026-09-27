@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53089"
@@ -72,7 +73,7 @@ An welchen dieser Eckpunkte nimmt Senatorin Fegebank Anstoß?
 
 Trifft es zu, dass es keine Bundesmittel für exzellente Hochschulen oder Fakultäten geben wird, wenn Hamburg der Exzellenzinitiative nicht zustimmen wird?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 
@@ -100,6 +101,6 @@ Hält es Senatorin Fegebank nicht für sinnvoll, dass exzellente wissenschaftlic
 
 Befürchtet Senatorin Fegebank nicht eine weitere Verschlechterung des Rufes der Hamburger Wissenschaftspolitik, wenn sie dem von allen anderen Partnern akzeptierten Beschluss nicht zustimmt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung.

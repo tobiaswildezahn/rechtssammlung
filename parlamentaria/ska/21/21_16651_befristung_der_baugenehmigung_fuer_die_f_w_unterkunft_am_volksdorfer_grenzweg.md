@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2797", "21/5733"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66198"
@@ -49,7 +50,7 @@ Wurde die Baugenehmigung für die Unterkunft am Volksdorfer Grenzweg inzwischen 
 
 Wann wurde eine baurechtliche Nutzung über den 25.03.2019 hinaus beantragt und wie ist gegebenenfalls der Stand des Genehmigungsverfahrens?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Antrag auf Verlängerung der Baugenehmigung und der baurechtlichen Nutzung vom 20. März 2019 liegt dem zuständigen Bezirksamt zur Entscheidung vor. Das Prüfverfahren ist noch nicht abgeschlossen.
 

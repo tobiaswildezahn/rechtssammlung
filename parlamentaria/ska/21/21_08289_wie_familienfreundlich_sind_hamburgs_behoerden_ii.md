@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3471", "21/6894", "21/7292"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56986"
@@ -155,14 +156,14 @@ bei Betreuung minderjähriger Kinder auf Antrag um bis zu einem Jahr je Kind, l�
 
 Der Entwurf enthält die Übertragung der Regelungen des Pflegezeitgesetzes und des Familienpflegezeitgesetzes auf die Beamtinnen, Beamten, Richterinnen und Richter (Artikel 1 Nummer 4, Artikel 2 und Artikel 3 Nummer 2) sowie folgende weitere Regelungen zur Verbesserung der Vereinbarkeit:
 
- Erweiterung des 2020 in Kraft tretenden Anspruchs auf Hinausschieben des
+– Erweiterung des 2020 in Kraft tretenden Anspruchs auf Hinausschieben des
 
 Eintritts in den Ruhestand, wenn wegen Pflegezeit oder Familienpflegezeit die Höchstversorgung nicht erreicht werden konnte (Artikel 1 Nummer 2),
 
- Ermöglichung von Teilzeitbeschäftigung aus familiären Gründen mit mindes-
+– Ermöglichung von Teilzeitbeschäftigung aus familiären Gründen mit mindes-
 
 tens der Hälfte der regelmäßigen Arbeitszeit im Vorbereitungsdienst (Artikel 1 Nummer 3.1),
 
- eine Auffangregelung über Krankheitsfürsorge beziehungsweise Heilfürsorge
+– eine Auffangregelung über Krankheitsfürsorge beziehungsweise Heilfürsorge
 
 während einer Beurlaubung ohne Bezüge aus familiären Gründen, wenn die beurlaubte Person nicht anderweitig krankenversichert oder beihilferechtlich abgesichert ist (Artikel 1 Nummer 3.2 und Nummer 8, Artikel 3 Nummer 1.1).

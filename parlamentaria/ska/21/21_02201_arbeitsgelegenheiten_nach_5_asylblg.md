@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2072"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50482"
@@ -51,7 +52,7 @@ Sind in den Hamburger Aufnahmeeinrichtungen Arbeitsgelegenheiten für Asylbewerb
 
 Sofern dies bisher nicht geschehen ist, plant der Senat die Einrichtung entsprechender Arbeitsgelegenheiten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/2072.
 
@@ -63,7 +64,7 @@ Sofern Arbeitsgelegenheiten angeboten und genutzt wurden, welche dieser Angebote
 
 Sofern Arbeitsgelegenheiten angeboten wurden, wurden diese freiwillig von den betroffenen Asylbewerbern angenommen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Arbeitsgelegenheiten umfassen einfache Tätigkeiten, die der Aufrechterhaltung und Betreibung der Einrichtung dienen und ohne weitere Voraussetzungen ausgeführt
 

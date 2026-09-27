@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61640"
@@ -57,7 +58,7 @@ Wie viele Hamburger Studenten haben in den letzten fünf Semestern an einem Stud
 
 Wie viele Studenten kamen in den vergangenen fünf Semestern aus Hamburgs Partnerstädten in unsere Stadt, um hier ein Auslandssemester zu absolvieren? Bitte je Partnerstadt und privaten beziehungsweise staatlichen Hamburger Universitäten beziehungsweise Hochschulen auflisten.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage 2.
 

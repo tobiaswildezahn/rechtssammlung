@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 22
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8566", "20/12988"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61476"
@@ -43,7 +44,7 @@ Welche Programme des Bundes zur Förderungen der Kindertagesbetreuung sind der z
 
 Welche Summen stellt der Bund nach Kenntnis der zuständigen Behörde für die einzelnen Programme jeweils für 2018 zur Verfügung?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In der für die Beantwortung dieser Anfrage zur Verfügung stehenden Zeit übermittelte das Bundesministerium für Familie, Senioren, Frauen und Jugend (BMFSFJ) die im Rahmen der betreffenden Programme jeweils zur Verfügung gestellten Mittel für das Jahr 2018. Für die Bundesprogramme „Krippenausbau 2015-18“ und“ Kita-Ausbau“ (Krippe und Elementar)“ konnte eine Aufteilung nach Förderjahren vom Bund nicht bereitgestellt werden. Es handelt sich in der nachstehenden Tabelle um bundesweit zur Verfügung gestellte Mittel.
 
@@ -178,7 +179,7 @@ Welche Voraussetzungen müssen Kindertagespflegepersonen erfüllen, um Mittel au
 
 #### Antwort zu Frage 8
 
- Krippenausbauprogramm 2013/2014:
+– Krippenausbauprogramm 2013/2014:
 
 Jede geförderte Tagespflegeperson hat die Eignungsvoraussetzungen gemäß §§ 43 Absatz 2 SGB VIII und 1 Kindertagespflegeverordnung zu erfüllen, darf sich weder in einem Insolvenz- noch in einem Vergleichsverfahren befinden sowie die „Scientology“ Technologie nach L. Ron Hubbard nicht anwenden.
 
@@ -188,15 +189,15 @@ Die im Zusammenschluss tätigen Tagespflegepersonen verpflichten sich gemeinsam,
 
 Einzeltagespflegepersonen verpflichten sich, für einen Zeitraum von zumindest einem Jahr jahresdurchschnittlich mindestens zwei unter drei Jahre alte Kinder zu betreuen, die durch das zuständige Bezirksamt vermittelt werden.
 
- Krippenausbauprogramm 2015 – 2018:
+– Krippenausbauprogramm 2015 – 2018:
 
 Die Förderbedingungen für Tagespflegezusammenschlüsse entsprechen grundsätzlich denen des Krippenausbauprogramms 2013/2014. Abweichend gilt, dass die im Zusammenschluss tätigen Tagespflegepersonen sich verpflichten gemeinsam, für einen Zeitraum von zumindest fünf Jahren jahresdurchschnittlich so viele Kinder unter drei Jahren weiter zu betreuen, wie sie schon bisher im Durchschnitt der letzten zwölf Monate betreut haben und zusätzlich durch die Förderung im Krippenausbauprogramm betreuen wollen. Einzeltagespflegepersonen werden nicht mehr gefördert.
 
- Kita-Ausbauprogramm (Krippe und Elementar) 2017 – 2020:
+– Kita-Ausbauprogramm (Krippe und Elementar) 2017 – 2020:
 
 In diesem Programm werden keine Investitionen im Bereich Kindertagespflege gefördert.
 
- Programm „KitaPlus: Weil Gute Betreuung keine Frage der Uhrzeit ist“
+– Programm „KitaPlus: Weil Gute Betreuung keine Frage der Uhrzeit ist“
 
 Die entsprechenden Voraussetzungen sind auf der Internetpräsenz des Bundesprogramms genannt: https://kitaplus.fruehe-chancen.de/service/faqs/.
 

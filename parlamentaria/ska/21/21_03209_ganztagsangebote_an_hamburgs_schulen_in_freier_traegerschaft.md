@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51550"
@@ -46,7 +47,7 @@ Welche allgemeinbildenden Schulen in freier Trägerschaft bieten ein Ganztagspro
 
 Wie viele Schülerinnen und Schüler nehmen jeweils am Ganztagsangebot dieser Schulen teil? Bitte in absoluten und prozentualen Zahlen angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

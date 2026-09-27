@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17488"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68845"
@@ -100,7 +101,7 @@ Sportplatzes jeweils konkret zugesichert? Bitte detailliert erläutern.
 
 Stehen die zugesicherten Mittel aus Ziffer 5. auch über das Jahr 2019 hinaus zur Verfügung? Wenn nein, aus jeweils welchen Gründen nicht? Gibt es eine Möglichkeit, die zugesicherten Mittel auch über 2019 hinaus für die Sanierung zu sichern? Bitte detailliert erläutern.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Bezirksversammlung Bergedorf hat mit Beschluss zur Drs. 20-1931 vom
 28.02.2019 die Bezirksamtsleitung gebeten, sich für eine Finanzierung des Wilhelm- Lindemann-Sportplatzes in Höhe von bis zu 120 000 Euro einzusetzen. Dem Bezirksamt Bergedorf wurde von der Finanzbehörde eine Unterstützung mit Mitteln aus dem investiven Quartiersfonds in der genannten Höhe zugesichert. Die Mittel stehen auch über das Jahr 2019 hinaus zur Verfügung.

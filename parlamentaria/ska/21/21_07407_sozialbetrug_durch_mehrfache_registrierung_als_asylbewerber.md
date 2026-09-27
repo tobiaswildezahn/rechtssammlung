@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56027"
@@ -91,6 +92,6 @@ Steht die Hamburger Polizei im Austausch mit den Ermittlungsbehörden in Nieders
 
 Plant auch die Hamburger Polizei, eine Sonderkommission in dieser Angelegenheit einzusetzen oder gibt es bereits eine Sonderkommission, auch für andere Fälle des Sozialbetruges durch Asylbewerber?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Polizei Hamburg steht in Kontakt mit der Polizei Niedersachsen. Im Übrigen siehe Vorbemerkung.

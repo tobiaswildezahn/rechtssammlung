@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/860"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51074"
@@ -59,7 +60,7 @@ Welche Vertreter der Wohnungswirtschaft, des Senats und der Mietervereine wurden
 
 Wann haben die unter 4. genannten Gespräche stattgefunden, welche Vertreter waren bei den jeweiligen Sitzungen anwesend und welche Ergebnisse hatten die jeweiligen Sitzungen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 An den Verhandlungen sind Vertreter des Bundesverbands Freier Immobilien- und Wohnungsunternehmen e.V. (BFW), des Immobilienverbands Deutschland (IVD), des Verbands norddeutscher Wohnungsunternehmen e.V. (VNW), des Grundeigentümer- Verbands und der BSW beteiligt. Erstmalig (mit Teilnahme der zuständigen Fachbehörde) verhandelten die Beteiligten am 6. Juli 2015 über die Leistungsbeschreibung des Gutachtens. Weitere Termine fanden am 16. November 2015 (ohne die Vertreter des Grundeigentümer-Verbands), am 11. Dezember 2015 sowie am 8. Januar 2016
 

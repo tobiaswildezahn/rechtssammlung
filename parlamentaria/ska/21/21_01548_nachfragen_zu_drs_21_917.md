@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 18
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/917"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49755"
@@ -279,17 +280,17 @@ Das intelligente Stromnetz (Smart Grid) umfasst die Vernetzung und Steuerung von
 
 In den oben genannten Jahren sind unter anderem die nachfolgend aufgeführten Maßnahmen für die weitere Vernetzung und Steuerung im Hamburger Verteilungsnetz geplant:
 
- Weiterer Ausbau der Fernsteuerbarkeit von Mittelspannung-Netzstationen zur
+– Weiterer Ausbau der Fernsteuerbarkeit von Mittelspannung-Netzstationen zur
 
 Reduzierung der durchschnittlichen Unterbrechungsdauer
 
- Aufbau eines Smart-Grid-Pilotnetzes im Westteil der HafenCity
+– Aufbau eines Smart-Grid-Pilotnetzes im Westteil der HafenCity
 
- Erweiterung der Funktionalität der im Verteilnetz eingesetzten Mess-, Leit- und
+– Erweiterung der Funktionalität der im Verteilnetz eingesetzten Mess-, Leit- und
 
 Steuerungstechnik
 
- Einbau von modernen Messeinrichtungen beziehungsweise intelligenten Messsys-
+– Einbau von modernen Messeinrichtungen beziehungsweise intelligenten Messsys-
 
 temen entsprechend den zum Umsetzungszeitpunkt jeweils gültigen gesetzlichen Rahmenbedingungen
 
@@ -312,17 +313,17 @@ Im Rahmen der Vorbereitung auf die Veränderungen der Energiewende errichtet SNH
 
 Zu dem Projekt gehören
 
- die vollständige Ausrüstung aller Netzstationen mit Fernsteuerung zur Verkürzung
+– die vollständige Ausrüstung aller Netzstationen mit Fernsteuerung zur Verkürzung
 
 der Wiederversorgungszeiten,
 
- Pilotinstallationen zur Ausstattung von Netzstationen mit Online-Messungen der
+– Pilotinstallationen zur Ausstattung von Netzstationen mit Online-Messungen der
 
 Last der Station und einzelner Abgänge,
 
- die Integration der gemessenen Betriebsdaten in das Leitsystem der Netzführung,
+– die Integration der gemessenen Betriebsdaten in das Leitsystem der Netzführung,
 
- die Auskopplung der Betriebsdaten auf entsprechend gesicherte Server für nicht
+– die Auskopplung der Betriebsdaten auf entsprechend gesicherte Server für nicht
 
 betriebliche Zwecke wie beispielsweise eine Visualisierung in Energieportalen.
 

@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 19
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8938", "21/12191", "21/7454", "21/12227", "21/10349"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62096"
@@ -139,7 +140,7 @@ Dem Luftreinhalteplan liegt das Ziel zugrunde, die Schadstoffbelastung in ganz H
 In seiner Pressemitteilung vom 27. Februar 2018 gab der Senat unter anderem auch die Ausweichrouten für Dieselfahrzeuge, welche von den Verboten betroffen sind, bekannt. Diese Ausweichrouten ähneln eher „Strafrunden“, denn sie sind länger als die ursprünglichen Strecken und zudem für ein deutlich niedrigeres Fahrzeugaufkommen ausgelegt.
 a) Inwiefern unterstützen die Fahrverbote das Ziel geringerer Emissionen, wenn auf den längeren Ausweichstrecken zwingend mehr Kraftstoff verbraucht wird?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der LRP für Hamburg hat das Ziel, entsprechend der 39. Verordnung zum Bundes- Immissionsschutzgesetz (39. BImSchV) an den Orten, die eine Überschreitung des Jahresmittelgrenzwertes aufweisen, die NO-Belastung zum Schutz der Gesundheit von Anwohnern auf Grenzwertniveau zu senken. Die Durchfahrtsbeschränkungen an der Max-Brauer-Allee und der Stresemannstraße dienen diesem Ziel.
 
@@ -165,7 +166,7 @@ Wie viele Arbeitsstunden veranschlagen die zuständige Behörde sowie die Verkeh
 
 Bereits jetzt haben Polizisten in Hamburg mehr als 1 Million Überstunden durchgeführt und vor sich hergeschoben. Inwiefern werden im Zuge der Einrichtung der Fahrverbote zusätzlich Polizisten an den betroffenen Kommissariaten oder der Verkehrsdirekten eingesetzt und/oder eingestellt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Polizei plant konkrete Personalstunden für Einzelmaßnahmen der Verkehrsüberwachung nicht im Voraus. Diese Maßnahmen sind stets im Zusammenhang mit der aktuellen polizeilichen Lage zu betrachten und werden mit dem dann aktuell zur Verfügung stehenden Personal durchgeführt. Im Übrigen siehe Drs. 21/12227.
 

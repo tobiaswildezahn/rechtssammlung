@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49393"
@@ -43,7 +44,7 @@ Was genau plant die Senatorin?
 
 Welche Vorteile bieten solche Zentren gegenüber der derzeitigen Versorgung? Insbesondere: Welche Leistungen können dort erbracht werden, die in der derzeitigen Struktur nicht erbracht werden können?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Vorgesehen ist der bedarfsgerechte und regionale Ausbau der geriatrischen Versorgung. Für jeden Bezirk soll ein Zentrum für Altersmedizin mit speziellen vollstationären, teilstationären, ambulanten (Geriatrische Institutsambulanz/GIA) und ergänzenden Versorgungsangeboten geschaffen werden.
 
@@ -89,6 +90,6 @@ Wird die Einrichtung solcher Zentren finanziell durch den Staat oder aus den Bei
 
 Werden die Zahlungen an diese Zentren unbegrenzt geleistet oder sind diese wie sonst in der GKV „gedeckelt“?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antwort zu 1. und 2.

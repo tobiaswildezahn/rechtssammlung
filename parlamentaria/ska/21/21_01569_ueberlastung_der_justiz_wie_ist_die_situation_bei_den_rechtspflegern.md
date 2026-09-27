@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49786"
@@ -47,7 +48,7 @@ Wie hat sich die Anzahl der eingereichten Kostenfestsetzungsanträge an den einz
 
 Wie hat sich die durchschnittliche Bearbeitungsdauer von Kostenfestsetzungsanträgen an den einzelnen Amtsgerichten und am Landgericht seit dem Jahr 2010 entwickelt? Bitte pro Jahr und Gericht darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Kostenfestsetzungsanträge werden statistisch nicht erfasst. Zur Beantwortung der Fragen wäre die händische Auswertung von jährlich rund 17.000 landgerichtlichen und 40.000 amtsgerichtlichen Verfahrensakten allein für den Zivilbereich erforderlich. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

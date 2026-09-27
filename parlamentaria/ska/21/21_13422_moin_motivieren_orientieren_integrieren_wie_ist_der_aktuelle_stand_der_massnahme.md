@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6161"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62799"
@@ -57,7 +58,7 @@ Wie viele unterschiedliche MOIN-Maßnahmen existieren mittlerweile (V- MOIN, Br�
 
 Welche „Träger“ bieten MOIN-Kurse seit Bestehen der Maßnahme bis heute an und wie hat sich die Zahl der Maßnahmenträger seither entwickelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

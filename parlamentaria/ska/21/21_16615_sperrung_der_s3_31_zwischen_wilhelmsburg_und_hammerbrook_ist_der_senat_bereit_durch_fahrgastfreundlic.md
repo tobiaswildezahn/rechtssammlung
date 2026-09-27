@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66149"
@@ -66,13 +67,13 @@ Welche weiteren Sperrungen sind infolge des Baues sowie der Bedachung der S-Bahn
 
 Zusätzlich zu den in der Anfrage benannten Sperrzeiträumen muss es im Jahr 2019 voraussichtlich noch folgende Sperrungen zwischen Hammerbrook und Wilhelmsburg geben:
 
- von Samstag, 27.4., 1 Uhr bis Sonntag, 28.4., 4 Uhr (wegen dieser zusätzlichen
+– von Samstag, 27.4., 1 Uhr bis Sonntag, 28.4., 4 Uhr (wegen dieser zusätzlichen
 
 kurzfristigen Sperrpause können zwei Wochenendsperrungen im August beziehungsweise September entfallen),
 
- von Samstag, 02.11., 1 Uhr bis Sonntag, 03.11., Betriebsschluss,
+– von Samstag, 02.11., 1 Uhr bis Sonntag, 03.11., Betriebsschluss,
 
- von Samstag, 23.11., 1 Uhr bis Sonntag, 24.11., Betriebsschluss.
+– von Samstag, 23.11., 1 Uhr bis Sonntag, 24.11., Betriebsschluss.
 
 ### Frage 2
 

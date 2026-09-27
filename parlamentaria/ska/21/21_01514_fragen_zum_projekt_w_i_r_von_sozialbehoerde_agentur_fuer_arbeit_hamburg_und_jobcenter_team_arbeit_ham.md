@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 20
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/878"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49722"
@@ -132,7 +133,7 @@ Wie viele Personalstellen sind gesamt für den Standort am Millerntor 1 geplant?
 
 Wer ist der jeweilige Kostenträger der Personalstellen? Bitte aufschlüsseln nach Anzahl der Mitarbeiter/-innen und Kostenträger.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Seitens der FHH werden zum gegenwärtigen Stand aufwachsend insgesamt zehn Mitarbeiterkapazitäten für Beratungstätigkeiten bei Maßnahmeträgern/Projekten zur Verfügung gestellt (Aufstockung), die bereits heute im Bereich der beruflichen und sonstigen Integration von Flüchtlingen beziehungsweise Zuwanderern tätig sind. Sechs Mitarbeiterkapazitäten (MAK) entfallen auf die „Flüchtlingszentrum Hamburg – Zentrale Information und Beratung für Flüchtlinge gGmbH“, eine MAK auf „FLUCHTort Hamburg“, eine MAK auf die „Zentrale Anlaufstelle Anerkennung“, eine MAK auf „Mission Zukunft“ und eine MAK auf „Make it in Hamburg!“. Die Eingruppierung entspricht grundsätzlich der Entgeltgruppe (E) 9 des TV-L. Die Finanzierung der Stellen bei den Maßnahmeträgern ist befristet bis einschließlich 31. Dezember 2017. Kostenträger ist die Behörde für Arbeit, Soziales, Familie und Integration (BASFI). Diese bringt nach dem gegenwärtigen Stand auch 1 MAK für die Projektkoordination (E 13) und 1 MAK für die Sachbearbeitung zu Fragen des Aufenthalts- und Melderechts ein.
 

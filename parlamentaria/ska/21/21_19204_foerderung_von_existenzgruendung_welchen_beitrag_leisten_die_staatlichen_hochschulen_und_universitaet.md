@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68901"
@@ -65,7 +66,7 @@ Wie viele Professoren, Lehrkräfte und sonstige Mitarbeiter forschen beziehungsw
 
 Welche Gesamtkosten fallen derzeit jährlich für die Forschungsbereiche Existenzgründung und Entrepreneurship an den staatlich finanzierten Hochschulen und Universitäten an? Bitte differenziert nach Hochschule und Fakultät aufschlüsseln.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage 1.
 

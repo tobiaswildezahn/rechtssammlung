@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 28
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16714", "21/16852", "21/14523"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66562"
@@ -105,7 +106,7 @@ Wurden jemals die Kandidaten der Examenstermine nach Universitäten räumlich ge
 
 Wurden jemals die Prüfungsnummern der Kandidaten der Examenstermine nach Universität vergeben?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Nein.
 
@@ -125,7 +126,7 @@ Wie wird die Akteneinsicht in der bisherigen Verwaltungspraxis für die Klausure
 
 Dürfen von den Klausuren tatsächlich keine Fotografien gemacht werden? Falls ja, warum nicht und auf welcher Rechtsgrundlage?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Akteneinsicht ist in § 29 HmbJAG geregelt.
 
@@ -141,7 +142,7 @@ Stellt die bisherige Verwaltungspraxis der Akteneinsicht aus Sicht des Senats ei
 
 Ergibt sich aus der Sicht des Senats aus Artikel 15 DSGVO ein unbefristeter Auskunftsanspruch hinsichtlich der gesamten Prüfungsunterlagen aus dem Staats- und Universitätsteil des ersten juristischen Examens? Falls nein, warum nicht?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Der Senat hat sich hiermit nicht befasst. Im Übrigen siehe Antwort zu 8. und 9.
 
@@ -153,7 +154,7 @@ Warum beantwortet das JPA keine Fragen zur Hilfsmittelverfügung?
 
 Wie können Kandidaten bei unbestimmten Begriffen sicherstellen, dass ihre Interpretation keinen Verstoß gegen die Hilfsmittelverfügung darstellt?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Die Hilfsmittelverfügung vermeidet unbestimmte Begriffe. Im Übrigen siehe Vorbemerkung.
 
@@ -173,7 +174,7 @@ Wie ist der aktuelle Stand zur Umsetzung der IT-gestützten Klausuren für das e
 
 Werden an den Universitäten schon IT-gestützte Klausuren geschrieben? Falls ja, in welchen Fächern? Falls nein, wie werden die Studierenden auf die IT-gestützten Klausuren vorbereitet?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Zur Vorbereitung der Einführung IT-gestützter Staatsexamensklausuren wurde unter Federführung des Hanseatischen Oberlandesgerichts eine interdisziplinäre Projektgruppe eingerichtet, die sich intensiv mit den relevanten Fragestellungen beschäftigt. Der Senat beabsichtigt, die Bürgerschaft im Rahmen der Beantwortung des Bürgerschaftlichen Ersuchens aus Drs. 21/14523 über die Ergebnisse zu unterrichten.
 

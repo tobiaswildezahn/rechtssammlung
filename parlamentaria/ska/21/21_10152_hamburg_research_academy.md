@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 20
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4847"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58984"
@@ -125,39 +126,39 @@ Mit welchen operativen Stellen der involvierten Hochschulen wird seit wann opera
 
 Welche der fakultären beziehungsweise zentralen Einrichtungen an den beteiligten Hochschulen haben bislang Angebote zum Thema Karriereentwicklung gemacht?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die HRA arbeitet mit den operativen Verantwortlichen für Nachwuchsausbildung an den Hochschulen zusammen. Die Zusammenarbeit läuft seit August 2016 bisher insbesondere an den folgenden Einrichtungen:
 
 UHH-Fakultäten:
 
- MIN, inklusive Campus Bahrenfeld
+– MIN, inklusive Campus Bahrenfeld
 
- WISO
+– WISO
 
- MED
+– MED
 
- UHH-Cluster
+– UHH-Cluster
 
 Zentrale Einrichtungen der UHH:
 
- Personalentwicklung
+– Personalentwicklung
 
- Career Center
+– Career Center
 
- Hamburger Zentrum für universitäres Lehren und Lernen
+– Hamburger Zentrum für universitäres Lehren und Lernen
 
 Technische Universität Hamburg-Harburg (TUHH)
 
- Graduiertenakademie TUHH
+– Graduiertenakademie TUHH
 
 HAW:
 
- Promotionszentrum HAW
+– Promotionszentrum HAW
 
 HafenCity Universität (HCU):
 
- Promotionskolleg HCU
+– Promotionskolleg HCU
 
 ### Frage 12
 

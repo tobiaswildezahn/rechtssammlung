@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7486", "21/9020", "21/10557"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63954"
@@ -49,7 +50,7 @@ Wie ist der Planungs- beziehungsweise Umsetzungsstand für die Umwandlung in Kun
 
 Wann ist mit der Fertigstellung zu rechnen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eins der beiden vorhandenen Tennengroßspielfelder des öffentlichen Sportplatzes Notkestraße wird in Kunststoffrasen umgewandelt. Baubeginn war Ende August 2018. Mit der Fertigstellung ist bis Ende des Jahres zu rechnen. Die Herrichtung des zweiten Tennenplatzes wurde intensiv geprüft. Eine Kunstrasenausstattung ist aufgrund des derzeitigen Platzzustandes nach fachlicher Beurteilung derzeit nicht geboten und wird daher aktuell nicht mehr betrieben.
 
@@ -61,6 +62,6 @@ Wie ist der Planungs- beziehungsweise Umsetzungsstand für den Bau der Sporthall
 
 Wann ist mit der Fertigstellung zu rechnen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/10557. Die erforderliche weitere Konkretisierung der Planungen durch den Verein Groß Flottbeker Spvg. v. 1912 e.V. liegt noch nicht vor.

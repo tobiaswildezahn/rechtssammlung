@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54242"
@@ -47,7 +48,7 @@ Wie viele Personen bezogen aufstockende Leistungen zum Arbeitslosengeld I in den
 
 Wie viele Personen bezogen aufstockende Leistungen zum Erwerbseinkommen in den Jahren 2011 bis dato über das SGB II? Bitte jeweils monatlich pro Jahr auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Jobcenter verweist auf die öffentlich zugänglichen statistischen Auswertungen der Bundesagentur für Arbeit zur Zeitreihe der Strukturen der Grundsicherung für Arbeitsuchende – Deutschland, Länder, Kreise – Hamburg“. Im Übrigen siehe Anlage.
 

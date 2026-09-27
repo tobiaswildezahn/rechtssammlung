@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11920"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61226"
@@ -49,7 +50,7 @@ Wie viele Diebstähle von Pkws in Hamburg wurden 2017 erfasst und wie viele dies
 
 Welches waren 2017 die zehn Stadtteile in Hamburg mit den meisten Pkw-Diebstählen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In der Polizeilichen Kriminalstatistik (PKS) erfolgt die Erfassung von Diebstählen von Kraftwagen einschließlich unbefugter Ingebrauchnahme unter dem PKS-Straftatenschlüssel ***1**. Eine Unterscheidung nach Arten von Kraftwagen wird bei der Erfassung in der PKS nicht vorgenommen.
 
@@ -63,7 +64,7 @@ Wie viele Diebstähle von Pkws in Hamburg wurden in den Jahren 2011 – 2016 erf
 
 Welchen waren in den Jahren 2011 – 2016 jeweils die zehn Stadtteile mit den meisten Pkw-Diebstählen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Ab dem Jahrgang 2012 sind die Stadtteilatlanten für Hamburg im Internet, im Transparenzportal  
 der  
@@ -88,7 +89,7 @@ Wie viele Fälle von
 a) Hehlerei,
 b) gewerbsmäßiger Hehlerei/Bandenhehlerei in Bezug auf Pkws wurden in den Jahren 2011 – 2016 in Hamburg zur Anzeige gebracht und wie viele rechtskräftige Verurteilungen zu einer Geld- oder Freiheitsstrafe gab es in diesen Jahren diesbezüglich? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 In der PKS erfolgt die Erfassung von Hehlerei von Kraftfahrzeugen gemäß §§ 259 bis 260a Strafgesetzbuch unter dem PKS-Straftatenschlüssel 6310**. Eine Unterscheidung nach Arten von Kraftwagen beziehungsweise Kraftfahrzeugen wird bei der Erfassung in der PKS nicht vorgenommen.
 

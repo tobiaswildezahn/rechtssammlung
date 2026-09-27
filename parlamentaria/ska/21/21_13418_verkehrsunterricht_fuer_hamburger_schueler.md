@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 17
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62795"
@@ -71,75 +72,75 @@ Die für die einzelnen Klassenstufen vorgesehenen Unterrichtsinhalte sind nachst
 
 Vorschulklassen: Kind als Fußgänger im Straßenverkehr
 
- Benutzung des Gehwegs
+– Benutzung des Gehwegs
 
- Überqueren der Fahrbahn an Lichtzeichenanlagen (LZA)/Fußgängerüberwegen
+– Überqueren der Fahrbahn an Lichtzeichenanlagen (LZA)/Fußgängerüberwegen
 
 (FGÜ)
 
- Verhältnis zu Radfahrern und Kraftfahrern
+– Verhältnis zu Radfahrern und Kraftfahrern
 
 1. Klasse: Schulwegtraining/Schulwegsicherheit und Kind als Fußgänger im Straßenverkehr (im Schulumfeld – helle Jahreszeit)
 
- Gehweg, Gehweg/Radweg, Partnerschaft zum Radfahrer
+– Gehweg, Gehweg/Radweg, Partnerschaft zum Radfahrer
 
- Überqueren der Fahrbahn an LZA, FGÜ, ungesichert
+– Überqueren der Fahrbahn an LZA, FGÜ, ungesichert
 
- Hindernisse (Umwege in Kauf nehmen)
+– Hindernisse (Umwege in Kauf nehmen)
 
- Aus-/Einfahrten, Kraftfahrzeuge als Abbieger
+– Aus-/Einfahrten, Kraftfahrzeuge als Abbieger
 
- Witterungsverhältnisse
+– Witterungsverhältnisse
 
- Rücksichtnahme (Verständnis entwickeln für die Situation anderer)
+– Rücksichtnahme (Verständnis entwickeln für die Situation anderer)
 
 2. Klasse: Kind als Fußgänger im Straßenverkehr (im Schulumfeld – dunkle Jahreszeit)
 
- Verkehrsbeobachtungen, insbesondere Fußgänger, Rad-, Autofahrer an LZA/FGÜ
+– Verkehrsbeobachtungen, insbesondere Fußgänger, Rad-, Autofahrer an LZA/FGÜ
 
- Verständigung durch Zeichen (geben und deuten)
+– Verständigung durch Zeichen (geben und deuten)
 
- Überqueren der Fahrbahn an unübersichtlichen Stellen
+– Überqueren der Fahrbahn an unübersichtlichen Stellen
 
- Verhalten an Ein-/Ausfahrten, Einmündungen, Kreuzungen
+– Verhalten an Ein-/Ausfahrten, Einmündungen, Kreuzungen
 
- Sehen und gesehen werden
+– Sehen und gesehen werden
 
- Kind als Mitfahrer im Pkw
+– Kind als Mitfahrer im Pkw
 
- Kind als Radfahrer (Vorübungen)
+– Kind als Radfahrer (Vorübungen)
 
 3. Klasse: Kind als Radfahrer im Straßenverkehr (Schonraum/Turnhalle – Winterprogramm)
 
- Fahrgeschicklichkeitsübungen
+– Fahrgeschicklichkeitsübungen
 
- Einfahren/Anfahren (der Blick nach hinten über die linke Schulter)
+– Einfahren/Anfahren (der Blick nach hinten über die linke Schulter)
 
- Rechts fahren
+– Rechts fahren
 
- Vorbeifahren an Hindernissen/ausweichen/bremsen
+– Vorbeifahren an Hindernissen/ausweichen/bremsen
 
- Vorfahrt: rechts vor links/an Verkehrszeichen
+– Vorfahrt: rechts vor links/an Verkehrszeichen
 
- Links abbiegen (im rechten Winkel)
+– Links abbiegen (im rechten Winkel)
 
 4. Klasse: Kind als Radfahrer im Straßenverkehr (Realverkehr in der Regel Schulumfeld)
 
- Verlassen des Schulhofes, Einfahren in den öffentlichen Straßenverkehr
+– Verlassen des Schulhofes, Einfahren in den öffentlichen Straßenverkehr
 
- Rechts fahren auf der Fahrbahn/Radweg/Verlassen des Radweges
+– Rechts fahren auf der Fahrbahn/Radweg/Verlassen des Radweges
 
- Vorbeifahren an Hindernissen
+– Vorbeifahren an Hindernissen
 
- Vorfahrt/Grünpfeil
+– Vorfahrt/Grünpfeil
 
- Gegebenenfalls Einbahnstraße/verkehrsberuhigter Bereich
+– Gegebenenfalls Einbahnstraße/verkehrsberuhigter Bereich
 
- Links abbiegen im rechten Winkel
+– Links abbiegen im rechten Winkel
 
 5./6. Klasse: Kind als Radfahrer im Straßenverkehr (Fahrradprojekte)
 
- praxisorientierte Wiederholung der Inhalte 4. Klasse
+– praxisorientierte Wiederholung der Inhalte 4. Klasse
 
 o Fahren bei Dunkelheit
 
@@ -153,27 +154,27 @@ o Besondere Verkehrssituationen
 
 o Fahrrad und Kraftfahrzeug/der „tote“ Winkel (ausführlich)/Grünpfeil
 
- Veränderte Schulwege
+– Veränderte Schulwege
 
- Verändertes Freizeitverhalten
+– Verändertes Freizeitverhalten
 
- Veränderte Mobilität
+– Veränderte Mobilität
 
- Einzelverhalten/Gruppendruck
+– Einzelverhalten/Gruppendruck
 
- Risiko – „Gefahr als Kick“ (beginnende Pubertät)
+– Risiko – „Gefahr als Kick“ (beginnende Pubertät)
 
- Direktes Linksabbiegen
+– Direktes Linksabbiegen
 
- Abknickende Vorfahrt
+– Abknickende Vorfahrt
 
- Praktisch/technische Gefahrenlehre (wie funktioniert eine LZA)
+– Praktisch/technische Gefahrenlehre (wie funktioniert eine LZA)
 
- Gruppenfahrten (Verband § 27 Straßenverkehrs-Ordnung)
+– Gruppenfahrten (Verband § 27 Straßenverkehrs-Ordnung)
 
 8. bis 10. Klasse: Mofa-Projekte
 
- Abnahme der fahrpraktischen Mofa-Prüfung
+– Abnahme der fahrpraktischen Mofa-Prüfung
 
 ### Frage 4
 

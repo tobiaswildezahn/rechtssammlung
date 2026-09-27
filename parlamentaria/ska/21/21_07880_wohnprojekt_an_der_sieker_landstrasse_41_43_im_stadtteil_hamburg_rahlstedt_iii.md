@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2003", "21/6784"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56510"
@@ -47,7 +48,7 @@ Wurde eine Fällgenehmigung für die betroffenen Kastanienbäume beim Wohnprojek
 
 Welche Gründe hätten die Fällgenehmigung verhindern können?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Ergänzungsbescheide mit den Ausnahmegenehmigungen für die Baumfällungen sind mit aufschiebender Bedingung am 20. Dezember 2016 vom zuständigen Bezirksamt erteilt worden, die Ergänzungsbescheide nach Erfüllung der aufschiebenden Bedingung (Vorlage eines Baumschutzkonzepts) am 2. beziehungsweise 3. Februar 2017.
 
@@ -89,23 +90,23 @@ Welche weiteren Ausgleichsmaßnahmen haben die Bauherren auf den Grundstücken a
 
 Die Bauherren Wohnungsbaugenossenschaft Gartenstadt Wandsbek eG (WGW) und Otto Wulff Projektentwicklung GmbH (OWP) schlugen folgende zusätzlichen Ausgleichsmaßnahmen vor:
 
- Umsetzung des mit dem Bauantrag vorgelegten Außenanlagenkonzeptes, ergänzt
+– Umsetzung des mit dem Bauantrag vorgelegten Außenanlagenkonzeptes, ergänzt
 
 um drei weitere Baumpflanzungen auf den Grundstücken Sieker Landstraße 41/43 gemäß Bauvorlagen.
 
- Errichtung von Photovoltaikanlagen auf jeweils einem Gebäude der WGW (südli-
+– Errichtung von Photovoltaikanlagen auf jeweils einem Gebäude der WGW (südli-
 
 cher Grundstücksteil-Flurstück 2311) und einem der OWP (nördlicher Grundstücksteil-Flurstück 2316) zur Allgemeinstromversorgung (Tiefgaragen) beziehungsweise Einspeisung ins öffentliche Netz.
 
- Die Ausrüstung der drei OWP-Gebäude mit weiteren Photovoltaikanlagen zur
+– Die Ausrüstung der drei OWP-Gebäude mit weiteren Photovoltaikanlagen zur
 
 Stromversorgung der Eigentumswohnungen beziehungsweise zur Einspeisung ins öffentliche Netz.
 
- Beteiligung an der Spendenaktion „Mein Baum – meine Stadt“ für den Stadtteil
+– Beteiligung an der Spendenaktion „Mein Baum – meine Stadt“ für den Stadtteil
 
 Rahlstedt, Übernahme der zum Stand 30.Mai 2016 freien Standorte von 36 Straßenbäumen à 500 Euro.
 
- Pflanzung von circa zehn großkronigen Bäumen im Bestand der WGW.
+– Pflanzung von circa zehn großkronigen Bäumen im Bestand der WGW.
 
 ### Frage 7
 
@@ -115,7 +116,7 @@ Welche Ausgleichsmaßnahmen sind auf dem Grundstück Sieker Landstraße 41 gepla
 
 Welche Ausgleichsmaßnahmen sind auf dem Grundstück Sieker Landstraße 43 geplant?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antwort zu 5.
 

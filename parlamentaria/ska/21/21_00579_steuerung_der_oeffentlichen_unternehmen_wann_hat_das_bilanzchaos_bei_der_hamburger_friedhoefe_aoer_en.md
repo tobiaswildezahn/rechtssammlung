@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48789"
@@ -57,7 +58,7 @@ Wie sind der genaue Sachstand sowie der Zeitplan bezüglich der Prüfung der Sch
 
 Plant oder erwägt der Senat, der Bürgerschaft einen diesbezüglichen Gesetzentwurf vorzulegen? Wenn ja, wann und mit welchen Inhalten?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Überlegungen dazu sind noch nicht abgeschlossen.
 
@@ -75,15 +76,15 @@ Wann genau hat der Aufsichtsrat der HF seit Februar 2014 in jeweils welcher Bese
 
 #### Antwort zu Frage 5
 
- 19. Februar 2014:
+– 19. Februar 2014:
 
 Staatsrat Michael Sachs, Ute Rogall, Jens Bornmüller, Jutta Hartung, Klaus Hoppe
 
- 10. September 2014:
+– 10. September 2014:
 
 Ute Rogall (Vorsitz), Antonia Aschendorf, Jens Bornmüller, Jutta Hartung
 
- 11. Dezember 2014:
+– 11. Dezember 2014:
 
 Staatsrat Michael Sachs, Ute Rogall, Antonia Aschendorf, Jens Bornmüller, Jutta Hartung, Klaus Hoppe
 

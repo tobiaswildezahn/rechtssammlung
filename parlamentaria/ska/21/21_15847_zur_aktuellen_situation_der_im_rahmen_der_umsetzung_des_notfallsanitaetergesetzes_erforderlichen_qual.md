@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 24
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15514"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65337"
@@ -56,7 +57,7 @@ Wie viele Beschäftigte gibt es im Rettungsdienst der Feuerwehr Hamburg aktuell 
 
 Wie viele der Beschäftigten im Rettungsdienst der Feuerwehr Hamburg (BiR) sind aktuell als Rettungsassistenten beziehungsweise als Notfallsanitäter qualifiziert und wie viele der aktuell als Notfallsanitäter qualifizierten Beschäftigten haben ihre Ausbildung bei der Feuerwehr Hamburg absolviert? Bitte jeweils nach Beamten sowie Angestellten, befristet und unbefristet, gesondert darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Feuerwehr Hamburg liegt von 39 Beschäftigten der Nachweis vor, dass Sie berechtigt sind, die Berufsbezeichnung Notfallsanitäterin/Notfallsanitäter zu tragen. Hiervon sind acht befristet beschäftigt. Fünf weitere BiR (alle unbefristet beschäftigt) sollen die Qualifikation zur Notfallsanitäterin beziehungsweise zum Notfallsanitäter erlangt haben, ohne jedoch die entsprechende Urkunde bisher der Dienststelle vorgelegt zu haben.
 

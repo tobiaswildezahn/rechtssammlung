@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 32
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1110", "21/1067", "21/1008", "21/977", "21/924", "21/847", "21/798", "21/1132"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49434"
@@ -116,7 +117,7 @@ Wie viele Betreuer sind für die bis zu 420 Flüchtlinge täglich vor Ort eingep
 
 Welcher Herkunft sollen die rund 420 Flüchtlinge genau sein? Worauf wird dabei bei der Belegung geachtet? Bitte genau nach Herkunftsländern aufgliedern.
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Das angestrebte Betreuungsverhältnis durch den Betreiber f & w entspricht dem Betreuungsverhältnis für alle Zentralen Erstaufnahmeeinrichtungen Die Zuweisung von Flüchtlingen in die Einrichtung Ohlstedter Platz ergibt sich aus den Unterbringungsbedarfen der eintreffenden Menschen. Die aktuelle Situation lässt eine vorherige detaillierte Festlegung von Herkunftsländern nicht zu.
 
@@ -128,7 +129,7 @@ Wie wird eine ausreichende medizinische Versorgung aller Flüchtlinge in den Zel
 
 Kann der Senat beziehungsweise die zuständige Behörde ausschließen, dass sich in der Zeltstadt auf dem Ohlstedter Platz die katastrophalen Zustände, insbesondere im Hinblick auf die Gesundheit, wie in der Zeltstadt in Jenfeld, wiederholen? Wenn ja, wie? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Die zuständigen Behörden passen die Strukturen der gesundheitlichen Versorgung der eintreffenden Flüchtlinge fortlaufend den veränderten Bedingungen an. Siehe hierzu auch Drs. 21/1132. Mit diesen Maßnahmen wird angestrebt, Infektionen zeitgerecht zu erkennen und eine Weiterverbreitung zu verhindern.
 

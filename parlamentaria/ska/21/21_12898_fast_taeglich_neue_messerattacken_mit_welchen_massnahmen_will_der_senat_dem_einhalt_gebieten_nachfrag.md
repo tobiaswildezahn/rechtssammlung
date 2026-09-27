@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 3
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12829", "18/3448"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62239"
@@ -45,7 +46,7 @@ Wie erklärt sich die Antwort des Senats auf meine Frage 7. b.: „Entsprechende
 
 Seit wann werden diese Daten, wie sie in der Drs. 18/3448 angegeben wurden, im LKA nicht mehr erfasst? Wer hat dies wann aus welchen Gründen entschieden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zu den entsprechenden Fragestellungen der Drs. 21/12829 war das LKA und dort auch das für Tötungsdelikte und Todesermittlungen zuständige Fachkommissariat befragt worden. Die entsprechende Beantwortung basierte auf deren Auskünften. Die jetzige Schriftliche Kleine Anfrage wurde zum Anlass einer erneuten Prüfung genommen.
 

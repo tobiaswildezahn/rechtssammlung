@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 21
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51789"
@@ -75,7 +76,7 @@ Welche Umsatzsteuereinnahmen wurden 2015 durch die Betriebe des Stuttgarter Wein
 
 Welche sonstigen Steuern und Abgaben gehen der Hamburger Staatskasse durch den Wegfall der Veranstaltung verloren? Bitte Vergleichszahlen von 2015 angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die am Stuttgarter Weindorf teilnehmenden Unternehmen werden steuerlich nicht in Hamburg geführt. Daher liegen der zuständigen Behörde keine Erkenntnisse über die Umsatzsteuereinnahmen im Zusammenhang mit dieser Veranstaltung vor. Im Übrigen würden die für die Beantwortung der Anfrage notwendigen Daten dem Steuergeheimnis (§ 30 der Abgabenordnung) unterliegen. Die Summe sonstiger Steuern im Zusammenhang mit dem Stuttgarter Weindorf 2015, soweit sie Hamburg zustehen, kann mangels Zuordnung des Steueraufkommens zu einzelnen Anlässen nicht ermittelt werden. Daher ist eine Schätzung der Mehr- oder Mindereinnahmen in Zusammenhang mit der Absage des Stuttgarter Weindorfs 2016 nicht möglich.
 
@@ -103,7 +104,7 @@ Welche Kosten werden auf den Hamburger Fischmarkt durch den Wegfall der Kompensa
 
 Ist die Durchführung der Veranstaltung des Fischmarktes in Stuttgart dadurch gefährdet?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Der zuständigen Behörde liegen hierzu keine Erkenntnisse vor.
 
@@ -157,7 +158,7 @@ Wäre für das Stuttgarter Weindorf gegebenenfalls eine Entscheidung mit mehr Fi
 
 Hat man bei der Entscheidung nicht bedacht, dass als Folge auch der Fischmarkt in Stuttgart ausfallen könnte und die damit verbundene kostenlose Werbung für Hamburg?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Angesichts einer angespannten Haushaltslage sowie im Hinblick auf die Gleichbehandlung mit anderen Veranstaltern sah sich die zuständige Genehmigungsbehörde nicht in der Lage, den Gebührenerlass fortzuführen.
 
@@ -171,7 +172,7 @@ Besteht nach Auffassung des Senates noch die Möglichkeit einer rechtskonformen 
 
 Aufgrund der oben angeführten Folgewirkungen für Hamburg gibt es nach unserer Auffassung ausreichend Gründe, um ein Fortbestehen des Stuttgarter Weindorfes zu ermöglichen. Teilt der Senat diese Auffassung? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Eine Einigung kann durch die Akzeptanz der Gebührenhöhe durch den Veranstalter erfolgen. Im Übrigen ist das zuständige Bezirksamt bereit, bei der Suche nach Alternativflächen zu unterstützen.
 

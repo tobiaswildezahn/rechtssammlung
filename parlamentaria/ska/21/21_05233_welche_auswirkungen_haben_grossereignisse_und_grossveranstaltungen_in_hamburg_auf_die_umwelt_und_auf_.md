@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 24
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/4967", "21/707", "19/8689", "20/8497", "21/1853"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53723"
@@ -93,11 +94,11 @@ Bezirksamt Hamburg-Mitte
 
 Soweit keine immissionsschutzrechtlichen Auflagen gemacht wurden, entfallen die Angaben.
 
- Die immissionsschutzrechtlichen Auflagen zum Schlagermove-Festzelt, zu den
+– Die immissionsschutzrechtlichen Auflagen zum Schlagermove-Festzelt, zu den
 
 Harley Days auf dem Großmarkt und zum Marathon wurden durch einen unabhängigen, amtlich anerkannten Sachverständigen kontrolliert und dessen Bericht wurde vom Fachamt für Verbraucherschutz, Gewerbe und Umwelt geprüft.
 
- Für die immissionsschutzrechtlichen Auflagen zu den Cruise Days und Christopher
+– Für die immissionsschutzrechtlichen Auflagen zu den Cruise Days und Christopher
 
 Street Day wurde je eine anlassbezogene Kontrolle durch das Fachamt für Verbraucherschutz, Gewerbe und Umwelt festgelegt; Anlässe lagen nicht vor.
 
@@ -179,13 +180,13 @@ Es lagen in früheren Jahren vereinzelte Beschwerden während und nach dem Berge
 
 Bezirk Hamburg-Mitte
 
- Harley Days: zwölf Beschwerden (siehe Drs. 19/8689 und 20/8497) – vorwiegend
+– Harley Days: zwölf Beschwerden (siehe Drs. 19/8689 und 20/8497) – vorwiegend
 
 Lärmbeschwerden,
 
- Marathon: eine Beschwerde,
+– Marathon: eine Beschwerde,
 
- Schlagermove: drei Beschwerden.
+– Schlagermove: drei Beschwerden.
 
 Darüber hinaus teilt das zuständige Bezirksamt mit, dass in der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht alle Veranstaltungen benannt werden können.
 
@@ -193,17 +194,17 @@ Hafengeburtstag und Hamburger DOM
 
 Schriftlichen Beschwerden zum Hafengeburtstag seit dem Jahr 2010:
 
- Lärm: vier,
+– Lärm: vier,
 
- Müll: zwei,
+– Müll: zwei,
 
- Wildpinkler: zwei.
+– Wildpinkler: zwei.
 
 Schriftliche Beschwerden Hamburger DOM seit dem Jahr 2010:
 
- Lärm: vier,
+– Lärm: vier,
 
- Beleuchtung: zwei.
+– Beleuchtung: zwei.
 
 Teilweise bezieht sich eine Beschwerde auf mehrere Aspekte. Diese wurde doppelt aufgeführt. Telefonisch eingehenden Beschwerden wird während der Veranstaltung direkt abgeholfen. Statistiken hierzu werden nicht geführt.
 
@@ -215,7 +216,7 @@ Gibt es institutionalisierte Beteiligungen von Bürgerinnen und Bürgern in der 
 
 Gibt es überhaupt Regelungen für die Beteiligung (Entscheidungsfindung, Ausgestaltung et cetera) von Bürgern/-innen, zum Beispiel hinsichtlich der Quartiers- und Stadtteilbeiräte? a. Wenn ja: Wie sehen diese Regelungen aus? b. Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Bürgerbeteiligung zu Veranstaltungen auf öffentlicher Wegefläche erfolgt über die Beteiligung der gewählten kommunalen Gremien (zum Beispiel Cityausschuss im Bezirksamt Hamburg-Mitte) und deren Vernetzung mit Stadtteilbeiräten.
 
@@ -233,47 +234,47 @@ Straßensperrungen finden regelmäßig bei folgenden Großveranstaltungen statt:
 
 altonale
 
- St. Pauli Fischmarkt/Hafenstraße
+– St. Pauli Fischmarkt/Hafenstraße
 
- Betty-Levi-Passage
+– Betty-Levi-Passage
 
- Paul-Nevermann-Platz, Bahnhofsvorplatz, Ladezone
+– Paul-Nevermann-Platz, Bahnhofsvorplatz, Ladezone
 
- Sperrung der Kommunaltrasse Große Bergstraße
+– Sperrung der Kommunaltrasse Große Bergstraße
 
- Sperrung der Kommunaltrasse Hahnenkamp
+– Sperrung der Kommunaltrasse Hahnenkamp
 
- Am Felde, vor Ottenser Hauptstraße
+– Am Felde, vor Ottenser Hauptstraße
 
- Bei der Reitbahn zw. Große Brunnenstr. und Eulenstraße
+– Bei der Reitbahn zw. Große Brunnenstr. und Eulenstraße
 
- Bahrenfelder Str.
+– Bahrenfelder Str.
 
- Karl-Theodor-Str.
+– Karl-Theodor-Str.
 
- Arnemannstraße
+– Arnemannstraße
 
- Friedensallee zw. Barnerstraße und Bahrenfelder Straße
+– Friedensallee zw. Barnerstraße und Bahrenfelder Straße
 
- Große Rainstraße zw. Spritzenplatz und Kleine Rainstraße
+– Große Rainstraße zw. Spritzenplatz und Kleine Rainstraße
 
- Ottenser Hauptstr. zw. Spritzenplatz und Große Brunnenstr.
+– Ottenser Hauptstr. zw. Spritzenplatz und Große Brunnenstr.
 
- Rothestraße zw. Eulenstraße und Ottenser Hauptstraße
+– Rothestraße zw. Eulenstraße und Ottenser Hauptstraße
 
- Kleine Brunnenstraße
+– Kleine Brunnenstraße
 
- Große Brunnenstraße zw. Eulenstraße und Ottenser Hauptstr.
+– Große Brunnenstraße zw. Eulenstraße und Ottenser Hauptstr.
 
- Museumstraße zw. Lobuschstraße und Platz der Republik Süd
+– Museumstraße zw. Lobuschstraße und Platz der Republik Süd
 
- Erzbergerstraße zw. Bahrenfelder Straße und Am Felde
+– Erzbergerstraße zw. Bahrenfelder Straße und Am Felde
 
- Am Pflug
+– Am Pflug
 
- Kleine Rainstraße
+– Kleine Rainstraße
 
- Große Bergstr. zw. Max-Brauer-Allee und Kommunaltrasse
+– Große Bergstr. zw. Max-Brauer-Allee und Kommunaltrasse
 
 Bergedorfer Stadtfest
 
@@ -281,17 +282,17 @@ Das Bergedorfer Stadtfest ist gekoppelt mit dem Fest der Nationen vom örtlichen
 
 Für das gesamte Veranstaltungswochenende werden folgende Straßen für den allgemeinen Autoverkehr gesperrt:
 
- Weidenbaumsweg zw. Einfahrt Bahnhofsparkhaus und Alte Holstenstraße
+– Weidenbaumsweg zw. Einfahrt Bahnhofsparkhaus und Alte Holstenstraße
 
- Alte Holstenstraße von Weidenbaumsweg bis Ludwig-Rosenberg-Ring
+– Alte Holstenstraße von Weidenbaumsweg bis Ludwig-Rosenberg-Ring
 
- Ludwig-Rosenberg-Ring von Hein-Möller-Weg bis Wilhelm-Bergner-Straße
+– Ludwig-Rosenberg-Ring von Hein-Möller-Weg bis Wilhelm-Bergner-Straße
 
- Bergedorfer Schlossstraße von Vinhagenweg bis Vierlandenstraße
+– Bergedorfer Schlossstraße von Vinhagenweg bis Vierlandenstraße
 
- Vierlandenstraße von Alte Holstenstraße bis Einmündung Hinterm Graben
+– Vierlandenstraße von Alte Holstenstraße bis Einmündung Hinterm Graben
 
- Am Bult
+– Am Bult
 
 Der Busverkehr wird umgeleitet, sodass an einigen Stellen im Umleitungsbereich Halteverbotszonen erforderlich werden.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49609"
@@ -43,7 +44,7 @@ Ist dem Senat inzwischen bekannt, wer der Halter der zur Tat verwendeten S-Klass
 
 War das Tatfahrzeug zum Tatzeitpunkt ordnungsgemäß zugelassen und versichert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ja.
 

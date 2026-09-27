@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54087"
@@ -47,7 +48,7 @@ Wie viele illegale Angebote, die von Hamburg aus im Darknet angeboten werden, si
 
 Kann der Senat sagen, ob es in Bezug auf Waffen ähnliche Käufe oder Kaufversuche von Hamburgern gegeben hat, wie es bei dem Münchner Amokläufer der Fall war?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Jahr 2013 ermittelte die Polizei in einem Verfahren, in dem ein Tatverdächtiger über das Darknet Betäubungsmittel vertrieben hat. Die Bezahlung der Betäubungsmittel erfolgte dabei über die Internetwährung Bitcoin. Darüber hinaus liegen der Polizei keine weiteren Erkenntnisse im Sinne der Fragestellung vor.
 

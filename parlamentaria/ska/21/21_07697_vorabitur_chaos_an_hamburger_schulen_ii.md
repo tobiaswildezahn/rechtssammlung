@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7504", "20/8056", "21/7509"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56324"
@@ -96,47 +97,47 @@ Ein Zentralabitur für das Fach Mathematik wurde in Hamburg bereits im Jahr 2005
 
 Die zuständige Behörde hat zahlreiche Maßnahmen durchgeführt, um die Qualität des Mathematikunterrichts zu verbessern. Dazu gehören
 
- die Erhöhung der Mindeststundenzahl für den Mathematikunterricht an Stadtteil-
+– die Erhöhung der Mindeststundenzahl für den Mathematikunterricht an Stadtteil-
 
 schulen und Gymnasien auf mindestens vier Stunden pro Woche,
 
- der verbindliche Einsatz von Fachlehrkräften mit Mathematik-Studium anstelle
+– der verbindliche Einsatz von Fachlehrkräften mit Mathematik-Studium anstelle
 
 fachfremder Lehrkräfte an Gymnasien und Stadtteilschulen bis spätestens zum Schuljahr 2017/2018,
 
- der verbindliche Einsatz von Fachlehrkräften mit Mathematik-Studium anstelle
+– der verbindliche Einsatz von Fachlehrkräften mit Mathematik-Studium anstelle
 
 fachfremder Lehrkräfte in mindestens 50 Prozent aller Mathematikstunden an Grundschulen,
 
- umfangreiche Qualifikationsmaßnahmen für fachfremd eingesetzte Lehrkräfte an
+– umfangreiche Qualifikationsmaßnahmen für fachfremd eingesetzte Lehrkräfte an
 
 Grundschulen im Umfang von insgesamt mindestens 190 Fortbildungsstunden innerhalb von vier Jahren,
 
- die Einführung von regelmäßigen Landesfachkonferenzen zur Weiterentwicklung
+– die Einführung von regelmäßigen Landesfachkonferenzen zur Weiterentwicklung
 
 des Mathematikunterrichts, an denen die Mathematik-Fachleiter jeder Hamburger Schule teilnehmen müssen,
 
- die Veröffentlichung von regelmäßigen Fachbriefen Mathematik mit beispielgeben-
+– die Veröffentlichung von regelmäßigen Fachbriefen Mathematik mit beispielgeben-
 
 den Klassenarbeiten und
 
- die systemische Weiterentwicklung des Mathematikunterrichts in Zusammenarbeit
+– die systemische Weiterentwicklung des Mathematikunterrichts in Zusammenarbeit
 
 mit dem Deutschen Zentrum für Lehrerbildung Mathematik (DZLM).
 
 Zur Vorbereitung auf die Prüfungen mit ländergemeinsam entwickelten und standardkonformen Aufgaben hat die zuständige Behörde
 
- den Rahmenplan Mathematik gymnasiale Oberstufe konkretisiert,
+– den Rahmenplan Mathematik gymnasiale Oberstufe konkretisiert,
 
- die Schulen über die Beispielsammlung des Instituts für Qualitätsentwicklung im
+– die Schulen über die Beispielsammlung des Instituts für Qualitätsentwicklung im
 
 Bildungswesen (IQB) informiert,
 
- die Lehrkräfte in umfangreichen Fachtagungen und über Mathematik-Fachbriefe
+– die Lehrkräfte in umfangreichen Fachtagungen und über Mathematik-Fachbriefe
 
 informiert sowie
 
- am Ende des dritten Semesters der Studienstufe eine Klausur unter Abiturbedin-
+– am Ende des dritten Semesters der Studienstufe eine Klausur unter Abiturbedin-
 
 gungen mit zentral vorgegebenen Aufgaben durchgeführt, die sich in Art und Umfang an den zu erwartenden Abituraufgaben orientierte.
 

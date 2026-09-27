@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59517"
@@ -55,6 +56,6 @@ Das Jahresergebnis 2016 zur HSH Beteiligungs Management GmbH, die Bestandteil de
 
 Finden sich innerhalb der HGV noch weitere Gesellschaften, an denen die HGV beteiligt ist und deren Jahresergebnis 2016 noch nicht im HGV- Abschluss berücksichtigt werden konnte? Wenn ja, welche? Wenn nein, aus welchem Grund akzeptiert die HGV die Sonderstellung der HSH Beteiligungs Management GmbH?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nein, aufgrund der handelsrechtlichen Regelungen, die eine Einbeziehung wesentlicher Beteiligungen ab einer Beteiligungshöhe von 20 Prozent vorsehen, wird die HSH Beteiligungsmanagement GmbH, an der die HGV einen Anteil von 6,7 Prozent hält, nicht in den Konzernabschluss der HGV einbezogen.

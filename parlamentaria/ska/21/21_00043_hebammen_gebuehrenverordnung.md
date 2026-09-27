@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48169"
@@ -55,7 +56,7 @@ Inwiefern wurde die Gebührenordnung für Hebammen in Hamburg zum
 
 Aus welchem Grunde wurde die Gebührenordnung geändert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -75,7 +76,7 @@ Wie haben sich die Betroffenen bei der Anhörung geäußert?
 
 Inwiefern wurden diese Äußerungen bei der Neufassung der Gebührenordnung berücksichtigt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Entfällt.
 

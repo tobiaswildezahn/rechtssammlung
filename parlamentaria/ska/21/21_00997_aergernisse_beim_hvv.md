@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13440", "20/14014", "20/12959", "20/10035"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49175"
@@ -131,7 +132,7 @@ Wird die Altersgrenze zur Nutzung einer Kinderermäßigung heraufgesetzt? Werden
 
 Werden Fahrten in die Innenstadt preisgünstiger?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Nein.
 

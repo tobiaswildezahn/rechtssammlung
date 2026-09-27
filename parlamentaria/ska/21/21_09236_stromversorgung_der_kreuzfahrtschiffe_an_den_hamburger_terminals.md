@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10414", "21/5913"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58007"
@@ -61,7 +62,7 @@ War die temporäre Stilllegung der LNG Hybrid Barge in der HafenCity eingeplant 
 
 Wann wurde der Betreiber Becker Marine Systems darüber informiert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Dem Senat sind keine Planungen zur Stilllegung der LNG Hybrid Barge bekannt.
 
@@ -89,7 +90,7 @@ Warum wurde in Steinwerder nicht von Beginn an externe Versorgung mit Strom der 
 
 Ist eine Verlegung der Barge mit landseitigem Anschluss für die Zukunft in Steinwerder noch geplant, um das von der Freien und Hansestadt Hamburg als Innovation gefeierte und für eigene Marketingzwecke genutzte Projekt weiter nutzen zu können?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antwort zu 3.
 

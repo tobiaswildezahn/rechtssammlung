@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 7
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56824"
@@ -51,6 +52,6 @@ Sind dem Senat beziehungsweise der zuständigen Behörde gleiche oder ähnliche 
 
 Ähnliche Treffen türkischstämmiger Lehrer und Eltern soll es parallel auch in den Städten Essen, Köln und Münster gegeben haben. Sind dem Senat beziehungsweise der zuständigen Behörde solche Treffen auch im türkischen Konsulat Hamburg bekannt? Falls ja, a. wann genau fanden diese statt? b. was ist über die Dauer und Inhalte dieser Treffen bekannt? c. wer nahm an diesen Treffen teil?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nein.

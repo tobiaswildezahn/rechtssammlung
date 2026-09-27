@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17895", "21/19241"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69415"
@@ -80,7 +81,7 @@ Welche Investitionen waren vor und nach dem Übergang des Gebäudes notwendig un
 
 Über welche Ausstattung (zum Beispiel Möblierung) verfügen die Zweierzimmer und Gemeinschaftsräume standardmäßig und über wen wurde diese finanziert?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die genaue Höhe der Investitionen ist derzeit noch nicht exakt zu ermitteln, da ausblick für die Instandsetzungsarbeiten und die erforderliche Ausstattung Angebote abgefordert hat, die noch nicht in Gänze vorliegen. Derzeit sind Investitionen in Höhe von etwa 30 000 Euro für Instandsetzung und in Höhe von etwa 40 000 Euro für Ausstattung geplant.
 

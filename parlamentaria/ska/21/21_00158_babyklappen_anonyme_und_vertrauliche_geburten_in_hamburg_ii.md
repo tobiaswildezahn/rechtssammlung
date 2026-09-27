@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/71", "20/10052"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48285"
@@ -75,7 +76,7 @@ Warum wurde bisher in keinem der in Drs. 21/71 genannten fünf Fälle aus dem Ja
 
 Was tut der Senat beziehungsweise die zuständige Behörde, damit möglichst schnell Adoptionsverfahren eingeleitet werden und warum war dies bei den Fällen aus dem Jahr 2014 bisher nicht erfolgreich?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die in der Drs. 21/71 genannten Säuglinge wurden von der Adoptionsvermittlungsstelle Hamburg jeweils in Adoptionspflege vermittelt. Die Adoptionspflegezeit beträgt bei Säuglingen in der Regel ein Jahr. Während dieser Zeit werden sie und ihre Adoptivpflegeeltern von der Adoptionsvermittlungsstelle begleitet und betreut. Gegen Ende der Adoptionspflegezeit werden die Adoptionspflegeeltern aufgefordert, einen notariellen Adoptionsantrag zu stellen, der beim Familiengericht eingereicht wird. Damit beginnt das Adoptionsverfahren. In allen genannten fünf Fällen ist die Adoptionspflegezeit noch nicht so weit fortgeschritten, dass bereits jetzt ein Adoptionsantrag gestellt und ein Adoptionsverfahren eingeleitet werden konnte. Dies wird, sobald möglich, in jedem Einzelfall geschehen.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10185"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59054"
@@ -55,7 +56,7 @@ Wie viele der Stadträder sind von diesem Defekt insgesamt betroffen, wie viele 
 
 Wie viele Räder können pro Tag repariert werden? Wann stehen die Fahrräder den Kunden in ihrer Gesamtzahl zur Verfügung?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/10185.
 

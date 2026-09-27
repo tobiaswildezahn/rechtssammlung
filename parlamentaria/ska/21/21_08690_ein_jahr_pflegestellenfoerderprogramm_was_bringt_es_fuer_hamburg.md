@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57413"
@@ -35,15 +36,15 @@ Gefördert werden 90 Prozent der Personalkosten für eine Pflegekraft, wenn unte
 
 ## Einleitung für die Antworten des Senats
 
- es eine schriftliche Vereinbarung mit der Arbeitnehmervertretung gibt,
+– es eine schriftliche Vereinbarung mit der Arbeitnehmervertretung gibt,
 
- die Pflegekraft eine mindestens dreijährige Pflegeausbildung hat,
+– die Pflegekraft eine mindestens dreijährige Pflegeausbildung hat,
 
- die Pflegekraft zusätzlich eingestellt wurde beziehungsweise die Stunden
+– die Pflegekraft zusätzlich eingestellt wurde beziehungsweise die Stunden
 
 aufgestockt wurden (Referenzdatum 1.1.2015),
 
- die Pflegekraft für die unmittelbare Patientenversorgung auf einer betten-
+– die Pflegekraft für die unmittelbare Patientenversorgung auf einer betten-
 
 führenden Station eingesetzt wird.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6310"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55913"
@@ -43,7 +44,7 @@ Es wurden weniger Personen abgeschoben, als es ursprünglich geplant war. Bei wi
 
 Für den Fall, dass weniger Personen aus Hamburg als ursprünglich vorgesehen abgeschoben wurden, aus welchen Gründen ist eine Abschiebung im Einzelfall nicht vollzogen worden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Ursprünglich war geplant, die Hamburg seitens des Bundes zur Verfügung gestellten 14 Plätze in der Chartermaßnahme zu belegen. Zurückgeführt wurden sieben Personen. In zwei Fällen wurde von der weiteren Durchführung der jeweiligen Rückführungsmaßnahme aufgrund von Eingaben abgesehen, in drei weiteren Fällen konnten die Rückführungsmaßnahmen aufgrund von Beschlüssen des Verwaltungsgerichts Hamburg nicht vollzogen werden. In einem Fall wurde die betreffende Person nicht angetroffen, in einem weiteren Fall wurde die Rückführungsmaßnahme wegen Krankheit storniert.
 

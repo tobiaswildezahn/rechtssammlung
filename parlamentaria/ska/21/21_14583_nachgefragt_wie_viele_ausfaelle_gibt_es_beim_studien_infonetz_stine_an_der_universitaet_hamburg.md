@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14486", "20/547"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64017"
@@ -274,7 +275,7 @@ Wann plant die UHH die Evaluation der neuen Produktgeneration von STiNE abzuschl
 
 Ist nach Erkenntnissen der UHH die neue Produktgeneration leistungsfähiger, sodass die in Antwort auf Frage 3. der Drs. 21/14486 beschriebenen langen Antwortzeiten des Portals in der „Ummelde- und Korrektur-Phase“ vermieden werden können?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die UHH plant die Evaluation der neuen Produktgeneration von CampusNet (CampusNet NT) im Laufe des Jahres 2019 abzuschließen und auf dieser Grundlage eine Entscheidung bezüglich einer Lizenzierung zu treffen. Die zu veranschlagende voraussichtliche Dauer eines möglichen Einführungsprojektes hängt wesentlich von den Ergebnissen der Evaluation ab und kann derzeit nicht valide abgeschätzt werden.
 

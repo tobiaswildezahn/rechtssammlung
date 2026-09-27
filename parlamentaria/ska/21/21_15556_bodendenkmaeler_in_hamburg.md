@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 21
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5703"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65045"
@@ -77,7 +78,7 @@ Die Bodendenkmäler stehen seit Inkrafttreten der Neufassung des Hamburgischen D
 
 Wie hat der Senat zwischen dem 01.05.2013 und der Information der Grundeigentümer den Schutz der Bodendenkmäler sichergestellt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Bodendenkmäler stehen nicht erst seit der Novellierung 2013, sondern bereits seit Inkrafttreten des Hamburgischen Denkmalschutzgesetzes am 3. Dezember 1973 unter Schutz. Die Grundeigentümer wurden im November 2018 informiert.
 

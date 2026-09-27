@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58531"
@@ -49,15 +50,15 @@ Eine Freigabe des Gehweges zur Benutzung durch Radfahrer durch das Zeichen 239 (
 
 Demnach kommt eine Freigabe von Gehwegen durch die Straßenverkehrsbehörden insbesondere nicht in Betracht
 
- bei starkem Fußgängerverkehr (zum Beispiel in Geschäftsstraßen),
+– bei starkem Fußgängerverkehr (zum Beispiel in Geschäftsstraßen),
 
- im Bereich von Bushaltestellen für MetroBusse ohne gesonderte Warteflächen,
+– im Bereich von Bushaltestellen für MetroBusse ohne gesonderte Warteflächen,
 
- bei einer Gehwegbreite unter 2,00 m an Straßen mit Wohnbebauung,
+– bei einer Gehwegbreite unter 2,00 m an Straßen mit Wohnbebauung,
 
- bei starkem Radverkehr und
+– bei starkem Radverkehr und
 
- bei Gehwegen mit einer dichten Folge unmittelbar angrenzender Hauseingänge
+– bei Gehwegen mit einer dichten Folge unmittelbar angrenzender Hauseingänge
 
 ### Frage 2
 

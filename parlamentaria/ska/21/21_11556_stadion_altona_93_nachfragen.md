@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 17
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5161"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60734"
@@ -94,6 +95,6 @@ Wie hoch werden die laufenden Kosten für die Nutzung eines Stadions an der Meme
 
 Wie hoch wird die Kostenbeteiligung der Stadt oder des Bezirkes Altona an der Maßnahme nach Frage 7. sein?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung.

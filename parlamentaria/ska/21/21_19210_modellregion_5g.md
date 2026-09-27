@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68895"
@@ -133,7 +134,7 @@ Befürwortet der Senat die Ausweisung von funkfreien Gebieten für Menschen, die
 
 Wie bewertet der Senat die Möglichkeiten, funkfreie Bereiche beispielsweise in öffentlichen Bildungseinrichtungen, im Nahverkehr oder in medizinisch-therapeutischen Einrichtungen vorzuhalten?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Eine mögliche Ausweisung von funkfreien Gebieten für Menschen, die eine strahlungsarme Umgebung aufsuchen wollen, lässt sich mit den geltenden Grenzwerten nicht begründen, da diese eingehalten werden. Das BfS hat festgestellt, dass bei Einhaltung der Grenzwerte nach dem wissenschaftlichen Kenntnisstand keine gesundheitlichen Beeinträchtigungen durch hochfrequente Felder – etwa aus dem Mobilfunk
 – zu erwarten sind. Im Übrigen siehe Vorbemerkung und Antwort zu 4.

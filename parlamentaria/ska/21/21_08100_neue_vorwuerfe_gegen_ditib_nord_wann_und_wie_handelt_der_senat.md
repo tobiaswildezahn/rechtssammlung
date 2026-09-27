@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 23
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7840"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56759"
@@ -63,7 +64,7 @@ Welche Erkenntnisse haben der Senat und der Verfassungsschutz über die von DITI
 
 Wird DITIB-Nord vom Verfassungsschutz beobachtet? Wenn ja, seit wann und mit welchen konkreten Erkenntnissen? Wenn nein, denkt der Verfassungsschutz vor dem Hintergrund der neuen Vorwürfe gegen DITIB-Nord und dessen Repräsentanten darüber nach, DITIB-Nord zukünftig zu beobachten?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die in Rede stehenden Äußerungen sind zusammen mit anderen Informationen Anlass, die Muradiye-Moschee einer näheren Überprüfung durch das Landesamt für Verfassungsschutz (LfV) zu unterziehen. Auch Hinweisen auf verfassungsfeindliche Haltungen oder extremistische Aktivitäten von Angehörigen der DITIB wird nachgegangen. Gemäß seiner gesetzlich festgelegten Aufgabenstellung prüft der Verfassungsschutz bei Vorliegen entsprechender Erkenntnisse Organisationen und Personen auf ihre Verfassungsfeindlichkeit. Sofern Bestrebungen im Sinne des § 4 des Hamburgischen Verfassungsschutzgesetzes vorliegen, nimmt das LfV Hamburg die Beobachtung auf.
 
@@ -85,6 +86,6 @@ Sofern die Vorwürfe gegen DITIB zutreffen, welche Konsequenzen wird der Senat d
 
 Inwieweit ist der Senat der Auffassung, dass es bei DITIB in Hamburg keine nationalistischen und islamistischen Entwicklungen gibt, wie noch in der Bürgerschaftsdebatte am 1. Februar 2017 behauptet?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Dem Fragerecht korrespondiert ein Anspruch auf Auskunft, nicht auf Meinungsbildung. Siehe Antwort zu 2.

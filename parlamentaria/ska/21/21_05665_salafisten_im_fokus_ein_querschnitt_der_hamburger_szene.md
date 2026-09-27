@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4700"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54167"
@@ -45,7 +46,7 @@ Wie ist die Struktur der salafistischen Szene gegenwärtig in Hinblick auf die S
 
 Wie viele von ihnen verfügen über die doppelte Staatsbürgerschaft?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Datenbestand zur salafistischen Szene unterliegt aufgrund sich verändernder Informationslagen einem stetigen Wandel. Bereits in der Drs. 21/4700 war die Zahl von 581 Personen genannt, die nach Erkenntnissen des Landesamtes für Verfassungsschutz (LfV) Hamburg der salafistischen Szene zuzuordnen waren. Zum Zeitpunkt der Beantwortung dieser Schriftlichen Kleinen Anfrage waren beim LfV Hamburg 621 Personen als Salafisten gespeichert.
 
@@ -96,7 +97,7 @@ Wie viele russische Staatsbürger aus Tschetschenien sind seit dem
 
 Wie hoch fällt der Vergleichswert für 2015 aus?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Tschetschenien ist eine Teilrepublik der Russischen Föderation. Aus diesem Grunde werden tschetschenische Volkszugehörige ausländerbehördlich als russische Staatsangehörige erfasst, sodass die erbetenen statistischen Angaben nicht vorliegen. Eine nachträgliche Ermittlung ist in der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht möglich, weil dies, soweit die Volkszugehörigkeit überhaupt angegeben wird, händisch ermittelt werden müsste.
 
@@ -110,6 +111,6 @@ Wie schätzt der Senat die Bedeutung der Tschetschenen für die salafistische Sz
 
 Seit 20 Jahren ist Tschetschenien vom militanten Islamismus betroffen. Wie beurteilt der Senat eine steigende Anzahl der Tschetschenen in Hamburg für eine etwaige Radikalisierung der salafistischen Szene?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Das von Angehörigen der salafistischen Szene in Hamburg ausgehende individuelle Gefährdungspotenzial hängt nicht in erster Linie von der Nationalität ab. Hamburger Salafisten haben, wie in der Antwort zu 1. und 2. ersichtlich, die verschiedensten Nationalitäten und Hintergründe.

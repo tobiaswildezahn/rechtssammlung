@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5317", "20/3591", "19/4209", "20/5318", "21/3100"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53822"
@@ -96,7 +97,7 @@ Warum baut – so wie ursprünglich geplant – nicht Schulbau Hamburg die zukü
 
 Wie ist diese Entscheidung zustande gekommen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Antworten zu 1. bis 3. und zu 5.
 

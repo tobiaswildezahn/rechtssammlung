@@ -14,6 +14,7 @@ fragen: 44
 einzelfragen: 59
 antwortbloecke: 27
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4569", "21/14381", "21/12634", "21/13466", "21/14040", "21/11447", "21/13275", "21/608", "21/2501", "21/2108", "20/917", "21/12179"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63805"
@@ -57,7 +58,7 @@ Wie viele der Wohnungen sind derzeit von Ausländern mit Asyl- beziehungsweise F
 
 Wie viele Ausländer mit Asyl- beziehungsweise Flüchtlingshintergrund und wie viele andere Personen wohnen derzeit in der Anlage?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zum 31. August 2018 sind insgesamt 207 Wohnungen. Im Übrigen siehe Drs. 21/14381 und Vorbermkung.
 
@@ -248,7 +249,7 @@ Welche beruflichen oder akademischen Qualifikationen weisen die Ausländer mit A
 
 Wie viele der Ausländer mit Asyl- beziehungsweise Flüchtlingshintergrund, die in der Anlage derzeit wohnen, gehen aktuell einer sozialversicherungspflichtigen Beschäftigung nach?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Siehe Drs. 21/12634 und Drs. 21/11447.
 
@@ -390,7 +391,7 @@ Wie viele der Ausländer mit Asyl- beziehungsweise Flüchtlingshintergrund nehme
 
 Wie viele der Ausländer mit Asyl- beziehungsweise Flüchtlingshintergrund, die derzeit in der Anlage wohnen, haben überhaupt schon einmal ein Angebot der Rückkehrberatungen in Anspruch genommen?
 
-#### Antwort zu Fragen 35 bis 36
+#### Antwort zu Fragen 35 und 36
 
 Diese Angaben werden statistisch nicht erhoben und stehen in auswertbarer Form nicht zur Verfügung.
 
@@ -444,7 +445,7 @@ Welche Aufgaben/Funktionen übernehmen die Mitarbeiter derzeit? Bitte umfassend 
 
 Welche Kosten entstehen f & w derzeit monatlich für die Anstellung der am Standort arbeitenden Mitarbeiter?
 
-#### Antwort zu Fragen 40 bis 41
+#### Antwort zu Fragen 40 und 41
 
 Zu den jeweiligen Aufgaben und Funktionen siehe Drs. 20/917.
 
@@ -468,6 +469,6 @@ Welche formalen Voraussetzungen müssen erfüllt sein, damit Personen aus Frage 
 
 Wer übt das Hausrecht in der Anlage aus?
 
-#### Antwort zu Fragen 43 bis 44
+#### Antwort zu Fragen 43 und 44
 
 Siehe Drs. 21/14040.

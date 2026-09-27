@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 22
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11549"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49212"
@@ -67,7 +68,7 @@ Wie erfolgt die Ausschreibung für das neue große Löschboot?
 
 Welche Termine zur Befassung der Bürgerschaft, der Ausschreibung, Anschaffung und letztlichen Indienststellung des neuen großen Löschbootes sind geplant?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 

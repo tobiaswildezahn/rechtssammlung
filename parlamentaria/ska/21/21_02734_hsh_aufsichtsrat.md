@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51068"
@@ -49,7 +50,7 @@ Durch welche Behörde(n) erfolgte die fachliche Vorbereitung dieser Vertreter de
 
 Welches Fachamt hat diese Vorbereitungen gefertigt (bitte getrennte Angabe für jeweilige Fachbehörde)?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Vorbereitung der Sitzungen erfolgte durch das Amt für Vermögens- und Beteiligungsmanagement der Finanzbehörde.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 31
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5039", "20/13460", "21/7939", "21/9440", "21/1706", "21/5331", "21/5711", "21/8162", "21/10592"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60365"
@@ -110,7 +111,7 @@ In der Presse war von einem offenbar sehr erfolgreichen Projekt namens „Oase�
 
 Das Projekt „Oase“ benötigt für seine Tätigkeit, laut Pressebericht, einen eigenen Raum mit bestimmter aufgabenbezogener Ausstattung. Wie wird seitens des Senats beziehungsweise der zuständigen Fachbehörde bei der Umsetzung solcher Präventionsmaßnahmen gewährleistet, dass die notwendigen Räumlichkeiten und deren Ausstattung entsprechend an den Schulen bereitgestellt werden können? (Bitte bisherige Maßnahmen und Finanzierung für diese Voraussetzungen in 2016/2017 und 2017/2018 (Stand November 2017) darstellen.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Zum Projekt „Oase“ siehe Drs. 21/9440.
 
@@ -142,7 +143,7 @@ Das Landesinstitut für Lehrerbildung und Schulentwicklung (LI) besitzt zur Aufk
 
 Wie genau ist das Beratungsteam „Menschenrechts- und Demokratiefeindlichkeit“ operativ strukturiert und arbeitstechnisch unter folgenden Aspekten in der Beratung und Weiterbildung von Schulen beziehungsweise Lehrern/-innen angelegt? Bitte jeweils erläutern: a. Kurzzeitliche Unterstützungsperspektiven b. Langfristige Unterstützungsperspektiven c. Perspektivisches Anliegen/Ziel d. Anfrageverfahren Seitens der Schulen e. Kommunikation f. Begleitung und Evaluation der Prävention g. Fokus und Strategien bezüglich speziell religiös motivierter Deradikalisierung h. Ressourcenausstattung i. Arbeitszeit der Mitarbeiter/-innen
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Zu den Unterstützungsleistungen und Fortbildungsveranstaltungen des LI bis Juli 2016 siehe Drs. 21/1706, Drs. 21/5039, Drs. 21/5331, Drs. 21/5711, Drs. 21/8162 und Drs. 21/10592.
 
@@ -162,37 +163,37 @@ Unter der Leitfrage „Wie wollen wir leben?“ sprechen junge Teamleiterinnen u
 
 Die Workshops werden von jungen Teamleiterinnen und -leiter (18-30 Jahre alt, z.T. mit muslimischem Hintergrund) durchgeführt. Ein Workshopmodul umfasst je drei Termine á 90 Minuten oder einen Projekttag. Im Vorfeld wird abgesprochen, welche Fragen in der Lerngruppe aktuell sind. Die Teamleiterinnen und -leiter arbeiten mit Filmen und Methoden, die von ufuq.de in Kooperation mit der Hochschule für Angewandte Wissenschaften in Hamburg (HAW) entwickelt und bundesweit in einer Vielzahl von Workshops erprobt wurden. Die Themen sind:
 
- Glauben, Islam und Ich. Über die Vielfalt von Islam und muslimischem Leben
+– Glauben, Islam und Ich. Über die Vielfalt von Islam und muslimischem Leben
 
 in Deutschland. Woran glaubst Du, was ist Dir wichtig? (ab Klasse 5),
 
- Männerbilder, Frauenbilder und Islam. Über Geschlechterrollen, Normkon-
+– Männerbilder, Frauenbilder und Islam. Über Geschlechterrollen, Normkon-
 
 struktionen und was das mit dem Islam zu tun hat (ab Klasse 8),
 
- Was bedeutet eigentlich Scharia? Über religiöse Quellen, ihre Auslegung im
+– Was bedeutet eigentlich Scharia? Über religiöse Quellen, ihre Auslegung im
 
 Alltag und die Vereinbarkeit mit Grundrechten (ab Klasse 8),
 
- Diskriminierung und Empowerment. Über Erfahrungen, die Jugendliche mit
+– Diskriminierung und Empowerment. Über Erfahrungen, die Jugendliche mit
 
 Muslimfeindlichkeit machen - und was man dagegen tun kann (ab Klasse 8),
 
- Blinder Gehorsam? Über den Wahrheitsanspruch radikaler Prediger und sa-
+– Blinder Gehorsam? Über den Wahrheitsanspruch radikaler Prediger und sa-
 
 lafistischer Propaganda (ab Klasse 9),
 
- Gottes Gesetze? Über Islam, Demokratie und Islamismus (ab Klasse 10),
+– Gottes Gesetze? Über Islam, Demokratie und Islamismus (ab Klasse 10),
 
- „Alle Muslime sind…“ Über Stereotypen, Diskriminierung und die Rolle von
+– „Alle Muslime sind…“ Über Stereotypen, Diskriminierung und die Rolle von
 
 Medien (ab Klasse 8 Gymnasium, ansonsten ab Klasse 9),
 
- My Jihad. Über Krieg, den Begriff des Jihad und den Kampf um Gerechtigkeit
+– My Jihad. Über Krieg, den Begriff des Jihad und den Kampf um Gerechtigkeit
 
 (ab Klasse 10)
 
- Feindbild „Islam“ + Feindbild „Westen“? Wie islamfeindliche und islamistische
+– Feindbild „Islam“ + Feindbild „Westen“? Wie islamfeindliche und islamistische
 
 Propaganda funktioniert (ab Klasse 9).
 
@@ -208,15 +209,15 @@ Projekt Demokratie und Zivilcourage – Politische Jugendbildung (Träger: Arbei
 
 Ziel der Bildungsangebote von Arbeit und Leben ist es, gemeinsam mit jungen Menschen politische, soziale und kulturelle Themen in ihrem Alltag zu betrachten und sie zur gesellschaftlichen Partizipation zu motivieren und zu ermutigen. Die Themen sind:
 
- Islam, Islamismus, antimuslimischer Rassismus,
+– Islam, Islamismus, antimuslimischer Rassismus,
 
- Kolonialismus und Rassismus,
+– Kolonialismus und Rassismus,
 
- Ausgrenzungen und Gegenengagement,
+– Ausgrenzungen und Gegenengagement,
 
- Geschlechterverhältnisse,
+– Geschlechterverhältnisse,
 
- Antisemitismus.
+– Antisemitismus.
 
 Anzahl der Schülerinnen und Schüler, die teilgenommen haben: 317
 
@@ -224,17 +225,17 @@ Projekt Verantwortung übernehmen im Internet (Träger: Think Social Now 2.0)
 
 Das Projekt „Verantwortung übernehmen im Internet“ entwickelt ein Modell, wie radikalisierungsfördernden und menschenverachtenden Internetangeboten wirksam begegnet werden kann. Im Rahmen des Projektes werden Kompetenzen im Umgang mit dem Internet und Sozialen Medien vermittelt und Argumente für ein demokratisches Miteinander im Internet gestärkt (Erstellung alternativer Online-Angebote mit Videos, Bildern, Zitaten etc.). Themen:
 
- Hateblocker – kein Platz für Hass im Netz (Klassen 8-13 / 2-4 Stunden),
+– Hateblocker – kein Platz für Hass im Netz (Klassen 8-13 / 2-4 Stunden),
 
- Kurzfilmprojekt „Hate Speech? Nein, danke!“ (Klassen 8-13 / 3- 5 Tage),
+– Kurzfilmprojekt „Hate Speech? Nein, danke!“ (Klassen 8-13 / 3- 5 Tage),
 
- Extremistische Internetpropaganda – Schwelle zwischen Extremismus und
+– Extremistische Internetpropaganda – Schwelle zwischen Extremismus und
 
 Gesellschaftskritik,
 
- (Klassen 8-13 / 2-4 Stunden),
+– (Klassen 8-13 / 2-4 Stunden),
 
- Fake News – Fake oder Fakt? Erkennen und Handeln.
+– Fake News – Fake oder Fakt? Erkennen und Handeln.
 
 Anzahl der Schülerinnen und Schüler, die teilgenommen haben: 73
 

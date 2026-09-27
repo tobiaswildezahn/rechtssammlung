@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18297", "21/8084", "21/15798"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68084"
@@ -72,6 +73,6 @@ Sind mehr Kinder in den Schulen, steigt unmittelbar der Bedarf an Lehrkräften. 
 
 Sollten keine Angaben zum laufenden Schuljahr möglich sein, zu welchem Termin liegen entsprechende Daten vor? Welche Maßnahmen hat der Senat beziehungsweise die zuständige Behörde ergriffen, um dem unmittelbar angestiegenen Personalbedarf an den entsprechenden Schulen zu begegnen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Zur Personalsituation seit dem Schuljahr 2016/2017 bis zum Schuljahr 2018/2019 siehe Drs. 21/15798. Die erfragten Daten zur Personalversorgung im laufenden Schuljahr 2019/2020 stehen erst nach Abschluss der Schuljahreserhebung zur Verfügung. Im Übrigen siehe Drs. 21/18297 sowie Vorbemerkung.

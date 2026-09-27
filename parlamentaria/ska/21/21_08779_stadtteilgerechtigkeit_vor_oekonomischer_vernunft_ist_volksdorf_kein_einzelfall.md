@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8733", "21/2864", "21/3771", "21/3804", "20/12090"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57511"
@@ -55,7 +56,7 @@ Welche Stellen führen seit dem Jahr 2016 normalerweise die Gespräche zwischen 
 
 In welchen Fällen waren seit dem Jahr 2016 zusätzlich oder auch ausschließlich andere Stellen/Personen außer den unter 1. genannten involviert? Welche Personen/Stellen waren das und warum war das jeweils der Fall?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

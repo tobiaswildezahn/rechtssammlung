@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 25
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/5333", "21/8347", "21/7740"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59570"
@@ -117,7 +118,7 @@ Wie viele Einwendungen liegen im Rahmen des Planfeststellungsverfahrens für den
 
 Wie viele Einwendungen liegen im Rahmen des Planfeststellungsverfahrens für den Planfeststellungsabschnitt 3 (Stadtgrenze HH bis Ahrensburg) bislang vor?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Keine, der Antrag zum Planfeststellungsverfahren für den Planfeststellungsabschnitt 2 wurde mit Einreichung der Unterlagen am 29. September 2017 und für den Planfeststellungsabschnitt 3 am 27. Juli 2017 gestellt. Derzeit befinden sich die Unterlagen in der Vollständigkeitsprüfung beim Eisenbahn-Bundesamt (EBA). Die Einwendungsfrist beginnt frühestens im 1. Quartal des Jahres 2018.
 
@@ -161,7 +162,7 @@ Welche Bauphasen sind aktuellem Stand für das Gesamtprojekt beziehungsweise die
 
 Wie wird die Baubetriebsplanung nach aktuellem Stand ausgestaltet sein?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Die Baubetriebsplanung soll unter Berücksichtigung des Bahn- und Straßenverkehrs in einzelne Bauabschnitte aufgeteilt werden. Im Übrigen ist die detaillierte Baubetriebsplanung ist noch nicht abgeschlossen.
 
@@ -173,7 +174,7 @@ In welchem Quartal welchen Jahres wird nach aktuellem Stand der Planfeststellung
 
 In welchem Quartal welchen Jahres wird nach aktuellem Stand der Planfeststellungsabschnitt 2 (Marienthal bis Stadtgrenze HH) fertiggestellt und in Betrieb genommen sein?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Es ist derzeit eine Teilinbetriebnahme bis Rahlstedt vorgesehen. Gemäß aktuellem Terminplan würde die Inbetriebnahme voraussichtlich im 4. Quartal des Jahres 2024 erfolgen können, wenn vollziehbares Planrecht vorliegt und die Gesamtfinanzierung gesichert ist.
 

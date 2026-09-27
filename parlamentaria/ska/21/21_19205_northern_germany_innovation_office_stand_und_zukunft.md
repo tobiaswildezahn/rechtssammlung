@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7973"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68902"
@@ -53,7 +54,7 @@ Wie setzt sich die Finanzierung des NGIO konkret zusammen? Bitte anteilig für d
 
 Welche laufenden Kosten entstehen pro Jahr für die Freie und Hansestadt Hamburg?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Gemäß des Vertrags zum NGIO vom 28. Juni 2018 zwischen der HIW und der WTSH zahlt die HIW jährlich 50 000 Euro zuzüglich Umsatzsteuer an die WTSH. Die HIW finanziert den Betrag aus der institutionellen Förderung.
 

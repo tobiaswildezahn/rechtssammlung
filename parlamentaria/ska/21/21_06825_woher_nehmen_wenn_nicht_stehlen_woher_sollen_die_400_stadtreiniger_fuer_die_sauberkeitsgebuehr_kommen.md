@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55384"
@@ -79,15 +80,15 @@ Hat die SRH ein Konzept zur Personalgewinnung der 400 neuen Mitarbeiter? Wenn ja
 
 Das Konzept zur Personalgewinnung sieht folgende Maßnahmen vor:
 
- Stellenanzeigen (Print, Online, Fahrzeuge, U-Bahn-Monitore et cetera),
+– Stellenanzeigen (Print, Online, Fahrzeuge, U-Bahn-Monitore et cetera),
 
- eine intensive Zusammenarbeit mit der Arbeitsagentur/Jobcenter „team.arbeit.ham-
+– eine intensive Zusammenarbeit mit der Arbeitsagentur/Jobcenter „team.arbeit.ham-
 
 burg“,
 
- die Initiierung von Personalmarketingmaßnahmen,
+– die Initiierung von Personalmarketingmaßnahmen,
 
- die Präsentation der neuen Stellen auf Jobmessen.
+– die Präsentation der neuen Stellen auf Jobmessen.
 
 ### Frage 5
 
@@ -119,7 +120,7 @@ Wenn ja, welche Budgets, Schulungsmaßnahmen und Zeitpläne liegen
 diesem Konzept zu Grunde?  
 Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Gegebenenfalls erforderliche Schulungsmaßnahmen werden nach einem Abgleich der Anforderungen und Qualifikationen individuell durchgeführt. Die SRH greift zum Beispiel für Sicherheitsunterweisungen und andere gesetzlich vorgeschriebene Schulungsmaßnahmen auf bewährte Schulungs- und Qualifizierungsmaßnahmen zurück.
 

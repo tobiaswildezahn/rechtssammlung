@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53066"
@@ -87,7 +88,7 @@ Werden die Daten der geprüften Karte gespeichert? Wenn ja: wo und wie lange?
 
 Wie wird sicher verhindert, dass durch Anwendung der Prüfsoftware Bewegungsbilder erstellt werden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Bleibt der Datenabgleich ohne Ergebnis, erfolgt keinerlei Erfassung oder Speicherung von Daten der geprüften Fahrkarte beziehungsweise des überprüften Fahrgastes. Lediglich in Fällen einer festgestellten missbräuchlichen Nutzung wird ein erhöhtes Beförderungsentgelt erhoben und die Fahrkarte eingezogen. Die hierfür erforderlichen Daten werden, wie in jedem anderen Fall eines erhöhten Beförderungsentgelts, vor Ort erhoben und entsprechend weiterverarbeitet. Dieser Vorgang ist dann nicht mehr Bestandteil der relevanten Prüfsoftware.
 

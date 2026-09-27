@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4081", "21/6224", "21/7388", "20/13852", "21/218", "21/5102"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57331"
@@ -55,7 +56,7 @@ Limite für die Liquiditätshilfen:
 2.1 Welche Veränderungen der für die Liquiditätshilfen festgelegten Limite hat es jeweils wann und aus welchen Gründen seit der Beantwortung der Schriftlichen Kleinen Anfrage in Drs. 21/7388 gegeben?
 2.2 Wie häufig, aus welchen Gründen und für jeweils welchen Zeitraum gab es im 1. Quartal 2017 bei welchen einzelnen Unternehmen und Einrichtungen Überschreitungen der Limite?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1. Der Zinssatz betrug einheitlich 0,0 Prozent. Das Limit für das Betriebsmittelkonto der Billebogen Entwicklungsgesellschaft mbH & Co. KG wurde zum 21. Februar 2017 von 0 auf 5 Millionen Euro erhöht. Limitüberschreitungen bestanden beim Sondervermögen Bodenordnung in der Zeit vom 24. bis zum 26. Januar 2017, da in der Gründungsphase vorhandene Erlöse verspätet gebucht wurden, und beim Landesbetrieb Planetarium in der Zeit vom 3. bis zum 26. Februar 2017 sowie vom 16. bis zum 20. März 2017 aufgrund von Überschneidungen von Zahlungen des Landesbetriebs mit den entsprechenden Betriebskostenzuweisungen der Kulturbehörde. Im Übrigen siehe Drs. 21/218, 21/4081, 21/5102, 21/6224 und 21/7388.
 

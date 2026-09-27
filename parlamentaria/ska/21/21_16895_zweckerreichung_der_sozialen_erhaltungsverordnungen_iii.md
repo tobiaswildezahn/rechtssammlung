@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 28
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16646", "21/13900", "21/15428", "21/16421", "21/11139"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66443"
@@ -212,7 +213,7 @@ Welchen Belegungsgrad haben die gekauften Objekte?
 
 In welchem baulichen Zustand befinden sich die gekauften Objekte? Gibt es Instandhaltungsstau in den angekauften Objekten? Wenn ja, in welcher Höhe? (Bitte um detaillierte Angabe von Jahr, Stadtteil und Bezirk.)
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Anlage.
 

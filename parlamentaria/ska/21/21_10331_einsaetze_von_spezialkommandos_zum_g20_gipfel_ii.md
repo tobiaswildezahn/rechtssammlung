@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9844"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59169"
@@ -98,17 +99,17 @@ Aufgrund der Beurteilung der Ausgangslage im Schulterblatt hat der Leiter des EA
 
 Eingesetzt wurden Teilkräfte aus folgenden Einheiten:
 
- SEK Bayern
+– SEK Bayern
 
- SEK Hamburg
+– SEK Hamburg
 
- SEK Hessen
+– SEK Hessen
 
- SEK Sachsen
+– SEK Sachsen
 
- SEK Schleswig-Holstein (Eingesetzt war lediglich der Leiter des SEK Schleswig-Holstein, nicht das SEK Schleswig-Holstein. Aus diesem Grund ist das SEK Schleswig-Holstein in der Drs. 21/9844 nicht aufgeführt.)
+– SEK Schleswig-Holstein (Eingesetzt war lediglich der Leiter des SEK Schleswig-Holstein, nicht das SEK Schleswig-Holstein. Aus diesem Grund ist das SEK Schleswig-Holstein in der Drs. 21/9844 nicht aufgeführt.)
 
- EK Cobra (AUT)
+– EK Cobra (AUT)
 
 Darüber hinaus berührt die Fragestellung die Einsatztaktik der Polizei, zu der aus grundsätzlichen Erwägungen keine Angaben gemacht werden.
 
@@ -146,7 +147,7 @@ Aus welchem Grund wollten die Einheiten, wie es mehrere Journalisten schildern, 
 
 Wie bewertet der Senat den Ausschluss von Journalisten/-innen durch die Spezialeinheiten?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/9844.
 

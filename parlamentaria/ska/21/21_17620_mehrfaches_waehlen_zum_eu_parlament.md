@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67214"
@@ -45,7 +46,7 @@ Sind Ihnen weitere Fälle von Wähler-Ungleichbehandlung durch Doppelwahl in Ham
 
 Kennen Sie Zahlen, wie häufig das in Deutschland vorkommt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Dem Senat ist kein Fall einer Doppelwahl bei der Wahl zum Europäischen Parlament am 26. Mai 2019 bekannt. Bei dem Landeswahlamt sind hierzu auch weder Hinweise auf einen Verdachtsfall in Hamburg noch Mitteilungen aus anderen Ländern eingegangen.
 

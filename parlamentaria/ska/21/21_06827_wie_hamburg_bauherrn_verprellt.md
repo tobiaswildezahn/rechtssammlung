@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55386"
@@ -46,7 +47,7 @@ Welche Baugebiete der Freien und Hansestadt Hamburg befinden sich derzeit in Pla
 
 Welche Baugebiete befinden sich derzeit bereits in der Vermarktung? Wie viele Grundstücke stehen dabei jeweils zur Verfügung und wie viele wurden davon bereits veräußert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage, in der die aktuell durch Bebauungsplanverfahren förmlich geplanten Wohnungsbauvorhaben auf städtischen Grundstücken genannt werden. Für alle geplanten Baugebiete ohne Bebauungsplan gibt es keine zentral auswertbare Statistik.
 

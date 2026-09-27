@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11475", "21/422"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60863"
@@ -79,7 +80,7 @@ a) steigenden Zulassungszahlen die Fahrzeuge abgestellt?
 b) stagnierenden Zulassungszahlen die Fahrzeuge abgestellt?
 c) sinkender Zulassungszahlen die Fahrzeuge abgestellt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der bauordnungsrechtliche Stellplatzbedarf richtet sich nach der zu erwartenden Zahl der Kraftfahrzeuge der ständigen Benutzer baulicher Anlagen, nicht nach den Zulassungszahlen.
 

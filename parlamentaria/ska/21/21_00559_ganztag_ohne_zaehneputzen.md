@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48711"
@@ -53,7 +54,7 @@ Wenn nicht an allen Grundschulen wie in Kindergärten das Zähneputzen zur tägl
 
 Ist es der politische Wille der Behörde für Schule und Berufsbildung, dass in allen Grundschulen das Zähneputzen zum täglichen Schulablauf gehört? a.) Wenn ja, wie will die Behörde das erreichen und welcher Zeitraum ist dafür vorgesehen? b.) Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Grundsätzlich ist Gesundheitsförderung und Prävention in Grundschulen ein wichtiges Anliegen der zuständigen Behörde. Dabei bewährt sich vor allem die Verknüpfung der Handlungsfelder Schulverpflegung, Ernährungs- und Verbraucherbildung und Mundhygiene. Im Bildungsplan für das Aufgabengebiet Gesundheitsförderung und für den Sachunterricht ist festgelegt, dass Kinder im Unterricht das Thema „Mundhygiene“ handlungsorientiert bearbeiten. Dazu gehört, dass Zähneputzen praktisch eingeübt wird. Unterstützt wird dieses durch die kostenlose Gruppenprophylaxe der Schulzahnärztlichen Dienste der Bezirke in Zusammenarbeit mit der Landesarbeitsgemeinschaft zur Förderung der Jugendzahnpflege in Hamburg e.V. (LAJH) für Grundschulkinder mit erhöhtem Kariesrisiko. Von vielen Hamburger Grundschulen wird auch das Unter-
 

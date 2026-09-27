@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 28
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838", "21/2550", "21/8402", "21/3692", "21/7387", "21/8487", "21/1395"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57548"
@@ -144,7 +145,7 @@ Jugendverbände tragen in besonderer Weise zur Förderung von gesellschaftlichem
 
 Wie viele Jugendverbände erhalten Unterstützung in Form von Stellenzuweisungen? Bitte tabellarisch nach Verband/Verein, fördernder Behörde beziehungsweise Institution, Bezeichnung der Stelle, Tarifstufe, gefördertem Stellenanteil und Höhe der Vergütung auflisten.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 In 2016 erhielten 57 der 72 anerkannten regionalen und überregionalen Jugendvereine und -verbände eine staatlich Förderung, um die Selbstorganisation junger Menschen zu ermöglichen. Der Gesamtförderbetrag belief sich auf 3.123.963,27 Euro. Im Übrigen siehe Anlage 3. In den dort aufgeführten Mitteln sind auch die bei insgesamt 16 Jugendverbänden geförderten Personalkosten enthalten. Die erfragten Tarifstufen und Vergütungshöhen sind nicht angegeben, weil sich daraus Rückschlüsse auf Gehaltsstrukturen und die Vergütung einzelner Personen ziehen ließen. Bei diesen Daten handelt es sich um Geschäftsgeheimnisse, die gemäß §§ 35 Absatz 4 SGB I, 67 Absatz 1 Satz 2 SGB X dem Sozialdatenschutz unterliegen. Sozialdaten dürfen gemäß § 67d Absatz 1 SGB X nur bei Vorliegen einer Übermittlungsbefugnis nach dem SGB übermittelt werden. Das SGB enthält keine Übermittlungsbefugnis zugunsten der Beantwortung Parlamentarischer Anfragen. Der Senat ist deshalb aus Gründen des Sozialdatenschutzes gemäß §§ 35 SGB I, 67 fortfolgende SGB X an der vollständigen Beantwortung der Frage gehindert.
 
@@ -166,24 +167,24 @@ Die durch die zuständige Fachbehörde anerkannten Jugendverbände sind grundsä
 
 Außerdem haben Jugendverbände zahlreiche Aktivitäten und Projekte mit und für Geflüchtete durchgeführt. In der Kürze der zur Beantwortung der Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit konnten die ehrenamtlich strukturierten Jugendverbände nicht zu den erfragten Einzelheiten befragt werden. Im Folgenden sind deshalb nur die durch die BASFI in 2017 geförderten Projekte benannt:
 
- Arbeitsgemeinschaft Interkultureller Jugendverbände Hamburg – AGIJ e.V.,
+– Arbeitsgemeinschaft Interkultureller Jugendverbände Hamburg – AGIJ e.V.,
 
 Arbeit mit jungen Geflüchteten in den Mitgliedsverbänden, Zuwendung in 2017
 69.840,15 Euro,
 
- Eritreischer Jugend- und Kulturverein Hamburg e.V., Arbeit mit jungen Geflüchteten
+– Eritreischer Jugend- und Kulturverein Hamburg e.V., Arbeit mit jungen Geflüchteten
 
 aus Eritrea, Zuwendung in 2017 49.529,09 Euro,
 
- Jugendarbeitskreis im Volksbund Deutsche Kriegsgräberfürsorge e.V. Landesver-
+– Jugendarbeitskreis im Volksbund Deutsche Kriegsgräberfürsorge e.V. Landesver-
 
 band Hamburg, Jugendprojekt „Kriegskinder – historische und gegenwärtige Perspektiven“, Zuwendung in 2017 24.883,15 Euro,
 
- KOMCIWAN/Jugend- und Kulturverein aus Kurdistan e.V., Integratives Präventi-
+– KOMCIWAN/Jugend- und Kulturverein aus Kurdistan e.V., Integratives Präventi-
 
 onsprojekt – Flüchtlingshilfe", Zuwendung in 2017 3.000 Euro, und
 
- Verein der kulturellen medialen Kommunikationsstelle der Migration (Mig-Zentrum),
+– Verein der kulturellen medialen Kommunikationsstelle der Migration (Mig-Zentrum),
 
 Arbeit mit jungen kurdischen Geflüchteten aus der Türkei, dem Irak und Syrien, Zuwendung in 2017 32.736,11 Euro.
 

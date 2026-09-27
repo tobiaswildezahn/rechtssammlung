@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 18
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11705"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61866"
@@ -144,7 +145,7 @@ Die Golden-Gate-Brücke in San Francisco ist bereits über 80 Jahre alt und wird
 
 Welche Lebensdauer wird aus heutiger Sicht einem Brückenneubau beigemessen? Inwiefern ist die Lebensdauer von der Konstruktion der Brücke abhängig?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Technische Daten und Verkehrsdaten zur Golden Gate Bridge liegen der zuständigen Behörde nicht vor. Die Lebensdauer einer Brücke wird von der Bemessung, Konstruktion, Bauverfahren, Baustoffen, Belastung, Wartung und Instandhaltung maßgeblich beeinflusst. Die Lebensdauer heutiger Brücken wird mit 80 bis 100 Jahren bemessen.
 

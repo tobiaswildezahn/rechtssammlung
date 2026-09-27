@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12722"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66750"
@@ -124,11 +125,11 @@ Auf welchen Annahmen wurden die Gewinnabschöpfungen jeweils berechnet, welche G
 
 Beispielhaft werden die Berechnung eines ordnungswidrigen Starts beziehungsweise einer Landung innerhalb der Verspätungsregelung (Ziffer 1.3.2 des Luftfahrthandbuches) dargelegt:
 
- Ordnungswidriger Start eines Flugzeuges in Hamburg nach 23 Uhr:
+– Ordnungswidriger Start eines Flugzeuges in Hamburg nach 23 Uhr:
 
 Wenn die Verspätung bis zum tatsächlich erfolgten Start in der Nacht weniger als drei Stunden betrug, fallen bei einem Start am nächsten Morgen anders als am Vorabend Entschädigungen nach EU-Fluggastrechteverordnung an (unter der Voraussetzung, dass der verfahrensgegenständliche Flug in den Anwendungsbereich der Verordnung fällt). Zudem wären Betreuungsleistungen wie Hotelübernachtungen fällig. In die Berechnung fließt auch ein, dass die Flughafenentgelte für den nächtlichen Start höher waren als sie am nächsten Morgen gewesen wären.
 
- Ordnungswidrige Landung eines Flugzeuges in Hamburg nach 23 Uhr:
+– Ordnungswidrige Landung eines Flugzeuges in Hamburg nach 23 Uhr:
 
 Es wird angenommen, dass der Flug nach Hannover umgeleitet und die Passagiere mit dem Bus nach Hamburg transportiert worden wären. Daher würden die Landeentgelte in Hamburg für die tatsächlich erfolgte Landung nach 23 Uhr denen der angenommenen Landung in Hannover plus den Kosten für den Bustransfer von Hannover nach Hamburg gegenübergestellt. Dazu kommen Entschädigungen nach der EU-Fluggastrechteverordnung, falls der Flug durch die Landung in Hannover mehr als drei Stunden verspätet gewesen wäre und dies im Falle der tat-
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 27
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14675", "21/10230"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65852"
@@ -36,13 +37,13 @@ In seiner Antwort auf die Schriftliche Kleine Anfrage der AfD-Fraktion vom Oktob
 
 ## Einleitung für die Antworten des Senats
 
- „Für die von Hamburg angestrebte Umsetzung der Verrechnungslösung bedarf es eines entsprechenden Auftrags an eine anders formierte interdisziplinäre Arbeitsgruppe auf Grundlage einer zumindest mehrheitlichen Entscheidung des Bundes und der Länder. Dieser Entscheidungsprozess dauert derzeit noch an.“
+– „Für die von Hamburg angestrebte Umsetzung der Verrechnungslösung bedarf es eines entsprechenden Auftrags an eine anders formierte interdisziplinäre Arbeitsgruppe auf Grundlage einer zumindest mehrheitlichen Entscheidung des Bundes und der Länder. Dieser Entscheidungsprozess dauert derzeit noch an.“
 
- „Tatsächlich scheint der notwendige Entscheidungsprozess in den meisten Ländern noch nicht abgeschlossen zu sein.“
+– „Tatsächlich scheint der notwendige Entscheidungsprozess in den meisten Ländern noch nicht abgeschlossen zu sein.“
 
- „Eine Umsetzung der Lösung setzt komplexe Änderungen in vielen Bereichen der Bundes- und Landesfinanzverwaltungen voraus … Die Dauer der Umsetzung kann aufgrund deren Komplexität heute nicht abschließend prognostiziert werden …, (so) dass eine Umsetzung des Verfahrens aufgrund der Komplexität vonseiten des Gesetzgebers beziehungsweise der Verwaltung nicht kurzfristig erwartet werden kann.“
+– „Eine Umsetzung der Lösung setzt komplexe Änderungen in vielen Bereichen der Bundes- und Landesfinanzverwaltungen voraus … Die Dauer der Umsetzung kann aufgrund deren Komplexität heute nicht abschließend prognostiziert werden …, (so) dass eine Umsetzung des Verfahrens aufgrund der Komplexität vonseiten des Gesetzgebers beziehungsweise der Verwaltung nicht kurzfristig erwartet werden kann.“
 
- Allerdings halte „der Senat an der Umsetzung dieser Lösung fest.“
+– Allerdings halte „der Senat an der Umsetzung dieser Lösung fest.“
 
 Dies vorausgeschickt fragen wir den Senat:
 

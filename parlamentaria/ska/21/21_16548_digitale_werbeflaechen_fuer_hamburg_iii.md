@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16348"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66077"
@@ -94,6 +95,6 @@ Stimmt der Senat – nach erneuter Prüfung – der Aussage zu, dass die Werbeta
 
 Wird der Senat nun Erwägungen zur Ergänzung beziehungsweise Abänderung der WechsellichtVO anstellen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nein. Für die Änderung der WechsellichtVO besteht kein Anlass. Im Übrigen siehe Vorbemerkung.

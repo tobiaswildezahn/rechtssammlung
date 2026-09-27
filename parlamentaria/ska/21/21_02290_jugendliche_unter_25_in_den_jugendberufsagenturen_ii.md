@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2105"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50561"
@@ -48,7 +49,7 @@ In der Anlage 1 bezugnehmend zur Frage 1./2. der Drs. 21/2105 werden die „Insg
 
 Wenn die Zahl „Insgesamt – Bestand an Arbeitslosen“ nicht mit in die „Insgesamt – Gemeldete erwerbsfähige Personen“-Zahlen einfließt, aus welchem Grund geschieht dies?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Gemeldete erwerbsfähige Personen sind Personen, die von einer Agentur für Arbeit oder einem Träger der Grundsicherung betreut werden. Diese gemeldeten Personen werden statistisch in drei Statusgruppen geführt: als arbeitslose Arbeitsuchende, als nicht arbeitslose Arbeitsuchende und als Nichtarbeitsuchende.
 

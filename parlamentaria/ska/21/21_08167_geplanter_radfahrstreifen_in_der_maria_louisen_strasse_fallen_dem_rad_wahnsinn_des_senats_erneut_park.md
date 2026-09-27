@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56871"
@@ -125,11 +126,11 @@ Welche Alternativen zur Errichtung des Radfahrstreifens auf der Fahrbahn der Mar
 
 Bereits zur ersten Planverschickung vom 29. September 2014 wurden drei Varianten untersucht:
 
- A: Bestandsnaher Umbau mit Gehweg Radfahrer frei/Radweg bergauf,
+– A: Bestandsnaher Umbau mit Gehweg Radfahrer frei/Radweg bergauf,
 
- B: Regelkonformer Vollausbau mit beidseitigen Radfahrstreifen,
+– B: Regelkonformer Vollausbau mit beidseitigen Radfahrstreifen,
 
- C: Teilausbau in Mindestmaßen mit beidseitigen Schutzstreifen.
+– C: Teilausbau in Mindestmaßen mit beidseitigen Schutzstreifen.
 
 Variante A ist aus Gründen der Verkehrssicherheit nicht realisierbar. Es muss mit einer großen Häufigkeit des unerlaubten Linksfahrens, einer möglichen Gefährdung des Radverkehrs an Einmündungen und Überfahrten sowie möglichen Nutzungskonflikten mit dem Fußverkehr gerechnet werden. Für einen gemeinsamen Geh- und Radweg stehen nicht die erforderlichen Breiten zur Verfügung.
 

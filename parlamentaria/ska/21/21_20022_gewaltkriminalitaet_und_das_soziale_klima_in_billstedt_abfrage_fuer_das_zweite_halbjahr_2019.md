@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 38
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18082"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69786"
@@ -133,7 +134,7 @@ In wie vielen Fällen sind im zweiten Halbjahr 2019 religiöse Prozessionen (Bee
 
 In wie vielen Fällen ist eine Genehmigung nicht erteilt worden (bitte auch die jeweiligen Gründe angeben)?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Für religiöse Prozessionen, insbesondere für die aufgezählten Ereignisse bedarf es keiner Genehmigung des Bezirksamtes. Über ausgerichtete Veranstaltungen im Umfeld von Moscheen liegen dem zuständigen Bezirksamt keine Erkenntnisse vor.
 

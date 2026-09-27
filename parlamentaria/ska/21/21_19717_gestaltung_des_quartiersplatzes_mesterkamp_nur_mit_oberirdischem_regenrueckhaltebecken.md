@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69468"
@@ -97,11 +98,11 @@ Welche Bauvorhaben (öffentlich und privat) in Hamburg-Nord sind in den Jahren 2
 
 Eine Statistik im Sinne der Fragestellung wird nicht geführt. Eine abschließende Auswertung aller Akten ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Beispielhaft können zwei Vorhaben benannt werden:
 
- Bei der im Bau befindlichen Liegenschaftserschließung Langenhorn 22 sind
+– Bei der im Bau befindlichen Liegenschaftserschließung Langenhorn 22 sind
 
 Sickermulden im Bereich der Wohnhöfe vorgesehen.
 
- Im Rahmen der Liegenschaftserschließung Pergolenviertel wird durch die Ausge-
+– Im Rahmen der Liegenschaftserschließung Pergolenviertel wird durch die Ausge-
 
 staltung des zentralen Quartiersplatzes (Loki-Schmidt-Platz) ein Rückhaltevolumen geschaffen.
 

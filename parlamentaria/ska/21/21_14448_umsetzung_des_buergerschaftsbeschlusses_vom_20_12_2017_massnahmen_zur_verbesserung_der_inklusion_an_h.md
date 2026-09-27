@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 7
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11428", "21/14147"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63878"
@@ -43,7 +44,7 @@ Wie viele der in dem oben genannten Bürgerschaftsbeschluss vorgesehenen Therapi
 
 Erhalten die minder oder gar nicht mit Therapie- und Pflegestunden versorgten oben genannten Schulen entsprechende Geldzuweisungen analog zu unbesetzten Lehrerstunden? a. Wenn nicht, warum wird hier anders als mit unbesetzten Lehrerstunden verfahren? b. Wie viel Geld spart die BSB zurzeit durch die Nichtbesetzung von Therapie- und Pflegestunden an den oben genannten Schulen pro Monat ein?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Therapie- und Pflegestellen für die allgemeinen Schulen werden grundsätzlich speziellen Sonderschulen zugewiesen, die die Leistungserbringung für die Grund- und Stadtteilschulen übernehmen. Diese können ihre Ansprüche und die für sie zuständige Sonderschule im Schulpersonalmanagementverfahren „Kapazitäts- und Strukturplanung“ (KSP) ablesen.
 

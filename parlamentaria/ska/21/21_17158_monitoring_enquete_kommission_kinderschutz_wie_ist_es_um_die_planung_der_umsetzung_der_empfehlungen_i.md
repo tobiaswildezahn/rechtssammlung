@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 9
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16000", "21/16328", "21/15999", "21/16001"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66718"
@@ -63,15 +64,15 @@ Hierzu sei insbesondere hingewiesen auf:
 
 In mehreren Veranstaltungen wurden beziehungsweise werden die Empfehlungen der Enquete-Kommission diskutiert:
 
- in einer Veranstaltung der Behörde für Arbeit, Soziales, Familie und Integration
+– in einer Veranstaltung der Behörde für Arbeit, Soziales, Familie und Integration
 
 (BASFI) und der Bezirksämter am 8. März 2019;
 
- in einer Veranstaltung des Sozialpädagogischen Fortbildungszentrums der BASFI
+– in einer Veranstaltung des Sozialpädagogischen Fortbildungszentrums der BASFI
 
 mit Fachkräften der Bezirksämter, der freien Träger und ihrer Verbände mit dem Vorsitzenden der Enquete-Kommission Prof. Dr. Christian Schrapper am 9. Mai 2019 sowie
 
- in einer Veranstaltung mit Vertretern/-innen des Landesjugendhilfeausschusses
+– in einer Veranstaltung mit Vertretern/-innen des Landesjugendhilfeausschusses
 
 sowie der bezirklichen Jugendhilfeausschüsse am 24. Juni 2019.
 
@@ -83,9 +84,9 @@ In Abstimmung mit den Bezirksämtern werden Anforderungen an die technische Auss
 
 Um die Wertschätzung der Arbeit der Jugendämter durch eine öffentliche Kampagne zu fördern, hat die zuständige Fachbehörde in Abstimmung mit den Bezirksämtern eine Ausschreibung auf den Weg gebracht, siehe hierzu:
 
- www.hamburg.de/basfi/ausschreibungen beziehungsweise
+– www.hamburg.de/basfi/ausschreibungen beziehungsweise
 
- www.hamburg.de/basfi/ausschreibungen/12450226/ausschreibung-kampagne-
+– www.hamburg.de/basfi/ausschreibungen/12450226/ausschreibung-kampagne-
 
 jugendaemter.
 

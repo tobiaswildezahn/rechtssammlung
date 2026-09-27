@@ -14,6 +14,7 @@ fragen: 27
 einzelfragen: 29
 antwortbloecke: 25
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/1847", "20/11181", "20/5317", "20/14467", "20/3641", "20/37", "20/13289", "20/12229"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48185"
@@ -2704,7 +2705,7 @@ Wie viele Angehörige welchen Glaubens beziehungsweise welcher Religionszugehör
 
 Welche Kirchen, Synagogen, Moscheen beziehungsweise religiöse Gemeinden gibt es im Wahlkreis, differenziert nach Stadtteilen?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Daten zu Glaubens- beziehungsweise Religionszugehörigkeiten liegen im Statistikamt Nord nicht vor.
 
@@ -3049,7 +3050,7 @@ Wie viele Lehrkräfte unterrichten jeweils an den Schulen (bitte Anzahl der Pers
 
 Wie ist das prozentuale Verhältnis von weiblichen zu männlichen Lehrkräften an den einzelnen Schulen und in den jeweiligen Klassenstufen?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Siehe Anlagen 12 bis 14.
 
@@ -3787,11 +3788,11 @@ Im Stadtteil Lurup ist der Träger Großstadtmission Jugendhilfe e.V. mit dem ES
 
 Bei weiteren ESF-Projekten, die ihren Sitz nicht im Wahlkreis 4 haben, erstreckt sich ihr Wirkungsbereich auch auf diesen Wahlkreis und kommt damit ebenfalls den hier lebenden Zielgruppen zugute. Nachfolgende Träger sind mit Projekten im Wahlkreis 4 vertreten:
 
- Verikom (Altona Altstadt) mit dem Projekt „Aufbruch zu Bildung und Arbeit“. Das
+– Verikom (Altona Altstadt) mit dem Projekt „Aufbruch zu Bildung und Arbeit“. Das
 
 Projekt wendet sich an Menschen, die von häuslicher Gewalt oder Zwangsheirat betroffen sind. Die Betroffenen werden beraten, gecoacht und durch die Vermittlung von Bildungsangeboten, Ausbildung oder Arbeit auf dem Weg zur Reintegration in den Arbeitsmarkt begleitet und unterstützt.
 
- Die Koordinierungsstelle Weiterbildung e.V. (KWB) und die Behörde für Schule
+– Die Koordinierungsstelle Weiterbildung e.V. (KWB) und die Behörde für Schule
 
 und Berufsbildung (BSB) sind mit dem ESF-Projekt „Schulmentoren-Hand in Hand für starke Schulen“ unter anderem an der Geschwister-Scholl-Stadtteilschule in Osdorf tätig. In einem ganzheitlichen Ansatz verantwortet das Team der BSB die Qualifizierung der Lehrkräfte zu interkulturellen Koordinatorinnen und Koordinato-
 
@@ -3818,37 +3819,37 @@ Im Übrigen siehe Anlage 27, Anlage 28 und Anlage 29 sowie Antwort zu E. 2.
 
 Das Sozialraummanagement (SR) ist ein Fachamt des Dezernats Soziales, Jugend und Gesundheit des Bezirkes, hat seinen Sitz im Rathaus Altona am Platz der Republik 1. Das Fachamt SR verfügt nicht über eine Außenstelle im Wahlkreis 4. Die Mitarbeiterinnen oder Mitarbeiter des Fachamtes arbeiten thematisch im Wahlkreis. Eine wahlkreisbezogene Organisation der Dienste des Fachamtes besteht nicht.
 
- Die Mitarbeiterinnen und Mitarbeiter des Fachamtes Sozialraummanagement
+– Die Mitarbeiterinnen und Mitarbeiter des Fachamtes Sozialraummanagement
 
 erstellen Sozialraumbeschreibungen für die Planungsräume (Osdorf, Lurup und Nienstedten/Blankenese/Rissen/Sülldorf),
 
- initiieren und unterstützen Prozesse außerschulischer und frühkindlicher Bildung
+– initiieren und unterstützen Prozesse außerschulischer und frühkindlicher Bildung
 
 (Lurup und Osdorf),
 
- beteiligen sich an der Konzeptentwicklung und den Planungen der Community-
+– beteiligen sich an der Konzeptentwicklung und den Planungen der Community-
 
 Schulstandorte Geschwister-Scholl und der Stadtteilschule Luruper Hauptstraße (Lurup und Osdorf); konzeptionelle Entwicklung des Bildungsbandes zwischen beiden Schulstandorten.
 
- Umsetzung Lokaler Bildungskonferenzen: Rissen/Sülldorf; Iserbrook/Blankenese;
+– Umsetzung Lokaler Bildungskonferenzen: Rissen/Sülldorf; Iserbrook/Blankenese;
 
 Osdorf/Lurup; Groß Flottbek/Bahrenfeld;
 
- Entwicklung von Konzepten moderner Seniorenarbeit im Bezirk (aktuell ist hier
+– Entwicklung von Konzepten moderner Seniorenarbeit im Bezirk (aktuell ist hier
 
 eine Koordinationsstelle für moderne Seniorenarbeit in Lurup in der Ausschreibung),
 
- Sportflächenverwaltung (Instandhaltung und Sanierung bezirklicher Sportflächen,
+– Sportflächenverwaltung (Instandhaltung und Sanierung bezirklicher Sportflächen,
 
 Platzvergabe und so weiter),
 
- Beratung von Mitarbeiterinnen und Mitarbeitern von Einrichtungen zum Thema
+– Beratung von Mitarbeiterinnen und Mitarbeitern von Einrichtungen zum Thema
 
 Integration von Menschen mit Migrationshintergrund und Flüchtlingen und interkultureller Öffnung der Einrichtungen,
 
- Planung und Steuerung der Einrichtung (Finanzabwicklung),
+– Planung und Steuerung der Einrichtung (Finanzabwicklung),
 
- Planung und Förderung der Stadtteilkultur (Stadtteilhaus Böv 38 und Bürgerhaus
+– Planung und Förderung der Stadtteilkultur (Stadtteilhaus Böv 38 und Bürgerhaus
 
 Osdorf).
 
@@ -3876,25 +3877,25 @@ Bürgerschaftliches Engagement organisiert sich in der Regel über Einzelpersone
 
 Im Wahlkreis 4 sind folgende bürgerschaftlich organisierte Strukturen zu nennen:
 
- Kirchengemeinde Blankenese/Runder Tisch (Beratung und Unterstützung von
+– Kirchengemeinde Blankenese/Runder Tisch (Beratung und Unterstützung von
 
 Flüchtlingen)
 
- Zukunftslotsen in Lurup und Osdorf (niedrigschwellige Bildungsberater, die im
+– Zukunftslotsen in Lurup und Osdorf (niedrigschwellige Bildungsberater, die im
 
 Rahmen des Projektes Lernen vor Ort über das Bezirksamt qualifiziert wurden)
 
- Stadtteilzeitungen in Lurup und Osdorf
+– Stadtteilzeitungen in Lurup und Osdorf
 
- Förderung des bürgerschaftlichen Engagements durch Förderung des Stadtteil-
+– Förderung des bürgerschaftlichen Engagements durch Förderung des Stadtteil-
 
 hauses Böv 38 und des Bürgerhauses Osdorf
 
- Ehrenamtlich geführte Stadtteilgremien (Luruper Forum, Borner Runde, Quartiers-
+– Ehrenamtlich geführte Stadtteilgremien (Luruper Forum, Borner Runde, Quartiers-
 
 beirat Iserbrook)
 
- Migrantische Vereine und Gruppen (Müttertreff Lurup, Frauenfrühstück Osdorf,
+– Migrantische Vereine und Gruppen (Müttertreff Lurup, Frauenfrühstück Osdorf,
 
 Afghanischer Frauenverein in Osdorf; Iranischer Frauenverein in Osdorf; Treffpunkt der Deutschen aus Russland in der Maria-Magdalena-Kirchengemeinde Osdorf)
 

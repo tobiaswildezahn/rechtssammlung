@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 16
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17826", "21/9373", "21/17099"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67503"
@@ -110,7 +111,7 @@ Welche Kosten sind der Freien und Hansestadt Hamburg seit dem Leerstand entstand
 
 Wofür sollen die Gebäude der Flüchtlingsunterkunft künftig ab wann genutzt werden?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Vorbemerkung.
 

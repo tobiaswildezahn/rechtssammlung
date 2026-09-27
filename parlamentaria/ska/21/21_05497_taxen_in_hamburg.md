@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53979"
@@ -108,7 +109,7 @@ Wird die Vergabe von Konzessionen für Taxibetreiber in irgendeiner Form gesteue
 
 Welche Anzahl von Taxen wird für Hamburg vom Senat als notwendig angesehen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Im Unterschied zu anderen Städten wird in Hamburg keine bestimmte Zahl von Genehmigungen für den Taxenverkehr (sogenannter „Konzessionsstopp“) vorgegeben. Der Markt ist daher für die Nachfrage nach Taxengenehmigungen offen. Allerdings werden im Genehmigungsverfahren die personenbeförderungsrechtlichen Voraussetzungen für die Erteilung geprüft. Diese Prüfung durchlaufen nicht nur Erstantragsteller, sondern – da die Genehmigungen maximal für fünf Jahre erteilt werden dürfen (§ 16 Absatz 4 PBefG) – auch vorhandene Unternehmer immer wieder. Neben der finanziellen Leistungsfähigkeit wird insbesondere die persönliche Zuverlässigkeit untersucht. Bei vorhandenen Unternehmern werden möglichst digital erfasste revisionssichere Aufzeichnungen über die Einnahmen verlangt. Ergibt die Prüfung, dass die Aufzeichnungen und Angaben zu den betrieblichen Daten nicht plausibel sind, werden Genehmigungen, zum Beispiel zur Erweiterung von Betrieben, oder die Verlängerung von Genehmigungen nicht erteilt. Betriebsprüfungen oder Verstöße gegen steuerliche, abgabenrechtliche, Straf- und wesentliche Ordnungsvorschriften führen auch zum Widerruf laufender Genehmigungen.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7615", "20/7048", "20/13322", "21/79"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54189"
@@ -236,23 +237,23 @@ Welche Möglichkeiten nutzt die SRH neben der Hotline „Saubere Stadt“, um vo
 
 Über folgende Wege erfährt die SRH – abgesehen von der Hotline „Saubere Stadt“ – von Verschmutzungen:
 
- Meldungen von Mitarbeiterinnen und Mitarbeitern der SRH
+– Meldungen von Mitarbeiterinnen und Mitarbeitern der SRH
 
- Schriftliche Hinweise aus der Bevölkerung per Brief oder Mail
+– Schriftliche Hinweise aus der Bevölkerung per Brief oder Mail
 
- Hinweise über soziale Medien wie Facebook, Twitter und andere
+– Hinweise über soziale Medien wie Facebook, Twitter und andere
 
- Hinweise aus Tageszeitungen
+– Hinweise aus Tageszeitungen
 
- Bürgerinnen und Bürger, die sich persönlich an die Mitarbeiterinnen und Mitarbei-
+– Bürgerinnen und Bürger, die sich persönlich an die Mitarbeiterinnen und Mitarbei-
 
 ter der SRH vor Ort wenden
 
- Meldungen an den Verkehrssicherungsdienst der SRH
+– Meldungen an den Verkehrssicherungsdienst der SRH
 
- Verschmutzungsmeldungen über den Melde-Michel
+– Verschmutzungsmeldungen über den Melde-Michel
 
- Meldungen über die SauberAPP (kostenlose Anwendung für Smart-Phone Nutzer)
+– Meldungen über die SauberAPP (kostenlose Anwendung für Smart-Phone Nutzer)
 
 Sowohl die Polizei als auch andere im öffentlichen Raum tätige Mitarbeiterinnen und Mitarbeiter anderer Dienststellen nutzen die Meldemöglichkeit über die Hotline „Saubere Stadt“, ohne dass es hierzu besondere Dienstanweisungen gäbe.
 

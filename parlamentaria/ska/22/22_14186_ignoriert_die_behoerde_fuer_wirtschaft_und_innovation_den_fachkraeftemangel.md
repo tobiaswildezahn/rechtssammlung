@@ -13,9 +13,10 @@ seiten: 1
 fragen: 0
 einzelfragen: 0
 antwortbloecke: 0
-beantwortet: true
+beantwortet: false
+status: "zurückgezogen"
 zitierte_drucksachen: []
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/86248"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/86248/22_14186_ignoriert_die_behoerde_fuer_wirtschaft_und_innovation_den_fachkraeftemangel"
 abgerufen: "2026-09-24"
@@ -24,11 +25,9 @@ generator: "ska_archiv 1.0"
 
 # Drs. 22/14186: Ignoriert die Behörde für Wirtschaft und Innovation den Fachkräftemangel?
 
-> Schriftliche Kleine Anfrage des Abgeordneten Dennis Thering (CDU) vom 25.01.24 und Antwort des Senats · Drucksache vom 25.01.2024  
+> Schriftliche Kleine Anfrage des Abgeordneten Dennis Thering (CDU) vom 25.01.24 · zurückgezogen · Drucksache vom 25.01.2024  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/86248) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/86248/22_14186_ignoriert_die_behoerde_fuer_wirtschaft_und_innovation_den_fachkraeftemangel)
 
-## Volltext
-
-Ignoriert die Behörde für Wirtschaft und Innovation den Fachkräftemangel?
+## Hinweis
 
 Die Anfrage wurde zurückgezogen.

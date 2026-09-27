@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 29
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16338", "21/14618", "21/13007", "21/12884", "21/14351", "21/14091"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66834"
@@ -61,7 +62,7 @@ Wie bewertet der Senat grundsätzlich die Wichtigkeit der Teilnahme an Ausschuss
 
 Plant der Senat für die kommende Legislaturperiode der Hamburger Bezirksversammlungen eine engere Zusammenarbeit mit den bezirklichen Gremien? Wenn ja, in welcher Form?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Es ist das gesetzlich normierte Recht der Bezirksversammlung, sich in allen Angelegenheiten, die für den Bezirk von Bedeutung sind, deren Erledigung aber nicht in die Zuständigkeit des Bezirksamtes fällt, an die jeweils zuständige Behörde der Freien und Hansestadt Hamburg zu wenden.
 
@@ -92,7 +93,7 @@ q) Welche Baumaßnahmen sind in der Stadtteilschule Süderelbe konkret geplant u
 
 Für die Lessing-Stadtteilschule und das Alexander-von-Humboldt- Gymnasium werden weitere Baumaßnahmen geprüft oder als erforderlich aufgelistet. Wann wurden diese Bedarfe ermittelt und warum konnten diese nicht bereits beim Neubau des Campus am Hanhoopsfeld berücksichtigt werden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Ein Schulentwicklungsplan schafft mit seiner Festlegung des regionalen Schulangebots die Grundlage und den Rahmen für künftige Baumaßnahmen. Diese Baumaßnahmen sind erst nach der Verabschiedung des Schulentwicklungsplans in die Umsetzung zu bringen. Im vorliegenden Referentenentwurf finden sich für viele Schulen Aussagen über zu prüfende oder erforderliche Baumaßnahmen. Dies dient der Klarstellung, dass die Standortplanung notwendige Baumaßnahmen im Blick hat, auch wenn noch nicht abschließend geklärt ist, ob Zu- beziehungsweise Umbauten erforderlich sind, um die Zielzügigkeit zu erreichen. Soweit im Referentenentwurf in der Bemerkungsspalte ‚Planung‘ notiert wurde, bedeutet dies, dass GMH I Gebäudemanagement Hamburg GmbH mit der Vorbereitung einer Realisierungsplanung beauftragt wurde. Im Übrigen siehe Drs. 21/16338, 21/14618, 21/13007 und 21/12884.
 
@@ -120,7 +121,7 @@ Welche Maßnahmen ergreift der Senat konkret, um die offenen Lehrerstellen im Be
 
 Welche Maßnahmen ergreift der Senat konkret, um die darüber hinaus benötigten Lehrerstellen zukünftig im Bezirk Harburg zu besetzen?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Zur Bewertung der Situation durch den Senat und die getroffenen Maßnahmen siehe Drs. 21/14351 und 21/14091.
 

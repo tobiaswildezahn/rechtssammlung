@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/812"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51580"
@@ -145,11 +146,11 @@ a) Welche Antriebsart besitzen sie?
 
 Bei der HOCHBAHN handelt es sich um:
 
- vier Brennstoffzellenhybridbusse,
+– vier Brennstoffzellenhybridbusse,
 
- zwei Batteriebusse mit Brennstoffzelle als Range-Extender und
+– zwei Batteriebusse mit Brennstoffzelle als Range-Extender und
 
- drei Batteriebusse (im Laufe des Jahres 2016).
+– drei Batteriebusse (im Laufe des Jahres 2016).
 
 Drei weitere Plug-In-Hybridbusse können weite Abschnitte der Innovationslinie 109 durchweg elektrisch zurücklegen.
 

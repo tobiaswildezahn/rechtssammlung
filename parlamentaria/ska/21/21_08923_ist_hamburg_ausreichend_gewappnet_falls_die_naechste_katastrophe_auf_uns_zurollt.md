@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6846", "21/8102"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57681"
@@ -47,21 +48,21 @@ Bei seinen Zivilschutzmaßnahmen baut der Bund dabei unter anderem auf den Struk
 
 Im Rahmen des vorbeugenden Katastrophenschutzes wurden für Hamburg konzeptionelle und organisatorische Vorkehrungen für die Katastrophenabwehr und -bekämpfung für nachfolgend genannte potenzielle Gefahren und Schadensereignisse getroffen:
 
- Sturmflut und Hochwassergefahr
+– Sturmflut und Hochwassergefahr
 
- Gefahr durch Öl oder andere wassergefährdende Stoffe
+– Gefahr durch Öl oder andere wassergefährdende Stoffe
 
- Störfälle in Betrieben mit besonderem Gefahrenpotenzial
+– Störfälle in Betrieben mit besonderem Gefahrenpotenzial
 
- Flugunfall
+– Flugunfall
 
- Bahnunfall
+– Bahnunfall
 
- Freisetzung von giftigen Gasen
+– Freisetzung von giftigen Gasen
 
- Pandemie
+– Pandemie
 
- Notfall im Zusammenhang mit kerntechnischen Anlagen
+– Notfall im Zusammenhang mit kerntechnischen Anlagen
 
 Diese konzeptionellen Planungen umfassen zum Beispiel weitreichende Festlegungen und Vorgaben zu den Aufgaben und Verantwortlichkeiten der beteiligten Katastrophenschutzbehörden, Ämter und Institutionen, weiterhin regeln sie die Verpflichtung zur Einrichtung entsprechender Katastrophendienststäbe, die Grundlagen der Zusammenarbeit der Beteiligten, die Einsatz-, Führungs- sowie Kommunikations- und Entscheidungsstrukturen, Fragen der Krisenkommunikation/Öffentlichkeitsarbeit sowie Fragen der strategischen und taktischen Ausrichtung der vielfältigen Abwehr- und Bekämpfungsmaßnahmen einschließlich erforderlicher Kräfteplanungen und sonstiger Ressourcenvorhaltungen.
 
@@ -177,29 +178,29 @@ Es gibt eine Vielzahl von grundlegenden Instrumenten zur Analyse und Prognose vo
 
 Für die konkrete Beobachtung sich entwickelnder Gefahren- und Risikolagen steht darüber hinaus eine Vielzahl von zum Teil allgemein zugänglichen Melde- und Prognosesystemen zur Verfügung. In diesem Zusammenhang sind zum Beispiel zu benennen die
 
- Wasserstandsprognosen des Bundesamtes für Seeschifffahrt und Hydrographie
+– Wasserstandsprognosen des Bundesamtes für Seeschifffahrt und Hydrographie
 
 (BSH),
 
- Wasserstandsvorhersagen des Hamburger Sturmflutwarndienstes (WADI),
+– Wasserstandsvorhersagen des Hamburger Sturmflutwarndienstes (WADI),
 
- Wetterprognosen vom Deutschen Wetterdienst (DWD),
+– Wetterprognosen vom Deutschen Wetterdienst (DWD),
 
- Informationssysteme der Deutschen Flugsicherung,
+– Informationssysteme der Deutschen Flugsicherung,
 
- Systeme zum Beispiel zur kontinuierlichen Messung und Lagedarstellung von
+– Systeme zum Beispiel zur kontinuierlichen Messung und Lagedarstellung von
 
 Umweltradioaktivität,
 
- Melde- und Informationssysteme des Robert Koch-Instituts und des infektionsepi-
+– Melde- und Informationssysteme des Robert Koch-Instituts und des infektionsepi-
 
 demiologische Landeszentrum des Instituts für Hygiene und Umwelt Hamburg zur Früherkennung beziehungsweise Prognose einer Epidemie oder Pandemie,
 
- Warn- und Informationssystem der Internationalen Hauptwarnzentrale (IHWZ) im
+– Warn- und Informationssystem der Internationalen Hauptwarnzentrale (IHWZ) im
 
 Einzugsbereich der Elbe zu auftretenden Gewässerverunreinigungen,
 
- Prognoseprogramm „CT Analyst“ der Feuerwehr Hamburg zur Erstellung von Aus-
+– Prognoseprogramm „CT Analyst“ der Feuerwehr Hamburg zur Erstellung von Aus-
 
 breitungsprognosen bei Szenarien mit Freisetzung von Gefahrstoffen/giftigen Gasen.
 

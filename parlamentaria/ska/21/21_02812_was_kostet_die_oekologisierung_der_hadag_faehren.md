@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 14
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/671", "21/1135", "21/2767"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51121"
@@ -216,7 +217,7 @@ Trägt die allmähliche Ausrüstung der HADAG-Fähren mit modernen emissionsärm
 
 Trägt die allmähliche Ausrüstung der HADAG-Fähren mit Abgasnachbehandlungssystemen aus Sicht des Senats beziehungsweise der zuständigen Behörde zur Steigerung der Fahrgastzahl bei?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Vergangenheit hat gezeigt, dass die Fahrgäste ein hohes Interesse an einem umweltfreundlichen Nahverkehr haben. Dies gilt auch für den wasserseitigen ÖPNV. Die steigenden Fahrgastzahlen in den zurückliegenden Jahren bestätigen diesen eingeschlagenen Kurs auch in Bezug auf die HADAG.
 

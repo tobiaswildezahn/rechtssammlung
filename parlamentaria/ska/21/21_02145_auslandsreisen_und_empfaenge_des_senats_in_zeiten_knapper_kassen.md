@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1985", "20/8825", "20/11941", "21/263"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50401"
@@ -57,7 +58,7 @@ Wie viele und welche Auslandsreisen wurden von Senatsmitgliedern und anderen Sen
 
 Wie hoch sind die Gesamtkosten für den oben genannten Zweck im Zeitraum Mai 2014 bis Oktober 2015 jeweils je Behörde beziehungsweise Amt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Gesamtkosten im Zeitraum Mai 2014 bis Oktober 2015 betrugen für die Senatskanzlei 58.578,76 Euro, für die Behörde für Arbeit, Soziales, Familie und Integration
 3.917,73 Euro, für die Behörde für Gesundheit und Verbraucherschutz 10.968,57 Euro, für die Justizbehörde 173,09 Euro, für die Kulturbehörde 8.600,22 Euro, für die Finanzbehörde 4.076,58 Euro, für die Behörde für Wirtschaft, Verkehr und Innovation

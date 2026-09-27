@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67379"
@@ -57,7 +58,7 @@ Welche Kenntnisse hat der Senat über die Situation am Finanzamt Hamburg-Ost?
 
 Wie schätzt der Senat die Situation am Finanzamt Hamburg-Ost ein?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -127,7 +128,7 @@ Welche Fristen haben die Finanzämter zur Bearbeitung von Einsprüchen gegen Ste
 
 In wie vielen Fällen wurden die Fristen zur Bearbeitung von Einsprüchen gegen Steuerbescheide am Finanzamt Hamburg-Ost seit 2011 überschritten? Warum wurden die Fristen in diesen Fällen überschritten?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Eine Frist zur abschließenden Bearbeitung von Einsprüchen existiert nicht.
 

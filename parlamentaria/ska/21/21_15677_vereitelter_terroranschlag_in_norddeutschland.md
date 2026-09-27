@@ -14,6 +14,7 @@ fragen: 25
 einzelfragen: 31
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65179"
@@ -91,7 +92,7 @@ Ist dem Senat bekannt, ob Songül G. von Deutschland aus in Ausland gereist ist,
 
 War Songül G. den Sicherheitsbehörden vor ihrer Festnahme bereits als Islamistin bekannt? Falls ja, welche Informationen lagen hierzu vor?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Vorbemerkung.
 

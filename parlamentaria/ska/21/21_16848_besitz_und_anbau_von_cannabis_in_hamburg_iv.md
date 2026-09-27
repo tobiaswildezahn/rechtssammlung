@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12818", "21/4738"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66468"
@@ -116,7 +117,7 @@ Welchen aktuellen Sachstand haben die aus den Medien bekannten Bestrebungen zur 
 
 Wie positioniert sich der Senat hierzu?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Wie im Regierungsprogramm des Hamburgischen Senats für die 21. Legislaturperiode vorgesehen, hat der Gesundheitsausschuss der Bürgerschaft unter Hinzuziehung von Expertinnen und Experten ergebnisoffen beraten, ob und gegebenenfalls wie ein Modellprojekt zur kontrollierten Abgabe von Cannabis an Erwachsene in Hamburg durchgeführt werden sollte. Im Ergebnis ist der Senat seitens der Bürgerschaft gebeten worden, zu beobachten, ob und mit welchem Erfolg entsprechende Modellprojekte in anderen Städten durchgeführt werden und diese in Bezug auf die Frage einer Umsetzung in Hamburg auszuwerten.
 

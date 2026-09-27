@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65379"
@@ -77,7 +78,7 @@ Wie ermittelt die Justizbehörde die Fortbildungsbedarfe?
 
 Wird die Qualität der Angebote und der Nutzen für die Teilnehmer/-innen evaluiert? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 In enger Abstimmung mit den Gerichten und Staatsanwaltschaften wird von der zuständigen Behörde ein Fortbildungsangebot organisiert, das generelle, aber auch kurzfristig auftretende Bedarfe deckt. Neben grundsätzlichen bundesweiten oder regionalen Schwerpunktthemen werden auch konkrete Bedarfsmeldungen der Gerichte aufgegriffen.
 

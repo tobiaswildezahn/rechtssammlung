@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1104", "21/5039", "21/9440", "21/10107", "21/10481", "21/1706", "21/8162"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59487"
@@ -63,25 +64,25 @@ Teilnehmende aus
 bezirklichen  
 Jugendämtern  
 2015  
-  
+–  
 Islam im Arbeitsalltag (drei Veranstaltungen)  
-  
+–  
 Islam im Arbeitsalltag – Aufbauseminar (eine Veranstaltung)
 
 2016  
-  
+–  
 Islam im Arbeitsalltag (vier Veranstaltungen)  
 2017  
 (bis einschließlich 09/17
 
-  
+–  
 Islamistische Tendenzen bei Jugendlichen erkennen und  
 handeln (eine Veranstaltung)  
-  
+–  
 Die Vielgestaltigkeit des Islams (zwei Veranstaltungen)  
-  
+–  
 Islam im Alltag (vier Veranstaltungen)  
-  
+–  
 Islam im Arbeitsalltag – Aufbauseminar (vier Veranstaltungen)
 
 Das LI bietet eine Vielzahl von Fortbildungsveranstaltungen zu Erscheinungsformen des Islamismus und zur schulischen Prävention von Menschenrechts- und Demokratiefeindlichkeit an. Die Themen werden inhaltlich und methodisch auf die jeweilige Anfrage zugeschnitten, zum Beispiel: „Islamismus und Islamfeindlichkeit erkennen, verstehen und begegnen“, „religiös motivierte Ablehnung der Demokratie“, „Umgang mit Islamismus und Islamfeindlichkeit in der Schule“, „Umgang mit rechtsradikalen und islamistischen Äußerungen von Schülerinnen und Schülern“, „Umgang mit religiös begründeter Radikalisierung“, „Religion(en) an der Schule – was darf, was kann, was muss sein?“, „Basissensibilisierung Islamismus“ und andere. Pro Schuljahr werden im Schnitt 20 bis 25 schulinterne Fortbildungen abgerufen, daneben gibt es eine Reihe von Veranstaltungen im Regelprogramm des LI sowie jährlich eine größere Tagung.
@@ -96,11 +97,11 @@ Teilnehmende aus
 bezirklichen  
 Jugendämtern  
 2015  
-  
+–  
 Junge Muslime zwischen Islam und Islamismus  
-  
+–  
 Islam zwischen Tradition und Moderne  
-  
+–  
 Islamismus – ein Thema für den Kinderschutz und in der  
 Erziehungsberatung
 
@@ -110,20 +111,20 @@ Teilnehmende aus
 bezirklichen  
 Jugendämtern  
 2016  
-  
+–  
 Junge Muslime zwischen Islam und Islamismus  
-  
+–  
 Islam zwischen Religion, Kultur und Lebenswelt  
-  
+–  
 Weltanschauliche und kulturelle Vielfalt in der Kinder- und  
 Jugendarbeit
 
 2017  
-  
+–  
 Junge Muslime zwischen Islam und Islamismus  
-  
+–  
 „Mädchen und junge Frauen und ihre Rolle im Dschihadismus  
-  
+–  
 Islam zwischen Religion, Kultur und Lebenswelt (für  
 November 2017 geplant)
 

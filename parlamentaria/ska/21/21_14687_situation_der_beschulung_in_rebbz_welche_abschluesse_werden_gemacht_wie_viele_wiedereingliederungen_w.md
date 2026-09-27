@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8497"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64160"
@@ -55,7 +56,7 @@ Wie viele Schüler/-innen werden aktuell in wie vielen Lerngruppen in den Klasse
 
 Wie viele Schüler/-innen werden aktuell in wie vielen Lerngruppen in den Klassenstufen 5 – 10 unterrichtet? Bitte nach Standorten auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für das Schuljahr 2018/2019 liegen die angefragten Zahlen noch nicht vor. Diese stehen nach Validierung und Qualitätssicherung zur Verfügung und werden nach derzeitigem Planungsstand im Februar 2019 veröffentlicht. Für das Schuljahr 2017/2018 siehe Anlage 1.
 
@@ -146,7 +147,7 @@ Schulkinder mit ausgeprägtem Förderbedarf, die sich zum Beispiel nicht in eine
 
 Wie lange müssen entsprechende Kinder auf einen Therapieplatz warten? Bitte je Klinikum auflisten.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Zwischenfortschreibung 2017 des Krankenhausplans 2020 der Freien und Hansestadt Hamburg weist für die Krankenhäuser mit Fachabteilungen für Kinder- und Jugendpsychiatrie im Hamburger Stadtgebiet folgende Behandlungsplätze aus:
 

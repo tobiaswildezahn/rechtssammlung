@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 26
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/8041"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53729"
@@ -47,7 +48,7 @@ Zu wann tritt das „Neuntes Gesetz zur Änderung des Zweiten Buches Sozialgeset
 
 Treten nach Frage 1. alle Veränderungen nach der konsolidierten Fassung oder dem Jobcenter t.a.h. vorliegenden Gesetzänderung SGB II gleichzeitig in Kraft? Wenn nein, welche nicht und zu wann treten diese in Kraft?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe BT.-Drs. 18/8041 und BR.-Drs. 343/16.
 
@@ -59,7 +60,7 @@ Sind die Mitarbeiter/-innen in den Jobcentern umfassend über das „Neuntes Ges
 
 Gab es in der Vergangenheit für die Mitarbeiter in den Hamburger Jobcentern zu allen Änderungen über das „Neuntes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch – Rechtsvereinfachung sowie zur vorübergehenden Aussetzung der Insolvenzantragspflicht“ Schulungen? Wenn ja, bitte auflisten in Dauer der Schulungstage. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nach Auffassung von Jobcenter ist bei einem solchen komplexen Gesetzesvorhaben, in dessen Verlauf durchgängig mit Änderungen am Gesetzentwurf zu rechnen ist, eine Informationen der Mitarbeiterinnen und Mitarbeiter vor Abschluss des Gesetzgebungsverfahrens nicht sinnvoll.
 

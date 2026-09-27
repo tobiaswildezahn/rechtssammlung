@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62961"
@@ -57,21 +58,21 @@ Welche expliziten Maßnahmen werden in der Hamburgischen Verwaltung in welcher R
 
 Welche expliziten Maßnahmen zur Gesundheitsförderung in der Hamburgischen Verwaltung werden in welcher Regelmäßigkeit eingesetzt? (Bitte aufschlüsseln nach Behörde, Zeitkorridoren, Handlungsebene und physischen beziehungsweise psychischen Erkrankungen sowie Suchterkrankungen.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 In der betrieblichen Gesundheitsvorsorge greifen eine Reihe gesetzlicher Vorschriften, aus denen sich für alle Dienststellen konkrete Maßnahmen ableiten. So ist jede Dienstelle gemäß § 5 Arbeitssicherheitsgesetz (ASiG) verpflichtet, eine Fachkraft für Arbeitssicherheit zu bestellen und einen Arbeitsschutzausschuss (§ 11 ASiG) einzurichten. Aufgaben der Fachkraft für Arbeitssicherheit sind unter anderem:
 
- Beratung
+– Beratung
 
- Unterstützung bei Beurteilung der Arbeitsbedingungen
+– Unterstützung bei Beurteilung der Arbeitsbedingungen
 
- Unterstützung bei Verhältnisprävention (Arbeitsplatzgestaltung)
+– Unterstützung bei Verhältnisprävention (Arbeitsplatzgestaltung)
 
- Unterstützung bei Verhaltensprävention (Unterweisungen)
+– Unterstützung bei Verhaltensprävention (Unterweisungen)
 
- Unfallermittlung
+– Unfallermittlung
 
- Besichtigung von Arbeitsplätzen
+– Besichtigung von Arbeitsplätzen
 
 Der Arbeitsschutzausschuss hat die Aufgabe, Anliegen des Arbeitsschutzes und der Unfallverhütung zu beraten.
 
@@ -122,25 +123,25 @@ c. Welche waren die Ergebnisse der Tagungen des überbehördlich zusammengesetzt
 Die Tagesordnungspunkte der letztmaligen Sitzung des Strategiekreises BGF am
 6. September 2016 lauteten:
 
- Gesunde neue Arbeitswelt 4.0
+– Gesunde neue Arbeitswelt 4.0
 
- Ergebnis: Arbeitsauftrag an den Expertenkreis zur weiteren Konkretisierung
+– Ergebnis: Arbeitsauftrag an den Expertenkreis zur weiteren Konkretisierung
 
- Projekt „Lernförderliche Arbeitsgestaltung im Dienstleistungssektor“ der Bundes-
+– Projekt „Lernförderliche Arbeitsgestaltung im Dienstleistungssektor“ der Bundes-
 
 anstalt für Arbeitsschutz und Arbeitsmedizin (BAuA)
 
- Ergebnis: Möglichkeit zur Beteiligung an der Studie
+– Ergebnis: Möglichkeit zur Beteiligung an der Studie
 
- Fortschreibung des Konzepts „Gesundheitsförderung in der hamburgischen Ver-
+– Fortschreibung des Konzepts „Gesundheitsförderung in der hamburgischen Ver-
 
 waltung“
 
 Die Tagesordnungspunkte der letztmaligen Sitzung des Expertenkreises BGF am 27. Juni 2018 lauteten:
 
- Das Betriebliche Gesundheitsmanagement bei der Polizei
+– Das Betriebliche Gesundheitsmanagement bei der Polizei
 
- Umgang mit Fehlzeiten
+– Umgang mit Fehlzeiten
 
 d. Wurden die Ergebnisse der Tagungen in Protokollen veröffentlicht?
 

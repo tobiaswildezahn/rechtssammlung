@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5882", "21/5998"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54581"
@@ -43,7 +44,7 @@ Wie steht der Senat zur Kann-Regelung des § 65 Absatz 1 SGB II in Bezug auf die
 
 Wie wird die entsprechende Bundesgesetzgebung § 65 Absatz 1 SGB II in Hamburg vom Senat ausgelegt und angewandt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Regelung des § 65 Absatz 1 SGB II wird umgesetzt. Zur Umsetzung des § 65 SGB II siehe Drs. 21/5882 und 21/5998.
 

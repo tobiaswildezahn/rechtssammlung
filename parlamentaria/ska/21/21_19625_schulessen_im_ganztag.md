@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11561", "21/19315"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69352"
@@ -91,7 +92,7 @@ Wie begründet der Senat die erhebliche Abweichung seiner Preisfestlegung von de
 
 Auf welchen betriebswirtschaftlichen Auswertungen begründet der Senat seine Aussage, dass bei den in den Schulen vorhandenen Küchenausstattungen die Essenserstellung günstiger sei? Die Studie kommt hier zu gegenteiligen Feststellungen. Unter anderem schlagen hier andere Personalkosten durch.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die von dem Bundesministerium für Ernährung und Landwirtschaft in Auftrag gegebene „Studie zu Kosten- und Preisstrukturen in der Schulverpflegung (KUPS)“ verfolgt mit einer bundesweiten Erhebung unter anderem das Ziel, unter Berücksichtigung verschiedener Einflussfaktoren die Preis- und Kostenstrukturen anschaulich abzubilden sowie die Kosten und Wirtschaftlichkeit verschiedener kommunaler Konzepte für die Schulverpflegung aufzuzeigen. In der Betrachtung werden neben Wareneinstands-, Personal-, Betriebs- und Investitionskosten erstmals auch die Kosten für Organisationstätigkeiten der Träger in die Modellrechnung zur Ermittlung der kalkulatorischen Preise einer Mittagsmahlzeit einbezogen. Die Studie hat den Anspruch, Transparenz und Orientierungshilfe bezüglich des Kostenmanagements zu geben, sie gibt ausdrücklich keine Empfehlungen für Organisationsmodelle oder Preissetzungen. Nach Aussage der Studie wurden im September 2017 Abgabepreise für ein Mittagessen zwischen 1,20 Euro und 6,60 Euro erhoben. Der Abgabepreis im Durchschnitt lag nach Aussage der Studie bei 3,43 Euro. Die KUPS-Studie enthält keine Empfehlung für eine Preisfestlegung.
 
@@ -103,7 +104,7 @@ Welche Kosten für den Caterer ergäben sich laut Studie für die mit der Volksi
 
 Da der Senat die gestiegenen Personalkosten der Caterer offenbar nicht zu übernehmen gedenkt und damit die Vereinbarung der Volksinitiative nicht umsetzt: Wie stellt sich der Senat die Umsetzung der Vereinbarungen mit der Volksinitiative zum qualitätsvollen Mittagessen dann vor? Kann die Freie und Hansestadt Hamburg die Ausgabe des Essens alternativ mit eigenem Personal vornehmen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Zur ausführlichen Umsetzung der Beschlüsse zum „Guten Ganztag“ siehe Drs. 21/11561 und 21/19315. Im Übrigen siehe Vorbemerkung.
 

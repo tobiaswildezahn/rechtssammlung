@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51283"
@@ -61,7 +62,7 @@ Das Familienteam Walddörfer bekommt erstmals keine finanzielle Unterstützung d
 
 Wohin wurden die Gelder des Familienteams Walddörfer stattdessen umverteilt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Das Familienteam Walddörfer besteht seit 2014. In 2015 lag die Förderung bei rund
 27.000 Euro für das gesundheitliche Personal. Darüber hinaus wird der Anteil von zehn Stunden für die Sozialpädagogin aus der Ressource des Projektes von Anfang

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/665", "19/4555"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56461"
@@ -61,23 +62,23 @@ Welche Denkmäler der genannten Art sind in der Zeit seit 1950 abgebaut worden? 
 
 Eine statistische Erfassung abgebauter Denkmäler findet nicht statt. Der zuständigen Behörde sind die folgenden Fälle bekannt:
 
- Am Licentiatenberg, Groß Borstel, 2006 abgebaut nach Vandalismusschäden
+– Am Licentiatenberg, Groß Borstel, 2006 abgebaut nach Vandalismusschäden
 
- Denkmal Hermann von Wissmann, Rotherbaum, vor dem Hauptgebäude der Uni-
+– Denkmal Hermann von Wissmann, Rotherbaum, vor dem Hauptgebäude der Uni-
 
 versität Hamburg, gestürmt (1968), eingelagert in der Hamburger Sternwarte in Bergedorf
 
- Kriegerdankweg/Wählingsweg, Schnelsen, bei Neuschaffung des dort vorhande-
+– Kriegerdankweg/Wählingsweg, Schnelsen, bei Neuschaffung des dort vorhande-
 
 nen Denkmals (1967) wurde ein Kriegerdenkmal von 1925 für die Gefallenen des Ersten Weltkriegs entfernt.
 
- Park am Kriegerdankweg, Schnelsen, Denkmal für die Erhebung Schleswig-
+– Park am Kriegerdankweg, Schnelsen, Denkmal für die Erhebung Schleswig-
 
 Holsteins 1848 – 1851 (Findling) sowie Gedenkstein (Findling) 1870/1871, Zeitpunkt und Grund für den Abbau sind nicht bekannt.
 
- Kriegerdenkmal Am Schulberg, Othmarschen, Bronzeplatte, gestohlen (2016)
+– Kriegerdenkmal Am Schulberg, Othmarschen, Bronzeplatte, gestohlen (2016)
 
- Ehrenmal 1914 – 1918, Kanzlershof/Kanzlershofer Weg gegenüber Nummer 52,
+– Ehrenmal 1914 – 1918, Kanzlershof/Kanzlershofer Weg gegenüber Nummer 52,
 
 Rönneburg, abgebaut 2001, da Sanierung zu aufwendig und kostenintensiv.
 
@@ -117,6 +118,6 @@ Welche Beschädigungen durch Vandalismus hat es bei Denkmälern der genannten Ar
 
 Wie verfahren die Behörden bei Beschädigungen der Denkmäler?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Beschädigungen sind überwiegend witterungsbedingt sowie Verunreinigungen mit Graffitis. Diese werden in der Regel zeitnah gereinigt und es werden bei Erfordernis kleinere Sanierungsarbeiten durchgeführt. Im Übrigen siehe Antwort zu 1.

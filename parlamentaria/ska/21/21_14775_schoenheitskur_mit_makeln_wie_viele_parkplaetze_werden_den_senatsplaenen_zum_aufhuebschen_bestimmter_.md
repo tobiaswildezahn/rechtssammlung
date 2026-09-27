@@ -14,6 +14,7 @@ fragen: 32
 einzelfragen: 33
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13971"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64216"
@@ -240,7 +241,7 @@ Welche Stellen welcher Behörden, Landesbetriebe und Bezirke haben an der Erarbe
 
 Welcher Stelle oblag die Federführung bei der Erarbeitung des am 23. Oktober 2018 vorgestellten Programms zur Aufwertung und Sanierung öffentlicher Plätze?
 
-#### Antwort zu Fragen 28 bis 29
+#### Antwort zu Fragen 28 und 29
 
 Die Behörde für Stadtentwicklung und Wohnen (federführend), die Finanzbehörde und die Bezirksämter.
 

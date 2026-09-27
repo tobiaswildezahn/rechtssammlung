@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3984"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52599"
@@ -73,7 +74,7 @@ Ist die jetzt praktizierte Reihenfolge: erst der Umbau des Knotens und dann die 
 
 Warum hat man die jetzt laufende Verkehrsuntersuchung nicht abgewartet und die Baumaßnahmen ein Jahr verschoben?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Umbau des Knotens Kirchenallee/Ernst-Merck-Straße steht den angestrebten verkehrlichen und funktionalen Verbesserungen im Umfeld des Hauptbahnhofs nicht entgegen. Daher ist die Reihenfolge zweckmäßig und der Umbau des Knotens in diesem Jahr sinnvoll, um möglichst schnell die Busoptimierung auf diesem Streckenabschnitt umzusetzen und den Knoten mit taktilen Leitelementen auszustatten. Im Übrigen siehe Drs. 21/3984.
 

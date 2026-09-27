@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 30
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7", "21/4153", "21/4394"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53965"
@@ -128,17 +129,17 @@ Der ärztliche Dienstleister setzt im Schichtdienst zehn Ärzte, zwölf medizini
 
 Die Öffnungszeiten der Außenstelle der Tuberkulosebekämpfung im Ankunftszentrum Bargkoppelstieg sind:
 
- Montag 12.30 Uhr – 15.00 Uhr
+– Montag 12.30 Uhr – 15.00 Uhr
 
- Mittwoch 12.30 Uhr – 15.00 Uhr
+– Mittwoch 12.30 Uhr – 15.00 Uhr
 
- Freitag 9.00 Uhr – 12.00 Uhr
+– Freitag 9.00 Uhr – 12.00 Uhr
 
 Zu diesen Zeiten arbeiten dort im Auftrag des Bezirksamtes Hamburg-Mitte:
 
- zwei Ärztinnen/Ärzte
+– zwei Ärztinnen/Ärzte
 
- zwei medizinisch-technische Röntgen-Assistentinnen (MTRA) oder medizinische
+– zwei medizinisch-technische Röntgen-Assistentinnen (MTRA) oder medizinische
 
 Fachangestellte (MFA) mit Röntgenschein
 

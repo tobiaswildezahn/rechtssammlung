@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 32
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1122", "20/7040", "21/5600", "21/6399", "17/2328"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54997"
@@ -55,7 +56,7 @@ Für das Jahr 2014 wurden im Haushaltsplan 43,75 Vollzeitäquivalente (VZÄ) aus
 
 Wie haben sich die Personalkosten seit 2008 pro Jahr einschließlich des erfassten Standes für 2016 entwickelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zur tabellarischen Darstellung der Vollzeitäquivalente (VZÄ) sowie der Personalkosten sind folgende Hinweise erforderlich:
 

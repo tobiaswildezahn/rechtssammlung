@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12078", "21/12410", "21/3106"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63877"
@@ -100,6 +101,6 @@ Die durch Initiative Thüringens und Bremens zustande gekommene Bundesrat-Entsch
 
 Welche Folgen hat der Bundesratsentscheid für Hamburg?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Beratung der BR.-Drs. 740/17 erfolgte im Ausschuss für Agrarpolitik und Verbraucherschutz am 9. April 2018 und wurde bis zum Wiederaufruf vertagt. Eine Befassung im Bundesrat erfolgte bisher nicht. Im Übrigen hat sich der Senat damit nicht befasst.

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6007", "21/8830", "21/4408", "21/225", "20/14665", "20/11503", "20/7676", "21/3149", "21/8228"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58785"
@@ -104,7 +105,7 @@ Was hat sich im Einzelnen durch den Abschluss des neuen Gastschulabkommens im ve
 In welcher Weise erfolgt die Berücksichtigung der Anmeldungen von Kindern aus Schleswig-Holstein bei der Zuteilung der Plätze in den fünften Klassen der einzelnen Gymnasien/Stadtteilschulen in Hamburg? a. Ist es richtig, dass Erst-, Zweit- und Drittwünsche Hamburger Kinder vor dem Erstwunsch der Kinder aus Schleswig-Holstein berücksichtigt werden? b. Falls ja, inwiefern passt dies zur Aussage in der PM der BSB vom
 12. Juli 2017: „Es werde „faktisch eine freie Schulwahl bei weiterführenden, öffentlichen und allgemeinbildenden Schulen“ ermöglicht. (...) Mit dem Gastschulabkommen verliert die Landesgrenze für Schülerinnen und Schüler beider Bundesländer ihre frühere Bedeutung. (...) Auch die Wohn- und Meldeadressen sind beim Schulbesuch künftig nicht mehr maßgeblich.“?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Schülerinnen und Schüler mit Wohnsitz in Schleswig-Holstein konnten bis zum
 1. Januar 2017 nur aufgenommen werden, wenn eine konkrete Überprüfung des Einzelfalls nach festgelegten Kriterien einen Aufnahmetatbestand ergab, siehe Dienstanweisung zur Aufnahme vom Gastschülerinnen und Gastschülern aus Schleswig- Holstein in staatliche allgemeinbildende Schulen vom 25.01.2010 (MBlSchul 2010 Seite 1). Ein Aufnahmetatbestand leitete sich zum Beispiel nur bei Vorliegen einer besonderen, im Einzelfall umfangreich nachzuweisenden, persönlichen Härte ab.

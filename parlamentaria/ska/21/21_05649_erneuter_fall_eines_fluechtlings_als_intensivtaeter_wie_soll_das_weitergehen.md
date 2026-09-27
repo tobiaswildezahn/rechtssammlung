@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5624"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54151"
@@ -63,7 +64,7 @@ Mit welcher Begründung ist nun Untersuchungshaft angeordnet worden?
 
 Wieso ist in den bisherigen Fällen offenbar keine Untersuchungshaft angeordnet worden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Untersuchungshaft wurde angeordnet, weil hinsichtlich der dem Beschuldigten zur Last gelegten Straftaten dringender Tatverdacht besteht und der Haftgrund der Fluchtgefahr gegeben ist. In den gegen den Beschuldigten zuvor geführten Verfahren lagen die hierfür erforderlichen gesetzlichen Voraussetzungen jeweils nicht vor.
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 16
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13796", "21/12037", "21/12359", "21/12704", "21/13055", "21/13588", "21/14071", "21/12538", "21/14063", "21/13466", "21/8508"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63468"
@@ -43,7 +44,7 @@ Wie viele Asylbewerber erhielten im Jahr 2018 bisher insgesamt keinen positiven 
 
 Aus welchen Ländern stammen die Personen, die im Jahr 2018 bisher keinen positiven Asylbescheid erhielten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/12037, 21/12359, 21/12704, 21/13055, 21/13588, 21/13796 und 21/14071.
 

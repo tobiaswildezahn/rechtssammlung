@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/3300", "18/3299", "18/6491", "20/5830"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65624"
@@ -69,7 +70,7 @@ Wann sind Vertreter der buddhistischen Zentren in Hamburg zum ersten Mal an den 
 
 Wie oft ist es seither zu einem Austausch gekommen und wer war dabei auf beiden Seiten beteiligt? Bitte auch die jeweiligen Daten nennen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nr.  
 Datum  
@@ -170,6 +171,6 @@ Welche Voraussetzungen müssen die buddhistischen Gemeinden erfüllen, damit sie
 
 Inwieweit werden diese Voraussetzungen gegenwärtig von den islamischen Vertragspartnern des Senats erfüllt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Vorbemerkung.

@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 29
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67873"
@@ -126,7 +127,7 @@ Ist der Tatverdächtige deutscher Staatsbürger? Wenn nein, wie lautet sein aufe
 
 Falls der Tatverdächtige nicht deutscher Staatsbürger ist, welche Staatsangehörigkeit hat er?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Der Tatverdächtige besitzt die türkische Staatsangehörigkeit. Er ist im Besitz einer Aufenthaltserlaubnis nach § 34 Absatz 2 Satz 1 Aufenthaltsgesetz.
 
@@ -146,7 +147,7 @@ Ist der Tatverdächtige in der Vergangenheit bereits strafrechtlich in Erscheinu
 
 Ist der Tatverdächtige in diesem Zusammenhang bereits rechtskräftig verurteilt worden? Bitte sowohl Zeitpunkt als auch das zugrunde liegende Delikt sowie das verhängte Strafmaß nennen.
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Im Hinblick auf das Persönlichkeitsrecht des Betroffenen und die gesetzlichen Wertungen des Bundeszentralregistergesetzes sieht der Senat davon ab, etwaige Ermittlungsverfahren mitzuteilen, die durch einen Freispruch oder eine Einstellung beendet worden sind. Dasselbe gilt für Ermittlungsverfahren, die zu einem Abschluss geführt haben, der entweder nicht in ein Führungszeugnis aufzunehmen oder nach den Tilgungsvorschriften des Bundeszentralregistergesetzes nicht mehr zu berücksichtigen ist. Die Auskunft aus dem Bundeszentralregister vom 3. September 2019 enthält keine mitteilungsfähigen Eintragungen.
 

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15497", "21/10688", "21/14477"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65327"
@@ -45,11 +46,11 @@ Der zuständigen Behörde liegen keine Informationen darüber vor, dass die Bahn
 
 Sowohl der Flughafen Hamburgs als auch die Behörde für Umwelt und Energie haben ihre Jahresbilanzen für 2018 veröffentlicht:
 
- Jahresstatistik des Flughafen Hamburg https://www.hamburg-airport.de/media/
+– Jahresstatistik des Flughafen Hamburg https://www.hamburg-airport.de/media/
 
 Jahresstatistik_2018.pdf.
 
- Fluglärmbeschwerdestatistik  
+– Fluglärmbeschwerdestatistik  
 der  
 Behörde  
 für  
@@ -214,7 +215,7 @@ Wie viele An- und Abflüge gab es im Monat Dezember 2018 und für das Gesamtjahr
 
 Wie viele An- und Abflüge gab es im Monat Dezember 2018 und für das Gesamtjahr 2018 insgesamt am Hamburger Flughafen und wie haben sich diese auf die einzelnen Start- und Landebahnen verteilt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Starts  
 Start- und Landebahnen  
@@ -262,7 +263,7 @@ Wurde der vorgeschriebene Bahnwechsel (für die Bahn 05/23 Lemsahl- Poppenbütte
 
 Welche Gründe wurden für die Nichtbeachtung der Bahnbenutzungsregel 2.3 im Jahr 2018 angeführt? Bitte Nächteweise angeben.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Zur Auswahl der Betriebspisten siehe Vorbemerkung.
 
@@ -348,13 +349,13 @@ Wie viele Landungen fanden im Jahr 2018 über die Landebahn RWY23 statt? Bitte a
 
 #### Antwort zu Frage 12
 
- 7 – 22 Uhr,
+– 7 – 22 Uhr,
 
- 22 - 23 Uhr,
+– 22 - 23 Uhr,
 
- 23 – 6 Uhr,
+– 23 – 6 Uhr,
 
- 6 – 7 Uhr.
+– 6 – 7 Uhr.
 
 Landungen RWY 23  
 Januar – Dezember 2018  

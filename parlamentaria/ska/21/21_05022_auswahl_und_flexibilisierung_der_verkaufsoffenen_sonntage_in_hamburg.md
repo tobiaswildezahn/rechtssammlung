@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 25
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9572", "20/11704", "20/14093"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53476"
@@ -67,7 +68,7 @@ Wie läuft im Einzelnen das Verfahren zur Festlegung beziehungsweise Verständig
 
 Inwiefern werden die Wünsche beziehungsweise Positionen der Einzelhandelsverbände, des City Managements, der Handelskammer und sonstigen Interessensgemeinschaften in die Abstimmung einbezogen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 

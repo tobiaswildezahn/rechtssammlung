@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3616"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60889"
@@ -43,7 +44,7 @@ Wie viele versuchte und vollendete Einbrüche wurden im Jahr 2017 im Alstertal u
 
 Wie viele versuchte und vollendete Einbrüche wurden im Jahr 2017 im Alstertal und in den Walddörfern aufgeklärt? Bitte die Zahlen für jeden Monat einzeln angeben und nach Stadtteilen sowie in Wohnungen/ Häuser und Gewerbeobjekte aufgliedern.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Bereich des Wohnungseinbruchdiebstahls ist seit 2015 ein deutlicher Rückgang zu verzeichnen. Auch die im August 2015 eingerichtete BAO 153 „Castle“ hat hierzu beigetragen. Der Rückgang der Fallzahlen zeigt sich auch in dem Gebiet Alstertal und in den Walddörfern.
 

@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 61190
 seiten: 3
 fragen: 8
-einzelfragen: 11
-antwortbloecke: 8
+einzelfragen: 16
+antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3320"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67087"
@@ -104,22 +105,35 @@ Aufgrund deutlich länger als ursprünglich geplant dauernder Nutzung des Flurst
 ### Frage 8
 
 Vor Kurzem wurde die von der Schemmannstraße abgehende Zuwegung mit einer neuen Deckschicht versehen.
-8.1. Wie hoch sind die Kosten, die mit dieser Maßnahme verbunden sind?
 
-#### Antwort zu Frage 8
+### Frage 8.1
+
+Wie hoch sind die Kosten, die mit dieser Maßnahme verbunden sind?
+
+#### Antwort zu Fragen 8 und 8.1
 
 Die Kosten betragen rund 60 000 Euro.
 
-8.2. Wer übernimmt die Kosten für die neue Deckschicht? Wer hat die Maßnahme beauftragt?
+### Frage 8.2
+
+Wer übernimmt die Kosten für die neue Deckschicht? Wer hat die Maßnahme beauftragt?
+
+#### Antwort zu Frage 8.2
 
 Die Kosten übernimmt das Bezirksamt Wandsbek als Auftraggeber.
 
-8.3. Ist es zutreffend, dass dabei auch Teile des angrenzenden Flurstücks 7172 asphaltiert worden sind?
+### Frage 8.3
 
-Wenn ja, aus welchen Gründen?
+Ist es zutreffend, dass dabei auch Teile des angrenzenden Flurstücks 7172 asphaltiert worden sind? Wenn ja, aus welchen Gründen?
+
+#### Antwort zu Frage 8.3
 
 Nein.
 
-8.4. Wann wurde in welcher Form und mit welchen Stellen Vereinbarungen über welche Nutzungen des Flurstücks 7172 für welchen Zeitraum abgeschlossen?
+### Frage 8.4
+
+Wann wurde in welcher Form und mit welchen Stellen Vereinbarungen über welche Nutzungen des Flurstücks 7172 für welchen Zeitraum abgeschlossen?
+
+#### Antwort zu Frage 8.4
 
 Eine Teilfläche des Flurstücks 7172 von circa 17.970 m ist seit dem Jahr 2005 für die Ausübung von Kursangeboten im Bogenschießsport unbefristet vermietet. Für die restliche Grünfläche von circa 5 538 m bestehen keine Miet- /Nutzungsverträge – diese Fläche ist öffentlich zugänglich.

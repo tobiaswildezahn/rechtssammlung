@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/2948", "21/6800", "20/4466"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66004"
@@ -53,11 +54,11 @@ Welche Projekte wurden im Rahmen des Masterplans Sportförderung im Zeitraum 201
 
 Seit Beschluss des Masterplans wurden bis 2018 folgende Projekte abgeschlossen:
 
- Hockeyausstattung für Wandsbek,
+– Hockeyausstattung für Wandsbek,
 
- Bewegungsinseln zum wohnortnahen Sporttreiben im Freien,
+– Bewegungsinseln zum wohnortnahen Sporttreiben im Freien,
 
- Neubau einer Einfeldhalle am Mittleren Landweg (auch Modernisierung Freianla-
+– Neubau einer Einfeldhalle am Mittleren Landweg (auch Modernisierung Freianla-
 
 gen).
 

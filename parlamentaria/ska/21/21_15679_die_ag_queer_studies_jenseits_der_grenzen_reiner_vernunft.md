@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 20
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9725"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65181"
@@ -192,7 +193,7 @@ Wie viele Studenten/-innen beziehungsweise Lerninteressierte/-innen sind gegenw�
 
 Wie viele sind/waren es im Wintersemester 2018/2019 und Sommersemester 2018?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Es gibt keine Einschreibungen bei der „AG Queer Studies“. Im Übrigen siehe Vorbemerkung und Drs. 21/9725.
 
@@ -240,7 +241,7 @@ Seminare wie „zur Kritik an heterosexuellen Paarökonomien“, „einvernehmli
 
 Inwieweit geht dies mit dem Grundsatz der weltanschaulichen Neutralität konform?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Bei den genannten Veranstaltungstiteln handelt es sich um Vorträge im Rahmen der Vorlesungsreihe „Jenseits der Geschlechtergrenzen“. Zur Finanzierung siehe Antwort zu 7.
 

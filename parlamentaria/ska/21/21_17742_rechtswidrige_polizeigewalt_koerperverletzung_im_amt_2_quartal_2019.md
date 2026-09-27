@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14067", "21/16757"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67344"
@@ -76,7 +77,7 @@ Wie viele Strafverfahren gegen Polizeibedienstete wegen Körperverletzung im Amt
 
 Wie viele Strafverfahren sind gegen Polizeibedienstete wegen Körperverletzung im Amt im letzten Quartal aufgrund welcher Sachverhalte mit welchen Verfahrensausgängen zu welchem Zeitpunkt abgeschlossen worden? Bei Einstellungen bitte die jeweilige Rechtsgrundlage; bei Verurteilungen bitte die Art und Höhe der Sanktion benennen.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Eine Einzelauskunft der Staatsanwaltschaft Hamburg zu den einzelnen Verfahren zugrunde liegenden Sachverhalten erfordert eine händische Auswertung sowie die Erstellung einer Sachverhaltszusammenfassung in jedem Einzelfall. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

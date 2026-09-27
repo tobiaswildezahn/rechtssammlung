@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12471"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50692"
@@ -64,7 +65,7 @@ Welche Verkehrsbehinderungen werden sich während der Bauphase in der Straße We
 
 Wie möchte der Senat für die Schulwegsicherung zu den umliegenden Schulen während der Bauphase und nach Fertigstellung des Bauprojektes Sorge tragen? Welche konkreten Maßnahmen sollen dazu umgesetzt werden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Ein konkreter Baubeginn für das Bauvorhaben auf dem Eckgrundstück Saseler Damm/Weidende ist der zuständigen Straßenverkehrsbehörde derzeit nicht bekannt. Bei der Straßenverkehrsbehörde wurden bislang auch keine Pläne zur Baustelleneinrichtung zur Prüfung eingereicht. Insofern liegen keine Erkenntnisse darüber vor, wie der Bauherr seine Bauausführung gestalten möchte.
 

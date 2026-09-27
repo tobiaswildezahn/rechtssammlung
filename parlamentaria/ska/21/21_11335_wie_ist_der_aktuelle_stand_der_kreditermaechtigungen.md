@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 4
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8443"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60327"
@@ -43,7 +44,7 @@ Wie hoch ist der Stand der 2017 neu aufgenommenen sowie getilgten Kreditmarktsch
 
 Wie hoch sind die dem Senat inklusive Ermächtigungsüberträgen aus Vorjahren zu oben genanntem Stichtag noch zur Verfügung stehenden Aufnahmeermächtigungen für Deckungskredite? Auf welche Summe beliefen sich die ins Haushaltsjahr 2017 übertragenen Ermächtigungen? (Bitte für beide Frageblöcke jeweils nach Kernhaushalt und Sondervermögen differenziert darstellen.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage. Im Übrigen siehe Drs. 21/8443.
 

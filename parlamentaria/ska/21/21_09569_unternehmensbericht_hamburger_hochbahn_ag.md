@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 17
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58362"
@@ -124,7 +125,7 @@ Wie viele Bushaltestellen von HOCHBAHN und VHH gibt es im Stadtgebiet von Hambur
 
 Wie viele sind davon überdacht?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 In Hamburg werden derzeit circa 1.871 Haltestellen von HOCHBAHN und VHH angefahren. In der Regel besteht eine Haltestelle aus zwei Richtungshaltestellen.
 

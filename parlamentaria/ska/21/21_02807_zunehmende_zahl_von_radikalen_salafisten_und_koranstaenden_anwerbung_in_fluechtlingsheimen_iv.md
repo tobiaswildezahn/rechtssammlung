@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 27
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2483", "21/1954", "21/510", "21/1513", "21/1542", "21/1703", "21/954", "20/13460", "21/328", "21/1006", "21/1306", "21/2081", "21/2303", "21/2843"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51120"
@@ -80,7 +81,7 @@ Wie oft werden Dolmetscher in den Flüchtlingsheimen in Hamburg überprüft? Wer
 
 Nach welchen Kriterien werden die Dolmetscher in den Flüchtlingsheimen in Hamburg eingestellt (bitte die Kriterien beifügen)?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Dolmetscherinnen und Dolmetscher, die in den Erstaufnahmeeinrichtungen eingesetzt werden sollen, werden von den Betreibern ausgewählt und in der Regel auf Honorarbasis beschäftigt. f & w fördern und wohnen AöR (f & w) sowie das Deutsche Rote Kreuz Kreisverband Hamburg-Harburg e.V. haben mitgeteilt, dass Bewerberinnen und Bewerber ein polizeiliches Führungszeugnis vorlegen müssen. Eine behördliche Auswahl, Überprüfung oder Kontrolle erfolgt nicht.
 

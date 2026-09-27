@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17818"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68609"
@@ -67,6 +68,6 @@ Warum wurde die Umgestaltung des Baumackers in diesem Jahr bereits zweimal versc
 
 Gab es bei der Ausschreibung unerwartete Entwicklungen, Verzögerungen oder andere Probleme? Wenn ja, welche?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/17818.

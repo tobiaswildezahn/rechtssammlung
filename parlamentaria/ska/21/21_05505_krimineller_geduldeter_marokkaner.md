@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4127", "21/4453", "21/4571"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53987"
@@ -83,7 +84,7 @@ Welche Straftatbestände hat die Person, seitdem sie in Deutschland ist, verwirk
 
 Wegen welcher Straftaten ist die Person bislang verurteilt worden und welche Sanktionen sind ihr gegenüber erfolgt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Mitteilung von Verfahren, die bei Staatsanwaltschaften anderer Länder geführt wurden beziehungsweise noch geführt werden, liegt außerhalb des Verantwortungsbereichs des Senats und der parlamentarischen Kontrolle der Bürgerschaft und wird daher vom parlamentarischen Fragerecht nicht erfasst.
 

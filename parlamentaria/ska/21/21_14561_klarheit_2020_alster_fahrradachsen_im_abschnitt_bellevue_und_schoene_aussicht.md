@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12871"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63996"
@@ -90,7 +91,7 @@ Wie viele Parkplätze fallen nach derzeitigem Planungsstand konkret in dem betro
 
 Ist die Planung entsprechend den Parkständen zwischen den Bäumen angepasst worden? Wenn ja, mit welchem Ergebnis? Wie viele Parkplätze können dort konkret errichtet werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Insgesamt sind in diesem Planungsabschnitt derzeit 447 Parkplätze und Parkstände vorhanden. Im Zuge der Planung wurde ein Baumgutachten beauftragt und stichprobenartige Wurzelsuchgrabungen wurden durchgeführt. Nach den im Gutachten genannten Hinweisen wurde die Planung bereits angepasst. Somit können im Abschnitt 2b insgesamt 325 Parkplätze gehalten werden.
 

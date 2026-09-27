@@ -14,6 +14,7 @@ fragen: 27
 einzelfragen: 41
 antwortbloecke: 23
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1340"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49562"
@@ -53,7 +54,7 @@ Wie viele Krätze-Infektionen sind seit Juli 2015 in der ZEA Jenfelder Moorpark 
 
 Wie viele Krätze-Infektionen sind seit Juli 2015 in welchen weiteren Flüchtlingsunterkünften in Hamburg aufgetreten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nach Auskunft des Betreibers f & w fördern und wohnen AöR (f & w) kann eine genaue Anzahl der Erkrankten aufgrund der zeitlichen Latenz zwischen Milbenbefall und Auftreten von Beschwerden für den nachgefragten Zeitraum nicht ermittelt werden.
 
@@ -271,7 +272,7 @@ Welche Therapieformen sind bei Krätze-Infektionen in Hamburg in den vergangenen
 
 Wie und womit werden Krätze-Infektionen in Pflegeeinrichtungen in Hamburg in der Regel behandelt?
 
-#### Antwort zu Fragen 25 bis 26
+#### Antwort zu Fragen 25 und 26
 
 Die Therapie von Krätzmilbeninfektionen obliegt der Verantwortung der allgemeinbeziehungsweise fachärztlichen Versorgung. Daten zu Art und Weise der vorgenommenen Behandlungen liegen der zuständigen Behörde nicht vor. Die Bekämpfung/ Behandlung von Scabies erfolgt entsprechend den Empfehlungen der Fachgesellschaften und dem RKI-Ratgeber für Ärzte zum Krätzmilbenbefall (Skabies).
 

@@ -14,6 +14,7 @@ fragen: 42
 einzelfragen: 58
 antwortbloecke: 37
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5231", "21/7486", "21/13044", "21/17099", "21/9248", "21/18061", "21/17729", "21/9373", "21/9374", "21/17582", "21/17583", "21/17826", "21/17974", "21/17134", "21/11447", "21/13563", "21/17277", "21/17326", "21/17795", "21/3710", "21/2550", "21/17281"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67950"
@@ -251,7 +252,7 @@ Weiter teilt die Behörde für Inneres und Sport (BIS) vor wenigen Tagen mit (Az
 
 Auch wird behauptet in oben genanntem Schreiben der BIS, man bräuchte aktuell auf „dem Flurstück“ (Harburger Poststraße) 36 Wohncontainer zuzüglich Sanitär- und Wirtschaftscontainer zwecks Unterbringung von bis zu 144 Personen. Wenn diese neu hinzukommen sollen, welche Kosten sind dafür geplant und in welchem zeitlichen Rahmen soll dies geschehen?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Auf dem Neuländer Platz befinden sich keine Containerblöcke. Die in dem Schreiben der Behörde für Inneres und Sport (BIS) bezeichnete Fläche betrifft das benachbarte
 
@@ -275,13 +276,13 @@ An welchen Standorten mit Perspektive Wohnen (UPW) (zum Beispiel Poppenbüttler 
 
 Folgende Standorte werden bis spätestens 31. Dezember 2019 nicht mehr als öffentlich-rechtliche Unterbringung genutzt, zur Wohnnutzung hergestellt und anschließend vermietet:
 
- Duvenacker: 30 Wohneinheiten
+– Duvenacker: 30 Wohneinheiten
 
- Butterbauernstieg: 24 Wohneinheiten
+– Butterbauernstieg: 24 Wohneinheiten
 
- Ohlendiekshöhe 42 Wohneinheiten
+– Ohlendiekshöhe 42 Wohneinheiten
 
- Am Gleisdreieck 170 Wohneinheiten
+– Am Gleisdreieck 170 Wohneinheiten
 
 Im Übrigen siehe Drs. 21/17134. Darüber hinaus sind die Planungen noch nicht abgeschlossen.
 
@@ -320,7 +321,7 @@ Warum werden Bezirke, wie beispielsweise Harburg künftig stärker belastet durc
 
 Inwiefern werden künftig auch diese Stadtteile in die Unterbringung von Flüchtlingen einbezogen?
 
-#### Antwort zu Fragen 25 bis 26
+#### Antwort zu Fragen 25 und 26
 
 Siehe Antworten zu 17. und 24.
 

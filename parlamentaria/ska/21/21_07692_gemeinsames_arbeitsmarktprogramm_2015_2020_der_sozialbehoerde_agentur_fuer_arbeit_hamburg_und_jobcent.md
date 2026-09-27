@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7483", "21/7543"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56333"
@@ -75,15 +76,15 @@ Wie viele Teilnehmer/-innen wurden nach der erfolgreichen Qualifizierung im Rahm
 
 Zielgruppen des ESF-Projektes 3. Hamburger Qualifizierungsoffensive sind sozialversicherungspflichtig Beschäftigte in den Einrichtungen der Altenpflege. Ziele sind die Stabilisierung der Beschäftigungsverhältnisse und die Schaffung von Aufstiegsmöglichkeiten im Berufsfeld der Altenpflege sowie die Erhöhung der Zahl der dringend benötigten Fach- und Assistenzkräfte. Im Rahmen des Projektes erfolgen:
 
- berufsbegleitende und verkürzte Nachqualifizierung von ungelernten und gering
+– berufsbegleitende und verkürzte Nachqualifizierung von ungelernten und gering
 
 qualifizierten Pflegekräften zu ausgebildeten Assistenzkräften,
 
- berufsbegleitende und verkürzte Nachqualifizierung von ausgebildeten Assistenz-
+– berufsbegleitende und verkürzte Nachqualifizierung von ausgebildeten Assistenz-
 
 kräften zu ausgebildeten Fachkräften und die
 
- Aufstiegsqualifizierung von ausgebildeten Fachkräften zu Leitungskräften.
+– Aufstiegsqualifizierung von ausgebildeten Fachkräften zu Leitungskräften.
 
 Zu den bisherigen Ergebnissen siehe Drs. 21/7543.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64589"
@@ -87,7 +88,7 @@ Hat der Senat Kenntnis, ob eine Aufteilung der Bauarbeiten in zwei Abschnitte (w
 
 Während der geplanten Sperrung wird den Linien S3 und S31 eine wichtige Funktion als Zu- und Abbringer von in Harburg und Pinneberg endenden Zügen zukommen. Welche Verstärkungsmaßnahmen, wie zum Beispiel Taktverdichtung, ausgeweitete Betriebszeiten oder Langzugeinsatz, sind während der Sperrung geplant?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 

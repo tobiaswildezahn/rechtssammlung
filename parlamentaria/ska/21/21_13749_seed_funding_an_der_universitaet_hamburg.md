@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63131"
@@ -47,7 +48,7 @@ Wie viele Wissenschaftler der Universität Hamburg nehmen gegenwärtig am Seed-f
 
 Aus welchen Studienfächern stammen diese Leute?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 2017 nahmen 136 Wissenschaftlerinnen und Wissenschaftler am Seed-funding teil, davon aus den Fakultäten:
 
@@ -140,6 +141,6 @@ c) Langfristige Kooperation, die bis heute andauert
 
 Auf die Kontakte zu welchen Hochschulen treffen die Unterpunkte a), b) und c) aus Frage 11. zu?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Das Programm besteht im Wesentlichen seit dem Jahr 2015. Eine Überprüfung der langfristigen Effekte erfolgt seitens der UHH im Abstand von mindestens fünf Jahren. Derzeit liegen noch keine Erkenntnisse im Sinne der Fragestellung vor.

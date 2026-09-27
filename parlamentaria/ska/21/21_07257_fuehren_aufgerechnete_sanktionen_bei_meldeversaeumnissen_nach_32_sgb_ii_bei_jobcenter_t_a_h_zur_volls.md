@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7167"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55854"
@@ -73,7 +74,7 @@ In Fragen 5. und 6. der Drs. 21/7167 wird auf die Fragen nach einer Gegenkontrol
 
 Wie definiert der Senat beziehungsweise Jobcenter t.a.h. den Begriff „Eilsache“ nach Frage 7. und welchen Zeitraum umfasst die Erledigung der Eilsache?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/7167. Darüber hinaus findet bei Jobcenter eine Kontrolle der Rechtmäßigkeit im Rahmen der Fachaufsichtsprüfungen in Stichproben statt.
 

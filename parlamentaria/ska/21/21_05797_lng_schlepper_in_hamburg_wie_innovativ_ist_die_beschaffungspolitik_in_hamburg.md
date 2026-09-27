@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 20
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54276"
@@ -51,7 +52,7 @@ Inwieweit gibt es vom Senat beziehungsweise der zuständigen Behörde oder der H
 
 Welche Gespräche wurden mit welcher Stelle mit jeweils welchem Ergebnis dazu bisher geführt? a. Mit welchen Kammern, Verbänden und Vereinen wurden wann Gespräche mit welchem Ergebnis geführt? b. Mit welchen Reedereien und anderen Unternehmen sind wann Gespräche darüber geführt worden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Einsatz von LNG bei Schleppern würde grundsätzlich deren Emissionen von NOx, Feinstaub und SOx erheblich mindern.
 

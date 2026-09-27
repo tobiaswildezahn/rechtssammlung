@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18877", "21/18715"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68836"
@@ -47,7 +48,7 @@ Die HOCHBAHN bezieht sich auf verschiedene – angebliche – Urteile. Veröffen
 
 Ich habe die HOCHBAHN gebeten, die Urteile, auf die sie Bezug nimmt, als Anlage der Schriftlichen Kleinen Anfrage beizufügen. Das ist nicht geschehen. Ich bitte, dem nachzukommen. Wenn das nicht möglich sein sollte, bitte ich um Erklärung, warum die Möglichkeit nicht besteht.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Grundsätzlich obliegt die Prüfung über Veröffentlichungen und über die Bereitstellung von gerichtlichen Entscheidungen dem jeweiligen Gericht. Die in Drs. 21/18877 genannten Urteile wurden von der HOCHBAHN bei dem jeweiligen Gericht angefragt.
 

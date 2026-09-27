@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6271"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64495"
@@ -53,7 +54,7 @@ Welche Maßnahmen wurden mit den sieben Bezirken jeweils in den Arbeitsprogramme
 
 Wie hoch sind die jeweils geschätzten Baukosten für die im Arbeitsprogramm vereinbarten Maßnahmen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage.
 

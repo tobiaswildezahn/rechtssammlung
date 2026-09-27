@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10015"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60185"
@@ -135,7 +136,7 @@ Wie viele der vom DIE beziehungsweise der Staatsanwaltschaft gegen Polizeibedien
 
 Wie viele Strafverfahren gegen Polizeibedienstete wegen Strafvorwürfen im Zusammenhang mit dem G20-Gipfel und den Gipfelprotesten wurden bis zum 30.11.17 mit welchen Verfahrensausgängen geführt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Von diesen insgesamt 115 Verfahren wurden bislang vier gemäß § 170 Absatz 2 StPO eingestellt. Ansonsten erfolgten keine Erledigungen.
 

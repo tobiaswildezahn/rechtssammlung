@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51742"
@@ -81,7 +82,7 @@ Welche Regeln gelten für das Abhalten von Vertretungsunterricht? Wie stellt der
 
 Wie stellt die zuständige Behörde sicher, dass in jedem Fall die Schulen ihrer Aufsichtspflicht nachkommen und eine Lehrkraft die Schüler während der Unterrichtszeit beaufsichtigt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Verantwortlichkeit für die ordnungsgemäße Durchführung der Unterrichtsarbeit obliegt der Schulleiterin oder dem Schulleiter (§89 Absatz 1 Satz 1 Hamburgisches Schulgesetz, HmbSG). Sie schließt die Organisation des gesamten Vertretungsunterrichts ein. Die Lehrerkonferenz hat die Aufgabe, Grundsätze für Vertretungsregelungen zu erarbeiten (§ 57 Absatz 2 Nummer 2 HmbSG). Die Anforderungen an den Vertretungsunterricht sind in der Richtlinie zur Vermeidung von Unterrichtsausfall und zur Organisation von Vertretungsunterricht (vom 16. Dezember 1998, MBlSchul 1999 S.1) geregelt. Demnach soll Vertretungsunterricht in seiner Qualität und Zielsetzung dem regulären Fachunterricht entsprechen, muss sich aber nicht auf den jeweils aktuellen Stoff des zu vertretenden Fachunterrichts beziehen. Im Ausnahmefall kann der zu vertretende Unterricht auch in einem anderen Fach erteilt werden.
 

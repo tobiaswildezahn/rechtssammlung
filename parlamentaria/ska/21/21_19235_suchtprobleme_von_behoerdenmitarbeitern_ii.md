@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10735"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68965"
@@ -49,7 +50,7 @@ Welche Angebote für suchtgefährdete und/oder süchtige Mitarbeiter, die im Die
 
 Mit welchen personellen und finanziellen Mitteln sind die Angebote aus Frage 1. jeweils ausgestattet? Bitte nach Jahr gesondert darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 
@@ -61,7 +62,7 @@ Welche Fortbildungen zu dem Thema hat das Zentrum für Aus- und Fortbildung im A
 
 Wie viele Teilnehmer und jeweils welche Auslastung hatten die unter Frage 3. fallenden Fortbildungen jeweils? Bitte nach Jahr gesondert darstellen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Das ZAF bietet für alle Behörden und Ämter zahlreiche Veranstaltungen zum Thema „Gesundheit“ an, in denen neben anderen Inhalten auch Suchtgefahren behandelt werden. Darüber hinaus bieten einige Behörden dezentrale Fortbildungen spezifisch zum Thema Sucht an, die teilweise auch für andere Behörden geöffnet sind.
 

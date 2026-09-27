@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51672"
@@ -71,7 +72,7 @@ Erhalten die Flüchtlinge Aufklärung über das deutsche System der Abfalltrennu
 
 In welcher Form wird die Aufklärung durchgeführt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die SRH bietet in Abstimmung mit dem Betreiber vor Ort Informationsveranstaltungen zum Thema Mülltrennung an. Darüber hinaus stellt die SRH Informationsmaterial in
 

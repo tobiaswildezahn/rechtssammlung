@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67824"
@@ -55,7 +56,7 @@ In wie vielen Kitas wird vom definierten Mindestraumbedarf (innen) abgewichen?
 
 Haben diese Kitas eine durch das Landesjugendamt genehmigte Ausnahme von der Regelung? Wenn ja, aus welchen jeweiligen Gründen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die für Kindertagesbetreuung zuständige Behörde genehmigt grundsätzlich keine dauerhafte Abweichung der im Rahmen einer Betriebserlaubnis definierten pädagogisch nutzbaren Fläche einer Einrichtung. Ausschließlich in sehr speziellen Einzelfällen können temporäre Abweichungen auf Antrag genehmigt werden. Solche Einzelfälle können unter anderem die dringende Aufnahme eines Kindes aufgrund einer Gefährdungssituation im häuslichen Umfeld oder die temporäre Unbenutzbarkeit von einzelnen Kita-Räumen, zum Beispiel aufgrund eines Wasserschadens oder Ähnlichem, sein.
 
@@ -77,7 +78,7 @@ In wie vielen Kitas wird vom definierten Mindestaußengelände pro Kind abgewich
 
 Haben diese Kitas eine durch das Landesjugendamt genehmigte Ausnahme von der Regelung? Wenn ja, aus welchen jeweiligen Gründen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Daten über Kitas ohne ausreichend große Außenspielfläche werden statistisch nicht erfasst. Eine manuelle Auswertung der erteilten Betriebserlaubnisse nach einzelfallbezogenen Ausnahmegenehmigungen ist bei mehr als 1 000 Kitas in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

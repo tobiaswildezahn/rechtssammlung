@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51418"
@@ -49,7 +50,7 @@ Welche Mittel stehen jährlich für die Pflege des öffentlichen Grüns und der 
 
 Wie hoch sind Infrastrukturausgaben für den Stadtteil Allermöhe untergliedert nach a. Straßen und Verkehr, b. ÖPNV,
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -154,7 +155,7 @@ Wie hoch sind die Einbruchdiebstähle in Neuallermöhe? Bitte jährlich seit dem
 
 Wie ist die sonstige Entwicklung der Straftaten in Neuallermöhe? Bitte jährlich seit dem Jahr 2001 auflisten.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Anlage 2. Zu den dort enthaltenen Angaben folgende Erläuterungen:
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 20
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13930"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48564"
@@ -49,7 +50,7 @@ Welche Bundestagsgremien haben auf welcher Entscheidungsgrundlage über die Bere
 
 Wie lautet der Beschluss des Bundestages über die Bereitstellung der Mittel im Wortlaut und nach welchen Kriterien erfolgte die Beurteilung der „geschichtlichen Bedeutung“ durch den Bundestag?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Bund hat bei Erfüllung der zuwendungsrechtlichen Voraussetzungen (unter anderem einer Zusage Hamburgs über eine Komplementärfinanzierung und der Vorlage eines Anforderungsprofils für eine Minimal- und eine Maximallösung) die Förderung der Sanierung des Bismarck-Denkmals in Höhe von bis zu 6,5 Millionen Euro in Aussicht gestellt. Die entsprechenden Mittel wurden im Haushalt 2014 der Beauftragten der Bundesregierung für Kultur und Medien auf der Basis der Haushaltunterlage-Bau (Kostenberechnung) etatisiert. Die Bewilligung der Zuwendung ist noch nicht erfolgt.
 
@@ -154,7 +155,7 @@ befasst?
 Wenn ja, mit welchem Ergebnis?  
 Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Der Senat hat sich damit nicht befasst.
 

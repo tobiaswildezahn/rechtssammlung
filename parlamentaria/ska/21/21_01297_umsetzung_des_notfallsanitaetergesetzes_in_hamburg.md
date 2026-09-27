@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 23
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49517"
@@ -75,7 +76,7 @@ Wie viele staatliche Ergänzungsprüfungen wurden auf der Grundlage des NotSanG 
 
 Wie war die Entwicklung der Bestehensquote bei der Ergänzungsprüfung seit 2014 jeweils pro Lehrgang und wie groß waren jeweils die Lehrgänge?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Von 214 Teilnehmerinnen und Teilnehmern an Ergänzungsprüfungen haben 30 (= 14 Prozent) die Ergänzungsprüfung im Erstversuch nicht bestanden.
 
@@ -113,21 +114,21 @@ Wurden in Hamburg Anpassungen bezüglich der Ausbildung zum Notfallsanitäter vo
 
 Aufgrund der Neureglung der bundesgesetzlich geregelten Ausbildung waren vielfältige Anpassungen erforderlich. Diese betrafen unter anderem folgende Inhalte:
 
- Die Ausbildung dauert regulär drei Jahre.
+– Die Ausbildung dauert regulär drei Jahre.
 
- Die Zugangsvoraussetzung ist grundsätzlich der mittlere allgemeine Schulab-
+– Die Zugangsvoraussetzung ist grundsätzlich der mittlere allgemeine Schulab-
 
 schluss.
 
- Die praktische Ausbildung ist integriert.
+– Die praktische Ausbildung ist integriert.
 
- Es ist ein Ausbildungsvertrag mit Ausbildungsvergütung abzuschließen.
+– Es ist ein Ausbildungsvertrag mit Ausbildungsvergütung abzuschließen.
 
- Die Ausbildungsinhalte sind komplexer.
+– Die Ausbildungsinhalte sind komplexer.
 
- Es sind verbindlich Praxisanleiterinnen oder Praxisanleiter einzusetzen.
+– Es sind verbindlich Praxisanleiterinnen oder Praxisanleiter einzusetzen.
 
- Die Anforderungen an die Qualifikation der Lehrkräfte (abgeschlossene Hoch-
+– Die Anforderungen an die Qualifikation der Lehrkräfte (abgeschlossene Hoch-
 
 schulausbildung) sind bundesrechtlich definiert.
 

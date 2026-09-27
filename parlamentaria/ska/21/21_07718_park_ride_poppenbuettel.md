@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5888"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56348"
@@ -94,6 +95,6 @@ Wie oft gab es in den letzten sechs Monaten vor Einführung der Gebührenpflicht
 
 Wie oft gab es in den ersten sechs Monaten nach Einführung der Gebührenpflicht Beschwerden von Anwohnern über zugeparkte Straßen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Polizei liegen sowohl für den Zeitraum der letzten sechs Monate vor Einführung der Gebührenpflicht zum 1. Oktober 2016 als auch für den Zeitraum seit Einführung der Gebührenpflicht keine Beschwerden vor.

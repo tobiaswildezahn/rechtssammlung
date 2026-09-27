@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11189", "21/12350", "21/12726", "21/14498"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64322"
@@ -43,7 +44,7 @@ Ist die Wiederaufforstungsanordnung vom 28.02.2018 inzwischen rechtsgültig? Wen
 
 Liegt eine Klage beim Verwaltungsgericht gegen die Wiederaufforstungsanordnung vor?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Wiederaufforstungsanordnung ist nicht bestandskräftig. Mit Datum vom 22. Oktober 2018 ist eine Klage beim Verwaltungsgericht gegen die Wiederaufforstungsanordnung anhängig.
 

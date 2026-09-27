@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 18
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5860", "21/13679", "21/14468", "21/17963"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68097"
@@ -138,15 +139,15 @@ Der Träger passage gGmbH bietet eine sechsmonatige Berufsvorbereitung zur Sozia
 
 Das Angebot umfasst eine individuelle Maßnahmelaufzeit von sechs Monaten. Die Inhalte richten sich nach den Lehrinhalten des ersten Halbjahres der vollqualifizierenden Berufsfachschule für Sozialpädagogische Assistenz mit einem expliziten Schwerpunkt auf die Sprachförderung. Den Teilnehmerinnen und Teilnehmer werden auch Lernstrategien und -methoden vermittelt, die ihnen helfen, die schulischen Anforderungen zu antizipieren. Folgende Themen und Inhalte werden behandelt:
 
- Sozialpädagogisches Handeln
+– Sozialpädagogisches Handeln
 
- Entwicklung und Bildung
+– Entwicklung und Bildung
 
- Sprache und Kommunikation
+– Sprache und Kommunikation
 
- Mathematik
+– Mathematik
 
- Englisch
+– Englisch
 
 Außerdem absolvieren alle Teilnehmerinnen und Teilnehmer zwei begleitete sowie vor- und nachbereitete Praktika in einer Kita.
 

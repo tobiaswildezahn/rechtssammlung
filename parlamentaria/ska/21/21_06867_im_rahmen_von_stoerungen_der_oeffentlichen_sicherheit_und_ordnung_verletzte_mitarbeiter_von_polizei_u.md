@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10508"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55450"
@@ -90,10 +91,10 @@ Siehe Drs. 20/10508.
 
 Darüber hinaus haben sich seitdem folgende Verbesserungen ergeben:
 
- Der Senat hat beschlossen, den § 83 des Hamburgischen Beamtengesetzes
+– Der Senat hat beschlossen, den § 83 des Hamburgischen Beamtengesetzes
 
 (HmbBG) dahin gehend zu erweitern, sodass die Durchsetzung von privaten Schmerzensgeldansprüchen zukünftig dadurch vereinfacht wird, dass die Dienststelle diese unter bestimmten Voraussetzungen verauslagt und die Eintreibung übernimmt.
 
- Im Rahmen der Laufbahnausbildung für Feuerwehrbeamte sowie im Zuge der
+– Im Rahmen der Laufbahnausbildung für Feuerwehrbeamte sowie im Zuge der
 
 Notfallsanitäterausbildung sind Gewaltprävention und Deeskalation Gegenstände des Curriculum. Ziel der Schulungen ist es, den Mitarbeiterinnen und Mitarbeitern im Rahmen der Fürsorgeverpflichtung des Dienstherrn ein hohes Maß an Handlungssicherheit zur Bewältigung entsprechender Situationen im Einsatzgeschehen zu vermitteln.

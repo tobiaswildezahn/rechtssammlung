@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1798", "21/1970"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50901"
@@ -65,7 +66,7 @@ Welche Flächen wurden als mögliche Ausgleichsflächen wann, von welcher Stelle
 
 Wer hat die unter 3. aufgeführte Ausarbeitung wann mit welchem Ergebnis überprüft? Falls niemand, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Da vorrangig eine Ersatzfläche für den Wald zu suchen war, wurden in Hamburg und im weiteren Umkreis 15 potenziell geeignete Flächen betrachtet (siehe Anlage). Lediglich die Flächen im Bereich Alt-Erfrade waren verfügbar. Bei allen anderen war ausschlaggebend, dass sie Privatgrund oder dauerhaft verpachtet oder anderweitig disponiert oder nicht für eine Aufwaldung geeignet waren (zum Beispiel Niederungsflächen).
 

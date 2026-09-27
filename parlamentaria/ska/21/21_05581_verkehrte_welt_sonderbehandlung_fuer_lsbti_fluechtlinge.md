@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4174", "21/3649", "21/2912", "21/3166", "21/3200"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54076"
@@ -99,7 +100,7 @@ Welchen Anteil haben die „LSBTI-Geflüchteten“ gegenwärtig an der Gesamtzah
 
 Wie groß fällt der Vergleichswert in Hinblick auf Personen aus, die zur Gruppe der religiösen Minderheiten gehören, nachweislich also keine sunnitischen Muslime sind? Bitte ebenfalls mittels absoluter wie prozentueller Angaben nennen.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Hierüber liegen keine Erkenntnisse vor, da die entsprechenden Daten statistisch nicht erfasst werden (siehe Drs. 21/2912 und Drs. 21/3649).
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5046"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53780"
@@ -43,11 +44,11 @@ Wie haben sich die Gebühren für die theoretische und die praktische Führersch
 
 Zur Entwicklung der entsprechenden Gebühren für die theoretische und praktische Prüfung von Fahrerlaubnisbewerbern in den letzten zehn Jahren wird auf die beigefügten jeweiligen Auszüge (Quelle: juris) des 3. Abschnitts (Gebührennummern 401 bis 402.9) der Anlage zu § 1 der Gebührenordnung für Maßnahmen im Straßenverkehr (GebOSt) verwiesen:
 
- für die Zeit vom 01.07.2006 bis zum 12.02.2008 (Anlage 1),
+– für die Zeit vom 01.07.2006 bis zum 12.02.2008 (Anlage 1),
 
- für die Zeit vom 13.02.2008 bis zum 18.01.2013 (Anlage 2) und
+– für die Zeit vom 13.02.2008 bis zum 18.01.2013 (Anlage 2) und
 
- für die Zeit ab 19.01.2013 (Anlage 3).
+– für die Zeit ab 19.01.2013 (Anlage 3).
 
 ### Frage 2
 

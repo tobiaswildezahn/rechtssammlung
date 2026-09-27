@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11532", "21/11217"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61122"
@@ -98,6 +99,6 @@ Wie viele Straftäter wurden im Jahr 2017 wegen Straftaten, die sich gegen Feuer
 
 Wie viele Strafverfahren sind zum gegenwärtigen Zeitpunkt noch nicht abgeschlossen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Ob ein Verfahren eine Straftat zum Nachteil von Mitarbeiterinnen und Mitarbeitern der Feuerwehr oder anderer Rettungsdienste zum Gegenstand hat, wird im Vorgangsverwaltungs- und -bearbeitungssystem MESTA der Staatsanwaltschaft nicht gespeichert. Im Übrigen siehe Drs. 21/11217.

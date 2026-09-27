@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68341"
@@ -63,7 +64,7 @@ Wie sollen die weiteren für den Großflughafen vorgesehenen (Teil-) Flächen ge
 
 Für welche sonstigen Zwecke wurden die vorhanden Flächen in den vergangenen Jahren genutzt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Flächen werden wirtschaftlich sinnvoll und entsprechend der in Regional- und Flächennutzungsplänen ausgewiesenen Nutzungen bewirtschaftet. Wobei der Flächenstatus (Zustand) erhalten bleiben soll:
 

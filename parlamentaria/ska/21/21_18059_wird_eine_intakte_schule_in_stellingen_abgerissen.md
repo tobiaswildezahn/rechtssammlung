@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67675"
@@ -55,7 +56,7 @@ Welche künftige Nutzung für das Schulgebäude am Sportplatzring ist nach der e
 
 Wenn ein Abriss des intakten Schulgebäudes geplant ist: Warum wird das Schulgebäude nicht weiter als solches genutzt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für den Bereich wurde der Bebauungsplan Stellingen 62 aufgestellt und beschlossen. Dieser Bebauungsplan wurde am 07.09.2017 festgestellt. Für die Fläche der Schulgebäude am Sportplatzring weist dieser Bebauungsplan allgemeines Wohngebiet aus. Die Fläche ist für Wohnungsbau der Saga vorgesehen. Für einen Teilbereich (Baufeld A) wurden 55 Wohneinheiten genehmigt. Im Übrigen siehe Vorbemerkung.
 

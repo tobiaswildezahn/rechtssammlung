@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65905"
@@ -97,7 +98,7 @@ Wie viele weitere Terroristen befinden sich derzeit in Hamburg in Haft, deren Ve
 
 Wie hoch ist das den Behörden bekannte und eingefrorene Vermögen jeweils und was geschieht mit diesem?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Keine.
 

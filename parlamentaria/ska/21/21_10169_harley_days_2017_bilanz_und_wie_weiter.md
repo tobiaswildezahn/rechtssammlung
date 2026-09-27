@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59001"
@@ -43,7 +44,7 @@ Bis wann genau sind die Harley Days in Hamburg genehmigt und wann werden Gesprä
 
 Wer führt diese Gespräche?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Großmarkt Obst, Gemüse und Blumen hat Flächen für die Harley Days vertraglich bis einschließlich des Jahres 2020 zur Verfügung gestellt, ist jedoch nicht Genehmigungsbehörde. Genehmigungen zur Nutzung des öffentlichen Raums werden anlassbezogen erteilt, und nicht über mehrere Jahre hinweg. Gespräche über eine mögliche Vertragsverlängerung am Großmarkt wurden bisher nicht geführt.
 
@@ -97,7 +98,7 @@ Gab es Lärm- beziehungsweise Schadstoffmessungen im Rahmen der Parade der Harle
 
 Gab es Lärm- und Emissionsauflagen für die Parade der Harley Days? a. Wenn ja, welche waren dies? b. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Grundsätzlich sind die allgemeinen rechtlichen Vorgaben zu beachten. Lärmmessungen sind nicht erfolgt und nicht sachgerecht, da es keine gesetzlichen Lärmgrenzwerte gibt. Im Übrigen wird die gemäß den Vorgaben der 39. Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes Verordnung über Luftqualitätsstandards und Emissionshöchstmengen (BImSchV) zu ermittelnde Luftqualität in Hamburg an den Messstationen des Hamburger Luftmessnetzes (HaLM) kontinuierlich gemessen. Die Standorte der Messeinrichtungen und Ergebnisse dieser Messungen sind online abrufbar unter luft.hamburg.de/.
 

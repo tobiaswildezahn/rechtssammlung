@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48458"
@@ -43,7 +44,7 @@ Inwiefern gab es in den vergangenen zwölf Monaten Suizide oder Suizidversuche v
 
 Welche Maßnahmen wurden getroffen, um die betroffenen Flüchtlinge in solchen Krisen psychologisch zu stabilisieren? Bitte aufschlüsseln nach Monat und Unterbringung.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bislang waren in den Einrichtungen der Hamburger Erstaufnahme keine Suizide festzustellen. Angaben zu Suizidversuchen beziehungsweise zu Vorfällen, bei denen es sich um einen Suizidversuch gehandelt haben könnte, sind der folgenden Übersicht zu entnehmen:
 

@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12137"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61401"
@@ -47,6 +48,6 @@ Wie viele öffentlich betriebene Kantinen (zum Beispiel in Orts- oder Bezirksäm
 
 Wie viele solcher Kantinen wurden im Jahr 2016 geschlossen oder haben ihr Essensangebot so stark verändert, dass dort nicht mehr regelmäßig und überwiegend deutsche und Hamburger Gerichte zubereitet werden? Bitte die Gründe für die Schließungen oder für die Veränderung des Essensangebotes umfassend erläutern.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/12137.

@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 28
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11513", "20/12754"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49367"
@@ -87,7 +88,7 @@ Was war der Grund für die Probleme der Kundenzentren am Dienstag, den 28.7.15?
 
 Warum wurde die Bevölkerung nicht auf den zur Verfügung stehenden Kommunikationskanälen auf den Umstand der an diesem Tag geschlossenen Kundenzentren aufmerksam gemacht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antwort 5. Der Dienstbetrieb in den Kundenzentren war am 28. Juli 2015 nur zeitweise möglich. Nach Informationen des Verfahrensbetreibers Dataport wurde davon ausgegangen, dass die Störung noch am 28. Juli 2015 zeitnah behoben werden könne.
 
@@ -187,7 +188,7 @@ Welche anderen Behörden und Ämter haben ebenfalls Zugriff auf das IT- Verfahre
 
 Mussten auch andere Behörden wegen des Ausfalls den Betrieb einstellen? Wenn ja, wie oft?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Ja. Das Referat für Pass-, Ausweis-, Namens- und Beglaubigungsangelegenheiten im Einwohnerzentralamt der Behörde für Inneres und Sport vom 27. bis zum 30. Juli 2015.
 

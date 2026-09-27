@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59184"
@@ -45,7 +46,7 @@ Wann wird die fachliche Prüfung und abschließende Bewertung des Gutachtens dur
 
 Wann wird das Gutachten den Bezirken und den bezirklichen Seniorenbeiräten vorgestellt? Wird dieses ergebnisoffen noch vor einer Festlegung (Senatsbeschluss) durch den Senat beziehungsweise die zuständige Behörde erfolgen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Gutachten wird mit ausreichendem zeitlichem Vorlauf vor der Senatsbefassung im 4. Quartal 2017 veröffentlicht. Bezirksämter und Seniorenbeiräte können sich durch die Veröffentlichung mit dem Gutachten befassen.
 

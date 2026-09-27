@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 19
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2479", "21/2148", "21/2315"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50762"
@@ -45,21 +46,21 @@ Welche Aufgaben hat der Zentrale Koordinierungsstab? Bitte dezidiert darstellen.
 
 Zentrale Aufgabe des Koordinierungsstabes ist es, die erforderlichen Unterbringungskapazitäten zeitgerecht zur Verfügung zu stellen, um die Obdachlosigkeit von Flüchtlingen zu vermeiden. Der Koordinierungsstab nimmt insbesondere folgende Aufgaben wahr:
 
- Beschaffung von Flächen und Objekten für Erstaufnahme- und Folgeeinrichtungen,
+– Beschaffung von Flächen und Objekten für Erstaufnahme- und Folgeeinrichtungen,
 
- Erweiterung und Ausbau von Erst- und Folgeeinrichtungen,
+– Erweiterung und Ausbau von Erst- und Folgeeinrichtungen,
 
- Schaffung von Notunterkünften zur kurzfristigen Abwendung von Obdachlosigkeit,
+– Schaffung von Notunterkünften zur kurzfristigen Abwendung von Obdachlosigkeit,
 
- operative Koordinierung der ehrenamtlichen Aktivitäten, die im Zusammenhang mit
+– operative Koordinierung der ehrenamtlichen Aktivitäten, die im Zusammenhang mit
 
 dem Betrieb von Erst- und Folgeeinrichtungen stehen,
 
- Themen- und Aufgabenkoordinierung für Querschnittsthemen wie Gesundheit,
+– Themen- und Aufgabenkoordinierung für Querschnittsthemen wie Gesundheit,
 
 Arbeit und Ausbildung, Kita und Schule, soweit sie die Integration von Flüchtlingen betreffen,
 
- Presse- und Öffentlichkeitsarbeit.
+– Presse- und Öffentlichkeitsarbeit.
 
 ### Frage 2
 
@@ -77,7 +78,7 @@ Die Ziele sind bislang lediglich sehr allgemein beschrieben worden. Zur Akzeptan
 
 Wie soll verhindert werden, dass die bestehenden Reibungsverluste durch den Zentralen Koordinierungsstab noch verstärkt werden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Zustrom von Flüchtlingen hält unverändert an: Im November 2015 sind erneut
 9.588 neue Flüchtlinge zu verzeichnen gewesen, davon sind 4.065 Personen der Stadt auch längerfristig zur Unterbringung zugewiesen. Damit sind im Jahr 2015 bisher insgesamt 55.046 Schutz Suchende (vor Verteilung) in Hamburg eingetroffen, von denen Hamburg 20.131 Personen aufgenommen hat. Zum 31. Dezember 2015 werden nach aktuellem Stand rund 39.500 Plätze in der Zentralen Erstaufnahme (ZEA) und der öffentlichen Unterbringung (örU) geschaffen sein, sodass im Jahr 2016 rund

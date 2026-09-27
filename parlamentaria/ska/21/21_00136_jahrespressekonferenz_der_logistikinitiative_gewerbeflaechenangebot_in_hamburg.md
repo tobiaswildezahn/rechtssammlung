@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5550"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48274"
@@ -41,15 +42,15 @@ Vor diesem Hintergrund frage ich den Senat:
 
 Als Quelle für die genannten Daten dient die bei der Behörde für Stadtentwicklung und Umwelt geführte Datenbank, die nach folgenden Kriterien die gewerblichen Flächenpotenziale außerhalb des Hafengebietes erfasst:
 
- Gewerbliche Bauflächen des Flächennutzungsplans
+– Gewerbliche Bauflächen des Flächennutzungsplans
 
- GI-, GE-und Industriegebietsflächen nach Baustufenplan
+– GI-, GE-und Industriegebietsflächen nach Baustufenplan
 
- GI- und GE-Flächen, für die ein B-Plan im Verfahren ist
+– GI- und GE-Flächen, für die ein B-Plan im Verfahren ist
 
- Flächen, die einvernehmlich für eine gewerbliche Nutzung entwickelt werden sollen
+– Flächen, die einvernehmlich für eine gewerbliche Nutzung entwickelt werden sollen
 
- Bereits genutzte Gewerbeflächen, für die eine intensivere Nutzung angestrebt wird
+– Bereits genutzte Gewerbeflächen, für die eine intensivere Nutzung angestrebt wird
 
 oder die kurz- bis langfristig vermietet sind
 
@@ -131,23 +132,23 @@ Hinsichtlich der städtischen Flächenvorsorge für die Wirtschaftsförderung is
 
 In Ergänzung hierzu sieht die zuständige Behörde derzeit konkret die folgenden Maßnahmen zur Stärkung des Gewerbeflächenangebotes vor:
 
- Errichtung von Gewerbehöfen: Der erste Gewerbehof, die „Meistermeile“, wird am
+– Errichtung von Gewerbehöfen: Der erste Gewerbehof, die „Meistermeile“, wird am
 
 Offakamp in Hamburg Eimsbüttel entstehen. Gewerbehöfe sind Standorte für Handwerk und Kleingewerbe.
 
- Entwicklung des Billebogens und der Flächen des ehemaligen Huckepackbahn-
+– Entwicklung des Billebogens und der Flächen des ehemaligen Huckepackbahn-
 
 hofs Rothenburgsort insbesondere für wissensorientiertes Gewerbe, Handwerk und Kleingewerbe.
 
- Entwicklung von F&I-Parks in Altona, Harburg und Bergedorf für wissensorientier-
+– Entwicklung von F&I-Parks in Altona, Harburg und Bergedorf für wissensorientier-
 
 tes Gewerbe.
 
- Revitalisierung und Modernisierung des Industriegebietes Billbrook/Rothenburgsort
+– Revitalisierung und Modernisierung des Industriegebietes Billbrook/Rothenburgsort
 
 zur qualitativen Aufwertung dieser innerstädtischen Flächen insbesondere für Produktions- und Logistikunternehmen.
 
- Entwicklung eines Industriegebietes im B-Planbereich Neuland 23 und von Gewer-
+– Entwicklung eines Industriegebietes im B-Planbereich Neuland 23 und von Gewer-
 
 beflächen im B-Planbereich Bergedorf 99 (südlich Brookdeich, nach erfolgter Umsiedlung der zierlichen Tellerschnecke) für Produktions- und Logistikunternehmen.
 

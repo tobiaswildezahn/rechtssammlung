@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 22
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51882"
@@ -85,7 +86,7 @@ Wie viele Beamtinnen und Beamte der Polizei Hamburg, anderer Bundesländer und d
 
 Inwiefern und in welcher Anzahl waren Zivilbeamte/-innen beteiligt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Es wurden 23 Beamte der Polizei Hamburg eingesetzt. Beamte anderer Länder oder der Bundespolizei wurden nicht eingesetzt. Darüber hinaus berührt die Fragestellung die Einsatztaktik der Polizei, zu der der Senat grundsätzlich keine Angaben macht; im Übrigen siehe Vorbemerkung.
 
@@ -137,7 +138,7 @@ Ist die Polizei durch eine Privatperson an den Einsatzort gerufen worden?
 
 Wurde im Zuge des Einsatzes, der Polizei das Hausrecht übertragen? Wenn ja, durch wen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Nein.
 

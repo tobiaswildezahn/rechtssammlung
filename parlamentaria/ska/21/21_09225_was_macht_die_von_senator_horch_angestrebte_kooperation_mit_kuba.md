@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57980"
@@ -67,7 +68,7 @@ Wie ist der aktuelle Stand der Gespräche mit der kubanischen Seite? Wo liegen d
 
 Welche deutschen beziehungsweise Hamburger Projekte sind aktuell in der kubanischen „Sonderwirtschaftszone Mariel“ angesiedelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

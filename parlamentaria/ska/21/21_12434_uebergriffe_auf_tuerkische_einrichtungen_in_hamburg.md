@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3165", "21/12433"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61727"
@@ -61,11 +62,11 @@ In wie vielen Fällen konnten keine Täter ermittelt werden?
 
 Die erfragten Sachverhalte werden in den polizeilichen Statistiken nicht erfasst und sind entsprechend nicht elektronisch auszuwerten. Eine Schlagwortrecherche im Kriminalpolizeilichen Meldedienst (KPMD-PMK) mit nachfolgender Überprüfung und Einzelauswertung ermittelter Vorgänge für den erfragten Zeitraum ist aufwändig. Angesichts der für die Beantwortung dieser Schriftlichen Kleinen Anfrage zur Verfügung stehenden, feiertagsbedingt verkürzten Zeit, wird daher nachfolgend das Ergebnis einer Stichprobenauswertung für die Jahre 2017 und 2018 genannt; die Angaben für 2018 sind vorläufig.
 
- Für 2017 wurde jeweils eine Sachbeschädigung durch Steinwürfe zum Nachteil
+– Für 2017 wurde jeweils eine Sachbeschädigung durch Steinwürfe zum Nachteil
 
 eines türkischen Kulturvereins und eines Gebäudes der apoistischen Jugendinitiative registriert, in einem weiteren Fall meldete das türkische Generalkonsulat den Erhalt eines Briefes mit verdächtigem Pulverinhalt.
 
- Für 2018 wurden zwei Sachbeschädigungen durch Steinwürfe zum Nachteil eines
+– Für 2018 wurden zwei Sachbeschädigungen durch Steinwürfe zum Nachteil eines
 
 türkischen Restaurants, eine Sachbeschädigung durch Steinwürfe zum Nachteil eines türkischen Kulturvereins sowie ein Landfriedensbruch zum Nachteil des türkischen Generalkonsulats registriert.
 
@@ -79,7 +80,7 @@ In wie vielen Fällen hat es laut Kenntnis des Senats Drohungen gegen türkische
 
 Wie viele Fälle sind dem Senat bekannt, bei denen es zu öffentlichen Aufrufen zu Gewalt gegen türkische Einrichtungen gekommen ist? Bitte die zugrunde liegenden Fälle jeweils einzeln beschreiben.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die erfragten Sachverhalte werden in polizeilichen Statistiken nicht gesondert erfasst und sind entsprechend nicht elektronisch auszuwerten. Eine Schlagwortrecherche im KPMD-PMK zu einschlägigen Straftatbeständen (zum Beispiel Bedrohung gemäß § 241 Strafgesetzbuch (StGB) und Öffentliche Aufforderung zu Straftaten gemäß § 111 StGB) mit nachfolgender Überprüfung und Einzelauswertung ermittelter Vorgänge für den erfragten Zeitraum ist aufwändig und ist angesichts der für die Beantwortung dieser Schriftlichen Kleinen Anfrage zur Verfügung stehenden, feiertagsbedingt verkürzten Zeit vorliegend nicht möglich.
 
@@ -91,7 +92,7 @@ Wie schätzt der Senat die Bedrohungslage türkischer Einrichtungen in Hamburg g
 
 Wie hat sich die Bedrohungslage türkischer Einrichtungen nach Einschätzung des Senats seit dem 1. Januar 2015 bis heute verändert?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Gemäß § 4 Hamburgisches Verfassungsschutzgesetz beobachtet das Landesamt für Verfassungsschutz (LfV) Hamburg Bestrebungen, die gegen die freiheitliche demokratische Grundordnung gerichtet sind. Einrichtungen im Sinne der Fragestellung stehen seit Längerem im Fokus extremistischer Gruppierungen, insbesondere aus dem Bereich kurdischer Jugendlicher/Heranwachsender. Im Zusammenhang mit rechtsextremistischen Straftaten der Themenfelder Fremden- und Islamfeindlichkeit besteht generell eine anhaltende, abstrakte Bedrohungslage auch für türkische Einrichtungen.
 

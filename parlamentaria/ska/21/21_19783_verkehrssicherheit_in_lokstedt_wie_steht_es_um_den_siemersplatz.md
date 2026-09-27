@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15572"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69531"
@@ -65,7 +66,7 @@ Wie viele Unfälle am Siemersplatz wurden seit 2013 registriert, an denen Fußg�
 
 Wie viele dieser Unfälle wurden im Zeitraum von 2007 bis 2012 am Siemersplatz registriert? Bitte nach Jahren getrennt aufschlüsseln.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Verkehrsunfalldaten für den Siemersplatz sind durch Abfragen in der Unfalldatenbank Elektronische Unfalltypensteckkarte (EUSka) ermittelt worden. Die Angaben sind einem Datenexport vom 21. Januar 2020 entnommen. Für das Jahr 2019 liegen Daten bis einschließlich November vor. Diese Daten sind vorläufig. Angaben zu den Verkehrsbeteiligungen enthalten stets alle am Unfall aktiv beteiligten Verkehrsteilnehmerinnen und Verkehrsteilnehmer.
 

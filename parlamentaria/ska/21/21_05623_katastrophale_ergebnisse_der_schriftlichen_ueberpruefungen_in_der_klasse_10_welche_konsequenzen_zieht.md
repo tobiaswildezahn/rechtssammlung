@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5180", "21/1001", "21/4088", "21/965"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54116"

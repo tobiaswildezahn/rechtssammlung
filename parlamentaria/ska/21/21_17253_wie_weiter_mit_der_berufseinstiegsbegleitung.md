@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 33
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/9072", "21/16988", "19/9679", "21/17212"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66830"
@@ -117,13 +118,13 @@ In der Antwort auf die Anfrage der Bundestagsfraktion DIE LINKE werden in der Ta
 
 Es nehmen insgesamt 35 Schulen an der Maßnahme Berufseinstiegsbegleitung teil:
 
- 33 staatliche Stadtteilschulen,
+– 33 staatliche Stadtteilschulen,
 
- ein Regionales Bildungs- und Beratungszentrum, an dem können Schülerinnen
+– ein Regionales Bildungs- und Beratungszentrum, an dem können Schülerinnen
 
 und Schüler wie in einer Stadtteilschule den ersten allgemeinbildenden Schulabschluss (ESA) und den mittleren allgemeinbildenden Schulabschluss (MSA) nach der Jahrgangsstufe 9 beziehungsweise 10 erreichen und
 
- die Wichern-Schule als Norddeutschlands größte Schule in freier Trägerschaft, die
+– die Wichern-Schule als Norddeutschlands größte Schule in freier Trägerschaft, die
 
 mit ihrer Stadtteilschule an dem Programm Berufseinstiegsbegleitung teilnimmt.
 
@@ -181,7 +182,7 @@ Wie hoch ist die Vermittlungsquote der beteiligten Schulen in Ausbildung? Bitte 
 
 Wie ist der Verbleib der teilnehmenden Schüler/-innen Stand Januar 2019? Bitte tabellarisch darstellen nach den Kategorien: Ausbildung schulisch/betrieblich, Berufsqualifizierung, Produktionsschulen, Berufsvorbereitung/Ausbildungsvorbereitung und sonstiger Verbleib unter Angabe der absoluten Zahl und dem prozentualen Anteil der Teilnehmer/-innen.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Daten zur Kohorte, die am 1. September 2015 begonnen und am 31. Juli 2019 endet, sind der nachfolgenden Übersicht zu entnehmen. Eine schulgenaue Auswertung wird durch die Agentur nicht vorgenommen. Die Verbleibenskategorien werden bundesweit einheitlich erfasst und damit Verbleibe in lokale Programme wie zum Beispiel Berufsqualifizierung (BQ) nicht gesondert erfasst, sondern unter der Kategorie „schulische Berufsausbildung“ gefasst.
 
@@ -217,7 +218,7 @@ Was wären aus Sicht der Fachbehörde beziehungsweise des Senates die Folgen ein
 
 Gibt es andere Vorstellungen des Senates beziehungsweise der Fachbehörde, die Förderung der betroffenen Schüler/-innen weiterzuführen (zum Beispiel durch den Ausbau der Schulsozialarbeit)?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die für Bildung zuständige Behörde arbeitet im Fachkräftenetzwerk vertrauensvoll mit den Partnern der beruflichen Bildung an einer kontinuierlichen Verbesserung der Fachkräftesituation in Hamburg zusammen. In den Gremien des Fachkräftenetzwerks, in die auch die Jugendberufsagentur (JBA) eingebunden ist, stimmen sich die Hamburger Fachbehörden und Bezirke, die Agentur, das Jobcenter team.arbeit.hamburg, die Handels- und die Handwerkskammer, der Unternehmensverband Nord und der Deutsche Gewerkschaftsbund eng über die Berufsvorbereitung von Jugendlichen sowie die Möglichkeiten ab, noch mehr junge Menschen für eine Ausbildung zu motivieren und sie auf diesem Weg zu begleiten. Mit der Gründung der Jugendberufsagentur wurde in Hamburg ein umfassendes Übergangsmanagement angestrebt. Im Zuge dessen werden alljährlich die Verbleibe der Schulabgängerinnen und Schulabgänger aus Klasse 10 der allgemeinbildenden Schulen erfasst, um gezielt dort Unterstützung anbieten zu können, wo sie benötigt wird. Durch den Aufbau einer Förderung über alle Rechtskreise hinweg (mit Beruflicher Orientierung, Unterstützung der betrieblichen Ausbildung, Ausbildungsvorbereitung, Berufsqualifizierung und geförderter Ausbildung) gelingt es insgesamt, Förderlücken in den Regelsystemen zu schließen Somit gelingt immer mehr Hamburger Schulabgängerinnen und Schulabgängern nach Jahrgangsstufe 10 oder im Anschluss an die Ausbildungsvorbereitung AvDual und AvM-Dual der Einstieg ins Berufsleben (siehe Drs. 21/17212). Im Übrigen siehe Vorbemerkung.
 
@@ -247,7 +248,7 @@ Sind vermeintlich fehlende Haushaltsmittel der Grund für den Hamburger Senat, d
 
 Geht der Senat beziehungsweise die Fachbehörde von einem nahtlosen Übergang der Förderung aus? Wenn nein, wie groß ist die entstehende Förderlücke und welche Konsequenzen ergeben sich aus Sicht des Senates?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Siehe Vorbemerkung.
 
@@ -267,7 +268,7 @@ Was wären die Folgen eines nicht nahtlosen Übergangs? Bitte Folgen für den Tr
 
 Wird es ein neues Ausschreibungsverfahren für die Trägerschaft geben? Wenn ja, in welchen Zeiträumen plant der Hamburger Senat beziehungsweise die Fachbehörde dieses?
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Siehe Antworten zu 10. und 11. sowie zu 16.
 

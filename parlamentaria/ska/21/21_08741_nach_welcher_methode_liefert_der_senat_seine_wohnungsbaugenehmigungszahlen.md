@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/2002", "20/2891", "20/11209", "21/3865", "20/13956"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57476"
@@ -43,7 +44,7 @@ Aus welchen Gründen hat der Senat im Jahre 2011 ein eigenes Berichtswesen bezü
 
 Aus welchen Gründen greift der Senat bei der Veröffentlichung der Baugenehmigungszahlen nicht auf die Zahlen des Statistikamtes Nord zurück?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 20/2002 und Drs. 20/2891.
 

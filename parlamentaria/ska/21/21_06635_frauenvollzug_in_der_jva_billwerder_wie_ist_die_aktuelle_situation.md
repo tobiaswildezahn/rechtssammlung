@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 20
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2692", "21/4623", "21/4257", "21/5780"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55295"
@@ -49,11 +50,11 @@ Wie oft haben weibliche und männliche Inhaftierte in der JVA Billwerder seit M�
 
 Sichtkontakte sind möglich. Die Anzahl wird nicht erhoben. Seit Eröffnung der TAF in der JVA Billwerder ist es zu zwei direkten Zusammentreffen gekommen:
 
- Aufgrund einer Baustelle im Bereich der Ambulanz kam es bei der Rückführung
+– Aufgrund einer Baustelle im Bereich der Ambulanz kam es bei der Rückführung
 
 von fünf weiblichen Gefangenen von der Ambulanzvorstellung zu einem ungewollten Zusammentreffen mit einem männlichen Gefangenen. Dieser beleidigte eine der Gefangenen. Gegen den Gefangenen wurde ein Disziplinarverfahren eingeleitet und der Vorgang wurde an die Staatsanwaltschaft abgegeben.
 
- In dem zweiten Fall hat ein männlicher Gefangener auf dem Freistundengelände
+– In dem zweiten Fall hat ein männlicher Gefangener auf dem Freistundengelände
 
 einvernehmlich Kontakt zu seiner parallel in Untersuchungshaft untergebrachten Partnerin aufgenommen, die nach der Teilnehme an einem Sportangebot zurückgeführt wurde und ihm entgegenkam. Gegen beide wurde ein Disziplinarverfahren eingeleitet.
 
@@ -65,15 +66,15 @@ Wie viele und welche Räumlichkeiten in der JVA Billwerder werden aktuell nur vo
 
 Zu Anzahl und Art der Räumlichkeiten siehe Drs. 21/2692. Zu den Nutzungszeiten siehe Drs. 21/4623 mit den nachfolgend bezeichneten Änderungen:
 
- Besuchsraum:
+– Besuchsraum:
 
 In ungeraden Kalenderwochen findet der Besuch für männliche Gefangene Montag und Dienstag von 8.30 bis 9.30, 10.30 bis 11.30 und 17 bis 18 Uhr statt. Am Donnerstag von 8.30 bis 9.30, 15 bis 16 und 17 bis 18 Uhr sowie am Freitag zusätzlich auch von 10.30 bis 11.30 Uhr. Am Sonnabend sind Besuchszeiten in dieser Räumlichkeit für männliche Gefangene von 9 bis 10 und 11 bis 12 Uhr und am Sonntag von 11 bis 12, 14 bis 15 und 16 bis 17 Uhr vorgesehen.
 
- Kirche:
+– Kirche:
 
 Ein Gottesdienst ausschließlich für weibliche Gefangene findet jeweils im Wechsel für Untersuchungs- und Strafgefangene alle 14 Tage am Sonntag von 16 bis 17 Uhr in der Kirche der JVA Billwerder statt. Darüber hinaus finden regelmäßige Gottesdienste im Hafthaus der TAF statt.
 
- Sporthalle:
+– Sporthalle:
 
 Für den Frauenvollzug sind die Nutzungszeiten jeweils mittwochs von 15 bis
 16.30 Uhr (U-Haft) und am Sonntag von 13 bis 14.30 (Strafhaft) verbindlich vorgesehen.
@@ -94,7 +95,7 @@ Wie viele Inhaftierte, die wegen Straftaten gegen die sexuelle Selbstbestimmung 
 
 Wie viele Inhaftierte, die wegen Straftaten gegen die sexuelle Selbstbestimmung verurteilt wurden beziehungsweise sich wegen eines derartigen Tatvorwurfs in der Untersuchungshaft befanden, wurden seit dem Umzug der Teilanstalt für Frauen aus der JVA Billwerder nicht verlegt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Keine.
 

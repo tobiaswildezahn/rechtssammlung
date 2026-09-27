@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67884"
@@ -55,7 +56,7 @@ In wie vielen Hamburger Kitas werden digitale Medien zu pädagogischen Zwecken e
 
 In welcher Form werden digitale Medien in Hamburger Kitas eingesetzt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der für Kindertagesbetreuung zuständigen Behörde liegen keine Daten darüber vor, in wie vielen Hamburger Kitas digitale Medien zu pädagogischen Zwecken eingesetzt werden.
 

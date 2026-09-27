@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 10
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58437"
@@ -45,7 +46,7 @@ Wer hat wann den Beschluss zur Verlagerung des Bauspielplatzes an den Jüdischen
 
 Wurde das Denkmalschutzamt zuvor mit den Plänen zur Verlagerung des Bauspielplatzes in die unmittelbare Nähe des Jüdischen Friedhofs befasst? Wenn ja: wann, von wem und mit welchem Ergebnis? Wenn nein: warum nicht? Und wann soll das Denkmalschutzamt befasst werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das vom Bezirksamt Altona beauftragte Planungsbüro hat am 12. Juni 2017 ein Gespräch mit Vertretern der Behörde für Umwelt und Energie und der Behörde für Kultur und Medien/Gartendenkmalpflege zur Erörterung einer möglichen Verlagerung des Bauspielplatzes geführt. Ein entsprechender Beschluss wurde bisher nicht gefasst. Weitere Gespräche dauern an.
 
@@ -57,6 +58,6 @@ Inwieweit wird bei der beabsichtigten Verlagerung des Bauspielplatzes Rücksicht
 
 Wurde die Vereinbarkeit der Verlagerung des Bauspielplatzes in die Nähe des Jüdischen Friedhofes mit der Bewerbung als Weltkulturerbe geprüft? Wenn ja: durch wen und mit welchem Ergebnis?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Belange des Jüdischen Friedhofs werden bei den Planungen beachtet. Diese Planungen sind noch nicht abgeschlossen.

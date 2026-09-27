@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 23
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1666"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49909"
@@ -102,7 +103,7 @@ Wie bewertet der Senat beziehungsweise die zuständige Behörde die geplante Fl�
 
 Welche Maßnahmen will der Senat beziehungsweise die zuständige Behörde ergreifen, um soziale Schwierigkeiten im Stadtteil zu vermeiden?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Drs. 21/1666.
 

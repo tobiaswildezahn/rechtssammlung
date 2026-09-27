@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8125"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59749"
@@ -65,7 +66,7 @@ Wie sind der genaue Sachstand sowie der Zeitplan für die Umsetzung einer Lösun
 
 Ist geplant, die Beteiligung an der BeNEX zu veräußern?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die HOCHBAHN strebt die Veräußerung der Beteiligung an der BeNEX an. Sie bereitet dazu derzeit die notwendige Aufarbeitung aller mit einer solchen Transaktion verbundenen Themen vor. Einzelheiten zum Stand der Vorbereitungen und zum derzeitigen Status etwaiger Verhandlungen unterliegen der Vertraulichkeit. Eine Offenlegung hierzu und zu von der HOCHBAHN erwogenen Lösungsalternativen würde den Erfolg der beabsichtigten Veräußerung zu den für die Hochbahn optimalen Bedingungen gefährden.
 

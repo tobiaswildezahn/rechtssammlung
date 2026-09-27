@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18828"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68605"
@@ -118,7 +119,7 @@ Welche Reisekosten sind je Stadtteilschule, Gymnasium und Berufsschule zwischen 
 
 An welche Kriterien sind Lehrkräfte bei der Auswahl des Reiseziels einer Klassenreise gebunden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung.
 

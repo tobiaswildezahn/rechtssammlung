@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1883"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58941"
@@ -128,7 +129,7 @@ Welche Angel(sport)vereine haben seit 2016 direkt oder über den Angelsport-Verb
 
 Wie hoch waren die jeweiligen Zuwendungen pro Verein direkt oder über den Angelsport-Verband Hamburg sowie direkt an den Angelsport-Verband Hamburg und für welche Fördertatbestände wurden die Zuwendungen jeweils ausgezahlt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Für Maßnahmen zum Schutz gefährdeter Fischarten haben folgende Vereine beziehungsweise der Angelsportverband Hamburg e.V. Zuwendungen in der angegebenen Höhe für das angegebene Haushaltsjahr erhalten:
 

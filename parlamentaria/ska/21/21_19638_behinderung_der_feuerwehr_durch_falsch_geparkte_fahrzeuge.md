@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/3064"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69445"
@@ -43,7 +44,7 @@ Bei wie vielen Einsätzen wurde seit dem Jahr 2012 die Anfahrt der Feuerwehr dur
 
 Sind dem Senat Einsätze bekannt, in denen Personen zu Schaden gekommen sind, weil die Feuerwehr bei der Anfahrt durch falsch abgestellte Fahrzeuge behindert wurde? Wenn ja, bei welchen Einsätzen war dies der Fall?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Daten im Sinne der Fragestellung werden statistisch nicht erfasst. Für die Beantwortung wäre eine händische Auswertung aller Polizei- und Feuerwehreinsätze seit 2012 erforderlich. Die Auswertung von mehreren Hunderttausend Vorgängen ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -55,7 +56,7 @@ Wie viele gemeinsame Aktionen der Feuerwehr und Polizei wurden seit 2012 jährli
 
 Wie viele Fahrzeuge wurden bei diesen Aktionen jeweils abgeschleppt, wie viele Verwarn- und Bußgelder ausgesprochen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Gemäß den gesetzlichen Aufbewahrungsfristen liegen ausschließlich Daten der vergangenen drei Jahre (2017, 2018 und 2019) vor. Seit 2017 wurden insgesamt 19 Aktionen im Sinne der Fragestellung durchgeführt. Es wurden 90 Fahrzeuge abgeschleppt, 355 Verwarnungsgeld- sowie ein Bußgeldverfahren eingeleitet.
 

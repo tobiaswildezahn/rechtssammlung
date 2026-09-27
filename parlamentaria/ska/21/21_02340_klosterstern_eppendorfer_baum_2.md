@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 22
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1182"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50629"
@@ -98,7 +99,7 @@ Wieso wird die Verengung in der Weihnachtszeit vorgenommen, wenn doch zu dieser 
 
 Warm werden die Bürger nicht vor Einführung der Verengung auf einer öffentlichen Veranstaltung informiert, sondern erst rund zehn Tage später?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Im Rahmen der Bürgerbeteiligung wurde vorgeschlagen, vor der Realisierung eine Verkehrsführung zunächst zu testen. Dies wurde aufgriffen. Mit der Testphase wurde jetzt begonnen, um bereits über erste Erfahrungen am 1. Dezember auf der Informationsveranstaltung berichten zu können. Eine Beeinträchtigung des Weihnachtsgeschäftes wird nicht erwartet, da keine Parkplätze und keine Ladezonen aufgehoben worden sind.
 

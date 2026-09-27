@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48339"
@@ -47,7 +48,7 @@ Welche Weiterbildungsmaßnahmen werden für Langzeitarbeitslose in Hamburg angeb
 
 Welche dieser Weiterbildungsmaßnahmen führen zu einem berufsqualifizierenden Abschluss (Abschluss bitte konkretisieren)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Jobcenter bietet selbst keine Weiterbildungsmaßnahmen an. Die Zusicherung der Teilnahme an einer beruflichen Weiterbildungsmaßnahme wird in Hamburg mithilfe der Ausgabe eines Bildungsgutscheines belegt. Die Teilnehmerinnen und Teilnehmer können anschließend aus dem Angebot zahlreicher Bildungsmaßnahmen bei unterschiedlichen Trägern wählen, die durch fachkundige Stellen zugelassen wurden.
 

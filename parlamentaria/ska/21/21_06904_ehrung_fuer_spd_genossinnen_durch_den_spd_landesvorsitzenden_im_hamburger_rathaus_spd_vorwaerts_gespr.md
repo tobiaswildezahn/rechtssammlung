@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 24
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55494"
@@ -58,7 +59,7 @@ Aus welchem Anlass hat der Bürgermeister am 28.11.2016 Elisabeth Kiausch und Ca
 
 Wie viele und welche Mitglieder der SPD und anderer Parteien wurden für ihre langjährige Parteimitgliedschaft von Bürgermeister Scholz im Rathaus seit seinem Amtsantritt am 7. März 2011 bis heute geehrt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9298", "21/4865", "21/4643"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53366"
@@ -55,7 +56,7 @@ Verlief die Inbetriebnahme im Rahmen der feierlichen Eröffnung der Landstromanl
 
 Wie lange dauerte die Versorgung der AIDAsol mit Landstrom am 3. Juni 2016? Wie lange sollte die AIDAsol eigentlich mit Strom versorgt werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

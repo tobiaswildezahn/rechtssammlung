@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/4067", "21/19311"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69526"
@@ -72,7 +73,7 @@ Hat die Hamburger Tafel in den vergangenen fünf Jahren bei einer Behörde der F
 
 In welchen öffentlich-rechtlichen Unterbringungen stellt f & w fördern und wohnen AöR auf Initiative der Tafeln Räume als Ausgabestellen für Zielgruppen gemäß dem Tafelkonzept zur Verfügung? Und wie stellt sich dies seit Beginn des Jahres 2015 dar?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Hamburger Tafel hat die Behörde für Wirtschaft, Verkehr und Innovation gebeten, auf dem Großmarkt Obst, Gemüse und Blumen Ware sammeln zu dürfen. Dieser Bitte ist nachgekommen worden. Der Landesbetrieb Großmarkt Obst, Gemüse und Blumen stellt der Tafel unentgeltliche Marktausweise zur Verfügung.
 

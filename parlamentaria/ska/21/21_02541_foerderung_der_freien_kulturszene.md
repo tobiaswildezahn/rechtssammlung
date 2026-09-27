@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/947", "20/6877", "19/3649", "20/1740", "20/9850", "20/11423"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50837"
@@ -55,7 +56,7 @@ Welche Kriterien liegen der jeweiligen Entscheidung zur Aufnahme einer instituti
 
 Welche Kriterien konkret muss ein Künstler oder eine Kultureinrichtung erfüllen, um in den Genuss einer institutionellen Förderung zu gelangen? Bitte nach Sparten aufgliedern (Film, Literatur, Museen, Musik, Ausstellungshäuser, Bibliotheken, Theater).
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Institutionelle Förderung wird nach § 46 der Landeshaushaltsordnung (LHO) gewährt, wenn Hamburg an der Erfüllung von Aufgaben durch Stellen außerhalb der Verwaltung ein erhebliches lnteresse hat, das ohne die Zuwendungen nicht oder nicht im notwendigen Umfang befriedigt werden kann. Die Mittel können zur Deckung der gesamten Ausgaben oder eines nicht abgegrenzten Teils der Ausgaben eines Zuwendungsempfängers verwendet werden, ohne an konkrete Projekte gebunden zu werden. Die Förderung muss jährlich neu beantragt und nach Prüfung des Einzelfalles neu bewilligt werden. Zu den Kriterien siehe die Verwaltungsvorschrift zu § 46 LHO unter http://www.hamburg.de/contentblob/4429812/data/vv-zu-%C2%A7-46-lho.pdf.
 
@@ -85,7 +86,7 @@ Welche Kriterien liegen der jeweiligen Entscheidung zur Aufnahme einer projektbe
 
 Welche Kriterien konkret muss ein Künstler oder eine Kultureinrichtung erfüllen, um in den Genuss einer projektbezogenen Förderung zu gelangen? Bitte nach Sparten aufgliedern (Film, Literatur, Museen, Musik, Ausstellungshäuser, Bibliotheken, Theater).
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 20/11423. Zu den Förderrichtlinien der Filmförderung Schleswig-Holstein siehe http://www.ffhsh.de/de/foerderung/. Zur Förderung von Jazzreihen siehe http://www.hamburg.de/kulturfoerderung/4315500/jazzreihen/.
 

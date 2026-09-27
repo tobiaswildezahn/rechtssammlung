@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 20
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49031"
@@ -93,11 +94,11 @@ ii. der Erfolg der Maßregel festgestellt, davon in wie vielen Fällen vor Ablau
 
 Nach § 67d Absatz 2 StGB setzt das Gericht die weitere Vollstreckung der Unterbringung zur Bewährung aus, wenn zu erwarten ist, dass der Untergebrachte außerhalb des Maßregelvollzugs keine rechtswidrigen Taten mehr begehen wird. Die Anzahl der aus der Unterbringung nach § 64 StGB entlassenen Patientinnen und Patienten betrug im Jahr
 
-• 2014: elf mit Führungsaufsicht, davon vier vor Ablauf der Höchstfrist;
+– 2014: elf mit Führungsaufsicht, davon vier vor Ablauf der Höchstfrist;
 
-• 2013: zwölf mit Führungsaufsicht, davon sechs vor Ablauf der Höchstfrist;
+– 2013: zwölf mit Führungsaufsicht, davon sechs vor Ablauf der Höchstfrist;
 
-• 2012: elf mit Führungsaufsicht, davon acht vor Ablauf der Höchstfrist.
+– 2012: elf mit Führungsaufsicht, davon acht vor Ablauf der Höchstfrist.
 
 ### Frage 3
 
@@ -139,17 +140,17 @@ Wie viele Ärzte/-innen, Psychologen/-innen und Pflegekräfte stehen für die au
 
 Aktuell stehen in der Justizvollzugsanstalt (JVA) Fuhlsbüttel folgende personelle Kontingente zur Verfügung:
 
- Ärztlicher Dienst: 0,62 Vollkräfte (VK)
+– Ärztlicher Dienst: 0,62 Vollkräfte (VK)
 
 beide Personen mit abgeschlossener Facharztausbildung
 
- Pflegedienst: 7,0 VK
+– Pflegedienst: 7,0 VK
 
 insgesamt acht Krankenpflegekräfte
 
 (einmal ständiger Einsatz in der Sozialtherapeutischen Anstalt und eine derzeit vakante Stelle) sowie eine Arzthelferin
 
- Psychologen/-innen: 4,50 VK
+– Psychologen/-innen: 4,50 VK
 
 dazu ein für die Sicherungsverwahrung zuständiger Vollzugsleiter in Vollzeit, ebenfalls Psychologe.
 
@@ -157,16 +158,16 @@ Darüber hinaus wird eine wechselnde Anzahl von Sicherungsverwahrten der JVA Fuh
 
 In der Sozialtherapeutischen Anstalt (SH) stehen aktuell folgende personelle Kontingente zur Verfügung:
 
- Ärztlicher Dienst: 0,40 VK
+– Ärztlicher Dienst: 0,40 VK
 
 beide Personen mit abgeschlossener Facharztausbildung
 
- Pflegedienst:  
+– Pflegedienst:  
 1,0 VK  
 Versorgung über die JVA Fuhlsbüttel – regelhafter täglicher Einsatz einer dortigen  
 Krankenpflegekraft
 
- Psychologen/-innen: 8,5 VK
+– Psychologen/-innen: 8,5 VK
 
 davon sechs approbierte Psychologische Psychotherapeuten/-innen.
 
@@ -212,13 +213,13 @@ Wie viele der oben genannten Untergebrachten sind Frauen, bitte aufschlüsseln n
 
 In der Hamburger Maßregelvollzugseinrichtung (Asklepios Klinik Nord – Ochsenzoll) sind 33 Frauen (Stichtag 23. Juni 2015) untergebracht, davon in:
 
- Haus 14: 20 Frauen;
+– Haus 14: 20 Frauen;
 
- Haus 8: sieben Frauen (davon eine beurlaubt);
+– Haus 8: sieben Frauen (davon eine beurlaubt);
 
- O21: vier Frauen;
+– O21: vier Frauen;
 
- Haus 10: eine Frau (beurlaubt).
+– Haus 10: eine Frau (beurlaubt).
 
 Im Hamburger Justizvollzug befinden sich derzeit keine weiblichen Sicherungsverwahrten.
 

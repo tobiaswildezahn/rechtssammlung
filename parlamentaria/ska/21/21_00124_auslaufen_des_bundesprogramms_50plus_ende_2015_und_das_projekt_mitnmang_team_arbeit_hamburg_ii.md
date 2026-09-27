@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/56"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48254"
@@ -69,7 +70,7 @@ Wie oft erfolgt eine Einladung in die Standorte vor Ort?
 
 Wie oft erfolgt eine Einladung in die Hammerbrookstraße 73?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Allen Projektteilnehmerinnen und Projekteilnehmern wird eine intensive Beratung und Betreuung angeboten, in der Regel erfolgt mindestens eine Beratung im Monat. Im Übrigen siehe auch Antwort zu 2.
 

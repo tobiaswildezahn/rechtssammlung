@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 18
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10714"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60962"
@@ -63,7 +64,7 @@ Welche Ladeinfrastruktur wurde inzwischen erstellt und wie sind die Erfahrungen 
 
 Wie beurteilen die Busfahrer den Umgang mit den relativ häufigen Ladevorgängen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/10714.
 
@@ -127,21 +128,21 @@ Solaris Brennstoffzellen-Gelenkbus U18,75 BZ 7491
 
 Dabei stehen unter anderem im Vordergrund:
 
-• Reichweiten unter verschiedenen Witterungsbedingungen,
+– Reichweiten unter verschiedenen Witterungsbedingungen,
 
-• Fahrzeugverfügbarkeiten,
+– Fahrzeugverfügbarkeiten,
 
-• Instandhaltungsfreundlichkeit inklusive Monitoring in Echtzeit,
+– Instandhaltungsfreundlichkeit inklusive Monitoring in Echtzeit,
 
-• Verfügbarkeiten von benötigter Ladeinfrastruktur,
+– Verfügbarkeiten von benötigter Ladeinfrastruktur,
 
-• Ablaufänderungen in der Fahrzeugversorgung,
+– Ablaufänderungen in der Fahrzeugversorgung,
 
-• Datentransfer,
+– Datentransfer,
 
-• Handling von Reichweitenlimitierungen und Überwachung dieser in Echtzeit,
+– Handling von Reichweitenlimitierungen und Überwachung dieser in Echtzeit,
 
-• Haltbarkeit von Traktionsbatterien.
+– Haltbarkeit von Traktionsbatterien.
 
 ### Frage 8
 

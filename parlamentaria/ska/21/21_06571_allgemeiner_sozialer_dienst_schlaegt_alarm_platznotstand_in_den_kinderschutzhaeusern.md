@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 21
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55104"
@@ -109,7 +110,7 @@ Wie viele Plätze in den unter 1. aufgeführten Kinderschutzhäusern sind derzei
 
 Wie viele freie Plätze bestehen in den unter 1. aufgeführten Kinderschutzhäusern derzeit für eine kurzfristige Unterbringung aufgrund von Inobhutnahmen et cetera?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Belegte und freie Plätze zum Stichtag 4. November 2016:
 

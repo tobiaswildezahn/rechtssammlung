@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1212", "21/386"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50258"
@@ -69,7 +70,7 @@ Wie hat sich die Anzahl der durchgeführten Kontrollen im ÖPNV in den ersten dr
 
 Auf wie viel Prozent schätzt der Senat beziehungsweise die zuständige Behörde aktuell den Anteil der Schwarzfahrer in Hamburgs Bussen und Bahnen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/386. Der Umfang der Prüfungen ist im Wesentlichen unverändert. Die Hochbahn teilte ergänzend mit, dass im laufenden Jahr 1.985.806 Fahrgäste kontrolliert wurden.
 

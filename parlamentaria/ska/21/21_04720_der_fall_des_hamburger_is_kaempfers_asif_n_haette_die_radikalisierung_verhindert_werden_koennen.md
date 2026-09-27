@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3782", "20/13716"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53138"
@@ -114,7 +115,7 @@ Hat Asif N. an einer Hamburger Schule eine Abschlussprüfung erfolgreich absolvi
 
 Gab es in der zuletzt besuchten Schule Hinweise auf eine Radikalisierung des jungen Mannes? Wenn ja, wie haben die verantwortlichen Akteure (Lehrer, Schulleitung, Schulaufsicht, Behörde für Schule und Berufsbildung) darauf reagiert? Bitte den Inhalt der stattgefundenen Gespräche und Maßnahmen erläutern.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 24
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3174"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51682"
@@ -73,7 +74,7 @@ In Drs. 21/3174 heißt es, dass nach Alter und Gefährdungseinschätzung eine Ve
 
 Warum wird im Falle des Entweichens eines Flüchtlingskindes aus der Inobhutnahme des LEB nicht regelhaft Anzeige erstattet und ermittelt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Kommt ein Kind oder eine Jugendliche, beziehungsweise ein Jugendlicher nicht in die Einrichtung zurück, wird, insbesondere bezüglich der Aufgabe einer Vermisstenanzeige, wie folgt verfahren:
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1293"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49931"
@@ -47,7 +48,7 @@ Welches Ergebnis beziehungsweise welche Ergebnisse haben die Gespräche zwischen
 
 Hat die Freie und Hansestadt Hamburg der Tschechischen Republik den Kuhwerder Hafen als Ausgleich für einen möglichen Verlust des Moldauhafens im Zuge der Olympiabewerbung angeboten? Wenn ja, wird dadurch ein drohender Nutzungskonflikt ausgeräumt? Wenn ja, mit welchen Kosten rechnet der Senat a. für die Umsiedlung von Hafenunternehmen, b. für die Erschließung des Geländes, c. für die Gewährleistung der Wassertiefe, d. für etwaige Rechtsberatung, e. für weitere sonstige Kosten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Rahmen der Gespräche wurden die Möglichkeiten einer Verlagerung erörtert und eine Fläche im Kuhwerder Hafen als mögliche Ausgleichsfläche vorgestellt und angeboten.
 
@@ -115,6 +116,6 @@ Wann wird der Senat die Auslegung des Versailler Vertrages, insbesondere von Art
 
 Warum ist die unter 9. genannte Prüfung bisher nicht erfolgt?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die HPA hat sich an das Auswärtige Amt zur Auslegung des Versailler Vertrages gewandt, welches sich hierzu noch nicht geäußert hat. Unabhängig von derartigen juristischen Fragen strebt der Senat grundsätzlich eine einvernehmliche Lösung mit der Tschechischen Republik an. Im Übrigen hat sich der Senat damit nicht befasst.

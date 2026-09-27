@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 19
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62605"
@@ -236,7 +237,7 @@ c) eine Sanierung einer Sporthalle gegeben? Angaben bitte in Feldern und Hallen 
 
 Wie viele Sporthallenfelder gab es am 1.8.2011 insgesamt im Wahlkreis 12 und wie viele wird es 2020 geben?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Gab es im Jahr 2011 41 Sporthallenfelder, so waren es im Jahr 2017 42. Für das Jahr 2020 sind 41 Sporthallenfelder geplant. Diese Entwicklung erklärt sich durch die zukünftige Abmietung einer Einfeldhalle an der Schule am See.
 

@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 24
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3232", "21/10739"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61204"
@@ -178,15 +179,15 @@ d. Welche Erkenntnisse liegen zu den Aktionsräumen der Tatvorwürfe vor, die de
 
 Die Auswertung der vorliegenden Daten der Aktionsräume für 2015 (2016) ergab:
 
- ein Verfahren (3,4 Prozent) (2016: drei (12,0 Prozent)) mit ausschließlichem
+– ein Verfahren (3,4 Prozent) (2016: drei (12,0 Prozent)) mit ausschließlichem
 
 Bezugspunkt Hamburg (regional),
 
- drei Verfahren (10,3 Prozent) (2016: vier (16,0 Prozent)) mit Bezugspunkten zu
+– drei Verfahren (10,3 Prozent) (2016: vier (16,0 Prozent)) mit Bezugspunkten zu
 
 mehreren Bundesländern (überregional),
 
- 25 Verfahren (86,2 Prozent) (2016: 18 (72,0 Prozent)) mit Bezugspunkten in das
+– 25 Verfahren (86,2 Prozent) (2016: 18 (72,0 Prozent)) mit Bezugspunkten in das
 
 europäische und außereuropäische Ausland (international).
 
@@ -278,7 +279,7 @@ Welche Erkenntnisse liegen insgesamt über die Milieukriminalität beziehungswei
 
 Wie beurteilt der Senat die Milieukriminalität beziehungsweise die OK- Aktivität an und im Umfeld der Reeperbahn auf St. Pauli?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Polizei hat in den letzten Jahren regelmäßig komplexe Ermittlungsverfahren „Milieukriminalität“ durchgeführt, in denen die Beschuldigten Berührungspunkte zur Reeperbahn beziehungsweise zu St. Pauli hatten. Hierbei muss es sich nicht immer um „klassische“ OK-Verfahren gemäß der Arbeitsdefinition handeln. Eine gesonderte statistische Erfassung im Sinne der Fragestellung erfolgt nicht. Die polizeilichen Erkenntnisse über Taten und Täterstrukturen an und im Umfeld der Reeperbahn und auf St. Pauli sind vielschichtig und umfassen grundsätzlich eine Vielzahl an Kriminalitätsbereichen.
 
@@ -556,7 +557,7 @@ Wie hoch waren die im Rahmen der OK-Verfahren gemeldeten Schäden, die im Zuge v
 
 In welcher Höhe wurden in den Jahren 2015, 2016 und 2017 insgesamt aus allen Verfahrensbereichen Vermögenswerte vorläufig gesichert und wie hoch war jeweils der Anteil, der aus den OK-Verfahren resultierte?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Die erfragten Daten sind in nachfolgender Tabelle dargestellt:
 
@@ -618,7 +619,7 @@ Wie viele OK-Gerichtsverfahren gegen wie viele Angeklagte wurden in den Jahren 2
 
 Wie lang war die durchschnittliche monatliche Verfahrensdauer von Anklageerhebung bis zur rechtskräftigen gerichtlichen Entscheidung?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18928", "21/19294"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70036"
@@ -215,7 +216,7 @@ Welche Kindertageseinrichtungen im Bezirk Altona verfügen über kein Außenspie
 
 Welche Kindertageseinrichtungen in Altona verfügen über kein Außengelände von mindestens 6 m² pro betreutes Kind im Elementaralter?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Daten zur Größe der Kita-Außenspielgelände werden seitens des zuständigen Bezirksamtes statistisch nicht erfasst. Entsprechende Angaben wären nur durch eine manuelle Auswertung der rund 200 bezirklichen Baugenehmigungsakten zu ermitteln. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

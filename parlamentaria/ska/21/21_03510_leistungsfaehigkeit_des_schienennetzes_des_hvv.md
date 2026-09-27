@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 20
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14060"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51866"
@@ -75,7 +76,7 @@ Sind die Zuglängen während der Hauptverkehrszeiten jeweils entsprechend der vo
 
 Sind die maximal schon heute vorhandenen Bahnsteiglängen durchgängig im Gesamtnetz vorhanden? Falls nein: Bitte detailliert für das Gesamtnetz angeben, welche Bahnsteiglängen vorhanden sind.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Auf den Linien U1 und U2 werden die Bahnsteiglängen für 120 Meter lange Züge voll ausgenutzt. Auf der Linie U3 lassen die vorhandenen Bahnsteiglängen auf dem Streckenabschnitt Hauptbahnhof Süd – Schlump – Saarlandstraße nur 80 Meter lange Züge zu, wodurch die Fahrzeuglängen auf der Gesamtlinie definiert sind. Die vorhandenen Bahnsteiglängen für 120 Meter lange Züge auf dem Abschnitt Barmbek – Mundsburg – Berliner Tor können daher nicht voll ausgenutzt werden. Auf der Linie U4 verkehren in Anpassung an den derzeitigen Bedarf und in Abhängigkeit von der weiteren städtebaulichen Entwicklung im Stadtteil HafenCity 60 bis 80 Meter lange Züge. Die Bahnsteiglängen lassen dort 120 Meter lange Züge zu.
 
@@ -90,7 +91,7 @@ Könnte durch Verlängerung von einzelnen Bahnsteigen die Leistungsfähigkeit de
 
 Falls ja: Welche Haltestellen/Stationen würde dies betreffen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Ja. Die Leistungsfähigkeit einer Linie kann jedoch nur gesteigert werden, wenn alle Bahnsteige der Streckenabschnitte einheitliche Längen aufweisen. Im U-Bahn-Netz betrifft dies die U3 Hauptbahnhof Süd – Schlump – Saarlandstraße. Im Übrigen siehe Antwort zu 4. und 5.
 

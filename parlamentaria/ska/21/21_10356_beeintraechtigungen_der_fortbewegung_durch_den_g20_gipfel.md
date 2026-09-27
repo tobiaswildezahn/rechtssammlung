@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 20
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9314", "21/9064", "21/9065", "21/9523", "21/9767", "21/9797"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59197"
@@ -87,34 +88,34 @@ Wann und wie wurden die betroffenen Anwohner/-innen vor Ort über die verkehrsbe
 
 Die Polizei hat folgende Maßnahmen durchgeführt:
 
- Auslegen von Informations-Flyern an den Polizeikommissariaten 14, 15 und 16
+– Auslegen von Informations-Flyern an den Polizeikommissariaten 14, 15 und 16
 
- Information der Bürger durch die zuständigen Beamten des besonderen Fußstrei-
+– Information der Bürger durch die zuständigen Beamten des besonderen Fußstrei-
 
 fendienstes in den betroffenen Stadtteilen
 
- Einsatz von Informations- und Kommunikationsteams (IKT) an strategisch wichti-
+– Einsatz von Informations- und Kommunikationsteams (IKT) an strategisch wichti-
 
 gen Punkten
 
- Durchführung von Informationsveranstaltungen:
+– Durchführung von Informationsveranstaltungen:
 
-
+–
 16. Mai 2017 in der HafenCity
 
-
+–
 24. Mai 2017 im Stadtteilbeirat Sternschanze
 
-
+–
 30. Mai 2017 in der Stadtteilkonferenz Neustadt
 
-
+–
 31. Mai 2017 für Anwohner der Sicherheitszone des Veranstaltungsorts Messehalle in der Schule vor dem Holstentor
 
-
+–
 8. Juni 2017 auf der Elternvollversammlung der Ganztagsschule Sternschanze
 
- An den Haupteinsatztagen Übermittlung von Informationen zur aktuellen Verkehrs-
+– An den Haupteinsatztagen Übermittlung von Informationen zur aktuellen Verkehrs-
 
 lage an regionale Radio- und Fernsehsender
 
@@ -136,23 +137,23 @@ Neben dem Transport der Gipfelteilnehmer/-innen selbst gab es auch durch das Beg
 
 Sperrungen im Sinne der Fragestellung erfolgten:
 
- Besuch des Klimarechenzentrums: 7. Juli 2017 von circa 11.50 Uhr bis 13.13 Uhr,
+– Besuch des Klimarechenzentrums: 7. Juli 2017 von circa 11.50 Uhr bis 13.13 Uhr,
 
 Bundesstraße zwischen Sedanstraße und Rentzelstraße, Papendamm zwischen Bundesstraße und Laufgraben sowie Laufgraben zwischen Schröderstiftweg und Papendamm
 
- Arbeitsessen im Amerikanischen Generalkonsulat: 6. Juli 2017 von 15.03 Uhr bis
+– Arbeitsessen im Amerikanischen Generalkonsulat: 6. Juli 2017 von 15.03 Uhr bis
 
 21.00 Uhr, Alsterufer zwischen den Straßen Alsterterrasse und Alsterufer Hausnummer 33 sowie Warburgstraße zwischen den Hausnummern 38 und 45
 
- Essen im Fischereihafen Restaurant: 7. Juli 2017 von 11.51 Uhr bis 13.18 Uhr,
+– Essen im Fischereihafen Restaurant: 7. Juli 2017 von 11.51 Uhr bis 13.18 Uhr,
 
 Große Elbstraße/Van-der-Smissen-Straße
 
- Außenminister-Treffen: 7. Juli 2017 von circa 21 Uhr bis 0 Uhr, Große Elbstraße/
+– Außenminister-Treffen: 7. Juli 2017 von circa 21 Uhr bis 0 Uhr, Große Elbstraße/
 
 Van-der-Smissen-Straße
 
- Empfang Rathaus: 08. Juli 2017 von 10.36 Uhr bis 13.48 Uhr, Adolphsplatz und
+– Empfang Rathaus: 08. Juli 2017 von 10.36 Uhr bis 13.48 Uhr, Adolphsplatz und
 
 Große Johannisstraße zwischen Rathausstraße und Adolphsplatz
 

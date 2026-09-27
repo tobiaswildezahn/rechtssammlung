@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16041", "21/3000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70083"
@@ -93,6 +94,6 @@ Sofern die Daten zur Schullaufbahnempfehlung nicht zentral erfasst werden: Warum
 
 Sofern die Daten noch nicht vorliegen: Wann wird dies der Fall sein?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Daten werden zentral erfasst, jedoch nicht zum Zeitpunkt der Zeugniskonferenzen der Grundschulen, sondern von den weiterführenden Schulen zum Zeitpunkt der Schuljahreserhebung. Im Übrigen siehe Vorbemerkung.

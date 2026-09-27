@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9329", "21/4681"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58171"
@@ -51,23 +52,23 @@ sowie leistungsrechtlich circa 4.500 Bedarfsgemeinschaften von rund 110 Mitarbei
 
 Neben den Regelleistungsangeboten des SGB II werden am Standort unter anderem folgende behinderungsspezifische Angebote unterbreitet:
 
- vermittlerische Beratung unter besonderer Berücksichtigung der behinderungsbe-
+– vermittlerische Beratung unter besonderer Berücksichtigung der behinderungsbe-
 
 dingten Einschränkungen;
 
- zielgruppenspezifische Trainingsmaßnahmen (zum Beispiel für Gehörlose oder
+– zielgruppenspezifische Trainingsmaßnahmen (zum Beispiel für Gehörlose oder
 
 Menschen mit psychischen Behinderungen);
 
- behinderungsspezifische Maßnahmen aus Mitteln des Europäischen Sozialfond
+– behinderungsspezifische Maßnahmen aus Mitteln des Europäischen Sozialfond
 
 (ESF);
 
- Beratung von Arbeitgebern bezüglich spezieller Förderleistungen bei der Einstel-
+– Beratung von Arbeitgebern bezüglich spezieller Förderleistungen bei der Einstel-
 
 lung schwerbehinderter Menschen;
 
- netzwerkorientierte Beratungsleistungen in enger Kooperation mit dem Integrati-
+– netzwerkorientierte Beratungsleistungen in enger Kooperation mit dem Integrati-
 
 onsamt und dem Integrationsfachdienst.
 
@@ -136,7 +137,7 @@ Es gibt laut Bundesagentur für Arbeit eine spezielle Anlaufstelle für Menschen
 
 Es gibt des Weiteren die Beratungsstelle für Menschen mit Behinderungen „team.arbeit.hamburg.“. Wie viele Menschen mit Behinderungen konnten mithilfe der Agentur einen Arbeitsplatz finden? a. Bitte seit 2010 bis 2015 jährlich auflisten. b. Ab 2016 monatlich auflisten.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antwort zu 4, Anlage 2 sowie Vorbemerkung.
 

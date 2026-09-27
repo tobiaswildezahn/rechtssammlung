@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 19
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55301"
@@ -112,7 +113,7 @@ Was hat die zuständige Behörde nach Kenntnis von Verdacht und Bericht unternom
 
 Wann hat die zuständige Behörde die Öffentlichkeit und wann die Hamburger Ärztekammer informiert?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die PÜK selbst hat die Öffentlichkeit mit einer Pressemitteilung und durch Veröffentlichung des Berichts am 13. Oktober 2016 informiert. Im Übrigen siehe Vorbemerkung.
 

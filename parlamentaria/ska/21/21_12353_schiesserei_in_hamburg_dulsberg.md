@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 19
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61643"
@@ -62,33 +63,33 @@ Welche Maßnahmen hat die verantwortliche Polizeidienststelle ergriffen, nachdem
 
 Die Polizei hat im Rahmen des ersten Angriffs folgende Maßnahmen ergriffen:
 
- Entsenden von Einsatzkräften zum Einsatzort
+– Entsenden von Einsatzkräften zum Einsatzort
 
- Anfordern von Rettungswagen/Notarztwagen für Verletzte
+– Anfordern von Rettungswagen/Notarztwagen für Verletzte
 
- Sicherung/Absperrung des Tatortes
+– Sicherung/Absperrung des Tatortes
 
- Erstversorgung der Verletzten
+– Erstversorgung der Verletzten
 
- Einleiten von Fahndungsmaßnahmen
+– Einleiten von Fahndungsmaßnahmen
 
- Feststellen von Zeugen
+– Feststellen von Zeugen
 
- Einleiten von Verkehrsmaßnahmen
+– Einleiten von Verkehrsmaßnahmen
 
- Benachrichtigen der Leitstelle der HOCHBAHN
+– Benachrichtigen der Leitstelle der HOCHBAHN
 
- Information des Landeskriminalamts (LKA), des Lagedienstes sowie der Presse-
+– Information des Landeskriminalamts (LKA), des Lagedienstes sowie der Presse-
 
 stelle der Polizei
 
 Das die kriminalpolizeilichen Ermittlungen übernehmende Fachkommissariat Tötungsdelikte und Todesermittlungen (LKA 41) hat vor Ort folgende Maßnahmen durchgeführt:
 
- Tatortarbeit
+– Tatortarbeit
 
- Einsatz Kriminalwissenschaft und -technik
+– Einsatz Kriminalwissenschaft und -technik
 
- Zeugenvernehmungen
+– Zeugenvernehmungen
 
 Die eingesetzten Polizeikräfte haben die aufgeführten Maßnahmen sukzessive eingeleitet und durchgeführt; darüber hinaus siehe Antwort zu 1.
 
@@ -172,6 +173,6 @@ Ermittelt die Polizei gegenwärtig im migrantischen Milieu?
 
 Glaubt die Polizei Anhaltspunkte für eine Involvierung krimineller Banden zu erkennen? Falls ja, welche?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Siehe Antwort zu 1.

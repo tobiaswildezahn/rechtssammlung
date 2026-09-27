@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9389", "21/1838", "21/9606"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58729"
@@ -70,7 +71,7 @@ Gibt es inzwischen vom Investor FeWa eine Zustimmung zu der am
 
 Liegt inzwischen die Zustimmung der Investoren anderer Flüchtlingsunterkünfte nach „Perspektive Wohnen“ vor wie f & w fördern und wohnen AöR (f & w) oder der HIG? Wenn ja, für welchen Standort über jeweils wie viele Wohnungen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 

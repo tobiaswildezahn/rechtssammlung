@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 17
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10994", "21/6000", "21/4625", "21/6017"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55014"
@@ -175,7 +176,7 @@ Gibt es in Hamburg Männerhäuser? Wenn ja, bitte nach Bezirk auflisten. Wenn ne
 
 Gibt es in Hamburg weitere Unterbringungsmöglichkeiten für Männer, die in akuten Notsituationen Zuflucht suchen? a. Wenn ja, welche? Bitte jeweils nach Bezirk auflisten. Wie oft wurde das Angebot in den Jahren 2013 bis 2016 in Anspruch genommen? Bitte jeweils nach Unterkunft und Jahr auflisten. b. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Sofern das akute Schutzbedürfnis den Verbleib in der eigenen Wohnung nicht zulässt, wird im Rahmen einer individuellen Gefährdungseinschätzung gemeinsam mit dem von häuslicher Gewalt betroffenen Mann in jedem Einzelfall eine anderweitige Unterbringungsmöglichkeit – gegebenenfalls auch in der öffentlichen Unterbringung – gesucht. Hauptakteure sind dabei insbesondere die Interventionsstelle intervento sowie die Polizei. Über die Anzahl entsprechender Maßnahmen erfolgt keine statistische Erfassung.
 

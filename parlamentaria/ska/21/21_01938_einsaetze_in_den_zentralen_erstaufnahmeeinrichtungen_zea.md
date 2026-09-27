@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1812", "20/13284"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50184"
@@ -47,7 +48,7 @@ Wie wird eine Einsatzfahrt definiert?
 
 Was ist eine Auftragsfahrt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Begriffe „Einsatzfahrt“ und „Auftragsfahrt“ unterliegen keiner trennscharfen Definition. In aller Regel handelt es sich bei „Einsatzfahrten“ um solche Fahrten, die im Rahmen des hoheitlichen Auftrags der Polizei zur Kriminalitätsbekämpfung oder Gefahrenabwehr und Störungsbeseitigung mit einer nach Dringlichkeit zugeordneten Priorität wahrgenommen werden und dem ersten Anschein nach einem bestimmten Einsatzstichwort zugeordnet werden können. Solche Stichworte sind im Hamburger Einsatzleitsystem „HELS“ in einer abschließenden Liste von Anlassarten hinterlegt. Bei dem Einsatzstichwort „AUFT – Auftragsfahrt“ handelt es sich um ein sogenanntes Auffangeinsatzstichwort. Es findet Anwendung bei polizeilichen Einsätzen, die sich keiner der klassischen Anlassarten zuordnen lassen. Die Verwendung ist nicht abschließend definiert, wird aber regelhaft für folgende polizeiliche Einsätze genutzt:
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9870", "21/8844", "21/8424"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58882"
@@ -46,19 +47,19 @@ Wie viele Mitarbeiter sind zurzeit in jeweils welcher Abteilung beziehungsweise 
 Der Zentrale Koordinierungsstab Flüchtlinge (ZKF) besteht mit Stand 14. August 2017 aus insgesamt 70 Mitarbeiterinnen und Mitarbeitern (MA, 66,035 VZÄ), die sich wie folgt auf die jeweilige Stabsbereiche verteilen. Im Vergleich hierzu wird die geplante Struktur in Vollzeitäquivalenten (VZÄ) nach Beschluss des Staatsrätekollegiums vom
 25. April 2016 dargestellt.
 
- Stabsbereich Kommunikation und Beteiligung: 5 MA (4,5 VZÄ, geplant 2016: 8
+– Stabsbereich Kommunikation und Beteiligung: 5 MA (4,5 VZÄ, geplant 2016: 8
 
 VZÄ)
 
- Stabsbereich Zentrale Dienste und Koordinierung: 19 MA (17,55 VZÄ, geplant
+– Stabsbereich Zentrale Dienste und Koordinierung: 19 MA (17,55 VZÄ, geplant
 
 2016: 32 VZÄ)
 
- Stabsbereich Kapazitätsaufbau Folgeeinrichtungen, übergreifende Aufgaben: 16
+– Stabsbereich Kapazitätsaufbau Folgeeinrichtungen, übergreifende Aufgaben: 16
 
 MA (15,56 VZÄ, geplant 2016: 30 VZÄ)
 
- Stabsbereich Einrichtung der Erstaufnahme (ZEA), übergreifende Aufgaben,
+– Stabsbereich Einrichtung der Erstaufnahme (ZEA), übergreifende Aufgaben,
 
 Betrieb: 25 MA (23,625 VZÄ, geplant 2016: 52 VZÄ)
 
@@ -76,7 +77,7 @@ Warum sind diese Stellen unbesetzt? Sollen diese Stellen besetzt werden? Wenn ja
 
 Um welche Stellen handelt es sich und welche Aufgabenbereiche sollen durch diese Stellen abgedeckt werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Von den genannten 56 Stellen sollen lediglich drei Stellen schnellstmöglich nachbesetzt werden. Es handelt sich hierbei um Stellen aus dem Stabsbereich Einrichtung der Erstaufnahmen (ZEA), übergreifende Aufgaben, Betrieb. Siehe auch Drs. 21/8424.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1716", "21/1670", "21/1533", "20/1840", "21/1532", "21/1879", "21/1875", "21/1912"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50214"
@@ -100,7 +101,7 @@ Wie viele Anschlusseinrichtungen der öffentlich-rechtlichen Unterbringung beste
 
 Welcher Betreuungsschlüssel gilt für die Unterbringungen im Einzelnen? Wie viele Stellen sollen demnach für die jeweilige Unterbringungen vorgehalten werden und wie stellt sich die tatsächliche Stellenanzahl dar?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Es gibt 13 Unterkünfte für die Folgeunterbringung von Zuwanderern und Wohnungslosen:
 

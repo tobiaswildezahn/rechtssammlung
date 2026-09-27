@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13789"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51292"
@@ -150,7 +151,7 @@ An wie vielen Standorten werden Randzeiten angeboten? Bitte Standorte angeben un
 
 An wie vielen Standorten werden Ferienzeiten angeboten? Bitte für die jeweiligen Standorte die prozentualen Zahlen der Inanspruchnahme angeben.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Bei Bedarf bieten alle 125 GBS-Grundschulen eine Randzeiten- und Ferienbetreuung an. Zur Anzahl der betreuten Schülerinnen und Schüler in den Randzeiten vor 8 Uhr und nach 16 Uhr sowie zur Anzahl der Schülerinnen und Schüler in der Ferienbetreuung in Relation zur Gesamtschülerzahl der jeweiligen Schule siehe Anlage 2.
 

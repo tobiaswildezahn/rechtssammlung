@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 23
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5213", "20/12515"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66720"
@@ -123,7 +124,7 @@ Hält der Senat eine Veränderung beziehungsweise Verbesserung der Beleuchtungss
 
 Hat der Senat bereits eine Verbesserung der Beleuchtungssituation der Denkmäler am Stephansplatz erwogen? Wenn ja, mit welchem Ergebnis? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Nein. Das Beleuchtungskonzept, entwickelt von Brandi Licht, erscheint auch aktuell für den Ort sehr angemessen. So werden nicht nur die drei Denkmale beleuchtet, sondern durch die Ausrichtung des Lichts und den Schattenwurf Bezüge erzeugt.
 

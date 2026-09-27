@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/288", "20/11303", "20/1598"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60967"
@@ -85,7 +86,7 @@ Welche Kreisverkehre sollen bis 2025 in Hamburg realisiert werden?
 
 Was sind die Gründe, die bis 2025 entstehenden Kreisverkehre jeweils zu realisieren?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Ob ein Kreisverkehr realisiert wird, ist Bestandteil der Straßenplanung und immer eine Einzelfallentscheidung. Für die bereits geplanten Baumaßnahmen bis zum Jahr 2025 sind regelhaft noch inhaltliche Abstimmungen sowie Grob- und Detailplanungen notwendig. Vor diesem Hintergrund können nur Maßnahmen aufgeführt werden, bei denen derzeit ein Kreisverkehr in Betracht gezogen wird. Im Übrigen siehe Vorbemerkung sowie folgende Tabelle:
 
@@ -125,7 +126,7 @@ Auf welcher Grundlage zieht der Senat eine Kreuzung, welche durch eine Lichtsign
 
 Wer und welche Kriterien entscheiden, ob ein Kreisverkehr angelegt wird?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17007", "21/17059", "21/17080"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66727"
@@ -45,7 +46,7 @@ Sind Polizeipsychologen beziehungsweise der psychiatrische Dienst bei dem Einsat
 a) Wenn ja, ab welchem Zeitpunkt und wie sah deren weitere Beteiligung aus?
 b) Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Geschehensablauf ist Gegenstand strafrechtlicher Prüfung durch die Staatsanwaltschaft. Hinsichtlich des zeitlichen Ablaufs wird auf die Presseerklärung der Polizei vom 30. April 2019, siehe https://www.presseportal.de/blaulicht/pm/6337/ 4258371, Bezug genommen. Darüber hinausgehende Details sind Gegenstand der laufenden Ermittlungen.
 
@@ -85,13 +86,13 @@ b) Wenn ja, bitte Angaben zu Umfang und Inhalt der Angebote machen und soweit m�
 
 An der Akademie der Polizei (AK) ist das Thema „Umgang mit psychisch kranken Personen“ in der Ausbildung zum Laufbahnabschnitt (LA) I, dem Studium im LA II sowie bei der Fortbildung in unterschiedlichen Ausprägungen Bestandteil der Lehrinhalte:
 
- In der Ausbildung zum LA I ist das Thema „psychische Erkrankungen“ im Fach
+– In der Ausbildung zum LA I ist das Thema „psychische Erkrankungen“ im Fach
 
 Polizeiberufskunde (PBK) mit 30 Unterrichtseinheiten (UE) verankert; in diesen 30 UE sind zwei Tageseminare integriert. Ein Seminar beschäftigt sich mit dem Thema „Umgang mit psychisch Kranken“, im zweiten Seminar zum Thema „Besondere Belastungen“ werden insbesondere die posttraumatischen Belastungsstörungen (PTBS) thematisiert.
 
 Die PBK-Fachlehrer der AK führen die Auszubildenden in 14 UE in die Thematik ein und stellen ein entsprechendes Handlungskonzept vor. Das Tagesseminar „Umgang mit psychisch Kranken“ wird als sogenannte trialogische Veranstaltung durch Fachpersonal der Universitätsklinik Eppendorf (UKE) durchgeführt. An diesem Seminar nehmen auch „Krisenerfahrene“ beziehungsweise Betroffene teil, die bereits Erfahrung mit der Polizei hatten. Diese Art der Ausbildung findet bereits seit etwa zehn Jahren statt.
 
- Seit März 2016 hat der Fachhochschulbereich der AK im Rahmen des Bachelor-
+– Seit März 2016 hat der Fachhochschulbereich der AK im Rahmen des Bachelor-
 
 studienganges (LA II) das Thema „Umgang mit psychisch kranken Menschen“ im Hauptstudium speziell für Beamte der Schutz- und Wasserschutzpolizei in das Curriculum übernommen.
 
@@ -101,23 +102,23 @@ Im Fach Einsatzlehre werden den Studierenden im Modul „Besondere Einsatzlagen 
 
 Im Bereich der Fortbildung an der AK wird in unterschiedlichen Lehrgängen das Erkennen und Einordnen psychischer Auffälligkeiten bei Personen sowie das Erarbeiten taktisch sinnvoller Handlungsoptionen erörtert:
 
- Im „Überleitungslehrgang „A9 (LA I) zu A9 (LA II)“ wird das Thema „Umgang mit
+– Im „Überleitungslehrgang „A9 (LA I) zu A9 (LA II)“ wird das Thema „Umgang mit
 
 psychisch Kranken“ seit dem Jahr 2018 in acht UE beziehungsweise als eintägige Veranstaltung durch eine externe Referentin unterrichtet. Die Teilnehmerinnen und Teilnehmer werden in diesem Lehrgang auch als Multiplikatoren geschult, damit sie ihr Wissen an andere Bedienstete ihrer Dienststellen weitergeben können.
 
 Im Jahr 2018 hat die AK sieben Lehrgänge mit insgesamt 165 Teilnehmerinnen und Teilnehmern durchgeführt. Für das laufende Jahr sind fünf Lehrgänge geplant, für die 110 Teilnehmerinnen und Teilnehmer vorgesehen sind.
 
- Seit Mitte 2018 erfolgt im „Aufbaulehrgang Besonderer Fußstreifendienst (BFS)“
+– Seit Mitte 2018 erfolgt im „Aufbaulehrgang Besonderer Fußstreifendienst (BFS)“
 
 eine thematische Befassung im Umfang von vier UE durch eine Diplom-Psychologin.
 
- Das im Jahr 2018 gegründete und der AK angegliederte Institut für Führungskom-
+– Das im Jahr 2018 gegründete und der AK angegliederte Institut für Führungskom-
 
 petenz (IFK) plant pro Jahr vier Lehrgänge zum Thema „Umgang mit psychisch erkrankten Personen“ mit einer jeweiligen Teilnehmerzahl von zwölf Personen. Die Adressaten des Lehrganges sind Personen aus dem Kreis des Führungspersonals, die wiederum nach erfolgter Beschulung als Multiplikatoren fungieren. Im ersten Halbjahr 2019 hat bisher ein Lehrgang stattgefunden, ein weiterer ist für das erste Halbjahr bereits geplant. Laut Bedarfsliste gibt es derzeit 49 Anmeldungen für diesen Lehrgang.
 
 Zu den Lehrgangsinhalten gehört die Grundlagenvermittlung im Bereich der psychischen Erkrankungen mit den Schwerpunkten Begegnung mit Krisenerfahrenen, Einsatzführung in der Praxis, Kommunikation sowie die Entwicklung von Vorgehensweisen.
 
- Darüber hinaus wird das Thema „Demenz“ als Sonderthema zum Umgang mit
+– Darüber hinaus wird das Thema „Demenz“ als Sonderthema zum Umgang mit
 
 psychisch Erkrankten insbesondere in das Fortbildungsseminar „Besonderer Fußstreifendienst (BFS) – Seminar für Seniorenberater“ integriert. Das vierstündige Modul wird von zwei erfahrenen Referentinnen des Projektes Lotsenbüro des Kirchenkreises Hamburg-West inhaltlich gestaltet. Weitere Lehrgangsthemen, wie der Einsatz von Personenspürhunden, das Betreuungsrecht oder Verletzungsmuster bei Seniorinnen und Senioren ergänzen die Demenzthematik durch ihre Schnittmengen.
 

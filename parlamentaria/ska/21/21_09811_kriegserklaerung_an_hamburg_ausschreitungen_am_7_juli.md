@@ -14,6 +14,7 @@ fragen: 34
 einzelfragen: 44
 antwortbloecke: 29
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9767", "21/9765"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58621"
@@ -51,7 +52,7 @@ Wie viele zugereiste Demonstranten befanden sich nach Einschätzung der Behörde
 
 In wie vielen Fällen lässt sich die Spur dieser Personen in andere deutsche Städte zurückverfolgen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es liegen Erkenntnisse zur Anreise von Personen aus dem Ausland wie aus anderen Regionen der Bundesrepublik Deutschland vor. Die Erkenntnisse zu Zahlen und konkreten Regionen/Städten werden noch ausgewertet. Im Übrigen siehe Vorbemerkung.
 
@@ -478,7 +479,7 @@ Wie viele Fahrzeuge und Geschäfte sind am 7. Juli 2017 angegriffen, vorsätzlic
 
 Wie viele Festnahmen hat die Polizei zwischen am 7. Juli 2017 durchgeführt? Bitte auch den jeweiligen Anlass nennen.
 
-#### Antwort zu Fragen 19 bis 20
+#### Antwort zu Fragen 19 und 20
 
 Siehe Drs. 21/9765.
 
@@ -528,7 +529,7 @@ In wie vielen Fällen konnte den Tatverdächtigen Gewalt gegen Polizeibeamte nac
 
 Wie viele der Festgenommenen hatten die deutsche, wie viele eine ausländische Staatsangehörigkeit? Die Personen bitte jeweils einzeln anhand der Nationalität, des Geschlechts und des Alters nennen.
 
-#### Antwort zu Fragen 25 bis 26
+#### Antwort zu Fragen 25 und 26
 
 Siehe Vorbemerkung.
 

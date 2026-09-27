@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62893"
@@ -72,7 +73,7 @@ Wie viele Briefe wurden in Hamburg verschickt?
 
 Auf welcher rechtlichen Grundlage wurden personenbezogene Daten für den Wahlkampf an die AKP weitergegeben? a. Wie hat die Datenübermittlung stattgefunden? b. Von welchen Stellen wurden personenbezogene Daten übermittelt? c. Welche Daten wurden konkret übermittelt? d. Unter welcher datenschutzrechtlichen Kontrolle beziehungsweise Kontrollinstanz hat die Datenübermittlung stattgefunden? e. Inwiefern wurden die Betroffenen der Datenübermittlung über die Weitergabe ihrer Daten und über die Möglichkeit dieser zu widersprechen informiert?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 

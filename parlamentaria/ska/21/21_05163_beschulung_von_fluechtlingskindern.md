@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2990", "21/2193", "21/1953", "21/4566"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53639"
@@ -79,7 +80,7 @@ Für wie viele Kinder, die von einer IVK in eine Regelklasse gewechselt sind, st
 
 Wie sahen die Zahlen zu 5. im ersten Schulhalbjahr 2015/2016 aus und wie werden sie – soweit absehbar – im neuen Schuljahr 2016/2017 aussehen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Anzahl der Schülerinnen und Schüler, die von einer IVK in eine Regelklasse gewechselt sind, werden seit September 2015 halbjährlich von den Schulen gemeldet und die entsprechenden Förderressourcen (0,67 WAZ je Schülerin beziehungsweise Schüler) zum jeweils kommenden Halbjahr zugewiesen. In den Anlagen sind daher die Erhebungen im Schuljahr 2015/2016 vom September 2015 und vom März 2016 dargestellt. Die Angaben stellen die Anzahl der Übergänger zum jeweiligen Stichtag dar. Bei der Anzahl von zugewanderten Schülerinnen und Schülern sind Schwankungen zum Beispiel aufgrund von Wohnungswechseln möglich, die nicht im stichtagsbezogenen Zahlentableau abgebildet werden können. Die Zahlenwerte werden direkt von den Schulen erhoben und sind nicht qualitätsgesichert. Siehe Anlagen 3 bis 6.
 
@@ -91,7 +92,7 @@ Wie viele jugendliche Flüchtlinge an berufsbildenden Schulen gibt es in Hamburg
 
 Wie viele spezielle Klassen sind für diese Schülergruppe aktuell eingerichtet? Bitte aufschlüsseln nach Schule und die jeweilige Klassengröße angeben.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Da der Status „Flüchtling“ statistisch nicht erfasst wird, können hierzu keine Angaben gemacht werden. Die Aufschlüsselung der Schülerinnen und Schüler nach dem Alter ist nur einmal im Schuljahr bezogen auf die Zahlen der Schuljahresstatistik möglich. Ersatzweise enthält die Anlage 7 die Anzahl aller neu zugewanderten schulpflichtigen Jugendlichen ohne ausreichende Deutschsprachkenntnisse in den hierfür eingerichteten Bildungsgängen der Berufsvorbereitungsschule aufgeschlüsselt nach den staatlichen berufsbildenden Schulen in Hamburg mit Stichtag 30.6.2016.
 

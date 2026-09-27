@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8007", "21/11992", "21/16131"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69854"
@@ -49,7 +50,7 @@ Wie viele Anmeldungen für Vorschulklassen liegen vor? (Bitte einmal gesamt für
 
 Wie viele Schüler/-innen sind in Klasse 1 an staatlichen Hamburger Schulen angemeldet worden? (Bitte wie zu Frage 1. angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlagen 1 und 2. Im Übrigen siehe Vorbemerkung.
 
@@ -69,7 +70,7 @@ Wie viele der angemeldeten Kinder haben Förderbedarfe in LSE? (Bitte wie zu Fra
 
 Wie viele Kinder erhalten sonderpädagogische Förderung nach § 12 HmbSG? (Bitte wie zu Frage 1. angeben.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlagen 1 und 2. Ein sonderpädagogischer Förderbedarf in den Bereichen Sprache, Lernen und emotionale-soziale Entwicklung wird vor Beginn des Vorschulbesuches nicht erhoben.
 

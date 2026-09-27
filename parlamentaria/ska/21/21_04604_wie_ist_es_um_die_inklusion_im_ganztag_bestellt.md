@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 23
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3000", "20/3641"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53011"
@@ -92,7 +93,7 @@ Werden zusätzliche Haushaltsmittel aufgewendet für Kinder mit sonderpädagogis
 
 In welchem Umfang wird für Kinder mit sonderpädagogischem Förderbedarf im Ganztag an Regelschulen zusätzliches Personal eingesetzt? Bitte die Kriterien dafür angeben.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Schülerinnen und Schüler mit sonderpädagogischem Förderbedarf, die eine Ganztagsschule nach Rahmenkonzept besuchen, lösen eine höhere Stellenzuweisung aus als Schülerinnen und Schüler mit sonderpädagogischem Förderbedarf, die eine Halbtagsschule besuchen (siehe Drs. 20/3641). Insofern werden zusätzliche Haushaltsmittel für Kinder mit sonderpädagogischem Förderbedarf im Ganztag in Regelschulen aufgewendet. Ihr Umfang hängt von der Anzahl der Schülerinnen und Schüler mit entsprechendem Förderbedarf ab. Im Schuljahr 2015/2016 werden den staatlichen allgemeinbildenden Schulen insgesamt 938 Lehrerstellen zur zusätzlichen Förderung von Kindern mit sonderpädagogischem Förderbedarf am Vor- und Nachmittag zugewiesen. Die personalwirtschaftliche Besetzung dieser zusätzlichen Stellenzuweisungen obliegt den einzelnen Schulen.
 

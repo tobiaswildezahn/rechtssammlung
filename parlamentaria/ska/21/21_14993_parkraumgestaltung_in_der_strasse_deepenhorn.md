@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64472"
@@ -43,7 +44,7 @@ Wie hoch war die Anzahl der Parkplätze auf dem Parkplatz am Deepenhorn vor Begi
 
 Wie hoch wird die Anzahl der Parkplätze auf dem Parkplatz am Deepenhorn nach Beendigung der Bauarbeiten an der Stadtteilschule Meiendorf sein?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Auf dem Grundstück der Stadtteilschule Meiendorf befanden sich vor der Baumaßnahme 42 Stellplätze. Nach Abschluss der Baumaßnahme werden 39 Stellplätze zur Verfügung stehen.
 

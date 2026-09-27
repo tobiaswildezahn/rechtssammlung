@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48404"
@@ -794,17 +795,17 @@ Nach Angaben des Sprechers der Justizbehörde lassen sich die Gefangenen immer w
 
 Aufgrund der Erkenntnisse der vergangen Jahre gelangen Gegenstände trotz intensiver Kontrollen im Wesentlichen über folgende Wege in die Justizvollzugsanstalten:
 
- mittels Übergabe durch Besucher
+– mittels Übergabe durch Besucher
 
- über Postsendungen
+– über Postsendungen
 
- durch Gefangene nach Vollzugslockerungen
+– durch Gefangene nach Vollzugslockerungen
 
- mittels Mauerüberwürfe durch Dritte
+– mittels Mauerüberwürfe durch Dritte
 
- durch einzelne Beschäftigte
+– durch einzelne Beschäftigte
 
- durch einzelne externe Dienstleister
+– durch einzelne externe Dienstleister
 
 In einem Einzelfall wurde versucht, Gegenstände mittels einer Drohne einzubringen.
 
@@ -816,7 +817,7 @@ Wie wird seitens der Anstaltsleitungen auf derartige Funde reagiert?
 
 Mit welchen Maßnahmen soll das Einschmuggeln unerlaubter Gegenstände in die Haftanstalten künftig reduziert werden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Entdeckte unerlaubte Gegenstände und Substanzen werden sichergestellt. Bei möglicher strafrechtlicher Relevanz werden die Strafverfolgungsbehörden unverzüglich ein-
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56846"
@@ -83,23 +84,23 @@ Gibt es Hinweise, dass viele heutige Abiturienten eigentlich nicht studierfähig
 
 Zum Phänomen des Missbrauchs verschreibungspflichtiger Medikamente zur Leistungssteigerung unter Studierenden sind der UHH unter anderem folgende Beiträge bekannt:
 
- Elke Middendorff, Jonas Poskowsky, Wolfgang Isserstedt: Formen der Stresskom-
+– Elke Middendorff, Jonas Poskowsky, Wolfgang Isserstedt: Formen der Stresskom-
 
 pensation und Leistungssteigerung bei Studierenden, HIS: Forum Hochschule 01/2012. Eine Studie des Deutschen Zentrums für Hochschul- und Wissenschaftsforschung (DZHW) 2010 im Auftrag des Bundesministeriums für Gesundheit.
 
- Elke Middendorff, Jonas Poskowsky und Karsten Becker berichten in einem Artikel
+– Elke Middendorff, Jonas Poskowsky und Karsten Becker berichten in einem Artikel
 
 der „Zeitschrift für Beratung und Studium 1/2006“ über diese und Folgestudien (2014). Eine weite Verbreitung des Hirndopings unter Studierenden konnte nicht bestätigt werden. In der oben genannten Nachbefragung sei kein nennenswerter Anstieg beobachtet worden.
 
- AOK-Fehlzeiten-Report 2013: 5 Prozent aller Erwerbstätigen gaben an, in den
+– AOK-Fehlzeiten-Report 2013: 5 Prozent aller Erwerbstätigen gaben an, in den
 
 letzten zwölf Monaten leistungssteigernde Medikamente ohne medizinische Indikation eingenommen zu haben (aus: DocCheck, 12.6.2014).
 
- Zu ähnlichen Ergebnissen bei Studierenden kam der Soziologe Sebastian Sattler
+– Zu ähnlichen Ergebnissen bei Studierenden kam der Soziologe Sebastian Sattler
 
 von der Universität Bielefeld. Die Studierenden gaben an, die Medikamente von Freunden und Bekannten bekommen zu haben, die diese von Ärzten verschrieben bekommen hatten. Auch Bestellungen im Internet oder der Handel auf dem Schwarzmarkt waren Bezugsquellen (aus DocCheck, 12.6.2014).
 
- Buchveröffentlichung: Prof. Dr. Klaus Lieb, Direktor der Klinik für Psychiatrie und
+– Buchveröffentlichung: Prof. Dr. Klaus Lieb, Direktor der Klinik für Psychiatrie und
 
 Psychotherapie Universitätsmedizin Mainz, „Hirndoping. Warum wir nicht alles schlucken sollten“, Artemis&Winkler 2010.
 

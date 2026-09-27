@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13604", "21/9322", "21/9525"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66604"
@@ -141,7 +142,7 @@ Welche unmittelbaren Maßnahmen haben der Senat beziehungsweise die zuständigen
 
 Welche unmittelbaren Maßnahmen leiten der Senat beziehungsweise die zuständigen Behörden aus der mit den Fragen 2. und 3. erfragten Entwicklung der Einwohnerzahl und der Zahl der gemeldeten Pkws im Alstertal und den Walddörfern konkret für die kommenden fünf Jahre ab?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/9322.
 

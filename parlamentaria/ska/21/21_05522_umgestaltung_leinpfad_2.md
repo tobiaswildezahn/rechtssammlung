@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5346"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54006"
@@ -63,23 +64,23 @@ Die in der Bezirks-Drs. 20-2767 dargestellten Anregungen wurden im RegA EWi abge
 
 Folgende Anregungen können berücksichtigt werden:
 
- Eine komfortablere Ausführung der Aufpflasterungen und Querungsstellen,
+– Eine komfortablere Ausführung der Aufpflasterungen und Querungsstellen,
 
- die Erneuerung des gesamten alsterseitigen Gehweges zwischen Hudtwalcker-
+– die Erneuerung des gesamten alsterseitigen Gehweges zwischen Hudtwalcker-
 
 straße und Goernestraße/Klärchenstraße,
 
- die abschnittsweise Erneuerung des häuserseitigen Gehwegs im gesamten Lein-
+– die abschnittsweise Erneuerung des häuserseitigen Gehwegs im gesamten Lein-
 
 pfad,
 
- die anschließende Überplanung des Knoten Hudtwalkerstraße/Leinpfad im Zusam-
+– die anschließende Überplanung des Knoten Hudtwalkerstraße/Leinpfad im Zusam-
 
 menhang mit dem Bündnis für den Radverkehr,
 
- die Berücksichtigung von circa 25 Fahrradanlehnbügeln,
+– die Berücksichtigung von circa 25 Fahrradanlehnbügeln,
 
- die Durchführung einer Evaluation.
+– die Durchführung einer Evaluation.
 
 Die Mehrzahl der Anregungen (im RegA EWi und per E-Mail) ging vor dem 10. März 2016 ein. Danach ist lediglich eine weitere Bürgeranfrage zum Baubeginn am 1. August 2016 eingegangen.
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 21
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9662", "20/2182", "20/2070", "20/6859", "21/847"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49083"
@@ -100,7 +101,7 @@ Sind die Flächen von der BASFI beziehungsweise dem Senat oder von den Bezirksä
 
 Nach welcher Rechtsgrundlage erfolgen Errichtung und Unterbringung?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Bezirksamtsleitungen sind über das Ergebnis der Prüfungen auf der Grundlage der Bedarfssituation Mitte Juni 2015 am 24.06.2015 informiert worden. Die Umsetzung der Standorte soll schnellstmöglich und zeitnah nach dem Gesetz zum Schutz der öffentlichen Sicherheit und Ordnung (SOG) zur Abwendung der Notlage erfolgen und Obdachlosigkeit zu verhindern. Die Beteiligungsverfahren nach dem Bezirksverwaltungsgesetz sowie die regulären Baugenehmigungsverfahren werden nachgeholt, sofern über die Notmaßnahme hinaus eine längerfristige Nutzung für örU erforderlich und vorgesehen ist. Eine Information der Öffentlichkeit kann erst durchgeführt werden, wenn die Planungen abgeschlossen sind.
 

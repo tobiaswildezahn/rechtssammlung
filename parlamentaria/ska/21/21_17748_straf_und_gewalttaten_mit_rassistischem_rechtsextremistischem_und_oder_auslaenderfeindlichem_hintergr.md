@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 17
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3165", "21/5257", "21/16758"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67350"
@@ -90,7 +91,7 @@ Zu welchen konkreten in Frage 5. abgefragten Taten konnten mutmaßliche Täter b
 a) In welchen Fällen kam es zur Eröffnung eines Strafverfahrens, gegebenenfalls mit welchem Ausgang?
 b) In welchen Fällen wurden die Ermittlungen eingestellt und mit welcher Begründung jeweils? Bitte auflisten.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Polizei wurde eine Straftat im Sinne der Fragestellung zum Nachteil einer Flüchtlingsunterkunft bekannt. Es handelte sich um eine Farbschmiererei (§ 86 StGB). Die Tat ereignete sich im Bezirk Altona in der Straße Sieversstücken, fällt in den Bereich PMK-rechts und wurde als extremistisch eingestuft. Es konnte kein Tatverdächtiger ermittelt werden.
 

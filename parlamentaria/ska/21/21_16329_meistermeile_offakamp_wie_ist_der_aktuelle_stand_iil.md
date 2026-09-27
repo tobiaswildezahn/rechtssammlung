@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16072", "21/16248", "21/4849"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65858"
@@ -47,7 +48,7 @@ In der Drs. 21/16072 schlüsselt der Senat die Kosten für die „Meistermeile�
 
 Sind neben den derzeitigen Besichtigungen und weiteren Werbemaßnahmen auch vertragliche Mieterleichterungen beziehungsweise Mietkürzungen für Neumieter angedacht oder in Vorbereitung?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/16248.
 

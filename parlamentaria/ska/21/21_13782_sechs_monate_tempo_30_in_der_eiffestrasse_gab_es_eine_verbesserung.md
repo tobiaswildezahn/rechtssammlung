@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12765"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63164"
@@ -60,7 +61,7 @@ a) Falls es noch kein Datum für die „Nachhermessungen“ gibt, warum nicht?
 
 Bis wann sollen die Vorher- und Nachhermessungen verglichen werden? Nach welchen Bewertungsparametern werden die Ergebnisse der Messungen verglichen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Das genaue Datum ist noch nicht festgelegt. Im Übrigen siehe Drs. 21/12765 und Antwort zu 1.
 

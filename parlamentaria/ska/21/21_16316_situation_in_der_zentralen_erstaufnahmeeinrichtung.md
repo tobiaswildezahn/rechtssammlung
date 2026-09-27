@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14927"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65845"
@@ -146,17 +147,17 @@ Welche Vorschriften sind in der Hausordnung, die für den Bereich gilt, in der d
 
 Die Hausordnung regelt die Rechte und Pflichten der Bewohnerinnen und Bewohner von Halle 1 und 2 der zentralen Erstaufnahme sowie die Beziehungen zwischen Bewohnerinnen und Bewohnern und Bediensteten der Einrichtung. Im Einzelnen wird
 
-• das Nutzungsverhältnis beschrieben (das heißt die Begründung des Nutzungsverhältnisses durch § 47 AsylG, kein Rechtsanspruch auf die Unterbringung mit einem bestimmten Unterkunftsstandard, Belegung der Zimmer mit zwei Personen gleichen Geschlechts möglich),
+– das Nutzungsverhältnis beschrieben (das heißt die Begründung des Nutzungsverhältnisses durch § 47 AsylG, kein Rechtsanspruch auf die Unterbringung mit einem bestimmten Unterkunftsstandard, Belegung der Zimmer mit zwei Personen gleichen Geschlechts möglich),
 
-• Beginn und Ende der Nutzung (zum Beispiel Abmeldung bei dreitägiger Abwesenheit, Ende bei Auszug durch Verlegung in eine andere Unterkunft und so weiter),
+– Beginn und Ende der Nutzung (zum Beispiel Abmeldung bei dreitägiger Abwesenheit, Ende bei Auszug durch Verlegung in eine andere Unterkunft und so weiter),
 
-• Benutzung der Einrichtungen und der gemeinsamen Anlagen (Ausgabe eines Hausausweises mit Lichtbild, Regelungen zur Verpflegung der Bewohner, Umgang mit Postsendungen, Reinigungspflichten, Müllbeseitigung, Pflicht zur Instandhaltung der überlassenen Ausstattungsgegenstände, Umgang mit Gemeinschaftseinrichtungen),
+– Benutzung der Einrichtungen und der gemeinsamen Anlagen (Ausgabe eines Hausausweises mit Lichtbild, Regelungen zur Verpflegung der Bewohner, Umgang mit Postsendungen, Reinigungspflichten, Müllbeseitigung, Pflicht zur Instandhaltung der überlassenen Ausstattungsgegenstände, Umgang mit Gemeinschaftseinrichtungen),
 
-• Haftung (keine Haftung für verloren gegangene Gegenstände, Aufbewahrungsfristen für hinterlassenes Eigentum, Haftung der Bewohner für verursachte Schäden),
+– Haftung (keine Haftung für verloren gegangene Gegenstände, Aufbewahrungsfristen für hinterlassenes Eigentum, Haftung der Bewohner für verursachte Schäden),
 
-• Verkehrs- Betriebs- und Feuersicherheit (Fluchtwege freihalten, Erlaubnis zur Nutzung bestimmter Elektrokleingeräte, Verbot zur Nutzung bestimmter Elektrogroßgeräte, Kochverbot, Rauchen und so weiter),
+– Verkehrs- Betriebs- und Feuersicherheit (Fluchtwege freihalten, Erlaubnis zur Nutzung bestimmter Elektrokleingeräte, Verbot zur Nutzung bestimmter Elektrogroßgeräte, Kochverbot, Rauchen und so weiter),
 
-• Regeln zur persönlichen Sicherheit und Sozialverträglichkeit (Achtung der Persönlichkeit aller Menschen, Verbot von Alkohol, Waffen und Drogen, gegenseitige Rücksichtnahme, Besuchsregelung, Taschenkontrollen durch den Sicherheitsdienst) und die
+– Regeln zur persönlichen Sicherheit und Sozialverträglichkeit (Achtung der Persönlichkeit aller Menschen, Verbot von Alkohol, Waffen und Drogen, gegenseitige Rücksichtnahme, Besuchsregelung, Taschenkontrollen durch den Sicherheitsdienst) und die
 
 Ausübung des Hausrechts.
 

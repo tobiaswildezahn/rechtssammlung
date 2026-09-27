@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6646"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56815"
@@ -93,7 +94,7 @@ Gegen wie viele weibliche Personen, die der salafistischen Szene Hamburgs zugere
 a) Ist es dabei zu Verurteilungen gekommen?
 b) Wie viele weibliche Personen, die dem Senat als Salafistinnen bekannt sind, sitzen gegenwärtig in Hamburger Justizvollzugsanstalten ein?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Im Vorgangsverwaltungs- und Vorgangsbearbeitungssystem MESTA wird nicht erfasst, ob eine Beschuldigte der salafistischen Szene Hamburgs zuzurechnen ist. Eine Beiziehung aller gegen weibliche Beschuldigte geführter Verfahren und deren händische Auswertung ist in der für die Beantwortung einer Parlamentarischen Anfrage nicht möglich. Aus dem Akteninhalt ergibt sich im Übrigen die Zugehörigkeit zur Salafisten-Szene auch nicht notwendigerweise.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55081"
@@ -75,7 +76,7 @@ Laut Berichten haben Anwohner/-innen ausgesagt, dass es sich um einen männliche
 
 Handelte es sich nach derzeitigem Ermittlungsstand um eine rassistisch und/oder fremdenfeindlich motivierte Tat? Inwiefern handelte es sich um Hasskriminalität?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 3. a.
 

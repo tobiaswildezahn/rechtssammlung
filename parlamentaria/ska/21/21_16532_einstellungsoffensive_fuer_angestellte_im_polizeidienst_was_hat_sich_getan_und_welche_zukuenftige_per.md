@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 9
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66055"
@@ -64,7 +65,7 @@ a) Wie viele Stellen waren pro Ausbildungslehrgang für AiP eingeplant? Bitte na
 b) Wie viele Stellen konnten pro Ausbildungslehrgang tatsächlich besetzt werden? Bitte nach dem Monat der Einstellungen seit dem
 01.01.2017 auflisten.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Im erfragten Zeitraum wurden insgesamt acht Ausbildungslehrgänge eingestellt.
 

@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 25
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/4573", "21/4717", "21/8332", "20/14605"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61182"
@@ -99,7 +100,7 @@ Wie viele Hundeauslaufflächen nach § 8 Absatz 3 HundeG gibt es aktuell in Hamb
 
 Wie viel Quadratmeter umfasst aktuell jeweils die Summe aller Hundeauslaufflächen nach § 8 Absatz 3 HundeG in den Bezirken? Bitte für jeden Bezirk einzeln ausweisen.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Standorte und Größen nach Bezirken sortiert siehe unter http://www.hamburg.de/ hundeauslaufzonen/.
 
@@ -137,7 +138,7 @@ Wie haben sich die bezirklichen finanziellen Mittel für die Bewirtschaftung der
 
 Wie haben sich die finanziellen Mittel der zuständigen Behörden für die Bewirtschaftung der Hundeauslaufflächen seit 2011 im Plan, Ist und Soll entwickelt? Bitte jahresweise und für die einzelnen Behörden aufschlüsseln.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Drs. 21/4717.
 
@@ -149,7 +150,7 @@ Planen der Senat beziehungsweise die zuständigen Behörden und/oder die Bezirks
 
 Laut Drs. 21/8332 aus dem März 2017 planten die Bezirksämter Hamburg-Mitte und Altona damals die Ausweisung neuer Hundeauslaufflächen, allerdings sei zu jener Zeit „die Abstimmung mit der Bezirkspolitik über die konkreten Standorte (…) noch nicht abgeschlossen“. Ist die Abstimmung mit der Bezirkspolitik in den beiden Bezirken mittlerweile abgeschlossen? Wenn ja, mit welchen Ergebnissen jeweils? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Ja. In Hamburg-Mitte ist geplant, die folgenden Flächen einzurichten:
 

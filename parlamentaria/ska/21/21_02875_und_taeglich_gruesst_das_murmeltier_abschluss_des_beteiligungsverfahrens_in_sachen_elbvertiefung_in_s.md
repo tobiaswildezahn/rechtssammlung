@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2134"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51189"
@@ -53,31 +54,31 @@ Ist das erneute Beteiligungsverfahren mit der Anhörung von Verbänden und Verei
 
 Bis zum 23. Dezember 2015 sind Stellungnahmen von folgenden Umweltvereinigungen eingegangen:
 
- NaturFreunde Deutschlands e.V. (Landesverband Niedersachsen)
+– NaturFreunde Deutschlands e.V. (Landesverband Niedersachsen)
 
- LANDESJÄGERSCHAFT NIEDERSACHSEN E.V.
+– LANDESJÄGERSCHAFT NIEDERSACHSEN E.V.
 
- Deutscher Jagdverband e.V. (DJV) und Landesjagdverband Schleswig-Holstein
+– Deutscher Jagdverband e.V. (DJV) und Landesjagdverband Schleswig-Holstein
 
 e.V.
 
- Botanischer Verein zu Hamburg e.V.
+– Botanischer Verein zu Hamburg e.V.
 
- Landesjagd- und Naturschutzverband der Freien und Hansestadt Hamburg e.V.
+– Landesjagd- und Naturschutzverband der Freien und Hansestadt Hamburg e.V.
 
- Naturschutzbund Deutschland Landesverband Hamburg e.V.
+– Naturschutzbund Deutschland Landesverband Hamburg e.V.
 
- Naturschutzverband GÖP – Gesellschaft für ökologische Planung e.V. –
+– Naturschutzverband GÖP – Gesellschaft für ökologische Planung e.V. –
 
- Schutzgemeinschaft Deutscher Wald, Landesverband Hamburg e.V.
+– Schutzgemeinschaft Deutscher Wald, Landesverband Hamburg e.V.
 
- Verein Jordsand zum Schutze der Seevögel und der Natur e.V.
+– Verein Jordsand zum Schutze der Seevögel und der Natur e.V.
 
- Bund für Umwelt und Naturschutz Deutschland e.V. (BUND) (Bundesverband)
+– Bund für Umwelt und Naturschutz Deutschland e.V. (BUND) (Bundesverband)
 
- NABU – Naturschutzbund Deutschland e.V. (Bundesverband)
+– NABU – Naturschutzbund Deutschland e.V. (Bundesverband)
 
- Förderkreis „Rettet die Elbe“ eV
+– Förderkreis „Rettet die Elbe“ eV
 
 b. Worauf zielen die vorgenannten Stellungnahmen jeweils ab (bitte genau darlegen)?
 
@@ -92,25 +93,25 @@ c. Welche inhaltlichen Anpassungen der Unterlagen werden in jeweils welcher Stel
 
 In einigen Stellungnahmen werden umfangreiche Anpassungen der ergänzenden Unterlagen gefordert. Im Einzelnen:
 
- NaturFreunde Deutschlands: keine
+– NaturFreunde Deutschlands: keine
 
- LANDESJÄGERSCHAFT NIEDERSACHSEN E.V.: abweichende Bewertung und
+– LANDESJÄGERSCHAFT NIEDERSACHSEN E.V.: abweichende Bewertung und
 
 erneute Abwägung
 
- Deutscher Jagdverband e.V. (DJV) und Landesjagdverband Schleswig-Holstein
+– Deutscher Jagdverband e.V. (DJV) und Landesjagdverband Schleswig-Holstein
 
 e.V.: gesetzliche Entstehung eines Eigenjagdbezirks und Festlegungen zur Bejagdbarkeit
 
- Botanischer Verein zu Hamburg e.V., Landesjagd- und Naturschutzverband der
+– Botanischer Verein zu Hamburg e.V., Landesjagd- und Naturschutzverband der
 
 Freien und Hansestadt Hamburg e.V., Naturschutzbund Deutschland Landesverband Hamburg e.V., Naturschutzverband GÖP – Gesellschaft für ökologische Planung e.V –., Schutzgemeinschaft Deutscher Wald, Landesverband Hamburg e.V. und Verein Jordsand zum Schutze der Seevögel und der Natur e.V.: wie BUND und NABU Bundesverbände
 
- Bund für Umwelt und Naturschutz Deutschland e.V. (BUND) (Bundesverband) und
+– Bund für Umwelt und Naturschutz Deutschland e.V. (BUND) (Bundesverband) und
 
 NABU Naturschutzbund Deutschland e.V. (Bundesverband): erneute Durchführung der Prognosen der Bundesanstalt für Wasserbau (BAW) zu den hydromorphologischen Veränderungen auf der Basis längerfristiger Modellierungen mit High Performance Computern (HPC), Neubewertung der öffentlichen Interessen an dem Projekt, Prüfung eingriffsmindernder Alternativen beziehungsweise Vorkehrungen, geändertes Vorgehen bei der Beurteilung des ökologischen Zustands des Gewässers und einer etwaigen Gewässerverschlechterung, Neubewertung der Auswirkungen auf gefährdete Pflanzenarten wegen verfehlter Annahme von Systemvariabilität und permanenter Dynamik, räumliche Erstreckung der Untersuchung der Auswirkungen auf die biologische Vielfalt bis Geesthacht, erweiterte beziehungsweise geänderte Betrachtung der Meeressäuger, bestimmter Vogel-, Fisch-, Pflanzen-, Wirbellosen-, Benthos-, Phyto- und Zooplanktonarten und höherer Pflanzen, verbesserte Methoden und andere Parameter und Kriterien bei der Untersuchung der Auswirkungen auf die Fischart Finte, zusätzliche Berücksichtigung des Twielenflether Sands bei der Beurteilung der Überflutungshäufigkeiten im Zusammenhang mit den Auswirkungen auf Brutvögel, auf der Basis vorliegender Daten zu Wasserständen, Geländehöhen und Vegetationseinheiten unter Zugrundelegung von Neststandorten eine Modellierung der Gefährdung von Brutvögeln bedingungsloser Anwendung der Methode nach Lamprecht & Trautner, statt Revierkartierung bessere Verortung von Neststandorten entsprechend dem Ansatz von van de Pol et al. (2010) mit aussagekräftigen Stichproben im Feld, darauf ermittelter Varianzen und Streuungen und der Entwicklung eines entsprechenden Prognosemodells, abweichende rechtliche Bewertung des Erhaltungsziels in Schutzgebieten, Verwendung der anderslautenden Meinungen aus anderen Fachartikeln, grundlegende Untersuchung der (übrigen) Ursachen und deren Einfluss auf die Hydrologie, Zugrundelegung anderer Eingangsparameter bei der Einschätzung des Gefährdungspotenzials, geänderte Kriterien bei der schutzgebietsbezogenen Kohärenzsicherung, zusätzliche Betrachtung einer angeblichen Beeinträchtigung von Seeschwalbenkolonien, wie sie in einem NDR-Fernsehbericht vom 23.11.2015 dargestellt wurde
 
- Förderkreis „Rettet die Elbe“ eV: neue Prognostizierung der hydromorphologischen
+– Förderkreis „Rettet die Elbe“ eV: neue Prognostizierung der hydromorphologischen
 
 Veränderungen nach dem Vorbild an der Schelde, geänderte Methodik bei der Ermittlung und Bewertung der Auswirkungen auf den Sauerstoffhaushalt (Differenzierung helles und dunkles Volumen, Volumenmodell)
 

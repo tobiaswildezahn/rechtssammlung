@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 14
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1736"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52984"
@@ -61,17 +62,17 @@ Was waren die Gründe einer derartigen Festlegung?
 
 Eine automatische Betriebsführung entspricht dem aktuellen technischen Standard bei neu zu bauenden U-Bahn-Systemen. Sie bietet erhebliche Vorteile für die Fahrgäste und für die Verkehrsunternehmen. Einige Beispiele hierfür sind:
 
- Komfortable Bahnsteige (reduzierte Zugluft und Fahrgeräusche),
+– Komfortable Bahnsteige (reduzierte Zugluft und Fahrgeräusche),
 
- Verringerung der Gefährdung durch Stürze in den Gleisbereich,
+– Verringerung der Gefährdung durch Stürze in den Gleisbereich,
 
- komfortable, gleichmäßige Fahrweise,
+– komfortable, gleichmäßige Fahrweise,
 
- Möglichkeit höherer Taktdichten,
+– Möglichkeit höherer Taktdichten,
 
- flexible schnellere Anpassung an Nachfrageschwankungen,
+– flexible schnellere Anpassung an Nachfrageschwankungen,
 
- Reduzierung der Betriebskosten (kein reines Fahrpersonal notwendig, energieop-
+– Reduzierung der Betriebskosten (kein reines Fahrpersonal notwendig, energieop-
 
 timiertes Fahren).
 
@@ -110,7 +111,7 @@ Inwiefern glaubt man seitens des Senats, die Forderung des Koalitionsvertrages n
 
 Hält der Senat es somit für möglich, die Gesamtstrecke der U5 zwischen Osdorfer Born und Bramfeld in 15 Jahren zu finanzieren und zu realisieren? Oder hat man damit in jedem Fall nur eine Umsteigeverbindung gemeint?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Es ist vorgesehen, dass die neue U-Bahn-Linie U5 vom Osten von Bramfeld über die Innenstadt zum Osdorfer Born führen soll. Die HOCHBAHN hat auf der Grundlage der Drs. 21/1736 mit der Planung begonnen. Der Senat setzt sich das Ziel, in 15 Jahren die wichtigsten Streckenabschnitte fertigzustellen. Diese Zielerreichung ist abhängig von den Planungsergebnissen, von der Zustimmung der Bürgerschaft sowie von der Finanzierbarkeit.
 
@@ -156,11 +157,11 @@ Theoretisch kann bereits heute eine Zugfolge von zwei Minuten gefahren werden, a
 
 Für einen stabilen 120-Sekunden-Takt wären verschiedene Investitionen erforderlich, wie zum Beispiel:
 
- Installation zusätzlicher Zwischensignale, um mehr Zugsicherungsabschnitte zu
+– Installation zusätzlicher Zwischensignale, um mehr Zugsicherungsabschnitte zu
 
 schaffen. Damit würde auch eine Anpassung der Stellwerke einhergehen.
 
- Für einen umfangreichen 120-Sekunden-Takt wären außerdem deutlich mehr
+– Für einen umfangreichen 120-Sekunden-Takt wären außerdem deutlich mehr
 
 Fahrzeuge und Fahrer erforderlich. Während auf Teilen des Netzes heute in der Hauptverkehrszeit bis zu drei, maximal vier Züge in zehn Minuten pro Richtung fahren, wären es dann fünf.
 

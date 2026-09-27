@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 14
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/4676", "20/8361", "20/12056", "21/1000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49253"
@@ -69,7 +70,7 @@ Welchen konkreten Sachstand hat die eingeleitete Prüfung der Weisung?
 
 Wann ist mit einer Entscheidung zu rechnen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Das Aktenmaterial liegt der Abteilung für Strafrecht zur Prüfung und Erarbeitung eines Entscheidungsvorschlags vor. Die Prüfung dauert derzeit noch an.
 

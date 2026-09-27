@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13791"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63577"
@@ -58,7 +59,7 @@ An wie vielen Schulen, in welchen Klassenstufen und aus welchem Grund werden die
 
 An wie vielen Schulen und in welchen Klassenstufen werden in diesen vier Wochen Projektwochen zu welchen Themen veranstaltet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

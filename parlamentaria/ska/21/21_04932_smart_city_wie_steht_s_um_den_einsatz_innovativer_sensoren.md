@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 22
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53367"
@@ -96,7 +97,7 @@ Gab es und gibt es Erprobungen der Technik für das Hamburger Stadtgebiet und da
 
 Gab es und gibt es Erprobungen der Technik für das Hamburger Stadtgebiet und das Hamburger Umland speziell für Lkw-Stellplätze? a. Wenn ja, wann und wo?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Test- beziehungsweise Erprobungsphase wird bei der Hamburg Port Authority (HPA) ausschließlich für Lkw und deren Stellplätze durchgeführt.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6665", "19/3103", "19/6000", "20/11402", "21/1323"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57599"
@@ -55,7 +56,7 @@ Was hoch war in den einzelnen Bezirken beziehungsweise Stadtteilen seit Beginn d
 
 In welchem Jahr stand in ganz Hamburg seit Beginn der Erfassung die höchste Anzahl von Straßenbäumen und wie viele waren es damals?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Daten zum Bestand der Hamburger Straßenbäume für das gesamte Hamburger Stadtgebiet werden seit 2008 statistisch ausgewertet.
 

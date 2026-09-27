@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58829"
@@ -690,19 +691,19 @@ Daimler hySOLUTIONS GmbH
 
 Projektpartner:
 
- Hamburg Energie
+– Hamburg Energie
 
 GmbH
 
- Hochbahn
+– Hochbahn
 
- Hamburger Ver-
+– Hamburger Ver-
 
 kehrsverbund
 
 (HVV)
 
- FHH: Behörde für
+– FHH: Behörde für
 
 Stadtentwicklung
 
@@ -896,11 +897,11 @@ hySOLUTIONS GmbH
 
 Projektpartner u.a.:
 
- FHH, Finanzbe-
+– FHH, Finanzbe-
 
 hörde
 
- TU Hamburg Har-
+– TU Hamburg Har-
 
 burg
 

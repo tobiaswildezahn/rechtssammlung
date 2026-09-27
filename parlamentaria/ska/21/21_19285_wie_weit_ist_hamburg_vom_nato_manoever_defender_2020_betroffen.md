@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 30
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68982"
@@ -75,7 +76,7 @@ Werden Soldaten und/oder militärisches Material oder Infrastruktur für das Man
 
 Wird der Senat von der Bundesregierung umfassend und regelmäßig über die geplanten Truppen und Militärtransporte im Rahmen des Manövers „Defender 2020“ informiert? Wenn ja, in welcher Form, wie regelmäßig und mit welchen Daten und Fakten? Wenn nein, hat der Senat sich an die Bundesregierung gewandt um informiert oder regelmäßiger informiert zu werden – oder ist geplant dies zu tun?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

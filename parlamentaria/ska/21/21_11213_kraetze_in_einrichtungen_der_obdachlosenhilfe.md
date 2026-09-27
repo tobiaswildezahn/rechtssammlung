@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8467"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60200"
@@ -44,7 +45,7 @@ Wie viele Fälle sind dem Senat beziehungsweise der zuständigen Behörde von pa
 
 In wie vielen Fällen handelte es sich hierbei um eine Infektion mit Krätze?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Über die Anzahl parasitärer Erkrankungen wird in Bezug auf das Merkmal der Obdachlosigkeit keine Statistik geführt.
 
@@ -110,7 +111,7 @@ Wie hoch sind die Kosten für eine medikamentöse Behandlung von Krätze?
 
 Wie ist die Kostenübernahme der Behandlung von parasitären Erkrankungen in Einrichtungen der Obdachlosenhilfe geregelt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Kosten der medikamentösen Behandlung von Krätze richten sich nach der Art der Behandlung (innerliche systemische Anwendung oder äußerliche lokale Anwendung) und der Behandlungsdauer. Hierüber entscheidet die behandelnde Ärztin beziehungsweise der behandelnde Arzt im konkreten Einzelfall.
 

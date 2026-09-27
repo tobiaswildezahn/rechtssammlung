@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 24
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3342"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52181"
@@ -91,7 +92,7 @@ Wurde das amtierende Präsidium der HAW von der zuständigen Behörde seit der A
 
 Sofern die Berufung abweichend von der Empfehlung des Präsidiums erfolgte: Warum wurde von der Empfehlung abgewichen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Mit dem Präsidium befand sich die zuständige Behörde in einem engen Austausch. Die Ernennung als W3-Professorin erfolgte in Anerkennung der bisherigen Anstellungen und Leistungen der ehemaligen Präsidentin.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12555", "21/4144", "21/6566", "21/1078", "21/6704", "21/4025", "21/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55206"
@@ -65,25 +66,25 @@ d) „Aufgaben im Zusammenhang der Europäischen Charta der Regional- und Minder
 
 Schwerpunkte der Arbeit liegen in der Begleitung der behördlichen wie nicht behördlichen Institutionen, die sich mit der plattdeutschen Sprache in Hamburg befassen. Dazu gehören auf Landesebene:
 
- Die enge Zusammenarbeit mit den zuständigen Stellen der Kultur- und der Schul-
+– Die enge Zusammenarbeit mit den zuständigen Stellen der Kultur- und der Schul-
 
 behörde (Theater, Niederdeutschunterricht an den Hamburger Schulen)
 
- Mitgliedschaft im Plattdüütschroot för Hamborg (Sitzungsteilnahme, Juryteilnah-
+– Mitgliedschaft im Plattdüütschroot för Hamborg (Sitzungsteilnahme, Juryteilnah-
 
 men zu verschiedenen Veranstaltungen, Konzeption und Umsetzung des 1. Hamburger Plattdüütsch Dag, Diskussionen und Entwicklung von Vorschlägen für konkrete Maßnahmen zur Förderung des Niederdeutschen und Berücksichtigung der Artikeln der Charta)
 
 Auf Bundes- und Landesebene:
 
- Mitgliedschaft im beratenden Ausschuss (unter anderem Ländervertretungen, Par-
+– Mitgliedschaft im beratenden Ausschuss (unter anderem Ländervertretungen, Par-
 
 lamentarier) für die Belange der Minderheitensprachen beim Bundesministerium des Inneren (BMI)
 
- Mitgliedschaft der Implementierungskonferenz des BMI (Vertretungen der Minder-
+– Mitgliedschaft der Implementierungskonferenz des BMI (Vertretungen der Minder-
 
 heitensprachen und der Regionalsprache Nieder- oder Plattdeutsch, Mitarbeit bei der Erstellung der Staatenberichte an den Europarat; Koordination in Hamburg, Konzeptionelle Überlegungen zu spezifischen Themen wie zum Beispiel Medien)
 
- Enge Kooperation mit den Vertretungen der norddeutschen Länder
+– Enge Kooperation mit den Vertretungen der norddeutschen Länder
 
 ### Frage 3
 

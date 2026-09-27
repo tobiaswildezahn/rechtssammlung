@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7898"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57317"
@@ -313,15 +314,15 @@ Wie viele Interessenten/-innen befinden sich derzeit auf einer Warteliste für e
 
 Folgende Angaben wurden hierzu von den Krankenhäusern übermittelt:
 
- Kath. Marienkrankenhaus Hamburg: 100
+– Kath. Marienkrankenhaus Hamburg: 100
 
- BG Klinikum Hamburg: Keine Warteliste, Gemäß den mit dem Betriebsrat festge-
+– BG Klinikum Hamburg: Keine Warteliste, Gemäß den mit dem Betriebsrat festge-
 
 legten Vergabekriterien ist der Status eines Auszubildenden ein Kriterium, um eine Wohnung zu erhalten.
 
- Ev. Amalie Sieveking-Krankenhaus: 17
+– Ev. Amalie Sieveking-Krankenhaus: 17
 
- Universitätsklinikum Hamburg-Eppendorf: 60, überwiegend ab Zeitraum 2017 fort-
+– Universitätsklinikum Hamburg-Eppendorf: 60, überwiegend ab Zeitraum 2017 fort-
 
 folgende
 
@@ -333,7 +334,7 @@ Wie viele Wohnheimplätze sind seit dem 1.1.2004 abgebaut worden und was war jew
 
 Wenn Wohnheimplätze abgebaut wurden, was ist mit den Immobilien passiert? Bitte auflisten nach Standort, Zahl der weggefallenen Plätze, Betreiber und Art der Weiterverwendung der Immobilie (zum Beispiel Kündigung des Mietvertrags, Verkauf, Umwandlung in Eigentumswohnungen, Abriss, gegebenenfalls Neubau von Klinik-Gebäuden und deren Nutzung und gegebenenfalls weitere Verwendungsarten).
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Krankenhaus  
 Anzahl der  
@@ -457,16 +458,16 @@ Hat der Senat Erkenntnisse über geplante Personalunterkünfte für Auszubildend
 
 Informationen liegen von folgenden Krankenhäusern vor:
 
- Ev. Krankenhaus Alsterdorf: Ja, in Kooperation mit der Ev. Stiftung Alsterdorf.
+– Ev. Krankenhaus Alsterdorf: Ja, in Kooperation mit der Ev. Stiftung Alsterdorf.
 
- Kath. Kinderkrankenhaus Wilhelmstift: Durch den in 2018 geplanten Abriss des
+– Kath. Kinderkrankenhaus Wilhelmstift: Durch den in 2018 geplanten Abriss des
 
 Gebäudes entfallen vorübergehend alle Personalunterkünfte – nach Fertigstellung des Neubaus sollen im alten Gebäude der Kinder- und Jugendpsychiatrie wieder Personalunterkünfte geschaffen werden.
 
- Das Agaplesion Diakonieklinikum Hamburg ist auf der Suche nach geeigneten
+– Das Agaplesion Diakonieklinikum Hamburg ist auf der Suche nach geeigneten
 
 Immobilien, in denen das Krankenhaus Zimmer/Appartements anmieten kann beziehungsweise sucht nach Kooperationspartnern.
 
- Die Asklepios Kliniken Hamburg GmbH plant, in Kooperation mit zwei Partnern ab
+– Die Asklepios Kliniken Hamburg GmbH plant, in Kooperation mit zwei Partnern ab
 
 2019/2020, 130 Wohnungen für Auszubildende der Hamburger Asklepios Kliniken zur Verfügung zu stellen. Es handelt sich hierbei um öffentlich geförderte Wohnungen für Auszubildende und Studenten, die in direkter Nähe zum S-Bahnhof Rübenkamp gebaut werden sollen. Darüber hinaus sind am Asklepios Westklinikum Hamburg zehn Appartements geplant.

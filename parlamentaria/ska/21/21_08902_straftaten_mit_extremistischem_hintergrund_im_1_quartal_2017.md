@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3165"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57646"
@@ -49,7 +50,7 @@ Welche islamistisch motivierten Straftaten gab es im 1. Quartal 2017? Bitte tabe
 
 Wie viele Tatverdächtige wurden im 1. Quartal 2017 wegen islamistisch motivierter Straftaten festgenommen? Bitte nach Geschlecht und Staatsangehörigkeit aufschlüsseln und die zugrundeliegende Straftat nennen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1. Tatverdächtige wurden nicht festgenommen. Im Übrigen siehe Vorbemerkung.
 
@@ -69,7 +70,7 @@ Welche linksextremistisch motivierten Straftaten gab es im 1. Quartal 2017? Bitt
 
 Wie viele Tatverdächtige wurden im 1. Quartal 2017 wegen linksextremistisch motivierter Straftaten festgenommen? Bitte nach Geschlecht aufschlüsseln und die zugrundeliegende Straftat nennen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage 2. Tatverdächtige wurden nicht festgenommen. Im Übrigen siehe Vorbemerkung.
 
@@ -89,7 +90,7 @@ Welche rechtsextremistisch motivierten Straftaten gab es im 1. Quartal 2017? Bit
 
 Wie viele Tatverdächtige wurden im 1. Quartal 2017 wegen rechtsextremistisch motivierter Straftaten festgenommen? Bitte nach Geschlecht aufschlüsseln und die zugrundeliegende Straftat nennen.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Anlage 3. Tatverdächtige wurden nicht festgenommen. Im Übrigen siehe Vorbemerkung.
 

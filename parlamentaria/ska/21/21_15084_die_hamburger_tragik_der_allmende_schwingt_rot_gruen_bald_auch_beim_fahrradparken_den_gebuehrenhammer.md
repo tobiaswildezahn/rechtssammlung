@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64542"
@@ -47,6 +48,6 @@ Inwiefern und gegebenenfalls mit welchen Ergebnissen haben welche Stellen in Ham
 
 Inwiefern planen aktuell gegebenenfalls welche Stellen in Hamburg die Einführung von Parkgebühren für auf öffentlichem Grund abgestellte Fahrräder?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Einführung von Parkgebühren für Fahrräder auf öffentlichen Wegen wurde nicht geprüft und ist nicht geplant.

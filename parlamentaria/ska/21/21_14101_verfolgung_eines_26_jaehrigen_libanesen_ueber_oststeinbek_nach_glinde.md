@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63499"
@@ -51,7 +52,7 @@ Welchen aufenthaltsrechtlichen Status hat der Libanese?
 
 Hat er ein Asylverfahren durchlaufen? Wenn ja, mit welchem Ergebnis?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Betroffene befindet sich nicht in der Zuständigkeit der Ausländerbehörde Hamburg. Gemäß den Informationen im Ausländerzentralregister ist er im Besitz einer Aufenthaltserlaubnis nach § 28 Absatz 1 Satz 1 Nummer 1 Aufenthaltsgesetz. Ein Asylverfahren hat er den Angaben zufolge nicht durchlaufen.
 
@@ -63,7 +64,7 @@ Unter dem Einfluss welcher Medikamente stand der Libanese zur Tatzeit?
 
 Ist er vorbestraft?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im Hinblick auf das Persönlichkeitsrecht des Betroffenen und die gesetzlichen Wertungen des Bundeszentralregistergesetzes sieht der Senat davon ab, etwaige Ermittlungsverfahren mitzuteilen, die durch einen Freispruch oder eine Einstellung beendet worden sind. Dasselbe gilt für Ermittlungsverfahren, die zu einem Abschluss geführt haben, der entweder nicht in ein Führungszeugnis aufzunehmen oder nach den Tilgungsvorschriften des Bundeszentralregistergesetzes nicht mehr zu berücksichtigen ist. Die Auskunft des Bundeszentralregisters vom 16. August 2018 enthält keine mitteilungsfähigen Eintragungen, es ergeben sich insoweit auch keine Hinweise aus den Eintragungen im Vorgangserfassungs- und Vorgangsverarbeitungssystem MESTA der Staatsanwaltschaft. Im Übrigen siehe Antwort zu 7. bis 9.
 

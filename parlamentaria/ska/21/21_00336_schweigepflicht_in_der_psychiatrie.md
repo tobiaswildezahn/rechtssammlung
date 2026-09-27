@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48473"
@@ -47,19 +48,19 @@ Welche Personen, die in der Psychiatrie tätig sind, unterliegen der Schweigepfl
 
 Alle Berufsgruppen, die im medizinischen, psychosozialen oder psychotherapeutischen Bereichen tätig sind, insbesondere
 
- Ärztinnen und Ärzte,
+– Ärztinnen und Ärzte,
 
- Diplom-Psychologinnen und -Psychologen,
+– Diplom-Psychologinnen und -Psychologen,
 
- Diplom-Sozialpädagoginnen und -pädagogen sowie Diplom-Sozialarbeiterinnen
+– Diplom-Sozialpädagoginnen und -pädagogen sowie Diplom-Sozialarbeiterinnen
 
 und -arbeiter,
 
- Psychologische Psychotherapeutinnen und -therapeuten,
+– Psychologische Psychotherapeutinnen und -therapeuten,
 
- Kinder- und Jugendlichenpsychotherapeutinnen und -therapeuten,
+– Kinder- und Jugendlichenpsychotherapeutinnen und -therapeuten,
 
- weitere Berufsgruppen (Krankenschwestern und -pfleger, Arzthelferinnen und -hel-
+– weitere Berufsgruppen (Krankenschwestern und -pfleger, Arzthelferinnen und -hel-
 
 fer, Sprechstundenhilfen, Studentinnen und Studenten, Diplom-Pädagoginnen und -Pädagogen et cetera)
 

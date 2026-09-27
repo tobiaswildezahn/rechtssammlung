@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 19
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9699"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59606"
@@ -47,7 +48,7 @@ Wer hat wann die Entscheidung über die Durchführung der Sauberkeitskonferenzen
 
 Welche Rolle hat der Senat im Rahmen des Entscheidungsprozesses dabei gespielt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Rahmen der Überlegungen zum Senatskonzept „Hamburg – gepflegt und grün“ (Drs. 21/9699) wurden in der behördenübergreifenden Projektgruppe unter Federführung der Behörde für Umwelt und Energie (BUE) auch Maßnahmen der Öffentlichkeitsarbeit entwickelt. Die Entscheidung für die Durchführung der Sauberkeitskonferenzen in den Bezirken wurde in der Folge Ende April 2017 zwischen der SRH und der BUE getroffen.
 
@@ -121,7 +122,7 @@ Welche Erkenntnisse konnten entsprechend dem Einladungstext der Stadtreinigung H
 
 Welche konkreten Vorschläge und Handlungsbedarfe wurden auf den jeweiligen Sauberkeitskonferenzen jeweils eingebracht, a. wer hat diese eingebracht, b. welche wird die Stadtreinigung Hamburg aufgreifen und in eigene operative Maßnahmen überführen, c. welche der Vorschläge werden zu einer Nachjustierung des Konzeptes „Hamburg – gepflegt und grün“ führen und d. was bedeutet in diesem Kontext der Hinweis, Vorschläge und Handlungsbedarfe „rechtzeitig“ einzubringen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Es wurden Hinweise von Bürgerinnen und Bürgern über lokale Reinigungsbedarfe diskutiert und aufgenommen. Es wurden auch die vermeintlichen und tatsächlichen Ausfälle von Gehwegreinigungen diskutiert und erläutert. Die Informationen zu den Kernleistungsbereichen und Zuständigkeiten der SRH wurden positiv aufgenommen. Außerdem wurden Fragen zu den unterschiedlichen Zuständigkeiten für bauliche Mängel, Winterdienst, Grünpflege und Reinigung beantwortet. Die Vertreterinnen und Vertreter der jeweils zuständigen Organisationen haben die Hinweise der Bürgerinnen und Bürger aufgenommen und Abhilfe im Rahmen ihrer Zuständigkeiten zugesagt.
 

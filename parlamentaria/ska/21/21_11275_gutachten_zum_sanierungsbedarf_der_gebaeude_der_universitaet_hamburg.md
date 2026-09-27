@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 55098
 seiten: 2
 fragen: 7
-einzelfragen: 11
-antwortbloecke: 2
+einzelfragen: 13
+antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10464"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60264"
@@ -66,14 +67,27 @@ Das Gutachten liegt im finalen Entwurf vor. Die Abnahme befindet sich zurzeit in
 ### Frage 7
 
 Nachdem der Senat bislang ausgeführt hatte, das Gutachten nach der Abnahme im Transparenzportal zu veröffentlichen, wurde in der Drs. 21/10464 nur noch die Veröffentlichung einer „Zusammenfassung des Gutachtens“ angekündigt.
-7.1. Wird das vollständige Gutachten auf Basis der Vorgaben des Transparenzgesetzes veröffentlicht? Wenn nein, warum nicht?
-7.2. Inwiefern ist es auf Basis des Transparenzgesetzes zulässig, lediglich die Zusammenfassung eines von einer Behörde in Auftrag gegebenen Gutachtens zu veröffentlichen?
-7.3. Nach welchen Kriterien, in welchem Umfang sowie für welche Zwecke und Adressaten ist geplant, eine Zusammenfassung dieses Gutachtens zu erstellen?
 
-#### Antwort zu Frage 7
+### Frage 7.1
+
+Wird das vollständige Gutachten auf Basis der Vorgaben des Transparenzgesetzes veröffentlicht? Wenn nein, warum nicht?
+
+### Frage 7.2
+
+Inwiefern ist es auf Basis des Transparenzgesetzes zulässig, lediglich die Zusammenfassung eines von einer Behörde in Auftrag gegebenen Gutachtens zu veröffentlichen?
+
+### Frage 7.3
+
+Nach welchen Kriterien, in welchem Umfang sowie für welche Zwecke und Adressaten ist geplant, eine Zusammenfassung dieses Gutachtens zu erstellen?
+
+#### Antwort zu Fragen 7, 7.1, 7.2 und 7.3
 
 Das Gutachten wird entsprechend der gesetzlichen Vorgaben veröffentlicht.
 
-7.4. Ist es zutreffend, dass im Gutachtervertrag zwischen der Freien und Hansestadt Hamburg und rheform folgende Klausel enthalten ist: „Die Auftraggeberin ist nach § 3 Abs. 1 Nr. 8, § 10 Abs. 3 des Hamburgischen Transparenzgesetzes verpflichtet, das Gutachten im Informationsregister zu veröffentlichen und jedermann unentgeltlich zu jedweder freien Nutzung, Weiterverwendung und Verbreitung sowohl für nicht-kommerzielle als auch kommerzielle Zwecke, zu überlassen.“? Hat sich die Rechtsauffassung der Freien und Hansestadt Hamburg beziehungsweise der zuständigen Behörde diesbezüglich geändert?
+### Frage 7.4
+
+Ist es zutreffend, dass im Gutachtervertrag zwischen der Freien und Hansestadt Hamburg und rheform folgende Klausel enthalten ist: „Die Auftraggeberin ist nach § 3 Abs. 1 Nr. 8, § 10 Abs. 3 des Hamburgischen Transparenzgesetzes verpflichtet, das Gutachten im Informationsregister zu veröffentlichen und jedermann unentgeltlich zu jedweder freien Nutzung, Weiterverwendung und Verbreitung sowohl für nicht-kommerzielle als auch kommerzielle Zwecke, zu überlassen.“? Hat sich die Rechtsauffassung der Freien und Hansestadt Hamburg beziehungsweise der zuständigen Behörde diesbezüglich geändert?
+
+#### Antwort zu Frage 7.4
 
 Ja. Die Rechtsauffassung der Freien und Hansestadt Hamburg hat sich diesbezüglich nicht geändert.

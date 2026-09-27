@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53503"
@@ -61,7 +62,7 @@ Wie hoch sind die Gesamtkosten zur Durchführung der Workshops? Wie teilen sie s
 
 Welche Kostenarten entstanden für die einzelnen Workshops?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Neben der Organisation und der Moderation durch die steg Stadterneuerungs- und Stadtentwicklungsgesellschaft Hamburg mbH fallen Kosten für Catering während des Workshops an. Des Weiteren fallen Personalkosten für die Organisation innerhalb der HafenCity Universität und Kosten für die Bereitstellung von Räumen und Technik an.
 

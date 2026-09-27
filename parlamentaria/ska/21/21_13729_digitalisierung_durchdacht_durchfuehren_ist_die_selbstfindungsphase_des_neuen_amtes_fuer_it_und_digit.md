@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 30
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13084", "21/13085", "21/13086", "21/10382", "21/11925", "21/11930", "21/11967", "21/12069", "21/12164"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63108"
@@ -146,15 +147,15 @@ Bei IT-Projekten von mehr als 1 Million Euro Gesamtkosten ist laut „VV IT-Proj
 
 #### Antwort zu Frage 12
 
- Projekt „Hamburg online Beitrag zur barrierefreien Informationstechnologie –
+– Projekt „Hamburg online Beitrag zur barrierefreien Informationstechnologie –
 
 HHBit“ (Senatskanzlei)
 
- Projekt „Erweiterung des Instandhaltungssteuerungs- und Materialbewirtschaf-
+– Projekt „Erweiterung des Instandhaltungssteuerungs- und Materialbewirtschaf-
 
 tungssystems“ (Behörde für Inneres und Sport)
 
- Projekt „Straßenbauvorhaben in Hamburg - DigITAll“ (Landesbetrieb Straßen, Brü-
+– Projekt „Straßenbauvorhaben in Hamburg - DigITAll“ (Landesbetrieb Straßen, Brü-
 
 cken und Gewässer )
 

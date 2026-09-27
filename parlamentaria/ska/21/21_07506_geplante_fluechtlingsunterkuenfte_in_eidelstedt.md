@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5231", "21/1838", "21/5148"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56107"
@@ -43,7 +44,7 @@ Menschen mit welchem insbesondere aufenthaltsrechtlichen Status sollen in den ne
 
 Sieht der Bürgervertrag Eimsbüttel (Drs. 21/5231) aus Sicht des Senats oder der zuständigen Behörde vor, dass die Belegung der Unterkünfte ausschließlich mit Haushalten mit Bleibeperspektive zu erfolgen hat?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bei der Belegung orientiert sich f & w fördern und wohnen AöR (f & w) an den Vorgaben der Drs. 21/1838 und dem darauf basierenden Betriebskonzept:
 
@@ -59,7 +60,7 @@ Im Bürgervertrag für Eimsbüttel heißt es: „Die Belegung der Wohnungen für
 
 In Drs. 21/5148 musste der Senat einräumen, dass seitens der Behörden jeweils nur ein einziges Mal unter Hinweis auf die geplante Unterbringung von Flüchtlingen mit Plakaten auf die Möglichkeit zur Bürgerbeteiligung für die genannten Projekte hingewiesen wurde. Vor diesem Hintergrund: Wird auf dem Bauschild für die Unterkunft am Duvenacker darauf hingewiesen, dass dort eine öffentlich-rechtliche Unterkunft errichtet wird?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Vorhabenbezeichnung „Neubau einer Unterkunft für Flüchtlinge oder Asylbegehrende“ entspricht der Baugenehmigung am Hörgensweg. Die Bauherrin erfüllt mit der Nennung der Vorhabenbezeichnung auf dem Bauschild die Anforderungen gemäß § 14 Absatz 3 Hamburgische Bauordnung (Anforderungen an Baustellen).
 

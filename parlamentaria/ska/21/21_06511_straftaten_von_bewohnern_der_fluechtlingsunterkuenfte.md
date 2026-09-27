@@ -10,12 +10,13 @@ urheber: ["Dirk Nockemann", "Dr. Alexander Wolf"]
 fraktionen: ["AfD"]
 vorgang: 50374
 seiten: 1
-fragen: 0
-einzelfragen: 0
-antwortbloecke: 0
+fragen: 1
+einzelfragen: 1
+antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6212"]
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55043"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/55043/21_06511_straftaten_von_bewohnern_der_fluechtlingsunterkuenfte"
 abgerufen: "2026-09-26"
@@ -27,15 +28,19 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Dirk Nockemann und Dr. Alexander Wolf (AfD) vom 01.11.16 und Antwort des Senats · Drucksache vom 08.11.2016  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/55043) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/55043/21_06511_straftaten_von_bewohnern_der_fluechtlingsunterkuenfte)
 
-## Volltext
-
-Straftaten von Bewohnern der Flüchtlingsunterkünfte
+## Einleitung für die Fragen
 
 In der Drs. 21/6212 ist eine Reihe von Polizeieinsätzen in Flüchtlingsunterkünften dokumentiert.
 
 Vor diesem Hintergrund fragen wir den Senat:
 
+## Fragen und Antworten
+
+### Frage 1
+
 Wie viele aufgeklärte Straftaten (ohne ausländerrechtliche Verstöße) hat es im Jahr 2015 und im ersten Halbjahr 2016 von Bewohnern der Flüchtlingsunterkünfte in Hamburg gegeben? Bitte nach Straftatenobergruppen beziehungsweise Straftaten aufschlüsseln.
+
+#### Antwort zu Frage 1
 
 Statistiken im Sinne der Fragestellung werden bei der Polizei nicht geführt.
 

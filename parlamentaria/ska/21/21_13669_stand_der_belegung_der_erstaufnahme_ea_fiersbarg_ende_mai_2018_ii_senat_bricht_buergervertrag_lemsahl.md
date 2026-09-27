@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 18
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13335", "21/9358", "21/5231", "21/9683", "21/10137", "21/10269", "21/10560", "21/10819", "21/11183", "21/11503", "21/11867", "21/12201", "21/12525", "21/12895", "21/7151", "21/9357"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63037"
@@ -49,7 +50,7 @@ Wie viele Personen aus jeweils welchen Ländern mit schlechter Bleibeperspektive
 
 Wie hoch war der Anteil der Personen mit unsicherer Bleibeperspektive im Vergleich zur Gesamtbewohnerzahl im Mai 2017 und wie hoch ist er im Mai 2018 gewesen? Bitte nach Monaten aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine schematische Unterteilung in „gute“ und „schlechte Bleibeperspektiven“ ist grundsätzlich nicht allein durch Auswertung der aufenthaltsrechtlichen Status der betroffenen Personen möglich. Es ist sowohl bei Geduldeten als auch bei Inhabern einer Aufenthaltsgestattung eine Auswertung der derzeitigen Bleibeperspektive auf Grundlage des gesamten Akteninhaltes erforderlich. Im laufenden Asylverfahren müsste die Bewertung das Bundesamt für Migration und Flüchtlinge (BAMF) vornehmen. Das BAMF hat mitgeteilt, es sei grundsätzlich nicht verpflichtet und auf freiwilliger Grundlage aufgrund der anhaltenden Arbeitsbelastung aktuell nicht in der Lage, Parlamentarische Anfragen aus Hamburg zu beantworten. Darüber hinaus ist es der zuständigen Behörde in der zur Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich, die intensive, händische Auswertung der Akten vorzunehmen.
 
@@ -85,7 +86,7 @@ Inwiefern passt die aktuelle Belegung zu den im Bürgervertrag gemachten Zusagen
 
 Kommt die aktuelle Belegung der EA nicht einem Bruch des Bürgervertrags gleich? Wenn ja, warum? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Vorbemerkung.
 

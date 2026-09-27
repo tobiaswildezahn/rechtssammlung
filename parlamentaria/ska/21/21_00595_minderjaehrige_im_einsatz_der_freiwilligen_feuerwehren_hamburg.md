@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48764"
@@ -51,7 +52,7 @@ Wie viele Einsätze mit wie vielen Fahrzeugen jeweils wurden monatlich seit dem 
 
 Wie viele Fahrzeuge der Freiwilligen Feuerwehren konnten monatlich seit dem 1.1.2014 aufgrund von Mitgliedermangel nicht ausrücken?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Daten im Sinne der Fragestellung werden nicht erhoben. Eine händische Auswertung der circa 30.000 Einsatzunterlagen ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -77,7 +78,7 @@ Aufgrund welcher Rechtsgrundlage konnten Minderjährige unter welchen Voraussetz
 
 In welchem Umfang konnten Minderjährige auch nach 2001 an Einsätzen der Freiwilligen Feuerwehren Hamburg teilnehmen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Teilnahme Minderjähriger an Einsätzen der Freiwilligen Feuerwehr ist rechtlich nicht geregelt, sie dürfen daher nicht an Einsätzen teilnehmen.
 

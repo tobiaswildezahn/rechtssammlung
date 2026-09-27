@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 17
 antwortbloecke: 0
 beantwortet: false
+status: "unbeantwortet"
 zitierte_drucksachen: ["23/4629"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105313"
@@ -27,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Heike Sudmann (Die Linke) vom 17.09.26 und Antwort des Senats · Drucksache vom 17.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105313) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105313/23_05408_mietwucher_endlich_faelle_bearbeitet_wie_ist_der_sachstand_wie_wird_verjaehrung_verhindert_werden_mieter_innen_und_mitarbeiter_innen_im_stich_gelassen)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

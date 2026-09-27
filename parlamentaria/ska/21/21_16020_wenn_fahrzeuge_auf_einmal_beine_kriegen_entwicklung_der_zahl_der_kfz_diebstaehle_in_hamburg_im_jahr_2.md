@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11974"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65516"
@@ -51,7 +52,7 @@ Wie viele Diebstähle von Kfz in Hamburg wurden 2018 erfasst und wie viele diese
 
 Welches waren 2018 die zehn Stadtteile in Hamburg mit den meisten Kfz-Diebstählen? Wie viele Fälle wurden dort jeweils erfasst, wie viele konnten aufgeklärt werden und welchen Wert erreichte die Aufklärungsquote in den betroffenen Stadtteilen jeweils?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für eine bessere Vergleichbarkeit werden die erfragten Daten zu Kraftfahrzeugen für Kraftwagen sowie für Mopeds und Krafträder in gesonderten Tabellen dargestellt.
 

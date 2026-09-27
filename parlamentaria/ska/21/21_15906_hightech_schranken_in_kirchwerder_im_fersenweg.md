@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65405"
@@ -43,7 +44,7 @@ Werden die Autofahrer, die den Fersenweg benutzen, händisch gezählt? Wenn ja, 
 
 Welche Kosten entstehen und wie hoch werden die Kosten für die Zählung der Autofahrer ausfallen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Vorgesehen ist eine durchgängige Zählung von Beginn der Amphibienwanderung bis zum Ende der Vogelbrutzeit, voraussichtlich von Ende Februar bis Juli, durch ein Verkehrserfassungsgerät.
 
@@ -112,7 +113,7 @@ Warum erfolgt die Umsetzung der oben angeführten Maßnahme erst nach zehn Jahre
 
 Hält die Behörde für Umwelt und Energie die Errichtung der Schranken im Fersenweg für sinnvoll?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der behördenverbindliche Pflegeplan wurde 2012 mit einer detaillierten Zeitplanung für die Einzelmaßnahmen über acht Jahre beschlossen. Die Verkehrsberuhigungsmaßnahmen wurden für 2018/2019 eingeplant.
 

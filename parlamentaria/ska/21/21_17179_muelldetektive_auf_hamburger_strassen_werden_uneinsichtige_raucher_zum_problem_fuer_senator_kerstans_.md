@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 23
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66752"
@@ -47,7 +48,7 @@ Wie viele WasteWatcher sind zum Stichtag 1. Mai 2019 in Hamburg im Einsatz?
 
 Wie ist die Zahl der WasteWatcher seit Einführung angewachsen? Bitte Anzahl je Monat.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zum Stichtag 1. Mai 2019 waren 30 WasteWatcher+ im Einsatz. Die Anzahl der WasteWatcher+ ist seit ihrer Einführung unverändert.
 
@@ -107,7 +108,7 @@ Wer ist für den Einzug der Verwarngelder zuständig und wer überprüft die tat
 
 Wie viele Verwarngelder konnten bisher nicht beigebracht werden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Für den Einzug der Verwarngelder ist die SRH zuständig, in 182 Fällen konnten die Verwarngelder bisher nicht beigebracht werden.
 
@@ -135,7 +136,7 @@ Wie hat sich die Anzahl der im öffentlichen Raum vorhandenen Aschenbecher seit 
 
 Welche Arten von Aschenbechern sind dabei in welcher Zahl in Hamburg insgesamt seit Januar 2018 aufgestellt worden? Welche Arten von Aschenbechern waren schon zuvor im Einsatz?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Seit Januar 2018 sind alle durch die SRH neu aufgestellten oder im Zuge der kontinuierlichen Instandsetzung durch einen neuen Papierkorb ersetzten Abfallbehälter von einer Größe über 70 l mit einem Aschenbecher ausgestattet worden. Die genaue Anzahl sowie deren Aufteilung auf die einzelnen Bezirke werden durch die SRH statistisch nicht erfasst. Im öffentlichen Raum mit den Grün- und Erholungsanlagen befinden sich circa 17 500 Papierkörbe. Von diesen Papierkörben sind mehr als 6 000 mit einem Aschenbecher ausgestattet.
 
@@ -167,7 +168,7 @@ In der Presse ist zu lesen, dass die Entfernung der ertappten Zigarettenstummels
 
 Wie weit ist entsprechend durchschnittlich der nächste Aschenbecher vom Raucher entfernt?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Die Aschenbecherdichte wird statistisch nicht erfasst.
 
@@ -181,7 +182,7 @@ Wie groß ist die Akzeptanz zur Nutzung dieser Aschenbecher in Hamburg nach Ansi
 
 Welche konkreten Maßnahmen hat der Senat bislang unternommen, um die Akzeptanz der Aschenbecher bei den Rauchern zu steigern?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Grundsätzlich werden sowohl Papierkörbe als auch Aschenbecher rege genutzt, Erhebungen dazu wurden jedoch nicht durchgeführt.
 

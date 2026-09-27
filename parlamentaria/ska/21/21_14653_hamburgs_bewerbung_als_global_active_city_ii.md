@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14423"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64089"
@@ -46,9 +47,12 @@ Vor diesem Hintergrund frage ich den Senat:
 ### Frage 2
 
 Welche konkreten Pläne zur „bedarfsgerechten, ergänzenden Nutzung des GAC-Logos“ hat die Freie und Hansestadt Hamburg (vergleiche Ziffer 2.2. – Drs. 21/14423)?
-2.1. Werden dafür zusätzliche Mittel – über die bereits verursachten Kosten der GAC-Zertifizierung hinaus – veranschlagt? Falls ja, durch welche Maßnahmen und in welcher Höhe?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Werden dafür zusätzliche Mittel – über die bereits verursachten Kosten der GAC-Zertifizierung hinaus – veranschlagt? Falls ja, durch welche Maßnahmen und in welcher Höhe?
+
+#### Antwort zu Fragen 2 und 2.1
 
 Die Überlegungen der zuständigen Fachbehörde sind noch nicht abgeschlossen.
 

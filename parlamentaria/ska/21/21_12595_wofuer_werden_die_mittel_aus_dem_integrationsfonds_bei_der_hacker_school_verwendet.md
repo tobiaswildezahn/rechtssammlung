@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 18
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12412", "21/7614"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61908"
@@ -115,21 +116,21 @@ Vor dem Hintergrund der bisherigen Erfahrungen reicht ein Vorlauf von vier Woche
 
 Die für die Projektlaufzeit bewilligten Gesamtausgaben verteilen sich wie folgt auf die im Zuwendungsbescheid vorgesehenen Positionen:
 
- Personalkosten: 59,6 Prozent
+– Personalkosten: 59,6 Prozent
 
- Sachkosten: 40,4 Prozent
+– Sachkosten: 40,4 Prozent
 
 Die für Sachkosten bewilligten Ausgaben sind in die folgenden Positionen unterteilt (die Prozentangaben beziehen sich auf die bewilligten Gesamtausgaben):
 
- Betriebs- und Geschäftsausstattung: 10,2 Prozent
+– Betriebs- und Geschäftsausstattung: 10,2 Prozent
 
- Externe Dienstleistungen: 10,2 Prozent
+– Externe Dienstleistungen: 10,2 Prozent
 
- Raumkosten: 10,5 Prozent
+– Raumkosten: 10,5 Prozent
 
- Verwaltungsbedarf: 0,7 Prozent
+– Verwaltungsbedarf: 0,7 Prozent
 
- Öffentlichkeitsarbeit: 8,7 Prozent
+– Öffentlichkeitsarbeit: 8,7 Prozent
 
 Die tatsächliche Verteilung der Ausgaben auf die einzelnen Positionen ist der zuständigen Behörde erst mit der Vorlage des nach Abschluss des Projektes vom Zuwendungsempfänger einzureichenden Verwendungsnachweises bekannt.
 

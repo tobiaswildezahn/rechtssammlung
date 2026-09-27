@@ -14,6 +14,7 @@ fragen: 42
 einzelfragen: 42
 antwortbloecke: 41
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60941"
@@ -371,7 +372,7 @@ Welche Stelle beziehungsweise Abteilung ist innerhalb der HADAG für das Beschwe
 
 Wie hat sich der Personalbestand in der für das Beschwerdemanagement innerhalb der HADAG zuständigen Stelle beziehungsweise Abteilung seit 2011 entwickelt? Bitte jahresweise zum Stichtag 1.1. aufschlüsseln sowie jeweils die Zahl der Stellen, der Beschäftigten, der Vollzeitäquivalente und Vakanzen angeben.
 
-#### Antwort zu Fragen 29 bis 30
+#### Antwort zu Fragen 29 und 30
 
 Aufgrund der geringen Mitarbeiterzahl im Vergleich zu den anderen Verkehrsunternehmen und aufgrund der geringen Beschwerdezahl existiert keine gesonderte Stelle.
 

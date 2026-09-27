@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 20
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66891"
@@ -61,7 +62,7 @@ Welche Vorgaben, Richtlinien und Maßstäbe gelten im Einzelnen für die Bewirtu
 
 Ist die Bewirtung mit einem Imbiss bei verwaltungsinternen Sitzungen und Besprechungen im Regelfall zulässig? Wenn ja, seit wann? Wenn nein, in welchen besonderen Fällen ist eine entsprechende Bewirtung zulässig und möglich?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Antwort zu 1. Im Übrigen siehe Vorbemerkung.
 
@@ -98,7 +99,7 @@ Wurden vom Amt für IT und Digitalisierung seit Anfang 2018 Catering- Dienstleis
 
 Wer hat die Bewirtung jeweils veranlasst und genehmigt? Liegt für die entsprechenden Termine jeweils eine Teilnehmerliste vor?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Anlage.
 

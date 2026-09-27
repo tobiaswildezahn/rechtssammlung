@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6476"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56610"
@@ -63,7 +64,7 @@ Welche Kontakte pflegt der Senat beziehungsweise die Freie und Hansestadt Hambur
 
 Hat der Senat weitere Kontakte zu Vereinen und Initiativen in Deutschland, die sich mit der Vernetzung mit dem Silicon Valley beschäftigen? Wenn ja, welche? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 

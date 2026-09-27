@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 20
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5782", "21/6428", "21/5163"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55035"
@@ -131,7 +132,7 @@ Wie viele Schüler/-innen aus IVK-ESA konnten seit 2014/2015 bis heute (Stand 10
 
 Wie viele Schüler/-innen aus einjährigen und zweijährigen IVK-MSA konnten seit 2014/2015 bis heute (Stand 10.2016) zur Beendigung der Vorbereitungsmaßnahme einen mittleren allgemeinen Schulabschluss erwerben? (Bitte für jedes Schulhalbjahr seit 2014 in absoluten Zahlen und in Prozent in einer Tabelle angeben.)
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Schulabschlüsse werden nicht nach Klassenart differenziert (IVK oder Regelklasse) erfasst.
 

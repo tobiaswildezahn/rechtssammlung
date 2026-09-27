@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59106"
@@ -57,7 +58,7 @@ Welche Korrekturvorgaben existieren für Lehrer an den allgemeinbildenden Schule
 a) Schriftliche Tests und Klassenarbeiten im Unterrichtsfach Deutsch und in den anderen Unterrichtsfächern.
 b) Schriftliche Prüfungsarbeiten im Prüfungsfach Deutsch und in den anderen Prüfungsfächern.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die fachlichen Korrekturvorgaben sind für die Fächer und Lernbereiche im Einzelnen in den Grundsätzen der Leistungsrückmeldung und -bewertung (Kapitel 4 der entsprechenden Rahmenpläne) beschrieben (siehe zum Beispiel http://www.hamburg.de/ contentblob/2373332/b401207a684892a90e2bc1db2e1db448/data/pgw-gym-seki.pdf, Seite 30).
 

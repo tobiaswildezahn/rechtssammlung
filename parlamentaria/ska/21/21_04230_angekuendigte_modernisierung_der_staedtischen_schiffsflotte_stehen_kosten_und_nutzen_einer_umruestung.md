@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4064", "21/1041"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52635"
@@ -49,11 +50,11 @@ Ab dem Jahr 2017 werden Schiffe der HPA, des Landesbetriebs Straßen, Brücken u
 
 Dies Flotte wird voraussichtlich folgende Schiffe des LSBG umfassen:
 
- die Brückenprüfschiffe Brückenkieker (H9031, Baujahr 1980) und J.H.Maack
+– die Brückenprüfschiffe Brückenkieker (H9031, Baujahr 1980) und J.H.Maack
 
 (H9059, Baujahr 1965), Ausmusterung/Ersatzbeschaffung je bis 2023
 
- die Arbeitsschiffe Alster (H8008 Baujahr 2014) und Fleetenkieker (<10 Tonnen,
+– die Arbeitsschiffe Alster (H8008 Baujahr 2014) und Fleetenkieker (<10 Tonnen,
 
 daher ohne Nummer, Baujahr 1965), Ausmusterung/Ersatzbeschaffung Fleetenkieker bis 2019.
 

@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56241"
@@ -57,7 +58,7 @@ Wie wurde mit Personen verfahren, die strafrechtlich nicht in Erscheinung getret
 
 Wie wurde mit erneut angehaltenen Personen verfahren, von denen bereits eine Anhaltemeldung gespeichert ist?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Polizeiliche Maßnahmen gegen Personen erfolgen aufgrund der jeweiligen Bewertung des Einzelfalls und der jeweils relevanten rechtlichen Grundlagen. Auch die Darstellung von Vorgehensweisen bei Fallkonstellation im Sinne der Fragestellungen kann daher nur einzelfallbezogen beantwortet werden.
 

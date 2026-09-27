@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61057"
@@ -49,11 +50,11 @@ Die Polizei entschloss sich, aufgrund der hohen Personenzahl auf der Veranstaltu
 
 Im Laufe des Einsatzes nahm die Polizei insgesamt drei Strafanzeigen zu zwei getrennten Sachverhalten auf:
 
- zwei Anzeigen wegen des Verdachts wechselseitig begangener Körperverletzun-
+– zwei Anzeigen wegen des Verdachts wechselseitig begangener Körperverletzun-
 
 gen sowie eine Anzeige zusätzlich wegen Verdachts der Beleidigung und
 
- eine Anzeige wegen des Verdachts der einfachen Körperverletzung.
+– eine Anzeige wegen des Verdachts der einfachen Körperverletzung.
 
 ### Frage 2
 

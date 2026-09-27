@@ -14,6 +14,7 @@ fragen: 44
 einzelfragen: 59
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4569", "21/15811", "21/15654", "21/12634", "21/13466", "21/11447", "21/13275", "21/14040", "21/14383", "21/608", "21/2501", "21/2108", "21/13464"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65549"
@@ -55,7 +56,7 @@ Wie viele der Wohnungen sind derzeit von Ausländern mit Asyl- beziehungsweise F
 
 Wie viele Ausländer mit Asyl- beziehungsweise Flüchtlingshintergrund und wie viele andere Personen wohnen derzeit in der Anlage?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/15654.
 
@@ -213,7 +214,7 @@ Welche beruflichen oder akademischen Qualifikationen weisen die Ausländer mit A
 
 Wie viele der Ausländer mit Asyl- beziehungsweise Flüchtlingshintergrund, die in der Anlage derzeit wohnen, gehen aktuell einer sozialversicherungspflichtigen Beschäftigung nach?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Siehe Drs. 21/12634 und Drs. 21/11447. Darüber hinaus liegt eine Gesamtauswertung vor, siehe Drs. 21/13275.
 
@@ -259,27 +260,27 @@ Wer kam für die in Frage 24. angefallenen Kosten auf? Bitte für sämtliche Kos
 
 Folgende Reparaturen waren an folgenden Gegenständen nötig:
 
- Türdichtungen der Haustüren
+– Türdichtungen der Haustüren
 
- Ceranfelder
+– Ceranfelder
 
- Fahrstuhlanzeige
+– Fahrstuhlanzeige
 
- Klebefolie für Absperrpfosten
+– Klebefolie für Absperrpfosten
 
- Mülltonnendeckel
+– Mülltonnendeckel
 
- Glasbruch von Türen und Fenstern
+– Glasbruch von Türen und Fenstern
 
- Türschloss Haustür (Beschädigung der Schließanlage)
+– Türschloss Haustür (Beschädigung der Schließanlage)
 
- Türschlösser von Wohnungstüren
+– Türschlösser von Wohnungstüren
 
- Außenbeleuchtung (Pollerlampen)
+– Außenbeleuchtung (Pollerlampen)
 
- Außenwände
+– Außenwände
 
- Mauerkanten an Eingangsbereichen
+– Mauerkanten an Eingangsbereichen
 
 Neuanschaffungen und Reparaturen beispielsweise an Türdichtungen, Fahrstuhlanzeigen und Türschlössern sind in der Erstattungskostenpauschale an die AWO inkludiert und werden nicht extra ausgewiesen. Im Übrigen siehe Drs. 21/14383.
 

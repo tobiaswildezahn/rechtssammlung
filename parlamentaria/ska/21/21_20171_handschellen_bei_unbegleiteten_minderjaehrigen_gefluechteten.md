@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69943"
@@ -109,7 +110,7 @@ Bei wie vielen der Umverteilungen von unbegleiteten, minderjährigen Geflüchtet
 
 Bei wie vielen der Umverteilungen von unbegleiteten, minderjährigen Geflüchteten seit dem 01.01.2018 wurden anderen Formen des unmittelbaren Zwangs eingesetzt? Bitte nach Jahren aufschlüsseln und Kurzsachverhalt angeben, sowie die Gründe ausführen, aus denen die Anwendung unmittelbaren Zwanges erfolgte.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 In keinem Fall.
 

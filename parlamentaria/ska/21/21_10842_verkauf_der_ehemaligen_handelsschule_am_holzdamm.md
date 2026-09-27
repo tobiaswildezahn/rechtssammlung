@@ -11,9 +11,10 @@ fraktionen: ["Die Linke"]
 vorgang: 54691
 seiten: 6
 fragen: 5
-einzelfragen: 18
-antwortbloecke: 5
+einzelfragen: 27
+antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59754"
@@ -53,69 +54,116 @@ Siehe Anlage.
 ### Frage 2
 
 Wie ist der aktuelle Stand des Gebäudekomplexes Holzdamm 5/Rautenbergstraße 1?
-2.1. Um wie viel Fläche respektive Räume handelt es sich bei dem Schulgebäude, der Turnhalle und gegebenenfalls weiteren Teilen des Ensembles?
-2.2. In wessen Zuständigkeit fiel die Verwaltung des Objekts bis zum Auszug der Schule, wer ist seitdem dafür verantwortlich?
-2.3. Welche Nutzungen gibt es gegebenenfalls noch im ehemaligen Schulgebäude beziehungsweise in der angeschlossenen Turnhalle?
-2.4. Wie wird der bauliche Zustand des Gebäudes eingeschätzt? Gibt es entsprechende Untersuchungen oder gar Gutachten und welche Aussagen werden darin zutreffendenfalls gemacht?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Um wie viel Fläche respektive Räume handelt es sich bei dem Schulgebäude, der Turnhalle und gegebenenfalls weiteren Teilen des Ensembles?
+
+### Frage 2.2
+
+In wessen Zuständigkeit fiel die Verwaltung des Objekts bis zum Auszug der Schule, wer ist seitdem dafür verantwortlich?
+
+### Frage 2.3
+
+Welche Nutzungen gibt es gegebenenfalls noch im ehemaligen Schulgebäude beziehungsweise in der angeschlossenen Turnhalle?
+
+### Frage 2.4
+
+Wie wird der bauliche Zustand des Gebäudes eingeschätzt? Gibt es entsprechende Untersuchungen oder gar Gutachten und welche Aussagen werden darin zutreffendenfalls gemacht?
+
+#### Antwort zu Fragen 2, 2.1, 2.2, 2.3 und 2.4
 
 Der Gebäudekomplex mit einer Nettogeschossfläche (NGF) von insgesamt rund 7.030 m² wird vom Sondervermögen Schulimmobilien Hamburg verwaltet. Das Gebäude 1 (rund 6.570 m²) befindet sich in der Zustandsklasse 2 (gut), das Gebäude 2 (rund 460 m²) in Zustandsklasse 4 (ausreichend). Genutzt werden derzeit eine Dienstwohnung, eine Gymnastikhalle (für Vereinssport) und ein Teil der Klassenräume (durch die Volkshochschule).
 
 ### Frage 3
 
 Welche Pläne gibt es seitens der Freien und Hansestadt Hamburg für dieses Grundstück beziehungsweise Gebäudeensemble?
-3.1. Soll die Liegenschaft verkauft beziehungsweise privatisiert werden?
-3.2. Gibt es bereits eine Ausschreibung des Landesbetriebes Immobilienmanagement und Grundvermögen (LIG)? Wenn ja, der Antwort bitte den Ausschreibungstext samt Kaufsumme beifügen. Wenn nein: Wird das betreffende Objekt von anderer Seite angeboten?
-3.3. Sollten die Verkaufsabsichten bestehen oder realisiert werden, inwiefern und durch welche Regelungen beziehungsweise Vereinbarungen wird der Fortbestand des Gebäudeensembles garantiert?
-3.4. Welche alternativen Nutzungsmöglichkeiten für dieses Objekt sind von der Stadt wann, mit welcher Fragestellung und mit welchem Ergebnis geprüft worden?
-3.5. Welche zeitlichen Vorstellungen oder Vorgaben für den weiteren Umgang oder vielleicht auch die Abwicklung dieses städtischen Gebäudes gibt es?
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+Soll die Liegenschaft verkauft beziehungsweise privatisiert werden?
+
+### Frage 3.2
+
+Gibt es bereits eine Ausschreibung des Landesbetriebes Immobilienmanagement und Grundvermögen (LIG)? Wenn ja, der Antwort bitte den Ausschreibungstext samt Kaufsumme beifügen. Wenn nein: Wird das betreffende Objekt von anderer Seite angeboten?
+
+### Frage 3.3
+
+Sollten die Verkaufsabsichten bestehen oder realisiert werden, inwiefern und durch welche Regelungen beziehungsweise Vereinbarungen wird der Fortbestand des Gebäudeensembles garantiert?
+
+### Frage 3.4
+
+Welche alternativen Nutzungsmöglichkeiten für dieses Objekt sind von der Stadt wann, mit welcher Fragestellung und mit welchem Ergebnis geprüft worden?
+
+### Frage 3.5
+
+Welche zeitlichen Vorstellungen oder Vorgaben für den weiteren Umgang oder vielleicht auch die Abwicklung dieses städtischen Gebäudes gibt es?
+
+#### Antwort zu Fragen 3, 3.1, 3.2, 3.3, 3.4 und 3.5
 
 Die Planungen und Überlegungen hierzu sind noch nicht abgeschlossen. Im Übrigen: entfällt.
 
 ### Frage 4
 
 Wie ist es mit dem Denkmalschutz für das Gebäude Holzdamm 5/Rautenbergstraße 1 beschaffen und wie gedenkt die Freie und Hansestadt diesen zu gewährleisten?
-4.1. Seit wann genau steht das Gebäudeensemble mit welcher Begründung unter Denkmalschutz?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+Seit wann genau steht das Gebäudeensemble mit welcher Begründung unter Denkmalschutz?
+
+#### Antwort zu Fragen 4 und 4.1
 
 Das Gebäude Holzdamm 5 und das Gebäudeensemble sind seit dem 1. Mai 2013 insbesondere aus sozialgeschichtlichen Gründen in der Denkmalliste eingetragen, weil es sich um Hamburgs erste Mädchenschule samt Lehrerinnenseminar mit weiterführenden Bildungsmöglichkeiten handelte. Im Übrigen siehe Antwort zu 4.4 und 4.5.
 
-4.2. Was hat die Freie und Hansestadt Hamburg seit der Unter-Schutz- Stellung für den Denkmalschutz am und im Gebäude konkret getan? Bitte die einzelnen Maßnahmen inklusive jeweiligem Finanzaufwand benennen.
+### Frage 4.2
+
+Was hat die Freie und Hansestadt Hamburg seit der Unter-Schutz- Stellung für den Denkmalschutz am und im Gebäude konkret getan? Bitte die einzelnen Maßnahmen inklusive jeweiligem Finanzaufwand benennen.
+
+#### Antwort zu Frage 4.2
 
 Im Bereich Instandsetzungen und Umbauten sind Maßnahmen für die Fassadensanierung (1,3 Millionen Euro), Schaffung eines behindertengerechten Zugangs (rund 300.000 Euro), Umbauten (rund 330.000 Euro), technische Maßnahmen (rund 45.000 Euro) und weitere Instandsetzungen (rund 230.000 Euro) angefallen.
 
-4.3. Welche besondere Verantwortung sieht der Senat für dieses historische, denkmalgeschützte Gebäude und was motiviert ihn, das Ensemble gegebenenfalls trotzdem zu verkaufen?
+### Frage 4.3
+
+Welche besondere Verantwortung sieht der Senat für dieses historische, denkmalgeschützte Gebäude und was motiviert ihn, das Ensemble gegebenenfalls trotzdem zu verkaufen?
+
+#### Antwort zu Frage 4.3
 
 Siehe Antwort zu 3. bis 3.5. Im Übrigen siehe § 1 Denkmalschutzgesetz (DSchG).
 
-4.4. Wie wird der Denkmalschutz in Zukunft gesichert, insbesondere wenn es zu einem Verkauf der Liegenschaft kommen sollte?
+### Frage 4.4
 
-4.5. Ist ein Abriss des Gebäudes für die nähere und die weitere Zukunft ausgeschlossen, vor allem wenn es zu einem Verkauf kommt?
+Wie wird der Denkmalschutz in Zukunft gesichert, insbesondere wenn es zu einem Verkauf der Liegenschaft kommen sollte?
 
-Wenn ja, wie und für welchen Zeitraum wird das garantiert?
+### Frage 4.5
 
-Wenn nein, warum nicht?
+Ist ein Abriss des Gebäudes für die nähere und die weitere Zukunft ausgeschlossen, vor allem wenn es zu einem Verkauf kommt? Wenn ja, wie und für welchen Zeitraum wird das garantiert? Wenn nein, warum nicht?
+
+#### Antwort zu Fragen 4.4 und 4.5
 
 Der Denkmalschutz besteht unabhängig von einem möglichen Verkauf. Das Denkmal unterliegt dauerhaft dem Genehmigungsvorbehalt für Veränderungen nach § 9 DSchG, das heißt, es darf ohne Genehmigung der zuständigen Behörde nicht ganz oder teilweise beseitigt, erheblich ausgebessert oder verändert werden. Sanierung, Umbauten, Konversionen und ähnliches sind grundsätzlich möglich, jedoch genehmigungspflichtig. Im Übrigen siehe Antwort zu 3. bis 3.5.
 
 ### Frage 5
 
 Welche Chancen sieht der Senat, das Gebäude weiterhin für eine öffentliche und gegebenenfalls auch sozial orientierte Nutzung im städtischen Eigentum zu erhalten?
-5.1. Kann sich der Senat vorstellen, in diesem Falle einen demokratischen Beteiligungsprozess hinsichtlich der weiteren Nutzung zu initiieren?
 
-#### Antwort zu Frage 5
+### Frage 5.1
+
+Kann sich der Senat vorstellen, in diesem Falle einen demokratischen Beteiligungsprozess hinsichtlich der weiteren Nutzung zu initiieren?
+
+#### Antwort zu Fragen 5 und 5.1
 
 Siehe Antwort zu 3. bis 3.5.
 
-5.2. Wie stellt sich der Senat zur Kritik unter anderem des Bündnisses Stadtherz, dass mit dem Verkauf städtischer Liegenschaften gerade in Hauptbahnhofnähe die Möglichkeiten der Einflussnahme auf eine soziale Stadt(teil-)entwicklung rückläufig sind und der Stadt schon jetzt Probleme machen (wie zum Beispiel im Falle der vielmonatigen Suche nach Räumlichkeiten für das KIDS)?
+### Frage 5.2
 
-5.3. Teilt der Senat die Auffassung, dass der Erhalt des Gebäudes im städtischen Eigentum und eine öffentlich-soziale Nutzung gerade am Holzdamm beziehungsweise im zunehmend gentrifizierten St. Georg von großer Bedeutung für die weitere soziale Entwicklung des Stadtteils ist?
+Wie stellt sich der Senat zur Kritik unter anderem des Bündnisses Stadtherz, dass mit dem Verkauf städtischer Liegenschaften gerade in Hauptbahnhofnähe die Möglichkeiten der Einflussnahme auf eine soziale Stadt(teil-)entwicklung rückläufig sind und der Stadt schon jetzt Probleme machen (wie zum Beispiel im Falle der vielmonatigen Suche nach Räumlichkeiten für das KIDS)?
 
-Wenn nein, warum nicht?
+### Frage 5.3
+
+Teilt der Senat die Auffassung, dass der Erhalt des Gebäudes im städtischen Eigentum und eine öffentlich-soziale Nutzung gerade am Holzdamm beziehungsweise im zunehmend gentrifizierten St. Georg von großer Bedeutung für die weitere soziale Entwicklung des Stadtteils ist? Wenn nein, warum nicht?
+
+#### Antwort zu Fragen 5.2 und 5.3
 
 Hiermit hat sich der Senat bisher nicht befasst.
 

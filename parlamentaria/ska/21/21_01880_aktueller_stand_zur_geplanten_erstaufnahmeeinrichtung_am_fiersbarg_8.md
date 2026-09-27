@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 45852
 seiten: 3
 fragen: 9
-einzelfragen: 14
-antwortbloecke: 9
+einzelfragen: 20
+antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1407", "21/1716"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50126"
@@ -114,24 +115,36 @@ Welches Sicherheitskonzept hat der Senat für die geplante Unterbringung?
 
 Wie in allen Erstaufnahmeeinrichtungen wird ein Wachdienst rund um die Uhr im Einsatz sein (siehe auch Drs. 21/1407), um bei Konflikten schnell und deeskalierend eingreifen zu können. Des Weiteren werden Sozialarbeiterinnen und Sozialarbeiter für Einzelgespräche zur Verfügung stehen. Im Bedarfsfall wird die örtlich zuständige Polizei vom Unterkunftsmanagement angefordert.
 
-9.1. Wie können Massenschlägereien, wie sie leider immer wieder in anderen großen Erstaufnahmeeinrichtungen derzeit vorkommen, ausgeschlossen beziehungsweise wie kann ein schnelles Eingreifen in derartigen Fällen sichergestellt werden?
+### Frage 9.1
+
+Wie können Massenschlägereien, wie sie leider immer wieder in anderen großen Erstaufnahmeeinrichtungen derzeit vorkommen, ausgeschlossen beziehungsweise wie kann ein schnelles Eingreifen in derartigen Fällen sichergestellt werden?
+
+#### Antwort zu Frage 9.1
 
 Die Polizei bestreift bereits jetzt vorhandene Flüchtlingsunterkünfte sowie auch deren direktes Umfeld im Rahmen des Streifendienstes. Darüber hinaus sind die jeweils örtlich zuständigen Beamten des besonderen Fußstreifendienstes (BFS) regelmäßig in den Unterkünften vor Ort und stehen in ständigem Kontakt mit der Unterkunftsleitung. Zusätzlich sind die Dienstgruppen „Operative Aufgaben“ (DGOA) im Umfeld präsent; im Übrigen setzt die Polizei ihre personellen Ressourcen im Rahmen aktueller Lageerkenntnisse und unter Berücksichtigung der erforderlichen Prioritätensetzungen ein. Insofern werden von der Polizei gegebenenfalls erforderliche weitergehende Maßnahmen anlassbezogen und lageabhängig durchgeführt.
 
-9.2. Wie viele Polizeibeamte sind ständig vor Ort?
+### Frage 9.2
+
+Wie viele Polizeibeamte sind ständig vor Ort?
+
+#### Antwort zu Frage 9.2
 
 Siehe Antwort zu 9.1
 
-9.3. Wie viele einsatzbereite Polizeibeamte sind rund um die Uhr dauerhaft an der zuständigen Polizeiwache stationiert und wie lange benötigen diese gegebenenfalls zur Unterbringung am Fiersbarg?
+### Frage 9.3
+
+Wie viele einsatzbereite Polizeibeamte sind rund um die Uhr dauerhaft an der zuständigen Polizeiwache stationiert und wie lange benötigen diese gegebenenfalls zur Unterbringung am Fiersbarg?
+
+#### Antwort zu Frage 9.3
 
 Das örtlich zuständige Polizeikommissariat (PK) 35 setzt im Vierschichtenwechseldienst je nach Tageszeit und Wochentag zwischen sieben und zwölf Beamtinnen/ Beamte pro Dienstschicht für die Einsatzwahrnehmung im Außendienst ein; darüber hinaus sind noch weitere Mitarbeiterinnen/Mitarbeiter des PK, insbesondere Zivilfahnder, BFS und Mitarbeiter der DGOA, tätig, die aber nicht dauerhaft rund um die Uhr zur Verfügung stehen. Wie in allen Gebieten Hamburgs können diese Kräfte des PK 35 darüber hinaus anlassbezogen durch Kräfte anderer Dienststellen unterstützt werden.
 
 Vom Dienstgebäude des PK 35 bis zum Fiersbarg 8 benötigen die Funkstreifenwagen je nach Tageszeit und Verkehrsaufkommen bei normaler Fahrt durchschnittlich 12 Minuten und unter Inanspruchnahme von Sonder- und Wegerechten durchschnittlich 6 Minuten. Fahrzeiten von anderen Standorten aus können darüber oder darunter liegen.
 
-9.4. Wurde beziehungsweise wird die Zahl der zuständigen Polizeibeamten insgesamt wegen der neuen Flüchtlingsunterkunft erhöht?
+### Frage 9.4
 
-Wenn ja, in welcher Zahl und hält der Senat dies für ausreichend?
+Wurde beziehungsweise wird die Zahl der zuständigen Polizeibeamten insgesamt wegen der neuen Flüchtlingsunterkunft erhöht? Wenn ja, in welcher Zahl und hält der Senat dies für ausreichend? Wenn nein, warum nicht und wie möchte der Senat die Sicherheit in der und um die Einrichtung dauerhaft gewährleisten?
 
-Wenn nein, warum nicht und wie möchte der Senat die Sicherheit in der und um die Einrichtung dauerhaft gewährleisten?
+#### Antwort zu Frage 9.4
 
 Die Personalausstattung des PK 35 wird derzeit als ausreichend betrachtet, siehe Drs. 21/1407, im Übrigen siehe Antworten zu 9. und 9.1.

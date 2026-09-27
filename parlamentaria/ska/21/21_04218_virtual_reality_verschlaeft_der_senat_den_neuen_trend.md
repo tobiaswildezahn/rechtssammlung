@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 24
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/365", "21/3724", "21/3933"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52629"
@@ -65,7 +66,7 @@ Plant der Senat mit Firmen aus Hamburg Projekte zum Thema Virtual Reality in der
 
 Welche zuständigen Stellen in der Hamburger Verwaltung beschäftigen sich mit Virtual Reality?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Antwort zu 1. bis 1. b.
 
@@ -101,7 +102,7 @@ Ist es richtig, dass eine öffentliche Förderung der Branche für Computerspiel
 
 Wie sah die Förderung von Unternehmen in der Computerspieleentwicklung durch die Freie und Hansestadt Hamburg in den Jahren 2008 bis 2016 aus? Welche Beträge in welcher Höhe konnten Firmen unter welchen Bedingungen von der Freien und Hansestadt Hamburg erhalten?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Drs. 21/3724. Die Förderrichtlinie unterstützte die Entwicklung sogenannter Prototyen mit rückzahlbaren Zuschüssen bis zur Höhe von 100.000 Euro. Aktuell stehen Förderprogramme der IFB auch Unternehmen der Computerspielbranche offen (siehe https://www.ifbhh.de).
 

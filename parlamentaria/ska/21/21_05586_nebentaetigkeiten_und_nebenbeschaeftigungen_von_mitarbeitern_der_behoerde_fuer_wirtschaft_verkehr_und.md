@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54081"
@@ -57,7 +58,7 @@ Wie viele Beamte oder Angestellte welcher Besoldungs- oder Entgeltgruppen in wel
 
 Wie viele Beamte oder Angestellte welcher Besoldungs- oder Entgeltgruppen in welchen Ämtern der BWVI haben in den Jahren 2012 und in den ersten beiden Quartalen des Jahres 2016 jeweils welche Nebenbeschäftigung mit wie vielen Wochenstunden ausgeübt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Anlage. Von einer Gliederung in Besoldungs- und Entgeltgruppen wird aus den in der Vorbemerkung genannten Gründen abgesehen.
 

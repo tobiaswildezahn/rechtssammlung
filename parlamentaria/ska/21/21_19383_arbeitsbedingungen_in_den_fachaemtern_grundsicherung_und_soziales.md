@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19174", "21/18076"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69096"
@@ -51,7 +52,7 @@ Wie viele Überstunden wurden 2019 in den Fachämtern Grundsicherung und Soziale
 
 Welche konkreten Gründe gab es für die unter Ziffer 1. fallenden Überstunden? Gab es Langzeiterkrankungen? Wenn ja, wie viele und für jeweils welche konkreten Zeiträume? Bitte pro Monat nach jeweiligem Bezirk beziehungsweise Grund gesondert darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1. Alle Überstunden sind anlässlich der Einführung von PROSOZ angefallen und wurden auf freiwilliger Basis geleistet. Sie waren vorsorglich und im Einvernehmen mit den Personalräten angeordnet. Im Zeitraum vom 1. Januar bis zum
 18. Dezember 2019 waren beziehungsweise sind in den Fachämtern Grundsicherung und Soziales der Bezirksämter Hamburg-Mitte 20, Altona 13, Hamburg-Nord neun,
@@ -74,7 +75,7 @@ Wie hat sich der Personalbestand der Fachämter Grundsicherung und Soziales im J
 
 War in den Fachämtern Grundsicherung und Soziales im Jahre 2019 Fluktuation im Personalbestand zu verzeichnen? Wenn ja, inwiefern und in jeweils welchem prozentualen Umfang? Bitte nach Monat und Bezirk gesondert darstellen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage 3.
 

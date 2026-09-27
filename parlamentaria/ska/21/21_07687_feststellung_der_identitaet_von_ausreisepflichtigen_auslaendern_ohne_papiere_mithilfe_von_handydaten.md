@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7269", "21/4453", "21/4571", "21/7392", "21/7611"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56318"
@@ -55,7 +56,7 @@ Hat die Ausländerbehörde seit Inkrafttreten der Regelung des § 48 Absatz 3a A
 
 Wie beurteilt die zuständige Behörde die durch das Gesetz zur Neubestimmung des Bleiberechts und der Aufenthaltsbeendigung durch Schaffung des § 48 Absatz 3a AufenthG geschaffene Möglichkeit, die Datenträger des betroffenen Ausländers auszuwerten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/7611.
 
@@ -107,6 +108,6 @@ Wie beurteilt der Senat beziehungsweise die zuständige Behörde im Hinblick auf
 
 Sieht der Senat beziehungsweise die zuständige Behörde einen Bedarf, die Regelung des § 48 Absatz 3a AufenthG auch auf Fälle der grundsätzlichen Identitätsfeststellung auch von nicht ausreisepflichtigen Ausländern auszuweiten? Wenn ja, strebt der Senat eine entsprechende Bundesratsinitiative zur Änderung des § 15 AsylVfG an?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Voraussetzung, dass die Auswertung nur durch einen Bediensteten, der die Befähigung zum Richteramt hat, persönlich durchgeführt werden darf, ist vom rechtlichen Standpunkt zum Schutz der grundrechtlich geschützten Privatsphäre der Betroffenen verständlich, auch wenn eine Anwendung in der Praxis damit auf einen kleinen Kreis befugter Personen beschränkt wird. Aktuell besteht nach Auffassung der zuständigen Behörde keine hinreichende Veranlassung, durch eine Bundesratsinitiative auf eine Änderung dieser zuletzt zum 1. August 2015 geänderten Vorschrift hinzuwirken, da sich in fast allen Fällen die Betroffenen freiwillig bereit erklären, die mitgeführten Sachen zur Durchsicht vorzulegen und Einsicht in Telefonregister und Anruflisten der Mobiltelefone zu gewähren (siehe Drs. 21/7611).

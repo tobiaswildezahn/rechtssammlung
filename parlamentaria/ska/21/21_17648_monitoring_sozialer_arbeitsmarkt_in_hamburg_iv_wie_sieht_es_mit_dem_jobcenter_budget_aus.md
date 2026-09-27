@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 20
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/13066", "21/7483"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67242"
@@ -155,7 +156,7 @@ In welcher Höhe sind dem Jobcenter t.a.h. Verpflichtungsermächtigungen (VE) f�
 
 Für welche längerfristigen Maßnahmen sind diese VE bereits gebunden? Bitte die Beträge nach Maßnahmen differenziert sowie die Gesamtquote der gebundenen VE (Stand 15.06.2019) darstellen.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Anlage 5.
 
@@ -167,7 +168,7 @@ Warum sind für die beiden Programme § 16e SGB II n.F. und § 16i SGB II für d
 
 Warum sind insbesondere für § 16i SGB II die Soll-Zahlen mit 600 Stellen in 2019 so niedrig angesetzt? Warum wird die Soll-Zahl nicht erhöht, wenn doch – folgt man den Darstellungen des Jobcenters t.a.h. – das Interesse auch bei privatwirtschaftlichen Arbeitgebern/-innen groß ist? Inwieweit ist es möglich und vorgesehen, 2019 mehr Mittel als geplant für § 16i SGB II auszugeben? Wenn ja, wie viele Mittel für wie viele Stellen?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Mittel zur Umsetzung des Teilhabechancengesetzes wurden nicht zweckgebunden zugeteilt. Mit den zusätzlich vonseiten des Bundes zur Verfügung gestellten Mittel wurde zunächst der Verwaltungsetat auskömmlich beplant, siehe auch Vorbemerkung. Darüber hinaus wurden alle Eingliederungsmittel im Rahmen einer Budgetplanung veranschlagt. Verschiedene Angebote sollen demnach mit den bereitstehenden Mitteln des Bundes ausgebaut werden. Einen Schwerpunkt bildet hierbei der Bereich Qualifizierung. Fehlende adäquate Qualifikation ist ein erhebliches Vermittlungshemnis für Arbeitssuchende auf dem Arbeitsmarkt, siehe Drs. 21/7483.
 

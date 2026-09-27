@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50685"
@@ -118,7 +119,7 @@ Wie bewertet der Senat die Widersprüche, die sich aus den aktuellen Planungen z
 
 Wie bewertet der Senat die Widersprüche, die sich aus den aktuellen Planungen zur verstärkten Nutzung von Flächen außerhalb zusammenhängender Siedlungsbereiche und den Aussagen des Koalitionsvertrages ergeben? (Auszug Koalitionsvertrag: „Innenentwicklung hat Vorrang. Um den galoppierenden Flächenfraß zu stoppen, muss Innenentwicklung Vorrang vor Außenentwicklung haben. Flächenverschwendendes Bauen, Leerstand und Zweckentfremdung müssen wirksam eingedämmt werden. Qualitätsziele für die Innenentwicklung sind Flächeneffizienz, bevorzugte Nutzung von Konversionsflächen, urbane Dichte mit hoher Freiraumqualität.“)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Das Ziel der Innenentwicklung gilt unverändert. Das Leitziel „Mehr Stadt in der Stadt“ gilt. Darüber hinaus wird auch bei Stadtentwicklungsflächen auf eine möglichst flächensparende und den Naturraum schonende Bauweise geachtet.
 

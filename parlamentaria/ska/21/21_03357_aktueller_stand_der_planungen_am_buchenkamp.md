@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2531", "21/2647", "21/254"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51696"
@@ -41,7 +42,7 @@ Wie ist der genaue Sachstand der Prüfungen und Planungen der Einrichtung einer 
 
 Wann wird mit dem Abschluss und der Vorstellung einer konkretisierten Planung gerechnet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Prüfungen und Planungen zur öffentlich-rechtlichen Unterbringung Buchenkamp sind noch nicht abgeschlossen. Zum bisherigen Stand siehe Drs. 21/254, Drs. 21/ 2531 und Drs. 21/2647.
 
@@ -56,12 +57,24 @@ Die Prüfungen hierzu dauern derzeit noch an. Befasst sind das Bezirksamt Wandsb
 ### Frage 4
 
 Gemäß Antwort des Senats in Drs. 21/2531wurde vom Grundeigentümer der Fläche ein Bodengutachten in Auftrag gegeben.
-4.1. Wie lautet die Auftragsbeschreibung für das Gutachten?
-4.2. Wer ist mit der Erstellung des Gutachtens beauftragt?
-4.3. Wann und in welcher Form waren welche Dienststellen mit Fragestellungen im Zusammenhang mit dem Gutachten befasst?
-4.4. Liegt das Gutachten mittlerweile vor? Wenn ja, mit welchen Ergebnissen im Einzelnen? Wenn nein, wann soll das Gutachten fertig gestellt sein?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+Wie lautet die Auftragsbeschreibung für das Gutachten?
+
+### Frage 4.2
+
+Wer ist mit der Erstellung des Gutachtens beauftragt?
+
+### Frage 4.3
+
+Wann und in welcher Form waren welche Dienststellen mit Fragestellungen im Zusammenhang mit dem Gutachten befasst?
+
+### Frage 4.4
+
+Liegt das Gutachten mittlerweile vor? Wenn ja, mit welchen Ergebnissen im Einzelnen? Wenn nein, wann soll das Gutachten fertig gestellt sein?
+
+#### Antwort zu Fragen 4, 4.1, 4.2, 4.3 und 4.4
 
 Die Grundeigentümerin hat das Bodengutachten selbst in Auftrag gegeben. Informationen hierüber liegen bei den zuständigen Behörden nicht vor.
 

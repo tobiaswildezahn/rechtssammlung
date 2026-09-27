@@ -14,6 +14,7 @@ fragen: 26
 einzelfragen: 34
 antwortbloecke: 23
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2435"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50841"
@@ -47,7 +48,7 @@ Wieso wird diese Drucksache erst jetzt vorgelegt, obwohl sich der Wirtschaftsaus
 
 Warum wurde diese Drucksache nicht vor der gemeinsamen Sitzung des Verkehrsausschusses mit dem Wirtschaftsausschuss des Landtags Schleswig-Holstein am 27. November 2015 in Kiel vorgelegt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Federführung bei der Durchführung des Vergabeverfahrens zur Bestellung von Leistungen im Schienenpersonennahverkehr (SPNV) auf der Strecke Hamburg – Westerland im Zeitraum 2016 – 2025 (nachfolgend „Netz West II“ genannt) lag wie bereits bei der Erstausschreibung beim Land Schleswig-Holstein, da die Freie und Hansestadt Hamburg (FHH) einen Anteil von nur 2,46 Prozent an den Verkehrsleistungen hat. Nach Befassung des Wirtschaftsausschusses des Landtags Schleswig- Holstein mit der Vergabeempfehlung war die Widerspruchsfrist der unterlegenen Bieter abzuwarten. Hiernach startete das Umlaufverfahren zur Drucksache (Drs. 21/2435), aus dem der Zeitplan für das Beteiligungsverfahren resultierte. Der nächste erreichbare Termin für die Beteiligung des Verkehrsausschusses war der 17. Dezember 2015.
 
@@ -206,7 +207,7 @@ Wie häufig verspäteten sich Züge von DB in den Jahren 2011 – 2014 in Schles
 
 Wie häufig verspäten sich Züge der anderen SPNV-Betreiber in den Jahren 2011 – 2014 in Schleswig-Holstein?
 
-#### Antwort zu Fragen 20 bis 21
+#### Antwort zu Fragen 20 und 21
 
 Pünktlichkeitsjahreswerte 2011 bis 2014 in Schleswig-Holstein in Prozent:
 
@@ -277,7 +278,7 @@ Wie häufig kam es auf den Strecken von DB in den Jahren 2011 – 2014 in Schles
 
 Wie häufig kam es auf den Strecken der anderen SPNV-Betreiber in den Jahren 2011 – 2014 zu Zugausfällen in Schleswig-Holstein?
 
-#### Antwort zu Fragen 22 bis 23
+#### Antwort zu Fragen 22 und 23
 
 Hierzu liegen seitens der NAH.SH GmbH keine aufbereiteten Daten vor.
 

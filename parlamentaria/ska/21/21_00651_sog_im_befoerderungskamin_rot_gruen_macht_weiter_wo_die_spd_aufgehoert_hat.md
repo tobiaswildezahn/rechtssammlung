@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/520"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48797"
@@ -57,7 +58,7 @@ Wann wurden die Deputationen der jeweiligen Fachbehörden mit den Fällen besch�
 
 In welchem Fall wurde eine Abstimmung nur in Deputationsausschüssen vorgenommen und – in den Fällen, wo dies geschehen ist – wie groß waren die jeweiligen Deputationsausschüsse?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Entfällt.
 

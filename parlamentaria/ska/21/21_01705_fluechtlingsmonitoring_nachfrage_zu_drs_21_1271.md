@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 21
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1271", "21/1002"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49922"
@@ -241,7 +242,7 @@ Wie viele minderjährige unbegleitete Flüchtlinge aus welchen Herkunftsländern
 
 Wie viele minderjährige unbegleitete Flüchtlinge gab es mit Stand Ende Juli 2015 in Hamburg? Wo und in welcher Form werden sie jeweils betreut?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/1271.
 

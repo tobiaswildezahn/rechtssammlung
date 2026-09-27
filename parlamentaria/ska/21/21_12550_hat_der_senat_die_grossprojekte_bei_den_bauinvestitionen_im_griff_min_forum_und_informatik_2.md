@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12014", "21/12513"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61853"
@@ -83,7 +84,7 @@ Mit welchen genauen Regelungen und zeitlichen Fristen wurde der Zustimmungsvorbe
 
 Welche weiteren aufschiebenden Bedingungen wurden im Mietvertrag festgelegt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antwort zu 1.
 

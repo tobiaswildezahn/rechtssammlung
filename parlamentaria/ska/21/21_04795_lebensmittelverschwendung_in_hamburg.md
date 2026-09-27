@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7267"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53226"
@@ -107,13 +108,13 @@ Wirtschaft (PGW) bearbeitet. Hinweise für die Unterrichtsgestaltung finden sich
 
 In allen Beratungen und Fortbildungen des LI zur Ernährungsbildung wird auf diesen Aspekt hingewiesen. So erhalten Lehrkräfte Hinweise auf folgende Kampagnen:
 
- Verbraucherkompetenz
+– Verbraucherkompetenz
 
 Ziel ist, die Vermittlung von Alltagskompetenzen zu verbessern, beispielsweise im
 
 Umgang mit Information und Medien oder Rechten und Pflichten als Verbraucher (siehe http://www.bmel.de/DE/Ernaehrung/ernaehrung_node.html).
 
- Lebensmittelverschwendung: „Zu gut für die Tonne!“
+– Lebensmittelverschwendung: „Zu gut für die Tonne!“
 
 Tipps  
 zur  
@@ -123,7 +124,7 @@ Lebensmittelabfällen
 (siehe  
 https://www.zugutfuerdietonne.de/).
 
- Wertschätzung und Verschwendung von Lebensmitteln – Ein Modul zur nachhalti-
+– Wertschätzung und Verschwendung von Lebensmitteln – Ein Modul zur nachhalti-
 
 gen Ernährungsbildung
 
@@ -131,7 +132,7 @@ Das Modul soll eine Hilfestellung für Lehrkräfte sein. Es bietet didaktische O
 
 tierung und ausgearbeitete Lernmodule für den Unterricht insbesondere für Sek I und II. Die Arbeitsmaterialien für Schülerinnen und Schüler sind als Anregungen zur Weiterentwicklung, Anpassung und Veränderung zu verstehen (siehe http://www.evb-online.de/schule_materialien_wertschaetzung_uebersicht.php).
 
- Kampagne für Ernährungssicherheit
+– Kampagne für Ernährungssicherheit
 
 Die Kampagne macht deutlich, dass unsere Ernährungsgewohnheiten Auswirkungen auf das Leben anderer haben (siehe http://www.brot-fuer-die-welt.de/ index.php?id=63).
 

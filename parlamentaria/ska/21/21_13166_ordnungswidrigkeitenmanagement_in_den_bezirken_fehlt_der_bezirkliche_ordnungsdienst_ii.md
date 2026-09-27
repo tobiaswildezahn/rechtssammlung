@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5708"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62505"
@@ -46,7 +47,7 @@ c) aktuell?
 
 Wie viele der VZÄ waren beziehungsweise sind zu den Stichtagen gemäß Frage 1. tatsächlich besetzt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 

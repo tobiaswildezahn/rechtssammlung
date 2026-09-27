@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 16
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2455", "21/2459"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51393"
@@ -172,7 +173,7 @@ Wie viele der bereits ausgegebenen Eingliederungsleistungen sind für den Bereic
 
 Wie hoch ist der Anteil am Gesamtbudget für den Bereich U25 für das Jahr 2016 und im Vergleich zu 2015? Bitte in Summe und Prozent angeben.
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Grundsätzlich stehen alle Maßnahmen allen erwerbsfähigen Leistungsberechtigten zur Verfügung. Eine Differenzierung der Ausgaben auf das Aufgabenfeld U25 ist in der für die Beantwortung von Parlamentarischen Anfragen zur Verfügung stehenden Zeit nicht möglich. Es müssten alle Arbeitsmarktdienstleistungen überprüft werden.
 

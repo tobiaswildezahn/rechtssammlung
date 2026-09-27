@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 21
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17560", "21/5039"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67683"
@@ -66,7 +67,7 @@ zwischen
 Türkischer Freundschaftsverband) und der „Furkan-Gemeinschaft“ in  
 Hamburg?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Dazu liegen dem Senat keine Erkenntnisse vor.
 

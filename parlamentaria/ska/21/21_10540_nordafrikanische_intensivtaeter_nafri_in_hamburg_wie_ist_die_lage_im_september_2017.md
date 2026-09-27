@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5624"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59421"
@@ -43,7 +44,7 @@ Wie viele Tatverdächtige, die dem oben beschriebenen Täterprofil des „Nafri�
 
 Gegen wie viele Personen, die dem obigen Täterprofil entsprechen, ist bereits in der Vergangenheit strafrechtlich ermittelt worden? Bitte ebenfalls den zugrunde liegenden Sachverhalt, die Staatsangehörigkeit, das Alter, den aufenthaltsrechtlichen Status, die Unterbringung sowie den erstmaligen Einreisezeitpunkt nach Deutschland der Beschuldigten nennen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Statistische Daten im Sinne der Fragestellung werden bei der Polizei nicht erhoben.
 

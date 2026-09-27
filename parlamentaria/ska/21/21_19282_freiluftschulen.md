@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 33
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68979"
@@ -216,7 +217,7 @@ Liegen die Ergebnisse aus der Brandverhütungsschau, die bereits Anfang des Jahr
 
 War auch die Frage der Wirtschaftlichkeit ein Grund für die Schließung der oberen Etage und der Reduzierung des Angebotes in Wohldorf auf Tagesklassen? Wenn ja, inwiefern?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Während die Brandverhütungsschau in 2015 zu keinen Beanstandungen der Rettungswegsituation geführt hat, ist in der Brandverhütungsschau im Februar 2019 für einen der zwei Übernachtungstrakte im Obergeschoss des Hauptgebäudes ein zweiter baulicher Rettungsweg für notwendig befunden worden. Weiterhin ist auch eine notwendige Ertüchtigung der Alarmierungsanlagen festgestellt worden. Unabhängig davon hatte der für den Betrieb verantwortliche Hamburger Schulverein von 1875 e.V. bereits im 4. Quartal 2018 aufgrund unwirtschaftlicher Nachfragen das dortige Übernachtungsangebot eingestellt und auf das Angebot von Tagesaufenthalten reduziert. Vor diesem Hintergrund wurden Maßnahmenplanungen mit Kostenberechnungen für eine brandschutztechnische Ertüchtigung bislang nicht durchgeführt.
 
@@ -236,7 +237,7 @@ Wenn ja, welche Unterstützungsmöglichkeiten sieht der Senat finanziell, um all
 
 Wie hoch waren die Zuwendungen der BSB zum Betrieb der Hamburger Freiluftschulen in den letzten fünf Jahren? Bitte nach Jahr und Freiluftschule aufführen.
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Die für Bildung zuständige Behörde unterstützt den Hamburger Schulverein von 1875 e.V. als Träger der FLS mit einer Zuwendung von 270 000 Euro p.a. Darüber hinaus sind Sonderzuwendungen in den Jahren 2018 in Höhe von 90 000 Euro für die Erneuerung der Heizungsanlage in der FLS Wittenbergen und 2019 in Höhe von 194 000 Euro für die Sanierung der Abwassergruben in der FLS Fischbeker Heide sowie in Höhe von 15 000 Euro für sonstige betriebliche Aufwendungen gewährt worden. Im Übrigen siehe Vorbemerkung.
 

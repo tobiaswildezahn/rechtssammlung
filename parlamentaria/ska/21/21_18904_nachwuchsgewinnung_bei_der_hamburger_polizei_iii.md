@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1669", "21/10790"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68604"
@@ -50,7 +51,7 @@ Wie hoch ist das Verhältnis zwischen Einstellungen und eingegangenen Bewerbunge
 
 Wie hat sich dieses Verhältnis gegenüber 2018 jährlich prozentual entwickelt? Bitte auch nach Schutz-, Kriminal- und Wasserschutzpolizei sowie Laufbahngruppen aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Oktober und April erfolgen Einstellungen ausschließlich für den LA II. Zu den erfragten Bewerber- und Einstellungszahlen siehe nachstehende Tabelle:
 
@@ -220,11 +221,11 @@ Die erfolgreichen Werbemaßnahmen der letzten Jahre werden weitergeführt. Die a
 
 - Zielgruppenorientierte Werbung mit crossmedialem Verweis im Internet unter
 
- #STARKE FRAUEN
+– #STARKE FRAUEN
 
 im Zusammenhang mit der Veröffentlichung Unterstützung durch Senatorin Frau Dr. Leonhard (BASFI).
 
- #HANGOVER
+– #HANGOVER
 
 Motivverbreitung unter anderem mit der Veröffentlichung eines weiteren Großflächenbanners.
 

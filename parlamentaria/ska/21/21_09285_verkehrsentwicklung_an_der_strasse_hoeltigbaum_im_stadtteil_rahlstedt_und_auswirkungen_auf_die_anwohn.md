@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 21
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1915", "21/7748"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58044"
@@ -69,7 +70,7 @@ Wurde bei der Aufbringung der neuen Asphaltschicht die Deckschicht SMA 8 mit ein
 
 Welche Grundlagen haben dazu geführt, dass an der Straße Höltigbaum teilweise Lärmschutzwände gebaut wurden (bitte pro Bauvorhaben aufführen)?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Aufgrund der Kürze der für die Beantwortung der Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit wurde lediglich der Bereich Höltigbaum ab Einmündung Sieker Landstraße bis zur Überquerung Bahnstrecke betrachtet.
 

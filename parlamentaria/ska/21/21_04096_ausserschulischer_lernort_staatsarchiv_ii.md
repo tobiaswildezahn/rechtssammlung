@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 7
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2934", "21/3858"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52484"
@@ -45,7 +46,7 @@ Wird der archivpädagogische Dienst im Staatsarchiv über den 31. Juli 2016 hina
 
 Wenn ja: a. Geschieht dies weiterhin befristet oder ist die Einrichtung nun dauerhaft gesichert? b. Wann wurde diese Entscheidung getroffen? c. Aus welchen Gründen hat die zuständige Behörde offenbar ihre Einschätzung geändert? d. Welchen Umfang soll die Einrichtung künftig haben?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Anfang Februar 2016 wurde entschieden, die bisherige Praxis des befristeten Einsatzes im gleichen Umfang beizubehalten, zunächst bis zum 31. Juli 2018.
 

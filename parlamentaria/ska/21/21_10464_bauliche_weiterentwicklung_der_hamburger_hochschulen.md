@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7924", "21/10040", "21/10128"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59338"
@@ -64,11 +65,11 @@ Welche Gebäude der staatlichen Universitäten und Hochschulen in Hamburg sind d
 
 #### Antwort zu Frage 3
 
- gesperrt,
+– gesperrt,
 
- teilweise gesperrt und
+– teilweise gesperrt und
 
- stark baufällig
+– stark baufällig
 
 sowie nach der Höhe der derzeitigen Sanierungsbedarfe und Priorisierung der Sanierungsbedürftigkeit auflisten.
 

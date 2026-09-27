@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/6214"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50907"
@@ -53,53 +54,53 @@ An der Universität Hamburg gibt es in der Abteilung Internationales (Präsidial
 
 a) Leistungen des Teams ERASMUS+ (Abteilung Internationales):
 
-  
+–  
 Kontaktstelle zur nationalen Agentur (DAAD), das heißt Beantragung der Mittel, Erstellung der Abschlussberichte und anderes  
-  
+–  
 Auszahlungen der Zuschüsse  
-  
+–  
 Vertragsmanagement  
-  
+–  
 Überwachung der Programmumsetzung
 
 b) Leistungen des ERASMUS+-Büros der Fakultät:
 
-  
+–  
 Beratung der Studierenden  
-  
+–  
 Auswahl der Studierenden  
-  
+–  
 Betreuung der Incomings (ERASMUS+-Gaststudierende)  
-  
+–  
 Auswahl der ERASMUS+-Partnerhochschulen und Kontaktpflege mit diesen
 
 Technische Universität Hamburg-Harburg (TUHH):
 
 Leistungen des International Office zu ERASMUS+:
 
-  
+–  
 Vertragsmanagement mit den europäischen Partnern  
-  
+–  
 Beantragung der EU-Charter
 
- Beantragung der Mobilitätsmittel, haushaltstechnische Abwicklung, Auszahlungen, Berichtswesen  Beratung der TUHH-Studierenden bezüglich der bestehenden Möglichkeiten, Rechte und Pflichten von ERASMUS+-Studierenden, -praktikanten, -personal  Durchführung des Antragsverfahrens an der TUHH, Anmeldung der Studierenden an den Partnerhochschulen, Überwachung der und gegebenenfalls Unterstützung der Bewerbung dort  Betreuung der Mobilitäten, Überwachung der rechtlichen Bestimmungen wie zum Beispiel Verwendung der vorgeschriebenen Dokumente wie learning agreements inklusive Anerkennungsnachweis  Beratung und Betreuung der Incoming-Studierenden (Bewerbungsprozess, Orientierungsprogramm, Wohnraumunterstützung)  Datenaustausch mit Nationaler Agentur (DAAD) und EU  Beratung von Professoren bei Antragstellung für ERASMUS+-Projekte
+– Beantragung der Mobilitätsmittel, haushaltstechnische Abwicklung, Auszahlungen, Berichtswesen – Beratung der TUHH-Studierenden bezüglich der bestehenden Möglichkeiten, Rechte und Pflichten von ERASMUS+-Studierenden, -praktikanten, -personal – Durchführung des Antragsverfahrens an der TUHH, Anmeldung der Studierenden an den Partnerhochschulen, Überwachung der und gegebenenfalls Unterstützung der Bewerbung dort – Betreuung der Mobilitäten, Überwachung der rechtlichen Bestimmungen wie zum Beispiel Verwendung der vorgeschriebenen Dokumente wie learning agreements inklusive Anerkennungsnachweis – Beratung und Betreuung der Incoming-Studierenden (Bewerbungsprozess, Orientierungsprogramm, Wohnraumunterstützung) – Datenaustausch mit Nationaler Agentur (DAAD) und EU – Beratung von Professoren bei Antragstellung für ERASMUS+-Projekte
 
 Hafen City Universität (HCU):
 
 Leistungen des International Office zu ERASMUS+:
 
-  
+–  
 allgemeine Informationsveranstaltungen zu Auslandsoptionen  
-  
+–  
 fachliche Detailberatung von perspektivischen Outgoings zur Kurswahl et  
 cetera  
-  
+–  
 Vorab-Anerkennung von Leistungen im Learning Agreement  
-  
+–  
 Auswahl der Stipendiaten und Auszahlung der Stipendien  
-  
+–  
 Betreuung der Outgoings während ihres Auslandsaufenthaltes  
-  
+–  
 Beratung und Betreuung der Incomings
 
 Hochschule für Angewandte Wissenschaften Hamburg (HAW Hamburg):
@@ -112,15 +113,15 @@ Hochschule für bildende Künste (HFBK):
 
 Leistungen des International Office zu ERASMUS+:
 
- Beratung für Incomings und Outgoings dreimal wöchentlich sowie nach Vereinbarung  Welcome-Veranstaltung für ERASMUS+-Austauschstudierende sowie interna-
+– Beratung für Incomings und Outgoings dreimal wöchentlich sowie nach Vereinbarung – Welcome-Veranstaltung für ERASMUS+-Austauschstudierende sowie interna-
 
-tionale Studierende der HFBK zu Beginn des Wintersemesters: Vorstellung des Studiensystems sowie Führung durch die Hochschule und ihre Werkstätten; Begrüßungsmappen mit Informationen zum Studium, zu Sprachkursen, Anmeldung und Krankenversicherung, Sozial- und Jobberatung des Studierendenwerkes, zum Öffentlichen Nahverkehr, Hochschulsport, kostenfreie Sprachkursangebote et cetera  Integration: Vermittlung von Kontakten zwischen Incomings und zukünftigen
+tionale Studierende der HFBK zu Beginn des Wintersemesters: Vorstellung des Studiensystems sowie Führung durch die Hochschule und ihre Werkstätten; Begrüßungsmappen mit Informationen zum Studium, zu Sprachkursen, Anmeldung und Krankenversicherung, Sozial- und Jobberatung des Studierendenwerkes, zum Öffentlichen Nahverkehr, Hochschulsport, kostenfreie Sprachkursangebote et cetera – Integration: Vermittlung von Kontakten zwischen Incomings und zukünftigen
 
 Outgoings (auf Wunsch); internationale HFBK-Studierende als Ansprechpartner im International Office; Tutoren/-innen der Klassen kümmern sich um Unterstützung und Integration der Incomings; Sprach-Tandem-Angebot auf der HFBK-Website
 
- Sprachkurse: Sprachkurse für Incomings und Outgoings werden bei erfolgrei-
+– Sprachkurse: Sprachkurse für Incomings und Outgoings werden bei erfolgrei-
 
-cher Teilnahme gefördert; Hinweise auf kostenlose Deutsch-Angebote  Ausstellung: im Sommersemester organisiert die HFBK für ERASMUS+-
+cher Teilnahme gefördert; Hinweise auf kostenlose Deutsch-Angebote – Ausstellung: im Sommersemester organisiert die HFBK für ERASMUS+-
 
 Incomings eine Ausstellung, in der die während des Studienaufenthalts an der HFBK entstandenen Arbeiten in der Hochschule präsentiert werden.
 
@@ -158,19 +159,19 @@ UHH:
 
 Es werden zentral und dezentral viele Werbe- und Informationsveranstaltungen durchgeführt, ebenso werden die Lehrenden über die Vorteile des Programms informiert, damit diese direkt in ihren Veranstaltungen ihre Studierenden darauf aufmerksam machen. Werbemaßnahmen sind dabei unter anderem folgende:
 
-  
+–  
 Durchführung eines internationalen Tages (jährlich)  
-  
+–  
 mobile Infothek (kleiner Stand an verschiedenen Orten des Campus)  
-  
+–  
 monatliche Informationsveranstaltung im Campuscenter  
-  
+–  
 Informationsveranstaltungen an den Fakultäten (besonders vor der Bewer-
 
 bungsphase)  
-  
+–  
 Verbreitung von Printmaterialien, die für die UHH erstellt wurden  
-  
+–  
 Pflege einer ERASMUS-Website
 
 TUHH:
@@ -187,17 +188,17 @@ Die Informationen zum ERASMUS+-Programm werden für alle Studierenden, Lehrenden
 
 HFBK:
 
-  
+–  
 Informationsveranstaltungen  
-  
+–  
 Aushänge  
-  
+–  
 E-Mailing, Veröffentlichungen im Print-Newsletter und detaillierte Informationen auf der HFBK-Webseite  
-  
+–  
 Kommunikation über Tutoren/-innen der Professoren/-innen  
-  
+–  
 Einzelberatungen  
-  
+–  
 Gruppenberatungen
 
 HfMT:
@@ -220,13 +221,13 @@ Was besagt die Lissabon-Konvention zur Anerkennung ausländischer Studienleistun
 
 Das Lissaboner Übereinkommen über die Anerkennung von Qualifikationen im Hochschulbereich in der europäischen Region trifft zur Anerkennung ausländischer Studienleistungen die folgenden Kernaussagen:
 
- Eine in einem Vertragsstaat erteilte Hochschulzugangsberechtigung wird in allen Vertragsstaaten anerkannt, sofern nicht ein wesentlicher Unterschied besteht zwischen den allgemeinen Zulassungsvoraussetzungen in dem Vertragsstaat, in dem die Qualifikation erworben wurde, und denen in dem Vertragsstaat, in der die Anerkennung angestrebt wird (Artikel IV.1 des Übereinkommens).  In einem Vertragsstaat erbrachte Studienleistungen werden in allen Vertrags-
+– Eine in einem Vertragsstaat erteilte Hochschulzugangsberechtigung wird in allen Vertragsstaaten anerkannt, sofern nicht ein wesentlicher Unterschied besteht zwischen den allgemeinen Zulassungsvoraussetzungen in dem Vertragsstaat, in dem die Qualifikation erworben wurde, und denen in dem Vertragsstaat, in der die Anerkennung angestrebt wird (Artikel IV.1 des Übereinkommens). – In einem Vertragsstaat erbrachte Studienleistungen werden in allen Vertrags-
 
-staaten anerkannt. Studienleistung bezeichnet dabei einen beurteilten Teil eines Studiums, der einen erheblichen Erwerb von Fähigkeiten und Kenntnissen mit sich bringt und für den ein Nachweis ausgestellt wurde (Abschnitt V des Übereinkommens).  Artikel V.1 und VI.1 des Übereinkommens verankern die vorgesehene
+staaten anerkannt. Studienleistung bezeichnet dabei einen beurteilten Teil eines Studiums, der einen erheblichen Erwerb von Fähigkeiten und Kenntnissen mit sich bringt und für den ein Nachweis ausgestellt wurde (Abschnitt V des Übereinkommens). – Artikel V.1 und VI.1 des Übereinkommens verankern die vorgesehene
 
 Umkehr der „Beweislast“: demnach müssen nicht mehr die Studierenden die
 
-Gleichwertigkeit der von ihnen erbrachten Studien- und Prüfungsleistungen beziehungsweise Studien- und berufspraktischen Zeiten belegen, sondern die aufnehmenden Hochschulen im Hinblick auf die Lernergebnisse wesentliche Unterschiede in den erworbenen Kenntnissen und Fähigkeiten nachweisen, sofern sie einen Antrag ablehnen wollen.  In einem Vertragsstaat vergebene Hochschulabschlüsse werden in allen Ver-
+Gleichwertigkeit der von ihnen erbrachten Studien- und Prüfungsleistungen beziehungsweise Studien- und berufspraktischen Zeiten belegen, sondern die aufnehmenden Hochschulen im Hinblick auf die Lernergebnisse wesentliche Unterschiede in den erworbenen Kenntnissen und Fähigkeiten nachweisen, sofern sie einen Antrag ablehnen wollen. – In einem Vertragsstaat vergebene Hochschulabschlüsse werden in allen Ver-
 
 tragsstaaten anerkannt (Abschnitt VI des Übereinkommens).
 
@@ -276,9 +277,9 @@ HAW Hamburg:
 
 Da die Anerkennung der im Ausland erbrachten Studienleistungen erst seit der Einführung des neuen Erasmus+-Programms abgefragt wird, können bisher nur für das Wintersemester 2014/2015 und für das Sommersemester 2015 Daten genannt werden. Dies sind vorläufige Ergebnisse, da einige Mobilitäten noch nicht abgeschlossen wurden und die Anerkennung somit noch nicht nachgewiesen werden konnte.
 
- Wintersemester 2014/2015 (vorläufiger Stand): nicht anerkannte Studienleis-
+– Wintersemester 2014/2015 (vorläufiger Stand): nicht anerkannte Studienleis-
 
-tungen aus dem Ausland: circa 31 Prozent (da teilweise Belegung von Sprachkursen/fachfremden Kursen, die nicht für den Studiengang an der HAW anerkannt werden können).  Sommersemester 2015 (vorläufiger Stand): nicht anerkannte Studienleistun-
+tungen aus dem Ausland: circa 31 Prozent (da teilweise Belegung von Sprachkursen/fachfremden Kursen, die nicht für den Studiengang an der HAW anerkannt werden können). – Sommersemester 2015 (vorläufiger Stand): nicht anerkannte Studienleistun-
 
 gen aus dem Ausland: circa 41 Prozent (da teilweise Belegung von Sprachkursen/fachfremden Kursen, die nicht für den Studiengang an der HAW anerkannt werden können).
 
@@ -322,21 +323,21 @@ Die HAW Hamburg unternimmt die folgenden Anstrengungen, um die Anerkennung von S
 
 a) Auf operativer Ebene:
 
- Informationsveranstaltungen für Lehrende/Department-Leitungen zum Aner-
+– Informationsveranstaltungen für Lehrende/Department-Leitungen zum Aner-
 
-kennungsverfahren und eventuellen Neuerungen,  Frühzeitige Information der Studierenden zum Anerkennungsverfahren, gut
+kennungsverfahren und eventuellen Neuerungen, – Frühzeitige Information der Studierenden zum Anerkennungsverfahren, gut
 
-geeigneten Mobilitätsfenstern und ähnlichem in den einzelnen Departments,  zum Teil individuelle Beratungsgespräche für die Studierenden,  in der Fakultät Wirtschaft & Soziales wird derzeit ein Anerkennungsleitfaden
+geeigneten Mobilitätsfenstern und ähnlichem in den einzelnen Departments, – zum Teil individuelle Beratungsgespräche für die Studierenden, – in der Fakultät Wirtschaft & Soziales wird derzeit ein Anerkennungsleitfaden
 
 mit Zuständigkeiten und Verfahren der Anerkennung der während des Auslandssemesters erbrachten Leistungen erarbeitet.
 
 b) Auf strategischer Ebene:
 
- Aufbau von Joint Programmes mit anderen Hochschulen, die eine einver-
+– Aufbau von Joint Programmes mit anderen Hochschulen, die eine einver-
 
-nehmlichen Anerkennung der Leistungen garantieren  Ausbau von Doppelabschluss-Programmen, die ebenfalls dazu beitragen,
+nehmlichen Anerkennung der Leistungen garantieren – Ausbau von Doppelabschluss-Programmen, die ebenfalls dazu beitragen,
 
-Leistungen vollumfänglich anzuerkennen  Langfristige Fokussierung von Kooperationen auf denjenigen ausländischen
+Leistungen vollumfänglich anzuerkennen – Langfristige Fokussierung von Kooperationen auf denjenigen ausländischen
 
 Hochschulen langfristig zu unterstützen, deren Studienprogramme den Inhalten an der HAW ähnlich sind und bei denen bereits erfolgreiche vollständige Anerkennungen vorgenommen werden konnten
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 15
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4273", "21/1328", "21/5356", "21/3000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54048"
@@ -119,7 +120,7 @@ Wie viele Anträge auf Klassenwiederholungen gab es zum Schuljahreswechsel 2016/
 
 Wie viele dieser Anträge wurden bewilligt? Bitte nach Schulform, Klassenstufe und Gründen (gesundheitliche/schulische Gründe) differenzieren. Wie viele Anträge wurden nicht bewilligt und wie viele wurden noch nicht beschieden?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Zur Anzahl der Anträge nach Schulform und Klassenstufe siehe Drs. 21/5356. Antrags- und Entscheidungsgründe wurden im Schuljahr 2015/2016 erstmalig elektronisch erfasst. Die Auswertung der Antragsgründe ist noch nicht abgeschlossen.
 
@@ -151,7 +152,7 @@ Wie viele Schülerinnen und Schüler wechselten nach erfolgreichem Abschluss der
 
 In wie vielen der vorgenannten Fälle lag bei Einschulung auf der Stadtteilschule eine beziehungsweise keine Gymnasialempfehlung vor?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Anlage 3.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 13
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16198"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67630"
@@ -77,6 +78,6 @@ Wie viele Schüler/-innen wechselten im Schuljahr 2018/2019 von Klasse 10 an STS
 
 Wie viele Schüler/-innen haben Ende der Klasse 10 im Schuljahr 2018/ 2019 den erforderlichen Notendurchschnitt für einen Übergang in die gymnasiale Oberstufe an Gymnasium und STS nicht erreicht und mussten deshalb die Klasse wiederholen? a. Wie viele dieser Schüler/-innen hatten eine Gymnasialempfehlung? (Bitte die Angaben zu Frage 1. und Frage 1. a. in einer Excel- Tabelle zusammenführen und die Zahlen der Schüler/-innen absolut und in Prozent angeben sowie die Zahl der Schüler/-innen anführen.) b. Fanden am Ende der Klasse 10 Wechsel vom Gymnasium an die STS statt? Wenn ja, bitte die absoluten Zahlen der abgebenden Gymnasien und jeweils aufnehmenden STS mit Sozialindex, Bezirk und Gesamtzahl der Schülerinnen in einer Excel-Tabelle angeben.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 1. sowie Drs. 21/16198.

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6784", "20/14101", "20/13532"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51793"
@@ -55,7 +56,7 @@ Wie ist der aktuelle Sachstand hinsichtlich der Sanierung/Modernisierung des Tra
 
 Sofern es bei den oben genannten Maßnahmen Verzögerungen gegenüber der Planung gibt: Was sind jeweils die Gründe dafür?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Sanierungsarbeiten sind im Zeit- und Kostenplan. Abgeschlossen sind Schadstoffsanierungs-, Demontage- und Abbrucharbeiten. Ausstehend und im Bau befindlich sind die Installation der Gebäudetechnik, Montagearbeiten der Fassade und weitere Gewerke. Nach derzeitigem Terminplan werden die Arbeiten im März 2017 abgeschlossen sein.
 

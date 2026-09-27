@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 18
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62146"
@@ -176,7 +177,7 @@ Sind die Schulen in den Bezirken Eimsbüttel und Hamburg-Nord auf die durch den 
 
 Sind in den Bezirken Eimsbüttel und Hamburg-Nord Standorte beziehungsweise Erweiterungen für Grundschulen, Gymnasien und Stadtteilschulen geplant? a. Wenn ja, zu welchem Zeitpunkt, an welchen Orten und mit welcher Aufnahmekapazität? b. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Ja. Im Übrigen siehe Antwort zu 3. sowie die Vorbemerkung.
 
@@ -196,7 +197,7 @@ Gibt es Überlegungen, bei der Berechnung des Schulweges nicht nur die Entfernun
 
 Welche Berücksichtigung findet bei der Entscheidung der Schulzuweisung das Profil der weiterführenden Schule?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Sorgeberechtigte haben die freie Schulwahl, das bedeutet, dass seitens der für Bildung zuständigen Behörde keine Zumutbarkeitserwägungen im Hinblick auf den Schulweg zu Wunschschulen angestellt werden. Erst nach erfolgloser Prüfung der angegebenen Erst-, Zweit- und Drittwünsche wird ein Kind gemäß der Vorgaben des HmbSG einer Schule in zumutbarer Entfernung zum Wohnort zugewiesen. Hierbei ist die Zumutbarkeit eine Abwägung im Einzelfall, zu der auch die Erreichbarkeit der Schule mit dem öffentlichen Personennahverkehr beitragen kann. Im Übrigen siehe Antwort zu 6. bis 6. b.
 
@@ -208,7 +209,7 @@ Wie viele Fälle von Widersprüchen von Eltern bezüglich der Schulzuweisung hat
 
 Wie viele Fälle von Widersprüchen bezüglich der Schulzuweisung hat es insgesamt in den letzten zwei Schuljahren (2016/2017, 2017/2018) in Eimsbüttel beziehungsweise Nord gegeben (bitte separat für Grundschulen, Gymnasien und Stadtteilschulen aufführen)? In wie vielen Fällen wurde dem Widerspruch stattgegeben?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Eine Auflistung der in der Vergangenheit eingegangenen Widersprüche nach dem Stadtteil, in dem die Schülerinnen und Schüler wohnen, ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Die Rechtsabteilung der für Bildung zuständigen Behörde erfasst die Widersprüche nach Kalenderjahren und dem Bezirk, in dem die streitgegenständliche Schule liegt:
 

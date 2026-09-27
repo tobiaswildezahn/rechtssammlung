@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10047", "20/14485"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62660"
@@ -47,7 +48,7 @@ Wie sind der genaue Sachstand und der Zeitplan für die Umsetzung der Maßnahmen
 
 Liegt inzwischen eine fertige Realisierungsplanung vor? Wenn ja, wann wird sie in den zuständigen Gremien der Bezirksversammlung vorgestellt? Wenn nein, wann wird damit gerechnet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Realisierungsplanung ist noch nicht fertig gestellt. Nach abgeschlossener Prüfung der Flächenverfügbarkeit einzelner, für Bike+Ride-Anlagen geeigneter Flächen an der U-Bahn-Haltestelle Buchenkamp können die Planungen im Laufe dieses Jahres abgeschlossen und den zuständigen Gremien vorgestellt werden. Nach derzeitigem Stand ist die Fertigstellung für das Jahr 2019 vorgesehen. Im Übrigen siehe Drs. 21/10047.
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 26
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53387"
@@ -100,25 +101,25 @@ Wie viele Auswahlgespräche wurden mit Bewerbern geführt? Welche Personen und z
 
 Es wurden Auswahlgespräche mit fünf Bewerberinnen und Bewerbern geführt. Die Auswahlkommission setzte sich wie folgt zusammen:
 
- der für Wirtschaft und Innovation zuständige Staatsrat der Behörde für Wirtschaft,
+– der für Wirtschaft und Innovation zuständige Staatsrat der Behörde für Wirtschaft,
 
 Verkehr und Innovation
 
- die Leiterin des Personalamts
+– die Leiterin des Personalamts
 
- eine Referentin des Personalamts, Abteilung Führungskräftegewinnung und -ent-
+– eine Referentin des Personalamts, Abteilung Führungskräftegewinnung und -ent-
 
 wicklung
 
- der Leiter des Amtes Zentralverwaltung der Behörde für Wirtschaft, Verkehr und
+– der Leiter des Amtes Zentralverwaltung der Behörde für Wirtschaft, Verkehr und
 
 Innovation
 
- die Leiterin des Referats Personal- und Personalentwicklung der Behörde für Wirt-
+– die Leiterin des Referats Personal- und Personalentwicklung der Behörde für Wirt-
 
 schaft, Verkehr und Innovation
 
- der stellvertretende Vorsitzende des Personalrats der Behörde für Wirtschaft, Ver-
+– der stellvertretende Vorsitzende des Personalrats der Behörde für Wirtschaft, Ver-
 
 kehr und Innovation (beratend)
 
@@ -164,8 +165,8 @@ Siehe Antwort zu 8.
 
 FHH Ausschreibung
 
-• Die Abteilung Innovation, Technologie und Cluster ist zuständig für die Stärkung des Innovationsstandortes Hamburg sowie die Verbesserung der Standortqualität und die Förderung der wirtschaftlichen Strukturentwicklung im produzierenden Gewerbe. Eine besondere Bedeutung kommt dabei den Clustern zu. Sie werden zu Kompetenzclustern mit internationaler Ausstrahlung ausgebaut, um ein überdurchschnittliches Wirtschafts- und Beschäftigungswachstum zu erzielen. Die Innovations- und Clusterpolitik wird ergänzt durch die Betreuung von Unternehmen aller Branchen der Industrie. Mit den Existenzgründungsprogrammen und den Forschungs- und Entwicklungsprogrammen werden insbesondere innovative kleine und mittlere Unternehmen der Hamburger Wirtschaft gestärkt.
-• Die Abteilung Strukturpolitik, Mittelstand, Dienstleistungen nimmt die übergeordneten Aufgaben der Wirtschafts- und Strukturpolitik der BWVI wahr und entwickelt künftige Schwerpunktthemen von der konzeptionellen Analyse bis hin zu Gutachten und innovativen Pilotprojekten. Das Spektrum der Einzelthemen umfasst u. a. die Bereiche Struktur- und Konjunkturpolitik, wirtschaftsbezogene Bildungs­ und Sozialpolitik, Standortpolitik sowie Finanz-, EU- und Steuerpolitik. Die Abteilung betreut außerdem Unternehmen des Binnenhandels und einzelner Dienstleistungsbereiche, insbesondere Finanzdienstleistungen, ebenso die freien Berufe. Durch die Unterstützung des Handwerks und des Mittelstands werden insbesondere kleine und mittlere Unternehmen der Hamburger Wirtschaft gestärkt.
+– Die Abteilung Innovation, Technologie und Cluster ist zuständig für die Stärkung des Innovationsstandortes Hamburg sowie die Verbesserung der Standortqualität und die Förderung der wirtschaftlichen Strukturentwicklung im produzierenden Gewerbe. Eine besondere Bedeutung kommt dabei den Clustern zu. Sie werden zu Kompetenzclustern mit internationaler Ausstrahlung ausgebaut, um ein überdurchschnittliches Wirtschafts- und Beschäftigungswachstum zu erzielen. Die Innovations- und Clusterpolitik wird ergänzt durch die Betreuung von Unternehmen aller Branchen der Industrie. Mit den Existenzgründungsprogrammen und den Forschungs- und Entwicklungsprogrammen werden insbesondere innovative kleine und mittlere Unternehmen der Hamburger Wirtschaft gestärkt.
+– Die Abteilung Strukturpolitik, Mittelstand, Dienstleistungen nimmt die übergeordneten Aufgaben der Wirtschafts- und Strukturpolitik der BWVI wahr und entwickelt künftige Schwerpunktthemen von der konzeptionellen Analyse bis hin zu Gutachten und innovativen Pilotprojekten. Das Spektrum der Einzelthemen umfasst u. a. die Bereiche Struktur- und Konjunkturpolitik, wirtschaftsbezogene Bildungsund Sozialpolitik, Standortpolitik sowie Finanz-, EU- und Steuerpolitik. Die Abteilung betreut außerdem Unternehmen des Binnenhandels und einzelner Dienstleistungsbereiche, insbesondere Finanzdienstleistungen, ebenso die freien Berufe. Durch die Unterstützung des Handwerks und des Mittelstands werden insbesondere kleine und mittlere Unternehmen der Hamburger Wirtschaft gestärkt.
 
 Als Leiterin bzw. Leiter des Amtes I sind Sie verantwortlich für die Steuerung von Organisations- und Veränderungsprozessen innerhalb des Zuständigkeitsbereiches.
 
@@ -179,15 +180,15 @@ In allen Fällen haben Sie in der Leitung größerer Einheiten nachgewiesen, das
 
 Folgende Fähigkeiten und Kenntnisse sollten Sie mitbringen:
 
-• fundiertes Wissen in den relevanten Themenfeldern,
-• umfassende Kenntnisse über das Zusammenwirken und die Struktur von Institutionen und Akteuren im Bereich der beschriebenen Aufgaben und über deren Wechselwirkung auf nationaler und internationaler Ebene,
-• gute Kenntnis der Struktur und Funktionsweise der Hamburgischen Verwaltung,
-• Erfahrung in der Führung eines großen, heterogen entwickelten Personalkörpers,
-• Fähigkeit, Teams organisatorisch und fachlich in ihrer Struktur weiterzuentwickeln,
-• Fähigkeit, kreative Lösungen für schwierige Problemstellungen zu entwickeln und umzusetzen, um mit verschiedenen Beteiligten aus Wirtschaft, Verwaltung und
+– fundiertes Wissen in den relevanten Themenfeldern,
+– umfassende Kenntnisse über das Zusammenwirken und die Struktur von Institutionen und Akteuren im Bereich der beschriebenen Aufgaben und über deren Wechselwirkung auf nationaler und internationaler Ebene,
+– gute Kenntnis der Struktur und Funktionsweise der Hamburgischen Verwaltung,
+– Erfahrung in der Führung eines großen, heterogen entwickelten Personalkörpers,
+– Fähigkeit, Teams organisatorisch und fachlich in ihrer Struktur weiterzuentwickeln,
+– Fähigkeit, kreative Lösungen für schwierige Problemstellungen zu entwickeln und umzusetzen, um mit verschiedenen Beteiligten aus Wirtschaft, Verwaltung und
 
 Politik übergreifende und nachhaltige Konzepte und Strategien entwickeln und realisieren zu können,
-• gute Englischkenntnisse.
+– gute Englischkenntnisse.
 
 Folgende Eigenschaften sind für die Aufgabenerfüllung von besonderer Relevanz:
 

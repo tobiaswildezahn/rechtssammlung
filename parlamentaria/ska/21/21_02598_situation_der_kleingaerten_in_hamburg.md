@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 29
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8227", "20/2056"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50899"
@@ -140,7 +141,7 @@ Zu welchen Pachtpreisen und -konditionen werden die Flächen der Freien und Hans
 
 Gab es bei den Konditionen gegenüber dem Landesbund der Gartenfreunde Hamburg e.V. in den letzten Jahren vertragliche Anpassungen, zum Beispiel beim Pachtzins? Wenn ja: Bitte die Art der Anpassungen aufführen.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Antwort zu 8.
 
@@ -168,7 +169,7 @@ Gibt es Pläne der Freien und Hansestadt Hamburg oder des Landesbunds, Kleingart
 
 Ist dem Senat bekannt, dass der Landesbund derzeit Kleingartenvereine unter Androhung des Ausschlusses aus dem Landesbund zur kurzfristigen Errichtung von Entsorgungseinrichtungen für Campingtoiletten zu zwingen versucht? Wenn ja: Welche Position bezieht der Senat dazu?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Nein.
 

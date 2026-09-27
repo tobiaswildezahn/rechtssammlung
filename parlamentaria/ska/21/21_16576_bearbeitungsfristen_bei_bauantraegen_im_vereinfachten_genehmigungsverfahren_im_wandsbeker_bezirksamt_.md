@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 60263
 seiten: 3
 fragen: 8
-einzelfragen: 14
-antwortbloecke: 7
+einzelfragen: 17
+antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16366", "21/1112", "21/15512"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66114"
@@ -76,19 +77,28 @@ Es werden Vorgangs-, Grundstücks- und Dokumentendaten erfasst, die im Rahmen de
 ### Frage 3
 
 In der Antwort zu Frage 2. der Drs. 21/16366 in Bezug auf Vorgaben und Fristen für die Bestätigung des Eintritts der Genehmigungsfiktion heißt es lediglich, dass das Gesetz keine Vorgaben und Fristen vorsieht.
-3.1. Gibt es Vorgaben und Fristen außerhalb des Gesetzes, zum Beispiel verwaltungsinterne Richtlinien oder Ähnliches?
 
-#### Antwort zu Frage 3
+### Frage 3.1
+
+Gibt es Vorgaben und Fristen außerhalb des Gesetzes, zum Beispiel verwaltungsinterne Richtlinien oder Ähnliches?
+
+#### Antwort zu Fragen 3 und 3.1
 
 Nein.
 
-3.2. Gelten die Aussagen des Senats zur Bedeutung zügiger, transparenter und verlässlicher Genehmigungsverfahren (so zum Beispiel in Drs. 21/15512) sowie die Festlegungen zu Verfahrensdauern im Vertrag für Hamburg auch für Baugenehmigungsverfahren nach § 61 HBauO im Bezirk Wandsbek?
+### Frage 3.2
 
-Wenn nein, warum nicht?
+Gelten die Aussagen des Senats zur Bedeutung zügiger, transparenter und verlässlicher Genehmigungsverfahren (so zum Beispiel in Drs. 21/15512) sowie die Festlegungen zu Verfahrensdauern im Vertrag für Hamburg auch für Baugenehmigungsverfahren nach § 61 HBauO im Bezirk Wandsbek? Wenn nein, warum nicht?
+
+#### Antwort zu Frage 3.2
 
 Ja.
 
-3.3. Welche Zeitdauer für die Bestätigung des Eintritts der Genehmigungsfiktion nach Ablauf der Fristen nach § 61 HBauO ist aus Sicht der zuständigen Stellen angemessen?
+### Frage 3.3
+
+Welche Zeitdauer für die Bestätigung des Eintritts der Genehmigungsfiktion nach Ablauf der Fristen nach § 61 HBauO ist aus Sicht der zuständigen Stellen angemessen?
+
+#### Antwort zu Frage 3.3
 
 Die Bestätigung der Genehmigungsfiktion sollte umgehend erfolgen. Im Übrigen siehe Antwort zu 4.
 
@@ -108,7 +118,7 @@ Inwiefern gibt es derzeit Engpässe oder Verzögerungen bei der Bearbeitung von 
 
 Wie viele planmäßige Stellen in der Bauprüfabteilung sind derzeit aus welchen Gründen nicht besetzt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Fallzahlen sind im zuständigen Bezirksamt aufgrund der guten Baukonjunktur hoch. Die aufgrund der unbesetzten Stellen im vergangenen Jahr entstandenen Engpässe können mit fortwirkender Einarbeitungsdauer abgebaut werden. Derzeit sind im Zentrum für Wirtschaftsförderung, Bauen und Umwelt (W/WBZ) Bauprüfung 6,29 Stellen aufgrund von Stellenwechsel, Versetzung in den Ruhestand, Fluktuation und Arbeitszeitverkürzungen nicht besetzt. Davon sind 1,79 Stellenanteile etwa durch Arbeitszeitverkürzungen nicht besetzt. 4,5 Stellen sind für die Nachbesetzung freigegeben.
 

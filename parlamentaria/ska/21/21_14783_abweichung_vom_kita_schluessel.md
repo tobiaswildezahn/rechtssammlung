@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14540"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64224"
@@ -60,7 +61,7 @@ d. zehn – zwölf Monate
 in einem Jahr unterschritten? Bitte nach Bezirken und für die Jahre 2015  
 – 2018 aufschlüsseln.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die für Kindertagesbetreuung zuständige Behörde verfügt nicht über die Informationen zur Beantwortung der Fragestellungen zu 2. und 3. a. bis d. Sie hat daher die Vertragspartner des LRV (Arbeiterwohlfahrt Landesverband Hamburg e.V.; Caritasverband für Hamburg e.V.; Deutsches Rotes Kreuz Landesverband Hamburg e.V.; Der PARITÄTISCHE Wohlfahrtsverband Hamburg e.V.; Diakonisches Werk Hamburg e.V.,
 
@@ -94,7 +95,7 @@ Wie bewertet die zuständige Behörde die Regelung des § 4 vor dem Hintergrund 
 
 Ist seitens der zuständigen Behörde eine Anpassung von § 4 geplant? Wenn ja, welche?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Einigung mit der Volksinitiative sieht eine Verbesserung der finanzierten Fachkraftschlüssel im Krippenbereich auf 1:4 bis zum 01.01.2021 und im Elementarbreich auf 1:10 bis zum 01.01.2024 vor und wurde bereits im Hamburger Kinderbetreuungsgesetz (KibeG) umgesetzt. Die Einigung mit der Volksinitiative erfordert nach Auffassung der Partner des LRV keine Neubewertung der Regelung nach § 4 LRV.
 
@@ -113,7 +114,7 @@ d. zehn – zwölf Monate
 in einem Jahr unterschritten? Bitte nach Bezirken und für die Jahre 2015  
 – 2018 aufschlüsseln.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Anlage 2. Im Übrigen siehe Antwort zu 2. bis 3. d.
 

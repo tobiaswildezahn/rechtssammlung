@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62570"
@@ -59,7 +60,7 @@ Wird regelmäßig Rücksprache mit den Richterinnen und Richtern zu dem Thema de
 
 Wurden bereits Maßnahmen zur Verbesserung des Berufseinstiegs der Richterinnen und Richter auf Probe vom Senat umgesetzt? Wenn ja, seit wann und welche?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Hamburger Proberichterinnen und -richter sind gemäß § 3a HmbRiG i.V.m. § 3 Absatz 1 der Beurteilungsrichtlinien für die dienstliche Beurteilung der Richterinnen und Richter der Freien und Hansestadt Hamburg während der Probezeit mindestens dreimal in festgelegten Abständen zu beurteilen. Im Rahmen des Beurteilungsverfahrens erfolgt regelmäßig eine Rücksprache des beurteilenden Präsidenten/der beurteilenden Präsidentin mit dem/der einen Beurteilungsbeitrag zuliefernden Kammervorsitzenden oder Segmentsleiter/-in zur Arbeitsbelastung der jeweiligen Proberichterin/des jeweiligen Proberichters.
 

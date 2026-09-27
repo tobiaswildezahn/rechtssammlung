@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 22
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4320"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57655"
@@ -53,21 +54,21 @@ Welche Dienststellen welcher (Bundes-)Behörden nutzen den Zugriff auf QMM?
 
 Folgende Dienststellen nutzen den Zugriff auf die Software Quartiersmanagement (QMM):
 
- Bundesamt für Migration und Flüchtlinge (BAMF) im Ankunftszentrum Rahlstedt
+– Bundesamt für Migration und Flüchtlinge (BAMF) im Ankunftszentrum Rahlstedt
 
- Behörde für Inneres und Sport (BIS) im Ankunftszentrum und in den Verwaltungs-
+– Behörde für Inneres und Sport (BIS) im Ankunftszentrum und in den Verwaltungs-
 
 außenstellen für Leistungsrecht der Bezirke
 
- Bundesagentur für Arbeit im Ankunftszentrum Rahlstedt mit eingeschränktem
+– Bundesagentur für Arbeit im Ankunftszentrum Rahlstedt mit eingeschränktem
 
 Sichtrecht auf die Daten der Bewohnerinnen und Bewohner im Ankunftszentrum Rahlstedt/Bargkoppelstieg
 
- Zentraler Koordinierungsstab Flüchtlinge – beschränkt auf die Fachliche Leitstelle
+– Zentraler Koordinierungsstab Flüchtlinge – beschränkt auf die Fachliche Leitstelle
 
 als Dienststelle der Behörde für Arbeit, Soziales, Familie und Integration und den Betrieb als Dienststelle der BIS
 
- Dataport
+– Dataport
 
 Der Zugriff durch das BAMF und die Bundesagentur im Ankunftszentrum dient der Erfassung des Status auf dem sogenannten Laufzettel im Ankunftszentrum.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53834"
@@ -87,27 +88,27 @@ https://www.agfw-hamburg.de/download/ Beratungsstellenfuehrer_Fehlt_Ihnen_etwas_
 
 Ratsuchende Unionsbürgerinnen und -Bürger werden von folgenden Einrichtungen unterstützt:
 
- Plata – Anlaufstelle für wohnungslose EU-Bürger (Träger: hoffnungsorte hamburg
+– Plata – Anlaufstelle für wohnungslose EU-Bürger (Träger: hoffnungsorte hamburg
 
 – Verein Stadtmission Hamburg)
 
- Sansa – Aufsuchende Arbeit für EU-Zugewanderte (Träger: hoffnungsorte ham-
+– Sansa – Aufsuchende Arbeit für EU-Zugewanderte (Träger: hoffnungsorte ham-
 
 burg – Verein Stadtmission Hamburg)
 
- Social Bridge – Sozialberatung für EU-Zugewanderte (Träger: Diakonisches Werk
+– Social Bridge – Sozialberatung für EU-Zugewanderte (Träger: Diakonisches Werk
 
 Hamburg)
 
- Straßensozialarbeit in der Hamburger City (Träger: Diakonisches Werk Hamburg)
+– Straßensozialarbeit in der Hamburger City (Träger: Diakonisches Werk Hamburg)
 
 Für Menschen, die im Rahmen der Arbeitnehmerfreizügigkeit aus anderen EU- Mitgliedstaaten und insbesondere aus den ost- und südosteuropäischen Mitgliedstaaten nach Hamburg kommen, stehen in Hamburg zwei Anlaufstellen zur Verfügung, die im Rahmen des Operationellen Programms der Freien und Hansestadt Hamburg für die Umsetzung des Europäischen Sozialfonds in der Förderperiode 2014 – 2020 gefördert werden. Eine Aufgabe dieser Anlaufstellen besteht auch in der Unterstützung bei Behördengängen im Rahmen ihres jeweiligen Projektauftrags. Konkret handelt es sich um:
 
- Servicestelle Arbeitnehmerfreizügigkeit: http://www.esf-hamburg.de/projekte-neu/
+– Servicestelle Arbeitnehmerfreizügigkeit: http://www.esf-hamburg.de/projekte-neu/
 
 4635508/beratungsstelle-arbeitnehmerfreizuegigkeit/
 
- S-O-S – Süd-Osteuropa-Servicestelle: http://www.esf-hamburg.de/projekte-neu/
+– S-O-S – Süd-Osteuropa-Servicestelle: http://www.esf-hamburg.de/projekte-neu/
 
 4635772/sos-servicestelle/
 

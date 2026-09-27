@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 12
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67592"
@@ -83,7 +84,7 @@ Wie viele Anträge auf Anerkennung im Ausland erworbener Berufsabschlüsse sind 
 
 Welche Referenzberufe werden angestrebt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Das Statistikamt Nord verfügt über keine Daten zu Anträgen auf Anerkennung im Ausland erworbener Berufsabschlüsse nach Alter und Aufenthaltsstatus.
 
@@ -119,11 +120,11 @@ Exemplarisch wegen ihrer hohen Antragsaufkommen sind die Berufe im Gesundheitswe
 
 Im Zeitraum vom 01.08.2017 bis zum 31.07.2019 haben
 
- 161 Antragstellerinnen und Antragsteller an einer Kenntnis-/Eignungsprüfung
+– 161 Antragstellerinnen und Antragsteller an einer Kenntnis-/Eignungsprüfung
 
 teilgenommen (Besteher und Nichtbesteher),
 
- 140 Antragstellerinnen und Antragsteller an einem Anpassungslehrgang teilge-
+– 140 Antragstellerinnen und Antragsteller an einem Anpassungslehrgang teilge-
 
 nommen (teilweise zurzeit noch laufende Kurse).
 
@@ -1363,11 +1364,11 @@ Ha ndwerkska m mer Hamburg
 
 -
 
-•
+–
 
 ~•
 
-• •
+– •
 
 '- ro'-
 
@@ -1383,15 +1384,15 @@ N_
 
 N_
 
-•
+–
 
-•
+–
 
-•
+–
 
-•
+–
 
-•
+–
 
 ~
 
@@ -1400,17 +1401,17 @@ N_
 "'-  
 N_
 
-- •
+- –
 
-•
+–
 
 N_
 
 - "'- N_
 
-•
+–
 
-•  
+–  
 "'-  
 "'-  
 N_

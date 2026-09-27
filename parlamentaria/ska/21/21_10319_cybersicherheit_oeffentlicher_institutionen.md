@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 19
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7184"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59163"
@@ -94,7 +95,7 @@ Wie bewerten der Senat beziehungsweise die zuständigen Dienststellen und Datapo
 
 Wie positioniert sich der Senat auf Bundesebene im Hinblick auf die oben angesprochene Diskussion bei der Durchführung eines „Hack Back“? Welche rechtlichen Schwierigkeiten werden von ihm beziehungsweise den zuständigen Dienststellen speziell hinsichtlich der Kompetenzverteilung zwischen Bund und Ländern gesehen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die entsprechenden Maßnahmen hängen maßgeblich von den Fähigkeiten und dem technischen Hintergrund des Angreifers ab und müssen insofern in jedem Einzelfall geprüft werden. Im Übrigen hat sich der Senat hiermit nicht befasst.
 

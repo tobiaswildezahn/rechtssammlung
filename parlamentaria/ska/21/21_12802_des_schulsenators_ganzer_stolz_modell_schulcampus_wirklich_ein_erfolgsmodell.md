@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 42
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62112"
@@ -81,7 +82,7 @@ Laut aktuellem Musterflächenprogramm ist an allen Schulen, insbesondere bei Neu
 
 Wo genau liegen die von Senat/zuständiger Fachbehörde für die konkrete Mehrfachnutzung von Flächen/Räumlichkeiten festgelegten Grenzen und Kriterien? (Bitte nach Unterricht, Ganztag, Inklusion und jeweiliger nutzender Schulform gesondert erläutern.) a. Da im aktuellen Musterflächenprogramm von Senat/zuständiger Fachbehörde auch die gemeinsame Nutzung von Räumlichkeiten/ Flächen für Schüler/-innen und Lehrer/-innen angedacht ist, wie genau soll dies insbesondere hinsichtlich der Interessens-/ Nutzungsbedarfe und insbesondere der für Lehrer/-innen ausgewiesenen Flächen/Räume funktionieren? (Bitte für jede Interessensgruppe und der für diese angedachten Räumlichkeiten je Schulform erläutern.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Anforderungen bei Neubauten von Campusschulen ergeben sich aus dem Flächenbedarf weiterführender Schulen, der sich letztlich zwischen Gymnasium und Stadtteilschule lediglich im Mehrbedarf von Fachräumen der Berufsorientierung an Stadtteilschulen unterscheidet. Durch die weitreichenden Gestaltungsmöglichkeiten des MFP ergeben sich insbesondere für Campusschulen eine Vielzahl von Planungsvarianten bezüglich der Raum- und Flächengestaltung. Im Übrigen siehe Vorbemerkung.
 

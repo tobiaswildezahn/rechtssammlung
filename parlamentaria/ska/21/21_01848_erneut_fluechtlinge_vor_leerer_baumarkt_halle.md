@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50073"
@@ -47,21 +48,21 @@ Welche Informationen liegen dem Senat zu diesem Vorfall vor?
 
 Die Entscheidung, die Halle Hörgensweg 6 in Hamburg-Eidelstedt für die Unterbringung von Flüchtlingen zu nutzen, ist am Abend des 2. Oktober 2015 durch die Leiterin des Einwohnerzentralamtes getroffen worden. Daraufhin sind von verschiedenen Dienststellen der Behörde für Inneres und Sport bis zur Herstellung der Belegungsfähigkeit am 3. Oktober 2015, 18 Uhr, insbesondere folgende Vorbereitungsmaßnahmen getroffen beziehungsweise veranlasst worden:
 
- Bereitstellung und Lieferung von mobilen Sanitäreinrichtungen und Sitzmöglichkei-
+– Bereitstellung und Lieferung von mobilen Sanitäreinrichtungen und Sitzmöglichkei-
 
 ten,
 
- Bereitstellung von Schlafgelegenheiten,
+– Bereitstellung von Schlafgelegenheiten,
 
- Überprüfung der Wasserversorgung und der Wasserentsorgung,
+– Überprüfung der Wasserversorgung und der Wasserentsorgung,
 
- Gestellung von Einsatzkräften für die Betreuung, Brandwache und für die Bele-
+– Gestellung von Einsatzkräften für die Betreuung, Brandwache und für die Bele-
 
 gung der Unterkunft,
 
- Klärung der medizinischen Versorgung der Flüchtlinge,
+– Klärung der medizinischen Versorgung der Flüchtlinge,
 
- Verpflegung, Materialversorgung.
+– Verpflegung, Materialversorgung.
 
 Am 4. Oktober 2015 in der Zeit von 12 Uhr bis 20.23 Uhr wurde das Objekt mit circa 300 Personen belegt. Am 6. Oktober 2015 hat f & w fördern und wohnen Anstalt öffentlichen Rechts (f & w) den Betrieb übernommen.
 

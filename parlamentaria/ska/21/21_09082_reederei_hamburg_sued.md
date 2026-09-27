@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/380", "21/6947"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57838"
@@ -90,6 +91,6 @@ Welche Aktivitäten hat der Hamburger Senat unternommen, um die Arbeitsplätze b
 
 Welche Aktivitäten hat der Hamburger Senat unternommen, um Ladung für den Hamburger Hafen im Rahmen dieser Übernahmen zu halten und neu zu gewinnen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/6947.

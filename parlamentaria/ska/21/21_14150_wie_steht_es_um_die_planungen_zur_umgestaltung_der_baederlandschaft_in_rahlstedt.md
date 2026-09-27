@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 21
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13775"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63553"
@@ -112,7 +113,7 @@ Wie hoch belaufen sich die Betriebskosten von jeweils Hallen- und Freibad im Jah
 Wie hoch belaufen sich die Personalkosten von jeweils Hallen- und Freibad im Jahr? Bitte für die Jahre 2016, 2017 und 2018 (anteilig bis
 30.06.2018) darstellen.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4081", "21/6224", "21/7388", "21/8610", "21/9682", "21/10563", "21/11527", "21/12584", "21/13661", "21/14538", "20/13852", "21/218"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65163"
@@ -44,22 +45,40 @@ Der Senat beantwortet die Fragen teilweise auf Grundlage von Auskünften der HGV
 ### Frage 1
 
 Nutzung der Liquiditätshilfen:
-1.1. Welchen der im jeweiligen Haushaltsbeschluss genannten Unternehmen und Einrichtungen hat der Senat beziehungsweise die zuständige Behörde wann und warum im Zeitraum Oktober bis Dezember 2018 Liquiditätshilfen zur Verfügung gestellt?
-1.2. In welcher Höhe wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte jeweils zum Monatsende angeben.
-1.3. Wie lange und zu welchem Zins wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte keinen Durchschnittszins über alle Unternehmen wie in Drs. 20/13852 angeben.
-1.4. Woran orientiert sich jeweils die Höhe des Zinssatzes beziehungsweise wie wird sie ermittelt?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Welchen der im jeweiligen Haushaltsbeschluss genannten Unternehmen und Einrichtungen hat der Senat beziehungsweise die zuständige Behörde wann und warum im Zeitraum Oktober bis Dezember 2018 Liquiditätshilfen zur Verfügung gestellt?
+
+### Frage 1.2
+
+In welcher Höhe wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte jeweils zum Monatsende angeben.
+
+### Frage 1.3
+
+Wie lange und zu welchem Zins wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte keinen Durchschnittszins über alle Unternehmen wie in Drs. 20/13852 angeben.
+
+### Frage 1.4
+
+Woran orientiert sich jeweils die Höhe des Zinssatzes beziehungsweise wie wird sie ermittelt?
+
+#### Antwort zu Fragen 1, 1.1, 1.2, 1.3 und 1.4
 
 Siehe Anlage 1. Der Zinssatz betrug einheitlich 0,0 Prozent. Im Übrigen siehe Drs. 21/218 und 21/4081.
 
 ### Frage 2
 
 Limite für die Liquiditätshilfen:
-2.1. Welche Veränderungen der für die Liquiditätshilfen festgelegten Limite hat es jeweils wann und aus welchen Gründen im 4. Quartal 2018 gegeben?
-2.2. Wie häufig, aus welchen Gründen und für jeweils welchen Zeitraum gab es im 4. Quartal 2018 bei welchen einzelnen Unternehmen und Einrichtungen Überschreitungen der Limite?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Welche Veränderungen der für die Liquiditätshilfen festgelegten Limite hat es jeweils wann und aus welchen Gründen im 4. Quartal 2018 gegeben?
+
+### Frage 2.2
+
+Wie häufig, aus welchen Gründen und für jeweils welchen Zeitraum gab es im 4. Quartal 2018 bei welchen einzelnen Unternehmen und Einrichtungen Überschreitungen der Limite?
+
+#### Antwort zu Fragen 2, 2.1 und 2.2
 
 Es lagen keine Veränderungen der festgelegten Limite vor. Limitüberschreitungen bestanden auf dem Betriebsmittelkonto des Landesbetriebs Planetarium vom 1. Oktober bis zum 5. Dezember und vom 20. bis zum 26. Dezember 2018. Zwischen Mai und Dezember blieben die Eintrittserlöse im Landesbetrieb Planetarium unter Plan, da rund 40 000 Besucher weniger als erwartet zu verzeichnen waren. Diese Entwicklung führte maßgeblich zur erhöhten Inanspruchnahme des Betriebsmittelkontos bei der Kasse.Hamburg (siehe Drs. 21/14538). Bezogen auf den Betrachtungszeitraum von Oktober bis Dezember verzeichnete der Kontenstand bei der Kasse.Hamburg temporär eine Erhöhung der Belastung des Kontos, die jedoch im Zuge der Erlöszuflüsse bis Ende 2018 auf eine im Limit liegende Inanspruchnahme zurückgeführt wurde. Weitere Zuflüsse bezogen auf 2018 aus Abrechnungen von Kartenerlösen und Vermietungen stehen noch aus. Eine weitere Limitüberschreitung ist auf dem Betriebsmittelkonto des Museums am Rothenbaum vom 10. bis zum 31. Dezember 2018 aufgetreten. Die Limitüberschreitung ergab sich aus offenen Zuwendungen der Freien und Hansestadt Hamburg an das Museum insbesondere für den Museumsbetrieb, für die Erstattung im Zusammenhang mit dem freien Eintritt zum Reformationstag, für Versorgungsleistungen und für die Installation von LED-Beleuchtungen. Die Zuwendungen sind bereits an das Museum angewiesen.
 

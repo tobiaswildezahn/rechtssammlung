@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 19
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17709"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67429"
@@ -89,7 +90,7 @@ Wie beurteilen der Senat und die zuständige Behörde die bisherige Nutzung des 
 
 Bestehen vonseiten des Senats und der zuständigen Behörde genaue Pläne, die Nutzung und praktische Umsetzung der Angebote des digital.learning.lab durch die Schulen und Lehrer zu intensivieren, beispielsweise durch Schulungen oder weitere Informationsangebote? Wenn ja, bitte erläutern. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die für Bildung zuständige Behörde ist mit den Rückmeldungen zu den digitalen Unterrichtsbausteinen im digital.learning.lab zufrieden. In Hamburg und auch bundesweit haben die dort veröffentlichten Unterrichtskonzepte zum Lernen mit digitalen Bildungsmedien und zur Förderung der Kompetenzen für ein Leben in der digitalen Welt großen Anklang gefunden. Die Nutzung im ersten Jahr beurteilt die für Bildung zuständige Behörde als überaus zufriedenstellend.
 
@@ -123,7 +124,7 @@ Wie beurteilen der Senat und die zuständige Behörde die derzeitige Umsetzung d
 
 Bestehen vonseiten des Senats und den zuständigen Behörden Pläne, den Themenkomplex „Digitale Bildung“ in der Lehreraus- und Weiterbildung qualitativ und quantitativ stärker zu betonen? Wenn ja, inwiefern? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Folgende konkrete Maßnahmen finden statt:
 

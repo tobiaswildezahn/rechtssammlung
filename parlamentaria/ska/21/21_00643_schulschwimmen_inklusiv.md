@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 17
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8276", "20/14070", "21/642", "20/13112", "20/10896", "21/302"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48812"
@@ -161,7 +162,7 @@ In den einzelnen Schulen laufen die Planungen für das inklusive Schulschwimmen 
 
 Wird es in den Schulen Sonderregelungen für Kinder mit speziellen Behinderungen geben? Wenn ja, welche und in welchen Schulen?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Schülerinnen und Schüler nehmen am Schwimmunterricht teil, soweit sie im Rahmen ihrer individuellen Beeinträchtigungen – gegebenenfalls mit Unterstützung durch Assistenzkräfte – hierzu in der Lage sind und nicht medizinische Gründe gegen eine Teilnahme am Schwimmunterricht sprechen; siehe auch Antwort zu 8. Es gibt keine sogenannten Sonderregelungen oder Sonderplanungen.
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 45
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11478", "21/8854"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61145"
@@ -236,7 +237,7 @@ Läuft bereits eine begleitende Evaluation zu Erfolgen und Entwicklungsperspekti
 
 In welcher Form sind die betreffenden Berufsfachschulen an einer möglichen Evaluation beteiligt und welche Rückmeldungen gab es von ihnen diesbezüglich seit Start der Ausbildungsgänge für EeaSA-Absolventen/ -innen zu folgenden Aspekten: a. Fachliche und persönliche Eignung der EeaSA-Schüler/-innen hinsichtlich der Anforderungen des Ausbildungsgangs? b. Lernfortschritte und Entwicklung der EeaSA-Absolventen7-innen im Ausbildungsgang? c. Personalausstattung für die Ausbildungsgänge? d. Wie hat der Senat/die zuständige Fachbehörde auf negative Rückmeldungen reagiert und was wurde jeweils konkret unternommen? (Bitte jeweilige Kritik nennen und ergriffene Maßnahmen zur Verbesserung erläutern.)
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Ein fachlicher Austausch zwischen den Schulen und der HIBB-Zentrale zum Ausbildungsformat SPA-ESA wie auch zu anderen Themen findet in regelmäßigen Abständen statt. Über eine mögliche Evaluation hat die zuständige Behörde noch nicht entschieden. Ein mögliches Evaluationskonzept wird rechtzeitig durch die HIBB-Zentrale in Zusammenarbeit mit den Schulen geplant.
 

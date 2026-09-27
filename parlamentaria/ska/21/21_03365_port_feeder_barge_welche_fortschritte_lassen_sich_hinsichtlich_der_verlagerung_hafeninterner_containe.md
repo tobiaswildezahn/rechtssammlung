@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1629", "20/10206"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51703"
@@ -63,7 +64,7 @@ Hat der Senat seit Abschluss des Koalitionsvertrages über den Aufsichtsrat der 
 
 Sind dem Senat beziehungsweise der zuständigen Behörden durch den Aufsichtsrat der HHLA und über die HPA bereits Umsatzpläne zur Realisierung des Konzepts einer PFB zur Kenntnis gelangt? Wenn ja, wie sehen diese aus? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nach Kenntnis der zuständigen Behörde findet zum Einsatz der PFB im Hafen ein Austausch zwischen dem Geschäftsführer der PFB und der HHLA statt.
 
@@ -85,11 +86,11 @@ Hierfür kämen sämtliche Anlagen infrage, an denen derzeit containerisierter S
 
 Nach Kenntnis der zuständigen Behörde sind im Hamburger Hafen Schwimmkräne der HHLA, der Firmen Taucher Heros GmbH und Taucher Knoth (Nachf.) GmbH & Co. KG im Einsatz. Zu den Details wird auf die jeweilige Darstellung im Internet verwiesen:
 
- https://hhla.de/de/container/schwimmkraene.html und Drs. 20/10206
+– https://hhla.de/de/container/schwimmkraene.html und Drs. 20/10206
 
- http://www.taucher-heros.de/Equipment/Schiffsbetrieb/index.php
+– http://www.taucher-heros.de/Equipment/Schiffsbetrieb/index.php
 
- http://www.taucherknoth.com/flotte.html
+– http://www.taucherknoth.com/flotte.html
 
 Darüber hinaus liegen der zuständigen Behörde keine Informationen vor.
 

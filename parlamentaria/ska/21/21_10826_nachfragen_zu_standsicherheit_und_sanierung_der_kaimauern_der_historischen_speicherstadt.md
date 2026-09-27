@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10548", "20/4388", "20/5318"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59738"
@@ -115,7 +116,7 @@ Welche Beziehung hat nach Wissen des Senates der von den damaligen Gutachtern f�
 
 Nach „Hamburger-Abendblatt“-Informationen sahen sich Experten der Hafenverwaltung Hamburg Port Authority (HPA) und des Bezirks Altona am Donnerstag, 26.10.17 die oben benannten Schäden der Elbuferpromenade an. Hat die Begehung Hinweise auf die vermuteten Unterspülungen gegeben?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Antwort zu 2. bis 4.
 
@@ -127,6 +128,6 @@ Welche Sicherungsmaßnahmen beziehungsweise Reparaturvorhaben sind infolge der A
 
 Ab wann wird der vorsorglich gesperrte Elberad- und Spazierweg voraussichtlich wieder durchgängig zu benutzen sein?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Durch das Bezirksamt Altona wurden Absperrungen und Umleitungsstrecken für den Rad- und Fußgängerverkehr eingerichtet. Im Übrigen sind die Planungen noch nicht abgeschlossen.

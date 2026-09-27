@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2748"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51771"
@@ -93,7 +94,7 @@ a. aktuell beziehungsweise
 b. zukünftig  
 auch der Ohlsdorfer Friedhof an?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Zur Einordnung der Eigenart und Logik des Ohlsdorfer Friedhofes und als Diskussionsgrundlage für Entwicklungsmöglichkeiten werden internationale Friedhofe für einen Vergleich herangezogen und hinsichtlich ihres Programms, der Morphologie und des räumlichen Kontextes betrachtet:
 
@@ -139,19 +140,19 @@ Zur Einordnung der Eigenart und Logik des Ohlsdorfer Friedhofes und als Diskussi
 
 Folgende programmatischen Besonderheiten beziehungsweise „Leistungen“ sind unter anderem auf diesen Friedhöfen zu finden:
 
- Hochzeiten in Cincinnati
+– Hochzeiten in Cincinnati
 
- Lesungen und Gartenworkshops in New York
+– Lesungen und Gartenworkshops in New York
 
- Thematische Touren in Stettin
+– Thematische Touren in Stettin
 
- UNESCO Welterbe Besucherzentrum in Stockholm
+– UNESCO Welterbe Besucherzentrum in Stockholm
 
- Blumen- und Kerzenverkauf in Riga
+– Blumen- und Kerzenverkauf in Riga
 
- Museum in De Nieuwe Ooster in Amsterdam
+– Museum in De Nieuwe Ooster in Amsterdam
 
- Skulpturenausstellung in Sydney
+– Skulpturenausstellung in Sydney
 
 Die Betrachtung und Auswertung dieses Arbeitspaketes ist noch nicht abgeschlossen, deshalb können jetzt noch keine künftig geplanten Leistungen auf dem Ohlsdorfer Friedhof benannt werden.
 

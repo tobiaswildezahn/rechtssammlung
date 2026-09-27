@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 15
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8154"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49026"
@@ -59,7 +60,7 @@ Wie viele Studienanfänger begannen an den Hamburger Universitäten und Hochschu
 
 Wie viele Frauen begannen an den Hamburger Universitäten und Hochschulen ein Studium in den MINT-Fächern – beginnend mit dem Wintersemester 2004/2005, endend beim Sommersemester 2015? Bitte differenziert nach Universität und Hochschule, Fakultät und Studienfach auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 UHH
 
@@ -85,7 +86,7 @@ Wie viele Studierende absolvierten an Hamburger Universitäten und Hochschulen i
 
 Wie viele Frauen absolvierten ihr Studium an Hamburger Universitäten und Hochschulen in den MINT-Fächern beziehungsweise führten es erfolgreich zu Ende – beginnend mit dem Wintersemester 2004/2005, endend beim Sommersemester 2015? Bitte differenziert nach Universität und Hochschule, Fakultät und Studienfach auflisten.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 UHH
 

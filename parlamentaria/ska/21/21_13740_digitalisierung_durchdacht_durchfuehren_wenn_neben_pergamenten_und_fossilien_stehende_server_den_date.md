@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 27
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63119"
@@ -39,17 +40,17 @@ Die vom Rechnungshof angeregte Überprüfung einer Zentralisierung der IT- Admin
 
 Die zuständige Behörde hat gemeinsam mit den Museumsstiftungen, Dataport und dem Amt für IT und Digitalisierung (ITD) das Konzept eines „Kultur-Basis- Arbeitsplatzes“ erarbeitet. Dieser umfasst
 
- die Standardisierung der Hard- und Software unter Berücksichtigung der Spezifika
+– die Standardisierung der Hard- und Software unter Berücksichtigung der Spezifika
 
 der einzelnen Häuser,
 
- die Verlagerung der Server in das Rechenzentrum von Dataport,
+– die Verlagerung der Server in das Rechenzentrum von Dataport,
 
- die Betreuung der Fachverfahren durch Dataport,
+– die Betreuung der Fachverfahren durch Dataport,
 
- die Datenhaltung und -sicherung in einer Public-Cloud (eCulture-Cloud) sowie
+– die Datenhaltung und -sicherung in einer Public-Cloud (eCulture-Cloud) sowie
 
- die Bereitstellung einer Archivlösung für Digitalisate („Kaltspeicher“).
+– die Bereitstellung einer Archivlösung für Digitalisate („Kaltspeicher“).
 
 Diese Professionalisierung des IT-Betriebs umfasst zudem die Endnutzerbetreuung durch den User-Help-Desk von Dataport. Das Konzept geht in seiner Ausgestaltung über einen reinen Dienst „Platform as a Service“ hinaus. Im Herbst 2018 sollen nach dem Vorbild des Basis-Arbeitsplatzmodells der Hamburger Verwaltung Migrationspro-
 
@@ -112,7 +113,7 @@ a) Welche zwei Verfahren werden genutzt und warum werden zwei unterschiedliche V
 b) Warum wird ein Verfahren weiter genutzt, bei dem der Hersteller seit 20 Jahren nicht mehr existiert?
 c) Ist geplant, auf ein einheitliches Verfahren umzustellen? Wenn ja, wann auf welches System? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Wirtschaftlichkeitsanalyse hat sich mit dem Weiterbetrieb des Rechenzentrums und der Auslagerung der EDV-Infrastruktur auf Ebene der „Platform as a Service“ befasst und wurde im Januar 2017 von Rödl & Partner GmbH erstellt. Der Rechnungshof hat dazu die Anzahl der untersuchten Lösungen, die Auswirkungen auf den Gesellschafter, die Bezifferung der Mehraufwendungen, die beim Gesellschafter durch die vorgeschlagenen Veränderungen entstehen, die Nachvollziehbarkeit der Kostendaten sowie weitere kleinere Punkte kritisiert.
 

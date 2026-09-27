@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 17
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/427"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48901"
@@ -53,7 +54,7 @@ b) Wenn nein: Sieht der Senat solche Rückmeldungen als hilfreich an, um zukünf
 
 Gibt es nach Einschätzung des Senats alternative Verbesserungsmöglichkeiten für die Übergangsempfehlungen? Wenn ja: welche?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung. Die Entscheidung für die weiterführende Schulform nach § 42 HmbSG obliegt den Sorgeberechtigten. Eine Veränderung des Einschätzungsbogens ist daher nicht notwendig.
 
@@ -80,7 +81,7 @@ Wie bewertet der Senat diese wissenschaftliche Erkenntnis in Bezug auf die Nachr
 
 Welche Maßnahmen erwägt der Senat, um diese durch den Vorrang des Elternwahlrechts vor der Grundschulempfehlung verursachte und zu erwartende Ungerechtigkeit zum Nachteil leistungsstarker Schüler aus nicht privilegierten Elternhäusern auszugleichen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Befunde von Dollmann (2011) beziehen sich auf die Situation in Nordrhein-Westfalen mit einem damals viergliedrigen Schulsystem (ohne Sonder- und Förderschulen) und können damit nicht unmittelbar auf die Situation in Hamburg mit seinem Zweisäulenmodell übertragen werden. Das Zweisäulenmodell in Hamburg ermöglicht es, auf zwei Wegen (Gymnasium oder Stadtteilschule) eine Hochschulzugangsberechtigung zu erwerben. Lediglich die Dauer des Bildungsgangs unterscheidet sich. Die Schulformwahl der Eltern hat dadurch weniger Konsequenzen für die Chance, einen höheren Abschluss zu erreichen als damals in Nordrhein-Westfalen. Die Wahl der Eltern für eine Stadtteilschule kann auch eine bewusste Entscheidung für das Abitur nach 13 Jahren sein, unabhängig von dem Leistungspotenzial des Kindes und der Übergangsempfehlung der Lehrkraft.
 

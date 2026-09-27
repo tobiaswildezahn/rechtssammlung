@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 25
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54734"
@@ -65,7 +66,7 @@ Werden Gewaltdelikte, unabhängig ihrer Art, zusätzlich durch die Behörde für
 
 Gibt es einen Unterschied in der Erfassung von Gewaltdelikten zwischen Arbeitgeberseite – hier Bundesagentur für Arbeit – und der Stadt Hamburg (BASFI)? Wenn ja, wie sieht dieser Unterschied aus?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Neben der Erfassung von Übergriffen durch Jobcenter erfasst die zuständige Behörde diese Vorfälle nicht parallel. Eine solche wird auch nicht für notwendig erachtet. Die/der Vorsitzende der Trägerversammlung (zurzeit BASFI) wird regelhaft über Vorfälle unterrichtet; und die Trägersammlung befasst sich mit Gewaltschutz-/Sicherheitskonzepten.
 
@@ -315,7 +316,7 @@ Sind allgemeine Kommunikationsschulungen und Schulungen in deeskalierende Kommun
 
 Wie viele Mitarbeiter/-innen haben jeweils bei Jobcenter t.a.h. und Agentur für Arbeit Hamburg an einem Kommunikationstraining oder Training für deeskalierende/s Kommunikation/Verhalten in den Jahren 2007 bis aktuell teilgenommen? Bitte jeweils nach Standorten auflisten.
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Seit 2010 werden durch Jobcenter regelmäßig Schulungen zu den Themen „Deeskalierende Gesprächsführung“, „Selbstbehauptung“, „Sicherheitstraining“ und „Grundlagen der Kommunikation und Gesprächsführung“ angeboten. Seit 2015 gehören diese Seminarthemen zur Grundqualifizierung für neu eingestellte Mitarbeiterinnen und Mitarbeiter des Jobcenters. Aufgrund des Wechsels der Software ab 2012 existieren vor diesem Zeitpunkt keine Aufzeichnungen. Eine Auflistung nach Standorten ist nicht möglich, da sich die Teilnehmergruppen grundsätzlich aus verschiedenen Standorten zusammensetzen. In Zahlen stellt es sich wie folgt dar:
 
@@ -339,7 +340,7 @@ Welche Konsequenzen für die Mitarbeiter/-innen bei Jobcenter t.a.h. und Agentur
 
 Sieht der Senat in Sätzen wie: „Das habe ich ihnen doch schon x-mal erklärt“ oder „Verstehen sie das denn nicht“ einen unbeabsichtigten Aggressionsverstärker durch die Mitarbeiter/-innen bei Jobcenter t.a.h. und Agentur für Arbeit Hamburg? Und wie bewertet der Senat solche Aussagen? Bitte ausführlich darstellen.
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Die zuständige Behörde ist nach § 44g Absatz 4 SGB II für arbeits- oder beamtenrechtliche Sanktionen zuständig, soweit eine Abmahnung oder die Beendigung des Beschäftigungsverhältnisses eines kommunalen Beschäftigten im Jobcenter infrage kommt. In diesem Rahmen prüft die Behörde die Sanktionsmöglichkeiten des Beamten- und Arbeitsrechts und führt diese gegebenenfalls durch. Anlass für Prüfung und gegebenenfalls Durchführung ist jegliches unangemessene Verhalten gegenüber Kundinnen und Kunden von Jobcenter, unabhängig davon, ob und welche Tatbestände des Strafrechts das Verhalten erfüllt.
 

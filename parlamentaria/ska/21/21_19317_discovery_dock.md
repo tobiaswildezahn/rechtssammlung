@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 25
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69023"
@@ -83,9 +84,12 @@ Gab oder gibt es eine Unterstützung von Discovery Dock durch die HPA und/oder d
 2.1.3 Wie wurde der Rechnungsbetrag dieser Leistungen ermittelt?
 2.1.4 Entsprach der Rechnungsbetrag einem marktüblichen Wert? Wie wurde dieser Marktwert ermittelt?
 2.1.5 Wenn nein, warum wurden die Leistungen nicht in Rechnung gestellt?
-2.3. Wenn nein, welcher Art waren die Unterstützungen dann?
 
-#### Antwort zu Fragen 1 bis 2
+### Frage 2.3
+
+Wenn nein, welcher Art waren die Unterstützungen dann?
+
+#### Antwort zu Fragen 1, 2 und 2.3
 
 Die HPA unterstützt das Discovery Dock durch Beratung hinsichtlich hafenspezifischer Fragestellungen und der Zurverfügungstellung von Videomaterial aus dem HPA- eigenen YouTube Kanal „smartPort TV“ im Rahmen einer Nutzungsüberlassung sowie durch Gespräche mit Mitarbeiterinnen und Mitarbeitern der HPA. Darüber hinausgehende Angaben unterliegen aufgrund einer entsprechenden vertraglichen Regelung der Vertraulichkeit. Im Übrigen siehe Vorbemerkung.
 
@@ -97,15 +101,21 @@ Die Behörde für Umwelt und Energie Hamburg und die Universität Hamburg sollen
 
 Gab oder gibt es eine Unterstützung von Discovery Dock durch die Behörde für Umwelt und Energie und/oder die Universität Hamburg in Form von Geld oder geldwerten Leistungen?
 4.1 Wenn ja, wie hoch waren beziehungsweise sind die geldlichen Unterstützungen und welchen Wert hatten die geldwerten Leistungen? (Bitte nach Unternehmen und Leistungsart gesondert Aufführen.)
-4.2. Wurden Discovery Dock oder der DUMONT Media GmbH diese Leistungen in Rechnung gestellt?
+
+### Frage 4.2
+
+Wurden Discovery Dock oder der DUMONT Media GmbH diese Leistungen in Rechnung gestellt?
 4.1.1 Wenn ja, wie hoch waren diese Rechnungen?
 4.1.2 Wie hoch waren die Herstellungskosten dieser Leistungen?
 4.1.3 Wie wurde der Rechnungsbetrag dieser Leistungen ermittelt?
 4.1.4 Entsprach der Rechnungsbetrag einem marktüblichen Wert? Wie wurde dieser Marktwert ermittelt?
 4.1.5 Wenn nein, warum wurden die Leistungen nicht in Rechnung gestellt?
-4.3. Wenn nein, welcher Art waren die Unterstützungen dann?
 
-#### Antwort zu Fragen 3 bis 4
+### Frage 4.3
+
+Wenn nein, welcher Art waren die Unterstützungen dann?
+
+#### Antwort zu Fragen 3, 4, 4.2 und 4.3
 
 Die Unterstützung seitens der Behörde für Umwelt und Energie erfolgte durch fachliche Beratung und Mitarbeit bei der Erstellung derjenigen Ausstellungsbestandteile, die sich mit dem Aspekt Natur beschäftigen.
 

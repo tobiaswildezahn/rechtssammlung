@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 47
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5000", "21/16469", "21/14000", "21/12060", "21/11812", "21/15638", "21/2368", "21/8790"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67436"
@@ -63,7 +64,7 @@ Wann haben die Planungen für die jeweiligen Projekte der allgemeinen Hafeninfra
 
 Wie haben sich die Kosten beziehungsweise Budgets für die Projekte der allgemeinen Hafeninfrastruktur der HPA gegenüber dem Wirtschaftsplan 2018 entwickelt? (Bitte ursprüngliche Kostenschätzung und aktuelle Kostenplanung für alle unter 1. genannten Projekte angeben.) a. Im Falle von Kostensteigerungen beziehungsweise Budgeterhöhungen: Weshalb war die ursprüngliche Planung nicht ausreichend? b. Von wann stammt die aktuelle Kosten- beziehungsweise Budgetplanung? (Bitte ebenfalls jeweils für die unter 1. genannten Projekte angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1. Die aktuelle Kostenplanung beruht auf dem Wirtschaftsplan 2019.
 
@@ -75,7 +76,7 @@ Inwieweit kam es nach der Entscheidung des Bundesverwaltungsgerichts zur Fahrrin
 
 In welcher Weise werden die Zusatz- beziehungsweise Ausgleichsmaßnahmen zur Fahrrinnenanpassung wie beispielsweise die vorgenannte Maßnahme „Tideanschluss Billwerder Insel“ in der Systematik des Kostenstabilen Bauens erfasst? a. Sind die entsprechenden Kosten beziehungsweise Budgets komplett im Projekt „Fahrinnenanpassung“ enthalten? Wenn ja, in jeweils welchem Block der Kostenbestandteile der Fahrrinnenanpassung entfällt jeweils welche Summe auf diese Maßnahmen? b. Warum werden die Zusatz- beziehungsweise Ausgleichsmaßnahmen nicht als eigene Projekte oder ein „Sammelprojekt“ ausgewiesen? c. Wie haben sich die Kosten beziehungsweise Budgets für einzelnen Zusatz- beziehungsweise Ausgleichsmaßnahmen entwickelt? (Bitte ursprüngliche Kostenschätzung und aktuelle Kostenplanung auch für alle in Drs. 21/15638 (Seite 18) dargestellten Maßnahmen angeben.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 
@@ -119,7 +120,7 @@ Auf welche Höhe beläuft sich der gesamte Investitionsbedarf für allgemeine In
 
 Wie groß ist die Differenz zwischen den Investitionsbedarfen und den bereits in den Finanzplanungen der Freien und Hansestadt Hamburg und der HPA vorgesehenen Investitionen? (Bitte pro Jahr aufschlüsseln und nach Geschäftsfeldern Public sowie Commercial differenzieren.)
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Anlagen 3, 4 und 5. Im Übrigen siehe Vorbemerkung.
 
@@ -139,7 +140,7 @@ Wie hoch sind die konsumtiven sowie die investiven Mittel, die aus dem Haushalt 
 
 Welche Erträge und Aufwendungen sowie welche Einzahlungen und Auszahlungen sieht die aktuelle mittelfristige Finanzplanung der HPA vor? (Bitte sowohl Erfolgsrechnung als auch Finanzrechnung und die Projekt- und Investitionsplanung der HPA angeben.)
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Anlagen 3, 4 und 5. Im Übrigen siehe Drs. 21/14000.
 

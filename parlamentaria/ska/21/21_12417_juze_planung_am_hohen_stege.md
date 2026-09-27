@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 26
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61719"
@@ -59,7 +60,7 @@ Müssten für das zukünftige JUZE Ausgleichflächen geschaffen werden? Wenn ja,
 
 Trifft es zu, dass das vorgesehene Grundstück eine Ausgleichsfläche für andere, bereits bebaute Gebiete darstellt? Wenn ja, für welche?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nein.
 

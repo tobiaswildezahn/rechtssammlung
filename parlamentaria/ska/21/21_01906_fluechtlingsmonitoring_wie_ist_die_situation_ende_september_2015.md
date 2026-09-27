@@ -14,6 +14,7 @@ fragen: 26
 einzelfragen: 39
 antwortbloecke: 24
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1568", "21/1876", "21/1271", "21/1160", "21/1008", "21/1719", "21/681", "21/1002", "21/1874", "21/1637"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50155"
@@ -290,17 +291,17 @@ In Betrieb genommen wurden folgende Erstaufnahmeeinrichtungen: Blomkamp 61, Ruge
 
 Für unbegleitete minderjährige Flüchtlinge wurden darüber hinaus im September folgende Einrichtungen fertiggestellt und in Betrieb genommen:
 
- Bruktererweg 1: zehn Plätze
+– Bruktererweg 1: zehn Plätze
 
- Billwerder Straße 31: weitere 60 Plätze
+– Billwerder Straße 31: weitere 60 Plätze
 
- Lerchenfeld 4: 34 Plätze
+– Lerchenfeld 4: 34 Plätze
 
- Hohe Liedt 67: 30 Plätze
+– Hohe Liedt 67: 30 Plätze
 
- Dehnhaide 161: 32 Plätze
+– Dehnhaide 161: 32 Plätze
 
- Eiffestraße 398: weitere 23 Plätze
+– Eiffestraße 398: weitere 23 Plätze
 
 Im Übrigen siehe Drs. 21/1271, 21/1160 und 21/1008.
 

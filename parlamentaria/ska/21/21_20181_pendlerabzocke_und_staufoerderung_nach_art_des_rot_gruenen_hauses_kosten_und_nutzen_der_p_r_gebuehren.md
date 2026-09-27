@@ -14,6 +14,7 @@ fragen: 41
 einzelfragen: 52
 antwortbloecke: 38
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16191", "21/2242", "21/5888", "21/11956", "20/11361", "21/8274", "21/19370", "21/516", "21/3044", "20/9662", "21/14849", "21/1591"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70017"
@@ -98,7 +99,7 @@ Auf welche Summen beliefen sich die Personalkosten für die der P+R- Betriebsges
 
 Auf welche Summe beliefen sich die Miet- und anderen Nebenkosten, die durch die Personalgestellung im Jahr 2019 angefallen sind?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 2.
 

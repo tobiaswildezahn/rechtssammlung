@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/578", "21/4688"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55846"
@@ -51,24 +52,25 @@ Wie sind der genaue Sachstand und der konkrete Zeitplan für die Umsetzung jewei
 
 Welche dieser Maßnahmen wurden bereits beauftragt und wann werden die Maßnahmen ausgeführt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
- Rügelsbarg (West)
+– Rügelsbarg (West)
 
 Der Bauauftrag wurde erteilt, mit dem Bau wird voraussichtlich ab 15. Dezember 2016 begonnen werden. Geplant sind im Rügelsbarg sieben Verkehrsinseln. Je nach Wetterlage sollen zwei davon noch in diesem Jahr hergestellt werden, die restlichen Verkehrsinseln folgen im Jahr 2017. Eine Fertigstellung ist jedoch nicht vor dem Frühjahr 2017 möglich, da Gussasphalt im Wasserlauf an der Bordsteinkante verarbeitet wird. Der Gussasphalt kann wetterbedingt voraussichtlich erst ab März des Jahres 2017 eingebaut werden.
 
- Lottbeker Weg (Einmündungen Elersstieg und Heiddiek)
+– Lottbeker Weg (Einmündungen Elersstieg und Heiddiek)
 
 Derzeit werden die Deckenhöhen- und Leitungspläne erstellt. Der Asphalteinbau in der Einmündung erfolgt wetterbedingt voraussichtlich ab Frühjahr des Jahres 2017.
 
- Iloh, Rodenbekredder, Mellenbergweg (Langfeld bis Künnekestraße),
+– Iloh, Rodenbekredder, Mellenbergweg (Langfeld bis Künnekestraße),
 
 Schemmannstraße
 
 Die Planung einschließlich Abstimmung ist abgeschlossen. Der Bau kann im Frühjahr des Jahres 2017 erfolgen, da die vorgesehenen Klebeborde erst bei wärmeren Temperaturen eingebaut werden können.
 
- Sarenweg
+– Sarenweg
 
-Die Planung einschließlich Abstimmung ist abgeschlossen. Der Bau wird im Frühjahr 2017 durchgeführt.  Langenstücken
+Die Planung einschließlich Abstimmung ist abgeschlossen. Der Bau wird im Frühjahr 2017 durchgeführt.
+– Langenstücken
 
 Der Bauauftrag ist erteilt, der Bau wird ab 12. Dezember 2016 beginnen, die Fertigstellung wird voraussichtlich noch in diesem Jahr erfolgen.

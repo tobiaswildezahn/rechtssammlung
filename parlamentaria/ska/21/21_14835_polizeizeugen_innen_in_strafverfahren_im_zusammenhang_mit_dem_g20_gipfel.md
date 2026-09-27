@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64296"
@@ -55,11 +56,11 @@ Eine Prozessbegleitung ist grundsätzlich rechtlich zulässig, wenn die Verhandl
 
 Weitere Voraussetzungen sind, dass:
 
- der Prozessbeobachter dienstlich mit der Sache nicht befasst sein darf (er kommt
+– der Prozessbeobachter dienstlich mit der Sache nicht befasst sein darf (er kommt
 
 selbst nicht als Zeuge in Betracht) und
 
- eine begründete Gefahr, dass Aussagen oder sonstige Verhandlungsvorgänge
+– eine begründete Gefahr, dass Aussagen oder sonstige Verhandlungsvorgänge
 
 anderen Zeugen unzulässigerweise mitgeteilt werden sollen, besteht nicht.
 
@@ -323,11 +324,11 @@ g. Wie sahen die „fürsorglichen Maßnahmen“ jeweils aus?
 
 Maßnahmen im Sinne der Fragestellung können insbesondere sein:
 
- Begleitung des Polizeizeugen zur Gerichtsverhandlung, um mögliche psychische
+– Begleitung des Polizeizeugen zur Gerichtsverhandlung, um mögliche psychische
 
 Belastungen des Betroffenen beurteilen zu können.
 
- Gespräche des Vorgesetzten mit dem Betroffenen zur Aufarbeitung des Erlebten;
+– Gespräche des Vorgesetzten mit dem Betroffenen zur Aufarbeitung des Erlebten;
 
 gegebenenfalls unter Einbeziehung des Polizeipsychologischen Dienstes.
 
@@ -357,6 +358,6 @@ Wie stellt der Senat beziehungsweise die zuständige Behörde sicher, dass Zeuge
 
 Wie beurteilt der Senat beziehungsweise die zuständige Behörde den Umstand, dass polizeiliche Zeugen/-innen bei ihrer Vernehmung vor Gericht von Kollegen/-innen (der gleichen Wache) begleitet werden und die Aussage ihrer Kollegen/-innen sowie gegebenenfalls weiterer Zeugen/-innen verfolgen?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Vorbemerkung.

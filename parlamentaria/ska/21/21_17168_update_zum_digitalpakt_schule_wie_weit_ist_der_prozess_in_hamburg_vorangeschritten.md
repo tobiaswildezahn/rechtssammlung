@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 19
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15565"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66738"
@@ -39,11 +40,11 @@ Die Verwaltungsvereinbarung zum „DigitalPakt Schule“ ist am 17. Mai 2019, de
 
 Die für Bildung zuständige Behörde hat die notwendigen Vorbereitungsmaßnahmen getroffen, sodass nach Inkrafttreten des „DigitalPakts Schule“ nun mit dessen Umsetzung begonnen werden kann. Die für Bildung zuständige Behörde plant mit den rund 128 Millionen Euro, Hamburgs Anteil an den Bundesmitteln im fünfjährigen Förderzeitraum, unter anderem folgende Maßnahmen umzusetzen:
 
- Alle rund 13 200 Klassen- und Fachräume der 338 allgemeinbildenden und 32
+– Alle rund 13 200 Klassen- und Fachräume der 338 allgemeinbildenden und 32
 
 berufsbildenden staatlichen Hamburger Schulen sollen mit „digitalen Tafeln“ (Präsentationstechnik) sowie modernstem WLAN ausgestattet sein.
 
- Zusätzlich zu den vorhandenen rund 30 000 Computern sollen weitere 30 000
+– Zusätzlich zu den vorhandenen rund 30 000 Computern sollen weitere 30 000
 
 mobile Endgeräte wie Laptops oder Tablets sowie 15 000 Mikrocomputer für den Einsatz im Unterricht beschafft werden.
 

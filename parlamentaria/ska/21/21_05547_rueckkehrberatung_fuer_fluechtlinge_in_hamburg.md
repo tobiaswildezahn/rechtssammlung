@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3105"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54037"
@@ -60,7 +61,7 @@ Wie viele Beratungen zur freiwilligen Rückkehr erfolgten in den Jahren 2010 –
 
 Wie viele dieser Beratungen führten zu einer freiwilligen Ausreise der Ratsuchenden? Falls dieser Zusammenhang nicht evaluiert wird, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 

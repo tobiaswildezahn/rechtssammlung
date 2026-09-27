@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6210"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64088"
@@ -51,7 +52,7 @@ Aus welchen Gründen kam es im Einzelnen zu welchen Bauzeitverzögerungen?
 
 Wann wird die Eröffnung des neuen Familienbades stattfinden? Wann wird die Gesamtfertigstellung erfolgen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Schwierigkeiten bei der Kampfmittelsondierung im 3. Quartal 2016, die eingetretenen Frostperioden Anfang 2017, der unerwartete Wassereintritt in die Baugrube, eine Wiederholung der Betonierarbeiten im Bereich der Sprunggrube des Mehrzweckbeckens sowie aktuell auftretende Lieferschwierigkeiten aufseiten der Auftragnehmer, hier insbesondere beim Gewerk Trockenbau führen nach derzeitigem Kenntnisstand zu einer Fertigstellung des Badneubaus bis Ende des ersten Halbjahres 2019.
 

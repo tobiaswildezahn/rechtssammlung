@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55429"
@@ -57,7 +58,7 @@ Wie viele Leistungsbezieher/-innen nach dem SGB II, SGB III und SGB XII sind der
 
 Wie viele Leistungsbezieher/-innen erhalten innerhalb ihrer PKV keine Zuschläge durch Jobcenter t.a.h., Arbeitsagentur Hamburg und die Grundsicherungsämter Hamburg? Bitte tabellarisch einzeln auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Leistungsempfänger nach dem SGB XII gehören gemäß § 5 Absatz 8a SGB V regulär nicht zum „pflichtversicherten“ Personenkreis. Mit Stand August 2016 sind von
 45.610 Leistungsempfängern nach dem 3. und 4. Kapitel SGB XII insgesamt 12.938 Personen insbesondere über ihre Rentenansprüche pflichtversichert. Somit sind

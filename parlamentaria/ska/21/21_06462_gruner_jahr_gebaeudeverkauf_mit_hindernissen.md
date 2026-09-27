@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 28
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55008"
@@ -103,6 +104,6 @@ Stimmt es, dass die Freie und Hansestadt Hamburg einen Betrag von 156 Millionen 
 
 Wie wurde der voraussichtliche Kaufpreis ermittelt? Welche Kaufpreise wurden für den Grund- und Boden beziehungsweise das aufstehende Gebäude angesetzt? Wie wurden diese Werte ermittelt?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Ein Ankauf würde im Rahmen vorhandener Wirtschaftsplanansätze des LIG erfolgen. Im Übrigen siehe Antwort zu 1. bis 4.

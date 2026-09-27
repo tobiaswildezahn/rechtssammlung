@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49466"
@@ -49,9 +50,9 @@ Die mittelfristige Planung umfasst einen Zeitraum von fünf Jahren. In der mitte
 
 Der Investitionsplan 2015 sieht neben den fortzuführenden Projekten Kaifu-Sole und Anbau einer Kurshalle an das Bad Blankenese als neue große Projekte vor:
 
- Anbau einer Kurshalle an das Hallenbad Rahlstedt
+– Anbau einer Kurshalle an das Hallenbad Rahlstedt
 
- Teilerneuerung und Umgestaltung des Bades Bondenwald
+– Teilerneuerung und Umgestaltung des Bades Bondenwald
 
 Darüber hinaus sind diverse kleine bis mittlere Ersatzinvestitionen geplant.
 

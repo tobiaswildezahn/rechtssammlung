@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/3149", "20/3705", "20/7676", "20/11503", "21/3866", "21/4408", "21/8541", "21/8830", "21/12589"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61910"
@@ -61,7 +62,7 @@ Wie haben sich die tatsächlichen Zügigkeiten jährlich seit 2012 entwickelt (b
 
 Wie sehen die Schülerzahlen nach der sogenannten Verteilerrunde für das kommende Schuljahr 2018/2019 aus (bitte nach Schularten getrennt und alphabetisch auflisten)?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Zu den Entwicklungen der Schuljahre 2012/2013 bis 2017/2018 siehe Drs. 20/3149, 20/3705, 20/7676, 20/11503, 21/3866, 21/4408, 21/8541, 21/8830 und 21/12589.
 

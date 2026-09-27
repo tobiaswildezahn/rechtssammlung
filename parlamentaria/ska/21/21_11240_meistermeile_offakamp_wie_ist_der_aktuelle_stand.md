@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 24
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4849"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60251"
@@ -130,7 +131,7 @@ Wie stellt sich die Planung zur Auslastung vom Handwerker- und Gewerbehof am Off
 
 Wann werden beziehungsweise sollen die Vorverträge in Mietverträge umgewandelt werden?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Mit Stand vom 1. Dezember 2017 liegen über rund 40 Prozent der Flächen (ohne UG und GF) Interessenbekundungen von 28 Betrieben vor.
 

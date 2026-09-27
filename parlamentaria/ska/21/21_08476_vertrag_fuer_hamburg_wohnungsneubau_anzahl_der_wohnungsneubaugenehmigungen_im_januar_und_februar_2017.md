@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57179"
@@ -189,7 +190,7 @@ Wie viele dieser großen Wohnungsbauprojekte haben Verzögerungen in der Genehmi
 
 Welche Ursachen liegen diesen Verzögerungen in der Genehmigung der großen Wohnungsbauprojekte zugrunde?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Zur Dauer der Verfahren siehe Antworten zu 2. und 3. Verzögerungen liegen bei den Bauvorhaben nicht vor. Unter „Verzögerungen“ im Genehmigungsverfahren werden Bauanträge verstanden, die wegen Verstoßes gegen öffentlich-rechtliche Vorschriften
 

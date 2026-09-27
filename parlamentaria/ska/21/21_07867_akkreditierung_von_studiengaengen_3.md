@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56493"
@@ -172,21 +173,21 @@ Hochschule für Angewandte Wissenschaften Hamburg:
 
 Folgende Studiengänge sind noch nicht akkreditiert:
 
- Hochschulübergreifender Bachelor-Studiengang Wirtschaftsingenieurwesen (
+– Hochschulübergreifender Bachelor-Studiengang Wirtschaftsingenieurwesen (
 
 HWI),
 
- Hochschulübergreifender Master-Studiengang Wirtschaftsingenieurwesen (
+– Hochschulübergreifender Master-Studiengang Wirtschaftsingenieurwesen (
 
 HWI)
 
- Weiterbildender Master-Studiengang Angewandte Familienwissenschaften
+– Weiterbildender Master-Studiengang Angewandte Familienwissenschaften
 
- Weiterbildender Master-Studiengang Next Media
+– Weiterbildender Master-Studiengang Next Media
 
- Master-Studiengang Digitale Kommunikation
+– Master-Studiengang Digitale Kommunikation
 
- Master-Studiengang Konstruktionstechnik und Produktentwicklung im Ma-
+– Master-Studiengang Konstruktionstechnik und Produktentwicklung im Ma-
 
 schinenbau
 

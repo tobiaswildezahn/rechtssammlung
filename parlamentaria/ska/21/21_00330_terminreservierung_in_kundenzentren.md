@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 21
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12345", "20/12754"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48465"
@@ -79,7 +80,7 @@ Hält es der Senat weiterhin für richtig, dass die elektronische Wartezeitanzei
 
 Hält es der Senat für zeitgemäß, dass die Bürger ihren Terminplan an den organisatorischen Vorstellungen von Verwaltungseinrichtungen ausrichten müssen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der Senat hat sich hiermit nicht befasst, weil die Organisation der Kundenzentren in eigener Zuständigkeit und Verantwortung der Bezirksämter erfolgt. im Übrigen siehe Drs. 20/12345. Grundsätzlich ist der Senat der Auffassung, dass für eine effiziente Aufgabenwahrnehmung der Verwaltung und ein gutes Dienstleistungsangebot für die Bürgerinnen und Bürger moderne IT-Verfahren eingesetzt werden sollten.
 

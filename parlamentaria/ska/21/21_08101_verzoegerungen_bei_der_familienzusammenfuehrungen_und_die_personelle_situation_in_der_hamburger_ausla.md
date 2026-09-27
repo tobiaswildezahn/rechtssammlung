@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7704", "21/5737"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56760"
@@ -53,7 +54,7 @@ Welche Referate/Sachgebiete gibt es, welche Aufgaben sind ihnen zugeordnet und w
 
 Wie viele Ausländerakten als Maßstab für die Zahl der in den jeweiligen Referaten betreuten Personen zählten die einzelnen Referate der Ausländerbehörde 2016?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Aufteilung der „Abteilung für Ausländerangelegenheiten“ (E 3) ist der folgenden Übersicht zu entnehmen:
 

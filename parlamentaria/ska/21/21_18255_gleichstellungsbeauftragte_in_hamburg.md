@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18071"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67881"
@@ -81,19 +82,19 @@ Einer individuellen Zuordnung der absolvierten Fortbildungen als personenbezogen
 
 Die Gleichstellungsbeauftragten haben beispielsweise an folgenden Fortbildungen teilgenommen:
 
- Arbeitsgrundlagen für neue Gleichstellungsbeauftragte,
+– Arbeitsgrundlagen für neue Gleichstellungsbeauftragte,
 
- Personalprozesse verstehen für Gleichstellungsbeauftragte,
+– Personalprozesse verstehen für Gleichstellungsbeauftragte,
 
- Personalauswahl von A-Z für Gleichstellungsbeauftragte,
+– Personalauswahl von A-Z für Gleichstellungsbeauftragte,
 
- Rechtsmethodik für Nichtjuristen,
+– Rechtsmethodik für Nichtjuristen,
 
- Personalsachbearbeitung und Datenschutz,
+– Personalsachbearbeitung und Datenschutz,
 
- Hinschauen und handeln: Umgang mit psychisch belasteten Beschäftigten,
+– Hinschauen und handeln: Umgang mit psychisch belasteten Beschäftigten,
 
- Work-Life-Balance: Vereinbarkeit von Beruf und Familie.
+– Work-Life-Balance: Vereinbarkeit von Beruf und Familie.
 
 Insgesamt fielen bei den Dienststellen der Freien und Hansestadt Hamburg dafür Kosten in Höhe von insgesamt rund 22 000 Euro an, bei den Öffentlichen Unternehmen rund 34 000 Euro.
 
@@ -170,7 +171,7 @@ Wie hoch liegt die Teilzeitquote aktuell und im Vergleich zu 2017
 
 Wie hoch ist der Anteil der Männer in Teilzeitbeschäftigung aktuell und im Vergleich zu 2017?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Dezember 2017  
 Juli 2019  

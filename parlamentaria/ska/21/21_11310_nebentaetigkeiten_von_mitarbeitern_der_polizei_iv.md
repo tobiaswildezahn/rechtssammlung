@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8851", "21/7202"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60303"
@@ -45,7 +46,7 @@ Wie viele Polizeibedienstete haben seit 2010 bis zum Stichtag
 Wie viele Polizeibedienstete haben seit 2010 bis zum Stichtag
 30.11.2017 jeweils jährlich Nebentätigkeiten auf eigenen Wunsch ausgeübt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/8851 und 21/7202.
 
@@ -66,7 +67,7 @@ Wie hat sich der Anteil der Polizeibediensteten mit Nebentätigkeiten in den ein
 
 Wie ist diese Entwicklung zu erklären?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Statistische Daten im Sinne der Fragestellung werden bei der Polizei nicht erhoben. Für die Beantwortung der Fragen wäre eine Durchsicht sämtlicher Personalakten der in dem erfragten Zeitraum bei der Polizei Hamburg beschäftigten und mittlerweile zum Teil bereits in Pension befindlichen Beamtinnen und Beamten erforderlich. Die Auswertung dieser Personalakten ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

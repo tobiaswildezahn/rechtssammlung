@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62100"
@@ -37,55 +38,55 @@ Darüber hinaus hat das Gericht eine analoge Anwendung der Regelbedarfsstufen de
 
 ## Einleitung für die Antworten des Senats
 
- Grundbetrag gemäß § 3 Absatz 2 Satz 2 AsylbLG
+– Grundbetrag gemäß § 3 Absatz 2 Satz 2 AsylbLG
 
- Nahrungsmittel, alkoholfreie Getränke
+– Nahrungsmittel, alkoholfreie Getränke
 
- Bekleidung und Schuhe
+– Bekleidung und Schuhe
 
- Wohnen (außer Miete und Heizkosten), Energie und Wohnungsinstand-
+– Wohnen (außer Miete und Heizkosten), Energie und Wohnungsinstand-
 
 haltung
 
- Gesundheitspflege
+– Gesundheitspflege
 
 Dieser Bedarf kann theoretisch auch künftig durch Sachleistungen gedeckt werden. In der Berechnung nicht enthalten ist die Position „Innenausstattung, Haushaltsgeräte und -gegenstände“. Grund dafür: Hausrat wird nach § 3 Absatz 2 Satz 2 AsylbLG zusätzlich zu den Regelsätzen erbracht und sollte gesondert beantragt werden. Zusätzlich zu diesen Leistungen für das „physische Existenzminimum“ hat das Gericht ausdrücklich auch Bedarfe für die Sicherung des „soziokulturellen Existenzminimums“ anerkannt – also die Teilhabe am kulturellen, sozialen und politischen Leben. Diese Bedarfe sind über den Barbetrag gemäß § 3 Absatz 1 Satz 4 AsylbLG künftig in gleicher Höhe wie im SGB XII zu gewähren. Der Barbetrag gemäß § 3 Absatz 1 Satz 4 AsylbLG deckt folgende Bedarfe ab:
 
- Verkehr
+– Verkehr
 
- Nachrichtenübermittlung
+– Nachrichtenübermittlung
 
- Freizeit, Unterhaltung, Kultur
+– Freizeit, Unterhaltung, Kultur
 
- Bildung
+– Bildung
 
- Beherbergungs- und Gaststättendienstleistungen
+– Beherbergungs- und Gaststättendienstleistungen
 
- andere Waren und Dienstleistungen
+– andere Waren und Dienstleistungen
 
 Zusätzlich zum Regelsatz erhalten Leistungsberechtigte die Unterkunfts- und Heizkosten (unter Umständen in Form einer Gemeinschaftsunterbringung) sowie – anders als bei Hartz-IV-Empfängern – Hausrat als einmalige Beihilfe.
 
 Das SGB II ist das Regelsystem der Grundsicherung, in dem im Normalfall bedürftige, erwerbsfähige Personen abgesichert sind. Allerdings bestehen für Ausländer mehrere Spezialvoraussetzungen und Ausschlusskriterien. Dazu zählen:
 
- der gewöhnliche und rechtmäßige Aufenthalt (§ 7 Absatz 1 Satz 1 Num-
+– der gewöhnliche und rechtmäßige Aufenthalt (§ 7 Absatz 1 Satz 1 Num-
 
 mer 4 SGB II)
 
- die ausländerrechtliche Erwerbsfähigkeit (§ 7 Absatz 1 Satz 1 Nummer 2
+– die ausländerrechtliche Erwerbsfähigkeit (§ 7 Absatz 1 Satz 1 Nummer 2
 
 i.V.m. § 8 Absatz 2 SGB II)
 
 Als Ausschlussgründe bestehen folgende Regelungen:
 
- Ausländerinnen und Ausländer, die weder in der Bundesrepublik
+– Ausländerinnen und Ausländer, die weder in der Bundesrepublik
 
 Deutschland Arbeitnehmerinnen, Arbeitnehmer oder Selbständige noch aufgrund des § 2 Absatz 3 des Freizügigkeitsgesetzes/EU freizügigkeitsberechtigt sind, und ihre Familienangehörigen für die ersten drei Monate ihres Aufenthalts
 
- Ausländerinnen und Ausländer, deren Aufenthaltsrecht sich allein aus
+– Ausländerinnen und Ausländer, deren Aufenthaltsrecht sich allein aus
 
 dem Zweck der Arbeitsuche ergibt, und ihre Familienangehörigen
 
- Leistungsberechtigte nach § 1 des Asylbewerberleistungsgesetzes
+– Leistungsberechtigte nach § 1 des Asylbewerberleistungsgesetzes
 
 Vor diesem Hintergrund frage ich den Senat:
 

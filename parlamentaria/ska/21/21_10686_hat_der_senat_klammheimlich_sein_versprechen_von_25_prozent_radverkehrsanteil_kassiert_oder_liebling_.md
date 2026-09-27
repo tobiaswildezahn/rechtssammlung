@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 39
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/7662", "21/253"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59589"
@@ -65,7 +66,7 @@ Mit welchem Radverkehrsanteil in Hamburg wird im Rahmen der zweiten Fortschreibu
 a) bis 2020,
 b) bis 2025 aus welchen Gründen gerechnet und welche Annahmen sowie Daten liegen diesen Werten jeweils zugrunde?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Bericht „2. Fortschreibung Luftreinhalteplan; Gesamtdokumentation der Verkehrsmodellberechnungen“ des Büros ARGUS Stadt- und Verkehrsplanung, veröffentlicht im Hamburger Transparenzportal: http://suche.transparenz.hamburg.de/dataset/ 2-fortschreibung-luftreinhalteplan-gesamtdokumentation-derverkehrsmodellberechnungen1.
 

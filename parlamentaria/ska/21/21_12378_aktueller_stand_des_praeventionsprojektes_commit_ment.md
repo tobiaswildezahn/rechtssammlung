@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4697", "21/8722", "21/10124"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61668"
@@ -100,11 +101,11 @@ Summe
 
 Auf die Workshops wurde in unterschiedlicher Weise aufmerksam gemacht, je nach Absprache mit der kooperierenden Schule:
 
- durch Vorstellung der Ziele und Inhalte in den Schulklassen oder direkte Gesprä-
+– durch Vorstellung der Ziele und Inhalte in den Schulklassen oder direkte Gesprä-
 
 che mit dem pädagogischen Personal vor Ort,
 
- per Aushang und/oder Verteilung von Informationsmaterialien in den Schulen.
+– per Aushang und/oder Verteilung von Informationsmaterialien in den Schulen.
 
 ### Frage 2
 

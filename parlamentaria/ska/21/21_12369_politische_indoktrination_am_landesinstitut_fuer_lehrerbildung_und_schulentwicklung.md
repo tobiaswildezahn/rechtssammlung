@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 14
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6512", "21/10415", "21/11515", "21/11726"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61657"
@@ -47,19 +48,19 @@ Das Hamburgische Schulgesetz (HmbSG) beschreibt folgenden Bildungsauftrag der Sc
 
 „Unterricht und Erziehung richten sich an den Werten des Grundgesetzes und der Verfassung der Freien und Hansestadt Hamburg aus. Es ist Aufgabe der Schule, die Schülerinnen und Schüler zu befähigen und ihre Bereitschaft zu stärken,
 
- ihre Beziehungen zu anderen Menschen nach den Grundsätzen der Achtung und
+– ihre Beziehungen zu anderen Menschen nach den Grundsätzen der Achtung und
 
 Toleranz, der Gerechtigkeit und Solidarität sowie der Gleichberechtigung der Geschlechter zu gestalten und Verantwortung für sich und andere zu übernehmen,
 
- an der Gestaltung einer der Humanität verpflichteten demokratischen Gesellschaft
+– an der Gestaltung einer der Humanität verpflichteten demokratischen Gesellschaft
 
 mitzuwirken und für ein friedliches Zusammenleben der Kulturen sowie für die Gleichheit und das Lebensrecht aller Menschen einzutreten,
 
- das eigene körperliche und seelische Wohlbefinden ebenso wie das der Mitmen-
+– das eigene körperliche und seelische Wohlbefinden ebenso wie das der Mitmen-
 
 schen wahren zu können und
 
- Mitverantwortung für die Erhaltung und den Schutz der natürlichen Umwelt zu
+– Mitverantwortung für die Erhaltung und den Schutz der natürlichen Umwelt zu
 
 übernehmen.“
 
@@ -115,7 +116,7 @@ Anmerkung: Bei den abgefragten Veranstaltungsinhalten handelt es sich überwiege
 
 Geplanter Ablauf der Veranstaltung:
 
- Vorstellung möglicher Methoden für Schüler und Schülerinnen und Seminarablauf
+– Vorstellung möglicher Methoden für Schüler und Schülerinnen und Seminarablauf
 
 o „Ecken-Spiele“
 
@@ -125,33 +126,33 @@ o Kurzstatements schreiben (gegebenenfalls anonym)
 
 o Gruppenarbeit (TV-Show), zum Beispiel entlang von Parteipositionen
 
- Insbesondere die Ecken-Spiele, die aus der Dilemmapädagogik stammen, wurden
+– Insbesondere die Ecken-Spiele, die aus der Dilemmapädagogik stammen, wurden
 
 mit den Lehrkräften in der Veranstaltung eingeübt und in Hinblick auf die Nutzung im Unterricht reflektiert
 
- Ambiguitätstoleranz für alle Seiten herstellen
+– Ambiguitätstoleranz für alle Seiten herstellen
 
- Herausarbeitung möglicher Barrieren zur Perspektivübernahme und Empathiefä-
+– Herausarbeitung möglicher Barrieren zur Perspektivübernahme und Empathiefä-
 
 higkeit bei Schülerinnen und Schülern und mögliche didaktisch-methodische Lösungsansätze
 
- Besprechung demokratischer und demokratieförderlicher Diskussionssettings im
+– Besprechung demokratischer und demokratieförderlicher Diskussionssettings im
 
 Unterricht,
 
- Widersprüche aushalten lernen – Einübung und Vorstellung des Ansatz der
+– Widersprüche aushalten lernen – Einübung und Vorstellung des Ansatz der
 
 Dilemmapädagogik
 
- Kurze Wahlanalyse der türkischstämmigen Bevölkerung in Deutschland zu den
+– Kurze Wahlanalyse der türkischstämmigen Bevölkerung in Deutschland zu den
 
 letzten Wahlen in der Türkei und mögliche Schlussfolgerungen für den Politikunterricht
 
- Kollegialer Austausch über eigene Erfahrungen zur Aktivierung und Stärkung der
+– Kollegialer Austausch über eigene Erfahrungen zur Aktivierung und Stärkung der
 
 Positionsfähigkeit von Schülerinnen und Schülern
 
- Feedback zur Veranstaltung
+– Feedback zur Veranstaltung
 
 Einzelne, gegebenenfalls von der Planung abweichende Verläufe von Fortbildungsveranstaltungen werden nicht dokumentiert oder archiviert, siehe dazu auch Drs. 21/10415.
 
@@ -233,7 +234,7 @@ Was versteht die BSB konkret unter „den Wankelmütigen an den Grenzen“ und �
 
 Inwieweit ist die in der Beschreibung angekündigte und mutmaßlich auch durchgeführte Erarbeitung von „Strategien“, um sogenanntem Rechtspopulismus „etwas entgegenzusetzen“, vereinbar mit den Prinzipien des Beutelsbacher Konsenses und der Verpflichtung zur politischen Neutralität?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Vorbemerkung. Darüber hinaus erfordert auch die Verpflichtung zur politischen Neutralität, demokratische Grundüberzeugungen und Positionen sichtbar zu machen und zu stärken. Hierzu kann es je nach didaktischer Analyse und Ausgangslage der Lerngruppe notwendig sein, die Lernenden auch mit Parolen – welcher Richtung auch immer – zu konfrontieren, damit die Schülerinnen und Schüler sich mit ihnen kritisch auseinandersetzen können.
 

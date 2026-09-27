@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4592"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53007"
@@ -84,7 +85,7 @@ Welche konkreten Verletzungen erlitten die an dem Konflikt/der Schlägerei betei
 
 Wie viele der an der Schlägerei beteiligten Personen haben einen Migrationshintergrund? Bitte den konkreten Migrationshintergrund angeben.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/4592.
 

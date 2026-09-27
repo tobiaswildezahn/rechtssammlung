@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 17
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6980", "21/12666", "21/8794", "21/4165"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62493"
@@ -61,7 +62,7 @@ Welche konkrete Mehrbelastung hat sich durch die Reform der strafrechtlichen Ver
 
 Welche praktischen Auswirkungen hat die Reform der strafrechtlichen Vermögensabschöpfung auf die Jugendstrafverfahren?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -157,57 +158,57 @@ Im Einzelnen wurden die folgenden Fortbildungsveranstaltungen angeboten.
 
 Die Justizbehörde hat die folgenden Fortbildungen durchgeführt:
 
- 17.01.2017: „Die Reform der strafrechtlichen Vermögensabschöpfung“. Teilneh-
+– 17.01.2017: „Die Reform der strafrechtlichen Vermögensabschöpfung“. Teilneh-
 
 mer/-innen: 28.
 
- 11.10.2017: „Die Reform der strafrechtlichen Vermögensabschöpfung“. Teilneh-
+– 11.10.2017: „Die Reform der strafrechtlichen Vermögensabschöpfung“. Teilneh-
 
 mer/-innen: 29.
 
- 16.01.2018: „Die Reform der strafrechtlichen Vermögensabschöpfung“. Teilneh-
+– 16.01.2018: „Die Reform der strafrechtlichen Vermögensabschöpfung“. Teilneh-
 
 mer/-innen: 60.
 
 Die Staatsanwaltschaft hat die folgenden Fortbildungen durchgeführt:
 
- 20.06.2017: Vortrag über die Neuerungen der Reform. Teilnehmer/-innen: 34.
+– 20.06.2017: Vortrag über die Neuerungen der Reform. Teilnehmer/-innen: 34.
 
- 27.06.2017 Zwei Spezialistenvorträge für die Vollstreckungshauptabteilung I (24
+– 27.06.2017 Zwei Spezialistenvorträge für die Vollstreckungshauptabteilung I (24
 
 Teilnehmer/-innen) und für Dezernenten aus Spezialabteilungen (27 Teilnehmer/- innen).
 
- Von Juli bis Oktober 2017: Fünf „Breitenschulungen“. Teilnehmer/-innen: circa 160.
+– Von Juli bis Oktober 2017: Fünf „Breitenschulungen“. Teilnehmer/-innen: circa 160.
 
 Das Amtsgericht hat für die Rechtspfleger die folgenden Fortbildungen durchgeführt:
 
- Fortbildung Teil I (Einführung) am 12.01.2018. Teilnehmer/-innen: 14.
+– Fortbildung Teil I (Einführung) am 12.01.2018. Teilnehmer/-innen: 14.
 
- Fortbildung Teil II (rechtlicher Teil) am 06.03.2018. Teilnehmer/-innen: 14.
+– Fortbildung Teil II (rechtlicher Teil) am 06.03.2018. Teilnehmer/-innen: 14.
 
 Zudem können die Richter/-innen und Staatsanwälte/-innen im Rahmen des Hamburg zur Verfügung stehenden begrenzten Platzkontingents an den Fortbildungen der Deutschen Richterakademie sowie des Nordverbundes teilnehmen. Angeboten wurden/werden:
 
- 13. – 15.09.2017: „Erfahrungsaustausch und aktuelle Probleme der Vermögensab-
+– 13. – 15.09.2017: „Erfahrungsaustausch und aktuelle Probleme der Vermögensab-
 
 schöpfung“. Teilnehmer/-innen aus Hamburg: drei.
 
- 8.10. – 13.10.2017: „Organisierte Kriminalität“ Teilnehmer/-innen aus Hamburg:
+– 8.10. – 13.10.2017: „Organisierte Kriminalität“ Teilnehmer/-innen aus Hamburg:
 
 zwei.
 
- 8.10. – 13.10.2017: „Internationale Zusammenarbeit in strafrechtlichen Angelegen-
+– 8.10. – 13.10.2017: „Internationale Zusammenarbeit in strafrechtlichen Angelegen-
 
 heiten“. Teilnehmer/-innen aus Hamburg: zwei.
 
- 6.05. – 09.05.2018: „Das neue Recht der strafrechtlichen Vermögensabschöpfung
+– 6.05. – 09.05.2018: „Das neue Recht der strafrechtlichen Vermögensabschöpfung
 
 – Normverständnis und Anwendung in der Praxis“. Teilnehmer/-innen aus Hamburg: eine/r.
 
- 27.08. – 31.08.2018: „Aktuelle Entwicklungen im Wirtschaftsstrafrecht“. Teilneh-
+– 27.08. – 31.08.2018: „Aktuelle Entwicklungen im Wirtschaftsstrafrecht“. Teilneh-
 
 mer/-innen aus Hamburg: keine.
 
- 17. – 19.10.2018: „Vermögensabschöpfung“. Teilnehmer/-innen aus Hamburg:
+– 17. – 19.10.2018: „Vermögensabschöpfung“. Teilnehmer/-innen aus Hamburg:
 
 keine.
 

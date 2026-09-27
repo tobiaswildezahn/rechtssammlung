@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 18
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8276", "20/13112"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50309"
@@ -59,7 +60,7 @@ Besteht eine zusätzliche Förderung von Schülerinnen und Schülern mit besonde
 
 In welcher Form geschieht die individuelle Förderung der Schülerinnen und Schüler mit besonders schwachen Schwimmleistungen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Ja, schwimmschwache und wasserängstliche Schülerinnen und Schüler werden im Rahmen des Förderschwimmprojekts „Wasser entdecken“ besonders unterstützt. Die betroffenen Schülerinnen und Schüler werden in einer speziellen Fördergruppe parallel zum obligatorischen Schulschwimmen und zusätzlich am Nachmittag in additiven Fördergruppen individuell gefördert. Zum Förderprogramm „Wasser entdecken“ siehe: http://www.schulsport-hamburg.de/Schulschwimmen/Schwimmfoerderung.
 
@@ -91,6 +92,6 @@ Wie hat sich die Bilanz der Schwimmfähigkeit der Schülerinnen und Schüler sei
 
 Wie hoch ist der prozentuale Anteil der Schülerinnen und Schüler am Ende der Grundschule, die a. die Prüfung „Seepferdchen“ mit Erfolg bestanden haben? b. das Jugendschwimmabzeichen „Bronze“ erworben haben? c. das Jugendschwimmabzeichen „Silber“ erworben haben? d. das Jugendschwimmabzeichen „Gold“ erworben haben? Bitte die Zahlen sowohl prozentual als auch absolut angeben. Bitte darüber hinaus nach Bezirken aufgliedern.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Zur Anzahl der Schülerinnen und Schüler, die im Schuljahr 2013/2014 in Jahrgangsstufe 3 und 4 am Schwimmunterricht teilgenommen haben und zu deren erworbenen Schwimmabzeichen siehe Drs. 20/13112. Für das Schuljahr 2014/2015 ist die Auswertung der Daten noch nicht abgeschlossen. Die Ergebnisse werden nach jetziger Planung Ende 2015 vorliegen.

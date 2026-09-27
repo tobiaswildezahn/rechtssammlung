@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55177"
@@ -47,7 +48,7 @@ Von wo bis wo verkehrt die MetroBus-Linie 2?
 
 Wann fährt sie im Fünf-Minuten-Takt, wann im Zehn-Minuten-Takt, wann in längeren Takten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 21
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10052"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48211"
@@ -201,7 +202,7 @@ Was ist mit den so entbundenen Babys jeweils passiert?
 
 In wie vielen Fällen haben sich die Mütter später gemeldet, um ihre Kinder zurückzubekommen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 In einem Fall hat sich die Frau nach der Entbindung entschieden, das Kind zu behalten, in dem anderen Fall wurde das Kind in die Obhut des zuständigen Jugendamtes gegeben.
 

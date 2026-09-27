@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/986", "21/2450"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51137"
@@ -53,7 +54,7 @@ Warum war der Senat in der Vergangenheit nicht in der Lage beziehungsweise nicht
 
 Ist der Senat bereit, die Art der vergangenen Beantwortungen bezüglich Frage 1. kritisch zu hinterfragen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/986.
 

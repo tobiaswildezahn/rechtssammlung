@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13671"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54032"
@@ -122,7 +123,7 @@ Welche Ursachen liegen nach Ansicht des Senats beziehungsweise der zuständigen 
 
 Wie bewertet der Senat beziehungsweise die zuständige Behörde die Entwicklung und die Ist-Situation der Notfallzuführungen an den beiden Krankenhäusern in Harburg?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Zahl der Notfallzuführungen in Hamburger Krankenhäusern ist in den vergangenen Jahren insgesamt weiter gestiegen.
 

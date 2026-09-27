@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 22
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6220"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64411"
@@ -71,7 +72,7 @@ Welche Umleitungsstrecken wurden jeweils ausgewiesen? Wie viel Stau, Unfälle un
 
 Welche Zeitverluste gab es jeweils für die betroffenen Lkw- und Pkw- Fahrerinnen und Fahrer aufgrund dieser Umleitungen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Bei Baumaßnahmen am Elbtunnel werden keine Umleitungsstrecken ausgewiesen, da der Verkehr trotz Einschränkungen jederzeit in beide Richtungen möglich ist.
 

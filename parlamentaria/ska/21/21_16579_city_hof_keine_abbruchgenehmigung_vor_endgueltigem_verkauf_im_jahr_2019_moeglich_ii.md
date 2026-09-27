@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15094", "21/2904", "21/16488"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66117"
@@ -130,6 +131,6 @@ Gibt es mittlerweile den abschließenden Beratungsbericht von ICOM- OS? Wenn ja,
 
 Hat sich das Welterbekomitee den Empfehlungen von ICOMOS angeschlossen? Falls nein, welche Empfehlungen hat das Welterbekomitee ausgesprochen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Drs. 21/16488 und dazu www.hamburg.de/contentblob/9375062/ c6eff3a3757c0d4dd8bbc1c203702a6a/data/stellungnahme-icomos.pdf.

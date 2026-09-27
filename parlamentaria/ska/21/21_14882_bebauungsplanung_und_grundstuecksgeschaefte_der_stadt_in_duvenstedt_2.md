@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10472", "21/12618", "21/12680"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64326"
@@ -61,9 +62,9 @@ Welche Gutachten liegen inzwischen bereits mit welchen Ergebnissen vor für dies
 
 Es liegen folgende Gutachten im Entwurf vor, deren Auswertung und Abschluss im Rahmen der Behördenbeteiligung erfolgen:
 
- Faunistische Bestandserfassung und Artenschutzuntersuchung
+– Faunistische Bestandserfassung und Artenschutzuntersuchung
 
- Baugrunduntersuchung
+– Baugrunduntersuchung
 
 ### Frage 4
 

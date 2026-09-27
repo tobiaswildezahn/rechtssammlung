@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62944"
@@ -154,15 +155,15 @@ Steht den Mitarbeiterinnen und Mitarbeitern der SRH für die Wahrnehmung ihrer A
 
 Es sind insgesamt 170 neue Fahrzeuge angeschafft worden:
 
- neun Großkehrmaschinen, acht Gerätekehrmaschinen, 105 Klein-Lkws, fünf
+– neun Großkehrmaschinen, acht Gerätekehrmaschinen, 105 Klein-Lkws, fünf
 
 Papierkorb-Lkws und 43 Dienstaufsichtsfahrzeuge (Pkws),
 
 des Weiteren folgende Gerätschaften:
 
- zwei Schrubbdecks zur Nassreinigung (Anbaugeräte für Gerätekehrmaschinen),
+– zwei Schrubbdecks zur Nassreinigung (Anbaugeräte für Gerätekehrmaschinen),
 
- zwei Hochdruckreinigungsgeräte zur Nassreinigung, 70 elektrische Laubblasgerä-
+– zwei Hochdruckreinigungsgeräte zur Nassreinigung, 70 elektrische Laubblasgerä-
 
 te.
 

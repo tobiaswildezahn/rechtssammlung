@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/4856", "18/4929", "18/7424"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58638"
@@ -33,17 +34,17 @@ Mit der Drs. 18/4856 sind vorbereitend und erklärend hinsichtlich des Bürgersc
 
 ## Einleitung für die Antworten des Senats
 
- Stärkung der Eigenkapital-Ausstattung
+– Stärkung der Eigenkapital-Ausstattung
 
- Übertragungsbeschränkungen
+– Übertragungsbeschränkungen
 
- Interessen der Arbeitnehmer/-innen
+– Interessen der Arbeitnehmer/-innen
 
- Standortsicherung
+– Standortsicherung
 
- Neubau- und Investitionsverpflichtung
+– Neubau- und Investitionsverpflichtung
 
- Stärkung des Wirtschaftsstandortes Hamburg
+– Stärkung des Wirtschaftsstandortes Hamburg
 
 Hierzu fragen wir den Senat:
 
@@ -67,7 +68,7 @@ Ist die 20-jährige Verpflichtung zur Standortsicherung gewährleistet?
 
 Ist die 20-jährige Zweckbestimmung der Pflegegrundstücke grundbuchlich durch eine entsprechende Grunddienstbarkeit gesichert worden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Ja. Im Übrigen siehe Drs. 18/7424.
 

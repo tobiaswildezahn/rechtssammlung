@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51357"
@@ -594,10 +595,10 @@ c) ihre Einrichtung schließen? (Bitte detaillierte Darstellung.)
 
 Für den Zeitraum 2011 bis 2016 gilt:
 
- Es gab keine Einschränkungen der Sprech- und Öffnungszeiten.
+– Es gab keine Einschränkungen der Sprech- und Öffnungszeiten.
 
- Beim Struensee-Centrum der AIDS-Hilfe Hamburg e.V. wurden im Vergleich zum
+– Beim Struensee-Centrum der AIDS-Hilfe Hamburg e.V. wurden im Vergleich zum
 
 Jahr 2011 0,37 VZÄ abgebaut. Weitere Reduzierungen bei Stellenanteilen wurden nicht vorgenommen.
 
- Es wurde keine Einrichtung geschlossen.
+– Es wurde keine Einrichtung geschlossen.

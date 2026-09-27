@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5294", "21/5425"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54016"
@@ -47,7 +48,7 @@ Stimmt der Senat der Aussage des Leiters der Agentur für Arbeit Hamburg im „H
 
 Wie viele Arbeitsgelegenheiten nach § 421 a SGB III sind für Hamburg geplant und zu wann sollen diese umgesetzt werden? Bitte auflisten im Verhältnis Anzahl und jeweiliger Beginn.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Richtlinie des Bundesministeriums sieht eine Verteilung nach dem Königsteiner Schlüssel vor, siehe: http://www.bmas.de/SharedDocs/Downloads/DE/Thema- Arbeitsmarkt/richtliniefluechtlingsintegrationsmassnahmen.pdf?__blob=publicationFile&v=2.
 

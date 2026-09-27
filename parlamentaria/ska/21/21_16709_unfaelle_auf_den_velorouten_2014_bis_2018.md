@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66250"
@@ -70,6 +71,6 @@ Wie viele Verkehrsunfälle mit Radfahrern haben sich in den Jahren 2014 bis eins
 Wie viele im Verkehr verunglückte Radfahrer gab es in den Jahren 2014 bis einschließlich 2018 auf den Velorouten in Hamburg? Bitte gliedern Sie nach Jahr, Zahl der Leichtverletzten, Zahl der Schwerverletzten und Zahl der Getöteten und Route: a. Route 1: City – Altona – Othmarschen – Blankenese – Rissen b. Route 2: City – Eimsbüttel – Stellingen – Eidelstedt c. Route 3: City – Rothenbaum/Uni – Niendorf d. Route 4: City – Harvestehude – Winterhude – Alsterdorf – Fuhlsbüttel – Langenhorn e. Route 5: City – Uhlenhorst – Barmbek – Bramfeld – Poppenbüttel – Duvenstedt f. Route 6: City – Hohenfelde – Dulsberg – Farmsen – Berne – Volksdorf g. Route 7: City – St. Georg – Eilbek – Wandsbek-Markt – Jenfeld – Rahlstedt h. Route 8: City – Borgfelde – Hamm – Billstedt – Bergedorf i. Route 9: City – Hammerbrook – Rothenburgsort – Moorfleet – Allermöhe – Bergedorf j. Route 10: City – HafenCity – Veddel – Wilhelmsburg – Harburg – Neugraben k. Route 11: City – Alter Elbtunnel – Wilhelmsburg – Harburg – TU Hamburg l. Route 12: City – St. Pauli – Landungsbrücken – Altona m. Route 13: Innere Ringroute: Altona – Eimsbüttel – Winterhude – Barmbek – Eilbek – Hamm n. Route 14: Äußere Ringroute: Othmarschen – Schnelsen – Niendorf
 – Poppenbüttel – Billstedt
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine Beantwortung im Sinne der Fragestellung ist nicht möglich. Siehe Vorbemerkung.

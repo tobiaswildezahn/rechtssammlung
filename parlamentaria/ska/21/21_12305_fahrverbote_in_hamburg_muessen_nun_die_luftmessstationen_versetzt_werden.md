@@ -10,12 +10,13 @@ urheber: ["Stephan Jersch"]
 fraktionen: ["Die Linke"]
 vorgang: 56147
 seiten: 2
-fragen: 0
-einzelfragen: 0
-antwortbloecke: 0
+fragen: 1
+einzelfragen: 3
+antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61580"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/61580/21_12305_fahrverbote_in_hamburg_muessen_nun_die_luftmessstationen_versetzt_werden"
 abgerufen: "2026-09-26"
@@ -27,11 +28,9 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Stephan Jersch (DIE LINKE) vom 12.03.18 und Antwort des Senats · Drucksache vom 20.03.2018  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/61580) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/61580/21_12305_fahrverbote_in_hamburg_muessen_nun_die_luftmessstationen_versetzt_werden)
 
-## Volltext
+## Einleitung für die Fragen
 
-Fahrverbote in Hamburg: Müssen nun die Luftmessstationen versetzt werden?
-
-Im Februar 2018 hat das Bundesverwaltungsgericht den Weg für Diesel- Fahrverbote in Deutschland frei gemacht. Postwendend kündigte die Behörde für Umwelt und Energie (BUE) an, ab April 2018 sogenannte Durchfahrtsbeschränkungen an der Max-Brauer-Allee sowie der Stresemannstraße um- und durchzusetzen.
+Im Februar 2018 hat das Bundesverwaltungsgericht den Weg für Diesel- Fahrverbote in Deutschland frei gemacht. Postwendend kündigte die Behörde für Umwelt und Energie (BUE) an, ab April 2018 sogenannte Durchfahrtsbeschränkungen an der Max-Brauer-Allee sowie der Stresemannstraße umund durchzusetzen.
 
 An beiden Straßen werden in der Folge die dort vorhandenen verkehrsnahen Probenahmestellen des Hamburger Luftmessnetzes von Dieselfahrzeugen unterhalb der Abgasnorm EURO VI umfahren. Laut der 2. Fortschreibung des Luftreinhalteplans für Hamburg sollen dabei die Durchfahrbeschränkungen für Diesel-Fahrzeuge bis zum Jahr 2020 eine Verringerung der Stickstoffdioxidbelastung von 8,1 μg/m³ für die Station an der Max-Brauer-Allee (Pkws und Lkws) und von 3,2 μg/m³ für die Station an der Stresemannstraße (nur Lkws) nach sich ziehen.
 
@@ -43,11 +42,17 @@ Insofern ist davon auszugehen, dass die beiden Probenahmestellen nach Einführun
 
 Vor diesem Hintergrund frage ich den Senat:
 
+## Einleitung für die Antworten des Senats
+
 Mit der 2. Fortschreibung des Luftreinhalteplans im Juni 2017 wurden lokale Dieseldurchfahrtsbeschränkungen beschlossen. Diese Maßnahmen standen unter dem Vorbehalt, dass das Bundesverwaltungsgericht die rechtliche Zulässigkeit einer solchen
 
 Maßnahme auf Landesebene feststellt. Betroffen ist ein Straßenabschnitt der Max- Brauer-Allee für Pkws und Lkws älter als Abgasnorm Euro 6 beziehungsweise VI und ein Straßenabschnitt der Stresemannstraße für Diesel-Lkws (älter als Euro VI). Die Dieseldurchfahrtsbeschränkung in der Max-Brauer-Allee wird auf einer Länge von circa 580 m und in der Stresemannstraße auf einer Länge von circa 1.600 m gelten.
 
 Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
+
+## Fragen und Antworten
+
+### Frage 1
 
 Plant die zuständige Fachbehörde die Verlegung der Probenahmestellen Max-Brauer-Allee und Stresemannstraße?
 
@@ -55,8 +60,10 @@ Plant die zuständige Fachbehörde die Verlegung der Probenahmestellen Max-Braue
 
 - Falls nein, warum nicht?
 
+#### Antwort zu Frage 1
+
 Die Probenahmestellen des Hamburger Luftmessnetzes (HaLM) werden auf Grundlage der 39. BImSchV errichtet und betrieben (vergleiche hierzu die Anforderungen der Anlage 3, A-C 39. BImSchV). Die darin geforderte Repräsentativität ist für die beiden Straßenabschnitte der Max-Brauer-Allee und der Stresemannstraße gewährleistet.
 
 Die Ortswahl der Messstellenstandorte wird regelhaft überprüft, um sicherzustellen, dass Auswahlkriterien und Messstellenstandorte mit den gesetzlichen Vorgaben übereinstimmen.
 
-Eine Verlegung der verkehrsnahen Luftmessstationen in den von Dieseldurchfahrtsbeschränkungen betroffenen Straßenabschnitten ist derzeit nicht geplant, sie dienen unter anderem dem Monitoring des LRP. Sobald sichergestellt ist, dass der NO2- Grenzwert an diesem Hot-Spot sicher eingehalten wird, wird die Standortwahl neu bewertet.
+Eine Verlegung der verkehrsnahen Luftmessstationen in den von Dieseldurchfahrtsbeschränkungen betroffenen Straßenabschnitten ist derzeit nicht geplant, sie dienen unter anderem dem Monitoring des LRP. Sobald sichergestellt ist, dass der NO- Grenzwert an diesem Hot-Spot sicher eingehalten wird, wird die Standortwahl neu bewertet.

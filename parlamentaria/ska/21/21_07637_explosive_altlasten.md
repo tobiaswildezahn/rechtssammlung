@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7568"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56238"
@@ -59,7 +60,7 @@ Wie viele dieser Blindgängerfunde führten zu Einschränkungen im Bahnverkehr o
 
 Welchen zeitlichen Umfang hatten diese Einschränkungen 2014 – 2016 jeweils?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die für die Beantwortung notwendigen Informationen werden statisch nicht erfasst. Für eine Beantwortung müssten mehrere Hundert Einsatzberichte händisch ausgewertet werden. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

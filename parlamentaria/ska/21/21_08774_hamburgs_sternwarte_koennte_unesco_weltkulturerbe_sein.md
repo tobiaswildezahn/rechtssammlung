@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12341", "21/8593"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57506"
@@ -43,7 +44,7 @@ Was hat der Senat beziehungsweise die zuständige Behörde seit 2011 unternommen
 
 Was hat sich daraus konkret seit 2011 ergeben?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 20/12341.
 

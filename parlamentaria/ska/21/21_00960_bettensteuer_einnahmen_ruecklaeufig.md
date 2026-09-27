@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14104", "21/522", "20/12821"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49165"
@@ -67,7 +68,7 @@ Durch die Erhebung der Kultur- und Tourismustaxe fallen Vollzugskosten in Höhe 
 
 Wie hoch werden die Verwaltungskosten aus Sicht des Senats in 2016 sein?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Vollzugskosten aufseiten der für Finanzen zuständigen Behörde werden auch für das Jahr 2016 415.000 Euro betragen. Neben den darüber hinaus entstandenen Mindereinnahmen bei der Hamburg Tourismus GmbH liegen den zuständigen Behörden keine Erkenntnisse über weitere Kosten vor.
 

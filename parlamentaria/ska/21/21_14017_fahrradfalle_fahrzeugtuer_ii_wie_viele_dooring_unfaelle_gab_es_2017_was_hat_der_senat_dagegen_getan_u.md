@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12113", "21/9402", "21/9564"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63411"
@@ -97,7 +98,7 @@ Auf wie vielen Straßenkilometern in Hamburg sind aktuell Radfahr- oder Schutzst
 
 Auf wie vielen Straßenkilometern wurden seit 2011 in Hamburg Radfahroder Schutzstreifen aufmarkiert? Bitte jahresweise inklusive des laufenden Jahres aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Jahr (Stand jeweils 31. Dezember)
 
@@ -153,22 +154,22 @@ b) Elemente zum Thema Vermeidung von „dooring“-Unfällen, beispielsweise dur
 
 Die Polizei hat folgende Präventivmaßnahmen im Sinne der Fragestellung a) durchgeführt:
 
- Aktion „Geisterradler“
+– Aktion „Geisterradler“
 
 Eine der Hauptunfallursachen beim Radfahren ist das Befahren von Radwegen auf der falschen Straßenseite. Seit Anfang des Jahres 2018 sind die sogenannten Geisterradler Schwerpunkt der Präventionsaktionen der Polizei in Zusammenarbeit mit weiteren Trägern der Verkehrssicherheitsarbeit. Präventionsaktionen zum Thema wurden am 17. April 2018 im Umfeld der Universität Hamburg und 18. Juni 2018 im Rahmen der Fahrradsternfahrt durchgeführt. Darüber hinaus ist für den
 24. August 2018 eine Präsentation dieses Themas und der nachfolgend benannten Themen auf dem Wandsbeker Marktplatz geplant.
 
- Thema „Abbiegeunfälle“
+– Thema „Abbiegeunfälle“
 
 Am 25. Juni 2018 hat die Polizei eine Verkehrssicherheitsaktion zur Vermeidung von Abbiegeunfällen am Autohof Waltershof verwirklicht.
 
- Kampagne „#FREIHALTEN“ des Allgemeinen Deutschen Fahrrad-Clubs e.V.
+– Kampagne „#FREIHALTEN“ des Allgemeinen Deutschen Fahrrad-Clubs e.V.
 
 (ADFC)
 
 Der ADFC bereitet mit Beginn Oktober des Jahres 2018 eine Kampagne zum Thema „zugeparkte Radfahrstreifen“ vor. Hieran wird sich auch die Polizei beteiligen.
 
- Aktion „Fahrradfuchs“
+– Aktion „Fahrradfuchs“
 
 Seit dem Jahr 2017 ist die Aktion Fahrradfuchs fester Bestandteil der Verkehrssicherheitsarbeit der Polizei. Analog zur Aktion Verkehrsfuchs bieten Verkehrslehrerinnen und Verkehrslehrer kostenlose Wochenkurse in den Schulferien an. Sie führen die Kinder schrittweise an Verkehrssituationen heran und üben richtige Verhal-
 

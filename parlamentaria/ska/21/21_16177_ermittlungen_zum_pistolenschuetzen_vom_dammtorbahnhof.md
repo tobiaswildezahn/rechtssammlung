@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10756"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65723"
@@ -87,7 +88,7 @@ Was für eine Schusswaffe kam bei dem Vorfall zum Einsatz? Bitte auch Angaben zu
 
 Wie viele Patronenhülsen konnten am Tatort sichergestellt werden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung.
 
@@ -99,6 +100,6 @@ Ist es gelungen, etwaige DNS des Tatverdächtigen zu sichern? Falls ja, welche?
 
 Ist die Tatwaffe zwischenzeitlich gefunden worden?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Nein.

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18680"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68411"
@@ -49,21 +50,21 @@ Welche Informationen werden im Rahmen der Kooperation an die Freie und Hansestad
 
 Derzeit erhält die zuständige Behörde wöchentlich Informationen über
 
- die Anzahl der (tageweise) aktiven Fahrzeuge,
+– die Anzahl der (tageweise) aktiven Fahrzeuge,
 
- die durchgeführten Fahrten pro Tag beziehungsweise die Gesamtanzahl aller
+– die durchgeführten Fahrten pro Tag beziehungsweise die Gesamtanzahl aller
 
 Fahrten pro Woche,
 
- die Anzahl der durchschnittlich ausgeführten Fahrten pro E-Scooter pro Tag,
+– die Anzahl der durchschnittlich ausgeführten Fahrten pro E-Scooter pro Tag,
 
- die zurückgelegten Gesamtkilometer pro Woche,
+– die zurückgelegten Gesamtkilometer pro Woche,
 
- die Anzahl der durchschnittlich zurückgelegten Distanz pro E-Scooter pro Tag,
+– die Anzahl der durchschnittlich zurückgelegten Distanz pro E-Scooter pro Tag,
 
- die durchschnittlich zurückgelegte Distanz pro Fahrt und
+– die durchschnittlich zurückgelegte Distanz pro Fahrt und
 
- die durchschnittliche Dauer einer Fahrt.
+– die durchschnittliche Dauer einer Fahrt.
 
 Ebenso erhält die zuständige Behörde Informationen über die zeitliche Verteilung der Leihvorgänge pro Woche. Darüber hinaus kann sie über eine Plattform (anbieterbezogen) feststellen, in welchen Stadtteilen E-Scooter zur Leihe angeboten werden und wo die meisten Quell- und Zielbewegungen stattgefunden haben. Die Anbieter informieren ebenso über ihr jeweiliges Geschäftsgebiet.
 

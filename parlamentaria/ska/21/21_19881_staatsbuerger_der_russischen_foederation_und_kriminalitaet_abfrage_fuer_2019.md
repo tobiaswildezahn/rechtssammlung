@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 16
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14124", "21/11321", "21/19515", "21/16275", "21/9831"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69730"
@@ -114,7 +115,7 @@ Wie viele dieser Personen sind seit ihrer Einreise strafrechtlich in Erscheinung
 
 Wie viele Bürger der Russischen Föderation waren in Hamburg 2019 strafrechtlich aufgefallen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Bei der Berechnung der Tatverdächtigen (TV) wird in der Polizeilichen Kriminalstatistik (PKS) eine echte Tatverdächtigenzählung vorgenommen. Dabei wird ein TV nur einmal gezählt, auch wenn er mehrfach registriert wurde. Eine Aufschlüsselung, welche dieser TV erst seit dem 1. Januar 2019 in Hamburg registriert oder Hamburg zugewiesen wurden, ist nicht möglich.
 
@@ -187,7 +188,7 @@ Wie viele Bürger der Russischen Föderation werden von den Sicherheitsbehörden
 
 Wie viele Bürger der Russischen Föderation werden von den Behörden seit dem 1. Januar 2019 einem dem Jihadismus zugerechnet und gelten deswegen als Gefährder?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Drs. 21/11321 und 21/19515.
 
@@ -239,6 +240,6 @@ Wo befinden sich gegenwärtig die im Oktober 2016 in Hamburg bei einer Razzia ge
 
 In wie vielen Fällen ist es bei dieser Personengruppe zu einer Verurteilung gekommen? Bitte jeweils das zugrundeliegende Delikt und das Strafmaß nennen.
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Siehe Drs. 21/16275 und 21/9831.

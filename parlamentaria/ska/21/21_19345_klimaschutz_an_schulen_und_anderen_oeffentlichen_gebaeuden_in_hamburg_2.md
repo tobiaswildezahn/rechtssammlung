@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 25
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18458", "21/18699", "21/19010", "21/19200", "21/13332", "21/9700"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69059"
@@ -59,7 +60,7 @@ Was genau meint der Senator, wenn er von „VW-Qualität“ im Schulbau spricht?
 
 Der Senat plant angesichts der wachsenden Schülerzahlen in den nächsten Jahren, bis zu 40 neue Schulgebäude zu errichten. Außerdem sollen weiterhin ältere Schulgebäude durch SBH saniert werden. In diesem Zusammenhang fragen wir den Senat: a. Sollen die neuen Schulgebäude nach dem jeweils aktuell gültigen EnEV-Standard errichtet werden oder soll der „Effizienzhaus 40“- Standard, eventuell sogar der Passivhausstandard erreicht werden? b. Soll bei der Sanierung der älteren Schulgebäude auch weiterhin nach „VW-Standard“ saniert werden oder soll auch hier ein höherer Standard angepeilt werden? c. Werden bei der Sanierung älterer Schulgebäude die „Energieschleudern“ prioritär behandelt oder ist der hohe Energieverbrauch nur einer der zu berücksichtigenden Punkte bei der Reihenfolge der Sanierungen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

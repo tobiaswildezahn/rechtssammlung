@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54593"
@@ -41,7 +42,7 @@ Wie hat sich das Personal des UKE seit 2010 entwickelt? Bitte in VZÄ zum Jahres
 
 In welchen Bereichen hat das UKE seit 2010 in welchem Umfang Personal auf- und abgebaut? Bitte in VZÄ angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 
@@ -53,7 +54,7 @@ Welche Personalaufwendungen hat es im UKE seit 2010 gegeben? Bitte nach Jahren a
 
 Wie haben sich die Patientenzahlen des UKE seit 2010 entwickelt? Bitte nach Jahren aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage 2.
 
@@ -66,25 +67,25 @@ Wie ist der geplante Personalaufwuchs um 390 Stellen in den Jahren 2017 fortfolg
 Wegen der haushaltsrechtlichen Relevanz des in Bezug genommenen Stellenplans und der ihm zugrunde liegenden Systematik siehe die Protokollerklärung der BWFG für die Sitzung des Ausschusses für Wissenschaft und Gleichstellung vom
 13.09.2016. Der in dem Stellenplan mit 390 Stellen bezifferte Aufwuchs hat seine Ursachen insbesondere in folgenden quantitativen und qualitativen Entwicklungen des UKE-Leistungsspektrums in dem Betrachtungszeitraum:
 
- Inbetriebnahme der neuen Stroke Unit Station
+– Inbetriebnahme der neuen Stroke Unit Station
 
- Inbetriebnahme einer weiteren Intensivstation
+– Inbetriebnahme einer weiteren Intensivstation
 
- Erweiterung der Akutstation der Klinik für Psychiatrie und Psychotherapie zur Auf-
+– Erweiterung der Akutstation der Klinik für Psychiatrie und Psychotherapie zur Auf-
 
 nahme von nach HmbPsychKG untergebrachten Personen
 
- Inbetriebnahme der Adoleszentenstation (Klinik und Poliklinik für Psychiatrie und
+– Inbetriebnahme der Adoleszentenstation (Klinik und Poliklinik für Psychiatrie und
 
 Psychotherapie, Klinik und Poliklinik für Kinder- und Jugendpsychiatrie, -psychotherapie und -psychosomatik)
 
- Erweiterung der stationären Kapazitäten des Universitären Perinatalzentrums
+– Erweiterung der stationären Kapazitäten des Universitären Perinatalzentrums
 
- Anstieg der Planbettenzahl des UKE von 1.345 (01.01.2013) auf 1.436
+– Anstieg der Planbettenzahl des UKE von 1.345 (01.01.2013) auf 1.436
 
 (01.01.2016)
 
- Zunahme von Drittmittelprojekten
+– Zunahme von Drittmittelprojekten
 
 Die dafür benötigten Stellen wurden und werden zum Teil in Vollzeit und zum Teil in Teilzeit wahrgenommen. Der effektive Personalaufwuchs ist in den Zahlen der Anlage 1 enthalten und dort in der Einheit „Vollzeitkräfte“ zusammengefasst.
 

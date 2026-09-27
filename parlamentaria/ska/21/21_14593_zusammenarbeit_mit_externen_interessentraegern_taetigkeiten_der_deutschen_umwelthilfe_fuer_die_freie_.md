@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64027"
@@ -106,6 +107,6 @@ Erfolgte eine Prüfung der Mittelverwendung durch den Landesrechnungshof?
 
 Entsenden die DUH oder die DUH Umweltschutz Service GmbH Vertreter in Ausschüsse, Beratungsgremien oder Fachbeiräte des Senats, in Behörden und öffentliche Unternehmen der Freien und Hansestadt Hamburg, und wenn ja, in welche?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Nein.

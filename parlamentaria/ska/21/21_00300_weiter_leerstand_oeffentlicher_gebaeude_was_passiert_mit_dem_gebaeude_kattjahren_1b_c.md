@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13769", "20/11884", "20/11692", "20/9775"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48447"
@@ -50,11 +51,20 @@ Ist die Planung einer Vermietung an Interessenten aus dem Bereich Gesundheitswes
 ### Frage 4
 
 Gemäß der Antwort des Senats in Drs. 20/13769 wurde von einem öffentlichen Angebot der Fläche zur Vermietung abgesehen, da bereits Interessenten vorhanden waren.
-4.1. Wie viele Interessenten aus jeweils welchen Branchen haben sich jeweils wann nach einer möglichen Anmietung der Flächen erkundigt?
-4.2. Wie viele Interessenten aus jeweils welchen Branchen wurden durch die Sprinkenhof auf die zur Verfügung stehende Fläche angesprochen?
-4.3. Nach welchen Kriterien im Einzelnen erfolgt die Auswahl der Mieter des Objektes?
 
-#### Antwort zu Fragen 1 bis 4
+### Frage 4.1
+
+Wie viele Interessenten aus jeweils welchen Branchen haben sich jeweils wann nach einer möglichen Anmietung der Flächen erkundigt?
+
+### Frage 4.2
+
+Wie viele Interessenten aus jeweils welchen Branchen wurden durch die Sprinkenhof auf die zur Verfügung stehende Fläche angesprochen?
+
+### Frage 4.3
+
+Nach welchen Kriterien im Einzelnen erfolgt die Auswahl der Mieter des Objektes?
+
+#### Antwort zu Fragen 1, 2, 3, 4, 4.1, 4.2 und 4.3
 
 Die Flächen sollen weiterhin an einen Interessenten aus dem Bereich Gesundheitswesen vermietet werden. Der Interessent hat sich im vergangenen Jahr von sich aus an die Sprinkenhof GmbH (Sprinkenhof) gewandt. Darüber hinaus wurden keine weiteren Interessenten gesucht oder angesprochen. Die Verhandlungen mit den Mietinteressenten sind noch nicht abgeschlossen. Die Auswahl erfolgt in erster Linie nach Nutzungsbedingungen sowie nach weiteren Kriterien wie zum Beispiel der Bonität des Mieters, der angestrebten Laufzeit des Mietvertrages oder der mieter- und vermieterseitigen Umbau- und Sanierungsarbeiten. Im Übrigen siehe Drs. 20/13769, 20/11884, 20/11692 sowie 20/9775.
 

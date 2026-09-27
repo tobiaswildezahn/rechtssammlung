@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 20
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17544", "21/17827", "21/16040", "21/17322"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67563"
@@ -86,9 +87,9 @@ Wie viele Kinder von alleinerziehenden Geflüchteten in Erstaufnahmeeinrichtunge
 
 Mit Stand 05.08.2019 wurden die Angebote Kita oder Tagespflege (außerhalb der Unterkunft) wie folgt wahrgenommen:
 
- Kaltenkirchener Straße durch sechs Kinder,
+– Kaltenkirchener Straße durch sechs Kinder,
 
- Sportallee durch zehn Kinder.
+– Sportallee durch zehn Kinder.
 
 ### Frage 3
 
@@ -100,43 +101,43 @@ Grundsätzlich können Hilfsangebote für Familien mit Kindern sowohl von Paaren
 
 In der Kaltenkirchener Straße gibt es folgende Angebote:
 
- Müttertreff für Frauen mit Babys durch plan international (einmal wöchentlich),
+– Müttertreff für Frauen mit Babys durch plan international (einmal wöchentlich),
 
- Kooperation mit der Elternschule Altona zur Erziehungsberatung (geplant),
+– Kooperation mit der Elternschule Altona zur Erziehungsberatung (geplant),
 
- 30 Wochenstunden Begleitung der Mütter zu Behörden, Ärzten et cetera durch den
+– 30 Wochenstunden Begleitung der Mütter zu Behörden, Ärzten et cetera durch den
 
 Landesbetrieb Erziehung und Beratung,
 
- Kooperation mit den Stadtteilmüttern Altona, die ebenfalls zu Terminen begleiten
+– Kooperation mit den Stadtteilmüttern Altona, die ebenfalls zu Terminen begleiten
 
 können und
 
- ehrenamtliche Angebote für die Kinder.
+– ehrenamtliche Angebote für die Kinder.
 
 In der Sportallee gibt es:
 
- gemischte Angebote für Paare (mit Kindern) und Alleinerziehende,
+– gemischte Angebote für Paare (mit Kindern) und Alleinerziehende,
 
- Beratungsangebote für Schwangere und Paare und Alleinerziehende von Donum
+– Beratungsangebote für Schwangere und Paare und Alleinerziehende von Donum
 
 Vitae, dem Sozialdienst Katholischer Frauen und dem Gesundheitsamt,
 
- Kinder- und Jugendpsychiatrische Sprechstunde mit Elterntreff,
+– Kinder- und Jugendpsychiatrische Sprechstunde mit Elterntreff,
 
- Eltern-Café des DRK und
+– Eltern-Café des DRK und
 
- Sprechstunde Kinderarzt.
+– Sprechstunde Kinderarzt.
 
 In der ZEA:
 
- offene Kinderbetreuung,
+– offene Kinderbetreuung,
 
- offene Sozialberatung,
+– offene Sozialberatung,
 
- Sprechstunden (Hebamme, Kinderarzt, Kinderpsychologin) und
+– Sprechstunden (Hebamme, Kinderarzt, Kinderpsychologin) und
 
- therapeutisches Musizieren für Kinder und Frauen.
+– therapeutisches Musizieren für Kinder und Frauen.
 
 ### Frage 4
 

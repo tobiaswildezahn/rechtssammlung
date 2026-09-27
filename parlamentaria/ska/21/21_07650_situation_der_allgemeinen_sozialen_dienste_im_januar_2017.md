@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11296", "21/613", "21/3845"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56275"
@@ -49,7 +50,7 @@ Wie stellt sich die aktuelle Stellenbesetzung in den Allgemeinen Sozialen Dienst
 
 Wie stellte sich die Entwicklung der Stellenbesetzung der Allgemeinen Sozialen Dienste in den vergangenen drei Jahren dar? Wie viele Stellen waren jeweils zum Jahresende besetzt und unbesetzt? Bitte nach Bezirken und Stellenart sowie insgesamt angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1 und Vorbemerkung.
 

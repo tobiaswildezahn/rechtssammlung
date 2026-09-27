@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64944"
@@ -47,7 +48,7 @@ Wie viele Flächen für Logistik wurden in den Jahren 2015 bis 2018 von wie viel
 
 Wie viele Flächen für Logistik wurden durchschnittlich je Anfrage in Hektar in den Jahren 2015 bis 2018 bei der Freien und Hansestadt Hamburg angefragt (bitte nach Bezirken, Jahren sowie nach Flächen im Hafen und außerhalb des Hafens gliedern)? Welcher Nutzungszweck war für die angefragten Flächen vorgesehen (bitte nach Jahren und Anfrage darstellen)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine statistische Auswertung von Logistikanfragen wird bei der HIW nicht separat nach den einzelnen Bezirken geführt. Die Nachfrage nach Logistikflächen ist seit dem Jahr 2015 kontinuierlich hoch und überschreitet regelmäßig das vorhandene Flächenangebot.
 

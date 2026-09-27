@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48663"
@@ -75,7 +76,7 @@ Welche Personen beziehungsweise Organisationen der extremen Rechten in Hamburg u
 
 Welche sonstigen Personen beziehungsweise Organisationen in Hamburg unterstützen die Demonstration beziehungsweise rufen nach Kenntnis des Senats beziehungsweise der zuständigen Behörde zur Teilnahme auf?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Den Sicherheitsbehörden liegen keine Erkenntnisse im Sinne der Fragestellung vor.
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 29
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15082"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66275"
@@ -77,7 +78,7 @@ h) Bewachung.
 Gibt es darüber hinaus noch Ausgaben?  
 Wenn ja: welche und in welcher Höhe?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung
 

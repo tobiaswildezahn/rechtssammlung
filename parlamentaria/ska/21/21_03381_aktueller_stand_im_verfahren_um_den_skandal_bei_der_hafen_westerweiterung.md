@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 16
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1118"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51718"
@@ -43,7 +44,7 @@ Hat die Freie und Hansestadt Hamburg ein beziehungsweise mehrere Verfahren gegen
 
 Wie ist intern mit dem Mitarbeiter der BUE verfahren worden? Ist er versetzt worden? Wenn ja, wohin? Hat die Stelle die gleiche Eingruppierung wie die vorherige? Wenn nein, wie weicht sie von der vorherigen Stelle ab?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Aus personaldatenschutzrechtlichen Gründen äußert sich der Senat in ständiger Praxis nicht zum Ausgang von Verfahren mit personalrechtlichen Inhalten.
 
@@ -57,7 +58,7 @@ Welche anderen Maßnahmen hat die Behördenleitung seit Bekanntwerden der Vorwü
 
 Wie wird der Senat beziehungsweise die zuständige Behörde künftig sicherstellen, dass solch ein Fehlverhalten des Mitarbeiters der BUE in seiner jetzigen Tätigkeit nicht mehr vorkommen wird?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Leitung der Behörde für Umwelt und Energie hat eine Verfügung erlassen, mit der konkrete Regelungen zur Vermeidung von Interessenkonflikten zwischen privatem Interesse und den dienstlichen Tätigkeiten der Beschäftigten festgelegt wurden.
 

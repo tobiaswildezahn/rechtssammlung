@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 21
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5000", "21/7000", "21/10486"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59811"
@@ -55,7 +56,7 @@ Wie viele ernannte Staatsräte in der Besoldungsgruppe B10 waren jeweils am 31.1
 
 Wie viele Planstellen in der Besoldungsgruppe B 10 waren laut Stellenplan jeweils am 31.12.2015, am 31.12.2016 sowie am 31.10.2017 im Einzelplan 1.1 (Senat und Personalamt) vorhanden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Am 31.12.2015 und am 31.12.2016 waren 17 Staaträtinnen und Staatsräte ernannt, am 31.10.2017 waren 16 Staaträtinnen und Staatsräte ernannt. Zu den drei genannten Stichtagen waren 16 Planstellen in der Besoldungsgruppe B 10 im Einzelplan 1.1 vorhanden. Herr Dr. Hill wurde bis zum 31.12.2016 auf einer B10-Leerstelle gebucht, siehe Vorbemerkung.
 

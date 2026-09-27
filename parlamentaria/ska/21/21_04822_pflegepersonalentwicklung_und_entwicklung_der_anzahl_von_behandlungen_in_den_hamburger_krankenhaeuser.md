@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6918"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53253"
@@ -279,7 +280,7 @@ Wie hat sich die Anzahl von Pflegekräften in den Hamburger Krankenhäusern, aus
 
 Wie hat sich die Anzahl von Pflegekräften in den psychiatrischen Abteilungen der Hamburger Krankenhäuser zwischen 2012 und 2015 entwickelt? (Bitte aufschlüsseln nach Jahren, einzelnen Krankenhäusern – beim Klinikum Nord bitte getrennt nach Betriebsteil Heidberg und Betriebsteil Ochsenzoll, VZÄ beziehungsweise Vollkräften, Qualifikationsstufen/-kategorien – examinierte Pflegefachkräfte, Pflegeassistenz und Hilfskräfte.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Detaillierte Angaben zum Pflegepersonal sind nicht möglich, da diese Angaben von den Krankenhäusern als Geschäftsgeheimnis behandelt werden.
 

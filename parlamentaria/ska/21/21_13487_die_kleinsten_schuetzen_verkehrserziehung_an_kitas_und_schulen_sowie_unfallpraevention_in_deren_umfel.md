@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 18
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12146", "21/13418", "21/1586", "21/3358"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62851"
@@ -93,7 +94,7 @@ b) Schulen?
 
 Nach welchen Lehrplänen beziehungsweise Vorgaben erfolgt die Verkehrserziehung an Kitas in Hamburg?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die schulische Verkehrs- und Mobilitätserziehung ist als Aufgabengebiet in den Bildungsplänen der Grundschule, der Stadteilschule, des Gymnasiums und der gymnasialen Oberstufe verankert. Sie wird in enger und bewährter Kooperation der BSB und der Behörde für Inneres und Sport (BIS) mit Unterstützung externer Partner durchgeführt (siehe auch Drs. 21/13418).
 
@@ -187,21 +188,21 @@ April Thema Geisterradler
 
 Im Übrigen gab es seit 2015 pro Jahr rund 65 Sonderveranstaltungen, darunter
 
- Ferienprogramm „Planten un Blomen“
+– Ferienprogramm „Planten un Blomen“
 
- „HIT-Tag“ der Polizei
+– „HIT-Tag“ der Polizei
 
- Ferienprogramm Bücherhalle Farmsen
+– Ferienprogramm Bücherhalle Farmsen
 
- Verkehrssicherheitstage der Polizei in Stadtteil- und Einkaufszentren sowie an
+– Verkehrssicherheitstage der Polizei in Stadtteil- und Einkaufszentren sowie an
 
 verschiedenen Wochenenden in Schulen/Freiluftschulen
 
- Tage der offenen Tür an Polizeikommissariaten
+– Tage der offenen Tür an Polizeikommissariaten
 
- Fahrradtage
+– Fahrradtage
 
- Aktionen „Leuchtwesten“ und „Laufbus“
+– Aktionen „Leuchtwesten“ und „Laufbus“
 
 Auch der von der Polizei unterstütze Plakat- und Liederwettbewerb ist seit vielen Jahren eine feste Säule der Verkehrssicherheitsarbeit. Schulkinder entwickeln einmal jährlich auf künstlerische Art und Weise ein Gefahrenbewusstsein für Risiken des Straßenverkehrs. Erwachsene können die Verkehrswelt durch Kinderaugen sehen und werden sensibilisiert.
 
@@ -349,7 +350,7 @@ Welche Straßen vor welchen Kitas und Schulen in Hamburg gelten aktuell als Unfa
 
 Welchen Maßnahmen zur Entschärfung dieser Unfallhäufungsstellen vor Kitas und Schulen sind seitens der Unfallkommission geplant?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Statistiken im Sinne der Fragestellungen werden bei der Polizei nicht geführt. Zur Beantwortung der Fragen wäre ein manueller Abgleich der mehr als 1.000 Unfallhäufungsstellen erforderlich. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Von den 26 durch die Unfallkommission aktuell bearbeiteten Unfallhäufungsstellen befindet sich keine an Straßen vor Kita oder Schulen.
 

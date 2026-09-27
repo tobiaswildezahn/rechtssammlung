@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7758", "20/3175", "20/5198", "20/5441", "20/7491", "20/8505", "20/8680", "20/10478", "20/10633", "20/11034", "20/12161", "20/13361", "21/103", "21/109", "21/1799", "21/3603", "20/4716", "20/6067", "20/13995", "21/7080", "21/12160", "21/15755", "21/16055", "21/19434"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69261"
@@ -225,6 +226,6 @@ Wie viele Personen haben 2019 in Hamburg ihre Ausbildung zur Lebensmittelkontrol
 
 Wie viele Personen befinden sich aktuell in Hamburg in der Ausbildung zur Lebensmittelkontrolleurin/zum Lebensmittelkontrolleur?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Drs. 21/19434.

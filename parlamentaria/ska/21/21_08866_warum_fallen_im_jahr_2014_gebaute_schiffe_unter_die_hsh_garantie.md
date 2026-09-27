@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57631"
@@ -47,7 +48,7 @@ Wie viele Schiffe innerhalb des von der hsh portfoliomanagement AöR übernommen
 
 Um welche Schiffstypen und -größen handelt es sich dabei jeweils?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Insgesamt sind 27 Schiffe aus den Ablieferjahren 2011 (17 Schiffe), 2012 (sieben Schiffe), 2013 (ein Schiff) und 2014 (zwei Schiffe) als Sicherheiten übernommen worden: neun Containerschiffe mit einer Größe von bis zu 4.400 TEU, elf Bulker und sieben sonstige Schiffe (Mehrzweck- und Schwergutfrachter).
 
@@ -59,6 +60,6 @@ Wann genau erfolgte jeweils die Kreditzusage zur Finanzierung dieser Schiffe?
 
 Wann genau wurde jeweils der Auftrag zum Bau dieser Schiffe erteilt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Bau- und Kreditverträge wurden in den Jahren 2006 bis 2008 abgeschlossen. Im August 2009 erfolgten in drei Fällen zu bestehenden Finanzierungen garantieschonende Sanierungs- beziehungsweise Restrukturierungsbeschlüsse, mit denen der Bau einer geringeren Anzahl neuer Schiffe vereinbart wurde.

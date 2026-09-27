@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10985"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48691"
@@ -61,7 +62,7 @@ a) Wie lauten die Zeitpläne, die der EU-Kommission im Nachgang am
 
 Mai 2013 sowie aus Anlass der EU-Paketsitzung am 01. April 2014 vorgestellt wurden?
 
-#### Antwort zu Fragen 1, 3
+#### Antwort zu Fragen 1 und 3
 
 Die der Kommission in der Paketsitzung am 1. April 2014 vorgestellten Zeitpläne sind als Anlage beigefügt.
 
@@ -160,12 +161,12 @@ a) Wie hoch werden die voraussichtlichen Kosten für die vorgenannten Kohärenzm
 
 Bei den vorgenannten Maßnahmen handelt es sich um freiwillige Maßnahmen Hamburgs, die nicht zu der planfestgestellten Kohärenzsicherung zählen. Der aktuelle Kostenplan der Maßnahmen geht von den folgenden Kosten aus:
 
- Overhaken
+– Overhaken
 1.700.000 Euro,
 
- Spadenland 910.000 Euro,
+– Spadenland 910.000 Euro,
 
- Alter Moorburger Hafen 300.000 Euro.
+– Alter Moorburger Hafen 300.000 Euro.
 
 b) Existieren Abweichungen zu den bisherigen Kostenplanungen?
 

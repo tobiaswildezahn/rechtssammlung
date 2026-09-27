@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1004", "21/17537", "21/10603"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67495"
@@ -43,7 +44,7 @@ Welche Einsätze mit ähnlichem Schwerpunkt wie die Aktion der Fahrradstaffel de
 
 Welche und wie viele weitere Aktionen sind künftig vorgesehen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Als Großkontrollen gelten Maßnahmen mit einem Einsatz von mindestens 22 Mitarbeitern und einer Kontrollzeit von sechs Stunden oder mehr. Als Schwerpunkteinsätze gelten Maßnahmen mit einem Einsatz von mindestens sieben Mitarbeitern und einer Kontrollzeit von sechs Stunden oder mehr. Bei Großkontrollen und Schwerpunkteinsätzen werden Kontrollstellen an mindestens drei verschiedenen Orten eingerichtet.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 16
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3905"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52831"
@@ -43,7 +44,7 @@ Wann werden die Prüfungen des Standorts für einen möglichen Hotelneubau abges
 
 Wie viel der Fläche kann für einen Hotelneubau zur Verfügung stehen, wenn zusätzliche Parkflächen auf dem südlichen Teil der Marseiller Straße und auf Flächen am Dag-Hammarskjöld-Platz geschaffen werden sollen? In welcher Höhe sind dafür finanzielle Mittel eingeplant und aus welchem Haushaltstitel, welcher Produktgruppe sollen diese finanziert werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/3905.
 

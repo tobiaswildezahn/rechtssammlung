@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53688"
@@ -47,15 +48,15 @@ Gehört nach Ansicht des Senats der Betrieb der Schwimmbäder zur öffentlichen 
 
 Ja. Die BLH verfügt über ein Betriebskonzept, das die gesamte Bandbreite der Branche mit standortabhängig unterschiedlichen Angeboten abdeckt. Davon unterfallen der Daseinsvorsorge:
 
- Schwimmunterricht,
+– Schwimmunterricht,
 
- Schulschwimmen,
+– Schulschwimmen,
 
- Vereinsschwimmen,
+– Vereinsschwimmen,
 
- durch die Krankenkassen finanzierte Präventionsmaßnahmen (Wassergymnastik),
+– durch die Krankenkassen finanzierte Präventionsmaßnahmen (Wassergymnastik),
 
- Schwimmangebot für die allgemeine Öffentlichkeit.
+– Schwimmangebot für die allgemeine Öffentlichkeit.
 
 ### Frage 2
 

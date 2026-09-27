@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12025"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50832"
@@ -76,7 +77,7 @@ Wie viele Schüler/-innen besuchten/besuchen die jeweiligen an der Lernförderun
 
 Welchen KESS-Faktor hatten/haben die jeweiligen an der Lernförderung teilnehmenden Schulen seit Beginn des Programms bis heute? (Bitte für jedes Schulhalbjahr in 2011, 2011/2012, 2012/2013, 2013/2014, 2014/ 2015 und 2015, zu jedem Standort mit Benennung seiner Schulform in die Tabelle zu 3. integrieren.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage 6.
 

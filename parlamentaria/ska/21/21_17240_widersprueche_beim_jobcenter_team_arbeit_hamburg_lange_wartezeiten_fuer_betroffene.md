@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 29
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66811"
@@ -49,7 +50,7 @@ Wie hoch war die Zahl der Widersprüche gegen Entscheidungen der Jobcenter in Ha
 
 Wie viele der Widersprüche in den Zeiträumen nach Ziffer 1. waren jeweils gegen Bescheide gerichtet, die a. Leistungen der Grundsicherung für Arbeitsuchende aufheben, zurücknehmen, widerrufen, entziehen, b. eine Pflichtverletzung und die Minderung des Auszahlungsanspruchs feststellen, c. Leistungen zur Eingliederung in Arbeit oder Pflichten erwerbsfähiger Leistungsberechtigter bei der Eingliederung in Arbeit regeln? d. Wie stellen sich diesbezüglich jeweils die Fristüberschreitungen nach Ziffern 1. a. und b. sowie die durchschnittliche Bearbeitungsdauer dar?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 

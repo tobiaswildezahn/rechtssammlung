@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/3595", "20/434"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66110"
@@ -45,7 +46,7 @@ Wie viele Mitarbeiter des Parkraummanagements wurden in den letzten zwei Jahren 
 
 An wie vielen Wochentagen und zu welchen Zeiten waren sie im Einsatz und in welchen Stadtteilen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Landesbetrieb Verkehr (LBV)-Parkraum-Management (PRM) kontrolliert die in die Zuständigkeit des LBV fallenden Gebiete mit bewirtschaftetem Parkraum an durchschnittlich drei Tagen in der Woche mit zwei Mitarbeiterinnen und Mitarbeitern je Kontrolltag. Die Kontrollen erfolgen im Rahmen eines Schichtmodells montags bis samstags mit Früh- und Spätschichten von 08.00 bis 20.48 Uhr, ergänzend in Abenddiensten bis 02.48 Uhr. Erhebungen über Kontrollen in einzelnen Stadtteilen oder kleinteiligeren Gebieten, die eine Aussage über den Personaleinsatz der letzten zwei Jahre ermöglichen, werden nicht geführt.
 
@@ -101,7 +102,7 @@ Nach welchen Kriterien wurde die Anzahl der AIP in Harburg festgelegt?
 
 In welchen Gebieten sollen sie schwerpunktmäßig eingesetzt werden und was sind die Gründe dafür?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Für die Festlegung der Zuweisungskontingente wurden die Flächengröße und die Gebietsstruktur der Region Harburg sowie die voneinander entfernt liegenden Ballungszentren in Wilhelmsburg, Harburg und Neuwiedenthal berücksichtigt. Über den schwerpunktmäßigen Einsatz wird lagebedingt im Rahmen der Prioritätensetzung nach Zuweisung der Ressourcen entschieden. Die diesbezüglichen Planungen sind noch nicht abgeschlossen.
 
@@ -121,7 +122,7 @@ Worin liegt aus Sicht des Senats der Unterschied zwischen dem Aufgabenfeld des e
 
 Welche Vorteile hat die Auflösung des BOD aus Sicht des Senats bisher gebracht?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Zu den Aufgaben des ehemaligen Bezirklichen Ordnungsdienstes (BOD) siehe Drs. 18/3595 und 20/434. Zu den Aufgaben der künftigen AiP siehe Dr. 21/16532.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 17
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7159", "21/11788", "21/6430"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62766"
@@ -90,7 +91,7 @@ In wie vielen Fällen des Cyber-Groomings wurden von der Staatsanwaltschaft seit
 
 Was sind die überwiegenden Gründe für die Einstellung von Ermittlungen des Cyber-Groomings?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Verfolgt wird der Deliktsbereich Cyber-Grooming in der für die Bekämpfung von Sexualdelikten zuständigen Abteilung der Staatsanwaltschaft Hamburg, wobei eine gesonderte statistische Erfassung dieser Fälle nicht erfolgt. Insbesondere wird nicht erfasst, ob eine Kontaktaufnahme des Täters mit dem Opfer über das Internet stattgefunden hat. Zur Beantwortung der Frage müssten daher sämtliche Verfahren aus den Aktenzeichenjahrgängen 2013 bis 2018, in denen als Delikt der in Betracht kommende § 176 StGB notiert wurde, händisch ausgewertet werden. Hierbei handelt es sich ausweislich des Vorgangsverwaltungs- und -bearbeitungssystems MESTA der Staatsanwaltschaft Hamburg (vorbehaltlich der vollständigen und richtigen Erfassung) für die Aktenzeichenjahrgänge 2013 bis 2018 (Stand 1. Juni 2018) um 1.150 Verfahren mit 1.302 Beschuldigten. Eine Auswertung der Verfahrensakten ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -102,7 +103,7 @@ Was wird unternommen, um die Zuordnung der E-Mail-Adresse der Täter zu einer Pe
 
 In welcher Form werden Täter ermittelt, die eine unterdrückte Telefonnummer verwenden? Falls diese Anrufer nicht ermittelt werden, woran fehlt es zur Ermittlung dieser Anrufer nach Ansicht der Behörden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Zuordnung der E-Mail-Adresse ist je nach Einzelfall über den zuständigen Diensteanbieter möglich. Die dort angegebenen Personalien werden aber in der Regel durch den Diensteanbieter bei Anmeldung nicht überprüft und können daher häufig keiner realen Person zugeordnet werden. Die Fragestellungen betreffen im Übrigen die Ermittlungstaktik der Polizei, zu der aus grundsätzlichen Erwägungen keine Angaben gemacht werden.
 
@@ -114,7 +115,7 @@ In welcher Weise betreibt der Senat Aufklärung bzw. setzt welchen Präventionsm
 
 In welcher Weise wird an Schulen Aufklärung zu den Gefahren des Cyber-Groomings für Kinder und Jugendliche betrieben? Falls dies erfolgt, in welchem Alter befinden sich die Kinder und Jugendlichen, wenn sie aufgeklärt werden und an wie vielen Schulen in Hamburg wird auf diese Gefahren hingewiesen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Das gemeinsam seit 2015 mit den spezialisierten Fachberatungsstellen in Hamburg begleitete Projekt „Trau Dich“ für Grundschulkinder (dritte/vierte Jahrgangsstufen), eine Kampagne der Bundeszentrale für gesundheitliche Aufklärung (BZgA), greift im interaktiven Theaterstück verschiedene Grenzverletzungen sowie sexualisierte Übergriffe auf und veranschaulicht diese Aspekte durch Theaterszenen. In vorgeschalteten Lehrerfortbildungen und auf verbindlichen Elternveranstaltungen werden auch die Täterstrategien beim Cyber-Grooming dargestellt. In Hamburg konnten insgesamt über 4.000 Kinder der Grundschulen das Theaterstück „Trau Dich“ sehen und in den Klassen vorund nachbereiten (siehe http://www.hamburg.de/kein-raum-fuermissbrauch/4488158/trau-dich/). Im Kooperationsprojekt mit der Fachberatungsstelle Zündfunke e.V. „Echt Klasse“ wird dieses ebenfalls in der Fortbildung und Elternveranstaltung thematisiert (siehe https://www.zuendfunke-hh.de/praevention/echtklasse.html).
 

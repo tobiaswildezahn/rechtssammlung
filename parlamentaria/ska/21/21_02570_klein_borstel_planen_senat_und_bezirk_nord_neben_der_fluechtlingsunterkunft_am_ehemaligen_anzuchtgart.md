@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50868"
@@ -95,9 +96,9 @@ Wurden andere Flächen von den zuständigen Behörden als mögliche neue Standor
 
 Für die nachfolgend benannten Belegenheiten fand eine engere Vorprüfung anhand von Kriterien statt, die die „Borribles“ in einem Schreiben an das Bezirksamt benannt haben:
 
- Rodenkampweg und Weg 396 in Langenhorn sowie
+– Rodenkampweg und Weg 396 in Langenhorn sowie
 
- Heimkehr in Groß Borstel
+– Heimkehr in Groß Borstel
 
 Die zuerst benannte Belegenheit wurde von den „Borribles“ sofort, die andere nach einer Bedenkzeit ausgeschlossen.
 
@@ -125,30 +126,30 @@ Haben sie noch andere Wunschflächen geäußert und falls ja, welche?
 
 Ja, folgende Flächen:
 
- Wehmerweg: Grünfläche hinter dem Grundstück Niendorfer Straße 99 nach hinten
+– Wehmerweg: Grünfläche hinter dem Grundstück Niendorfer Straße 99 nach hinten
 
 begrenzt durch den Wehmerweg – Bezirk Eimsbüttel.
 
- Hagendeel: Grünfläche am nördlichen Ende der Straße Hagendeel, grenzt an die
+– Hagendeel: Grünfläche am nördlichen Ende der Straße Hagendeel, grenzt an die
 
 Kollau und Bahnschienen – Bezirk Eimsbüttel.
 
- Meenkwiese: Salomon-Heine-Weg Ecke Meenkwiese – Bezirk Hamburg-Nord.
+– Meenkwiese: Salomon-Heine-Weg Ecke Meenkwiese – Bezirk Hamburg-Nord.
 
- Süderfeldstraße: Ehemaliges Gelände der Bauunternehmerfirmen Herrmann
+– Süderfeldstraße: Ehemaliges Gelände der Bauunternehmerfirmen Herrmann
 
 Wellmann und Gustav Burmeister Tief-und Straßenbau, Süderfeldstraße Ecke Lottestraße – Bezirk Eimsbüttel.
 
- Holmbrook: Grünfläche entlang der Straße Holmbrook auf dem Elbtunneldeckel –
+– Holmbrook: Grünfläche entlang der Straße Holmbrook auf dem Elbtunneldeckel –
 
 Bezirk Altona.
 
- Park Manilaweg: Grünfläche City Nord am Manilaweg – Bezirk Hamburg-Nord.
+– Park Manilaweg: Grünfläche City Nord am Manilaweg – Bezirk Hamburg-Nord.
 
- Kollaustraße 73: Grünfläche hinter der Kollaustraße 73 – Bezirk Eimsbüttel.
+– Kollaustraße 73: Grünfläche hinter der Kollaustraße 73 – Bezirk Eimsbüttel.
 
- Süderstraße (circa Nummer 109/beim Kanal) ehemaliger Tennisplatz mit angren-
+– Süderstraße (circa Nummer 109/beim Kanal) ehemaliger Tennisplatz mit angren-
 
 zendem Grünzug – Hamburg-Mitte.
 
- Ende Heinrich-Gross-Straße: ehemaliger Sportplatz – Hamburg-Mitte.
+– Ende Heinrich-Gross-Straße: ehemaliger Sportplatz – Hamburg-Mitte.

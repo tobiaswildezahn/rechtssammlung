@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8557", "21/8751"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57668"
@@ -55,7 +56,7 @@ Stimmt es, dass Hamburg die Einrichtung ab 1. Juli 2017 nicht mehr neu belegen w
 
 Wann hat welche Stelle aus welchen Gründen diese Entscheidung getroffen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -75,7 +76,7 @@ Wie sind ab 1. Juli 2017 die monatlichen Kosten, wenn keine Neubelegung mehr erf
 
 Ab wann ist Hamburg Schleswig-Holstein gegenüber finanziell für die Einrichtung zu nichts mehr verpflichtet beziehungsweise bis wann erfolgt weiterhin Mietbeteiligung für Container und welche Abrisskosten müssen von Hamburg getragen werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Gespräche, welche Kosten noch von Hamburg zu tragen sind, sind noch nicht abgeschlossen. In der geschlossenen Vereinbarung sind fixe und variable Kosten vereinbart Die zuständige Behörde geht jedoch davon aus, dass Fixkosten, insbesondere für Miete und Bewirtschaftung, bis zum Ende der Laufzeit erbracht werden müssen, im Gegensatz dazu wird ein hoher Anteil der variablen Kosten entfallen.
 
@@ -103,7 +104,7 @@ Warum sind dort keine Flüchtlinge aus Schleswig-Holstein?
 
 Wann hat welche Stelle Nachverhandlungen über die Erweiterung der hier unterzubringenden Asylbewerbergruppe geführt? Warum wurde diese nicht realisiert? Wenn es keine Nachverhandlungen gab: warum nicht?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Schleswig-Holstein hat die Unterkunft seinerzeit zur ausschließlichen Nutzung für die Unterbringung von Asylsuchenden in Hamburger Zuständigkeit angeboten.
 

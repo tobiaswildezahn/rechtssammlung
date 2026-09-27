@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55062"
@@ -146,15 +147,15 @@ Zu Fort- und Weiterbildungen gehören auch Trainings und Coachings. Das LI biete
 
 Das LI bietet keine Coachings von Coverdale an, sondern ausschließlich Teamtraining-Fortbildungsveranstaltungen von Hamburger Lehrkräften, die durch die Firma Coverdale zertifiziert wurden. 2014 haben keine Trainings stattgefunden. Im Jahr 2015 gab es drei Teamtrainings für Personen aus schulischen Leitungsgruppen:
 
- Ein Teamtraining für die gesamte Leitungsgruppe (Schulleitung, stellvertretende
+– Ein Teamtraining für die gesamte Leitungsgruppe (Schulleitung, stellvertretende
 
 Schulleitung sowie Abteilungsleitungen) und vier Jahrgangsteams mit einem Kostenumfang von 2.951,52 Euro.
 
- Ein Teamtraining für die gesamte Leitungsgruppe und ein Jahrgangsteam mit
+– Ein Teamtraining für die gesamte Leitungsgruppe und ein Jahrgangsteam mit
 
 einem Kostenumfang von 1.475,76 Euro.
 
- Ein weiteres Training fand mit einer Abteilungsleitung als Mitglied eines Jahrgangs-
+– Ein weiteres Training fand mit einer Abteilungsleitung als Mitglied eines Jahrgangs-
 
 teams und zwei weitere Jahrgangsteams statt. Die Kosten beliefen sich auf
 2.213,64 Euro.
@@ -167,15 +168,15 @@ b. Wie viele Personen welcher Leitungsebenen aus Hamburgs Schulen sowie der Beh�
 
 Die für Bildung zuständige Behörde bietet über das Zentrum für Aus- und Fortbildung der Freien und Hansestadt Hamburg (ZAF) Einzelcoachings für Führungskräfte der Kernverwaltung der Behörde und Gruppencoachings für Büroleitungen an Schulen an. Folgende Coachings haben stattgefunden:
 
- 2014: Vier Einzelcoachings im Umfang von sechs Stunden und ein Gruppen-
+– 2014: Vier Einzelcoachings im Umfang von sechs Stunden und ein Gruppen-
 
 coaching im Umfang von acht Stunden für insgesamt 18 Personen mit Kosten in Höhe von 5.480 Euro.
 
- 2015: Fünf Einzelcoachings im Umfang von sechs Stunden, ein Einzelcoaching im
+– 2015: Fünf Einzelcoachings im Umfang von sechs Stunden, ein Einzelcoaching im
 
 Umfang von acht Stunden und ein Gruppencoaching im Umfang von acht Stunden für 16 Personen mit Kosten in Höhe von 8.774 Euro.
 
- 2016: Zwei Einzelcoachings im Umfang von sechs Stunden und Gruppencoaching
+– 2016: Zwei Einzelcoachings im Umfang von sechs Stunden und Gruppencoaching
 
 im Umfang von acht Stunden für 16 Personen mit Kosten in Höhe von 5.058 Euro.
 
@@ -183,15 +184,15 @@ Darüber hinaus werden von der für Bildung zuständigen Behörde in großem Umf
 
 In der Volkshochschule Hamburg (VHS) haben die folgenden Coachings und Teamtrainings stattgefunden:
 
- 2014: Ein Teamtraining im Umfang von 1,5 Tagen für fünf Personen mit Kosten in
+– 2014: Ein Teamtraining im Umfang von 1,5 Tagen für fünf Personen mit Kosten in
 
 Höhe von 1.500 Euro; ein Teamtraining im Umfang von einem Tag für 16 Personen mit Kosten in Höhe von 1.000 Euro; ein Einzelcoaching im Umfang von einem Tag und Kosten in Höhe von 150 Euro.
 
- 2015: Ein Teamtraining im Umfang von einem Tag für 24 Personen mit Kosten in
+– 2015: Ein Teamtraining im Umfang von einem Tag für 24 Personen mit Kosten in
 
 Höhe von 500 Euro, ein Teamtraining (im Umfang von zwei Tagen) für 13 Personen und Kosten in Höhe von 2.429 Euro und ein Einzelcoaching im Umfang von einem Tag und Kosten von 261 Euro.
 
- 2016: Ein Teamtraining im Umfang von einem Tag für 14 Personen und Kosten in
+– 2016: Ein Teamtraining im Umfang von einem Tag für 14 Personen und Kosten in
 
 Höhe von 1.100 Euro.
 

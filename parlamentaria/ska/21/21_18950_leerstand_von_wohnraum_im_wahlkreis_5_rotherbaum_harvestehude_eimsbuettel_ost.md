@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68636"
@@ -55,7 +56,7 @@ Wie ist der Fortschritt bei der Herstellung des geforderten Zustandes? Bitte den
 
 Wird der Eigentümer die für die Fertigstellung gesetzte Frist (30.11.2019) einhalten? Wenn nein, welche Maßnahmen werden dann ergriffen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Betroffene hat gegen den erlassenen Bescheid fristgerecht Rechtsmittel eingelegt und beim Verwaltungsgericht die Anordnung der aufschiebenden Wirkung erwirkt. So lange die aufschiebende Wirkung besteht und über die durch das Bezirksamt hiergegen eingelegte Beschwerde zum Oberverwaltungsgericht nicht entschieden ist, kann die zuständige bezirkliche Wohnraumschutzdienststelle in dieser Sache vorerst keine weiteren Maßnahmen im Sinne des Hamburgischen Wohnraumschutzgesetzes durchführen.
 
@@ -75,11 +76,11 @@ Wie viele Wohneinheiten gab es vor dem Auszug der Mieter/-innen und wie viele si
 
 Das Wohnhaus Grindelallee 80 war ursprünglich mit baurechtlicher Genehmigung aus dem Jahr 1905 als Mehrfamilienwohnhaus mit sechs Wohneinheiten mit der nachfolgenden genehmigten Nutzung erstellt worden:
 
-• Parterre und Souterrain Ladenwohnungen,
+– Parterre und Souterrain Ladenwohnungen,
 
-• 1. – 3. Obergeschoss jeweils links und rechts eine Wohneinheit,
+– 1. – 3. Obergeschoss jeweils links und rechts eine Wohneinheit,
 
-• Dachgeschoss: Abstellräume.
+– Dachgeschoss: Abstellräume.
 
 Im Jahr 1952 wurde eine widerrufliche Genehmigung zur Errichtung einer Dachgeschosswohnung im linken Teil des Dachgeschosses erteilt. Die Genehmigung wurde für 20 Jahre erteilt und war somit bis 1972 befristetet; sie wurde nicht verlängert.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 18
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48431"
@@ -90,7 +91,7 @@ Wann wird die Bearbeitung der Einkommensteuererklärungen wieder aufgenommen?
 
 Werden die zurückgestellten Einkommensteuererklärungen dann bevorzugt bearbeitet? Wenn ja, welche Verzögerungen ergeben sich dadurch bei der Bearbeitung anderer Einkommensteuererklärungen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Bearbeitung wurde nicht in allen Fällen zurückgestellt. Soweit es den Finanzämtern zeitlich und personell möglich ist, werden die Daten der elektronischen Lohnsteuerbescheinigung manuell korrigiert und die Einkommensteuererklärungen auf dieser Grundlage bearbeitet. Die Bearbeitung der zurückgestellten Einkommensteuererklärungen wird wieder aufgenommen, sobald die Fehler behoben sind (siehe Antwort zu
 

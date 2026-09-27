@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69895"
@@ -174,7 +175,7 @@ Welche Vorgaben gab es für die aktuelle Machbarkeitsstudie hinsichtlich a. der 
 
 Welche Ergebnisse, gegebenenfalls auch Alternativvorschläge, hat die Machbarkeitsstudie zu den Punkten 2. a – 2. i. gebracht? Bitte jede Frage einzeln beantworten.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Bei der Machbarkeitsstudie handelt es sich um die Überprüfung und Weiterentwicklung der Ergebnisse aus dem städtebaulichen Gutachterverfahren. Die Überarbeitung wurde erforderlich, da die Zügigkeit der Schule gemäß Schulentwicklungsplan (SEPL) auf acht erweitert wurde und damit keine Wohnbebauung am nördlichen Grundstücksteil realisiert werden soll.
 

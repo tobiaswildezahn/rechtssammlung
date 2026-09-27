@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56478"
@@ -73,7 +74,7 @@ Warum gab es nicht zumindest eine englischsprachige Durchsage?
 
 Auf welcher Rechtsgrundlage bewegt sich eine solche Durchsage, die die ungebremste Durchfahrt über die Gefährdung der Gesundheit oder des Lebens von Menschen stellt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Eine eindeutige Signalgebung durch Blaulicht und Einsatzhorn gewährleistet für jeden Verkehrsteilnehmer eine Erkennbarkeit vorrangiger Einsatzfahrten unabhängig von Nationalität und Sprachkenntnis. Im Vorwege erfolgte Lautsprecherdurchsagen der Polizei dienen lediglich der zusätzlichen Information der Verkehrsteilnehmer und bedürfen keiner gesonderten Rechtsgrundlage; im Übrigen siehe Vorbemerkung.
 

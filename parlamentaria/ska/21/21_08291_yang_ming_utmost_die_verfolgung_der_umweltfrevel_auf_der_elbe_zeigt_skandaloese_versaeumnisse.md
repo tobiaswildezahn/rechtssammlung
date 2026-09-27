@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56988"
@@ -104,7 +105,7 @@ Ist der Senat mit dieser Situation zufrieden?
 
 Wenn nein, was gedenkt der Senat zu unternehmen, um solche Vergehen in Zukunft besser verfolgen zu können?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Polizei und Staatsanwaltschaft treffen in allen ihnen zur Kenntnis gelangenden Fällen von Verstößen gegen das Umweltrecht im Einzelfall die geeigneten und erforderlichen Maßnahmen, um Störungen der öffentlichen Sicherheit und Ordnung zu verhindern sowie Ordnungswidrigkeiten und Straftaten zu verfolgen. Im Übrigen hat sich der Senat mit den Fragen noch nicht befasst.
 

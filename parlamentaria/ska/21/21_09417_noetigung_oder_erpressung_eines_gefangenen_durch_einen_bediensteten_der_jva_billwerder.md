@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 16
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58189"
@@ -45,7 +46,7 @@ b) der zuständigen Behörde bekannt? Welche Erkenntnisse liegen konkret zum Sac
 
 Wie stellt sich der körperliche Übergriff auf den Gefangenen im Mai 2017 dar?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Um die polizeilichen Ermittlungen nicht zu gefährden, können derzeit keine Details zum Vorgang beziehungsweise zum Ermittlungsstand mitgeteilt werden.
 

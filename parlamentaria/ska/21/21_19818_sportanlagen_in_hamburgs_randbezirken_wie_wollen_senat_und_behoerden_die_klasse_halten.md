@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 18
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13028", "21/19632", "21/13171", "21/13210", "21/13290", "21/13482", "21/13566", "21/13670", "21/14173", "21/14298", "21/14391", "21/14434", "21/14629", "21/14858", "21/15038", "21/15092", "21/15178", "21/13317", "21/16645", "21/11981", "21/17892", "21/17857", "21/17846"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69571"
@@ -71,7 +72,7 @@ Wesentliches Ziel der Dekadenstrategie HAMBURGmachtSPORT waren der Neubau und di
 
 Welche Sportplätze wurden seit 2015 im Bezirk Harburg modernisiert? Bitte pro Jahr einzeln, mit Adresse und genauer Maßnahme auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im nachgefragten Zeitraum wurde im Bezirk Harburg kein Sportplatz neu gebaut; saniert und modernisiert wurden folgende Plätze:
 
@@ -103,7 +104,7 @@ Wie viele Sportvereine gibt es aktuell im Bezirk Harburg und welche Sportarten b
 
 Wie hat sich die Mitgliederzahl der unter 3. genannten Sportvereine im Bezirk Harburg seit 2015 entwickelt? Bitte für die Jahre seit 2015 bis 2019 jährlich angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Aktuell gibt es 93 Sportvereine im Bezirk Harburg; im Übrigen siehe Anlage.
 

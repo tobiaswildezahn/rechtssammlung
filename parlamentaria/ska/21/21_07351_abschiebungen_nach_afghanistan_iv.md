@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7315", "21/6310"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55951"
@@ -43,7 +44,7 @@ Wie viele Personen hatte die zuständige Behörde für die erste Sammelabschiebu
 
 In wie vielen Fällen wurde die Abschiebung verhindert a. aufgrund einer Eingabe, b. aufgrund einer gerichtlichen Entscheidung, c. aus anderen Gründen? Bitte einzeln darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/7315.
 

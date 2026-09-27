@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9747"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58712"
@@ -79,15 +80,15 @@ e) In der Drs. 21/9747 ist von Herrichtung für die Zeit des WNP die Rede. Warum
 
 Der Standort wird den Anforderungen des Winternotprogramms als Übernachtungsangebot mit einer entsprechenden Belegungsstruktur angepasst. Im Einzelnen ist Folgendes geplant:
 
- Einbau von zwei behindertengerechten Toiletten (je eine für Männer und Frauen),
+– Einbau von zwei behindertengerechten Toiletten (je eine für Männer und Frauen),
 
 um eine adäquate Versorgung der Zielgruppe sicherzustellen.
 
- Herrichtung eines Küchenraums mit einer Durchreiche zur Speiseausgabe, um die
+– Herrichtung eines Küchenraums mit einer Durchreiche zur Speiseausgabe, um die
 
 Versorgung der Klienten durch den Förderverein WNP zu ermöglichen.
 
- Durchbruch und Einbau einer Tür zwischen Küche und daneben liegendem Raum
+– Durchbruch und Einbau einer Tür zwischen Küche und daneben liegendem Raum
 
 für die Nutzung als Lager.
 

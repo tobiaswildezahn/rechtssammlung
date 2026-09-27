@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 25
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11973"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61926"
@@ -145,7 +146,7 @@ Plant der Senat beziehungsweise die zuständige Behörde, eSports in den Sportf�
 
 Beabsichtigt der Senat beziehungsweise die zuständige Behörde, den Sportfördervertrag aufgrund einer möglichen Förderung von eSports finanziell anzuheben? Wenn ja, in welcher Größenordnung? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Der Sportfördervertrag ist ein Vertrag zwischen dem Hamburger Sportbund e.V., dem Hamburger Fußball-Verband e.V. und der Behörde für Inneres und Sport zur Förderung der Sportentwicklung in den angeschlossenen Vereinen und Verbänden. Zum Zwecke der allgemeinen Sportförderung gewährt die Freie und Hansestadt Hamburg danach den Vertragspartnern eine jährliche Zuwendung. Die zu fördernden Bereiche sind in den Ziel- und Leistungsvereinbarungen des Sportfördervertrags festgehalten.
 

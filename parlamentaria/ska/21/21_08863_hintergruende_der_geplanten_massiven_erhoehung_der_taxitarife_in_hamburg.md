@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 36
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57602"
@@ -204,7 +205,7 @@ Was spricht aus Sicht des Senats beziehungsweise der zuständigen Behörde,
 a) dafür oder
 b) dagegen, bei der turnusmäßigen Bewertung der Angemessenheit und Markttauglichkeit der Taxitarife einen sich aus relevanten Faktoren zusammensetzenden Index zugrunde zu legen?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Die Angemessenheit und Markttauglichkeit der Taxentarife wird regelmäßig überprüft. Die zuständige Verkehrsgewerbeaufsicht überprüft laufend die Kostenentwicklung im Taxengewerbe. Sie zieht hierbei eigene Ermittlungen, Angaben des Gewerbes und die Landes- wie Bundesstatistik heran. Insbesondere der vom Statistischen Bundesamt monatlich fortgeschriebene Kraftfahrerpreisindex gibt die Kostenentwicklung rund um die Fahrzeughaltung verlässlich wieder. Daneben wird die Entwicklung der Verbraucherpreise sowie die Preisentwicklung für Leistungen zur Personenbeförderung und insbesondere im Hamburger Verkehrsverbund (HVV) verfolgt. Ferner werden gewerbespezifische Kosten erhoben und ausgewertet. Die Ertragsentwicklung des Gewerbes wird jährlich durch Auswertung automatisiert aufgezeichneter Daten über Fahrleistungen und Umsätze von inzwischen der Mehrzahl der zugelassenen Taxen ermittelt. Von Interesse ist auch die Entwicklung der Taxenpreise in anderen deutschen Großstädten und im Hamburger Umland. Ein Index, der sich aus diesen Faktoren zusammensetzt, reicht allerdings nicht aus, da hiermit andere wichtige Faktoren nicht abgebildet werden können. Hierzu gehören insbesondere die Anpassung an die Nachfrage, die Sicherung der Auskömmlichkeit der Beschäftigung im Taxengewerbe und die Förderung der Investitions- und Innovationsbereitschaft des Gewerbes.
 
@@ -243,23 +244,23 @@ Das Angebot wird im Taxengewerbe durch die jeweils verfügbare Anzahl der Fahrze
 
 Die Nachfrage im Taxengewerbe wird durch zahlreiche Faktoren beeinflusst. Hierzu gehören insbesondere:
 
- Zubringerfunktion zu anderen Verkehrsmitteln (zum Beispiel Flughafen, Bahn,
+– Zubringerfunktion zu anderen Verkehrsmitteln (zum Beispiel Flughafen, Bahn,
 
 Kreuzfahrtterminals),
 
- anderen Angebote zur innerstädtischen Personenbeförderung insbesondere im
+– anderen Angebote zur innerstädtischen Personenbeförderung insbesondere im
 
 ÖPNV (zum Beispiel Nachtverkehr),
 
- Häufigkeit und Ort besonderer Veranstaltungen (zum Beispiel Messen und Kon-
+– Häufigkeit und Ort besonderer Veranstaltungen (zum Beispiel Messen und Kon-
 
 gresse, Events, sportliche und kulturelle Veranstaltungen),
 
- Standorte von Unternehmen, von Einrichtungen zur gesundheitlichen Versorgung,
+– Standorte von Unternehmen, von Einrichtungen zur gesundheitlichen Versorgung,
 
 sowie von Hotels, Gastronomie und Vergnügungsvierteln,
 
- Wetterlagen.
+– Wetterlagen.
 
 Diese und weitere Nachfragefaktoren gelten – trotz sehr unterschiedlicher Preisniveaus – in Hamburg wie in vergleichbaren Städten gleichermaßen.
 

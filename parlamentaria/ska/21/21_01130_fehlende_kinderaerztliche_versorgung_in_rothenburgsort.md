@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 17
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49311"
@@ -230,21 +231,21 @@ in % der unter 15-Jährigen (1.319)
 
 Die Transferleistungen der sozialen Mindestsicherungssysteme sind finanzielle Hilfen des Staates, die zur Sicherung des grundlegenden Lebensunterhalts dienen. Dazu zählen folgende Leistungen:
 
- Arbeitslosengeld II/Sozialgeld nach dem Zweiten Buch Sozialgesetzbuch (SGB II
+– Arbeitslosengeld II/Sozialgeld nach dem Zweiten Buch Sozialgesetzbuch (SGB II
 
 „Grundsicherung für Arbeitsuchende“),
 
- Hilfe zum Lebensunterhalt außerhalb von Einrichtungen nach dem SGB XII „Sozi-
+– Hilfe zum Lebensunterhalt außerhalb von Einrichtungen nach dem SGB XII „Sozi-
 
 alhilfe“ ohne einmalige Leistungen,
 
- Grundsicherung im Alter und bei Erwerbsminderung nach dem SGB XII „Sozialhil-
+– Grundsicherung im Alter und bei Erwerbsminderung nach dem SGB XII „Sozialhil-
 
 fe“ ohne einmalige Leistungen,
 
- Regelleistungen nach dem Asylbewerberleistungsgesetz (AsylbLG) und
+– Regelleistungen nach dem Asylbewerberleistungsgesetz (AsylbLG) und
 
- Leistungen der Kriegsopferfürsorge im Inland nach dem Bundesversorgungsgesetz
+– Leistungen der Kriegsopferfürsorge im Inland nach dem Bundesversorgungsgesetz
 
 (BVG).
 
@@ -425,7 +426,7 @@ Wie wird die zukünftige Bevölkerungsentwicklung in Rothenburgsort von den zust
 
 Wie viele neuen Wohnungen sollen in den nächsten Jahren in Rothenburgsort und im südlichen Hamm entstehen?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Im Jahr 2012 zählte der Stadtteil Rothenburgsort 8.876 Einwohnerinnen und Einwohner. Im innenstadtnahen Stadtteil Rothenburgsort und im südlichen Hamm eröffnen sich in den nächsten Jahren ganz neue Entwicklungsperspektiven etwa in den Feldern Wohnen und Arbeiten oder dem Ausbau von Verkehrsinfrastruktur. Legt man „in den nächsten Jahren“ als mittelfristigen Planungshorizont mit circa fünf Jahren an, könnte laut Auskunft des Bezirksamtes Hamburg-Mitte unter günstigen Voraussetzungen für die Pilotgebiete Südliches Hamm und Rothenburgsort ein Wohnungsbaupotenzial von bis zu 400 bis 500 Wohneinheiten im Zuge von neuem Planungsrecht mobilisiert werden.
 

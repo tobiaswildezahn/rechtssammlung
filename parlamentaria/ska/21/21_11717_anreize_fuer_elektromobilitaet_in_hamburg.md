@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10716", "21/10349"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60951"
@@ -65,29 +66,29 @@ Hamburg verfügt über eines der fortschrittlichsten Ladeinfrastrukturangebote i
 
 Das Zugangskonzept im Hamburger Ladeinfrastruktur-Modell ist bundesweit beispielhaft mit folgenden Anreizen:
 
- Offener Marktzugang für dritte Betreiber bei Einhaltung definierter Qualitätsstan-
+– Offener Marktzugang für dritte Betreiber bei Einhaltung definierter Qualitätsstan-
 
 dards
 
- Ladeinfrastruktur wird Stromanbietern kostenfrei zur Verfügung gestellt
+– Ladeinfrastruktur wird Stromanbietern kostenfrei zur Verfügung gestellt
 
- Circa 160.000 bundesweite RFID-Karten-Besitzerinnen und -Besitzer haben
+– Circa 160.000 bundesweite RFID-Karten-Besitzerinnen und -Besitzer haben
 
 Zugang zum Hamburger System
 
- Spontan-Zugang via SMS/Smartphone-App (zweisprachig) möglich, kWh-genaue
+– Spontan-Zugang via SMS/Smartphone-App (zweisprachig) möglich, kWh-genaue
 
 Abrechnung
 
- App auch in angrenzenden Nachbarländern verfügbar
+– App auch in angrenzenden Nachbarländern verfügbar
 
- Blaue Bodenmarkierung verringert Fehlbelegung (15 Prozent statt 47 Prozent)
+– Blaue Bodenmarkierung verringert Fehlbelegung (15 Prozent statt 47 Prozent)
 
 Ebenso erfolgreich ist die Umstellung auf E-Fahrzeuge in Wirtschaftsflotten mit aktuell rund 670 alternativangetriebenen Projektfahrzeugen bei Unternehmen. Somit wird auf allen Ebenen in Hamburg dafür Sorge getragen, dass die durch E-Fahrzeuge positiven Effekte für die Luftreinhaltung erzielt werden. Weitere wichtige Projekte, die in Kooperation mit der Wirtschaft ausgeführt werden, sind:
 
- „Hamburg – Wirtschaft am Strom“: Rund 420 Fahrzeuge in Unternehmen
+– „Hamburg – Wirtschaft am Strom“: Rund 420 Fahrzeuge in Unternehmen
 
- „ePowered Fleets Hamburg“: Rund 250 Fahrzeuge in Unternehmen
+– „ePowered Fleets Hamburg“: Rund 250 Fahrzeuge in Unternehmen
 
 Es ist eine Inanspruchnahme der Bundesförderprogramme vorgesehen, die unter anderem im Rahmen des „Sofortprogramms Saubere Luft 2017-2020“ zur Verfügung steht. Zudem werden die Nutzerinnen und Nutzer von Elektrofahrzeugen durch den massiven weiteren Ausbau einer Rund-um-die-Uhr nutzbaren bedienerfreundlichen Ladeinfrastruktur unterstützt. Im Übrigen siehe Drs. 21/10349.
 

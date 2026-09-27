@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 21
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1496"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49734"
@@ -67,7 +68,7 @@ Wer hat zu welchem Zeitpunkt diese Entscheidung getroffen?
 
 Wann und auf welchem Wege wurde der betroffene Bewerber über die Ablehnung seines Angebots informiert?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Entscheidung hat die Finanzbehörde in Abstimmung mit der Senatskanzlei getroffen. Der Bewerber wurde hierüber am 1. September 2015 per Fax, E-Mail und auf dem Postweg informiert.
 

@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 19
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65820"
@@ -126,15 +127,15 @@ Wie hoch sind die dadurch entstandenen Kosten? Bitte je Kalenderjahr auflisten
 
 Um die Dichtheit, Stand- sowie Betriebssicherheit der öffentlichen Abwasserleitungen zu gewährleisten, wurde bei HW ein Inspektionsprogramm unter Berücksichtigung folgender Kriterien aufgestellt:
 
- Erkenntnisse über den Zustand der Abwasseranlagen aus vorhergehenden Unter-
+– Erkenntnisse über den Zustand der Abwasseranlagen aus vorhergehenden Unter-
 
 suchungen,
 
- Prognose der Zustandsentwicklung unter Berücksichtigung von Baujahr, Material,
+– Prognose der Zustandsentwicklung unter Berücksichtigung von Baujahr, Material,
 
 Lage und anderen baulichen Kriterien der Abwasseranlagen,
 
- Mögliches Schadensausmaß bei Ausfall der Funktionsfähigkeit der Abwasseranla-
+– Mögliches Schadensausmaß bei Ausfall der Funktionsfähigkeit der Abwasseranla-
 
 gen.
 
@@ -166,7 +167,7 @@ In wie vielen Fällen und in welcher Höhe wurden Bußgelder seit Inkrafttreten 
 
 In wie vielen Fällen wurde seit Inkrafttreten der Prüfpflicht Strafanzeige gestellt?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Seit Inkrafttreten der Prüfpflicht wurden weder Bußgelder festgesetzt noch Strafanzeigen gestellt.
 

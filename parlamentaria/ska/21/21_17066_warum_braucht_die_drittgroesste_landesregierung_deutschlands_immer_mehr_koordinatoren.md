@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 21
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66669"
@@ -95,21 +96,21 @@ Wie viele „Koordinatoren“ wurden seit 2011 im Hamburger Senat und den einzel
 
 Sieben Koordinatoren wurden seit 2011 eingerichtet:
 
- Landeskoordinatorin Frühe Hilfen (2012),
+– Landeskoordinatorin Frühe Hilfen (2012),
 
- Verkehrskoordinator für die A 7, ab 2017 für das Autobahnnetz in Hamburg
+– Verkehrskoordinator für die A 7, ab 2017 für das Autobahnnetz in Hamburg
 
 gemeinsam mit dem Leiter Fernstraßen des Landesbetriebes Straßen, Brücken und Gewässer (2014),
 
- Leitung Zentraler Koordinierungsstab Flüchtlinge (2015),
+– Leitung Zentraler Koordinierungsstab Flüchtlinge (2015),
 
- Koordinator Wohnungsbau Flüchtlinge (2015),
+– Koordinator Wohnungsbau Flüchtlinge (2015),
 
- Radverkehrskoordinatorin (2015),
+– Radverkehrskoordinatorin (2015),
 
- Weltkulturerbekoordinator (2016),
+– Weltkulturerbekoordinator (2016),
 
- Landeskoordinator/in Bildung für nachhaltige Entwicklung (2017),
+– Landeskoordinator/in Bildung für nachhaltige Entwicklung (2017),
 
 Geplant ist die Einrichtung eines Grünkoordinators (siehe dazu auch Antwort zu 3.) und eines Industriekoordinators (siehe dazu auch Antwort zu 4.).
 
@@ -121,7 +122,7 @@ Warum wurden diese „Koordinatoren“ eingeführt, was koordinieren sie jeweils
 
 Wie viele Mitarbeiter haben diese „Koordinatoren“ jeweils?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Anlage 1.
 

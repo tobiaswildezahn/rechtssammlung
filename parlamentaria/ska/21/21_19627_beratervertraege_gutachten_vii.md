@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 25
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15546", "20/10801", "21/16549", "21/14204", "21/14025", "21/13813", "21/13657"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69354"
@@ -39,23 +40,23 @@ Der Senat gab zuletzt im Dezember 2018 (Drs. 21/15546) umfassend Auskunft.
 
 Die Vergabe von Gutachten- und Beratungsverträgen ist notwendiger Bestandteil der Arbeit in der Verwaltung. Die Gründe für die Einbeziehung externen Sachverstandes sind sehr unterschiedlich:
 
- Externe Experten können die Verwaltung wirkungsvoll bei der Einführung neuer
+– Externe Experten können die Verwaltung wirkungsvoll bei der Einführung neuer
 
 Instrumente unterstützen.
 
- Es kann im Sinne einer Qualitätssicherung zweckmäßig sein, getroffene Entschei-
+– Es kann im Sinne einer Qualitätssicherung zweckmäßig sein, getroffene Entschei-
 
 dungen durch neutrale Gutachter evaluieren zu lassen, um neue Blickwinkel zu erschließen.
 
- Für spezielle Maßnahmen ist es wirtschaftlicher, punktuell oder für einen gewissen
+– Für spezielle Maßnahmen ist es wirtschaftlicher, punktuell oder für einen gewissen
 
 Zeitraum, Beratung von außen hinzuzuziehen, als spezielle personelle Kapazitäten dauerhaft vorzuhalten.
 
- Der erforderliche Sachverstand oder die personelle Kapazität für eine Fragestel-
+– Der erforderliche Sachverstand oder die personelle Kapazität für eine Fragestel-
 
 lung sind nicht oder zumindest nicht zur erforderlichen Zeit vorhanden.
 
- Die Hinzuziehung Externer ist gesetzlich vorgeschrieben, wie zum Beispiel die
+– Die Hinzuziehung Externer ist gesetzlich vorgeschrieben, wie zum Beispiel die
 
 Vertretung durch einen Rechtsanwalt in Verfahren vor dem Landesarbeits-, Landund Oberlandesgericht sowie dem Bundesgerichtshof.
 

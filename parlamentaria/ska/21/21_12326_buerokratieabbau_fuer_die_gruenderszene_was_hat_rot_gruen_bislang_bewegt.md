@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1687", "21/2215"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61620"
@@ -49,7 +50,7 @@ Aus der Senatsantwort auf Drs. 21/1687 geht hervor, dass der Hamburger Landesreg
 
 Welche Erkenntnisse besitzt der Senat mittlerweile über den Bürokratieaufwand für Gründer in den Metropolen Berlin, München und Köln? Wie stellt sich dies im Vergleich zum Standort Hamburg dar und wie bewertet der Senat die Differenzen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der zuständigen Behörde liegen keine neueren Erkenntnisse zum Bürokratieaufwand bei Gründungen vor, die über die in der Drs. 21/1687 zitierte Studie des Instituts für Mittelstandsforschung Bonn hinausgehen.
 
@@ -61,7 +62,7 @@ Welche bürokratischen Hürden sieht der Senat mittlerweile als zentrale Innovat
 
 Die neue CDU-geführte Bundesregierung will bürokratische Hürden für Gründer abbauen, sofern es im Einflussbereich des Bundes liegt. Beispielsweise sollen Unternehmen in den ersten beiden Jahren nach Gründung von der monatlichen Voranmeldung der Umsatzsteuer befreit werden. Was tut der Senat konkret, um bürokratische Hürden für Unternehmensgründer in seinem Machtbereich zu reduzieren, unter anderem für die unter 1. und 3. genannten Hürden? Welche konkreten Ziele verfolgt der Senat dabei bis 2020?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die zuständige Behörde sieht weiterhin keine bürokratischen Hürden, die zu zentralen Innovationshemmnissen für Unternehmensgründerinnen und Unternehmensgründer, etablierte Unternehmen und Hochschulen in Hamburg werden könnten (vergleiche Drs. 21/1687).
 

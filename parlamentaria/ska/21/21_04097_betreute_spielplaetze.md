@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52485"
@@ -73,19 +74,19 @@ Werden diese betreuten Spielplätze seitens der Freien und Hansestadt Hamburg ge
 
 Die Behörde für Arbeit, Soziales, Familie und Integration (BASFI) fördert den Träger Aktion Kinderparadies Betreute Kinderspielplätze e.V. auf Grundlage des Landesförderplans „Familie und Jugend“ in der Fassung vom 17.7.2012. Gefördert wird die Planung, Vorbereitung und Durchführung von überregional organisierten Spielangeboten auf regionalen Kleinkinderspielplätzen mit folgenden Beträgen:
 
- 2010: 64.477 Euro
+– 2010: 64.477 Euro
 
- 2011: 65.516 Euro
+– 2011: 65.516 Euro
 
- 2012: 70.039 Euro
+– 2012: 70.039 Euro
 
- 2013: 69.381 Euro
+– 2013: 69.381 Euro
 
- 2014: 70.007 Euro
+– 2014: 70.007 Euro
 
- 2015: 70.026 Euro
+– 2015: 70.026 Euro
 
- 2016: 39.375 Euro
+– 2016: 39.375 Euro
 
 Aufgrund der gesunkenen Zahl der betreuten Kinder und der damit einhergehenden geringeren Anzahl betreuter Spielplätze wurde 2016 der Zuwendungsbetrag anlässlich eines personellen Wechsels in der Projektleitung des Trägers angepasst.
 

@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 7
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9097"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50569"
@@ -51,7 +52,7 @@ a) Bei welchen Kulturprojekten und Fördermaßnahmen wurden wann genau die Bunde
 b) In welchen der unter 1.a) und 1.b) genannten Fördermaßnahmen wurden die Bundesmittel bisher nicht von Hamburg abgerufen; und warum nicht? Bitte differenziert nach Jahr, Projekt, Bauwerk und Mobilie sowie Förderprogramm auflisten.
 c) Bei welchen der unter 2.b) genannten Fördermaßnahmen, bei denen die Bundesmittel nicht abgerufen wurden, ist eine Inanspruchnahme der Bundesmittel zeitnah und unter welchen Auflagen zu erwarten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

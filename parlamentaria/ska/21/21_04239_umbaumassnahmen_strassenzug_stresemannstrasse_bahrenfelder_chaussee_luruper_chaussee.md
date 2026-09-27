@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12800"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52643"
@@ -57,7 +58,7 @@ An welchen Tagen erfolgen die Baumaßnahmen von 7 bis 20 Uhr?
 
 Wieso wird nicht immer montags bis samstags von 7 bis 20 Uhr gearbeitet?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 In Abhängigkeit vom Wetter, vom Baufortschritt sowie aus bautechnischen Gründen wird regelhaft an sechs Tagen in der Woche gearbeitet. Die detaillierte Steuerung der Bauabläufe innerhalb der Baustelle obliegt gemäß der Verdingungsordnung dem jeweils beauftragten Unternehmen. Zusätzlich sind teilweise Arbeiten an Sonn- und Feiertagen erforderlich (zum Beispiel Verkehrsumstellungen, Asphaltierungs- und Markierungsarbeiten).
 

@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 21
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67627"
@@ -57,7 +58,7 @@ Wie ist der aktuelle Sanierungsstand?
 
 Mit welchen zusätzlichen Sanierungskosten wäre in den kommenden Jahren zu rechnen gewesen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Sanierungsbedarf umfasst insbesondere die Erneuerung der gesamten Fassade, Brandschutzsanierung, Sanierung der technischen Gebäudeausrüstung (TGA) und der großflächig mit Sand gefüllten Kellerbereiche, Erneuerung der Dränageleitung im Außenbereich. Zur Abschätzung des Sanierungsbedarfs der Gebäude in der Liegenschaft Ulmenliet 20 liegt ein Gutachten vor. Dieses kommt zu dem Schluss, dass im Gebäude und bei der technischen Ausstattung der Liegenschaft ein erheblicher Sanierungsbedarf vorliegt. Das vorliegende Sanierungsgutachten geht von circa 140 Millionen Euro aus. Nicht berücksichtigt sind darin Kosten aus Nutzungsänderungen oder Umbauten.
 
@@ -89,7 +90,7 @@ Seit wann gibt es Gespräche über einen Neubau in Oberbillwerder und welche „
 
 Welcher Ausschuss wurde im Bezirk Bergedorf angesichts der grundsätzlich bezirklichen Planungshoheit informiert beziehungsweise inwieweit wurde die Bezirksversammlung informiert und/oder beteiligt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Bereits Anfang 2018 wurden im Zuge der Standortentwicklung Ulmenliet zwischen der zuständigen Behörde, der HAW und dem Bezirk erstmals Gespräche geführt. In die weiteren Abstimmungen wurden dann IBA und BSW einbezogen.
 

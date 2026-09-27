@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13178", "21/13297"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65901"
@@ -71,6 +72,6 @@ Wurden Teile des Inventars (auch die intakten Stahlrohrrahmenbetten) einem Schro
 
 Wie viel hat die Freie und Hansestadt Hamburg jeweils für die Anschaffung der entsorgten Stahlrohrrahmenbetten aufgewendet (Einkaufspreis)?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nein, im Übrigen: entfällt.

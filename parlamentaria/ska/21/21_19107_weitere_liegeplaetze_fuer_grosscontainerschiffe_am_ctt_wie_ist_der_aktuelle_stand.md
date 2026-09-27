@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 14
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68801"
@@ -49,6 +50,6 @@ Wie ist der aktuelle Stand des Planungsverfahrens für einen weiteren Liegeplatz
 
 Wie weit sind die Planungen für die bauliche Umsetzung des zusätzlichen Liegeplatzes für Großcontainerschiffe? a. An welcher Stelle am CTT soll der neue Liegeplatz entstehen? b. Welche baulichen Voraussetzungen müssen geschaffen werden? c. Welche Prüfungen müssen noch umgesetzt werden? d. Inwieweit ist das direkte Umfeld auf der Fläche Steinwerder mit in die baulichen Planungen einbezogen? e. Wann rechnet die HHLA mit einer wahrscheinlichen baulichen Fertigstellung des Liegeplatzes? f. Welche Kosten sind nach dem bisherigen Planungsstand für die Erweiterung des Liegeplatzes eingeplant? Bei wem fallen sie in welcher Höhe an?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.

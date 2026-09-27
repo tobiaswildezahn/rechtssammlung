@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838", "21/3091", "21/3107", "21/3328"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53914"
@@ -45,7 +46,7 @@ Welche Grundstücke hat der Senat beziehungsweise die zuständige Behörde in de
 
 Zu welchem Zweck hat der Senat beziehungsweise die zuständige Behörde diese Flächen jeweils angekauft beziehungsweise versucht diese anzukaufen? Soll das Grünland in Bauland umgewandelt werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Über den Erwerb einer Teilfläche des Flurstücks 168 der Gemarkung Hummelsbüttel werden derzeit Verhandlungen geführt. Die vorgenannte Teilfläche soll der Erschließung der für den Wohnungsbau vorgesehenen städtischen Flurstücke 4526, 4525 und 3182 dienen.
 

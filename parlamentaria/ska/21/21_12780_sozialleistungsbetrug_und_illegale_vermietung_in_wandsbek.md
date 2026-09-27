@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 37
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10782", "21/11806", "21/11357"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62077"
@@ -173,7 +174,7 @@ Wer ist der Eigentümer des Gebäudes der Waldörfer Straße 122? Handelt es sic
 
 Ist der eingetragene Eigentümer auch gleichzeitig Betreiber/Vermieter des Gebäudes und gegebenenfalls des Bordells? Wenn nein, wer ist der Betreiber und in welchen vertraglichen Regelungen ist der Betrieb verankert?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Wer Eigentümer des Gebäudes der Walddörfer Straße 122 ist, ergibt sich aus dem Grundbuch. Das Grundbuch kann unter den Voraussetzungen von § 12 Absatz 1 Satz 1 der Grundbuchordnung beim Grundbuchamt eingesehen werden. Im Übrigen sind die Ermittlungen nicht abgeschlossen.
 

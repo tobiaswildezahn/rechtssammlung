@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 31
 antwortbloecke: 23
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9647", "20/10116"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48500"
@@ -51,7 +52,7 @@ Wer überprüft zu welchem Zeitpunkt die Tauglichkeit und Vollständigkeit der f
 
 Gibt es eine Überprüfung im Vieraugenprinzip und eine Endkontrolle in der Schulbehörde? Wenn ja, welche Stelle führt die Endkontrolle durch, wie sieht diese in den einzelnen Prüfungsfächern aus? Gibt es entsprechende Dienstanweisungen? Wenn ja, bitte beifügen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Entwicklung der Prüfungsfragen beginnt in allen zentral geprüften Fächern regelhaft im Schuljahr vor dem Prüfungstermin. Eine erste Überprüfung der Aufgaben auf Tauglichkeit und Vollständigkeit erfolgt bereits nach Erarbeitung der ersten Aufgabenentwürfe nach einem Mehraugenprinzip innerhalb der Aufgabenentwicklergruppe. Die Aufgabenentwicklerinnen und -entwickler kontrollieren die Entwürfe, die Koordinatorin beziehungsweise der Koordinator überprüft alle erstellten Aufgabenvorschläge, bestätigt sie oder gibt sie zur Überarbeitung an die Aufgabenentwicklerinnen und -entwickler zurück. Nach Abschluss dieses Verfahrens werden die Prüfungsaufgaben und die zu jedem Aufgabensatz erstellten Lehrermaterialien der Fachkommission zur Prüfung und Genehmigung vorgelegt.
 
@@ -134,23 +135,23 @@ Zusammen mit den Prüfungsunterlagen erhalten die Schulen „Anweisungen für di
 
 Im Einzelnen
 
- quittieren die Schulen den Empfang der Prüfungsunterlagen;
+– quittieren die Schulen den Empfang der Prüfungsunterlagen;
 
- werden die Schulen darauf hingewiesen, dass die Aufbewahrung der Prüfungsun-
+– werden die Schulen darauf hingewiesen, dass die Aufbewahrung der Prüfungsun-
 
 terlagen an einem sicheren Platz zu erfolgen hat;
 
- kontrollieren die Schulen anhand der Packzettel und der Etiketten, ob die geliefer-
+– kontrollieren die Schulen anhand der Packzettel und der Etiketten, ob die geliefer-
 
 ten Unterlagen ihren Bestellungen entsprechen;
 
- übergibt die Schulleitung am Morgen der Prüfung den Fachlehrkräften die versie-
+– übergibt die Schulleitung am Morgen der Prüfung den Fachlehrkräften die versie-
 
 gelten Prüfungsunterlagen;
 
- wird die Übergabe protokolliert;
+– wird die Übergabe protokolliert;
 
- dürfen die Pakete mit den Prüfungsunterlagen erst am Morgen der Prüfung geöff-
+– dürfen die Pakete mit den Prüfungsunterlagen erst am Morgen der Prüfung geöff-
 
 net werden.
 

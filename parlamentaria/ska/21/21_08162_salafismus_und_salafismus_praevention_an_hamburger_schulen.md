@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 16
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5331", "21/5039", "21/5711", "21/6646", "21/8105"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56866"
@@ -109,7 +110,7 @@ Wie schätzt der Senat die Aktivitäten salafistsicher Schüler an Hamburger Sch
 
 Welche Schulen sind nach Auffassung des Senats am stärksten von salafistischen Aktivitäten betroffen? Bei der Beantwortung der Fragen bitte auch auf Angaben zur Struktur der Schülerhaft sowie den angebotenen Bildungsabschlüssen machen.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Bei den Einzelfällen liegen individuelle Biografien und spezifische Problemlagen vor. Bei jedem Einzelfall wird geprüft, wie man mit angemessenen Hilfen aus Schule, Jugendhilfe oder anderen Institutionen die Angehörigen und den jungen Menschen erreichen beziehungsweise unterstützen kann. Eine Entwicklung kann hier nicht prognostiziert werden.
 

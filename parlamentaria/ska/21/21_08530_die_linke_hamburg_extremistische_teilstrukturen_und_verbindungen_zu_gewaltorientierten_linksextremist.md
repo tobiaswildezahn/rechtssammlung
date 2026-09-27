@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8442"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57258"
@@ -43,7 +44,7 @@ Welche Kenntnisse hat der Senat beziehungsweise die zuständige Behörde über A
 
 Welche Kenntnisse hat der Senat beziehungsweise die zuständige Behörde über die politischen Standpunkte von Stephan Jersch bezogen auf die politischen Zielsetzungen der VVN/BdA und liegen hiernach Ansatzpunkte für verfassungsfeindliche Bestrebungen vor?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/8442.
 

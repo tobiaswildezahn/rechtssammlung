@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 22
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11852", "21/16058", "21/19721"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69853"
@@ -87,7 +88,7 @@ Wann hat der Senat von diesen rechtlichen Gründen durch wen erfahren?
 
 Wann hat der Senat die Bürgerschaft von diesen rechtlichen Gründen informiert?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die rechtlichen Voraussetzungen wurden im Rahmen der Beantwortung des Bürgerschaftlichen Ersuchens „Laschen ist Hafenarbeit“ (Drs. 21/11852) geprüft, siehe Drs. 21/16058.
 

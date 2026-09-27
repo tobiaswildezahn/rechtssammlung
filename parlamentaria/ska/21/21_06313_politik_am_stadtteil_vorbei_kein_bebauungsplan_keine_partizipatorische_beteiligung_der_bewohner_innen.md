@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/8632", "21/5273"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54851"
@@ -115,7 +116,7 @@ Wie viele Wohnungen sollen auf dem Gelände am Schultzweg entstehen?
 
 Wie hoch ist jeweils die Anzahl der a. Ein-,Zwei-, Drei-,x-Zimmerwohnungen und ihr jeweiliger Quadratmeteranteil an der gesamten neu entstehenden Wohnfläche, b. frei finanzierten Wohnungen und der Eigentumswohnungen, c. öffentlich geförderten Wohnungen und ihr Quadratmeteranteil an der gesamten neu entstehenden Wohnfläche, d. unter c. genannten öffentlich geförderten Wohnungen differenziert nach Förderwegen (1., 2. Förderweg, Studierendenwohnungen, Senioren-/-innenwohnungen, ...) sowie der jeweiligen Laufzeit der Mietpreis- oder Belegungsbindungen
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Richtwerte und ungefähre Mengenangaben sind dem Bezirklichen Wohnungsbauprogramm 2016 zu entnehmen, siehe http://www.hamburg.de/stadtplanung-mitte/ 7040056/wohnugsbauprogramm-2016-hamburg-mitte/, Seite 144. Im Übrigen sind die Planungen noch nicht abgeschlossen.
 
@@ -143,7 +144,7 @@ Welche Auflagen oder Maßgaben wurden mit dem Käufer des öffentlichen Grundst�
 
 Wie ist der aktuelle Sachstand zu der Realisierung der Auflagen/ Maßgaben?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Der Senat sieht zur Wahrung seiner Verhandlungsposition und der Betriebs- und Geschäftsgeheimnisse seiner Vertragspartner in ständiger Praxis grundsätzlich davon ab, zu kaufvertraglichen Regelungen Stellung zu nehmen.
 

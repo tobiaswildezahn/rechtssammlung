@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 27
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12178"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61695"
@@ -152,7 +153,7 @@ Wie viele Minderjährige waren jeweils in den Jahren 2016 und 2017 von Sanktione
 
 In wie vielen Bedarfsgemeinschaften mit Minderjährigen gab es jeweils in den Jahren 2016 und 2017 vollsanktionierte U25-Jährige? In wie vielen wurden den U25-Jährigen auch die KdU gestrichen? Bitte in Zahlen und in Prozentanteilen an dem jeweiligen Gesamtbestand in Hamburg angeben.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Berichtsebene für Sanktionen sind Personen. Sanktionen werden nicht nach Bedarfsgemeinschaften (BG) ausgewiesen.
 

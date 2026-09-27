@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5340"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56022"
@@ -69,7 +70,7 @@ Wann hat welches Gremium entschieden, die Mitnahme von E-Scootern in Bussen des 
 
 Welche Einrichtungen sind mit welchen Vertretern Mitglied in diesem Gremium?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Entscheidung über die Änderung der Besonderen Beförderungsbestimmungen, mit der die im Oktober 2016 veröffentlichten Regeln zur Änderung der Mitnahme von E-Scootern umgesetzt werden sollen, ist im Unternehmensbeirat des HVV zu treffen. Der Unternehmensbeirat setzt sich aus Vertretern der dem HVV angeschlossenen Verkehrsunternehmen zusammen.
 

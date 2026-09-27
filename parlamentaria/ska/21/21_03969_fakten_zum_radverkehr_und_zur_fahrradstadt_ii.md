@@ -14,6 +14,7 @@ fragen: 45
 einzelfragen: 65
 antwortbloecke: 41
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1948", "21/253", "21/3234", "21/1502", "21/2850", "21/3312", "21/1791", "21/3360"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52354"
@@ -60,7 +61,7 @@ b) die Zahl der Haushalte mit mindestens einem Fahrrad und
 c) die Zahl der Fahrräder je 1.000 Einwohner  
 aktuell dar?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Einkommens- und Verbrauchsstichprobe (EVS) wird alle fünf Jahre erhoben. Daher liegen nur Ergebnisse bis zum Jahr 2013 vor. Die folgende Tabelle zeigt die Anzahl der Haushalte insgesamt sowie mit mindestens einem Fahrrad.
 
@@ -178,25 +179,25 @@ Behörde für Inneres und Sport (BIS)
 
 Die BIS plant für das Jahr 2016 folgende Maßnahmen der Öffentlichkeitsarbeit in Bezug auf das Radfahren:
 
- Infostand Polizeikommissariat 42
+– Infostand Polizeikommissariat 42
 
- Infostand Polizeishow
+– Infostand Polizeishow
 
- Infostand „Hamburger Meile“
+– Infostand „Hamburger Meile“
 
- Infostand Straßenfest Polizeikommissariat 16
+– Infostand Straßenfest Polizeikommissariat 16
 
- Aktion „Schon gecheckt“
+– Aktion „Schon gecheckt“
 
- Infostand Zollenspieker
+– Infostand Zollenspieker
 
- Sicherheitstag Schule Bickbargen
+– Sicherheitstag Schule Bickbargen
 
- Infostand Eidelstedt Center
+– Infostand Eidelstedt Center
 
- Hit-Tag Polizeigelände Alsterdorf
+– Hit-Tag Polizeigelände Alsterdorf
 
- Maßnahmen zur Schulwegsicherung in allen Stadtteilen
+– Maßnahmen zur Schulwegsicherung in allen Stadtteilen
 
 Die Finanzierung erfolgt aus dem laufenden Haushalt. Zu weiteren Maßnahmen im Sinne der Fragestellung bestehen noch keine konkreten Planungen. Im Übrigen siehe Drs. 21/1948.
 
@@ -204,15 +205,15 @@ Behörde für Schule und Berufsbildung (BSB)
 
 Für den Schulbereich sind folgende Maßnahmen vorgesehen:
 
- Neuauflage des Schülerarbeitsheftes „Fahr Rad Mobil“ und der dazugehörigen
+– Neuauflage des Schülerarbeitsheftes „Fahr Rad Mobil“ und der dazugehörigen
 
 Arbeitsblätter und Forscheraufträge. Dieses Unterrichtsmaterial zum Thema Fahrrad für die Klassen 5 bis 7 wird zum Frühjahr des Jahres 2017 inhaltlich und gestalterisch erneuert. Die Kosten konnten im Rahmen der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht ermittelt werden.
 
- Fortführung und Erweiterung des Rollerprogramms „Hamburgs Kinder lernen
+– Fortführung und Erweiterung des Rollerprogramms „Hamburgs Kinder lernen
 
 sicher und souverän rollern“. Für den Transport und die Wartung der Roller entstehen Gesamtkosten in Höhe von etwa 600 Euro pro Jahr.
 
- Fortführung und Erweiterung der Ausleihe von verkehrstauglichen Fahrrädern und
+– Fortführung und Erweiterung der Ausleihe von verkehrstauglichen Fahrrädern und
 
 Helmen für Schulfahrten. Für Kinder aus bedürftigen Familien bietet die für Bildung zuständige Behörde in Zusammenarbeit mit Nutzmüll e.V. eine kostenfreie Ausleihmöglichkeit. Es entstehen keine Kosten, da die Fahrräder gespendet wurden und von Teilnehmerinnen und Teilnehmern an Arbeitsgelegenheitsmaßnahmen aufgearbeitet wurden.
 
@@ -690,7 +691,7 @@ Was kostet die Errichtung einer durchschnittlichen StadtRAD-Station aktuell?
 
 Was kostet die Anschaffung eines StadtRADs aktuell?
 
-#### Antwort zu Fragen 23 bis 24
+#### Antwort zu Fragen 23 und 24
 
 Siehe Drs. 21/1948.
 
@@ -802,7 +803,7 @@ Wie hat sich die Zahl der Ordnungswidrigkeitsverfahren aufgrund von Verkehrsvers
 
 Wie hat sich die Zahl der gegen Radfahrer verhängten Verwarnungsund Bußgelder im Jahr 2015 entwickelt und gegen welche Norm wurde dabei jeweils verstoßen?
 
-#### Antwort zu Fragen 31 bis 32
+#### Antwort zu Fragen 31 und 32
 
 Siehe Drs. 21/3360.
 
@@ -843,7 +844,7 @@ Wie hat sich der Personalbestand der Dienstgruppe, die innerhalb der Fahrradstaf
 
 Wie viele Einsätze beziehungsweise Kontrollen hat diese Dienststelle seit 2011 durchgeführt? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 35 bis 36
+#### Antwort zu Fragen 35 und 36
 
 Siehe Drs. 21/1948.
 
@@ -924,25 +925,25 @@ Darüber hinaus haben die Bezirksämter folgende Angaben gemacht:
 
 Eimsbüttel
 
- Försterweg, 150 m, 30.000 Euro
+– Försterweg, 150 m, 30.000 Euro
 
- Rungwisch, 200 m, 50.000 Euro
+– Rungwisch, 200 m, 50.000 Euro
 
 Gründe: Schlechter baulicher Zustand (Wurzelschäden, Versackungen, Aufbrüche, Netzrisse) der 0,8 bis 1 Meter breiten Radwege aus Asphaltbeton. Neuherstellung der Nebenflächen beschildert mit „Gehweg, Radfahrer frei“.
 
 Bergedorf
 
- Ludwig-Rosenberg-Ring, 300 m, 10.000 Euro
+– Ludwig-Rosenberg-Ring, 300 m, 10.000 Euro
 
 Grund: Ersatz durch Radfahrstreifen.
 
 Harburg
 
- Denickestraße Südseite, circa 700 m (Weusthoffstraße bis Gazertstraße)
+– Denickestraße Südseite, circa 700 m (Weusthoffstraße bis Gazertstraße)
 
- Hainholzweg beidseitig, circa 570 m pro Seite (Strucksbarg bis Am Hohen Knäbel)
+– Hainholzweg beidseitig, circa 570 m pro Seite (Strucksbarg bis Am Hohen Knäbel)
 
- Heimfelder Straße Nordseite, circa 860 m (Eißendorfer Pferdeweg bis Nobleestra-
+– Heimfelder Straße Nordseite, circa 860 m (Eißendorfer Pferdeweg bis Nobleestra-
 
 ße)
 
@@ -964,17 +965,17 @@ In Bezug auf Bezirksstraßen werden beispielhaft folgende Maßnahmen aufgeführt
 
 Jahr 2011
 
- Washingtonallee – circa 1.400 m (hier wurde der rechte Fahrstreifen vorher nur
+– Washingtonallee – circa 1.400 m (hier wurde der rechte Fahrstreifen vorher nur
 
 beparkt und stand dem fließenden Verkehr daher nicht zur Verfügung. Der ruhende Verkehr wurde auf den ehemaligen Radweg verlegt),
 
 Jahr 2012
 
- Billstedter Hauptstraße – circa 400 m (Ersatz des untermaßigen Radweges zu
+– Billstedter Hauptstraße – circa 400 m (Ersatz des untermaßigen Radweges zu
 
 Lasten der überdimensionierten Fahrbahn),
 
- Tatenberger Weg – 630 m (hier gab es vorher keine gesonderte Radverkehrsfüh-
+– Tatenberger Weg – 630 m (hier gab es vorher keine gesonderte Radverkehrsfüh-
 
 rung).
 
@@ -1011,15 +1012,15 @@ a) Aufgrund welcher verkehrlichen und/oder straßenbauliche Normen sind solche �
 
 Verkehrsteilnehmerinnen und Verkehrsteilnehmer sind stets gehalten, sich auf geänderte Verkehrsregeln und Verkehrsführungen einzustellen und sich im diesen Sinne daran zu „gewöhnen“. Beispiele hierfür sind
 
- geänderte Regeln der Straßenverkehrs-Ordnung (unter anderem das mittlerweile
+– geänderte Regeln der Straßenverkehrs-Ordnung (unter anderem das mittlerweile
 
 zulässige Rechts-Vorbeifahren von Radfahrern an wartenden Kraftfahrzeugen),
 
- straßenverkehrsbehördliche Anordnungen durch geänderte rechtliche Möglichkei-
+– straßenverkehrsbehördliche Anordnungen durch geänderte rechtliche Möglichkei-
 
 ten (unter anderem Freigabe von Einbahnstraßen für Radverkehr in Gegenrichtung) sowie
 
- geänderte Verkehrsführungen (unter anderem Hinweisschild „Vorfahrt geändert“).
+– geänderte Verkehrsführungen (unter anderem Hinweisschild „Vorfahrt geändert“).
 
 Solche Änderungen müssen stets im Einklang mit der Straßenverkehrs-Ordnung stehen. Dies ist bei der Verlagerung des Radverkehrs auf die Fahrbahn der Straße Alsterufer der Fall. Im Übrigen empfehlen die Regelwerke des Straßenwesens der Forschungsgesellschaft für Straßen- und Verkehrswesen (FGSV) eine ortsangepasste Planung oder schreiben diese sogar vor (je nach Verbindlichkeitsgrad des jeweiligen Regelwerks: Richtlinie, Empfehlung, Hinweis, Merkblatt).
 

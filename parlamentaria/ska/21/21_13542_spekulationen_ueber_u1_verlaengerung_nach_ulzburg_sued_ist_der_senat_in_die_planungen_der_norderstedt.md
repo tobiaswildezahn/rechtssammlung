@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7555"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62899"
@@ -55,7 +56,7 @@ Inwiefern sind der Senat beziehungsweise die zuständige Behörde und/oder die H
 
 Wann und mit welchen Ergebnissen haben welche Vertreter des Senats beziehungsweise der zuständigen Behörde an Gesprächen über die Prüfung der Verlängerung der U1 von Norderstedt-Mitte nach Ulzburg-Süd teilgenommen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die HOCHBAHN hat konzeptionelle Voruntersuchungen zu baulichen, betrieblichen und verkehrlichen Aspekten verschiedener Varianten einer U1-Verlängerung ab Norderstedt-Mitte fachlich begleitet. Eine direkte formelle Beteiligung der Freien und Hansestadt Hamburg (FHH) hat noch nicht stattgefunden. Im Übrigen siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1121", "21/505", "21/1197"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49811"
@@ -47,7 +48,7 @@ Wie hat sich die Zahl der Einbrüche im Jahr 2015 im Alstertal und in den Waldd�
 
 Wie viele Einbrüche wurden im Jahr 2015 im Alstertal und in den Walddörfern aufgeklärt? Bitte die Zahlen für jeden Monat einzeln angeben und nach Stadtteilen sowie nach Wohnungen und Gewerbeobjekten aufgliedern.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage. Im Übrigen siehe Drs. 21/1121.
 

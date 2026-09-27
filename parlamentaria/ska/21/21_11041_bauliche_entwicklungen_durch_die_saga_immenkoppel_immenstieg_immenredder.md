@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59991"
@@ -51,7 +52,7 @@ Welche verkehrspolitischen Maßnahmen plant der Senat beziehungsweise die zustä
 
 Welche verkehrspolitischen Maßnahmen plant der Senat beziehungsweise die zuständige Fachbehörde für diese Bereiche, um das Verkehrschaos in den genannten Straßen zu entspannen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Anordnungen von Verkehrszeichen zur Herstellung der Verkehrssicherheit oder zur Beschränkung des ruhenden Verkehrs sind durch die örtliche Straßenverkehrsbehörde in den in Rede stehenden Straßen gegenwärtig nicht beabsichtigt.
 
@@ -65,7 +66,7 @@ Plant der Senat beziehungsweise die zuständige Fachbehörde entsprechende Maßn
 a) Wenn ja, welche Maßnahmen sind das und wann sollen sie auf welchem Wege umgesetzt werden?
 b) Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im für den Bereich gültigen Bebauungsplan Hummelsbüttel 9 sind keine konkreten Angaben zur Anzahl der Kfz-Stellplätze gemacht worden. Seit Änderung der Hamburgischen Bauordnung (HBauO) vom 28. Januar 2014 entscheiden die Bauherrinnen und Bauherren bei dieser Sachlage in eigener Verantwortung über die Herstellung von Stellplätzen in angemessenem Umfang (§ 48 Absatz 1a HBauO).
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50382"
@@ -75,17 +76,17 @@ Welche Maßnahmen wurden im Rahmen dieses Polizeieinsatzes ergriffen?
 
 Die Polizei hat folgende Maßnahmen ergriffen:
 
- Versuch von Kooperationsgesprächen mit den Versammlungsteilnehmern
+– Versuch von Kooperationsgesprächen mit den Versammlungsteilnehmern
 
- Verkehrsmaßnahmen
+– Verkehrsmaßnahmen
 
- Räumung der Fahrbahn unter Anwendung unmittelbaren Zwangs
+– Räumung der Fahrbahn unter Anwendung unmittelbaren Zwangs
 
- vorläufige Festnahme einer Person
+– vorläufige Festnahme einer Person
 
- Ingewahrsahmnahme einer Person
+– Ingewahrsahmnahme einer Person
 
- Vorgangsfertigung
+– Vorgangsfertigung
 
 Im Übrigen siehe Antwort zu 1.
 

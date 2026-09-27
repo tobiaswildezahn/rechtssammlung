@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 34
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11657", "21/12075"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62249"
@@ -86,7 +87,7 @@ Hat die Freie und Hansestadt Hamburg auf das Institut für Recht der Wirtschaft 
 
 Kann ein Zwischenbericht bereits nach zwei Monaten Projektlaufzeit bei einer Gesamtprojektlaufzeit von zwei Jahren bereits wissenschaftlich belastbare, verifizierte Zwischenergebnisse vorlegen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nein. Im Übrigen siehe Antwort zu 1.
 

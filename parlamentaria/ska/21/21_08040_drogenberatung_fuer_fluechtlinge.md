@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56706"
@@ -43,7 +44,7 @@ Für wie groß schätzt der Senat die in der Einführung beschriebene Gefahr ein
 
 Gibt es Untersuchungen, wie viele Flüchtlinge in Hamburg von Drogen abhängig sind oder ein problematisches Konsumverhalten aufweisen? Wenn ja: welches sind die Ergebnisse? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Anzahl der Menschen mit Fluchterfahrungen, die Drogen in problematischer oder abhängiger Weise konsumieren, wird statistisch nicht gesondert erhoben.
 

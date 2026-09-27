@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69958"
@@ -43,7 +44,7 @@ Wie hoch war das Grundsteueraufkommen im Jahr 2019 im Stadtteil Rahlstedt?
 
 Wie hoch war das Grunderwerbsteuereinkommen im Jahr 2019 im Stadtteil Rahlstedt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Steueraufkommen für die Grundsteuer und Grunderwerbsteuer wird statistisch nicht nach Stadtteilen erfasst.
 

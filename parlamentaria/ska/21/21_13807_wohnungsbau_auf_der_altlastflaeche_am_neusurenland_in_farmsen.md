@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 28
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13047"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63192"
@@ -53,7 +54,7 @@ Wer soll in welcher Form und gegebenenfalls zu welchen Anteilen die Kosten für 
 
 Sofern die Sanierungskosten nicht von der Stadt getragen werden: Wie wahrscheinlich ist es nach Auffassung des Senats beziehungsweise der zuständigen Behörde, dass Kosten auf die Mieter umgelegt werden? Gilt es, dies zu verhindern? Wenn ja, wie?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Machbarkeit und die Kosten der Bodensanierung der gesamten Altlast oder von Teilflächen werden derzeit vonseiten der für Altlastensanierung zuständigen Fachbehörde geprüft. Entscheidungen über eine entsprechende Finanzierung der Altlastsanierung, die Bereitstellung etwaiger Ersatzflächen für den Sportplatz sowie mögliche Alternativnutzungen sind erst nach Vorlage der Ergebnisse möglich. Gegebenenfalls könnte dies im Zusammenhang mit einer zukünftigen Wohnungsbaunutzung realisiert werden; hier sind die Überlegungen und Planungen jedoch noch nicht abgeschlossen. Eine Umlage auf die Mieterinnen und Mieter ist aus rechtlichen Gründen ausgeschlossen.
 
@@ -96,7 +97,7 @@ Wie ist es um die Nachsorgepflicht im Falle einer Übertragung der Deponiefläch
 
 Kommt es zu Änderungen der Nachsorgepflicht durch vollzogene Sanierungsmaßnahmen auf einer Deponiefläche? Wenn ja, zu welchen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Bei einer vollständigen Beseitigung der Altlablagerung gilt die Altlast als vollständig dekontaminiert. Damit sind mit dieser Fläche keine Nachsorgepflichten mehr verbunden.
 

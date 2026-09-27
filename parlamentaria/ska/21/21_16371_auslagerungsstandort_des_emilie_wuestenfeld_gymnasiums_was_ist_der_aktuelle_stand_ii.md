@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15870", "21/16300"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65896"
@@ -49,7 +50,7 @@ Welche konkrete Nachnutzung sehen der Senat und die zuständige Behörde für da
 
 Welche konkreten Umbauarbeiten werden zur unter Punkt 1. genannten Nachnutzung des Gebäudes notwendig sein und wann werden diese Umbauarbeiten begonnen beziehungsweise beendet? Bitte ebenfalls vergleichend darstellen, welche Umbauarbeiten notwendig gewesen wären, wenn man sich für die Nutzung dieses Standorts als Auslagerungsstandort entschieden hätte.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/16300.
 

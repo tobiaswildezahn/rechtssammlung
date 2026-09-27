@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 41
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19515", "21/17710"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69315"
@@ -43,7 +44,7 @@ Wie viele Salafisten halten sich nach Informationen des Senats derzeit in Hambur
 
 Welche Nationalität haben diese Salafisten und Jihadisten jeweils?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/19515.
 
@@ -75,7 +76,7 @@ Wie viele dieser ausgereisten Personen sind nach Kenntnis der zuständigen Behö
 
 Wie bewertet der Senat mögliche Gefahren durch in Hamburg lebende „Rückkehrer“?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/17710.
 

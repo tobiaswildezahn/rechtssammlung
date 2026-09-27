@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 19
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16110"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66668"
@@ -166,21 +167,21 @@ Gibt es derzeit geplante Maßnahmen, den ökologischen Wert der Flächen im Natu
 
 Folgende Maßnahmen sind derzeit geplant:
 
- Wiederherstellung einer ehemaligen Prielstruktur in einer vorhandenen Gelände-
+– Wiederherstellung einer ehemaligen Prielstruktur in einer vorhandenen Gelände-
 
 senke an der Dove Elbe auf circa 75 m.
 
- Entwicklung artenreicher Feuchtgrünlandflächen als Lebensraum für Wiesenvögel
+– Entwicklung artenreicher Feuchtgrünlandflächen als Lebensraum für Wiesenvögel
 
 wie Wiesenpieper, Schafstelze, Kiebitz auf dem Kleinen Brook.
 
- Bekämpfung des Japanischen Staudenknöterichs im Bereich des Ufers und von
+– Bekämpfung des Japanischen Staudenknöterichs im Bereich des Ufers und von
 
 Straßenböschungen.
 
- Gehölzfreistellung im Röhrichtgürtel von Dove und Gose Elbe
+– Gehölzfreistellung im Röhrichtgürtel von Dove und Gose Elbe
 
- Verbesserung der Anlagen zur Wasserstandsregulierung im Teilgebiet Die Hohe.
+– Verbesserung der Anlagen zur Wasserstandsregulierung im Teilgebiet Die Hohe.
 
 ### Frage 6
 
@@ -198,7 +199,7 @@ Welches Unternehmen/Institut hat den Auftrag für die Machbarkeitsstudie erhalte
 
 Welche genauen Untersuchungsziele hat diese Machbarkeitsstudie?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Zur Einschätzung des ökologischen Verbesserungspotenzials (ökologische Auf- und Abwertung der betrachteten Gebiete) wurde das Ingenieurbüro „BBS Büro Greuner- Pönicke“ in Kiel durch die Hamburg Port Authority AöR (HPA) beauftragt. Die Vergabe der Untersuchung im Rahmen des europäischen Interreg-Projektes IMMERSE erfolgte über eine Ausschreibung gemäß den Vergabebestimmungen. Als Vergabekriterien wurden der Angebotspreis, die Expertise beziehungsweise Erfahrung des vorgesehenen Personals sowie das Leistungskonzept zur Auftragsbearbeitung ausgewählt. Das Auftragsvolumen beträgt circa 61 000 Euro, wovon die Hälfte durch das EU-Projekt IMMERSE getragen wird.
 

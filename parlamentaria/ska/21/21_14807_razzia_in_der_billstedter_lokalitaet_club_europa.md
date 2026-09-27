@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["16/4616", "21/11656", "21/9055"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64254"
@@ -83,7 +84,7 @@ Wie viele Fälle von Einbruchsdiebstahl wurden von der SoKo Castle registriert? 
 
 Wie war die Aufklärungsquote der SoKo Castle? Bitte wie in Frage 2. aufschlüsseln.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die in der PKS für die Erfassungsdienststelle: SoKo „Castle“/LKA 19 registrierten Fälle der schweren Einbruchskriminalität (PKS-Summenschlüssel 886000) sind in der folgenden Tabelle dargestellt:
 

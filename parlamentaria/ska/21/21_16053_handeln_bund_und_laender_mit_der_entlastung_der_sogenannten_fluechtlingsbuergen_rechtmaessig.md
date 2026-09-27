@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 16
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15126", "21/10518", "21/15909", "19/6484"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65563"
@@ -107,7 +108,7 @@ Indem die Flüchtlingsbürgen (bei Bürgschaften abgeschlossen bis August 2016) 
 
 Auch bei sogenannter falscher Beratung dürfte jedem Flüchtlingsbürgen bewusst gewesen sein, dass er zumindest für eine Übergangs/ Eingliederungszeit für die Kosten des betreffenden Flüchtlings haftet. In der öffentlichen Diskussion ging es nun wesentlich darum, dass die Kosten länger als erwartet angefallen seien. Werden die Flüchtlingsbürgen also zumindest für die in einer Anfangsphase – etwa ein Dreivierteljahr – angefallenen Kosten aufkommen müssen? Falls nein, warum nicht?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Regelung in Hamburg hat sich nicht verändert, siehe hierzu auch Vorbemerkung.
 

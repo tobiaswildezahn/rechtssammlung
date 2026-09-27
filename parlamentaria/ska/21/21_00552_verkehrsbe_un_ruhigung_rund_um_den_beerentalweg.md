@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 19
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5300"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48700"
@@ -174,51 +175,51 @@ Welche weiteren Straßenumbaumaßnahmen sind im Wahlkreis Süderelbe für 2015 u
 
 Geplante Straßenbaumaßnahmen 2015:
 
- Deckensanierung Cranzer Hauptdeich
+– Deckensanierung Cranzer Hauptdeich
 
- Deckensanierung Moorburger Hauptdeich/Fürstenmoordamm
+– Deckensanierung Moorburger Hauptdeich/Fürstenmoordamm
 
- Nordanbindung Altenwerder
+– Nordanbindung Altenwerder
 
- Neu-, Um- und Ausbau Friedhofstraße/Bremer Straße / Beerental-Weg
+– Neu-, Um- und Ausbau Friedhofstraße/Bremer Straße / Beerental-Weg
 
- Neu-, Um- und Ausbau Bremer Straße/Friedhofstraße/Ernst-Bergeest-Weg
+– Neu-, Um- und Ausbau Bremer Straße/Friedhofstraße/Ernst-Bergeest-Weg
 
- Markierungsarbeiten nördl. AS-Heimfeld
+– Markierungsarbeiten nördl. AS-Heimfeld
 
- Sanierung Rad- und Gehweg Striepenweg Südseite
+– Sanierung Rad- und Gehweg Striepenweg Südseite
 
- Einbau von taktilen Elementen, Rad- und Gehweg Striepenweg Nordseite
+– Einbau von taktilen Elementen, Rad- und Gehweg Striepenweg Nordseite
 
- Deckensanierung Rehstieg (Cuxhavener Straße – Striepenweg)
+– Deckensanierung Rehstieg (Cuxhavener Straße – Striepenweg)
 
- Deckensanierung, Neugrabener Bahnhofstraße (Petershof – Buskehre)
+– Deckensanierung, Neugrabener Bahnhofstraße (Petershof – Buskehre)
 
- Deckensanierung, Sandheide, Kiefernheide, Grundheide, Föhrenheide, Querheide
+– Deckensanierung, Sandheide, Kiefernheide, Grundheide, Föhrenheide, Querheide
 
- Deckensanierung, Scheideholzweg
+– Deckensanierung, Scheideholzweg
 
- Deckensanierung, Kleinfeld
+– Deckensanierung, Kleinfeld
 
- Deckensanierung, Bauernweide (Süderelbering – Parkhaus)
+– Deckensanierung, Bauernweide (Süderelbering – Parkhaus)
 
- Estebogen
+– Estebogen
 
- Ostewinkel, Gehweg
+– Ostewinkel, Gehweg
 
- Stichweg Rehrstieg – S-Bahn
+– Stichweg Rehrstieg – S-Bahn
 
- Altwiedenthaler Straße (Tempoweg – Striepenweg), Gehweg
+– Altwiedenthaler Straße (Tempoweg – Striepenweg), Gehweg
 
- Wachteltal und Aronstabweg (endgültige Herstellung)
+– Wachteltal und Aronstabweg (endgültige Herstellung)
 
 Geplante Straßenbaumaßnahmen 2016:
 
- Grundinstandsetzung (GI) Eißendorfer Waldweg und Malfeldstraße von BAB Brü-
+– Grundinstandsetzung (GI) Eißendorfer Waldweg und Malfeldstraße von BAB Brü-
 
 cke bis Malfeldstraße 2
 
- GI Francoper Straße/Hinterdeich zwischen Hohenwischer Straße und Neuwie-
+– GI Francoper Straße/Hinterdeich zwischen Hohenwischer Straße und Neuwie-
 
 denthaler Straße
 

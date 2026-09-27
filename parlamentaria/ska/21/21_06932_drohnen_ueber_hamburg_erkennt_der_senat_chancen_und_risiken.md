@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 22
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1897", "21/6869"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55514"
@@ -45,7 +46,7 @@ Welche Hamburger Bildungseinrichtungen, Hochschulen et cetera bieten Schulungen,
 
 Welche bildungspolitischen Konzepte verfolgt oder plant der Senat mit Blick auf die zunehmende Verbreitung der Drohnentechnologie?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In der Fakultät Technik und Informatik der Hochschule für Angewandte Wissenschaften Hamburg (HAW Hamburg) werden im Studiengang Flugzeugbau in verschiedenen Modulen Themen behandelt, die für technische und sicherheitsrelevante Aspekte von Drohnen von Bedeutung sind. Die HafenCity Universität Hamburg (HCU) bietet Studiengänge in der Disziplin Geomatik an, in dem die Studierenden Qualifikationen hinsichtlich der Photogrammetrie und somit Kompetenzen in der Auswertung der von Drohnen aufgenommenen Bilder erwerben.
 

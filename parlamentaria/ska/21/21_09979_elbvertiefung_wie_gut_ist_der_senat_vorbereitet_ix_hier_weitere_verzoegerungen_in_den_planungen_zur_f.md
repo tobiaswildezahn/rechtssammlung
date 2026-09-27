@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9595", "21/9268"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58802"
@@ -55,7 +56,7 @@ Warum sollen nun die Planungsunterlagen im 1. Quartal 2018 fertig sein, obwohl W
 
 In welchem Zeitplan erfolgen welche weiteren Schritte für welche Maßnahmen bis zur Fertigstellung der Fläche „Tideanschluss Billwerder Insel“ als Kohärenzmaßnahme und im weiteren Planungsprozess insbesondere für die Planergänzung? a. Bis wann wird die Detailplanung für die Fläche beendet sein beziehungsweise ist deren Fertigstellung geplant? b. Welche weiteren Gutachten sollen für welche Maßnahmen in welchem Zeitraum vorgelegt werden? c. Wann genau ist die Fertigstellung des Planergänzungsbeschlusses geplant?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

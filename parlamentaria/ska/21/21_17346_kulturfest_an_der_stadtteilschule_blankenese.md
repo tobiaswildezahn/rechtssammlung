@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67077"
@@ -68,27 +69,27 @@ Wer nahm an der „Info-Meile – Demokratie und Nachhaltigkeit“ am 25. Mai 20
 
 An der „Info-Meile – Demokratie und Nachhaltigkeit“ nahmen folgende Initiativen, Gremien und Organisationen teil:
 
- Partnerschaften für Demokratie und Vielfalt, Altona
+– Partnerschaften für Demokratie und Vielfalt, Altona
 
- Transparency International, Mehr Demokratie e.V.
+– Transparency International, Mehr Demokratie e.V.
 
- Europa-Union e.V.
+– Europa-Union e.V.
 
- Greenpeace
+– Greenpeace
 
- Elternrat der Stadtteilschule Blankenese
+– Elternrat der Stadtteilschule Blankenese
 
- Gemeinwohl-Ökonomie Hamburg
+– Gemeinwohl-Ökonomie Hamburg
 
- Zukunftsforum Blankenese
+– Zukunftsforum Blankenese
 
- FTSV Komet Blankenese von 1907 e.V.
+– FTSV Komet Blankenese von 1907 e.V.
 
- AG Bienen der Stadtteilschule Blankenese
+– AG Bienen der Stadtteilschule Blankenese
 
- Freiwillige Feuerwehr Rissen
+– Freiwillige Feuerwehr Rissen
 
- Bücherhalle Elbvororte/Dialog in Deutsch
+– Bücherhalle Elbvororte/Dialog in Deutsch
 
 ### Frage 5
 

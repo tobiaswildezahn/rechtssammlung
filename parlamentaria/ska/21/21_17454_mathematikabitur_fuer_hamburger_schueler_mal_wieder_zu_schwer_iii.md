@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17249", "21/17402"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67054"
@@ -67,7 +68,7 @@ Wie viele Schülerinnen und Schüler hatten sich zu dem Zeitpunkt bereits für m
 
 Können Schülerinnen und Schüler, welche sich bereits für die mündliche Prüfung angemeldet hatten, von ihrer Anmeldung angesichts der neuen Situation problemlos wieder Abstand nehmen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die für Bildung zuständige Behörde erfasst nicht zentral, wie viele Schülerinnen und Schüler sich für eine mündliche Prüfung anmelden.
 

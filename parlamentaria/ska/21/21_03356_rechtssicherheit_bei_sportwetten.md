@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51693"
@@ -61,6 +62,6 @@ Befindet sich der Senat bereits in länderübergreifenden Gesprächen zur Neureg
 
 Hat der Senat den Anspruch, möglichst schnell Rechtssicherheit in der Frage der Sportwetten zu schaffen? Wenn ja, was tut der Senat, um diesem Anspruch gerecht zu werden? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Zuletzt hat sich die Konferenz der Chefinnen und Chefs der Staats- und Senatskanzleien der Länder am 25. Februar 2016 mit der Regulierung des deutschen Sportwettenmarktes befasst. Die Beratungen sowie Überlegungen der zuständigen Behörden sind noch nicht abgeschlossen. Im Übrigen siehe Antwort zu 2.

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 27
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6548", "21/1570", "21/4174", "21/6163", "21/5581", "21/6544"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55462"
@@ -265,11 +266,11 @@ Die EA Oskar-Schlemmer-Straße ist am 3. Oktober 2016 und die EA Kaltenkirchener
 
 Über die in der Drs. 21/4174 genannten örU hinaus sind folgende Einrichtungen ausschließlich für Frauen und ihre minderjährigen Kinder in Betrieb beziehungsweise kurz vor Fertigstellung:
 
- Langelohhof (32 Plätze)
+– Langelohhof (32 Plätze)
 
- Alsenstraße (Moritz-Liebmann-Haus, 80 Plätze)
+– Alsenstraße (Moritz-Liebmann-Haus, 80 Plätze)
 
- August-Krogmann-Straße (Haus M, 93 Plätze, kurz vor Fertigstellung).
+– August-Krogmann-Straße (Haus M, 93 Plätze, kurz vor Fertigstellung).
 
 Die Plätze Langelohhof und Alsenstraße sind derzeit voll ausgelastet.
 

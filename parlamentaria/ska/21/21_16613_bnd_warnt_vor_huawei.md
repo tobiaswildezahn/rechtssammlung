@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66147"
@@ -79,7 +80,7 @@ Welche Überlegungen bestehen hinsichtlich des Ausbaus des 5G- Netzes in Hamburg
 
 Sollen auch in Hamburg im Zuge des Ausbaus des 5G-Netzes Komponenten der Firma Huawei verwendet oder ein anderer Anbieter hierfür in Anspruch genommen werden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Das Telekommunikationswesen liegt gemäß Artikel 87 fortfolgende Grundgesetz in der Zuständigkeit des Bundes und damit nicht in der Zuständigkeit des Senats. Die Bundesnetzagentur überarbeitet aktuell die Sicherheitsanforderungen nach § 109 Telekommunikationsgesetz für das Betreiben von Telekommunikations- und Datenverarbeitungssystemen sowie für die Verarbeitung personenbezogener Daten und hat dazu Eckpunkte veröffentlicht, siehe dazu:
 

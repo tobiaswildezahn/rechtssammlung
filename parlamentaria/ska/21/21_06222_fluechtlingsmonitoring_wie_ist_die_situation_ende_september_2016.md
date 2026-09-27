@@ -14,6 +14,7 @@ fragen: 34
 einzelfragen: 45
 antwortbloecke: 32
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4919", "21/4940", "21/4943", "21/5812", "21/4030", "21/3227", "21/5124"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54750"
@@ -115,7 +116,7 @@ Wie viele Asylverfahren Hamburger Antragsteller wurden im September 2016 mit wel
 
 Wie war die Gesamtschutzquote im September 2016?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 
@@ -145,7 +146,7 @@ Wie viele Personen waren in den Einrichtungen der Erstaufnahme (EA), der Folgeun
 
 Wie viele Plätze gibt es in EA und örU? Bitte nach Standort aufschlüsseln und jeweils Auslastungsquote mit angeben.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Belegungszahlen vom 30. September 2016 mit Buchungsstand vom 5. Oktober 2016 sind den folgenden Tabellen zu entnehmen:
 

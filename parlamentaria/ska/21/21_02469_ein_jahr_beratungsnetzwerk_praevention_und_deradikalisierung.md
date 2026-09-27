@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13460", "21/1204", "21/1674", "21/2196"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50753"
@@ -43,7 +44,7 @@ Wie hoch ist der Betrag, den das Beratungsnetzwerk erhält insgesamt genau und w
 
 Aus welchen Mitteln speist sich dieser Betrag? Bitte genau aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Beratungsnetzwerk Prävention und Deradikalisierung tauschen sich alle staatlichen und zivilgesellschaftlichen Organisationen aus, die in Hamburg thematisch direkt betroffen sind und/oder über eine hohe fachliche Kompetenz auf dem Gebiet verfügen. In eigener Zuständigkeit führt das Netzwerk keine Präventionsprojekte durch, es erhält dementsprechend auch keine finanzielle Förderung. Sämtliche Präventionsmaßnahmen werden von den fachlich zuständigen Behörden aus Landes- und Bundesmitteln finanziert. Im Übrigen siehe Drs. 20/13460, 21/1204 und 21/1674.
 

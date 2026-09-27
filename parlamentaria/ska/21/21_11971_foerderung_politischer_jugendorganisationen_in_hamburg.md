@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14575"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61225"
@@ -74,7 +75,7 @@ e) DIE LINKE – Linksjugend.
 
 Wie viele Fördergelder der den oben genannten Jugendorganisationen gewährten Fördergelder sind dabei in Bildungsmaßnahmen beziehungsweise die Verwaltung geflossen? Die Antworten sind bitte jeweils gesondert aufzuschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 
@@ -94,7 +95,7 @@ Ist dem Senat bekannt, ob es Förderungen von politischen Jugendorganisationen i
 
 Hat es darüber hinaus im besagten Zeitraum Förderungen für Jugendorganisationen von Parteien gegeben, die weder im Bundestag noch in der Bürgerschaft vertreten waren beziehungsweise sind?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nein. Im Übrigen siehe Vorbemerkung.
 

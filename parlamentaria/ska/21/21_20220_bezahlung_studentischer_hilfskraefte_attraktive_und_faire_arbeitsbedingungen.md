@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15928"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70002"
@@ -114,7 +115,7 @@ Wie bewertet die zuständige Behörde den Umstand, dass Arbeitsverträge von stu
 
 Welche konkreten Überlegungen darüber hinaus hat die zuständige Behörde angestellt, um die Arbeitsbedingungen von studentischen Hilfskräften zu verbessern?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Ziel der zuständigen Behörde ist es, dass die staatlich finanzierte Hochschulen des Landes grundsätzlich künftig mehr unbefristete Stellen in ihren Personalkörpern schaffen sowie bei befristeten Arbeitsverhältnissen die Befristungsdauern weitest möglich verlängern. Mit dem Zukunftspakt von Bund und Ländern erhalten die Hochschulen künftig – anders als bislang – dauerhaft zusätzliche Mittel, um ihre Personalplanung entsprechend steuern zu können.
 

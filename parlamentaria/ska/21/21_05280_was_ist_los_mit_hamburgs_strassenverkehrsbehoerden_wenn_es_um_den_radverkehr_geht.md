@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5024", "20/9872"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53751"
@@ -35,7 +36,7 @@ Aus verschiedenen Berichten und Beobachtungen von Altagsradlern/-innen lassen si
 
 ## Einleitung für die Antworten des Senats
 
- Für Radfahrer/-innen in Gegenrichtung frei gegebene Einbahnstraßen:
+– Für Radfahrer/-innen in Gegenrichtung frei gegebene Einbahnstraßen:
 
 Wird bei Zeichen 220 das Zusatzschild vergessen, wird Autofahrenden bei der Einfahrt fälschlich suggeriert, es dürften ihnen keine Radfahrer/- innen entgegenkommen. Besonders problematisch ist, dass solche Unklarheiten oft genug Anlass für Aggressionen gegenüber Radfahrern/- innen geben!
 
@@ -43,7 +44,7 @@ Beispiele:
 
 Leinpfad zwischen Maria-Louisen-Straße und Mövenstraße (Veloroute 4), Bellevue zwischen Gellertstraße und Scheffelstraße, Baustelle Veringstraße (teilweise Veloroute 11), Baustelle Weidenstieg (Veloroute 2).
 
- Die blauen Verkehrszeichen 237, 239, 240 und 241, die für Radfahrer/-
+– Die blauen Verkehrszeichen 237, 239, 240 und 241, die für Radfahrer/-
 
 innen festlegen, wann Geh- oder Radwege zwingend befahren werden müssen oder nicht befahren werden dürfen, werden immer wieder recht beliebig aufgestellt, sodass in diesen Fällen keine/r mehr weiß, welche Regeln gelten sollen.
 
@@ -51,7 +52,7 @@ Beispiel:
 
 Baustelle Osterstraße.
 
- Sackgassen, die für den Radverkehr durchlässig sind, werden nicht als
+– Sackgassen, die für den Radverkehr durchlässig sind, werden nicht als
 
 solche beschildert.
 
@@ -91,7 +92,7 @@ Wie bewertet der Senat die Arbeitsfähigkeit der Straßenverkehrsbehörden unter
 
 Die Ursachen für die beschriebenen Defizite sind sicher vielfältig (Personalmangel, geringe Ortskenntnis und fehlende Vor-Ort-Überwachung, lähmende Hierarchie innerhalb des Polizeiapparates, Qualifizierungsdefizite in Radverkehrsfragen). Welche Maßnahmen plant der Senat zu ergreifen, um einerseits die Straßenverkehrsbehörden zu mehr Sorgfalt zu ermuntern und andererseits ihre Effizienz zu verbessern?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die örtlichen Straßenverkehrsbehörden nehmen die Aufgaben in ihrem Zuständigkeitsbereich eigenständig nach den Bestimmungen der StVO und der hierzu erlassenen Allgemeinen Verwaltungsvorschrift zur Straßenverkehrs-Ordnung (VwV-StVO) und unter Beachtung weiterer Richtlinien, Empfehlungen und Fachanweisungen wahr. Sie verfügen regelmäßig über gute Ortskenntnisse in ihrem Zuständigkeitsbereich und sind bei der Aufgabenwahrnehmung an keine Hierarchien innerhalb der Polizei gebunden, allerdings der Fachaufsicht der Verkehrsdirektion unterworfen, die dafür auch Einblick in die konkrete Aufgabenwahrnehmung hat. Die örtlichen Straßenverkehrsbehörden wurden mit der Drs. 20/5024 weitgehend von Zustimmungsvorbehalten befreit.
 

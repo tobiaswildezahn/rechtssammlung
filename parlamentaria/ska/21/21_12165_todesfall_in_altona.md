@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61430"
@@ -45,7 +46,7 @@ Sind ähnliche Fälle aus den letzten Jahren bekannt? Wenn ja: wie viele in den 
 
 Welche (gegebenenfalls gesetzliche) Gründe lagen vor, trotz eindringlicher Hinweise, die staatlichen Organe zu hindern, die Wohnungstür zu öffnen, um rechtzeitig nach dem Betroffenen zu schauen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die vorhandene Sachverhaltsbeschreibung enthält keine ausreichenden recherchefähigen Daten. Der beschriebene Sachverhalt konnte daher keinem konkreten Einzelfall zugeordnet werden; eine Beantwortung der Fragestellung ist daher nicht möglich.
 
@@ -59,7 +60,7 @@ Was gedenkt der Senat beziehungsweise die zuständige Behörde zu veranlassen, d
 
 Sieht der Senat beziehungsweise die zuständige Behörde eine gesetzgeberische Handlungsmöglichkeit, um bessere Regelungen zu erlassen, die es ermöglichen, nach ernstlichen Hinweisen jederzeit den Zugang zu einer Wohnung zu erreichen? Wenn ja: welche? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Das Grundrecht auf die Unverletzlichkeit der Wohnung und die Beschränkungen zum Betreten und Durchsuchen von Wohnungen durch staatliche Organe ohne ausdrückliche Zustimmung des Berechtigten bilden den Rahmen für gesetzliche Eingriffsregelungen. Der vorhandene Rahmen ist durch die Regelungen im Hamburger Sicherheits- und Ordnungsgesetz ausgeschöpft worden. Weitergehende Regelungen sind im vorhandenen Rahmen nicht zu realisieren. Sie ermöglichen das Tätigwerden im Falle konkreter Gefahrenlagen, erfordern aber wie jede gesetzliche Regelung die Prüfung der Voraussetzungen im Einzelfall.
 

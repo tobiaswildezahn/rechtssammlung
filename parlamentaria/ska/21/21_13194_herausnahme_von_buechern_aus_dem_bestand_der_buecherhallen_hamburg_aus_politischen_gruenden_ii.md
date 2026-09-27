@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12361"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62532"
@@ -53,7 +54,7 @@ Innerhalb welches Gremiums wurde die Entscheidung getroffen und wer war an der E
 a) Alle an der Entscheidung beteiligten Mitglieder des Stiftungsvorstandes mit ihren Vorstandsfunktionen benennen.
 b) Alle an der Entscheidung beteiligten Mitglieder des Stiftungsvorstandes namentlich benennen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Bestandsentwicklung gehört zu den Aufgaben der laufenden Geschäftsführung der Stiftung und obliegt damit gemäß der Stiftungssatzung dem Vorstand. Zu den Mitgliedern des Stiftungsvorstands siehe https://www.buecherhallen.de/ueber-uns. Zuständig für den Bereich der Bibliotheksdienstleistungen ist die Bibliotheksdirektorin.
 

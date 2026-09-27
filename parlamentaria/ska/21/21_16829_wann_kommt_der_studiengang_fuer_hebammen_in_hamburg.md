@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 32
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14426", "21/8852"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66382"
@@ -121,7 +122,7 @@ Frühestmöglicher Studienbeginn sei zum Wintersemester 2020/2021, hieß es im S
 
 Wird es einen dualen, praxisintegrierenden Studiengang geben? Wie sieht dieser konkret aus? Und wie stellt sich die Verzahnung von Theorie und Praxis konkret dar?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Studiengang soll nach den derzeitigen Planungen als dualer, praxisintegrierender Bachelor-Studiengang starten. Siehe Antwort zu 3.
 
@@ -217,7 +218,7 @@ Wie hoch ist der Bedarf an Hebammen in Hamburg?
 
 Wie stellt sich die Kaiserschnittrate in Hamburg seit 2015 in Hamburg dar? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Jahr  
 Anteil der Kaiserschnittgeburten an den Geburten insgesamt in %  

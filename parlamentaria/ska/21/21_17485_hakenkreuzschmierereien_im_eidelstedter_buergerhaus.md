@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3165"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67068"
@@ -87,7 +88,7 @@ Von wie vielen Tätern/-innen geht die Polizei Hamburg aktuell aus?
 
 Wurden bereits Tatverdächtige ermittelt? a. Wie viele Tatverdächtige wurden bisher ermittelt? b. Gibt es Hinweise auf Verbindungen zur rechten Szene oder auf rechtes Gedankengut des mutmaßlichen Täters/der mutmaßlichen Täter/-innen? Wenn ja, welche?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antworten zu 1. und zu 5.
 

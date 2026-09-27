@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59129"
@@ -54,11 +55,11 @@ beteiligt?
 
 #### Antwort zu Frage 1
 
- Falls ja: Wirkt der Senat auf eine Schaffung eines attraktiven Alterna-
+– Falls ja: Wirkt der Senat auf eine Schaffung eines attraktiven Alterna-
 
 tivstandorts hin?
 
- Falls nein: Weshalb ist der Senat nicht beteiligt?
+– Falls nein: Weshalb ist der Senat nicht beteiligt?
 
 Hamburgische Behörden sind derzeit nicht an Gesprächen zwischen der DB AG und Eisenbahnverkehrsunternehmen über mögliche Alternativstandorte beteiligt.
 

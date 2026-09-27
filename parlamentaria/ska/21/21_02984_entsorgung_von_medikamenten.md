@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/8688", "20/9913", "21/1242"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51314"
@@ -43,7 +44,7 @@ Seit wann können Medikamente nicht mehr in Apotheken abgegeben werden?
 
 Warum ist dies nicht mehr möglich?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Mit der 5. Änderung der Verpackungsverordnung im Januar 2009 wurde das branchenspezifische Rücknahme- und Verwertungssystem eingestellt, das den Apotheken eine für sie kostenlose Abholung und Entsorgung von Altarzneimitteln ermöglicht hatte.
 
@@ -75,7 +76,7 @@ Wie können Bürger derzeit nicht mehr benötigte Medikamente entsorgen? Welche 
 
 Hat der Senat ein Konzept, damit Bürger nicht mehr benötigte Medikamente einfach, wohnortnah und kostenlos abgeben können? Wenn ja: Wie sieht das Konzept aus und wann wird es umgesetzt? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Prüfung auf mögliche Umweltauswirkungen ist obligatorischer Bestandteil der Arzneimittelzulassung. Auf der äußeren Verpackung, in der Packungsbeilage und der Fachinformation sind – sofern erforderlich – besondere Vorsichtsmaßnahmen für die Beseitigung von nicht verwendeten Arzneimitteln angegeben. Diese Arzneimittel können bei der mobilen Problemstoffsammlung oder Recyclinghöfen kostenlos abgegeben werden.
 

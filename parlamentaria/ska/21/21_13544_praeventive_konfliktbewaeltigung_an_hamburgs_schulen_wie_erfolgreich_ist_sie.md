@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 21
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11759", "21/13131", "20/37"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62916"
@@ -191,7 +192,7 @@ In welchen Schulen und bis zu welcher Klasse werden Klassenräte abgehalten (bit
 
 Für wie wirkungsvoll erachtet der Senat beziehungsweise die zuständige Behörde die Klassenräte für die Gewaltprävention und auf welche Art sollen sie gegebenenfalls gestärkt und ausgeweitet werden?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Dem Klassenrat kommen vielfältige Aufgaben zu. In erster Linie ist der Klassenrat das zentrale Mitbestimmungsgremium von Schülerinnen und Schülern der Schule und stellt somit die Basis demokratischer Strukturen und von Schülerpartizipation an der Schule dar. Die Arbeit im Klassenrat ist geprägt durch Anträge, Vorschläge und Engagement der Schülerinnen und Schüler und sollte nicht vorrangig oder ausschließlich zur Konfliktklärung eingesetzt werden. Selbstverständlich gehört zu einem demokratischen Miteinander auch die Klärung von Konflikten. Über die Teilnahme an Programmen der Gewaltprävention kann gemeinsam im Klassenrat entschieden werden, die praktische Umsetzung sollte außerhalb des Klassen-rats stattfinden.
 

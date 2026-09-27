@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 16
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58394"
@@ -45,7 +46,7 @@ Entsprechend seinem Bevölkerungsanteil erhält jeder der sieben Hamburger Bezir
 
 Wie genau, in welcher Höhe und für welchen Zweck verteilte sich die Fördersumme in den Jahren 2013 – 2017 im Einzelnen? Bitte für jedes Jahr einzeln mit Zuwendungszweck in absoluten Eurobeträgen in einer Excel-Tabelle angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Quartiersfonds bezirkliche Stadtteilarbeit im Bezirk Harburg im Zeitraum 2013 - Juni 2017
 
@@ -246,7 +247,7 @@ c) Gab es einen Bedarfsüberschuss? Wenn ja, in welcher Höhe genau? (Bitte ents
 
 Wenn es keine Ausschreibung des Quartiersfonds gab, wer entschied/ entscheidet über die jeweilige Verwendung und an welche Einrichtungen, Projekte beziehungsweise für welche Zwecke im Einzelnen gingen die Mittel jeweils? (Bitte für jeden Zweck mit jeweiliger Fördersumme für den Zeitablauf 2013/2014/2015/2016/2017 in absoluten Eurobeträgen in einer Excel-Tabelle angeben.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Es gab kein Ausschreibungsverfahren. Das Bezirksamt schlägt der Bezirksversammlung geeignete Projekte vor. Über die Vergabe der Fördermittel entscheidet die Bezirksversammlung. Im Übrigen siehe Antworten zu 1. und 2.
 
@@ -266,7 +267,7 @@ Ist es richtig, dass eine Unterdeckung der Jugendhilfemittel für 2018 besteht, 
 
 Ist es richtig, dass diese Unterdeckung (siehe Frage 6.) mit Mitteln aus dem Quartierfonds gedeckt werden soll? Wenn ja, in welcher Höhe jeweils pro Bereich und Projekt/Maßnahme? (Bitte die jeweilige Zuwendungssumme in absoluten Eurobeträgen den einzelnen Projekten/Maßnahmen zuordnen.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Für das kommende Jahr sind dem Unterausschuss Jugendhilfeplanung am 21. Juni 2017 verschiedene Finanzierungsszenarien vorgestellt worden. Im Übrigen ist die Jugendhilfeplanung hierzu noch nicht abgeschlossen.
 

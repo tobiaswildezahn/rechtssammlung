@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1261", "21/4903", "21/3795", "21/3658", "21/3529", "21/842", "21/3447", "20/10334", "21/5578", "19/6027"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54464"
@@ -47,7 +48,7 @@ Welche aktuellen Neubauprojekte gibt es derzeit an den Hamburger Universitäten 
 
 Welche aktuellen Sanierungsprojekte (über 100.000 Euro) gibt es derzeit an den Hamburger Universitäten und Hochschulen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Als aktuelle Neubau- und Sanierungsprojekte werden in der Anlage 1 diejenigen genannt, für die mindestens Planungsaufträge vergeben wurden. Sanierungsprojekte wurden darüber hinaus von Instandhaltungs- und einzelnen Instandsetzungsmaßnahmen im Rahmen der Bauunterhaltung abgegrenzt, die der kurzfristigen Beseitigung von akuten Schäden beziehungsweise Sicherheitsmängeln dienen. Die benannten Sanierungsprojekte umfassen mehrere beziehungsweise komplexere Instandsetzungsmaßnahmen.
 

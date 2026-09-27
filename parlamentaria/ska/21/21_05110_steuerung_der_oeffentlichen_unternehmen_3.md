@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2886", "21/3181"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53578"
@@ -85,7 +86,7 @@ Welche Überlegungen gibt es derzeit hinsichtlich einer Optimierung der Steuerun
 
 Welche Veränderungen bezüglich der vollständigen oder teilweisen Zuständigkeit der Finanzbehörde bei einzelnen öffentlichen Unternehmen sind derzeit im Einzelnen vorgesehen oder werden erwogen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Es ist geplant, eine Organisationsuntersuchung zur Beteiligungsverwaltung durchzuführen und hierbei externe Unterstützung durch ein geeignetes Beratungsunternehmen in Anspruch zu nehmen. Im Übrigen sind die Planungen und Überlegungen noch nicht abgeschlossen.
 

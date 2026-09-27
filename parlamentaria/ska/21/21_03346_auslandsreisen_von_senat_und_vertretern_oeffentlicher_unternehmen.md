@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 19
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2145", "21/2177"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51683"
@@ -72,7 +73,7 @@ Die Genehmigungsfähigkeit von Auslandsdienstreisen von Mitgliedern des Senats w
 
 Für die Vorstände und Geschäftsführer öffentlicher Unternehmen gelten jeweils eigene Vorschriften. Im Rahmen der Abfrage zur Beantwortung dieser Parlamentarischen Anfrage wurden folgende Vorschriften mitgeteilt:
 
- Universitätsklinikum  
+– Universitätsklinikum  
 Eppendorf:  
 Gesetz  
 zur  
@@ -82,37 +83,37 @@ Körperschaft
 „Universitätsklinikum Hamburg-Eppendorf“ und Delegationsverfügung der Behörde  
 für Wissenschaft, Forschung und Gleichstellung
 
- Clusteragentur Erneuerbare Energien Hamburg: Reisekostenverordnung
+– Clusteragentur Erneuerbare Energien Hamburg: Reisekostenverordnung
 
- Hamburg Verkehrsanlagen (HHVA): Reisekostenhandbuch HHVA
+– Hamburg Verkehrsanlagen (HHVA): Reisekostenhandbuch HHVA
 
- Hamburg Messe und Congress GmbH (HMC):
+– Hamburg Messe und Congress GmbH (HMC):
 
 Für Geschäftsreisen von Mitarbeiterinnen und Mitarbeitern gilt die Reiserichtlinie der HMC. Darüber hinaus gelten folgende Bestimmungen:
 
- das „Hamburgische Reisekostengesetz“ in der jeweils gültigen Fassung mit
+– das „Hamburgische Reisekostengesetz“ in der jeweils gültigen Fassung mit
 
 ergänzenden Verordnungen gemäß Tarifvertrag,
 
- die Lohnsteuerrichtlinien,
+– die Lohnsteuerrichtlinien,
 
- die Auslandsreisekostenverordnung sowie
+– die Auslandsreisekostenverordnung sowie
 
- das Bundesreisekostengesetz.
+– das Bundesreisekostengesetz.
 
- HOCHBAHN: Geschäftsanweisung des Aufsichtsrats für den Vorstand der Ham-
+– HOCHBAHN: Geschäftsanweisung des Aufsichtsrats für den Vorstand der Ham-
 
 burger Hochbahn AG vom 7. Juli 2008, §13 Abwesenheit der Vorstandsmitglieder, (2) Dienstreisen in das Ausland von mehr als zehn Tagen bedürfen der vorherigen Zustimmung des beziehungsweise der Vorsitzenden des Aufsichtsrates.
 
- Hamburger Verkehrsverbund: Geschäftsanweisung des Aufsichtsrates für die
+– Hamburger Verkehrsverbund: Geschäftsanweisung des Aufsichtsrates für die
 
 Geschäftsführung der Hamburger Verkehrsverbund GmbH
 
- Verkehrsbetriebe Hamburg-Holstein GmbH (VHH): Orientierung am Bundesreise-
+– Verkehrsbetriebe Hamburg-Holstein GmbH (VHH): Orientierung am Bundesreise-
 
 kostengesetz
 
- Hamburg Tourismus GmbH, Hamburg Marketing GmbH (HMG), Hamburg Conven-
+– Hamburg Tourismus GmbH, Hamburg Marketing GmbH (HMG), Hamburg Conven-
 
 tion Bureau, Hamburgische Gesellschaft für Wirtschaftsförderung mbH: Reisekos-
 

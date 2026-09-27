@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 24
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52376"
@@ -109,29 +110,29 @@ Welche Behandlungen werden bei den unter 1. genannten Patienten schwerpunktmäß
 
 Beispielhaft genannt wurden von den Krankenhäusern:
 
- Kinderorthopädische Behandlungen (vor allem Skoliose)
+– Kinderorthopädische Behandlungen (vor allem Skoliose)
 
- Handchirurgische Operationen an Kindern und Jugendlichen
+– Handchirurgische Operationen an Kindern und Jugendlichen
 
- Eingriffe am Fuß
+– Eingriffe am Fuß
 
- Endoprothetische Eingriffe an Hüfte, Knie und Schulter
+– Endoprothetische Eingriffe an Hüfte, Knie und Schulter
 
- Eingriffe bei Hernien
+– Eingriffe bei Hernien
 
- Orthopädische Chirurgie
+– Orthopädische Chirurgie
 
- Unfallchirurgische Eingriffe
+– Unfallchirurgische Eingriffe
 
- Septische Orthopädische Chirurgie
+– Septische Orthopädische Chirurgie
 
- Wirbelsäulenchirurgie
+– Wirbelsäulenchirurgie
 
- Urologische Operationen
+– Urologische Operationen
 
- Internistische Behandlungen
+– Internistische Behandlungen
 
- Neurologische Behandlungen
+– Neurologische Behandlungen
 
 ### Frage 5
 

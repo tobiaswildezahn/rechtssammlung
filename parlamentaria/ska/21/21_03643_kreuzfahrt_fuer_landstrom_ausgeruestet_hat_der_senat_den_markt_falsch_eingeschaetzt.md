@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 18
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1487", "20/9298", "21/3100"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52027"
@@ -108,7 +109,7 @@ Wie viele Schiffe von welcher Reederei sind bereits bis 2016 durch Umbau oder Ne
 
 Wie viele und welche Reedereien planen noch, durch Umrüstung und/ oder Neubau ihre Schiffe mit Systemen für die Versorgung mit Landstrom auszustatten?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Antwort zu 1. und Drs. 21/1487. Darüber hinaus liegen der zuständigen Behörde keine weiteren Informationen vor.
 

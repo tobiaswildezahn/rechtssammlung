@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51257"
@@ -128,7 +129,7 @@ Wie viele Dienstaufsichtsbeschwerden gab es in den Jahren 2011 bis 2015 gegen de
 
 Was waren die Folgen der jeweiligen Beschwerden? (Bitte einzeln und gesamt aufschlüsseln.)
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Dienstaufsichtsbeschwerden von Sicherungsverwahrten oder Gefangenen gegen Bedienstete werden weder statistisch erfasst noch in einem gesonderten Vorgang zusammengeführt. Die Beschwerden werden gegenüber den Gefangenen beziehungsweise Untergebrachten beschieden und in der jeweiligen Gefangenenpersonalakte abgelegt.
 

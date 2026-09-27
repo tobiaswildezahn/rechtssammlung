@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 22
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18210", "21/16765"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67876"
@@ -82,7 +83,7 @@ Im Übrigen siehe Drs. 21/18210.
 
 Wie viele Stellen sind davon besetzt? Wie viele Ausfälle wegen Krankheit gibt es, wie viele dauerhafte Beurlaubungen? Bitte unterteilen für die Abteilungen Unfallaufnahme und Verkehrsüberwachung jeweils seit Beginn 2017.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die nachfolgenden Tabellen geben einen Überblick über die insgesamt vorhandenen Stellen in den drei Verkehrsstaffeln, den Stellenbesetzungsumfang sowie die dort tatsächlich vorhandene Personalkapazität (VPK). Die VPK ergibt sich aus den zugewiesenen Stellen abzüglich der freien Stellen und des Fremdnutzungssaldos (Aufrechnung des Fremdnutzungsvorteils und des Fremdnutzungsnachteils). Hierbei sind zum Beispiel erkrankte oder beurlaubte Arbeitnehmerinnen und Arbeitnehmer, erkrankte und kurzzeitig beurlaubte Beamtinnen und Beamte sowie Sabbatical- Abwesenheiten enthalten, längerfristige Beurlaubungen ab sechs Monaten (bei Beamtinnen und Beamten) oder Abwesenheit wegen Altersteilzeit hingegen nicht. Zu krankheitsbedingten Ausfällen siehe Antwort zu 1.
 
@@ -406,7 +407,7 @@ Hat der betreffende Dienststellenleiter remonstriert?
 
 Woher nahmen/bekamen die Verkehrsstaffeln bisher das Personal für die neuen, zusätzlichen Aufgaben im Verkehrsbereich, beispielsweise für die Kontrollgruppe Autoposer, Scooter-Überprüfungen oder vermehrte Radüberwachung, Verkehrsflussoptimierung und den Dienst in den neuen Autobahntunneln et cetera?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Kontrollgruppe Autoposer ist bei der VD 3 angegliedert und die Tunnelleitzentrale (TLZ) bei der VD 2. Das hierfür erforderliche Personal wurde und wird sowohl aus den Verkehrsstaffeln als auch aus anderen Bereichen der Schutzpolizei (SP) generiert. Die Fahrradstaffel ist bereits seit Jahren fester Bestandteil des Verkehrsvollzugs der VD 2. Verkehrsflussoptimierung ist keine Sonderzuständigkeit der Verkehrsstaffeln, sondern eine grundsätzliche Aufgabe des gesamten schutzpolizeilichen Vollzugs.
 
@@ -418,7 +419,7 @@ Die Kontrollgruppe Autoposer ist bei der VD 3 angegliedert und die Tunnelleitzen
 
 Ist es richtig zu behaupten, dass das Personal bei der Hamburger Polizei seit Jahren lediglich hin- und hergeschoben wird? Wenn nein, wann wurde neues Personal auf vorhandene Stellen und auf welche gesetzt?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Vorbemerkung.
 

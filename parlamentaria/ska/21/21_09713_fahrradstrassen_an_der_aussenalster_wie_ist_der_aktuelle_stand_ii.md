@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3563"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58513"
@@ -122,7 +123,7 @@ Welche konkreten Umbauarbeiten sind nach jetzigem Stand mit der Umwandlung der o
 
 Wie lauten die jeweiligen Umbaukosten für die oben aufgeführten Straßen? (Bitte einzeln nach Straße/Straßenzug und möglichst detailliert auflisten sowie angeben, zu welchen Anteilen diese Kosten von dem getragen werden sollen.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 In den unter den Antworten zu 1. und 2. aufgeführten Straßen ist eine Instandsetzung der Fahrbahn und der Nebenflächen erforderlich. Teilweise ist eine Grundinstandsetzung des Fahrbahnaufbaus erforderlich, teils wird die Decke saniert, sodass Schlaglöcher und Flickstellen verschwinden. Dabei werden lärmmindernde Asphalte eingesetzt. Wo nötig, werden Trummen saniert. Die Nebenflächen werden ebenfalls saniert, insbesondere in der Straße Bellevue und Schöne Aussicht werden die Gehwege erneuert und Unebenheiten ausgeglichen. Die Querungen werden barrierefrei ausgestaltet. Die Straßenausstattung wird erneuert, insbesondere werden neue Fahrradabstellmöglichkeiten geschaffen.
 
@@ -138,7 +139,7 @@ Wie viele Pkw-Park- und Stellplätze gibt es in den oben aufgeführten Straßen 
 
 Wie viele Pkw-Park- und Stellplätze werden nach jetzigem Stand durch die Umwandlung der oben aufgeführten Straßen wegfallen? (Bitte einzeln nach Straße/Straßenzug aufschlüsseln.)
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Krugkoppel/Fernsicht:
 

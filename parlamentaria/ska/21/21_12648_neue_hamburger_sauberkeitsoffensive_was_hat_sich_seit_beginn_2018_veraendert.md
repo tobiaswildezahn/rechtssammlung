@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12647"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61961"
@@ -106,7 +107,7 @@ Kam es seit dem 01.01.2018 zu Beschwerden, die sich auf Verschmutzungen in öffe
 a) Wenn ja, wann wurden diese wo gemeldet und worauf bezogen sie sich konkret?
 b) Wie viele dieser Beschwerden hat es im Jahr 2017 gegeben?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 In 2017 lag die Zuständigkeit für die Reinigung öffentlichen Parks und Grünanlagen bei den jeweils zuständigen Bezirksämtern.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3709"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55072"
@@ -80,25 +81,25 @@ Hinweis zu den Daten aus der PKS:
 
 Stadtteiltabellen liegen standardmäßig nur quartalsweise vor. Gewaltdelikte werden in der PKS durch den Summenschlüssel 892000 „Gewaltkriminalität“ dargestellt. Er umfasst folgende Straftatenschlüssel oder Deliktsbereiche:
 
- Mord (PKS-Schlüssel 01****)
+– Mord (PKS-Schlüssel 01****)
 
- Totschlag und Tötung auf Verlangen (PKS-Schlüssel 0200**)
+– Totschlag und Tötung auf Verlangen (PKS-Schlüssel 0200**)
 
- Vergewaltigung/sexuelle Nötigung (PKS-Schlüssel 111***)
+– Vergewaltigung/sexuelle Nötigung (PKS-Schlüssel 111***)
 
- Raub, räuberische Erpressung und räuberischer Angriff auf Kraftfahrer (PKS-
+– Raub, räuberische Erpressung und räuberischer Angriff auf Kraftfahrer (PKS-
 
 Schlüssel 21****)
 
- Körperverletzung mit Todesfolge (PKS-Schlüssel 2210**)
+– Körperverletzung mit Todesfolge (PKS-Schlüssel 2210**)
 
- Gefährliche und schwere Körperverletzung (PKS-Schlüssel 222***)
+– Gefährliche und schwere Körperverletzung (PKS-Schlüssel 222***)
 
- Erpresserischer Menschenraub (PKS-Schlüssel 233***)
+– Erpresserischer Menschenraub (PKS-Schlüssel 233***)
 
- Geiselnahme (PKS-Schlüssel 234***)
+– Geiselnahme (PKS-Schlüssel 234***)
 
- Angriff auf den Luft- und Seeverkehr (PKS-Schlüssel 235000).
+– Angriff auf den Luft- und Seeverkehr (PKS-Schlüssel 235000).
 
 Zu den Daten der Justiz siehe Antwort zu 7.
 

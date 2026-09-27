@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16948", "21/12841", "21/12589", "21/16800", "21/16862"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66608"
@@ -69,6 +70,6 @@ Wie viele von den 248 Schülerinnen und Schülern mit § 12 LSE sind an den in D
 
 Wie viele Schülerinnen und Schüler mit § 12 LSE, die ihren Erstwunsch an diesen elf Schulen des Bezirks Mitte nicht erhielten, wurden in andere Bezirke verteilt? Bitte die jeweils aufnehmende Schule mit der Anzahl der ihnen aus dem Bezirk Mitte zugewiesenen Schülerinnen und Schülern mit § 12 LSE benennen und die aufnehmenden Schulen nach Bezirken sortieren.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für die Beantwortung dieser Fragen müssten die Schülermerkmale LSE, Erstwunsch, aufnehmende Schule und Bezirk kombiniert und so einzelfallbasiert aus der Gesamtmenge der 14 358 Schülerinnen und Schüler, die sich für die zukünftigen fünften Klassen angemeldet haben, händisch ausgewertet werden, da es für diese Datenkombination keine programmierte Berichtsfunktion in DiViS gibt, siehe auch Vorbemerkung. Diese händische Auswertung ist im zeitlichen Rahmen einer Schriftlichen Kleinen Anfrage nicht möglich.

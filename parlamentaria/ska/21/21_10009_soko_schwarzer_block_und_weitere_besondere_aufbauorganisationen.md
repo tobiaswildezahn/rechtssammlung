@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6667"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58826"
@@ -47,7 +48,7 @@ Wie viele Beamte jeweils welcher Dienststellen/Organisationseinheiten gehören d
 
 Welche Unterstützung erhält die SoKo Schwarzer Block von anderen Behörden wie beispielsweise dem BKA?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Sonderkommission (SoKo) „Schwarzer Block“ besteht derzeit aus 174 Mitarbeitern.
 

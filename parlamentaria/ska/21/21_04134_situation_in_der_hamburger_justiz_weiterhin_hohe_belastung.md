@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1979"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52519"
@@ -63,7 +64,7 @@ Die Veränderung in der Komplexität der Verfahren ist ein Schwerpunkt bei der B
 
 Welche Ziele verfolgt der Senat, um die Gerichte und Staatsanwaltschaft langfristig zu unterstützen beziehungsweise zu deren Entlastung beizutragen? Hat der Senat seine Ziele erreicht? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die grundlegenden Ziele und Kennzahlen der Gerichte und Staatsanwaltschaften sind im Haushaltsplan 2015/2016 im Einzelnen benannt. Über die Zielerreichung wird mit der Vorlage der Quartalsberichte, des Halbjahresberichts sowie der Haushaltsrechnung informiert. Im Fall einer erheblichen Abweichung von den Planwerten erfolgt dort eine entsprechende Erläuterung, gegebenenfalls werden die Kennzahlen auch unterjährig angepasst. Über die Fortentwicklung der Kennzahlen für die Gerichte und Staatsanwaltschaften sowie die Entwicklung der Belastungssituation wird der Senat im Zuge der Aufstellung des Haushaltsplan-Entwurfs 2017/2018 berichten.
 
@@ -91,7 +92,7 @@ Wie hoch sind die Fallzahlen bezogen auf Eingänge und Erledigungen bei den Amts
 
 Wie lange dauern durchschnittlich Verfahren bei den Amtsgerichten, dem Landgericht, dem Hanseatischen Oberlandesgericht, dem Arbeitsgericht, dem Landesarbeitsgericht, dem Sozialgericht und dem Landessozialgericht (bitte nach Verfahrensarten für die Jahre 2011 bis April 2016 und nach Gerichten darstellen)?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Anlage 1.
 

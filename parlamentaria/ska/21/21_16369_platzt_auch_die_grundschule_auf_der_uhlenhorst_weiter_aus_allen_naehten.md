@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16131", "21/14686", "21/14058", "20/3705", "20/7676", "20/11503", "21/3866", "21/8541", "21/12589", "21/14610", "21/10125", "21/5652", "21/1328", "20/12569", "21/9828", "21/8929"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65883"
@@ -69,7 +70,7 @@ Im Schuljahr 2018/2019 wurden die Container an der Schule auf der Uhlenhorst abg
 
 Wie viele erste Klassen plant der Senat angesichts der Anmeldezahl von 103 Kindern (laut Erstwunsch) an der Grundschule auf der Uhlenhorst ab Sommer einzurichten? Ist gegebenenfalls geplant, auf den Zweitoder Drittwunsch der Eltern auszuweichen, um die Grundschule auf der Uhlenhorst zu entlasten?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Das Organisationsverfahren ist noch nicht abgeschlossen. Zum weiteren Zeitplan siehe Drs. 21/16131. Im Übrigen war es der ausdrückliche Wunsch der Schule, die mobilen Klassenräume im Schuljahr 2018/2019 vorzeitig abzubauen, um die freiwerdende Fläche neu gestalten zu können.
 

@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 27
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1909"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58497"
@@ -33,43 +34,43 @@ In Hamburg sind zehn Überschwemmungsgebiete vorläufig gesichert. Sie sollen du
 
 ## Einleitung für die Antworten des Senats
 
- Ziel der BI ist die Verhinderung eines Wasserübertritts auf bebaute Flä-
+– Ziel der BI ist die Verhinderung eines Wasserübertritts auf bebaute Flä-
 
 chen beim 100-jährlichen Hochwasser
 
- Die Hochwasserwelle soll nicht an die Unterlieger weitergegeben werden,
+– Die Hochwasserwelle soll nicht an die Unterlieger weitergegeben werden,
 
 sondern es werden Rückhaltemaßnahmen für sinnvoller angesehen zur Verringerung der Überflutungsgefahr in den besiedelten Flächen entlang der Berner Au
 
- Reduzierung der Hochwasserspitzen im Unterlauf und in den Folgege-
+– Reduzierung der Hochwasserspitzen im Unterlauf und in den Folgege-
 
 wässern Wandse und Alster
 
- Reduzierung des hydraulischen Stresses der Berner Au durch gleichmä-
+– Reduzierung des hydraulischen Stresses der Berner Au durch gleichmä-
 
 ßigeren Abfluss und dadurch Verbesserung der Gewässerqualität
 
- Erhalt von unbebauten Retentionsflächen für die Regenabwässer aus der
+– Erhalt von unbebauten Retentionsflächen für die Regenabwässer aus der
 
 wachsenden Bebauung mit Versiegelung (Stadtentwicklung/wachsende Stadt)
 
- Schaffung von zusätzlichen Retentionsflächen auf städtischen Grundstü-
+– Schaffung von zusätzlichen Retentionsflächen auf städtischen Grundstü-
 
 cken um bestehende Hochwasser-Rückhaltebecken
 
 Auf städtischen Flächen:
 
- Eine Umsetzung der DIN 19700 für die Hochwasserrückhaltebecken
+– Eine Umsetzung der DIN 19700 für die Hochwasserrückhaltebecken
 
- Die Einbeziehung aller vorhandenen Infrastruktur (zum Beispiel Sammler
+– Die Einbeziehung aller vorhandenen Infrastruktur (zum Beispiel Sammler
 
 Ost) in dieses Konzept
 
- Vorhandene mögliche Retentionsflächen im Naherholungsgebiet rund um
+– Vorhandene mögliche Retentionsflächen im Naherholungsgebiet rund um
 
 den Oberlauf und bis zum HRB Sasel festlegen und so herrichten, dass sie als Überlauf der HRB funktionieren
 
- Mit anschließender Rücknahme der Festsetzung der ÜSG auf bewohnten
+– Mit anschließender Rücknahme der Festsetzung der ÜSG auf bewohnten
 
 Grundstücken und Schutz der Anwohner/-innen vor den gesammelten Abwässern aus anderen Stadtteilen
 
@@ -97,7 +98,7 @@ Welche Ergebnisse dieser Runden Tische liegen bislang vor?
 
 Wurden dabei bereits die Vorschläge der Bürgerinitiative berücksichtigt? Wenn ja, welche?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Runde Tisch hat bisher zweimal getagt. Er hat zu einem besseren Austausch und Verständnis der gegenseitigen Positionen, Fragestellungen und Konzepte beigetragen, ohne dass bisher bereits konkrete Ergebnisse in Planungen eingeflossen sind.
 
@@ -167,7 +168,7 @@ Welche Hochwasserschutz-Maßnahmen wurden vonseiten der Behörden erarbeitet?
 
 Wurden diese zwischen dem Bezirksamt, der BUE, HAMBURG WASSER und dem LSBG abgestimmt und mit welchem Ergebnis?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Antworten zu 1. und 4.
 
@@ -187,7 +188,7 @@ Welcher Etat wurde zur Sanierung und Erneuerung des Kanalnetzes, also zur Herste
 
 Wie unterscheidet sich dieser Anteil am Etat von HAMBURG WASSER in den Jahren unmittelbar vor der vorläufigen Festsetzung und Ausweisungen der ÜSG? Also 2011, 2012, 2013.
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Das Regenwasser im Bereich Berner Au wird über Regensiele abgeführt, die nach den Regeln der Technik bemessen sind. Eine Erweiterung dieses Systems ist nicht vorgesehen Bei künftigem Bedarf würde eine zustandsbedingte Sanierung erfolgen.
 
@@ -243,7 +244,7 @@ In welcher Weise ist die BUE den aufgezeigten Widersprüchen nachgegangen?
 
 Wie lautet die Stellungnahme der BUE zu den aufgezeigten Widersprüchen?
 
-#### Antwort zu Fragen 21 bis 22
+#### Antwort zu Fragen 21 und 22
 
 Der dargestellte Sachverhalt wird derzeit durch den LSBG geprüft.
 

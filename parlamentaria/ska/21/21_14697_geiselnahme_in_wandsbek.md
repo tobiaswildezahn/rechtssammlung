@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64170"
@@ -68,7 +69,7 @@ Ist der Geiselnehmer in der Vergangenheit bereits strafrechtlich in Erscheinung 
 
 Hat der Geiselnehmer in der Vergangenheit bereits eine Haftstrafe verbüßt? Falls ja, wenn beziehungsweise weswegen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Im Hinblick auf das Persönlichkeitsrecht des Betroffenen und die gesetzlichen Wertungen des Bundeszentralregistergesetzes sieht der Senat davon ab, etwaige Ermittlungsverfahren mitzuteilen, die durch einen Freispruch oder eine Einstellung beendet
 
@@ -98,6 +99,6 @@ Was ist nach dem Ende der Geiselnahme mit dem Tatverdächtigen geschehen und wo 
 
 Welche Staatsangehörigkeit hat der Geiselnehmer?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Antwort zu 4.

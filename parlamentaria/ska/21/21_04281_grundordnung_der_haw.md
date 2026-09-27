@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52676"
@@ -43,7 +44,7 @@ Hat die HAW in den letzten Monaten eine neue Grundordnung verabschiedet oder die
 
 Wollte die HAW mit der Neufassung beziehungsweise Änderung der Grundordnung von den Vorgaben der §§ 79 – 85 HmbHG abweichen? Wenn ja: Inwiefern wollte sie davon abweichen? Ging es unter anderem um den Verzicht auf die Einrichtung von Departments und die Frauenquote?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Hochschulsenat der Hochschule für Angewandte Wissenschaften Hamburg (HAW) hat am 12.11.2015 eine neue Grundordnung beschlossen, die vom Hochschulrat der HAW am 14.01.2016 genehmigt wurde.
 

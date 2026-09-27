@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 29
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61115"
@@ -97,7 +98,7 @@ Entwicklung der Einstellungszahlen im Jahresvergleich: Wie viele Anwärterinnen 
 
 Wie viele Anwärterinnen und Anwärter (LA I und LA II) sollen sich nach der aktuellen Einstellungsplanung am 1. Februar 2019 und 2020 in der Ausbildung an der Akademie der Polizei befinden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Statistische Daten zur Anzahl der Studierenden (LA II) liegen der Akademie der Polizei (AK) erst ab dem Gründungsjahr 2014 vor; zu den erfragten Daten siehe folgende Tabelle (Stichtag jeweils 1. Februar):
 
@@ -216,15 +217,15 @@ Die AK überprüft ihre Fortbildungsveranstaltungen regelmäßig im Hinblick auf
 
 Für die Beantwortung im Sinne der Fragestellungen erfolgte eine manuelle Durchsicht von bei der AK vorhandenen Unterlagen/Vorgängen des erfragten Zeitraums. Im Rahmen der zur Verfügung stehenden Zeit konnten die nachfolgend aufgeführten Anpassungen ermittelt werden; die Angaben erheben keinen Anspruch auf Vollständigkeit:
 
- Der Lehrgang für Praxisanleiter wurde aufgrund geänderter Rahmen- und Prü-
+– Der Lehrgang für Praxisanleiter wurde aufgrund geänderter Rahmen- und Prü-
 
 fungsbedingungen für das Praktikum im LA II mit Wirkung vom 10. Oktober 2016 auf einen Tag mit acht Unterrichtseinheiten je 45 Minuten gekürzt.
 
- Für die durch die Prüfungen im Praktikum des LA II betroffenen Sachgebiets- und
+– Für die durch die Prüfungen im Praktikum des LA II betroffenen Sachgebiets- und
 
 Dienstgruppenleiter findet eine gesonderte Einweisung durch die AK 2 Sachgebiet Praxiskoordination statt.
 
- Im Februar 2017 wurden
+– Im Februar 2017 wurden
 
 o der Lehrgang „Polizeiliche Auskunftssysteme“ von vier auf drei Tage,
 
@@ -240,19 +241,19 @@ Vollzug zum Beispiel in ComVor) von drei auf zwei Tage
 
 gekürzt.
 
- Ab Februar 2017 wurde der Kraftfahrtechnische Grundlehrgang von acht auf vier
+– Ab Februar 2017 wurde der Kraftfahrtechnische Grundlehrgang von acht auf vier
 
 Tage gekürzt und auf die Lehrinhalte beschränkt, die zwingend durch die Fahrschule zu unterrichten sind. Weitere wichtige Lehrinhalte wurden im Rahmen der Ausbildungsgänge auf andere Dienststellen verlagert. Hierzu zählen theoretische Inhalte, die durch die Fachlehrer vermittelt werden, sowie der Erwerb bloßer Fahrpraxis/Fahrroutine, die im Praktikum erreicht werden soll.
 
 Die Anpassungen erfolgten, um das erforderliche Wissen trotz begrenzter Ressourcen und deutlich aufwachsender Zahl an Lehr-/Studiengruppen weiterhin vermitteln zu können.
 
- Fortbildungsmaßnahmen zum Themenkomplex „Interkulturelle Kompetenz“ gibt es
+– Fortbildungsmaßnahmen zum Themenkomplex „Interkulturelle Kompetenz“ gibt es
 
 in Hamburg seit 1995; im Jahr 2014 wurde der Lehrgang von fünf auf zwei Tage gekürzt. Eine inhaltliche Überarbeitung und Konzentration auf das Wesentliche erfolgte in Zusammenarbeit mit der Universität Hamburg.
 
 Nach Gründung des Instituts für Transkulturelle Kompetenz (ITK) an der AK Anfang 2016 wurden die Lehrgänge an der Universität Hamburg eingestellt. Das ITK bietet ein breitgefächertes Programm für die Aus- und Fortbildung an.
 
- Für 2018 sind die Lehrgänge für
+– Für 2018 sind die Lehrgänge für
 
 o Einsatzkommunikationsteams sowie
 
@@ -260,7 +261,7 @@ o „Straßenverkehrsbehördliche Angelegenheiten“
 
 im Rahmen der ständigen Effizienzüberprüfung jeweils von sieben auf fünf Tage gekürzt.
 
- Ausgesetzt wurden die Lehrgänge
+– Ausgesetzt wurden die Lehrgänge
 
 o „Umgang mit Stress“ (letzter Lehrgangstermin: April 2017),
 
@@ -429,17 +430,17 @@ Inwieweit werden Mitarbeiter der Polizeiakademie (Fachlehrer, Dozenten, Trainer 
 
 Unter Anleitung der AK, Sachgebiet Schießaus- und Fortbildung/Polizeitraining (AK 23), wurden/werden Räume und Schießstände im PTZ im Sinne der Fragestellung wie folgt genutzt:
 
- Im Jahr 2015 nutzten Waffenträger der Bundesbankfiliale Hamburg unregelmäßig
+– Im Jahr 2015 nutzten Waffenträger der Bundesbankfiliale Hamburg unregelmäßig
 
 eine Raumschießanlage (RSA) mit eigenem Personal.
 
- Die Justizbehörde nutzt eine RSA zwei- bis dreimal wöchentlich für circa zwei
+– Die Justizbehörde nutzt eine RSA zwei- bis dreimal wöchentlich für circa zwei
 
 Stunden mit eigenem Ausbildungspersonal.
 
- Bei Bedarf bildet AK 23 Schießübungsleiter für die Hamburger Justizbehörde aus.
+– Bei Bedarf bildet AK 23 Schießübungsleiter für die Hamburger Justizbehörde aus.
 
- Die AK und die Northern Business School (NBS) haben einen Kooperationsvertrag
+– Die AK und die Northern Business School (NBS) haben einen Kooperationsvertrag
 
 für die Ausbildung von Studenten des Studiengangs Sicherheitsmanagement geschlossen. Im Jahr 2017 fand eine Beschulung von 20 Studierenden der NBS an insgesamt 24 Tagen außerhalb der allgemeinen Geschäftszeit statt. Auch für 2018 ist eine Beschulung von Studierenden geplant.
 
@@ -453,15 +454,15 @@ Wie viele Bereiche der Akademie in der Aus- und Fortbildung (zum Beispiel ETR-Tr
 
 Räumlichkeiten im Sinne der Fragestellung stehen fünf Bereichen der AK zur Verfügung:
 
- AK 25 (IT-Aus- und Fortbildung),
+– AK 25 (IT-Aus- und Fortbildung),
 
- AK 26 (Kraftfahrwesen),
+– AK 26 (Kraftfahrwesen),
 
- AK 27 (Umwelt),
+– AK 27 (Umwelt),
 
- AK 34 (Allgemeine fachliche Fortbildung),
+– AK 34 (Allgemeine fachliche Fortbildung),
 
- AK 4 (Fachhochschulbereich; ein Vernehmungsraum).
+– AK 4 (Fachhochschulbereich; ein Vernehmungsraum).
 
 Zwei den Kommunikationstrainern (AK 24) zugewiesene Räume im HSG I wurden im Sommer 2017 für den allgemeinen Lehrbetrieb genutzt. Aus den beiden Seminarräumen wurden zum 1. Oktober 2017 durch Umbau drei Hörsäle. Die AK 24 nutzt aktuell wechselnd Räume im HSG I und HSG II. Neue, fest zugewiesene Räume sind zum September 2018 geplant.
 

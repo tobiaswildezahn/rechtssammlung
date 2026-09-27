@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 17
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9845"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60808"
@@ -93,7 +94,7 @@ Auf welcher Rechtsgrundlage blockiert die Polizei Hamburg einzelne Twitter-Accou
 
 Wie stellt die Polizei Hamburg sicher, dass die Folge für die betroffenen User/-innen nicht ist, dass sie Tweets der Polizei nicht mehr lesen können?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Ein Twitter-Account wird blockiert, wenn der Nutzer einen schwerwiegenden Verstoß gegen die Vorgaben der Netiquette begangen hat.
 

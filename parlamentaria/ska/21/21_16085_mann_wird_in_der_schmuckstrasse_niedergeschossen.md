@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 26
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65591"
@@ -53,7 +54,7 @@ Wann haben Polizei und Rettungsdienst einen Notruf erhalten?
 
 Wer hat den Notruf abgesetzt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Polizeieinsatz wurde durch vor Ort befindliche Einsatzkräfte der Landesbereitschaftspolizei (LBP) ausgelöst, welche sich im Rahmen des Sicherheitskonzeptes Polizeikommissariat 15 am 3. Februar 2019 um 5.10 Uhr an der Örtlichkeit Große Freiheit/Schmuckstraße aufhielten.
 
@@ -125,7 +126,7 @@ Wie sind die Opfer ins Krankenhaus verbracht worden?
 
 Erfolgte eine Operation? Falls ja, welche?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Beide Geschädigten wurden durch Rettungskräfte verschiedenen Krankenhäusern zugeführt. Unmittelbar nach deren Eintreffen wurde die medizinische Behandlung eingeleitet. Art und Umfang dieser Behandlung unterliegen der ärztlichen Schweigepflicht.
 
@@ -161,7 +162,7 @@ Medienberichten zufolge sollen die Tatverdächtigen polizeibekannt und in der Ve
 
 Hat es in diesem Zusammenhang bereits Verurteilungen gegeben? Falls ja, wann, und wie sahen diese aus?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Eine Person ist bisher mit je einem Körperverletzungs-, Gewalt- und Eigentumsdelikt kriminalpolizeilich in Erscheinung getreten.
 

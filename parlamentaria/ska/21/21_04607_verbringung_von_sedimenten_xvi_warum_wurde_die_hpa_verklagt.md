@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2574"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53014"
@@ -71,7 +72,7 @@ Hat die „Übergangsregelung zum Handlungskonzept Umlagerung von Baggergut aus 
 
 Gab es bezüglich der Fragestellung zur Rechtsverbindlichkeit unterschiedliche Auffassungen zwischen den einzelnen Behörden? a. Wenn ja, welche rechtlichen Einschätzungen hat jeweils welche Behörde zu welchem Zeitpunkt vorgenommen bezüglich dieser Fragestellung? b. Wenn nein, warum hat der Senat nicht nach Artikel 31 WHG die vorübergehende Verschlechterung des Zustandes der Elbe in Kauf genommen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nein. Es gab keine unterschiedlichen Auffassungen zwischen den einzelnen Behörden. Im Übrigen siehe Antwort zu 3.
 

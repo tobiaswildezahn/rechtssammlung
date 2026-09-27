@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53508"
@@ -59,7 +60,7 @@ Inwiefern hat der Senat beziehungsweise das zuständige Bezirksamt über die Ham
 
 Welche Ergebnisse haben sich aus diesen Gesprächen ergeben? Wie hoch ist dieser Marketingwert?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Dies ist unterblieben, da der Marketingwert für die Berechnung der Gebühren nicht relevant ist. Im Übrigen siehe Antwort zu 2.
 
@@ -87,6 +88,6 @@ Gab es in jüngster Zeit Vereinbarungen, Briefwechsel oder eine Erklärung zum E
 
 Inwieweit engagiert sich der Bürgermeister für den Erhalt des traditionellen Stuttgarter Weindorfs in Hamburg?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Es gibt einen Brief des Oberbürgermeisters der Landeshauptstadt Stuttgart, in dem die Hoffnung auf eine konstruktive Lösung ausdrückt wird. Der Erste Bürgermeister begrüßt vor diesem Hintergrund die Gespräche, die zwischen den Veranstaltern des Stuttgarter Weindorfs und der Leitung des Bezirksamts Hamburg-Mitte hierzu gegenwärtig geführt werden.

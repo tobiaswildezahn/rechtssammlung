@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5043", "21/8117", "21/12272"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65341"
@@ -51,7 +52,7 @@ Wie viele Fälle sind dem Senat seit Februar 2017 bekannt, bei denen Schülern G
 
 Wie viele Fälle sind dem Senat seit Februar 2017 bekannt, bei denen die Anfrage von Schülern nach Gebetsräumen zurückgewiesen wurde? Bitte einzeln anhand des Standorts sowie – falls möglich – der religiösen Konfession aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der in Drs. 21/8117 und Drs. 21/5043 geschilderte Sachstand gilt unverändert.
 
@@ -63,7 +64,7 @@ Wird das vom Landesinstitut für Lehrerbildung und Schulentwicklung definierte R
 
 Inwiefern haben sich die Empfehlungen des Reglements bis heute als verbindlich erwiesen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Sowohl die positive als auch die negative Bekenntnisfreiheit der Schülerinnen und Schüler folgen unmittelbar aus der Verfassung und stehen nicht zur Disposition („Reglement“) der für Bildung zuständigen Behörde. Diese Freiheitsrechte sind in praktische Konkordanz mit den Erfordernissen des Schulwesens zu bringen. Die entsprechende Handreichung „Vielfalt in der Schule“ fasst die vorliegende Rechtsprechung zum Gebet in der Schule für die Schulen zusammen. Im Übrigen siehe Drs. 21/8117.
 
@@ -99,7 +100,7 @@ Welche Maßnahmen haben Hamburger Schulleitungen zur Umsetzung des vom des Lande
 
 Sind dabei seitens der Schulen womöglich Bedenken geäußert worden? Falls ja, welche?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Über die Broschüre „Vielfalt in der Schulen“ wird regelmäßig informiert. Zuletzt auf einer bezirklichen Schulleiterdienstbesprechung in Harburg zum Ende des Schuljahres 2017/2018. Bedenken gegen die Umsetzung wurden weder in diesem Zusammenhang noch im Einzelfall im Rahmen der Kontakte zwischen Schulaufsicht und Schulleitungen geäußert.
 

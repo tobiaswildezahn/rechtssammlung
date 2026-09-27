@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 14
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/12653", "21/9562", "21/8094", "21/9862"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60267"
@@ -110,7 +111,7 @@ Wurde die Überwachung der „Flugverbotszone“ auf Grundlage von Amtshilfegesu
 
 Von wem wurde die Überwachung der „Flugverbotszone übernommen? (Bitte angeben: eingesetztes Bundeswehrpersonal oder -material sowie Einheiten.)
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung.
 
@@ -200,7 +201,7 @@ In welchem Umfang und von wem wurden Waffentrageerlaubnisse für Angehörige aus
 
 Inwiefern durften und haben Angehörige ausländischer Delegationen beziehungsweise von ausländischem Sicherheitspersonal auch ohne eigens beantragte Waffentrageerlaubnisse Waffen (ge)tragen (bitte gegebenenfalls die Delegationen beziehungsweise die jeweiligen Sicherheitsorgane vollständig benennen)?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Drs. 21/8094.
 

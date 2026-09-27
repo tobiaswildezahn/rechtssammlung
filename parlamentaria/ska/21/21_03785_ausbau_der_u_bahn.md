@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52183"
@@ -51,7 +52,7 @@ Wenn ja: Was ist dafür nötig, wie viel kostet das und wie lange dauert
 das?  
 Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bei einem konventionellen Signalsystem ist die Strecke in feste, signalgesicherte Abschnitte (sogenannte Blöcke) eingeteilt. Die Signalisierung stellt sicher, dass sich in jedem Block nicht mehr als ein Zug befindet. Bei einem automatisierten Betrieb erfolgt die Blockaufteilung dynamisch, in Abhängigkeit von den Positionen und aktuellen Geschwindigkeiten der Züge. Hierdurch sind deutlich dichtere Takte möglich.
 
@@ -91,7 +92,7 @@ Welche Bundesmittel stehen in den nächsten zehn Jahren für Hamburger Nahverkeh
 
 Die Finanzierung welcher Hamburger Nahverkehrsprojekte soll bereits jetzt durch diese „Töpfe“ erfolgen? Bitte das jeweilige Projekt und die Summe benennen, die aus den „Töpfen“ bezahlt werden soll.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Relevant für Hamburger Investitionsprojekte im öffentlichen Personennahverkehr sind Bundesmittel nach dem Entflechtungsgesetz, dem Gemeindeverkehrsfinanzierungsgesetz (GVFG-Bundesprogramm) und dem Regionalisierungsgesetz.
 

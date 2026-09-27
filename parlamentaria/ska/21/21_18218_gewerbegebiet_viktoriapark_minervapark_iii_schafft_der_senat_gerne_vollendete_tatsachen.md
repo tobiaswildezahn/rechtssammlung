@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17808", "21/11168", "21/7201", "21/6550", "21/6376"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67847"
@@ -49,7 +50,7 @@ Auf welchem Stand befindet sich das Bebauungsplan- beziehungsweise Planfeststell
 
 Warum wurde der Bebauungsplan beziehungsweise das Planfeststellungsverfahren, wie jüngst in den Hamburger Medien dargestellt, bereits Ende 2018 beschlossen/festgestellt, jedoch noch nicht veröffentlicht, obwohl bereits im Februar 2019 die Vorgenehmigungsreife erreicht wurde?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/17808. Ein aktuellerer Sachstand liegt nicht vor.
 

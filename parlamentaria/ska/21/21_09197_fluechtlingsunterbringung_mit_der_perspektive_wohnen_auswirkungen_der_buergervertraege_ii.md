@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9112", "21/8872"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57945"
@@ -53,7 +54,7 @@ Bei welchen der unter 1. genannten Standorte sind die Gespräche inzwischen erfo
 
 Welche Regelungen wurden jeweils getroffen und wurden diese inzwischen vertraglich vereinbart? Bitte Datum des Vertragsabschlusses nennen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Gespräche sind für beide Standorte noch nicht abgeschlossen.
 

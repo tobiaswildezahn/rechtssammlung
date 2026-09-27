@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60419"
@@ -51,19 +52,19 @@ Gemäß der geltenden Haus- und Benutzerordnung führt f & w Begehungen in angem
 
 Diese Begehungen können aus folgenden Gründen erfolgen:
 
- Aufrechterhaltung des ordnungsgemäßen Unterbringungsstandards,
+– Aufrechterhaltung des ordnungsgemäßen Unterbringungsstandards,
 
- Durchführung von Aufenthalts- und Belegungskontrollen,
+– Durchführung von Aufenthalts- und Belegungskontrollen,
 
- Schlichtung von Streitigkeiten zwischen Familien beziehungsweise Einzelperso-
+– Schlichtung von Streitigkeiten zwischen Familien beziehungsweise Einzelperso-
 
 nen,
 
- Sicherstellen der Verkehrssicherheit,
+– Sicherstellen der Verkehrssicherheit,
 
- Maßnahmen zur fachgerechten Bekämpfung von Schädlingen und Ungeziefer,
+– Maßnahmen zur fachgerechten Bekämpfung von Schädlingen und Ungeziefer,
 
- Maßnahmen zur Gewährleistung der Unterkunftshygiene.
+– Maßnahmen zur Gewährleistung der Unterkunftshygiene.
 
 Zur Abwendung von Gefahren können die Bewohnerräume ohne Ankündigung – auch bei Abwesenheit des Bewohners – jederzeit betreten werden. Die Vorgehensweise bei Unterkunftsbegehungen, die auch eine Begehung der privaten Bereiche der Bewohner einschließen, wird unter größtmöglicher Rücksichtnahme auf die Privatsphäre der Bewohner durchgeführt.
 

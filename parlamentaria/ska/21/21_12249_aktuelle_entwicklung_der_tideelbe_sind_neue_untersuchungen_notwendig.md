@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61526"
@@ -95,6 +96,6 @@ Welche Risiken erkennt der Senat für den Fall, dass die BAW-Prognose von 2006 e
 
 Die Planungsbehörden der Stadt Hamburg und des Bundes mussten auf dem Verhandlungstermin vor dem Bundesverwaltungsgericht am 16. November 2017 zugeben, dass die Lage der geplanten Unterwasserablagerungsstätte (UWA) Medemrinne-Ost deutlich angepasst werden muss. Welche Auswirkung hat dies auf die bisherige Aussage, dass es zu keiner Rinnenbildung kommen wird und die geplante UWA stabil ihre tidedämpfende Wirkung entfaltet? Liegen der aktuellen Einschätzung des Senats neue Untersuchungen zugrunde? Wenn ja, bitte angeben, um welche es sich dabei handelt.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die dem BVerwG dargelegte Lageveränderung der UWA Medemrinne-Ost führt zu keiner Veränderung der hydromorphologischen Auswirkungsprognose der BAW. Eine Einschränkung der Stabilität der UWA und damit ihrer tidedämpfenden Wirkung ist damit also nicht verbunden. Entsprechende Beanstandungen der gegen die Fahrrinnenanpassung klagenden Städte Cuxhaven und Otterndorf sowie der ebenfalls klagenden Elbfischer hat das BVerwG auf der Grundlage der mündlichen Verhandlung am 16./17. November 2017 deshalb zurückgewiesen. Im Übrigen hat sich der Senat hiermit nicht befasst.

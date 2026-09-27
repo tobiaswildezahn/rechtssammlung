@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63652"
@@ -66,7 +67,7 @@ Wie stellt der Senat sicher, dass keine verfassungsfeindlichen Veranstaltungen i
 
 Wie passt eine friedliche Nutzung der Gebäude zur Durchführung von Blockadetrainings?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nach den Erkenntnissen der Polizei handelt es sich bei sogenannten Blockadetrainings um Informationsveranstaltungen, bei denen zum Beispiel allgemeine Rechtshilferatschläge für Demonstrationen, unter anderem zum Verhalten bei Blockaden, gegeben werden. Inwieweit dort tatsächlich Blockaden „geübt“ werden, ist nicht bekannt.
 

@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15757"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69444"
@@ -47,7 +48,7 @@ Wie viele sozialversicherungspflichtige Arbeitsplätze bestanden bei Unternehmen
 
 Wie viele sozialversicherungspflichtige Arbeitsplätze bestanden bei Unternehmen des Bankwesens in Hamburg jährlich in den Jahren 2018 und 2019? Bitte nach Wirtschaftszweigen (WZ 2008 des Statistischen Bundesamts) einzeln aufschlüsseln für Unternehmen mit einem bis zehn, elf bis 50, 51 bis 250 und mehr als 251 Arbeitnehmern in Hamburg.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 

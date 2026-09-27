@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7484", "21/6672", "21/7457"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56312"
@@ -52,11 +53,20 @@ Die Kulturbehörde wurde von der HÖB am 27. Oktober 2016 über die Option einer
 ### Frage 2
 
 In der Drs. 21/6672 wurden mehrere Kriterien angeführt, die bei der Entscheidung über die Anmietung von HÖB-Standorten maßgeblich sind.
-2.1. Inwiefern unterscheiden sich der derzeitige Standort und der in Drs. 21/7457 erwähnte Alternativstandort nach den maßgeblichen wirtschaftlichen Kriterien?
-2.2. Wie unterscheidet sich die Erreichbarkeit der beiden Standorte mit dem ÖPNV? Wie groß ist jeweils der Abstand zum U-Bahnhof Volksdorf?
-2.3. Anhand welcher Faktoren wird die „Sichtbarkeit im Stadtteil“ jeweils durch wen beurteilt?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Inwiefern unterscheiden sich der derzeitige Standort und der in Drs. 21/7457 erwähnte Alternativstandort nach den maßgeblichen wirtschaftlichen Kriterien?
+
+### Frage 2.2
+
+Wie unterscheidet sich die Erreichbarkeit der beiden Standorte mit dem ÖPNV? Wie groß ist jeweils der Abstand zum U-Bahnhof Volksdorf?
+
+### Frage 2.3
+
+Anhand welcher Faktoren wird die „Sichtbarkeit im Stadtteil“ jeweils durch wen beurteilt?
+
+#### Antwort zu Fragen 2, 2.1, 2.2 und 2.3
 
 Die Beurteilung des Kriteriums Sichtbarkeit im Stadtteil obliegt der selbständigen Stiftung HÖB und wird vom Vorstand mit Unterstützung ihrer Fachabteilungen vorgenommen. Im Übrigen sind die Planungen noch nicht abgeschlossen.
 

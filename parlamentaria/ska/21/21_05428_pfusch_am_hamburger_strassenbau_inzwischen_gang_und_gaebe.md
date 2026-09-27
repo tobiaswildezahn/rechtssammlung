@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53913"
@@ -53,7 +54,7 @@ Welche Arbeiten wurden wann genau im Ohlendieck durchgeführt?
 
 Wieso wurde nicht der gesamte Ohlendieck ausgebessert, sondern nur eine Hälfte?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -73,7 +74,7 @@ Ist der Senat beziehungsweise die zuständige Behörde mit dem Ergebnis und dem 
 
 Wann wurden die abgeschlossenen Bauarbeiten im Ohlendieck von der Stadt beziehungsweise der zuständigen Fachbehörde abgenommen? Zu welchem Ergebnis ist man gekommen? Bitte das Abnahmeprotokoll hinzufügen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Straße befindet sich in einem verkehrssicheren Zustand. Die Abnahme der Arbeiten durch den Auftraggeber HAMBURG WASSER ist erfolgt. Die Übernahme der Wiederherstellung wurde durch das zuständige Bezirksamt am 3. August 2016 vollzogen. Es haben sich keine Beanstandungen ergeben.
 

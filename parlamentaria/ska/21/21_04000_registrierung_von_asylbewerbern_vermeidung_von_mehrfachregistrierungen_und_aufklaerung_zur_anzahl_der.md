@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52387"
@@ -33,15 +34,15 @@ Seit Herbst 2015 unternehmen die Bundesländer und Hamburg diverse Anstrengungen
 
 ## Einleitung für die Antworten des Senats
 
- Einsatz von zwei mobilen Erfassungsteams des Bundesamtes für Migra-
+– Einsatz von zwei mobilen Erfassungsteams des Bundesamtes für Migra-
 
 tion und Flüchtlinge (BAMF) seit dem 26. Oktober 2015 zur Durchführung erkennungsdienstlicher Maßnahmen
 
- Unterstützung bei der Erfassung der Daten der Flüchtlinge im bundes-
+– Unterstützung bei der Erfassung der Daten der Flüchtlinge im bundes-
 
 einheitlichen Verteilungssystem „EASY“ ab dem 9. November 2015 durch 25 Bundeswehrsoldaten
 
- Mehrarbeit und Einführung eines Schichtbetriebes zur Registrierung der
+– Mehrarbeit und Einführung eines Schichtbetriebes zur Registrierung der
 
 neu eingereisten Flüchtlinge
 

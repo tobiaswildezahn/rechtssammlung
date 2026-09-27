@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 30
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1056", "21/1845", "21/1085", "21/1817", "21/2007"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50306"
@@ -43,7 +44,7 @@ Wie hoch ist der Investitionsbedarf am Schulstandort Lienaustraße konkret? Antw
 
 Der Senat führ aus, ihm lägen „ältere Daten“ nicht vor. Für welchen Zeitraum kann er, auf der Grundlage von ihm vorliegenden Daten, konkrete Angaben machen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Investitionsbedarf wird regelhaft in festgelegten Leistungsphasen quantifiziert. Da laut Rahmenplanung die Investitionen am Standort erst langfristig vorgesehen waren, liegen aktuell die in Drs. 21/1056 genannten und im Jahr 2012 erhobenen Kosteneckwerte vor.
 

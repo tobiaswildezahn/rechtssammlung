@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64319"
@@ -57,7 +58,7 @@ Welche Höchstgeschwindigkeit gilt auf der Straße Torfweg?
 
 An welchen Stellen im Eidelstedter Torfweg sind Schilder mit dem Hinweis auf ein Tempo-30-Limit angebracht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Torfweg liegt in einer Tempo-30-Zone, Beschilderungen befinden sich in den zuführenden Straßen.
 
@@ -77,7 +78,7 @@ Wann wurde zuletzt eine Geschwindigkeitsmessung im Torfweg durchgeführt? Wie vi
 
 Zu welchen Tageszeiten fanden diese Messungen statt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Polizei hat im Torfweg zuletzt am 21. Mai 2014 zwischen 7.16 Uhr und 08.32 Uhr eine Geschwindigkeitsmessung durchgeführt. In diesem Zeitraum befuhren 23 Fahrzeuge den Messbereich. Ein Fahrzeug wurde mit überhöhter Geschwindigkeit gemessen. Der Verstoß lag im Verwarnungsgeldbereich.
 

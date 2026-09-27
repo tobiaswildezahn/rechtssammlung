@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65518"
@@ -67,7 +68,7 @@ Sind seit 2017 auch andere Einladungen zu Veranstaltungen der SPD- Fraktion Nord
 
 Sind seit 2017 auch Einladungen zu Veranstaltungen anderer Fraktionen oder Gruppen auf Bezirks- oder Landesebene von der Bezirksverwaltung in Hamburg-Nord oder anderen Bezirksämtern sowie sonstigen Dienststellen der Freien und Hansestadt Hamburg (FHH) verschickt worden? Wenn ja, von welcher Dienstelle wann zu welchen durch wen ausgerichteten Veranstaltungen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nein.
 

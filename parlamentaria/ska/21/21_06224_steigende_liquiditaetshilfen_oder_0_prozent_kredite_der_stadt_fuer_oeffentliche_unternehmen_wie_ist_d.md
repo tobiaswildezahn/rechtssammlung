@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 50113
 seiten: 4
 fragen: 4
-einzelfragen: 9
-antwortbloecke: 4
+einzelfragen: 10
+antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4081", "21/5102", "20/13852", "21/218"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54752"
@@ -46,25 +47,44 @@ Dies vorausgeschickt, beantwortet der Senat die Fragen teilweise auf Grundlage v
 ### Frage 1
 
 Nutzung der Liquiditätshilfen:
-1.1. Welchen der im jeweiligen Haushaltsbeschluss genannten Unternehmen und Einrichtungen hat der Senat beziehungsweise die zuständige Behörde wann und warum im Zeitraum Juli bis September 2016 Liquiditätshilfen zur Verfügung gestellt?
-1.2. In welcher Höhe wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte jeweils zum Monatsende angeben.
-1.3. Wie lange und zu welchem Zins wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte keinen Durchschnittszins über alle Unternehmen wie in Drs. 20/13852 angeben.
-1.4. Woran orientiert sich jeweils die Höhe des Zinssatzes beziehungsweise wie wird sie ermittelt?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Welchen der im jeweiligen Haushaltsbeschluss genannten Unternehmen und Einrichtungen hat der Senat beziehungsweise die zuständige Behörde wann und warum im Zeitraum Juli bis September 2016 Liquiditätshilfen zur Verfügung gestellt?
+
+### Frage 1.2
+
+In welcher Höhe wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte jeweils zum Monatsende angeben.
+
+### Frage 1.3
+
+Wie lange und zu welchem Zins wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte keinen Durchschnittszins über alle Unternehmen wie in Drs. 20/13852 angeben.
+
+### Frage 1.4
+
+Woran orientiert sich jeweils die Höhe des Zinssatzes beziehungsweise wie wird sie ermittelt?
+
+#### Antwort zu Fragen 1, 1.1, 1.2, 1.3 und 1.4
 
 Siehe Anlage 1. Der Zinssatz betrug im Juli 0,1 Prozent und ansonsten 0,0 Prozent. Im Übrigen siehe Drs. 21/218, 21/4081 und 21/5102.
 
 ### Frage 2
 
 Limite für die Liquiditätshilfen:
-2.1. Welche Veränderungen der für die Liquiditätshilfen festgelegten Limite hat es jeweils wann und aus welchen Gründen seit der Beantwortung der Schriftlichen Kleinen Anfrage in Drs. 21/5102 gegeben?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Welche Veränderungen der für die Liquiditätshilfen festgelegten Limite hat es jeweils wann und aus welchen Gründen seit der Beantwortung der Schriftlichen Kleinen Anfrage in Drs. 21/5102 gegeben?
+
+#### Antwort zu Fragen 2 und 2.1
 
 Das Limit für das Betriebsmittelkonto des Landesbetriebs Straßen, Brücken und Gewässer (LSBG) wurde aufgrund verspäteter Einnahmen ab dem 14. September 2016 für vier Wochen von 5 auf 8 Millionen Euro erhöht.
 
-2.2. Wie häufig, aus welchen Gründen und für jeweils welchen Zeitraum gab es im 3. Quartal 2016 bei welchen einzelnen Unternehmen und Einrichtungen Überschreitungen der Limite?
+### Frage 2.2
+
+Wie häufig, aus welchen Gründen und für jeweils welchen Zeitraum gab es im 3. Quartal 2016 bei welchen einzelnen Unternehmen und Einrichtungen Überschreitungen der Limite?
+
+#### Antwort zu Frage 2.2
 
 Einmal beim LSBG in der Zeit vom 9. bis 13. September 2016.
 

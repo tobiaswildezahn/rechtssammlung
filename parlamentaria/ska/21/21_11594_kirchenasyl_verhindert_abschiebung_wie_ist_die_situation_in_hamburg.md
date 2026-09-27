@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7646", "21/4785", "21/4317"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60821"
@@ -285,7 +286,7 @@ In solchen Fällen verhindern die Kirchen die Durchsetzung geltenden Rechts. Üb
 
 Durch entsprechende Gewährung von Kirchenasyl unterbinden die Kirchen die geltende Rechtslage mit gravierenden Folgen für den deutschen Staat. Werden in Fällen der geschilderten Art die entsprechenden Asylbewerber aus dem Kirchenasyl durch staatlichen Zugriff entfernt? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nein, siehe im Übrigen Drs. 21/4785 und 21/4317.
 

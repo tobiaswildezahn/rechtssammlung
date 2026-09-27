@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1722", "21/1985"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52742"
@@ -55,7 +56,7 @@ Wie viele Stellen welcher Wertigkeit (laut Stellenplan) sind in den Präsidialab
 
 Wie viele Stellen welcher Wertigkeit (VZÄ) sind tatsächlich aktuell vorhanden und wie viele dieser Stellen sind besetzt? Bitte pro Behörde angeben. a. Welche Aufgaben werden von den aktuellen Stelleninhabern auf diesen Stellen in den Behörden jeweils (tatsächlich) wahrgenommen? Bitte pro Behörde angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage, im Übrigen siehe Drs. 21/1722.
 
@@ -159,21 +160,21 @@ Welche Aufgaben werden von dem Referenten für Grundsatzangelegenheiten in der J
 
 Der Dienstposten der Grundsatzreferentin/des Grundsatzreferenten gehört seit jeher zur Ausstattung des Präsidialstabes der zuständigen Behörde. Er ist grundsätzlich der Laufbahngruppe 2, 2. Einstiegsamt zugeordnet und kann aufgrund eines von der Bürgerschaft bewilligten Haushaltsvermerks mit Personal, dass nach der Besoldungsordnung R besoldet wird, besetzt werden. Der Grundsatzreferent – welcher abgeordnet ist – nimmt vergleichbare Aufgaben der Referentinnen und Referenten für öffentliches Recht und Rechtsprüfung wahr. Aufgrund der bestehenden Haushaltsvermerke ist in diesen Fällen eine Besoldung nach R 2 zulässig. Im Einzelnen werden von dem Dienstposteninhaber insbesondere nachstehende Aufgaben wahrgenommen:
 
- Erstellung von Konzepten und inhaltlichen Grundlagenpapieren für die Behörden-
+– Erstellung von Konzepten und inhaltlichen Grundlagenpapieren für die Behörden-
 
 leitung
 
- Vorbereitung und Ausarbeitung von Reden, Beiträgen und Referaten
+– Vorbereitung und Ausarbeitung von Reden, Beiträgen und Referaten
 
- Entwicklung und Betreuung von Projekten zur Begleitung justizpolitischer Vorha-
+– Entwicklung und Betreuung von Projekten zur Begleitung justizpolitischer Vorha-
 
 ben
 
- Bundesratsangelegenheiten (einschließlich Rechtsausschuss/Vermittlungsausschuss)
+– Bundesratsangelegenheiten (einschließlich Rechtsausschuss/Vermittlungsausschuss)
 
- Koordination der Subsidiaritätsprüfungen
+– Koordination der Subsidiaritätsprüfungen
 
- Koordination der Angelegenheiten der Ständigen Vertragskommission
+– Koordination der Angelegenheiten der Ständigen Vertragskommission
 
 Die hierbei erforderlichen Fachkenntnisse ergeben sich vor allem im Hinblick auf die extrem kurzfristige Bewertung zahlreicher umfangreicher und komplexer Gesetzgebungsvorhaben insbesondere auf dem Gebiet des öffentlichen Rechts.
 

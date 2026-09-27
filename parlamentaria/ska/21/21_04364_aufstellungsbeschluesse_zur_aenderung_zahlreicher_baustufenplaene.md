@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52765"
@@ -118,7 +119,7 @@ Wie wurden die betroffenen Anwohner über die Änderungen der Ausweisungen in de
 
 Welche rechtlichen Möglichkeiten haben die betroffenen Anwohner, gegen die Änderung im Baustufenplan vorzugehen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Bisher wurde die Öffentlichkeit über die Einleitung des Verfahrens durch die Veröffentlichung der Aufstellungsbeschlüsse im „Amtlichen Anzeiger“ informiert.
 

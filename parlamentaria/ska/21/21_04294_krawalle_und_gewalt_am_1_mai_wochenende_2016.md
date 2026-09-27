@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 16
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52709"
@@ -118,9 +119,9 @@ Wo ist es neben dem Stadtteil Sternschanze noch zu Störungen der öffentlichen 
 
 Störungen im Sinne der Fragestellung hat die Polizei festgestellt:
 
- am 30. April 2016 im Stadtteil St. Pauli
+– am 30. April 2016 im Stadtteil St. Pauli
 
- am 1. Mai 2016 in den Stadtteilen Altona-Altstadt, Altona-Nord, St. Pauli, Eimsbüt-
+– am 1. Mai 2016 in den Stadtteilen Altona-Altstadt, Altona-Nord, St. Pauli, Eimsbüt-
 
 tel und Barmbek
 

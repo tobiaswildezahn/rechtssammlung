@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12136", "21/10281"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65922"
@@ -63,6 +64,6 @@ Wie viele Hamburger Grundschulen, Stadtteilschulen, Gymnasien und Berufsschulen 
 
 Welche Kenntnisse hat die Behörde für Schule und Berufsbildung inzwischen über den Zusammenhang von Migrationshintergrund und Schulleistungen an den Hamburger Schulen? Bitte differenziert auf die spezifischen Migrationshintergründe (Herkunfts-/Ursprungsländer) eingehen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Antwort zu 1. und Drs. 21/12136 sowie 21/10281.

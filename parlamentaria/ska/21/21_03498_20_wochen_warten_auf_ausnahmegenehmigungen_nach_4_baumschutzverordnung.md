@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51855"
@@ -49,7 +50,7 @@ Wie viele Anträge nach § 4 Baumschutzverordnung wurden zwischen dem 1. Januar 
 
 Wie viele Anträge nach § 4 Baumschutzverordnung wurden zwischen dem 1. Januar 2014 und dem 29. Februar 2016 monatlich genehmigt beziehungsweise abgelehnt? Bitte nach Bezirken aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage und Vorbemerkung.
 
@@ -97,7 +98,7 @@ Welche Bearbeitungsdauer halten die zuständigen Behörden im Normalfall für an
 
 Wie viel Personal welcher Qualifikation und Wertigkeit müsste in den einzelnen Bezirksämtern jeweils eingestellt werden, um eine angemessene Bearbeitungszeit sicherstellen zu können?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die in Antwort zu 4. bis 7. angegebenen Bearbeitungszeiten und die vorhandene Personalausstattung werden grundsätzlich als angemessen beurteilt.
 

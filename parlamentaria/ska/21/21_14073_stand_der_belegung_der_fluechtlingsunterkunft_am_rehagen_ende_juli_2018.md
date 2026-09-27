@@ -14,6 +14,7 @@ fragen: 24
 einzelfragen: 33
 antwortbloecke: 21
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13794", "21/2108", "21/14071", "21/13261", "21/11112"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63469"
@@ -43,7 +44,7 @@ Wie viele Personen waren in der örU Am Rehagen Ende Juli 2018 untergebracht?
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Geschlecht  
 Kinder und Jugendliche Erwachsene  
@@ -239,7 +240,7 @@ Welche Angebote werden den Flüchtlingen zu jeweils welchen Zeiten in welchen R�
 
 Wie viele Ehrenamtliche sind eingesetzt und wie helfen sie?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Siehe Drs. 21/13794
 
@@ -314,7 +315,7 @@ Die vielen Neubürger in Hummelsbüttel, Poppenbüttel und Lemsahl benötigen au
 
 Auch die Zahl kleinerer Kinder steigt deutlich durch die Zuzüge. Wann wird es weitere Kinderärzte geben, sprich, warum wurden die Planungsgrößen für diese Stadtteile noch nicht angepasst?
 
-#### Antwort zu Fragen 23 bis 24
+#### Antwort zu Fragen 23 und 24
 
 Die Sicherstellung der ambulanten vertragsärztlichen Versorgung in Hamburg obliegt nicht dem Senat, sondern der Kassenärztlichen Vereinigung Hamburg (KVH). Nach dem aktuellen Bedarfsplan der KVH liegt der Versorgungsgrad in der Hausärztlichen Versorgung bei 113 Prozent und in der Kinderärztlichen Versorgung bei 117,5 Prozent. Für die einzelnen Stadtteile gibt es nach den Regelungen zur ambulanten Bedarfsplanung keine „Planungsgrößen“, Hamburg ist insgesamt ein Planungsbereich.
 

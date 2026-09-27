@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7277"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56374"
@@ -43,7 +44,7 @@ Wie viele Informationsveranstaltungen und Gespräche haben zu dem Urteil des Bun
 
 Wie hat der Senat den Einzelhandel und Gewerbetreibende in Gespräche eingebunden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es wurden insgesamt 14 Informationsveranstaltungen durchgeführt. Zudem wurden bekannte Akteure, die in den vergangenen Jahren Veranstaltungen angeregt hatten, laufend schriftlich und telefonisch über die aktuelle Rechtsprechung informiert und es gab diverse bilaterale Gespräche mit Akteuren. Die Zahl der Kontakte wird statistisch nicht erfasst.
 
@@ -65,7 +66,7 @@ Inwiefern sind die vorgenannten Parameter rechtsverbindlich?
 
 Warum überträgt Hamburg diese Parameter offensichtlich in Gänze auf Hamburg? Welche Spielräume haben der Senat beziehungsweise die zuständigen Behörden bei der Übertragung der vorgenannten Parameter?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die höchstrichterliche Rechtsprechung des Bundesverwaltungsgerichts ist bundesweit bei der Anwendung der Regelungen zu Sonntagsöffnungen aus Anlass besonderer Veranstaltungen zu berücksichtigen. Ein Spielraum hinsichtlich der Anwendbarkeit der Parameter besteht nicht. Bei der Normanwendung ist der jeweilige Sachverhalt zu bewerten.
 
@@ -77,7 +78,7 @@ Wie haben sich die notwendigen Angaben der Antragsteller seit dem Urteil vom 11.
 
 Welche Maßnahmen, Lösungsvorschläge entwickelt der Senat, um trotz der Kriterien im Urteil vom 11.11.2015 Genehmigungen ohne zu hohen bürokratischen Aufwand bei Händlern und Gewerbetreibenden in Hamburg in 2017 sicherzustellen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/7277.
 

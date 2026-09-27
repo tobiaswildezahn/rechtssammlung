@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53177"
@@ -47,7 +48,7 @@ Von wann bis wann wurde dort ein Halteverbot angeordnet?
 
 Warum wurde dieses angeordnet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die örtlich zuständige Straßenverkehrsbehörde am Polizeikommissariat 31 (PK 31) hat im Bereich der Hausnummern Blumenau 51 bis 61 für den Zeitraum vom 23. Mai 2016, 7 Uhr bis zum 24. Juni 2016, 18 Uhr ein Halteverbot angeordnet, um notwendige Aufgrabungen im Straßenraum zur Behebung einer Stromnetzstörung zu ermöglichen. Für erforderliche Instandsetzungsarbeiten im Kabelnetz mussten in diesem Gebiet Tiefbauarbeiten durchgeführt werden.
 
@@ -78,6 +79,6 @@ Welche Arbeiten sind jetzt noch auszuführen?
 
 Wenn keine Arbeiten mehr ausgeführt werden müssen: Warum besteht das Halteverbot noch?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Das Verfüllen der Aufgrabung am 8.Juni 2016 stellte den Abschluss der Arbeiten dar. Danach war das Halteverbot nicht mehr erforderlich. Es wurde aufgehoben und die Schilder wurden abgebaut.

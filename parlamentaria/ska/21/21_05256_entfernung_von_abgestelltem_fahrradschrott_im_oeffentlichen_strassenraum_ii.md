@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/359", "20/10713"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53735"
@@ -64,7 +65,7 @@ Wie viele Halter von aus dem Straßenraum entfernten Fahrrädern beziehungsweise
 
 Wie vielen Haltern von aus dem Straßenraum entfernten Fahrrädern bzw. Fahrradteilen konnten in den Jahren 2008 bis laufend 2016 Bußgelder und Entsorgungskosten jeweils in welcher Höhe auferlegt werden?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 In 2016 konnte bislang kein Halter ermittelt werden. Im Übrigen siehe Drs. 20/10713.
 

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/681", "21/1271", "21/1495", "21/1568", "21/1906", "21/131"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50287"
@@ -37,21 +38,21 @@ Hierzu frage ich den Senat:
 
 Die hohen Zugangszahlen neu ankommender Flüchtlinge stellen die zuständigen Behörden des Bundes (insbesondere Bundespolizei als Grenzpolizei sowie das für die Durchführung der Asylverfahren zuständige Bundesamt für Migration und Flüchtlinge) und der Länder (insbesondere die Aufnahmeeinrichtungen gemäß § 44 Asylgesetz) vor große Herausforderungen, denen sie sich mit einer Vielzahl organisatorischer Maßnahmen stellen. So sind in Hamburg zur Beschleunigung der Registrierung der neu eingereisten Flüchtlinge folgende Maßnahmen ergriffen worden beziehungsweise vorgesehen:
 
- Kontinuierliche Verteilung des eingesetzten Personals zur Registrierung
+– Kontinuierliche Verteilung des eingesetzten Personals zur Registrierung
 
- Einsatz von zwei mobilen Erfassungsteams des Bundesamtes für Migration und
+– Einsatz von zwei mobilen Erfassungsteams des Bundesamtes für Migration und
 
 Flüchtlinge (BAMF) seit dem 26. Oktober 2015 zur Durchführung erkennungsdienstlicher Maßnahmen
 
- Unterstützung bei der Erfassung der Daten der Flüchtlinge im bundeseinheitlichen
+– Unterstützung bei der Erfassung der Daten der Flüchtlinge im bundeseinheitlichen
 
 Verteilungssystem „EASY“ ab dem 9. November 2015 durch 25 Bundeswehrsoldaten, die seit dem 2. November 2015 geschult werden
 
- Mehrarbeit und Einführung eines Schichtbetriebes zur Registrierung der neu einge-
+– Mehrarbeit und Einführung eines Schichtbetriebes zur Registrierung der neu einge-
 
 reisten Flüchtlinge
 
- Einrichtung eines Ankunftszentrums unter Beteiligung weiterer Behörden zur zent-
+– Einrichtung eines Ankunftszentrums unter Beteiligung weiterer Behörden zur zent-
 
 ralen Registrierung der Flüchtlinge und gegebenenfalls Verteilung/Weiterleitung an Aufnahmeeinrichtungen anderer Länder
 
@@ -216,11 +217,11 @@ Der Senat legt ansonsten weiterhin seine Definition des Begriffs „Flüchtling�
 
 Keine Duldung haben zum Beispiel ausreisepflichtige Personen, die
 
-• nach ihrer Ankündigung, ihre Ausreisepflicht selbstbestimmt zu befolgen, eine sogenannte Grenzübertrittsbescheinigung erhalten, mit der sie durch Vorlage bei den Grenzbehörden oder der deutschen Auslandsvertretung im Zielstaat ihre Ausreise nachweisen können. Personen, die diesen Nachweis nicht erbringen und deren Aufenthalt der Ausländerbehörde unbekannt ist, bleiben bis zu einer späteren Abmeldung von Amts wegen vorübergehend im Datenbestand;
+– nach ihrer Ankündigung, ihre Ausreisepflicht selbstbestimmt zu befolgen, eine sogenannte Grenzübertrittsbescheinigung erhalten, mit der sie durch Vorlage bei den Grenzbehörden oder der deutschen Auslandsvertretung im Zielstaat ihre Ausreise nachweisen können. Personen, die diesen Nachweis nicht erbringen und deren Aufenthalt der Ausländerbehörde unbekannt ist, bleiben bis zu einer späteren Abmeldung von Amts wegen vorübergehend im Datenbestand;
 
-• inhaftiert sind;
+– inhaftiert sind;
 
-• keine gültige Duldung mehr haben, aber nicht zur Verlängerung bei der Ausländerbehörde erscheinen. Auch diese Personen, deren Aufenthalt der Ausländerbehörde unbekannt ist, verbleiben bis zu einer späteren Abmeldung von Amts wegen vorübergehend im Datenbestand.
+– keine gültige Duldung mehr haben, aber nicht zur Verlängerung bei der Ausländerbehörde erscheinen. Auch diese Personen, deren Aufenthalt der Ausländerbehörde unbekannt ist, verbleiben bis zu einer späteren Abmeldung von Amts wegen vorübergehend im Datenbestand.
 
 ### Frage 12
 

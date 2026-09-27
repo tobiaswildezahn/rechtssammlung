@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 25
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8076", "21/8007"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56913"
@@ -73,7 +74,7 @@ Wie viele Hamburger Schülerinnen und Schüler wurden insgesamt von Schleswig-Ho
 a) die fünfte Klasse und
 b) die elfte Klasse abgewiesen (bitte tabellarisch nach konkreten Schulen differenzieren)? Wie viele davon hatten jeweils bereits Geschwister an derselben Schule?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 
@@ -105,7 +106,7 @@ Wie gedenkt der Senat beziehungsweise die zuständige Behörde bezüglich der Fa
 
 Wie soll künftig mit Anmeldungen der Gemeinde Barsbüttel an Hamburger Schulen verfahren werden? Wird sie gegebenenfalls wieder eine Sonderregelung erhalten, damit ihr aus dem neu geschlossenen Gastschulabkommen kein Nachteil entsteht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 

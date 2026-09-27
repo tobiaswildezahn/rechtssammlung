@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68021"
@@ -77,7 +78,7 @@ Wie viele „szenekundige Beamte“ waren im Einsatz?
 
 Wie viele der Polizeikräfte waren in „zivil“ im Einsatz?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Fragestellungen berühren die Einsatztaktik der Polizei, zu der aus grundsätzlichen Erwägungen keine Angaben gemacht werden.
 

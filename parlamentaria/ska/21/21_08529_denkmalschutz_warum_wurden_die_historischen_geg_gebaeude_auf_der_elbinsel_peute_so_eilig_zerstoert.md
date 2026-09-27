@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 15
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6238", "20/9092"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57257"
@@ -69,7 +70,7 @@ Aus welchem Grund ziehen sich Verhandlungen mit potenziellen Mietern von Fläche
 
 Wie beurteilt der Senat vor diesem Hintergrund den damals dargestellten „Nachfrageüberhang“? Bedarf diese damalige Bewertung der Dringlichkeit einer Korrektur? Wenn ja: welcher?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Grundsätzlich besteht weiterhin ein Nachfrageüberhang für Hafenflächen. Im Übrigen siehe Vorbemerkung.
 

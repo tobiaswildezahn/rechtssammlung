@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51731"
@@ -61,7 +62,7 @@ Virenangriffe sind leider Alltag. Den Anwendern trifft wenig Schuld. Es ist völ
 
 Wie sieht die IT-Sicherheitsstrategie gegen Virenangriffe aus? Ist beispielsweise die automatische Ausführung von eingebettetem Makro- Code in den Office-Programmen abgeschaltet und wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Jeder Arbeitsplatzrechner der hamburgischen Verwaltung ist mit einem zentral verwalteten Virenschutzprogramm ausgestattet, das die Ausführung von bekanntem Schadcode verhindert. Die automatische Ausführung von Makro-Code ist deaktiviert. Darüber hinaus werden E-Mails zentral untersucht und gegebenenfalls von Viren befallene Anhänge gelöscht. Eine Aufklärung beziehungsweise Information der Anwender erfolgt jeweils nach Bewertung der Gefahrenlage.
 

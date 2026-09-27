@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5760"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55785"
@@ -55,9 +56,12 @@ Siehe Drs. 21/5760.
 ### Frage 2
 
 Welche Kosten kommen durch den Zusammenschluss mit UASC bei Zusammenschluss und Integration auf Hapag-Lloyd zu? (Bitte einzelne Kostenbestandteile für die kommenden Jahre aufschlüsseln.)
-2.1. Wie wird sich die gestiegene Kostenlast auf die Fremdkapitalsituation auswirken?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Wie wird sich die gestiegene Kostenlast auf die Fremdkapitalsituation auswirken?
+
+#### Antwort zu Fragen 2 und 2.1
 
 Siehe https://www.hapag-lloyd.de/content/dam/website/downloads/pdf/HLAG_ Quartalsfinanzbericht_9M_2016_dt.pdf
 
@@ -80,8 +84,14 @@ Siehe „Freiwillige Zusatzinformation im Hinblick auf den geplanten Zusammensch
 ### Frage 5
 
 Wird seitens Hapag-Lloyds die Risikovorsorge durch eine gestiegene Schuldenlast durch die Integration mit UASC angepasst?
-5.1. Wenn ja, in welchem Umfang und mit welchen Mitteln genau?
-5.2. Wenn nein, warum nicht?
+
+### Frage 5.1
+
+Wenn ja, in welchem Umfang und mit welchen Mitteln genau?
+
+### Frage 5.2
+
+Wenn nein, warum nicht?
 
 ### Frage 6
 
@@ -91,6 +101,6 @@ Welche Risikovorsorge wird seitens des Unternehmens mit Blick auf eine potenziel
 
 Möchte Hapag-Lloyd die zusätzlichen Verbindlichkeiten abbauen? Wenn ja, in welchem zeitlichen Umfang ist das geplant?
 
-#### Antwort zu Fragen 5 bis 7
+#### Antwort zu Fragen 5, 5.1, 5.2, 6 und 7
 
 Siehe Vorbemerkung.

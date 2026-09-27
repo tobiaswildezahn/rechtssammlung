@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 19
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9472"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69490"
@@ -93,13 +94,13 @@ Welche Bereiche im Bezirk Harburg werden von den zuständigen Polizeikommissaria
 
 Basierend auf der Lageauswertung des zuständigen Polizeikommissariats (PK) 46 werden folgende Örtlichkeiten im Bereich der Region Harburg als besonders vom Deliktsfeld Taschendiebstahl betroffen eingestuft:
 
- Einkaufszentrum „Phoenix-Center“, Hannoversche Straße 86, 21079 Hamburg,
+– Einkaufszentrum „Phoenix-Center“, Hannoversche Straße 86, 21079 Hamburg,
 
- Einkaufszentrum „Marktkauf-Center“, Seeveplatz 1, 21073 Hamburg,
+– Einkaufszentrum „Marktkauf-Center“, Seeveplatz 1, 21073 Hamburg,
 
- Einkaufszentrum „Harburg Arcaden“, Lüneburger Straße 39, 21073 Hamburg,
+– Einkaufszentrum „Harburg Arcaden“, Lüneburger Straße 39, 21073 Hamburg,
 
- Einkaufsstraße im gesamten Straßenzug Lüneburger Straße, 21073 Hamburg.
+– Einkaufsstraße im gesamten Straßenzug Lüneburger Straße, 21073 Hamburg.
 
 ### Frage 6
 
@@ -119,23 +120,23 @@ Siehe Vorbemerkung und Antwort zu 5.
 
 Durch das für die genannten Örtlichkeiten zuständige PK 46 werden im Rahmen der hierfür zur Verfügung stehenden Personalressourcen weiterhin folgende Maßnahmen ergriffen:
 
- Präventionsveranstaltungen an den oben benannten Örtlichkeiten durch Beamte
+– Präventionsveranstaltungen an den oben benannten Örtlichkeiten durch Beamte
 
 des Besonderen Fußstreifendienstes (BFS),
 
- Einsatz von Präventionsbroschüren,
+– Einsatz von Präventionsbroschüren,
 
- Regelmäßige Bestreifungen durch Beamte der Dienstgruppe Operative Aufgaben
+– Regelmäßige Bestreifungen durch Beamte der Dienstgruppe Operative Aufgaben
 
 (DGOA) und durch Angestellte im Polizeidienst/Lokale Präsenz (AiP/LP),
 
- Gemeinsame Schwerpunkteinsätze der Schutzpolizei mit dem Landeskriminalamt
+– Gemeinsame Schwerpunkteinsätze der Schutzpolizei mit dem Landeskriminalamt
 
 und der Bundespolizei,
 
- Anlassbezogene operative Maßnahmen durch Zivilstreifen,
+– Anlassbezogene operative Maßnahmen durch Zivilstreifen,
 
- Deliktsspezifische Schulungen der örtlichen Einsatzkräfte durch Taschendiebfahn-
+– Deliktsspezifische Schulungen der örtlichen Einsatzkräfte durch Taschendiebfahn-
 
 der der Bundespolizei.
 
@@ -221,29 +222,29 @@ Liegen dem Senat beziehungsweise den zuständigen Behörden Kenntnisse darüber 
 
 Bekannt sind die folgenden, nicht abschließend genannten Tatbegehungsweisen:
 
- „Rempeltrick“,
+– „Rempeltrick“,
 
- „Drängeltrick“,
+– „Drängeltrick“,
 
- „Geldwechseltrick“,
+– „Geldwechseltrick“,
 
- „Hochhebetrick“ oder „Wiegetrick“,
+– „Hochhebetrick“ oder „Wiegetrick“,
 
- „Restauranttrick“,
+– „Restauranttrick“,
 
- „Stadtplantrick“ beziehungsweise „Bettelzetteltrick“,
+– „Stadtplantrick“ beziehungsweise „Bettelzetteltrick“,
 
- „Beschmutzertrick“,
+– „Beschmutzertrick“,
 
- „Schlitzertrick“,
+– „Schlitzertrick“,
 
- „Nachtschwärmertrick“,
+– „Nachtschwärmertrick“,
 
- „Geldautomatentrick“,
+– „Geldautomatentrick“,
 
- „Rolltreppentrick“,
+– „Rolltreppentrick“,
 
- „Fußballtrick“.
+– „Fußballtrick“.
 
 In einigen Fällen werden die Diebstahltaten vorbereitet, indem die Geschädigten vor der Tat beim Geldabheben beobachtet werden.
 

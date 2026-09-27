@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54137"
@@ -75,7 +76,7 @@ Wurde vor dem Baubeginn im März eine Untersuchung des Fahrbahnuntergrunds durch
 
 Wie wird bei Straßenbaustellen auf Hamburger Stadtgebiet grundsätzlich bei der Untersuchung des Fahrbahnuntergrunds verfahren? Gibt es ein Standard-Prüfverfahren? Wenn ja, wie genau sieht dieses aus und kommt es bei jeder Baustelle zur Anwendung? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 In dem unter 3. genannten Straßenabschnitt ist lediglich die oberste Asphaltdeckschicht erneuert worden. Eine weitergehende Sanierung war gemäß Zustandserfassung nicht erforderlich. Daher sind vor Baubeginn nur die Asphaltschichten untersucht worden.
 

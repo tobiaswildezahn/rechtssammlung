@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11553"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49650"
@@ -124,6 +125,6 @@ Inwiefern ist geplant, das Freibad Rahlstedt in der nächsten Saison in welchem 
 
 Welche Entwicklungen sind für die Freibäder der Bäderland Hamburg GmbH für die nächste Saison geplant? Bitte je Standort aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Alle Freibäder werden auch 2016 wetterabhängig in der üblichen Saison von Anfang Mai bis Ende August in Betrieb sein. Es sind keine Angebotsveränderungen im Vergleich zu 2015 geplant.

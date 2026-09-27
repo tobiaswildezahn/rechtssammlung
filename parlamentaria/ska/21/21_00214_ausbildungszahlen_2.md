@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14641"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48343"
@@ -41,13 +42,13 @@ Wie sind die „Übergangsquoten“ in den Bezirken Hamburgs? Bitte die Übergä
 
 #### Antwort zu Frage 1
 
- Zahl der Schulabgängerinnen und -abgänger;
+– Zahl der Schulabgängerinnen und -abgänger;
 
- Ausbildungsvorbereitung,
+– Ausbildungsvorbereitung,
 
- sonstige Berufsvorbereitungsschule,
+– sonstige Berufsvorbereitungsschule,
 
- Sonstiges.
+– Sonstiges.
 
 Bitte die Angaben im Excel-Format machen.
 

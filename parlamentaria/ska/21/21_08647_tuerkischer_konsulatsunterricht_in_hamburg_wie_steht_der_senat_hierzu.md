@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 34
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7224", "21/5523"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57366"
@@ -91,31 +92,31 @@ Welche Rechtsform hat der türkische Konsulatsunterricht? Handelt es sich um Erg
 
 Der türkische Konsulatsunterricht findet auf Basis eines Zuwendungsbescheids der zuständigen Behörde mit dem Konsulat statt, in dem folgende Bedingungen und Auflagen aufgeführt sind:
 
- Die Zuwendung darf nur für den muttersprachlichen Ergänzungsunterricht derjeni-
+– Die Zuwendung darf nur für den muttersprachlichen Ergänzungsunterricht derjeni-
 
 gen Schülerinnen und Schüler eigensetzt werden, die Schulen im staatlichen Regelschulwesen in Hamburg besuchen und dort keinen herkunftssprachlichen Unterricht erhalten.
 
- Die Zuwendung wird nur bewilligt, wenn das Konsulat für die Durchführung des
+– Die Zuwendung wird nur bewilligt, wenn das Konsulat für die Durchführung des
 
 muttersprachlichen Ergänzungsunterrichts Geldmittel mindestens in Höhe des Zuwendungsbetrags aufwendet.
 
- Die wöchentliche Unterrichtszeit im muttersprachlichen Ergänzungsunterricht darf
+– Die wöchentliche Unterrichtszeit im muttersprachlichen Ergänzungsunterricht darf
 
 für jeden Schüler fünf Wochenstunden nicht überschreiten.
 
- Sofern der muttersprachliche Ergänzungsunterricht in Räumen staatlicher Schulen
+– Sofern der muttersprachliche Ergänzungsunterricht in Räumen staatlicher Schulen
 
 durchgeführt werden soll, ist die unentgeltliche Benutzung der Schulräume bei der zuständigen Behörde zu beantragen.
 
- Die Lehrkräfte des muttersprachlichen Ergänzungsunterrichts führen für jede
+– Die Lehrkräfte des muttersprachlichen Ergänzungsunterrichts führen für jede
 
 Unterrichtsveranstaltung ein Klassenbuch und legen es auf Verlangen der für Bildung zuständigen Behörde vor.
 
- Die Namen, Einsatzorte und -zeiten der Lehrkräfte sind der zuständigen Behörde
+– Die Namen, Einsatzorte und -zeiten der Lehrkräfte sind der zuständigen Behörde
 
 mitzuteilen.
 
- Vertretern der zuständigen Behörde steht ein Hospitationsrecht zu.
+– Vertretern der zuständigen Behörde steht ein Hospitationsrecht zu.
 
 ### Frage 8
 
@@ -128,7 +129,7 @@ geprüft?
 Wenn ja: mit welchen Ergebnissen?  
 Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Grundsätzlich ist die entgeltfreie Nutzung von Schulräumen für Sprachunterricht – auch muttersprachlichen Unterricht – in der Dienstvorschrift „Mitbenutzung von Schulräumen und –anlagen“ vom 04.01.2006 vorgesehen. Hinweise, die ein Verbot begründen könnten, liegen der zuständigen Behörde bislang nicht vor.
 
@@ -156,7 +157,7 @@ Auf welcher Grundlage gewährt die Stadt Hamburg finanzielle Zuschüsse für den
 
 Wie hoch ist der Zuschuss im Jahr 2017?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Die Höhe des Zuschusses für 2017 beträgt wie in den Vorjahren 65 Euro p.a. pro beteiligter Schülerin und beteiligtem Schüler einer staatlichen Hamburger Schule. Die Prüfung der gemeldeten Schülernamen ist für 2017 noch nicht abgeschlossen und damit der Gesamtzuwendungsbetrag noch nicht endgültig festgelegt. Für das Jahr 2016 siehe Drs. 21/7224. Im Übrigen siehe Antwort zu 4.
 

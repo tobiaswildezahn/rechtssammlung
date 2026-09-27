@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5830", "20/13460", "21/476", "21/954", "21/1204", "21/1542", "21/1674", "21/1706"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50232"
@@ -123,6 +124,6 @@ Werden Moscheen, die bereits als Treffpunkte für Salafisten identifiziert worde
 
 Unter welchen Voraussetzungen werden unter Punkt 7. genannte Moscheen mit Sanktionen versehen, durch die salafistische Aktivitäten in Zukunft eingeschränkt werden können und wie sehen diese aus?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Moscheevereine können wie alle anderen Vereine verboten werden, wenn deren Zwecke oder deren Tätigkeit den Strafgesetzen zuwiderlaufen oder sie sich gegen die verfassungsmäßige Ordnung oder gegen den Gedanken der Völkerverständigung richten. Darüber hinaus: nein.

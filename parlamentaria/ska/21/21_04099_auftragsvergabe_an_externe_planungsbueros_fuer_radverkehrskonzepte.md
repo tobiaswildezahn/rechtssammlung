@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2803"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52487"
@@ -63,7 +64,7 @@ Wie viele Aufträge haben der Senat beziehungsweise die zuständigen Behörden u
 
 Welchen Inhalt und Umfang hatten die an das Planungsbüro Argus vergebenen Aufträge jeweils? Bitte einzeln pro Projekt und bitte für den Zeitraum zwischen 2011 bis heute darstellen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Seit dem Jahr 2011 wurden an das Stadt- und Verkehrsplanungsbüro ARGUS folgende Aufträge für Radverkehrskonzepte beziehungsweise radverkehrsbezogene Studien und Untersuchungen mit konzeptionellem Charakter vergeben:
 

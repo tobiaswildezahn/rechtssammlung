@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1583", "21/3004"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58014"
@@ -53,7 +54,7 @@ Ist dem Senat bekannt, dass es zu Verstößen gegen die gesetzlich und tariflich
 
 Warum ist es öffentlichen Einrichtungen gestattet, bei dieser essenziellen Tätigkeit, „Lohndumping“ zu betreiben?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Dem Senat liegen keine Erkenntnisse über Verstöße im Sinne der Fragestellung vor. Im Übrigen siehe Vorbemerkung und Antwort zu 4.
 

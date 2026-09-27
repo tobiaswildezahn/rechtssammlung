@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11552", "21/1090", "21/2602", "21/6590", "21/2278"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61144"
@@ -110,7 +111,7 @@ Wann wird die BSB den oben genannten Haushaltsbeschluss der Bürgerschaft umsetz
 
 Wann wird die BSB den allgemeinen Schulen mit Internationalen Vorbereitungs- und Basisklassen zusätzliche Lehrerstellen für die LSE- Förderung zuweisen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 19
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62411"
@@ -113,7 +114,7 @@ Welche Baulasten liegen auf dem Grundstück?
 
 Lasten auf dem Grundstück des Parkhauses „Katharinenkirche“ in der Neue Gröningerstraße Stellplatzverpflichtungen anderer Grundstücke? Wenn ja, wie viele und für welche Grundstücke? Bitte detailliert aufschlüsseln.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Es besteht eine Stellplatzverpflichtung für 20 Stellplätze für KFZ für das Grundstück Grimm 14-16.
 

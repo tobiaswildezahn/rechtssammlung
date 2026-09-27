@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9142"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58111"
@@ -61,7 +62,7 @@ Wer war seitens des Senats beziehungsweise der Leitung der zuständigen Behörde
 
 Wer trägt für die offensichtliche Terminkollision des Ursprungstermins die politische Verantwortung?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Organisation und Terminfindung im Rahmen von Beteiligungsverfahren liegen im Verantwortungsbereich des Landesbetriebes Straßen, Brücken und Gewässer (LSBG). Die Bezirksverwaltungen werden in der Regel nicht direkt beteiligt, da sie hierbei im Rahmen der formellen Beteiligung einbezogen werden.
 

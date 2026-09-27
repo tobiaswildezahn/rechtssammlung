@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17187", "21/3535"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67060"
@@ -167,10 +168,10 @@ Die Erschließungskosten eines Liegeplatzes bemessen sich nach der Art und Weise
 
 Die Sondernutzungsgebühren bemessen sich nach der Umweltgebührenordnung derzeit jährlich wie folgt:
 
-• Für den Lieger selbst: 9,80 Euro/m² belegter Wasserfläche.
+– Für den Lieger selbst: 9,80 Euro/m² belegter Wasserfläche.
 
-• Zugangsstege: 3,30 Euro/m² belegter Wasser- respektive Landfläche.
+– Zugangsstege: 3,30 Euro/m² belegter Wasser- respektive Landfläche.
 
-• Dalben: private Anlage 6,70 Euro/Stück, gewerbliche Anlage 27,00 Euro/Stück.
+– Dalben: private Anlage 6,70 Euro/Stück, gewerbliche Anlage 27,00 Euro/Stück.
 
-• Landseitige Anlagen werden individuell nach Arbeitsaufwand und Erschließungsplanung berechnet.
+– Landseitige Anlagen werden individuell nach Arbeitsaufwand und Erschließungsplanung berechnet.

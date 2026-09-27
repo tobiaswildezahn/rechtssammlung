@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65663"
@@ -92,7 +93,7 @@ Wie viele der 2017 als Straftäter in Erscheinung getretenen Ausländer wurden b
 
 Wie viele der 2017 als Straftäter in Erscheinung getretenen Ausländer befinden sich gegenwärtig in Haft?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Wie viele Ausländer in einem bestimmten Jahr strafrechtlich in Erscheinung getreten sind und daraufhin bis zum heutigen Tag inhaftiert wurden, wird statistisch nicht erfasst. Zur Beantwortung der Frage müssten über 1 000 Datensätze händisch ausgewertet werden. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

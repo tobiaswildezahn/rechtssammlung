@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57821"
@@ -71,7 +72,7 @@ Wie stellt der Senat beziehungsweise die zuständige Behörde sicher, dass Einga
 
 Gehört es zur ständigen Praxis des Senates beziehungsweise der zuständigen Behörde, Eingaben und rechtliche Anfragen, die von einzelnen Elternratsmitgliedern an sie gerichtet wurden, direkt an die entsprechenden Schulleitungen und Elternratsgremien weiterzugeben? Da so im obig geschilderten Verfahren geschehen: Auf welcher rechtlichen Grundlage hat der Leiter der Rechtsabteilung der Schulbehörde die Schulleitung und das gesamte Elternratsgremium der Irena-Sendler- Stadtteilschule über die Eingabe von drei Elternratsmitgliedern schriftlich informiert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Werden Eingaben und Anfragen von Eltern unter der konkreten Bezugnahme auf die Mitgliedschaft im Elternrat an die für Bildung zuständige Behörde herangetragen, ist eine vertrauliche Behandlung des Themas im Sinne einer Erörterung, die allein zwischen dem anfragenden Elternteil und einem Behördenvertreter stattfindet, schon aufgrund von § 103 Hamburgisches Schulgesetz (HmbSG) nicht statthaft. Danach hat eine wechselseitige Unterrichtung der schulischen Gremien untereinander sowie gegenüber der Schulleitung stattzufinden. Dieser Grundsatz folgt auch aus dem für alle Elternratsmitglieder geltenden gesetzlichen Mandat gemäß § 72 Absatz 2 HmbSG, das ein Zusammenwirken mit den Akteuren jedenfalls innerhalb der Grenzen der Schulöffentlichkeit explizit vorsieht. Eine vertrauliche Behandlung von elternratsrelevanten Themen würde dieser Zielsetzung zuwiderlaufen. Soweit Themen innerhalb eines schulischen Gremiums vertraulich zu behandeln sind, kann dies gemäß § 105 Absatz 1 Nummer 2 HmbSG im Einzelfall gesondert beschlossen werden. Die Verpflichtung zu dienstlichen Auskünften bleibt aber auch dann unberührt.
 
@@ -83,7 +84,7 @@ Ist ein in Anlehnung an das Hamburgische Schulgesetz aus dem Kreis des Elternrat
 
 Welche Rechtsfolgen ergeben sich, wenn ein aus dem Kreis des Elternratsgremiums gewählter Vorstand den Elternratsmitgliedern gegenüber seiner Rechenschaftspflicht nicht nachkommt, Auskünfte verweigert und Unterlagen nicht offenlegt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Elternräte regeln ihre internen Geschäfte im Rahmen der Selbstverantwortung grundsätzlich selbst. Gesetzliche Regelungen zum Elternratsvorstand ergeben sich darüber hinaus aus § 74 Absatz 1 HmbSG, der aber zu den Rechten und Pflichten des Vorstands – und damit auch zu einer Rechenschaftspflicht – schweigt.
 

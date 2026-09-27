@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 36
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12086", "21/15550", "21/16311", "21/14037", "21/16409", "21/5039"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66832"
@@ -43,7 +44,7 @@ Wie viele Kinder sind aus den Gebieten des Islamischen Staates seit Beantwortung
 
 In Drs. 21/12086 gab es die Information, dass weniger als fünf Kinder nach Hamburg zurückgekehrt sind. Welche Erfahrungswerte liegen der zuständigen Behörde vor? Auf welchem Weg plant sie weitere Informationen einzuholen? a. Gegen wie viele Eltern der oben genannten Kinder sind Verfahren eröffnet worden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/12086. Darüber hinaus liegen dem Landesamt für Verfassungsschutz (LfV) keine neuen Erkenntnisse vor.
 
@@ -89,7 +90,7 @@ Nachdem Information vorliegen, dass sich aktuell mindestens 60 deutsche Kinder i
 
 Wie soll eine Resozialisierung und Reintegration von Kindern durch das inklusive Bildungsverständnis der Hamburger Kindertageseinrichtungen gewährleistet werden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/15550 und Drs. 21/12086. Im Übrigen liegen den zuständigen Behörden keine Kenntnisse darüber vor, inwieweit Hamburger Kindertageseinrichtungen davon betroffen sein könnten.
 
@@ -111,7 +112,7 @@ Wie soll ermöglicht werden, dass Kinder und Jugendliche, die ihrer Schulpflicht
 
 Mit welchen Konzepten und Strategien sollen die betroffenen Kinder in der Fürsorge und Wiedereingliederung in Schulen gefördert werden? Bitte konkret benennen und detailliert ausführen.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Sollte die schulische Integration mit Problemen verbunden sein, werden zunächst die schulinternen Beratungskompetenzen (Klassenführung, Beratungslehrkräfte, Schulsozialarbeit, Schulleitung) genutzt. Außerdem können Schulen bei den Regionalen Bildungs- und Beratungszentren (ReBBZ), um fachliche Unterstützung bitten. Bei zurückkehrenden Kindern wird in der Regel die Beratungsstelle Gewaltprävention eine Unterstützung anbieten. Je nach Fallkonstellation können zusätzlich das zuständige Jugendamt, sozialräumliche Hilfen und Angebote, die Fachberatungsstelle Legato oder andere geeignete Unterstützungssysteme hinzugezogen werden.
 
@@ -176,7 +177,7 @@ Diverse Empfehlungen von Praktikern/-innen, die mit zurückkehrenden Kindern arb
 
 Wird bei der Planung der „bedarfsgerechten Struktur“ die Einbindung von Kinderpsychologen/-innen und/oder anderer psychologisch/psychotherapeutischen Fachpersonen berücksichtigt? Wenn ja, bitte konkret erläutern. Wenn nein, bitte konkret begründen.
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Die Regelsysteme und die Beratungsstelle Legato stellen bedarfsgerechte Strukturen dar, siehe Drs. 21/15550. Im Übrigen sind bei der Übermittlung personenbezogener Daten, abhängig von der übermittelnden Stelle und dem Zweck der Übermittlung, die entsprechenden Regelungen der Datenschutz-Grundverordnung (DSGVO), des Bundesdatenschutzgesetzes (BDSG) sowie der jeweiligen Fachgesetze zu beachten.
 

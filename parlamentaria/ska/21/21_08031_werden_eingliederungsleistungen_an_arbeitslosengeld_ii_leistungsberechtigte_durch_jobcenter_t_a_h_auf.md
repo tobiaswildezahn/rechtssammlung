@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7691"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56695"
@@ -63,7 +64,7 @@ i. Personalkosten
 
 In welchem Umfang in Euro wurde den Schätzwerten nach Frage 1. entsprochen? Bitte entsprechend der Aufzählung nach Frage 1. auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1 und Vorbemerkung.
 

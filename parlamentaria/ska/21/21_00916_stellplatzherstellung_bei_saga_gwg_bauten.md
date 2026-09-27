@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49077"
@@ -562,7 +563,7 @@ Welche Verfahrens- und Planungsschritte konnten durch die Abschaffung der genere
 
 Welche Auswirkungen auf die Planungs- und Genehmigungszeiträume konnten durch die Abschaffung der generellen Stellplatzpflicht bei Wohnungsbauvorhaben realisiert werden? Bitte konkrete Zeiträume angeben.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Im Baugenehmigungsverfahren mit Konzentrationswirkung nach § 62 HBauO muss bei Wohnungsbauvorhaben der Nachweis notwendiger Stellplätze für Kraftfahrzeuge nicht mehr geplant und geprüft werden.
 

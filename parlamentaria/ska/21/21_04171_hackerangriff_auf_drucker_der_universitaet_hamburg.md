@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52567"
@@ -47,7 +48,7 @@ Wann genau fand der Hackerangriff statt?
 
 Welche Hochschulen in Hamburg waren betroffen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Hackerangriffe fanden an der Universität Hamburg (UHH) am 20. April 2016 im Zeitraum zwischen 11.00 Uhr und 17.00 Uhr und an der Hochschule für Angewandte Wissenschaften Hamburg (HAW) am 20. April 2016 um 11.05 Uhr, 14.53 Uhr sowie zu einem weiteren, unbekannten Zeitraum statt.
 

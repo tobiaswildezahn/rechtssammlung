@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 3
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1007", "21/10870"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61863"
@@ -43,7 +44,7 @@ Den einzelnen Standorten der öffentlich-rechtlichen Unterbringung stehen Gruppe
 
 Nach welchen Kriterien bemisst sich die Höhe der Zuweisung dieser Mittel?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zwischen der Behörde für Arbeit, Soziales, Familie und Integration und f & w fördern und wohnen AöR sind Kostensatzvereinbarungen geschlossen worden. Mit einem Basiskostensatz werden die Betriebskosten für Unterkünfte gedeckt. Dazu gehören als sonstige betriebliche Aufwendungen auch Gruppenmittel für die Durchführung ehrenamtlicher Angebote. Eine Auflistung, für welche Angebote an welchem Standort die Mittel in welcher Höhe verwendet worden sind, würde bei derzeit mehr als 110 Standorten die Durchsicht mehrerer Tausend Geschäftsvorfälle erforderlich machen. Dies ist in der für die Bearbeitung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Im Übrigen siehe Drs. 21/1007.
 

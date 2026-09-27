@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66326"
@@ -77,39 +78,39 @@ Der Messenger24 ist auf allen ausgegebenen Geräten lauffähig. Folgender Funkti
 
 a. Chat
 
- Einrichten eines Chats (jeder Mitarbeiter, der im Einsatzraum berechtigt
+– Einrichten eines Chats (jeder Mitarbeiter, der im Einsatzraum berechtigt
 
 ist, kann dies einrichten und einen beziehungsweise mehrere Mitarbeiter des Einsatzraumes hinzufügen)
 
- Berechtigen/Entzug von Berechtigungen von/für Mitarbeiter im Chat (dies
+– Berechtigen/Entzug von Berechtigungen von/für Mitarbeiter im Chat (dies
 
 kann durch jeden Berechtigten im Chat erfolgen)
 
- Nutzung von Textnachrichten, Points of Interest, Fotos und Standorten im
+– Nutzung von Textnachrichten, Points of Interest, Fotos und Standorten im
 
 Chat
 
- Erstellen von Fotos für einen Chat
+– Erstellen von Fotos für einen Chat
 
 b. Karte
 
- Anzeige der Positionen der Chatteilnehmer
+– Anzeige der Positionen der Chatteilnehmer
 
- Hinzufügen/Löschen von Points of Interest auf der Karte
+– Hinzufügen/Löschen von Points of Interest auf der Karte
 
- Aufruf verschiedener Datenlayer (zum Beispiel Kindergärten, Schulen, et cetera)
+– Aufruf verschiedener Datenlayer (zum Beispiel Kindergärten, Schulen, et cetera)
 
- Zoom-Funktionalität der Karte, um zum Beispiel alle Kräfte zentriert auf der Karte anzuzeigen
+– Zoom-Funktionalität der Karte, um zum Beispiel alle Kräfte zentriert auf der Karte anzuzeigen
 
 c. User
 
- Anzeige der User und ihrer Berechtigung in einem Chat beziehungsweise im Einsatzraum (= mehrere Chats bilden einen Einsatzraum)
+– Anzeige der User und ihrer Berechtigung in einem Chat beziehungsweise im Einsatzraum (= mehrere Chats bilden einen Einsatzraum)
 
 d. Datenintegration
 
- Zufügen von Fotos in einen Chat durch fachliche Administratoren aus dem Polizeinetz in die App
+– Zufügen von Fotos in einen Chat durch fachliche Administratoren aus dem Polizeinetz in die App
 
- Zufügen von PDF-Dateien in einen Chat durch fachliche Administratoren aus dem Polizeinetz in die App
+– Zufügen von PDF-Dateien in einen Chat durch fachliche Administratoren aus dem Polizeinetz in die App
 
 ### Frage 4
 
@@ -119,6 +120,6 @@ Hat aufgrund der oben beschriebenen Probleme mit dem Messenger24 eine Prüfung v
 
 Hat mit anderen Bundesländern ein Austausch über mögliche Alternativen zum Messenger24 stattgefunden? Falls ja, was hat dieser ergeben?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.

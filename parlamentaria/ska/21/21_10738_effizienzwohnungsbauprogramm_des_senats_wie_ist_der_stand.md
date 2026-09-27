@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 25
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8417"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59643"
@@ -117,6 +118,6 @@ Nach den bisherigen Angaben des Senats sollen über die beiden Pilotprojekte hin
 
 Wie viele Projekte sind insgesamt geplant, wann werden diese abgeschlossen sein und wann soll die Auswertung der gewonnenen Erkenntnisse erfolgen?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Es ist beabsichtigt, weitere Vorhaben durchzuführen.

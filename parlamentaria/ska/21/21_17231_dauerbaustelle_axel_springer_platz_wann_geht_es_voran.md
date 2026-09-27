@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15567"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66801"
@@ -83,6 +84,6 @@ Welcher Kostenrahmen wurde für das gesamte Bauprojekt und für die jeweiligen E
 
 Gibt es Abweichungen von den ursprünglich angesetzten Kosten und wenn ja, warum und wie stellen sich diese im Detail dar?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Gesamtbaukosten gemäß Ausführungsunterlage belaufen sich auf 5 799 000 Euro. Die Straßenbauarbeiten im Zuge des Umbaus Stadthausbrücke umfassen ein Auftragsvolumen von circa 3 500 000 Euro. Derzeit sind keine erheblichen Abweichungen von den beauftragten Straßenbaukosten absehbar. Eine geringfügige Kostensteigerung ergibt sich lediglich aus den oben erwähnten Verzögerungen und Mehrleistungen, die aufgrund des teils schlechten Zustandes der vorhandenen Bausubstanz erforderlich waren beziehungsweise sind. Vor Beendigung der Arbeiten können noch keine konkreten Zahlen genannt werden. Die Darstellung der Projektkosten und die Ermittlung einer Zwischensumme in Bezug auf detaillierte Kostengruppen erfordert die manuelle Prüfung einer Vielzahl von Vertrags- und Rechnungsunterlagen der unterschiedlichen Teilprojekte. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.

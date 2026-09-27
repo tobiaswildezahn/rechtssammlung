@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6980"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64084"
@@ -59,49 +60,49 @@ Vor diesem Hintergrund frage ich den Senat:
 
 Die Bekämpfung von Cybercrime hat seit Jahren eine hohe und steigende Bedeutung. Auch die Justizministerkonferenz beschäftigt sich regelmäßig mit der Bekämpfung von Cybercrime: Vergleiche die Beschlüsse:
 
- Kinder vor Gefahren des Cyber-Gromming wirksam schützen (2013)
+– Kinder vor Gefahren des Cyber-Gromming wirksam schützen (2013)
 
- Beleidigung im Internet/Cybermobbing (2014)
+– Beleidigung im Internet/Cybermobbing (2014)
 
- Eintreten gegen fremdenfeindliche Hetze im Internet (2015)
+– Eintreten gegen fremdenfeindliche Hetze im Internet (2015)
 
- Beschleunigte Sicherung von digitalen Beweismitteln (2016)
+– Beschleunigte Sicherung von digitalen Beweismitteln (2016)
 
- Hasskriminalität – Maßnahmen zur Effektivierung der Strafverfolgung von „Hate
+– Hasskriminalität – Maßnahmen zur Effektivierung der Strafverfolgung von „Hate
 
 Speech“ (2016)
 
- Digitale Agenda für das Straf- und Strafprozessrecht (2016)
+– Digitale Agenda für das Straf- und Strafprozessrecht (2016)
 
- „Hate Speech“ im Internet effektiv unterbinden – Stärkung der Position der von
+– „Hate Speech“ im Internet effektiv unterbinden – Stärkung der Position der von
 
 Hasskriminalität betroffenen Nutzer (2016)
 
- Effektivität strafrechtlicher Ermittlungen in getarnten Computernetzwerken soge-
+– Effektivität strafrechtlicher Ermittlungen in getarnten Computernetzwerken soge-
 
 nanntes Darknet (2016)
 
- Sicherstellung rechtskonformer Postauslieferungen und werktäglicher Zustellungen
+– Sicherstellung rechtskonformer Postauslieferungen und werktäglicher Zustellungen
 
 per Post zur Gewährleistung rechtssicherer (Justiz-)Verfahren (2017)
 
- Erleichterung der Verfolgung schwerer Straftaten im Darknet (2017)
+– Erleichterung der Verfolgung schwerer Straftaten im Darknet (2017)
 
- Verfolgen statt nur Löschen – Rechtsdurchsetzung im Internet (2017)
+– Verfolgen statt nur Löschen – Rechtsdurchsetzung im Internet (2017)
 
- Grenzüberschreitende Sicherung elektronischer Beweismittel – Vorschläge der
+– Grenzüberschreitende Sicherung elektronischer Beweismittel – Vorschläge der
 
 Kommission zur Verbesserung des grenzüberschreitenden Zugangs zu elektronischen Beweismitteln in Strafsachen („E-Evidence“) (2018)
 
- Effektive Verfolgung und Verhinderung von Kinderpornographie und Kindesmiss-
+– Effektive Verfolgung und Verhinderung von Kinderpornographie und Kindesmiss-
 
 brauch im Darknet durch die ausnahmsweise Zulassung von sogenannten Keuschheitsproben für Verdeckte Ermittler (2018)
 
- Strafrechtlicher Schutz von Kindern gegen Übergriffe bei Entführungen (Kindesent-
+– Strafrechtlicher Schutz von Kindern gegen Übergriffe bei Entführungen (Kindesent-
 
 führung) und sexuellen Annäherungen im Internet (2018)
 
- Strafbarkeit der Volksverhetzung durch Handlungen aus dem Ausland sicherstellen
+– Strafbarkeit der Volksverhetzung durch Handlungen aus dem Ausland sicherstellen
 
 (2018).
 
@@ -123,45 +124,45 @@ Für die Bearbeitung welcher Deliktsbereiche ist die Abteilung 74 der Hauptabtei
 
 Die Abteilung 74 der Staatsanwaltschaft Hamburg ist nach dem Jahresgeschäftsverteilungsplan 2018 für die Bearbeitung folgender Straftaten zuständig, auch soweit sich die Verfahren gegen Jugendliche oder Heranwachsende richten:
 
- Straftaten, bei denen ein besonderes Maß an kommunikationstechnischer Beweis-
+– Straftaten, bei denen ein besonderes Maß an kommunikationstechnischer Beweis-
 
 führung erforderlich ist oder das Internet als Tatmittel eingesetzt wurde und zu deren Bearbeitung besondere Kenntnisse der elektronischen Datenverarbeitung oder elektronischen Kommunikation erforderlich sind, insbesondere Verfahren gemäß der §§ 202a, 202b, 202c, 263a, 269, 270, 274 Absatz 1 Nummer 2, Absatz 2, 303a, 303b StGB,
 
- Verfahren wegen § 261 Absatz 1 Nummer 4a StGB bei einer Vortat nach § 263a
+– Verfahren wegen § 261 Absatz 1 Nummer 4a StGB bei einer Vortat nach § 263a
 
 StGB aus dem Bereich des Finanzverkehrs,
 
- Verfahren wegen Verletzung des höchstpersönlichen Lebensbereichs durch Bild-
+– Verfahren wegen Verletzung des höchstpersönlichen Lebensbereichs durch Bild-
 
 aufnahmen (§ 201a StGB),
 
- Verfahren wegen Verbreitung gewaltverherrlichender, pornographischer und ande-
+– Verfahren wegen Verbreitung gewaltverherrlichender, pornographischer und ande-
 
 rer jugendgefährdender Schriften.
 
 Im Bereich des Cybercrime im engeren Sinne bearbeitet die Abteilung 74 insbesondere:
 
- Angriffe auf oder Ausspähen von informationstechnische/n Systeme/n, zum Bei-
+– Angriffe auf oder Ausspähen von informationstechnische/n Systeme/n, zum Bei-
 
 spiel durch den Einsatz von Botnetzen, Dialern, DDoS-Attacken und Schadprogrammen (Viren, Trojaner, Exploits),
 
- Einsatz moderner Informations- und Kommunikationstechnik zur Erlangung rechts-
+– Einsatz moderner Informations- und Kommunikationstechnik zur Erlangung rechts-
 
 widriger Vermögensvorteile (zum Beispiel erpresserische Verschlüsselung von Datenträgern, Einsatz von „gefälschten“ E-Mail-Adressen),
 
- erhebliche Straftaten unter Nutzung der Anonymität sogenannter Undergroundfo-
+– erhebliche Straftaten unter Nutzung der Anonymität sogenannter Undergroundfo-
 
 ren (zum Beispiel dem Darknet),
 
- Einsatz von Skimmingtechnik zum Ausspähen von Konto- oder Kreditkartendaten
+– Einsatz von Skimmingtechnik zum Ausspähen von Konto- oder Kreditkartendaten
 
 einschließlich der Verwertungstaten, soweit sich das Verfahren gegen eine bekannte Person richtet,
 
- organisierte Verstöße gegen das Urheberrecht, soweit diese mittels Tauschbörsen
+– organisierte Verstöße gegen das Urheberrecht, soweit diese mittels Tauschbörsen
 
 oder Undergroundforen begangen werden,
 
- Straftaten nach dem 13. Abschnitt des Strafgesetzbuches, soweit der Täter aus-
+– Straftaten nach dem 13. Abschnitt des Strafgesetzbuches, soweit der Täter aus-
 
 schließlich mittels moderner Kommunikationsmittel auf das Opfer einwirkt („Cybergrooming“).
 
@@ -233,163 +234,163 @@ Es werden zum einen durch die zuständige Behörde landesinterne Fortbildungen i
 
 2014:
 
- Tagung der DRA 16d/2014 „Der Kampf ums Urheberrecht im Digitalzeitalter“,
+– Tagung der DRA 16d/2014 „Der Kampf ums Urheberrecht im Digitalzeitalter“,
 
 25.05. – 28.05.2014 // 1 TN (nachfolgend: TN)
 
- Tagung der DRA 22c/2014 „Aktuelle Entwicklungen in Kriminalistik und Straf-
+– Tagung der DRA 22c/2014 „Aktuelle Entwicklungen in Kriminalistik und Straf-
 
 rechtspflege“, 28.08. – 05.09.2014 // 1 TN
 
- Tagung der DRA 23a/2014 „Erscheinungsformen der Internetkriminalität und
+– Tagung der DRA 23a/2014 „Erscheinungsformen der Internetkriminalität und
 
 ihre Bekämpfung“, 07.07. – 11.07.2014 // 2 TN
 
- Tagung der DRA 30c/2014 „Strafrecht und Internet“, 26.10. – 31.10.2014 // 1
+– Tagung der DRA 30c/2014 „Strafrecht und Internet“, 26.10. – 31.10.2014 // 1
 
 TN
 
- Tagung der DRA 38b/2014 „Ermittlungsmaßnahmen im Bereich der Tele-
+– Tagung der DRA 38b/2014 „Ermittlungsmaßnahmen im Bereich der Tele-
 
 kommunikation“, 14.12. – 19.12.2014 // 2 TN
 
- „Kinderpornografie in digitalen Netzen“ // 1 TN
+– „Kinderpornografie in digitalen Netzen“ // 1 TN
 
- “Die Hacker kommen“ // 2 TN
+– “Die Hacker kommen“ // 2 TN
 
 2015:
 
- Grundlagen der Internetkriminalität // 27 TN
+– Grundlagen der Internetkriminalität // 27 TN
 
- Tagung der DRA 8b/2015 „Erscheinungsformen der Internetkriminalität und
+– Tagung der DRA 8b/2015 „Erscheinungsformen der Internetkriminalität und
 
 ihre Bekämpfung“, 16.03. – 20.03.2015 // 2 TN
 
- Tagung der DRA 31c/2015 „Ermittlungsmaßnahmen im Bereich der Tele-
+– Tagung der DRA 31c/2015 „Ermittlungsmaßnahmen im Bereich der Tele-
 
 kommunikation“, 25.10. – 30.10.2015 // 2 TN
 
- „Organized crime and cybercrime“ // 1 TN
+– „Organized crime and cybercrime“ // 1 TN
 
 2016:
 
- Internetkriminalität // 30 TN
+– Internetkriminalität // 30 TN
 
- Tagung der DRA 5d/2016 „Ausgewählte Fragen des Strafrechts und des
+– Tagung der DRA 5d/2016 „Ausgewählte Fragen des Strafrechts und des
 
 Strafverfahrens“, 07.02. – 13.02.2016 // 3 TN
 
- Tagung der DRA 20a/2016 „Ermittlungsmaßnahmen im Bereich der Tele-
+– Tagung der DRA 20a/2016 „Ermittlungsmaßnahmen im Bereich der Tele-
 
 kommunikation“, 26.06. – 01.07.2016 // 1 TN
 
- Tagung der DRA 23c/2016 „Aktuelle Entwicklungen in Kriminalistik und Straf-
+– Tagung der DRA 23c/2016 „Aktuelle Entwicklungen in Kriminalistik und Straf-
 
 rechtspflege“, 03.07.-09.07.2016 // 1 TN
 
- Tagung der DRA 34c/2016 „Erscheinungsformen der Internetkriminalität und
+– Tagung der DRA 34c/2016 „Erscheinungsformen der Internetkriminalität und
 
 ihre Bekämpfung“, 31.10. – 04.11.2016 // 1 TN
 
- Tagung der DRA 38d/2016 „Strafrecht und Internet“, 27.11. – 02.12.2016 //
+– Tagung der DRA 38d/2016 „Strafrecht und Internet“, 27.11. – 02.12.2016 //
 
 kein TN
 
- „Cybercrime“ // Anzahl TN nicht mehr nachvollziehbar
+– „Cybercrime“ // Anzahl TN nicht mehr nachvollziehbar
 
- „Die Welt des Darknets“ // 14 TN
+– „Die Welt des Darknets“ // 14 TN
 
- „Einführung in die verschiedenen Erscheinungsformen der Computerkriminali-
+– „Einführung in die verschiedenen Erscheinungsformen der Computerkriminali-
 
 tät“ // 28 TN
 
 2017:
 
- Internetkriminalität für Assessoren // 14 TN
+– Internetkriminalität für Assessoren // 14 TN
 
- Tagung der DRA 8b/2017 „Ermittlungsmaßnahmen im Bereich der Telekommuni-
+– Tagung der DRA 8b/2017 „Ermittlungsmaßnahmen im Bereich der Telekommuni-
 
 kation“, 05.03. – 10.03.2017 // 2 TN
 
- Tagung der DRA 9c/2017 „Ausgewählte Fragen des Strafrechts und des Strafver-
+– Tagung der DRA 9c/2017 „Ausgewählte Fragen des Strafrechts und des Strafver-
 
 fahrens“, 12.03. – 18.03.2017 // 2 TN
 
- Tagung der DRA 17a/2017 „Aktuelle Entwicklungen im Strafrecht“, 28.05. –
+– Tagung der DRA 17a/2017 „Aktuelle Entwicklungen im Strafrecht“, 28.05. –
 
 02.06.2017 // 1 TN
 
- Tagung der DRA 23d/2017 „Aktuelle Entwicklungen in Kriminalistik und Straf-
+– Tagung der DRA 23d/2017 „Aktuelle Entwicklungen in Kriminalistik und Straf-
 
 rechtspflege“, 09.07. – 15.07.2017 // 3 TN
 
- Tagung der DRA 35c/2017 „Strafrecht und Internet“, 19.11. – 24.11.2017 // 2 TN
+– Tagung der DRA 35c/2017 „Strafrecht und Internet“, 19.11. – 24.11.2017 // 2 TN
 
- Tagung der DRA 36a/2017 „Erscheinungsformen der Internetkriminalität und ihre
+– Tagung der DRA 36a/2017 „Erscheinungsformen der Internetkriminalität und ihre
 
 Bekämpfung“, 04.12. – 08.12.2017 // 1 TN
 
- „Seminar zur Bekämpfung von Kinder- und Jugendpornografie im Internet“ // 2 TN
+– „Seminar zur Bekämpfung von Kinder- und Jugendpornografie im Internet“ // 2 TN
 
- „Hassrede im Internet“ // 3 TN
+– „Hassrede im Internet“ // 3 TN
 
 2018:
 
- Ermittlung in digitalen Medien // 19 TN
+– Ermittlung in digitalen Medien // 19 TN
 
- Tagung der DRA 1b/2018 „Aktuelle Entwicklungen im Strafrecht“ vom 14.01. –
+– Tagung der DRA 1b/2018 „Aktuelle Entwicklungen im Strafrecht“ vom 14.01. –
 
 19.01.2018 // 2 TN
 
- Tagung der DRA 9b/2018 „Ermittlungsmaßnahmen im Bereich der Telekommuni-
+– Tagung der DRA 9b/2018 „Ermittlungsmaßnahmen im Bereich der Telekommuni-
 
 kation“, 18.03. – 23.03.2018 // 2 TN
 
- Tagung der DRA 17d/2018 „Beweisgewinnung und Beweisverwertung bei Ermitt-
+– Tagung der DRA 17d/2018 „Beweisgewinnung und Beweisverwertung bei Ermitt-
 
 lungen im Internet („e-evidence“), 14.05. – 17.05.2018 // kein TN
 
- Tagung der DRA 19d/2018 „Aktuelle Entwicklungen in Kriminalistik und Straf-
+– Tagung der DRA 19d/2018 „Aktuelle Entwicklungen in Kriminalistik und Straf-
 
 rechtspflege“, 27.05. – 02.06.2018 // 1 TN
 
- Tagung der DRA 22b/2018 „Strafrecht und Internet“, 19.08. – 24.08.2018 // 2 TN
+– Tagung der DRA 22b/2018 „Strafrecht und Internet“, 19.08. – 24.08.2018 // 2 TN
 
- Tagung der DRA 26b/2018 „Grundlagen des Wirtschaftsstrafrechts (2)“, 16.09. –
+– Tagung der DRA 26b/2018 „Grundlagen des Wirtschaftsstrafrechts (2)“, 16.09. –
 
 21.09.2018 // 3 TN
 
- Tagung der DRA 31a/2018 „Internationale Zusammenarbeit in strafrechtlichen
+– Tagung der DRA 31a/2018 „Internationale Zusammenarbeit in strafrechtlichen
 
 Angelegenheiten“, 22.10. – 26.10.2018 // 2 TN
 
- „Seminar zur Bekämpfung von Kinderpornografie“ // 3 TN
+– „Seminar zur Bekämpfung von Kinderpornografie“ // 3 TN
 
- „Computer- und Internetdelikte“ – ZOK Celle // 1 TN
+– „Computer- und Internetdelikte“ – ZOK Celle // 1 TN
 
 Darüber hinaus sind in der Abteilung 74 der Staatsanwaltschaft Veranstaltungen im Zusammenhang mit der Bekämpfung der Kinderpornografie durch den Verein Dunkelziffer e.V. sowie die folgenden Weiterbildungen in Erinnerung:
 
- 2015 und 2016 hat das Landeskriminalamt 54 Workshops aus dem Bereich Cyber-
+– 2015 und 2016 hat das Landeskriminalamt 54 Workshops aus dem Bereich Cyber-
 
 crime angeboten, die von der überwiegenden Zahl der Dezernentinnen und Dezernenten der Staatsanwaltschaft besucht wurden.
 
- 2016 hat die Abteilung 74 der Staatsanwaltschaft in Kooperation mit dem Landes-
+– 2016 hat die Abteilung 74 der Staatsanwaltschaft in Kooperation mit dem Landes-
 
 kriminalamt 541 vier Workshops zu verschiedenen Themen aus dem Bereich Cybercrime und Ähnliches angeboten // etwa 100 TN.
 
- 2018 waren 13 Mitarbeiter/-innen der Staatsanwaltschaft zu einem Vortrag beim
+– 2018 waren 13 Mitarbeiter/-innen der Staatsanwaltschaft zu einem Vortrag beim
 
 Landeskriminalamt 541 zum Thema „Erfolgreich Handeln im Darknet“ angemeldet.
 
 Schließlich nimmt die Leitung der Abteilung 74 der Staatsanwaltschaft teil an den jährlichen
 
- Arbeitstreffen der Zentralstellenleiterinnen und -leiter zur Bekämpfung gewaltver-
+– Arbeitstreffen der Zentralstellenleiterinnen und -leiter zur Bekämpfung gewaltver-
 
 herrlichender, pornografischer und sonstiger jugendgefährdender Schriften sowie zur Bekämpfung der Kinderpornografie,
 
- Arbeitstreffen der IuK-Zentralstellen und IuK-Koordinatoren und
+– Arbeitstreffen der IuK-Zentralstellen und IuK-Koordinatoren und
 
- ressortübergreifenden Arbeitstagungen zu Fragen der Internet- und Computerkri-
+– ressortübergreifenden Arbeitstagungen zu Fragen der Internet- und Computerkri-
 
 minalität der ZOK Celle (mit dem Schwerpunkt auf der organisierten Kriminalität).
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8000", "21/9861"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61194"
@@ -129,7 +130,7 @@ Laut Drs. 21/9861 ist der unter Verkehrssicherheitsgesichtspunkten wichtige unun
 
 Laut Drs. 21/9861 ist es im Wallringtunnel nicht möglich, über Lautsprecher und das Aufschalten von Mitteilungen auf die Verkehrsfrequenz die Verkehrsteilnehmer direkt anzusprechen und zu informieren. Wird es nach dem Abschluss des Projektes „Wallringtunnel, Grundinstandsetzung und Nachrüstung“ möglich sein, über Lautsprecher und das Aufschalten von Mitteilungen auf die Verkehrsfrequenz die Verkehrsteilnehmer im Wallringtunnel direkt anzusprechen und zu informieren?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Der Wallringtunnel wird mit der entsprechenden Technik ausgerüstet, sodass ein UKW-Empfang innerhalb des Tunnels möglich ist und ein Einsprechen in den Verkehrsfunk sowie Informationen über Lautsprecher erfolgen können.
 

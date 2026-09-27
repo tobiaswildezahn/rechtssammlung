@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 28
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50960"
@@ -141,7 +142,7 @@ Im Zusammenhang mit dem Tod Yagmurs hat der damalige PUA mit der Empfehlung Numm
 
 Der verstorbene Tayler hat auch einen Bruder. Sind hier Misshandlungen bekannt?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung und Antwort zu 4.
 

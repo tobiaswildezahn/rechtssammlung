@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 18
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2479", "21/1838", "21/2074"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50971"
@@ -56,7 +57,7 @@ Wie viele Familiennachzugsbegehren gab es in Hamburg in den Jahren 2000 – 2015
 
 Wie viele Menschen kamen in den Jahren 2000 – 2015 jeweils tatsächlich über Familiennachzug nach Hamburg? Wenn Daten vorhanden, bitte für die Jahre 2013, 2014 und 2015 zusätzlich auch nach Herkunftsländern getrennt auflisten (nur die zehn Länder, aus denen die größten Zahlen an Familiennachzüglern kamen).
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Familiennachzugsbegehren sind durch entsprechende Visumsanträge bei den dafür nach § 71 Absatz 2 Aufenthaltsgesetz (AufenthG) zuständigen, vom Auswärtigen Amt ermächtigten Auslandsvertretungen zu betreiben.
 

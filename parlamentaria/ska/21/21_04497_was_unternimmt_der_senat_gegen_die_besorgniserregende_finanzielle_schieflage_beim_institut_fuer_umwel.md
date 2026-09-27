@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 48375
 seiten: 3
 fragen: 13
-einzelfragen: 23
-antwortbloecke: 12
+einzelfragen: 27
+antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4081", "21/1282", "20/6208", "20/14486"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52900"
@@ -123,7 +124,7 @@ Wird eine Erhöhung des Limits zur Nutzung von Liquiditätshilfen durch das HU g
 
 Wie wird im Einzelnen verhindert, dass das HU über einen längeren Zeitraum Liquiditätshilfen als strukturelles Finanzierungsinstrument in Anspruch nimmt?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Überlegungen der zuständigen Behörden hierzu sind noch nicht abgeschlossen.
 
@@ -138,25 +139,41 @@ Nein.
 ### Frage 13
 
 Mit dem Finanzbericht 2013/2014 wurde die Bürgerschaft über einen umfangreichen Sanierungsbedarf im vom HU genutzten Gebäudebestand in einer Größenordnung von rund 15 Millionen Euro informiert. Auch im Halbjahresbericht zum Haushaltsverlauf 2015 (Drs. 21/1282) wird auf die noch ausstehende „Entscheidung über die Ausführung der geplanten Sanierung des HU“ verwiesen.
-13.1. Wie hoch ist nach derzeitigen Schätzungen der Sanierungsbedarf beim HU und wie setzt er sich im Einzelnen zusammen?
-13.2. Wie wurde der im Finanzbericht 2013/2014 angegebene Sanierungsbedarf von 15 Millionen Euro ermittelt? Ist dieser Betrag als Annahme für den Sanierungsbedarf weiterhin aktuell? Wenn nein, welche Änderungen haben sich ergeben?
-13.3. Welche Planungen und Überlegungen gibt es derzeit im Einzelnen zur Durchführung und Finanzierung der Sanierung des HU?
-13.4. Wann soll eine Entscheidung über die Sanierung des HU getroffen werden? Welche Alternativen gibt es?
 
-#### Antwort zu Frage 13
+### Frage 13.1
+
+Wie hoch ist nach derzeitigen Schätzungen der Sanierungsbedarf beim HU und wie setzt er sich im Einzelnen zusammen?
+
+### Frage 13.2
+
+Wie wurde der im Finanzbericht 2013/2014 angegebene Sanierungsbedarf von 15 Millionen Euro ermittelt? Ist dieser Betrag als Annahme für den Sanierungsbedarf weiterhin aktuell? Wenn nein, welche Änderungen haben sich ergeben?
+
+### Frage 13.3
+
+Welche Planungen und Überlegungen gibt es derzeit im Einzelnen zur Durchführung und Finanzierung der Sanierung des HU?
+
+### Frage 13.4
+
+Wann soll eine Entscheidung über die Sanierung des HU getroffen werden? Welche Alternativen gibt es?
+
+#### Antwort zu Fragen 13, 13.1, 13.2, 13.3 und 13.4
 
 Die Kosten wurden auf Grundlage eigener Umbauerfahrungen ermittelt. Eine Kostenschätzung im Sinne der Drucksache „Kostenstabiles Bauen“ (Drs. 20/6208) liegt noch nicht vor.
 
 In einem Projekt werden aktuell die Grundlagen für die Entscheidung, ob eine Sanierung im Bestand, ein Neubau oder die Nutzung eines vorhandenen Gebäudes wirtschaftlicher ist, erarbeitet. Mit einer Entscheidung ist in 2017 zu rechnen. Bei der Durchführung und Finanzierung wird sich das HU an die Vorgaben der Drucksachen „Kostenstabiles Bauen“ und „Optimierung des Immobilienmanagements“ (Drs. 20/14486) halten.
 
-13.5. Wurden bereits Planungsaufträge zur Vorbereitung der Sanierung vergeben?
+### Frage 13.5
 
-Wenn ja, wann, an wen, mit welcher konkreten Leistungsbeschreibung und mit welchem Auftragsvolumen?
+Wurden bereits Planungsaufträge zur Vorbereitung der Sanierung vergeben? Wenn ja, wann, an wen, mit welcher konkreten Leistungsbeschreibung und mit welchem Auftragsvolumen?
+
+#### Antwort zu Frage 13.5
 
 Das Amt für Bauordnung und Hochbau der Behörde für Wohnen und Stadterneuerung ist mit Leistungen der Projektvorbereitung im Sinne der Drucksachen „Kostenstabiles Bauen“ und „Optimierung des Immobilienmanagements“ beauftragt worden. Auftragsgegenstände waren eine Machbarkeitsstudie zur Sanierung der Bestandsgebäude bei gleichzeitiger Optimierung der Flächennutzung, die Ermittlung des Kostenrahmens sowie eine alternative Berechnung eines Neubaus. Das Auftragsvolumen betrug einschließlich der Kosten für die Einschaltung Dritter 130.000 Euro.
 
-13.6. Welche Restriktionen ergeben sich derzeit beim HU im Einzelnen durch den vorhandenen Sanierungsbedarf? Gibt es besondere Auflagen oder lediglich zeitlich befristete Betriebsgenehmigungen für die Nutzung von Räumlichkeiten?
+### Frage 13.6
 
-Wenn ja, bitte erläutern.
+Welche Restriktionen ergeben sich derzeit beim HU im Einzelnen durch den vorhandenen Sanierungsbedarf? Gibt es besondere Auflagen oder lediglich zeitlich befristete Betriebsgenehmigungen für die Nutzung von Räumlichkeiten? Wenn ja, bitte erläutern.
+
+#### Antwort zu Frage 13.6
 
 Restriktionen, wie beispielsweise Auflagen oder zeitlich befristete Betriebsgenehmigungen, liegen nicht vor.

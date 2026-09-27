@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 26
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13034"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51772"
@@ -63,7 +64,7 @@ Welche Fachbehörde ist gegenwärtig für die Planung, den Bau und die Pflege vo
 
 Nach welchem System erfolgt die jeweilige Planung von Spielplätzen an Hamburgs Schulen? a. Wie sehen die Bewerbungs- beziehungsweise Beantragungswege für Schulen, die einen solchen Spielplatz möchten, aus? (Bitte erläutern.) b. Nach welchen Kriterien werden Entscheidungen über die Bewilligung eines Schulspielplatzes am jeweiligen Standort getroffen? c. Welche Gewichtung erfahren bei der Bewilligungsentscheidung Förderschwerpunkte an den Schulen? d. Welche Gewichtung erfahren bei der Bewilligungsentscheidung Ganztagsangebote an den Schulen? e. Welche Ausstattung ist für derartige Spielplätze vorgegeben? (Bitte besonders in Bezug auf Spielgeräte, Barrierefreiheit und sonstige Ausstattungsmerkmale erläutern.) f. Welche Ausstattung ist für derartige Spielplätze über die Vorgaben hinaus zusätzlich möglich? (Bitte besonders in Bezug auf Spielgeräte, Barrierefreiheit und sonstige Ausstattungsmerkmale erläutern.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Für die Planung, den Bau und die Unterhaltung der Schulspielplätze sind SBH | Schulbau Hamburg (SBH) und GMH | Gebäudemanagement Hamburg GmbH (GMH) zuständig, die im Rahmen von Baumaßnahmen Vorschläge erstellen und diese unter Berücksichtigung individueller Bedarfe in Abstimmung mit den Schulen umsetzen. Die Entscheidungen werden in Abhängigkeit von individuellen Bedarfen, im Einklang mit dem zur Verfügung stehenden Projektbudget und unter Beachtung der folgenden Regelwerke getroffen: Bauprüfdienst (BPD) 1/2012 „Kinderspielflächen“ (siehe www.hamburg.de/contentblob/153064/data/bpd-kinderspielflaechen.pdf), Technische Richtlinie Schulen (siehe Drs. 20/13034), DIN EN 1176 – Spielplatzgeräte und Spielplatzböden, DIN EN 1177 – Stoßdämpfende Spielplatzböden, DGUV Information 202- 063 – „Schulhöfe planen, gestalten, nutzen.“ (siehe http://publikationen.dguv.de/dguv/ pdf/10002/SI-8073.pdf).
 

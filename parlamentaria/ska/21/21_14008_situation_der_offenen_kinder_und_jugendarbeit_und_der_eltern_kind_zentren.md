@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 24
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12585", "21/5000", "21/14000", "21/13970", "21/3285"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63405"
@@ -55,7 +56,7 @@ Wie viele Einrichtungen der Offenen Kinder- und Jugendarbeit gibt es in Hamburg?
 
 Wie viele dieser Einrichtungen haben bis zu eine Stelle, bis zu zwei Stellen und mehr als zwei Stellen? Angaben bitte in VZÄ ohne Berücksichtigung der Honorarstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es gibt 240 Einrichtungen im Sinne der Fragestellung, im Übrigen siehe Anlage 1 und Vorbemerkung. 125 der Einrichtungen haben bis zu zwei Stellen, 115 zwei oder mehr Stellen. Einige Einrichtungen werden ausschließlich von ehrenamtlich Tätigen betrieben.
 
@@ -118,7 +119,7 @@ Der Senat hat in den letzten Wochen zusätzliche Mittel für den Haushalt und di
 
 Wenn es Umsetzungen von solchen Planungen gibt: In welchen Stadtteilen beziehungsweise an welchen Standorten werden Mittel in welcher Höhe zur Verfügung gestellt und in welchem Aufgabenbereich und welcher Produktgruppe sind die Mittel zu finden?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Antwort zu 4. bis 6. Im Übrigen sind die Planungen noch nicht abgeschlossen.
 

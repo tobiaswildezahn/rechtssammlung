@@ -14,6 +14,7 @@ fragen: 21
 einzelfragen: 25
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/537", "21/4088", "21/361"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53041"
@@ -208,7 +209,7 @@ An welchen Schulen mussten danach in welchen Fächern Aufgabenstellungen aufgrun
 
 Welche Prüfungsfächer und welche prüfungsrelevanten Kompetenzen beziehungsweise auch konkreten Inhalte waren hiervon an welchen Schulen betroffen und ist auszumachen, inwieweit es sich um Kompetenzen handelt, die erst im Verlauf der zehnten Klasse oder aber schon vorher (wann genau laut Rahmenplan) in prüfungstauglicher Form hätten vermittelt werden müssen?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Entfällt.
 
@@ -228,7 +229,7 @@ Zu welchem Zeitpunkt werden die MSA-Prüfungsfragen den Schulen auf welchem Wege
 
 Gilt Vorgenanntes gleichermaßen für alle Prüfungsfächer oder weichen die Modalitäten in den Fächern Deutsch, Mathematik und 1. Fremdsprache (Englisch) voneinander ab und wenn ja, inwiefern?
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Zum Zeitpunkt und zum Weg der Lieferung der Prüfungsaufgaben an die Schulen siehe Drs. 21/537. Die Prüflinge erhalten in Deutsch, Englisch und Mathematik jeweils einen zu bearbeitenden Aufgabensatz, die Schule trifft keine Auswahl.
 

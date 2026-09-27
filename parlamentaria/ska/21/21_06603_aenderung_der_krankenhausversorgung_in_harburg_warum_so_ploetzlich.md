@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 21
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55157"
@@ -194,61 +195,61 @@ Welche Hamburger Plankrankenhäuser verfügen über eine Notaufnahme und welche 
 
 Von den Hamburger Plankrankenhäusern nehmen uneingeschränkt an der Not- und Unfallversorgung teil:
 
- Agaplesion Diakonieklinikum Hamburg
+– Agaplesion Diakonieklinikum Hamburg
 
- Albertinen-Krankenhaus
+– Albertinen-Krankenhaus
 
- Altonaer Kinderkrankenhaus
+– Altonaer Kinderkrankenhaus
 
- Asklepios Kliniken St. Georg, Barmbek, Altona, Harburg, Nord, Wandsbek Westkli-
+– Asklepios Kliniken St. Georg, Barmbek, Altona, Harburg, Nord, Wandsbek Westkli-
 
 nikum
 
- Bethesda Krankenhaus Bergedorf
+– Bethesda Krankenhaus Bergedorf
 
- Bundeswehrkrankenhaus Hamburg
+– Bundeswehrkrankenhaus Hamburg
 
- Ev. Amalie-Sieveking-Krankenhaus
+– Ev. Amalie-Sieveking-Krankenhaus
 
- HELIOS Mariahilf Klinik Hamburg
+– HELIOS Mariahilf Klinik Hamburg
 
- Kath. Kinderkrankenhaus Wilhelmstift
+– Kath. Kinderkrankenhaus Wilhelmstift
 
- Katholisches Marienkrankenhaus
+– Katholisches Marienkrankenhaus
 
- Schön Klinik Hamburg Eilbek
+– Schön Klinik Hamburg Eilbek
 
- Universitätsklinikum Hamburg-Eppendorf
+– Universitätsklinikum Hamburg-Eppendorf
 
- Wilhelmsburger Krankenhaus „Groß Sand“
+– Wilhelmsburger Krankenhaus „Groß Sand“
 
 Eingeschränkt nehmen an der Not- und Unfallversorgung teil:
 
- BG Klinikum Hamburg (chirurgische Notfälle).
+– BG Klinikum Hamburg (chirurgische Notfälle).
 
- Universitäres Herzzentrum GmbH (kardiologische und kardiochirurgische Notfälle)
+– Universitäres Herzzentrum GmbH (kardiologische und kardiochirurgische Notfälle)
 
 Folgende Plankrankenhäuser auf Hamburger Stadtgebiet nehmen nicht an der Notund Unfallversorgung teil:
 
- Ev. Krankenhaus Alsterdorf
+– Ev. Krankenhaus Alsterdorf
 
- Facharztklinik Hamburg
+– Facharztklinik Hamburg
 
- HELIOS Endo-Klinik Hamburg
+– HELIOS Endo-Klinik Hamburg
 
- Israelitisches Krankenhaus
+– Israelitisches Krankenhaus
 
- Klinik Dr. Guth
+– Klinik Dr. Guth
 
- Klinik Fleetinsel Hamburg
+– Klinik Fleetinsel Hamburg
 
- Krankenhaus Jerusalem
+– Krankenhaus Jerusalem
 
- Krankenhaus Tabea
+– Krankenhaus Tabea
 
- Praxisklinik Bergedorf
+– Praxisklinik Bergedorf
 
- Stadtteilklinik Hamburg
+– Stadtteilklinik Hamburg
 
 ### Frage 19
 

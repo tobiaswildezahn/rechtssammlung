@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66133"
@@ -43,7 +44,7 @@ Liegen dem LKA schon erste Ermittlungsergebnisse vor?
 
 Gibt es schon einen Kreis von Verdächtigen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Unbekannte Täter haben die Eingangstür der Kirche mit einem grünen Hakenkreuz- Graffiti beschmiert; dieses erstreckte sich großflächig über beide Türflügel des Eingangsbereichs. Die Polizei geht von einer politisch motivierten Tat aus. Die Ermittlungen sind noch nicht abgeschlossen. In ständiger Praxis sieht die Polizei daher von weiteren Angaben ab, um den Ermittlungserfolg nicht zu gefährden.
 

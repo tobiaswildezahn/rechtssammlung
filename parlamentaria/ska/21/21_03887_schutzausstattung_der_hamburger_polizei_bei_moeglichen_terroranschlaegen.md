@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2590", "21/2303"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52261"
@@ -88,7 +89,7 @@ Gibt es Planungen des Senats beziehungsweise der zuständigen Behörde, um vorha
 
 Die Polizei verfügt über keine zusätzlichen finanziellen Mittel für die Beschaffung von verbesserter Schutzausstattung. Ist durch den Senat beziehungsweise die zuständige Behörde geplant, der Polizei zusätzliche finanzielle Mittel zur Verfügung zu stellen? Wenn ja, auf wie viel würden sie sich belaufen, wenn nein, muss die Polizei diese Mittel aus eigenen Haushaltsmitteln bewältigen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 

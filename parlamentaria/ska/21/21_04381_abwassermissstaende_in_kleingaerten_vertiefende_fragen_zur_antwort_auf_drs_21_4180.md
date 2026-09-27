@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 23
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4180", "20/5685", "21/3932"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52808"
@@ -62,7 +63,7 @@ Laut Antwort auf Frage 4. meiner vorgenannten SKA (Drs. 21/4180) finden die Kont
 
 Wie viele Kleingartenvereine sind von diesen Hinweisen betroffen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Hinweise werden nicht gesondert erfasst, sondern nur die durchgeführten Kontrollen.
 

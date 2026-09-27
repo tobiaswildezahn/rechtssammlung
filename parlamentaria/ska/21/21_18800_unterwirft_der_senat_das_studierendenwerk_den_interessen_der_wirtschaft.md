@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 27
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18515", "21/18514", "21/18558", "21/17583"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68479"
@@ -125,7 +126,7 @@ Wer könnte gegebenenfalls eine Überprüfung dieser Frage seitens der Europäis
 
 Welche Risiken bestehen konkret für die FHH und das Studierendenwerk, falls es sich um „eine den Wettbewerb verfälschende und mit dem Binnenmarkt unvereinbare staatliche Beihilfe“ handeln würde?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Von der Beantwortung hypothetischer Fragen sieht der Senat ab.
 

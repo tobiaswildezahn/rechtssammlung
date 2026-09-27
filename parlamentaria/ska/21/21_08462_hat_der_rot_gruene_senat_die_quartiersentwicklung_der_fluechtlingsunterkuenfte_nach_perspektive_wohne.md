@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 9
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838", "21/6666", "21/7529", "21/7486", "21/8403", "21/5231"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57171"
@@ -65,7 +66,7 @@ Welche Standorte der Flüchtlingsunterkünfte nach „Perspektive Wohnen“ werd
 
 Welche Standorte der Flüchtlingsunterkünfte nach „Perspektive Wohnen“ werden nach dem Jahr 2017 den Betrieb aufnehmen? Bitte zusätzlich an dieser Stelle mit angeben, wie viele Wohnungen in den Quartieren insgesamt entstehen werden, wie viele davon als öffentlichrechtliche Unterkunft nach „Perspektive Wohnen“ gelten, wie viele als Sozialwohnungen deklariert werden und wie viele in die freie Vermietung gehen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 An mehreren Standorten werden neben den Flüchtlingsunterkünften mit der Perspektive Wohnen auf Grundlage von Bebauungsplänen Wohnungen errichtet, die von Anfang an verschiedenen Zielgruppen zur Verfügung stehen. Die genauen Anteile stehen noch nicht fest.
 

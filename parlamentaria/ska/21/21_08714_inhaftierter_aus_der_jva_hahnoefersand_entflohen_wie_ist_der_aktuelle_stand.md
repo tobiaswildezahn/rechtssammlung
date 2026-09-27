@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8712"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57452"
@@ -51,7 +52,7 @@ Wie konnte der Inhaftierte bereits am 30. März 2017 unbemerkt flüchten (bitte 
 
 Ab welchem Zeitpunkt und durch wen wurde bemerkt, dass sich der Inhaftierte nicht mehr in der JVA Hahnöfersand befand?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Staatsangehörigkeit von S. ist ungeklärt. Im Übrigen siehe Drs. 21/8712.
 

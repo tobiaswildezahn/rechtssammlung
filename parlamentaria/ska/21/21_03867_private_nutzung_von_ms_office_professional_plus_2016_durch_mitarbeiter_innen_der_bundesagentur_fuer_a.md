@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52232"
@@ -67,7 +68,7 @@ Welche Kosten entstehen der Stadt Hamburg durch den privaten Lizenzerwerb der Ha
 
 Welche Kosten entstehen Jobcenter team.arbeit.hamburg, Agentur für Arbeit oder der Bundesagentur für Arbeit durch den privaten Lizenzerwerb der Nutzer/-innen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Keine.
 

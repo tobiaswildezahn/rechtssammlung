@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63857"
@@ -43,7 +44,7 @@ Wie viele Ertrinkungsfälle haben sich bisher im laufenden Jahr in Hamburger Gew
 
 Wie viele Ertrinkungsfälle haben sich in den Jahren seit 2011 in Hamburger Gewässern ereignet? (Bitte jahresweise und nach Gewässerarten aufschlüsseln sowie die Verteilung nach Geschlecht und Altersklassen angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Statistiken im Sinne der Fragestellungen werden nicht geführt.
 

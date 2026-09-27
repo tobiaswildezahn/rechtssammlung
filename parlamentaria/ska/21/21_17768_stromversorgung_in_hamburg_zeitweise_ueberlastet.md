@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67372"
@@ -87,7 +88,7 @@ Wer trägt diese Kosten?
 
 Werden diese Ausfallkosten auf alle Stromverbraucher umgelegt? Oder werden diese Kosten durch einzelne Versorger auf ihre Kunden umgelegt? Gibt es staatliche Entschädigungen? Falls ja, bitte aufgliedern nach Hamburg und Bund.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Kosten für abschaltbare Lasten werden gemäß § 18 AbLaV bundesweit über einen Wälzungsmechanismus ausgeglichen.
 

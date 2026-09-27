@@ -14,6 +14,7 @@ fragen: 27
 einzelfragen: 32
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/142", "20/11503", "20/142", "20/3641", "20/10803"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48375"
@@ -60,7 +61,7 @@ Welche Klassenfrequenzen sind für Vorschulklassen nach Auffassung der Schulbeh�
 
 Ab welcher Klassenfrequenz kann ein Kind, wie in der Senatsantwort in Drs. 21/142 ausgeführt, „aus Kapazitätsgründen nicht in einer gewünschten Vorschule angenommen werden“?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Eine gesetzlich festgeschriebene Klassenfrequenz gibt es für Vorschulklassen im Gegensatz zu den ersten Klassen (§ 87 Absatz 1 Hamburgisches Schulgesetz (HmbSG)) nicht. Es gibt Zielwerte, die unter dem Organisationsvorbehalt der zuständigen Behörde stehen (§ 14 Absatz 2 HmbSG). In Schulen mit Sozialindex 1 bis 2 soll die Zahl von 19 Kindern je Vorschulklasse möglichst nicht überschritten werden, in Schulen mit Indexwert 3 bis 6 sollen möglichst nicht mehr als 23 Kinder je Klasse beschult werden. Die Richtwerte können im Einzelfall überschritten werden, siehe auch Drs. 21/142.
 
@@ -108,7 +109,7 @@ Wie erklärt sich und lässt sich nach Ansicht der Schulbehörde vertreten, dass
 
 Wie begründet die Schulbehörde, dass an sehr gut frequentierten Vorschulstandorten die bisherige Zügigkeit reduziert und dabei zugleich ein deutliches Anwachsen der Klassenfrequenzen in Kauf genommen wird?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Antwort zu 6. Die drei Schulen haben einen Sozialindex von 3 beziehungsweise
 4.
@@ -121,7 +122,7 @@ Nachdem nunmehr die – ausweislich der Information in der Senatsantwort zu Drs.
 
 Um welche Förderbedarfe handelt es sich dabei?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Im Bezirk Altona sind weniger als fünf Kinder in Vorschulklassen an zwei Standorten angemeldet und angenommen worden. Aus Datenschutzgründen können keine Angaben zu Beschulungsort und Förderbedarf gemacht werden, da eine Identifizierung einzelner Schülerinnen und Schüler nicht ausgeschlossen werden kann.
 
@@ -206,7 +207,7 @@ Wie viele Kinder mit Sprachförderbedarf wurden im Schuljahr 2014/2015 an den ei
 
 Welcher Sprachförderbedarf bestand danach im Schuljahr 2014/2015 an den einzelnen (Vor-)Schulen und welche zusätzlichen Ressourcen standen dafür zur Verfügung (in Abgrenzung zu den Inklusions- und den oben genannten „anderen“ Ressourcen)? Waren diese Ressourcen schul- oder einzelfallbezogen?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Schülerinnen und Schüler mit additiver Sprachförderung nach § 28 a HmbSG in Vorschulklassen an staatlichen Schulen im Bezirk Altona im Schuljahr 2014/2015:
 
@@ -326,7 +327,7 @@ Wie viele Kinder mit Sprachförderbedarf sind für das Schuljahr 2015/ 2016 an d
 
 Welcher Sprachförderbedarf steht danach bereits zum jetzigen Zeitpunkt für das Vorschuljahr und 2015/16 an den einzelnen Schulen fest und welche Ressourcen werden dafür zur Verfügung gestellt? Sind diese Ressourcen schul- oder einzelfallbezogen?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Zum Stichtag 11. Februar 2015 wurden 252 Kinder mit Sprachförderbedarf nach § 28 a HmbSG von den Schulen im Bezirk Altona gemeldet.
 
@@ -419,7 +420,7 @@ Wann und vom wem werden für diejenigen Kinder Förderpläne erstellt, bei denen
 
 Bei wie vielen Kindern ist im Bezirk Altona bei der 4,5-jährigen Untersuchung in den Jahren 2013 und 2014 eine Entwicklungsverzögerung oder ein sonderpädagogischer Förderbedarf festgestellt worden und in welchem Verhältnis stehen diese Zahlen zu den tatsächlich angemeldeten Förderbedarfen an den jeweiligen (Vor-)Schulen?
 
-#### Antwort zu Fragen 25 bis 26
+#### Antwort zu Fragen 25 und 26
 
 Bei vermutetem Förderbedarf im Vorstellungsverfahren für Viereinhalbjährige wird die Überprüfung des Förderbedarfs durch die Regionalen Bildungs- und Beratungszentren oder eine spezielle Sonderschule eingeleitet. Zu den Kindern mit Förderbedarfen nach § 28 a HmbSG und diagnostizierten Förderbedarfen in Vorschulklassen der Jahre 2013 und 2014 siehe nachfolgende Tabellen.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48964"
@@ -91,7 +92,7 @@ Wird bei zugeführten Minderjährigen eine Alterseinschätzung durchgeführt, ob
 
 Auf welcher Rechtsgrundlage wird ein/e Minderjährige/r beim KJND (vorläufig) in Obhut genommen, obwohl ein Verwandte/r in Hamburg ist und die Sorge für den/die Minderjährige/n übernehmen möchte?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Eine Alterseinschätzung kommt nur in Betracht, wenn eine Inobhutnahme erfolgen soll und es Zweifel daran gibt, dass das Kind beziehungsweise der Jugendliche das
 18. Lebensjahr noch nicht vollendet hat.

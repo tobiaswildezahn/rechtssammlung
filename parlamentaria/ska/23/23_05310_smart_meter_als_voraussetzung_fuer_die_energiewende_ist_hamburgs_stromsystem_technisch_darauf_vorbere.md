@@ -8,12 +8,13 @@ datum_anfrage: "2026-09-10"
 datum_drucksache: "2026-09-18"
 urheber: ["Markus Kranig", "Sandro Kappe"]
 fraktionen: ["CDU"]
-vorgang: null
+vorgang: 89162
 seiten: 8
 fragen: 21
 einzelfragen: 34
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["23/3143"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105214"

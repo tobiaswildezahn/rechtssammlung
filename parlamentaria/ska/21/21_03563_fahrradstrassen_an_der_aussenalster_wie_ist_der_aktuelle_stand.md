@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51932"
@@ -67,7 +68,7 @@ Welche Folgen sind aus Sicht des Senats beziehungsweise der zuständigen Behörd
 
 Erwarten der Senat beziehungsweise die zuständige Behörden, dass sich im Falle der Umwandlung der oben aufgeführten Straßen in Fahrradstraßen Verkehrsaufkommen in andere Straßen verlagern? Wenn ja, in welche? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Eine Umwandlung des Straßenzuges Krugkoppel – Fernsicht ist nicht geplant.
 

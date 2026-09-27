@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12051"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67549"
@@ -107,7 +108,7 @@ War die hohe Auslastung des Freibades Rahlstedt am Wiesenredder auch der Grund, 
 
 Welche zusätzlichen Angebote konnte man durch den Bau des Hallenbades an der Rahlstedter Bahnhofstraße 52 für die Sportvereine und Schulen zur Verfügung stellen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Das Hallenbad wurde im Jahr 1972 eröffnet. In dieser Zeit wurden in Hamburg mehrere Hallenbäder gebaut. Hintergrund war die strategische Umorientierung hin zu ganzjährig nutzbaren Wasserflächen.
 
@@ -121,7 +122,7 @@ Warum gibt es unter anderem im Stadtteil Farmsen zusätzliche Flächen für Schw
 
 Werden bei Wegfall der Flächen für Schwimmangebote zum Beispiel im Berufsförderungswerk die Schwimmangebote auf das Hallenbad Rahlstedt Rahlstedter Bahnhofstraße 52 verlagert? Wenn ja, gibt es im Hallenbad Rahlstedt noch frei Kapazitäten? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Mit der vorgesehenen Veräußerung der seitens des Berufsförderungswerkes (BFW) nicht mehr wirtschaftlich zu nutzenden Immobilie am Marie-Bautz-Weg entfällt das dort bisher auch Vereinen und anderen Interessengruppen zugängliche Schwimmund Bewegungsbad. Bei der städtebaulichen Überplanung des Stadtteils Farmsen- Berne beabsichtigt das zuständige Bezirksamt in enger Abstimmung mit dem Investor als Ersatz die Errichtung eines Lehrschwimmbeckens (LSB), welches sowohl die bisherigen Nutzungen ermöglicht, als auch weiteren Vereinen und Interessengruppen die Gelegenheit gibt, Schwimmangebote zu unterbreiten. Das LSB stellt damit einen Teil der sozialen Infrastrukturangebote im Sozialraum Farmsen dar. Ein Zusammenhang mit dem Hallenbad Rahlstedt oder dem Naturschwimmbad Farmsen besteht aus Sicht des zuständigen Bezirksamtes nicht. So soll das LSB – wie vergleichbare Einrichtungen dieser Art und wie schon bisher das Schwimmbad des BFW – nicht der individuellen Nutzung von Bürgern gegen Eintrittsgeld zugänglich sein. Geplant ist eine Trägerschaft, zum Beispiel durch einen Verein, der dann Interessengruppen die Nutzung ermöglicht. Darüber hinaus ist ein Naturschwimmbad wie das Strandbad Farmsen nur im Sommer zugänglich, da es sich um eine Badeanstalt am See handelt. Außerdem eignen sich Naturgewässer weder für den Schwimmunterricht noch für Reha-Sport oder vergleichbare Aktivitäten, die in einem LSB stattfinden.
 

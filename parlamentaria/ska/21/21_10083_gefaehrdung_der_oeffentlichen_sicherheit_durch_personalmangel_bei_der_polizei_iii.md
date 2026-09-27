@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10009", "21/4777", "21/6204", "21/3223"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58907"
@@ -91,19 +92,19 @@ c. Welche konkreten Umsteuerungen innerhalb der Polizeiorganisation sind seit Ju
 
 Siehe Vorbemerkung. Darüber hinaus hat die Polizei weitere Maßnahmen zur Stärkung des Polizeivollzuges ergriffen, hierzu zählen insbesondere:
 
- Einstellung von jeweils 25 Angestellten im Polizeidienst in den Jahren 2016 und
+– Einstellung von jeweils 25 Angestellten im Polizeidienst in den Jahren 2016 und
 
 2017 über den Ersatzbedarf für Fluktuation hinaus; im Jahr 2017 hat die Polizei bereits drei Lehrgänge eingestellt.
 
- Abschluss der Übertragung des Betriebs von stationären Geschwindigkeits- und
+– Abschluss der Übertragung des Betriebs von stationären Geschwindigkeits- und
 
 Rotlichtüberwachungsanlagen sowie die Auswertung der Vorgänge sämtlicher Geschwindigkeits- und Rotlichtüberwachungsanlagen von der Verkehrsdirektion an den Landesbetrieb Verkehr im Juni 2017. Das hierfür bisher eingesetzte Personal kann andere Aufgaben der Polizei wahrnehmen.
 
- Prüfung, ob durch den Einsatz von Verwaltungskräften in bestimmten Funktionen/
+– Prüfung, ob durch den Einsatz von Verwaltungskräften in bestimmten Funktionen/
 
 Aufgabenbereichen Polizeivollzugsbeamte für Vollzugsaufgaben freigesetzt werden können. Im Wesentlichen geht es dabei um Nachbesetzungen von Funktionen, in denen Polizeivollzugsbedienstete in den Ruhestand treten, mit anderen Berufsgruppen, soweit eine Funktion dies zulässt. Bis zum Jahr 2021 sollen auf diese Weise insgesamt 125 Stellen für originäre Vollzugsaufgaben aktiviert werden. Für erste Funktionen ist eine Nachbesetzung aus dem Polizeivollzug bereits nicht mehr erfolgt.
 
- Angebot seit Juni 2016 für Angehörige der Dienstzweige Schutz-, Wasserschutz-
+– Angebot seit Juni 2016 für Angehörige der Dienstzweige Schutz-, Wasserschutz-
 
 und Kriminalpolizei, ihre Dienstzeit auf freiwilliger Basis zu verlängern. Siehe auch Antwort zu 4.
 

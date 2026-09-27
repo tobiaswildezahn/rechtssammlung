@@ -13,9 +13,10 @@ seiten: 1
 fragen: 0
 einzelfragen: 0
 antwortbloecke: 0
-beantwortet: true
+beantwortet: false
+status: "zurückgezogen"
 zitierte_drucksachen: []
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/71898"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/71898/22_00770_kosten_fuer_kita_plaetze_2019"
 abgerufen: "2026-09-25"
@@ -24,11 +25,9 @@ generator: "ska_archiv 1.0"
 
 # Drs. 22/770: Kosten für Kita-Plätze 2019
 
-> Schriftliche Kleine Anfrage der Abgeordneten Thomas Reich und Olga Petersen (AfD) vom 09.07.20 und Antwort des Senats · Drucksache vom 09.07.2020  
+> Schriftliche Kleine Anfrage der Abgeordneten Thomas Reich und Olga Petersen (AfD) vom 09.07.20 · zurückgezogen · Drucksache vom 09.07.2020  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/71898) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/71898/22_00770_kosten_fuer_kita_plaetze_2019)
 
-## Volltext
-
-Kosten für Kita-Plätze 2019
+## Hinweis
 
 Die Anfrage wurde zurückgezogen.

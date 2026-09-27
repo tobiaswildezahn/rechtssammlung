@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 8
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12880", "20/13034", "20/12856", "20/13004"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48187"
@@ -51,6 +52,6 @@ Wie viele Quadratmeter „nutzbare Außenfläche“ pro Schüler hält der Senat
 
 Welche „nutzbare Außenfläche“ pro Schüler legt der Senat seit August 2014 bis heute bei der Planung von Neu- oder Erweiterungsbauten auf Schulgrundstücken oder bei dem Verkauf von Schulflächen oder schulisch genutzten Flächen zugrunde? Wird das Musterflächenprogramm von 2011 zurzeit noch angewandt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Das Musterflächenprogramm gilt, es wird aber nicht für die Außenflächenplanung eingesetzt, siehe Drs 20/12856. Da die Möglichkeiten zur Grundstückerweiterung bei Neuplanungen häufig begrenzt sind, wird im Einzelfall nach den Nutzungsmöglichkeiten der zur Verfügung stehenden Freiflächen und den notwendigen Baumaßnahmen entschieden, was vertretbar erscheint. Bei Grundstücksabgaben muss die schulische Nutzung gewährleistet bleiben. Im Übrigen siehe auch Drs. 20/13004.

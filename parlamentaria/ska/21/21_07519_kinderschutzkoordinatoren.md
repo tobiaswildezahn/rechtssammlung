@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56128"
@@ -58,7 +59,7 @@ Von wem kamen diese Anfragen? Bitte jeweils pro Bezirk aufschlüsseln, mindesten
 - Polizei
 - Weitere
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Anfragen an die Kinderschutzkoordinatoren werden in JUS-IT statistisch nicht erfasst. Die händische Auswertung mehrerer Hundert Anfragen der Jahre 2015 und 2016 an die Kinderschutzkoordinator/-innen ist in der zur Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

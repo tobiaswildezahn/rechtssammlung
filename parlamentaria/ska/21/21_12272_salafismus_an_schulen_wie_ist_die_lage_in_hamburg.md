@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5043", "21/8117", "21/10720", "21/11722", "21/5711", "21/6646", "21/8105", "21/9440", "21/11759", "21/8162", "21/10592", "21/5039", "21/5331", "21/11627", "21/12086"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61545"
@@ -93,7 +94,7 @@ Wie wird sichergestellt, dass Lehrkräfte an Hamburger Schulen eine etwaige Hinw
 
 Werden Weiterbildungen zum Thema Salafismus angeboten? Falls ja, an welchen Schulen und ist die Teilnahme wahlfrei beziehungsweise verbindlich?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Zu den Unterstützungsangeboten für die Schulen siehe Drs. 21/10592.
 
@@ -117,6 +118,6 @@ Sind dem Senat Fälle bekannt, bei denen ganze Schülerfamilien als streng relig
 
 Wie können Schulen in solchen Fällen reagieren? Sind Elterngespräche vorgesehen oder wird auch die Schulbehörde benachrichtigt?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe hierzu die Drs. 21/10720 und Drs. 21/12086.

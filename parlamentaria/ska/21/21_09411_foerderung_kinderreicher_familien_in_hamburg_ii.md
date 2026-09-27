@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7739"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58174"
@@ -99,6 +100,6 @@ Gibt es für Familien, die nach der Einkommenssituation für das jüngste Kind d
 
 Gibt es für die 20-Prozent-Regelung für Familien mit über sechs Personen eine Untergrenze?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/7739. Die nach dem Bildungs- und Teilhabegesetz anspruchsberechtigten Kinder können für einen den Sommerferien entsprechenden Zeitraum von sechs Wochen eine gebührenfreie Ferienbetreuung in Anspruch nehmen. Im Übrigen: nein.

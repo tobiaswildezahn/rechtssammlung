@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61123"
@@ -43,7 +44,7 @@ Weswegen befand sich der Mazedonier zur Tatzeit in Deutschland und aufgrund welc
 
 Wie ist sein aufenthaltsrechtlicher Status?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Aufgrund eines Antrags auf Verlängerung einer Aufenthaltserlaubnis zum Nachzug zu seinem deutschen Kind gilt die bisherige Aufenthaltserlaubnis gemäß § 81 Absatz 4 Aufenthaltsgesetz (AufenthG) als fortbestehend, auch wenn wegen der Inhaftierung die letzte Bescheinigung nach § 81 Absatz 5 AufenthG am 21. August 2017 abgelaufen ist.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/1053"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56443"
@@ -53,7 +54,7 @@ Wie häufig hat die Vorführungsabteilung in den vergangenen zwölf Monaten den 
 
 Um welche „ausgebuchten“ Kalendertage innerhalb dieses Zeitraumes handelt es sich?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Monat  
 Kalendertag  

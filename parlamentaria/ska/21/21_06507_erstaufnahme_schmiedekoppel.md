@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 16
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4730", "21/5635"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55039"
@@ -157,7 +158,7 @@ Aus Anlage 4 der Drs. 21/5635 ist ersichtlich, dass bereits zwischen Februar und
 
 Wurde die leer stehende Unterkunft bewacht? Wenn ja, mit welchem Personaleinsatz und aus welchem Grund? Wenn nein, warum sind Kosten in Höhe von rund 277.000 Euro entstanden?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Der durchschnittliche Personaleinsatz von Februar bis Juni 2016:
 

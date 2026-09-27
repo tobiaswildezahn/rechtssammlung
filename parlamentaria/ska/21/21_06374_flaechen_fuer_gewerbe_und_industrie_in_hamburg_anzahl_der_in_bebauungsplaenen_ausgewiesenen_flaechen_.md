@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54911"
@@ -101,7 +102,7 @@ Wie viele der in Fragen 1. a. bis 1. j. benannten Flächen stehen im Eigentum de
 
 Wie viele der in Fragen 2. a. bis 2. j. benannten Flächen stehen im Eigentum der Freien und Hansestadt Hamburg und in welchen Bebauungsplänen in jeweils welchem Bezirk liegen diese Grundstücke?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Eine Auswertung der im Eigentum der Freien und Hansestadt Hamburg befindlichen Gewerbe- und Industrieflächen nach Bebauungsplänen ist in der für die Beantwortung einer Schriftlichen Kleinen Anfrage nicht möglich, da die elektronische Erfassung nicht auf Bebauungspläne, sondern auf eine systematische Auswertung nach Gemarkungen und Grundstücken abstellt. Für eine Auswertung im Sinne der Fragestellung hätte eine händische Einzelfallauswertung von über 380 Bebauungsplänen durchgeführt werden müssen.
 
@@ -115,7 +116,7 @@ Wie hat sich der Bestand an Flächen im Eigentum der Freien und Hansestadt im Si
 Wie hat sich der Bestand an Flächen im Eigentum der Freien und Hansestadt im Sinne der Frage 6. in den Jahren 2010 bis einschließlich dem
 3. Quartal des Jahres 2016 jeweils verändert?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 In der nachstehenden Tabelle sind die gesamten Flächenveränderungen bedingt durch Gewerbeflächenan- und -verkäufe in den Jahren 2010 bis zum Ende des
 3. Quartals 2016 dargestellt.

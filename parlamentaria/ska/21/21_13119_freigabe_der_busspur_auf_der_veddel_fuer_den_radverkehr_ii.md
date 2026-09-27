@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 25
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1752", "20/3060"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62463"
@@ -161,11 +162,11 @@ d. Gibt es Stellen, die die Polizei im Rahmen der Unfalllage für die Jahre 2015
 
 Unfallhäufungen im Sinne der Fragestellung hat die Polizei an der
 
- westlichen Zufahrt von der Zweibrückenstraße,
+– westlichen Zufahrt von der Zweibrückenstraße,
 
- östlichen Ausfahrt zum Billhorner Röhrendamm sowie der
+– östlichen Ausfahrt zum Billhorner Röhrendamm sowie der
 
- westlichen Zufahrt vom Billhorner Röhrendamm
+– westlichen Zufahrt vom Billhorner Röhrendamm
 
 registriert.
 

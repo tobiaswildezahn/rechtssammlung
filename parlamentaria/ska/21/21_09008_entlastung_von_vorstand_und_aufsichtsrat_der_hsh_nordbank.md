@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57751"
@@ -43,7 +44,7 @@ Wie werden sich der Senat beziehungsweise die zuständigen Vertreter auf der Hau
 
 Wie werden sich der Senat beziehungsweise die zuständigen Vertreter auf der Hauptversammlung der HSH Nordbank bei der Beschlussfassung über die Entlastung der im Geschäftsjahr 2016 amtierenden Aufsichtsratsmitglieder verhalten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Hauptaktionärin der HSH Nordbank AG (HSH) ist die HSH Beteiligungs Management GmbH (HoldCo). Die Geschäftsführung der HoldCo stimmt ihr Abstimmungsverhalten auf der Hauptversammlung mit der Gesellschafterversammlung der HoldCo ab.
 

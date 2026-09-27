@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14756"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64378"
@@ -55,7 +56,7 @@ Wie hoch ist die Zahl der Rentner in der Hansestadt und wie vielen stünde eine 
 
 Wie viele Hamburger Rentner (absolut und prozentual) leben seit 2013 in der Hansestadt von Grundsicherung? Bitte darstellen nach Jahren.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1. Bei der Grundsicherung handelt es sich um eine bedarfsabhängige Antragsleistung. Für die Ermittlung des Grundsicherungsbedarfes bedarf es unter anderem der Kenntnis über zur Verfügung stehendes Einkommen und Vermögen, die Höhe des individuellen Bedarfes einschließlich der Höhe der Miete, der Neben-, Heizund Wasserkosten. Dies erfordert stets eine Einzelfallprüfung. Generelle Aussagen über eventuell bestehende Grundsicherungsansprüche sind nicht möglich.
 
@@ -67,7 +68,7 @@ Wie hoch ist die durchschnittliche Höhe der Grundsicherung der Hamburger Rentne
 
 Auf welche Höhe beläuft sich der Betrag, den die Freie und Hansestadt Hamburg an Grundsicherung für ihre Rentner jährlich zahlt? Bitte aufschlüsseln nach Jahren seit 2013 bis heute.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage 2. Eine Erfassung der Ausgaben getrennt nach Grundsicherung im Alter und Grundsicherung bei Erwerbsminderung erfolgt erst seit Einführung der doppischen Haushaltsführung. Valide Zahlen über die Ausgaben für Empfängerinnen und Empfänger von Grundsicherung im Alter, unter welche die Bezieherinnen und Bezieher von Altersrente fallen, stehen daher erst ab 2016 zur Verfügung. Bis dato erfolgte eine Erfassung der Gesamtausgaben für alle Personenkreise, die Grundsicherung erhalten.
 

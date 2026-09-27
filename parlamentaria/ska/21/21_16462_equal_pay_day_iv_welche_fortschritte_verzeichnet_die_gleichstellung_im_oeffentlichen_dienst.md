@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 20
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3717", "21/8277", "21/12245"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65980"
@@ -64,7 +65,7 @@ Der Personalbericht 2018 zeigt auf, von insgesamt 24 284 Teilzeitbeschäftigten 
 
 Wie viele Personen hat die Stadt Hamburg im Jahr 2018 neu in den öffentlichen Dienst eingestellt? Bitte nach Besoldungsstufen und nach Geschlecht getrennt angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Bezahlungsgruppe  
 m  

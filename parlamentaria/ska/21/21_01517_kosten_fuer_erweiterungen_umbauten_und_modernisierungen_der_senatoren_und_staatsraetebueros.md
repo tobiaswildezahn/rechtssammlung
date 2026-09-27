@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 6
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/1854"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49725"
@@ -47,7 +48,7 @@ Welche konkreten Baumaßnahmen, Erweiterungen, räumliche Umgestaltungen, Modern
 
 Welche konkreten Baumaßnahmen, räumliche Umgestaltungen, Modernisierungen und Anschaffungen von Einrichtungsgegenständen sind für die Jahre 2015 und 2016 in welchen Senatoren- und Staatsrätebüros einschließlich den Büros der Präsidialabteilungen jeweils wann, aus welchem Grund mit welchen konkreten Kosten und zulasten welcher Haushaltstitel noch geplant? a. Welche dieser Maßnahmen erfolgen aus Sicherheitsgründen? b. Welche Stelle hat diese Sicherungsmaßnahmen jeweils wann empfohlen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage. Im Übrigen siehe Drs. 20/1854.
 

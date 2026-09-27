@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14201"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50434"
@@ -91,7 +92,7 @@ Wie bewertet der Senat die Gefahren beziehungsweise Chancen, die sich durch eine
 
 Wie bewertet der Senat die Auswirkungen einer Deregulierung des Berufszugangs für die Hamburger Wirtschaft? Wie bewertet der Senat die Auswirkungen einer Deregulierung des Berufszugangs speziell für das Hamburger Handwerk?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Eine Deregulierung des Berufszugangs ist für den Arbeitsmarkt und die Wirtschaft nicht zwangsläufig von Vorteil. Eine Deregulierung bedarf – wie eine neue Regulierung – der genauen Prüfung im Einzelfall.
 

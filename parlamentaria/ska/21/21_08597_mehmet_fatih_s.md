@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57318"
@@ -51,6 +52,6 @@ Aus welchem Grund wird der Prozess in Hamburg durchgeführt werden?
 
 Ist dem Senat bekannt, wann der Prozess beginnt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Das Verfahren wird nicht von der Staatsanwaltschaft Hamburg geführt. Beim Hanseatischen Oberlandesgericht liegt derzeit keine Anklage gegen Mehmet Fathi S. vor.

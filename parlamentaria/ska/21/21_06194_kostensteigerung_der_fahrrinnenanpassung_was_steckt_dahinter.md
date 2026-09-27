@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2368", "20/14001", "20/10595", "20/7395", "20/6208", "21/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54710"
@@ -63,19 +64,19 @@ i. aus welchen Einzelbeträgen setzen sich die Gesamtkosten zusammen (bitte gena
 
 Die Gesamtkosten des Fahrrinnenausbaus (Hamburger Anteil) setzen sich aus folgenden Einzelpositionen zusammen:
 
- Ausbaggerungen im Bereich der Hamburger Teilstrecke 102,8 Millionen Euro
+– Ausbaggerungen im Bereich der Hamburger Teilstrecke 102,8 Millionen Euro
 
- Ertüchtigung Köhlbrand-Ostufer 42,6 Millionen Euro
+– Ertüchtigung Köhlbrand-Ostufer 42,6 Millionen Euro
 
- Anpassung der Richtfeuerlinie 6,4 Millionen Euro
+– Anpassung der Richtfeuerlinie 6,4 Millionen Euro
 
- Ersatz Düker Neßsand 4,0 Millionen Euro
+– Ersatz Düker Neßsand 4,0 Millionen Euro
 
- anteilige Ausgleichs- und Ersatzmaßnahmen 18,8 Millionen Euro
+– anteilige Ausgleichs- und Ersatzmaßnahmen 18,8 Millionen Euro
 
- anteilige Schaffung von Beregnungswasser-Stauraum 14,0 Millionen Euro
+– anteilige Schaffung von Beregnungswasser-Stauraum 14,0 Millionen Euro
 
- weitere Kosten (im Wesentlichen Baukostenentwicklung) 29,9 Millionen Euro
+– weitere Kosten (im Wesentlichen Baukostenentwicklung) 29,9 Millionen Euro
 
 ii. welche Kostensteigerungen sind im Vergleich zu den Vorjahren hinzugekommen?
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9822", "21/1986", "20/13460", "21/5039", "20/9849"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58724"
@@ -72,21 +73,21 @@ Behörde für Inneres und Sport
 
 Die Polizei Hamburg ist in der Prävention in den genannten Phänomenbereichen unter anderem engagiert in
 
- Dienststelle Prävention gewaltzentrierter Ideologien des Landeskriminalamts
+– Dienststelle Prävention gewaltzentrierter Ideologien des Landeskriminalamts
 
- Hamburger Beratungsnetzwerk „Vernetzung fördern, Kompetenzen bündeln –
+– Hamburger Beratungsnetzwerk „Vernetzung fördern, Kompetenzen bündeln –
 
 Netzwerk „Prävention und Deradikalisierung“
 
- Gemeinsame Zentren des Bundesministeriums des Innern für die Phänomenberei-
+– Gemeinsame Zentren des Bundesministeriums des Innern für die Phänomenberei-
 
 che Islamismus/Terrorismus sowie Linksextremismus
 
- Bund-Länder-Arbeitsgruppen der Innenministerkonferenz zur Entwicklung von
+– Bund-Länder-Arbeitsgruppen der Innenministerkonferenz zur Entwicklung von
 
 Gesamtkonzepten zur Extremismusbekämpfung und -prävention in allen Phänomenbereichen
 
- Zusammenarbeit mit anderen Behörden, darunter Nachrichtendienste sowie Justiz.
+– Zusammenarbeit mit anderen Behörden, darunter Nachrichtendienste sowie Justiz.
 
 Das Landesamt für Verfassungsschutz Hamburg (LfV Hamburg) beobachtet verfassungsfeindliche Bestrebungen gemäß § 4 Hamburgisches Verfassungsschutzgesetz (HmbVerfSchG). Hierüber informiert das LfV Hamburg regelmäßig den Senat und die Öffentlichkeit durch den jährlichen Verfassungsschutzbericht, durch Internetbeiträge und Interviews und Pressestatements sowie durch Vorträge und Teilnahme an Diskussionsveranstaltungen. Insofern zählt die Beobachtung des Linksextremismus und des Islamismus nach wie vor zu den zentralen Aufgaben des LfV Hamburg. Auch in Einzelfällen stehen Mitarbeiter des LfV Hamburg persönlich sowie telefonisch für Beratungsgespräche, die statistisch nicht erfasst werden, zur Verfügung.
 
@@ -102,21 +103,21 @@ Sämtliche Erscheinungsformen gruppenbezogener Menschenfeindlichkeit und Demokra
 
 In den folgenden Fortbildungsveranstaltungen des LI wird auf Radikalisierungserscheinungen wie Linksextremismus unter präventiven Gesichtspunkten eingegangen:
 
- Gruppenbezogene Menschenfeindlichkeit,
+– Gruppenbezogene Menschenfeindlichkeit,
 
- Gesicht zeigen – aber wie? Ein Workshop zu den Themen Vorurteile, Diskriminie-
+– Gesicht zeigen – aber wie? Ein Workshop zu den Themen Vorurteile, Diskriminie-
 
 rung und Zivilcourage,
 
- Radikalisierung verstehen und begegnen. Rechts- und Handlungssicherheit im
+– Radikalisierung verstehen und begegnen. Rechts- und Handlungssicherheit im
 
 Schulalltag,
 
- Parolen, Provokationen, Propaganda. Pädagogische und rechtliche Intervention im
+– Parolen, Provokationen, Propaganda. Pädagogische und rechtliche Intervention im
 
 Schulalltag,
 
- Zwischen den Welten? Wie kann die Vermittlung freiheitlich-demokratischer Werte
+– Zwischen den Welten? Wie kann die Vermittlung freiheitlich-demokratischer Werte
 
 in Anbetracht aktueller politisch-gesellschaftlicher Herausforderungen gelingen?
 
@@ -154,7 +155,7 @@ Plant der Senat, insbesondere neben dem bei der Polizei bestehenden Hinweistelef
 
 Wie viele Anrufe gingen zuletzt bei den Hinweistelefonen für Rechtsextremismus ein und wie stellte sich jeweils der weitere Umgang mit den Anrufern dar? Bitte für die Jahre ab 2011 aufschlüsseln.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Für die erfragten Sachverhalte siehe Antworten zu 2. und 5. sowie insbesondere Drs. 21/1986.
 

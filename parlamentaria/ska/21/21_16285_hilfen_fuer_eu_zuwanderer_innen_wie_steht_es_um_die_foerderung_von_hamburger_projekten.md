@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16193", "21/16242"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65801"
@@ -37,14 +38,14 @@ Vor diesem Hintergrund frage ich den Senat:
 
 Ziel des Europäischen Hilfsfonds für die am stärksten benachteiligten Personen in Deutschland (EHAP) ist es, die Lebenssituation von armutsgefährdeten und von sozialer Ausgrenzung bedrohten Personen zu verbessern. Als Zielgruppen werden seitens des zuständigen Bundesministeriums für Arbeit und Soziales benannt:
 
- Besonders  
+– Besonders  
 benachteiligte  
 neuzugewanderte  
 Unionsbürger/-innen,  
 darunter  
 Eltern mit ihren Kindern im Vorschulalter bis zu sieben Jahren,
 
- Wohnungslose und von Wohnungslosigkeit bedrohte Personen.
+– Wohnungslose und von Wohnungslosigkeit bedrohte Personen.
 
 Nähere Informationen sind folgendem Link zu entnehmen: https://www.bmas.de/DE/ Themen/Soziales-Europa-und-Internationales/Europaeische-Fonds/EHAP/ehap.html.
 
@@ -64,7 +65,7 @@ Welche Hamburger Projekte, die sich an neuzugewanderte EU-Bürger/- innen richte
 
 Welche Projekte wurden seither wieder eingestellt, weil die finanzielle Förderung ausgelaufen ist? Bitte Projektname, Träger und Projektlaufzeit nennen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Projektname Träger Projekt-
 
@@ -262,7 +263,7 @@ Wie hat sich die Anzahl der Mitarbeitenden in den jeweiligen Projekten seit Begi
 
 Gibt es derzeit personelle Vakanzen in den jeweiligen Projekten?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Projektname
 

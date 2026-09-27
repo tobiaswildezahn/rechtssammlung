@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17783", "21/17880", "21/18749", "21/14041", "21/18643", "21/18688"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68508"
@@ -95,7 +96,7 @@ b) Sind der Behörde für Inneres und Sport und dem LfV bekannt, dass der Begrif
 
 Den Fragestellern ist bekannt, dass das LfV gemäß HmbVerfSchG selbstverständlich rechtsextremistische Strukturen beobachten darf sowie auch Vorfeldbeobachtungen in einem gewissen Rahmen zulässig sind. Aber schließt diese Rechtsgrundlage auch das systematische und mit hohem Personaleinsatz ausgeführte Sammeln und Auswerten von Informationen über Aktivitäten von „Rechtspopulisten“ im Internet ein – wie es vom Innensenator gegenüber dem NDR angekündigt wurde? Bitte darlegen, in welchen Grenzen, mit welchen Ressourcen und für welche Zeitdauer das HmbVerfSchG die Beobachtung sogenannter „rechtspopulistischer“ – also nicht extremistischer – Strukturen legitimiert.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der Senat äußert sich in ständiger Praxis nicht zu Medienberichten sowie zu Äußerungen von Senatsmitgliedern. Im Übrigen siehe Vorbemerkung.
 

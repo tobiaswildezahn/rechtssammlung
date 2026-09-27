@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 15
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63196"
@@ -63,7 +64,7 @@ Wie hoch sind die Eintrittspreise der staatlichen und privaten Museen und Ausste
 
 Wie hoch sind die Eintrittspreise der staatlichen und privaten Museen und Ausstellungshäuser in Hamburg für Begleitpersonen Schwerbehinderter derzeit, die in ihrem Ausweis den Vermerk „B“ vorweisen können? Bitte differenziert nach Museum auflisten.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zu den Museumsstiftungen und den Deichtorhallen siehe Anlage. Im Übrigen siehe Vorbemerkung.
 
@@ -75,7 +76,7 @@ Planen der Senat beziehungsweise die zuständigen Behörden zukünftig, die Eint
 
 Planen der Senat beziehungsweise die zuständigen Behörden zukünftig, Begleitpersonen von Schwerbehinderten von Ermäßigungen, wie etwa kostenlosen Museumsbesuchen, auszunehmen oder wurden diese bereits ausgenommen? Wenn ja, wann und in welcher Art und Weise? Wenn ja, aus welchem Grund und ab wann? Bitte differenziert nach Häusern darstellen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Deichtorhallen haben zum 1. Juni 2018 die Eintrittspreise für notwendige Begleitpersonen Schwerbehinderter auf den ermäßigten Eintrittspreis angepasst. Im Übrigen siehe Vorbemerkung.
 

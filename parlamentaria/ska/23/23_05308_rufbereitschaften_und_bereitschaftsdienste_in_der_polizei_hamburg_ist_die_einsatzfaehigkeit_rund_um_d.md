@@ -8,12 +8,13 @@ datum_anfrage: "2026-09-10"
 datum_drucksache: "2026-09-18"
 urheber: ["Dennis Gladiator"]
 fraktionen: ["CDU"]
-vorgang: null
+vorgang: 89168
 seiten: 6
 fragen: 21
 einzelfragen: 27
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["22/7853", "22/7221", "22/16670", "23/1865"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105212"

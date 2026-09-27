@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/253", "20/10482", "20/12519"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48688"
@@ -59,7 +60,7 @@ Was ist das Ergebnis der Verkehrsmodelluntersuchung „Wirtschaftlichkeit Busbes
 
 Was ist das Ergebnis der Verkehrsmodelluntersuchung „Wirtschaftlichkeit Busbeschleunigung MetroBus-Linie 7“? Bitte ausführlich darlegen oder Untersuchung beifügen. Wer wurde damit beauftragt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Protokoll der Sitzung des Verkehrsausschusses der Bürgerschaft am 10. Juni 2014 (Nummer 20/36 und Drs. 20/12519). Im Übrigen siehe Vorbemerkung.
 

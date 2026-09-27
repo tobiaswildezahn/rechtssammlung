@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68493"
@@ -57,7 +58,7 @@ Als alternativer Standort für das geplante Gymnasium wird das Gelände der Kath
 
 Wie können die Eigentumsverhältnisse mit dem Erzbistum geklärt werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Das Flurstück der Katholischen Schule Neugraben verfügt über eine Fläche von circa 1,96 ha; bei der Neubauplanung auf freier Fläche würde für ein vierzügiges Gymnasium eine Grundstücksgröße von circa 1,8 ha angenommen. Im Übrigen ist die für Bildung zuständige Behörde im regelhaften Austausch mit dem Erzbistum.
 
@@ -69,7 +70,7 @@ Während für das neue Gymnasium mehrere Standort-Alternativen und für die neue
 
 Warum wurden mit der Planungsänderung weg von einer Campus-Stadtteilschule hin zu einer neuen Stadtteilschule und einem neuen Gymnasium auch die Stadtteilschul-Züge verändert? Wo kommen die zusätzlichen Schülerinnen und Schüler für die zusätzlichen Züge auf einmal her?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die zusätzliche Grundschule ist explizit als langfristig zu planende zusätzliche Option im SEPL 2019 ausgewiesen. Vorrang haben die genannten Erweiterungen an den Bestandsschulen. Die Entwicklung eines möglichen weiteren Standorts ist eine Aufgabe, die im Rahmen der Stadtteilentwicklung gemeinsam mit dem Bezirk Harburg zu gestalten ist. Dabei ist auch die Schülerzahlenentwicklung insgesamt zu berücksichtigen. Im Übrigen siehe Vorbemerkung.
 

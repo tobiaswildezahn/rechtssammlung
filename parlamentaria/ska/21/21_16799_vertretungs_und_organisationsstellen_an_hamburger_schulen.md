@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5940", "21/14091", "21/15859", "18/3780", "21/3829", "21/8008", "21/12803", "21/16633"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66373"
@@ -111,7 +112,7 @@ Welche Steigerungen in absoluten Zahlen lagen in den letzten 15 Jahren bei den V
 
 Wie können selbstverwaltete Schulen ihre VOr-Mittel planen und welche Möglichkeiten haben Schulen VOr-Mitteln bei der zuständigen Behörde anzufordern? a. Welche Schulen haben wie viele VOr-Mittel in den letzten 15 Jahren bei der zuständigen Behörde angefordert und in welchem Umfang wurden sie gewährt? (Bitte in einer Excel-Tabelle unter Differenzierung der Schulformen und unter Angabe des Bezirks und KESS- Faktors chronologisch angeben.)
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung.
 

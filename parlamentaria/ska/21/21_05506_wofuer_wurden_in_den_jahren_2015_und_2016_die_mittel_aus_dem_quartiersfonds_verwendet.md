@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4066", "20/6154"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53993"
@@ -93,7 +94,7 @@ Wer erhielt jeweils im Jahr 2015 und bisher 2016 Mittel aus dem Quartiersfonds i
 
 Wie viele Anträge auf Fördermittel aus dem Quartiersfonds in welcher Höhe wurden insgesamt je Bezirk im Jahr 2015 und im Jahr 2016 gestellt? Wie viele Mittel in welcher Höhe wurden insgesamt genehmigt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlagen 1 bis 3. Abweichungen bei der Zahl der Anträge in der Einzelauflistung und in der Summenerhebung erklären sich daraus, dass Anträge, für die Mittel aus dem Quartiersfonds über mehrere Jahre hinweg gezahlt werden, nicht regelhaft für jedes einzelne Jahr als gesonderter Antrag, sondern abhängig von der Handhabung im jeweiligen Bezirksamt gegebenenfalls nur einmalig im Antragsjahr gezählt werden. Zudem kann die Antragssumme der Projekte auch anteilige Summen beinhalten, die bereits aus dem Budget des Vorjahres bewilligt und als Ermächtigungsübertrag fortgeschrieben wurden. Darüber hinaus bestehen teilweise Projekte, die nicht ausschließlich aus dem Quartiersfonds, sondern anteilig auch mit anderen Mittel finanziert werden, sodass es Abweichungen bei der Summe des Fördervolumens geben kann.
 

@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 18
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63657"
@@ -53,7 +54,7 @@ Wie viele Kurzzeitpflegeplätze gibt es aktuell in Hamburg und wie verteilen sic
 
 Wie viele Kurzzeitpflegeeinrichtungen mit jeweils wie vielen Kurzzeitpflegeplätzen gibt es aktuell in Hamburg? Bitte für Hamburg insgesamt angeben und nach Bezirken aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Aktuell gibt es in Hamburg zwei solitäre Kurzzeitpflegeeinrichtungen mit insgesamt 52 Plätzen, davon eine mit 14 Plätzen im Bezirk Hamburg-Mitte und eine mit 38 Plätzen im Bezirk Wandsbek. Darüber hinaus haben circa 90 Prozent der vollstationären Pflegeeinrichtungen eine Vereinbarung mit den Kostenträgern über das Angebot der eingestreuten Kurzzeitpflege geschlossen. Diese sieht vor, dass jede Einrichtung bis zu 10 Prozent ihrer Gesamtkapazität für die Kurzzeitpflege nutzen kann, das heißt, das
 
@@ -152,7 +153,7 @@ Wie viele Pflegekräfte sind aktuell gemäß des Personalschlüssels in Hamburg 
 
 Wie bewertet der Senat beziehungsweise die zuständige Behörde die aktuelle Personalsituation im Bereich der Kurzzeitpflege in Hamburg?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Die Personalschlüssel in Abhängigkeit vom Pflegegrad für die einzelnen Pflegeeinrichtungen werden nach § 18 Rahmenvertrag über die vollstationäre pflegerische Versorgung gemäß § 75 SGB XI für die Freie und Hansestadt Hamburg in der Vergütungsvereinbarungausgewiesen (Leistungs- und Qualitätsmerkmale als Anlage zur Vergütungsvereinbarung). Diese Personalvorgabe gilt auch für die Kurzzeitpflege auf eingestreuten Plätzen. Für die solitäre Kurzzeitpflege gelten verbesserte pflegegradunabhängige einrichtungsspezifische Personalvorgaben. Da der zuständigen Behörde keine Informationen über die aktuelle Auslastung und Bewohnerstruktur der vollstationä-
 
@@ -204,9 +205,9 @@ Von der WPA des Bezirksamts Hamburg-Mitte wurde im Jahr 2017 ein Mangel in der s
 
 Von der WPA des Bezirksamtes Altona wurden in den Jahren 2016 und 2017 folgende Mängel festgestellt:
 
- 2016 ein Mangel in der Einbeziehung der Biografie,
+– 2016 ein Mangel in der Einbeziehung der Biografie,
 
- 2017 ein Mangel in der Pflege.
+– 2017 ein Mangel in der Pflege.
 
 In Bergedorf, Harburg und Wandsbek sind von der Wohn-Pflege-Aufsicht bezüglich der Kurzzeitpflege keine Mängel festgestellt worden.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10947"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61385"
@@ -53,7 +54,7 @@ Wie viele Straßenbäume wurden aufgrund der Stürme seit Herbst 2017 entwurzelt
 
 Zu welchen sonstigen Schäden kam es durch die Stürme an Grünflächen und -zügen seit 2017? Wie viele Fälle wurden wo und wann gemeldet? Bitte nach Bezirken aufschlüsseln.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Sturmbedingte Schäden im Straßenbaumbestand sowie im Baumbestand in Grünanlagen sind folgender Übersicht zu entnehmen:
 

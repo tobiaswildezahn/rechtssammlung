@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 17
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6205"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55154"
@@ -106,7 +107,7 @@ Wie hat sich der Personalbestand der Staatsoper in den letzten fünf Jahren entw
 
 Welche Planungen bestehen zur Veränderung des Personalbestands in der Staatsoper?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Personalbestand hat sich in den letzten fünf Jahren nur geringfügig verändert, von 620 Personen in der Spielzeit 2011/2012 bis zu 625 Personen in der Spielzeit 2015/2016. Eine Veränderung ist nicht geplant.
 

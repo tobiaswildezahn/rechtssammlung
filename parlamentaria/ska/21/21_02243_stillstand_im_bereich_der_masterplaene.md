@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12811", "20/11859", "20/2452", "20/11488"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50514"
@@ -43,18 +44,18 @@ Wie viele Masterpläne verfolgt die Freie und Hansestadt Hamburg momentan? Bitte
 
 Im Bereich der Wirtschafts- und Strukturpolitik werden derzeit folgende Masterpläne verfolgt:
 
- Der „Masterplan zur Weiterentwicklung der öffentlich zugänglichen Ladeinfrastruk-
+– Der „Masterplan zur Weiterentwicklung der öffentlich zugänglichen Ladeinfrastruk-
 
 tur für Elektrofahrzeuge in Hamburg“ (Drs. 20/12811), kurz „Masterplan Ladeinfrastruktur“, wurde am 26. August 2014 vom Senat verabschiedet und beschreibt den konzeptionellen Ausbau der öffentlich zugänglichen Ladeinfrastruktur in Hamburg bis 2016. Die Umsetzung ist im Gang, Fortschritts- oder Evaluierungsberichte oder sonstige Ergebnisdokumente liegen noch nicht vor.
 
- Der „Masterplan Industrie“ (MPI) wurde zwischen dem Senat und den damaligen
+– Der „Masterplan Industrie“ (MPI) wurde zwischen dem Senat und den damaligen
 
 Partnern des MPI (Handelskammer Hamburg, Industrieverband Hamburg e.V.) am
 30. August 2007 unterzeichnet. Als Handlungskonzept für den Industriestandort Hamburg hatten sich die Beteiligten auf Leitlinien in verschiedenen Handlungsfeldern verständigt, um die Rahmenbedingungen für industrielles Wachstum und die Neuansiedlung von Industriebetrieben weiter zu fördern. Neben einem Katalog von Zielen und Maßnahmen ist der MPI zugleich auch ein Instrument zur Fortführung und Intensivierung des Dialogs zwischen Wirtschaft, Politik und Verwaltung. Die Fortschreibung des MPI wurde am 11. Februar 2014 unterzeichnet. Als zusätzlicher Partner wurde der DGB Nord gewonnen. Als gemeinsames Bekenntnis der beteiligten Partner zum Industriestandort Hamburg enthält das Instrument Leitlinien für die Zusammenarbeit zwischen Wirtschaft, Politik und Verwaltung. Ziel ist es, die Zukunftsfähigkeit der Hamburger Industrie dauerhaft zu sichern sowie Arbeits- und
 
 Ausbildungsplätze in der Industrie zu erhalten und neu zu schaffen. Der MPI wurde auf Grundlage der bisherigen Erfahrungen mit folgenden Schwerpunkten fortgeschrieben: Flächen für die Industrie, Verkehr als Bedingung für Industrie, Innovationsmetropole Hamburg (inklusive Clusterpolitik), Industrie und Umwelt, Energie für die Industrie, Fachkräfte für die Industrie (inklusive Integration, Inklusion und Gleichstellung) sowie Akzeptanz der Voraussetzungen für die Industrie. Für jedes Handlungsfeld sind Kernaussagen und Zielsetzungen, Vereinbarungen und Maßnahmen, Dialogstrukturen und Umsetzung sowie die Kontrolle und Berichterstattung vereinbart worden. Für die unterzeichnete Fortschreibung liegen noch keine Evaluierungs- beziehungsweise Fortschrittsberichte vor. Die letzte umfassende Berichterstattung wurde mit Drs. 20/11859 vorgelegt. Im Übrigen siehe Drs. 20/2452, 20/11488 und 20/11859.
 
- Der Masterplan Handwerk 2020 wurde am 2. September 2011 von Vertretern des
+– Der Masterplan Handwerk 2020 wurde am 2. September 2011 von Vertretern des
 
 Senats und der Handwerkskammer unterzeichnet. Er enthält eine Strategie zur Stärkung des Hamburger Handwerks. Die einzelnen Maßnahmen beziehen sich auf folgende Handlungsfelder: Fachkräftesicherung und Qualität, Flächen für Handwerksbetriebe, Handwerksförderung und Innovation, Existenzgründung und Betriebsnachfolge, Öffentliche Vergabe, Qualitätspolitik, Umwelt, Stadt als Partner im Rahmen der Imagekampagne des Handwerks. Die einzelnen Maßnahmen werden kurz-, mittel- oder langfristig aufgelegt. Seit dem Ersterscheinungsjahr 2011 werden in jährlichen Fortschreibungen die Maßnahmen hinsichtlich ihrer Aktualität überprüft und weiterentwickelt sowie neue Maßnahmen aufgelegt. Über die Umsetzung wird jährlich nach dem Tag des Handwerks im September im Rahmen einer Pressekonferenz berichtet und es werden die Vorhaben für das kommende Jahr vorgestellt. Im Übrigen siehe: http://www.hamburg.de/bwvi/handwerkdienstleistung-handel/.
 

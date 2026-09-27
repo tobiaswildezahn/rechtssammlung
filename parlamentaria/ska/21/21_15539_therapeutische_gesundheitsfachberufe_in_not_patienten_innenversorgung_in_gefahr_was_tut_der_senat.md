@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15186", "21/15174", "21/15113", "21/15564"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65019"
@@ -51,7 +52,7 @@ Wie stellt der Senat sicher, dass Zusammenschlüsse beziehungsweise Kooperatione
 
 Mit welchen Schulen und Plankrankenhäusern werden Gespräche über Zusammenschlüsse geführt, um diese in eine Refinanzierung nach dem Krankenhausgesetz zu überführen? Welche (Zwischen-)Ergebnisse wurden bereits erzielt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nach Abschluss der Verhandlungen wären neben dem Universitätsklinikum Hamburg- Eppendorf (UKE) und privaten Plankrankenhäusern auch freigemeinnützige Plankrankenhäuser mit einer Berufsfachschule verbunden. Im Übrigen siehe Drs. 21/15113.
 

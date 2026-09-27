@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18148"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68014"
@@ -39,27 +40,27 @@ Vor diesem Hintergrund frage ich den Senat:
 
 Die Angebotsoffensive ist ein weiterer Schritt in Richtung eines noch dichteren und noch verlässlicheren Angebotes im öffentlichen Personennahverkehr (ÖPNV), der die Menschen zum Umstieg vom motorisierten Individualverkehr (MIV) auf öffentliche Verkehrsmittel bewegen soll („Hamburg-Takt“). Wie in der Drs. 21/18148 in der Anlage B aufgeführt, wird ein Großteil der Maßnahmen zum Fahrplanwechsel am 15. Dezember 2019 umgesetzt. Das Volumen der Angebotsverbesserungen übersteigt das der Jahre vor 2018 nochmals sehr deutlich. Es handelt sich um die größte Angebotserweiterung seit Bestehen der Hamburger Verkehrsverbund GmbH. Sowohl die Beschaffung und Inbetriebnahme einer großen Zahl neuer Fahrzeuge als auch die Rekrutierung und Schulung des zusätzlich benötigten Fahrpersonals erfordert erhebliche Anstrengungen der Verkehrsunternehmen. Insofern können die mit dem Vorhaben verbundenen langfristigen Zielvorstellungen nur sukzessiv erreicht werden. Neben den erforderlichen Angebotserweiterungen aufgrund der steigenden Nachfrage werden für das kommende Jahr folgende Neuerungen umgesetzt werden:
 
- Der Schwerpunkt der Maßnahmen liegt auf Angebotsausweitungen im Schnell-
+– Der Schwerpunkt der Maßnahmen liegt auf Angebotsausweitungen im Schnell-
 
 bahn- und im MetroBus-Netz, die die Hauptlast des innerstädtischen öffentlichen Verkehrs tragen.
 
- Ein weiteres bedeutendes Segment ist die Angebotsausweitung im Bezirk Berge-
+– Ein weiteres bedeutendes Segment ist die Angebotsausweitung im Bezirk Berge-
 
 dorf. Mit der ExpressBus-Linie X32 wird eine schnelle Direktverbindung zwischen Bergedorf und Wandsbek geschaffen. Durch die Einrichtung neuer Buslinien (224, 325 und 335) und damit einhergehenden Angebotsverdichtungen wird die ÖPNV- Anbindung unter anderem der Bereiche entlang der Holtenklinker Straße, in Nettelnburg Süd sowie in den Vier- und Marschlanden deutlich verstärkt, einzelne Bereiche werden erstmalig an das Busnetz angeschlossen.
 
- Darüber hinaus werden im StadtBus-Netz unter anderem auf den Linien 111, 113
+– Darüber hinaus werden im StadtBus-Netz unter anderem auf den Linien 111, 113
 
 und 284 komplett neue Verkehrsangebote geschaffen.
 
- Mit den neuen ExpressBus-Linien X3, X11, X22, X32 und X35 wird ein Produkt
+– Mit den neuen ExpressBus-Linien X3, X11, X22, X32 und X35 wird ein Produkt
 
 eingeführt, das mit schnellen Direktverbindungen auch auf derzeit noch nicht unmittelbar bedienten Korridoren eine attraktive Alternative zum MIV darstellt.
 
- Nachdem die neue QuartiersBus-Linie 388 zur kleinräumigen Erschließung des
+– Nachdem die neue QuartiersBus-Linie 388 zur kleinräumigen Erschließung des
 
 Stadtteils Rissen sehr gut angenommen wurde, sollen mit der neuen QuartiersBus- Linie 530 als neues Produkt weitere Bereiche in Hamm, Rothenburgsort und Moorfleet neu an das Busnetz angebunden werden.
 
- Mit der Optimierung des NachtBus-Angebotes im Bezirk Harburg werden neue,
+– Mit der Optimierung des NachtBus-Angebotes im Bezirk Harburg werden neue,
 
 fahrgastfreundliche Konzepte erprobt, die bei entsprechendem Erfolg als Vorbild für weitere Vorhaben in anderen Bereichen dienen können.
 
@@ -77,7 +78,7 @@ Wie viele Zugkilometer werden täglich je U-Bahn-Linie ab dem Fahrplanwechsel au
 
 Wie viele Zugkilometer werden bisher täglich je U-Bahn-Linie auf hamburgischem Gebiet angeboten? Bitte darstellen getrennt nach Montag bis Freitag, Samstag, Sonn- und Feiertag.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der HOCHBAHN liegen keine Aufstellungen der Fahrplankilometer in der geforderten zeitlichen und linienbezogenen Differenzierung vor. Eine manuelle Auswertung dieser Daten ist in der zur Beantwortung der Anfrage zur Verfügung stehenden Zeit nicht möglich. Die HOCHBAHN hat daher die aktuellen betrieblichen Kennzahlen über die im U-Bahn-Netz jährlich zu erbringenden geplanten Nutzkilometer wie folgt angegeben:
 

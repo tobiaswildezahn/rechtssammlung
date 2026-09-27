@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9631", "21/6137", "20/4967", "21/4523", "21/9158"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60274"
@@ -95,6 +96,6 @@ Was fällt alles unter die vertraglichen Durchführungskosten, die der Veranstal
 
 Was fällt unter die vertraglichen Durchführungskosten, die die Stadt zu tragen hat?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Es sind keine vertraglichen Regelungen getroffen worden, die dies definieren.

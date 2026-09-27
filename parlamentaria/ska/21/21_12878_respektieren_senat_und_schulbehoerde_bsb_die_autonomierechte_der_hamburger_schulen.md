@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62199"
@@ -73,7 +74,7 @@ Geschah das Veto der zuständigen Behörde in Form einer Dienstanweisung? Wenn j
 
 Wenn das in Frage 3. erwähnte Veto der zuständigen Behörde nicht in Form einer Dienstanweisung erfolgt sein sollte, in welcher sonstigen Form erfolgte das Einschreiten der zuständigen Behörde dann, etwa per Telefonat/per Brief? Von wem an wen genau? (Bitte entsprechend dokumentieren und rechtlich begründen sowie betreffende Rechtsgrundlage als Datei anfügen.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung und Antwort zu 1.
 
@@ -85,6 +86,6 @@ Im Rahmen der selbstverantworten/selbstverwalteten Schule ist der einzelnen Schu
 
 Die Paragrafen 1 und 2 des Hamburgischen Schulgesetzes (HmbSG, § 1 Recht auf schulische Bildung und § 2 Bildungs- und Erziehungsauftrag der Schule, hier: http://www.hamburg.de/contentblob/1995414/ 1cfc294a96f6c576aa557e75adfac732/data/schulgesetzdownload.pdf;jse ssionid=C804EB4732E0FC9C44A17C22B6660D1F.liveWorker2) geben den Schulen einen rechtlichen Rahmen, der es ihnen ermöglicht, eigene autonome Regeln zur Organisation und Ausgestaltung des Schullebens entsprechend festzulegen. Wie rechtfertigt der Senat beziehungsweise die zuständige Behörde ihr „Korrigieren“ des von der Lehrerkonferenz gefällten Beschlusses? (Bitte rechtlich argumentieren und betreffende Rechtsgrundlage der korrektiven behördenseitigen Intervention als Datei anfügen.)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der Beschluss der Lehrerkonferenz war rechtswidrig. Im Übrigen siehe Vorbemerkung und Antwort zu 1.

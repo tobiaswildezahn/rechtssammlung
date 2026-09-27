@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5186"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54525"
@@ -48,25 +49,25 @@ b. für den Effizienzwohnungsbau?
 
 Bei den Pilotprojekten galten folgende maßgeblichen Rahmenbedingungen:
 
- Die Miete darf innerhalb eines Zeitraums von fünf Jahren ab Aufnahme der Nut-
+– Die Miete darf innerhalb eines Zeitraums von fünf Jahren ab Aufnahme der Nut-
 
 zung des Gebäudes die Nettokaltmiete von 8,00 Euro/m² Wohnfläche nicht überschreiten.
 
- Eine Wohnraumförderung der IFB und die Förderprogramme der KfW dürfen nicht
+– Eine Wohnraumförderung der IFB und die Förderprogramme der KfW dürfen nicht
 
 in Anspruch genommen werden.
 
- Die Gebote sollten eine Kalkulation zu den veranschlagten Baukosten nach DIN
+– Die Gebote sollten eine Kalkulation zu den veranschlagten Baukosten nach DIN
 
 276, Kostengruppen 200 – 700 enthalten.
 
- Nach Fertigstellung sind die tatsächlich entstandenen Kosten nachzuweisen.
+– Nach Fertigstellung sind die tatsächlich entstandenen Kosten nachzuweisen.
 
- Mindestanforderung für den Energiestandard sind die gesetzlichen Vorgaben. Dar-
+– Mindestanforderung für den Energiestandard sind die gesetzlichen Vorgaben. Dar-
 
 über hinausgehende Standards werden besser bewertet.
 
- Bewertet werden die städtebauliche und architektonische Qualität sowie die Quali-
+– Bewertet werden die städtebauliche und architektonische Qualität sowie die Quali-
 
 tät der Wohngebäude. Ebenfalls einbezogen in die Bewertung werden Aussagen zur Gestaltung des Wohnumfeldes.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10957"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59939"
@@ -92,15 +93,15 @@ Wie hoch ist die derzeitige PCB-Konzentration in den Sedimentproben gemäß des 
 
 #### Antwort zu Frage 5
 
- Norderelbe,
+– Norderelbe,
 
- Köhlbrand, Köhlfleet, Köhlfleethafen, Parkhafen, Waltershofer Hafen,
+– Köhlbrand, Köhlfleet, Köhlfleethafen, Parkhafen, Waltershofer Hafen,
 
 Vorhafen, Kaiser-Wilhelm Hafen, Südwesthafen, Hansahafen,
 
- Strandhafen,
+– Strandhafen,
 
- Süderelbe, Sandauhafen, Rethe
+– Süderelbe, Sandauhafen, Rethe
 
 (bitte Angaben gemessen an den jeweiligen Kongeneren Nummern mit
 
@@ -360,6 +361,6 @@ Wie ist der aktuelle Stand zur Anschaffung eigener Schlickbagger?
 
 Wie ist der aktuelle Stand der Genehmigung zur Verbringung von Schlick in der AWZ?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/10957.

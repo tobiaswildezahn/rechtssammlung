@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16989", "21/14264"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67327"
@@ -166,19 +167,19 @@ Weiterhin fördern die gesetzlichen Krankenversicherungen Angebote in Lebenswelt
 
 Im Zuge der Hamburgischen Zuckerreduktionsstrategie setzen sich die beteiligten Behörden (Behörde für Gesundheit und Verbraucherschutz (BGV), Behörde für Schule und Berufsbildung (BSB), Behörde für Arbeit, Soziales, Familie und Integration (BASFI), Behörde für Wirtschaft, Verkehr und Innovation (BWVI)) für verschiedene Maßnahmen im Bereich der Kindertagesbetreuung ein:
 
- die Bereitstellung eines kostenlosen Trinkwasser-Angebots in allen Hamburger
+– die Bereitstellung eines kostenlosen Trinkwasser-Angebots in allen Hamburger
 
 Kitas und Grundschulen,
 
- den Verzicht auf die Ausgabe von gezuckerten Getränken einschließlich zuckerge-
+– den Verzicht auf die Ausgabe von gezuckerten Getränken einschließlich zuckerge-
 
 süßten Milchgetränken in Kitas und Grundschulen bis Ende 2021,
 
- eine Ausweitung der Orientierung am DGE-Qualitätsstandard für gesunde Ernäh-
+– eine Ausweitung der Orientierung am DGE-Qualitätsstandard für gesunde Ernäh-
 
 rung als Mindeststandard in der gemeinschaftlichen Kita- und Schulverpflegung,
 
- besser nutzbares Informationsmaterial für die Arbeit in Kitas und Grundschulen
+– besser nutzbares Informationsmaterial für die Arbeit in Kitas und Grundschulen
 
 (etwa für Elternabende und zur Ernährungsbildung), zum Beispiel auf der Homepage (https://www.hamburg.de/weniger-zucker/).
 

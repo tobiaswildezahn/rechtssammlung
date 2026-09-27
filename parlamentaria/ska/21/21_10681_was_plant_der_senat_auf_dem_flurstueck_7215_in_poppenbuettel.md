@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59584"
@@ -91,6 +92,6 @@ Befindet sich auf dem Flurstück ein Biotop? Wenn ja, durch welche Eigenschaften
 
 Im Fall eines existierenden Biotops auf dem besagten Flurstück: Ist dieses besonders schützenswert? Wenn ja, aus welchen Gründen? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Nein. Im Übrigen: entfällt.

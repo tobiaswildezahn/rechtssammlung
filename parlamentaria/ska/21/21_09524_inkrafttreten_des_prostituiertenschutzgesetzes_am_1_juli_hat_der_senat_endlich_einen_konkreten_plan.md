@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 13
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8029", "21/9460"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58289"
@@ -73,7 +74,7 @@ b) Wie viele Mitarbeiter sollen ab wann geschult werden und wie lange dauern die
 
 Mit welchen Kosten rechnen Senat oder zuständige Behörde für die Umsetzung des Gesetzes?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Für die gesundheitliche Beratung nach § 10 ProstSchG wurde mit der Rekrutierung von erstem Personal begonnen. Für das Anmelde- und Erlaubnisverfahren werden zurzeit die auszuschreibenden Stellenprofile abschließend abgestimmt. Die BASFI hat darüber hinaus ein modulares Fortbildungskonzept entwickelt, das aktuell mit den relevanten Behörden und den entsprechenden freien Trägern abgestimmt wird. Mit den ersten Schulungen soll vor dem voraussichtlichen Starttermin begonnen werden. Bereits andere Länder wie Schleswig-Holstein und Mecklenburg-Vorpommern haben bereits ihr Interesse an einer Teilnahme an diesen Schulungen bekundet.
 

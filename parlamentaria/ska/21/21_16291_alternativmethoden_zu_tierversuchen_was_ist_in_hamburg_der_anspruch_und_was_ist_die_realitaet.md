@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7594", "21/12241"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65807"
@@ -61,7 +62,7 @@ Wie viele Tiere und welche wurden im Bereich „verschiedener kardiale Untersuch
 
 Wie hoch ist im Tierversuchsbereich „verschiedene kardiologische Verfahren“ die „Verlustquote“ an Versuchstieren am UKE? Bitte für die letzten fünf Jahre aufzählen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Planung und Durchführung von Tierversuchen am UKE wird unter maßgeblicher Berücksichtigung der sogenannten 3R-Prinzipien (Replacement, Reduction, Refinement) durchgeführt. In den Vorüberlegungen eines jeden wissenschaftlichen Projekts stehen zunächst die Fragen nach der geeigneten Methodik zur Erzielung von Forschungsergebnissen im Mittelpunkt. In vielen Fällen kommen tierversuchsfreie Methoden zum Einsatz – der Ersatz von Tierversuchen (Replacement). Neuere medizinische Forschungsverfahren können den positiven Nebeneffekt haben, dass sie Tierversuche entbehrlich machen. In diesem Zusammenhang ist die EHT-Technologie beispielhaft: Sie ermöglicht die Anwendung und Erforschung neuer Medikamente an künstlich erzeugtem Gewebe von Herzmuskelstreifen, eines sogenannten Herzmuskelgenerators.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1160"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49389"
@@ -78,7 +79,7 @@ Wonach wird entschieden, welcher Flüchtling in Hamburg bleibt und welcher nicht
 
 Werden die verschiedenen Ethnien auf die Bundesländer so verteilt, dass ihre Zusammensetzung beispielsweise in Hamburg ungefähr der auf Bundesebene entspricht?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Verteilung von Asylsuchenden auf die Länder erfolgt auf der Grundlage des Verteilungssytems „Erstverteilung von Asylbewerbern“ (EASY). Siehe auch:
 

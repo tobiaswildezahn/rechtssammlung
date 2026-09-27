@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12966"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62550"
@@ -51,7 +52,7 @@ Auf welcher Grundlage erfolgt in Deutschland die Schließung eines Friedhofes? W
 
 Auf welcher Grundlage erfolgt in Deutschland die Entwidmung eines Friedhofes? Wer ist berechtigt, eine Schließung einzuleiten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Schließung und Aufhebung von Friedhöfen ist landesrechtlich geregelt. Die Entwidmung eines Friedhofs erfolgt mit seiner Aufhebung durch Gesetz. In Hamburg erfolgen Schließung und Aufhebung der Friedhöfe gemäß § 30 Bestattungsgesetz (BestattG). Teile von Friedhöfen und einzelne Grabstätten können von der zuständigen Behörde geschlossen oder aufgehoben werden.
 

@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 21
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50819"
@@ -47,7 +48,7 @@ Welches waren die Gründe für die Abberufung des damaligen Beauftragten der BSB
 
 Erfolgte die Abberufung nach vorheriger Rücksprache mit weiteren Trägern?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Seit der Eröffnung des WUZ in 2013 koordiniert die für Bildung zuständige Behörde die Nutzung der Wassersportanlage durch die Schulen. Die Weiterentwicklung des Nutzungskonzepts wurde zum Schuljahresbeginn 2015/2016 an eine andere Lehrkraft übertragen, um die Gestaltung attraktiver Angebote zügig voranzutreiben und die Schulen umfassender als bisher über die bestehenden Nutzungsmöglichkeiten der Anlage zu informieren.
 
@@ -61,7 +62,7 @@ Wie viele Schulen nutzen derzeit die Angebote des WUZ und in welchem Umfang?
 
 Um welche Schulen handelt es sich?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der regelmäßige Wassersportunterricht wird während der Wassersportsaison von März bis Oktober angeboten. In der letzten Saison haben fünf Schulen am WUZ schulische Wassersportangebote im Umfang von wöchentlich 13 Doppelstunden genutzt (Friedrich-Ebert-Gymnasium, Goethe-Schule-Harburg, Heisenberg-Gymnasium, Immanuel-Kant-Gymnasium, Schule Elfenwiese), darüber hinaus wurden zwei Projekte der Irena-Sendler-Schule (Drachenboottraining) sowie der Stadtteilschule Horn (Projektwoche Kanu) durchgeführt.
 
@@ -83,7 +84,7 @@ Wie viele Schulen interessieren sich aktuell für die Angebote?
 
 Welche Schulen sind interessiert?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Nach der Schulleiterversammlung des Bezirks Harburg bekundeten die Schulleiter der Stadtteilschule Ehestorfer Weg und der Lessing-Stadtteilschule Interesse an einer Nutzung. Dem Fachausschuss Rudern gegenüber wurde von vier weiteren Schulen Interesse bekundet (Emilie-Wüstenfeld-Gymnasium, Geschwister-Scholl- Stadtteilschule, Irena-Sendler-Schule, Matthias-Claudius-Gymnasium). Eine Gruppe von 21 Lehrerinnen und Lehrern der Schulen Stadtteilschule Ehestorfer Weg, Goethe- Schule-Harburg und Heisenberg-Gymnasium hat sich für einen Qualifizierungskurs „Kanu/Kajak“ eingetragen, der im zweiten Halbjahr des Schuljahres 2015/2016 vom Landesinstitut für Lehrerbildung und Schulentwicklung sowie vom Fachausschuss Kanu unter anderem am Neuländer See angeboten werden soll.
 
@@ -143,7 +144,7 @@ Wie stellt der Senat sicher, dass die BSB selbstverantwortlich und gleichberecht
 
 Wie stellt der Senat sicher, dass die Satzung des Trägervereins die Belange der BSB hinreichend berücksichtigt?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Die Nutzung des WUZ als außerschulischer Bildungsort durch die Schulen ist in der Satzung der WSG festgeschrieben.
 

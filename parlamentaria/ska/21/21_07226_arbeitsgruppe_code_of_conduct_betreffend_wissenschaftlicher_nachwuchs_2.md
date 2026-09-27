@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6661", "21/4680"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55816"
@@ -61,21 +62,21 @@ Was wurde betreffend „prekäre Beschäftigungen bei Nicht-Qualifikationsstelle
 
 In der am 21. November 2016 nachgeholten Sitzung wurden im Wesentlichen die folgenden Themen erörtert:
 
- Die Ergebnisse der von der zuständigen Behörde zu verschiedenen Themenfelder
+– Die Ergebnisse der von der zuständigen Behörde zu verschiedenen Themenfelder
 
 durchgeführten Datenerhebung wurden dargestellt und erörtert. Darüber hinaus wurde über zukünftig zu erhebende Kennzahlen – insbesondere zu wissenschaftlichen Mitarbeiterinnen und Mitarbeitern sowie zu Lehrbeauftragten – diskutiert. Ein Vorschlag der zuständigen Behörde für einen Datenkatalog wurde besprochen und
 
 aufgrund verschiedener Hinweise modifiziert. Ein konsolidierter Katalog soll den Hochschulen im Nachgang zu der Sitzung zur Verfügung gestellt werden.
 
- Die befristete Beschäftigung auf Qualifizierungsstellen wurde erörtert. Die Hoch-
+– Die befristete Beschäftigung auf Qualifizierungsstellen wurde erörtert. Die Hoch-
 
 schulen haben ihre diesbezügliche Praxis erläutert. Die Frage sogenannter Kurzbefristungen wurde intensiv diskutiert. Die Hochschulen haben auf Bitte der zuständigen Behörde hierzu eine Sonderauswertung vorgenommen, deren Ergebnisse noch ausgewertet werden müssen.
 
- Die Befristung in Drittmittelprojekten wurde erörtert. Hierbei wurde über Chancen
+– Die Befristung in Drittmittelprojekten wurde erörtert. Hierbei wurde über Chancen
 
 und Probleme der Novelle des Wissenschaftszeitvertragsgesetzes (WissZeitVG) diskutiert. Es wurde deutlich, dass die in der Praxis auftretenden Fälle sich derzeit noch einer schematischen Lösung entziehen und dass einzelfallbezogene Lösungen gefunden werden müssen. Der Austausch zum neuen WissZeitVG soll 2017 fortgesetzt werden, wenn mehr praktische Erfahrungen mit dem neuen Gesetz vorliegen.
 
- Die unterschiedlichen Verfahrensweisen bei der Vergabe von Lehraufträgen wur-
+– Die unterschiedlichen Verfahrensweisen bei der Vergabe von Lehraufträgen wur-
 
 den diskutiert. Es wurde die Einrichtung einer Unter-Arbeitsgruppe zur Diskussion von Best-Practice-Beispielen im Umgang mit der Erteilung von Lehraufträgen vereinbart.
 

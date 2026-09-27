@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 17
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51848"
@@ -108,6 +109,6 @@ In wie vielen Fällen wurde entschieden, dass Menschen ihre verhinderte Ausreise
 
 In wie vielen Fällen wurde von den Leistungskürzungen nach § AsylbLG abgesehen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Diese Daten werden statistisch nicht erfasst und lassen sich mit den zur Verfügung stehenden technischen Möglichkeiten auch nicht auswerten. Da mehr als 18.000 Leistungsakten durchgesehen werden müssten, ist eine Einzelauswertung der Daten in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.

@@ -11,9 +11,10 @@ fraktionen: ["FDP"]
 vorgang: 61491
 seiten: 14
 fragen: 1
-einzelfragen: 2
-antwortbloecke: 1
+einzelfragen: 17
+antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67437"
@@ -38,9 +39,12 @@ Vor diesem Hintergrund frage ich den Senat:
 ### Frage 1
 
 Wie ist der aktuelle Stand der Finanzierung der Stadtteilkultur in Hamburgs Bezirken? Bitte für sämtliche Bezirke folgende Fragen einzeln und im Detail beantworten:
-1.1. Welcher Betrag wurde dem jeweiligen Bezirk im Rahmen der Finanzierung der Stadtteilkultur zur Verfügung gestellt?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Welcher Betrag wurde dem jeweiligen Bezirk im Rahmen der Finanzierung der Stadtteilkultur zur Verfügung gestellt?
+
+#### Antwort zu Fragen 1 und 1.1
 
 Bezirksamt  
 Zuweisungen aus der Rahmenzuweisung Stadtteilkultur für 2019 in Euro  
@@ -59,7 +63,11 @@ Bergedorf
 Harburg  
 286 000
 
-1.2. Wie wurde der genannte Betrag auf welche Träger und Projekte verteilt? Bitte jeden Empfänger und Betrag tabellarisch darstellen.
+### Frage 1.2
+
+Wie wurde der genannte Betrag auf welche Träger und Projekte verteilt? Bitte jeden Empfänger und Betrag tabellarisch darstellen.
+
+#### Antwort zu Frage 1.2
 
 Zur  
 Übersicht  
@@ -87,23 +95,26 @@ gegebenenfalls mit einer Verzögerung von bis zu drei Monaten.
 
 Für einen Überblick über die Anzahl und die Vielfalt der 2019 bereits erlassenen Zuwendungsbescheide zu Projektförderungen siehe Anlage. Eine vollständige Erfassung einschließlich aller in Vorbereitung befindlichen Bescheide ist in der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
-1.3. Welche Kriterien wurden bei der Entscheidung bezüglich der Verteilung angewandt? Bitte über den allgemeinen Inhalt der Globalrichtlinie hinaus für jeden Fall konkret benennen. Wenn möglich bitte in Tabelle aus Punkt 1.2. darstellen.
+### Frage 1.3
 
-1.4. Gab es nach Kenntnis des Senats oder des zuständigen Bezirksamts oder der Bezirksversammlung Konflikte beziehungsweise Konkurrenzsituationen bezüglich der Verteilung der Mittel?
+Welche Kriterien wurden bei der Entscheidung bezüglich der Verteilung angewandt? Bitte über den allgemeinen Inhalt der Globalrichtlinie hinaus für jeden Fall konkret benennen. Wenn möglich bitte in Tabelle aus Punkt 1.2. darstellen.
 
-Wenn ja, bitte im Detail darstellen und auch darstellen, wie dies in Zukunft vermieden werden kann.
+### Frage 1.4
 
-1.5. Hat in Bezug auf die lokale Verwendung der Mittel eine Kontrolle stattgefunden?
+Gab es nach Kenntnis des Senats oder des zuständigen Bezirksamts oder der Bezirksversammlung Konflikte beziehungsweise Konkurrenzsituationen bezüglich der Verteilung der Mittel? Wenn ja, bitte im Detail darstellen und auch darstellen, wie dies in Zukunft vermieden werden kann.
 
-Wenn ja, inwiefern und mit welchem Ergebnis?
+### Frage 1.5
 
+Hat in Bezug auf die lokale Verwendung der Mittel eine Kontrolle  
+stattgefunden?  
+Wenn ja, inwiefern und mit welchem Ergebnis?  
 Wenn nein, warum nicht?
 
-1.6. Hat in Bezug auf die Projekt- beziehungsweise Zielerreichung beziehungsweise die Ergebnisse der Mittelverwendung eine Kontrolle stattgefunden?
+### Frage 1.6
 
-Wenn ja, mit welchem Ergebnis?
+Hat in Bezug auf die Projekt- beziehungsweise Zielerreichung beziehungsweise die Ergebnisse der Mittelverwendung eine Kontrolle stattgefunden? Wenn ja, mit welchem Ergebnis? Wenn nein, warum nicht?
 
-Wenn nein, warum nicht?
+#### Antwort zu Fragen 1.3, 1.4, 1.5 und 1.6
 
 Zu  
 den  
@@ -118,17 +129,19 @@ Maßgeblich für die Prüfung des Verwendungsnachweises ist Nummer 13.1 der VV z
 
 Die Verwendungsnachweise für die 2019 bewilligten Zuwendungen werden in der Regel sechs Monate nach dem Ende des Bewilligungszeitraums vorgelegt. Die Prüfungen für 2018 bewilligte Zuwendungen laufen derzeit, sind aber weit überwiegend noch nicht abgeschlossen. Dazu liegen deshalb gegenwärtig keine statistischen Ergebnisse vor.
 
-1.7. Ist die Finanzierung der Stadtteilkultur im jeweiligen Bezirk nach Ansicht des Senats und der zuständigen Behörden auskömmlich? Ist eine nachhaltige Förderung der Stadtteilkultur mit den aktuell und regelhaft in der Zukunft zur Verfügung stehenden Mitteln möglich?
+### Frage 1.7
 
-1.8. Sind dem Senat, den zuständigen Behörden oder der jeweiligen Bezirksversammlung Beschwerden über eine unzureichende Finanzierung der Stadtteilkultur im Bezirk bekannt?
+Ist die Finanzierung der Stadtteilkultur im jeweiligen Bezirk nach Ansicht des Senats und der zuständigen Behörden auskömmlich? Ist eine nachhaltige Förderung der Stadtteilkultur mit den aktuell und regelhaft in der Zukunft zur Verfügung stehenden Mitteln möglich?
 
-Wenn ja, bitte im Detail darstellen.
+### Frage 1.8
 
-1.9. Bestehen vonseiten des Senats Pläne, die Mittel zur Förderung der Stadtteilkultur im Bezirk mittelfristig zu erhöhen?
+Sind dem Senat, den zuständigen Behörden oder der jeweiligen Bezirksversammlung Beschwerden über eine unzureichende Finanzierung der Stadtteilkultur im Bezirk bekannt? Wenn ja, bitte im Detail darstellen.
 
-Wenn ja, wann und auf welche Weise?
+### Frage 1.9
 
-Wenn nein, warum nicht?
+Bestehen vonseiten des Senats Pläne, die Mittel zur Förderung der Stadtteilkultur im Bezirk mittelfristig zu erhöhen? Wenn ja, wann und auf welche Weise? Wenn nein, warum nicht?
+
+#### Antwort zu Fragen 1.7, 1.8 und 1.9
 
 Seit dem Doppelhaushalt 2017/2018 wird die Rahmenzuweisung jährlich erhöht. Der für 2017 und 2018 vorgesehene Zuwachs von jeweils 400 000 Euro wurde jährlich gemäß dem prozentualen Anteil der Bezirke an der Gesamtbevölkerung Hamburgs als Ausgleich von Tarif- und Kostensteigerungen und im Sinne eines Festbetragsanteils von jeweils 30 000 Euro pro Bezirk ausgebracht, um für alle Bezirke gleichermaßen die Chance einzuräumen, neue Impulse zu setzen. Seit 2019 wird der Ansatz jährlich um 1,5 Prozent erhöht. Auch die Schlüsselung des Zuwachses folgt dem prozentualen Anteil der einzelnen Bezirke an der Gesamtbevölkerung der Stadt. Dazu wurde ein Abstimmungsverfahrungen durchgeführt und im Ergebnis Einvernehmen mit allen Bezirksamtsleitungen erzielt.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8434", "21/8674", "21/4583", "21/5235", "21/1354"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59561"
@@ -73,7 +74,7 @@ b) In welcher Höhe soll die Verstärkung aus welchen anderen Bereichen erfolgen
 
 Von welcher Gesamthöhe der Flüchtlingskosten geht der Senat für das Jahr 2017 aus? Werden diese über den Kosten des Jahres 2016 liegen, ähnlich hoch sein oder höher?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der Senat beabsichtigt, der Bürgerschaft noch vor Jahresende eine Drucksache über die nach derzeitigem Stand erforderliche Verstärkung des Produkts „Zentrale Verstärkung Zuwanderung“ vorzulegen. Im Übrigen sind die Planungen und Überlegungen noch nicht abgeschlossen. Eine Berichterstattung über die Verwendung der Mittel sowie die Beteiligung des Bundes gemäß Drs. 21/5235 ist erneut im Frühjahr des Folgejahres vorgesehen. Aussagen zu endgültigen Bedarfen sind erst zum Abschluss des Haushaltsjahres 2017 möglich.
 

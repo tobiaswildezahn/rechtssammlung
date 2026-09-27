@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16380", "21/16950", "21/17153"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67679"
@@ -101,7 +102,7 @@ Wie viele Schichten aus den Hamburger Plankrankenhäusern wurden dem InEK für d
 
 Wie sind die prozentualen Quoten der Schichten mit nicht eingehaltenen Pflegepersonaluntergrenzen in den Hamburger Plankrankenhäusern und den jeweiligen Standorten für das 1. Quartal 2019? Gegebenenfalls Schichten, die wegen Ausnahmetatbeständen strittig sind, herausnehmen.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der zuständigen Behörde wurden vom (InEK) für das 2. Quartal 2019 19 677 Schichten der gemäß Pflegepersonaluntergrenzen-Verordnung (PpUGV) als pflegesensitiv eingestuften Bereiche gemeldet.
 

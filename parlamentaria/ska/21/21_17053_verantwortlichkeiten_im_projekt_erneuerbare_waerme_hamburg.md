@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 24
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16109", "21/14636", "21/15147"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66610"
@@ -91,7 +92,7 @@ Wie erklärt der Senat, dass eineinhalb Jahre nach dem ursprünglich avisierten 
 
 Welche Schlussfolgerungen in Bezug auf die zeitlichen Verzögerungen dieses Projekts hat der Senat bereits gezogen, und zwar allgemein sowie speziell im Hinblick auf die komplizierte Projektstruktur und war die Einrichtung des Auftraggeber-Gremiums eine der Schlussfolgerungen aus der Verzögerung?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Eine Investitionsentscheidung kann erst getroffen werden, wenn die dafür notwendigen Planungen abgeschlossen sind. Die Planungen sind noch nicht abgeschlossen, siehe dazu auch Vorbemerkung.
 

@@ -11,9 +11,10 @@ fraktionen: ["AfD"]
 vorgang: 58747
 seiten: 5
 fragen: 11
-einzelfragen: 15
-antwortbloecke: 11
+einzelfragen: 21
+antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13659", "21/14573"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64466"
@@ -128,15 +129,23 @@ Die KOST koordiniert die innerstädtischen Baumaßnahmen auf den Hauptverkehrsst
 
 Im Übrigen siehe Drs. 21/13659.
 
-7.1. Greift die Behörde auch auf Baufirmen außerhalb der Hansestadt zu?
+### Frage 7.1
 
-Wenn ja, geschah/geschieht dies in Bezug auf die Baumaßnahme Ehestorfer Heuweg?
-
+Greift die Behörde auch auf Baufirmen außerhalb der Hansestadt  
+zu?  
+Wenn ja, geschah/geschieht dies in Bezug auf die Baumaßnahme  
+Ehestorfer Heuweg?  
 Wenn nein, warum nicht?
+
+#### Antwort zu Frage 7.1
 
 Es handelt sich stets um öffentliche Ausschreibungen, auf die sich Firmen aus dem ganzen Bundesgebiet bewerben können.
 
-7.2. Zu Frage 7.2. erklärt die Behörde, dass es ihr nicht möglich sei, über die Maßnahme attraktiverer Löhne zusätzlich benötigtes Personal zu finden beziehungsweise Arbeiter, die auch nachts und an Wochenenden auf Baustellen arbeiten würden. Sie beruft sich auf feste Tarifverträge. Heißt das im Umkehrschluss, dass die Freie und Hansestadt Hamburg ausschließlich nach Tarif bezahlt?
+### Frage 7.2
+
+Zu Frage 7.2. erklärt die Behörde, dass es ihr nicht möglich sei, über die Maßnahme attraktiverer Löhne zusätzlich benötigtes Personal zu finden beziehungsweise Arbeiter, die auch nachts und an Wochenenden auf Baustellen arbeiten würden. Sie beruft sich auf feste Tarifverträge. Heißt das im Umkehrschluss, dass die Freie und Hansestadt Hamburg ausschließlich nach Tarif bezahlt?
+
+#### Antwort zu Frage 7.2
 
 Bei Baumaßnahmen im innerstädtischen Bereich treten die Freie und Hansestadt Hamburg (FHH) beziehungsweise ihre Baudienststellen als Bauherren und Auftraggeber auf und übernehmen die hoheitliche Verantwortung und die damit verbundenen Aufgaben. Die Baufirmen treten nach der Auftragsvergabe als Auftragnehmer auf und führen die geplanten Bauarbeiten durch. Bei der Vergütung muss unterschieden werden zwischen den Mitarbeiterinnen und Mitarbeitern der FHH und den Mitarbeiterinnen und Mitarbeitern der beauftragten Baufirmen. Für die Mitarbeiterinnen und Mitarbeiter der FHH gilt der Tarifvertrag für den öffentlichen Dienst der Länder (TV-L). Für die Mitarbeiterinnen und Mitarbeiter der Bauindustrie erfolgt die Entlohnung über den Bundesrahmentarifvertrag für das Baugewerbe (BRTV), in dem die Mindestlöhne für die unterschiedlichen Handwerksgruppen und Qualifikationen festgelegt sind. Den Baufirmen steht zusätzlich die übertarifliche Bezahlung als Werkzeug zur Verfügung, um Fachkräfte für ihre Unternehmen zu akquirieren.
 
@@ -150,9 +159,11 @@ Die BWVI erklärt in oben genannter Drucksache auch, dass bei Baumaßnahmen im i
 
 Zu den entsprechenden Vorschriften zählen die Bundesimmissionsschutzverordnung (BImSchV) oder auch die Allgemeine Verwaltungsvorschrift zum Schutz gegen Baulärm – Geräuschemissionen – der Bundesregierung.
 
-8.1. Inwiefern trifft dies auf den Ehestorfer Heuweg zu? Und zeigen auch potenzielle Konkurse diverser Betriebe der im Baufeld befindlichen Grundstücke rechtliche Grenzen auf beziehungsweise kann die Behörde vor diesem Hintergrund immer noch behaupten, die Ein-
+### Frage 8.1
 
-schränkungen der Anlieger während der Bauzeit auf das notwendige Minimum zu reduzieren (siehe Antwort zu Frage 8.)?
+Inwiefern trifft dies auf den Ehestorfer Heuweg zu? Und zeigen auch potenzielle Konkurse diverser Betriebe der im Baufeld befindlichen Grundstücke rechtliche Grenzen auf beziehungsweise kann die Behörde vor diesem Hintergrund immer noch behaupten, die Einschränkungen der Anlieger während der Bauzeit auf das notwendige Minimum zu reduzieren (siehe Antwort zu Frage 8.)?
+
+#### Antwort zu Frage 8.1
 
 Die Vorschriften gelten auch für den Ehestorfer Heuweg. Die Einschränkungen der Anliegerinnen und Anlieger sowie der Gewerbetreibenden werden auf das notwendige Minimum reduziert, da die Grundstücke jederzeit aus einer Richtung erreichbar sein werden. Im Übrigen siehe Vorbemerkung.
 

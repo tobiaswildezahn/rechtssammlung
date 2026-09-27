@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8486"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58293"
@@ -92,7 +93,7 @@ Wie viele Mitarbeiter sind derzeit im Zentrallager von Asklepios beschäftigt?
 
 Wie sind derzeit der genaue Sachstand sowie der Zeitplan für den Bau eines neuen Zentrallagers an welchem Standort?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 

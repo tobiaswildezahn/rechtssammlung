@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1862", "21/16901"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67066"
@@ -73,7 +74,7 @@ Hält der Senat dieses Duschangebot für ausreichend? Wenn nein, welche Maßnahm
 
 Gibt es ein zugrunde liegendes gesamtstädtisches Konzept zur Hygieneversorgung von obdachlosen Menschen? Wenn ja, bitte ausführen. Wenn nein, warum nicht und wie wird die Notwendigkeit vom Senat eingeschätzt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 

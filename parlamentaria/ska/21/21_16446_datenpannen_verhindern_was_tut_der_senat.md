@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65955"
@@ -59,17 +60,17 @@ Unternimmt der Senat präventive Maßnahmen, um die versehentliche Weitergabe vo
 
 Über folgende Verwaltungsvorschriften stellt der Senat die Sensibilisierung der Beschäftigten für die Belange der Informationssicherheit und des Datenschutzes sicher:
 
- Leitlinie für Datenschutzbeauftragte vom 22.11.2018
+– Leitlinie für Datenschutzbeauftragte vom 22.11.2018
 
- Endgeräte-Richtlinie vom 01.10.2017
+– Endgeräte-Richtlinie vom 01.10.2017
 
- Telekommunikationsrichtlinie vom 22.04.2016
+– Telekommunikationsrichtlinie vom 22.04.2016
 
- Rahmen-Sicherheitskonzept vom 19.01.2016
+– Rahmen-Sicherheitskonzept vom 19.01.2016
 
- Informationssicherheitsleitlinie vom 02.04.2013
+– Informationssicherheitsleitlinie vom 02.04.2013
 
- Richtlinie zur Datensicherheit im IuK-Bereich vom 06.09.2006
+– Richtlinie zur Datensicherheit im IuK-Bereich vom 06.09.2006
 
 Darüber hinaus hat die zuständige Behörde im Jahr 2017 eine „Sensibilisierungskampagne zur Informationssicherheit“ gestartet, die die Grundprinzipien der Informationssicherheit und damit auch Aspekte des sorgsamen Umgangs mit personenbezogenen Daten am Arbeitsplatz allen Beschäftigten in der Hamburger Verwaltung näherbringt.
 

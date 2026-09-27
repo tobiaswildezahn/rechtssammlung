@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8356", "21/9972"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67493"
@@ -73,7 +74,7 @@ Ab welcher Geschwindigkeitsüberschreitung lösen die stationären Blitzer in Ha
 
 Lösen alle stationären Blitzer bei derselben Geschwindigkeitsüberschreitung aus? Wenn nein, welche stationäre Radarfalle löst bei welcher Geschwindigkeits-überschreitung aus und warum sind diese unterschiedlich geschaltet? (Bitte für jede einzelne Anlage angeben.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Ja. Darüber hinaus siehe Drs. 21/8356.
 

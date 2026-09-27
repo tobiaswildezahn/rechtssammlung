@@ -11,9 +11,10 @@ fraktionen: ["FDP"]
 vorgang: 53138
 seiten: 3
 fragen: 6
-einzelfragen: 8
-antwortbloecke: 5
+einzelfragen: 11
+antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9058"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58077"
@@ -57,7 +58,7 @@ In wie vielen Fällen, in denen Verfügungen des Freizügigkeitsverlustes nach �
 
 In wie vielen Fällen, in denen Verfügungen des Freizügigkeitsverlustes nach § 6 FreizügG/EU erlassen wurden, wurde ausschließlich nach Aktenlage entschieden? (Bitte jährlich für die Jahre 2010 – 2016 und monatlich für den Zeitraum Januar – Mai 2017 aufschlüsseln.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 In allen Fällen wird vor Erlass einer Entscheidung nach § 6 FreizügG/EU rechtliches Gehör angeboten. Ob die Betroffenen sich dazu äußern, bleibt ihnen selbst überlassen. Im Anschluss erfolgt eine Entscheidung nach Aktenlage, zu der auch die Äußerung im rechtlichen Gehör gehört.
 
@@ -126,10 +127,17 @@ Gesamt
 
 ### Frage 6
 
-6.1. Wie viele Aufforderungen zur Vorsprache bei der Ausländerbehörde zwecks Überprüfung des Freizügigkeitsrechts hat der Senat erlassen? (Bitte jährlich für die Jahre 2014 – 2016 und monatlich für den Zeitraum Januar – Mai 2017 aufschlüsseln.)
-6.2. Wie viele Betroffene kamen der Aufforderung nach?
 
-#### Antwort zu Frage 6
+
+### Frage 6.1
+
+Wie viele Aufforderungen zur Vorsprache bei der Ausländerbehörde zwecks Überprüfung des Freizügigkeitsrechts hat der Senat erlassen? (Bitte jährlich für die Jahre 2014 – 2016 und monatlich für den Zeitraum Januar – Mai 2017 aufschlüsseln.)
+
+### Frage 6.2
+
+Wie viele Betroffene kamen der Aufforderung nach?
+
+#### Antwort zu Fragen 6, 6.1 und 6.2
 
 Eine statistische Erfassung erfolgt nur in Bezug auf von der Polizei angetroffene und an die zuständige Behörde gemeldete Fälle seit März 2017. Die Angaben sind der folgenden Übersicht zu entnehmen:
 
@@ -142,13 +150,19 @@ Mai 2017
 
 Darüber hinaus werden solche Aufforderungen statistisch nicht erfasst und lassen sich auch nicht aus dem ausländerbehördlichen Fachverfahren ermitteln. Eine Auswertung der in Betracht kommenden Ausländerakten von zum Stand 30. April 2017 laut Ausländerzentralregister rund 100.000 Unionsbürgern in Hamburg ist nicht möglich.
 
-6.3. Wie verfährt der Senat in Fällen, in denen Betroffene der Aufforderung zur Vorsprache nicht folgen?
+### Frage 6.3
+
+Wie verfährt der Senat in Fällen, in denen Betroffene der Aufforderung zur Vorsprache nicht folgen?
+
+#### Antwort zu Frage 6.3
 
 Sofern die Möglichkeit der persönlichen Vorsprache beziehungsweise des rechtlichen Gehörs nicht wahrgenommen wird, entscheidet die zuständige Behörde nach bestehender Aktenlage, siehe auch Antwort zu 2. und 3.
 
-6.4. Wurden in Einrichtungen und Beratungsstellen der Wohnungslosenhilfe Aufforderungen verteilt, die Ausländerbehörde aufzusuchen und dort prüfen zu lassen, ob die Freizügigkeit weiterhin besteht?
+### Frage 6.4
 
-Wenn ja, in welchen Einrichtungen, mit welchem Inhalt, in welchem Umfang und mit welcher Wirkung?
+Wurden in Einrichtungen und Beratungsstellen der Wohnungslosenhilfe Aufforderungen verteilt, die Ausländerbehörde aufzusuchen und dort prüfen zu lassen, ob die Freizügigkeit weiterhin besteht? Wenn ja, in welchen Einrichtungen, mit welchem Inhalt, in welchem Umfang und mit welcher Wirkung?
+
+#### Antwort zu Frage 6.4
 
 Bei Aufforderungen zur Vorsprache beziehungsweise der Gewährung von rechtlichem Gehör handelt es sich um einzelfallbezogene, persönliche Anschreiben, die den Betroffenen direkt oder öffentlich zugestellt werden.
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 16
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62355"
@@ -87,7 +88,7 @@ Wie viel Flutraum ist im Baakenhafen durch diese Zuschüttungen verloren gegange
 
 Wie groß ist der Verlust dieses Flutraums im Verhältnis zu dem in Kreetsand neu geschaffenen Flutraum?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Im Baakenhafen (Halbinsel und Baakenhafenkopf) wurden insgesamt rund 4 ha Wasserfläche zugeschüttet, denen rund 30 ha neugeschaffener Flutraum im Kreetsand gegenüberstehen.
 

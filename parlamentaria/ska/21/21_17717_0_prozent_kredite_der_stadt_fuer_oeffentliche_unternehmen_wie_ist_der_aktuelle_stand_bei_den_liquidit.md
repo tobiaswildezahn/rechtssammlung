@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 61377
 seiten: 4
 fragen: 3
-einzelfragen: 7
-antwortbloecke: 3
+einzelfragen: 8
+antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4081", "21/6224", "21/7388", "21/8610", "21/9682", "21/10563", "21/11527", "21/12584", "21/13661", "21/14538", "21/15661", "21/16718", "20/13852", "21/218"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67317"
@@ -44,25 +45,44 @@ Der Senat beantwortet die Fragen teilweise auf Grundlage von Auskünften der HGV
 ### Frage 1
 
 Nutzung der Liquiditätshilfen:
-1.1. Welchen der im jeweiligen Haushaltsbeschluss genannten Unternehmen und Einrichtungen hat der Senat beziehungsweise die zuständige Behörde wann und warum im Zeitraum April bis Juni 2019 Liquiditätshilfen zur Verfügung gestellt?
-1.2. In welcher Höhe wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte jeweils zum Monatsende angeben.
-1.3. Wie lange und zu welchem Zins wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte keinen Durchschnittszins über alle Unternehmen wie in Drs. 20/13852 angeben.
-1.4. Woran orientiert sich jeweils die Höhe des Zinssatzes beziehungsweise wie wird sie ermittelt?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Welchen der im jeweiligen Haushaltsbeschluss genannten Unternehmen und Einrichtungen hat der Senat beziehungsweise die zuständige Behörde wann und warum im Zeitraum April bis Juni 2019 Liquiditätshilfen zur Verfügung gestellt?
+
+### Frage 1.2
+
+In welcher Höhe wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte jeweils zum Monatsende angeben.
+
+### Frage 1.3
+
+Wie lange und zu welchem Zins wurden die Liquiditätshilfen jeweils in den einzelnen Fällen zur Verfügung gestellt? Bitte keinen Durchschnittszins über alle Unternehmen wie in Drs. 20/13852 angeben.
+
+### Frage 1.4
+
+Woran orientiert sich jeweils die Höhe des Zinssatzes beziehungsweise wie wird sie ermittelt?
+
+#### Antwort zu Fragen 1, 1.1, 1.2, 1.3 und 1.4
 
 Siehe Anlage 1. Der Zinssatz betrug einheitlich 0,0 Prozent. Im Übrigen siehe Drs. 21/218 und 21/4081.
 
 ### Frage 2
 
 Limits für die Liquiditätshilfen:
-2.1. Welche Veränderungen der für die Liquiditätshilfen festgelegten Limits hat es jeweils wann und aus welchen Gründen im 2. Quartal 2019 gegeben?
 
-#### Antwort zu Frage 2
+### Frage 2.1
+
+Welche Veränderungen der für die Liquiditätshilfen festgelegten Limits hat es jeweils wann und aus welchen Gründen im 2. Quartal 2019 gegeben?
+
+#### Antwort zu Fragen 2 und 2.1
 
 Keine.
 
-2.2. Wie häufig, aus welchen Gründen und für jeweils welchen Zeitraum gab es im 2. Quartal 2019 bei welchen einzelnen Unternehmen und Einrichtungen Überschreitungen der Limits?
+### Frage 2.2
+
+Wie häufig, aus welchen Gründen und für jeweils welchen Zeitraum gab es im 2. Quartal 2019 bei welchen einzelnen Unternehmen und Einrichtungen Überschreitungen der Limits?
+
+#### Antwort zu Frage 2.2
 
 Limitüberschreitungen bestanden auf dem Betriebsmittelkonto des Landesbetriebs Planetarium am 09. April und vom 16. bis 26. Mai aufgrund von verspäteten Abforderungen der Betriebsmittelzuwendungen, bedingt durch den Wechsel in der Geschäftsführung des Landesbetriebs.
 

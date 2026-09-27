@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2242"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54650"
@@ -53,7 +54,7 @@ Wie viele Firmen-/Dienstwagen welchen Typs werden aktuell von Mitarbeitern der P
 
 Wie viele Firmen-/Dienstwagen welchen Typs werden aktuell von jenen HOCHBAHN-Mitarbeitern genutzt, die im Rahmen des Geschäftsbesorgungsvertrages für die P+R-Betriebsgesellschaft arbeiten, wann wurden diese jeweils angeschafft, welche Kosten in welcher Höhe sind im laufenden Jahr für die Firmen-/Dienstwagennutzung durch diese HOCHBAHN-Mitarbeiter veranschlagt und wie lautet in den einzelnen Fällen die Begründung für die Gewährung des jeweiligen Firmen-/Dienstwagens?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Derzeit werden drei E-Fahrzeuge des Typs Renault Zoe genutzt. Zwei Fahrzeuge wurden zum 1. Juni 2016 und ein Fahrzeug wurde zum 1. Juli 2016 angeschafft.
 
@@ -69,7 +70,7 @@ Wie hat sich die Zahl der von Mitarbeitern der P+R-Betriebsgesellschaft genutzte
 
 Wie hat sich die Zahl der von HOCHBAHN-Mitarbeitern, die im Rahmen des Geschäftsbesorgungsvertrages für die P+R-Betriebsgesellschaft arbeiten, genutzten Firmen-/Dienstwagen seit 2011 entwickelt? (Bitte jahresweise aufschlüsseln, die Fahrzeugtypen angeben und die Begründung für die Gewährung des Firmen-/Dienstwagens jeweils darlegen.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 2011: zwei Opel Astra Caravan Diesel
 
@@ -103,7 +104,7 @@ Wie haben sich die Gesamtkosten (Kauf, Leasing-/Mietraten, Wartung, Treibstoff e
 
 Wie haben sich die Gesamtkosten (Kauf, Leasing-/Mietraten, Wartung, Treibstoff et cetera) für Firmen-/Dienstwagen, die den im Dienste der P+R-Betriebsgesellschaft stehenden HOCHBAHN-Mitarbeitern zur Verfügung gestellt wurden/werden, seit 2011 entwickelt? (Bitte jahresweise aufschlüsseln.)
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Leasingraten (Brutto-Zahlen):
 

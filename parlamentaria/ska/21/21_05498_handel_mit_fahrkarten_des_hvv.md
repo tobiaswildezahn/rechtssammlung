@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53980"
@@ -81,7 +82,7 @@ Hat es schon konkrete Fälle gegeben, in denen ein derartiges Verhalten sanktion
 
 Welche rechtlichen Würdigungen wurden dabei konkret angewandt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Im Bereich der HOCHBAHN wird dieses spezielle Merkmal von der HOCHBAHN- Wache nicht erfasst, entsprechende Auswertungen sind daher nicht möglich. Bei der DB AG wurden – statistisch nicht gesondert erfasste – vereinzelte Hausverbote ausgesprochen, bei den anderen Verkehrsunternehmen sind Sanktionierungen nicht bekannt.
 

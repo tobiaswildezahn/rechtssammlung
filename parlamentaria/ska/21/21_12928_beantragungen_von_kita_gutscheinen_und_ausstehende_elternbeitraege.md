@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 26
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62250"
@@ -87,7 +88,7 @@ Wie viele Eltern haben den Kita-Gutschein verspätete neu beantragt? Angaben bit
 
 Wie viele Eltern mussten bei verspäteter Wiederbeantragung eines Kita- Gutscheins die Kitagebühren selber zahlen? Angaben bitte tabellarisch für die Jahre 2010 bis 2017 und 2018 bis zum Stichtag 1. April in gleicher Weise ausweisen wie in Frage 1.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Diese Angaben werden von der zuständigen Behörde sowie den zuständigen bezirklichen Dienststellen statistisch nicht erfasst. Eine händische Auswertung der zu prüfenden mehreren Zehntausend Akten ist seitens der bezirklichen Dienststellen in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
@@ -211,7 +212,7 @@ Gibt es eine Vereinbarung zwischen dem Hamburger Senat und den Verbänden, wie m
 
 Welche Lösungsvorschläge hat der Hamburger Senat für das Problem der Außenstände in den Kita-Einrichtungen?
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Über ausstehende Zahlungen von Sorgeberechtigten besteht keine Vereinbarung mit den Trägern und Verbänden der Kindertageseinrichtung, da diese Gegenstand des privatrechtlichen Verhältnisses von Kita-Träger und Eltern sind. Im Übrigen siehe Antworten zu 11. und 15.
 

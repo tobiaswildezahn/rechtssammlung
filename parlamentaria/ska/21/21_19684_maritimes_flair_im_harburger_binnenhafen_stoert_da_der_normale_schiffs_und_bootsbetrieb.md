@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/6609"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69405"
@@ -57,7 +58,7 @@ Wie viele Bedienstete im Bezirksamt Harburg besitzen einschlägige Erfahrungen i
 
 Wie ist die Qualifikation der momentan im Bezirksamt Harburg für die Überwachung der Nutzung von Wasserflächen betrauten Bediensteten?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Für die wasserbehördlichen Aufgaben hat das Bezirksamt Harburg (Fachamt MR, Abschnitt Wasserwirtschaft) Mitarbeiterinnen und Mitarbeiter mit fundierten Fachkenntnissen und langjährigen Erfahrungen auf diesem Gebiet. Es handelt sich um Wasserbauingenieurinnen und Wasserbauingenieure sowie Umweltingenieurinnen und Umweltingenieure. Im Übrigen siehe Vorbemerkung.
 

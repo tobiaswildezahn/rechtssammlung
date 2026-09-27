@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 37
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1586", "21/3358", "20/14591"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57067"
@@ -123,7 +124,7 @@ b) themenbezogen vom „Forum Verkehrssicherheit Hamburg“ ausgewertet und welc
 
 Wie hat sich die Zahl der von Bürgern dem „Forum Verkehrssicherheit Hamburg“ übermittelten Hinweise von 2011 bis einschließlich 2015 entwickelt? (Bitte jahresweise aufschlüsseln sowie die Themen der Anliegen und die daraus,nach Auswertung durch das Forum, resultierenden Maßnahmen angeben.)
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Bürgerinnen und Bürger nehmen sowohl telefonisch als auch per E-Mail Kontakt zu den Organisationen des Forums Verkehrssicherheit beziehungsweise zum federführenden LBV auf. Sofern es sich um Angelegenheiten handelt, welche sich konkret auf Aktionen oder Kampagnen des Forums und seiner Mitglieder beziehen, nimmt sich die jeweils verantwortliche Organisation des Anliegens an.
 
@@ -325,26 +326,26 @@ Fahrlehrerverband Hamburg,
 LBV, Verkehrswacht, Sucht-  
 Hamburg, Polizei
 
-  
+–  
 Auftakttreffen  
-  
+–  
 Sammeln von Hintergrundin-
 
-formationen  Ausarbeitung der Aufgaben
+formationen – Ausarbeitung der Aufgaben
 
 und Ziele der AG  
-  
+–  
 Erste Arbeitsansätze  
 23.03.2016  
 Fahrlehrerverband Hamburg,  
 LBV, Verkehrswacht, Polizei
 
- Auswertung der Ergebnisse
+– Auswertung der Ergebnisse
 
 der Arbeitsaufträge der Sitzung vom 04.02.2016  
-  
+–  
 Besprechung Unfallstatistik  
-  
+–  
 Abstimmung der weiteren
 
 Vorgehensweise  
@@ -353,9 +354,9 @@ Fahrlehrerverband Hamburg,
 LBV, Verkehrswacht, Sucht-  
 Hamburg, Polizei
 
- Diskussion zu einer mögli-
+– Diskussion zu einer mögli-
 
-chen Aktion an Schulen  Abstimmung weiteres Vor-
+chen Aktion an Schulen – Abstimmung weiteres Vor-
 
 gehen
 
@@ -400,7 +401,7 @@ Polizei Hamburg, ACE,
 BSB, Abstinent -Fahren  
 e. V., ADAC, UK Nord
 
- Planung der Aktion „Rücksicht auf
+– Planung der Aktion „Rücksicht auf
 
 Kinder ...“ im Jahr 2016, hier u. a.
 
@@ -417,14 +418,14 @@ Themen
 
 31.03.2016 Fahrlehrerverband, Polizei, LBV
 
- Abstimmung und Vorbereitung Pla-
+– Abstimmung und Vorbereitung Pla-
 
 katkampagne „angeschnallt?“  
 02.02.2017  
 Polizei Hamburg, BSB,  
 ADAC, UK Nord
 
- Planung der Aktion „Rücksicht auf
+– Planung der Aktion „Rücksicht auf
 
 Kinder“ im Jahr 2017
 
@@ -455,17 +456,17 @@ Themen
 
 21.01.2016 UK Nord, LBV, BSB, BWVI, Polizei, ADFC
 
- „Fahrradstadt HH auf dem richti-
+– „Fahrradstadt HH auf dem richti-
 
-gen Weg“ – APP-Erstellung  Erweiterung/Erneuerung Webseite
+gen Weg“ – APP-Erstellung – Erweiterung/Erneuerung Webseite
 
 01.02.2016 LBV, BWVI, Polizei Hamburg, ADFC
 
-  
+–  
 Westenherstellung  
-  
+–  
 Informationsbroschüre des DVR  
-  
+–  
 Grafikvorschläge für Kampagne
 
 „Auf dem richtigen Weg“  
@@ -473,16 +474,16 @@ Grafikvorschläge für Kampagne
 Polizei, ADFC, LBV,  
 BWVI, BSB
 
-  
+–  
 Westenherstellung  
-  
+–  
 Infostand der Polizei bei der Fahr-
 
-rad-Sternfahrt  ÖA/Repression i. S. Parken auf
+rad-Sternfahrt – ÖA/Repression i. S. Parken auf
 
 Radfahr-/Schutzstreifen  
 (LBV/Polizei)  
-  
+–  
 Einbindung der Eltern-/und Schü-
 
 lerkammer bei themenbezogenen  
@@ -491,11 +492,11 @@ Fahrradprojekten durch BSB
 ADFC, LBV, BWVI, UK  
 Nord
 
- Finale Abstimmung Kampagne
+– Finale Abstimmung Kampagne
 
 Buswerbung „Auf dem richtigen  
 Weg“  
-  
+–  
 Weiter Elemente Kampagne, z.B.
 
 Postkarte  
@@ -503,23 +504,23 @@ Postkarte
 ADFC, LBV, BWVI, UK  
 Nord
 
-  
+–  
 Nachbesprechung Aktionen  
-  
+–  
 Mögliche Aktionen  
 13.12.2016  
 Polizei, ADFC, LBV,  
 BWVI
 
-  
+–  
 Termine 2017  
-  
+–  
 Verfügbarkeiten der Teilnehmer  
-  
+–  
 Bestand vorhandene Materialien  
-  
+–  
 Mögliche Aktionen  
-  
+–  
 Kooperation mit DVR Kampagnen
 
 Im Weiteren erfolgten verschiedene Termine zur Abstimmung von Aktionen und Kampagnen zwischen einzelnen Teilnehmern, die nicht als Arbeitskreissitzung erfasst wurden.
@@ -559,18 +560,18 @@ Themen
 
 08.03.2016 LBV, Verkehrswacht, Verkehrsinstitut Hanse, Abstinent-Fahren, Fahrlehrerverband
 
- Mögliche Ausrichtung, Aktionen und
+– Mögliche Ausrichtung, Aktionen und
 
-Schwerpunkte  Vorhandenes Angebot
+Schwerpunkte – Vorhandenes Angebot
 
 07.07.2016 LBV, Verkehrswacht, Verkehrsinstitut Hanse, Abstinent-Fahren, Fahrlehrerverband
 
-  
+–  
 Rückschau  
-  
+–  
 Neue Entwicklun-
 
-gen/Schwerpunkte/Zielsetzungen  Wahl der Arbeitskreis-Leitung
+gen/Schwerpunkte/Zielsetzungen – Wahl der Arbeitskreis-Leitung
 
 Themen in 2017: - Fortschreibung der angebotenen Module und Gewinnung von Teilnehmern.
 
@@ -593,12 +594,12 @@ Themen
 
 10.03.2016 Fahrlehrerverband HH, LBV, Polizei
 
- Aktuelle Präventions-
+– Aktuelle Präventions-
 
 Maßnahmen der Polizei  
-  
+–  
 Fotokampagne des DVR  
-  
+–  
 Mitwirkung der Landesver-
 
 kehrswacht

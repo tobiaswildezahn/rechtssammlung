@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68672"
@@ -95,6 +96,6 @@ Für welche zukünftigen StadtRAD-Stationen im Wahlkreis Alstertal- Walddörfer 
 
 An welchen Standorten im Wahlkreis Alstertal-Walddörfer werden derzeit welche Flächen für eine Verfügbarkeit und Eignung für das StadtRAD- Konzept geprüft?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im Wahlkreis Alstertal-Walddörfer hat die Prüfung und Bestimmung von geeigneten Flächen für neue StadtRAD-Stationen noch nicht begonnen.

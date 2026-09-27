@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62507"
@@ -134,9 +135,9 @@ Wie viele Starts und Landungen werden derzeit sowie wurden in den vergangenen f�
 
 In den vergangenen fünf Jahren erfolgten rund 1.100 Bewegungen mit B737-300 und 718 Bewegungen mit MDD-80-Serie. (LAS = Schallpegel)
 
- MDD82: LAS max: 87,1 dB(A) Start/LAS max: 87,3 dB(A) Landung
+– MDD82: LAS max: 87,1 dB(A) Start/LAS max: 87,3 dB(A) Landung
 
- B7373: LAS max: 79,3 dB(A) Start/LAS max: 87,5 dB(A) Landung
+– B7373: LAS max: 79,3 dB(A) Start/LAS max: 87,5 dB(A) Landung
 
 ### Frage 8
 
@@ -146,25 +147,25 @@ Welches sind derzeit sowie waren in den vergangenen fünf Jahren die fünf laute
 
 Wie viele Starts und Landungen werden derzeit sowie wurden in den vergangenen fünf Jahren von diesen Flugzeugen in Hamburg durchgeführt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Gemessen an ihrem Klassenwert handelt es sich bei den nachfolgenden Typen um die fünf lautesten Baumuster.
 
 In den vergangenen fünf Jahren hat es durch das Flugzeugmuster
 
- MDD82, MD82 rund 700 Bewegungen – alle zwischen den Jahren 2013 bis 2017
+– MDD82, MD82 rund 700 Bewegungen – alle zwischen den Jahren 2013 bis 2017
 
 und bisher nur eine Bewegung im Jahr 2018,
 
- B7474, B744 rund 200 Bewegungen – inklusive G20,
+– B7474, B744 rund 200 Bewegungen – inklusive G20,
 
- B7674, B764 rund 80 Bewegungen,
+– B7674, B764 rund 80 Bewegungen,
 
- B7673, B763 rund 1.500 Bewegungen,
+– B7673, B763 rund 1.500 Bewegungen,
 
- B7478, B748 rund 100 Bewegungen – ausschließlich Lufthansa-Technik,
+– B7478, B748 rund 100 Bewegungen – ausschließlich Lufthansa-Technik,
 
- A3006, A306 rund 330 Bewegungen
+– A3006, A306 rund 330 Bewegungen
 
 gegeben.
 

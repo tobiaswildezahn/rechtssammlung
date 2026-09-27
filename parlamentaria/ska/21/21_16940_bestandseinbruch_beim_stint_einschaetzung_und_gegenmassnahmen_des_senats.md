@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66525"
@@ -45,23 +46,23 @@ Daraufhin wurde seitens der Stiftung Lebensraum Elbe ein Auftrag zur Aufbereitun
 
 Bezogen auf die Wirkung unterschiedlicher Einflussfaktoren auf die Stintpopulation liegen abstrakt folgende Erkenntnisse vor:
 
- Beim Stint handelt es sich um eine pelagische Fischart, das heißt sie lebt bevor-
+– Beim Stint handelt es sich um eine pelagische Fischart, das heißt sie lebt bevor-
 
 zugt im sogenannten Freiwasser. Die Seeschifffahrtsrinne in der Tideelbe ist ein geeigneter Lebensraum der geschlechtsreifen Stinte.
 
- Innerhalb eines Kühlwassersystems können verschiedene Effekte, zum Beispiel
+– Innerhalb eines Kühlwassersystems können verschiedene Effekte, zum Beispiel
 
 mechanische, thermische oder chemische Schädigungen, negative Auswirkungen auf die an- beziehungsweise eingesaugten Stinte, Eier und Larven haben und letztendlich Schädigungen bis hin zu ihrem Tod auslösen.
 
- Hohe Konzentrationen an Schwebstoffpartikeln im Gewässer sorgen dafür, dass
+– Hohe Konzentrationen an Schwebstoffpartikeln im Gewässer sorgen dafür, dass
 
 Stinteier schlechter mit Sauerstoff versorgt werden. Außerdem verringert eine hohe Gewässertrübung den Nahrungserfolg insbesondere von Stintlarven. Beides reduziert den Aufwuchserfolg.
 
- In Flachwasserzonen leben bevorzugt Jungstinte. Durch den Verlust derartiger
+– In Flachwasserzonen leben bevorzugt Jungstinte. Durch den Verlust derartiger
 
 Habitate verlieren sie wichtige Nahrungs- und Rückzugsgebiete. Dies reduziert den Aufwuchserfolg.
 
- Stinteier, Stintlarven und Jungstinte sind gegenüber niedrigen Sauerstoffkonzent-
+– Stinteier, Stintlarven und Jungstinte sind gegenüber niedrigen Sauerstoffkonzent-
 
 rationen (< 4,5 mg O/l) besonders sensitiv. Im Gegensatz zu geschlechtsreifen Stinten können sie keine bzw. nur kleinräumige Ausweichreaktionen durchführen. Derartige Sauerstoffkonzentrationen erhöhen daher die jeweilige Sterberate.
 
@@ -87,7 +88,7 @@ Welche Auswirkungen auf FFH-Arten können von einem Zusammenbruch des Stintbesta
 
 Welche Auswirkungen auf FFH-Arten erkennt der Senat?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Stint dient den nach der Fauna-Flora-Habitat-Richtlinie (FFH) geschützten Arten Rapfen, Finte und Schweinswal teilweise als Nahrungsgrundlage, sodass grundsätzlich Auswirkungen auf diese FFH-Arten denkbar wären. Ein wesentlicher Rückgang des Stintbestands könnte einen Bestandsrückgang dieser Arten zur Folge haben. In welchem Umfang beziehungsweise mit welcher Intensität ein möglicher Zusammenbruch des Stintbestands tatsächlich Auswirkungen auf diese FFH-Arten nach sich ziehen würde, ist jedoch unklar, da die Populationsentwicklung dieser FFH-Arten noch von diversen weiteren Faktoren beeinflusst wird.
 
@@ -139,7 +140,7 @@ Gibt es bezüglich der Entwicklung der Stintbestände einen Austausch mit Nieder
 
 Werden dort Untersuchungen angestellt und spezielle Maßnahmen ergriffen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Innerhalb des Koordinierungsraumes Tideelbe der Flussgebietsgemeinschaft Elbe hat es zuletzt im März 2019 einen themenbezogenen Fachaustausch auf Referentenebene gegeben.
 

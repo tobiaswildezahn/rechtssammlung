@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13587", "20/9064"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58114"
@@ -51,7 +52,7 @@ Zu welchem Zeitpunkt hat der Leerstand in Neuenfelde eingesetzt? Was waren die k
 
 Wann und aus welchen Gründen hat die Stadt die leerstehenden Häuser aufgekauft?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Um im Falle eines Planfeststellungsverfahrens für eine mögliche Start- und Landebahnverlängerung die Verfügungsbefugnis über die planbefangenen Flächen innezuhaben, hat die Freie und Hansestadt Hamburg (FHH) die Ankaufsverhandlungen für rund 50 bebaute Grundstücke im Jahr 2000 aufgenommen und bis Ende 2005 abgeschlossen. Die FHH hat den ehemaligen Eigentümern der Häuser eine Räumungsfrist von zwei Jahren gewährt, die individuell genutzt wurde. Der Leerstand hat bereits etwa 1999 begonnen, da wegen der Airbuserweiterung auf Wunsch der FHH als Eigentümerin keine Neuvermietungen mehr erfolgen sollten.
 

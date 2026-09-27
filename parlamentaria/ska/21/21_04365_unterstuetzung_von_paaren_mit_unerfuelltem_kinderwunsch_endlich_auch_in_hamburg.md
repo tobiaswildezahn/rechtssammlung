@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9689", "20/9853", "20/14364"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52766"
@@ -43,7 +44,7 @@ In welcher Form hat sich der Senat seit November 2013 bei der Bundesregierung da
 
 Zu welchen Ergebnissen hat der Einsatz des Senats auf Bundesebene geführt? Bitte um detaillierte Darstellung.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 20/14364.
 
@@ -86,7 +87,7 @@ Wie viele Paare nutzten seit dem Jahr 2010 Maßnahmen der assistierten Reprodukt
 
 Wie viele Kinder wurden seit dem Jahr 2010 durch Maßnahmen der assistierten Reproduktion in Hamburg geboren?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Diese Daten werden von der zuständigen Behörde statistisch nicht erfasst. Im Übrigen siehe http://www.deutsches-ivf-register.de/.
 

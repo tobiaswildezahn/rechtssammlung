@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 38
 antwortbloecke: 22
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5039", "21/4896", "21/7911", "21/6646", "21/2807", "21/2483", "21/4278", "21/2196", "21/5331"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56797"
@@ -43,7 +44,7 @@ Wie viele Salafisten halten sich nach Informationen des Senats derzeit in Hambur
 
 Wie viele Mitglieder weiterer islamistischer Gruppen halten sich derzeit in Hamburg auf? Bitte die Anzahl der den jeweiligen Gruppierung zuzuordnenden Personen angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Zahlen unterliegen aufgrund der sich ständig verändernden Informationslage, datenschutzrechtlicher Pflegemaßnahmen der gespeicherten Daten sowie Länderzuständigkeiten einer ständigen Fluktuation. Aktuelle verifizierte Daten im Sinne der Fragestellung liegen derzeit nicht vor. Im Übrigen siehe Drs. 21/7911 und Drs. 21/6646.
 

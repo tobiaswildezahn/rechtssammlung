@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48981"
@@ -61,7 +62,7 @@ Wie viele Autowaschstraßen mit Sonntagsbetrieb gab es jeweils am Jahresende sei
 
 Wie ist die Veränderung der Zahl dieser Waschstraßen zu erklären?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Statistische Angaben hierzu liegen nicht vor.
 

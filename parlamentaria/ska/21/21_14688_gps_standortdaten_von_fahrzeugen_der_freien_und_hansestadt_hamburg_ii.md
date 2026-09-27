@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12880"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64161"
@@ -47,7 +48,7 @@ Von wie vielen Fahrzeugen der Stadtreinigung Hamburg, Gebäudemanagement Hamburg
 
 Seit wann?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zur Tourenplanung werden bei der Stadtreinigung Hamburg (SRH) Standortdaten von insgesamt 135 Fahrzeugen ermittelt. Dabei handelt es sich um Großkehr-und Gerätekehrmaschinen sowie speziell im Winterdienst eingesetzte Fahrzeuge. Aufgezeichnet werden ausschließlich die gefahrenen Strecken, ohne die Angabe von Uhrzeiten.
 

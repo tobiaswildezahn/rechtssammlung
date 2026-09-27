@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5039", "21/5331"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54202"
@@ -72,7 +73,7 @@ Wie viele dem salafistischen Spektrum zuzuordnende Personen (nach Frage 1.) sind
 
 An welchen Schulen werden diese Salafisten beschult?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Frage nach salafistischen und/oder islamistischen Schülerinnen und Schülern kann nicht beantwortet werden, da aufgrund der gesetzlichen Bestimmungen ein Abgleich zwischen den beim LfV Hamburg vorliegenden Speicherungen und dem Zentralen Schülerregister nicht möglich ist.
 
@@ -86,7 +87,7 @@ Ist den jeweiligen Schulen (Schulleitung und Lehrpersonal) bekannt, dass sie Sal
 
 Wie gehen die zuständigen Behörden und die Schulen mit dieser Herausforderung um?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Das LfV Hamburg informiert aufgrund seines gesetzlichen Auftrages die Öffentlichkeit auf vielfältige Art und Weise über extremistische und darunter auch salafistische Bestrebungen. Dies geschieht durch die Publikation des jährlichen Verfassungsschutzberichtes, Internetbeiträge, Pressekonferenzen, Medieninterviews, die Herausgabe einer Kompakt-Information „Salafismus“ sowie auf Einladung auch auf Vorträgen und Diskussionsveranstaltungen.
 
@@ -108,6 +109,6 @@ In welchem Umfang erfolgt in den Schulen die Aufklärung über den Salafismus? H
 
 In welchem Umfang finden Fortbildungen für Lehrkräfte an Schulen statt zum Thema Salafismus? Ist eine Teilnahme hieran verbindlich?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/5039 und 21/5331.

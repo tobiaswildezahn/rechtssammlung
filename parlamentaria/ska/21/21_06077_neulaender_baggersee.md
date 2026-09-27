@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 10
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54587"
@@ -65,7 +66,7 @@ Welche Arten wurden durch die Besatzaktionen des Angelvereins in den See eingebr
 
 Wurden die Artenzusammenstellungen der Besatzaktionen und deren Auswirkungen auf den See durch fachkundige wissenschaftliche Begleitung abgesichert? Wenn ja, durch welche Institution? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Durch die Besatzaktionen wurden Karpfen, Schleie und Zander eingebracht.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9168"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57970"
@@ -67,7 +68,7 @@ Nach welchen Kriterien werden solche Parkplätze eingerichtet?
 
 Unter welchen Voraussetzungen wird eine entsprechende Berechtigung erteilt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/9168.
 

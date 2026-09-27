@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6861"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56413"
@@ -55,7 +56,7 @@ d. Migranten/-innen?
 e. Geflüchteten?  
 f. Menschen mit Schwerbehinderung?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1. Vonseiten des Statistik-Service der Bundesagentur für Arbeit erfolgt im Sinne der Fragestellung aus methodischen Gründe keine Berichterstattung zu den Merkmalen „Migranten“ beziehungsweise „Geflüchtete“. Erfasst wird nur das Merkmal „Ausländer“.
 
@@ -69,7 +70,7 @@ Wie lange besteht im Durchschnitt die Dauer von aufstockenden Leistungen jeweils
 
 Wie viele Leistungsberechtigte nach dem SGB II und SGB III konnten sich in den Jahren 2015 bis aktuell komplett aus dem Leistungsbezug nach ihrer Existenzgründung lösen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Vonseiten des Statistik-Service der Bundesagentur für Arbeit erfolgt keine Auswertung im Sinne der Fragestellungen.
 

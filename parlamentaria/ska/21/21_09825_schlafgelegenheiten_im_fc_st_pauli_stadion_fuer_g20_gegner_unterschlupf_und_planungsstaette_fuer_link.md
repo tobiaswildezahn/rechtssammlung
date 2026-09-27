@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58643"
@@ -61,7 +62,7 @@ Waren unter diesen Personen solche, die vom Verfassungsschutz beobachtet werden 
 
 Wie viele der dort übernachtenden beziehungsweise sich dorthin zurückziehenden Personen stehen in Verdacht, an Ausschreitungen während der Zeit des G20-Gipfels teilgenommen zu haben? Bitte nach Staatsangehörigkeit aufschlüsseln und benennen, ob sie den Behörden als Linksextremisten bekannt waren!
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Im dortigen Bereich hielt sich nach vorliegenden Hinweisen zeitweise eine Gruppe von circa 60 Personen auf, die dem äußeren Erscheinungsbild nach dem sogenannten Schwarzen Block zuzurechnen waren. Diesen Hinweisen wird weiter nachzugehen sein. Im Übrigen sind die erfragten Sachverhalte Gegenstand laufender Ermittlungen bzw. der noch nicht abgeschlossenen Nachbereitung des Einsatzes der Sicherheitsbehörden zum G20-Gipfel.
 
@@ -73,7 +74,7 @@ Wie viele der dort übernachtenden beziehungsweise sich dorthin zurückziehenden
 
 Wie viele der dort übernachtenden beziehungsweise sich dorthin zurückziehenden Personen wurden in Gewahrsam genommen? Bitte nach Staatsangehörigkeit aufschlüsseln und benennen, ob sie den Behörden als Linksextremisten bekannt waren!
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die erfragten Sachverhalte sind Gegenstand laufender Ermittlungen beziehungsweise der noch nicht abgeschlossenen Nachbereitung des Einsatzes der Sicherheitsbehörden zum G20-Gipfel.
 

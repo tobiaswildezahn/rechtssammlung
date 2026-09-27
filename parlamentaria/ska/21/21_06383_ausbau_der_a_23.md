@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54899"
@@ -51,7 +52,7 @@ Wann werden die konkreten Planungen aufgenommen?
 
 Zu wann wird der Ausbau der A 23 nach aktuellem Stand abgeschlossen sein?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Landesregierung von Schleswig-Holstein teilt hierzu mit, dass es ihr Ziel sei, alle BVWP-Maßnahmen des vordringlichen Bedarfs bis zum Jahr 2030 umzusetzen beziehungsweise planerisch vorzubereiten. Eine Priorisierung der Maßnahmen, insbesondere solcher, mit deren Planung noch nicht begonnen worden ist, steht noch aus.
 

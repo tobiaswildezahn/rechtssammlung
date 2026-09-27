@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3165"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54425"
@@ -37,11 +38,11 @@ Vor diesem Hintergrund frage ich den Senat:
 
 Im Sinne der Fragestellungen sind im Wesentlichen zwei unterschiedliche Strafnormen einschlägig:
 
- Gemäß § 86a Strafgesetzbuch (StGB) ist es strafbar, Kennzeichen einer verfas-
+– Gemäß § 86a Strafgesetzbuch (StGB) ist es strafbar, Kennzeichen einer verfas-
 
 sungswidrigen Organisation zu verbreiten oder öffentlich, in einer Versammlung oder in verbreiteten Schriften zu verwenden. Kennzeichen in diesem Sinne sind „namentlich Fahnen, Abzeichen, Uniformstücke, Parolen und Grußformen“ (§ 86a Absatz 2 StGB). Neben bestimmten rechts- und linksextremen Gruppen fallen auch verschiedene islamistische Vereinigungen und linksextreme Ausländervereine mit ihren Symbolen in den Anwendungsbereich des Kennzeichenverbots.
 
- Von den verbotenen Vereinigungen im Sinne des § 86 Absatz 1 Nummer 2 StGB
+– Von den verbotenen Vereinigungen im Sinne des § 86 Absatz 1 Nummer 2 StGB
 
 zu unterscheiden sind kriminelle oder terroristische Vereinigungen nach den §§ 129, 129a, 129b StGB. Das Verwenden von Kennzeichen derartiger Vereinigungen unterfällt deshalb nicht § 86a StGB, kann jedoch nach den §§ 129 ff. StGB strafbar sein, wenn hierin ein Werben für diese Organisationen oder Unterstützungshandlungen zu sehen sind.“
 
@@ -69,7 +70,7 @@ Bei welchen Demonstrationen wurden in diesem Jahr welche verbotenen Kennzeichen 
 
 Wie viele Strafanzeigen wurden in diesem Zusammenhang wegen welcher Strafvorschriften gestellt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Statistiken im Sinne der Fragestellung werden bei der Polizei nicht geführt. Zur Beantwortung wurde die Kriminaltaktische Anfrage (KTA) des kriminalpolizeilichen Meldedienstes Politisch motivierte Kriminalität (KPMD PMK) als Recherchegrundlage genutzt.
 

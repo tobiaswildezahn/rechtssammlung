@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62812"
@@ -146,7 +147,7 @@ Welchen Migrationshintergrund haben die vier Tatverdächtigen?
 
 Welchen aufenthaltsrechtlichen Status besitzen die Tatverdächtigen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Nach den Erkenntnissen der ermittelnden Bundespolizei, soweit diese Hamburger Behörden bekannt geworden sind, ist ein Beschuldigter nepalesischer Staatsangehöriger. Dieser Beschuldigte, dessen ausländerrechtliche Zuständigkeit laut Ausländerzentralregister in Hof liegt, ist im Besitz einer Aufenthaltserlaubnis nach § 23 Absatz 1 AufenthG. Die übrigen Beschuldigten sind Deutsche, die nach Artikel 11 Absatz 1 Grundgesetz Freizügigkeit genießen; auf Deutsche findet das Aufenthaltsgesetz keine Anwendung (§ 1 Absatz 1 Satz 4 in Verbindung mit § 2 Absatz 1 AufenthG). Über den konkreten Migrationshintergrund liegen den Hamburger Behörden keine Erkenntnisse vor.
 

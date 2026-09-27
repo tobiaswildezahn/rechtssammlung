@@ -14,6 +14,7 @@ fragen: 42
 einzelfragen: 57
 antwortbloecke: 41
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9758", "21/13273", "21/16887", "21/11787", "21/10677", "21/11001", "21/6544", "21/16284", "21/12038", "21/131"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66836"
@@ -972,7 +973,7 @@ Wie viele Asylsuchende haben im April 2019 in der zentralen Test- und Meldestell
 
 Welche Einstufungen und Überweisung in jeweils welche Kurse (Alphabetisierungskurs, regulärer Integrationskurs und so weiter) ergaben sich aus den Tests im April 2019?
 
-#### Antwort zu Fragen 37 bis 38
+#### Antwort zu Fragen 37 und 38
 
 Siehe Antwort zu 35.
 

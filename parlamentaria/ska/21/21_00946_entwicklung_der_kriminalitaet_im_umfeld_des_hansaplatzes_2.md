@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/907", "20/12095", "20/12831"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49115"
@@ -110,7 +111,7 @@ Nach welchen Kriterien, für welche Dauer und durch wessen Bewilligung erhalten 
 
 In welcher Höhe werden diese sozialen Einrichtungen von der Stadt gefördert? Bitte aufschlüsseln nach Einrichtung.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage. Die Kriterien, nach denen die FHH Fördermittel bewilligt, sind in den zuwendungsrechtlichen Vorschriften gemäß § 46 LHO festgelegt. Im Übrigen siehe Drs. 20/12831.
 
@@ -122,7 +123,7 @@ Welche Maßnahmen sind vorgesehen, die Probleme im Bereich des Hansaplatzes und 
 
 Welche Aufgaben haben und welche Ziele verfolgen die sozialen Einrichtungen in St Georg?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Vorschläge zur Verbesserung der Gesamtsituation am Hansaplatz und in St. Georg wurden im Forum Hansaplatz diskutiert und der Bezirksversammlung vorgelegt (siehe Bezirksdrs. 21-1261, https://sitzungsdienst-hamburg-mitte.hamburg.de/bi/vo040.asp). Die Prüfungen hierzu sind noch nicht abgeschlossen. Im Übrigen siehe Drs. 21/907.
 

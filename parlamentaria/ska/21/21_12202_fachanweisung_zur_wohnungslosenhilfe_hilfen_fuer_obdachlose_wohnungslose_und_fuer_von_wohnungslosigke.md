@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10281"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61474"
@@ -47,7 +48,7 @@ Warum wurden Teil 5 und 6 bisher nicht veröffentlicht?
 
 Wann ist mit einer Veröffentlichung der beiden Teile 5 und 6 zu rechnen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Von dem Inkraftsetzen der Teile 5 und 6 wurde vor dem Hintergrund einer grundlegenden Überarbeitung der gesamten Fachanweisung abgesehen. Dabei werden die ursprünglich für den Teil 5 „Hilfen des Sozialmanagements“ vorgesehenen Regelungen für eine Hilfeplanung im Sinne einer systematischen und strukturierten Fallbearbeitung in die jeweils spezifischen Regelungen zu den Aufgabenbereichen „Hilfen zur Wohnungssicherung“ (Teil 2), „öffentlich-rechtliche Unterbringung“ (Teil 3) und „Vermittlung in Wohnraum“ (Teil 4) integriert werden. Im Teil 2 „Hilfen zur Wohnungssicherung“ ist dies bereits umgesetzt worden.
 

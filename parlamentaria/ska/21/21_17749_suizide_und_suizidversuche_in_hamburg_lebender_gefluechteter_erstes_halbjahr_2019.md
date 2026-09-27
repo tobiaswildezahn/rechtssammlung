@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 0
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14069", "21/11643", "21/16284", "21/16550", "21/16887", "21/17259", "21/17544"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67352"
@@ -55,7 +56,7 @@ c. Geschlecht,
 d. Standort der Unterkunft,  
 e. Monat der Tat.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zur Belegung der Unterkünfte in 2019 siehe http://www.hamburg.de/zkf-lagebild/.
 
@@ -74,7 +75,7 @@ c. Geschlecht,
 d. Standort der Unterkunft,  
 e. Monat der Tat.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Im ersten Halbjahr 2019 gab es im Ankunftszentrum neun Suizidversuche beziehungsweise Vorfälle, bei denen es sich um Suizidversuche gehandelt haben könnte.
 
@@ -167,7 +168,7 @@ c. Geschlecht,
 d. Standort der Unterkunft,  
 e. Monat der Tat.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Zur Zahl der in Unterkünften der öffentlich-rechtlichen Unterbringung von Zuwanderern und Wohnungslosen (örU) untergebrachten Flüchtlinge siehe Drs. 21/16284, 21/16550, 21/16887, 21/17259 und 21/17544. Im ersten Halbjahr 2019 sind in der örU keine Suizide oder Vorfälle, bei denen es sich um Suizide gehandelt haben könnte, bekannt geworden. Im Übrigen: entfällt.
 
@@ -184,7 +185,7 @@ c. Geschlecht,
 d. Standort der Unterkunft,  
 e. Monat der Tat.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Monat (1. HJ 2019)
 

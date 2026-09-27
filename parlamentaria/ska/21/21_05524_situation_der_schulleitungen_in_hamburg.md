@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 24
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2300"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54008"
@@ -115,7 +116,7 @@ Wann wurde die oben genannte Arbeitsgruppe eingesetzt und mit welcher Zielstellu
 
 Aus welchem Grund wurde die Arbeitsgruppe eingesetzt, wenn es in Hamburg – anders als in anderen Bundesländern – nach Auskunft der BSB eigentlich keine Probleme mit der Nachbesetzung von Schulleitungen gibt?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Trotz guter Bewerberlage setzt die Besetzung von Leitungsstellen eine gute, systematische und langfristig ausgerichtete Personalentwicklung voraus. Die Herausforderungen an Führungskräfte und Fachleitungen haben sich für die selbstverantworteten Schulen neben operativen und verwaltungstechnischen Aufgaben auch im Bereich der Datenerfassung und der datengestützten Schulentwicklung sowie Qualitätssicherung weiterentwickelt.
 

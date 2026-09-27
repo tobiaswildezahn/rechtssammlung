@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3174", "21/3322", "21/3345"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51871"
@@ -79,7 +80,7 @@ Wie oft sind in den Jahren 2013, 2014 und 2015 durch die Jugendämter in Obhut g
 
 Welche Regelungen gelten in den Einrichtungen, wenn in Obhut genommene Jugendliche nicht zeitgerecht vor Ort sind?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Inobhutnahme durch das Jugendamt ist eine vorläufige Maßnahme zum Schutz von Kindern und Jugendlichen nach § 42 SGB VIII. Im Übrigen siehe Drs. 21/3174, Drs. 21/3322 und Drs. 21/3345.
 

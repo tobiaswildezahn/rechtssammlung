@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2608"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52428"
@@ -128,7 +129,7 @@ Wie wird sichergestellt, dass allen Leitstellen die aktuelle Verfügbarkeit alle
 
 Ist geplant, alle Leitstellen zu einer Leitstelle zusammen zu legen?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Feuerwehr ist im öffentlichen Rettungsdienst mit der Disposition der Notfallrettung beauftragt. Hierzu verfügt sie über eine aktuelle Übersicht der für die Notfallrettung zur Verfügung stehenden Fahrzeuge.
 

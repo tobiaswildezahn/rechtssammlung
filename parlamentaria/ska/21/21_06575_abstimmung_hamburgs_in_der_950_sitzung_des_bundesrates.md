@@ -14,6 +14,7 @@ fragen: 40
 einzelfragen: 44
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55138"
@@ -196,7 +197,7 @@ Entschließung des Bundesrates zur Abschaffung der Abgeltungsteuer?
 
 Entschließung des Bundesrates für eine Reformierung des Bußgeldsystems und für eine Erweiterung der Sanktionen in der Bußgeld- Katalog-Verordnung bei besonders gefährlichen Verstößen im Straßenverkehr?
 
-#### Antwort zu Fragen 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 38, 39, 40
+#### Antwort zu Fragen 2 bis 36 und 38 bis 40
 
 Über die wichtigsten Ergebnisse der Bundesratssitzung sind die Fraktionsvorsitzenden und Parlamentarischen Geschäftsführer der in der Bürgerschaft vertretenen Parteien am 4. November 2016, wie üblich direkt im Anschluss an die Sitzung, am Freitagnachmittag informiert worden. Die entsprechende Information ist überdies im Transparenzportal verfügbar.
 

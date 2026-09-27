@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11209", "21/137"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48820"
@@ -57,7 +58,7 @@ Wie viele Wohnungen wurden laut dem Statistikamt Nord im Jahr 2014 insgesamt fer
 
 Wie teilen sich die unter Frage 1. genannten Fertigstellungszahlen auf die sieben Hamburger Bezirke auf?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Fertiggestellte Wohnungen im Wohn- und Nichtwohnbau in Hamburg im Jahr 2014 nach Bezirken
 
@@ -86,7 +87,7 @@ Wie viele Wohnungen sind laut dem Statistikamt Nord im Jahr 2014 durch Abriss, Z
 
 Wie teilen sich die unter Frage 2. genannten Abrisse, Zusammenlegungen et cetera auf die sieben Hamburger Bezirke auf?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Wohnungen, die durch Baumaßnahmen an bestehenden Gebäuden (zum Beispiel Wohnungszusammenlegungen) entfallen, werden nach bundesweit eingesetzter Methodik der amtlichen Statistik implizit im jeweiligen Jahresergebnis durch Saldierung berücksichtigt, aber nicht gesondert ausgewiesen. Das heißt, die jeweilige Anzahl an insgesamt fertiggestellten Wohnungen stellt die Zahl an neuen Wohnungen dar, die durch Neubau oder Baumaßnahmen an bestehenden Gebäuden zusätzlich geschaffen wurden.
 
@@ -128,7 +129,7 @@ Wie viele frei finanzierte Wohnungen sind laut dem Statistikamt Nord im Jahr 201
 
 Wie teilen sich die unter Frage 8. genannten frei finanzierten Wohnungen auf die sieben Hamburger Bezirke auf?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Auf Grundlage der Bautätigkeitsstatistiken liegen dem Statistikamt Nord keine Ergebnisse nach Finanzierungsarten vor. Diese werden vom Statistikamt Nord nicht erhoben.
 

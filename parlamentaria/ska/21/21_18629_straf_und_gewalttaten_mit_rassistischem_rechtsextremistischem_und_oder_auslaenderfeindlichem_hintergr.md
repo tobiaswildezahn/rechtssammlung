@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3165", "21/5257"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68295"
@@ -90,7 +91,7 @@ Zu welchen konkreten in Frage 5. abgefragten Taten konnten mutmaßliche Täter b
 a) In welchen Fällen kam es zur Eröffnung eines Strafverfahrens, gegebenenfalls mit welchem Ausgang?
 b) In welchen wurden die Ermittlungen eingestellt und mit welcher Begründung jeweils? Bitte auflisten.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Polizei wurde keine Straftat im Sinne der Fragestellung zum Nachteil einer Flüchtlingsunterkunft bekannt.
 

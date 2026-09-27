@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 22
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67792"
@@ -112,7 +113,7 @@ Ist es richtig, dass es eine Besprechung mit dem Generalstaatsanwalt zu diesen E
 
 Ist es richtig, dass die Ermittlungen eingestellt wurden? Falls ja, wer hat dies wann aus welchem Grund entschieden?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Am 9. Juli 2019 fand unter Beteiligung der Behördenleitungen der Staatsanwaltschaften eine Dienstbesprechung statt. Gegenstand des Gesprächs war die rechtliche Prüfung eines Anfangsverdachts wegen Korruptionsdelikten hinsichtlich der nicht näher verifizierten Hinweise auf mögliche Vergaben, Entgegennahmen und Nutzungen von Freikarten des FC St. Pauli, welcher im Ergebnis zunächst verneint wurde. Es ist ein sogenannter Vorprüfungsvorgang angelegt worden, um für den Fall, dass weitere Erkenntnisse hinzukommen, eine Neubewertung vornehmen zu können. Im Übrigen siehe Antwort zu 5.
 

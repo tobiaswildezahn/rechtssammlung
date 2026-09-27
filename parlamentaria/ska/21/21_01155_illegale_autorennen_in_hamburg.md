@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 23
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9438"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49332"
@@ -77,7 +78,7 @@ Welche Hinweise gibt es auf Geschlecht, Alter, Wohnort und Herkunft der Organisa
 
 Wenn die Organisatoren und Teilnehmer bekannt sind, um wie viele handelt es sich und wie viele Fahrzeuge waren involviert?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 2.
 

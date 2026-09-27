@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 13
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/3359", "18/3793", "18/7662", "18/7755", "19/1334", "21/989"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51587"
@@ -246,7 +247,7 @@ Die Anmeldegebühr für den Kunden beträgt derzeit 5 Euro für zwölf Monate. I
 
 Nach welchen wirtschaftlichen oder sonstigen Kriterien wurde der Betrag festgelegt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die einmalige Registrierungsgebühr wurde von der zuständigen Behörde und der Betreiberfirma gemeinsam vereinbart. Die Registrierungsgebühr stellt ein Fahrtguthaben dar, das innerhalb von zwölf Monaten verbraucht werden kann. Es soll Neukunden mit der Anmeldung ermutigen, das System aktiv zu nutzen.
 

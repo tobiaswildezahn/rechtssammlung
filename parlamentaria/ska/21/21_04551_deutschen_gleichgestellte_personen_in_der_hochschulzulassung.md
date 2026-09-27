@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4033"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52957"
@@ -136,6 +137,6 @@ Fallen Flüchtlingskinder, die eine Hochschulzugangsberechtigung in Deutschland 
 
 Gibt es besondere Regelungen für die Aufnahme von Deutschen nicht gleichgestellten Personen bei der Zulassung zum Master? Wenn ja, welche? Bitte gegebenenfalls nach Hochschulen aufschlüsseln.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Nein.

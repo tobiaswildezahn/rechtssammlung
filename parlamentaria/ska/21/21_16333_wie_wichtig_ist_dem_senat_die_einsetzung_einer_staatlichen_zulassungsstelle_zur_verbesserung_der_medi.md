@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65861"
@@ -82,7 +83,7 @@ Sind gegebenenfalls (weitere) Initiativen (etwa auf Bundesebene) geplant und wel
 
 Bestehen aus Sicht des Senats auf Landesebene legislative beziehungsweise administrative Möglichkeiten, die zu schwach ausgeprägten inhaltlichen und organisatorischen Prüfanforderungen der geltenden EU- Medizinprodukte-Verordnung zu kompensieren?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Bei der Verordnung (EU) 2017/745 handelt es sich um eine unmittelbar geltende europäische Verordnung. Die Behörde für Gesundheit und Verbraucherschutz überwacht als zuständige Behörde die Einhaltung der bestehenden rechtlichen Regelungen.
 

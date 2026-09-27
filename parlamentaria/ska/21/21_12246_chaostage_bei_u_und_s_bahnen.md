@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61519"
@@ -55,7 +56,7 @@ Welche Streckenabschnitte von U- und S-Bahnen waren in der 9. Kalenderwoche zu w
 
 Welche Gründe führten zu den Sperrungen gemäß Frage 1.?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Tag Störung auf Stre-
 

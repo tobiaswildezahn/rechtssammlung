@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/7296", "19/8174", "20/5972"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63079"
@@ -88,19 +89,19 @@ a) Schule,
 b) ReBBZ,  
 c) Jugendhilfe.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Insgesamt konnten seit 2008 115 Trainerinnen und Trainer aus den folgenden Institutionen qualifiziert werden (nur wenige Fachkräfte (circa fünf Personen) begannen die Qualifizierungsmaßnahme, konnten diese aber aus unterschiedlichen Gründen nicht abschließen):
 
- 80 Fachkräfte in Schulen und Bildungsabteilungen der Regionalen Bildungs- und
+– 80 Fachkräfte in Schulen und Bildungsabteilungen der Regionalen Bildungs- und
 
 Beratungszentren (ReBBZ)
 
- zwölf Fachkräfte in den ReBBZ-Beratungsabteilungen und der Beratungsstelle
+– zwölf Fachkräfte in den ReBBZ-Beratungsabteilungen und der Beratungsstelle
 
 Gewaltprävention
 
- 23 Fachkräfte aus Einrichtungen der Jugendhilfe
+– 23 Fachkräfte aus Einrichtungen der Jugendhilfe
 
 Die Auswertung für das Schuljahr 2017/2018 ist noch nicht abgeschlossen.
 

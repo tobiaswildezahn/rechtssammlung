@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51714"
@@ -57,11 +58,11 @@ In welchen Medien sind im Rahmen der aktuellen Werbekampagne Anzeigen, Werbespot
 
 Im Rahmen der Kampagne wurden
 
- Anzeigen in Print-Medien,
+– Anzeigen in Print-Medien,
 
- Werbespots im Radio ,
+– Werbespots im Radio ,
 
- Online-Werbung
+– Online-Werbung
 
 geschaltet.
 

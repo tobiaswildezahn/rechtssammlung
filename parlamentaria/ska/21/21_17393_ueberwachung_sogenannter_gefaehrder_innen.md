@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 16
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/5648", "18/11369", "19/5628", "21/4900"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66975"
@@ -127,7 +128,7 @@ Für wie viele Personen sind in den letzten zwölf Monaten längerfristige Obser
 
 Für wie viele Personen ist in den letzten zwölf Monaten der Einsatz technischer Mittel außerhalb von Wohnungen angeordnet worden? Bitte angeben, wie viele der Betroffenen als Gefährder/in oder Relevante Person eingestuft sind.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Zu den bei der Polizei vorliegenden statistischen Daten und dem Umfang der Beantwortung von Fragen zu verdeckten Ermittlungsmaßnahmen siehe Drs. 21/4900.
 
@@ -153,7 +154,7 @@ Wie viele Personen wurden in den letzten zwölf Monaten durch den Einsatz von Ve
 
 Wie viele Personen in den letzten zwölf Monaten durch den Einsatz von verdeckten Ermittlern beobachtet? Bitte angeben, wie viele der Betroffenen als Gefährder/in oder Relevante Person eingestuft sind.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Statistische Daten im Sinne der Fragestellung werden von den Sicherheitsbehörden nicht erhoben. Für die Beantwortung der Fragen wäre eine manuelle Auswertung sämtlicher Hand- und Ermittlungsakten bei der Kriminalpolizei des erfragten Zeitraums erforderlich. Die Auswertung von mehreren Zehntausend Vorgängen ist in der für die Beantwortung Parlamentarischer Anfragen zur Verfügung stehenden Zeit nicht möglich; im Übrigen siehe Drs. 19/5628.
 

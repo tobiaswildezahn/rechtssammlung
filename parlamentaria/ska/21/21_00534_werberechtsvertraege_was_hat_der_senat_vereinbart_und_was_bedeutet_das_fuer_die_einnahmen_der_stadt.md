@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48683"
@@ -55,35 +56,35 @@ Wann hat der Senat einem Vergleich mit welchen wesentlichen Inhalten zugestimmt?
 
 Am 27. Januar 2015. Die wesentlichen Inhalte des Vergleichs sind:
 
- Die Zahlung der ausstehenden Entgelte zuzüglich Zinsen für die Jahre 2009 bis
+– Die Zahlung der ausstehenden Entgelte zuzüglich Zinsen für die Jahre 2009 bis
 
 2014 durch den Vertragspartner und die ungeminderte Zahlung ab 2015;
 
- die Zahlung eines pauschalierten Schadensersatzes in Höhe von 3 Millionen Euro
+– die Zahlung eines pauschalierten Schadensersatzes in Höhe von 3 Millionen Euro
 
 durch die FHH an den Vertragspartner;
 
- die Rücknahme der gegen die FHH und den weiteren Vertragspartner erhobenen
+– die Rücknahme der gegen die FHH und den weiteren Vertragspartner erhobenen
 
 kartellrechtlichen Klage sowie der Verzicht auf die Geltendmachung von weiteren Ansprüchen bei einmaliger Zahlung von 4 Millionen Euro durch die FHH, woran sich der andere Vertragspartner beteiligt;
 
- die Verschiebung des Fälligkeitstermins für die jährlichen Garantiezahlungen vom
+– die Verschiebung des Fälligkeitstermins für die jährlichen Garantiezahlungen vom
 
 15. Januar auf den 1. April beziehungsweise 1. Oktober des laufenden Jahres;
 
- die Senkung der vertraglichen zulässigen Zahl hinterleuchteter Großwerbeanlagen
+– die Senkung der vertraglichen zulässigen Zahl hinterleuchteter Großwerbeanlagen
 
 von 140 auf den damaligen Stand von 132 Anlagen bei entsprechender Neuberechnung der geschuldeten Entgeltzahlungen;
 
- die Senkung der Standortzahl für hinterleuchtete Säulen von 900 auf 850 bei Neu-
+– die Senkung der Standortzahl für hinterleuchtete Säulen von 900 auf 850 bei Neu-
 
 berechnung der Entgeltzahlungen unter teilweiser Anrechnung auf die zur Klagrücknahme gezahlte Summe;
 
- der Abschluss einer Vereinbarung über die Ausstattung bestehender Werbeanla-
+– der Abschluss einer Vereinbarung über die Ausstattung bestehender Werbeanla-
 
 gen mit digitalisierten Ansichtsflächen;
 
- die Abgeltung aller bis zum Vergleichsschluss entstandenen gegenseitigen Strei-
+– die Abgeltung aller bis zum Vergleichsschluss entstandenen gegenseitigen Strei-
 
 tigkeiten, Ansprüche, Forderungen und Verbindlichkeiten aufgrund der Verträge.
 
@@ -151,40 +152,40 @@ DSM
 
 Digitalisierungsanträge hinterleuchtete Säulen
 
-  
+–  
 Jungfernstieg/Ballindamm, M-S-4820  
-  
+–  
 Glockengießerwall/Steintordamm vor Hbf, M-S-8313  
-  
+–  
 Glockengießerwall v. Hbf Eingang links, M-S-4434  
-  
+–  
 Valentinskamp ggü Dammtorstr, M-S-4810,  
-  
+–  
 Glockengießerwall/Spitalerstr., M-S-9074,  
-  
+–  
 Spitaler Str. 10, M-S-9090,  
-  
+–  
 Spitaler Str. vor Barkhof, M-S-4640,  
-  
+–  
 Mönckebergstr./Bergstr., M-S-9081,  
-  
+–  
 Steintorwall/Mönckebergstr. M-S-8603,  
-  
+–  
 Mönckebergstr. ggü. 11, M-S-9082,  
-  
+–  
 Mönckebergstr./Barkhof, M-S-9075,  
-  
+–  
 Bergstr. 16, M-S-9070,  
-  
+–  
 Mönckebergstr. 16, vor Karstadt Sport, M-S-4735
 
 Digitalisierungsanträge Mega-Light-Boards
 
-  
+–  
 St. Pauli Hafenstr., Höhe Hotel Hafen Hamburg, M-ML-4731,  
-  
+–  
 Millerntordamm gg Holstenwall, M-ML-4222,  
-  
+–  
 Steintorwall/Steintordamm, M/BA/03037/2006,  
-  
+–  
 Dammtordamm/Marseiller Str., M-ML-9128

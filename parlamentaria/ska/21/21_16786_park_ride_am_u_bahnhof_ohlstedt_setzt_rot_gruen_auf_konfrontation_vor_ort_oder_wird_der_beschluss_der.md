@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 60499
 seiten: 3
 fragen: 8
-einzelfragen: 23
-antwortbloecke: 7
+einzelfragen: 24
+antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14094", "21/15869", "21/7530"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66332"
@@ -47,7 +48,7 @@ Wurde die Park+Ride-Anlage am U-Bahnhof Ohlstedt bereits durch die P+R-Betriebsg
 
 Ist weiterhin geplant, die Park+Ride-Anlage am U-Bahnhof Ohlstedt auf die P+R-Betriebsgesellschaft mbH zu übertragen? Wenn ja, zu welchem Zeitpunkt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/15869.
 
@@ -62,17 +63,36 @@ Eine Mitteilung an die Bezirksversammlung Wandsbek ist bisher nicht erfolgt, da 
 ### Frage 4
 
 In der Antwort in Drs. 21/15869 wird ein Gespräch mit Mitgliedern der Bezirksversammlung Wandsbek sowie der Bürgerschaft im November 2018 in dieser Angelegenheit angeführt.
-4.1. Wann genau hat das Gespräch auf wessen Veranlassung und aus welchen Gründen stattgefunden?
-4.2. Aus welchen Fraktionen haben Mitglieder der Bezirksversammlung Wandsbek sowie der Bürgerschaft teilgenommen?
-4.3. Wurden alle in der Bezirksversammlung Wandsbek vertreten Fraktionen zu diesem Termin eingeladen? Wenn nein, warum nicht?
-4.4. Welche Vertreter städtischer Dienststellen und Unternehmen haben an diesem Termin teilgenommen?
-4.5. Was genau war Gegenstand und Ergebnis dieses Termins?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+Wann genau hat das Gespräch auf wessen Veranlassung und aus welchen Gründen stattgefunden?
+
+### Frage 4.2
+
+Aus welchen Fraktionen haben Mitglieder der Bezirksversammlung Wandsbek sowie der Bürgerschaft teilgenommen?
+
+### Frage 4.3
+
+Wurden alle in der Bezirksversammlung Wandsbek vertreten Fraktionen zu diesem Termin eingeladen? Wenn nein, warum nicht?
+
+### Frage 4.4
+
+Welche Vertreter städtischer Dienststellen und Unternehmen haben an diesem Termin teilgenommen?
+
+### Frage 4.5
+
+Was genau war Gegenstand und Ergebnis dieses Termins?
+
+#### Antwort zu Fragen 4, 4.1, 4.2, 4.3, 4.4 und 4.5
 
 Das Gespräch fand am 20. November 2018 auf Einladung der SPD-Bürgerschaftsfraktion statt. Es haben Mitglieder der Mehrheitsfraktionen der Bezirksversammlung Wandsbek sowie der einladenden Bürgerschaftsfraktion teilgenommen. Ferner haben Vertreterinnen und Vertreter der für P+R fachlich zuständigen Behörde sowie der P+R als zukünftigem Betreiber des P+R-Platzes Ohlstedt teilgenommen. In der Besprechung wurden die im April des Jahres 2018 im Regionalausschuss Walddörfer präsentierte Vorzugsvariante zur Übernahme und Instandsetzung des P+R-Platzes Ohlstedt dargestellt sowie weitere Detailfragen erörtert.
 
-4.6. Wann, in welcher Form und aus welchen Gründen hat es inzwischen weitere Termine oder Abstimmungen mit einzelnen Mitgliedern der Bezirksversammlung Wandsbek oder der Bürgerschaft zu den Planungen für den Park+Ride-Platz Ohlstedt gegeben?
+### Frage 4.6
+
+Wann, in welcher Form und aus welchen Gründen hat es inzwischen weitere Termine oder Abstimmungen mit einzelnen Mitgliedern der Bezirksversammlung Wandsbek oder der Bürgerschaft zu den Planungen für den Park+Ride-Platz Ohlstedt gegeben?
+
+#### Antwort zu Frage 4.6
 
 Es hat keine weiteren Termine gegeben.
 

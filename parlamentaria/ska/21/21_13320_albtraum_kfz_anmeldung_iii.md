@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9479"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62668"
@@ -55,7 +56,7 @@ Wie lang war in den Jahren 2011 bis 2016 die durchschnittliche Wartezeit für Ku
 a) mit Termin,
 b) ohne Termin in den einzelnen LBV-Standorten jeweils? (Bitte jahresweise aufschlüsseln.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der LBV unterscheidet bei der Auswertung der durchschnittlichen Wartezeit nicht zwischen Kundinnen und Kunden mit und ohne Termin, da die Auswertung aufgrund der
 
@@ -162,7 +163,7 @@ b) Wie viele Stellen im Umfang wie vieler VZÄ waren beim LBV zum
 
 Wie hat sich die Zahl unbesetzter Stellen seit 2011 entwickelt? Bitte jahresweise jeweils zu den Stichtagen 1. Januar und 1. Juli aufschlüsseln sowie den entsprechenden VZÄ-Umfang angeben.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Anzahl der Vollzeitäquivalente hat sich zum Stichtag 1. Mai 2018 nicht erhöht.
 

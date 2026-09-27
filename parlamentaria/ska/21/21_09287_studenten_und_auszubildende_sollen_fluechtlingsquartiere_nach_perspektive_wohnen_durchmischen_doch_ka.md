@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 17
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5231", "21/1838", "21/8872", "21/8881"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58046"
@@ -78,7 +79,7 @@ Warum betrifft die Kooperation mit dem Studierendenwerk Hamburg nur die beiden g
 
 Gibt oder gab es Verhandlungen zu Unterkünften nach „Perspektive Wohnen“, bei denen die HIG oder fördern und wohnen Investor ist? Wenn ja, wann mit welchem Ergebnis?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 

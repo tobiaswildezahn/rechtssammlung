@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 15
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15573"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65946"
@@ -89,7 +90,7 @@ Wann hat sich der Senat beziehungsweise die zuständige Behörde seit 2018 mit d
 
 Wie häufig beschäftigt sich der Senat beziehungsweise die zuständige Behörde mit der Verkehrs- und Baustellensituation im Bezirk Harburg und wie wird die Baustellenkoordination zwischen Senat beziehungsweise der zuständigen Behörde, dem Bezirksamt Harburg und allen weiteren Beteiligten konkret organisiert?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 

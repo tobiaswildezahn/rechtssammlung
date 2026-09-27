@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 22
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66785"
@@ -49,7 +50,7 @@ Hat der Senat eine Anfrage von der Zeitung „Die Welt“ erhalten? Falls ja, wa
 
 Wie lautet deren Inhalt? Nach Möglichkeit bitte den genauen Wortlaut wiedergeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Anfrage erreichte die Behörde für Inneres und Sport am 8. Mai 2019. Die Anfrage verweist auf die Auskunft des Bundes, nach der Kirchensteuern in die Zuständigkeit der Länder fallen, und fragt danach, inwiefern eine Befassung der Länder mit dieser Thematik angestrebt wird. Eine Rückmeldung wurde bis 15 Uhr desselben Tages erbeten.
 

@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65225"
@@ -51,7 +52,7 @@ Welche Projekte wurden und werden in der Haushaltsperiode 2014 bis 2020 bisher d
 
 Welche Projekte sollen in der Haushaltsperiode 2014 bis 2020 in den Jahren 2019 und 2020 durch den EFRE gefördert werden? (Bitte einzeln und nach Jahren aufschlüsseln.) a. Mit jeweils wie viel Euro zu welchem Anteil sollen diese Projekte durch den EFRE und die Hamburger Behörden gefördert werden? (Bitte einzeln und nach Jahren sowie Anteil aufschlüsseln.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage. Für die Jahre 2014 bis 2018 wurden die Auszahlungen an Begünstigte, für die Jahre 2019 bis 2020 der aktuelle Stand der Förderzusagen (Bewilligungen) berücksichtigt.
 

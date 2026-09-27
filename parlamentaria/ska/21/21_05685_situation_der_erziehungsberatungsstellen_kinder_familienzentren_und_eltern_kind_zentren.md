@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 40
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13239", "21/2996", "21/3285", "21/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54181"
@@ -169,7 +170,7 @@ Fand oder findet eine wissenschaftliche Begleitung, Analyse und Beurteilung der 
 
 Fand oder findet eine Befragung der Rat suchenden Menschen hinsichtlich ihrer Beurteilung und Zufriedenheit mit dem Beratungsangebot statt? Wenn ja, findet eine wissenschaftliche Begleitung, Analyse und Beurteilung der Befragung statt? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 In den Beratungsstellen findet in der Regel eine Befragung von Ratsuchenden als Bestandteil der Selbstevaluation und im Rahmen der Qualitätssicherung statt. Eine darüber hinausgehende wissenschaftliche Begleitforschung und Evaluierung wird nicht für erforderlich gehalten. Im Übrigen siehe Vorbemerkung.
 

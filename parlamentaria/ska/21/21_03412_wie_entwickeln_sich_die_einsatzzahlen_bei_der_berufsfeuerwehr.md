@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 4
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51764"
@@ -53,7 +54,7 @@ Wer ist Betreiber der neu in Dienst gestellten Ressourcen und nach welchen Krite
 
 Mit welcher Begründung wurden die in Antwort zu Frage 1. genannten Ressourcen konkret geschaffen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 In den Jahren 2014 und 2015 wurden keine zusätzlichen notarztbesetzten Ressourcen in Dienst genommen.
 

@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/91", "20/12056", "21/1000", "21/5141", "21/4142"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55141"
@@ -144,11 +145,11 @@ Eine Beantwortung der Fragestellung ist für die Freie und Hansestadt Hamburg ni
 
 Mehrarbeit und Überstunden unterliegen bei den beiden Statusgruppen der Freien und Hansestadt Hamburg unterschiedlichen Regelungen:
 
- Beamtinnen und Beamte sind nach § 61 Absatz 3 Hamburgisches Beamtengesetz
+– Beamtinnen und Beamte sind nach § 61 Absatz 3 Hamburgisches Beamtengesetz
 
 (HmbBG) verpflichtet, ohne Entschädigung über die regelmäßige Arbeitszeit hinaus Dienst zu tun, wenn zwingende dienstliche Verhältnisse dies erfordern und sich die Mehrarbeit auf Ausnahmefälle beschränkt. Werden sie durch eine dienstlich angeordnete oder genehmigte Mehrarbeit im Umfang von mehr als einem Achtel der individuellen wöchentlichen Arbeitszeit im Monat beansprucht, ist ihnen innerhalb eines Jahres für die über die individuelle wöchentliche Arbeitszeit hinaus geleistete Mehrarbeit entsprechende Dienstbefreiung zu gewähren. Ist die Dienstbefreiung aus zwingenden dienstlichen Gründen nicht möglich, können an ihrer Stelle Beamtinnen und Beamte in Besoldungsgruppen mit aufsteigenden Gehältern eine Mehrarbeitsvergütung erhalten.
 
- Arbeitnehmerinnen und Arbeitnehmern, entstehen nach § 7 Absatz 7 des Tarifver-
+– Arbeitnehmerinnen und Arbeitnehmern, entstehen nach § 7 Absatz 7 des Tarifver-
 
 trags der Länder (TV-L) aus den auf Anordnung des Arbeitgebers geleisteten zusätzlichen Arbeitsstunden erst dann Überstunden, wenn bis zum Ende der folgenden Kalenderwoche kein Zeitausgleich dafür stattgefunden hat. Ein Anspruch auf finanzielle Vergütung entsteht nach § 8 Absatz 2 TV-L für Überstunden, die nicht bis zum Ende des dritten Kalendermonats nach ihrer Entstehung durch Freizeit ausgeglichen worden sind.
 

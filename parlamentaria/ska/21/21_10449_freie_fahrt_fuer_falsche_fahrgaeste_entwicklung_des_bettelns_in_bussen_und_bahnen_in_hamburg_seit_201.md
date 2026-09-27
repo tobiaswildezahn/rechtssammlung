@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7723", "20/13284", "21/9281"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59322"
@@ -57,7 +58,7 @@ b) S-Bahnen,
 c) U-Bahnen,
 d) Regional- und Fernbahnen in Hamburg erfolgten seit 2011, wenn im Zusammenhang mit Betteln eigene Feststellungen der Polizei oder Hinweise Dritter den Verdacht auf die Begehung von Straftaten oder Ordnungswidrigkeiten begründet oder die genannten Feststellungen eine Abwehr von Gefahren erfordert haben? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Polizeieinsätze werden im Hamburger Einsatzleitsystem (HELS) der Polizeieinsatzzentrale dokumentiert. Es handelt sich jedoch nicht um ein System, das für statistische Auswertungen generiert wurde. Zur Aussagekraft und Validität von HELS-Daten siehe Drs. 20/13284.
 
@@ -160,6 +161,6 @@ Liegen den auf Hamburger Gebiet tätigen Verkehrsunternehmen und/ oder dem HVV U
 a) welche sind dies, wann sind sie erschienen und wer hat sie in wessen Auftrag erstellt?
 b) wie lauten jeweils die zentralen Ergebnisse dieser Untersuchungen beziehungsweise Studien?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Den zuständigen Behörden, dem HVV und den auf Hamburger Gebiet tätigen Verkehrsunternehmen liegen keine Untersuchungen oder Studien zum Thema vor.

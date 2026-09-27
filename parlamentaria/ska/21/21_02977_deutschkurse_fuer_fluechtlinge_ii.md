@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2868", "20/12697", "21/1748"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51309"
@@ -71,7 +72,7 @@ Ist bekannt, ob es in der Gruppe der bereits im Land lebenden Zuwanderer noch ei
 
 Inwieweit stehen die Flüchtlinge mit bereits im Land lebenden Zuwanderern in Konkurrenz um die Kursplätze?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Inanspruchnahme der Sprachförderung des BAMF in Deutschland wird in der Integrationskursgeschäftsstatistik des BAMF nach Statusgruppen dargestellt, siehe:
 

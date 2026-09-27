@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67556"
@@ -107,7 +108,7 @@ Wie viele Stellen gibt es jeweils in den betroffenen Fachämtern? Wie viele davo
 
 Wie viele Fälle/Akten kamen im Juni 2019 jeweils auf eine VZÄ und wie viele waren es im Juni 2018? Bitte nach Bezirken und Fachämtern aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage.
 

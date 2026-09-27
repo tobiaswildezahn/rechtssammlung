@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1568", "21/1532", "21/1676"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49911"
@@ -93,7 +94,7 @@ Wie viele Lehrerinnen und Lehrer im Ruhestand ließen sich kurzfristig für den 
 
 Wie viele der unter Punkt 5. Genannten haben eine Ausbildung für das Fach Deutsch als Zweit-/Fremdsprache?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die für Bildung zuständige Behörde hat im September 1.550 pensionierte und im Ruhestand befindliche Lehrkräfte angeschrieben und über die Möglichkeit einer Tätigkeit im Flüchtlingsbereich informiert. Ob und in welchem Umfang bei Lehrkräften im Ruhestand die Bereitschaft besteht, Unterricht zu erteilen und ob sie über die notwendigen Qualifikationen verfügen, kann nicht abgeschätzt werden.
 
@@ -129,7 +130,7 @@ Wie viele Lehrerinnen und Lehrer sind mit der Beschulung von Flüchtlingskindern
 
 Wie viele Kinder werden aktuell als Flüchtlingskinder in den zusätzlichen Klassen und Lerngruppen unterrichtet?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Das Merkmal Flüchtling ist für die Beschulung nicht relevant und wird daher nicht erhoben, siehe auch Drs. 21/1676.
 

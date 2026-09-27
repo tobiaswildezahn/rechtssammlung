@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 2
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/7098"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48332"
@@ -113,7 +114,7 @@ Wie wird die Einhaltung der Qualitätsvorgaben – soweit es sie gibt – durch 
 
 Sofern es keine Qualitätsvorgaben gibt: warum nicht? Bitte begründen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Bei der öffentlich-rechtlichen Unterbringung von Zuwanderern und Wohnungslosen handelt es sich nicht um eine Unterbringung im heimrechtlichen Sinne, die eine Tagesstruktur und/oder eine besondere Betreuungssituation von Personen beinhaltet. Entsprechend gibt es auch keine Heimaufsicht oder einer Heimaufsicht gleichgestellte behördliche Überwachung der Unterkünfte. Darüber hinaus steht es der zuständigen Fachhörde frei, Mitarbeiter zur Besichtigung der Wohnunterkünfte zu entsenden. Das für die Folgeunterbringung zuständige Referat der zuständigen Behörde nimmt diese Möglichkeit grundsätzlich wahr, auch um sich über den Stand der Entwicklungen in den Wohnunterkünften zu informieren. Im Übrigen siehe Antwort zu 1. j. bis l.
 

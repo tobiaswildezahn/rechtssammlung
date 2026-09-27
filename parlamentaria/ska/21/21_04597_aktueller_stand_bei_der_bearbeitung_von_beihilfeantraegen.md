@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 48491
 seiten: 3
 fragen: 11
-einzelfragen: 14
-antwortbloecke: 11
+einzelfragen: 18
+antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1023"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53004"
@@ -99,19 +100,35 @@ Wie viele Beihilfeanträge wurden insgesamt im ersten Quartal 2016 gestellt?
 
 80.110 Anträge.
 
-5.1. Wie viele der im 1. Quartal 2016 gestellten Anträge hatten eine Aufwendungssumme von über 2.500 Euro?
+### Frage 5.1
+
+Wie viele der im 1. Quartal 2016 gestellten Anträge hatten eine Aufwendungssumme von über 2.500 Euro?
+
+#### Antwort zu Frage 5.1
 
 Für nicht bearbeitete Anträge kann die gewünschte Zahl nicht ermittelt werden. Von den im 1. Quartal 2016 abgeschlossenen Festsetzungen hatten 15.146 eine Antragssumme von über 2.500 Euro.
 
-5.2. Wie viele der im 1. Quartal 2016 gestellten Anträge hatten eine Aufwendungssumme von über 800 Euro?
+### Frage 5.2
+
+Wie viele der im 1. Quartal 2016 gestellten Anträge hatten eine Aufwendungssumme von über 800 Euro?
+
+#### Antwort zu Frage 5.2
 
 Für nicht bearbeitete Anträge kann die gewünschte Zahl nicht ermittelt werden. Von den im 1. Quartal 2016 abgeschlossenen Festsetzungen hatten 41.007 eine Antragssumme von über 800 Euro.
 
-5.3. Wie viele der im 1. Quartal 2016 gestellten Anträge sind noch nicht abschließend bearbeitet?
+### Frage 5.3
+
+Wie viele der im 1. Quartal 2016 gestellten Anträge sind noch nicht abschließend bearbeitet?
+
+#### Antwort zu Frage 5.3
 
 188 Anträge (insbesondere wegen unvollständiger Unterlagen).
 
-5.4. Bei wie vielen der im 1. Quartal 2016 gestellten Anträge lag die Bearbeitungsdauer bei mehr als 20 Arbeitstagen?
+### Frage 5.4
+
+Bei wie vielen der im 1. Quartal 2016 gestellten Anträge lag die Bearbeitungsdauer bei mehr als 20 Arbeitstagen?
+
+#### Antwort zu Frage 5.4
 
 Im 1. Quartal lag die Bearbeitungszeit bei 1.137 Festsetzungen bei mehr als 20 Arbeitstagen.
 

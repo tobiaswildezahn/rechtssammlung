@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51471"
@@ -45,7 +46,7 @@ Welche Regelung/Anweisung besteht hinsichtlich des Verfahrens zur Unterzeichnung
 
 Sofern keine einheitliche Regelung/Anweisung besteht, a. weshalb nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Gemäß § 32 Absatz 2 und § 44 Hamburgisches Schulgesetz (HmbSG) sind die Schulleitungen und die Lehrkräfte verpflichtet, die Sorgeberechtigten in angemessenem Umfang über die Lernentwicklung ihrer Kinder zu informieren. Neben regelmäßigen und verpflichtenden Lernentwicklungsgesprächen führen die Schulen bei auffälligen Veränderungen oder Problemen zusätzliche anlassbezogene Gespräche durch. Darüber hinaus sind die Schulen verpflichtet, eine größtmögliche Transparenz der Leistungsbewertung herzustellen. Dazu gehört, dass die Lehrkräfte die Bewertungskriterien und Bewertungsmaßstäbe sowie die Erwartungshorizonte an Aufgabenstellungen transparent darstellen, damit Klarheit über die Leistungsanforderungen im jeweiligen Fach besteht. Eine Anweisung hinsichtlich der Unterzeichnung schriftlicher Lernerfolgskontrollen gibt es nicht.
 

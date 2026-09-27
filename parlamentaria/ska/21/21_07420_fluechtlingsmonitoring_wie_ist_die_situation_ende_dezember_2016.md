@@ -14,6 +14,7 @@ fragen: 33
 einzelfragen: 44
 antwortbloecke: 32
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4919", "21/7162", "21/6544", "21/5812"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56032"
@@ -120,7 +121,7 @@ Wie viele Asylverfahren Hamburger Antragsteller wurden im Dezember 2016 mit welc
 
 Wie war die Gesamtschutzquote im Dezember 2016?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 

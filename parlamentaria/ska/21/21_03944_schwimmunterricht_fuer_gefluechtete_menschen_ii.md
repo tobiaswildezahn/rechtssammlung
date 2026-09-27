@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3714", "20/8276"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52321"
@@ -45,7 +46,7 @@ Inwiefern ist der Nachweis des Jugendschwimmabzeichens Bronze mittlerweile Teil 
 
 In welcher Klassenstufe wurde/wird 2014/2015 und 2015/2016 überprüft, ob Schüler/-innen das Abzeichen erreicht haben? a. Wer war/ist für die Prüfung verantwortlich? b. Wer führt/e sie durch? c. An welche Stelle werden/wurden gegebenenfalls die Ergebnisse der Prüfung gemeldet?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bei der Anmeldung der zugezogenen Schülerinnen und Schüler für die Sekundarstufe I an einer weiterführenden Schule in Hamburg überprüft die Schule, ob die Schülerin beziehungsweise der Schüler im Besitz des Deutschen Jugendschwimmabzeichens Bronze (DJSA Bronze) ist und hält das Ergebnis in der Lehrer- und Schülerdatenbank (LuSD) fest. Dies gilt unabhängig von der Anmeldung in eine bestimmte Klassenstufe.
 
@@ -135,7 +136,7 @@ Erhielten/erhalten auch Kinder der Basis- und/oder IV-Klassen diese Gutscheine? 
 
 Wenn ja, wie viele Gutscheine wurden in 2014/2015 und wie viele bisher in 2015/2016 an Kinder aus Basis- und IV-Klassen vergeben?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Ja, auch den Schülerinnen und Schüler der Basis- und Internationalen Vorbereitungsklassen wird ein Gutschein für einen Schwimmkurs angeboten, sofern sie nicht über das DJSA Bronze verfügen. Bei der Vergabe der Gutscheine wird nicht erfasst, welcher Schule oder Jahrgangsstufe die gutscheinberechtigten Schülerinnen und Schüler angehören. Zur Ermittlung der erfragten Daten müssten die Schülerakten aller Schülerinnen und Schüler in den Basis- und Vorbereitungsklassen der Sekundarstufe I händisch ausgewertet werden. Im laufenden Schuljahr sind das 2.009 Datensätze (Stand:
 7. April 2016). Für das Schuljahr 2014/2015 können die Daten nicht mehr unmittelbar ermittelt werden, da in den Basis- und Internationalen Vorbereitungsklassen Schülerinnen und Schüler auch unterjährig zu- und abgehen und die Daten nur an jeweils aufnehmenden Schulen verfügbar sind. Eine Ermittlung der erfragten Daten durch eine Schulabfrage ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.

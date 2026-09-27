@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 19
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58806"
@@ -76,7 +77,7 @@ Wann wurde die Fläche/das Gebäude des ehemaligen „Schumachers Biergarten“ 
 
 Wann wurde die Fläche/das Gebäude durch den neuen Betreiber übernommen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Ausschreibung erfolgte im Dezember 2016, der neue Betreiber übernahm das Mietobjekt am 11. Juli 2017.
 

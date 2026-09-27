@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66833"
@@ -77,7 +78,7 @@ Inwieweit ist die Kündigung eines Kita-Betreuungsvertrages aufgrund von körper
 
 Welche Fristen gelten für die Aufkündigung eines Kita-Betreuungsvertrages?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 § 22 Hamburger Kinderbetreuungsgesetz legt fest, dass die Kündigungsfrist höchstens einen Zeitraum vom dritten Werktag eines Monats bis zum Ende des übernächsten Monats betragen darf. Darüber hinaus sind die Kündigungsfristen abhängig von der Ausgestaltung des privatrechtlichen Vertragsverhältnisses zwischen dem Kita- Träger und den Sorgeberechtigten. Eine Kündigung des Betreuungsvertrages durch den Träger der Tageseinrichtung ist nur aus wichtigem Grund zulässig. Sie ist schriftlich unter Angabe der Gründe zu erklären.
 

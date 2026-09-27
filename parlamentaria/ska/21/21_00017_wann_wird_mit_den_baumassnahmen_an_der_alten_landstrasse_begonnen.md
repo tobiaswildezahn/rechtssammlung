@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/908", "20/5442", "20/12445"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48144"
@@ -79,7 +80,7 @@ Anlage
 
 1 - Lage im Umfeld
 
-•Bezirksamtsbereich Hamburg Wandsbek, Stadtteil Poppenbüttel
+– Bezirksamtsbereich Hamburg Wandsbek, Stadtteil Poppenbüttel
 
 2 - Geplanter Zustand
 
@@ -87,9 +88,9 @@ Alte Landstraße - Emekesweg Querschnitt B-B
 
 Querschnitt A-A
 
-• Straßenquerschnitt, Knoten und Bushaltestellen in der Alten Landstraße zwischen Emekesweg und dem Poppenbütteler Weg neu gestalten und an den Bedarf anpassen
+– Straßenquerschnitt, Knoten und Bushaltestellen in der Alten Landstraße zwischen Emekesweg und dem Poppenbütteler Weg neu gestalten und an den Bedarf anpassen
 
-• Verlegung des Radverkehrs vom Radweg auf den neu zu planenden Radfahrstreifen
+– Verlegung des Radverkehrs vom Radweg auf den neu zu planenden Radfahrstreifen
 
 2 - Geplanter Zustand
 

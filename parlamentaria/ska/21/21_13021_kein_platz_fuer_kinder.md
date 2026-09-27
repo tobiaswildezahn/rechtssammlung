@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62358"
@@ -57,7 +58,7 @@ Wie groß ist das betreffende Grundstück an der Eifflerstraße, seit wann wird 
 
 Welche aktuellen Nutzungsverträge gibt es und wie sehen die jeweiligen Konditionen und Kündigungsfristen aus?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das circa 1.997 m² große Grundstück wird seit dem 1. Januar 1999 als Frei- und Spielfläche genutzt. Die Fläche ist unentgeltlich an den Schülerladen Koppel e.V. (circa 1.256 m²) als Spielplatz für Kita und an Dolle Deerns e.V. Förderung feministischer Mädchenarbeit (circa 741 m²) als Spielplatz für das Projekt „Mädchenoase“ mit jeweils einer Kündigungsfrist von drei Monaten auf jeden Monatsletzten vermietet. Im Übrigen äußert sich der Senat mit Blick auf seine Verhandlungsposition sowie zur Wahrung der Betriebs- und Geschäftsgeheimnisse seiner Vertragspartner in ständiger Praxis grundsätzlich nicht zu Mietkonditionen.
 
@@ -111,7 +112,7 @@ Wie verträgt sich die angestrebte Zerstörung dieses Areals mit der Sozialrauma
 
 In der „Sozialraumbeschreibung. Planungsraum 10. Sternschanze“ des Bezirksamtes Altona, hinsichtlich der qualitativen Bewertungen zuletzt ergänzt im Juli 2017, heißt es auf Seite 40, es gebe einen „Mangel an Grün-, Spiel- und Freiflächen“. Und weiter: „Für diesen Planungsraum ist in den verdichteten Bereichen die Sicherstellung ausreichender Spiel-, Frei- und Grünflächen in guter Qualität zum Erhalt der Lebensqualität für die Wohnbevölkerung – sei sie jung, im Erwerbsalter oder älter – erforderlich.“ Was hat sich in der Einschätzung der Lage seit Juli 2017 geändert, dass die „Sicherstellung ausreichender Spiel-, Frei- und Grünflächen“ im Sozialraum Sternschanze heute offensichtlich keinen Stellenwert mehr hat?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Aus der Perspektive des Bezirksamtes Altona ist für Kinder und Jugendliche aufgrund kleiner Wohnungen und dem starken Nutzungsdruck von öffentlichen Frei- und Bewegungsflächen die Bereitstellung eines niedrigschwelligen Freizeit-, Bewegungs- und Bildungsangebotes notwendig (siehe http://www.hamburg.de/contentblob/10120576/ 64fe84a1667f8274cd79e9ee633fbf5b/data/sozialraumbeschreibung.pdf). Daher werden derzeit von der steg zum einen Optionen zum Verbleib der Nutzungen innerhalb eines Neubauvorhabens und zum anderen die Bereitstellung von Ausweichflächen im Projektumfeld geprüft und mit den Beteiligten erörtert.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3157"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51650"
@@ -93,7 +94,7 @@ Wie bewertet der Senat, dass f & w keine sozialversicherungspflichtigen Mitarbei
 
 Wie ist die derzeitige Arbeitsorganisation durch f & w in den Kleiderkammern organisiert? Bitte auflisten nach Kleiderkammern und Anzahl Personal in VZÄ auflisten.
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der Betrieb der Kleiderkammern in den Unterkünften von f & w erfolgt durch Ehrenamtliche. Viele Bürgerinnen und Bürger möchten sich ehrenamtlich in der Flüchtlingshilfe engagieren. Die ehrenamtliche Mitarbeit in den Kleiderkammern ist diesem Zusammenhang eine beliebte Möglichkeit für niedrigschwelliges Engagement. Dieses bürgerschaftliche Engagement wird vom Senat ausdrücklich begrüßt.
 

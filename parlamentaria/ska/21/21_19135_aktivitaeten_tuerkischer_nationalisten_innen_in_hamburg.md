@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12717"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68838"
@@ -83,7 +84,7 @@ Welche Erkenntnisse liegen dem Hamburger Senat über die Tätigkeiten im Vereins
 
 Sind dem Hamburger Senat kulturelle oder sportliche Angebote durch den Verein „Türkisches Kulturzentrum Hamburg e.V.“ bekannt? Wenn ja, bitte seit Vereinsgründung bis zum jetzigen Zeitpunkt mit Ort, Teilnehmer/-innenanzahl und Art der Angebote auflisten.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die jährlichen Mitglieder- und Jahreshauptversammlungen finden dort statt. Darüber hinaus werden die jährlichen IFTAR-Veranstaltungen in den Räumlichkeiten organisiert. Darüber hinausgehende Erkenntnisse liegen nicht vor. Im Übrigen siehe Drs. 21/12717.
 

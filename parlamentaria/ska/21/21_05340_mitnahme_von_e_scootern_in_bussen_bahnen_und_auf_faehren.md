@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 21
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53815"
@@ -49,7 +50,7 @@ Wie viele E-Scooter gibt es aktuell in Hamburg?
 
 Wie hat sich die Zahl der E-Scooter in Hamburg seit 2011 entwickelt? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Entsprechende Daten zu sogenannten E-Scootern (einsitzige Elektrofahrzeuge mit bis zu 500 Kilogramm Gesamtgewicht) liegen der zuständigen Behörde nicht vor.
 

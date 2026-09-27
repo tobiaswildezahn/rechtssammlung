@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 37
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4105", "18/8772"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53649"
@@ -164,7 +165,7 @@ Vom 21. November bis 23. Dezember 2016 findet auf dem Rathausmarkt der beliebte 
 
 Welche sonstigen Beeinträchtigungen für Hamburgs Bürger, Gewerbetreibende oder Veranstalter sind den zuständigen Behörden im Rahmen der Durchführung des OSZE-Gipfels und/oder des G20-Gipfels bereits jetzt bekannt? Bitte detailliert unter Angabe der Maßnahme, des Zeitraums und des Orts benennen.
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Siehe Vorbemerkung und Antwort auf Frage 2.
 

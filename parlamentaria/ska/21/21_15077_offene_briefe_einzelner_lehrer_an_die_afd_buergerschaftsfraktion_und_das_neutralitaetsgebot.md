@@ -14,6 +14,7 @@ fragen: 35
 einzelfragen: 39
 antwortbloecke: 25
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64539"
@@ -178,7 +179,7 @@ In welchen Räumlichkeiten der Max-Brauer-Schule ist der offene Brief durch wen 
 
 Durch wen wurde die Unterzeichnung des Briefes beworben?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der offene Brief wurde, nach Ankündigung durch eine E-Mail von einer Lehrkraft, im Lehrerzimmer der Schule von Lehrkräften zur Unterschrift ausgelegt. Einzelne Lehrkräfte haben im Lehrerzimmer Unterschriften gesammelt.
 
@@ -251,7 +252,7 @@ Bezug nehmend auf den offenen Brief der Stadtteilschule Rissen (2), Aussagen (c)
 
 Anhand welcher Kriterien und unter Bezugnahme welcher Quellen sollen und dürfen Hamburger Lehrkräfte die Tatsache aufstellen und im Unterricht vermitteln – ohne dass diese als persönliche Meinung gekennzeichnet und/oder kontrovers dargestellt wird –, dass in einer Partei eine „vorherrschende ablehnende Haltung gegenüber Pressefreiheit, Menschenrechten und Rechtsstaatlichkeit“ vorliegt und sind diese Kriterien im Fall der Partei AfD erfüllt? Wenn ja, bei welchen Parteien sind die Kriterien außerdem erfüllt?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Siehe Vorbemerkung.
 
@@ -263,7 +264,7 @@ In welchen Räumlichkeiten der Stadtteilschule Rissen ist der offene Brief durch
 
 Durch wen wurde die Unterzeichnung des Briefes beworben?
 
-#### Antwort zu Fragen 17 bis 18
+#### Antwort zu Fragen 17 und 18
 
 Der offene Brief wurde dem Kollegium durch einen Link auf eine Cloud zugänglich gemacht und durch die Art der Veröffentlichung ist der Schulleitung nicht bekannt, ob und durch wen die Unterzeichnung beworben wurde.
 
@@ -340,7 +341,7 @@ a) „Alternative für Deutschland“ (AfD) Bundesverband,
 b) „Alternative für Deutschland“ (AfD) Landesverband Hamburg,
 c) „Junge Alternative“ Hamburg?
 
-#### Antwort zu Fragen 25 bis 26
+#### Antwort zu Fragen 25 und 26
 
 Weder die AfD noch eine ihrer Gliederungen sind derzeit als Beobachtungsobjekt des Landesamtes für Verfassungsschutz (LfV) Hamburg eingestuft. Auf Anfragen an die Bundesbehörden im Zusammenhang mit Parlamentarischen Anfragen der Hamburgischen Bürgerschaft wird regelmäßig mitgeteilt, dass ihre Tätigkeit ausschließlich dem Kontroll- und damit korrespondierenden Fragerecht des Deutschen Bundestages unterliege.
 
@@ -362,7 +363,7 @@ In welchen Räumlichkeiten des Goethe-Gymnasiums ist der offene Brief durch wen 
 
 Durch wen wurde die Unterzeichnung des Briefes beworben?
 
-#### Antwort zu Fragen 28 bis 29
+#### Antwort zu Fragen 28 und 29
 
 Der Brief wurde durch eine Lehrkraft im Lehrerzimmer ausgelegt. Dies wurde vorher per E-Mail angekündigt.
 

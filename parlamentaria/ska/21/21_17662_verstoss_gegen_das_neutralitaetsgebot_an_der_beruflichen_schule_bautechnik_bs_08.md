@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16136"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67257"
@@ -59,7 +60,7 @@ Wer hat den Beitrag auf welche Weisung hin auf der Schulhomepage veröffentlicht
 
 Welche Mitglieder der Schulleitung haben zu welchem Zeitpunkt Kenntnis von dem Beitrag und seiner Veröffentlichung auf der Schulhomepage erhalten?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der offene Brief wurde am 8. Januar 2019 im Rahmen einer Lehrerversammlung, an der auch die Mitglieder der Schulleitung anwesend waren, beschlossen und am 14. Januar 2019 auf Veranlassung der Schulleitung durch den für die Homepage der Schule zuständigen Kollegen eingestellt.
 
@@ -79,7 +80,7 @@ Ist der Beitrag noch auf der Schulhomepage enthalten oder wurde er inzwischen en
 
 Welche dienst- oder arbeitsrechtlichen oder sonstigen Maßnahmen wurden gegenüber den Verantwortlichen für die Veröffentlichung des Beitrages seitens der BSB ergriffen oder sollen noch ergriffen werden?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der Beitrag ist am 26. Juni 2019 vom Verantwortlichen für die Schulhomepage entfernt worden. Im Übrigen siehe Vorbemerkung.
 

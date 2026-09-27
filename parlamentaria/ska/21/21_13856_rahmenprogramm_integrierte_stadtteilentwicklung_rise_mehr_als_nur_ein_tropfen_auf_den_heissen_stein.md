@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12050"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63238"
@@ -65,51 +66,51 @@ Der Q4-Bericht erwähnt für das Jahr 2016 44 RISE-Gebiete. Welche Quartiere sin
 
 Mit Ablauf des Jahres 2016 wurden folgende RISE-Fördergebiete beendet:
 
- Niendorf-Nord (im Zentrenprogramm)
+– Niendorf-Nord (im Zentrenprogramm)
 
- Langenhorn Markt (im Zentrenprogramm)
+– Langenhorn Markt (im Zentrenprogramm)
 
- Appelhoff (Landesfinanziertes Fördergebiet)
+– Appelhoff (Landesfinanziertes Fördergebiet)
 
- Birckholtzweg (Landesfinanziertes Fördergebiet)
+– Birckholtzweg (Landesfinanziertes Fördergebiet)
 
- Harburg/Phoenix-Viertel (in den Programmen Stadtumbau und Sanierung)
+– Harburg/Phoenix-Viertel (in den Programmen Stadtumbau und Sanierung)
 
- Harburg/Harburger Schlossinsel (im Programm Stadtumbau)
+– Harburg/Harburger Schlossinsel (im Programm Stadtumbau)
 
 Folgende RISE-Fördergebiete wurden in 2016 neu festgelegt:
 
- Eidelstedt-Mitte (in den Programmen Stadtumbau und Zentrenprogramm)
+– Eidelstedt-Mitte (in den Programmen Stadtumbau und Zentrenprogramm)
 
- Harburger Innenstadt/Eißendorf-Ost (in den Programmen Soziale Stadt und Zen-
+– Harburger Innenstadt/Eißendorf-Ost (in den Programmen Soziale Stadt und Zen-
 
 trenprogramm)
 
 Mit Ablauf des Jahres 2017 wurden folgende RISE-Fördergebiete beendet:
 
- Wilhelmsburg/Reiherstiegviertel (in den Programmen Sanierung und Zentrenpro-
+– Wilhelmsburg/Reiherstiegviertel (in den Programmen Sanierung und Zentrenpro-
 
 gramm)
 
- Wilhelmsburg/Berta-Kröger-Platz (in den Programmen Sanierung und Zentrenpro-
+– Wilhelmsburg/Berta-Kröger-Platz (in den Programmen Sanierung und Zentrenpro-
 
 gramm)
 
- Essener Straße (im Programm Soziale Stadt)
+– Essener Straße (im Programm Soziale Stadt)
 
- Lohbrügge-Ost (im Programm Soziale Stadt)
+– Lohbrügge-Ost (im Programm Soziale Stadt)
 
 Folgende RISE-Fördergebiete wurden in 2017 neu festgelegt:
 
- Rahlstedt-Ost (im Programm Soziale Stadt)
+– Rahlstedt-Ost (im Programm Soziale Stadt)
 
- Mittlerer Landweg (im Programm Stadtumbau)
+– Mittlerer Landweg (im Programm Stadtumbau)
 
- Neugraben-Fischbek (im Programm Stadtumbau)
+– Neugraben-Fischbek (im Programm Stadtumbau)
 
- Altona-Altstadt (zusätzliche Aufnahme im Programm Zukunft Stadtgrün)
+– Altona-Altstadt (zusätzliche Aufnahme im Programm Zukunft Stadtgrün)
 
- Billstedt-Zentrum (im Programm Zentrenprogramm)
+– Billstedt-Zentrum (im Programm Zentrenprogramm)
 
 Im Übrigen siehe Vorbemerkung.
 
@@ -231,17 +232,17 @@ Sind Änderungen bei den RISE-Gebieten in Planung? Wenn ja, welche Änderungen?
 
 In Abstimmung mit den Bezirksämtern werden derzeit folgende Quartiere für eine Festlegung als RISE-Fördergebiet vorbereitet:
 
- Wilhelmsburg Ost/Korallus- und Bahnhofsviertel
+– Wilhelmsburg Ost/Korallus- und Bahnhofsviertel
 
- Lurup
+– Lurup
 
- Jenfeld-Zentrum
+– Jenfeld-Zentrum
 
- Tegelsbarg/Am Rehagen
+– Tegelsbarg/Am Rehagen
 
- Bergedorf/Serrahn
+– Bergedorf/Serrahn
 
- Bergedorf-West
+– Bergedorf-West
 
 In welchen Programmen der Städtebauförderung diese Quartiere festgelegt werden sollen, ist noch zu klären.
 

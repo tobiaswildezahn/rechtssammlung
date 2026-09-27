@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56257"
@@ -106,21 +107,21 @@ Welche Auflagen wurden in den letzten Jahren erteilt?
 
 Der Veranstalter wurde auf die geltenden Regelungen des Gesetzes über Ordnungswidrigkeiten, der Technischen Anleitung zum Schutz gegen Lärm (TA-Lärm), des Gaststättengesetzes, der Gewerbeordnung, des Infektionsschutzgesetzes und der Straßenverkehrsbehördlichen Anordnung hingewiesen. In den Jahren 2015 und 2016 wurde dem Veranstalter insbesondere auferlegt:
 
- Sanitäter und Ordner zu stellen,
+– Sanitäter und Ordner zu stellen,
 
- Schieber-, Kanal-, und Einsteigeschächte der Leitungsgesellschaften sowie öffent-
+– Schieber-, Kanal-, und Einsteigeschächte der Leitungsgesellschaften sowie öffent-
 
 liche Verkehrs- und Beleuchtungsanlagen frei zu halten,
 
- ausschließlich pfandpflichtige und wiederverwendbare Verpackungen und Behält-
+– ausschließlich pfandpflichtige und wiederverwendbare Verpackungen und Behält-
 
 nisse auszugeben,
 
- an Informations- und Werbestände keine Flächen weiterzugeben,
+– an Informations- und Werbestände keine Flächen weiterzugeben,
 
- die vorbeugenden Brandschutzauflagen der Feuerwehr zu beachten und
+– die vorbeugenden Brandschutzauflagen der Feuerwehr zu beachten und
 
- die Veranstaltungsfläche nach Abbau zu säubern.
+– die Veranstaltungsfläche nach Abbau zu säubern.
 
 Eine Beantwortung aller erfolgten Auflagen über die letzten Jahre, käme einem Aktenvorlageersuchen gleich, welches nach Artikel 30 der Verfassung der Freien und Hansestadt an andere Voraussetzungen geknüpft ist.
 

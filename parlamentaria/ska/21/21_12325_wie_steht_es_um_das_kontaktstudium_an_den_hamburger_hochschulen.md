@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11932"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61619"
@@ -66,6 +67,6 @@ Gibt es an den einzelnen Hamburger Universitäten und Hochschulen Möglichkeiten
 
 Welche Möglichkeiten gibt es für Gruppen, sich für eine gemeinschaftliche Belegung eines Kontaktstudienganges zu bewerben, wenn die Anzahl der Gruppenmitglieder die Anzahl der freien Kontaktstudienplätze übersteigt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Es gilt ein individuelles Anmeldeverfahren.

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66590"
@@ -45,7 +46,7 @@ Inwiefern trifft es zu, dass ein entsprechender Entwurf vorliegt, und wie ist de
 
 Inwiefern trifft es zu, dass im Entwurf eine entsprechende Regelung im Hamburger Beamtengesetz verankert werden soll?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat hat am 16. April 2019 den Entwurf eines Fünften Gesetzes zur Änderung des Hamburgischen Beamtengesetzes (HmbBG) sowie den Entwurf einer Verordnung zur Konkretisierung der Kennzeichnungspflicht nach § 111a des Hamburgischen Beamtengesetzes zur Kenntnis genommen, das Personalamt beauftragt, hierfür die beamtenrechtlichen Beteiligungsverfahren nach § 53 des Beamtenstatusgesetzes und §§ 93, 94 HmbBG mit den Spitzenorganisationen der zuständigen Gewerkschaften und Berufsverbänden durchzuführen und die Senatskanzlei beauftragt, dem Direktor bei der Bürgerschaft die Entwürfe zuzuleiten, um sie an die Präsidentin der Bürgerschaft und die Geschäftsstellen der Fraktionen zu übersenden.
 
@@ -59,6 +60,6 @@ Inwiefern ist es zutreffend, dass die Kennzeichnungspflicht für Beamte/- innen 
 
 Welche Möglichkeiten der juristischen Umsetzung der Kennzeichungspflicht, insbesondere solche, nach denen alle eingesetzten Beamten/- innen, also auch eingesetzte Beamte/-innen anderer Bundesländer der Kennzeichnungspflicht unterliegen, sind dem Senat beziehungsweise der zuständigen Behörde bekannt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Für die Konkretisierung der Dienstpflichten von Beamtinnen und Beamten anderer externer Dienstherren steht Hamburg keine Gesetzgebungskompetenz zu. Die der zuständigen Behörde bekannten Regelungen von Kennzeichnungspflichten in anderen Bundesländern sind auf die jeweiligen Landesbeamtinnen und Landesbeamten beschränkt.

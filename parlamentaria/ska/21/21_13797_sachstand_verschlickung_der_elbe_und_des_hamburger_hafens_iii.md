@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12299"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63184"
@@ -93,15 +94,15 @@ Für die untersuchten Baggergrößen von 3.000 und 5.000 Kubikmetern ergeben sic
 
 Wesentliche Risiken, die im Falle eines Eigenbetriebs durch die HPA eine niedrigere Produktivität erwarten lassen, sind:
 
- Mangelnde Erfahrung der HPA in Bau und Betrieb eines Laderaumsaugbaggers
+– Mangelnde Erfahrung der HPA in Bau und Betrieb eines Laderaumsaugbaggers
 
- Fehlende Skaleneffekte beim Betrieb nur eines Laderaumsaugbaggers
+– Fehlende Skaleneffekte beim Betrieb nur eines Laderaumsaugbaggers
 
- Fehlende Sicherheit der Vollauslastung eines eigenen Laderaumsaugbaggers
+– Fehlende Sicherheit der Vollauslastung eines eigenen Laderaumsaugbaggers
 
- Starke Schwankungen in der jährlich anfallenden Umlagerungsmenge
+– Starke Schwankungen in der jährlich anfallenden Umlagerungsmenge
 
- Unklarheit bezüglich der langfristigen Genehmigungslage (optimale Geräteaus-
+– Unklarheit bezüglich der langfristigen Genehmigungslage (optimale Geräteaus-
 
 wahl)
 

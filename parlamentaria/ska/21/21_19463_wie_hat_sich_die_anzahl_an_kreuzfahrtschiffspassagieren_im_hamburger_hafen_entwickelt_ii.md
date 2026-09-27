@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18825"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69218"
@@ -65,6 +66,6 @@ Welche aktuellen Prognosen gibt es bezüglich Kreuzfahrtschiffspassagieren für 
 
 Wie bewertet der Senat beziehungsweise die zuständige Behörde die Entwicklung bezüglich der Anzahl von Kreuzfahrtschiffen und Passagieren und welche Auswirkungen könnten sich hieraus ergeben?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/18825.

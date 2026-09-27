@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14485"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52422"
@@ -99,11 +100,11 @@ Wie viele platzsparende Fahrradständer werden in diesem Jahr in Hamburg aufgest
 
 Im Zuge der Umsetzung des Bike+Ride-Entwicklungskonzeptes wird an allen Standorten zunächst der Achsabstand ebenerdiger Fahrradbügel auf 1 m verringert. An geeigneten Standorten werden zusätzlich auch Doppelstockparkanlagen aufgestellt. Gemäß bisheriger Planung ist vorgesehen, im Jahr 2016 an folgenden Stationen Doppelstockparkanlagen aufzustellen:
 
- Bezirk Altona: Othmarschen (in Sammelschließanlage für 20 Fahrräder)
+– Bezirk Altona: Othmarschen (in Sammelschließanlage für 20 Fahrräder)
 
- Bezirk Eimsbüttel: Hoheluftbrücke
+– Bezirk Eimsbüttel: Hoheluftbrücke
 
- Bezirk Wandsbek: Ohlstedt, Wandsbek Gartenstadt
+– Bezirk Wandsbek: Ohlstedt, Wandsbek Gartenstadt
 
 Die genaue Anzahl der Doppelstockparker ist derzeit noch in Abstimmung.
 

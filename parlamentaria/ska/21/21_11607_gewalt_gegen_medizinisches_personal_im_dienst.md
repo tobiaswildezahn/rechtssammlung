@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10007", "21/3516"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60842"
@@ -49,7 +50,7 @@ Wie viele Vorfälle von Gewalt gegen medizinisches Personal sind dem Senat in de
 
 Wie viele der in den Jahren 2010 – 2017 gemeldeten Vorfälle von Gewalt gegen medizinisches Personal wurden strafrechtlich verfolgt? Mit welchem Ergebnis?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Ärztekammer Hamburg und der Kassenärztlichen Vereinigung liegen keine Daten zu Vorfällen von Gewalt gegen medizinisches Personal vor. Ärztinnen und Ärzte schildern in Einzelfällen ihr persönliches Erleben gegenüber der Ärztekammer, die grundsätzlich zu der Thematik auf eine bundesweite Befragungsstudie unter Hausärzten verweist, deren Ergebnisse 2015 im Deutschen Ärzteblatt veröffentlicht wurden: https://www.aerzteblatt.de/treffer?mode=p&wo=272&typ=16&aid=168409&jahr= 2015&s=Gewalt&nr=10.
 
@@ -72,7 +73,7 @@ Welche Ansätze zur Prävention von Gewalt gegen medizinisches Personal verfolgt
 
 Welche Ansätze zum Schutz von medizinischem Personal im Dienst verfolgt der Senat? (Bitte Ansatz, Durchführung und Erfolgskontrolle erläutern.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Grundsätzlich obliegt es den Arbeitgebern der betroffenen Berufsgruppen notwendige Präventions- und Schutzmaßnahmen für die Mitarbeiterinnen und Mitarbeiter zu treffen und gegebenenfalls den sich ändernden Anforderungen anzupassen. Hinsichtlich der Prävention von Gewalt und des Schutzes von Beschäftigten der Freien und Hansestadt Hamburg stellt der Senat auf bereichsspezifische und die Gegebenheiten vor Ort berücksichtigende, dezentrale Ansätze der Behörden ab, die sowohl das medizinische Personal als auch übrige Beschäftige einschließen. Die Ansätze umfassen zum Beispiel Zugangskontrollen, technische Sicherungsmaßnahmen, den Einsatz von Sicherheitspersonal sowie Schulungen in Verhaltensregeln und Deeskalationsstrategien. So kommt zum Beispiel in den Bezirksämtern in verschiedenen Fachämtern das stille Alarmsystem Vocario zum Einsatz. Im Rahmen von Gefährdungsanalysen besteht zudem die Möglichkeit, Sicherheitskonzepte zu überprüfen.
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/3835"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54989"
@@ -86,7 +87,7 @@ Auf welche der unter Frage 2. angegebenen Unternehmen entfielen dabei wie viele 
 
 Für welche Waffen wurde durch die Waffenbehörde Hamburg bislang eine waffenrechtliche Erlaubnis erteilt (bitte unter Angabe der exakten Bezeichnung der Waffe, zum Beispiel HK 416 A 5, und der jeweiligen Gesamtzahl)?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 
@@ -122,7 +123,7 @@ Für welche Waffen (exakte Bezeichnung) hat das Unternehmen dabei wann eine Gene
 
 Welche der unter 3. – 8. abgefragten Waffen waren nach Kenntnis des Senats zu welchem Zeitpunkt physisch in Deutschland (bitte zuordnen)?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Vorbemerkung.
 
@@ -135,7 +136,7 @@ Ist die Waffenbehörde Hamburg der Herkunft der Waffen (Fragen 3. – 9.) nachge
 Ist der Senat der Gefahr gewahr, dass illegal beschaffte Waffen (Fragen
 3. – 10.) möglicherweise durch die Waffenbehörde Hamburg „legalisiert“ wurden?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Der Waffenbehörde Hamburg werden bei Antragstellung auf Erteilung waffenrechtlicher Erlaubnisse durch den Antragsteller Waffenlisten und hierzu ergänzend Rechnungen von Lieferanten vorgelegt. Anhand der individuellen Waffenkennzeichnungen (Bezeichnung, Kaliber, Waffennummer) und des Abgleichs wird eine Überprüfung der Herkunft der Waffen durchgeführt. Die Gefahr einer Legalisierung illegal beschaffter Waffen durch die Waffenbehörde besteht somit nicht.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13959", "21/12606"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63515"
@@ -43,7 +44,7 @@ Wieso gab der Senat diese Angaben in der Drs. 21/13959 an, obwohl auch dort bere
 
 Wie lauten die fehlenden Angaben zu Geschlecht, Alter und Religion?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine im Nachgang der Beantwortung der Schriftlichen Kleinen Anfrage 21/12606 auch unter Einbeziehung der EU-Datenschutzgrundverordnung vorgenommene vertiefte datenschutzrechtliche Prüfung hat ergeben, dass ausgehend von den geringen Fallzahlen die Benennung weiterer personenbezogener Daten eine Identifizierbarkeit der einzelnen Personen ermöglicht und diese weitergehenden Daten daher nicht angegeben werden können.
 

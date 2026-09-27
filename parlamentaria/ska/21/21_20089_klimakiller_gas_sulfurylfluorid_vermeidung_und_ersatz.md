@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 20
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19518"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69850"
@@ -97,15 +98,15 @@ Schädlingsbekämpfung besprochen und eine rechtlich stringentere Ausgestaltung 
 
 Für die nächste Sitzung der Umweltministerkonferenz (UMK) wird Hamburg das Thema Begasung mit SF mit folgenden Initiativen zur Beratung anmelden:
 
- Freiwilliger Bericht Deutschlands über die CO-Wirkungen von SF in der Berichter-
+– Freiwilliger Bericht Deutschlands über die CO-Wirkungen von SF in der Berichter-
 
 stattung Deutschlands zum Nationalen Inventarbericht zum Deutschen Treibhausgasinventar nach dem Kyoto-Protokoll 2012 beziehungsweise zukünftig nach dem Pariser Abkommen im Annex sonstige Gase,
 
- Möglichkeit einer Aufnahme von SF in die Liste der vom IPCC zu berichtenden
+– Möglichkeit einer Aufnahme von SF in die Liste der vom IPCC zu berichtenden
 
 Stoffe,
 
- Verabredung von Schritten, im Einklang mit Bundes- und EU-Recht den Einsatz
+– Verabredung von Schritten, im Einklang mit Bundes- und EU-Recht den Einsatz
 
 von SF zu mindern und gegebenenfalls alternative Methoden auch international anerkennen zu lassen.
 

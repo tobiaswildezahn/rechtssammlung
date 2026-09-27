@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2544", "20/11760", "20/11769"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51070"
@@ -77,7 +78,7 @@ Wie sieht der „verbindliche Prozessstandard“, mit dem den Bürgerschaftliche
 
 In welcher Weise möchte der Senat bis wann der in den Drs. 20/11760 und 20/11769 jeweils geforderten Berichtspflicht gegenüber der Bürgerschaft nachkommen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe: http://suche.transparenz.hamburg.de/dataset/verwaltungsvorschriften-zurtransparenten-und-kostenstabilen-umsetzung-von-it-projekten-12-2015.
 

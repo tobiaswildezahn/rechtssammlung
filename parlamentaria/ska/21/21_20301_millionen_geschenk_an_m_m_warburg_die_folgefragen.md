@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 0
 beantwortet: false
+status: "unbeantwortet"
 zitierte_drucksachen: ["21/20200"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/70093"
@@ -27,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Peter Lorkowski (AfD) vom 11.03.20 und Antwort des Senats · Drucksache vom 11.03.2020  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/70093) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/70093/21_20301_millionen_geschenk_an_m_m_warburg_die_folgefragen)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 noch nicht vor. Das Archiv holt sie beim nächsten Lauf nach.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

@@ -13,9 +13,10 @@ seiten: 1
 fragen: 0
 einzelfragen: 0
 antwortbloecke: 0
-beantwortet: true
+beantwortet: false
+status: "zurückgezogen"
 zitierte_drucksachen: []
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/73564"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/73564/22_02358_parteienfinanzierung_auf_kosten_des_steuerzahlers_gibt_es_solche_faelle_auch_in_hamburg"
 abgerufen: "2026-09-24"
@@ -24,11 +25,9 @@ generator: "ska_archiv 1.0"
 
 # Drs. 22/2358: Parteienfinanzierung auf Kosten des Steuerzahlers – gibt es solche Fälle auch in Hamburg?
 
-> Schriftliche Kleine Anfrage der Abgeordneten Thomas Reich, Dr. Alexander Wolf, Dirk Nockemann, Detlef Ehlebracht und Olga Petersen (AfD) vom 27.11.20 und Antwort des Senats · Drucksache vom 27.11.2020  
+> Schriftliche Kleine Anfrage der Abgeordneten Thomas Reich, Dr. Alexander Wolf, Dirk Nockemann, Detlef Ehlebracht und Olga Petersen (AfD) vom 27.11.20 · zurückgezogen · Drucksache vom 27.11.2020  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/73564) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/73564/22_02358_parteienfinanzierung_auf_kosten_des_steuerzahlers_gibt_es_solche_faelle_auch_in_hamburg)
 
-## Volltext
-
-Parteienfinanzierung auf Kosten des Steuerzahlers – gibt es solche Fälle auch in Hamburg?
+## Hinweis
 
 Die Anfrage wurde zurückgezogen.

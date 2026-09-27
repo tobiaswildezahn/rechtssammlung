@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 22
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/829"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65893"
@@ -77,7 +78,7 @@ Mit Steuereinnahmen in welcher Höhe rechnet der Senat im Jahr 2019 durch steuer
 
 In welcher Größenordnung haben sich die Steuermehreinnahmen in den letzten zehn Jahren durch steuerpflichtige Rentner und Pensionäre entwickelt? Bitte für die Jahre 2008, 2003 und 2018 angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Steuereinnahmen lassen sich einzelnen Einkunftsarten nicht zuverlässig zuordnen, da sich durch das Vorliegen weiterer Einkünfte, Werbungskosten, Sonderausgaben oder außergewöhnlicher Belastungen Auswirkungen auf die entsprechende Einkommensteuer ergeben.
 

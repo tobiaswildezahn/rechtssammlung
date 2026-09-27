@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 47
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12305"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61670"
@@ -37,29 +38,29 @@ Die maßgebliche europarechtliche Norm ist die Richtlinie „2008/50/EG“ des E
 
 ## Einleitung für die Antworten des Senats
 
- „Der Luftstrom um den Messeinlass darf in einem Umkreis von mindes-
+– „Der Luftstrom um den Messeinlass darf in einem Umkreis von mindes-
 
 tens 270° nicht beeinträchtigt werden, und es dürfen keine Hindernisse vorhanden sein, die den Luftstrom in der Nähe der Probenahmeeinrichtung beeinflussen, d.h. Gebäude, Balkone, Bäume und andere Hindernisse müssen normalerweise einige Meter entfernt sein und die Probenahmestellen für die Luftqualität an der Baufluchtlinie müssen mindestens 0,5 m vom nächsten Gebäude entfernt sein.“
 
- „Im Allgemeinen muss sich der Messeinlass in einer Höhe zwischen 1,5
+– „Im Allgemeinen muss sich der Messeinlass in einer Höhe zwischen 1,5
 
 m (Atemzone) und 4 m über dem Boden befinden. Eine höhere Lage des Einlasses (bis zu 8 m) kann unter Umständen angezeigt sein. Ein höher gelegener Einlass kann auch angezeigt sein, wenn die Messstation für ein größeres Gebiet repräsentativ ist.“
 
- „Der Messeinlass darf nicht in nächster Nähe von Quellen angebracht
+– „Der Messeinlass darf nicht in nächster Nähe von Quellen angebracht
 
 werden, um die unmittelbare Einleitung von Emissionen, die nicht mit der Umgebungsluft vermischt sind, zu vermeiden.“
 
- „Die Abluftleitung der Probenahmestelle ist so zu legen, dass ein Wie-
+– „Die Abluftleitung der Probenahmestelle ist so zu legen, dass ein Wie-
 
 dereintritt der Abluft in den Messeinlass vermieden wird.“
 
- „Bei allen Schadstoffen müssen die Probenahmestellen in verkehrsnahen
+– „Bei allen Schadstoffen müssen die Probenahmestellen in verkehrsnahen
 
 Zonen mindestens 25 m vom Rand verkehrsreicher Kreuzungen und höchstens 10 m vom Fahrbahnrand entfernt sein.“
 
 Der Bundesgesetzgeber hat diese EU-Richtlinie 2010 mit der „Neununddreißigste(n) Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes Verordnung über Luftqualitätsstandards und Emissionshöchstmengen (39. BImSchV)“ in deutsches Recht übertragen, im Abschnitt „C. Kleinräumige Ortsbestimmung der Probenahmestellen“ aber nur minimale Änderungen vorgenommen. Die Abstandsvorgaben wurden sogar bedeutungsgleich übernommen:
 
- „Bei allen Schadstoffen dürfen verkehrsbezogene Probenahmestellen zur
+– „Bei allen Schadstoffen dürfen verkehrsbezogene Probenahmestellen zur
 
 Messung höchstens 10 Meter vom Fahrbahnrand entfernt sein; vom Fahrbahnrand verkehrsreicher Kreuzungen müssen sie mindestens 25 Meter entfernt sein. Als verkehrsreiche Kreuzung gilt eine Kreuzung, die den Verkehrsstrom unterbricht und gegenüber den restlichen Straßenabschnitten Emissionsschwankungen (durch Stop-and-go-Verkehr) verursacht.“
 

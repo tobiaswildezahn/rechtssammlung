@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 29
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1223"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50610"
@@ -65,27 +66,27 @@ Im Vorfeld wurde in den sozialen Medien zur Gegendemonstration aufgerufen. a. We
 
 Der Polizei liegen folgende Erkenntnisse vor:
 
- Am 21. Oktober 2015, um 13.44 Uhr, stellte der Verfasser „info“ auf dem unabhän-
+– Am 21. Oktober 2015, um 13.44 Uhr, stellte der Verfasser „info“ auf dem unabhän-
 
 gigen, linksradikalen Medienportal „https://linksunten.indymedia.org“ einen Beitrag ein, der einen Aufzug der AfD thematisierte und zur Besetzung des „Auftaktortes am Hauptbahnhof“ aufrief. Welche Organisation für den Aufruf verantwortlich ist, ist der Polizei nicht bekannt.
 
- Am 22. Oktober 2015 erfolgte über www.antifainfo.de der Aufruf, den oben
+– Am 22. Oktober 2015 erfolgte über www.antifainfo.de der Aufruf, den oben
 
 genannten Beitrag hinsichtlich der Besetzung des Auftaktortes am Hauptbahnhof zu unterstützen. Bei www.antifainfo.de handelt es sich um ein Informationsportal für antifaschistische Gruppierungen bundesweit. Welche dieser Gruppierungen für die Einstellung des Aufrufs verantwortlich ist, ist der Polizei nicht bekannt.
 
- Am 27. Oktober 2015 rief die linksextremistische Gruppierung „Roter Aufbau Ham-
+– Am 27. Oktober 2015 rief die linksextremistische Gruppierung „Roter Aufbau Ham-
 
 burg“ via Facebook-Seite und Twitter dazu auf, den AfD-Aufzug am Steintorplatz zu stören.
 
- Zwischen dem 28. Oktober 2015 und dem 30. Oktober 2015 rief das „Hamburger
+– Zwischen dem 28. Oktober 2015 und dem 30. Oktober 2015 rief das „Hamburger
 
 Bündnis gegen Rechts“ (HBgR) in diversen Beiträgen auf seiner Facebook-Seite zur Unterstützung der Gegendemonstration des Allgemeinen Studierendenausschuss (ASTA) der Hochschule für angewandte Wissenschaften Hamburg (HAW) auf.
 
- Am 29. Oktober 2015 ging bei der Versammlungsbehörde eine schriftliche Anmel-
+– Am 29. Oktober 2015 ging bei der Versammlungsbehörde eine schriftliche Anmel-
 
 dung für eine Kundgebung mit dem Tenor „Keine AfD-Propaganda in Hamburg und überall!“ ein. Als Veranstaltungsort wurde der Johannes-Brahms-Platz vor der Musikhalle beantragt. Als Veranstaltungsort wurde der Dammtordamm Höhe Kriegerdenkmal kooperiert. Anmelder war eine Einzelperson, die der Polizei als Sprecher der „Roten Flora“ bekannt ist. Veranstalter war der Allgemeine Studierendenausschuss der HAW.
 
- Am 29. Oktober 2015, um 13.22 Uhr rief die „Antifa Pinneberg“ über „https://
+– Am 29. Oktober 2015, um 13.22 Uhr rief die „Antifa Pinneberg“ über „https://
 
 linksunten.indymedia.org“ ebenfalls zu Protesten gegen die AfD-Versammlung auf. Ein Treffpunkt wurde dort nicht genannt.
 
@@ -104,7 +105,7 @@ Der Polizeieinsatzleiter hatte vor Ort dem Versammlungsleiter der Demonstration 
 
 Warum waren der Polizei zum Schutz der AfD-Demonstration offensichtlich (laut Aussage des Einsatzleiters) nicht ausreichend Kräfte zugeführt worden, um den genehmigte Demonstrationszug der AfD zu ermöglichen? Dies insbesondere angesichts a. der massiven Gegendemonstrationsaufrufe vorab in den sozialen Medien. b. der jahrzehntelangen Bekanntheit von Umfang und Aggressivität linker und linksextremer Gruppierungen in Hamburg, die zur Blockade aufgerufen hatten.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Insgesamt waren 572 Mitarbeiterinnen und Mitarbeiter der Polizei zum Schutz der Versammlung und zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung eingesetzt. Gemäß Einsatzbefehl lautete der Auftrag: Schutz der Versammlung, Verfolgung von Straftaten und Abwehr von Gefahren.
 
@@ -128,7 +129,7 @@ Auch die parteipolitischen Jugendverbände der senatstragenden Parteien, wie SPD
 
 An der unangemeldeten Versammlung waren offensichtlich Linksextremisten beteiligt. a. Wie bewertet der Senat die Teilnahme der genannten parteipolitischen Jugendverbände unter Beteiligung von Linksextremisten?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Senat nimmt zu Angelegenheiten von politischen Parteien keine Stellung.
 

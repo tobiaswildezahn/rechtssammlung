@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 27
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/8003"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51686"
@@ -115,25 +116,25 @@ Ist das Fach Sport an den berufsbildenden Schulen ein verpflichtender Bestandtei
 
 In welchem Umfang findet Sportunterricht an den berufsbildenden Schulen statt? Bitte für jeden Standort die Gesamtzahl an Wochenstunden angeben.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 An berufsbildenden Schulen ist für deren jeweilige Bildungsgänge die Stundentafel für das Fach Sport in den jeweiligen Ausbildungs- und Prüfungsordnungen (APO) geregelt (siehe http://www.schulrecht.hamburg.de).
 
 In den spezifischen Bildungsgangstundentafeln der berufsbildenden Schulen werden grundsätzlich Gesamtstundenkontingente ausgewiesen. Dies geschieht auf unterschiedliche Weise:
 
- In einigen Bildungsgängen werden die Stunden für den Sportunterricht explizit in
+– In einigen Bildungsgängen werden die Stunden für den Sportunterricht explizit in
 
 der Bildungsgangstundentafel ausgewiesen.
 
- In anderen Bildungsgängen ist das Fach Sport im Kontingent des berufsübergrei-
+– In anderen Bildungsgängen ist das Fach Sport im Kontingent des berufsübergrei-
 
 fenden Unterrichts enthalten; die Schule bestimmt über die Aufteilung des Stundenkontingents auf die einzelnen Fächer des jeweiligen Unterrichtsbereichs.
 
- In der Berufsschule und der teilqualifizierenden Berufsfachschule kann eine
+– In der Berufsschule und der teilqualifizierenden Berufsfachschule kann eine
 
 berufsbezogene gesundheitliche und sportliche Förderung der Schülerinnen und Schüler im Rahmen des Wahlpflichtbereichs stattfinden. Bei Fächern des berufsübergreifenden Unterrichts entscheidet die Schule über Art und Umfang der Verwendung der insgesamt für diesen Bereich zur Verfügung stehenden Stundenvolumina.
 
- In einigen Bildungsgängen wird kein Sportunterricht erteilt. Hierbei handelt es sich
+– In einigen Bildungsgängen wird kein Sportunterricht erteilt. Hierbei handelt es sich
 
 um Bildungsgänge der vollqualifizierenden Berufsfachschule oder um Bildungsgänge der Fachoberschule, Berufsoberschule und Fachschule. Die Bildungsgangstundentafeln orientieren sich an den Rahmenstundentafeln der Kultusministerkonferenz, die das Fach Sport nicht beinhalten. Die Bildungsgänge der sozialpädagogischen Fachschulen und Berufsfachschulen enthalten das Lernfeld „Bewegung und Spiel“, das gegebenenfalls auch in Sporthallen unterrichtet wird. Die insgesamt zur Verfügung stehenden Stundenvolumina sollen im Interesse der jungen Erwachsenen vor allem so eingesetzt werden, dass sich die Chancen der Absolventen auf dem Arbeitsmarkt und bei dem Übergang ins Studium erhöhen, siehe Drs. 18/8003.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9784"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58753"
@@ -53,7 +54,7 @@ Erfolgte inzwischen der Zuschlag zur Beschaffung der PROSA-Nachfolgesoftware? We
 
 Warum erhielt dieser Anbieter den Zuschlag? Und handelt es sich um jenen, der die Klage vor dem Oberlandesgericht in Schleswig-Holstein eingereicht hatte?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 

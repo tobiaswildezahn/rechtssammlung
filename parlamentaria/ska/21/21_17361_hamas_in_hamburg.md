@@ -14,6 +14,7 @@ fragen: 25
 einzelfragen: 28
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17186", "21/17354", "21/17355", "21/17356", "21/17357", "21/17358", "21/17359", "21/17360", "21/17362"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66936"
@@ -165,7 +166,7 @@ Wie schätzt der Senat etwaige Verbindungen der Hamas zu Terrororganisationen wi
 
 Wie schätzt der Senat etwaige Verbindungen der Hamas zu kriminellen Gruppierungen ein?
 
-#### Antwort zu Fragen 21 bis 22
+#### Antwort zu Fragen 21 und 22
 
 Hierzu liegen keine Erkenntnisse vor.
 

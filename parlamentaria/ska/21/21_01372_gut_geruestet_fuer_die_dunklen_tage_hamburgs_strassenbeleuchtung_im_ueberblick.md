@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13209"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49567"
@@ -99,13 +100,13 @@ a. Welche Straßenklassifizierung wird dabei verwendet für Landstraßen sowie b
 
 Für die Planung werden die folgenden Beleuchtungssituationen gemäß der DIN EN 13201 heran gezogen:
 
- Autobahnen und anbaufreie Bundesstraßen, sofern beleuchtet: Situation A 1
+– Autobahnen und anbaufreie Bundesstraßen, sofern beleuchtet: Situation A 1
 
- Verkehrsstraßen mit zulässiger Geschwindigkeit zwischen 30 km/h und 60 km/h:
+– Verkehrsstraßen mit zulässiger Geschwindigkeit zwischen 30 km/h und 60 km/h:
 
 Situation B 1 und B 2
 
- Untergeordnetes Straßennetz: Situation D 3 und D 4
+– Untergeordnetes Straßennetz: Situation D 3 und D 4
 
 b. Wird in Geschäfts- und Einkaufsstraßen darauf geachtet, dass auch die halbzylindrische Beleuchtungsstärke verstärkt wird?
 

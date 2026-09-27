@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51756"
@@ -59,7 +60,7 @@ Ist dem Senat ein salafistischer beziehungsweise islamistischer Hintergrund beka
 a) Wenn ja, welcher Gruppe oder Strömung ordnet der Senat die Veranstalter zu?
 b) Wenn ja, wie gedenkt der Senat mit der Veranstaltung umzugehen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Dem Landesamt für Verfassungsschutz (LfV) Hamburg wurde die Veranstaltung durch einen Hinweis aus dem Verfassungsschutzverbund und durch eigene Internetrecherchen bekannt. Darüber hinaus berichtete die Druckschrift „Jungle World“ in ihrer Ausgabe vom 14.01.2016 über die geplante Messe. Danach sollen auf der Messe, die sich ausdrücklich an Muslima richtet, vornehmlich islamische Kleidung und Nahrungsprodukte ausgestellt werden. Die Eventagentur der Veranstalterin organisierte eine vergleichbare Messe in Nordrhein-Westfalen im November 2015. Dort engagierten sich auch Frauen des salafistischen Spektrums. Der überwiegende Teil der Aussteller war diesem Spektrum nicht zuzuordnen.
 

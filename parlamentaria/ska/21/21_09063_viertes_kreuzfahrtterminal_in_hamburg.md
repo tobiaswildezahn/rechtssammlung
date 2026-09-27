@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 16
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14066", "21/2956"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57827"
@@ -57,7 +58,7 @@ Was sind die derzeitigen Planungen für die Areale Kleiner Grasbrook sowie Mittl
 
 Welche behördlichen Stellen sind mit der Erstellung eines neuen Konzepts zur Entwicklung des Hamburger Hafens, speziell für den zentralen Hafenbereich auf Steinwerder, befasst?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/2956.
 

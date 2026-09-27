@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 20
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/378", "21/1952"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54003"
@@ -99,7 +100,7 @@ Wie gestaltet sich die theoretische Ausbildung der Anwärter? Welche Ausbildungs
 
 Die praktische Ausbildung der Anwärter dauert 14 Monate. a. In welche Vollzugsarten gliedern sich die praktischen Ausbildungsabschnitte?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe hierzu Ausbildungs- und Prüfungsordnung Strafvollzugsdienst, HmbGVBl. 2011, S. 279.
 

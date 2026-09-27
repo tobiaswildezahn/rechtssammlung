@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 19
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48361"
@@ -79,7 +80,7 @@ Wie wird von der zuständigen Behörde überprüft, dass an Grundschulen die im 
 
 Welche Maßnahmen ergreift die zuständige Behörde gegenüber Grundschulen, an denen die Kompetenz der Handschriftlichkeit nicht hinreichend vermittelt wird?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die Vorgaben der zuständigen Behörde sowie die Verantwortung der jeweiligen Schulleitungen gewährleisten eine pflichtmäßige Dienstausübung der Lehrkräfte.
 

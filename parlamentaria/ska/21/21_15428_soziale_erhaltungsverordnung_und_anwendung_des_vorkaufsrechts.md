@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64915"
@@ -78,37 +79,37 @@ Sind bei den in Prüfung befindlichen Vorkaufsrechten bereits Abwendungsvereinba
 
 In allen vier Fällen hat das Bezirksamt den Käuferinnen beziehungsweise Käufern Entwürfe von Abwendungsvereinbarungen zugesandt. Zusammengefasst finden folgende konkrete Punkte der Sozialen Erhaltungsverordnung hier Anwendung:
 
- auf die Begründung von Wohnungseigentum oder Teileigentum an dem Gebäude
+– auf die Begründung von Wohnungseigentum oder Teileigentum an dem Gebäude
 
 zu verzichten, es sei denn, die Käuferin verpflichtet sich innerhalb von sieben Jahren ab der Begründung von Wohnungseigentum, Wohnungen nur an die Mieterinnen und Mieter zu veräußern,
 
- bauliche Änderungen auf dem Kaufgrundstück zu unterlassen, das heißt keine
+– bauliche Änderungen auf dem Kaufgrundstück zu unterlassen, das heißt keine
 
 Grundrissänderungen und Modernisierungen der Wohnungen durchzuführen oder durchführen zu lassen, die über die Herstellung des zeitgemäßen Ausstattungszustandes einer durchschnittlichen Wohnung im Quartier unter Berücksichtigung der bauordnungsrechtlichen Mindestanforderungen hinausgehen,
 
- keine umfassenden Modernisierungen der Wohneinheiten vorzunehmen, die eine
+– keine umfassenden Modernisierungen der Wohneinheiten vorzunehmen, die eine
 
 Gleichstellung mit Neubauten rechtfertigen,
 
- energetische Modernisierungen zu unterlassen, die über die Mindestanforderun-
+– energetische Modernisierungen zu unterlassen, die über die Mindestanforderun-
 
 gen der Energieeinsparverordnung hinausgehen,
 
- einen Rückbau oder teilweisen Rückbau der Gebäude zu unterlassen, es sei denn,
+– einen Rückbau oder teilweisen Rückbau der Gebäude zu unterlassen, es sei denn,
 
 die Erhaltung der Gebäude ist auch unter Berücksichtigung des Allgemeinwohls nachweislich wirtschaftlich nicht zumutbar oder die Verdrängungswirkung des Rückbaus im Gebiet der Sozialen Erhaltungsverordnung wird dadurch ausgeschlossen und kompensiert, dass vergleichbarer Ersatzwohnraum oder entsprechender Sozialer Mietwohnungsbau in dem Gebiet der Sozialen Erhaltungsverordnung neu gebaut wird,
 
- eine Änderung der Nutzung von Wohn- in Gewerbeimmobilien zu unterlassen,
+– eine Änderung der Nutzung von Wohn- in Gewerbeimmobilien zu unterlassen,
 
- bei der Vermietung von Wohnraum auf dem Kaufgrundstück in der Regel die For-
+– bei der Vermietung von Wohnraum auf dem Kaufgrundstück in der Regel die For-
 
 derung einer Nettokaltmiete zu unterlassen, die den Mittelwert des einschlägigen Rasterfeldes des jeweils gültigen Hamburger Mietenspiegels überschreitet (soweit die Miete den Mittelwert bereits übersteigt: Verzicht auf Mieterhöhungen, solange dies der Fall ist),
 
- leer stehende und frei werdende Wohnungen gemäß den Bestimmungen des
+– leer stehende und frei werdende Wohnungen gemäß den Bestimmungen des
 
 Hamburgischen Wohnraumschutzgesetzes nicht länger als vier Monate leer stehen zu lassen,
 
- auf den Abschluss von Staffelmietverträgen zu verzichten,
+– auf den Abschluss von Staffelmietverträgen zu verzichten,
 
 auf eigen- oder betriebsbedarfsbedingte Kündigungen zu verzichten.
 

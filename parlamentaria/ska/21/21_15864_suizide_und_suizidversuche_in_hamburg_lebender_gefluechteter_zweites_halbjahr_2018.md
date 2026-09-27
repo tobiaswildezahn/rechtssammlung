@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 2
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14069", "21/11643", "21/14071", "21/14381", "21/14611", "21/15064", "21/15560", "21/15811"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65353"
@@ -53,7 +54,7 @@ c. Geschlecht
 d. Standort der Unterkunft  
 e. Monat der Tat
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Zur Belegung der Unterkünfte in 2018 siehe http://www.hamburg.de/zkf-lagebild/.
 
@@ -72,7 +73,7 @@ c. Geschlecht
 d. Standort der Unterkunft  
 e. Monat der Tat
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Monat  
 Anzahl als  
@@ -119,7 +120,7 @@ c. Geschlecht
 d. Standort der Unterkunft  
 e. Monat der Tat
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Zur Anzahl der in Unterkünften der öffentlich-rechtlichen Unterbringung von Zuwanderern und Wohnungslosen (örU) untergebrachten Flüchtlinge siehe Drs. 21/14071, 21/14381, 21/14611, 21/15064, 21/15560 und 21/15811. Im zweiten Halbjahr 2018 sind in der örU keine Suizide oder Vorfälle, bei denen es sich um Suizid gehandelt haben könnte, bekannt geworden. Im Übrigen: entfällt.
 
@@ -136,7 +137,7 @@ c. Geschlecht
 d. Standort der Unterkunft  
 e. Monat der Tat
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Suizidversuche:
 

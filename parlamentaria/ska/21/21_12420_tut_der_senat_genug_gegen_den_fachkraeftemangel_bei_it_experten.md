@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11952", "21/11930"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61712"
@@ -69,7 +70,7 @@ Wie lange sind die unter 1. – 3. genannten nicht besetzten Planstellen durchsc
 
 Welche Erklärung hat der Senat dafür, dass die offenen Planstellen jeweils nicht zeitnah besetzt werden können?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der Zeitraum variiert im Bereich von einem bis sechs Monaten und ist damit im normalen Rahmen von Stellenbesetzungsprozessen.
 

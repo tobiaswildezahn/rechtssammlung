@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13460", "21/5039", "21/14037", "21/12143", "21/14001", "21/5841", "21/6424", "21/7090", "21/7939", "21/9538", "21/13713", "21/13826"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63561"
@@ -81,7 +82,7 @@ Besteht eine Korrelation zwischen der Unterstützung der Leistungsempfänger und
 
 Besteht eine Kausalität zwischen der Unterstützung der Leistungsempfänger und einer Zurückdrängung des Salafismus in Hamburg? Falls ja, welche?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 21/14037.
 

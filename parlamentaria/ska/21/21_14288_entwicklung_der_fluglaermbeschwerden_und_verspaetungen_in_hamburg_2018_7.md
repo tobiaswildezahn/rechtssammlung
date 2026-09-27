@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14059", "21/13948", "21/13751"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63699"
@@ -177,7 +178,7 @@ Wie viele An- und Abflüge gab es im Monat August 2018 und für das Gesamtjahr 2
 
 Wie viele An- und Abflüge gab es im Monat August 2018 und für das Gesamtjahr 2018 insgesamt am Hamburger Flughafen und wie haben sich diese auf die einzelnen Start- und Landebahnen verteilt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Starts
 

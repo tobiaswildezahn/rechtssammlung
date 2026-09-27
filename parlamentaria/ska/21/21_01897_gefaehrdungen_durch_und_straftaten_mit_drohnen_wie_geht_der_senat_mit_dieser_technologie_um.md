@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 20
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/6015"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50136"
@@ -75,7 +76,7 @@ Gibt es seitens des Senats Pläne, um die Aufklärungsquoten in Bezug auf illega
 
 Sind dem Senat technische Entwicklungen bekannt, die die Ortung von Drohnenpiloten ermöglichen und so zur Strafverfolgung eingesetzt werden könnten? Wenn ja, ist geplant, entsprechende Fähigkeiten aufseiten der Strafverfolgungsbehörden aufzubauen? Wenn nicht, warum?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nach Kenntnis der zuständigen Behörden befinden sich diesbezügliche technische Lösungen im Stadium der Erforschung beziehungsweise der marktreifen Erprobung. Der Senat behält die Entwicklung der technischen Möglichkeiten auf diesem Sektor im Blick und wartet die Ergebnisse der in einigen Ländern laufenden beziehungsweise geplanten Tests ab, bevor über die weitere Vorgehensweise entschieden wird. Im Übrigen siehe Antwort zu 1.
 
@@ -105,6 +106,6 @@ Welche Verfahren hält der Senat für denkbar, Drohnen und ihre Besitzerinnen un
 
 Welche Betriebsbeschränkungen hält der Senat hierzu hinsichtlich kleiner Drohnen (bis 25 Kilogramm) für umsetzbar beziehungsweise durchsetzbar? Wie könnte aus Sicht des Senats eine vorherige Risikobewertung und Betriebserlaubnis mit strengeren Auflagen für den Betrieb von Drohnen der zweiten Kategorie (über 25 Kilogramm) umgesetzt werden?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Der Bund ist für die mögliche Einführung von Identifizierungssystemen zuständig. Das Bundesministerium für Verkehr und digitale Infrastruktur erarbeitet derzeit Rechtsgrundlagen, die innerhalb der Bundesregierung abgestimmt werden. Im Übrigen siehe BT.-Drs. 18/06015.

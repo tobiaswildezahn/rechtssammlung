@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10210"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63567"
@@ -55,25 +56,25 @@ Wie wurde und wird die Vergangenheit der RAF in Hamburg aufgearbeitet?
 
 Gibt oder gab es von der Stadt organisierte Veröffentlichungen (beispielsweise Broschüren, Ausstellungen oder Internetangebote), die über die RAF-Geschichte in Hamburg informieren? Wenn ja, welche sind/waren dies? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Landeszentrale für politische Bildung (LZ) hat in ihrem Informationsladen folgende Publikation vorrätig:
 
- Petra Terhoeven: Die Rote Armee Fraktion. München 2017
+– Petra Terhoeven: Die Rote Armee Fraktion. München 2017
 
 sowie folgende Publikationen, die das Thema RAF tangieren:
 
- Ingo Juchler: 1968 in Deutschland – Schauplätze der Revolte. Berlin-Brandenburg
+– Ingo Juchler: 1968 in Deutschland – Schauplätze der Revolte. Berlin-Brandenburg
 
 2018
 
- Michael Sontheimer/Peter Wensierski: Berlin, Stadt der Revolte. Berlin 2018
+– Michael Sontheimer/Peter Wensierski: Berlin, Stadt der Revolte. Berlin 2018
 
 Die LZ hat darüber hinaus folgende Publikationen herausgegeben, die das Thema RAF mit behandeln:
 
- Helmut Bilstein/Sepp Binder: Innere Sicherheit. Hamburg 1976
+– Helmut Bilstein/Sepp Binder: Innere Sicherheit. Hamburg 1976
 
- Helmut Hohlbein: Politischer Extremismus. Links- und Rechtsextremismus in der
+– Helmut Hohlbein: Politischer Extremismus. Links- und Rechtsextremismus in der
 
 Bundesrepublik Deutschland. Hamburg 1985
 

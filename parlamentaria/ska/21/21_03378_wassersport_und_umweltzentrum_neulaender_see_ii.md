@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 17
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2508"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51715"
@@ -87,7 +88,7 @@ Wie viele Tage der offenen Tür wurden seit der Eröffnung durchgeführt?
 
 Wie viele Präsentationstage wurden seit der Eröffnung durchgeführt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Das Wassersportzentrum wurde bei der Einweihung im Rahmen des 90. Jubiläums der ASV von Castingturnieren sowie von Informationstagen für Schulen und Schulleitungen der Öffentlichkeit vorgestellt.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63756"
@@ -53,7 +54,7 @@ Welche Gebäude sind mittlerweile fertiggestellt und können im vollen Umfang ge
 
 Kommt es in den genutzten Gebäuden derzeit zu Nutzungseinschränkungen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Das Klassengebäude des Alexander-von-Humboldt-Gymnasiums (Gebäude 20) wurde im Oktober 2017 planmäßig fertiggestellt, in Betrieb genommen und wird seither in vollem Umfang genutzt. Es gibt keine Nutzungseinschränkungen.
 

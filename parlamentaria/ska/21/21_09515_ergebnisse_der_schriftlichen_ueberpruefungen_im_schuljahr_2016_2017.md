@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9482"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58280"
@@ -43,7 +44,7 @@ Wann wurden im Schuljahr 2016/2017 in welchen Fächern an welchen Schulen schrif
 
 Welche Ergebnisse wurden in den schriftlichen Überprüfungen erzielt? Bitte den Notendurchschnitt für jedes Fach insgesamt angeben und nach Schulform sowie nach Schulen in staatlicher und privater Trägerschaft aufschlüsseln.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die schriftlichen Überprüfungen im Fach Deutsch wurden am 2. Februar 2017, in Mathematik am 7. Februar 2017 und in den Fremdsprachen (Englisch, Spanisch, Französisch, Latein, Chinesisch, Italienisch, Polnisch, Russisch, Türkisch) am 9. Februar 2017 geschrieben. Im Übrigen siehe Drs. 21/9482.
 

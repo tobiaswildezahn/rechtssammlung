@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 35
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17697", "21/5231", "21/18584", "21/2108", "21/14380"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68677"
@@ -51,7 +52,7 @@ Wie viele der Wohnungen in örU, der Sozialwohnungen und der frei finanzierten W
 
 Geht der Senat davon aus, dass die Reduzierung der örU wie in Drs. 21/5231 zugesagt, vollständig erfolgen kann? Wenn nein, inwiefern nicht? Wenn ja, wie erfolgt zu wann die Vermietung der sanierten Wohnungen der örU, die Anfang 2020 als Sozialwohnung geführt werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung.
 
@@ -81,7 +82,7 @@ Ende August lebten 377 Flüchtlinge in örU in dem Quartier. Wie viele sind es a
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Geschlecht  
 Kinder und Jugendliche  

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 13
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17176", "21/13490", "21/19037"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68900"
@@ -65,7 +66,7 @@ Welche Kooperationen wurden bisher zwischen den einzelnen Professoren der teilne
 
 Welche Kooperationen wurden bisher von einzelnen Professoren der teilnehmenden Hochschulen des Programms ahoi.digital mit externen Partnern beispielsweise aus der Wirtschaft eingegangen und wie viele sollen noch folgen? Bitte differenziert nach Hochschulen darstellen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Im Rahmen von ahoi.digital wurden übergreifende Folgeprojekte sowie neue hochschulübergreifende Verbundprojekte beantragt. Diese befinden sich aktuell noch in der Begutachtung.
 

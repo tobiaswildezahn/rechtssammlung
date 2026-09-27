@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54771"
@@ -43,13 +44,13 @@ Welche Förderungen erhalten junge Volljährige in Hamburg? Welche Mittel sind i
 
 Die Förderung für junge Volljährige richtet sich an den zentralen Zielen zu einer eigenverantwortlichen Lebensführung aus, insbesondere
 
- die Teilnahme an beziehungsweise der Abschluss einer schulischen oder berufli-
+– die Teilnahme an beziehungsweise der Abschluss einer schulischen oder berufli-
 
 chen Qualifizierungsmaßnahme,
 
- die eigenständige Sicherung des Lebensunterhaltes und
+– die eigenständige Sicherung des Lebensunterhaltes und
 
- das Erlangen geeigneten Wohnraums.
+– das Erlangen geeigneten Wohnraums.
 
 Die Hilfe kann, je nach Bedarf in ambulanter oder stationärer Form, erfolgen. Die Ausgestaltungsformen entsprechen – mit altersspezifischen Unterschieden – weitgehend denen der Hilfe zur Erziehung nach §§ 27 fortfolgende SGB VIII mit der Maßgabe, dass an die Stelle des Personensorgeberechtigten beziehungsweise des Kindes oder des Jugendlichen der junge Volljährige tritt.
 

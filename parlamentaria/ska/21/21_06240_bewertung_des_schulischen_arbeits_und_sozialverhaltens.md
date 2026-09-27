@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8168"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54764"
@@ -61,7 +62,7 @@ Inwieweit wird an den Hamburger allgemeinen Schulen das Lern- und Sozialverhalte
 
 Erfolgt die Bewertung des Arbeits- und Sozialverhaltens schulformspezifisch standardisiert und inwieweit können die Schulen (auch teilweise) autonom über Umfang und Art der Bewertung des Arbeits- und Sozialverhaltens entscheiden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In den Jahrgangsstufen 1 bis 10 der allgemeinbildenden Schulen werden gemäß § 44 Absatz 1 Satz 1 des Hamburgischen Schulgesetzes (HmbSG) i.V.m. § 3 APO- GrundStGy sowie Ziffer 2.1 der jeweiligen Bildungspläne die überfachlichen Kompetenzen in den Bereichen Selbstkompetenzen, sozial-kommunikative Kompetenzen und lernmethodische Kompetenzen eingeschätzt. Gemäß § 3 Absatz 2 Satz 2 APO- GrundStGy richtet sich die Einschätzung im Zeugnis nach den Formvorgaben der zuständigen Behörde.
 

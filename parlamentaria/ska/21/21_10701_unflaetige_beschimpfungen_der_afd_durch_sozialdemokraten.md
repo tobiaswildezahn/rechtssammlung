@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59600"
@@ -47,7 +48,7 @@ An welchen Hamburger Schulen traten Johannes Kahrs oder Ralf Stegner in den verg
 
 Kam es im Zuge dieser Veranstaltungen durch Kahrs oder Stegner zu unflätigen Beschimpfungen Andersdenkender? Bitte ausführlich erläutern.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Über die Durchführung von Veranstaltungen entscheiden die Schulen im Rahmen ihrer einzelschulischen Selbstverantwortung eigenständig. Die erfragten Daten werden von der zuständigen Behörde daher statistisch nicht erfasst. Es kommt hinzu, dass solche Veranstaltungen regelhaft nicht protokolliert werden. Zu einer Rekonstruktion des Veranstaltungsablaufs und der Redebeiträge ist der Senat nicht verpflichtet, weil das Fragerecht nicht dazu dient, das Verhalten von Mitgliedern des Deutschen Bundestages oder anderer Landtage auszuforschen.
 
@@ -69,23 +70,23 @@ Die Regeln des Wettbewerbs „Jugend debattiert“ sollen ein konzentriertes, sa
 
 Die Debatte gliedert sich in drei Teile: Eröffnungsrunde, Freie Aussprache und Schlussrunde. Eine Gesprächsleitung gibt es nicht.
 
-• In der Eröffnungsrunde wechseln sich Rede und Gegenrede (pro und contra) ab. Jede Teilnehmerin beziehungsweise jeder Teilnehmer darf ohne Unterbrechung zwei Minuten sprechen.
+– In der Eröffnungsrunde wechseln sich Rede und Gegenrede (pro und contra) ab. Jede Teilnehmerin beziehungsweise jeder Teilnehmer darf ohne Unterbrechung zwei Minuten sprechen.
 
-• Die Freie Aussprache dauert insgesamt zwölf Minuten.
+– Die Freie Aussprache dauert insgesamt zwölf Minuten.
 
-• In der Schlussrunde ist die Redezeit jedes Teilnehmers auf eine Minute begrenzt. Die Teilnehmenden sprechen in der gleichen Reihenfolge wie in der Eröffnungsrunde. Dabei steht es jedem frei, seine Position gegenüber der Eröffnungsrunde zu verändern.
+– In der Schlussrunde ist die Redezeit jedes Teilnehmers auf eine Minute begrenzt. Die Teilnehmenden sprechen in der gleichen Reihenfolge wie in der Eröffnungsrunde. Dabei steht es jedem frei, seine Position gegenüber der Eröffnungsrunde zu verändern.
 
 Über die Einhaltung der Redezeiten wacht ein Zeitwächter.
 
 Die Teilnehmenden des Wettbewerbs „Jugend debattiert“ werden nach vier Kriterien bewertet:
 
-• Sachkenntnis,
+– Sachkenntnis,
 
-• Ausdrucksvermögen,
+– Ausdrucksvermögen,
 
-• Überzeugungskraft,
+– Überzeugungskraft,
 
-• Gesprächsfähigkeit.
+– Gesprächsfähigkeit.
 
 Mit Gesprächsfähigkeit ist die Kompetenz gemeint, anderen genau zuzuhören, an das Gesagte anzuknüpfen und aufeinander eingehen zu können. Das setzt voraus, dass die Teilnehmenden zu gegenseitigem Austausch und gegenseitigem Respekt bereit und in der Lage sind. Sollte ein Teilnehmer beziehungsweise eine Teilnehmerin durch rücksichtsloses Verhalten die Aussprache stören oder das Gespräch unmöglich machen, kann diese Person von der Jury disqualifiziert werden. Im Übrigen siehe https://www.jugend-debattiert.de/.
 

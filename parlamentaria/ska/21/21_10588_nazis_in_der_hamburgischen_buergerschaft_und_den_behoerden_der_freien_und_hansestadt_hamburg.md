@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59479"
@@ -53,7 +54,7 @@ Welche ehemaligen leitenden Mitarbeiter der Hamburger Verfassungsorgane waren Mi
 
 Wurden die Verflechtungen ehemaliger Abgeordneter und Behördenmitarbeiter zur nationalsozialistischen Ideologie und ihre NSDAP-Mitgliedschaft aufgearbeitet? Bitte sämtliche durch die Freie und Hansestadt Hamburg unterstützte Publikationen/Untersuchungen angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Landeszentrale für politische Bildung veröffentlicht seit 2016 die Datenbank „Die Dabeigewesenen“ (siehe www.hamburg.de/ns-dabeigewesene).
 

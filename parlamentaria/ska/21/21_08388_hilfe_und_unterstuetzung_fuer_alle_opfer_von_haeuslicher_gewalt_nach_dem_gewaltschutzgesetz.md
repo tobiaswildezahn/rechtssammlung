@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 19
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/6693", "21/6163", "18/8615", "21/6475", "20/10994", "21/4174", "21/7706"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57099"
@@ -103,9 +104,9 @@ Für Gewalttäter, die zu einer Freiheits- oder Jugendstrafe ohne Bewährung ver
 
 Angebote für gewalttätige Personen im Kontext häuslicher Gewalt bieten aktuell darüber hinaus:
 
- Das Hamburger Gewaltschutzzentrum (HGZ) (http://www.hamburgergewaltschutzzentrum.de/)
+– Das Hamburger Gewaltschutzzentrum (HGZ) (http://www.hamburgergewaltschutzzentrum.de/)
 
- Aktiv gegen Gewalt e.V. http://aktiv-gegen-gewalt.com/index.html
+– Aktiv gegen Gewalt e.V. http://aktiv-gegen-gewalt.com/index.html
 
 b. Welche dieser Angebote haben einen proaktiven Ansatz?
 

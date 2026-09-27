@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11000", "21/10873"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60060"
@@ -75,7 +76,7 @@ Warum erfolgte bis zum 30.09. kein Ausgleich der Haushaltsüberschreitung im Ein
 
 Ist inzwischen ein Ausgleich der in Drs. 21/11000 dargestellten Haushaltsüberschreitung im Einzelplan 4.0 durch Sollübertragungen aus zentralen Ansätzen des Einzelplans 9.2 erfolgt? Wenn ja, wann genau und in welcher Höhe? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der von der Fachbehörde beantragte Soll-Ausgleich wird spätestens im Rahmen der Jahresabschlussarbeiten vorgenommen. Im Übrigen siehe Vorbemerkung.
 

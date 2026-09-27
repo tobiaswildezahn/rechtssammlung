@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65394"
@@ -43,7 +44,7 @@ Wie hat sich die Personalsituation bei den Freiwilligen Feuerwehren in den Ortst
 
 Wie hat sich die Anzahl der in den Mini- und Jugendfeuerwehren der Ortsteile des Stadtteils Rahlstedt aktiven Kinder und Jugendlichen seit dem Jahr 2017 entwickelt? Bitte pro Wehr jeweils zum Stichtag 1. Januar angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 2017 2018 Einsatzabteilung
 

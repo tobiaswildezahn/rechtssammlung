@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 26
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/19782", "21/17957"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69777"
@@ -59,7 +60,7 @@ Aus welchem Grund wurde trotz des Umstandes, dass der Polizei bereits seit fast 
 
 Der Senat gibt in der Drs. 21/19782 an: „Die Polizei hat 2019 nach ausführlicher Prüfung entschieden, in einem gemeinsamen Projekt mit Dataport zu prüfen, ob der Betrieb der Endgeräte analog zu anderen Dienststellen der Freien und Hansestadt Hamburg zukünftig durch Dataport erbracht werden kann. Da ein Betrieb durch Dataport das Neuaufsetzen jedes Rechners erfordert, wurde die Migration zu Windows 10 in diesem Prozess verlagert, um den Dienstbetrieb von doppelten Neuinstallationen zu entlasten. Diese Umstellung wird im Jahr 2020 beginnen und befindet sich zurzeit in der Planungsphase.“ a. Wann begann diese Prüfung? b. Wann wurde genau die Entscheidung getroffen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die polizeiinternen Vorbereitungen für eine Migration aller Polizeirechner auf Windows 10 wurden im Februar 2019 in eine interne Prüfung überführt, die die Möglichkeit einer Realisierung der Anbindung der Polizei als Basiskunde bei Dataport zum Gegenstand hatte.
 
@@ -203,11 +204,11 @@ b. Wie viele und welche Mitarbeiter arbeiten in dem Projekt mit?
 
 Das Projektteam besteht aus insgesamt sechs Mitarbeiterinnen und Mitarbeitern:
 
- Projektleitung aus dem IT-Projekt-Pool der Senatskanzlei (SK),
+– Projektleitung aus dem IT-Projekt-Pool der Senatskanzlei (SK),
 
- Projektkoordinator aus dem Leitungsstab der Polizei,
+– Projektkoordinator aus dem Leitungsstab der Polizei,
 
- Projektmitarbeiter aus dem IT-Projekt-Pool der SK, dem Leitungsstab und weiteren
+– Projektmitarbeiter aus dem IT-Projekt-Pool der SK, dem Leitungsstab und weiteren
 
 Organisationseinheiten der Polizei.
 

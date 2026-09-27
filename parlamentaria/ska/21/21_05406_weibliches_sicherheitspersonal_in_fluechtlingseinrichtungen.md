@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2504", "21/2829", "21/3204", "21/3542", "21/4686", "21/4216", "21/3278", "21/454", "21/4174", "21/3550"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53896"
@@ -58,7 +59,7 @@ Wie weit ist der Senat mit der oben genannten Prüfung? Welche Ergebnisse hatte 
 
 Für welche Flüchtlingsunterkünfte bemüht sich der Senat verstärkt um eine Besetzung der Security-Stellen mit weiblichen Mitarbeitenden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Senat hat zu dem zitierten Prüfauftrag bereits mit der Drs. 21/4174 Stellung genommen. Danach sind die zuständigen Behörden verpflichtet, bis zum 31. August 2016 ein erstes einrichtungsspezifisches Schutzkonzept für Bewohnerinnen und Bewohner von Unterkünften vorzulegen. Zu den personellen und organisatorischen Mindeststandards, die für die einrichtungsspezifischen Schutzkonzepte mit der genannten Drucksache festgelegt worden sind, gehört auch die Selbstverpflichtung der Betreiber von Unterkünften, verstärkt auf gendersensible Einstellungsverfahren und die Einstellung von weiblichem Sicherheitspersonal hinzuwirken. Im Übrigen siehe Vorbemerkung.
 

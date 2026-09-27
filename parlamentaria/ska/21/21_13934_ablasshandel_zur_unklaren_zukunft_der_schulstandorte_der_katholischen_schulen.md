@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 26
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["19/519", "21/12056", "21/11742", "21/11743"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63318"
@@ -80,7 +81,7 @@ Gibt es Pläne des Senats, hinsichtlich möglicher Veräußerungen der Grundstü
 
 Inwiefern trägt der Senat bei zukünftigen Schenkungen von Grundstücken an nicht staatliche Träger zum Zweck der schulischen Nutzung Sorge, dass bei Wegfall oder Beendigung der Nutzung und/oder des Zwecks die Grundstücke an den Senat zurückfallen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.
 
@@ -100,6 +101,6 @@ Gibt es bis zum heutigen Zeitpunkt (Datum der Einreichung) Überlegungen seitens
 
 Plant der Senat anlässlich der sich ankündigenden Veränderungen den jeweils regionalen Schulentwicklungsplan zu aktualisieren? a. Haben dahin gehend schon Gespräche mit Schulen im Einzugsgebiet der betreffenden Schulen stattgefunden? (Bitte die involvierten Schulen und Personen angeben.) b. Wie schätzt der Senat die räumliche Situation der staatlichen Schulen im Einzugsgebiet ein? Sind gegebenenfalls Zubauten notwendig? (Bitte die Einschätzung nach Schulen unter Nennung der nötigen baulichen Maßnahmen in einer Excel-Tabelle auflisten.)
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Drs. 21/11743 bis 21/11746 und 21/11776. Im Übrigen sind die Überlegungen dazu noch nicht abgeschlossen.

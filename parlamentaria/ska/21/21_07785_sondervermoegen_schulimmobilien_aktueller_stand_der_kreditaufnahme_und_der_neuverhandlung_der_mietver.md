@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 51638
 seiten: 3
 fragen: 8
-einzelfragen: 17
-antwortbloecke: 6
+einzelfragen: 18
+antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5317", "21/7585", "21/6224", "21/6358"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56432"
@@ -40,14 +41,24 @@ Ich frage den Senat:
 ### Frage 1
 
 Im Zuge der Beratungen des Haushalts 2017/2018 hatte der Senat mitgeteilt, dass sowohl die Mietverträge als auch die Dienstleistungsverträge vom Sondervermögen Schulimmobilien mit den jeweiligen Vertragspartnern zum 1.01.2017 neu abgeschlossen werden sollten.
-1.1. Wurden die Miet- und Dienstleistungsverträge zum 1.01.2017 angepasst? Wenn nein, warum nicht?
-1.2. Welche einzelnen Anpassungen in den Verträgen wurden vorgenommen?
 
-#### Antwort zu Frage 1
+### Frage 1.1
+
+Wurden die Miet- und Dienstleistungsverträge zum 1.01.2017 angepasst? Wenn nein, warum nicht?
+
+### Frage 1.2
+
+Welche einzelnen Anpassungen in den Verträgen wurden vorgenommen?
+
+#### Antwort zu Fragen 1, 1.1 und 1.2
 
 Ja. Die Miet- und Dienstleistungsvereinbarungen wurden in dieser Form erstmalig abgeschlossen. In den Jahren zuvor erfolgte die Zusammenarbeit der Vertragsparteien auf der Grundlage von Interimsvereinbarungen.
 
-1.3. Welche Auswirkungen haben diese Anpassungen im Einzelnen auf den Wirtschaftsplan des Sondervermögens 2017/2018?
+### Frage 1.3
+
+Welche Auswirkungen haben diese Anpassungen im Einzelnen auf den Wirtschaftsplan des Sondervermögens 2017/2018?
+
+#### Antwort zu Frage 1.3
 
 Keine.
 
@@ -59,19 +70,31 @@ Wie ist der genaue Sachstand der Überlegungen einer Anpassung der Mietzahlungen
 
 In welchem Jahr soll erstmals das angekündigte ausgeglichene Ergebnis beim Sondervermögen Schulimmobilien erreicht werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Planungen und Überlegungen hierzu sind noch nicht abgeschlossen.
 
 ### Frage 4
 
 Gemäß den Angaben in Drs. 21/7585 hat das Sondervermögen Schulimmobilien im Jahr 2016 mit Krediten von über 450 Millionen Euro deutlich mehr Schulden aufgenommen als im Haushalt mit 265 Millionen Euro geplant waren.
-4.1. Wie hoch waren am 01.01.2015 die noch aus Vorjahren verfügbaren Kreditermächtigungen für das Sondervermögen?
-4.2. Welche Ermächtigungen zur Kreditaufnahme aus jeweils welchem Haushaltsjahr in jeweils welcher Höhe hat das Sondervermögen im Jahr 2015 in Anspruch genommen?
-4.3. Welche Ermächtigungen zur Kreditaufnahme aus jeweils welchem Haushaltsjahr in jeweils welcher Höhe hat das Sondervermögen im Jahr 2016 in Anspruch genommen?
-4.4. Wie hoch waren am 01.01.2017 die noch aus Vorjahren verfügbaren Kreditermächtigungen für das Sondervermögen?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+Wie hoch waren am 01.01.2015 die noch aus Vorjahren verfügbaren Kreditermächtigungen für das Sondervermögen?
+
+### Frage 4.2
+
+Welche Ermächtigungen zur Kreditaufnahme aus jeweils welchem Haushaltsjahr in jeweils welcher Höhe hat das Sondervermögen im Jahr 2015 in Anspruch genommen?
+
+### Frage 4.3
+
+Welche Ermächtigungen zur Kreditaufnahme aus jeweils welchem Haushaltsjahr in jeweils welcher Höhe hat das Sondervermögen im Jahr 2016 in Anspruch genommen?
+
+### Frage 4.4
+
+Wie hoch waren am 01.01.2017 die noch aus Vorjahren verfügbaren Kreditermächtigungen für das Sondervermögen?
+
+#### Antwort zu Fragen 4, 4.1, 4.2, 4.3 und 4.4
 
 Im Jahr 2016 erfolgten auch Kreditaufnahmen, die in früheren Jahren ermächtigt, aber zunächst aufgeschoben wurden. Im Übrigen siehe Anlage.
 
@@ -99,6 +122,6 @@ Wie sieht die Kapitalflussrechnung des Sondervermögens Schulimmobilien für das
 
 Wie sieht die Kapitalflussrechnung des Landesbetriebs Schulbau Hamburg (SBH) für das Jahr 2016 nach dem derzeitigen Stand im Einzelnen aus? Welche Abweichungen haben sich gegenüber den Planwerten ergeben?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Buchungen zum Jahresabschluss 2016 sind noch nicht abgeschlossen.

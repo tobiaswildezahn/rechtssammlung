@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49503"
@@ -63,7 +64,7 @@ In wie vielen Fällen wurden die Kosten tatsächlich vom betroffenen Ausländer 
 
 In welcher Höhe sind Kosten in den Fällen entstanden, in denen kein Leistungsbescheid ergangen ist oder tatsächlich nicht geleistet wurde? Bitte für die Jahre 2010, 2011, 2012, 2013, 2014 und für das erste Halbjahr 2015 angeben.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Zahl der durch Zahlung oder Niederschlagung der Forderung erledigten Fälle ist der folgenden Übersicht zu entnehmen:
 

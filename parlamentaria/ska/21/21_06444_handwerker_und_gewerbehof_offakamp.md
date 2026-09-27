@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 24
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4849"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55004"
@@ -95,7 +96,7 @@ Wurde das Projekt ohne das angestrebte Ziel einer Vorvermietung von mindestens 8
 
 Wie hat sich die sogenannte Vorvermietungsquote seit der Drs. 21/4849 und seit dem 8. September 2016 entwickelt? Welche Betriebe werden laut Vorverträgen ansässig sein? Bitte jeweils nach Zeiträumen, Branchen und Quadratmetern sowie in Prozent beziehungsweise total aufschlüsseln.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Nicht alle Mietinteressenten haben unmittelbar einen Vormietvertrag unterzeichnet. Im weiteren Fortgang des Projekts haben einige Betriebe trotz großen Interesses einen anderen Standort bezogen.
 

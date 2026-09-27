@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55440"
@@ -164,6 +165,6 @@ Welche weiteren Aktivitäten der zuständigen Behörde finden in der „Vorlaufp
 
 Sieht die Planung vor, Polizeieinheiten im Zusammenhang mit dem OSZE-Gipfeltreffen a. innerhalb der Sicherheitszone 1, b. innerhalb der Sicherheitszone 2, c. innerhalb der Sicherheitszone 3, d. außerhalb der drei Sicherheitszonen zu stationieren?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Fragen berühren die Einsatztaktik der Polizei, zu der der Senat grundsätzlich keine Auskunft gibt.

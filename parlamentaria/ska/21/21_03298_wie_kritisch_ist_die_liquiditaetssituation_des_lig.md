@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 47190
 seiten: 2
 fragen: 6
-einzelfragen: 11
-antwortbloecke: 6
+einzelfragen: 13
+antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1282", "21/1843", "21/1394", "21/2080"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51659"
@@ -71,17 +72,28 @@ Die Planungen hierzu sind noch nicht abgeschlossen.
 
 In der Sitzung des Ausschusses Öffentliche Unternehmen am
 12.02.2016 haben die Senatsvertreter ausgeführt, dass der LIG für 67 Millionen Euro den Hauptsitz der Stromnetz Hamburg GmbH an der Bramfelder Chaussee 130 erworben hat.
-5.1. Wann genau erfolgte dieser Grundstücksankauf durch den LIG? Wann genau erfolgte die Kaufpreiszahlung?
-5.2. Warum genau wurde diese Immobilie durch den LIG und nicht durch die Stromnetz Hamburg GmbH erworben?
-5.3. Welche Stellen im Einzelnen waren jeweils wann mit welchen Fragestellungen im Zusammenhang mit diesem Grundstückserwerb befasst?
 
-#### Antwort zu Frage 5
+### Frage 5.1
+
+Wann genau erfolgte dieser Grundstücksankauf durch den LIG? Wann genau erfolgte die Kaufpreiszahlung?
+
+### Frage 5.2
+
+Warum genau wurde diese Immobilie durch den LIG und nicht durch die Stromnetz Hamburg GmbH erworben?
+
+### Frage 5.3
+
+Welche Stellen im Einzelnen waren jeweils wann mit welchen Fragestellungen im Zusammenhang mit diesem Grundstückserwerb befasst?
+
+#### Antwort zu Fragen 5, 5.1, 5.2 und 5.3
 
 Der Kauf der Immobilie durch den Landesbetrieb für Immobilienmanagement und Grundvermögen (LIG) und die Vermietung an die Stromnetz Hamburg GmbH (SNH) haben sich unter wirtschaftlichen Gesichtspunkten als sinnvoll dargestellt. Der Kaufvertrag wurde am 6. November 2015 geschlossen und der Kaufpreis am 6. Januar 2016 gezahlt. SNH hat ihren Aufsichtsrat am 8. Juli und 12. Oktober 2015 beteiligt. Die Kommission für Bodenordnung hat den Kauf am 24. September 2015 beschlossen.
 
-5.4. Soll die Immobilie im Bestand des LIG verbleiben?
+### Frage 5.4
 
-Wenn nein, wann ist eine Weiterveräußerung an wen und in welcher Form geplant?
+Soll die Immobilie im Bestand des LIG verbleiben? Wenn nein, wann ist eine Weiterveräußerung an wen und in welcher Form geplant?
+
+#### Antwort zu Frage 5.4
 
 Ja.
 

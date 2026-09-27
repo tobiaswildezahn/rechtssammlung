@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9234"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67708"
@@ -53,7 +54,7 @@ Kann der Senat ausschließen, dass die Patronen, die in der Hafenstadt Jebel Ali
 
 Kann der Senat ausschließen, dass Patronen, die in Cartagena (Kolumbien) gelöscht wurden, zur Tötung von Oppositionellen benutzt werden? Wenn ja, auf welche Weise? Wenn nein, wie ist das mit der Definition „der Mittlerin des Friedens“ in der Hamburgischen Verfassung vereinbar?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Hierzu liegen dem Senat keine Erkenntnisse vor. Im Übrigen siehe Drs. 21/9234.
 

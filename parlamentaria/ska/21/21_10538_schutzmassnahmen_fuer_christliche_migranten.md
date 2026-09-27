@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5664", "21/3649", "21/4174", "21/6163", "21/8233", "21/10457", "21/8885", "21/3254", "21/5359", "21/6000", "21/7706", "21/7939", "21/8279"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59419"
@@ -65,7 +66,7 @@ Wie viele Wohnprojekte für christliche Migranten sind gegenwärtig in Hamburg v
 
 In wie vielen Fällen wurden Immobilien angemietet beziehungsweise neu gebaut?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Es gibt in Abhängigkeit des Bedarfes in verschiedenen Einrichtungen der örU integrierte Schutzplätze, die allen Personen gleichermaßen zur Verfügung stehen. Anzahl und Belegung der Einzelplätze können angesichts von über 100 Einrichtungen der örU in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht ermittelt werden, da dafür eine Abfrage aller belegten Plätze in allen örU erforderlich ist. Im Übrigen siehe zur Belegung in örU Drs. 21/8885 und Drs. 21/3254. Es wurden keine Immobilien angemietet beziehungsweise neu gebaut.
 

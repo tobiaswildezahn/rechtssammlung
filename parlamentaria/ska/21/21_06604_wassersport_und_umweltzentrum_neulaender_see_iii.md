@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 21
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3378"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55158"
@@ -111,7 +112,7 @@ Es sollen durch das Projekt mindestens neun Gymnasien, fünf Grundschulen, drei 
 
 Welche Angebotsformen haben die Schulen genutzt und wie viele Schülerinnen und Schüler waren jeweils beteiligt? Bitte je Schule auflisten.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Für die Schulen, die im Kalenderjahr 2016 Wassersportangebote am WUZ nutzten, siehe folgende Tabelle:
 
@@ -145,7 +146,7 @@ Welche Schulen im Bezirk Harburg nutzen andere außerschulische Standorte in Ham
 
 Um welche Standorte handelt es sich dabei und welches sind die Gründe dafür?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Für die Schulen aus dem Bezirk Harburg, die im Kalenderjahr 2016 Wassersportangebote am WUZ nutzten, siehe folgende Tabelle:
 
@@ -202,7 +203,7 @@ der Zielsetzung gezogen?
 Wenn ja, in welcher Form?  
 Falls nicht, warum nicht?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Eine solche schriftliche Erklärung erfolgte nicht. Die Prüfung des Verwendungsnachweises erfolgte im April 2016 ohne Beanstandungen. Im Übrigen siehe Antwort zu 5.
 

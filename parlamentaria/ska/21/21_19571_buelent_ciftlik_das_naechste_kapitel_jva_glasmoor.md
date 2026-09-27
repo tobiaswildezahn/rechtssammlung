@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 22
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69414"
@@ -60,7 +61,7 @@ Seit wann ist Bülent C. Freigänger?
 
 Welcher Tätigkeit geht er nach?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Dem Betroffenen wurde seit dem 24. September 2019 als Inhaber und Betreiber zweier Gastronomiebetriebe Freigang gewährt.
 

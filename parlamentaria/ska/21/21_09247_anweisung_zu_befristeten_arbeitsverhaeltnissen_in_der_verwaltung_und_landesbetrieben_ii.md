@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9113"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58018"
@@ -55,6 +56,6 @@ Weshalb wurde die bereits Anfang April 2017 erlassene Anweisung immer noch nicht
 
 Wann genau wird die Anweisung der Bürgerschaft vorgelegt und im Transparenzportal veröffentlicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Antwort Drs. 21/9113.

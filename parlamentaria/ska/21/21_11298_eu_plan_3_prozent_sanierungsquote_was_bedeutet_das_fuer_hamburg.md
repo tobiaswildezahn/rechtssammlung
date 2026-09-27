@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60295"
@@ -79,7 +80,7 @@ Wie hoch wären die für die Erfüllung der geplanten Sanierungsquote notwendige
 
 Inwiefern sind die öffentlichen Wohnungsunternehmen auf die erheblichen zusätzlichen finanziellen Mehrbelastungen vorbereitet?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Die SAGA hat in den vergangenen Jahren bereits im Rahmen ihrer Investitionsprogramme die in der Diskussion stehende Quote für energetische Sanierungen erreicht. Im Übrigen siehe Antwort zu 2.
 

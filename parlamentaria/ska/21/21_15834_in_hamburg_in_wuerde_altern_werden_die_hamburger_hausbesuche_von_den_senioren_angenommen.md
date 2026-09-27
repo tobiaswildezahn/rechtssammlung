@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 29
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10874", "21/3309"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65333"
@@ -114,11 +115,11 @@ Wenn ja, wie ist hier die Honorierung? Und wie erfolgt die Bezahlung, wenn die B
 
 Die Besuchskraft erhält pauschal folgende Honorare:
 
- 100 Euro für einen durchgeführten Hausbesuch,
+– 100 Euro für einen durchgeführten Hausbesuch,
 
- 70 Euro für einen Folgebesuch,
+– 70 Euro für einen Folgebesuch,
 
- 25 Euro für einen Hausbesuch, der nicht durchgeführt werden konnte, da die Per-
+– 25 Euro für einen Hausbesuch, der nicht durchgeführt werden konnte, da die Per-
 
 son nicht angetroffen wurde.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57426"
@@ -63,7 +64,7 @@ Ist der zuständigen Behörde das Ergebnis der DEKRA-Tests bekannt? Wie beurteil
 
 Wie beurteilt die zuständige Behörde die Wirksamkeit der Errichtung von Betonpollern zum Schutz vor möglichen Anschlägen mit Lkw?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Behörde für Inneres und Sport ist Medienberichterstattung bekannt, in dem ein DEKRA-Testergebnis dargestellt wird.
 

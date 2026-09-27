@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10264", "20/10994"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52669"
@@ -121,16 +122,16 @@ Inwieweit ist weibliche Genitalverstümmelung mittlerweile ein Thema in den Lehr
 
 #### Antwort zu Frage 5
 
- Universität Hamburg (UHH):
+– Universität Hamburg (UHH):
 
 Es ist möglich, dass das Thema FGM in einzelnen Veranstaltungen der Bachelor- und Masterstudiengänge Psychologie angesprochen wird. Pläne, dieses Thema explizit in Modulbeschreibungen dieser Studiengänge aufzuführen, existieren derzeit nicht.
 
- UKE:
+– UKE:
 
 Das Thema FGM wird in der Lehre insbesondere in den Lehrveranstaltungen der Gynäkologie, aber auch in der Psychiatrie (dort im Zusammenhang der Lehrveranstaltungen der Sexualmedizin) unter fachspezifischen Aspekten behandelt. So ist das
 
 Thema Genitalverstümmelung im Rahmen der studentischen Ausbildung in der Gynäkologie Bestandteil des Themenkomplexes „Fehlbildungen und Verletzungen im Bereich der äußeren Genitalien“.
 
- Hochschule für Angewandte Wissenschaften Hamburg (HAW):
+– Hochschule für Angewandte Wissenschaften Hamburg (HAW):
 
 Im Bachelorstudiengang Soziale Arbeit kann das Thema FGM im Modul „Vielfalt und Differenz in der Sozialen Arbeit – Gender und Migration“ als freiwilliges Thema behandelt werden. In näherer Zukunft ist keine feste curriculare Verankerung in den Studiengängen der Sozialen Arbeit an der HAW Hamburg in den Lehrplänen geplant. Gegebenenfalls wird die Thematik zu einem späteren Zeitpunkt als fester Lehrinhalt im vorgenannten Modul aufgenommen werden.

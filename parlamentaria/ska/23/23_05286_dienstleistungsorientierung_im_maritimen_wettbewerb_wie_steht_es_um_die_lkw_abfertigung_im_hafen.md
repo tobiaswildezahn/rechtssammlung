@@ -8,12 +8,13 @@ datum_anfrage: "2026-09-08"
 datum_drucksache: "2026-09-15"
 urheber: ["Dr. Antonia-Katharina Goldner"]
 fraktionen: ["CDU"]
-vorgang: null
+vorgang: 89150
 seiten: 7
 fragen: 24
 einzelfragen: 31
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["22/15400"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105190"

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1001", "20/4781", "21/302", "21/1440"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55988"
@@ -141,7 +142,7 @@ Wie viele zusätzliche Mathe-Lehrer wurden seitdem eingestellt? Gibt es nach Ans
 
 Wie viele Fachlehrerstellen für Mathematik waren in den Schuljahren 2013/2014, 2012/2013 und 2011/2012 jeweils unbesetzt? Bitte getrennt für Stadtteilschulen und Gymnasien angeben.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die für Bildung zuständige Behörde hat insgesamt 370 Lehrkräfte mit dem Fach Mathematik in den Jahren 2014 bis 2016 eingestellt. Im Gesamtsystem ist die Anzahl
 

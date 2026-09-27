@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 28
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4105", "21/5171", "21/7380", "21/8144"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56973"
@@ -124,7 +125,7 @@ Welche Erkenntnisse liegen den zuständigen Behörden darüber vor, ob offiziell
 
 Mit wie vielen inländischen und auswärtigen Medienvertretern rechnen die zuständigen Behörden jeweils?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Drs. 21/5171.
 
@@ -194,7 +195,7 @@ Mit welchen Kosten für die FHH rechnen der Senat beziehungsweise die zuständig
 
 In welcher Höhe beteiligen sich der Bund und andere Stellen an den Kosten des G20-Gipfels?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Siehe Drs. 21/8144.
 

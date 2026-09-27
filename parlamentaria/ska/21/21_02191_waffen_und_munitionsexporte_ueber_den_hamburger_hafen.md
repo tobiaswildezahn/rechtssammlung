@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14454", "21/268"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50475"
@@ -49,7 +50,7 @@ Welche und wie viele Güter wie in der der Drs. 20/14454 angehängten Liste und 
 
 In wie vielen Ladungspartien wurde diese Menge an verschifften Gefahrgütern näherungsweise umgeschlagen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das Einbringen von gefährlichen Gütern der Gefahrgutklasse 1 als Massengut ist aufgrund der Gefahrgut- und Brandschutzverordnung Hafen Hamburg verboten. Darüber hinaus siehe: www.transparenz.hamburg.de.
 
@@ -83,6 +84,6 @@ Stimmt nach Ansicht des Senats mit der vom Bundesminister für Wirtschaft und En
 
 Deutsche Waffen tragen weltweit zum Tod unzähliger Menschen bei und werden zudem auch von menschenfeindlichen Akteuren wie zum Beispiel dem Islamischen Staat IS genutzt. Was gedenkt der Senat zukünftig in Hamburg und auf Bundesebene zu unternehmen, um dieser Tatsache im Einklang mit der Friedensorientierung in der Hamburgischen Verfassung entgegenzuwirken?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/268. Im Übrigen hat sich der Senat mit dieser Frage nicht befasst.

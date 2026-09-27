@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5000", "21/5759"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54804"
@@ -51,7 +52,7 @@ Welche konkreten Schlüsse hat die zuständige Behörde aus den umfangreichen Sc
 
 Inwiefern hat der Senat bei der Aufstellung des Haushaltsplan-Entwurfs 2017/2018 die zunehmende Komplexität der Verfahren bei den einzelnen Staatsanwaltschaften und Gerichten berücksichtigt? Bitte detailliert darlegen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Bewertung der Belastungssituation ist in der Haushaltsaufstellung berücksichtigt worden und war auch Gegenstand der Beratungen im Justizausschuss. Siehe dazu den Haushaltsplan-Entwurf 2017/2018 (Drs. 21/5000).
 

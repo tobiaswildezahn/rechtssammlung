@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 24
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9609"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59008"
@@ -127,19 +128,19 @@ Die Abstimmung erfolgte zwischen der BASFI und dem Bezirksamt Altona.
 
 Die Stellenausschreibungen samt Stellenprofilen für Verwaltungsmanagement, Teamleitung, Sachbearbeitung und Geschäftszimmer sind veröffentlicht unter:
 
- https://www.hrecruiting.de/service/preview_anz.php3?anzeigen_id=qESbcEm8ctg
+– https://www.hrecruiting.de/service/preview_anz.php3?anzeigen_id=qESbcEm8ctg
 
 MuUAlpn&arbeitsmarkt=extern&layout_id=html_layout&kunden_nr=YM9QhJaWvZ n9DYmz&status=preview;
 
- https://www.hrecruiting.de/service/preview_anz.php3?anzeigen_id=ZqCL5AVna3is
+– https://www.hrecruiting.de/service/preview_anz.php3?anzeigen_id=ZqCL5AVna3is
 
 hoeFnE&arbeitsmarkt=intern&layout_id=html_layout&kunden_nr= YM9QhJaWvZn9DYmz&status=preview;
 
- https://www.hrecruiting.de/service/preview_anz.php3?anzeigen_id=2Ez6bJUcDU7
+– https://www.hrecruiting.de/service/preview_anz.php3?anzeigen_id=2Ez6bJUcDU7
 
 2Be1vrx&arbeitsmarkt=intern&layout_id=html_layout&kunden_nr=YM9QhJaWvZn 9DYmz&status=preview;
 
- https://www.hrecruiting.de/service/preview_anz.php3?anzeigen_id=lZ1pYe9nCSM
+– https://www.hrecruiting.de/service/preview_anz.php3?anzeigen_id=lZ1pYe9nCSM
 
 5lbF4KV&arbeitsmarkt=extern&layout_id=html_layout&kunden_nr=YM9QhJaWvZn 9DYmz&status=preview.
 
@@ -154,13 +155,13 @@ c) Sind die Abstimmungen mittlerweile abgeschlossen? Wenn ja, mit welchem Ergebn
 
 Die fachliche Abstimmung erfolgt mit allen in der Drs. 21/9609 genannten Fachbehörden, dem Bezirksamt Altona sowie mit folgenden Trägern:
 
- Koordinierungsstelle gegen Frauenhandel e.V. (KOOFRA),
+– Koordinierungsstelle gegen Frauenhandel e.V. (KOOFRA),
 
- Ragazza e.V. (Hilfen für drogenabhängige und sich prostituierende Frauen),
+– Ragazza e.V. (Hilfen für drogenabhängige und sich prostituierende Frauen),
 
- Diakonie Hamburg (Fachberatungsstelle Prostitution),
+– Diakonie Hamburg (Fachberatungsstelle Prostitution),
 
- basis und woge e.V. (BASIS-Projekt, Anlauf- und Übernachtungsstelle für männli-
+– basis und woge e.V. (BASIS-Projekt, Anlauf- und Übernachtungsstelle für männli-
 
 che Prostituierte).
 

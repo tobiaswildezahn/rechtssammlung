@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56039"
@@ -49,7 +50,7 @@ Wie viele Studenten aus Ländern außerhalb der EU sind an Hamburgs staatlichen 
 
 Wie viele Studenten sind an Hamburgs staatlichen Universitäten und Hochschulen zum Wintersemester 2016/2017 für ein sogenanntes Zweitstudium eingeschrieben? Bitte je Universität/Hochschule ohne Verweis auf andere Drucksachen angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Hochschule Anzahl Nicht-EU-Studierende
 

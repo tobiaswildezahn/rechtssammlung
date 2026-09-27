@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 17
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9849", "21/18643", "21/15617", "21/14021", "21/15978"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68257"
@@ -51,7 +52,7 @@ Wie oft und an welchen Orten wurden jüdische Bürger in Hamburg seit Januar 201
 
 Inwieweit hat der Senat Kenntnisse über Orte, Plätze oder Gegenden, die von Bürgern mit jüdischem Glauben in Hamburg gemieden werden? a. Wenn ja, an welchen Orten, Plätzen und Gegenden in Hamburg ist dies in der Regel der Fall? Bitte nach Stadtteilen und Bezirken darstellen. b. Wenn ja, aus welchen Untersuchungen ergeben sich diese Erkenntnisse? c. Wenn nein, was unternimmt der Senat, um zukünftig an entsprechende Erkenntnisse zu gelangen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die folgende Tabelle zeigt die Entwicklung der Gesamtzahl der antisemitischen Straftaten in Hamburg im Zeitraum 2017 bis Oktober 2019.
 

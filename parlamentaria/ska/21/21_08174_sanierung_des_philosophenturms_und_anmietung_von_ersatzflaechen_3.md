@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 17
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7522"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56875"
@@ -79,7 +80,7 @@ Wer ist der Eigentümer des Gebäudes am Überseering 35?
 
 Wer vermietet das Gebäude im Auftrag des Eigentümers beziehungsweise vermietet der Eigentümer das Gebäude selber?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die ERGO Lebensversicherung AG.
 
@@ -91,7 +92,7 @@ Wem vermietet der Eigentümer oder sein beauftragter Vermieter das Gebäude?
 
 Wer mietet das Gebäude für die Universität an? Mietet die Universität es selbst direkt an, mietet es die BWFG oder ein Dritter an? Von wem mieten Uni und/oder BWFG das Gebäude an?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Die Sprinkenhof GmbH.
 
@@ -111,6 +112,6 @@ In welcher Höhe zahlen Universität oder BWFG Miete an wen?
 
 Zur Höhe der Miete wollte der Senat in der Drs. 21/7522 keine Angaben wegen eines Betriebs- und Geschäftsgeheimnisses machen. Wessen Betriebs- und Geschäftsgeheimnis soll hier gewahrt werden und auf welcher rechtlichen Grundlage?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Der Senat äußert sich mit Blick auf seine Verhandlungsposition sowie zur Wahrung der Betriebs- und Geschäftsgeheimnisse seiner Vertragspartner (auf Grundlage von unter anderem § 241 Absatz 2 BGB) in ständiger Praxis grundsätzlich nicht zu Einzelheiten von Mietverträgen. Die zu schützenden Geschäftsgeheimnisse betreffen die Sprinkenhof GmbH und den Vermieter.

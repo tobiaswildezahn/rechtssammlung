@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 40
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4734", "21/4940", "21/4769"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53388"
@@ -187,7 +188,7 @@ Verfügung stehenden Zeit nicht möglich. Die zukünftigen Personalplanungen sin
 
 Die Betreiber haben alle Verträge mit Sicherheitsdiensten, Caterern und anderen Dienstleistern gemacht. An welchem Standort sorgen die abgeschlossenen Verträge dafür, dass Schließungen nicht zum gewünschten Zeitpunkt oder nur gegen Weiterzahlung der Vergütung oder Schadensersatzzahlungen gegenüber den Dienstleistern möglich sind? Wenn ja, mit welchen Beträgen rechnet die Behörde? Gibt es Sonderkündigungsklauseln in den Dienstleistungsverträgen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Es wurden noch keine schriftlichen Verträge abgeschlossen. Mit den Betreibern sind mündlichen Vereinbarungen geschlossen worden. An welchen Standorten und in welchem Umfang es erforderlich ist, Lösungen für das beschäftigte Personal und/oder die Ablösung von Verträgen mit externen Dienstleistern zu finden, ist derzeit Gegenstand von Gesprächen mit den Betreibern. Die Frage nach Weiterzahlung der Vergütung und gegebenenfalls Schadenersatzleistungen ist in Klärung, kann aktuell aber noch nicht beantwortet werden.
 
@@ -269,7 +270,7 @@ Welche Standorte befinden sich derzeit in Planung mit jeweils welcher Platzzahl 
 
 11.730 Plätze sollen nach ZKF im Bereich „Perspektive Wohnen“ entstehen. Bitte an dieser Stelle auflisten, wie viele Plätze und Wohnungen derzeit für jeden der Standorte im Bereich „Perspektive Wohnen“ geplant sind, wann diese jeweils Baubeginn haben und bezogen werden sollen.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Drs. 21/4940.
 

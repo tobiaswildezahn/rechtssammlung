@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63463"
@@ -92,23 +93,23 @@ Dem Dezernat Interne Ermittlungen liegen im Zeitraum vom 1. Januar 2017 bis 31. 
 
 Danach sind
 
- 90 Verfahren nach § 170 Absatz 2 StPO eingestellt worden,
+– 90 Verfahren nach § 170 Absatz 2 StPO eingestellt worden,
 
- 38 Verfahren sind noch offen,
+– 38 Verfahren sind noch offen,
 
- ein Verfahren ist teilweise wegen § 170 Absatz 2 StPO eingestellt/teilweise offen,
+– ein Verfahren ist teilweise wegen § 170 Absatz 2 StPO eingestellt/teilweise offen,
 
 da mehrere Angeklagte,
 
- ein Verfahren ist ein AR-Verfahren, welches seitens der StA nicht als Ermittlungs-
+– ein Verfahren ist ein AR-Verfahren, welches seitens der StA nicht als Ermittlungs-
 
 verfahren eingeleitet wurde,
 
- ein Verfahren wurde mit einer Geldstrafe von 90 Tagessätzen zu je 60 Euro verur-
+– ein Verfahren wurde mit einer Geldstrafe von 90 Tagessätzen zu je 60 Euro verur-
 
 teilt,
 
- 17 Verfahren konnten aufgrund der ComVor-Aktenzeichen bei der Staatsanwalt-
+– 17 Verfahren konnten aufgrund der ComVor-Aktenzeichen bei der Staatsanwalt-
 
 schaft nicht zugeordnet werden.
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 24
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/951"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57100"
@@ -142,7 +143,7 @@ Wo sind diese Betroffenen nach der Räumung tatsächlich untergekommen oder sons
 
 Was sind die Hauptgründe für die jeweiligen Zwangsräumungen bei der SAGA GWG?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Drs. 21/951.
 
@@ -242,7 +243,7 @@ Was waren die Hauptgründe der Ratsuchenden, die Fachstellen aufzusuchen?
 
 Wie hat sich die Zahl der Ratsuchenden aufgrund von drohenden Räumungen bei den Fachstellen für Wohnungsnotfälle entwickelt? Bitte nach Bezirken gegliedert und gesamt jeweils für die Jahre 2015 und 2016 benennen.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Drs. 21/951.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62640"
@@ -236,10 +237,10 @@ Elektromobilität (FuE)
 
 Daimler hySOLUTIONS GmbH (Projektleitung) und als Projektpartner:
 
- HAMBURG ENERGIE  
- Hamburger Hochbahn AG  
- Hamburger Verkehrsverbund (HVV)  
- FHH: Behörde für Stadtentwicklung und Um-
+– HAMBURG ENERGIE  
+– Hamburger Hochbahn AG  
+– Hamburger Verkehrsverbund (HVV)  
+– FHH: Behörde für Stadtentwicklung und Um-
 
 welt Bundes-Modellprojekt Elektromobilität (FuE)
 
@@ -257,7 +258,8 @@ Volkswagen
 
 hySOLUTIONS GmbH (Projektleitung) und als Projektpartner u.a.:
 
- FHH, Finanzbehörde  TU Hamburg Harburg
+– FHH, Finanzbehörde
+– TU Hamburg Harburg
 
 Projekte, Untersuchungsaufträge/Zusammenarbeit
 

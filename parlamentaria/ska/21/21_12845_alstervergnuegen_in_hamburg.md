@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 12
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11727"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62177"
@@ -93,7 +94,7 @@ Die RSW Veranstaltungs GmbH hatte der Stadt bereits im November 2017 mitgeteilt,
 
 Wie viele Gespräche zwischen der RSW Veranstaltungs GmbH und der Stadt fanden statt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Das für die Genehmigung zuständige Bezirksamt hat das entsprechende Schreiben zur Kenntnis genommen. Die Durchführung von Veranstaltungen liegt in der Disposition des Veranstalters. Die Leitung der Behörde für Inneres und Sport hat anlässlich des Schreibens mit den Veranstaltern zum Ende des Jahres 2017 Kontakt aufgenommen. Genauere Zeiten sind nicht dokumentiert. Im Übrigen siehe Vorbemerkung.
 

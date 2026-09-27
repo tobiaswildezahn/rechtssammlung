@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61692"
@@ -85,7 +86,7 @@ Wie finanziert der Tatverdächtige seinen Lebensunterhalt?
 
 Wo ist der Kosovare wohnhaft?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung und Antwort zu 2.
 

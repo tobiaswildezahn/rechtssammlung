@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3124", "21/2883", "21/2724", "21/2496", "21/2148"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51916"
@@ -61,7 +62,7 @@ Haben der ehemalige Innensenator M. Neumann beziehungsweise der Innensenator A. 
 
 Falls es in den unter 4. genannten Gesprächen auch um die Stellenbesetzungen beim BAMF und/oder die Entwicklung der Verfahrensdauer im Bereich Hamburg gegangen sein sollte: Zu welchen Erkenntnissen und/oder Ergebnissen haben sie dann gegebenenfalls geführt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der Präses und der Staatsrat der Behörde für Inneres und Sport stehen mit der Leitungsebene des BAMF in einem kontinuierlichen Gesprächskontakt über die erforderlichen Maßnahmen zur Bewältigung der in den letzten Jahren stark angestiegenen Zahl der Asylanträge, zuletzt insbesondere über die konkrete Zusammenarbeit in dem neuen Ankunftszentrum in Rahlstedt-Meiendorf, siehe Drs. 21/3124, 21/2883, 21/2724, 21/2496 und 21/2148. Zwischen den Beteiligten besteht Einigkeit, dass nicht zuletzt durch eine erhebliche Personalaufstockung beim BAMF die Dauer der Asylverfahren deutlich verkürzt werden muss und die geplante Zusammenarbeit im neuen Ankunftszentrum in Rahlstedt-Meiendorf eine Erfolg versprechende organisatorische Maßnahme ist, dieses Ziel zu erreichen.
 
@@ -73,7 +74,7 @@ Mit welchem Antragsrückstand bei der Asylantragsstellung rechnet der Senat zurz
 
 Ist dem Senat bekannt, wie viele Flüchtlinge schätzungsweise in den vergangenen Monaten nach Hamburg gekommen sind, aber noch keinen Asylantrag bei der Außenstelle des BAMF in Hamburg stellen konnten?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Hierzu liegen keine Angaben des nach § 14 Asylgesetz für die Entgegennahme der Asylanträge zuständigen BAMF vor. Das BAMF hat auf wiederholte Nachfragen mitgeteilt, es sei grundsätzlich nicht verpflichtet und auf freiwilliger Grundlage aufgrund der anhaltenden Arbeitsbelastung aktuell nicht in der Lage, Parlamentarische Anfragen aus Hamburg zu beantworten.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 19
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5138", "21/6106", "21/114", "21/5331"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54760"
@@ -41,7 +42,7 @@ Welche islamistischen/jihadistischen/salafistischen Gruppierungen gibt es in Ham
 
 Wie schätzen Senat und Sicherheitsbehörden diese Gruppierungen und Gemeinden ein?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die in Drs. 21/5138 genannten Gruppierungen werden dem Islamismus zugeordnet. Der Salafismus ist eine Untergruppe des Islamismus. Der Jihadismus ist ein Teil des Salafismus.
 

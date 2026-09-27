@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62366"
@@ -318,29 +319,29 @@ Hamburg-Harburg
 
 46 Stationen stufenfrei 1 teilweise stufenfrei 9 Stationen nicht stufenfrei
 
-  
+–  
 Kornweg  
-  
+–  
 Wellingsbüttel  
 2019
 
-  
+–  
 Berliner Tor  
-  
+–  
 Billwerder-Moorfleet  
-  
+–  
 Tiefstack  
 2022ff
 
- Diebsteich (Altona Nord) 2023
+– Diebsteich (Altona Nord) 2023
 
-  
+–  
 Reeperbahn  
-  
+–  
 Jungfernstieg  
-  
+–  
 Rothenburgsort  
-  
+–  
 Königstraße
 
 2020

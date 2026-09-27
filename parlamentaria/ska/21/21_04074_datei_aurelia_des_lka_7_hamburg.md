@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 18
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52458"
@@ -45,7 +46,7 @@ Seit wann genau besteht die Datei AURELIA?
 
 Inwiefern gab es einen konkreten Anlass oder einen Grund für ihre Einrichtung?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Datei wurde im Jahr 1993 aus Anlass der fremdenfeindlichen Anschläge in Solingen und Mölln eingerichtet. Ab Februar 1999 wurde die Datei auf die Bereiche „Linksextremismus“ und „politisch motivierte Ausländerkriminalität“ erweitert und erhielt den Namen AURELIA. Am 24. September 2001 wurde die Datei AURELIA in eine CRIME- Anwendung überführt.
 
@@ -109,7 +110,7 @@ Wie definiert das LKA 7 politisch motivierte extremistische beziehungsweise terr
 
 Wo ist der Unterschied zwischen politisch motivierter Kriminalität und extremistisch politisch motivierter Kriminalität?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Eine Einordnung von politisch motivierter Kriminalität erfolgt in den Phänomenbereichen „rechts“, „links“, „Ausländer“ und „nicht zuzuordnen“. Grundlage hierfür ist das für die Länderpolizeien und die Bundespolizei verbindlich anzuwendende „Definitionssystem Politisch motivierte Kriminalität“.
 

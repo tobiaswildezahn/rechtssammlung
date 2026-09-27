@@ -14,6 +14,7 @@ fragen: 25
 einzelfragen: 40
 antwortbloecke: 23
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50789"
@@ -55,7 +56,7 @@ Wie werden potenzielle Investoren berücksichtigt, die nicht von der BSW angespr
 
 Wer spricht die potenziellen Investoren an?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die zuständige Behörde steht im ständigen Austausch auch mit Investoren, die zum jetzigen Zeitpunkt nicht berücksichtigt werden können. In diesem Zusammenhang werden insbesondere Perspektiven der weiteren Zusammenarbeit geprüft.
 
@@ -212,7 +213,7 @@ Wie viele Flächen wird voraussichtlich die SAGA GWG bebauen?
 
 Wie viele Flächen wird die SAGA GWG höchstens pro Jahr bebauen?
 
-#### Antwort zu Fragen 21 bis 22
+#### Antwort zu Fragen 21 und 22
 
 Siehe Antwort zu 17. Im Übrigen sind die Planungen noch nicht abgeschlossen.
 

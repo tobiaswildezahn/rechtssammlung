@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 40
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15572", "18/6572", "21/17891"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68049"
@@ -49,7 +50,7 @@ Die Monate Oktober bis Dezember sind die umsatzstärksten Monate für den Einzel
 
 Die Gertigstraße dient dem ansässigen Baustoffhändler sowie der Schlosserei als Anliefer- und Zufahrtsweg. Wie wird sichergestellt, dass die Bauzeit auf das unbedingt erforderliche Maß reduziert wird und es zu keinen Vollsperrungen der Gertigstraße kommen wird? Wenn nein, warum nicht? Bitte ausführlich begründen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Hierzu hat der LSBG im Rahmen des Regionalausschusses der Bezirksversammlung Hamburg-Nord am 19. August 2019 Stellung bezogen und mitgeteilt, dass der LSBG detaillierte Bauphasenpläne entwickeln werde, um sicherzustellen, dass die Gewerbetreibenden nicht beeinträchtigt werden. Dabei wird die genaue Baustellenabwicklung beziehungsweise -absicherung in Absprache mit der Straßenverkehrsbehörde festgelegt.
 
@@ -163,7 +164,7 @@ Wie viele Geschäfte stehen aktuell in der Gertigstraße bereits leer beziehungs
 
 Wie viele Geschäfte gibt es derzeit in der Gertigstraße und wann wurde diese jeweils von wem über die geplanten Maßnahmen zur Umgestaltung informiert?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Hierzu liegen dem Senat keine Erkenntnisse vor. Im Übrigen siehe Vorbemerkung.
 
@@ -215,7 +216,7 @@ Was spricht aus Sicht des Senats dafür und was spricht aus Sicht des Senats dag
 
 Teilt der Senat die Aussage der Vertreter der Regierungsfraktion in der Bezirksversammlung Hamburg-Nord, dass die Bezirksversammlung Hamburg-Nord und nicht der LSBG final über die Umgestaltung der Gertigstraße entscheidet, da es sich um eine Bezirksstraße handelt? Wenn nein, warum nicht und warum haben dann die Vertreterinnen des LSBGs der Aussage der Vertreter der Regierungskoalition in der betreffenden Sitzung bestätigt?
 
-#### Antwort zu Fragen 21 bis 22
+#### Antwort zu Fragen 21 und 22
 
 Der LSBG wurde im Rahmen des Bündnisses für den Radverkehr mit der Zuständigkeit für die Velorouten 12, 13 und 14 betraut und tritt insofern als Realisierungsträger auch für Bezirksstraßen auf. Der Bezirk Hamburg-Nord bleibt weiterhin Träger der Wegebaulast.
 

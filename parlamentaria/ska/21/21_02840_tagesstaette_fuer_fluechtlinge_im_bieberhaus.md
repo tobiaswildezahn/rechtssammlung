@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2354", "21/1670"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51155"
@@ -43,7 +44,7 @@ Hat der Senat beziehungsweise die zuständige Behörde Kenntnis über die Person
 
 Sind die sich in Tagesstätte oder deren Umfeld aufhaltenden Personen in Deutschland registriert worden? Wenn ja, warum befinden sie sich nicht in einer entsprechenden Unterkunft? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Bei dem Angebot der ehrenamtlichen Helferinnen und Helfer in Kooperation mit dem PARITÄTISCHEN Wohlfahrtsverband Hamburg e.V. im Bieberhaus handelt es sich um ein zeitlich begrenztes, niedrigschwelliges, humanitäres Angebot. Es erfolgt dort keine Registrierung der Staatsangehörigkeit oder des aufenthaltsrechtlichen Status.
 
@@ -79,6 +80,6 @@ Steht der Senat beziehungsweise die zuständige Behörde einer Weiterreise diese
 
 Ist nach der Wiedereinführung von Kontrollen an der dänischen und schwedischen Grenze eine Veränderung der Situation zu verzeichnen? Wenn ja, inwiefern?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antwort zu 1. und 2. Darüber hinaus hat sich der Senat hiermit nicht befasst.

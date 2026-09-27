@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64478"
@@ -47,7 +48,7 @@ Wie viele Lärm- beziehungsweise sonstige Beschwerden (zum Beispiel Ruhestörung
 
 Kam es auch zu Anzeigen? Wenn ja, in welcher Form und in welchem Umfang (Beschwerdeinhalte)? Bitte nach Jahren und Monaten getrennt angeben.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Das zuständige Bezirksamt Hamburg-Mitte unterscheidet in seiner Fallaufnahme nicht zwischen Beschwerden und Anzeigen. Dem Bezirksamt Hamburg-Mitte sind vom 01. Januar 2013 bis 15. November 2018 insgesamt 29 Lärmbelästigungen angezeigt worden. Da der Abfragezeitraum die Aktenaufbewahrungspflicht überschreitet, konnten keine früheren Beschwerden ermittelt werden. Folgende Beschwerdeinhalte waren betroffen:
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 19
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65618"
@@ -55,19 +56,19 @@ Gewässerhydrologie
 und  
 -morphologie, in vielerlei Hinsicht eine Schlüsselfrage:
 
- Für den Hamburger Hafen, denn die wasserseitige Zugänglichkeit kann nur dauer-
+– Für den Hamburger Hafen, denn die wasserseitige Zugänglichkeit kann nur dauer-
 
 haft gewährleistet werden, wenn das Sedimentmanagement in der Tideelbe gemeinsam mit Bund und Nachbarländern abgestimmt und optimiert wird,
 
- für die Ökologie der Tideelbe, da die zunehmende Verlandung von Nebenelben
+– für die Ökologie der Tideelbe, da die zunehmende Verlandung von Nebenelben
 
 und Seitenbereichen sowie verstärkte Strömungen im Hauptstrom zu einer Verringerung der Artenvielfalt und zum Verlust von Lebensräumen führen,
 
- für die tideoffenen Sportboothäfen in der Region, die unter zunehmender Verschli-
+– für die tideoffenen Sportboothäfen in der Region, die unter zunehmender Verschli-
 
 ckung zu leiden haben
 
- und ebenso für die Entwässerung tiefliegender Marschen, die mit klimabedingt
+– und ebenso für die Entwässerung tiefliegender Marschen, die mit klimabedingt
 
 steigendem Tidenhub erschwert wird.
 
@@ -94,7 +95,7 @@ Wie ist es zur Vorauswahl der nunmehr fünf favorisierten Maßnahmen zum Sedimen
 
 Inwieweit wurden andere ursprünglich von den 23 Maßnahmen betroffene Regionen beteiligt? Bitte konkret für jede Maßnahme darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In der ersten Phase des Dialogs (2017) erfolgte im Rahmen eines Expertenprozesses eine Vorauswahl aus zunächst 23 Maßnahmenvorschlägen. Dies erfolgte auf Grundlage einer systematischen Einschätzung anhand der drei Hauptkriterien hydrologische Wirksamkeit, ökologisches Verbesserungspotenzial und Realisierbarkeit. Die Exper-
 
@@ -198,7 +199,7 @@ Wie soll verhindert werden, dass wechselnde Pegelstände die umliegende Bebauung
 
 Ist ausgeschlossen, dass der aktuelle Wasserstand der Dove Elbe mithilfe eines Sperrwerkes nicht nur bei Ebbe abgesenkt, sondern auch bei Flut erhöht wird und somit die Vier- und Marschlande als Sturmflutentlastungspolder missbraucht werden?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Siehe Antwort zu 8.
 

@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 6
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12060"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61529"
@@ -51,6 +52,6 @@ Ist es in dem oben genannten Zeitraum zu „nicht rechtsverbindlichen“ Vereinb
 a) Wenn ja, zwischen wem, wann und mit welchem Inhalt beziehungsweise unter welchen Bedingungen?
 b) Wenn nein, kann der Senat garantieren, dass keine „nicht rechtsverbindlichen“ Vereinbarungen existieren?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für Steinwerder-Süd gibt es weder einen Letter of Intent noch weitere formale Vereinbarungen.

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61012"
@@ -109,7 +110,7 @@ Die Verwendung von RISE-Mitteln sollen laut dem Internetauftritt der BSW neben s
 
 Wie schätzt der Senat die Bedeutung des geplanten „Körber-Hauses“ für das Quartier Bergedorf-Süd einerseits und dem darüber hinausgehenden Raum andererseits, insbesondere im Verhältnis zueinander ein?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung.
 

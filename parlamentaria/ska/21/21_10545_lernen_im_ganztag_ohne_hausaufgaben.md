@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 10
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59426"
@@ -67,7 +68,7 @@ Wie bewerten Schulleitung, Lehrerschaft, Eltern und Schülerschaft die Abschaffu
 
 Wird die Maßnahme der Abschaffung der Hausaufgaben evaluiert? Wenn ja, auf welcher Ebene und auf welche Weise?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Mit der Grundschule Traberweg wurde im Jahr 2016 eine Ziel- und Leistungsvereinbarung zur Evaluierung des neuen Ganztagskonzepts abgeschlossen. Ergebnisse liegen voraussichtlich im 1. Quartal des Jahres 2018 vor.
 

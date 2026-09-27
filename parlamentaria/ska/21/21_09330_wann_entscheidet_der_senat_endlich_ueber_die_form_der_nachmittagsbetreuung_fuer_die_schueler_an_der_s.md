@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58096"
@@ -49,7 +50,7 @@ Zu welchem Zeitpunkt ist mit einer Entscheidung der Schulbehörde über die Form
 
 Welche Gründe haben zu der Verzögerung bezüglich der zwingend notwendigen und mittlerweile dringenden Entscheidung geführt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Schulleitung wurde die Entscheidung über die Form der Nachmittagsbetreuung am 30. Mai 2017 telefonisch und am 2. Juni 2017 schriftlich mitgeteilt. Es galt dabei, die unterschiedlichen Wünsche aller Beteiligten mit den Erfordernissen für die Schülerinnen und Schüler des ReBBZ abzuwägen. Im Übrigen siehe Antwort zu 4.
 

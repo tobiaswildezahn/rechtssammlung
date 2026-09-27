@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4777", "21/6204", "21/10083", "21/12260", "21/14609", "21/6854"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66317"
@@ -295,15 +296,15 @@ An den WSPK gab es im Erfassungszeitraum keine abgemeldeten Funkstreifenwagen au
 
 Ursachen erhöhter Zahlen abgemeldeter Funkstreifenwagen an den einzelnen PK sind:
 
- Ausschöpfen der jeweiligen Urlaubsquoten,
+– Ausschöpfen der jeweiligen Urlaubsquoten,
 
- partielle Überschreitung der Urlaubsquoten aufgrund von Personalwechseln (mit-
+– partielle Überschreitung der Urlaubsquoten aufgrund von Personalwechseln (mit-
 
 gebrachter genehmigter Urlaub),
 
- Abordnungen zu anderen Dienststellen,
+– Abordnungen zu anderen Dienststellen,
 
- erhöhter Krankenstand.
+– erhöhter Krankenstand.
 
 Im Übrigen siehe Vorbemerkung und Drs. 21/10083.
 

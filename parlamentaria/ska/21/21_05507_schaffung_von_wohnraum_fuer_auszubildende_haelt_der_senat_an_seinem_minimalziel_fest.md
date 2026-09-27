@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 21
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/576", "21/2056"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53994"
@@ -53,23 +54,23 @@ Hat der Senat bis zum 1. August 2016 insgesamt 500 Wohnplätze für Auszubildend
 
 Folgende Wohnplätze für Auszubildende wurden geschaffen:
 
- Azubiwerk Objektgesellschaft Wandsbek gemeinnützige UG (Azubiwerk): Auszu-
+– Azubiwerk Objektgesellschaft Wandsbek gemeinnützige UG (Azubiwerk): Auszu-
 
 bildendenwohnheim Hammer Straße: 156 Wohnplätze, die Kaltmiete beträgt für ein Einzelapartment 246 Euro, für einen Wohnplatz im Zwei-Zimmer-Apartment 235 Euro und in den Drei- und Vierzimmer-Apartments jeweils 226 Euro. Nebenkosten werden in Höhe von 124 bis 164 Euro erhoben.
 
- Berufsförderungswerk: Die Behörde für Arbeit, Soziales, Familie und Integration
+– Berufsförderungswerk: Die Behörde für Arbeit, Soziales, Familie und Integration
 
 (BASFI) hat 60 Wohnplätze für Auszubildende gesichert, dieses Kontingent wurde aktuell um zehn weitere Wohnplätze aufgestockt. Die Miete für das Ein-Zimmer- Apartment beträgt 305 Euro, hinzukommen Nebenkosten in Höhe von 75 Euro.
 
- Das Studierendenwerk stellt zudem gemäß Vereinbarung mit der Behörde für
+– Das Studierendenwerk stellt zudem gemäß Vereinbarung mit der Behörde für
 
 Arbeit, Soziales, Familie und Integration (BASFI) in den Wohnanlagen für Studierende in Kiwittsmoor und Rahlstedt insgesamt 70 Plätze für die Belegung an Auszubildende zur Verfügung, soweit diese Plätze nicht von immatrikulierten Studierenden nachgefragt werden. Die Miete beträgt 283 bis 361 Euro inklusive pauschaler Nebenkosten.
 
- In Neuallermöhe entsteht zurzeit eine neue Wohnanlage des Studierendenwerks
+– In Neuallermöhe entsteht zurzeit eine neue Wohnanlage des Studierendenwerks
 
 im Sophie-Schoop-Weg mit insgesamt 266 Plätzen. Die Fertigstellung ist für Mitte/ Ende 2017 vorgesehen. Dabei werden bis zu 70 Plätze für Auszubildende eingeplant. Vermietet werden möblierte Zimmer in Wohngemeinschaften und Ein- Zimmer-Appartements. Die Bruttomiete, warm möbliert, basiert auf der von der Investitions- und Förderbank (IFB) vorgegebenen Nettokalt-Miete und wird nach derzeitiger Kalkulation circa 355 Euro betragen.
 
- SMARTments: Mit der GBI AG, die die SMARTments-Wohnheime am Hühnerpos-
+– SMARTments: Mit der GBI AG, die die SMARTments-Wohnheime am Hühnerpos-
 
 ten und in der Borgfelder Allee errichtet hat, wurde vereinbart, dass im Haus am Hühnerposten bis zu 50 und ab dem 1. Oktober im Haus Borgfelder Allee bis zu 25 Wohnplätze an Auszubildende vermietet werden sollen. Die Mieten inklusive Nebenkosten betragen am Hühnerposten im Zweier-Apartment ab 490 und im Einzelapartment ab 510 Euro, in der Borgfelder Allee ab 495 Euro.
 
@@ -121,11 +122,11 @@ Siehe Antwort zu 1.
 
 a. Wie war die Auslastung der zur Verfügung stehenden Plätze an den einzelnen Standorten?
 
- Die ab ausblick hamburg gmbh (vormals Vermittlungskontor) hat zum Stand
+– Die ab ausblick hamburg gmbh (vormals Vermittlungskontor) hat zum Stand
 
 26.7.2016 insgesamt 68 Räume vermietet.
 
- Mit Stand August 2016 wohnen insgesamt 21 Auszubildende in Wohnanlagen des
+– Mit Stand August 2016 wohnen insgesamt 21 Auszubildende in Wohnanlagen des
 
 Studierendenwerkes, 13 in der Wohnanlage Kiwittsmoor und acht in der Wohnanlage Rahlstedt.
 
@@ -251,6 +252,6 @@ Sind derzeit weitere Projekte für die Schaffung von Wohnplätzen für Auszubild
 
 Bei Bedarf sagte die BASFI in der Drs. 21/576 eine zweite Befragung von Ausbildungsanfängern zu Beginn des Ausbildungsjahres 2016/2017 zu. Sieht die BASFI den Bedarf? Wenn ja, wann beginnt die Befragung und liegt das Ergebnis dieser vor? Wenn nein, warum sieht die BASFI keinen Bedarf?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Teilprojektgruppe „Wohnraum für Auszubildende“ des Fachkräftenetzwerks hat sich darauf verständigt, noch in diesem Jahr eine weitere Befragung in Auftrag zu geben. Die Ergebnisse werden in die weitere Planung von Wohnangeboten einfließen.

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9745", "21/5888", "20/14485", "20/9662"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58662"
@@ -53,7 +54,7 @@ Ist die Datenauswertung inklusive der daraus abzuleitenden Maßnahmen der vom Se
 
 Warum enthält der Fragebogen bei keiner Frage eine Antwortoption, die den Befragten ein Plädoyer beziehungsweise Statement für die Abschaffung/Rücknahme der P+R-Gebühren ermöglicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Umfrage ist Teil einer Studie, die darauf abzielt, Aussagen im P+R-Entwicklungskonzept zur Verlagerung zum Fahrrad zu untersuchen und ein noch besser aufeinander abgestimmtes Angebot für beide Systeme (P+R und B+R) anbieten zu können. Diese Fragestellung kommt in der Überschrift des Fragebogens „Wechselwirkungen zwischen P+R und B+R“ zum Ausdruck und ist ausreichend.
 
@@ -69,7 +70,7 @@ Warum richten sich neun der insgesamt 17 Fragen, davon mit Nummer
 
 unter anderem eine im allgemeinen Teil, an Radfahrende (B+R) und nur vier Fragen an Pkw-Nutzer (P+R)?
 
-#### Antwort zu Fragen 3, 5
+#### Antwort zu Fragen 3 und 5
 
 Einhergehend mit der Umsetzung des B+R-Entwicklungskonzepts (Drs. 20/14485) werden dem B+R-Nutzer neue und verbesserte Angebote im Zusammenhang mit dem Abstellen des Fahrrads unterbreitet. Hierzu gehören unter anderem veränderte Positionierungen und vermehrte Überdachungen der Abstellmöglichkeiten, die Erhöhung der Zahl der gesicherten Mietstellplätze und das Angebot von Schließfächern für Fahrradzubehör wie Regenkleidung oder Akkus. Die Fragen, die sich an die Rad Fahrenden richten, sollen Auskunft darüber geben, inwieweit die neuen Angebote bei dem genannten Klientel auf Akzeptanz treffen beziehungsweise welche dieser Angebote von besonderer Bedeutung sind. Es gab keine fachliche Erfordernis, die Zahl dieser Fragen mit der Zahl der an die Pkw-Nutzer gestellten Fragen ins Verhältnis zu setzen.
 

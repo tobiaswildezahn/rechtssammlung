@@ -14,6 +14,7 @@ fragen: 23
 einzelfragen: 31
 antwortbloecke: 22
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3231", "21/3731", "21/3827", "21/3464"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52268"
@@ -231,17 +232,17 @@ Auf welcher Vertragsgrundlage wurden die vorgenannten Firmen seit wann für wen 
 
 Die in der Antwort zu 14. genannten Firmen sind wie folgt für f & w tätig:
 
- Nummern 1 – 4 auf Grundlage des Rahmenvertrages Generalplanung (Projekt-
+– Nummern 1 – 4 auf Grundlage des Rahmenvertrages Generalplanung (Projekt-
 
 steuerung, Objekt- und Fachplanung) seit September 2015
 
- Nummer 5 Dienstleistungsverträge (AHO, HOAI) für Freiberuflich Tätige seit April
+– Nummer 5 Dienstleistungsverträge (AHO, HOAI) für Freiberuflich Tätige seit April
 
 2014 und seit September Rahmenvertrag Generalplanung
 
- Nummer 6 Inhouse-Vergabe nach VV-Bau, AHO, HOAI, seit August 2014
+– Nummer 6 Inhouse-Vergabe nach VV-Bau, AHO, HOAI, seit August 2014
 
- Nummer 7 Inhouse-Vergabe nach VV-Bau, AHO, HOAI, seit Februar 2014
+– Nummer 7 Inhouse-Vergabe nach VV-Bau, AHO, HOAI, seit Februar 2014
 
 ### Frage 16
 
@@ -251,7 +252,7 @@ Welche konkreten Tätigkeiten erbrachten die Firmen jeweils an welchen Standorte
 
 Geht es bei den besagten Tätigkeiten tatsächlich nur um solche an Containerunterkünften oder aber sind auch andere Arten von Unterkünften und städtische Bestandsimmobilien Teil der Vertragsbeziehungen?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Siehe Anlage.
 

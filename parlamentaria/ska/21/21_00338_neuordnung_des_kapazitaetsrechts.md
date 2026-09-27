@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/20", "21/298", "20/298", "21/307", "21/281"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48475"
@@ -79,7 +80,7 @@ Auf welcher rechtlichen Grundlage soll das Kapazitätsrecht – ab Wintersemeste
 
 Welches Kapazitätsmodell wird den politischen Anforderungen aus Sicht des Senats am ehesten gerecht und wie wird das begründet?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/281 sowie Drs. 21/307. Im Übrigen hat sich der Senat hiermit bislang nicht befasst.
 

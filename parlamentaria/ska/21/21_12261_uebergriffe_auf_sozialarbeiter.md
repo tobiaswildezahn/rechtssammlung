@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61535"
@@ -143,7 +144,7 @@ Wie viele Straftäter mit Migrationshintergrund leben aktuell in Hamburg und was
 
 In wie vielen dieser Fälle gab es Strafverfahren und mit welchem Ergebnis? Bitte nach Einzelfällen darstellen.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Polizei erfasst Straftaten gemäß dem Straftatenkatalog der Richtlinien für die Erfassung und Verarbeitung der Daten in der Polizeilichen Kriminalstatistik. Statistische Daten im Sinne der Sinne der Fragestellung werden von der Polizei nicht erfasst.
 
@@ -157,6 +158,6 @@ In wie vielen Fällen seit Anfang 2015 wurden Straftätern Bewährungshelfer an 
 
 In wie vielen Fällen wurden seit 2015 welche Therapien verordnet und mit welchem Erfolg? Bitte nach Einzelfällen darstellen.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 In MESTA wird ebenfalls nicht zuverlässig erfasst, ob einer verurteilten Person ein Bewährungshelfer bestellt worden oder eine Therapieweisung ergangen ist. Allein die Anzahl der Verurteilten, für die nach den internen Controllingberichten als Vollstreckungseinleitung eine Freiheitsstrafe mit Bewährung erfasst wurde, liegt für den maßgeblichen Zeitraum bei mehreren Tausend. In der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit ist weder eine Beiziehung noch eine entsprechende Auswertung dieser Akten möglich.

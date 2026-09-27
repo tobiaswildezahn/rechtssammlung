@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 25
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/20004", "21/19816", "21/16812", "21/18424"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69932"
@@ -228,17 +229,17 @@ In welchen Sprachen und in welcher Form können sich Angehörige von Untersuchun
 
 Angehörige oder Bekannte von Gefangenen der Untersuchungshaftanstalt können sich in folgenden Formen und Sprachen über Besuchsmodalitäten et cetera informieren:
 
- Internetauftritt der Untersuchungshaftanstalt in deutscher Sprache;
+– Internetauftritt der Untersuchungshaftanstalt in deutscher Sprache;
 
- Telefonanrufe im Besuchszentrum, Auskünfte erfolgen hier regelhaft in deutscher
+– Telefonanrufe im Besuchszentrum, Auskünfte erfolgen hier regelhaft in deutscher
 
 Sprache. Sind im Besuchszentrum Bedienstete mit Fremdsprachenkenntnissen eingesetzt, erfolgen gegebenenfalls auch Auskünfte in den entsprechenden Sprachen;
 
- bei Bedarf werden Flyer über Besuchsmodalitäten in deutscher Sprache von
+– bei Bedarf werden Flyer über Besuchsmodalitäten in deutscher Sprache von
 
 der Pforte oder dem zentralen Besuchszentrum an Angehörige/Bekannte von U-Gefangenen ausgehändigt;
 
- im Außenbereich des Besuchszentrums sind Informationstafeln in folgenden Spra-
+– im Außenbereich des Besuchszentrums sind Informationstafeln in folgenden Spra-
 
 chen  
 aufgestellt:  
@@ -247,27 +248,27 @@ Spanisch (und zukünftig auch Arabisch).
 
 Angehörige von Untersuchungshaftgefangenen der Justizvollzugsanstalt Billwerder können sich in folgenden Formen und Sprachen über Besuchsmodalitäten et cetera informieren:
 
- Internetauftritt der Justizvollzugsanstalt Billwerder in deutscher Sprache;
+– Internetauftritt der Justizvollzugsanstalt Billwerder in deutscher Sprache;
 
- Aushändigung der Hausordnung an die Gefangenen, in der die Besuchsmodalitä-
+– Aushändigung der Hausordnung an die Gefangenen, in der die Besuchsmodalitä-
 
 ten beschrieben sind. Die Angehörigen können so schriftliche oder telefonische Informationen, sofern durch die Haftstatute gestattet, direkt durch die zu besuchen-
 
 den Gefangenen erhalten. Die Hausordnung liegt auf Deutsch, Englisch, Russisch, Polnisch, Türkisch und Französisch vor;
 
- sollten diese Informationswege nicht ausreichen, besteht die Möglichkeit des
+– sollten diese Informationswege nicht ausreichen, besteht die Möglichkeit des
 
 Videodolmetschens, um Regelungen zu übersetzen, und die Hilfestellung durch den Ausländerberater. Sodann können die Gefangenen ihre Angehörigen informieren.
 
 Angehörige von Untersuchungshaftgefangenen der Justizvollzugsanstalt Hahnöfersand können sich in folgenden Formen und Sprachen über Besuchsmodalitäten et cetera informieren:
 
- Internetauftritt der Justizvollzugsanstalt Hahnöfersand in deutscher Sprache;
+– Internetauftritt der Justizvollzugsanstalt Hahnöfersand in deutscher Sprache;
 
- Aushändigung der Hausordnung an die Inhaftierten, in der die Besuchsmodalitäten
+– Aushändigung der Hausordnung an die Inhaftierten, in der die Besuchsmodalitäten
 
 beschrieben ist. Die Angehörigen können so schriftliche oder telefonische Informationen, sofern durch die Haftstatute gestattet, direkt durch den oder die zu besuchenden Inhaftierten erhalten. Die Hausordnung liegt neben der deutschen Sprache auch in diversen anderen Sprachen vor;
 
- sollten diese Informationswege nicht ausreichen, besteht die Möglichkeit der Hilfe-
+– sollten diese Informationswege nicht ausreichen, besteht die Möglichkeit der Hilfe-
 
 stellung durch die Ausländerberatung oder durch andere Bedienstete mit entsprechenden Sprachkenntnissen.
 

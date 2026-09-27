@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15695"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67094"
@@ -100,7 +101,7 @@ b. Mangel an Fachkräften
 in Hamburg in fünf, zehn und 20 Jahren in den in Frage 4. genannten  
 Berufsfeldern?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Anlage. Darüber hinaus sind die folgenden Werte aus dem Fachkräftemonitor verfügbar:
 
@@ -154,7 +155,7 @@ Mit wie vielen zusätzlichen a. Fachkräften, b. Auszubildenden aus Nicht-EU-Sta
 
 Was prognostiziert der Senat, aus welchen Ländern und in welchen prozentualen Anteilen die zusätzlichen Fachkräfte hauptsächlich kommen werden?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Für Fachkräfte und Auszubildende aus Drittstaaten bestehen bereits nach bisheriger Rechtslage großzügige Regelungen für die Einreise und den weiteren Aufenthalt (siehe unter anderem §§ 17a, 17b, 18c AufenthG).
 

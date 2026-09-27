@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66166"
@@ -55,7 +56,7 @@ Wie viele Anträge auf Übernahme der Sperrmüllkosten wurden von Bezieherinnen 
 
 Wie wurden diese Anträge jeweils beschieden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die zur Beantwortung benötigten Daten werden nicht gesondert statistisch erfasst. Eine Einzelfallauszählung ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehen Zeit nicht möglich, da hierfür rund 145 000 Leistungsakten ausgewertet werden müssten.
 
@@ -102,7 +103,7 @@ Ist der Senat der Meinung, dass Sperrmüllkosten in Höhe von 8,25 Prozent der m
 
 Ist der Senat der Meinung, dass angesichts der nicht vorhandenen Sozialstaffelung, Sperrmüllkosten von der Arbeitsagentur beziehungsweise dem Grundsicherungsamt zumindest erstattet werden müssen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung. Im Übrigen ist davon auszugehen, dass Sperrmüllkosten nicht monatlich anfallen.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10005", "21/6572", "21/7489"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58967"
@@ -63,7 +64,7 @@ Welche Gründe sprechen dagegen, dass auf der Alster HVV-Linien eingerichtet wer
 
 Welche Gründe sprechen dafür, dass eine Pendlerfähre für Fußgänger und Radfahrer auf der Alster eingerichtet wird?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Mit der „Alsterkreuzfahrt“ sowie der direkten Fährverbindung zwischen den Anlegern Fährdamm und Uhlenhorster Fährhaus bestehen bereits zwei Schiffsverbindungen der ATG über die Alster.
 

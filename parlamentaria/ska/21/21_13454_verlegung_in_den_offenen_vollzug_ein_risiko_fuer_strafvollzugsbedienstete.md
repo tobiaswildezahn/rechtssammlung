@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62814"
@@ -99,8 +100,7 @@ Mrz 18
 Apr 18  
 Mai 18  
 Juni 18*  
-a. 7  
-b. 6
+a. b.
 
 ### Frage 5
 

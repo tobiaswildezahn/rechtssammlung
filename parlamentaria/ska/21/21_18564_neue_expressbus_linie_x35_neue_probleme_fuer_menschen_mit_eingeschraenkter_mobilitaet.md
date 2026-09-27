@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18148", "21/12397"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68252"
@@ -72,7 +73,7 @@ b) Seit wann sind dem Senat/der zuständigen Fachbehörde die Einwände der Sena
 
 Wie geht der Senat/die zuständige Fachbehörde mit den Einwänden der Senatskoordinatorin für die Gleichstellung behinderter Menschen um? Haben die Einwände noch einen planerischen Einfluss auf die beabsichtigte Einstellung der SchnellBus-Linie 35? Wenn ja: welchen? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Senatskoordinatorin für die Gleichstellung behinderter Menschen hat am 26. August 2019 von den sich aus der Anlage B der Drs. 21/18148 ergebenden Maßnahmen zum Fahrplanwechsel Kenntnis genommen und am selben Tag mitgeteilt, dass sie die dort unter anderem vorgesehene Einstellung der SchnellBus-Linie 35 ablehne, da sie teilweise nachteilige Auswirkungen für mobilitätseingeschränkte Menschen habe. Die genannte Drucksache wurde am 27. August 2019 vom Senat in unveränderter Form beschlossen. Linienwegsänderungen oder die Neuverknüpfung von Linienästen können dazu führen, dass bislang umsteigefreie Verbindungen entfallen und dafür andere Verbindungen umsteigefrei werden. Daher werden entsprechende Maßnahmen sorgsam abgewogen. Der Senat verfolgt das Ziel, attraktive Verbindungen für mobilitätseingeschränkte Fahrgäste anzubieten. Allerdings steht eine Auffächerung des Angebots in viele Linien mit gelegentlich umsteigefreien Verbindungen im Widerspruch zur Transparenz und Begreifbarkeit des Angebots. Zusätzliche Umstiege stellen zweifelsohne eine größere Erschwernis für mobilitätseingeschränkte Fahrgäste dar. Im Übrigen siehe Vorbemerkung.
 

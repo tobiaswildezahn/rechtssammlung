@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 38
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18681", "21/19496", "21/18082"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69551"
@@ -137,7 +138,7 @@ In wie vielen Fällen sind im zweiten Halbjahr 2019 religiöse Prozessionen (Bee
 
 In wie vielen Fällen ist eine Genehmigung nicht erteilt worden (bitte auch die jeweiligen Gründe angeben)?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Für religiöse Prozessionen, insbesondere für die aufgezählten Ereignisse, bedarf es keiner Genehmigung des Bezirksamtes. Eine Genehmigung ist erforderlich, wenn diese Prozessionen auf öffentlichem Grund zum Beispiel in Form eines Umzuges durchgeführt werden. Dies wurde für das zweite Halbjahr 2019 und den Stadtteil Wilhelmsburg nicht beantragt.
 

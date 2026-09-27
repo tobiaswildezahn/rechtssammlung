@@ -14,6 +14,7 @@ fragen: 38
 einzelfragen: 61
 antwortbloecke: 32
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11205", "21/11650", "21/12386", "21/11447", "21/12332", "21/10424", "21/10086", "21/8733", "21/2112", "21/7422", "21/11559", "21/11643", "21/11547", "21/11467", "21/9747", "21/10846", "21/11345", "21/12505"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62093"
@@ -430,7 +431,7 @@ In welcher Höhe hat f & w derzeit Außenstände? Wie viele Forderungen in der G
 
 Was sind die Gründe für diese Außenstände?
 
-#### Antwort zu Fragen 35 bis 36
+#### Antwort zu Fragen 35 und 36
 
 Die offenen Forderungen zum Stichtag 23.04.2018 betrugen -5.094.000 Euro. Die Überzahlung ergibt sich aufgrund der Stichtagsbetrachtung durch Abschläge und Gebührenzahlungen und der ausstehenden Rechnungsstellung für April.
 

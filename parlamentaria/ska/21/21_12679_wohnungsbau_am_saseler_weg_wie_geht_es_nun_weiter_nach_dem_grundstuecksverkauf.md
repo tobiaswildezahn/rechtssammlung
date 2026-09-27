@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5549", "21/10154"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61982"
@@ -60,9 +61,15 @@ Wann genau wurde eine Baugenehmigung mit welchem Inhalt erteilt?
 ### Frage 3
 
 Sofern noch keine Baugenehmigung erteilt wurde:
-3.1. Warum ist das Genehmigungsverfahren noch nicht abgeschlossen?
-3.2. Wann wird mit dem Abschluss des Genehmigungsverfahrens gerechnet?
 
-#### Antwort zu Fragen 2 bis 3
+### Frage 3.1
+
+Warum ist das Genehmigungsverfahren noch nicht abgeschlossen?
+
+### Frage 3.2
+
+Wann wird mit dem Abschluss des Genehmigungsverfahrens gerechnet?
+
+#### Antwort zu Fragen 2, 3, 3.1 und 3.2
 
 Der Zeitpunkt für den Abschluss des Genehmigungsverfahrens ist abhängig von den beteiligten Dienststellen und den Prüfergebnissen. Ein Zeitpunkt für eine Bescheiderteilung ist zurzeit noch nicht absehbar. Im Übrigen siehe Antwort zu 1.

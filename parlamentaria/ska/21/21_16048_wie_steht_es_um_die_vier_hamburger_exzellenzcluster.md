@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15881", "21/15914"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65558"
@@ -49,7 +50,7 @@ b) Wann ist mit einem Abschluss dieser Gespräche zu rechnen?
 c) Was sind die bisherigen (Zwischen-)Ergebnisse dieser Gespräche?
 d) Wann und in welcher Form gedenken der Senat und die zuständige Behörde die Bürgerschaft über die Ergebnisse dieser Gespräche und über einen möglichen Ausgleich der gekürzten Mittel für die Cluster zu informieren?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Rahmen der Exzellenzstrategie war vor dem Hintergrund des in der Verwaltungsvereinbarung von Bund und Ländern zur Verfügung stehenden Finanzrahmens von 385 Millionen Euro jährlich die Förderung von 45 bis maximal 50 Exzellenzclustern vorgesehen. Im Ergebnis der Sitzung der Exzellenzkommission (bestehend aus Vertreterinnen und Vertretern der Wissenschaft, der Länder und des Bundes) am 27. September 2018 wurde entschieden, insgesamt 57 Exzellenzcluster zu fördern. Die Länder sind weiterhin im Gespräch mit dem Bund darüber, den Finanzrahmen der
 
@@ -74,59 +75,59 @@ UWA
 CliCCS  
 Fakultät für Mathematik, Informatik und  
 Naturwissenschaften  
-•  
+–  
 FB Physik  
-•  
+–  
 FB Chemie
 
 Fakultät für Mathematik, Informatik und  
 Naturwissenschaften  
-•  
+–  
 FB Physik  
-•  
+–  
 FB Mathematik
 
 Fakultät für Geisteswissenschaften  
-•  
+–  
 FB Sprache, Literatur  
 und Medien (SLM II)  
-•  
+–  
 FB Geschichte  
-•  
+–  
 FB Philosophie  
-•  
+–  
 FB Kulturwissenschaften  
-•  
+–  
 FB Asien-Afrika-  
 Wissenschaften
 
 Fakultät für Mathematik,  
 Informatik und Naturwissenschaften  
-•  
+–  
 FB Geowissenschaften  
-•  
+–  
 FB Biologie  
 Centrum für Erdsystemforschung und Nachhaltigkeit (CEN)
 
 Fakultät für Mathematik,  
 Informatik und Naturwissenschaften  
-•  
+–  
 FB Chemie  
-•  
+–  
 FB Geowissenschaften
 
 Fakultät für Wirtschaftsund Sozialwissenschaften  
-•  
+–  
 FB Sozialwissenschaften  
-•  
+–  
 FB Sozialökonomie  
-•  
+–  
 FB Volkswirtschaftslehre  
 Centrum für Globalisierung und Governance  
 (CGG)  
 Fakultät für Psychologie  
 und Bewegungswissenschaft  
-•  
+–  
 Institut für Bewegungswissenschaft
 
 c) Mit welchen Kooperationspartnern arbeiten diese Cluster zusammen?

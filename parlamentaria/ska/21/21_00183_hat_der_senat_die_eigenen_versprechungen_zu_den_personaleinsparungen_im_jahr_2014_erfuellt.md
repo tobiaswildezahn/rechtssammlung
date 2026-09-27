@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/10871", "20/10829", "20/3008"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48312"
@@ -57,15 +58,15 @@ Eine jahresdurchschnittliche Ermittlung der VZÄ-Zahlen ist laut Drs. 20/3008 se
 
 #### Antwort zu Frage 1
 
- im statistischen Personalbestand (p_stat = befristet und unbefristet
+– im statistischen Personalbestand (p_stat = befristet und unbefristet
 
 Beschäftigte mit monatlichen Bezügen),
 
- im budgetrelevanten Personalbestand (p_bud = p_stat + Azubis,
+– im budgetrelevanten Personalbestand (p_bud = p_stat + Azubis,
 
 Anwärter, geringfügig Beschäftigte und so weiter) und
 
- in der Summe aller Beschäftigungsverhältnisse (p_prod = p_bud +
+– in der Summe aller Beschäftigungsverhältnisse (p_prod = p_bud +
 
 Kranke ohne Bezüge, Beurlaubte ohne Bezüge und Sonstige wie zum Beispiel Leiharbeiter)
 

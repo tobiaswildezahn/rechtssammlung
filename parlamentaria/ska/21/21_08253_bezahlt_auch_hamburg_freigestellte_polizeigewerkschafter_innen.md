@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56955"
@@ -49,7 +50,7 @@ In welchem Umfang ist der Vorsitzende des Bundes Deutscher Kriminalbeamter zum Z
 
 In welchem Umfang erhält er zum Zeitpunkt 1. März 2017 eine Besoldung als Polizeibediensteter, ohne dafür eine der Besoldung entsprechende Arbeitsleistung erbracht zu haben? a. Soweit dies der Fall ist, seit wann gibt es diese Regelung? b. Gibt es eine schriftliche Vereinbarung darüber? c. Seit wann besteht die Freistellung?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Beamte ist nicht freigestellt. Vor dem Hintergrund der gewerkschaftlichen Tätigkeit wurde dem Beamten ab dem 1. Januar 2014 eine Teilzeittätigkeit bewilligt und er erhält dafür eine dem Teilzeitanteil (Stand 01.03.2017: 50 Prozent) entsprechende Besoldung nach Maßgabe des Hamburgischen Besoldungsgesetzes.
 

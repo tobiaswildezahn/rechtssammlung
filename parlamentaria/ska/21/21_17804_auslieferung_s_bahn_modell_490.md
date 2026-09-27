@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67405"
@@ -67,7 +68,7 @@ Ist dieser Lieferplan bisher eingehalten worden? Wenn nein, was sind die Gründe
 
 Wurden weitere Lieferverzögerungen bereits angekündigt oder sind diese absehbar? Wenn ja, was sind die Gründe dafür?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Nein. Als Grund für die Verzögerung werden Produktionsschwierigkeiten angegeben.
 

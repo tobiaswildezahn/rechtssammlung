@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60188"
@@ -43,7 +44,7 @@ Laut einer Broschüre des LfV Sachsen ist die Veröffentlichung des HJ- Liedes �
 
 Herr Wolf ersetzte für sein Liederbuch in dem betreffenden HJ-Lied das Wort „Hitler“ beziehungsweise „Führer“ durch das Wort „Deutschland“. In einem Beschluss des BVerfG von 2009, hier betreffs Veröffentlichung von Teilen des verbotenen Horst-Wessel-Liedes durch einen NPD- Funktionär, wurde festgestellt: „Der Schutzzweck des § 86a StGB besteht in der Abwehr der symbolhaft durch die Verwendung eines Kennzeichens ausgedrückten Wiederbelebung bestimmter Organisationen sowie der symbolhaft gekennzeichneten Wiederbelebung der von solchen Organisationen verfolgten Bestrebungen. Dabei wehrt § 86a StGB als abstraktes Gefährdungsdelikt Gefahren ab, die schon allein mit dem äußeren Erscheinungsbild eines Kennzeichens verbunden sind ... An diesem Schutzzweck orientiert sich auch die Wortlautauslegung des Begriffes der Ähnlichkeit. Dabei ist ein Kennzeichen einem anderen ‚zum Verwechseln ähnlich’, wenn ein gesteigerter Grad sinnlich wahrnehmbarer Ähnlichkeit gegeben ist“ (http://www.bundesverfassungsgericht.de/ SharedDocs/Entscheidungen/DE/2009/05/ rk20090518_2bvr220208.html). Welche Konsequenzen ergeben sich aus dem Beschluss des BVerfG im Hinblick auf Veröffentlichung der geringfügig verfremdeten HJ-Hymne?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine Strafbarkeit gemäß § 86 Strafgesetzbuch (StGB) „Verbreiten von Propagandamitteln verfassungswidriger Organisationen“, ist, sofern sie denn vorläge, verjährt.
 
@@ -55,7 +56,7 @@ Herr Wolf war Gründungsmitglied und bis zum 17. Dezember 2016 Vorstandsmitglied
 
 Unter einer Hamburger Adresse ist im Internet beziehungsweise per Post ein „Hilfskomitee Südliches Afrika“ kontaktierbar. Dieser Verein unterstützte früher die Apartheidspolitik des damaligen südafrikanischen Regimes: Heute unterstützt er im rechten Jargon „Volksdeutsche“ genannte Bürger/-innen in Südafrika, Namibia und anderen Ländern des südlichen Afrikas und geriet zuletzt durch Kontakte zum rechtsextremistischen „Thüringer Heimatschutz“ beziehungsweise einem Netzwerk internationaler Neonazis in die Schlagzeilen (https://www.welt.de/politik/deutschland/article131754852/Zahlte-der- Staat-fuer-Afrika-Trip-von-V-Mann-Brandt.html). Was ist dem Senat über das HSA bekannt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Vereine sind keine Beobachtungsobjekte des Landesamtes für Verfassungsschutz Hamburg.
 

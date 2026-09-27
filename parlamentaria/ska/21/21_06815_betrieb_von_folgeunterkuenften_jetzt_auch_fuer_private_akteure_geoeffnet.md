@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 26
 antwortbloecke: 19
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5335"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55373"
@@ -130,7 +131,7 @@ Die formale Vergabeentscheidung erfolgte durch die Finanzbehörde. Die dem Zusch
 
 Gibt es Verlängerungsoptionen oder Sonderkündigungsregelungen? Wenn ja, welche? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Antwort zu 2. Darüber hinaus bestehen seitens der Freien und Hansestadt Hamburg umfangreiche Sonderkündigungsregelungen, unter anderem sofern
 

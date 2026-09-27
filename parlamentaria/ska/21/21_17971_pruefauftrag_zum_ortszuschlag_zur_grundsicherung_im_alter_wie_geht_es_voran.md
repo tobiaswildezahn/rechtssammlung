@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 11
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8927", "21/14755", "21/14843", "21/17451"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67583"
@@ -45,11 +46,11 @@ ob sich aus den Daten der Einkommens- und Verbrauchsstichprobe (EVS) für Hambur
 
 #### Antwort zu Frage 1
 
- sich dabei besondere und für Hamburg relevante Umstände ergeben,
+– sich dabei besondere und für Hamburg relevante Umstände ergeben,
 
 die die Deckung des Regelbedarfs betreffen,
 
- gegebenenfalls deren Höhe zu beziffern und
+– gegebenenfalls deren Höhe zu beziffern und
 
 ### Frage 2
 

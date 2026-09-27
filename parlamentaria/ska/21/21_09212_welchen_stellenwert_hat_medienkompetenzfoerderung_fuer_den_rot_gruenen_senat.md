@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 21
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1806"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57965"
@@ -77,7 +78,7 @@ Wann wurden Schulsenator Rabe und wann weitere Angehörige der Schulbehörde von
 
 Welchen Inhalt hatten die Schreiben jeweils?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 1.
 
@@ -89,7 +90,7 @@ Welche Reaktion erfolgte durch die Schulbehörde jeweils?
 
 Wurden die Schreiben beantwortet? Wenn ja: wann und mit welchem Inhalt? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die für Bildung zuständige Behörde hat die Einladung zur Teilnahme an der für den
 29. Juni 2017geplanten zweiten Veranstaltung „Medienbildung in Hamburger Grundschulen – Einsteigen bitte!“ fachlich geprüft und eine Teilnahme empfohlen. Aus terminlichen Gründen wurde der Veranstalter mit E-Mail vom 24. Mai 2017 gebeten, den Termin in die Abendstunden oder auf einen anderen Tag zu verschieben. Über eine Teilnahme konnte noch nicht abschließend entschieden werden.
@@ -129,7 +130,7 @@ Wurden andere Senatoren und Behörden angeschrieben? Wenn ja: wann?
 
 Wie sind diese anderen Senatoren und Behörden jeweils verfahren?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Antworten zu 1. und 3. Die für Kindertagesbetreuung zuständige Behörde hat die Anfrage für die erste Veranstaltung am 27. März 2017 fachlich geprüft und eine Teilnahme empfohlen. Die für Medien zuständige Behörde hat über eine Teilnahme an der dritten Veranstaltung im November 2017 („Medienkulturelle Veranstaltungen, Wettbewerbe und Förderung des kreativen Nachwuchses“) noch nicht entschieden.
 

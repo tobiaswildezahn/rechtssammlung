@@ -14,6 +14,7 @@ fragen: 19
 einzelfragen: 27
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838", "21/3328"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52052"
@@ -109,7 +110,7 @@ Wer hat die Auswahl des Bewertungsverfahrens getroffen?
 
 Wie wird diese Wahl gemäß Wertermittlungsverordnung begründet?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Auswahl und Begründung des Bewertungsverfahrens ergeben sich aus den Vorschriften der ImmoWertV. Nach § 16 (1) der ImmoWertV wird der Wert des Bodens im Vergleichswertverfahren ermittelt.
 

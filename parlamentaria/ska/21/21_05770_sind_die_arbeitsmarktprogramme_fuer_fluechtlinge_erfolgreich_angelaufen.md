@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5294", "21/5421", "21/5293"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54259"
@@ -65,7 +66,7 @@ Zu wann sollen diese jeweils geschaffen werden?
 
 Zu wann sollen diese besetzt werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Sobald Bewerbungen für diese Maßnahme bei der Agentur eingehen, kann ein Startzeitpunkt genannt werden. Im Übrigen siehe Antwort zu 4. und 5. sowie Antwort zu 6. Darüber hinaus sind die Planungen noch nicht abgeschlossen.
 
@@ -77,17 +78,17 @@ Wie lauten die Kriterien, nach denen entschieden wird, ob ein Flüchtling für e
 
 Welche Aufgaben kommen infrage?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Das Angebot gilt grundsätzlich nur für Kunden des Rechtskreises SGB III. Im Übrigen siehe Drs. 21/5294 und Vorbemerkung.
 
 Bewilligt werden können zwei Arten von Arbeitsgelegenheiten:
 
- Arbeitsgelegenheiten, die durch staatliche (einschließlich kommunale) Träger einer
+– Arbeitsgelegenheiten, die durch staatliche (einschließlich kommunale) Träger einer
 
 Aufnahmeeinrichtung nach § 44 AsylG oder vergleichbare Einrichtungen (insbesondere ausgelagerte Unterkünfte von Aufnahmeeinrichtungen sowie Gemeinschaftsunterkünfte nach AsylG) oder durch von diesen beauftragte Träger der aufgeführten Einrichtungen zur Aufrechterhaltung und Betreibung der Einrichtung zur Verfügung gestellt werden („interne“ FIM).
 
- Arbeitsgelegenheiten, die von staatlichen, kommunalen oder gemeinnützigen Trä-
+– Arbeitsgelegenheiten, die von staatlichen, kommunalen oder gemeinnützigen Trä-
 
 gern zur Verfügung gestellt werden, sofern die zu leistende Arbeit sonst nicht, nicht in diesem Umfang oder nicht zu diesem Zeitpunkt verrichtet werden würde („externe“ – zusätzliche – FIM).
 

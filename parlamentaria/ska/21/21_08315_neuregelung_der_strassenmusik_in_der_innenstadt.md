@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 25
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57034"
@@ -127,7 +128,7 @@ Sind ausreichend finanzielle Mittel und Mitarbeiter vorhanden, um die stetige Ko
 
 Wie soll sich die Kontrolle über den Besitz einer Sondernutzungserlaubnis konkret gestalten (Häufigkeit, Personal und so weiter)?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Es finden anlassbezogene Kontrollen im Rahmen der normalen Wegeaufsicht und des allgemeinen Ordnungswidrigkeitenmanagements statt. Die dafür notwendigen finanziellen Mittel sind im regulär verfügbaren Ressortbudget enthalten.
 

@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1490", "21/2001"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54420"
@@ -43,7 +44,7 @@ Wann werden die Ergebnisse der KERMIT 5, 7 und 10 vorliegen?
 
 Wann werden die Ergebnisse der KERMIT 2, 3, 8 und 9 vorliegen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für den Zeitpunkt, an dem die Schulen die KERMIT-Ergebnisse voraussichtlich erhalten werden, siehe folgende Übersicht:
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10230", "21/13128"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64115"
@@ -63,7 +64,7 @@ Welche sonstigen Anstrengungen hat der Senat zwischenzeitlich – also auch unab
 
 Welche weiteren Initiativen plant der Senat in dieser Sache und mit welchen Schwerpunkten und bei welchen Ansprechpartnern? Bitte detailliert erläutern.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der Senat führt auf politischer Ebene wie auch auf Arbeitsebene Gespräche mit der Bundesregierung und den Ländern. Es ist vorgesehen, das Thema im Rahmen der Amtschefkonferenz der Wirtschaftsministerkonferenz im November des Jahres 2018 zu behandeln. Der entsprechende Beschlussvorschlag befindet sich noch in der Abstimmung. Außerdem beabsichtigt Hamburg, in Rücksprache mit dem BMF eine zeitnahe Befassung der Finanzministerinnen und -minister herbeizuführen. Das Thema soll zudem auch auf der Konferenz der Chefs der Staats- und Senatskanzleien mit dem Chef des Bundeskanzleramts Mitte November beraten werden.
 

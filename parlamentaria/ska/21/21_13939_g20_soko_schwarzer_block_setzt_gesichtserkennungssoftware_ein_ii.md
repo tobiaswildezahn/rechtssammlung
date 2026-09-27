@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 19
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10573"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63329"
@@ -65,19 +66,19 @@ Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
 
 Der SoKo „Schwarzer Block“ liegen mit Stand 6. August 2018 insgesamt über 100 TB Bild- und Videomaterial vor. Dieses Material beinhaltet:
 
- Bild- und Videomaterial von Privatpersonen und Firmen: 105,11 Gigabyte (GB)
+– Bild- und Videomaterial von Privatpersonen und Firmen: 105,11 Gigabyte (GB)
 
 zuzüglich 6.475 Bild- und Videodateien aus dem Hinweisportal der Polizei;
 
- polizeiliches Bild- und Videomaterial: 4,13 TB;
+– polizeiliches Bild- und Videomaterial: 4,13 TB;
 
- Videomaterial aus dem ÖPNV insgesamt: 94,05 TB davon: 8,8 TB Bild- und
+– Videomaterial aus dem ÖPNV insgesamt: 94,05 TB davon: 8,8 TB Bild- und
 
 Videomaterial aus S-Bahnhöfen, 83,6 TB Bild- und Videomaterial aus U-Bahnhöfen, 510 GB Bild- und Videomaterial aus dem Hauptbahnhof, 1,139 TB Bild- und Videomaterial aus Bussen, hinzu kommen weitere 40 Festplatten aus U-Bahnen;
 
- Bild- und Videomaterial der Medien: 427,05 GB (1.292 Dateien);
+– Bild- und Videomaterial der Medien: 427,05 GB (1.292 Dateien);
 
- Bild- und Videomaterial aus dem Internet und aus sozialen Netzwerken: 2,24 GB
+– Bild- und Videomaterial aus dem Internet und aus sozialen Netzwerken: 2,24 GB
 
 (847 Dateien).
 
@@ -93,7 +94,7 @@ Seit wann genau wird das System der biometrischen Gesichtserkennung im Rahmen de
 
 Welche Gesichtserkennungssoftware welcher Firmen wird dabei eingesetzt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung.
 
@@ -171,13 +172,13 @@ Wie viele tatverdächtige Personen wurden im Rahmen der Videoauswertung des G20-
 
 Die Soko „Schwarzer Block“ konnte nach dem Vorliegen der im jeweiligen Einzelfall erforderlichen expliziten staatsanwaltschaftlichen Verfügungen mithilfe der biometrischen Gesichtserkennung durch Recherchen mit der GAS „Videmo 360“ bislang drei Personen namentlich identifizieren. Im Übrigen setzt die SoKo „Schwarzer Block“ die GAS „Videmo 360“ gemäß staatsanwaltschaftlicher Verfügungen auch bei bekannten und unbekannten Tatverdächtigen ein, um den Personen
 
- weitere Straftaten, die im Zusammenhang mit dem G20-Gipfel stehen, zuordnen zu
+– weitere Straftaten, die im Zusammenhang mit dem G20-Gipfel stehen, zuordnen zu
 
 können,
 
- die Beweisführung in diesen Verfahren zu unterstützen und
+– die Beweisführung in diesen Verfahren zu unterstützen und
 
- bei unbekannten Personen gegebenenfalls geeigneteres Bildmaterial für weitere
+– bei unbekannten Personen gegebenenfalls geeigneteres Bildmaterial für weitere
 
 Ermittlungen zur deren Identifizierung zu erlangen.
 
@@ -229,23 +230,23 @@ Welche Vorkehrungen werden vonseiten der Polizei zum Schutz personenbezogener Da
 
 Von der Polizei werden folgende Maßnahmen im Sinne der Fragestellung getroffen:
 
- Zutrittskontrollen (zum Beispiel gesondertes Netzwerk mit Servern in einem abge-
+– Zutrittskontrollen (zum Beispiel gesondertes Netzwerk mit Servern in einem abge-
 
 trennten Technikraum),
 
- Zugangskontrollen (unter anderem durch Anmeldung mit Benutzernamen und
+– Zugangskontrollen (unter anderem durch Anmeldung mit Benutzernamen und
 
 Passwort),
 
- Zugriffskontrollen (insbesondere durch Verwendung einer Benutzerverwaltung, die
+– Zugriffskontrollen (insbesondere durch Verwendung einer Benutzerverwaltung, die
 
 unterschiedliche Rechte regelt),
 
- Datenträgerkontrollen (zum Beispiel erfolgt ein Einspielen von Daten in das Sys-
+– Datenträgerkontrollen (zum Beispiel erfolgt ein Einspielen von Daten in das Sys-
 
 tem ausschließlich über Administratoren) und
 
- Übertragungs- und Transportkontrollen (Ausschluss der Datenübertragung in ande-
+– Übertragungs- und Transportkontrollen (Ausschluss der Datenübertragung in ande-
 
 re Systeme).
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1374", "21/1876"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50143"
@@ -75,7 +76,7 @@ Wie viele Fälle von Erkrankungen, welche typischerweise mit schlechten Wetterbe
 
 Ab welcher Anzahl an Erkranken beziehungsweise ab wie viel Prozent Erkrankter in Abhängigkeit zur Belegung einer „Zeltstadt“ geht der Senat von einer Erkältungswelle aus?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Von den Erkrankungen, welche typischerweise mit schlechten Wetterbedingungen in Verbindung gebracht werden (Erkrankungen des Respirationstraktes), ist lediglich die Influenza (Grippe) nach dem Infektionsschutzgesetz (IfSG) meldepflichtig.
 

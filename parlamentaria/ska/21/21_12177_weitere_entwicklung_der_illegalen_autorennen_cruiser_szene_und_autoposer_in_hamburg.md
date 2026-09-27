@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5290"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61445"
@@ -69,7 +70,7 @@ Auf welche Weise haben sich diese Strafverschärfungen im Einzelnen auf die Crui
 
 Inwieweit haben dadurch verstärkte Kontrollen der Cruiser-Szene stattgefunden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Vorbemerkung und Antwort zu 1.
 
@@ -115,7 +116,7 @@ Wie viele illegale Autorennen konnten seit Juli 2016 in Hamburg polizeilich fest
 
 In welchen Stadtteilen fanden diese Rennen jeweils statt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Daten im Sinne der Fragestellungen werden bei der Polizei nicht statistisch auswertbar erfasst. Erfasst wird die Anzahl der von der Polizei eingeleiteten Ordnungswidrigkeitenverfahren, die als nicht erlaubtes Kraftfahrzeugrennen gemäß § 29 Absatz 1 StVO verfolgt wurden.
 
@@ -230,7 +231,7 @@ Inwieweit sind Überschneidungen zwischen der Cruiser-Szene der illegalen Autore
 
 Wie stellt sich die Autoposer-Szene aus Sicht der Hamburger Polizei gegenwärtig dar?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Vorbemerkung.
 

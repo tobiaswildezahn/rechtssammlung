@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 17
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8728", "21/11942", "21/8733", "21/8779", "21/10928"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61342"
@@ -53,7 +54,7 @@ In Drs. 21/11942 verweist der Senat, darauf, dass in Zeiten der hohen Zugangszah
 a) Hier handelt es sich offenbar nicht um die reine Vermittlung eines ersten Angebots, sondern um eine Rolle in den sich über Monate hinziehenden Verhandlungen direkt. Wieso erhielt der SPD- Fraktionsvorsitzende die Angebote des Anwalts der Eigentümer, obwohl dieser doch Verhandlungen mit dem ZKF und f & w geführt hat?
 b) Liegen dem Senat, f & w oder dem ZKF Informationen vor, ob der SPD-Fraktionsvorsitzende dem Anwalt deutlich gemacht, dass er der falsche Adressat für Angebote ist, die das Verwaltungshandeln der Stadt betreffen? Wenn ja, wann in welcher Art und Weise? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung. Im Übrigen hat der Senat über Gespräche und deren Inhalt zwischen Dritten keine Kenntnis. Siehe auch Drs. 21/11942.
 

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62080"
@@ -71,7 +72,7 @@ Welche Maßnahmen hat der Senat eingeleitet, um eine Erklärung für die regiona
 
 Bis wann wird mit der ersten Auswertung der Zahlen durch den Senat zu rechnen sein?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Mit den Beteiligten wurde beschlossen, im Laufe des Jahres 2018 weitere Auswertungen auf Basis der Daten zu den Jahren 2016 und dann 2017 durchzuführen. Hierzu sind im üblichen Rahmen erneut aktuelle datenschutzrechtliche Genehmigungen einzuholen. Nach Vorliegen der Daten wird das weitere Vorgehen zwischen den Beteiligten entschieden.
 

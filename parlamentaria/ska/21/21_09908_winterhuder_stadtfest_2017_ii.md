@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9478"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58728"
@@ -43,7 +44,7 @@ Ist über den Antrag auf Sondernutzungserlaubnis zur Ausrichtung des Winterhuder
 
 Inwieweit ist in der Erlaubnis geregelt, wer unter welchen Voraussetzungen für die Auswahl der Beschicker des Stadtfestes zuständig ist?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es wurde noch keine Erlaubnis erteilt.
 

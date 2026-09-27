@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2422", "20/5481", "20/9660", "21/1837", "21/1632"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50810"
@@ -51,7 +52,7 @@ Hat Senatorin Fegebank den Hochschulen schon konkrete Vorschläge zur Verwendung
 
 Hält Senatorin Fegebank die Voraussetzungen der in den Hochschulvereinbarungen enthaltenen Revisionsklauseln für eingetreten? Wenn ja: Wann beginnen die für diesen Fall vorgesehenen Nachverhandlungen? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Senatorin der Behörde für Wissenschaft, Forschung und Gleichstellung und die Präsidien der staatlichen Hamburger Hochschulen haben unmittelbar nach der Regierungsbildung einen von Vertrauen und Respekt getragenen Dialog begonnen. Gegenstand dieses Dialogs ist unter anderem die Verwendung der im Koalitionsvertrag vereinbarten 40 Millionen Euro an zusätzlichen Mitteln im Kontext der Hochschulvereinbarungen einschließlich deren Revisionsklauseln. Nach dem Abschluss der sehr weit fortgeschrittenen Gespräche wird die zuständige Behörde die Situation für jede Hoch-
 

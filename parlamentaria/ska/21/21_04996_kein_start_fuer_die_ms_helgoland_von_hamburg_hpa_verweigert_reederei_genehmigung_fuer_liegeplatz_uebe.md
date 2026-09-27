@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53518"
@@ -71,7 +72,7 @@ Welche Sicherheitsgründe sprechen gegen ein regelmäßiges Anlegen an den Landu
 
 Wieso ist gerade das regelmäßige Anlegen über Nacht ein Sicherheitsrisiko?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Gegen das regelmäßige Liegen an den St. Pauli Landungsbrücken sprechen die Havarie im Jahr 2010 die hohe Verkehrsdichte sowie der Kurvenverlauf der Elbe in diesem Bereich.
 
@@ -99,25 +100,25 @@ Welche Ausnahmegenehmigungen hat die HPA anderen Reedereien das Anlegen von Schi
 
 Folgende Ausnahmegenehmigungen für das Anlegen über Nacht hat die HPA in den letzten zwei Jahren erteil für:
 
- diverse Gastschiffe anlässlich des Hafengeburtstags jeweils im Mai 2014 und
+– diverse Gastschiffe anlässlich des Hafengeburtstags jeweils im Mai 2014 und
 
 2015,
 
- das mexikanische Segelschulschiff Cuauhtémoc (im Juni 2016), Gast der Freien
+– das mexikanische Segelschulschiff Cuauhtémoc (im Juni 2016), Gast der Freien
 
 und Hansestadt Hamburg (FHH),
 
- das brasilianische Marineausbildungsschiff BRASIL (im Oktober 2014 und Sep-
+– das brasilianische Marineausbildungsschiff BRASIL (im Oktober 2014 und Sep-
 
 tember 2015), Gast der FHH,
 
- das Fahrgastschiff ADLER PRINCESS im
+– das Fahrgastschiff ADLER PRINCESS im
 
- Juni 2014 (Veranstaltung „Sound Port“),
+– Juni 2014 (Veranstaltung „Sound Port“),
 
- Juli 2014 (Cruise Days) und
+– Juli 2014 (Cruise Days) und
 
- September 2014 (Messe Schiff, Maschine, Meerestechnik).
+– September 2014 (Messe Schiff, Maschine, Meerestechnik).
 
 ### Frage 9
 

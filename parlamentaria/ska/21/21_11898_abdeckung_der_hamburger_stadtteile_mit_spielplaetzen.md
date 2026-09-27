@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10392"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61146"
@@ -55,7 +56,7 @@ Wie ist das Verhältnis der Anzahl von Spielplätzen zu der Einwohnerzahl in den
 
 Wie ist das Verhältnis der Quadratmeterzahl von Spielplätzen zu der Einwohnerzahl in den Hamburger Stadtteilen? Bitte nach allen Stadtteilen aufgeschlüsselt und tabellarisch darstellen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 
@@ -67,7 +68,7 @@ Liegen konkrete Pläne für die zahlenmäßige Erweiterung der Spielplätze in d
 
 Liegen konkrete Pläne für die flächenmäßige Erweiterung der Spielplätze in den Stadtteilen vor? Wenn ja: Bitte nach Stadtteilen und inklusive der prognostizierten Entwicklung der Einwohnerzahl tabellarisch darstellen. Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Ausweisung und die Herrichtung weiterer Spielplätze sind insbesondere mit der Entwicklung neuer Wohngebiete verbunden.
 

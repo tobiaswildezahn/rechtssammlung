@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/11355"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58028"
@@ -73,6 +74,6 @@ Ist dem Senat bekannt ob die Burschenschaft Germania an der Helmut- Schmidt-Univ
 
 Ist dem Senat bekannt ob die Burschenschaft Germania an der Helmut- Schmidt-Universität der Bundeswehr Räumlichkeiten nutzt? Wenn ja, bitte darstellen, wie häufig das in den vergangenen zwei Jahren der Fall war und für welche Veranstaltungen.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Antwort zu 2.b. – 2.c. Im Übrigen siehe BT.-Drs. 18/11355. Darüber hinaus liegen Erkenntnisse nicht vor.

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51414"
@@ -79,9 +80,9 @@ Wie viele Teilnehmer/-innen haben die unter 1. genannten Kurse durchschnittlich?
 
 #### Antwort zu Frage 3
 
- Präventionskurse (immer mit Anmeldung): Durchschnittlich zwölf Teilnehmer.
+– Präventionskurse (immer mit Anmeldung): Durchschnittlich zwölf Teilnehmer.
 
- Aqua Fitnesskurse: Durchschnittlich acht Teilnehmer.
+– Aqua Fitnesskurse: Durchschnittlich acht Teilnehmer.
 
 ### Frage 4
 
@@ -99,11 +100,11 @@ Gibt es Erhebungen zur Kundenzufriedenheit der Teilnehmer der Aquafitness- und P
 
 Ja, bei
 
- den Präventionskursen sind rund 90 Prozent der Befragten mit dem Angebot
+– den Präventionskursen sind rund 90 Prozent der Befragten mit dem Angebot
 
 zufrieden oder sehr zufrieden.
 
- den Aquafitness-Kursen sind rund 71 Prozent der Befragten mit dem Angebot
+– den Aquafitness-Kursen sind rund 71 Prozent der Befragten mit dem Angebot
 
 zufrieden oder sehr zufrieden.
 
@@ -115,15 +116,15 @@ Plant Bäderland, die bislang vorhandene Flexibilität (Teilnahme ohne Anmeldung
 
 Ja. Dafür sind primär die folgenden Gründe ausschlaggebend:
 
- Optimierung der Trainerdisposition: Mit der verbindlichen Belegung von Trainern
+– Optimierung der Trainerdisposition: Mit der verbindlichen Belegung von Trainern
 
 für eine festgelegte Anzahl von Einheiten (inklusive Aushilfen für den Krankheitsfall) ist die Durchführungssicherheit der Kurse für die Teilnehmerinnen und Teilnehmer gewährleistet. Bisher mussten Kurse aus personellen Gründen teilweise kurzfristig abgesagt werden.
 
- Überfüllung der Kurse: Es soll künftig verhindert werden, dass Kundinnen und
+– Überfüllung der Kurse: Es soll künftig verhindert werden, dass Kundinnen und
 
 Kunden das Bad vergeblich besuchen, weil die Kapazität des geplanten Kurses bereits erreicht ist. Gleichzeitig können die Teilnehmerinnen und Teilnehmer zukünftig den Zeitpunkt ihres Besuchs auf den Beginn des Kurses abstimmen und müssen sich nicht, wie dies bisher häufig der Fall war, bei stark frequentierten Angeboten durch früheres Erscheinen einen Teilnahmeplatz sichern. Dies ist, insbesondere bei Bädern mit Zeittakten, für Kundinnen und Kunden auch eine finanzielle Entlastung (in den Kursgebühren ist der Badeintritt für zwei Stunden enthalten).
 
- Unterbelegung der Kurse: Es gab Situationen, in denen Wasserflächen und Trai-
+– Unterbelegung der Kurse: Es gab Situationen, in denen Wasserflächen und Trai-
 
 nerkapazitäten vorgehalten wurden und die Kurse wegen Unterbelegung kurzfristig abgesagt werden mussten. Zukünftig sollen durch die verbindlichen Kursteilnahmen die Ressourcen optimal und nachfragegerechter disponiert werden. Mit dieser Maßnahme sollen zugleich auch die Nutzungskonflikte zwischen den verschiedenen Badnutzern reduziert werden.
 
@@ -131,13 +132,13 @@ Wenn ja:
 
 a. Wie sollen die Abonnements für die der Aquafitness- und Präventionskurse konkret ausgestaltet sein? Bitte möglichst detailliert inklusive Gebühren und Vorgaben bei der Terminierung angeben.
 
- Ein Aquafitnesskurs hat künftig in der Regel zwischen vier und acht aufeinander-
+– Ein Aquafitnesskurs hat künftig in der Regel zwischen vier und acht aufeinander-
 
 folgende Termine. Die Buchung kann vor Ort im Bad oder online über den Bäderland-Internetshop erfolgen. Alle einzelnen Termine einer Kursserie sind zum Buchungszeitpunkt transparent einsehbar und bekannt. Der Preis für eine Kursserie variiert entsprechend der Anzahl der Termine. Für einen einzelnen Kurstermin bleibt der Preis unverändert. Es wird auch zukünftig möglich sein, freie Plätze und
 
 Restplätze spontan am jeweiligen Kurstag vor Ort zu buchen. Bäderland übernimmt aber weiterhin – wie bislang auch – keine Teilnahmegarantie für diese Nutzungsoption.
 
- Präventionskurse werden wie bisher direkt und vorab im Bad gebucht (vergleiche
+– Präventionskurse werden wie bisher direkt und vorab im Bad gebucht (vergleiche
 
 Vorbemerkung).
 

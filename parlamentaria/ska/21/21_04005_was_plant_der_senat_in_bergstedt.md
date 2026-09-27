@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 47936
 seiten: 2
 fragen: 6
-einzelfragen: 10
-antwortbloecke: 5
+einzelfragen: 12
+antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52395"
@@ -43,7 +44,7 @@ Welche Planungen und Überlegungen gibt es im Einzelnen für die Nutzung der Fl�
 
 Sind Veränderungen der jetzigen Nutzungen geplant oder beabsichtigt? Wenn ja, welche Veränderungen an jeweils welcher Stelle?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es wird davon ausgegangen, dass sich die Frage auf die unbebauten Flächen südlich der Straße Rügelsbarg mit den Flurstücksnummern 177, 1567, 1589, 2730, 2962 und 2963 der Gemarkung Bergstedt bezieht.
 
@@ -82,16 +83,27 @@ Die Teilfläche einer ehemaligen Gärtnerei wird im bezirklichen Wohnungsbauprog
 ### Frage 6
 
 Das Wohnungsbauprogramm des Bezirks Wandsbek sieht für eine Teilfläche abweichend vom Bebauungsplan eine Wohnbebauung mit rund 30 Wohneinheiten vor.
-6.1. Wie ist im Einzelnen der Stand der Planungen einer Wohnbebauung „Plaggenkamp“ nördlich der Bergstedter Chaussee im Gebiet des Bebauungsplans Bergstedt 18?
 
-#### Antwort zu Frage 6
+### Frage 6.1
+
+Wie ist im Einzelnen der Stand der Planungen einer Wohnbebauung „Plaggenkamp“ nördlich der Bergstedter Chaussee im Gebiet des Bebauungsplans Bergstedt 18?
+
+#### Antwort zu Fragen 6 und 6.1
 
 Der Investor hat die Fläche der ehemaligen Gärtnerei inzwischen erworben. Ein tragfähiges Wohnungsbaukonzept für diese Fläche liegt bisher nicht vor.
 
-6.2. Welche Fragestellungen müssen im Einzelnen noch geklärt werden?
+### Frage 6.2
+
+Welche Fragestellungen müssen im Einzelnen noch geklärt werden?
+
+#### Antwort zu Frage 6.2
 
 Seitens des Investors sind unter anderem Fragen der Erschließung, der Entwässerung und der Wohnungsbautypologien zu klären und in einem mit den zuständigen Behörden abgestimmten Konzept zusammenzuführen.
 
-6.3. Wie ist der Sachstand der Gespräche mit dem privaten Grundeigentümer beziehungsweise mit Investoren bezüglich der Realisierung der Wohnbebauung an dieser Stelle?
+### Frage 6.3
+
+Wie ist der Sachstand der Gespräche mit dem privaten Grundeigentümer beziehungsweise mit Investoren bezüglich der Realisierung der Wohnbebauung an dieser Stelle?
+
+#### Antwort zu Frage 6.3
 
 Zwischen 2011 und Anfang 2014 wurden vom Bezirksamt Wandsbek mit einem Investor mehrere Gespräche mit dem Ziel einer Wohnbebauung auf der Fläche geführt. In dieser Zeit wurde jedoch kein tragfähiges Konzept für Wohnungsbau vom Investor vorgelegt. Eine angefragte Nutzung für den Einzelhandel wurde vom zuständigen Bezirksamt abgelehnt. Im Übrigen siehe Antwort zu 6. 2.

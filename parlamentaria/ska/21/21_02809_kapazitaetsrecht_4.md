@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9095", "21/298", "21/2519", "21/930"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51114"
@@ -37,19 +38,19 @@ Ich frage den Senat:
 
 Mit dem jüngst vorgelegten Gesetzentwurf wird die Hochschulautonomie gestärkt und die Rechts- und Planungssicherheit für die Hochschulen verbessert. Trotz der teilweise umfangreichen Änderungen werden dadurch die wesentlichen Reformziele des im Februar 2015 beschlossenen Gesetzes (AKapG) weiter verfolgt. Zugleich ist das Gesetz flexibel konzipiert, um zukünftig möglichst einfach auf Entwicklungen in den Hochschulen und in der Rechtsprechung reagieren zu können. Zu diesen Zwecken wird das AKapG an die zwischenzeitlich ergangene Rechtsprechung (vergleiche insbesondere OVG Hamburg v. 09.02.2015, Az.: 3 Nc 55/14) angepasst. Im Übrigen werden die rechtlichen Gründe, aus denen außerplanmäßige Zulassungen erfolgen, statistisch nicht erfasst. Eine nachträgliche Recherche ist angesichts der großen Fallzahlen (über 2.600 Fälle im angefragten Zeitraum) in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Viele außerplanmäßige Zulassungen erfolgen zudem im Vergleichswege, in denen die Rechtsgründe aber nicht genannt werden. Die Hochschulen können jedoch aufgrund der Erfahrungen ihrer Justiziariate beziehungsweise Prozessbevollmächtigten einschätzen, welche Argumente bei den geführten Rechtsstreitigkeiten häufig im Vordergrund stehen. Quantitativ bedeutsam sind insoweit immer wieder unterschiedliche Auffassungen über die zur Verfügung stehende Lehrleistung. Beispielhaft seien genannt:
 
- die Berücksichtigung vakanter Stellen (vergleiche zum Beispiel OVG Hamburg v.
+– die Berücksichtigung vakanter Stellen (vergleiche zum Beispiel OVG Hamburg v.
 
 15.10.2013, Az.: 3 Nc 158/12, Rdnr. 28; ebenso: OVG Hamburg v. 12.10.2012, Az.: 3 Nc 44/11, JURIS-Rdnr. 20; sowie OVG Hamburg v. 26.10.2010, Az.: 3 Nc 40/09, JURIS-Rdnr. 32);
 
- die Nichtanerkennung von Lehrexporten (vergleiche OVG Hamburg v. 04.04.2012,
+– die Nichtanerkennung von Lehrexporten (vergleiche OVG Hamburg v. 04.04.2012,
 
 Az.: 3 Nc 53/11, JURIS-Rdnr. 55);
 
- die Nichtanerkennung von Lehrermäßigungen/Deputatsminderungen (OVG Ham-
+– die Nichtanerkennung von Lehrermäßigungen/Deputatsminderungen (OVG Ham-
 
 burg v. 05.02.2013, Az.: 3 Nc 228/12, JURIS-Rdnr. 22);
 
- die Einbeziehung von Funktionsstellen (vergleiche OVG Hamburg v. 07.10.2013,
+– die Einbeziehung von Funktionsstellen (vergleiche OVG Hamburg v. 07.10.2013,
 
 Az.: 3 Nc 209/12, JURIS-Rdnr. 11-13).
 
@@ -91,17 +92,17 @@ Siehe Vorbemerkung.
 
 Im Übrigen seien beispielhaft genannt:
 
- Az. 20 ZE 769/13 (VG/UHH);
+– Az. 20 ZE 769/13 (VG/UHH);
 
- Az. 20 ZE 736/18 (VG/UHH);
+– Az. 20 ZE 736/18 (VG/UHH);
 
- Az. 3 Nc 113/13 (OVG/UHH);
+– Az. 3 Nc 113/13 (OVG/UHH);
 
- Az. 3 Nc 5/14, (OVG/UHH);
+– Az. 3 Nc 5/14, (OVG/UHH);
 
- Az. 19 ZE 1402/13 (VG/HAW);
+– Az. 19 ZE 1402/13 (VG/HAW);
 
- Az. 3 Nc 34/13 (OVG/HAW).
+– Az. 3 Nc 34/13 (OVG/HAW).
 
 ### Frage 3
 
@@ -162,15 +163,15 @@ Da es aus Sicht des Gerichts zu diesem Zeitpunkt keine wirksame Kapazitätsbegre
 
 Die wesentlichen Anordnungsgründe in den Zulassungsstreitigkeiten an der Hochschule für Angewandte Wissenschaften waren:
 
- Stellen, die die HAW im Rahmen ihrer Konsolidierung gestrichen und dessen nicht-
+– Stellen, die die HAW im Rahmen ihrer Konsolidierung gestrichen und dessen nicht-
 
 ausfinanzierte Stellenhülsen aus buchungstechnischen Gründen in einen Stellenpool verschoben wurden, wurden trotz dieser Tatsache kapazitätswirksam berücksichtigt.
 
- Abweichend von der Rechtsprechung des Oberverwaltungsgerichts wurde die
+– Abweichend von der Rechtsprechung des Oberverwaltungsgerichts wurde die
 
 Nichtberücksichtigung von Stellen wissenschaftlicher Mitarbeiter wegen ablaufender Befristung gemäß § 21 KapVO bei den wissenschaftlichen Mitarbeiterinnen und Mitarbeitern erneut nicht anerkannt.
 
- Die Verminderungen des Lehrdeputats nach den §§ 16 – 18 der Lehrverpflich-
+– Die Verminderungen des Lehrdeputats nach den §§ 16 – 18 der Lehrverpflich-
 
 tungsverordnung wurden nicht anerkannt.
 

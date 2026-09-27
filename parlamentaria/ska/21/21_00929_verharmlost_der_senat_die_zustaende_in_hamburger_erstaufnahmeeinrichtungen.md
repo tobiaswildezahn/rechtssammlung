@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13284", "20/13029"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49094"
@@ -47,7 +48,7 @@ Müssen alle Einsätze der Polizei dokumentiert werden? Wenn nein, welche Einsä
 
 Wie findet die Dokumentation von Einsätzen genau statt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Polizeiliche Einsätze werden im Hamburger Einsatzleitsystem (HELS) protokolliert. Die aufnehmenden Mitarbeiterinnen und Mitarbeiter der Polizeieinsatzzentrale tragen
 
@@ -63,7 +64,7 @@ Wie viele Einsätze der Polizei wurden in den letzten drei Monaten (Anfang März
 
 Was war jeweils der Anlass der Einsätze nach Ziffer 3. in der ZEA Schnackenburgallee? Bitte aufschlüsseln. Sofern eine Aufschlüsselung für Juni noch nicht möglich ist, bitte eine solche Auswertung für die beiden übrigen Monate vornehmen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Für den Bereich der Schnackenburgallee, in dem die ZEA liegt, ist es statistisch nur möglich, Ereignisse für die Hausnummern 81 bis 83 auszuwerten. Weiterhin wird auch der sogenannte Parkplatz Braun unter diese Anschrift gefasst und die dortigen Einsätze sind statistisch enthalten, siehe auch Drs. 20/13029.
 
@@ -105,6 +106,6 @@ Gibt es Anweisungen an die Polizei oder bestimmte Polizeikommissariate, die Eins
 
 Bestehen sonst Anweisungen, die die Dokumentation in diesem Bereich tangieren? Wenn ja, welche und aus welchem Grund?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Polizeiliche Einsätze in den ZEA-Einrichtungen werden im System HELS erfasst. Das gilt für alle ZEA-einrichtungen und alle Polizeikommissariate.

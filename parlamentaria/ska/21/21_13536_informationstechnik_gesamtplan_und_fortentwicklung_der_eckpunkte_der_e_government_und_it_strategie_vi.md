@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 18
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11211", "21/11429", "21/9363", "21/12085", "21/10748"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62897"
@@ -69,17 +70,17 @@ Wie weit sind die Planungen zu Ausbau und Verbesserung des Transparenzportals ge
 
 Das Transparenzportal Hamburg wird seit Inbetriebnahme durch die Fachliche Leitstelle Transparenzportal strategisch weiterentwickelt und stetig verbessert. In diesem Rahmen erfolgen unter anderem die Qualitätssicherung (unter anderem Auswertung von Statistiken, Fehlermanagement), die Beobachtung von Markt- und Forschungstrends, die Gewährleistung von Datenschutz und Datensicherheit, das Anforderungsmanagement, das Change- und Release-Management, das Testmanagement, die Pflege der Metadatenstruktur sowie die redaktionelle Betreuung des Portals. Seit 2017 wurden folgende Verbesserungen erzielt:
 
- Verbesserung des Upload-Workflows zur Veröffentlichung von Dokumenten und
+– Verbesserung des Upload-Workflows zur Veröffentlichung von Dokumenten und
 
 Daten durch Neugestaltung des Benutzerdialogs (zum Beispiel Entwicklung und Einbau von Hilfebausteinen bei der Eingabe von Metadaten, oder die Implementierung von identifizierten verbesserungswürdigen Punkten, wie die eines neuen Metadatenstandards: DCAT-AP.de ist das gemeinsame deutsche Metadatenmodell zum Austausch von offenen Verwaltungsdaten),
 
- Identifizierung und Bereinigung softwaretechnischer Bugs in Zusammenarbeit mit
+– Identifizierung und Bereinigung softwaretechnischer Bugs in Zusammenarbeit mit
 
 externen Dienstleistern (insbesondere Dataport),
 
- Verbesserung der Barrierefreiheit (BITV-konforme Gestaltung der Webseiten),
+– Verbesserung der Barrierefreiheit (BITV-konforme Gestaltung der Webseiten),
 
- Optimierung der Suche im Transparenzportal Hamburg sowie ergonomische Ver-
+– Optimierung der Suche im Transparenzportal Hamburg sowie ergonomische Ver-
 
 besserung der Suchmaske (Rechtschreibprüfung und Vorschlagsliste).
 
@@ -87,15 +88,15 @@ a. Welche Mängel sollen behoben werden?
 
 Geplant sind folgende Maßnahmen:
 
- Umstellung des Veröffentlichungsworkflows und der Schwärzungsdienste auf den
+– Umstellung des Veröffentlichungsworkflows und der Schwärzungsdienste auf den
 
 aktuellen Stand der Technik (Umsetzung 2019)
 
- Einführung der neuen innovativen Triplestore-Technik als weitere Aufbaumaßnah-
+– Einführung der neuen innovativen Triplestore-Technik als weitere Aufbaumaßnah-
 
 me nach der Umstellung auf DCAT-AP.de (geplante Umsetzung zweites Halbjahr 2018)
 
- Verbesserung zur Darstellung der Suchergebnisse in Form einer integrierten
+– Verbesserung zur Darstellung der Suchergebnisse in Form einer integrierten
 
 Dokumentenvorschau und detaillierteren Treffersuche innerhalb von Datensätzen (Umsetzung erstes Halbjahr 2019).
 

@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 15
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10722", "21/6710", "21/5039", "21/9538", "21/10986", "21/11343", "21/11627"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61547"
@@ -131,6 +132,6 @@ Wie viele Moscheevereine sind dem Senat in Hamburg zwischen dem 1. Mai 2010 und 
 
 Welche rechtlichen Voraussetzungen sind nötig, um in Hamburg einen Moscheeverein anzumelden?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Siehe Antwort zu 5. bis 8.

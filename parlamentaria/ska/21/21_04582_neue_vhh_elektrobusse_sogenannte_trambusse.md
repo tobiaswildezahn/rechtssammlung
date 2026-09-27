@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52987"
@@ -51,9 +52,9 @@ Der erwähnte Trambus der Firma Büssing AG war ein Hochflur-Fahrzeug. Aufgrund 
 
 Die neuen Trambusse haben 46 Sitzplätze und 63 Stehplätze. Die Sitzplätze verteilen sich folgendermaßen:
 
- 29 Sitzplätze in Fahrtrichtung,
+– 29 Sitzplätze in Fahrtrichtung,
 
- 17 Sitzplätze entgegen der Fahrtrichtung.
+– 17 Sitzplätze entgegen der Fahrtrichtung.
 
 21 Sitzplätze befinden sich auf Radkästen (vorwärts acht, rückwärts 13).
 
@@ -125,13 +126,13 @@ Während der Ladezeit ist grundsätzlich der Ein-und Ausstieg von Fahrgästen m�
 
 Für den Fahrgastraum ist die folgende vollautomatische Klimaanlage geplant:
 
- 2 x Dachunit mit Wärmepumpenfunktion, Kälteleistung 2 x 25 KW und Heizleistung
+– 2 x Dachunit mit Wärmepumpenfunktion, Kälteleistung 2 x 25 KW und Heizleistung
 
 2 x 15 KW
 
 Für den Fahrerraum ist die folgende Klimaanlage vorgesehen:
 
- Frontheizgerät (auch mit Wärmepumpenfunktion) Kälteleistung 8 KW, Heizleistung
+– Frontheizgerät (auch mit Wärmepumpenfunktion) Kälteleistung 8 KW, Heizleistung
 
 5 KW
 

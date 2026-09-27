@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/582", "17/1559", "18/767"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51215"
@@ -329,21 +330,21 @@ b. Hält es der Senat für angebracht, Fahrgästen von Personenbeförderungsdien
 
 Ja. Kriterien für die Qualität des Angebots von Personenbeförderungsdiensten sind:
 
-• nachfragegerechte Verfügbarkeit für alle Nutzergruppen an 24 Stunden/365 Tagen im Jahr,
+– nachfragegerechte Verfügbarkeit für alle Nutzergruppen an 24 Stunden/365 Tagen im Jahr,
 
-• Zuverlässigkeit bei der Kundenbedienung,
+– Zuverlässigkeit bei der Kundenbedienung,
 
-• transparente Entgeltregelungen,
+– transparente Entgeltregelungen,
 
-• Verjüngung des Fahrzeugparks und Verbesserung der Umweltstandards,
+– Verjüngung des Fahrzeugparks und Verbesserung der Umweltstandards,
 
-• Verdrängung von Unternehmen, die den Ursprung ihrer Einnahmen nicht belegen und damit Einkommen verschleiern, um Steuern und Sozialabgaben zu „sparen“,
+– Verdrängung von Unternehmen, die den Ursprung ihrer Einnahmen nicht belegen und damit Einkommen verschleiern, um Steuern und Sozialabgaben zu „sparen“,
 
-• Kontrolle und Ahndung illegaler Praktiken einzelner Unternehmer und Fahrer zum Schutz der Fahrgäste und der übrigen Gewerbetreibenden,
+– Kontrolle und Ahndung illegaler Praktiken einzelner Unternehmer und Fahrer zum Schutz der Fahrgäste und der übrigen Gewerbetreibenden,
 
-• verlässliche Arbeitsbedingungen im Gewerbe,
+– verlässliche Arbeitsbedingungen im Gewerbe,
 
-• Innovation durch ungehinderten Marktzugang bei Einhaltung der rechtlichen Rahmenbedingungen.
+– Innovation durch ungehinderten Marktzugang bei Einhaltung der rechtlichen Rahmenbedingungen.
 
 Die App-Vermittlung für sogenannte Privatfahrer kann keines dieser Qualitätskriterien erfüllen. Würde man die „Privatfahrer“ akzeptieren, wäre dies ein deutliches und verfehltes Zeichen, dass auch im traditionellen Gewerbe die genannten Qualitätsziele zur Disposition stehen.
 

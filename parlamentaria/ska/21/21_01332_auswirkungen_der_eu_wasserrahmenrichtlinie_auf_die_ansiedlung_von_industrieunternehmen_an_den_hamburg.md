@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 12
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49540"
@@ -87,15 +88,15 @@ Genießen Hamburger Unternehmen Bestandsschutz hinsichtlich der Einleitung von K
 
 Die kühlwasserrelevanten Nutzungen unterliegen den fachlichen Anforderungen des Wärmelastplans für die Tideelbe vom Dezember 2008 hinsichtlich
 
-• maximal zulässiger Gewässertemperatur,
+– maximal zulässiger Gewässertemperatur,
 
-• maximal zulässiger Aufwärmspanne im Gewässer,
+– maximal zulässiger Aufwärmspanne im Gewässer,
 
-• Mindestsauerstoffkonzentration beziehungsweise Mindestsauerstoffsättigungsgrad im eingeleiteten Kühlwasser,
+– Mindestsauerstoffkonzentration beziehungsweise Mindestsauerstoffsättigungsgrad im eingeleiteten Kühlwasser,
 
-• Mindestsauerstoffkonzentration im Gewässer,
+– Mindestsauerstoffkonzentration im Gewässer,
 
-• Zielwert der Sauerstoffkonzentration im Gewässer jeweils am Ort der Beurteilung.
+– Zielwert der Sauerstoffkonzentration im Gewässer jeweils am Ort der Beurteilung.
 
 Diese Anforderungen sollen die Einhaltung der Bewirtschaftungsziele nach § 27 WHG sichern. Ein Verstoß gegen das Verschlechterungsverbot, wie es vom EuGH definiert wurde, ist derzeit nicht erkennbar.
 

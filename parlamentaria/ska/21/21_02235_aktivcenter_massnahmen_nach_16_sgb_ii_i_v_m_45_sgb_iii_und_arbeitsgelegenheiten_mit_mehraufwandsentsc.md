@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/2065", "20/12713", "20/12277", "20/12217"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50497"
@@ -176,17 +177,17 @@ Wie bewertet der Senat die Antwort der Bundesregierung (BT.-Drs. 18/2065), dass 
 
 Laut § 45 Sozialgesetzbuch (SGB) Drittes Buch (III) Absatz 2 Satz 3 wird lediglich die Vermittlung von beruflichen Kenntnissen auf acht Wochen beschränkt. Die Gesamtzuweisungsdauer der Maßnahme „Perspektive Beruf Plus“ beinhaltet außer der Vermittlung von beruflichen Kenntnissen noch folgende Module:
 
- Sprache fördern,
+– Sprache fördern,
 
- allgemeine Lebensführung,
+– allgemeine Lebensführung,
 
- allgemeine Grundlagen und Fachtheorie,
+– allgemeine Grundlagen und Fachtheorie,
 
- Bewerbungscoaching,
+– Bewerbungscoaching,
 
- Kommunikation und Lern- und Arbeitshilfen,
+– Kommunikation und Lern- und Arbeitshilfen,
 
- Betriebliche Erprobung.
+– Betriebliche Erprobung.
 
 Ebenfalls enthalten sind eine sozialpädagogische Begleitung, eine Lernbegleitung und die Produktionsorientierten Tätigkeiten.
 

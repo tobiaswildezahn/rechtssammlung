@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14193"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59488"
@@ -49,7 +50,7 @@ Wann wurde die letzte Verkehrszählung in der Straße Brillkamp durchgeführt un
 
 Wie viele Fahrzeuge verkehren in der Straße Brillkamp durchschnittlich wochentags und am Wochenende?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 20/14193.
 
@@ -61,7 +62,7 @@ Wie häufig werden in der Straße Brillkamp Geschwindigkeitsmessungen durch die 
 
 Wann hat die zuständige Fachbehörde zuletzt eine Geschwindigkeitsmessung in der Straße Brillkamp vorgenommen, auf welcher Höhe wurde die Messung genau vorgenommen, wie viele Geschwindigkeitsübertretungen sind dabei festgestellt worden und welche Strafen wurden dabei jeweils verhängt (bitte den genauen Messzeitraum angeben)?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Polizei hat im Brillkamp zuletzt am 5. August 2016 in der Zeit von 8.15 Uhr bis
 9.00 Uhr in Höhe Hausnummer 3/Fahrtrichtung Hummelsbütteler Weg eine Geschwindigkeitsmessung durchgeführt. Dabei wurden zwei Fahrzeuge mit überhöhter Geschwindigkeit gemessen. In beiden Fällen betrug die vorgeworfene Geschwindigkeit 43 km/h. Der bundeseinheitliche Tatbestandskatalog sieht hierfür ein Verwarnungsgeld von 25 Euro vor.

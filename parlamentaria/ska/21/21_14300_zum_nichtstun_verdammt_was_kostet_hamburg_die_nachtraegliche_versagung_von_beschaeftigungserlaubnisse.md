@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 22
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8154", "21/5832", "21/14071", "21/13796", "21/13348"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63710"
@@ -88,33 +89,33 @@ In Fällen, in denen das Abschiebehindernis nach § 60a Absatz 2 S. 1 AufenthG m
 
 Der zuständigen Behörde stehen folgende Möglichkeiten zur Verfügung:
 
- Aushändigung des schriftlichen Hinweises auf die Mitwirkungspflichten gemäß
+– Aushändigung des schriftlichen Hinweises auf die Mitwirkungspflichten gemäß
 
 § 82 AufenthG in Verbindung mit §§ 48, 49 AufenthG (Herausgabepflicht des Passes, Passersatzes oder Ausweisersatz).
 
- Kurze Duldungszeiträume in Verbindung mit wiederholten, gleichförmigen Anhö-
+– Kurze Duldungszeiträume in Verbindung mit wiederholten, gleichförmigen Anhö-
 
 rungen gemäß § 26 Hamburgisches Verwaltungsverfahrensgesetz (HmbVwVfG) zur Identitätsfeststellung und Beweissicherung.
 
- Sammelinterviews sowie gegebenenfalls auch Zwangsvorführungen bei diversen
+– Sammelinterviews sowie gegebenenfalls auch Zwangsvorführungen bei diversen
 
 Botschaften/Konsulaten der Länder, aus denen der Betroffene stammen könnte.
 
- Leistungskürzungen gemäß § 1a Absatz 3 Satz 1 Asylbewerberleistungsgesetz.
+– Leistungskürzungen gemäß § 1a Absatz 3 Satz 1 Asylbewerberleistungsgesetz.
 
- Räumliche Beschränkung des Aufenthalts auf Hamburg gemäß § 61 Absatz 1 Satz
+– Räumliche Beschränkung des Aufenthalts auf Hamburg gemäß § 61 Absatz 1 Satz
 
 1 und Absatz 1c Satz 1 Nummer 3 AufenthG.
 
- Ordnungsverfügung in Verbindung mit § 82 AufenthG mit Zwangsgeldandrohung,
+– Ordnungsverfügung in Verbindung mit § 82 AufenthG mit Zwangsgeldandrohung,
 
 Wirksamwerden des angedrohten Zwangsgeldes und erforderlichenfalls in der Folge Erzwingungshaft.
 
- Wohnungsdurchsuchung nach richterlicher Anordnung auf Grundlage einer voll-
+– Wohnungsdurchsuchung nach richterlicher Anordnung auf Grundlage einer voll-
 
 streckbaren Verfügung im Sinne des § 18 HmbVwVfG.
 
- Durchsuchung mitgeführter Sachen (Unterlagen und Datenträger) gemäß § 48
+– Durchsuchung mitgeführter Sachen (Unterlagen und Datenträger) gemäß § 48
 
 Absatz 3 Satz 2 AufenthG und Auswertung von Datenträgern.
 
@@ -128,7 +129,7 @@ Wie vielen abgelehnten Asylsuchenden, die in Hamburg leben, wurde seit 2015 eine
 
 Wie viele Betroffene sind ihren Mitwirkungspflichten (insbesondere Passbeschaffung) durch Versagung der Beschäftigungserlaubnis im Nachhinein, nachgekommen (bitte Erfolgsquote angeben)? a. Wie vielen Betroffenen konnte daraufhin eine Beschäftigungserlaubnis erteilt werden? b. Wie viele Betroffene sind daraufhin freiwillig ausgereist beziehungsweise wurden daraufhin erfolgreich ausgewiesen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Diese Angaben werden nicht in auswertbarer Form erfasst. Im Übrigen siehe Antworten zu 1.
 

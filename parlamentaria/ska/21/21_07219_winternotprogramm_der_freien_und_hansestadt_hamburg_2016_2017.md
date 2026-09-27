@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 19
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6939", "21/6814", "21/2034", "21/6922", "21/6426", "21/7173", "21/6929"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55804"
@@ -96,23 +97,23 @@ Wie war die prozentuale Auslastung der Tagesaufenthaltsstätten und Schlafstätt
 
 Prozentuale Angaben zur Auslastung der Tagesaufenthaltsstätten werden statistisch nicht erfasst. In der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit haben folgende Einrichtungen der zuständigen Behörde auf Nachfrage nachfolgende Daten mitgeteilt:
 
- Den Verein „Die Mission – Künstlerische Maßnahmen gegen die Kälte e.V.“ such-
+– Den Verein „Die Mission – Künstlerische Maßnahmen gegen die Kälte e.V.“ such-
 
 ten pro Öffnungstag bis zu 120 Menschen auf. Es erfolgt eine Essensversorgung in zwei Gruppen mit jeweils maximal 60 Personen.
 
- Der Kemenate-Tagestreff wurde im November 2016 an 21 Öffnungstagen von 716
+– Der Kemenate-Tagestreff wurde im November 2016 an 21 Öffnungstagen von 716
 
 Besuchern aufgesucht. Dies sind im Durchschnitt 34,1 Besuche pro Öffnungstag.
 
- Der Tagesaufenthalt Hinrichsenstraße wurde pro Öffnungstag im November von
+– Der Tagesaufenthalt Hinrichsenstraße wurde pro Öffnungstag im November von
 
 durchschnittlich rund 13 Personen genutzt.
 
- Durchschnittlich 316 pro Tag Menschen suchten die Einrichtung Herz As während
+– Durchschnittlich 316 pro Tag Menschen suchten die Einrichtung Herz As während
 
 der Öffnungszeiten im November auf.
 
- Zur Auslastung der Schlafstätten:
+– Zur Auslastung der Schlafstätten:
 
 o Das Pik As war pro Tag durchschnittlich zu 36 Prozent ausgelastet. Darüber
 
@@ -189,7 +190,7 @@ Wie viele Beratungen von Übernachtenden des Winternotprogramms sind im November
 
 In welchen Angelegenheiten wurden die Übernachtenden des Winternotprogramms beraten? (Bitte prozentual aufschlüsseln.)
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Auswertungen auf Grundlage von dokumentierten Beratungsgespräche erfolgen nach Beendigung des Winternotprogramms. In der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit konnten folgende Daten ermittelt beziehungsweise zur Verfügung gestellt werden:
 

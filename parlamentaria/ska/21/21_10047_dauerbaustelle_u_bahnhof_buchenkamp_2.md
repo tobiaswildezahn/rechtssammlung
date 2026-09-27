@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 53866
 seiten: 2
 fragen: 5
-einzelfragen: 7
-antwortbloecke: 4
+einzelfragen: 9
+antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9014"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58871"
@@ -48,7 +49,7 @@ Wie sind der genaue Sachstand und der Zeitplan für die Umsetzung und den Abschl
 
 Liegt inzwischen eine überarbeitete Ausführungsplanung vor? Wann wurde die Ausführungsplanung von welchen Stellen geprüft und genehmigt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Genehmigung der Entwässerungsanlage und notwendige Vorleistungen durch die Hamburger Wasserwerke GmbH stehen derzeit noch aus. Die Genehmigung wird für Ende August des Jahres 2017 erwartet.
 
@@ -63,17 +64,28 @@ Die Bauarbeiten der HOCHBAHN werden circa drei Wochen dauern. Es werden die Verk
 ### Frage 4
 
 Laut Senatsantwort in Drs. 21/9014 „wurde vor Ort gegenüber den ursprünglichen Plänen eine andere Bestandssituation der Brückenentwässerung vorgefunden.“
-4.1. Wann wurde genau durch wen festgestellt, dass die errichtete Brückenentwässerung nicht den Plänen entspricht?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+Wann wurde genau durch wen festgestellt, dass die errichtete Brückenentwässerung nicht den Plänen entspricht?
+
+#### Antwort zu Fragen 4 und 4.1
 
 Im Frühjahr des Jahres 2017 wurden durch die Hochbahn Ausspülungen festgestellt.
 
-4.2. Wer ist dafür verantwortlich, dass die Brückenentwässerung nicht plankonform umgesetzt wurde?
+### Frage 4.2
+
+Wer ist dafür verantwortlich, dass die Brückenentwässerung nicht plankonform umgesetzt wurde?
+
+#### Antwort zu Frage 4.2
 
 Die ursprünglichen Entwässerungsleitungen des Brückenbauwerkes aus dem Jahre 1921 sind vermutlich durch Wegebauarbeiten eines unbekannten Dritten im öffentlichen Raum ohne Kenntnis der HOCHBAHN entfernt worden.
 
-4.3. Zu welchen genauen Mehrkosten führen die fehlerhafte Brückenentwässerung und die Überarbeitung der Ausführungsplanung und welche Stelle übernimmt diese Mehrkosten?
+### Frage 4.3
+
+Zu welchen genauen Mehrkosten führen die fehlerhafte Brückenentwässerung und die Überarbeitung der Ausführungsplanung und welche Stelle übernimmt diese Mehrkosten?
+
+#### Antwort zu Frage 4.3
 
 Die von der HOCHBAHN zu tragenden Kosten für die Anschlussleitung werden auf circa 30.000 Euro (netto) geschätzt.
 

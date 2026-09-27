@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6818", "21/4517"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56375"
@@ -150,7 +151,7 @@ Welche Umsätze in welcher Höhe außerhalb des Badbetriebes generiert BLH noch 
 
 Welche Umsätze werdend von BLH durch die Vermietung oder Verpachtung von Räumlichkeiten oder Grundstücken generiert? Bitte für die Jahre 2012 – 2016 angeben.
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Unternehmensaufgabe der BLH ist die Schaffung und der wirtschaftliche Betrieb öffentlicher Bäder sowie ergänzender Freizeit-, Sport- und Gesundheitseinrichtungen. Aus dieser Definition der Unternehmensaufgabe ergibt sich, dass die Umsatzerlöse im Wesentlichen dem Kerngeschäft der BLH zuzuordnen sind.
 
@@ -197,7 +198,7 @@ Welche Investitionsprojekte stehen derzeit an beziehungsweise befinden sich in d
 
 Im Risikoteil des Lageberichtes 2015 wird unter anderem der Sanierungsbedarf des Tragwerkes des Kellers der Alsterschwimmhalle angesprochen. Die Beseitigung würde zu einer grundlegenden Sanierung der Halle führen, die mit hohen Kosten verbunden ist (vergleiche Lagebericht 2015 BLH, Seite 14). Sind Sanierungsarbeiten geplant? Welche finanziellen und baulichen Risiken bestehen derzeit?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Neubau des Familienbades Ohlsdorf, Erweiterung des Hallenbades Rahlstedt um einen Kurshallenanbau, Modernisierung und Erweiterung der Saunalandschaft im Holthusenbad.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12244", "21/12466"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61847"
@@ -65,11 +66,11 @@ Die Erstattungen für die in den EA erbrachten Sachleistungen (Verpflegung, Ener
 
 In der Produktgruppe 274.03 „Ausländerangelegenheiten“, Produkt „Angelegenheiten der Erstaufnahme“ wurden 2017 folgende Erlöse erzielt:
 
- Erlöse aus Vermietung und Erstattung von Nebenkosten: 357.000 Euro
+– Erlöse aus Vermietung und Erstattung von Nebenkosten: 357.000 Euro
 
 (Hierbei handelt es sich vorrangig um die Vermietung von Räumlichkeiten im Gebäudekomplex Ankunftszentrum, zum Beispiel an das Bundesamt für Migration und Flüchtlinge. Ebenfalls enthalten sind vermietete leerstehende Container.)
 
- Sonstige Erlöse (insbesondere periodenfremde Erlöse): 644.000 Euro
+– Sonstige Erlöse (insbesondere periodenfremde Erlöse): 644.000 Euro
 
 (Hierbei handelt es sich vor allem um nachträgliche Rückzahlungen der Betreiber im Rahmen des nachgelagerten Controllings sowie Erstattungen von Nebenkosten.)
 

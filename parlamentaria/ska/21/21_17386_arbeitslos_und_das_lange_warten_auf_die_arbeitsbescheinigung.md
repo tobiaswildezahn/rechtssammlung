@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 15
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66968"
@@ -63,7 +64,7 @@ Bei wie vielen dieser Personen lag die Arbeitsbescheinigung zum Zeitpunkt der An
 
 Wie lang dauerte es durchschnittlich, bis die Nachreichung der (vollständig ausgefüllten) Arbeitsbescheinigung erfolgte?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die zur Beantwortung benötigten Daten werden statistisch nicht erfasst.
 
@@ -91,7 +92,7 @@ Wie viele OWi-Verfahren wegen Verstoßes gegen § 404 Absatz 2 Nummer 19 wurden 
 
 Wie viele Bußgelder wurden jeweils in den Jahren 2016 bis 2018 verhängt? a. Wie gestaltete sich jeweils die Spanne der verhängten Bußgelder? b. Wie hoch war das verhängte Bußgeld durchschnittlich? c. Wie hoch war die Gesamtsumme der verhängten Bußgelder?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der zuständigen Behörde und der Agentur für Arbeit liegen hierzu keine Erkenntnisse vor.
 
@@ -103,7 +104,7 @@ Wurde seitens der Bundesagentur für Arbeit in den Jahren 2016 bis 2018 Schadens
 
 Worin lag der der Bundesagentur entstandene Schaden? Bitte gegebenenfalls Beispiele nennen.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Durch eine unrichtige Arbeitsbescheinigung kann es zu einem Schaden kommen, wenn zum Beispiel aufgrund der Angabe zu hoher Arbeitsentgelte oder zu langer Beschäftigungszeiten das Arbeitslosengeld falsch berechnet wird und dem Kunden ein zu hohes Arbeitslosengeld ausgezahlt wird. Ein Schaden kann allerdings nur dann
 

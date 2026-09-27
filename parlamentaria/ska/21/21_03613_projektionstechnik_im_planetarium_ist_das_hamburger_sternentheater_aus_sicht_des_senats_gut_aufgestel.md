@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51983"
@@ -49,19 +50,19 @@ Wie viele und welche technischen Einrichtungen mit aufwändigen Projektionssyste
 
 #### Antwort zu Frage 2
 
- Zeiss Universarium IX (Sternenhimmelprojektor)
+– Zeiss Universarium IX (Sternenhimmelprojektor)
 
- Digitales 360 Grad Fulldome/Ganzkuppel-System, bestehend aus Kosmosvisuali-
+– Digitales 360 Grad Fulldome/Ganzkuppel-System, bestehend aus Kosmosvisuali-
 
 sierungssystem „E&S Digistar 5" und den integrierten zwei Sony SRX-S110 Hochleistungsprojektoren
 
- SCISS UniView (Ganzkuppel-Erd-/Umweltvisualisierungssystem)
+– SCISS UniView (Ganzkuppel-Erd-/Umweltvisualisierungssystem)
 
- SPICE Mediensteuerung von Sky-Skan
+– SPICE Mediensteuerung von Sky-Skan
 
- Show-Laser-und Lichtanlage (verschiedene Hersteller)
+– Show-Laser-und Lichtanlage (verschiedene Hersteller)
 
- Shure/Fraunhofer Atmosphea 3D-Soundsystem
+– Shure/Fraunhofer Atmosphea 3D-Soundsystem
 
 ### Frage 3
 

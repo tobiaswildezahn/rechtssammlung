@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7486"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59130"
@@ -55,7 +56,7 @@ Wie hoch sind die Kosten für die Maßnahme?
 
 Wie setzt sich die Finanzierung der Maßnahme zusammen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Nach Auskunft des zuständigen Bezirksamtes betragen die Gesamtkosten 281.109,80 Euro.
 

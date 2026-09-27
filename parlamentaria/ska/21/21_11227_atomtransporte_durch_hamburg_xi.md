@@ -14,6 +14,7 @@ fragen: 28
 einzelfragen: 37
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11317", "21/4565", "21/10244", "20/13644", "20/14621", "21/9289"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60214"
@@ -162,7 +163,7 @@ Aus diversen Drucksachen zum Thema, zuletzt Drs. 21/10244, geht hervor, dass die
 
 Haben mittlerweile weitere Gespräche zu freiwilligem Selbstverzicht stattgefunden beziehungsweise sind Termine vereinbart? Wenn ja, wann mit wem? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 18 bis 19
+#### Antwort zu Fragen 18 und 19
 
 Die zuständige Behörde befindet sich im kontinuierlichen Austausch mit der Hafenwirtschaft. Es sind weitere Termine vorgesehen. Aus Vertraulichkeitsgründen können die Gesprächspartnerinnen und -partner nicht genannt werden. Im Übrigen ist der Prozess noch nicht abgeschlossen.
 
@@ -242,7 +243,7 @@ Ist dem Senat bekannt, das verschiedenste Mängel zu einer erheblichen Verzöger
 
 Ist dem Senat bekannt, wann der EPR in den heißen Probebetrieb gehen soll beziehungsweise die Inbetriebnahme geplant ist (Datum bitte nennen)? Wenn nein, weshalb sind ihm diese Daten nicht bekannt?
 
-#### Antwort zu Fragen 27 bis 28
+#### Antwort zu Fragen 27 und 28
 
 Dazu liegen dem Senat keine Erkenntnisse vor.
 

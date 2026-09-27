@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9991", "21/10265", "21/7881", "21/8864", "21/7479"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59605"
@@ -146,7 +147,7 @@ Wie viele Überstunden wurden im oben genannten Zeitraum ausbezahlt? Wie viele H
 
 Auf welchem Stand befinden sich die Planung und Auszahlung der anlässlich des G20-Gipfels angesammelten Überstunden (bezüglich der Antwort auf Fragen 4. und 5. aus Drs. 21/10265)?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Der Entwicklung der Überstunden bei der Polizei wurde in 2017 durch die Möglichkeit erheblicher finanzieller Vergütung begegnet.
 

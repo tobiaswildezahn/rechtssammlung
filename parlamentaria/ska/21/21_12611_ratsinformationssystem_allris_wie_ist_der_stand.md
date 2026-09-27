@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61915"
@@ -72,7 +73,7 @@ Wie nutzen die Bürgerinnen und Bürger ALLRIS? Welche Informationen liegen dem 
 
 Wie nutzen die Bezirksabgeordneten ALLRIS? Welche Informationen liegen dem Senat vor? Bitte nach Bezirken unterscheiden.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Bürgerinnen und Bürger können das Modul ALLRIS–Bürgerinformationssystem über einen einfachen Browserzugang nutzen; das Modul ist mittels Hamburg-Gateway sowie der einzelnen Internetpräsenzen der Bezirksämter erreichbar. Weiterhin kann die ALLRIS-App für Mobilgeräte verwendet werden, um direkt auf die Informationen des Bürgerinformationssystems zuzugreifen. Eine weitere Möglichkeit bietet die Nutzung des Hamburger Informationsportals, da die Informationen zu den Vorgängen der bezirklichen Gremienarbeit direkt aus dem Fachverfahren von einer sogenannten Transparenzgesetzschnittstelle eingeholt werden.
 

@@ -5,7 +5,7 @@ wahlperiode: 21
 id: 61833
 titel: "Schafft es der rot-grüne Senat, das Zentrallager von Asklepios Hamburg in der Stadt zu halten? (3)"
 datum_anfrage: "2018-04-03"
-datum_drucksache: null
+datum_drucksache: "2018-04-10"
 urheber: ["Thilo Kleibauer"]
 fraktionen: ["CDU"]
 vorgang: 56355
@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 6
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10860", "21/11470", "21/9527", "21/9535", "21/9678"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61833"
@@ -24,7 +25,7 @@ generator: "ska_archiv 1.0"
 
 # Drs. 21/12520: Schafft es der rot-grüne Senat, das Zentrallager von Asklepios Hamburg in der Stadt zu halten? (3)
 
-> Schriftliche Kleine Anfrage und Antwort des Senats  
+> Schriftliche Kleine Anfrage des Abgeordneten Thilo Kleibauer (CDU) vom 03.04.18 und Antwort des Senats · Drucksache vom 10.04.2018  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/61833) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/61833/21_12520_schafft_es_der_rot_gruene_senat_das_zentrallager_von_asklepios_hamburg_in_der_stadt_zu_halten_3)
 
 ## Einleitung für die Fragen

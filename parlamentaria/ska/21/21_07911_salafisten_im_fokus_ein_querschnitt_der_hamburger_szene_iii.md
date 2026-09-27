@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6494", "21/6646"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56548"
@@ -43,7 +44,7 @@ Wie ist die Struktur der salafistischen Szene gegenwärtig in Hinblick auf die S
 
 Wie viele von ihnen verfügen über die doppelte Staatsbürgerschaft?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Zahlen unterliegen aufgrund der sich ständig verändernden Informationslage, datenschutzrechtlicher Pflegemaßnahmen der gespeicherten Daten sowie Länderzuständigkeiten einer ständigen Fluktuation. Aktuelle verifizierte Daten im Sinne der Fragestellung liegen derzeit nicht vor. Im Übrigen siehe Drs. 21/6494.
 
@@ -55,7 +56,7 @@ Wie viele bosnische, serbische, kroatische, makedonische, albanische, kosovarisc
 
 Wie hoch fällt dieser Wert für die Zeit zwischen dem 30.06.2016 und dem 01.01.2017 aus?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Das Statistikamt Nord erhält halbjährlich – jeweils mit Stand vom 30. Juni und 31. Dezember – einen Gesamtabzug des Melderegisters und wertet dieses aus. Daten mit Stand 31. Dezember 2016 liegen frühestens im März/April 2017 vor. Das Ergebnis der Auswertung nach ausgewählten Staatsangehörigen und den Stichtagen 31. Dezember 2015 und 30. Juni 2016 stellt sich wie folgt dar:
 
@@ -168,7 +169,7 @@ Gegen wie viele Personen, die den Behörden als Salafisten bekannt sind, wird ge
 
 Wie viele Personen, die den Behörden als Salafisten gelten, wurden in den Jahren 2015 und 2016 für begangene Straftagen verurteilt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Das Merkmal „Salafismus/Salafist“ ist kein Bestandteil der entsprechenden Dateien bei Polizei und Justiz. Insofern liegen keine Daten im Sinne der Fragestellungen vor. Eine Beantwortung der Fragen wäre nur durch eine händische Auswertung von mehreren Hundert Akten möglich. Eine solche Auswertung ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

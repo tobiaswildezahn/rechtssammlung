@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/89", "20/10838"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66474"
@@ -49,7 +50,7 @@ Wie hat sich die Anzahl der Verwaltungsgerichtsverfahren zwischen Personalräten
 
 Wie hat sich die Anzahl der in der FHH durchgeführten Schlichtungsverfahren in seit 2013 entwickelt? (Bitte jahresweise auflisten.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Daten zu den Fragen 1. und 2. werden nicht zentral erfasst. Die Angaben beruhen auf einer aus Anlass dieser Schriftlichen Kleinen Anfrage bei den Dienststellen der Freien und Hansestadt Hamburg durchgeführten Abfrage.
 

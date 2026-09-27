@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63309"
@@ -63,7 +64,7 @@ Welche zwei Kolleg-Forschungsgruppen hat es bereits in der Vergangenheit gegeben
 
 Welche Fördersummen bzw. Programmpauschalen haben diese erhalten und wie lange haben sie gedauert?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 An der UHH gibt es derzeit eine laufende Kolleg-Forschungsgruppe mit dem Titel „Maimonides Centre for Advanced Studies – Jewish Scepticism“. Eine weitere Kolleg- Forschungsgruppe zum Thema „Imaginarien der Kraft“ wurde vor Kurzem von der DFG bewilligt und wird demnächst ihre Arbeit an der UHH aufnehmen.
 

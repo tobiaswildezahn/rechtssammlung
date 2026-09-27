@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55900"
@@ -120,7 +121,7 @@ Wurden diese Vorschriften oder Empfehlungen befolgt? Wenn nein: Welche Konsequen
 
 Sofern von einem Landgang in Uniform abgeraten wird: Warum wird davon abgeraten?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Entfällt.
 

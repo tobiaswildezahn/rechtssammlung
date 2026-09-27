@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12366"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51003"
@@ -51,7 +52,7 @@ Wann wurde die letzte Verkehrszählung in der Straße Achtern Hollerbusch durchg
 
 Wie viele Fahrzeuge verkehren in der Straße Achtern Hollerbusch durchschnittlich wochentags und am Wochenende?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In der Straße Achtern Hollerbusch hat die für Verkehrserhebungen zuständige Behörde bisher keine Verkehrszählung durchgeführt. Im Übrigen siehe Vorbemerkung und Drs. 20/12366.
 
@@ -63,7 +64,7 @@ Wie häufig werden in der Straße Achtern Hollerbusch Geschwindigkeitsmessungen 
 
 Wann hat die zuständige Fachbehörde zuletzt eine Geschwindigkeitsmessung in der Straße Achtern Hollerbusch vorgenommen, auf welcher Höhe wurde die Messung genau durchgeführt, wie viele Geschwindigkeitsübertretungen sind dabei festgestellt worden und welche Strafen wurden dabei jeweils verhängt (bitte den genauen Messzeitraum angeben)?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Es wurden keine Geschwindigkeitskontrollen durchgeführt.
 
@@ -96,7 +97,7 @@ Was hat die zuständige Fachbehörde in den letzten Jahren für die Verkehrssich
 
 Welche konkreten baulichen Maßnahmen hat die zuständige Fachbehörde seit 8. Juli 2014 veranlasst?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs. 20/12366. Darüber hinaus wurden keine Maßnahmen getroffen.
 

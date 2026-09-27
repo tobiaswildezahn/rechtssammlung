@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 12
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48569"
@@ -47,7 +48,7 @@ Wie stellt sich die aktuelle Situation der Mittagessensversorgung am Heilwig Gym
 
 Wann wurde mit dem Bau der Mensa begonnen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Mensa befindet sich seit August 2014 im Bau. Die Mittagessenversorgung am Heilwig Gymnasium erfolgt derzeit über den Caterer „Mammas Canteen“; zur Essensausgabe und -einnahme wird ein Provisorium genutzt.
 
@@ -91,6 +92,6 @@ Sind während der Bauphase Nachbesserungen beziehungsweise Planungsänderungen a
 
 Gab beziehungsweise gibt es während der Bauphase der Mensa Einschränkungen des regulären Schulbetriebs insbesondere bei der Nutzung der Schulaula? Wenn ja, wie haben sich diese Einschränkungen konkret ausgewirkt?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Unabhängig vom Bau der Mensa wird zurzeit die Lüftungsanlage der Aula ertüchtigt und erneuert. Um hier Synergien besser nutzen zu können, wurde das ursprünglich geplante Lüftungskonzept für die Küche geändert. Während des Einbaus der Lüftung in der Aula ist diese für größere Veranstaltungen nicht nutzbar. Daneben wurde im Rahmen der Baumaßnahmen ein Rettungsweg von der Aula zur Bebelallee notwendig, zu dessen Herstellung ein Durchbruch geschaffen werden musste. Während der notwendigen Bauarbeiten für diesen Durchbruch konnte die Aula nicht genutzt werden. Alle Maßnahmen wurden zwischen SBH | Schulbau Hamburg, der zuständigen Behörde und der Schule abgestimmt.

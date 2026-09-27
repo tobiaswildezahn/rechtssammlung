@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 23
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16005", "21/14050", "20/13637"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65817"
@@ -142,7 +143,7 @@ Am Standort der ehemaligen G2 (jetzige BS 13) wurden nach Antwort
 
 in Drs. 21/16005 zuletzt 1 083 Berufsschülerinnen und Berufsschüler unterrichtet. Seitens des EWG müssen im Rahmen der anstehenden Modernisierungsarbeiten insgesamt circa 600 Schüler/-innen umziehen. Warum sind die Räumlichkeiten am Standort G2 für das EWG dennoch nicht ausreichend? a. Wie viele Berufsschüler/-innen wurden am Standort G2 gleichzeitig maximal unterrichtet? (Bitte für die letzten drei Schuljahre angeben.)
 
-#### Antwort zu Fragen 11, 14
+#### Antwort zu Fragen 11 und 14
 
 Es handelt sich bei der Summe von 1 083 Berufsschülerinnen und -schülern um die insgesamt gemeldeten Schülerinnen und Schüler. Diese sind jedoch nicht täglich in der Berufsschule.
 

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 19
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65593"
@@ -59,7 +60,7 @@ War der Tatverdächtige bereits zuvor strafrechtlich in Erscheinung getreten? Fa
 
 Ist es in diesem Zusammenhang bereits zu Verurteilungen und gerichtlichen Sanktionen gekommen? Falls ja, wann beziehungsweise welche?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Im Hinblick auf das Persönlichkeitsrecht des Betroffenen und die gesetzlichen Wertungen des Bundeszentralregistergesetzes sieht der Senat davon ab, etwaige Ermittlungsverfahren mitzuteilen, die durch einen Freispruch oder eine Einstellung beendet worden sind. Dasselbe gilt für Ermittlungsverfahren, die zu einem Abschluss geführt haben, der entweder nicht in ein Führungszeugnis aufzunehmen oder nach den Tilgungsvorschriften des Bundeszentralregistergesetzes nicht mehr zu berücksichtigen
 
@@ -115,6 +116,6 @@ Wurden im Pkw des Tatverdächtigen Drogen gefunden? Falls ja, um welche Substanz
 
 Hatte der Tatverdächtige während seiner Festnahme Drogen im Blut? Falls ja, welche?
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Der Senat sieht im Hinblick auf die Möglichkeit der Beeinträchtigung von Ermittlungen von einer Antwort ab.

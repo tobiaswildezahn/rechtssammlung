@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62963"
@@ -78,7 +79,7 @@ a) wie stellt sich der aktuelle Planungsstand hinsichtlich einer Neubebauung dar
 b) ist ein Abriss der Gebäudereste bereits beantragt worden? (Wann?)
 c) ist bereits ein Bauantrag gestellt worden? (Wann?)
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung. Zurzeit finden Abstimmungsgespräche zwischen den für Stadtentwicklung und Denkmalschutz zuständigen Behörden, dem zuständigen Bezirksamt und dem Vorhabenträger statt. Ein Bauantrag für das Vorhaben wurde bisher nicht gestellt.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13488", "21/10721", "21/12273", "21/12998", "21/13197"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63314"
@@ -43,7 +44,7 @@ Wie war die Struktur der salafistischen Szene im Juni 2018 in Hinblick auf die S
 
 Wie viele von diesen Leuten verfügen über die doppelte Staatsbürgerschaft? Bitte die jeweiligen Kombinationen einzeln nennen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/13488.
 
@@ -121,7 +122,7 @@ Gegen wie viele Personen, die vom Verfassungsschutz der salafistischen Szene zug
 Wie viele Personen, die vom Verfassungsschutz der salafistischen Szene zugerechnet werden, sind zwischen dem 30. April 2018 und dem
 1. Juli 2018 im Rahmen von strafrechtlichen Prozessen verurteilt worden?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Drs 21/13197. In dem darin zu strafrechtlichen Prozessen aufgeführten zweiten Verfahren ist die Entscheidung hinsichtlich aller Angeklagten mittlerweile rechtskräftig.
 

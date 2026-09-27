@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 17
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13582", "21/10873", "21/14000", "20/9096", "20/13000", "21/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63432"
@@ -102,7 +103,7 @@ Woher kommen die 14,1 Millionen Euro, die die BASFI gemäß dem Gemeinsamen Arbe
 
 Wurde das in Frage 7. genannte Budget vollständig ausgeschöpft?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Es handelt sich um einen Teilbeitrag der Kosten für Transferleistungen der Produktgruppe 255.02 Arbeitsmarktpolitik. In den Kosten für Transferleistungen sind zudem die Kosten für die Umsetzung des ESF enthalten. In 2015 standen für arbeitsmarktpolitische Programme 14,1 Millionen Euro zur Verfügung; in 2016 hatte sich der Ansatz durch Zu- und Abgänge an Mitteln auf 12,6 Millionen Euro verringert. Das Budget wurde vollständig ausgeschöpft.
 

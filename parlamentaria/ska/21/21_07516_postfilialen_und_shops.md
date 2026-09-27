@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56125"
@@ -89,7 +90,7 @@ Welche dieser Filialen oder Shops sind für welchen Zeitraum jeweils in den Jahr
 
 Gab es in den Jahren 2015 oder 2016 Fälle von ungeplanten Schließungen, die zu einer Beendigung des Vertragsverhältnisses mit dem Filialoder Shopbetreiber führten? Wenn ja: wie viele und in welchen Bezirken?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Mit Verweis auf vertragliche Verschwiegenheitspflichten hat die Deutsche Post AG hierzu gegenüber der zuständigen Fachbehörde keine Angaben gemacht.
 

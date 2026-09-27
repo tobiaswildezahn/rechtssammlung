@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10949", "21/4343"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65318"
@@ -37,27 +38,27 @@ Zu den weiteren Mitgliedern der Hamburger Terrorzelle gehörten:
 
 ## Einleitung für die Antworten des Senats
 
- Marwan Yousef al-Shehhi (Student der TU Hamburg-Harburg und Pilot
+– Marwan Yousef al-Shehhi (Student der TU Hamburg-Harburg und Pilot
 
 des Flugzeuges, welches in den Südturm des WTC flog)
 
- Ziad Jarrah (Student der Fachhochschule Hamburg und Entführer des
+– Ziad Jarrah (Student der Fachhochschule Hamburg und Entführer des
 
 Flugzeuges, welches über Pennsylvania abgestürzte)
 
- Ramzi Binalshibh (Mitbewohner Attas in der Marienstraße, heute inhaf-
+– Ramzi Binalshibh (Mitbewohner Attas in der Marienstraße, heute inhaf-
 
 tiert im US-Gefangenenlager Guantanamo)
 
- Said Bahaji (Student der TU Hamburg-Harburg und Mitbewohner Attas in
+– Said Bahaji (Student der TU Hamburg-Harburg und Mitbewohner Attas in
 
 der Marienstraße, heutiger Aufenthalt unbekannt)
 
- Zakariya Essabar (gemeldet in der Hamburger Marienstraße, Aufenthalt
+– Zakariya Essabar (gemeldet in der Hamburger Marienstraße, Aufenthalt
 
 unbekannt)
 
- Mounir al-Motassadeq (Student der TU Hamburg-Harburg, verurteilt
+– Mounir al-Motassadeq (Student der TU Hamburg-Harburg, verurteilt
 
 wegen Mitgliedschaft in einer terroristischen Vereinigung und der Beihilfe zum Mord in 246 Fällen)
 

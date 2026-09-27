@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 13
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18389", "21/16425", "21/16139"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69546"
@@ -83,7 +84,7 @@ Wie viele der in Hamburg verbliebenen UMA konnten bisher erfolgreich einen Schul
 
 Ist die Teilnahme an außerschulischen Sprach- und Integrationskursen für UMA verpflichtend? a. Hat der Senat Erkenntnisse darüber, ob sich die Teilnahme an Sprach- und Integrationskursen auf den angestrebten Schulabschluss auswirkt? b. Bei der Absolvierung von Sprachkursen, mit welchem Niveau schließen die UMA diese ab? (Bitte aufschlüsseln nach Altersgruppen und Sprachniveau.) c. Wie viele der UMA bedürfen zunächst einer Alphabetisierung? (Bitte aufschlüsseln nach Altersgruppen.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Verantwortung für den Spracherwerb von unbegleiteten minderjährigen Ausländern trägt, solange die Schulpflicht besteht, das Regelsystem „Schule“. Eine außerschulische Teilnahme an Sprach- und Integrationskursen ist deshalb nicht verpflichtend.
 
@@ -99,6 +100,6 @@ Wie viele der zunächst unter Vormundschaft stehenden UMA leben auch nach Erreic
 
 Wie viele der UMA konnten, auch nach Eintritt der Volljährigkeit, auf dem Arbeitsmarkt vermittelt werden und wie viele davon konnten eine berufliche Ausbildung beginnen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Es erfolgt keine statistische Erhebung im Sinne der Fragestellung.

@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 21
 antwortbloecke: 13
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66826"
@@ -77,7 +78,7 @@ Wie viele Hamburger Schülerinnen und Schüler haben im Frühjahr 2019 in Mathem
 
 Welcher Prozentsatz der Abiturienten hat Mathematik als Prüfungsfach, welcher als grundlegenden Kurs?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Für das Abitur 2019 wurden 2 642 schriftliche Mathematikprüfungen (1 226 auf grundlegendem Niveau, 1 416 auf erhöhtem Anforderungsniveau) bei der für Bildung zuständigen Behörde angefordert.
 
@@ -176,7 +177,7 @@ Betrachtet die Schulbehörde ihre zugesagte „Mathe-Offensive“ als Erfolg
 
 Wann werden welche Empfehlungen der Mathematikkommission unter Leitung von Prof. Köller vom Senat umgesetzt? Bitte Zeitplan angeben.
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Im Rahmen der Mathematikoffensive wurde im Oktober 2017 durch den Präses der für Bildung zuständigen Behörden eine Expertenkommission eingesetzt mit dem Ziel wissenschaftlich fundierte konzeptionelle und organisatorische Empfehlungen zur qualitativen Verbesserung des Mathematikunterrichts in den verschiedenen Bildungsetappen zu entwickeln. Diese Empfehlungen sind im Rahmen einer Fachtagung Mathematik im Februar 2019 mit allen Fachleiterinnen und Fachleitern Mathematik der Hamburger Schulen in zahlreichen Workshops ausführlich besprochen und diskutiert worden. Die Beratungen zur Umsetzung der Empfehlungen unter Einbeziehung der Expertise der Fachleiterinnen und Fachleiter sind noch nicht abgeschlossen.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/30", "21/80", "21/345", "20/6341"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48563"
@@ -61,7 +62,7 @@ An wen beziehungsweise welche Unternehmen sind die beschriebenen Flächen veräu
 
 Von wem beziehungsweise welchen Unternehmen sind die beschriebenen Flächen erworben worden? Bitte einzeln aufführen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Der Senat sieht zur Wahrung seiner zukünftigen Verhandlungsposition und der Betriebs- und Geschäftsgeheimnisse seiner Vertragspartner in ständiger Praxis grundsätzlich davon ab, sich zu Grundstücksgeschäften beziehungsweise den Inhalten von Kaufverträgen im Einzelnen zu äußern.
 

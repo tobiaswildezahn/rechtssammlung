@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 20
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17065"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66926"
@@ -146,7 +147,7 @@ Welches Unternehmen/Institut hat den Auftrag für die Machbarkeitsstudie erhalte
 
 Welche genauen Untersuchungsziele hat diese Machbarkeitsstudie?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Mit dem Projektmanagement zur Erstellung einer Machbarkeitsstudie für den Tideanschluss der Alten Süderelbe wurde die ReGe Hamburg Projekt-Realisierungsgesellschaft mbH im Rahmen einer Inhouse-Vergabe nach § 108 GWB beauftragt. Sie sorgt für die Erstellung der Machbarkeitsstudie durch Integration der Beiträge eines technischen Ingenieurbüros sowie einer hydrologischen und umweltfachlichen Planung qualifizierter Büros, die gesondert ausgeschrieben werden. Für diese Projektmanagementaufgabe wurde die ReGe Hamburg Projekt-Realisierungsgesellschaft mbH ausgewählt, da sie über die erforderlichen Kenntnisse des Planungsraums und der mit dem Maßnahmenvorschlag verbundenen Randbedingungen verfügt. Die Kosten für die Erstellung der Machbarkeitsstudie werden vorläufig auf 190 000 Euro netto geschätzt.
 
@@ -160,7 +161,7 @@ Wie soll der Einfluss der Wiederöffnung der Alten Süderelbe auf den Tidenhub i
 
 Wird in der Machbarkeitsstudie auch der Schwebstoff- und Sedimenttransport betrachtet? Wenn ja, wie und werden die Auswirkungen auch für die angrenzenden Bereiche des Mühlenberger Lochs und des Köhlfleets untersucht?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Der Einfluss einer möglichen Wiederöffnung der Alten Süderelbe auf den Tidenhub in der Unterelbe ebenso wie die Auswirkung auf den Schwebstoff- und Sedimenttransport in der Elbe und den angrenzenden Wasserkörpern sollen mithilfe eines numerischen 3-D-Modells der Bundesanstalt für Wasserbau berechnet werden. Die Modellgeometrie umfasst einen Bereich vom Wehr Geesthacht bis zur Deutschen Bucht. Die örtliche Auflösung wird je nach Bedarf variabel angepasst und wird im Bereich der Alten Süderelbe in der Größenordnung von etwa 10 m liegen.
 

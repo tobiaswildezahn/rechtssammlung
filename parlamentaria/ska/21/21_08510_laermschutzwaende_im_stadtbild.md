@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 16
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57239"
@@ -105,7 +106,7 @@ Ein wirksames Mittel gegen Beschmieren der Lärmschutzwände stellt eine Begrün
 
 Ist es aus der Sicht der Stadtbildgestaltung nicht generell empfehlenswert, Lärmschutzwände zu begrünen? Wenn ja: Warum erfolgt dies nicht?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 In Abhängigkeit von funktionalen Erfordernissen und unter Einbeziehung der stadträumlichen Lage stellt die Begrünung von Lärmschutzwänden eine prioritäre Lösung dar. Begrünte Lärmschutzwände verbessern das Kleinklima, lockern das Stadtbild auf und verhindern im Regelfall Graffiti.
 

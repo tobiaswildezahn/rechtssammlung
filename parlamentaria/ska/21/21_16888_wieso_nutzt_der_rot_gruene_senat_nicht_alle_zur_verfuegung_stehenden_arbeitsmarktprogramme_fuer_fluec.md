@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16550", "21/15837", "21/7590"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66434"
@@ -52,7 +53,7 @@ a) Warum erfolgt eine Fortsetzung angesichts der niedrigen Belegung der Vorjahre
 b) Wie viele Plätze sind aktuell belegt?
 c) Welche Maßnahmen werden ergriffen, um eine höhere Teilnahmequote zu erreichen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die wesentlichen Gründe für die geringe Inanspruchnahme von KompAS 2.0 (2018) (Kompetenzfeststellung, frühzeitige Aktivierung und Spracherwerb) waren eine unzu-
 

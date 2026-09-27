@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 24
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53060"
@@ -111,7 +112,7 @@ Wie hoch ist der Zielwert in 2016 bei Jobcenter team.arbeit.hamburg und Agentur 
 
 Wie hoch ist der tatsächliche Wert für die Integrationsquoten beziehungsweise deren Abweichung vom Zielwert nach Frage 13.? Wie drückt sich dies in totalen Zahlen aus? Bitte aufschlüsseln in Jobcenter team.arbeit.hamburg und Agentur für Arbeit Hamburg.
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Es gibt für die unter 13.a. bis 13.c. genannten Merkmale keine Integrationsquoten. Im Übrigen: entfällt.
 

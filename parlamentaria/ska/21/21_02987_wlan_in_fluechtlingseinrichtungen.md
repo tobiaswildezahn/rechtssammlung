@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 23
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51317"
@@ -75,7 +76,7 @@ Was tut der Senat, damit die Freie und Hansestadt Hamburg (FHH) nicht als Störe
 
 Welche Sicherungsmaßnahmen nimmt der Senat vor?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Da die Freie und Hansestadt Hamburg nicht als Anbieter auftritt, ist sie von der Störerhaftung nicht betroffen. Freifunk Hamburg sowie die Telekom als Großanbieter sind per Gesetz von der Störerhaftung befreit. Insoweit sind keine Sicherungsmaßnahmen erforderlich.
 
@@ -117,7 +118,7 @@ Wie sind die Rechtsverhältnisse zwischen der FHH und den im Vortext genannten U
 
 Über welchen Zeitraum wurden Verträge mit den im Vortext genannten Unterstützern abgeschlossen und mit jeweils welcher Kündigungsfrist?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Aufgrund der freiwilligen Leistungen und der Freihaltung von Lasten der FHH waren vertragliche Beziehungen bisher entbehrlich.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 9
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10688", "21/15603"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65487"
@@ -118,7 +119,7 @@ Wie hoch sind die durch den Flugverkehr am Flughafen Hamburg verursachten Treibh
 
 Nach welchem Verfahren werden die Treibhausgasemissionen des Flugverkehrs gemessen? Dies betrifft insbesondere die Frage, welche Flüge mit welchen Strecken (Inbound, Outbound) berücksichtigt werden und ob bei der Berechnung die (laut Umweltbundesamt) in großer Höhe bis zu fünf Mal höhere Treibhausgaswirkung miteinbezogen wird oder die von der ICAO auf Bodenniveau berechnete Wirkung zugrunde gelegt wird.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Nach der ACA auf Initiative der ACI Europe wurden seit dem Jahr 2010 die in der nachstehenden Tabelle dargestellten Emissionen bis 3 000 Fuß Höhe aus dem Flugverkehr über Hamburg ermittelt (indirekte Emissionen Dritter durch die Geschäftstätigkeit des Flughafens bezogen auf den „Landing and Take Off (LTO)“-Zyklus des Flugverkehrs - Scope 3).
 

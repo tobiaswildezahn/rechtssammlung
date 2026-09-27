@@ -14,6 +14,7 @@ fragen: 38
 einzelfragen: 54
 antwortbloecke: 33
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1502", "21/253", "21/1180", "21/551", "21/1711", "21/1712"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50197"
@@ -806,7 +807,7 @@ Was kostet die Errichtung einer durchschnittlichen StadtRAD-Station?
 
 Was kostet die Anschaffung eines StadtRADs?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Gemäß Betreibervertrag zwischen der Freien und Hansestadt Hamburg und DB Rent GmbH sind die Einrichtungskosten der StadtRAD-Stationen (einschließlich deren Ausstattung mit Fahrrädern) im jährlichen Betreiberentgelt enthalten, dessen Höhe sich an der Anzahl der Stationen orientiert, und somit auf die Vertragslaufzeit verteilt. Einmalige Kosten für die Stationseinrichtung können in Einzelfällen im Rahmen der Flächenherrichtung anfallen, wenn diese einen Betrag von 1.500 Euro überschreiten (zum Beispiel wenn es sich um eine unbefestigte Fläche handelt oder Rodungsarbeiten durchzuführen sind). Bei Einrichtung zusätzlicher StadtRAD-Stationen erhöht sich das Betreiberentgelt um folgende jährliche Nettobeträge, wobei die Abrechnung betriebstagesscharf erfolgt:
 
@@ -933,7 +934,7 @@ Inwieweit lässt sich zahlenmäßig belegen, dass das Fahren auf Radwegen für F
 
 Trifft es zu, dass die Einrichtung von Radfahr- und Schutzstreifen unabhängig von der jeweiligen Kfz- und Schwerverkehrsbelastung bestimmter Straßen zur Verkehrssicherheit von Fahrradfahrern beiträgt? Wenn nein, inwieweit wirken sich verschiedene Niveaus von Kfz- und Schwerverkehrsbelastung auf die Verkehrssicherheit von Fahrradfahren aus und ab welchem Niveau beziehungsweise welchem Wert ist die Einrichtung von Radfahr- und Schutzstreifen unter dem Aspekt der Verkehrssicherheit aus Sicht des Senats beziehungsweise der zuständigen Behörden nicht vertretbar?
 
-#### Antwort zu Fragen 20 bis 21
+#### Antwort zu Fragen 20 und 21
 
 Die Einsatzbereiche für Schutzstreifen (Teilseparation von Kfz- und Radverkehr) und Radfahrstreifen (Separation von Kfz- und Radverkehr) richten sich nach den im ganzen Bundesgebiet allgemein anerkannten technischen Regelwerken. Dies sind die Empfehlungen für Radverkehrsanlagen (ERA) der Forschungsgesellschaft für Straßen- und Verkehrswesen (FGSV). Wesentliches Kriterium für die Wahl der Führungsform ist das Kfz-Aufkommen in der Spitzenstunde in Abhängigkeit von der zulässigen Höchstgeschwindigkeit. Feste Einsatzgrenzen bestehen jedoch nicht, sondern die Wahl der geeigneten Führungsform richtet sich grundsätzlich nach den in Abschnitt
 2.3.3 der ERA gezeigten Belastungsbereichen. Zusätzlich ist die Schwerverkehrsbelastung zu berücksichtigen. Diese sollte bei Schutzstreifen 1.000 Kraftfahrzeuge pro Tag möglichst nicht überschreiten. Der Einsatz von Schutzstreifen erfordert eine Mindestbreite der zwischen den Schutzstreifen verbleibenden Kernfahrbahn von 4,50 Metern. Bei Kernfahrbahnen zwischen 4,50 und 5,50 m besteht die Tendenz, dass mit zunehmender Kfz- und Schwerverkehrsbelastung (ab 10.000 Kfz/24 h) die Realisierungschancen geringer werden, da eine häufigere Mitbenutzung des Schutzstreifens durch den Kfz-Verkehr zu erwarten ist. Für Radfahrstreifen bestehen hier keine Restriktionen, da diese als Sonderweg und nicht als Teil der Fahrbahn zu betrachten sind.
@@ -1082,7 +1083,7 @@ Wie hat sich die Zahl der Ordnungswidrigkeitsverfahren aufgrund von Verkehrsvers
 
 Wie hat sich die Zahl der gegen Radfahrer verhängten Verwarnungsund Bußgelder seit 2011 entwickelt und gegen welche Norm wurde dabei jeweils verstoßen? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 28 bis 29
+#### Antwort zu Fragen 28 und 29
 
 Siehe Anlage.
 
@@ -1224,7 +1225,7 @@ f) Trifft es zu, dass die Aktion „schon gecheckt“ 2015 nicht durchgeführt w
 g) Trifft es zu, dass die Aktion 2015 nicht durchgeführt wird, weil der Innenbehörde die Kapazität dafür fehlt? Wenn ja, warum und wo genau fehlt die Kapazität? Wenn nein, warum nennt der ADFC dies als Grund?
 h) Wird die Aktion „schon gecheckt“ 2015 nicht durchgeführt, weil die zuständigen Behörden der Auffassung sind, dass die Verkehrssicherheit bei der Fahrradnutzung in Hamburg ausreichend gewährleistet ist?
 
-#### Antwort zu Fragen 35 bis 36
+#### Antwort zu Fragen 35 und 36
 
 Die Verkehrssicherheitsaktion „Schon gecheckt“ wurde bis 2014 als eine von zahlreichen Zielgruppenaktionen durch das Referat Verkehrssicherheitsarbeit der Behörde für Inneres und Sport (BIS) betreut. Im Zuge einer Neuorganisation wurde die Aufgabe im Frühjahr 2015 auf den Landesbetrieb Verkehr (LBV) übertragen, um hier eine größere Konstanz herstellen zu können.
 
@@ -1250,7 +1251,7 @@ Wie viel Geld ist 2015/2016 jeweils für die Sanierung von Radwegen in Hamburg i
 
 Wie viel Geld ist seit 2011 für die Sanierung von Radwegen in Hamburg ausgegeben worden und wie viel Geld war dafür jeweils veranschlagt? Bitte jahresweise aufschlüsseln und die Werte für Hamburg gesamt und die einzelnen Bezirke angeben.
 
-#### Antwort zu Fragen 37 bis 38
+#### Antwort zu Fragen 37 und 38
 
 Eine gesonderte Veranschlagung für die bauliche Unterhaltung von Radwegen hat es weder im aktuellen Haushalt 2015/2016 noch für die Jahre 2011 bis 2014 gegeben. Die Unterhaltung, Instandsetzung und Erneuerung von Radwegen ist immer Teil von Titeln beziehungsweise Investitionen und Produktgruppen, aus denen auch andere Maßnahmen finanziert werden können beziehungsweise konnten. Eine Kostenaufschlüsselung nach Verkehrsarten oder Nutzergruppen des Straßenraumes erfolgt bei der integrierten Straßenerhaltung nicht, da immer die Straße als Ganzes betrachtet und alle notwendigen Arbeiten in einer einzigen Baumaßnahme zusammen durchgeführt und daher auch zusammen abgerechnet werden.
 

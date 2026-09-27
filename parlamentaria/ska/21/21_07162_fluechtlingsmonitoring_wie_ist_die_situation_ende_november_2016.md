@@ -14,6 +14,7 @@ fragen: 35
 einzelfragen: 47
 antwortbloecke: 33
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4919", "21/4940", "21/4943", "21/5812", "21/4030", "21/6544", "21/6757", "21/6940", "21/6896", "21/6222", "21/3227", "21/2599"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55771"
@@ -122,7 +123,7 @@ Wie viele Asylverfahren Hamburger Antragsteller wurden im November 2016 mit welc
 
 Wie war die Gesamtschutzquote im November 2016?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung.
 
@@ -152,7 +153,7 @@ Wie viele Personen waren in den Einrichtungen der Erstaufnahme (EA), der Folgeun
 
 Wie viele Plätze gibt es in EA und örU? Bitte nach Standort aufschlüsseln und jeweils Auslastungsquote mit angeben.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Die Belegungszahlen vom 30. November 2016 (Buchungsstand: 30. November 2016) in den Erstaufnahmeeinrichtungen sowie im Ankunftszentrum Rahlstedt sind den folgenden zwei Tabellen zu entnehmen.
 
@@ -336,27 +337,27 @@ gesamt
 
 Im November 2016 haben insgesamt 123 unbegleitete minderjährige Ausländer die Erstaufnahme und Erstversorgung wieder verlassen:
 
- 39 unbegleitete minderjährige Ausländer wechselten in eine Folgeeinrichtung im
+– 39 unbegleitete minderjährige Ausländer wechselten in eine Folgeeinrichtung im
 
 Rahmen einer Hilfe zur Erziehung oder verblieben in ihrer Einrichtung mit neuer Hilfeform.
 
- Bei neun unbegleiteten minderjährigen Ausländern wurde nachträglich die Zustän-
+– Bei neun unbegleiteten minderjährigen Ausländern wurde nachträglich die Zustän-
 
 digkeit eines anderen Bundeslandes festgestellt.
 
- In 28 Fällen erfolgte eine Feststellung der Volljährigkeit.
+– In 28 Fällen erfolgte eine Feststellung der Volljährigkeit.
 
- 14 unbegleitete minderjährige Ausländer haben sich mit unbekanntem Ziel ent-
+– 14 unbegleitete minderjährige Ausländer haben sich mit unbekanntem Ziel ent-
 
 fernt.
 
- Drei unbegleitete minderjährige Ausländer sind zu Verwandten gezogen.
+– Drei unbegleitete minderjährige Ausländer sind zu Verwandten gezogen.
 
- In einem Fall ist ein unbegleiteter minderjähriger Ausländer zu seinem Privatvor-
+– In einem Fall ist ein unbegleiteter minderjähriger Ausländer zu seinem Privatvor-
 
 mund gezogen.
 
- In 29 Fällen wurde eine Verteilung nach § 42 b SGB VIII vollzogen.
+– In 29 Fällen wurde eine Verteilung nach § 42 b SGB VIII vollzogen.
 
 ### Frage 19
 

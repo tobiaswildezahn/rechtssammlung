@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11317", "21/16768"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66667"
@@ -101,7 +102,7 @@ Waren im Gespräch mit C. Steinweg und weiteren Akteuren die Transporte von Uran
 
 MACS und OOCL sind wie Hapag-Lloyd Reedereien, die Uranprodukte im Hafen anlanden beziehungsweise umschlagen. Wurden Gespräche mit den beiden Firmen geführt oder stehen Gespräche an? Wenn ja, wird dann in ihnen auch der Umschlag von Uranerzkonzentrat und UF6 thematisiert?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Gegenstand und Ziel aller geführten Gespräche war es, bei den betroffenen Firmen darauf hinzuwirken, dass sie freiwillig auf den Umschlag von Kernbrennstoffen im Sinne von § 2 Absatz 1 Atomgesetz in Hamburg verzichten. Da alle relevanten Terminalbetreiber einen solchen Verzicht erklärt haben, haben weder Gespräche mit weiteren Firmen stattgefunden noch sind diese vorgesehen.
 

@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13625", "19/2659", "19/6229"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48217"
@@ -130,7 +131,7 @@ Welche „Zielgruppen“ wurden von der Polizei in den jeweiligen Gefahrengebiet
 Welche Änderungen wurden hinsichtlich „Zielgruppen“ und hinsichtlich des räumlichen Geltungsbereichs der Gefahrengebiete „St. Georg“, „St. Pauli“ und „St. Pauli/Vergnügungsviertel“ seit ihrem Bestehen vorgenommen? Bitte Jahr, Grund, anweisende Stelle und entsprechend Frage
 2. genaue räumliche Änderungen angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 19/6229; darüber hinaus hat die Polizei im Jahr 2013 eine Konkretisierung der Zielgruppen in den BtM-Gefahrengebieten wie folgt vorgenommen:
 
@@ -138,41 +139,41 @@ BtM-Gefahrengebiet „St. Georg“ (PK 11)
 
 Für die Zielgruppe „potenzielle Drogendealer“ sind als Merkmale festgelegt:
 
- Person ist bereits als Arzneimittel-/Betäubungsmittelhändler in Erscheinung getre-
+– Person ist bereits als Arzneimittel-/Betäubungsmittelhändler in Erscheinung getre-
 
 ten und dem einschreitenden Beamten als solcher bekannt oder
 
- Personen zeigen aktives Zugehen oder augenscheinliches Warten auf potenzielle
+– Personen zeigen aktives Zugehen oder augenscheinliches Warten auf potenzielle
 
 Betäubungsmittel- und/oder Arzneimittelerwerber oder
 
- Personen zeigen konspiratives Verhalten durch Kontaktaufnahme zu offensichtli-
+– Personen zeigen konspiratives Verhalten durch Kontaktaufnahme zu offensichtli-
 
 chen Betäubungsmittelkonsumenten unter Sicherung nach allen Seiten, enges abgeschirmtes und verdecktes Zusammenstehen mit anderen Personen oder
 
- Personen erwecken den Anschein, dass szenetypische Austauschhandlungen
+– Personen erwecken den Anschein, dass szenetypische Austauschhandlungen
 
 (Austausch von Geld und rauschmittelverdächtigen Substanzen unter verdecktem und abgeschirmtem Zusammenstehen) vorgenommen werden.
 
 Für die Zielgruppe „potenzielle Drogenkonsumenten“ sind als Merkmale festgelegt:
 
- Personen lassen durch ihr äußeres Erscheinungsbild und/oder ihr Verhalten eine
+– Personen lassen durch ihr äußeres Erscheinungsbild und/oder ihr Verhalten eine
 
 Zugehörigkeit zur öffentlich wahrnehmbaren Drogenszene erkennen oder
 
- Personen zeigen konspiratives Verhalten, wie Sicherung nach allen Seiten, enges
+– Personen zeigen konspiratives Verhalten, wie Sicherung nach allen Seiten, enges
 
 abgeschirmtes und verdecktes Zusammenstehen mit anderen Personen oder
 
- Personen nehmen Kontakt zu Angehörigen der öffentlich wahrnehmbaren Drogen-
+– Personen nehmen Kontakt zu Angehörigen der öffentlich wahrnehmbaren Drogen-
 
 szene (siehe oben) auf oder
 
- Personen führen typische Konsumutensilien, wie zum Beispiel benutzte und/oder
+– Personen führen typische Konsumutensilien, wie zum Beispiel benutzte und/oder
 
 unbenutzte Spritzen, Teelöffel, Crackpfeifen, Stahlwolle, kleine Messer zum Zerkleinern, Ascorbinsäure, Ammoniak, Salmiakgeist, Verpackungsmaterial bei sich oder
 
- Personen erwecken den Anschein, dass szenetypische Austauschhandlungen
+– Personen erwecken den Anschein, dass szenetypische Austauschhandlungen
 
 (Austausch von Geld und rauschmittelverdächtigen Substanzen unter verdecktem und abgeschirmtem Zusammenstehen) vorgenommen werden.
 
@@ -180,28 +181,28 @@ BtM-Gefahrengebiet „St. Pauli“ (PK 15)
 
 Für die Zielgruppe „potenzielle Drogendealer“ sind als Merkmale festgelegt:
 
- Alter zwischen 16 und 40 Jahren oder
+– Alter zwischen 16 und 40 Jahren oder
 
- Personen gehen im Gefahrengebiet aktiv auf potenzielle Betäubungsmittelerwer-
+– Personen gehen im Gefahrengebiet aktiv auf potenzielle Betäubungsmittelerwer-
 
 ber zu oder
 
- Personen zeigen durchgängige Präsenz und bewegen sich in großen Teilen des
+– Personen zeigen durchgängige Präsenz und bewegen sich in großen Teilen des
 
 Gefahrengebietes oder
 
- Personen zeigen ein konspiratives Verhalten, indem sie arbeitsteilig vorgehen, sich
+– Personen zeigen ein konspiratives Verhalten, indem sie arbeitsteilig vorgehen, sich
 
 gegenseitig abschirmen und eine Gegenaufklärung durchführen, oder
 
- Personen, die gegenüber der Polizei ein ausgeprägtes Fluchtverhalten zeigen.
+– Personen, die gegenüber der Polizei ein ausgeprägtes Fluchtverhalten zeigen.
 
 Das Spektrum der als Betäubungsmittelkonsumenten auftretenden Personen umfasst nahezu alle Gesellschaftsschichten und kann nicht belastbar an bestimmten Indikatoren festgemacht werden. Gemeinsame Merkmale der von der Polizei als Betäubungsmittelerwerber festgestellten Personen sind
 
- das Aufsuchen bekannter Örtlichkeiten, an denen sich Betäubungsmittelhändler
+– das Aufsuchen bekannter Örtlichkeiten, an denen sich Betäubungsmittelhändler
 
 aufhalten, und/oder
 
- konspiratives Verhalten bei der Ausschau nach Betäubungsmittelhändler.
+– konspiratives Verhalten bei der Ausschau nach Betäubungsmittelhändler.
 
 Hinsichtlich der Zielgruppe für das Gefahrengebiet „PK 15 Vergnügungsviertel St. Pauli (Gewalt)“ ergaben sich keine Veränderungen.

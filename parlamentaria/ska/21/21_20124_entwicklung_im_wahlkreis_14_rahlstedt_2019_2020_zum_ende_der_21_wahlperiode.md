@@ -14,6 +14,7 @@ fragen: 99
 einzelfragen: 116
 antwortbloecke: 89
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16717", "21/15811", "21/19744", "21/19122", "21/18018", "21/3789", "21/12415", "21/19589", "21/15895", "21/20123", "20/7055", "21/19632", "21/14000", "21/15000", "21/16067", "21/18822"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69901"
@@ -643,15 +644,15 @@ Wie viele Personen welcher Religions- oder Kirchenzugehörigkeit leben im Wahlkr
 
 Im Melderegister werden nicht alle Religions- und Kirchenzugehörigkeiten gespeichert, sondern lediglich die nachfolgend genannten:
 
- alt-katholisch,
+– alt-katholisch,
 
- römisch-katholisch,
+– römisch-katholisch,
 
- evangelisch-lutherisch,
+– evangelisch-lutherisch,
 
- jüdisch,
+– jüdisch,
 
- evangelisch-reformiert.
+– evangelisch-reformiert.
 
 Die Personen, deren Zugehörigkeit zu den unten genannten Religionsgesellschaften nicht im Melderegister gespeichert ist, gehören entweder sonstigen Religionsgesellschaften oder keiner Religionsgesellschaft an.
 
@@ -675,7 +676,7 @@ Wie viele Personen leben derzeit in öffentlicher Unterbringung (bitte aufgeteil
 
 Wie viele Flüchtlinge, Asylsuchende und geduldete Personen leben derzeit im Wahlkreis? Wie viele davon in welchen öffentlichen Unterkünften und wie viele in freiem Wohnraum (bitte jährlich im Vergleich der Jahre 2018 bis 2019 auch mit prozentualer Entwicklung angeben)?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Zur Belegung der Erstaufnahmeeinrichtungen im Dezember 2018 siehe Drs. 21/15811. Die Belegung im Dezember 2019 ist dem monatlichen Lagebild Flüchtlinge unter https://www.hamburg.de/sfa-lagebild/12158510/zkf-lagebild-2019/ zu entnehmen.
 
@@ -962,7 +963,7 @@ Wie viele Lehrkräfte unterrichten jeweils an den Schulen (bitte Anzahl der Pers
 
 Wie ist das prozentuale Verhältnis von weiblichen zu männlichen Lehrkräften an den einzelnen Schulen?
 
-#### Antwort zu Fragen 20 bis 21
+#### Antwort zu Fragen 20 und 21
 
 Die erfragten Daten im Wahlkreis 14 zum 31. Dezember 2018 sind der nachfolgenden Übersicht zu entnehmen:
 
@@ -1401,7 +1402,7 @@ Wie viele Polizisten welcher Besoldungsgruppe arbeiten aktuell im Polizeikommiss
 
 Wie viele Stellen sind im PK 38 jeweils unbesetzt (bitte im Vergleich der Jahre 2018 bis 2019 angeben)?
 
-#### Antwort zu Fragen 33 bis 34
+#### Antwort zu Fragen 33 und 34
 
 Siehe Drs. 21/12415, 21/16717 und 21/19589.
 
@@ -1425,7 +1426,7 @@ Wie viele Feuerwehrleute welcher Besoldungsgruppe arbeiten derzeit an den Wachen
 
 Wie viele Stellen sind an den Wachen jeweils unbesetzt (bitte im Vergleich für die Jahre 2018 bis 2019 angeben)?
 
-#### Antwort zu Fragen 36 bis 37
+#### Antwort zu Fragen 36 und 37
 
 Feuer- und Rettungswache Sasel, F24  
 15. Mai 2019  
@@ -1542,7 +1543,7 @@ d. 101 bis 500 Beschäftigten?
 e. 501 bis 1000 Beschäftigten?  
 f. über 1000 Beschäftigten?
 
-#### Antwort zu Fragen 43 bis 44
+#### Antwort zu Fragen 43 und 44
 
 Die Daten werden nicht auf Stadtteilebene ausgewertet.
 
@@ -1953,7 +1954,7 @@ Wie viele Parkbänke befinden sich im Wahlkreis 14 und wie hat sich diese Zahl s
 
 Wie viele dieser Parkbänke haben zu welchem Zeitpunkt welchen Erneuerungsbedarf?
 
-#### Antwort zu Fragen 61 bis 62
+#### Antwort zu Fragen 61 und 62
 
 Die erfragten Daten werden vom zuständigen Bezirksamt statistisch nicht erfasst. Die Erneuerung erfolgt jeweils nach Bedarf und Mittelverfügbarkeit.
 
@@ -2315,7 +2316,7 @@ Wie viele Hunde sind in Rahlstedt 2019 und laufend 2020 registriert?
 
 Wie hat sich die Anzahl der in Rahlstedt registrierten Hunde seit 2018 entwickelt?
 
-#### Antwort zu Fragen 80 bis 81
+#### Antwort zu Fragen 80 und 81
 
 Die Daten zu den registrierten Hunden erhält die zuständige Behörde für das vergangene Jahr innerhalb des 1. Quartals eines jeden Jahres. Die eingegangenen Meldungen werden ausgewertet und adressatengerecht aufbereitet und veröffentlicht. Es erfolgt eine Registrierung nach Bezirken, eine weitere Unterteilung nach Stadtteilen findet in diesem Zusammenhang nicht statt. Für 2019 waren im Bezirk Wandsbek 23 825 Hunde registriert. Zu den Zahlen für 2018 siehe Drs. 21/16717 mit dem Verweis auf Drs. 21/16067.
 
@@ -2327,7 +2328,7 @@ Welche Hundeauslaufzonen befinden sich im Wahlkreis Rahlstedt?
 
 Was planen die zuständigen Behörden, um die in der Globalrichtlinie zur Ausweisung von Hundeauslaufzonen unter 3.2 angeführte Zwei- Kilometer-Umkreisregel im südlichen Rahlstedt zu erfüllen?
 
-#### Antwort zu Fragen 82 bis 83
+#### Antwort zu Fragen 82 und 83
 
 Siehe Drs. 21/16717.
 
@@ -2598,11 +2599,11 @@ Welche Notaufnahmen welcher Krankenhäuser sind für die Aufnahme von Notfallpat
 
 Im Einzugsgebiet des Wahlkreises 14 liegen folgende Plankrankenhäuser mit Zentralen Notaufnahmen:
 
- Asklepios Klinik Wandsbek,
+– Asklepios Klinik Wandsbek,
 
- Katholisches Kinderkrankenhaus Wilhelmstift,
+– Katholisches Kinderkrankenhaus Wilhelmstift,
 
- Evangelisches Amalie Sieveking Krankenhaus.
+– Evangelisches Amalie Sieveking Krankenhaus.
 
 ### Frage 99
 

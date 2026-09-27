@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1403"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49932"
@@ -43,6 +44,6 @@ Wie viele AGs werden an Hamburger Schulen prozentual und in absoluten Zahlen von
 
 Wie viele Schüler, die eine AG an einer Hamburger Schule leiten, sind im Besitz einer gültigen Juleica?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die erfragten Angaben werden weder zentral von der zuständigen Behörde noch von den Schulen erfasst. Eine Erhebung der Angaben würde voraussetzen, dass an 309 allgemeinbildenden Schulen Lehrkräfte die Einrichtung von Arbeitsgruppen (AG) im Rahmen des Unterrichts, von Projekten oder zur Gestaltung des Schullebens außerhalb des Unterrichts erfragen, dokumentieren und Themengebieten zuordnen müssten. In einem nächsten Schritt müsste sodann von den Lehrkräften erfasst werden, ob die AG von Schülerinnen und Schülern geleitet wird und ob diese im Besitz einer gültigen Juleica sind. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.

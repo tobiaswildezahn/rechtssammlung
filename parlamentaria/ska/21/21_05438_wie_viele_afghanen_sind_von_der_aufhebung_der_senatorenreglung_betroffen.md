@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5285"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53927"
@@ -104,7 +105,7 @@ Wurden bereits Afghanen infolge des Wegfalls der Senatorenreglung abgeschoben be
 
 Die Senatorenregelung wurde bereits im Februar 2016 aufgehoben, die Anwendungshinweise liegen aber noch nicht vor. Wie wird derzeit in Bezug auf die Personengruppe verfahren?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Wenn eine Aufenthaltserlaubnis nach der sogenannten Senatorenregelung abläuft, prüft die Ausländerbehörde von Amts wegen, ob eine Erteilung nach einer anderen Rechtsnorm aus dem Bereich der humanitären Aufenthalte möglich ist. Hier kommen insbesondere auch Aufenthaltserlaubnisse nach §§ 25 a und 25 b AufenthG in Betracht. Zur Bearbeitung liegen vorläufige interne Anwendungshinweise vor. Für den Zeitraum der Prüfung erhalten sämtliche Inhaber einer vormals geltenden Aufenthaltserlaubnis nach der sogenannten Senatorenregelung eine Fiktionsbescheinigung nach § 81 Absatz 5 AufenthG. Der bisherige Aufenthaltstitel gilt danach mit allen Auflagen (Beschäftigungserlaubnis und Wohnsitzverpflichtung in Hamburg) vom Zeitpunkt des Ablaufes bis zur Entscheidung der Ausländerbehörde als fortbestehend. Die abgelaufene Aufenthaltserlaubnis wird regelhaft wieder ausgehändigt. Die Fiktionsbescheinigung erlischt mit der Ablehnung der Verlängerung der Aufenthaltserlaubnis oder der Erteilung einer Aufenthaltserlaubnis. Mit dieser Aufenthaltserlaubnis begründet sich ein eigenständiges weiteres Aufenthaltsrecht. Im Falle einer Ablehnung erhalten die Betroffenen eine angemessene Ausreisefrist und für den Fall, dass sie ihrer Ausreiseverpflichtung nicht nachkommen, eine Abschiebeandrohung nach Afghanistan. Kommen die Betroffenen ihrer Ausreiseverpflichtung nicht im Rahmen einer freiwilligen Ausreise nach, erhalten sie nach § 60a Absatz 2 Satz 1 AufenthG eine Duldung aus sonstigen Gründen. Nationalpässe werden nach § 50 Absatz 5 AufenthG in Verwahrung genommen. Entsprechende Arbeitserlaubnisse bleiben weiterhin bestehen. Rückführungen werden derzeit nur im Rahmen der Priorisierung vorbereitet und durchgeführt.
 

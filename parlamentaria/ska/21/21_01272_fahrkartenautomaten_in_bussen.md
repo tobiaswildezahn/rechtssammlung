@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13664", "20/11222", "20/11486", "20/14482"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49459"
@@ -148,7 +149,7 @@ Welche Voraussetzungen müssten die Automaten in Bussen erfüllen, um einen reib
 
 Ist geplant, in Bussen Fahrkartenautomaten aufzustellen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Es ist nicht beabsichtigt, in den Bussen Fahrscheinautomaten aufzustellen. Aus diesem Grund ist nicht näher untersucht worden, welche Voraussetzungen für eine Aufstellung derartiger Geräte erfüllt sein müssen.
 

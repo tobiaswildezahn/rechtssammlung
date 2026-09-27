@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 14
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1906", "21/2232", "21/2599"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55096"
@@ -57,7 +58,7 @@ In wie vielen Fällen mussten seit 2010 Kinder von Kinderschutzhäusern abgewies
 
 In welcher Form erfolgte die Betreuung der Kinder in den jeweiligen Fällen, in denen eine unmittelbare Aufnahme in einem Kinderschutzhaus nicht möglich war? (Bitte aufschlüsseln nach Jahr und Alter des Kindes.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 In allen Fällen konnte eine alternative Unterbringung und damit ein hinreichender Schutz für die Kinder realisiert werden. Die Aufnahme in einem Kinderschutzhaus ist nur eine Möglichkeit der Unterbringung im Rahmen einer Inobhutnahme. Gleichwertig können auch kleine Kinder in Bereitschaftspflegestellen, bei einer geeigneten Person oder einer Einrichtung nach § 34 SGB VIII untergebracht werden.
 

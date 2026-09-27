@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 27
 antwortbloecke: 16
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8541", "21/8501", "21/8007", "21/8929", "21/5306"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58193"
@@ -51,7 +52,7 @@ Wie viele davon hatten zuvor eine Kita besucht und wie viele davon nicht?
 
 Wenn die Zahlen zu 1. und 2. nicht vorliegen: warum nicht?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Bildungsverläufe werden statistisch nicht erfasst, damit liegen im Rahmen der Schuljahresstatistik keine Angaben zum vorherigen Kita-Besuch vor.
 
@@ -169,7 +170,7 @@ Ist es richtig, dass die Problematik verschiedener Rechtskreise eine Zusammenarb
 
 Wenn ja: a. Welche rechtlichen Hürden sind dies konkret? b. Welche Möglichkeiten zur Veränderung gibt es?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Obgleich der Gesetzgeber von einer Kooperation zwischen den Trägern der öffentlichen Jugendhilfe und den Schulen ausgeht (vergleiche § 2 Absatz 3 Hamburger Kinderbetreuungsgesetz/KibeG und § 22a Absatz 2, Satz 1 Nummer 3 und Absatz 5 Sozialgesetzbuch Achtes Buch/SGB VIII), ist eine Übermittlung personenbezogener Daten aus den Kitas an die Schulen aufgrund des Sozialdatenschutzes wegen der besonderen Sensibilität der Dateninhalte (unter anderem Gesundheitsdaten) nur mit vorheriger Einwilligung der Sorgeberechtigten möglich (vergleiche § 33 KibeG in Verbindung mit § 69 Sozialgesetzbuch Zehntes Buch/SGB X). Der Schaffung einer landesrechtlichen Vorschrift zur Gestattung eines vorbehaltlosen Datenaustausches stehen bundes- und verfassungsrechtliche Gründe entgegen, denn der Sozialdatenschutz unterliegt der Gesetzgebungskompetenz des Bundes.
 

@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60164"
@@ -61,7 +62,7 @@ Gibt es Kontakte, Gespräche oder andere Aktivitäten von Asklepios in Bezug auf
 
 Gibt es einen Aufnahmeantrag der Asklepios Kliniken Hamburg für die AVH? Falls ja, wann wurde er eingereicht und wie wurde er entschieden beziehungsweise wann wird darüber entschieden werden?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Am 16. September 2016 haben sich die AKHH bei der AVH e.V. nach den Möglichkeiten und dem Verfahren eines Beitritts erkundigt. Nach weiteren Vorgesprächen und in Abstimmung mit den Gewerkschaften ver.di und Marburger Bund hat die AKHH am
 17. Oktober 2017 einen Gast-Mitgliedschaftsantrag eingereicht, dem die AVH e.V. am

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 19
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7421", "21/8667", "21/8556", "21/8210", "21/5832", "21/8434"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57568"
@@ -126,15 +127,15 @@ Mit dem US steht Hamburger Unternehmen eine zentrale Anlaufstelle zur Unterstüt
 
 Unterstützung bedeutet:
 
- die Aufnahme von Bedarfen und Angeboten von Arbeitgebern im Hinblick auf Prak-
+– die Aufnahme von Bedarfen und Angeboten von Arbeitgebern im Hinblick auf Prak-
 
 tika, Arbeitsplätze und Ausbildungsplätze (letzteres in Kooperation mit der Jugendberufsagentur),
 
- die sprachlich und interkulturell geschulte Beratung und Information von Unter-
+– die sprachlich und interkulturell geschulte Beratung und Information von Unter-
 
 nehmen zu Potenzialen der Flüchtlinge und den Rahmenbedingungen für diese Zielgruppe,
 
- bei Bedarf die sprachlich und interkulturell geschulte Begleitung von Arbeits-, Aus-
+– bei Bedarf die sprachlich und interkulturell geschulte Begleitung von Arbeits-, Aus-
 
 bildungs- und Praktikumsverläufen bewerber- und arbeitgeberseitig „aus einer Hand“.
 

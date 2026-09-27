@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 24
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68674"
@@ -182,7 +183,7 @@ Welche Verspätungen gelten als „unvorhergesehene“ Verspätungen?
 
 Wie wird das beim HVV häufig vorkommende Umsteigen berücksichtigt?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Siehe Vorbemerkung.
 
@@ -194,7 +195,7 @@ Welchen Einfluss hat die persönliche Situation des Antragstellers (gehbehindert
 
 Wird die persönliche Situation des Antragstellers erfasst? Wenn ja: in welcher Form? Wenn nein: warum nicht?
 
-#### Antwort zu Fragen 13 bis 14
+#### Antwort zu Fragen 13 und 14
 
 Die individuelle Mobilitätssituation der Antragstellerinnen und Antragsteller kann nicht berücksichtigt werden, da dies vom HVV nicht nachgewiesen beziehungsweise überprüft werden kann.
 

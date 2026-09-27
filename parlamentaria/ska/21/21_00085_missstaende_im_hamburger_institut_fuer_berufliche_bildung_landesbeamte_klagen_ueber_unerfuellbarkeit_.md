@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 8
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12816", "20/4195", "19/8472"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48216"
@@ -139,7 +140,7 @@ Welche unterrichtsrelevanten, eigentlich den Schulen zugewiesenen Stellen wurden
 
 Aufgrund welcher Kriterien und nach durchlaufen welcher Ausschreibungs- sowie Auswahlverfahren im Rahmen der Bestenauslese wurden die unter 3. angegebenen Kolleginnen und Kollegen im HIBB eingesetzt? Bitte getrennt nach Schulen und Schuljahren fortlaufend ab dem Schuljahr 2010/2011 auflisten.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Eine Überleitung von Stellen hat bisher nur im Zusammenhang mit der Einrichtung der Jugendberufsagentur gemäß Drs. 20/4195 zum 1. September 2012 im Umfang von 17 Stellen stattgefunden. Diese Maßnahme hat die Versorgungssituation der berufsbildenden Schulen nicht verschlechtert, da zum 1. August 2012 im gleichen Umfang eine Stellenanpassung in der Wirtschaftsplanung des HIBB etatisiert war (siehe hierzu Drs. 19/8472, Anlage 2, Maßnahme 2.1.1).
 
@@ -229,57 +230,57 @@ Beschreibung der Kernaufgaben für die Schulaufsichten in der Abteilung Steuerun
 
 Kernaufgaben
 
-  
+–  
 Dienst-, Rechts- und Fachaufsicht des Aufsichtsbereichs  
-  
+–  
 Dienstvorgesetzte/r der Schulleiterin bzw. des Schulleiters  
-  
+–  
 Personalentwicklung Leitungskräfte  
-  
+–  
 Steuerung der Qualitätsentwicklung in den Schulen im Wesentlichen über
 
-Ziel-Leistungsvereinbarungen  Controlling im Wesentlichen über Jahresberichterstattung (Implementierung
+Ziel-Leistungsvereinbarungen – Controlling im Wesentlichen über Jahresberichterstattung (Implementierung
 
-bildungspolitischer Vorhaben, vereinbarter Kennzahlen in den Bildungsgängen und der Zweckmäßigkeit der Ressourcenverwendung)  Koordination der Schulentwicklungen im Berufsbildungsbereich  Personalauswahl, -entwicklung und Beurteilungen für die Schulleitungen und
+bildungspolitischer Vorhaben, vereinbarter Kennzahlen in den Bildungsgängen und der Zweckmäßigkeit der Ressourcenverwendung) – Koordination der Schulentwicklungen im Berufsbildungsbereich – Personalauswahl, -entwicklung und Beurteilungen für die Schulleitungen und
 
 die im Referat zugeordneten Mitarbeiter  
-  
+–  
 Information an andere Stellen  
-  
+–  
 Pflege des Internetauftritts für die jeweilige Querschnittsaufgabe  
-  
+–  
 Genehmigung von Prüfungsaufgaben  
-  
+–  
 Prüfungsvorsitz, Vorsitz 2. Staatsprüfung  
-  
+–  
 Genehmigung der Zulassung zu externen Prüfungen  
-  
+–  
 Durchführung der Schüler- und Personalorganisation für den Aufsichtsbereich  
-  
+–  
 Mitwirkung an Entwicklung und Implementierung neuer bildungspolitischer
 
-Vorhaben  Beratung und Unterstützung der Schulleitungen
+Vorhaben – Beratung und Unterstützung der Schulleitungen
 
-  
+–  
 bei der Schulentwicklung insbesondere bei der Umsetzung des Konzepts  
 der selbstverantwortlichen Schule  
-  
+–  
 in Auswahlverfahren für Leitungspersonal in den Schulen  
-  
+–  
 in pädagogischen Fragen (nachfrageorientiert)  
-  
+–  
 in Konfliktfällen  
-  
+–  
 Mitwirkung bei der fachlichen Prüfung der Genehmigung neuer Privatschulen  
-  
+–  
 Mitwirkung bei der Schul- und Bildungsgangentwicklung  
-  
+–  
 Kommunikation, Kooperation und Konfliktmanagement in Angelegenheiten
 
 der beruflichen Schulen  
-  
+–  
 mit der Wirtschaft (Kammern, Innungen, Verbände, Ausbildungsbetriebe)  
-  
+–  
 mit Behörden, Dienststellen und Gremien  
-  
+–  
 mit den weiteren Berufsbildungsbereichen

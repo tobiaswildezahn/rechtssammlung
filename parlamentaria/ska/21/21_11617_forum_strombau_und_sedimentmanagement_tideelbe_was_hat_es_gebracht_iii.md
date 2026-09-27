@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9182"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60853"
@@ -51,11 +52,11 @@ Wofür sind der HPA konkret Kosten in welcher Höhe im Jahr 2017 für das „For
 
 Im Jahr 2017 sind der HPA folgende Kosten für das „Forum Tideelbe“ entstanden:
 
- Personalkosten für die Leitung der Geschäftsstelle (eine Stelle A15),
+– Personalkosten für die Leitung der Geschäftsstelle (eine Stelle A15),
 
- Kosten für die Moderation von Dialogformaten in Höhe von 4.200 Euro,
+– Kosten für die Moderation von Dialogformaten in Höhe von 4.200 Euro,
 
- Miet- und Umzugskosten der Geschäftsstelle in Höhe von 17.697,15 Euro.
+– Miet- und Umzugskosten der Geschäftsstelle in Höhe von 17.697,15 Euro.
 
 ### Frage 2
 

@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 5
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58149"
@@ -45,7 +46,7 @@ Wie hat sich Anzahl der Kreuzfahrtpassagiere in den Jahren 2013 bis 2017 entwick
 
 Wie hat sich die Zahl der Übernachtungen auf Kreuzfahrtschiffen im Hamburger Hafen gemessen an den Liegezeiten seit 2013 pro Jahr entwickelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Jahr  
 2013  

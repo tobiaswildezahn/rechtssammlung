@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 25
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/5157", "19/6977"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50589"
@@ -75,11 +76,11 @@ Ist eine Abstimmung der Planungen mit dem Bund erfolgt? Wenn, ja wie ist das Erg
 
 Für die noch ausstehenden Sanierungsarbeiten sind folgende Bautermine vorgesehen:
 
- Abschnitte Vahrendorfer Stadtweg bis AS-Marmstorf-Lürade: 2018 (gesamte Stre-
+– Abschnitte Vahrendorfer Stadtweg bis AS-Marmstorf-Lürade: 2018 (gesamte Stre-
 
 cke)
 
- Sunderweg bis Hohe Straße (ohne Kreuzungen Friedhofstraße und Ernst-
+– Sunderweg bis Hohe Straße (ohne Kreuzungen Friedhofstraße und Ernst-
 
 Bergeest-Weg): ab 2018 voraussichtlich in zwei Abschnitten.
 
@@ -157,7 +158,7 @@ Wann ist mit einer Fertigstellung der Baumaßnahmen für die Kreuzung Bremer Str
 
 Aus welchen Gründen kam es zu einer Verzögerung bei der Fertigstellung der Baumaßnahmen zur ursprünglichen Planung?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Die Bremer Straße wurde termingerecht und die Friedhofstraße circa zwei Wochen vorzeitig fertiggestellt. Terminverschiebungen gibt es bei der Herstellung der Einmündungsbereiche Ernst-Bergeest-Weg/Bremer Straße und Am Großen Dahlen/Bremer Straße.
 

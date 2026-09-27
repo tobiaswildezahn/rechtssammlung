@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 22
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5665"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55109"
@@ -43,7 +44,7 @@ Wie ist die Struktur der salafistischen Szene gegenwärtig in Hinblick auf die S
 
 Wie viele von ihnen verfügen über die doppelte Staatsbürgerschaft?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Angehörigen der salafistischen Szene stehen im besonderen Fokus des Landesamts für Verfassungsschutz (LfV) Hamburg. Die Zahlen unterliegen aufgrund der sich ständig verändernden Informationslage, datenschutzrechtlicher Pflegemaßnahmen der gespeicherten Daten sowie Länderzuständigkeiten einer ständigen Fluktuation. Zum Zeitpunkt der Beantwortung der Anfrage waren beim LfV Hamburg 660 Personen als Salafisten gespeichert.
 
@@ -95,7 +96,7 @@ Wie viele russische Staatsbürger sind seit dem 1. Januar 2016 in Hamburg regist
 
 Wie hoch fällt der Vergleichswert für 2015 aus?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Das Statistikamt Nord erhält halbjährlich – jeweils zum 30. Juni und 31. Dezember – einen Gesamtabzug des Melderegisters und wertet dieses aus. Das Ergebnis der Auswertung nach russischen Staatsangehörigen und den Stichtagen 30. Juni 2015,
 31. Dezember 2015 und 30. Juni 2016 stellt sich wie folgt dar:
@@ -161,7 +162,7 @@ In wie vielen Fällen lassen sich religiöse Motive nachweisen?
 
 Wie oft liegt den Verurteilungen nicht religiöse Kriminalität zugrunde?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der Umstand, ob eine Tatbegehung religiös motiviert ist, wird im Vorgangsbearbeitungs- und Vorgangsverwaltungssystem MESTA nicht erfasst. Zur Beantwortung der Frage müssten sämtliche in der Antwort zu 5. genannten Verfahren ausgewertet werden. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

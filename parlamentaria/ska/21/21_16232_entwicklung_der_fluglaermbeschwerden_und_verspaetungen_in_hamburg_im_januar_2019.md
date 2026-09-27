@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 12
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15828", "21/10688", "21/14477"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65744"
@@ -180,7 +181,7 @@ Wie viele An- und Abflüge gab es im Monat Januar 2019 insgesamt am Hamburger Fl
 
 Wie viele An- und Abflüge gab es im Monat Januar 2019 insgesamt am Hamburger Flughafen und wie haben sich diese auf die einzelnen Startund Landebahnen verteilt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Starts
 
@@ -286,13 +287,13 @@ Wie viele Landungen fanden im Monat Januar 2019 über die Landebahn RWY23 statt?
 
 #### Antwort zu Frage 11
 
- 7 – 22 Uhr,
+– 7 – 22 Uhr,
 
- 22 – 23 Uhr,
+– 22 – 23 Uhr,
 
- 23 – 6 Uhr,
+– 23 – 6 Uhr,
 
- 6 – 7 Uhr.
+– 6 – 7 Uhr.
 
 Uhrzeit Landungen
 

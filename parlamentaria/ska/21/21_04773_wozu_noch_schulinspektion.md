@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 14
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/3780"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53194"
@@ -56,7 +57,7 @@ geplant?
 Wenn ja, in welcher Form und für wann?  
 Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Öffentlichkeit ist im Jahr 2015 im Rahmen der in der Vorbemerkung genannten Veröffentlichung umfassend über Befunde und Ergebnisse der Hamburger Schulinspektion informiert worden (Pietsch, M., Scholand, B. und Schulte, K. (2015.), Schulinspektion in Hamburg. Der erste Zyklus 2007–2013: Grundlagen, Befunde, Perspektiven. Münster: Waxmann), siehe https://www.waxmann.com/fileadmin/ media/zusatztexte/3278Volltext.pdf. Über die bisherigen Jahresberichte hinausgehend werden dort die Daten aller Hamburger Schulen ausgewertet. Nach dieser Gesamtauswertung des 1. Zyklus erfolgt nun wieder eine auf einzelne Schuljahre bezogene Jahresberichterstattung bis zur Vollendung des 2. Zyklus. Der kommende Jahresbericht, der auf Daten aus dem Schuljahr 2014/2015 basiert, wird kurz nach den Sommerferien dieses Jahres erscheinen.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5517", "20/393"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58869"
@@ -68,7 +69,7 @@ Wie viele dieser Störungen sind in Hamburg jeweils in welchem Jahr bei einem St
 
 Wie viele dieser Anklagen haben jeweils in welchem Jahr zu welcher Verurteilung geführt?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Im angefragten Zeitraum wurde von der Staatsanwaltschaft Hamburg keine Anklage wegen § 315 des Strafgesetzbuches (StGB) erhoben, die einen gefährlichen Eingriff in
 

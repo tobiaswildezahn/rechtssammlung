@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50995"
@@ -61,7 +62,7 @@ Wie hoch ist das Verkehrsaufkommen zwischen Neu Wulmstorf und Finkenwerder?
 
 Wie viele Fahrgäste würden die neue Buslinie nutzen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Zum Verkehrsaufkommen zwischen Neu Wulmstorf und Finkenwerder liegen keine Daten vor.
 

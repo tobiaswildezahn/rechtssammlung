@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 20
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6783", "20/11117"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50716"
@@ -105,7 +106,7 @@ Welche unvorhergesehenen Komplikationen bei den Sanierungsarbeiten sind aufgetre
 
 Welche konkreten Maßnahmen sind erforderlich, um die unvorhergesehenen Komplikationen zu beheben? Wie hoch sind dabei die jeweils erforderlichen Mehrkosten? Sofern möglich bitte nach DIN 276 differenziert angeben.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Da die Sanierungsarbeiten am unteren Tunnelquerschnitt der Oströhre erst beginnen, sind unvorhergesehene Komplikationen nicht aufgetreten. Im Übrigen siehe Vorbemerkung.
 

@@ -13,9 +13,10 @@ seiten: 1
 fragen: 0
 einzelfragen: 0
 antwortbloecke: 0
-beantwortet: true
+beantwortet: false
+status: "zurückgezogen"
 zitierte_drucksachen: []
-format_erkannt: false
+format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/90192"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/90192/22_17834_chaos_auf_den_strassen_der_hansestadt_warum_verweigert_der_senat_die_auskunft_zur_anzahl_der_baustellen_in_hamburg_hier_hoheluft_west"
 abgerufen: "2026-09-24"
@@ -24,11 +25,9 @@ generator: "ska_archiv 1.0"
 
 # Drs. 22/17834: Chaos auf den Straßen der Hansestadt: Warum verweigert der Senat die Auskunft zur Anzahl der Baustellen in Hamburg. Hier: Hoheluft West?
 
-> Schriftliche Kleine Anfrage des Abgeordneten Richard Seelmaecker (CDU) vom 04.02.25 und Antwort des Senats · Drucksache vom 04.02.2025  
+> Schriftliche Kleine Anfrage des Abgeordneten Richard Seelmaecker (CDU) vom 04.02.25 · zurückgezogen · Drucksache vom 04.02.2025  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/90192) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/90192/22_17834_chaos_auf_den_strassen_der_hansestadt_warum_verweigert_der_senat_die_auskunft_zur_anzahl_der_baustellen_in_hamburg_hier_hoheluft_west)
 
-## Volltext
-
-Chaos auf den Straßen der Hansestadt: Warum verweigert der Senat die Auskunft zur Anzahl der Baustellen in Hamburg. Hier: Hoheluft West?
+## Hinweis
 
 Die Anfrage wurde zurückgezogen.

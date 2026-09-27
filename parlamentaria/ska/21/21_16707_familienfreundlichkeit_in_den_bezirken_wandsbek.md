@@ -14,6 +14,7 @@ fragen: 39
 einzelfragen: 60
 antwortbloecke: 33
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3659"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66248"
@@ -797,7 +798,7 @@ Wie hoch ist der Anteil an Kindern mit Sprachstörung bei der Einschulung?
 
 Wie hoch ist der Anteil an Kindern mit Sprachstörung in der fünften Klasse?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Der Anteil der Schülerinnen und Schüler der Jahrgangsstufe 1 beziehungsweise 5 mit Wohnort im Bezirk Wandsbek und dem sonderpädagogischen Förderbedarf Sprache nach Stadtteil (Wohnort) und deren Anteil an allen Schülerinnen und Schülern in Hamburg, dem jeweiligen Bezirk oder Stadtteil unter Gegenüberstellung der höchsten und niedrigsten Anteile im Bezirks- wie auch im Stadtteilvergleich für die Schuljahre 2016/2017 und 2017/2018 ergeben sich aus der Anlage 8.
 
@@ -992,7 +993,7 @@ Wie hoch ist das Verhältnis von Sportstätten a. je 1 000 Einwohner? b. je 1 00
 
 Wie hoch ist das Verhältnis von Sportfläche a. je 1 000 Einwohner? b. je 1 000 Einwohner unter 18 Jahren?
 
-#### Antwort zu Fragen 20 bis 21
+#### Antwort zu Fragen 20 und 21
 
 Bei der Beantwortung der Fragen 20. a. bis 21. b. wurden Daten der „städtischen Sportstätten bzw. Sportanlagen“ (siehe Drs. 21/3659) sowie der Schulsporthallen zugrunde gelegt. Für 2019 liegen keine aktuellen Zahlen vor. Im Übrigen siehe Anlage
 13. Die höchsten und niedrigsten Werte der erfragten Daten sind jeweils fett hervorgehoben.
@@ -1549,7 +1550,7 @@ Wie hoch ist das Verhältnis von verletzten Kindern im Straßenverkehr a. je 1 0
 
 Wie hoch ist das Verhältnis von getöteten Kindern im Straßenverkehr a. je 1 000 Einwohner? b. je 1 000 Einwohner unter 18 Jahren?
 
-#### Antwort zu Fragen 30 bis 31
+#### Antwort zu Fragen 30 und 31
 
 Für das Berichtsjahr 2018 liegen die Daten erst Mitte April 2019 vor.
 
@@ -1949,7 +1950,7 @@ Wie hoch ist die Frauenerwerbsquote?
 
 Wie hoch ist die Männererwerbsquote?
 
-#### Antwort zu Fragen 37 bis 38
+#### Antwort zu Fragen 37 und 38
 
 Zur Frauen- beziehungsweise Männererwerbsquote liegen dem Statistikamt Nord Daten aus dem Mikrozensus vor. Beim Mikrozensus handelt es sich um eine Stichprobenerhebung mit einer geringen zugrunde liegenden Fallzahl, die zudem mit Stichprobenfehlern behaftet ist. Dies hängt damit zusammen, dass im Rahmen der Auswertung die ermittelten Merkmale der Ein-Prozent-Stichprobe auf die Gesamtheit hochgerechnet werden und in der Folge bei Daten mit geringer Fallzahl Zufallsfehler stark ins Gewicht fallen.
 

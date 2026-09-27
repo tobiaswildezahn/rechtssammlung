@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 22
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11859"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62131"
@@ -141,7 +142,7 @@ Bestehen Pläne seitens der zuständigen Behörde zur Ausweitung der Gebiete, in
 
 Planen der Senat beziehungsweise die zuständigen Behörden konkrete Maßnahmen, um die Zahl der Angriffe mit Messern zu verringern? Falls ja, welche? Falls nein, weshalb halten Senat beziehungsweise zuständige Behörden es nicht für erforderlich, verstärkt gegen Straftaten mit Messern vorzugehen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Polizei wertet kontinuierlich die Entwicklung der Sicherheitslage in der Stadt aus, um ihre Maßnahmen und Konzepte fortlaufend an die aktuelle Lage anzupassen. In diese Bewertungen werden auch Ereignisse wie der Einsatz von Messern einbezogen, entsprechend auch die Ereignisse der letzten Zeit. Die bisherigen Maßnahmen der Polizei sind darauf gerichtet, die Sicherheit der Bürgerinnen und Bürger in der Stadt zu gewährleisten, dies beinhaltet auch den Schutz vor dem Einsatz von Messern. Die fachlichen Bewertungen, inwieweit Anpassungen von Maßnahmen und Konzepten geeignet und erforderlich sind, sind noch nicht abgeschlossen.
 

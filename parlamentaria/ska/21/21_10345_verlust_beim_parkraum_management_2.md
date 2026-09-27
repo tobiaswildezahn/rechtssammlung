@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10249"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59182"
@@ -125,7 +126,7 @@ Wie war die Personalausstattung des Parkraummanagements und seiner Vorgänger im
 
 Wie war die Personalausstattung des Parkraummanagements und seiner Vorgänger in den Jahren 2015 – 2017 in VZÄ? (Der Senat gibt in seiner Antwort auf meine Frage 4. in der Drs. 21/10249 nicht an, ob es sich um VZÄ handelt.)
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Jahr  
 VZÄ zum Stichtag 30.06.:  

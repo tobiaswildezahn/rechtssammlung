@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/2948", "21/6800", "21/11981", "21/11832"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/62365"
@@ -49,11 +50,11 @@ Sport leistet entscheidende, positive Beiträge für den Zusammenhalt der Gesell
 
 Der Senat fördert die Entwicklung und die Erhaltung der Sportinfrastruktur im Rahmen der Ziele der Dekadenstrategie HAMBURGmachtSPORT (siehe Drs. 20/2948). Schwerpunkte sind dabei
 
- der Neubau und die Modernisierung öffentlicher Sportanlagen,
+– der Neubau und die Modernisierung öffentlicher Sportanlagen,
 
- der Neubau und die Modernisierung von Schulsporthallen an staatlichen Schulen,
+– der Neubau und die Modernisierung von Schulsporthallen an staatlichen Schulen,
 
- die Förderung des organisierten Sports im Rahmen des Sportfördervertrags der
+– die Förderung des organisierten Sports im Rahmen des Sportfördervertrags der
 
 Freien und Hansestadt Hamburg mit dem Hamburger Sportbund e.V. (HSB) und dem Hamburger Fußball-Verband e.V. (HFV).
 

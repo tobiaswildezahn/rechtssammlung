@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 2
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6433"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55180"
@@ -43,7 +44,7 @@ Inwieweit ist die Teilnahme an einer „Al-Quds-Demonstration“ nach Auffassung
 
 Welche Konsequenzen hat dieses Verhalten vor dem Hintergrund des oben genannten Vertrags für das IZH und die SCHURA?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Vor dem Hintergrund der in der Drs. 21/6433 genannten Umstände wird der Senat die Aktivitäten zu gegebener Zeit auch im Hinblick auf ihre rechtlichen Konsequenzen für die vertraglichen Beziehungen bewerten. Dem parlamentarischen Fragerecht korrespondiert ein Anspruch auf diesbezügliche Festlegungen weder in sachlicher noch zeitlicher Hinsicht (vergleiche Thüringer Verfassungsgerichtshof, Urteil vom
 19.12.2008 – 35/07 –, juris Rn. 177).

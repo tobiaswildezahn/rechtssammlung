@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6246", "21/6642"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60258"
@@ -69,7 +70,7 @@ Laut Drs. 21/6246 hängt die Installation von WLAN hauptsächlich von der Verfü
 
 Gibt es weitere Gründe, warum Unterkünfte bisher nicht mit flächendeckendem nutzerkostenlosem WLAN ausgestattet sind?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 In nahezu allen Unterkünften liegt lediglich eine Netzanbindung vor, damit die Versorgung des Verwaltungsbereiches der Unterkünfte gewährleistet wird. Diese Netzanbindung kann unter anderem aufgrund des Datenvolumens nicht für die Versorgung der Bewohnerinnen und Bewohner mit WLAN mitgenutzt werden. f & w hat 2017 Pilotierungen für vier Einrichtungen vorgenommen, um Eckwerte für den Standard einer Ausstattung als Grundlage für die Leistungsbeschreibung einer EU-weiten Ausschreibung zu ermitteln.
 
@@ -107,6 +108,6 @@ Wie ist der aktuelle Sachstand bei f & w fördern & wohnen AöR in Bezug auf die
 
 Bezogen auf Drs. 21/6246 stellt der Senat fest, dass die „Möglichkeiten der Umsetzung (nutzerkostenfreier WLAN-Verbindungen) durch f & w für Folgeunterkünfte aufgrund der bestehenden Verträge beschränkt sind.“ Bitte legen Sie dar, worin diese Beschränkungen bestehen und welche Maßnahmen getroffen werden müssten, um diese Beschränkungen aufzuheben.
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Entgegen der ursprünglichen Planung gemäß Drs. 21/6642 werden die IT-Dienste, die f & w zur Unterstützung der eigenen Arbeit benötigt, und die Bereitstellung von WLAN für die Bewohnerinnen und Bewohner getrennt voneinander weiter verfolgt. Das Vergabeverfahren für den Betrieb der internen IT-Dienste ist inzwischen abgeschlossen, der Dienstleister ausgewählt. Das Vergabeverfahren war erforderlich, da der Vertrag auslief und sich der Leistungsumfang erhöht hat. Für die Vergabe der WLAN- Leistungen wurden die Informationen der Leistungsbeschreibung für alle Folgeunterkünfte erhoben. Zurzeit erfolgen Behördenabstimmungen für die Durchführung des Vergabeverfahrens im Jahr 2018. Im Übrigen sind die Planungen hierzu noch nicht abgeschlossen.

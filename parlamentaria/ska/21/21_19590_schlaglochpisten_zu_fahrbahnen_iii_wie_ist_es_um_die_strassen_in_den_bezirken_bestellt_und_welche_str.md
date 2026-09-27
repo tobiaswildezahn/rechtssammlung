@@ -12,8 +12,9 @@ vorgang: 63195
 seiten: 23
 fragen: 8
 einzelfragen: 7
-antwortbloecke: 6
+antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/12968", "21/18873", "21/11571", "21/15704", "21/5922"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69319"
@@ -31,9 +32,13 @@ generator: "ska_archiv 1.0"
 
 Für Bau, Grundinstandsetzung und Sanierung der Bezirksstraßen sind die Bezirksämter, hier die Fachämter Management des öffentlichen Raums, selbst zuständig. Zu diesem Zweck existieren dort entsprechende „Maßnahmenspeicher“ beziehungsweise Maßnahmenkataloge.
 
+## Fragen und Antworten
+
+### Frage 1
+
 Vor diesem Hintergrund frage ich den Senat:
 
-## Einleitung für die Antworten des Senats
+#### Antwort zu Frage 1
 
 Mit circa 774 km hat der Senat seine Zielmarke von Instandsetzung von 500 km Fahrbahn deutlich übertroffen. Dazu wurde das Erhaltungssystem für die Hauptverkehrsstraßen eingeführt und nach erfolgreicher Implementierung auf die Bezirksstraßen mit gesamtstädtischer Bedeutung ausgeweitet. Bei den Bezirksstraßen mit gesamtstädtischer Bedeutung handelt es sich um Straßen, die keine Hauptverkehrsstraßen sind, aber dennoch übergeordnete Verkehrsbedeutung haben.
 
@@ -48,8 +53,6 @@ Die übrigen Bezirksstraßen wurden in den Jahren 2016 und 2017 erstmalig befahr
 Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
 
 Welche Straßenbau-, Straßeninstandsetzungs- und Straßensanierungsmaßnahmen sind aktuell und seit wann jeweils in den „Maßnahmenspeichern“ beziehungsweise Maßnahmenkatalogen der Fachämter Management des öffentlichen Raumes der Bezirksämter mit welchem Status jeweils gelistet? Bitte nach Bezirken aufschlüsseln.
-
-## Fragen und Antworten
 
 ### Frage 2
 
@@ -126,7 +129,7 @@ b) grundinstand gesetzt,
 c) (oberflächlich) saniert  
 werden? Bitte nach Bezirken aufschlüsseln.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/5922, 21/12968 und 21/18873.
 

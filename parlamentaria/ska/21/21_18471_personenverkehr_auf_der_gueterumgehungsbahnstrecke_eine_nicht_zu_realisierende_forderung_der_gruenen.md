@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68123"
@@ -51,7 +52,7 @@ Wie wird die Auslastung von Bahnstrecken bestimmt? Wann ist eine Bahnstrecke sta
 
 Gibt es Auslastungskategorien, in denen die einzelnen Bahnstrecken eingeordnet werden? Wenn ja, wie lauten diese?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Nutzungsgrad von Strecken wird bei der DB Netz AG nicht durch Auslastungskategorien beschrieben. Vielmehr wird bei der Bewertung von Strecken auf qualitative Parameter gemäß einer internen Richtlinie abgestellt. Dabei werden die Kategorien „Premium“, „Betriebswirtschaftlich optimal“, „Risikobehaftet“ und „Mangelhaft“ unterschieden. Eine entsprechende Untersuchung der DB AG für die Güterumgehungsbahn liegt aufgrund der maßgeblichen Nutzung durch den Schienengüterverkehr nicht vor.
 
@@ -71,6 +72,6 @@ Wie bewertet die zuständige Behörde eine zusätzliche Nutzung der Güterumgehu
 
 Würden die metronom-Züge die Güterumgehungsbahnstrecke blockieren, wenn diese bis Barmbek fahren, dort eine gewisse Zeit stehen bleiben und dann wieder zurückfahren? Wie bewertet die zuständige Behörde diesen Umstand?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Vorbemerkung.

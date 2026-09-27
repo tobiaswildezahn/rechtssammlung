@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 21
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11293"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65020"
@@ -86,7 +87,7 @@ Wer war federführend für die Einladungen zu der Konferenz und somit entscheide
 
 Wie setzte sich der Teilnehmerkreis im Einzelnen zusammen? Bitte alle vertretenen Behörden, Vereine, Verbände und Institutionen nebst Teilnehmerzahl angeben.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Einladung erfolgte durch Mitarbeiterinnen und Mitarbeiter des „Projekt Biber“.
 
@@ -159,7 +160,7 @@ Wurden darüber hinaus Vereinbarungen getroffen, zu deren Umsetzung sich die Kon
 
 Für welchen Zeitpunkt ist vorgesehen, die Umsetzung etwaiger Beratungsergebnisse zu evaluieren beziehungsweise eine Neubewertung der Situation hinsichtlich Nutrias vorzunehmen? Gibt es bereits Planungen oder einen Termin für eine weitere Konferenz zu diesem Thema?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Ziel der Veranstaltung waren lediglich die Information und der Austausch der verschiedenen Akteure untereinander.
 

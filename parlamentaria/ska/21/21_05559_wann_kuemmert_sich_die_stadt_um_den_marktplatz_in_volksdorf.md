@@ -11,9 +11,10 @@ fraktionen: ["CDU"]
 vorgang: 49446
 seiten: 2
 fragen: 7
-einzelfragen: 13
-antwortbloecke: 4
+einzelfragen: 15
+antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54054"
@@ -84,13 +85,23 @@ Die konsumtiven Maßnahmen sollen aus der für den Wochenmarkt Volksdorf zugeord
 ### Frage 7
 
 Außerhalb der Marktzeiten wird der Marktplatz als Parkplatz genutzt. Gemäß einer Mitteilung im „Amtlichen Anzeiger“ vom 12.07.2016 beabsichtigt das zuständige Bezirksamt, die Fläche nun dem öffentlichen Parkverkehr für Kraftfahrzeuge mit einem zulässigen Gesamtgewicht bis zu 3,5t zu widmen.
-7.1. Warum soll jetzt eine entsprechende Widmung der Fläche nach dem Wegegesetz erfolgen?
-7.2. Welche rechtlichen und praktischen Auswirkungen hat die beabsichtige Widmung für die Nutzer der Fläche, die Marktbeschicker sowie die Stadt als Grundeigentümer?
 
-#### Antwort zu Frage 7
+### Frage 7.1
+
+Warum soll jetzt eine entsprechende Widmung der Fläche nach dem Wegegesetz erfolgen?
+
+### Frage 7.2
+
+Welche rechtlichen und praktischen Auswirkungen hat die beabsichtige Widmung für die Nutzer der Fläche, die Marktbeschicker sowie die Stadt als Grundeigentümer?
+
+#### Antwort zu Fragen 7, 7.1 und 7.2
 
 Für Parkplatzsuchende mit Fahrzeugen kleiner als 3,5 Tonnen, Marktbeschicker und Veranstaltungen hat die Widmung keine Auswirkungen. Die Freie und Hansestadt Hamburg (FHH) hat allerdings nach erfolgter Widmung die rechtliche Möglichkeit, unerwünschtes beziehungsweise widerrechtliches Parken von Lkws und ähnlichen Fahrzeugen größer als 3,5 Tonnen zu unterbinden.
 
-7.3. Welche Veränderungen sind bezüglich der Nutzung des Volksdorfer Marktplatzes als Parkplatz im Einzelnen aus welchen Gründen vorgesehen? Sind Veränderungen bezüglich der Parkdauer oder ist eine Einführung von Parkgebühren geplant?
+### Frage 7.3
+
+Welche Veränderungen sind bezüglich der Nutzung des Volksdorfer Marktplatzes als Parkplatz im Einzelnen aus welchen Gründen vorgesehen? Sind Veränderungen bezüglich der Parkdauer oder ist eine Einführung von Parkgebühren geplant?
+
+#### Antwort zu Frage 7.3
 
 Es sind keine Veränderungen vorgesehen. Im Übrigen siehe Antwort zu 7. bis 7.2.

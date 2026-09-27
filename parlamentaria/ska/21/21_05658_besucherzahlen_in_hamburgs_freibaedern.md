@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54160"
@@ -234,7 +235,7 @@ Wie hoch sind die laufenden Kosten für den Betrieb der BLH-Freibäder in den Ja
 
 Wie hoch sind/waren die Umsatzerlöse der BLH-Freibäder in den Jahren 2011 – 2016 jeweils (bitte nach Freibädern differenzieren)?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Gemäß § 7 HmbTG handelt es sich bei diesen Daten um Betriebs- und Geschäftsgeheimnisse, die – im Falle einer Veröffentlichung – geeignet sind, die Wettbewerbsposition der BLH zu beeinträchtigen
 

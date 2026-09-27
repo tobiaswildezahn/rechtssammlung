@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 10
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9255", "21/9100", "21/8638"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58447"
@@ -62,10 +63,16 @@ Es kommt zu einer erlöswirksamen Zuschreibung auf die im Einzelplan 9.1 geführ
 ### Frage 4
 
 Gemäß Protokollerklärung der Finanzbehörde im Rahmen der Beratungen der Drs. 21/9255 war bereits bei der Aufstellung des Haushaltsplans 2017/2018 eine Darlehensabsenkung um 90 Millionen Euro vorgesehen.
-4.1. Warum wurde in dem zu den Haushaltsberatungen vorgelegten Wirtschaftsplan des Sondervermögens Schulimmobilien für das Jahr 2017 der positive Ergebniseffekt aus der Darlehensabsenkung nicht berücksichtigt?
-4.2. Warum ist der Senat in seinem Haushaltsplan-Entwurf für 2017 im Einzelplan 9.1 von einem Jahresfehlbetrag beim Sondervermögen im Jahr 2017 ausgegangen?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+Warum wurde in dem zu den Haushaltsberatungen vorgelegten Wirtschaftsplan des Sondervermögens Schulimmobilien für das Jahr 2017 der positive Ergebniseffekt aus der Darlehensabsenkung nicht berücksichtigt?
+
+### Frage 4.2
+
+Warum ist der Senat in seinem Haushaltsplan-Entwurf für 2017 im Einzelplan 9.1 von einem Jahresfehlbetrag beim Sondervermögen im Jahr 2017 ausgegangen?
+
+#### Antwort zu Fragen 4, 4.1 und 4.2
 
 Weil noch nicht feststand, in welches Jahr die wirtschaftlichen Effekte der Darlehensanpassung fallen.
 

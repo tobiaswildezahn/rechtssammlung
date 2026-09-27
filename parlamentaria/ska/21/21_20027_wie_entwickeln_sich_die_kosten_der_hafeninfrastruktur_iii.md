@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 35
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17833", "21/16469", "21/11812", "21/15638", "21/2368", "21/8790"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/69791"
@@ -51,7 +52,7 @@ Wann haben die Planungen für die jeweiligen Projekte der allgemeinen Hafeninfra
 
 Wie haben sich die Kosten beziehungsweise Budgets für die Projekte der allgemeinen Hafeninfrastruktur der HPA gegenüber dem letzten Wirtschaftsplan entwickelt? (Bitte ursprüngliche Kostenschätzung und aktuelle Kostenplanung für alle unter 1. genannten Projekte angeben.) a. Im Falle von Kostensteigerungen beziehungsweise Budgeterhöhungen: Weshalb war die ursprüngliche Planung nicht ausreichend? b. Von wann stammt die aktuelle Kosten- beziehungsweise Budgetplanung? (Bitte ebenfalls jeweils für die unter 1. genannten Projekte angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage 1.
 
@@ -63,7 +64,7 @@ Inwieweit kam es nach der Entscheidung des Bundesverwaltungsgerichts zur Fahrrin
 
 Wie haben sich die Kosten beziehungsweise Budgets für weitere Zusatzbeziehungsweise Ausgleichsmaßnahmen zur Fahrrinnenanpassung der Elbe entwickelt? (Bitte ursprüngliche Kostenschätzung und aktuelle Kostenplanung auch für alle in Drs. 21/15638 (Seite 18) dargestellten Maßnahmen angeben.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.
 
@@ -83,7 +84,7 @@ Welche Projekte der allgemeinen Hafeninfrastruktur können nicht wie geplant im 
 
 Welche weiteren Abweichungen gibt es zu den in den Drs. 21/2368, 21/8790, 21/11812 und Drs. 21/17833 aufgeführten Planungen und Kosten beziehungsweise Budgets der jeweiligen Projekte der allgemeinen Hafeninfrastruktur?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Anlage 1.
 
@@ -103,7 +104,7 @@ Auf welche Höhe beläuft sich der gesamte Investitionsbedarf für allgemeine In
 
 Wie groß ist die Differenz zwischen den Investitionsbedarfen und den bereits in den Finanzplanungen der Freien und Hansestadt Hamburg und der HPA vorgesehenen Investitionen? (Bitte pro Jahr aufschlüsseln und nach Geschäftsfeldern Public sowie Commercial differenzieren.)
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Anlagen 3, 4 und 5.
 
@@ -123,7 +124,7 @@ Wie hoch sind die konsumtiven sowie die investiven Mittel, die aus dem Haushalt 
 
 Welche Erträge und Aufwendungen sowie welche Einzahlungen und Auszahlungen sieht die aktuelle mittelfristige Finanzplanung der HPA vor? (Bitte sowohl Erfolgsrechnung als auch Finanzrechnung und die Projekt- und Investitionsplanung der HPA angeben.)
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Anlagen 2, 4 und 5.
 

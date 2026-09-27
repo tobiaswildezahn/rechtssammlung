@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 5
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51113"
@@ -47,7 +48,7 @@ Wann fiel der Fahrstuhl an der U-Bahn-Station Kiwittsmoor in den letzten zwölf 
 
 Was waren die Gründe des jeweiligen Ausfalls?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Im Jahr 2015 kam es zu folgenden Ausfällen des Aufzugs an der U-Bahn-Haltestelle Kiwittsmoor:
 

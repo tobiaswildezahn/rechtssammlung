@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 17
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/8494", "20/8493", "20/13463"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48862"
@@ -52,19 +53,19 @@ Für welche Personen (Beamte und Angestellte der Freien und Hansestadt Hamburg, 
 
 Die Regelung gilt für
 
- die Beamtinnen und Beamte und die in einem öffentlich-rechtlichen Ausbildungs-
+– die Beamtinnen und Beamte und die in einem öffentlich-rechtlichen Ausbildungs-
 
 verhältnis stehenden Personen der Freien und Hansestadt Hamburg sowie der landesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts,
 
- die Richterinnen und Richter der Freien und Hansestadt Hamburg,
+– die Richterinnen und Richter der Freien und Hansestadt Hamburg,
 
- die in den hamburgischen Dienst abgeordneten Beamtinnen und Beamte, Richte-
+– die in den hamburgischen Dienst abgeordneten Beamtinnen und Beamte, Richte-
 
 rinnen und Richter und in einem öffentlich-rechtlichen Ausbildungsverhältnis stehenden Personen,
 
- die Tarifbeschäftigten der Freien und Hansestadt Hamburg sowie für
+– die Tarifbeschäftigten der Freien und Hansestadt Hamburg sowie für
 
- die Senatorinnen und Senatoren.
+– die Senatorinnen und Senatoren.
 
 ### Frage 3
 

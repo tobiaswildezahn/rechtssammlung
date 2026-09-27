@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 8
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3567"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52105"
@@ -171,6 +172,6 @@ Erachtet der Senat beziehungsweise die zuständige Behörde die derzeitige Perso
 
 Beabsichtigt der Senat beziehungsweise die zuständige Behörde auch weiterhin, einen Großteil der für den Jugendschutz vorgesehenen VZÄ für andere Zwecke zu nutzen? Bitte begründen.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Vorbemerkung; im Übrigen siehe Antwort zu 3. sowie Drs. 21/3567.

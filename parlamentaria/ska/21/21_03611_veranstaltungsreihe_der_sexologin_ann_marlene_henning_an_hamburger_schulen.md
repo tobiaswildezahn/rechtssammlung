@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 13
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/13403", "20/14189"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52058"
@@ -51,7 +52,7 @@ Auf der öffentlichen Info-Veranstaltung am Abend thematisierte Frau Henning zum
 
 Wer hat über die Eignung des Buchs für den Einsatz in Hamburger Schulen und über die Eignung von Frau Henning für diese Veranstaltungsreihe entschieden? Bitte alle an der Entscheidung beteiligten Personen benennen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Antwort zu 1. Nach Auskunft der Schule ist die Veranstaltung an der Stadtteilschule Walddörfer auf Wunsch der Eltern zustande gekommen. Viele Eltern äußerten im Vorfeld ihre Unsicherheit zum Thema „Sexualaufklärung von Pubertierenden“ und wünschten sich dazu Informationen, die sich an den Lebenswelten von Jugendlichen orientieren. Die Veranstaltung wurde unter Einbeziehung der Schulleitung und des Elternrats und mit großer Zustimmung der Elternschaft geplant und durchgeführt.
 
@@ -91,7 +92,7 @@ Wer entscheidet grundsätzlich, welche externen Sexualpädagogen oder Organisati
 
 Soll Frau Henning auch in Zukunft Sexunterricht an Hamburger Schulen erteilen?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Antworten zu 3., zu 4. und zu 6.
 
@@ -113,12 +114,12 @@ Den Ausführungen im Bildungsplan liegt die Definition der Weltgesundheitsorgani
 
 Mit „gesichertem Wissen“ sind die in den Bildungsplänen formulierten Kompetenzen gemeint, dazu gehört beispielsweise, dass Schülerinnen und Schüler der Grundschule
 
- Körperteile bezeichnen können,
+– Körperteile bezeichnen können,
 
- einen Zusammenhang zwischen Zeugung, Schwangerschaft und Geburt erkennen,
+– einen Zusammenhang zwischen Zeugung, Schwangerschaft und Geburt erkennen,
 
- Beispiele für Freundschaft und Liebe nennen können,
+– Beispiele für Freundschaft und Liebe nennen können,
 
- biologische Geschlechtsunterschiede nennen können sowie
+– biologische Geschlechtsunterschiede nennen können sowie
 
- körperliche Veränderungen hin zur Pubertät erläutern können.
+– körperliche Veränderungen hin zur Pubertät erläutern können.

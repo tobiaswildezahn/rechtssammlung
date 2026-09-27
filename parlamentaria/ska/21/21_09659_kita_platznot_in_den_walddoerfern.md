@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 13
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5747", "21/9166"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58458"
@@ -54,7 +55,7 @@ Beschwerden über den Kitaplatzmangel in den Walddörfern bekannt?
 Wenn ja, in welchem Umfang?  
 Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die für Kindertagesbetreuung zuständige Behörde verfügt nicht über die zur Beantwortung der Fragen erforderlichen Daten. Sie hat deshalb die Kita-Träger in den Walddörfern gebeten, die entsprechenden Auskünfte zu erteilen.
 
@@ -72,7 +73,7 @@ Von wie vielen Kindern mit Betreuungsbedarf gehen der Senat beziehungsweise die 
 
 Worauf basieren die unter 3. gemachten Prognosen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/5747.
 
@@ -86,7 +87,7 @@ Weshalb nimmt die Bearbeitung derart viel Zeit in Anspruch?
 
 Ist angedacht, die Bearbeitungszeit zu senken? Wenn ja, mit welchen Maßnahmen und welchem Zeithorizont? Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die genannten Bearbeitungszeiten stellen einen Durchschnittswert dar. Im Bezirk Wandsbek gehen jährlich durchschnittlich 33.000 Anträge ein, mit Schwerpunkt in den Sommermonaten vor Beginn des neuen „Kitajahres“. Insbesondere diese Spitzenzeiten führen neben weiteren Faktoren wie der Unvollständigkeit von Antragsunterlagen zu erhöhten Bearbeitungszeiten. Die tatsächlichen Bearbeitungszeiten können in Zeiten geringen Antragsaufkommens erheblich darunter liegen.
 

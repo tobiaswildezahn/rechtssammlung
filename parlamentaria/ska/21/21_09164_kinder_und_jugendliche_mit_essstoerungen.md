@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11103"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57921"
@@ -116,7 +117,7 @@ Welche Therapieangebote gibt es in Hamburg für Kinder und Jugendliche mit Essst
 
 Welche Therapieangebote gibt es in Hamburg für über- und untergewichtige Kinder und Jugendliche?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Beratung bei und Behandlung von Essstörungen muss den zugrunde liegenden multiplen Ursachen Rechnung tragen. In Hamburg stehen entsprechend unterschiedliche Therapieangebote für Kinder und Jugendliche mit Essstörungen zur Verfügung.
 
@@ -124,19 +125,19 @@ Grundsätzlich stehen Menschen mit Essstörungen sowie Menschen mit gesundheitsg
 
 Stationäre oder teilstationäre Angebote:
 
- Das Asklepios Klinikum Harburg verfügt über ambulante, teilstationäre und statio-
+– Das Asklepios Klinikum Harburg verfügt über ambulante, teilstationäre und statio-
 
 näre Behandlungsangebote für anorektische und bulimische Patientinnen und Patienten und auch für Kinder und Jugendliche, die psychisch krank und zusätzlich adipös sind.
 
- In der Abteilung für Kinder- und Jugendpsychiatrie des Evangelischen Kranken-
+– In der Abteilung für Kinder- und Jugendpsychiatrie des Evangelischen Kranken-
 
 hauses Alsterdorf gibt es ein Behandlungskonzept für Kinder im Säuglings-, Kleinkind- und Vorschulalter mit Fütter- und Essstörungen. Kinder mit Über- oder Untergewicht zwischen null und 13 Jahren werden voll- oder teilstationär behandelt, wenn die Gewichtsproblematik komorbid mit anderen psychischen Störungen auftritt.
 
- Im Katholischen Kinderkrankenhaus Wilhelmstift stehen in der kinder- und jugend-
+– Im Katholischen Kinderkrankenhaus Wilhelmstift stehen in der kinder- und jugend-
 
 psychiatrischen, psychotherapeutischen und psychosomatischen Abteilung Behandlungsplätze für an Essstörungen Erkrankte zur Verfügung. Für adipöse Kinder und Jugendliche und übergewichtige Kinder bietet das Katholische Kinderkrankenhaus Wilhelmstift eine multidisziplinäre Behandlung an.
 
- Das Universitätsklinikum Hamburg Eppendorf (UKE) stellt für Kinder und Jugendli-
+– Das Universitätsklinikum Hamburg Eppendorf (UKE) stellt für Kinder und Jugendli-
 
 che mit Essstörungen sowohl somatische als auch psychische und psychosomatische Angebote in Diagnostik und Therapie durch seine Klinik und Poliklinik für Kinder- und Jugendmedizin (Kinderklinik) und seine Klinik und Poliklinik für Kinderund Jugendpsychiatrie, -psychotherapie und -psychosomatik (KJP) zur Verfügung. Die Kinder- und Jugendpsychiatrie des UKE bietet die Behandlung von unter- oder übergewichtigen Kindern (nur) dann an, wenn die Betroffenen eine relevante kinder- und jugendpsychiatrische Symptomatik aufweisen. Auch in der im UKE etablierten Ambulanz für seelisch erkrankte Kinder und Jugendliche werden Kinder und Jugendliche mit Essstörungen entsprechender Genese behandelt.
 

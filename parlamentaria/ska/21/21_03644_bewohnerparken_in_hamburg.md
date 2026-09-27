@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 28
 antwortbloecke: 18
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/1266", "20/7125", "20/11929", "20/12508", "20/12694", "21/1729", "20/9662"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52028"
@@ -181,7 +182,7 @@ Wie viel Personal in welchen Einrichtungen in Hamburg ist aktuell für die Über
 
 Wie hat sich der Bestand des für die Überprüfung und Bewirtschaftung von Bewohnerparkgebieten zuständigen Personals in den zuständigen Einrichtungen seit 2011 entwickelt? Bitte jahresweise zu einem einheitlichen Stichtag aufschlüsseln und jeweils die Zahl der Stellen, Vollzeitäquivalente und Beschäftigten angeben.
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Der Landesbetrieb Verkehr (LBV) – Sachgebiet Verkehrsentwicklung und -sicherheit des Fachgebietes Verkehrs-Management – verfügt seit dem 01. Januar 2016 über eine Stelle (VZÄ). Dort werden alle Themen rund um die Parkraumbewirtschaftung bearbeitet.
 
@@ -612,7 +613,7 @@ Wo in Hamburg gibt es aktuell städtische Quartiere mit erheblichem Parkraummang
 
 Wo in Hamburg gab es seit 2011 städtische Quartiere mit erheblichem Parkraummangel? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Aus den Erfahrungen des Parkraum-Managements und dessen Kontrolltätigkeiten heraus ist festzustellen, dass in allen innerstädtischen Wohnquartieren, die durch
 

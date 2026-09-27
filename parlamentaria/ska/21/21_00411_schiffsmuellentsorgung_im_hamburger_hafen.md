@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11844", "20/14574"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48560"
@@ -83,7 +84,7 @@ Der Koalitionsvertrag sagt darüber hinaus aus, dass es ein deutlich verbesserte
 
 Welche Kritikpunkte an der derzeitigen Gebührenstruktur der Schiffs- AbgV hat der Senat?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Das derzeitige Entsorgungsangebot im Hamburger Hafen richtet sich nach der gültigen Schiffsabfallabgabenverordnung in der Fassung vom 01. Juni 2013. Die zuständige Behörde beabsichtigt, die Einnahmeüberschüsse (siehe Antwort zu 9.) zur Verbesserung der Standardleistungen der Freien und Hansestadt Hamburg bei der Schiffsabfallentsorgung im Hamburger Hafen zu verwenden und auf die gestiegenen Betriebskosten der Hafenauffangeinrichtungen (dies sind unter anderem Treibstoff, Löhne, Endentsorgungskosten) durch eine Erhöhung der Aufwandsentschädigung zu reagieren.
 

@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 20
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15935"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65586"
@@ -75,7 +76,7 @@ Welche Kosten entstehen für das Pilotprojekt und welche Stelle finanziert diese
 
 Wer ist Träger dieses Pilotprojekts und wie wurde er wann ausgewählt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Das Pilotprojekt wird durch den ZKF koordiniert. Die Beratung der Teilnehmenden erfolgt innerhalb der bestehenden Strukturen bei W.I.R. Die ausländerrechtlichen Fragen klärt die BIS. Es entstehen somit keine zusätzlichen Kosten.
 

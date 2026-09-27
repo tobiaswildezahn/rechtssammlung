@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14216"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63626"
@@ -33,11 +34,11 @@ Das Projekt des „Bestbieters“ hat den Zuschlag des Senats und der durch den 
 
 ## Einleitung für die Antworten des Senats
 
- nicht den höchsten Kaufpreis bot,
+– nicht den höchsten Kaufpreis bot,
 
- kein Wohnen vorsah,
+– kein Wohnen vorsah,
 
- keine Aussichtsplattform anbot.
+– keine Aussichtsplattform anbot.
 
 Zumindest in Bezug auf die Aussichtsplattform soll sich dieses geändert haben.
 

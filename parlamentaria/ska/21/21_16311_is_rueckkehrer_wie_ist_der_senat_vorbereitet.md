@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 27
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16273", "21/2370", "21/9604", "21/12086", "21/15550", "21/12230", "21/15598", "21/14037", "20/13460"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65811"
@@ -49,7 +50,7 @@ Welchen Erkenntnisstand hat der Senat über möglicherweise inhaftierte Hamburge
 
 Wie ist die Zusammenarbeit zwischen Bundes- und Landesbehörden bezüglich der im Vortext genannten Rückkehrer? Wie sind die Bundesländer in die Entscheidung/die Verfahren eingebunden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Betreuung deutscher Staatsangehöriger im Ausland, damit auch rückkehrwilliger Personen im Sinne der Fragestellung, liegt in der Zuständigkeit des Auswärtigen Amtes und des Bundeskanzleramtes, die sich in diesen Fällen mit den Bundessicherheitsbehörden (Bundesamt für Verfassungsschutz und Bundeskriminalamt) ins Benehmen setzen und die Länder bei Bedarf informieren. Erkenntnisse zu rückkehrwilligen Personen liegen daher diesen Stellen vor. Soweit ein strafrechtliches Ermittlungsverfahren gegen die Betreffenden eingeleitet ist, erfolgt bei Bedarf ein anlassbezogener Austausch zwischen den Bundes- und Landesbehörden. Im Übrigen siehe Drs. 21/16273.
 
@@ -61,7 +62,7 @@ Wie bereitet sich der Senat auf die möglicherweise bevorstehende Rückkehr von 
 
 Welche Maßnahmen hat die jeweils zuständige Stelle in Hamburg veranlasst beziehungsweise wird die jeweils zuständige Stelle in Hamburg veranlassen, um eine Rückkehr zu ermöglichen und andererseits die Öffentlichkeit zu schützen? a. Zieht der Senat Spezialisten zu Rate? Wenn ja, welche und woher kommen diese? Wenn nein, warum nicht? b. Gibt es gegebenenfalls besondere Sicherheitsvorkehrungen beziehungsweise besondere Maßnahmen? Wenn ja, welche? Wenn nein, warum nicht? c. Ist eine Überwachung der Rückkehrer geplant? d. Wie und mit welchen Präventionsprogrammen sollen die Rückkehrer deradikalisiert werden? Welche Spezialisten werden zu Rate gezogen? Bitte differenzieren nach Frauen, IS-Kämpfern, und Kindern.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Das Beratungsangebot von Legato – Systemische Ausstiegsberatung – Fachstelle für religiös begründete Radikalisierungen kann auch von Rückkehrerinnen und Rückkehrern in Anspruch genommen werden. Im Übrigen siehe Drs. 21/2370, 21/9604, 21/12086, 21/15550 und Antwort zu 1. und 2.
 
@@ -149,6 +150,6 @@ Wie schätzt der Senat die Gefährdungslage ein, wenn diese Personen nach Hambur
 
 Welche Schlussfolgerungen zieht der Senat aus der aktuellen Diskussion über IS-Rückkehrer für die künftige Präventionsarbeit?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Antworten zu 3. bis 4. d. und 8. bis 8. c.

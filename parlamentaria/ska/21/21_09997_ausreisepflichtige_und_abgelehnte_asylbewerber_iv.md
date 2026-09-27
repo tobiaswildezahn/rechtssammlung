@@ -14,6 +14,7 @@ fragen: 2
 einzelfragen: 10
 antwortbloecke: 1
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9996", "21/9757"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58817"
@@ -43,7 +44,7 @@ Vollziehbar ausreisepflichtige Ausländer a. Wie viele vollziehbar ausreisepflic
 
 Geduldete Ausländer a. Wie viele geduldete Ausländer leben in Hamburger Folgeunterkünften? (Bitte, falls möglich, nach Herkunftsländern und Duldungsgründen aufschlüsseln.) b. Wie viele Ausländer, die aufgrund fehlender Pässe beziehungsweise Passersatzpapiere geduldet werden, leben in Hamburger Folgeunterkünften? (Bitte, falls möglich, nach Herkunftsländern aufschlüsseln.) c. Wie viele geduldete Ausländer leben in Hamburger Erstaufnahmen? (Bitte, falls möglich, nach Herkunftsländern und Duldungsgründen aufschlüsseln.) d. Wie viele Ausländer, die aufgrund fehlender Pässe beziehungsweise Passersatzpapiere geduldet werden, leben in Hamburger Erstaufnahmen? (Bitte, falls möglich, nach Herkunftsländern aufschlüsseln.) e. Wie viele geduldete Ausländer leben in Hamburg, deren aktueller Aufenthaltsort dem Senat nicht bekannt ist und wie viele davon werden aufgrund fehlender Pässe beziehungsweise Passersatzpapiere geduldet? (Bitte, falls möglich, nach Herkunftsländern aufschlüsseln und auch auf andere Duldungsgründe eingehen.) f. Wie viele geduldete Ausländer leben darüber hinaus in Hamburg und wie viele davon werden aufgrund fehlender Pässe beziehungsweise Passersatzpapiere geduldet? (Bitte, falls möglich, nach Herkunftsländern aufschlüsseln.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Eine gesonderte statistische Erfassung der Unterbringungsform vollziehbar ausreisepflichtiger beziehungsweise geduldeter Personen, differenziert nach Herkunftsstaaten und einzelnen Duldungsgründen, erfolgt nicht, da dies für die Inanspruchnahme der Unterbringungsform nicht entscheidend ist.
 

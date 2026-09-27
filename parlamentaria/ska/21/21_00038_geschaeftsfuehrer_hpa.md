@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/14551"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48161"
@@ -43,7 +44,7 @@ In welchen Kuratorien im Einzelnen werden diese Nebentätigkeiten ausgeübt? Wie
 
 Welchen Gremien/Unternehmen oder sonstigen Organisationen sind diese Kuratorien zugeordnet? Angaben bitte mit genauem Namen.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Es handelt sich bei den Nebentätigkeiten um Mitgliedschaften in den Kuratorien Rickmer-Rickmers (Stiftung des Vereins Windjammer für Hamburg), Hamburg Cruise Center e.V. und Cruise Net Hamburg (getragen vom Hamburg Cruise Center e.V).
 

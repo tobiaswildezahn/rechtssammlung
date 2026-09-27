@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 18
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5911", "21/1047"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56467"
@@ -169,7 +170,7 @@ Welche der in der Antwort zu Frage 2 benannten Schulbegleitungen der jeweiligen 
 
 An welchen Schulen versorgten/versorgen die in der Antwort zu Frage 2. genannten Trägereinrichtungen seit 2013/2014 bis heute (Stand Februar 2017) wie viele Schüler/-innen mit Schulbegleitungen? (Bitte für jedes Schuljahr einzeln, mit Nennung von Standort, Schulform, Stadtteil und Bezirk, zugeordnet zu den Einrichtungen mit Geschäftsform, nach Förderbedarf wegen geistiger und/oder körperlich-motorischer als auch nach psychischer beziehungsweise sozialer und/oder emotionaler Beeinträchtigung unterschieden, in absoluten Zahlen in einer Excel-Tabelle angeben.)
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die Integrationsleistung Schulbegleitung ist gestaffelt aufgebaut. Das Qualifikationsniveau gestaltet sich dabei wie folgt:
 
@@ -202,7 +203,7 @@ Welche der in der Antwort zu Frage 5. genannten Einrichtungen gaben für diese t
 
 Wie viele in der Antwort zu Frage 5. genannten von öffentlichen/ gemeinnützigen Trägereinrichtungen in Hamburg seit 2013/2014 bis heute (Stand Februar 2017) reduzierten Schulbegleitungsangebote wurden danach an privatwirtschaftliche Trägereinrichtungen vergeben? (Bitte für jedes Schuljahr einzeln, mit Nennung der privatwirtschaftlichen Einrichtung samt Bezirk und der jeweils übernommenen Begleitungen nach Förderbedarf wegen geistiger und/oder körperlich-motorischer als auch nach psychischer beziehungsweise sozialer und/oder emotionaler Beeinträchtigung unterschieden, in absoluten Zahlen und in Prozent in einer Excel Tabelle angeben.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Entfällt.
 
@@ -222,7 +223,7 @@ Welche der in der Antwort zu Frage 8. genannten öffentlichen/gemeinnützigen Tr
 
 Wie viele in der Antwort zu Frage 8. genannten von öffentlichen/gemeinnützigen Trägereinrichtungen in Hamburg seit 2013/2014 bis heute (Stand Februar 2017) gänzlich aufgegebenen Schulbegleitungsangebote wurden danach an privatwirtschaftliche Trägereinrichtungen vergeben? (Bitte für jedes Schuljahr einzeln, mit Nennung der privatwirtschaftlichen Einrichtung samt Bezirk und der jeweils übernommenen Begleitungen nach Förderbedarf wegen geistiger und/oder körperlich-motorischer als auch nach psychischer beziehungsweise sozialer und/oder emotionaler Beeinträchtigung unterschieden, in absoluten Zahlen und in Prozent in einer Excel Tabelle angeben.)
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Entfällt.
 
@@ -244,7 +245,7 @@ Wie hat der Senat, wie haben die zuständigen Fachbehörden BSB und BASFI auf di
 
 Wie viele öffentliche/gemeinnützige Träger in Hamburg haben seit 2013/ 2014 bis heute (Stand Februar 2017) wegen veränderter (verschlechterter) Vertragsrahmenbedingungen in der Schulbegleitung bei den zuständigen Fachbehörden BSB und BASFI darauf hingewiesen, dass sie ihr Schulbegleitungsangebot reduzieren werden müssen, wie viele haben darauf hingewiesen, dass sie es ganz einstellen werden müssen? a. Wie hat der Senat, wie haben die zuständigen Fachbehörden BSB und BASFI darauf reagiert? (Bitte nach Schuljahren gesondert erläutern.)
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Entfällt.
 
@@ -256,6 +257,6 @@ Wie beurteilt und bewertet der Senat beziehungsweise wie beurteilen und bewerten
 
 Wie beurteilt und bewertet der Senat beziehungsweise wie beurteilen und bewerten seine zuständigen Fachbehörden BSB und BASFI die Ersetzung von öffentlichen/gemeinnützigen Trägereinrichtungen durch privatwirtschaftliche Anbieter hinsichtlich der Arbeitsbedingungen und der angemessen Bezahlung der Schulbegleiter/-innen? (Bitte sachlich und fachlich Stellung nehmen.) a. Welche Maßnahmen werden dahin gehend von welchen zuständigen behördlichen Strukturen unternommen, um die Arbeits- und Bezahlungsbedingungen für Schulbegleiter/-innen zu gewährleisten und zu kontrollieren? (Bitte erläutern.)
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Eine strukturell beobachtbare Verlagerung von Schulbegleitungsleistungen von öffentlichen/gemeinnützigen Trägern hin zu privatwirtschaftlichen Anbietern ist derzeit durch die zuständige Behörde nicht festzustellen.

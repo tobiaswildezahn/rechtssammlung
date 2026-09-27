@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 14
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3093"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51449"
@@ -138,37 +139,37 @@ Die Förderung wird in entsprechender Anwendung des „Reintegration and Emigrat
 
 2.1 Die Rückkehrhilfe wird folgendem Personenkreis gewährt:
 
-•  
+–  
 Leistungsberechtigte nach § 1 Asylbewerberleistungsgesetz,  
-•  
+–  
 anerkannte Flüchtlinge,  
-•  
+–  
 sonstige Ausländer, denen der Aufenthalt aus völkerrechtlichen, humanitären oder politischen Gründen gewährt worden ist,  
-•  
+–  
 Opfer von Zwangsprostitution oder Menschenhandel.
 
 Weitere Einzelheiten hierzu sind dem REAG/GARP Programm in der jeweils geltenden Fassung zu entnehmen.
 
 2.2 Darüber hinaus wird die Rückkehrhilfe Drittstaatsangehörigen gewährt,
 
-• deren Ehe-/Lebenspartnerin bzw. Ehe-/Lebenspartner und/oder ihren sorgeberechtigten Kindern, die weder die Staatsangehörigkeit eines Mitgliedsstaates der Europäischen Union noch der Europäischen Freihandelszone besitzen und • die dauerhaft öffentliche Leistungen beziehen oder bei denen der dauerhafte Bezug öffentlicher Leistungen (z.B. SGB II, SGB III, SGB XII, WoGG, AsylbLG) in absehbarer Zeit eintreten wird.
+– deren Ehe-/Lebenspartnerin bzw. Ehe-/Lebenspartner und/oder ihren sorgeberechtigten Kindern, die weder die Staatsangehörigkeit eines Mitgliedsstaates der Europäischen Union noch der Europäischen Freihandelszone besitzen und – die dauerhaft öffentliche Leistungen beziehen oder bei denen der dauerhafte Bezug öffentlicher Leistungen (z.B. SGB II, SGB III, SGB XII, WoGG, AsylbLG) in absehbarer Zeit eintreten wird.
 
 Weitere Einzelheiten zur REAG/GARP Programm 2015 finden Sie hier: http://germany.iom.int/sites/default/files/REAG/REAG-GARP%202015%20-%20Merkblatt%20-%20lang.pdf
 
 3. Bewilligungsvoraussetzungen
 3.1 Ausländerinnen und Ausländer können nach Maßgabe der nachfolgenden Bestimmungen einen einmaligen, im Geltungsbereich des Aufenthaltsgesetzes steuerfreien Zuschuss (Rückkehrhilfen) erhalten, sofern
 
-• für eine Rückkehr/Weiterwanderung keine Eigenmittel vorhanden sind und die Mittellosigkeit nachgewiesen ist (z.B. Leistungen nach AsylbLG oder SGB II, VIII, XII) und • ausreichend Haushaltsmittel zur Verfügung stehen. Ein Rechtsanspruch auf die Bewilligung und Zahlung der Rückkehrhilfe besteht nicht.
+– für eine Rückkehr/Weiterwanderung keine Eigenmittel vorhanden sind und die Mittellosigkeit nachgewiesen ist (z.B. Leistungen nach AsylbLG oder SGB II, VIII, XII) und – ausreichend Haushaltsmittel zur Verfügung stehen. Ein Rechtsanspruch auf die Bewilligung und Zahlung der Rückkehrhilfe besteht nicht.
 
 3.2 Personen, bei denen nach den Umständen zu vermuten ist, dass sie in das Bundesgebiet eingereist sind, um eine Rückkehrförderung zu erhalten, soll regelmäßig keine Starthilfe gewährt werden.
 3.3 Die Rückkehrhilfe wird auf Antrag gewährt, wenn die Antragstellerin bzw. der Antragsteller und seine sich im Geltungsbereich des Aufenthaltsgesetzes aufhaltende Ehe-/Lebenspartnerin bzw. sein Ehe-/Lebenspartner
 
-• für sich und die mitreisenden sorgeberechtigten Familienangehörigen erklären, auf Dauer in ihr Heimatland zurückzukehren, • ggf. Rechtsbehelfe und Rechtsmittel zurücknehmen, die sie bei Behörden und Verwaltungsgerichten eingelegt haben und die sich auf einen ausländer- oder einbürgerungsrechtlichen Zusammenhang beziehen, bzw. ggf. auf ihre Rechte aus Aufenthaltstiteln verzichten, • bestätigen, den öffentlichen Kassen keine Zahlungen zu schulden und • nicht von Maßnahmen der §§ 53, 54 AufenthG betroffen sind.
+– für sich und die mitreisenden sorgeberechtigten Familienangehörigen erklären, auf Dauer in ihr Heimatland zurückzukehren, – ggf. Rechtsbehelfe und Rechtsmittel zurücknehmen, die sie bei Behörden und Verwaltungsgerichten eingelegt haben und die sich auf einen ausländer- oder einbürgerungsrechtlichen Zusammenhang beziehen, bzw. ggf. auf ihre Rechte aus Aufenthaltstiteln verzichten, – bestätigen, den öffentlichen Kassen keine Zahlungen zu schulden und – nicht von Maßnahmen der §§ 53, 54 AufenthG betroffen sind.
 3.4 Finanzielle Leistungen aus dem REAG/GARP Rückkehrprogramm der IOM werden mit der Landesförderung verrechnet.
 3.5 Die Inanspruchnahme von Leistungen nach diesen Regelungen schließt die Gewährung von Leistungen nach anderen Rückkehrhilfevorschriften der Freien und Hansestadt Hamburg für die Begünstigten und deren sorgeberechtigte Kinder aus.
 4. Leistungen und Höhe der Rückkehrhilfe Folgende Hilfen werden als Unterstützungsleistungen gewährt:
 
-• Übernahme der Beförderungskosten, • Starthilfen zur Re-Integration (z.B. Mietkostenzuschüsse, Hilfen zum Aufbau einer wirtschaftlichen Existenz). In besonders gelagerten Einzelfällen ist darüber hinaus eine individuelle Förderung der freiwilligen Rückkehr möglich. Dies gilt insbesondere für die Übernahme medizinischer Behandlungskosten für Personen, die an einer schweren Erkrankung leiden. Die jeweilige Höhe der Leistungen ist der als Anlage beigefügten Übersicht zu entnehmen.
+– Übernahme der Beförderungskosten, – Starthilfen zur Re-Integration (z.B. Mietkostenzuschüsse, Hilfen zum Aufbau einer wirtschaftlichen Existenz). In besonders gelagerten Einzelfällen ist darüber hinaus eine individuelle Förderung der freiwilligen Rückkehr möglich. Dies gilt insbesondere für die Übernahme medizinischer Behandlungskosten für Personen, die an einer schweren Erkrankung leiden. Die jeweilige Höhe der Leistungen ist der als Anlage beigefügten Übersicht zu entnehmen.
 
 5. Antragstellung Anträge können bei folgender Beratungsstelle gestellt werden:
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53603"
@@ -59,7 +60,7 @@ Wie genau soll der Check-In-/Be-Out-Vorgang funktionieren?
 
 Auf welcher Technik soll das System kundenseitig beruhen (zum Beispiel NFC et cetera)?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die genaue technische Funktionalität hängt von den noch auszuwertenden technischen Konzepten der Anbieter ab.
 

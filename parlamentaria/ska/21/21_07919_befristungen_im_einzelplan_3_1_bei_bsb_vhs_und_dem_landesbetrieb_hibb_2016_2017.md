@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 30
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7651", "21/5371", "21/5243", "21/5242", "20/7991", "21/4706"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56556"
@@ -115,7 +116,7 @@ Wie viele der in Drs. 21/7651 benannten 186 befristeten Arbeitsverhältnisse sei
 
 Wie viele der in Drs. 21/7651 benannten 186 befristeten Arbeitsverhältnisse seitens der Freien und Hansestadt Hamburg im Einzelplan 3.1 beim Landesbetrieb HIBB vom 1. September bis 31. Dezember 2016 waren Arbeitsverhältnisse im Rahmen flüchtlingsbedingter Mehrbedarfe? (Bitte in absoluten Zahlen und in Prozent einer Excel-Tabelle angeben.) a. Um wie viele Arbeitsplätze welcher Professionen handelte es sich dabei jeweils? (Bitte nach Lehrern/-innen, Sonderpädagogen/-innen, Sozialpädagoginnen, Erziehern/-innen, Therapeuten/-innen, Kulturmittlern, Betriebscoaches/Begleitern/-innen, verwaltungstechnischem Personal, technischem Personal und sonstigen Professionen entsprechend in der Excel-Tabelle zu 7. angeben.) b. Wie viele und welche dieser Arbeitsplätze waren nach § 14 Absatz 1 TzBfG, wie viele nach § 14 Absatz 2 TzBfG befristet? (Bitte entsprechend in der Tabelle zu 7. angeben.) c. In welchen Arten von Flüchtlingsbeschulungsmaßnahmen bestanden dabei wie viele der in der Antwort zu Frage 7. angeführten Arbeitsverträge? (Bitte nach EA-Lerngruppen, Alphabetisierungsklassen, VJM-, BVJM-, AvM-Dual- und Regelklassen aufgeschlüsselt entsprechend in der Excel-Tabelle zu 7. angeben.)
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Siehe Anlage 4 und Antwort zu 5. bis 5. c.
 

@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1838", "21/2251"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50895"
@@ -43,7 +44,7 @@ Seit wann ist die Unterbringung von bis zu 350 weiteren Flüchtlingen in Modulba
 
 Zu welchem Zeitpunkt und auf welchem Weg wurden die Bezirksversammlung Wandsbek über diese Pläne informiert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Bezirksversammlung Wandsbek hat am 17. September 2015 beschlossen (Drucksache 20-1697), zusätzlich zum Bebauungsplan Jenfeld 25 70 Festbauten auf der Fläche Elfsaal zu realisieren.
 
@@ -63,7 +64,7 @@ Ist eine zeitliche Befristung der Unterbringung geplant? Wenn ja, bis wann?
 
 Soll an diesem Standort eine gemischte Flüchtlingsunterbringung erfolgen oder sind die 350 Plätze vorwiegend für Familien oder bestimmte Personengruppen geplant? Wenn ja, für welche?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Siehe Drs. 21/1838.
 
@@ -86,7 +87,7 @@ Grundzüge des geltenden Planrechts gewahrt?
 Wenn ja, inwiefern?  
 Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Ein Bauantrag liegt seit letzter Woche vor und befindet sich in der Prüfung des zuständigen Bezirksamtes.
 
@@ -98,6 +99,6 @@ Welche weiteren Flächen im Verwaltungsbezirk Wandsbek wurden von den zuständig
 
 Aus welchen Gründen entschied man sich gegen diese anderen Standorte und für die Unterbringung in der Straße Elfsaal?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Siehe Drs. 21/2251.

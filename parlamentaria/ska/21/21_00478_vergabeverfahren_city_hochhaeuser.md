@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 17
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48629"
@@ -99,7 +100,7 @@ Welche Kriterien wurden angelegt, um die „Preferred Bidders“ zu ermitteln?
 
 Wer war an der Auswahl der „Preferred Bidders“ beteiligt?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Prüfung erfolgte durch die Behörde für Wirtschaft, Verkehr und Innovation, die Behörde für Stadtentwicklung und Umwelt, die Kulturbehörde, das Bezirksamt Hamburg-Mitte und den Landesbetrieb Immobilienmanagement und Grundvermögen anhand der mit der Ausschreibung veröffentlichten Bewertungsmatrix.
 

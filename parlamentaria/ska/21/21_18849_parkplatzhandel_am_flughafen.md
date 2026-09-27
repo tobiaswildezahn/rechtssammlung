@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 16
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68531"
@@ -71,7 +72,7 @@ Wurden andere Ordnungswidrigkeiten oder Vergehen im Zusammenhang mit dem beschri
 
 Wurden Personalien im Zusammenhang mit derartigen Tätigkeiten festgestellt? Falls ja, gibt es auffällige Gemeinsamkeiten bezüglich der festgestellten Personalien?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 In der 27. Kalenderwoche 2019 hat die Polizei im Umfeld des Flughafens Hamburg eine Serie von Sachbeschädigung an geparkten Kraftfahrzeugen mit auswärtigen Kennzeichen festgestellt. Für die Aufklärung der Straftaten hatte die Polizei am
 16. Juli 2019 eine Ermittlungsgruppe gegründet: Die Ermittlungsgruppe hat in Fällen von insgesamt 237 beschädigten Fahrzeugen ermittelt; siehe auch Pressemeldungen der Polizei Hamburg unter https://www.presseportal.de/blaulicht/pm/6337/4337383 und https://www.presseportal.de/blaulicht/pm/6337/4318646.

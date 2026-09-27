@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/8557", "21/8192", "21/8552"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57487"
@@ -355,7 +356,7 @@ Wie viele Personen erhielten im März 2017 Leistungen nach AsylbLG? Rückführun
 
 a) Wie viele ausreisepflichtige Personen hielten sich im März 2017 in Hamburg auf?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Zahl der Ausreisepflichtigen belief sich nach dem AZR zum 31.März 2017 auf
 4.881 Personen mit Duldung. Die Duldungssachverhalte sind in der Antwort zu 7. b) aufgeschlüsselt.

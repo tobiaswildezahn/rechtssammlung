@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 18
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53392"
@@ -132,23 +133,23 @@ Nr. 8.4 Anlage 8 Teil II VV-ZBR
 
 Für den Bereich der Zahlstellen der Vollzugsanstalten wurden zusammengefasst folgende Mängel festgestellt:
 
- nicht geprüfte Wertzeichenbestände (Nummer 4.2 Anlage 8 Teil II VV-ZBR)
+– nicht geprüfte Wertzeichenbestände (Nummer 4.2 Anlage 8 Teil II VV-ZBR)
 
- fehlerhafte Quittungen (Nummer 7.5.1 Anlage 3 VV-ZBR)
+– fehlerhafte Quittungen (Nummer 7.5.1 Anlage 3 VV-ZBR)
 
- nicht ordnungsgemäßer Umgang mit Tages- und Monatsabschlussblättern sowie
+– nicht ordnungsgemäßer Umgang mit Tages- und Monatsabschlussblättern sowie
 
 Schwebepostenzettel (Nummer 4.4.2 Anlage 8 Teil II VV-ZBR)
 
- nicht korrekte beziehungsweise aktualisierte Listen der Anordnungsbefugten
+– nicht korrekte beziehungsweise aktualisierte Listen der Anordnungsbefugten
 
 beziehungsweise Kontobevollmächtigten (Nummer 5.4 Anlage 8 Teil II VV-ZBR)
 
- fehlerhafte Unterschriften auf Belegen/Anordnungen (Nummer 4.4.3 Anlage 8 Teil
+– fehlerhafte Unterschriften auf Belegen/Anordnungen (Nummer 4.4.3 Anlage 8 Teil
 
 II VV-ZBR)
 
- verspätete Vereinnahmungen von Verwahrgeldern zum Haushalt (Nummer 4.1.1
+– verspätete Vereinnahmungen von Verwahrgeldern zum Haushalt (Nummer 4.1.1
 
 Anlage 9.3 VV-ZBR)
 

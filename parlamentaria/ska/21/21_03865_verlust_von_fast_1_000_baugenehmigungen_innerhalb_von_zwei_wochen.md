@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 4
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/2821", "20/2002", "20/2891"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52230"
@@ -68,6 +69,6 @@ Wie erklärt der Senat die Differenz von fast 1.000 Wohnungen, für die Baugeneh
 
 Falls die Zahlen des Statistikamt Nord die korrekten sind: weshalb hat der Senat keine erneute Pressemitteilung herausgegeben, um die falschen Zahlen vom 23.02.2016 zu korrigieren?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung.

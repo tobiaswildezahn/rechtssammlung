@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56144"
@@ -70,7 +71,7 @@ Wie viele dieser Mitarbeiter sind davon in der Straßenreinigung tätig? Bitte e
 
 Wie viele Mitarbeiter in VZÄ standen für die Reinigung von Straßen, Radwegen und Gehwegen jeweils in der ersten Woche des neuen Jahres in den Jahren 2011 – 2017 zur Verfügung?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die in der nachstehenden Tabelle genannten Mitarbeiterinnen und Mitarbeiter stehen sowohl für die Reinigung von Straßen als auch für die Reinigung von Radwegen und Gehwegen zur Verfügung.
 

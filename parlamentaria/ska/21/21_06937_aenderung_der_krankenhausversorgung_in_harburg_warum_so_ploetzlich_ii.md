@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/6603"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55527"
@@ -73,7 +74,7 @@ Wie hat der Landesausschuss über die geplante Umstrukturierung in seiner Novemb
 
 Welche Beschlüsse, die Umstrukturierung betreffend, hat der Landesausschuss darüber hinaus gefasst?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Der Landesausschuss für Krankenhaus- und Investitionsplanung ist zunächst im November 2016 mit einer Informationsvorlage über die vorgesehenen strukturellen Veränderungen in der Krankenhausversorgung in Harburg informiert worden.
 

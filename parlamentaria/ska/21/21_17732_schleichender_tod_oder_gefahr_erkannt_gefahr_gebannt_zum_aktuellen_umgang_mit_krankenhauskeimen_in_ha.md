@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 20
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13718"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67334"
@@ -58,7 +59,7 @@ Wie viele auf Krankenhauskeime zurückzuführende Erkrankungen gab es in Hamburg
 
 Wie viele auf Krankenhauskeime zurückzuführende Todesfälle gab es in Hamburgs Krankenhäusern seit dem 01. Januar 2017? (Bitte pro Jahr (bezüglich 2019 bitte zum Stichtag 15.06.) insgesamt sowie nach jeweiligem Krankenhaus und jeweiligem Keim/Erreger gesondert angeben.)
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Laut dem Infektionsepidemiologischen Landeszentrum des Institutes für Hygiene und Umwelt (HU) sind 2017 69, 2018 26 und bis zum 15. Juni 2019 zehn Patienteninnen und Patienten an den Keimen Acinetobacter, CD, Enterobacteriales und MRSA ursächlich verstorben. Eine Darstellung nach Krankenhäusern erfolgt nicht (siehe Drs. 21/13718).
 

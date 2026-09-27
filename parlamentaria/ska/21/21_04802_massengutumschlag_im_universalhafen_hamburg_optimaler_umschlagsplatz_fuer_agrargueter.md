@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 15
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/53233"
@@ -51,7 +52,7 @@ Welche zukunftsgerichteten Möglichkeiten sieht der Senat, um in den Umschlagsme
 
 Welche Möglichkeiten sieht der Senat in Bezug auf den Ausbau des Massengutumschlags im Hamburger Hafen?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Umschlag von Agrarmassengütern und die damit verbundenen Unternehmen sind eine wichtige Säule des Hamburger Hafens. Die zuständige Behörde und die HPA werden die Umschlagsunternehmen im Bereich der Agrarmassengüter weiterhin unterstützen und ihren Ausbau im Bestand fördern. Für Neuansiedlungen wird aufgrund der Marktsituation im Massengutsektor derzeit kein Bedarf gesehen. Bei vorliegenden konkreten Anfragen wird im Einzelfall geprüft und entschieden.
 
@@ -63,23 +64,23 @@ Welche Hamburger Unternehmen sind vornehmlich mit dem Umschlag von Agrargütern 
 
 Folgende Unternehmen befassen sich im Hamburger Hafen mit dem Umschlag von Agrargütern:
 
- K+S Transport GmbH
+– K+S Transport GmbH
 
- Louis Hagel GmbH und Co. KG
+– Louis Hagel GmbH und Co. KG
 
- Silo P. Kruse Betriebs-GmbH und Co. KG
+– Silo P. Kruse Betriebs-GmbH und Co. KG
 
- G.T.H. Getreide Terminal Hamburg GmbH & Co. KG
+– G.T.H. Getreide Terminal Hamburg GmbH & Co. KG
 
- ADM Hamburg AG
+– ADM Hamburg AG
 
- HaBeMa Futtermittel GmbH & Co. KG
+– HaBeMa Futtermittel GmbH & Co. KG
 
- Agrar Terminal Peter Rothe GmbH & Co. KG
+– Agrar Terminal Peter Rothe GmbH & Co. KG
 
- UNA-HAKRA Hanseatische Kraftfuttergesellschaft mbH
+– UNA-HAKRA Hanseatische Kraftfuttergesellschaft mbH
 
- Cargill Deutschland GmbH
+– Cargill Deutschland GmbH
 
 ### Frage 4
 

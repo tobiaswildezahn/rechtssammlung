@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 3
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16370"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66151"
@@ -51,6 +52,6 @@ Welchen Zeitplan legen der Senat und die zuständige Behörde in Bezug auf die g
 
 Was ist der aktuelle Stand in Bezug auf die Erstellung der Haushaltsunterlage Bau? Bitte darstellen, wer bis zum heutigen Zeitpunkt in welcher Funktion an der Planung und Erstellung der Haushaltsunterlage Bau beteiligt war und ist. Bitte gegebenenfalls den bisherigen Inhalt des derzeitigen Planungsstandes der Haushaltsunterlage Bau darstellen.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/16370.

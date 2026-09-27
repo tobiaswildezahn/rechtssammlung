@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 12
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5527", "21/17382"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67301"
@@ -43,7 +44,7 @@ Wie viele vollstationäre Krankenhausfälle mit der Hauptdiagnose F10.0 gab es i
 
 Wie verteilten sich diese Behandlungsfälle in den Jahren 2017 und 2018 jeweils auf welche Hamburger Krankenhäuser?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die folgenden Hamburger Plankrankenhäuser haben der zuständigen Behörde Angaben zur Anzahl der vollstationären Fälle mit der Hauptdiagnose F10.0 (Psychische und Verhaltensstörungen durch Alkohol: Akute Intoxikation (akuter Rausch)) für die Jahre 2017 und 2018 übermittelt. Eine Aufschlüsselung nach dem Alter ist aus datenschutzrechtlichen Gründen nicht möglich.
 
@@ -108,7 +109,7 @@ Welche Maßnahmen gedenkt der Senat beziehungsweise die zuständige Behörde zu 
 
 Welche Maßnahmen gedenkt der Senat beziehungsweise die zuständige Behörde zu ergreifen, um die Zahl der alkoholintoxikierten Personen in Hamburg kurzfristig zu reduzieren?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Zahlen zu den vollstationären Krankenhausaufenthalten aufgrund einer Alkoholintoxikation zeigen eine fallende Tendenz auf und bestätigen den Erfolg des bisherigen Konzepts (siehe Antwort zu Fragen 1. und 2.). Die in der Drs. 21/5527 aufgeführten Maßnahmen werden bis auf den Trinkkompass weitergeführt. Vom 18. bis 26. Mai 2019 wurden zudem im Rahmen der Aktionswoche Alkohol zahlreiche Angebote in Hamburg durchgeführt (https://www.aktionswoche-alkohol.de/die-aktionswoche/).
 
@@ -120,7 +121,7 @@ Wie hat sich die Summe der städtischen Zuwendungen an Alkoholpräventionsprojek
 
 Wie hat sich die Summe der städtischen Zuwendungen an Institutionen, die schwerpunktmäßig auf dem Gebiet der Alkoholprävention tätig sind, in den Jahren 2017 und 2018 entwickelt? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Drs. 21/17382.
 
@@ -132,6 +133,6 @@ Wie hat sich die Summe der städtischen Zuwendungen an Projekte auf dem Gebiet d
 
 Wie hat sich die Summe der städtischen Zuwendungen an Institutionen, die schwerpunktmäßig auf dem Gebiet der Alkoholsuchthilfe tätig sind, in den Jahren 2017 und 2018 entwickelt? Bitte jahresweise aufschlüsseln.
 
-#### Antwort zu Fragen 10 bis 11
+#### Antwort zu Fragen 10 und 11
 
 Die Suchthilfeangebote arbeiten suchtmittelunspezifisch, das heißt, eine Trennung nach Suchtmitteln erfolgt nicht. Hilfesuchende finden in allen Angeboten Unterstützung, gleich welches Suchtmittel vorrangig konsumiert wird. Demzufolge kann eine Darstellung der Zuwendungsmittel nicht nach spezifischen Suchtmitteln gegliedert erfolgen. Im Jahr 2017 sind 18 339 190 Euro an Zuwendungen in Rahmen von Projektförderungen an die Träger geflossen, im Jahr 2018 waren es 19 297 102 Euro.

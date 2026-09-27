@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 13
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10019"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63205"
@@ -105,7 +106,7 @@ In welchen Straßen mussten seit dem 1. Januar 2017 bis heute Warnhinweise wegen
 
 Mussten aufgrund von Straßenschäden seit dem 1. Januar 2017 bis heute Tempo-30-Schilder an Straßen aufgestellt werden? Wenn ja, in welchen Straßen jeweils, seit wann und für welche Dauer? (Bitte nach Jahren und Bezirken aufschlüsseln.)
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Siehe Drs. 21/10019. Für Maßnahmen von August 2017 bis Juli 2018 siehe Anlage 1.
 

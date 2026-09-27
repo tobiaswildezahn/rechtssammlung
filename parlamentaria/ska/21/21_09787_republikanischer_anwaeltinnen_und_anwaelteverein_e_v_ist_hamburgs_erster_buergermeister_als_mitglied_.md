@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 9
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58613"
@@ -39,31 +40,31 @@ Der RAV
 
 ## Einleitung für die Antworten des Senats
 
- verfolgt eine konsequent antimilitaristische Position in internationalen Kon-
+– verfolgt eine konsequent antimilitaristische Position in internationalen Kon-
 
 flikten,
 
- unterstützt verfolgte ausländische Kolleginnen und Kollegen,
+– unterstützt verfolgte ausländische Kolleginnen und Kollegen,
 
- beteiligt sich an Prozessbeobachtungen,
+– beteiligt sich an Prozessbeobachtungen,
 
- unterstützt die Arbeit der europäischen Legalteams und
+– unterstützt die Arbeit der europäischen Legalteams und
 
- betreibt umfangreiche anwaltliche Fortbildung durch Fachanwaltskurse und
+– betreibt umfangreiche anwaltliche Fortbildung durch Fachanwaltskurse und
 
 sonstige berufliche Fortbildungsveranstaltungen.
 
 Er streitet insbesondere
 
- gegen die Verschärfung des Straf- und des Strafprozessrechts,
+– gegen die Verschärfung des Straf- und des Strafprozessrechts,
 
- gegen Polizeigewalt und die ständige Ausweitung polizeilicher Befugnisse,
+– gegen Polizeigewalt und die ständige Ausweitung polizeilicher Befugnisse,
 
- gegen ein rassistisches Asyl- und Ausländerrecht,
+– gegen ein rassistisches Asyl- und Ausländerrecht,
 
- für die Wahrung der Rechte von Minderheiten,
+– für die Wahrung der Rechte von Minderheiten,
 
- für menschenwürdige Lebens- und Arbeitsbedingungen.“
+– für menschenwürdige Lebens- und Arbeitsbedingungen.“
 
 Vor diesem Hintergrund frage ich den Senat:
 
@@ -97,7 +98,7 @@ Welche Rolle hat der RAV aus Sicht der Polizei und des Verfassungsschutzes in Zu
 
 Wird der RAV auch vom Verfassungsschutz beobachtet? Falls ja, seit wann und aus welchem Grund?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Vorbemerkung. Darüber hinaus hat der Republikanischer Anwältinnen- und Anwälteverein e.V. aus Sicht der Polizei im Zusammenhang mit dem G20-Gipfel keine Rolle gespielt. Im Übrigen ist der Republikanischer Anwältinnen- und Anwälteverein e.V. kein Beobachtungsobjekt des Verfassungsschutzes.
 

@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 40
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15534"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65099"
@@ -103,7 +104,7 @@ Wie hat sich „der Auslastungsgrad“ des Koordinationseckwertes am innerstädt
 
 Hat es seit 2013 Tage gegeben, an denen der Koordinationseckwert (stundenweise) „ausgeschöpft“ wurde? Wenn ja, an welchen Tagen, in welchem Zeitraum und unter welcher Pistenkonstellation für Starts und Landungen? Wenn nein, warum nicht? Welches waren die begrenzenden Faktoren?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Der Flughafen ist erst seit dem Jahr 2016 ein sogenannter vollkoordinierter Flughafen (Level 3), der über einen festgesetzten Eckwert verfügt. Eine jahres- oder flugplanweise erstellte Statistik über den Auslastungsgrad des Koordinationseckwertes hat die zuständige Behörde vom Flughafenkoordinator nicht erhalten.
 

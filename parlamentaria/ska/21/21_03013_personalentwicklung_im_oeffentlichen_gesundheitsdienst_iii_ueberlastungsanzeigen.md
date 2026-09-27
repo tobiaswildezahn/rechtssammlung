@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 11
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51389"
@@ -71,7 +72,7 @@ An welche Institution und an welche Person mit welcher Funktion wurden die in Fr
 
 Wer oder was kontrolliert in welcher Zeitspanne mit welchen konkreten Vorgängen die Bearbeitung von Überlastungs- und Rückstandsanzeigen? Bitte auflisten nach Zeitspanne der Bearbeitung (Einreichungs- und Bearbeitungsdatum), kontrollierender Instanz (Ort der Instanz und Funktionsbezeichnung) und Ablauf der Bearbeitung (passierte Institutionen, Personen, Orte).
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Überlastungs- und Rückstandsanzeigen in den Bezirksämtern werden grundsätzlich über den Dienstvorgesetzen an den zuständigen Fachamtsleiter und Dezernenten eingereicht und von der Fachamtsleitung bearbeitet. Konkrete Vorgaben bezüglich einer Zeitspanne oder hinsichtlich bestimmter Verfahrensschritte bestehen nicht. Im Bereich der Behörde für Gesundheit und Verbraucherschutz (BGV) werden Überlastungsanzeigen zunächst an den Vorgesetzten gegeben, der den Eingang formlos bestätigt, Abhilfemöglichkeiten prüft, gegebenenfalls weitere Vorgesetzte oder Dienststellen informiert und das Vorgehen spätestens vier Wochen nach Eingang der Anzeige dokumentiert. Im Übrigen werden die erfragten Angaben nicht gesondert statistisch erfasst. Für deren Ermittlung wäre eine manuelle Auswertung von über 100 Einzelvorgängen über einen Zeitraum von fünf Jahren erforderlich, was in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich ist.
 
@@ -99,6 +100,6 @@ Welche Konsequenzen haben die Überlastungs- und Rückstandsanzeigen für die St
 
 Wie ermittelt der Senat die Bedarfe über finanzielle Mittel für den ÖGD? Gibt es dazu Richtlinien und wenn ja welche? Bitte im Wortlaut anhängen.
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Stellen- und Mittelbedarfe des öffentlichen Gesundheitsdienstes werden wie in anderen Bereichen im Rahmen der Haushaltsplanaufstellung geplant und im Verwaltungsvollzug fortlaufend überprüft. Sie hängen vom Umfang und der Form der Leistungserbringung ab. Die Konsequenzen von Überlastungs- und Rückstandsanzeigen ergeben sich aus den jeweils im Einzelfall festgestellten Ursachen.

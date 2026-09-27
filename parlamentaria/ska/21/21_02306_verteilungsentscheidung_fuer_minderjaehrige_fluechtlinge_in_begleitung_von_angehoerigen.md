@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 28
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2149"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50577"
@@ -62,7 +63,7 @@ c. Großeltern
 d. Cousin/Cousine (1. Grad, 2. Grad)  
 e. Andere
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Entsprechende Angaben werden nicht statistisch erfasst. Eine nachträgliche Ermittlung würde eine händische Auswertung aller ausländerbehördlichen Datensätze erfordern und ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Im Übrigen siehe Drs. 21/2149.
 
@@ -74,7 +75,7 @@ Wird die Angabe von Verwandtschaftsverhältnissen zwecks Vormundschaftsübernahm
 
 Wie viele Angehörige haben nach der Einreise in Hamburg die Vormundschaft für die mit ihnen eingereisten Minderjährigen übernommen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Drs. 21/2149.
 

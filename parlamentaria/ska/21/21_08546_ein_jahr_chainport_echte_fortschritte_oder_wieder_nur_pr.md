@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3967"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57266"
@@ -89,7 +90,7 @@ Wie wird die Plattform genutzt?
 
 Welche Kooperationen und welchen Erfahrungsaustausch hat es bisher über ChainPORT zwischen Hamburg und welchen anderen Häfen gegeben?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antworten zu 1. und zu 2.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 11
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/5874", "21/9360", "21/9015", "21/5992", "21/1686"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59183"
@@ -251,13 +252,13 @@ Karl H. Ditze Stiftung
 
 Personal aus Globalhaushalt der HFBK finanziert:
 
- seit 2015 Vollzeitstelle E11 TVL (Werkstattleitung Filmproduktion/-förderung und
+– seit 2015 Vollzeitstelle E11 TVL (Werkstattleitung Filmproduktion/-förderung und
 
 Festivalteilnahmen)
 
- seit 2015 Vollzeitstelle E10 TVL (Kommunikation + Vernetzung)
+– seit 2015 Vollzeitstelle E10 TVL (Kommunikation + Vernetzung)
 
- seit 2017 Vollzeitstelle E13 TVL (Professionalisierung)
+– seit 2017 Vollzeitstelle E13 TVL (Professionalisierung)
 
 ### Frage 3
 
@@ -317,27 +318,27 @@ Es gibt eine Vielzahl von Fördereinrichtungen, die Studien-, Bachelor- oder Mas
 
 Exemplarisch können genannt werden:
 
- Förderer, die in der Stipendien-Datenbank des BMBF zu finden sind:
+– Förderer, die in der Stipendien-Datenbank des BMBF zu finden sind:
 
 https://www.stipendienlotse.de/datenbank.php?DS=2011
 
- Das Förderprogramm EXIST des Bundesministeriums für Wirtschaft und Energie,
+– Das Förderprogramm EXIST des Bundesministeriums für Wirtschaft und Energie,
 
 das auch Ausgründungen von Studierenden fördert. Siehe dazu auch Drs. 21/5874.
 
- Zahlreiche Fördereinrichtungen (zum Beispiel DFG) bieten im Rahmen ihrer Pro-
+– Zahlreiche Fördereinrichtungen (zum Beispiel DFG) bieten im Rahmen ihrer Pro-
 
 jektförderung die Möglichkeit, Studierende als studentische Hilfskräfte zu beschäftigen und in die Forschungsprojekte einzubeziehen.
 
- Der Deutsche Akademische Austauschdienst (DAAD) vergibt zur Anfertigung von
+– Der Deutsche Akademische Austauschdienst (DAAD) vergibt zur Anfertigung von
 
 Abschlussarbeiten im Ausland Kurzstipendien von einem bis sechs Monaten Dauer. Dabei wird zwischen der Anfertigung von Masterarbeiten (Förderung nach Graduierten-Richtlinie) und sonstigen Abschlussarbeiten (zum Beispiel Bachelor, Diplom, Staatsexamen; Förderung nach Studierenden-Richtlinie) unterschieden.
 
- Die Universität Hamburg vergibt den Karl H. Ditze-Preis für herausragende Exa-
+– Die Universität Hamburg vergibt den Karl H. Ditze-Preis für herausragende Exa-
 
 mensarbeiten und Dissertationen in den Geistes- und Sozialwissenschaften sowie den Joseph Carlebach-Preis für hervorragende wissenschaftliche Beiträge zur jüdischen Geschichte, Kultur und Religion – insbesondere Seminar-, Magister-, Examens- und Diplomarbeiten sowie Dissertationen.
 
- Die UHH (geisteswissenschaftlicher Bereich), TUHH, HAW und HFBK und studen-
+– Die UHH (geisteswissenschaftlicher Bereich), TUHH, HAW und HFBK und studen-
 
 tische Projekte dieser Hochschulen werden durch die Karl H. Ditze-Stiftung gefördert.
 

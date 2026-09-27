@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 16
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/12422", "21/1840", "21/1270"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51123"
@@ -160,6 +161,6 @@ Wurden der Freien und Hansestadt Hamburg oder einem ihrer Tochterunternehmen das
 
 Haben die Freie und Hansestadt Hamburg oder eines ihrer Tochterunternehmen Interesse an dem Erwerb des genannten Grundstücks und/oder der im Bau befindlichen Immobilien? Wenn ja, ist dem Bauträger das Interesse der Stadt bekannt und wurden bereits Gespräche geführt und/oder Kaufangebote unterbreitet?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Nein.

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10281", "21/13316", "21/9563", "21/7722"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63980"
@@ -81,7 +82,7 @@ Welche Maßnahmen ergreift der Senat gegen die sozialräumliche Polarisierung un
 
 Welche Mittel aus dem Landeshaushalt und in welcher Höhe werden zur Bekämpfung der sozialräumlichen Polarisierung eingesetzt? Bitte Drucksache oder Einzelplan mit der entsprechenden Produktgruppe benennen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Mit dem Rahmenprogramm Integrierte Stadtteilentwicklung (RISE) werden Quartiere mit besonderem Entwicklungsbedarf städtebaulich aufgewertet und sozial stabilisiert. RISE umfasst alle Programme der Bund-Länder-Städtebauförderung. Die Karte 4 im Sozialmonitoring-Bericht (Seite 21) verdeutlicht, dass ein großer Teil der Statistischen Gebiete mit niedrigem oder sehr niedrigem Status als RISE-Fördergebiet festgelegt ist. Die meisten übrigen Statistischen Gebiete mit niedrigem oder sehr niedrigem Status sind ehemalige RISE-Fördergebiete. Diese Ergebnisse unterstreichen, dass die Förderung des Rahmenprogramms Integrierte Stadtteilentwicklung in erster Linie genau den Quartieren zugutekommt, in denen die kleinräumigen Daten einen besonderen Entwicklungsbedarf signalisieren.
 

@@ -14,6 +14,7 @@ fragen: 22
 einzelfragen: 28
 antwortbloecke: 20
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/7919"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57139"
@@ -81,13 +82,13 @@ Wie viele Lehrkräfte sind derzeit bei der Freien und Hansestadt Hamburg beschä
 
 Wie viele davon sind befristet angestellt, wie viele unbefristet?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Von 21.097 Beschäftigungsverhältnissen (Lehrkräfte) sind
 
- 19.478 unbefristet (92,3 Prozent) und
+– 19.478 unbefristet (92,3 Prozent) und
 
- 1.619 befristet (7,7 Prozent).
+– 1.619 befristet (7,7 Prozent).
 
 Im Übrigen siehe Drs. 21/7919.
 
@@ -190,39 +191,39 @@ Ein Quereinstieg in den Hamburger Vorbereitungsdienst ist für alle Schulformen 
 
 Folgende Voraussetzungen gelten für einen Quereinstieg an Gymnasien:
 
- ein Universitätsabschluss (Master beziehungsweise Diplom) in Physik oder ein
+– ein Universitätsabschluss (Master beziehungsweise Diplom) in Physik oder ein
 
 Universitätsdiplom in den physikalischen Fachrichtungen Meteorologie, Ozeanographie und Geophysik, bevorzugt mit dem Nebenfach Mathematik oder Informatik, in jedem Fall mit einem aus dem Studium generierbaren zweiten Unterrichtsfach neben Physik,
 
- ein Universitätsabschluss (Master oder Diplom) in Informatik, bevorzugt mit dem
+– ein Universitätsabschluss (Master oder Diplom) in Informatik, bevorzugt mit dem
 
 Nebenfach Mathematik, in jedem Fall mit einem aus dem Studium generierbaren zweiten Unterrichtsfach neben Informatik,
 
- Berufserfahrung in der studierten Fachrichtung nach Studienabschluss,
+– Berufserfahrung in der studierten Fachrichtung nach Studienabschluss,
 
- Unterrichtserfahrung (zum Beispiel über Lehraufträge, Tätigkeiten in der Ausbil-
+– Unterrichtserfahrung (zum Beispiel über Lehraufträge, Tätigkeiten in der Ausbil-
 
 dung, Hospitationen und so weiter),
 
- Alter bis maximal 42 Jahre.
+– Alter bis maximal 42 Jahre.
 
 Folgende Voraussetzungen gelten für einen Quereinstieg an beruflichen Schulen:
 
- Master beziehungsweise Diplom von einer Universität in der entsprechenden
+– Master beziehungsweise Diplom von einer Universität in der entsprechenden
 
 Fachrichtung,
 
- Berufserfahrung in der studierten Fachrichtung nach Studienabschluss,
+– Berufserfahrung in der studierten Fachrichtung nach Studienabschluss,
 
- Unterrichtserfahrung (zum Beispiel über Lehraufträge, Tätigkeiten in der Ausbil-
+– Unterrichtserfahrung (zum Beispiel über Lehraufträge, Tätigkeiten in der Ausbil-
 
 dung und so weiter),
 
- Generierbarkeit eines allgemeinbildenden Unterrichtsfaches aus dem Studium
+– Generierbarkeit eines allgemeinbildenden Unterrichtsfaches aus dem Studium
 
 heraus – also ein zweites Fach neben der beruflichen Fachrichtung, wie zum Beispiel Mathematik oder Physik bei Ingenieuren,
 
- Alter bis maximal 42 Jahre.
+– Alter bis maximal 42 Jahre.
 
 Wenn die formalen Voraussetzungen für einen Quereinstieg in den Vorbereitungsdienst vorliegen, wird in einem zweiten Schritt vom Landesinstitut für Lehrerbildung – Abteilung Ausbildung – die pädagogische Eignung durch ein Eignungsgespräch unter Beteiligung der Abteilungs- und Fachseminarleitung überprüft.
 
@@ -262,7 +263,7 @@ Wie viele Quereinsteiger in den Hamburger Schuldienst (nach Definition des Senat
 
 Wie viele Quereinsteiger 2016 in den Hamburger Schuldienst (hier: Personen mit Hochschulabschluss, aber ohne Studium im Bereich Fachdidaktik) hat es in den Jahren 2015 und 2016 jeweils gegeben? Bitte nach Schulform sowie nach Fächern aufschlüsseln.
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 In den allgemeinbildende Schulen gab es 2015 15 Quereinsteiger, 2016 waren es 22 Quereinsteiger.
 

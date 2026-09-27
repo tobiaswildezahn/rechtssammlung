@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 8
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6863", "21/4614", "21/10038"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58957"
@@ -63,7 +64,7 @@ Wie sieht das zwischen den Ländern in der Drs. 20/6863 genannte „abgestimmte 
 
 Wie wurde der von Schleswig-Holstein für die Jahre 2016 und 2017 zu entrichtende Tageshaftkostensatz in Höhe von 215 Euro konkret berechnet?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die Summe der Belastungen der Kostenstelle und den anteiligen Intendanzkosten abzüglich einer Fixkostendegression ergibt die Höhe der Tageshaftkosten. Der derzeitige Tageshaftkostensatz ist auskömmlich.
 

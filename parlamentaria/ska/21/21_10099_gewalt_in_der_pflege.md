@@ -14,6 +14,7 @@ fragen: 15
 einzelfragen: 20
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58923"
@@ -117,19 +118,19 @@ Die Beschwerden werden vom Beschwerdetelefon Pflege statistisch nicht in der gef
 
 Beschwerde über
 
- ambulanten Dienst,
+– ambulanten Dienst,
 
- Grundsicherungs- und Sozialamt,
+– Grundsicherungs- und Sozialamt,
 
- Wohn-/Pflegeeinrichtung (Heim),
+– Wohn-/Pflegeeinrichtung (Heim),
 
- Kasse,
+– Kasse,
 
- medizinischen Dienst der Krankenversicherung,
+– medizinischen Dienst der Krankenversicherung,
 
- Pflegestützpunkt,
+– Pflegestützpunkt,
 
- Sonstiges.
+– Sonstiges.
 
 d) Gibt es bestimmte Pflegeeinrichtungen, die im genannten Zeitraum auffällig geworden sind beziehungsweise deren Namen gehäuft bei Beschwerden über grundlegende Versorgungsleistungen fallen?
 
@@ -155,17 +156,17 @@ Welche Empfehlungen sind durch den Landespflegeausschuss innerhalb der letzten f
 
 Der Landespflegeausschuss hat in den letzten fünf Jahren folgende Empfehlungen beschlossen:
 
- Einführung eines Umlageverfahrens zur Finanzierung der Ausbildung in Berufen
+– Einführung eines Umlageverfahrens zur Finanzierung der Ausbildung in Berufen
 
 der Altenpflege und der Gesundheits- und Pflegeassistenz in Hamburg zur Beteiligung der Träger von Einrichtungen der Langzeitpflege am Netzwerk Palliative Geriatrie,
 
- zur vereinfachten Pflegedokumentation,
+– zur vereinfachten Pflegedokumentation,
 
- zur Rahmenplanung der pflegerischen Versorgungsstruktur bis 2020,
+– zur Rahmenplanung der pflegerischen Versorgungsstruktur bis 2020,
 
- zur Sektorenübergreifenden Gesundheits- und Pflegekonferenz,
+– zur Sektorenübergreifenden Gesundheits- und Pflegekonferenz,
 
- zum Runden Tisch Dekubitus.
+– zum Runden Tisch Dekubitus.
 
 ### Frage 6
 

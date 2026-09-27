@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 7
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/57045"
@@ -43,7 +44,7 @@ Hat das Auswärtige Amt den Antrag der türkischen Regierung auf Errichtung von 
 
 Hat das Auswärtige Amt um eine Stellungnahme zum unter 1. genannten Antrag der Türkei beim Senat beziehungsweise den zuständigen Behörden gebeten? Wenn ja, wurde diese bereits abgegeben und wie lautet die Stellungnahme des Senats beziehungsweise der zuständigen Behörden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Nein. Es gab eine Abfrage des zuständigen Bundesministeriums des Inneren (BMI) an die Innenministerien der Länder, in Hamburg an die Behörde für Inneres und Sport (BIS).
 

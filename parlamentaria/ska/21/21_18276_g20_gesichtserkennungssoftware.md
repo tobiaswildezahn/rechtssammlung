@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 27
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/13939"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67909"
@@ -198,7 +199,7 @@ Wie bewertet der Senat das Verhältnis der Personen, die mithilfe der Gesichtser
 
 Wie viele Personen wurden erst nach der manuellen Durchsicht des beim G20-Gipfel erlangten Materials durch Auswerter/-innen, Polizeibeamte/-innen oder Super Recognizer in den automatisierten Abgleich mit der Referenzdatenbank für die Gesichtserkennung aufgenommen beziehungsweise mit Gesichtstemplates aus Videosequenzen verknüpft?
 
-#### Antwort zu Fragen 15 bis 16
+#### Antwort zu Fragen 15 und 16
 
 Die GAS ist auf Grundlage einer Berechnung mathematischer Algorithmen in der Lage, das Vorhandensein von Gesichtern in einer Bild- oder Videodatei zu „erkennen“, die „erkannten“ (berechneten) Gesichter miteinander zu vergleichen und einen prozentualen Wert der Übereinstimmung zu benennen. Die abschließende Bewertung, ob es sich bei den „erkannten“ (berechneten) Gesichtern um die gleiche Person handelt, wird von einem Sachbearbeiter der EG „Schwarzer Block“ vorgenommen.
 

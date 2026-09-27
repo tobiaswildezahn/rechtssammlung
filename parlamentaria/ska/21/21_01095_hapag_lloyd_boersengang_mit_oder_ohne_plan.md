@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 15
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/11663", "20/3306", "21/709"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49272"
@@ -49,7 +50,7 @@ Stimmen die Berichte zu den Planungen eines Börsengangs? Wenn ja, welche Banken
 
 Welche Kanzleien und Unternehmensberatungen begleiten den Börsengang beziehungsweise dessen Planung?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Informationen zu einem möglichen Börsengang, die über die offiziellen Mitteilungen der Hapag-Lloyd AG hinausgehen, stellen vertrauliche Betriebs- und Geschäftsgeheimnisse des Unternehmens dar und können im Rahmen der Beantwortung von Parlamentarischen Anfragen nicht veröffentlicht werden.
 

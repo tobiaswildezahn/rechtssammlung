@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54384"
@@ -67,6 +68,6 @@ Inwiefern kann der Hamburger Senat (zum Beispiel im Sinne der in Hamburg unterge
 
 Inwiefern hat das BAMF eine Abhilfe bereits zugesagt?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Das BAMF hat im Rahmen seiner Aufgabenwahrnehmung die Rechtmäßigkeit seines Handelns eigenverantwortlich zu beurteilen und zu verantworten. Hierbei unterliegt das BAMF nicht dem Einfluss der Hamburger Behörden, sondern den dazu bestimmten Kontrollorganen für die Bundesbehörden, siehe auch Antworten zu 1., zu 2. und zu 3.

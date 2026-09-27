@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/1502", "21/3312"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/56966"
@@ -88,7 +89,7 @@ Welche Projekte hat die Radverkehrskoordinatorin bisher bearbeitet?
 
 Welche dieser Projekte wurden bisher abgeschlossen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Aufgaben der Radverkehrskoordinatorin ergeben sich aus der Drs. 21/1502. Ein Überblick über die konkreten Projekte und Tätigkeiten der Radverkehrskoordinatorin und der Arbeitsstelle Radverkehr ist der nachfolgenden Tabelle zu entnehmen:
 

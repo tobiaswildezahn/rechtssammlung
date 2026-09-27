@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 31
 antwortbloecke: 17
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3231", "21/3766", "19/3572", "20/917", "21/2095"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52190"
@@ -43,7 +44,7 @@ Trifft es zu, dass aus der oben genannten Unterkunft in großem Stil Möbel abge
 
 Welche Kosten wurden für die Anschaffung/Bereitstellung der Möbel für den Standort Liese-Meitner Park verursacht (bitte insgesamt und pro jeweiliger Produktart und pro Einzelstück ausweisen und die Produktmaße benennen)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Unterkunft Luruper Hauptstraße wurde ursprünglich als Zentrale Erstaufnahme (ZEA) geplant. Die Möbel sind daher im Zusammenhang mit der Planung für einen Standort einer Zentralen Erstaufnahme beschafft worden. Nach der Entscheidung, dass die Unterkunft Luruper Hauptstraße zu einer öffentlich-rechtlichen Unterbringung werden soll und da die bereits vorhandenen Möbel nicht den anderen Anforderungen in der öffentlich-rechtlichen Unterkunft entsprechen, werden diese auf andere ZEA verteilt beziehungsweise werden im Zentrallager zwischengelagert.
 

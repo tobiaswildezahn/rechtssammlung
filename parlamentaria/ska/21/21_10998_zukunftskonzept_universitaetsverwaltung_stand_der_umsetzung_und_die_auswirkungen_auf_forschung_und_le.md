@@ -14,6 +14,7 @@ fragen: 13
 einzelfragen: 23
 antwortbloecke: 12
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/2350"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/59929"
@@ -51,7 +52,7 @@ Was sind oder waren die konkreten Teilprojekte, die auf der Grundlage der Empfeh
 
 Was ist oder war das Ziel dieser Teilprojekte und welche Teilprojekte konnten zwischenzeitlich mit welchem Ergebnis abgeschlossen werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage.
 
@@ -97,19 +98,19 @@ Welche Gremien der akademischen Selbstverwaltung wurden wann oder werden derzeit
 
 Die Gremien der akademischen Selbstverwaltung der UHH wurden und werden regelmäßig in die Reformprozesse einbezogen und über den Projektfortschritt informiert. Siehe insoweit auch Antwort zu 5. Vertreterinnen und Vertreter des Akademischen Senats sowie der Fakultäten sind Mitglieder in der universitären Lenkungsgruppe des Projektes „Zukunftskonzept Universitätsverwaltung (ZUK UV)“. Darüber hinaus gab es folgenden Einbezug der Gremien der akademischen Selbstverwaltung:
 
- Mitglieder des Akademischen Senats haben an den Veranstaltungen des Beteili-
+– Mitglieder des Akademischen Senats haben an den Veranstaltungen des Beteili-
 
 gungsverfahrens (Mai bis Juli 2011) im Rahmen des sogenannten Vorprojekts teilgenommen.
 
- Die Fragestellungen des Akademischen Senats wurden Ende 2011/Anfang 2012 in
+– Die Fragestellungen des Akademischen Senats wurden Ende 2011/Anfang 2012 in
 
 den universitären Fragenkatalog an die externe Expertengruppe aufgenommen.
 
- Nach Vorlage der Empfehlungen der externen Expertengruppe war der Akademi-
+– Nach Vorlage der Empfehlungen der externen Expertengruppe war der Akademi-
 
 sche Senat im März 2013 mit der Umsetzungsplanung befasst. Dabei wurde unter anderem eine vorgezogene Befassung mit der Frage der Fakultätsstruktur beschlossen.
 
- Der Akademische Senat hat auf Grundlage der Empfehlungen der externen Exper-
+– Der Akademische Senat hat auf Grundlage der Empfehlungen der externen Exper-
 
 tengruppe am 5. September 2013 eine Änderung der Grundordnung der UHH (Genehmigung durch den Hochschulrat am 27. September 2013) dahin gehend beschlossen, zum 1. Februar 2014 zwei neue Fakultäten (Psychologie und Bewegungswissenschaft sowie Betriebswirtschaft) zu gründen. Vorausgegangen waren ein universitätsweit organisierter Diskussionsprozess sowie Anhörungen der beteiligten und betroffenen Einrichtungen durch den Planungsausschuss des Akademischen Senats. Dabei wurden auf Bitte des Hochschulrats alle für beziehungsweise gegen eine Veränderung der bisherigen Fakultätsstruktur vorgetragenen Argumente zusammengetragen. Dies erfolgte in mehreren Beratungen des Präsidiums, der Universitätskammer, des Akademischen Senats und des Ausschusses für Planung und Haushalt sowie einer universitätsweiten Informationsveranstaltung zum ZUK UV und einer Onlineumfrage zur Fakultätsstruktur unter allen Hochschulangehörigen. Zum anderen hörte der Ausschuss für Planung und Haushalt im Juni 2013 Vertreterinnen und Vertreter der veränderungswilligen Bereiche sowie der von eventuellen Veränderungen potenziell betroffenen Fakultäten an. Ebenso wurde der Hochschulrat mehrmals über den Projektverlauf informiert, zuletzt im Oktober 2017.
 
@@ -127,31 +128,31 @@ Bei der Festlegung der Zielstrukturen der Fakultätsverwaltungen wurde dem Grund
 
 In der zentralen Universitätsverwaltung sind in vielen Bereichen Veränderungen erfolgt:
 
- Mit dem Ziel einer Neuaufstellung des universitären Steuerungssystems ein-
+– Mit dem Ziel einer Neuaufstellung des universitären Steuerungssystems ein-
 
 schließlich einer Optimierung der für die Erzeugung von Steuerungsdaten erforderlichen IT-Grundlagen in der Verwaltung wurde die bisherige Abteilung 1 „Universitätsentwicklung“ aufgegliedert in die neue Abteilung 1 „Operatives Controlling“ und die zwei neuen Stabsstellen „Strategisches Controlling“ und „Datenmanagement und Digitalisierung in der Verwaltung“.
 
- Bezogen auf Abteilung 2 „Kommunikation und Öffentlichkeitsarbeit“ wurde ein „Fa-
+– Bezogen auf Abteilung 2 „Kommunikation und Öffentlichkeitsarbeit“ wurde ein „Fa-
 
 kultätenkonzept“ verabschiedet, das darauf abzielt, den Informationsfluss und die Zusammenarbeit zwischen Fakultäten und Abteilung 2 zu verbessern.
 
- In Abteilung 4 „Forschung und Wissenschaftsförderung“ wurde die Binnenorgani-
+– In Abteilung 4 „Forschung und Wissenschaftsförderung“ wurde die Binnenorgani-
 
 sation verändert, um stärker als bisher als serviceorientiertes Kompetenzzentrum und als Mittler zwischen Wissenschaft und Drittmittelgebern zu agieren. Es soll vor allem erreicht werden, dass im wachsenden Wettbewerb um Drittmittel auf aktuelle Herausforderungen erfolgversprechend reagiert werden kann.
 
- Abteilung 5 „Internationales“ wurde in Hinblick auf die Internationalisierungsstrate-
+– Abteilung 5 „Internationales“ wurde in Hinblick auf die Internationalisierungsstrate-
 
 gie der UHH in ihren Aufgaben gestärkt.
 
- Ziel der Neustrukturierung der Abteilung 6 „Personal“ ist es, in der Abteilung aus-
+– Ziel der Neustrukturierung der Abteilung 6 „Personal“ ist es, in der Abteilung aus-
 
 schließlich die Themen der Personalarbeit, das heißt alle Fragestellungen und Aufgaben des Personalservice, der Personalentwicklung sowie der Personalkostensteuerung und Stellenwirtschaft, zu konzentrieren, weiterzuentwickeln und damit nachhaltig zu stärken.
 
- Innerhalb der Abteilung 7 „Finanz- und Rechnungswesen“ wurden insbesondere
+– Innerhalb der Abteilung 7 „Finanz- und Rechnungswesen“ wurden insbesondere
 
 die Aufgabenbereiche Einkauf/Beschaffung sowie Dienstreisen in die zentrale Steuerung überführt und neu aufgestellt. Damit sollen vor allem einheitliche Servicegrade und Standards für Durchführung und Bearbeitung von Verwaltungsangelegenheiten für die gesamte UHH sichergestellt werden.
 
- Um die jeweiligen Funktionalitäten zu stärken, wurde die alte Abteilung 8 „Bau- und
+– Um die jeweiligen Funktionalitäten zu stärken, wurde die alte Abteilung 8 „Bau- und
 
 Gebäudemanagement“ in drei Bereiche aufgeteilt: Abteilung 8 „Gebäudemanagement“, Abteilung 9 „Baumanagement“ und die Stabsstelle „Flächenmanagement“.
 

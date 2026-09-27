@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58762"
@@ -47,7 +48,7 @@ Sind den zuständigen Stellen Jugendbanden bekannt, die sich regelmäßig an öf
 
 Welche Erkenntnisse liegen den zuständigen Stellen darüber vor, ob von den Jugendbanden aus Straftaten, insbesondere Sachbeschädigungen und/oder BtM-Delikte, begangen werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Beim zuständigen Polizeikommissariat liegen hierzu keine eigenen Erkenntnisse vor, entsprechende Hinweise sind nicht eingegangen. Auch der regelmäßige Austausch und die gezielte Rücksprachen des Bezirksamtes Wandsbek mit Einrichtungen der Kinder- und Jugendarbeit haben keine Erkenntnisse über sogenannte Jugendbanden im Alstertal oder den Walddörfern ergeben.
 

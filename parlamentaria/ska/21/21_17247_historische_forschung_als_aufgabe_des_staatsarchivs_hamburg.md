@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 9
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15453"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66824"
@@ -87,7 +88,7 @@ Auf welchem Wege und zu welchem Zeitpunkt wird die Bürgerschaft mit der Novelli
 
 Auf welchem Wege und zu welchem Zeitpunkt wird die Bürgerschaft mit der Novellierung des HmBArchG befasst?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die Beteiligung der Bürgerschaft im Gesetzgebungsverfahren richtet sich nach Artikel 48 fortfolgende der Verfassung der Freien und Hansestadt Hamburg. Im Übrigen siehe Vorbemerkung.
 
@@ -99,6 +100,6 @@ Inwieweit ist vorgesehen, den Passus „das Staatsarchiv wirkt durch eigene Beit
 
 Inwieweit ist vorgesehen den Passus „das Staatsarchiv wirkt durch eigene Beiträge an der Erforschung und Vermittlung der hamburgischen Geschichte mit“ im HmbArchG zu streichen?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Siehe Vorbemerkung.

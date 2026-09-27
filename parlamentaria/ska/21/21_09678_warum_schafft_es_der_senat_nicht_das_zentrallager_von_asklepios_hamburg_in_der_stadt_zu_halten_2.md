@@ -5,7 +5,7 @@ wahlperiode: 21
 id: 58485
 titel: "Warum schafft es der Senat nicht, das Zentrallager von Asklepios Hamburg in der Stadt zu halten? (2)"
 datum_anfrage: "2017-07-03"
-datum_drucksache: null
+datum_drucksache: "2017-07-11"
 urheber: ["Thilo Kleibauer"]
 fraktionen: ["CDU"]
 vorgang: 53499
@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/9527"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/58485"
@@ -24,7 +25,7 @@ generator: "ska_archiv 1.0"
 
 # Drs. 21/9678: Warum schafft es der Senat nicht, das Zentrallager von Asklepios Hamburg in der Stadt zu halten? (2)
 
-> Schriftliche Kleine Anfrage und Antwort des Senats  
+> Schriftliche Kleine Anfrage des Abgeordneten Thilo Kleibauer (CDU) vom 03.07.17 und Antwort des Senats · Drucksache vom 11.07.2017  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/58485) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/58485/21_09678_warum_schafft_es_der_senat_nicht_das_zentrallager_von_asklepios_hamburg_in_der_stadt_zu_halten_2)
 
 ## Einleitung für die Fragen

@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 5
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49321"
@@ -52,7 +53,7 @@ Wie viele Vollzugskräfte der Hamburger Polizei haben auf Bitten eines anderen B
 
 In welcher Höhe hat die Freie und Hansestadt Hamburg anderen Gebietskörperschaften hierfür Kosten in Rechnung gestellt?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Die genaue Anzahl der Vollzugskräfte könnte nur durch die Auswertung der gesamten Einsatzunterlagen ermittelt werden. Dies ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich. Zur Beantwortung werden ersatzweise die Anzahl und die Art der taktischen Einheiten (siehe Tabelle) benannt. Eine Hundertschaft (Hu) geht mit circa 85 – 100 Beamtinnen/Beamten, ein Zug mit circa 20 Beamtinnen/Beamten in den Einsatz.
 

@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 13
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60999"
@@ -55,7 +56,7 @@ Welche Kunstwerke jeglicher Art sind im öffentlichen Raum des Alstertals und de
 
 Wann wurden diese Kunstwerke des öffentlichen Raums im Alstertal und in den Walddörfern jeweils errichtet und wie sind die Eigentumsverhältnisse geregelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Anlage. Darüber hinaus liegen der zuständigen Behörde keine gesicherten Angaben vor.
 
@@ -67,7 +68,7 @@ Welche dieser öffentlichen Kunstwerke im Alstertal und in den Walddörfern wurd
 
 Was passierte mit den abgebauten Kunstwerken und was geschah mit den jeweiligen Flächen und Plätzen im Alstertal und in den Walddörfern? Bitte jeweils nennen.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Es wurden keine Kunstwerke auf Flächen des zuständigen Bezirksamts abgebaut.
 
@@ -79,7 +80,7 @@ Welche Kunstwerke des öffentlichen Raums im Alstertal und in den Walddörfern s
 
 Welche Kunstwerke sind im öffentlichen Raum des Alstertals und der Walddörfer aktuell in Planung? Wann sollen diese jeweils aufgestellt werden?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Dem zuständigen Bezirksamt sind dazu keine Planungen bekannt.
 
@@ -91,7 +92,7 @@ Wer pflegt aktuell die Kunst des öffentlichen Raumes im Alstertal und in den Wa
 
 Wie viel des Budgets für Erhaltung und Pflege von Kunst im öffentlichen Raum steht für das Alstertal und die Walddörfer zu Verfügung? Wie viel wurde 2017 von diesem Budget für die Sauberkeit, Erhaltung und Restaurierung von Kunst des öffentlichen Raums im Alstertal und in den Walddörfern investiert?
 
-#### Antwort zu Fragen 7 bis 8
+#### Antwort zu Fragen 7 und 8
 
 Siehe Vorbemerkung.
 

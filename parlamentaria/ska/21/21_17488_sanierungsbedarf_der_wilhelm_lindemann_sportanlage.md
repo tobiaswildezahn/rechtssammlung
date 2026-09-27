@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 12
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67074"
@@ -79,7 +80,7 @@ Welche Schulen in der näheren Umgebung mit jeweils wie vielen Schülerinnen und
 
 In welchem Maße ist Schulsport auf der Wilhelm-Lindemann-Sportanlage derzeit möglich?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Das Gymnasium Lohbrügge nutzt die Rasenfläche der Sportanlage. Im Übrigen beantwortet der Senat hypothetischen Fragen nicht.
 
@@ -115,15 +116,15 @@ In welchem Zustand befinden sich aktuell einzelne Teile der Wilhelm- Lindemann-S
 
 Bei einer Begehung am 06.12. 2018 ist unter anderem festgestellt worden:
 
- Die Absprungbalken der Sprunggruben müssen erneuert und höhenmäßig ange-
+– Die Absprungbalken der Sprunggruben müssen erneuert und höhenmäßig ange-
 
 passt werden.
 
- Die Rundlaufbahn aus Tenne befindet sich in einem schlechten Zustand, wenn-
+– Die Rundlaufbahn aus Tenne befindet sich in einem schlechten Zustand, wenn-
 
 gleich die Verkehrssicherheit als nicht gefährdet eingestuft wird.
 
- Die Kunststofffläche für die Weitsprunggrube ist beschädigt und muss erneuert
+– Die Kunststofffläche für die Weitsprunggrube ist beschädigt und muss erneuert
 
 werden.
 

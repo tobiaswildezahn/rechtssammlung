@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 33
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3278", "20/13232", "20/13066"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52627"
@@ -119,7 +120,7 @@ c) mit welchen Methoden?
 d) getrennt nach Geschlechtern oder nicht?  
 e) was waren die Ergebnisse?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Bewohner der Einrichtungen von f & w werden weder abgetastet noch nach Waffen durchsucht. Bei Auffälligkeiten im Rahmen der wöchentlichen Haus- und Geländebegehung erfolgt die Einschaltung der zuständigen Behörde. Bisher war die Einschaltung der zuständigen Behörde nicht erforderlich. In den Unterkünften des DRK Altona finden Kontrollen am Einlass durch den Sicherheitsdienst sowie wöchentliche Begehungen der Einrichtungen zur Kontrolle von Hygiene und Funktionsfähigkeit des Inventars statt. Es werden vom Sicherheitsdienst anlassbezogene Taschenkontrollen durchgeführt und nach dem Zufallsprinzip Personen mit Handmetalldetektoren abgesucht. Die Kontrollen fanden nach Geschlechtern getrennt statt. Bei den Kontrollen wurden vereinzelt Alkohol, Schlaggegenstände sowie messer- und spießähnliche Stich- und Hiebgegenstände gefunden. In den Unterkünften des DRK-Landesverbandes fanden anlassbezogen Kontrollen nach den wöchentlichen Haus- und Geländebegehungen statt. Die Personen wurden nach Geschlechtern getrennt mithilfe von Handmetalldetektoren am Eingang überprüft. Dabei wurden nach Auskunft des DRK-Landesverbandes in Einzelfällen, die von dem DRK-Landesverband statistisch nicht erfasst werden, Stich- und Hiebgegenstände, zum Beispiel Messer, gefunden, die den Bewohnern abgenommen wurden. Die Einschaltung der zuständigen Behörde war nicht erforderlich.
 

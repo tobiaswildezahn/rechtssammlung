@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 12
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2905", "21/1838"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52821"
@@ -43,17 +44,17 @@ Ab wann gelten Flüchtlinge/Asylbewerber als „vordringlich Wohnungssuchende“
 
 Flüchtlinge können im Regelfall nach den Vorgaben der Fachanweisung der Behörde für Stadtentwicklung und Umwelt (seit 01.Juli 2015 Behörde für Stadtentwicklung und Wohnen) gemäß § 45 Absatz 2, 3 Bezirksverwaltungsgesetz (BezVG) über die Versorgung von vordringlich Wohnungsuchenden mit Wohnraum als vordringlich Wohnungsuchende anerkannt werden, wenn sie
 
- einen Aufenthaltstitel für mindestens ein Jahr haben und
+– einen Aufenthaltstitel für mindestens ein Jahr haben und
 
- zu einer der in der vorgenannten Fachanweisung Teil 1 genannten Fallgruppen
+– zu einer der in der vorgenannten Fachanweisung Teil 1 genannten Fallgruppen
 
 gehören
 
 oder
 
- einen Aufenthaltstitel für mindestens ein Jahr haben und
+– einen Aufenthaltstitel für mindestens ein Jahr haben und
 
- wohnungs-/obdachlos sind (die Einhaltung der Einkommensgrenzen ist hier nicht
+– wohnungs-/obdachlos sind (die Einhaltung der Einkommensgrenzen ist hier nicht
 
 Voraussetzung).
 

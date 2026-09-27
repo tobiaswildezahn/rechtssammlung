@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 18
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/16786", "21/14094"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/67240"
@@ -47,7 +48,7 @@ Wurde die Park+Ride-Anlage am U-Bahnhof Ohlstedt bereits durch die P+R-Betriebsg
 
 Ist weiterhin geplant, die Park+Ride-Anlage am U-Bahnhof Ohlstedt auf die P+R-Betriebsgesellschaft mbH zu übertragen? Wenn ja, zu welchem Zeitpunkt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/14094.
 

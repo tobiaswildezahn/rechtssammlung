@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 11
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2597"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51707"
@@ -163,7 +164,7 @@ Im Jahr 2008 fand im Bürgerhaus Wilhelmsburg ein Workshop der ARGE Elbe zum Sau
 
 In welcher Art und Weise wurden die Erkenntnisse und konkreten Handlungsvorschläge aus dem Workshop von 2008 und 2011 seitdem weiterverfolgt beziehungsweise umgesetzt?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Die auf dem FGG Elbe/ARGE ELBE Workshops „Sauerstoffhaushalt der Tideelbe“ am
 22. April 2008 vorgestellten Präsentationen finden sich auf der Web-Seite der Flussgebietsgemeinschaft Elbe unter:

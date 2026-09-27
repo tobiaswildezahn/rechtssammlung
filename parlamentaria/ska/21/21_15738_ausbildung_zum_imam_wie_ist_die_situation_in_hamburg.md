@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 22
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65232"
@@ -83,7 +84,7 @@ Hat die zuständige Stelle beziehungsweise Behörde Kenntnisse darüber, wie vie
 
 Hat die zuständige Stelle beziehungsweise Behörde Kenntnisse darüber, wie viele Moscheen anderer Verbände Imame aus dem Ausland beschäftigen und wie deren Bezahlung erfolgt? a. Wenn ja, welche Kenntnisse sind dies? b. Wie erfolgt eine Beobachtung dieser Imame durch den Verfassungsschutz beziehungsweise sonstige Überprüfungen und welche Erkenntnisse ergaben sich bisher? c. Gab beziehungsweise gibt es Anzeichen von Radikalisierung beziehungsweise Vorfälle, die rechtlich verfolgt werden? d. Wenn nein, warum nicht?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Das Landesamt für Verfassungsschutz (LfV) Hamburg beobachtet keine Imame als solche. Darüber hinaus ist der Begriff „Imam“ im bundeseinheitlich geführten Kriminalpolizeilichen Meldedienst Politisch motivierte Kriminalität (KPMD-PMK) kein feststehender Katalogwert. Für die Beantwortung der Fragestellungen wäre eine Durchsicht sämtlicher Hand- und Ermittlungsakten der Abteilung Staatsschutz im Landeskriminalamt erforderlich. Die Auswertung mehrerer Tausend Vorgänge ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 

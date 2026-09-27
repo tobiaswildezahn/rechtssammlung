@@ -14,6 +14,7 @@ fragen: 16
 einzelfragen: 23
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52965"
@@ -69,7 +70,7 @@ Welche Brückenbauwerke wurden saniert beziehungsweise neu errichtet? Bitte mit 
 
 Welche der vorgenannten Sanierungen beziehungsweise Neuerrichtungen erfolgte ohne vorherige Sperrung oder nutzungseinschränkende Maßnahmen?
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Folgende Brücken wurden in den letzten beiden Jahren instand gesetzt. Durch diese Instandsetzungsmaßnahmen wird die erwartete Lebensdauer nicht verlängert. Neue Brückenbauwerke wurden in den letzten Jahren nicht errichtet. Im Übrigen siehe Anlage.
 
@@ -120,7 +121,7 @@ Wie stellt sich die Entwicklung der Rahmenzuweisung „Kleine Wasserwirtschaftli
 
 Wie weit wurden die vorgenannten Rahmenzuweisungen in den vorgenannten Jahren ausgenutzt? Bitte nach Jahren aufschlüsseln.
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Rahmenzuweisung „Kleine wasserwirtschaftliche Baumaßnahmen“ besteht seit dem Jahr 2013. Die Mittel dieser Rahmenzuweisung wurden im Rahmen der Bezirksverwaltungsreform aus der Zweckzuweisung „Wasserwirtschaftliche Baumaßnahmen“ herausgelöst und stellen sich in den Jahren 2013 bis 2016 für den Bezirk Bergedorf wie folgt dar:
 

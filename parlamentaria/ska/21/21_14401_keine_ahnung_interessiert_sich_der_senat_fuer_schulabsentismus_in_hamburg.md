@@ -14,6 +14,7 @@ fragen: 17
 einzelfragen: 23
 antwortbloecke: 15
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14266", "21/2476", "21/12738"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/63830"
@@ -164,7 +165,7 @@ In wie vielen Fällen wurden Strafanzeigen gestellt? (Bitte nach Schuljahren, St
 
 Wie hoch ist die Zahl der Beschuldigten in Fällen von Strafanzeigen wegen Schulabsentismus? (Bitte, nach Schuljahren aufgeschlüsselt, Stadtteile, Schulen und Schulformen mit SuS-Zahlen und KESS-Faktor angeben und nach Geschlecht und Tatbestand aufschlüsseln.)
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Eine händische Auswertung der derzeit bei der Staatsanwaltschaft verfügbaren, im Vorgangsverwaltungs- und Vorgangsbearbeitungssystem (unter anderem) wegen des Vorwurfs einer Straftat nach § 114 Hamburgisches Schulgesetz erfassten Verfahrensakten hat Folgendes ergeben:
 
@@ -270,7 +271,7 @@ Es ist bekannt, dass Schulabsentismus ein Grund für den Sorgerechtsentzug und d
 
 Welche sachlichen und fachlichen Gründe liegen vor, diesen Grund nicht statistisch zu erfassen?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Schulische Probleme vielfältiger Art können neben anderen zum Beispiel familiären Problemen mit ein Anlass für auswärtige Unterbringungen sein. In wie vielen Fällen auswärtiger Unterbringung zugleich Fälle von Schulabsentismus vorliegen, wird statistisch nicht erfasst.
 

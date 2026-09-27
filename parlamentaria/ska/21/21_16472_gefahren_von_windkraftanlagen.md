@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 6
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65992"
@@ -59,17 +60,17 @@ Welche sonstigen Maßnahmen und Auflagen sieht der Senat beziehungsweise sehen d
 
 Alle Windkraftanlagen in den gängigen MW-Klassen weisen heute die folgenden Sicherheitsmerkmale auf:
 
- Blitzschutz der Rotorblätter wie auch der gesamten Anlage,
+– Blitzschutz der Rotorblätter wie auch der gesamten Anlage,
 
- redundante Bremssysteme,
+– redundante Bremssysteme,
 
- Überwachung aller Betriebsparameter online,
+– Überwachung aller Betriebsparameter online,
 
- Schwingungsüberwachung, Chassis, Getriebe, Generator,
+– Schwingungsüberwachung, Chassis, Getriebe, Generator,
 
- Kühlung von Generator und Getriebeöl,
+– Kühlung von Generator und Getriebeöl,
 
- Überspannungsschutz für die Schalt- und Regeleinrichtungen
+– Überspannungsschutz für die Schalt- und Regeleinrichtungen
 
 Darüber hinaus werden in den Inhalts- und Nebenbestimmungen der immissionsschutzrechtlichen Genehmigung Auflagen zum Lärmschutz, Schattenwurf und Eiswurf/Eisabfall festgelegt.
 

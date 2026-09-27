@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49422"
@@ -57,7 +58,7 @@ den
 gegebenen  
 Umständen für die denkmalgeschützten, nitrosaminenbelasteten Gebäude?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 N-Nitrosamine sind als krebserzeugende Stoffe der Kategorie 1b eingestuft (europäisches Gefahrstoffrecht). Zur Abwehr gesundheitsschädlicher Wirkungen gilt für solche Stoffe grundsätzlich das Minimierungsgebot. Umfangreiche Messungen im Jahr 2008 ergaben N-Nitrosamin-Werte, die weit über den Konzentrationen liegen, die nach Erkenntnissen von internationalen Organisationen und Fachinstitutionen mit einem Krebserkrankungsrisiko verbunden sind.
 

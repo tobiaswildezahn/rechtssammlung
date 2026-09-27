@@ -14,6 +14,7 @@ fragen: 4
 einzelfragen: 10
 antwortbloecke: 3
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/6322", "20/8236"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/54466"
@@ -59,7 +60,7 @@ Beim BKA gibt es offenbar eine Grundsatzempfehlung „Allgemeine Grundsätze zur
 
 Findet die BKA-Grundsatzempfehlung hier Anwendung?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die im Jahr 2003 durch den Arbeitskreis II – Innere Sicherheit – der Innenministerkonferenz (AK II) sowie der Arbeitsgemeinschaft der Leiter der Landeskriminalämter mit dem Bundeskriminalamt (AG Kripo) abgestimmte Grundsatzempfehlung findet bei der
 

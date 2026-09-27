@@ -14,6 +14,7 @@ fragen: 20
 einzelfragen: 35
 antwortbloecke: 14
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2108", "21/6211", "21/5635"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/55029"
@@ -43,7 +44,7 @@ Wie viele Personen sind in der EA Fiersbarg zurzeit untergebracht?
 
 Wie viele davon sind erwachsene Männer, erwachsene Frauen, wie viele davon Kinder (Anteil Jungen, Mädchen)? Wie ist die Altersstruktur (Jüngste/r, Älteste/r, Durchschnittsalter)?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Geschlecht  
 Erwachsene  
@@ -85,21 +86,21 @@ Aus welchen Unterkünften kommen sie?
 
 Es wurden aus den folgend genannten Erstaufnahmeeinrichtungen (EA) Asylsuchende in die EA Fiersbarg verlegt:
 
- Ankunftszentrum Rahlstedt
+– Ankunftszentrum Rahlstedt
 
- Oktaviostraße
+– Oktaviostraße
 
- Wiesendamm
+– Wiesendamm
 
- Rugenbarg
+– Rugenbarg
 
- Amalie-Sieveking-Krankenhaus
+– Amalie-Sieveking-Krankenhaus
 
- Kieler Straße
+– Kieler Straße
 
- Geutensweg
+– Geutensweg
 
- Ohlstedter Platz
+– Ohlstedter Platz
 
 ### Frage 6
 
@@ -139,7 +140,7 @@ Gab es im Oktober 2016 Menschen, die die Unterkunft nicht beziehen wollten? Wenn
 
 Gab es im Oktober 2016 Menschen, die die Unterkunft auf eigene Faust verlassen haben? Wenn ja, wie viele und aus welchen Gründen?
 
-#### Antwort zu Fragen 9 bis 10
+#### Antwort zu Fragen 9 und 10
 
 Nein.
 
@@ -194,7 +195,7 @@ c) Sicherheit?
 
 Wie viele davon tagsüber (7 – 18 Uhr), wie viele davon nachts (18 – 7 Uhr)? Wenn es abweichende Dienstzeiten gibt, bitte diese nennen und die Aufschlüsselung hiernach geben.
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Drs. 21/6211.
 

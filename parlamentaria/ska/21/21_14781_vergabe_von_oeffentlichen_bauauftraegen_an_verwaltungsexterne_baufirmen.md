@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64222"
@@ -75,7 +76,7 @@ a) dauerte es länger als ein Vierteljahr, um ein durchführendes Unternehmen zu
 b) dauerte es länger als ein Jahr, um ein durchführendes Unternehmen zu gewinnen?
 c) konnte kein Unternehmen gewonnen werden, um den Auftrag durchzuführen?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage 2.
 

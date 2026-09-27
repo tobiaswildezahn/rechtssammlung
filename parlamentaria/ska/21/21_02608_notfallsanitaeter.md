@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 14
 antwortbloecke: 10
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50909"
@@ -93,7 +94,7 @@ Welche zusätzlichen Leistungen dürfen Notfallassistenten gegenüber den Rettun
 
 Welche Hamburger Gesetze wurden geändert, damit Notfallsanitäter das ihnen aufgrund ihrer Ausbildung mögliche Behandlungsspektrum auch einsetzen können?
 
-#### Antwort zu Fragen 6 bis 7
+#### Antwort zu Fragen 6 und 7
 
 Bisher keine.
 

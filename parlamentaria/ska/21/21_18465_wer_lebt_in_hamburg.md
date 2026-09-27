@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 10
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/17827"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68122"
@@ -45,7 +46,7 @@ Wie viele Menschen lebten zum Stichtag 30.06.2019 insgesamt in Hamburg? Bitte na
 
 Wie ist die Altersstruktur der Hamburgerinnen und Hamburger zum Stichtag 30.06.2019? Bitte nach Geschlecht differenzieren.
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Hamburger Bevölkerung nach Geschlecht und Altersgruppen zum Stichtag
 
@@ -108,7 +109,7 @@ Wie viele Menschen mit Migrationshintergrund leben zum Stichtag
 
 Wie ist die Altersstruktur der Hamburgerinnen und Hamburger mit Migrationshintergrund zum Stichtag 30.06.2019 insgesamt? Bitte nach Geschlecht differenzieren.
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 
 

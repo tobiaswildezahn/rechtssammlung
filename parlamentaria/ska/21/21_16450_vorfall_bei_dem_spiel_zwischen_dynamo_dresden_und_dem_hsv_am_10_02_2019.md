@@ -14,6 +14,7 @@ fragen: 8
 einzelfragen: 17
 antwortbloecke: 7
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65965"
@@ -96,7 +97,7 @@ Welche Maßnahmen wurden von der Polizei ergriffen, um den Abreiseweg der Dynamo
 
 Der Abreiseweg der Dynamo-Fans wurde durch Wasserwerfer abgesichert. An welchen Örtlichkeiten waren Wasserwerfer aufgestellt? a. In welche Richtung waren die Wasserwerfer jeweils aufgestellt? Bitte jeweiligen Aufstellungsort benennen. b. An welchen Örtlichkeiten hatten die Wasserwerfer während der Abreise ihre Scheinwerfer in Betrieb? c. Waren vor Ort andere Großfahrzeuge der Polizei (zum Beispiel Räumpanzer, größere Busse) im Einsatz? Wenn ja, wo? Und hatten diese ebenfalls Scheinwerfer während der Abreise in Betrieb?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Die Polizei hat bei diesem Einsatz Wasserwerfer mitgeführt, auch im Rahmen der Fanbegleitung. Bei diesen waren die Beleuchtungseinrichtungen in unterschiedlicher Form in Betrieb. Da die Fahrzeuge in Bewegung gesetzt waren, ist eine Beantwortung im Sinne der Fragestellung nicht möglich.
 
@@ -110,17 +111,17 @@ Im Einsatzprotokollsystem der Polizei Hamburg ist vermerkt, dass im Einsatzabsch
 
 Die am Ort dieses Geschehens eingesetzten Polizeibeamtinnen und -beamten aus Schleswig-Holstein führten einen Notfall-Krankentransportwagen mit, der mit zwei Rettungssanitätern besetzt war. Mit diesem Fahrzeug und dessen Besatzung sollte die Erstversorgung der eingesetzten Beamtinnen und Beamten und bei Bedarf, wie in diesem Fall, auch anderer Personen sichergestellt werden. Es dient grundsätzlich nicht dem Krankentransport und ist für einen schonenden Transport auch ungeeignet. Für einen erforderlichen Krankentransport wird regelmäßig auf die regionalen Rettungsdienste zurückgegriffen. Dies gilt auch für einen erforderlichen Transport von verletzten Polizeibeamtinnen und -beamten. Auch ein Verbringen der verletzten Person für die Erstversorgung in das Fahrzeug war aufgrund des unklaren Verletzungsmusters nicht angezeigt. Durch die vor Ort befindliche polizeiliche Rettungsassistentin wurden unmittelbar folgende Maßnahmen eingeleitet:
 
- Bodycheck,
+– Bodycheck,
 
- Anamnese, Aufklären des Patienten über die getroffenen Maßnahmen,
+– Anamnese, Aufklären des Patienten über die getroffenen Maßnahmen,
 
- Betreuung in belassener Position,
+– Betreuung in belassener Position,
 
- Wärmeerhalt,
+– Wärmeerhalt,
 
- fortlaufende Kontrolle der Vitalfunktionen,
+– fortlaufende Kontrolle der Vitalfunktionen,
 
- Abschirmen des Patienten gegen störende Personen aus der Fangruppe.
+– Abschirmen des Patienten gegen störende Personen aus der Fangruppe.
 
 Die erstversorgende polizeiliche Rettungssanitäterin forderte unverzüglich einen Rettungswagen an.
 

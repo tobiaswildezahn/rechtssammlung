@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 9
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9298"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64063"
@@ -53,7 +54,7 @@ Wie lange lag die AIDAsol am Anleger in Altona?
 
 Ist es richtig, dass die AIDAsol auch diesmal nur einen Teil ihrer Liegezeit in Altona den Energiebedarf mit Landstrom betrieben hat? Wenn ja: Welche Gründe lagen dafür vor und welche Emissionen wurden in der landstrom-„freien“ Zeit emittiert?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Vorbemerkung. Die AIDAsol lag am 27. September 2018 von 6.37 Uhr bis
 18.30 Uhr am Cruise Center Altona. Während dieser Liegezeit erfolgte eine planmäßige Teilversorgung der AIDAsol mit Landstrom. Der Grund für die Teilversorgung ist das von der Bundesnetzagentur eingeführte sogenannte Hochlastzeitfenster, das den Stromverbrauch in Deutschland steuern soll. Wird in diesem Zeitfenster Strom bezogen, steigen die Netzentgelte dramatisch an. So soll durch verbindliche Vorgaben der Bundesnetzagentur und durch wirtschaftliche Anreize die Netznutzung in bestimmten

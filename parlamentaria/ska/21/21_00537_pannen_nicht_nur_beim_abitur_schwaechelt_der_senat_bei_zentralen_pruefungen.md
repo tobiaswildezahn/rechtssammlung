@@ -14,6 +14,7 @@ fragen: 35
 einzelfragen: 41
 antwortbloecke: 21
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["18/2481", "18/3152", "21/361"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/48686"
@@ -213,7 +214,7 @@ An welchen Schulen mussten danach in welchen Fächern Aufgabenstellungen aufgrun
 
 Welche Prüfungsfächer und welche prüfungsrelevanten Kompetenzen beziehungsweise auch konkreten Inhalte waren hiervon an welchen Schulen betroffen und ist auszumachen, inwieweit es sich um Kompetenzen handelt, die erst im Verlauf der zehnten Klasse oder aber schon vorher (wann genau laut Rahmenplan) in prüfungstauglicher Form hätten vermittelt werden müssen?
 
-#### Antwort zu Fragen 14 bis 15
+#### Antwort zu Fragen 14 und 15
 
 Entfällt.
 
@@ -259,7 +260,7 @@ Zu welchem Zeitpunkt werden die MSA-Prüfungsfragen den Schulen auf welchem Wege
 
 Gilt Vorgenanntes gleichermaßen für alle Prüfungsfächer oder weichen die Modalitäten in den Fächern Deutsch, Mathematik und 1. Fremdsprache (Englisch) voneinander ab, wenn ja inwiefern?
 
-#### Antwort zu Fragen 21 bis 22
+#### Antwort zu Fragen 21 und 22
 
 Die Prüfungsarbeiten werden den Schulen jeweils am Schultag vor dem 1. Schreibtermin per Kurier in Schüler- beziehungsweise Lehrerstärke in gedruckter Form geliefert. Die versiegelten Sendungen dürfen jeweils erst am Morgen der Prüfung in der Schule geöffnet werden.
 

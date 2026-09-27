@@ -14,6 +14,7 @@ fragen: 12
 einzelfragen: 17
 antwortbloecke: 11
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/10495"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66316"
@@ -257,7 +258,7 @@ Wie steht der Senat beziehungsweise die SRH dem Vorschlag gegenüber, die Öffnu
 
 Wie viel zusätzliches Personal würde für die Ausweitung der Samstags- Öffnungszeiten aller zwölf Recyclinghöfe von 8 bis 14 Uhr auf 8 bis 17 Uhr benötigt und welche Personalkosten entstünden dadurch?
 
-#### Antwort zu Fragen 11 bis 12
+#### Antwort zu Fragen 11 und 12
 
 Für den hypothetischen Fall von erweiterten Öffnungszeiten rechnet die SRH mit etwa 17 000 zusätzlichen Arbeitsstunden. Insgesamt würden sich dadurch zusätzliche Personalkosten in Höhe von circa 498 000 Euro pro Jahr ergeben.
 

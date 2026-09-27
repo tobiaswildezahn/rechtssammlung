@@ -14,6 +14,7 @@ fragen: 3
 einzelfragen: 10
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50609"
@@ -55,6 +56,6 @@ Wer war für den Transfer per Bus-Shuttle ab dem Hamburger Dammtor- Bahnhof am 1
 
 Welche Shuttles hat es neben dem eingerichteten Bus-Shuttle ab dem Hamburger Dammtor-Bahnhof am 13. September 2015 noch gegeben? Wie wurden die Anreisenden jeweils transportiert? Wer war für die Einrichtung welcher Shuttles jeweils zuständig, wer hat sie organisiert, wer ist für die Kosten aufgekommen und auf welche Höhe beliefen diese sich im Einzelnen?
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Es ist allgemein üblich, dass die Kreuzfahrtunternehmen ihre Shuttleverbindungen eigenverantwortlich organisieren. Die Stadt Hamburg hat der Reederei keine in diesem Zusammenhang entstandenen Kosten erstattet. Der zuständigen Behörde liegen darüber hinaus keine weiteren Angaben vor.

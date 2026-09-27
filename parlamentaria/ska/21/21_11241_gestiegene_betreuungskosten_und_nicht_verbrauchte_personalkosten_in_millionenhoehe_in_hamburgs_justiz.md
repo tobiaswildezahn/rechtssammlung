@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 7
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/11212"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/60252"
@@ -53,7 +54,7 @@ Wie hat sich die Anzahl der gerichtlich bestellten Betreuungen in Hamburg bislan
 
 Wie hat sich die Anzahl der neu gestellten Anträge auf Betreuungen gemäß § 1896 BGB in Hamburg bislang im Jahre 2017 entwickelt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Die Entwicklung der Betreuungen, der Anzahl der Anträge und die Anzahl der erledigten Verfahren sind in der folgenden Tabelle dargestellt:
 

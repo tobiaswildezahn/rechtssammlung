@@ -14,6 +14,7 @@ fragen: 10
 einzelfragen: 13
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/3934", "18/5054", "21/1584", "16/4616", "21/1121"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52474"
@@ -109,7 +110,7 @@ Welche Veränderungen sind bezüglich der polizeilichen Präsenz im Wahlkreis Al
 
 Wie bewertet der Senat die polizeiliche Präsenz sowie die derzeitigen Eintreffzeiten der Polizei im Wahlkreis Alstertal/Walddörfer?
 
-#### Antwort zu Fragen 8 bis 9
+#### Antwort zu Fragen 8 und 9
 
 Die Polizei setzt das ihr zur Verfügung stehende Personal lageorientiert sowie nach Schwerpunktsetzung ein und trifft die jeweils erforderlichen Maßnahmen. Die polizeiliche Präsenz und die Eintreffzeiten der Polizei entsprechend den gesamthamburgischen Verhältnissen.
 

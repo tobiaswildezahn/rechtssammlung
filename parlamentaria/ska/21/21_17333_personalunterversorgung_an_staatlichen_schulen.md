@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 2
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/15798"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/66910"
@@ -118,6 +119,6 @@ Wie viele dieser Lehrkräfte mit einem befristeten Lehrauftrag haben ein Lehramt
 
 Wie viele dieser Lehrkräfte mit einem befristeten Lehrauftrag haben kein Lehramtsstudium absolviert und kein erstes Staatsexamen?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Zur Feststellung der Qualifikation der Lehrkräfte müssten rund 1 600 Fälle manuell ausgewertet werden. Dies ist in der für eine Parlamentarische Anfrage zur Verfügung stehenden Zeit nicht zu leisten.

@@ -14,6 +14,7 @@ fragen: 11
 einzelfragen: 24
 antwortbloecke: 8
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/50327"
@@ -105,7 +106,7 @@ Welche Vorhaben aus dem Koalitionsvertrag hat der Senat bisher umgesetzt, um die
 
 Welche Prozesse hat der Senat bisher befördert und welche Netzwerke hat er für Unternehmen unterstützt? Welche Maßnahmen wurden warum nicht erfolgreich umgesetzt?
 
-#### Antwort zu Fragen 5 bis 6
+#### Antwort zu Fragen 5 und 6
 
 Siehe Antworten zu 4. a., zu 7. und zu 9.
 

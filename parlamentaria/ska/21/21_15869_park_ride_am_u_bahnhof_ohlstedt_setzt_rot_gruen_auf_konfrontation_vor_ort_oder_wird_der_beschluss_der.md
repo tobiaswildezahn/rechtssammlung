@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 11
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14094"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/65358"
@@ -47,7 +48,7 @@ Wurde die Park+Ride-Anlage am U-Bahnhof Ohlstedt bereits durch die P+R-Betriebsg
 
 Ist weiterhin geplant, die Park+Ride-Anlage am U-Bahnhof Ohlstedt auf die P+R-Betriebsgesellschaft mbH zu übertragen? Wenn ja, zu welchem Zeitpunkt?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Siehe Drs. 21/14094.
 
@@ -59,7 +60,7 @@ Welche Erörterungen fanden im Einzelnen jeweils wann nach der Beschlussfassung 
 
 Welche Planungen und Überlegungen gibt es derzeit im Einzelnen zur Durchführung welcher Instandsetzungs-, Modernisierungs-, Umbau- und Ausbaumaßnahmen der P+R-Anlage Ohlstedt? Wann sollen diesbezügliche Planungen abgeschlossen sein? Wann wird mit der Umsetzung gerechnet?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Die P+R-Betriebsgesellschaft mbH hat bereits vor Juni des Jahres 2018 mehrfach Planungen für den Standort in Ausschüssen der Bezirksversammlung Wandsbek erläutert. Im November des Jahres 2018 fand ein Gespräch mit Mitgliedern der Bezirksversammlung Wandsbek sowie der Bürgerschaft statt.
 

@@ -14,6 +14,7 @@ fragen: 7
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/18425", "21/15656"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/68255"
@@ -61,7 +62,7 @@ Welche Seniorentreffs sind gezielt in jeweils welchen generationenübergreifende
 
 Welche Erfahrungen wurden je Standort in generationenübergreifenden Einrichtungen gemacht?
 
-#### Antwort zu Fragen 3 bis 4
+#### Antwort zu Fragen 3 und 4
 
 Siehe Anlage 1.
 
@@ -197,21 +198,21 @@ Kirchengemeinde
 St. Martinus.
 
 19,25 Std.  
-  
+–  
 Organisatorische Tätigkeiten  
-  
+–  
 Administrative  
 Tätigkeiten  
-  
+–  
 Gewinnung  
 Gruppenleitungen und  
 Besucherinnen  
 und Besuchern  
-  
+–  
 Öffentlichkeitsarbeit  
-  
+–  
 Ansprechpartnerin  
-  
+–  
 Durchführung  
 von Veranstaltungen
 

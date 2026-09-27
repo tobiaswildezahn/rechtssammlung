@@ -14,6 +14,7 @@ fragen: 14
 einzelfragen: 27
 antwortbloecke: 9
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/2919", "21/2177", "21/3271"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/51991"
@@ -122,7 +123,7 @@ Hält der Senat die im Oktober 2015 getroffene Vereinbarung mit der EU- Kommissi
 
 Hält der Senat die im Oktober 2015 getroffene Vereinbarung mit der EU- Kommission für hinreichend, damit die HSH Nordbank die europäischen Auflagen an das harte Kernkapital von Banken erfüllt? Wenn nein, inwiefern?
 
-#### Antwort zu Fragen 12 bis 13
+#### Antwort zu Fragen 12 und 13
 
 Siehe Drs. 21/2177. Darüber hinaus hat der Senat hierzu keine weiteren Annahmen getroffen oder neuen Prognosen aufgestellt. Die Länder Hamburg und Schleswig- Holstein arbeiten konsequent und konstruktiv an der Umsetzung der am 19. Oktober 2015 getroffenen Verständigung zum Abschluss des Beihilfeverfahrens der HSH Nordbank, die Verhandlungen und Gespräche hierzu sind aber noch nicht abgeschlossen.
 

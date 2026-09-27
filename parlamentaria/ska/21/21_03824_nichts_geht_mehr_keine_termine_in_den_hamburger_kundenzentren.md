@@ -14,6 +14,7 @@ fragen: 18
 einzelfragen: 22
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/4213", "21/4506"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/52187"
@@ -113,7 +114,7 @@ Welche Lösungen beziehungsweise Hilfestellungen werden den Hamburgern angeboten
 
 Was unternimmt der Senat beziehungsweise die zuständige Behörde, um lange Wartezeiten in den Kundenzentren (ohne Terminvereinbarungen) für spezifische Gruppen, wie ältere Menschen, Behinderte, Eltern mit Kindern und Berufstätige zu vermeiden?
 
-#### Antwort zu Fragen 16 bis 17
+#### Antwort zu Fragen 16 und 17
 
 Grundsätzlich können alle Dienstleistungen auch ohne Terminvereinbarung in Anspruch genommen werden. Für ältere und behinderte Kunden werden individuelle Lösungen angeboten. Im Übrigen siehe Antwort zu 6. bis 15.
 

@@ -14,6 +14,7 @@ fragen: 9
 einzelfragen: 12
 antwortbloecke: 6
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/714"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/49073"
@@ -81,7 +82,7 @@ Welche Betriebe nutzen den Travehafen als Wasserliegeplatz und welche Wassertief
 
 Gibt es Beschwerden von Nutzern oder Inhabern wasserrechtlicher Erlaubnisse des Travehafens über zu geringe Wassertiefen im Travehafen seit 2011 bis heute? Wenn ja, wie hat die HPA auf diese Beschwerden reagiert? Bitte getrennt nach den einzelnen Jahren angeben.
 
-#### Antwort zu Fragen 4 bis 5
+#### Antwort zu Fragen 4 und 5
 
 Für die ausschließliche Nutzung einer öffentlichen Wasserfläche für einen einzelnen Nutzer erteilt die Wasserbehörde der HPA auf Antrag eine wasserrechtliche Genehmigung. In jeder wasserrechtlichen Genehmigung ist ausdrücklich aufgeführt, dass ein Genehmigungsinhaber keinerlei Anspruch auf eine bestimmte Wassertiefe hat. Auch aus dem Wasserrecht lässt sich kein Anspruch auf Wassertiefe innerhalb einer wasserrechtlich genehmigten Fläche für den jeweiligen Nutzer ableiten. Vor diesem Hintergrund gab es keine Beschwerden bei der zuständigen Wasserbehörde über nicht vorhandene Wassertiefe in genehmigten Wasserflächen.
 

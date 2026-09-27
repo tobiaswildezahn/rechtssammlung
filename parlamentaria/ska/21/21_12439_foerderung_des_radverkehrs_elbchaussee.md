@@ -14,6 +14,7 @@ fragen: 5
 einzelfragen: 7
 antwortbloecke: 4
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/61732"
@@ -45,23 +46,23 @@ Die Sanierung der Trinkwasserleitung auf der rund 8 Kilometer langen Strecke wir
 
 Gemeinsames Ziel der beiden Projekte ist dabei, die Nutzbarkeit der Elbchaussee für alle Verkehrsteilnehmer zu verbessern – egal ob sie mit Auto, Bus, Rad oder zu Fuß unterwegs sind. Konkret soll Folgendes erreicht werden:
 
- Die Trinkwasserversorgung bleibt durch die geplante Erneuerung der Leitung wei-
+– Die Trinkwasserversorgung bleibt durch die geplante Erneuerung der Leitung wei-
 
 terhin sichergestellt
 
- Die Leistungsfähigkeit der Elbchaussee für den Pkw-Verkehr soll durch die Umge-
+– Die Leistungsfähigkeit der Elbchaussee für den Pkw-Verkehr soll durch die Umge-
 
 staltung nicht beeinträchtigt und in Kreuzungsbereichen, wo es möglich ist, verbessert werden
 
- Der Radverkehr soll sicherer und komfortabler werden, indem dort, wo es möglich
+– Der Radverkehr soll sicherer und komfortabler werden, indem dort, wo es möglich
 
 ist, Schutzstreifen oder Radfahrstreifen eingerichtet werden
 
- Der ruhende Verkehr soll besser geordnet und das „wilde Parken“ unterbunden
+– Der ruhende Verkehr soll besser geordnet und das „wilde Parken“ unterbunden
 
 werden, damit vor allem Fußgängerinnen und Fußgänger mehr Platz haben und die Aufenthaltsqualität steigt
 
- Dabei soll der Charakter der Elbchaussee mit ihrem alten Baumbestand, den Ein-
+– Dabei soll der Charakter der Elbchaussee mit ihrem alten Baumbestand, den Ein-
 
 friedungen und teils unbefestigten Flächen möglichst weitgehend erhalten bleiben
 
@@ -79,7 +80,7 @@ Wie ist der aktuelle Sachstand im Hinblick auf die geplante fahrradfreundliche U
 
 Welche Abschnitte der Elbchaussee sollen dabei saniert werden?
 
-#### Antwort zu Fragen 1 bis 2
+#### Antwort zu Fragen 1 und 2
 
 Der Planungsbereich reicht derzeit von der Kreuzung Manteuffelstraße bis zum Altonaer Rathaus.
 
@@ -96,10 +97,16 @@ Siehe Vorbemerkung.
 ### Frage 4
 
 Ist es vorgesehen, im Rahmen des Starts der Fachplanung auch die Öffentlichkeit zu beteiligen?
-4.1. Wenn ja, wann startet diese Öffentlichkeitsbeteiligung?
-4.2. Wer soll dabei in welcher Form beteiligt werden?
 
-#### Antwort zu Frage 4
+### Frage 4.1
+
+Wenn ja, wann startet diese Öffentlichkeitsbeteiligung?
+
+### Frage 4.2
+
+Wer soll dabei in welcher Form beteiligt werden?
+
+#### Antwort zu Fragen 4, 4.1 und 4.2
 
 Die Wünsche und Anregungen der Anwohnerinnen und Anwohner sowie der Nutzerinnen und Nutzer der Elbchaussee sollen frühzeitig in die Planung einfließen. Deshalb veranstalten der LSBG und HAMBURG WASSER ein offenes Beteiligungsverfahren. Mit allen Interessierten wird von März bis voraussichtlich September des Jahres 2018 als Grundlage für das anschließende behördeninterne Planverfahren ein möglichst breit getragener Planungsvorschlag erarbeitet. Bereits seit Anfang Februar des Jahres 2018 führt der LSBG Gespräche unter anderem mit lokalen Initiativen, Vereinen, Verbänden und Gewerbebetrieben, um einen ersten Eindruck von den vor Ort gesehenen Bedarfen zu bekommen.
 

@@ -14,6 +14,7 @@ fragen: 6
 einzelfragen: 6
 antwortbloecke: 5
 beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["21/14656"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/64264"
@@ -100,7 +101,7 @@ In welcher Höhe hat der ADAC Hansa e.V. seit 2011 Finanzmittel von welchen stä
 
 In welcher Höhe hat der Verkehrsclub Deutschland (VCD) Landesverband Nord e.V. seit 2011 Finanzmittel von welchen städtischen Stellen wofür jeweils erhalten? Bitte jahresweise inklusive des laufenden Jahres aufschlüsseln.
 
-#### Antwort zu Fragen 2 bis 3
+#### Antwort zu Fragen 2 und 3
 
 Der ADAC Hansa e.V. sowie der Verkehrsclub Deutschland Landesverband (VCD) Nord e.V. haben von städtischen Stellen seit dem Jahr 2011 keine Finanzmittel im Sinne von Spenden und/oder Zuwendungen erhalten.
 
